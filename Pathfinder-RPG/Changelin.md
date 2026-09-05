@@ -14,8 +14,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4* p.28}
 {s:BDTexte|**PX** 200}
 {s:BDTexte|Changelin (f), sorcière 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([changelin](./sous-type changelin.md)) de taille M, LN}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type changelin|changelin]]) de taille M, LN}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA**  10, contact 9, pris au dépourvu 10 (Dex -1, naturelle +1)}
 {s:BDTexte|**pv** 8 (1d6+2)}
@@ -25,14 +25,14 @@ Categories:
 {s:BDTexte|**Corps à corps** griffes x2 +0 (1d4+1)}
 {s:BDTexte|**Attaques spéciales** maléfices (chaudron)}
 {s:BDTexte|**Sorts de sorcière préparés** (NLS 1 ; concentration +3)}
-{s:BDSorts|1<sup>er</sup> (2/jour) — *[hypnose](./Hypnose.md)* ([DD](./DD.md) 14), *[sommeil](./Sommeil.md)* ([DD](./DD.md) 14)}
-{s:BDSorts|0 (à volonté) — *[fatigue](./Fatigue.md)* ([DD](./DD.md) 13), *[hébétement](./Hébétement.md)* ([DD](./DD.md) 13), *[lumière](./Lumière.md)*}
-{s:BDTexte|**Protecteur** [transformation](./protecteurs.md)}
+{s:BDSorts|1<sup>er</sup> (2/jour) — *[[hypnose]]* ([[DD]] 14), *[[sommeil]]* ([[DD]] 14)}
+{s:BDSorts|0 (à volonté) — *[[fatigue]]* ([[DD]] 13), *[[hébétement]]* ([[DD]] 13), *[[lumière]]*}
+{s:BDTexte|**Protecteur** [[protecteurs|transformation]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 8, **Con** 12, **Int** 15, **Sag** 14, **Cha** 15}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 9}
-{s:BDTexte|**Dons** [Magie de guerre](./Magie de guerre.md), [Préparation de potions](./Préparation de potions.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +6, [Artisanat](./Artisanat.md) (alchimie) +10, [Connaissances](./Connaissances.md) (mystère) +6, [Premiers secours](./Premiers secours.md) +6}
+{s:BDTexte|**Dons** [[Magie de guerre]], [[Préparation de potions]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +6, [[Artisanat]] (alchimie) +10, [[Connaissances]] (mystère) +6, [[Premiers secours]] +6}
 {s:BDTexte|**Langues** commun, draconique, elfe, orque}
 {s:BDTexte|**Particularités** familier de sorcière (araignée), imposante}
 {s:BDSousTitre|Écologie}
@@ -81,5 +81,5 @@ Les changelins sont définies par leur niveau de classe, elles ne possèdent pas
 - **Vision dans le noir.** Les changelins voient dans le noir jusqu’à 18 mètres.
 - **Langues.** Les changelins commencent le jeu en parlant le commun et la langue principale de leur société adoptive. Celles qui possèdent une valeur d’Intelligence élevée peuvent choisir leurs langues supplémentaires parmi les suivantes : aklo, draconique, elfe, géant, gnoll, gobelin, nain et orque.
 
-{s:VoirAussiAvant}La page de la race [Changelin](./changelin (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Changelin (race)|Changelin]]{s:VoirAussiAprès}
 </div></td></tr></table>

@@ -7,10 +7,10 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:cm}**Cette option est plus courante chez les [géants du froid](./Géant du froid.md).**
+{s:cm}**Cette option est plus courante chez les [[Géant du froid|géants du froid]].**
 
 *Le personnage dégage un froid si intense qu’il blesse les autres créatures.*
 
-**Conditions.** [Géant du froid](./Géant du froid.md)
+**Conditions.** [[Géant du froid]]
 
 **Avantage.** Les armes naturelles et les attaques à mains nues du personnage infligent 1d6 points de dégâts supplémentaires de froid. Les créatures qui le touchent avec une arme naturelle ou à mains nues reçoivent 1 point de dégâts de froid.

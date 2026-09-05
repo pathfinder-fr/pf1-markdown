@@ -8,8 +8,8 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 15 po ; **Poids** 1,5 kg ; **Groupes** [lames légères](./groupe darmes.md#Lameslégères)
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** P ou T ; **Spécial** [spectacle](./Caractéristiques des armes.md#SPECTACLE)
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+{s:AE}{s:UC}**Prix** 15 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Lameslégères|lames légères]]
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** P ou T ; **Spécial** [[Caractéristiques des armes#SPECTACLE|spectacle]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
-Le gladius est l’épée préférée des gladiateurs. Sa lame est plus lourde que celle de l’[épée courte standard](./épée courte (arme).md). Les dons et les capacités qui affectent les épées courtes s’appliquent également au gladius.
+Le gladius est l’épée préférée des gladiateurs. Sa lame est plus lourde que celle de l’[[épée courte (arme)|épée courte standard]]. Les dons et les capacités qui affectent les épées courtes s’appliquent également au gladius.

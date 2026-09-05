@@ -11,14 +11,14 @@ Categories:
 
 {s:UC}*Le personnage prend son temps pour viser soigneusement. Tous ses coups frappent le même point.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), [BBA](./BBA.md) +6
+**Conditions.** [[Tir à bout portant]], [[Tir de précision]], [[BBA]] +6
 
-**Avantage.** Quand le personnage fait une [attaque à outrance](./attaque à outrance.md) pour tirer plusieurs projectiles sur un même adversaire, il comptabilise la totalité des dégâts avant d’appliquer la [RD](./RD.md).
+**Avantage.** Quand le personnage fait une [[attaque à outrance]] pour tirer plusieurs projectiles sur un même adversaire, il comptabilise la totalité des dégâts avant d’appliquer la [[RD]].
 
-**Spécial.** Si vous utilisez la règle optionnelle des [dégâts excessifs](./Blessures et mort.md#DEGÂTSEXCESSIFS), elle s’applique si ce don permet au personnage d’infliger à son adversaire un total de points de dégâts équivalant à la moitié de ses points de vie ou plus (50 au minimum).
+**Spécial.** Si vous utilisez la règle optionnelle des [[Blessures et mort#DEGÂTSEXCESSIFS|dégâts excessifs]], elle s’applique si ce don permet au personnage d’infliger à son adversaire un total de points de dégâts équivalant à la moitié de ses points de vie ou plus (50 au minimum).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Quand le personnage utilise ce don, il peut dépenser jusqu’à 2 points d’endurance par attaque qui touche la même cible. Il augmente les dégâts infligés d’un montant égal au nombre de points d’endurance dépensés.

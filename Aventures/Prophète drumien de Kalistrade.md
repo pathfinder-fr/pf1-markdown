@@ -31,5 +31,5 @@ En accumulant des richesses, les prophètes de la Kalistrade prouvent qu'ils son
 </div>
 
 {s:VoirAussiAvant}
-- Le [Druma](./../Golarion/Druma.md) et les [prophéties de Kalistrade](./../Golarion/Druma.md#Les_Prophéties_de_Kalistrade_3)
+- Le [[Golarion.Druma|Druma]] et les [[Golarion.Druma#Les_Prophéties_de_Kalistrade_3|prophéties de Kalistrade]]
 {s:VoirAussiAprès}

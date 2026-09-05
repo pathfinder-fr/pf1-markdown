@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ce cadre en métal fait pour accueillir une [torche](./Torche (objet).md) s'attache sur le devant d'une [rondache](./rondache (armure).md), d'un [écu](./écu (armure).md) ou d'un [pavois](./pavois (armure).md), permettant au personnage de porter une torche sans avoir à lâcher son bouclier et sans utiliser la main avec laquelle il tient son arme.
+Ce cadre en métal fait pour accueillir une [[Torche (objet)|torche]] s'attache sur le devant d'une [[rondache (armure)|rondache]], d'un [[écu (armure)|écu]] ou d'un [[pavois (armure)|pavois]], permettant au personnage de porter une torche sans avoir à lâcher son bouclier et sans utiliser la main avec laquelle il tient son arme.

@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Une fois par jour, le pouvoir de la foi submerge le personnage et renforce son jugement. *
 
-**Conditions.** Pouvoir de classe [jugement](./Inquisiteur.md#JUGEMENT)
+**Conditions.** Pouvoir de classe [[inquisiteur#JUGEMENT|jugement]]
 
 **Avantage.** Une fois par jour, quand le personnage utilise son pouvoir de jugement, il peut considérer son niveau de classe comme 3 crans plus élevés. S’il a plusieurs jugements actifs à la fois, cet avantage s’applique à tous.

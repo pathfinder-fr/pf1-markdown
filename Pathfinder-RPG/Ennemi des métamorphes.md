@@ -8,8 +8,8 @@ Categories:
 
 {s:uc}*Le personnage maîtrise la magie du changement de forme, ce qui lui permet d’empêcher les autres d’en user.*
 
-**Conditions.** 5 [rangs](./rang.md) en [Connaissances](./Connaissances.md) (mystères) ou (nature), capacité à utiliser un effet de métamorphose.
+**Conditions.** 5 [[rang|rangs]] en [[Connaissances]] (mystères) ou (nature), capacité à utiliser un effet de métamorphose.
 
-**Avantage.** Quand le personnage touche une créature, elle a du mal à utiliser ou maintenir un effet de [métamorphose](./Présentation des sorts.md#METAMORPHOSE_7) jusqu’à la fin du prochain tour du personnage. Si elle veut se servir d’un tel effet, elle doit réussir un test de [Concentration](./concentration.md) ([DD](./DD.md) 15 + deux fois le niveau de l’effet). Si le personnage inflige des dégâts à un adversaire métamorphosé, ce dernier doit réussir un jet de [Volonté](./Volonté.md), ([DD](./DD.md) 10 + 1/2 niveau du personnage + modificateur de [Sagesse](./Sagesse.md)) ou reprendre sa forme normale.
+**Avantage.** Quand le personnage touche une créature, elle a du mal à utiliser ou maintenir un effet de [[Présentation des sorts#METAMORPHOSE_7|métamorphose]] jusqu’à la fin du prochain tour du personnage. Si elle veut se servir d’un tel effet, elle doit réussir un test de [[Concentration]] ([[DD]] 15 + deux fois le niveau de l’effet). Si le personnage inflige des dégâts à un adversaire métamorphosé, ce dernier doit réussir un jet de [[Volonté]], ([[DD]] 10 + 1/2 niveau du personnage + modificateur de [[Sagesse]]) ou reprendre sa forme normale.
 
-Si le personnage réussit un [coup critique](./coup critique.md) contre un tel adversaire, la cible n’a pas droit au jet de sauvegarde.
+Si le personnage réussit un [[coup critique]] contre un tel adversaire, la cible n’a pas droit au jet de sauvegarde.

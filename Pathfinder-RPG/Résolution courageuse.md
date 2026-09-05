@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*Le personnage défend sa position, même quand les autres s’enfuient.*
 
-**Conditions.** [halfelin](./Halfelin.md), trait racial veule ou sans peur
+**Conditions.** [[halfelin]], trait racial veule ou sans peur
 
-**Avantages.** Si le personnage a le trait racial sans peur, son bonus racial aux [jets de sauvegarde](./jet de sauvegarde.md) contre les effets de terreur passe à +4. S’il a le trait veule, il subit toujours un malus de -2 à ces mêmes jets de sauvegarde, mais il peut profiter des bonus de moral aux jets de sauvegarde contre les effets de terreur.
+**Avantages.** Si le personnage a le trait racial sans peur, son bonus racial aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets de terreur passe à +4. S’il a le trait veule, il subit toujours un malus de -2 à ces mêmes jets de sauvegarde, mais il peut profiter des bonus de moral aux jets de sauvegarde contre les effets de terreur.

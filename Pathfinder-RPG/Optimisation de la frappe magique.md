@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage blesse grièvement les ennemis qu’il prend au dépourvu. *
 
-**Conditions.** [Arcane](./arcanes.md) de [magus](./Magus.md) [++Pathfinder-RPG.optimisation de la magie (arcane)|optimisation de la magie], [expertise martiale](./Samouraï.md#EXPERTISEMARTIALE) ou [Arme en main](./Arme en main.md)
+**Conditions.** [[arcanes|Arcane]] de [[magus]] [[Pathfinder-RPG.optimisation de la magie (arcane)|optimisation de la magie]], [[Samouraï#EXPERTISEMARTIALE|expertise martiale]] ou [[Arme en main]]
 
-**Avantage.** Quand le personnage arrive à utiliser la [frappe magique](./Magus.md#FRAPPEMAGIQUE) lors d’une attaque au corps à corps contre un adversaire privé de son bonus de [Dextérité](./Dextérité.md) à la CA, il peut dépenser 3 points de réserve magique pour optimiser le sort associé, comme s’il utilisait le don de métamagie [Quintessence des sorts](./Quintessence des sorts.md).
+**Avantage.** Quand le personnage arrive à utiliser la [[magus#FRAPPEMAGIQUE|frappe magique]] lors d’une attaque au corps à corps contre un adversaire privé de son bonus de [[Dextérité]] à la CA, il peut dépenser 3 points de réserve magique pour optimiser le sort associé, comme s’il utilisait le don de métamagie [[Quintessence des sorts]].

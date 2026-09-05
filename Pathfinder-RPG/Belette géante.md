@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 20*}
 - 400 PX
-- [Animal](./type Animal.md) de taille M, N
-- **Init** +4 ; **Sens **[vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +7
+- [[type animal|Animal]] de taille M, N
+- **Init** +4 ; **Sens **[[vision nocturne]], [[odorat]] ; [[Perception]] +7
 (((Défense)))
 - **CA **15, contact 14, pris au dépourvu 11 (Dex +4, naturelle +1)
 - **pv** 9 (2d8)
@@ -23,14 +23,14 @@ Categories:
 (((Attaque)))
 - **VD **12 m
 - **Corps à corps** morsure, +5 (1d6+3 et étreinte)
-- **Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1d2 Con), [étreinte](./Étreinte.md)
+- **Attaques spéciales** [[absorption de sang (capacité)|absorption de sang]] (1d2 Con), [[étreinte]]
 (((Statistiques)))
 - **For **14, **Dex **19, **Con** 10, **Int **2, **Sag **13, **Cha **11
 - **BBA** +1 ; **BMO **+3 (+7 en lutte) ; **DMD **17 (21 contre le croc-en-jambe)
-- **Dons **[Attaque en finesse](./Attaque en finesse.md)
-- **Compétences **[Discrétion](./Discrétion.md) +10, [Escalade](./Escalade.md) +6, [Natation](./Natation.md) +8, [Perception](./Perception.md) +7,
+- **Dons **[[Attaque en finesse]]
+- **Compétences **[[Discrétion]] +10, [[Escalade]] +6, [[Natation]] +8, [[Perception]] +7,
 - **Modificateurs raciaux** +6 en Discrétion, +4 en Escalade, +2 en Natation, +2 en Perception
-- **Particularités **[compression](./Compression.md)
+- **Particularités **[[compression]]
 (((Écologie)))
 - **Environnement **terre ferme
 - **Organisation **solitaire, couple ou nichée (3-6)
@@ -43,15 +43,15 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Belette](./Belette.md) || 1/2
+| Familier, [[Belette]] || 1/2
 |-
-| [Belette géante](./Belette géante.md) || 1
+| [[Belette géante]] || 1
 |-
-| [Belette sanguinaire](./Belette sanguinaire.md) || 3
+| [[Belette sanguinaire]] || 3
 |}
 </div>*Les longs crocs, le corps svelte et musclé et le chuintement agressif de cette créature de la taille d’un loup mettent en exergue sa nature prédatrice.*
 
-À l’identique des [belettes](./Belette.md) ordinaires, le corps des spécimens géants est svelte et tout en longueur. Leurs pattes sont courtes et la couleur de leur fourrure varie du brun roux au blanc immaculé.
+À l’identique des [[Belette|belettes]] ordinaires, le corps des spécimens géants est svelte et tout en longueur. Leurs pattes sont courtes et la couleur de leur fourrure varie du brun roux au blanc immaculé.
 
 Les belettes géantes sont des prédateurs actifs, tenaces et réputés pour leur ruse et leur rapidité. À la fois extrêmement agressives et territoriales, elles attaquent fréquemment des créatures bien plus grandes qu’elles.
 Les belettes géantes sont souvent dressées par divers humanoïdes de taille P pour en faire des animaux de garde ou des montures. Les belettes géantes adultes peuvent mesurer jusqu’à 1,50 mètres de long pour une hauteur de 75 centimètres au garrot et un poids approximatif de 75 kilogrammes.
@@ -59,7 +59,7 @@ Les belettes géantes sont souvent dressées par divers humanoïdes de taille P 
 
 #### La belette géante comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m, escalade 3 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4) ; **Caractéristiques** For 10, Dex 19, Con 13, Int 2, Sag 12, Cha 10 ; **Attaque spéciale** [Absorption de sang](./absorption de sang (capacité).md) (1 Con), étreinte ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m, escalade 3 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4) ; **Caractéristiques** For 10, Dex 19, Con 13, Int 2, Sag 12, Cha 10 ; **Attaque spéciale** [[Absorption de sang (capacité)|Absorption de sang]] (1 Con), étreinte ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4.** **Taille** M ** ; **CA** ; **Attaque** morsure (1d6) ; **Caractéristiques''' For +4, Dex -2, Con +2.
 </div></td></tr></table>

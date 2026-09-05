@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#LAMEFANTOME
 ---
 
->>> [arcanes#LAMEFANTOME](./arcanes.md#LAMEFANTOME)
+>>> [[arcanes#LAMEFANTOME]]

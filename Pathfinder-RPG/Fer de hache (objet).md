@@ -8,8 +8,8 @@ Categories:
 ---
 
 {s:AE}**Prix** 1.000 po (œuf), 1.500 po (entrainé au combat) ; **Poids** 5 kg (œuf), 250 kg (entrainé au combat)
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces prédateurs aviens de taille G sont parfois utilisés pour la chasse mais ils sont surtout prisés en tant que montures. Voir les statistiques du [fer de hache](./Fer de hache.md).  
+Ces prédateurs aviens de taille G sont parfois utilisés pour la chasse mais ils sont surtout prisés en tant que montures. Voir les statistiques du [[fer de hache]].  
   
 *Œuf de fer de hache.* Les fers de haches élevés dès éclosion sont faciles à dresser comme monture ou servent de bétail.

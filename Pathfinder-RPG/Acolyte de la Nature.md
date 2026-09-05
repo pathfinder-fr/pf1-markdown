@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:CCMI}*Le personnage s’est entraîné à canaliser son énergie magique de façon à ne pas endommager le monde naturel qui l’entoure.*
 
-**Condition**. Fidèle de la [Verte religion](./../Golarion/Foi Verte.md)
+**Condition**. Fidèle de la [[Golarion.Foi verte|Verte religion]]
 
-**Avantage**. Les sorts qui infligent des dégâts, canalisent de l’énergie négative ou portent atteinte à la vie n’abîment pas les plantes naturelles ou magiques. De plus, quand le personnage lance un sort qui utilise des plantes magiques ou ordinaires, les soigne ou les améliore (comme *[enchevêtrement](./Enchevêtrement.md)* ou *[croissance végétale](./Croissance végétale.md)*), il bénéficie d’un niveau de lanceur de sorts supplémentaire.
+**Avantage**. Les sorts qui infligent des dégâts, canalisent de l’énergie négative ou portent atteinte à la vie n’abîment pas les plantes naturelles ou magiques. De plus, quand le personnage lance un sort qui utilise des plantes magiques ou ordinaires, les soigne ou les améliore (comme *[[enchevêtrement]]* ou *[[croissance végétale]]*), il bénéficie d’un niveau de lanceur de sorts supplémentaire.

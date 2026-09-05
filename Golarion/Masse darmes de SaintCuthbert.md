@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Masse darmes de SaintCuthbert.md).***
+***Voir les [[Pathfinder-RPG.Masse darmes de SaintCuthbert|statistiques de cet artefact]].***
 
 Cette masse d’armes en bois, toute simple, porte les marques et les entailles d’une utilisation fréquente et fait penser à l’arme d’un moine itinérant ou d’un aumônier militaire.
 

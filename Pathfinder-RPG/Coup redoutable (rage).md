@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#COUPREDOUTABLE
 ---
 
->>> [pouvoirs de rage#COUPREDOUTABLE](./Pouvoirs de rage.md#COUPREDOUTABLE)
+>>> [[pouvoirs de rage#COUPREDOUTABLE]]

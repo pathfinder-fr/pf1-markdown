@@ -10,11 +10,11 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** Universel ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7  
+**École** Universel ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (diamant (1 500 po))  
+**Composantes** [[composantes|V, G, M]] (diamant (1 500 po))  
 
 **Portée** voir description  
 
@@ -26,22 +26,22 @@ Categories:
 
 *Souhait limité* permet de créer n’importe quel effet magique, ou presque. Il peut par exemple servir pour :
 
-• Reproduire n’importe quel sort de [magicien](./Magicien.md) ou d’[ensorceleur](./Ensorceleur.md) du 6e [niveau](./Niveau de sort.md) maximum, à condition qu’il n’appartienne pas à une [école de magie opposée](./Magicien.md#ECOLEDEMAGIE) à celle du personnage.
+• Reproduire n’importe quel sort de [[magicien]] ou d’[[ensorceleur]] du 6e [[niveau de sort|niveau]] maximum, à condition qu’il n’appartienne pas à une [[magicien#ECOLEDEMAGIE|école de magie opposée]] à celle du personnage.
 
-• Reproduire n’importe quel autre sort (de [prêtre](./Prêtre.md), [druide](./Druide.md), etc.) du 5e [niveau](./Niveau de sort.md) maximum, à condition qu’il n’appartienne pas à une [école de magie opposée](./Magicien.md#ECOLEDEMAGIE) à celle du personnage.
+• Reproduire n’importe quel autre sort (de [[prêtre]], [[druide]], etc.) du 5e [[niveau de sort|niveau]] maximum, à condition qu’il n’appartienne pas à une [[magicien#ECOLEDEMAGIE|école de magie opposée]] à celle du personnage.
 
-• Reproduire n’importe quel sort de [magicien](./Magicien.md) ou d’[ensorceleur](./Ensorceleur.md) du 5e [niveau](./Niveau de sort.md) maximum, même s’il fait partie d’une [école de magie opposée](./Magicien.md#ECOLEDEMAGIE) à celle du personnage.
+• Reproduire n’importe quel sort de [[magicien]] ou d’[[ensorceleur]] du 5e [[niveau de sort|niveau]] maximum, même s’il fait partie d’une [[magicien#ECOLEDEMAGIE|école de magie opposée]] à celle du personnage.
 
-• Reproduire n’importe quel autre sort du 4e [niveau](./Niveau de sort.md) maximum, même s’il fait partie d’une [école de magie opposée](./Magicien.md#ECOLEDEMAGIE) à celle du personnage.
+• Reproduire n’importe quel autre sort du 4e [[niveau de sort|niveau]] maximum, même s’il fait partie d’une [[magicien#ECOLEDEMAGIE|école de magie opposée]] à celle du personnage.
 
-• Annuler ou contrer les effets de nombreux sorts néfastes, tels que *[quête](./Quête.md)* ou *[aliénation mentale](./Aliénation mentale.md)*.
+• Annuler ou contrer les effets de nombreux sorts néfastes, tels que *[[quête]]* ou *[[aliénation mentale]]*.
 
-• Produire n’importe quel effet similaire aux précédents en termes de puissance relative (par exemple, faire en sort qu’une créature touche automatiquement lors de sa prochaine attaque ou pour que son prochain [jet de sauvegarde](./jet de sauvegarde.md) s’accompagne d’un malus de -7).
+• Produire n’importe quel effet similaire aux précédents en termes de puissance relative (par exemple, faire en sort qu’une créature touche automatiquement lors de sa prochaine attaque ou pour que son prochain [[jet de sauvegarde]] s’accompagne d’un malus de -7).
 
-Les sorts reproduits grâce à *souhait limité* s’accompagnent tout à fait normalement d’un [jet de sauvegarde](./jet de sauvegarde.md) et/ou de [résistance à la magie](./RM.md), mais leur [DD](./DD.md) est le même que celui d’un sort du 7e [niveau](./Niveau de sort.md). Quand un *souhait limité* duplique un sort nécessitant une [composante matérielle](./composante matérielle.md) qui coûte plus de 1 000 po, le personnage doit se procurer cette [composante](./composante matérielle.md) (en plus du diamant nécessaire pour lancer *souhait limité*).
+Les sorts reproduits grâce à *souhait limité* s’accompagnent tout à fait normalement d’un [[jet de sauvegarde]] et/ou de [[RM|résistance à la magie]], mais leur [[DD]] est le même que celui d’un sort du 7e [[niveau de sort|niveau]]. Quand un *souhait limité* duplique un sort nécessitant une [[composante matérielle]] qui coûte plus de 1 000 po, le personnage doit se procurer cette [[composante matérielle|composante]] (en plus du diamant nécessaire pour lancer *souhait limité*).
 
 ### Mythique
 {s:CMy}
-Lorsque le personnage utilise souhait limité mythique pour reproduire un autre sort, il peut reproduire un sort mythique qu’il connait (dans le cas d’un lanceur de sorts spontanés) ou qu’il a préparé (dans le cas d’un lanceur de sorts préparés). S’il ne connait pas ou n’a pas préparé le sort mythique en question, il peut dépenser une deuxième utilisation de [pouvoir mythique](./pouvoir mythique.md) pour reproduire la version mythique du sort souhaité.
+Lorsque le personnage utilise souhait limité mythique pour reproduire un autre sort, il peut reproduire un sort mythique qu’il connait (dans le cas d’un lanceur de sorts spontanés) ou qu’il a préparé (dans le cas d’un lanceur de sorts préparés). S’il ne connait pas ou n’a pas préparé le sort mythique en question, il peut dépenser une deuxième utilisation de [[pouvoir mythique]] pour reproduire la version mythique du sort souhaité.
 
-**[Amplifié](./Amplifié.md).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), il peut lancer un souhait limité mythique silencieux et statique, même s’il est sans défense ou incapable d’entreprendre la moindre action (mais pas s’il est inconscient).
+**[[Amplifié]].** Si le personnage dépense deux utilisations de [[pouvoir mythique]], il peut lancer un souhait limité mythique silencieux et statique, même s’il est sans défense ou incapable d’entreprendre la moindre action (mais pas s’il est inconscient).

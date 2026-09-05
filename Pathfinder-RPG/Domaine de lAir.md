@@ -13,21 +13,21 @@ Categories:
 ### Pouvoirs accordés
 Le personnage peut manipuler les éclairs, la brume et le vent et faire appel aux créatures de l’Air. Il acquiert également une certaine résistance à l’électricité.
 
-**Arc électrique (Mag).** Par une [action simple](./Action simple.md), le personnage peut envoyer un arc électrique vers un adversaire distant de 9 m (6 {s:c}) ou moins en réussissant une [attaque de contact à distance](./attaque de contact à distance.md). L’arc inflige 1d6 points de dégâts d’électricité + 1 point par deux niveaux de [prêtre](./Prêtre.md). Ce pouvoir peut être utilisé chaque jour un nombre de fois égal à 3 + le modificateur de [Sagesse](./Sagesse.md) du prêtre.
+**Arc électrique (Mag).** Par une [[action simple]], le personnage peut envoyer un arc électrique vers un adversaire distant de 9 m (6 {s:c}) ou moins en réussissant une [[attaque de contact à distance]]. L’arc inflige 1d6 points de dégâts d’électricité + 1 point par deux niveaux de [[prêtre]]. Ce pouvoir peut être utilisé chaque jour un nombre de fois égal à 3 + le modificateur de [[Sagesse]] du prêtre.
 
-**Résistance à l’électricité (Ext).** Au niveau 6, le [prêtre](./Prêtre.md) gagne une résistance à l’électricité de 10. Cette résistance passe à 20 au niveau 12. Au niveau 20, elle se transforme en [immunité](./Immunité.md).
+**Résistance à l’électricité (Ext).** Au niveau 6, le [[prêtre]] gagne une résistance à l’électricité de 10. Cette résistance passe à 20 au niveau 12. Au niveau 20, elle se transforme en [[immunité]].
 
 ### Sous-domaines associés
 <table width="100%"><tr><td width="49%">
 <div class="presentation arrondi">{s:APG}
 ### Sous-domaine des Nuages
-**Nuage orageux (Sur).** *(remplace résistance à l'électricité)* Au niveau 8, le personnage peut, en une [action simple](./Action simple.md), conjurer un nuage orageux. Ce pouvoir fonctionne comme [nappe de brouillard](./Nappe de brouillard.md) si ce n'est que les créatures prises dans le nuage sont [assourdies](./Assourdi.md) et qu'elles subissent 2d6 points de dégâts d'électricité chaque round à cause des éclairs. Une fois le nuage créé, le personnage peut le déplacer de 9 m (6 {s:c}) par round en se concentrant. Ce pouvoir est utilisable pendant un nombre de rounds par jour égal au niveau du [prêtre](./Prêtre.md). Ces rounds ne doivent pas forcément être consécutifs.
+**Nuage orageux (Sur).** *(remplace résistance à l'électricité)* Au niveau 8, le personnage peut, en une [[action simple]], conjurer un nuage orageux. Ce pouvoir fonctionne comme [[nappe de brouillard]] si ce n'est que les créatures prises dans le nuage sont [[assourdi|assourdies]] et qu'elles subissent 2d6 points de dégâts d'électricité chaque round à cause des éclairs. Une fois le nuage créé, le personnage peut le déplacer de 9 m (6 {s:c}) par round en se concentrant. Ce pouvoir est utilisable pendant un nombre de rounds par jour égal au niveau du [[prêtre]]. Ces rounds ne doivent pas forcément être consécutifs.
 </div>
 </td><td width="2%">
 </td><td width="49%">
 <div class="presentation arrondi">{s:APG}
 ### Sous-domaine du Vent
-**Coup de vent (Sur).** *(remplace arc électrique)* En une [action simple](./Action simple.md), le personnage peut envoyer un souffle de vent dans une [ligne](./ligne.md) de 9 m (6 {s:c}). Il réalise un test de manœuvre contre chaque créature située dans la ligne en utilisant son [NLS](./NLS.md) comme [BBA](./BBA.md) et son modificateur de [Sagesse](./Sagesse.md) au lieu de son modificateur de [Force](./Force.md). On considère les résultats de ces tests comme des manœuvres de [bousculade](./bousculade.md). Le prêtre peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+**Coup de vent (Sur).** *(remplace arc électrique)* En une [[action simple]], le personnage peut envoyer un souffle de vent dans une [[ligne]] de 9 m (6 {s:c}). Il réalise un test de manœuvre contre chaque créature située dans la ligne en utilisant son [[NLS]] comme [[BBA]] et son modificateur de [[Sagesse]] au lieu de son modificateur de [[Force]]. On considère les résultats de ces tests comme des manœuvres de [[bousculade]]. Le prêtre peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [[Sagesse]].
 </div>
 </td></tr></table>
 
@@ -38,21 +38,21 @@ Le personnage peut manipuler les éclairs, la brume et le vent et faire appel au
 | WIDTH="26%" | Domaine de l'Air
 | Sous-domaine des Nuages || Sous-domaine du Vent
 |- CLASS="premier"
-| 1er || *[brume de dissimulation](./Brume de dissimulation.md)* || *idem* || *[vent de murmures](./Vent de murmures.md)*
+| 1er || *[[brume de dissimulation]]* || *idem* || *[[vent de murmures]]*
 |-
-| 2e || *[mur de vent](./Mur de vent.md)* || *idem* || *idem*
+| 2e || *[[mur de vent]]* || *idem* || *idem*
 |-
-| 3e || *[état gazeux](./État gazeux.md)* || *idem* || *idem*
+| 3e || *[[état gazeux]]* || *idem* || *idem*
 |-
-| 4e || *[marche dans les airs](./Marche dans les airs.md)* || *[brouillard dense](./Brouillard dense.md)* || *idem*
+| 4e || *[[marche dans les airs]]* || *[[brouillard dense]]* || *idem*
 |-
-| 5e || *[contrôle des vents](./Contrôle des vents.md)* || *idem* || *idem*
+| 5e || *[[contrôle des vents]]* || *idem* || *idem*
 |-
-| 6e || *[éclair multiple](./Éclair multiple.md)* || *idem* || *[vent divin](./Vent divin.md)*
+| 6e || *[[éclair multiple]]* || *idem* || *[[vent divin]]*
 |-
-| 7e || *[corps élémentaire IV](./Corps élémentaire IV.md)* (créature d’Air seulement) || *idem* || *idem*
+| 7e || *[[corps élémentaire IV]]* (créature d’Air seulement) || *idem* || *idem*
 |-
-| 8e || *[cyclone](./Cyclone.md)* || *idem* || *idem*
+| 8e || *[[cyclone]]* || *idem* || *idem*
 |-
-| 9e || *[nuée d’élémentaires](./Nuée délémentaires.md)* (lancé comme un sort de l’Air seulement) || *[tempête vengeresse](./Tempête vengeresse.md)* || *[vents de la vengeance](./Vents de la vengeance.md)*
+| 9e || *[[nuée délémentaires|nuée d’élémentaires]]* (lancé comme un sort de l’Air seulement) || *[[tempête vengeresse]]* || *[[vents de la vengeance]]*
 |}

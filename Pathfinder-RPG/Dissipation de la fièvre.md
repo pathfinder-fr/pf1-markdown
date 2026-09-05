@@ -14,20 +14,20 @@ Categories:
 ---
 
 {s:UM}
-**École** [Invocation](./Invocation.md) ([guérison](./guérison.md)) ; **Niveau** [Dru](./Druide.md) 1, [Hyp](./Hypnotiseur.md) 1, [Prê](./Prêtre.md) 1, [Sor](./Sorcière.md) 1, [Spi](./Spirite.md) 1  
+**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Druide|Dru]] 1, [[Hypnotiseur|Hyp]] 1, [[Prêtre|Prê]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 10 minutes/[niveau](./niveau.md) (voir texte)  
+**Durée** 10 minutes/[[niveau]] (voir texte)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE)
-([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
-([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE) )
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]
+([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
+([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]] )
 
-Le personnage calme la [maladie](./maladie.md) et la [nausée](./Nauséeux.md) de sa cible, ce qui lui donne un bonus de moral de +4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre la [maladie](./maladie.md), la [nausée](./Nauséeux.md) et la [fièvre](./Fiévreux.md). Si la cible est déjà soumise à l’un de ces effets quand elle reçoit le sort, l’effet est supprimé pendant toute la durée du sort.
+Le personnage calme la [[maladie]] et la [[nauséeux|nausée]] de sa cible, ce qui lui donne un bonus de moral de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre la [[maladie]], la [[nauséeux|nausée]] et la [[fiévreux|fièvre]]. Si la cible est déjà soumise à l’un de ces effets quand elle reçoit le sort, l’effet est supprimé pendant toute la durée du sort.

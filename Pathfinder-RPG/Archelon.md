@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 page 190*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille TG, N}
-{s:BDTexte|**Init** +5 ; **Sens** [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision nocturne]], [[odorat]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 9, pris au dépourvu 18 (armure +10, Dex +1, taille -2)}
 {s:BDTexte|**pv** 59 (7d8+28)}
@@ -23,13 +23,13 @@ Categories:
 {s:BDTexte|**VD** 4,50 m (3 {s:c}), nage 15 m (10 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +10 (2d8+9)}
 {s:BDTexte|**Espace occupé** 4,50 m (3 {s:c}); Allonge 3 m (2 {s:c})}
-{s:BDTexte|**Attaque spéciale** [Retournement de navires](./Retournement de navires (capacité).md) (DD 25)}
+{s:BDTexte|**Attaque spéciale** [[Retournement de navires (capacité)|Retournement de navires]] (DD 25)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 13, **Con** 19, **Int** 2, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +5 ; **BMO** +13 ; **DMD** 24 (28 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Fente](./Fente.md), [Science de l’initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +18, [Perception](./Perception.md) +10}
-{s:BDTexte|**Part** [Retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Fente]], [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Natation]] +18, [[Perception]] +10}
+{s:BDTexte|**Part** [[Retenir son souffle (capacité)|Retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** mers ou littoraux chauds ou tempérés}
 {s:BDTexte|**Organisation** solitaire ou groupe (2-6)}
@@ -41,29 +41,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Archelon](./Archelon.md) || 5
+| [[Archelon]] || 5
 |-
-| [Arsinoithérium](./Arsinoithérium.md) || 7
+| [[Arsinoithérium]] || 7
 |-
-| [Baluchithérium](./Baluchithérium.md) || 8
+| [[Baluchithérium]] || 8
 |-
-| [Basilosaure](./Basilosaure.md) || 12
+| [[Basilosaure]] || 12
 |-
-| [Chalicothérium](./Chalicothérium.md) || 6
+| [[Chalicothérium]] || 6
 |-
-| [Glyptodonte](./Glyptodonte.md) || 6
+| [[Glyptodonte]] || 6
 |-
-| [Kaprosuchus](./Kaprosuchus.md) || 5
+| [[Kaprosuchus]] || 5
 |-
-| [Mégalania](./Mégalania.md) || 7
+| [[Mégalania]] || 7
 |-
-| [Mégalocéros](./Mégalocéros.md) || 4
+| [[Mégalocéros]] || 4
 |-
-| [Mégathérium](./Mégathérium.md) || 5
+| [[Mégathérium]] || 5
 |-
-| [Moa](./Moa.md) || 2
+| [[Moa]] || 2
 |-
-| [Uintathérium](./Uintathérium.md) || 7
+| [[Uintathérium]] || 7
 |}
 </div>*La carapace de cette immense tortue de mer atteint facilement les 6 mètres de long. Sa tête étroite se termine par un bec crochu.*
 
@@ -73,7 +73,7 @@ tribus côtières comme gardiennes et escortes pour passer d’île en île. Les
 les utilisent souvent comme bêtes de somme mais leur vitesse de nage relativement réduite en fait de médiocres montures.
 
 ### L'archelon comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 4,50 m (3 {s:c}), nage 15 m (10 {s:c}) ; **CA** armure naturelle +10 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 8, Dex 10, Con 9, Int 2, Sag 13, Cha 6 ; **Particularités** [odorat](./odorat.md), [retenir son souffle](./Retenir son souffle (capacité).md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 4,50 m (3 {s:c}), nage 15 m (10 {s:c}) ; **CA** armure naturelle +10 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 8, Dex 10, Con 9, Int 2, Sag 13, Cha 6 ; **Particularités** [[odorat]], [[retenir son souffle (capacité)|retenir son souffle]], [[vision nocturne]].
 
 **Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8) ; **Caractéristiques** For +8, Dex –2, Con +4.
 </div></td></tr></table>

@@ -10,9 +10,9 @@ Categories:
 
 {s:um}*Le personnage peut combiner un sort connu et un don de métamagie. *
 
-**Conditions.** [Cha](./Cha.md) 13, un [don de métamagie](./Dons.md#DONMETAMAGIE), capacité à lancer des sorts spontanés
+**Conditions.** [[Cha]] 13, un [[dons#DONMETAMAGIE|don de métamagie]], capacité à lancer des sorts spontanés
 
-**Avantage.** Le personnage choisit un unique sort qu’il est capable de lancer spontanément. Quand il lui applique un [don de métamagie](./Dons.md#METAMAGIE), il peut le lancer avec un temps d’incantation normal, sans ralentissement.
+**Avantage.** Le personnage choisit un unique sort qu’il est capable de lancer spontanément. Quand il lui applique un [[dons#METAMAGIE|don de métamagie]], il peut le lancer avec un temps d’incantation normal, sans ralentissement.
 
 **Spécial.** Le personnage peut choisir ce don à plusieurs reprises. À chaque fois, il choisit un nouveau sort spontané qu’il peut lancer. Le don s’appliquera à ce sort.
 
@@ -24,4 +24,4 @@ Categories:
 
 **Avantage.** Le personnage peut changer le sort sur lequel s’applique le don Métamagie spontanée chaque matin dès qu’il peut à nouveau utiliser les emplacements de sort dépensés. Le sort concerné peut être de n’importe quel niveau, mais il doit être valide au regard du don Métamagie spontanée.
 
-**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un [don de métamagie](./Dons.md#DONMETAMAGIE) renforcée [non-mythique](./non-mythique.md) différent.
+**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un [[Dons#DONMETAMAGIE|don de métamagie]] renforcée [[non-mythique]] différent.

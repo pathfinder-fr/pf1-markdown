@@ -19,14 +19,14 @@ Categories:
 ---
 
 {s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}
-**École** [Transmutation](./Transmutation.md) ;
-**Niveau** [Alch](./Alchimiste.md) 1, [Bard](./Barde.md) 1, [Dru](./Druide.md) 1, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Transmutation]] ;
+**Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Druide|Dru]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 

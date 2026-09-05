@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Focalisation ki
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Focalisation ki](./Descriptions individuelles des propriétés spéciales des armes.md#Focalisation ki)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Focalisation ki]]

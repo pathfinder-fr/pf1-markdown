@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Trompeuse
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Trompeuse](./Descriptions individuelles des propriétés spéciales des armes.md#Trompeuse)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Trompeuse]]

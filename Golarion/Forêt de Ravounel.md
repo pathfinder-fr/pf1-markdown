@@ -7,6 +7,6 @@ Categories:
 - Géographie
 ---
 
-Cette forêt est située à l'ouest du [Chéliax](./Chéliax.md), au sud des [Plaines du Nord](./Plaines du Nord.md).
+Cette forêt est située à l'ouest du [[Chéliax]], au sud des [[Plaines du Nord]].
 
-Certains rapports des Inquisiteurs de l'Eglise d'[Asmodéus](./Asmodéus.md) indiquent qu'un lieu de culte dédié à [Rovagug](./Rovagug.md) y serait implanté, mais aucune trace n'en a été retrouvé.
+Certains rapports des Inquisiteurs de l'Eglise d'[[Asmodéus]] indiquent qu'un lieu de culte dédié à [[Rovagug]] y serait implanté, mais aucune trace n'en a été retrouvé.

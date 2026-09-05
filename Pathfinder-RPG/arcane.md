@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Magus#ARCANE
 ---
 
->>> [Magus#ARCANE](./Magus.md#ARCANE)
+>>> [[Magus#ARCANE]]

@@ -6,10 +6,10 @@ Categories:
 - Race
 ---
 
-Les gnomes sont une race marginale, d'origine étrangère à [Golarion](./Golarion.md) et loin d'être taillée pour la vie menée en ce monde. Exilés de leur terre d'origine, le royaume des fées connu par les habitants de [Golarion](./Golarion.md) sous le nom de [Monde Premier](./Monde Premier.md), les gnomes sont encore hantés par les dommages spirituels causés par leur exode. Beaucoup d'entre eux rêvent encore à un retour vers ce monde.
+Les gnomes sont une race marginale, d'origine étrangère à [[Golarion]] et loin d'être taillée pour la vie menée en ce monde. Exilés de leur terre d'origine, le royaume des fées connu par les habitants de [[Golarion]] sous le nom de [[Monde Premier]], les gnomes sont encore hantés par les dommages spirituels causés par leur exode. Beaucoup d'entre eux rêvent encore à un retour vers ce monde.
 
 ### Apparence
-Les gnomes sont des petits humanoïdes qui forment la race civilisée la plus surprenante et la plus étrangère de [Golarion](./Golarion.md). Ils mesurent environ 1 m et sont étonnamment sveltes. Ils ont de longs doigts filiformes et une grosse tête proportionnellement au reste de leur corps. Celle-ci a d'ailleurs une forme un peu différente de celle des autres humanoïdes. Si l'on considère leur corpulence, on peut dire qu'ils ont une robustesse surprenante. Bien que plus légers, leurs os sont en effet plus solides.
+Les gnomes sont des petits humanoïdes qui forment la race civilisée la plus surprenante et la plus étrangère de [[Golarion]]. Ils mesurent environ 1 m et sont étonnamment sveltes. Ils ont de longs doigts filiformes et une grosse tête proportionnellement au reste de leur corps. Celle-ci a d'ailleurs une forme un peu différente de celle des autres humanoïdes. Si l'on considère leur corpulence, on peut dire qu'ils ont une robustesse surprenante. Bien que plus légers, leurs os sont en effet plus solides.
 
 La coloration de leur peau et de leur cheveux dépend de leur expérience de vie. Elle couvre une gamme de couleurs couvrant l'ensemble de celles que l'on peut voir dans la nature, trahissant ainsi leur nature féérique plus que toute autre caractéristique physique. La plupart des gnomes ont une couleur de peau qui s'approche de celle des autres humanoïdes qui vivent dans la même région, bien que souvent rehaussée de couleur olive ou or. Leurs cheveux sont souvent très colorés. Ils montrent leurs expériences et leur histoire récente par le rouge ou le vert plus souvent que par le brun ou le blond. ILs ont de longs sourcils expressifs au dessus de grands yeux. Cette caractéristique plutôt enfantine amène souvent les autres humanoïdes à faire confiance aux gnomes, même si certains trouvent ces traits, ainsi que leur trop grande bouche et leur trop large sourire, trop étrangers et effrayant à leur goût.
 
@@ -27,15 +27,15 @@ Le dimorphisme sexuel est peu apparent chez les gnomes. Les mâles ont tendance 
 
 ### Histoire
 #### Dans le Monde Premier
-L'histoire de la race gnome ne débute pas sur [Golarion](./Golarion.md), mais dans le [Monde Premier](./Monde Premier.md), le royaume des fées. Les gnomes constituaient à l'époque une race ancienne de fées immortelles et espiègles. Ils étaient heureux de vivre dans le Monde Premier car il s'agissait d'un monde de merveille sans fin où ils avaient l'éternité pour assouvir leur curiosité et leur fantaisie. Ils furent contraints de quitter le [Monde Premier](./Monde Premier.md) et de migrer sur [Golarion](./Golarion.md).
+L'histoire de la race gnome ne débute pas sur [[Golarion]], mais dans le [[Monde Premier]], le royaume des fées. Les gnomes constituaient à l'époque une race ancienne de fées immortelles et espiègles. Ils étaient heureux de vivre dans le Monde Premier car il s'agissait d'un monde de merveille sans fin où ils avaient l'éternité pour assouvir leur curiosité et leur fantaisie. Ils furent contraints de quitter le [[Monde Premier]] et de migrer sur [[Golarion]].
 
-Les gnomes déclarèrent alors que leur migration n'avait pour but que de combler leur soif de découverte et de nouvelles expériences. Selon eux, ce sont ces deux objectifs qui les poussèrent vers le Plan Matériel. D'autres sources affirment que la raison de leur exode était plus sombre. Ce serait un cataclysme équivalent à celui de la tombée de la [Pierre-Étoile](./Pierre-Étoile.md) qui les firent fuir le [Monde Premier](./Monde Premier.md).
+Les gnomes déclarèrent alors que leur migration n'avait pour but que de combler leur soif de découverte et de nouvelles expériences. Selon eux, ce sont ces deux objectifs qui les poussèrent vers le Plan Matériel. D'autres sources affirment que la raison de leur exode était plus sombre. Ce serait un cataclysme équivalent à celui de la tombée de la [[Pierre-Étoile]] qui les firent fuir le [[Monde Premier]].
 
 #### Sur Golarion
-L'arrivée des gnomes sur [Golarion](./Golarion.md) fut une période périlleuse pour eux. C'est à ce moment qu'ils commencèrent à souffrir de la Décoloration qui atteint nombre d'entre eux. Ils perdirent aussi leur capacité à manipuler les ombres et, avec leur principal moyen de défense disparu, beaucoup de gnomes furent victimes de nombreux prédateurs. Durant cette période, les gnomes disparurent presque complètement. Ceux qui survécurent s'adaptèrent à la vie sur [Golarion](./Golarion.md), constituant des enclaves qui les aidèrent à se protéger d'un monde hostile. Depuis cette époque, les gnomes ont été acceptés sur [Golarion](./Golarion.md).
+L'arrivée des gnomes sur [[Golarion]] fut une période périlleuse pour eux. C'est à ce moment qu'ils commencèrent à souffrir de la Décoloration qui atteint nombre d'entre eux. Ils perdirent aussi leur capacité à manipuler les ombres et, avec leur principal moyen de défense disparu, beaucoup de gnomes furent victimes de nombreux prédateurs. Durant cette période, les gnomes disparurent presque complètement. Ceux qui survécurent s'adaptèrent à la vie sur [[Golarion]], constituant des enclaves qui les aidèrent à se protéger d'un monde hostile. Depuis cette époque, les gnomes ont été acceptés sur [[Golarion]].
 
 {s:VoirAussiAvant}
 Vous pourrez trouver plus d'informations à propos des Gnomes dans les suppléments
-- [Pathfinder Chronicles: Campaign Setting](./Publications.md#CAMPAIGNSETTING).
-- [Pathfinder Companion: gnomes of Golarion](./Publications.md#COMPANIONGNOMES).
+- [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
+- [[Golarion.Publications#COMPANIONGNOMES|Pathfinder Companion: gnomes of Golarion]].
 {s:VoirAussiAprès}

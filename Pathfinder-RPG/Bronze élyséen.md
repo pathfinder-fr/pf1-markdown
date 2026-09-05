@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#BRONZEÉLYSÉEN
 ---
 
->>> [Matériaux spéciaux#BRONZEÉLYSÉEN](./Matériaux spéciaux.md#BRONZEÉLYSÉEN)
+>>> [[Matériaux spéciaux#BRONZEÉLYSÉEN]]

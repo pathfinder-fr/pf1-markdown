@@ -7,7 +7,7 @@ Categories:
 - Règles officielles
 ---
 
-{s:MenuGC}{s:GC}<nav class="wiki-toc"></nav>Cette rubrique vous propose de nombreux bâtiments et organisations ordinaires. Chaque exemple donne la liste des salles ou des employés nécessaires pour construire le bâtiment ou créer l’organisation, le total des différents capitaux nécessaires à leur construction et le total des po à débourser si votre personnage souhaite l’acquérir. Le nombre de po indiqué part du principe que votre personnage achète le bâtiment au lieu de le construire en dépensant ses capitaux (voir les Coûts d’achat de la table "[Valeurs des capitaux](./Acquisition des capitaux.md#Production de capitaux)").
+{s:MenuGC}{s:GC}<nav class="wiki-toc"></nav>Cette rubrique vous propose de nombreux bâtiments et organisations ordinaires. Chaque exemple donne la liste des salles ou des employés nécessaires pour construire le bâtiment ou créer l’organisation, le total des différents capitaux nécessaires à leur construction et le total des po à débourser si votre personnage souhaite l’acquérir. Le nombre de po indiqué part du principe que votre personnage achète le bâtiment au lieu de le construire en dépensant ses capitaux (voir les Coûts d’achat de la table "[[Acquisition des capitaux#Production de capitaux|Valeurs des capitaux]]").
 
 Les exemples qui suivent ne sont pas les seules façons de construire ces différents types de bâtiments ou d’organisations. Une auberge peut contenir deux logements au lieu d’un seul, une salle des trophées à la place d’un bar ou une statue de la déesse des voyageurs. Une guilde de voleurs peut être plus importante et plus violente si elle embauche davantage de tire-laine et de soldats qu’indiqués dans l’exemple de cette rubrique. Utilisez-les comme des exemples types de bâtiments et d’organisations, comme une base pour concevoir vos propres versions ou comme une source d’idées sur la façon d’exploiter ce système pour concevoir tout ce qui vous passera par la tête. Ce système se veut flexible, pour que vous puissiez construire le bâtiment qui correspond parfaitement aux besoins de votre personnage.
 
@@ -15,32 +15,32 @@ Nous avons disséminé plusieurs plans de différents bâtiments parmi les profi
 
 {s:Reference|Bâtiments}
 ### Les bâtiments
-Vous trouverez ci-dessous des exemples de bâtiments avec les salles qui les composent. Nombre de ces bâtiments se trouvent aussi dans les [règles de création de royaumes](./Royaumes et guerre.md).
+Vous trouverez ci-dessous des exemples de bâtiments avec les salles qui les composent. Nombre de ces bâtiments se trouvent aussi dans les [[Royaumes et guerre|règles de création de royaumes]].
 
 {| CLASS="tablo toutgauche centre autoalt"
 |+ Liste des bâtiments
 |- CLASS="titre"
 | COLSPAN="5" | Nom
 |- CLASS="premier"
-| [Académie](./Bâtiments et organisations.md#ACADÉMIE) || [Boutique de magie](./Bâtiments et organisations.md#BOUTIQUE DE MAGIE) || [École de magie](./Bâtiments et organisations.md#ÉCOLE DE LA MAGIE) || [Herboriste](./Bâtiments et organisations.md#HERBORISTE) || [Moulin](./Bâtiments et organisations.md#MOULIN) || [Tannerie](./Bâtiments et organisations.md#TANNERIE)
+| [[Bâtiments et organisations#ACADÉMIE|Académie]] || [[Bâtiments et organisations#BOUTIQUE DE MAGIE|Boutique de magie]] || [[Bâtiments et organisations#ÉCOLE DE LA MAGIE|École de magie]] || [[Bâtiments et organisations#HERBORISTE|Herboriste]] || [[Bâtiments et organisations#MOULIN|Moulin]] || [[Bâtiments et organisations#TANNERIE|Tannerie]]
 |-
-| [Alchimiste](./Bâtiments et organisations.md#ALCHIMISTE) || [Brasserie](./Bâtiments et organisations.md#BRASSERIE) || [École militaire](./Bâtiments et organisations.md#ÉCOLE MILITAIRE) || [Hôpital](./Bâtiments et organisations.md#HÔPITAL) || [Musée](./Bâtiments et organisations.md#MUSÉE) || [Taverne](./Bâtiments et organisations.md#TAVERNE)
+| [[Bâtiments et organisations#ALCHIMISTE|Alchimiste]] || [[Bâtiments et organisations#BRASSERIE|Brasserie]] || [[Bâtiments et organisations#ÉCOLE MILITAIRE|École militaire]] || [[Bâtiments et organisations#HÔPITAL|Hôpital]] || [[Bâtiments et organisations#MUSÉE|Musée]] || [[Bâtiments et organisations#TAVERNE|Taverne]]
 |-
-| [Appartement](./Bâtiments et organisations.md#APPARTEMENT) || [Caserne](./Bâtiments et organisations.md#CASERNE) || [Écurie](./Bâtiments et organisations.md#ÉCURIE) || [Hôtel de la monnaie](./Bâtiments et organisations.md#HÔTEL DE LA MONNAIE) || [Observatoire](./Bâtiments et organisations.md#OBSERVATOIRE) || [Temple](./Bâtiments et organisations.md#TEMPLE)
+| [[Bâtiments et organisations#APPARTEMENT|Appartement]] || [[Bâtiments et organisations#CASERNE|Caserne]] || [[Bâtiments et organisations#ÉCURIE|Écurie]] || [[Bâtiments et organisations#HÔTEL DE LA MONNAIE|Hôtel de la monnaie]] || [[Bâtiments et organisations#OBSERVATOIRE|Observatoire]] || [[Bâtiments et organisations#TEMPLE|Temple]]
 |-
-| [Arène](./Bâtiments et organisations.md#ARÈNE) || [Cathédrale](./Bâtiments et organisations.md#CATHÉDRALE) || [Enclos à bétail](./Bâtiments et organisations.md#ENCLOS À BÉTAIL) || [Hôtel de ville](./Bâtiments et organisations.md#HÔTEL DE VILLE) || [Orphelinat](./Bâtiments et organisations.md#ORPHELINAT) || [Théâtre](./Bâtiments et organisations.md#THÉÂTRE)
+| [[Bâtiments et organisations#ARÈNE|Arène]] || [[Bâtiments et organisations#CATHÉDRALE|Cathédrale]] || [[Bâtiments et organisations#ENCLOS À BÉTAIL|Enclos à bétail]] || [[Bâtiments et organisations#HÔTEL DE VILLE|Hôtel de ville]] || [[Bâtiments et organisations#ORPHELINAT|Orphelinat]] || [[Bâtiments et organisations#THÉÂTRE|Théâtre]]
 |-
-| [Atelier de produits exotiques](./Bâtiments et organisations.md#ATELIER DE PRODUITS EXOTIQUES) || [Château](./Bâtiments et organisations.md#CHÂTEAU) || [Ferme](./Bâtiments et organisations.md#FERME) || [Maison](./Bâtiments et organisations.md#MAISON) || [Palais](./Bâtiments et organisations.md#PALAIS) || [Tour de guet](./Bâtiments et organisations.md#TOUR DE GUET)
+| [[Bâtiments et organisations#ATELIER DE PRODUITS EXOTIQUES|Atelier de produits exotiques]] || [[Bâtiments et organisations#CHÂTEAU|Château]] || [[Bâtiments et organisations#FERME|Ferme]] || [[Bâtiments et organisations#MAISON|Maison]] || [[Bâtiments et organisations#PALAIS|Palais]] || [[Bâtiments et organisations#TOUR DE GUET|Tour de guet]]
 |-
-| [Auberge](./Bâtiments et organisations.md#AUBERGE) || [Cimetière](./Bâtiments et organisations.md#CIMETIÈRE) || [Forge](./Bâtiments et organisations.md#FORGE) || [Maison de guilde](./Bâtiments et organisations.md#MAISON DE LA GUILDE) || [Palais de justice](./Bâtiments et organisations.md#PALAIS DE JUSTICE) || [Tour de mage](./Bâtiments et organisations.md#TOUR DU MAGE)
+| [[Bâtiments et organisations#AUBERGE|Auberge]] || [[Bâtiments et organisations#CIMETIÈRE|Cimetière]] || [[Bâtiments et organisations#FORGE|Forge]] || [[Bâtiments et organisations#MAISON DE LA GUILDE|Maison de guilde]] || [[Bâtiments et organisations#PALAIS DE JUSTICE|Palais de justice]] || [[Bâtiments et organisations#TOUR DU MAGE|Tour de mage]]
 |-
-| [Banque](./Bâtiments et organisations.md#BANQUE) || [Commerce](./Bâtiments et organisations.md#COMMERCE) || [Fort](./Bâtiments et organisations.md#FORT) || [Manoir](./Bâtiments et organisations.md#MANOIR) || [Prison](./Bâtiments et organisations.md#PRISON) || [Université](./Bâtiments et organisations.md#UNIVERSITÉ)
+| [[Bâtiments et organisations#BANQUE|Banque]] || [[Bâtiments et organisations#COMMERCE|Commerce]] || [[Bâtiments et organisations#FORT|Fort]] || [[Bâtiments et organisations#MANOIR|Manoir]] || [[Bâtiments et organisations#PRISON|Prison]] || [[Bâtiments et organisations#UNIVERSITÉ|Université]]
 |-
-| [Bibliothèque](./Bâtiments et organisations.md#BIBLIOTHÈQUE) || [Complexe de bureau](./Bâtiments et organisations.md#COMPLEXE DE BUREAUX) || [Front de mer](./Bâtiments et organisations.md#FRONT DE MER) || [Marché noir](./Bâtiments et organisations.md#MARCHÉ NOIR) || [Quai](./Bâtiments et organisations.md#QUAI) || [Villa de noble](./Bâtiments et organisations.md#VILLA DE NOBLE)
+| [[Bâtiments et organisations#BIBLIOTHÈQUE|Bibliothèque]] || [[Bâtiments et organisations#COMPLEXE DE BUREAUX|Complexe de bureau]] || [[Bâtiments et organisations#FRONT DE MER|Front de mer]] || [[Bâtiments et organisations#MARCHÉ NOIR|Marché noir]] || [[Bâtiments et organisations#QUAI|Quai]] || [[Bâtiments et organisations#VILLA DE NOBLE|Villa de noble]]
 |-
-| [Boutique](./Bâtiments et organisations.md#BOUTIQUE) || [École](./Bâtiments et organisations.md#ÉCOLE) || [Garnison](./Bâtiments et organisations.md#GARNISON) || [Monastère](./Bâtiments et organisations.md#MONASTÈRE) || [Salle de bal](./Bâtiments et organisations.md#SALLE DE BAL) || [Zoo](./Bâtiments et organisations.md#ZOO)
+| [[Bâtiments et organisations#BOUTIQUE|Boutique]] || [[Bâtiments et organisations#ÉCOLE|École]] || [[Bâtiments et organisations#GARNISON|Garnison]] || [[Bâtiments et organisations#MONASTÈRE|Monastère]] || [[Bâtiments et organisations#SALLE DE BAL|Salle de bal]] || [[Bâtiments et organisations#ZOO|Zoo]]
 |-
-| [Boutique de luxe](./Bâtiments et organisations.md#BOUTIQUE DE LUXE) || [École de bardes](./Bâtiments et organisations.md#ÉCOLE DE BARDES) || [Grange](./Bâtiments et organisations.md#GRANGE) || [Monument](./Bâtiments et organisations.md#MONUMENT) || [Sanctuaire](./Bâtiments et organisations.md#SANCTUAIRE) || &emsp;
+| [[Bâtiments et organisations#BOUTIQUE DE LUXE|Boutique de luxe]] || [[Bâtiments et organisations#ÉCOLE DE BARDES|École de bardes]] || [[Bâtiments et organisations#GRANGE|Grange]] || [[Bâtiments et organisations#MONUMENT|Monument]] || [[Bâtiments et organisations#SANCTUAIRE|Sanctuaire]] || &emsp;
 |}
 
 <table class="page espace-col deuxcol"><tr><td>
@@ -586,13 +586,13 @@ Cette rubrique présente quelques organisations types, leur coût de création e
 |- CLASS="titre"
 | COLSPAN="4" | Nom
 |- CLASS="premier"
-| [Bande de gros-bras](./Bâtiments et organisations.md#BANDE DE GROS-BRAS) || [Club de combat](./Bâtiments et organisations.md#CLUB DE COMBAT) || [Guilde d'artisans](./Bâtiments et organisations.md#GUILDE D’ARTISANS) || [Suite](./Bâtiments et organisations.md#SUITE)
+| [[Bâtiments et organisations#BANDE DE GROS-BRAS|Bande de gros-bras]] || [[Bâtiments et organisations#CLUB DE COMBAT|Club de combat]] || [[Bâtiments et organisations#GUILDE D’ARTISANS|Guilde d'artisans]] || [[Bâtiments et organisations#SUITE|Suite]]
 |-
-| [Cabale](./Bâtiments et organisations.md#CABALE) || [Companie de mercenaires](./Bâtiments et organisations.md#COMPAGNIE DE MERCENAIRES) || [Groupe de chasseurs](./Bâtiments et organisations.md#GROUPE DE CHASSEURS) || [Troupe de théâtre](./Bâtiments et organisations.md#TROUPE DE THÉÂTRE)
+| [[Bâtiments et organisations#CABALE|Cabale]] || [[Bâtiments et organisations#COMPAGNIE DE MERCENAIRES|Companie de mercenaires]] || [[Bâtiments et organisations#GROUPE DE CHASSEURS|Groupe de chasseurs]] || [[Bâtiments et organisations#TROUPE DE THÉÂTRE|Troupe de théâtre]]
 |-
-| [Cavaraniers](./Bâtiments et organisations.md#CARAVANIERS) || [Culte](./Bâtiments et organisations.md#CULTE) || [Guilde de voleurs](./Bâtiments et organisations.md#GUILDE DE VOLEURS) || [Vagabonds](./Bâtiments et organisations.md#VAGABONDS)
+| [[Bâtiments et organisations#CARAVANIERS|Cavaraniers]] || [[Bâtiments et organisations#CULTE|Culte]] || [[Bâtiments et organisations#GUILDE DE VOLEURS|Guilde de voleurs]] || [[Bâtiments et organisations#VAGABONDS|Vagabonds]]
 |-
-| [Chasseurs de primes](./Bâtiments et organisations.md#CHASSEURS DE PRIMES) || [Équipage de navire](./Bâtiments et organisations.md#ÉQUIPAGE DE NAVIRE) || &emsp; || &emsp;
+| [[Bâtiments et organisations#CHASSEURS DE PRIMES|Chasseurs de primes]] || [[Bâtiments et organisations#ÉQUIPAGE DE NAVIRE|Équipage de navire]] || &emsp; || &emsp;
 |}
 
 <table class="page espace-col deuxcol"><tr><td>

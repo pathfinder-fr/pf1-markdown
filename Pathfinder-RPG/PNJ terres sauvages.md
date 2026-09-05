@@ -15,9 +15,9 @@ sont établis dans ces contrées et, tout comme les bêtes sauvages avec lesquel
 {s:Reference|TRAPPEUR}
 {s:BDTitre|Trappeur|FP 3}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|Humain [rôdeur](./Rôdeur.md) 4}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [Perception](./Perception.md) +7}
+{s:BDTexte|Humain [[rôdeur]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 14 (armure +3, bouclier +1, Dex +2, esquive +1)}
 {s:BDTexte|**pv** 30 (4d10+8)}
@@ -28,21 +28,21 @@ sont établis dans ces contrées et, tout comme les bêtes sauvages avec lesquel
 {s:BDTexte|**A distance** arc long composite de maître, +7 (1d8+1/×3) ou hache de lancer, +6 (1d6+2)}
 {s:BDTexte|**Attaque spéciale** ennemi de prédilection (animaux +2)}
 {s:BDTexte|**Sorts de rôdeur préparés** (NLS 1 ; concentration +2)}
-{s:BDSorts|1<sup>er</sup> — *[charme-animal](./Charme-animal.md)* (DD 12)}
+{s:BDSorts|1<sup>er</sup> — *[[charme-animal]]* (DD 12)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 15, **Con** 12, **Int** 10, **Sag** 13, **Cha** 10}
 {s:BDTexte|**BBA** +4, **BMO** +6, **DMD** 19}
-{s:BDTexte|**Dons**  [Endurance](./Endurance.md),[Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Tir à bout portant](./Tir à bout portant.md), [Viser](./Viser.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (pièges) +9, [Discrétion](./Discrétion.md) +8, [Dressage](./Dressage.md) +6, [Équitation](./Équitation.md) +6, [Escalade](./Escalade.md) +10, [Natation](./Natation.md) +6, [Perception](./Perception.md) +7, [Premiers secours](./Premiers secours.md) +8, [Profession](./Profession.md) (trappeur) +8, [Survie](./Survie.md) +8  (+10 pour suivre une piste)}
+{s:BDTexte|**Dons**  [[Endurance]],[[Esquive]], [[Souplesse du serpent]], [[Tir à bout portant]], [[Viser]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (pièges) +9, [[Discrétion]] +8, [[Dressage]] +6, [[Équitation]] +6, [[Escalade]] +10, [[Natation]] +6, [[Perception]] +7, [[Premiers secours]] +8, [[Profession]] (trappeur) +8, [[Survie]] +8  (+10 pour suivre une piste)}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** empathie sauvage +4, pacte du chasseur (compagnon animal : blaireau), pistage +2, terrain de prédilection (forêts +2)}
-{s:BDTexte|**Équipement de combat** parchemins de *[communication avec les animaux](./Communication avec les animaux.md)* (2) et de *[soins légers](./Soins légers.md)* (2), venin de vipère à tête noire (1 dose) ; **Autre équipement** armure de cuir cloutée de maître, targe de maître, arc long composite de maître <nowiki>[</nowiki>Force +1<nowiki>]</nowiki> avec 20 flèches, hache d’armes de maître, haches de lancer (2), matériel d’escalade, outil de construction de pièges de maître, trousse de premiers secours}
-{s:BDTexte|**Faveur** Un trappeur peut fournir aux PJ de la nourriture pour une semaine et leur dévoiler les secrets des contrées sauvages où il vit, ce qui leur donne un bonus de circonstances de +2 aux tests de [Survie](./Survie.md) dans un rayon de 30 km.}
+{s:BDTexte|**Équipement de combat** parchemins de *[[communication avec les animaux]]* (2) et de *[[soins légers]]* (2), venin de vipère à tête noire (1 dose) ; **Autre équipement** armure de cuir cloutée de maître, targe de maître, arc long composite de maître <nowiki>[[</nowiki>Force +1<nowiki>]]</nowiki> avec 20 flèches, hache d’armes de maître, haches de lancer (2), matériel d’escalade, outil de construction de pièges de maître, trousse de premiers secours}
+{s:BDTexte|**Faveur** Un trappeur peut fournir aux PJ de la nourriture pour une semaine et leur dévoiler les secrets des contrées sauvages où il vit, ce qui leur donne un bonus de circonstances de +2 aux tests de [[Survie]] dans un rayon de 30 km.}
 </div></td>
 <td><div>
 Les trappeurs sont des chasseurs itinérants qui parcourent les forêts. Ils s’attaquent à tous les animaux qu’ils peuvent chasser ou piéger en toute sécurité, mais on les connaît surtout pour le rôle important qu’ils jouent dans le commerce des fourrures et les pièges efficaces et mortels qu’ils fabriquent pour attraper les animaux imprudents qui vivent dans la forêt. On peut les utiliser comme garde-chasse royaux, éclaireurs ou chasseurs d’une tribu de nomades.
 
-Les trappeurs sont généralement solitaires mais s’allient parfois avec un autre trappeur (FP 5), un [chasseur de monstres](./PNJ aventuriers.md#CHASSEURDEMONSTRES) (FP 6) ou un [maître des bêtes](./PNJ arènes.md#MAITREDESBETES) (FP 7) pour profiter d’un peu de compagnie.
+Les trappeurs sont généralement solitaires mais s’allient parfois avec un autre trappeur (FP 5), un [[PNJ aventuriers#CHASSEURDEMONSTRES|chasseur de monstres]] (FP 6) ou un [[PNJ arènes#MAITREDESBETES|maître des bêtes]] (FP 7) pour profiter d’un peu de compagnie.
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -50,9 +50,9 @@ Les trappeurs sont généralement solitaires mais s’allient parfois avec un au
 {s:Reference|ERMITE}
 {s:BDTitre|Ermite|FP 6}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|Humain [druide](./Druide.md) 7}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [Perception](./Perception.md) +10}
+{s:BDTexte|Humain [[druide]] 7}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 10, pris au dépourvu 11 (armure +1)}
 {s:BDTexte|**pv** 38 (7d8+7)}
@@ -63,26 +63,26 @@ Les trappeurs sont généralement solitaires mais s’allient parfois avec un au
 {s:BDTexte|**Corps à corps** bâton, +4 (1d6–1)}
 {s:BDTexte|**Attaque spéciale** forme animale 2/jour}
 {s:BDTexte|**sorts de druide préparés** (NLS 7 ; Concentration +11)}
-{s:BDSorts|4<sup>e</sup> — *[colonne de feu](./Colonne de feu.md)* (DD 18), *[marche dans les airs](./Marche dans les airs.md)*}
-{s:BDSorts|3<sup>e</sup> — *[appel de la foudre](./Appel de la foudre.md)* (DD 18), *[communication avec les plantes](./Communication avec les plantes.md)*, *[façonnage de la pierre](./Façonnage de la pierre.md)*}
-{s:BDSorts|2<sup>e</sup> — *[forme d’arbre](./Forme darbre.md)*, *[immobilisation d’animal](./Immobilisation danimal.md)* (DD 18), *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, *[sphère de feu](./Sphère de feu.md)* (DD 18)}
-{s:BDSorts|1<sup>er</sup> — *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)*, *[flammes](./Flammes.md)*, *[grand pas](./Grand pas.md)*, *[invisibilité pour les animaux](./Invisibilité pour les animaux.md)*, *[soins légers](./Soins légers.md)*}
-{s:BDSorts|0 (à volonté) — *[assistance divine](./Assistance divine.md)*, *[création d’eau](./Création deau.md)*, *[purification de nourriture et d’eau](./Purification de nourriture et deau.md)*, *[réparation](./Réparation.md)*}
+{s:BDSorts|4<sup>e</sup> — *[[colonne de feu]]* (DD 18), *[[marche dans les airs]]*}
+{s:BDSorts|3<sup>e</sup> — *[[appel de la foudre]]* (DD 18), *[[communication avec les plantes]]*, *[[façonnage de la pierre]]*}
+{s:BDSorts|2<sup>e</sup> — *[[forme darbre|forme d’arbre]]*, *[[immobilisation danimal|immobilisation d’animal]]* (DD 18), *[[résistance aux énergies destructives]]*, *[[sphère de feu]]* (DD 18)}
+{s:BDSorts|1<sup>er</sup> — *[[endurance aux énergies destructives]]*, *[[flammes]]*, *[[grand pas]]*, *[[invisibilité pour les animaux]]*, *[[soins légers]]*}
+{s:BDSorts|0 (à volonté) — *[[assistance divine]]*, *[[création deau|création d’eau]]*, *[[purification de nourriture et deau|purification de nourriture et d’eau]]*, *[[réparation]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 10, **Con** 13, **Int** 14, **Sag** 18, **Cha** 12}
 {s:BDTexte|**BBA** +5, **BMO** +4, **DMD** 14}
-{s:BDTexte|**Dons** [Autonome](./Autonome.md), [Combat en aveugle](./Combat en aveugle.md) ([Création de baguettes magiques](./Création de baguettes magiques.md), [Incantation animale](./Incantation animale.md), [Magie de guerre](./Magie de guerre.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +6, [Connaissances](./Connaissances.md) (exploration souterraine) +5, [Connaissances](./Connaissances.md) (géographie) +10, [Connaissances](./Connaissances.md) (nature) +12, [Dressage](./Dressage.md) +11, [Linguistique](./Linguistique.md) +5, [Natation](./Natation.md) +4, [Perception](./Perception.md) +10, [Premiers secours](./Premiers secours.md) +18, [Profession](./Profession.md) (herboriste) +10, [Profession](./Profession.md) (jardinier) +10, [Survie](./Survie.md) +18, [Vol](./Vol.md) +10}
+{s:BDTexte|**Dons** [[Autonome]], [[Combat en aveugle]] ([[Création de baguettes magiques]], [[Incantation animale]], [[Magie de guerre]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +6, [[Connaissances]] (exploration souterraine) +5, [[Connaissances]] (géographie) +10, [[Connaissances]] (nature) +12, [[Dressage]] +11, [[Linguistique]] +5, [[Natation]] +4, [[Perception]] +10, [[Premiers secours]] +18, [[Profession]] (herboriste) +10, [[Profession]] (jardinier) +10, [[Survie]] +18, [[Vol]] +10}
 {s:BDTexte|**Langues** aérien, aquatique, commun, igné, sylvestre, terreux}
 {s:BDTexte|**Particularités** absence de traces, déplacement facilité, empathie sauvage +8, instinct naturel, pacte avec la nature (compagnon animal : hibou)}
 
-{s:BDTexte|**Équipement de combat** baguettes de *[communication avec les animaux](./Communication avec les animaux.md)*, de *[détection de la faune ou de la flore](./Détection de la faune ou de la flore.md)*, de *[lueur féerique](./Lueur féerique.md)*, de *[restauration partielle](./Restauration partielle.md)* et de *[soins légers](./Soins légers.md)* (50 charges chacune), antidote (2) ; **Autre équipement** bâton, *bracelets d’armure +1*, *cape de résistance +1*, symbole sacré en bois, trousse de premiers secours}
-{s:BDTexte|**Faveur** Un ermite peut offrir des soins, de la nourriture ou un abri pendant une période d’au plus une semaine. Il peut aussi arranger une entrevue avec une créature intelligente ou un PNJ vivant dans les contrées sauvages et, grâce à sa réputation, ajouter un bonus de +5 aux tests de [Diplomatie](./Diplomatie.md) liés à cette entrevue.}
+{s:BDTexte|**Équipement de combat** baguettes de *[[communication avec les animaux]]*, de *[[détection de la faune ou de la flore]]*, de *[[lueur féerique]]*, de *[[restauration partielle]]* et de *[[soins légers]]* (50 charges chacune), antidote (2) ; **Autre équipement** bâton, *bracelets d’armure +1*, *cape de résistance +1*, symbole sacré en bois, trousse de premiers secours}
+{s:BDTexte|**Faveur** Un ermite peut offrir des soins, de la nourriture ou un abri pendant une période d’au plus une semaine. Il peut aussi arranger une entrevue avec une créature intelligente ou un PNJ vivant dans les contrées sauvages et, grâce à sa réputation, ajouter un bonus de +5 aux tests de [[Diplomatie]] liés à cette entrevue.}
 </div>
 </td><td><div>
 Les ermites sont des solitaires qui vivent dans les contrées sauvages, en harmonie avec la nature et se délectent de leur solitude loin du bruit et de l’agitation de la civilisation. Ils peuvent se comporter en sentinelles des forêts et surveiller ceux qui s’y introduisent.
 
-Ils ont rarement d’autres compagnons que des animaux mais peuvent parfois avoir un [pèlerin](./PNJ routes.md#PELERIN) ou deux [vagabonds](./PNJ routes.md#VAGABOND) comme invités (FP 7) ou s’entretenir avec un [chamane](./PNJ tribus.md#CHAMANE) et un [maître des bêtes](./PNJ arènes.md#MAITREDESBETES) (FP 9) dont la tribu vit non loin.
+Ils ont rarement d’autres compagnons que des animaux mais peuvent parfois avoir un [[PNJ routes#PELERIN|pèlerin]] ou deux [[PNJ routes#VAGABOND|vagabonds]] comme invités (FP 7) ou s’entretenir avec un [[PNJ tribus#CHAMANE|chamane]] et un [[PNJ arènes#MAITREDESBETES|maître des bêtes]] (FP 9) dont la tribu vit non loin.
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -90,9 +90,9 @@ Ils ont rarement d’autres compagnons que des animaux mais peuvent parfois avoi
 {s:Reference|GUIDE}
 {s:BDTitre|Guide|FP 7}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|Humain [expert](./Expert.md) 9}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [Perception](./Perception.md) +14}
+{s:BDTexte|Humain [[expert]] 9}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 12, pris au dépourvu 15 (armure +5, Dex +2)}
 {s:BDTexte|**pv** 40 (9d8)}
@@ -104,10 +104,10 @@ Ils ont rarement d’autres compagnons que des animaux mais peuvent parfois avoi
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 14, **Con** 10, **Int** 11, **Sag** 14, **Cha** 8}
 {s:BDTexte|**BBA** +6, **BMO** +6, **DMD** 18}
-{s:BDTexte|**Dons** [Combat monté](./Combat monté.md), [Endurance](./Endurance.md), [Fraternité animale](./Fraternité animale.md), [Talent](./Talent.md) (Survie), [Tir à bout portant](./Tir à bout portant.md), [Tir de loin](./Tir de loin.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (folklore local) +5, [Connaissances](./Connaissances.md) (géographie) +12, [Connaissances](./Connaissances.md) (nature) +5, [Discrétion](./Discrétion.md) +13, [Dressage](./Dressage.md) +12, [Équitation](./Équitation.md) +15, [Escalade](./Escalade.md) +8, [Linguistique](./Linguistique.md) +9, [Natation](./Natation.md) +4, [Perception](./Perception.md) +14, [Survie](./Survie.md) +17}
+{s:BDTexte|**Dons** [[Combat monté]], [[Endurance]], [[Fraternité animale]], [[Talent]] (Survie), [[Tir à bout portant]], [[Tir de loin]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (folklore local) +5, [[Connaissances]] (géographie) +12, [[Connaissances]] (nature) +5, [[Discrétion]] +13, [[Dressage]] +12, [[Équitation]] +15, [[Escalade]] +8, [[Linguistique]] +9, [[Natation]] +4, [[Perception]] +14, [[Survie]] +17}
 {s:BDTexte|**Langues** commun, elfique, gnoll, gnome, halfelin, orque, sylvestre}
-{s:BDTexte|**Équipement de combat** bâton fumigène, potion de *[pattes d’araignée](./Pattes daraignée.md)*, sacoches immobilisantes (2) ; **Autre équipement** *chemise de mailles +1*, *arbalète légère +1* avec 20 carreaux, dague, épieu de maître, allume-feu (5), cheval lourd (entraîné au combat) avec barde de cuir cloutée et *fers à cheval de rapidité*, matériel d’escalade, 5 po}
+{s:BDTexte|**Équipement de combat** bâton fumigène, potion de *[[pattes daraignée|pattes d’araignée]]*, sacoches immobilisantes (2) ; **Autre équipement** *chemise de mailles +1*, *arbalète légère +1* avec 20 carreaux, dague, épieu de maître, allume-feu (5), cheval lourd (entraîné au combat) avec barde de cuir cloutée et *fers à cheval de rapidité*, matériel d’escalade, 5 po}
 {s:BDTexte|**Faveur** Un guide peut pister une créature spécifique ou aider les PJ à traverser une zone sauvage en toute sécurité pendant 3 jours.}
 </div></td>
 <td><div>
@@ -116,5 +116,5 @@ Les guides sont des explorateurs et des pionniers, des pisteurs hors pair et des
 Les guides peuvent également servir de messagers sur de longues distances ou appartenir à une unité de messagers royaux
 ayant reçu un entraînement spécial. Dans une armée puissante, il peut aussi s’agir de dragons d’élite ou de troupes d’infanterie montée.
 
-On peut rencontrer un guide occupé à escorter deux [pèlerins](./PNJ routes.md#PELERIN) (FP 8) ou deux [marchands itinérants](./PNJ marchands.md#MARCHANDITINERANT) et le [mercenaire armé](./PNJ mercenaires.md#MERCENAIREARME) qui leur sert de garde du corps (FP 10). Un guide peut aussi être à la tête d’une caravane toute entière avec huit [gardes de caravane](./PNJ mercenaires.md#GARDEDECARAVANE) et huit [vagabonds](./PNJ routes.md#VAGABOND) (FP 10). Un guide peut s’allier avec un [chasseur de monstres](./PNJ aventuriers.md#CHASSEURDEMONSTRES) ou un [ménestrel](./PNJ amuseurs publiques.md#MENESTREL) (FP 8) ou avec deux [chevaliers](./PNJ nobles.md#CHEVALIER) chassant le mal dans les contrées sauvages (FP 9). Les guides les plus sages collaborent avec deux [trappeurs](./PNJ terres sauvages.md#TRAPPEUR) connaissant très bien la région (FP 8)
+On peut rencontrer un guide occupé à escorter deux [[PNJ routes#PELERIN|pèlerins]] (FP 8) ou deux [[PNJ marchands#MARCHANDITINERANT|marchands itinérants]] et le [[PNJ mercenaires#MERCENAIREARME|mercenaire armé]] qui leur sert de garde du corps (FP 10). Un guide peut aussi être à la tête d’une caravane toute entière avec huit [[PNJ mercenaires#GARDEDECARAVANE|gardes de caravane]] et huit [[PNJ routes#VAGABOND|vagabonds]] (FP 10). Un guide peut s’allier avec un [[PNJ aventuriers#CHASSEURDEMONSTRES|chasseur de monstres]] ou un [[PNJ amuseurs publiques#MENESTREL|ménestrel]] (FP 8) ou avec deux [[PNJ nobles#CHEVALIER|chevaliers]] chassant le mal dans les contrées sauvages (FP 9). Les guides les plus sages collaborent avec deux [[PNJ terres sauvages#TRAPPEUR|trappeurs]] connaissant très bien la région (FP 8)
 </div></td></tr></table>

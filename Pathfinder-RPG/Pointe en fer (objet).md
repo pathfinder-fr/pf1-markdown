@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pc ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Cette pointe en fer de 30 centimètres sert à garder les portes ouvertes ou fermées et à fixer les cordes pour l'escalade. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 5 pour entendre quelqu'un enfoncer une pointe en fer à coup de [marteau](./Marteau (objet).md).
+Cette pointe en fer de 30 centimètres sert à garder les portes ouvertes ou fermées et à fixer les cordes pour l'escalade. Il faut réussir un test de [[Perception]] [[DD]] 5 pour entendre quelqu'un enfoncer une pointe en fer à coup de [[Marteau (objet)|marteau]].

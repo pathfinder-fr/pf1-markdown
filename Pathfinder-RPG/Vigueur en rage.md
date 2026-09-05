@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Lorsque le personnage est en rage, il est plein de vigueur.*
 
-**Conditions.** [Con](./Constitution.md) 15, aptitude de classe de [rage](./Rage.md).
+**Conditions.** [[Constitution|Con]] 15, aptitude de classe de [[rage]].
 
-**Avantage.** Chaque fois que le personnage est en rage, le bonus de moral qui affecte sa [Constitution](./Constitution.md) augmente de +2. La rage ne se termine pas automatiquement s’il tombe [inconscient](./Inconscient.md) : tant qu’il est inconscient, il doit dépenser un round de son quota quotidien de rage chaque round.
+**Avantage.** Chaque fois que le personnage est en rage, le bonus de moral qui affecte sa [[Constitution]] augmente de +2. La rage ne se termine pas automatiquement s’il tombe [[inconscient]] : tant qu’il est inconscient, il doit dépenser un round de son quota quotidien de rage chaque round.

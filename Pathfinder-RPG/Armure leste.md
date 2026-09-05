@@ -11,12 +11,12 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage tire le meilleur parti des capacités magiques de son armure.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise d'armure](./Dons.md#MAITRISEDARMURE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDARMURE|maîtrise d'armure]]
 
-**Conditions.** [Dex](./Dex.md) 13, [BBA](./BBA.md) +11 ou [guerrier](./Guerrier.md) de niveau 8, capacité de classe [entrainement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES), formation au port des armures légères
+**Conditions.** [[Dex]] 13, [[BBA]] +11 ou [[guerrier]] de niveau 8, capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entrainement aux armures]], formation au port des armures légères
 
-**Avantage.** Le personnage ajoute le bonus d’altération de son armure à ses tests d’[initiative](./initiative.md).
+**Avantage.** Le personnage ajoute le bonus d’altération de son armure à ses tests d’[[initiative]].
 
 {s:AMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance par une [action immédiate](./Action immédiate.md) pour obtenir un bonus de circonstances à ses jets de [Réflexes](./Réflexes.md) égale au bonus d’altération de son armure pendant 1 round.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance par une [[action immédiate]] pour obtenir un bonus de circonstances à ses jets de [[Réflexes]] égale au bonus d’altération de son armure pendant 1 round.

@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Hobkins|FP 1/2}
 {s:pucem|Fée|Ville|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.143](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.143]]*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Fée](./type Fée.md) de taille P, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Fée|Fée]] de taille P, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 11 (Dex +2, taille +1)}
 {s:BDTexte|**pv** 9 (2d6+2)}
@@ -24,13 +24,13 @@ Categories:
 {s:BDTexte|**VD** 9 m, lévitation partielle}
 {s:BDTexte|**Corps à corps** 2 griffes, +4 (1d4-1)}
 {s:BDTexte|**Attaques spéciales** dégâts collatéraux}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 2 ; [concentration](./concentration.md) +4)}
-{s:BDSorts|À volonté — *[image silencieuse](./Image silencieuse.md)* (DD 13), *[lumières dansantes](./Lumières dansantes.md)*, *[son imaginaire](./Son imaginaire.md)* (DD 12)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 2 ; [[concentration]] +4)}
+{s:BDSorts|À volonté — *[[image silencieuse]]* (DD 13), *[[lumières dansantes]]*, *[[son imaginaire]]* (DD 12)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 15, **Con** 12, **Int** 13, **Sag** 12, **Cha** 15}
 {s:BDTexte|**BBA** +1 ; **BMO** -1 ; **DMD** 11}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +7, [Bluff](./Bluff.md) +7, [Connaissances](./Connaissances.md) (folklore local) +6, [Discrétion](./Discrétion.md) +11 [Intimidation](./Intimidation.md) +11, [Perception](./Perception.md) +6, [Psychologie](./Psychologie.md) +6 ; **Modificateurs raciaux** +4 en Intimidation}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +7, [[Bluff]] +7, [[Connaissances]] (folklore local) +6, [[Discrétion]] +11 [[Intimidation]] +11, [[Perception]] +6, [[Psychologie]] +6 ; **Modificateurs raciaux** +4 en Intimidation}
 {s:BDTexte|**Langues** aklo, commun}
 {s:BDTexte|**Particularités** intimidant}
 {s:BDSousTitre|Écologie}
@@ -38,13 +38,13 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, gang (2-5) ou infestation (6-30 plus 1 scélérat hobkins)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Dégâts collatéraux (Sur).** Chaque fois qu’une attaque n’inflige aucun dégât à un hobkins, parce que le résultat de l’attaque est trop faible, suite à un échec exprimé par un pourcentage de chances de rater ou pour pénétrer une [RD](./RD.md), le hobkins peut rediriger l’attaque vers une cible située à portée de l’attaque d’origine (si une telle créature est présente). L’attaque ne peut pas être redirigée vers l’attaquant d’origine. L’attaquant fait un nouveau [jet d'attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) contre la nouvelle cible, et on considère qu’il possède le don [Science du critique](./Science du critique.md) correspondant à l’attaque redirigée. Les hobkins utilisent souvent ce pouvoir pour détruire les précieuses possessions de leurs victimes à leurs dépens.}
-{s:BDTexte|**Déphasé (Sur).** Les hobkins sont toujours quelque peu déphasés avec le plan Matériel. Par conséquent, toutes les attaques à distance effectuées contre eux, y compris les sorts nécessitant des [jets d'attaque](./jet dattaque.md) de [contact](./contact.md) à distance, subissent un risque d’échec de 75%. Tous les effets qui empêchent le sort de *[clignotement](./Clignotement.md)* empêchent également ce pouvoir de fonctionner.}
-{s:BDTexte|**Intimidant (Ext).** L’[Intimidation](./Intimidation.md) est toujours une compétence de classe pour les hobkins qui ne subissent jamais de malus aux tests d’Intimidation effectués contre une cible plus grande qu’eux.}
-{s:BDTexte|**Lévitation partielle (Sur).** Les hobkins flottent le plus souvent à 2 centimètres environ au-dessus du sol. Un hobkins peut léviter à la verticale sur une hauteur maximale de 6 mètres par une [action de mouvement](./Action de mouvement.md), mais à la fin de son déplacement, il retourne à une hauteur de 2 centimètres au-dessus de la surface plane en contrebas la plus proche s’il ne trouve aucune prise à agripper ou surface où se poser.}
+{s:BDTexte|**Dégâts collatéraux (Sur).** Chaque fois qu’une attaque n’inflige aucun dégât à un hobkins, parce que le résultat de l’attaque est trop faible, suite à un échec exprimé par un pourcentage de chances de rater ou pour pénétrer une [[RD]], le hobkins peut rediriger l’attaque vers une cible située à portée de l’attaque d’origine (si une telle créature est présente). L’attaque ne peut pas être redirigée vers l’attaquant d’origine. L’attaquant fait un nouveau [[jet dattaque|jet d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] contre la nouvelle cible, et on considère qu’il possède le don [[Science du critique]] correspondant à l’attaque redirigée. Les hobkins utilisent souvent ce pouvoir pour détruire les précieuses possessions de leurs victimes à leurs dépens.}
+{s:BDTexte|**Déphasé (Sur).** Les hobkins sont toujours quelque peu déphasés avec le plan Matériel. Par conséquent, toutes les attaques à distance effectuées contre eux, y compris les sorts nécessitant des [[jet dattaque|jets d'attaque]] de [[contact]] à distance, subissent un risque d’échec de 75%. Tous les effets qui empêchent le sort de *[[clignotement]]* empêchent également ce pouvoir de fonctionner.}
+{s:BDTexte|**Intimidant (Ext).** L’[[Intimidation]] est toujours une compétence de classe pour les hobkins qui ne subissent jamais de malus aux tests d’Intimidation effectués contre une cible plus grande qu’eux.}
+{s:BDTexte|**Lévitation partielle (Sur).** Les hobkins flottent le plus souvent à 2 centimètres environ au-dessus du sol. Un hobkins peut léviter à la verticale sur une hauteur maximale de 6 mètres par une [[action de mouvement]], mais à la fin de son déplacement, il retourne à une hauteur de 2 centimètres au-dessus de la surface plane en contrebas la plus proche s’il ne trouve aucune prise à agripper ou surface où se poser.}
 
 </div></td>
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [gremlins](./Gremlin.md).***</li></ul>*Ce petit humanoïde à la peau gris-bleu a des yeux luisants et une grosse tête ronde, démesurée, encadrée de très longues oreilles.*
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Gremlin|gremlins]].***</li></ul>*Ce petit humanoïde à la peau gris-bleu a des yeux luisants et une grosse tête ronde, démesurée, encadrée de très longues oreilles.*
 
 Comme beaucoup de gremlins, les hobkins adorent détruire les choses appréciées par d’autres, mais à la différence de leurs semblables jinkins, ils préfèrent manipuler les gens en les forçant à détruire leurs propres possessions. Leur stratégie préférée consiste à utiliser leurs pouvoirs magiques et leur compétence d’Intimidation pour terroriser une famille. Pendant un orage, un hobkins peut presser sa tête contre la fenêtre d’une chambre d’enfant et attendre qu’un éclair illumine la scène, pour se cacher juste après afin de faire planer le doute quant à sa présence. Lorsque ses victimes commencent à paniquer, le gremlin leur laisse le temps de prendre leurs armes puis révèle sa présence en sautant et en lévitant hors d’atteinte pour obliger les victimes paniquées à lui lancer tout ce qui leur tombe sous la main.
 
@@ -53,7 +53,7 @@ Un hobkins mesure 1 mètre de haut pour 7,5 kilos.
 #### Scélérat hobkins
 Les hobkins ordinaires menacent les gens ordinaires et les aventuriers inattentifs plus agressifs que défensifs. Toutefois, les scélérats peuvent transformer un groupe de hobkins en une menace beaucoup plus effrayante. Dotés de pouvoirs psychiques étranges, ces scélérats hobkins peuvent transmettre leurs ordres par télépathie à une infinité de hobkins afin d’assurer une parfaite coordination.
 
-Les scélérats hobkins maîtrisent la [magie psychique](./Magie psychique (capacité).md), ainsi que divers sorts psychiques, différents pour chaque scélérat. Les scélérats évoluent en général en fonction du nombre de leurs [dés de vie](./../Ressources/DV.md), mais certains ont des niveaux d’[hypnotiseur](./Hypnotiseur.md) ou de [psychiste](./Psychiste.md).
+Les scélérats hobkins maîtrisent la [[Magie psychique (capacité)|magie psychique]], ainsi que divers sorts psychiques, différents pour chaque scélérat. Les scélérats évoluent en général en fonction du nombre de leurs [[DV|dés de vie]], mais certains ont des niveaux d’[[hypnotiseur]] ou de [[psychiste]].
 
 La destruction de choses précieuses pour les autres ne suffit pas à satisfaire les scélérats hobkins. Rien ne les satisfait plus que le massacre d’innocents des mains de ceux qui sont censés les protéger. Pour atteindre cet objectif, ils préméditent avec soin chacun des déplacements de leurs troupes dont la finalité consiste à cibler la totalité des habitants d’une petite communauté de leurs attaques redirigées lorsque les hobkins décident d’utiliser leur pouvoir de dégâts collatéraux.
 </div></td></tr></table>

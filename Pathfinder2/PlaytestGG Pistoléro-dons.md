@@ -4,17 +4,17 @@ Title: Le pistoléro (Playtest Guns & Gears) - dons de classe
 LastModified: 2021-01-11 22:48
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)   
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]   
 
-• [Retour à la page du playtest de Guns & Gears](./PlaytestGG.md)
+• [[PlaytestGG|Retour à la page du playtest de Guns & Gears]]
 
 À chaque niveau où vous gagnez un don d'inventeur, vous pouvez choisir l'un des dons suivants. Vous devez remplir tous les prérequis avant de pouvoir choisir un don.
 
-• Voir la [présentation du pistoléro](./PlaytestGG Pistoléro.md)  
+• Voir la [[PlaytestGG Pistoléro|présentation du pistoléro]]  
 
-• Voir l'[évolution du pistoléro](./PlaytestGG Pistoléro-évolution.md)
+• Voir l'[[PlaytestGG Pistoléro-évolution|évolution du pistoléro]]
 
 ### Niveau 1
 <div class="blocPF2">

@@ -6,9 +6,9 @@ LastModified: 2013-06-28 11:48
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Voir aussi la [licorne](./../Pathfinder-RPG/Licorne.md) et les [archétypes](./../Pathfinder-RPG/Archétypes.md)</ul>
-<ul>Voir aussi la[http://www.pathfinder-fr.org/Forum/yaf_postst2187_Evolution-d-une-Licorne.aspx|discussion]</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Voir aussi la [[Pathfinder-RPG.licorne|licorne]] et les [[Pathfinder-RPG.archétypes|archétypes]]</ul>
+<ul>Voir aussi la[discussion](http://www.pathfinder-fr.org/Forum/yaf_postst2187_Evolution-d-une-Licorne.aspx)</ul>
 </div>
 
 

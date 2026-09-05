@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Umbrale
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Umbrale](./Descriptions individuelles des propriétés spéciales des armes.md#Umbrale)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Umbrale]]

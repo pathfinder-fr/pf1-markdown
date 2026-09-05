@@ -16,11 +16,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Méd](./Médium.md) 1, [Psy](./Psychiste.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 1</br>
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1</br>
 **Temps d’incantation** 1 action simple</br>
-**Composantes **[V, G](./composantes.md)</br>
+**Composantes **[[Composantes|V, G]]</br>
 **Portée **personnelle</br>
 **Cible **le lanceur de sorts</br>
-**Durée **1 minute/[niveau](./niveau.md) (T)</br>
+**Durée **1 minute/[[niveau]] (T)</br>
 
 Les bras du personnage s’allongent temporairement, augmentant son allonge de 1,5 mètre avec ces membres.

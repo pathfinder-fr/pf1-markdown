@@ -11,35 +11,35 @@ Categories:
 <div class="BD">
 {s:BDTitre|Fext|FP 10}
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.128](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.128]]*}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, LM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +20}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, LM}
+{s:BDTexte|**Init** +4 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +20}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 12, pris au dépourvu 23 (armure +9, bouclier +2, Dex +1, esquive +1, naturelle +2)}
 {s:BDTexte|**pv** 127 (15d8+60)}
 {s:BDTexte|**Réf** +9, **Vig** +9, **Vol** +11}
-{s:BDTexte|**RD** 10/verre ou obsidienne, **Immunités** froid, [traits des morts-vivants](./Traits des morts-vivants (capacité).md) ; **Résistances** électricité 10, feu 10 ; **RM** 21}
+{s:BDTexte|**RD** 10/verre ou obsidienne, **Immunités** froid, [[Traits des morts-vivants (capacité)|traits des morts-vivants]] ; **Résistances** électricité 10, feu 10 ; **RM** 21}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (9 m en armure)}
-{s:BDTexte|**Corps à corps** épée bâtarde +1, +20/+15/+10 (1d10+8/17-20) ou coup, +18 (1d4+10 plus [absorption d'énergie](./Absorption dénergie (capacité).md))}
-{s:BDTexte|**Attaques spéciales** [absorption d'énergie](./Absorption dénergie (capacité).md) (1d4 niveaux, DD 21)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 15 ; [concentration](./concentration.md) +19)}
-{s:BDSorts|À volonté — *[communication avec les morts](./Communication avec les morts.md)* (DD 17), *[mise à mort](./Mise à mort.md)* (DD 16), *[protection contre le Bien](./Protection contre le Bien.md)*}
-{s:BDSorts|3/jour — *[malédiction](./sort Malédiction.md)* (DD 17)}
+{s:BDTexte|**Corps à corps** épée bâtarde +1, +20/+15/+10 (1d10+8/17-20) ou coup, +18 (1d4+10 plus [[Absorption dénergie (capacité)|absorption d'énergie]])}
+{s:BDTexte|**Attaques spéciales** [[Absorption dénergie (capacité)|absorption d'énergie]] (1d4 niveaux, DD 21)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 15 ; [[concentration]] +19)}
+{s:BDSorts|À volonté — *[[communication avec les morts]]* (DD 17), *[[mise à mort]]* (DD 16), *[[protection contre le Bien]]*}
+{s:BDSorts|3/jour — *[[sort Malédiction|malédiction]]* (DD 17)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 18, **Con** —, **Int** 13, **Sag** 15, **Cha** 18}
 {s:BDTexte|**BBA** +11 ; **BMO** +18 ; **DMD** 33}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée bâtarde), [Attaque éclair](./Attaque éclair.md), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Esquive](./Esquive.md), [Science du critique](./Science du critique.md) (épée bâtarde), [Souplesse du serpent](./Souplesse du serpent.md), [Succession d'enchaînements](./Succession denchaînements.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +4, [Connaissances](./Connaissances.md) (ingénierie) +12, [Connaissances](./Connaissances.md) (religion) +12, [Déguisement](./Déguisement.md) +15, [Discrétion](./Discrétion.md) +11, [Intimidation](./Intimidation.md) +20, [Perception](./Perception.md) +20, [Psychologie](./Psychologie.md) +9}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée bâtarde), [[Attaque éclair]], [[Attaque en puissance]], [[Enchaînement]], [[Esquive]], [[Science du critique]] (épée bâtarde), [[Souplesse du serpent]], [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +4, [[Connaissances]] (ingénierie) +12, [[Connaissances]] (religion) +12, [[Déguisement]] +15, [[Discrétion]] +11, [[Intimidation]] +20, [[Perception]] +20, [[Psychologie]] +9}
 {s:BDTexte|**Langues** commun, infernal}
 {s:BDTexte|**Particularités** indestructible}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation** solitaire}
-{s:BDTexte|**Trésor** standard (*[épée bâtarde](./épée bâtarde (arme).md) +1*, [harnois](./harnois (armure).md), [écu en acier](./écu (armure).md), autre équipement)}
+{s:BDTexte|**Trésor** standard (*[[épée bâtarde (arme)|épée bâtarde]] +1*, [[harnois (armure)|harnois]], [[écu (armure)|écu en acier]], autre équipement)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Indestructible (Sur).** Quand son nombre de points de vie tombe à 0 suite à n’importe quel type d’attaque, à l’exception de celles infligées par une arme en verre ou en obsidienne, un fext n’est pas détruit mais tombe dans l’[inconscience](./Inconscient.md) à la place. De plus, 1d4 minutes après être tombé inconscient, il bénéficie d’une [guérison accélérée](./Guérison accélérée (capacité).md) 1. Pour détruire définitivement un fext, son nombre de points de vie doit être réduit à 0 à l’aide d’une arme en verre ou en obsidienne ou, s’il est déjà inconscient, sa tête doit être tranchée puis enduite d’[eau bénite](./Eau bénite (objet).md). Une fois détruit, un fext se désagrège en fines cendres.}
+{s:BDTexte|**Indestructible (Sur).** Quand son nombre de points de vie tombe à 0 suite à n’importe quel type d’attaque, à l’exception de celles infligées par une arme en verre ou en obsidienne, un fext n’est pas détruit mais tombe dans l’[[inconscient|inconscience]] à la place. De plus, 1d4 minutes après être tombé inconscient, il bénéficie d’une [[Guérison accélérée (capacité)|guérison accélérée]] 1. Pour détruire définitivement un fext, son nombre de points de vie doit être réduit à 0 à l’aide d’une arme en verre ou en obsidienne ou, s’il est déjà inconscient, sa tête doit être tranchée puis enduite d’[[Eau bénite (objet)|eau bénite]]. Une fois détruit, un fext se désagrège en fines cendres.}
 
 </div></td>
 <td><div>*La peau blafarde et les yeux morts et vides de cette créature dissimulent sa robustesse et sa puissance physique. Elle porte une armure impressionnante.*

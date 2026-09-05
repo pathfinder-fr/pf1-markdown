@@ -8,12 +8,12 @@ Categories:
 - Src Pathfinder unchained
 ---
 
-{s:Desambi|Ce don est prévu pour fonctionner avec le système de [réserve d’endurance](./Endurance et Astuces martiales.md#La_réserve_dendurance_0) introduit dans Pathfinder unchained, consultez votre MJ pour savoir s'il l'accepte.}{s:PU}*Rien ne perturbe la précision du personnage quand il porte un coup.*
+{s:Desambi|Ce don est prévu pour fonctionner avec le système de [[Endurance et Astuces martiales#La_réserve_dendurance_0|réserve d’endurance]] introduit dans Pathfinder unchained, consultez votre MJ pour savoir s'il l'accepte.}{s:PU}*Rien ne perturbe la précision du personnage quand il porte un coup.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [BBA](./BBA.md) +1
+**Conditions.** [[BBA]] +1
 
-**Avantages.** Le personnage gagne une [réserve d’endurance](./Endurance et Astuces martiales.md#La_réserve_dendurance_0). Il peut dépenser jusqu’à cinq points de cette réserve suite à un [jet d’attaque](./jet dattaque.md) avec une arme manufacturée, sa main nue ou une arme naturelle, à condition qu’il soit formé au maniement de cette arme. Il doit dépenser les points avant de connaître le résultat du jet. Il gagne alors un bonus de compétence au [jet d’attaque](./jet dattaque.md) égal au nombre de points d’endurance dépensés. S’il rate son attaque, ses points d’endurance sont tout de même dépensés.
+**Avantages.** Le personnage gagne une [[Endurance et Astuces martiales#La_réserve_dendurance_0|réserve d’endurance]]. Il peut dépenser jusqu’à cinq points de cette réserve suite à un [[jet dattaque|jet d’attaque]] avec une arme manufacturée, sa main nue ou une arme naturelle, à condition qu’il soit formé au maniement de cette arme. Il doit dépenser les points avant de connaître le résultat du jet. Il gagne alors un bonus de compétence au [[jet dattaque|jet d’attaque]] égal au nombre de points d’endurance dépensés. S’il rate son attaque, ses points d’endurance sont tout de même dépensés.
 
 **Spécial.** À partir du moment où le personnage possède une réserve d’endurance, il peut dépenser ses points pour utiliser les astuces martiales associées à d’autres dons de combat de sa connaissance.

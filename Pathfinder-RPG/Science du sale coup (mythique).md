@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage n’a pas son pareil lorsqu’il s’agit de se battre sournoisement.*
 
-**Condition.** [Science du sale coup](./Science du sale coup.md)
+**Condition.** [[Science du sale coup]]
 
-**Avantage.** Le personnage gagne un bonus égal à son [grade](./Grade.md) aux tests effectués pour réaliser un sale coup et à son DMD lorsqu’un adversaire tente d’effectuer un sale coup contre lui. Ces bonus se cumulent avec ceux conférés par [Science du sale coup](./Science du sale coup.md). De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui effectue une manœuvre de sale coup contre lui, à moins qu’elle possède également ce don.
+**Avantage.** Le personnage gagne un bonus égal à son [[grade]] aux tests effectués pour réaliser un sale coup et à son DMD lorsqu’un adversaire tente d’effectuer un sale coup contre lui. Ces bonus se cumulent avec ceux conférés par [[Science du sale coup]]. De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui effectue une manœuvre de sale coup contre lui, à moins qu’elle possède également ce don.

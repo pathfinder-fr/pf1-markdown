@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 225*}
 - **600 PX**
-- [Type Créature magique](./type Créature magique.md) de taille TP, CM
-- **Init **+2 ; **Sens** [vision nocturne](./vision nocturne.md), [vision dans le noir](./vision dans le noir.md) 18 m, *[détection de la magie](./Détection de la magie.md)* ; Perception +6
+- [[Type Créature magique]] de taille TP, CM
+- **Init **+2 ; **Sens** [[vision nocturne]], [[vision dans le noir]] 18 m, *[[détection de la magie]]* ; Perception +6
 (((Défense)))
 - **CA** 16, contact 15, pris au dépourvu 13 (Dex +2, esquive +1, naturelle +1, taille +2)
 - **pv** 19 (3d10+3)
@@ -27,16 +27,16 @@ Categories:
 - **Espace** 0,75 m ; **Allonge** 0 m
 - **Attaque spéciale** attaque sournoise +1d6
 - **Pouvoirs magiques** (**NLS** 6 ; concentration +7)
-  - Constant — *[communication avec les animaux](./Communication avec les animaux.md)* (rongeurs uniquement), *[détection de la magie](./Détection de la magie.md)*, *[don des langues](./Don des langues.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[pattes d’araignée](./Pattes daraignée.md)*.
-  - 3/jour — *[frayeur](./Frayeur.md)* (DD 12), *[porte dimensionnelle](./Porte dimensionnelle.md), [invisibilité](./Invisibilité.md)* (sur lui uniquement)
-  - 1/jour — *[nuée grouillante](./Nuée grouillante.md)* (nuée de rats uniquement)
-  - 1/semaine — *[communion](./Communion.md)* (uniquement s’il sert de familier ; 6 questions, NLS 12)
+  - Constant — *[[communication avec les animaux]]* (rongeurs uniquement), *[[détection de la magie]]*, *[[don des langues]]*, *[[lecture de la magie]]*, *[[pattes daraignée|pattes d’araignée]]*.
+  - 3/jour — *[[frayeur]]* (DD 12), *[[porte dimensionnelle]], [[invisibilité]]* (sur lui uniquement)
+  - 1/jour — *[[nuée grouillante]]* (nuée de rats uniquement)
+  - 1/semaine — *[[communion]]* (uniquement s’il sert de familier ; 6 questions, NLS 12)
 (((Statistiques)))
 - **For** 6, **Dex** 15, **Con** 13, **Int** 12, **Sag** 10, **Cha** 13
 - **BBA ** +3 ; **BMO ** +3 ; **DMD** 12 (16 contre le croc-en-jambe)
-- **Dons** [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md)
-- **Compétences** [Discrétion](./Discrétion.md) +16, [Escalade](./Escalade.md) +6, [Connaissances](./Connaissances.md) (plans) +4, [Natation](./Natation.md) +6, [Perception](./Perception.md) +6
-- **Langues** aklo ; *[communication avec les animaux](./Communication avec les animaux.md)* (rongeurs uniquement), *[don des langues](./Don des langues.md)*
+- **Dons** [[Esquive]], [[Souplesse du serpent]]
+- **Compétences** [[Discrétion]] +16, [[Escalade]] +6, [[Connaissances]] (plans) +4, [[Natation]] +6, [[Perception]] +6
+- **Langues** aklo ; *[[communication avec les animaux]]* (rongeurs uniquement), *[[don des langues]]*
 - **Particularités** utilisation des parchemins
 (((Écologie)))
 - **Environnement** urbain

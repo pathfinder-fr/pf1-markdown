@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage a plus d’audace que les pistoliers ordinaires.*
 
-**Catégorie.** [audace](./Dons.md#DONAUDACE)
+**Catégorie.** [[dons#DONAUDACE|audace]]
 
-**Conditions.** [Audace](./Pistolier.md#AUDACE) ou [Pistolier amateur](./Pistolier amateur.md)
+**Conditions.** [[Pistolier#AUDACE|Audace]] ou [[Pistolier amateur]]
 
-**Avantage.** Chaque matin, le personnage dispose de 2 points d’[audace](./Pistolier.md#AUDACE) de plus et son maximum augmente aussi de 2.
+**Avantage.** Chaque matin, le personnage dispose de 2 points d’[[Pistolier#AUDACE|audace]] de plus et son maximum augmente aussi de 2.
 
-**Normal.** Si le personnage est un [pistolier](./Pistolier.md), chaque matin, il dispose d’une quantité d’audace égale à son modificateur de [Sagesse](./Sagesse.md), qui représente aussi le maximum d’audace qu’il peut accumuler. S’il dispose du don [Pistolier amateur](./Pistolier amateur.md), il dispose d’un point d’audace supplémentaire au matin et son maximum est égal à son modificateur de [Sagesse](./Sagesse.md).
+**Normal.** Si le personnage est un [[pistolier]], chaque matin, il dispose d’une quantité d’audace égale à son modificateur de [[Sagesse]], qui représente aussi le maximum d’audace qu’il peut accumuler. S’il dispose du don [[Pistolier amateur]], il dispose d’un point d’audace supplémentaire au matin et son maximum est égal à son modificateur de [[Sagesse]].
 
-**Spécial.** Si le personnage possède des niveaux de [Pistolier](./Pistolier.md), il peut prendre ce don à plusieurs reprises.
+**Spécial.** Si le personnage possède des niveaux de [[Pistolier]], il peut prendre ce don à plusieurs reprises.

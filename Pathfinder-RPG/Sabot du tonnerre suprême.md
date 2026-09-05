@@ -10,11 +10,11 @@ Categories:
 - Sort sanguin 3
 ---
 
-{s:MCA}**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Rôd](./Rôdeur.md) 3, [San](./Sanguin.md) 3  
+{s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Rôdeur|Rôd]] 3, [[Sanguin|San]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** 18 m (12 {s:c})  
 
@@ -24,4 +24,4 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Ce sort fonctionne comme [sabot du tonnerre](./Sabot du tonnerre.md), aux seules différences indiquées ci-dessus, et qu'il affecte toutes les créatures dans la zone d'effet, quelque soit leur taille. Quand le personnage fait son test de manœuvre offensive, il applique le résultat à chacune des créatures présentes dans la zone.
+Ce sort fonctionne comme [[sabot du tonnerre]], aux seules différences indiquées ci-dessus, et qu'il affecte toutes les créatures dans la zone d'effet, quelque soit leur taille. Quand le personnage fait son test de manœuvre offensive, il applique le résultat à chacune des créatures présentes dans la zone.

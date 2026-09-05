@@ -4,7 +4,7 @@ Title: Rôdeur archer
 LastModified: 2014-08-13 02:28
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le sujet de discussion***</div><nav class="wiki-toc"></nav>
 
 *Description / présentation RP du build proposé, en italique.*

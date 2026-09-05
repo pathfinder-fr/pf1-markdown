@@ -7,4 +7,4 @@ Categories:
 RedirectTo: forme éthérée
 ---
 
->>> [forme éthérée](./Forme éthérée.md)
+>>> [[forme éthérée]]

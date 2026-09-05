@@ -15,7 +15,7 @@ Les traits concernés par cette page sont :
 Pour ceux là, il faut **respecter la PCUP**. C'est à dire que seule la mécanique du trait est 'libre de droit'. Les noms ne le sont pas dès lors qu'il s'agit de noms propres (de personnages, de divinité, d’artefacts, de lieux, de factions, etc.), aux endroits et aux personnages tirés des produits Black Book Editions et Paizo. En gros tout ce qui concerne Golarion, ses divinités, sa géographie. Il faut alors les remplacer par quelque chose de descriptif.
 Ex : si un trait concerne les dévots d'Asmodéus, il suffit de remplacer Asmodéus par la mention des dévots d'un dieu diabolique LM
 
-Cela signifie que certains noms de trait devront aussi être changés. Il vous suffit de voir comment j'ai fait pour [reprendre les dons issus du cadre de campagne](./dons issus du cadre de campagne.md) par exemple
+Cela signifie que certains noms de trait devront aussi être changés. Il vous suffit de voir comment j'ai fait pour [[dons issus du cadre de campagne|reprendre les dons issus du cadre de campagne]] par exemple
 
 Pour ces traits, je vous demande d'indiquer la source et la page si possible
 

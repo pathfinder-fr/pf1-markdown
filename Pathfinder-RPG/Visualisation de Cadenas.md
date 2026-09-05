@@ -15,22 +15,22 @@ Categories:
 
 **(Source: Heroes of the streets)**
 
-**Ecole** [Divination](./Divination.md) ; **Niveau** [Alc](./Alchimiste.md) 1, [antipaladin](./Antipaladin.md) 1, [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Inq](./Inquisiteur.md) 1  
+**Ecole** [[Divination]] ; **Niveau** [[alchimiste|Alc]] 1, [[antipaladin]] 1, [[barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[inquisiteur|Inq]] 1  
 
-**Composantes** [V,G,M/FD](./composantes.md)(une petite clé)  
+**Composantes** [[composantes|V,G,M/FD]](une petite clé)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** Une créature  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) annule(inoffensif) ; **Résistance à la magie** oui(inoffensif)  
+**Jet de sauvegarde** [[Volonté]] annule(inoffensif) ; **Résistance à la magie** oui(inoffensif)  
 
 
 La cible peut observer durant un round entier une serrure dont elle connait la présence (ou un objet qui inclut une serrure comme une porte ou un coffre) situé dans une portée de 18 m (12 {s:c}) à l'effet de déterminer si elle est ouverte, fermée ou bien bloquée).
 
-Si la créature ciblée est formée à la compétence [Sabotage](./Sabotage.md), en se concentrant sur une serrure pendant 3 rounds, elle peut également déterminer la qualité de la serrure (simple, moyen, bon, ou supérieur). Ce sort ne permet pas à la cible de voir les serrures cachées, comme celles sur les portes secrètes.
+Si la créature ciblée est formée à la compétence [[Sabotage]], en se concentrant sur une serrure pendant 3 rounds, elle peut également déterminer la qualité de la serrure (simple, moyen, bon, ou supérieur). Ce sort ne permet pas à la cible de voir les serrures cachées, comme celles sur les portes secrètes.
 
 (((Locksight
 

@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Aberration|Désert|Tropical}
 - *Source : Bestiaire 2, p.131*
 - **PX** 1 200
-- [Aberration](./type Aberration.md) de taille G, N
-- **Init** +4 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 ({s:c}) ; [Perception](./Perception.md) +5
+- [[type aberration|Aberration]] de taille G, N
+- **Init** +4 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 ({s:c}) ; [[Perception]] +5
 (((Défense)))
 - **CA** 16, contact 9, pris au dépourvu 16 (naturelle +7, taille –1)
 - **pv** 42 (5d8+20)
 - **Réf** +1, **Vig** +5, **Vol** +4
 (((Attaque)))
 - **VD** 3 m (2 {s:c}), creusement 6 m (4 {s:c})
-- **Corps à corps** morsure, +5 (1d8+3 plus [étreinte](./Étreinte.md)) et 5 tentacules, +3 (1d4+1 plus [étreinte](./Étreinte.md))
+- **Corps à corps** morsure, +5 (1d8+3 plus [[étreinte]]) et 5 tentacules, +3 (1d4+1 plus [[étreinte]])
 - **Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})
-- **Attaques spéciales** [engloutissement](./Engloutissement.md) (2d8+4 contondant, CA 13, 4 pv), gouffre soudain
+- **Attaques spéciales** [[engloutissement]] (2d8+4 contondant, CA 13, 4 pv), gouffre soudain
 (((Statistiques)))
 - **For** 17, **Dex** 11, **Con** 18, **Int** 2, **Sag** 11, **Cha** 10
 - **BBA** +3 ; **BMO** +7 ; **DMD** 17
-- **Dons** [Attaques multiples](./Attaques multiples.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))
-- **Compétences** [Discrétion](./Discrétion.md) +5 (+13 lors des embuscades), [Perception](./Perception.md) +5 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md) lors des embuscades
+- **Dons** [[Attaques multiples]], [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Discrétion]])
+- **Compétences** [[Discrétion]] +5 (+13 lors des embuscades), [[Perception]] +5 ; **Modificateurs raciaux** +8 en [[Discrétion]] lors des embuscades
 (((Écologie)))
 - **Environnement** déserts chauds
 - **Organisation sociale** solitaire, couple ou colonie (3–10)
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
-- **Gouffre soudain (Ext).** Un enfouisseur des sables peut creuser dans le sable, la terre meuble ou la poussière pour se placer en embuscade juste sous la surface. Lorsqu’il ressent (grâce à sa [perception des vibrations](./Perception des vibrations.md)) qu’une proie entre dans une case qu’il contrôle, il peut utiliser une action immédiate pour dégonfler son corps, ce qui fait s’effondrer le sol meuble qui se trouve au-dessus de lui. Toutes les créatures qui se tenaient dans la zone contrôlée par l’enfouisseur des sables doivent réussir un jet de Réflexes de DD 15 pour ne pas se retrouver [enchevêtrées](./Enchevêtré.md), un état qui persiste tant qu’elles restent dans la zone contrôlée par l’enfouisseur. Toutes les créatures qui se trouvaient au moins partiellement dans l’espace occupé par l’enfouisseur doivent réussir un jet de Réflexes de DD 15 pour ne pas se retrouver à la fois [enchevêtrées](./Enchevêtré.md) et [à terre](./À terre.md). En cas de réussite, la créature se déplace immédiatement vers l’espace adjacent inoccupé le plus proche et, si cela nécessite de parcourir plus de 1,50 mètre, la créature se déplace d’autant qu’il le faut et tombe [à terre](./À terre.md). Le DD du jet de sauvegarde dépend de la Force.
+- **Gouffre soudain (Ext).** Un enfouisseur des sables peut creuser dans le sable, la terre meuble ou la poussière pour se placer en embuscade juste sous la surface. Lorsqu’il ressent (grâce à sa [[perception des vibrations]]) qu’une proie entre dans une case qu’il contrôle, il peut utiliser une action immédiate pour dégonfler son corps, ce qui fait s’effondrer le sol meuble qui se trouve au-dessus de lui. Toutes les créatures qui se tenaient dans la zone contrôlée par l’enfouisseur des sables doivent réussir un jet de Réflexes de DD 15 pour ne pas se retrouver [[enchevêtré|enchevêtrées]], un état qui persiste tant qu’elles restent dans la zone contrôlée par l’enfouisseur. Toutes les créatures qui se trouvaient au moins partiellement dans l’espace occupé par l’enfouisseur doivent réussir un jet de Réflexes de DD 15 pour ne pas se retrouver à la fois [[enchevêtré|enchevêtrées]] et [[à terre]]. En cas de réussite, la créature se déplace immédiatement vers l’espace adjacent inoccupé le plus proche et, si cela nécessite de parcourir plus de 1,50 mètre, la créature se déplace d’autant qu’il le faut et tombe [[à terre]]. Le DD du jet de sauvegarde dépend de la Force.
 
 </div>
 

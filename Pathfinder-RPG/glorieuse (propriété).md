@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Glorieuse
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Glorieuse](./Descriptions individuelles des propriétés spéciales des armes.md#Glorieuse)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Glorieuse]]

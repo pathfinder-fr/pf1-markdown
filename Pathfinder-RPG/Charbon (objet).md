@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:RSE}**Prix** 5 pa ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Les bâtonnets de charbon sont utiles pour marquer les sols ou les murs, écrire sur du papier ou du parchemin, et prendre des empreintes de gravures ou d'autres marques. En cas de nécessité, on peut même les brûler pour se maintenir au chaud. Une empreinte de bonne qualité demande en général une minute par feuille de papier.

@@ -9,14 +9,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [inquisiteur](./Inquisiteur.md) 4, [prêtre](./Prêtre.md) 4, [sorcière](./Sorcière.md) 4  
+**École** [[Nécromancie]] ; **Niveau** [[inquisiteur]] 4, [[prêtre]] 4, [[sorcière]] 4  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
 
-**Restriction de cible** *[Choisi](./Choisi.md)*
+**Restriction de cible** *[[Choisi]]*
 
-La cible d’un sort incluant ce mot effet subit 4d6 point de dégâts + 1 point par [niveau de lanceur](./NLS.md) (maximum +20). Les [morts-vivants](./type Mort-vivant.md) sont par contre soignés et ne bénéficient donc pas de [jet de sauvegarde](./jet de sauvegarde.md) ou de [résistance à la magie](./RM.md).
+La cible d’un sort incluant ce mot effet subit 4d6 point de dégâts + 1 point par [[NLS|niveau de lanceur]] (maximum +20). Les [[type mort-vivant|morts-vivants]] sont par contre soignés et ne bénéficient donc pas de [[jet de sauvegarde]] ou de [[RM|résistance à la magie]].
 
-**Augmentation.**  La cible subit 4d8 points de dégâts + 1 point par [niveau de lanceur](./NLS.md) (maximum +20).
+**Augmentation.**  La cible subit 4d8 points de dégâts + 1 point par [[NLS|niveau de lanceur]] (maximum +20).

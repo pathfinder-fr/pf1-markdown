@@ -10,9 +10,9 @@ Categories:
 
 {s:um}*La puissance du lignage que le personnage s’est découvert continue de croître. *
 
-**Conditions.** [Cha](./Cha.md) 15, [Étrange héritage](./Étrange héritage.md), personnage de niveau 11
+**Conditions.** [[Cha]] 15, [[Étrange héritage]], personnage de niveau 11
 
-**Avantage.** Le personnage gagne le pouvoir de niveau 3 ou 9 du [lignage](./Lignages.md) qu’il a choisi avec le don [Étrange héritage](./Étrange héritage.md), au choix. Quand le personnage utilise ce pouvoir, son niveau d’[ensorceleur](./Ensorceleur.md) est égal à son niveau de personnage -2, même s’il est ensorceleur.
+**Avantage.** Le personnage gagne le pouvoir de niveau 3 ou 9 du [[lignages|lignage]] qu’il a choisi avec le don [[Étrange héritage]], au choix. Quand le personnage utilise ce pouvoir, son niveau d’[[ensorceleur]] est égal à son niveau de personnage -2, même s’il est ensorceleur.
 
 Il ne gagne jamais les autres pouvoirs du lignage.
 

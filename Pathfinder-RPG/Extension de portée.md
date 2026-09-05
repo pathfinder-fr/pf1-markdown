@@ -9,8 +9,8 @@ Categories:
 
 *Le personnage augmente la portée de ses sorts.*
 
-**Catégorie.** [métamagie](./Dons.md#METAMAGIE)
+**Catégorie.** [[Dons#METAMAGIE|métamagie]]
 
-**Avantage.** Le personnage peut modifier un sort de courte, moyenne ou longue [portée](./portée.md) afin de doubler celle-ci. Une fois la portée étendue, une courte portée devient alors égale à 15 m + 1,5 m/niveau, une portée moyenne à 60 m + 6 m/niveau et une longue portée à 240 m + 24 m/niveau. Un sort à extension de portée nécessite un [emplacement de sort](./emplacement de sort.md) d’un [niveau](./Niveau de sort.md) de plus que son niveau réel.
+**Avantage.** Le personnage peut modifier un sort de courte, moyenne ou longue [[portée]] afin de doubler celle-ci. Une fois la portée étendue, une courte portée devient alors égale à 15 m + 1,5 m/niveau, une portée moyenne à 60 m + 6 m/niveau et une longue portée à 240 m + 24 m/niveau. Un sort à extension de portée nécessite un [[emplacement de sort]] d’un [[niveau de sort|niveau]] de plus que son niveau réel.
 
 Les sorts dont la portée ne s’exprime pas par une mesure physique ou qui n’est ni courte, ni moyenne, ni longue, ne peuvent être affectés par ce don.

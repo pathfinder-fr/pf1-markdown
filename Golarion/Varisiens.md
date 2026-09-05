@@ -17,7 +17,7 @@ Bien qu'ils soient principalement nomades, les Varisiens croient qu'ils sont iss
 
 {s:VoirAussiAvant}
 Vous pourrez trouver plus d'informations à propos des Varisiens dans les suppléments
-- [Pathfinder Chronicles: Campaign Setting](./Publications.md#CAMPAIGNSETTING).
-- apport d'éclaireurs sur [Aides de jeu#REHARROW|les cartes Harrow/du Tourment], des cartes divinatoires utilisées par les Varisiens.
-- On parle également des Varisiens et de leur coutumes dans le [++Aventures.Présentation AP2#AP2-1|premier volume] de la campagne [++Aventures.Présentation AP2|La Malédiction du Trône Écarlate].
+- [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
+- apport d'éclaireurs sur [[Aides de jeu#REHARROW|les cartes Harrow/du Tourment]], des cartes divinatoires utilisées par les Varisiens.
+- On parle également des Varisiens et de leur coutumes dans le [[Aventures.Présentation AP2#AP2-1|premier volume]] de la campagne [[Aventures.Présentation AP2|La Malédiction du Trône Écarlate]].
 {s:VoirAussiAprès}

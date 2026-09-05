@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.202*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Vermine|Vermine]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 10 (Dex +3)}
 {s:BDTexte|**pv** 15 (2d8+6)}
@@ -26,14 +26,14 @@ Categories:
 {s:BDTexte|**Corps à corps** morsure, +2 (1d6+1 plus maladie)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 17, **Con** 16, **Int** —, **Sag** 7, **Cha** 2}
-{s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 15 (21 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +9, [Perception](./Perception.md) +2, [Vol](./Vol.md) +7 ; **Modificateurs raciaux** +4 en [Perception](./Perception.md)}
+{s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 15 (21 contre [[croc-en-jambe]])}
+{s:BDTexte|**Compétences** [[Escalade]] +9, [[Perception]] +2, [[Vol]] +7 ; **Modificateurs raciaux** +4 en [[Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** climat tempéré ou tropical}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou nuée (3–12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Maladie (Ext).** [Fièvre des marais](./Maladies.md#FIEVREDESMARRAIS) : Morsure — blessure ; *JdS* Vigueur DD 14 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d3 Dex et 1d3 Con ; *guérison* 2 réussites consécutives. Certaines mouches peuvent transporter d’autres maladies si le MJ le désire. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|**Maladie (Ext).** [[Pathfinder-RPG.Maladies#FIEVREDESMARRAIS|Fièvre des marais]] : Morsure — blessure ; *JdS* Vigueur DD 14 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d3 Dex et 1d3 Con ; *guérison* 2 réussites consécutives. Certaines mouches peuvent transporter d’autres maladies si le MJ le désire. Le DD du jet de sauvegarde dépend de la Constitution.}
 </div>
 </td><td><div>*Cette mouche énorme recouverte de poils raides redresse ses pattes et se lance dans l’air sur ses ailes qui bourdonnent.*
 

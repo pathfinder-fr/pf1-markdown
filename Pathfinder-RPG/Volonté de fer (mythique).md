@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *La volonté du personnage est inébranlable.*
 
-**Condition.** [Volonté de fer](./Volonté de fer.md)
+**Condition.** [[Volonté de fer]]
 
-**Avantage.** Chaque fois que le personnage effectue un jet de [Volonté](./Volonté.md) contre un sort, un pouvoir magique ou un pouvoir surnaturel provenant d’une source [non-mythique](./non-mythique.md), il lance deux dés et conserve le meilleur résultat.
+**Avantage.** Chaque fois que le personnage effectue un jet de [[Volonté]] contre un sort, un pouvoir magique ou un pouvoir surnaturel provenant d’une source [[non-mythique]], il lance deux dés et conserve le meilleur résultat.

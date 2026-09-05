@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Inquisiteur#CONNAISSANCEDESMONSTRES
 ---
 
->>> [Inquisiteur#CONNAISSANCEDESMONSTRES](./Inquisiteur.md#CONNAISSANCEDESMONSTRES)
+>>> [[Inquisiteur#CONNAISSANCEDESMONSTRES]]

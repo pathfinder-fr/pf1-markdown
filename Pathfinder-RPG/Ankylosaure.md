@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire p.88*}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Animal](./type Animal.md) de taille TG, N}
-{s:BDTexte|**Init** +0 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 8, pris au dépourvu 22 (naturelle +14, taille -2)}
 {s:BDTexte|**pv** 75 (10d8+30)}
@@ -25,17 +25,17 @@ Categories:
 {s:BDTexte|**Espace** 4.5 ; **Allonge** 4.5}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 27, **Dex** 10, **Con** 17, **Int** 2, **Sag** 13, **Cha** 8}
-{s:BDTexte|**BBA** +7, **BMO** +17, **DMD** 27 (31 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (queue), [Attaque en puissance](./Attaque en puissance.md), [Science de la bousculade](./Science de la bousculade.md), [Science du renversement](./Science du renversement.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +14}
+{s:BDTexte|**BBA** +7, **BMO** +17, **DMD** 27 (31 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (queue), [[Attaque en puissance]], [[Science de la bousculade]], [[Science du renversement]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Perception]] +14}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts et plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupeau (3-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Étourdissement (Ext)** L'ankylosaure peut porter de terribles coups étourdissants à l'aide de sa queue. Une créature touchée par cette attaque doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 23 pour ne pas être [hébétée](./Hébété.md) pendant 1 round. En cas de [coup critique](./coup critique.md), si le jet de sauvegarde échoue, la victime est [étourdie](./Étourdi.md) pendant 1d4 rounds. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Force](./Force.md).}
+{s:BDTexte|**Étourdissement (Ext)** L'ankylosaure peut porter de terribles coups étourdissants à l'aide de sa queue. Une créature touchée par cette attaque doit réussir un jet de [[Vigueur]] de [[DD]] 23 pour ne pas être [[hébété|hébétée]] pendant 1 round. En cas de [[coup critique]], si le jet de sauvegarde échoue, la victime est [[étourdi|étourdie]] pendant 1d4 rounds. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Force]].}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>*D’épaisses plaques osseuses protègent le dos voûté de ce dinosaure quadrupède. Sa queue musclée se termine par une massue d’os.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>*D’épaisses plaques osseuses protègent le dos voûté de ce dinosaure quadrupède. Sa queue musclée se termine par une massue d’os.*
 
 L’ankylosaure est un puissant dinosaure trapu tout à fait capable
 de se défendre contre ses ennemis. Des plaques osseuses épaisses et
@@ -48,7 +48,7 @@ queue de manière dévastatrice. Un ankylosaure mesure 9 mètres
 de long et pèse 3 000 kg.
 
 #### L'ankylosaure comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m (6 {s:c}) ; **CA** armure naturelle +9 ; **Attaque** queue (1d6) ; **Caractéristiques** For 10, Dex 14, Con 9, Int 2, Sag 12, Cha 8 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m (6 {s:c}) ; **CA** armure naturelle +9 ; **Attaque** queue (1d6) ; **Caractéristiques** For 10, Dex 14, Con 9, Int 2, Sag 12, Cha 8 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** queue (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** étourdissement.
 </div>

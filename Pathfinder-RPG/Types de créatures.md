@@ -12,4 +12,4 @@ Certaines créatures possèdent un ou plusieurs sous-types figurant dans le seco
 
 Une créature ne peut pas violer les règles de son type ou de son sous-type à moins de posséder une capacité spéciale ou une particularité qui le justifie.
 
-Les [archétypes](./Archétypes.md) changent souvent le type des créatures du tout au tout.
+Les [[archétypes]] changent souvent le type des créatures du tout au tout.

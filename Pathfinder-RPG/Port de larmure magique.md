@@ -9,15 +9,15 @@ Categories:
 
 *Le personnage sait lancer des sorts en armure.*
 
-**Catégorie** [combat](./Dons.md#DONCOMBAT)
+**Catégorie** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Port des armures légères](./Port des armures légères.md), lanceur de sorts niveau 3.
+**Conditions.** [[Port des armures légères]], lanceur de sorts niveau 3.
 
-**Avantage.** Par une [action rapide](./Action rapide.md), le personnage réduit les risques d’[échec des sorts](./échec des sorts.md) dus à l’armure de 10% pour tout sort lancé au cours de ce [round](./round.md).
+**Avantage.** Par une [[action rapide]], le personnage réduit les risques d’[[échec des sorts]] dus à l’armure de 10% pour tout sort lancé au cours de ce [[round]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage lance un sort alors qu’il porte une armure, il peut dépenser 1 point d’endurance pour activer le Port de l’armure magique par une [action libre](./Action libre.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage lance un sort alors qu’il porte une armure, il peut dépenser 1 point d’endurance pour activer le Port de l’armure magique par une [[action libre]].
 
 {s:CMy}
 ### Version mythique
@@ -25,4 +25,4 @@ Quand le personnage lance un sort alors qu’il porte une armure, il peut dépen
 
 **Condition.** Port de l’armure magique
 
-**Avantage.** Le personnage n’a plus à réaliser une [action rapide](./Action rapide.md) pour bénéficier d’une réduction des risques d’échec des sorts profanes conférée par Port de l’armure magique. De plus, s’il porte une armure légère, réduisez les chances d’échec des sorts profanes du personnage de 20%.
+**Avantage.** Le personnage n’a plus à réaliser une [[action rapide]] pour bénéficier d’une réduction des risques d’échec des sorts profanes conférée par Port de l’armure magique. De plus, s’il porte une armure légère, réduisez les chances d’échec des sorts profanes du personnage de 20%.

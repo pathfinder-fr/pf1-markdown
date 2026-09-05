@@ -7,21 +7,21 @@ Categories:
 - Src Book of the Damned
 ---
 
-{s:DieuTech|Yabu|Seigneur de la caldeira de Kazan| |[Onis daimyo](./Divinités.md#ONISDAIMYO)
+{s:DieuTech|Yabu|Seigneur de la caldeira de Kazan| |[[Divinités#ONISDAIMYO|Onis daimyo]]
 |Neutre Mauvais|Malédictions, promesses, volcans
 |N'importe|Aucun
-|[Marteau météore](./marteau météore (arme).md)
-|[Chance](./Domaine de la Chance.md), [Destruction](./Domaine de la Destruction.md), [Feu](./Domaine du Feu.md), [Mal](./Domaine du Mal.md)
-|[Catastrophe](./Domaine de la Destruction.md), [Cendres](./Domaine du Feu.md), [Fumée](./Domaine du Feu.md), [Malédiction](./Domaine de la Chance.md)
+|[[Marteau météore (arme)|Marteau météore]]
+|[[Domaine de la Chance|Chance]], [[Domaine de la Destruction|Destruction]], [[Domaine du Feu|Feu]], [[Domaine du Mal|Mal]]
+|[[Domaine de la Destruction|Catastrophe]], [[Domaine du Feu|Cendres]], [[Domaine du Feu|Fumée]], [[Domaine de la Chance|Malédiction]]
 |—}
 {s:cs}{s:BotD}
 ### Obédience
-Brûler une petite maquette d'un bâtiment et méditer sur la fumée. Gain d'un bonus de malfaisance de +4 aux [jets de sauvegarde](./JDS.md) contre les effets de [feu](./Registre.md).
+Brûler une petite maquette d'un bâtiment et méditer sur la fumée. Gain d'un bonus de malfaisance de +4 aux [[jds|jets de sauvegarde]] contre les effets de [[registre|feu]].
 
 #### Faveurs (Onis daimyo)
-Les onis daimyo font partie des [onis](./Oni.md) les plus puissants que l'on puisse croiser. Ils règnent sur des domaines dans les régions les plus isolées du plan Matériel. Bien qu'ils aient dépassé la puissance de leurs incarnations inférieures pour atteindre un statut de demi-dieux, ils n'affichent pas leur pouvoir et préfèrent habiter dans des coins reculés de l'immense territoire du continent oriental.
+Les onis daimyo font partie des [[Oni|onis]] les plus puissants que l'on puisse croiser. Ils règnent sur des domaines dans les régions les plus isolées du plan Matériel. Bien qu'ils aient dépassé la puissance de leurs incarnations inférieures pour atteindre un statut de demi-dieux, ils n'affichent pas leur pouvoir et préfèrent habiter dans des coins reculés de l'immense territoire du continent oriental.
 
-Un oni daimyo est toujours d'alignement Mauvais mais peut être Chaotique, Loyam ou Neutre. Leur puissance varie de [FP](./FP.md) 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) utilisables deux fois par jour chacun.
-- **1.** *[augure](./Augure.md)*
-- **2.** *[tempête volcanique](./Tempête volcanique.md)*
-- **3.** *[malédiction majeure](./Malédiction majeure.md)*
+Un oni daimyo est toujours d'alignement Mauvais mais peut être Chaotique, Loyam ou Neutre. Leur puissance varie de [[FP]] 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables deux fois par jour chacun.
+- **1.** *[[augure]]*
+- **2.** *[[tempête volcanique]]*
+- **3.** *[[malédiction majeure]]*

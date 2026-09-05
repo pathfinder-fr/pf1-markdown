@@ -10,6 +10,6 @@ Categories:
 
 {s:mca} *Le chant et l’enthousiasme du personnage revigorent ses alliés.*
 
-**Conditions.** [Vigueur du scalde](./Vigueur du scalde.md), 10 rangs en [Représentation](./Représentation.md) (chant).
+**Conditions.** [[Vigueur du scalde]], 10 rangs en [[Représentation]] (chant).
 
-**Avantage.** Les alliés du personnage gagnent la [guérison accélérée](./guérison accélérée.md) de [Vigueur du scalde](./Vigueur du scalde.md) dès le round où celui-ci entame sa représentation. Ils doivent entendre la représentation du personnage. Si ce dernier interrompt son chant, la guérison accélérée cesse aussitôt, même si les autres effets du chant s’attardent.
+**Avantage.** Les alliés du personnage gagnent la [[guérison accélérée]] de [[Vigueur du scalde]] dès le round où celui-ci entame sa représentation. Ils doivent entendre la représentation du personnage. Si ce dernier interrompt son chant, la guérison accélérée cesse aussitôt, même si les autres effets du chant s’attardent.

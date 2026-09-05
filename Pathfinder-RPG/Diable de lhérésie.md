@@ -14,7 +14,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés page 60*}
 {s:BDTexte|XP 19 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md)) de taille TG, LM}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type loi|Loi]]) de taille TG, LM}
 {s:BDTexte|**Init **+3 ; **Sens** vision dans le noir à 18m, vision dans les ténèbres ; Perception +21}
 (((Défense)))
 {s:BDTexte|**CA** 29, contact 7, pris au dépourvu 29 (armure +4, Dex -1, naturelle +18, taille -2)}
@@ -28,14 +28,14 @@ Categories:
 {s:BDTexte|**Espace** 4,50m ; **Allonge** 1,50m}
 {s:BDTexte|**Attaques spéciales** bile blasphématoire, convocation de diable}
 {s:BDTexte|**Pouvoirs magiques** (NLS 13)}
-{s:BDSorts|À volonté - *[perception de la mort](./Perception de la mort.md), [téléportation suprême](./Téléportation suprême.md) *(personnelle plus 15kg d’objets uniquement),* [texte illusoire](./Texte illusoire.md) *(DD 17),* [manipulation à distance](./Manipulation à distance.md), [image accomplie](./Image accomplie.md)* (DD 17), *[message](./Message.md)*}
-{s:BDSorts|3/jour -* [contagion](./Contagion.md)* (DD 19), *[ténèbres profondes](./Ténèbres profondes.md), [rejet du Bien](./Rejet du Bien.md), [dissipation de la magie](./Dissipation de la magie.md), [négation de l’invisibilité](./Négation de linvisibilité.md), [cercle magique contre le Bien](./Cercle magique contre le Bien.md), [communication avec les morts](./Communication avec les morts.md)* (DD 18), *[télékinésie](./Télékinésie.md)* (DD 20),* [nuage nauséabond](./Nuage nauséabond.md) *(DD 17),* [convocation de monstres V](./Convocation de monstres V.md), [ténèbres maudites](./Ténèbres maudites.md) *(DD 19), *[zone de silence](./Zone de silence.md) *}
-{s:BDSorts|1/jour -* [blasphème](./Blasphème.md) *(DD 20), *[mythes et légendes](./Mythes et légendes.md), [double illusoire](./Double illusoire.md), [sanctification maléfique](./Sanctification maléfique.md)*}
+{s:BDSorts|À volonté - *[[perception de la mort]], [[téléportation suprême]] *(personnelle plus 15kg d’objets uniquement),* [[texte illusoire]] *(DD 17),* [[manipulation à distance]], [[image accomplie]]* (DD 17), *[[message]]*}
+{s:BDSorts|3/jour -* [[contagion]]* (DD 19), *[[ténèbres profondes]], [[rejet du Bien]], [[dissipation de la magie]], [[négation de linvisibilité|négation de l’invisibilité]], [[cercle magique contre le Bien]], [[communication avec les morts]]* (DD 18), *[[télékinésie]]* (DD 20),* [[nuage nauséabond]] *(DD 17),* [[convocation de monstres V]], [[ténèbres maudites]] *(DD 19), *[[zone de silence]] *}
+{s:BDSorts|1/jour -* [[blasphème]] *(DD 20), *[[mythes et légendes]], [[double illusoire]], [[sanctification maléfique]]*}
 (((Statistiques)))
 {s:BDTexte|**For** 24, **Dex** 8, **Con** 24, **Int** 22, **Sag** 21, **Cha** 20}
 {s:BDTexte|**BBA **+13 ; **BMO **+18 ; **DMD** 37}
-{s:BDTexte|**Dons** [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Persuasion](./Persuasion.md), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +22, [Bluff](./Bluff.md) +21, [Connaissances](./Connaissances.md) (mystères) +22, [Connaissances](./Connaissances.md) (histoire) +19, [Connaissances](./Connaissances.md) (plans) +22, [Connaissances](./Connaissances.md) (religion) +22, [Diplomatie](./Diplomatie.md) +25, [Vol](./Vol.md) +8, [Intimidation](./Intimidation.md) +27, [Perception](./Perception.md) +21, [Profession](./Profession.md) (bibliothécaire) +10, [Psychologie](./Psychologie.md) +21, [Représentation](./Représentation.md) (déclamation) +18}
+{s:BDTexte|**Dons** [[Dur à cuire]], [[Endurance]], [[Persuasion]], [[Robustesse]], [[Science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +22, [[Bluff]] +21, [[Connaissances]] (mystères) +22, [[Connaissances]] (histoire) +19, [[Connaissances]] (plans) +22, [[Connaissances]] (religion) +22, [[Diplomatie]] +25, [[Vol]] +8, [[Intimidation]] +27, [[Perception]] +21, [[Profession]] (bibliothécaire) +10, [[Psychologie]] +21, [[Représentation]] (déclamation) +18}
 {s:BDTexte|**Langues** abyssal, céleste, draconique, infernal}
 {s:BDTexte|**Particularités** corpulence, invocateur de diables, trône de crânes}
 (((Écologie)))
@@ -49,11 +49,11 @@ Les êtres touchés par cette bile se retrouvent aspergés d’une corruption li
 magie divine non-Mauvaise pendant 10 minutes. Tout lanceur de sorts de magie divine non-Mauvais qui lance un sort visant une créature enduite de bile d’ayngavhaul doit réussir un test de niveau de lanceur DD 23 pour que le sort n’échoue pas. Une créature affectée par cette bile peut la retirer en se nettoyant pendant un round avec au moins 4 litres de liquide. La difficulté du jet de sauvegarde est basée sur la Constitution.}
 {s:BDTexte|**Invocateur de diables (Sur)** Les ayngavhauls connaissent les secrets de toutes les races de diables, et utilisent cet avantage lorsqu’ils invoquent leurs pairs. Tout diable situé à moins de 9 mètres d’un ayngavhaul a une fois et demie plus de chance qu’un fiélon réponde à sa capacité de convocation de diable que dans une situation normale. Par exemple, la probabilité habituelle qu’a un osyluth d’invoquer un autre diable osseux, soit 35%, passe à 52% lorsqu’il se situe à moins de 9 mètres d’un ayngavhaul. Les bonus d’invocation fournis par plusieurs ayngavhauls ne se cumulent pas. Les ayngavhauls sont immunisés contre cette capacité, à la fois de la leur et de celle des autres membres de leur race. }
 {s:BDTexte|** Mot incandescent (Sur)** Un ayngavhaul peut prononcer des paroles décrivant des tourments, leur donner une forme physique et les envoyer vers leurs ennemis sous forme de sceaux diaboliques. Toute créature d’alignement Bon touchée par l’un de ces mots infernaux subit 3d6 points de dégâts de feu infernal (une moitié de feu, l’autre d’énergie Mauvaise) ; les créatures qui ne sont pas Bonnes ne subissent que la moitié des dégâts. Ces mots ne peuvent pas affecter les créatures qui sont sous l’effet de protection contre le Mal ou qui se trouvent dans une zone de silence magique.}
-{s:BDTexte|**Convocation de diable (Mag)** Une fois par jour, un ayngavhaul peut tenter d’invoquer 2d6 [diablotins](./Diablotin.md), 1d4 [diables barbus](./Diable barbu.md) ou 2 [diables osseux](./Diable osseux.md) avec 80% de chance de réussite ou un [diable des contrats](./Diable des contrats.md) avec 45% de chance de réussite.
+{s:BDTexte|**Convocation de diable (Mag)** Une fois par jour, un ayngavhaul peut tenter d’invoquer 2d6 [[diablotin|diablotins]], 1d4 [[diable barbu|diables barbus]] ou 2 [[diable osseux|diables osseux]] avec 80% de chance de réussite ou un [[diable des contrats]] avec 45% de chance de réussite.
 Cette capacité est l’équivalent d’un sort de 6e niveau.}
 {s:BDTexte|**Trône de crânes (Sur) **Tous les ayngavhauls flottent sur d’effrayants trônes infernaux. Ce sont ces trônes font qui leur donnent leur vitesse de vol, ainsi qu’un bonus d’armure de +4. Si un ayngavhaul est saisi au cours d’une lutte et renversé, il tombe de son trône et perd ces bénéfices. Un ayngavhaul contrôle son trône par télépathie et peut le faire revenir à lui et se rasseoir dessus par une action complexe.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 ''Cet être d’une corpulence impossible, apparemment fusionné avec un
 monstrueux trône de fer, flotte à quelques centimètres du sol. Sa tenue
 d’apparat taillée pour parodier des vêtements sacrés peine à couvrir

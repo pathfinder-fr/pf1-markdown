@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 200 po ; **Poids** 250 kg
-<span class="Catégorie">**Catégorie** [Trousses d'équipement](./Trousses déquipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
 ---
-Cet ensemble pour [char lourd](./Char (objet).md) inclut des boîtes et des pots spéciaux pour faire pousser une grande variété de plantes, en plus de l'espace qu'il faut pour accueillir une paire d'animaux, comme des chèvres, et leur nourriture. Le jardin de voyage apporte nourriture et plantes médicinales. Il fonctionne de la même façon qu'une [trousse de premiers secours](./Trousse de premiers secours (objet).md), autorisant jusqu'à cinq utilisations par jour, et n'est jamais épuisé. En outre, ceux qui ingèrent tous les jours une variété de plantes et de légumes frais issus de ce jardin bénéficient d'un bonus de +1 aux [jets de sauvegarde](./JDS.md) contre la maladie.
+Cet ensemble pour [[Char (objet)|char lourd]] inclut des boîtes et des pots spéciaux pour faire pousser une grande variété de plantes, en plus de l'espace qu'il faut pour accueillir une paire d'animaux, comme des chèvres, et leur nourriture. Le jardin de voyage apporte nourriture et plantes médicinales. Il fonctionne de la même façon qu'une [[Trousse de premiers secours (objet)|trousse de premiers secours]], autorisant jusqu'à cinq utilisations par jour, et n'est jamais épuisé. En outre, ceux qui ingèrent tous les jours une variété de plantes et de légumes frais issus de ce jardin bénéficient d'un bonus de +1 aux [[jds|jets de sauvegarde]] contre la maladie.

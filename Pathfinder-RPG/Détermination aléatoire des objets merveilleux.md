@@ -16,31 +16,31 @@ Categories:
 |- CLASS="titre"
 | D100 || Type d'objet merveilleux
 |- CLASS="premier"
-| 01-06	 ||  [Taille](./.md#TAILLE)
+| 01-06	 ||  [[#TAILLE|Taille]]
 |-
-| 07-12	 ||  [Corps](./.md#CORPS)
+| 07-12	 ||  [[#CORPS|Corps]]
 |-
-| 13-17	 ||  [Torse](./.md#TORSE)
+| 13-17	 ||  [[#TORSE|Torse]]
 |-
-| 18-22	 ||  [Yeux](./.md#YEUX)
+| 18-22	 ||  [[#YEUX|Yeux]]
 |-
-| 23-28	 ||  [Pieds](./.md#PIEDS)
+| 23-28	 ||  [[#PIEDS|Pieds]]
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 29-34	 ||  [Mains](./.md#MAINS)
+| 29-34	 ||  [[#MAINS|Mains]]
 |-
-| 35-41	 ||  [Tête](./.md#TETE)
+| 35-41	 ||  [[#TETE|Tête]]
 |-
-| 42-47	 ||  [Front](./.md#FRONT)
+| 42-47	 ||  [[#FRONT|Front]]
 |-
-| 48-54	 ||  [Cou](./.md#COU)
+| 48-54	 ||  [[#COU|Cou]]
 |-
-| 55-61	 ||  [Épaules](./.md#EPAULES)
+| 55-61	 ||  [[#EPAULES|Épaules]]
 |-
-| 62-67	 ||  [Poignets et avant-bras](./.md#POIGNETS)
+| 62-67	 ||  [[#POIGNETS|Poignets et avant-bras]]
 |-
-| 68-100 ||  [Sans emplacement](./.md#SANS)
+| 68-100 ||  [[#SANS|Sans emplacement]]
 |}
 </td></tr></table>
 
@@ -52,123 +52,123 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible inférieur || Prix(po)
 |- CLASS="premier"
-| 01-16 || *[Bande de cabriole](./Bande de Cabriole.md)* || 800
+| 01-16 || *[[Bande de cabriole]]* || 800
 |-
-| 17-28 || *[Cartouchière bénéfique](./Cartouchière Bénéfique.md)* || 1000
+| 17-28 || *[[Cartouchière bénéfique]]* || 1000
 |-
-| 29-40 || *[Ceinturon méridien](./Ceinturon Méridien.md)* || 1000
+| 29-40 || *[[Ceinturon méridien]]* || 1000
 |-
-| 41-54 || *[Ceinture à lame](./Ceinture À Lame.md)* || 1000
+| 41-54 || *[[Ceinture à lame]]* || 1000
 |-
-| 55-70 || *[Ceinture d’allègement du fardeau](./Ceinture dAllègement du Fardeau.md)* || 2000
+| 55-70 || *[[Ceinture dallègement du fardeau|Ceinture d’allègement du fardeau]]* || 2000
 |-
-| 71-84 || *[Large ceinture aquatique](./Large Ceinture Aquatique.md)* || 2600
+| 71-84 || *[[Large ceinture aquatique]]* || 2600
 |-
-| 85-100 || *[Ceinture d’équitation](./Ceinture dÉquitation.md)* || 3200
+| 85-100 || *[[Ceinture déquitation|Ceinture d’équitation]]* || 3200
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 01-18 || *[Ceinturon de force de géant](./Ceinturon de force de géant.md) +2 * || 4000
+| 01-18 || *[[Ceinturon de force de géant]] +2 * || 4000
 |-
-| 19-36 || *[Ceinturon de dextérité du chat](./Ceinturon de dextérité du chat.md) +2 * || 4000
+| 19-36 || *[[Ceinturon de dextérité du chat]] +2 * || 4000
 |-
-| 37-54 || *[Ceinturon de constitution de l’ours](./Ceinturon de constitution de lours.md) +2 * || 4000
+| 37-54 || *[[Ceinturon de constitution de lours|Ceinturon de constitution de l’ours]] +2 * || 4000
 |-
-| 55-62 || *[Ceinture mordante](./Ceinture Mordante.md)* || 4000
+| 55-62 || *[[Ceinture mordante]]* || 4000
 |-
-| 63-74 || *[Ceinture de récupération d’armes](./Ceinture de Récupération dArmes.md)* || 5000
+| 63-74 || *[[Ceinture de récupération darmes|Ceinture de récupération d’armes]]* || 5000
 |-
-| 75-84 || *[Ceinture du rat contaminé](./Ceinture du Rat Contaminé.md)* || 5200
+| 75-84 || *[[Ceinture du rat contaminé]]* || 5200
 |-
-| 85-100 || *[Ceinture de subsistance](./Ceinture de Subsistance.md)* || 6000
+| 85-100 || *[[Ceinture de subsistance]]* || 6000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-04 || *[Ceinture reptilienne](./Ceinture Reptilienne.md)* || 9000
+| 01-04 || *[[Ceinture reptilienne]]* || 9000
 |-
-| 05-08 || *[Ceinture simiesque](./Ceinture Simiesque.md)* || 9400
+| 05-08 || *[[Ceinture simiesque]]* || 9400
 |-
-| 09-16 || *[Ceinturon de puissance de géant](./Ceinturon de puissance de géant.md) +2 * || 10000
+| 09-16 || *[[Ceinturon de puissance de géant]] +2 * || 10000
 |-
-| 17-22 || *[Ceinture de la belette](./Ceinture de la Belette.md)* || 10000
+| 17-22 || *[[Ceinture de la belette]]* || 10000
 |-
-| 23-27 || *[Ceinture de charge tonitruante](./Ceinture de Charge Tonitruante.md)* || 10000
+| 23-27 || *[[Ceinture de charge tonitruante]]* || 10000
 |-
-| 28-32 || *[Ceinture du Minotaure](./Ceinture du Minotaure.md)* || 11000
+| 28-32 || *[[Ceinture du Minotaure]]* || 11000
 |-
-| 33-36 || *[Ceinture du rat contaminé supérieure](./Ceinture du Rat Contaminé Supérieure.md)* || 11200
+| 33-36 || *[[Ceinture du rat contaminé supérieure]]* || 11200
 |-
-| 37-41 || *[Ceinture de santé](./Ceinture de Santé.md)* || 12000
+| 37-41 || *[[Ceinture de santé]]* || 12000
 |-
-| 42-46 || *[Ceinture de surveillance](./Ceinture de Surveillance.md)* || 12500
+| 42-46 || *[[Ceinture de surveillance]]* || 12500
 |-
-| 47-51 || *[Ceinture de jet](./Ceinture de Jet.md)* || 14000
+| 47-51 || *[[Ceinture de jet]]* || 14000
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 52-57 || *[Ceinture des nains](./Ceinture des nains.md)* || 14900
+| 52-57 || *[[Ceinture des nains]]* || 14900
 |-
-| 58-61 || *[Corde de ténacité](./Corde de Ténacité.md)* || 15000
+| 58-61 || *[[Corde de ténacité]]* || 15000
 |-
-| 62-71 || *[Ceinturon de force de géant](./Ceinturon de force de géant.md) +4 * || 16000
+| 62-71 || *[[Ceinturon de force de géant]] +4 * || 16000
 |-
-| 72-80 || *[Ceinturon de la perfection physique](./Ceinturon de la perfection physique.md) +2 * || 16000
+| 72-80 || *[[Ceinturon de la perfection physique]] +2 * || 16000
 |-
-| 81-90 || *[Ceinturon de dextérité du chat](./Ceinturon de dextérité du chat.md) +4 * || 16000
+| 81-90 || *[[Ceinturon de dextérité du chat]] +4 * || 16000
 |-
-| 91-100 || *[Ceinturon de constitution de l’ours](./Ceinturon de constitution de lours.md) +4 * || 16000
+| 91-100 || *[[Ceinturon de constitution de lours|Ceinturon de constitution de l’ours]] +4 * || 16000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intérmédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-12 || *[Ceinture simiesque supérieure](./Ceinture Simiesque Supérieure.md)* || 18000
+| 01-12 || *[[Ceinture simiesque supérieure]]* || 18000
 |-
-| 13-26 || *[Anneaux de l’anaconda](./Anneaux de lAnaconda.md)* || 18500
+| 13-26 || *[[Anneaux de lanaconda|Anneaux de l’anaconda]]* || 18500
 |-
-| 27-38 || *[Ceinture reptilienne supérieure](./Ceinture Reptilienne Supérieure.md)* || 20000
+| 27-38 || *[[Ceinture reptilienne supérieure]]* || 20000
 |-
-| 39-53 || *[Ceinture des héros déchus](./Ceinture des Héros Déchus.md)* || 21000
+| 39-53 || *[[Ceinture des héros déchus]]* || 21000
 |-
-| 54-67 || *[Ceinture de la gorgone](./Ceinture de la Gorgone.md)* || 23000
+| 54-67 || *[[Ceinture de la gorgone]]* || 23000
 |-
-| 68-84 || *[Ceinture de terre élémentaire](./Ceinture de Terre Élémentaire.md)* || 24000
+| 68-84 || *[[Ceinture de terre élémentaire]]* || 24000
 |-
-| 85-100 || *[Écharpe de déviation](./Écharpe de Déviation.md)* || 25000
+| 85-100 || *[[Écharpe de déviation]]* || 25000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-12 || *[Ceinture de l’homme-poisson](./Ceinture de lHomme-poisson.md)* || 32000
+| 01-12 || *[[Ceinture de lhomme-poisson|Ceinture de l’homme-poisson]]* || 32000
 |-
-| 13-30 || *[Ceinturon de force de géant](./Ceinturon de force de géant.md) +6 * || 36000
+| 13-30 || *[[Ceinturon de force de géant]] +6 * || 36000
 |-
-| 31-48 || *[Ceinturon de dextérité du chat](./Ceinturon de dextérité du chat.md) +6 * || 36000
+| 31-48 || *[[Ceinturon de dextérité du chat]] +6 * || 36000
 |-
-| 49-66 || *[Ceinturon de constitution de l’ours](./Ceinturon de constitution de lours.md) +6 * || 36000
+| 49-66 || *[[Ceinturon de constitution de lours|Ceinturon de constitution de l’ours]] +6 * || 36000
 |-
-| 67-88 || *[Ceinturon de puissance de géant](./Ceinturon de puissance de géant.md) +4 * || 40000
+| 67-88 || *[[Ceinturon de puissance de géant]] +4 * || 40000
 |-
-| 89-100 || *[Ceinture de jet supérieure](./Ceinture de Jet Supérieure.md)* || 42000
+| 89-100 || *[[Ceinture de jet supérieure]]* || 42000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-25 || *[Ceinture de peau de pierre](./Ceinture de peau de pierre.md)* || 60000
+| 01-25 || *[[Ceinture de peau de pierre]]* || 60000
 |-
-| 26-55 || *[Ceinturon de la perfection physique](./Ceinturon de la perfection physique.md) +4 * || 64000
+| 26-55 || *[[Ceinturon de la perfection physique]] +4 * || 64000
 |-
-| 56-75 || *[Ceinturon de puissance de géant](./Ceinturon de puissance de géant.md) +6 * || 90000
+| 56-75 || *[[Ceinturon de puissance de géant]] +6 * || 90000
 |-
-| 76-90 || *[Ceinture d’intangibilité](./Ceinture dIntangibilité.md)* || 110000
+| 76-90 || *[[Ceinture dintangibilité|Ceinture d’intangibilité]]* || 110000
 |-
-| 91-100 || *[Ceinturon de la perfection physique](./Ceinturon de la perfection physique.md) +6 * || 144000
+| 91-100 || *[[Ceinturon de la perfection physique]] +6 * || 144000
 |}
 </td></tr></table>
 
@@ -180,97 +180,97 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible inférieur || Prix(po)
 |- CLASS="premier"
-| 01-20 || *[Robe de corde infinie](./Robe de Corde Infinie.md)* || 1000
+| 01-20 || *[[Robe de corde infinie]]* || 1000
 |-
-| 21-35 || *[Robe de la manticore](./Robe de la Manticore.md)* || 1000
+| 21-35 || *[[Robe de la manticore]]* || 1000
 |-
-| 36-60 || *[Robe d’ossements](./Robe dossements.md)* || 2400
+| 36-60 || *[[Robe dossements|Robe d’ossements]]* || 2400
 |-
-| 61-70 || *[Bandelettes de frappes dévastatrices](./Bandelettes de Frappes Dévastatrices.md) +1 * || 3000
+| 61-70 || *[[Bandelettes de frappes dévastatrices]] +1 * || 3000
 |-
-| 71-80 || *[Corset vishkanyan](./Corset Vishkanyan.md)* || 3000
+| 71-80 || *[[Corset vishkanyan]]* || 3000
 |-
-| 81-100 || *[Chasuble de druide](./Chasuble de druide.md)* || 3750
+| 81-100 || *[[Chasuble de druide]]* || 3750
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 01-15 || *[Soutane de prêtre](./Soutane de Prêtre.md)* || 4600
+| 01-15 || *[[Soutane de prêtre]]* || 4600
 |-
-| 16-30 || *[Robe de mémorisation](./Robe de Mémorisation.md)* || 5000
+| 16-30 || *[[Robe de mémorisation]]* || 5000
 |-
-| 31-45 || *[Robe de composantes](./Robe de Composantes.md)* || 5000
+| 31-45 || *[[Robe de composantes]]* || 5000
 |-
-| 46-60 || *[Robe d’ensorceleur](./Robe dEnsorceleur.md)* || 5000
+| 46-60 || *[[Robe densorceleur|Robe d’ensorceleur]]* || 5000
 |-
-| 61-75 || *[Harnais d’ancrage pour eidolon](./Harnais dAncrage Pour Eidolon.md)* || 6000
+| 61-75 || *[[Harnais dancrage pour eidolon|Harnais d’ancrage pour eidolon]]* || 6000
 |-
-| 76-100 || *[Robe de camelot](./Robe de camelot.md)* || 7000
+| 76-100 || *[[Robe de camelot]]* || 7000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-15 || *[Robe de mimétisme](./Robe de mimétisme.md)* || 8400
+| 01-15 || *[[Robe de mimétisme]]* || 8400
 |-
-| 16-26 || *[Robe ardente](./Robe Ardente.md)* || 11000
+| 16-26 || *[[Robe ardente]]* || 11000
 |-
-| 27-37 || *[Robe électrifiée](./Robe Électrifiée.md)* || 11000
+| 27-37 || *[[Robe électrifiée]]* || 11000
 |-
-| 38-48 || *[Robe gelée](./Robe Gelée.md)* || 11000
+| 38-48 || *[[Robe gelée]]* || 11000
 |-
-| 49-59 || *[Bandelettes de frappes dévastatrices](./Bandelettes de Frappes Dévastatrices.md) +2 * || 12000
+| 49-59 || *[[Bandelettes de frappes dévastatrices]] +2 * || 12000
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 60-75 || *[Robe de moine](./Robe de moine.md)* || 13000
+| 60-75 || *[[Robe de moine]]* || 13000
 |-
-| 76-100 || *[Robe de l’héritage magique](./Robe de lHéritage Magique.md)* || 16000
+| 76-100 || *[[Robe de lHéritage Magique|Robe de l’héritage magique]]* || 16000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-25 || *[Robe du xorn](./Robe du Xorn.md)* || 20000
+| 01-25 || *[[Robe du xorn]]* || 20000
 |-
-| 26-52 || *[Corset de sorcellerie](./Corset de Sorcellerie.md)* || 22000
+| 26-52 || *[[Corset de sorcellerie]]* || 22000
 |-
-| 53-76 || *[Bandelettes de frappes dévastatrices](./Bandelettes de Frappes Dévastatrices.md) +3 * || 27000
+| 53-76 || *[[Bandelettes de frappes dévastatrices]] +3 * || 27000
 |-
-| 77-100 || *[Robe prismatique](./Robe prismatique.md)* || 27000
+| 77-100 || *[[Robe prismatique]]* || 27000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-40 || *[Cache-poussière du tireur](./Cache-poussière du Tireur.md)* || 36000
+| 01-40 || *[[Cache-poussière du tireur]]* || 36000
 |-
-| 41-80 || *[Bandelettes de frappes dévastatrices](./Bandelettes de Frappes Dévastatrices.md) +4 * || 48000
+| 41-80 || *[[Bandelettes de frappes dévastatrices]] +4 * || 48000
 |-
-| 81-100 || *[Robe de contrebandier](./Robe de Contrebandier.md)* || 48000
+| 81-100 || *[[Robe de contrebandier]]* || 48000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-10 || *[Robe étoilée](./Robe étoilée.md)* || 58000
+| 01-10 || *[[Robe étoilée]]* || 58000
 |-
-| 11-15 || *[Robe de convocation](./Robe de Convocation.md)* || 64000
+| 11-15 || *[[Robe de convocation]]* || 64000
 |-
-| 16-20 || *[Kimono mystique](./Kimono Mystique.md)* || 67000
+| 16-20 || *[[Kimono mystique]]* || 67000
 |-
-| 21-40 || *[Bandelettes de frappes dévastatrices](./Bandelettes de Frappes Dévastatrices.md) +5 * || 75000
+| 21-40 || *[[Bandelettes de frappes dévastatrices]] +5 * || 75000
 |-
-| 41-51 || *[Robe resplendissante du comédien](./Robe Resplendissante du Comédien.md)* || 75000
+| 41-51 || *[[Robe resplendissante du comédien]]* || 75000
 |-
-| 52-67 || *[Robe d’archimage](./Robe darchimage.md)* || 75000
+| 52-67 || *[[Robe darchimage|Robe d’archimage]]* || 75000
 |-
-| 68-77 || *[Bandelettes de frappes dévastatrices](./Bandelettes de Frappes Dévastatrices.md) +6 * || 108000
+| 68-77 || *[[Bandelettes de frappes dévastatrices]] +6 * || 108000
 |-
-| 78-97 || *[Robe de vision totale](./Robe de vision totale.md)* || 120000
+| 78-97 || *[[Robe de vision totale]]* || 120000
 |-
-| 98-100 || *[Bandelettes de frappes dévastatrices](./Bandelettes de Frappes Dévastatrices.md) +7 * || 147000
+| 98-100 || *[[Bandelettes de frappes dévastatrices]] +7 * || 147000
 |}
 </td></tr></table>
 
@@ -282,82 +282,82 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible inférieur || Prix(po)
 |- CLASS="premier"
-| 01-15 || *[Bandages de guérison rapide](./bandages de guérison rapide.md)* || 200
+| 01-15 || *[[Bandages de guérison rapide]]* || 200
 |-
-| 16-30 || *[Maillot de sprinter](./Maillot de Sprinter.md)* || 1000
+| 16-30 || *[[Maillot de sprinter]]* || 1000
 |-
-| 31-50 || *[Cartouchière inépuisable](./Cartouchière Inépuisable.md)* || 1500
+| 31-50 || *[[Cartouchière inépuisable]]* || 1500
 |-
-| 51-75 || *[Veste à outils](./veste à outils.md)* || 1800
+| 51-75 || *[[Veste à outils]]* || 1800
 |-
-| 76-100 || *[Gilet de médecin](./Gilet de Médecin.md)* || 3000
+| 76-100 || *[[Gilet de médecin]]* || 3000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 01-10 || *[Écharpe du champion](./écharpe du champion.md)* || 4000
+| 01-10 || *[[Écharpe du champion]]* || 4000
 |-
-| 11-20 || *[Veste absorbante](./Veste Absorbante.md)* || 5000
+| 11-20 || *[[Veste absorbante]]* || 5000
 |-
-| 21-31 || *[Tunique d’incantation minutieuse](./Tunique dIncantation Minutieuse.md)* || 5000
+| 21-31 || *[[Tunique dincantation minutieuse|Tunique d’incantation minutieuse]]* || 5000
 |-
-| 32-42 || *[Gilet d’évasion](./Gilet dévasion.md)* || 5200
+| 32-42 || *[[Gilet dévasion|Gilet d’évasion]]* || 5200
 |-
-| 43-52 || *[Vareuse de sorcière ricaneuse](./Vareuse de Sorcière Ricaneuse.md)* || 6000
+| 43-52 || *[[Vareuse de sorcière ricaneuse]]* || 6000
 |-
-| 53-62 || *[Gilet de tir impitoyable](./Gilet de Tir Impitoyable.md)* || 6000
+| 53-62 || *[[Gilet de tir impitoyable]]* || 6000
 |-
-| 63-70 || *[Plastron prophétique](./Plastron Prophétique.md)* || 6000
+| 63-70 || *[[Plastron prophétique]]* || 6000
 |-
-| 71-79 || *[Tunique de puissance dévastatrice](./Tunique de Puissance Dévastatrice.md)* || 6000
+| 71-79 || *[[Tunique de puissance dévastatrice]]* || 6000
 |-
-| 80-90 || *[Gilet du traqueur](./Gilet du Traqueur.md)* || 6000
+| 80-90 || *[[Gilet du traqueur]]* || 6000
 |-
-| 91-100 || *[Uniforme resplendissant](./Uniforme Resplendissant.md)* || 7000
+| 91-100 || *[[Uniforme resplendissant]]* || 7000
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-13 || *[Chemise enflammée](./Chemise Enflammée.md)* || 8000
+| 01-13 || *[[Chemise enflammée]]* || 8000
 |-
-| 14-28 || *[Tunique en peau de serpent](./Tunique En Peau de Serpent.md)* || 8000
+| 14-28 || *[[Tunique en peau de serpent]]* || 8000
 |-
-| 29-40 || *[Baudrier du tueur](./Baudrier du Tueur.md)* || 10000
+| 29-40 || *[[Baudrier du tueur]]* || 10000
 |-
-| 41-60 || *[Chemise de liberté](./Chemise de Liberté.md)* || 10000
+| 41-60 || *[[Chemise de liberté]]* || 10000
 |-
-| 61-80 || *[Veston de l’empoisonneur](./Veston de lEmpoisonneur.md)* || 12000
+| 61-80 || *[[Veston de lempoisonneur|Veston de l’empoisonneur]]* || 12000
 |-
-| 81-100 || *[Veste du cafard](./veste du cafard.md)* || 16000
+| 81-100 || *[[Veste du cafard]]* || 16000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intérmédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-50 || *[Gilet de stabilité mutagène](./Gilet de Stabilité Mutagène.md)* || 20000
+| 01-50 || *[[Gilet de stabilité mutagène]]* || 20000
 |-
-| 51-100 || *[Linceul spectral](./Linceul Spectral.md)* || 26000
+| 51-100 || *[[Linceul spectral]]* || 26000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-60 || *[Pèlerine d’immortalité](./Pèlerine dImmortalité.md)* || 50000
+| 01-60 || *[[Pèlerine dimmortalité|Pèlerine d’immortalité]]* || 50000
 |-
-| 61-100 || *[Veston de l’empoisonneur supérieur](./Veston de lEmpoisonneur Supérieur.md)* || 58000
+| 61-100 || *[[Veston de lempoisonneur supérieur|Veston de l’empoisonneur supérieur]]* || 58000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-35 || *[Baudrier miséricordieux](./Baudrier Miséricordieux.md)* || 60000
+| 01-35 || *[[Baudrier miséricordieux]]* || 60000
 |-
-| 36-70 || *[Chasuble de la foi](./Chasuble de la foi.md)* || 76000
+| 36-70 || *[[Chasuble de la foi]]* || 76000
 |-
-| 71-100 || *[Chasuble de résistance à la magie](./Chasuble de Résistance À la Magie.md)* || 90000
+| 71-100 || *[[Chasuble de résistance à la magie]]* || 90000
 |}
 </td></tr></table>
 
@@ -369,89 +369,89 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible inférieur || Prix(po)
 |- CLASS="premier"
-| 01-18 || *[Yeux de perception de la mort](./Yeux de Perception de la Mort.md)* || 2000
+| 01-18 || *[[Yeux de perception de la mort]]* || 2000
 |-
-| 19-38 || *[Yeux de lynx](./Yeux de lynx.md)* || 2500
+| 19-38 || *[[Yeux de lynx]]* || 2500
 |-
-| 39-58 || *[Lunettes grossissantes](./Lunettes grossissantes.md)* || 2500
+| 39-58 || *[[Lunettes grossissantes]]* || 2500
 |-
-| 59-72 || *[Cache-oeil de pirate](./Cache-oeil-de-pirate.md)* || 2600
+| 59-72 || *[[Cache-oeil de pirate]]* || 2600
 |-
-| 73-87 || *[Bésicles de compréhension](./Bésicles de Compréhension.md)* || 3000
+| 73-87 || *[[Bésicles de compréhension]]* || 3000
 |-
-| 88-100 || *[Loupe de détection](./Loupe de détection.md)* || 3500
+| 88-100 || *[[Loupe de détection]]* || 3500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 01-20 || *[Yeux de chouette](./Yeux de Chouette.md)* || 4000
+| 01-20 || *[[Yeux de chouette]]* || 4000
 |-
-| 21-44 || *[Yeux perçants](./Yeux Perçants.md)* || 6000
+| 21-44 || *[[Yeux perçants]]* || 6000
 |-
-| 45-66 || *[Lunettes du chasseur de trésors](./Lunettes du Chasseur de Trésors.md)* || 6400
+| 45-66 || *[[Lunettes du chasseur de trésors]]* || 6400
 |-
-| 67-84 || *[Monocle d’enquêteur](./Monocle dEnquêteur.md)* || 6800
+| 67-84 || *[[Monocle denquêteur|Monocle d’enquêteur]]* || 6800
 |-
-| 85-100 || *[Lunettes de vision jumelée](./Lunettes de Vision Jumelée.md)* || 7500
+| 85-100 || *[[Lunettes de vision jumelée]]* || 7500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-16 || *[Lunettes elfiques](./Lunettes Elfiques.md)* || 8500
+| 01-16 || *[[Lunettes elfiques]]* || 8500
 |-
-| 17-31 || *[Lunettes de lumière aveuglante](./Lunettes de Lumière Aveuglante.md)* || 8800
+| 17-31 || *[[Lunettes de lumière aveuglante]]* || 8800
 |-
-| 32-48 || *[Bandeau de l’aveugle](./Bandeau de lAveugle.md)* || 12000
+| 32-48 || *[[Bandeau de laveugle|Bandeau de l’aveugle]]* || 12000
 |-
-| 49-67 || *[Lunettes de nyctalope](./Lunettes de nyctalope.md)* || 12000
+| 49-67 || *[[Lunettes de nyctalope]]* || 12000
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 68-82 || *[Bésicles de détection des chimères](./Bésicles de Détection des Chimères.md)* || 12000
+| 68-82 || *[[Bésicles de détection des chimères]]* || 12000
 |-
-| 83-100 || *[Lunettes de vision à 360°](./Lunettes de Vision À 360°.md)* || 15000
+| 83-100 || *[[Lunettes de vision à 360°]]* || 15000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-21 || *[Lunettes d’Ombreterre](./Lunettes dOmbreterre.md)* || 20000
+| 01-21 || *[[Lunettes dOmbreterre|Lunettes d’Ombreterre]]* || 20000
 |-
-| 22-40 || *[Lunettes de sniper](./lunettes de sniper.md)* || 20000
+| 22-40 || *[[Lunettes de sniper]]* || 20000
 |-
-| 41-58 || *[Lunettes arc-en-ciel](./Lunettes Arc-en-ciel.md)* || 21000
+| 41-58 || *[[Lunettes arc-en-ciel]]* || 21000
 |-
-| 59-77 || *[Lunettes d’annihilation](./lunettes dannihilation.md)* || 25000
+| 59-77 || *[[Lunettes dannihilation|Lunettes d’annihilation]]* || 25000
 |-
-| 78-100 || *[Yeux d’anathème](./Yeux danathème.md)* || 25000
+| 78-100 || *[[Yeux danathème|Yeux d’anathème]]* || 25000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-60 || *[Bésicles du mauvais œil](./Bésicles du Mauvais Œil.md)* || 30000
+| 01-60 || *[[Bésicles du mauvais œil]]* || 30000
 |-
-| 61-100 || *[Lunettes de sniper supérieures](./Lunettes de Sniper Supérieures.md)* || 50000
+| 61-100 || *[[Lunettes de sniper supérieures]]* || 50000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-18 || *[Yeux de charme](./Yeux de charme.md)* || 56000
+| 01-18 || *[[Yeux de charme]]* || 56000
 |-
-| 19-34 || *[Monocle d’investigateur](./Monocle dInvestigateur.md)* || 66000
+| 19-34 || *[[Monocle dinvestigateur|Monocle d’investigateur]]* || 66000
 |-
-| 35-48 || *[Cache-oeil du tyran des mers](./Cache-oeil-du-tyran-des-mers.md)* || 70000
+| 35-48 || *[[Cache-oeil du tyran des mers]]* || 70000
 |-
-| 49-63 || *[Bandeau du maître d’armes](./Bandeau du Maître dArmes.md)* || 80000
+| 49-63 || *[[Bandeau du maître darmes|Bandeau du maître d’armes]]* || 80000
 |-
-| 64-77 || *[Yeux de domination mentale](./Yeux de Domination Mentale.md)* || 95000
+| 64-77 || *[[Yeux de domination mentale]]* || 95000
 |-
-| 78-90 || *[Yeux de dragon](./Yeux de Dragon.md)* || 110000
+| 78-90 || *[[Yeux de dragon]]* || 110000
 |-
-| 91-100 || *[Lunettes de vision lucide](./Lunettes de Vision Lucide.md)* || 184800
+| 91-100 || *[[Lunettes de vision lucide]]* || 184800
 |}
 </td></tr></table>
 
@@ -463,115 +463,115 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible inférieur || Prix(po)
 |- CLASS="premier"
-| 01-11 || *[Bottes du chat](./Bottes du Chat.md)* || 1000
+| 01-11 || *[[Bottes du chat]]* || 1000
 |-
-| 12-22 || *[Bottes de casse-cou](./Bottes de Casse-cou.md)* || 1400
+| 12-22 || *[[Bottes de casse-cou]]* || 1400
 |-
-| 23-31 || *[Bottes d’endurance](./Bottes dEndurance.md)* || 1500
+| 23-31 || *[[Bottes dendurance|Bottes d’endurance]]* || 1500
 |-
-| 32-41 || *[Pantoufles de démarche aérienne](./Pantoufles de Démarche Aérienne.md)* || 2000
+| 32-41 || *[[Pantoufles de démarche aérienne]]* || 2000
 |-
-| 42-50 || *[Bottes du terrain amical](./Bottes du Terrain Amical.md)* || 2400
+| 42-50 || *[[Bottes du terrain amical]]* || 2400
 |-
-| 51-60 || *[Bottes des terres gelées](./Bottes des terres gelées.md)* || 2500
+| 51-60 || *[[Bottes des terres gelées]]* || 2500
 |-
-| 61-76 || *[Bottes elfiques](./Bottes elfiques.md)* || 2500
+| 61-76 || *[[Bottes elfiques]]* || 2500
 |-
-| 77-85 || *[Chaussons d’acrobate](./Chaussons dAcrobate.md)* || 3000
+| 77-85 || *[[Chaussons dacrobate|Chaussons d’acrobate]]* || 3000
 |-
-| 86-92 || *[Fers à cheval de rapidité](./Fers à cheval de rapidité.md)* || 3000
+| 86-92 || *[[Fers à cheval de rapidité]]* || 3000
 |-
-| 93-100 || *[Bottes du bourbier](./Bottes du Bourbier.md)* || 3500
+| 93-100 || *[[Bottes du bourbier]]* || 3500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 01-07 || *[Bottes de cambrioleur](./Bottes de Cambrioleur.md)* || 4000
+| 01-07 || *[[Bottes de cambrioleur]]* || 4000
 |-
-| 08-13 || *[Fers à cheval de ruade dévastatrice](./Fers À Cheval de Ruade Dévastatrice.md) +1 * || 4000
+| 08-13 || *[[Fers à cheval de ruade dévastatrice]] +1 * || 4000
 |-
-| 14-19 || *[Sandales réactives](./Sandales Réactives.md)* || 4000
+| 14-19 || *[[Sandales réactives]]* || 4000
 |-
-| 20-26 || *[Chaussons de marche brumeuse](./Chaussons de Marche Brumeuse.md)* || 4400
+| 20-26 || *[[Chaussons de marche brumeuse]]* || 4400
 |-
-| 27-40 || *[Chaussons d’araignée](./Chaussons daraignée.md)* || 4800
+| 27-40 || *[[Chaussons daraignée|Chaussons d’araignée]]* || 4800
 |-
-| 41-46 || *[Sandales de légèreté aérienne](./Sandales de Légèreté Aérienne.md)* || 5000
+| 41-46 || *[[Sandales de légèreté aérienne]]* || 5000
 |-
-| 47-60 || *[Bottes de sept lieues](./Bottes de sept lieues.md)* || 5500
+| 47-60 || *[[Bottes de sept lieues]]* || 5500
 |-
-| 61-68 || *[Fers à cheval du zéphyr](./Fers à cheval du zéphyr.md)* || 6000
+| 61-68 || *[[Fers à cheval du zéphyr]]* || 6000
 |-
-| 69-75 || *[Souliers hantés](./Souliers Hantés.md)* || 6480
+| 69-75 || *[[Souliers hantés]]* || 6480
 |-
-| 76-82 || *[Bottes d’échappée](./Bottes dÉchappée.md)* || 7200
+| 76-82 || *[[Bottes déchappée|Bottes d’échappée]]* || 7200
 |-
-| 83-100 || *[Bottes de lévitation](./Bottes de lévitation.md)* || 7500
+| 83-100 || *[[Bottes de lévitation]]* || 7500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-08 || *[Bottes d’évasion](./Bottes dÉvasion.md)* || 8000
+| 01-08 || *[[Bottes dévasion|Bottes d’évasion]]* || 8000
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 09-14 || *[Bottes d’enracinement](./Bottes dEnracinement.md)* || 8000
+| 09-14 || *[[Bottes denracinement|Bottes d’enracinement]]* || 8000
 |-
-| 15-21 || *[Bottes cauchemardesque](./Bottes Cauchemardesque.md)* || 8500
+| 15-21 || *[[Bottes cauchemardesque]]* || 8500
 |-
-| 22-26 || *[Fers à cheval cauchemardesque](./Fers À Cheval Cauchemardesque.md)* || 9000
+| 22-26 || *[[Fers à cheval cauchemardesque]]* || 9000
 |-
-| 27-32 || *[Bottes à chausse-trappes](./Bottes À Chausse-trappes.md)* || 10000
+| 27-32 || *[[Bottes à chausse-trappes]]* || 10000
 |-
-| 33-39 || *[Bottes de perception des vibrations](./Bottes de Perception des Vibrations.md)* || 10000
+| 33-39 || *[[Bottes de perception des vibrations]]* || 10000
 |-
-| 40-47 || *[Bottes du mastodonte](./Bottes du Mastodonte.md)* || 10500
+| 40-47 || *[[Bottes du mastodonte]]* || 10500
 |-
-| 48-54 || *[Chaussures d’éclairs bondissants](./Chaussures dÉclairs Bondissants.md)* || 10500
+| 48-54 || *[[Chaussures déclairs bondissants|Chaussures d’éclairs bondissants]]* || 10500
 |-
-| 55-70 || *[Bottes de rapidité](./Bottes de rapidité.md)* || 12000
+| 55-70 || *[[Bottes de rapidité]]* || 12000
 |-
-| 71-77 || *[Bottes verdoyantes](./Bottes Verdoyantes.md)* || 12000
+| 71-77 || *[[Bottes verdoyantes]]* || 12000
 |-
-| 78-84 || *[Fers à cheval de ruade dévastatrice](./Fers À Cheval de Ruade Dévastatrice.md) +2 * || 16000
+| 78-84 || *[[Fers à cheval de ruade dévastatrice]] +2 * || 16000
 |-
-| 85-100 || *[Bottes ailées](./Bottes ailées.md)* || 16000
+| 85-100 || *[[Bottes ailées]]* || 16000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-38 || *[Chaussures de marche sur le feu](./Chaussures de Marche Sur le Feu.md)* || 21000
+| 01-38 || *[[Chaussures de marche sur le feu]]* || 21000
 |-
-| 39-72 || *[Sandales des dryades](./Sandales des Dryades.md)* || 24000
+| 39-72 || *[[Sandales des dryades]]* || 24000
 |-
-| 73-100 || *[Fers à cheval de brume](./Fers À Cheval de Brume.md)* || 27000
+| 73-100 || *[[Fers à cheval de brume]]* || 27000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-20 || *[Bottes d’escampette](./Bottes dEscampette.md)* || 30000
+| 01-20 || *[[Bottes descampette|Bottes d’escampette]]* || 30000
 |-
-| 21-35 || *[Fers à cheval de ruade dévastatrice](./Fers À Cheval de Ruade Dévastatrice.md) +3 * || 36000
+| 21-35 || *[[Fers à cheval de ruade dévastatrice]] +3 * || 36000
 |-
-| 36-55 || *[Fers à cheval glorieux](./Fers À Cheval Glorieux.md)* || 39600
+| 36-55 || *[[Fers à cheval glorieux]]* || 39600
 |-
-| 56-75 || *[Bottes de cambrioleur supérieures](./Bottes de Cambrioleur Supérieures.md)* || 46000
+| 56-75 || *[[Bottes de cambrioleur supérieures]]* || 46000
 |-
-| 76-100 || *[Bottes de téléportation](./Bottes de téléportation.md)* || 49000
+| 76-100 || *[[Bottes de téléportation]]* || 49000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-40 || *[Chaussons du triton](./Chaussons du triton.md)* || 56000
+| 01-40 || *[[Chaussons du triton]]* || 56000
 |-
-| 41-70 || *[Fers à cheval de ruade dévastatrice](./Fers À Cheval de Ruade Dévastatrice.md) +4 * || 64000
+| 41-70 || *[[Fers à cheval de ruade dévastatrice]] +4 * || 64000
 |-
-| 71-100 || *[Fers à cheval de ruade dévastatrice](./Fers À Cheval de Ruade Dévastatrice.md) +5 * || 100000
+| 71-100 || *[[Fers à cheval de ruade dévastatrice]] +5 * || 100000
 |}
 </td></tr></table>
 
@@ -583,97 +583,97 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible inférieur || Prix(po)
 |- CLASS="premier"
-| 01-13 || *[Gants de soutien](./Gants de Soutien.md)* || 180
+| 01-13 || *[[Gants de soutien]]* || 180
 |-
-| 14-22 || *[Griffes de l’ours polaire](./Griffes de lOurs Polaire.md)* || 1300
+| 14-22 || *[[Griffes de lours polaire|Griffes de l’ours polaire]]* || 1300
 |-
-| 23-34 || *[Mitaines de reconnaissance](./Mitaines de Reconnaissance.md)* || 2000
+| 23-34 || *[[Mitaines de reconnaissance]]* || 2000
 |-
-| 35-46 || *[Gants luisants](./gants luisants.md)* || 2000
+| 35-46 || *[[Gants luisants]]* || 2000
 |-
-| 47-58 || *[Gants d’apprenti prestidigitateur](./Gants dApprenti Prestidigitateur.md)* || 2200
+| 47-58 || *[[Gants dapprenti prestidigitateur|Gants d’apprenti prestidigitateur]]* || 2200
 |-
-| 59-70 || *[Gants du défi](./Gants du Défi.md)* || 2200
+| 59-70 || *[[Gants du défi]]* || 2200
 |-
-| 71-80 || *[Gants d’escamotage](./Gants dEscamotage.md)* || 2500
+| 71-80 || *[[Gants descamotage|Gants d’escamotage]]* || 2500
 |-
-| 81-90 || *[Gants du guérisseur](./Gants du Guérisseur.md)* || 2500
+| 81-90 || *[[Gants du guérisseur]]* || 2500
 |-
-| 91-100 || *[Gants d’ingénieur](./Gants dIngénieur.md)* || 3000
+| 91-100 || *[[Gants dingénieur|Gants d’ingénieur]]* || 3000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 01-12 || *[Gantelets de manoeuvre offensive](./Gantelets-de-manoeuvre-offensive.md)* || 4000
+| 01-12 || *[[Gantelets de manoeuvre offensive]]* || 4000
 |-
-| 13-21 || *[Gants de vision spectrale](./Gants de Vision Spectrale.md)* || 4000
+| 13-21 || *[[Gants de vision spectrale]]* || 4000
 |-
-| 22-33 || *[Gants antiprojectiles](./Gants antiprojectiles.md)* || 4000
+| 22-33 || *[[Gants antiprojectiles]]* || 4000
 |-
-| 34-43 || *[Gants de désamorçage des pièges](./Gants de Désamorçage des Pièges.md)* || 4000
+| 34-43 || *[[Gants de désamorçage des pièges]]* || 4000
 |-
-| 44-55 || *[Gants de frappe magique](./Gants de Frappe Magique.md)* || 5000
+| 44-55 || *[[Gants de frappe magique]]* || 5000
 |-
-| 56-65 || *[Gants empoisonnés](./Gants Empoisonnés.md)* || 5000
+| 56-65 || *[[Gants empoisonnés]]* || 5000
 |-
-| 66-75 || *[Gants magnétiques](./Gants Magnétiques.md)* || 6000
+| 66-75 || *[[Gants magnétiques]]* || 6000
 |-
-| 76-100 || *[Gants de nage et d’escalade](./Gants de nage et descalade.md)* || 6250
+| 76-100 || *[[Gants de nage et descalade|Gants de nage et d’escalade]]* || 6250
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-02 || *[Gants déliquescents](./Gants Déliquescents.md)* || 8000
+| 01-02 || *[[Gants déliquescents]]* || 8000
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 03-05 || *[Gantelets de neutralisation des métamorphes](./Gantelets de Neutralisation des Métamorphes.md)* || 8000
+| 03-05 || *[[Gantelets de neutralisation des métamorphes]]* || 8000
 |-
-| 06-08 || *[Gantelet du cobra de fer](./Gantelet du Cobra de Fer.md)* || 8000
+| 06-08 || *[[Gantelet du cobra de fer]]* || 8000
 |-
-| 09-16 || *[Gant de fauconnier](./Gant de Fauconnier.md)* || 8000
+| 09-16 || *[[Gant de fauconnier]]* || 8000
 |-
-| 17-20 || *[Gants de magus](./Gants de Magus.md)* || 8000
+| 17-20 || *[[Gants de magus]]* || 8000
 |-
-| 21-28 || *[Gants de désamorçage des glyphes](./Gants de Désamorçage des Glyphes.md)* || 9000
+| 21-28 || *[[Gants de désamorçage des glyphes]]* || 9000
 |-
-| 29-40 || *[Gant de rangement](./Gant de rangement.md)* || 10000
+| 29-40 || *[[Gant de rangement]]* || 10000
 |-
-| 41-46 || *[Gants de façonnage](./Gants de Façonnage.md)* || 10000
+| 41-46 || *[[Gants de façonnage]]* || 10000
 |-
-| 47-54 || *[Mitaines d’élasticité](./Mitaines dÉlasticité.md)* || 10000
+| 47-54 || *[[Mitaines délasticité|Mitaines d’élasticité]]* || 10000
 |-
-| 55-76 || *[Gantelet de rouille](./Gantelet de rouille.md)* || 11500
+| 55-76 || *[[Gantelet de rouille]]* || 11500
 |-
-| 77-100 || *[Gants de duelliste](./gants de duelliste.md)* || 15000
+| 77-100 || *[[Gants de duelliste]]* || 15000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-30 || *[Gants vampiriques](./Gants Vampiriques.md)* || 18000
+| 01-30 || *[[Gants vampiriques]]* || 18000
 |-
-| 31-65 || *[Gantelets de poigne colossale](./Gantelets de Poigne Colossale.md)* || 20000
+| 31-65 || *[[Gantelets de poigne colossale]]* || 20000
 |-
-| 66-100 || *[Gants de raccourcis](./Gants de Raccourcis.md)* || 27000
+| 66-100 || *[[Gants de raccourcis]]* || 27000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-40 || *[Gants d’invocateur autoritaire](./Gants dInvocateur Autoritaire.md)* || 30000
+| 01-40 || *[[Gants dinvocateur autoritaire|Gants d’invocateur autoritaire]]* || 30000
 |-
-| 41-100 || *[Gantelet de rouille supérieur](./Gantelet de Rouille Supérieur.md)* || 34500
+| 41-100 || *[[Gantelet de rouille supérieur]]* || 34500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-60 || *[Serres de Leng](./Serres de Leng.md)* || 67000
+| 01-60 || *[[Serres de Leng]]* || 67000
 |-
-| 61-100 || *[Gantelets de maître d’armes](./Gantelets de Maître dArmes.md)* || 110000
+| 61-100 || *[[Gantelets de maître darmes|Gantelets de maître d’armes]]* || 110000
 |}
 </td></tr></table>
 
@@ -685,121 +685,121 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible inférieur || Prix(po)
 |- CLASS="premier"
-| 01-10 || *[Masque de l’homme de marbre](./Masque de lHomme de Marbre.md)* || 500
+| 01-10 || *[[Masque de lhomme de marbre|Masque de l’homme de marbre]]* || 500
 |-
-| 11-22 || *[Couvre-chef de déguisement humanoïde](./Couvre-chef de Déguisement Humanoïde.md)* || 800
+| 11-22 || *[[Couvre-chef de déguisement humanoïde]]* || 800
 |-
-| 23-36 || *[Calotte de lumière](./Calotte de Lumière.md)* || 900
+| 23-36 || *[[Calotte de lumière]]* || 900
 |-
-| 37-56 || *[Couvre-chef de déguisement](./Couvre-chef de déguisement.md)* || 1800
+| 37-56 || *[[Couvre-chef de déguisement]]* || 1800
 |-
-| 57-71 || *[Couvre-chef amortissant](./Couvre-chef amortissant.md)* || 2000
+| 57-71 || *[[Couvre-chef amortissant]]* || 2000
 |-
-| 72-85 || *[Masque de l’avare](./Masque de lAvare.md)* || 3000
+| 72-85 || *[[Masque de lavare|Masque de l’avare]]* || 3000
 |-
-| 86-100 || *[Masque du traqueur](./Masque du Traqueur.md)* || 3500
+| 86-100 || *[[Masque du traqueur]]* || 3500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 01-12 || *[Serre-tête de persuasion](./Serre-tête de persuasion.md)* || 4500
+| 01-12 || *[[Serre-tête de persuasion]]* || 4500
 |-
-| 13-21 || *[Masque du lutteur](./masque du lutteur.md)* || 5000
+| 13-21 || *[[Masque du lutteur]]* || 5000
 |-
-| 22-31 || *[Casque de présence intimidante](./casque de présence intimidante.md)* || 5000
+| 22-31 || *[[Casque de présence intimidante]]* || 5000
 |-
-| 32-40 || *[Jingasa du soldat chanceux](./Jingasa du Soldat Chanceux.md)* || 5000
+| 32-40 || *[[Jingasa du soldat chanceux]]* || 5000
 |-
-| 41-54 || *[Heaume de compréhension](./Heaume de Compréhension.md)* || 5200
+| 41-54 || *[[Heaume de compréhension]]* || 5200
 |-
-| 55-67 || *[Couronne des épées](./Couronne des Épées.md)* || 6000
+| 55-67 || *[[Couronne des épées]]* || 6000
 |-
-| 68-87 || *[Serre-tête de lumière](./Serre-tête de lumière.md) destructrice* || 6480
+| 68-87 || *[[Serre-tête de lumière]] destructrice* || 6480
 |-
-| 88-100 || *[Masque du krenshar](./Masque du Krenshar.md)* || 7200
+| 88-100 || *[[Masque du krenshar]]* || 7200
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-16 || *[Heaume du seigneur des Mammouths](./Heaume du Seigneur des Mammouths.md)* || 8500
+| 01-16 || *[[Heaume du seigneur des Mammouths]]* || 8500
 |-
-| 17-30 || *[Voilette des regards fugaces](./Voilette des Regards Fugaces.md)* || 9000
+| 17-30 || *[[Voilette des regards fugaces]]* || 9000
 |-
-| 31-46 || *[Masque encyclopédique](./Masque Encyclopédique.md)* || 10000
+| 31-46 || *[[Masque encyclopédique]]* || 10000
 |-
-| 47-63 || *[Masque de la méduse](./Masque de la Méduse.md)* || 10000
+| 47-63 || *[[Masque de la méduse]]* || 10000
 |-
-| 64-80 || *[Couvre-chef du libre penseur](./Couvre-chef du Libre Penseur.md)* || 12000
+| 64-80 || *[[Couvre-chef du libre penseur]]* || 12000
 |-
-| 81-100 || *[Auréole de sérénité](./Auréole de Sérénité.md)* || 16000
+| 81-100 || *[[Auréole de sérénité]]* || 16000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-06 || *[Couronne oeil-de-chat](./Couronne-oeil-de-chat.md)* || 18000
+| 01-06 || *[[Couronne oeil-de-chat]]* || 18000
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 07-12 || *[Gueule de dragon](./Gueule de Dragon.md)* || 18000
+| 07-12 || *[[Gueule de dragon]]* || 18000
 |-
-| 13-19 || *[Mitre du hiérophante](./Mitre du Hiérophante.md)* || 18000
+| 13-19 || *[[Mitre du hiérophante]]* || 18000
 |-
-| 20-27 || *[Chapeau de magicien](./Chapeau de Magicien.md)* || 20000
+| 20-27 || *[[Chapeau de magicien]]* || 20000
 |-
-| 28-34 || *[Diadème de détection de pensées](./Diadème de Détection de Pensées.md)* || 22000
+| 28-34 || *[[Diadème de détection de pensées]]* || 22000
 |-
-| 35-42 || *[Masque de la camarde](./Masque de la camarde.md)* || 22000
+| 35-42 || *[[Masque de la camarde]]* || 22000
 |-
-| 43-50 || *[Casque hurlant](./Casque Hurlant.md)* || 22600
+| 43-50 || *[[Casque hurlant]]* || 22600
 |-
-| 51-62 || *[Serre-tête de lumière](./Serre-tête de lumière.md) dévastatrice* || 23760
+| 51-62 || *[[Serre-tête de lumière]] dévastatrice* || 23760
 |-
-| 63-72 || *[Casque de l’homme-poisson](./Casque de lhomme-poisson.md)* || 24000
+| 63-72 || *[[Casque de lhomme-poisson|Casque de l’homme-poisson]]* || 24000
 |-
-| 73-79 || *[Couronne de conquérant](./Couronne de Conquérant.md)* || 24600
+| 73-79 || *[[Couronne de conquérant]]* || 24600
 |-
-| 80-85 || *[Casque batracien](./Casque Batracien.md)* || 26000
+| 80-85 || *[[Casque batracien]]* || 26000
 |-
-| 86-94 || *[Casque de télépathie](./Casque de télépathie.md)* || 27000
+| 86-94 || *[[Casque de télépathie]]* || 27000
 |-
-| 95-100 || *[Masque anti-épidémie](./Masque Anti-épidémie.md)* || 27000
+| 95-100 || *[[Masque anti-épidémie]]* || 27000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-14 || *[Serre-tête de protection des âmes](./Serre-tête de Protection des Âmes.md)* || 30000
+| 01-14 || *[[Serre-tête de protection des âmes]]* || 30000
 |-
-| 15-29 || *[Lauriers de commandement](./Lauriers de Commandement.md)* || 30000
+| 15-29 || *[[Lauriers de commandement]]* || 30000
 |-
-| 30-45 || *[Masque mineur des géants](./Masque Mineur des Géants.md)* || 30000
+| 30-45 || *[[Masque mineur des géants]]* || 30000
 |-
-| 46-61 || *[Couvre-chef de volonté inébranlable](./Couvre-chef de Volonté Inébranlable.md)* || 33600
+| 46-61 || *[[Couvre-chef de volonté inébranlable]]* || 33600
 |-
-| 62-78 || *[Heaume du seigneur des tempêtes](./Heaume du Seigneur des Tempêtes.md)* || 35000
+| 62-78 || *[[Heaume du seigneur des tempêtes]]* || 35000
 |-
-| 79-100 || *[Casque de cent feux](./Casque de Cent Feux.md)* || 36000
+| 79-100 || *[[Casque de cent feux]]* || 36000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-14 || *[Perruque de juge](./Perruque de Juge.md)* || 59200
+| 01-14 || *[[Perruque de juge]]* || 59200
 |-
-| 15-39 || *[Casque de téléportation](./Casque de téléportation.md)* || 73500
+| 15-39 || *[[Casque de téléportation]]* || 73500
 |-
-| 40-55 || *[Auréole de menace](./Auréole de menace.md)* || 84000
+| 40-55 || *[[Auréole de menace]]* || 84000
 |-
-| 56-68 || *[Masque majeur des géants](./Masque Majeur des Géants.md)* || 90000
+| 56-68 || *[[Masque majeur des géants]]* || 90000
 |-
-| 69-83 || *[Casque de mille feux](./Casque de mille feux.md)* || 125000
+| 69-83 || *[[Casque de mille feux]]* || 125000
 |-
-| 84-92 || *[Casque d’éclat électrique](./Casque dÉclat Électrique.md)* || 125000
+| 84-92 || *[[Casque déclat électrique|Casque d’éclat électrique]]* || 125000
 |-
-| 93-100 || *[Diadème des cieux](./Diadème des Cieux.md)* || 150000
+| 93-100 || *[[Diadème des cieux]]* || 150000
 |}
 </td></tr></table>
 
@@ -811,119 +811,119 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible inférieur || Prix(po)
 |- CLASS="premier"
-| 01-60 || *[Phylactère du croyant](./Phylactère du croyant.md)* || 1000
+| 01-60 || *[[Phylactère du croyant]]* || 1000
 |-
-| 61-100 || *[Bandeau du mort](./Bandeau du Mort.md)* || 3600
+| 61-100 || *[[Bandeau du mort]]* || 3600
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 01-09 || *[Bandeau de belle allure](./Bandeau de belle allure.md) +2 * || 4000
+| 01-09 || *[[Bandeau de belle allure]] +2 * || 4000
 |-
-| 10-18 || *[Bandeau d’inspiration](./Bandeau dinspiration.md) +2 * || 4000
+| 10-18 || *[[Bandeau dinspiration|Bandeau d’inspiration]] +2 * || 4000
 |-
-| 19-27 || *[Bandeau d’intelligence](./Bandeau dintelligence.md) +2 * || 4000
+| 19-27 || *[[Bandeau dintelligence|Bandeau d’intelligence]] +2 * || 4000
 |-
-| 28-33 || *[Bandeau d’agilité aérienne](./Bandeau dAgilité Aérienne.md) +2 * || 4500
+| 28-33 || *[[Bandeau dagilité aérienne|Bandeau d’agilité aérienne]] +2 * || 4500
 |-
-| 34-39 || *[Bandeau de métamorphe](./Bandeau de Métamorphe.md) +2 * || 4500
+| 34-39 || *[[Bandeau de métamorphe]] +2 * || 4500
 |-
-| 40-45 || *[Bandeau de réminiscence](./Bandeau de Réminiscence.md)* || 5100
+| 40-45 || *[[Bandeau de réminiscence]]* || 5100
 |-
-| 46-51 || *[Bandeau de focalisation ki](./Bandeau de Focalisation Ki.md)* || 5400
+| 46-51 || *[[Bandeau de focalisation ki]]* || 5400
 |-
-| 52-58 || *[Bandeau de résolution inébranlable](./Bandeau de Résolution Inébranlable.md)* || 5600
+| 52-58 || *[[Bandeau de résolution inébranlable]]* || 5600
 |-
-| 59-66 || *[Couronne de houx](./Couronne de Houx.md)* || 5700
+| 59-66 || *[[Couronne de houx]]* || 5700
 |-
-| 67-74 || *[Bandeau d’infaillible détermination](./Bandeau dInfaillible Détermination.md)* || 6400
+| 67-74 || *[[Bandeau dinfaillible détermination|Bandeau d’infaillible détermination]]* || 6400
 |-
-| 75-82 || *[Phylactère du berger](./Phylactère du Berger.md)* || 7000
+| 75-82 || *[[Phylactère du berger]]* || 7000
 |-
-| 83-91 || *[Bandeau d’intuition](./Bandeau dIntuition.md)* || 7000
+| 83-91 || *[[Bandeau dintuition|Bandeau d’intuition]]* || 7000
 |-
-| 92-100 || *[Bandeau de chance renforcée](./Bandeau de Chance Renforcée.md)* || 7700
+| 92-100 || *[[Bandeau de chance renforcée]]* || 7700
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-06 || *[Bandeau de l’enragé](./Bandeau de lEnragé.md)* || 8000
+| 01-06 || *[[Bandeau de lenragé|Bandeau de l’enragé]]* || 8000
 |-
-| 07-12 || *[Bandeau du serpent](./Bandeau du Serpent.md)* || 9000
+| 07-12 || *[[Bandeau du serpent]]* || 9000
 |-
-| 13-20 || *[Bandeau de prouesse mentale](./Bandeau de prouesse mentale.md) +2 * || 10000
+| 13-20 || *[[Bandeau de prouesse mentale]] +2 * || 10000
 |-
-| 21-26 || *[Bandeau du chasseur](./Bandeau du Chasseur.md)* || 11000
+| 21-26 || *[[Bandeau du chasseur]]* || 11000
 |-
-| 27-34 || *[Phylactère de canalisation d’énergie négative](./Phylactère de Canalisation dÉnergie Négative.md)* || 11000
+| 27-34 || *[[Phylactère de canalisation dénergie négative|Phylactère de canalisation d’énergie négative]]* || 11000
 |-
-| 35-42 || *[Phylactère de canalisation d’énergie positive](./Phylactère de Canalisation dÉnergie Positive.md)* || 11000
+| 35-42 || *[[Phylactère de canalisation dénergie positive|Phylactère de canalisation d’énergie positive]]* || 11000
 |-
-| 43-48 || *[OEil voilé](./OEil-voilé.md)* || 12000
+| 43-48 || *[[OEil voilé]]* || 12000
 |-
-| 49-54 || *[Bandeau de vaillance](./Bandeau de Vaillance.md)* || 14000
+| 49-54 || *[[Bandeau de vaillance]]* || 14000
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 55-60 || *[Bandeau de ninjitsu](./Bandeau de Ninjitsu.md)* || 15000
+| 55-60 || *[[Bandeau de ninjitsu]]* || 15000
 |-
-| 61-68 || *[Bandeau de belle allure](./Bandeau de belle allure.md) +4 * || 16000
+| 61-68 || *[[Bandeau de belle allure]] +4 * || 16000
 |-
-| 69-76 || *[Bandeau d’inspiration](./Bandeau dinspiration.md) +4 * || 16000
+| 69-76 || *[[Bandeau dinspiration|Bandeau d’inspiration]] +4 * || 16000
 |-
-| 77-85 || *[Bandeau de supériorité mentale](./Bandeau de supériorité mentale.md) +2 * || 16000
+| 77-85 || *[[Bandeau de supériorité mentale]] +2 * || 16000
 |-
-| 86-93 || *[Bandeau d’intelligence](./Bandeau dintelligence.md) +4 * || 16000
+| 86-93 || *[[Bandeau dintelligence|Bandeau d’intelligence]] +4 * || 16000
 |-
-| 94-100 || *[Bandeau de métamorphe](./Bandeau de Métamorphe.md) +4 * || 17500
+| 94-100 || *[[Bandeau de métamorphe]] +4 * || 17500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-30 || *[Bandeau d’énergie magique](./Bandeau dÉnergie Magique.md)* || 20000
+| 01-30 || *[[Bandeau dénergie magique|Bandeau d’énergie magique]]* || 20000
 |-
-| 31-70 || *[Bandeau de contresort](./Bandeau de Contresort.md)* || 20000
+| 31-70 || *[[Bandeau de contresort]]* || 20000
 |-
-| 71-100 || *[Bandeau de maîtrise des zombis](./Bandeau de Maîtrise des Zombis.md)* || 27500
+| 71-100 || *[[Bandeau de maîtrise des zombis]]* || 27500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-09 || *[OEil des âmes](./OEil-des-âmes.md)* || 30000
+| 01-09 || *[[OEil des âmes]]* || 30000
 |-
-| 10-19 || *[Bandeau du loup arctique](./Bandeau du Loup Arctique.md)* || 32000
+| 10-19 || *[[Bandeau du loup arctique]]* || 32000
 |-
-| 20-32 || *[Bandeau de belle allure](./Bandeau de belle allure.md) +6 * || 36000
+| 20-32 || *[[Bandeau de belle allure]] +6 * || 36000
 |-
-| 33-45 || *[Bandeau d’inspiration](./Bandeau dinspiration.md) +6 * || 36000
+| 33-45 || *[[Bandeau dinspiration|Bandeau d’inspiration]] +6 * || 36000
 |-
-| 46-58 || *[Bandeau d’intelligence](./Bandeau dintelligence.md) +6 * || 36000
+| 46-58 || *[[Bandeau dintelligence|Bandeau d’intelligence]] +6 * || 36000
 |-
-| 59-66 || *[Bandeau de métamorphe](./Bandeau de Métamorphe.md) +6 * || 39000
+| 59-66 || *[[Bandeau de métamorphe]] +6 * || 39000
 |-
-| 67-81 || *[Bandeau de prouesse mentale](./Bandeau de prouesse mentale.md) +4 * || 40000
+| 67-81 || *[[Bandeau de prouesse mentale]] +4 * || 40000
 |-
-| 82-90 || *[Bandeau de séduction](./Bandeau de Séduction.md)* || 40000
+| 82-90 || *[[Bandeau de séduction]]* || 40000
 |-
-| 91-100 || *[Bandeau d’agilité aérienne](./Bandeau dAgilité Aérienne.md) +4 * || 42000
+| 91-100 || *[[Bandeau dagilité aérienne|Bandeau d’agilité aérienne]] +4 * || 42000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-20 || *[Bandeau de résistance mentale](./Bandeau de Résistance Mentale.md)* || 64000
+| 01-20 || *[[Bandeau de résistance mentale]]* || 64000
 |-
-| 21-50 || *[Bandeau de supériorité mentale](./Bandeau de supériorité mentale.md) +4 * || 64000
+| 21-50 || *[[Bandeau de supériorité mentale]] +4 * || 64000
 |-
-| 51-65 || *[Bandeau d’agilité aérienne](./Bandeau dAgilité Aérienne.md) +6 * || 81000
+| 51-65 || *[[Bandeau dagilité aérienne|Bandeau d’agilité aérienne]] +6 * || 81000
 |-
-| 66-85 || *[Bandeau de prouesse mentale](./Bandeau de prouesse mentale.md) +6 * || 90000
+| 66-85 || *[[Bandeau de prouesse mentale]] +6 * || 90000
 |-
-| 86-100 || *[Bandeau de supériorité mentale](./Bandeau de supériorité mentale.md) +6 * || 144000
+| 86-100 || *[[Bandeau de supériorité mentale]] +6 * || 144000
 |}
 </td></tr></table>
 
@@ -935,155 +935,155 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible inférieur || Prix(po)
 |- CLASS="premier"
-| 01-10 || *[Main du mage](./Main du mage.md)* || 900
+| 01-10 || *[[Main du mage]]* || 900
 |-
-| 11-18 || *[Effigie de guérison](./Effigie de Guérison.md)* || 1500
+| 11-18 || *[[Effigie de guérison]]* || 1500
 |-
-| 19-25 || *[Amulette pare-balle](./Amulette Pare-balle.md) +1 * || 1500
+| 19-25 || *[[Amulette pare-balle]] +1 * || 1500
 |-
-| 26-37 || *[Broche de défense](./Broche de défense.md)* || 1500
+| 26-37 || *[[Broche de défense]]* || 1500
 |-
-| 38-49 || *[Collier à boules de feu](./Collier à boules de feu.md) (1er modèle)* || 1650
+| 38-49 || *[[Collier à boules de feu]] (1er modèle)* || 1650
 |-
-| 50-63 || *[Amulette d’armure naturelle](./Amulette darmure naturelle.md) +1 * || 2000
+| 50-63 || *[[Amulette darmure naturelle|Amulette d’armure naturelle]] +1 * || 2000
 |-
-| 64-72 || *[Broche antigolems](./Broche antigolems.md)* || 2500
+| 64-72 || *[[Broche antigolems]]* || 2500
 |-
-| 73-82 || *[Collier à boules de feu](./Collier à boules de feu.md) (2e modèle)* || 2700
+| 73-82 || *[[Collier à boules de feu]] (2e modèle)* || 2700
 |-
-| 83-89 || *[Broche tueuse de nuées](./Broche Tueuse de Nuées.md)* || 3000
+| 83-89 || *[[Broche tueuse de nuées]]* || 3000
 |-
-| 90-95 || *[Médaillon de protection spirituelle](./Médaillon de Protection Spirituelle.md)* || 3500
+| 90-95 || *[[Médaillon de protection spirituelle]]* || 3500
 |-
-| 96-100 || *[Collerette d’imitateur](./Collerette dImitateur.md)* || 3500
+| 96-100 || *[[Collerette dimitateur|Collerette d’imitateur]]* || 3500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 01-08 || *[Amulette de conflit élémentaire](./Amulette de Conflit Élémentaire.md)* || 4000
+| 01-08 || *[[Amulette de conflit élémentaire]]* || 4000
 |-
-| 09-15 || *[Amulette des poings invincibles](./Amulette des poings invincibles.md) +1* || 4000
+| 09-15 || *[[Amulette des poings invincibles]] +1* || 4000
 |-
-| 16-26 || *[Collier à boules de feu](./Collier à boules de feu.md) (3e modèle)* || 4350
+| 16-26 || *[[Collier à boules de feu]] (3e modèle)* || 4350
 |-
-| 27-36 || *[Amulette des poings vertueux](./Amulette des Poings Vertueux.md)* || 5000
+| 27-36 || *[[Amulette des poings vertueux]]* || 5000
 |-
-| 37-47 || *[Collier à boules de feu](./Collier à boules de feu.md) (4e modèle)* || 5400
+| 37-47 || *[[Collier à boules de feu]] (4e modèle)* || 5400
 |-
-| 48-55 || *[Leurre à tempêtes](./Leurre À Tempêtes.md)* || 5400
+| 48-55 || *[[Leurre à tempêtes]]* || 5400
 |-
-| 56-66 || *[Collier à boules de feu](./Collier à boules de feu.md) (5e modèle)* || 5850
+| 56-66 || *[[Collier à boules de feu]] (5e modèle)* || 5850
 |-
-| 67-73 || *[Amulette pare-balle](./Amulette Pare-balle.md) +2 * || 6000
+| 67-73 || *[[Amulette pare-balle]] +2 * || 6000
 |-
-| 74-81 || *[Collier de l’enfant-fée](./Collier de lEnfant-fée.md)* || 6000
+| 74-81 || *[[Collier de lenfant-fée|Collier de l’enfant-fée]]* || 6000
 |-
-| 82-89 || *[Chaîne de détention](./Chaîne de Détention.md)* || 7200
+| 82-89 || *[[Chaîne de détention]]* || 7200
 |-
-| 90-100 || *[Charme de bonne santé](./Charme de bonne santé.md)* || 7500
+| 90-100 || *[[Charme de bonne santé]]* || 7500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-08 || *[Amulette d’armure naturelle](./Amulette darmure naturelle.md) +2 * || 8000
+| 01-08 || *[[Amulette darmure naturelle|Amulette d’armure naturelle]] +2 * || 8000
 |-
-| 09-12 || *[Amulette de protection contre la pétrification](./Amulette de Protection Contre la Pétrification.md)* || 8000
+| 09-12 || *[[Amulette de protection contre la pétrification]]* || 8000
 |-
-| 13-15 || *[Amulette anti-sommeil](./Amulette Anti-sommeil.md)* || 8000
+| 13-15 || *[[Amulette anti-sommeil]]* || 8000
 |-
-| 16-18 || *[Pendentif garde-tombes](./Pendentif Garde-tombes.md)* || 8000
+| 16-18 || *[[Pendentif garde-tombes]]* || 8000
 |-
-| 19-23 || *[Main miraculeuse](./Main miraculeuse.md)* || 8000
+| 19-23 || *[[Main miraculeuse]]* || 8000
 |-
-| 24-26 || *[Torque de la furie du lion](./torque de la furie du lion.md)* || 8000
+| 24-26 || *[[Torque de la furie du lion]]* || 8000
 |-
-| 27-33 || *[Collier à boules de feu](./Collier à boules de feu.md) (6e modèle)* || 8100
+| 27-33 || *[[Collier à boules de feu]] (6e modèle)* || 8100
 |-
-| 34-40 || *[Collier à boules de feu](./Collier à boules de feu.md) (7e modèle)* || 8700
+| 34-40 || *[[Collier à boules de feu]] (7e modèle)* || 8700
 |-
-| 41-43 || *[Amulette de force soudaine](./Amulette de Force Soudaine.md)* || 9000
+| 41-43 || *[[Amulette de force soudaine]]* || 9000
 |-
-| 44-47 || *[Collier d’adaptation](./Collier dadaptation.md)* || 9000
+| 44-47 || *[[Collier dadaptation|Collier d’adaptation]]* || 9000
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 48-51 || *[Amulette d’astuce magique](./amulette dastuce magique.md)* || 10000
+| 48-51 || *[[Amulette dastuce magique|Amulette d’astuce magique]]* || 10000
 |-
-| 52-54 || *[Collier du fidèle compagnon](./Collier du Fidèle Compagnon.md)* || 10000
+| 52-54 || *[[Collier du fidèle compagnon]]* || 10000
 |-
-| 55-58 || *[Amulette des poings glacés](./Amulette des Poings Glacés.md)* || 10000
+| 55-58 || *[[Amulette des poings glacés]]* || 10000
 |-
-| 59-63 || *[Cristal des mains guérisseuses](./cristal des mains guérisseuses.md)* || 12000
+| 59-63 || *[[Cristal des mains guérisseuses]]* || 12000
 |-
-| 64-66 || *[Gorgerin de protection](./Gorgerin de Protection.md)* || 12000
+| 64-66 || *[[Gorgerin de protection]]* || 12000
 |-
-| 67-73 || *[Médaillon des pensées](./Médaillon des pensées.md)* || 12000
+| 67-73 || *[[Médaillon des pensées]]* || 12000
 |-
-| 74-77 || *[Charme de protection contre les malédictions](./Charme de Protection Contre les Malédictions.md)* || 12000
+| 74-77 || *[[Charme de protection contre les malédictions]]* || 12000
 |-
-| 78-81 || *[Amulette des poings ardents](./Amulette des Poings Ardents.md)* || 13000
+| 78-81 || *[[Amulette des poings ardents]]* || 13000
 |-
-| 82-85 || *[Amulette pare-balle](./Amulette Pare-balle.md) +3 * || 13500
+| 82-85 || *[[Amulette pare-balle]] +3 * || 13500
 |-
-| 86-92 || *[Charme de coagulation](./Charme de coagulation.md)* || 15000
+| 86-92 || *[[Charme de coagulation]]* || 15000
 |-
-| 93-95 || *[Collier de sérénité](./collier de sérénité.md)* || 16000
+| 93-95 || *[[Collier de sérénité]]* || 16000
 |-
-| 96-98 || *[Broche d’étincelles ambrées](./Broche dÉtincelles Ambrées.md)* || 16800
+| 96-98 || *[[Broche détincelles ambrées|Broche d’étincelles ambrées]]* || 16800
 |-
-| 99-100 || *[Symbole de protection sanguine](./Symbole de Protection Sanguine.md)* || 17500
+| 99-100 || *[[Symbole de protection sanguine]]* || 17500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-15 || *[Amulette d’armure naturelle](./Amulette darmure naturelle.md) +3 * || 18000
+| 01-15 || *[[Amulette darmure naturelle|Amulette d’armure naturelle]] +3 * || 18000
 |-
-| 16-24 || *[Ampoule de sang factice](./Ampoule de Sang Factice.md)* || 20000
+| 16-24 || *[[Ampoule de sang factice]]* || 20000
 |-
-| 25-35 || *[Amulette des arts magiques](./amulette des arts magiques.md)* || 20000
+| 25-35 || *[[Amulette des arts magiques]]* || 20000
 |-
-| 36-50 || *[Amulette des poings invincibles](./Amulette des poings invincibles.md) +2 * || 20000
+| 36-50 || *[[Amulette des poings invincibles]] +2 * || 20000
 |-
-| 51-62 || *[Amulette d’opposition aux dragons](./Amulette dOpposition Aux Dragons.md)* || 20000
+| 51-62 || *[[Amulette dopposition aux dragons|Amulette d’opposition aux dragons]]* || 20000
 |-
-| 63-67 || *[Amulette de maîtrise magique](./Amulette de Maîtrise Magique.md)* || 22000
+| 63-67 || *[[Amulette de maîtrise magique]]* || 22000
 |-
-| 68-72 || *[Amulette pare-balle](./Amulette Pare-balle.md) +4 * || 24000
+| 68-72 || *[[Amulette pare-balle]] +4 * || 24000
 |-
-| 73-85 || *[Main de pierre](./Main de Pierre.md)* || 27000
+| 73-85 || *[[Main de pierre]]* || 27000
 |-
-| 86-100 || *[Charme antipoison](./Charme antipoison.md)* || 27000
+| 86-100 || *[[Charme antipoison]]* || 27000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-18 || *[Amulette d’armure naturelle](./Amulette darmure naturelle.md) +4 * || 32000
+| 01-18 || *[[Amulette darmure naturelle|Amulette d’armure naturelle]] +4 * || 32000
 |-
-| 19-35 || *[Amulette d’antidétection](./Amulette dantidétection.md)* || 35000
+| 19-35 || *[[Amulette dantidétection|Amulette d’antidétection]]* || 35000
 |-
-| 36-49 || *[Amulette pare-balle](./Amulette Pare-balle.md) +5 * || 37500
+| 36-49 || *[[Amulette pare-balle]] +5 * || 37500
 |-
-| 50-67 || *[Scarabée de protection](./Scarabée de protection.md)* || 38000
+| 50-67 || *[[Scarabée de protection]]* || 38000
 |-
-| 68-82 || *[Collier d’étoiles enchevêtrées](./Collier dÉtoiles Enchevêtrées.md)* || 42000
+| 68-82 || *[[Collier détoiles enchevêtrées|Collier d’étoiles enchevêtrées]]* || 42000
 |-
-| 83-100 || *[Amulette des poings invincibles](./Amulette des poings invincibles.md) +3 * || 45000
+| 83-100 || *[[Amulette des poings invincibles]] +3 * || 45000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-35 || *[Amulette d’armure naturelle](./Amulette darmure naturelle.md) +5 * || 50000
+| 01-35 || *[[Amulette darmure naturelle|Amulette d’armure naturelle]] +5 * || 50000
 |-
-| 36-60 || *[Amulette des poings invincibles](./Amulette des poings invincibles.md) +4 * || 80000
+| 36-60 || *[[Amulette des poings invincibles]] +4 * || 80000
 |-
-| 61-85 || *[Amulette des plans](./Amulette des plans.md)* || 120000
+| 61-85 || *[[Amulette des plans]]* || 120000
 |-
-| 86-100 || *[Amulette des poings invincibles](./Amulette des poings invincibles.md) +5 * || 125000
+| 86-100 || *[[Amulette des poings invincibles]] +5 * || 125000
 |}
 </td></tr></table>
 
@@ -1095,137 +1095,137 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible inférieur || Prix(po)
 |- CLASS="premier"
-| 01-06 || *[Cape enveloppante](./cape enveloppante.md)* || 200
+| 01-06 || *[[Cape enveloppante]]* || 200
 |-
-| 07-10 || *[Cape de déguisement humain](./Cape de Déguisement Humain.md)* || 900
+| 07-10 || *[[Cape de déguisement humain]]* || 900
 |-
-| 11-30 || *[Cape de résistance](./Cape de résistance.md) +1 * || 1000
+| 11-30 || *[[Cape de résistance]] +1 * || 1000
 |-
-| 31-36 || *[Cordes de mulet](./cordes de mulet.md)* || 1000
+| 31-36 || *[[Cordes de mulet]]* || 1000
 |-
-| 37-38 || *[Châle de transfert vital](./Châle de Transfert Vital.md)* || 1000
+| 37-38 || *[[Châle de transfert vital]]* || 1000
 |-
-| 39-44 || *[Cape défensive](./Cape Défensive.md)* || 1000
+| 39-44 || *[[Cape défensive]]* || 1000
 |-
-| 45-50 || *[Cape de transformiste](./Cape de Transformiste.md)* || 1500
+| 45-50 || *[[Cape de transformiste]]* || 1500
 |-
-| 51-56 || *[Cape du lâche accroupi](./cape du lâche accroupi.md)* || 1800
+| 51-56 || *[[Cape du lâche accroupi]]* || 1800
 |-
-| 57-74 || *[Cape elfique](./Cape elfique.md)* || 2500
+| 57-74 || *[[Cape elfique]]* || 2500
 |-
-| 75-80 || *[Cape du magicien solitaire](./Cape du Magicien Solitaire.md)* || 2500
+| 75-80 || *[[Cape du magicien solitaire]]* || 2500
 |-
-| 81-85 || *[Cape de disparition enflammée](./Cape de Disparition Enflammée.md)* || 2600
+| 81-85 || *[[Cape de disparition enflammée]]* || 2600
 |-
-| 86-94 || *[Cape de crocs](./Cape de crocs.md)* || 2800
+| 86-94 || *[[Cape de crocs]]* || 2800
 |-
-| 95-97 || *[Spallières du serpent](./Spallières du Serpent.md)* || 3000
+| 95-97 || *[[Spallières du serpent]]* || 3000
 |-
-| 98-100 || *[Cape des brumes montagneuses](./Cape des Brumes Montagneuses.md)* || 3500
+| 98-100 || *[[Cape des brumes montagneuses]]* || 3500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 01-26 || *[Cape de résistance](./Cape de résistance.md) +2 * || 4000
+| 01-26 || *[[Cape de résistance]] +2 * || 4000
 |-
-| 27-38 || *[Cape du rat sanguinaire](./Cape du Rat Sanguinaire.md)* || 6000
+| 27-38 || *[[Cape du rat sanguinaire]]* || 6000
 |-
-| 39 || *[Châle d’écume de mer](./Châle dÉcume de Mer.md)* || 6000
+| 39 || *[[Châle décume de mer|Châle d’écume de mer]]* || 6000
 |-
-| 40-52 || *[Cape du grand chêne](./Cape du Grand Chêne.md)* || 6000
+| 40-52 || *[[Cape du grand chêne]]* || 6000
 |-
-| 53-74 || *[Cape de l’aigle](./Cape de lAigle.md)* || 7000
+| 53-74 || *[[Cape de laigle|Cape de l’aigle]]* || 7000
 |-
-| 75-94 || *[Cape de la raie manta](./Cape de la raie manta.md)* || 7200
+| 75-94 || *[[Cape de la raie manta]]* || 7200
 |-
-| 95-100 || *[Cape du chasseur](./Cape du Chasseur.md)* || 7500
+| 95-100 || *[[Cape du chasseur]]* || 7500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-20 || *[Cape de résistance](./Cape de résistance.md) +3 * || 9000
+| 01-20 || *[[Cape de résistance]] +3 * || 9000
 |-
-| 21-22 || *[Cape de Marcheur du crépuscule](./Cape de Marcheur du Crépuscule.md)* || 10000
+| 21-22 || *[[Cape de Marcheur du crépuscule]]* || 10000
 |-
-| 23-25 || *[Cape cocon](./Cape Cocon.md)* || 10000
+| 23-25 || *[[Cape cocon]]* || 10000
 |-
-| 26-27 || *[Spallières du taureau](./Spallières du Taureau.md)* || 10000
+| 26-27 || *[[Spallières du taureau]]* || 10000
 |-
-| 28-32 || *[Cape de pierre](./Cape de Pierre.md)* || 10000
+| 28-32 || *[[Cape de pierre]]* || 10000
 |-
-| 33-40 || *[Cape de prestidigitateur](./Cape de prestidigitateur.md)* || 10800
+| 33-40 || *[[Cape de prestidigitateur]]* || 10800
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 41-45 || *[Spallières du lion vigilant](./Spallières du Lion Vigilant.md)* || 10800
+| 41-45 || *[[Spallières du lion vigilant]]* || 10800
 |-
-| 46-52 || *[Cape du lion](./Cape du Lion.md)* || 12000
+| 46-52 || *[[Cape du lion]]* || 12000
 |-
-| 53-54 || *[Houppelande de spores](./Houppelande de Spores.md)* || 13400
+| 53-54 || *[[Houppelande de spores]]* || 13400
 |-
-| 55-59 || *[Cape d’évasion radieuse](./Cape dÉvasion Radieuse.md)* || 14000
+| 55-59 || *[[Cape dévasion radieuse|Cape d’évasion radieuse]]* || 14000
 |-
-| 60-69 || *[Cape de l’araignée](./Cape de laraignée.md)* || 14000
+| 60-69 || *[[Cape de laraignée|Cape de l’araignée]]* || 14000
 |-
-| 70-72 || *[Poncho de franc-tireur](./Poncho de Franc-tireur.md)* || 14000
+| 70-72 || *[[Poncho de franc-tireur]]* || 14000
 |-
-| 73-74 || *[Cape tentaculaire](./Cape Tentaculaire.md)* || 14000
+| 73-74 || *[[Cape tentaculaire]]* || 14000
 |-
-| 75-76 || *[Spallières à pointes démoniaques](./Spallières À Pointes Démoniaques.md)* || 14350
+| 75-76 || *[[Spallières à pointes démoniaques]]* || 14350
 |-
-| 77-78 || *[Cape confortable](./Cape Confortable.md)* || 15600
+| 77-78 || *[[Cape confortable]]* || 15600
 |-
-| 79-88 || *[Cape de résistance](./Cape de résistance.md) +4 * || 16000
+| 79-88 || *[[Cape de résistance]] +4 * || 16000
 |-
-| 89-91 || *[Châle de mégère](./Châle de Mégère.md)* || 16000
+| 89-91 || *[[Châle de mégère]]* || 16000
 |-
-| 92-100 || *[Pèlerine de bateleur](./Pèlerine de Bateleur.md)* || 17200
+| 92-100 || *[[Pèlerine de bateleur]]* || 17200
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-12 || *[Étole de justice](./Étole de Justice.md)* || 18000
+| 01-12 || *[[Étole de justice]]* || 18000
 |-
-| 13-24 || *[Cape de la méduse](./Cape de la Méduse.md)* || 19200
+| 13-24 || *[[Cape de la méduse]]* || 19200
 |-
-| 25-32 || *[Cape de diplomate](./Cape de Diplomate.md)* || 20000
+| 25-32 || *[[Cape de diplomate]]* || 20000
 |-
-| 33-44 || *[Cape tranchante](./Cape Tranchante.md)* || 20000
+| 33-44 || *[[Cape tranchante]]* || 20000
 |-
-| 45-56 || *[Cape de pierre](./Cape de Pierre.md) supérieure* || 20000
+| 45-56 || *[[Cape de pierre]] supérieure* || 20000
 |-
-| 57-68 || *[Cape de déplacement](./Cape de déplacement.md) mineure* || 24000
+| 57-68 || *[[Cape de déplacement]] mineure* || 24000
 |-
-| 69-88 || *[Cape de résistance](./Cape de résistance.md) +5 * || 25000
+| 69-88 || *[[Cape de résistance]] +5 * || 25000
 |-
-| 89-100 || *[Cape de la chauve-souris](./Cape de la chauve-souris.md)* || 26000
+| 89-100 || *[[Cape de la chauve-souris]]* || 26000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-40 || *[Cape de bandit de grand chemin](./Cape de Bandit de Grand Chemin.md)* || 32500
+| 01-40 || *[[Cape de bandit de grand chemin]]* || 32500
 |-
-| 41-60 || *[Spallières de juggernaut](./Spallières de Juggernaut.md)* || 40000
+| 41-60 || *[[Spallières de juggernaut]]* || 40000
 |-
-| 61-100 || *[Cape de charlatan](./Cape de Charlatan.md)* || 45000
+| 61-100 || *[[Cape de charlatan]]* || 45000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-15 || *[Cape de déplacement](./Cape de déplacement.md) majeure* || 50000
+| 01-15 || *[[Cape de déplacement]] majeure* || 50000
 |-
-| 16-35 || *[Ailes de vol](./Ailes de vol.md)* || 54000
+| 16-35 || *[[Ailes de vol]]* || 54000
 |-
-| 36-55 || *[Cape éthérée](./Cape éthérée.md)* || 55000
+| 36-55 || *[[Cape éthérée]]* || 55000
 |-
-| 56-80 || *[Ailes de gargouille](./Ailes de Gargouille.md)* || 72000
+| 56-80 || *[[Ailes de gargouille]]* || 72000
 |-
-| 81-100 || *[Cape de la vouivre](./Cape de la Vouivre.md)* || 78600
+| 81-100 || *[[Cape de la vouivre]]* || 78600
 |}
 </td></tr></table>
 
@@ -1237,115 +1237,115 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible inférieur || Prix(po)
 |- CLASS="premier"
-| 01-10 || *[Manches à vêtements](./Manches À Vêtements.md)* || 200
+| 01-10 || *[[Manches à vêtements]]* || 200
 |-
-| 11-20 || *[Brassards de lutteur](./Brassards de Lutteur.md)* || 500
+| 11-20 || *[[Brassards de lutteur]]* || 500
 |-
-| 21-48 || *[Bracelets d’armure](./Bracelets darmure.md) +1 * || 1000
+| 21-48 || *[[Bracelets darmure|Bracelets d’armure]] +1 * || 1000
 |-
-| 49-63 || *[Brassards de cambrioleur](./Brassards de Cambrioleur.md)* || 1050
+| 49-63 || *[[Brassards de cambrioleur]]* || 1050
 |-
-| 64-91 || *[Bracelets d’assiduité](./Bracelets dAssiduité.md)* || 2000
+| 64-91 || *[[Bracelets dassiduité|Bracelets d’assiduité]]* || 2000
 |-
-| 92-96 || *[Menottes de coopération](./menottes de coopération.md)* || 2000
+| 92-96 || *[[Menottes de coopération]]* || 2000
 |-
-| 97-100 || *[Menottes d’obéissance](./Menottes dObéissance.md)* || 3280
+| 97-100 || *[[Menottes dobéissance|Menottes d’obéissance]]* || 3280
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 01-27 || *[Bracelets d’armure](./Bracelets darmure.md) +2 * || 4000
+| 01-27 || *[[Bracelets darmure|Bracelets d’armure]] +2 * || 4000
 |-
-| 28 || *[Brassards du faucon chasseur](./Brassards du Faucon Chasseur.md)* || 4000
+| 28 || *[[Brassards du faucon chasseur]]* || 4000
 |-
-| 29-38 || *[Canons fortifiés d’inquisiteur](./Canons Fortifiés dInquisiteur.md)* || 4000
+| 29-38 || *[[Canons fortifiés dinquisiteur|Canons fortifiés d’inquisiteur]]* || 4000
 |-
-| 39-65 || *[Bracelets d’archer](./Bracelets darcher.md)* || 5000
+| 39-65 || *[[Bracelets darcher|Bracelets d’archer]]* || 5000
 |-
-| 66-68 || *[Brassards d’incantation défensive](./Brassards dIncantation Défensive.md)* || 5000
+| 66-68 || *[[Brassards dincantation défensive|Brassards d’incantation défensive]]* || 5000
 |-
-| 69-71 || *[Bracelets Broyeurs](./Bracelets Broyeurs.md)* || 6000
+| 69-71 || *[[Bracelets Broyeurs]]* || 6000
 |-
-| 72-81 || *[Brassards de défense](./Brassards de Défense.md)* || 6000
+| 72-81 || *[[Brassards de défense]]* || 6000
 |-
-| 82-98 || *[Bracelet de vigne](./Bracelet de Vigne.md)* || 6000
+| 82-98 || *[[Bracelet de vigne]]* || 6000
 |-
-| 99 || *[Brassards d’allonge](./Brassards dAllonge.md)* || 7200
+| 99 || *[[Brassards dallonge|Brassards d’allonge]]* || 7200
 |-
-| 100 || *[Brassards d’amuseur](./Brassards dAmuseur.md)* || 7900
+| 100 || *[[Brassards damuseur|Brassards d’amuseur]]* || 7900
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-04 || *[Bracelet de charmes](./Bracelet de Charmes.md)* || 8000
+| 01-04 || *[[Bracelet de charmes]]* || 8000
 |-
-| 05-08 || *[Canons de duelliste](./Canons de Duelliste.md)* || 8000
+| 05-08 || *[[Canons de duelliste]]* || 8000
 |-
-| 09-13 || *[Canons d’avant-bras miséricordieux](./Canons dAvant-bras Miséricordieux.md)* || 8000
+| 09-13 || *[[Canons davant-bras miséricordieux|Canons d’avant-bras miséricordieux]]* || 8000
 |-
-| 14-18 || *[Brassards de tacticien](./Brassards de Tacticien.md)* || 8000
+| 14-18 || *[[Brassards de tacticien]]* || 8000
 |-
-| 19-43 || *[Bracelets d’armure](./Bracelets darmure.md) +3 * || 9000
+| 19-43 || *[[Bracelets darmure|Bracelets d’armure]] +3 * || 9000
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 44-53 || *[Fléau des séducteurs](./Fléau des Séducteurs.md)* || 9900
+| 44-53 || *[[Fléau des séducteurs]]* || 9900
 |-
-| 54-58 || *[Brassards du chevalier vengeur](./Brassards du Chevalier Vengeur.md)* || 11500
+| 54-58 || *[[Brassards du chevalier vengeur]]* || 11500
 |-
-| 59-63 || *[Bracelets de maître-archer](./Bracelets de Maître-archer.md)* || 13900
+| 59-63 || *[[Bracelets de maître-archer]]* || 13900
 |-
-| 64-73 || *[Brassards des génies](./Brassards des Génies.md) (éfrit)* || 14400
+| 64-73 || *[[Brassards des génies]] (éfrit)* || 14400
 |-
-| 74-78 || *[Bracelet de négociation](./Bracelet de Négociation.md)* || 14500
+| 74-78 || *[[Bracelet de négociation]]* || 14500
 |-
-| 79-82 || *[Bracelets de grâce](./bracelets de grâce.md)* || 15000
+| 79-82 || *[[Bracelets de grâce]]* || 15000
 |-
-| 83-86 || *[Brassards du chevalier miséricordieux](./Brassards du Chevalier Miséricordieux.md)* || 15600
+| 83-86 || *[[Brassards du chevalier miséricordieux]]* || 15600
 |-
-| 87-90 || *[Bracelet de chances renouvelées](./Bracelet de Chances Renouvelées.md)* || 15750
+| 87-90 || *[[Bracelet de chances renouvelées]]* || 15750
 |-
-| 91-99 || *[Bracelets d’armure](./Bracelets darmure.md) +4 * || 16000
+| 91-99 || *[[Bracelets darmure|Bracelets d’armure]] +4 * || 16000
 |-
-| 100 || *[Menottes de domination](./Menottes de Domination.md)* || 16200
+| 100 || *[[Menottes de domination]]* || 16200
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-10 || *[Brassards des génies](./Brassards des Génies.md) (djinn)* || 18900
+| 01-10 || *[[Brassards des génies]] (djinn)* || 18900
 |-
-| 11-20 || *[Brassards des génies](./Brassards des Génies.md) (marid)* || 18900
+| 11-20 || *[[Brassards des génies]] (marid)* || 18900
 |-
-| 21-30 || *[Brassards des génies](./Brassards des Génies.md) (shaitan)* || 18900
+| 21-30 || *[[Brassards des génies]] (shaitan)* || 18900
 |-
-| 31-50 || *[Bracelet d’assistance](./Bracelet dassistance.md)* || 19000
+| 31-50 || *[[Bracelet dassistance|Bracelet d’assistance]]* || 19000
 |-
-| 51-70 || *[Bracelets d’archer](./Bracelets darcher.md) hors pair* || 25000
+| 51-70 || *[[Bracelets darcher|Bracelets d’archer]] hors pair* || 25000
 |-
-| 71-90 || *[Bracelets d’armure](./Bracelets darmure.md) +5 * || 25000
+| 71-90 || *[[Bracelets darmure|Bracelets d’armure]] +5 * || 25000
 |-
-| 91-100 || *[Brassards de vengeance](./Brassards de Vengeance.md)* || 25000
+| 91-100 || *[[Brassards de vengeance]]* || 25000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-30 || *[Chaînes dimensionnelles](./Chaînes dimensionnelles.md)* || 28000
+| 01-30 || *[[Chaînes dimensionnelles]]* || 28000
 |-
-| 31-45 || *[Bracelets des Hauts Elfes](./Bracelets des Hauts Elfes.md)* || 30000
+| 31-45 || *[[Bracelets des Hauts Elfes]]* || 30000
 |-
-| 46-100 || *[Bracelets d’armure](./Bracelets darmure.md) +6 * || 36000
+| 46-100 || *[[Bracelets darmure|Bracelets d’armure]] +6 * || 36000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-60 || *[Bracelets d’armure](./Bracelets darmure.md) +7 * || 49000
+| 01-60 || *[[Bracelets darmure|Bracelets d’armure]] +7 * || 49000
 |-
-| 61-100 || *[Bracelets d’armure](./Bracelets darmure.md) +8 * || 64000
+| 61-100 || *[[Bracelets darmure|Bracelets d’armure]] +8 * || 64000
 |}
 </td></tr></table>
 
@@ -1357,97 +1357,97 @@ Categories:
 |- CLASS="titre"
 | D100 || Objet faible insignifiant || Prix(po)
 |- CLASS="premier"
-| 1 || *[Plume magique](./Plume magique.md) (ancre)* || 50
+| 1 || *[[Plume magique]] (ancre)* || 50
 |-
-| 2 || *[Solvant universel](./Solvant universel.md)* || 50
+| 2 || *[[Solvant universel]]* || 50
 |-
-| 03-04 || *[Torche ioun](./torche ioun.md)* || 75
+| 03-04 || *[[Torche ioun]]* || 75
 |-
-| 5 || *[Piton tenace](./Piton Tenace.md)* || 100
+| 5 || *[[Piton tenace]]* || 100
 |-
-| 6 || *[Peinture de guerre du terrible visage](./Peinture de guerre du terrible visage.md)* || 100
+| 6 || *[[Peinture de guerre du terrible visage]]* || 100
 |-
-| 7 || *[Élixir d'amour](./Élixir dAmour.md)* || 150
+| 7 || *[[Élixir damour|Élixir d'amour]]* || 150
 |-
-| 8 || *[Onguent d’intemporalité](./Onguent dintemporalité.md)* || 150
+| 8 || *[[Onguent dintemporalité|Onguent d’intemporalité]]* || 150
 |-
-| 9 || *[Plume magique](./Plume magique.md) (éventail)* || 200
+| 9 || *[[Plume magique]] (éventail)* || 200
 |-
-| 10 || *[Alambic à formules](./Alambic À Formules.md)* || 200
+| 10 || *[[Alambic à formules]]* || 200
 |-
-| 11 || *[Entonnoir d’hybridation](./Entonnoir dHybridation.md)* || 200
+| 11 || *[[Entonnoir dhybridation|Entonnoir d’hybridation]]* || 200
 |-
-| 12 || *[Savon de l’âme](./savon de lâme.md)* || 200
+| 12 || *[[Savon de lâme|Savon de l’âme]]* || 200
 |-
-| 13 || *[Poudre de dissimulation des traces](./Poudre de dissimulation des traces.md)* || 250
+| 13 || *[[Poudre de dissimulation des traces]]* || 250
 |-
-| 14-16 || *[Élixir de discrétion instinctive](./Élixir de discrétion instinctive.md)* || 250
+| 14-16 || *[[Élixir de discrétion instinctive]]* || 250
 |-
-| 17-19 || *[Élixir de nage](./Élixir de nage.md)* || 250
+| 17-19 || *[[Élixir de nage]]* || 250
 |-
-| 20-22 || *[Élixir d’acrobatie](./Élixir dacrobatie.md)* || 250
+| 20-22 || *[[Élixir dacrobatie|Élixir d’acrobatie]]* || 250
 |-
-| 23-25 || *[Élixir d’acuité visuelle](./Élixir dacuité visuelle.md)* || 250
+| 23-25 || *[[Élixir dacuité visuelle|Élixir d’acuité visuelle]]* || 250
 |-
-| 26-27 || *[Gouttes de vision nocturne](./Gouttes de Vision Nocturne.md)* || 250
+| 26-27 || *[[Gouttes de vision nocturne]]* || 250
 |-
-| 28 || *[Huile de silence](./Huile de Silence.md)* || 250
+| 28 || *[[Huile de silence]]* || 250
 |-
-| 29-31 || *[Lustrargent](./Lustrargent.md)* || 250
+| 29-31 || *[[Lustrargent]]* || 250
 |-
-| 32 || *[Outil multifonction de baroudeur](./Outil Multifonction de Baroudeur.md)* || 250
+| 32 || *[[Outil multifonction de baroudeur]]* || 250
 |-
-| 33-34 || *[Bouteille à message](./bouteille à message.md)* || 300
+| 33-34 || *[[Bouteille à message]]* || 300
 |-
-| 35-36 || *[Plume magique](./Plume magique.md) (oiseau)* || 300
+| 35-36 || *[[Plume magique]] (oiseau)* || 300
 |-
-| 37 || *[Vermine en papier plié](./Vermine En Papier Plié.md)* || 300
+| 37 || *[[Vermine en papier plié]]* || 300
 |-
-| 38 || *[Pomme d’or alléchante](./Pomme dOr Alléchante.md)* || 400
+| 38 || *[[Pomme dor alléchante|Pomme d’or alléchante]]* || 400
 |-
-| 39 || *[Plume magique](./Plume magique.md) (arbre)* || 400
+| 39 || *[[Plume magique]] (arbre)* || 400
 |-
-| 40 || *[Clef de solide fermeture](./clef de solide fermeture.md)* || 400
+| 40 || *[[Clef de solide fermeture]]* || 400
 |-
-| 41-42 || *[Plume magique](./Plume magique.md) (bateau cygne)* || 450
+| 41-42 || *[[Plume magique]] (bateau cygne)* || 450
 |-
-| 43 || *[Portrait animé](./Portrait Animé.md)* || 500
+| 43 || *[[Portrait animé]]* || 500
 |-
-| 44 || *[Maléfice en bouteille](./Maléfice En Bouteille.md)* || 500
+| 44 || *[[Maléfice en bouteille]]* || 500
 |-
-| 45-46 || *[Sérum de vérité](./Sérum de vérité.md)* || 500
+| 45-46 || *[[Sérum de vérité]]* || 500
 |-
-| 47-48 || *[Plume magique](./Plume magique.md) (fouet)* || 500
+| 47-48 || *[[Plume magique]] (fouet)* || 500
 |-
-| 49-51 || *[Fourreau à aiguiser](./Fourreau À Aiguiser.md)* || 500
+| 49-51 || *[[Fourreau à aiguiser]]* || 500
 |-
-| 52-53 || *[Thé divinatoire](./Thé Divinatoire.md)* || 550
+| 52-53 || *[[Thé divinatoire]]* || 550
 |-
-| 54-57 || *[Sel d’abjuration](./Sel dAbjuration.md)* || 600
+| 54-57 || *[[Sel dabjuration|Sel d’abjuration]]* || 600
 |-
-| 58-61 || *[Aimant à projectiles](./Aimant À Projectiles.md)* || 600
+| 58-61 || *[[Aimant à projectiles]]* || 600
 |-
-| 62-63 || *[Poudre obscurcissante](./Poudre Obscurcissante.md)* || 600
+| 62-63 || *[[Poudre obscurcissante]]* || 600
 |-
-| 64-69 || *[Perle de feu de camp](./perle de feu de camp.md)* || 720
+| 64-69 || *[[Perle de feu de camp]]* || 720
 |-
-| 70-72 || *[Torche d’archon](./Torche dArchon.md)* || 750
+| 70-72 || *[[Torche darchon|Torche d’archon]]* || 750
 |-
-| 73-75 || *[Livre de convocation durable](./Livre de convocation durable.md) inférieur* || 750
+| 73-75 || *[[Livre de convocation durable]] inférieur* || 750
 |-
-| 76-79 || *[Corde de fer](./Corde de Fer.md)* || 750
+| 76-79 || *[[Corde de fer]]* || 750
 |-
-| 80-83 || *[Feuille magique](./Feuille Magique.md)* || 750
+| 80-83 || *[[Feuille magique]]* || 750
 |-
-| 84-86 || *[Fourrure de yéti en bouteille](./Fourrure de Yéti En Bouteille.md)* || 800
+| 84-86 || *[[Fourrure de yéti en bouteille]]* || 800
 |-
-| 87-89 || *[Cirage défoliant](./cirage défoliant.md)* || 800
+| 87-89 || *[[Cirage défoliant]]* || 800
 |-
-| 90-92 || *[Poussière d’émulation](./poussière démulation.md)* || 800
+| 90-92 || *[[Poussière démulation|Poussière d’émulation]]* || 800
 |-
-| 93-97 || *[Pierre d’entrailles en acier](./Pierre dEntrailles En Acier.md)* || 800
+| 93-97 || *[[Pierre dentrailles en acier|Pierre d’entrailles en acier]]* || 800
 |-
-| 98-100 || *[Poudre dessiccative](./Poudre dessiccative.md)* || 850
+| 98-100 || *[[Poudre dessiccative]]* || 850
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
@@ -1455,644 +1455,644 @@ Categories:
 |- CLASS="premier"
 | 01-03 || Lancez le dé sur la table des objets faibles insignifiants || —
 |-
-| 4 || *[Poupée anatomique](./Poupée Anatomique.md)* || 1000
+| 4 || *[[Poupée anatomique]]* || 1000
 |-
-| 5 || *[Bille antimétamorphose](./Bille Antimétamorphose.md)* || 1000
+| 5 || *[[Bille antimétamorphose]]* || 1000
 |-
-| 6 || *[Pâte de lien animal](./Pâte de Lien Animal.md)* || 1000
+| 6 || *[[Pâte de lien animal]]* || 1000
 |-
-| 7 || *[Ex-libris de rappel](./Ex-libris de Rappel.md)* || 1000
+| 7 || *[[Ex-libris de rappel]]* || 1000
 |-
-| 08-09 || *[Bille de bore](./Bille de Bore.md) (1er niveau)* || 1000
+| 08-09 || *[[Bille de bore]] (1er niveau)* || 1000
 |-
-| 10 || *[Poche de dissimulation](./Poche de Dissimulation.md)* || 1000
+| 10 || *[[Poche de dissimulation]]* || 1000
 |-
-| 11 || *[Liqueur radiesthésique](./Liqueur Radiesthésique.md)* || 1000
+| 11 || *[[Liqueur radiesthésique]]* || 1000
 |-
-| 12 || *[Encens de transcendance](./Encens de Transcendance.md)* || 1000
+| 12 || *[[Encens de transcendance]]* || 1000
 |-
-| 13-14 || *[Page de connaissances magiques](./Page de Connaissances Magiques.md) (1er niveau)* || 1000
+| 13-14 || *[[Page de connaissances magiques]] (1er niveau)* || 1000
 |-
-| 15-17 || *[Perle de thaumaturge](./Perle de thaumaturge.md) (1er niveau)* || 1000
+| 15-17 || *[[Perle de thaumaturge]] (1er niveau)* || 1000
 |-
-| 18 || *[Flasque de conservation alchimique](./Flasque de Conservation Alchimique.md) (1er niveau)* || 1000
+| 18 || *[[Flasque de conservation alchimique]] (1er niveau)* || 1000
 |-
-| 19-20 || *[Ciboire des domaines altérés](./Ciboire des Domaines Altérés.md)* || 1000
+| 19-20 || *[[Ciboire des domaines altérés]]* || 1000
 |-
-| 21-22 || *[Onguent d’insaisissabilité](./Onguent dinsaisissabilité.md)* || 1000
+| 21-22 || *[[Onguent dinsaisissabilité|Onguent d’insaisissabilité]]* || 1000
 |-
-| 23 || *[Nid grouillant de guêpes](./Nid Grouillant de Guêpes.md)* || 1000
+| 23 || *[[Nid grouillant de guêpes]]* || 1000
 |-
-| 24-26 || *[Élixir de souffle enflammé](./Élixir de souffle enflammé.md)* || 1100
+| 24-26 || *[[Élixir de souffle enflammé]]* || 1100
 |-
-| 27 || *[Sel funéraire](./Sel Funéraire.md)* || 1100
+| 27 || *[[Sel funéraire]]* || 1100
 |-
-| 28-29 || *[Flûte d’Hamelin](./Flûte dHamelin.md)* || 1150
+| 28-29 || *[[Flûte dHamelin|Flûte d’Hamelin]]* || 1150
 |-
-| 30-31 || *[Poudre d’illusion](./Poudre dillusion.md)* || 1200
+| 30-31 || *[[Poudre dillusion|Poudre d’illusion]]* || 1200
 |-
-| 32-33 || *[Crâne gobelin explosif](./Crâne Gobelin Explosif.md)* || 1200
+| 32-33 || *[[Crâne gobelin explosif]]* || 1200
 |-
-| 34-35 || *[Élixir de souffle draconique](./Élixir de Souffle Draconique.md)* || 1400
+| 34-35 || *[[Élixir de souffle draconique]]* || 1400
 |-
-| 36 || *[Marque-page trompeur](./Marque-page Trompeur.md)* || 1500
+| 36 || *[[Marque-page trompeur]]* || 1500
 |-
-| 37 || *[Bouteille à paroles](./Bouteille À Paroles.md)* || 1500
+| 37 || *[[Bouteille à paroles]]* || 1500
 |-
-| 38 || *[Poudre absorbante acide](./Poudre Absorbante Acide.md)* || 1600
+| 38 || *[[Poudre absorbante acide]]* || 1600
 |-
-| 39-40 || *[Poudre d’apparition](./Poudre dapparition.md)* || 1800
+| 39-40 || *[[Poudre dapparition|Poudre d’apparition]]* || 1800
 |-
-| 41-42 || *[Carquois efficace](./Carquois efficace.md)* || 1800
+| 41-42 || *[[Carquois efficace]]* || 1800
 |-
-| 43 || *[Flûte à bruitages](./Flûte à bruitages.md)* || 1800
+| 43 || *[[Flûte à bruitages]]* || 1800
 |-
-| 44 || *[Fourreau de vigueur](./fourreau de vigueur.md)* || 1800
+| 44 || *[[Fourreau de vigueur]]* || 1800
 |-
-| 45 || *[Bâton de marche agile](./Bâton de Marche Agile.md)* || 2000
+| 45 || *[[Bâton de marche agile]]* || 2000
 |-
-| 46 || *[Sang de prouesse physique](./Sang de Prouesse Physique.md)* || 2000
+| 46 || *[[Sang de prouesse physique]]* || 2000
 |-
-| 47 || *[Boîte à tintamarre](./boîte à tintamarre.md)* || 2000
+| 47 || *[[Boîte à tintamarre]]* || 2000
 |-
-| 48 || *[Corne à poudre étanche](./Corne À Poudre Étanche.md)* || 2000
+| 48 || *[[Corne à poudre étanche]]* || 2000
 |-
-| 49 || *[Tambour de feu gobelin](./Tambour de Feu Gobelin.md)* || 2000
+| 49 || *[[Tambour de feu gobelin]]* || 2000
 |-
-| 50-51 || *[Havresac du mage](./Havresac du Mage.md)* || 2000
+| 50-51 || *[[Havresac du mage]]* || 2000
 |-
-| 52-53 || *[Corne de brume](./Corne de brume.md)* || 2000
+| 52-53 || *[[Corne de brume]]* || 2000
 |-
-| 54 || *[Pointe en fer illusoire](./Pointe En Fer Illusoire.md)* || 2000
+| 54 || *[[Pointe en fer illusoire]]* || 2000
 |-
-| 55 || *[Pennon du chevalier](./pennon du chevalier.md) (honneur)* || 2200
+| 55 || *[[Pennon du chevalier]] (honneur)* || 2200
 |-
-| 56-59 || *[Pilule volatile](./Pilule Volatile.md) (1er niveau)* || 2200
+| 56-59 || *[[Pilule volatile]] (1er niveau)* || 2200
 |-
-| 60-62 || *[Gemme à élémentaire](./Gemme à élémentaire.md)* || 2250
+| 60-62 || *[[Gemme à élémentaire]]* || 2250
 |-
-| 63-64 || *[Onguent de vol](./onguent de vol.md)* || 2250
+| 63-64 || *[[Onguent de vol]]* || 2250
 |-
-| 65 || *[Colle universelle](./Colle universelle.md)* || 2400
+| 65 || *[[Colle universelle]]* || 2400
 |-
-| 66 || *[Pomme du sommeil éternel](./pomme du sommeil éternel.md)* || 2500
+| 66 || *[[Pomme du sommeil éternel]]* || 2500
 |-
-| 67-68 || *[Sac sans fond](./Sac sans fond.md) (1er modèle)* || 2500
+| 67-68 || *[[Sac sans fond]] (1er modèle)* || 2500
 |-
-| 69 || *[Cierge de vérité](./Cierge de vérité.md)* || 2500
+| 69 || *[[Cierge de vérité]]* || 2500
 |-
-| 70 || *[Poupée malfaisante](./Poupée Malfaisante.md)* || 2500
+| 70 || *[[Poupée malfaisante]]* || 2500
 |-
-| 71-72 || *[Pierre d’alerte](./Pierre dalerte.md)* || 2700
+| 71-72 || *[[Pierre dalerte|Pierre d’alerte]]* || 2700
 |-
-| 73 || *[Livre de convocation durable](./Livre de convocation durable.md) intermédiaire* || 2750
+| 73 || *[[Livre de convocation durable]] intermédiaire* || 2750
 |-
-| 74-77 || *[Bille de force](./Bille de force.md)* || 3000
+| 74-77 || *[[Bille de force]]* || 3000
 |-
-| 78 || *[Chaudron à décoction](./chaudron à décoction.md)* || 3000
+| 78 || *[[Chaudron à décoction]]* || 3000
 |-
-| 79-80 || *[Carillon d’ouverture](./Carillon douverture.md)* || 3000
+| 79-80 || *[[Carillon douverture|Carillon d’ouverture]]* || 3000
 |-
-| 81 || *[Philtre d’amour](./Philtre damour.md)* || 3000
+| 81 || *[[Philtre damour|Philtre d’amour]]* || 3000
 |-
-| 82-86 || *[Corde d’escalade](./Corde descalade.md)* || 3000
+| 82-86 || *[[Corde descalade|Corde d’escalade]]* || 3000
 |-
-| 87-88 || *[Pilule volatile](./Pilule Volatile.md) (2e niveau)* || 3000
+| 87-88 || *[[Pilule volatile]] (2e niveau)* || 3000
 |-
-| 89 || *[Linceul de désintégration](./Linceul de Désintégration.md)* || 3300
+| 89 || *[[Linceul de désintégration]]* || 3300
 |-
-| 90-92 || *[Sac à malice](./Sac à malice.md) (gris)* || 3400
+| 90-92 || *[[Sac à malice]] (gris)* || 3400
 |-
-| 93-95 || *[Poudre de disparition](./Poudre de disparition.md)* || 3500
+| 93-95 || *[[Poudre de disparition]]* || 3500
 |-
-| 96 || *[Poudre d’alourdissement](./Poudre dAlourdissement.md)* || 3600
+| 96 || *[[Poudre dalourdissement|Poudre d’alourdissement]]* || 3600
 |-
-| 97 || *[Pyxide de vigilance](./Pyxide de Vigilance.md)* || 3600
+| 97 || *[[Pyxide de vigilance]]* || 3600
 |-
-| 98-99 || *[Statuette merveilleuse](./Statuette merveilleuse.md) (corbeau d’argent)* || 3800
+| 98-99 || *[[Statuette merveilleuse]] (corbeau d’argent)* || 3800
 |-
-| 100 || *[Pilule volatile](./Pilule Volatile.md) (3e niveau)* || 3800
+| 100 || *[[Pilule volatile]] (3e niveau)* || 3800
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet faible supérieur || Prix(po)
 |- CLASS="premier"
-| 1 || *[Bille de bore](./Bille de Bore.md) (2e niveau)* || 4000
+| 1 || *[[Bille de bore]] (2e niveau)* || 4000
 |-
-| 2 || *[Filière de précaution](./Filière de Précaution.md)* || 4000
+| 2 || *[[Filière de précaution]]* || 4000
 |-
-| 3 || *[Échelle dimensionnelle](./Échelle Dimensionnelle.md)* || 4000
+| 3 || *[[Échelle dimensionnelle]]* || 4000
 |-
-| 4 || *[Lunette longue distance](./Lunette Longue Distance.md)* || 4000
+| 4 || *[[Lunette longue distance]]* || 4000
 |-
-| 05-06 || *[Pierre ioun](./Pierre ioun.md) (fuseau translucide)* || 4000
+| 05-06 || *[[Pierre ioun]] (fuseau translucide)* || 4000
 |-
-| 7 || *[Pigments merveilleux](./Pigments merveilleux.md)* || 4000
+| 7 || *[[Pigments merveilleux]]* || 4000
 |-
-| 08-15 || *[Page de connaissances magiques](./Page de Connaissances Magiques.md) (2e niveau)* || 4000
+| 08-15 || *[[Page de connaissances magiques]] (2e niveau)* || 4000
 |-
-| 16-25 || *[Perle de thaumaturge](./Perle de thaumaturge.md) (2e niveau)* || 4000
+| 16-25 || *[[Perle de thaumaturge]] (2e niveau)* || 4000
 |-
-| 26 || *[Flasque de conservation alchimique](./Flasque de Conservation Alchimique.md) (2e niveau)* || 4000
+| 26 || *[[Flasque de conservation alchimique]] (2e niveau)* || 4000
 |-
-| 27 || *[Onguent de restauration](./Onguent de restauration.md)* || 4000
+| 27 || *[[Onguent de restauration]]* || 4000
 |-
-| 28-30 || *[Onguent des roches](./Onguent des roches.md)* || 4000
+| 28-30 || *[[Onguent des roches]]* || 4000
 |-
-| 31 || *[Compas des vents](./Compas des Vents.md)* || 4400
+| 31 || *[[Compas des vents]]* || 4400
 |-
-| 32 || *[Tambour de feu gobelin](./Tambour de Feu Gobelin.md) (incendiaire)* || 4500
+| 32 || *[[Tambour de feu gobelin]] (incendiaire)* || 4500
 |-
-| 33 || *[Pennon du chevalier](./pennon du chevalier.md) (bataille)* || 4500
+| 33 || *[[Pennon du chevalier]] (bataille)* || 4500
 |-
-| 34 || *[Pennon du chevalier](./pennon du chevalier.md) (pourparler)* || 4500
+| 34 || *[[Pennon du chevalier]] (pourparler)* || 4500
 |-
-| 35 || *[Poudre néantisée](./Poudre Néantisée.md)* || 4500
+| 35 || *[[Poudre néantisée]]* || 4500
 |-
-| 36 || *[Encens de méditation](./Encens de méditation.md)* || 4900
+| 36 || *[[Encens de méditation]]* || 4900
 |-
-| 37 || *[Fiole de mélange](./Fiole de Mélange.md)* || 5000
+| 37 || *[[Fiole de mélange]]* || 5000
 |-
-| 38-51 || *[Sac sans fond](./Sac sans fond.md) (2e modèle)* || 5000
+| 38-51 || *[[Sac sans fond]] (2e modèle)* || 5000
 |-
-| 52 || *[Lame d’os](./Lame dOs.md)* || 5000
+| 52 || *[[Lame dos|Lame d’os]]* || 5000
 |-
-| 53 || *[Corne du grand veneur](./corne du grand veneur.md)* || 5000
+| 53 || *[[Corne du grand veneur]]* || 5000
 |-
-| 54 || *[Heurtoir de porte magique](./Heurtoir de Porte Magique.md)* || 5000
+| 54 || *[[Heurtoir de porte magique]]* || 5000
 |-
-| 55-56 || *[Pierre ioun](./Pierre ioun.md) (prisme rose laiteux)* || 5000
+| 55-56 || *[[Pierre ioun]] (prisme rose laiteux)* || 5000
 |-
-| 57 || *[Maillet de bâtisseur](./Maillet de Bâtisseur.md)* || 5000
+| 57 || *[[Maillet de bâtisseur]]* || 5000
 |-
-| 58 || *[Bourse polymorphe](./Bourse Polymorphe.md)* || 5000
+| 58 || *[[Bourse polymorphe]]* || 5000
 |-
-| 59 || *[Fourreau de coagulation](./fourreau de coagulation.md)* || 5000
+| 59 || *[[Fourreau de coagulation]]* || 5000
 |-
-| 60 || *[Banc d’yeux-poissons indiscrets](./Banc dYeux-poissons Indiscrets.md)* || 5000
+| 60 || *[[Banc dyeux-poissons indiscrets|Banc d’yeux-poissons indiscrets]]* || 5000
 |-
-| 61 || *[Fourreau de lame discrète](./fourreau de lame discrète.md)* || 5000
+| 61 || *[[Fourreau de lame discrète]]* || 5000
 |-
-| 62 || *[Pierre d’alliance](./Pierre dAlliance.md)* || 5000
+| 62 || *[[Pierre dalliance|Pierre d’alliance]]* || 5000
 |-
-| 63 || *[Fer de convocation](./Fer de Convocation.md)* || 5000
+| 63 || *[[Fer de convocation]]* || 5000
 |-
-| 64 || *[Urne fumigène](./Urne fumigène.md)* || 5400
+| 64 || *[[Urne fumigène]]* || 5400
 |-
-| 65 || *[Cuillère nourrissante](./Cuillère nourrissante.md)* || 5400
+| 65 || *[[Cuillère nourrissante]]* || 5400
 |-
-| 66 || *[Éventail enchanté](./Éventail enchanté.md)* || 5500
+| 66 || *[[Éventail enchanté]]* || 5500
 |-
-| 67 || *[Lanterne macabre](./Lanterne Macabre.md)* || 5800
+| 67 || *[[Lanterne macabre]]* || 5800
 |-
-| 68 || *[Pièce de destinée aléatoire](./Pièce de Destinée Aléatoire.md)* || 6000
+| 68 || *[[Pièce de destinée aléatoire]]* || 6000
 |-
-| 69 || *[Cor de lucidité martiale](./Cor de Lucidité Martiale.md)* || 6000
+| 69 || *[[Cor de lucidité martiale]]* || 6000
 |-
-| 70 || *[Insigne de lien vital](./Insigne de Lien Vital.md)* || 6000
+| 70 || *[[Insigne de lien vital]]* || 6000
 |-
-| 71 || *[Larme de martyr](./Larme de Martyr.md)* || 6000
+| 71 || *[[Larme de martyr]]* || 6000
 |-
-| 72 || *[Flûte de hantise](./Flûte de hantise.md)* || 6000
+| 72 || *[[Flûte de hantise]]* || 6000
 |-
-| 73 || *[Corde de nouement](./Corde de Nouement.md)* || 6000
+| 73 || *[[Corde de nouement]]* || 6000
 |-
-| 74 || *[Bol chantant de frappe ki](./Bol Chantant de Frappe Ki.md)* || 6000
+| 74 || *[[Bol chantant de frappe ki]]* || 6000
 |-
-| 75 || *[Familier de pierre](./Familier de Pierre.md)* || 6000
+| 75 || *[[Familier de pierre]]* || 6000
 |-
-| 76 || *[Livre de convocation durable](./Livre de convocation durable.md) supérieur* || 6126
+| 76 || *[[Livre de convocation durable]] supérieur* || 6126
 |-
-| 77 || *[Baguettes divinatoires en os de dragon](./Baguettes Divinatoires en Os de Dragon.md)* || 6400
+| 77 || *[[Baguettes divinatoires en os de dragon]]* || 6400
 |-
-| 78-79 || *[Cor du Bien/du Mal](./Cor du Biendu Mal.md)* || 6500
+| 78-79 || *[[Cor du Biendu Mal|Cor du Bien/du Mal]]* || 6500
 |-
-| 79 || *[Bindi en écaille de naga](./Bindi En Écaille de Naga.md)* || 6600
+| 79 || *[[Bindi en écaille de naga]]* || 6600
 |-
-| 80 || *[Flacon d’ombres](./Flacon dOmbres.md)* || 7000
+| 80 || *[[Flacon dombres|Flacon d’ombres]]* || 7000
 |-
-| 81 || *[Cape de bravade](./Cape de Bravade.md)* || 7000
+| 81 || *[[Cape de bravade]]* || 7000
 |-
-| 82-83 || *[Pont escamotable](./Pont Escamotable.md)* || 7000
+| 82-83 || *[[Pont escamotable]]* || 7000
 |-
-| 84 || *[Miroir aux reflets protecteurs](./Miroir Aux Reflets Protecteurs.md)* || 7000
+| 84 || *[[Miroir aux reflets protecteurs]]* || 7000
 |-
-| 85 || *[Bateau pliant](./Bateau pliant.md)* || 7200
+| 85 || *[[Bateau pliant]]* || 7200
 |-
-| 86-87 || *[Flacon d’air pur](./Flacon dair pur.md)* || 7250
+| 86-87 || *[[Flacon dair pur|Flacon d’air pur]]* || 7250
 |-
-| 88-94 || *[Sac sans fond](./Sac sans fond.md) (3e modèle)* || 7400
+| 88-94 || *[[Sac sans fond]] (3e modèle)* || 7400
 |-
-| 95 || *[Baume de souplesse taquine](./Baume de Souplesse Taquine.md)* || 7500
+| 95 || *[[Baume de souplesse taquine]]* || 7500
 |-
-| 96 || *[Bougie d’air pur](./Bougie dAir Pur.md)* || 7500
+| 96 || *[[Bougie dair pur|Bougie d’air pur]]* || 7500
 |-
-| 97 || *[Harpe de suggestion](./Harpe de suggestion.md)* || 7500
+| 97 || *[[Harpe de suggestion]]* || 7500
 |-
-| 98-100 || *[Traité de guerre](./Traité de guerre.md)* || 7500
+| 98-100 || *[[Traité de guerre]]* || 7500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 1 || *[Coupe de larmes toxiques](./Coupe de Larmes Toxiques.md)* || 8000
+| 1 || *[[Coupe de larmes toxiques]]* || 8000
 |-
-| 2 || *[Goupillon d’exorciste](./Goupillon dExorciste.md)* || 8000
+| 2 || *[[Goupillon dexorciste|Goupillon d’exorciste]]* || 8000
 |-
-| 3 || *[Traité de création des golems](./Traité de création des golems.md) (de chair)* || 8000
+| 3 || *[[Traité de création des golems]] (de chair)* || 8000
 |-
-| 4 || *[Harpe fracassante](./Harpe Fracassante.md)* || 8000
+| 4 || *[[Harpe fracassante]]* || 8000
 |-
-| 5 || *[Insigne de courage](./Insigne de Courage.md)* || 8000
+| 5 || *[[Insigne de courage]]* || 8000
 |-
-| 6 || *[Pierre ioun](./Pierre ioun.md) (sphère rouge sang)* || 8000
+| 6 || *[[Pierre ioun]] (sphère rouge sang)* || 8000
 |-
-| 7 || *[Pierre ioun](./Pierre ioun.md) (sphère bleu incandescent)* || 8000
+| 7 || *[[Pierre ioun]] (sphère bleu incandescent)* || 8000
 |-
-| 8 || *[Pierre ioun](./Pierre ioun.md) (rhombe bleu pâle)* || 8000
+| 8 || *[[Pierre ioun]] (rhombe bleu pâle)* || 8000
 |-
-| 9 || *[Pierre ioun](./Pierre ioun.md) (sphère rose et verte)* || 8000
+| 9 || *[[Pierre ioun]] (sphère rose et verte)* || 8000
 |-
-| 10 || *[Pierre ioun](./Pierre ioun.md) (rhombe rose vif)* || 8000
+| 10 || *[[Pierre ioun]] (rhombe rose vif)* || 8000
 |-
-| 11 || *[Pierre ioun](./Pierre ioun.md) (sphère rouge et bleue)* || 8000
+| 11 || *[[Pierre ioun]] (sphère rouge et bleue)* || 8000
 |-
-| 12 || *[Aiguilles de tatouage magiques](./Aiguilles de Tatouage Magiques.md)* || 8000
+| 12 || *[[Aiguilles de tatouage magiques]]* || 8000
 |-
-| 13 || *[Outils de cambrioleur animés](./Outils de Cambrioleur Animés.md)* || 8000
+| 13 || *[[Outils de cambrioleur animés]]* || 8000
 |-
-| 14 || *[Sifflet-garou](./Sifflet-garou.md)* || 8000
+| 14 || *[[Sifflet-garou]]* || 8000
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 15-16 || *[Cartes fantasmagoriques](./Cartes fantasmagoriques.md)* || 8100
+| 15-16 || *[[Cartes fantasmagoriques]]* || 8100
 |-
-| 17 || *[Cierge d’invocation](./Cierge dinvocation.md)* || 8400
+| 17 || *[[Cierge dinvocation|Cierge d’invocation]]* || 8400
 |-
-| 18-19 || *[Sac à malice](./Sac à malice.md) (rouille)* || 8500
+| 18-19 || *[[Sac à malice]] (rouille)* || 8500
 |-
-| 20 || *[Bille de bore](./Bille de Bore.md) (3e niveau)* || 9000
+| 20 || *[[Bille de bore]] (3e niveau)* || 9000
 |-
-| 21 || *[Carafe intarissable](./Carafe intarissable.md)* || 9000
+| 21 || *[[Carafe intarissable]]* || 9000
 |-
-| 22 || *[Miroir détestable](./Miroir Détestable.md)* || 9000
+| 22 || *[[Miroir détestable]]* || 9000
 |-
-| 23-25 || *[Page de connaissances magiques](./Page de Connaissances Magiques.md) (3e niveau)* || 9000
+| 23-25 || *[[Page de connaissances magiques]] (3e niveau)* || 9000
 |-
-| 26-31 || *[Perle de thaumaturge](./Perle de thaumaturge.md) (3e niveau)* || 9000
+| 26-31 || *[[Perle de thaumaturge]] (3e niveau)* || 9000
 |-
-| 32 || *[Flasque de conservation alchimique](./Flasque de Conservation Alchimique.md) (3e niveau)* || 9000
+| 32 || *[[Flasque de conservation alchimique]] (3e niveau)* || 9000
 |-
-| 33 || *[Statuette merveilleuse](./Statuette merveilleuse.md) (hibou de chrysolite)* || 9100
+| 33 || *[[Statuette merveilleuse]] (hibou de chrysolite)* || 9100
 |-
-| 34 || *[Chapelet de prières](./Chapelet de prières.md) mineur* || 9600
+| 34 || *[[Chapelet de prières]] mineur* || 9600
 |-
-| 35-38 || *[Sac sans fond](./Sac sans fond.md) (4e modèle)* || 10000
+| 35-38 || *[[Sac sans fond]] (4e modèle)* || 10000
 |-
-| 39 || *[Craie de délimitation](./Craie de Délimitation.md)* || 10000
+| 39 || *[[Craie de délimitation]]* || 10000
 |-
-| 40 || *[Carillon de silence retentissant](./Carillon de Silence Retentissant.md)* || 10000
+| 40 || *[[Carillon de silence retentissant]]* || 10000
 |-
-| 41 || *[Brique de réparation](./brique de réparation.md)* || 10000
+| 41 || *[[Brique de réparation]]* || 10000
 |-
-| 42 || *[Harpe du destin](./harpe du destin.md)* || 10000
+| 42 || *[[Harpe du destin]]* || 10000
 |-
-| 43 || *[Tambour de course](./Tambour de Course.md)* || 10000
+| 43 || *[[Tambour de course]]* || 10000
 |-
-| 44 || *[Fil d’embaumement](./Fil dEmbaumement.md)* || 10000
+| 44 || *[[Fil dembaumement|Fil d’embaumement]]* || 10000
 |-
-| 45 || *[OEil indicible](./OEil-indicible.md)* || 10000
+| 45 || *[[OEil indicible]]* || 10000
 |-
-| 46 || *[Statuette merveilleuse](./Statuette merveilleuse.md) (griffon de bronze)* || 10000
+| 46 || *[[Statuette merveilleuse]] (griffon de bronze)* || 10000
 |-
-| 47 || *[Statuette merveilleuse](./Statuette merveilleuse.md) (mouche d’ébène)* || 10000
+| 47 || *[[Statuette merveilleuse]] (mouche d’ébène)* || 10000
 |-
-| 48 || *[Statuette merveilleuse](./Statuette merveilleuse.md) (araignée d’ardoise)* || 10000
+| 48 || *[[Statuette merveilleuse]] (araignée d’ardoise)* || 10000
 |-
-| 49 || *[Sablier de la dernière chance](./Sablier de la Dernière Chance.md)* || 10000
+| 49 || *[[Sablier de la dernière chance]]* || 10000
 |-
-| 50-51 || *[Pierre ioun](./Pierre ioun.md) (rhombe bleu nuit)* || 10000
+| 50-51 || *[[Pierre ioun]] (rhombe bleu nuit)* || 10000
 |-
-| 52 || *[Natte de ki](./natte de ki.md)* || 10000
+| 52 || *[[Natte de ki]]* || 10000
 |-
-| 53 || *[Bannière seigneuriale](./bannière seigneuriale.md) (diligence)* || 10000
+| 53 || *[[Bannière seigneuriale]] (diligence)* || 10000
 |-
-| 54 || *[Symbole sacré malléable](./Symbole Sacré Malléable.md)* || 10000
+| 54 || *[[Symbole sacré malléable]]* || 10000
 |-
-| 55 || *[Coffret du minet](./Coffret du Minet.md)* || 10000
+| 55 || *[[Coffret du minet]]* || 10000
 |-
-| 56 || *[Symbole de lumière guérisseuse](./Symbole de Lumière Guérisseuse.md)* || 10000
+| 56 || *[[Symbole de lumière guérisseuse]]* || 10000
 |-
-| 57 || *[Moulin à prière de puissance morale](./Moulin À Prière de Puissance Morale.md)* || 10000
+| 57 || *[[Moulin à prière de puissance morale]]* || 10000
 |-
-| 58 || *[Cheval de pierre](./Cheval de Pierre.md) (coursier)* || 10000
+| 58 || *[[Cheval de pierre]] (coursier)* || 10000
 |-
-| 59 || *[Cristal de possession](./Cristal de Possession.md)* || 10000
+| 59 || *[[Cristal de possession]]* || 10000
 |-
-| 60 || *[Scellé de trésorier](./Scellé de Trésorier.md)* || 10000
+| 60 || *[[Scellé de trésorier]]* || 10000
 |-
-| 61 || *[Gemme d’âme noircie](./Gemme dÂme Noircie.md)* || 12000
+| 61 || *[[Gemme dâme noircie|Gemme d’âme noircie]]* || 12000
 |-
-| 62 || *[Traité de création des golems](./Traité de création des golems.md) (d’argile)* || 12000
+| 62 || *[[Traité de création des golems]] (d’argile)* || 12000
 |-
-| 63 || *[Selle du maître de guerre](./Selle du Maître de Guerre.md)* || 12000
+| 63 || *[[Selle du maître de guerre]]* || 12000
 |-
-| 64 || *[Flûte de dissipation](./Flûte de Dissipation.md)* || 12000
+| 64 || *[[Flûte de dissipation]]* || 12000
 |-
-| 65 || *[Flûte de douleur](./Flûte de Douleur.md)* || 12000
+| 65 || *[[Flûte de douleur]]* || 12000
 |-
-| 66 || *[Lunette de détection de l’invisibilité](./Lunette de Détection de lInvisibilité.md)* || 12000
+| 66 || *[[Lunette de détection de linvisibilité|Lunette de détection de l’invisibilité]]* || 12000
 |-
-| 67 || *[Livre magique](./Livre magique.md)* || 12500
+| 67 || *[[Livre magique]]* || 12500
 |-
-| 68 || *[Essences de transmutation](./Essences de Transmutation.md)* || 12500
+| 68 || *[[Essences de transmutation]]* || 12500
 |-
-| 69 || *[Gemme d’illumination](./Gemme dillumination.md)* || 13000
+| 69 || *[[Gemme dillumination|Gemme d’illumination]]* || 13000
 |-
-| 70 || *[Harpe de contagion](./Harpe de Contagion.md)* || 13000
+| 70 || *[[Harpe de contagion]]* || 13000
 |-
-| 71 || *[Lyre de bâtisseur](./Lyre de bâtisseur.md)* || 13000
+| 71 || *[[Lyre de bâtisseur]]* || 13000
 |-
-| 72 || *[Bannière néantisée](./Bannière Néantisée.md)* || 14000
+| 72 || *[[Bannière néantisée]]* || 14000
 |-
-| 73 || *[Cheval de pierre](./Cheval de Pierre.md) (destrier)* || 14800
+| 73 || *[[Cheval de pierre]] (destrier)* || 14800
 |-
-| 74 || *[Livre du maître du savoir](./livre du maître du savoir.md)* || 15000
+| 74 || *[[Livre du maître du savoir]]* || 15000
 |-
-| 75 || *[Chaudron d’abondance](./chaudron dabondance.md)* || 15000
+| 75 || *[[Chaudron dabondance|Chaudron d’abondance]]* || 15000
 |-
-| 76 || *[Trompette du jugement](./Trompette du Jugement.md)* || 15000
+| 76 || *[[Trompette du jugement]]* || 15000
 |-
-| 77 || *[Conque des tritons](./Conque des Tritons.md)* || 15000
+| 77 || *[[Conque des tritons]]* || 15000
 |-
-| 78 || *[Perle des sirènes](./Perle des sirènes.md)* || 15300
+| 78 || *[[Perle des sirènes]]* || 15300
 |-
-| 79 || *[Statuette merveilleuse](./Statuette merveilleuse.md) (chien d’onyx)* || 15500
+| 79 || *[[Statuette merveilleuse]] (chien d’onyx)* || 15500
 |-
-| 80-81 || *[Sac à malice](./Sac à malice.md) (ocre)* || 16000
+| 80-81 || *[[Sac à malice]] (ocre)* || 16000
 |-
-| 82 || *[Bille de bore](./Bille de Bore.md) (4e niveau)* || 16000
+| 82 || *[[Bille de bore]] (4e niveau)* || 16000
 |-
-| 83 || *[Page de connaissances magiques](./Page de Connaissances Magiques.md) (4e niveau)* || 16000
+| 83 || *[[Page de connaissances magiques]] (4e niveau)* || 16000
 |-
-| 84-87 || *[Perle de thaumaturge](./Perle de thaumaturge.md) (4e niveau)* || 16000
+| 84-87 || *[[Perle de thaumaturge]] (4e niveau)* || 16000
 |-
-| 88 || *[Flasque de conservation alchimique](./Flasque de Conservation Alchimique.md) (4e niveau)* || 16000
+| 88 || *[[Flasque de conservation alchimique]] (4e niveau)* || 16000
 |-
-| 89-91 || *[Fourreau d’affûtage](./Fourreau daffûtage.md)* || 16000
+| 89-91 || *[[Fourreau daffûtage|Fourreau d’affûtage]]* || 16000
 |-
-| 92-93 || *[Statuette merveilleuse](./Statuette merveilleuse.md) (lions d’or)* || 16500
+| 92-93 || *[[Statuette merveilleuse]] (lions d’or)* || 16500
 |-
-| 94-95 || *[Carillon d’interruption](./Carillon dinterruption.md)* || 16800
+| 94-95 || *[[Carillon dinterruption|Carillon d’interruption]]* || 16800
 |-
-| 96-99 || *[Balai volant](./Balai volant.md)* || 17000
+| 96-99 || *[[Balai volant]]* || 17000
 |-
-| 100 || *[Statuette merveilleuse](./Statuette merveilleuse.md) (éléphant de marbre)* || 17000
+| 100 || *[[Statuette merveilleuse]] (éléphant de marbre)* || 17000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet intermédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-03 || *[Pierre ioun](./Pierre ioun.md) (fuseau irisé)* || 18000
+| 01-03 || *[[Pierre ioun]] (fuseau irisé)* || 18000
 |-
-| 4 || *[Orbe d’épouvante abaddonienne](./Orbe dÉpouvante Abaddonienne.md)* || 18000
+| 4 || *[[Orbe dépouvante abaddonienne|Orbe d’épouvante abaddonienne]]* || 18000
 |-
-| 05-08 || *[Tapis volant](./Tapis volant.md) (1,50 m × 1,50 m)* || 20000
+| 05-08 || *[[Tapis volant]] (1,50 m × 1,50 m)* || 20000
 |-
-| 9 || *[Corne d’antagonisme](./corne dantagonisme.md)* || 20000
+| 9 || *[[Corne dantagonisme|Corne d’antagonisme]]* || 20000
 |-
-| 10-13 || *[Cor de dévastation](./Cor de dévastation.md)* || 20000
+| 10-13 || *[[Cor de dévastation]]* || 20000
 |-
-| 14-17 || *[Pierre ioun](./Pierre ioun.md) (ellipsoïde lavande)* || 20000
+| 14-17 || *[[Pierre ioun]] (ellipsoïde lavande)* || 20000
 |-
-| 18-21 || *[Pierre ioun](./Pierre ioun.md) (fuseau blanc laiteux)* || 20000
+| 18-21 || *[[Pierre ioun]] (fuseau blanc laiteux)* || 20000
 |-
-| 22-24 || *[Cloche dorée de bannissement](./Cloche Dorée de Bannissement.md)* || 20000
+| 22-24 || *[[Cloche dorée de bannissement]]* || 20000
 |-
-| 25-27 || *[Athamé du nécromancien](./athamé du nécromancien.md)* || 20000
+| 25-27 || *[[Athamé du nécromancien]]* || 20000
 |-
-| 28-31 || *[Puits portable](./Puits Portable.md)* || 20000
+| 28-31 || *[[Puits portable]]* || 20000
 |-
-| 32-35 || *[Pierre porte-bonheur](./Pierre porte-bonheur.md)* || 20000
+| 32-35 || *[[Pierre porte-bonheur]]* || 20000
 |-
-| 36-37 || *[Statuette merveilleuse](./Statuette merveilleuse.md) (chèvres d’ivoire)* || 21000
+| 36-37 || *[[Statuette merveilleuse]] (chèvres d’ivoire)* || 21000
 |-
-| 38-40 || *[Corde d’enchevêtrement](./Corde denchevêtrement.md)* || 21000
+| 38-40 || *[[Corde denchevêtrement|Corde d’enchevêtrement]]* || 21000
 |-
-| 41-42 || *[Traité de création des golems](./Traité de création des golems.md) (de pierre)* || 22000
+| 41-42 || *[[Traité de création des golems]] (de pierre)* || 22000
 |-
-| 43 || *[Orbe des cieux](./Orbe des Cieux.md)* || 22000
+| 43 || *[[Orbe des cieux]]* || 22000
 |-
-| 44-45 || *[Pioche des titans](./Pioche des titans.md)* || 23348
+| 44-45 || *[[Pioche des titans]]* || 23348
 |-
-| 46-48 || *[Corne d’éternelle bravoure](./Corne dÉternelle Bravoure.md)* || 24000
+| 46-48 || *[[Corne déternelle bravoure|Corne d’éternelle bravoure]]* || 24000
 |-
-| 49-51 || *[Bille de bore](./Bille de Bore.md) (5e niveau)* || 25000
+| 49-51 || *[[Bille de bore]] (5e niveau)* || 25000
 |-
-| 52-53 || *[Émeraude chaotique](./Émeraude Chaotique.md)* || 25000
+| 52-53 || *[[Émeraude chaotique]]* || 25000
 |-
-| 54-57 || *[Page de connaissances magiques](./Page de Connaissances Magiques.md) (5e niveau)* || 25000
+| 54-57 || *[[Page de connaissances magiques]] (5e niveau)* || 25000
 |-
-| 58-64 || *[Perle de thaumaturge](./Perle de thaumaturge.md) (5e niveau)* || 25000
+| 58-64 || *[[Perle de thaumaturge]] (5e niveau)* || 25000
 |-
-| 65-67 || *[Flasque de conservation alchimique](./Flasque de Conservation Alchimique.md) (5e niveau)* || 25000
+| 65-67 || *[[Flasque de conservation alchimique]] (5e niveau)* || 25000
 |-
-| 68-69 || *[Maillet des titans](./Maillet des titans.md)* || 23305
+| 68-69 || *[[Maillet des titans]]* || 23305
 |-
-| 70-73 || *[Liens d’acier mystiques](./Liens dacier mystiques.md)* || 26000
+| 70-73 || *[[Liens dacier mystiques|Liens d’acier mystiques]]* || 26000
 |-
-| 74-76 || *[Cube de résistance au froid](./Cube de résistance au froid.md)* || 27000
+| 74-76 || *[[Cube de résistance au froid]]* || 27000
 |-
-| 77-80 || *[Manuel de vitalité](./Manuel de vitalité.md) +1  * || 27500
+| 77-80 || *[[Manuel de vitalité]] +1  * || 27500
 |-
-| 81-84 || *[Manuel de remise en forme](./Manuel de remise en forme.md) +1  * || 27500
+| 81-84 || *[[Manuel de remise en forme]] +1  * || 27500
 |-
-| 85-88 || *[Manuel de coordination physique](./Manuel de coordination physique.md) +1  * || 27500
+| 85-88 || *[[Manuel de coordination physique]] +1  * || 27500
 |-
-| 89-92 || *[Traité de perspicacité](./Traité de perspicacité.md) +1  * || 27500
+| 89-92 || *[[Traité de perspicacité]] +1  * || 27500
 |-
-| 93-96 || *[Traité d’autorité et d’influence](./Traité dautorité et dinfluence.md) +1  * || 27500
+| 93-96 || *[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] +1  * || 27500
 |-
-| 97-100 || *[Traité de compréhension](./Traité de compréhension.md) +1  * || 27500
+| 97-100 || *[[Traité de compréhension]] +1  * || 27500
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-04 || *[Statuette merveilleuse](./Statuette merveilleuse.md) (destrier d’obsidienne)* || 28500
+| 01-04 || *[[Statuette merveilleuse]] (destrier d’obsidienne)* || 28500
 |-
-| 05-07 || *[Chaudron des morts](./chaudron des morts.md)* || 30000
+| 05-07 || *[[Chaudron des morts]]* || 30000
 |-
-| 08-11 || *[Timbales de panique](./Timbales de panique.md)* || 30000
+| 08-11 || *[[Timbales de panique]]* || 30000
 |-
-| 12-15 || *[Pierre ioun](./Pierre ioun.md) (prisme orange)* || 30000
+| 12-15 || *[[Pierre ioun]] (prisme orange)* || 30000
 |-
-| 16-19 || *[Pierre ioun](./Pierre ioun.md) (prisme vert pâle)* || 30000
+| 16-19 || *[[Pierre ioun]] (prisme vert pâle)* || 30000
 |-
-| 20-23 || *[Lanterne révélatrice](./Lanterne révélatrice.md)* || 30000
+| 20-23 || *[[Lanterne révélatrice]]* || 30000
 |-
-| 24-27 || *[Balai volant](./Balai volant.md) (de course)* || 30000
+| 24-27 || *[[Balai volant]] (de course)* || 30000
 |-
-| 28-31 || *[Chaudron de résurrection](./chaudron de résurrection.md)* || 33000
+| 28-31 || *[[Chaudron de résurrection]]* || 33000
 |-
-| 32-36 || *[Tapis volant](./Tapis volant.md) (1,50 m × 3 m)* || 35000
+| 32-36 || *[[Tapis volant]] (1,50 m × 3 m)* || 35000
 |-
-| 37-38 || *[Traité de création des golems](./Traité de création des golems.md) (de fer)* || 35000
+| 37-38 || *[[Traité de création des golems]] (de fer)* || 35000
 |-
-| 39-40 || *[Bille de bore](./Bille de Bore.md) (6e niveau)* || 36000
+| 39-40 || *[[Bille de bore]] (6e niveau)* || 36000
 |-
-| 41-44 || *[Pierre ioun](./Pierre ioun.md) (prisme violet vif)* || 36000
+| 41-44 || *[[Pierre ioun]] (prisme violet vif)* || 36000
 |-
-| 45-48 || *[Orbe de chaos absolu](./Orbe de Chaos Absolu.md)* || 36000
+| 45-48 || *[[Orbe de chaos absolu]]* || 36000
 |-
-| 49-50 || *[Page de connaissances magiques](./Page de Connaissances Magiques.md) (6e niveau)* || 36000
+| 49-50 || *[[Page de connaissances magiques]] (6e niveau)* || 36000
 |-
-| 51-58 || *[Perle de thaumaturge](./Perle de thaumaturge.md) (6e niveau)* || 36000
+| 51-58 || *[[Perle de thaumaturge]] (6e niveau)* || 36000
 |-
-| 59-60 || *[Flasque de conservation alchimique](./Flasque de Conservation Alchimique.md) (6e niveau)* || 36000
+| 59-60 || *[[Flasque de conservation alchimique]] (6e niveau)* || 36000
 |-
-| 61-64 || *[Chaudron volant](./Chaudron Volant.md)* || 40000
+| 61-64 || *[[Chaudron volant]]* || 40000
 |-
-| 65-66 || *[Talisman d’animosité](./Talisman dAnimosité.md)* || 40000
+| 65-66 || *[[Talisman dAnimosité|Talisman d’animosité]]* || 40000
 |-
-| 67-69 || *[Pierre ioun](./Pierre ioun.md) (ellipsoïde vert et lavande)* || 40000
+| 67-69 || *[[Pierre ioun]] (ellipsoïde vert et lavande)* || 40000
 |-
-| 70-73 || *[Anneaux de transport](./Anneaux de transport.md)* || 40000
+| 70-73 || *[[Anneaux de transport]]* || 40000
 |-
-| 74-77 || *[Chaudron de vision](./chaudron de vision.md)* || 42000
+| 74-77 || *[[Chaudron de vision]]* || 42000
 |-
-| 78-81 || *[Boule de cristal](./Boule de cristal.md)* || 42000
+| 78-81 || *[[Boule de cristal]]* || 42000
 |-
-| 82-83 || *[Traité de création des golems](./Traité de création des golems.md) (de pierre monumentaux)* || 44000
+| 82-83 || *[[Traité de création des golems]] (de pierre monumentaux)* || 44000
 |-
-| 84-87 || *[Timbales de rapidité](./Timbales de Rapidité.md)* || 45000
+| 84-87 || *[[Timbales de rapidité]]* || 45000
 |-
-| 88-91 || *[Chapelet de prières](./Chapelet de prières.md) courant* || 45800
+| 88-91 || *[[Chapelet de prières]] courant* || 45800
 |-
-| 92-94 || *[Orbe des tempêtes](./Orbe des tempêtes.md)* || 48000
+| 92-94 || *[[Orbe des tempêtes]]* || 48000
 |-
-| 95-96 || *[Page de connaissances magiques](./Page de Connaissances Magiques.md) (7e niveau)* || 49000
+| 95-96 || *[[Page de connaissances magiques]] (7e niveau)* || 49000
 |-
-| 97-100 || *[Perle de thaumaturge](./Perle de thaumaturge.md) (7e niveau)* || 49000
+| 97-100 || *[[Perle de thaumaturge]] (7e niveau)* || 49000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Objet puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-03 || *[Boule de cristal](./Boule de cristal.md) (détection de l’invisibilité)* || 50000
+| 01-03 || *[[Boule de cristal]] (détection de l’invisibilité)* || 50000
 |-
-| 04-05 || *[Cor du Valhalla](./Cor du Valhalla.md)* || 50000
+| 04-05 || *[[Cor du Valhalla]]* || 50000
 |-
-| 06-08 || *[Boule de cristal](./Boule de cristal.md) (détection des pensées)* || 51000
+| 06-08 || *[[Boule de cristal]] (détection des pensées)* || 51000
 |-
-| 9 || *[Feuilles automnales des dryades](./Feuilles Automnales des Dryades.md)* || 52000
+| 9 || *[[Feuilles automnales des dryades]]* || 52000
 |-
-| 10-11 || *[Forteresse instantanée](./Forteresse instantanée.md)* || 55000
+| 10-11 || *[[Forteresse instantanée]]* || 55000
 |-
-| 12-15 || *[Manuel de vitalité](./Manuel de vitalité.md) +2  * || 55000
+| 12-15 || *[[Manuel de vitalité]] +2  * || 55000
 |-
-| 16-19 || *[Manuel de remise en forme](./Manuel de remise en forme.md) +2  * || 55000
+| 16-19 || *[[Manuel de remise en forme]] +2  * || 55000
 |-
-| 20-23 || *[Manuel de coordination physique](./Manuel de coordination physique.md) +2  * || 55000
+| 20-23 || *[[Manuel de coordination physique]] +2  * || 55000
 |-
-| 24-27 || *[Traité de perspicacité](./Traité de perspicacité.md) +2  * || 55000
+| 24-27 || *[[Traité de perspicacité]] +2  * || 55000
 |-
-| 28-31 || *[Traité d’autorité et d’influence](./Traité dautorité et dinfluence.md) +2  * || 55000
+| 28-31 || *[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] +2  * || 55000
 |-
-| 32-35 || *[Traité de compréhension](./Traité de compréhension.md) +2  * || 55000
+| 32-35 || *[[Traité de compréhension]] +2  * || 55000
 |-
-| 36 || *[Bannière seigneuriale](./bannière seigneuriale.md) (terreur)* || 56000
+| 36 || *[[Bannière seigneuriale]] (terreur)* || 56000
 |-
-| 37 || *[Tapis volant](./Tapis volant.md) (3 m × 3 m)* || 60000
+| 37 || *[[Tapis volant]] (3 m × 3 m)* || 60000
 |-
-| 38-39 || *[Crâne des ténèbres](./Crâne des ténèbres.md)* || 60000
+| 38-39 || *[[Crâne des ténèbres]]* || 60000
 |-
-| 40 || *[Orbe de loi parfaite](./Orbe de Loi Parfaite.md)* || 60000
+| 40 || *[[Orbe de loi parfaite]]* || 60000
 |-
-| 41 || *[Cube de force](./Cube de force.md)* || 62000
+| 41 || *[[Cube de force]]* || 62000
 |-
-| 42-43 || *[Page de connaissances magiques](./Page de Connaissances Magiques.md) (8e niveau)* || 64000
+| 42-43 || *[[Page de connaissances magiques]] (8e niveau)* || 64000
 |-
-| 44-49 || *[Perle de thaumaturge](./Perle de thaumaturge.md) (8e niveau)* || 64000
+| 44-49 || *[[Perle de thaumaturge]] (8e niveau)* || 64000
 |-
-| 50 || *[Boule de cristal](./Boule de cristal.md) (télépathie)* || 70000
+| 50 || *[[Boule de cristal]] (télépathie)* || 70000
 |-
-| 51 || *[Cor de dévastation](./Cor de dévastation.md) supérieur* || 70000
+| 51 || *[[Cor de dévastation]] supérieur* || 70000
 |-
-| 52-54 || *[Perle de thaumaturge](./Perle de thaumaturge.md) (deux sorts)* || 70000
+| 52-54 || *[[Perle de thaumaturge]] (deux sorts)* || 70000
 |-
-| 55 || *[Gemme de vision](./Gemme de vision.md)* || 75000
+| 55 || *[[Gemme de vision]]* || 75000
 |-
-| 56 || *[Bannière seigneuriale](./bannière seigneuriale.md) (victoire)* || 75000
+| 56 || *[[Bannière seigneuriale]] (victoire)* || 75000
 |-
-| 57 || *[Boule de cristal](./Boule de cristal.md) (vision lucide)* || 80000
+| 57 || *[[Boule de cristal]] (vision lucide)* || 80000
 |-
-| 58-59 || *[Page de connaissances magiques](./Page de Connaissances Magiques.md) (9e niveau)* || 81000
+| 58-59 || *[[Page de connaissances magiques]] (9e niveau)* || 81000
 |-
-| 60-62 || *[Perle de thaumaturge](./Perle de thaumaturge.md) (9e niveau)* || 81000
+| 60-62 || *[[Perle de thaumaturge]] (9e niveau)* || 81000
 |-
-| 63 || *[Puits des mondes](./Puits des mondes.md)* || 82000
+| 63 || *[[Puits des mondes]]* || 82000
 |-
-| 64-65 || *[Manuel de vitalité](./Manuel de vitalité.md) +3  * || 82500
+| 64-65 || *[[Manuel de vitalité]] +3  * || 82500
 |-
-| 66-67 || *[Manuel de remise en forme](./Manuel de remise en forme.md) +3  * || 82500
+| 66-67 || *[[Manuel de remise en forme]] +3  * || 82500
 |-
-| 68-69 || *[Manuel de coordination physique](./Manuel de coordination physique.md) +3  * || 82500
+| 68-69 || *[[Manuel de coordination physique]] +3  * || 82500
 |-
-| 70-71 || *[Traité de perspicacité](./Traité de perspicacité.md) +3  * || 82500
+| 70-71 || *[[Traité de perspicacité]] +3  * || 82500
 |-
-| 72-73 || *[Traité d’autorité et d’influence](./Traité dautorité et dinfluence.md) +3  * || 82500
+| 72-73 || *[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] +3  * || 82500
 |-
-| 74-75 || *[Traité de compréhension](./Traité de compréhension.md) +3  * || 82500
+| 74-75 || *[[Traité de compréhension]] +3  * || 82500
 |-
-| 76 || *[Submersible du crabe](./Submersible du crabe.md)* || 90000
+| 76 || *[[Submersible du crabe]]* || 90000
 |-
-| 77 || *[Bol de convocation d’élémentaires de l’Eau](./Bol de Convocation dÉlémentaires de lEau.md)* || 90000
+| 77 || *[[Bol de convocation délémentaires de lEau|Bol de convocation d’élémentaires de l’Eau]]* || 90000
 |-
-| 78 || *[Braséro de convocation d’élémentaires du Feu](./Braséro de Convocation dÉlémentaires du Feu.md)* || 90000
+| 78 || *[[Braséro de convocation délémentaires du Feu|Braséro de convocation d’élémentaires du Feu]]* || 90000
 |-
-| 79 || *[Encensoir de convocation d’élémentaires de l’Air](./Encensoir de Convocation dÉlémentaires de lAir.md)* || 90000
+| 79 || *[[Encensoir de convocation délémentaires de lAir|Encensoir de convocation d’élémentaires de l’Air]]* || 90000
 |-
-| 80 || *[Pierre de convocation d’élémentaires de la Terre](./Pierre de Convocation dÉlémentaires de la Terre.md)* || 90000
+| 80 || *[[Pierre de convocation délémentaires de la Terre|Pierre de convocation d’élémentaires de la Terre]]* || 90000
 |-
-| 81 || *[Miroir d’opposition](./Miroir dopposition.md)* || 92000
+| 81 || *[[Miroir dopposition|Miroir d’opposition]]* || 92000
 |-
-| 82 || *[Chapelet de prières](./Chapelet de prières.md) majeur* || 95800
+| 82 || *[[Chapelet de prières]] majeur* || 95800
 |-
-| 83 || *[Bannière seigneuriale](./bannière seigneuriale.md) (croisades)* || 100000
+| 83 || *[[Bannière seigneuriale]] (croisades)* || 100000
 |-
-| 84 || *[Manuel de vitalité](./Manuel de vitalité.md) +4  * || 110000
+| 84 || *[[Manuel de vitalité]] +4  * || 110000
 |-
-| 85 || *[Manuel de remise en forme](./Manuel de remise en forme.md) +4  * || 110000
+| 85 || *[[Manuel de remise en forme]] +4  * || 110000
 |-
-| 86 || *[Manuel de coordination physique](./Manuel de coordination physique.md) +4  * || 110000
+| 86 || *[[Manuel de coordination physique]] +4  * || 110000
 |-
-| 87 || *[Traité de perspicacité](./Traité de perspicacité.md) +4  * || 110000
+| 87 || *[[Traité de perspicacité]] +4  * || 110000
 |-
-| 88 || *[Traité d’autorité et d’influence](./Traité dautorité et dinfluence.md) +4  * || 110000
+| 88 || *[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] +4  * || 110000
 |-
-| 89 || *[Traité de compréhension](./Traité de compréhension.md) +4  * || 110000
+| 89 || *[[Traité de compréhension]] +4  * || 110000
 |-
-| 90 || *[Manuel de vitalité](./Manuel de vitalité.md) +5  * || 137500
+| 90 || *[[Manuel de vitalité]] +5  * || 137500
 |-
-| 91 || *[Manuel de remise en forme](./Manuel de remise en forme.md) +5  * || 137500
+| 91 || *[[Manuel de remise en forme]] +5  * || 137500
 |-
-| 92 || *[Manuel de coordination physique](./Manuel de coordination physique.md) +5  * || 137500
+| 92 || *[[Manuel de coordination physique]] +5  * || 137500
 |-
-| 93 || *[Traité de perspicacité](./Traité de perspicacité.md) +5  * || 137500
+| 93 || *[[Traité de perspicacité]] +5  * || 137500
 |-
-| 94 || *[Traité d’autorité et d’influence](./Traité dautorité et dinfluence.md) +5  * || 137500
+| 94 || *[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] +5  * || 137500
 |-
-| 95 || *[Traité de compréhension](./Traité de compréhension.md) +5  * || 137500
+| 95 || *[[Traité de compréhension]] +5  * || 137500
 |-
-| 96 || *[Urne du mauvais génie](./Urne du mauvais génie.md)* || 145000
+| 96 || *[[Urne du mauvais génie]]* || 145000
 |-
-| 97 || *[Cube des plans](./Cube des plans.md)* || 164000
+| 97 || *[[Cube des plans]]* || 164000
 |-
-| 98 || *[Flasque de fer](./Flasque de fer.md)* || 170000
+| 98 || *[[Flasque de fer]]* || 170000
 |-
-| 99 || *[Miroir de prouesse mentale](./Miroir de Prouesse Mentale.md)* || 175000
+| 99 || *[[Miroir de prouesse mentale]]* || 175000
 |-
-| 100 || *[Miroir d’emprisonnement](./Miroir demprisonnement.md)* || 200000
+| 100 || *[[Miroir demprisonnement|Miroir d’emprisonnement]]* || 200000
 |}
 </td></tr></table>

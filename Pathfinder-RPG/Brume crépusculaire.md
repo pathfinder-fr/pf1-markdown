@@ -13,13 +13,13 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [illusion](./Illusion.md) ([ombre](./branche ombre.md)) <nowiki>[</nowiki>ténèbres, ombre<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2, [Spi](./Spirite.md) 2  
+{s:MCA}**École** [[illusion]] ([[branche ombre|ombre]]) <nowiki>[[</nowiki>ténèbres, ombre<nowiki>]]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** brume qui s’étend sur 6 m de rayon (4 {s:c})   
 
@@ -27,4 +27,4 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Le personnage crée une brume grise qui obscurcit la vision (comme *[nappe de brouillard](./Nappe de brouillard.md)*) et diminue la luminosité d’un niveau (comme *[ténèbres](./Ténèbres.md)*). Étant donné que le sort génère une illusion et non un véritable brouillard physique, il n’est pas affecté par le vent et peut être lancé sous l’eau.
+Le personnage crée une brume grise qui obscurcit la vision (comme *[[nappe de brouillard]]*) et diminue la luminosité d’un niveau (comme *[[ténèbres]]*). Étant donné que le sort génère une illusion et non un véritable brouillard physique, il n’est pas affecté par le vent et peut être lancé sous l’eau.

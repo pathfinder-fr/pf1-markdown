@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#MIRAGE
 ---
 
->>> [Présentation des sorts#MIRAGE](./Présentation des sorts.md#MIRAGE)
+>>> [[Présentation des sorts#MIRAGE]]

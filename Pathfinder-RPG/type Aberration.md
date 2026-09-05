@@ -16,11 +16,11 @@ Les aberrations possèdent une anatomie bizarre, des capacités étranges, un mo
 - BBA égal aux 3/4 du nombre de DV (progression moyenne)
 - Jets de sauvegarde fort : Volonté
 - Points de compétence par DV : 4 + leur modificateur d'Intelligence (au minimum 1). 
-- Compétences de classe pour les aberrations : [Acrobaties](./Acrobaties.md), [Art de la magie](./Art de la magie.md), [Connaissances](./Connaissances.md) (un domaine au choix), [Discrétion](./Discrétion.md), [Escalade](./Escalade.md), [Évasion](./Évasion.md), [Intimidation](./Intimidation.md), [Natation](./Natation.md), [Perception](./Perception.md), [Survie](./Survie.md), [Vol](./Vol.md).
+- Compétences de classe pour les aberrations : [[Acrobaties]], [[Art de la magie]], [[Connaissances]] (un domaine au choix), [[Discrétion]], [[Escalade]], [[Évasion]], [[Intimidation]], [[Natation]], [[Perception]], [[Survie]], [[Vol]].
 
 ### Traits
 Les aberrations possèdent les traits suivants (sauf mention contraire dans leur profil).
-- [Vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c})
+- [[Vision dans le noir]] à 18 m (12 {s:c})
 - Formée au maniement de leurs armes naturelles. Les aberrations qui possèdent une forme vaguement humanoïde sont formées au maniement de toutes les armes courantes et des armes citées dans leur description.
 - Formées au maniement des armures du type cité dans leur profil (légères,intermédiaires ou lourdes) et des types plus légers. Les aberrations qui ne portent aucune armure dans leur profil ne disposent d'aucune formation en matière de port d'armures. Les aberrations qui sont formées au port d'au moins un type d'armures le sont également à l'utilisation des boucliers.
 - Les aberrations respirent, mangent et dorment.

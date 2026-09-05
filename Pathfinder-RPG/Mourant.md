@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Mourant
 ---
 
->>> [États préjudiciables#Mourant](./États préjudiciables.md#Mourant)
+>>> [[États préjudiciables#Mourant]]

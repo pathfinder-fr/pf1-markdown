@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Héliotropes dArazni.md).***
+***Voir les [[Pathfinder-RPG.Héliotropes dArazni|statistiques de cet artefact]].***
 
 Bien qu’ils semblent avoir été sculptés dans une riche argile rouge, ces vases canopes aux formes grotesques saignent tels des organes bien vivants.
 

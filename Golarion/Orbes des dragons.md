@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Orbes des dragons.md).***
+***Voir les [[Pathfinder-RPG.Orbes des dragons|statistiques de cet artefact]].***
 
 Le cœur enfumé de cette sphère cristalline parfaite scintille d’une seule couleur. Son miroitement coloré et les émanations de son pouvoir indéfinissable ne sont pas sans rappeler le souffle d’un dragon qui somnole.
 

@@ -12,26 +12,26 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une goutte de mercure)  
+**Composantes** [[composantes|V, G, M]] (une goutte de mercure)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** disque de force de 90 cm de diamètre  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Ce sort crée un plan de force légèrement concave qui suit le personnage et peut porter des charges pour lui. Le disque a un diamètre de 90 cm et s’enfonce de 2,5 cm en son centre. Il peut accepter jusqu’à 50 kg par [niveau de lanceur de sorts](./NLS.md). S’il est utilisé pour transporter un liquide, sa contenance est de 8 litres. Il flotte à un mètre du sol et reste toujours horizontal. Il se meut en flottant lorsqu’il est dans la portée du sort et suit le lanceur de sorts en se déplaçant chaque round d’une distance inférieure ou égale à la [vitesse de déplacement](./vitesse de déplacement.md) normale du lanceur de sort. Sauf ordre contraire, il reste à une distance de 1,50 m du personnage. Le disque disparaît instantanément lorsque le sort expire. Il fait de même si le personnage s’éloigne au-delà des limites de portée ou s’il tente de le soulever à plus d’un mètre du sol. Lorsque le disque disparaît, tout ce qu’il transportait tombe au sol.
+Ce sort crée un plan de force légèrement concave qui suit le personnage et peut porter des charges pour lui. Le disque a un diamètre de 90 cm et s’enfonce de 2,5 cm en son centre. Il peut accepter jusqu’à 50 kg par [[NLS|niveau de lanceur de sorts]]. S’il est utilisé pour transporter un liquide, sa contenance est de 8 litres. Il flotte à un mètre du sol et reste toujours horizontal. Il se meut en flottant lorsqu’il est dans la portée du sort et suit le lanceur de sorts en se déplaçant chaque round d’une distance inférieure ou égale à la [[vitesse de déplacement]] normale du lanceur de sort. Sauf ordre contraire, il reste à une distance de 1,50 m du personnage. Le disque disparaît instantanément lorsque le sort expire. Il fait de même si le personnage s’éloigne au-delà des limites de portée ou s’il tente de le soulever à plus d’un mètre du sol. Lorsque le disque disparaît, tout ce qu’il transportait tombe au sol.
 
 ### Mythique
 {s:CMy}
-Le disque crée par ce sort reste en place pendant 2 heures par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) et peut transporter une charge maximale de 100 kilogrammes par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md).
+Le disque crée par ce sort reste en place pendant 2 heures par [[niveau de lanceur de sorts]] et peut transporter une charge maximale de 100 kilogrammes par [[niveau de lanceur de sorts]].
 
-Le disque suit le personnage quelle que soit la vitesse de déplacement de ce dernier et le rattrape toujours quelle que soit la distance qui les séparent. Si le personnage se tient debout ou assis sur le disque, il peut, par une [action de mouvement](./Action de mouvement.md), le diriger pour qu’il se déplace de 9 mètres au maximum dans la direction de son choix.
+Le disque suit le personnage quelle que soit la vitesse de déplacement de ce dernier et le rattrape toujours quelle que soit la distance qui les séparent. Si le personnage se tient debout ou assis sur le disque, il peut, par une [[action de mouvement]], le diriger pour qu’il se déplace de 9 mètres au maximum dans la direction de son choix.
 
-Les objets posés sur le disque sont considérés comme des pièces d’équipement dont le poids est négligeable dans le cadre des effets de téléportation (le personnage peut donc téléporter ces objets avec lui, malgré la limite de poids imposée par le sort de [téléportation](./téléportation.md)). Par une [action libre](./Action libre.md), le personnage peut transformer la surface concave du disque en une forme semblable à un seau pouvant contenir jusqu’à 15 litres (ou transformer le seau pour qu’il reprenne sa forme normale de disque).
+Les objets posés sur le disque sont considérés comme des pièces d’équipement dont le poids est négligeable dans le cadre des effets de téléportation (le personnage peut donc téléporter ces objets avec lui, malgré la limite de poids imposée par le sort de [[téléportation]]). Par une [[action libre]], le personnage peut transformer la surface concave du disque en une forme semblable à un seau pouvant contenir jusqu’à 15 litres (ou transformer le seau pour qu’il reprenne sa forme normale de disque).

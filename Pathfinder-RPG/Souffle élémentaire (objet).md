@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Sylphe (race)|sylphes|Illustrations/PNJ/Sylphe.jpg}{s:MR}**Prix** 80 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 20
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Cette fiole semble vide au premier abord, mais lorsqu’on l’ouvre, une bourrasque de vent en jaillit. Lorsqu’une créature qui respire inhale le souffle élémentaire (comme elle boirait une [potion](./Potions magiques.md)), elle n’a plus besoin de respirer de l’air pendant 10 [rounds](./round.md). Une fiole de souffle élémentaire doit être inhalée pendant le round de son ouverture pour accorder cet effet. Sinon, elle est gâchée.
+Cette fiole semble vide au premier abord, mais lorsqu’on l’ouvre, une bourrasque de vent en jaillit. Lorsqu’une créature qui respire inhale le souffle élémentaire (comme elle boirait une [[Potions magiques|potion]]), elle n’a plus besoin de respirer de l’air pendant 10 [[round|rounds]]. Une fiole de souffle élémentaire doit être inhalée pendant le round de son ouverture pour accorder cet effet. Sinon, elle est gâchée.

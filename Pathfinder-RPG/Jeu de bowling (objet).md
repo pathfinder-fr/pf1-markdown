@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pa–10 po ; **Poids** 7,5 kg
-<span class="Catégorie">**Catégorie** [Jeux](./Jeux.md)</span>
+<span class="Catégorie">**Catégorie** [[Jeux]]</span>
 ---
 Ce simple jeu de 10 quilles est souvent compliqué par les irrégularités de la boule, des quilles et du terrain de jeu.

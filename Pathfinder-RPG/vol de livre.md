@@ -10,12 +10,12 @@ Categories:
 - Sort sorcière 3
 ---
 
-**École** [Divination](./Divination.md) ; **Niveau** [barde](./Barde.md) 3, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 3, [inquisiteur](./Inquisiteur.md) 3, [sorcière](./Sorcière.md) 3</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, S](./composantes.md)</br>
+**École** [[Divination]] ; **Niveau** [[barde]] 3, [[ensorceleur]]/[[magicien]] 3, [[inquisiteur]] 3, [[sorcière]] 3</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[Composantes|V, S]]</br>
 **Portée** contact</br>
 **Cible** livre touché</br>
-**Durée** 1 minute/[niveau](./niveau.md)</br>
+**Durée** 1 minute/[[niveau]]</br>
 **Jet de sauvegarde** Vigueur annule (objet) ; **Résistance à la magie** oui (objet)
 
 Souvent utilisé par les bardes, les espions et les sages magiciens pour voler des textes importants sans alerter leurs propriétaires, vol de livres permet de copier les contenus d'un livre, document, parchemin ou autre texte sur un support vierge de taille suffisante.
@@ -23,4 +23,4 @@ En procédant de la sorte, les pages originales sont effacées, bien que leur co
 Ce sort ne permet pas de copier une écriture magique (comme le grimoire d'un magicien ou un parchemin magique). À la discrétion du MJ, le sort peut restaurer des informations perdues, comme une page obscurcie par une tâche de vin, un texte effacé par des moyens magiques ou ordinaires ou même des pages ayant été consumées par le feu ou ayant subi d'autres dégâts.
 Lorsqu'il est lancé à partir d'un parchemin, le début du texte volé apparaît sur le livre volé jusqu'à ce que vous choisissiez le livre cible du sort où vous souhaitez qu'il apparaisse. Le texte volé brille tandis qu'il s'inscrit sur le parchemin.
 
-**Source :** sort issu du kobold Quarterly #14 utilisé pour la [sacoche du voleur de livres](./Sacoche du voleur de livres.md) paru dans le recueil de la Société des Éclaireurs. la traduction n'est pas officielle
+**Source :** sort issu du kobold Quarterly #14 utilisé pour la [[sacoche du voleur de livres]] paru dans le recueil de la Société des Éclaireurs. la traduction n'est pas officielle

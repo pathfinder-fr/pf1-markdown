@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Chasseresse
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Chasseresse](./Descriptions individuelles des propriétés spéciales des armes.md#Chasseresse)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Chasseresse]]

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#COLEREAUTOSUGGEREE
 ---
 
->>> [pouvoirs de rage#COLEREAUTOSUGGEREE](./Pouvoirs de rage.md#COLEREAUTOSUGGEREE)
+>>> [[pouvoirs de rage#COLEREAUTOSUGGEREE]]

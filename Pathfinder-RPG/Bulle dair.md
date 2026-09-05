@@ -15,19 +15,19 @@ Categories:
 ---
 
 {s:UC}
-**École** [Invocation](./Invocation.md) ([création](./branche création.md)) ; **Niveau** [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [Rôd](./Rôdeur.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [G, M/FD](./composantes.md) (petite vessie remplie d’air)  
+**Composantes** [[Composantes|G, M/FD]] (petite vessie remplie d’air)  
 
-**Portée** [contact](./contact.md)  
+**Portée** [[contact]]  
 
 **Cible** créature vivante ou objet pas plus gros qu’une arme à deux mains G  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Bulle d’air crée une petite poche d’air respirable qui entoure la tête de la créature touchée ou l’objet. Elle lui permet de respirer sous l’eau ou dans un environnement dépourvu d’air ou de protéger un objet des dégâts de l’eau.
 

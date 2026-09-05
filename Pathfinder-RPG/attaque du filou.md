@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Filou Mythique#ATTAQUEDUFILOU
 ---
 
->>> [Filou Mythique#ATTAQUEDUFILOU](./Filou Mythique.md#ATTAQUEDUFILOU)
+>>> [[Filou Mythique#ATTAQUEDUFILOU]]

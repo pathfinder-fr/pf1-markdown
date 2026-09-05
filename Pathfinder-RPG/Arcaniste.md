@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:Menuclasseshybrides}
-<div class="fright">***Voir aussi les [exploitations d'arcaniste](./Exploitations.md).***
-***Voir aussi la [liste des sorts d'arcaniste](./Liste des sorts densorceleursmagiciens.md).***
+<div class="fright">***Voir aussi les [[Exploitations|exploitations d'arcaniste]].***
+***Voir aussi la [[Liste des sorts densorceleursmagiciens|liste des sorts d'arcaniste]].***
 {s:PM0|arcaniste}**Voir les archétypes de l'arcaniste**&emsp;
 <li ID="arcaniste" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypearcaniste}</li>
 </div>{s:MCA}*Certains lanceurs de sorts cherchent à percer les secrets de la magie et à obtenir assez de puissance pour réussir l’impossible. D’autres naissent avec des pouvoirs magiques innés et contrôlent des forces incroyables aussi facilement qu’ils respirent. D’autres encore tentent de fusionner la science des étudiants en ésotérisme avec la puissance naturelle des lanceurs de sorts innés. Ces arcanistes s’efforcent de découvrir les mystérieuses lois qui régissent la magie et de les plier à leurs désirs par leur art et leur volonté. Les arcanistes sont les façonneurs et les artisans des arcanes et aucune magie ne peut se soustraire à leur contrôle.*
@@ -41,7 +41,7 @@ Categories:
 | +0
 | +0
 | +2
-| CLASS="gauche" | [Absorption de sorts](./Arcaniste.md#ABSORPTIONDESORTS), [exploitation d'arcaniste](./Arcaniste.md#EXPLOITATION), [grimoire](./Arcaniste.md#GRIMOIRE), [réservoir arcanique](./Arcaniste.md#RESERVOIRARCANIQUE), [tours de magie](./Arcaniste.md#TOURSDEMAGIE)
+| CLASS="gauche" | [[arcaniste#ABSORPTIONDESORTS|Absorption de sorts]], [[arcaniste#EXPLOITATION|exploitation d'arcaniste]], [[arcaniste#GRIMOIRE|grimoire]], [[arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]], [[arcaniste#TOURSDEMAGIE|tours de magie]]
 | 2
 | -
 | -
@@ -73,7 +73,7 @@ Categories:
 | +1
 | +1
 | +3
-| CLASS="gauche" | [Exploitation d'arcaniste](./Arcaniste.md#EXPLOITATION)
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
 | 4
 | -
 | -
@@ -105,7 +105,7 @@ Categories:
 | +1
 | +1
 | +4
-| CLASS="gauche" | [Exploitation d'arcaniste](./Arcaniste.md#EXPLOITATION)
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
 | 4
 | 3
 | -
@@ -137,7 +137,7 @@ Categories:
 | +2
 | +2
 | +5
-| CLASS="gauche" | [Exploitation d'arcaniste](./Arcaniste.md#EXPLOITATION)
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
 | 4
 | 4
 | 3
@@ -169,7 +169,7 @@ Categories:
 | +3
 | +3
 | +6
-| CLASS="gauche" | [Exploitation d'arcaniste](./Arcaniste.md#EXPLOITATION)
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
 | 4
 | 4
 | 4
@@ -201,7 +201,7 @@ Categories:
 | +3
 | +3
 | +7
-| CLASS="gauche" | [Exploitation d'arcaniste](./Arcaniste.md#EXPLOITATION), [exploitation supérieure](./Arcaniste.md#EXPLOITATIONSUPERIEURE)
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]], [[arcaniste#EXPLOITATIONSUPERIEURE|exploitation supérieure]]
 | 4
 | 4
 | 4
@@ -233,7 +233,7 @@ Categories:
 | +4
 | +4
 | +8
-| CLASS="gauche" | [Exploitation d'arcaniste](./Arcaniste.md#EXPLOITATION)
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
 | 4
 | 4
 | 4
@@ -265,7 +265,7 @@ Categories:
 | +5
 | +5
 | +9
-| CLASS="gauche" | [Exploitation d'arcaniste](./Arcaniste.md#EXPLOITATION)
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
 | 4
 | 4
 | 4
@@ -297,7 +297,7 @@ Categories:
 | +5
 | +5
 | +10
-| CLASS="gauche" | [Exploitation d'arcaniste](./Arcaniste.md#EXPLOITATION)
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
 | 4
 | 4
 | 4
@@ -329,7 +329,7 @@ Categories:
 | +6
 | +6
 | +11
-| CLASS="gauche" | [Exploitation d'arcaniste](./Arcaniste.md#EXPLOITATION)
+| CLASS="gauche" | [[arcaniste#EXPLOITATION|Exploitation d'arcaniste]]
 | 4
 | 4
 | 4
@@ -345,7 +345,7 @@ Categories:
 | +6
 | +6
 | +12
-| CLASS="gauche" | [Suprématie magique](./Arcaniste.md#SUPREMATIEMAGIQUE)
+| CLASS="gauche" | [[arcaniste#SUPREMATIEMAGIQUE|Suprématie magique]]
 | 4
 | 4
 | 4
@@ -361,7 +361,7 @@ Categories:
 
 **Rôle.** Les arcanistes étudient toutes les magies. Ils sont toujours à l’affût de nouvelles formes de magie, pour comprendre comment elles fonctionnent et, dans bien des cas, pour puiser dans leurs énergies afin de satisfaire leurs besoins. On considère souvent les arcanistes comme des gens téméraires qui se préoccupent plus de la puissance magique en elle-même que des conséquences qu’un tel pouvoir provoque.
 
-**Classes mères.** [Ensorceleur](./Ensorceleur.md) et [magicien](./Magicien.md).
+**Classes mères.** [[Ensorceleur]] et [[Magicien]].
 
 **Alignement.** Tous.
 
@@ -370,15 +370,15 @@ Categories:
 **Argent de départ.** 2d6 x 10 po (moyenne 70 po).
 
 ### Compétences de classe
-Les compétences de l'arcaniste sont les suivantes : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Connaissances](./Connaissances.md) (toutes) (Int), [Estimation](./Estimation.md) (Int),  [Linguistique](./Linguistique.md) (Int), [Profession](./Profession.md) (Sag), [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) (Cha)  et [Vol](./Vol.md) (Dex).
+Les compétences de l'arcaniste sont les suivantes : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (toutes) (Int), [[Estimation]] (Int),  [[Linguistique]] (Int), [[Profession]] (Sag), [[Utilisation dobjets magiques|Utilisation d'objets magiques]] (Cha)  et [[Vol]] (Dex).
 
-**Points de compétence par niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 2 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
 Les aptitudes de l'arcaniste sont décrites ci-dessous.
 
 #### Armes et armures
-L’arcaniste est formé au maniement de toutes les armes courantes mais pas au port des armures ni des boucliers. Les armures gênent les mouvements de l’arcaniste et risquent de faire [échouer ses sorts à composante gestuelle](./Caractéristiques des armures.md#RISQUEECHECPROFANE).
+L’arcaniste est formé au maniement de toutes les armes courantes mais pas au port des armures ni des boucliers. Les armures gênent les mouvements de l’arcaniste et risquent de faire [[Caractéristiques des armures#RISQUEECHECPROFANE|échouer ses sorts à composante gestuelle]].
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -432,22 +432,22 @@ L’arcaniste est formé au maniement de toutes les armes courantes mais pas au 
 |}
 </div></div>{s:Reference|SORTS}
 #### Sorts
-L’arcaniste lance des sorts profanes issus de la liste de [Liste des sorts d'ensorceleurs/magiciens](./Liste des sorts densorceleursmagiciens.md). Il doit [préparer ses sorts](./Magie profane.md) à l’avance mais, contrairement aux magiciens, il ne les dépense pas quand il les lance. Il peut lancer n’importe quel sort préparé en consommant un [emplacement de sort](./emplacement de sort.md) du niveau requis, à condition qu’il lui en reste.
+L’arcaniste lance des sorts profanes issus de la liste de [[Liste des sorts densorceleursmagiciens|Liste des sorts d'ensorceleurs/magiciens]]. Il doit [[Magie profane|préparer ses sorts]] à l’avance mais, contrairement aux magiciens, il ne les dépense pas quand il les lance. Il peut lancer n’importe quel sort préparé en consommant un [[emplacement de sort]] du niveau requis, à condition qu’il lui en reste.
 
-Pour apprendre, préparer ou lancer un sort, l’arcaniste doit avoir une valeur d’[Intelligence](./Intelligence.md) au moins égale à 10 + niveau du sort. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) contre les sorts de l’arcaniste est de 10 + niveau du sort + modificateur d’Intelligence de l’arcaniste.
+Pour apprendre, préparer ou lancer un sort, l’arcaniste doit avoir une valeur d’[[Intelligence]] au moins égale à 10 + niveau du sort. Le [[DD]] du [[jet de sauvegarde]] contre les sorts de l’arcaniste est de 10 + niveau du sort + modificateur d’Intelligence de l’arcaniste.
 
 Chaque jour, un arcaniste ne peut lancer qu’un nombre limité de sorts de chaque niveau. Le nombre de sorts disponibles chaque jour est indiqué dans la table ci-dessus.
 
-De plus, il reçoit des [sorts supplémentaires](./Caractéristiques.md#TABLEAUCARACTERISTIQUES) en fonction de sa valeur d’[Intelligence](./Intelligence.md).
+De plus, il reçoit des [[Caractéristiques#TABLEAUCARACTERISTIQUES|sorts supplémentaires]] en fonction de sa valeur d’[[Intelligence]].
 
 L’arcaniste peut connaître autant de sorts qu’il veut mais, chaque jour, il ne peut en préparer qu’un nombre limité. Au
-niveau 1, il peut, chaque jour, préparer quatre sorts de niveau 0 et deux de niveau 1. À chaque fois que l’arcaniste gagne un niveau dans sa classe, il peut préparer un peu plus de sorts chaque jour, comme indiqué dans la table [des sorts journaliers de l'arcaniste](./Arcaniste.md#TABLEARCANISTE). Contrairement au nombre de sorts que l’arcaniste lance quotidiennement, le nombre de sorts qu’il prépare chaque jour ne dépend pas de son Intelligence.
+niveau 1, il peut, chaque jour, préparer quatre sorts de niveau 0 et deux de niveau 1. À chaque fois que l’arcaniste gagne un niveau dans sa classe, il peut préparer un peu plus de sorts chaque jour, comme indiqué dans la table [[arcaniste#TABLEARCANISTE|des sorts journaliers de l'arcaniste]]. Contrairement au nombre de sorts que l’arcaniste lance quotidiennement, le nombre de sorts qu’il prépare chaque jour ne dépend pas de son Intelligence.
 
-Chez l’arcaniste, les [dons](./Dons.md) et effets qui modifient habituellement le nombre de sorts connus modifient à la place le nombre de sorts préparés chaque jour.
+Chez l’arcaniste, les [[dons]] et effets qui modifient habituellement le nombre de sorts connus modifient à la place le nombre de sorts préparés chaque jour.
 
 L’arcaniste doit choisir et préparer ses sorts à l’avance, en se reposant pendant 8 heures et en consacrant 1 heure à l’étude de son grimoire. C’est lors de cette étude qu’il décide quels sorts préparer et qu’il réinitialise le nombre d’emplacements de sorts disponibles pour la journée.
 
-L’arcaniste peut appliquer les [dons](./Dons.md) de métamagie qu’il maîtrise à ses sorts préparés quand il les lance, comme le ferait un [ensorceleur](./Ensorceleur.md), avec la même augmentation de la durée d’incantation (voir Sorts spontanés et [dons de métamagie](./Dons.md#DONMETAMAGIE)). Cependant, il peut aussi préparer un sort avec un don de métamagie connu et le lancer sans augmentation de la durée d’incantation, comme le ferait un magicien. Il ne peut pas combiner ces deux options (un sort préparé avec un don de métamagie ne peut pas être modifié par un don de métamagie au moment de l’incantation, à moins que l’arcaniste ne dispose de l’[exploitation d’arcaniste métamixage](./Exploitations.md#METAMIXAGE) ).
+L’arcaniste peut appliquer les [[dons]] de métamagie qu’il maîtrise à ses sorts préparés quand il les lance, comme le ferait un [[ensorceleur]], avec la même augmentation de la durée d’incantation (voir Sorts spontanés et [[Dons#DONMETAMAGIE|dons de métamagie]]). Cependant, il peut aussi préparer un sort avec un don de métamagie connu et le lancer sans augmentation de la durée d’incantation, comme le ferait un magicien. Il ne peut pas combiner ces deux options (un sort préparé avec un don de métamagie ne peut pas être modifié par un don de métamagie au moment de l’incantation, à moins que l’arcaniste ne dispose de l’[[Exploitations#METAMIXAGE|exploitation d’arcaniste métamixage]] ).
 
 {s:Reference|TOURDEMAGIE}{s:Reference|TOURSDEMAGIE}
 #### Tour de magie
@@ -457,13 +457,13 @@ Comme les autres sorts, ceux-ci ne sont pas dépensés une fois lancés.
 
 {s:Reference|GRIMOIRE}
 #### Grimoire
-L’arcaniste doit étudier son grimoire chaque jour pour préparer ses sorts. Il ne peut pas préparer un sort qui ne figure pas dedans, hormis *[lecture de la magie](./Lecture de la magie.md)* que tous les arcanistes savent préparer de mémoire.
+L’arcaniste doit étudier son grimoire chaque jour pour préparer ses sorts. Il ne peut pas préparer un sort qui ne figure pas dedans, hormis *[[lecture de la magie]]* que tous les arcanistes savent préparer de mémoire.
 
-L’arcaniste commence le jeu avec un grimoire contenant tous les sorts d’ensorceleur/magicien de niveau 0 et trois sorts de niveau 1 de son choix. Il rajoute un nombre de sorts de niveau 1 égal à son modificateur d’[Intelligence](./Intelligence.md).
+L’arcaniste commence le jeu avec un grimoire contenant tous les sorts d’ensorceleur/magicien de niveau 0 et trois sorts de niveau 1 de son choix. Il rajoute un nombre de sorts de niveau 1 égal à son modificateur d’[[Intelligence]].
 
 À chaque fois qu’il gagne un niveau dans la classe d’arcaniste, il apprend deux nouveaux sorts (d’un niveau qui lui permet de les lancer, en tenant compte de son niveau de classe nouvellement augmenté).
 
-Il peut ajouter des sorts issus du grimoire d’autres magiciens ou d'autres arcanistes au sien quand il le désire (voir section du wiki [dédiée à ce sujet](./Magie profane.md#Ajout_de_sorts_au_grimoire_1)).
+Il peut ajouter des sorts issus du grimoire d’autres magiciens ou d'autres arcanistes au sien quand il le désire (voir section du wiki [[Magie profane#Ajout_de_sorts_au_grimoire_1|dédiée à ce sujet]]).
 
 {s:Reference|RESERVOIRARCANIQUE}
 #### Réservoir arcanique
@@ -471,7 +471,7 @@ L’arcaniste dispose d’une réserve d’énergie magique innée dans laquelle
 
 Chaque jour, le réservoir se remplit de 3 +1/2 niveau de l’arcaniste points d’énergie magique brute quand l’arcaniste prépare ses sorts. Les points de la veille sont perdus. Il peut récupérer des points grâce à l’aptitude de classe absorption de sorts et grâce à certaines exploitations d’arcaniste. Le réservoir arcanique est incapable de contenir plus de points que le maximum indiqué précédemment. Les points en excès sont perdus.
 
-Les points du réservoir arcanique servent à alimenter nombre des pouvoirs d’arcaniste. De plus, l’arcaniste peut dépenser un point de son réservoir, par une [action libre](./Action libre.md), à chaque fois qu’il lance un sort d’arcaniste. Dans ce cas, il augmente son [niveau de lanceur de sorts](./NLS.md) de 1 ou le DD du sort de 1. Il ne peut pas dépenser plus d’un point du réservoir pour améliorer ainsi un même sort.
+Les points du réservoir arcanique servent à alimenter nombre des pouvoirs d’arcaniste. De plus, l’arcaniste peut dépenser un point de son réservoir, par une [[action libre]], à chaque fois qu’il lance un sort d’arcaniste. Dans ce cas, il augmente son [[NLS|niveau de lanceur de sorts]] de 1 ou le DD du sort de 1. Il ne peut pas dépenser plus d’un point du réservoir pour améliorer ainsi un même sort.
 
 {s:Reference|EXPLOITATION}
 #### Exploitation d'arcaniste
@@ -481,20 +481,20 @@ Au niveau 1 puis tous les niveaux impairs, l’arcaniste apprend une nouvelle ex
 
 Il ne peut pas choisir une même exploitation à deux reprises et ne peut pas changer celles qu’il a choisies. La plupart des exploitations fonctionnent en dépensant des points du réservoir arcanique.
 
-Sauf indication contraire, le [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) contre les exploitations arcaniques est de 10 +1/2 niveau de l’arcaniste + modificateur de [Charisme](./Charisme.md) de l’arcaniste.
+Sauf indication contraire, le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] contre les exploitations arcaniques est de 10 +1/2 niveau de l’arcaniste + modificateur de [[Charisme]] de l’arcaniste.
 
-*Voir la [liste des exploitations d'arcaniste](./Exploitations.md).*
+*Voir la [[Exploitations|liste des exploitations d'arcaniste]].*
 
 {s:Reference|ABSORPTIONDESORTS}
 #### Absorption de sorts (Sur)
-Au niveau 1, l’arcaniste peut dépenser un emplacement de sort d’arcaniste disponible par une [action de mouvement](./Action de mouvement.md). Il peut utiliser ce pouvoir un nombre de fois par jour égal à son modificateur de [Charisme](./Charisme.md) (minimum 1). L’emplacement est alors indisponible pour le reste de la journée, comme si l’arcaniste s’en était servi pour lancer un sort. L’arcaniste ajoute alors à son réservoir arcanique un nombre de points égal au niveau de l’emplacement du sort absorbé. Il ne peut pas utiliser de tours de magie (sorts de niveau 0) pour utiliser cette aptitude. Les points qui dépassent la limite autorisée pour le réservoir sont perdus.
+Au niveau 1, l’arcaniste peut dépenser un emplacement de sort d’arcaniste disponible par une [[action de mouvement]]. Il peut utiliser ce pouvoir un nombre de fois par jour égal à son modificateur de [[Charisme]] (minimum 1). L’emplacement est alors indisponible pour le reste de la journée, comme si l’arcaniste s’en était servi pour lancer un sort. L’arcaniste ajoute alors à son réservoir arcanique un nombre de points égal au niveau de l’emplacement du sort absorbé. Il ne peut pas utiliser de tours de magie (sorts de niveau 0) pour utiliser cette aptitude. Les points qui dépassent la limite autorisée pour le réservoir sont perdus.
 
 {s:Reference|EXPLOITATIONSUPERIEURE}
 #### Exploitation supérieure
 À partir du niveau 11 puis tous les deux niveaux, l’arcaniste peut choisir une exploitation supérieure au lieu d’une exploitation d’arcaniste.
 
-*Voir la [liste des exploitations supérieures](./Exploitations.md#EXPLOITATIONSUPERIEURE).*
+*Voir la [[Exploitations#EXPLOITATIONSUPERIEURE|liste des exploitations supérieures]].*
 
 {s:Reference|SUPREMATIEMAGIQUE}
 #### Suprématie magique (Sur)
-Au niveau 20, l’arcaniste apprend à convertir son [réservoir arcanique](./Arcaniste.md#RESERVOIRARCANIQUE) en sorts et inversement. Il peut lancer un sort préparé en dépensant un nombre de points de réservoir arcanique égal à 1 + niveau du sort à lancer au lieu de dépenser un emplacement de sort. Quand il lance un sort de cette manière, il considère qu’il a deux niveaux de lanceur de sorts de plus qu’en réalité et le [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md)  associés au sort augmente de 2. Il ne peut pas dépenser d’autres points de réservoir arcanique pour améliorer un sort ainsi lancé.
+Au niveau 20, l’arcaniste apprend à convertir son [[Arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]] en sorts et inversement. Il peut lancer un sort préparé en dépensant un nombre de points de réservoir arcanique égal à 1 + niveau du sort à lancer au lieu de dépenser un emplacement de sort. Quand il lance un sort de cette manière, il considère qu’il a deux niveaux de lanceur de sorts de plus qu’en réalité et le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]]  associés au sort augmente de 2. Il ne peut pas dépenser d’autres points de réservoir arcanique pour améliorer un sort ainsi lancé.

@@ -15,8 +15,8 @@ Categories:
 {s:pucem|Créature magique|Souterrain|Tempéré}
 {s:BDtexte|*Source : Bestiaire 5 p.73*}
 {s:BDtexte|**PX** 2 400}
-{s:BDtexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDtexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +11}
+{s:BDtexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDtexte|**Init** +5 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +11}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 21, contact 10, pris au dépourvu 20 (Dex +1, naturelle +11, taille -1)}
 {s:BDtexte|**pv** 76 (8d10+32)}
@@ -29,16 +29,16 @@ Categories:
 {s:BDtexte|**Attaques spéciales** éclat de cytillesh, poison}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 23, **Dex** 13, **Con** 18, **Int** 6, **Sag** 10, **Cha** 2}
-{s:BDtexte|**BBA** +8, **BMO** +15, **DMD** 26 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDtexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (éclat de cytillesh), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDtexte|**Compétences** [Escalade](./Escalade.md) +21, [Perception](./Perception.md) +11 ; **Modificateurs raciaux** +4 en Perception}
+{s:BDtexte|**BBA** +8, **BMO** +15, **DMD** 26 ([[croc-en-jambe]] impossible)}
+{s:BDtexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaque spéciale renforcée]] (éclat de cytillesh), [[Science de linitiative|Science de l’initiative]]}
+{s:BDtexte|**Compétences** [[Escalade]] +21, [[Perception]] +11 ; **Modificateurs raciaux** +4 en Perception}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** sous terre}
 {s:BDtexte|**Organisation sociale** solitaire, couple ou colonie (3-6)}
 {s:BDtexte|**Trésor** aucun}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Éclat de cytillesh (Sur).** Une fois par jour, un cytillipattes peut faire en sorte que les plaques de moisissure qui poussent sur son corps produisent un brusque éclat de lumière bleue qui émet une lumière vive dans un rayon de 6 mètres et augmente le niveau de [luminosité](./Exploration.md) d’une catégorie sur 6 mètres au-delà (considérez ce pouvoir comme un sort de *[lumière](./Lumière.md)* de niveau 4). Les créatures dans la zone d’effet de 12 mètres de rayon doivent chacune réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 22. Celles dans la zone de lumière vive de 6 mètres qui ratent leur [jet de sauvegarde](./JDS.md) sont [étourdies](./Étourdi.md) pendant 1d4 [rounds](./round.md). Les créatures dans les 6 mètres au-delà qui ratent leur jet de sauvegarde sont [confuses](./Confus.md) pendant 1d2 rounds à la place. Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Constitution](./Constitution.md) et inclut un bonus racial de +2.}
-{s:BDtexte|**Poison (Ext).** Morsure — blessure ; *JdS* [Vig](./Vigueur.md) [DD](./DD.md) 20 ; *fréquence* 1/[round](./round.md) pendant 6 rounds ; *effet* 1d3 [Dex](./Dex.md), [hébété](./Hébété.md) et les effets de *[trou de mémoire](./Trou de mémoire.md)* ; *guérison* 1 réussite. Le DD du [jet de sauvegarde](./JDS.md) est basé sur la [Constitution](./Constitution.md) et inclut un bonus racial de +2.}
+{s:BDtexte|**Éclat de cytillesh (Sur).** Une fois par jour, un cytillipattes peut faire en sorte que les plaques de moisissure qui poussent sur son corps produisent un brusque éclat de lumière bleue qui émet une lumière vive dans un rayon de 6 mètres et augmente le niveau de [[Exploration|luminosité]] d’une catégorie sur 6 mètres au-delà (considérez ce pouvoir comme un sort de *[[lumière]]* de niveau 4). Les créatures dans la zone d’effet de 12 mètres de rayon doivent chacune réussir un jet de [[Volonté]] [[DD]] 22. Celles dans la zone de lumière vive de 6 mètres qui ratent leur [[jds|jet de sauvegarde]] sont [[étourdi|étourdies]] pendant 1d4 [[round|rounds]]. Les créatures dans les 6 mètres au-delà qui ratent leur jet de sauvegarde sont [[confus|confuses]] pendant 1d2 rounds à la place. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]] et inclut un bonus racial de +2.}
+{s:BDtexte|**Poison (Ext).** Morsure — blessure ; *JdS* [[Vigueur|Vig]] [[DD]] 20 ; *fréquence* 1/[[round]] pendant 6 rounds ; *effet* 1d3 [[Dex]], [[hébété]] et les effets de *[[trou de mémoire]]* ; *guérison* 1 réussite. Le DD du [[jds|jet de sauvegarde]] est basé sur la [[Constitution]] et inclut un bonus racial de +2.}
 </div>
 </td>
 <td>

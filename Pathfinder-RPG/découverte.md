@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Alchimiste#DECOUVERTES
 ---
 
->>> [Alchimiste#DECOUVERTES](./Alchimiste.md#DECOUVERTES)
+>>> [[Alchimiste#DECOUVERTES]]

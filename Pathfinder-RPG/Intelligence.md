@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques#INTELLIGENCE
 ---
 
->>> [Caractéristiques#INTELLIGENCE](./Caractéristiques.md#INTELLIGENCE)
+>>> [[Caractéristiques#INTELLIGENCE]]

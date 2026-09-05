@@ -8,10 +8,10 @@ LastModified: 2014-10-23 17:56
 
 <b>Accès :</b> Mon Personnage/Onglet Autres/Sorts
 
-[My Hero|Retour racine du Manuel]</div>
+[[My Hero|Retour racine du Manuel]]</div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/Slide62.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide63.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide76.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide78.jpg|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MonPerso|Mon Personnage]
+<OL><LI>Retour vers [[MH-MonPerso|Mon Personnage]]
 <LI>Tri de la liste des sorts disponibles 7). Lorsque le bouton affiche un « A », le tri se fait alphabétiquement. Lorsque le bouton affiche un flocon le tri se fait par registre. Lorsque le bouton affiche un chapeau d’étudiant le tri se fait par école de magie.
 <LI>Ajout d’un sort agrémenté d’un don de métamagie.
 <LI>Repos. Tous les sorts utilisés ne le sont plus.

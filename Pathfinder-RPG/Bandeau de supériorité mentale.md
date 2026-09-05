@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bandeau de supériorité mentale|}
-**Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 16 ; **Emplacement** [front](./Objets merveilleux portés sur le front.md) ; **Prix** 16 000 po (+2), 64 000 po (+4) ou 144 000 po (+6) ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] puissante ; **NLS** 16 ; **Emplacement** [[Objets merveilleux portés sur le front|front]] ; **Prix** 16 000 po (+2), 64 000 po (+4) ou 144 000 po (+6) ; **Poids** 0,5 kg
 (((Description)))
 Ce bandeau est orné de nombreuses gemmes blanches. Son porteur voit la valeur de toutes ses caractéristiques mentales (Intelligence, Sagesse et Charisme) augmenter par le biais d’un bonus d’altération de +2, +4 ou +6 (selon le modèle). Ce bonus d’altération permet d’obtenir des rangs de compétences supplémentaires, comme le bandeau d’Intelligence. Ce bonus est temporaire pendant les vingt-quatre premières heures où le personnage porte le bandeau.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[splendeur de l’aigle](./Splendeur de laigle.md)*, *[ruse du renard](./Ruse du renard.md)* et *[sagesse du hibou](./Sagesse du hibou.md)* ; **Coût** 8 000 po (+2), 32 000 po (+4) ou 77 000 po (+6)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[splendeur de laigle|splendeur de l’aigle]]*, *[[ruse du renard]]* et *[[sagesse du hibou]]* ; **Coût** 8 000 po (+2), 32 000 po (+4) ou 77 000 po (+6)
 </div>

@@ -14,9 +14,9 @@ Categories:
 {s:pucem|Aberration|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 16*}
 - 25 600 PX
-- [Aberration](./type Aberration.md) ([sous-type mythique](./sous-type mythique.md)) de taille Gig, LN
-- **Init **+12<sup>M</sup> ; **Sens** *[détection de la scrutation](./Détection de la scrutation.md)*, vision à 360°, vision dans la brume, [vision dans le noir](./vision dans le noir.md) 18 m, [vision dans les ténèbres](./Vision dans les ténèbres.md), vision illimitée, *[vision lucide](./Vision lucide.md)*, *[vision magique](./Vision magique.md)* ; [Perception](./Perception.md) +29
-- **Aura **[présence terrifiante](./Présence terrifiante.md) (12 m, DD 16)
+- [[type aberration|Aberration]] ([[sous-type mythique]]) de taille Gig, LN
+- **Init **+12<sup>M</sup> ; **Sens** *[[détection de la scrutation]]*, vision à 360°, vision dans la brume, [[vision dans le noir]] 18 m, [[vision dans les ténèbres]], vision illimitée, *[[vision lucide]]*, *[[vision magique]]* ; [[Perception]] +29
+- **Aura **[[présence terrifiante]] (12 m, DD 16)
 (((Défense)))
 - **CA **30, contact 12, pris au dépourvu 28 (Dex +2, intuition +4, naturelle +18, taille -4)
 - **pv **184 (13d8+126)
@@ -28,16 +28,16 @@ Categories:
 - **Corps à corps** 2 griffes, +20 (3d6+14 plus étreinte) et morsure, +19 (2d8+14)
 - **Distance **rocher, +8 (3d6+14)
 - **Espace **6 m ; **Allonge **6 m
-- **Attaque spéciale** arracher les yeux, [constriction](./constriction.md) (3d6+14), coup précis, [éventration](./Éventration.md) (2 griffes, 3d6+21), [lancer de rochers](./Lancer de rochers.md) (60 m), pouvoir mythique (6/jour, montée en puissance +1d8), regard fascinant
+- **Attaque spéciale** arracher les yeux, [[constriction]] (3d6+14), coup précis, [[éventration]] (2 griffes, 3d6+21), [[lancer de rochers]] (60 m), pouvoir mythique (6/jour, montée en puissance +1d8), regard fascinant
 - **Pouvoirs magiques** (**NLS** 14 ; concentration +20)
-  - *Constant *— *[détection de la scrutation](./Détection de la scrutation.md)*, *[vision lucide](./Vision lucide.md)*, *[vision magique](./Vision magique.md)*
-  - *À volonté* — *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*, *[coup au but](./Coup au but.md)*, *[oeil du mage](./oeil-du-mage.md)*, *[rapport](./Rapport.md)*
-  - *3/jour* — *[coup au but](./Coup au but.md)* à incantation rapide
+  - *Constant *— *[[détection de la scrutation]]*, *[[vision lucide]]*, *[[vision magique]]*
+  - *À volonté* — *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]*, *[[coup au but]]*, *[[oeil du mage]]*, *[[rapport]]*
+  - *3/jour* — *[[coup au but]]* à incantation rapide
 (((Statistiques)))
 - **For **39, **Dex **14, **Con **23, **Int **13, **Sag **12, **Cha **10
 - **BBA **+9 ; **BMO **+27 (+31 lutte) ; **DMD **43
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaques réflexes](./Attaques réflexes.md)<sup>M</sup>, [Force intimidante](./Force intimidante.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (coup au but), [Science de l’initiative](./Science de linitiative.md)<sup>M</sup>, [Talent](./Talent.md) (Perception), [Vigilance](./Vigilance.md)<sup>M</sup>
-- **Compétences **[Connaissances](./Connaissances.md) (histoire) +10, [Dressage](./Dressage.md) +6, [Escalade](./Escalade.md) +24, [Intimidation](./Intimidation.md) +30, [Natation](./Natation.md) +24, [Perception](./Perception.md) +29 (+37 aux tests basés sur la vision), [Psychologie](./Psychologie.md) +23 ; Modificateurs raciaux +8 aux tests de Perception basés sur la vision 
+- **Dons** [[Arme de prédilection]] (griffe), [[Attaques réflexes]]<sup>M</sup>, [[Force intimidante]], [[Pouvoir magique rapide]] (coup au but), [[science de linitiative|Science de l’initiative]]<sup>M</sup>, [[Talent]] (Perception), [[Vigilance]]<sup>M</sup>
+- **Compétences **[[Connaissances]] (histoire) +10, [[Dressage]] +6, [[Escalade]] +24, [[Intimidation]] +30, [[Natation]] +24, [[Perception]] +29 (+37 aux tests basés sur la vision), [[Psychologie]] +23 ; Modificateurs raciaux +8 aux tests de Perception basés sur la vision 
 - **Langues **aklo, céleste, commun
 (((Écologie)))
 - **Environnement **terre ferme
@@ -55,7 +55,7 @@ Categories:
 </td><td><div>
 *Ce géant difforme grouille de cornes, de tentacules boursouflés de tumeurs, de pustules répugnantes et d’étranges yeux qui ne cillent pas.*
 
-L’argus est une antique créature liée aux [titans](./Titan.md) (Bestiaire 2 Pathfinder JdR p.270-271) qu’un dieu a transformée en  sentinelle vigilante et infatigable, souvent pour la punir d’un affront ou d’un acte de rébellion. Son immonde corps difforme abrite un cœur solitaire qui cherche la musique et la beauté pour obtenir un peu de réconfort lors de son éternelle vigie isolée. Il peut entamer une conversation pacifique avec ses visiteurs s’ils lui promettent de lui chanter quelque chose ou de lui raconter une histoire (s’il est persuadé qu’ils ne vont pas tenter de lui faire du mal ou de voler ce qu’il garde). L’argus se met très vite en colère si on l’insulte ou si on se moque de lui. Le cas échéant, il se débarrasse bien vite des importuns pour retourner à ses rêveries mélancoliques. Un argus mesure sept mètres cinquante de haut pour neuf tonnes.
+L’argus est une antique créature liée aux [[Titan|titans]] (Bestiaire 2 Pathfinder JdR p.270-271) qu’un dieu a transformée en  sentinelle vigilante et infatigable, souvent pour la punir d’un affront ou d’un acte de rébellion. Son immonde corps difforme abrite un cœur solitaire qui cherche la musique et la beauté pour obtenir un peu de réconfort lors de son éternelle vigie isolée. Il peut entamer une conversation pacifique avec ses visiteurs s’ils lui promettent de lui chanter quelque chose ou de lui raconter une histoire (s’il est persuadé qu’ils ne vont pas tenter de lui faire du mal ou de voler ce qu’il garde). L’argus se met très vite en colère si on l’insulte ou si on se moque de lui. Le cas échéant, il se débarrasse bien vite des importuns pour retourner à ses rêveries mélancoliques. Un argus mesure sept mètres cinquante de haut pour neuf tonnes.
 
 
 </div></td></tr></table>

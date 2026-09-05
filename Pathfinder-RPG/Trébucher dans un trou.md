@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Invocation](./Invocation.md) ([création](./branche création.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1  
+**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (une pelle miniature qui coûte 10 po)  
+**Composantes** [[Composantes|V, G, F]] (une pelle miniature qui coûte 10 po)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** voir texte  
 
-**Durée** 1 [round](./round.md) + 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]] + 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** non
 
-Le personnage crée un trou extradimensionnel d'une taille idéale pour faire tomber toute personne qui met le pied dedans. Ce trou occupe une unique case de 1,50 mètre (1 {s:c}) avec une profondeur de 15 centimètres. Toute créature qui occupe la case au moment où le personnage lance le sort ou qui marche ensuite dedans doit réussir un jet de [Réflexes](./Réflexes.md) pour ne pas [tomber de tout son long](./À terre.md) dans une case adjacente et subir 1d6 points de dégâts. Une créature qui réussit son [jet de sauvegarde](./jet de sauvegarde.md) trébuche tout de même et subit donc un malus de -1 à tous ses jets et tests pendant 1 [round](./round.md). Le sort n'a aucun effet sur les créatures adjacentes à la case qui contient le trou.
+Le personnage crée un trou extradimensionnel d'une taille idéale pour faire tomber toute personne qui met le pied dedans. Ce trou occupe une unique case de 1,50 mètre (1 {s:c}) avec une profondeur de 15 centimètres. Toute créature qui occupe la case au moment où le personnage lance le sort ou qui marche ensuite dedans doit réussir un jet de [[Réflexes]] pour ne pas [[à terre|tomber de tout son long]] dans une case adjacente et subir 1d6 points de dégâts. Une créature qui réussit son [[jet de sauvegarde]] trébuche tout de même et subit donc un malus de -1 à tous ses jets et tests pendant 1 [[round]]. Le sort n'a aucun effet sur les créatures adjacentes à la case qui contient le trou.

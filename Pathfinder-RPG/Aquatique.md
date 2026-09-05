@@ -14,7 +14,7 @@ Categories:
 {s:BDTexte|*Source : La mer Intérieure p.307*}
 {s:BDTexte|**PX** 135}
 Aquatique guerrier 1
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([aquatique](./sous-type aquatique.md)) de taille M, N}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type aquatique|aquatique]]) de taille M, N}
 {s:BDTexte|**Init** +1 ; **Sens** Perception +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 11, pris au dépourvu 10 (+1 Dex)}
@@ -28,17 +28,17 @@ Aquatique guerrier 1
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 13, **Con** 13, **Int** 9, **Sag** 8, **Cha** 10}
 {s:BDTexte|**BBA** +1 ; **BMO** +2 ; **DMD** 13}
-{s:BDTexte|**Dons** [Talent](./Talent.md) (Perception)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +13,Perception +2}
+{s:BDTexte|**Dons** [[Talent]] (Perception)}
+{s:BDTexte|**Compétences** [[Natation]] +13,Perception +2}
 {s:BDTexte|**Langues** aboleth, commun}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie (capacité).md)}
+{s:BDTexte|**Particularités** [[Amphibie (capacité)|amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans tempérés}
-{s:BDTexte|**Organisation** solitaire, patrouille (2-6), groupe (6-10 plus un lieutenant de niveau 3), compagnie (11-60 plus 3 lieutenants de niveau 3, 2 commandants de niveau 5, 1 amiral de niveau 7 et 3-12 [calmars](./Calmar.md)}
-{s:BDTexte|**Trésor** équipement de PNJ ([trident](./trident (arme).md), [arbalète légère](./Arbalète légère (arme).md) avec 10 carreaux, autres trésors)}
+{s:BDTexte|**Organisation** solitaire, patrouille (2-6), groupe (6-10 plus un lieutenant de niveau 3), compagnie (11-60 plus 3 lieutenants de niveau 3, 2 commandants de niveau 5, 1 amiral de niveau 7 et 3-12 [[Calmar|calmars]]}
+{s:BDTexte|**Trésor** équipement de PNJ ([[trident (arme)|trident]], [[arbalète légère (arme)|arbalète légère]] avec 10 carreaux, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Dépendant de l’eau (Ext).** Le corps de l’aquatique a besoin de s’immerger constamment dans de l’eau douce ou salée. Les aquatiques qui restent plus d’une journée sans s’immerger risquent une défaillance viscérale, un douloureux craquèlement de la peau et finissent par mourir dans les 4d6 heures qui suivent.}
-{s:BDTexte|**Résistance aux enchantements (Ext).** Les aquatiques bénéficient d’un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) contre les sorts et effets d’enchantement qui ne sont pas d’origine aboleth, mais ils subissent un malus de -2 à ces mêmes jets si un aboleth est à l’origine du sort ou de l’effet.}
+{s:BDTexte|**Résistance aux enchantements (Ext).** Les aquatiques bénéficient d’un bonus racial de +2 aux [[jds|jets de sauvegarde]] contre les sorts et effets d’enchantement qui ne sont pas d’origine aboleth, mais ils subissent un malus de -2 à ces mêmes jets si un aboleth est à l’origine du sort ou de l’effet.}
 </div></td>
 <td><div>{s:cs}*Un homme séduisant, bien proportionné, sort des vagues. De chaque côté de son cou, des branchies se contractent.*
 
@@ -51,7 +51,7 @@ Les aquatiques sont définis par leur niveau de classe et non leurs dés de vie.
 - **+2 Constitution, +2 Charisme, -2 Sagesse.** Les aquatiques sont vigoureux et séduisants mais à force d’être dominés par les aboleths, leur volonté s’est affaiblie.
 - **Amphibies.** Les aquatiques sont de sous-type aquatique mais ils peuvent respirer sur terre comme dans l’eau. En revanche, ils préfèrent éviter de passer trop de temps sur terre car leur peau se dessèche rapidement.
 - **Résistance à l’enchantement.** Voir ci-contre.
-- **Serviteur.** Les aquatiques servent les sombres et énigmatiques desseins des mystérieux aboleths mais, à moins qu’ils n’aillent à l’encontre des ordres de leurs maîtres (dont, bien souvent, ils ignorent tout car les aboleths les ont cachés en eux sous forme de souvenirs oubliés déclenchés par des événements clefs), ils sont libres de faire ce qu’ils veulent. Dans une campagne, c’est le [MJ](./MJ.md) qui décide de ces ordres, ce qui implique que le joueur lui cède une part de contrôle sur le personnage pour servir au mieux l’histoire de la campagne.
+- **Serviteur.** Les aquatiques servent les sombres et énigmatiques desseins des mystérieux aboleths mais, à moins qu’ils n’aillent à l’encontre des ordres de leurs maîtres (dont, bien souvent, ils ignorent tout car les aboleths les ont cachés en eux sous forme de souvenirs oubliés déclenchés par des événements clefs), ils sont libres de faire ce qu’ils veulent. Dans une campagne, c’est le [[MJ]] qui décide de ces ordres, ce qui implique que le joueur lui cède une part de contrôle sur le personnage pour servir au mieux l’histoire de la campagne.
 - **Dépendant de l’eau.** Voir ci-contre.
 - **Langues.** En début de jeu, un aquatique parle le commun et l’aboleth. Ceux qui possèdent une valeur d’Intelligence supérieure peuvent également parler l’aklo, l’aquatique, l’azlant, le draconique, l’elfique ou le sahuagin.
 </div></td></tr></table>

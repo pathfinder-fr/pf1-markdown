@@ -9,12 +9,12 @@ Categories:
 
 *Le personnage choisit une arme de guerre et sait se battre avec.*
 
-**Catégorie.** [combat](./Dons.md#COMBAT)
+**Catégorie.** [[Dons#COMBAT|combat]]
 
-**Avantage.** Lorsqu’il utilise l’[arme de guerre](./arme de guerre.md) choisie, le personnage fait ses [jets d’attaque](./jet dattaque.md) normalement.
+**Avantage.** Lorsqu’il utilise l’[[arme de guerre]] choisie, le personnage fait ses [[jet dattaque|jets d’attaque]] normalement.
 
-**Normal.** Un personnage qui utilise une arme sans être formé à son maniement subit un malus de -4 aux [jets d’attaque](./jet dattaque.md).
+**Normal.** Un personnage qui utilise une arme sans être formé à son maniement subit un malus de -4 aux [[jet dattaque|jets d’attaque]].
 
-**Spécial.** Les [barbares](./Barbare.md), [guerriers](./Guerrier.md), [paladins](./Paladin.md) et [rôdeurs](./Rôdeur.md) sont formés au maniement de toutes les armes de guerre. Ils n’ont pas besoin de choisir ce don.
+**Spécial.** Les [[barbare|barbares]], [[guerrier|guerriers]], [[paladin|paladins]] et [[rôdeur|rôdeurs]] sont formés au maniement de toutes les armes de guerre. Ils n’ont pas besoin de choisir ce don.
 
-Ce don peut être choisi plusieurs fois, mais ses effets ne se cumulent pas. Il s’applique à chaque fois à une nouvelle [arme de guerre](./arme de guerre.md).
+Ce don peut être choisi plusieurs fois, mais ses effets ne se cumulent pas. Il s’applique à chaque fois à une nouvelle [[arme de guerre]].

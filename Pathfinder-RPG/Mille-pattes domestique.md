@@ -10,8 +10,8 @@ LastModified: 2015-02-24 20:40
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Art de la Magie p.119*}
 {s:BDTexte|**XP** 50}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille TP, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] de taille TP, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 15, pris au dépourvu 14 (Dex +3, naturelle +2, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -24,14 +24,14 @@ LastModified: 2015-02-24 20:40
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 17, **Con** 10, **Int** -, **Sag** 10, **Cha** 2}
 {s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 6 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +19, [Escalade](./Escalade.md) +11, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md), +4 en [Escalade](./Escalade.md), +8 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>B</sup>}
+{s:BDTexte|**Compétences** [[Discrétion]] +19, [[Escalade]] +11, [[Perception]] +4 ; **Modificateurs raciaux** +8 en [[Discrétion]], +4 en [[Escalade]], +8 en [[Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** déserts ou souterrains chauds ou tempérés}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3-6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Poison (Ex).** Morsure-blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md)10 ; *fréquence* 1/round pendant 2 rounds ; *effet* [hébétement](./Hébété.md) 1 round ; *guérison* 1 JS réussi.}
+{s:BDTexte|**Poison (Ex).** Morsure-blessure ; *JS* [[Vigueur]] [[DD]]10 ; *fréquence* 1/round pendant 2 rounds ; *effet* [[hébété|hébétement]] 1 round ; *guérison* 1 JS réussi.}
 </div>
 </td><td><div>
 Les mille-pattes domestiques vivent presque n’importe où et possèdent entre 20 et 300 pattes. Ils ont une morsure empoisonnée et peuvent hébéter les imprudents.

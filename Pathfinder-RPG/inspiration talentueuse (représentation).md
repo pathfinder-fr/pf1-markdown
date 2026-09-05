@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Représentations#INSPIRATIONTALENTUEUSE
 ---
 
->>> [Représentations#INSPIRATIONTALENTUEUSE](./Représentations.md#INSPIRATIONTALENTUEUSE)
+>>> [[Représentations#INSPIRATIONTALENTUEUSE]]

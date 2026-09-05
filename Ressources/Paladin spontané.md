@@ -8,29 +8,29 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Vers la [règle officielle](./../Pathfinder-RPG/Paladin.md)</ul>
-<ul>Vers la [http://www.pathfinder-fr.org/Forum/yaf_postsm108986_-regle-maison.aspx#post108986|discussion] </ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Vers la [[Pathfinder-RPG.paladin|règle officielle]]</ul>
+<ul>Vers la [discussion](http://www.pathfinder-fr.org/Forum/yaf_postsm108986_-regle-maison.aspx#post108986) </ul>
 
 </div>
 
 
-Le paladin empyréen est une variante de la classe de [paladin](./../Pathfinder-RPG/Paladin.md) qui renonce à la grande versatilité des sorts offerts par cette classe contre un plus grand nombre de sorts par jour. Les prières du paladin empyréen sont plus spontanées et moins formelles que celles des autres [paladins](./../Pathfinder-RPG/Paladin.md).
+Le paladin empyréen est une variante de la classe de [[Pathfinder-RPG.paladin|paladin]] qui renonce à la grande versatilité des sorts offerts par cette classe contre un plus grand nombre de sorts par jour. Les prières du paladin empyréen sont plus spontanées et moins formelles que celles des autres [[Pathfinder-RPG.paladin|paladins]].
 Les premiers paladin à utiliser cette manière particulière de prier étaient au service des seigneurs empyréens (en particulier des archons) plutôt que les dieux du bien, la manière informelle de prier étant plus appropriée en ce qui concerne le service de ces entités par rapport à celle des dieux.
 A l'heure actuelle cette manière de procéder peut être utilisée par n'importe quel paladin qui en fait le choix au commencement de sa carrière.
 
 
 ### Sorts
 
-Un paladin empyréen peut lancer des sorts divins appartenant à la [liste de sorts de paladin](./../Pathfinder-RPG/Liste des sorts de paladins.md). Il les lance sans avoir à les préparer à l’avance. Pour apprendre ou lancer un sort, il doit avoir une valeur de [Charisme](./../Pathfinder-RPG/Charisme.md) au moins égale à 10 + le niveau du sort. Le DD des jets de sauvegarde contre ses sorts est égal à 10 + le niveau du sort + le modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md) du [paladin](./../Pathfinder-RPG/Paladin.md).
+Un paladin empyréen peut lancer des sorts divins appartenant à la [[Pathfinder-RPG.Liste des sorts de paladins|liste de sorts de paladin]]. Il les lance sans avoir à les préparer à l’avance. Pour apprendre ou lancer un sort, il doit avoir une valeur de [[Pathfinder-RPG.Charisme|Charisme]] au moins égale à 10 + le niveau du sort. Le DD des jets de sauvegarde contre ses sorts est égal à 10 + le niveau du sort + le modificateur de [[Pathfinder-RPG.Charisme|Charisme]] du [[Pathfinder-RPG.paladin|paladin]].
 
-Comme les autres lanceurs de sorts, le paladin empyréen ne peut lancer qu’un nombre de sorts donné de chaque niveau chaque jour. Son quota de sorts quotidiens est indiqué dans la Table ci-dessous. En plus de cela, il reçoit des sorts en bonus si sa valeur de [Charisme](./../Pathfinder-RPG/Charisme.md) est suffisamment élevée (voir la Table "[Modificateurs de caractéristique et sorts en bonus](./../Pathfinder-RPG/Caractéristiques.md#TABLEAUCARACTERISTIQUES)").
+Comme les autres lanceurs de sorts, le paladin empyréen ne peut lancer qu’un nombre de sorts donné de chaque niveau chaque jour. Son quota de sorts quotidiens est indiqué dans la Table ci-dessous. En plus de cela, il reçoit des sorts en bonus si sa valeur de [[Pathfinder-RPG.Charisme|Charisme]] est suffisamment élevée (voir la Table "[[Pathfinder-RPG.caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
 
-Le répertoire de sorts d’un paladin est très limité. Il commence sa carrière en connaissant seulement quatre sorts du niveau 0 et deux sorts de 1er niveau, tous choisis par le joueur. Lors de chaque passage de niveau, un paladin apprend un ou plusieurs sorts supplémentaires, comme indiqué dans la Table "[Sorts du paladin empyréen](./Paladin spontané.md#TABLEPALADINEMPIREEN)" (contrairement au quota de sorts quotidiens, le nombre de sorts connus par un paladin empyréen n’est pas modifié par son éventuel bonus de [Charisme](./../Pathfinder-RPG/Charisme.md) : les nombres de cette table sont fixes). Ces sorts peuvent être choisis parmi la [liste de sorts de paladins](./../Pathfinder-RPG/Liste des sorts de paladins.md), mais il peut également s’agir de sorts moins courants, que le paladin empyréen s’est entraîné à maîtriser.
+Le répertoire de sorts d’un paladin est très limité. Il commence sa carrière en connaissant seulement quatre sorts du niveau 0 et deux sorts de 1er niveau, tous choisis par le joueur. Lors de chaque passage de niveau, un paladin apprend un ou plusieurs sorts supplémentaires, comme indiqué dans la Table "[[paladin spontané#TABLEPALADINEMPIREEN|Sorts du paladin empyréen]]" (contrairement au quota de sorts quotidiens, le nombre de sorts connus par un paladin empyréen n’est pas modifié par son éventuel bonus de [[Pathfinder-RPG.Charisme|Charisme]] : les nombres de cette table sont fixes). Ces sorts peuvent être choisis parmi la [[Pathfinder-RPG.Liste des sorts de paladins|liste de sorts de paladins]], mais il peut également s’agir de sorts moins courants, que le paladin empyréen s’est entraîné à maîtriser.
 
 Lorsqu’il atteint le niveau 8, et tous les trois niveaux suivants, un paladin empyréen peut choisir d’apprendre un nouveau sort à la place de l’un de ceux qu’il connaît déjà. Il oublie alors un sort au profit d’un autre. Le niveau du nouveau sort doit être identique à celui du sort oublié. Un paladin ne peut remplacer qu’un seul sort à chaque fois, et doit choisir de le faire ou non au moment où il apprend de nouveaux sorts lors du passage de niveau.
 
-Contrairement à un [paladin](./../Pathfinder-RPG/Paladin.md) ou à un [prêtre](./../Pathfinder-RPG/Prêtre.md), un paladin empyréen n’a pas besoin de préparer ses sorts à l’avance. Il peut lancer n’importe quel sort de son répertoire à n’importe quel moment, à condition de ne pas avoir épuisé son quota de sorts de ce niveau pour la journée.
+Contrairement à un [[Pathfinder-RPG.paladin|paladin]] ou à un [[Pathfinder-RPG.prêtre|prêtre]], un paladin empyréen n’a pas besoin de préparer ses sorts à l’avance. Il peut lancer n’importe quel sort de son répertoire à n’importe quel moment, à condition de ne pas avoir épuisé son quota de sorts de ce niveau pour la journée.
 
 
 {s:Reference|TABLEPALADINEMPIREEN}
@@ -277,5 +277,5 @@ Contrairement à un [paladin](./../Pathfinder-RPG/Paladin.md) ou à un [prêtre]
 
 
 ### Variantes
-Des [antipaladins](./../Pathfinder-RPG/Antipaladin.md) fonctionnant de la même manière existent également, et se font appeler chevaliers abyssaux.
-Il existe également des [rôdeurs](./../Pathfinder-RPG/Rôdeur.md) qui adoptent le même principe et sont appelés rôdeurs instinctifs.
+Des [[Pathfinder-RPG.antipaladin|antipaladins]] fonctionnant de la même manière existent également, et se font appeler chevaliers abyssaux.
+Il existe également des [[Pathfinder-RPG.rôdeur|rôdeurs]] qui adoptent le même principe et sont appelés rôdeurs instinctifs.

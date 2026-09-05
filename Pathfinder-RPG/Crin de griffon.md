@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#CRINDEGRIFFON
 ---
 
->>> [Matériaux spéciaux#CRINDEGRIFFON](./Matériaux spéciaux.md#CRINDEGRIFFON)
+>>> [[Matériaux spéciaux#CRINDEGRIFFON]]

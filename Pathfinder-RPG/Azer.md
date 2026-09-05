@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2 p.46*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Feu](./sous-type Feu.md)) de taille M, LN}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type feu|Feu]]) de taille M, LN}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 11, pris au dépourvu 17 (armure +5, Dex +1, naturelle +2)}
 {s:BDTexte|**pv** 15 (2d10+4)}
@@ -30,8 +30,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 12, **Con** 15, **Int** 12, **Sag** 12, **Cha** 9}
 {s:BDTexte|**BBA** +2, **BMO** +3, **DMD** 14}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +0, [Artisanat](./Artisanat.md) (deux au choix) +6, [Connaissances](./Connaissances.md) (noblesse) +6, [Escalade](./Escalade.md) +3, [Estimation](./Estimation.md) +6, [Perception](./Perception.md) +6}
+{s:BDTexte|**Dons** [[Attaque en puissance]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +0, [[Artisanat]] (deux au choix) +6, [[Connaissances]] (noblesse) +6, [[Escalade]] +3, [[Estimation]] +6, [[Perception]] +6}
 {s:BDTexte|**Langues** commun, igné}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme (Plan du Feu)}

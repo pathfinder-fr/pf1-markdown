@@ -10,11 +10,11 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Épée du bouffon|{s:AE}}
-**Aura** [Divination](./école divination.md) modérée ; **NLS** 10 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Poids** 1 kg
+**Aura** [[école Divination|Divination]] modérée ; **NLS** 10 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Poids** 1 kg
 (((Description)))
-Cette arme ressemble à une épée de précision et se comporte comme telle jusqu’à ce que son propriétaire l’utilise lors d’un vrai combat. Elle lui impose alors un malus de –10 aux tests de [Discrétion](./Discrétion.md). Elle l’empêche aussi de mentir ou de tenter le moindre subterfuge. À chaque fois qu’il tente de le faire, il doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 15 sinon, il laisse échapper la vérité ou fait quelque chose qui évente involontairement sa ruse. Il faut recourir à la magie pour débarrasser le personnage de l’épée une fois la malédiction activée.
+Cette arme ressemble à une épée de précision et se comporte comme telle jusqu’à ce que son propriétaire l’utilise lors d’un vrai combat. Elle lui impose alors un malus de –10 aux tests de [[Discrétion]]. Elle l’empêche aussi de mentir ou de tenter le moindre subterfuge. À chaque fois qu’il tente de le faire, il doit réussir un jet de [[Volonté]] [[DD]] 15 sinon, il laisse échapper la vérité ou fait quelque chose qui évente involontairement sa ruse. Il faut recourir à la magie pour débarrasser le personnage de l’épée une fois la malédiction activée.
 (((Objet magique prévu)))
-[épée de précision](./Épée de précision.md)
+[[épée de précision]]
 </div>

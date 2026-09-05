@@ -8,8 +8,8 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:CCMI}**Prix** 8 po ; **Poids** 0,5 kg ; **Groupes** [lames légères](./groupe darmes.md#Lameslégères)
+{s:CCMI}**Prix** 8 po ; **Poids** 0,5 kg ; **Groupes** [[Groupe darmes#Lameslégères|lames légères]]
 **Dégâts**  1d3 (P), 1d4 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
-Apparemment, un rasoir de combat est juste un rasoir ou un couteau de poche surdimensionné. Le rasoir se repliant dans son manche, il n’a pas besoin de fourreau et il est donc facile à dissimuler, ce qui offre un bonus de +2 aux tests d’[Escamotage](./Escamotage.md) pour le cacher sur soi.
+Apparemment, un rasoir de combat est juste un rasoir ou un couteau de poche surdimensionné. Le rasoir se repliant dans son manche, il n’a pas besoin de fourreau et il est donc facile à dissimuler, ce qui offre un bonus de +2 aux tests d’[[Escamotage]] pour le cacher sur soi.

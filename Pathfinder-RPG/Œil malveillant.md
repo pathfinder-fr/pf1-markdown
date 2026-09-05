@@ -9,6 +9,6 @@ Categories:
 
 {s:MR}*Le halfelin peut combiner les effets de son mauvais oeil et de sa malédiction.*
 
-**Conditions.** Maléfice de sorcière [mauvais œil](./maléfices.md#Mauvaisœil), trait [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7)
+**Conditions.** Maléfice de sorcière [[Maléfices#Mauvaisœil|mauvais œil]], trait [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]
 
-**Avantage.** Lorsqu’une créature rate son [jet de sauvegarde](./JDS.md) contre le maléfice [mauvais œil](./maléfices.md#Mauvaisœil), le halfelin ajoute les effets de sa malédiction à ceux du maléfice. Les malus aux jets de sauvegarde dus au maléfice et à la malédiction se cumulent. L’utilisation d’une malédiction sur une autre créature n’annule pas l’effet du maléfice ou de la malédiction sur la cible victime du maléfice.
+**Avantage.** Lorsqu’une créature rate son [[jds|jet de sauvegarde]] contre le maléfice [[Maléfices#Mauvaisœil|mauvais œil]], le halfelin ajoute les effets de sa malédiction à ceux du maléfice. Les malus aux jets de sauvegarde dus au maléfice et à la malédiction se cumulent. L’utilisation d’une malédiction sur une autre créature n’annule pas l’effet du maléfice ou de la malédiction sur la cible victime du maléfice.

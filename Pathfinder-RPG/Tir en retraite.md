@@ -11,16 +11,16 @@ Categories:
 
 {s:apg}*Le personnage est un tirailleur expert capable de faire s’abattre une pluie de flèches sur ses ennemis tout en avançant ou en battant en retraite.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 13, [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Tir à bout portant](./Tir à bout portant.md), [Tir en mouvement](./Tir en mouvement.md), [BBA](./BBA.md) +6.
+**Conditions.** [[Dextérité|Dex]] 13, [[Esquive]], [[Souplesse du serpent]], [[Tir à bout portant]], [[Tir en mouvement]], [[BBA]] +6.
 
-**Avantage.** Une fois par rencontre, lorsque le personnage utilise l’action de retraite, il peut effectuer une unique [attaque à distance](./Attaque à distance.md) à n’importe quel moment au cours de son déplacement.
+**Avantage.** Une fois par rencontre, lorsque le personnage utilise l’action de retraite, il peut effectuer une unique [[attaque à distance]] à n’importe quel moment au cours de son déplacement.
 
 **Normal.** Le personnage ne peut pas attaquer au cours d’une retraite.
 
-**Spécial.** Dès le niveau 6, un [rôdeur](./Rôdeur.md) ayant choisi le style de combat « à distance » peut choisir [Tir en retraite](./Tir en retraite.md) comme don de style de combat.
+**Spécial.** Dès le niveau 6, un [[rôdeur]] ayant choisi le style de combat « à distance » peut choisir [[Tir en retraite]] comme don de style de combat.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Le personnage peut dépenser 2 points d’endurance pour utiliser les avantages de ce don une deuxième fois au cours d’une même rencontre. Il ne peut utiliser cette astuce martiale qu’une seule fois par rencontre et ne peut donc pas effectuer plus de deux attaques de Tir en retraite par combat.

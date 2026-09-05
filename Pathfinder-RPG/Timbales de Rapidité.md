@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Timbales de rapidité|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 45 000 po ; **Poids** 2,5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 45 000 po ; **Poids** 2,5 kg
 (((Description)))
-Ces deux timbales sont reliées à une bandoulière que l’on porte sur l’épaule. On en joue à une main en manipulant un maillet doté de deux embouts. En réussissant un test de [Représentation](./Représentation.md) (percussions) [DD](./DD.md) 20, le joueur peut produire les effets du sort *[rapidité](./Rapidité.md)* sur 5 créatures. Les timbales peuvent affecter jusqu’à 25 créatures par jour.
+Ces deux timbales sont reliées à une bandoulière que l’on porte sur l’épaule. On en joue à une main en manipulant un maillet doté de deux embouts. En réussissant un test de [[Représentation]] (percussions) [[DD]] 20, le joueur peut produire les effets du sort *[[rapidité]]* sur 5 créatures. Les timbales peuvent affecter jusqu’à 25 créatures par jour.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[rapidité](./Rapidité.md)* ; **Coût** 22 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[rapidité]]* ; **Coût** 22 500 po
 </div>

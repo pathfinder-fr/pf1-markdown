@@ -5,4 +5,4 @@ LastModified: 2021-04-06 00:34
 RedirectTo: Sacristain
 ---
 
->>> [Sacristain](./Sacristain.md)
+>>> [[Sacristain]]

@@ -11,38 +11,38 @@ Categories:
 <div class="BD">
 {s:BDTitre|Rhu-chalik|FP 6}
 {s:pucem|Aberration|Ruines-Donjons|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.220](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.220]]*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille P, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision dans les ténèbres](./Vision dans les ténèbres (capacité).md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Aberration|Aberration]] de taille P, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision dans les ténèbres (capacité)|vision dans les ténèbres]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 14, pris au dépourvu 15 (armure +4, Dex +3, taille +1)}
-{s:BDTexte|**pv** 68 (8d8+32) ; [guérison accélérée](./Guérison accélérée (capacité).md) 2}
+{s:BDTexte|**pv** 68 (8d8+32) ; [[Guérison accélérée (capacité)|guérison accélérée]] 2}
 {s:BDTexte|**Réf** +5, **Vig** +6, **Vol** +8}
-{s:BDTexte|**Capacités défensives** [vision à 360°](./Vision à 360° (capacité).md) ; **Immunités** froid, maladie}
+{s:BDTexte|**Capacités défensives** [[Vision à 360° (capacité)|vision à 360°]] ; **Immunités** froid, maladie}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 1,5 m, [vol](./Vol (capacité).md) 18 m (parfaite)}
+{s:BDTexte|**VD** 1,5 m, [[Vol (capacité)|vol]] 18 m (parfaite)}
 {s:BDTexte|**Corps à corps** 4 filaments, +11 (1d4+3 plus toucher de la douleur)}
-{s:BDTexte|**Attaques spéciales** toucher de la douleur, projection de [terreur](./Terreur (capacité).md), transmission spatiale}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 10 ; [concentration](./concentration.md) +12)}
-{s:BDSorts|Constant — *[armure de mage](./Armure de mage.md)*}
-{s:BDSorts|À volonté — *[détection de pensées](./Détection de pensées.md)* (DD 14), *[invisibilité](./Invisibilité.md)*, *[partage des souvenirs](./Partage des souvenirs.md)* (DD 14)}
-{s:BDSorts|1/jour — *[modification de mémoire](./Modification de mémoire.md)* (DD 16)}
+{s:BDTexte|**Attaques spéciales** toucher de la douleur, projection de [[Terreur (capacité)|terreur]], transmission spatiale}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 10 ; [[concentration]] +12)}
+{s:BDSorts|Constant — *[[armure de mage]]*}
+{s:BDSorts|À volonté — *[[détection de pensées]]* (DD 14), *[[invisibilité]]*, *[[partage des souvenirs]]* (DD 14)}
+{s:BDSorts|1/jour — *[[modification de mémoire]]* (DD 16)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 16, **Con** 19, **Int** 13, **Sag** 14, **Cha** 15}
 {s:BDTexte|**BBA** +6 ; **BMO** +8 ; **DMD** 21}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (filament), [Attaques réflexes](./Attaques réflexes.md), [Expertise du combat](./Expertise du combat.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +8, [Diplomatie](./Diplomatie.md) +8, [Discrétion](./Discrétion.md) +15, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +10, [Psychologie](./Psychologie.md) +7, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +10, [Vol](./Vol.md) +13}
-{s:BDTexte|**Langues** aklo ; [télépathie](./Télépathie (capacité).md) 30 m}
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md), [ne respire pas](./Ne respire pas (capacité).md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (filament), [[Attaques réflexes]], [[Expertise du combat]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Bluff]] +8, [[Diplomatie]] +8, [[Discrétion]] +15, [[Intimidation]] +10, [[Perception]] +10, [[Psychologie]] +7, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +10, [[Vol]] +13}
+{s:BDTexte|**Langues** aklo ; [[Télépathie (capacité)|télépathie]] 30 m}
+{s:BDTexte|**Particularités** [[Compression (capacité)|compression]], [[Ne respire pas (capacité)|ne respire pas]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Projection de terreur (Sur).** Par une [action simple](./Action simple.md), un rhu-chalik peut exploiter les peurs de toute créature sur laquelle il a réussi une *[détection des pensées](./détection des pensées.md)* au cours de la dernière minute. Cet effet cause l’apparition de terribles visions de cauchemar dans l’esprit de la cible. Celle-ci doit réussir un jet de [Volonté](./Volonté.md) DD 16 ou elle devient [effrayée](./Effrayé.md) et subit 1d4 points d’[affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de [Sagesse](./Sagesse.md). Le DD du jet de sauvegarde est basé sur le Charisme.}
-{s:BDTexte|**Toucher de la douleur (Ext).** Un rhu-chalik sécrète une enzyme dont ses filaments sont enduits. Par simple contact avec une créature vivante, cette enzyme cause une atroce douleur. Toute créature qui se trouve en contact avec l’enzyme doit réussir un jet de [Vigueur](./Vigueur.md) DD 18 ou subir un malus de -2 à ses [jets d'attaque](./jet dattaque.md), ses tests de [caractéristique](./Caractéristiques.md) et ses tests de [compétence](./Compétences.md) pendant 1d4 rounds. Si cette créature est affectée par plusieurs attaques de toucher de la douleur, les durées s’additionnent mais pas les malus. Il s’agit d’un effet de [douleur](./Registre.md). Le DD du jet de sauvegarde est basé sur le Charisme.}
-{s:BDTexte|**Transmission spatiale (Sur).** Si, suite à l’utilisation du pouvoir projection de terreur d’un rhu-chalik, une créature subit une diminution de Sagesse d’un montant égal ou supérieur à sa propre valeur de Sagesse, cette créature devient [inconsciente](./Inconscient.md). Le rhu-chalik peut alors passer 10 minutes à copier et absorber l’entière conscience de la créature et l’envoyer à travers le vide intersidéral à ses maîtres. Si les affaiblissements de Sagesse subis par la créature sont guéris et que celle-ci est ranimée avant la fin de ce processus, la transmission échoue. Si les affaiblissements de Sagesse de la créature sont guéris après que sa conscience a été transmise, la créature se réveille désorientée et subit un malus de -2 à ses [jets d'attaque](./jet dattaque.md), tests de [caractéristique](./Caractéristiques.md) et tests de [compétence](./Compétences.md) pendant 24 heures. Outre ces désagréments, cet effet ne blesse pas la cible, sa conscience n’étant pas détruite, mais seulement copiée et transmise.}
+{s:BDTexte|**Projection de terreur (Sur).** Par une [[action simple]], un rhu-chalik peut exploiter les peurs de toute créature sur laquelle il a réussi une *[[détection des pensées]]* au cours de la dernière minute. Cet effet cause l’apparition de terribles visions de cauchemar dans l’esprit de la cible. Celle-ci doit réussir un jet de [[Volonté]] DD 16 ou elle devient [[effrayé|effrayée]] et subit 1d4 points d’[[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de [[Sagesse]]. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|**Toucher de la douleur (Ext).** Un rhu-chalik sécrète une enzyme dont ses filaments sont enduits. Par simple contact avec une créature vivante, cette enzyme cause une atroce douleur. Toute créature qui se trouve en contact avec l’enzyme doit réussir un jet de [[Vigueur]] DD 18 ou subir un malus de -2 à ses [[jet dattaque|jets d'attaque]], ses tests de [[Caractéristiques|caractéristique]] et ses tests de [[Compétences|compétence]] pendant 1d4 rounds. Si cette créature est affectée par plusieurs attaques de toucher de la douleur, les durées s’additionnent mais pas les malus. Il s’agit d’un effet de [[registre|douleur]]. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|**Transmission spatiale (Sur).** Si, suite à l’utilisation du pouvoir projection de terreur d’un rhu-chalik, une créature subit une diminution de Sagesse d’un montant égal ou supérieur à sa propre valeur de Sagesse, cette créature devient [[inconscient|inconsciente]]. Le rhu-chalik peut alors passer 10 minutes à copier et absorber l’entière conscience de la créature et l’envoyer à travers le vide intersidéral à ses maîtres. Si les affaiblissements de Sagesse subis par la créature sont guéris et que celle-ci est ranimée avant la fin de ce processus, la transmission échoue. Si les affaiblissements de Sagesse de la créature sont guéris après que sa conscience a été transmise, la créature se réveille désorientée et subit un malus de -2 à ses [[jet dattaque|jets d'attaque]], tests de [[Caractéristiques|caractéristique]] et tests de [[Compétences|compétence]] pendant 24 heures. Outre ces désagréments, cet effet ne blesse pas la cible, sa conscience n’étant pas détruite, mais seulement copiée et transmise.}
 
 </div></td>
 <td><div>*De fins filaments s’échappent de cet ovoïde déformé. Sur sa face inférieure se trouve un orbe gris qui ressemble à un oeil globuleux dépourvu de paupière.*

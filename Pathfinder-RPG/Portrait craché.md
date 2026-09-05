@@ -9,6 +9,6 @@ Categories:
 
 {s:MR}*Lorsqu’il est sous sa forme humaine, le kitsune peut prendre l’apparence d’un individu spécifique.*
 
-**Conditions requises.** [Kitsune](./kitsune (race).md)
+**Conditions requises.** [[kitsune (race)|Kitsune]]
 
-**Avantage.** Le kitsune peut imiter précisément les traits physiques de tout individu qu’il rencontre. Quand il utilise sa capacité raciale de changement de forme, il peut essayer de prendre la forme d’un individu, ce qui lui accorde un bonus de circonstances de +10 à ses tests de [Déguisement](./Déguisement.md) pour faire croire aux autres qu’il est vraiment cette personne.
+**Avantage.** Le kitsune peut imiter précisément les traits physiques de tout individu qu’il rencontre. Quand il utilise sa capacité raciale de changement de forme, il peut essayer de prendre la forme d’un individu, ce qui lui accorde un bonus de circonstances de +10 à ses tests de [[Déguisement]] pour faire croire aux autres qu’il est vraiment cette personne.

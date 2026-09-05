@@ -7,6 +7,6 @@ Categories:
 - Taldor
 ---
 
-Petite forêt du sud du [Taldor](./Taldor.md).
+Petite forêt du sud du [[Taldor]].
 
-Elle est située à cheval sur les berges du fleuve [Jalrune](./Jalrune.md).
+Elle est située à cheval sur les berges du fleuve [[Jalrune]].

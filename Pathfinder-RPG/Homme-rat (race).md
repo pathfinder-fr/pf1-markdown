@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Homme-rat.md) d'un homme-rat standard.***
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [[Homme-rat|fiche de créature]] d'un homme-rat standard.***
 
 Les hommes-rats sont de petits humanoïdes semblables à des rongeurs ; originellement natifs des zones souterraines des déserts secs et des plaines, on les trouve désormais plus souvent dans des caravanes de commerce nomades. À l’image des groupes de rats auxquels ils ressemblent, les hommes-rats sont des bricoleurs qui adorent accumuler tout un tas de biens et, en tant que race, ils maîtrisent l’art du commerce, notamment lorsqu’il s’agit d’acquérir et de réparer des objets magiques ou mécaniques. Bien que certains soient d’habiles marchands louvoyant prudemment entre les alliances changeantes des marchés noirs et des bazars, beaucoup d’hommes-rats chérissent leurs monceaux de précieuses babioles bien plus que l’argent et préfèrent s’en procurer davantage, au lieu d’accumuler de simples pièces. Il n’est pas rare de voir une équipe prospère de marchands hommes-rats quitter la ville avec un ballot encore plus important que celui avec lequel elle est arrivée, leur pagaille soigneusement empilée sur des chariots conduits par des rats géants.
 
@@ -30,15 +30,15 @@ Lorsqu’un terrier particulier d’hommes-rats devient trop peuplé et que l’
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 en [Dextérité](./Dextérité.md), +2 en [Intelligence](./Intelligence.md), -2 en [Force](./Force.md).** Les hommes-rats sont agiles et intelligents, mais physiquement faibles.
-- **Homme-rat.** Les hommes-rats sont des [humanoïdes](./type Humanoïde.md) de sous-type [homme-rat](./sous-type homme-rat.md).
-- **Taille P.** Les hommes-rats sont des créatures de [taille P](./taille P.md) qui reçoivent un bonus de taille de +1 à la [CA](./CA.md), un bonus de taille de +1 à leurs [jets d’attaque](./jet dattaque.md), un malus de -1 au [BMO](./BMO.md) et au [DMD](./DMD.md), et un bonus de taille de +4 à leurs tests de [Discrétion](./Discrétion.md).
-- **Vitesse lente.** Les hommes-rats ont une [vitesse de base](./VD.md) de 6 mètres.
-- **Vision dans le noir.** Les hommes-rats [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
-- **Empathie avec les rongeurs.** Les hommes-rats gagnent un bonus racial de +4 à leurs tests de [Dressage](./Dressage.md) pour influencer les rongeurs.
-- **Regroupement.** Les hommes-rats sont habitués à vivre et à combattre en communauté, et sont doués quand il s’agit de se rassembler autour de leurs ennemis pour prendre l’avantage au détriment de ces derniers. Deux hommes-rats peuvent partager la même case en même temps. Si deux hommes-rats sur la même case attaquent le même ennemi, on considère qu’ils prennent cet ennemi [en tenaille](./prendre en tenaille.md) comme s’ils étaient sur deux cases opposées.
-- **Bricoleur.** Les hommes-rats gagnent un bonus racial de +2 à leurs tests d’[Artisanat](./Artisanat.md) (alchimie), de [Perception](./Perception.md) et d’[Utilisation d’objets magiques](./Utilisation dObjets Magiques.md).
-- **Langues.** Les hommes-rats commencent le jeu en parlant le commun. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi celles-ci : aklo, commun des profondeurs, draconique, gnoll, gnome, gobelin, halfelin, nain et orque.
+- **+2 en [[Dextérité]], +2 en [[Intelligence]], -2 en [[Force]].** Les hommes-rats sont agiles et intelligents, mais physiquement faibles.
+- **Homme-rat.** Les hommes-rats sont des [[type Humanoïde|humanoïdes]] de sous-type [[sous-type homme-rat|homme-rat]].
+- **Taille P.** Les hommes-rats sont des créatures de [[taille P]] qui reçoivent un bonus de taille de +1 à la [[CA]], un bonus de taille de +1 à leurs [[jet dattaque|jets d’attaque]], un malus de -1 au [[BMO]] et au [[DMD]], et un bonus de taille de +4 à leurs tests de [[Discrétion]].
+- **Vitesse lente.** Les hommes-rats ont une [[VD|vitesse de base]] de 6 mètres.
+- **Vision dans le noir.** Les hommes-rats [[Vision dans le noir (capacité)|voient dans le noir]] à 18 mètres.
+- **Empathie avec les rongeurs.** Les hommes-rats gagnent un bonus racial de +4 à leurs tests de [[Dressage]] pour influencer les rongeurs.
+- **Regroupement.** Les hommes-rats sont habitués à vivre et à combattre en communauté, et sont doués quand il s’agit de se rassembler autour de leurs ennemis pour prendre l’avantage au détriment de ces derniers. Deux hommes-rats peuvent partager la même case en même temps. Si deux hommes-rats sur la même case attaquent le même ennemi, on considère qu’ils prennent cet ennemi [[prendre en tenaille|en tenaille]] comme s’ils étaient sur deux cases opposées.
+- **Bricoleur.** Les hommes-rats gagnent un bonus racial de +2 à leurs tests d’[[Artisanat]] (alchimie), de [[Perception]] et d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]].
+- **Langues.** Les hommes-rats commencent le jeu en parlant le commun. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues parmi celles-ci : aklo, commun des profondeurs, draconique, gnoll, gnome, gobelin, halfelin, nain et orque.
 
 </div>
 
@@ -47,25 +47,25 @@ Lorsqu’un terrier particulier d’hommes-rats devient trop peuplé et que l’
 {s:MR}Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux standard des hommes-rats, mais consultez d’abord votre MJ.
 
 <u>*Remplace « bricoleur » :*</u>
-- {s:cs}{s:ISR}**Chineur.** Certains hommes-rats, notamment les membres du profond-marché, ont l'habitude d'exploiter leurs adversaires. Ils bénéficient d'un bouns racial de +2 aux tests de [Bluff](./Bluff.md), d'[Escamotage](./Escamotage.md) et de [Psychologie](./Psychologie.md). Ce trait racial remplace bricoleur.
-- **Fureteur.** Certains hommes-rats se fondent facilement dans leur environnement et se déplacent avec une grâce étonnante. Ils gagnent un bonus racial de +2 à leurs tests de [Discrétion](./Discrétion.md) et ne reçoivent qu’un malus de -5 à leurs tests de Discrétion pour se cacher des créatures qu’ils ont distraites avec un test de [Bluff](./Bluff.md) (plutôt que le malus normal de -10). Ce trait racial remplace bricoleur.
-- **Odorat.** Certains hommes-rats ont un sens de l’odorat beaucoup plus développé que l’ouïe ou la vue. Ceux-ci ont la capacité [odorat](./Odorat (capacité).md), mais reçoivent un malus de -2 à tous leurs tests de [Perception](./Perception.md) basés sur la vue ou l’ouïe. Ce trait racial remplace bricoleur.
-- {s:CM}**Rat de laboratoire.** Chaque inventeur homme-rat doué d’ingéniosité a besoin de quelqu’un pour tester ses inventions. Ceux qui survivent à différentes expériences développent parfois d’étranges bizarreries métaboliques qui les dotent d’une résilience accrue et se traduisent, à l’occasion, par des effets secondaires bénéfiques quand ils consomment des préparations magiques ou alchimiques. En conséquence, ils gagnent un bonus racial de +1 aux [jets de sauvegarde](./JDS.md) contre le [poison](./Poisons.md), les [armes alchimiques](./Armes alchimiques.md) et les effets néfastes des potions ou élixirs à ingérer. En outre, une fois par jour, ces hommes-rats peuvent augmenter de 1 le [niveau de lanceur de sorts](./NLS.md) d’une potion qu’ils consomment ou doubler la durée d’un remède alchimique qu’ils ingèrent ou s’appliquent sur la peau (jusqu’à un maximum de 4 heures). Ce trait racial remplace celui de bricoleur.
+- {s:cs}{s:ISR}**Chineur.** Certains hommes-rats, notamment les membres du profond-marché, ont l'habitude d'exploiter leurs adversaires. Ils bénéficient d'un bouns racial de +2 aux tests de [[Bluff]], d'[[Escamotage]] et de [[Psychologie]]. Ce trait racial remplace bricoleur.
+- **Fureteur.** Certains hommes-rats se fondent facilement dans leur environnement et se déplacent avec une grâce étonnante. Ils gagnent un bonus racial de +2 à leurs tests de [[Discrétion]] et ne reçoivent qu’un malus de -5 à leurs tests de Discrétion pour se cacher des créatures qu’ils ont distraites avec un test de [[Bluff]] (plutôt que le malus normal de -10). Ce trait racial remplace bricoleur.
+- **Odorat.** Certains hommes-rats ont un sens de l’odorat beaucoup plus développé que l’ouïe ou la vue. Ceux-ci ont la capacité [[Odorat (capacité)|odorat]], mais reçoivent un malus de -2 à tous leurs tests de [[Perception]] basés sur la vue ou l’ouïe. Ce trait racial remplace bricoleur.
+- {s:CM}**Rat de laboratoire.** Chaque inventeur homme-rat doué d’ingéniosité a besoin de quelqu’un pour tester ses inventions. Ceux qui survivent à différentes expériences développent parfois d’étranges bizarreries métaboliques qui les dotent d’une résilience accrue et se traduisent, à l’occasion, par des effets secondaires bénéfiques quand ils consomment des préparations magiques ou alchimiques. En conséquence, ils gagnent un bonus racial de +1 aux [[jds|jets de sauvegarde]] contre le [[Poisons|poison]], les [[armes alchimiques]] et les effets néfastes des potions ou élixirs à ingérer. En outre, une fois par jour, ces hommes-rats peuvent augmenter de 1 le [[NLS|niveau de lanceur de sorts]] d’une potion qu’ils consomment ou doubler la durée d’un remède alchimique qu’ils ingèrent ou s’appliquent sur la peau (jusqu’à un maximum de 4 heures). Ce trait racial remplace celui de bricoleur.
 
 <u>*Remplace « empathie avec les rongeurs » :*</u>
-- {s:CM}**Propreté.** Les hommes-rats s’efforcent de rester toujours parfaitement propres et de nettoyer les leurs afin d’éviter tout risque d’épidémie. Un homme-rat qui possède ce trait racial gagne un bonus de +2 aux [jets de sauvegarde](./JDS.md) contre les [maladies](./Maladies.md) et, chaque fois qu’il dépasse de 5 ou plus le [DD](./DD.md) du jet de sauvegarde pour récupérer d’un effet de maladie, on considère qu’il a réussi deux jets consécutifs. Ce trait racial remplace celui d’empathie avec les rongeurs.
-- **Surnaturel.** Certains hommes-rats perturbent les animaux normaux et s’entraînent à se défendre contre les inévitables attaques de ces créatures. Ces hommes-rats subissent un malus de -4 à tous leurs tests de [compétence](./Compétences.md) basées sur le [Charisme](./Charisme.md) pour affecter les créatures de type [animal](./type Animal.md), et reçoivent un bonus d’esquive de +2 à la [CA](./CA.md) contre les animaux. L’attitude de départ d'un animal envers l’homme-rat est d’une catégorie moins bonne que la normale. Ce trait racial remplace empathie avec les rongeurs.
+- {s:CM}**Propreté.** Les hommes-rats s’efforcent de rester toujours parfaitement propres et de nettoyer les leurs afin d’éviter tout risque d’épidémie. Un homme-rat qui possède ce trait racial gagne un bonus de +2 aux [[jds|jets de sauvegarde]] contre les [[maladies]] et, chaque fois qu’il dépasse de 5 ou plus le [[DD]] du jet de sauvegarde pour récupérer d’un effet de maladie, on considère qu’il a réussi deux jets consécutifs. Ce trait racial remplace celui d’empathie avec les rongeurs.
+- **Surnaturel.** Certains hommes-rats perturbent les animaux normaux et s’entraînent à se défendre contre les inévitables attaques de ces créatures. Ces hommes-rats subissent un malus de -4 à tous leurs tests de [[Compétences|compétence]] basées sur le [[Charisme]] pour affecter les créatures de type [[type Animal|animal]], et reçoivent un bonus d’esquive de +2 à la [[CA]] contre les animaux. L’attitude de départ d'un animal envers l’homme-rat est d’une catégorie moins bonne que la normale. Ce trait racial remplace empathie avec les rongeurs.
 
 <u>*Remplace « regroupement » :*</u>
-- {s:CM}**Bajoues.** Certains hommes-rats possèdent des bajoues extensibles particulièrement développées qui leur permettent de contenir et transporter de petits chargements d’un volume maximal de 30 dm³ et de 5 kilogrammes au maximum, comme des [armes légères](./arme légère.md), des [potions](./Potions magiques.md), des [parchemins](./Parchemins magiques.md) et autres objets similaires. Ces hommes-rats peuvent transférer un objet qu’ils tiennent en main dans leurs bajoues ou récupérer un objet de leurs bajoues par une [action rapide](./Action rapide.md). Par une [action de mouvement](./Action de mouvement.md) qui provoque une [attaque d’opportunité](./AO.md), l’homme-rat peut, à la place, entasser au sol tous les objets qu’il tient dans ses bajoues, les plaçant sur la case qu’il occupe. À partir du moment où l’homme-rat a au moins un objet dans ses bajoues, il lui est difficile d’articuler et il a 20% de [risque d'échec des sorts](./Caractéristiques des armures.md#RISQUEECHECPROFANE) (pas seulement profanes) quand il lance des sorts à [composante verbale](./composantes.md). Ce trait racial remplace celui de regroupement.
-- **Fureur de l’acculé.** Les hommes-rats se battent violemment lorsqu’ils sont coupés de leurs amis et de leurs alliés. Lorsqu’un homme-rat avec ce trait racial est réduit à la moitié de ses [points de vie](./pv.md) ou moins, et qu’il n’a aucun allié conscient dans un rayon de 9 mètres, il gagne un bonus racial de +2 à ses [jets d’attaque](./jet dattaque.md) de corps à corps et à la [CA](./CA.md). Ce trait racial remplace regroupement.
+- {s:CM}**Bajoues.** Certains hommes-rats possèdent des bajoues extensibles particulièrement développées qui leur permettent de contenir et transporter de petits chargements d’un volume maximal de 30 dm³ et de 5 kilogrammes au maximum, comme des [[arme légère|armes légères]], des [[Potions magiques|potions]], des [[Parchemins magiques|parchemins]] et autres objets similaires. Ces hommes-rats peuvent transférer un objet qu’ils tiennent en main dans leurs bajoues ou récupérer un objet de leurs bajoues par une [[action rapide]]. Par une [[action de mouvement]] qui provoque une [[AO|attaque d’opportunité]], l’homme-rat peut, à la place, entasser au sol tous les objets qu’il tient dans ses bajoues, les plaçant sur la case qu’il occupe. À partir du moment où l’homme-rat a au moins un objet dans ses bajoues, il lui est difficile d’articuler et il a 20% de [[Caractéristiques des armures#RISQUEECHECPROFANE|risque d'échec des sorts]] (pas seulement profanes) quand il lance des sorts à [[composantes|composante verbale]]. Ce trait racial remplace celui de regroupement.
+- **Fureur de l’acculé.** Les hommes-rats se battent violemment lorsqu’ils sont coupés de leurs amis et de leurs alliés. Lorsqu’un homme-rat avec ce trait racial est réduit à la moitié de ses [[pv|points de vie]] ou moins, et qu’il n’a aucun allié conscient dans un rayon de 9 mètres, il gagne un bonus racial de +2 à ses [[jet dattaque|jets d’attaque]] de corps à corps et à la [[CA]]. Ce trait racial remplace regroupement.
 
 <u>*Remplace « vision dans le noir » et « vitesse lente » :*</u>
-- {s:CM}**Sprinter de surface.** Certains hommes-rats passent autant de temps que possible à la surface, devenant des coureurs très rapides. Cette capacité s’acquiert aux dépens de leur vision, qui perd en précision après plusieurs années à vivre au soleil. Ces hommes-rats gagnent la [vision nocturne](./Vision nocturne (capacité).md) et ont une [vitesse de base](./VD.md) de 9 mètres. Ce trait racial remplace ceux de vision dans le noir et vitesse lente.
+- {s:CM}**Sprinter de surface.** Certains hommes-rats passent autant de temps que possible à la surface, devenant des coureurs très rapides. Cette capacité s’acquiert aux dépens de leur vision, qui perd en précision après plusieurs années à vivre au soleil. Ces hommes-rats gagnent la [[Vision nocturne (capacité)|vision nocturne]] et ont une [[VD|vitesse de base]] de 9 mètres. Ce trait racial remplace ceux de vision dans le noir et vitesse lente.
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -74,27 +74,27 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-{s:MR}**[Alchimiste](./Alchimiste.md).** L’alchimiste gagne +1/6 d’une nouvelle [découverte](./Alchimiste.md#DECOUVERTES).
+{s:MR}**[[Alchimiste]].** L’alchimiste gagne +1/6 d’une nouvelle [[Alchimiste#DECOUVERTES|découverte]].
 
-{s:MR}**[Barbare](./Barbare.md).** Lorsqu’il est [enragé](./Barbare.md#RAGE), le barbare rajoute +1/4 au bonus de prise en tenaille de son trait regroupement aux [jets d’attaque](./jet dattaque.md).
+{s:MR}**[[Barbare]].** Lorsqu’il est [[Barbare#RAGE|enragé]], le barbare rajoute +1/4 au bonus de prise en tenaille de son trait regroupement aux [[jet dattaque|jets d’attaque]].
 
-{s:MR}**[Conjurateur](./Conjurateur.md).** Le conjurateur rajoute un bonus de +1 aux [jets de sauvegarde](./JDS.md) de son [eidolon](./Conjurateur.md#EIDOLON) contre les [poisons](./Poisons.md).
+{s:MR}**[[Conjurateur]].** Le conjurateur rajoute un bonus de +1 aux [[jds|jets de sauvegarde]] de son [[Conjurateur#EIDOLON|eidolon]] contre les [[Poisons]].
 
-{s:MR}**[Druide](./Druide.md).** Le druide rajoute un bonus de +1 à ses tests d’[empathie sauvage](./Druide.md#EMPATHIESAUVAGE) pour influencer les [animaux](./type Animal.md) et les [créatures magiques](./type Créature magique.md) vivant sous terre.
+{s:MR}**[[Druide]].** Le druide rajoute un bonus de +1 à ses tests d’[[Druide#EMPATHIESAUVAGE|empathie sauvage]] pour influencer les [[type Animal|animaux]] et les [[type Créature magique|créatures magiques]] vivant sous terre.
 
-{s:MR}**[Guerrier](./Guerrier.md).** Le guerrier rajoute +1 à son [DMD](./DMD.md) lorsqu’il résiste à une tentative de [bousculade](./bousculade.md) ou de [lutte](./lutte.md).
+{s:MR}**[[Guerrier]].** Le guerrier rajoute +1 à son [[DMD]] lorsqu’il résiste à une tentative de [[bousculade]] ou de [[lutte]].
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}**[Moine](./Moine.md).** Le moine rajoute +30 centimètres à sa vitesse lorsqu’il fait un test de [Discrétion](./Discrétion.md) sans recevoir de malus. Ceci n’a aucun effet à moins que le moine n’ait choisi ce bonus cinq fois (ou un autre multiple de 5). Ceci ne lui permet pas d’utiliser Discrétion lorsqu’il [court](./courir.md) ou [charge](./charge.md).
+{s:MR}**[[Moine]].** Le moine rajoute +30 centimètres à sa vitesse lorsqu’il fait un test de [[Discrétion]] sans recevoir de malus. Ceci n’a aucun effet à moins que le moine n’ait choisi ce bonus cinq fois (ou un autre multiple de 5). Ceci ne lui permet pas d’utiliser Discrétion lorsqu’il [[courir|court]] ou [[charge]].
 
-{s:MR}**[Pistolier](./Pistolier.md).** Le pistolier rajoute un bonus de +1/2 à ses tests d’[initiative](./initiative.md) lorsqu’il a au moins 1 point d’[audace](./Pistolier.md#AUDACE).
+{s:MR}**[[Pistolier]].** Le pistolier rajoute un bonus de +1/2 à ses tests d’[[initiative]] lorsqu’il a au moins 1 point d’[[Pistolier#AUDACE|audace]].
 
-{s:MR}**[Rôdeur](./Rôdeur.md).** Le rôdeur rajoute +1 au [DMD](./DMD.md) de son [compagnon animal](./Rôdeur.md#PACTEDUCHASSEUR) lorsque ce dernier lui est adjacent. Si jamais il remplace son compagnon animal, le nouveau bénéficie de ce bonus.
+{s:MR}**[[Rôdeur]].** Le rôdeur rajoute +1 au [[DMD]] de son [[Rôdeur#PACTEDUCHASSEUR|compagnon animal]] lorsque ce dernier lui est adjacent. Si jamais il remplace son compagnon animal, le nouveau bénéficie de ce bonus.
 
-{s:MR}**[Roublard](./Roublard.md).** Le roublard rajoute un bonus de +1/2 à ses tests d’[Évasion](./Évasion.md).
+{s:MR}**[[Roublard]].** Le roublard rajoute un bonus de +1/2 à ses tests d’[[Évasion]].
 
-{s:MR}**[Sorcière](./Sorcière.md).** La sorcière rajoute +1,5 mètre à la portée de l’un de ses [maléfices](./Sorcière.md#MALEFICE) ayant une portée autre que « contact ».
+{s:MR}**[[Sorcière]].** La sorcière rajoute +1,5 mètre à la portée de l’un de ses [[Sorcière#MALEFICE|maléfices]] ayant une portée autre que « contact ».
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -110,60 +110,60 @@ Voici les options accessibles aux hommes-rats, d’autres races adaptées peuven
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Cachette commune](./Cachette commune.md) || <sup>CM</sup> || [Arme en main](./Arme en main.md), [BBA](./BBA.md) +1, 1 rang en [Escamotage](./Escamotage.md), trait racial [regroupement](./Homme-rat (race).md#Traits_raciaux_standards_7) || Récupère rapidement des objets portés par les alliés
+| [[Cachette commune]] || <sup>CM</sup> || [[Arme en main]], [[BBA]] +1, 1 rang en [[Escamotage]], trait racial [[Homme-rat (race)#Traits_raciaux_standards_7|regroupement]] || Récupère rapidement des objets portés par les alliés
 
 |- CLASS="premier"
-| [Collectionneur](./Collectionneur.md) || <sup>CM</sup> || [Homme-rat](./Homme-rat (race).md) || Possède toujours des objets aux hasard sur sa personne au besoin
+| [[Collectionneur]] || <sup>CM</sup> || [[Homme-rat (race)|Homme-rat]] || Possède toujours des objets aux hasard sur sa personne au besoin
 
 |- CLASS="premier"
-| [Dents acérées](./Dents acérées.md) || <sup>CM</sup> || [Homme-rat](./Homme-rat (race).md) || Gain d'une attaque de morsure
+| [[Dents acérées]] || <sup>CM</sup> || [[Homme-rat (race)|Homme-rat]] || Gain d'une attaque de morsure
 |-
-| &emsp;[Rogneur](./Rogneur.md) || <sup>CM</sup> || [Dents acérées](./Dents acérées.md), [homme-rat](./Homme-rat (race).md) || Ignore la solidité des objets avec une morsure puissante
+| &emsp;[[Rogneur]] || <sup>CM</sup> || [[Dents acérées]], [[Homme-rat (race)|homme-rat]] || Ignore la solidité des objets avec une morsure puissante
 
 |- CLASS="premier"
-| [Griffe-tranchante](./Griffe-tranchante.md) || <sup>MR</sup> || [Homme-rat](./Homme-rat (race).md) || Le personnage obtient deux attaques de griffes
+| [[Griffe-tranchante]] || <sup>MR</sup> || [[homme-rat (race)|Homme-rat]] || Le personnage obtient deux attaques de griffes
 
 |- CLASS="premier"
-| [Rat des tunnels](./Rat des tunnels.md) || <sup>MR</sup> || [Homme-rat](./Homme-rat (race).md), trait racial regroupement || Le personnage est plus difficile à écraser
+| [[Rat des tunnels]] || <sup>MR</sup> || [[homme-rat (race)|Homme-rat]], trait racial regroupement || Le personnage est plus difficile à écraser
 |-
-| &emsp;[Dents de fouisseur](./Dents de fouisseur.md) || <sup>MR</sup> || [Homme-rat](./Homme-rat (race).md), [griffe-tranchante](./Griffe-tranchante.md), [rat des tunnels](./Rat des tunnels.md) || Le personnage dispose d'une vitesse de creusement
+| &emsp;[[Dents de fouisseur]] || <sup>MR</sup> || [[homme-rat (race)|Homme-rat]], [[griffe-tranchante]], [[rat des tunnels]] || Le personnage dispose d'une vitesse de creusement
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Porte-peste (alchimiste)](./Porte-peste (alchimiste).md) *(MR)*
-- [Tireur des ravins (pistolier)](./Tireur des ravins (pistolier).md) *(MR)*
+- [[Porte-peste (alchimiste)]] *(MR)*
+- [[Tireur des ravins (pistolier)]] *(MR)*
 
 #### Équipement
-- [Encre nauséabonde](./Encre nauséabonde (objet).md) *(MR)*
-- [Encre nauséabonde magique](./Encre nauséabonde (objet).md) *(MR)*
-- [Lame caudale](./lame caudale (arme).md) *(MR)*
-- [Pâte de rhinarium](./Pâte de rhinarium (objet).md) *(CM)*
-- [Poche de vérole](./Poche de vérole (objet).md) *(MR)*
-- [Rat de selle](./Rat de selle (objet).md) *(CM)*
-- [Tonique infectieux](./Tonique infectieux (objet).md) *(MR)*
+- [[Encre nauséabonde (objet)|Encre nauséabonde]] *(MR)*
+- [[Encre nauséabonde (objet)|Encre nauséabonde magique]] *(MR)*
+- [[lame caudale (arme)|Lame caudale]] *(MR)*
+- [[Pâte de rhinarium (objet)|Pâte de rhinarium]] *(CM)*
+- [[Poche de vérole (objet)|Poche de vérole]] *(MR)*
+- [[Rat de selle (objet)|Rat de selle]] *(CM)*
+- [[Tonique infectieux (objet)|Tonique infectieux]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Anneau des crocs du rat](./Anneau des crocs du rat.md) *(A&E, MR)*
-- [Anneau de volée de coups](./Anneau de volée de coups.md) *(A&E, MR)*
-- [Cape d'alarme sanglante](./Cape dalarme sanglante.md) *(ISR)*
-- [Catalytique (propriété d'arme)](./catalytique (propriété).md) *(CM)*
-- [Couvre-chef de déguisement humanoïde](./Couvre-chef de Déguisement Humanoïde.md) *(A&E, MR)*
-- [Flûte du gardien du terrier](./Flûte du gardien du terrier.md) *(MR)*
-- [Virulente (propriété d'arme)](./virulente (propriété).md) *(CM)*
+- [[Anneau des crocs du rat]] *(A&E, MR)*
+- [[Anneau de volée de coups]] *(A&E, MR)*
+- [[Cape dalarme sanglante|Cape d'alarme sanglante]] *(ISR)*
+- [[catalytique (propriété)|Catalytique (propriété d'arme)]] *(CM)*
+- [[Couvre-chef de déguisement humanoïde]] *(A&E, MR)*
+- [[Flûte du gardien du terrier]] *(MR)*
+- [[virulente (propriété)|Virulente (propriété d'arme)]] *(CM)*
 
 #### Options de classe
 - Découvertes d'alchimiste
-  - [Bombe pestiférée supérieure](./découvertes.md#BOMBEPESTIFEREESUPERIEURE) *(MR)*
-  - [Infection prolongée](./découvertes.md#INFECTIONPROLONGEE) *(MR)*
+  - [[Découvertes#BOMBEPESTIFEREESUPERIEURE|Bombe pestiférée supérieure]] *(MR)*
+  - [[Découvertes#INFECTIONPROLONGEE|Infection prolongée]] *(MR)*
 
 #### Sorts
-- [Bricolage alchimique](./Bricolage alchimique.md) *(MR)*
-- [Frappes fébriles](./Frappes fébriles.md) *(MR)*
-- [Retardement des maladies](./Retardement des maladies.md) *(MR)*
+- [[Bricolage alchimique]] *(MR)*
+- [[Frappes fébriles]] *(MR)*
+- [[Retardement des maladies]] *(MR)*
 
 </td></tr></table>
 

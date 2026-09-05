@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Magus](./Magus.md) 4, [Psy](./Psychiste.md) 5  
+**École** [[Abjuration]] ; **Niveau** [[Magus]] 4, [[Psychiste|Psy]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)  
+**Durée** [[présentation des sorts#DUREE|instantanée]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-Ce sort fonctionne comme une *[dissipation de la magie](./Dissipation de la magie.md)* sur une cible mais n’affecte que les créatures et nécessite une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md). En cas d’attaque réussie, le sort est instantanément transféré au personnage, comme si ce dernier était sa cible originelle. Il n’a pas droit à un [jet de sauvegarde](./jet de sauvegarde.md) ni à un test de [résistance à la magie](./RM.md) et doit accepter les effets du sort, même s’ils ne sont pas bénéfiques. Ceci ne modife pas la durée du sort, s’il lui restait seulement 4 [rounds](./round.md) avant de se dissiper, il affecte le personnage pour 4 [rounds](./round.md). S’il avait une durée permanente, il persiste pendant 1 heure par [niveau de lanceur de sorts](./NLS.md) du lanceur originel et se termine ensuite. Le sort volé ne revient pas à sa cible originelle.
+Ce sort fonctionne comme une *[[dissipation de la magie]]* sur une cible mais n’affecte que les créatures et nécessite une [[attaque de contact au corps à corps]]. En cas d’attaque réussie, le sort est instantanément transféré au personnage, comme si ce dernier était sa cible originelle. Il n’a pas droit à un [[jet de sauvegarde]] ni à un test de [[RM|résistance à la magie]] et doit accepter les effets du sort, même s’ils ne sont pas bénéfiques. Ceci ne modife pas la durée du sort, s’il lui restait seulement 4 [[round|rounds]] avant de se dissiper, il affecte le personnage pour 4 [[round|rounds]]. S’il avait une durée permanente, il persiste pendant 1 heure par [[NLS|niveau de lanceur de sorts]] du lanceur originel et se termine ensuite. Le sort volé ne revient pas à sa cible originelle.

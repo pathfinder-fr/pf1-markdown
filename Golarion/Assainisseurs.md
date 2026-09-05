@@ -6,9 +6,9 @@ Categories:
 - Organisation
 ---
 
-{s:Organisation|Assainisseurs|Reclaimers|-|Suprématie elfique sur [Golarion](./Golarion.md)|-|-|-|-|Mondial|-}Les Assainisseurs représentent une faction radicale d'elfes qui ont juré de purger [Golarion](./Golarion.md) de tous les humanoïdes non elfes en vue de mettre en place une suprématie elfique sur la planète. Pour la plupart des elfes, cet objectif est de la folie pure.
+{s:Organisation|Assainisseurs|Reclaimers|-|Suprématie elfique sur [[Golarion]]|-|-|-|-|Mondial|-}Les Assainisseurs représentent une faction radicale d'elfes qui ont juré de purger [[Golarion]] de tous les humanoïdes non elfes en vue de mettre en place une suprématie elfique sur la planète. Pour la plupart des elfes, cet objectif est de la folie pure.
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur les Assainisseurs dans l'histoire en ligne
-- [http://paizo.com/pathfinder/tales/serial/theIronrootDeception|The Ironroot Deception]
+- [The Ironroot Deception](http://paizo.com/pathfinder/tales/serial/theIronrootDeception)
 {s:VoirAussiAprès}

@@ -8,10 +8,10 @@ LastModified: 2014-07-06 13:17
 
 <b>Accès :</b> Mon Personnage/Onglet Autres/Familier
 
-[My Hero|Retour racine du Manuel]</div>
+[[My Hero|Retour racine du Manuel]]</div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/Slide34.jpg|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MonPerso|Mon Personnage]
+<OL><LI>Retour vers [[MH-MonPerso|Mon Personnage]]
 <LI>Validation des changements effectués.
 <LI>Nom du familier.
 <LI>Type du familier.

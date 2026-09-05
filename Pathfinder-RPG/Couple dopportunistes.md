@@ -12,10 +12,10 @@ Categories:
 
 {s:apg}*Le personnage sait comment profiter d’un ennemi qui baisse sa garde.*
 
-**Catégorie :** [combat](./Dons.md#COMBAT), [équipe](./Dons.md#EQUIPE)
+**Catégorie :** [[Dons#COMBAT|combat]], [[Dons#EQUIPE|équipe]]
 
-**Avantage.** Chaque fois que le personnage est adjacent à un allié qui possède également ce don, il reçoit un bonus de circonstances de +4 aux [attaques d’opportunité](./attaque dopportunité.md) portées contre les créatures situées dans une zone contrôlée à la fois par le personnage et son allié. De plus, chaque fois qu’un ennemi provoque une attaque d’opportunité de la part de l’allié du personnage, le personnage a également l’occasion de lui porter une attaque d’opportunité (à condition que l’ennemi en question se trouve dans une case contrôlée par le personnage). Le personnage a le droit de porter cette attaque d’opportunité même si, en temps normal, la situation ou l’une des capacités de l’ennemi l’en empêcherait. Cela ne permet toutefois pas au personnage d’effectuer plus qu’une seule attaque d’opportunité en réponse à une action donnée.
+**Avantage.** Chaque fois que le personnage est adjacent à un allié qui possède également ce don, il reçoit un bonus de circonstances de +4 aux [[attaque dopportunité|attaques d’opportunité]] portées contre les créatures situées dans une zone contrôlée à la fois par le personnage et son allié. De plus, chaque fois qu’un ennemi provoque une attaque d’opportunité de la part de l’allié du personnage, le personnage a également l’occasion de lui porter une attaque d’opportunité (à condition que l’ennemi en question se trouve dans une case contrôlée par le personnage). Le personnage a le droit de porter cette attaque d’opportunité même si, en temps normal, la situation ou l’une des capacités de l’ennemi l’en empêcherait. Cela ne permet toutefois pas au personnage d’effectuer plus qu’une seule attaque d’opportunité en réponse à une action donnée.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Tant que le personnage a un allié doté de ce don à portée d’[allonge](./allonge.md), il peut dépenser 2 points d’endurance pour bénéficier des avantages de ce don jusqu’à la fin de son prochain tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Tant que le personnage a un allié doté de ce don à portée d’[[allonge]], il peut dépenser 2 points d’endurance pour bénéficier des avantages de ce don jusqu’à la fin de son prochain tour.

@@ -13,9 +13,9 @@ Categories:
 
 *Les sorts du personnage rendent ses alliés plus rapides que la normale*
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
-**Condition.** [Dex](./Dex.md) 13
+**Condition.** [[Dex]] 13
 
 **Avantage.** Le personnage peut modifier les sorts qui accordent un type de déplacement qu’elle ne possède pas à une créature pour augmenter la vitesse de ce type de déplacement de 3 m (2 {s:c}). Un sort brusque utilise un emplacement de sort du même niveau que le sort normal.
 

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#FOCALISEUR
 ---
 
->>> [Présentation des sorts#FOCALISEUR](./Présentation des sorts.md#FOCALISEUR)
+>>> [[Présentation des sorts#FOCALISEUR]]

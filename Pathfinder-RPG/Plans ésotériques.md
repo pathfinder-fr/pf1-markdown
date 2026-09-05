@@ -121,11 +121,11 @@ aux vérités du multivers et au voyage de l’âme mortelle. Les
 étudiants de l’occulte reconnaissent volontiers l’existence de
 ces plans mais ne s’appesantissent pas sur eux et nous ferons
 de même ici. Pour de plus amples informations sur ces plans,
-y compris sur leurs caractéristiques planaires, consultez [cette page](./Plans.md).
+y compris sur leurs caractéristiques planaires, consultez [[Plans|cette page]].
 
 {s:Reference|PLANENERGGIEPOSITIVE}
 ### Le plan de l'énergie positive
-<div style="float:right; margin:8px 6px 0px 10px">***Voir les [caractéristiques](./../Golarion/Grand Au-Delà.md#PLANÉNERGIEPOSITIVE) de ce plan.***</div>Le plan de l’Énergie positive est la source de toute vie,
+<div style="float:right; margin:8px 6px 0px 10px">***Voir les [[Grand au-delà#PLANÉNERGIEPOSITIVE|caractéristiques]] de ce plan.***</div>Le plan de l’Énergie positive est la source de toute vie,
 le Feu cosmique au coeur du multivers, celui qui donne
 naissance aux âmes mortelles. Ce plan n’a pas de surface,
 c’est une émanation d’énergie donneuse de vie qui irradie
@@ -183,7 +183,7 @@ d’hérétiques et d’autres dangers.
 
 {s:Reference|PLANENERGGIENEGATIVE}
 ### Le plan de l'énergie négative
-<div style="float:right; margin:8px 6px 0px 10px">***Voir les [caractéristiques](./../Golarion/Grand Au-Delà.md#PLANÉNERGIENEGATIVE) de ce plan.***</div>D’après la conception courante du multivers, le plan de
+<div style="float:right; margin:8px 6px 0px 10px">***Voir les [[Grand au-delà#PLANÉNERGIENEGATIVE|caractéristiques]] de ce plan.***</div>D’après la conception courante du multivers, le plan de
 l’Énergie négative est le rival jaloux du plan de l’Énergie
 positive, son jumeau. C’est un vide infini, fait de ténèbres
 entropiques, une antithèse de la création qui ne peut que
@@ -242,7 +242,7 @@ soient les conséquences.
 
 {s:Reference|PLANMATERIEL}
 ### Le plan matériel
-<div style="float:right; margin:8px 6px 0px 10px">***Voir les [caractéristiques](./../Golarion/Grand Au-Delà.md#PLANMATÉRIEL) de ce plan.***</div>Le plan Matériel est le royaume des sensations physiques
+<div style="float:right; margin:8px 6px 0px 10px">***Voir les [[Grand au-delà#PLANMATÉRIEL|caractéristiques]] de ce plan.***</div>Le plan Matériel est le royaume des sensations physiques
 et de l’existence incarnée. Là, les âmes se manifestent dans
 une enveloppe physique, dans une union si complète que la
 plupart des créatures vivantes ne passent guère de temps à
@@ -272,7 +272,7 @@ réseau artériel multiversel.
 
 {s:Reference|PLANETHERE}
 ### Le plan éthéré
-<div style="float:right; margin:8px 6px 0px 10px">***Voir les [caractéristiques](./../Golarion/Grand Au-Delà.md#PLANÉTHÉRÉ) de ce plan.***</div>Le plan Éthéré est le siège des forces émotionnelles, la
+<div style="float:right; margin:8px 6px 0px 10px">***Voir les [[Grand au-delà#PLANÉTHÉRÉ|caractéristiques]] de ce plan.***</div>Le plan Éthéré est le siège des forces émotionnelles, la
 demeure brumeuse des apparitions et des horreurs et le
 portail omniprésent entre les mondes de la sphère Intérieure.{br}
 Il coexiste avec ces plans, les traverse et imite généralement
@@ -518,7 +518,7 @@ d’esclaves à destination des marchés noirs du multivers.
 
 {s:Reference|PLANASTRAL}
 ### Le plan astral
-<div style="float:right; margin:8px 6px 0px 10px">***Voir les [caractéristiques](./../Golarion/Grand Au-Delà.md#PLANASTRAL) de ce plan.***</div>Le plan Astral forme l’immense ciel argenté reliant tous
+<div style="float:right; margin:8px 6px 0px 10px">***Voir les [[Grand au-delà#PLANASTRAL|caractéristiques]] de ce plan.***</div>Le plan Astral forme l’immense ciel argenté reliant tous
 les plans entre eux. C’est un royaume de pensée pure et de
 conscience étendue. Des îlots de matière solide flottent
 parfois dans l’espace astral mais la majorité de ce plan n’est

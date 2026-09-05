@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#PEAUDANGE
 ---
 
->>> [Matériaux spéciaux#PEAUDANGE](./Matériaux spéciaux.md#PEAUDANGE)
+>>> [[Matériaux spéciaux#PEAUDANGE]]

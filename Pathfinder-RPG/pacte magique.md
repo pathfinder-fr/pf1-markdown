@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Magicien#PACTEMAGIQUE
 ---
 
->>> [Magicien#PACTEMAGIQUE](./Magicien.md#PACTEMAGIQUE)
+>>> [[Magicien#PACTEMAGIQUE]]

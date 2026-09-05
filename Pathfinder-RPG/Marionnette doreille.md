@@ -4,15 +4,15 @@ Title: Marionnette d'oreille
 LastModified: 2025-05-14 08:18
 ---
 
-{s:cs}{s:MTT}**École** [Nécromancie](./Nécromancie.md) ; **Niveau**  [Alch](./Alchimiste.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, S, M](./composantes.md) (aile de papillon)
-**Portée** Courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+{s:cs}{s:MTT}**École** [[Nécromancie]] ; **Niveau**  [[Alchimiste|Alch]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, S, M]] (aile de papillon)
+**Portée** Courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cibles** Créature touchée
-**Durée** 10 minute/[niveau](./niveau.md)
-**Jet de sauvegarde** Volonté [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** non
+**Durée** 10 minute/[[niveau]]
+**Jet de sauvegarde** Volonté [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** non
 
-Vous faites en sorte qu'une de vos oreilles se détache de votre corps et se transforme en une créature magique ressemblant à une mouche que vous contrôlez. Cela fonctionne comme [Marionnette de peau](./Marionnette de peau.md), sauf que votre oreille est une construction fine avec une vitesse de vol égale à votre vitesse de base et un bonus aux tests de vol égal à la moitié de votre niveau de lanceur de sorts. Votre sens de l'ouïe fonctionne à partir de votre oreille animée comme si elle était connectée à votre tête, vous permettant d'entendre aussi bien que vous le feriez normalement depuis le point de vue de votre oreille animée.
+Vous faites en sorte qu'une de vos oreilles se détache de votre corps et se transforme en une créature magique ressemblant à une mouche que vous contrôlez. Cela fonctionne comme [[Marionnette de peau]], sauf que votre oreille est une construction fine avec une vitesse de vol égale à votre vitesse de base et un bonus aux tests de vol égal à la moitié de votre niveau de lanceur de sorts. Votre sens de l'ouïe fonctionne à partir de votre oreille animée comme si elle était connectée à votre tête, vous permettant d'entendre aussi bien que vous le feriez normalement depuis le point de vue de votre oreille animée.
 
 (((Earsend
 Source Magic Tactics Toolbox pg. 25

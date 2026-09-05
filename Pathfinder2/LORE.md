@@ -4,7 +4,7 @@ Title: Lore de Golarion (pour PF2)
 LastModified: 2025-01-08 21:02
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]
 
 <nav class="wiki-toc"></nav>
 
@@ -16,8 +16,8 @@ LastModified: 2025-01-08 21:02
 
 ### Golarion en 4719
 
-- [Carte de la région de la mer Intérieure en 4719](.//Wiki/public/upload/Illustrations/Blog/LostOmens-jpg.md)
-- [Carte du monde de Golarion en 4719](.//Wiki/public/upload/Illustrations/Blog/map0-jpg.md)
+- [[/Wiki/public/upload/Illustrations/Blog/LostOmens.jpg|Carte de la région de la mer Intérieure en 4719]]
+- [[/Wiki/public/upload/Illustrations/Blog/map0.jpg|Carte du monde de Golarion en 4719]]
 
 ### Les dix grandes régions autour de la mer Intérieure (en chantier)
 
@@ -36,31 +36,31 @@ LastModified: 2025-01-08 21:02
 
 ### L'Étendue Mwangi
 
-Cadre de la campagne [AP30|La force des milliers] et sujet principal du livre *Lost Omens: Mwangi Expanse*.
-- [Les éclats dorés](./Mwangi-EclatsDorés.md) (récit)
-- [Une rencontre fortuite](./Mwangi-RencontreFortuite.md) (récit)
-- [Le calme avant la tempête](./Mwangi-CalmeAvantTempête.md) (récit)
-- [En mouvement](./Mwangi-EnMouvement.md) (récit)
-- [Histoires de Grand-mère](./Mwangi-Grandmère.md) (récit)
+Cadre de la campagne [[AP30|La force des milliers]] et sujet principal du livre *Lost Omens: Mwangi Expanse*.
+- [[Mwangi-EclatsDorés|Les éclats dorés]] (récit)
+- [[Mwangi-RencontreFortuite|Une rencontre fortuite]] (récit)
+- [[Mwangi-CalmeAvantTempête|Le calme avant la tempête]] (récit)
+- [[Mwangi-EnMouvement|En mouvement]] (récit)
+- [[Mwangi-Grandmère|Histoires de Grand-mère]] (récit)
 
 
 ### Récits des Terres des Mammouths
 
-Cadre de la campagne [AP31|La quête de la Flamme Gelée]
+Cadre de la campagne [[AP31|La quête de la Flamme Gelée]]
 
-- [La leçon d'Eiwa](./Mammouth-Eiwa.md) (récit)
+- [[Mammouth-Eiwa|La leçon d'Eiwa]] (récit)
 
 ### Otari, port de l'île de Kortos
 
-Voir la [page consacrée à Otari](./OTARI.md).
+Voir la [[OTARI|page consacrée à Otari]].
 
 ### Absalom
 
-- [Dyrani des Récoltes](./Absalom-DyraniDesRécoltes.md) (récit)
+- [[Absalom-DyraniDesRécoltes|Dyrani des Récoltes]] (récit)
 
 ### Divers
 
-- [Ija](./Ija.md), personnage iconique pour la classe de conjureur/summoner
-- [Seltyel](./Seltyel.md), personnage iconique pour la classe de magus
-- [Nhalmika](./Nhalmika.md), personnage iconique pour la classe de flingueur
-- [Droven](./Droven.md), personnage iconique pour la classe d'inventeur
+- [[Ija]], personnage iconique pour la classe de conjureur/summoner
+- [[Seltyel]], personnage iconique pour la classe de magus
+- [[Nhalmika]], personnage iconique pour la classe de flingueur
+- [[Droven]], personnage iconique pour la classe d'inventeur

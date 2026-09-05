@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage a appris à rouler loin de son adversaire quand il est victime d’un croc-en-jambe. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 13, [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md)
+**Conditions.** [[Dex]] 13, [[Esquive]], [[Souplesse du serpent]]
 
-**Avantage.** Si le personnage est victime d’un [croc-en-jambe](./croc-en-jambe.md), il peut dépenser une [action immédiate](./Action immédiate.md) pour se déplacer de 1,50 m (1 {s:c}) sans provoquer d’attaque d’opportunité. Ce n’est pas un pas de placement de 1,50 m (1 {s:c}). Il tombe [à terre](./À terre.md) après ce déplacement.
+**Avantage.** Si le personnage est victime d’un [[croc-en-jambe]], il peut dépenser une [[action immédiate]] pour se déplacer de 1,50 m (1 {s:c}) sans provoquer d’attaque d’opportunité. Ce n’est pas un pas de placement de 1,50 m (1 {s:c}). Il tombe [[à terre]] après ce déplacement.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise ce don, il peut dépenser 5 points d’endurance pour se relever lors de l’[action immédiate](./Action immédiate.md) effectuée après son déplacement. Il provoque des [attaques d’opportunité](./AO.md) en se relevant.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise ce don, il peut dépenser 5 points d’endurance pour se relever lors de l’[[action immédiate]] effectuée après son déplacement. Il provoque des [[AO|attaques d’opportunité]] en se relevant.

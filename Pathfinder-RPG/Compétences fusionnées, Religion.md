@@ -8,19 +8,19 @@ Categories:
 
 {s:MenuPathfinderunchained}{s:PU}*Le personnage en sait beaucoup sur les divinités, le folklore sacré et les royaumes extraplanaires.*
 
-**Caractéristique associée :** [Intelligence](./Intelligence.md) ; **Formation nécessaire :** Oui ; **Malus d'armure :** Non
+**Caractéristique associée :** [[Intelligence]] ; **Formation nécessaire :** Oui ; **Malus d'armure :** Non
 
-**Fonctions.** [Identifier un monstre](./Compétences fusionnées, Religion.md#IDENTIFIERUNMONSTRE) (extérieurs et morts-vivants), [se remémorer des connaissances](./Compétences fusionnées, Religion.md#SEREMEMORERDESCONNAISSANCES) (à propos des plans ou des religions).
+**Fonctions.** [[Compétences fusionnées, Religion#IDENTIFIERUNMONSTRE|Identifier un monstre]] (extérieurs et morts-vivants), [[Compétences fusionnées, Religion#SEREMEMORERDESCONNAISSANCES|se remémorer des connaissances]] (à propos des plans ou des religions).
 
-**Compétences de base.** [Connaissances](./Connaissances.md) (plans), [Connaissances](./Connaissances.md) (religion).
+**Compétences de base.** [[Connaissances]] (plans), [[Connaissances]] (religion).
 
 {s:Reference|IDENTIFIERUNMONSTRE}
 ### Identifier un monstre
-La compétence de Religion permet d’identifier des monstres de type extérieur et mort-vivant. Voir l’encart [Identification des monstres](./Compétences fusionnées.md#IDENTIFIERDESMONSTRES).
+La compétence de Religion permet d’identifier des monstres de type extérieur et mort-vivant. Voir l’encart [[Compétences fusionnées#IDENTIFIERDESMONSTRES|Identification des monstres]].
 
 {s:Reference|SEREMEMORERDESCONNAISSANCES}
 ### Se remémorer des connaissances
-Le personnage peut utiliser la compétence Religion pour se remémorer des informations à propos des dieux, des traditions ecclésiastiques, des symboles sacrés, de l’histoire mythique, des plans et de la magie planaire. Voir l’encart [Se remémorer des connaissances](./Compétences fusionnées.md#SEREMEMORERDESCONNAISSANCES) pour plus d’informations. Utilisez les [DD](./DD.md) de la table suivante pour certaines tâches.
+Le personnage peut utiliser la compétence Religion pour se remémorer des informations à propos des dieux, des traditions ecclésiastiques, des symboles sacrés, de l’histoire mythique, des plans et de la magie planaire. Voir l’encart [[Compétences fusionnées#SEREMEMORERDESCONNAISSANCES|Se remémorer des connaissances]] pour plus d’informations. Utilisez les [[DD]] de la table suivante pour certaines tâches.
 
 <center>
 {| CLASS="tablo autoalt"

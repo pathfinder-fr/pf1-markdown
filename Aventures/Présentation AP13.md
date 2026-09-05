@@ -37,7 +37,7 @@ Les PJ, devenus héros mythiques investis du pouvoir des justes, sont en voie de
 Les PJ ont reconquis la ville de Drezen et récupéré la bannière sacrée perdue, l'Epée de Valor, et ce faisant, ils ont implanté derrière les lignes ennemies une place-forte avec laquelle il faudra compter. Avec les armées démoniaques qui concentrent toujours leurs attaques vers le sud, les héros doivent maintenant partir en plein cœur de la Plaie du Monde pour chercher de nouveaux et puissants alliés (y compris une succube dont Desna, la déesse des rêves, aurait accordé le repenti) et frapper un coup fatal contre les Templiers du Labyrinthe d’Ivoire, mais ce faisant, ils découvrent une vérité troublante à propos des sources cristallines d’une puissance mythique que les démons ont utilisées contre les croisés.  
   
 
-**Articles :** les mystérieux vers qui marchent, [La Foi Verte](./../Golarion/Foi Verte.md)}
+**Articles :** les mystérieux vers qui marchent, [[Golarion.Foi Verte|La Foi Verte]]}
 {s:BookTitle|AP14-4|The Midnight Isles/Les Iles de Minuit}
 {s:BookPic|http://static2.paizo.com/image/product/catalog/PZO/PZO9076_180.jpeg|http://paizo.com/products/btpy8z6x?Pathfinder-Adventure-Path-76-The-Midnight-Isles}
 {s:BookPic||}

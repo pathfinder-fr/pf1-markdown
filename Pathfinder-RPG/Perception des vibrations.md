@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Perception des vibrations (capacité)
 ---
 
->>> [Perception des vibrations (capacité)](./Perception des vibrations (capacité).md)
+>>> [[Perception des vibrations (capacité)]]

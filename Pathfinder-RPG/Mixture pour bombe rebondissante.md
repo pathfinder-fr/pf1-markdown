@@ -8,17 +8,17 @@ Categories:
 - Src Magic Tactics Toolbox
 ---
 
-{s:cs}{s:MTT}**École** [Transmutation](./Transmutation.md) ; **Niveau**  [Alch](./Alchimiste.md) 3
-**Temps d'incantation** 1 [action rapide](./Action rapide.md)
-**Composantes** [V, S](./composantes.md)
+{s:cs}{s:MTT}**École** [[Transmutation]] ; **Niveau**  [[Alchimiste|Alch]] 3
+**Temps d'incantation** 1 [[action rapide]]
+**Composantes** [[composantes|V, S]]
 **Portée** Personnelle
 **Cibles** Le lanceur de sort
 **Durée** 1 round
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** non
 
-En buvant un [extrait](./Alchimiste.md#EXTRAITS) créé avec cette [formule](./Alchimiste.md#FORMULES), vous apportez un changement significatif à votre réserve magique qui modifie la nature de la prochaine [bombe](./Alchimiste.md#BOMBES) que vous créerez et lancerez pendant la durée de cet [extrait](./Alchimiste.md#EXTRAITS). Cet effet sur votre réserve magique n'a aucun effet sur les [découvertes](./Alchimiste.md#DECOUVERTES) que vous utilisez pour modifier vos [bombes](./Alchimiste.md#BOMBES), mais vous ne pouvez avoir qu'un seul effet de mixture (une [formule](./Alchimiste.md#FORMULES) avec « Mixture de bombe » dans son titre) actif à la fois. Si vous buvez un autre mélange de [bombes](./Alchimiste.md#BOMBES), les effets du premier mélange prennent fin et le nouveau devient actif.
+En buvant un [[alchimiste#EXTRAITS|extrait]] créé avec cette [[alchimiste#FORMULES|formule]], vous apportez un changement significatif à votre réserve magique qui modifie la nature de la prochaine [[alchimiste#BOMBES|bombe]] que vous créerez et lancerez pendant la durée de cet [[alchimiste#EXTRAITS|extrait]]. Cet effet sur votre réserve magique n'a aucun effet sur les [[alchimiste#DECOUVERTES|découvertes]] que vous utilisez pour modifier vos [[alchimiste#BOMBES|bombes]], mais vous ne pouvez avoir qu'un seul effet de mixture (une [[alchimiste#FORMULES|formule]] avec « Mixture de bombe » dans son titre) actif à la fois. Si vous buvez un autre mélange de [[alchimiste#BOMBES|bombes]], les effets du premier mélange prennent fin et le nouveau devient actif.
 
-Lorsque vous lancez votre prochaine [bombe](./Alchimiste.md#BOMBES), choisissez une cible qui devrait normalement être touchée par les dégâts de la [bombe](./Alchimiste.md#BOMBES). La cible est affectée comme si elle avait été touchée directement par la [bombe](./Alchimiste.md#BOMBES).
+Lorsque vous lancez votre prochaine [[alchimiste#BOMBES|bombe]], choisissez une cible qui devrait normalement être touchée par les dégâts de la [[alchimiste#BOMBES|bombe]]. La cible est affectée comme si elle avait été touchée directement par la [[alchimiste#BOMBES|bombe]].
 
 (((Bouncing Bomb Admixture
 Source Magic Tactics Toolbox pg. 10

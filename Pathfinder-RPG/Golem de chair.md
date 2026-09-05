@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.167*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille G, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille G, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 8, pris au dépourvu 20 (Dex -1, naturelle +12, taille -1)}
 {s:BDTexte|**pv** 79 (9d10+30)}
 {s:BDTexte|**Réf** +2, **Vig** +3, **Vol** +3}
-{s:BDTexte|**Immunités** magie, [traits des créatures artificielles](./Traits des créatures artificielles.md) ; **RD** 5/adamantium }
+{s:BDTexte|**Immunités** magie, [[traits des créatures artificielles]] ; **RD** 5/adamantium }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 coups, +13 (2d8+5)}
@@ -35,12 +35,12 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire ou bande (2-4)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Fureur dévastatrice (Ext).** Lorsqu'un golem de chair combat, il y a un risque que l'esprit élémentaire qui l'anime se libère et que le golem entre dans une fureur dévastatrice. Ce risque s'élève à 1% lors du premier round, augmente de 1% à chaque round de combat. La fureur dévastatrice pousse le golem à ravager tout ce qui lui tombe sous la main : il attaque la créature vivante la plus proche ou frappe un objet plus petit que lui s'il n'y a aucune créature à portée, puis il continue à semer la destruction. Si le créateur du golem se trouve à moins de 18 m (12 {s:c}), il peut tenter de reprendre le contrôle de la créature en lui parlant de manière ferme et persuasive, ce qui nécessite un test de [Charisme](./Charisme.md) de [DD](./DD.md) 19. C'est seulement après que le golem soit resté inactif pendant 1 minute entière que le risque de fureur dévastatrice retombe à 0%.}
-{S:BDTexte|**Immunité contre la magie (Ext).** Les golems de chair sont immunisés contre tous les sorts et pouvoirs magiques contres lesquels la [résistance à la magie](./RM.md) fonctionne. En plus de cela, certains sorts et effets agissent différemment lorsqu'ils sont utilisés contre eux :}
-{s:BDTexte|:• Les attaques magiques qui causent des dégâts de froid ou de feu ralentissent le golem de chair (comme par le sort de *[lenteur](./Lenteur.md)*) pendant 2d6 rounds (sans [jet de sauvegarde](./jet de sauvegarde.md)).}
-{s:BDTexte|:• Les attaques magiques qui causent de dégâts d'électricité mettent un terme à tous les effets de *[lenteur](./Lenteur.md)* qui affectent le golem et le guérissent de 1 point de dégâts pour chaque tranche de 3 points qu'elles infligeraient dans une situation normale. Si cet effet donne au golem un nombre de points de vie dépassant son maximum, les points excédentaires sont des [points de vie temporaires](./points de vie temporaires.md). Les effets qui infligent des dégâts d'électricité n'autorisent aucun [jet de sauvegarde](./jet de sauvegarde.md) de la part du golem de chair.}
+{s:BDTexte|**Fureur dévastatrice (Ext).** Lorsqu'un golem de chair combat, il y a un risque que l'esprit élémentaire qui l'anime se libère et que le golem entre dans une fureur dévastatrice. Ce risque s'élève à 1% lors du premier round, augmente de 1% à chaque round de combat. La fureur dévastatrice pousse le golem à ravager tout ce qui lui tombe sous la main : il attaque la créature vivante la plus proche ou frappe un objet plus petit que lui s'il n'y a aucune créature à portée, puis il continue à semer la destruction. Si le créateur du golem se trouve à moins de 18 m (12 {s:c}), il peut tenter de reprendre le contrôle de la créature en lui parlant de manière ferme et persuasive, ce qui nécessite un test de [[Charisme]] de [[DD]] 19. C'est seulement après que le golem soit resté inactif pendant 1 minute entière que le risque de fureur dévastatrice retombe à 0%.}
+{S:BDTexte|**Immunité contre la magie (Ext).** Les golems de chair sont immunisés contre tous les sorts et pouvoirs magiques contres lesquels la [[RM|résistance à la magie]] fonctionne. En plus de cela, certains sorts et effets agissent différemment lorsqu'ils sont utilisés contre eux :}
+{s:BDTexte|:• Les attaques magiques qui causent des dégâts de froid ou de feu ralentissent le golem de chair (comme par le sort de *[[lenteur]]*) pendant 2d6 rounds (sans [[jet de sauvegarde]]).}
+{s:BDTexte|:• Les attaques magiques qui causent de dégâts d'électricité mettent un terme à tous les effets de *[[lenteur]]* qui affectent le golem et le guérissent de 1 point de dégâts pour chaque tranche de 3 points qu'elles infligeraient dans une situation normale. Si cet effet donne au golem un nombre de points de vie dépassant son maximum, les points excédentaires sont des [[points de vie temporaires]]. Les effets qui infligent des dégâts d'électricité n'autorisent aucun [[jet de sauvegarde]] de la part du golem de chair.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [golems](./Golem.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Golem|golems]].***</li></ul>
 *Cet horrible monstre titubant est un assemblage de membres ligaturés avec de la ficelle épaisse et de larges attaches métalliques.*
 
 Les golems de chair sont des assemblages macabres de parties de
@@ -89,7 +89,7 @@ lancer un sort du registre du Mal.
 
 **NLS** 8<sup>e</sup> ; **Prix** 20 500 po
 
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[animation des morts](./Animation des morts.md)*, *[force de taureau](./Force de taureau.md)*, *[quête](./Quête.md)*, *[souhait limité](./Souhait limité.md)*, créateur de niveau 8 ; **Compétence** [Artisanat](./Artisanat.md) (travail du cuir) ou [Premiers secours](./Premiers secours.md) [DD](./DD.md) 13 ; **Coût** 10 500 po
+**Conditions** [[Création de créatures artificielles]], *[[animation des morts]]*, *[[force de taureau]]*, *[[quête]]*, *[[souhait limité]]*, créateur de niveau 8 ; **Compétence** [[Artisanat]] (travail du cuir) ou [[Premiers secours]] [[DD]] 13 ; **Coût** 10 500 po
 </div>
 
 {s:ImageCentre|Bestiaire/Golem de chair.jpg|90%}

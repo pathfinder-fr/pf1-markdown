@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Types dactions#LIBRE
 ---
 
->>> [Types dactions#LIBRE](./Types dactions.md#LIBRE)
+>>> [[Types dactions#LIBRE]]

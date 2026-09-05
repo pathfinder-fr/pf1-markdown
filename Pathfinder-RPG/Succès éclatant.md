@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*Le succès du personnage l’aide dans ses prochaines actions.*
 
-**Conditions.** [Humain](./Humain.md)
+**Conditions.** [[Humain]]
 
-**Avantages.** Quand le personnage confirme un [coup critique](./coup critique.md) ou qu’il fait un 20 naturel sur un [jet de sauvegarde](./jet de sauvegarde.md), il gagne un bonus de circonstances de +2 à un unique [jet d’attaque](./jet dattaque.md), [jet de sauvegarde](./jet de sauvegarde.md), test de compétence ou test de caractéristique avant la fin de son prochain tour. Le personnage doit annoncer qu’il utilise le bonus avant de faire le jet ou le test associé.
+**Avantages.** Quand le personnage confirme un [[coup critique]] ou qu’il fait un 20 naturel sur un [[jet de sauvegarde]], il gagne un bonus de circonstances de +2 à un unique [[jet dattaque|jet d’attaque]], [[jet de sauvegarde]], test de compétence ou test de caractéristique avant la fin de son prochain tour. Le personnage doit annoncer qu’il utilise le bonus avant de faire le jet ou le test associé.

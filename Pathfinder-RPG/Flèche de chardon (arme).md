@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 1 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
 ---
-Fabriquées à partir des chardons d'une plante vénéneuse, ces flèches barbelées infligent des dégâts sous forme d'effet de [saignement](./Saignement.md) pendant 1d6 [rounds](./round.md) après une attaque réussie.
+Fabriquées à partir des chardons d'une plante vénéneuse, ces flèches barbelées infligent des dégâts sous forme d'effet de [[saignement]] pendant 1d6 [[round|rounds]] après une attaque réussie.

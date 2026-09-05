@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Hutte dansante de Baba Yaga.md).***
+***Voir les [[Pathfinder-RPG.Hutte dansante de Baba Yaga|statistiques de cet artefact]].***
 
 Il s’agit d’une petite hutte rustique dont les murs de bois sont garnis de bouquets d’herbes séchées et gravés de symboles étranges et inquiétants. Son porche en bois craquelé repose sur une paire de pattes semblables à celles d’un poulet de 4,50 mètres de haut avec des serres gigantesques couvertes de boue mais aussi tranchantes que des rasoirs.
 
@@ -17,9 +17,9 @@ Ceux qui rencontrent la Hutte dansante de Baba Yaga doivent prendre plusieurs é
 
 - **Les gardiens.** La maîtresse de la Hutte dansante poste souvent des gardiens extraordinaires à l’intérieur de la hutte pour la protéger contre les intrus. Voici les plus courants :  
 
-*Le Corbillard ([thanadaémon](./../Pathfinder-RPG/Thanadaémon.md), NM).* On trouve parfois un individu squelettique à l’intérieur de la hutte, assis dans un fauteuil poussiéreux et jouant aux cartes sur un cercueil complètement desséché. Il prétend être un cousin de la propriétaire de la hutte et dit qu’il attendait les visiteurs. D’un air las, il indique aux nouveaux arrivants que leurs objectifs n’ont plus aucune importance et utilise le chaudron pour ouvrir un portail vers l’Abaddon, encourageant les créatures vivantes à y entrer… avec sa faux au besoin. Le Corbillard est une menace de FP 13.  
+*Le Corbillard ([[Pathfinder-RPG.thanadaémon|thanadaémon]], NM).* On trouve parfois un individu squelettique à l’intérieur de la hutte, assis dans un fauteuil poussiéreux et jouant aux cartes sur un cercueil complètement desséché. Il prétend être un cousin de la propriétaire de la hutte et dit qu’il attendait les visiteurs. D’un air las, il indique aux nouveaux arrivants que leurs objectifs n’ont plus aucune importance et utilise le chaudron pour ouvrir un portail vers l’Abaddon, encourageant les créatures vivantes à y entrer… avec sa faux au besoin. Le Corbillard est une menace de FP 13.  
 
-*Gaj, le Jötun gentleman ([troll jötun](./../Pathfinder-RPG/Troll jötun.md), CM).* Sa tête touchant presque le plafond, Gaj est un troll jötun de 4,80 mètres qui se dresse au centre de la hutte et remue le contenu du chaudron avec un trident de taille TG. Le troll, vêtu d’une veste fatiguée en peau de loup et d’une chapka assortie, invite poliment les visiteurs à s’en aller. S’ils refusent, il retire son couvrechef, se débarrasse délibérément de sa veste, qu’il replie, révélant ainsi ses nombreuses têtes qui grognent, et attaque dans un rugissement sauvage. Gaj est un adversaire de FP 15.  
+*Gaj, le Jötun gentleman ([[Pathfinder-RPG.troll jötun|troll jötun]], CM).* Sa tête touchant presque le plafond, Gaj est un troll jötun de 4,80 mètres qui se dresse au centre de la hutte et remue le contenu du chaudron avec un trident de taille TG. Le troll, vêtu d’une veste fatiguée en peau de loup et d’une chapka assortie, invite poliment les visiteurs à s’en aller. S’ils refusent, il retire son couvrechef, se débarrasse délibérément de sa veste, qu’il replie, révélant ainsi ses nombreuses têtes qui grognent, et attaque dans un rugissement sauvage. Gaj est un adversaire de FP 15.  
 
 *Louhi (humain (f), magicien 20+, CM).* Dans la hutte, on trouve parfois une mystérieuse sorcière aux cheveux noir-corbeau, qui déclare avec un petit sourire suffisant s’appeler Louhi. Cette belle femme qui connaît tous les secrets de la Hutte dansante fait une piètre gardienne. Elle se moque très souvent de la propriétaire de l’artefact, affirmant être l’héritière légitime de la hutte et montrant aux intrus comment se servir de ses différents pouvoirs. Bien qu’extrêmement imprévisible, maléfique et indigne de confiance, elle emploie occasionnellement des aventuriers pour l’aider à interférer dans les affaires politiques d’autres mondes. Louhi est fière mais refuse de se battre. Elle se sert de sa magie pour s’en aller brusquement mais manifeste les pouvoirs d’une magicienne de niveau 20 au minimum.
 

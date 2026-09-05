@@ -4,9 +4,9 @@ Title: Jouer un mort-vivant
 LastModified: 2025-10-02 17:08
 ---
 
-{s:bodmenu}• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+{s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 Rares sont les morts-vivants qui peuvent prétendre au titre de héros, mais un petit nombre d’entre eux parviennent à surmonter les défis inhérents à la non-vie et à devenir quelque chose de plus de simples morts-vivants. Grâce à leur durabilité et leur faculté d’adaptation, ils peuvent même devenir des aventuriers prospères. Les outils décrits ci-dessous vous permettent d’incarner un personnage joueur mort-vivant.

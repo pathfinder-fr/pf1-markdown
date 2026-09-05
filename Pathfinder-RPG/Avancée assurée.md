@@ -15,18 +15,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 1, [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1  
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (une patte de lapin)  
+**Composantes** [[Composantes|V, G, F]] (une patte de lapin)  
 
 **Portée** personnelle  
 
 **Cible** le lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ou jusqu'à déchargement  
+**Durée** 1 [[round]]/[[niveau]] ou jusqu'à déchargement  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Ce sort crée un [effet de force](./Registre.md) subtil et complexe qui gagne en efficacité quand le lanceur de sorts qui en bénéficie reste immobile ou avance très lentement. Lorsque le personnage est affecté par ce sort, il avance de 1,50 m (1 {s:c}) par [round](./round.md) et peut lancer des sorts et utiliser des [pouvoirs magiques](./pouvoirs magiques.md) sans provoquer d’[attaque d’opportunité](./attaque dopportunité.md). Le sort se décharge automatiquement dès qu’il fait une attaque, lance un sort offensif contre une autre créature ou avance de plus de 1,50 m (1 {s:c}) lors d’une seule [action de mouvement](./Action de mouvement.md). Si l’action qui décharge le sort devrait provoquer une [attaque d’opportunité](./attaque dopportunité.md), elle le fait normalement.
+Ce sort crée un [[registre|effet de force]] subtil et complexe qui gagne en efficacité quand le lanceur de sorts qui en bénéficie reste immobile ou avance très lentement. Lorsque le personnage est affecté par ce sort, il avance de 1,50 m (1 {s:c}) par [[round]] et peut lancer des sorts et utiliser des [[pouvoirs magiques]] sans provoquer d’[[attaque dopportunité|attaque d’opportunité]]. Le sort se décharge automatiquement dès qu’il fait une attaque, lance un sort offensif contre une autre créature ou avance de plus de 1,50 m (1 {s:c}) lors d’une seule [[action de mouvement]]. Si l’action qui décharge le sort devrait provoquer une [[attaque dopportunité|attaque d’opportunité]], elle le fait normalement.

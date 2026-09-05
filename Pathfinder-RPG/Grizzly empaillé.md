@@ -15,22 +15,22 @@ Categories:
 {s:pucem|Créature artificielle|Forêt-Jungle|Tempéré}
 {s:BDtexte|*Source : Bestiaire 5 p.66*}
 {s:BDtexte|**PX** 800}
-{s:BDtexte|[Créature artificielle](./type Créature artificielle.md) de taille G, N}
-{s:BDtexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +0}
+{s:BDtexte|[[type Créature artificielle|Créature artificielle]] de taille G, N}
+{s:BDtexte|**Init** +0 ; **Sens** [[vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +0}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 12, contact 9, pris au dépourvu 12 (naturelle +3, taille -1)}
 {s:BDtexte|**pv** 63 (6d10+30)}
 {s:BDtexte|**Réf** +2, **Vig** +2, **Vol** +2}
-{s:BDtexte|**Immunités** [traits des créatures artificielles](./Traits des créatures artificielles.md)}
-{s:BDtexte|**Faiblesses** [défaut](./Créature empaillée, archétype.md) (coutures grossières), [vulnérabilité aux dégâts tranchants](./Créature empaillée, archétype.md)}
+{s:BDtexte|**Immunités** [[traits des créatures artificielles]]}
+{s:BDtexte|**Faiblesses** [[Créature empaillée, archétype|défaut]] (coutures grossières), [[Créature empaillée, archétype|vulnérabilité aux dégâts tranchants]]}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 9 m}
 {s:BDtexte|**Corps à corps** 2 griffes, +7 (1d6+4) et morsure, +7 (1d6+4) ou coup, +7 (1d6+6)}
 {s:BDtexte|**Espace occupé** 3 m ; **Allonge** 1,50 m}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 19, **Dex** 11, **Con** —, **Int** —, **Sag** 10, **Cha** 3}
-{s:BDtexte|**BBA** +4, **BMO** +9, **DMD** 19 (23 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDtexte|**Compétences** [Natation](./Natation.md) +8 ; **Modificateurs raciaux** +4 en Natation}
+{s:BDtexte|**BBA** +4, **BMO** +9, **DMD** 19 (23 contre le [[croc-en-jambe]])}
+{s:BDtexte|**Compétences** [[Natation]] +8 ; **Modificateurs raciaux** +4 en Natation}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** tous}
 {s:BDtexte|**Organisation sociale** toutes}
@@ -39,7 +39,7 @@ Categories:
 </td>
 <td>
 <div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature empaillée](./Créature empaillée, archétype.md).***</li></ul>*Des touffes de fourrure dépassent ici et là de cet ours hideux au corps labouré de longues incisions grossièrement recousues.*
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature empaillée, archétype|Créature empaillée]].***</li></ul>*Des touffes de fourrure dépassent ici et là de cet ours hideux au corps labouré de longues incisions grossièrement recousues.*
 
 
 Les créatures empaillées sont l’oeuvre d’individus obsédés par le besoin de préserver et de réanimer des êtres privés de vie grâce à leurs talents occultes ou alchimiques. Les aptitudes des créatures empaillées ne sont souvent qu’un pâle reflet de celles de leurs équivalents vivants car elles ne possèdent pas leur intelligence et n’ont pas de force vitale pour les guider. En revanche, elles sont dotées d’une sorte d’instinct rudimentaire et sont à même d’obéir aux ordres basiques émanant de leur créateur.

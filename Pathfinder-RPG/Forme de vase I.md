@@ -11,26 +11,26 @@ Categories:
 
 {s:cs|Ultimate Wilderness}
 
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./métamorphose.md)) ; **Niveau** [Alch](./Alchimiste.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Magus](./Magus.md) 5  
+**École** [[Transmutation]] ([[métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un morceau de la créature dont le personnage veut prendre l’apparence)  
+**Composantes** [[composantes|V, G, M]] (un morceau de la créature dont le personnage veut prendre l’apparence)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 
-Quand le personnage lance ce sort, il prend la forme de n’importe quelle créature de type [vase](./type Vase.md) de [taille P](./taille P.md) ou de [taille M](./taille M.md).
+Quand le personnage lance ce sort, il prend la forme de n’importe quelle créature de type [[type vase|vase]] de [[taille P]] ou de [[taille M]].
 
-Quelque soit la vase dont il prend la forme, le personnage voit sa vitesse de base passer à 3 m (2 c) alors qu'il obtient une vitesse d'escalade de 3 m (2 c), une vitesse de nage de 6 m (4 c), la [perception aveugle](./Perception aveugle (capacité).md) à 9 m (6 c), ainsi qu'un bonus de résistance de +4 aux [jets de sauvegarde](./JDS.md) contre les effets mentaux et le poison.
-Une arme en bois ou en métal utilisée pour attaquer le personnage subit des dégâts comme s'il l'avait touchée avec son attaque de coup, sauf si le porteur de l'arme réussit un jet de [Réflexes](./Réflexes.md).
+Quelque soit la vase dont il prend la forme, le personnage voit sa vitesse de base passer à 3 m (2 c) alors qu'il obtient une vitesse d'escalade de 3 m (2 c), une vitesse de nage de 6 m (4 c), la [[perception aveugle (capacité)|perception aveugle]] à 9 m (6 c), ainsi qu'un bonus de résistance de +4 aux [[jds|jets de sauvegarde]] contre les effets mentaux et le poison.
+Une arme en bois ou en métal utilisée pour attaquer le personnage subit des dégâts comme s'il l'avait touchée avec son attaque de coup, sauf si le porteur de l'arme réussit un jet de [[Réflexes]].
 
-**Vase de taille P :** En prenant cette forme, le personnage obtient un bonus de taille de +4 à sa valeur de [Constitution](./Constitution.md), une attaque de coup (1d3 plus 1d3 acide) et la capacité de [constriction](./Constriction (capacité).md) (1d3), mais subit un malus de -4 à sa valeur de [Dextérité](./Dextérité.md).
+**Vase de taille P :** En prenant cette forme, le personnage obtient un bonus de taille de +4 à sa valeur de [[Constitution]], une attaque de coup (1d3 plus 1d3 acide) et la capacité de [[constriction (capacité)|constriction]] (1d3), mais subit un malus de -4 à sa valeur de [[Dextérité]].
 
-**Vase de taille M :** En prenant cette forme, le personnage obtient un bonus de taille de +6 à sa valeur de [Constitution](./Constitution.md), une attaque de coup (1d4 plus 1d4 acide) et la capacité de [constriction](./Constriction (capacité).md) (1d4), mais subit un malus de -6 à sa valeur de [Dextérité](./Dextérité.md).
+**Vase de taille M :** En prenant cette forme, le personnage obtient un bonus de taille de +6 à sa valeur de [[Constitution]], une attaque de coup (1d4 plus 1d4 acide) et la capacité de [[constriction (capacité)|constriction]] (1d4), mais subit un malus de -6 à sa valeur de [[Dextérité]].
 
 (((You assume the form of a Small or Medium ooze. Regardless of the type of ooze you transform into, you gain base speed 10 feet, climb speed 10 feet, swim speed 20 feet, and blindsense 30 feet. You gain a +4 resistance bonus on saving throws against mind-affecting effects and poison. A wood or metal weapon that strikes you takes acid damage as if from your slam unless the wielder succeeds at a Reflex saving throw.
 

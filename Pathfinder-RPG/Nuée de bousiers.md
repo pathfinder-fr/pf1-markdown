@@ -13,28 +13,28 @@ Categories:
 {s:pucem|Vermine|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 5 p.49*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Vermine](./type Vermine.md) ([nuée](./sous-type nuée.md)) de taille I, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type nuée|nuée]]) de taille I, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 18, pris au dépourvu 18 (taille +8)}
 {s:BDTexte|**pv** 22 (4d8+4)}
 {s:BDTexte|**Réf** +1, **Vig** +5, **Vol** +1 ; +4 contre maladie et paralysie}
 {s:BDTexte|**Capacités défensives** traits des nuées ; **Immunités** effets mentaux, armes}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 9 m, escalade 3 m, [vol](./Vol (capacité).md) 6 m (maladroite)}
+{s:BDTexte|**VD** 9 m, escalade 3 m, [[Vol (capacité)|vol]] 6 m (maladroite)}
 {s:BDTexte|**Corps à corps** nuée (1d6 plus maladie et distraction)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 0 m.}
-{s:BDTexte|**Attaques spéciales** [distraction](./Distraction (capacité).md) (DD 13)}
+{s:BDTexte|**Attaques spéciales** [[Distraction (capacité)|distraction]] (DD 13)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 10, **Con** 13, **Int** —, **Sag** 11, **Cha** 2}
 {s:BDTexte|**BBA** +3 ; **BMO** — ; **DMD** —}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +8, [Perception](./Perception.md) +4, [Vol](./Vol.md) +0 ; **Modificateurs raciaux** +4 en Perception}
+{s:BDTexte|**Compétences** [[Escalade]] +8, [[Perception]] +4, [[Vol]] +0 ; **Modificateurs raciaux** +4 en Perception}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** déserts chauds}
 {s:BDTexte|**Organisation** solitaire, paire ou infestation (3-6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Maladie (Ext).** *Fièvre des marais* : Morsure — blessure ; *[jet de sauvegarde](./jet de sauvegarde.md)* [Vig](./Vigueur.md) [DD](./DD.md) 13 ; *incubation* 1d3 jours ; *fréquence* 1 jour ; *effet* affaiblissement temporaire de 1d3 [Dex](./Dextérité.md) et de 1d3 [Con](./Constitution.md) ; *guérison* 2 jets de sauvegarde consécutifs.}
+{s:BDTexte|**Maladie (Ext).** *Fièvre des marais* : Morsure — blessure ; *[[jet de sauvegarde]]* [[Vigueur|Vig]] [[DD]] 13 ; *incubation* 1d3 jours ; *fréquence* 1 jour ; *effet* affaiblissement temporaire de 1d3 [[Dextérité|Dex]] et de 1d3 [[Constitution|Con]] ; *guérison* 2 jets de sauvegarde consécutifs.}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Bousier géant](./Bousier géant.md) || 6
+| [[Bousier géant]] || 6
 |-
-| [Nuée de bousiers](./Nuée de bousiers.md) || 3
+| [[Nuée de bousiers]] || 3
 |}
 </div>*De cette masse d’insectes iridescents d’un noir bleuté se dégage une puanteur nauséabonde. Elle est accompagnée d’un nuage de poussière sale.*
 

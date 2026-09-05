@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 500 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Le sextant sert à déterminer la latitude. En conjonction avec un [astrolabe](./Astrolabe (objet).md), il donne au personnage un bonus de circonstances de +4 aux tests de [Survie](./Survie.md) pour ne pas se perdre.
+Le sextant sert à déterminer la latitude. En conjonction avec un [[Astrolabe (objet)|astrolabe]], il donne au personnage un bonus de circonstances de +4 aux tests de [[Survie]] pour ne pas se perdre.

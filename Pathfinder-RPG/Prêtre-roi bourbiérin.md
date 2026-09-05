@@ -11,11 +11,11 @@ Categories:
 <div class="BD">
 {s:BDTitre|Prêtre-roi bourbiérin|FP 11}
 {s:pucem|Humanoïde|Marais|Tempéré}
-{s:BDTexte|*Source : [Codex monstrueux p.15](./Codex monstrueux (Contenu).md)*}
+{s:BDTexte|*Source : [[Codex monstrueux (Contenu)|Codex monstrueux p.15]]*}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|[Bourbiérin](./Bourbiérin.md) [prêtre](./Prêtre.md) 10}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) (bourbiérin) de taille M, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[Bourbiérin]] [[prêtre]] 10}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (bourbiérin) de taille M, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 9, pris au dépourvu 20 (armure +6, bouclier +1, Dex -1, naturelle +4)}
 {s:BDTexte|**pv** 120 (13d8+62)}
@@ -25,28 +25,28 @@ Categories:
 {s:BDTexte|**VD** 4,50 m, nage 9 m}
 {s:BDTexte|**Corps à corps** morgenstern +1, +15/+10 (1d8+5) et langue, +8 contact (langue gluante)}
 {s:BDTexte|**Attaques spéciales** canalisation d’énergie négative 5/jour (DD 17, 5d6), faux maléfique (5 rounds, 1/jour), coassement terrifiant (DD 15)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 13 ; [concentration](./concentration.md) +15)}
-{s:BDSorts|1/jour — *[nappe de brouillard](./Nappe de brouillard.md)*, *[nuée grouillante](./Nuée grouillante.md)*, *[saut](./Saut.md)*}
-{s:BDTexte|**Pouvoirs magiques** de domaine ([NLS](./NLS.md) 10 ; [concentration](./concentration.md) +15)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 13 ; [[concentration]] +15)}
+{s:BDSorts|1/jour — *[[nappe de brouillard]]*, *[[nuée grouillante]]*, *[[saut]]*}
+{s:BDTexte|**Pouvoirs magiques** de domaine ([[NLS]] 10 ; [[concentration]] +15)}
 {s:BDSorts|8/jour — trait de glace (1d6+5 froid), toucher maléfique (5 rounds)}
-{s:BDTexte|**Sorts de prêtre préparés** ([NLS](./NLS.md) 10 ; [concentration](./concentration.md) +15)}
-{s:BDSorts|5e — *[exécution](./Exécution.md)* (DD 20), *[fléau d'insectes](./Fléau dinsectes.md)*, *[force du colosse](./Force du colosse.md)*, *[rejet du Bien](./Rejet du Bien.md)*<sup>D</sup> (DD 20)}
-{s:BDSorts|4e — *[contrôle de l'eau](./Contrôle de leau.md)*<sup>D</sup>, *[liberté de mouvement](./Liberté de mouvement.md)*, *[puissance divine](./Puissance divine.md)*, *[soins intensifs](./Soins intensifs.md)*, *[ténèbres maudites](./Ténèbres maudites.md)* (DD 19)}
-{s:BDSorts|3e — *[cercle magique contre le Bien](./Cercle magique contre le Bien.md)*<sup>D</sup>, *[dissipation de la magie](./Dissipation de la magie.md)*, *[malédiction](./sort Malédiction.md)* (DD 18), *[négation de l'invisibilité](./Négation de linvisibilité.md)*, *[panoplie magique](./Panoplie magique.md)*}
-{s:BDSorts|2e — *[cacophonie](./Cacophonie.md)* (DD 17), *[discours captivant](./Discours captivant.md)* (DD 17), *[endurance de l'ours](./Endurance de lours.md)*, *[mise à mort](./Mise à mort.md)* (DD 17), *[nappe de brouillard](./Nappe de brouillard.md)*<sup>D</sup>, *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*}
-{s:BDSorts|1er — *[bénédiction](./Bénédiction.md)*, *[bouclier de la foi](./Bouclier de la foi.md)*, *[faveur divine](./Faveur divine.md)*, *[imprécation](./Imprécation.md)* (DD 16), *[protection contre le Bien](./Protection contre le Bien.md)*<sup>D</sup>, *[sanctuaire](./Sanctuaire.md)*, *[soins légers](./Soins légers.md)*}
-{s:BDSorts|0 (à volonté) — *[assistance divine](./Assistance divine.md)*, *[création d'eau](./Création deau.md)*, *[détection du poison](./Détection du poison.md)*, *[purification de nourriture et d’eau](./Purification de nourriture et deau.md)*}
-{s:BDSorts|**D** sort de domaine ; **Domaine** [Eau](./Domaine de lEau.md), [Mal](./Domaine du Mal.md)}
+{s:BDTexte|**Sorts de prêtre préparés** ([[NLS]] 10 ; [[concentration]] +15)}
+{s:BDSorts|5e — *[[exécution]]* (DD 20), *[[fléau dinsectes|fléau d'insectes]]*, *[[force du colosse]]*, *[[rejet du Bien]]*<sup>D</sup> (DD 20)}
+{s:BDSorts|4e — *[[contrôle de leau|contrôle de l'eau]]*<sup>D</sup>, *[[liberté de mouvement]]*, *[[puissance divine]]*, *[[soins intensifs]]*, *[[ténèbres maudites]]* (DD 19)}
+{s:BDSorts|3e — *[[cercle magique contre le Bien]]*<sup>D</sup>, *[[dissipation de la magie]]*, *[[sort Malédiction|malédiction]]* (DD 18), *[[négation de linvisibilité|négation de l'invisibilité]]*, *[[panoplie magique]]*}
+{s:BDSorts|2e — *[[cacophonie]]* (DD 17), *[[discours captivant]]* (DD 17), *[[endurance de lours|endurance de l'ours]]*, *[[mise à mort]]* (DD 17), *[[nappe de brouillard]]*<sup>D</sup>, *[[résistance aux énergies destructives]]*}
+{s:BDSorts|1er — *[[bénédiction]]*, *[[bouclier de la foi]]*, *[[faveur divine]]*, *[[imprécation]]* (DD 16), *[[protection contre le Bien]]*<sup>D</sup>, *[[sanctuaire]]*, *[[soins légers]]*}
+{s:BDSorts|0 (à volonté) — *[[assistance divine]]*, *[[création deau|création d'eau]]*, *[[détection du poison]]*, *[[purification de nourriture et deau|purification de nourriture et d’eau]]*}
+{s:BDSorts|**D** sort de domaine ; **Domaine** [[Domaine de lEau|Eau]], [[Domaine du Mal|Mal]]}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Pendant le combat.** Le prêtre-roi reste assis, affichant une arrogance paresseuse et lançant quelques sorts tout en laissant ses sbires assurer sa protection, à moins qu’il ne soit obligé d’intervenir personnellement.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 9, **Con** 16, **Int** 10, **Sag** 20, **Cha** 14}
 {s:BDTexte|**BBA** +9 ; **BMO** +13 ; **DMD** 22}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morgenstern), [Création de baguettes magiques](./Création de baguettes magiques.md), [Magie de guerre](./Magie de guerre.md), [Préparation de potions](./Préparation de potions.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +0 (+16 pour sauter), [Art de la magie](./Art de la magie.md) +8, [Connaissances](./Connaissances.md) (plans) +8, [Connaissances](./Connaissances.md) (religion) +8, [Diplomatie](./Diplomatie.md) +8, [Discrétion](./Discrétion.md) +0 (+8 dans les marais), [Natation](./Natation.md) +10, [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +13}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morgenstern), [[Création de baguettes magiques]], [[Magie de guerre]], [[Préparation de potions]], [[Réflexes surhumains]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +0 (+16 pour sauter), [[Art de la magie]] +8, [[Connaissances]] (plans) +8, [[Connaissances]] (religion) +8, [[Diplomatie]] +8, [[Discrétion]] +0 (+8 dans les marais), [[Natation]] +10, [[Perception]] +9, [[Psychologie]] +13}
 {s:BDTexte|**Langues** bourbiérin}
-{s:BDTexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md), prêtre-roi, déplacement facilité (marais)}
-{s:BDTexte|**Équipement de combat** *baguette de [soins légers](./Soins légers.md)* (35 charges), *baguette de [sagesse du hibou](./Sagesse du hibou.md)* (25 charges), *baguette de [prière](./Prière.md)* (13 charges) ; **Équipement divers** *[armure de peau](./armure de peau (armure).md) +2*, *[morgenstern](./morgenstern (arme).md) +1*, *[amulette d’armure naturelle +1](./Amulette darmure naturelle.md)*, *[cape de résistance +1](./Cape de résistance.md)*, [sacoche à composantes](./Trousses doutils et de compétences.md#Sacoche à composantes), 24 po}
+{s:BDTexte|**Particularités** [[Retenir son souffle (capacité)|retenir son souffle]], prêtre-roi, déplacement facilité (marais)}
+{s:BDTexte|**Équipement de combat** *baguette de [[soins légers]]* (35 charges), *baguette de [[sagesse du hibou]]* (25 charges), *baguette de [[prière]]* (13 charges) ; **Équipement divers** *[[armure de peau (armure)|armure de peau]] +2*, *[[morgenstern (arme)|morgenstern]] +1*, *[[Amulette darmure naturelle|amulette d’armure naturelle +1]]*, *[[Cape de résistance|cape de résistance +1]]*, [[Trousses doutils et de compétences#Sacoche à composantes|sacoche à composantes]], 24 po}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -55,29 +55,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Bourbiérin](./Bourbiérin.md) || 2
+| [[Bourbiérin]] || 2
 |-
-| [Bourbiérin balafré](./Bourbiérin balafré.md) || 6
+| [[Bourbiérin balafré]] || 6
 |-
-| [Bourbiérin sauvage](./Bourbiérin sauvage.md) || 4
+| [[Bourbiérin sauvage]] || 4
 |-
-| [Brute bourbiérine](./Brute bourbiérine.md) || 3
+| [[Brute bourbiérine]] || 3
 |-
-| [Champion bourbiérin](./Champion bourbiérin.md) || 7
+| [[Champion bourbiérin]] || 7
 |-
-| [Chasseur bourbiérin](./Chasseur bourbiérin.md) || 5
+| [[Chasseur bourbiérin]] || 5
 |-
-| [Grandcoasseur bourbiérin](./Grandcoasseur bourbiérin.md) || 3
+| [[Grandcoasseur bourbiérin]] || 3
 |-
-| [Guerrier abyssal bourbiérin](./Guerrier abyssal bourbiérin.md) || 8
+| [[Guerrier abyssal bourbiérin]] || 8
 |-
-| [Oracle du marais bourbiérin](./Oracle du marais bourbiérin.md) || 4
+| [[Oracle du marais bourbiérin]] || 4
 |-
-| [Prêtre-roi bourbiérin](./Prêtre-roi bourbiérin.md) || 11
+| [[Prêtre-roi bourbiérin]] || 11
 |-
-| [Prophète bourbiérin](./Prophète bourbiérin.md) || 5
+| [[Prophète bourbiérin]] || 5
 |-
-| [Traqueur bourbiérin](./Traqueur bourbiérin.md) || 9
+| [[Traqueur bourbiérin]] || 9
 |}
 </div>Il est rare que le dirigeant d’une tribu bourbiérine prenne part au combat, mais quand cela se produit, il se révèle un adversaire redoutable.
 

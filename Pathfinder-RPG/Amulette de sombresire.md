@@ -11,9 +11,9 @@ Categories:
 
 {s:racial|Tieffelin (race)|tieffelins|Illustrations/PNJ/Tieffelin.jpg}<div class="BD">
 {s:BDTitre|Amulette de sombresire|{s:MR}}
-**Aura** [Abjuration](./Abjuration.md) faible ; **NLS** 3 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 9 000 po ; **Poids** 0,5 kg
+**Aura** [[Abjuration]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 9 000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce petit médaillon en fer renferme un souvenir (une écaille, un morceau de corne ou de griffe, ou une mèche de cheveux brûlés) de fiélon. Lorsqu’un tieffelin ayant une [résistance](./Résistance (capacité).md) au froid, à l’électricité ou au feu porte cette amulette, il augmente sa résistance de 5. En outre, il rajoute un [bonus](./bonus.md) d’intuition de +4 aux tests de [Diplomatie](./Diplomatie.md) pour influencer les [extérieurs](./type Extérieur.md) Mauvais.
+Ce petit médaillon en fer renferme un souvenir (une écaille, un morceau de corne ou de griffe, ou une mèche de cheveux brûlés) de fiélon. Lorsqu’un tieffelin ayant une [[résistance (capacité)|résistance]] au froid, à l’électricité ou au feu porte cette amulette, il augmente sa résistance de 5. En outre, il rajoute un [[bonus]] d’intuition de +4 aux tests de [[Diplomatie]] pour influencer les [[type Extérieur|extérieurs]] Mauvais.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, le créateur doit être un tieffelin, un demifiélon ou un vrai fiélon ; **Coût** 4 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[résistance aux énergies destructives]]*, le créateur doit être un tieffelin, un demifiélon ou un vrai fiélon ; **Coût** 4 500 po
 </div>

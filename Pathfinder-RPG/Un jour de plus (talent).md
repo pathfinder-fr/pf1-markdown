@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#UNJOURDEPLUS
 ---
 
->>> [Talents#UNJOURDEPLUS](./Talents.md#UNJOURDEPLUS)
+>>> [[Talents#UNJOURDEPLUS]]

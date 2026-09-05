@@ -14,23 +14,23 @@ Categories:
 ---
 
 {s:UM}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[Mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 2, [Spi](./Spirite.md) 2</br>
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2</br>
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un onyx noir valant au moins 25 po par dé de vie du mort-vivant)  
+**Composantes** [[COMPOSANTES|V, G, M]] (un onyx noir valant au moins 25 po par dé de vie du mort-vivant)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** un cadavre</br>
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)</br>
+**Durée** [[présentation des sorts#DUREE|instantanée]]</br>
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-*Animation des morts mineure* transforme un cadavre en [zombi](./Zombi humain.md) ou des ossements en [squelette](./Squelette humain.md) obéissant aux ordres du lanceur de sorts. Le [mort-vivant](./type Mort-vivant.md) peut suivre son maître ou monter la garde à un endroit précis en attaquant tout ce qui bouge (ou seulement certains [types](./Types de créatures.md) de créatures). Il reste animé tant qu’il n'est pas détruit, après quoi il ne pourra plus être affecté de nouveau par ce sort.
+*Animation des morts mineure* transforme un cadavre en [[zombi humain|zombi]] ou des ossements en [[squelette humain|squelette]] obéissant aux ordres du lanceur de sorts. Le [[type mort-vivant|mort-vivant]] peut suivre son maître ou monter la garde à un endroit précis en attaquant tout ce qui bouge (ou seulement certains [[Types de créatures|types]] de créatures). Il reste animé tant qu’il n'est pas détruit, après quoi il ne pourra plus être affecté de nouveau par ce sort.
 
-Le [mort-vivant](./type Mort-vivant.md) créé de la sorte reste indéfiniment sous le contrôle de son maître, qui peut en diriger jusqu’à 4 [DV](./../Ressources/DV.md) par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md). Si cette limite est dépassée, il domine bien les [morts-vivants](./type Mort-vivant.md) qu’il vient juste d’animer, mais les autres, qu’il contrôlait jusque-là, lui échappent totalement (il décide desquels il s’agit). Les [morts-vivants](./type Mort-vivant.md) que le lanceur de sorts contrôle à l’aide du don [Contrôle des morts-vivants](./Contrôle des morts-vivants.md) ne comptent pas.
+Le [[type mort-vivant|mort-vivant]] créé de la sorte reste indéfiniment sous le contrôle de son maître, qui peut en diriger jusqu’à 4 [[DV]] par [[niveau de lanceur de sorts]]. Si cette limite est dépassée, il domine bien les [[type mort-vivant|morts-vivants]] qu’il vient juste d’animer, mais les autres, qu’il contrôlait jusque-là, lui échappent totalement (il décide desquels il s’agit). Les [[type mort-vivant|morts-vivants]] que le lanceur de sorts contrôle à l’aide du don [[Contrôle des morts-vivants]] ne comptent pas.
 
-::*Squelette.* On ne peut animer en [squelette](./Squelette humain.md) qu'un squelette ou un cadavre quasiment intact. Le corps doit posséder une ossature. Dans le cas où le cadavre est encore en assez bon état, sa chair et ses muscles tombent pour ne plus laisser que ses os.
+::*Squelette.* On ne peut animer en [[Squelette humain|squelette]] qu'un squelette ou un cadavre quasiment intact. Le corps doit posséder une ossature. Dans le cas où le cadavre est encore en assez bon état, sa chair et ses muscles tombent pour ne plus laisser que ses os.
 
-::*Zombi.* Un corps presque intact est nécessaire pour animer un [zombi](./Zombi humain.md). La créature doit avoir une réelle anatomie.
+::*Zombi.* Un corps presque intact est nécessaire pour animer un [[Zombi humain|zombi]]. La créature doit avoir une réelle anatomie.
 
-(((Ce sort fonctionne comme *[animation des morts](./Animation des morts.md)* mais crée seulement un [squelette](./Squelette, archétype.md) ou un [zombi](./Zombi, archétype.md) [P](./taille P.md) ou [M](./taille M.md). Il ne permet pas de créer de variante de ces créatures.)))
+(((Ce sort fonctionne comme *[[animation des morts]]* mais crée seulement un [[squelette, archétype|squelette]] ou un [[zombi, archétype|zombi]] [[Taille P|P]] ou [[Taille M|M]]. Il ne permet pas de créer de variante de ces créatures.)))

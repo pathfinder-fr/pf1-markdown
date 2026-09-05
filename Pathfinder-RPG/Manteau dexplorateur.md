@@ -9,9 +9,9 @@ Categories:
 - Règles officielles
 ---
 
-<div style="float:right">***Retour aux [objets merveilleux](./Objets merveilleux.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[objets merveilleux]].***</div><div class="BD">
 {s:BDTitre|Manteau d'Explorateur|{s:RSE}}
-**Aura** : [Transmutation](./Transmutation.md) modérée  ; **NLS** : 9 ; **Emplacement** corps ; **Prix** : 8.000 po ; **Poids** 2 kg
+**Aura** : [[Transmutation]] modérée  ; **NLS** : 9 ; **Emplacement** corps ; **Prix** : 8.000 po ; **Poids** 2 kg
 (((Description)))
 Cette longue veste croisée est cousue dans un robuste tissu couleur sable, avec une doublure amovible qui permet à son propriétaire de rester à l’aise quelle que soit la température. Toute personne qui enfile le manteau remarque qu’il porte de petites pièces cousues de différentes formes. Le porteur du manteau est le seul à voir ces pièces de tissu, à savoir en quels outils elles se transforment et à pouvoir les détacher. Il peut détacher une pièce par round, ce qui la transforme en un véritable objet, comme indiqué ci-après.
 
@@ -30,16 +30,16 @@ Le manteau d’Explorateur arbore les pièces cousues suivantes (sauf indication
 - Cheval de guerre léger avec une selle militaire 
 - Miroirs (2, miroirs d’acier de 60 centimètres sur 1,20 mètre, parfaitement polis)
 - Habits de nobles avec des bijoux d’une valeur de 200 po
-- Huile de [bénédiction d’arme](./Bénédiction darme.md) 
-- Huile de *[lumière du jour](./Lumière du jour.md)*
+- Huile de [[bénédiction darme|bénédiction d’arme]] 
+- Huile de *[[lumière du jour]]*
 - Perches (2, 3 mètres de long)
-- Potion de *[soins modérés](./Soins modérés.md)*
+- Potion de *[[soins modérés]]*
 - Sacs (2)
-- *[Solvant universel](./Solvant universel.md)*
-- *Baguette de *[prestidigitation](./Prestidigitation.md)'' (NLS 1, 5 charges)
+- *[[Solvant universel]]*
+- *Baguette de *[[prestidigitation]]'' (NLS 1, 5 charges)
 
 (((Fabrication)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[fabrication](./Fabrication.md)* ; **Coût** : 4.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[fabrication]]* ; **Coût** : 4.000 po
 </div>
 
 {s:Desambi|Cet objet est nommé officiellement Manteau d'Éclaireur mais ce nom n'est pas libre de droits}

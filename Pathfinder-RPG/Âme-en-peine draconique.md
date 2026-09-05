@@ -13,40 +13,40 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.18*}
 {s:BDTexte|**PX** 102 400}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([intangible](./sous-type intangible.md)) de taille Gig, CM}
-{s:BDTexte|**Init** +16 ; **Sens** *[perception de la vie](./Perception de la vie (capacité).md)*, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +38}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type Intangible|intangible]]) de taille Gig, CM}
+{s:BDTexte|**Init** +16 ; **Sens** *[[Perception de la vie (capacité)|perception de la vie]]*, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +38}
 {s:BDTexte|**Aura** surnaturelle}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 31, contact 31, pris au dépourvu 18 (Dex +12, esquive +1, malfaisance +6, parade +6,taille -4)}
 {s:BDTexte|**pv** 252 (24d8+144)}
 {s:BDTexte|**Réf** +20, **Vig** +14, **Vol** +19}
-{s:BDTexte|**Capacités défensives** [intangible](./sous-type intangible.md), résistance à la canalisation +4, transmission d’énergie positive ; **Immunités** [[traits des morts-vivants
-**Faiblesse** [impuissant sous la lumière du soleil](./Impuissant sous la lumière du soleil (capacité).md)}
+{s:BDTexte|**Capacités défensives** [[sous-type intangible|intangible]], résistance à la canalisation +4, transmission d’énergie positive ; **Immunités** [[traits des morts-vivants
+**Faiblesse** [[Impuissant sous la lumière du soleil (capacité)|impuissant sous la lumière du soleil]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 24 m (parfaite)}
 {s:BDTexte|**Corps à corps** morsure intangible, +27 (4d6 plus [[absorption dénergie|absorption d’énergie) et 2 griffes intangibles, +27 (2d8 plus dissipation du divin) et 2 ailes intangibles, +24 (2d6) et queue intangible, +24 (2d8)}
 {s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 4,50 m (3 {s:c}) (6 m (4 {s:c} avec morsure intangible)}
-{s:BDTexte|**Attaques spéciales** [abosorption d’énergie](./absorption dénergie.md) (2 niveaux, DD 28), création de rejetons, modification ectoplasmique, souffle (cône de 18 m, 20d6 énergie négative et 1 niveau négatif, [Réflexes](./Réflexes.md) DD 22 ½ dégâts, utilisable tous les 1d4 [rounds](./round.md))}
+{s:BDTexte|**Attaques spéciales** [[absorption dénergie|abosorption d’énergie]] (2 niveaux, DD 28), création de rejetons, modification ectoplasmique, souffle (cône de 18 m, 20d6 énergie négative et 1 niveau négatif, [[Réflexes]] DD 22 ½ dégâts, utilisable tous les 1d4 [[round|rounds]])}
 {s:BDTexte|**Pouvoirs magiques** (NLS 24<sup>e</sup>) ; concentration +30)}
-{s:BDSorts|À volonté — *[animation des morts](./Animation des morts.md)*, *[contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md)* (DD 18), *[détection des morts-vivants](./Détection des morts-vivants.md)*, *[profanation](./Profanation.md)*, *[protection contre le Bien](./Protection contre le Bien.md)*}
-{s:BDSorts|5/jour — *[contrôle des morts-vivants](./Contrôle des morts-vivants.md)* (DD 23), *[création de mort-vivant](./Création de mort-vivant.md)*, *[sanctification maléfique](./Sanctification maléfique.md)*, *[ténèbres maudites](./Ténèbres maudites.md)* (DD 20)}
-{s:BDSorts|3/jour — *[création de mort-vivant dominant](./Création de mort-vivant dominant.md)*, *[doigt de mort](./Doigt de mort.md)* à incantation rapide (DD 23), *[vagues d’épuisement](./Vagues dépuisement.md)*}
-{s:BDSorts|1/jour — *[absorption d’énergie](./absorption dénergie.md)* (DD 25), *[capture d’âme](./Capture dâme.md)* (DD 25)}
+{s:BDSorts|À volonté — *[[animation des morts]]*, *[[contrôle mineur des morts-vivants]]* (DD 18), *[[détection des morts-vivants]]*, *[[profanation]]*, *[[protection contre le Bien]]*}
+{s:BDSorts|5/jour — *[[contrôle des morts-vivants]]* (DD 23), *[[création de mort-vivant]]*, *[[sanctification maléfique]]*, *[[ténèbres maudites]]* (DD 20)}
+{s:BDSorts|3/jour — *[[création de mort-vivant dominant]]*, *[[doigt de mort]]* à incantation rapide (DD 23), *[[vagues dépuisement|vagues d’épuisement]]*}
+{s:BDSorts|1/jour — *[[absorption dénergie|absorption d’énergie]]* (DD 25), *[[capture dâme|capture d’âme]]* (DD 25)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For**—, **Dex** 34, **Con**—, **Int** 20, **Sag** 21, **Cha** 22}
-{s:BDTexte|**BBA** +18, **BMO** +34, **DMD** 57 (61 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe intangible), [Arme de prédilection](./Arme de prédilection.md) (morsure intangible), [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md), [Discret](./Discret.md), [Esquive](./Esquive.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (*[doigt de mort](./Doigt de mort.md)*), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Intimidation](./Intimidation.md)), [Talent](./Talent.md) ([Perception](./Perception.md)), [Vol stationnaire](./Vol stationnaire.md), [Voltigeur](./Voltigeur.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +40, [Connaissances](./Connaissances.md) (mystères) +20, [Connaissances](./Connaissances.md) (plans) +17, [Connaissances](./Connaissances.md) (religion) +32, [Discrétion](./Discrétion.md) +31, [Évasion](./Évasion.md) +14, [Intimidation](./Intimidation.md) +39, [Perception](./Perception.md) +38, [Psychologie](./Psychologie.md) +32, [Survie](./Survie.md) +29, [Vol](./Vol.md) +45}
+{s:BDTexte|**BBA** +18, **BMO** +34, **DMD** 57 (61 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe intangible), [[Arme de prédilection]] (morsure intangible), [[Attaque en vol]], [[Attaques multiples]], [[Discret]], [[Esquive]], [[Pouvoir magique rapide]] (*[[doigt de mort]]*), [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Intimidation]]), [[Talent]] ([[Perception]]), [[Vol stationnaire]], [[Voltigeur]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +40, [[Connaissances]] (mystères) +20, [[Connaissances]] (plans) +17, [[Connaissances]] (religion) +32, [[Discrétion]] +31, [[Évasion]] +14, [[Intimidation]] +39, [[Perception]] +38, [[Psychologie]] +32, [[Survie]] +29, [[Vol]] +45}
 {s:BDTexte|**Langues** abyssal, commun, draconique, elfe, infernal}
 {s:BDTexte|**Particularités** vacillement de phase}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
-{s:BDTexte|**Organisation sociale** solitaire ou cadre (1 plus 2d4 [âmes-en-peine](./Âme-en-peine.md) effroyables])}
+{s:BDTexte|**Organisation sociale** solitaire ou cadre (1 plus 2d4 [[Âme-en-peine|âmes-en-peine]] effroyables])}
 {s:BDTexte|**Trésor** double}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|** Création de rejetons (Sur).** Un humanoïde tué par une âme-en-peine draconique devient une [âme-en-peine](./Âme-en-peine.md) effroyable 1d4 [rounds](./round.md) plus tard. Les rejetons sont placés sous le contrôle de l’âme-en-peine draconique qui les a créés et le restent jusqu’à sa mort, moment auquel ils recouvrent leur libre-arbitre. Ils ne conservent aucun des pouvoirs qu’ils possédaient de leur vivant.}
-{s:BDTexte|**Dissipation du divin (Sur).** Quand l’âme-en-peine draconique touche une cible avec une attaque de griffe, la cible est victime d’une *[dissipation suprême](./Dissipation suprême.md) *(NLS 20) qui dissipe uniquement les sorts divins.}
-{s:BDTexte|**Modification ectoplasmique** (Sur). Une âme-en-peine draconique peut franchir le voile ectoplasmique pour revêtir temporairement une forme physique faite d’ectoplasme. Par une action rapide, elle devient tangible pendant 1d4 rounds. Une fois cette durée écoulée, elle ne peut plus prendre cette forme pendant 1d4 [rounds](./round.md). Sous forme ectoplasmique, l’âme-en-peine draconique perd son caractère intangible et les pouvoirs liés (y compris le bonus de parade à la CA) et gagne un bonus d’armure naturel de +16 à la CA, une RD 15/—, une valeur de [Force](./Force.md) égale à sa valeur de [Dextérité](./Dextérité.md) et le pouvoir vacillement de phase. La CA d’une âme-en-peine draconique ordinaire sous forme ectoplasmique est donc de 41 et ses attaques sont **Corps à corps** morsure, +27 (4d6+18 plus absorption d’énergie) et 2 griffes, +27 (2d8+12 plus dissipation du divin) et 2 ailes, +24 (2d6+6) et queue, +24 (2d8+18).}
+{s:BDTexte|** Création de rejetons (Sur).** Un humanoïde tué par une âme-en-peine draconique devient une [[Âme-en-peine]] effroyable 1d4 [[round|rounds]] plus tard. Les rejetons sont placés sous le contrôle de l’âme-en-peine draconique qui les a créés et le restent jusqu’à sa mort, moment auquel ils recouvrent leur libre-arbitre. Ils ne conservent aucun des pouvoirs qu’ils possédaient de leur vivant.}
+{s:BDTexte|**Dissipation du divin (Sur).** Quand l’âme-en-peine draconique touche une cible avec une attaque de griffe, la cible est victime d’une *[[dissipation suprême]] *(NLS 20) qui dissipe uniquement les sorts divins.}
+{s:BDTexte|**Modification ectoplasmique** (Sur). Une âme-en-peine draconique peut franchir le voile ectoplasmique pour revêtir temporairement une forme physique faite d’ectoplasme. Par une action rapide, elle devient tangible pendant 1d4 rounds. Une fois cette durée écoulée, elle ne peut plus prendre cette forme pendant 1d4 [[round|rounds]]. Sous forme ectoplasmique, l’âme-en-peine draconique perd son caractère intangible et les pouvoirs liés (y compris le bonus de parade à la CA) et gagne un bonus d’armure naturel de +16 à la CA, une RD 15/—, une valeur de [[Force]] égale à sa valeur de [[Dextérité]] et le pouvoir vacillement de phase. La CA d’une âme-en-peine draconique ordinaire sous forme ectoplasmique est donc de 41 et ses attaques sont **Corps à corps** morsure, +27 (4d6+18 plus absorption d’énergie) et 2 griffes, +27 (2d8+12 plus dissipation du divin) et 2 ailes, +24 (2d6+6) et queue, +24 (2d8+18).}
 {s:BDTexte|**Vacillement de phase (Sur).** Une âme-en-peine draconique sous forme ectoplasmique peut traverser des murs et des obstacles matériels, en revanche, elle doit impérativement commencer et terminer son tour en dehors du mur ou de l’obstacle qu’elle traverse. Ce pouvoir ne lui permet pas de traverser une créature tangible et sa vitesse est réduite de moitié quand elle traverse un mur ou un obstacle. Toutes les surfaces qu’elle traverse se recouvrent d’un fin mucus argenté qui disparaît au bout d’une minute.}
 {s:BDTexte|**Transmission d’énergie positive (Sur).** Quand l’âme-en-peine draconique réussit un jet de sauvegarde pour résister à des dégâts d'énergie positive mais en subit tout de même, elle peut les transférer de suite à une âme-en-peine de son choix qu’elle a créée et qui se trouve sous son contrôle dans un rayon de 36 mètres. L’âme-en-peine draconique subit l’excès de dégâts éventuel si les points de vie de la cible ne suffisent pas à absorber la totalité des dommages. Si l’âme-en-peine draconique n’a pas de rejeton sous son contrôle et réussit un jet de sauvegarde contre un effet d’énergie positive qui inflige des dégâts réduits de moitié en cas de jet de sauvegarde réussi, elle subit seulement un quart des dégâts initiaux.}
 </div>

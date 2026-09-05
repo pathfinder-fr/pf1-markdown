@@ -14,14 +14,14 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Néthys|%2fPCUP%2fReligion-PNG%2fNethys.png}{s:ISG}{s:GeM}**École** [Évocation](./Évocation.md) ; **Niveau** [Bard](./Barde.md) 3, [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Prê](./Prêtre.md) 3, [Rôd](./Rôdeur.md) 3, [Sor](./Sorcière.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
+{s:divin|Néthys|%2fPCUP%2fReligion-PNG%2fNethys.png}{s:ISG}{s:GeM}**École** [[Évocation]] ; **Niveau** [[Barde|Bard]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 3, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
 **Portée** contact
 **Cible** le lanceur de sort allié touché
-**Durée** 1 [round](./round.md) ou voir texte
+**Durée** 1 [[round]] ou voir texte
 **Jet de sauvegarde** Volonté, annule (inoffensif) ou aucun ; **Résistance à la magie** oui (inoffensif) ou non
 
-Le lanceur de sort canalise sa puissance magique vers sa cible pour alimenter ses incantations. Le prochain sort de niveau 3 ou moins qu’elle lancera ne lui coûtera pas d’emplacement de sort ; en l'état, c’est le personnage qui utilise un de ses emplacements de sort pour alimenter celui que sa cible utilise. Elle doit commencer son incantation avant le prochain tour du lanceur, et le sort ne peut avoir un temps d’incantation supérieur à un [round](./round.md) complet. L’alignement, les éventuelles écoles d'opposition et les autres restrictions propres au personnage n’affectent pas la cible, pas plus que le personnage ne subit de contrecoup provoqué par le choix de sort de sa cible.
+Le lanceur de sort canalise sa puissance magique vers sa cible pour alimenter ses incantations. Le prochain sort de niveau 3 ou moins qu’elle lancera ne lui coûtera pas d’emplacement de sort ; en l'état, c’est le personnage qui utilise un de ses emplacements de sort pour alimenter celui que sa cible utilise. Elle doit commencer son incantation avant le prochain tour du lanceur, et le sort ne peut avoir un temps d’incantation supérieur à un [[round]] complet. L’alignement, les éventuelles écoles d'opposition et les autres restrictions propres au personnage n’affectent pas la cible, pas plus que le personnage ne subit de contrecoup provoqué par le choix de sort de sa cible.
 
-Si le personnage se choisit pour cible, il peut au prochain tour lancer spontanément n’importe quel sort de niveau 3 ou moins  qu'il a préparé sans dépenser son emplacement de sort (cela ne l’affecte pas s’il est déjà un lanceur de sort spontané). Le temps d’incantation du sort lancé après *canaliser le don* ne peut être supérieur à 1 [round](./round.md).
+Si le personnage se choisit pour cible, il peut au prochain tour lancer spontanément n’importe quel sort de niveau 3 ou moins  qu'il a préparé sans dépenser son emplacement de sort (cela ne l’affecte pas s’il est déjà un lanceur de sort spontané). Le temps d’incantation du sort lancé après *canaliser le don* ne peut être supérieur à 1 [[round]].

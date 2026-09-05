@@ -4,8 +4,8 @@ Title: L'arc-chimiste sniper
 LastModified: 2020-04-27 17:41
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
-***Voir le [http://www.pathfinder-fr.org/Forum/posts/t15323-L-arc-chimiste-sniper|sujet de discussion]***</div>
+<div class="fright">***Retour aux [[builds]].***</br>
+***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/posts/t15323-L-arc-chimiste-sniper)***</div>
 
 <nav class="wiki-toc"></nav>
 
@@ -48,9 +48,9 @@ CHA: 8 {br}
 
 Plein pot alchimiste. On prendra en archétype deux merveilles :
 
-Le [http://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo-alchemist-archetypes/grenadier/|grenadier] qui nous donne le maniement de l'arc long, une découverte cadeau utile et aussi, les armes alchimiques et on aime ça ! J'en parle plus tard.
+Le [grenadier](http://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo-alchemist-archetypes/grenadier/) qui nous donne le maniement de l'arc long, une découverte cadeau utile et aussi, les armes alchimiques et on aime ça ! J'en parle plus tard.
 
-Le [http://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo---alchemist-archetypes/toxicant-alchemist-archetype#toxicant|toxicant]. Un truc... mais d'une beauté... Son poison défensif semble ne pas payer de mine mais le fait de pouvoir en enduire une arme me fait frisonner. D'abord, c'est juste un peu de dégâts. Ensuite c'est des dégâts continus. Puis arrive les debuffs. Une personne qui rate le jet de vigueur se retrouve de suite hors combat avec ces effets, sans contrepartie. Je vous laisse découvrir ces effets, c'est une mine. On perd le mutagène mais franchement, y a largement pire. Vous inquiétez pas pour ça.
+Le [toxicant](http://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo---alchemist-archetypes/toxicant-alchemist-archetype#toxicant). Un truc... mais d'une beauté... Son poison défensif semble ne pas payer de mine mais le fait de pouvoir en enduire une arme me fait frisonner. D'abord, c'est juste un peu de dégâts. Ensuite c'est des dégâts continus. Puis arrive les debuffs. Une personne qui rate le jet de vigueur se retrouve de suite hors combat avec ces effets, sans contrepartie. Je vous laisse découvrir ces effets, c'est une mine. On perd le mutagène mais franchement, y a largement pire. Vous inquiétez pas pour ça.
 
 ##### 3.1 Bonus de classe de prédilection
 
@@ -58,13 +58,13 @@ D'un coté, le PV est tentant... Mais en fait, il vaut mieux prendre l'alternati
 
 ##### 3.2 Traits
 
-Les bonus en volonté sont bienvenus. Perso, je pousse le vice à prendre [++Pathfinder-RPG.Traits de base.ashx|Foi inébranlable] et [http://www.d20pfsrd.com/traits/race-traits/auspicious-tattoo/|Auspicious Tattoo] pour +2 en volonté. Mais l'initiative, c'est cool aussi.
+Les bonus en volonté sont bienvenus. Perso, je pousse le vice à prendre [[Pathfinder-RPG.Traits de base.ashx|Foi inébranlable]] et [Auspicious Tattoo](http://www.d20pfsrd.com/traits/race-traits/auspicious-tattoo/) pour +2 en volonté. Mais l'initiative, c'est cool aussi.
 
 ##### 3.3 Dons et capacités de classe
 
 **3.3.1 Dons**
 
-Y a pas vraiment de dons vitaux. [++Pathfinder-RPG.Tir de précision.ashx|Tir de précision] est cool (on peut gérer -4, pas -8 si on ajoute un abri mou). [++Pathfinder-RPG.Volonté de fer.ashx|Volonté de fer] au niveau 7 est obligatoire. Après, j'aime bien [http://www.d20pfsrd.com/feats/monster-feats/ability-focus/|Ability focus] pour booster notre poison (qui est juste trop efficace, admettons le). Après, je continue avec juste des découvertes parce que elles, on en manque un peu.
+Y a pas vraiment de dons vitaux. [[Pathfinder-RPG.Tir de précision.ashx|Tir de précision]] est cool (on peut gérer -4, pas -8 si on ajoute un abri mou). [[Pathfinder-RPG.Volonté de fer.ashx|Volonté de fer]] au niveau 7 est obligatoire. Après, j'aime bien [Ability focus](http://www.d20pfsrd.com/feats/monster-feats/ability-focus/) pour booster notre poison (qui est juste trop efficace, admettons le). Après, je continue avec juste des découvertes parce que elles, on en manque un peu.
 Pour le maniement gratuit du grenadier, l'arc long est le choix évident.
 
 **3.3.2 Capacités de classe**
@@ -78,27 +78,27 @@ Donc au final, niveau 15, si la cible rate un jet de vigueur de DD 10+7+2+intell
 
 Pour les découvertes, je vais juste mettre mes choix persos. Libre à vous de modifier. Pensez juste à prendre une ou deux découvertes de bombes et surtout, celle de niveau 4.
 
-2 : [++Pathfinder-RPG.découvertes.ashx|Découverte : Bombe immobilisante]. Sur un JdS réflexe raté, votre cible est largement handicapée dans ses actions. Juste excellent.
+2 : [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe immobilisante]]. Sur un JdS réflexe raté, votre cible est largement handicapée dans ses actions. Juste excellent.
 
-4 : [++Pathfinder-RPG.découvertes.ashx|Découverte : Projectile explosif]. Tirez une bombe avec votre arc. Essentiel. On peut placer son poison sur la flèche, puis une arme alchimique et enfin la bombe de votre choix. Nickel.
+4 : [[Pathfinder-RPG.découvertes.ashx|Découverte : Projectile explosif]]. Tirez une bombe avec votre arc. Essentiel. On peut placer son poison sur la flèche, puis une arme alchimique et enfin la bombe de votre choix. Nickel.
 
-6 : [++Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de froid]. Il faut varier les dommages et la chancelance est jamais un bon truc.
+6 : [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de froid]]. Il faut varier les dommages et la chancelance est jamais un bon truc.
 
-8 : [++Pathfinder-RPG.découvertes.ashx|Découverte : Poison céleste]. Ignore l'immunité des MV et des extérieurs mauvais au poison. C'est du rêve ! Vous allez réduire en cendre ces vampires si terrifiants avec du yaourt périmé !
+8 : [[Pathfinder-RPG.découvertes.ashx|Découverte : Poison céleste]]. Ignore l'immunité des MV et des extérieurs mauvais au poison. C'est du rêve ! Vous allez réduire en cendre ces vampires si terrifiants avec du yaourt périmé !
 
-9 : [++Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de force]. Parce que la force et les croc en jambe, c'est cool.
+9 : [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de force]]. Parce que la force et les croc en jambe, c'est cool.
 
-10 : [++Pathfinder-RPG.découvertes.ashx|Découverte : Cognatogène]. Surprise ! On est assez haut level pour se permettre de craquer des slots de niv.2 en extrait de restauration mineur pour accuser le coup. Donc pourquoi se priver de genre... +2 aux DD des bombes et du poison et aux dégâts des deux ?
+10 : [[Pathfinder-RPG.découvertes.ashx|Découverte : Cognatogène]]. Surprise ! On est assez haut level pour se permettre de craquer des slots de niv.2 en extrait de restauration mineur pour accuser le coup. Donc pourquoi se priver de genre... +2 aux DD des bombes et du poison et aux dégâts des deux ?
 
-11 : [++Pathfinder-RPG.découvertes.ashx|Découverte : Poison malin]. Par une action complexe, augmente le DD du poison de 4 pour 11 minutes. Si on s'en sert pas avant, on claque une complexe de plus et il retourne en position excité. Pratique pour abattre... Un boss dans le donjon ? Le méchant magicien en face ?
+11 : [[Pathfinder-RPG.découvertes.ashx|Découverte : Poison malin]]. Par une action complexe, augmente le DD du poison de 4 pour 11 minutes. Si on s'en sert pas avant, on claque une complexe de plus et il retourne en position excité. Pratique pour abattre... Un boss dans le donjon ? Le méchant magicien en face ?
 
-12 : [++Pathfinder-RPG.découvertes.ashx|Découverte : Bombe maudite]. C'est juste parce que on tapait jamais sur les jets de volonté. Bon d'accord, -6 en constitution, c'est rigolo, surtout si le MJ fait le jet pour le poison après la bombe. Bon et aussi pour les dégâts que la perte de constitution fait.
+12 : [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe maudite]]. C'est juste parce que on tapait jamais sur les jets de volonté. Bon d'accord, -6 en constitution, c'est rigolo, surtout si le MJ fait le jet pour le poison après la bombe. Bon et aussi pour les dégâts que la perte de constitution fait.
 
-13 : [++Pathfinder-RPG.découvertes.ashx|Découverte : Ailes]. On a mérité nos ailes démoniaque de tieflin. Nierk nierk nierk Devil . Ah et aussi le vol, c'est cool.
+13 : [[Pathfinder-RPG.découvertes.ashx|Découverte : Ailes]]. On a mérité nos ailes démoniaque de tieflin. Nierk nierk nierk Devil . Ah et aussi le vol, c'est cool.
 
-14 : [++Pathfinder-RPG.découvertes.ashx|Découverte : Corgnatogène supérieur]. Le bonus en sagesse pour la volonté sert. Le malus en dextérité pique mais bon, on survivra.
+14 : [[Pathfinder-RPG.découvertes.ashx|Découverte : Corgnatogène supérieur]]. Le bonus en sagesse pour la volonté sert. Le malus en dextérité pique mais bon, on survivra.
 
-15 : [++Pathfinder-RPG.découvertes.ashx|Découverte : Familier tumeur]. Parce que +2 en volonté ou +4 en initiative, c'est fun. Moi je vote volonté perso mais vous faite comme vous voulez.
+15 : [[Pathfinder-RPG.découvertes.ashx|Découverte : Familier tumeur]]. Parce que +2 en volonté ou +4 en initiative, c'est fun. Moi je vote volonté perso mais vous faite comme vous voulez.
 
 ##### 3.4 Extraits
 
@@ -106,29 +106,29 @@ On favorise les extraits à longue durée pour ainsi pouvoir se faire plaisir av
 
 **3.4.1 Sorts de niveau 1**
 
-- [++Pathfinder-RPG.Bouclier.ashx|Bouclier] : +4 en CA. Point. {br}
-- [http://www.d20pfsrd.com/magic/all-spells/h/heightened-awareness/|Heightened Awareness] : +2 dans plein de trucs cool et surtout +4 en initiative !! {br}
+- [[Pathfinder-RPG.Bouclier.ashx|Bouclier]] : +4 en CA. Point. {br}
+- [Heightened Awareness](http://www.d20pfsrd.com/magic/all-spells/h/heightened-awareness/) : +2 dans plein de trucs cool et surtout +4 en initiative !! {br}
 
 **3.4.2 Sorts de niveau 2**
 
-- [++Pathfinder-RPG.Peau décorce.ashx|Peau d'écorce] : CA facile {br}
-- [++Pathfinder-RPG.Transmission alchimique.ashx|Transmission alchimique] : des potions… infinis. In-fi-ni. Achetez en plein et gavez vous. {br}
-- [++Pathfinder-RPG.Restauration partielle.ashx|Restauration partielle] : le cognatogène fait mal aux biceps. {br}
-- [++Pathfinder-RPG.Simulacre de vie.ashx|Simulacre de vie] : avoir les PVs du bouclier humain avec un gros bâton devant. {br}
+- [[Pathfinder-RPG.Peau décorce.ashx|Peau d'écorce]] : CA facile {br}
+- [[Pathfinder-RPG.Transmission alchimique.ashx|Transmission alchimique]] : des potions… infinis. In-fi-ni. Achetez en plein et gavez vous. {br}
+- [[Pathfinder-RPG.Restauration partielle.ashx|Restauration partielle]] : le cognatogène fait mal aux biceps. {br}
+- [[Pathfinder-RPG.Simulacre de vie.ashx|Simulacre de vie]] : avoir les PVs du bouclier humain avec un gros bâton devant. {br}
 
 **3.4.3 Sorts de niveau 3**
 
-- [++Pathfinder-RPG.Héroïsme.ashx|Heroïsme] : +2 en… a peu près tout. No brain. {br}
-- [++Pathfinder-RPG.sort Vol.ashx|Vol] : voler est très utile. {br}
-- [++Pathfinder-RPG.Soins importants.ashx|Soin important] : si on se retrouve dans le gros rouge, c'est jamais trop bête d'avoir ce « secours d'urgence total". Un seul dans la poche et on prit pour qu'il y reste. {br}
+- [[Pathfinder-RPG.Héroïsme.ashx|Heroïsme]] : +2 en… a peu près tout. No brain. {br}
+- [[Pathfinder-RPG.sort Vol.ashx|Vol]] : voler est très utile. {br}
+- [[Pathfinder-RPG.Soins importants.ashx|Soin important]] : si on se retrouve dans le gros rouge, c'est jamais trop bête d'avoir ce « secours d'urgence total". Un seul dans la poche et on prit pour qu'il y reste. {br}
 
 #### 4. Équipement
 
 Je passe sur les grands classiques du genre bandeau d'intelligence, cape de resistance et autre anneau de protection. Les trucs importants vraiment particulier :
-- [++Pathfinder-RPG.Tableau récapitulatif des armes.ashx#ARMESDEGUERREDISTANCE|Un Arc Long] : pas la peine de le payer en composite, on s'en moque. A la limite, composite +0 pour avoir le bonus au facteur de portée.{br}
-- Des objets alchimique. Faites vous plaisir. Surtout les poudres et liquides. Perso, je conseille la [++Pathfinder-RPG.Poudre à éternuer.ashx|Poudre à éternuer], l'[++Pathfinder-RPG.Armes alchimiques.ashx#Acide|acide] et le [++Pathfinder-RPG.Armes alchimiques.ashx#Feu grégeois|feu grégeois]. Le premier, sur un 1 au jet de sauvegarde, il embête, les autres font des dégâts cadeaux. Le feu en fait un poil plus mais l'acide est moins souvent résisté.{br}
-- En enchantement d'arme : D'abord +1 puis [++Pathfinder-RPG.conductrice (propriété)|Conductrice]. Bah oui, c'est quand même une bombe en plus gratos quand on touche un gros méchant pas beau et qu'il faut faire très mal. Ensuite vient [http://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/toxic/|Toxic] qui augmente le DD de nos poisons. Et pour finir, [++Pathfinder-RPG.traqueuse (propriété)|Traqueuse] pour donner le coup de grâce sans se louper. Si on veut de l'altération, on se dirige vers arme magique suprême, ça suffira.{br}
-- Et le petit truc qui est l'astuce total, la cerise sur le gateau ! On achète des [http://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/ammunition/ammunition-bow-arrow-dye/|Dye arrow] ! C'est des flèches de peinture (prendre rose bonbon pour humilier les cibles) à 1 Po l'unité (abordable) mais qui font aucun dégâts (de la peinture). L'intérêt ? Elle touche… au contact. Avec elles, on touche à la bombe au contact à 30m sans soucis. Voila pourquoi la dextérité est basse comme la force. La flèche n'est vraiment qu'un support. Ce qui fait mal, c'est les paquets dessus. Je développe la stratégie de suite.
+- [[Pathfinder-RPG.Tableau récapitulatif des armes.ashx#ARMESDEGUERREDISTANCE|Un Arc Long]] : pas la peine de le payer en composite, on s'en moque. A la limite, composite +0 pour avoir le bonus au facteur de portée.{br}
+- Des objets alchimique. Faites vous plaisir. Surtout les poudres et liquides. Perso, je conseille la [[Pathfinder-RPG.Poudre à éternuer.ashx|Poudre à éternuer]], l'[[Pathfinder-RPG.Armes alchimiques.ashx#Acide|acide]] et le [[Pathfinder-RPG.Armes alchimiques.ashx#Feu grégeois|feu grégeois]]. Le premier, sur un 1 au jet de sauvegarde, il embête, les autres font des dégâts cadeaux. Le feu en fait un poil plus mais l'acide est moins souvent résisté.{br}
+- En enchantement d'arme : D'abord +1 puis [[Pathfinder-RPG.conductrice (propriété)|Conductrice]]. Bah oui, c'est quand même une bombe en plus gratos quand on touche un gros méchant pas beau et qu'il faut faire très mal. Ensuite vient [Toxic](http://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/toxic/) qui augmente le DD de nos poisons. Et pour finir, [[Pathfinder-RPG.traqueuse (propriété)|Traqueuse]] pour donner le coup de grâce sans se louper. Si on veut de l'altération, on se dirige vers arme magique suprême, ça suffira.{br}
+- Et le petit truc qui est l'astuce total, la cerise sur le gateau ! On achète des [Dye arrow](http://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/ammunition/ammunition-bow-arrow-dye/) ! C'est des flèches de peinture (prendre rose bonbon pour humilier les cibles) à 1 Po l'unité (abordable) mais qui font aucun dégâts (de la peinture). L'intérêt ? Elle touche… au contact. Avec elles, on touche à la bombe au contact à 30m sans soucis. Voila pourquoi la dextérité est basse comme la force. La flèche n'est vraiment qu'un support. Ce qui fait mal, c'est les paquets dessus. Je développe la stratégie de suite.
 
 #### 5. Stratégie et chiffres
 
@@ -157,43 +157,43 @@ En moyenne à ce niveau, la vigueur vaut en moyenne 10.7 et le réflexe 9. Je me
 |- CLASS="titre"
 | Niveau || Classe || BBA || Dons, capacités de classe
 |- CLASS="premier"
-| 01 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +0 || *Libre*
+| 01 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +0 || *Libre*
 |-
-| 02 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +1 || [++Pathfinder-RPG.découvertes.ashx|Découverte : Bombe immobilisante]
+| 02 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +1 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe immobilisante]]
 |-
-| 03 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +2 || *Libre*
+| 03 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +2 || *Libre*
 |-
-| 04 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +3 || [++Pathfinder-RPG.découvertes.ashx|Découverte : Projectile explosif]
+| 04 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +3 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Projectile explosif]]
 |-
-| 05 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +3 || *Libre*
+| 05 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +3 || *Libre*
 |-
-| 06 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +4 || [++Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de froid]
+| 06 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +4 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de froid]]
 |-
-| 07 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +5 || [++Pathfinder-RPG.Volonté de fer.ashx|Volonté de fer]
+| 07 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +5 || [[Pathfinder-RPG.Volonté de fer.ashx|Volonté de fer]]
 |-
-| 08 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +6/+1 || [++Pathfinder-RPG.découvertes.ashx|Découverte : Poison céleste]
+| 08 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +6/+1 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Poison céleste]]
 |-
-| 09 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +6/+1 || [++Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de force]
+| 09 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +6/+1 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de force]]
 |-
-| 10 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +7/+2 || [++Pathfinder-RPG.découvertes.ashx|Découverte : Cognatogène]
+| 10 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +7/+2 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Cognatogène]]
 |-
-| 11 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +8/+3 || [++Pathfinder-RPG.découvertes.ashx|Découverte : Poison malin]
+| 11 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +8/+3 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Poison malin]]
 |-
-| 12 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +9/+4 || [++Pathfinder-RPG.découvertes.ashx|Découverte : Bombe maudite]
+| 12 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +9/+4 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe maudite]]
 |-
-| 13 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +9/+4 || [++Pathfinder-RPG.découvertes.ashx|Découverte : Ailes]
+| 13 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +9/+4 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Ailes]]
 |-
-| 14 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +10/+5 || [++Pathfinder-RPG.découvertes.ashx|Découverte : Corgnatogène supérieur]
+| 14 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +10/+5 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Corgnatogène supérieur]]
 |-
-| 15 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +11/+6/+1 || [++Pathfinder-RPG.découvertes.ashx|Découverte : Familier tumeur]
+| 15 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +11/+6/+1 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Familier tumeur]]
 |-
-| 16 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +12/+7/+2 || *Libre*
+| 16 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +12/+7/+2 || *Libre*
 |-
-| 17 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +12/+7/+2 || *Libre*
+| 17 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +12/+7/+2 || *Libre*
 |-
-| 18 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +13/+8/+3 || *Libre*
+| 18 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +13/+8/+3 || *Libre*
 |-
-| 19 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +14/+9/+4 || *Libre*
+| 19 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +14/+9/+4 || *Libre*
 |-
-| 20 || [++Pathfinder-RPG.Alchimiste.ashx|Alchimiste] || +15/+10/+5 || *Libre*
+| 20 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +15/+10/+5 || *Libre*
 |}

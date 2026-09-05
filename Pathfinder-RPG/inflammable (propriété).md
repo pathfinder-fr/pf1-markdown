@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Inflammable
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Inflammable](./Descriptions individuelles des propriétés spéciales des armes.md#Inflammable)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Inflammable]]

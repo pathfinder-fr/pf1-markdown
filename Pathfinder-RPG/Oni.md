@@ -15,34 +15,34 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Atamahuta](./Atamahuta.md) || 11
+| [[Atamahuta]] || 11
 |-
-| [Esprit Oni](./Esprit Oni.md) || 2
+| [[Esprit Oni]] || 2
 |-
-| [Ja Noi](./Ja-Noi.md) || 5
+| [[Ja Noi]] || 5
 |-
-| [Kuwa](./Kuwa.md) || 4
+| [[Kuwa]] || 4
 |-
-| [Nogitsune](./Nogitsune.md) || 7
+| [[Nogitsune]] || 7
 |-
-| [Ogre mage](./Ogre mage.md) || 8
+| [[Ogre mage]] || 8
 |-
-| [Yai de glace](./Yai de glace.md) || 14
+| [[Yai de glace]] || 14
 |-
-| [Yai de l'eau](./Yai de leau.md) || 18
+| [[Yai de leau|Yai de l'eau]] || 18
 |-
-| [Yai de la terre](./Yai-de-la-terre.md) || 13
+| [[Yai de la terre]] || 13
 |-
-| [Yai du feu](./Yai du feu.md) || 15
+| [[Yai du feu]] || 15
 |-
-| [Yai du vent](./Yai-du-vent.md) || 16
+| [[Yai du vent]] || 16
 |-
-| [Yai du vide](./Yai du vide.md) || 20
+| [[Yai du vide]] || 20
 |-
-| [Yamabushi tengu](./Yamabushi-tengu.md) || 5
+| [[Yamabushi tengu]] || 5
 |}
 </div></div><div class="description">**Source :** Bestiaire 3 p.204.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([métamorphe](./sous-type métamorphe.md), [natif](./sous-type natif.md), [oni](./sous-type oni.md)).*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]], [[sous-type oni|oni]]).*
 
 Les onis sont une race d’esprits malveillants originaires du Plan matériel et dont le corps physique reflète les formes et les désirs humanoïdes. Sous leur forme purement spirituelle, les onis ne sont rien de plus qu’un mal désincarné assoiffé de péchés de la chair. Sous cette forme, ils sont inoffensifs et invisibles. La plupart des onis désincarnés ont autrefois été des kamis qui n’ont pas réussi à protéger leur pupille ou qui, le plus souvent, l’ont abandonné délibérément. En guise de punition, ils ont été privés de leur capacité à prendre une forme physique et ont été envoyés dans le vide. Il arrive, dans de rares cas, que l’âme d’une créature mortelle devienne un oni désincarné au moment de sa mort ou, plus rarement encore, quand un individu profondément mauvais s’est livré à un rituel vraiment abject se terminant en suicide. Ces onis sont souvent destinés à développer leurs forces et leur pouvoir et à atteindre des positions élevées.
 

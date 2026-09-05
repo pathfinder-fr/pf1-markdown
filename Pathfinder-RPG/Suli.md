@@ -15,8 +15,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire* p.249}
 {s:BDTexte|**PX** 200}
 {s:BDTexte|Suli, rôdeur de niveau 1}
-{s:BDTexte|[Extérieur](./type Extérieur.md), ([sous-type natif](./sous-type natif.md)) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) -1}
+{s:BDTexte|[[type Extérieur|Extérieur]], ([[sous-type natif]]) de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] -1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 16 (armure +6, Dex +1)}
 {s:BDTexte|**pv** 11 (1d10+1)}
@@ -26,19 +26,19 @@ Categories:
 {s:BDTexte|**VD** 6 m (4 {s:c}) (9 m (6 {s:c}) sans armure)}
 {s:BDTexte|**Corps à corps** cimeterre, +4 (1d6+3/18-20)}
 {s:BDTexte|'''À distance arc court, +2 (1d6/×3))}
-{s:BDTexte|**Attaques spéciales** assaut élémentaire, [ennemi juré](./ennemi juré.md) (humains +2)}
+{s:BDTexte|**Attaques spéciales** assaut élémentaire, [[ennemi juré]] (humains +2)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 12, **Con** 11, **Int** 10, **Sag** 9, **Cha** 10}
 {s:BDTexte|**BBA** +1, **BMO** +3, **DMD** 14}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (cimeterre)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (géographie) +4, [Connaissances](./Connaissances.md) (nature) +4, [Diplomatie](./Diplomatie.md) +3, [Équitation](./Équitation.md) +0, [Psychologie](./Psychologie.md) +2, [Survie](./Survie.md) +3}
-{s:BDTexte|**Particularités**[pistage](./Survie.md) +1, [empathie sauvage](./empathie sauvage.md) +1}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (cimeterre)}
+{s:BDTexte|**Compétences** [[Connaissances]] (géographie) +4, [[Connaissances]] (nature) +4, [[Diplomatie]] +3, [[Équitation]] +0, [[Psychologie]] +2, [[Survie]] +3}
+{s:BDTexte|**Particularités**[[survie|pistage]] +1, [[empathie sauvage]] +1}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-6)}
 {s:BDTexte|**Trésor** équipement de PNJ (cotte de mailles, cimeterre, arc court avec 20 flèches, autre trésor)}
 {s:BDSousTitre|capacités spéciales}
-{s:BDTexte|**Assaut élémentaire (Sur).** Une fois par jour, par une [action rapide](./Action rapide.md), le suli peut faire appel à la puissance élémentaire qui coule dans ses veines pour envelopper ses bras d’acide, de froid, d’électricité ou de feu. Les coups à mains nues qu’il porte avec ses coudes ou ses mains (ou les attaques qu’il porte avec les armes qu’il tient en main) infligent +1d6 points de dégâts du type d’énergie appropriée. Cette capacité dure 1 round par niveau. Le suli peut mettre fin aux effets de son pouvoir élémentaire par une [action libre](./Action libre.md).}
+{s:BDTexte|**Assaut élémentaire (Sur).** Une fois par jour, par une [[action rapide]], le suli peut faire appel à la puissance élémentaire qui coule dans ses veines pour envelopper ses bras d’acide, de froid, d’électricité ou de feu. Les coups à mains nues qu’il porte avec ses coudes ou ses mains (ou les attaques qu’il porte avec les armes qu’il tient en main) infligent +1d6 points de dégâts du type d’énergie appropriée. Cette capacité dure 1 round par niveau. Le suli peut mettre fin aux effets de son pouvoir élémentaire par une [[action libre]].}
 </div>
 
 {s:ImageCentre|Bestiaire/Suli.jpg|90%}
@@ -69,5 +69,5 @@ caractéristiques raciales suivantes.
 
 - **Langues**. Les sulis commencent en parlant le commun et une langue élémentaire au choix (aquatique, aérien, igné ou terreux). Les sulis ayant une haute valeur d’Intelligence peuvent choisir leurs langues supplémentaires parmi celles-ci : aquatique, aérien, draconique, igné et terreux.
 
-{s:VoirAussiAvant}La page de la race [Suli](./suli (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Suli (race)|Suli]]{s:VoirAussiAprès}
 </div></td></tr></table>

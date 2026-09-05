@@ -9,6 +9,6 @@ Categories:
 
 {s:CSU|1}*Le personnage a passé un certain temps dans les caves du marécage au centre naval de l'Empire décadent et il a appris quelques astuces en matière de survie.*
 
-**Conditions.** Explorer une partie des caves du marécage au centre naval de l'[Empire décadent](./../Golarion/Taldor.md).
+**Conditions.** Explorer une partie des caves du marécage au centre naval de l'[[Golarion.Taldor|Empire décadent]].
 
-**Avantages.** Le personnage gagne un bonus de +2 aux tests de [Connaissances](./Connaissances.md) (exploration souterraine) et aux tests de [Perception](./Perception.md) qui visent à repérer un piège. Il considère toujours Connaissances (exploration souterraine) comme une compétence de classe.
+**Avantages.** Le personnage gagne un bonus de +2 aux tests de [[Connaissances]] (exploration souterraine) et aux tests de [[Perception]] qui visent à repérer un piège. Il considère toujours Connaissances (exploration souterraine) comme une compétence de classe.

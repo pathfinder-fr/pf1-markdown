@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Chaque jour, le personnage peut invoquer des monstres un peu plus souvent. *
 
-**Conditions.** Capacité à lancer *[convocation de monstres](./Convocation de monstres I.md)* comme un pouvoir magique, [conjurateur](./Conjurateur.md) niveau 1
+**Conditions.** Capacité à lancer *[[convocation de monstres I|convocation de monstres]]* comme un pouvoir magique, [[conjurateur]] niveau 1
 
-**Avantage.** Le personnage gagne 1 utilisation quotidienne de *[convocation de monstres](./Convocation de monstres I.md)* comme pouvoir magique de plus.
+**Avantage.** Le personnage gagne 1 utilisation quotidienne de *[[convocation de monstres I|convocation de monstres]]* comme pouvoir magique de plus.
 
 **Spécial.** Le personnage peut choisir ce don à plusieurs reprises mais seulement une fois par tranche de cinq niveaux de conjurateur.

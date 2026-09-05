@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 50 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Semblables à des [bâtons éclairants](./Bâton éclairant (objet).md), ces petits galets blancs sont traités alchimiquement pour diffuser une faible lueur quand on les active en les frappant les uns contre les autres. Cette lueur est à peine suffisante pour illuminer la pierre. Bien qu’ils ne brillent pas assez pour faire une source de lumière efficace, il est possible de les placer de manière à former des messages ou de les disposer le long d’un chemin afin de marquer la route pour d’autres.
+Semblables à des [[Bâton éclairant (objet)|bâtons éclairants]], ces petits galets blancs sont traités alchimiquement pour diffuser une faible lueur quand on les active en les frappant les uns contre les autres. Cette lueur est à peine suffisante pour illuminer la pierre. Bien qu’ils ne brillent pas assez pour faire une source de lumière efficace, il est possible de les placer de manière à former des messages ou de les disposer le long d’un chemin afin de marquer la route pour d’autres.

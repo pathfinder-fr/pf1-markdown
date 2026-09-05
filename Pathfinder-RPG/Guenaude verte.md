@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.178*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 27 m (18 {s:c}) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 27 m (18 {s:c}) ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 11, pris au dépourvu 18 (Dex +1, naturelle +8)}
 {s:BDTexte|**pv** 58 (9d10+9)}
@@ -25,13 +25,13 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 griffes, +13 (1d4+4 et faiblesse)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9<sup>e</sup>)}
-{s:BDSorts|Constant — *[don des langues](./Don des langues.md)*, *[passage sans trace](./passage sans trace.md)*, *[respiration aquatique](./Respiration aquatique.md)*}
-{s:BDSorts|À volonté — *[modification d'apparence](./Modification dapparence.md)* (DD 13), *[forme d'arbre](./Forme darbre.md)*, *[invisibilité](./Invisibilité.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[pyrotechnie](./Pyrotechnie.md)* (DD 14), *[son imaginaire](./Son imaginaire.md)* (DD 12), *[vent de murmures](./Vent de murmures.md)*}
+{s:BDSorts|Constant — *[[don des langues]]*, *[[passage sans trace]]*, *[[respiration aquatique]]*}
+{s:BDSorts|À volonté — *[[modification dapparence|modification d'apparence]]* (DD 13), *[[forme darbre|forme d'arbre]]*, *[[invisibilité]]*, *[[lumières dansantes]]*, *[[pyrotechnie]]* (DD 14), *[[son imaginaire]]* (DD 12), *[[vent de murmures]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 12, **Con** 12, **Int** 15, **Sag** 13, **Cha** 14}
 {s:BDTexte|**BBA** +9, **BMO** +13, **DMD** 24}
-{s:BDTexte|**Dons** [Combat en aveugle](./Combat en aveugle.md), [Fourberie](./Fourberie.md), [Magie de guerre](./Magie de guerre.md), [Vigilance](./Vigilance.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +13, [Connaissances](./Connaissances.md) (mystères) +11, [Déguisement](./Déguisement.md) +13, [Discrétion](./Discrétion.md) +13, [Natation](./Natation.md) +18, [Perception](./Perception.md) +15, [Psychologie](./Psychologie.md) +9}
+{s:BDTexte|**Dons** [[Combat en aveugle]], [[Fourberie]], [[Magie de guerre]], [[Vigilance]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Bluff]] +13, [[Connaissances]] (mystères) +11, [[Déguisement]] +13, [[Discrétion]] +13, [[Natation]] +18, [[Perception]] +15, [[Psychologie]] +9}
 {s:BDTexte|**Langues** aklo, commun, géant}
 {s:BDTexte|**Particularités** mimétisme}
 {s:BDSousTitre|Écologie}
@@ -39,7 +39,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire ou cercle (3 guenaudes de n'importe quels types)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Faiblesse (Sur).** Les griffes des guenaudes vertes sapent la force de leurs victimes. Chaque fois qu'une guenaude verte touche un ennemi avec une attaque de griffe, celui-ci subit un [affaiblissement temporaire](./affaiblissement temporaire.md) de 2 points de [Force](./Force.md) à moins de réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 16. Les guenaudes vertes peuvent également choisir d'infliger à leurs ennemis une plus grande faiblesse encore en réussissant un [jet d'attaque](./jet dattaque.md) de contact. Cette variante nécessite une [action simple](./Action simple.md) et ne peut être utilisée au cours d'un round où la guenaude a porté des attaques de griffes. L'ennemi touché doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 16 pour éviter de subir un [affaiblissement temporaire](./affaiblissement temporaire.md) de 2d4 points de [Force](./Force.md). Le [DD](./DD.md) dépend du [Charisme](./Charisme.md).}
+{s:BDTexte|**Faiblesse (Sur).** Les griffes des guenaudes vertes sapent la force de leurs victimes. Chaque fois qu'une guenaude verte touche un ennemi avec une attaque de griffe, celui-ci subit un [[affaiblissement temporaire]] de 2 points de [[Force]] à moins de réussir un jet de [[Vigueur]] de [[DD]] 16. Les guenaudes vertes peuvent également choisir d'infliger à leurs ennemis une plus grande faiblesse encore en réussissant un [[jet dattaque|jet d'attaque]] de contact. Cette variante nécessite une [[action simple]] et ne peut être utilisée au cours d'un round où la guenaude a porté des attaques de griffes. L'ennemi touché doit réussir un jet de [[Vigueur]] de [[DD]] 16 pour éviter de subir un [[affaiblissement temporaire]] de 2d4 points de [[Force]]. Le [[DD]] dépend du [[Charisme]].}
 {s:BDTexte|**Mimétisme (Ext).** Une guenaude verte peut tenter d'imiter les sons de quasiment tous les animaux qui vivent près de son repaire.}
 
 </div>
@@ -49,19 +49,19 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Guenaude annis](./Guenaude annis.md) || 6
+| [[Guenaude annis]] || 6
 |-
-| [Guenaude arctique](./Guenaude arctique.md) || 7
+| [[Guenaude arctique]] || 7
 |-
-| [Guenaude de sang](./Guenaude de sang.md) || 8
+| [[Guenaude de sang]] || 8
 |-
-| [Guenaude des tempêtes](./Guenaude des tempêtes.md) || 7
+| [[Guenaude des tempêtes]] || 7
 |-
-| [Guenaude marine](./Guenaude marine.md) || 4
+| [[Guenaude marine]] || 4
 |-
-| [Guenaude noire](./Guenaude noire.md) || 9
+| [[Guenaude noire]] || 9
 |-
-| [Guenaude verte](./Guenaude verte.md) || 5
+| [[Guenaude verte]] || 5
 |}
 </div>*Le corps de cette vieille femme émaciée et maladive est parsemé de touffes et de poils sombres ressemblant à des moisissures.*
 
@@ -71,7 +71,7 @@ intense pour tout ce qui est beau et pur. Elles adorent se servir de
 leurs diverses capacités de tromperie pour tuer des innocents, perturber
 les esprits nobles et corrompre les cœurs purs.
 
-Elles aiment tout particulièrement utiliser [déguisement](./Déguisement.md) pour prendre la forme de
+Elles aiment tout particulièrement utiliser [[déguisement]] pour prendre la forme de
 jeunes et séduisantes vierges afin d’éloigner les jeunes gens de leurs
 amantes et de leurs familles. Cette apparence leur permet d’apporter
 la débauche et le scandale dans le cœur des gens nobles et honnêtes.
@@ -108,10 +108,10 @@ de 3 mètres l’une de l’autre, elles peuvent
 collaborer pour accéder aux pouvoirs
 magiques suivant :
 
-[animation des morts](./Animation des morts.md), [cage de force](./Cage de force.md), [charme-monstre](./Charme-monstre.md) (DD 17), [clairaudience/clairvoyance](./Clairaudienceclairvoyance.md),
-[communication avec les morts](./Communication avec les morts.md),
-[communion](./Communion.md), [contrôle du climat](./Contrôle du climat.md), [esprit impénétrable](./Esprit impénétrable.md),
-[flétrissement végétal](./Flétrissement végétal.md) (DD 17), [malédiction](./malédiction.md) (DD 17), [métamorphose funeste](./Métamorphose funeste.md) (DD 18), [mirage](./mirage.md) (DD 18), [réincarnation](./Réincarnation.md), [songe](./Songe.md), [vision mystique](./Vision mystique.md), [voile](./Voile.md) (DD 19).
+[[animation des morts]], [[cage de force]], [[charme-monstre]] (DD 17), [[Clairaudienceclairvoyance|clairaudience/clairvoyance]],
+[[communication avec les morts]],
+[[communion]], [[contrôle du climat]], [[esprit impénétrable]],
+[[flétrissement végétal]] (DD 17), [[malédiction]] (DD 17), [[métamorphose funeste]] (DD 18), [[mirage]] (DD 18), [[réincarnation]], [[songe]], [[vision mystique]], [[voile]] (DD 19).
 
 Les trois guenaudes doivent consacrer une
 action complexe pour pouvoir utiliser cette forme
@@ -119,9 +119,9 @@ de magie de groupe. Tous les pouvoirs magiques d’un
 cercle de guenaudes fonctionnent avec un NLS égal à 9
 (ou au NLS de la guenaude la plus puissante du cercle).
 
-Les DD des jets de sauvegarde dépendent du [Charisme](./Charisme.md) et
-fonctionne comme si le lanceur de sorts avait un [Charisme](./Charisme.md) de 16 (à
-moins qu’une des guenaudes ne possède un [Charisme](./Charisme.md) plus élevé,
+Les DD des jets de sauvegarde dépendent du [[Charisme]] et
+fonctionne comme si le lanceur de sorts avait un [[Charisme]] de 16 (à
+moins qu’une des guenaudes ne possède un [[Charisme]] plus élevé,
 auquel cas c’est cette valeur qu’on utilise pour calculer le DD).
 
 Si le MJ le désire, certains cercles de guenaudes plus

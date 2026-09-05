@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Mutante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Mutante](./Descriptions individuelles des propriétés spéciales des armes.md#Mutante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Mutante]]

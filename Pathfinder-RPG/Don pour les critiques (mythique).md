@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les coups du personnage touchent de manière infaillible les points vitaux de ses cibles.*
 
-**Condition.** [Don pour les critiques](./Don pour les critiques.md)
+**Condition.** [[Don pour les critiques]]
 
-**Avantage.** Le personnage confirme automatiquement ses coups critiques contre des adversaires [non-mythiques](./non-mythiques.md). De plus, lorsqu’il obtient un critique potentiel contre une créature portant une armure dotée de la propriété spéciale défense ou d’un effet similaire, celle-ci doit lancer deux dés et conserver le pire lorsqu’il s’agit de déterminer l’annulation du coup critique.
+**Avantage.** Le personnage confirme automatiquement ses coups critiques contre des adversaires [[non-mythiques]]. De plus, lorsqu’il obtient un critique potentiel contre une créature portant une armure dotée de la propriété spéciale défense ou d’un effet similaire, celle-ci doit lancer deux dés et conserver le pire lorsqu’il s’agit de déterminer l’annulation du coup critique.

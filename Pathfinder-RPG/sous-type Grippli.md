@@ -9,4 +9,4 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire 2 (2ème impression) p.311*
 
-Les gripplis sont des humanoïdes batraciens. Les créatures de ce sous-type sont dotées de la capacité [vision dans le noir](./vision dans le noir (capacité).md).
+Les gripplis sont des humanoïdes batraciens. Les créatures de ce sous-type sont dotées de la capacité [[Vision dans le noir (capacité)|vision dans le noir]].

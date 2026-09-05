@@ -19,34 +19,34 @@ Les aristocraties du monde varient selon les régions. Un vice-roi de l'Empire d
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [Prospérité](./Héritier noble.md#PROSPERITE)
+| CLASS="gauche" | [[Héritier noble#PROSPERITE|Prospérité]]
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Grand meneur](./Héritier noble.md#GRANDMENEUR)
+| CLASS="gauche" | [[Héritier noble#GRANDMENEUR|Grand meneur]]
 |-
 | 3 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [Érudition aristocratique](./Héritier noble.md#ERUDITIONARISTOCRATIQUE)
+| CLASS="gauche" | [[Héritier noble#ERUDITIONARISTOCRATIQUE|Érudition aristocratique]]
 |- CLASS="alt"
 | 4 || +3 || +1 || +1 || +2
-| CLASS="gauche" | [Influence prestigieuse](./Héritier noble.md#INFLUENCEPRESTIGIEUSE), [expertise régionale](./Héritier noble.md#EXPERTISEREGIONALE)
+| CLASS="gauche" | [[Héritier noble#INFLUENCEPRESTIGIEUSE|Influence prestigieuse]], [[Héritier noble#EXPERTISEREGIONALE|expertise régionale]]
 |-
 | 5 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [Études dilettantes](./Héritier noble.md#ETUDESDILETTANTES)
+| CLASS="gauche" | [[Héritier noble#ETUDESDILETTANTES|Études dilettantes]]
 |- CLASS="alt"
 | 6 || +4 || +2 || +2 || +3
-| CLASS="gauche" | [Expertise régionale](./Héritier noble.md#EXPERTISEREGIONALE)
+| CLASS="gauche" | [[Héritier noble#EXPERTISEREGIONALE|Expertise régionale]]
 |-
 | 7 || +5 || +2 || +2 || +4
-| CLASS="gauche" | [Serviteur](./Héritier noble.md#SERVITEUR)
+| CLASS="gauche" | [[Héritier noble#SERVITEUR|Serviteur]]
 |- CLASS="alt"
 | 8 || +6 || +3 || +3 || +4
-| CLASS="gauche" | [Expertise régionale](./Héritier noble.md#EXPERTISEREGIONALE)
+| CLASS="gauche" | [[Héritier noble#EXPERTISEREGIONALE|Expertise régionale]]
 |-
 | 9 || +6 || +3 || +3 || +5
-| CLASS="gauche" | [Études dilettantes](./Héritier noble.md#ETUDESDILETTANTES)
+| CLASS="gauche" | [[Héritier noble#ETUDESDILETTANTES|Études dilettantes]]
 |- CLASS="alt"
 | 10 || +7 || +3 || +3 || +5
-| CLASS="gauche" | [Noble hors pair](./Héritier noble.md#NOBLEHORSPAIR)
+| CLASS="gauche" | [[Héritier noble#NOBLEHORSPAIR|Noble hors pair]]
 |}
 </center>
 
@@ -55,21 +55,21 @@ Les aristocraties du monde varient selon les régions. Un vice-roi de l'Empire d
 ### Conditions requises
 Pour devenir héritier noble, le personnage doit satisfaire aux conditions suivantes :
 
-**Dons.** [Noble rejeton](./Noble rejeton.md) ou [Talent](./Talent.md) (n'importe quelle compétence faisant partie des compétences de classe de l'héritier noble).
+**Dons.** [[Noble rejeton]] ou [[Talent]] (n'importe quelle compétence faisant partie des compétences de classe de l'héritier noble).
 
-**Compétences.** 2 rangs en [Bluff](./Bluff.md), 5 rangs en [Connaissances](./Connaissances.md) (noblesse), 2 rangs en [Diplomatie](./Diplomatie.md) et 2 rangs en [Psychologie](./Psychologie.md).
+**Compétences.** 2 rangs en [[Bluff]], 5 rangs en [[Connaissances]] (noblesse), 2 rangs en [[Diplomatie]] et 2 rangs en [[Psychologie]].
 
 **Spécial.** Doit avoir reçu des droits nobles, faire partie de l'aristocratie ou être né, marié ou adopté dans une famille noble.
 
 ### Compétences de classe
-Voici les compétences de classe de l’héritier noble : [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (toutes) (Int),  [Déguisement](./Déguisement.md) (Cha), [Diplomatie](./Diplomatie.md) (Cha), [Estimation](./Estimation.md) (Int), [Équitation](./Équitation.md) (Dex),  [Intimidation](./Intimidation.md) (Cha), [Perception](./Perception.md) (Sag), [Psychologie](./Psychologie.md) (Sag) et [Représentation](./Représentation.md) (Cha).
+Voici les compétences de classe de l’héritier noble : [[Bluff]] (Cha), [[Connaissances]] (toutes) (Int),  [[Déguisement]] (Cha), [[Diplomatie]] (Cha), [[Estimation]] (Int), [[Équitation]] (Dex),  [[Intimidation]] (Cha), [[Perception]] (Sag), [[Psychologie]] (Sag) et [[Représentation]] (Cha).
 
-**Rangs de compétence par niveau.** 6 + modificateur d'[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.** 6 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de classe de l'héritier noble.
 #### Armes et armures
-Un héritier noble est formé au maniement de toutes les [armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) et [de guerre](./Tableau récapitulatif des armes.md#TABGUERRE), ainsi qu'au port de toutes les [armures](./Tableau récapitulatif des armures.md) et tous les [boucliers](./Tableau récapitulatif des armures.md#BOUCLIER) (sauf les pavois).
+Un héritier noble est formé au maniement de toutes les [[Tableau récapitulatif des armes#TABCOURANTES|armes courantes]] et [[Tableau récapitulatif des armes#TABGUERRE|de guerre]], ainsi qu'au port de toutes les [[Tableau récapitulatif des armures|armures]] et tous les [[Tableau récapitulatif des armures#BOUCLIER|boucliers]] (sauf les pavois).
 
 {s:reference|PROSPERITE}
 #### Prospérité (Ext)
@@ -77,11 +77,11 @@ Un héritier noble est formé au maniement de toutes les [armes courantes](./Tab
 
 {s:reference|GRANDMENEUR}
 #### Grand meneur (Ext)
-Au niveau 2, un héritier noble gagne le don [Prestige](./Prestige.md) comme don supplémentaire. Il peut recruter un compagnon d'arme avec au mieux un niveau de moins que lui (au lieu de 2). Au niveau 10, il peut recruter un compagnon d'arme du même niveau que lui.
+Au niveau 2, un héritier noble gagne le don [[Prestige]] comme don supplémentaire. Il peut recruter un compagnon d'arme avec au mieux un niveau de moins que lui (au lieu de 2). Au niveau 10, il peut recruter un compagnon d'arme du même niveau que lui.
 
 {s:reference|ERUDITIONARISTOCRATIQUE}
 #### Érudition aristocratique (Ext)
-Au niveau 3, un héritier noble obtient un bonus égal à la moitié de son niveau de classe aux tests de [Diplomatie](./Diplomatie.md), de [Connaissances](./Connaissances.md) (folklore local) et Connaissances (noblesse). Cette capacité réduit également le [DD](./DD.md) des tests de Diplomatie et Connaissances (folklore local) faits par d'autres personnages pour récupérer des informations sur l'héritier noble d'un même montant (moitié de niveau de classe).
+Au niveau 3, un héritier noble obtient un bonus égal à la moitié de son niveau de classe aux tests de [[Diplomatie]], de [[Connaissances]] (folklore local) et Connaissances (noblesse). Cette capacité réduit également le [[DD]] des tests de Diplomatie et Connaissances (folklore local) faits par d'autres personnages pour récupérer des informations sur l'héritier noble d'un même montant (moitié de niveau de classe).
 
 {s:reference|INFLUENCEPRESTIGIEUSE}
 #### Influence prestigieuse (Ext)
@@ -100,31 +100,31 @@ Un héritier noble ne peut pas acquérir des biens matériels ou de l'argent dé
 
 {s:reference|EXPERTISEREGIONALE}
 #### Expertise régionale (Ext)
-Au niveau 4 et encore une fois aux niveaux 6 et 8, un héritier noble gagne un don supplémentaire de la liste ci-dessous, selon son lieu de naissance. Ces dons doivent être pris de la même liste à chaque niveau (sauf pour les dons de la catégorie « général », qui peuvent être pris par un noble de n'importe quelle région). Un héritier noble n'a pas besoin de satisfaire aux conditions du don pour pouvoir le prendre. À sa discrétion, le [MJ](./MJ.md) peut rajouter des dons à ces listes, ou créer une liste pour d'autres régions.
-- **Royaume divisé.** [Arme de prédilection](./Arme de prédilection.md) ([épée de duel](./épée de duel (arme).md)), [Briser la tenaille](./Briser la tenaille.md), [Maniement d'une arme exotique](./Maniement dune arme exotique.md) ([épée de duel](./épée de duel (arme).md)), [S'avancer](./Savancer.md).
-- **Empire diabolique.** [Force intimidante](./Force intimidante.md), [Homme de main](./Homme de main.md), [Orateur prudent](./Orateur prudent.md),  [Talent](./Talent.md) (Connaissances <nowiki>[</nowiki>plans<nowiki>]</nowiki>).
-- **Royaume de l'impossible.**  [Arme de prédilection](./Arme de prédilection.md) (mains nues), [Science du combat à mains nues](./Science du combat à mains nues.md), [Talent](./Talent.md) (Représentation <nowiki>[</nowiki>danse<nowiki>]</nowiki>), [Voix de la sibylle](./Voix de la sibylle.md).
-- **Royaume elfique.** [Arme de prédilection](./Arme de prédilection.md) ([arc long](./Arc long (arme).md)), [Expériences variées](./Expériences variées.md), [Manœuvres agiles](./Manœuvres agiles.md), [Talent](./Talent.md) (Connaissances <nowiki>[</nowiki>nature<nowiki>]</nowiki>).
-- **État serviteur de l'Ombre.** [Combat en aveugle](./Combat en aveugle.md), [Coup dans l'ombre](./Coup dans lombre.md), [Discret](./Discret.md), [Dur à cuire](./Dur à cuire.md).
-- **Terre des pharaons.** [Arme de prédilection](./Arme de prédilection.md) ([khopesh](./khopesh (arme).md)), [Autonome](./Autonome.md),  [Maniement d'une arme exotique](./Maniement dune arme exotique.md) ([khopesh](./khopesh (arme).md)), [Talent](./Talent.md) (Connaissances <nowiki>[</nowiki>histoire<nowiki>]</nowiki>).
-- **Porte de l'Est.**  [Arme de prédilection](./Arme de prédilection.md) ([cimeterre](./cimeterre (arme).md)), [Arme en main](./Arme en main.md), [Fraternité animale](./Fraternité animale.md), [Talent](./Talent.md) (Estimation).
-- **Les Royaumes indépendants.** [Boyaux d'acier](./Boyaux dacier.md), [Science de la subtilisation](./Science de la subtilisation.md), [Science du sale coup](./Science du sale coup.md), [Talent](./Talent.md) (Connaissances <nowiki>[</nowiki>folklore local<nowiki>]</nowiki>). 
-- **L'Empire décadent.** [Arme de prédilection](./Arme de prédilection.md) ([falcata](./falcata (arme).md)), [Démonstration](./Démonstration.md), [Maniement d'une arme exotique](./Maniement dune arme exotique.md) ([falcata](./falcata (arme).md)), [Talent](./Talent.md) (Bluff).
-- **Les Landes lugubres.** [Attaques réflexes](./Attaques réflexes.md), [Discipliné](./Discipliné.md), [Talent](./Talent.md) ([Connaissances](./Connaissances.md) <nowiki>[</nowiki>noblesse<nowiki>]</nowiki>),  [Stoïque](./Stoïque.md). 
-- **Général.** [Antagoniste](./Antagoniste.md), [Athlétisme](./Athlétisme.md), [Cosmopolite](./Cosmopolite.md), [Course](./Course.md), [Doigts de fée](./Doigts de fée.md), [Érudit](./Érudit.md), [Fioritures rhétoriques](./Fioritures rhétoriques.md), [Fourberie](./Fourberie.md), [Persuasion](./Persuasion.md), [Prodige](./Prodige.md), [Rapide](./Rapide.md), [Science de l'initiative](./Science de linitiative.md), [Traits supplémentaires](./Traits supplémentaires.md), [Vigilance](./Vigilance.md), [Voltigeur](./Voltigeur.md).
+Au niveau 4 et encore une fois aux niveaux 6 et 8, un héritier noble gagne un don supplémentaire de la liste ci-dessous, selon son lieu de naissance. Ces dons doivent être pris de la même liste à chaque niveau (sauf pour les dons de la catégorie « général », qui peuvent être pris par un noble de n'importe quelle région). Un héritier noble n'a pas besoin de satisfaire aux conditions du don pour pouvoir le prendre. À sa discrétion, le [[MJ]] peut rajouter des dons à ces listes, ou créer une liste pour d'autres régions.
+- **Royaume divisé.** [[Arme de prédilection]] ([[épée de duel (arme)|épée de duel]]), [[Briser la tenaille]], [[Maniement dune arme exotique|Maniement d'une arme exotique]] ([[épée de duel (arme)|épée de duel]]), [[Savancer|S'avancer]].
+- **Empire diabolique.** [[Force intimidante]], [[Homme de main]], [[Orateur prudent]],  [[Talent]] (Connaissances <nowiki>[[</nowiki>plans<nowiki>]]</nowiki>).
+- **Royaume de l'impossible.**  [[Arme de prédilection]] (mains nues), [[Science du combat à mains nues]], [[Talent]] (Représentation <nowiki>[[</nowiki>danse<nowiki>]]</nowiki>), [[Voix de la sibylle]].
+- **Royaume elfique.** [[Arme de prédilection]] ([[arc long (arme)|arc long]]), [[Expériences variées]], [[Manœuvres agiles]], [[Talent]] (Connaissances <nowiki>[[</nowiki>nature<nowiki>]]</nowiki>).
+- **État serviteur de l'Ombre.** [[Combat en aveugle]], [[Coup dans lombre|Coup dans l'ombre]], [[Discret]], [[Dur à cuire]].
+- **Terre des pharaons.** [[Arme de prédilection]] ([[khopesh (arme)|khopesh]]), [[Autonome]],  [[Maniement dune arme exotique|Maniement d'une arme exotique]] ([[khopesh (arme)|khopesh]]), [[Talent]] (Connaissances <nowiki>[[</nowiki>histoire<nowiki>]]</nowiki>).
+- **Porte de l'Est.**  [[Arme de prédilection]] ([[cimeterre (arme)|cimeterre]]), [[Arme en main]], [[Fraternité animale]], [[Talent]] (Estimation).
+- **Les Royaumes indépendants.** [[Boyaux dacier|Boyaux d'acier]], [[Science de la subtilisation]], [[Science du sale coup]], [[Talent]] (Connaissances <nowiki>[[</nowiki>folklore local<nowiki>]]</nowiki>). 
+- **L'Empire décadent.** [[Arme de prédilection]] ([[falcata (arme)|falcata]]), [[Démonstration]], [[Maniement dune arme exotique|Maniement d'une arme exotique]] ([[falcata (arme)|falcata]]), [[Talent]] (Bluff).
+- **Les Landes lugubres.** [[Attaques réflexes]], [[Discipliné]], [[Talent]] ([[Connaissances]] <nowiki>[[</nowiki>noblesse<nowiki>]]</nowiki>),  [[Stoïque]]. 
+- **Général.** [[Antagoniste]], [[Athlétisme]], [[Cosmopolite]], [[Course]], [[Doigts de fée]], [[Érudit]], [[Fioritures rhétoriques]], [[Fourberie]], [[Persuasion]], [[Prodige]], [[Rapide]], [[Science de linitiative|Science de l'initiative]], [[Traits supplémentaires]], [[Vigilance]], [[Voltigeur]].
 
 {s:reference|ETUDESDILETTANTES}
 #### Études dilettantes
 Au niveau 5, un héritier noble choisit deux études dilettantes différentes parmi la liste ci-dessous. Au niveau 9, il choisit à nouveau deux études dilettantes différentes qu'il ajoute à son répertoire. S'il choisit une ou des études au niveau 9 déjà prises au niveau 5, les effets se cumulent.
 - ***Érudit dilettante (Sur).*** Un héritier noble obtient de nouveaux sorts par jour comme s'il avait gagné un niveau dans une classe de lanceur de sorts qu'il possédait avant d'obtenir cette classe de prestige. 
-- ***Guerrier dilettante (Ext).*** Un héritier noble obtient un bonus de +1 sur les [jets d'attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS). 
-- ***Scélérat dilettante (Ext).*** Un héritier noble obtient un bonus d'[attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) de +1d6 comme la capacité de [roublard](./Roublard.md). S'il obtient l'attaque sournoise d'une autre source, les dégâts supplémentaires se cumulent. 
-- ***Artiste dilettante (Sur).*** Un héritier noble augmente son niveau effectif de [barde](./Barde.md) de 2 pour les déterminer les effets de sa [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE). Un héritier noble doit posséder la capacité de classe représentation bardique pour pouvoir choisir cette étude.
+- ***Guerrier dilettante (Ext).*** Un héritier noble obtient un bonus de +1 sur les [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]]. 
+- ***Scélérat dilettante (Ext).*** Un héritier noble obtient un bonus d'[[Roublard#ATTAQUESOURNOISE|attaque sournoise]] de +1d6 comme la capacité de [[roublard]]. S'il obtient l'attaque sournoise d'une autre source, les dégâts supplémentaires se cumulent. 
+- ***Artiste dilettante (Sur).*** Un héritier noble augmente son niveau effectif de [[barde]] de 2 pour les déterminer les effets de sa [[Barde#REPRESENTATIONBARDIQUE|représentation bardique]]. Un héritier noble doit posséder la capacité de classe représentation bardique pour pouvoir choisir cette étude.
 
 {s:reference|SERVITEUR}
 #### Serviteur (Ext)
-Au niveau 7, un héritier noble obtient un serviteur [PNJ](./PNJ.md) fidèle du même niveau que son compagnon d'arme offert par le don [Prestige](./Prestige.md). Ce serviteur ne peut avoir des niveaux que dans des [classes de PNJ](./Classes de PNJ.md) et arrive équipé avec des objets appropriés pour un personnage d'un niveau inférieur de 1 au niveau actuel du serviteur. Le serviteur ne suit pas forcément l'héritier noble dans ses aventures comme le ferait un compagnon d'arme mais à la place il peut accomplir diverses tâches pour son maître quand il est en aventure, comme livrer des messages ou s'occuper de la maison de l'héritier noble le temps de son aventure.
+Au niveau 7, un héritier noble obtient un serviteur [[PNJ]] fidèle du même niveau que son compagnon d'arme offert par le don [[Prestige]]. Ce serviteur ne peut avoir des niveaux que dans des [[classes de PNJ]] et arrive équipé avec des objets appropriés pour un personnage d'un niveau inférieur de 1 au niveau actuel du serviteur. Le serviteur ne suit pas forcément l'héritier noble dans ses aventures comme le ferait un compagnon d'arme mais à la place il peut accomplir diverses tâches pour son maître quand il est en aventure, comme livrer des messages ou s'occuper de la maison de l'héritier noble le temps de son aventure.
 
 {s:reference|NOBLEHORSPAIR}
 #### Noble hors pair (Ext)
-Au niveau 10, une fois par round, un héritier noble peut faire deux lancers lors d'un test de [Bluff](./Bluff.md), [Connaissances](./Connaissances.md) (noblesse), [Diplomatie](./Diplomatie.md), [Intimidation](./Intimidation.md) ou [Psychologie](./Psychologie.md) et conserver le meilleur résultat. Une fois par jour, au lieu de faire un de ces tests de compétence, il peut considérer qu'il a obtenu un 20 naturel.
+Au niveau 10, une fois par round, un héritier noble peut faire deux lancers lors d'un test de [[Bluff]], [[Connaissances]] (noblesse), [[Diplomatie]], [[Intimidation]] ou [[Psychologie]] et conserver le meilleur résultat. Une fois par jour, au lieu de faire un de ces tests de compétence, il peut considérer qu'il a obtenu un 20 naturel.

@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:APG}{s:BDTitre|Amulette d'astuce magique|}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 10 000 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 10 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette amulette en argent ne révèle pas son pouvoir à moins de devenir l’[objet fétiche](./Magicien.md#PACTEMAGIQUE) d’un [magicien](./Magicien.md), auquel cas elle lui permet de préparer 3 [niveaux de sort](./Niveau de sort.md) de plus par jour.
+Cette amulette en argent ne révèle pas son pouvoir à moins de devenir l’[[magicien#PACTEMAGIQUE|objet fétiche]] d’un [[magicien]], auquel cas elle lui permet de préparer 3 [[niveau de sort|niveaux de sort]] de plus par jour.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[mémorisation](./Mémorisation.md)* ; **Coût** 5 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[mémorisation]]* ; **Coût** 5 000 po
 </div>

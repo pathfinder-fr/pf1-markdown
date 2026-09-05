@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Druide#ABSENCEDETRACES
 ---
 
->>> [Druide#ABSENCEDETRACES](./Druide.md#ABSENCEDETRACES)
+>>> [[Druide#ABSENCEDETRACES]]

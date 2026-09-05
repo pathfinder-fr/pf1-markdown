@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 po ; **Poids** 3,5 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces chasseurs charognards nocturnes vivent essentiellement dans les environnements forestiers. Ils sont connus pour le masque noir et blanc que dessine le pelage de leur visage, pour l’agilité de leurs pattes antérieures (au toucher hyper-développé) et pour leur étrange tendance anthropomorphique à « laver » leur nourriture dans l’eau avant de la manger. On garde parfois les ratons-laveurs comme animaux de compagnie et certains lanceurs de sorts les utilisent comme [familiers](./Familiers.md). Voir les statistiques du [raton-laveur](./Raton laveur.md).
+Ces chasseurs charognards nocturnes vivent essentiellement dans les environnements forestiers. Ils sont connus pour le masque noir et blanc que dessine le pelage de leur visage, pour l’agilité de leurs pattes antérieures (au toucher hyper-développé) et pour leur étrange tendance anthropomorphique à « laver » leur nourriture dans l’eau avant de la manger. On garde parfois les ratons-laveurs comme animaux de compagnie et certains lanceurs de sorts les utilisent comme [[Familiers]]. Voir les statistiques du [[raton laveur|raton-laveur]].

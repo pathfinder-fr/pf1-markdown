@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Carreau d'enchevêtrement|{s:AE}}
-**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 12 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 226 po ; **Poids** -
+**Aura** [[Invocation]] puissante ; **NLS** 12 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 226 po ; **Poids** -
 (((Description)))
-Ce *carreau [traqueur](./traqueuse (propriété).md) +1* d'un vert maladif est souvent gravé de toiles d'araignées ou de lianes des marécages. Quand il touche sa cible, il se transforme en une substance gluante qui enchevêtre la victime, durcit et gagne une résistance au contact de l'air. En plus de subir les dégâts du carreau, la cible est [enchevêtrée](./Enchevêtré.md) comme si on lui avait lancé une [sacoche immobilisante](./Sacoche immobilisante (objet).md).
+Ce *carreau [[traqueuse (propriété)|traqueur]] +1* d'un vert maladif est souvent gravé de toiles d'araignées ou de lianes des marécages. Quand il touche sa cible, il se transforme en une substance gluante qui enchevêtre la victime, durcit et gagne une résistance au contact de l'air. En plus de subir les dégâts du carreau, la cible est [[enchevêtré|enchevêtrée]] comme si on lui avait lancé une [[Sacoche immobilisante (objet)|sacoche immobilisante]].
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[vision lucide](./Vision lucide.md)* et *[toile d'araignée](./Toile daraignée.md)* ou le créateur doit posséder 5 rangs en [Artisanat](./Artisanat.md) (alchimie) ; **Coût** : 113 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[vision lucide]]* et *[[toile daraignée|toile d'araignée]]* ou le créateur doit posséder 5 rangs en [[Artisanat]] (alchimie) ; **Coût** : 113 po
 </div>

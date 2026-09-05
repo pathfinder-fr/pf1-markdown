@@ -11,16 +11,16 @@ Categories:
 
 {s:uc}*Quand le personnage manie une arme à distance, il profite de la moindre ouverture dans les défenses de son adversaire. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 13, [Arme de prédilection](./Arme de prédilection.md), [Tir à bout portant](./Tir à bout portant.md), [Tir rapide](./Tir rapide.md), [BBA](./BBA.md) +6
+**Conditions.** [[Dex]] 13, [[Arme de prédilection]], [[Tir à bout portant]], [[Tir rapide]], [[BBA]] +6
 
-{s:FAQ|***[→](./FAQ- lArt de la guerre.md#18) Tir soudain : Un personnage avec Tir soudain (page 120) et Attaques réflexes peut-il porter plusieurs attaques d’opportunité avec une arme à distance, en admettant que charger ladite arme à distance est une action libre ?***
+{s:FAQ|***[[FAQ- lArt de la guerre#18|→]] Tir soudain : Un personnage avec Tir soudain (page 120) et Attaques réflexes peut-il porter plusieurs attaques d’opportunité avec une arme à distance, en admettant que charger ladite arme à distance est une action libre ?***
 
-Oui. Tant que le personnage peut recharger son arme par une [action libre](./Action libre.md) il peut la recharger dans le cadre de l’[attaque d’opportunité](./AO.md) à distance qu’il entreprend grâce à <u>[Tir soudain](./Tir soudain.md)</u>.}**Avantage.** Quand le personnage manie une arme à distance pour laquelle il possède le don [Arme de prédilection](./Arme de prédilection.md), il menace aussi les cases qui se trouvent à 1,50 m (1 {s:c}) de lui. Il peut faire des [attaques d’opportunité](./attaque dopportunité.md) avec cette arme et il n’en provoque pas quand il fait une [attaque à distance](./Attaque à distance.md) en tant qu’attaque d’opportunité.
+Oui. Tant que le personnage peut recharger son arme par une [[action libre]] il peut la recharger dans le cadre de l’[[AO|attaque d’opportunité]] à distance qu’il entreprend grâce à <u>[[Tir soudain]]</u>.}**Avantage.** Quand le personnage manie une arme à distance pour laquelle il possède le don [[Arme de prédilection]], il menace aussi les cases qui se trouvent à 1,50 m (1 {s:c}) de lui. Il peut faire des [[attaque dopportunité|attaques d’opportunité]] avec cette arme et il n’en provoque pas quand il fait une [[attaque à distance]] en tant qu’attaque d’opportunité.
 
 **Normal.** Quand le personnage manie une arme à distance, il ne menace aucune case et il ne peut pas faire d’attaque d’opportunité avec cette arme.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-À la fin de son tour, le personnage peut dépenser 2 points d’endurance pour augmenter la distance de sa [zone de contrôle](./espace contrôlé.md) avec ses armes à distance et la faire passer à 3 mètres jusqu’à ce qu’il fasse une [attaque d’opportunité](./AO.md) contre un adversaire située dans la zone agrandie ou jusqu’au début de son prochain tour, selon ce qui se produit en premier.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+À la fin de son tour, le personnage peut dépenser 2 points d’endurance pour augmenter la distance de sa [[espace contrôlé|zone de contrôle]] avec ses armes à distance et la faire passer à 3 mètres jusqu’à ce qu’il fasse une [[AO|attaque d’opportunité]] contre un adversaire située dans la zone agrandie ou jusqu’au début de son prochain tour, selon ce qui se produit en premier.

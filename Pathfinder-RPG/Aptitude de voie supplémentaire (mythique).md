@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage peut faire usage d’aptitudes mythiques autres que celles qu’il maîtrise déjà.*
 
-**Condition.** [3ème grade mythique](./Grade.md)
+**Condition.** [[grade|3ème grade mythique]]
 
-**Avantage.** Le personnage choisit une aptitude mythique pour laquelle il remplit toutes les conditions, dans la liste des aptitudes de sa voie ou de la [voie universelle](./Aptitudes de voie universelles Mythique.md). Il gagne cette nouvelle aptitude de voie.
+**Avantage.** Le personnage choisit une aptitude mythique pour laquelle il remplit toutes les conditions, dans la liste des aptitudes de sa voie ou de la [[Aptitudes de voie universelles Mythique|voie universelle]]. Il gagne cette nouvelle aptitude de voie.

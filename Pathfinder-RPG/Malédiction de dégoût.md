@@ -12,19 +12,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[émotion, malédiction, mental](./Registre.md)<nowiki>]</nowiki> ;
-**Niveau** [Bard](./Barde.md) 3, [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 6, [Sor](./Sorcière.md) 5  
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion, malédiction, mental]]<nowiki>]</nowiki> ;
+**Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature   
 
-**Durée** [permanente](./permanente.md)  
+**Durée** [[permanente]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE); **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]; **Résistance à la magie** oui
 
-Le personnage place une malédiction sur une créature, ce qui la pousse à fuir la vue d'un déclencheur spécifique comme un type de créature, un objet ou une condition choisi par le lanceur de sorts. Qunad la cible se trouve à moins de 9 mètres de ce déclencheur et qu'elle est consciente de sa présence, elle devient [fiévreuse](./Fiévreux.md) et ressent un besoin impérieux de s'en aller. Voici quelques exemples de déclencheur:des mendiants, des vêtements crasseux, des créatures malades, le roi, du sang, des araignées, des rats, des cadavres ou des égoûts.
+Le personnage place une malédiction sur une créature, ce qui la pousse à fuir la vue d'un déclencheur spécifique comme un type de créature, un objet ou une condition choisi par le lanceur de sorts. Qunad la cible se trouve à moins de 9 mètres de ce déclencheur et qu'elle est consciente de sa présence, elle devient [[fiévreux|fiévreuse]] et ressent un besoin impérieux de s'en aller. Voici quelques exemples de déclencheur:des mendiants, des vêtements crasseux, des créatures malades, le roi, du sang, des araignées, des rats, des cadavres ou des égoûts.

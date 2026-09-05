@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ACROBATEINÉGALABLE
 ---
 
->>> [Talents#ACROBATEINÉGALABLE](./Talents.md#ACROBATEINÉGALABLE)
+>>> [[Talents#ACROBATEINÉGALABLE]]

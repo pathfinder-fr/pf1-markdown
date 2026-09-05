@@ -11,34 +11,34 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7, [Sor](./Sorcière.md) 7
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [personnelle](./personnelle.md)
+**École** [[école divination|Divination]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[personnelle]]
 **Cible** le jeteur de sorts
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 ---
-Ce sort fonctionne comme *[vision magique](./Vision magique.md)*, sauf que le mage découvre les sorts et effets magiques actifs sur un individu ou objet qu’il observe.
+Ce sort fonctionne comme *[[vision magique]]*, sauf que le mage découvre les sorts et effets magiques actifs sur un individu ou objet qu’il observe.
 
-Contrairement à *[vision magique](./Vision magique.md)*, ce sort ne peut pas bénéficier de *[permanence](./Permanence.md)*.
+Contrairement à *[[vision magique]]*, ce sort ne peut pas bénéficier de *[[permanence]]*.
 
 
 
 (((
 ## Vision magique
-**École** [Divination](./école divination.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3  
+**École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [personnelle](./personnelle.md)
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[personnelle]]
 **Cible** le jeteur de sorts
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 ---
-Une fois le sort lancé, les yeux du personnage brillent d’une lumière bleutée. Il est désormais capable de voir les auras magiques dans un rayon de trente-six mètres. L’effet est identique à celui de *[détection de la magie](./Détection de la magie.md)*, mais ne nécessite pas de [concentration](./concentration.md). Il permet ainsi de distinguer les auras et leur intensité plus rapidement.
+Une fois le sort lancé, les yeux du personnage brillent d’une lumière bleutée. Il est désormais capable de voir les auras magiques dans un rayon de trente-six mètres. L’effet est identique à celui de *[[détection de la magie]]*, mais ne nécessite pas de [[concentration]]. Il permet ainsi de distinguer les auras et leur intensité plus rapidement.
 
-Le mage décèle donc la localisation et l’intensité de toutes les auras magiques situées dans son champ de vision. L’intensité d’un effet dépend du [niveau du sort](./niveau du sort.md) ou du [niveau de lanceur de sorts](./NLS.md) de l’objet, comme cela est indiqué dans la description du sort *[détection de la magie](./Détection de la magie.md)*. Si les objets ou créatures portant les auras se trouvent dans la ligne de mire du mage, celui-ci peut effectuer un test d’[Art de la magie](./Art de la magie.md) pour déterminer l’[école de magie](./Écoles de magie.md) de chacune (un test par aura ; [DD](./DD.md) 15 + [niveau du sort](./niveau du sort.md), ou 15 + la moitié du [niveau de lanceur de sorts](./NLS.md) pour un effet ne relevant pas d’un sort).
+Le mage décèle donc la localisation et l’intensité de toutes les auras magiques situées dans son champ de vision. L’intensité d’un effet dépend du [[niveau du sort]] ou du [[NLS|niveau de lanceur de sorts]] de l’objet, comme cela est indiqué dans la description du sort *[[détection de la magie]]*. Si les objets ou créatures portant les auras se trouvent dans la ligne de mire du mage, celui-ci peut effectuer un test d’[[Art de la magie]] pour déterminer l’[[écoles de magie|école de magie]] de chacune (un test par aura ; [[DD]] 15 + [[niveau du sort]], ou 15 + la moitié du [[NLS|niveau de lanceur de sorts]] pour un effet ne relevant pas d’un sort).
 
-Si le personnage se concentre sur une créature précise située dans un rayon de trente-six mètres en entreprenant une [action simple](./Action simple.md), il est capable de dire si celle-ci dispose de [pouvoirs magiques](./Capacités spéciales.md#TYPES) ou de facultés de jeteur de sorts, et s'ils sont d’origine profane ou divine (les [pouvoirs magiques](./Capacités spéciales.md#TYPES) sont de nature profane). Il découvre également la force du plus puissant sort ou pouvoir magique que la cible est à même d’utiliser.
+Si le personnage se concentre sur une créature précise située dans un rayon de trente-six mètres en entreprenant une [[action simple]], il est capable de dire si celle-ci dispose de [[Capacités spéciales#TYPES|pouvoirs magiques]] ou de facultés de jeteur de sorts, et s'ils sont d’origine profane ou divine (les [[Capacités spéciales#TYPES|pouvoirs magiques]] sont de nature profane). Il découvre également la force du plus puissant sort ou pouvoir magique que la cible est à même d’utiliser.
 
-Comme avec *[détection de la magie](./Détection de la magie.md)*, le personnage peut utiliser ce sort pour discerner les propriétés d’un objet magique, mais pas d’un [artefact](./Artefacts.md).
+Comme avec *[[détection de la magie]]*, le personnage peut utiliser ce sort pour discerner les propriétés d’un objet magique, mais pas d’un [[artefacts|artefact]].
 )))

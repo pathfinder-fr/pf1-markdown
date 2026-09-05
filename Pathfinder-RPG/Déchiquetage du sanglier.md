@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Les blessures que le personnage inflige avec ses mains nues saignent et le motivent.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), [Férocité du sanglier](./Férocité du sanglier.md), [École du sanglier](./École du sanglier.md), 9 [rangs](./rang.md) en [Intimidation](./Intimidation.md)
+**Conditions.** [[Science du combat à mains nues]], [[Férocité du sanglier]], [[École du sanglier]], 9 [[rang|rangs]] en [[Intimidation]]
 
-**Avantage.** Le personnage peut faire un test d’[Intimidation](./Intimidation.md) pour démoraliser son adversaire par une [action de mouvement](./Action de mouvement.md). Quand il utilise l’[École du sanglier](./École du sanglier.md) et qu’il blesse sa cible, cette dernière subit 1d6 points de dégâts de [saignement](./Saignement.md) une fois par round, au début de son tour. Ces dégâts persistent même si le personnage change ensuite d’école.
+**Avantage.** Le personnage peut faire un test d’[[Intimidation]] pour démoraliser son adversaire par une [[action de mouvement]]. Quand il utilise l’[[École du sanglier]] et qu’il blesse sa cible, cette dernière subit 1d6 points de dégâts de [[saignement]] une fois par round, au début de son tour. Ces dégâts persistent même si le personnage change ensuite d’école.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 2 points d’endurance pour [démoraliser](./Intimidation.md) son adversaire par une [action rapide](./Action rapide.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 2 points d’endurance pour [[Intimidation|démoraliser]] son adversaire par une [[action rapide]].

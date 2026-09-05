@@ -13,9 +13,9 @@ Categories:
 
 *Vous maniez les armes traditionnelles elfiques avec grâce*
 
-**Catégorie** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions** [Entraînement guerrier elfique](./Entraînement guerrier elfique.md), BBA +1, Trait racial *armes familières*
+**Conditions** [[Entraînement guerrier elfique]], BBA +1, Trait racial *armes familières*
 
 **Avantages** Quand vous utilisez une épée longue, une rapière ou toute autre arme de mêlée dont le nom contient "elfique" ou "elfe", les tests de manœuvre offensive réalisés avec cette arme lors d'attaque d'opportunité ne provoquent pas d'attaques d'opportunité.
 

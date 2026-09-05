@@ -11,19 +11,19 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:Desambi|Destruction est également le nom d'une [propriété d'armes magiques](./destruction (propriété).md) et d'une [manœuvre de combat](./destruction.md).}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[mort](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 8, [Prê](./Prêtre.md) 7, [Sor](./Sorcière.md) 8  
+{s:Desambi|Destruction est également le nom d'une [[destruction (propriété)|propriété d'armes magiques]] et d'une [[destruction|manœuvre de combat]].}
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 8, [[Prêtre|Prê]] 7, [[Sorcière|Sor]] 8  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (symbole sacré ou maudit d’une valeur de 500 po)  
+**Composantes** [[composantes|V, G, F]] (symbole sacré ou maudit d’une valeur de 500 po)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** 1 créature  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Ce sort inflige immédiatement 10 points de dégâts par [niveau de lanceur de sorts](./NLS.md). S’il tue la cible, il consume le corps de celle-ci dans une flamme sacrée (ou maudite) (mais ni son équipement ni ses possessions). Si la victime réussit son jet de [Vigueur](./Vigueur.md), elle perd tout de même 10d6 points de vie. Un individu tué par ce sort ne peut être ramené à la vie que par une *[résurrection suprême](./Résurrection suprême.md)*, par un *[souhait](./Souhait.md)* énoncé avec le plus grand soin et suivi d’une *[résurrection](./Résurrection.md)*, ou par un *[miracle](./Miracle.md)*.
+Ce sort inflige immédiatement 10 points de dégâts par [[NLS|niveau de lanceur de sorts]]. S’il tue la cible, il consume le corps de celle-ci dans une flamme sacrée (ou maudite) (mais ni son équipement ni ses possessions). Si la victime réussit son jet de [[Vigueur]], elle perd tout de même 10d6 points de vie. Un individu tué par ce sort ne peut être ramené à la vie que par une *[[résurrection suprême]]*, par un *[[souhait]]* énoncé avec le plus grand soin et suivi d’une *[[résurrection]]*, ou par un *[[miracle]]*.

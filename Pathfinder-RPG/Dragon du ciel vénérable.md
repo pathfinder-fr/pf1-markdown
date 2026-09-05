@@ -10,36 +10,36 @@ Categories:
 <div class="BD">
 {s:BDTitre|Vénérable dragon du ciel|FP 18}
 {s:BDTexte|**PX** 153 600}
-{s:BDTexte|[Dragon](./type Dragon.md) ([Air](./sous-type Air.md)) de taille Gig, LB}
-{s:BDTexte|**Init** +3 ; **Sens** [sens draconiques](./sens draconiques.md), vision dans les nuages ; Perception +39}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Air|Air]]) de taille Gig, LB}
+{s:BDTexte|**Init** +3 ; **Sens** [[sens draconiques]], vision dans les nuages ; Perception +39}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 38, contact 5, pris au dépourvu 38 (Dex -1, naturelle +33, taille -4)}
 {s:BDTexte|**pv** 348 (24d12+192)}
 {s:BDTexte|**Réf** +15, **Vig** +21, **Vol** +23}
-{s:BDTexte|**[RD](./Réduction de dégâts (capacité).md)** 15/magie ; **[Immunité](./Immunité (capacité).md)** électricité, paralysie, sommeil ; **[RM](./Résistance à la magie (capacité).md)** 29}
+{s:BDTexte|**[[Réduction de dégâts (capacité)|RD]]** 15/magie ; **[[Immunité (capacité)|Immunité]]** électricité, paralysie, sommeil ; **[[Résistance à la magie (capacité)|RM]]** 29}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), vol 75 m (50 {s:c}) (parfaite)}
 {s:BDTexte|**Corps à corps** corne, +31 (2d8+18) et coup de queue, +30 (2d8+18) et 2 griffes, +32 (2d8+12) et morsure, +33 (4d6+18/19-20)}
 {s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 4,50 m (3 {s:c}) (6 m (4 {s:c}) avec corne et morsure)}
-{s:BDTexte|**Attaques spéciales** [balayage de la queue](./dragon.md#BALAYAGEQUEUE) (DD 29, 2d6+18), [écrasement](./écrasement.md) (DD 29, 4d6+18), souffle ([cône](./cône.md) de 18 m (12 {s:c}), 20d8 dégâts d’électricité, DD 29)}
+{s:BDTexte|**Attaques spéciales** [[Dragon#BALAYAGEQUEUE|balayage de la queue]] (DD 29, 2d6+18), [[écrasement]] (DD 29, 4d6+18), souffle ([[cône]] de 18 m (12 {s:c}), 20d8 dégâts d’électricité, DD 29)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 24 ; concentration +31)}
-{s:BDSorts|À volonté — [appel de la foudre](./Appel de la foudre.md) (DD 22), *[bourrasque](./Bourrasque.md)* (DD 19), [contrôle des vents](./Contrôle des vents.md) (DD 22), *[détection du Mal](./Détection du Mal.md)*, *[feuille morte](./Feuille morte.md)*}
+{s:BDSorts|À volonté — [[appel de la foudre]] (DD 22), *[[bourrasque]]* (DD 19), [[contrôle des vents]] (DD 22), *[[détection du Mal]]*, *[[feuille morte]]*}
 {s:BDTexte|**Sorts connus** (NLS 15 ; concentration +22)}
-{s:BDSorts|7e (5/jour) — *[cage de force](./Cage de force.md)* (DD 24), *[immobilisation de personne de groupe](./Immobilisation de personne de groupe.md)* (DD 24)}
-{s:BDSorts|6e (7/jour) — *[brume acide](./Brume acide.md)* (DD 24), *[mythes et légendes](./Mythes et légendes.md)*, *[éclair multiple](./Éclair multiple.md)* (DD 23)}
-{s:BDSorts|5e (7/jour) — *[annulation d’enchantement](./Annulation denchantement.md)*, *[brume mortelle](./Brume mortelle.md)* (DD 22), *[songe](./Songe.md)*, *[téléportation](./téléportation.md)*}
-{s:BDSorts|4e (7/jour) — *[invisibilité suprême](./Invisibilité suprême.md)*, *[lueur d’arc-en-ciel](./Lueur darc-en-ciel.md)* (DD 21), *[porte dimensionnelle](./Porte dimensionnelle.md)*, *[tempête de grêle](./Tempête de grêle.md)*}
-{s:BDSorts|3e (8/jour) — *[clignotement](./Clignotement.md)*, *[éclair](./Éclair.md)* (DD 20), *[mur de vent](./Mur de vent.md)*, *[tempête de neige](./Tempête de neige.md)* (DD 20)}
-{s:BDSorts|2e (8/jour) — *[hébétement de monstre](./Hébétement de monstre.md)* (DD 19), *[invisibilité](./Invisibilité.md)*, *[nappe de brouillard](./Nappe de brouillard.md)*, *[poussière scintillante](./Poussière scintillante.md)* (DD 19), *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*}
-{s:BDSorts|1er (8/jour) — *[brume de dissimulation](./Brume de dissimulation.md)*, *[décharge électrique](./Décharge électrique.md)*, *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)*, *[projectile magique](./Projectile magique.md)*, *[repli expéditif](./Repli expéditif.md)*}
-{s:BDSorts|0 (à volonté) — *[destruction de mort-vivant](./Destruction de mort-vivant.md)*, *[détection de la magie](./Détection de la magie.md)*, *[hébétement](./Hébétement.md)* (DD 17), *[lecture de la magie](./Lecture de la magie.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[message](./Message.md)*, *[rayon de givre](./Rayon de givre.md)*, *[réparation](./Réparation.md)*}
+{s:BDSorts|7e (5/jour) — *[[cage de force]]* (DD 24), *[[immobilisation de personne de groupe]]* (DD 24)}
+{s:BDSorts|6e (7/jour) — *[[brume acide]]* (DD 24), *[[mythes et légendes]]*, *[[éclair multiple]]* (DD 23)}
+{s:BDSorts|5e (7/jour) — *[[annulation denchantement|annulation d’enchantement]]*, *[[brume mortelle]]* (DD 22), *[[songe]]*, *[[téléportation]]*}
+{s:BDSorts|4e (7/jour) — *[[invisibilité suprême]]*, *[[lueur darc-en-ciel|lueur d’arc-en-ciel]]* (DD 21), *[[porte dimensionnelle]]*, *[[tempête de grêle]]*}
+{s:BDSorts|3e (8/jour) — *[[clignotement]]*, *[[éclair]]* (DD 20), *[[mur de vent]]*, *[[tempête de neige]]* (DD 20)}
+{s:BDSorts|2e (8/jour) — *[[hébétement de monstre]]* (DD 19), *[[invisibilité]]*, *[[nappe de brouillard]]*, *[[poussière scintillante]]* (DD 19), *[[résistance aux énergies destructives]]*}
+{s:BDSorts|1er (8/jour) — *[[brume de dissimulation]]*, *[[décharge électrique]]*, *[[endurance aux énergies destructives]]*, *[[projectile magique]]*, *[[repli expéditif]]*}
+{s:BDSorts|0 (à volonté) — *[[destruction de mort-vivant]]*, *[[détection de la magie]]*, *[[hébétement]]* (DD 17), *[[lecture de la magie]]*, *[[lumières dansantes]]*, *[[manipulation à distance]]*, *[[message]]*, *[[rayon de givre]]*, *[[réparation]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 35, **Dex** 8, **Con** 25, **Int** 24, **Sag** 25, **Cha** 24}
-{s:BDTexte|**BBA** +24 ; **BMO** +40 ; **DMD** 49 (53 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md), [Fente](./Fente.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) (Perception), [Vol stationnaire](./Vol stationnaire.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +22 (+26 pour le saut), [Art de la magie](./Art de la magie.md) +33, [Connaissances](./Connaissances.md) (géographie, mystères, plans, religion) +33, [Diplomatie](./Diplomatie.md) +33, [Perception](./Perception.md) +39, [Premiers secours](./Premiers secours.md) +33, [Psychologie](./Psychologie.md) +33, [Représentation](./Représentation.md) (chant) +30, [Utilisation d'objets magiques](./UOM.md) +23, [Vol](./Vol.md) +27}
+{s:BDTexte|**BBA** +24 ; **BMO** +40 ; **DMD** 49 (53 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en vol]], [[Attaques multiples]], [[Fente]], [[Frappe décisive]], [[Réflexes surhumains]], [[Robustesse]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Talent]] (Perception), [[Vol stationnaire]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +22 (+26 pour le saut), [[Art de la magie]] +33, [[Connaissances]] (géographie, mystères, plans, religion) +33, [[Diplomatie]] +33, [[Perception]] +39, [[Premiers secours]] +33, [[Psychologie]] +33, [[Représentation]] (chant) +30, [[UOM|Utilisation d'objets magiques]] +23, [[Vol]] +27}
 {s:BDTexte|**Langues** aérien, céleste, commun, draconique, elfique, gnome, infernal, sylvestre}
 {s:BDTexte|**Particularités** changement de forme, porté par les airs}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons impériaux](./Dragon impérial.md).***</li><li>***Voir la description des [dragons du ciel](./Dragon impérial du ciel.md).***</li></ul>*Pourtant dépourvu d’ailes, ce dragon sillonne le ciel en serpentant avec grâce, ses écailles réfléchissant les nuances changeantes des cieux.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon impérial|dragons impériaux]].***</li><li>***Voir la description des [[dragon impérial du ciel|dragons du ciel]].***</li></ul>*Pourtant dépourvu d’ailes, ce dragon sillonne le ciel en serpentant avec grâce, ses écailles réfléchissant les nuances changeantes des cieux.*
 </div></td></tr></table>

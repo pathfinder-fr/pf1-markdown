@@ -13,15 +13,15 @@ Categories:
 
 *Votre brillante inspiration vous rend plus dangereux au combat.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** Réserve d'[inspiration](./Enquêteur.md#INSPIRATION); capacité de classe [attaque sournoise](./attaque sournoise.md) ou [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE)
+**Condition.** Réserve d'[[Enquêteur#INSPIRATION|inspiration]]; capacité de classe [[attaque sournoise]] ou [[Enquêteur#FRAPPEETUDIEE|frappe étudiée]]
 
 **Avantage.** Lorsque le personnage inflige des dégâts d'attaque sournoise ou de frappe étudiée, il peut dépenser une utilisation d'inspiration pour relancer tous les dés de dégâts d'attaque sournoise qui donnent 1.
 
-Si le personnage bénéficie du talent de roublard [attaque sournoise puissante](./Talents.md#ATTAQUESOURNOISEPUISSANTE), plutôt que de considérer tous les 1 comme des 2, il peut relancer tous les 1.
+Si le personnage bénéficie du talent de roublard [[Talents#ATTAQUESOURNOISEPUISSANTE|attaque sournoise puissante]], plutôt que de considérer tous les 1 comme des 2, il peut relancer tous les 1.
 
-Si le personnage dispose du talent de maître roublard [attaque sournoise mortelle](./Talents.md#ATTAQUESOURNOISEMORTELLE), plutôt que de considérer tous les 1 et les 2 comme des 3, il peut relancer tous les 1 et les 2.
+Si le personnage dispose du talent de maître roublard [[Talents#ATTAQUESOURNOISEMORTELLE|attaque sournoise mortelle]], plutôt que de considérer tous les 1 et les 2 comme des 3, il peut relancer tous les 1 et les 2.
 
 Dans tous les cas, le personnage doit utiliser les résultats de sa relance, même s'ils sont pires que les premiers.
 

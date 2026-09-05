@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Créature magique|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2 page 41*}
 {s:BDTexte|**PX** 6.400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille P, N}
-{s:BDTexte|**Init** +8 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille P, N}
+{s:BDTexte|**Init** +8 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 15, pris au dépourvu 19 (Dex +4, naturelle +8, taille +1)}
 {s:BDTexte|**pv** 114 (12d10+48)}
 {s:BDTexte|**Réf** +12, **Vig** +14, **Vol** +7}
-{s:BDTexte|**Capacités défensives** [férocité](./Férocité (capacité).md) ; **Immunités** poison ; **RD** 10/perforant ou tranchant ; **Résistances** feu 10}
+{s:BDTexte|**Capacités défensives** [[férocité (capacité)|férocité]] ; **Immunités** poison ; **RD** 10/perforant ou tranchant ; **Résistances** feu 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), creusement 3 m (2 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +18 (1d6+5 plus [étreinte](./Étreinte (capacité).md)) et 4 griffes, +18 (1d4+5 plus [étreinte](./Étreinte (capacité).md))}
-{s:BDTexte|**Attaques spéciales** [pattes arrière](./Pattes arrière (capacité).md) (4 griffes +18, 1d4+5)}
+{s:BDTexte|**Corps à corps** morsure, +18 (1d6+5 plus [[étreinte (capacité)|étreinte]]) et 4 griffes, +18 (1d4+5 plus [[étreinte (capacité)|étreinte]])}
+{s:BDTexte|**Attaques spéciales** [[pattes arrière (capacité)|pattes arrière]] (4 griffes +18, 1d4+5)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 18, **Con** 18, **Int** 2, **Sag** 13, **Cha** 11}
-{s:BDTexte|**BBA** +12 ; **BMO** +16 (+24 lutte) ; **DMD** 30 (42 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) (Perception), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +17, [Perception](./Perception.md) +13}
+{s:BDTexte|**BBA** +12 ; **BMO** +16 (+24 lutte) ; **DMD** 30 (42 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Critique sanglant]], [[Don pour les critiques]], [[Science de linitiative|Science de l'initiative]], [[Talent]] (Perception), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +17, [[Perception]] +13}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines, collines ou forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
 {s:BDTexte|**Trésor** standart}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Etreinte (Ext)** Un aurumvorax peut utiliser sa capacité d’[étreinte](./Étreinte (capacité).md) contre des adversaires ayant jusqu’à une catégorie de [taille](./taille.md) de plus que lui (taille M au maximum pour la plupart des aurumvorax). Il gagne un bonus de +8 aux tests de [lutte](./lutte.md) au lieu du bonus de +4 découlant habituellement de cette capacité.}
+{s:BDTexte|**Etreinte (Ext)** Un aurumvorax peut utiliser sa capacité d’[[étreinte (capacité)|étreinte]] contre des adversaires ayant jusqu’à une catégorie de [[taille]] de plus que lui (taille M au maximum pour la plupart des aurumvorax). Il gagne un bonus de +8 aux tests de [[lutte]] au lieu du bonus de +4 découlant habituellement de cette capacité.}
 </div>
 
 {s:ImageCentre|Bestiaire/Aurumvorax.jpg|100%}

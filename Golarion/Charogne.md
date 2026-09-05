@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-La cité de Charogne est située dans le comté de [Versex](./Versex.md) en [Ustalav](./Ustalav.md).
+La cité de Charogne est située dans le comté de [[Versex]] en [[Ustalav]].
 
 Il s'agit d'une petite ville étrange, située au sommet d'un mont surnaturel et inhabité. La raison pour laquelle les habitants s'y sont installés n'est pas claire, mais toujours est-il qu'ils y vivent.

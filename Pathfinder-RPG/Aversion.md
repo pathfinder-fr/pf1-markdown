@@ -14,24 +14,24 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[émotion](./Registre.md), [mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Con](./Conjurateur.md) 6, [Dru](./Druide.md) 9, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8, [Occ](./Occultiste.md) 6, [Psy](./Psychiste.md) 8, [Sor](./Sorcière.md) 8  
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Druide|Dru]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
 
 **Temps d'incantation** 1 heure  
 
-**Composantes** [V, G, M/FD](./composantes.md) (un peu d’alun trempé dans du vinaigre)  
+**Composantes** [[COMPOSANTES|V, G, M/FD]] (un peu d’alun trempé dans du vinaigre)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** 1 lieu (volume n’excédant pas un cube de 3 m (2 {s:c}) d’arête/[niveau](./niveau.md)) ou 1 objet  
+**Cible** 1 lieu (volume n’excédant pas un cube de 3 m (2 {s:c}) d’arête/[[niveau]]) ou 1 objet  
 
-**Durée** 2 heures/[niveau](./niveau.md) (T)  
+**Durée** 2 heures/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-L’objet ou le lieu choisi par le personnage engendre des ondes repoussant, au choix, un [type](./Types de créatures.md) donné de créatures intelligentes ou tous les êtres d’un même [alignement](./Alignement.md). La [race](./race.md) de créatures affectée doit être nommée lors de l’incantation. Les [sous-types](./Sous-types de créatures.md) ne sont pas assez précis. Si le personnage préfère affecter un [alignement](./Alignement.md), il doit l’indiquer.
+L’objet ou le lieu choisi par le personnage engendre des ondes repoussant, au choix, un [[Types de créatures|type]] donné de créatures intelligentes ou tous les êtres d’un même [[alignement]]. La [[race]] de créatures affectée doit être nommée lors de l’incantation. Les [[Sous-types de créatures|sous-types]] ne sont pas assez précis. Si le personnage préfère affecter un [[alignement]], il doit l’indiquer.
 
-Les créatures de la [race](./race.md) ou de l’[alignement](./Alignement.md) choisi ressentent une envie quasi irrépressible de s’éloigner de l’endroit ou de l’objet protégé.
+Les créatures de la [[race]] ou de l’[[alignement]] choisi ressentent une envie quasi irrépressible de s’éloigner de l’endroit ou de l’objet protégé.
 
-Une force indéfinissable les pousse à s’éloigner de la zone ou de l’objet affecté par le sort pour ne pas revenir tant que le sort fait effet.). Si elles réussissent leur [jet de sauvegarde](./jet de sauvegarde.md), elles peuvent rester sur place ou toucher l’objet affecté, mais cela ne les empêche pas de se sentir mal à l’aise, ce qui réduit fortement leur [Dextérité](./Dextérité.md) (-4).
+Une force indéfinissable les pousse à s’éloigner de la zone ou de l’objet affecté par le sort pour ne pas revenir tant que le sort fait effet.). Si elles réussissent leur [[jet de sauvegarde]], elles peuvent rester sur place ou toucher l’objet affecté, mais cela ne les empêche pas de se sentir mal à l’aise, ce qui réduit fortement leur [[Dextérité]] (-4).
 
-*Aversion* contre et dissipe *[attirance](./Attirance.md)*.
+*Aversion* contre et dissipe *[[attirance]]*.

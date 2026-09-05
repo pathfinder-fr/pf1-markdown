@@ -16,13 +16,13 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4 page 281*}
 - **200 PX**
 - Virebois roublard 1
-- [Créature artificielle](./type Créature artificielle.md) de taille P, N
+- [[type créature artificielle|Créature artificielle]] de taille P, N
 - **Init **+3 ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +5
 (((Défense)))
 - **CA** 16, contact 14, pris au dépourvu 13 (armure +2, Dex +3, taille +1)
 - **pv** 18 (1d8+10)
 - **Réf **+5 (+1 contre les pièges), **Vig **+0, **Vol **+1
-- **Immunités** [traits des créatures artificielles](./Traits des créatures artificielles.md)
+- **Immunités** [[traits des créatures artificielles]]
 (((Attaque)))
 - **VD** 9 m
 - **Corps à corps** dague, +3 (1d3+2/19-20)
@@ -31,14 +31,14 @@ Categories:
 (((Statistiques)))
 - **For** 14, **Dex** 17, **Con** -, **Int** 15, **Sag** 12, **Cha** 6
 - **BBA **+0 ; **BMO **+1 ; **DMD** 14
-- **Dons** [Doigts de fée](./Doigts de fée.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +7, [Artisanat](./Artisanat.md) (alchimie) +6, [Connaissances](./Connaissances.md) (exploration souterraine) +6, [Discrétion](./Discrétion.md) +11, [Escalade](./Escalade.md) +6, [Escamotage](./Escamotage.md) +9, [Estimation](./Estimation.md) +6, [Évasion](./Évasion.md) +7, [Perception](./Perception.md) +5, [Sabotage](./Sabotage.md) +9, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +2
+- **Dons** [[Doigts de fée]]
+- **Compétences** [[Acrobaties]] +7, [[Artisanat]] (alchimie) +6, [[Connaissances]] (exploration souterraine) +6, [[Discrétion]] +11, [[Escalade]] +6, [[Escamotage]] +9, [[Estimation]] +6, [[Évasion]] +7, [[Perception]] +5, [[Sabotage]] +9, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +2
 - **Langues** commun
 - **Particularités** recherche de pièges +1
 (((Écologie)))
 - **Environnement** ruines ou souterrains
 - **Organisation** solitaire ou cabale (2-8)
-- **Trésor** équipement de PNJ (dagues [2], armure de cuir, outils de cambrioleur, autres trésors)
+- **Trésor** équipement de PNJ (dagues [[2]], armure de cuir, outils de cambrioleur, autres trésors)
 
 
 </div>
@@ -53,7 +53,7 @@ La plupart des virebois sont des magiciens ou des roublards. Les quelques rares 
 
 ### Personnages Virebois
 Les virebois ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classe. Voici leurs traits raciaux : {br}
-**+2 en Dextérité, +2 en Intelligence, -2 en Charisme**. Les virebois sont rapides et calculateurs. En tant que [Créatures artificielles](./type Créature artificielle.md), ils ne possèdent pas de valeur de [Constitution](./Constitution.md). {br}
+**+2 en Dextérité, +2 en Intelligence, -2 en Charisme**. Les virebois sont rapides et calculateurs. En tant que [[type Créature artificielle|Créatures artificielles]], ils ne possèdent pas de valeur de [[Constitution]]. {br}
 **Vitesse normale**. Les virebois ont une vitesse de déplacement de base de 9 mètres. {br}
 **Petite taille**. Les virebois sont des créatures de taille P et gagnent donc un bonus de taille de +1 à la CA et aux jets d’attaque, un bonus de taille de +4 aux tests de Discrétion, un bonus de taille de +2 aux tests de Vol, mais un malus de -1 aux tests de manoeuvre offensive et au degré de manoeuvre défensive.{br}
 **Vision dans le noir jusqu’à 18 mètres**. Les virebois peuvent voir dans le noir jusqu’à 18 mètres. {br}

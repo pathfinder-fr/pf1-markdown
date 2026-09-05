@@ -4,9 +4,9 @@ Title: Vampire (archétype)
 LastModified: 2022-04-27 11:07
 ---
 
-{s:bodmenu}• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+{s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 Après avoir été vidé de votre sang par un vampire, vous vous êtes relevé, vous extirpant de la terre sous la forme d’un mort-vivant immortel. Vous êtes une créature de la nuit, blessée par la lumière du jour et désireuse de boire du sang.
@@ -17,7 +17,7 @@ Après avoir été vidé de votre sang par un vampire, vous vous êtes relevé, 
 
 **Prérequis** Vous avez été tué par un vampire qui a bu votre sang.
 
-Vous êtes un vampire qui s’est relevé récemment. Vous gagnez les traits Mort-vivant et Vampire et les [avantages de base de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVBASE). Votre appétence de mort-vivant se porte sur le sang des vivants. Vos incisives se sont allongées, ce qui vous donne une attaque naturelle de crocs qui inflige 1d6 points de dégâts perforants, appartient à la catégorie du pugilat et possède les traits Agripper et Attaque naturelle. Vous gagnez les particularités de révulsion et de vulnérabilité à la lumière du soleil (voir plus bas) ainsi que la capacité Boire du sang.
+Vous êtes un vampire qui s’est relevé récemment. Vous gagnez les traits Mort-vivant et Vampire et les [[PF2 BotD Jouer un mort-vivant#AVBASE|avantages de base de morts-vivants]]. Votre appétence de mort-vivant se porte sur le sang des vivants. Vos incisives se sont allongées, ce qui vous donne une attaque naturelle de crocs qui inflige 1d6 points de dégâts perforants, appartient à la catégorie du pugilat et possède les traits Agripper et Attaque naturelle. Vous gagnez les particularités de révulsion et de vulnérabilité à la lumière du soleil (voir plus bas) ainsi que la capacité Boire du sang.
 
 **Boire du sang** {s:PF2a|1a} (divin, nécromancie) **Prérequis** Une créature agrippée, paralysée, entravée, inconsciente ou volontaire se trouve à votre portée. **Effet** Vous plongez vos crocs dans cette créature et buvez son sang. Cela nécessite un jet d’Athlétisme contre le DD de Vigueur de la victime si elle est agrippée, et réussit automatiquement dans le cas des autres états. Si vous réussissez, la cible devient drainée 1 et vous gagnez un nombre de PV temporaires égal au niveau de la cible pendant 10 minutes. Si vous utilisez cette capacité à nouveau sur la même cible, la condition drainée n’augmente pas et cela ne vous donne pas de PV temporaires supplémentaires.
 
@@ -60,7 +60,7 @@ Une fois par jour, vous pouvez lancer *animal allies/alliés animaux* en tant qu
 
 **Prérequis** Dévotion de vampire
 
-Grâce à un pacte occulte ou une particularité dans votre lignage, vous pouvez tolérer la lumière du soleil. Vous gagnez les [avantages avancés de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVAVANCE) et ne pouvez pas être détruit par le soleil. Cela ne vous empêche pas d’être ralenti lorsque vous êtes exposé au soleil.
+Grâce à un pacte occulte ou une particularité dans votre lignage, vous pouvez tolérer la lumière du soleil. Vous gagnez les [[PF2 BotD Jouer un mort-vivant#AVAVANCE|avantages avancés de morts-vivants]] et ne pouvez pas être détruit par le soleil. Cela ne vous empêche pas d’être ralenti lorsque vous êtes exposé au soleil.
 </div>
 
 <div class="blocPF2">

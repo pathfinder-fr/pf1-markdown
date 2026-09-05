@@ -14,24 +14,24 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 3 p.110*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, CN}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, CN}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 14, pris au dépourvu 22 (Dex +4, naturelle +12)}
 {s:BDTexte|**pv** 85 (10d10+30)}
 {s:BDTexte|**Réf** +11, **Vig** +7, **Vol** +9}
-{s:BDTexte|**'Capacités défensives** [esquive surnaturelle](./esquive surnaturelle.md)}
+{s:BDTexte|**'Capacités défensives** [[esquive surnaturelle]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c}), vol 12 m (8 {s:c}, bonne)}
 {s:BDTexte|**Corps à corps**  corne, +14 (1d6+3 plus 1d6 électricité) et coup de queue, +12 (1d6+1 plus 1d6 électricité) et morsure, +14 (1d6+3 plus 1d6 électricité)}
 {s:BDTexte|**Espace occupé**  1.50 m (1 {s:c}) ; **Allonge** 1.50 m (1 {s:c}) (3 m (2 {s:c}) avec morsure)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 19, **Con** 14, **Int** 7, **Sag** 10, **Cha** 11}
-{s:BDTexte|**BBA** +10, **BMO** +13, **DMD** 27 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaques multiples](./Attaques multiples.md)<sup>S</sup>, [Attaques réflexes](./Attaques réflexes.md), [Robustesse](./Robustesse.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +13, [Connaissances](./Connaissances.md) (plans) +6, [Discrétion](./Discrétion.md) +12, [Escalade](./Escalade.md) +11, [Perception](./Perception.md) +13, [Psychologie](./Psychologie.md) +8, [Vol](./Vol.md) +16}
+{s:BDTexte|**BBA** +10, **BMO** +13, **DMD** 27 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Attaques multiples]]<sup>S</sup>, [[Attaques réflexes]], [[Robustesse]], [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Bluff]] +13, [[Connaissances]] (plans) +6, [[Discrétion]] +12, [[Escalade]] +11, [[Perception]] +13, [[Psychologie]] +8, [[Vol]] +16}
 {s:BDTexte|**Langue** commun}
-{s:BDTexte|**Particularités** points d’évolution (allonge <nowiki>[</nowiki>morsure<nowiki>]</nowiki>, armure naturelle supérieure [2], attaques d’énergie, corne, coup de queue, escalade, esquive surnaturelle, morsure, queue, vol [2])}
+{s:BDTexte|**Particularités** points d’évolution (allonge <nowiki>[[</nowiki>morsure<nowiki>]]</nowiki>, armure naturelle supérieure [[2]], attaques d’énergie, corne, coup de queue, escalade, esquive surnaturelle, morsure, queue, vol [[2]])}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire}
@@ -39,7 +39,7 @@ Categories:
 
 </div>
 </td><td><div>
-Voir l'archétype : [Eidolon libéré, archétype](./Eidolon libéré, archétype.md)
+Voir l'archétype : [[Eidolon libéré, archétype]]
 
 *Cet étrange amalgame monstrueux, dont le front est serti d’une rune étrange, saccage tout sur son passage.*
 

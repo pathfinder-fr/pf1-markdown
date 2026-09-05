@@ -11,7 +11,7 @@ LastModified: 2017-02-16 20:46
 {s:BDTexte|*Source : Bestiaire 4 page 286*}
 - **200 PX**
 - Wivaran (f) inquisiteur 1
-- [Dragon](./type Dragon.md) de taille M, LN
+- [[type dragon|Dragon]] de taille M, LN
 - **Init **+2 ; **Sens **vision dans le noir 18 m, vision nocturne ; Perception +7
 (((Défense)))
 - **CA **17, contact 12, pris au dépourvu 15 (armure +5, Dex +2)
@@ -23,10 +23,10 @@ LastModified: 2017-02-16 20:46
 - **Corps à corps** épieu, +1 (1d6) 
   - ou queue fouettante, +0 (1d8 ; attaques d’opportunité seulement)
 - **Pouvoirs magiques** de domaine (**NLS** 1 ; concentration +3)
-  - *6/jour *– [arc électrique](./Arc électrique.md) (1d6 électricité)
+  - *6/jour *– [[arc électrique]] (1d6 électricité)
 - **Sorts d’inquisiteur** connus (**NLS **1 ; concentration +3)
-  - *1e (2/jour)* – [bouclier de la foi](./Bouclier de la foi.md), [frayeur](./Frayeur.md) (DD 15)
-  - *0 (à volonté)* – [aspersion acide](./Aspersion acide.md), [assistance divine](./Assistance divine.md), [destruction de mort-vivant](./Destruction de mort-vivant.md), [hébétement](./Hébétement.md) (DD 14)
+  - *1e (2/jour)* – [[bouclier de la foi]], [[frayeur]] (DD 15)
+  - *0 (à volonté)* – [[aspersion acide]], [[assistance divine]], [[destruction de mort-vivant]], [[hébétement]] (DD 14)
 - **Domaine **Air
 (((Statistiques)))
 - **For **10, **Dex **14, **Con **13, **Int **6, **Sag **17, **Cha **14

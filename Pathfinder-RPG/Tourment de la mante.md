@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Le personnage connaît les mystères de l’anatomie, ce qui lui permet de provoquer des douleurs handicapantes d’un simple contact. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** 9 rangs en [Premiers secours](./Premiers secours.md), [Coup étourdissant](./Coup étourdissant.md), [École de la mante](./École de la mante.md), [Sagesse de la mante](./Sagesse de la mante.md), [Science du combat à mains nues](./Science du combat à mains nues.md)
+**Conditions.** 9 rangs en [[Premiers secours]], [[Coup étourdissant]], [[École de la mante]], [[Sagesse de la mante]], [[Science du combat à mains nues]]
 
-**Avantage.** Le personnage peut utiliser le [Coup étourdissant](./Coup étourdissant.md) une fois de plus par jour. Quand il utilise cette école, il peut faire une attaque qui coûte deux utilisations du [Coup étourdissant](./Coup étourdissant.md). S’il touche, son adversaire doit réussir un [jet de sauvegarde](./jet de sauvegarde.md) contre le Coup ou se retrouver [chancelant](./Chancelant.md) et [ébloui](./Ébloui.md) par la douleur jusqu’au début du prochain tour du personnage. Il est alors [fatigué](./Fatigué.md).
+**Avantage.** Le personnage peut utiliser le [[Coup étourdissant]] une fois de plus par jour. Quand il utilise cette école, il peut faire une attaque qui coûte deux utilisations du [[Coup étourdissant]]. S’il touche, son adversaire doit réussir un [[jet de sauvegarde]] contre le Coup ou se retrouver [[chancelant]] et [[ébloui]] par la douleur jusqu’au début du prochain tour du personnage. Il est alors [[fatigué]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Au lieu de dépenser deux utilisations de [Coup étourdissant](./Coup étourdissant.md) pour effectuer une attaque de Tourment de la mante à mains nues, le personnage peut dépenser 5 points d’endurance, ou une utilisation de Coup étourdissant et 2 points d’endurance.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Au lieu de dépenser deux utilisations de [[Coup étourdissant]] pour effectuer une attaque de Tourment de la mante à mains nues, le personnage peut dépenser 5 points d’endurance, ou une utilisation de Coup étourdissant et 2 points d’endurance.

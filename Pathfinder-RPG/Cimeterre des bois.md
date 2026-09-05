@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Cimeterre des bois|{s:AE}}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 11 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 47 315 po ; **Poids** 2 kg
+**Aura** [[Évocation]] modérée ; **NLS** 11 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 47 315 po ; **Poids** 2 kg
 (((Description)))
-En extérieur et dans les régions tempérées, ce cimeterre +3 inflige 1d6 points de dégâts supplémentaires à chaque coup et permet à son possesseur d’utiliser le don [Enchaînement](./Enchaînement.md).
+En extérieur et dans les régions tempérées, ce cimeterre +3 inflige 1d6 points de dégâts supplémentaires à chaque coup et permet à son possesseur d’utiliser le don [[Enchaînement]].
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md) ; soit *[puissance divine](./Puissance divine.md)*, soit niveau 7 de [druide](./Druide.md) ; **Coût** 23 815 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]] ; soit *[[puissance divine]]*, soit niveau 7 de [[druide]] ; **Coût** 23 815 po
 </div>

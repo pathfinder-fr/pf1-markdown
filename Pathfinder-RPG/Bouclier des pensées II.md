@@ -8,25 +8,25 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Abjuration](./Abjuration.md) ; **Niveau** [Psy](./Psychiste.md) 3
-**Temps d’incantation** 1 [action immédiate](./Action immédiate.md)
-**Composantes** [V](./composantes.md)
-**Portée** [personnelle](./courte.md)
+{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 3
+**Temps d’incantation** 1 [[action immédiate]]
+**Composantes** [[composantes|V]]
+**Portée** [[courte|personnelle]]
 **Cible** lanceur de sorts
-**Durée** 1 [round](./round.md)
+**Durée** 1 [[round]]
 ---
-Ce sort fonctionne comme *[bouclier des pensées I](./Bouclier des pensées I.md)* mais le bonus de circonstances aux jets de [Volonté](./Volonté.md) pour résister aux effets mentaux passe à +6. On peut lancer ce sort sous sa version réduite.
+Ce sort fonctionne comme *[[bouclier des pensées I]]* mais le bonus de circonstances aux jets de [[Volonté]] pour résister aux effets mentaux passe à +6. On peut lancer ce sort sous sa version réduite.
 
 
 
 (((
 ## Bouclier des pensées I
-{s:AO}** École **[Abjuration](./Abjuration.md) ; **Niveau** [Psy](./Psychiste.md) 2
-**Temps d’incantation** 1 [action immédiate](./Action immédiate.md)
-**Composantes** [V](./composantes.md)
-**Portée** [personnelle](./courte.md)
+{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 2
+**Temps d’incantation** 1 [[action immédiate]]
+**Composantes** [[composantes|V]]
+**Portée** [[courte|personnelle]]
 **Cible** lanceur de sorts
-**Durée** 1 [round](./round.md)
+**Durée** 1 [[round]]
 ---
-Dès que le personnage sent une intrusion, il dresse une défense pour protéger son esprit contre les attaques ou les analyses. Cela se traduit par un bonus de circonstances de +4 aux jets de [Volonté](./Volonté.md) contre les effets mentaux. Tant que le sort fait effet, les sorts et effets permettant à une créature de lire dans l’esprit du personnage ne lui fournissent aucune information.
+Dès que le personnage sent une intrusion, il dresse une défense pour protéger son esprit contre les attaques ou les analyses. Cela se traduit par un bonus de circonstances de +4 aux jets de [[Volonté]] contre les effets mentaux. Tant que le sort fait effet, les sorts et effets permettant à une créature de lire dans l’esprit du personnage ne lui fournissent aucune information.
 )))

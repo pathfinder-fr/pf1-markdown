@@ -11,8 +11,8 @@ Categories:
 {s:BDTitre|Fée des lumières|FP 2}
 {s:BDTexte|*Source : Faenil*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Fée](./../Pathfinder-RPG/type Fée.md) de taille TP, CB}
-{s:BDTexte|**Init** +9 ; **Sens** [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +9}
+{s:BDTexte|[[pathfinder-RPG.type Fée|Fée]] de taille TP, CB}
+{s:BDTexte|**Init** +9 ; **Sens** [[pathfinder-RPG.vision nocturne|vision nocturne]] ; [[pathfinder-RPG.Perception|Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 17, pris au dépourvu 12 (Dex +5, taille +2)}
 {s:BDTexte|**pv** 10 (3d6)}
@@ -25,14 +25,14 @@ Categories:
 {s:BDTexte|**Distance** Rayon, +8 (1d2 lumière)}
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6)}
-{s:BDSorts|A Volonté — *[Illumination](./../Pathfinder-RPG/Illumination.md)* (DD14), *[Lumière](./../Pathfinder-RPG/Lumière.md)*, *[Lumières dansantes](./../Pathfinder-RPG/Lumières dansantes.md)*}
-{s:BDSorts|3/jour — *[Décharge électrique](./../Pathfinder-RPG/Décharge électrique.md)*, *[Pyrotechnie](./../Pathfinder-RPG/Pyrotechnie.md)* (DD16, version feu d'artifice uniquement)}
-{s:BDSorts|1/jour — *[Flamme éternelle](./../Pathfinder-RPG/Flamme éternelle.md)* (une seule active à la fois), *[Lueur féerique](./../Pathfinder-RPG/Lueur féerique.md)*, *[Lumière du jour](./../Pathfinder-RPG/Lumière du jour.md)* (sur elle-même uniquement).}
+{s:BDSorts|A Volonté — *[[pathfinder-RPG.Illumination|Illumination]]* (DD14), *[[pathfinder-RPG.Lumière|Lumière]]*, *[[pathfinder-RPG.Lumières dansantes|Lumières dansantes]]*}
+{s:BDSorts|3/jour — *[[pathfinder-RPG.Décharge électrique|Décharge électrique]]*, *[[pathfinder-RPG.Pyrotechnie|Pyrotechnie]]* (DD16, version feu d'artifice uniquement)}
+{s:BDSorts|1/jour — *[[pathfinder-RPG.flamme éternelle|Flamme éternelle]]* (une seule active à la fois), *[[pathfinder-RPG.Lueur féerique|Lueur féerique]]*, *[[pathfinder-RPG.Lumière du jour|Lumière du jour]]* (sur elle-même uniquement).}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 20, **Con** 10, **Int** 15, **Sag** 10, **Cha** 18}
 {s:BDTexte|**BBA** +1, **BMO** -5, **DMD** 10}
 {s:BDTexte|**Dons** Science de l'initiative, Attaque en finesse}
-{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +11, [Bluff](./../Pathfinder-RPG/Bluff.md) +10, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (nature) +8, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +17, [Évasion](./../Pathfinder-RPG/Évasion.md) +11, [Psychologie](./../Pathfinder-RPG/Psychologie.md) +6, [Perception](./../Pathfinder-RPG/Perception.md) +9, [Vol](./../Pathfinder-RPG/Vol.md) +23 ; **Modificateurs raciaux** : [Discrétion](./../Pathfinder-RPG/Discrétion.md)+3 dans la lumière vive, -3 dans la pénombre, -6 dans l'obscurité ; [Perception](./../Pathfinder-RPG/Perception.md) +3}
+{s:BDTexte|**Compétences** [[pathfinder-RPG.Acrobaties|Acrobaties]] +11, [[pathfinder-RPG.Bluff|Bluff]] +10, [[pathfinder-RPG.Connaissances|Connaissances]] (nature) +8, [[pathfinder-RPG.Discrétion|Discrétion]] +17, [[pathfinder-RPG.Évasion|Évasion]] +11, [[pathfinder-RPG.Psychologie|Psychologie]] +6, [[pathfinder-RPG.Perception|Perception]] +9, [[pathfinder-RPG.Vol|Vol]] +23 ; **Modificateurs raciaux** : [[pathfinder-RPG.Discrétion|Discrétion]]+3 dans la lumière vive, -3 dans la pénombre, -6 dans l'obscurité ; [[pathfinder-RPG.Perception|Perception]] +3}
 {s:BDTexte|**Langues** commun, elfique, sylvestre }
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes ou tempérées, Faerie}
@@ -47,5 +47,5 @@ Categories:
 
 Les fées des lumières sont des êtres plus joueurs que malicieux qui aiment apporter la joie et la lumière dans la vie d'autrui. Elles n'aiment rien tant qu'aborder les enfants pour les éblouir quelques instants en utilisant leur magie, sachant que leurs témoignages ne sera jamais pris au sérieux par les adultes. Elles sont sans surprises inféodée à la cour visible des fées. Plusieurs sages supposent que les habitants de lumières leurs sont apparentés, à moins que ces derniers ne soient des fées des lumières corrompues ou dégénérées.
 
-Un lanceur de sort de niveau 7, d'alignement chaotique bon et pourvu du don [familier supérieur](./../Pathfinder-RPG/Familier supérieur.md) peut se lier à une fée des lumières.
+Un lanceur de sort de niveau 7, d'alignement chaotique bon et pourvu du don [[pathfinder-RPG.familier supérieur|familier supérieur]] peut se lier à une fée des lumières.
 </div></td></tr></table>

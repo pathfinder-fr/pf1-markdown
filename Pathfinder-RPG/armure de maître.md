@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armures#ARMURESMAITRE
 ---
 
->>> [Caractéristiques des armures#ARMURESMAITRE](./Caractéristiques des armures.md#ARMURESMAITRE)
+>>> [[Caractéristiques des armures#ARMURESMAITRE]]

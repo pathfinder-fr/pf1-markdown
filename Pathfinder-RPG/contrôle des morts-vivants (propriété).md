@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Contrôle des morts-vivants
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Contrôle des morts-vivants](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Contrôle des morts-vivants)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Contrôle des morts-vivants]]

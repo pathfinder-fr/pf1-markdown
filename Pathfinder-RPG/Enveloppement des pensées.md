@@ -16,18 +16,18 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Abjuration](./Abjuration.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 2, [Bard](./Barde.md) 2, [Cham](./Chaman.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Méd](./Médium.md) 2, [Psy](./Psychiste.md) 2, [Rôd](./Rôdeur.md) 3, [Sor](./Sorcière.md) 2  
+{s:AO}** École **[[Abjuration]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[hypnotiseur|Hyp]] 2, [[inquisiteur|Inq]] 2, [[médium|Méd]] 2, [[psychiste|Psy]] 2, [[rôdeur|Rôd]] 3, [[sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./courte.md)  
+**Portée** [[courte|personnelle]]  
 
 **Cible** lanceur de sorts  
 
 **Durée** 10 minutes/niveau (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-Le personnage est protégé contre l’espionnage mental, notamment contre les effets de divination comme *[détection des pensées](./détection des pensées.md)* et *[recherche de pensées](./Recherche de pensées.md)*, ainsi que contre les sorts d’enchantement tels que *[modification de mémoire](./Modification de mémoire.md)* ou *[trou de mémoire](./Trou de mémoire.md)*. Si une créature tente d’affecter le personnage avec un effet mental conçu pour détecter ou altérer les pensées ou les souvenirs, elle doit réussir un test de [niveau de lanceur de sorts](./NLS.md) contre un [DD](./DD.md) de 11 + [niveau de lanceur de sorts](./NLS.md) du personnage, sinon, son sort échoue. L’enveloppement des pensées bloque seulement les sorts détectant ou modifiant les pensées ou les souvenirs, les effets comme *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*, *[détection du Mal](./Détection du Mal.md)* et *[localisation de créature](./Localisation de créature.md)* fonctionnent normalement.
+Le personnage est protégé contre l’espionnage mental, notamment contre les effets de divination comme *[[détection des pensées]]* et *[[recherche de pensées]]*, ainsi que contre les sorts d’enchantement tels que *[[modification de mémoire]]* ou *[[trou de mémoire]]*. Si une créature tente d’affecter le personnage avec un effet mental conçu pour détecter ou altérer les pensées ou les souvenirs, elle doit réussir un test de [[NLS|niveau de lanceur de sorts]] contre un [[DD]] de 11 + [[NLS|niveau de lanceur de sorts]] du personnage, sinon, son sort échoue. L’enveloppement des pensées bloque seulement les sorts détectant ou modifiant les pensées ou les souvenirs, les effets comme *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]*, *[[détection du Mal]]* et *[[localisation de créature]]* fonctionnent normalement.

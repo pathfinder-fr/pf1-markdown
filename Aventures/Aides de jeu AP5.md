@@ -4,13 +4,13 @@ Title: Le Conseil des Voleurs
 LastModified: 2018-03-18 19:02
 ---
 
-Vous trouverez la présentation de cette campagne sur [cette page](./Présentation AP5.md).
+Vous trouverez la présentation de cette campagne sur [[Présentation AP5|cette page]].
 
 ### Aides de jeu générales
-- [^http://www.kencyclopedia.com/maps/Westcrown.jpg|Lien vers une carte de Couronne-d'Ouest avec légende]
-- [^http://www.kencyclopedia.com/maps/WestcrownNoText.jpg|Lien vers une carte de Couronne-d'Ouest sans légende]
+- [Lien vers une carte de Couronne-d'Ouest avec légende](http://www.kencyclopedia.com/maps/Westcrown.jpg)
+- [Lien vers une carte de Couronne-d'Ouest sans légende](http://www.kencyclopedia.com/maps/WestcrownNoText.jpg)
 *par Sean C. Macdonald (forum de Paizo)*
-- [http://www.pathfinder-fr.org/Wiki/Ressources.Westcrown.ashx|Contenu additionel sur Westcrown]
+- [Contenu additionel sur Westcrown](http://www.pathfinder-fr.org/Wiki/Ressources.Westcrown.ashx)
 par le Captain Absalom
 
 ### Aides de jeu

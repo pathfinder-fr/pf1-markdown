@@ -10,7 +10,7 @@ LastModified: 2021-04-05 14:07
 {s:pucem|Dragon|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 88*}
 - **6 400 PX**
-- [Dragon](./type Dragon.md) ([feu](./sous-type Feu.md)) de taille G, NM
+- [[type dragon|Dragon]] ([[sous-type feu|feu]]) de taille G, NM
 - **Init** +7 ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +15
 (((Défense)))
 - **CA** 22, contact 12, pris au dépourvu 19 (Dex +3, naturelle +10, taille -1)
@@ -28,8 +28,8 @@ LastModified: 2021-04-05 14:07
 (((Statistiques)))
 - **For** 25, **Dex** 16, **Con** 18, **Int** 9, **Sag** 12, **Cha** 11
 - **BBA** +11 ; **BMO** +19 (+21 bousculade) ; **DMD** 32 (34 contre bousculade)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md), [Coup fabuleux](./Coup fabuleux.md), [Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md) 
-- **Compétences** [Discrétion](./Discrétion.md) +13 (+21 si immergé dans la roche ou le métal en fusion), [Escalade](./Escalade.md) +21, [Intimidation](./Intimidation.md) +14, [Perception](./Perception.md) +15, [Vol](./Vol.md) +15 ;
+- **Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Attaques multiples]], [[Coup fabuleux]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]] 
+- **Compétences** [[Discrétion]] +13 (+21 si immergé dans la roche ou le métal en fusion), [[Escalade]] +21, [[Intimidation]] +14, [[Perception]] +15, [[Vol]] +15 ;
 - **Modificateurs** raciaux +8 en Discrétion si immergé dans la roche ou le métal en fusion
 - **Langues** draconique
 - **Particularités** accélération soudaine, retenir son souffle
@@ -44,7 +44,7 @@ LastModified: 2021-04-05 14:07
 Cette attaque a une portée de 30 mètres et inflige 6d6 points de dégâts de feu à la cible principale (Réf DD 19, 1/2 dégâts). Les créatures situées à moins de 6 mètres de cette première cible subissent 3d6 points de dégâts de feu. Le magma reste brûlant pendant 1d3 rounds et inflige 3d6 points de dégâts de feu par round à la cible primaire et 1d6 points de dégâts de feu par round aux cibles secondaires. Une fois le magma refroidi, il tombe en poussière. Une fois que le drake a craché son  vomi ardent, il ne peut plus recommencer avant 1d6 rounds. Le DD du jet de sauvegarde est basé sur la Constitution.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [drakes](./Drake.md).***</li></ul>*Ce dragon musculeux doté de deux pattes est recouvert d’écailles ressemblant à une épaisse roche volcanique.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>*Ce dragon musculeux doté de deux pattes est recouvert d’écailles ressemblant à une épaisse roche volcanique.*
 
 Cousins destructeurs et pervertis des drakes du magma, les drakes de lave sortent des crevasses des volcans en activité pour terroriser et dévorer les créatures plus faibles qu’eux. Ils sont bien moins intelligents que les véritables dragons mais tout aussi arrogants et cherchent à recevoir l’adoration des humanoïdes. Ils aiment s’immerger dans la roche en fusion et creuser la lave refroidie pour s’approcher discrètement de leur proie ou encore offrir une démonstration de puissance théâtrale à leurs adorateurs. Leur corps est couvert d’épaisses écailles à la croûte noircie. Ces drakes sont plus massifs que les autres : les adultes peuvent atteindre les cinq mètres cinquante de long pour un poids d’une tonne et demi.
 

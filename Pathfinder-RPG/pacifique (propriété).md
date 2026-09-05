@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Pacifique
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Pacifique](./Descriptions individuelles des propriétés spéciales des armes.md#Pacifique)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Pacifique]]

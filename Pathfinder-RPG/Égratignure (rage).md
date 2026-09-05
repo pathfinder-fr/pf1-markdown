@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#EGRATIGNURE
 ---
 
->>> [pouvoirs de rage#EGRATIGNURE](./Pouvoirs de rage.md#EGRATIGNURE)
+>>> [[pouvoirs de rage#EGRATIGNURE]]

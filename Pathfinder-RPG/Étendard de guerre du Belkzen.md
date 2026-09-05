@@ -10,9 +10,9 @@ Categories:
 
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}<div class="BD">
 {s:BDTitre|Étendard de guerre du Belkzen|{s:ISR}}
-**Aura** [Enchantement](./Enchantement.md) modérée ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 34.000 po ; **Poids** 1.5 kg
+**Aura** [[Enchantement]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 34.000 po ; **Poids** 1.5 kg
 (((Description)))
-{s:cs}Ce drapeau en lambeaux est marqué de l'emblème d'un clan [orque](./orque (race).md). Les créatures loyales au clan représenté par l'emblème de ce drapeau bénéficient d'un bonus de moral de +1 aux [jets d'attaque](./jet dattaque.md), aux [jets de dégâts](./Valeurs de combat.md#DEGATS) des armes, et aux [jets de sauvegarde](./JDS.md) contre les effets de peur et de [charme](./branche charme.md) tant qu'elles peuvent voir la bannière, qui doit être tenue par un allié dans un rayon de 18 mètres. Ce bonus augmente de 1 si le porteur possède le don [Porte-étendard](./Porte-étendard.md). Si le porteur est un orque, le bonus de la bannière augmente de 1 (jusqu'à un total de +3 si le porteur possède également le don Porte-étentard) pour les alliés orques loyaux au clan dont l'emblème est représenté.
+{s:cs}Ce drapeau en lambeaux est marqué de l'emblème d'un clan [[Orque (race)|orque]]. Les créatures loyales au clan représenté par l'emblème de ce drapeau bénéficient d'un bonus de moral de +1 aux [[jet dattaque|jets d'attaque]], aux [[Valeurs de combat#DEGATS|jets de dégâts]] des armes, et aux [[jds|jets de sauvegarde]] contre les effets de peur et de [[branche charme|charme]] tant qu'elles peuvent voir la bannière, qui doit être tenue par un allié dans un rayon de 18 mètres. Ce bonus augmente de 1 si le porteur possède le don [[Porte-étendard]]. Si le porteur est un orque, le bonus de la bannière augmente de 1 (jusqu'à un total de +3 si le porteur possède également le don Porte-étentard) pour les alliés orques loyaux au clan dont l'emblème est représenté.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[bénédiction](./Bénédiction.md)*, le créateur doit être un [orque](./orque (race).md) ; **Coût** 17.000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[bénédiction]]*, le créateur doit être un [[Orque (race)|orque]] ; **Coût** 17.000 po
 </div>

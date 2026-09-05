@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*En chantant une note précise, le personnage fait courir des vibrations discordantes dans les armes de ses alliés. *
 
-**Conditions.** [Représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE), 10 rangs en [Représentation](./Représentation.md) (arts oratoires ou chant)
+**Conditions.** [[barde#REPRESENTATIONBARDIQUE|Représentation bardique]], 10 rangs en [[Représentation]] (arts oratoires ou chant)
 
-**Avantage.** Quand le personnage utilise la [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) pour créer un effet magique ou surnaturel, les alliés qui se trouvent à moins de 9 m (6 {s:c}) de lui infligent 1d6 points de dégâts sonores de plus lors d’une attaque réussie avec une arme. Ces dégâts se cumulent avec d’éventuels dégâts d’énergie dus à l’arme. Les armes à projectiles transmettent les dégâts supplémentaires à leurs munitions mais seulement si la cible se trouve à moins de 9 m (6 {s:c}).
+**Avantage.** Quand le personnage utilise la [[barde#REPRESENTATIONBARDIQUE|représentation bardique]] pour créer un effet magique ou surnaturel, les alliés qui se trouvent à moins de 9 m (6 {s:c}) de lui infligent 1d6 points de dégâts sonores de plus lors d’une attaque réussie avec une arme. Ces dégâts se cumulent avec d’éventuels dégâts d’énergie dus à l’arme. Les armes à projectiles transmettent les dégâts supplémentaires à leurs munitions mais seulement si la cible se trouve à moins de 9 m (6 {s:c}).

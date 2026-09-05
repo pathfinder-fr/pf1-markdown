@@ -5,9 +5,9 @@ LastModified: 2023-04-27 17:35
 ---
 
 <img src="Illustrations/Wiki/PF2/012721_ShroudLisavet.jpg" class="fright" alt="">
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur Otari](./OTARI.md)
+• [[OTARI|Retour à la page sur Otari]]
 
 Voici l'un des quatre protagonistes principaux de l'histoire courte "Le voile des quatre silences" par Liane Merciel.
 

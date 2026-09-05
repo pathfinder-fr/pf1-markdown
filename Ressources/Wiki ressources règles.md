@@ -10,31 +10,31 @@ LastModified: 2019-02-26 21:26
 <tr>
 <td>
 ### Règles de combat
-- [Manœuvres de combat et capacités spéciales des armes](./Concepteur007.md) : comment déterminer si le bonus d'une arme s'applique au test de manœuvre de combat ?
-- [FAQ sur les manœuvres de combat](./Concepteur006.md)
-- [Dégâts des armes de taille diverses](./Dégâts des armes de taille diverses.md)
+- [[Concepteur007|Manœuvres de combat et capacités spéciales des armes]] : comment déterminer si le bonus d'une arme s'applique au test de manœuvre de combat ?
+- [[Concepteur006|FAQ sur les manœuvres de combat]]
+- [[Dégâts des armes de taille diverses]]
 
 ### Règles sur le poison
-- [FAQ sur le poison](./Concepteur004.md) : des éclaircissements sur l'utilisation des poisons.
+- [[Concepteur004|FAQ sur le poison]] : des éclaircissements sur l'utilisation des poisons.
 
 ### Règles sur les monstres
-- [FAQ sur les animaux intelligents](./Concepteur005.md)
-- [Tableau récapitulatif des races](./RécapitulatifRaces.md)
+- [[Concepteur005|FAQ sur les animaux intelligents]]
+- [[RécapitulatifRaces|Tableau récapitulatif des races]]
 
 ### Suppléments OGL
-- [Psioniques](./Psioniques.md)
+- [[Psioniques]]
 
 ### Classes, archétypes et suppléments
-- [Samouraï](./../Pathfinder-RPG/Samouraï.md)
+- [[Samouraï]]
 
 </td><td>
 ### Règles sur la magie
 #### Les sorts
-- [Création de sorts, les caractéristiques épuisables](./Concepteur002.md) : une notion utile pour aider à déterminer si un nouveau sort est équilibré.
+- [[Concepteur002|Création de sorts, les caractéristiques épuisables]] : une notion utile pour aider à déterminer si un nouveau sort est équilibré.
 
 #### Les objets magiques
-- [Pathfinder et l'épée intelligente](./Concepteur001.md) : une exploration des objets magiques intelligents en Pathfinder et de la manière de les utiliser dans les parties.
+- [[Concepteur001|Pathfinder et l'épée intelligente]] : une exploration des objets magiques intelligents en Pathfinder et de la manière de les utiliser dans les parties.
 
 ### Règles sur les compétences
-- [Aide de jeu sur la Perception](./Concepteur008.md) : Une rappel de l'ensemble des bonus et malus sur perception, ainsi qu'une règle maison pour gérer les tests passifs.
+- [[Concepteur008|Aide de jeu sur la Perception]] : Une rappel de l'ensemble des bonus et malus sur perception, ainsi qu'une règle maison pour gérer les tests passifs.
 </td></tr></table>

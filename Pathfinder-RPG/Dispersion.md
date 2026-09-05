@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armes à feu#DISPERSION
 ---
 
->>> [Armes à feu#DISPERSION](./Armes à feu.md#DISPERSION)
+>>> [[Armes à feu#DISPERSION]]

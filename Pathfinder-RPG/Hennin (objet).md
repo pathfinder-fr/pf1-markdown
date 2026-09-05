@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10–100po ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:AE}**Prix** 10–100po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 Ce haut chapeau conique se termine souvent en pointe, au bout de laquelle pend un voile en soie ou en autre matériau diaphane. Les femmes de la noblesse portent souvent le hennin pour les événements sociaux ou officiels pour montrer leur condition et offrent la pièce en soie comme gage aux soupirants qu’elles préfèrent.

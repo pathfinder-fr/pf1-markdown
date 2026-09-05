@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des armures#Chemisedemailles
 ---
 
->>> [Descriptions individuelles des armures#Chemisedemailles](./Descriptions individuelles des armures.md#Chemisedemailles)
+>>> [[Descriptions individuelles des armures#Chemisedemailles]]

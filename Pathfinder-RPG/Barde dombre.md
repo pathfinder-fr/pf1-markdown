@@ -10,19 +10,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [illusion](./Illusion.md) ([ombre](./branche ombre.md)) <nowiki>[</nowiki>[ombre](./Registre.md)<nowiki>]</nowiki>; **Niveau** [Bard](./Barde.md) 5  
+**École** [[illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki>; **Niveau** [[Barde|Bard]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md)  
+**Composantes** [[Composantes|V, G, M]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** chanteur fantôme  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage invoque un chanteur fantôme quasi-réel qui a l’apparence de son ombre mouvante. Le fantôme suit le personnage, même s’il se téléporte. On ne peut pas blesser le chanteur mais on peut le
-[dissiper](./Dissipation de la magie.md). Quand le barde d’ombre apparaît, il entame immédiatement une [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) choisie par le personnage. Il a accès à toutes celles du personnage. Il la maintient jusqu’à ce que le personnage lui indique d’en changer, par une [action de mouvement](./Action de mouvement.md). Les [rounds](./round.md) de [représentation](./Barde.md#REPRESENTATIONBARDIQUE) du barde d’ombre ne sont pas décomptés du total journalier du personnage mais ils ne peuvent pas servir à activer un sort qui demande que le personnage commence ou termine une [représentation](./Barde.md#REPRESENTATIONBARDIQUE).
+[[Dissipation de la magie|dissiper]]. Quand le barde d’ombre apparaît, il entame immédiatement une [[barde#REPRESENTATIONBARDIQUE|représentation bardique]] choisie par le personnage. Il a accès à toutes celles du personnage. Il la maintient jusqu’à ce que le personnage lui indique d’en changer, par une [[action de mouvement]]. Les [[round|rounds]] de [[barde#REPRESENTATIONBARDIQUE|représentation]] du barde d’ombre ne sont pas décomptés du total journalier du personnage mais ils ne peuvent pas servir à activer un sort qui demande que le personnage commence ou termine une [[barde#REPRESENTATIONBARDIQUE|représentation]].

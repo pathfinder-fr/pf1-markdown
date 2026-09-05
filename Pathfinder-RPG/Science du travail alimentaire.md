@@ -12,4 +12,4 @@ Categories:
 
 **Conditions.** Possibilité de faire un test de travail alimentaire
 
-**Avantages.** Le personnage gagne un bonus de +3 aux tests de travail alimentaires liés à une compétence qu’il choisit quand il prend ce don. Ce bonus se cumule avec ceux des autres dons qui s’appliquent à la compétence choisie, y compris [Talent](./Talent.md).
+**Avantages.** Le personnage gagne un bonus de +3 aux tests de travail alimentaires liés à une compétence qu’il choisit quand il prend ce don. Ce bonus se cumule avec ceux des autres dons qui s’appliquent à la compétence choisie, y compris [[Talent]].

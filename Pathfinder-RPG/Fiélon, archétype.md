@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Archétypes#CREATUREFIELON
 ---
 
->>> [Archétypes#CREATUREFIELON](./Archétypes.md#CREATUREFIELON)
+>>> [[Archétypes#CREATUREFIELON]]

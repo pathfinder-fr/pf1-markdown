@@ -14,46 +14,46 @@ Categories:
 ### Pouvoirs accordés
 D’un simple toucher, le personnage peut instiller le chaos dans les créatures vivantes comme dans les objets. Il aime l’anarchie sous toutes ses formes.
 
-{s:REFERENCE|TOUCHERDUCHAOS}**Toucher du Chaos (Mag).** Le personnage peut instiller le Chaos dans une cible en réussissant une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md). Chaque fois que la cible lance un d20 au cours du round qui suit, elle doit le lancer deux fois et utiliser le résultat le moins favorable. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+{s:REFERENCE|TOUCHERDUCHAOS}**Toucher du Chaos (Mag).** Le personnage peut instiller le Chaos dans une cible en réussissant une [[attaque de contact au corps à corps]]. Chaque fois que la cible lance un d20 au cours du round qui suit, elle doit le lancer deux fois et utiliser le résultat le moins favorable. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [[Sagesse]].
 
-**Lame du Chaos (Sur).** Au niveau 8, le personnage peut accorder à une arme, par le toucher, la propriété [anarchique](./anarchique (propriété).md) pour un nombre de rounds égal à la moitié de son niveau de [prêtre](./Prêtre.md). Il peut utiliser cette capacité une fois par jour au niveau 8 et une fois de plus par jour tous les quatre niveaux par la suite.
+**Lame du Chaos (Sur).** Au niveau 8, le personnage peut accorder à une arme, par le toucher, la propriété [[anarchique (propriété)|anarchique]] pour un nombre de rounds égal à la moitié de son niveau de [[prêtre]]. Il peut utiliser cette capacité une fois par jour au niveau 8 et une fois de plus par jour tous les quatre niveaux par la suite.
 
 ### Sous-domaines associés
 <table width="100%"><tr><td width="49%">
 <div class="presentation arrondi">{s:APG}
 ### Sous-domaine des Azatas
-**Appel de l'Élysée (Sur).** *(remplace toucher du Chaos)* D'un simple toucher, vous pouvez appeler sur des créatures l'esprit de l'Élysée, remonter leur moral et les libérer de leurs entraves. Les créatures touchées peuvent immédiatement relancer tout [jet de sauvegarde](./jet de sauvegarde.md) raté contre les sorts et [pouvoirs magiques](./Capacités spéciales.md#TYPES) des domaines de l'[Enchantement](./Enchantement.md) ([charme](./charme.md)) et de l'[Enchantement](./Enchantement.md) ([coercition](./coercition.md)). De plus, les cibles reçoivent un bonus sacré de +2 sur ces [jets de sauvegarde](./jet de sauvegarde.md) et un bonus sacré de +2 aux tests de manœuvre pour se soustraire à une [lutte](./lutte.md). Finalement, les cibles peuvent ignorer jusqu'à 1 case de [terrain difficile](./terrain difficile.md) chaque round, comme si elles possédaient le don [Aisance](./Aisance.md). Ces bonus persistent pendant un nombre de rounds égal à la moitié de votre niveau de prêtre (minimum 1), mais l'option de relancer un [jet de sauvegarde](./jet de sauvegarde.md) ne s'applique que lorsque la créature est touchée. Le personnage peut utiliser cette capacité pendant un nombre de rounds par jour égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+**Appel de l'Élysée (Sur).** *(remplace toucher du Chaos)* D'un simple toucher, vous pouvez appeler sur des créatures l'esprit de l'Élysée, remonter leur moral et les libérer de leurs entraves. Les créatures touchées peuvent immédiatement relancer tout [[jet de sauvegarde]] raté contre les sorts et [[Capacités spéciales#TYPES|pouvoirs magiques]] des domaines de l'[[Enchantement]] ([[charme]]) et de l'[[Enchantement]] ([[coercition]]). De plus, les cibles reçoivent un bonus sacré de +2 sur ces [[jet de sauvegarde|jets de sauvegarde]] et un bonus sacré de +2 aux tests de manœuvre pour se soustraire à une [[lutte]]. Finalement, les cibles peuvent ignorer jusqu'à 1 case de [[terrain difficile]] chaque round, comme si elles possédaient le don [[Aisance]]. Ces bonus persistent pendant un nombre de rounds égal à la moitié de votre niveau de prêtre (minimum 1), mais l'option de relancer un [[jet de sauvegarde]] ne s'applique que lorsque la créature est touchée. Le personnage peut utiliser cette capacité pendant un nombre de rounds par jour égal à 3 + son modificateur de [[Sagesse]].
 </div>
 
 <div class="presentation arrondi">{s:ISG}
 ### Sous-domaine des Caprices
-{s:cs}**Caprice inattendu (Sur).** *(remplace lame du Chaos)* Par une [action simple](./Action simple.md), le personnage peut faire un caprice ou une bouffonnerie quelconque, et tous ceux qui le voient et l'entendent dans un rayon de 9 mètres (6 {s:c}) doivent réussir un jet de [Volonté](./Volonté.md) (DD = 10 + 1/2 niveau de [prêtre](./Prêtre.md) du personnage + son modificateur de [Sagesse](./Sagesse.md)) ou s'effondrer [à terre](./À terre.md), hilares. Ceux qui ratent leur jet de sauvegarde ne peuvent pas accomplir la moindre action pendant leur tour, mais ne sont pas [sans défense](./Sans défense.md) pour autant. Le personnage peut utiliser ce pouvoir une fois par jour au niveau 8, et une fois de plus par jour tous les 4 niveaux après le niveau 8.
+{s:cs}**Caprice inattendu (Sur).** *(remplace lame du Chaos)* Par une [[action simple]], le personnage peut faire un caprice ou une bouffonnerie quelconque, et tous ceux qui le voient et l'entendent dans un rayon de 9 mètres (6 {s:c}) doivent réussir un jet de [[Volonté]] (DD = 10 + 1/2 niveau de [[prêtre]] du personnage + son modificateur de [[Sagesse]]) ou s'effondrer [[à terre]], hilares. Ceux qui ratent leur jet de sauvegarde ne peuvent pas accomplir la moindre action pendant leur tour, mais ne sont pas [[sans défense]] pour autant. Le personnage peut utiliser ce pouvoir une fois par jour au niveau 8, et une fois de plus par jour tous les 4 niveaux après le niveau 8.
 </div>
 
 <div class="presentation arrondi">
 ### Sous-domaine des Démodandes
-{s:cs}<div class="description">**Source :** Champions of Corruption (CoC).</div>**Attaque voleuse de foi (Sur).** *(remplace toucher du Chaos)* Le prêtre peut infliger une unique attaque au corps à corps en utilisant son [bonus de base à l'attaque](./BBA.md) le plus élevé à une créature capable de lancer des sorts divins. Si elle reçoit des dommages, elle doit faire un jet de [Volonté](./Volonté.md) (DD 10+ 1/2 niveau de [prêtre](./Prêtre.md) + modificateur de [Sagesse](./Sagesse.md) ou être incapable de lancer des sorts divins pour un tour. Le personnage peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+{s:cs}<div class="description">**Source :** Champions of Corruption (CoC).</div>**Attaque voleuse de foi (Sur).** *(remplace toucher du Chaos)* Le prêtre peut infliger une unique attaque au corps à corps en utilisant son [[BBA|bonus de base à l'attaque]] le plus élevé à une créature capable de lancer des sorts divins. Si elle reçoit des dommages, elle doit faire un jet de [[Volonté]] (DD 10+ 1/2 niveau de [[prêtre]] + modificateur de [[Sagesse]] ou être incapable de lancer des sorts divins pour un tour. Le personnage peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [[Sagesse]].
 </div>
 </td><td width="2%">
 </td><td width="49%">
 <div class="presentation arrondi">{s:APG}
 ### Sous-domaine des Démons
-**Fureur de l'Abysse (Sur).** *(remplace toucher du Chaos)* En une [action rapide](./Action rapide.md), le prêtre peut s'accorder un bonus d'altération égal à la moitié de son niveau de prêtre (minimum +1) pour les jets d'attaques au corps à corps, de dégâts au corps à corps et de [manœuvre de combat](./manoeuvres-offensives.md). Ce bonus dure un round. Pendant ce round, le prêtre subit une pénalité de –2 à la [CA](./CA.md). Il peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+**Fureur de l'Abysse (Sur).** *(remplace toucher du Chaos)* En une [[action rapide]], le prêtre peut s'accorder un bonus d'altération égal à la moitié de son niveau de prêtre (minimum +1) pour les jets d'attaques au corps à corps, de dégâts au corps à corps et de [[manoeuvres offensives|manœuvre de combat]]. Ce bonus dure un round. Pendant ce round, le prêtre subit une pénalité de –2 à la [[CA]]. Il peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [[Sagesse]].
 </div>
 
 <div class="presentation arrondi">{s:BotD}
 ### Sous-domaine de l'Entropie
-{s:cs}**Accélérer la fin (Sur).** *(remplace lamer du Chaos)* Au niveau 8, par une [action immédiate](./Action immédiate.md) après avoir touché un ennemi avec une attaque au corps à corps, le personnage peut réduire la durée de tous les effets magiques bénéfiques affectant la cible d'un round, une minute, une heure ou un jour - en fonction de la mesure de temps adaptée à chaque effet. Le personnage peut utiliser ce pouvoir une fois par jour au niveau 8, et une fois de plus tous les 4 niveaux après celui-ci.
+{s:cs}**Accélérer la fin (Sur).** *(remplace lamer du Chaos)* Au niveau 8, par une [[action immédiate]] après avoir touché un ennemi avec une attaque au corps à corps, le personnage peut réduire la durée de tous les effets magiques bénéfiques affectant la cible d'un round, une minute, une heure ou un jour - en fonction de la mesure de temps adaptée à chaque effet. Le personnage peut utiliser ce pouvoir une fois par jour au niveau 8, et une fois de plus tous les 4 niveaux après celui-ci.
 </div>
 
 <div class="presentation arrondi">{s:BotD}
 ### Sous-domaine des Festivités
-{s:cs}**Célébration intense (Sur).** *(remplace lame du Chaos)* Au niveau 8, tous les sorts lancés par le personnage et qui confèrent un bonus de moral à lui ou ses alliés voient leur effet augmenté comme avec un don d'[Extension de durée](./Extension de durée.md) sans pour autant augmenter leur temps d'incantation ou leur niveau.
+{s:cs}**Célébration intense (Sur).** *(remplace lame du Chaos)* Au niveau 8, tous les sorts lancés par le personnage et qui confèrent un bonus de moral à lui ou ses alliés voient leur effet augmenté comme avec un don d'[[Extension de durée]] sans pour autant augmenter leur temps d'incantation ou leur niveau.
 </div>
 
 <div class="presentation arrondi">{s:APG}
 ### Sous-domaine des Protéens
-**Aura du Chaos (Sur).** *(remplace lame du Chaos)* Au niveau 8, le prêtre peut s'entourer d'un champ d'énergies chaotiques. Ces énergies se manifestent sous la forme d'une aura de Chaos d'un rayon de 6 cases pendant un nombre de rounds par jour égal au niveau du prêtre. Tous les ennemis au sein de cette aura doivent déclarer un [type d'action](./Types dactions.md) au début de leur tour (attaque, incantation d'un sort, utilisation d'un objet, déplacement ou activation d'une [capacité spéciale](./Capacités spéciales.md)) et réaliser un [jet de Volonté](./jet de sauvegarde.md). Les créatures qui ratent ce [jet de sauvegarde](./jet de sauvegarde.md) doivent entreprendre une autre action que celle qu'ils ont déclarée. En cas de réussite du [jet de sauvegarde](./jet de sauvegarde.md), ils peuvent accomplir l'action choisie. Les créatures ne peuvent pas choisir une action qu'ils ne peuvent pas accomplir.
+**Aura du Chaos (Sur).** *(remplace lame du Chaos)* Au niveau 8, le prêtre peut s'entourer d'un champ d'énergies chaotiques. Ces énergies se manifestent sous la forme d'une aura de Chaos d'un rayon de 6 cases pendant un nombre de rounds par jour égal au niveau du prêtre. Tous les ennemis au sein de cette aura doivent déclarer un [[Types dactions|type d'action]] au début de leur tour (attaque, incantation d'un sort, utilisation d'un objet, déplacement ou activation d'une [[Capacités spéciales|capacité spéciale]]) et réaliser un [[jet de sauvegarde|jet de Volonté]]. Les créatures qui ratent ce [[jet de sauvegarde]] doivent entreprendre une autre action que celle qu'ils ont déclarée. En cas de réussite du [[jet de sauvegarde]], ils peuvent accomplir l'action choisie. Les créatures ne peuvent pas choisir une action qu'ils ne peuvent pas accomplir.
 </div>
 </td></tr></table>
 
@@ -64,21 +64,21 @@ D’un simple toucher, le personnage peut instiller le chaos dans les créatures
 | WIDTH="26%" | Domaine du Chaos
 | Sous-domaine des Azatas || Sous-domaine des Caprices || Sous-domaine des Démodandes || Sous-domaine des Démons || Sous-domaine de l'Entropie || Sous-domaine des Festivités || Sous-domaine des Protéens
 |- CLASS="premier"
-| 1er || *[protection contre la Loi](./Protection contre la Loi.md)* || *[repli expéditif](./Repli expéditif.md)* || *[fou rire](./Fou rire.md)* || *idem* || *[anathème](./Anathème.md)* || *[bouclier entropique](./Bouclier entropique.md)* || *idem* || *[confusion mineure](./Confusion mineure.md)*
+| 1er || *[[protection contre la Loi]]* || *[[repli expéditif]]* || *[[fou rire]]* || *idem* || *[[anathème]]* || *[[bouclier entropique]]* || *idem* || *[[confusion mineure]]*
 |-
-| 2e || *[arme alignée](./Arme alignée.md)* (lancé comme un sort du Chaos seulement) || *idem* || *idem* || *idem* || *idem* || *idem* || *[fou rire](./Fou rire.md)* || *idem*
+| 2e || *[[arme alignée]]* (lancé comme un sort du Chaos seulement) || *idem* || *idem* || *idem* || *idem* || *idem* || *[[fou rire]]* || *idem*
 |-
-| 3e || *[cercle magique contre la Loi](./Cercle magique contre la Loi.md)* || *[vol](./sort Vol.md)* || *idem* || *idem* || *[rage](./Rage.md)* || *[dissipation de la magie](./Dissipation de la magie.md)* || *[espoir](./Espoir.md)* || *[déplacement](./Déplacement.md)*
+| 3e || *[[cercle magique contre la Loi]]* || *[[sort vol|vol]]* || *idem* || *idem* || *[[rage]]* || *[[dissipation de la magie]]* || *[[espoir]]* || *[[déplacement]]*
 |-
-| 4e || *[marteau du Chaos](./Marteau du chaos.md)* || *idem* || *[confusion](./Confusion.md)* || *idem* || *idem* || *idem* || *idem* || *idem*
+| 4e || *[[marteau du Chaos]]* || *idem* || *[[confusion]]* || *idem* || *idem* || *idem* || *idem* || *idem*
 |-
-| 5e || *[rejet de la Loi](./Rejet de la Loi.md)* || *idem* || *idem* || *idem* || *idem* || *[confusion](./Confusion.md)* || *idem* || *idem*
+| 5e || *[[rejet de la Loi]]* || *idem* || *idem* || *idem* || *idem* || *[[confusion]]* || *idem* || *idem*
 |-
-| 6e || *[animation d’objets](./Animation dobjets.md)* || *[allié majeur d'outreplan](./Allié majeur doutreplan.md)* (azatas uniquement) || *[manteau de rêves](./Manteau de rêves.md)* || *[corrosion](./Corrosion.md)* || *[contrat intermédiaire](./Contrat intermédiaire.md)* (démons uniquement) || *idem* || *[festin des héros](./Festin des héros.md)* || *[contrat intermédiaire](./Contrat intermédiaire.md)* (protéens uniquement)
+| 6e || *[[animation dobjets|animation d’objets]]* || *[[allié majeur doutreplan|allié majeur d'outreplan]]* (azatas uniquement) || *[[manteau de rêves]]* || *[[corrosion]]* || *[[contrat intermédiaire]]* (démons uniquement) || *idem* || *[[festin des héros]]* || *[[contrat intermédiaire]]* (protéens uniquement)
 |-
-| 7e || *[parole du Chaos](./Parole du Chaos.md)* || *idem* || *idem* || *idem* || *idem* || *[destruction](./destruction.md)* || *idem* || *idem*
+| 7e || *[[parole du Chaos]]* || *idem* || *idem* || *idem* || *idem* || *[[destruction]]* || *idem* || *idem*
 |-
-| 8e || *[manteau du Chaos](./Manteau du Chaos.md)* || *idem* || *idem* || *idem* || *idem* || *idem* || *[danse irrésistible](./Danse irrésistible.md)* || *idem*
+| 8e || *[[manteau du Chaos]]* || *idem* || *idem* || *idem* || *idem* || *idem* || *[[danse irrésistible]]* || *idem*
 |-
-| 9e || *[convocation de monstres IX](./Convocation de monstres IX.md)* (lancé comme un sort du Chaos seulement) || *idem* || *idem* || *idem* || *idem* || *idem* || *idem* || *idem*
+| 9e || *[[convocation de monstres IX]]* (lancé comme un sort du Chaos seulement) || *idem* || *idem* || *idem* || *idem* || *idem* || *idem* || *idem*
 |}

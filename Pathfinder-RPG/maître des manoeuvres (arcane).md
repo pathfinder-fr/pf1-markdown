@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#MAITREDESMANOEUVRES
 ---
 
->>> [arcanes#MAITREDESMANOEUVRES](./arcanes.md#MAITREDESMANOEUVRES)
+>>> [[arcanes#MAITREDESMANOEUVRES]]

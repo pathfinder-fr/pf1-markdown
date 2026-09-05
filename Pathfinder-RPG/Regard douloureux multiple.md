@@ -14,13 +14,13 @@ Categories:
 
 *Le regard hypnotique du personnage cause une douleur inouïe à ses victimes.*
 
-**Catégorie** [combat](./Dons.md#DONCOMBAT), [regard](./Dons.md#DONREGARD)
+**Catégorie** [[dons#DONCOMBAT|combat]], [[dons#DONREGARD|regard]]
 
-**Conditions.** [Hypnotiseur](./Hypnotiseur.md) de niveau 3, capacité de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX)
+**Conditions.** [[Hypnotiseur]] de niveau 3, capacité de classe [[Hypnotiseur#REGARDDOULOUREUX|regard douloureux]]
 
-**Avantage.** Le personnage peut utiliser son regard douloureux une fois de plus par [round](./round.md).
+**Avantage.** Le personnage peut utiliser son regard douloureux une fois de plus par [[round]].
 
-**Spécial.** Ce don peut être pris une fois par un [hypnotiseur](./Hypnotiseur.md) de niveau 3 puis une fois de plus au niveau 9 et au niveau 15. Ses effets se cumulent. Un hypnotiseur peut prendre ce don à la place d’une amélioration de [regard impudent](./Hypnotiseur.md#REGARDIMPUDENT).
+**Spécial.** Ce don peut être pris une fois par un [[hypnotiseur]] de niveau 3 puis une fois de plus au niveau 9 et au niveau 15. Ses effets se cumulent. Un hypnotiseur peut prendre ce don à la place d’une amélioration de [[Hypnotiseur#REGARDIMPUDENT|regard impudent]].
 
 (((Manifold stare (combat, stare)
 

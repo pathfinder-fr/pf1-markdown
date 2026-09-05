@@ -11,12 +11,12 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[émotion, effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Inq](./Inquisiteur.md) 2, [Rôd](./Rôdeur.md) 2
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+{s:RSE}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion, effet mental]]<nowiki>]</nowiki> ; **Niveau** [[barde|Bard]] 2, [[inquisiteur|Inq]] 2, [[rôdeur|Rôd]] 2
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cible**  une créature
-**Durée** 1 round/[niveau](./niveau.md)
+**Durée** 1 round/[[niveau]]
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** oui
 
-La cible se concentre tellement pour éviter d’être blessée qu’elle rate toutes les opportunités d’attaquer, même les plus évidentes. Quand une créature menacée par la cible provoque une [attaque d’opportunité](./AO.md) de la part de ladite cible, cette dernière doit réussir un jet de [Volonté](./Volonté.md), sinon, elle est incapable de porter son attaque d’opportunité.
+La cible se concentre tellement pour éviter d’être blessée qu’elle rate toutes les opportunités d’attaquer, même les plus évidentes. Quand une créature menacée par la cible provoque une [[AO|attaque d’opportunité]] de la part de ladite cible, cette dernière doit réussir un jet de [[Volonté]], sinon, elle est incapable de porter son attaque d’opportunité.

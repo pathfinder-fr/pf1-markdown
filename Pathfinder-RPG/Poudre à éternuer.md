@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Poudre à éternuer|{s:AE}}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Poids** —
+**Aura** [[Invocation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Poids** —
 (((Description)))
-Cette fine poussière ressemble à de la [poudre d’apparition](./Poudre dapparition.md) mais, si on la jette en l’air, elle produit une étendue de 6 mètres de rayon qui fait violemment éternuer toutes les créatures situées à l’intérieur. Celles qui ratent un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 15 subissent un [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 3d6 points de [Constitution](./Constitution.md). Celles qui réussissent leur jet sont tout de même prises de violentes quintes de toux pendant 5d4 [rounds](./round.md) (comme si elles étaient [étourdies](./Étourdi.md)).
+Cette fine poussière ressemble à de la [[poudre dapparition|poudre d’apparition]] mais, si on la jette en l’air, elle produit une étendue de 6 mètres de rayon qui fait violemment éternuer toutes les créatures situées à l’intérieur. Celles qui ratent un jet de [[Vigueur]] [[DD]] 15 subissent un [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 3d6 points de [[Constitution]]. Celles qui réussissent leur jet sont tout de même prises de violentes quintes de toux pendant 5d4 [[round|rounds]] (comme si elles étaient [[étourdi|étourdies]]).
 (((Objet magique prévu)))
-[poudre d’apparition](./Poudre dapparition.md), [poudre de dissimulation des traces](./Poudre de dissimulation des traces.md)
+[[poudre dapparition|poudre d’apparition]], [[poudre de dissimulation des traces]]
 </div>

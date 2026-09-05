@@ -11,11 +11,11 @@ Categories:
 <div class="BD">
 {s:BDTitre|Chasseur bourbiérin|FP 5}
 {s:pucem|Humanoïde|Marais|Tempéré}
-{s:BDTexte|*Source : [Codex monstrueux p.14](./Codex monstrueux (Contenu).md)*}
+{s:BDTexte|*Source : [[Codex monstrueux (Contenu)|Codex monstrueux p.14]]*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Bourbiérin](./Bourbiérin.md) [rôdeur](./Rôdeur.md) 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) (bourbiérin) de taille M, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[Bourbiérin]] [[rôdeur]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (bourbiérin) de taille M, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 11, pris au dépourvu 17 (armure +4, Dex +1, naturelle +3)}
 {s:BDTexte|**pv** 53 (6 DV ; 3d8+3d10+24)}
@@ -28,11 +28,11 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 13, **Con** 16, **Int** 8, **Sag** 13, **Cha** 8}
 {s:BDTexte|**BBA** +5 ; **BMO** +9 ; **DMD** 20}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (arc long composite), [Endurance](./Endurance.md), [Robustesse](./Robustesse.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +5 (+21 pour sauter), [Connaissances](./Connaissances.md) (nature) +5, [Discrétion](./Discrétion.md) +8 (+16 dans les marais), [Natation](./Natation.md) +12, [Perception](./Perception.md) +14, [Survie](./Survie.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (arc long composite), [[Endurance]], [[Robustesse]], [[Tir à bout portant]], [[Tir de précision]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +5 (+21 pour sauter), [[Connaissances]] (nature) +5, [[Discrétion]] +8 (+16 dans les marais), [[Natation]] +12, [[Perception]] +14, [[Survie]] +8}
 {s:BDTexte|**Langues** bourbiérin}
-{s:BDTexte|**Particularités** environnement de prédilection (marais +2), [retenir son souffle](./Retenir son souffle (capacité).md), déplacement facilité (marais), pistage +1, empathie sauvage +2}
-{s:BDTexte|**Équipement de combat** *potion de [soins modérés](./Soins modérés.md)* ; **Équipement divers** *[armure de cuir cloutée](./armure de cuir cloutée (armure).md) +1*, [morgenstern](./morgenstern (arme).md), [arc long composite](./arc long composite (arme).md) [de maître](./arme de maître.md) (+4 For), *[cape de résistance +1](./Cape de résistance.md)*, 267 po}
+{s:BDTexte|**Particularités** environnement de prédilection (marais +2), [[Retenir son souffle (capacité)|retenir son souffle]], déplacement facilité (marais), pistage +1, empathie sauvage +2}
+{s:BDTexte|**Équipement de combat** *potion de [[soins modérés]]* ; **Équipement divers** *[[armure de cuir cloutée (armure)|armure de cuir cloutée]] +1*, [[morgenstern (arme)|morgenstern]], [[arc long composite (arme)|arc long composite]] [[arme de maître|de maître]] (+4 For), *[[Cape de résistance|cape de résistance +1]]*, 267 po}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -41,29 +41,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Bourbiérin](./Bourbiérin.md) || 2
+| [[Bourbiérin]] || 2
 |-
-| [Bourbiérin balafré](./Bourbiérin balafré.md) || 6
+| [[Bourbiérin balafré]] || 6
 |-
-| [Bourbiérin sauvage](./Bourbiérin sauvage.md) || 4
+| [[Bourbiérin sauvage]] || 4
 |-
-| [Brute bourbiérine](./Brute bourbiérine.md) || 3
+| [[Brute bourbiérine]] || 3
 |-
-| [Champion bourbiérin](./Champion bourbiérin.md) || 7
+| [[Champion bourbiérin]] || 7
 |-
-| [Chasseur bourbiérin](./Chasseur bourbiérin.md) || 5
+| [[Chasseur bourbiérin]] || 5
 |-
-| [Grandcoasseur bourbiérin](./Grandcoasseur bourbiérin.md) || 3
+| [[Grandcoasseur bourbiérin]] || 3
 |-
-| [Guerrier abyssal bourbiérin](./Guerrier abyssal bourbiérin.md) || 8
+| [[Guerrier abyssal bourbiérin]] || 8
 |-
-| [Oracle du marais bourbiérin](./Oracle du marais bourbiérin.md) || 4
+| [[Oracle du marais bourbiérin]] || 4
 |-
-| [Prêtre-roi bourbiérin](./Prêtre-roi bourbiérin.md) || 11
+| [[Prêtre-roi bourbiérin]] || 11
 |-
-| [Prophète bourbiérin](./Prophète bourbiérin.md) || 5
+| [[Prophète bourbiérin]] || 5
 |-
-| [Traqueur bourbiérin](./Traqueur bourbiérin.md) || 9
+| [[Traqueur bourbiérin]] || 9
 |}
 </div>Les rôdeurs bourbiérins traquent silencieusement leurs proies à travers les marais.
 </div></td></tr></table>

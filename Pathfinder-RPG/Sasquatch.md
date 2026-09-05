@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.230}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md)  ([sasquatch](./sous-type sasquatch.md)) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m ; [Vision nocturne](./vision nocturne.md), [Odorat](./odorat.md), [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]]  ([[sous-type sasquatch|sasquatch]]) de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m ; [[Vision nocturne]], [[Odorat]], [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
 {s:BDTexte|**pv** 22 (3d8+9)}
@@ -24,13 +24,13 @@ Categories:
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** gourdin, +8 (1d6+9) ou coup, +8 (1d4+9)}
 {s:BDTexte|**A distance** rocher, +5 (1d4+9)}
-{s:BDTexte|**Attaques spéciales** [lancer de rochers](./Lancer de rochers.md) (36 m) (24 {s:c})}
+{s:BDTexte|**Attaques spéciales** [[lancer de rochers]] (36 m) (24 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 15, **Con** 16, **Int** 9, **Sag** 10, **Cha** 11}
 {s:BDTexte|**BBA** +2, **BMO** +8, **DMD** 20}
-{s:BDTexte|**Dons** [autonome](./Autonome.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Perception](./Perception.md) +5, [Premiers secours](./Premiers secours.md) +2, [Survie](./Survie.md) +10}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Perception](./Perception.md), +4 en [Discrétion](./Discrétion.md) (+8 dans les zones forestières), +4 en [Survie](./Survie.md)}
+{s:BDTexte|**Dons** [[autonome]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Perception]] +5, [[Premiers secours]] +2, [[Survie]] +10}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Perception]], +4 en [[Discrétion]] (+8 dans les zones forestières), +4 en [[Survie]]}
 {s:BDTexte|**Langue** sasquatch}
 {s:BDTexte|**Part** âcreté, déplacement facilité}
 {s:BDSousTitre|Écologie}
@@ -38,7 +38,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou famille (3-7}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Âcreté (Ext)**. L’odeur du sasquatch est particulièrement forte et peut être détectée à deux fois la distance normale par l’[odorat](./odorat.md). }
+{s:BDTexte|**Âcreté (Ext)**. L’odeur du sasquatch est particulièrement forte et peut être détectée à deux fois la distance normale par l’[[odorat]]. }
 {s:BDTexte|**Déplacement facilité (Ext)**. Le sasquatch peut se déplacer dans n’importe quelles broussailles (comme les buissons épineux, les bruyères, les zones de forte végétation naturelle et autres terrains similaires) à sa vitesse normale, sans recevoir de dégâts ou sans souffrir de la moindre gêne. Les broussailles qui ont été magiquement altérées pour entraver les déplacements affectent normalement le sasquatch.}
 </div>
 

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Déroulement dun combat#SURPRISE
 ---
 
->>> [Déroulement dun combat#SURPRISE](./Déroulement dun combat.md#SURPRISE)
+>>> [[Déroulement dun combat#SURPRISE]]

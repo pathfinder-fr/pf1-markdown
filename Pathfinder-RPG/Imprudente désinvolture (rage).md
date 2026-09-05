@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#IMPRUDENTEDESINVOLTURE
 ---
 
->>> [pouvoirs de rage#IMPRUDENTEDESINVOLTURE](./Pouvoirs de rage.md#IMPRUDENTEDESINVOLTURE)
+>>> [[pouvoirs de rage#IMPRUDENTEDESINVOLTURE]]

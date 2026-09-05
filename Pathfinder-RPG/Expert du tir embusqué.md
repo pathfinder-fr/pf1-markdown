@@ -13,13 +13,13 @@ Categories:
 
 *Vos attaques à distance rapides vous rendent plus difficile à localiser*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** 3 rangs en [Discrétion](./Discrétion.md)
+**Condition.** 3 rangs en [[Discrétion]]
 
-**Avantage.** Le personnage réduit la pénalité aux tests de [Discrétion](./Discrétion.md) pour rester caché après un tir embusqué de 10.
+**Avantage.** Le personnage réduit la pénalité aux tests de [[Discrétion]] pour rester caché après un tir embusqué de 10.
 
-**Normal.** Le personnage subit une pénalité de -20 aux tests de [Discrétion](./Discrétion.md) pour rester caché après un tir embusqué.
+**Normal.** Le personnage subit une pénalité de -20 aux tests de [[Discrétion]] pour rester caché après un tir embusqué.
 
 (((Expert Sniper (Combat)
 

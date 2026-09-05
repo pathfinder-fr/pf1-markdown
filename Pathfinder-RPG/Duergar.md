@@ -15,8 +15,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire p.121*}
 {s:BDTexte|**PX** 135}
 {s:BDTexte|Duergar, combattant 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([nain](./sous-type nain.md)) de taille M, LM}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) (36 m (24 {s:c})) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type nain|nain]]) de taille M, LM}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] (36 m (24 {s:c})) ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 9, pris au dépourvu 17 (armure +6, bouclier +2, Dex -1)}
 {s:BDTexte|**pv** 7 (1d10+2)}
@@ -28,12 +28,12 @@ Categories:
 {s:BDTexte|**Corps à corps** marteau de guerre, +3 (1d8+1/x3)}
 {s:BDTexte|**Distance** arbalète légère, +0 (1d8/19-20)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 3<sup>e</sup>)}
-{s:BDSorts|1/jour — *[agrandissement](./Agrandissement.md)* (sur lui-même uniquement), *[invisibilité](./Invisibilité.md)* (sur lui-même uniquement)}
+{s:BDSorts|1/jour — *[[agrandissement]]* (sur lui-même uniquement), *[[invisibilité]]* (sur lui-même uniquement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 9, **Con** 15, **Int** 10, **Sag** 13, **Cha** 4}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 11}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (marteau de guerre)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) -3, [Intimidation](./Intimidation.md) +1 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +2 pour la pierre}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (marteau de guerre)}
+{s:BDTexte|**Compétences** [[Discrétion]] -3, [[Intimidation]] +1 ; **Modificateurs raciaux** [[Discrétion]] +4, [[Perception]] +2 pour la pierre}
 {s:BDTexte|**Langues** commun, commun des profondeurs, nain}
 {s:BDTexte|**Particularités** lentement mais sûrement, stabilité}
 {s:BDSousTitre|Écologie}
@@ -52,31 +52,31 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Duergar](./Duergar.md) || 1/3
+| [[Duergar]] || 1/3
 |-
-| [Esclavagiste duergar](./Esclavagiste duergar.md) || 1/2
+| [[Esclavagiste duergar]] || 1/2
 |-
-| [Tireur d'élite duergar](./Tireur délite duergar.md) || 1/2
+| [[Tireur délite duergar|Tireur d'élite duergar]] || 1/2
 |-
-| [Bombardier duergar](./Bombardier duergar.md) || 1
+| [[Bombardier duergar]] || 1
 |-
-| [Enclume duergar](./Enclume duergar.md) || 1
+| [[Enclume duergar]] || 1
 |-
-| [Sergent duergar](./Sergent duergar.md) || 1
+| [[Sergent duergar]] || 1
 |-
-| [Scarabée crache-noir](./Scarabée crache-noir.md) || 3
+| [[Scarabée crache-noir]] || 3
 |-
-| [Lieutenant duergar](./Lieutenant duergar.md) || 5
+| [[Lieutenant duergar]] || 5
 |-
-| [Capitaine duergar](./Capitaine duergar.md) || 8
+| [[Capitaine duergar]] || 8
 |-
-| [Maître de corvée duergar](./Maître de corvée duergar.md) || 9
+| [[Maître de corvée duergar]] || 9
 |-
-| [Marteau duergar](./Marteau duergar.md) || 11
+| [[Marteau duergar]] || 11
 |-
-| [Grand prêtre duergar](./Grand prêtre duergar.md) || 12
+| [[Grand prêtre duergar]] || 12
 |-
-| [Scarabée juggernaut](./Scarabée juggernaut.md) || 14
+| [[Scarabée juggernaut]] || 14
 |-
 |}
 </div>
@@ -108,19 +108,19 @@ utilisent leur capacité d’agrandissement avant de passer à l’attaque.
 Les duergars ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classes. Leurs traits raciaux sont les suivants :
 - **+2 Constitution, +2 Sagesse, –4 Charisme.** Les duergars sont robustes et observateurs mais également entêtés et belliqueux.  
 
-- **Immunités des duergars.** Les duergars sont immunisés contre la paralysie, les fantasmes et les poisons. Ils bénéficient également d'un bonus racial de +2 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts et les pouvoirs magiques.  
+- **Immunités des duergars.** Les duergars sont immunisés contre la paralysie, les fantasmes et les poisons. Ils bénéficient également d'un bonus racial de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les sorts et les pouvoirs magiques.  
 
 - **Lentement mais sûrement.** Les duergars ont une vitesse de déplacement de base de 6 m (4 {s:c}) mais celle-ci n'est jamais réduite à cause de l'armure ou de la charge qu'ils portent.  
 
-- **Pouvoirs magiques.** Les duergars peuvent lancer *[agrandissement](./Agrandissement.md)* et *[invisibilité](./Invisibilité.md)* une fois par jour chacun, avec un [NLS](./NLS.md) égal à leur niveau de personnage. Ces pouvoirs magiques n'affectent que le duergar lui-même.  
+- **Pouvoirs magiques.** Les duergars peuvent lancer *[[agrandissement]]* et *[[invisibilité]]* une fois par jour chacun, avec un [[NLS]] égal à leur niveau de personnage. Ces pouvoirs magiques n'affectent que le duergar lui-même.  
 
-- **Sensibilité à la lumière.** Les duergars restent [éblouis](./Ébloui.md) tant qu'ils demeurent dans une zone de lumière vive.  
+- **Sensibilité à la lumière.** Les duergars restent [[ébloui|éblouis]] tant qu'ils demeurent dans une zone de lumière vive.  
 
-- **Stabilité.** Les duergars reçoivent un bonus racial de +4 à leurs [DMD](./DMD.md) pour résister aux [bousculades](./bousculade.md) et aux tentatives de [croc-en-jambe](./croc-en-jambe.md) lorsqu'ils se tiennent sur le sol.  
+- **Stabilité.** Les duergars reçoivent un bonus racial de +4 à leurs [[DMD]] pour résister aux [[bousculade|bousculades]] et aux tentatives de [[croc-en-jambe]] lorsqu'ils se tiennent sur le sol.  
 
 - **Vision dans le noir.** Les duergars peuvent voir dans le noir jusqu'à 36 m (24 {s:c}).  
 
-- **Langues.** Les duergars parlent automatiquement le commun, le commun des profondeurs et le nain. S'ils disposent d'une [Intelligence](./Intelligence.md) élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : aklo, draconique, géant, gobelin, orque et terreux.
+- **Langues.** Les duergars parlent automatiquement le commun, le commun des profondeurs et le nain. S'ils disposent d'une [[Intelligence]] élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : aklo, draconique, géant, gobelin, orque et terreux.
 
-{s:VoirAussiAvant}La page de la race [Nain Gris](./duergar (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Duergar (race)|Nain Gris]]{s:VoirAussiAprès}
 </div></td></tr></table>

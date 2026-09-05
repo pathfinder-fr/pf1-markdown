@@ -14,14 +14,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[air](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Prê](./Prêtre.md) 5, [Rôd](./Rôdeur.md) 3, [Spi](./Spirite.md) 5</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, G](./composantes.md)</br>
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))</br>
-**Cible**  une créature de taille M ou plus/[niveau](./niveau.md) qui ne doivent pas être distantes de plus de 9 m (6 {s:c}) les unes de autres</br>
-**Durée** 1 minute/[niveau](./niveau.md) (T)</br>
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Rôdeur|Rôd]] 3, [[Spirite|Spi]] 5</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[Composantes|V, G]]</br>
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])</br>
+**Cible**  une créature de taille M ou plus/[[niveau]] qui ne doivent pas être distantes de plus de 9 m (6 {s:c}) les unes de autres</br>
+**Durée** 1 minute/[[niveau]] (T)</br>
 **Jet de sauvegarde** aucun (voir texte) ; **Résistance à la magie** oui
 
-Le personnage crée un cylindre mobile de vents qui englobe toutes les cibles du sort et les protège comme un *[mur de vent](./Mur de vent.md)* mais n’interfère pas avec elles. Par exemple, les flèches et les carreaux tirés en direction des cibles sont déviés vers le haut et ratent leur cible mais ceux de la cible traversent le *[mur de vent](./Mur de vent.md)* comme s’il n’était pas là.
+Le personnage crée un cylindre mobile de vents qui englobe toutes les cibles du sort et les protège comme un *[[mur de vent]]* mais n’interfère pas avec elles. Par exemple, les flèches et les carreaux tirés en direction des cibles sont déviés vers le haut et ratent leur cible mais ceux de la cible traversent le *[[mur de vent]]* comme s’il n’était pas là.
 
-Pour savoir le nombre de créatures que le sort peut affecter, une créature [G](./taille G.md) compte comme 4 créatures [M](./taille M.md), une [TG](./taille TG.md) compte comme 8, une [Gig](./Taille Gig.md) comme 16 et une [Col](./taille Col.md) comme 32. Ce sort n’a aucun effet dans une zone où sévit un sort de [vent](./Registre.md) ou de [climat](./Registre.md) de plus haut niveau.
+Pour savoir le nombre de créatures que le sort peut affecter, une créature [[taille G|G]] compte comme 4 créatures [[taille M|M]], une [[taille TG|TG]] compte comme 8, une [[taille Gig|Gig]] comme 16 et une [[Taille Col|Col]] comme 32. Ce sort n’a aucun effet dans une zone où sévit un sort de [[registre|vent]] ou de [[registre|climat]] de plus haut niveau.

@@ -14,9 +14,9 @@ Créer une battle map agréable et lisible peut se révéler bien souvent fastid
 
 ### Pour commencer...
 
-Installez le programme gratuit GimP 2 que vous trouverez facilement [http://www.gimp.org/|sur ce site].
+Installez le programme gratuit GimP 2 que vous trouverez facilement [sur ce site](http://www.gimp.org/).
 
-Installez le petit script Dungeon Map Maker disponible à cette adresse: [{UP}/tutogimp/dmm.zip].
+Installez le petit script Dungeon Map Maker disponible à cette adresse: [[{UP}/tutogimp/dmm.zip]].
 
 Ce fichier doit être copié dans le répertoire **Scripts** de l'arborescence GimP.
 
@@ -24,9 +24,9 @@ Emplacement sous seven : C:\Program Files (x86)\GIMP-2.0\share\gimp\2.0\scripts
 
 En principe, si le script est correctement installé, vous devriez y avoir accès tout en bas du menu Filtres comme indiqué ici.
 
-[imageauto||{UP}/tutogimp/pict00.png]
+<img src="{UP}/tutogimp/pict00.png" class="imageauto" alt="">
 
-Ce script est en fait une série d'instructions automatisées codées par l'un des plus talentueux cartographe du site [http://www.cartographersguild.com/|Cartographers Guild] : RobA. Si vous avez un peu de temps, je vous invite à aller voir ses créations sur [http://www.cartocopia.com/|son site.]
+Ce script est en fait une série d'instructions automatisées codées par l'un des plus talentueux cartographe du site [Cartographers Guild](http://www.cartographersguild.com/) : RobA. Si vous avez un peu de temps, je vous invite à aller voir ses créations sur [son site.](http://www.cartocopia.com/)
 
 Le script en question est en premier lieu destiné à créer des battlemaps de donjons ou d'environnements clos. Avec un peu de travail, il est possible de retoucher les images produites pour leur donner un look différent, mais le plus gros du boulot sera réalisé automatiquement par le programme.
 
@@ -40,7 +40,7 @@ Le script Dungeon Map Maker (ou DMM) fonctionne sur le principe d'un calque de d
 
 Commençons donc par créer un fichier vierge de 600*600 rempli de blanc à l'aide du menu Fichier->Nouveau...
 
-[imageauto||{UP}/tutogimp/picto01.png]
+<img src="{UP}/tutogimp/picto01.png" class="imageauto" alt="">
 
 Puis réglons la grille sur un pas de 50*50 pour avoir quelque chose d'assez grand pour s'y déplacer à l'aide du menu
 **Image->Configurer la Grille** et en entrant les valeurs 50 dans les cases Espacement.
@@ -67,14 +67,14 @@ En quelques minutes, la structure du donjon est tracée...
 
 
 
-[imageauto||{UP}/tutogimp/picto02.png]
+<img src="{UP}/tutogimp/picto02.png" class="imageauto" alt="">
 
 
 
 
 Puis, avec l'outil **Pot de Peinture**, remplir en noir toutes les zones pleines (sans oublier le petit rectangle sur la gauche du donjon). Pour améliorer le rendu du script, un seuil de 100 est acceptable sur le paramétrage du Pot de Peinture.
 
-[imageauto||{UP}/tutogimp/picto06.png]
+<img src="{UP}/tutogimp/picto06.png" class="imageauto" alt="">
 
 
 
@@ -91,7 +91,7 @@ Cliquer sur Valider et laisser faire la machine...
 Quelques secondes plus tard, l'image en noir et blanc s'est transformée en un superbe fond de carte...
 
 
-[imageauto||{UP}/tutogimp/picto07.png]
+<img src="{UP}/tutogimp/picto07.png" class="imageauto" alt="">
 
 
 

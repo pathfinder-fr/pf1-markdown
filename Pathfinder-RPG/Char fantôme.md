@@ -13,17 +13,17 @@ Categories:
 ---
 
 {s:UC}
-**École** [Invocation](./Invocation.md) ([création](./branche création.md)); **Niveau** [Con](./Conjurateur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Occ](./Occultiste.md) 4, [Spi](./Spirite.md) 4</br>
+**École** [[Invocation]] ([[Branche création|création]]); **Niveau** [[Conjurateur|Con]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Spirite|Spi]] 4</br>
 **Temps d’incantation** 10 minutes</br>
-**Composantes** [V, G](./composantes.md)</br>
+**Composantes** [[Composantes|V, G]]</br>
 **Portée** 0 m</br>
 **Effet** un carrosse quasi-réel et ses chevaux</br>
-**Durée** 1 heure/[niveau](./niveau.md) (T)</br>
+**Durée** 1 heure/[[niveau]] (T)</br>
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
 Le personnage invoque un grand char quasi-réel tiré par quatre chevaux. (Vous pouvez modifier la description précise
-comme bon vous semble.) Le char a toutes les propriétés d’un [véhicule ordinaire](./véhicule.md). Il faut une personne pour le diriger, soit le personnage soit une autre créature qu’il désigne au moment de l’incantation, et il peut transporter six passagers (y compris le meneur). Ni les chevaux ni le char ne font aucun bruit et les animaux ne se battent jamais. Sinon, le meneur peut utiliser le char comme un véhicule ordinaire.
+comme bon vous semble.) Le char a toutes les propriétés d’un [[véhicule|véhicule ordinaire]]. Il faut une personne pour le diriger, soit le personnage soit une autre créature qu’il désigne au moment de l’incantation, et il peut transporter six passagers (y compris le meneur). Ni les chevaux ni le char ne font aucun bruit et les animaux ne se battent jamais. Sinon, le meneur peut utiliser le char comme un véhicule ordinaire.
 
-Le char et son attelage forment une unique entité avec une [CA](./CA.md) 19 (-2 taille, +6 armure naturelle, +5 Dex) et 10 points de vie + 2 points par [niveau de lanceur de sorts](./NLS.md) (50 au maximum). Si l’entité perd tous ses points de vie, elle disparaît et ses passagers risquent l’accident (on les considère alors comme en panne).
+Le char et son attelage forment une unique entité avec une [[CA]] 19 (-2 taille, +6 armure naturelle, +5 Dex) et 10 points de vie + 2 points par [[NLS|niveau de lanceur de sorts]] (50 au maximum). Si l’entité perd tous ses points de vie, elle disparaît et ses passagers risquent l’accident (on les considère alors comme en panne).
 
-L’entité gagne certains pouvoirs en fonction du [niveau de lanceur de sorts](./NLS.md), tout comme la monture du sort *[coursier fantôme](./Coursier fantôme.md)*.
+L’entité gagne certains pouvoirs en fonction du [[NLS|niveau de lanceur de sorts]], tout comme la monture du sort *[[coursier fantôme]]*.

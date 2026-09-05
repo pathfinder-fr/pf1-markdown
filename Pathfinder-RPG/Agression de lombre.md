@@ -10,9 +10,9 @@ Categories:
 
 {s:MMI}*Le personnage peut puiser dans les énergies du plan de l’Ombre pour solidifier momentanément l’un de ses sorts d’illusion (chimère).*
 
-**Conditions** [École renforcée](./École renforcée.md) (illusion), [NLS](./NLS.md) 5.
+**Conditions** [[École renforcée]] (illusion), [[NLS]] 5.
 
-**Avantage** Par une [action simple](./Action simple.md), le personnage peut puiser dans les énergies du plan de l’Ombre pour qu’un sort continu de chimère lancé par ses soins inflige des dégâts à un adversaire comme si l’illusion était réelle. Le personnage doit pouvoir contrôler de manière continue l’illusion créée, comme dans le cas d’une *[image imparfaite](./Image imparfaite.md)* et la cible doit être visible du personnage et à l’intérieur ou adjacente à la zone de son illusion.
+**Avantage** Par une [[action simple]], le personnage peut puiser dans les énergies du plan de l’Ombre pour qu’un sort continu de chimère lancé par ses soins inflige des dégâts à un adversaire comme si l’illusion était réelle. Le personnage doit pouvoir contrôler de manière continue l’illusion créée, comme dans le cas d’une *[[image imparfaite]]* et la cible doit être visible du personnage et à l’intérieur ou adjacente à la zone de son illusion.
 
 L’utilisation de ce don met un terme immédiat à la durée de la chimère.
 
@@ -24,4 +24,4 @@ L’attaque des ombres inflige 1d6 points de dégâts par niveau du sort. Si la
 
 L’attaque des ombres peut infliger des dégâts d’acide, contondants, d’électricité, de feu, de froid, perforants ou tranchants, en fonction de l’illusion créée.
 
-Par exemple, un *mur illusoire* qui s’effondre inflige des dégâts contondants avec un jet de Vigueur pour les diminuer de moitié, un épéiste illusoire frappe en effectuant une attaque de contact au corps à corps qui inflige des dégâts tranchants et un *mur de feu* illusoire inflige des dégâts de feu avec un jet de [Réflexes](./Réflexes.md) pour diminuer les dégâts de moitié.
+Par exemple, un *mur illusoire* qui s’effondre inflige des dégâts contondants avec un jet de Vigueur pour les diminuer de moitié, un épéiste illusoire frappe en effectuant une attaque de contact au corps à corps qui inflige des dégâts tranchants et un *mur de feu* illusoire inflige des dégâts de feu avec un jet de [[Réflexes]] pour diminuer les dégâts de moitié.

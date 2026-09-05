@@ -10,7 +10,7 @@ LastModified: 2020-09-21 18:12
 {s:pucem|Vermine|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 234*}
 - ** 600 PX**
-- [vermine](./type Vermine.md) ([nuée](./sous-type nuée.md)) de taille I, N
+- [[type vermine|vermine]] ([[sous-type nuée|nuée]]) de taille I, N
 - **Init **+2 ; **Sens** vision dans le noir à 18 m ; Perception +0
 (((Défense)))
 - **CA** 20, contact 20, pris au dépourvu 18 (Dex +2, taille +8)
@@ -25,7 +25,7 @@ LastModified: 2020-09-21 18:12
 (((Statistiques)))
 - **For** 1, **Dex** 15, **Con** 10, **Int** —, **Sag** 11, **Cha** 2
 - **BBA **+3 ; **BMO** — ; **DMD** —
-- **Compétences** [Escalade](./Escalade.md) +3, [Vol](./Vol.md) +10
+- **Compétences** [[Escalade]] +3, [[Vol]] +10
 (((Écologie)))
 - **Environnement** déserts ou plaines tempérées ou chaudes
 - **Organisation** solitaire, paire, nuée (3-20) ou fléau (21-100 ou plus)
@@ -40,9 +40,9 @@ LastModified: 2020-09-21 18:12
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Nuée de sauterelles](./Nuée de sauterelles.md) || 2
+| [[Nuée de sauterelles]] || 2
 |-
-| [Sauterelle géante](./Sauterelle géante.md) || 3
+| [[Sauterelle géante]] || 3
 |}
 </div>*Des milliers et des milliers de sauterelles voraces sautent et bourdonnent en une sombre nuée.*
 

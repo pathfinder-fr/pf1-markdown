@@ -11,22 +11,22 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) ; **Niveau** [Dru](./Druide.md) 8, [Prê](./Prêtre.md) 6, [Psy](./Psychiste.md) 7  
+**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Druide|Dru]] 8, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
-**Portée** [illimitée](./illimitée.md)  
+**Portée** [[illimitée]]  
 
 **Cible** le jeteur de sorts et des objets et créatures consentantes  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** aucun ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** non ou oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Jet de sauvegarde** aucun ou [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** non ou oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
-*Mot de rappel* téléporte instantanément le personnage dans son sanctuaire. Ce sanctuaire doit être désigné alors que le personnage prépare le sort, et il doit forcément s’agir d’un lieu que le [prêtre](./Prêtre.md) (ou le [druide](./Druide.md)) connaît très bien. Le point d’arrivée précis prend la forme d’une zone prévue pour l’occasion de trois mètres (2 cases) de côté ou moins. Il n’y a pas de limite de distance à l’utilisation de ce sort au sein d’un même plan, mais *mot de rappel* ne permet pas de passer d’un plan à un autre. Le lanceur de sorts peut emporter avec lui des objets, tant qu’il ne dépasse pas sa [charge maximale](./charge maximale.md). Il peut également téléporter une créature consentante de [taille M](./taille M.md) ou inférieure (portant équipement et objets dans la limite de sa [charge maximale](./charge maximale.md)) tous les trois [niveaux de lanceur de sorts](./niveau de lanceur de sorts.md). Une créature de [taille G](./taille G.md) vaut deux créatures de [taille M](./taille M.md), une créature de [taille TG](./taille TG.md) vaut deux créatures de [taille G](./taille G.md), etc. Toutes doivent être en contact les unes avec les autres, et l’une d’elles au moins doit toucher le [prêtre](./Prêtre.md) (ou [druide](./Druide.md)). S’il dépasse cette limite, le sort échoue automatiquement.
+*Mot de rappel* téléporte instantanément le personnage dans son sanctuaire. Ce sanctuaire doit être désigné alors que le personnage prépare le sort, et il doit forcément s’agir d’un lieu que le [[prêtre]] (ou le [[druide]]) connaît très bien. Le point d’arrivée précis prend la forme d’une zone prévue pour l’occasion de trois mètres (2 cases) de côté ou moins. Il n’y a pas de limite de distance à l’utilisation de ce sort au sein d’un même plan, mais *mot de rappel* ne permet pas de passer d’un plan à un autre. Le lanceur de sorts peut emporter avec lui des objets, tant qu’il ne dépasse pas sa [[charge maximale]]. Il peut également téléporter une créature consentante de [[taille M]] ou inférieure (portant équipement et objets dans la limite de sa [[charge maximale]]) tous les trois [[niveau de lanceur de sorts|niveaux de lanceur de sorts]]. Une créature de [[taille G]] vaut deux créatures de [[taille M]], une créature de [[taille TG]] vaut deux créatures de [[taille G]], etc. Toutes doivent être en contact les unes avec les autres, et l’une d’elles au moins doit toucher le [[prêtre]] (ou [[druide]]). S’il dépasse cette limite, le sort échoue automatiquement.
 
-Il est impossible de téléporter une créature ne souhaitant pas l’être. De même, le personnage ne peut emporter des objets appartenant à quelqu’un d’autre que si leur possesseur rate un jet de [Volonté](./Volonté.md) (et, le cas échéant, un test de [résistance à la magie](./RM.md)). Les objets non-magiques n’appartenant à personne n’ont pas droit au moindre [jet de sauvegarde](./jet de sauvegarde.md).
+Il est impossible de téléporter une créature ne souhaitant pas l’être. De même, le personnage ne peut emporter des objets appartenant à quelqu’un d’autre que si leur possesseur rate un jet de [[Volonté]] (et, le cas échéant, un test de [[RM|résistance à la magie]]). Les objets non-magiques n’appartenant à personne n’ont pas droit au moindre [[jet de sauvegarde]].
 
 {c:sort} {c:sort druide 8} {c:sort prêtre 6} {c:manuel des joueurs} {c:règles officielles}

@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les maléfices du personnage irradient de puissance persistante.*
 
-**Condition.** [Maléfice maudit](./Maléfice maudit.md)
+**Condition.** [[Maléfice maudit]]
 
 **Avantage.** Quand le personnage cible pour la deuxième fois une créature avec l’un de ces maléfices, celle-ci doit lancer deux jets de sauvegarde et conserver le pire.

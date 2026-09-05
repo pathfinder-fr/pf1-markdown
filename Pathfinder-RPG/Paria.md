@@ -12,18 +12,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Inq](./Inquisiteur.md) 3, [Méd](./Médium.md) 2, [Psy](./Psychiste.md) 4  
+**École** [[Abjuration]] ; **Niveau** [[Inquisiteur|Inq]] 3, [[Médium|Méd]] 2, [[Psychiste|Psy]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Avec une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md), le personnage frappe une créature et détruit toute magie qui la contrôle. La cible reçoit 2d8 points de dégâts +1 point par [niveau de lanceur de sorts](./NLS.md) (maximum +15). De plus, le personnage fait un test de dissipation contre tout effet de *possession* (y compris le pouvoir de [possession maléfique](./Fantôme, archétype.md) d'un [fantôme](./Fantôme, archétype.md)) et tout sort d'[enchantement](./Enchantement.md) ([coercition](./coercition.md)) qui affecte la cible, à commencer par le sort de plus haut niveau et en terminant par celui le plus bas. Considérez cet effet comme un sort de *[dissipation de la magie](./Dissipation de la magie.md)* capable de dissiper un sort par tranche de quatre [niveaux de lanceur de sorts](./NLS.md) du personnage. Un jet de [Volonté](./Volonté.md) réussi permet de réduire les dégâts de moitié et limite la dissipation à un seul sort ou effet.
+Avec une [[attaque de contact au corps à corps]], le personnage frappe une créature et détruit toute magie qui la contrôle. La cible reçoit 2d8 points de dégâts +1 point par [[NLS|niveau de lanceur de sorts]] (maximum +15). De plus, le personnage fait un test de dissipation contre tout effet de *possession* (y compris le pouvoir de [[fantôme, archétype|possession maléfique]] d'un [[fantôme, archétype|fantôme]]) et tout sort d'[[enchantement]] ([[coercition]]) qui affecte la cible, à commencer par le sort de plus haut niveau et en terminant par celui le plus bas. Considérez cet effet comme un sort de *[[dissipation de la magie]]* capable de dissiper un sort par tranche de quatre [[NLS|niveaux de lanceur de sorts]] du personnage. Un jet de [[Volonté]] réussi permet de réduire les dégâts de moitié et limite la dissipation à un seul sort ou effet.

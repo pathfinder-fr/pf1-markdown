@@ -10,8 +10,8 @@ Categories:
 
 {s:UC}*Le personnage est doué pour placer ses coups où il le souhaite.*
 
-**Conditions requises.** [Int](./Int.md) 13, [Expertise du combat](./Expertise du combat.md)
+**Conditions requises.** [[Int]] 13, [[Expertise du combat]]
 
-**Avantage.** Le personnage reçoit un bonus de +2 à son [jet d’attaque](./jet dattaque.md) lorsqu’il entreprend une [frappe ciblée](./Frappes ciblées.md). Quand le personnage choisit une [action simple](./Action simple.md) ou [complexe](./Action complexe.md) qui lui permet de multiples attaques, il peut remplacer une attaque simple par une [frappe ciblée](./Frappes ciblées.md). Le personnage ne peut tenter qu’une [frappe ciblée](./Frappes ciblées.md) par round.
+**Avantage.** Le personnage reçoit un bonus de +2 à son [[Jet dattaque|jet d’attaque]] lorsqu’il entreprend une [[Frappes ciblées|frappe ciblée]]. Quand le personnage choisit une [[action simple]] ou [[Action complexe|complexe]] qui lui permet de multiples attaques, il peut remplacer une attaque simple par une [[Frappes ciblées|frappe ciblée]]. Le personnage ne peut tenter qu’une [[Frappes ciblées|frappe ciblée]] par round.
 
-**Normal.** Le personnage peut entreprendre une [frappe ciblée](./Frappes ciblées.md) par round par une [action complexe](./Action complexe.md).
+**Normal.** Le personnage peut entreprendre une [[Frappes ciblées|frappe ciblée]] par round par une [[action complexe]].

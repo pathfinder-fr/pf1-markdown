@@ -11,12 +11,12 @@ Categories:
 
 {s:cs}{s:AMH}*Le poids de l'armure du personnage le rend solide sur les appuis.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise d'armure](./Dons.md#MAITRISEDARMURE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDARMURE|maîtrise d'armure]]
 
-**Conditions.** [BBA](./BBA.md) +6 ou [guerrier](./Guerrier.md) de niveau 4, capacité de classe [entrainement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES), formation au port des armures intermédiaires ou lourdes
+**Conditions.** [[BBA]] +6 ou [[guerrier]] de niveau 4, capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entrainement aux armures]], formation au port des armures intermédiaires ou lourdes
 
-**Avantage.** Le personnage considère sa [taille](./taille.md) comme étant d'une catégorie supérieure pour déterminer la taille des créatures contre lesquelles il peut réaliser une manœuvre de [bousculade](./bousculade.md), de [croc-en-jambe](./croc-en-jambe.md), d'[entraînement](./entraînement.md) et de [renversement](./renversement.md).
+**Avantage.** Le personnage considère sa [[taille]] comme étant d'une catégorie supérieure pour déterminer la taille des créatures contre lesquelles il peut réaliser une manœuvre de [[bousculade]], de [[croc-en-jambe]], d'[[entraînement]] et de [[renversement]].
 
 {s:AMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 3 points d’endurance par une [action rapide](./Action rapide.md) pour que l'augmentation effective de taille offerte par ce don dans le cadre de [manœuvres offensives](./Manœuvres offensives.md) spécifiques détermine également la taille minimum d'une créature qui souhaite effectuer ces manœuvres contre lui.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 3 points d’endurance par une [[action rapide]] pour que l'augmentation effective de taille offerte par ce don dans le cadre de [[manœuvres offensives]] spécifiques détermine également la taille minimum d'une créature qui souhaite effectuer ces manœuvres contre lui.

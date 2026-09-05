@@ -4,17 +4,17 @@ Title: L'inventeur (Playtest Guns & Gears)
 LastModified: 2021-01-15 21:02
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)   
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]   
 
-• [Retour à la page du playtest de Guns & Gears](./PlaytestGG.md)
+• [[PlaytestGG|Retour à la page du playtest de Guns & Gears]]
 
 ### Présentation générale
 
-• Voir l'[évolution de l'inventeur](./PlaytestGG Inventeur-évolution.md)  
+• Voir l'[[PlaytestGG Inventeur-évolution|évolution de l'inventeur]]  
 
-• Voir les [dons de classe d'inventeur](./PlaytestGG Inventeur-dons.md)
+• Voir les [[PlaytestGG Inventeur-dons|dons de classe d'inventeur]]
 
 *N’importe quel bricoleur peut suivre des instructions et fabriquer un engin, mais vous, vous inventez l’impossible ! Chaque gadget dont vous rêvez repousse la définition de ce qui est possible, même s’il ne fonctionne que pour vous. Poussé par l’envie d’innover, vous êtes constamment sur le point de réaliser de nouvelles découvertes.*
 

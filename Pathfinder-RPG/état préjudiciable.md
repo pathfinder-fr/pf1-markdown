@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.États préjudiciables
 ---
 
->>> [Pathfinder-RPG.États préjudiciables](./États préjudiciables.md)
+>>> [[Pathfinder-RPG.États préjudiciables]]

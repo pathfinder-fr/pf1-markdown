@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage peut parler et utiliser certains objets magiques lorsqu’il est sous forme animale.*
 
-**Condition.** [Incantation animale](./Incantation animale.md)
+**Condition.** [[Incantation animale]]
 
-**Avantage.** Lorsqu’il utilise [forme animale](./Forme animale.md), le personnage peut utiliser les objets à fin d’incantation et à potentiel magique qu’il portait au moment de son changement de forme. Il n’a pas besoin de manipuler physiquement ces objets quand il les utilise sous [forme animale](./Forme animale.md). De plus, il peut parler normalement lorsqu’il est sous [forme animale](./Forme animale.md).
+**Avantage.** Lorsqu’il utilise [[forme animale]], le personnage peut utiliser les objets à fin d’incantation et à potentiel magique qu’il portait au moment de son changement de forme. Il n’a pas besoin de manipuler physiquement ces objets quand il les utilise sous [[forme animale]]. De plus, il peut parler normalement lorsqu’il est sous [[forme animale]].

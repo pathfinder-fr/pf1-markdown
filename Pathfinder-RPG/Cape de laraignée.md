@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Cape de l’araignée|{s:AE}}
-**Aura** [Invocation](./Invocation.md) et [Transmutation](./Transmutation.md) faibles ; **NLS** 6 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 14 000 po ; **Poids** 0,5 kg
+**Aura** [[Invocation]] et [[Transmutation]] faibles ; **NLS** 6 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 14 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette cape noire ornée de fils de soie blanche dessinant une grande toile d’araignée permet à son porteur d’escalader les murs comme s’il bénéficiait du sort *[pattes d’araignée](./Pattes daraignée.md)*. Le personnage n’est par ailleurs pas gêné par les toiles, qu’elles soient tissées par de vraies araignées ou qu’elles résultent du sort *[toile d’araignée](./Toile daraignée.md)* (il peut même se déplacer au milieu d’elles, mais à mi-vitesse). Une fois par jour, l’aventurier peut lancer le sort *[toile d’araignée](./Toile daraignée.md)*. Il bénéficie finalement d’un bonus de chance permanent de +2 aux jets de [Vigueur](./Vigueur.md) contre le venin des araignées.
+Cette cape noire ornée de fils de soie blanche dessinant une grande toile d’araignée permet à son porteur d’escalader les murs comme s’il bénéficiait du sort *[[pattes daraignée|pattes d’araignée]]*. Le personnage n’est par ailleurs pas gêné par les toiles, qu’elles soient tissées par de vraies araignées ou qu’elles résultent du sort *[[toile daraignée|toile d’araignée]]* (il peut même se déplacer au milieu d’elles, mais à mi-vitesse). Une fois par jour, l’aventurier peut lancer le sort *[[toile daraignée|toile d’araignée]]*. Il bénéficie finalement d’un bonus de chance permanent de +2 aux jets de [[Vigueur]] contre le venin des araignées.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[pattes d’araignée](./Pattes daraignée.md)*, *[toile d’araignée](./Toile daraignée.md)* ; **Coût** 7 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[pattes daraignée|pattes d’araignée]]*, *[[toile daraignée|toile d’araignée]]* ; **Coût** 7 000 po
 </div>

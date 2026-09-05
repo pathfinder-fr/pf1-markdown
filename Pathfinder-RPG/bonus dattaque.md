@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Valeurs de combat#BONUSDATTAQUE
 ---
 
->>> [Valeurs de combat#BONUSDATTAQUE](./Valeurs de combat.md#BONUSDATTAQUE)
+>>> [[Valeurs de combat#BONUSDATTAQUE]]

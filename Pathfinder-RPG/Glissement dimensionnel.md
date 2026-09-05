@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [invocation](./Invocation.md) ([convocation](./convocation.md)) ; **Niveau** [magus](./Magus.md) 5, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 7, [sorcière](./Sorcière.md) 7  
+**École** [[invocation]] ([[convocation]]) ; **Niveau** [[magus]] 5, [[ensorceleur]]/[[magicien]] 7, [[sorcière]] 7  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
 
-**Restriction de cible** *[explosion](./Explosion.md)* (émanation)
+**Restriction de cible** *[[explosion]]* (émanation)
 
-Un sort incluant ce mot effet téléporte les cibles volontaires sur un autre [plan](./Plans.md) d’existence. Le personnage doit être l’une des cibles de son sort. Il ne peut contrôler la destination, il peut juste spécifier le [plan](./Plans.md) et faire arriver les cibles du sort dans un rayon de 3 à 300 km autour du point de destination.
+Un sort incluant ce mot effet téléporte les cibles volontaires sur un autre [[plans|plan]] d’existence. Le personnage doit être l’une des cibles de son sort. Il ne peut contrôler la destination, il peut juste spécifier le [[plans|plan]] et faire arriver les cibles du sort dans un rayon de 3 à 300 km autour du point de destination.

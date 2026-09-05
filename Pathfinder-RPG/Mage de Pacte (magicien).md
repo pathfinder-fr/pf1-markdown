@@ -17,19 +17,19 @@ Un magicien de pacte dont l’alignement s’éloigne de celui de l'extraplanair
 
 #### Familier (Ext)
 
-Un magicien de pacte doit choisir un familier de [magicien#PACTEMAGIQUE|pacte magique]. Le familier est loyal envers le protecteur du magicien, auquel il rapporte les activités de ce dernier. Cette aptitude modifie [magicien#PACTEMAGIQUE|pacte magique].
+Un magicien de pacte doit choisir un familier de [[magicien#PACTEMAGIQUE|pacte magique]]. Le familier est loyal envers le protecteur du magicien, auquel il rapporte les activités de ce dernier. Cette aptitude modifie [[magicien#PACTEMAGIQUE|pacte magique]].
 
 #### Pacte intense (Ext)
 
-Au niveau 1, un magicien de pacte doit choisir une école opposée supplémentaire, même s’il est [École universelle (école)|universaliste]. Il ne peut pas choisir [Invocation (école)|Invocation] comme école opposée. Cette aptitude modifie [magicien#École_de_magie_4|école de magie].
+Au niveau 1, un magicien de pacte doit choisir une école opposée supplémentaire, même s’il est [[École universelle (école)|universaliste]]. Il ne peut pas choisir [[Invocation (école)|Invocation]] comme école opposée. Cette aptitude modifie [[magicien#École_de_magie_4|école de magie]].
 
 #### Aura (Ext)
 
-Un magicien de pacte possède une aura correspondant à l’alignement de son protecteur. Cette aptitude fonctionne comme l'[prêtre#Aura_Ext_1|aura] d'un prêtre du même niveau que le niveau de magicien de pacte du personnage.
+Un magicien de pacte possède une aura correspondant à l’alignement de son protecteur. Cette aptitude fonctionne comme l'[[prêtre#Aura_Ext_1|aura]] d'un prêtre du même niveau que le niveau de magicien de pacte du personnage.
 
 #### Convocation de pacte (Ext)
 
-Un magicien de pacte peut choisir [Convocation sacrée](./Convocation sacrée.md) (Magie ultime p.155) comme don supplémentaire de magicien. Il ne peut utiliser ce don que pour convoquer des extérieurs appartenant au sous-type de son protecteur.
+Un magicien de pacte peut choisir [[Convocation sacrée]] (Magie ultime p.155) comme don supplémentaire de magicien. Il ne peut utiliser ce don que pour convoquer des extérieurs appartenant au sous-type de son protecteur.
 
 #### Familier véritable (Ext)
 

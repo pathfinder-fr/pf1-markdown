@@ -6,9 +6,9 @@ LastModified: 2024-05-31 21:01
 
 <div class="BD">
 {s:BDTitre|Fers à cheval de brume|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [pieds](./Objets merveilleux portés aux pieds.md) ; **Prix** 27 000 po ; **Poids** 6 kg
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 27 000 po ; **Poids** 6 kg
 (((Description)))
-Lorsqu’un cheval est ferré avec ces quatre fers, ils produisent de petits nuages de brume à chaque fois qu’un sabot frappe le sol. Sur commande, le cavalier et sa monture sont affectés par un effet équivalent à celui du sort *[état gazeux](./État gazeux.md)*. Si, pour une raison ou une autre, la monture et le cavalier sont séparés alors qu’ils sont sous forme gazeuse, l’effet prend fin immédiatement. Le pouvoir de ces fers à cheval fonctionne pendant 10 minutes par jour. La durée n’a pas besoin d’être continue mais doit obligatoirement se découper en tranches minimales de 1 minute.
+Lorsqu’un cheval est ferré avec ces quatre fers, ils produisent de petits nuages de brume à chaque fois qu’un sabot frappe le sol. Sur commande, le cavalier et sa monture sont affectés par un effet équivalent à celui du sort *[[état gazeux]]*. Si, pour une raison ou une autre, la monture et le cavalier sont séparés alors qu’ils sont sous forme gazeuse, l’effet prend fin immédiatement. Le pouvoir de ces fers à cheval fonctionne pendant 10 minutes par jour. La durée n’a pas besoin d’être continue mais doit obligatoirement se découper en tranches minimales de 1 minute.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[état gazeux](./État gazeux.md)* ; **Coût** 13 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[état gazeux]]* ; **Coût** 13 500 po
 </div>

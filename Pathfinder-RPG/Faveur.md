@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Glossaire Mythique#FAVEUR
 ---
 
->>> [Glossaire Mythique#FAVEUR](./Glossaire Mythique.md#FAVEUR)
+>>> [[Glossaire Mythique#FAVEUR]]

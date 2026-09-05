@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2 p.77*}
 {s:BDTexte|**PX** 4800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([aquatique](./sous-type aquatique.md), [daémon](./sous-type daémon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [détection de la magie](./Détection de la magie.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}); [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type aquatique|aquatique]], [[sous-type daémon|daémon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille G, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[détection de la magie]], [[vision dans le noir]] 18 m (12 {s:c}); [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 11, pris au dépourvu 18 (Dex +2, naturelle +9, taille -1)}
 {s:BDTexte|**pv** 95 (10d10+40)}
@@ -23,36 +23,36 @@ Categories:
 {s:BDTexte|**Immunités** acide, eaux du fleuve Styx, effets de mort, maladie, poison ; **RD**  10/fer froid ou argent ; **Résistance** électricité 10, feu 10, froid 10 ; **RM** 19}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 12 m (8 {s:c} moyenne ; voir planeur plus bas), nage 18 m (12 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +13 (1d8+4 plus [étreinte](./Étreinte.md)) et 2 griffes +13 (1d6+4)}
+{s:BDTexte|**Corps à corps** morsure +13 (1d8+4 plus [[étreinte]]) et 2 griffes +13 (1d6+4)}
 {s:BDTexte|**Distance** crachat du sommeil +11 (sommeil)}
 {s:BDTexte|**Espace** 3 m (2 c) ; **Allonge** 3 m (2 c)}
-{s:BDTexte|**Attaques spéciales** [pattes arrières](./Pattes arrière (capacité).md) (2 griffes +13, 1d6+4)}
+{s:BDTexte|**Attaques spéciales** [[pattes arrière (capacité)|pattes arrières]] (2 griffes +13, 1d6+4)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9 ; concentration +11)}
-{s:BDSorts|Constant — *[Détection de la magie](./Détection de la magie.md)*, *[marche sur l'onde](./Marche sur londe.md)*}
-{s:BDSorts|A volonté — *[Flèche acide](./Flèche acide.md)*, *[Ténèbres profondes](./Ténèbres profondes.md)*}
-{s:BDSorts|3/jour— *[Contrôle de l'eau](./Contrôle de leau.md)*, *[Convocation de monstres V (élémentaire de l'eau de taille G uniquement)](./Convocation de monstres V.md)*, *[téléportation suprême](./Téléportation suprême.md)* (personnel et 25 kg d’objets uniquement)}
-{s:BDSorts|1/jour— [convocation](./Convocation (capacité).md) (niveau 3, 1 hydrodaémon 50%), *[Profanation](./Profanation.md)*}
+{s:BDSorts|Constant — *[[Détection de la magie]]*, *[[marche sur londe|marche sur l'onde]]*}
+{s:BDSorts|A volonté — *[[Flèche acide]]*, *[[Ténèbres profondes]]*}
+{s:BDSorts|3/jour— *[[Contrôle de leau|Contrôle de l'eau]]*, *[[Convocation de monstres V|Convocation de monstres V (élémentaire de l'eau de taille G uniquement)]]*, *[[téléportation suprême]]* (personnel et 25 kg d’objets uniquement)}
+{s:BDSorts|1/jour— [[convocation (capacité)|convocation]] (niveau 3, 1 hydrodaémon 50%), *[[Profanation]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 15, **Con** 18, **Int** 9, **Sag** 11, **Cha** 14}
 {s:BDTexte|**BBA** +10, **BMO** +15 (+9 lutte), **DMD** 27}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)}
-{s:BDTexte|**Compétences** [Connaissances (plans)](./Connaissances.md) +10, [Discrétion](./Discrétion.md) +10, [Intimidation](./Intimidation.md) +14, [Natation](./Natation.md) +21, [Perception](./Perception.md) +15, [Psychologie](./Psychologie.md) +12 ,[Vol](./Vol.md)+0}
-{s:BDTexte|**Langues** abyssal, infernal ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md), planeur}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Talent]] ([[Perception]]), [[Tir à bout portant]], [[Tir de précision]]}
+{s:BDTexte|**Compétences** [[Connaissances|Connaissances (plans)]] +10, [[Discrétion]] +10, [[Intimidation]] +14, [[Natation]] +21, [[Perception]] +15, [[Psychologie]] +12 ,[[Vol]]+0}
+{s:BDTexte|**Langues** abyssal, infernal ; [[télépathie]] 30 m (20 {s:c})}
+{s:BDTexte|**Particularités** [[amphibie]], planeur}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abaddon)}
 {s:BDTexte|**Organisation sociale** solitaire, bande (2-5) ou foule (6-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Crachat du sommeil (Sur)** Un hydrodaémon peut projeter un crachat vers une unique cible située dans un rayon de 6 mètres. Si la cible est touchée, elle doit réussir un jet de Volonté de DD 19 pour ne pas tomber endormie pendant 6 rounds. Le DD du jet de sauvegarde dépend de la Constitution.}
-{s:BDTexte|**Planeur (Ext).** Un hydrodaémon peut se lancer dans les airs et planer pendant 1 minute. Il gagne alors une vitesse de vol de 12 mètres avec une manœuvrabilité moyenne. Lorsqu’il plane, l’hydrodaémon gagne la capacité de [bond](./Bond.md).}
+{s:BDTexte|**Planeur (Ext).** Un hydrodaémon peut se lancer dans les airs et planer pendant 1 minute. Il gagne alors une vitesse de vol de 12 mètres avec une manœuvrabilité moyenne. Lorsqu’il plane, l’hydrodaémon gagne la capacité de [[bond]].}
 
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 ''Ce  fiélon  ressemblant  à  une  grenouille  a  une  peau  moite  et  des  yeux
 laiteux qui semblent morts. Une large gueule garnie de dents acérées fend
 son visage en deux.''
 
-À  première  vue,  ces  créatures  ressemblent  à  des [bourbiérins](./Bourbiérin.md)
+À  première  vue,  ces  créatures  ressemblent  à  des [[bourbiérin|bourbiérins]]
 énormes et sales mais leur démarche menaçante, leurs yeux morts
 et leurs griffes acérées trahissent leur nature de fiélons. Dans leur
 environnement  d’origine,  les  hydrodaémons  nagent  au  sein  des

@@ -13,18 +13,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) <nowiki>[</nowiki>[mal](./Registre.md), [douleur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Psy](./Psychiste.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3  
+**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) <nowiki>[</nowiki>[[registre|mal]], [[registre|douleur]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
 
-L’[attaque de contact](./attaque de contact.md) du personnage inflige une difformité douloureuse à la cible. Ses membres se tordent et se recourbent tandis que son corps se contorsionne de façon incontrôlable alors qu’il change. À chaque [round](./round.md), la cible souffre d’une douleur insoutenable qui lui inflige 2d6 points de [dégâts non-létaux](./Dégâts non-létaux.md), 1 point d’affaiblissement de [Dextérité](./Dextérité.md) et 1 point d’affaiblissement de [Constitution](./Constitution.md). Sa [vitesse de base](./vitesse de déplacement.md) est réduite de 3 mètres. À son tour, une fois par [round](./round.md), par une [action libre](./Action libre.md), la cible peut tenter un nouveau jet de [Vigueur](./Vigueur.md) pour résister au sort pendant 1 [round](./round.md).
+L’[[attaque de contact]] du personnage inflige une difformité douloureuse à la cible. Ses membres se tordent et se recourbent tandis que son corps se contorsionne de façon incontrôlable alors qu’il change. À chaque [[round]], la cible souffre d’une douleur insoutenable qui lui inflige 2d6 points de [[dégâts non-létaux]], 1 point d’affaiblissement de [[Dextérité]] et 1 point d’affaiblissement de [[Constitution]]. Sa [[vitesse de déplacement|vitesse de base]] est réduite de 3 mètres. À son tour, une fois par [[round]], par une [[action libre]], la cible peut tenter un nouveau jet de [[Vigueur]] pour résister au sort pendant 1 [[round]].

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#DEFETENDUE
 ---
 
->>> [Présentation des sorts#DEFETENDUE](./Présentation des sorts.md#DEFETENDUE)
+>>> [[Présentation des sorts#DEFETENDUE]]

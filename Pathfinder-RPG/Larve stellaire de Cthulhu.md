@@ -10,7 +10,7 @@ LastModified: 2019-02-16 09:26
 {s:pucem|Aberration|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 174*}
 - 307 200 PX
-- [Aberration](./type Aberration.md) de taille TG, CM
+- [[type aberration|Aberration]] de taille TG, CM
 - **Init **+5 ; Sens vision aveugle 9 m, vision dans le noir 18 m ; Perception +37
 - **Aura **présence terrifiante (45 m, DD 29)
 (((Défense)))
@@ -24,15 +24,15 @@ LastModified: 2019-02-16 09:26
 - **Espace **4,50 m ; Allonge 9 m
 - **Attaques spéciales** constriction (1d8+8), esprit écrasant
 - **Pouvoirs magiques** (NLS 20 ; concentration +27)
-  - **Constant **– [esprit impénétrable](./Esprit impénétrable.md)
-  - *À volonté* – [songe](./Songe.md), [aliénation mentale](./Aliénation mentale.md) (DD 24), [cauchemar](./Cauchemar.md) (DD 22), [communication à distance](./Communication à distance.md)
-  - *3/jour* – [exigence](./Exigence.md) (DD 25)
-  - *1/jour* – [portail](./Portail.md)
+  - **Constant **– [[esprit impénétrable]]
+  - *À volonté* – [[songe]], [[aliénation mentale]] (DD 24), [[cauchemar]] (DD 22), [[communication à distance]]
+  - *3/jour* – [[exigence]] (DD 25)
+  - *1/jour* – [[portail]]
 (((Statistiques)))
 - **For **42, **Dex **13, **Con **30, **Int **23, **Sag **29, **Cha **24
 - **BBA **+18 ; **BMO **+36 (+38 en bousculade, +40 en lutte) ; **DMD **47 (49 contre la bousculade)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Frappe décisive](./Frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science du critique](./Science du critique.md) (griffe), [Science du critique](./Science du critique.md) (tentacule), [Volonté de fer](./Volonté de fer.md) 
-- **Compétences **[Art de la magie](./Art de la magie.md) +34, [Connaissances](./Connaissances.md) (mystères, géographie, plans) +31, [Intimidation](./Intimidation.md) +35, [Natation](./Natation.md) +52,  [Perception](./Perception.md) +37, [Psychologie](./Psychologie.md) +34, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +32, [Vol](./Vol.md) +25 
+- **Dons **[[Attaque en puissance]], [[Coup fabuleux]], [[Critique ralentissant]], [[Don pour les critiques]], [[Frappe décisive supérieure]], [[Frappe décisive]], [[science de linitiative|Science de l’initiative]], [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science de la volonté de fer]], [[Science du critique]] (griffe), [[Science du critique]] (tentacule), [[Volonté de fer]] 
+- **Compétences **[[Art de la magie]] +34, [[Connaissances]] (mystères, géographie, plans) +31, [[Intimidation]] +35, [[Natation]] +52,  [[Perception]] +37, [[Psychologie]] +34, [[utilisation dobjets magiques|Utilisation d’objets magiques]] +32, [[Vol]] +25 
 - **Langues** aklo ; télépathie 90 m 
 - **Particularités **compression, vol stellaire limité, ne respire pas
 (((Écologie)))
@@ -53,7 +53,7 @@ LastModified: 2019-02-16 09:26
 *Cette énorme et hideuse créature est de forme humanoïde, mais son odieux visage est couvert d’une masse de tentacules frétillants.*
 
 De tous les étranges et maléfiques occupants du vide entre les étoiles, rares sont ceux qui provoquent une terreur aussi intense que celle propagée par ces titanesques créatures. Elles proviennent d’une étoile démente dont la lumière ne peut être perçue par des télescopes conventionnels et le plus petit de ces béhémots fait presque 9 mètres de haut. De forme humanoïde, leur corps immense est enrobé d’une chair caoutchouteuse qui semble gigoter et s’agiter comme celle d’une vase semi-solide.
-D’énormes ailes semblables à celles d’un dragon, des pattes dotées de griffes meurtrières, un visage couvert de tentacules et des yeux extraterrestres rappelant ceux d’un poulpe viennent compléter l’aspect monstrueux de cette entité. Cette race malveillante porte un nom qu’aucune créature saine d’esprit ne devrait connaître. Les érudits mortels utilisent le nom que porte leur plus grand prêtre : ce sont les larves stellaires de [Cthulhu](./Cthulhu.md).
+D’énormes ailes semblables à celles d’un dragon, des pattes dotées de griffes meurtrières, un visage couvert de tentacules et des yeux extraterrestres rappelant ceux d’un poulpe viennent compléter l’aspect monstrueux de cette entité. Cette race malveillante porte un nom qu’aucune créature saine d’esprit ne devrait connaître. Les érudits mortels utilisent le nom que porte leur plus grand prêtre : ce sont les larves stellaires de [[Cthulhu]].
 
 
 Ces créatures sont dotées d’une anatomie étrange et altérable : leur forme est changeante. Elles peuvent rétracter certaines parties de leur corps et en agrandir d’autres à volonté. Elles utilisent souvent cette particularité pour augmenter drastiquement l’allonge de leurs griffes ou de leurs tentacules au combat, bien au-delà de celle dont disposent les créatures d’une forme et d’une taille équivalentes.
@@ -69,9 +69,9 @@ La seule récompense que les membres de ces sectes recevront en échange de leur
 
 Les plans des larves stellaires visant à éradiquer la vie s’échelonnent sur plusieurs centaines, voire plusieurs milliers d’années, mais cela ne doit pas être pris pour de la paresse ou de la lassitude. La préparation des mondes de l’univers doit suivre un programme précis, quoi qu’incompréhensible, car c’est uniquement lorsque les convergences cosmiques sont exactement en place et que les astres sont propices qu’elles mettent en oeuvre la dernière étape consistant à mettre fin à toute chose. Cette échéance à long terme donne l’opportunité  à certains mondes de découvrir l’influence des larves stellaires et de retarder, voire d’éliminer, le triste destin qu’elles leur réservent, mais ces échos de victoire sont plutôt rares face à la marée inéluctable du vide.
 
-Les larves stellaires de Cthulhu combattent de nombreuses autres races étranges qui n’appartiennent ni à ce temps, ni à cet espace, y compris les [choses très anciennes](./Chose très ancienne.md) et les serviteurs d’autres [Grands Anciens](./../Golarion/Grands Anciens.md). On sait
+Les larves stellaires de Cthulhu combattent de nombreuses autres races étranges qui n’appartiennent ni à ce temps, ni à cet espace, y compris les [[chose très ancienne|choses très anciennes]] et les serviteurs d’autres [[Grands Anciens]]. On sait
 également que certaines larves manipulent ces créatures, et d’autres races telles que les mi-go, qu’elles utilisent comme séides ou esclaves pour promouvoir leurs immortels projets.
 
-Les larves stellaires proviennent d’un monde lointain situé dans les profondeurs du vide. On peut en trouver dans  d’innombrables autres mondes où elles jouent le rôle de dieu ou de monstre, mais leur seigneur [Cthulhu](./Cthulhu.md) occupe une planète distante, à l’écart de tout monde couramment visité. Pourtant, alors que Cthulhu demeure prisonnier à l’intérieur de la cité putrescente de R’lyeh, au fin fond d’un vaste océan, ses visions se réverbèrent toujours dans l’esprit de ses larves qui les transmettent à leur tour à de nombreux poètes et philosophes endormis sur d’innombrables mondes. Guidées par leurs connaissances sur le grand projet de leur maître et par ses rêves au long cours, les larves stellaires de Cthulhu agissent sans relâche pour atteindre leurs objectifs.
+Les larves stellaires proviennent d’un monde lointain situé dans les profondeurs du vide. On peut en trouver dans  d’innombrables autres mondes où elles jouent le rôle de dieu ou de monstre, mais leur seigneur [[Cthulhu]] occupe une planète distante, à l’écart de tout monde couramment visité. Pourtant, alors que Cthulhu demeure prisonnier à l’intérieur de la cité putrescente de R’lyeh, au fin fond d’un vaste océan, ses visions se réverbèrent toujours dans l’esprit de ses larves qui les transmettent à leur tour à de nombreux poètes et philosophes endormis sur d’innombrables mondes. Guidées par leurs connaissances sur le grand projet de leur maître et par ses rêves au long cours, les larves stellaires de Cthulhu agissent sans relâche pour atteindre leurs objectifs.
 
 </div></td></tr></table>

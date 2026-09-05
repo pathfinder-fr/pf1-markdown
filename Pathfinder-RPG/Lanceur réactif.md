@@ -12,9 +12,9 @@ Categories:
 
 *Vous êtes prêt à incanter un sort de défense à tout moment.*
 
-**Condition.** [Attaques réflexes](./Attaques réflexes.md), [NLS](./NLS.md) 5
+**Condition.** [[Attaques réflexes]], [[NLS]] 5
 
-**Avantage.** Si le personnage rate un test de [Perception](./Perception.md) qui a pour conséquence de le rendre incapable d'agir au cours d'un [round de surprise](./round de surprise.md), il tire néanmoins son initiative. Il peut agir à son tour d'initiative durant le round de surprise mais seulement pour effectuer une [action simple](./Action simple.md) pour lancer un sort d'abjuration qui ne cible que lui.
+**Avantage.** Si le personnage rate un test de [[Perception]] qui a pour conséquence de le rendre incapable d'agir au cours d'un [[round de surprise]], il tire néanmoins son initiative. Il peut agir à son tour d'initiative durant le round de surprise mais seulement pour effectuer une [[action simple]] pour lancer un sort d'abjuration qui ne cible que lui.
 
 (((Reflexive Caster
 

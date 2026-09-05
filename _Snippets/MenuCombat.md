@@ -5,77 +5,77 @@
 <div class="presentation navmenu">
 ### Accès rapide aux sections sur le combat
 <table><tr style="vertical-align: top; text-align: left"><td width="20%">
-<ul><li>[Le déroulement d'un combat](./../Pathfinder-RPG/Déroulement dun combat.md)</li>
-<li>{s:PM|VALEURSCOMBAT}[Les valeurs de combat](./../Pathfinder-RPG/Valeurs de combat.md)
+<ul><li>[[Déroulement dun combat|Le déroulement d'un combat]]</li>
+<li>{s:PM|VALEURSCOMBAT}[[Valeurs de combat|Les valeurs de combat]]
 <ul ID="VALEURSCOMBAT" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[Jet d'attaque](./../Pathfinder-RPG/Valeurs de combat.md#JETDATTAQUE) et [bonus d'attaque](./../Pathfinder-RPG/Valeurs de combat.md#BONUSDATTAQUE)</li>
-<li>[Classe d’armure](./../Pathfinder-RPG/Valeurs de combat.md#CA)</li>
-<li>[Dégâts](./../Pathfinder-RPG/Valeurs de combat.md#DEGATS)</li>
-<li>[Points de vie](./../Pathfinder-RPG/Valeurs de combat.md#POINTSDEVIE)</li>
-<li>[Les attaques d'opportunité](./../Pathfinder-RPG/Valeurs de combat.md#ATTAQUEDOPPORTUNITE)</li>
-<li>[Vitesse de déplacement](./../Pathfinder-RPG/Valeurs de combat.md#VITESSEDEDEPLACEMENT)</li>
-<li>[Jets de sauvegarde](./../Pathfinder-RPG/Valeurs de combat.md#JETDESAUVEGARDE)</li>
+<li>[[Valeurs de combat#JETDATTAQUE|Jet d'attaque]] et [[Valeurs de combat#BONUSDATTAQUE|bonus d'attaque]]</li>
+<li>[[Valeurs de combat#CA|Classe d’armure]]</li>
+<li>[[Valeurs de combat#DEGATS|Dégâts]]</li>
+<li>[[Valeurs de combat#POINTSDEVIE|Points de vie]]</li>
+<li>[[Valeurs de combat#ATTAQUEDOPPORTUNITE|Les attaques d'opportunité]]</li>
+<li>[[Valeurs de combat#VITESSEDEDEPLACEMENT|Vitesse de déplacement]]</li>
+<li>[[Valeurs de combat#JETDESAUVEGARDE|Jets de sauvegarde]]</li>
 </ul></li>
-<li>{s:PM|ACTIONSCOMBAT}[Les actions en combat](./../Pathfinder-RPG/Types dactions.md)
+<li>{s:PM|ACTIONSCOMBAT}[[Types dactions|Les actions en combat]]
 <ul ID="ACTIONSCOMBAT" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[Actions simples](./../Pathfinder-RPG/Actions simples.md)</li>
-<li>[Actions de mouvement](./../Pathfinder-RPG/Actions de mouvement.md)</li>
-<li>[Actions complexes](./../Pathfinder-RPG/Actions complexes.md)</li>
-<li>[Actions libres](./../Pathfinder-RPG/Actions libres.md)</li>
-<li>[Actions rapides](./../Pathfinder-RPG/Actions rapides.md)</li>
-<li>[Actions immédiates](./../Pathfinder-RPG/Actions immédiates.md)</li>
-<li>[Pas de placement](./../Pathfinder-RPG/Actions diverses.md#PASDEPLACEMENT)</li>
-<li>[Utiliser un don/une compétence](./../Pathfinder-RPG/Actions diverses.md#UTILISERDON)</li>
+<li>[[Actions simples]]</li>
+<li>[[Actions de mouvement]]</li>
+<li>[[Actions complexes]]</li>
+<li>[[Actions libres]]</li>
+<li>[[Actions rapides]]</li>
+<li>[[Actions immédiates]]</li>
+<li>[[Actions diverses#PASDEPLACEMENT|Pas de placement]]</li>
+<li>[[Actions diverses#UTILISERDON|Utiliser un don/une compétence]]</li>
 </ul></li>
-<li>[Les blessures et la mort](./../Pathfinder-RPG/Blessures et mort.md)</li>
+<li>[[Blessures et mort|Les blessures et la mort]]</li>
 </ul>
 </td><td width="20%">
-<ul><li>[Les déplacements en combat](./../Pathfinder-RPG/Déplacement et position.md)</li>
-<li>[Les petites et grandes créatures](./../Pathfinder-RPG/Petites et grandes créatures.md)</li>
-<li>{s:PM|MODIFICATEURSCOMBAT}[Les modificateurs de combat](./../Pathfinder-RPG/Modificateurs de combat.md)</li>
+<ul><li>[[Déplacement et position|Les déplacements en combat]]</li>
+<li>[[Petites et grandes créatures|Les petites et grandes créatures]]</li>
+<li>{s:PM|MODIFICATEURSCOMBAT}[[Modificateurs de combat|Les modificateurs de combat]]</li>
 <ul ID="MODIFICATEURSCOMBAT" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[Abri](./../Pathfinder-RPG/Modificateurs de combat.md#ABRI)</li>
-<li>[Camouflage](./../Pathfinder-RPG/Modificateurs de combat.md#CAMOUFLAGE)</li>
-<li>[Prise en tenaille](./../Pathfinder-RPG/Modificateurs de combat.md#PRISEENTENAILLE)</li>
-<li>[Cible sans défense](./../Pathfinder-RPG/Modificateurs de combat.md#SANSDEFENSE)</li>
+<li>[[Modificateurs de combat#ABRI|Abri]]</li>
+<li>[[Modificateurs de combat#CAMOUFLAGE|Camouflage]]</li>
+<li>[[Modificateurs de combat#PRISEENTENAILLE|Prise en tenaille]]</li>
+<li>[[Modificateurs de combat#SANSDEFENSE|Cible sans défense]]</li>
 </ul></li>
-<li>{s:PM|ACTIONSSPECIALES}[Les actions spéciales](./../Pathfinder-RPG/Actions spéciales.md)
+<li>{s:PM|ACTIONSSPECIALES}[[Actions spéciales|Les actions spéciales]]
 <ul ID="ACTIONSSPECIALES" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[Aider quelqu'un](./../Pathfinder-RPG/Actions spéciales.md#AIDERQQN)</li>
-<li>[Lancer une arme à aspersion](./../Pathfinder-RPG/Actions spéciales.md#ARMEASPERSION)</li>
-<li>[Charge](./../Pathfinder-RPG/Actions spéciales.md#CHARGE)</li>
-<li>[Combat à deux armes](./../Pathfinder-RPG/Actions spéciales.md#COMBAT2ARMES)</li>
-<li>[Combat monté](./../Pathfinder-RPG/Actions spéciales.md#COMBATMONTE)</li>
-<li>[Feinte](./../Pathfinder-RPG/Actions spéciales.md#FEINTE)</li>
-<li>[Manœuvres offensives](./../Pathfinder-RPG/Manœuvres offensives.md)
-<ul><li>[Bousculade](./../Pathfinder-RPG/Manœuvres offensives.md#BOUSCULADE)</li>
-<li>[Croc-en-jambe](./../Pathfinder-RPG/Manœuvres offensives.md#CROCENJAMBE)</li>
-<li>[Désarmement](./../Pathfinder-RPG/Manœuvres offensives.md#DESARMEMENT)</li>
-<li>[Destruction](./../Pathfinder-RPG/Manœuvres offensives.md#DESTRUCTION)</li>
-<li>[Entraînement](./../Pathfinder-RPG/Manœuvres offensives.md#ENTRAINEMENT)</li>
-<li>[Lutte](./../Pathfinder-RPG/Manœuvres offensives.md#LUTTE)</li>
-<li>[Renversement](./../Pathfinder-RPG/Manœuvres offensives.md#RENVERSEMENT)</li>
-<li>[Repositionnemment](./../Pathfinder-RPG/Manœuvres offensives.md#REPOSITIONNEMENT)</li>
-<li>[Sale coup](./../Pathfinder-RPG/Manœuvres offensives.md#SALECOUP)</li>
-<li>[Subtilisation](./../Pathfinder-RPG/Manœuvres offensives.md#SUBTILISATION)</li>
+<li>[[Actions spéciales#AIDERQQN|Aider quelqu'un]]</li>
+<li>[[Actions spéciales#ARMEASPERSION|Lancer une arme à aspersion]]</li>
+<li>[[Actions spéciales#CHARGE|Charge]]</li>
+<li>[[Actions spéciales#COMBAT2ARMES|Combat à deux armes]]</li>
+<li>[[Actions spéciales#COMBATMONTE|Combat monté]]</li>
+<li>[[Actions spéciales#FEINTE|Feinte]]</li>
+<li>[[Manœuvres offensives]]
+<ul><li>[[Manœuvres offensives#BOUSCULADE|Bousculade]]</li>
+<li>[[Manœuvres offensives#CROCENJAMBE|Croc-en-jambe]]</li>
+<li>[[Manœuvres offensives#DESARMEMENT|Désarmement]]</li>
+<li>[[Manœuvres offensives#DESTRUCTION|Destruction]]</li>
+<li>[[Manœuvres offensives#ENTRAINEMENT|Entraînement]]</li>
+<li>[[Manœuvres offensives#LUTTE|Lutte]]</li>
+<li>[[Manœuvres offensives#RENVERSEMENT|Renversement]]</li>
+<li>[[Manœuvres offensives#REPOSITIONNEMENT|Repositionnemment]]</li>
+<li>[[Manœuvres offensives#SALECOUP|Sale coup]]</li>
+<li>[[Manœuvres offensives#SUBTILISATION|Subtilisation]]</li>
 </ul>
 </ul></li>
 </ul>
 </td><td width="20%">
-<ul><li>[Les actions modifiant l'initiative](./../Pathfinder-RPG/Actions modifiant linitiative.md)</li>
-<li>[Les états préjudiciables](./../Pathfinder-RPG/États préjudiciables.md)</li>
-<li>[Les capacités spéciales](./../Pathfinder-RPG/Capacités spéciales.md)</li>
+<ul><li>[[Actions modifiant linitiative|Les actions modifiant l'initiative]]</li>
+<li>[[États préjudiciables|Les états préjudiciables]]</li>
+<li>[[Capacités spéciales|Les capacités spéciales]]</li>
 </ul>
 </td><td width="20%">
-<ul><li>[Les combats de spectacle](./../Pathfinder-RPG/Combat de spectacle.md)</li>
-<li>[Les duels](./../Pathfinder-RPG/Duels.md)</li>
-<li>[Les points héroïques](./../Pathfinder-RPG/Points héroïques.md)</li>
-<li>{s:PM|REGLESALTERNATIVES}[Règles alternatives de l'AG](./../Pathfinder-RPG/Régles alternatives.md)
+<ul><li>[[Combat de spectacle|Les combats de spectacle]]</li>
+<li>[[Duels|Les duels]]</li>
+<li>[[Points héroïques|Les points héroïques]]</li>
+<li>{s:PM|REGLESALTERNATIVES}[[Régles alternatives|Règles alternatives de l'AG]]
 <ul ID="REGLESALTERNATIVES" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[L'armure comme réduction de dégâts](./../Pathfinder-RPG/Larmure comme RD.md)</li>
-<li>[Les frappes ciblées](./../Pathfinder-RPG/Frappes ciblées.md)</li>
-<li>[Les pièces d'armure](./../Pathfinder-RPG/Pièces darmures.md) ([descriptions](./../Pathfinder-RPG/Description des pièces darmure.md))</li>
-<li>[Blessures et vitalité](./../Pathfinder-RPG/Blessures et vitalité.md)</li>
+<li>[[Larmure comme RD|L'armure comme réduction de dégâts]]</li>
+<li>[[Frappes ciblées|Les frappes ciblées]]</li>
+<li>[[Pièces darmures|Les pièces d'armure]] ([[Description des pièces darmure|descriptions]])</li>
+<li>[[Blessures et vitalité]]</li>
 </ul></li>
 </ul>
 </td></tr></table></div>

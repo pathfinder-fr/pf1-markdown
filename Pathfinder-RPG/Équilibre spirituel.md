@@ -6,8 +6,8 @@ LastModified: 2017-11-30 20:46
 
 {s:AO}*Le personnage concentre son ki afin de réprimer l’influence des esprits extérieurs.*
 
-**Conditions.** Pouvoirs de classe [réserve de ki](./Moine.md#RESERVEDEKI) et [sérénité](./Moine.md#SERENITE).
+**Conditions.** Pouvoirs de classe [[moine#RESERVEDEKI|réserve de ki]] et [[moine#SERENITE|sérénité]].
 
-**Avantage.** Le bonus de [sérénité](./Moine.md#SERENITE) aux [jets de sauvegarde](./jet de sauvegarde.md) s’applique contre les effets de [possession](./Possession spirituelle.md). Le personnage peut dépenser une [action immédiate](./Types dactions.md#IMMEDIATE) et un point de ki pour doubler le bonus de [sérénité](./Moine.md#SERENITE) au [jet de sauvegarde](./jet de sauvegarde.md).
+**Avantage.** Le bonus de [[moine#SERENITE|sérénité]] aux [[jet de sauvegarde|jets de sauvegarde]] s’applique contre les effets de [[possession spirituelle|possession]]. Le personnage peut dépenser une [[types dactions#IMMEDIATE|action immédiate]] et un point de ki pour doubler le bonus de [[moine#SERENITE|sérénité]] au [[jet de sauvegarde]].
 
-**Normal.** Le pouvoir de classe [sérénité](./Moine.md#SERENITE) s’applique seulement contre les sorts et effets d’[enchantement](./Enchantement.md).
+**Normal.** Le pouvoir de classe [[moine#SERENITE|sérénité]] s’applique seulement contre les sorts et effets d’[[enchantement]].

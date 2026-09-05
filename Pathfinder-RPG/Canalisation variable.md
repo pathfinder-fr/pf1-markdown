@@ -12,9 +12,9 @@ Categories:
 
 *Le personnage modifie les énergies canalisées en fonction des préceptes de sa divinité.*
 
-**Condition.** Capacités de classe [domaine](./Prêtre.md#DOMAINE) et [canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE), doit vénérer et recevoir des sorts d'une divinité
+**Condition.** Capacités de classe [[Prêtre#DOMAINE|domaine]] et [[Prêtre#CANALISATIONDENERGIE|canalisation d'énergie]], doit vénérer et recevoir des sorts d'une divinité
 
-**Avantage.** Le personnage choisi une [variante de canalisation](./Variantes de canalisation.md). La variante choisie doit correspondre aux domaines ou sous-domaines de la divinité vénérée par le personnage, ou à un centre d’intérêt qui la concerne. Trois fois par jour, lorsqu'il canalise de l’énergie, le personnage peut appliquer les modifications de la variante de canalisation choisie, incluant les réductions ou augmentations aux dégâts ou aux soins qu'il inflige. Si le personnage dispose déjà d’une variante de canalisation, ce don lui permet à la place de canaliser l’énergie sans les modifications de sa variante de canalisation (incluant les réductions aux dégâts ou les soins qu'il dispense) trois fois par jour.
+**Avantage.** Le personnage choisi une [[variantes de canalisation|variante de canalisation]]. La variante choisie doit correspondre aux domaines ou sous-domaines de la divinité vénérée par le personnage, ou à un centre d’intérêt qui la concerne. Trois fois par jour, lorsqu'il canalise de l’énergie, le personnage peut appliquer les modifications de la variante de canalisation choisie, incluant les réductions ou augmentations aux dégâts ou aux soins qu'il inflige. Si le personnage dispose déjà d’une variante de canalisation, ce don lui permet à la place de canaliser l’énergie sans les modifications de sa variante de canalisation (incluant les réductions aux dégâts ou les soins qu'il dispense) trois fois par jour.
 
 **Spécial.** Ce don peut être pris deux fois. La seconde fois, le personnage peut utiliser la variante de canalisation d’énergie à chaque fois qu'il canalise de l’énergie et non plus trois fois par jour.
 

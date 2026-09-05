@@ -10,7 +10,7 @@ LastModified: 2020-09-18 04:08
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 52*}
 - **200 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille M, N
+- [[type mort-vivant|Mort-vivant]] de taille M, N
 - **Init **+0 ; **Sens** vision dans le noir à 18 m ; Perception +0
 (((Défense)))
 - **CA** 12, contact 10, pris au dépourvu 12 (naturelle +2)
@@ -22,11 +22,11 @@ LastModified: 2020-09-18 04:08
 - **Corps à corps** coup, +3 (1d4+3 plus vase effroyable)
 - **Attaque spéciale** vase effroyable
 - **Pouvoirs magiques** (**NLS** 1 ; concentration +1)
-- Constant — *[marche dans les airs](./Marche dans les airs.md)*
+- Constant — *[[marche dans les airs]]*
 (((Statistiques)))
 - **For** 16, **Dex** 11, **Con** —, **Int** —, **Sag** 10, **Cha** 12
 - **BBA **+0 ; **BMO **+3 ; **DMD** 13
-- **Dons** [Robustesse](./Robustesse.md)<sup>S</sup>
+- **Dons** [[Robustesse]]<sup>S</sup>
 - **Particularités** vacillement de phase
 (((Écologie)))
 - **Environnement** tous
@@ -38,5 +38,5 @@ LastModified: 2020-09-18 04:08
 
 </div>
 </td><td><div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature ectoplasmique](./Créature ectoplasmique, archétype.md).***</li></ul>Cette masse visqueuse et changeante a une silhouette humanoïde mais elle est constituée de ce qui semble être une sorte de corde ou de tissu collant.
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature ectoplasmique, archétype|Créature ectoplasmique]].***</li></ul>Cette masse visqueuse et changeante a une silhouette humanoïde mais elle est constituée de ce qui semble être une sorte de corde ou de tissu collant.
 </div></td></tr></table>

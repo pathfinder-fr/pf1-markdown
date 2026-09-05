@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.42*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 12 (Dex +1, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 6 (1d8+2)}
@@ -25,8 +25,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 13, **Con** 15, **Int** 2, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 11 (15 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +1 (+9 pour sauter), [Perception](./Perception.md) +8, [Survie](./Survie.md) +1 (+5 pour pister à l'odorat) ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4 pour sauter, [Survie](./Survie.md) +4 pour pister à l'odorat}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +1 (+9 pour sauter), [[Perception]] +8, [[Survie]] +1 (+5 pour pister à l'odorat) ; **Modificateurs raciaux** [[Acrobaties]] +4 pour sauter, [[Survie]] +4 pour pister à l'odorat}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-12)}
@@ -38,9 +38,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Chien](./Chien.md) || 1/3
+| [[Chien]] || 1/3
 |-
-| [Chien de selle](./Chien de selle.md) || 1
+| [[Chien de selle]] || 1
 |}
 </div>*La faim transparaît dans les yeux brun foncé de ce petit chien à la fourrure éparse.*
 
@@ -69,12 +69,12 @@ Une créature enragée peut transmettre la rage en
 mordant une victime. Son FP augmente de +1 (ou d’une
 catégorie de FP si celui-ci est inférieur à 1).
 
-**[Rage](./Maladies.md#RAGE).** *Type* maladie, blessure ; *Jet de sauvegarde* Vigueur DD 14 ; *Temps d’incubation* 2d6 semaines ; *Fréquence* 1/jour ; *Effet* affaiblissement temporaire de 1 point de Con et de 1d3 points de Sag (sans faire passer la Sagesse en-dessous de 1) ; *Guérison* 2 réussites consécutives.
+**[[Maladies#RAGE|Rage]].** *Type* maladie, blessure ; *Jet de sauvegarde* Vigueur DD 14 ; *Temps d’incubation* 2d6 semaines ; *Fréquence* 1/jour ; *Effet* affaiblissement temporaire de 1 point de Con et de 1d3 points de Sag (sans faire passer la Sagesse en-dessous de 1) ; *Guérison* 2 réussites consécutives.
 
 
 #### Le chien comme compagnon animal
 
-**Caractéristiques de départ** **Taille** P ; **Vitesse** 12 m (8 {s:c})  ; **CA** armure naturelle +2 ; **Attaque** morsure (1d4) ; **Caractéristiques** For 13, Dex 17, Con 15, Int 2, Sag 12, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ** **Taille** P ; **Vitesse** 12 m (8 {s:c})  ; **CA** armure naturelle +2 ; **Attaque** morsure (1d4) ; **Caractéristiques** For 13, Dex 17, Con 15, Int 2, Sag 12, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4** : **Taille** M ; **Attaque** morsure (1d6) ; **Caractéristiques** For +4, Dex –2, Con +2.
 </div></td></tr></table>

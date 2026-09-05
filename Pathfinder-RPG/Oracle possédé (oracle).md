@@ -14,12 +14,12 @@ Categories:
 N’importe
 
 #### Malédiction d’oracle
-Au niveau 1, l’oracle possédé doit choisir la [malédiction](./Oracle.md#MALEDICTIONDELORACLE) hanté ou multilingue.
+Au niveau 1, l’oracle possédé doit choisir la [[oracle#MALEDICTIONDELORACLE|malédiction]] hanté ou multilingue.
 
 #### Sorts supplémentaires
-*[Ventriloquie](./Ventriloquie.md)* (1), *[pattes d’araignée](./Pattes daraignée.md)* (4), *[cri strident](./Cri strident.md)* (6), *[somnambulisme](./Somnambulisme.md)* (8), *[télékinésie](./Télékinésie.md)* (10), *[animation d’objets](./Animation dobjets.md)* (12), *[réceptacle divin](./Réceptacle divin.md)* (16) Ces sorts supplémentaires remplacent ceux accordés par le [mystère](./mystères.md) de l’[oracle](./Oracle.md) aux niveaux appropriés.
+*[[Ventriloquie]]* (1), *[[pattes daraignée|pattes d’araignée]]* (4), *[[cri strident]]* (6), *[[somnambulisme]]* (8), *[[télékinésie]]* (10), *[[animation dobjets|animation d’objets]]* (12), *[[réceptacle divin]]* (16) Ces sorts supplémentaires remplacent ceux accordés par le [[mystères|mystère]] de l’[[oracle]] aux niveaux appropriés.
 
 #### Révélations
-Au niveau 1, l’oracle possédé doit choisir la [révélation](./Oracle.md#REVELATION) suivante.
+Au niveau 1, l’oracle possédé doit choisir la [[oracle#REVELATION|révélation]] suivante.
 
-*Deux esprits (Sur).* L’[oracle](./Oracle.md) gagne un bonus de +2 aux jets de [Volonté](./Volonté.md) contre les effets et sorts d’[enchantement](./Enchantement.md). Au niveau 7, il peut refaire un jet de [Volonté](./Volonté.md) raté une fois par jour par une [action immédiate](./Action immédiate.md). Il doit conserver le résultat du second jet, même s’il est pire.
+*Deux esprits (Sur).* L’[[oracle]] gagne un bonus de +2 aux jets de [[Volonté]] contre les effets et sorts d’[[enchantement]]. Au niveau 7, il peut refaire un jet de [[Volonté]] raté une fois par jour par une [[action immédiate]]. Il doit conserver le résultat du second jet, même s’il est pire.

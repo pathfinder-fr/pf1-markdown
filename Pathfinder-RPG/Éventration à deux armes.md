@@ -9,15 +9,15 @@ Categories:
 
 *En frappant simultanément avec ses deux armes, le personnage cause de terrifiantes blessures.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 17, [Combat à deux armes](./Combat à deux armes.md), [Double frappe](./Double frappe.md), [Science du combat à deux armes](./Science du combat à deux armes.md), [bonus de base à l’attaque](./BBA.md) +11.
+**Conditions.** [[Dextérité|Dex]] 17, [[Combat à deux armes]], [[Double frappe]], [[Science du combat à deux armes]], [[BBA|bonus de base à l’attaque]] +11.
 
-**Avantage.** Si le personnage touche son adversaire avec ses deux armes, il lui inflige 1d10 points de dégâts supplémentaires plus 1,5 fois son modificateur de [Force](./Force.md). Le personnage ne peut faire de tels dégâts qu’une fois par [round](./round.md).
+**Avantage.** Si le personnage touche son adversaire avec ses deux armes, il lui inflige 1d10 points de dégâts supplémentaires plus 1,5 fois son modificateur de [[Force]]. Le personnage ne peut faire de tels dégâts qu’une fois par [[round]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance pour bénéficier des avantages de ce don une deuxième fois au cours d’un même [round](./round.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance pour bénéficier des avantages de ce don une deuxième fois au cours d’un même [[round]].
 
 {s:CMy}
 ### Version mythique
@@ -25,4 +25,4 @@ Le personnage peut dépenser 5 points d’endurance pour bénéficier des avanta
 
 **Condition.** Éventration à deux armes
 
-**Avantage.** Les dégâts infligés par l’Éventration à deux armes s’élèvent désormais à 2d8 plus deux fois le modificateur de [Force](./Force.md) du personnage. Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour gagner un bonus sur ces dégâts égal à deux fois son [grade](./Grade.md).
+**Avantage.** Les dégâts infligés par l’Éventration à deux armes s’élèvent désormais à 2d8 plus deux fois le modificateur de [[Force]] du personnage. Il peut dépenser une utilisation de [[pouvoir mythique]] pour gagner un bonus sur ces dégâts égal à deux fois son [[grade]].

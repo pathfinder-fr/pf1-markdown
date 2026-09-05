@@ -8,6 +8,6 @@ Categories:
 - Thuvie
 ---
 
-Ce fleuve du nord du [Garund](./Garund.md) prend sa source en [Thuvie](./Thuvie.md), au pied de la cité-état de [Duwwor](./Duwwor.md) dans la chaîne de la [Barrière](./Barrière.md).
+Ce fleuve du nord du [[Garund]] prend sa source en [[Thuvie]], au pied de la cité-état de [[Duwwor]] dans la chaîne de la [[Barrière]].
 
-Il sert sur sa partie finale de frontière avec le [Rahadoum](./Rahadoum.md) avant de se jeter dans la [mer Intérieure](./mer Intérieure.md).
+Il sert sur sa partie finale de frontière avec le [[Rahadoum]] avant de se jeter dans la [[mer Intérieure]].

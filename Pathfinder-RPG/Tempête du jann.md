@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*La volée de coups du personnage déséquilibre souvent ses adversaires. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [École du jann](./École du jann.md), [Science du combat à mains nues](./Science du combat à mains nues.md), 5 rangs en [Acrobaties](./Acrobaties.md), 5 rangs en [Représentation](./Représentation.md) (danse)
+**Conditions.** [[École du jann]], [[Science du combat à mains nues]], 5 rangs en [[Acrobaties]], 5 rangs en [[Représentation]] (danse)
 
-**Avantage.** Quand le personnage utilise l’[École du jann](./École du jann.md), qu’il fait une attaque à mains nues et touche, il gagne un bonus de +4 aux tests de [bousculade](./bousculade.md) ou de [croc-en-jambe](./croc-en-jambe.md) contre son adversaire, tant qu’il fait ce test juste après l’attaque et avant la fin de son tour. Cette manœuvre ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md) de la part de sa cible.
+**Avantage.** Quand le personnage utilise l’[[École du jann]], qu’il fait une attaque à mains nues et touche, il gagne un bonus de +4 aux tests de [[bousculade]] ou de [[croc-en-jambe]] contre son adversaire, tant qu’il fait ce test juste après l’attaque et avant la fin de son tour. Cette manœuvre ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]] de la part de sa cible.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage touche un adversaire avec une attaque à mains nues alors qu’il utilise l’[École du jann](./École du jann.md), il peut dépenser 2 points d’endurance pour augmenter le bonus de ce don de 2. Il peut aussi dépenser 2 points d’endurance pour appliquer le bonus du don aux tests de manœuvres offensives d’[entraînement](./entraînement.md) et de [repositionnement](./repositionnement.md) au lieu de [bousculade](./bousculade.md) ou de [croc-en-jambe](./croc-en-jambe.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage touche un adversaire avec une attaque à mains nues alors qu’il utilise l’[[École du jann]], il peut dépenser 2 points d’endurance pour augmenter le bonus de ce don de 2. Il peut aussi dépenser 2 points d’endurance pour appliquer le bonus du don aux tests de manœuvres offensives d’[[entraînement]] et de [[repositionnement]] au lieu de [[bousculade]] ou de [[croc-en-jambe]].

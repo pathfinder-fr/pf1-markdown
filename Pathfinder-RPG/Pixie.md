@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.242}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Fée](./type Fée.md) de taille P, NB}
-{s:BDTexte|**Init** +5 ; **Sens** *[détection de la Loi](./Détection de la Loi.md)*, *[détection du Bien](./Détection du Bien.md)*, *[détection du Chaos](./Détection du Chaos.md)*, *[détection du Mal](./Détection du Mal.md)*, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Fée|Fée]] de taille P, NB}
+{s:BDTexte|**Init** +5 ; **Sens** *[[détection de la Loi]]*, *[[détection du Bien]]*, *[[détection du Chaos]]*, *[[détection du Mal]]*, [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 17, pris au dépourvu 12 (Dex +5, esquive +1, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 18 (4d6+4)}
@@ -27,24 +27,24 @@ Categories:
 {s:BDTexte|**Distance** arc long, +8 (1d6-2/x3)}
 {s:BDTexte|**Attaques spéciales** flèches spéciales}
 {s:BDTexte|**Pouvoirs magiques** (NLS 8<sup>e</sup>)}
-{s:BDSorts|Constant — *[détection de la Loi](./Détection de la Loi.md)*, *[détection du Bien](./Détection du Bien.md)*, *[détection du Chaos](./Détection du Chaos.md)*, *[détection du Mal](./Détection du Mal.md)*}
-{s:BDSorts|1/jour — *[bouclier](./Bouclier.md)*, *[confusion mineure](./Confusion mineure.md)* (DD 14), *[détection de pensées](./Détection de pensées.md)* (DD 15), *[dissipation de la magie](./Dissipation de la magie.md)*, *[enchevêtrement](./Enchevêtrement.md)* (DD 14), *[image permanente](./Image permanente.md)* (DD 19; éléments visuels et sonores uniquement), *[lumières dansantes](./Lumières dansantes.md)*}
+{s:BDSorts|Constant — *[[détection de la Loi]]*, *[[détection du Bien]]*, *[[détection du Chaos]]*, *[[détection du Mal]]*}
+{s:BDSorts|1/jour — *[[bouclier]]*, *[[confusion mineure]]* (DD 14), *[[détection de pensées]]* (DD 15), *[[dissipation de la magie]]*, *[[enchevêtrement]]* (DD 14), *[[image permanente]]* (DD 19; éléments visuels et sonores uniquement), *[[lumières dansantes]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 7, **Dex** 21, **Con** 12, **Int** 16, **Sag** 15, **Cha** 16}
 {s:BDTexte|**BBA** +2, **BMO** -1, **DMD** 15}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +12, [Bluff](./Bluff.md) +10, [Connaissances](./Connaissances.md) (nature) +10, [Discrétion](./Discrétion.md) +16, [Évasion](./Évasion.md) +12, [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +9, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +10, [Vol](./Vol.md) +18}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Esquive]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +12, [[Bluff]] +10, [[Connaissances]] (nature) +10, [[Discrétion]] +16, [[Évasion]] +12, [[Perception]] +9, [[Psychologie]] +9, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +10, [[Vol]] +18}
 {s:BDTexte|**Langues** commun, sylvestre}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, bande (2-4), groupe (6-11) ou tribu (20-80)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Flèches spéciales (Sur).** Lorsqu'un pixie tire une flèche (à partir de n'importe quel arc), il peut décider d'en changer les propriétés en la saupoudrant de poussière magique de pixie. Cela ne prend qu'une [action libre](./Action libre.md), pour autant que le pixie décoche la flèche elle-même. Chaque jour, un pixie peut créer suffisamment de poussière pour un nombre d'utilisations égal à sa valeur de [Charisme](./Charisme.md) (16 utilisations par jour pour la plupart des pixies). Les autres créatures ne peuvent pas utiliser la poussière de pixie, à moins que le pixie ne la donne librement. Dans ce cas, le pixie choisit l'effet que la poussière aura sur la flèche et cette application nécessite une [action simple](./Action simple.md). Une fois la flèche saupoudrée de poussière, l'effet choisi ne persiste que pendant 1 round. Les flèches ainsi altérées n'infligent aucun dégât lorsqu'elles touchent leur cible. Elles provoquent seulement l'effet choisi. Un pixie peut opter pour l'un des trois effets suivants lorsqu'il saupoudre une flèche. Les [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) dépendent du [Charisme](./Charisme.md).}
-{s:BDTexte|:*Charme.* La cible doit réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 15 pour ne pas être affecté par un effet similaire à un sort de *[charme-monstre](./Charme-monstre.md)* pendant 10 minutes.}
-{s:BDTexte|:*Perte de mémoire.* La cible doit réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 15 pour ne pas être affectée par un sort de *[modification de mémoire](./Modification de mémoire.md)* (cet effet peut seulement éliminer les souvenirs des 5 dernières minutes ; le pixie utilise généralement cette capacité pour forcer une créature à oublier leur rencontre, afin qu'elle ne le traque pas lorsqu'il fuira).}
-{s:BDTexte|:*Sommeil.* La cible doit réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 15 pour ne pas s'endormir pendant 5 minutes.}
-{s:BDTexte|**Invisibilité (Sur).** Les pixies restent [invisibles](./Invisible.md) même lorsqu'ils attaquent. Il s'agit d'une capacité constante que les pixies peuvent interrompre ou réactiver par une [action libre](./Action libre.md).}
+{s:BDTexte|**Flèches spéciales (Sur).** Lorsqu'un pixie tire une flèche (à partir de n'importe quel arc), il peut décider d'en changer les propriétés en la saupoudrant de poussière magique de pixie. Cela ne prend qu'une [[action libre]], pour autant que le pixie décoche la flèche elle-même. Chaque jour, un pixie peut créer suffisamment de poussière pour un nombre d'utilisations égal à sa valeur de [[Charisme]] (16 utilisations par jour pour la plupart des pixies). Les autres créatures ne peuvent pas utiliser la poussière de pixie, à moins que le pixie ne la donne librement. Dans ce cas, le pixie choisit l'effet que la poussière aura sur la flèche et cette application nécessite une [[action simple]]. Une fois la flèche saupoudrée de poussière, l'effet choisi ne persiste que pendant 1 round. Les flèches ainsi altérées n'infligent aucun dégât lorsqu'elles touchent leur cible. Elles provoquent seulement l'effet choisi. Un pixie peut opter pour l'un des trois effets suivants lorsqu'il saupoudre une flèche. Les [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] dépendent du [[Charisme]].}
+{s:BDTexte|:*Charme.* La cible doit réussir un jet de [[Volonté]] de [[DD]] 15 pour ne pas être affecté par un effet similaire à un sort de *[[charme-monstre]]* pendant 10 minutes.}
+{s:BDTexte|:*Perte de mémoire.* La cible doit réussir un jet de [[Volonté]] de [[DD]] 15 pour ne pas être affectée par un sort de *[[modification de mémoire]]* (cet effet peut seulement éliminer les souvenirs des 5 dernières minutes ; le pixie utilise généralement cette capacité pour forcer une créature à oublier leur rencontre, afin qu'elle ne le traque pas lorsqu'il fuira).}
+{s:BDTexte|:*Sommeil.* La cible doit réussir un jet de [[Volonté]] de [[DD]] 15 pour ne pas s'endormir pendant 5 minutes.}
+{s:BDTexte|**Invisibilité (Sur).** Les pixies restent [[invisible|invisibles]] même lorsqu'ils attaquent. Il s'agit d'une capacité constante que les pixies peuvent interrompre ou réactiver par une [[action libre]].}
 </div>
 </td><td><div>''Ce petit humanoïde d’apparence espiègle vole à toute vitesse et dans toutes
 les directions grâce à ses ailes diaphanes de couleur vive.''

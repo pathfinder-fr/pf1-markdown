@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2.000 po ; **Poids** 8 tonnes
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ce cousin de l’[éléphant](./Éléphant (objet).md) est plus grand et plus massif. Il existe une espèce pratiquement glabre qui vit dans les régions chaudes et une espèce duveteuse adaptée au froid. Plus capricieux que les éléphants, ils sont surtout utilisés comme montures. Voir les statistiques du [mastodonte](./Mastodonte.md).
+Ce cousin de l’[[Éléphant (objet)|éléphant]] est plus grand et plus massif. Il existe une espèce pratiquement glabre qui vit dans les régions chaudes et une espèce duveteuse adaptée au froid. Plus capricieux que les éléphants, ils sont surtout utilisés comme montures. Voir les statistiques du [[mastodonte]].

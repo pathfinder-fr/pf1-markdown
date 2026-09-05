@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 23 po ; **Poids** 56 kg<sup>[2](./Trousses déquipement.md#2)</sup>
-<span class="Catégorie">**Catégorie** [Trousses d'équipement](./Trousses déquipement.md)</span>
+{s:AE}**Prix** 23 po ; **Poids** 56 kg<sup>[[Trousses déquipement#2|2]]</sup>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
 ---
-Cette trousse comprend des rations de [nourriture pour animaux](./Nourriture pour animaux (objet).md) (5 jours), un [sac à dos](./Sac à dos (objet).md), un [sac de couchage](./Sac de couchage (objet).md), une [bourse](./Bourse (objet).md), un [mors des brides](./Mors et brides (objet).md), un [silex et une amorce](./Silex et amorce (objet).md), une [marmite en fer](./Marmite (objet).md), un [kit repas](./Kit repas (objet).md), une [selle d'équitation](./Selle (objet).md), une [corde](./Corde (objet).md), des [fontes](./Fontes (objet).md), un [savon](./Savon (objet).md), des [torches](./Torche (objet).md) (10), des [rations de survie](./Rations de survie (objet).md) (5 jours) et une [outre](./Outre (objet).md).
+Cette trousse comprend des rations de [[Nourriture pour animaux (objet)|nourriture pour animaux]] (5 jours), un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Mors et brides (objet)|mors des brides]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Selle (objet)|selle d'équitation]], une [[Corde (objet)|corde]], des [[Fontes (objet)|fontes]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].

@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Sépide
 ---
 
->>> [Sépide](./Sépide.md)
+>>> [[Sépide]]

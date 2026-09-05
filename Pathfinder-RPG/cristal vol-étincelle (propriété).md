@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Cristal vol-étincelle
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Cristal vol-étincelle](./Descriptions individuelles des propriétés spéciales des armes.md#Cristal vol-étincelle)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Cristal vol-étincelle]]

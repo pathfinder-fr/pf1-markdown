@@ -12,10 +12,10 @@ Categories:
 
 {s:uc}*Le personnage manie toutes les armes avec panache. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [spectacle](./Dons.md#DONSPECTACLE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONSPECTACLE|spectacle]]
 
-**Avantage.** Le personnage considère toutes les armes qu’il sait manier comme étant des [armes de spectacle](./Caractéristiques des armes.md#SPECTACLE).
+**Avantage.** Le personnage considère toutes les armes qu’il sait manier comme étant des [[Caractéristiques des armes#SPECTACLE|armes de spectacle]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Tant que le personnage possède au moins 1 point d’endurance dans sa réserve, il considère que toutes les armes (pas seulement celles qu’il sait manier) sont dotées de l’attribut de [spectacle](./Caractéristiques des armes.md#SPECTACLE).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Tant que le personnage possède au moins 1 point d’endurance dans sa réserve, il considère que toutes les armes (pas seulement celles qu’il sait manier) sont dotées de l’attribut de [[Caractéristiques des armes#SPECTACLE|spectacle]].

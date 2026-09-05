@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEDEDEMENCE
 ---
 
->>> [découvertes#BOMBEDEDEMENCE](./découvertes.md#BOMBEDEDEMENCE)
+>>> [[découvertes#BOMBEDEDEMENCE]]

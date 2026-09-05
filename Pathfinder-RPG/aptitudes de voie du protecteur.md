@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Aptitudes de la voie du Protecteur Mythique
 ---
 
->>> [Aptitudes de la voie du Protecteur Mythique](./Aptitudes de la voie du Protecteur Mythique.md)
+>>> [[Aptitudes de la voie du Protecteur Mythique]]

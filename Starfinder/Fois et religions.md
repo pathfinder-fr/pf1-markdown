@@ -63,26 +63,26 @@ les Mondes du Pacte.
 - **La verte religion :** Le druidisme et la verte religion sont certainement les plus anciennes philosophies des Mondes du Pacte. La chaleur du soleil, la puissance du vent et la beauté des plantes de la nature sont autant de preuves de la complexité et du pouvoir de la nature. La verte religion enseigne le respect de la nature et de vivre en équilibre avec son environnement.
 
 ### Les divinités majeures de STARFINDER
-- [Abadar](./../Golarion/Abadar.md) - LN - Domaines de la civilisation, du commerce, de la loi et de la richesse 
-- [Besmara](./../Golarion/Besmara.md) - CN - Domaines de la piraterie, des monstres de l’espace et des conflits 
-- [Damoritosh](./Damoritosh.md) - LM - Domaines de la conquête, du devoir et de la guerre  
-- [Desna](./../Golarion/Desna.md) - CB - Domaines des rêves, de la chance, des étoiles et des voyageurs 
-- [Dévoreur (Le)](./Le Dévoreur.md) - CM - Domaines des trous noirs, de la destruction et des supernovas
-- [Éloritu](./Éloritu.md) - N - Domaines de l'Histoire,de la magie et des secrets  
-- [Hylax](./Hylax.md) - LB - Domaines de la Diplomatie, des premiers contact, de l'amitié et de la paix  
-- [Ibra](./Ibra.md) - N - Domaines des corps célestes, du cosmos et des mystères de l’univers 
-- [Iomédae](./../Golarion/Iomédae.md) - LB - Domaines de l'honneur au combat, de l'humanité, de la justice et de la bravoure  
-- [Lao Shu Po](./Lao Shu Po.md) - NM - Domaines des assassins, des rats, des espions et des voleurs  
-- [Nyarlathotep](./Nyarlathotep.md) - CM - Domaines des conspirations, des secrets dangereux et de la magie interdite  
-- [Oras](./Oras.md) - CN - Domaines de l'adaptation, de l'évolution et de la sélection naturelle 
-- [Pharasma](./../Golarion/Pharasma.md) - N - Domaines de la naissance, de la mort, du destin et de la prophétie  
-- [Sarenrae](./../Golarion/Sarenrae.md) - NB - Domaines de la guérison, de la rédemption et du soleil  
-- [Talavet](./Talavet.md) - LN - Domaines des communautés, de la confiance en soi et de la tradition  
-- [Triune](./Triune.md) - N - Domaines de l'intelligence artificielle, des ordinateurs et du Drift  
-- [Urgathoa](./../Golarion/Urgathoa.md) - NM - Domaines de la maladie, de la gourmandise et de la non-mort  
-- [Weydan](./Weydan.md)- CB - Domaines de la découverte, de l'égalité, de l'exploration et de la liberté 
-- [Yaraésa](./Yaraésa.md) - NB - Domaines de la connaissance, de la perfection mentale, de l'érudition et de la science  
-- [Zon-Kuthon](./../Golarion/Zon-Kuthon.md) - LM - Domaines des ténèbres, de la convoitise,du deuil et du chagrin  
+- [[Abadar]] - LN - Domaines de la civilisation, du commerce, de la loi et de la richesse 
+- [[Besmara]] - CN - Domaines de la piraterie, des monstres de l’espace et des conflits 
+- [[Damoritosh]] - LM - Domaines de la conquête, du devoir et de la guerre  
+- [[Desna]] - CB - Domaines des rêves, de la chance, des étoiles et des voyageurs 
+- [[Le Dévoreur|Dévoreur (Le)]] - CM - Domaines des trous noirs, de la destruction et des supernovas
+- [[Éloritu]] - N - Domaines de l'Histoire,de la magie et des secrets  
+- [[Hylax]] - LB - Domaines de la Diplomatie, des premiers contact, de l'amitié et de la paix  
+- [[Ibra]] - N - Domaines des corps célestes, du cosmos et des mystères de l’univers 
+- [[Iomédae]] - LB - Domaines de l'honneur au combat, de l'humanité, de la justice et de la bravoure  
+- [[Lao Shu Po]] - NM - Domaines des assassins, des rats, des espions et des voleurs  
+- [[Nyarlathotep]] - CM - Domaines des conspirations, des secrets dangereux et de la magie interdite  
+- [[Oras]] - CN - Domaines de l'adaptation, de l'évolution et de la sélection naturelle 
+- [[Pharasma]] - N - Domaines de la naissance, de la mort, du destin et de la prophétie  
+- [[Sarenrae]] - NB - Domaines de la guérison, de la rédemption et du soleil  
+- [[Talavet]] - LN - Domaines des communautés, de la confiance en soi et de la tradition  
+- [[Triune]] - N - Domaines de l'intelligence artificielle, des ordinateurs et du Drift  
+- [[Urgathoa]] - NM - Domaines de la maladie, de la gourmandise et de la non-mort  
+- [[Weydan]]- CB - Domaines de la découverte, de l'égalité, de l'exploration et de la liberté 
+- [[Yaraésa]] - NB - Domaines de la connaissance, de la perfection mentale, de l'érudition et de la science  
+- [[Zon-Kuthon]] - LM - Domaines des ténèbres, de la convoitise,du deuil et du chagrin  
 ### Autres divinités
 Chaque culture a ses propres divinités et ses propres traditions
 et même si les vingt divinités majeures décrites dans les pages

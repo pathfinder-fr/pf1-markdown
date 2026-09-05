@@ -7,21 +7,21 @@ Categories:
 - Src Book of the Damned
 ---
 
-{s:DieuTech|Chugarra|Le gourou des bouchers| |[Asuras ranas](./Divinités.md#ASURASRANAS)
+{s:DieuTech|Chugarra|Le gourou des bouchers| |[[Divinités#ASURASRANAS|Asuras ranas]]
 |Loyal Mauvais|Sang, bouchers, cuir
 |N'importe|Aucun
-|[Hachette](./hachette (arme).md)
-|[Guerre](./Domaine de la Guerre.md), [Loi](./Domaine de la Loi.md), [Mal](./Domaine du Mal.md), [Mort](./Domaine de la Mort.md)
-|[Meurtre](./Domaine de la Mort.md), [Morts-vivants](./Domaine de la Mort.md), [Peur](./Domaine du Mal.md), [Sang](./Domaine de la Guerre.md)
+|[[Hachette (arme)|Hachette]]
+|[[Domaine de la Guerre|Guerre]], [[Domaine de la Loi|Loi]], [[Domaine du Mal|Mal]], [[Domaine de la Mort|Mort]]
+|[[Domaine de la Mort|Meurtre]], [[Domaine de la Mort|Morts-vivants]], [[Domaine du Mal|Peur]], [[Domaine de la Guerre|Sang]]
 |—}
 {s:cs}{s:BotD}
 ### Obédience
-Dépecer un animal ou travailler à la fabrication d’un vêtement en cuir. Gain d'une [immunité](./Immunité (capacité).md) aux effets de [saignement](./Saignement.md).
+Dépecer un animal ou travailler à la fabrication d’un vêtement en cuir. Gain d'une [[Immunité (capacité)|immunité]] aux effets de [[saignement]].
 
 #### Faveurs (Asuras ranas)
-Avec le temps, les plus puissants des [asuras](./Asura.md) ont complété assez de cycles de réincarnation et s’appuient sur les atrocités commises durant de multitude vies pour incarner l'apogée de leur espèce : les asuras ranas.
+Avec le temps, les plus puissants des [[Asura|asuras]] ont complété assez de cycles de réincarnation et s’appuient sur les atrocités commises durant de multitude vies pour incarner l'apogée de leur espèce : les asuras ranas.
 
-Les Asura ranas sont des demi-dieux Loyal Mauvais qui ont une puissance allant de [FP](./FP.md) 26 à FP 30. Chaque asura rana possède une obédience unique, mais les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) utilisables une fois par jour chacun.
-- **1.** *[biographie du sang](./Biographie du sang.md)*
-- **2.** *[doigt de mort](./Doigt de mort.md)*
-- **3.** *[bourbier](https://aonprd.com/SpellDisplay.aspx?ItemName=Slough)* [rapide](./Pouvoir magique rapide.md)
+Les Asura ranas sont des demi-dieux Loyal Mauvais qui ont une puissance allant de [[FP]] 26 à FP 30. Chaque asura rana possède une obédience unique, mais les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables une fois par jour chacun.
+- **1.** *[[biographie du sang]]*
+- **2.** *[[doigt de mort]]*
+- **3.** *[bourbier](https://aonprd.com/SpellDisplay.aspx?ItemName=Slough)* [[Pouvoir magique rapide|rapide]]

@@ -7,6 +7,6 @@ Categories:
 - Src Bestiaire 5
 ---
 
-Quand une créature dotée d’une solidité subit des dégâts, il faut leur soustraire sa solidité. Seuls les dégâts en sus de sa solidité sont décomptés de ses points de vie. Une créature disposant d’une solidité ne réduit pas plus les dégâts des attaques d’énergie, des attaques à distance et des autres attaques que les objets réduisent déjà [habituellement](./Exploration.md#POINTDERESISTANCE). Une arme en [adamantium](./../Golarion/adamantium.md) ignore une solidité de 20 ou moins.
+Quand une créature dotée d’une solidité subit des dégâts, il faut leur soustraire sa solidité. Seuls les dégâts en sus de sa solidité sont décomptés de ses points de vie. Une créature disposant d’une solidité ne réduit pas plus les dégâts des attaques d’énergie, des attaques à distance et des autres attaques que les objets réduisent déjà [[Exploration#POINTDERESISTANCE|habituellement]]. Une arme en [[adamantium]] ignore une solidité de 20 ou moins.
 
 *Format :* solidité 10 ; *Emplacement :* capacités défensives.

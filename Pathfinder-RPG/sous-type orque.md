@@ -10,4 +10,4 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire* p.314
 
-On utilise ce sous-type pour les orques et les créatures qui leur sont apparentées (comme les demi-orques). Les créatures de ce sous-type sont dotées d’une [vision dans le noir](./vision dans le noir.md) avec une portée de 18 m (12 {s:c}) et souffrent d’une sensibilité à la lumière (le demi-orque ne souffre pas de la sensibilité à la lumière).
+On utilise ce sous-type pour les orques et les créatures qui leur sont apparentées (comme les demi-orques). Les créatures de ce sous-type sont dotées d’une [[vision dans le noir]] avec une portée de 18 m (12 {s:c}) et souffrent d’une sensibilité à la lumière (le demi-orque ne souffre pas de la sensibilité à la lumière).

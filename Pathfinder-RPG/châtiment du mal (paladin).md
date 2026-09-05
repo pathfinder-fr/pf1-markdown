@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Paladin#CHATIMENTDUMAL
 ---
 
->>> [Paladin#CHATIMENTDUMAL](./Paladin.md#CHATIMENTDUMAL)
+>>> [[Paladin#CHATIMENTDUMAL]]

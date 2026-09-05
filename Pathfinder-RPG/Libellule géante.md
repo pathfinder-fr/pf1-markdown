@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Vermine|Marais|Tropical}
 {s:BDTexte|*Source : Bestiaire 2* p.187}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Vermine|Vermine]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 12, pris au dépourvu 15 (Dex +2, naturelle +5)}
 {s:BDTexte|**pv** 45 (7d8+14)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 15, **Con** 14, **Int** —, **Sag** 12, **Cha** 9}
 {s:BDTexte|**BBA** +5, **BMO** +9 (+13 lutte, +17 pour agripper après une charge), **DMD** 21 (29 contre croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md)}
-{s:BDTexte|**Compétences** [Vol](./Vol.md) +10}
+{s:BDTexte|**Dons** [[Attaque en vol]]}
+{s:BDTexte|**Compétences** [[Vol]] +10}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terres tempérées ou chaudes}
 {s:BDTexte|**Organisation sociale** solitaire ou vol (2–5)}

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 500 po ; **Poids** 50 kg ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Armes alchimiques](./Armes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Armes alchimiques]]</span>
 ---
-Ce paquet de tubes de la taille d’une souche d’arbre dessine des arcs d’étincelles multicolores quand on l’allume. 1d6 [rounds](./round.md) après la mise à feu, il libère des éclairs bruyants et hauts en couleurs, faits de toutes petites flammèches, pendant 4 rounds. En extérieur, ces particules enflammées s’envolent haut dans le ciel avant de se disperser. En intérieur ou dans les zones fermées, les flammèches ricochent, infligeant 1d6 points de dégâts de feu par round dans un rayon de 6 mètres ([Réflexes](./Réflexes.md) [DD](./DD.md) 15, 1/2 dégâts). Les créatures qui ratent leur jet sont [aveuglées](./Aveuglé.md) pendant 1d4 rounds et [assourdies](./Assourdi.md) pendant 1 heure. La fabrication de cet objet requiert un test d’[Artisanat](./Artisanat.md) (alchimie) DD 25.
+Ce paquet de tubes de la taille d’une souche d’arbre dessine des arcs d’étincelles multicolores quand on l’allume. 1d6 [[round|rounds]] après la mise à feu, il libère des éclairs bruyants et hauts en couleurs, faits de toutes petites flammèches, pendant 4 rounds. En extérieur, ces particules enflammées s’envolent haut dans le ciel avant de se disperser. En intérieur ou dans les zones fermées, les flammèches ricochent, infligeant 1d6 points de dégâts de feu par round dans un rayon de 6 mètres ([[Réflexes]] [[DD]] 15, 1/2 dégâts). Les créatures qui ratent leur jet sont [[aveuglé|aveuglées]] pendant 1d4 rounds et [[assourdi|assourdies]] pendant 1 heure. La fabrication de cet objet requiert un test d’[[Artisanat]] (alchimie) DD 25.

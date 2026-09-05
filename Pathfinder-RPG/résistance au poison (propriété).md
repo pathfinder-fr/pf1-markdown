@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résistance au poison
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résistance au poison](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Résistance au poison)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résistance au poison]]

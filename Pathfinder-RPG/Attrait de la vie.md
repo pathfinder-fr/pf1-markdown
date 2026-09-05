@@ -10,10 +10,10 @@ Categories:
 
 {s:um}*La canalisation d’énergie positive du prêtre est d’une saveur irrésistible pour les morts-vivants alentours. *
 
-**Conditions.** Pouvoir de classe [canalisation d’énergie positive](./Prêtre.md#CANALISATIONDENERGIE)
+**Conditions.** Pouvoir de classe [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie positive]]
 
-**Avantage.** Par une [action simple](./Action simple.md), le personnage peut canaliser de l’énergie positive pour [fasciner](./Fasciné.md) tous les [morts-vivants](./type Mort-vivant.md) situés dans un rayon de 9 mètres (6 {s:c}) pendant un nombre de rounds égal à son modificateur de [Charisme](./Charisme.md) (1 au minimum).
+**Avantage.** Par une [[action simple]], le personnage peut canaliser de l’énergie positive pour [[fasciné|fasciner]] tous les [[type mort-vivant|morts-vivants]] situés dans un rayon de 9 mètres (6 {s:c}) pendant un nombre de rounds égal à son modificateur de [[Charisme]] (1 au minimum).
 
-Les morts-vivants qui réussissent leur jet de [Volonté](./Volonté.md) ([DD](./DD.md) 10 + 1/2 niveau de [prêtre](./Prêtre.md) + modificateur de [Charisme](./Charisme.md)) ne sont pas affectés.
+Les morts-vivants qui réussissent leur jet de [[Volonté]] ([[DD]] 10 + 1/2 niveau de [[prêtre]] + modificateur de [[Charisme]]) ne sont pas affectés.
 
 Ce type de canalisation ne soigne ni ne blesse personne.

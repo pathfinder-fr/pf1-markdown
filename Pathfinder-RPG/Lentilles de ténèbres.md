@@ -10,9 +10,9 @@ Categories:
 
 {s:racial|Dhampir (race)|dhampirs|Illustrations/PNJ/Dhampir.jpg}<div class="BD">
 {s:BDTitre|Lentilles de ténèbres|{s:MR}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [yeux](./Objets merveilleux portés sur les yeux.md) ; **Prix** 12 000 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 12 000 po ; **Poids** —
 (((Description)))
-Faites d’un matériau cristallin de couleur sombre et investies de ténèbres magiques, ces lentilles s’adaptent aux yeux du porteur. Lorsqu’une créature ayant la particularité [sensibilité à la lumière](./Sensibilité à la lumière (capacité).md) ou [aveuglé par la lumière](./Aveuglé par la lumière (capacité).md) porte ces lentilles, elles la protègent contre les [effets de la lumière du soleil](./Sensibilité à la lumière (capacité).md), du sort *[lumière du jour](./Lumière du jour.md)* ou des effets de lumière similaires. Il faut porter les deux lentilles pour que leur magie soit effective.
+Faites d’un matériau cristallin de couleur sombre et investies de ténèbres magiques, ces lentilles s’adaptent aux yeux du porteur. Lorsqu’une créature ayant la particularité [[sensibilité à la lumière (capacité)|sensibilité à la lumière]] ou [[aveuglé par la lumière (capacité)|aveuglé par la lumière]] porte ces lentilles, elles la protègent contre les [[sensibilité à la lumière (capacité)|effets de la lumière du soleil]], du sort *[[lumière du jour]]* ou des effets de lumière similaires. Il faut porter les deux lentilles pour que leur magie soit effective.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[ténèbres](./Ténèbres.md)* ; **Coût** 6 000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[ténèbres]]* ; **Coût** 6 000 po
 </div>

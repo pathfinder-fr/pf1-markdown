@@ -13,29 +13,29 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.38*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Duergar](./Duergar.md) [guerrier](./Guerrier.md) 2}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([nain](./sous-type nain.md)) de taille G, LM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [Perception](./Perception.md) +2}
+{s:BDTexte|[[Duergar]] [[guerrier]] 2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type nain|nain]]) de taille G, LM}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}), [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 9, pris au dépourvu 15 (armure +7, taille -1)}
 {s:BDTexte|**pv** 23 (2d10+8)}
 {s:BDTexte|**Réf** +0, **Vig** +6, **Vol** +2 (+1 contre la terreur) ; +2 contre les sorts}
-{s:BDTexte|**Capacités défensives** [courage](./Guerrier.md#COURAGE) +1 ; **Immunité** fantasme, paralysie, poison}
+{s:BDTexte|**Capacités défensives** [[guerrier#COURAGE|courage]] +1 ; **Immunité** fantasme, paralysie, poison}
 {s:BDTexte|**Faiblesses** sensible à la lumière}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** hache d’armes de nain de maître, +5 (2d8+4/×3)}
 {s:BDTexte|**Distance** arbalète lourde, +3 (2d8/19-20)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 2 ; [concentration](./concentration.md) –1)}
-{s:BDSorts|1/jour — *[agrandissement](./Agrandissement.md)* (sur soi uniquement), *[invisibilité](./Invisibilité.md)* (sur soi uniquement)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 2 ; [[concentration]] –1)}
+{s:BDSorts|1/jour — *[[agrandissement]]* (sur soi uniquement), *[[invisibilité]]* (sur soi uniquement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 10, **Con** 16, **Int** 10, **Sag** 15, **Cha** 4}
 {s:BDTexte|**BBA** +2, **BMO** +5, **DMD** 16 (20 contre la bousculade ou le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (hache d’armes de nain), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md)}
-{s:BDTexte|**Compétences** [Dressage](./Dressage.md) +1, [Équitation](./Équitation.md) –2, [Perception](./Perception.md) +2, [Survie](./Survie.md) +6}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (hache d’armes de nain), [[Attaque en puissance]], [[Enchaînement]]}
+{s:BDTexte|**Compétences** [[Dressage]] +1, [[Équitation]] –2, [[Perception]] +2, [[Survie]] +6}
 {s:BDTexte|**Langues** commun, commun des profondeurs, nain}
-{s:BDTexte|**Particularités** [lentement mais sûrement](./Duergar.md), [stabilité](./Duergar.md)}
-{s:BDTexte|**Équipement de combat** *[potions](./Potions magiques.md) de [soins légers](./Soins légers.md)* (2), [feux grégeois](./Feu grégeois (objet).md) (2) ; **Équipement divers** [crevice](./crevice (armure).md), [arbalète lourde](./Arbalète lourde (arme).md) avec [10 carreaux](./Carreaux darbalète (arme).md), [hache d’armes de nain de maître](./Hache darmes naine (arme).md), 9 po}
+{s:BDTexte|**Particularités** [[Duergar|lentement mais sûrement]], [[Duergar|stabilité]]}
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potions]] de [[soins légers]]* (2), [[Feu grégeois (objet)|feux grégeois]] (2) ; **Équipement divers** [[crevice (armure)|crevice]], [[arbalète lourde (arme)|arbalète lourde]] avec [[Carreaux darbalète (arme)|10 carreaux]], [[Hache darmes naine (arme)|hache d’armes de nain de maître]], 9 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -43,31 +43,31 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Duergar](./Duergar.md) || 1/3
+| [[Duergar]] || 1/3
 |-
-| [Esclavagiste duergar](./Esclavagiste duergar.md) || 1/2
+| [[Esclavagiste duergar]] || 1/2
 |-
-| [Tireur d'élite duergar](./Tireur délite duergar.md) || 1/2
+| [[Tireur délite duergar|Tireur d'élite duergar]] || 1/2
 |-
-| [Bombardier duergar](./Bombardier duergar.md) || 1
+| [[Bombardier duergar]] || 1
 |-
-| [Enclume duergar](./Enclume duergar.md) || 1
+| [[Enclume duergar]] || 1
 |-
-| [Sergent duergar](./Sergent duergar.md) || 1
+| [[Sergent duergar]] || 1
 |-
-| [Scarabée crache-noir](./Scarabée crache-noir.md) || 3
+| [[Scarabée crache-noir]] || 3
 |-
-| [Lieutenant duergar](./Lieutenant duergar.md) || 5
+| [[Lieutenant duergar]] || 5
 |-
-| [Capitaine duergar](./Capitaine duergar.md) || 8
+| [[Capitaine duergar]] || 8
 |-
-| [Maître de corvée duergar](./Maître de corvée duergar.md) || 9
+| [[Maître de corvée duergar]] || 9
 |-
-| [Marteau duergar](./Marteau duergar.md) || 11
+| [[Marteau duergar]] || 11
 |-
-| [Grand prêtre duergar](./Grand prêtre duergar.md) || 12
+| [[Grand prêtre duergar]] || 12
 |-
-| [Scarabée juggernaut](./Scarabée juggernaut.md) || 14
+| [[Scarabée juggernaut]] || 14
 |-
 |}
 </div> Chez les duergars, les soldats vétérans prennent la tête

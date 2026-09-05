@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Trompette du jugement|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 15 000 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 15 000 po ; **Poids** 0,5 kg
 (((Description)))
-Des incrustations d’ivoire et d’argent ornent cette trompette dorée. Une fois par jour, son possesseur peut émettre une note pure et singulière qui cible jusqu’à 9 créatures intangibles situées à 9 mètres ou moins avec le sort *[requiem pour les fantômes](./Requiem pour les fantômes.md)* ([Volonté](./Volonté.md) [DD](./DD.md) 17 pour annuler) pendant 9 [rounds](./round.md).
+Des incrustations d’ivoire et d’argent ornent cette trompette dorée. Une fois par jour, son possesseur peut émettre une note pure et singulière qui cible jusqu’à 9 créatures intangibles situées à 9 mètres ou moins avec le sort *[[requiem pour les fantômes]]* ([[Volonté]] [[DD]] 17 pour annuler) pendant 9 [[round|rounds]].
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[requiem pour les fantômes](./Requiem pour les fantômes.md)* ; **Coût** 7 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[requiem pour les fantômes]]* ; **Coût** 7 500 po
 </div>

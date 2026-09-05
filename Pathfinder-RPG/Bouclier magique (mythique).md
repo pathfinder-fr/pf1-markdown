@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage façonne ses sorts pour en faire des barrières profanes persistantes et solides.*
 
-**Condition.** [Bouclier magique](./Bouclier magique.md)
+**Condition.** [[Bouclier magique]]
 
-**Avantage.** Le personnage ajoute la moitié de son [grade](./Grade.md) au bonus de parade à sa CA lorsqu’il utilise [Bouclier magique](./Bouclier magique.md). Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour prolonger la durée du don d’un nombre de rounds égal à son [grade](./Grade.md).
+**Avantage.** Le personnage ajoute la moitié de son [[grade]] au bonus de parade à sa CA lorsqu’il utilise [[Bouclier magique]]. Il peut dépenser une utilisation de [[pouvoir mythique]] pour prolonger la durée du don d’un nombre de rounds égal à son [[grade]].

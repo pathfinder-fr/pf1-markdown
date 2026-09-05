@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Pour vous, l'environnement urbain devient une autre arme brutale que vous pouvez brandir pour déchiqueter la chair et briser les os.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 15, [Attaque en puissance](./Attaque en puissance.md), [Balayage de la rue](./Balayage de la rue.md), [École de la rue](./École de la rue.md), [Science de la bousculade](./Science de la bousculade.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +8 ou [moine](./Moine.md) de niveau 7
+**Conditions.** [[For]] 15, [[Attaque en puissance]], [[Balayage de la rue]], [[École de la rue]], [[Science de la bousculade]], [[Science du combat à mains nues]], [[BBA]] +8 ou [[moine]] de niveau 7
 
-**Avantages.** Quand le personnage utilise l'[École de la rue](./École de la rue.md), le [facteur de critique](./coup critique.md) de ses attaques à mains nues est de ×3, plutôt que ×2.
+**Avantages.** Quand le personnage utilise l'[[École de la rue]], le [[coup critique|facteur de critique]] de ses attaques à mains nues est de ×3, plutôt que ×2.

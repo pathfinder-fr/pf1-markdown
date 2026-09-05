@@ -14,35 +14,35 @@ Categories:
 {s:pucem|Extérieur}
 {s:BDTexte|*Source : Bestiaire 3* p.215}
 {s:BDTexte|**PX** 38.400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Bien](./sous-type Bien.md), [natif](./sous-type natif.md)) de taille M, NB}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md), vision à travers la fumée ; [Perception](./Perception.md) +26}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Bien|Bien]], [[sous-type natif|natif]]) de taille M, NB}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]], vision à travers la fumée ; [[Perception]] +26}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 30, contact 18, pris au dépourvu 22 (Dex +7, esquive +1, naturelle +12)}
 {s:BDTexte|**pv** 180 (19d10+76)}
 {s:BDTexte|**Réf** +18, **Vig** +12, **Vol** +17}
-{s:BDTexte|**[RD](./Réduction de dégâts (capacité).md)** 10/fer froid et Mal ; **[Immunité](./Immunité (capacité).md)** électricité, feu ; **[Résistance](./Résistance (capacité).md)** acide 10, froid 10 ; **[RM](./Résistance à la magie (capacité).md)** 25}
+{s:BDTexte|**[[Réduction de dégâts (capacité)|RD]]** 10/fer froid et Mal ; **[[Immunité (capacité)|Immunité]]** électricité, feu ; **[[Résistance (capacité)|Résistance]]** acide 10, froid 10 ; **[[Résistance à la magie (capacité)|RM]]** 25}
 {s:BDSousTitre|ATTAQUE}
-{s:BDTexte|**VD** 9 m (6 {s:c}), [Vol](./Vol (capacité).md) 27 m (18 {s:c}) (bonne)}
+{s:BDTexte|**VD** 9 m (6 {s:c}), [[Vol (capacité)|Vol]] 27 m (18 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** cimeterre de feu intense +2, +27/+22/+17/+12 (1d6+11/18-20 plus 1d6 feu) et 2 ailes, +20 (1d6+3 plus combustion)}
 {s:BDTexte|**Attaques spéciales** combustion (2d6, DD 23), danse tournoyante}
 {s:BDTexte|**Pouvoirs magiques** (NLS 15 ; concentration +23)}
-{s:BDSorts|Constant —  *[bouclier de feu](./Bouclier de feu.md)* (bouclier chaud)}
-{s:BDSorts|À volonté — *[aide](./Aide.md)*, *[pyrotechnie](./Pyrotechnie.md)* (DD 20), *[rayon ardent](./Rayon ardent.md)*, *voie des flammes*}
-{s:BDSorts|3/jour — *[boule de feu](./Boule de feu.md)* (DD 20), *[colonne de feu](./Colonne de feu.md)* (DD 23), *[mur de feu](./Mur de feu.md)*}
+{s:BDSorts|Constant —  *[[bouclier de feu]]* (bouclier chaud)}
+{s:BDSorts|À volonté — *[[aide]]*, *[[pyrotechnie]]* (DD 20), *[[rayon ardent]]*, *voie des flammes*}
+{s:BDSorts|3/jour — *[[boule de feu]]* (DD 20), *[[colonne de feu]]* (DD 23), *[[mur de feu]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 24, **Con** 19, **Int** 21, **Sag** 19, **Cha** 26}
 {s:BDTexte|**BBA** +19 ; **BMO** +25 ; **DMD** 43}
-{s:BDTexte|**Dons** [Attaque éclair](./Attaque éclair.md), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Attaque en rotation](./Attaque en rotation.md), [Esquive](./Esquive.md), [Expertise du combat](./Expertise du combat.md), [Science du désarmement](./Science du désarmement.md), [Souplesse du serpent](./Souplesse du serpent.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +29, [Art de la magie](./Art de la magie.md) +27,[Connaissances](./Connaissances.md) (plans) +27, [Connaissances](./Connaissances.md) (religion) +24, [Discrétion](./Discrétion.md) +29, [Diplomatie](./Diplomatie.md) +30, [Perception](./Perception.md) +26, [Premiers secours](./Premiers secours.md) +23, [Psychologie](./Psychologie.md) +26, [Représentation](./Représentation.md) (au choix) +30, [Vol](./Vol.md) +33}
+{s:BDTexte|**Dons** [[Attaque éclair]], [[Attaque en puissance]], [[Attaques réflexes]], [[Attaque en rotation]], [[Esquive]], [[Expertise du combat]], [[Science du désarmement]], [[Souplesse du serpent]], [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +29, [[Art de la magie]] +27,[[Connaissances]] (plans) +27, [[Connaissances]] (religion) +24, [[Discrétion]] +29, [[Diplomatie]] +30, [[Perception]] +26, [[Premiers secours]] +23, [[Psychologie]] +26, [[Représentation]] (au choix) +30, [[Vol]] +33}
 {s:BDTexte|**Langues** céleste, commun, draconique, elfique, igné ; télépathie à 30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plans d’alignement Bon}
 {s:BDTexte|**Organisation** solitaire ou couple}
 {s:BDTexte|**Trésor** triple (cimeterre de feu intense +2, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Danse tournoyante (Sur).** Une fois par jour, par une [action complexe](./Action complexe.md), le péri peut tournoyer en une danse toujours plus rapide, se transformant en un vortex de flammes tourbillonnantes de 3 à 12 mètres de haut pendant un maximum de 9 [rounds](./round.md). Cette capacité fonctionne comme la capacité [tourbillon](./Tourbillon (capacité).md) ([Réflexes](./jet de sauvegarde.md), [DD](./DD.md) 26) mais toutes les créatures entrant en contact avec ce tourbillon ou entraînées à l’intérieur reçoivent 2d6+6 points de dégâts de feu et sont sujettes à l’attaque de combustion du péri. Le DD du jet de sauvegarde est basé sur la [Dextérité](./Dextérité.md).}
+{s:BDTexte|**Danse tournoyante (Sur).** Une fois par jour, par une [[action complexe]], le péri peut tournoyer en une danse toujours plus rapide, se transformant en un vortex de flammes tourbillonnantes de 3 à 12 mètres de haut pendant un maximum de 9 [[round|rounds]]. Cette capacité fonctionne comme la capacité [[tourbillon (capacité)|tourbillon]] ([[jet de sauvegarde|Réflexes]], [[DD]] 26) mais toutes les créatures entrant en contact avec ce tourbillon ou entraînées à l’intérieur reçoivent 2d6+6 points de dégâts de feu et sont sujettes à l’attaque de combustion du péri. Le DD du jet de sauvegarde est basé sur la [[Dextérité]].}
 {s:BDTexte|**Vision à travers la fumée (Sur).** Le péri peut voir à travers le feu, le brouillard et la fumée sans malus.}
-{s:BDTexte|**Voie des flammes (Mag).** Le péri peut entrer dans n’importe quel feu de sa taille ou plus grand et voyager sur n’importe quelle distance jusqu’à un autre feu en un seul round, quelle que soit la distance qui les sépare. Sinon, cette capacité fonctionne comme le sort *[téléportation suprême](./Téléportation suprême.md)* ([niveau de lanceur de sorts](./NLS.md) 14), mais le péri ne peut se transporter que lui-même et jusqu’à 25 kilos d’objets.}
+{s:BDTexte|**Voie des flammes (Mag).** Le péri peut entrer dans n’importe quel feu de sa taille ou plus grand et voyager sur n’importe quelle distance jusqu’à un autre feu en un seul round, quelle que soit la distance qui les sépare. Sinon, cette capacité fonctionne comme le sort *[[téléportation suprême]]* ([[NLS|niveau de lanceur de sorts]] 14), mais le péri ne peut se transporter que lui-même et jusqu’à 25 kilos d’objets.}
 
 </div>
 </td><td><div>*Cette belle femme albinos est enveloppée de brillantes ailes de flammes.*

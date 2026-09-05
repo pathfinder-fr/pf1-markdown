@@ -10,27 +10,27 @@ LastModified: 2016-11-15 11:38
 {s:pucem|Plante|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 155*}
 12 800 PX
-- [Plante](./type Plante.md) de taille TG, N
-- **Init **+3 ; **Sens **vision à 360°, perception aveugle à 18 m, vision nocturne ; [Perception](./Perception.md) +17
+- [[type plante|Plante]] de taille TG, N
+- **Init **+3 ; **Sens **vision à 360°, perception aveugle à 18 m, vision nocturne ; [[Perception]] +17
 - **Aura **de bourdonnement perturbant (9 m, DD 18)
 (((Défense)))
 - **CA **25, contact 7, pris au dépourvu 25 (Dex -1, naturelle +18, taille -2)
 - **pv **149 (13d8+91)
 - **Réf **+5, **Vig **+14, **Vol **+5
-- **Immunités **poison, [traits des plantes](./Traits des plantes.md)
+- **Immunités **poison, [[traits des plantes]]
 (((Attaque)))
 - **VD **3 m
 - **Corps à corps** morsure, +15 (2d6+8/19-20) et 2 coups, +16 (1d8+8)
 - **Espace **4,50 m ; Allonge 4,50 m
 - **Attaques spéciales** fruits-visages appétissants, odeur enivrante
 - **Pouvoirs magiques** (NLS 13 ; concentration +15)
-  - *À volonté *– [partage des souvenirs](./Partage des souvenirs.md)<sup>AM</sup> (portée de 16,50 mètres ; prend pour cible le jinmenju et une créature à portée, DD 14)
-  - *3/jour* – [cri](./Cri.md) (DD 16), [manipulation des sons](./Manipulation des sons.md) (DD 15)
+  - *À volonté *– [[partage des souvenirs]]<sup>AM</sup> (portée de 16,50 mètres ; prend pour cible le jinmenju et une créature à portée, DD 14)
+  - *3/jour* – [[cri]] (DD 16), [[manipulation des sons]] (DD 15)
 (((Statistiques)))
 - **For **27, **Dex **8, **Con **22, **Int **7, **Sag **12, **Cha **15
 - **BBA **+9 ; **BMO **+19 ; **DMD **28
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (coup), [Attaques réflexes](./Attaques réflexes.md), [Fente](./Fente.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md),  [Science du critique](./Science du critique.md) (morsure)
-- **Compétences **[Perception](./Perception.md) +17
+- **Dons** [[Arme de prédilection]] (coup), [[Attaques réflexes]], [[Fente]], [[Réflexes surhumains]], [[Robustesse]], [[Science de linitiative|Science de l’initiative]],  [[Science du critique]] (morsure)
+- **Compétences **[[Perception]] +17
 - **Langues **commun
 (((Écologie)))
 - **Environnement **collines ou montagnes tempérées

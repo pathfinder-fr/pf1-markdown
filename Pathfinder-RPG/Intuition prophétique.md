@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage est extrêmement sensible à la magie et aux changements qui affectent le comportement des gens. *
 
-**Condition.** [Mystère](./mystères.md)
+**Condition.** [[Mystères|Mystère]]
 
-**Avantage.** Le personnage gagne un bonus de +2 aux tests de [Psychologie](./Psychologie.md) et d’[Art de la magie](./Art de la magie.md). S’il a 10 rangs ou plus dans une de ces compétences, le bonus passe à +4 pour elle.
+**Avantage.** Le personnage gagne un bonus de +2 aux tests de [[Psychologie]] et d’[[Art de la magie]]. S’il a 10 rangs ou plus dans une de ces compétences, le bonus passe à +4 pour elle.

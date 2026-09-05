@@ -6,8 +6,8 @@ LastModified: 2012-05-17 13:49
 
 *Vous êtes capable d’améliorer votre attaque au détriment de votre défense.*
 
-**Catégorie** : [combat](./../Pathfinder-RPG/Dons.md#DONCOMBAT)
+**Catégorie** : [[Pathfinder-RPG.Dons#DONCOMBAT|combat]]
 
-**Condition.** [For](./../Pathfinder-RPG/Force.md) 13, [bonus de base à l’attaque](./../Pathfinder-RPG/BBA.md) +1.
+**Condition.** [[Pathfinder-RPG.Force|For]] 13, [[Pathfinder-RPG.BBA|bonus de base à l’attaque]] +1.
 
-**Avantage.** Dans le cadre d’une action d’attaque ou d’attaque à outrance au corps à corps, vous pouvez vous un malus de –4 à la [classe d’armure](./../Pathfinder-RPG/CA.md) pour bénéficier d’un bonus de +2 aux [jets d'attaque](./../Pathfinder-RPG/jet dattaque.md). Ce bonus aux jets d’attaque et ce malus à la classe d’armure s’appliquent jusqu’au début de votre prochain tour de jeu.
+**Avantage.** Dans le cadre d’une action d’attaque ou d’attaque à outrance au corps à corps, vous pouvez vous un malus de –4 à la [[Pathfinder-RPG.CA|classe d’armure]] pour bénéficier d’un bonus de +2 aux [[Pathfinder-RPG.jet dattaque|jets d'attaque]]. Ce bonus aux jets d’attaque et ce malus à la classe d’armure s’appliquent jusqu’au début de votre prochain tour de jeu.

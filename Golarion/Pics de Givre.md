@@ -8,8 +8,8 @@ Categories:
 - Iobarie
 ---
 
-Les Pics de Givre sont une chaîne de montagnes qui marquent la frontière entre le [Brévoy](./Brévoy.md) et l'[Iobarie](./Iobarie.md).
+Les Pics de Givre sont une chaîne de montagnes qui marquent la frontière entre le [[Brévoy]] et l'[[Iobarie]].
 
-Les Pics forment un décor pittoresque, surmontés de neiges éternelles et de glace qui, en fondant, forment une multitude de sources. Ces cours d'eau sont parsemés de grandes cascades et se jettent dans de magnifiques lacs de montagnes. Néanmoins, peu de gens traversent les Pics de Givre vers l'[Iobarie](./Iobarie.md), car cette nation n'a que peu à offrir en terme de commerce.
+Les Pics forment un décor pittoresque, surmontés de neiges éternelles et de glace qui, en fondant, forment une multitude de sources. Ces cours d'eau sont parsemés de grandes cascades et se jettent dans de magnifiques lacs de montagnes. Néanmoins, peu de gens traversent les Pics de Givre vers l'[[Iobarie]], car cette nation n'a que peu à offrir en terme de commerce.
 
 Éparpillées dans les Pics de Givre, des grottes permettent d'accéder à des donjons montagneux datant de l'ancien empire iobarien. Certains d'entre eux sont même plus anciens et seraient hantés par les fantômes et les esprits des anciens soldats et mineurs qui occupèrent les lieux à une époque très reculée.

@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*L'énergie canalisée du personnage est véritablement libératrice.*
 
-**Conditions.** [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 7d6, suivant de [Cayden Cailéan](./Cayden Cailéan (technique).md)
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] 7d6, suivant de [[Cayden Cailéan (technique)|Cayden Cailéan]]
 
-**Avantage.** Lorsque le personnage [canalise de l'énergie](./Prêtre.md#CANALISATIONDENERGIE) positive, tout créature soignée bénéficie également de l'effet du sort *[liberté de mouvement](./Liberté de mouvement.md)* pendant un nombre de rounds égal au modificateur de [Charisme](./Charisme.md) du personnage (minimum 1 round). Cet effet a un [NLS](./NLS.md) égal au niveau de [prêtre](./Prêtre.md) effectif du personnage.
+**Avantage.** Lorsque le personnage [[Prêtre#CANALISATIONDENERGIE|canalise de l'énergie]] positive, tout créature soignée bénéficie également de l'effet du sort *[[liberté de mouvement]]* pendant un nombre de rounds égal au modificateur de [[Charisme]] du personnage (minimum 1 round). Cet effet a un [[NLS]] égal au niveau de [[prêtre]] effectif du personnage.

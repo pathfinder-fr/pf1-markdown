@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des armures#Pavois
 ---
 
->>> [Descriptions individuelles des armures#Pavois](./Descriptions individuelles des armures.md#Pavois)
+>>> [[Descriptions individuelles des armures#Pavois]]

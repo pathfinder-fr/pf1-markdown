@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Miroir
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Miroir](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Miroir)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Miroir]]

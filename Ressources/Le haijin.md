@@ -20,7 +20,7 @@ Cette capacité remplace le port des armures intermédiaire, lourde et des boucl
 
 Le haijin est doué pour effectuer d'élégants mouvement lors des combats. Au niveau 1, il gagne une floraison au choix parmi la liste ci-dessous. Il peut en choisir une nouvelle aux niveaux 3, 5, 9, 13, 17 et 20.
 
-- *Éclosion du chrysanthème* : le haijin gagne le don « [https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Frappe%20d%C3%A9cisive.ashx |frappe décisive] comme don supplémentaire et peut l'appliquer lorsqu'il utilise [https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Attaque%20%C3%A9clair.ashx|Attaque éclair]. Au niveau 16, si le haijin dispose du don [Science de la frappe décisive](./../Pathfinder-RPG/Science de la frappe décisive.md), il peut appliquer appliquer ces effets lors d'une [https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Attaque%20%C3%A9clair.ashx|Attaque éclair]. Le haijin doit être au moins de niveau 11 pour sélectionner cette floraison.
+- *Éclosion du chrysanthème* : le haijin gagne le don « [frappe décisive](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Frappe%20d%C3%A9cisive.ashx) comme don supplémentaire et peut l'appliquer lorsqu'il utilise [Attaque éclair](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Attaque%20%C3%A9clair.ashx). Au niveau 16, si le haijin dispose du don [[Science de la frappe décisive]], il peut appliquer appliquer ces effets lors d'une [Attaque éclair](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Attaque%20%C3%A9clair.ashx). Le haijin doit être au moins de niveau 11 pour sélectionner cette floraison.
 
 - *Éclat de célérité* : aussi longtemps que le haijin ne porte qu'une armure légère ou aucunes armures et qu'il ne porte pas une charge supérieure à légère, sa vitesse au sol augmente de 3m. Cette floraison peut être sélectionnée jusqu'à trois fois.
 
@@ -29,18 +29,18 @@ Le haijin est doué pour effectuer d'élégants mouvement lors des combats. Au n
 - *Instinct conseiller* : le haijin gagne la capacité « Esquive instinctive » du roublard. Il peut sélectionner cette floraison une nouvelle fois pour gagner « Esquive instinctive supérieure ».
 Le haijin doit être de niveau 4 pour sélectionner cette floraison la première fois et doit être au moins de niveau 8 pour la sélectionner une seconde fois.
 
-- *Mysticisme kitsune* : le haijin gagne le don [Science de la feinte](./../Pathfinder-RPG/Science de la feinte.md) comme don supplémentaire même si il ne remplit pas les pré-requis. Lorsqu'il effectue une attaque éclair ou utilise une action de mouvement pour se déplacer, il peut  tenter une feinte contre un ennemi qu'il menace pendant son déplacement.
+- *Mysticisme kitsune* : le haijin gagne le don [[Science de la feinte]] comme don supplémentaire même si il ne remplit pas les pré-requis. Lorsqu'il effectue une attaque éclair ou utilise une action de mouvement pour se déplacer, il peut  tenter une feinte contre un ennemi qu'il menace pendant son déplacement.
 
 - *Pétales dans le vent* : lorsqu'un ennemi provoque une attaque d'opportunité du haijin, ce dernier peut effectuer un déplacement de 1,5m, ne provoquant pas d'attaque d'opportunité. Si le haijin effectue une action de mouvement lors de son tour suivant, il retranche 1,5m pour chaque utilisation de cette floraison depuis son dernier tour.
 
-- *Fureur des cieux* : le haijin gagne le don [Tir en mouvement](./../Pathfinder-RPG/Tir en mouvement.md) en tant que don supplémentaire même si il ne remplit pas les pré-requis.
+- *Fureur des cieux* : le haijin gagne le don [[Tir en mouvement]] en tant que don supplémentaire même si il ne remplit pas les pré-requis.
 
 Cette capacité remplace « Monture », « Expertise martiale », « Bannière » et « Grande bannière »
 
 {s:Reference|GUERRIERGRACIEUX}
 #### Guerrier gracieux (ext)
 
-Le haijin gagne le don [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md) qu'il peut utiliser avec les glaives, les katanas et les naginatas qui sont considérés comme des armes légère içi. Cette capacité ne modifie pas les propriétés des armes vis à vis d'autres effets.
+Le haijin gagne le don [[Attaque en finesse]] qu'il peut utiliser avec les glaives, les katanas et les naginatas qui sont considérés comme des armes légère içi. Cette capacité ne modifie pas les propriétés des armes vis à vis d'autres effets.
 
 {s:Reference|DEFIDUTIRAILLEUR}
 #### Défi du tirailleur (ext) <sub>(meilleure traduction ou plus élégante acceptée)</sub>

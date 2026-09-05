@@ -10,6 +10,6 @@ Categories:
 {s:AE}**Prix** 10 po ; **Poids** 7,5 kg
 **Bonus d'armure** +2 ; **Bonus de Dex maximal** +6 ; **Malus d'armure** 0
 **Risque d'échec des sorts profanes** 10% ; **Vitesse** 9 m/6 m (6 c/4 c)
-<span class="Catégorie">**Catégorie** [Armures légères](./Tableau récapitulatif des armures.md#TABLEGERES)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABLEGERES|Armures légères]]</span>
 ---
 L’armure de cuir se compose de plusieurs pièces de cuir superposées, bouillies pour augmenter leur résistance naturelle puis cousues ensemble. Bien qu’elle ne soit pas aussi solide qu’une armure de métal, la flexibilité qu’elle donne à son porteur en fait l’un des types d’armure les plus utilisés.

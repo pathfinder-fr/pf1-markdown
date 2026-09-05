@@ -10,6 +10,6 @@ Categories:
 
 {s:ccmi}*Par magie et par des méthodes plus classiques, le personnage a renforcé son corps pour survivre aux rigueurs de l’altitude.*
 
-**Condition**. [Endurance](./Endurance.md)
+**Condition**. [[Endurance]]
 
-**Avantages**. Le personnage n’est pas affecté par l’[altitude](./Aventures en extérieur.md#ALTITUDE). De plus, il bénéficie d’un bonus de compétence de +2 aux jets de [Survie](./Survie.md) faits à une altitude de 1 500 mètres ou plus.
+**Avantages**. Le personnage n’est pas affecté par l’[[Aventures en extérieur#ALTITUDE|altitude]]. De plus, il bénéficie d’un bonus de compétence de +2 aux jets de [[Survie]] faits à une altitude de 1 500 mètres ou plus.

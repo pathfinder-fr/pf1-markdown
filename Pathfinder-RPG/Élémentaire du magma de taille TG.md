@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Élémentaire du magma#_3
 ---
 
->>> [Élémentaire du magma#_3](./Élémentaire du magma.md#_3)
+>>> [[Élémentaire du magma#_3]]

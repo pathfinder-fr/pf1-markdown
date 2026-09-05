@@ -17,61 +17,61 @@ LastModified: 2019-08-29 11:57
 | WIDTH="42%" | Avantages
 
 |- CLASS="premier"
-| [Aisance](./../Pathfinder-RPG/Aisance.md)* || <sup>MJ</sup> || Dex 15 || Ignorez 6 mètres de terrain difficile lors d’un déplacement
+| [[Aisance]]* || <sup>MJ</sup> || Dex 15 || Ignorez 6 mètres de terrain difficile lors d’un déplacement
 
 |- CLASS="premier"
-| [Arme de prédilection](./../Pathfinder-RPG/Arme de prédilection.md)* || <sup>MJ</sup> || Formé au Maniement du type d’armes sélectionné || Bonus de +1 aux jets d’attaque avec le type d’armes sélectionné
+| [[Arme de prédilection]]* || <sup>MJ</sup> || Formé au Maniement du type d’armes sélectionné || Bonus de +1 aux jets d’attaque avec le type d’armes sélectionné
 |-
-| &emsp;[Concentration polyvalente](./Concentration polyvalente.md)* || <sup>MJ</sup> || Arme de prédilection || Bonus de +1 aux jets d’attaque avec tous les types d’armes que vous savez manier
+| &emsp;[[Concentration polyvalente]]* || <sup>MJ</sup> || Arme de prédilection || Bonus de +1 aux jets d’attaque avec tous les types d’armes que vous savez manier
 
 |- CLASS="premier"
-| [Arme en main](./../Pathfinder-RPG/Arme en main.md)* || <sup>MJ</sup> || Bonus de base à l’attaque +1 || Dégainez une arme par une action rapide
+| [[Arme en main]]* || <sup>MJ</sup> || Bonus de base à l’attaque +1 || Dégainez une arme par une action rapide
 
 |- CLASS="premier"
-| [Assaut mystique](./../Pathfinder-RPG/Assaut Mystique.md)* || <sup>MJ</sup> || Aptitude d’incantation de sorts || Les attaques au corps à corps et à distance sont considérées comme magiques
+| [[Assaut mystique]]* || <sup>MJ</sup> || Aptitude d’incantation de sorts || Les attaques au corps à corps et à distance sont considérées comme magiques
 
 |- CLASS="premier"
-| [Attaque perforante](./Attaque perforante.md) || <sup>MJ</sup> || Bonus de base à l’attaque +12 || Réduit de 5 la RD et la résistance aux énergies de l’ennemi contre vos armes
+| [[Attaque perforante]] || <sup>MJ</sup> || Bonus de base à l’attaque +12 || Réduit de 5 la RD et la résistance aux énergies de l’ennemi contre vos armes
 
 |- CLASS="premier"
-| [Barricade](./Barricade.md) || <sup>MJ</sup> || 1 rang en Ingénierie || Créez votre propre abri peu résistant
+| [[Barricade]] || <sup>MJ</sup> || 1 rang en Ingénierie || Créez votre propre abri peu résistant
 
 |- CLASS="premier"
-|  [Beau parleur](./Beau parleur.md) || <sup>MJ</sup> || 5 rangs en Bluff || Déconcertez un adversaire potentiel pour le surprendre au début d’un combat
+|  [[Beau parleur]] || <sup>MJ</sup> || 5 rangs en Bluff || Déconcertez un adversaire potentiel pour le surprendre au début d’un combat
 
 |- CLASS="premier"
-| [Combat à plusieurs armes](./../Pathfinder-RPG/Combat à plusieurs armes.md)* || <sup>MJ</sup> || -  || Réduit le malus des attaques à outrance en combattant avec plusieurs armes légères ou
+| [[Combat à plusieurs armes]]* || <sup>MJ</sup> || -  || Réduit le malus des attaques à outrance en combattant avec plusieurs armes légères ou
 de corps à corps d’agent
 
 |- CLASS="premier"
-| [Combat adaptif](./Combat adaptif.md)* || <sup>MJ</sup> || Trois dons de combat ou plus || Bénéficiez des avantages d’un don de combat que vous ne possédez pas une fois par jour
+| [[Combat adaptif]]* || <sup>MJ</sup> || Trois dons de combat ou plus || Bénéficiez des avantages d’un don de combat que vous ne possédez pas une fois par jour
 par une action de mouvement
 
 |- CLASS="premier"
-| [Combat en aveugle](./../Pathfinder-RPG/Combat en aveugle.md)* || <sup>MJ</sup> || - || Relancez des attaques ratées dues au camouflage
+| [[Combat en aveugle]]* || <sup>MJ</sup> || - || Relancez des attaques ratées dues au camouflage
 
 |- CLASS="premier"
-| [Compétences synergiques](./Compétences synergiques.md) || <sup>MJ</sup> || - ||  Ajout de deux nouvelles compétences de classe ou bonus d’intuition de +2 à ces compétences
+| [[Compétences synergiques]] || <sup>MJ</sup> || - ||  Ajout de deux nouvelles compétences de classe ou bonus d’intuition de +2 à ces compétences
 
 |- CLASS="premier"
-| [Connexion limitée](./Connexion limitée.md) || <sup>MJ</sup>  || Sag 15, personnage de niveau 5, aucun niveau de mystique || Vous pouvez lancer des sorts de mystique mineurs
+| [[Connexion limitée]] || <sup>MJ</sup>  || Sag 15, personnage de niveau 5, aucun niveau de mystique || Vous pouvez lancer des sorts de mystique mineurs
 
 |- CLASS="premier"
-| [Contrarier](./Contrarier.md) || <sup> MJ </sup> || 5 rangs en Diplomatie, 5 rangs en Intimidation || Énervez un ennemi, il devient imprécis et subit un malus de -2 aux tests de compétence pour 1 round ou plus
+| [[Contrarier]] || <sup> MJ </sup> || 5 rangs en Diplomatie, 5 rangs en Intimidation || Énervez un ennemi, il devient imprécis et subit un malus de -2 aux tests de compétence pour 1 round ou plus
 
 |- CLASS="premier"
-| [Déviation de projectiles](./Déviation de projectiles.md)*  || <sup> MJ </sup> || Bonus de base à l’attaque +8 || Dépensez 1 point de persévérance pour tenter d’éviter une attaque à distance
+| [[Déviation de projectiles]]*  || <sup> MJ </sup> || Bonus de base à l’attaque +8 || Dépensez 1 point de persévérance pour tenter d’éviter une attaque à distance
 |-
-| &emsp;[Renvoi de projectiles](./Renvoi de projectiles.md)* || <sup> MJ </sup> || Déviation de projectiles, bonus de base à l’attaque +16 || Dépensez 1 point de persévérance pour tenter de rediriger une attaque à distance
+| &emsp;[[Renvoi de projectiles]]* || <sup> MJ </sup> || Déviation de projectiles, bonus de base à l’attaque +16 || Dépensez 1 point de persévérance pour tenter de rediriger une attaque à distance
 
 |- CLASS="premier"
-| [Diversion](./Diversion.md)* || <sup> MJ </sup>  || - || Utilisez le Bluff pour créer une diversion pour que vos alliés puissent se cacher
+| [[Diversion]]* || <sup> MJ </sup>  || - || Utilisez le Bluff pour créer une diversion pour que vos alliés puissent se cacher
 
 |- CLASS="premier"
-| [Dur à cuire](./../Pathfinder-RPG/Dur à cuire.md) || <sup> MJ </sup> || - || Dépensez des points de persévérance pour se stabiliser et pour continuer à combattre lors du même round
+| [[Dur à cuire]] || <sup> MJ </sup> || - || Dépensez des points de persévérance pour se stabiliser et pour continuer à combattre lors du même round
 
 |- CLASS="premier"
-| [Dysfonctionnement amplifié](./Dysfonctionnement amplifié.md)* || <sup> MJ </sup> || - || Perturbez les appareils, rendant les cibles secouées pour 1 round ou plus
+| [[Dysfonctionnement amplifié]]* || <sup> MJ </sup> || - || Perturbez les appareils, rendant les cibles secouées pour 1 round ou plus
 
 
 |- CLASS="premier"

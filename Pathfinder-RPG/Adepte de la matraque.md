@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage sait exactement où frapper pour assommer ses adversaires.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions. ** [Attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +1d6
+**Conditions. ** [[roublard#ATTAQUESOURNOISE|Attaque sournoise]] +1d6
 
-**Avantage. ** Quand le personnage utilise une [arme contondante](./Tableau récapitulatif des armes.md#TYPE) pour infliger des dégâts d’attaque sournoise non létaux, il ajoute le nombre de dés d’attaques sournoise aux dégâts de l’attaque.
+**Avantage. ** Quand le personnage utilise une [[Tableau récapitulatif des armes#TYPE|arme contondante]] pour infliger des dégâts d’attaque sournoise non létaux, il ajoute le nombre de dés d’attaques sournoise aux dégâts de l’attaque.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise ce don, il peut dépenser un nombre de points d’endurance égal au nombre de dés de dégâts d’[attaque sournoise](./attaque sournoise.md) qu’il lance pour augmenter les [dégâts non-létaux](./Blessures et mort.md#NONLETAL) de son attaque du double du nombre de points d’endurance dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise ce don, il peut dépenser un nombre de points d’endurance égal au nombre de dés de dégâts d’[[attaque sournoise]] qu’il lance pour augmenter les [[Blessures et mort#NONLETAL|dégâts non-létaux]] de son attaque du double du nombre de points d’endurance dépensés.

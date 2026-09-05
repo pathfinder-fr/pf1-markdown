@@ -11,8 +11,8 @@ Categories:
 
 *Un tir bien placé permet de désarmer votre adversaire.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 13, [Viser](./Viser.md), [BBA](./BBA.md) +1
+**Conditions.** [[Dextérité|Dex]] 13, [[Viser]], [[BBA]] +1
 
-**Avantages.** le personnage peut tenter un  [désarmement](./Manœuvres offensives.md#Désarmement_2) à distance par une [action complexe](./Action complexe.md) avec n’importe quelle [arme à distance](./arme à distance.md) et une pénalité de -2 au jet de  [manœuvre de combat](./Manœuvres offensives.md). Ajoutez le modificateur de [dextérité](./Dextérité.md) du personnage à la place de son modificateur de [force](./Force.md) à sa [BMO](./BMO.md) et ajoutez-y aussi des pénalités de distance doublées. Si la cible est à plus de 9m (6c), ajoutez une pénalité supplémentaire de -2. Si la tentative de désarmement est un succès, la cible subit aussi des dégâts équivalents à une attaque à distance réussie avec cette arme. Le personnage ne peut pas être désarmé en échouant cette tentative de désarmement.
+**Avantages.** le personnage peut tenter un  [[Manœuvres offensives#Désarmement_2|désarmement]] à distance par une [[action complexe]] avec n’importe quelle [[arme à distance]] et une pénalité de -2 au jet de  [[Manœuvres offensives|manœuvre de combat]]. Ajoutez le modificateur de [[dextérité]] du personnage à la place de son modificateur de [[force]] à sa [[BMO]] et ajoutez-y aussi des pénalités de distance doublées. Si la cible est à plus de 9m (6c), ajoutez une pénalité supplémentaire de -2. Si la tentative de désarmement est un succès, la cible subit aussi des dégâts équivalents à une attaque à distance réussie avec cette arme. Le personnage ne peut pas être désarmé en échouant cette tentative de désarmement.

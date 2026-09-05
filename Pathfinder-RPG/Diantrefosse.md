@@ -19,11 +19,11 @@ Categories:
 
 {s:BDTexte|**PX** 307.200}
 
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille G, LM}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille G, LM}
 
-{s:BDTexte|**Init** +13 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision dans les ténèbres](./sous-type diable.md#VISIONTENEBRES) ; [Perception](./Perception.md) +33}
+{s:BDTexte|**Init** +13 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[sous-type diable#VISIONTENEBRES|vision dans les ténèbres]] ; [[Perception]] +33}
 
-{s:BDTexte|**Aura** [aura de terreur](./Terreur (capacité).md) (6 m (4 {s:c}), DD 23)}
+{s:BDTexte|**Aura** [[Terreur (Capacité)|aura de terreur]] (6 m (4 {s:c}), DD 23)}
 
 {s:BDSousTitre|Défense}
 
@@ -39,21 +39,21 @@ Categories:
 
 {s:BDTexte|**VD** 12 m (8 {s:c}), vol 18 m (12 {s:c}) (moyenne)}
 
-{s:BDTexte|**Corps à corps** 2 griffes, +32 (2d8+13), 2 ailes, +30 (2d6+6), morsure, +32 (4d6+13 et poison et maladie), coup de queue, +30 (2d8+6 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** 2 griffes, +32 (2d8+13), 2 ailes, +30 (2d6+6), morsure, +32 (4d6+13 et poison et maladie), coup de queue, +30 (2d8+6 et [[étreinte]])}
 
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) 2d8+19, façonnage de diables}
+{s:BDTexte|**Attaques spéciales** [[constriction]] 2d8+19, façonnage de diables}
 
 {s:BDTexte|**Pouvoirs magiques** (NLS 18<sup>e</sup>)}
 
-{s:BDSorts|À volonté — *[aura maudite](./Aura maudite.md)* (DD 26), *[blasphème](./Blasphème.md)* (DD 25), *[boule de feu](./Boule de feu.md)* (DD 21), *[cercle magique contre le Bien](./Cercle magique contre le Bien.md)*, *[création de mort-vivant](./Création de mort-vivant.md)*, *[dissipation suprême](./Dissipation suprême.md)*, *[image prédéterminée](./Image prédéterminée.md)* (DD 23), *[immobilisation de monstre de groupe](./Immobilisation de monstre de groupe.md)* (DD 27), *[invisibilité](./Invisibilité.md)*, *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*, *[mur de feu](./Mur de feu.md)*, *[rayon ardent](./Rayon ardent.md)*, *[scrutation suprême](./Scrutation suprême.md)* (DD 25), *[séquestration](./Séquestration.md)* (DD 26), *[téléportation suprême](./Téléportation suprême.md)* (lui-même et 25 kg d'objets uniquement)}
+{s:BDSorts|À volonté — *[[aura maudite]]* (DD 26), *[[blasphème]]* (DD 25), *[[boule de feu]]* (DD 21), *[[cercle magique contre le Bien]]*, *[[création de mort-vivant]]*, *[[dissipation suprême]]*, *[[image prédéterminée]]* (DD 23), *[[immobilisation de monstre de groupe]]* (DD 27), *[[invisibilité]]*, *[[mot de pouvoir étourdissant]]*, *[[mur de feu]]*, *[[rayon ardent]]*, *[[scrutation suprême]]* (DD 25), *[[séquestration]]* (DD 26), *[[téléportation suprême]]* (lui-même et 25 kg d'objets uniquement)}
 
-{s:BDSorts|3/jour — *[boule de feu](./Boule de feu.md)* en [incantation rapide](./Incantation rapide.md) (DD 21)}
+{s:BDSorts|3/jour — *[[boule de feu]]* en [[incantation rapide]] (DD 21)}
 
-{s:BDSorts|1/jour — *[convocation](./convocation.md)* (niveau 9, un diable de FP inférieur ou égal à 19, 100%), *[nuée de météores](./Nuée de météores.md)*}
+{s:BDSorts|1/jour — *[[convocation]]* (niveau 9, un diable de FP inférieur ou égal à 19, 100%), *[[nuée de météores]]*}
 
-{s:BDSorts|1/an — *[souhait](./Souhait.md)*}
+{s:BDSorts|1/an — *[[souhait]]*}
 
 {s:BDSousTitre|Caractéristiques}
 
@@ -61,11 +61,11 @@ Categories:
 
 {s:BDTexte|**BBA** +20, **BMO** +34 (+38 pour la lutte), **DMD** 53}
 
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (*[boule de feu](./Boule de feu.md)*), [Science de l'initiative](./Science de linitiative.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Succession d'enchaînements](./Succession denchaînements.md), [Volonté de fer](./Volonté de fer.md)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques multiples]], [[Enchaînement]], [[Frappe décisive]], [[Pouvoir magique rapide]] (*[[boule de feu]]*), [[Science de linitiative|Science de l'initiative]], [[Science de la frappe décisive]], [[Science de la volonté de fer]], [[Succession denchaînements|Succession d'enchaînements]], [[Volonté de fer]]}
 
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +31, [Bluff](./Bluff.md) +31, [Connaissances](./Connaissances.md) (mystères) +28, [Connaissances](./Connaissances.md) (plans) +31, [Connaissances](./Connaissances.md) (religion) +31, [Déguisement](./Déguisement.md) +27, [Diplomatie](./Diplomatie.md) +31, [Discrétion](./Discrétion.md) +28, [Estimation](./Estimation.md)+17, [Intimidation](./Intimidation.md) +31, [Perception](./Perception.md) +33, [Psychologie](./Psychologie.md) +33, [Survie](./Survie.md) +22, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +28, [Vol](./Vol.md) +30}
+{s:BDTexte|**Compétences** [[Art de la magie]] +31, [[Bluff]] +31, [[Connaissances]] (mystères) +28, [[Connaissances]] (plans) +31, [[Connaissances]] (religion) +31, [[Déguisement]] +27, [[Diplomatie]] +31, [[Discrétion]] +28, [[Estimation]]+17, [[Intimidation]] +31, [[Perception]] +33, [[Psychologie]] +33, [[Survie]] +22, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +28, [[Vol]] +30}
 
-{s:BDTexte|**Langues** céleste, commun, draconique, infernal ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|**Langues** céleste, commun, draconique, infernal ; [[télépathie]] 30 m (20 {s:c})}
 
 {s:BDSousTitre|Écologie}
 
@@ -77,16 +77,16 @@ Categories:
 
 {s:BDSousTitre|Capacités spéciales}
 
-{s:BDTexte|**Façonnage de diables (Sur)** Trois fois par jour, un diantrefosse peut consacrer une minute à transformer les [lémures](./Lémure.md) proches de lui en diables inférieurs. Cette capacité lui permet de remodeler un nombre de [lémures](./Lémure.md) égal au nombre de [DV](./../Ressources/DV.md) qu'il possède. Il peut alors les transformer en diables inférieurs (voir la section [Les rangs des diables](./Diable.md)) pour un total de [DV](./../Ressources/DV.md) égal à ce même nombre. Par exemple, un diantrefosse typique de 20 [DV](./../Ressources/DV.md) pourrait transformer 20 [lémures](./Lémure.md) en deux [diables osseux](./Diable osseux.md) (10 [DV](./../Ressources/DV.md) chacun) ou en trois [diables barbus](./Diable barbu.md) (6 [DV](./../Ressources/DV.md) chacun, laissant deux [lémures](./Lémure.md) tels quels), ou en n'importe quelle autre combinaison de diables mineurs. Les lémures à transformer doivent se trouver dans un rayon de 15 m (0 {s:c}) autour du diantrefosse. Ils deviennent immobiles et incapables de bouger dès que la transformation commence. Après une minute, ils deviennent des diables inférieurs prêts à obéir aux ordres du diantrefosse. Les diantrefosses pourraient théoriquement transformer un groupe de 20 [lémures](./Lémure.md) en un nouveau diantrefosse mais la plupart d'entre eux hésitent à le faire car ils n'auraient aucun contrôle sur le diable ainsi créé.}
+{s:BDTexte|**Façonnage de diables (Sur)** Trois fois par jour, un diantrefosse peut consacrer une minute à transformer les [[lémure|lémures]] proches de lui en diables inférieurs. Cette capacité lui permet de remodeler un nombre de [[lémure|lémures]] égal au nombre de [[DV]] qu'il possède. Il peut alors les transformer en diables inférieurs (voir la section [[Diable|Les rangs des diables]]) pour un total de [[DV]] égal à ce même nombre. Par exemple, un diantrefosse typique de 20 [[DV]] pourrait transformer 20 [[lémure|lémures]] en deux [[diable osseux|diables osseux]] (10 [[DV]] chacun) ou en trois [[diable barbu|diables barbus]] (6 [[DV]] chacun, laissant deux [[lémure|lémures]] tels quels), ou en n'importe quelle autre combinaison de diables mineurs. Les lémures à transformer doivent se trouver dans un rayon de 15 m (0 {s:c}) autour du diantrefosse. Ils deviennent immobiles et incapables de bouger dès que la transformation commence. Après une minute, ils deviennent des diables inférieurs prêts à obéir aux ordres du diantrefosse. Les diantrefosses pourraient théoriquement transformer un groupe de 20 [[lémure|lémures]] en un nouveau diantrefosse mais la plupart d'entre eux hésitent à le faire car ils n'auraient aucun contrôle sur le diable ainsi créé.}
 
-{s:BDTexte|**Maladie : Diantrespasme (Sur)** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 32 ; *incubation* effet immédiat ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 [For](./Force.md) ; *guérison* 3 réussites consécutives. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Maladie : Diantrespasme (Sur)** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 32 ; *incubation* effet immédiat ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d4 [[Force|For]] ; *guérison* 3 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
 
-{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 32 ; *fréquence* 1/round pendant 10 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d6 [Con](./Constitution.md) ; *guérison* 3 réussites consécutives. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 32 ; *fréquence* 1/round pendant 10 rounds ; *effet* [[affaiblissement temporaire]] 1d6 [[Constitution|Con]] ; *guérison* 3 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
 
 
 </div>
 
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 
 *Cet énorme diable a de gigantesques ailes roussies par les flammes et des yeux de braise qui le rendent vraiment terrifiant.*
 
@@ -287,12 +287,12 @@ dévastateur qu’il peut utiliser tous les 1d4 rounds. Ce souffle prend
 
 la forme d’un cône de 18 mètres (10d10 points de dégâts de feu et
 
-10d10 points de dégâts maudits comme le sort de [colonne de feu](./Colonne de feu.md),
+10d10 points de dégâts maudits comme le sort de [[colonne de feu]],
 
 réduits de moitié en cas de jet de Réflexe réussi contre un DD égal
 
 à 10 + la moitié du nombre de DV raciaux du diantrefosse + son
 
-modificateur de [Constitution](./Constitution.md)).
+modificateur de [[Constitution]]).
 
 </div></td></tr></table>

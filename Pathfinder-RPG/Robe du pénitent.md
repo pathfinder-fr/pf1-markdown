@@ -10,14 +10,14 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Robe du pénitent|{s:CMy}}
-**Aura** Variable puissante ; **NLS** 16 ; **Emplacement** [corps](./Objets merveilleux portés sur le corps.md) ; **Prix** 95 000 po ; **Poids** 0,5 kg
+**Aura** Variable puissante ; **NLS** 16 ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 95 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette modeste robe élimée accorde un bonus de résistance de +1 à tous les [jets de sauvegarde](./JDS.md). Un porteur [mythique](./mythique.md) peut débloquer des pouvoirs supplémentaires en honorant des vœux. Il choisit jusqu'à cinq vœux mais pas plus que le nombre de [grades mythiques](./Grade.md) qu'il possède. Pour chaque vœu choisi, le porteur doit dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) qu'il ne peut pas récupérer tant qu'il respecte son vœu et qu'il garde la robe sur lui. Après avoir respecté un ou plusieurs vœux pendant 24 heures, le porteur profite des avantages supplémentaires grâce à la robe.
-• 1 vœu : bonus de résistance de +2 à tous les jets de sauvegarde, bonus de compétence de +1 à tous les tests de [compétences](./Compétences.md).
-• 2 vœux : bonus de résistance de +3 à tous les jets de sauvegarde, bonus d'armure de +4 à la [CA](./CA.md).
+Cette modeste robe élimée accorde un bonus de résistance de +1 à tous les [[jds|jets de sauvegarde]]. Un porteur [[mythique]] peut débloquer des pouvoirs supplémentaires en honorant des vœux. Il choisit jusqu'à cinq vœux mais pas plus que le nombre de [[grade|grades mythiques]] qu'il possède. Pour chaque vœu choisi, le porteur doit dépenser une utilisation de [[pouvoir mythique]] qu'il ne peut pas récupérer tant qu'il respecte son vœu et qu'il garde la robe sur lui. Après avoir respecté un ou plusieurs vœux pendant 24 heures, le porteur profite des avantages supplémentaires grâce à la robe.
+• 1 vœu : bonus de résistance de +2 à tous les jets de sauvegarde, bonus de compétence de +1 à tous les tests de [[compétences]].
+• 2 vœux : bonus de résistance de +3 à tous les jets de sauvegarde, bonus d'armure de +4 à la [[CA]].
 • 3 vœux : bonus de résistance de +4 à tous les jets de sauvegarde, bonus de compétence de +2 à tous les tests de compétences.
 • 4 vœux : bonus de résistance de +5 à tous les jets de sauvegarde, bonus d'armure de +6 à la CA.
-• 5 vœux : bonus d'armure de +8 à la CA, tous les [DD](./DD.md) de sauvegarde des sorts du porteur sont augmentés de 1.
+• 5 vœux : bonus d'armure de +8 à la CA, tous les [[DD]] de sauvegarde des sorts du porteur sont augmentés de 1.
 
 Le porteur reçoit également les bonus des niveaux inférieurs. Par exemple, s'il a choisit 3 vœux, le porteur reçoit un bonus de résistance de +4 à ses jets de sauvegarde, un bonus de compétence de +2 à tous ses tests de compétences et un bonus d'armure de +4 à la CA. Le bonus d'armure qu'offre la robe peut être augmenté grâce à panoplie magique ou à d'autres sorts similaires. Le porteur peut choisir ses vœux parmi les suivants :
 • s'abstenir de consommer de la viande et de toucher des créatures mortes.
@@ -28,7 +28,7 @@ Le porteur reçoit également les bonus des niveaux inférieurs. Par exemple, s'
 • s'abstenir de toucher les autres, même avec ou à travers des vêtements.
 • ne dire et n'écrire que la vérité.
 
-Si le porteur rompt un vœu, la robe ne lui accorde plus que les avantages associés au nombre de vœux qu'il respecte encore. Les vœux brisés ne se récupèrent que par l'intermédiaire d'un sort de *[pénitence](./Pénitence.md)*.
+Si le porteur rompt un vœu, la robe ne lui accorde plus que les avantages associés au nombre de vœux qu'il respecte encore. Les vœux brisés ne se récupèrent que par l'intermédiaire d'un sort de *[[pénitence]]*.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), [Artisan mythique](./Artisan mythique (mythique).md), *[panoplie magique](./Panoplie magique.md)*, *[prière](./Prière.md)*, *[résistance](./sort Résistance.md)* ; **Coût** 47 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], [[Artisan mythique (mythique)|Artisan mythique]], *[[panoplie magique]]*, *[[prière]]*, *[[sort Résistance|résistance]]* ; **Coût** 47 500 po
 </div>

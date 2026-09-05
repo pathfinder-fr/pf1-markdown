@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#DESDEVIE
 ---
 
->>> [Vocabulaire courant#DESDEVIE](./Vocabulaire courant.md#DESDEVIE)
+>>> [[Vocabulaire courant#DESDEVIE]]

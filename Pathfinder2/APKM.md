@@ -5,8 +5,8 @@ LastModified: 2023-03-01 21:06
 ---
 
 <img src="Illustrations/Wiki/APKMLogo.webp" class="fright" alt="">
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des campagnes et aventures officielles pour Pathfinder 2](./AP.md)
+• [[AP|Retour à la page des campagnes et aventures officielles pour Pathfinder 2]]
 
 <nav class="wiki-toc"></nav>

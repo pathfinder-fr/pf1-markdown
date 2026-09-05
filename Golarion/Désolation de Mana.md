@@ -8,6 +8,6 @@ Categories:
 - Nex
 ---
 
-La Désolation de Mana est une petite région de l'est du [Garund](./Garund.md) où aucune forme de magie n'est plus possible. Elle recouvre la quasi totalité de l'[Alkenastre](./Alkenastre.md), le nord du [Geb](./Geb.md) et le sud du [Nex](./Nex.md).
+La Désolation de Mana est une petite région de l'est du [[Garund]] où aucune forme de magie n'est plus possible. Elle recouvre la quasi totalité de l'[[Alkenastre]], le nord du [[Geb]] et le sud du [[Nex]].
 
-Son apparition est due aux nombreux duels qui voyaient s'opposer les rois-mages des régions du sud du [Nex](./Nex.md) dans les temps anciens. La profusion de magie alors utilisée rompit les liens tissés au dessus de la région, rendant impossible l'utilisation de toute magie.
+Son apparition est due aux nombreux duels qui voyaient s'opposer les rois-mages des régions du sud du [[Nex]] dans les temps anciens. La profusion de magie alors utilisée rompit les liens tissés au dessus de la région, rendant impossible l'utilisation de toute magie.

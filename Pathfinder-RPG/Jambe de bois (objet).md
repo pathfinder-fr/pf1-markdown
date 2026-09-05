@@ -7,8 +7,8 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**Prix** 10 po ; **Poids** 2,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+{s:PMI}**Prix** 10 po ; **Poids** 2,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Une jambe de bois est un pilon de bois doté d'une cavité à une extrémité pour y placer le genou d'un individu. Les pirates qui perdent leur jambe portent souvent une jambe de bois. Elle réduit la vitesse de base de son porteur de 1,50 mètre et impose un malus de -4 aux tests d'[Acrobaties](./Acrobaties.md), d'[Escalade](./Escalade.md) et de [Natation](./Natation.md). Le personnage ne subit que la moitié des dégâts infligés par des [chausse-trappes](./Chausse-trappes (objet).md). Les pirates creusent souvent des compartiments secrets dans leur jambe de bois. Ceux-ci peuvent contenir des petits objets d'un poids de 500 grammes à 1 kilo (ou une topette de rhum). Si le personnage porte deux jambes de bois, sa vitesse de base est réduite de moitié et il subit un malus de -10 aux tests d'Acrobaties, d'Escalade et de Natation, mais il est immunisé aux dégâts infligés par les chausse-trappes.  
-Dans le cas des jambes de bois, on part du principe que la jointure du genou est intacte. Dans le cas contraire, utilisez à la place les statistiques de la [prothèse](./Prothèse (objet).md).
+Une jambe de bois est un pilon de bois doté d'une cavité à une extrémité pour y placer le genou d'un individu. Les pirates qui perdent leur jambe portent souvent une jambe de bois. Elle réduit la vitesse de base de son porteur de 1,50 mètre et impose un malus de -4 aux tests d'[[Acrobaties]], d'[[Escalade]] et de [[Natation]]. Le personnage ne subit que la moitié des dégâts infligés par des [[Chausse-trappes (objet)|chausse-trappes]]. Les pirates creusent souvent des compartiments secrets dans leur jambe de bois. Ceux-ci peuvent contenir des petits objets d'un poids de 500 grammes à 1 kilo (ou une topette de rhum). Si le personnage porte deux jambes de bois, sa vitesse de base est réduite de moitié et il subit un malus de -10 aux tests d'Acrobaties, d'Escalade et de Natation, mais il est immunisé aux dégâts infligés par les chausse-trappes.  
+Dans le cas des jambes de bois, on part du principe que la jointure du genou est intacte. Dans le cas contraire, utilisez à la place les statistiques de la [[Prothèse (objet)|prothèse]].

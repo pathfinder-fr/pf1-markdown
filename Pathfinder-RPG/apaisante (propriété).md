@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Apaisante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Apaisante](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Apaisante)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Apaisante]]

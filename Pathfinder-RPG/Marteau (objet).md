@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pa ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Si le personnage utilise un marteau en combat, il le traite comme une [arme improvisée](./arme improvisée.md) à une main infligeant un nombre de dégâts contondants égal à ceux d'un [gantelet clouté](./Gantelet clouté (arme).md) de même taille.
+Si le personnage utilise un marteau en combat, il le traite comme une [[arme improvisée]] à une main infligeant un nombre de dégâts contondants égal à ceux d'un [[gantelet clouté (arme)|gantelet clouté]] de même taille.

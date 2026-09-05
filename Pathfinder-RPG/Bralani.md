@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Forêt-Jungle|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.27*}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([azata](./sous-type azata.md), [Bien](./sous-type Bien.md), [Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, CB}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]]) de taille M, CB}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 14, pris au dépourvu 16 (Dex +4, naturelle +6)}
 {s:BDTexte|**pv** 66 (7d10+28)}
@@ -26,24 +26,24 @@ Categories:
 {s:BDTexte|**Distance** *arc long composite +1*, +12/+7 (1d8+6/x3)}
 {s:BDTexte|**Attaques spéciales** souffle du tourbillon}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6<sup>e</sup>)}
-{s:BDSorts|À volonté — *[bourrasque](./Bourrasque.md)* (DD 14), *[charme-personne](./Charme-personne.md)* (DD 13), *[flou](./Flou.md)*, *[image miroir](./Image miroir.md)*, *[mur de vent](./Mur de vent.md)*}
-{s:BDSorts|2/jour — *[éclair](./Éclair.md)* (DD 15), *[soins importants](./Soins importants.md)*}
+{s:BDSorts|À volonté — *[[bourrasque]]* (DD 14), *[[charme-personne]]* (DD 13), *[[flou]]*, *[[image miroir]]*, *[[mur de vent]]*}
+{s:BDSorts|2/jour — *[[éclair]]* (DD 15), *[[soins importants]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 18, **Con** 19, **Int** 13, **Sag** 14, **Cha** 15}
 {s:BDTexte|**BBA** +7, **BMO** +12, **DMD** 26}
-{s:BDTexte|**Dons** [Combat en aveugle](./Combat en aveugle.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +12, [Discrétion](./Discrétion.md) +14, [Dressage](./Dressage.md) +12, [Équitation](./Équitation.md) +14, [Perception](./Perception.md) +15, [Psychologie](./Psychologie.md) +12, [Vol](./Vol.md) +22}
-{s:BDTexte|**Langues** céleste, draconique, infernal ; [langage universel](./sous-type azata.md#LANGAGEUNIVERSEL)}
+{s:BDTexte|**Dons** [[Combat en aveugle]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Bluff]] +12, [[Discrétion]] +14, [[Dressage]] +12, [[Équitation]] +14, [[Perception]] +15, [[Psychologie]] +12, [[Vol]] +22}
+{s:BDTexte|**Langues** céleste, draconique, infernal ; [[sous-type azata#LANGAGEUNIVERSEL|langage universel]]}
 {s:BDTexte|**Particularités** forme venteuse}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Élysée)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou escouade (3-6)}
-{s:BDTexte|**Trésor** double (*cimeterre +1*, *arc long composite +1* <nowiki>[</nowiki>For +5<nowiki>]</nowiki>)}
+{s:BDTexte|**Trésor** double (*cimeterre +1*, *arc long composite +1* <nowiki>[[</nowiki>For +5<nowiki>]]</nowiki>)}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Forme venteuse (Sur)** Par une [action simple](./Action simple.md), le bralani peut transformer son corps humanoïde en un corps constitué de vent et de brumes et vice versa. Lorsqu'il est sous forme humanoïde, il ne peut pas voler ni utiliser sa capacité de souffle du tourbillon. Sous forme de vent, il se comporte comme s'il était affecté par un sort de *[vent divin](./Vent divin.md)*. Il peut porter des attaques de coup et utiliser ses pouvoirs magiques quelle que soit la forme adoptée. Un bralani conserve la forme qu'il a choisi jusqu'à ce qu'il décide de passer à l'autre. Ce [changement de forme](./Changement de forme (capacité).md) ne peut pas être dissipé et, une fois mort, le bralani conserve la forme qu'il avait adoptée en dernier (les deux formes sont considérées comme ses "vraies" formes). Un sort de *[vision lucide](./Vision lucide.md)* montre les deux formes simultanément.}
-{s:BDTexte|**Souffle du tourbillon (Sur)** Lorsqu'il est sous forme de vent, le bralani peut projeter un souffle de vent cinglant qui inflige 3d6 points de dégâts sur une ligne de 6 m (4 {s:c}) de longueur (un jet de [réflexes](./Réflexes.md) de [DD](./DD.md) 17 permet de diviser les dégâts par deux). Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Forme venteuse (Sur)** Par une [[action simple]], le bralani peut transformer son corps humanoïde en un corps constitué de vent et de brumes et vice versa. Lorsqu'il est sous forme humanoïde, il ne peut pas voler ni utiliser sa capacité de souffle du tourbillon. Sous forme de vent, il se comporte comme s'il était affecté par un sort de *[[vent divin]]*. Il peut porter des attaques de coup et utiliser ses pouvoirs magiques quelle que soit la forme adoptée. Un bralani conserve la forme qu'il a choisi jusqu'à ce qu'il décide de passer à l'autre. Ce [[changement de forme (Capacité)|changement de forme]] ne peut pas être dissipé et, une fois mort, le bralani conserve la forme qu'il avait adoptée en dernier (les deux formes sont considérées comme ses "vraies" formes). Un sort de *[[vision lucide]]* montre les deux formes simultanément.}
+{s:BDTexte|**Souffle du tourbillon (Sur)** Lorsqu'il est sous forme de vent, le bralani peut projeter un souffle de vent cinglant qui inflige 3d6 points de dégâts sur une ligne de 6 m (4 {s:c}) de longueur (un jet de [[réflexes]] de [[DD]] 17 permet de diviser les dégâts par deux). Le [[DD]] dépend de la [[Constitution]].}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [azatas](./Azata.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[azata|azatas]].***</li></ul>
 *La chevelure argentée de cet archer d’apparence elfique plein d’assurance vole au vent et des couleurs vives s’agitent dans ses yeux.*
 
 Les bralanis figurent parmi les azatas les plus féroces et les plus

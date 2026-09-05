@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Collines|Tempéré}
 {s:BDTexte|*Source : Familiar Folio page 28*}
 - **600 PX**
-- [Créature magique](./type Créature magique.md) de taille Min, CN
-- **Init **+3 ; **Sens** [Vision dans le noir](./vision dans le noir.md) à 18m (12 {s:c}), [Vision nocturne](./vision nocturne.md), [Détection de linvisibilité|Détection de l'invisibilité] ;  [Perception](./Perception.md) +6
+- [[type créature magique|Créature magique]] de taille Min, CN
+- **Init **+3 ; **Sens** [[Vision dans le noir]] à 18m (12 {s:c}), [[Vision nocturne]], [[Détection de linvisibilité|Détection de l'invisibilité]] ;  [[Perception]] +6
 (((Défense)))
 - **CA** 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)
 - **PV** 19 (3d10+3)
@@ -25,14 +25,14 @@ Categories:
 - **Corps à corps** 2 Griffes +4 (1d2-1 + Malchance), morsure +4 (1d3-1)
 - **Espace **0,30 m ; **Allonge** 0 m
 - **Pouvoirs magiques** (**NLS **3 ; concentration +5)
-  - *Constant* – [Détection de linvisibilité|Détection de l'invisibilité]
-  - *3/jour* – [Son imaginaire](./Son imaginaire.md), [Hypnose](./Hypnose.md), [Aura magique](./Aura magique.md)
-  - *1/semaine* – [Repos éternel](./Repos éternel.md)
+  - *Constant* – [[Détection de linvisibilité|Détection de l'invisibilité]]
+  - *3/jour* – [[Son imaginaire]], [[Hypnose]], [[Aura magique]]
+  - *1/semaine* – [[Repos éternel]]
 (((Caractéristiques)))
 - **For **8, **Dex **16, **Con **12, **Int **11, **Sag **13, **Cha **15
 - **BBA **+3 ; **BMO **+4 ; **DMD **13
-- **Dons **[Esprit tenace](./Esprit tenace.md) (Fausse malédiction), [Discret](./Discret.md)
-- **Compétences **[Bluff](./Bluff.md) +4, [Perception](./Perception.md) +6, [Discrétion](./Discrétion.md) +18, [Évasion](./Évasion.md) +5 
+- **Dons **[[Esprit tenace]] (Fausse malédiction), [[Discret]]
+- **Compétences **[[Bluff]] +4, [[Perception]] +6, [[Discrétion]] +18, [[Évasion]] +5 
 - **Langues **Commun ; compréhension animale
 (((Écologie)))
 - **Environnement **Collines tempérées

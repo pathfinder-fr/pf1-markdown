@@ -11,12 +11,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Iomédae|%2fPCUP%2fReligion-PNG%2fIomedae.png}{s:ISG}{s:GeM}**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 4, [Pal](./Paladin.md) 4, [Prê](./Prêtre.md) 5
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
+{s:divin|Iomédae|%2fPCUP%2fReligion-PNG%2fIomedae.png}{s:ISG}{s:GeM}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 5
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
 **Portée** 3 m
 **Effet** rayonnement de 3 m de rayon, centré sur le lanceur
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T; voir description)
+**Durée** 1 [[round]]/[[niveau]] (T; voir description)
 **Jet de sauvegarde** Volonté, annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-Les alliés du personnage situés dans la zone d’effet bénéficient d’un bonus sacré de +1 aux [jets d’attaque](./jet dattaque.md) et [de sauvegarde](./JDS.md) contre les effets de terreur, plus 1 [point de vie temporaire](./points de vie temporaires.md) par niveau de lanceur (maximum 20). Le lanceur irradie une lumière blanche ou dorée semblable à celle d’une [torche](./Torche (objet).md) pendant la durée du sort mais il peut supprimer cette lumière en une [action libre](./Action libre.md).
+Les alliés du personnage situés dans la zone d’effet bénéficient d’un bonus sacré de +1 aux [[jet dattaque|jets d’attaque]] et [[jds|de sauvegarde]] contre les effets de terreur, plus 1 [[points de vie temporaires|point de vie temporaire]] par niveau de lanceur (maximum 20). Le lanceur irradie une lumière blanche ou dorée semblable à celle d’une [[Torche (objet)|torche]] pendant la durée du sort mais il peut supprimer cette lumière en une [[action libre]].

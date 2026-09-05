@@ -7,7 +7,7 @@ Categories:
 - Src Guide de campagne
 ---
 
-{s:MenuGC}{s:GC}Le [MJ](./MJ.md) peut ajuster les [modificateurs de communauté](./Villes.md#Les_modificateurs_de_communauté_2) en fonction de la [taille](./Royaumes et guerre.md#TAILLE) du royaume et de la place que ces communautés occupent proportionnellement à celles décrites dans le *Manuel des Joueurs*.
+{s:MenuGC}{s:GC}Le [[MJ]] peut ajuster les [[Villes#Les_modificateurs_de_communauté_2|modificateurs de communauté]] en fonction de la [[Royaumes et guerre#TAILLE|taille]] du royaume et de la place que ces communautés occupent proportionnellement à celles décrites dans le *Manuel des Joueurs*.
 
 {| CLASS="tablo centre autoalt"
 |+ Les tailles et modificateurs des communautés

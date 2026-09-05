@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [barde](./Barde.md) 5, [druide](./Druide.md) 5, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 5, [prêtre](./Prêtre.md) 5, [sorcière](./Sorcière.md) 5  
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[barde]] 5, [[druide]] 5, [[ensorceleur]]/[[magicien]] 5, [[prêtre]] 5, [[sorcière]] 5  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
 
-**Restriction de cible** *[choisi](./Choisi.md)*
+**Restriction de cible** *[[choisi]]*
 
-Cet effet fonction comme *[serviteur I](./Serviteur I.md)* excepté qu’il convoque une créature de la liste de niveau 5 dans la Table "[Convocation de monstres](./Convocation de monstres.md)". Si le sort est lancé par un [druide](./Druide.md), il convoque à la place une créature tirée de la liste de niveau 5 de la Table "[Convocation d'alliées naturels](./Convocation dalliés naturels.md)". Si le mot cible est [augmenté](./Augmentation.md), le sort incluant cet effet invoque 1d4+1 créatures.
+Cet effet fonction comme *[[serviteur I]]* excepté qu’il convoque une créature de la liste de niveau 5 dans la Table "[[Convocation de monstres]]". Si le sort est lancé par un [[druide]], il convoque à la place une créature tirée de la liste de niveau 5 de la Table "[[Convocation dalliés naturels|Convocation d'alliées naturels]]". Si le mot cible est [[augmentation|augmenté]], le sort incluant cet effet invoque 1d4+1 créatures.

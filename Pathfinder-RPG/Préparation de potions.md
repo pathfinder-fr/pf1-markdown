@@ -9,7 +9,7 @@ Categories:
 
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 
-[→](./FAQ- Manuel des joueurs (Dons et compétences).md#28) Préparation de potions : Un personnage avec ce don peut-il créer une potion de n’importe quel sort qu’il connaît en ajoutant simplement un +5 au DD, sans même le préparer ?**'
+[[FAQ- Manuel des joueurs (Dons et compétences)#28|→]] Préparation de potions : Un personnage avec ce don peut-il créer une potion de n’importe quel sort qu’il connaît en ajoutant simplement un +5 au DD, sans même le préparer ?**'
 
 Non. Lorsqu’il fabrique des potions, l’artisan doit préparer et dépenser le sort utilisé par la potion pendant le processus de création. Il s’agit d’une exception à la règle normale qui permet à un lanceur de sorts d’ignorer une des conditions de fabrication d’un objet en augmentant son DD de +5.
 
@@ -17,12 +17,12 @@ Mise à jour : Page 549, dans les règles de Création d’objets magiques, dans
 
 De plus, il est impossible de créer des potions, des parchemins, des bâtons, des baguettes, ou tout autre objet à fin d’incantation ou à potentiel magique sans remplir toutes les conditions de sort imposées.}*Le personnage sait fabriquer des potions magiques.*
 
-**Catégorie** : [création](./Dons.md#CREATION)
+**Catégorie** : [[Dons#CREATION|création]]
 
-**Condition.** [NLS](./NLS.md) 3
+**Condition.** [[NLS]] 3
 
-**Avantage.** Le personnage peut fabriquer une potion reproduisant les effets de n’importe quel [sort](./sort.md) du 3<sup>e</sup> niveau maximum qu’il connaît, qui n'est pas à portée personnelle et qui vise une ou plusieurs créatures ou objets. La préparation demande deux heures si elle coûte 250 po ou moins, sinon, il faut une journée par tranche de 1 000 po que coûte la potion. Le personnage décide du [niveau de lanceur de sorts](./NLS.md) de la potion au moment où il la fabrique : il doit être suffisant pour pouvoir lancer le sort et ne doit pas dépasser le [niveau de lanceur de sorts](./NLS.md) du préparateur. Pour fabriquer une potion, le personnage utilise des composantes qui valent la moitié du prix de base de ladite potion.
+**Avantage.** Le personnage peut fabriquer une potion reproduisant les effets de n’importe quel [[sort]] du 3<sup>e</sup> niveau maximum qu’il connaît, qui n'est pas à portée personnelle et qui vise une ou plusieurs créatures ou objets. La préparation demande deux heures si elle coûte 250 po ou moins, sinon, il faut une journée par tranche de 1 000 po que coûte la potion. Le personnage décide du [[NLS|niveau de lanceur de sorts]] de la potion au moment où il la fabrique : il doit être suffisant pour pouvoir lancer le sort et ne doit pas dépasser le [[NLS|niveau de lanceur de sorts]] du préparateur. Pour fabriquer une potion, le personnage utilise des composantes qui valent la moitié du prix de base de ladite potion.
 
-Consultez les règles de création des objets magiques pour plus d’informations [ici](./Création dobjets magiques.md#POTIONS).
+Consultez les règles de création des objets magiques pour plus d’informations [[Création dobjets magiques#POTIONS|ici]].
 
-Lorsque le personnage prépare la potion, il fait tous les choix qu’il devrait normalement effectuer au moment de l’incantation. Quiconque boit la potion devient la [cible](./cible.md) du sort.
+Lorsque le personnage prépare la potion, il fait tous les choix qu’il devrait normalement effectuer au moment de l’incantation. Quiconque boit la potion devient la [[cible]] du sort.

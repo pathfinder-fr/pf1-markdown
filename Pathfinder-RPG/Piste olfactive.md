@@ -10,20 +10,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ;** Niveau** [Dru](./Druide.md) 2  
+**École** [[Transmutation]] ;** Niveau** [[Druide|Dru]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une reine des fourmis)  
+**Composantes** [[Composantes|V, G, M]] (une reine des fourmis)  
 
-**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** une créature/[niveau](./niveau.md), qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
+**Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Le personnage ou une créature consentante qu'il touche laisse une piste olfactive que seules les créatures désignées au moment de l'incantation peuvent suivre. Elles y parviennent avec une grande facilité : elles bénéficient d'un bonus de compétence de +20 aux tests de [Survie](./Survie.md) destinés à suivre la créature qui a laissé cette piste. Les créatures sujettes qui disposent du pouvoir spécial [odorat](./odorat.md) gagnent un bonus de compétence de +10 aux tests de [Sagesse](./Sagesse.md) ou de [Survie](./Survie.md) pour suivre la piste.
+Le personnage ou une créature consentante qu'il touche laisse une piste olfactive que seules les créatures désignées au moment de l'incantation peuvent suivre. Elles y parviennent avec une grande facilité : elles bénéficient d'un bonus de compétence de +20 aux tests de [[Survie]] destinés à suivre la créature qui a laissé cette piste. Les créatures sujettes qui disposent du pouvoir spécial [[odorat]] gagnent un bonus de compétence de +10 aux tests de [[Sagesse]] ou de [[Survie]] pour suivre la piste.
 
-De plus, le personnage peut laisser des messages olfactifs. Pour laisser un mot ou une émotion, il doit rester sur place pendant une [action de mouvement](./Action de mouvement.md). Les sujets qui tentent de déchiffrer ce message doivent faire un nouveau test de [Survie](./Survie.md) [DD](./DD.md) 20 avec un malus de -1 par mot ou émotion compris dans le message. Les créatures ne peuvent pas bénéficier des avantages de ce sort si elles n'ont aucun odorat ou ne peuvent pas s'en servir. Les créatures peuvent se servir de ce sort pour retourner sur leurs pas dans un donjon, un labyrinthe ou des zones similaires, même si celle qui laisse la piste est passée à plusieurs reprises au même endroit.
+De plus, le personnage peut laisser des messages olfactifs. Pour laisser un mot ou une émotion, il doit rester sur place pendant une [[action de mouvement]]. Les sujets qui tentent de déchiffrer ce message doivent faire un nouveau test de [[Survie]] [[DD]] 20 avec un malus de -1 par mot ou émotion compris dans le message. Les créatures ne peuvent pas bénéficier des avantages de ce sort si elles n'ont aucun odorat ou ne peuvent pas s'en servir. Les créatures peuvent se servir de ce sort pour retourner sur leurs pas dans un donjon, un labyrinthe ou des zones similaires, même si celle qui laisse la piste est passée à plusieurs reprises au même endroit.

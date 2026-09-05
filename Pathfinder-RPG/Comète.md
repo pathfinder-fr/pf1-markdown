@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Comète|{s:AE}}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 8 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 21 324 po ; **Poids** 1,5 kg
+**Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 21 324 po ; **Poids** 1,5 kg
 (((Description)))
-Quand le personnage lance cette *[lamétoile](./lamétoile (arme).md) [de foudre](./foudre (propriété).md) +1*, elle laisse une légère traînée d'étincelles. Une fois par jour, le personnage peut la lancer de manière à ce qu'elle se transforme en un *[éclair](./Éclair.md)* infligeant 8d6 points de dégâts ([Réflexes](./Réflexes.md) DD 14 pour réduire de moitié). Elle reprend sa forme physique à la fin de la course.
+Quand le personnage lance cette *[[lamétoile (arme)|lamétoile]] [[foudre (propriété)|de foudre]] +1*, elle laisse une légère traînée d'étincelles. Une fois par jour, le personnage peut la lancer de manière à ce qu'elle se transforme en un *[[éclair]]* infligeant 8d6 points de dégâts ([[Réflexes]] DD 14 pour réduire de moitié). Elle reprend sa forme physique à la fin de la course.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[éclair](./Éclair.md)* ; **Coût** 10 824 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[éclair]]* ; **Coût** 10 824 po
 </div>

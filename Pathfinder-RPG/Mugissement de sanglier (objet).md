@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:UI}**Prix** 190 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 15
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Lorsqu'elle est ingérée, cette concoction amère d'une teinte cuivrée accorde 1d4 utilisations d'[inspiration alchimique](./Outils alchimiques.md#INSPIRATION) qui ne peuvent être dépensées que sur les tests d'[Intimidation](./Intimidation.md). Les avantages du mugissement de sanglier durent 1 heure ; pendant cette durée, le personnage doit lancer deux fois tous les tests de [Diplomatie](./Diplomatie.md) et conserver le pire résultat.
+Lorsqu'elle est ingérée, cette concoction amère d'une teinte cuivrée accorde 1d4 utilisations d'[[Outils alchimiques#INSPIRATION|inspiration alchimique]] qui ne peuvent être dépensées que sur les tests d'[[Intimidation]]. Les avantages du mugissement de sanglier durent 1 heure ; pendant cette durée, le personnage doit lancer deux fois tous les tests de [[Diplomatie]] et conserver le pire résultat.

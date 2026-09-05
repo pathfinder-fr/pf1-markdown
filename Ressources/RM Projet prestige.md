@@ -553,7 +553,7 @@ Dès le niveau 2, puis aux 3 niveaux par la suite, le maître des ombres apprend
 
 :: *Pouvoir des ombres (Mag) *Une fois par jour, le maître des ombres peut utiliser l'ombre brute pour infliger des dégâts à ses adversaires, de la même manière que le sort *magie des ombres*. Il doit être de niveau 8 pour choisir ce pouvoir. Au niveau 14, il peut utiliser ce pouvoir trois fois par jour.
 
-:: *Sombre sorcellerie (Ext) *Le maître des ombres augmente de +2 le DD de tous les sorts qu'il lance appartenant au registre [Ombre]. Il doit être de niveau 5 pour choisir ce pouvoir.
+:: *Sombre sorcellerie (Ext) *Le maître des ombres augmente de +2 le DD de tous les sorts qu'il lance appartenant au registre [[Ombre]]. Il doit être de niveau 5 pour choisir ce pouvoir.
 
 :: *Téléportation par les ombres (Mag) *Le maître des ombres acquiert la faculté de se déplacer d’une zone d’ombre à une autre comme s’il employait le sort *porte dimensionnelle*. Ce pouvoir est toutefois plus limité que le sort, en ce sens que le personnage doit impérativement partir d’une zone d’ombre et apparaître au niveau d’une autre. La distance en mètre maximale qu'il peut parcourir de cette manière est égale à 12 mètres par niveau de maître des ombres. Le maître des ombres doit être de niveau 5 ou plus pour choisir ce pouvoir.
 

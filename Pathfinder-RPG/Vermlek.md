@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Le livre des damnés page 122*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([démon](./sous-type démon.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [chaos](./sous-type Chaos.md)) de taille M, CM}
-{s:BDTexte|**Init** -1 ; **Sens** [perception aveugle](./perception aveugle.md) 9 m, [vision dans le noir](./vision dans le noir.md) 18 m, [odorat](./odorat.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type démon|démon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Chaos|chaos]]) de taille M, CM}
+{s:BDTexte|**Init** -1 ; **Sens** [[perception aveugle]] 9 m, [[vision dans le noir]] 18 m, [[odorat]] ; [[Perception]] +8}
 (((Défense)))
 {s:BDTexte|**CA** 15, contact 9, pris au dépourvu 15 (armure +3, Dex -1, naturelle +3)}
 {s:BDTexte|**pv** 30 (4d10+8)}
@@ -25,18 +25,18 @@ Categories:
 {s:BDTexte|**Résistances** acide 10, froid 10, feu 10}
 {s:BDTexte|**RM** 14}
 (((Attaque)))
-{s:BDTexte|**VD** 9 m, [creusement](./Creusement.md) 6 m}
+{s:BDTexte|**VD** 9 m, [[creusement]] 6 m}
 {s:BDTexte|**Corps à corps** épée longue, +6 (1d8+2/19-20) et morsure, +1 (1d6+1)}
 {s:BDTexte|**Attaques spéciales** possession corporelle}
 {s:BDTexte|**Pouvoirs magiques** (NLS 3 ; concentration +4)}
-{s:BDSorts|3/jour – [blessure légère de groupe](./Blessure légère de groupe.md) (DD 16), [pattes d’araignée](./Pattes daraignée.md)}
-{s:BDSorts|1/jour – [préservation des morts](./Préservation des morts.md), [convocation](./convocation.md) (niveau 2, 1d4 dretchs, 50%)}
+{s:BDSorts|3/jour – [[blessure légère de groupe]] (DD 16), [[pattes daraignée|pattes d’araignée]]}
+{s:BDSorts|1/jour – [[préservation des morts]], [[convocation]] (niveau 2, 1d4 dretchs, 50%)}
 (((Statistiques)))
 {s:BDTexte|**For** 15, **Dex** 9, **Con** 14, **Int** 12, **Sag** 13, **Cha** 12}
 {s:BDTexte|**BBA** +4 ; **BMO** +6 (+10 lutte), **DMD** 15}
-{s:BDTexte|**Dons** [Fourberie](./Fourberie.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md), +10, [Connaissances](./Connaissances.md) (religion) +8, [Déguisement](./Déguisement.md)
-+10 (+18 lorsqu’il occupe un corps), [Évasion](./Évasion.md) +6 (+14 lorsqu’il n’occupe pas de corps), [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +8, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +8 ; **Modificateurs raciaux** +8 en Déguisement lorsqu’il occupe un corps, +8 en Évasion lorsqu’il n’occupe pas de corps}
+{s:BDTexte|**Dons** [[Fourberie]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Bluff]], +10, [[Connaissances]] (religion) +8, [[Déguisement]]
++10 (+18 lorsqu’il occupe un corps), [[Évasion]] +6 (+14 lorsqu’il n’occupe pas de corps), [[Perception]] +8, [[Psychologie]] +8, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +8 ; **Modificateurs raciaux** +8 en Déguisement lorsqu’il occupe un corps, +8 en Évasion lorsqu’il n’occupe pas de corps}
 {s:BDTexte|**Langues** abyssal, commun ; télépathie 30 m}
 (((Écologie)))
 {s:BDTexte|**Environnement** quelconque (Abysses ; champs de bataille et cimetières)}
@@ -76,7 +76,7 @@ un vermlek et l’énergie positive le blesse, comme s’il était un
 mort-vivant.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 *C'est un homme corpulent qui titube comme s'il avait trop bu, mais si on l'observe de plus près, l'horrible vérité se fait jour : il ne titube pas vraiment, mais quelque chose grouille à en lui, comme si ses organes internes se tortillaient et ondulaient, telle une masse de serpents huileux. Soudain, dans un haut-le-cœur et un bruit de déchirure écœurant et abominable, le visage de l'homme s'ouvre comme les pétales d'une fleur corrompue et un ver blafard doté de cinq mâchoires jaillit de la béance aux bords déchiquetés, là où se tenait une tête quelques instants auparavant.*
 
 

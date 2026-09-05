@@ -5,61 +5,61 @@
 <div class="presentation navmenudroite">
 ### Règles alternatives unchained
 <ul>
-<li>[Présentation](./../Pathfinder-RPG/Règles alternatives unchained.md)</li>
-<li>{s:PM|Classes}[Classes unchained](./../Pathfinder-RPG/Classes unchained.md)&emsp;
+<li>[[Règles alternatives unchained|Présentation]]</li>
+<li>{s:PM|Classes}[[Classes unchained]]&emsp;
 <ul ID="Classes" CLASS="listecachée cadrebas">
-<li>[Barbare unchained](./../Pathfinder-RPG/Barbare unchained.md)</li>
-<li>[Conjurateur unchained](./../Pathfinder-RPG/conjurateur unchained.md)</li>
-<li>[Moine unchained](./../Pathfinder-RPG/Moine unchained.md)</li>
-<li>[Roublard unchained](./../Pathfinder-RPG/Roublard unchained.md)</li>
-<li>[Bonus de base fractionnaires](./../Pathfinder-RPG/Bonus de base fractionnaires.md)</li>
-<li>[Progression échelonnée](./../Pathfinder-RPG/Progression échelonnée.md)</li>
+<li>[[Barbare unchained]]</li>
+<li>[[Conjurateur unchained]]</li>
+<li>[[Moine unchained]]</li>
+<li>[[Roublard unchained]]</li>
+<li>[[Bonus de base fractionnaires]]</li>
+<li>[[Progression échelonnée]]</li>
 </ul>
 </li>
-<li>{s:PM|Compétences}[Compétences et options unchained](./../Pathfinder-RPG/Compétences et options unchained.md)&emsp;
+<li>{s:PM|Compétences}[[Compétences et options unchained]]&emsp;
 <ul ID="Compétences" CLASS="listecachée cadrebas">
-<li>[Compétences contextuelles](./../Pathfinder-RPG/Compétences contextuelles.md)</li>
-<li>[Compétences fusionnées](./../Pathfinder-RPG/Compétences fusionnées.md)</li>
-<li>[Compétences groupées](./../Pathfinder-RPG/Compétences groupées.md)</li>
-<li>[Artisanat et Profession alternatives](./../Pathfinder-RPG/Artisanat et Profession alternatives.md)</li>
-<li>[Extensions de compétences](./../Pathfinder-RPG/Extensions de compétences.md)</li>
-<li>[Variante de multiclassage](./../Pathfinder-RPG/Variante de multiclassage.md)</li>
+<li>[[Compétences contextuelles]]</li>
+<li>[[Compétences fusionnées]]</li>
+<li>[[Compétences groupées]]</li>
+<li>[[Artisanat et Profession alternatives]]</li>
+<li>[[Extensions de compétences]]</li>
+<li>[[Variante de multiclassage]]</li>
 </ul>
 </li>
-<li>{s:PM|Mécanismes}[Mécanismes de jeu unchained](./../Pathfinder-RPG/Mécanismes de jeu unchained.md)&emsp;
+<li>{s:PM|Mécanismes}[[Mécanismes de jeu unchained]]&emsp;
 <ul ID="Mécanismes" CLASS="listecachée cadrebas">
-<li>[Alignement unchained](./../Pathfinder-RPG/Alignement unchained.md)</li>
-<li>[Éliminer l'alignement](./../Pathfinder-RPG/Éliminer lalignement.md)</li>
-<li>[Gestion d'actions révisée](./../Pathfinder-RPG/Gestion dactions révisée.md)</li>
-<li>[Éliminer les attaques multiples](./../Pathfinder-RPG/Éliminer les attaques multiples.md)</li>
-<li>[Endurance et Astuces martiales](./../Pathfinder-RPG/Endurance et Astuces martiales.md)</li>
-<li>[Seuils de blessure](./../Pathfinder-RPG/Seuils de blessure.md)</li>
-<li>[Maladies et poisons unchained](./../Pathfinder-RPG/Maladies et poisons unchained.md)</li>
+<li>[[Alignement unchained]]</li>
+<li>[[Éliminer lalignement|Éliminer l'alignement]]</li>
+<li>[[Gestion dactions révisée|Gestion d'actions révisée]]</li>
+<li>[[Éliminer les attaques multiples]]</li>
+<li>[[Endurance et Astuces martiales]]</li>
+<li>[[Seuils de blessure]]</li>
+<li>[[Maladies et poisons unchained]]</li>
 </ul>
 </li>
-<li>{s:PM|Magie}[Magie unchained](./../Pathfinder-RPG/Magie unchained.md)&emsp;
+<li>{s:PM|Magie}[[Magie unchained]]&emsp;
 <ul ID="Magie" CLASS="listecachée cadrebas">
-<li>[Incantation simplifiée](./../Pathfinder-RPG/Incantation simplifiée.md)</li>
-<li>[Altérations de la magie](./../Pathfinder-RPG/Altérations de la magie.md)</li>
-<li>[Composantes matérielles ésotériques](./../Pathfinder-RPG/Composantes matérielles ésotériques.md)</li>
-<li>[Bonus de progression automatique](./../Pathfinder-RPG/Bonus de progression automatique.md)</li>
-<li>[Bonus intrinsèques des objets](./../Pathfinder-RPG/Bonus intrinsèques des objets.md)</li>
-<li>[Objets évolutifs](./../Pathfinder-RPG/Objets évolutifs.md)</li>
-<li>[Création dynamique d'objets magiques](./../Pathfinder-RPG/Création dynamique dobjets magiques.md)</li>
+<li>[[Incantation simplifiée]]</li>
+<li>[[Altérations de la magie]]</li>
+<li>[[Composantes matérielles ésotériques]]</li>
+<li>[[Bonus de progression automatique]]</li>
+<li>[[Bonus intrinsèques des objets]]</li>
+<li>[[Objets évolutifs]]</li>
+<li>[[Création dynamique dobjets magiques|Création dynamique d'objets magiques]]</li>
 </ul>
 </li>
-<li>{s:PM|Monstres}[Création de monstres simplifiée](./../Pathfinder-RPG/Création de monstres simplifiée.md)&emsp;
+<li>{s:PM|Monstres}[[Création de monstres simplifiée]]&emsp;
 <ul ID="Monstres" CLASS="listecachée cadrebas">
-<li>[Étape 1. La gamme](./../Pathfinder-RPG/Création de monstres simplifiée, Étape 1.md)</li>
-<li>[Étape 2. La greffe de type de créature ou de classe](./../Pathfinder-RPG/Création de monstres simplifiée, Étape 2.md)</li>
-<li>[Étape 3. La greffe de sous-type](./../Pathfinder-RPG/Création de monstres simplifiée, Étape 3.md)</li>
-<li>[Étape 4. La greffe d’archétype](./../Pathfinder-RPG/Création de monstres simplifiée, Étape 4.md)</li>
-<li>[Étape 5. La greffe de taille](./../Pathfinder-RPG/Création de monstres simplifiée, Étape 5.md)</li>
-<li>[Étape 6. Les sorts](./../Pathfinder-RPG/Création de monstres simplifiée, Étape 6.md)</li>
-<li>[Étape 7. Les options de monstre](./../Pathfinder-RPG/Création de monstres simplifiée, Étape 7.md)</li>
-<li>[Étape 8. Les compétences](./../Pathfinder-RPG/Création de monstres simplifiée, Étape 8.md)</li>
-<li>[Étape 9. Les dégâts](./../Pathfinder-RPG/Création de monstres simplifiée, Étape 9.md)</li>
-<li>[Exemples de création de monstres](./../Pathfinder-RPG/Création de monstres simplifiée, Exemple.md)</li>
+<li>[[Création de monstres simplifiée, Étape 1|Étape 1. La gamme]]</li>
+<li>[[Création de monstres simplifiée, Étape 2|Étape 2. La greffe de type de créature ou de classe]]</li>
+<li>[[Création de monstres simplifiée, Étape 3|Étape 3. La greffe de sous-type]]</li>
+<li>[[Création de monstres simplifiée, Étape 4|Étape 4. La greffe d’archétype]]</li>
+<li>[[Création de monstres simplifiée, Étape 5|Étape 5. La greffe de taille]]</li>
+<li>[[Création de monstres simplifiée, Étape 6|Étape 6. Les sorts]]</li>
+<li>[[Création de monstres simplifiée, Étape 7|Étape 7. Les options de monstre]]</li>
+<li>[[Création de monstres simplifiée, Étape 8|Étape 8. Les compétences]]</li>
+<li>[[Création de monstres simplifiée, Étape 9|Étape 9. Les dégâts]]</li>
+<li>[[Création de monstres simplifiée, Exemple|Exemples de création de monstres]]</li>
 </ul>
 </li>
 </ul>

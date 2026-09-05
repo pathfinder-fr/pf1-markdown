@@ -4,11 +4,11 @@ Title: Les ruines de Xin-Tarion spoiler
 LastModified: 2018-12-05 22:11
 ---
 
-Bienvenue sur cette page de spoilers qui va expliquer l'historique des [Ruines de Xin-Tarion](./Les ruines Xin-Tarion.md).
+Bienvenue sur cette page de spoilers qui va expliquer l'historique des [[Les ruines Xin-Tarion|Ruines de Xin-Tarion]].
 
 Introduction
 
-En ce qui concerne l'histoire, je me suis inspirée de  de Dalvyn et Rectulo [http://www.pathfinder-fr.org/Wiki/Golarion.Aides%20de%20jeu.ashx#Aides_de_jeu_li%C3%A9es_%C3%A0_un_th%C3%A8me_sp%C3%A9cifique_5|l'aide de jeu] sur le mystères des runes du thassilon  qui a été écrit bien avant que ne sorte l'Etoile Brisée.
+En ce qui concerne l'histoire, je me suis inspirée de  de Dalvyn et Rectulo [l'aide de jeu](http://www.pathfinder-fr.org/Wiki/Golarion.Aides%20de%20jeu.ashx#Aides_de_jeu_li%C3%A9es_%C3%A0_un_th%C3%A8me_sp%C3%A9cifique_5) sur le mystères des runes du thassilon  qui a été écrit bien avant que ne sorte l'Etoile Brisée.
 
 Ainsi, il y avait tout un flou qui entourait Xin et qui a été spéculé dans cette aide de jeu dont je me suis inspirée, mais on peut arranger comme bon nous semble cette histoire.
 

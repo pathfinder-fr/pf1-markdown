@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Dégivrante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Dégivrante](./Descriptions individuelles des propriétés spéciales des armes.md#Dégivrante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Dégivrante]]

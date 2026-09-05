@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage peut utiliser ses pièges de rôdeurs plus souvent. *
 
-**Condition.** Pouvoir de classe [piège](./piège de rôdeur.md)
+**Condition.** Pouvoir de classe [[piège de rôdeur|piège]]
 
-**Avantage.** Le personnage peut utiliser ses [pièges](./Pièges de rôdeur.md) de [rôdeur](./Rôdeur.md) deux fois de plus par jour.
+**Avantage.** Le personnage peut utiliser ses [[pièges de rôdeur|pièges]] de [[rôdeur]] deux fois de plus par jour.

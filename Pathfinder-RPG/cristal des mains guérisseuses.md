@@ -11,11 +11,11 @@ Categories:
 
 <div class="BD">
 {s:APG}{s:BDTitre|Cristal des mains guérisseuses|}
-**Aura** [Invocation](./Invocation.md) modérée ([guérison](./guérison.md) ; **NLS** 10 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 12 000 po ; **Poids** 0,5 kg
+**Aura** [[Invocation]] modérée ([[guérison]] ; **NLS** 10 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 12 000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce prisme scintillant est maintenu en place par une simple corde de coton. Une personne qui dispose du pouvoir de classe [imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) peut diriger une utilisation de ce pouvoir en direction du cristal qui le stocke alors jusqu’à ce que son porteur prononce le [mot de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE) qui le libère. Quand le cristal est imprégné, il commence à luire d’une lumière d’un blanc de perle.
+Ce prisme scintillant est maintenu en place par une simple corde de coton. Une personne qui dispose du pouvoir de classe [[paladin#IMPOSITIONDESMAINS|imposition des mains]] peut diriger une utilisation de ce pouvoir en direction du cristal qui le stocke alors jusqu’à ce que son porteur prononce le [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|mot de commande]] qui le libère. Quand le cristal est imprégné, il commence à luire d’une lumière d’un blanc de perle.
 
-Quand le porteur libère l’énergie par une [action simple](./Action simple.md), il bénéficie de l’imposition stockée comme si la personne qui a imprégné le cristal venait de le toucher. Ceci équivaut à bénéficier directement de l’[imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) de la part de la personne qui a chargé le cristal, ainsi que des [grâces](./Paladin.md#GRACE) qu’il avait au moment de l’imprégnation.
+Quand le porteur libère l’énergie par une [[action simple]], il bénéficie de l’imposition stockée comme si la personne qui a imprégné le cristal venait de le toucher. Ceci équivaut à bénéficier directement de l’[[paladin#IMPOSITIONDESMAINS|imposition des mains]] de la part de la personne qui a chargé le cristal, ainsi que des [[paladin#GRACE|grâces]] qu’il avait au moment de l’imprégnation.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[soins légers](./Soins légers.md)*, le créateur doit être un [paladin](./Paladin.md) ; **Coût** 6 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[soins légers]]*, le créateur doit être un [[paladin]] ; **Coût** 6 000 po
 </div>

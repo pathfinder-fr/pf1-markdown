@@ -9,6 +9,6 @@ Categories:
 
 {s:cm}*Le personnage nage plus vite que les autres membres de son espèce.*
 
-**Conditions.** [Homme-lézard](./Homme-lézard.md), vitesse de nage
+**Conditions.** [[Homme-lézard]], vitesse de nage
 
 **Avantages.** La vitesse de nage augmente de 4,50 mètres.

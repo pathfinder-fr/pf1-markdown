@@ -9,16 +9,16 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [alchimiste](./Alchimiste.md) 3, [druide](./Druide.md) 3, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 3, [magus](./Magus.md) 3, [sorcière](./Sorcière.md) 3  
+**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[alchimiste]] 3, [[druide]] 3, [[ensorceleur]]/[[magicien]] 3, [[magus]] 3, [[sorcière]] 3  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
 
-**Restrictions de cible** *[personnel](./Personnel (mot de pouvoir).md)*
+**Restrictions de cible** *[[personnel (mot de pouvoir)|personnel]]*
 
-La cible d’un sort incluant cet effet bénéfice d’un bonus de taille de +2 à la [Force](./Force.md) et de deux des avantages suivants : deux attaques de griffe infligeant chacune 1d6 points de dégâts pour une [taille M](./taille M.md) (1d4 si [P](./taille P.md)), une attaque de morsure infligeant 1d8 points de dégâts pour une [taille M](./taille M.md) (1d6 si [P](./taille P.md)), vitesse d’escalade de 9 mètres (6 {s:c}), vitesse de nage de 9 mètres (6 {s:c}), [vision dans le noir](./vision dans le noir.md) jusqu’à 20 mètres, [vision nocturne](./Vision nocturne (capacité).md), [odorat](./Odorat (capacité).md) ou bonus d’armure naturelle de +2.
+La cible d’un sort incluant cet effet bénéfice d’un bonus de taille de +2 à la [[Force]] et de deux des avantages suivants : deux attaques de griffe infligeant chacune 1d6 points de dégâts pour une [[taille M]] (1d4 si [[taille P|P]]), une attaque de morsure infligeant 1d8 points de dégâts pour une [[taille M]] (1d6 si [[taille P|P]]), vitesse d’escalade de 9 mètres (6 {s:c}), vitesse de nage de 9 mètres (6 {s:c}), [[vision dans le noir]] jusqu’à 20 mètres, [[vision nocturne (capacité)|vision nocturne]], [[odorat (capacité)|odorat]] ou bonus d’armure naturelle de +2.
 
 **Augmentation.** La cible bénéficie de trois avantages au lieu de deux.
 
-**Augmentation.** Ce sort peut utiliser le mot cible *[choisi](./Choisi.md)*. Augmenter cet effet améliore son niveau de 1.
+**Augmentation.** Ce sort peut utiliser le mot cible *[[choisi]]*. Augmenter cet effet améliore son niveau de 1.

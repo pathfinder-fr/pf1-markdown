@@ -10,25 +10,25 @@ Categories:
 - Src Occult Origins
 ---
 
-{s:cs}{s:OO}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Hyp](./Hypnotiseur.md) 2, [Psy](./Psychiste.md) 2, [Spi](./Spirite.md) 2
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./contact.md)
+{s:cs}{s:OO}**École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Psychiste|Psy]] 2, [[Spirite|Spi]] 2
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[contact]]
 **Cible** une créature
 **Durée** instantané
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage brouille la limite entre le corps et l'esprit, redirigeant les [affaiblissements](./affaiblissement temporaire (capacité).md) et les [diminutions de caractéristique](./affaiblissement temporaire (capacité).md) affectant sa cible à d'autres caractéristiques selon le tableau ci-dessous.
+Le personnage brouille la limite entre le corps et l'esprit, redirigeant les [[Affaiblissement temporaire (capacité)|affaiblissements]] et les [[Affaiblissement temporaire (capacité)|diminutions de caractéristique]] affectant sa cible à d'autres caractéristiques selon le tableau ci-dessous.
 
 {| CLASS="tablo centre toutgauche autoalt"
 |- CLASS="titre"
 | Caractéristiques physiques || Caractéristiques mentales
 |- CLASS="premier"
-| [Force](./Force.md) || [Intelligence](./Intelligence.md)
+| [[Force]] || [[Intelligence]]
 |-
-| [Dextérité](./Dextérité.md) || [Sagesse](./Sagesse.md)
+| [[Dextérité]] || [[Sagesse]]
 |-
-| [Constitution](./Constitution.md) || [Charisme](./Charisme.md)
+| [[Constitution]] || [[Charisme]]
 |}
 
 Le transfert de dégâts peut se faire dans n'importe quel sens, le personnage peut convertir un affaiblissement d'Intelligence en Force et inversement. Le personnage peut transférer n'importe quel nombre de points d'affaiblissement ou de diminution en une seule incantation, mais seulement d'une caractéristique à celle correspondante. Il ne peut pas transférer assez de points pour réduire une valeur de caractéristique à 0.

@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Charme antipoison|}
-**Aura** [Invocation](./Invocation.md) faible ; **NLS** 5 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 27 000 po ; **Poids** —
+**Aura** [[Invocation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 27 000 po ; **Poids** —
 (((Description)))
-Cette amulette est une pierre noire et brillante montée sur une fine chaîne en argent. Elle permet à son porteur d’être [immunisé](./immunisé.md) contre les [poisons](./Poisons.md). Les [poisons](./Poisons.md) déjà actifs avant qu’il l’enfile continuent cependant à faire effet.
+Cette amulette est une pierre noire et brillante montée sur une fine chaîne en argent. Elle permet à son porteur d’être [[immunisé]] contre les [[poisons]]. Les [[poisons]] déjà actifs avant qu’il l’enfile continuent cependant à faire effet.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[neutralisation du poison](./Neutralisation du poison.md)* ; **Coût** 13 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[neutralisation du poison]]* ; **Coût** 13 500 po
 </div>

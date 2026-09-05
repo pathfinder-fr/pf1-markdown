@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Roublard#TALENTDEMAITREROUBLARD
 ---
 
->>> [Roublard#TALENTDEMAITREROUBLARD](./Roublard.md#TALENTDEMAITREROUBLARD)
+>>> [[Roublard#TALENTDEMAITREROUBLARD]]

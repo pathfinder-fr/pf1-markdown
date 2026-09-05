@@ -11,22 +11,22 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[mort](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 8, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mort]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 8, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** 1 créature vivante  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Ce sort inflige 10 points de dégâts par [niveau de lanceur de sorts](./NLS.md). Si la cible réussit son [jet de sauvegarde](./jet de sauvegarde.md), elle perd seulement 3d6 [points de vie](./points de vie.md), +1 par [niveau de lanceur de sorts](./NLS.md). Il est possible que les dégâts occasionnés soient suffisants pour la tuer, même si elle réussit son [jet de sauvegarde](./jet de sauvegarde.md).
+Ce sort inflige 10 points de dégâts par [[NLS|niveau de lanceur de sorts]]. Si la cible réussit son [[jet de sauvegarde]], elle perd seulement 3d6 [[points de vie]], +1 par [[NLS|niveau de lanceur de sorts]]. Il est possible que les dégâts occasionnés soient suffisants pour la tuer, même si elle réussit son [[jet de sauvegarde]].
 
 ### Mythique
 {s:CMy}
-Les dégâts infligés s’élèvent à 15 points dégâts par [niveau de lanceur de sorts](./NLS.md) plus un affaiblissement temporaire de 1d8 points de [Constitution](./Constitution.md). Une créature qui réussit son jet de sauvegarde subit 3d8 points de dégâts + 1 point par [niveau de lanceur de sorts](./NLS.md), un affaiblissement temporaire de 1d4 points de [Constitution](./Constitution.md) et elle est chancelante pendant un round.
+Les dégâts infligés s’élèvent à 15 points dégâts par [[NLS|niveau de lanceur de sorts]] plus un affaiblissement temporaire de 1d8 points de [[Constitution]]. Une créature qui réussit son jet de sauvegarde subit 3d8 points de dégâts + 1 point par [[NLS|niveau de lanceur de sorts]], un affaiblissement temporaire de 1d4 points de [[Constitution]] et elle est chancelante pendant un round.

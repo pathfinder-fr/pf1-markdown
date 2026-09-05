@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEDEPRECISION
 ---
 
->>> [découvertes#BOMBEDEPRECISION](./découvertes.md#BOMBEDEPRECISION)
+>>> [[découvertes#BOMBEDEPRECISION]]

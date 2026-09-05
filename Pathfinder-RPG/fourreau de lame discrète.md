@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Fourreau de lame discrète|{s:APG}{s:AE}}
-**Aura** [Illusion](./Illusion.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 5 000 po ; **Poids** 1 kg
+**Aura** [[Illusion]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 5 000 po ; **Poids** 1 kg
 (((Description)))
-Ce fourreau à l’air ordinaire et pourtant bien utile s’accommode de n’importe quelle arme blanche tranchante, des dagues aux épées à deux mains. Quand on place une lame à l’intérieur, elle devient [invisible](./Invisible.md), comme son fourreau (comme avec un sort d’*[invisibilité](./Invisibilité.md)*) jusqu’à ce que le personnage dégaine, la lame et le fourreau redevenant alors visibles. L’arme [invisible](./Invisible.md) au fourreau est toujours détectable au toucher mais son porteur gagne un bonus de +5 aux tests d’[Escamotage](./Escamotage.md) pour la dissimuler et il est impossible de la remarquer en inspectant sommairement le personnage. Les effets qui permettent de détecter ou de révéler les choses [invisibles](./Invisible.md) fonctionnent sur l’arme au fourreau.
+Ce fourreau à l’air ordinaire et pourtant bien utile s’accommode de n’importe quelle arme blanche tranchante, des dagues aux épées à deux mains. Quand on place une lame à l’intérieur, elle devient [[invisible]], comme son fourreau (comme avec un sort d’*[[invisibilité]]*) jusqu’à ce que le personnage dégaine, la lame et le fourreau redevenant alors visibles. L’arme [[invisible]] au fourreau est toujours détectable au toucher mais son porteur gagne un bonus de +5 aux tests d’[[Escamotage]] pour la dissimuler et il est impossible de la remarquer en inspectant sommairement le personnage. Les effets qui permettent de détecter ou de révéler les choses [[invisible|invisibles]] fonctionnent sur l’arme au fourreau.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[invisibilité](./Invisibilité.md)* ; **Coût** 2 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[invisibilité]]* ; **Coût** 2 500 po
 </div>

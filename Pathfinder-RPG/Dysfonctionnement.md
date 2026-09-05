@@ -11,20 +11,20 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Occ](./Occultiste.md) 4  
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Zone** une [créature artificielle](./type Créature artificielle.md)  
+**Zone** une [[type créature artificielle|créature artificielle]]  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-Ceci fonctionne comme un sort de *[confusion](./Confusion.md)* mais affecte seulement les
-[créatures artificielles](./type Créature artificielle.md). Au lieu de babiller de façon incohérente, elles ne font pas d’[action](./action.md) quand vient leur tour (mais peuvent tout de même faire des
-[attaques d’opportunité](./attaque dopportunité.md)).
+Ceci fonctionne comme un sort de *[[confusion]]* mais affecte seulement les
+[[type créature artificielle|créatures artificielles]]. Au lieu de babiller de façon incohérente, elles ne font pas d’[[action]] quand vient leur tour (mais peuvent tout de même faire des
+[[attaque dopportunité|attaques d’opportunité]]).

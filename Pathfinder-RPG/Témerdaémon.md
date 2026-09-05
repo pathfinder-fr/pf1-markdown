@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés p.190*}
 {s:BDTexte|**PX** 38 400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md)) de taille G, NM}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille G, NM}
 {s:BDTexte|**Init **+8 ; **Sens** vision dans le noir à 18m ; Perception +27}
 {s:BDTexte|**Aura ** malédiction du faucheur (9 m)}
 (((Défense)))
@@ -27,14 +27,14 @@ Categories:
 {s:BDTexte|**Espace** 3 m ; **Allonge** 3 m}
 {s:BDTexte|**Attaques spéciales** confusion}
 {s:BDTexte|**Pouvoirs magiques** (NLS 17 ; concentration +22)}
-{s:BDSorts|À volonté – [malédiction](./malédiction.md) (DD 19), [mise à mort](./Mise à mort.md) (DD 17), [État gazeux](./État gazeux.md), [passe-muraille](./Passe-muraille.md), [façonnage de la pierre](./Façonnage de la pierre.md), [télékinésie](./Télékinésie.md)}
-{s:BDSorts|3/jour - [désintégration](./Désintégration.md) (DD21), [dissipation suprême](./Dissipation suprême.md), [mur illusoire](./Mur illusoire.md), [suggestion](./Suggestion.md) (DD18)}
-{s:BDSorts|1/jour - [convocation](./convocation.md) (niveau 6  1 [hydrodaémon](./Hydrodaémon.md), 50%)}
+{s:BDSorts|À volonté – [[malédiction]] (DD 19), [[mise à mort]] (DD 17), [[État gazeux]], [[passe-muraille]], [[façonnage de la pierre]], [[télékinésie]]}
+{s:BDSorts|3/jour - [[désintégration]] (DD21), [[dissipation suprême]], [[mur illusoire]], [[suggestion]] (DD18)}
+{s:BDSorts|1/jour - [[convocation]] (niveau 6  1 [[hydrodaémon]], 50%)}
 (((Statistiques)))
 {s:BDTexte|**For** 23, **Dex** 18, **Con** 23, **Int** 13, **Sag** 24, **Cha** 20}
 {s:BDTexte|**BBA **+17 ; **BMO **+24 ; **DMD** 38  (42 contre les crocs-en-jambe)}
-{s:BDTexte|**Dons** [Critique aveuglant](./Critique aveuglant.md), [Enchaînement](./Enchaînement.md), [Expertise du combat](./Expertise du combat.md), [Don pour les critiques](./Don pour les critiques.md), [Science de l’initiative](./Science de linitiative.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Réflexes surhumains](./Réflexes surhumains.md), [Attaque en puissance](./Attaque en puissance.md), [Arme de prédilection](./Arme de prédilection.md) (faux)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +25, [Escalade](./Escalade.md) +26, [Intimidation](./Intimidation.md) +25, [Connaissances](./Connaissances.md) (plans) +13, [Connaissances](./Connaissances.md) (religion) +12, [Discrétion](./Discrétion.md) +20,  [Perception](./Perception.md) +27, [Psychologie](./Psychologie.md) +27}
+{s:BDTexte|**Dons** [[Critique aveuglant]], [[Enchaînement]], [[Expertise du combat]], [[Don pour les critiques]], [[Science de linitiative|Science de l’initiative]], [[Science du croc-en-jambe]], [[Réflexes surhumains]], [[Attaque en puissance]], [[Arme de prédilection]] (faux)}
+{s:BDTexte|**Compétences** [[Bluff]] +25, [[Escalade]] +26, [[Intimidation]] +25, [[Connaissances]] (plans) +13, [[Connaissances]] (religion) +12, [[Discrétion]] +20,  [[Perception]] +27, [[Psychologie]] +27}
 {s:BDTexte|**Langues** abyssal, draconique, infernal; télépathie 30m}
 {s:BDTexte|**Particularités ** armes de taille inférieure}
 (((Écologie)))
@@ -62,7 +62,7 @@ Escalade, Natation et Sabotage) sont également concernés sur
 un simple échec.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 ''Cette créature avance en titubant sur plusieurs bras et jambes, son
 dos douloureusement courbé et ses hanches au-dessus de sa tête.
 Cette chose semble distraite et se parler à elle-même, elle lève rarement

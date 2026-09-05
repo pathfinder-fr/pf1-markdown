@@ -10,13 +10,13 @@ LastModified: 2016-03-28 22:54
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Création de fan*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature artificielle](./../Pathfinder-RPG/type Créature artificielle.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) -5}
+{s:BDTexte|[[Pathfinder-RPG.type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18 m (12 {s:c}), [[Pathfinder-RPG.vision nocturne|vision nocturne]] ; [[Pathfinder-RPG.Perception|Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 10, pris au dépourvu 12 (naturelle +4)}
 {s:BDTexte|**pv** 36 (3d10+20)}
 {s:BDTexte|**Réf** +1, **Vig** +1, **Vol** -4}
-{s:BDTexte|**[RD](./../Pathfinder-RPG/RD.md)** 5/feu ; **Immunités** [traits des créatures artificielles](./../Pathfinder-RPG/Traits des créatures artificielles.md) }
+{s:BDTexte|**[[Pathfinder-RPG.RD|RD]]** 5/feu ; **Immunités** [[Pathfinder-RPG.traits des créatures artificielles|traits des créatures artificielles]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** coup, +5 (1d6+3)}
@@ -28,7 +28,7 @@ LastModified: 2016-03-28 22:54
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacité spéciales}
-{s:BDTexte|**Dépoussiérage**: grâce à une attaque de contact au corps à corps, permet de nettoyer le visage de l'adversaire qui, en plus d'être aveuglé pendant 1d4 round, doit réussir un jet de [Vigueur](./Pathfinder-RPG-Valeurs-de-combat-ashx.md#JETDESAUVEGARDE) (DD 15) sous peine d'être pris d'une quinte de toux qui l'empêche d'agir pendant 1 round.}
+{s:BDTexte|**Dépoussiérage**: grâce à une attaque de contact au corps à corps, permet de nettoyer le visage de l'adversaire qui, en plus d'être aveuglé pendant 1d4 round, doit réussir un jet de [[Pathfinder-RPG.Valeurs de combat.ashx#JETDESAUVEGARDE|Vigueur]] (DD 15) sous peine d'être pris d'une quinte de toux qui l'empêche d'agir pendant 1 round.}
 
 
 

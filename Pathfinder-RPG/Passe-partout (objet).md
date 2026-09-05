@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 85 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-De nombreuses portes sont de conception similaire et se déverrouillent donc avec une même clé. Le passe-partout peut être utilisé sur toutes les serrures standards à clé, même si le personnage n'a pas la compétence [Sabotage](./Sabotage.md). Il utilise le bonus de [Sabotage](./Sabotage.md) de +10 du passe-partout plutôt que son propre bonus. Il ne peut pas [faire 10](./faire 10.md) en utilisant un passe-partout. Avec le passe-partout, on ne peut faire qu'un seul jet par serrure. Si le jet est raté, la clé ne peut pas verrouiller ou déverrouiller la serrure. Il arrive que les passe-partout inférieurs n'offrent qu'un bonus de +5.
+De nombreuses portes sont de conception similaire et se déverrouillent donc avec une même clé. Le passe-partout peut être utilisé sur toutes les serrures standards à clé, même si le personnage n'a pas la compétence [[Sabotage]]. Il utilise le bonus de [[Sabotage]] de +10 du passe-partout plutôt que son propre bonus. Il ne peut pas [[faire 10]] en utilisant un passe-partout. Avec le passe-partout, on ne peut faire qu'un seul jet par serrure. Si le jet est raté, la clé ne peut pas verrouiller ou déverrouiller la serrure. Il arrive que les passe-partout inférieurs n'offrent qu'un bonus de +5.

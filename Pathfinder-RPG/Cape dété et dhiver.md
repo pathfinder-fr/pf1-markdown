@@ -10,11 +10,11 @@ Categories:
 
 {s:racial|Triaxien (race)|triaxiens|Illustrations/PNJ/Triaxien.jpg}<div class="BD">
 {s:BDTitre|Cape d'été et d'hiver|{s:ISR}}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 7 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 30.000 po ; **Poids** 0.5 kg
+**Aura** [[Évocation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 30.000 po ; **Poids** 0.5 kg
 (((Description)))
-{s:cs}Cette cape de soie matelassée est garnie d'épaisses plumes blanches. Une fois par jour et par une [action de mouvement](./Action de mouvement.md), le porteur peut faire tournoyer la cape autour de lui pour activer les effets d'un *[bouclier de feu](./Bouclier de feu.md)*. Il prend la forme d'un *bouclier chaud* si la température ambiante est de 18°C ou moins, ou d'un *bouclier froid* si la température ambiante est de 19°C ou plus.
+{s:cs}Cette cape de soie matelassée est garnie d'épaisses plumes blanches. Une fois par jour et par une [[action de mouvement]], le porteur peut faire tournoyer la cape autour de lui pour activer les effets d'un *[[bouclier de feu]]*. Il prend la forme d'un *bouclier chaud* si la température ambiante est de 18°C ou moins, ou d'un *bouclier froid* si la température ambiante est de 19°C ou plus.
 
-Si le porteur est triaxien, il obtient une [résistance aux énergies destructives](./Résistance (capacité).md) tant qu'il porte la cape. S'il est né de l'été, il obtient une résistance au feu de 10. S'il est né de l'hiver, il obtient une résistance au froid de 10. S'il est transitionnel, il gagne une résistance de 5 au feu et au froid.
+Si le porteur est triaxien, il obtient une [[Résistance (capacité)|résistance aux énergies destructives]] tant qu'il porte la cape. S'il est né de l'été, il obtient une résistance au feu de 10. S'il est né de l'hiver, il obtient une résistance au froid de 10. S'il est transitionnel, il gagne une résistance de 5 au feu et au froid.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[bouclier de feu](./Bouclier de feu.md)*, *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, le créateur doit être triaxien ; **Coût** 15.000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[bouclier de feu]]*, *[[résistance aux énergies destructives]]*, le créateur doit être triaxien ; **Coût** 15.000 po
 </div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#CHARME
 ---
 
->>> [Présentation des sorts#CHARME](./Présentation des sorts.md#CHARME)
+>>> [[Présentation des sorts#CHARME]]

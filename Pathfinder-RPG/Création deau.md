@@ -14,20 +14,20 @@ Categories:
 - Sort prêtre 0
 ---
 
-**École** [Invocation](./Invocation.md) ([création](./../Création.md)) <nowiki>[</nowiki>[eau](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 0, [Dru](./Druide.md) 0, [Inq](./Inquisiteur.md) 0, [Occ](./Occultiste.md) 0, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 0  
+**École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 0, [[Druide|Dru]] 0, [[Inquisiteur|Inq]] 0, [[Occultiste|Occ]] 0, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Effet** jusqu’à 8 litres d’eau/[niveau](./niveau.md)  
+**Effet** jusqu’à 8 litres d’eau/[[niveau]]  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Ce sort donne naissance une eau pure et potable, semblable à l’eau de pluie. Elle apparaît dans n’importe quel récipient capable de l’accueillir, ou au-dessus d’une zone trois fois plus large (ce qui permet de créer une fine pluie ou de remplir plusieurs récipients de taille moindre). L’eau non-consommée disparaît au bout d’une journée.
 
-Note. Les sorts d’[Invocation](./Invocation.md) ne peuvent pas faire apparaître de substance ou d’objet à l’intérieur d’une créature. L’eau pèse 1 kg par litre. Un mètre cube d’eau contient environ mille litres et pèse une tonne.
+Note. Les sorts d’[[Invocation]] ne peuvent pas faire apparaître de substance ou d’objet à l’intérieur d’une créature. L’eau pèse 1 kg par litre. Un mètre cube d’eau contient environ mille litres et pèse une tonne.

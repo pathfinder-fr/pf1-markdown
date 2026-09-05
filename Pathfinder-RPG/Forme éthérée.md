@@ -12,22 +12,22 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Prê](./Prêtre.md) 7, [Psy](./Psychiste.md) 6  
+**École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 6  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)
+**Durée** 1 [[round]]/[[niveau]] (T)
 
-Grâce à ce sort, le personnage et son équipement deviennent *éthérés*. Pendant toute la durée du sort, il se trouve dans le [plan Éthéré](./plan Éthéré.md), un plan qui chevauche le [plan Matériel](./plan Matériel.md). Quand le sort se termine, le personnage reprend son état normal.
+Grâce à ce sort, le personnage et son équipement deviennent *éthérés*. Pendant toute la durée du sort, il se trouve dans le [[plan Éthéré]], un plan qui chevauche le [[plan Matériel]]. Quand le sort se termine, le personnage reprend son état normal.
 
-Une créature *éthérée* est [invisible](./Invisible.md), [intangible](./Intangible.md) et capable de se déplacer dans toutes les directions (même vers le haut ou le bas) mais à la moitié de sa [vitesse de déplacement](./vitesse de déplacement.md) normale. Comme elle est [intangible](./Intangible.md), elle peut traverser les objets solides, en ce compris les êtres vivants. La créature *éthérée* peut voir et entendre ce qui se passe sur le [plan Matériel](./plan Matériel.md) mais tout lui apparaît gris et dénué de substance : seuls les images et les sons du [plan Matériel](./plan Matériel.md) produits dans un rayon de dix-huit mètres lui sont perceptibles.
+Une créature *éthérée* est [[invisible]], [[intangible]] et capable de se déplacer dans toutes les directions (même vers le haut ou le bas) mais à la moitié de sa [[vitesse de déplacement]] normale. Comme elle est [[intangible]], elle peut traverser les objets solides, en ce compris les êtres vivants. La créature *éthérée* peut voir et entendre ce qui se passe sur le [[plan Matériel]] mais tout lui apparaît gris et dénué de substance : seuls les images et les sons du [[plan Matériel]] produits dans un rayon de dix-huit mètres lui sont perceptibles.
 
-Les effets de [force](./Registre.md) et les [abjurations](./Abjuration.md) affectent normalement les créatures *éthérées*, car leur effet commence dans le [plan Matériel](./plan Matériel.md) mais s’étend également au [plan Éthéré](./plan Éthéré.md) ; l’inverse n’est cependant pas vrai. Les créatures *éthérées* sont incapables d’attaquer les créatures du [plan Matériel](./plan Matériel.md), et les sorts que le personnage lance lorsqu’il est *éthéré* ne touchent que les cibles qui sont elles aussi *éthérées*. Certaines créatures matérielles, ainsi que certains objets, disposent d’attaques ou de pouvoirs qui touchent également le [plan Éthéré](./plan Éthéré.md). Considérez les créatures et les objets *éthérés* comme s’ils étaient matériels.
+Les effets de [[registre|force]] et les [[abjuration|abjurations]] affectent normalement les créatures *éthérées*, car leur effet commence dans le [[plan Matériel]] mais s’étend également au [[plan Éthéré]] ; l’inverse n’est cependant pas vrai. Les créatures *éthérées* sont incapables d’attaquer les créatures du [[plan Matériel]], et les sorts que le personnage lance lorsqu’il est *éthéré* ne touchent que les cibles qui sont elles aussi *éthérées*. Certaines créatures matérielles, ainsi que certains objets, disposent d’attaques ou de pouvoirs qui touchent également le [[plan Éthéré]]. Considérez les créatures et les objets *éthérés* comme s’ils étaient matériels.
 
 Si, lorsque le sort prend fin, le personnage se matérialise à l’intérieur d’un objet solide (comme un mur), il en est violemment expulsé en direction du plus proche espace dégagé et il subit 1d6 points de dégâts par tranche de 1,50 m entre le lieu où il s’est matérialisé et celui vers lequel il a été expulsé.

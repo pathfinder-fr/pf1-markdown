@@ -9,6 +9,6 @@ Categories:
 
 {s:MR}*Les chants de guerre du personnage peuvent plonger ses alliés gobelins dans une frénésie combative encore plus impressionnante.*
 
-**Conditions.** [Gobelin](./Gobelin (race).md), aptitude de classe de [représentation bardique](./représentation bardique.md)
+**Conditions.** [[Gobelin (race)|Gobelin]], aptitude de classe de [[représentation bardique]]
 
-**Avantage.** Lorsque le personnage utilise son aptitude de [représentation bardique](./représentation bardique.md) pour conférer une [inspiration vaillante](./Représentations.md#INSPIRATIONVAILLANTE) à ses alliés, il peut choisir de chanter en gobelin ; les alliés qui ne comprennent pas cette langue ne peuvent bénéficier des avantages de cette représentation. Les gobelins alliés qui entendent ses chants de guerre voient leur courage et leur énergie renouvelés et ajoutent ainsi le bonus octroyé par son inspiration vaillante, en tant que bonus de moral, à tous leurs [jets de sauvegarde](./JDS.md).
+**Avantage.** Lorsque le personnage utilise son aptitude de [[représentation bardique]] pour conférer une [[représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] à ses alliés, il peut choisir de chanter en gobelin ; les alliés qui ne comprennent pas cette langue ne peuvent bénéficier des avantages de cette représentation. Les gobelins alliés qui entendent ses chants de guerre voient leur courage et leur énergie renouvelés et ajoutent ainsi le bonus octroyé par son inspiration vaillante, en tant que bonus de moral, à tous leurs [[jds|jets de sauvegarde]].

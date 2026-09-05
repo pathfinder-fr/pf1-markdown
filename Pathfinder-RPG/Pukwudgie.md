@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.219}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([métamorphe](./sous-type métamorphe.md)) de taille P, NM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [détection du Bien](./Détection du Bien.md), [détection de la magie](./Détection de la magie.md), [perception de la mort](./Perception de la mort.md) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type métamorphe|métamorphe]]) de taille P, NM}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[détection du Bien]], [[détection de la magie]], [[perception de la mort]] ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 16, pris au dépourvu 15 (Dex +4, esquive +1, naturelle +4, taille +1)}
 {s:BDTexte|**pv** 85 (9d10+36)}
@@ -25,19 +25,19 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 griffes, +14 (1d4+2 plus poison)}
 {s:BDTexte|**À distance** 2 piquants, +15 (1d4+2 plus poison)}
-{s:BDTexte|**Attaque spéciale** [attaque sournoise](./attaque sournoise.md) (+3d6), création de morts-vivants}
-{s:BDTexte|**Pouvoirs magiques** (NLS 10<sup>e</sup> ; [concentration](./concentration.md) +14)}
-{s:BDSorts|Constant — *[perception de la mort](./Perception de la mort.md)*, *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*}
-{s:BDSorts|À volonté — *[contrôle des morts-vivants](./Contrôle des morts-vivants.md)* (DD 16), *[flammes](./Flammes.md)*}
-{s:BDSorts|3/jour — *[animation des morts](./Animation des morts.md)*, *[effroi](./Effroi.md)* (DD 16), *[invisibilité](./Invisibilité.md)*, *[mise à mort](./Mise à mort.md)* (DD 16), *[rayon affaiblissant](./Rayon affaiblissant.md)* (DD 15)}
-{s:BDSorts|1/jour — *[antidétection](./Antidétection.md)* (DD 17)}
+{s:BDTexte|**Attaque spéciale** [[attaque sournoise]] (+3d6), création de morts-vivants}
+{s:BDTexte|**Pouvoirs magiques** (NLS 10<sup>e</sup> ; [[concentration]] +14)}
+{s:BDSorts|Constant — *[[perception de la mort]]*, *[[détection de la magie]]*, *[[détection du Bien]]*}
+{s:BDSorts|À volonté — *[[contrôle des morts-vivants]]* (DD 16), *[[flammes]]*}
+{s:BDSorts|3/jour — *[[animation des morts]]*, *[[effroi]]* (DD 16), *[[invisibilité]]*, *[[mise à mort]]* (DD 16), *[[rayon affaiblissant]]* (DD 15)}
+{s:BDSorts|1/jour — *[[antidétection]]* (DD 17)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 18, **Con** 19, **Int** 15, **Sag** 14, **Cha** 19}
 {s:BDTexte|**BBA** +9, **BMO** +10, **DMD** 25}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (piquant), [Attaque en finesse](./Attaque en finesse.md), [Attaque en vol](./Attaque en vol.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +11, [Bluff](./Bluff.md) +10, [Connaissances](./Connaissances.md) (mystères) +11, [Connaissances](./Connaissances.md) (religion) +11, [Discrétion](./Discrétion.md) +16, [Perception](./Perception.md) +13, [Premiers secours](./Premiers secours.md) +10}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (piquant), [[Attaque en finesse]], [[Attaque en vol]], [[Esquive]], [[Souplesse du serpent]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +11, [[Bluff]] +10, [[Connaissances]] (mystères) +11, [[Connaissances]] (religion) +11, [[Discrétion]] +16, [[Perception]] +13, [[Premiers secours]] +10}
 {s:BDTexte|**Langues** commun, draconique, infernal}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (porc-épic ; [forme bestiale](./Forme bestiale.md) II)}
+{s:BDTexte|**Particularités** [[changement de forme (Capacité)|changement de forme]] (porc-épic ; [[forme bestiale]] II)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts, collines ou montagnes tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou culte (3-10)}
@@ -45,7 +45,7 @@ Categories:
 {s:BDSousTitre|Particularités}
 {s:BDTexte|**Création de morts-vivants (Sur).** Toutes les créatures tuées par les piquants empoisonnés du pukwudgie deviennent des *zombis* au bout de 24 heures. Les morts-vivants créés par cette capacité ne sont pas aussitôt sous le contrôle du pukwudgie mais reçoivent un malus de -4 à leurs jets de sauvegarde contre le pouvoir magique de contrôle des morts du pukwudgie.}
 {s:BDTexte|**Piquants (Ext).** Le pukwudgie peut tirer deux de ses piquants lors d’une attaque à distance, par une action simple. Ces piquants ont un facteur de portée de 12 mètres. Toutes les créatures attaquant un pukwudgie avec des armes de corps à corps légères ou à une main, des armes naturelles ou à mains nues reçoit 1d3 points de dégâts perforants. Une créature qui immobilise un pukwudgie reçoit 2d4 points de dégâts perforants par round tant qu’elle le maintient. Quiconque reçoit ces dégâts de piquants est également exposé au poison du pukwudgie.}
-{s:BDTexte|**Poison (Sur).** Griffe ou piquant — blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 18 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d3 Con ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Poison (Sur).** Griffe ou piquant — blessure ; *JS* [[Vigueur]] [[DD]] 18 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d3 Con ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div>
 </td><td><div>''Combinaison entre un homme émacié et un porc-épic, cette sinistre

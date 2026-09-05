@@ -7,19 +7,19 @@ Categories:
 - Src Book of the Damned
 ---
 
-{s:DieuTech|Hataam|Le dévoreur de rivières| |[Bourreaux sahkils](./Divinités.md#BOURREAUXSAHKILS)
+{s:DieuTech|Hataam|Le dévoreur de rivières| |[[Divinités#BOURREAUXSAHKILS|Bourreaux sahkils]]
 |Chaotique Mauvais|Sécheresse, noyade, stagnation
 |N'importe|Aucun
-|[Filet](./filet (arme).md)
-|[Climat](./Domaine du Climat.md), [Eau](./Domaine de lEau.md), [Mal](./Domaine du Mal.md), [Voyage](./Domaine du Voyage.md)
-|[Peur](./Domaine du Mal.md), [Rivières](./Domaine de lEau.md), [Sahkils](./Domaine du Mal.md), [Saisons](./Domaine du Climat.md), [Tempête](./Domaine du Climat.md)
+|[[Filet (arme)|Filet]]
+|[[Domaine du Climat|Climat]], [[Domaine de lEau|Eau]], [[Domaine du Mal|Mal]], [[Domaine du Voyage|Voyage]]
+|[[Domaine du Mal|Peur]], [[Domaine de lEau|Rivières]], [[Domaine du Mal|Sahkils]], [[Domaine du Climat|Saisons]], [[Domaine du Climat|Tempête]]
 |—}
 {s:cs}{s:BotD}
 ### Obédience
-Endiguer un petit ruisseau ou une autre source d'eau courante. Gain d'un bonus de malfaisance de +4 aux tests de [Natation](./Natation.md).
+Endiguer un petit ruisseau ou une autre source d'eau courante. Gain d'un bonus de malfaisance de +4 aux tests de [[Natation]].
 
 #### Faveurs (Bourreaux sahkils)
-Les bourreaux [sahkils](./Sahkil.md) dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [FP](./FP.md) 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) utilisables deux fois par jour chacun.
-- **1.** *[fouet de la rivière](./Fouet de la rivière.md)*
-- **2.** *[asphyxie imaginaire](https://aonprd.com/SpellDisplay.aspx?ItemName=Phantasmal Asphixiation)*
-- **3.** *[contrôle de l'eau](./Contrôle de leau.md)*
+Les bourreaux [[Sahkil|sahkils]] dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [[FP]] 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables deux fois par jour chacun.
+- **1.** *[[fouet de la rivière]]*
+- **2.** *[asphyxie imaginaire](https://aonprd.com/SpellDisplay.aspx?ItemName=Phantasmal%20Asphixiation)*
+- **3.** *[[contrôle de leau|contrôle de l'eau]]*

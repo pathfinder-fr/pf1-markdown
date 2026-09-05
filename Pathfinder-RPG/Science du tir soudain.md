@@ -11,14 +11,14 @@ Categories:
 
 {s:uc}*Le personnage sait tirer parti des faiblesses de son adversaire, même de loin et sans vous exposer. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 15, [Arme de prédilection](./Arme de prédilection.md), [Tir à bout portant](./Tir à bout portant.md), [Tir rapide](./Tir rapide.md), [Tir soudain](./Tir soudain.md), [BBA](./BBA.md) +9
+**Conditions.** [[Dex]] 15, [[Arme de prédilection]], [[Tir à bout portant]], [[Tir rapide]], [[Tir soudain]], [[BBA]] +9
 
-**Avantage.** Le personnage peut utiliser [Tir soudain](./Tir soudain.md) à 1.5 m (1 {s:c}) de plus.
+**Avantage.** Le personnage peut utiliser [[Tir soudain]] à 1.5 m (1 {s:c}) de plus.
 
-**Normal.** Le personnage provoque une [attaque d’opportunité](./attaque dopportunité.md) quand il fait une [attaque à distance](./Attaque à distance.md).
+**Normal.** Le personnage provoque une [[attaque dopportunité|attaque d’opportunité]] quand il fait une [[attaque à distance]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-À la fin de son tour, le personnage peut dépenser 5 points d’endurance pour menacer une zone de 4,50 mètres de plus (au lieu de 3) avec le [Tir soudain](./Tir soudain.md). Cet effet persiste jusqu’à ce que le personnage fasse une [attaque d’opportunité](./AO.md) contre un adversaire situé dans la [zone de contrôle](./espace contrôlé.md) accrue ou jusqu’au début de son prochain tour, selon ce qui se produit en premier.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+À la fin de son tour, le personnage peut dépenser 5 points d’endurance pour menacer une zone de 4,50 mètres de plus (au lieu de 3) avec le [[Tir soudain]]. Cet effet persiste jusqu’à ce que le personnage fasse une [[AO|attaque d’opportunité]] contre un adversaire situé dans la [[espace contrôlé|zone de contrôle]] accrue ou jusqu’au début de son prochain tour, selon ce qui se produit en premier.

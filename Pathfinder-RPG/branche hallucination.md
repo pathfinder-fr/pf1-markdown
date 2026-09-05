@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#HALLUCINATION
 ---
 
->>> [Présentation des sorts#HALLUCINATION](./Présentation des sorts.md#HALLUCINATION)
+>>> [[Présentation des sorts#HALLUCINATION]]

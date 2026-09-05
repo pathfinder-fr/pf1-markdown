@@ -4,7 +4,7 @@ Title: Présentation de Roll20
 LastModified: 2020-08-12 23:34
 ---
 
-Lien vers l'application: [https://roll20.net]
+Lien vers l'application: [https://roll20.net](https://roll20.net)
 
 Roll20 est une application web qui va vous permettre de faire vos parties de JDR en ligne et par navigateur. Il intègre tout ce qu'il faut, dans sa version gratuite, pour jouer sereinement. Noté que les options de paiement vous permette certaines choses spécifiques, comme la lumière dynamique, les SFX (effets spéciaux) ou alors la possibilité de transférer des personnages d'une partie à une autre, tout ceci est totalement facultatif et surtout, ne va concerner que des "gros joueurs" qui font beaucoup de parties via roll20.
 
@@ -66,13 +66,13 @@ Faire un jet est quand même le but premier des macros, alors regardons comment 
 
 @@/roll 1d8 -> Lance un dé à 8 faces
 /r 1d8    -> Lance aussi un dé à 8 faces (pour les feignants^^)
-[1d8](./1d8.md)   -> Lance un dé à 8 faces MAIS permet de faire ce jet dans du texte.@@
+[[1d8]]   -> Lance un dé à 8 faces MAIS permet de faire ce jet dans du texte.@@
 
 
 La dernière méthode est à retenir, car en fait, tout ce qui est entre doubles crochets s'affiche dans une ligne de texte, et permet d'y mettre vos commandes de macros!
 
 Exemple:
-@@Ugluk attaque Francis qui a une CA de 18, et fait [1d20+12](./1d20+12.md)
+@@Ugluk attaque Francis qui a une CA de 18, et fait [[1d20+12]]
 
 Ugluk attaque Francis qui a une CA de 18, et fait 25.@@
 
@@ -81,7 +81,7 @@ Notez qu'en plaçant votre souris sur le résultat du dé, vous obtenez le déta
 #### Maths
 Comme vous l'avez sans doute remarqué, il est possible de faire des maths (faut pas trop pousser non plus). Addition, multiplication, soustraction et division. En plus de faire ces calculs avec des nombres, vous pouvez aussi le faire avec des jets de dés.
 
-@@Petit jet de dé test: [1d20+1d20](./1d20+1d20.md)@@
+@@Petit jet de dé test: [[1d20+1d20]]@@
 
 Encore une fois, mettez votre souris sur le résultat pour voir le détail.
 
@@ -110,11 +110,11 @@ Si vous voulez transformer ça en macro générale, vous pouvez faire ça:
 
 ```
 Macro générale:
-@{selected|token_name} attaque @{target|Target|token_name} qui a une CA de [Target|CA}](./@{target.md)
-et fait [Epée-longue}](./%{selected.md)
+@{selected|token_name} attaque @{target|Target|token_name} qui a une CA de [[@{target|Target|CA}]]
+et fait [[%{selected|Epée-longue}]]
 
 Epée longue:
-[1d20+5](./1d20+5.md) pour [1d8+4](./1d8+4.md) dégâts.@@
+[[1d20+5]] pour [[1d8+4]] dégâts.@@
 
 
 Et voilà. Notez l'utilisation de token_name pour avoir le nom du pion ! Très pratique.
@@ -147,7 +147,7 @@ Un jet de dé, c'est bien, une animation, c'est mieux ! Il y a plein de commande
 ```
 /fx Ray of Frost @{selected|token_id} @{target|Target|token_id}@@
 
-Un rayon de glace va partir du pion sélectionné vers le pion cible. [https://wiki.roll20.net/FX_Library|La liste des SFX].
+Un rayon de glace va partir du pion sélectionné vers le pion cible. [La liste des SFX](https://wiki.roll20.net/FX_Library).
 
 Note: Les FX ne sont utilisable qu'avec le plus haut niveau d'abonnement.
 

@@ -12,10 +12,10 @@ Categories:
 *Certains alchimistes gripplis sont particulièrement sensibles aux marais et aux créatures dangereuses qui les peuplent : les premiers leur servent de laboratoires, les secondes de cobayes.*
 
 #### Compétences de classe
-L’alchimiste des marais ajoute [Natation](./Natation.md) à sa liste de compétences de classe.
+L’alchimiste des marais ajoute [[Natation]] à sa liste de compétences de classe.
 
 #### Amphibie mutagène (Ext)
-Au niveau 1, lorsqu’un alchimiste des marais utilise un [mutagène](./Alchimiste.md#MUTAGENES), il peut choisir d’améliorer sa forme mutagène pour ses déplacements aquatiques. Cela lui fait bénéficier de la particularité [amphibie](./Amphibie (capacité).md), ses pieds s’allongent et les palmes reliant ses doigts et ses orteils se développent, lui accordant une vitesse de nage de 4,5 mètres. Cette capacité remplace [lancer improvisé](./Alchimiste.md#LANCERIMPROVISE).
+Au niveau 1, lorsqu’un alchimiste des marais utilise un [[alchimiste#MUTAGENES|mutagène]], il peut choisir d’améliorer sa forme mutagène pour ses déplacements aquatiques. Cela lui fait bénéficier de la particularité [[amphibie (capacité)|amphibie]], ses pieds s’allongent et les palmes reliant ses doigts et ses orteils se développent, lui accordant une vitesse de nage de 4,5 mètres. Cette capacité remplace [[alchimiste#LANCERIMPROVISE|lancer improvisé]].
 
 #### Options de découverte
-L’alchimiste des marais peut choisir le trait racial de grippli [peau toxique](./grippli (race).md#traits raciaux alternatifs) au lieu d'une [découverte alchimique](./Alchimiste.md#DECOUVERTES).
+L’alchimiste des marais peut choisir le trait racial de grippli [[grippli (race)#traits raciaux alternatifs|peau toxique]] au lieu d'une [[alchimiste#DECOUVERTES|découverte alchimique]].

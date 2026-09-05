@@ -13,25 +13,25 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Codex monstrueux p.232*}
 {s:BDTexte|**XP** 600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille M, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille M, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 12 (+2 Dex, +2 naturelle)}
 {s:BDTexte|**pv** 19 (3d8+6) ; régénération 2 (acide ou feu)}
 {s:BDTexte|**Réf** +3, **Vig** +5, **Vol** +0}
-{s:BDTexte|**Faiblesses** [aveuglé par la lumière](./Aveuglé par la lumière (capacité).md)}
+{s:BDTexte|**Faiblesses** [[Aveuglé par la lumière (capacité)|aveuglé par la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +3 (1d6+1) et 2 griffes, +3 (1d4+1)}
 {s:BDTexte|**Espace** 1.5 m (1 {s:c}) ; **Allonge** 1.5 m (1 {s:c}) (3 m (2 {s:c}) avec les griffes)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +1d6, [éventration](./Éventration.md) (2 griffes, 1d6+1)}
+{s:BDTexte|**Attaques spéciales** [[roublard#ATTAQUESOURNOISE|attaque sournoise]] +1d6, [[éventration]] (2 griffes, 1d6+1)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 14, **Con** 15, **Int** 6, **Sag** 9, **Cha** 6}
 {s:BDTexte|**BBA** +2, **BMO** +3, **DMD** 15}
-{s:BDTexte|**Dons** [Discret](./Discret.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5 (+9 sous terre), [Escalade](./Escalade.md) +9, [Évasion](./Évasion.md) +4, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** +8 en [Escalade](./Escalade.md), +4 en [Discrétion](./Discrétion.md) sous terre}
+{s:BDTexte|**Dons** [[Discret]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +5 (+9 sous terre), [[Escalade]] +9, [[Évasion]] +4, [[Perception]] +4 ; **Modificateurs raciaux** +8 en [[Escalade]], +4 en [[Discrétion]] sous terre}
 {s:BDTexte|**Langues** géant}
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md)}
+{s:BDTexte|**Particularités** [[compression (capacité)|compression]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous les souterrains}
 {s:BDTexte|**Organisation** solitaire ou gang (2-5)}
@@ -44,27 +44,27 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Troll des égouts](./Troll des égouts.md) || 2
+| [[Troll des égouts]] || 2
 |-
-| [Troll](./Troll.md) || 5
+| [[Troll]] || 5
 |-
-| [Acolyte troll](./Acolyte troll.md) || 6
+| [[Acolyte troll]] || 6
 |-
-| [Gardien troll](./Gardien troll.md) || 6
+| [[Gardien troll]] || 6
 |-
-| [Brute troll](./Brute troll.md) || 7
+| [[Brute troll]] || 7
 |-
-| [Étripeur troll](./Étripeur troll.md) || 8
+| [[Étripeur troll]] || 8
 |-
-| [Troll furieux](./Troll furieux.md) || 8
+| [[Troll furieux]] || 8
 |-
-| [Berserker troll](./Berserker troll.md) || 9
+| [[Berserker troll]] || 9
 |-
-| [Éventreur troll](./Éventreur troll.md) || 10
+| [[Éventreur troll]] || 10
 |-
-| [Matrone âgée troll](./Matrone âgée troll.md) || 10
+| [[Matrone âgée troll]] || 10
 |-
-| [Monarque troll](./Monarque troll.md) || 15
+| [[Monarque troll]] || 15
 |-
 |}
 </div>*Cette créature ressemble à un troll dégingandé et sous-alimenté. Ses griffes démesurées traînent sur le sol tandis que ses grands yeux scintillent d’une lueur intérieure.*

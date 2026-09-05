@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#REDUCTIONDEDEGATSACCRUE
 ---
 
->>> [pouvoirs de rage#REDUCTIONDEDEGATSACCRUE](./Pouvoirs de rage.md#REDUCTIONDEDEGATSACCRUE)
+>>> [[pouvoirs de rage#REDUCTIONDEDEGATSACCRUE]]

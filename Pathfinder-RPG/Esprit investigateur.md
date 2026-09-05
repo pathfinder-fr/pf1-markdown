@@ -13,11 +13,11 @@ Categories:
 - Sort sorcière 2
 ---
 
-{s:MCA}**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 2, [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2   
+{s:MCA}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2   
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** personnelle  
 
@@ -25,5 +25,5 @@ Categories:
 
 **Durée** 10 minutes/niveau ou jusqu’à déchargement
 
-L’esprit du personnage est capable de corréler les informations avec beaucoup d’efficacité. Quand il tente un test d’Art de la magie, de [Connaissances](./Connaissances.md), d’[Estimation](./Estimation.md) ou de [Linguistique](./Linguistique.md), il peut faire deux jets et garder le meilleur résultat. S’il a un pouvoir qui lui permet de relancer une deuxième fois, il ne peut pas utiliser ce pouvoir et cet avantage sur le même jet.
+L’esprit du personnage est capable de corréler les informations avec beaucoup d’efficacité. Quand il tente un test d’Art de la magie, de [[Connaissances]], d’[[Estimation]] ou de [[Linguistique]], il peut faire deux jets et garder le meilleur résultat. S’il a un pouvoir qui lui permet de relancer une deuxième fois, il ne peut pas utiliser ce pouvoir et cet avantage sur le même jet.
 Le sort est déchargé quand le personnage a utilisé son avantage un nombre de fois égal à son niveau de lanceur.

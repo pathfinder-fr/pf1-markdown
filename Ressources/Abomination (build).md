@@ -4,8 +4,8 @@ Title: Abomination
 LastModified: 2014-08-13 02:24
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
-***Voir le [http://www.pathfinder-fr.org/Forum/yaf_postst6610_L-abomination----Alchimiste-inside.aspx#post246229|sujet de discussion]***</div><nav class="wiki-toc"></nav>
+<div class="fright">***Retour aux [[builds]].***</br>
+***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst6610_L-abomination----Alchimiste-inside.aspx#post246229)***</div><nav class="wiki-toc"></nav>
 
 ''Un jeune homme a la carrure robuste bêche dans un champ... il accomplit son travail avec soin, mais il est rêveur cependant. Il regarde vers le ciel, et attend avec impatience l'heure de la fin de son labeur. Sitôt fini, il court se débarbouiller et, secrètement, à l'insu de sa mère, rejoint l'apothicaire du petit village qu'il n'a jamais quitté.
 
@@ -21,20 +21,20 @@ Ce fut un nouveau départ pour lui ; sa mère le laissait faire désormais. Il s
 
 ##### 2.1 Caractéristiques
 
-Il s'agit d'un build [++Pathfinder-RPG.Glossaire des termes.ashx#MAD__SAD_6|M.A.D.]
+Il s'agit d'un build [[Pathfinder-RPG.Glossaire des termes.ashx#MAD__SAD_6|M.A.D.]]
 
 Au niveau de l’importance relative des attributs, la répartition sera la suivante : For > Dex = Con = Int > Sag > Cha
 
 ##### 2.2 Race
 
-[++Pathfinder-RPG.Humain.ashx|Humain]
+[[Pathfinder-RPG.Humain.ashx|Humain]]
 ##### 2.3 Exemple de répartition (20 points)
 
 For 17, Dex 14, Con 14, Int 14, Sag 10, Cha 8
 
 #### 3. Plan de carrière
 
-[++Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé] 10 / [++Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste] 10
+[[Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé]] 10 / [[Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste]] 10
 
 ##### 3.1 Bonus de classe de prédilection
 
@@ -68,17 +68,17 @@ For 17, Dex 14, Con 14, Int 14, Sag 10, Cha 8
 
 ##### 3.4 Extraits
 
-**3.4.1 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#1|Extraits de niveau 1]**
+**3.4.1 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#1|Extraits de niveau 1]]**
 
-**3.4.2 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#2|Extraits de niveau 2]**
+**3.4.2 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#2|Extraits de niveau 2]]**
 
-**3.4.3 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#3|Extraits de niveau 3]**
+**3.4.3 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#3|Extraits de niveau 3]]**
 
-**3.4.4 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#4|Extraits de niveau 4]**
+**3.4.4 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#4|Extraits de niveau 4]]**
 
-**3.4.5 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#5|Extraits de niveau 5]**
+**3.4.5 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#5|Extraits de niveau 5]]**
 
-**3.4.6 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#6|Extraits de niveau 6]**
+**3.4.6 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#6|Extraits de niveau 6]]**
 
 
 #### 4. Équipement
@@ -90,43 +90,43 @@ For 17, Dex 14, Con 14, Int 14, Sag 10, Cha 8
 |- CLASS="titre"
 | Niveau || Classe || BBA || Capacités de classe, dons
 |- CLASS="premier"
-| 01 || [++Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé] 1 || +0 || [++Pathfinder-RPG.Volonté de fer.ashx|Volonté de fer], [++Pathfinder-RPG.Science de la volonté de fer.ashx|science de la volonté de fer]
+| 01 || [[Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé]] 1 || +0 || [[Pathfinder-RPG.Volonté de fer.ashx|Volonté de fer]], [[Pathfinder-RPG.Science de la volonté de fer.ashx|science de la volonté de fer]]
 |-
-| 02 || [++Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé] 2 || +1 || [++Pathfinder-RPG.découvertes.ashx|Découverte : mutagène sauvage]
+| 02 || [[Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé]] 2 || +1 || [[Pathfinder-RPG.découvertes.ashx|Découverte : mutagène sauvage]]
 |-
-| 03 || [++Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé] 3 || +2 || [++Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]
+| 03 || [[Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé]] 3 || +2 || [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]
 |-
-| 04 || [++Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé] 4 || +3 || [++Pathfinder-RPG.découvertes.ashx|Découverte : bombes explosives]
+| 04 || [[Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé]] 4 || +3 || [[Pathfinder-RPG.découvertes.ashx|Découverte : bombes explosives]]
 |-
-| 05 || [++Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé] 5 || +3 || [++Pathfinder-RPG.Robustesse.ashx|Robustesse]
+| 05 || [[Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé]] 5 || +3 || [[Pathfinder-RPG.Robustesse.ashx|Robustesse]]
 |-
-| 06 || [++Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé] 6 || +4 || [++Pathfinder-RPG.découvertes.ashx|Découverte : potion prolongée]
+| 06 || [[Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé]] 6 || +4 || [[Pathfinder-RPG.découvertes.ashx|Découverte : potion prolongée]]
 |-
-| 07 || [++Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé] 7 || +5 || [++Pathfinder-RPG.Arme naturelle supérieure.ashx|Arme naturelle supérieure]
+| 07 || [[Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé]] 7 || +5 || [[Pathfinder-RPG.Arme naturelle supérieure.ashx|Arme naturelle supérieure]]
 |-
-| 08 || [++Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé] 8 || +6 || [++Pathfinder-RPG.découvertes.ashx|Découverte : combinaison d'extraits]
+| 08 || [[Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé]] 8 || +6 || [[Pathfinder-RPG.découvertes.ashx|Découverte : combinaison d'extraits]]
 |-
-| 09 || [++Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé] 9 || +6 || [++Pathfinder-RPG.Science de la destruction.ashx|Science de la destruction]
+| 09 || [[Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé]] 9 || +6 || [[Pathfinder-RPG.Science de la destruction.ashx|Science de la destruction]]
 |-
-| 10 || [++Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé] 10 || +7 || [++Pathfinder-RPG.découvertes.ashx|Découverte : tentacules]
+| 10 || [[Pathfinder-RPG.Chimiste enragé (alchimiste).ashx|Chimiste enragé]] 10 || +7 || [[Pathfinder-RPG.découvertes.ashx|Découverte : tentacules]]
 |-
-| 11 || [++Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste] 1 || +8 || [++Pathfinder-RPG.Découverte supplémentaire.ashx|Découverte supplémentaire] : [++Pathfinder-RPG.découvertes.ashx|potion améliorée]
+| 11 || [[Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste]] 1 || +8 || [[Pathfinder-RPG.Découverte supplémentaire.ashx|Découverte supplémentaire]] : [[Pathfinder-RPG.découvertes.ashx|potion améliorée]]
 |-
-| 12 || [++Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste] 2 || +9 || [++Pathfinder-RPG.Maître chymiste.ashx|Mutagène évolué : mutagène furieux]
+| 12 || [[Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste]] 2 || +9 || [[Pathfinder-RPG.Maître chymiste.ashx|Mutagène évolué : mutagène furieux]]
 |-
-| 13 || [++Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste] 3 || +10 || [++Pathfinder-RPG.Découverte supplémentaire.ashx|Découverte supplémentaire] : [++Pathfinder-RPG.découvertes.ashx|mutagène supérieur]
+| 13 || [[Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste]] 3 || +10 || [[Pathfinder-RPG.Découverte supplémentaire.ashx|Découverte supplémentaire]] : [[Pathfinder-RPG.découvertes.ashx|mutagène supérieur]]
 |-
-| 14 || [++Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste] 4 || 11 || [++Pathfinder-RPG.Maître chymiste.ashx|Mutagène évolué : agilité]
+| 14 || [[Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste]] 4 || 11 || [[Pathfinder-RPG.Maître chymiste.ashx|Mutagène évolué : agilité]]
 |-
-| 15 || [++Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste] 5 || +12 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]
+| 15 || [[Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste]] 5 || +12 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]]
 |-
-| 16 || [++Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste] 6 || +13 || [++Pathfinder-RPG.Maître chymiste.ashx|Mutagène évolué : grand mutagène]
+| 16 || [[Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste]] 6 || +13 || [[Pathfinder-RPG.Maître chymiste.ashx|Mutagène évolué : grand mutagène]]
 |-
-| 17 || [++Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste] 7 || +14 || [++Pathfinder-RPG.Découverte supplémentaire.ashx|Découverte supplémentaire] : [++Pathfinder-RPG.découvertes.ashx|potion éternelle]
+| 17 || [[Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste]] 7 || +14 || [[Pathfinder-RPG.Découverte supplémentaire.ashx|Découverte supplémentaire]] : [[Pathfinder-RPG.découvertes.ashx|potion éternelle]]
 |-
-| 18 || [++Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste] 8 || +15 || [++Pathfinder-RPG.Maître chymiste.ashx|Mutagène évolué : mutagène de croissance]
+| 18 || [[Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste]] 8 || +15 || [[Pathfinder-RPG.Maître chymiste.ashx|Mutagène évolué : mutagène de croissance]]
 |-
-| 19 || [++Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste] 9 || +16 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]
+| 19 || [[Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste]] 9 || +16 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]]
 |-
-| 20 || [++Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste] 10 || +17 || [++Pathfinder-RPG.Maître chymiste.ashx|Mutagène évolué : au choix]
+| 20 || [[Pathfinder-RPG.Maître chymiste.ashx|Maître chimiste]] 10 || +17 || [[Pathfinder-RPG.Maître chymiste.ashx|Mutagène évolué : au choix]]
 |}

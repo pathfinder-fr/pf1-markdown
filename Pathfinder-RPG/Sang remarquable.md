@@ -12,4 +12,4 @@ Categories:
 
 **Conditions**. don uniquement disponible au niveau 1.
 
-**Avantages**. Même si le personnage l’ignore, un sang remarquable coule dans ses veines. Il choisit deux [compétences](./Compétences.md) basées sur la même caractéristique et les considère toujours comme des compétences de classe. Il est possible que des gens qui ont connu son parent viennent le trouver, soit pour voir s’il est digne d’une invitation à rejoindre leur groupe, soit pour couvrir une union embarrassante s'il est né hors mariage, au choix du MJ.
+**Avantages**. Même si le personnage l’ignore, un sang remarquable coule dans ses veines. Il choisit deux [[compétences]] basées sur la même caractéristique et les considère toujours comme des compétences de classe. Il est possible que des gens qui ont connu son parent viennent le trouver, soit pour voir s’il est digne d’une invitation à rejoindre leur groupe, soit pour couvrir une union embarrassante s'il est né hors mariage, au choix du MJ.

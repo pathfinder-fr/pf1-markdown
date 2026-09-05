@@ -7,4 +7,4 @@ Categories:
 RedirectTo: terreur (capacité)
 ---
 
->>> [terreur (capacité)](./Terreur (capacité).md)
+>>> [[terreur (capacité)]]

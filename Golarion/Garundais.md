@@ -6,13 +6,13 @@ Categories:
 - Race
 ---
 
-Les Garundais sont les habitants les plus nombreux du continent du [Garund](./Garund.md), mais ils se sont éparpillés sur toute la surface du monde connu. Ils sont organisés en clans regroupant une vingtaine de familles. Chacun de ces clans a une hiérarchie stricte qui est difficile à déchiffrer pour les étrangers. Entre les clans eux-mêmes une hiérarchie s'est instaurée et de très fortes traditions régissent leurs échanges.
+Les Garundais sont les habitants les plus nombreux du continent du [[Garund]], mais ils se sont éparpillés sur toute la surface du monde connu. Ils sont organisés en clans regroupant une vingtaine de familles. Chacun de ces clans a une hiérarchie stricte qui est difficile à déchiffrer pour les étrangers. Entre les clans eux-mêmes une hiérarchie s'est instaurée et de très fortes traditions régissent leurs échanges.
 
 ### Apparence
 Les Garundais ont la peau noire, les pommettes saillantes, les épaules larges et les cheveux noirs, bien qu'ils blanchissent assez prématurément. Ils portent généralement des vêtements pratiques et très colorés, d'où qu'ils soient. Les Garundais vivant dans les terres éloignées de leur centre traditionnel essaient de conserver leurs traditions vestimentaire dans leur mode. Étant donné que les températures des régions dans lesquelles ils vivent peuvent varier énormément, ils ont tendance à s'habiller de couche successives pour que cela soit plus simple d'utilisation et plus approprié à l'air ambiant.
 
 ### Histoire
-Il est probable que les Garundais soient originaires du sud du [Garund](./Garund.md) et qu'ils aient migré vers le nord. Mais personne ne sait quand ce mouvement de population eut lieu. Cela devait être dans des temps anciens puisque les Garundais sont à l'origine de plusieurs anciennes civilisations dont celles de l'ancien [Osirion](./Osirion.md), de l'[Empire Jistka](./Empire Jistka.md) et de la [Ligue Tékritaninne](./Ligue Tékritaninne.md). Néanmoins, depuis cette époque, leur histoire n'en est pas moins flamboyante. Ils sont les fondateurs et les habitants de nombreuses nations telles que la [Thuvie](./Thuvie.md), le [Rahadoum](./Rahadoum.md) et le [Grand Duché d'Alkenastre](./Alkenastre.md). Les Garundais ont aussi migré vers le sud de l'[Avistan](./Avistan.md) et, si cette époque est révolue depuis plusieurs siècles, on trouve encore des clans d'origine garundaise partout dans l'[Avistan](./Avistan.md).
+Il est probable que les Garundais soient originaires du sud du [[Garund]] et qu'ils aient migré vers le nord. Mais personne ne sait quand ce mouvement de population eut lieu. Cela devait être dans des temps anciens puisque les Garundais sont à l'origine de plusieurs anciennes civilisations dont celles de l'ancien [[Osirion]], de l'[[Empire Jistka]] et de la [[Ligue Tékritaninne]]. Néanmoins, depuis cette époque, leur histoire n'en est pas moins flamboyante. Ils sont les fondateurs et les habitants de nombreuses nations telles que la [[Thuvie]], le [[Rahadoum]] et le [[Alkenastre|Grand Duché d'Alkenastre]]. Les Garundais ont aussi migré vers le sud de l'[[Avistan]] et, si cette époque est révolue depuis plusieurs siècles, on trouve encore des clans d'origine garundaise partout dans l'[[Avistan]].
 
 ### Culture
 Les Garundais sont connus pour être des gens amicaux et serviables et dont la culture repose principalement sur le clan. Un clan est un rassemblement de quinze à vingt familles. A l'intérieur de chaque clan s'est instaurée au fur et à mesure du temps une hiérarchie complexe que les étrangers ont du mal à comprendre. Cette classification est aussi présente entre les clans qui occupent le même territoire.
@@ -21,5 +21,5 @@ De vieilles traditions permettent de gérer les relations entre les clans lorsqu
 
 {s:VoirAussiAvant}
 Vous pourrez trouver plus d'informations à propos des Garundais dans le supplément
-- [Pathfinder Chronicle: Campaign Setting](./Publications.md#CAMPAIGNSETTING).
+- [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicle: Campaign Setting]].
 {s:VoirAussiAprès}

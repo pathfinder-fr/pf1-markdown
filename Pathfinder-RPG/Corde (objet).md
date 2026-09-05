@@ -8,10 +8,10 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po (15 m), 10 po (en soie, 15 m), 100 po (en soie d'araignée, 15 m) ; **Poids** 5 kg (15 m), 2,5 kg (en soie, 15 m), 2 kg (en soie d'araignée, 15 m)
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Cette corde de chanvre de 15 mètres de long a 2 points de vie et peut être brisée avec un test de [Force](./Force.md) [DD](./DD.md) 23.  
+Cette corde de chanvre de 15 mètres de long a 2 points de vie et peut être brisée avec un test de [[Force]] [[DD]] 23.  
   
-*Corde en soie (15 m)*. Ces 15 mètres de corde en soie ont 4 points de vie. On peut les briser avec un test de [Force](./Force.md) [DD](./DD.md) 24.  
+*Corde en soie (15 m)*. Ces 15 mètres de corde en soie ont 4 points de vie. On peut les briser avec un test de [[Force]] [[DD]] 24.  
   
-*Corde en soie d'araignée (15 m)*. Cette corde de 15 mètres est tissée de fils de soie d'araignées monstrueuses. Rares, pratiquement inexistantes à la surface du monde, ces cordes sont généralement utilisées par les [elfes noirs](./Drow (race).md) mais on trouve parfois des corde en soie d'araignée plus courtes (en principe pas plus de 3 mètres de long) chez les [gobelins](./Gobelin (race).md). La corde en soie d'araignée a 6 points de vie et peut être brisée avec un test de [Force](./Force.md) [DD](./DD.md) 25.
+*Corde en soie d'araignée (15 m)*. Cette corde de 15 mètres est tissée de fils de soie d'araignées monstrueuses. Rares, pratiquement inexistantes à la surface du monde, ces cordes sont généralement utilisées par les [[Drow (race)|elfes noirs]] mais on trouve parfois des corde en soie d'araignée plus courtes (en principe pas plus de 3 mètres de long) chez les [[Gobelin (race)|gobelins]]. La corde en soie d'araignée a 6 points de vie et peut être brisée avec un test de [[Force]] [[DD]] 25.

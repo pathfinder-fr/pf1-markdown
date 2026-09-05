@@ -10,8 +10,8 @@ LastModified: 2026-08-02 11:30
 {s:pucem|Animal|Aquatique|Froid}
 {s:BDTexte|*Source : Ultimate Wilderness*}
 {s:BDTexte|**PX** 50}
-{s:BDTexte|[Animal](./type Animal.md) de taille MIN, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille MIN, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 16, pris au dépourvu 14 (Dex +2, taille +4)}
 {s:BDTexte|**pv** 2 (1d8-2)}
@@ -23,8 +23,8 @@ LastModified: 2026-08-02 11:30
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 5, **Dex** 17, **Con** 11, **Int** 2, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +0, **BMO** -2, **DMD** 3}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Natation](./Natation.md))}
-{s:BDTexte|**Compétences** [Vol](./Vol.md) +8, [Perception](./Perception.md) +6, [Natation](./Natation.md) +6}
+{s:BDTexte|**Dons** [[Talent]] ([[Natation]])}
+{s:BDTexte|**Compétences** [[Vol]] +8, [[Perception]] +6, [[Natation]] +6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Côtes froides}
 {s:BDTexte|**Organisation sociale** solitaire, paire, ou colonie (3-20)}

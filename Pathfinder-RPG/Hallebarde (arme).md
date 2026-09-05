@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10 po ; **Poids** 6 kg ; **Groupes** [armes d'hast](./groupe darmes.md#Armesdhast)
-**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** ×3 ; **Portée** — ; **Type** P ou T ; **Spécial** [croc-en-jambe](./Caractéristiques des armes.md#CROCENJAMBE), [réception](./Caractéristiques des armes.md#RECEPTION)
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+{s:AE}**Prix** 10 po ; **Poids** 6 kg ; **Groupes** [[Groupe darmes#Armesdhast|armes d'hast]]
+**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** ×3 ; **Portée** — ; **Type** P ou T ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#RECEPTION|réception]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
 La hallebarde est similaire à une lance de 1,50 mètre de long mais elle est également pourvue d’un petit fer de hache montée à proximité du sommet.

@@ -8,6 +8,6 @@ Categories:
 
 {s:mr}*Les meurtres du personnage alimentent sa rage.*
 
-**Conditions.** [Demi-orque](./Demi-orque.md) ou [orque](./orque (race).md), pouvoir de classe [rage](./Barbare.md#RAGEDEBERSERKER).
+**Conditions.** [[Demi-orque]] ou [[orque (race)|orque]], pouvoir de classe [[barbare#RAGEDEBERSERKER|rage]].
 
-**Avantages.** Quand le personnage est enragé et que ses attaques font tomber un ennemi en dessous de 0 [point de vie](./pv.md) ou le tuent, il récupère 1 round de rage. En revanche, il peut utiliser ce don uniquement si son ennemi a au moins autant de [DV](./../Ressources/DV.md) que lui. Il ne peut bénéficier de ce don qu’une fois par round.
+**Avantages.** Quand le personnage est enragé et que ses attaques font tomber un ennemi en dessous de 0 [[pv|point de vie]] ou le tuent, il récupère 1 round de rage. En revanche, il peut utiliser ce don uniquement si son ennemi a au moins autant de [[DV]] que lui. Il ne peut bénéficier de ce don qu’une fois par round.

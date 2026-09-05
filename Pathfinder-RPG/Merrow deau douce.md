@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Merrow#EAUDOUCE
 ---
 
->>> [Merrow#EAUDOUCE](./Merrow.md#EAUDOUCE)
+>>> [[Merrow#EAUDOUCE]]

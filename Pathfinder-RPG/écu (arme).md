@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 7/20 po ; **Poids** 5/7,5 kg ; **Groupes** [armes de combat rapproché](./groupe darmes.md#Armesdecombatrapproché)
+{s:AE}**Prix** 7/20 po ; **Poids** 5/7,5 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]
 **Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
 ---
-Le personnage peut porter un coup avec un écu plutôt que de l’utiliser pour se défendre. Les écus sont décrits parmi les [armures](./écu (armure).md).
+Le personnage peut porter un coup avec un écu plutôt que de l’utiliser pour se défendre. Les écus sont décrits parmi les [[écu (armure)|armures]].

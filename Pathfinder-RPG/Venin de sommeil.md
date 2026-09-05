@@ -8,9 +8,9 @@ Categories:
 
 *Le vishkanya peut modifier la nature de sa salive toxique pour endormir ses ennemis.*
 
-**Conditions requises.** [Vishkanya](./vishkanya (race).md).
+**Conditions requises.** [[Vishkanya (race)|Vishkanya]].
 
-**Avantage.** Par une [action rapide](./Action rapide.md), le vishkanya peut altérer les effets de son [venin](./vishkanya (race).md#VENINVISHKANYA) afin que sa cible tombe [inconsciente](./États préjudiciables.md#Inconscient).
+**Avantage.** Par une [[action rapide]], le vishkanya peut altérer les effets de son [[Vishkanya (race)#VENINVISHKANYA|venin]] afin que sa cible tombe [[États préjudiciables#Inconscient|inconsciente]].
 Il modifie ainsi les effets principal et secondaire de son venin pour donner ceci : effet principal chancelant pendant 1d4 rounds ; effet secondaire inconscient pendant 1 minute. Il doit prendre la décision d’altérer son venin avant de l’appliquer à son arme.
 
 **Normal.** Le venin de vishkanya inflige des dégâts de Dextérité.

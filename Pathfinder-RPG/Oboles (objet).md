@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 12 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Les oboles sont de petites pièces en argent ou en or embossées d'un symbole sacré et bénies par un prêtre d'un dieu de la guerre ou de la mort. Historiquement, les [inquisiteurs](./Inquisiteur.md) et les [prêtres combattants](./Prêtre combattant.md) placent ces pièces sur le cadavre de ceux qui périssent au combat, mettant en général une pièce sur chaque œil ou une dans la bouche. Le coût est indiqué pour un lot de 12 oboles.
+Les oboles sont de petites pièces en argent ou en or embossées d'un symbole sacré et bénies par un prêtre d'un dieu de la guerre ou de la mort. Historiquement, les [[Inquisiteur|inquisiteurs]] et les [[Prêtre combattant|prêtres combattants]] placent ces pièces sur le cadavre de ceux qui périssent au combat, mettant en général une pièce sur chaque œil ou une dans la bouche. Le coût est indiqué pour un lot de 12 oboles.

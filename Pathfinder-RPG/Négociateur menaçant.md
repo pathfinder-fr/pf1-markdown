@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:UI}*Ceux que vous intimidez savent que vous allez mettre vos menaces à exécution.*
 
-**Conditions.** [Négociateur stressant](./Négociateur stressant.md), [Persuasion](./Persuasion.md), [Talent](./Talent.md) (Intimidation)
+**Conditions.** [[Négociateur stressant]], [[Persuasion]], [[Talent]] (Intimidation)
 
-**Avantages.** Lorsque le personnage réussit à utiliser la compétence [Intimidation](./Intimidation.md) pour forcer un adversaire à être amical envers lui, la durée du changement d'attitude est de 2d6 heures.
+**Avantages.** Lorsque le personnage réussit à utiliser la compétence [[Intimidation]] pour forcer un adversaire à être amical envers lui, la durée du changement d'attitude est de 2d6 heures.
 
-**Normal.** Modifier l'attitude d'une créature avec l'[Intimidation](./Intimidation.md) passe normalement son attitude à amicale pendant 1d6×10 minutes.
+**Normal.** Modifier l'attitude d'une créature avec l'[[Intimidation]] passe normalement son attitude à amicale pendant 1d6×10 minutes.

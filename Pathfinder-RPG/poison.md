@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Poisons
 ---
 
->>> [Pathfinder-RPG.Poisons](./Poisons.md)
+>>> [[Pathfinder-RPG.Poisons]]

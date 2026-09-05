@@ -14,31 +14,31 @@ Categories:
 {s:pucem|Vase|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.40*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Vase](./type Vase.md) de taille TG, N}
-{s:BDTexte|**Init** -3 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) à 18 m ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] de taille TG, N}
+{s:BDTexte|**Init** -3 ; **Sens** [[Vision aveugle (capacité)|vision aveugle]] à 18 m ; [[Perception]] -5}
 {s:BDTexte|**Aura** brume envoûtante (3 m (2 {s:c}), DD 8)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 5, contact 5, pris au dépourvu 5 (Dex -3, taille -2)}
 {s:BDTexte|**pv** 59 (7d8+28)}
 {s:BDTexte|**Réf** -1, **Vig** +6, **Vol** -3}
-{s:BDTexte|**'Capacités défensives** [affinité avec l'énergie négative](./Affinité avec lénergie négative (capacité).md), forme gazeuse ; **RD** 10/magique ; **Immunité** acide, électricité, son, [traits des vases](./type Vase.md) ; **Résistances** froid 10 ; **Faiblesse** vulnérabilité au vent}
+{s:BDTexte|**'Capacités défensives** [[affinité avec lénergie négative (capacité)|affinité avec l'énergie négative]], forme gazeuse ; **RD** 10/magique ; **Immunité** acide, électricité, son, [[type Vase|traits des vases]] ; **Résistances** froid 10 ; **Faiblesse** vulnérabilité au vent}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 4,50 m (3 {s:c}, parfaite)}
 {s:BDTexte|**Corps à corps**  contact, +5 (6d6 d'énergie négative)}
 {s:BDTexte|**Espace occupé**  4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** brouillard enveloppant (DD 17, 3d6 énergie négative et [chancelant](./Chancelant.md)}
+{s:BDTexte|**Attaques spéciales** brouillard enveloppant (DD 17, 3d6 énergie négative et [[chancelant]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** -, **Dex** 4, **Con** 18, **Int** -, **Sag** 1, **Cha** 1}
-{s:BDTexte|**BBA** +5, **BMO** +5, **DMD** 12 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
+{s:BDTexte|**BBA** +5, **BMO** +5, **DMD** 12 ([[croc-en-jambe]] impossible)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** climats tempérés}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou banc (3-10)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Brouillard enveloppant (Ext).** La brume affamée peut [envelopper](./Enveloppement (capacité).md). La créature [enveloppée](./Enveloppement (capacité).md) par une brume affamée n’est pas [immobilisée](./Immobilisé.md) et peut se déplacer normalement : elle ne risque pas l’asphyxie mais, tant qu’elle commence son tour en étant [enveloppée](./Enveloppement (capacité).md), elle est [chancelante](./Chancelant.md) en plus de recevoir des dégâts d’attaque. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Brume envoûtante (Sur).** Toute créature située à moins de 3 mètres (2 {s:c}) d’une brume affamée ou affectée par son brouillard enveloppant doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 8 au début de son tour ou être [secouée](./Secoué.md) pendant 1 [round](./round.md) par les formes fantomatiques qu’elle aperçoit du coin de l’œil en train de flotter dans la brume. Il s’agit d’un effet mental de terreur. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
-{s:BDTexte|**Forme gazeuse (Ext).** La brume affamée a un corps inquiétant composé de brume. Elle peut passer dans les petits trous ou les ouvertures étroites, même dans les fissures, mais ne peut pas entrer dans l’eau ni dans d’autres liquides. Elle n’a pas de valeur de [Force](./Force.md) et, de ce fait, ne peut tout simplement pas manipuler les objets.}
-{s:BDTexte|**Vulnérabilité au vent (Ext).** La brume affamée est considérée comme une créature de taille TP quand il s’agit de déterminer les effets du [grand vent](./Vents.md) sur elle.}
+{s:BDTexte|**Brouillard enveloppant (Ext).** La brume affamée peut [[enveloppement (capacité)|envelopper]]. La créature [[enveloppement (capacité)|enveloppée]] par une brume affamée n’est pas [[immobilisé|immobilisée]] et peut se déplacer normalement : elle ne risque pas l’asphyxie mais, tant qu’elle commence son tour en étant [[enveloppement (capacité)|enveloppée]], elle est [[chancelant|chancelante]] en plus de recevoir des dégâts d’attaque. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Brume envoûtante (Sur).** Toute créature située à moins de 3 mètres (2 {s:c}) d’une brume affamée ou affectée par son brouillard enveloppant doit réussir un jet de [[Volonté]] [[DD]] 8 au début de son tour ou être [[secoué|secouée]] pendant 1 [[round]] par les formes fantomatiques qu’elle aperçoit du coin de l’œil en train de flotter dans la brume. Il s’agit d’un effet mental de terreur. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|**Forme gazeuse (Ext).** La brume affamée a un corps inquiétant composé de brume. Elle peut passer dans les petits trous ou les ouvertures étroites, même dans les fissures, mais ne peut pas entrer dans l’eau ni dans d’autres liquides. Elle n’a pas de valeur de [[Force]] et, de ce fait, ne peut tout simplement pas manipuler les objets.}
+{s:BDTexte|**Vulnérabilité au vent (Ext).** La brume affamée est considérée comme une créature de taille TP quand il s’agit de déterminer les effets du [[Vents|grand vent]] sur elle.}
 
 </div>
 

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#PASRAPIDES
 ---
 
->>> [pouvoirs de rage#PASRAPIDES](./Pouvoirs de rage.md#PASRAPIDES)
+>>> [[pouvoirs de rage#PASRAPIDES]]

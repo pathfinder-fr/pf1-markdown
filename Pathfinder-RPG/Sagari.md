@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.229}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille TP, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Aberration|Aberration]] de taille TP, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 7 (1d8+3)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDTexte|**Attaques spéciales** flagellation, hennissement funeste}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 15, **Con** 17, **Int** 6, **Sag** 11, **Cha** 14}
-{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 9 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [attaques réflexes](./Attaques réflexes.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +4, [Vol](./Vol.md) +14}
+{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 9 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[attaques réflexes]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +4, [[Perception]] +4, [[Vol]] +14}
 {s:BDTexte|**Langue** aklo}
 {s:BDTexte|**Part** vol}
 {s:BDSousTitre|Écologie}
@@ -37,8 +37,8 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple, troupeau (3-8) ou haras (9-16)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Flagellation (Ext)**. Bien que le sagari soit de taille TP, il ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md) lorsqu’il porte des attaques de corps à corps. En outre, son attaque de tentacule est une attaque primaire.}
-{s:BDTexte|**Hennissement funeste (Sur)**. Par une [action simple](./Action simple.md), le sagari peut pousser un hennissement monstrueux. Toute créature située dans un [rayon](./rayon.md) de 18 mètres (12 {s:c}) doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 12 ou être [fiévreuse](./Fiévreux.md) pendant 1d4 rounds à cause de cet horrible son. Il s’agit d’un [effet mental](./effet mental.md) sonore. Que le [jet de sauvegarde](./jet de sauvegarde.md) soit réussi ou non, la créature affectée est immunisée contre le hennissement funeste de ce sagari pendant 24 heures. Le [DD](./DD.md) du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).}
+{s:BDTexte|**Flagellation (Ext)**. Bien que le sagari soit de taille TP, il ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]] lorsqu’il porte des attaques de corps à corps. En outre, son attaque de tentacule est une attaque primaire.}
+{s:BDTexte|**Hennissement funeste (Sur)**. Par une [[action simple]], le sagari peut pousser un hennissement monstrueux. Toute créature située dans un [[rayon]] de 18 mètres (12 {s:c}) doit réussir un jet de [[Volonté]] [[DD]] 12 ou être [[fiévreux|fiévreuse]] pendant 1d4 rounds à cause de cet horrible son. Il s’agit d’un [[effet mental]] sonore. Que le [[jet de sauvegarde]] soit réussi ou non, la créature affectée est immunisée contre le hennissement funeste de ce sagari pendant 24 heures. Le [[DD]] du jet de sauvegarde est basé sur le [[Charisme]].}
 {s:BDTexte|**Vol (Sur)** La capacité de vol du sagari est d’origine surnaturelle.}
 </div>
 </td><td><div>''Cette créature inquiétante a une tête de cheval, avec des yeux verts et des

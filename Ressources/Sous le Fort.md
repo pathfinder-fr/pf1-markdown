@@ -9,13 +9,13 @@ Aussi, un des dirigeant du fort préféra ne plus utiliser les oubliettes et con
 Cependant, un personnage influent du fort (le sénéchal)  s'est voué corps et âme à vénérer Asmodeus. Il fit construire un passage secret menant de la bibliothèque à l'oubliette, puis développa le fond de celle-ci en un grand dédale menant à un sanctuaire digne d'Asmodeus et où ses invocations pourraient se dérouler sans être dérangé.
 
 Après avoir observé les actes du sénéchal, les aventuriers ont remarqués qu'il entrait parfois dans la bibliothèque mais personne n'était dedans lorsqu'ils y pénétraient à leur tour. Grâce à un jet de Perception (DD 25), ils découvrirent sous une tapisserie un étrange code. ''
-(cf le post [http://www.pathfinder-fr.org/Forum/yaf_postst11377_Une-enigme--1.aspx|ici])
+(cf le post [ici](http://www.pathfinder-fr.org/Forum/yaf_postst11377_Une-enigme--1.aspx))
 
 Derrière la porte, un escalier en colimaçon étroit mène dans les profondeurs du fort.
 
 Voici le plan :
 
-[imageauto||http://img4.hostingpics.net/pics/685245Souslefort.png]
+<img src="http://img4.hostingpics.net/pics/685245Souslefort.png" class="imageauto" alt="">
 
 
 
@@ -24,26 +24,26 @@ Voici le plan :
 ### L'Oubliette
 
 **Battlemap** :
-[^http://img4.hostingpics.net/pics/875147SLF1.png|Cliquez ici]
+[Cliquez ici](http://img4.hostingpics.net/pics/875147SLF1.png)
 
 L'escalier se mue en un couloir droit fait  de pierre maçonnée et de dalles régulières. Rien n'éclaire le passage.  Au fond du couloir,  se dresse un mur, si bien qu'on dirait un cul de sac. Il n'y a qu'un levier qui dépasse du sol.
 
 <div class="BD" style="border: 1px solid #4b3124; padding: 4px">
 {s:BDTitre|Levier électrique|FP 2}
-- **[Type](./../Pathfinder-RPG/Pièges.md#TYPES)** objet magique ; **[Perception](./../Pathfinder-RPG/Perception.md)** [DD](./../Pathfinder-RPG/DD.md) 26 ; **[Sabotage](./../Pathfinder-RPG/Sabotage.md)** [DD](./../Pathfinder-RPG/DD.md)  26
+- **[[Pathfinder-RPG.Pièges#TYPES|Type]]** objet magique ; **[[Pathfinder-RPG.Perception|Perception]]** [[Pathfinder-RPG.DD|DD]] 26 ; **[[Pathfinder-RPG.Sabotage|Sabotage]]** [[Pathfinder-RPG.DD|DD]]  26
 (((Effet)))
-- **[Déclencheur](./../Pathfinder-RPG/Pièges.md#DECLENCHEUR)** activation ; **[Remise en place](./../Pathfinder-RPG/Pièges.md#REMISEENPLACE)** automatique
-- **[Effets](./../Pathfinder-RPG/Pièges.md#EFFETS)** effet magique – *[Choc](./../Pathfinder-RPG/Choc.md)*, 1d3 électricité, [jet de sauvegarde](./../Pathfinder-RPG/jet de sauvegarde.md) Aucun 
+- **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** activation ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** automatique
+- **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** effet magique – *[[Pathfinder-RPG.Choc|Choc]]*, 1d3 électricité, [[Pathfinder-RPG.jet de sauvegarde|jet de sauvegarde]] Aucun 
 </div>
 
 
-Il faut en réalité réussir un jet de [Perception](./../Pathfinder-RPG/Perception.md) (DD 25) pour pouvoir découvrir qu'une des pierres du mur est désolidarisée du reste et peut s'enfoncer.
+Il faut en réalité réussir un jet de [[Pathfinder-RPG.Perception|Perception]] (DD 25) pour pouvoir découvrir qu'une des pierres du mur est désolidarisée du reste et peut s'enfoncer.
 A ce moment là, l'extrémité du couloir s'abaisse, laissant l'accès à l'oubliette.
 
 L'oubliette est une salle carrée de 4,5m de côtés et 6m de haut  avec un trou de 1,5m au centre et de 9m de profondeur.
 L'endroit est froid et humide, les animaux sont mal à l'aise dans cet endroit et hésitent à y venir (Dressage DD 7).
 
-La raison est la présence en ces lieux d'un fantôme.  Un jet de [Perception](./../Pathfinder-RPG/Perception.md) DD 20 permet de percevoir des pleurs et lamentations près d'un des murs opposé à l'entré. En s'approchant assez près et en lui parlant, celui-ci apparaît mais il est tellement troublé qu'il prend toute personne comme démon tourmenteur et à moins d'un jet de [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) (DD 17) réussi, il attaque. S'il est "tué", il disparaît mais reviendra 1d6 jours plus tard tant qu'il n'aura pas été libéré.
+La raison est la présence en ces lieux d'un fantôme.  Un jet de [[Pathfinder-RPG.Perception|Perception]] DD 20 permet de percevoir des pleurs et lamentations près d'un des murs opposé à l'entré. En s'approchant assez près et en lui parlant, celui-ci apparaît mais il est tellement troublé qu'il prend toute personne comme démon tourmenteur et à moins d'un jet de [[Pathfinder-RPG.Diplomatie|Diplomatie]] (DD 17) réussi, il attaque. S'il est "tué", il disparaît mais reviendra 1d6 jours plus tard tant qu'il n'aura pas été libéré.
 
 Josh était un écuyer qui a été possédé par un démon. Ce dernier l'a manipulé assez pour qu'il tue son maître, le Chevalier Durill. Par crainte que le jeune homme ne soit toujours possédé, il fut enfermé dans l'oubliette, ses biens furent confisqués. Là, il fut nourri pendant quelques jours par une trappe au plafond (aujourd'hui condamnée). Il tomba malade et la fièvre lui faisant perdre la raison, il chuta dans la fosse et mourut.
 Son esprit plein de remords  est lié à l'oubliette : il ne peut en sortir ni même aller dans le fond.  Pour le libérer, il lui faut récupérer ses os et recevoir une bénédiction sacrée (eau bénite, prière d'un prêtre de la pureté)
@@ -51,7 +51,7 @@ Son esprit plein de remords  est lié à l'oubliette : il ne peut en sortir ni m
 La seule issue de l'oubliette est donc la fosse. Une chute cause 3d6 points de dommages. Il n'y a bien sûr aucune lumière dedans.
 A 6m après la descente, il y a une ouverture dans le mur de la fosse : ce dernier mène par un tunnel creusé grossièrement à l'ancienne prison. Un autre embranchement mène à un escalier qui descend jusqu'au dédale secret.
 
-On peut également y accéder par le fond de l'oubliette, cependant, celle-ci est fermée par une lourde porte en métal verrouillée.   Un teste de [Sabotage](./../Pathfinder-RPG/Sabotage.md) (DD 18) est nécessaire pour l'ouvrir.
+On peut également y accéder par le fond de l'oubliette, cependant, celle-ci est fermée par une lourde porte en métal verrouillée.   Un teste de [[Pathfinder-RPG.Sabotage|Sabotage]] (DD 18) est nécessaire pour l'ouvrir.
 
 
 
@@ -59,13 +59,13 @@ On peut également y accéder par le fond de l'oubliette, cependant, celle-ci es
 ### L'ancienne prison
 
 **Battlemap** :
-[^http://img4.hostingpics.net/pics/857457SLF2.png|Cliquez ici]
+[Cliquez ici](http://img4.hostingpics.net/pics/857457SLF2.png)
 
 Lors de la construction du Fort, une prison fut créée avec deux salles de questionnement, huit geôles, un couloir d'enceinte et un passage que seuls les personnes chargées des lieux et pouvaient emprunter.
 
 #### 1. Le hall
 
-Cette pièce est faite de pierre claire maçonnée et des [^http://img4.hostingpics.net/pics/660658SlFdalles.png|dalles] avec des symboles dessus sont visibles.
+Cette pièce est faite de pierre claire maçonnée et des [dalles](http://img4.hostingpics.net/pics/660658SlFdalles.png) avec des symboles dessus sont visibles.
 Il y a deux "entrées" : l'une étant le tunnel qui mène à la fosse de l'oubliette, l'autre est un escalier de pierre claire qui mène à un mur scellé. Il a en réalité été condamné lorsqu'un des dirigeants du fort a décidé de ne plus utiliser la prison.
 Chaque dalle déclenche potentiellement un piège quand on marche dessus.
 Il y a 7 symboles (première ligne de gauche à droite)  : 1d4 dégâts de feu, 1d4 dégâts de glace, 1d4+2 perforant 1d6, sacré 1d4 (-2 si on est d'alignement Bon), Electricité 1d4, 1d3 Acide, symbole sauf.
@@ -83,7 +83,7 @@ Cette salle n'a pas été utilisée depuis des années, cependant  deux esprits 
 - PX  200
 - **Apparition** (porte de geôle), CM
 - **Niveau de lanceur de sorts** 2
-- **Repérage** [Perception](./../Pathfinder-RPG/Perception.md) DD 20 (pour entendre des grincements de gonds)
+- **Repérage** [[Pathfinder-RPG.Perception|Perception]] DD 20 (pour entendre des grincements de gonds)
 - **pv** 10 ; **Déclencheur** proximité ; **Réinitialisation** 1 jour
 - **Effet** Quand cette apparition se produit, une porte de cellule se referme brutalement sur le PJ et un ricanement se fait entendre. La grille est verrouillée. Pour l'enfoncer il faut réussir un teste de Force (DD 25), soit tenter de casser un barreau (solidité 10, 60PV), soit tenter de la saboter (DD 20).
 - **Destruction** Il faut vaincre le fantôme de LeCkuch. 
@@ -95,7 +95,7 @@ Cette salle n'a pas été utilisée depuis des années, cependant  deux esprits 
 - PX  200
 - **Apparition**  couloir menant à la salle de torture sud, CM
 - **Niveau de lanceur de sorts** 3
-- **Repérage** [Perception](./../Pathfinder-RPG/Perception.md) DD 20 (pour sentir un souffle chaud)
+- **Repérage** [[Pathfinder-RPG.Perception|Perception]] DD 20 (pour sentir un souffle chaud)
 - **pv** 10 ; **Déclencheur** proximité ; **Réinitialisation** 1 jour
 - **Effet** En approchant de la porte, un personnage sent comme une vague de chaleur et il s'embrase littéralement. Un jet de Volonté (DD 15) permet de ne prendre que la moitié des dégâts de brûlure qui sont de 2d6. 
 - **Destruction** Il faut vaincre le fantôme de Jock Lafaute.
@@ -127,14 +127,14 @@ C'est ici que la condamnation à mort de Jock Lafaute a été faite. Malheureuse
 Cette pièce comporte un petit lac, sur les parois et au plafond, il y a quelques gouttes qui tombent de temps à autres.
 Sur une petite ile au centre faite de plusieurs débris métalliques, on peut y voir briller quelques vieilles massues et autres objets souvent rouillés mais qui avec un peu d'effort (Artisanat création d'armes DD 5) pourraient redevenir utilisables.
 
-En réalité,  l'ile en question est le haut d'un [cube gélatineux](./../Pathfinder-RPG/Cube gélatineux.md).
+En réalité,  l'ile en question est le haut d'un [[Pathfinder-RPG.Cube gélatineux|cube gélatineux]].
 
 
 
 ### Le dédale secret
 
 **Battlemap** :
-[^http://img4.hostingpics.net/pics/206404SLF3.png|Cliquez ici]
+[Cliquez ici](http://img4.hostingpics.net/pics/206404SLF3.png)
 
 Le sénéchal vénérait Asmodeus et il entrepris de construire un endroit pour le vénérer en secret. Il trouva l'oubliette propice et commença les travaux à l'aide d'acolytes discrets.
 Il déroba également les ossements de Josh, espérant que celui-ci pourrait être corrompu par ses os et lui servir à long terme de garde, ce qui n'est pas encore le cas.
@@ -142,33 +142,33 @@ Il déroba également les ossements de Josh, espérant que celui-ci pourrait êt
 En arrivant par l'oubliette (en haut à droite sur la carte), on arrive dans un couloir de 3m de large, pavés et aux murs maçonnés.
 
 #### L'antre du diablotin
-La première pièce en arrivant est l'antre du [diablotin](./../Pathfinder-RPG/Diablotin.md) du sénéchal,  Xylith. Il monte la garde avec deux [lémures](./../Pathfinder-RPG/Lémure.md).
+La première pièce en arrivant est l'antre du [[Pathfinder-RPG.Diablotin|diablotin]] du sénéchal,  Xylith. Il monte la garde avec deux [[Pathfinder-RPG.lémure|lémures]].
 S'il détecte une intrusion, il devient invisible et se poste sur la dalle piégée qui libérera à chaque round une salve de flammes dans toute la salle, infligeant 1d6 points de dommages de feu à toutes les créatures sensibles au feu dans la pièce...
 
 
 #### Les couloirs d'invocation
-Les cercles rouges dans les couloirs sont des cercles d'invocation. Lorsqu'un intrus passe dessus, un [lémures](./../Pathfinder-RPG/Lémure.md) qui se trouve dans la seconde salle (la salle de garde) est téléporté sur le symbole (lancez 1d6 pour savoir lequel).
-Il est possible de passer au dessus d'un symbole en sautant (([Acrobatie](./../Pathfinder-RPG/Acrobaties.md) DD 10). Cependant, en évitant tous les pièges, on retrouve tous les lémures qui n'ont pas été affrontés dans la seconde salle.
+Les cercles rouges dans les couloirs sont des cercles d'invocation. Lorsqu'un intrus passe dessus, un [[Pathfinder-RPG.lémure|lémures]] qui se trouve dans la seconde salle (la salle de garde) est téléporté sur le symbole (lancez 1d6 pour savoir lequel).
+Il est possible de passer au dessus d'un symbole en sautant (([[Pathfinder-RPG.Acrobaties|Acrobatie]] DD 10). Cependant, en évitant tous les pièges, on retrouve tous les lémures qui n'ont pas été affrontés dans la seconde salle.
 
 Si on passe sur un piège et que le dé indique un lémure déjà tué, celui-ci revient du plan infernal avec la moitié de ses points de vie.
 Le piège cesse une fois que les cinq lémures sont tués.
 
 
 #### La salle de garde
-C'est ici qu'une [tieffeline](./Pathfinder-RPG-PNJ-Hérétiques-ashx-ashx.md#ADORATEUR) monte la garde. Elle part parfois se reposer dans sa chambre, mais si les lémures entendent du bruit, ils la préviennent et elle arrive dans la salle.
+C'est ici qu'une [[Pathfinder-RPG.PNJ Hérétiques.ashx.ashx#ADORATEUR|tieffeline]] monte la garde. Elle part parfois se reposer dans sa chambre, mais si les lémures entendent du bruit, ils la préviennent et elle arrive dans la salle.
 Il y a cinq lémures si ceux-ci n'ont pas été tués avant.
 
 
 
 #### Chambre
-Cette chambre comporte un lit et un bureau. Il est possible de trouver dans le bureau le contrat qui lie le sénéchal à son diablotin dans un coffret fermé à clef ([Sabotage](./../Pathfinder-RPG/Sabotage.md) DD 15, ou 10 points de dégâts, [solidité](./../Pathfinder-RPG/Exploration.md#SOLIDITE) 3).
+Cette chambre comporte un lit et un bureau. Il est possible de trouver dans le bureau le contrat qui lie le sénéchal à son diablotin dans un coffret fermé à clef ([[Pathfinder-RPG.Sabotage|Sabotage]] DD 15, ou 10 points de dégâts, [[Pathfinder-RPG.Exploration#SOLIDITE|solidité]] 3).
 
 
 
 #### Sanctuaire maudit
 
 Cet endroit résonne d'une beauté infernale. Au fond de la pièce une volée de marche mène à une plateforme (1,5m de haut) où est inscrit le symbole maudit d'Asmodeus.
-Il y a 50% de chances qu'un [diable barbu](./../Pathfinder-RPG/Diable barbu.md) soit venu voir le sénéchal ou son acolyte.
+Il y a 50% de chances qu'un [[Pathfinder-RPG.Diable barbu|diable barbu]] soit venu voir le sénéchal ou son acolyte.
 
 
 Amusez-vous bien,

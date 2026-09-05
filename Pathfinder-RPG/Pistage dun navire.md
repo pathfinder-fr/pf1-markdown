@@ -10,14 +10,14 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**École** [Divination](./école divination.md) ([scrutation](./branche scrutation.md)) <nowiki>[</nowiki>voyage<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, F](./composantes.md) (fragment de bateau)
+{s:PMI}**École** [[école Divination|Divination]] ([[branche scrutation|scrutation]]) <nowiki>[[</nowiki>voyage<nowiki>]]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, F]] (fragment de bateau)
 **Portée** voir description
 **Effet** symbole magique
 **Durée** 1 heure/niveau
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
-Afin de pouvoir lancer ce sort, le personnage doit posséder un fragment du navire qu’il souhaite pister. Les marchands conservent souvent des morceaux de leurs navires pour pouvoir utiliser ce sort en particulier. Le personnage a également besoin d’une [carte nautique](./Carte nautique (objet).md).
+Afin de pouvoir lancer ce sort, le personnage doit posséder un fragment du navire qu’il souhaite pister. Les marchands conservent souvent des morceaux de leurs navires pour pouvoir utiliser ce sort en particulier. Le personnage a également besoin d’une [[Carte nautique (objet)|carte nautique]].
 
-Quand il lance ce sort, le personnage fait apparaître le symbole du navire ciblé sur la carte nautique. Ce symbole se déplace en même temps que le navire pendant toute la durée du sort. Si le navire ne se trouve pas dans la zone représentée sur la carte, le sort échoue. Si le navire voit ses [points de résistance](./Exploration.md#DESTRUCTIONOBJET) tomber à 0 ou moins, son symbole se transforme en un crâne et deux os croisés.
+Quand il lance ce sort, le personnage fait apparaître le symbole du navire ciblé sur la carte nautique. Ce symbole se déplace en même temps que le navire pendant toute la durée du sort. Si le navire ne se trouve pas dans la zone représentée sur la carte, le sort échoue. Si le navire voit ses [[Exploration#DESTRUCTIONOBJET|points de résistance]] tomber à 0 ou moins, son symbole se transforme en un crâne et deux os croisés.

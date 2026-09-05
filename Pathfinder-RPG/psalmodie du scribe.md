@@ -11,14 +11,14 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:rse}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Prê](./Prêtre.md) 0
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (du sable fin et une fiole d'encre)
+{s:rse}**École** [[Transmutation]] ; **Niveau** [[barde|Bard]] 0, [[ensorceleur|Ens]]/[[magicien|Mag]] 0, [[prêtre|Prê]] 0
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (du sable fin et une fiole d'encre)
 **Portée** 1,5 m (1 {s:c})
 **Cible** un ou plusieurs objets écrits
-**Durée** [concentration](./Présentation des sorts.md#DUREE), jusqu’à 1 minute/[niveau](./niveau.md) (T)
+**Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 minute/[[niveau]] (T)
 **Jet de sauvegarde** Volonté (objet, inoffensif) ; **Résistance à la magie** oui (objet)
 
-Ce sort imprègne une plume d’une énergie animée et transcrit rapidement les mots d’une page vers une autre. La plume copie une œuvre écrite à un rythme d’une page de taille normale par minute. La compétence [Linguistique](./Linguistique.md) peut être utilisée pour faire une copie convaincante, mais autrement la reproduction est écrite de la main du lanceur de sort. Vous devez vous concentrer sur le matériau en cours de duplication pendant la durée du sort et fournir de nouvelles pages blanches au besoin. La *psalmodie du scribe* requiert du papier vierge et une plume ou d’autres accessoires d’écriture en plus de ses composants matériels.
+Ce sort imprègne une plume d’une énergie animée et transcrit rapidement les mots d’une page vers une autre. La plume copie une œuvre écrite à un rythme d’une page de taille normale par minute. La compétence [[Linguistique]] peut être utilisée pour faire une copie convaincante, mais autrement la reproduction est écrite de la main du lanceur de sort. Vous devez vous concentrer sur le matériau en cours de duplication pendant la durée du sort et fournir de nouvelles pages blanches au besoin. La *psalmodie du scribe* requiert du papier vierge et une plume ou d’autres accessoires d’écriture en plus de ses composants matériels.
 
-Ce sort ne peut pas reproduire d’écrits magiques (y compris des sorts et des [parchemins magiques](./Parchemins magiques.md)), bien qu’il puisse dupliquer des écrits non magiques d’une source magique.
+Ce sort ne peut pas reproduire d’écrits magiques (y compris des sorts et des [[parchemins magiques]]), bien qu’il puisse dupliquer des écrits non magiques d’une source magique.

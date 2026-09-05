@@ -19,28 +19,28 @@ Categories:
 | CLASS="gauche" | Sorts par jour
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +2
-| CLASS="gauche" | [Passer une protection magique](./Estimateur dAbadar.md#PASSERUNEPROTECTIONMAGIQUE)
+| CLASS="gauche" | [[Estimateur dAbadar#PASSERUNEPROTECTIONMAGIQUE|Passer une protection magique]]
 | CLASS="gauche" | —
 |-
 | 2 || +1 || +0 || +0 || +3
-| CLASS="gauche" | [Évaluation](./Estimateur dAbadar.md#EVALUATION)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Estimateur dAbadar.md#SORTS)
+| CLASS="gauche" | [[Estimateur dAbadar#EVALUATION|Évaluation]]
+| CLASS="gauche" | [[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 3 || +1 || +1 || +1 || +3
-| CLASS="gauche" | [Sac de contenance (2e modèle)](./Estimateur dAbadar.md#SACDECONTENANCE), [Accès au Coffre (objet non-magique)](./Estimateur dAbadar.md#ACCESAUCOFFRE)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Estimateur dAbadar.md#SORTS)
+| CLASS="gauche" | [[Estimateur dAbadar#SACDECONTENANCE|Sac de contenance (2e modèle)]], [[Estimateur dAbadar#ACCESAUCOFFRE|Accès au Coffre (objet non-magique)]]
+| CLASS="gauche" | [[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 4 || +2 || +1 || +1 || +4
-| CLASS="gauche" | [Négociateur éloquent](./Estimateur dAbadar.md#NEGOCIATEURELOQUENT)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Estimateur dAbadar.md#SORTS)
+| CLASS="gauche" | [[Estimateur dAbadar#NEGOCIATEURELOQUENT|Négociateur éloquent]]
+| CLASS="gauche" | [[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 5 || +2 || +1 || +1 || +4
-| CLASS="gauche" | [Accès au Coffre (objet magique)](./Estimateur dAbadar.md#ACCESAUCOFFRE)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Estimateur dAbadar.md#SORTS)
+| CLASS="gauche" | [[Estimateur dAbadar#ACCESAUCOFFRE|Accès au Coffre (objet magique)]]
+| CLASS="gauche" | [[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 6 || +3 || +2 || +2 || +5
-| CLASS="gauche" | [Passage par le Coffre](./Estimateur dAbadar.md#PASSAGEPARLECOFFRE), [sac de contenance (2e modèle)](./Estimateur dAbadar.md#SACDECONTENANCE)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Estimateur dAbadar.md#SORTS)
+| CLASS="gauche" | [[Estimateur dAbadar#PASSAGEPARLECOFFRE|Passage par le Coffre]], [[Estimateur dAbadar#SACDECONTENANCE|sac de contenance (2e modèle)]]
+| CLASS="gauche" | [[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |}
 
 **Dé de vie** d6.
@@ -48,37 +48,37 @@ Categories:
 ### Conditions requises
 Pour devenir un estimateur légal, il faut satisfaire aux conditions suivantes.
 
-**Divinité.** Doit prier le [dieu de la civilisation](./../Golarion/Abadar.md)
+**Divinité.** Doit prier le [[Golarion.Abadar|dieu de la civilisation]]
 
-**Compétences.** 4 rangs en [Estimation](./Estimation.md), 4 rangs en [Sabotage](./Sabotage.md)
+**Compétences.** 4 rangs en [[Estimation]], 4 rangs en [[Sabotage]]
 
 **Sorts.** Capacité à lancer des sorts divins de 3e niveau
 
 ### Compétences de classe
-Voici les compétences de classe de l’estimateur légal : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Connaissances](./Connaissances.md) (exploration souterraine) (Int), [Connaissances](./Connaissances.md) (folklore local) (Int), [Connaissances](./Connaissances.md) (religion) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Estimation](./Estimation.md) (Int), [Perception](./Perception.md) (Sag), [Premiers secours](./Premiers secours.md) (Sag), [Profession](./Profession.md) (Sag), [Sabotage](./Sabotage.md) (Dex).
+Voici les compétences de classe de l’estimateur légal : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (exploration souterraine) (Int), [[Connaissances]] (folklore local) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Estimation]] (Int), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Sabotage]] (Dex).
 
-**Rangs de compétence par niveau.**  2 + modificateur d'[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.**  2 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe d'estimateur légal.
 
 {s:Reference|SORTS}
 #### Sorts
-Du niveau 2 au niveau 6, l’estimateur gagne de nouveaux sorts quotidiens de la même manière que s’il avait gagné un niveau dans une classe de lanceur de sorts divins qui était sienne avant de devenir estimateur légal. Il ajoute son niveau d’estimateur légal au niveau de toute autre classe de lanceur de sorts pour ce qui est de déterminer son [niveau de lanceur de sorts](./NLS.md).
+Du niveau 2 au niveau 6, l’estimateur gagne de nouveaux sorts quotidiens de la même manière que s’il avait gagné un niveau dans une classe de lanceur de sorts divins qui était sienne avant de devenir estimateur légal. Il ajoute son niveau d’estimateur légal au niveau de toute autre classe de lanceur de sorts pour ce qui est de déterminer son [[NLS|niveau de lanceur de sorts]].
 
 {s:Reference|PASSERUNEPROTECTIONMAGIQUE}
 #### Passer une protection magique (Ext)
-Les ruines antiques renferment souvent des portes verrouillées, parfois protégées par magie. Un estimateur est donc capable de crocheter la serrure d’une porte, y compris d’une porte verrouillée magiquement (affectée par exemple par les sorts *[verrou du mage](./Verrou du mage.md)* ou *[verrouillage](./Verrouillage.md)*). Le [DD](./DD.md) du test de [Sabotage](./Sabotage.md) pour la porte est considéré comme supérieur de 10 points à la normale du fait du sort de protection. Un estimateur gagne également un bonus sacré de +2 aux tests de Sabotage. Par une [action complexe](./Action complexe.md), l’estimateur est capable d’effectuer un test de Sabotage afin de désactiver un piège magique pendant 1 minute (*[glyphe de garde](./Glyphe de garde.md)* par exemple).
+Les ruines antiques renferment souvent des portes verrouillées, parfois protégées par magie. Un estimateur est donc capable de crocheter la serrure d’une porte, y compris d’une porte verrouillée magiquement (affectée par exemple par les sorts *[[verrou du mage]]* ou *[[verrouillage]]*). Le [[DD]] du test de [[Sabotage]] pour la porte est considéré comme supérieur de 10 points à la normale du fait du sort de protection. Un estimateur gagne également un bonus sacré de +2 aux tests de Sabotage. Par une [[action complexe]], l’estimateur est capable d’effectuer un test de Sabotage afin de désactiver un piège magique pendant 1 minute (*[[glyphe de garde]]* par exemple).
 
 {s:Reference|EVALUATION}
 #### Évaluation (Ext)
-Un estimateur doit être capable d’évaluer rapidement les valeurs avec exactitude, en particulier dans un environnement dangereux tel qu’un tombeau souterrain. Il gagne un bonus sacré de +2 à tous les tests d’[Estimation](./Estimation.md) et, s’il accepte de subir un malus de -10, il peut évaluer la valeur d’un objet par une [action complexe](./Action complexe.md) au lieu de la minute habituelle.
+Un estimateur doit être capable d’évaluer rapidement les valeurs avec exactitude, en particulier dans un environnement dangereux tel qu’un tombeau souterrain. Il gagne un bonus sacré de +2 à tous les tests d’[[Estimation]] et, s’il accepte de subir un malus de -10, il peut évaluer la valeur d’un objet par une [[action complexe]] au lieu de la minute habituelle.
 
 {s:Reference|SACDECONTENANCE}
 #### Sac de contenance (Sur)
-Un estimateur peut parfois trouver un trésor inattendu, bien trop gros pour être transporté. Il est capable de transformer, une fois par jour, n’importe quel sac, sac à dos ou autre contenant ordinaire en un *[sac sans fond](./Sac sans fond.md)* de 2e modèle. Le conteneur reste un *sac sans fond* pendant 1 heure par niveau de classe. Une fois la durée écoulée, le sac reprend ses propriétés normales et tous les objets trop volumineux pour tenir dans ses véritables dimensions en tombent immédiatement et sans danger. À la différence d’un *sac sans fond* permanent, un sac créé par ce pouvoir ne peut être surchargé ou transpercé et ne connaît pas non plus d’interactions spéciales avec d’autres espaces extra-dimensionnels.
+Un estimateur peut parfois trouver un trésor inattendu, bien trop gros pour être transporté. Il est capable de transformer, une fois par jour, n’importe quel sac, sac à dos ou autre contenant ordinaire en un *[[Sac sans fond]]* de 2e modèle. Le conteneur reste un *sac sans fond* pendant 1 heure par niveau de classe. Une fois la durée écoulée, le sac reprend ses propriétés normales et tous les objets trop volumineux pour tenir dans ses véritables dimensions en tombent immédiatement et sans danger. À la différence d’un *sac sans fond* permanent, un sac créé par ce pouvoir ne peut être surchargé ou transpercé et ne connaît pas non plus d’interactions spéciales avec d’autres espaces extra-dimensionnels.
 
-Au niveau 6, la capacité du sac de contenance de l’estimateur augmente jusqu’à celle d’un *[sac sans fond](./Sac sans fond.md)* de 3e modèle. Autre alternative, l’estimateur est capable de créer deux *sacs sans fond* de 2e modèle, bien que leurs espaces extra-dimensionnels ne soient en aucun cas reliés.
+Au niveau 6, la capacité du sac de contenance de l’estimateur augmente jusqu’à celle d’un *[[Sac sans fond]]* de 3e modèle. Autre alternative, l’estimateur est capable de créer deux *sacs sans fond* de 2e modèle, bien que leurs espaces extra-dimensionnels ne soient en aucun cas reliés.
 
 {s:Reference|NEGOCIATEURELOQUENT}
 #### Négociateur éloquent (Ext)
@@ -86,7 +86,7 @@ Pour obtenir la permission d’entrer dans des ruines gorgées de trésors, il f
 
 {s:Reference|ACCESAUCOFFRE}
 #### Accès au Coffre (Sur)
-Au niveau 3, un estimateur gagne le pouvoir d’accéder au Premier Coffre, l’espace de dépôt planaire du dieu de la civilisation où sont stockées les versions parfaites de tout objet jamais créé. Une fois par semaine, l’estimateur est capable d’invoquer une copie de tout objet non magique (normal ou de maître) tant que son prix sur le marché est égal ou inférieur à 500 po par [niveau de lanceur de sorts](./NLS.md) divins et que son volume est inférieur à 30 dm³ par niveau de classe. L’objet reste en présence de l’estimateur pendant 1 minute par niveau de classe, après quoi il s’en retourne automatiquement au Premier Coffre. Les objets consommables disparaissent une fois utilisés mais agissent pendant leur durée normale (ou 1 minute par niveau de classe, suivant ce qui est le plus court). Une nouvelle copie de l’objet apparaîtra dans le Premier Coffre, même si ce dernier est détruit pendant qu’il est en possession de l’estimateur. Au niveau 5, l’estimateur est capable d’user de ce pouvoir afin d’invoquer un objet magique du Premier Coffre. Les objets à charges arrivent toujours pleinement chargés et la limite de prix s’applique à ces versions (une *baguette de [soins importants](./Soins importants.md)* pleinement chargée coûte 11 250 po, ce qui la met hors de portée de tout estimateur dont le niveau de lanceur de sorts est inférieur à 22).
+Au niveau 3, un estimateur gagne le pouvoir d’accéder au Premier Coffre, l’espace de dépôt planaire du dieu de la civilisation où sont stockées les versions parfaites de tout objet jamais créé. Une fois par semaine, l’estimateur est capable d’invoquer une copie de tout objet non magique (normal ou de maître) tant que son prix sur le marché est égal ou inférieur à 500 po par [[NLS|niveau de lanceur de sorts]] divins et que son volume est inférieur à 30 dm³ par niveau de classe. L’objet reste en présence de l’estimateur pendant 1 minute par niveau de classe, après quoi il s’en retourne automatiquement au Premier Coffre. Les objets consommables disparaissent une fois utilisés mais agissent pendant leur durée normale (ou 1 minute par niveau de classe, suivant ce qui est le plus court). Une nouvelle copie de l’objet apparaîtra dans le Premier Coffre, même si ce dernier est détruit pendant qu’il est en possession de l’estimateur. Au niveau 5, l’estimateur est capable d’user de ce pouvoir afin d’invoquer un objet magique du Premier Coffre. Les objets à charges arrivent toujours pleinement chargés et la limite de prix s’applique à ces versions (une *baguette de [[soins importants]]* pleinement chargée coûte 11 250 po, ce qui la met hors de portée de tout estimateur dont le niveau de lanceur de sorts est inférieur à 22).
 
 Les objets provenant du Premier Coffre sont manifestement de qualité exceptionnelle et irradient la magie (même si l’objet n’est pas magique normalement, comme une chaise ou une table). Leur perfection surnaturelle est suffisante pour rendre suspicieux tout acheteur potentiel doué d’intelligence. L’église du dieu de la civilisation désapprouve la vente d’objets issus du Premier Coffre car il s’agit par essence de vol envers l’acheteur (vu que ces objets disparaissent peu de temps après), ce qui perturbe la foi en un commerce équitable et en l’église. Les estimateurs qui abusent de ce pouvoir perdent l’accès au Premier Coffre jusqu’à ce qu’ils aient expié leur péché.
 
@@ -96,8 +96,8 @@ Certains érudits religieux avancent la théorie que les objets invoqués par ce
 
 {s:Reference|PASSAGEPARLECOFFRE}
 #### Passage par le Coffre (Mag)
-Les individus durs en affaires et à la recherche de trésors perdus ont parfois les yeux plus gros que le ventre et la fuite rapide est souvent le seul moyen de sortir en vie d’une situation mal engagée. Une fois par jour, un estimateur est capable de créer un portail à sens unique vers le Premier Coffre doué d’un effet parmi les deux suivants. Premièrement, l’estimateur peut franchir le portail comme s’il s’agissait d’une *[porte dimensionnelle](./Porte dimensionnelle.md)*, mais ne peut se rendre que vers les lieux à portée et dans lesquels il s’est déjà rendu (il ne peut pas, par exemple, s’en servir pour passer une porte scellée et pénétrer dans la pièce inconnue de l’autre côté). Deuxièmement, il peut se servir du portail comme s’il lançait le sort de *[mot de rappel](./Mot de rappel.md)* mais, plutôt que de retourner à son sanctuaire, il s’en revient toujours au temple du dieu de la civilisation en activité le plus proche. Le [niveau de lanceur de sorts](./NLS.md) dont dispose l’estimateur pour ce pouvoir est égal à son niveau de lanceur de sorts divins et ce dernier est capable d’emmener avec lui d’autres individus, comme défini dans la description du sort.
+Les individus durs en affaires et à la recherche de trésors perdus ont parfois les yeux plus gros que le ventre et la fuite rapide est souvent le seul moyen de sortir en vie d’une situation mal engagée. Une fois par jour, un estimateur est capable de créer un portail à sens unique vers le Premier Coffre doué d’un effet parmi les deux suivants. Premièrement, l’estimateur peut franchir le portail comme s’il s’agissait d’une *[[porte dimensionnelle]]*, mais ne peut se rendre que vers les lieux à portée et dans lesquels il s’est déjà rendu (il ne peut pas, par exemple, s’en servir pour passer une porte scellée et pénétrer dans la pièce inconnue de l’autre côté). Deuxièmement, il peut se servir du portail comme s’il lançait le sort de *[[mot de rappel]]* mais, plutôt que de retourner à son sanctuaire, il s’en revient toujours au temple du dieu de la civilisation en activité le plus proche. Le [[NLS|niveau de lanceur de sorts]] dont dispose l’estimateur pour ce pouvoir est égal à son niveau de lanceur de sorts divins et ce dernier est capable d’emmener avec lui d’autres individus, comme défini dans la description du sort.
 
-Le voyage à travers le Premier Coffre est inconfortable et déroutant, probablement parce que le Coffre rejette la chair mortelle imparfaite afin de se protéger ou parce que l’aura de tant de perfection accable les sens des mortels. Indépendamment de la distance parcourue, l’estimateur (et quiconque voyage avec lui) arrive 1d4+1 [rounds](./round.md) plus tard et se sent [nauséeux](./Nauséeux.md) pendant les 1d4+1 rounds qui suivent son arrivée (un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 15 annule l’effet).
+Le voyage à travers le Premier Coffre est inconfortable et déroutant, probablement parce que le Coffre rejette la chair mortelle imparfaite afin de se protéger ou parce que l’aura de tant de perfection accable les sens des mortels. Indépendamment de la distance parcourue, l’estimateur (et quiconque voyage avec lui) arrive 1d4+1 [[round|rounds]] plus tard et se sent [[nauséeux]] pendant les 1d4+1 rounds qui suivent son arrivée (un jet de [[Vigueur]] [[DD]] 15 annule l’effet).
 
-Tout comme pour le pouvoir d’[Accès au Coffre](./Estimateur dAbadar.md#ACCESAUPREMIERCOFFRE) de l’estimateur, certains érudits pensent que cette capacité transporte son utilisateur à travers un autre espace que le Premier Coffre. Leur raisonnement est le suivant : si un estimateur était contrôlé mentalement ou compromis d’une autre manière, cette capacité pourrait permettre à des voleurs d’accéder au Premier Coffre et d’y dérober les objets inestimables et parfaits qu’il renferme.
+Tout comme pour le pouvoir d’[[Estimateur dAbadar#ACCESAUPREMIERCOFFRE|Accès au Coffre]] de l’estimateur, certains érudits pensent que cette capacité transporte son utilisateur à travers un autre espace que le Premier Coffre. Leur raisonnement est le suivant : si un estimateur était contrôlé mentalement ou compromis d’une autre manière, cette capacité pourrait permettre à des voleurs d’accéder au Premier Coffre et d’y dérober les objets inestimables et parfaits qu’il renferme.

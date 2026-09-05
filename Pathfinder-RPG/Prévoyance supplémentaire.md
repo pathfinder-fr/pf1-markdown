@@ -11,6 +11,6 @@ Categories:
 
 **Conditions.** personnage de niveau 19
 
-**Avantages.** Le personnage peut avoir deux effets de *[prévoyance](./Prévoyance.md)* actifs en même temps. S'ils devraient être déclenchés au même [round](./round.md), l'un d'entre eux (choisi au hasard) se déclenche 1 round plus tard.
+**Avantages.** Le personnage peut avoir deux effets de *[[prévoyance]]* actifs en même temps. S'ils devraient être déclenchés au même [[round]], l'un d'entre eux (choisi au hasard) se déclenche 1 round plus tard.
 
-**Normal.** Un personnage ne peut bénéficier que d'une seule *[prévoyance](./Prévoyance.md)* active à la fois.
+**Normal.** Un personnage ne peut bénéficier que d'une seule *[[prévoyance]]* active à la fois.

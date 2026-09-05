@@ -8,13 +8,13 @@ Categories:
 
 {s:MenuCompétences}
 
-**caractéristique associée** : [Charisme](./Charisme.md)
+**caractéristique associée** : [[Charisme]]
 
 **Formation nécessaire** : non
 
 *Le personnage connaît un ou plusieurs arts du spectacle (tels que chant, théâtre, instrument de musique).*
 
-Comme les compétences d’[Artisanat](./Artisanat.md), de [Connaissances](./Connaissances.md) et de [Profession](./Profession.md), la compétence de Représentation regroupe plusieurs compétences correspondant à des formes de spectacle distinctes. Le personnage peut connaître plusieurs formes de Représentation et investir des points de compétences séparément dans chacune d’elles.
+Comme les compétences d’[[Artisanat]], de [[Connaissances]] et de [[Profession]], la compétence de Représentation regroupe plusieurs compétences correspondant à des formes de spectacle distinctes. Le personnage peut connaître plusieurs formes de Représentation et investir des points de compétences séparément dans chacune d’elles.
 
 Chacune des neuf formes de Représentation inclut une grande variété de méthodes, d’instruments et de techniques, dont seule une petite partie est présente dans la liste ci-dessous.
 - Chant (ballades, chorale, mélodie)
@@ -56,13 +56,13 @@ Représentation
 |}
 </center>
 
-Un [instrument de musique de maître](./Trousses doutils et de compétences.md#Instrument de musique) confère un bonus de circonstances de +2 aux tests de Représentation chaque fois que le personnage l’utilise.
+Un [[Trousses doutils et de compétences#Instrument de musique|instrument de musique de maître]] confère un bonus de circonstances de +2 aux tests de Représentation chaque fois que le personnage l’utilise.
 
 ### Action
-Variable. Il faut entre une soirée et une journée entière pour gagner de l’argent en jouant en public. Les pouvoirs du [barde](./Barde.md) fondés sur la compétence de Représentation sont détaillés dans la description de cette classe.
+Variable. Il faut entre une soirée et une journée entière pour gagner de l’argent en jouant en public. Les pouvoirs du [[barde]] fondés sur la compétence de Représentation sont détaillés dans la description de cette classe.
 
 ### Nouvelles tentatives
 **Oui.** Cependant, les nouvelles tentatives ne font pas oublier les échecs précédents et un public ayant eu une mauvaise impression d’un artiste sera par la suite plus difficile à contenter (le DD du test augmente de +2 par échec).
 
 ### Spécial
-Un [barde](./Barde.md) doit disposer de rangs dans certaines catégories spécifiques de Représentation pour pouvoir utiliser sa capacité de représentation bardique.
+Un [[barde]] doit disposer de rangs dans certaines catégories spécifiques de Représentation pour pouvoir utiliser sa capacité de représentation bardique.

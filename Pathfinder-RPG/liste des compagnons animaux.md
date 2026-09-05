@@ -9,71 +9,71 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:MenuClasses}***Voir aussi le [profil des compagnons animaux](./Compagnons animaux.md) et la [liste des compagnons vermines](./Compagnons vermines.md).***
+{s:MenuClasses}***Voir aussi le [[Compagnons animaux|profil des compagnons animaux]] et la [[Compagnons vermines|liste des compagnons vermines]].***
 
-Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque, valeurs de caractéristiques et capacités spéciales. Sauf mention contraire, les animaux utilisent leur [bonus de base à l’attaque](./BBA.md) pour toutes leurs attaques et ajoutent leur modificateur de [Force](./Force.md) aux jets de dégâts, à moins qu’il s’agisse de leur unique attaque, auquel cas ils ajoutent 1,5 fois leur modificateur de [Force](./Force.md). Certains animaux possèdent des capacités spéciales comme un [odorat](./Odorat (capacité).md) développé. Lorsque le druide gagne des niveaux, son compagnon animal progresse également. Au niveau 4 ou au niveau 7, il subit un développement qui vient s’ajouter à l’évolution décrite dans le tableau ci-dessus. Il peut toutefois choisir d’ignorer le développement indiqué et augmenter à la place la [Dextérité](./Dextérité.md) et la [Constitution](./Constitution.md) du compagnon de +2 points.
+Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque, valeurs de caractéristiques et capacités spéciales. Sauf mention contraire, les animaux utilisent leur [[BBA|bonus de base à l’attaque]] pour toutes leurs attaques et ajoutent leur modificateur de [[Force]] aux jets de dégâts, à moins qu’il s’agisse de leur unique attaque, auquel cas ils ajoutent 1,5 fois leur modificateur de [[Force]]. Certains animaux possèdent des capacités spéciales comme un [[Odorat (capacité)|odorat]] développé. Lorsque le druide gagne des niveaux, son compagnon animal progresse également. Au niveau 4 ou au niveau 7, il subit un développement qui vient s’ajouter à l’évolution décrite dans le tableau ci-dessus. Il peut toutefois choisir d’ignorer le développement indiqué et augmenter à la place la [[Dextérité]] et la [[Constitution]] du compagnon de +2 points.
 
 <div class="article_3col">
-[Anguille électrique](./liste des compagnons animaux.md#Anguilleélectrique),
-[Auroch ou Bison](./liste des compagnons animaux.md#Aurochoubison),
-[Baleine bleue](./liste des compagnons animaux.md#Baleine bleue),
-[Blaireau ou Glouton](./liste des compagnons animaux.md#Blaireau(glouton)),
-[Calmar](./liste des compagnons animaux.md#Calmar),
-[Camérocéras](./liste des compagnons animaux.md#Camérocéras),
-[Chameau/Dromadaire](./liste des compagnons animaux.md#Chameau),
-[Cératosaure](./liste des compagnons animaux.md#Cératosaure),
-[Chalicothérium](./liste des compagnons animaux.md#Chalicothérium),
-[Chauve-souris sanguinaire](./liste des compagnons animaux.md#Chauve-sourissanguinaire),
-[Cheval ou Cheval lourd](./liste des compagnons animaux.md#Cheval),
-[Chien](./liste des compagnons animaux.md#Chien),
-[Chien gobelin](./liste des compagnons animaux.md#Chiengobelin),
-[Dauphin](./liste des compagnons animaux.md#Dauphin),
-[Dinosaure (ankylosaure)](./liste des compagnons animaux.md#Dinosaure(ankylosaure)),
-[Dinosaure (brachiosaure)](./liste des compagnons animaux.md#Dinosaure(brachiosaure)),
-[Dinosaure (deinonychus, vélociraptor)](./liste des compagnons animaux.md#Dinosaure(deinonychusvélociraptor)),
-[Dinosaure (élasmosaure)](./liste des compagnons animaux.md#Dinosaure(élasmosaure)),
-[Dinosaure (ptéranodon)](./liste des compagnons animaux.md#Dinosaure(ptéranodon)),
-[Dinosaure (stégosaure)](./liste des compagnons animaux.md#Dinosaure(stégosaure)),
-[Dinosaure (tricératops)](./liste des compagnons animaux.md#Dinosaure(tricératops)),
-[Dinosaure (tyrannosaure)](./liste des compagnons animaux.md#Dinosaure(tyrannosaure)),
-[Éléphant](./liste des compagnons animaux.md#Éléphant),
-[Félin, grand](./liste des compagnons animaux.md#Félingrand(liontigre)) ([lion](./Lion.md), [tigre](./Tigre.md), [lion tacheté](./Lion sanguinaire.md), [smilodon](./smilodon.md)),
-[Félin, petit](./liste des compagnons animaux.md#Félinpetit(guépardléopard)) ([guépard](./Guépard.md), [léopard](./Léopard.md)),
-[Gorille](./liste des compagnons animaux.md#Gorille),
-[Grenouille géante](./liste des compagnons animaux.md#Grenouillegéante),
-[Grenouille goliath](./liste des compagnons animaux.md#Grenouille goliath),
-[Hyène](./liste des compagnons animaux.md#Hyène),
-[Kaprosuchus](./liste des compagnons animaux.md#Kaprosuchus),
-[Loup](./liste des compagnons animaux.md#Loup) ou [Hyaenodon](./Hyène sanguinaire.md),
-[Mégaprimate](./liste des compagnons animaux.md#Mégaprimate),
-[Moa](./liste des compagnons animaux.md#Moa),
-[Murène géante](./liste des compagnons animaux.md#Murènegéante),
-[Narval](./liste des compagnons animaux.md#Narval),
-[Octopode laineux](./liste des compagnons animaux.md#Octopode laineux),
-[Oiseau](./liste des compagnons animaux.md#Oiseau(aiglefauconhibou)) ([aigle](./Aigle.md), [faucon](./Faucon.md), [hibou](./Grand-duc.md)),
-[Orque épaulard](./liste des compagnons animaux.md#Orqueépaulard),
-[Ours](./liste des compagnons animaux.md#Ours),
-[Ours polaire](./liste des compagnons animaux.md#Ours polaire),
-[Ours polaire sanguinaire](./liste des compagnons animaux.md#Ours polaire sanguinaire),
-[Père grenouille](./liste des compagnons animaux.md#Père grenouille),
-[Pieuvre](./liste des compagnons animaux.md#Pieuvre),
-[Plésiosaure](./liste des compagnons animaux.md#Plésiosaure),
-[Poney](./liste des compagnons animaux.md#Poney),
-[Pumassue](./liste des compagnons animaux.md#Pumassue),
-[Python de selle](./liste des compagnons animaux.md#Pythondeselle),
-[Rat sanguinaire](./liste des compagnons animaux.md#Ratsanguinaire),
-[Requin](./liste des compagnons animaux.md#Requin),
-[Rhinocéros](./liste des compagnons animaux.md#Rhinocéros),
-[Roc](./liste des compagnons animaux.md#Roc),
-[Salamandre cavernicole](./liste des compagnons animaux.md#Salamandrecavernicole),
-[Sanglier](./liste des compagnons animaux.md#Sanglier),
-[Serpent constricteur](./liste des compagnons animaux.md#Serpentconstricteur),
-[Serpent, vipère](./liste des compagnons animaux.md#Serpentvipère),
-[Thérizinosaure](./liste des compagnons animaux.md#Thérizinosaure),
-[Troodon](./liste des compagnons animaux.md#Troodon),
-[Uintathérium](./liste des compagnons animaux.md#Uintathérium),
-[Varan](./liste des compagnons animaux.md#Varan),
-[Vautour géant](./liste des compagnons animaux.md#Vautour géant).
+[[Liste des compagnons animaux#Anguilleélectrique|Anguille électrique]],
+[[Liste des compagnons animaux#Aurochoubison|Auroch ou Bison]],
+[[Liste des compagnons animaux#Baleine bleue|Baleine bleue]],
+[[Liste des compagnons animaux#Blaireau(glouton)|Blaireau ou Glouton]],
+[[Liste des compagnons animaux#Calmar|Calmar]],
+[[Liste des compagnons animaux#Camérocéras|Camérocéras]],
+[[Liste des compagnons animaux#Chameau|Chameau/Dromadaire]],
+[[Liste des compagnons animaux#Cératosaure|Cératosaure]],
+[[Liste des compagnons animaux#Chalicothérium|Chalicothérium]],
+[[Liste des compagnons animaux#Chauve-sourissanguinaire|Chauve-souris sanguinaire]],
+[[Liste des compagnons animaux#Cheval|Cheval ou Cheval lourd]],
+[[Liste des compagnons animaux#Chien|Chien]],
+[[Liste des compagnons animaux#Chiengobelin|Chien gobelin]],
+[[Liste des compagnons animaux#Dauphin|Dauphin]],
+[[Liste des compagnons animaux#Dinosaure(ankylosaure)|Dinosaure (ankylosaure)]],
+[[Liste des compagnons animaux#Dinosaure(brachiosaure)|Dinosaure (brachiosaure)]],
+[[Liste des compagnons animaux#Dinosaure(deinonychusvélociraptor)|Dinosaure (deinonychus, vélociraptor)]],
+[[Liste des compagnons animaux#Dinosaure(élasmosaure)|Dinosaure (élasmosaure)]],
+[[Liste des compagnons animaux#Dinosaure(ptéranodon)|Dinosaure (ptéranodon)]],
+[[Liste des compagnons animaux#Dinosaure(stégosaure)|Dinosaure (stégosaure)]],
+[[Liste des compagnons animaux#Dinosaure(tricératops)|Dinosaure (tricératops)]],
+[[Liste des compagnons animaux#Dinosaure(tyrannosaure)|Dinosaure (tyrannosaure)]],
+[[Liste des compagnons animaux#Éléphant|Éléphant]],
+[[Liste des compagnons animaux#Félingrand(liontigre)|Félin, grand]] ([[lion]], [[tigre]], [[lion sanguinaire|lion tacheté]], [[smilodon]]),
+[[Liste des compagnons animaux#Félinpetit(guépardléopard)|Félin, petit]] ([[guépard]], [[léopard]]),
+[[Liste des compagnons animaux#Gorille|Gorille]],
+[[Liste des compagnons animaux#Grenouillegéante|Grenouille géante]],
+[[Liste des compagnons animaux#Grenouille goliath|Grenouille goliath]],
+[[Liste des compagnons animaux#Hyène|Hyène]],
+[[Liste des compagnons animaux#Kaprosuchus|Kaprosuchus]],
+[[Liste des compagnons animaux#Loup|Loup]] ou [[hyène sanguinaire|Hyaenodon]],
+[[Liste des compagnons animaux#Mégaprimate|Mégaprimate]],
+[[Liste des compagnons animaux#Moa|Moa]],
+[[Liste des compagnons animaux#Murènegéante|Murène géante]],
+[[Liste des compagnons animaux#Narval|Narval]],
+[[Liste des compagnons animaux#Octopode laineux|Octopode laineux]],
+[[Liste des compagnons animaux#Oiseau(aiglefauconhibou)|Oiseau]] ([[aigle]], [[faucon]], [[grand-duc|hibou]]),
+[[Liste des compagnons animaux#Orqueépaulard|Orque épaulard]],
+[[Liste des compagnons animaux#Ours|Ours]],
+[[Liste des compagnons animaux#Ours polaire|Ours polaire]],
+[[Liste des compagnons animaux#Ours polaire sanguinaire|Ours polaire sanguinaire]],
+[[Liste des compagnons animaux#Père grenouille|Père grenouille]],
+[[Liste des compagnons animaux#Pieuvre|Pieuvre]],
+[[Liste des compagnons animaux#Plésiosaure|Plésiosaure]],
+[[Liste des compagnons animaux#Poney|Poney]],
+[[Liste des compagnons animaux#Pumassue|Pumassue]],
+[[Liste des compagnons animaux#Pythondeselle|Python de selle]],
+[[Liste des compagnons animaux#Ratsanguinaire|Rat sanguinaire]],
+[[Liste des compagnons animaux#Requin|Requin]],
+[[Liste des compagnons animaux#Rhinocéros|Rhinocéros]],
+[[Liste des compagnons animaux#Roc|Roc]],
+[[Liste des compagnons animaux#Salamandrecavernicole|Salamandre cavernicole]],
+[[Liste des compagnons animaux#Sanglier|Sanglier]],
+[[Liste des compagnons animaux#Serpentconstricteur|Serpent constricteur]],
+[[Liste des compagnons animaux#Serpentvipère|Serpent, vipère]],
+[[Liste des compagnons animaux#Thérizinosaure|Thérizinosaure]],
+[[Liste des compagnons animaux#Troodon|Troodon]],
+[[Liste des compagnons animaux#Uintathérium|Uintathérium]],
+[[Liste des compagnons animaux#Varan|Varan]],
+[[Liste des compagnons animaux#Vautour géant|Vautour géant]].
 </div>
 
 <table width="100%"><tr><td width="49%">
@@ -86,12 +86,12 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Taille** P
 - **Vitesse** 1,50 m (1 <abbr title="cases">c</abbr>), nage 9 m (6 <abbr title="cases">c</abbr>)
 - **Attaque** morsure (1d6)
-- **Caractéristiques** [For](./Force.md) 12, [Dex](./Dextérité.md) 14, [Con](./Constitution.md) 18, [Int](./Intelligence.md) 1, [Sag](./Sagesse.md) 10, [Cha](./Charisme.md) 6
-- **Particularités** [amphibie](./Amphibie.md), résistance à l'électricité 5, [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 12, [[Dextérité|Dex]] 14, [[Constitution|Con]] 18, [[Intelligence|Int]] 1, [[Sagesse|Sag]] 10, [[Charisme|Cha]] 6
+- **Particularités** [[amphibie]], résistance à l'électricité 5, [[vision nocturne]].
 
 (((Développement au niveau 4)))
 - **CA** armure naturelle +2
-- **Caractéristiques** [Dex](./Dextérité.md) +2, [Con](./Constitution.md) +2
+- **Caractéristiques** [[Dextérité|Dex]] +2, [[Constitution|Con]] +2
 - **Particularités** électricité (1d6), résistance à l'électricité 10.
 
 </div>
@@ -107,22 +107,22 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** 12 m (8 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +1
 - **Attaque** corne (1d6)
-- **Caractéristiques** [For](./Force.md) 14, [Dex](./Dextérité.md) 12, [Con](./Constitution.md) 12, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 11, [Cha](./Charisme.md) 4
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 14, [[Dextérité|Dex]] 12, [[Constitution|Con]] 12, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 11, [[Charisme|Cha]] 4
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 7)))</li>
 - **Taille** G
 - **CA** armure naturelle +3
 - **Attaque** corne (1d8)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
-- **Particularités** débandade, [piétinement](./Piétinement.md).
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
+- **Particularités** débandade, [[piétinement]].
 
 </div>
 
 <div class="BD">
 {s:Reference|Baleine bleue}
 {s:BDTitre|Baleine bleue|}
-- *Source : Bestiaire 5 p.43 ; voir le [profil du monstre](./Baleine bleue.md)*
+- *Source : Bestiaire 5 p.43 ; voir le [[Baleine bleue|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -130,7 +130,7 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **CA** armure naturelle +1
 - **Attaque** queue (1d8)
 - **Caractéristiques** For 11, Dex 19, Con 10, Int 2, Sag 14, Cha 6
-- **Particularités** [Vision nocturne](./Vision nocturne (capacité).md), [Retenir son souffle](./Retenir son souffle (capacité).md)
+- **Particularités** [[Vision nocturne (capacité)|Vision nocturne]], [[Retenir son souffle (capacité)|Retenir son souffle]]
 
 (((Développement au niveau 7)))
 - **Taille** G
@@ -151,14 +151,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse de déplacement** 9 m (6 cases), creusement 3 m (2 cases), escalade 3 m (2 cases)
 - **CA** +2 d’armure naturelle
 - **Attaque** morsure (1d4), 2 griffes (1d3)
-- **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 15, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 10
-- **Attaques spéciales** [rage](./Barbare.md#RAGEDEBERSERKER) (comme un [barbare](./Barbare.md), 6 rounds par jour)
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 17, [[Constitution|Con]] 15, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 10
+- **Attaques spéciales** [[barbare#RAGEDEBERSERKER|rage]] (comme un [[barbare]], 6 rounds par jour)
+- **Particularités** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 4)))
 - **Taille** M
 - **Attaque morsure** (1d6), 2 griffes (1d4)
-- **Caractéristiques** [For](./Force.md) +4, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +2
+- **Caractéristiques** [[Force|For]] +4, [[Dextérité|Dex]] -2, [[Constitution|Con]] +2
 
 </div>
 
@@ -172,41 +172,41 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Taille** M
 - **Vitesse** nage 18 m (12 <abbr title="cases">c</abbr>), propulsion 72 m (48 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +1
-- **Attaque** tentacules (1d4, [étreinte](./Étreinte.md)) , morsure (1d3)
-- **Caractéristiques** [For](./Force.md) 14, [Dex](./Dextérité.md) 15, [Con](./Constitution.md) 11, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 2
-- **Particularités** nuage d'encre, [vision nocturne](./vision nocturne.md).
+- **Attaque** tentacules (1d4, [[étreinte]]) , morsure (1d3)
+- **Caractéristiques** [[Force|For]] 14, [[Dextérité|Dex]] 15, [[Constitution|Con]] 11, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 2
+- **Particularités** nuage d'encre, [[vision nocturne]].
 
 (((Développement au niveau 4)))
-- **Caractéristiques** [For](./Force.md) +2, [Con](./Constitution.md) +2.
+- **Caractéristiques** [[Force|For]] +2, [[Constitution|Con]] +2.
 
 </div>
 
 <div class="BD">
 {s:Reference|Camérocéras}
 {s:BDTitre|Camérocéras|}
-- *Source : Bestiaire 5 p.51 ; voir le [profil du monstre](./Camérocéras.md)*
+- *Source : Bestiaire 5 p.51 ; voir le [[Camérocéras|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
 - **Vitesse** 1,50 m, nage 6 m, propulsion 27 m
 - **CA** armure naturelle +1
-- **Attaque** tentacules (1d4 plus [étreinte](./Étreinte (capacité).md)), morsure (1d3)
+- **Attaque** tentacules (1d4 plus [[Étreinte (capacité)|étreinte]]), morsure (1d3)
 - **Caractéristiques** For 14, Dex 15, Con 11, Int 2, Sag 12, Cha 2
-- **Particularités** [Vision nocturne](./Vision nocturne (capacité).md), acclimaté à la pression
+- **Particularités** [[Vision nocturne (capacité)|Vision nocturne]], acclimaté à la pression
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +2
-- **Attaque** tentacules (1d6 plus [étreinte](./Étreinte (capacité).md)), morsure (1d4)
+- **Attaque** tentacules (1d6 plus [[Étreinte (capacité)|étreinte]]), morsure (1d4)
 - **Caractéristiques** For +4, Dex -2, Con +2
-- **Attaques spéciales** [Constriction](./Constriction (capacité).md) (1d6)
+- **Attaques spéciales** [[Constriction (capacité)|Constriction]] (1d6)
 
 </div>
 
 <div class="BD">
 {s:Reference|Cératosaure}
 {s:BDTitre|Cératosaure|}
-- *Source : Bestiaire 5 p.86 ; voir le [profil du monstre](./Cératosaure.md)*
+- *Source : Bestiaire 5 p.86 ; voir le [[Cératosaure|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -214,21 +214,21 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **CA** armure naturelle +4
 - **Attaque** morsure (1d8)
 - **Caractéristiques** For 14, Dex 17, Con 11, Int 2, Sag 11, Cha 10
-- **Particularités** [Croc-en-jambe](./Croc-en-jambe (capacité).md), [Odorat](./Odorat (capacité).md), [Vision nocturne](./Vision nocturne (capacité).md)
+- **Particularités** [[Croc-en-jambe (capacité)|Croc-en-jambe]], [[Odorat (capacité)|Odorat]], [[Vision nocturne (capacité)|Vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +2
 - **Attaque** morsure (2d6)
 - **Caractéristiques** For +8, Dex -2, Con +4
-- **Attaques spéciales** [Rage sanguinaire](./Rage sanguinaire (capacité).md), [Férocité](./Férocité (capacité).md)
+- **Attaques spéciales** [[Rage sanguinaire (capacité)|Rage sanguinaire]], [[Férocité (capacité)|Férocité]]
 
 </div>
 
 <div class="BD">
 {s:Reference|Chalicothérium}
 {s:BDTitre|Chalicothérium|}
-- *Source : Bestiaire 5 p.180 ; voir le [profil du monstre](./Chalicothérium.md)*
+- *Source : Bestiaire 5 p.180 ; voir le [[Chalicothérium|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -236,14 +236,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **CA** armure naturelle +4
 - **Attaque** 2 griffes (1d4)
 - **Caractéristiques** For 12, Dex 14, Con 13, Int 2, Sag 13, Cha 3
-- **Particularités** [Odorat](./Odorat (capacité).md), [Vision nocturne](./Vision nocturne (capacité).md)
+- **Particularités** [[Odorat (capacité)|Odorat]], [[Vision nocturne (capacité)|Vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +2
 - **Attaque** 2 griffes (1d6)
 - **Caractéristiques** For +8, Dex -2, Con +4
-- **Attaques spéciales** [éventration](./Éventration (capacité).md) (2 griffes, 1d6)
+- **Attaques spéciales** [[Éventration (capacité)|éventration]] (2 griffes, 1d6)
 
 </div>
 
@@ -258,11 +258,11 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse de déplacement** 15 m (10 cases)
 - **CA** +1 d’armure naturelle
 - **Attaque** morsure (1d4) ou crachat (attaque de contact à distance qui rend la cible fiévreuse pendant 1d4 rounds, portée 3 m (2 cases))
-- **Caractéristiques** [For](./Force.md) 18, [Dex](./Dextérité.md) 16, [Con](./Constitution.md) 14, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 11, [Cha](./Charisme.md) 4
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] 18, [[Dextérité|Dex]] 16, [[Constitution|Con]] 14, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 11, [[Charisme|Cha]] 4
+- **Particularités** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 4)))
-- **Caractéristiques** [For](./Force.md) +2, [Con](./Constitution.md) +2
+- **Caractéristiques** [[Force|For]] +2, [[Constitution|Con]] +2
 
 </div>
 
@@ -277,14 +277,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** 6 m (4 <abbr title="cases">c</abbr>), vol 12 m (8 <abbr title="cases">c</abbr>) (bonne)
 - **CA** armure naturelle +0
 - **Attaque** morsure (1d6)
-- **Caractéristiques** [For](./Force.md) 9, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 9, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 14, [Cha](./Charisme.md) 6
-- **Particularités** [perception aveugle](./perception aveugle.md) 12 m (8 <abbr title="cases">c</abbr>) cases.
+- **Caractéristiques** [[Force|For]] 9, [[Dextérité|Dex]] 17, [[Constitution|Con]] 9, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 14, [[Charisme|Cha]] 6
+- **Particularités** [[perception aveugle]] 12 m (8 <abbr title="cases">c</abbr>) cases.
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
 - **Attaque** morsure (1d8)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) –2, [Con](./Constitution.md) +4.
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] –2, [[Constitution|Con]] +4.
 
 </div>
 
@@ -299,13 +299,13 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse de déplacement** 15 m (10 cases)
 - **CA** +4 d’armure naturelle
 - **Attaque** morsure (1d4), 2 sabots* (1d6)
-- **Caractéristiques** [For](./Force.md) 16, [Dex](./Dextérité.md) 13, [Con](./Constitution.md) 15, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 6
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
-- <i>(*) Il s’agit d’une arme naturelle secondaire, voir [attaque secondaire](./Attaques naturelles (capacité).md).</i>
+- **Caractéristiques** [[Force|For]] 16, [[Dextérité|Dex]] 13, [[Constitution|Con]] 15, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 6
+- **Particularités** [[odorat]], [[vision nocturne]].
+- <i>(*) Il s’agit d’une arme naturelle secondaire, voir [[Attaques naturelles (capacité)|attaque secondaire]].</i>
 
 (((Développement au niveau 4)))
-- **Caractéristiques** [For](./Force.md) +2, [Con](./Constitution.md) +2
-- **Particularité** [entraîné au combat](./entraîné au combat.md)
+- **Caractéristiques** [[Force|For]] +2, [[Constitution|Con]] +2
+- **Particularité** [[entraîné au combat]]
 
 </div>
 
@@ -320,13 +320,13 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse de déplacement** 12 m (8 cases)
 - **CA** +2 d’armure naturelle
 - **Attaque** morsure (1d4)
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 15, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 6
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 17, [[Constitution|Con]] 15, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 6
+- **Particularités** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 4)))
 - **Taille** M
 - **Attaque** morsure (1d6)
-- **Caractéristiques** [For](./Force.md) +4, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +2
+- **Caractéristiques** [[Force|For]] +4, [[Dextérité|Dex]] -2, [[Constitution|Con]] +2
 
 </div>
 
@@ -340,14 +340,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Taille** P
 - **Vitesse** 15 m (10 <abbr title="cases">c</abbr>)
 - **Attaque** morsure (1d4)
-- **Caractéristiques** [For](./Force.md) 11, [Dex](./Dextérité.md) 16, [Con](./Constitution.md) 11, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 8
-- **Particularités** réaction allergique, [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 11, [[Dextérité|Dex]] 16, [[Constitution|Con]] 11, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 8
+- **Particularités** réaction allergique, [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 4)))
 - **Taille** M
 - **CA** armure naturelle +1
 - **Attaque** morsure (1d6)
-- **Caractéristiques** [For](./Force.md) +4, [Dex](./Dextérité.md) –2, [Con](./Constitution.md) +4.
+- **Caractéristiques** [[Force|For]] +4, [[Dextérité|Dex]] –2, [[Constitution|Con]] +4.
 
 </div>
 
@@ -362,12 +362,12 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** nage 24 m (16 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +1
 - **Attaque** coup (1d4)
-- **Caractéristiques** [For](./Force.md) 12, [Dex](./Dextérité.md) 15, [Con](./Constitution.md) 13, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 6
-- **Particularités** retenir son souffle, [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 12, [[Dextérité|Dex]] 15, [[Constitution|Con]] 13, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 6
+- **Particularités** retenir son souffle, [[vision nocturne]].
 
 (((Développement au niveau 4)))
-- **Caractéristiques** [For](./Force.md) +2, [Dex](./Dextérité.md) +2, [Con](./Constitution.md) +2
-- **Particularités** [vision aveugle](./vision aveugle.md) 36 m (24 <abbr title="cases">c</abbr>).
+- **Caractéristiques** [[Force|For]] +2, [[Dextérité|Dex]] +2, [[Constitution|Con]] +2
+- **Particularités** [[vision aveugle]] 36 m (24 <abbr title="cases">c</abbr>).
 
 </div>
 
@@ -382,14 +382,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** 9 m (6 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +9
 - **Attaque** queue (1d6)
-- **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 14, [Con](./Constitution.md) 9, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 8
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 14, [[Constitution|Con]] 9, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 8
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +2
 - **Attaque** queue (2d6)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
 - **Particularités** étourdissement.
 
 </div>
@@ -405,15 +405,15 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** 9 m (6 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +3
 - **Attaque** queue (2d4)
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 14, [Con](./Constitution.md) 11, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 13, [Cha](./Charisme.md) 10
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 14, [[Constitution|Con]] 11, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 13, [[Charisme|Cha]] 10
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +2
 - **Attaque** queue (2d6)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
-- **Particularités** [piétinement](./Piétinement.md) (1d8).
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
+- **Particularités** [[piétinement]] (1d8).
 
 </div>
 
@@ -428,15 +428,15 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse de déplacement** 18 m (12 cases)
 - **CA** +1 d’armure naturelle
 - **Attaque** 2 serres (1d6), morsure (1d4)
-- **Caractéristiques** [For](./Force.md) 11, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 17, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 14
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] 11, [[Dextérité|Dex]] 17, [[Constitution|Con]] 17, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 14
+- **Particularités** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** M
 - **CA** +2 d’armure naturelle
 - **Attaque** 2 serres (1d8), morsure (1d6), 2 griffes (1d4)
-- **Caractéristiques** [For](./Force.md) +4, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +2
-- **Attaque spéciale** [bond](./Bond.md)
+- **Caractéristiques** [[Force|For]] +4, [[Dextérité|Dex]] -2, [[Constitution|Con]] +2
+- **Attaque spéciale** [[bond]]
 
 </div>
 
@@ -451,14 +451,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** 6 m (4 <abbr title="cases">c</abbr>), nage 15 m (10 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +2
 - **Attaque** morsure (1d8)
-- **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 18, [Con](./Constitution.md) 12, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 13, [Cha](./Charisme.md) 9
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 18, [[Constitution|Con]] 12, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 13, [[Charisme|Cha]] 9
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 4)))
 - **Taille** G
 - **CA** armure naturelle +3
 - **Attaque** morsure (2d6)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4.
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4.
 
 </div>
 
@@ -473,14 +473,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** 3 m (2 <abbr title="cases">c</abbr>), vol 15 m (10 <abbr title="cases">c</abbr>) (déplorable)
 - **CA** armure naturelle +0
 - **Attaque** morsure (1d8)
-- **Caractéristiques** [For](./Force.md) 8, [Dex](./Dextérité.md) 21, [Con](./Constitution.md) 10, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 14, [Cha](./Charisme.md) 12
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 8, [[Dextérité|Dex]] 21, [[Constitution|Con]] 10, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 14, [[Charisme|Cha]] 12
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +2
 - **Attaque** morsure (2d6)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4.
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4.
 
 </div>
 
@@ -495,14 +495,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** 9 m (6 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +6
 - **Attaque** queue (2d6)
-- **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 18, [Con](./Constitution.md) 10, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 10
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 18, [[Constitution|Con]] 10, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 10
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
-- **Attaque** queue (2d8 et [croc-en-jambe](./Croc-en-jambe (capacité).md))
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4.
+- **Attaque** queue (2d8 et [[Croc-en-jambe (capacité)|croc-en-jambe]])
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4.
 
 </div>
 
@@ -517,15 +517,15 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** 9 m (6 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +6
 - **Attaque** corne (1d8)
-- **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 13, [Con](./Constitution.md) 11, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 7
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 13, [[Constitution|Con]] 11, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 7
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
 - **Attaque** corne (2d6)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
-- **Particularités** [charge puissante](./Charge puissante.md).
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
+- **Particularités** [[charge puissante]].
 
 </div>
 
@@ -540,15 +540,15 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** 9 m (6 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +4
 - **Attaque** morsure (1d8)
-- **Caractéristiques** [For](./Force.md) 14, [Dex](./Dextérité.md) 16, [Con](./Constitution.md) 10, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 15, [Cha](./Charisme.md) 10
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 14, [[Dextérité|Dex]] 16, [[Constitution|Con]] 10, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 15, [[Charisme|Cha]] 10
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
 - **Attaque** morsure (2d6)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
-- **Particularités** [étreinte](./Étreinte.md), morsure puissante.
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
+- **Particularités** [[étreinte]], morsure puissante.
 
 </div>
 
@@ -563,15 +563,15 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** 12 m (8 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +4
 - **Attaque** défenses (1d8), coup (1d6)
-- **Caractéristiques** [For](./Force.md) 14, [Dex](./Dextérité.md) 14, [Con](./Constitution.md) 13, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 13, [Cha](./Charisme.md) 7
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 14, [[Dextérité|Dex]] 14, [[Constitution|Con]] 13, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 13, [[Charisme|Cha]] 7
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
 - **Attaque** défenses (2d6), coup (1d8)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
-- **Particularités** [Piétinement](./Piétinement.md) (2d6).
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
+- **Particularités** [[Piétinement]] (2d6).
 
 </div>
 
@@ -586,16 +586,16 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse de déplacement** 12 m (8 cases)
 - **CA** +1 d’armure naturelle
 - **Attaque** morsure (1d6), 2 griffes (1d4)
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 13, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 15, [Cha](./Charisme.md) 10
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 17, [[Constitution|Con]] 13, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 15, [[Charisme|Cha]] 10
 - **Attaque spéciale** pattes arrière (1d4)
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Particularités** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** +2 d’armure naturelle
 - **Attaque** morsure (1d8), 2 griffes (1d6)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
-- **Attaques spéciales** [bond](./Bond.md), [étreinte](./Étreinte.md), [pattes arrière](./Pattes arrière.md) (1d6)
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
+- **Attaques spéciales** [[bond]], [[étreinte]], [[pattes arrière]] (1d6)
 
 </div>
 
@@ -608,15 +608,15 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Taille** P
 - **Vitesse de déplacement** 15 m (10 cases)
 - **CA** +1 d’armure naturelle
-- **Attaque** morsure (1d4 plus [Croc-en-jambe (Ext)](./Croc-en-jambe (capacité).md)), 2 griffes (1d2)
-- **Caractéristiques** [For](./Force.md) 12, [Dex](./Dextérité.md) 21, [Con](./Constitution.md) 13, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 6
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Attaque** morsure (1d4 plus [[Croc-en-jambe (capacité)|Croc-en-jambe (Ext)]]), 2 griffes (1d2)
+- **Caractéristiques** [[Force|For]] 12, [[Dextérité|Dex]] 21, [[Constitution|Con]] 13, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 6
+- **Particularités** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 4)))
 - **Taille** M
-- **Attaque** morsure (1d6 plus [Croc-en-jambe (Ext)](./Croc-en-jambe (capacité).md)), 2 griffes (1d3)
-- **Caractéristiques** [For](./Force.md) +4, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +2
-- **Particularité** [sprint](./Guépard.md)
+- **Attaque** morsure (1d6 plus [[Croc-en-jambe (capacité)|Croc-en-jambe (Ext)]]), 2 griffes (1d3)
+- **Caractéristiques** [[Force|For]] +4, [[Dextérité|Dex]] -2, [[Constitution|Con]] +2
+- **Particularité** [[Guépard|sprint]]
 
 </div>
 
@@ -631,14 +631,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse de déplacement** 9 m (6 cases), escalade 9 m (6 cases)
 - **CA** +1 d’armure naturelle
 - **Attaque** morsure (1d4), 2 griffes (1d4)
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 10, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 7
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 17, [[Constitution|Con]] 10, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 7
+- **Particularités** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 4)))
 - **Taille** G
 - **CA** +2 d’armure naturelle
 - **Attaque** morsure (1d6), 2 griffes (1d6)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
 
 </div>
 
@@ -653,19 +653,19 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** 9 m (6 <abbr title="cases">c</abbr>), nage 9 m (6 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +1
 - **Attaque** morsure (1d6)
-- **Caractéristiques** [For](./Force.md) 15, [Dex](./Dextérité.md) 13, [Con](./Constitution.md) 16, [Int](./Intelligence.md) 1, [Sag](./Sagesse.md) 9, [Cha](./Charisme.md) 6
-- **Particularités** [attirer](./Attirer.md), langue, [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 15, [[Dextérité|Dex]] 13, [[Constitution|Con]] 16, [[Intelligence|Int]] 1, [[Sagesse|Sag]] 9, [[Charisme|Cha]] 6
+- **Particularités** [[attirer]], langue, [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 4)))
-- **Caractéristiques** [For](./Force.md) +1, [Dex](./Dextérité.md) +2
-- **Particularités** [engloutissement](./Engloutissement.md).
+- **Caractéristiques** [[Force|For]] +1, [[Dextérité|Dex]] +2
+- **Particularités** [[engloutissement]].
 
 </div>
 
 <div class="BD">
 {s:Reference|Grenouille goliath}
 {s:BDTitre|Grenouille goliath|}
-- *Source : Bestiaire 5 p.145 ; voir le [profil du monstre](./Grenouille goliath.md)*
+- *Source : Bestiaire 5 p.145 ; voir le [[Grenouille goliath|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -673,11 +673,11 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **CA** armure naturelle +1
 - **Attaque** morsure (1d6)
 - **Caractéristiques** For 15, Dex 13, Con 16, Int 1, Sag 9, Cha 6
-- **Particularités** [attirer](./Attirer.md), langue, [odorat](./odorat.md), [vision nocturne](./vision nocturne.md), [Respiration aquatique](./Respiration aquatique (capacité).md).
+- **Particularités** [[attirer]], langue, [[odorat]], [[vision nocturne]], [[respiration aquatique (capacité)|Respiration aquatique]].
 
 (((Développement au niveau 4)))
 **Caractéristiques** For +1, Dex +2
-- **Particularités** [engloutissement](./Engloutissement.md).
+- **Particularités** [[engloutissement]].
 
 </div>
 
@@ -691,14 +691,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Taille** P
 - **Vitesse** 15 m (10 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +2
-- **Attaque** morsure (1d4 et [croc-en-jambe](./Croc-en-jambe (capacité).md))
-- **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 13, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 13, [Cha](./Charisme.md) 6
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Attaque** morsure (1d4 et [[Croc-en-jambe (capacité)|croc-en-jambe]])
+- **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 17, [[Constitution|Con]] 13, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 13, [[Charisme|Cha]] 6
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 4)))
 - **Taille** M
-- **Attaque** morsure (1d6 et [croc-en-jambe](./Croc-en-jambe (capacité).md))
-- **Caractéristiques** [For](./Force.md) +4, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +2.
+- **Attaque** morsure (1d6 et [[Croc-en-jambe (capacité)|croc-en-jambe]])
+- **Caractéristiques** [[Force|For]] +4, [[Dextérité|Dex]] -2, [[Constitution|Con]] +2.
 
 </div>
 </td><td width="2%">
@@ -706,7 +706,7 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 <div class="BD">
 {s:Reference|Kaprosuchus}
 {s:BDTitre|Kaprosuchus|}
-- *Source : Bestiaire 5 p.180 ; voir le [profil du monstre](./Kaprosuchus.md)*
+- *Source : Bestiaire 5 p.180 ; voir le [[Kaprosuchus|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -714,7 +714,7 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **CA** armure naturelle +3
 - **Attaque** morsure (1d6), queue (1d6)
 - **Caractéristiques** For 15, Dex 14, Con 15, Int 1, Sag 14, Cha 2
-- **Particularités** [Vision nocturne](./Vision nocturne (capacité).md)
+- **Particularités** [[Vision nocturne (capacité)|Vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** G
@@ -735,22 +735,22 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Taille** M
 - **Vitesse de déplacement** 15 m (10 cases)
 - **CA** +2 d’armure naturelle
-- **Attaque** morsure (1d6 plus [croc-en-jambe](./Croc-en-jambe (capacité).md))
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 15, [Con](./Constitution.md) 15, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 6
-- **Particularité** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Attaque** morsure (1d6 plus [[Croc-en-jambe (capacité)|croc-en-jambe]])
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 15, [[Constitution|Con]] 15, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 6
+- **Particularité** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** +2 d’armure naturelle
-- **Attaque** morsure (1d8 plus [croc-en-jambe](./Croc-en-jambe (capacité).md))
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
+- **Attaque** morsure (1d8 plus [[Croc-en-jambe (capacité)|croc-en-jambe]])
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
 
 </div>
 
 <div class="BD">
 {s:Reference|Mégaprimate}
 {s:BDTitre|Mégaprimate|}
-- *Source : Bestiaire 5 p.246 ; voir le [profil du monstre](./Mégaprimate.md)*
+- *Source : Bestiaire 5 p.246 ; voir le [[Mégaprimate|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -758,7 +758,7 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **CA** armure naturelle +1
 - **Attaque** morsure (1d4), 2 griffes (1d4)
 - **Caractéristiques** For 13, Dex 17, Con 10, Int 2, Sag 12, Cha 7
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 4)))
 - **Taille** G
@@ -771,7 +771,7 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 <div class="BD">
 {s:Reference|Moa}
 {s:BDTitre|Moa|}
-- *Source : Bestiaire 5 p.181 ; voir le [profil du monstre](./Moa.md)*
+- *Source : Bestiaire 5 p.181 ; voir le [[Moa|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -779,7 +779,7 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **CA** armure naturelle +1
 - **Attaque** 2 serres (1d3)
 - **Caractéristiques** For 13, Dex 16, Con 12, Int 2, Sag 11, Cha 9
-- **Particularités** [Vision nocturne](./Vision nocturne (capacité).md)
+- **Particularités** [[Vision nocturne (capacité)|Vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** G
@@ -800,14 +800,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **CA** armure naturelle +5
 - **Vitesse** nage 9 m (6 <abbr title="cases">c</abbr>)
 - **Attaque** morsure (1d8)
-- **Caractéristiques** [For](./Force.md) 14, [Dex](./Dextérité.md) 16, [Con](./Constitution.md) 12, [Int](./Intelligence.md) 1, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 8
-- **Particularités** [étreinte](./Étreinte.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 14, [[Dextérité|Dex]] 16, [[Constitution|Con]] 12, [[Intelligence|Int]] 1, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 8
+- **Particularités** [[étreinte]], [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
 - **Attaque** morsure (2d6)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
 - **Particularités** double morsure.
 
 </div>
@@ -815,7 +815,7 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 <div class="BD">
 {s:Reference|Narval}
 {s:BDTitre|Narval|}
-- *Source : Bestiaire 5 p.43 ; voir le [profil du monstre](./Narval.md)*
+- *Source : Bestiaire 5 p.43 ; voir le [[Narval|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -823,21 +823,21 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **CA** armure naturelle +1
 - **Attaque** morsure (1d6)
 - **Caractéristiques** For 11, Dex 19, Con 10, Int 2, Sag 14, Cha 6
-- **Particularités** [Retenir son souffle](./Retenir son souffle (capacité).md), [Vision nocturne](./Vision nocturne (capacité).md)
+- **Particularités** [[Retenir son souffle (capacité)|Retenir son souffle]], [[Vision nocturne (capacité)|Vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +2
 - **Attaque** morsure (1d8)
 - **Caractéristiques** For +8, Dex -2, Con +4
-- **Particularités** [Vision aveugle](./Vision aveugle (capacité).md) 36 m, défense
+- **Particularités** [[Vision aveugle (capacité)|Vision aveugle]] 36 m, défense
 
 </div>
 
 <div class="BD">
 {s:Reference|Octopode laineux}
 {s:BDTitre|Octopode laineux|}
-- *Source : Bestiaire 5 p.196 ; voir le [profil du monstre](./Octopode laineux.md)*
+- *Source : Bestiaire 5 p.196 ; voir le [[Octopode laineux|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -845,14 +845,14 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **CA** naturelle +1
 - **Attaque** corne (1d6)
 - **Caractéristiques** For 14, Dex 16, Con 12, Int 2, Sag 11, Cha 4
-- **Particularités** [Odorat](./Odorat (capacité).md), [Vision nocturne](./Vision nocturne (capacité).md)
+- **Particularités** [[Odorat (capacité)|Odorat]], [[Vision nocturne (capacité)|Vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
 - **Attaque** corne (1d8)
 - **Caractéristiques** For +4, Dex -2, Con +4
-- **Particularités** crachat, [Piétinement](./Piétinement (capacité).md)
+- **Particularités** crachat, [[Piétinement (capacité)|Piétinement]]
 
 </div>
 
@@ -867,11 +867,11 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse de déplacement** 3 m (2 cases), vol 24 m (16 cases) (moyenne)
 - **CA** +1 d’armure naturelle
 - **Attaque** morsure (1d4), 2 serres (1d4)
-- **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 15, [Con](./Constitution.md) 12, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 14, [Cha](./Charisme.md) 6
-- **Particularité** [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 15, [[Constitution|Con]] 12, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 14, [[Charisme|Cha]] 6
+- **Particularité** [[vision nocturne]]
 
 (((Développement au niveau 4)))
-- **Caractéristiques** [For](./Force.md) +2, [Con](./Constitution.md) +2
+- **Caractéristiques** [[Force|For]] +2, [[Constitution|Con]] +2
 
 </div>
 
@@ -886,15 +886,15 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 - **Vitesse** nage 24 m (16 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +1
 - **Attaque** morsure (1d6)
-- **Caractéristiques** [For](./Force.md) 11, [Dex](./Dextérité.md) 19, [Con](./Constitution.md) 10, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 14, [Cha](./Charisme.md) 6
-- **Particularités** retenir son souffle, [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 11, [[Dextérité|Dex]] 19, [[Constitution|Con]] 10, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 14, [[Charisme|Cha]] 6
+- **Particularités** retenir son souffle, [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +2
 - **Attaque** morsure (1d8)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
-- **Particularités** [vision aveugle](./vision aveugle.md) 36 m (24 <abbr title="cases">c</abbr>).
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
+- **Particularités** [[vision aveugle]] 36 m (24 <abbr title="cases">c</abbr>).
 
 </div>
 
@@ -910,27 +910,27 @@ Les compagnons animaux diffèrent en taille initiale, vitesse, types d’attaque
 
 CA +2 d’armure naturelle
 - **Attaque** morsure (1d4), 2 griffes (1d3)
-- **Caractéristiques** [For](./Force.md) 15, [Dex](./Dextérité.md) 15, [Con](./Constitution.md) 13, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 6
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] 15, [[Dextérité|Dex]] 15, [[Constitution|Con]] 13, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 6
+- **Particularités** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 4)))
 - **Taille** M
 - **Attaque** morsure (1d6), 2 griffes (1d4)
-- **Caractéristiques** [For](./Force.md) +4, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +2
+- **Caractéristiques** [[Force|For]] +4, [[Dextérité|Dex]] -2, [[Constitution|Con]] +2
 
 </div>
 
 <div class="BD">
 {s:Reference|Ours polaire}
 {s:BDTitre|Ours polaire|}
-- *Source : Bestiaire 5 p.199 ; voir le [profil du monstre](./Ours polaire.md)*
+- *Source : Bestiaire 5 p.199 ; voir le [[Ours polaire|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** P
 - **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +2
 - **Attaque** morsure (1d4), 2 griffes (1d3)
 - **Caractéristiques** For 15, Dex 15, Con 13, Int 2, Sag 12, Cha 6
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 4)))
 - **Taille** M
@@ -942,14 +942,14 @@ CA +2 d’armure naturelle
 <div class="BD">
 {s:Reference|Ours polaire sanguinaire}
 {s:BDTitre|Ours polaire sanguinaire|}
-- *Source : Bestiaire 5 p.199 ; voir le [profil du monstre](./Ours polaire sanguinaire.md)*
+- *Source : Bestiaire 5 p.199 ; voir le [[Ours polaire sanguinaire|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** P
 - **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +2
 - **Attaque** morsure (1d4), 2 griffes (1d3)
 - **Caractéristiques** For 15, Dex 15, Con 13, Int 2, Sag 12, Cha 6
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 4)))
 - **Taille** M
@@ -961,7 +961,7 @@ CA +2 d’armure naturelle
 <div class="BD">
 {s:Reference|Père grenouille}
 {s:BDTitre|Père grenouille|}
-- *Source : Bestiaire 5 p.145 ; voir le [profil du monstre](./Père grenouille.md)*
+- *Source : Bestiaire 5 p.145 ; voir le [[Père grenouille|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -969,11 +969,11 @@ CA +2 d’armure naturelle
 - **CA** armure naturelle +1
 - **Attaque** morsure (1d6)
 - **Caractéristiques** For 15, Dex 13, Con 16, Int 1, Sag 9, Cha 6
-- **Particularités** [attirer](./Attirer.md), langue, [odorat](./odorat.md), [vision nocturne](./vision nocturne.md), [Respiration aquatique](./Respiration aquatique (capacité).md).
+- **Particularités** [[attirer]], langue, [[odorat]], [[vision nocturne]], [[respiration aquatique (capacité)|Respiration aquatique]].
 
 (((Développement au niveau 4)))
 **Caractéristiques** For +1, Dex +2
-- **Particularités** [engloutissement](./Engloutissement.md).
+- **Particularités** [[engloutissement]].
 
 </div>
 
@@ -987,20 +987,20 @@ CA +2 d’armure naturelle
 - **Taille** P
 - **Vitesse** 6 m (4 <abbr title="cases">c</abbr>), nage 9 m (6 <abbr title="cases">c</abbr>), propulsion 30 m (20 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +1
-- **Attaque** morsure (1d3), tentacules ([étreinte](./Étreinte.md))
-- **Caractéristiques** [For](./Force.md) 12, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 14, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 3
-- **Particularités** nuage d'encre, [vision nocturne](./vision nocturne.md).
+- **Attaque** morsure (1d3), tentacules ([[étreinte]])
+- **Caractéristiques** [[Force|For]] 12, [[Dextérité|Dex]] 17, [[Constitution|Con]] 14, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 3
+- **Particularités** nuage d'encre, [[vision nocturne]].
 
 (((Évolution au niveau 4)))
 - **Attaque** morsure (1d3 plus poison)
-- **Caractéristiques** [For](./Force.md) +2, [Con](./Constitution.md) +2.
+- **Caractéristiques** [[Force|For]] +2, [[Constitution|Con]] +2.
 
 </div>
 
 <div class="BD">
 {s:Reference|Plésiosaure}
 {s:BDTitre|Plésiosaure|}
-- *Source : Bestiaire 5 p.86 ; voir le [profil du monstre](./Plésiosaure.md)*
+- *Source : Bestiaire 5 p.86 ; voir le [[Plésiosaure|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -1008,14 +1008,14 @@ CA +2 d’armure naturelle
 - **CA** armure naturelle +1
 - **Attaque** morsure (1d8)
 - **Caractéristiques** For 12, Dex 15, Con 12, Int 2, Sag 15, Cha 9
-- **Particularités** [Odorat](./Odorat (capacité).md), [Odorat](./Odorat (capacité).md) surdéveloppé, [Vision nocturne](./Vision nocturne (capacité).md)
+- **Particularités** [[Odorat (capacité)|Odorat]], [[Odorat (capacité)|Odorat]] surdéveloppé, [[Vision nocturne (capacité)|Vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
 - **Attaque** morsure (2d6)
 - **Caractéristiques** For +8, Dex -2, Con +4
-- **Particularités** attaque en embuscade +1d6, [Saignement](./Saignement (capacité).md) (1)
+- **Particularités** attaque en embuscade +1d6, [[Saignement (capacité)|Saignement]] (1)
 
 </div>
 
@@ -1031,19 +1031,19 @@ CA +2 d’armure naturelle
 
 CA +2 d’armure naturelle
 - **Attaque** 2 sabots (1d3)
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 13, [Con](./Constitution.md) 12, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 11, [Cha](./Charisme.md) 4
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 13, [[Constitution|Con]] 12, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 11, [[Charisme|Cha]] 4
+- **Particularités** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 4)))
-- **Caractéristiques** [For](./Force.md) +2, [Con](./Constitution.md) +2
-- **Particularité** [entraîné au combat](./entraîné au combat.md)
+- **Caractéristiques** [[Force|For]] +2, [[Constitution|Con]] +2
+- **Particularité** [[entraîné au combat]]
 
 </div>
 
 <div class="BD">
 {s:Reference|Pumassue}
 {s:BDTitre|Pumassue|}
-- *Source : Bestiaire 5 p.213 ; voir le [profil du monstre](./Pumassue.md)*
+- *Source : Bestiaire 5 p.213 ; voir le [[Pumassue|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** P
@@ -1051,7 +1051,7 @@ CA +2 d’armure naturelle
 - **CA** armure naturelle +1
 - **Attaque** morsure (1d4), 2 griffes (1d2), queue (1d2)
 - **Caractéristiques** For 10, Dex 21, Con 13, Int 2, Sag 12, Cha 6
-- **Particularités** boule caudale, [Odorat](./Odorat (capacité).md), [Vision nocturne](./Vision nocturne (capacité).md)
+- **Particularités** boule caudale, [[Odorat (capacité)|Odorat]], [[Vision nocturne (capacité)|Vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** M
@@ -1070,13 +1070,13 @@ CA +2 d’armure naturelle
 
 - **CA** armure naturelle +1
 - **Attaque** morsure (1d6)
-- **Caractéristiques** [For](./Force.md) 11, [Dex](./Dextérité.md) 14, [Con](./Constitution.md) 13, [Int](./Intelligence.md) 1, [Sag](./Sagesse.md) 10, [Cha](./Charisme.md) 4
-- **DMD** ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Particularités** [perception aveugle](./Perception aveugle (capacité).md) (18 m)
+- **Caractéristiques** [[Force|For]] 11, [[Dextérité|Dex]] 14, [[Constitution|Con]] 13, [[Intelligence|Int]] 1, [[Sagesse|Sag]] 10, [[Charisme|Cha]] 4
+- **DMD** ([[croc-en-jambe]] impossible)
+- **Particularités** [[perception aveugle (capacité)|perception aveugle]] (18 m)
 
 (((Développement au niveau 4)))
-- **Caractéristiques** [For](./Force.md) +2, [Con](./Constitution.md) +2
-- **Particularités** [entraîné au combat](./entraîné au combat.md)
+- **Caractéristiques** [[Force|For]] +2, [[Constitution|Con]] +2
+- **Particularités** [[entraîné au combat]]
 
 </div>
 
@@ -1090,11 +1090,11 @@ CA +2 d’armure naturelle
 - **Taille** P
 - **Vitesse** 12 m (8 <abbr title="cases">c</abbr>), escalade 6 m (4 <abbr title="cases">c</abbr>), nage 6 m (4 <abbr title="cases">c</abbr>)
 - **Attaque** morsure (1d4)
-- **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 12, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 4
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 17, [[Constitution|Con]] 12, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 4
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 **Évolution au niveau 4. Attaque** morsure (1d4 plus maladie)
-- **Caractéristiques** [For](./Force.md) +2, [Con](./Constitution.md) +2.
+- **Caractéristiques** [[Force|For]] +2, [[Constitution|Con]] +2.
 
 </div>
 
@@ -1109,14 +1109,14 @@ CA +2 d’armure naturelle
 - **Vitesse de déplacement** nage 18 m (12 cases)
 - **CA** +4 d’armure naturelle
 - **Attaque** morsure (1d4)
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 15, [Con](./Constitution.md) 15, [Int](./Intelligence.md) 1, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 2
-- **Particularité** [odorat](./odorat.md)
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 15, [[Constitution|Con]] 15, [[Intelligence|Int]] 1, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 2
+- **Particularité** [[odorat]]
 
 (((Développement au niveau 4)))
 - **Taille** M
 - **Attaque** morsure (1d6)
-- **Caractéristiques** [For](./Force.md) +4, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +2
-- **Particularité** [perception aveugle](./perception aveugle.md), [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] +4, [[Dextérité|Dex]] -2, [[Constitution|Con]] +2
+- **Particularité** [[perception aveugle]], [[vision nocturne]]
 
 </div>
 
@@ -1131,15 +1131,15 @@ CA +2 d’armure naturelle
 - **Vitesse** 12 m (9 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +4
 - **Attaque** corne (1d8)
-- **Caractéristiques** [For](./Force.md) 14, [Dex](./Dextérité.md) 14, [Con](./Constitution.md) 15, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 13, [Cha](./Charisme.md) 5
-- **Particularités** [odorat](./odorat.md).
+- **Caractéristiques** [[Force|For]] 14, [[Dextérité|Dex]] 14, [[Constitution|Con]] 15, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 13, [[Charisme|Cha]] 5
+- **Particularités** [[odorat]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
 - **Attaque** corne (2d6)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
-- **Particularités** [charge puissante](./Charge puissante.md).
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
+- **Particularités** [[charge puissante]].
 
 </div>
 
@@ -1154,14 +1154,14 @@ CA +2 d’armure naturelle
 - **Vitesse** 6 m (4 <abbr title="cases">c</abbr>), vol 24 m (16 <abbr title="cases">c</abbr>) (moyenne)
 - **CA** armure naturelle +5
 - **Attaque** 2 serres (1d4), morsure (1d6)
-- **Caractéristiques** [For](./Force.md) 12, [Dex](./Dextérité.md) 19, [Con](./Constitution.md) 9, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 13, [Cha](./Charisme.md) 11
-- **Particularités** [vision nocturne](./vision nocturne.md).
+- **Caractéristiques** [[Force|For]] 12, [[Dextérité|Dex]] 19, [[Constitution|Con]] 9, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 13, [[Charisme|Cha]] 11
+- **Particularités** [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
-- **Attaque** 2 serres (1d6) et [étreinte](./Étreinte.md), morsure (1d8)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4.
+- **Attaque** 2 serres (1d6) et [[étreinte]], morsure (1d8)
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4.
 
 </div>
 
@@ -1175,12 +1175,12 @@ CA +2 d’armure naturelle
 
 - **CA** armure naturelle +2
 - **Attaque** morsure (1d6)
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 12, [Con](./Constitution.md) 13, [Int](./Intelligence.md) 1, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 4
-- **Particularités** [vision dans le noir](./vision dans le noir (capacité).md) (18 m)
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 12, [[Constitution|Con]] 13, [[Intelligence|Int]] 1, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 4
+- **Particularités** [[vision dans le noir (capacité)|vision dans le noir]] (18 m)
 
 (((Développement au niveau 4)))
-- **Caractéristiques** [For](./Force.md) +2, [Con](./Constitution.md) +2
-- **Particularités** [entraîné au combat](./entraîné au combat.md)
+- **Caractéristiques** [[Force|For]] +2, [[Constitution|Con]] +2
+- **Particularités** [[entraîné au combat]]
 
 </div>
 
@@ -1195,14 +1195,14 @@ CA +2 d’armure naturelle
 - **Vitesse de déplacement** 12 m (8 cases)
 - **CA** +6 d’armure naturelle
 - **Attaque** défenses (1d6)
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 12, [Con](./Constitution.md) 15, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 13, [Cha](./Charisme.md) 4
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 12, [[Constitution|Con]] 15, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 13, [[Charisme|Cha]] 4
+- **Particularités** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 4)))
 - **Taille** M
 - **Attaque** défenses (1d8)
-- **Caractéristiques** [For](./Force.md) +4, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +2
-- **Attaque spéciale** [férocité](./Férocité.md)
+- **Caractéristiques** [[Force|For]] +4, [[Dextérité|Dex]] -2, [[Constitution|Con]] +2
+- **Attaque spéciale** [[férocité]]
 
 </div>
 
@@ -1217,16 +1217,16 @@ CA +2 d’armure naturelle
 - **Vitesse de déplacement** 6 m (4 cases), escalade 6 m (4 cases), nage 6 m (4 cases)
 - **CA** +2 d’armure naturelle
 - **Attaque** morsure (1d3)
-- **Caractéristiques** [For](./Force.md) 15, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 13, [Int](./Intelligence.md) 1, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 2
-- **Attaque spéciale** [étreinte](./Étreinte.md)
-- **Particularité** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] 15, [[Dextérité|Dex]] 17, [[Constitution|Con]] 13, [[Intelligence|Int]] 1, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 2
+- **Attaque spéciale** [[étreinte]]
+- **Particularité** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 4)))
 - **Taille** G
 - **CA** +1 d’armure naturelle
 - **Attaque** morsure (1d4)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +4
-- **Attaque spéciale** [constriction](./constriction.md) 1d4
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] -2, [[Constitution|Con]] +4
+- **Attaque spéciale** [[constriction]] 1d4
 
 </div>
 
@@ -1241,21 +1241,21 @@ CA +2 d’armure naturelle
 - **Vitesse de déplacement** 6 m (4 cases), escalade 6 m (4 cases), nage 6 m (4 cases)
 - **CA** +2 d’armure naturelle
 - **Attaque** morsure (1d3 plus poison)
-- **Caractéristiques** [For](./Force.md) 8, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 11, [Int](./Intelligence.md) 1, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 2
-- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (6), <i>Effet</i> affaiblissement temporaire 1 [Con](./Constitution.md), <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [Constitution](./Constitution.md))
-- **Particularité** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Caractéristiques** [[Force|For]] 8, [[Dextérité|Dex]] 17, [[Constitution|Con]] 11, [[Intelligence|Int]] 1, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 2
+- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (6), <i>Effet</i> affaiblissement temporaire 1 [[Constitution|Con]], <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [[Constitution]])
+- **Particularité** [[odorat]], [[vision nocturne]]
 
 (((Développement au niveau 4)))
 - **Taille** M
 - **Attaque** morsure (1d4 plus poison)
-- **Caractéristiques** [For](./Force.md) +4, [Dex](./Dextérité.md) -2, [Con](./Constitution.md) +2
+- **Caractéristiques** [[Force|For]] +4, [[Dextérité|Dex]] -2, [[Constitution|Con]] +2
 
 </div>
 
 <div class="BD">
 {s:Reference|Thérizinosaure}
 {s:BDTitre|Thérizinosaure|}
-- *Source : Bestiaire 5 p.87 ; voir le [profil du monstre](./Thérizinosaure.md)*
+- *Source : Bestiaire 5 p.87 ; voir le [[Thérizinosaure|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -1263,28 +1263,28 @@ CA +2 d’armure naturelle
 - **CA** armure naturelle +4
 - **Attaque** 2 griffes (1d6)
 - **Caractéristiques** For 12, Dex 18, Con 10, Int 2, Sag 15, Cha 11
-- **Particularités** [Odorat](./Odorat (capacité).md), sprint, [Vision nocturne](./Vision nocturne (capacité).md)
+- **Particularités** [[Odorat (capacité)|Odorat]], sprint, [[Vision nocturne (capacité)|Vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
 - **Attaque** 2 griffes (1d8)
 - **Caractéristiques** For +8, Dex -2, Con +4
-- **Particularités** [Saignement](./Saignement (capacité).md) (1d6), frappe circulaire
+- **Particularités** [[Saignement (capacité)|Saignement]] (1d6), frappe circulaire
 
 </div>
 
 <div class="BD">
 {s:Reference|Troodon}
 {s:BDTitre|Troodon|}
-- *Source : Bestiaire 5 p.87 ; voir le [profil du monstre](./Troodon.md)*
+- *Source : Bestiaire 5 p.87 ; voir le [[Troodon|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** P
 - **Vitesse** 12 m
 - **Attaque** morsure (1d4), 2 griffes (1d3)
 - **Caractéristiques** For 7, Dex 17, Con 10, Int 2, Sag 14, Cha 13
-- **Particularités** facile à dresser, [Odorat](./Odorat (capacité).md), [Vision nocturne](./Vision nocturne (capacité).md)
+- **Particularités** facile à dresser, [[Odorat (capacité)|Odorat]], [[Vision nocturne (capacité)|Vision nocturne]]
 
 (((Développement au niveau 7)))
 - **Taille** M
@@ -1297,7 +1297,7 @@ CA +2 d’armure naturelle
 <div class="BD">
 {s:Reference|Uintathérium}
 {s:BDTitre|Uintathérium|}
-- *Source : Bestiaire 5 p.181 ; voir le [profil du monstre](./Uintathérium.md)*
+- *Source : Bestiaire 5 p.181 ; voir le [[Uintathérium|profil du monstre]]*
 
 (((Caractéristiques de départ)))
 - **Taille** M
@@ -1305,7 +1305,7 @@ CA +2 d’armure naturelle
 - **CA** naturelle +4
 - **Attaque** morsure (1d8)
 - **Caractéristiques** For 14, Dex 12, Con 17, Int 1, Sag 13, Cha 3
-- **Particularités** [Odorat](./Odorat (capacité).md)
+- **Particularités** [[Odorat (capacité)|Odorat]]
 
 (((Développement au niveau 7)))
 - **Taille** G
@@ -1326,15 +1326,15 @@ CA +2 d’armure naturelle
 - **Vitesse** 9 m, nage 9 m
 - **CA** armure naturelle +1 ;
 
-**Attaque** morsure (1d6 et [étreinte](./Étreinte.md))
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 12, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 6
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Attaque** morsure (1d6 et [[étreinte]])
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 17, [[Constitution|Con]] 12, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 6
+- **Particularités** [[odorat]], [[vision nocturne]].
 
 (((Développement au niveau 7)))
 - **Taille** M
 - **CA** armure naturelle +2
-- **Attaque** morsure (1d8 et [étreinte](./Étreinte.md) et [poison](./poison.md))
-- **Caractéristiques** [For](./Force.md) +4, [Dex](./Dextérité.md) –2, [Con](./Constitution.md) +4.
+- **Attaque** morsure (1d8 et [[étreinte]] et [[poison]])
+- **Caractéristiques** [[Force|For]] +4, [[Dextérité|Dex]] –2, [[Constitution|Con]] +4.
 
 </div>
 
@@ -1350,14 +1350,14 @@ CA +2 d’armure naturelle
 - **CA** armure naturelle +2 ;
 
 **Attaque** morsure (1d8)
-- **Caractéristiques** [For](./Force.md) 12, [Dex](./Dextérité.md) 15, [Con](./Constitution.md) 14, [Int](./Intelligence.md) 2, [Sag](./Sagesse.md) 15, [Cha](./Charisme.md) 7
-- **Particularités** [vision nocturne](./vision nocturne.md), +4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les maladies.
+- **Caractéristiques** [[Force|For]] 12, [[Dextérité|Dex]] 15, [[Constitution|Con]] 14, [[Intelligence|Int]] 2, [[Sagesse|Sag]] 15, [[Charisme|Cha]] 7
+- **Particularités** [[vision nocturne]], +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les maladies.
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +2
 - **Attaque** morsure (2d6)
-- **Caractéristiques** [For](./Force.md) +8, [Dex](./Dextérité.md) –2, [Con](./Constitution.md) +4.
+- **Caractéristiques** [[Force|For]] +8, [[Dextérité|Dex]] –2, [[Constitution|Con]] +4.
 
 
 </div>

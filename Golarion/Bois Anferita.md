@@ -7,4 +7,4 @@ Categories:
 - Géographie
 ---
 
-Grande forêt du sud-ouest du [Chéliax](./Chéliax.md), les Bois d'Anferita recouvrent la presque totalité de la péninsule de Corentyn.
+Grande forêt du sud-ouest du [[Chéliax]], les Bois d'Anferita recouvrent la presque totalité de la péninsule de Corentyn.

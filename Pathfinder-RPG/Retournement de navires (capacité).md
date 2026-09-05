@@ -7,6 +7,6 @@ Categories:
 - Src Bestiaire 3
 ---
 
-Une créature possédant ce pouvoir spécial peut tenter de retourner un navire en lui rentrant dedans avec une [charge](./charge.md) et en faisant un test de [manœuvre offensive](./Manœuvres offensives.md). Le [DD](./DD.md) de ce test est égal à 25 ou au résultat du test de [Profession](./Profession.md) (marin) du capitaine du navire (le résultat le plus élevé). La créature essayant de retourner un navire plus grand qu’elle reçoit, à son test de manœuvre offensive, un malus de -10 cumulatif par catégorie de [taille](./taille.md) supérieure du navire.
+Une créature possédant ce pouvoir spécial peut tenter de retourner un navire en lui rentrant dedans avec une [[charge]] et en faisant un test de [[manœuvres offensives|manœuvre offensive]]. Le [[DD]] de ce test est égal à 25 ou au résultat du test de [[Profession]] (marin) du capitaine du navire (le résultat le plus élevé). La créature essayant de retourner un navire plus grand qu’elle reçoit, à son test de manœuvre offensive, un malus de -10 cumulatif par catégorie de [[taille]] supérieure du navire.
 
 *Format :* retournement de navires ; *Emplacement :* Attaques spéciales

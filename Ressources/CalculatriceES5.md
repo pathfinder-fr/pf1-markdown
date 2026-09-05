@@ -583,8 +583,8 @@ iraces++;
 var sel = document.getElementById("race");
 
 for (var i = 0 ; i < races.length ; i++) {
-$("#race").append("<option value=\"" + i + "\">" + races[i].nom + "</option>");
-//arrayset(sel.options, i, new Option (races[i].nom, "" + i));
+$("#race").append("<option value=\"" + i + "\">" + races[[i]].nom + "</option>");
+//arrayset(sel.options, i, new Option (races[[i]].nom, "" + i));
 }
 }
 

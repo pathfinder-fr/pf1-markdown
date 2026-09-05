@@ -7,4 +7,4 @@ Categories:
 - Géographie
 ---
 
-Petite rivière du nord du [Chéliax](./Chéliax.md), la Jeni est un affluent du [Tomarsulk](./Tomarsulk.md).
+Petite rivière du nord du [[Chéliax]], la Jeni est un affluent du [[Tomarsulk]].

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Trousses doutils et de compétences#Sacoche à composantes
 ---
 
->>> [Trousses doutils et de compétences#Sacoche à composantes](./Trousses doutils et de compétences.md#Sacoche à composantes)
+>>> [[Trousses doutils et de compétences#Sacoche à composantes]]

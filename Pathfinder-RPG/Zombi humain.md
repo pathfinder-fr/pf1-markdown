@@ -13,21 +13,21 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.289}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, NM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, NM}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 12, contact 10, pris au dépourvu 12 (naturelle +2)}
 {s:BDTexte|**pv** 12 (2d8+3)}
 {s:BDTexte|**Réf** +0, **Vig** +0, **Vol** +3}
-{s:BDTexte|**Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) ; **RD** 5/tranchant }
+{s:BDTexte|**Immunités** [[traits des morts-vivants]] ; **RD** 5/tranchant }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** coup +4 (1d6+4)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 10, **Con** -, **Int** -, **Sag** 10, **Cha** 10}
 {s:BDTexte|**BBA** +1, **BMO** +4, **DMD** 14}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md)<sup>B</sup>}
-{s:BDTexte|**Particularités** [Chancelant (Ext)](./Chancelant (Ext).md)}
+{s:BDTexte|**Dons** [[Robustesse]]<sup>B</sup>}
+{s:BDTexte|**Particularités** [[Chancelant (Ext)]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
 {s:BDTexte|**Organisation sociale** quelconque}
@@ -40,13 +40,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Seigneur zombi](./seigneur zombi.md) || 3
+| [[Seigneur zombi]] || 3
 |-
-| [Zombi humain](./Zombi humain.md) || 1/2
+| [[Zombi humain]] || 1/2
 |-
-| [Zombi juju humain](./Zombi juju humain.md) || 2
+| [[Zombi juju humain]] || 2
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Zombi](./Zombi, archétype.md).***</li></ul>''Ce cadavre avance d’un pas chancelant, les bras tendus en avant, ne portant
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Zombi, archétype|Zombi]].***</li></ul>''Ce cadavre avance d’un pas chancelant, les bras tendus en avant, ne portant
 que quelques haillons sales sur sa chair en décomposition.''
 
 Les zombis sont des cadavres animés qu’on a contraints à une vile

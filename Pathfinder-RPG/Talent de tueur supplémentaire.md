@@ -10,8 +10,8 @@ Categories:
 
 {s:mca} *Grâce à une longue pratique, le personnage a appris un talent spécial.*
 
-**Conditions.** Pouvoir de classe [talent de tueur](./Tueur.md#TALENTDETUEUR).
+**Conditions.** Pouvoir de classe [[tueur#TALENTDETUEUR|talent de tueur]].
 
-**Avantage.** Le personnage gagne un [talent de tueur](./Tueur.md#TALENTDETUEUR) supplémentaire. Il doit remplir les conditions requises pour ce talent.
+**Avantage.** Le personnage gagne un [[tueur#TALENTDETUEUR|talent de tueur]] supplémentaire. Il doit remplir les conditions requises pour ce talent.
 
-**Spécial.** Le personnage peut prendre ce don plusieurs fois, gagnant à chaque fois un nouveau [talent de tueur](./Tueur.md#TALENTDETUEUR).
+**Spécial.** Le personnage peut prendre ce don plusieurs fois, gagnant à chaque fois un nouveau [[tueur#TALENTDETUEUR|talent de tueur]].

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#RESILIENCE
 ---
 
->>> [Talents#RESILIENCE](./Talents.md#RESILIENCE)
+>>> [[Talents#RESILIENCE]]

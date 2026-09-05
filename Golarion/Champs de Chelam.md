@@ -7,6 +7,6 @@ Categories:
 - Géographie
 ---
 
-Les Champs de Chelam constituent le grenier à grain du [Chéliax](./Chéliax.md). Cette vaste plaine s'étirant du nord au sud du territoire entre le cours du [Tomarsulk](./Tomarsulk.md) et le [Bois du Murmure](./Bois du Murmure.md) alimente en effet la presque totalité des villes du pays.
+Les Champs de Chelam constituent le grenier à grain du [[Chéliax]]. Cette vaste plaine s'étirant du nord au sud du territoire entre le cours du [[Tomarsulk]] et le [[Bois du Murmure]] alimente en effet la presque totalité des villes du pays.
 
-C'est dans cette région que se situent la majeure partie des grandes propriétés terriennes des nobles (qu'ils soient de nouvelle ou d'ancienne noblesse) d'[Egorian](./Egorian.md) et de [Couronne-Ouest](./Couronne-Ouest.md).
+C'est dans cette région que se situent la majeure partie des grandes propriétés terriennes des nobles (qu'ils soient de nouvelle ou d'ancienne noblesse) d'[[Egorian]] et de [[Couronne-Ouest]].

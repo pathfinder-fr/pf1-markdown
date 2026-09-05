@@ -14,29 +14,29 @@ Categories:
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.194}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Plante](./type Plante.md) de taille G, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision aveugle](./vision aveugle.md) 9 m (6 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Plante|Plante]] de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision aveugle]] 9 m (6 {s:c}), [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 9, pris au dépourvu 15 (naturelle +6, taille -1)}
 {s:BDTexte|**pv** 30 (4d8+12)}
 {s:BDTexte|**Réf** +1, **Vig** +7, **Vol** +2}
-{s:BDTexte|**Immunités** électricité, [traits des plantes](./Traits des plantes.md) ; **Résistances** feu 10, froid 10 }
+{s:BDTexte|**Immunités** électricité, [[traits des plantes]] ; **Résistances** feu 10, froid 10 }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 1,50 m (1 {s:c})}
-{s:BDTexte|**Corps à corps** coup, +7 (1d8+7 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** coup, +7 (1d8+7 et [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (1d8+7), enchevêtrement}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (1d8+7), enchevêtrement}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 10, **Con** 16, **Int** -, **Sag** 13, **Cha** 9}
-{s:BDTexte|**BBA** +3, **BMO** +9 (+13 [lutte](./lutte.md)), **DMD** 19 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
+{s:BDTexte|**BBA** +3, **BMO** +9 (+13 [[lutte]]), **DMD** 19 ([[croc-en-jambe]] impossible)}
 {s:BDTexte|**Particularités** camouflage}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou plant (3-6)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Camouflage (Ext).** Comme une liane meurtrière au repos ressemble à une plante normale, il faut réussir un test de [Perception](./Perception.md) contre un [DD](./DD.md) de 20 pour la repérer avant qu'elle ne passe à l'attaque. Ceux qui possèdent une formation (au moins un rang) en [Survie](./Survie.md) ou en [Connaissances](./Connaissances.md) (nature) peuvent utiliser une de ces compétences au lieu de celle de [Perception](./Perception.md) pour repérer la liane.}
-{s:BDTexte|**Enchevêtrement (Sur).** Par une [action libre](./Action libre.md), la liane meurtrière peut animer les plantes situées dans un rayon de 9 m (6 {s:c}) et leur ordonner d'[agripper](./Agrippé.md) l'ennemi. Cette capacité est par ailleurs similaire au sort d<nowiki>'</nowiki>*[enchevêtrement](./Enchevêtrement.md)* ([NLS](./NLS.md) 4, [DD](./DD.md) 13). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Sagesse](./Sagesse.md).}
+{s:BDTexte|**Camouflage (Ext).** Comme une liane meurtrière au repos ressemble à une plante normale, il faut réussir un test de [[Perception]] contre un [[DD]] de 20 pour la repérer avant qu'elle ne passe à l'attaque. Ceux qui possèdent une formation (au moins un rang) en [[Survie]] ou en [[Connaissances]] (nature) peuvent utiliser une de ces compétences au lieu de celle de [[Perception]] pour repérer la liane.}
+{s:BDTexte|**Enchevêtrement (Sur).** Par une [[action libre]], la liane meurtrière peut animer les plantes situées dans un rayon de 9 m (6 {s:c}) et leur ordonner d'[[agrippé|agripper]] l'ennemi. Cette capacité est par ailleurs similaire au sort d<nowiki>'</nowiki>*[[enchevêtrement]]* ([[NLS]] 4, [[DD]] 13). Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Sagesse]].}
 </div>
 </td><td><div>*Cette liane aussi épaisse qu’un bras humain et garnie de feuilles semblables à des mains est agitée de soubresauts inquiétants.*
 
@@ -92,7 +92,7 @@ complicité d’un volatile insouciant.
 
 #### Le Lierre rampant comme compagnon végétal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 6 m (4 {s:c}), escalade 6 m (4 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** coup (1d4) ; **Attaque spéciale** [étreinte](./Étreinte.md) ; **Caractéristiques** For 13, Dex 17, Con 13, Int 1, Sag 12, Cha 2 ; **Particularités**  [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 6 m (4 {s:c}), escalade 6 m (4 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** coup (1d4) ; **Attaque spéciale** [[étreinte]] ; **Caractéristiques** For 13, Dex 17, Con 13, Int 1, Sag 12, Cha 2 ; **Particularités**  [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 4.** **Taille** G ; **CA** armure naturelle +1 ; **Attaque** coup (1d6) ; **Attaque spéciale** [constriction](./constriction.md) (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4.
+**Développement au niveau 4.** **Taille** G ; **CA** armure naturelle +1 ; **Attaque** coup (1d6) ; **Attaque spéciale** [[constriction]] (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4.
 </div></td></tr></table>

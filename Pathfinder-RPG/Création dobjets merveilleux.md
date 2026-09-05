@@ -9,10 +9,10 @@ Categories:
 
 *Le personnage sait fabriquer des objets merveilleux, un type d’objets magiques.*
 
-**Catégorie** : [création d'objets](./Dons.md#DONCREATION)
+**Catégorie** : [[Dons#DONCREATION|création d'objets]]
 
-**Condition.** [Niveau](./niveau.md) 3 de [lanceur de sorts](./NLS.md).
+**Condition.** [[Niveau]] 3 de [[NLS|lanceur de sorts]].
 
-**Avantage.** Le personnage peut fabriquer une grande variété d’[objets merveilleux](./Création dobjets magiques.md#OBJETSMERVEILLEUX). Le processus de fabrication prend un jour par tranche de 1000 po du prix de base de l’objet. Le personnage doit acheter les matières premières nécessaires à la moitié de leur prix de base (Voir la page sur la [création d'objets magiques](./Création dobjets magiques.md)).
+**Avantage.** Le personnage peut fabriquer une grande variété d’[[Création dobjets magiques#OBJETSMERVEILLEUX|objets merveilleux]]. Le processus de fabrication prend un jour par tranche de 1000 po du prix de base de l’objet. Le personnage doit acheter les matières premières nécessaires à la moitié de leur prix de base (Voir la page sur la [[Création dobjets magiques|création d'objets magiques]]).
 
 Le personnage peut réparer un objet s’il est capable de le fabriquer. La procédure à suivre reste la même, mais le temps passé et le coût en matières premières sont réduits de moitié.

@@ -12,26 +12,26 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Illusion](./Illusion.md) ; **Niveau** [Hyp](./Hypnotiseur.md) 3, [Méd](./Médium.md) 3, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 4, [Spi](./Spirite.md) 4  
+{s:AO}** École **[[Illusion]] ; **Niveau** [[hypnotiseur|Hyp]] 3, [[médium|Méd]] 3, [[Occultiste|Occ]] 3, [[psychiste|Psy]] 4, [[spirite|Spi]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./courte.md)  
+**Portée** [[courte|contact]]  
 
 **Cible** un objet ou une créature consentante  
 
 **Durée** 1 jour/niveau (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif, objet) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui
 
-Le personnage masque et manipule l’aura de la cible pour tromper les gens désireux d’obtenir des informations utiles via l’extension de compétence occulte de [lecture d'auras](./Extensions de compétences occultes.md#LECTUREDAURAS) ou l’analyse d’aura. Une même incantation de modification daura|modification d’aura permet de modifier chacune des quatre auras suivantes.
+Le personnage masque et manipule l’aura de la cible pour tromper les gens désireux d’obtenir des informations utiles via l’extension de compétence occulte de [[Extensions de compétences occultes#LECTUREDAURAS|lecture d'auras]] ou l’analyse d’aura. Une même incantation de modification daura|modification d’aura permet de modifier chacune des quatre auras suivantes.
 
-*Aura d’alignement.* Le personnage peut changer l’alignement visible de la cible, afin d’induire en erreur les sorts détectant l’alignement, comme *[détection du Mal](./Détection du Mal.md)*. Il peut décaler l’alignement perçu d’un cran maximum sur chaque axe mais il ne peut pas donner à sa cible un alignement diamétralement opposé à celui qu’elle possède réellement. Par exemple, il ne peut pas faire passer un personnage Loyal Mauvais pour un personnage Chaotique Bon. Il peut aussi modifier la puissance de l’aura, en plus ou en moins, d’un nombre de crans égal, au maximum, à la moitié de son niveau.
+*Aura d’alignement.* Le personnage peut changer l’alignement visible de la cible, afin d’induire en erreur les sorts détectant l’alignement, comme *[[détection du Mal]]*. Il peut décaler l’alignement perçu d’un cran maximum sur chaque axe mais il ne peut pas donner à sa cible un alignement diamétralement opposé à celui qu’elle possède réellement. Par exemple, il ne peut pas faire passer un personnage Loyal Mauvais pour un personnage Chaotique Bon. Il peut aussi modifier la puissance de l’aura, en plus ou en moins, d’un nombre de crans égal, au maximum, à la moitié de son niveau.
 
-*Aura d’émotion.* Les manipulations du personnage masquent les émotions réelles de la cible et présentent un ensemble de couleurs de son choix. Les créatures qui tentent un test de [Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md), [Intimidation](./Intimidation.md) ou [Psychologie](./Psychologie.md) contre la cible ne reçoivent pas de bonus au test dû aux informations glanées dans l’aura de la cible.
+*Aura d’émotion.* Les manipulations du personnage masquent les émotions réelles de la cible et présentent un ensemble de couleurs de son choix. Les créatures qui tentent un test de [[Bluff]], [[Diplomatie]], [[Intimidation]] ou [[Psychologie]] contre la cible ne reçoivent pas de bonus au test dû aux informations glanées dans l’aura de la cible.
 
-*Aura de santé.* Le personnage modifie l’aura de la cible pour dissimuler sa condition physique, révélant à la place des blessures, un empoisonnement, une maladie ou un état préjudiciable de son choix. Il masque également sa [réserve de points de ki](./Moine.md#RESERVEDEKI) ou autres, manipulant les chiffres pour faire croire à n’importe quel nombre normalement plausible pour sa cible.
+*Aura de santé.* Le personnage modifie l’aura de la cible pour dissimuler sa condition physique, révélant à la place des blessures, un empoisonnement, une maladie ou un état préjudiciable de son choix. Il masque également sa [[moine#RESERVEDEKI|réserve de points de ki]] ou autres, manipulant les chiffres pour faire croire à n’importe quel nombre normalement plausible pour sa cible.
 
-*Aura de magie.* Le personnage change l’aura de magie d’une créature ou d’un objet afin que la *[détection de la magie](./Détection de la magie.md)* (et les sorts similaires comme l’*[analyse d’aura](./Analyse daura.md)*) considèrent la cible comme non magique, comme un objet magique d’un type au choix du personnage ou comme la cible d’un sort de son choix. Il suffit d’une seule incantation de modification d’aura pour masquer toutes les auras magiques d’une cible. Si quelqu’un lance *[identification](./Identification.md)* sur un objet bénéficiant d’une modification d’aura ou l’examine de manière similaire, il remarque que l’aura dégagée est fausse et découvre les véritables propriétés de l’objet à condition de réussir un jet de [Volonté](./Volonté.md). Modification d’aura ne fonctionne pas sur un objet doté d’une aura surpuissante.
+*Aura de magie.* Le personnage change l’aura de magie d’une créature ou d’un objet afin que la *[[détection de la magie]]* (et les sorts similaires comme l’*[[analyse daura|analyse d’aura]]*) considèrent la cible comme non magique, comme un objet magique d’un type au choix du personnage ou comme la cible d’un sort de son choix. Il suffit d’une seule incantation de modification d’aura pour masquer toutes les auras magiques d’une cible. Si quelqu’un lance *[[identification]]* sur un objet bénéficiant d’une modification d’aura ou l’examine de manière similaire, il remarque que l’aura dégagée est fausse et découvre les véritables propriétés de l’objet à condition de réussir un jet de [[Volonté]]. Modification d’aura ne fonctionne pas sur un objet doté d’une aura surpuissante.

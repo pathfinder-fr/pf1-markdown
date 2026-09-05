@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-La cité-état de Duwwor est située dans le sud-est de la [Thuvie](./Thuvie.md), dans les contreforts de la chaîne de la [Barrière](./Barrière.md).
+La cité-état de Duwwor est située dans le sud-est de la [[Thuvie]], dans les contreforts de la chaîne de la [[Barrière]].
 
-Ses habitants sont toujours restés très proches du désert et de ses habitants, comme le prouve la présence d'un grand temple dédié à [Gozreh](./Gozreh.md). On y trouve les meilleurs guides du pays.
+Ses habitants sont toujours restés très proches du désert et de ses habitants, comme le prouve la présence d'un grand temple dédié à [[Gozreh]]. On y trouve les meilleurs guides du pays.

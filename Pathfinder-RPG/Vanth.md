@@ -10,7 +10,7 @@ LastModified: 2021-07-15 17:27
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 215*}
 - **200 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [psychopompe](./sous-type psychopompe.md)) de taille M, N
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type psychopompe|psychopompe]]) de taille M, N
 - **Init** +3 ; **Sens **vision dans le noir à 18 m, vision nocturne, perception spirituelle ; Perception +16
 - **Aura **de terreur (9 m, DD 17)
 (((Défense)))
@@ -22,13 +22,13 @@ LastModified: 2021-07-15 17:27
 - **VD **9 m, vol 15 m (moyenne)
 - **Corps à corps** faux en admantium +1, +14/+9 (2d4+7/×4) ou 2 griffes, +13 (1d6+4)
 - **Pouvoirs magiques** (NLS 10 ; concentration +13)
-  - *À volonté* – [invisibilité](./Invisibilité.md) (sur lui uniquement), [perception de la mort](./Perception de la mort.md), [téléportation suprême](./Téléportation suprême.md) (lui-même plus 25 kg d’objets seulement)
-  - *3/jour* – [localisation de créature](./Localisation de créature.md), [lumière brûlante](./Lumière brûlante.md), [malédiction](./malédiction.md) (DD 17)
+  - *À volonté* – [[invisibilité]] (sur lui uniquement), [[perception de la mort]], [[téléportation suprême]] (lui-même plus 25 kg d’objets seulement)
+  - *3/jour* – [[localisation de créature]], [[lumière brûlante]], [[malédiction]] (DD 17)
 (((Statistiques)))
 - **For **18, **Dex **16, **Con **17, **Int **13, **Sag **19, **Cha **17
 - **BBA **+9 ; **BMO **+13 ; **DMD **26
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Vol stationnaire](./Vol stationnaire.md)
-- **Compétences **[Acrobaties](./Acrobaties.md) +9, [Connaissances](./Connaissances.md) (histoire) +9, [Connaissances](./Connaissances.md) (plans) +13, [Connaissances](./Connaissances.md) (religion) +13, [Discrétion](./Discrétion.md) +15, [Intimidation](./Intimidation.md) +11, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +16, [Vol](./Vol.md) +11
+- **Dons **[[Attaque en puissance]], [[Enchaînement]], [[Frappe décisive]], [[Vigueur surhumaine]], [[Vol stationnaire]]
+- **Compétences **[[Acrobaties]] +9, [[Connaissances]] (histoire) +9, [[Connaissances]] (plans) +13, [[Connaissances]] (religion) +13, [[Discrétion]] +15, [[Intimidation]] +11, [[Perception]] +16, [[Psychologie]] +16, [[Vol]] +11
 - **Langues** abyssal, céleste, infernal
 - **Particularités** contact spectral, lame du faucheur
 (((Écologie)))
@@ -40,7 +40,7 @@ LastModified: 2021-07-15 17:27
 - **Lame du faucheur (Sur).** Chaque vanth possède une faux en adamantium particulière dont il se sert comme arme mais qui symbolise également son devoir. Lorsqu’un vanth manipule sa faux, l’arme acquiert un bonus d’altération de +1 aux jets d’attaque et de dégâts. Par une action libre, le vanth peut convoquer son arme depuis un demi-plan personnel ou tout autre emplacement approprié ; celle-ci apparaît alors instantanément dans ses mains. Il peut également renvoyer sa faux vers son  demi-plan personnel par une action libre. Si la faux du vanth est détruite, celui-ci peut en convoquer une autre au bout de 24 heures.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [psychopompes](./../Golarion/Psychopompes.md).***</li></ul>*Ce squelette humanoïde est doté d’une paire d’ailes de corbeau noires et d’une longue queue, et il porte un masque lustré de vautour à la place du visage.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Psychopompes]].***</li></ul>*Ce squelette humanoïde est doté d’une paire d’ailes de corbeau noires et d’une longue queue, et il porte un masque lustré de vautour à la place du visage.*
 
 Austères, silencieux et enveloppés de leurs ailes noires déchiquetées, les psychopompes vanths sont les gardiens stoïques du Purgatoire et les surveillants des itinéraires empruntés par les morts. Le vanth ressemble à un squelette noir doté d’ailes semblables à celles d’un corbeau et portant le masque d’un crâne de vautour.
 

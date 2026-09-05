@@ -8,9 +8,9 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Vers la [règle officielle](./Pathfinder-RPG-Caractéristiques-ashx.md#TABLEAUCARACTERISTIQUES)</ul>
-<ul>Vers la [http://www.pathfinder-fr.org/Forum/yaf_postsm108986_-regle-maison.aspx#post108986|discussion] </ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Vers la [[Pathfinder-RPG.Caractéristiques.ashx#TABLEAUCARACTERISTIQUES|règle officielle]]</ul>
+<ul>Vers la [discussion](http://www.pathfinder-fr.org/Forum/yaf_postsm108986_-regle-maison.aspx#post108986) </ul>
 
 </div>
 
@@ -37,61 +37,61 @@ La règle ne doit pas augmenter la puissance brute des lanceur de sort, mais seu
 | Caractéristique principale
 | Caractéristique secondaire
 |- CLASS="premier"
-| [L'alchimiste](./../Pathfinder-RPG/Alchimiste.md)
-| [Intelligence](./../Pathfinder-RPG/Intelligence.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
+| [[pathfinder-RPG.alchimiste|L'alchimiste]]
+| [[pathfinder-RPG.Intelligence|Intelligence]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
 |- CLASS="alt"
-| [L'anti-paladin](./../Pathfinder-RPG/Antipaladin.md)
-| [Charisme](./../Pathfinder-RPG/Charisme.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
+| [[pathfinder-RPG.antipaladin|L'anti-paladin]]
+| [[pathfinder-RPG.Charisme|Charisme]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
 |-
-| [Le barde](./../Pathfinder-RPG/Barde.md)
-| [Charisme](./../Pathfinder-RPG/Charisme.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
+| [[pathfinder-RPG.barde|Le barde]]
+| [[pathfinder-RPG.Charisme|Charisme]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
 |- CLASS="alt"
-| [Le conjurateur](./../Pathfinder-RPG/Conjurateur.md)
-| [Charisme](./../Pathfinder-RPG/Charisme.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
+| [[pathfinder-RPG.conjurateur|Le conjurateur]]
+| [[pathfinder-RPG.Charisme|Charisme]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
 |-
-| [Le druide](./../Pathfinder-RPG/Druide.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
-| [Charisme](./../Pathfinder-RPG/Charisme.md)
+| [[pathfinder-RPG.druide|Le druide]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
+| [[pathfinder-RPG.Charisme|Charisme]]
 |- CLASS="alt"
-| [L'ensorceleur](./../Pathfinder-RPG/Ensorceleur.md)
-| [Charisme](./../Pathfinder-RPG/Charisme.md)
-| [Intelligence](./../Pathfinder-RPG/Intelligence.md)
+| [[pathfinder-RPG.ensorceleur|L'ensorceleur]]
+| [[pathfinder-RPG.Charisme|Charisme]]
+| [[pathfinder-RPG.Intelligence|Intelligence]]
 |-
-| [L'inquisiteur](./../Pathfinder-RPG/Inquisiteur.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
-| [Charisme](./../Pathfinder-RPG/Charisme.md)
+| [[pathfinder-RPG.inquisiteur|L'inquisiteur]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
+| [[pathfinder-RPG.Charisme|Charisme]]
 |- CLASS="alt"
-| [Le magicien](./../Pathfinder-RPG/Magicien.md)
-| [Intelligence](./../Pathfinder-RPG/Intelligence.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
+| [[pathfinder-RPG.magicien|Le magicien]]
+| [[pathfinder-RPG.Intelligence|Intelligence]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
 |-
-| [Le magus](./../Pathfinder-RPG/Magus.md)
-| [Intelligence](./../Pathfinder-RPG/Intelligence.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
+| [[pathfinder-RPG.magus|Le magus]]
+| [[pathfinder-RPG.Intelligence|Intelligence]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
 |- CLASS="alt"
-| [L'oracle](./../Pathfinder-RPG/Oracle.md)
-| [Charisme](./../Pathfinder-RPG/Charisme.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
+| [[pathfinder-RPG.oracle|L'oracle]]
+| [[pathfinder-RPG.Charisme|Charisme]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
 |-
-| [Le paladin](./../Pathfinder-RPG/Paladin.md)
-| [Charisme](./../Pathfinder-RPG/Charisme.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
+| [[pathfinder-RPG.paladin|Le paladin]]
+| [[pathfinder-RPG.Charisme|Charisme]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
 |- CLASS="alt"
-| [Le prêtre](./../Pathfinder-RPG/Prêtre.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
-| [Intelligence](./../Pathfinder-RPG/Intelligence.md)
+| [[pathfinder-RPG.prêtre|Le prêtre]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
+| [[pathfinder-RPG.Intelligence|Intelligence]]
 |-
-| [Le rôdeur](./../Pathfinder-RPG/Rôdeur.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
-| [Charisme](./../Pathfinder-RPG/Charisme.md)
+| [[pathfinder-RPG.rôdeur|Le rôdeur]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
+| [[pathfinder-RPG.Charisme|Charisme]]
 |- CLASS="alt"
-| [La sorcière](./../Pathfinder-RPG/Sorcière.md)
-| [Intelligence](./../Pathfinder-RPG/Intelligence.md)
-| [Sagesse](./../Pathfinder-RPG/Sagesse.md)
+| [[pathfinder-RPG.sorcière|La sorcière]]
+| [[pathfinder-RPG.Intelligence|Intelligence]]
+| [[pathfinder-RPG.Sagesse|Sagesse]]
 |}
 </center>
 

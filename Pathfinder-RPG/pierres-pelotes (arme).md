@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 1 pa ; **Poids** 2 kg
-<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
 ---
-Ces boules denses de fibres élastiques infligent des dégâts [non létaux](./Blessures et mort.md#NONLETAL) lorsqu’elles sont lancées à la [fronde](./fronde (arme).md).
+Ces boules denses de fibres élastiques infligent des dégâts [[Blessures et mort#NONLETAL|non létaux]] lorsqu’elles sont lancées à la [[fronde (arme)|fronde]].

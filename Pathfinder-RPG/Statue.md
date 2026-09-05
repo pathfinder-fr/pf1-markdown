@@ -11,18 +11,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Occ](./Occultiste.md) 6  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Occultiste|Occ]] 6  
 
-**Temps d'incantation** 1 [round](./round.md)  
+**Temps d'incantation** 1 [[round]]  
 
-**Composantes** [V, G, M](./composantes.md) (un peu de chaux, quelques grains de sable et une goutte d’eau, le tout mélangé par un clou ou une pointe en fer)  
+**Composantes** [[composantes|V, G, M]] (un peu de chaux, quelques grains de sable et une goutte d’eau, le tout mélangé par un clou ou une pointe en fer)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 heure/[niveau](./niveau.md) (T)  
+**Durée** 1 heure/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Cette incantation transforme le sujet et tout ce qu’il porte en statue de pierre. Sous forme de statue, il a une [solidité](./solidité.md) de 8 et conserve son total de [points de vie](./points de vie.md). Le personnage statufié voit, entend et sent normalement, mais il n’a plus besoin de manger, boire ou respirer. Son sens du toucher se restreint aux pressions suffisamment importantes pour affecter son corps de granit : si quelqu’un fait sauter quelques éclats de pierre, il perçoit cela comme une simple égratignure mais si on lui casse un bras il subit d’importants dégâts. Tant que le sort fait effet, l’individu affecté peut reprendre son apparence normale, agir et se transformer à nouveau en statue (cela lui demande seulement une [action libre](./Action libre.md)).
+Cette incantation transforme le sujet et tout ce qu’il porte en statue de pierre. Sous forme de statue, il a une [[solidité]] de 8 et conserve son total de [[points de vie]]. Le personnage statufié voit, entend et sent normalement, mais il n’a plus besoin de manger, boire ou respirer. Son sens du toucher se restreint aux pressions suffisamment importantes pour affecter son corps de granit : si quelqu’un fait sauter quelques éclats de pierre, il perçoit cela comme une simple égratignure mais si on lui casse un bras il subit d’importants dégâts. Tant que le sort fait effet, l’individu affecté peut reprendre son apparence normale, agir et se transformer à nouveau en statue (cela lui demande seulement une [[action libre]]).

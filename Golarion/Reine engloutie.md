@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Vestige de l’Empire du [Thassilon](./Thassilon.md), la reine engloutie est une pyramide colossale qui s’enfonce inexorablement dans les eaux du [Marais du Mush](./Marais-du-Mush.md). Le sommet est orné de trois cornes métalliques dont une est brisée et une des faces révèle la sculpture d'une mince femme nue idéalisée. Des légendes affirment qu’il existerait de nombreuses catacombes où reposent des témoignages de l'époque thassilonienne.
+Vestige de l’Empire du [[Thassilon]], la reine engloutie est une pyramide colossale qui s’enfonce inexorablement dans les eaux du [[Golarion.Marais-du-Mush|Marais du Mush]]. Le sommet est orné de trois cornes métalliques dont une est brisée et une des faces révèle la sculpture d'une mince femme nue idéalisée. Des légendes affirment qu’il existerait de nombreuses catacombes où reposent des témoignages de l'époque thassilonienne.

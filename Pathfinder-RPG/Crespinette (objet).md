@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 10–100 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 Cette résille ornée en soie, tissée d’or et parée de bijoux, est surtout l’apanage des femmes issues de l’aristocratie ou de la royauté.

@@ -13,9 +13,9 @@ Categories:
 {s:pucem|Humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.98*}
 {s:BDTexte|**PX** 12800}
-{s:BDTexte|[Gobelours](./Gobelours.md) [ensorceleur](./Ensorceleur.md) 10}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille M, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [odorat](./odorat.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[Gobelours]] [[ensorceleur]] 10}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille M, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[odorat]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 13, pris au dépourvu 15 (Dex +2, esquive +1, naturelle +5)}
 {s:BDTexte|**pv** 97 (13 DV ; 3d8+10d6+49)}
@@ -25,28 +25,28 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** *bâton +1*, +12/+7 (1d6+7)}
 {s:BDTexte|**Distance** arc court de maître, +10 (1d6/x3)}
-{s:BDTexte|**Pouvoirs magiques d'ensorceleur** ([NLS](./NLS.md) 10 ; [concentration](./concentration.md) +12)}
-{s:BDTexte|6/jour — *[rayon élémentaire](./lignage Élémentaire.md)* (1d6+5 feu)}
-{s:BDTexte|1/jour — *[explosion élémentaire](./lignage Élémentaire.md)* (10d6 feu, DD 18)}
-{s:BDTexte|**Sorts d’ensorceleur connus** ([NLS](./NLS.md) 10 ; [concentration](./concentration.md) +13)}
-{s:BDSorts|5e (3/jour) — *[serpent de feu](./Serpent de feu.md)* (DD 18)}
-{s:BDSorts|4e (5/jour) — *[bouclier de feu](./Bouclier de feu.md)*, *[corps élémentaire I](./Corps élémentaire I.md)*, *[tentacules noirs](./Tentacules noirs.md)*}
-{s:BDSorts|3e (3/jour) — *[boule de feu](./Boule de feu.md)* (DD 16), *[hurlement d'agonie](./Hurlement dagonie.md)* (DD 16), *[nuage nauséabond](./Nuage nauséabond.md)* (DD 16), *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*, *[rage](./Rage.md)*}
-{s:BDSorts|2e (7/jour) — *[détection de l'invisible](./Détection de linvisibilité.md)*, *[idiotie](./Idiotie.md)*, *[invisibilité](./Invisibilité.md)*, *[lévitation](./Lévitation.md)*, *[modification d'apparence](./Modification dapparence.md)*, *[rayon ardent](./Rayon ardent.md)*}
-{s:BDSorts|1e (7/jour) — *[agrandissement](./Agrandissement.md)* (DD 14), *[bouclier](./Bouclier.md)*, *[couleurs dansantes](./Couleurs dansantes.md)* (DD 14), *[mains brûlantes](./Mains brûlantes.md)* (DD 14), *[projectile magique](./Projectile magique.md)*, *[rayon affaiblissant](./Rayon affaiblissant.md)* (DD 14)}
-{s:BDSorts|0 (à volonté) — *[aspersion acide](./Aspersion acide.md)*, *[détection de la magie](./Détection de la magie.md)*, *[détection du poison](./Détection du poison.md)*, *[fatigue](./Fatigue.md)* (DD 13), *[hébétement](./Hébétement.md)* (DD 13), *[lecture de la magie](./Lecture de la magie.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[résistance](./résistance.md)*, *[son imaginaire](./Son imaginaire.md)* (DD 13)}
+{s:BDTexte|**Pouvoirs magiques d'ensorceleur** ([[NLS]] 10 ; [[concentration]] +12)}
+{s:BDTexte|6/jour — *[[Lignage élémentaire|rayon élémentaire]]* (1d6+5 feu)}
+{s:BDTexte|1/jour — *[[Lignage élémentaire|explosion élémentaire]]* (10d6 feu, DD 18)}
+{s:BDTexte|**Sorts d’ensorceleur connus** ([[NLS]] 10 ; [[concentration]] +13)}
+{s:BDSorts|5e (3/jour) — *[[serpent de feu]]* (DD 18)}
+{s:BDSorts|4e (5/jour) — *[[bouclier de feu]]*, *[[corps élémentaire I]]*, *[[tentacules noirs]]*}
+{s:BDSorts|3e (3/jour) — *[[boule de feu]]* (DD 16), *[[hurlement dagonie|hurlement d'agonie]]* (DD 16), *[[nuage nauséabond]]* (DD 16), *[[protection contre les énergies destructives]]*, *[[rage]]*}
+{s:BDSorts|2e (7/jour) — *[[détection de linvisibilité|détection de l'invisible]]*, *[[idiotie]]*, *[[invisibilité]]*, *[[lévitation]]*, *[[modification dapparence|modification d'apparence]]*, *[[rayon ardent]]*}
+{s:BDSorts|1e (7/jour) — *[[agrandissement]]* (DD 14), *[[bouclier]]*, *[[couleurs dansantes]]* (DD 14), *[[mains brûlantes]]* (DD 14), *[[projectile magique]]*, *[[rayon affaiblissant]]* (DD 14)}
+{s:BDSorts|0 (à volonté) — *[[aspersion acide]]*, *[[détection de la magie]]*, *[[détection du poison]]*, *[[fatigue]]* (DD 13), *[[hébétement]]* (DD 13), *[[lecture de la magie]]*, *[[manipulation à distance]]*, *[[résistance]]*, *[[son imaginaire]]* (DD 13)}
 {s:BDTexte|**Lignage** élémentaire (feu)}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|**Avant le combat.** Le mage du sang lance *[invisibilité](./Invisibilité.md)* sur sa personne et se place de manière à lancer ses sorts en toute impunité.}
-{s:BDTexte|**Pendant le combat.** Le mage de sang lance *[serpent de feu](./Serpent de feu.md)* et *[boule de feu](./Boule de feu.md)* sur ses ennemis dès le début du combat. Il garde les sorts comme *[bouclier de feu](./Bouclier de feu.md)* et *[bouclier](./Bouclier.md)* pour se protéger s'il est victime d'une attaque.}
+{s:BDTexte|**Avant le combat.** Le mage du sang lance *[[invisibilité]]* sur sa personne et se place de manière à lancer ses sorts en toute impunité.}
+{s:BDTexte|**Pendant le combat.** Le mage de sang lance *[[serpent de feu]]* et *[[boule de feu]]* sur ses ennemis dès le début du combat. Il garde les sorts comme *[[bouclier de feu]]* et *[[bouclier]]* pour se protéger s'il est victime d'une attaque.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 15, **Con** 16, **Int** 8, **Sag** 10, **Cha** 17}
 {s:BDTexte|**BBA** +7, **BMO** +11, **DMD** 24}
-{s:BDTexte|**Dons** [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [Esquive](./Esquive.md), [Extension d'effet](./Extension deffet.md), [Extension de portée](./Extension de portée.md), [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +12, [Discrétion](./Discrétion.md) +9, [Intimidation](./Intimidation.md) +6}
+{s:BDTexte|**Dons** [[Dispense de composantes matérielles]], [[Esquive]], [[Extension deffet|Extension d'effet]], [[Extension de portée]], [[Magie de guerre]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Tir à bout portant]], [[Tir de précision]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +12, [[Discrétion]] +9, [[Intimidation]] +6}
 {s:BDTexte|**Langues** commun, gobelin}
-{s:BDTexte|**Particularités** arcanes de lignage (les dégâts d'énergie deviennent des dégâts de feu), [traqueur](./Gobelours.md#TRAQUEUR)}
-{s:BDTexte|**Équipement de combat** *[baguette](./Baguettes magiques.md) de [soins modérés](./Soins modérés.md)* ; **Équipement divers** *[bâton +1](./bâton (arme).md)*, [dague de maître](./dague (arme).md), [arc court de maître](./Arc court (arme).md) avec [20 flèches](./Flèches (arme).md), *[amulette d'armure naturelle +2](./Amulette darmure naturelle.md)*, *[cape de résistance +1](./Cape de résistance.md)*, *[bandeau de belle allure](./Bandeau de belle allure.md)* +2, 117 po}
+{s:BDTexte|**Particularités** arcanes de lignage (les dégâts d'énergie deviennent des dégâts de feu), [[Gobelours#TRAQUEUR|traqueur]]}
+{s:BDTexte|**Équipement de combat** *[[baguettes magiques|baguette]] de [[soins modérés]]* ; **Équipement divers** *[[bâton (arme)|bâton +1]]*, [[dague (arme)|dague de maître]], [[arc court (arme)|arc court de maître]] avec [[Flèches (arme)|20 flèches]], *[[amulette darmure naturelle|amulette d'armure naturelle +2]]*, *[[cape de résistance|cape de résistance +1]]*, *[[bandeau de belle allure]]* +2, 117 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -54,27 +54,27 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Gobelours](./Gobelours.md) || 2
+| [[Gobelours]] || 2
 |-
-| [Grincedent gobelours](./Grincedent gobelours.md) || 4
+| [[Grincedent gobelours]] || 4
 |-
-| [Traqueur gobelours](./Traqueur gobelours.md) || 5
+| [[Traqueur gobelours]] || 5
 |-
-| [Fanatique gobelours](./Fanatique gobelours.md) || 7
+| [[Fanatique gobelours]] || 7
 |-
-| [Dévoreur gobelours](./Dévoreur gobelours.md) || 8
+| [[Dévoreur gobelours]] || 8
 |-
-| [Rôdeur gobelours](./Rôdeur gobelours.md) || 8
+| [[Rôdeur gobelours]] || 8
 |-
-| [Spectre terrifiant](./Spectre terrifiant.md) || 8
+| [[Spectre terrifiant]] || 8
 |-
-| [Gobelours adepte de l'embuscade](./Gobelours adepte de lembuscade.md) || 10
+| [[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]] || 10
 |-
-| [Ombre discrète gobelours](./Ombre discrète gobelours.md) || 10
+| [[Ombre discrète gobelours]] || 10
 |-
-| [Mage du sang gobelours](./Mage du sang gobelours.md) || 11
+| [[Mage du sang gobelours]] || 11
 |-
-| [Tyran gobelours](./Tyran gobelours.md) || 13
+| [[Tyran gobelours]] || 13
 |}
 </div> Les rares gobelours qui possèdent une étincelle de pouvoir marketing nique prennent rarement la peine de la faire grandir car cela les empêcherait de se consacrer à ce qui compte vraiment : traquer, terrifier et assassiner. Pourtant ceux qui développent ce don (et survivent assez longtemps pour atteindre leur plein potentiel) d'où viennent d'abominables vecteurs de mort sanglante.
 

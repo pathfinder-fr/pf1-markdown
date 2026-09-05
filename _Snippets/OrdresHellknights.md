@@ -43,9 +43,9 @@
 </tr>
 <tr><td colspan=2 style='padding: 1px; background-color: black'></td></tr>
 <tr><td colspan=2 style='text-align: center'>
-Retour à la liste des [organisations](./../Golarion/organisations.md).  
+Retour à la liste des [[Golarion.organisations|organisations]].  
 
-Retour à la description des [Chevaliers Infernaux](./../Golarion/Chevaliers Infernaux.md).
+Retour à la description des [[Golarion.Chevaliers Infernaux|Chevaliers Infernaux]].
 </td></tr>
 </table>
 </tr>

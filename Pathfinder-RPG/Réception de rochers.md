@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Réception de rochers (capacité)
 ---
 
->>> [Réception de rochers (capacité)](./Réception de rochers (capacité).md)
+>>> [[Réception de rochers (capacité)]]

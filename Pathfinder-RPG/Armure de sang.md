@@ -14,11 +14,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 2, [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Psy](./Psychiste.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2  
+{s:MCA}**École** [[transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** personnelle  
 

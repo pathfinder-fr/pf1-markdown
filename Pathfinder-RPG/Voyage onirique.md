@@ -8,42 +8,42 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Psy](./Psychiste.md) 9
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./courte.md)
+{s:AO}** École **[[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 9
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[courte|contact]]
 **Cible** personnage et une créature/niveau
 **Durée** 1 heure/niveau (T)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[traversée onirique](./Traversée onirique.md)* mais le personnage et ses compagnons se déplacent dans la [Dimension du Rêve](./Plans ésotériques.md#DIMENSIONDUREVE) à bord d’un véhicule fantastique conçu par le personnage, qui réduit le temps de trajet de moitié. Le personnage est le seul capable de piloter son véhicule et il peut le faire même s’il n’est pas à bord.
+Ce sort fonctionne comme *[[traversée onirique]]* mais le personnage et ses compagnons se déplacent dans la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]] à bord d’un véhicule fantastique conçu par le personnage, qui réduit le temps de trajet de moitié. Le personnage est le seul capable de piloter son véhicule et il peut le faire même s’il n’est pas à bord.
 
-Le véhicule psychique isole les esprits qu’il transporte contre les intenses marées d’émotions de la [Dimension du Rêve](./Plans ésotériques.md#DIMENSIONDUREVE) et immunise tous ses passagers contre les effets d’émotion et de terreur néfastes. Contrairement à la *[traversée onirique](./Traversée onirique.md)*, le véhicule n’a aucun risque d’arriver presque à destination. De plus, le personnage n’a pas besoin d’avoir rencontré la créature visée mais il doit au moins en avoir une description fiable. En revanche, s’il tente le voyage sans disposer d’assez d’informations ou avec des informations erronées, il doit lancer le dé en utilisant la ligne fausse identité de la table de la *[traversée onirique](./Traversée onirique.md)*.
+Le véhicule psychique isole les esprits qu’il transporte contre les intenses marées d’émotions de la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]] et immunise tous ses passagers contre les effets d’émotion et de terreur néfastes. Contrairement à la *[[traversée onirique]]*, le véhicule n’a aucun risque d’arriver presque à destination. De plus, le personnage n’a pas besoin d’avoir rencontré la créature visée mais il doit au moins en avoir une description fiable. En revanche, s’il tente le voyage sans disposer d’assez d’informations ou avec des informations erronées, il doit lancer le dé en utilisant la ligne fausse identité de la table de la *[[traversée onirique]]*.
 
 Les créatures qui descendent du véhicule peuvent entrer dans le paysage onirique ou sortir dans le plan où se trouve le corps du rêveur, auquel cas elles arrivent quelque part dans un rayon d’un kilomètre autour de lui. Toutes les créatures qui débarquent du véhicule sur un plan au même moment arrivent au même endroit.
 
-Le rêveur ne peut pas empêcher les voyageurs d’entrer dans son rêve mais il a droit à un jet de [Volonté](./Volonté.md) pour interdire à un groupe de créatures de sortir sur le plan qu’occupe son corps. Le véhicule psychique reste dans le rêve jusqu’à ce que le sort expire, même s’il n’y a plus personne à son bord. Une créature adjacente au rêveur peut retourner sur le véhicule onirique par une [action complexe](./Action complexe.md), en franchissant un portail illusoire que les bénéficiaires du sort sont les seules à voir. Le personnage peut renvoyer le véhicule et autant de créatures qu’il désire à l’endroit où il a lancé le sort, afin de les ramener sur ce plan, et le faire ensuite revenir dans le rêve. Ces trajets prennent autant de temps que le voyage initial
+Le rêveur ne peut pas empêcher les voyageurs d’entrer dans son rêve mais il a droit à un jet de [[Volonté]] pour interdire à un groupe de créatures de sortir sur le plan qu’occupe son corps. Le véhicule psychique reste dans le rêve jusqu’à ce que le sort expire, même s’il n’y a plus personne à son bord. Une créature adjacente au rêveur peut retourner sur le véhicule onirique par une [[action complexe]], en franchissant un portail illusoire que les bénéficiaires du sort sont les seules à voir. Le personnage peut renvoyer le véhicule et autant de créatures qu’il désire à l’endroit où il a lancé le sort, afin de les ramener sur ce plan, et le faire ensuite revenir dans le rêve. Ces trajets prennent autant de temps que le voyage initial
 et se font aussi souvent que voulu dans la limite de la durée du sort.
 
 Si le véhicule sort d’un paysage onirique, les compagnons restés en arrière ne peuvent plus remonter à bord en se tenant adjacents au rêveur. Si un compagnon se fait tuer, son corps ne reprend pas le voyage, à moins que le personnage ne l’emporte avec lui, comme pour n’importe quel objet.
 
-Si le rêveur se réveille alors que le véhicule onirique est encore dans son rêve, il peut l’autoriser à sortir ou non (comme avec *[traversée onirique](./Traversée onirique.md)*). Le véhicule onirique reste intact dans la [Dimension du Rêve](./Plans ésotériques.md#DIMENSIONDUREVE) pendant toute la durée du sort, même s’il n’est pas amarré à un rêve. Quand cela se produit, il dérive au gré des rêves et le personnage peut le diriger vers un autre songe (même un du rêveur initial si celui-ci se met de nouveau à rêver). Si le personnage dissipe le sort, à n’importe quel moment, lui et tous les compagnons à bord du véhicule onirique retournent à leur point de départ sur le plan Matériel.
+Si le rêveur se réveille alors que le véhicule onirique est encore dans son rêve, il peut l’autoriser à sortir ou non (comme avec *[[traversée onirique]]*). Le véhicule onirique reste intact dans la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]] pendant toute la durée du sort, même s’il n’est pas amarré à un rêve. Quand cela se produit, il dérive au gré des rêves et le personnage peut le diriger vers un autre songe (même un du rêveur initial si celui-ci se met de nouveau à rêver). Si le personnage dissipe le sort, à n’importe quel moment, lui et tous les compagnons à bord du véhicule onirique retournent à leur point de départ sur le plan Matériel.
 
-Le personnage peut augmenter le nombre de compagnons susceptibles de l’accompagner dans son voyage onirique et emmener jusqu’à dix créatures par [niveau de lanceur de sorts](./NLS.md), mais pour cela il doit augmenter la durée d’incantation en maintenant sa concentration et en touchant jusqu’à six créatures par round par une [action complexe](./Action complexe.md). Si quelque chose brise sa concentration avant qu’il n’ait touché toutes ses cibles, le sort est perdu et n’a aucun effet. Le voyage onirique commence quand le personnage a touché tous ses compagnons mais sa durée est réduite à une heure.
+Le personnage peut augmenter le nombre de compagnons susceptibles de l’accompagner dans son voyage onirique et emmener jusqu’à dix créatures par [[NLS|niveau de lanceur de sorts]], mais pour cela il doit augmenter la durée d’incantation en maintenant sa concentration et en touchant jusqu’à six créatures par round par une [[action complexe]]. Si quelque chose brise sa concentration avant qu’il n’ait touché toutes ses cibles, le sort est perdu et n’a aucun effet. Le voyage onirique commence quand le personnage a touché tous ses compagnons mais sa durée est réduite à une heure.
 
 
 
 (((
 ## Traversée onirique
-{s:AO}** École **[Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 6, [Psy](./Psychiste.md) 6
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./courte.md)
+{s:AO}** École **[[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 6, [[psychiste|Psy]] 6
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[courte|contact]]
 **Cible** personnage et une créature/niveau
 **Durée** 1 heure/niveau (T)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 ---
-Le personnage et les autres cibles du sort sont physiquement attirés hors du plan Matériel et entraînés dans la [Dimension du Rêve](./Plans ésotériques.md#DIMENSIONDUREVE), dans un voyage au cœur des songes de la créature que le personnage a désignée. Dans la [Dimension du Rêve](./Plans ésotériques.md#DIMENSIONDUREVE), ils se déplacent sur une mer mouvante, faite des pensées, des désirs et des émotions des rêveurs, afin de gagner leur paysage onirique de destination. Pour cela, il leur faut 1 heure. Le personnage peut dissiper le sort à n’importe quel moment avant la fin de cette durée, afin de ramener tout le monde au point de départ, sur le plan Matériel. Du fait de sa nature, le lien entre les rêves et la réalité est ténu et les chances d’arriver précisément où le personnage le souhaite dépendent de sa familiarité avec le rêveur qu’il essaie d’atteindre. Lancez un d100 dans la table suivante pour déterminer la précision du lieu d’arrivée à la fin de la traversée onirique.
+Le personnage et les autres cibles du sort sont physiquement attirés hors du plan Matériel et entraînés dans la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]], dans un voyage au cœur des songes de la créature que le personnage a désignée. Dans la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]], ils se déplacent sur une mer mouvante, faite des pensées, des désirs et des émotions des rêveurs, afin de gagner leur paysage onirique de destination. Pour cela, il leur faut 1 heure. Le personnage peut dissiper le sort à n’importe quel moment avant la fin de cette durée, afin de ramener tout le monde au point de départ, sur le plan Matériel. Du fait de sa nature, le lien entre les rêves et la réalité est ténu et les chances d’arriver précisément où le personnage le souhaite dépendent de sa familiarité avec le rêveur qu’il essaie d’atteindre. Lancez un d100 dans la table suivante pour déterminer la précision du lieu d’arrivée à la fin de la traversée onirique.
 
 {| CLASS="tablo centre autoalt"
 |- CLASS="titre"
@@ -61,7 +61,7 @@ Le personnage et les autres cibles du sort sont physiquement attirés hors du pl
 |}
 
 **Familiarité.**
-*Très familier.* Indique que le personnage a eu des contacts au cours des dernières 24 heures avec la créature dont il tente de localiser le paysage onirique via *[songe](./Songe.md)*, *[conseil onirique](./Conseil onirique.md)*, *[examen des rêves](./Examen des rêves.md)* ou une magie similaire.
+*Très familier.* Indique que le personnage a eu des contacts au cours des dernières 24 heures avec la créature dont il tente de localiser le paysage onirique via *[[songe]]*, *[[conseil onirique]]*, *[[examen des rêves]]* ou une magie similaire.
 *Familier.* Implique que le personnage a noué un contact avec elle via l’un de ces sorts au moins une fois dans le passé.
 *Connue.* Indique que le personnage connaît la créature mais n’a pas établi de contact avec ses rêves grâce à ces sorts.
 *Vaguement connue.* Indique une créature dont le personnage a entendu parler, qu’il connaît de nom et sous sa véritable identité, par contre, il ne l’a jamais rencontrée.
@@ -79,26 +79,26 @@ Quelle que soit la précision du sort, le personnage et ses compagnons arrivent 
 
 Le personnage et ses compagnons ont une possibilité de sortir du rêve près de la créature, sur son plan d’origine. S’ils se trouvent encore dans un songe quand le rêveur s’éveille, ce dernier peut décider de les ramener avec lui sur son plan, dans un rayon de 1d10 kilomètres autour de lui. S’il ne veut pas, le personnage et ses compagnons sont propulsés dans un autre paysage onirique ou sur le plan Éthéré. Le sort se termine quand la créature se réveille, le personnage ne peut donc plus dissiper le sort pour rentrer chez lui. Cependant, il reçoit un avertissement le prévenant que le sort va se terminer, ce qui lui permet de le dissiper juste avant que le rêveur ne s’éveille et ne décide s’il veut laisser le personnage et ses compagnons arriver auprès de lui.
 
-Le personnage peut utiliser traversée onirique pour se rendre dans le rêve d’une créature d’un autre plan, mais pour cela il doit serpenter entre les rêves des extérieurs. Il faut 1d4+1 heures de voyage ininterrompu pour atteindre le rêve recherché et chaque voyageur doit réussir un jet de [Volonté](./Volonté.md) par heure ainsi passée. Le [DD](./DD.md) est de 10 la première heure et augmente de 5 par heure suivante. Si une créature rate son jet, elle est [secouée](./États préjudiciables.md#Secoué) pour le reste du sort puis pour un nombre d’heures égal au temps passé à se rendre à destination via traversée onirique. Quand une créature rate son jet de sauvegarde, il se produit l’un des effets suivants (que le MJ détermine au hasard). Ces effets sont considérés comme du registre des émotions, en plus des autres registres auxquels ils appartiennent éventuellement.
+Le personnage peut utiliser traversée onirique pour se rendre dans le rêve d’une créature d’un autre plan, mais pour cela il doit serpenter entre les rêves des extérieurs. Il faut 1d4+1 heures de voyage ininterrompu pour atteindre le rêve recherché et chaque voyageur doit réussir un jet de [[Volonté]] par heure ainsi passée. Le [[DD]] est de 10 la première heure et augmente de 5 par heure suivante. Si une créature rate son jet, elle est [[États préjudiciables#Secoué|secouée]] pour le reste du sort puis pour un nombre d’heures égal au temps passé à se rendre à destination via traversée onirique. Quand une créature rate son jet de sauvegarde, il se produit l’un des effets suivants (que le MJ détermine au hasard). Ces effets sont considérés comme du registre des émotions, en plus des autres registres auxquels ils appartiennent éventuellement.
 
 {| CLASS="tablo centre autoalt" WIDTH="80%"
 |- CLASS="titre"
 | d6 || Résultat
 |- CLASS="premier"
-| 1 || La créature contracte la [fièvre gloussante](./Maladies.md) ou la [bouille-crâne](./Maladies.md) (autant de chances pour l’une ou l’autre).
+| 1 || La créature contracte la [[maladies|fièvre gloussante]] ou la [[maladies|bouille-crâne]] (autant de chances pour l’une ou l’autre).
 |-
-| 2 || La créature est maudite, comme avec *[malédiction](./sort Malédiction.md)*. Si c’est un lanceur de sorts, il est à la place victime d’une [plaie mineure](./Description des plaies magiques.md).
+| 2 || La créature est maudite, comme avec *[[sort malédiction|malédiction]]*. Si c’est un lanceur de sorts, il est à la place victime d’une [[description des plaies magiques|plaie mineure]].
 |-
-| 3 || La créature est victime d’un *[assassin imaginaire](./Assassin imaginaire.md)*, comme si elle avait raté le premier jet de sauvegarde pour percer l’illusion à jour. Le [DD](./DD.md) du jet de [Vigueur](./Vigueur.md) est égal au [DD](./DD.md) du jet de [Volonté](./Volonté.md) que la créature a raté.
+| 3 || La créature est victime d’un *[[assassin imaginaire]]*, comme si elle avait raté le premier jet de sauvegarde pour percer l’illusion à jour. Le [[DD]] du jet de [[Vigueur]] est égal au [[DD]] du jet de [[Volonté]] que la créature a raté.
 |-
-| 4 || La créature est possédée par un extérieur, comme via un effet de *[possession spirituelle](./Possession spirituelle (sort).md)* (50 % de chances qu’il s’agisse d’une créature du plan de destination, sinon, c’est un extérieur hostile aléatoire).
+| 4 || La créature est possédée par un extérieur, comme via un effet de *[[possession spirituelle (sort)|possession spirituelle]]* (50 % de chances qu’il s’agisse d’une créature du plan de destination, sinon, c’est un extérieur hostile aléatoire).
 |-
-| 5 || La créature est victime de *[débilité](./Débilité.md)*.
+| 5 || La créature est victime de *[[débilité]]*.
 |-
-| 6 || La créature est affectée par une *[aliénation mentale](./Aliénation mentale.md)*.
+| 6 || La créature est affectée par une *[[aliénation mentale]]*.
 |}
 
 Si la destination se trouve sur un autre plan, la précision du trajet onirique diminue. Si le personnage et ses compagnons ressortent du rêve d’une créature sur un plan différent de leur plan de départ, ils arrivent en un point aléatoire du plan de destination.
 
-Si la cible de la traversée onirique ne rêve pas, le personnage et ses compagnons peuvent patienter dans la [Dimension du Rêve](./Plans ésotériques.md#DIMENSIONDUREVE) jusqu’à ce qu’elle s’endorme. À chaque heure passée ainsi, chacun doit faire un jet de [Volonté](./Volonté.md) comme s’il se rendait sur un autre plan.
+Si la cible de la traversée onirique ne rêve pas, le personnage et ses compagnons peuvent patienter dans la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]] jusqu’à ce qu’elle s’endorme. À chaque heure passée ainsi, chacun doit faire un jet de [[Volonté]] comme s’il se rendait sur un autre plan.
 )))

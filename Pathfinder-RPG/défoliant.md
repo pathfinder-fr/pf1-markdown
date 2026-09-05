@@ -10,13 +10,13 @@ Categories:
 
 {s:plume}<div class="description">**Source :** Sargava, the Lost Colony (SLC).</div>
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Rod](./Rôdeur.md) 1  
+**École** [[Nécromancie]] ; **Niveau** [[druide|Dru]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[rôdeur|Rod]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une sauterelle)  
+**Composantes** [[composantes|V, G, M]] (une sauterelle)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** voir texte  
 

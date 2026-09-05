@@ -4,9 +4,9 @@ Title: Nécromancien sacré (archétype)
 LastModified: 2022-04-27 11:17
 ---
 
-{s:bodmenu}• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+{s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 De nombreux magiciens de tous types étudient la nécromancie : cette école étonnamment variée s’intéresse aux secrets des énergies positives et négatives ainsi qu’à la vie et à la mort. Bon nombre d’entre eux utilisent ces pouvoirs sans se soucier des aspects moraux. Pour ces lanceurs de sorts sans scrupule, il ne s’agit de rien de plus qu’un autre outil dans leur quête incessante de puissance et les capacités qu’ils apprennent sont utilisées pour leurs propres desseins, quels qu’ils soient.

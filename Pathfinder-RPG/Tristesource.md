@@ -10,7 +10,7 @@ LastModified: 2017-03-22 21:57
 {s:pucem|Fée|Aquatique|Froid}
 {s:BDTexte|*Source : Bestiaire 4 page 274*}
 - **1 200 PX**
-- [Créature féerique](./type Fée.md) ([aquatique](./sous-type aquatique.md)) de taille M, NM
+- [[type fée|Créature féerique]] ([[sous-type aquatique|aquatique]]) de taille M, NM
 - **Init **+7 ; **Sens **vision nocturne ; Perception +16
 (((Défense)))
 - **CA **18, contact 14, pris au dépourvu 14 (Dex +3, esquive +1, naturelle +4)
@@ -22,13 +22,13 @@ LastModified: 2017-03-22 21:57
 - **Corps à corps** 2 coups, +8 (2d6)
 - **Attaques spéciales** caresse de la noyade (DD 14), musique enchanteresse (DD 19)
 - **Pouvoirs magiques** (**NLS **9 ; concentration +14)
-  - *Constant *— [marche sur l’onde](./Marche sur londe.md)
-  - *3/jour* — [torrent hydraulique](./Torrent hydraulique.md)
+  - *Constant *— [[marche sur londe|marche sur l’onde]]
+  - *3/jour* — [[torrent hydraulique]]
 (((Statistiques)))
 - **For **10, **Dex** 17, **Con **15, **Int **12, **Sag **14, **Cha **21
 - **BBA **+4 ; **BMO **+4 ; **DMD **17
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (coup), [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md)
-- **Compétences ** [Bluff](./Bluff.md) +17, [Connaissances](./Connaissances.md) (géographie) +6, [Connaissances](./Connaissances.md) (nature) +10, [Diplomatie](./Diplomatie.md) +9, [Discrétion](./Discrétion.md) +15, [Escamotage](./Escamotage.md) +10, [Natation](./Natation.md) +18, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +16, [Représentation](./Représentation.md) (chant) +10, [Représentation](./Représentation.md) (instruments à cordes) +21
+- **Dons **[[Arme de prédilection]] (coup), [[Attaque en finesse]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Vigilance]]
+- **Compétences ** [[Bluff]] +17, [[Connaissances]] (géographie) +6, [[Connaissances]] (nature) +10, [[Diplomatie]] +9, [[Discrétion]] +15, [[Escamotage]] +10, [[Natation]] +18, [[Perception]] +16, [[Psychologie]] +16, [[Représentation]] (chant) +10, [[Représentation]] (instruments à cordes) +21
 - **Modificateurs raciaux** +4 en Représentation (instruments à cordes), +4 en Natation
 - **Langues **commun, sylvestre
 - **Particularités **amphibie, transparence, forme de trésor

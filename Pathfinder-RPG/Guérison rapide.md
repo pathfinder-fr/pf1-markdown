@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Le personnage guérit facilement et les effets des sorts ou de la guérison naturelle sont augmentés.*
 
-**Conditions.** [Con](./Constitution.md) 13, [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md).
+**Conditions.** [[Constitution|Con]] 13, [[Dur à cuire]], [[Endurance]].
 
-**Avantage.** Lorsque le personnage regagne des points de vie en se reposant ou grâce à de la magie curative, il récupère des [points de vie](./pv.md) supplémentaires en quantité égale à la moitié de son modificateur de [Constitution](./Constitution.md) (minimum +1).
+**Avantage.** Lorsque le personnage regagne des points de vie en se reposant ou grâce à de la magie curative, il récupère des [[pv|points de vie]] supplémentaires en quantité égale à la moitié de son modificateur de [[Constitution]] (minimum +1).

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#OMBRE
 ---
 
->>> [Présentation des sorts#OMBRE](./Présentation des sorts.md#OMBRE)
+>>> [[Présentation des sorts#OMBRE]]

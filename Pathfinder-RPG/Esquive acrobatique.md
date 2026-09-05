@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage utilise son habileté à éviter les dégâts pour se repositionner en plein combat.*
 
-**Conditions.** [esquive  totale](./Moine.md#ESQUIVETOTALE) et [surnaturelle](./esquive surnaturelle.md), 12 [rangs](./rang.md) en [Acrobaties](./Acrobaties.md)
+**Conditions.** [[moine#ESQUIVETOTALE|esquive  totale]] et [[esquive surnaturelle|surnaturelle]], 12 [[rang|rangs]] en [[Acrobaties]]
 
-**Avantage.** Quand le personnage réussit à éviter des dégâts grâce à l’esquive surnaturelle, il peut se déplacer de la moitié de sa vitesse, par une [action immédiate](./Action immédiate.md) . Ce mouvement provoque les [attaques d’opportunité habituelles](./attaque dopportunité.md).
+**Avantage.** Quand le personnage réussit à éviter des dégâts grâce à l’esquive surnaturelle, il peut se déplacer de la moitié de sa vitesse, par une [[action immédiate]] . Ce mouvement provoque les [[attaque dopportunité|attaques d’opportunité habituelles]].

@@ -10,11 +10,11 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Arles Jhestandre|FP 4}
-{s:BDTexte|*Source : [Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes], p.82*}
+{s:BDTexte|*Source : [[Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes]], p.82*}
 {s:BDTexte|**PX**1 200}
-{s:BDTexte|[Humain](./../Pathfinder-RPG/Humain.md) [paladin](./../Pathfinder-RPG/Paladin.md) ([déchu](./../Pathfinder-RPG/Paladin.md#ANCIENPALADIN))de Iomédae 4}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, NB}
-{s:BDTexte|**Init** +0 ; **Sens** [Perception](./../Pathfinder-RPG/Perception.md) +1}
+{s:BDTexte|[[Pathfinder-RPG.Humain|Humain]] [[Pathfinder-RPG.paladin|paladin]] ([[Pathfinder-RPG.paladin#ANCIENPALADIN|déchu]])de Iomédae 4}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] de taille M, NB}
+{s:BDTexte|**Init** +0 ; **Sens** [[Pathfinder-RPG.Perception|Perception]] +1}
 {s:BDTexte|**Aura** ~~Bien (modérée)~~ (déchu)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 9, pris au dépourvu 21(+9 armure, +2 bouclier) }
@@ -29,15 +29,15 @@ Categories:
 {s:BDSousTitre|Magie}
 {s:BDTexte|**Attaque spéciale** ~~canalisation de l’énergie positive (DD15, 2d6)~~ (déchu)}
 {s:BDTexte|**Pouvoirs magiques de Paladin**  (NLS 4 ; concentration +7)}
-{s:BDSorts|~~À volonté — [détection du Mal](./../Pathfinder-RPG/Détection du Mal.md)~~ (déchu)}
-{s:BDSorts|~~2/j — [châtiment du mal](./../Pathfinder-RPG/châtiment du Mal.md) (+3 à l’attaque et à la CA, +4 aux dégâts)~~ (déchu) }
+{s:BDSorts|~~À volonté — [[Pathfinder-RPG.détection du Mal|détection du Mal]]~~ (déchu)}
+{s:BDSorts|~~2/j — [[Pathfinder-RPG.châtiment du mal|châtiment du mal]] (+3 à l’attaque et à la CA, +4 aux dégâts)~~ (déchu) }
 {s:BDSorts|~~7/j — [[++Pathfinder-RPG.paladin#IMPOSITIONDESMAINS]|imposition des mains]] (2d6), grâce (fiévreux)~~ (déchu)}
 {s:BDTexte|**Sorts de paladin préparés**  (NLS 1 ; concentration +4) }
-{s:BDSorts|1<sup>er</sup> — ~~[restauration partielle](./../Pathfinder-RPG/Restauration partielle.md)~~ (déchu)}
+{s:BDSorts|1<sup>er</sup> — ~~[[Pathfinder-RPG.restauration partielle|restauration partielle]]~~ (déchu)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 10, **Con** 14, **Int** 10, **Sag** 13, **Cha** 16 }
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 17}
-{s:BDTexte|**Dons** [Arme de prédilection](./../Pathfinder-RPG/Arme de prédilection.md) (épée longue) , [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Imposition des mains supplémentaire](./../Pathfinder-RPG/Imposition des mains supplémentaire.md)}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Arme de prédilection|Arme de prédilection]] (épée longue) , [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]], [[Pathfinder-RPG.Imposition des mains supplémentaire|Imposition des mains supplémentaire]]}
 {s:BDTexte|**Compétences**  Connaissance (religion) +7, Diplomatie +10, Psychologie +8, Survie +2}
 {s:BDTexte|**Pénalité d’armure** –6}
 {s:BDTexte|**Langues** commun, Mendevien}
@@ -55,6 +55,6 @@ Categories:
 {s:BDTexte|44 po}
 </div>
 </td><td><div>
-Arles est un vétéran qui a participé à plusieurs conflits et chacun d'eux s'est plutôt mal terminé. Ses convictions religieuses ont été ébranlées, et même s'il dissimule cela à ses frères d'armes, les [Chevalier de Kénabres](./AP13-Chevalier de Kénabres.md), il ne peut les cacher à Iomédae.
+Arles est un vétéran qui a participé à plusieurs conflits et chacun d'eux s'est plutôt mal terminé. Ses convictions religieuses ont été ébranlées, et même s'il dissimule cela à ses frères d'armes, les [[AP13-Chevalier de Kénabres|Chevalier de Kénabres]], il ne peut les cacher à Iomédae.
 Il prétend que leur mission est sans espoir et prédit une mort atroce pour tous ceux qui y participent.
 </div></td></tr></table>

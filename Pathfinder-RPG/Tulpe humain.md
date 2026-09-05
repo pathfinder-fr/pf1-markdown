@@ -11,36 +11,36 @@ Categories:
 <div class="BD">
 {s:BDTitre|Tulpe|FP 6}
 {s:pucem|Extérieur|Forêt-Jungle|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.264](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.264]]*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Tulpe](./Tulpe, archétype.md) [humain](./Humain.md) (m) [moine](./Moine.md) 5}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([humain](./sous-type humain.md), humanoïde [altéré](./sous-type altéré.md)) de taille M, LN}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[Tulpe, archétype|Tulpe]] [[Humain]] (m) [[Moine]] 5}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type humain|humain]], humanoïde [[sous-type altéré|altéré]]) de taille M, LN}
+{s:BDTexte|**Init** +7 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 18, pris au dépourvu 15 (Dex +3, esquive +1, moine +1, naturelle +1, Sagesse +3)}
 {s:BDTexte|**pv** 46 (5d8+20)}
 {s:BDTexte|**Réf** +7, **Vig** +6, **Vol** +7 ; +2 contre les enchantements, +4 contre les effets mentaux}
-{s:BDTexte|**Capacités défensives** [esquive totale](./Roublard.md#ESQUIVETOTALE) ; **Immunités** maladie}
+{s:BDTexte|**Capacités défensives** [[Roublard#ESQUIVETOTALE|esquive totale]] ; **Immunités** maladie}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m}
 {s:BDTexte|**Corps à corps** mains nues, +9 (1d8+5) ou déluge de coups, +9/+9 (1d8+5)}
 {s:BDTexte|**Attaques spéciales** coup étourdissant (5/jour, DD 15), déluge de coups}
-{s:BDTexte|**Magie psychique** ([NLS](./NLS.md) 5 ; [concentration](./concentration.md) +5)}
-{s:BDSorts|8 EP — *[bouffée d'intuition](./Bouffée dintuition.md)* (1 EP), *[fouet d'ego I](./Fouet dego I.md)* (3 EP, DD 13), *[lévitation](./Lévitation.md)* (2 EP), *[montée d'adrénaline](./Montée dadrénaline.md)* (1 EP), *[paranoïa](./Paranoïa.md)* (2 EP, DD 12)}
+{s:BDTexte|**Magie psychique** ([[NLS]] 5 ; [[concentration]] +5)}
+{s:BDSorts|8 EP — *[[bouffée dintuition|bouffée d'intuition]]* (1 EP), *[[fouet dego I|fouet d'ego I]]* (3 EP, DD 13), *[[lévitation]]* (2 EP), *[[montée dadrénaline|montée d'adrénaline]]* (1 EP), *[[paranoïa]]* (2 EP, DD 12)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 16, **Con** 14, **Int** 10, **Sag** 17, **Cha** 8}
 {s:BDTexte|**BBA** +3 ; **BMO** +8 ; **DMD** 26}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (mains nues), [Attaque en puissance](./Attaque en puissance.md), [Coup étourdissant](./Coup étourdissant.md), [Esquive](./Esquive.md), [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Science du combat à mains nues](./Science du combat à mains nues.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11, [Bluff](./Bluff.md) +0 (+8 contre son créateur), [Diplomatie](./Diplomatie.md) +0 (+8 contre son créateur), [Discrétion](./Discrétion.md) +11, [Intimidation](./Intimidation.md) +7 (+15 contre son créateur), [Perception](./Perception.md) +11, [Psychologie](./Psychologie.md) +11 (+19 contre son créateur) ; **Modificateurs raciaux** +8 en Bluff, Diplomatie, Intimidation et Psychologie contre son créateur}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (mains nues), [[Attaque en puissance]], [[Coup étourdissant]], [[Esquive]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Science du combat à mains nues]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11, [[Bluff]] +0 (+8 contre son créateur), [[Diplomatie]] +0 (+8 contre son créateur), [[Discrétion]] +11, [[Intimidation]] +7 (+15 contre son créateur), [[Perception]] +11, [[Psychologie]] +11 (+19 contre son créateur) ; **Modificateurs raciaux** +8 en Bluff, Diplomatie, Intimidation et Psychologie contre son créateur}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** alimenté par les pensées, chute ralentie 6 m, déplacement accéléré, entraînement aux manoeuvres offensives, forme mentale (DD 12), lien avec le créateur, réserve de ki (5 points, magique), saut puissant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation** solitaire}
-{s:BDTexte|**Trésor** équipement de PNJ (*[amulette d’armure naturelle +1](./Amulette darmure naturelle.md)*, *potion d’[invisibilité](./Invisibilité.md)*, *potion de [soins modérés](./Soins modérés.md)*, *potion de [vol](./sort Vol.md)*)}
+{s:BDTexte|**Trésor** équipement de PNJ (*[[Amulette darmure naturelle|amulette d’armure naturelle +1]]*, *potion d’[[invisibilité]]*, *potion de [[soins modérés]]*, *potion de [[sort Vol|vol]]*)}
 
 </div></td>
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Tulpe](./Tulpe, archétype.md).***</li></ul>*Un humanoïde à la peau grise et aux traits étrangement banals lévite gauchement dans les airs.*
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Tulpe, archétype|Tulpe]].***</li></ul>*Un humanoïde à la peau grise et aux traits étrangement banals lévite gauchement dans les airs.*
 
 Les tulpes se forment à partir d’idées et de pensées, des êtres purement spirituels (certaines personnes pensent qu’ils sont faits de la même substance mystérieuse que le plan Astral). Ils se matérialisent grâce à un esprit puissant en harmonie avec le monde psychique ou doté de pouvoirs psychiques latents.
 

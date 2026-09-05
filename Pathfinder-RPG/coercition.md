@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#COERCITION
 ---
 
->>> [Présentation des sorts#COERCITION](./Présentation des sorts.md#COERCITION)
+>>> [[Présentation des sorts#COERCITION]]

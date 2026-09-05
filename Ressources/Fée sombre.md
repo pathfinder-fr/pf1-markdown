@@ -9,8 +9,8 @@ LastModified: 2015-12-09 16:46
 {s:BDTitre|Fée sombre|FP 2}
 {s:BDTexte|*Source : Faenil*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Fée](./../Pathfinder-RPG/type Fée.md) de taille TP, CM}
-{s:BDTexte|**Init** +9 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +6}
+{s:BDTexte|[[pathfinder-RPG.type Fée|Fée]] de taille TP, CM}
+{s:BDTexte|**Init** +9 ; **Sens** [[pathfinder-RPG.vision dans le noir|vision dans le noir]] 18 m (12 {s:c}), [[pathfinder-RPG.vision nocturne|vision nocturne]] ; [[pathfinder-RPG.Perception|Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 17, pris au dépourvu 12 (Dex +5, taille +2)}
 {s:BDTexte|**pv** 10 (3d6)}
@@ -23,14 +23,14 @@ LastModified: 2015-12-09 16:46
 {s:BDTexte|**Distance** Rayon, +8 (1d6 énergie négative)}
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6)}
-{s:BDSorts|A Volonté — *[Fatigue](./../Pathfinder-RPG/Fatigue.md)* (DD14), *[Ténèbres](./../Pathfinder-RPG/Ténèbres.md)* (sur elle même uniquement)}
-{s:BDSorts|3/jour — *[Décharge électrique](./../Pathfinder-RPG/Décharge électrique.md)*}
-{s:BDSorts|1/jour — *[Ténèbres profondes](./../Pathfinder-RPG/Ténèbres profondes.md)* (sur elle même uniquement), *[Rayon d'épuisement](./../Pathfinder-RPG/Rayon dépuisement.md)* (DD17)}
+{s:BDSorts|A Volonté — *[[pathfinder-RPG.Fatigue|Fatigue]]* (DD14), *[[pathfinder-RPG.Ténèbres|Ténèbres]]* (sur elle même uniquement)}
+{s:BDSorts|3/jour — *[[pathfinder-RPG.Décharge électrique|Décharge électrique]]*}
+{s:BDSorts|1/jour — *[[pathfinder-RPG.Ténèbres profondes|Ténèbres profondes]]* (sur elle même uniquement), *[[pathfinder-RPG.Rayon dépuisement|Rayon d'épuisement]]* (DD17)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 20, **Con** 10, **Int** 15, **Sag** 10, **Cha** 18}
 {s:BDTexte|**BBA** +1, **BMO** -5, **DMD** 10}
 {s:BDTexte|**Dons** Science de l'initiative, Attaque en finesse}
-{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +11, [Bluff](./../Pathfinder-RPG/Bluff.md) +10, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (donjons) +5, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +23, [Évasion](./../Pathfinder-RPG/Évasion.md) +11, [Intimidation](./../Pathfinder-RPG/Intimidation.md) +7, [Perception](./../Pathfinder-RPG/Perception.md) +6, [Vol](./../Pathfinder-RPG/Vol.md) +23 ; **Modificateurs raciaux** : [Discrétion](./../Pathfinder-RPG/Discrétion.md) +6}
+{s:BDTexte|**Compétences** [[pathfinder-RPG.Acrobaties|Acrobaties]] +11, [[pathfinder-RPG.Bluff|Bluff]] +10, [[pathfinder-RPG.Connaissances|Connaissances]] (donjons) +5, [[pathfinder-RPG.Discrétion|Discrétion]] +23, [[pathfinder-RPG.Évasion|Évasion]] +11, [[pathfinder-RPG.Intimidation|Intimidation]] +7, [[pathfinder-RPG.Perception|Perception]] +6, [[pathfinder-RPG.Vol|Vol]] +23 ; **Modificateurs raciaux** : [[pathfinder-RPG.Discrétion|Discrétion]] +6}
 {s:BDTexte|**Langues** commun, elfique, sylvestre }
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes ou tempérées, Faerie}
@@ -44,5 +44,5 @@ LastModified: 2015-12-09 16:46
 
 Les fées sombres sont des êtres sournois et vicieux qui aiment apporter la mort et les ténèbres. Elles n'aiment rien tant qu'achever une créature mourante après avoir fait tomber sur elle un voile de ténèbres. Elles sont sans surprise inféodées à la cour invisible des fées.
 
-Un lanceur de sort de niveau 7, d'alignement chaotique mauvais et pourvu du don [familier supérieur](./../Pathfinder-RPG/Familier supérieur.md) peut se lier à une fée sombre.
+Un lanceur de sort de niveau 7, d'alignement chaotique mauvais et pourvu du don [[pathfinder-RPG.familier supérieur|familier supérieur]] peut se lier à une fée sombre.
 </div></td></tr></table>

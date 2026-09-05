@@ -40,18 +40,18 @@ En plus de cette diversité au niveau des professions, on trouve chez les nains 
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Constitution](./Constitution.md), +2 [Sagesse](./Sagesse.md), -2 [Charisme](./Charisme.md).** Les nains sont robustes et sages, mais un brin bougons.
-- **Taille M.** Les nains sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni malus ni bonus liés à la taille.
-- **Lentement mais sûrement.** Les nains ont une [vitesse de base](./VD.md) de 6 mètres, mais elle ne varie jamais, quelle que soit l’armure ou le poids qu’ils portent.
-- **Vision dans le noir.** Les nains [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
-- **Entraînement défensif.** Un nain gagne un bonus d’esquive de +4 à la [CA](./CA.md) contre les créatures de sous-type [géant](./sous-type géant.md).
-- **Avarice.** Les nains gagnent un bonus racial de +2 aux tests d’[Estimation](./Estimation.md) pour déterminer le prix des marchandises non magiques qui incluent des métaux précieux ou des gemmes.
-- **Haine.** Les nains gagnent un bonus racial de +1 aux [jets d’attaque](./jet dattaque.md) contre les créatures [humanoïdes](./type Humanoïde.md) de sous-type [orque](./sous-type orque.md) et [gobelinoïde](./sous-type gobelinoïde.md), car ils ont reçu un entraînement spécial pour lutter contre ces ennemis tant haïs.
-- **Robuste.** Les nains gagnent un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) contre le [poison](./Poisons.md), les sorts et les [pouvoirs magiques](./Pouvoirs magiques (capacité).md).
-- **Stabilité.** Les nains gagnent un bonus de +4 au [DMD](./DMD.md) quand ils sont debout sur le sol et tentent de résister à une [bousculade](./bousculade.md) ou un [croc-en-jambe](./croc-en-jambe.md).
-- **Connaissance de la pierre.** Les nains gagnent un bonus de +2 aux tests de [Perception](./Perception.md) quand il s’agit de remarquer un ouvrage de maçonnerie inhabituel, comme un piège ou une porte cachée, situé dans un mur ou un sol de pierre. Ils ont droit à un test pour remarquer ce détail quand ils passent à moins de 3 mètres, qu’ils cherchent activement quelque chose ou non.
-- **Armes familières.** Les nains sont formés au maniement des [haches d’armes](./Hache darmes (arme).md), des [pics de guerre lourds](./pic de guerre lourd (arme).md) et des [marteaux de guerre](./marteau de guerre (arme).md). Ils considèrent toute arme qui porte la mention « nain » dans son nom comme une [arme de guerre](./arme de guerre.md).
-- **Langues.** Les nains commencent le jeu en parlant le commun et le nain. Ceux qui possèdent une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues issues de la liste suivante : commun des profondeurs, géant, gnome, gobelin, orque et terreux.
+- **+2 [[Constitution]], +2 [[Sagesse]], -2 [[Charisme]].** Les nains sont robustes et sages, mais un brin bougons.
+- **Taille M.** Les nains sont des créatures de [[taille M]] qui ne reçoivent ni malus ni bonus liés à la taille.
+- **Lentement mais sûrement.** Les nains ont une [[VD|vitesse de base]] de 6 mètres, mais elle ne varie jamais, quelle que soit l’armure ou le poids qu’ils portent.
+- **Vision dans le noir.** Les nains [[Vision dans le noir (capacité)|voient dans le noir]] à 18 mètres.
+- **Entraînement défensif.** Un nain gagne un bonus d’esquive de +4 à la [[CA]] contre les créatures de sous-type [[sous-type géant|géant]].
+- **Avarice.** Les nains gagnent un bonus racial de +2 aux tests d’[[Estimation]] pour déterminer le prix des marchandises non magiques qui incluent des métaux précieux ou des gemmes.
+- **Haine.** Les nains gagnent un bonus racial de +1 aux [[jet dattaque|jets d’attaque]] contre les créatures [[type Humanoïde|humanoïdes]] de sous-type [[sous-type orque|orque]] et [[sous-type gobelinoïde|gobelinoïde]], car ils ont reçu un entraînement spécial pour lutter contre ces ennemis tant haïs.
+- **Robuste.** Les nains gagnent un bonus racial de +2 aux [[jds|jets de sauvegarde]] contre le [[Poisons|poison]], les sorts et les [[Pouvoirs magiques (capacité)|pouvoirs magiques]].
+- **Stabilité.** Les nains gagnent un bonus de +4 au [[DMD]] quand ils sont debout sur le sol et tentent de résister à une [[bousculade]] ou un [[croc-en-jambe]].
+- **Connaissance de la pierre.** Les nains gagnent un bonus de +2 aux tests de [[Perception]] quand il s’agit de remarquer un ouvrage de maçonnerie inhabituel, comme un piège ou une porte cachée, situé dans un mur ou un sol de pierre. Ils ont droit à un test pour remarquer ce détail quand ils passent à moins de 3 mètres, qu’ils cherchent activement quelque chose ou non.
+- **Armes familières.** Les nains sont formés au maniement des [[hache darmes (arme)|haches d’armes]], des [[pic de guerre lourd (arme)|pics de guerre lourds]] et des [[marteau de guerre (arme)|marteaux de guerre]]. Ils considèrent toute arme qui porte la mention « nain » dans son nom comme une [[arme de guerre]].
+- **Langues.** Les nains commencent le jeu en parlant le commun et le nain. Ceux qui possèdent une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues issues de la liste suivante : commun des profondeurs, géant, gnome, gobelin, orque et terreux.
 
 </div>
 
@@ -60,52 +60,52 @@ En plus de cette diversité au niveau des professions, on trouve chez les nains 
 La plupart des gens pensent que les nains forment une race assez homogène, mais de nombreux clans ont dû s’adapter au fil des ans pour survivre dans des environnements aussi rudes que variés. Les options suivantes représentent une partie de ces adaptations et sont disponibles pour tous les personnages nains. Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux nains standard, mais consultez d’abord votre MJ.
 
 <u>*Remplace « avarice » :*</u>
-- **Artisan.** Les nains sont connus pour leurs capacités supérieures en artisanat quand il s’agit de métallurgie et de travail de la pierre. Les nains dotés de ce trait racial reçoivent un bonus de +2 aux tests d’[Artisanat](./Artisanat.md) ou de [Profession](./Profession.md) liés à la pierre ou au métal. Ce trait remplace avarice.
-- **Détenteur du savoir.** Les nains conservent des archives très complètes sur leur histoire et celle du monde qui les entoure. Ceux qui possèdent ce trait racial reçoivent un bonus racial de +2 aux tests de [Connaissances](./Connaissances.md) (histoire) qui concernent leur race ou celle de leurs ennemis. Ils peuvent faire ces tests même sans formation. Ce trait remplace avarice.
+- **Artisan.** Les nains sont connus pour leurs capacités supérieures en artisanat quand il s’agit de métallurgie et de travail de la pierre. Les nains dotés de ce trait racial reçoivent un bonus de +2 aux tests d’[[Artisanat]] ou de [[Profession]] liés à la pierre ou au métal. Ce trait remplace avarice.
+- **Détenteur du savoir.** Les nains conservent des archives très complètes sur leur histoire et celle du monde qui les entoure. Ceux qui possèdent ce trait racial reçoivent un bonus racial de +2 aux tests de [[Connaissances]] (histoire) qui concernent leur race ou celle de leurs ennemis. Ils peuvent faire ces tests même sans formation. Ce trait remplace avarice.
 
 <u>*Remplace « avarice », « haine » et « robuste » :*</u>
-- {s:cs}{s:ISR}**Survivant de siège.** Les nains qui se sont installés dans les Citadelles du ciel sont entraînés à survivre aux sièges et à servir de gardes vigilants. Ils gagnent [Endurance](./Endurance.md) comme don supplémentaire. De plus, pendant les rounds où ils ne se sont pas déplacés, ils bénéficient d'un bonus racial de +1 aux [jets d'attaque](./jet dattaque.md) contre les adversaires qui ne se sont également pas déplacés depuis leur dernier tour. Ce trait racial remplace avarice, haine et robuste.
+- {s:cs}{s:ISR}**Survivant de siège.** Les nains qui se sont installés dans les Citadelles du ciel sont entraînés à survivre aux sièges et à servir de gardes vigilants. Ils gagnent [[Endurance]] comme don supplémentaire. De plus, pendant les rounds où ils ne se sont pas déplacés, ils bénéficient d'un bonus racial de +1 aux [[jet dattaque|jets d'attaque]] contre les adversaires qui ne se sont également pas déplacés depuis leur dernier tour. Ce trait racial remplace avarice, haine et robuste.
 
 <u>*Remplace « avarice » et « robuste » :*</u>
-- {s:cs}{s:ISR}**Soutien spirituel.** Les nains accordent une grande importance à la loyauté et à la foi, et leurs divinités les récompensent en conséquence. Ils bénéficient d'un bonus racial de +1 au [niveau de lanceur de sorts](./NLS.md) lorsqu'ils lancent des sorts de [invocation (guérison)](./branche guérison.md) sur des alliés. Ce trait racial remplace avarice et robuste.
+- {s:cs}{s:ISR}**Soutien spirituel.** Les nains accordent une grande importance à la loyauté et à la foi, et leurs divinités les récompensent en conséquence. Ils bénéficient d'un bonus racial de +1 au [[NLS|niveau de lanceur de sorts]] lorsqu'ils lancent des sorts de [[branche guérison|invocation (guérison)]] sur des alliés. Ce trait racial remplace avarice et robuste.
 
 <u>*Remplace « connaissance de la pierre » :*</u>
-- **Chantepierre.** L’affinité que les nains ressentent pour la pierre donne des pouvoirs supplémentaires à certains d’entre eux. Les nains qui possèdent ce trait racial sont considérés comme étant d’un niveau de plus qu’ils ne le sont quand ils lancent des sorts du [registre](./Registre.md) de la terre ou qu’ils utilisent des pouvoirs du [domaine de la Terre](./Domaine de la Terre.md), des pouvoirs de lignage d’ensorceleur [élémentaire de terre](./lignage Élémentaire.md) ou [des profondeurs](./lignage des profondeurs.md) ou des révélations d’oracle du [mystère des pierres](./Mystère des pierres.md). Ce trait ne leur donne pas accès aux pouvoirs basés sur le niveau en avance, il affecte seulement les pouvoirs qu’ils peuvent utiliser sans lui. Ce trait remplace connaissance de la pierre.
-- **Enjambeur de rochers.** Les nains qui possèdent ce trait racial savent négocier les terrains rocheux. Ils ignorent le [terrain difficile](./terrain difficile.md) lié aux décombres, à un sol accidenté ou à des escaliers abrupts quand ils font un [pas de placement](./Pas de placement.md). Ce trait remplace connaissance de la pierre.
+- **Chantepierre.** L’affinité que les nains ressentent pour la pierre donne des pouvoirs supplémentaires à certains d’entre eux. Les nains qui possèdent ce trait racial sont considérés comme étant d’un niveau de plus qu’ils ne le sont quand ils lancent des sorts du [[registre]] de la terre ou qu’ils utilisent des pouvoirs du [[domaine de la Terre]], des pouvoirs de lignage d’ensorceleur [[lignage élémentaire|élémentaire de terre]] ou [[lignage des profondeurs|des profondeurs]] ou des révélations d’oracle du [[mystère des pierres]]. Ce trait ne leur donne pas accès aux pouvoirs basés sur le niveau en avance, il affecte seulement les pouvoirs qu’ils peuvent utiliser sans lui. Ce trait remplace connaissance de la pierre.
+- **Enjambeur de rochers.** Les nains qui possèdent ce trait racial savent négocier les terrains rocheux. Ils ignorent le [[terrain difficile]] lié aux décombres, à un sol accidenté ou à des escaliers abrupts quand ils font un [[pas de placement]]. Ce trait remplace connaissance de la pierre.
 
 <u>*Remplace « connaissance de la pierre », « entraînement défensif » et « haine » :*</u>
-- **Barbe salée.** Les nains construisent parfois des villes de fer sur des côtes accidentées et les habitants de ces cités gagnent un bonus de +2 aux tests de [Profession](./Profession.md) (marin) et de [Survie](./Survie.md) en mer. Ils gagnent un bonus racial de +1 aux [jets d’attaque](./jet dattaque.md) et un bonus d’esquive de +2 à la [CA](./CA.md) contre les créatures de sous-type [aquatique](./sous-type aquatique.md) ou [eau](./sous-type Eau.md). Leur trait racial avarice s’applique seulement aux trésors trouvés en mer ou sous les flots, mais à tous ces trésors, qu’ils contiennent des métaux et des gemmes ou non. Ce trait remplace entraînement défensif, haine et connaissance de la pierre.
-- **Ennemi des dragons.** Les nains qui possèdent ce trait racial gagnent un bonus de +1 aux [jets d’attaque](./jet dattaque.md) ainsi qu'un bonus d’esquive de +2 à la [CA](./CA.md) et aux [jets de sauvegarde](./JDS.md) contre les [pouvoirs extraordinaires, surnaturels et magiques](./Pouvoirs spéciaux.md) des [dragons](./dragon.md). Ils gagnent aussi un bonus racial de +2 aux tests de [Connaissances](./Connaissances.md) (mystères) pour identifier les dragons et n’ont pas besoin d'être formé pour faire ces tests. Ce trait racial remplace entraînement défensif, haine et connaissance de la pierre.
-- {s:cs}{s:ISR}**Négociateur stoïque.** Certains nains, notamment ceux originaires de Portemarchande au Druma, utilisent leur obstination inébranlable pour obtenir ce qu'ils veulent lors des négociations et autres affaires. Ils bénéficient d'un bonus racial de +2 aux tests de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md) et de [Profession](./Profession.md) (marchand). Ce trait racial remplace connaissance de la pierre, entraînement défensif et haine.
-- **Sentinelle du ciel.** Comme les nains ont une grande affinité avec la terre, ils se méfient des attaques venues d’en haut. Les ennemis qui se trouvent en hauteur par rapport aux nains qui possèdent ce trait ne gagnent pas de [bonus](./Modificateurs de combat.md) aux jets d’attaque, en revanche, ces nains gagnent un bonus racial de +1 aux [jets d’attaque](./jet dattaque.md), un bonus d’esquive de +2 à la [CA](./CA.md) et un bonus de +2 aux tests de [Perception](./Perception.md) contre les créatures qui volent. Ce trait racial remplace entraînement défensif, haine et connaissance de la pierre.
+- **Barbe salée.** Les nains construisent parfois des villes de fer sur des côtes accidentées et les habitants de ces cités gagnent un bonus de +2 aux tests de [[Profession]] (marin) et de [[Survie]] en mer. Ils gagnent un bonus racial de +1 aux [[jet dattaque|jets d’attaque]] et un bonus d’esquive de +2 à la [[CA]] contre les créatures de sous-type [[sous-type aquatique|aquatique]] ou [[sous-type eau|eau]]. Leur trait racial avarice s’applique seulement aux trésors trouvés en mer ou sous les flots, mais à tous ces trésors, qu’ils contiennent des métaux et des gemmes ou non. Ce trait remplace entraînement défensif, haine et connaissance de la pierre.
+- **Ennemi des dragons.** Les nains qui possèdent ce trait racial gagnent un bonus de +1 aux [[jet dattaque|jets d’attaque]] ainsi qu'un bonus d’esquive de +2 à la [[CA]] et aux [[jds|jets de sauvegarde]] contre les [[Pouvoirs spéciaux|pouvoirs extraordinaires, surnaturels et magiques]] des [[Dragon|dragons]]. Ils gagnent aussi un bonus racial de +2 aux tests de [[Connaissances]] (mystères) pour identifier les dragons et n’ont pas besoin d'être formé pour faire ces tests. Ce trait racial remplace entraînement défensif, haine et connaissance de la pierre.
+- {s:cs}{s:ISR}**Négociateur stoïque.** Certains nains, notamment ceux originaires de Portemarchande au Druma, utilisent leur obstination inébranlable pour obtenir ce qu'ils veulent lors des négociations et autres affaires. Ils bénéficient d'un bonus racial de +2 aux tests de [[Bluff]], de [[Diplomatie]] et de [[Profession]] (marchand). Ce trait racial remplace connaissance de la pierre, entraînement défensif et haine.
+- **Sentinelle du ciel.** Comme les nains ont une grande affinité avec la terre, ils se méfient des attaques venues d’en haut. Les ennemis qui se trouvent en hauteur par rapport aux nains qui possèdent ce trait ne gagnent pas de [[modificateurs de combat|bonus]] aux jets d’attaque, en revanche, ces nains gagnent un bonus racial de +1 aux [[jet dattaque|jets d’attaque]], un bonus d’esquive de +2 à la [[CA]] et un bonus de +2 aux tests de [[Perception]] contre les créatures qui volent. Ce trait racial remplace entraînement défensif, haine et connaissance de la pierre.
 
 <u>*Remplace « entraînement défensif » :*</u>
-- **Guerrier des profondeurs.** Les nains qui possèdent ce trait grandissent en affrontant les abominations qui vivent loin sous la surface et reçoivent un bonus d’esquive de +2 à la [CA](./CA.md) contre les créatures de type [aberration](./type Aberration.md) ainsi qu’un bonus racial de +2 aux tests de manœuvres offensives pour initier ou maintenir une [lutte](./lutte.md) contre ces créatures. Ce trait racial remplace entraînement défensif.
+- **Guerrier des profondeurs.** Les nains qui possèdent ce trait grandissent en affrontant les abominations qui vivent loin sous la surface et reçoivent un bonus d’esquive de +2 à la [[CA]] contre les créatures de type [[type Aberration|aberration]] ainsi qu’un bonus racial de +2 aux tests de manœuvres offensives pour initier ou maintenir une [[lutte]] contre ces créatures. Ce trait racial remplace entraînement défensif.
 
 <u>*Remplace « entraînement défensif » et « haine » :*</u>
-- {s:cs}{s:ISR}**Destructeur de sort.** Les familles naines qui sont menacées par des utilisateurs de magie hostiles, notamment ceux qui doivent faire face à des ennemis [duergars](./duergar (race).md), s'entraînent activement à contrer les lanceurs de sorts. Ils bénéficient d'un bonus racial de +1 aux [jets d'attaque](./jet dattaque.md) contre les créatures en train de lancer des sorts ou d'utiliser des pouvoirs magiques. Ce trait racial remplace entraînement défensif et haine.
-- {s:cs}{s:ISR}**Enfant scorie.** Les nains issus de familles déshonorées doivent ajouter « scorie de- », « -scoriun » ou « -scoriam » à leur nom de famille pour indiquer leur statut honteux. Ces nains sont souvent bannis ou ostracisés ; ils sont contraints à vivre en marge des colonies naines ou dans de sombres régions sauvages comme les montagnes Kodar. Ils bénéficient d'un bonus racial de +2 aux tests de [Discrétion](./Discrétion.md) et de [Survie](./Survie.md). Ce trait racial remplace entraînement défensif et haine.
-- {s:cs}{s:ISR}**Rancune tenace.** Les nains sont célèbres pour leur rancune particulièrement durable. Ceux qui sont à la hauteur de cette réputation bénéficient d'un bonus racial de +1 aux [jets d'attaque](./jet dattaque.md) contre chaque créature unique qui les ont attaqué il y a un jour ou plus. Ce trait racial remplace entraînement défensif et haine.
+- {s:cs}{s:ISR}**Destructeur de sort.** Les familles naines qui sont menacées par des utilisateurs de magie hostiles, notamment ceux qui doivent faire face à des ennemis [[Duergar (race)|duergars]], s'entraînent activement à contrer les lanceurs de sorts. Ils bénéficient d'un bonus racial de +1 aux [[jet dattaque|jets d'attaque]] contre les créatures en train de lancer des sorts ou d'utiliser des pouvoirs magiques. Ce trait racial remplace entraînement défensif et haine.
+- {s:cs}{s:ISR}**Enfant scorie.** Les nains issus de familles déshonorées doivent ajouter « scorie de- », « -scoriun » ou « -scoriam » à leur nom de famille pour indiquer leur statut honteux. Ces nains sont souvent bannis ou ostracisés ; ils sont contraints à vivre en marge des colonies naines ou dans de sombres régions sauvages comme les montagnes Kodar. Ils bénéficient d'un bonus racial de +2 aux tests de [[Discrétion]] et de [[Survie]]. Ce trait racial remplace entraînement défensif et haine.
+- {s:cs}{s:ISR}**Rancune tenace.** Les nains sont célèbres pour leur rancune particulièrement durable. Ceux qui sont à la hauteur de cette réputation bénéficient d'un bonus racial de +1 aux [[jet dattaque|jets d'attaque]] contre chaque créature unique qui les ont attaqué il y a un jour ou plus. Ce trait racial remplace entraînement défensif et haine.
 
 <u>*Remplace « haine » :*</u>
-- **Ancienne inimitié.** Cela fait bien longtemps que les nains sont en conflit avec les elfes, en particulier avec les drows tant détestés. Un nain qui choisit ce trait racial reçoit un bonus racial de +1 aux [Jet d’attaque](./jet dattaque.md) contre les créatures [humanoïdes](./type Humanoïde.md) de sous-type [elfe](./sous-type elfe.md). Ce trait remplace haine.
-- **Chasseur de géants.** Les nains qui possèdent ce trait racial gagnent un bonus de +1 aux [jets d’attaque](./jet dattaque.md) contre les [humanoïdes](./type Humanoïde.md) de sous-type [géant](./sous-type géant.md). De plus, ils gagnent un bonus de +2 aux tests de [Survie](./Survie.md) pour trouver et suivre une piste laissée par des humanoïdes de sous-type géant. Ce trait remplace haine.
+- **Ancienne inimitié.** Cela fait bien longtemps que les nains sont en conflit avec les elfes, en particulier avec les drows tant détestés. Un nain qui choisit ce trait racial reçoit un bonus racial de +1 aux [[jet dattaque|Jet d’attaque]] contre les créatures [[type Humanoïde|humanoïdes]] de sous-type [[sous-type elfe|elfe]]. Ce trait remplace haine.
+- **Chasseur de géants.** Les nains qui possèdent ce trait racial gagnent un bonus de +1 aux [[jet dattaque|jets d’attaque]] contre les [[type Humanoïde|humanoïdes]] de sous-type [[sous-type géant|géant]]. De plus, ils gagnent un bonus de +2 aux tests de [[Survie]] pour trouver et suivre une piste laissée par des humanoïdes de sous-type géant. Ce trait remplace haine.
 
 <u>*Remplace « langues » :*</u>
-- **Xénophobe.** Les nains isolationnistes détestent les humanoïdes des autres races. Ils ne parlent que le nain et ne prennent pas de langue supplémentaire, même s’ils ont une valeur d’[Intelligence](./Intelligence.md) élevée. De plus, ils n’apprennent qu’une langue par tranche de 2 points en [Linguistique](./Linguistique.md). En revanche, leur nature méfiante leur donne un bonus de +1 contre les [effets mentaux](./effet mental.md), sauf les effets de peur. Ce trait remplace les langues du nain.
+- **Xénophobe.** Les nains isolationnistes détestent les humanoïdes des autres races. Ils ne parlent que le nain et ne prennent pas de langue supplémentaire, même s’ils ont une valeur d’[[Intelligence]] élevée. De plus, ils n’apprennent qu’une langue par tranche de 2 points en [[Linguistique]]. En revanche, leur nature méfiante leur donne un bonus de +1 contre les [[effet mental|effets mentaux]], sauf les effets de peur. Ce trait remplace les langues du nain.
 
 <u>*Remplace « robuste » :*</u>
-- **Borné.** Les nains sont réputés être têtus. Ceux qui possèdent ce trait reçoivent un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) pour résister aux sorts et [pouvoirs magiques](./Pouvoirs magiques (capacité).md) d’[enchantement (charme)](./branche charme.md) et d’[enchantement (coercition)](./branche coercition.md). De plus, s’ils ratent un de ces jets, ils ont le droit d’en refaire un, 1 round plus tard, pour mettre prématurément un terme à l’effet (à condition qu’il dure plus d’un round). Ce second jet a le même [DD](./DD.md) que le premier. Si le nain dispose d’un pouvoir similaire issu d’une autre source (comme l’[esprit fuyant](./Talents.md#ESPRITFUYANT) du roublard), il ne peut en utiliser qu’un des deux par round, mais il peut se servir du second au deuxième round s’il a raté son jet avec le premier pouvoir. Ce trait remplace robuste.
-- {s:cs}{s:ISR}**Inarrêtable.** Certains nains s'entraînent depuis leur plus jeune âge à surpasser les orques sur le champ de bataille. Ils gagnent [Robustesse](./Robustesse.md) comme don supplémentaire et bénéficient d'un bonus racial de +1 aux jets de [Vigueur](./Vigueur.md). Ce trait racial remplace robuste.
-- **Résistant à la magie.** Les clans nains les plus anciens ont développé une résistance particulière à la magie. Les nains qui disposent de ce trait racial gagnent une [résistance à la magie](./RM.md) de 5 + leur niveau de personnage. Ils peuvent la baisser pendant 1 round par une [action simple](./Action simple.md). Les nains qui possèdent ce trait racial subissent un malus de -2 aux tests de [concentration](./concentration.md) liés aux [sorts profanes](./Magie profane.md). Ce trait remplace robuste.
+- **Borné.** Les nains sont réputés être têtus. Ceux qui possèdent ce trait reçoivent un bonus racial de +2 aux [[jds|jets de sauvegarde]] pour résister aux sorts et [[Pouvoirs magiques (capacité)|pouvoirs magiques]] d’[[branche charme|enchantement (charme)]] et d’[[branche coercition|enchantement (coercition)]]. De plus, s’ils ratent un de ces jets, ils ont le droit d’en refaire un, 1 round plus tard, pour mettre prématurément un terme à l’effet (à condition qu’il dure plus d’un round). Ce second jet a le même [[DD]] que le premier. Si le nain dispose d’un pouvoir similaire issu d’une autre source (comme l’[[Talents#ESPRITFUYANT|esprit fuyant]] du roublard), il ne peut en utiliser qu’un des deux par round, mais il peut se servir du second au deuxième round s’il a raté son jet avec le premier pouvoir. Ce trait remplace robuste.
+- {s:cs}{s:ISR}**Inarrêtable.** Certains nains s'entraînent depuis leur plus jeune âge à surpasser les orques sur le champ de bataille. Ils gagnent [[Robustesse]] comme don supplémentaire et bénéficient d'un bonus racial de +1 aux jets de [[Vigueur]]. Ce trait racial remplace robuste.
+- **Résistant à la magie.** Les clans nains les plus anciens ont développé une résistance particulière à la magie. Les nains qui disposent de ce trait racial gagnent une [[RM|résistance à la magie]] de 5 + leur niveau de personnage. Ils peuvent la baisser pendant 1 round par une [[action simple]]. Les nains qui possèdent ce trait racial subissent un malus de -2 aux tests de [[concentration]] liés aux [[magie profane|sorts profanes]]. Ce trait remplace robuste.
 
 <u>*Remplace « stabilité » :*</u>
-- **Implacable.** Les nains sont doués pour se frayer un chemin sur les champs de bataille et repousser leurs adversaires facilement. Ceux qui possèdent ce trait racial reçoivent un bonus racial de +2 aux tests de manœuvre offensive pour [bousculer](./bousculade.md) ou [renverser](./renversement.md) un adversaire. Ce bonus s’applique uniquement si le nain et son adversaire se tiennent debout sur le sol. Ce trait remplace stabilité.
-- **Montagnard.** Les nains des montagnes sont particulièrement doués pour l’escalade et pour se déplacer sur d’étroites corniches rocheuses. Ceux qui possèdent ce trait sont immunisés contre le vertige et ne perdent pas leur bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) quand ils font un test d’[Escalade](./Escalade.md) ou d’[Acrobaties](./Acrobaties.md) pour traverser une surface étroite ou glissante. Ce trait remplace stabilité.
+- **Implacable.** Les nains sont doués pour se frayer un chemin sur les champs de bataille et repousser leurs adversaires facilement. Ceux qui possèdent ce trait racial reçoivent un bonus racial de +2 aux tests de manœuvre offensive pour [[bousculade|bousculer]] ou [[renversement|renverser]] un adversaire. Ce bonus s’applique uniquement si le nain et son adversaire se tiennent debout sur le sol. Ce trait remplace stabilité.
+- **Montagnard.** Les nains des montagnes sont particulièrement doués pour l’escalade et pour se déplacer sur d’étroites corniches rocheuses. Ceux qui possèdent ce trait sont immunisés contre le vertige et ne perdent pas leur bonus de [[Dextérité]] à la [[CA]] quand ils font un test d’[[Escalade]] ou d’[[Acrobaties]] pour traverser une surface étroite ou glissante. Ce trait remplace stabilité.
 
 <u>*Remplace « vision dans le noir » :*</u>
-- **Œil du mineur.** Un nain doué de ce trait racial voit la portée de sa [vision dans le noir](./vision dans le noir (capacité).md) passer à 27 mètres. En revanche, il est automatiquement [ébloui](./Ébloui.md) dans les zones de [lumière vive](./Exploration.md#VISIONLUMIERE) et reçoit un malus de -2 aux [jets de sauvegarde](./JDS.md) contre les effets du [registre](./Registre.md) de la lumière. Ce trait remplace vision dans le noir.
-- **Survivre à la surface.** Certains nains sont restés si souvent à l’air libre qu’ils ont perdu leur capacité à voir dans le noir. En revanche, ils se sont habitués à un environnement extrême, ce qui leur permet de traiter le [vent](./Vents.md) (pour savoir s’ils sont ralentis ou emportés) et la [chaleur](./Dangers naturels.md#CHALEUR) ou le [froid](./Dangers naturels.md#FROID) (un des deux, au choix) comme étant d'une sévérité moindre d'un cran. Ce trait remplace vision dans le noir.
+- **Œil du mineur.** Un nain doué de ce trait racial voit la portée de sa [[Vision dans le noir (capacité)|vision dans le noir]] passer à 27 mètres. En revanche, il est automatiquement [[ébloui]] dans les zones de [[Exploration#VISIONLUMIERE|lumière vive]] et reçoit un malus de -2 aux [[jds|jets de sauvegarde]] contre les effets du [[registre]] de la lumière. Ce trait remplace vision dans le noir.
+- **Survivre à la surface.** Certains nains sont restés si souvent à l’air libre qu’ils ont perdu leur capacité à voir dans le noir. En revanche, ils se sont habitués à un environnement extrême, ce qui leur permet de traiter le [[Vents|vent]] (pour savoir s’ils sont ralentis ou emportés) et la [[Dangers naturels#CHALEUR|chaleur]] ou le [[Dangers naturels#FROID|froid]] (un des deux, au choix) comme étant d'une sévérité moindre d'un cran. Ce trait remplace vision dans le noir.
 
 #### Sous-types raciaux
 Vous pouvez combiner plusieurs traits raciaux alternatifs pour créer une sous-race naine ou une variante raciale, comme suit.
@@ -116,7 +116,7 @@ Vous pouvez combiner plusieurs traits raciaux alternatifs pour créer une sous-r
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -129,100 +129,100 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:AO}**Les nains occultes.** Certaines communautés naines stigmatisent tout particulièrement les pouvoirs psychiques qu’elles associent aux duergars, leurs cousins esclavagistes. Les occultistes forment une exception car ils établissent un lien avec les reliques de l’histoire naine chroniquée. Les spirites nains peuvent entrer en contact avec les esprits des membres de leur race tombés au combat et les médiums nains peuvent développer leurs talents pour entrer en contact avec les grands héros des légendes. En dehors de ces cas, un nain doté d’un potentiel psychique pourra facilement emprunter la voie du cinétiste spécialisé dans l’utilisation des talents sauvages de la terre et du métal.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[Alchimiste](./Alchimiste.md).** Quand l’alchimiste utilise son [mutagène](./Alchimiste.md#MUTAGENE), il gagne un bonus d’armure naturelle de +1/4 à la [CA](./CA.md).
-Beaucoup de nains respectés pratiquent l'alchimie, mais ils sont peu nombreux à endosser véritablement le rôle d'alchimiste, si ce n'est dans le but de créer des bières magiques. Les nains considèrent les [alchimistes](./Alchimiste.md) comme des gens étranges qui méritent le respect, mais qu'il vaut mieux éviter.
+{s:MR}{s:APG}**[[Alchimiste]].** Quand l’alchimiste utilise son [[Alchimiste#MUTAGENE|mutagène]], il gagne un bonus d’armure naturelle de +1/4 à la [[CA]].
+Beaucoup de nains respectés pratiquent l'alchimie, mais ils sont peu nombreux à endosser véritablement le rôle d'alchimiste, si ce n'est dans le but de créer des bières magiques. Les nains considèrent les [[alchimiste|alchimistes]] comme des gens étranges qui méritent le respect, mais qu'il vaut mieux éviter.
 
-{s:MCA}**[Arcaniste](./Arcaniste.md).** Ajoute 1/4 au niveau de classe effectif de l’arcaniste quand il détermine les effets des [exploitations](./Arcaniste.md#EXPLOITATION) d’arcaniste barrière arcanique et arme arcanique.
+{s:MCA}**[[Arcaniste]].** Ajoute 1/4 au niveau de classe effectif de l’arcaniste quand il détermine les effets des [[Arcaniste#EXPLOITATION|exploitations]] d’arcaniste barrière arcanique et arme arcanique.
 
-{s:MR}{s:APG}**[Barbare](./Barbare.md).** Le barbare gagne +1 round de [rage](./Barbare.md#RAGEDUBERZERKER) par jour.
+{s:MR}{s:APG}**[[Barbare]].** Le barbare gagne +1 round de [[Barbare#RAGEDUBERZERKER|rage]] par jour.
 Les barbares nains, que leurs frères appellent généralement berserkers, forment une partie importante des armées naines. Certains deviennent aventuriers et partent en solitaires, bien souvent à la recherche de plus grands défis.
 
-{s:MR}{s:APG}**[Barde](./Barde.md).** Les [risques d’échec des sorts profanes](./Caractéristiques des armures.md#RISQUEECHECPROFANE) de barde en [armure intermédiaire](./armure intermédiaire.md) diminuent de 1 %. Quand cette réduction atteint 10 %, le barde reçoit [Port des armures intermédiaires](./Port des armures intermédiaires.md) s’il ne l’avait pas encore.
+{s:MR}{s:APG}**[[Barde]].** Les [[Caractéristiques des armures#RISQUEECHECPROFANE|risques d’échec des sorts profanes]] de barde en [[armure intermédiaire]] diminuent de 1 %. Quand cette réduction atteint 10 %, le barde reçoit [[Port des armures intermédiaires]] s’il ne l’avait pas encore.
 Rien n'a plus d'importance aux yeux des nains que leur longue et glorieuse histoire. Les bardes nains en apprennent généralement beaucoup à ce sujet en récitant des histoires et des ballades qui racontent leur passé. Bien sûr, tout bon barde nain connait également une dizaine de chanson à boire.
 
-{s:MCA}**[Bretteur](./Bretteur.md).** Ajoute 1/4 au niveau effectif de classe du bretteur quand il détermine les dégâts supplémentaires de son exploit d’[attaque précise](./Exploits (bretteur).md#ATTAQUEPRECISE) et qu’il manie un [pic de guerre léger](./pic de guerre léger (arme).md) ou un [pic de guerre lourd](./pic de guerre lourd (arme).md). Si le bretteur possède le don [Grâce tranchante](./Grâce tranchante.md) ou bénéficie d’un effet similaire, il considère la [hache d'armes](./Hache darmes (arme).md) ou la [hachette](./hachette (arme).md) comme une arme de corps à corps perforante et bénéficie de cet avantage quand il manie l’arme associée au don.
+{s:MCA}**[[Bretteur]].** Ajoute 1/4 au niveau effectif de classe du bretteur quand il détermine les dégâts supplémentaires de son exploit d’[[Exploits (bretteur)#ATTAQUEPRECISE|attaque précise]] et qu’il manie un [[pic de guerre léger (arme)|pic de guerre léger]] ou un [[pic de guerre lourd (arme)|pic de guerre lourd]]. Si le bretteur possède le don [[Grâce tranchante]] ou bénéficie d’un effet similaire, il considère la [[hache darmes (arme)|hache d'armes]] ou la [[hachette (arme)|hachette]] comme une arme de corps à corps perforante et bénéficie de cet avantage quand il manie l’arme associée au don.
 
-{s:MCA}**[Chaman](./Chaman.md).** Ajoute 1/4 au bonus d’armure naturelle de l’[esprit animal](./Chaman.md#ESPRITANIMAL) du chaman.
+{s:MCA}**[[Chaman]].** Ajoute 1/4 au bonus d’armure naturelle de l’[[Chaman#ESPRITANIMAL|esprit animal]] du chaman.
 
-{s:MCA}**[Chasseur](./Chasseur.md).** Ajoute un bonus de +1/2 aux tests d’[empathie sauvage](./Chasseur.md#EMPATHIESAUVAGE) que le chasseur effectue pour influencer les [animaux](./type Animal.md) et les [créatures magiques](./type Créature magique.md) vivant sous terre.
+{s:MCA}**[[Chasseur]].** Ajoute un bonus de +1/2 aux tests d’[[Chasseur#EMPATHIESAUVAGE|empathie sauvage]] que le chasseur effectue pour influencer les [[type Animal|animaux]] et les [[type Créature magique|créatures magiques]] vivant sous terre.
 
-{s:MR}{s:APG}**[Chevalier](./Chevalier.md).** Le chevalier gagne un bonus de +1/2 aux dégâts contre la cible de son [défi](./Chevalier.md#DEFI).
+{s:MR}{s:APG}**[[Chevalier]].** Le chevalier gagne un bonus de +1/2 aux dégâts contre la cible de son [[chevalier#DEFI|défi]].
 Les chevaliers nains sont quasiment inexistants. Les chevaliers nains sont presque tous des habitants de la surface qui montent des poneys ou des sangliers géants. Comme on peut s'y attendre, de nombreux nains considèrent les chevaliers comme des gens étranges qui ne sont pas dignes de confiance.
 
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 
-[→](./FAQ- Aventures occultes.md#1) Bonus de classe de prédilection de cinétiste et bouillonnement élémentaire : Le bonus de classe de prédilection des elfes mentionne qu’il s’applique lorsque le bouillonnement élémentaire s’applique, mais celui des demi-orques et des nains ne le précisent pas. Devrait-ils aussi ne s’appliquer que quand le bouillonnement élémentaire s’applique ?**'
+[[FAQ- Aventures occultes#1|→]] Bonus de classe de prédilection de cinétiste et bouillonnement élémentaire : Le bonus de classe de prédilection des elfes mentionne qu’il s’applique lorsque le bouillonnement élémentaire s’applique, mais celui des demi-orques et des nains ne le précisent pas. Devrait-ils aussi ne s’appliquer que quand le bouillonnement élémentaire s’applique ?**'
 
-Oui, ils devraient <u>[tous](./Demi-orque.md)</u> <u>[deux](./Nain.md)</u> ne s’appliquer que lorsque le [bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTELEMENTAIRE) s’applique, comme pour le bonus de classe de prédilection des [elfes](./Elfe.md). Cela sera reflété dans le prochain errata.}{s:AO}**[Cinétiste](./Cinétiste.md).** Le personnage inflige 1/3 point de dégâts supplémentaires aux [explosions de terre](./talents sauvages.md#EXPLOSIONDETERRE) qui infligent des dégâts et qui bénéficient du bonus conféré par l’aptitude de [bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTÉLÉMENTAIRE) du cinétiste.
+Oui, ils devraient <u>[[Demi-orque|tous]]</u> <u>[[Nain|deux]]</u> ne s’appliquer que lorsque le [[Cinétiste#BOUILLONNEMENTELEMENTAIRE|bouillonnement élémentaire]] s’applique, comme pour le bonus de classe de prédilection des [[Elfe|elfes]]. Cela sera reflété dans le prochain errata.}{s:AO}**[[Cinétiste]].** Le personnage inflige 1/3 point de dégâts supplémentaires aux [[Talents sauvages#EXPLOSIONDETERRE|explosions de terre]] qui infligent des dégâts et qui bénéficient du bonus conféré par l’aptitude de [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|bouillonnement élémentaire]] du cinétiste.
 
-{s:MR}{s:APG}**[Conjurateur](./Conjurateur.md).** Le conjurateur ajoute un bonus d’armure naturelle de +1/4 à la [CA](./CA.md) de son [eidolon](./Conjurateur.md#EIDOLON).
-La plupart des nains ne comprennent pas le lien qui unit un conjurateur et son eidolon et, de ce fait, c'est une profession plutôt rare au sein de leur race. Les eidolons des conjurateurs nains ressemblent souvent à des [élémentaires de la Terre](./Élémentaire de la Terre.md) ou à des [golems de fer](./Golem de fer.md).
+{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur ajoute un bonus d’armure naturelle de +1/4 à la [[CA]] de son [[Conjurateur#EIDOLON|eidolon]].
+La plupart des nains ne comprennent pas le lien qui unit un conjurateur et son eidolon et, de ce fait, c'est une profession plutôt rare au sein de leur race. Les eidolons des conjurateurs nains ressemblent souvent à des [[élémentaire de la Terre|élémentaires de la Terre]] ou à des [[golem de fer|golems de fer]].
 
-{s:MR}{s:APG}**[Druide](./Druide.md).** Le druide choisit un [pouvoir de domaine](./Druide.md#PACTEAVECLANATURE) accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [Sagesse](./Sagesse.md). Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Druide]].** Le druide choisit un [[druide#PACTEAVECLANATURE|pouvoir de domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Sagesse]]. Il peut l’utiliser 1/2 fois de plus par jour.
 Comme le sous-sol ne comporte quasiment pas de flore, peu de nains deviennent des druides. Ceux qui se lient avec la nature sont généralement attirés par des formes de vie souterraines ou déménagent vers la surface et adoptent les environnements qu’ils y trouvent.
 
-{s:MCA}**[Enquêteur](./Enquêteur.md).** Ajoute un bonus de +1/4 aux tests de [Perception](./Perception.md) effectués sous terre et un bonus de +1/2 à l’aptitude [sens des pièges](./Enquêteur.md#SENSDESPIEGES) vis-à-vis des pièges de pierre.
+{s:MCA}**[[Enquêteur]].** Ajoute un bonus de +1/4 aux tests de [[Perception]] effectués sous terre et un bonus de +1/2 à l’aptitude [[Enquêteur#SENSDESPIEGES|sens des pièges]] vis-à-vis des pièges de pierre.
 
-{s:MR}{s:APG}**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur ajoute +1/2 aux dégâts des sorts et des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) du [registre](./Registre.md) de l’acide ou de la terre.
+{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur ajoute +1/2 aux dégâts des sorts et des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] du [[registre]] de l’acide ou de la terre.
 Dans la société naine, les rares individus qui tirent leurs pouvoirs de lignages nobles ou liés à des entités bienveillantes sont considérés comme précieux, mais ceux qui sont corrompus par des influences plus sombres sont mis à l’écart.
 
-{s:MR}{s:APG}**[Guerrier](./Guerrier.md).** Le guerrier ajoute un bonus de +1 à son [DMD](./DMD.md) quand il résiste à une [bousculade](./bousculade.md) ou un [croc-en-jambe](./croc-en-jambe.md).
+{s:MR}{s:APG}**[[Guerrier]].** Le guerrier ajoute un bonus de +1 à son [[DMD]] quand il résiste à une [[bousculade]] ou un [[croc-en-jambe]].
 Les guerriers nains occupent une position d'autorité et jouissent d'un grand respect dans la plupart des cultures naines. Ils sont bien nécessaires dans les milieux souterrains inhospitaliers. De nombreux nains sont formés au combat dès leur plus jeune âge.
 
-{s:AO}**[Hypnotiseur](./Hypnotiseur.md).** Le personnage augmente de 1/4 point les dégâts supplémentaires infligés par son [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX).
+{s:AO}**[[Hypnotiseur]].** Le personnage augmente de 1/4 point les dégâts supplémentaires infligés par son [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]].
 
-{s:MR}{s:APG}**[Inquisiteur](./Inquisiteur.md).** L’inquisiteur rajoute +1/2 à son niveau quand il détermine les effets d’un type de [jugement](./Inquisiteur.md#JUGEMENT).
+{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur rajoute +1/2 à son niveau quand il détermine les effets d’un type de [[Inquisiteur#JUGEMENT|jugement]].
 Il est très rare (mais pas inédit) qu'un nain trahisse son propre peuple. De ce fait, les rares nains qui deviennent inquisiteurs passent la plupart de leur temps à parcourir le monde et à protéger leur peuple contre les menaces venant de l'extérieur.
 
-{s:cs}{s:UI}**[Justicier](./Justicier.md).** Augmente de +1/2 le bonus d'[Artisanat](./Artisanat.md) du talent [grâce sociale](./talents sociaux.md#GRACESOCIALE).
+{s:cs}{s:UI}**[[Justicier]].** Augmente de +1/2 le bonus d'[[Artisanat]] du talent [[Talents sociaux#GRACESOCIALE|grâce sociale]].
 
-{s:MCA}**[Lutteur](./Lutteur.md).** Quand le lutteur porte une [attaque à mains nues](./attaque à mains nues.md) contre un objet en argile, en pierre ou en métal, sa [solidité](./solidité.md) est réduite de 1 (avec un minimum de 0).
+{s:MCA}**[[Lutteur]].** Quand le lutteur porte une [[attaque à mains nues]] contre un objet en argile, en pierre ou en métal, sa [[solidité]] est réduite de 1 (avec un minimum de 0).
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}{s:APG}**[Magicien](./Magicien.md).** Le magicien choisit un [don de création d’objet](./Dons.md#DONCREATIONDOJET) de sa connaissance. Quand il s’en sert pour créer quelque chose, il produit 200 po de matériel de plus par période de 8 heures (50 po s’il est en pleine aventure). Ceci ne réduit pas le coût de l’objet, juste sa vitesse de fabrication.
+{s:MR}{s:APG}**[[Magicien]].** Le magicien choisit un [[Dons#DONCREATIONDOJET|don de création d’objet]] de sa connaissance. Quand il s’en sert pour créer quelque chose, il produit 200 po de matériel de plus par période de 8 heures (50 po s’il est en pleine aventure). Ceci ne réduit pas le coût de l’objet, juste sa vitesse de fabrication.
 Il n'existe pas de longue tradition de magie profane chez les nains. Ceux qui étudient la magie sont rares, même s'ils sont plus nombreux que les ensorceleurs aux pouvoir innés. Les magiciens nains doivent renoncer aux apprentissages traditionnels nains, ce qui en fait souvent des étranger au sein de leur propre peuple. Les magiciens âgés et sages sont toutefois très respectés.
 
-{s:MR}**[Magus](./Magus.md).** Le magus choisit un [arcane](./Magus.md#ARCANE) qu’il ne peut utiliser qu’une fois par jour. Il ajoute + 1/6 à son nombre d’utilisations quotidiennes. Il doit choisir un autre arcane une fois que le premier est disponible deux fois par jour.
+{s:MR}**[[Magus]].** Le magus choisit un [[magus#ARCANE|arcane]] qu’il ne peut utiliser qu’une fois par jour. Il ajoute + 1/6 à son nombre d’utilisations quotidiennes. Il doit choisir un autre arcane une fois que le premier est disponible deux fois par jour.
 
-{s:AO}**[Médium](./Médium.md).** Le personnage bénéficie d’un bonus de +1/2 aux [jets de sauvegarde](./JDS.md) effectués contre la [possession](./Possession spirituelle.md) et pour arrêter une [canalisation d’apparitions](./Médium.md#CANALISATIONDAPPARITIONS), une [canalisation de sites](./Médium.md#CANALISATIONDESSITES) ou une [grande âme](./Médium.md#GRANDEÂME).
+{s:AO}**[[Médium]].** Le personnage bénéficie d’un bonus de +1/2 aux [[jds|jets de sauvegarde]] effectués contre la [[possession spirituelle|possession]] et pour arrêter une [[médium#CANALISATIONDAPPARITIONS|canalisation d’apparitions]], une [[médium#CANALISATIONDESSITES|canalisation de sites]] ou une [[médium#GRANDEÂME|grande âme]].
 
-{s:MR}{s:APG}**[Moine](./Moine.md).** Quand le moine porte une [attaque à mains nues](./attaque à mains nues.md) contre un objet en argile, en pierre ou en métal, sa [solidité](./solidité.md) est réduite de 1 (avec un minimum de 0).
+{s:MR}{s:APG}**[[Moine]].** Quand le moine porte une [[attaque à mains nues]] contre un objet en argile, en pierre ou en métal, sa [[solidité]] est réduite de 1 (avec un minimum de 0).
 De nombreux nains possèdent la rigueur de caractère nécessaire au rôle de moine, mais la plupart d'entre eux s'orientent vers des formes de combat plus traditionnelles qui comprennent des armures lourdes et de bonnes vieilles haches. La majorité des moines nains se rassemblent dans de petites enclaves d'individus partageant un même état d'esprit.
 
-{s:AO}**[Occultiste](./Occultiste.md).** Le personnage bénéficie d’un bonus de +1/3 aux tests d’[Estimation](./Estimation.md) et d’[Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) quand des objets métalliques ou en pierre sont impliqués.
+{s:AO}**[[Occultiste]].** Le personnage bénéficie d’un bonus de +1/3 aux tests d’[[Estimation]] et d’[[Utilisation dObjets magiques|Utilisation d’objets magiques]] quand des objets métalliques ou en pierre sont impliqués.
 
-{s:MR}{s:APG}**[Oracle](./Oracle.md).** Réduire de -1 le malus appliqué pour se servir d'un type d'arme en particulier sans formation préalable. Lorsque le malus pour un type d'arme tombe à 0 grâce à cette capacité, l'oracle fonctionne comme s'il possédait le don [Maniement d'une arme de guerre](./Maniement dune arme de guerre.md)/[exotique](./Maniement dune arme exotique.md) correspondant à ce type d'arme.
+{s:MR}{s:APG}**[[Oracle]].** Réduire de -1 le malus appliqué pour se servir d'un type d'arme en particulier sans formation préalable. Lorsque le malus pour un type d'arme tombe à 0 grâce à cette capacité, l'oracle fonctionne comme s'il possédait le don [[Maniement dune arme de guerre|Maniement d'une arme de guerre]]/[[Maniement dune arme exotique|exotique]] correspondant à ce type d'arme.
 La plupart des oracles nains tirent leurs pouvoirs de la terre qui les entoure ou des esprits de leurs ancêtres, ce qui en fait des membres respectés de la société naine. Ils ne bénéficient pas de la même vénération que le clergé, mais on les consulte souvent en cas de crise et on fait appel à eux en période de guerre.
 
-{s:MR}{s:APG}**[Paladin](./Paladin.md).** Le paladin gagne un bonus de +1 aux tests de [concentration](./concentration.md) quand il lance des sorts de paladin.
-Peu de nains aspirent à suivre la voie du [paladin](./Paladin.md). Les paladins nains, qui allient dévotion et prouesses martiales, peuvent être des croisés défendant les intérêts nains ou des gardes protégeant des places-fortes naines.
+{s:MR}{s:APG}**[[Paladin]].** Le paladin gagne un bonus de +1 aux tests de [[concentration]] quand il lance des sorts de paladin.
+Peu de nains aspirent à suivre la voie du [[paladin]]. Les paladins nains, qui allient dévotion et prouesses martiales, peuvent être des croisés défendant les intérêts nains ou des gardes protégeant des places-fortes naines.
 
-{s:MR}**[Pistolier](./Pistolier.md).** Le pistolier réduit les risques de [long feu](./Armes à feu.md#LONGFEU) d’une arme de 1/4. Le pistolier ne peut pas faire passer les risques de long feu en dessous de 1.
+{s:MR}**[[Pistolier]].** Le pistolier réduit les risques de [[armes à feu#LONGFEU|long feu]] d’une arme de 1/4. Le pistolier ne peut pas faire passer les risques de long feu en dessous de 1.
 
-{s:MR}{s:APG}**[Prêtre](./Prêtre.md).** Le prêtre choisit un [pouvoir de domaine](./Prêtre.md#DOMAINES) accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [Sagesse](./Sagesse.md). Il peut l’utiliser 1/2 fois de plus par jour.
-Les nains sont fort proches des [dieux](./../Golarion/Religions et philosophies.md) et possède une longue tradition de prêtres puissants et influents. Ceux qui sont choisis pour une vie de dévotion sont formés dès leur plus jeune âge mais, après cet apprentissage, ils sont libres d'explorer le monde et de propager la foi.
+{s:MR}{s:APG}**[[Prêtre]].** Le prêtre choisit un [[Prêtre#DOMAINES|pouvoir de domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Sagesse]]. Il peut l’utiliser 1/2 fois de plus par jour.
+Les nains sont fort proches des [[Golarion.religions et philosophies|dieux]] et possède une longue tradition de prêtres puissants et influents. Ceux qui sont choisis pour une vie de dévotion sont formés dès leur plus jeune âge mais, après cet apprentissage, ils sont libres d'explorer le monde et de propager la foi.
 
-{s:MCA}**[Prêtre combattant](./Prêtre combattant.md).** Ajoute 1/3 au nombre d’utilisations quotidiennes de [bénédictions](./Prêtre combattant.md#BENEDICTIONS) mais le prêtre combattant doit réserver ces utilisations supplémentaires à des bénédictions affectant les armes ou les armures uniquement.
+{s:MCA}**[[Prêtre combattant]].** Ajoute 1/3 au nombre d’utilisations quotidiennes de [[Prêtre combattant#BENEDICTIONS|bénédictions]] mais le prêtre combattant doit réserver ces utilisations supplémentaires à des bénédictions affectant les armes ou les armures uniquement.
 
-{s:AO}**[Psychiste](./Psychiste.md).** Quand il lance des sorts psychiques d’[abjuration](./Abjuration.md), le personnage ajoute 1/2 [niveau à son niveau de lanceur de sorts](./NLS.md), mais uniquement pour déterminer leur [durée](./Présentation des sorts.md#DUREE).
+{s:AO}**[[Psychiste]].** Quand il lance des sorts psychiques d’[[abjuration]], le personnage ajoute 1/2 [[NLS|niveau à son niveau de lanceur de sorts]], mais uniquement pour déterminer leur [[présentation des sorts#DUREE|durée]].
 
-{s:MR}{s:APG}**[Rôdeur](./Rôdeur.md).** Le rôdeur gagne un bonus de +1/2 aux tests d’[empathie sauvage](./Rôdeur.md#EMPATHIESAUVAGE) pour influencer des animaux ou des créatures magiques qui vivent sous terre.
+{s:MR}{s:APG}**[[Rôdeur]].** Le rôdeur gagne un bonus de +1/2 aux tests d’[[rôdeur#EMPATHIESAUVAGE|empathie sauvage]] pour influencer des animaux ou des créatures magiques qui vivent sous terre.
 Les nains sont connus pour garder longtemps rancune. Ce n'est donc pas une surprise de voir qu'un bon nombre d'entre eux décident de devenir rôdeurs et de se concentrer sur la destruction des ennemis de leur peuple.
 
-{s:MR}{s:APG}**[Roublard](./Roublard.md).** Le roublard gagne un bonus de +1/2 aux tests de [Sabotage](./Sabotage.md) quand il travaille sur un [pièges](./Pièges.md) de pierre et un bonus de +1/2 au [sens des pièges](./Roublard.md#RECHERCHEDESPIEGES) vis-à-vis de ces mêmes pièges de pierre.
+{s:MR}{s:APG}**[[Roublard]].** Le roublard gagne un bonus de +1/2 aux tests de [[Sabotage]] quand il travaille sur un [[pièges]] de pierre et un bonus de +1/2 au [[Roublard#RECHERCHEDESPIEGES|sens des pièges]] vis-à-vis de ces mêmes pièges de pierre.
 Les nains qui s'intéressent à l'art du subterfuge s'orientent plutôt vers la manipulation des pièges et l'organisation d'attaques surprises que vers des carrières de tire-laine ou d'orateurs.
 
-{s:MCA}**[Sanguin](./Sanguin.md).** Augmente le nombre total quotidien de rounds de [rage sanguine](./Sanguin.md#RAGESANGUINE) de 1.
+{s:MCA}**[[Sanguin]].** Augmente le nombre total quotidien de rounds de [[Sanguin#RAGESANGUINE|rage sanguine]] de 1.
 
-{s:MCA}**[Scalde](./Scalde.md).** Les [risques d’échec des sorts profanes](./Caractéristiques des armures.md#RISQUEECHECPROFANE) de scalde en [armure lourde](./armure lourde.md) diminuent de 1 %. Quand cette réduction atteint 10 %, le scalde reçoit [Port des armures lourdes](./Port des armures lourdes.md) s’il ne l’avait pas encore.
+{s:MCA}**[[Scalde]].** Les [[Caractéristiques des armures#RISQUEECHECPROFANE|risques d’échec des sorts profanes]] de scalde en [[armure lourde]] diminuent de 1 %. Quand cette réduction atteint 10 %, le scalde reçoit [[Port des armures lourdes]] s’il ne l’avait pas encore.
 
-{s:MR}{s:APG}**[Sorcière](./Sorcière.md).** La sorcière ajoute un bonus d’armure naturelle de +1/4 à la [CA](./CA.md) de son [familier](./Sorcière.md#FAMILIER).
-Les naines qui passent un pacte avec un [familier](./familier.md) et prennent le titre de [sorcières](./Sorcière.md) le font en secret. La société naine se méfie de ce genre d'accords et préfère plutôt faire appel aux pouvoirs de ses dieux.
+{s:MR}{s:APG}**[[Sorcière]].** La sorcière ajoute un bonus d’armure naturelle de +1/4 à la [[CA]] de son [[Sorcière#FAMILIER|familier]].
+Les naines qui passent un pacte avec un [[familier]] et prennent le titre de [[sorcière|sorcières]] le font en secret. La société naine se méfie de ce genre d'accords et préfère plutôt faire appel aux pouvoirs de ses dieux.
 
-{s:AO}**[Spirite](./Spirite.md).** Le personnage ajoute 1/6 au bonus de bouclier conféré par la capacité [manifestation interne ectoplasmique](./Spirite.md#MANIFESTATIONINTERNEECTOPLASMIQUE) de niveau 3.
+{s:AO}**[[Spirite]].** Le personnage ajoute 1/6 au bonus de bouclier conféré par la capacité [[spirite#MANIFESTATIONINTERNEECTOPLASMIQUE|manifestation interne ectoplasmique]] de niveau 3.
 
-{s:MCA}**[Tueur](./Tueur.md).** Gagne un bonus de +1/3 aux tests de [Connaissances](./Connaissances.md) (exploration souterraine) et aux tests de [Survie](./Survie.md) effectués sous terre. Si le tueur a un bonus de +1 aux tests de Connaissances (exploration souterraine) grâce à cette option, on considère qu’il est formé à cette compétence.
+{s:MCA}**[[Tueur]].** Gagne un bonus de +1/3 aux tests de [[Connaissances]] (exploration souterraine) et aux tests de [[Survie]] effectués sous terre. Si le tueur a un bonus de +1 aux tests de Connaissances (exploration souterraine) grâce à cette option, on considère qu’il est formé à cette compétence.
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -238,136 +238,136 @@ Voici les options accessibles aux nains, d’autres races adaptées peuvent s’
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Acrobate des corniches](./Acrobate des corniches.md) || <sup>MR</sup> || [Dex](./Dex.md) 13, [nain](./Nain.md), trait racial [montagnard](./Nain.md#Traits_raciaux_alternatifs_7) ou [stabilité](./Nain.md#Traits_raciaux_standards_6) || Déplacement plus rapide sur les espaces restreints
+| [[Acrobate des corniches]] || <sup>MR</sup> || [[Dex]] 13, [[nain]], trait racial [[Nain#Traits_raciaux_alternatifs_7|montagnard]] ou [[Nain#Traits_raciaux_standards_6|stabilité]] || Déplacement plus rapide sur les espaces restreints
 
 |- CLASS="premier"
-| [Âme d'acier](./Âme dacier.md) || <sup>MJRA</sup> || [Nain](./Nain.md), trait racial [robuste](./Nain.md#Traits_raciaux_standards_6) || Bonus racial de +4 aux jets de sauvegarde contre les sorts et les pouvoirs magiques
+| [[Âme dacier|Âme d'acier]] || <sup>MJRA</sup> || [[Nain]], trait racial [[Nain#Traits_raciaux_standards_6|robuste]] || Bonus racial de +4 aux jets de sauvegarde contre les sorts et les pouvoirs magiques
 
 |- CLASS="premier"
-| [Boyaux d'acier](./Boyaux dacier.md) || <sup>MJRA</sup> || [Con](./Con.md) 13; [nain](./Nain.md), [demi-orque](./Demi-orque.md), ou [orque](./orque (race).md) || +2 aux Jets de sauvegarde contre les états nauséeux et fiévreux et les poisons ingérés
+| [[Boyaux dacier|Boyaux d'acier]] || <sup>MJRA</sup> || [[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]] || +2 aux Jets de sauvegarde contre les états nauséeux et fiévreux et les poisons ingérés
 
 |- CLASS="premier"
-| [Brisesort](./Brisesort.md)* || <sup>MR</sup> || [Perturbateur](./Perturbateur.md), [Briseur de sorts](./Briseur de sorts.md), [nain](./Nain.md), [guerrier](./Guerrier.md) de niveau 10 || Détruit un effet magique actif
+| [[Brisesort]]* || <sup>MR</sup> || [[Perturbateur]], [[Briseur de sorts]], [[nain]], [[guerrier]] de niveau 10 || Détruit un effet magique actif
 
 |- CLASS="premier"
-| [Chanteur des roches](./Chanteur des roches.md) || <sup>MJRA</sup> || [Cha](./Cha.md) 13, capacité de classe [représentation bardique](./représentation bardique.md), [nain](./Nain.md) || Améliore les représentations en sous-sol et contre les créatures de la terre
+| [[Chanteur des roches]] || <sup>MJRA</sup> || [[Cha]] 13, capacité de classe [[représentation bardique]], [[nain]] || Améliore les représentations en sous-sol et contre les créatures de la terre
 
 |- CLASS="premier"
-| [Combattre au-delà de la mort](./Combattre au-delà de la mort.md) || <sup>MJRA</sup> || [Con](./Con.md) 13; [nain](./Nain.md), [demi-orque](./Demi-orque.md), ou [orque](./orque (race).md) || Gagner des points de vie temporaires une fois réduit à 0 point de vie
+| [[Combattre au-delà de la mort]] || <sup>MJRA</sup> || [[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]] || Gagner des points de vie temporaires une fois réduit à 0 point de vie
 
 |- CLASS="premier"
-| [Connaissance supérieure de la pierre](./Connaissance supérieure de la pierre.md) || <sup>MJRA</sup> || [Sag](./Sag.md) 13, [nain](./Nain.md), trait racial [connaissance de la pierre](./Nain.md#Traits_raciaux_standards_6) || +4 aux tests de Perception pour repérer les ouvrages de pierre inhabituels
+| [[Connaissance supérieure de la pierre]] || <sup>MJRA</sup> || [[Sag]] 13, [[nain]], trait racial [[Nain#Traits_raciaux_standards_6|connaissance de la pierre]] || +4 aux tests de Perception pour repérer les ouvrages de pierre inhabituels
 
 |- CLASS="premier"
-| [École de l'enfant de la terre](./École de lenfant de la terre.md)* || <sup>AG</sup> || [Sag](./Sag.md) 13, [nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif, [Science du combat à mains nues](./Science du combat à mains nues.md), 3 rangs en [Acrobaties](./Acrobaties.md) || La CA de l’entraînement défensif passe à +6 contre les géants
+| [[École de lenfant de la terre|École de l'enfant de la terre]]* || <sup>AG</sup> || [[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[Science du combat à mains nues]], 3 rangs en [[Acrobaties]] || La CA de l’entraînement défensif passe à +6 contre les géants
 |-
-| &emsp;[Renversement de l'enfant de la terre](./Renversement de lenfant de la terre.md)* || <sup>AG</sup> || [Sag](./Sag.md) 13, [nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif, [École de l'enfant de la terre](./École de lenfant de la terre.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Science du combat à mains nues](./Science du combat à mains nues.md), 6 rangs en [Acrobaties](./Acrobaties.md) || Le personnage peut faire un croc-en-jambe à un géant de taille TG au maximum
+| &emsp;[[Renversement de lenfant de la terre|Renversement de l'enfant de la terre]]* || <sup>AG</sup> || [[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[École de lenfant de la terre|École de l'enfant de la terre]], [[Science du croc-en-jambe]], [[Science du combat à mains nues]], 6 rangs en [[Acrobaties]] || Le personnage peut faire un croc-en-jambe à un géant de taille TG au maximum
 |-
-| &emsp;&emsp;[Lien de l'enfant de la terre](./Lien de lenfant de la terre.md)* || <sup>AG</sup> || [Sag](./Sag.md) 13, [nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif, [École de l'enfant de la terre](./École de lenfant de la terre.md), [Renversement de l'enfant de la terre](./Renversement de lenfant de la terre.md), [Croc-en-jambe supérieur](./Croc-en-jambe supérieur.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Coup étourdissant](./Coup étourdissant.md), 9 rangs en [Acrobaties](./Acrobaties.md) || Le personnage peut faire un croc-en-jambe à un géant de n’importe quelle taille. Il peut décider d’appliquer le Coup étourdissant une fois qu’il sait que l’attaque d’opportunité portée contre un géant qui se relève a touché
+| &emsp;&emsp;[[Lien de lenfant de la terre|Lien de l'enfant de la terre]]* || <sup>AG</sup> || [[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[École de lenfant de la terre|École de l'enfant de la terre]], [[Renversement de lenfant de la terre|Renversement de l'enfant de la terre]], [[Croc-en-jambe supérieur]], [[Science du croc-en-jambe]], [[Science du combat à mains nues]], [[Coup étourdissant]], 9 rangs en [[Acrobaties]] || Le personnage peut faire un croc-en-jambe à un géant de n’importe quelle taille. Il peut décider d’appliquer le Coup étourdissant une fois qu’il sait que l’attaque d’opportunité portée contre un géant qui se relève a touché
 
 |- CLASS="premier"
-| [Éliminer les toxines](./Éliminer les toxines.md) || <sup>MR</sup> || [Nain](./Nain.md), trait racial [robuste](./Nain.md#Traits_raciaux_standards_6) || Guérit des affaiblissements temporaires plus vite
+| [[Éliminer les toxines]] || <sup>MR</sup> || [[Nain]], trait racial [[Nain#Traits_raciaux_standards_6|robuste]] || Guérit des affaiblissements temporaires plus vite
 
 |- CLASS="premier"
-| [Enchaînement élargi](./Enchaînement élargi.md)* || <sup>MR</sup> || [For](./For.md) 13, [Enchaînement](./Enchaînement.md), [Attaque en puissance](./Attaque en puissance.md), [BBA](./BBA.md) +11, [nain](./Nain.md) || Déplacement d'1.5m entre les enchaînements pour menacer plus de créatures
+| [[Enchaînement élargi]]* || <sup>MR</sup> || [[For]] 13, [[Enchaînement]], [[Attaque en puissance]], [[BBA]] +11, [[nain]] || Déplacement d'1.5m entre les enchaînements pour menacer plus de créatures
 
 |- CLASS="premier"
-| [Enchaîner les gobelins](./Enchaîner les gobelins.md)* || <sup>MR</sup> || [For](./For.md) 13, [Enchaînement](./Enchaînement.md), [Attaque en puissance](./Attaque en puissance.md), [nain](./Nain.md) || Cible plus de créatures pendant un enchaînement si elles sont plus petites que le personnage, +2 à l'attaque contre ces créatures
+| [[Enchaîner les gobelins]]* || <sup>MR</sup> || [[For]] 13, [[Enchaînement]], [[Attaque en puissance]], [[nain]] || Cible plus de créatures pendant un enchaînement si elles sont plus petites que le personnage, +2 à l'attaque contre ces créatures
 |-
-| &emsp;[Débiter les orques](./Débiter les orques.md)* || <sup>MR</sup> || [For](./For.md) 13, [Enchaînement](./Enchaînement.md), [Enchaîner les gobelins](./Enchaîner les gobelins.md), [Attaque en puissance](./Attaque en puissance.md), [nain](./Nain.md) || +2 à l'attaque pour utiliser Enchaînement sur un orque
+| &emsp;[[Débiter les orques]]* || <sup>MR</sup> || [[For]] 13, [[Enchaînement]], [[Enchaîner les gobelins]], [[Attaque en puissance]], [[nain]] || +2 à l'attaque pour utiliser Enchaînement sur un orque
 |-
-| &emsp;&emsp;[Tueur de géants](./Tueur de géants.md)* || <sup>MR</sup> || [For](./For.md) 13, [Enchaînement](./Enchaînement.md), [Enchaîner les gobelins](./Enchaîner les gobelins.md), [Débiter les orques](./Débiter les orques.md), [Attaque en puissance](./Attaque en puissance.md), [Riposte](./Riposte.md), [BBA](./BBA.md) +11, [nain](./Nain.md) || Cible plus de créatures pendant un enchaînement si elles sont plus grandes que le personnage, +2 à l'attaque contre ces créatures
+| &emsp;&emsp;[[Tueur de géants]]* || <sup>MR</sup> || [[For]] 13, [[Enchaînement]], [[Enchaîner les gobelins]], [[Débiter les orques]], [[Attaque en puissance]], [[Riposte]], [[BBA]] +11, [[nain]] || Cible plus de créatures pendant un enchaînement si elles sont plus grandes que le personnage, +2 à l'attaque contre ces créatures
 
 |- CLASS="premier"
-| [Expériences variées](./Expériences variées.md) || <sup>MJRA</sup> || [Nain](./Nain.md), [elfe](./Elfe.md), ou [gnome](./Gnome.md); 100 ans ou plus || +2 sur tous les tests de Connaissances ou de Profession
+| [[Expériences variées]] || <sup>MJRA</sup> || [[Nain]], [[elfe]], ou [[gnome]]; 100 ans ou plus || +2 sur tous les tests de Connaissances ou de Profession
 
 |- CLASS="premier"
-| [Forteresse vivante](./Forteresse vivante.md) || <sup>*ISR*</sup> || [Nain](./Nain.md), trait racial robuste || Les bonus raciaux aux jets de sauvegarde contre les sorts et pouvoirs magiques augmentent de 2 à proximité d'un allié avec ce don
+| [[Forteresse vivante]] || <sup>*ISR*</sup> || [[Nain]], trait racial robuste || Les bonus raciaux aux jets de sauvegarde contre les sorts et pouvoirs magiques augmentent de 2 à proximité d'un allié avec ce don
 
 |- CLASS="premier"
-| [Frappe de la vipère jaillissante](./Frappe de la vipère jaillissante.md) || <sup>MR</sup> || [BBA](./BBA.md) +4, maniement de la [dorn-dergar naine](./dorn-dergar naine (arme).md) || Alterne la fonction de la dorn-dergar par une action rapide
+| [[Frappe de la vipère jaillissante]] || <sup>MR</sup> || [[BBA]] +4, maniement de la [[dorn-dergar naine (arme)|dorn-dergar naine]] || Alterne la fonction de la dorn-dergar par une action rapide
 
 |- CLASS="premier"
-| [Lancer de hache coulissante](./Lancer de hache coulissante.md) || <sup>MR</sup> || [Dex](./Dex.md) 13, [BBA](./BBA.md) +1 || Ignorer les boucliers et faire des croc-en-jambe avec des haches de lancer
+| [[Lancer de hache coulissante]] || <sup>MR</sup> || [[Dex]] 13, [[BBA]] +1 || Ignorer les boucliers et faire des croc-en-jambe avec des haches de lancer
 
 |- CLASS="premier"
-| [Maître brasseur](./Maître brasseur.md) || <sup>MR</sup> || 1 rang en [Artisanat](./Artisanat.md) (alchimie), 1 rang en [Profession](./Profession.md) (brasseur), [nain](./Nain.md) || +2 aux tests d'Artisanat (alchimie) et Profession (brasseur), +1 aux DD des poisons d'ingestion créés
+| [[Maître brasseur]] || <sup>MR</sup> || 1 rang en [[Artisanat]] (alchimie), 1 rang en [[Profession]] (brasseur), [[nain]] || +2 aux tests d'Artisanat (alchimie) et Profession (brasseur), +1 aux DD des poisons d'ingestion créés
 
 |- CLASS="premier"
-| [Maîtrise de la dorn-dergar](./Maîtrise de la dorn-dergar.md) || <sup>MR</sup> || [Combat à deux armes](./Combat à deux armes.md), [BBA](./BBA.md) +4, maniement de la [dorn-dergar naine](./dorn-dergar naine (arme).md) || Manie la dorn-dergar à une main
+| [[Maîtrise de la dorn-dergar]] || <sup>MR</sup> || [[Combat à deux armes]], [[BBA]] +4, maniement de la [[dorn-dergar naine (arme)|dorn-dergar naine]] || Manie la dorn-dergar à une main
 
 |- CLASS="premier"
-| [Marteau bondissant](./Marteau bondissant.md) || <sup>MR</sup> || Maniement du marteau, [BBA](./BBA.md) +6 || Lance un marteau et le faire rebondir pour qu’il revienne
+| [[Marteau bondissant]] || <sup>MR</sup> || Maniement du marteau, [[BBA]] +6 || Lance un marteau et le faire rebondir pour qu’il revienne
 
 |- CLASS="premier"
-| [Position du xorn](./Position du xorn.md) || <sup>MR</sup> || [Sag](./Sag.md) 15, [BBA](./BBA.md) +3 || Les créatures qui prennent le personnage en tenaille n’obtiennent aucun bonus
+| [[Position du xorn]] || <sup>MR</sup> || [[Sag]] 15, [[BBA]] +3 || Les créatures qui prennent le personnage en tenaille n’obtiennent aucun bonus
 
 |- CLASS="premier"
-| [Peau de fer](./Peau de fer.md) || <sup>MJRA</sup> || [Con](./Con.md) 13; [nain](./Nain.md), [demi-orque](./Demi-orque.md), ou [orque](./orque (race).md) || Bonus d’armure naturelle de +1 à la CA
+| [[Peau de fer]] || <sup>MJRA</sup> || [[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]] || Bonus d’armure naturelle de +1 à la CA
 
 |- CLASS="premier"
-| [Tête dure](./Tête dure.md)* || <sup>MR</sup> || [BBA](./BBA.md) +1, [nain](./Nain.md) || +1 à l'attaque, au BMO et au DMD avec les casques, +2 aux jets de sauvegarde contre les effets de chancèlement et d'étourdissement
+| [[Tête dure]]* || <sup>MR</sup> || [[BBA]] +1, [[nain]] || +1 à l'attaque, au BMO et au DMD avec les casques, +2 aux jets de sauvegarde contre les effets de chancèlement et d'étourdissement
 |-
-| &emsp;[Casque bosselé](./Casque bosselé.md)* || <sup>MR</sup> || [Tête dure](./Tête dure.md), [BBA](./BBA.md) +6, [nain](./Nain.md) || +1 à la CA contre les confirmations critiques en portant un casque, la moitié des dégâts subits lors d'un coup critique sont infligés au casque
+| &emsp;[[Casque bosselé]]* || <sup>MR</sup> || [[Tête dure]], [[BBA]] +6, [[nain]] || +1 à la CA contre les confirmations critiques en portant un casque, la moitié des dégâts subits lors d'un coup critique sont infligés au casque
 |-
-| &emsp;&emsp;[Casque fendu](./Casque fendu.md)* || <sup>MR</sup> || [Casque bosselé](./Casque bosselé.md), [Tête dure](./Tête dure.md), [BBA](./BBA.md) +11, [nain](./Nain.md) || +1 à la CA contre les confirmations critiques en portant un casque, les dégâts subits lors d'un coup critique sont infligés au casque
+| &emsp;&emsp;[[Casque fendu]]* || <sup>MR</sup> || [[Casque bosselé]], [[Tête dure]], [[BBA]] +11, [[nain]] || +1 à la CA contre les confirmations critiques en portant un casque, les dégâts subits lors d'un coup critique sont infligés au casque
 
 |- CLASS="premier"
-| [Tonnerres jumeaux](./Tonnerres jumeaux.md)* || <sup>AG</sup> || [Nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif, [Combat à deux armes](./Combat à deux armes.md) ou capacité de classe [déluge de coups](./Moine.md#DELUGEDECOUPS), [Arme de prédilection](./Arme de prédilection.md) avec les deux armes utilisées || Remplace une attaque contre un géant par une tentative de désarmement, de destruction d’arme ou de croc-en-jambe
+| [[Tonnerres jumeaux]]* || <sup>AG</sup> || [[Nain]] ou [[gnome]], trait racial entraînement défensif, [[Combat à deux armes]] ou capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]], [[Arme de prédilection]] avec les deux armes utilisées || Remplace une attaque contre un géant par une tentative de désarmement, de destruction d’arme ou de croc-en-jambe
 |-
-| &emsp;[Déluge des tonnerres jumeaux](./Déluge des tonnerres jumeaux.md)* || <sup>AG</sup> || [Nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif; [Science du combat à deux armes](./Science du combat à deux armes.md) et [Combat à deux armes](./Combat à deux armes.md), ou capacité de classe [déluge de coups](./Moine.md#DELUGEDECOUPS); [Tonnerres jumeaux](./Tonnerres jumeaux.md); [Arme de prédilection](./Arme de prédilection.md) avec les deux armes utilisées; [BBA](./BBA.md) +6 || Possibilité de croc-en-jambe contre un géant de taille TG et +2 points de dégâts contre les géants
+| &emsp;[[Déluge des tonnerres jumeaux]]* || <sup>AG</sup> || [[Nain]] ou [[gnome]], trait racial entraînement défensif; [[Science du combat à deux armes]] et [[Combat à deux armes]], ou capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]]; [[Tonnerres jumeaux]]; [[Arme de prédilection]] avec les deux armes utilisées; [[BBA]] +6 || Possibilité de croc-en-jambe contre un géant de taille TG et +2 points de dégâts contre les géants
 |-
-| &emsp;&emsp;[Maître des tonnerres jumeaux](./Maître des tonnerres jumeaux.md)* || <sup>AG</sup> || [Nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif; [Science du combat à deux armes](./Science du combat à deux armes.md) et [Combat à deux armes](./Combat à deux armes.md), ou capacité de classe [déluge de coups](./Moine.md#DELUGEDECOUPS); [Tonnerres jumeaux](./Tonnerres jumeaux.md); [Déluge des tonnerres jumeaux](./Déluge des tonnerres jumeaux.md); [Arme de prédilection](./Arme de prédilection.md) avec les deux armes utilisées; [BBA](./BBA.md) +9 || L’adversaire frappé par les tonnerres jumeaux est secoué
+| &emsp;&emsp;[[Maître des tonnerres jumeaux]]* || <sup>AG</sup> || [[Nain]] ou [[gnome]], trait racial entraînement défensif; [[Science du combat à deux armes]] et [[Combat à deux armes]], ou capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]]; [[Tonnerres jumeaux]]; [[Déluge des tonnerres jumeaux]]; [[Arme de prédilection]] avec les deux armes utilisées; [[BBA]] +9 || L’adversaire frappé par les tonnerres jumeaux est secoué
 
 |- CLASS="premier"
-| [Visage de pierre](./Visage de pierre.md) || <sup>MJRA</sup> || [Nain](./Nain.md) || Bonus de +4 aux tests de Bluff pour mentir ou cacher son but
+| [[Visage de pierre]] || <sup>MJRA</sup> || [[Nain]] || Bonus de +4 aux tests de Bluff pour mentir ou cacher son but
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Exarque (inquisiteur)](./Exarque (inquisiteur).md) *(MR)*
-- [Champion du marteau (guerrier)](./Champion du marteau (guerrier).md) *(MR)*
-- [Maître des forges (prêtre)](./Maître des forges (prêtre).md) *(MR)*
-- [Seigneur de pierre (paladin)](./Seigneur de pierre (paladin).md) *(MR)*
+- [[Exarque (inquisiteur)]] *(MR)*
+- [[Champion du marteau (guerrier)]] *(MR)*
+- [[Maître des forges (prêtre)]] *(MR)*
+- [[Seigneur de pierre (paladin)]] *(MR)*
 
 #### Équipement
-- [Casque bélier nain](./casque bélier nain (arme).md) *(MR)*
-- [Dorn-dergar naine](./dorn-dergar naine (arme).md) *(MR)*
-- [Hache d'armes naine double](./hache darmes naine double (arme).md) *(MR)*
-- [Hache naine à long manche](./hache naine à long manche (arme).md) *(MR)*
-- [Marteau nain à long manche](./marteau nain à long manche (arme).md) *(MR)*
+- [[casque bélier nain (arme)|Casque bélier nain]] *(MR)*
+- [[dorn-dergar naine (arme)|Dorn-dergar naine]] *(MR)*
+- [[hache darmes naine double (arme)|Hache d'armes naine double]] *(MR)*
+- [[hache naine à long manche (arme)|Hache naine à long manche]] *(MR)*
+- [[marteau nain à long manche (arme)|Marteau nain à long manche]] *(MR)*
 
 #### Objets magiques
-- [Élixir de vision dans les ténèbres](./élixir de vision dans les ténèbres.md) *(MR)*
-- [Enclume du prospecteur céleste](./Enclume du prospecteur céleste.md) *(ISR)*
-- [Heaume du commandant (inférieur)](./Heaume du commandant.md) *(ISR)*
-- [Heaume du commandant (supérieur)](./Heaume du commandant.md) *(ISR)*
-- [Heaume du commandant (suprême)](./Heaume du commandant.md) *(ISR)*
-- [Pic brise-montagnes](./Pic brise-montagnes.md) *(ISR)*
-- [Sceptre de puissance nain](./Sceptre de puissance nain.md) *(MR)*
+- [[Élixir de vision dans les ténèbres]] *(MR)*
+- [[Enclume du prospecteur céleste]] *(ISR)*
+- [[Heaume du commandant|Heaume du commandant (inférieur)]] *(ISR)*
+- [[Heaume du commandant|Heaume du commandant (supérieur)]] *(ISR)*
+- [[Heaume du commandant|Heaume du commandant (suprême)]] *(ISR)*
+- [[Pic brise-montagnes]] *(ISR)*
+- [[Sceptre de puissance nain]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Sorts
-- [Assaut concerté](./Assaut concerté.md) *(MR)*
-- [Barbe de fer](./barbe de fer.md) *(MR)*
-- [Chant du labeur](./chant du labeur.md) *(MR)*
-- [Communion ancestrale](./Communion ancestrale.md) *(MR)*
-- [Convocation de gardien ancestral](./Convocation de gardien ancestral.md) *(MR)*
-- [Dispersion des sièges](./Dispersion des sièges.md) *(ISR)*
-- [Don ancestral](./Don ancestral.md) *(MR)*
-- [Élévation du sol](./élévation du sol.md) *(MR)*
-- [Force décuplée](./Force décuplée.md) *(MR)*
-- [Formation tactique](./Formation tactique.md) *(MR)*
-- [Œil vigilant](./Œil vigilant.md) *(MR)*
-- [Pourparlers du Faiseur de paix](./Pourparlers du Faiseur de paix.md) *(MR)*
-- [Repos revigorant](./Repos revigorant.md) *(MR)*
-- [Rune de protection](./Rune de protection.md) *(MR)*
-- [Rune de solidité](./Rune de solidité.md) *(MR)*
-- [Sanglantes représailles](./Sanglantes représailles.md) *(MR)*
-- [Serment de justice](./Serment de justice.md) *(MR)*
-- [Vision à travers la pierre](./Vision à travers la pierre.md) *(MR)*
-- [Voile nain](./Voile nain.md) *(MR)*
+- [[Assaut concerté]] *(MR)*
+- [[Barbe de fer]] *(MR)*
+- [[Chant du labeur]] *(MR)*
+- [[Communion ancestrale]] *(MR)*
+- [[Convocation de gardien ancestral]] *(MR)*
+- [[Dispersion des sièges]] *(ISR)*
+- [[Don ancestral]] *(MR)*
+- [[Élévation du sol]] *(MR)*
+- [[Force décuplée]] *(MR)*
+- [[Formation tactique]] *(MR)*
+- [[Œil vigilant]] *(MR)*
+- [[Pourparlers du Faiseur de paix]] *(MR)*
+- [[Repos revigorant]] *(MR)*
+- [[Rune de protection]] *(MR)*
+- [[Rune de solidité]] *(MR)*
+- [[Sanglantes représailles]] *(MR)*
+- [[Serment de justice]] *(MR)*
+- [[Vision à travers la pierre]] *(MR)*
+- [[Voile nain]] *(MR)*
 
 </td></tr></table>

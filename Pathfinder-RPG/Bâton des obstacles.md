@@ -10,15 +10,15 @@ Categories:
 
 <div class="BD">
 {s:APG}{s:BDTitre|Bâton des obstacles|}
-**Aura** Multiples modérées ; **NLS** 9 ; **Emplacement** aucun ([bâton](./Bâtons magiques.md)) ; **Prix** 52 850 po ; **Poids** 2,5 kg
+**Aura** Multiples modérées ; **NLS** 9 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 52 850 po ; **Poids** 2,5 kg
 (((Description)))
 Ce bâton usé en solide bois sombre semble taillé dans la pierre mais il donne la même sensation que du bois léger et ne pèse pas plus lourd. Il permet de lancer les sorts suivants :
-• *[graisse](./Graisse.md)* (1 charge)
-• *[mur de feu](./Mur de feu.md)* (2 charges)
-• *[mur de glace](./Mur de glace.md)* (2 charges)
-• *[mur de pierre](./Mur de pierre.md)* (3 charges)
-• *[mur de vent](./Mur de vent.md)* (1 charge)
-• *[verrou du mage](./Verrou du mage.md)* (1 charge)
+• *[[graisse]]* (1 charge)
+• *[[mur de feu]]* (2 charges)
+• *[[mur de glace]]* (2 charges)
+• *[[mur de pierre]]* (3 charges)
+• *[[mur de vent]]* (1 charge)
+• *[[verrou du mage]]* (1 charge)
 (((Création)))
-**Conditions** [Création de bâtons magiques](./Création de bâtons magiques.md), *[graisse](./Graisse.md)*, *[mur de feu](./Mur de feu.md)*, *[mur de glace](./Mur de glace.md)*, *[mur de pierre](./Mur de pierre.md)*, *[mur de vent](./Mur de vent.md)*, *[verrou du mage](./Verrou du mage.md)* ; **Coût** 27 050 po
+**Conditions** [[Création de bâtons magiques]], *[[graisse]]*, *[[mur de feu]]*, *[[mur de glace]]*, *[[mur de pierre]]*, *[[mur de vent]]*, *[[verrou du mage]]* ; **Coût** 27 050 po
 </div>

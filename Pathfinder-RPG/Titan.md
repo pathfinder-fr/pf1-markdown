@@ -15,20 +15,20 @@ Categories:
 |- CLASS="titre"
 | Nom || &nbsp; || FP
 |- CLASS="premier"
-| [Titan hécatonchire](./Titan hécatonchire.md) || &nbsp; || 24
+| [[Titan hécatonchire]] || &nbsp; || 24
 |-
-| [Titan de l’Élysée](./Titan de lÉlysée.md) || &nbsp; || 21
+| [[Titan de lÉlysée|Titan de l’Élysée]] || &nbsp; || 21
 |-
-| [Titan thanatotique](./Titan thanatotique.md) || &nbsp; || 22
+| [[Titan thanatotique]] || &nbsp; || 22
 |-
 | **Membres Mythiques** || **FP** || **RMY**
 |- CLASS="premier"
-| [Danave](./Danave.md) || 24 || 9
+| [[Danave]] || 24 || 9
 |-
-| [Titan fomorien](./Titan fomorien.md) || 22 || 8
+| [[Titan fomorien]] || 22 || 8
 |}
 </div></div><div class="description">**Source :** Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)/[Bien](./sous-type Bien.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]/[[sous-type Bien|Bien]])*
 
 Les titans sont des êtres puissants et assez semblables aux
 dieux, dotés de pouvoirs qui dépassent ceux des autres races et
@@ -40,4 +40,4 @@ survécu aux millénaires et que leur progéniture, tout comme
 leurs myriades d’héritiers, occupent à présent
 les lieux où ils régnaient autrefois.
 
-Voir aussi [Gigas infernal](./Gigas-infernal.md)
+Voir aussi [[Gigas infernal]]

@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.148*}
 {s:BDTexte|**XP** 3.200}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, CM}
-{s:BDTexte|**Init** -1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, CM}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 8, pris au dépourvu 21 (armure +4, Dex -1, naturelle +9, taille -1)}
 {s:BDTexte|**pv** 85 (10d8+40)}
 {s:BDTexte|**Réf** +2, **Vig** +11, **Vol** +3}
-{s:BDTexte|**Capacités défensives** [réception de rochers](./Réception de rochers.md) }
+{s:BDTexte|**Capacités défensives** [[réception de rochers]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}) (9 m (6 {s:c}) en armure)}
 {s:BDTexte|**Corps à corps** massue, +14/+9 (2d8+10) ou 2 coups, +13 (1d8+7)}
 {s:BDTexte|**Distance** rocher, +6 (1d8+10)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [lancer de rochers](./Lancer de rochers.md) 36 m (24 {s:c})}
+{s:BDTexte|**Attaques spéciales** [[lancer de rochers]] 36 m (24 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 8, **Con** 19, **Int** 6, **Sag** 10, **Cha** 7}
 {s:BDTexte|**BBA** +7, **BMO** +15, **DMD** 24}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (massue), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Force intimidante](./Force intimidante.md), [Maniement d'une arme de guerre](./Maniement dune arme de guerre.md) (massue)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +10, [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +6}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (massue), [[Attaque en puissance]], [[Enchaînement]], [[Force intimidante]], [[Maniement dune arme de guerre|Maniement d'une arme de guerre]] (massue)}
+{s:BDTexte|**Compétences** [[Escalade]] +10, [[Intimidation]] +12, [[Perception]] +6}
 {s:BDTexte|**Langues** géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines tempérées}
-{s:BDTexte|**Organisation sociale** solitaire, bande (2-5), groupe (6-8), groupe de pillards (9-12 et 1d4 [loups sanguinaires](./Loup sanguinaire.md)) ou tribu (13-30 plus 35% non-combattants plus 1 chef [barbare](./Barbare.md) ou [guerrier](./Guerrier.md) de niveau 4-6, 11-16 [loups sanguinaires](./Loup sanguinaire.md), 1-4 [ogres](./Ogre.md) et 13-20 esclaves [orques](./Orque.md))}
+{s:BDTexte|**Organisation sociale** solitaire, bande (2-5), groupe (6-8), groupe de pillards (9-12 et 1d4 [[loup sanguinaire|loups sanguinaires]]) ou tribu (13-30 plus 35% non-combattants plus 1 chef [[barbare]] ou [[guerrier]] de niveau 4-6, 11-16 [[loup sanguinaire|loups sanguinaires]], 1-4 [[ogre|ogres]] et 13-20 esclaves [[orque|orques]])}
 {s:BDTexte|**Trésor** standard (armure de peau, massue, autres trésors)}
 </div>
 
@@ -48,49 +48,49 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Géant de cendre](./Géant de cendre.md) || 11
+| [[Géant de cendre]] || 11
 |-
-| [Géant de la jungle](./Géant de la jungle.md) || 10
+| [[Géant de la jungle]] || 10
 |-
-| [Géant de la lune](./Géant de la lune.md) || 15
+| [[Géant de la lune]] || 15
 |-
-| [Géant de la taïga](./Géant de la taïga.md) || 12
+| [[Géant de la taïga]] || 12
 |-
-| [Géant de l'ombre](./Géant de lombre.md) || 13
+| [[Géant de lombre|Géant de l'ombre]] || 13
 |-
-| [Géant de pierre](./Géant de pierre.md) || 8
+| [[Géant de pierre]] || 8
 |-
-| [Géant des bois](./Géant des bois.md) || 6
+| [[Géant des bois]] || 6
 |-
-| [Géant des collines](./Géant des collines.md) || 7
+| [[Géant des collines]] || 7
 |-
-| [Géant des falaises](./Géant des falaises.md) || 9
+| [[Géant des falaises]] || 9
 |-
-| [Géant des grottes](./Géant des grottes.md) || 6
+| [[Géant des grottes]] || 6
 |-
-| [Géant des marais](./Géant des marais.md) || 8
+| [[Géant des marais]] || 8
 |-
-| [Géant des nuages](./Géant des nuages.md) || 11
+| [[Géant des nuages]] || 11
 |-
-| [Géant des océans](./Géant des océans.md) || 14
+| [[Géant des océans]] || 14
 |-
-| [Géant des rivières](./Géant des rivières.md) || 6
+| [[Géant des rivières]] || 6
 |-
-| [Géant des runes](./Géant des runes.md) || 17
+| [[Géant des runes]] || 17
 |-
-| [Géant des scories](./Géant des scories.md) || 7
+| [[Géant des scories]] || 7
 |-
-| [Géant des tempêtes](./Géant des tempêtes.md) || 13
+| [[Géant des tempêtes]] || 13
 |-
-| [Géant des éclipses](./Géant des éclipses.md) || 19
+| [[Géant des éclipses]] || 19
 |-
-| [Géant du désert](./Géant du désert.md) || 9
+| [[Géant du désert]] || 9
 |-
-| [Géant du feu](./Géant du feu.md) || 10
+| [[Géant du feu]] || 10
 |-
-| [Géant du froid](./Géant du froid.md) || 9
+| [[Géant du froid]] || 9
 |-
-| [Géant du soleil](./Géant du soleil.md) || 16
+| [[Géant du soleil]] || 16
 |}
 </div>*Les fourrures crasseuses de ce puissant géant voûté colérique, brutal et stupide trahissent un style de vie violent et primitif.*
 

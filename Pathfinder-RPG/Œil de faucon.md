@@ -13,17 +13,17 @@ Categories:
 ---
 
 {s:APG}
-**École** [Divination](./école divination.md) ; **Niveau** [Cham](./Chaman.md) 2, [Dru](./Druide.md) 2, [Psy](./Psychiste.md) 2, [Rôd](./Rôdeur.md) 2  
+**École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2  
 
 **Temps d'incantation** 1 minute  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
 
 **Effet** capteur magique  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 

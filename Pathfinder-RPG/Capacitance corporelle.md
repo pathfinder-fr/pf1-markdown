@@ -10,12 +10,12 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>électricité<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (une bobine en fer)
+{s:MCA}**École** [[Transmutation]] <nowiki>[[</nowiki>électricité<nowiki>]]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (une bobine en fer)
 **Portée** personnelle
 **Cible** le lanceur de sorts
-**Durée** 1 minute/[niveau](./niveau.md) ou jusqu’à déchargement (cf. texte)
+**Durée** 1 minute/[[niveau]] ou jusqu’à déchargement (cf. texte)
 
 Si le personnage reçoit des dégâts d’électricité alors que ce sort est actif, une partie de l’énergie est stockée dans sa peau, comme on maintient la charge pour un sort de contact. Le personnage peut libérer cette électricité stockée en effectuant une attaque de contact au corps à corps.
 

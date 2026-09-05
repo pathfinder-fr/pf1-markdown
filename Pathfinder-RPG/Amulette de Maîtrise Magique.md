@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Amulette de maîtrise magique|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 11 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 22.000 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] puissante ; **NLS** 11 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 22.000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette amulette en platine révèle son pouvoir uniquement lorsqu’elle devient l’objet fétiche d’un [magicien](./Magicien.md), auquel cas elle lui permet de préparer 6 niveaux de sort de plus par jour.
+Cette amulette en platine révèle son pouvoir uniquement lorsqu’elle devient l’objet fétiche d’un [[magicien]], auquel cas elle lui permet de préparer 6 niveaux de sort de plus par jour.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[mémorisation](./Mémorisation.md)* ; **Coût** 11.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[mémorisation]]* ; **Coût** 11.000 po
 </div>

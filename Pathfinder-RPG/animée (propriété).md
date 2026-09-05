@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Animée
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Animée](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Animée)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Animée]]

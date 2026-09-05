@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Repositionnante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Repositionnante](./Descriptions individuelles des propriétés spéciales des armes.md#Repositionnante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Repositionnante]]

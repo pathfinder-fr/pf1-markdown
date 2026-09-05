@@ -11,4 +11,4 @@ Categories:
 
 **Conditions.** Suivant d'un Aîné
 
-**Avantage.** Les [fées](./type Fée.md) voient le personnage comme l'un des leurs, et les sorts et autres capacités des fées le traitent comme une fée ou comme son véritable type, selon le type le plus avantageux pour le personnage. Le personnage obtient un bonus de +2 aux tests de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md) et de [Psychologie](./Psychologie.md) contre les fées.
+**Avantage.** Les [[type Fée|fées]] voient le personnage comme l'un des leurs, et les sorts et autres capacités des fées le traitent comme une fée ou comme son véritable type, selon le type le plus avantageux pour le personnage. Le personnage obtient un bonus de +2 aux tests de [[Bluff]], de [[Diplomatie]] et de [[Psychologie]] contre les fées.

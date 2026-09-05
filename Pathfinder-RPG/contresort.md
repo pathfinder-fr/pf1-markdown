@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Lancer des sorts#CONTRESORT
 ---
 
->>> [Lancer des sorts#CONTRESORT](./Lancer des sorts.md#CONTRESORT)
+>>> [[Lancer des sorts#CONTRESORT]]

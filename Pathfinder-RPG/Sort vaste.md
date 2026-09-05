@@ -13,11 +13,11 @@ Categories:
 
 *Les sorts du personnage couvrent des cibles dans une zone plus vaste.*
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
-**Condition.** [NLS](./NLS.md) 3
+**Condition.** [[NLS]] 3
 
-**Avantage.** Le personnage peut altérer un sort qui affecte des cibles qui ne sont pas distantes de plus de 9 m (6 {s:c} tel que *[rapidité](./Rapidité.md)*). La distance maximale qui doit les séparer des autres cibles passe à 18 m (12 {s:c}). Un sort vaste utilise un emplacement de sort d’un niveau supérieur au niveau normal du sort.
+**Avantage.** Le personnage peut altérer un sort qui affecte des cibles qui ne sont pas distantes de plus de 9 m (6 {s:c} tel que *[[rapidité]]*). La distance maximale qui doit les séparer des autres cibles passe à 18 m (12 {s:c}). Un sort vaste utilise un emplacement de sort d’un niveau supérieur au niveau normal du sort.
 
 (((Vast spell (Metamagic)
 

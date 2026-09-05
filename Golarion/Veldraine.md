@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Sous la domination de [Korvosa](./Korvosa.md), Veldraine est un port de première importance de par sa position stratégique. Ce port abrite la plus grande partie de la flotte Korvosienne et peut se défendre grâce à une artillerie conséquente. Le port peut également fermer l’accès de la baie du Conquérant, où se trouve [Korvosa](./Korvosa.md), grâce à une énorme chaîne qui peut être tendue d’un bout à l’autre de l’entrée de cette baie. Ainsi, tant que la chaîne reste levée, [Korvosa](./Korvosa.md) est à l’abri de toute attaque venant de la mer.
+Sous la domination de [[Korvosa]], Veldraine est un port de première importance de par sa position stratégique. Ce port abrite la plus grande partie de la flotte Korvosienne et peut se défendre grâce à une artillerie conséquente. Le port peut également fermer l’accès de la baie du Conquérant, où se trouve [[Korvosa]], grâce à une énorme chaîne qui peut être tendue d’un bout à l’autre de l’entrée de cette baie. Ainsi, tant que la chaîne reste levée, [[Korvosa]] est à l’abri de toute attaque venant de la mer.

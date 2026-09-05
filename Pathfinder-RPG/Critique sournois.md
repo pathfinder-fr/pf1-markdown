@@ -14,13 +14,13 @@ Categories:
 
 *Vos coups critiques sont particulièrement mortels.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [critique](./Dons.md#DONCRITIQUE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONCRITIQUE|critique]]
 
-**Condition.** [Don pour les critiques](./Don pour les critiques.md), [BBA](./BBA.md) +9, capacité de classe [attaque sournoise](./attaque sournoise.md)
+**Condition.** [[Don pour les critiques]], [[BBA]] +9, capacité de classe [[attaque sournoise]]
 
 **Avantage.** Lorsque le personnage confirme un coup critique sur une attaque sournoise, il peut lancer un nombre supplémentaire de dés d'attaques égal au multiplicateur critique de son arme.
 
-**Spécial.** Le personnage peut appliquer les effets d'un unique don de critique à un coup critique à moins qu'il ne dispose du don [Maîtrise du critique](./Maîtrise du critique.md).
+**Spécial.** Le personnage peut appliquer les effets d'un unique don de critique à un coup critique à moins qu'il ne dispose du don [[Maîtrise du critique]].
 
 (((Sneaking Critical (Combat, Critical)
 

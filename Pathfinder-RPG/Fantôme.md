@@ -9,11 +9,11 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[terreur](./Registre.md), [effet mental](./Registre.md)<nowiki>]</nowiki> ;
-**Niveau** [barde](./Barde.md) 1, [prêtre](./Prêtre.md) 1, [inquisiteur](./Inquisiteur.md) 1, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 1, [sorcière](./Sorcière.md) 1  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|terreur]], [[registre|effet mental]]<nowiki>]</nowiki> ;
+**Niveau** [[barde]] 1, [[prêtre]] 1, [[inquisiteur]] 1, [[ensorceleur]]/[[magicien]] 1, [[sorcière]] 1  
 
-**Durée** 1d4 [rounds](./round.md)  
+**Durée** 1d4 [[round|rounds]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** Oui
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** Oui
 
-La victime de ce mot effet est [effrayée](./Effrayé.md) pour toute la durée du sort. Fantôme n’a pas d’effet sur les cibles de 5 [DV](./../Ressources/DV.md) et plus.
+La victime de ce mot effet est [[effrayé|effrayée]] pour toute la durée du sort. Fantôme n’a pas d’effet sur les cibles de 5 [[DV]] et plus.

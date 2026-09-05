@@ -7,4 +7,4 @@ Categories:
 RedirectTo: courses poursuites
 ---
 
->>> [courses poursuites](./Courses poursuites.md)
+>>> [[courses poursuites]]

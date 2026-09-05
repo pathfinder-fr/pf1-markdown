@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pc ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Cette boisson légèrement alcoolisée est fabriquée à partir de bière, d’ananas (ou autre fruit tropical), de sucre et de cannelle puis est laissée à fermenter pendant quelque jours. On la sert froide avec de la poudre de chili. Il s’agit d’une boisson sucrée et agréable mais réservée aux régions les plus chaudes.

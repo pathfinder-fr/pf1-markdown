@@ -9,14 +9,14 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 4, [Dru](./Druide.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (100 po de poudre de diamant)
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 4, [[Druide|Dru]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (100 po de poudre de diamant)
 **Portée** contact
 **Zone d'effet** une créature vivante ou un mort-vivant touché
 **Durée** 1 round/niveau
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Ce sort, hautement apprécié des lanceurs de sorts féeriques, se lance en donnant un baiser, mais en réalité un simple contact est suffisant pour conférer à quelqu’un les avantages d’une *étreinte du Monde féerique*. Ce sort confère à une créature vivante un brusque apport d’énergie positive prélevée du Monde féerique qui l’imprègne d’énergie vitale à l’état brut. Les effets exacts de ce sort varient en fonction de la nature de la créature touchée. Les créatures artificielles sont immunisées aux effets de ce sort.
-- **Créature vivante.** Une créature vivante bénéficie d’une augmentation de sa vitesse de déplacement au sol de 6 mètres et d’un bonus d’intuition de +2 aux tests de compétence basés sur le [Charisme](./Charisme.md). De plus, elle obtient une [guérison accélérée](./Guérison accélérée (capacité).md) 2. Le feu, l’acide et l’énergie négative mettent fin au fonctionnement de cette guérison accélérée lors du [round](./round.md) qui suit l’attaque.
-- **Mort-vivant.** Si ce sort cible un mort-vivant, celui-ci est [chancelant](./Chancelant.md) pendant toute la durée du sort. Il ne bénéficie pas des avantages d’une éventuelle [résistance à la canalisation](./Résistance à la canalisation (capacité).md) qu’il pourrait posséder et les [DD](./DD.md) des [jets de sauvegarde](./JDS.md) contre ses éventuelles attaques spéciales (mais pas de ses pouvoirs magiques ou de ses sorts) sont réduits de 2.
+- **Créature vivante.** Une créature vivante bénéficie d’une augmentation de sa vitesse de déplacement au sol de 6 mètres et d’un bonus d’intuition de +2 aux tests de compétence basés sur le [[Charisme]]. De plus, elle obtient une [[Guérison accélérée (capacité)|guérison accélérée]] 2. Le feu, l’acide et l’énergie négative mettent fin au fonctionnement de cette guérison accélérée lors du [[round]] qui suit l’attaque.
+- **Mort-vivant.** Si ce sort cible un mort-vivant, celui-ci est [[chancelant]] pendant toute la durée du sort. Il ne bénéficie pas des avantages d’une éventuelle [[Résistance à la canalisation (capacité)|résistance à la canalisation]] qu’il pourrait posséder et les [[DD]] des [[jds|jets de sauvegarde]] contre ses éventuelles attaques spéciales (mais pas de ses pouvoirs magiques ou de ses sorts) sont réduits de 2.

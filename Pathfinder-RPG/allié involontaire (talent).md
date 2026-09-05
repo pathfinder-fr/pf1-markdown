@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ALLIEINVOLONTAIRE
 ---
 
->>> [Talents#ALLIEINVOLONTAIRE](./Talents.md#ALLIEINVOLONTAIRE)
+>>> [[Talents#ALLIEINVOLONTAIRE]]

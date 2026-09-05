@@ -14,24 +14,24 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Bokrug](./Bokrug.md) || 27
+| [[Bokrug]] || 27
 |-
-| [Cthulhu](./Cthulhu.md) || 30
+| [[Cthulhu]] || 30
 |-
-| [Hastur](./Hastur.md) || 29
+| [[Hastur]] || 29
 |-
-| [Mhar](./Mhar.md) || 26
+| [[Mhar]] || 26
 |}
 </div></div><div class="description">**Source :** Bestiaire 4, p.123.</div>
-*Types/Sous-types associés :  - ([Grand ancien](./sous-type Grand Ancien.md))*
+*Types/Sous-types associés :  - ([[sous-type Grand ancien|Grand ancien]])*
 
-Les Grands Anciens sont des entités d’autres mondes à la puissance pratiquement inimaginable. Ce sont des êtres étrangers à toute humanité tant physiologiquement que spirituellement. Ils n’existent que dans les recoins oubliés des mondes les plus éloignés ou dans des dimensions perdues mais leur pouvoir est si grand qu’ils peuvent influencer certains esprits mortels sensibles à travers leurs rêves et leurs cauchemars, même si cette inf luence est aussi fortuite que l’attraction gravitationnelle d’une étoile sur un tout petit grain de poussière dérivant dans l’espace. C’est pourquoi l’on peut voir des cultes dévoués aux Grands Anciens se former sur différents mondes du plan Matériel, même si ces mondes n’ont jamais eu de contact entre eux auparavant. Certains Grands Anciens donnent accès au [domaine du Vide](./Domaine du Vide.md) et aux sous-domaines associés (voir plus bas). Si tous les Grands Anciens ne sont pas maléfiques, ce sont tous des forces du chaos. Leurs cultes sont presque toujours mauvais et engendrent douleur et folie mais les Grands Anciens se contentent généralement d’ignorer les formes de vie inférieures telles que les humains, les elfes et les nains. Cela dit, quand on attire leur attention, l’issue peut être catastrophique à l’échelle globale car, tout comme la fourmi qui pique un orteil invite promptement à une destruction que son piètre esprit ne peut concevoir, l’humanité s’expose à une ruine incommensurable quand elle se mêle des affaires de ces puissantes créatures.
+Les Grands Anciens sont des entités d’autres mondes à la puissance pratiquement inimaginable. Ce sont des êtres étrangers à toute humanité tant physiologiquement que spirituellement. Ils n’existent que dans les recoins oubliés des mondes les plus éloignés ou dans des dimensions perdues mais leur pouvoir est si grand qu’ils peuvent influencer certains esprits mortels sensibles à travers leurs rêves et leurs cauchemars, même si cette inf luence est aussi fortuite que l’attraction gravitationnelle d’une étoile sur un tout petit grain de poussière dérivant dans l’espace. C’est pourquoi l’on peut voir des cultes dévoués aux Grands Anciens se former sur différents mondes du plan Matériel, même si ces mondes n’ont jamais eu de contact entre eux auparavant. Certains Grands Anciens donnent accès au [[domaine du Vide]] et aux sous-domaines associés (voir plus bas). Si tous les Grands Anciens ne sont pas maléfiques, ce sont tous des forces du chaos. Leurs cultes sont presque toujours mauvais et engendrent douleur et folie mais les Grands Anciens se contentent généralement d’ignorer les formes de vie inférieures telles que les humains, les elfes et les nains. Cela dit, quand on attire leur attention, l’issue peut être catastrophique à l’échelle globale car, tout comme la fourmi qui pique un orteil invite promptement à une destruction que son piètre esprit ne peut concevoir, l’humanité s’expose à une ruine incommensurable quand elle se mêle des affaires de ces puissantes créatures.
 
 Il n’est pas rare que les Grands Anciens eux-mêmes servent et vénèrent des puissances plus grandes encore telles qu’Azathoth, Nyarlathotep, Shub-Niggurath et Yog-Sothoth. Ces créatures sont les Dieux extérieurs et, tandis que les Grands Anciens pourraient être vus comme un genre de demi-dieux, les Dieux extérieurs sont, eux, de véritables divinités.
 
 ### Les autres Grands Anciens
-[Bokrug](./Bokrug.md), [Cthulhu](./Cthulhu.md) et [Hastur](./Hastur.md) ne sont que trois des Grands Anciens. Il en existe d’autres, innombrables, sur des mondes reculés ou dans d’autres dimensions mais ils restent capables d’influencer le monde à travers les rêves et les cultes.
+[[Bokrug]], [[Cthulhu]] et [[Hastur]] ne sont que trois des Grands Anciens. Il en existe d’autres, innombrables, sur des mondes reculés ou dans d’autres dimensions mais ils restent capables d’influencer le monde à travers les rêves et les cultes.
 
-*Voir aussi : [Chose très ancienne](./Chose très ancienne.md), [Chien de Tindalos](./../Aventures/Chien de Tindalos.md), [Larve stellaire de Cthulhu](./Larve stellaire de Cthulhu.md)*
+*Voir aussi : [[Chose très ancienne]], [[Chien de Tindalos]], [[Larve stellaire de Cthulhu]]*
 
 Le concept central des Grands Anciens a été créé par H. P. Lovecraft, l’un des auteurs les plus influents de la fantasy d’horreur (et de la fiction d’horreur en général) du XXe siècle. Lovecraft a activement encouragé ses amis écrivains à compléter le panthéon de ses créatures mythiques et, aujourd’hui, on compte non seulement les Grands Anciens qu’ont créés les contemporains de Lovecraft comme Clark Ashton Smith, Robert E. Howard, Henry Kuttner et August Derleth, mais aussi ceux d’auteurs modernes comme Ramsey Campbell, Brian Lumley et Stephen King. L’excellent jeu de rôle L’Appel de Cthulhu, édité par Chaosium, est l’univers parfait pour commencer à fouiller plus en profondeur dans le royaume des Grands Anciens sous forme de jeu de rôle. En créant de nouveaux Grands Anciens pour votre jeu, vous pourriez même participer à cette tradition de mythologie partagée, vieille de presque un siècle !

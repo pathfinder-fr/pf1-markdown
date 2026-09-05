@@ -8,9 +8,9 @@ Categories:
 
 *L’endurance du personnage est au-dessus de la moyenne.*
 
-**Avantage.** Le personnage gagne 3 [points de vie](./pv.md) supplémentaires. Il gagne 1 [point de vie](./pv.md) supplémentaire pour chaque [Dé de vie](./../Ressources/DV.md) qu’il possède au-dessus de 3. S’il possède plus de 3 [DV](./../Ressources/DV.md), il gagne 1 [point de vie](./pv.md) supplémentaire à chaque fois qu’il gagne un [DV](./../Ressources/DV.md) (quand il [prend un niveau](./Progression des personnages.md) par exemple).
+**Avantage.** Le personnage gagne 3 [[pv|points de vie]] supplémentaires. Il gagne 1 [[pv|point de vie]] supplémentaire pour chaque [[DV|Dé de vie]] qu’il possède au-dessus de 3. S’il possède plus de 3 [[DV]], il gagne 1 [[pv|point de vie]] supplémentaire à chaque fois qu’il gagne un [[DV]] (quand il [[progression des personnages|prend un niveau]] par exemple).
 
-(((Ce don possède une variante [Robustesse (alternatif)](./Robustesse (alternatif).md) pour utilisation avec les règles alternatives « [Blessures et vitalité](./Blessures et vitalité.md) » de l’*Art de la Guerre*)))
+(((Ce don possède une variante [[Robustesse (alternatif)]] pour utilisation avec les règles alternatives « [[Blessures et vitalité]] » de l’*Art de la Guerre*)))
 
 {s:CMy}
 ### Version mythique
@@ -18,4 +18,4 @@ Categories:
 
 **Condition.** Robustesse
 
-**Avantage.** Le don Robustesse confère deux fois plus de points de vie. De plus, lorsque son total des points de vie tombe en dessous de 0, le personnage gagne une [RD](./RD.md) 10/[épique](./RDépique.md). Cette RD se cumule avec toutes les éventuelles autres RD/épique possédées par le personnage.
+**Avantage.** Le don Robustesse confère deux fois plus de points de vie. De plus, lorsque son total des points de vie tombe en dessous de 0, le personnage gagne une [[RD]] 10/[[RDépique|épique]]. Cette RD se cumule avec toutes les éventuelles autres RD/épique possédées par le personnage.

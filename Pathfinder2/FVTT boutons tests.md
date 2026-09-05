@@ -4,9 +4,9 @@ Title: Boutons inline pour les tests sur Foundry VTT
 LastModified: 2023-10-15 11:26
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• Autres types de boutons inline : [Boutons de jets de dés](./FVTT boutons jets.md) - [Boutons de tests](./FVTT boutons tests.md) - [Boutons de gabarit](./FVTT boutons gabarit.md)
+• Autres types de boutons inline : [[FVTT boutons jets|Boutons de jets de dés]] - [[FVTT boutons tests|Boutons de tests]] - [[FVTT boutons gabarit|Boutons de gabarit]]
 
 <nowiki><style>
 1. content #PageContentDiv code {
@@ -39,7 +39,7 @@ Pour créer un bouton de test, il faut utiliser le code `@Check` et préciser le
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:nature]`</td>
+`@Check[[type:nature]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich1a.webp"/></td>
 </tr>
 <tr><td>
@@ -50,7 +50,7 @@ Pour créer un bouton de test, il faut utiliser le code `@Check` et préciser le
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:will]`</td>
+`@Check[[type:will]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich2a.webp"/></td>
 </tr>
 <tr><td>
@@ -114,7 +114,7 @@ On peut préciser le DD du test avec l'attribut `dc`. Quand un test précisant l
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:reflex|dc:17]`</td>
+`@Check[[type:reflex|dc:17]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich3a.webp"/></td>
 </tr>
 <tr><td>
@@ -128,7 +128,7 @@ On peut modifier la visibilité du DD en utilisant l'attribut `showDC`. Par déf
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:reflex|dc:17|showDC:all]`</td>
+`@Check[[type:reflex|dc:17|showDC:all]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich13a.webp"/></td>
 </tr>
 <tr><td>
@@ -143,7 +143,7 @@ Comme pour les autres types de boutons inline, on peut préciser un libellé en 
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:athletics|dc:15]{Escalader la paroi}`</td>
+`@Check[[type:athletics|dc:15]]{Escalader la paroi}`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich4a.webp"/></td>
 </tr>
 <tr><td>
@@ -160,7 +160,7 @@ Préciser qu'un test est basique permet de déclencher certains effets liés aux
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:fortitude|dc:20|basic:true]`</td>
+`@Check[[type:fortitude|dc:20|basic:true]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich5a.webp"/></td>
 </tr>
 <tr><td>
@@ -171,7 +171,7 @@ Préciser qu'un test est basique permet de déclencher certains effets liés aux
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:reflex|dc:20|basic:true]`</td>
+`@Check[[type:reflex|dc:20|basic:true]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich6a.webp"/></td>
 </tr>
 <tr><td>
@@ -189,7 +189,7 @@ Le premier exemple ci-dessous utilise le trait `damaging-effect` qui permet de p
 <tr>
 <td>**Code**  
 
-`@Check[type:reflex|dc:20|traits:damaging-effect]`</td>
+`@Check[[type:reflex|dc:20|traits:damaging-effect]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich7a.webp"/></td>
 </tr>
 <tr><td>
@@ -200,7 +200,7 @@ Le premier exemple ci-dessous utilise le trait `damaging-effect` qui permet de p
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:perception|dc:15|traits:secret]`</td>
+`@Check[[type:perception|dc:15|traits:secret]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich8a.webp"/></td>
 </tr>
 <tr><td>
@@ -211,7 +211,7 @@ Le premier exemple ci-dessous utilise le trait `damaging-effect` qui permet de p
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:will|dc:18|traits:fear]`</td>
+`@Check[[type:will|dc:18|traits:fear]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich9a.webp"/></td>
 </tr>
 <tr><td>
@@ -225,7 +225,7 @@ Voici quelques autres exemples utilisant des traits permettant de préciser le t
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:perception|dc:19|traits:auditory]`</td>
+`@Check[[type:perception|dc:19|traits:auditory]]`</td>
 </tr>
 <tr><td>
 **Affichage**  
@@ -235,7 +235,7 @@ Voici quelques autres exemples utilisant des traits permettant de préciser le t
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:perception|dc:17|traits:action:search]`
+`@Check[[type:perception|dc:17|traits:action:search]]`
 </td>
 </tr>
 <tr><td>
@@ -246,7 +246,7 @@ Voici quelques autres exemples utilisant des traits permettant de préciser le t
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:athletics|dc:18|traits:action:long-jump]`</td>
+`@Check[[type:athletics|dc:18|traits:action:long-jump]]`</td>
 </tr>
 <tr><td>
 **Affichage**  
@@ -265,7 +265,7 @@ On peut créer un test donc le DD sera automatiquement ajusté à la valeur stan
 <table class="example">
 <tr>
 <td>**Code**  
-`@Check[type:crafting|dc:@self.level]`</td>
+`@Check[[type:crafting|dc:@self.level]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bich15a.webp"/></td>
 </tr>
 <tr><td>
@@ -276,7 +276,7 @@ On peut créer un test donc le DD sera automatiquement ajusté à la valeur stan
 
 L'exemple ci-dessus correspond à un test d'Artisanat de DD correspondant au niveau des PJ. Pour Valéros, de niveau 5, le DD est fixé à 20 alors que, pour Ezren, de niveau 10, il monte à 27. Si on veut ajuster ce DD de niveau, on peut utiliser l'attribut `adjustment`.
 
-Par exemple, `@Check[type:crafting|dc:@self.level|adjustment:5]` pour simuler un test d'Artisanat de difficulté Très difficile (+5).
+Par exemple, `@Check[[type:crafting|dc:@self.level|adjustment:5]]` pour simuler un test d'Artisanat de difficulté Très difficile (+5).
 
 Si on désire calculer le DD du test pas en fonction de l'acteur qui effectue le test mais plutôt en fonction de l'acteur à l'origine du test (par exemple, si le test se trouve dans la description d'une capacité d'une créature, de cette créature), on peut utiliser la "fonction" `resolve`. Celle-ci permet d'effectuer des calculs à partir de valeurs correspondant à la créature-origine (via `@actor...value`) ou à l'objet-origine (via `@item.data.data...value`).
 

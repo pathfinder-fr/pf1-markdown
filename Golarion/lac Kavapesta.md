@@ -7,6 +7,6 @@ Categories:
 - Ustalav
 ---
 
-Le lac Kavapesta est la plus grande étendue d'eau du comté d'[Amaans](./Amaans.md). Il s'agit aussi de sa zone la plus civilisée puisque la plupart de ses habitants se sont réunis autour du lac. C'est sur les rives du lac qu'a été fondée [Kavapesta](./Kavapesta.md), la plus grande cité du comté.
+Le lac Kavapesta est la plus grande étendue d'eau du comté d'[[Amaans]]. Il s'agit aussi de sa zone la plus civilisée puisque la plupart de ses habitants se sont réunis autour du lac. C'est sur les rives du lac qu'a été fondée [[Kavapesta]], la plus grande cité du comté.
 
-La raison pour laquelle le lac Kavapesta est si important pour le comté d'[Amaans](./Amaans.md) est quel le reste du territoire est occupé par des vallées rocheuses et par les contreforts des [montagnes Affamées](./montagnes Affamées.md) et que pour ces raisons, il est très difficile d'y vivre.
+La raison pour laquelle le lac Kavapesta est si important pour le comté d'[[Amaans]] est quel le reste du territoire est occupé par des vallées rocheuses et par les contreforts des [[montagnes Affamées]] et que pour ces raisons, il est très difficile d'y vivre.

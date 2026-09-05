@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Bouclier dAroden.md).***
+***Voir les [[Pathfinder-RPG.Bouclier dAroden|statistiques de cet artefact]].***
 
 Un œil fixe, ailé et radieux, est gravé sur ce solide bouclier en bois, toujours robuste malgré les cicatrices et les entailles de ses innombrables batailles.
 

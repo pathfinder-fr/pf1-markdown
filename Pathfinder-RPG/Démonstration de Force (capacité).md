@@ -7,6 +7,6 @@ Categories:
 - Src Bestiaire 4
 ---
 
-Par une [action libre](./Action libre.md), la créature peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour accomplir un tour de force. Elle gagne un bonus de circonstances de +20 à un test de [compétence](./Compétences.md) ou de [caractéristique](./Caractéristiques.md) basé sur la [Force](./Force.md). La créature peut aussi utiliser ce pouvoir pour bénéficier d’un bonus de circonstances de +20 à sa valeur de Force pour déterminer le [poids qu’elle peut porter](./Poids transportable.md) pendant un nombre d’heures égal à son [rang mythique](./Monstres mythiques.md#RANGMYTHIQUE).
+Par une [[action libre]], la créature peut dépenser une utilisation de [[pouvoir mythique]] pour accomplir un tour de force. Elle gagne un bonus de circonstances de +20 à un test de [[compétences|compétence]] ou de [[caractéristiques|caractéristique]] basé sur la [[Force]]. La créature peut aussi utiliser ce pouvoir pour bénéficier d’un bonus de circonstances de +20 à sa valeur de Force pour déterminer le [[Poids transportable|poids qu’elle peut porter]] pendant un nombre d’heures égal à son [[Monstres mythiques#RANGMYTHIQUE|rang mythique]].
 
 *Format :* démonstration de force ; *Emplacement :* Particularités

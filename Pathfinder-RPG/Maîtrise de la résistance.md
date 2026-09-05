@@ -13,11 +13,11 @@ Categories:
 
 *Le personnage peut se protéger des dégâts en utilisant les objets magiques de l’école d’abjuration.*
 
-**Catégorie.** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+**Catégorie.** [[dons#MAITRISEDOBJET|maîtrise d’objet]]
 
-**Conditions.** 3 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md), bonus de base de [Vigueur](./Vigueur.md) +3
+**Conditions.** 3 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]], bonus de base de [[Vigueur]] +3
 
-**Avantages.** Une fois par jour, le personnage peut méditer 10 minutes sur une armure magique ou un objet merveilleux dont une des conditions de fabrication est un sort d’abjuration de niveau 2 ou supérieur et qui occupe un emplacement sur son corps afin d’obtenir un bonus défensif. Ce bénéfice peut être soit un bonus de résistance de +1 à tous les [jets de sauvegarde](./JDS.md) ou une résistance contre un type d’énergie de 5 points (acide, électricité, feu, froid, son). Ce bénéfice dure pendant 24 heures. Le personnage doit porter l’objet pour en obtenir le bénéfice et s’il est ôté avant la fin de la durée, l’avantage conféré cesse et ne peut être regagné avant que 24 heures ne se soient écoulées depuis la fin de la dernière activation du don. Le bonus de résistance accordé augmente 1 et la résistance à l'énergie de 5 lorsque le bonus de base de [Vigueur](./Vigueur.md) du personnage passe à +6, +9 et +12. Un personnage ne peut obtenir le bénéfice de ce don qu’une seule fois en un temps donné.
+**Avantages.** Une fois par jour, le personnage peut méditer 10 minutes sur une armure magique ou un objet merveilleux dont une des conditions de fabrication est un sort d’abjuration de niveau 2 ou supérieur et qui occupe un emplacement sur son corps afin d’obtenir un bonus défensif. Ce bénéfice peut être soit un bonus de résistance de +1 à tous les [[jds|jets de sauvegarde]] ou une résistance contre un type d’énergie de 5 points (acide, électricité, feu, froid, son). Ce bénéfice dure pendant 24 heures. Le personnage doit porter l’objet pour en obtenir le bénéfice et s’il est ôté avant la fin de la durée, l’avantage conféré cesse et ne peut être regagné avant que 24 heures ne se soient écoulées depuis la fin de la dernière activation du don. Le bonus de résistance accordé augmente 1 et la résistance à l'énergie de 5 lorsque le bonus de base de [[Vigueur]] du personnage passe à +6, +9 et +12. Un personnage ne peut obtenir le bénéfice de ce don qu’une seule fois en un temps donné.
 
 (((Resistance Mastery (Item Mastery)
 

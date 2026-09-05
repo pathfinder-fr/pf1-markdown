@@ -10,9 +10,9 @@ Categories:
 
 {s:divin|Gorum|%2fPCUP%2fReligion-PNG%2fGorum.png}<div class="BD">
 {s:BDTitre|Cuirasse en fer éternelle|{s:ISG}}
-**Aura** [Enchantement](./Enchantement.md) et [Invocation](./Invocation.md) modérée ; **NLS** 7 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 4 890 po ; **Poids** 15 kg
+**Aura** [[Enchantement]] et [[Invocation]] modérée ; **NLS** 7 ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Prix** 4 890 po ; **Poids** 15 kg
 (((Description)))
-{s:cs}Cette *[cuirasse](./cuirasse (armure).md) [garrot](./garrot (propriété).md) +1* est usée par les combats mais polie avec grand soin, et porte un petit symbole d'épée et de montagne de [Gorum](./Gorum (technique).md) encastré juste en dessous du gorget. Une fois par jour, le porteur peut utiliser *[hostilité forcée](./Hostilité forcée.md)* ; si un allié adjacent est réduit à des points de vie négatifs ou tué, le porteur peut activer cette capacité par une [action immédiate](./Action immédiate.md) au lieu d'une [action simple](./Action simple.md).
+{s:cs}Cette *[[cuirasse (armure)|cuirasse]] [[garrot (propriété)|garrot]] +1* est usée par les combats mais polie avec grand soin, et porte un petit symbole d'épée et de montagne de [[Gorum (technique)|Gorum]] encastré juste en dessous du gorget. Une fois par jour, le porteur peut utiliser *[[hostilité forcée]]* ; si un allié adjacent est réduit à des points de vie négatifs ou tué, le porteur peut activer cette capacité par une [[action immédiate]] au lieu d'une [[action simple]].
 (((Création)))
-**Conditions** [Création d'armes et armures magiques](./Création darmes et armures magiques.md), *[hostilité forcée](./Hostilité forcée.md)*, *[stabilisation](./Stabilisation.md)*, soit *[soins intensifs](./Soins intensifs.md)* soit *[restauration partielle](./Restauration partielle.md)* ; **Coût** 2 620 po
+**Conditions** [[Création darmes et armures magiques|Création d'armes et armures magiques]], *[[hostilité forcée]]*, *[[stabilisation]]*, soit *[[soins intensifs]]* soit *[[restauration partielle]]* ; **Coût** 2 620 po
 </div>

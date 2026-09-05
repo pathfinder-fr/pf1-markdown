@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 25 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces rongeurs blancs semblables à des capibaras de taille P sont originaires des marais et des côtes tempérés. On les trouve souvent comme animaux de compagnie et comme bétail dans certaines régions. Voir les statistiques du [rat-âne](./Rat-âne.md).
+Ces rongeurs blancs semblables à des capibaras de taille P sont originaires des marais et des côtes tempérés. On les trouve souvent comme animaux de compagnie et comme bétail dans certaines régions. Voir les statistiques du [[rat-âne]].

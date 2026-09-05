@@ -12,6 +12,6 @@ Categories:
 
 **Condition.** Aptitude à lancer des sorts
 
-**Avantage.** Le personnage peut apprendre un nombre de sorts mythiques égal à son grade et peut dépenser du pouvoir mythique lorsqu’il les lance pour augmenter leurs effets. Pour sélectionner un sort mythique, le personnage doit être capable de lancer sa version [non-mythique](./non-mythique.md) ou l’avoir dans son répertoire de sorts connus. Chaque fois qu’il gagne un nouveau [grade](./Grade.md), il peut choisir un sort mythique supplémentaire.
+**Avantage.** Le personnage peut apprendre un nombre de sorts mythiques égal à son grade et peut dépenser du pouvoir mythique lorsqu’il les lance pour augmenter leurs effets. Pour sélectionner un sort mythique, le personnage doit être capable de lancer sa version [[non-mythique]] ou l’avoir dans son répertoire de sorts connus. Chaque fois qu’il gagne un nouveau [[grade]], il peut choisir un sort mythique supplémentaire.
 
 **Spécial.** Le personnage peut choisir ce don plusieurs fois. Le cas échéant, il doit sélectionner des sorts différents.

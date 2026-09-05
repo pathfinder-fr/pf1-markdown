@@ -10,21 +10,21 @@ Categories:
 ---
 
 {s:cm}
-**Ce sort est réservé aux personnages de la race [Bourbiérin](./Bourbiérin.md).**
+**Ce sort est réservé aux personnages de la race [[Bourbiérin]].**
 
-**École** [Nécromancie](./Nécromancie.md) (Mal) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Prê](./Prêtre.md) 3, [Sor](./Sorcière.md) 3  
+**École** [[Nécromancie]] (Mal) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[prêtre|Prê]] 3, [[sorcière|Sor]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un morceau de chair d’une autre créature de l’espèce du lanceur de sorts)   
+**Composantes** [[composantes|V, G, M]] (un morceau de chair d’une autre créature de l’espèce du lanceur de sorts)   
 
 **Portée** personnelle   
 
 **Effet** Aura émanation de 6 m de rayon centrée sur le lanceur  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir description) ; **Résistance à la magie** oui
 
 
 Le personnage dégage une aura qui sape la force des autres membres de son espèce et la lui transfère. À chaque fois qu’une créature possédant le même type et au moins un même sous-type (le cas échéant) que le personnage commence son tour au sein de son aura, elle doit réussir un jet de Vigueur ou subir 1d4 points de dégâts. Le personnage gagne un nombre de points de vie temporaires égal à la quantité de dégâts infligés par le sort (au maximum 10 + niveau de lanceur de sorts). Ces points de vie temporaires se dissipent dès que le sort se termine.

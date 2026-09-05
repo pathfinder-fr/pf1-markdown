@@ -8,13 +8,13 @@ Categories:
 - Src Codex monstrueux
 ---
 
-***Cette option est plus commune pour les [bourbiérins](./Bourbiérin.md).***
+***Cette option est plus commune pour les [[Bourbiérin|bourbiérins]].***
 
 <div class="BD">
 {s:BDTitre|Chapeau d'énergie négative|{s:CM}}
-**Aura** [Nécromancie](./Nécromancie.md) faible ; **NLS** 5 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 3 500 po ; **Poids** —
+**Aura** [[Nécromancie]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 3 500 po ; **Poids** —
 (((Description)))
 Ce chapeau de cuir informe permet à un bourbiérin ou une autre créature à l’allure de grenouille de drainer la force des victimes de son attaque de langue. Si le porteur du chapeau finit son tour avec la langue attachée à une autre créature ou en lutte avec elle, sa victime subit un malus de –1 à la Force et la langue du porteur gagne 5 points de vie temporaires. Le malus et les points de vie temporaires durent une minute. À chaque fois que la victime reste attachée, le malus de Force augmente de 1, la langue gagne 5 nouveaux points de vie temporaires (10 au maximum) et la durée de l’effet se réinitialise.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[rayon affaiblissant](./Rayon affaiblissant.md)*, *[baiser du vampire](./Baiser du vampire.md)*; **Coût** 1 750 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[rayon affaiblissant]]*, *[[baiser du vampire]]*; **Coût** 1 750 po
 </div>

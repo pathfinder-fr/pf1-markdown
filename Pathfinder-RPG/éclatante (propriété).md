@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Éclatante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Éclatante](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Éclatante)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Éclatante]]

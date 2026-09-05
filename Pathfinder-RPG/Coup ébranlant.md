@@ -10,9 +10,9 @@ Categories:
 
 {s:cm}*Le personnage sait où frapper pour faire chanceler son adversaire.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 13, [Attaque en puissance](./Attaque en puissance.md), [Frappe décisive](./Frappe décisive.md), [BBA](./BBA.md) +8.
+**Conditions.** [[For]] 13, [[Attaque en puissance]], [[Frappe décisive]], [[BBA]] +8.
 
 **Avantages.** Quand le personnage attaque un ennemi avec une Frappe décisive, il peut décider de subir un malus de –2 au jet d’attaque pour que cette attaque soit aussi une frappe déstabilisante. Il doit faire ce choix avant de faire son jet d’attaque.
 

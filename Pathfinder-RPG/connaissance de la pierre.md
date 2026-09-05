@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Nain#CONNAISSANCEPIERRE
 ---
 
->>> [Nain#CONNAISSANCEPIERRE](./Nain.md#CONNAISSANCEPIERRE)
+>>> [[Nain#CONNAISSANCEPIERRE]]

@@ -13,10 +13,10 @@ Categories:
 
 **Catégorie.** combat
 
-**Conditions.** [nain](./Nain.md), [For](./Force.md) 13, [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md)
+**Conditions.** [[nain]], [[Force|For]] 13, [[Attaque en puissance]], [[Enchaînement]]
 
-**Avantages.** Quand le personnage utilise [Enchaînement](./Enchaînement.md) ou [Succession d’enchaînements](./Succession denchaînements.md), tant que sa première attaque touche, il peut porter ses attaques supplémentaires contre n’importe quelle créature plus petite que lui qu’il menace, même si ses cibles ne sont pas adjacentes l’une à l’autre. Les attaques supplémentaires portées contre les humanoïdes (gobelinoïdes) bénéficient d’un bonus de circonstances de +2 aux [jets d’attaque](./jet dattaque.md).
+**Avantages.** Quand le personnage utilise [[Enchaînement]] ou [[Succession denchaînements|Succession d’enchaînements]], tant que sa première attaque touche, il peut porter ses attaques supplémentaires contre n’importe quelle créature plus petite que lui qu’il menace, même si ses cibles ne sont pas adjacentes l’une à l’autre. Les attaques supplémentaires portées contre les humanoïdes (gobelinoïdes) bénéficient d’un bonus de circonstances de +2 aux [[jet dattaque|jets d’attaque]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Tant que le personnage a au moins un point dans sa réserve d’endurance, le bonus aux attaques d’Enchaînement contre les gobelinoïdes passe à +4.

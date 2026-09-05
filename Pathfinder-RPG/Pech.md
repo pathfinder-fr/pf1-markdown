@@ -10,25 +10,25 @@ LastModified: 2021-02-20 15:26
 {s:pucem|Fée|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2 p.214*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Fée](./type Fée.md) ([terre](./sous-type Terre.md)) de taille P, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Fée|Fée]] ([[sous-type terre|terre]]) de taille P, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 15 (Dex +1, naturelle +4, taille +1)}
 {s:BDTexte|**pv** 27 (6d6+6)}
 {s:BDTexte|**Réf** +6, **Vig** +5, **Vol** +6}
 {s:BDTexte|**Immunités** pétrification ; **RD** 5/fer froid ; **RM** 14}
-{s:BDTexte|**Faiblesses** [Aveugle](./Aveuglé.md) par la lumière}
+{s:BDTexte|**Faiblesses** [[aveuglé|Aveugle]] par la lumière}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** pic de guerre lourd de maître, +9 (1d4+6/×4)}
 {s:BDTexte|**Attaques spéciales** connaissance de la pierre, magie des pechs, maîtrise de la terre}
 {s:BDTexte|**Pouvoirs magiques** (NLS 10<sup>e</sup>, concentration +11)}
-{s:BDSorts|3/jour — [façonnage de la pierre](./Façonnage de la pierre.md) ; [pierres commères](./Pierres commères.md)}
+{s:BDSorts|3/jour — [[façonnage de la pierre]] ; [[pierres commères]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 12, **Con** 13, **Int** 12, **Sag** 13, **Cha**12}
 {s:BDTexte|**BBA** +3, **BMO** +6, **DMD** 17}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (constructions en pierre) +14, [Connaissances](./Connaissances.md) (exploration souterraine) +10, [Connaissances](./Connaissances.md) (ingénierie) +10, [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +13, [Perception](./Perception.md) +10, [Profession](./Profession.md) (mineur) +14   ; **Modificateurs raciaux** +4 en [Artisanat](./Artisanat.md) (constructions en pierre),  +4 en [Profession](./Profession.md) (mineur)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (constructions en pierre) +14, [[Connaissances]] (exploration souterraine) +10, [[Connaissances]] (ingénierie) +10, [[Discrétion]] +14, [[Escalade]] +13, [[Perception]] +10, [[Profession]] (mineur) +14   ; **Modificateurs raciaux** +4 en [[Artisanat]] (constructions en pierre),  +4 en [[Profession]] (mineur)}
 {s:BDTexte|**Langues** commun des profondeurs, terreux}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** sous terre (plan de la Terre)}

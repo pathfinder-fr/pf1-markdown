@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 3 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
 Ces oiseaux domestiques ne peuvent pas voler sur de longues distances. On les élève pour leurs œufs et leur viande. Les poulets mâles servent à la reproduction et, parfois, à des sports sanguinaires.

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 po ; **Poids** 2,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Ce solide bocal en céramique est doté d’un lourd couvercle percé de petits trous laissant passer l’air. En principe, il est à moitié rempli d’eau et accueille quatre sangsues adultes mesurant environ 15 centimètres chacune. Le bocal à sangsues accorde un bonus de circonstances de +2 aux tests de [Premiers secours](./Premiers secours.md) pour traiter les [poisons](./Poisons.md). Utilisée pour les saignées médicinales, une sangsue peut survivre 6 mois sans manger.
+Ce solide bocal en céramique est doté d’un lourd couvercle percé de petits trous laissant passer l’air. En principe, il est à moitié rempli d’eau et accueille quatre sangsues adultes mesurant environ 15 centimètres chacune. Le bocal à sangsues accorde un bonus de circonstances de +2 aux tests de [[Premiers secours]] pour traiter les [[Poisons]]. Utilisée pour les saignées médicinales, une sangsue peut survivre 6 mois sans manger.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#DEFCYLINDRE
 ---
 
->>> [Présentation des sorts#DEFCYLINDRE](./Présentation des sorts.md#DEFCYLINDRE)
+>>> [[Présentation des sorts#DEFCYLINDRE]]

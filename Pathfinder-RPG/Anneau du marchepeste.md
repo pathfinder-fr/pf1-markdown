@@ -10,13 +10,13 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau du marchepeste|{s:UI}}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 7 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 26 000 po ; **Poids** —
+**Aura** [[Invocation]] modérée ; **NLS** 7 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 26 000 po ; **Poids** —
 (((Description)))
-{s:cs}Cet anneau d'os brillant de couleur blanc cendré est façonné pour ressembler à d'innombrables crocs de rat entrelacés, sertis d'une douzaine d'yeux en grenat sombres comme ceux des toshers albinos. Le porteur de cet anneau peut prononcer un [mot de commande](./mot de commande.md) pour [appeler](./branche appel.md) 1d3 [nuées de rats](./Nuée de rats.md) dans un rayon de 12 m. Ces nuées agissent chacunes immédiatement et disparaissent après 7 rounds. Elles sont indépendantes et ne sont pas sous le contrôle du porteur, bien que ce dernier soit immunisé contre les effets et les attaques de toute nuée créée par l'utilisation de cet anneau.
+{s:cs}Cet anneau d'os brillant de couleur blanc cendré est façonné pour ressembler à d'innombrables crocs de rat entrelacés, sertis d'une douzaine d'yeux en grenat sombres comme ceux des toshers albinos. Le porteur de cet anneau peut prononcer un [[mot de commande]] pour [[branche appel|appeler]] 1d3 [[Nuée de rats|nuées de rats]] dans un rayon de 12 m. Ces nuées agissent chacunes immédiatement et disparaissent après 7 rounds. Elles sont indépendantes et ne sont pas sous le contrôle du porteur, bien que ce dernier soit immunisé contre les effets et les attaques de toute nuée créée par l'utilisation de cet anneau.
 
-Autrement, sur commande, le porteur de l'anneau peut utiliser *[porte dimensionnelle](./Porte dimensionnelle.md)*. Ce déplacement magique doit commencer et se terminer sur une case occupée par une nuée invoquée par l'utilisation de cet anneau.
+Autrement, sur commande, le porteur de l'anneau peut utiliser *[[porte dimensionnelle]]*. Ce déplacement magique doit commencer et se terminer sur une case occupée par une nuée invoquée par l'utilisation de cet anneau.
 
-Les capacités de cet anneau peuvent être utilisées jusqu'à trois fois par jour, qu'importe la combinaison. Un [druide urbain](./Druide urbain (druide).md) qui porte cet anneau peut gagner une utilisation quotidienne supplémentaire en dépensant trois utilisations de sa capacité [forme animale](./Druide.md#FORMEANIMALE).
+Les capacités de cet anneau peuvent être utilisées jusqu'à trois fois par jour, qu'importe la combinaison. Un [[Druide urbain (druide)|druide urbain]] qui porte cet anneau peut gagner une utilisation quotidienne supplémentaire en dépensant trois utilisations de sa capacité [[Druide#FORMEANIMALE|forme animale]].
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[nuée grouillante](./Nuée grouillante.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)* ; **Coût** 13 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[nuée grouillante]]*, *[[porte dimensionnelle]]* ; **Coût** 13 000 po
 </div>

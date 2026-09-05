@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tropical}
 - *Source : Bestiaire 4, p.273*
 - **PX** 4 800
-- [Animal](./type Animal.md) de taille C, N
-- **Init** -2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +14
+- [[type Animal|Animal]] de taille C, N
+- **Init** -2 ; **Sens** [[vision nocturne]] ; [[Perception]] +14
 (((Défense)))
 - **CA** 25, contact 0, pris au dépourvu 25 (Dex -2, naturelle +25, taille -8)
 - **pv** 126 (11d8+77)
@@ -28,10 +28,10 @@ Categories:
 (((Statistiques)))
 - **For** 40, **Dex** 7, **Con** 24, **Int** 2, **Sag** 11, **Cha** 9
 - **BBA** +8 ; **BMO** +31 ; **DMD** 39 (43 contre le croc-en-jambe)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Don pour les critiques](./Don pour les critiques.md), [Endurance](./Endurance.md), [Science de la vigueur surhumaine](./Science de la vigueur surhumaine.md), [Science du critique](./Science du critique.md) (morsure), [Vigueur surhumaine](./Vigueur surhumaine.md)
-- **Compétences** [Perception](./Perception.md) +14 (+10 pour les tests de Perception auditive)
-- **Modificateurs raciaux** -4 aux tests de [Perception](./Perception.md) auditive,
-- **Particularités** flottable, carapace, lentement mais sûrement (voir [tortue géante](./Tortue géante.md))
+- **Dons** [[Attaque en puissance]], [[Don pour les critiques]], [[Endurance]], [[Science de la vigueur surhumaine]], [[Science du critique]] (morsure), [[Vigueur surhumaine]]
+- **Compétences** [[Perception]] +14 (+10 pour les tests de Perception auditive)
+- **Modificateurs raciaux** -4 aux tests de [[Perception]] auditive,
+- **Particularités** flottable, carapace, lentement mais sûrement (voir [[tortue géante]])
 (((Écologie)))
 - **Environnement** îles chaudes
 - **Organisation sociale** solitaire
@@ -46,9 +46,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Tortue géante](./Tortue géante.md) || 1
+| [[Tortue géante]] || 1
 |-
-| [Tortue immense](./Tortue immense.md) || 8
+| [[Tortue immense]] || 8
 |}
 </div>*Des plantes et même des arbres poussent sur la carapace de cette gigantesque tortue qui scrute les alentours de ses yeux ternes et placides.*
 

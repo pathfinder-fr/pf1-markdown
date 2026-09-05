@@ -12,9 +12,9 @@ Categories:
 {s:BDTitre|Yzobu|FP 1}
 {s:pucem|Animal|Collines|Tempéré}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +6}
-{s:BDTexte|**Aura** [puanteur](./Puanteur.md) (DD 13, 10 rounds)}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]], [[odorat]] ; [[Perception]] +6}
+{s:BDTexte|**Aura** [[puanteur]] (DD 13, 10 rounds)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 10, pris au dépourvu 12 (Dex +1, naturelle +3, taille -1)}
 {s:BDTexte|**pv** 13 (2d8+4)}
@@ -23,12 +23,12 @@ Categories:
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** corne, +3 (1d8+3)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,50 m}
-{s:BDTexte|**Attaques spéciales** débandade, [piétinement](./Piétinement.md) (1d6+3, DD 13)}
+{s:BDTexte|**Attaques spéciales** débandade, [[piétinement]] (1d6+3, DD 13)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 13, **Con** 14, **Int** 1, **Sag** 12, **Cha** 5}
 {s:BDTexte|**BBA** +1 ; **BMO** +4 ; **DMD** 15}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (corne)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +6}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (corne)}
+{s:BDTexte|**Compétences** [[Perception]] +6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines et plaines froides}
 {s:BDTexte|**Organisation** solitaire, couple ou troupeau (3-30)}
@@ -43,25 +43,25 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Hobgobelin](./Hobgobelin.md) || 1/2
+| [[Hobgobelin]] || 1/2
 |-
-| [Yzobu](./Yzobu.md) || 1
+| [[Yzobu]] || 1
 |-
-| [Sergent hobgobelin](./Sergent hobgobelin.md) || 2
+| [[Sergent hobgobelin]] || 2
 |-
-| [Zélote des batailles hobgobelin](./Zélote des batailles hobgobelin.md) || 2
+| [[Zélote des batailles hobgobelin]] || 2
 |-
-| [Lieutenant hobgobelin](./../Aventures/Lieutenant hobgobelin.md) || 4
+| [[Lieutenant hobgobelin]] || 4
 |-
-| [Précurseur hobgobelin](./Précurseur hobgobelin.md) || 6
+| [[Précurseur hobgobelin]] || 6
 |-
-| [Bombardier hobgobelin](./Bombardier hobgobelin.md) || 7
+| [[Bombardier hobgobelin]] || 7
 |-
-| [Prêtre guerrier hobgobelin](./Prêtre guerrier hobgobelin.md) || 8
+| [[Prêtre guerrier hobgobelin]] || 8
 |-
-| [Parangon hobgobelin](./Parangon hobgobelin.md) || 10
+| [[Parangon hobgobelin]] || 10
 |-
-| [Commandant hobgobelin](./Commandant hobgobelin.md) || 12
+| [[Commandant hobgobelin]] || 12
 |-
 |}
 </div>*Ce quadrupède aux longues cornes et à la tête bovine ressemble à un croisement entre un cheval et un yack aux longs poils.*

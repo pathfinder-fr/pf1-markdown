@@ -14,24 +14,24 @@ Categories:
 ---
 
 {s:UM}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[poison](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 2, [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 10 minutes/[niveaux](./niveau.md)  
+**Durée** 10 minutes/[[niveau|niveaux]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-Le personnage affaiblit les défenses de la cible contre le [poison](./poison.md). Celle-ci gagne un malus de -4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre le [poison](./poison.md) et les [poisons](./poison.md) qui l’affectent se prolongent pendant deux laps de fréquence supplémentaires (par exemple, un [venin de vipère noire](./Poisons.md#Venindevipèreàtêtenoire) dure 8 [rounds](./round.md) au lieu de 6 et l’[arsenic](./Poisons.md#Arsenic) fait effet pendant 6 minutes au lieu de 4). Les tentatives pour guérir la cible empoisonnée à l’aide d’une [compétence](./Premiers secours.md) ou de la [magie](./Neutralisation du poison.md) subissent un malus de -4.
+Le personnage affaiblit les défenses de la cible contre le [[poison]]. Celle-ci gagne un malus de -4 aux [[jet de sauvegarde|jets de sauvegarde]] contre le [[poison]] et les [[poison|poisons]] qui l’affectent se prolongent pendant deux laps de fréquence supplémentaires (par exemple, un [[Poisons#Venindevipèreàtêtenoire|venin de vipère noire]] dure 8 [[round|rounds]] au lieu de 6 et l’[[Poisons#Arsenic|arsenic]] fait effet pendant 6 minutes au lieu de 4). Les tentatives pour guérir la cible empoisonnée à l’aide d’une [[premiers secours|compétence]] ou de la [[Neutralisation du poison|magie]] subissent un malus de -4.
 
 ### Mythique
 {s:CMy}
-Il faut réussir un jet de sauvegarde de plus pour guérir du poison. Si le poison inflige un affaiblissement temporaire de [caractéristique](./caractéristique.md) suite à un jet de sauvegarde raté, l’affaiblissement infligé augmente de 1 point.
+Il faut réussir un jet de sauvegarde de plus pour guérir du poison. Si le poison inflige un affaiblissement temporaire de [[caractéristique]] suite à un jet de sauvegarde raté, l’affaiblissement infligé augmente de 1 point.
 
-**[Amplifié](./Amplifié.md) (6ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), le malus aux jets de sauvegarde contre le poison s’élève à -8 et le malus aux tentatives de soins effectués sur la cible à l’aide d’une compétence ou de la magie s’élève à -8. Si le personnage dépense trois utilisations de [pouvoir mythique](./pouvoir mythique.md), le poison ignore l’immunité au poison de la créature (cet effet ne s’applique pas si l’immunité au poison est due à l’absence de valeur de [Constitution](./Constitution.md)).
+**[[Amplifié]] (6ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], le malus aux jets de sauvegarde contre le poison s’élève à -8 et le malus aux tentatives de soins effectués sur la cible à l’aide d’une compétence ou de la magie s’élève à -8. Si le personnage dépense trois utilisations de [[pouvoir mythique]], le poison ignore l’immunité au poison de la créature (cet effet ne s’applique pas si l’immunité au poison est due à l’absence de valeur de [[Constitution]]).

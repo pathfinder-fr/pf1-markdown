@@ -10,7 +10,7 @@ LastModified: 2017-04-09 11:04
 {s:pucem|Mort-vivant|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 187*}
 - **1 600 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille TP, CM
+- [[type mort-vivant|Mort-vivant]] de taille TP, CM
 - **Init **+7 ; **Sens** vision dans le noir à 18 m ; Perception +12
 (((Défense)))
 - **CA** 18, contact 15, pris au dépourvu 17 (Dex +3, naturelle +3, taille +2)
@@ -27,8 +27,8 @@ LastModified: 2017-04-09 11:04
 (((Statistiques)))
 - **For** 6, **Dex** 17, **Con **—, **Int** 15, **Sag** 14, **Cha** 17
 - **BBA **+5 ; **BMO **+6 ; **DMD** 14
-- **Dons** [Attaque en vol](./Attaque en vol.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Discrétion)
-- **Compétences** [Art de la magie](./Art de la magie.md) +10, [Artisanat](./Artisanat.md) (pièges) +17, [Connaissances](./Connaissances.md) (ingénierie) +9, [Discrétion](./Discrétion.md) +24, [Perception](./Perception.md) +12, [Sabotage](./Sabotage.md) +10, [Vol](./Vol.md) +20 
+- **Dons** [[Attaque en vol]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Talent]] (Discrétion)
+- **Compétences** [[Art de la magie]] +10, [[Artisanat]] (pièges) +17, [[Connaissances]] (ingénierie) +9, [[Discrétion]] +24, [[Perception]] +12, [[Sabotage]] +10, [[Vol]] +20 
 - **Modificateurs raciaux** +8 en Artisanat (pièges)
 - **Langues** aklo, commun, commun des profondeurs
 - **Particularités** création de pièges, réinitialisateur

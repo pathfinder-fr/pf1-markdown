@@ -10,7 +10,7 @@ LastModified: 2023-09-07 16:53
 
 {s:Reference|PRINCIPALES}
 ### Divinités principales
-Les divinités les plus largement suivie dans le monde. Voir plus d'informations [ici](./../Golarion/Religions et philosophies.md).
+Les divinités les plus largement suivie dans le monde. Voir plus d'informations [[Golarion.Religions et philosophies|ici]].
 
 {| CLASS="tablo autoalt centre toutgauche" WIDTH="100%"
 |+ Tableau récapitulatif des divinités principales
@@ -22,67 +22,67 @@ Les divinités les plus largement suivie dans le monde. Voir plus d'informations
 | WIDTH="18%" | Arme
 
 |- CLASS="premier"
-| [Érastil](./Érastil (technique).md) || LB || Agriculture, chasse, commerce et famille || [Bien](./Domaine du Bien.md), [Communauté](./Domaine de la Communauté.md), [Faune](./Domaine de la Faune.md), [Flore](./Domaine de la Flore.md), [Loi](./Domaine de la Loi.md) || [Arc long](./Arc long (arme).md)
+| [[Érastil (technique)|Érastil]] || LB || Agriculture, chasse, commerce et famille || [[Domaine du Bien|Bien]], [[Domaine de la Communauté|Communauté]], [[Domaine de la Faune|Faune]], [[Domaine de la Flore|Flore]], [[Domaine de la Loi|Loi]] || [[Arc long (arme)|Arc long]]
 
 |- CLASS="premier"
-| [Iomédae](./Iomédae (technique).md) || LB || Courage, commandement, justice et honneur || [Bien](./Domaine du Bien.md), [Gloire](./Domaine de la Gloire.md), [Guerre](./Domaine de la Guerre.md), [Loi](./Domaine de la Loi.md), [Soleil](./Domaine du Soleil.md) || [Épée longue](./épée longue (arme).md)
+| [[Iomédae (technique)|Iomédae]] || LB || Courage, commandement, justice et honneur || [[Domaine du Bien|Bien]], [[Domaine de la Gloire|Gloire]], [[Domaine de la Guerre|Guerre]], [[Domaine de la Loi|Loi]], [[Domaine du Soleil|Soleil]] || [[Épée longue (arme)|Épée longue]]
 
 |- CLASS="premier"
-| [Torag](./Torag (technique).md) || LB || Forge, protection et stratégie || [Artisanat](./Domaine de lArtisanat.md), [Bien](./Domaine du Bien.md), [Loi](./Domaine de la Loi.md), [Protection](./Domaine de la Protection.md), [Terre](./Domaine de la Terre.md) || [Marteau de guerre](./marteau de guerre (arme).md)
+| [[Torag (technique)|Torag]] || LB || Forge, protection et stratégie || [[Domaine de lArtisanat|Artisanat]], [[Domaine du Bien|Bien]], [[Domaine de la Loi|Loi]], [[Domaine de la Protection|Protection]], [[Domaine de la Terre|Terre]] || [[Marteau de guerre (arme)|Marteau de guerre]]
 
 |- CLASS="premier"
-| [Sarenraé](./Sarenraé (technique).md) || NB || Guérison, honnêteté, rédemption et soleil || [Bien](./Domaine du Bien.md), [Feu](./Domaine du Feu.md), [Gloire](./Domaine de la Gloire.md), [Guérison](./Domaine de la Guérison.md), [Soleil](./Domaine du Soleil.md) || [Cimeterre](./cimeterre (arme).md)
+| [[Sarenraé (technique)|Sarenraé]] || NB || Guérison, honnêteté, rédemption et soleil || [[Domaine du Bien|Bien]], [[Domaine du Feu|Feu]], [[Domaine de la Gloire|Gloire]], [[Domaine de la Guérison|Guérison]], [[Domaine du Soleil|Soleil]] || [[Cimeterre (arme)|Cimeterre]]
 
 |- CLASS="premier"
-| [Shélyn](./Shélyn (technique).md) || NB || Amour, art, beauté et musique || [Air](./Domaine de lAir.md), [Bien](./Domaine du Bien.md), [Chance](./Domaine de la Chance.md), [Charme](./Domaine du Charme.md), [Protection](./Domaine de la Protection.md) || [Coutille](./Coutille (arme).md)
+| [[Shélyn (technique)|Shélyn]] || NB || Amour, art, beauté et musique || [[Domaine de lAir|Air]], [[Domaine du Bien|Bien]], [[Domaine de la Chance|Chance]], [[Domaine du Charme|Charme]], [[Domaine de la Protection|Protection]] || [[Coutille (arme)|Coutille]]
 
 |- CLASS="premier"
-| [Cayden Cailéan](./Cayden Cailéan (technique).md) || CB || Bière, bravoure, liberté et vin || [Bien](./Domaine du Bien.md), [Chaos](./Domaine du Chaos.md), [Charme](./Domaine du Charme.md), [Force](./Domaine de la Force.md), [Voyage](./Domaine du Voyage.md) || [Rapière](./rapière (arme).md)
+| [[Cayden Cailéan (technique)|Cayden Cailéan]] || CB || Bière, bravoure, liberté et vin || [[Domaine du Bien|Bien]], [[Domaine du Chaos|Chaos]], [[Domaine du Charme|Charme]], [[Domaine de la Force|Force]], [[Domaine du Voyage|Voyage]] || [[Rapière (arme)|Rapière]]
 
 |- CLASS="premier"
-| [Desna](./Desna (technique).md) || CB || Chance, étoiles, rêves et voyageurs || [Bien](./Domaine du Bien.md), [Chance](./Domaine de la Chance.md), [Chaos](./Domaine du Chaos.md), [Libération](./Domaine de la Libération.md), [Voyage](./Domaine du Voyage.md) || [Lamétoile](./lamétoile (arme).md)
+| [[Desna (technique)|Desna]] || CB || Chance, étoiles, rêves et voyageurs || [[Domaine du Bien|Bien]], [[Domaine de la Chance|Chance]], [[Domaine du Chaos|Chaos]], [[Domaine de la Libération|Libération]], [[Domaine du Voyage|Voyage]] || [[Lamétoile (arme)|Lamétoile]]
 
 |- CLASS="premier"
-| [Abadar](./Abadar (technique).md) || LN || Commerce, loi, richesse et villes || [Loi](./Domaine de la Loi.md), [Noblesse](./Domaine de la Noblesse.md), [Protection](./Domaine de la Protection.md), [Terre](./Domaine de la Terre.md), [Voyage](./Domaine du Voyage.md) || [Arbalète légère](./Arbalète légère (arme).md)
+| [[Abadar (technique)|Abadar]] || LN || Commerce, loi, richesse et villes || [[Domaine de la Loi|Loi]], [[Domaine de la Noblesse|Noblesse]], [[Domaine de la Protection|Protection]], [[Domaine de la Terre|Terre]], [[Domaine du Voyage|Voyage]] || [[Arbalète légère (arme)|Arbalète légère]]
 
 |- CLASS="premier"
-| [Irori](./Irori (technique).md) || LN || Connaissance, histoire et perfection de soi || [Connaissance](./Domaine de la Connaissance.md), [Force](./Domaine de la Force.md), [Guérison](./Domaine de la Guérison.md), [Loi](./Domaine de la Loi.md), [Runes](./Domaine des Runes.md) || [Mains nues](./mains nues (arme).md)
+| [[Irori (technique)|Irori]] || LN || Connaissance, histoire et perfection de soi || [[Domaine de la Connaissance|Connaissance]], [[Domaine de la Force|Force]], [[Domaine de la Guérison|Guérison]], [[Domaine de la Loi|Loi]], [[Domaine des Runes|Runes]] || [[Mains nues (arme)|Mains nues]]
 
 |- CLASS="premier"
-| [Gozreh](./Gozreh (technique).md) || N || Climat, mer, nature et vent || [Air](./Domaine de lAir.md), [Climat](./Domaine du Climat.md), [Eau](./Domaine de lEau.md), [Faune](./Domaine de la Faune.md), [Flore](./Domaine de la Flore.md) || [Trident](./trident (arme).md)
+| [[Gozreh (technique)|Gozreh]] || N || Climat, mer, nature et vent || [[Domaine de lAir|Air]], [[Domaine du Climat|Climat]], [[Domaine de lEau|Eau]], [[Domaine de la Faune|Faune]], [[Domaine de la Flore|Flore]] || [[Trident (arme)|Trident]]
 
 |- CLASS="premier"
-| [Foi Verte](./Foi-Verte-(technique).md) || N || Air, bêtes, eau, feu et terre || [Air](./Domaine de lAir.md), [Faune](./Domaine de la Faune.md), [Feu](./Domaine du Feu.md), [Flore](./Domaine de la Flore.md), [Terre](./Domaine de la Terre.md) || [Armes druidiques](./Druide.md#Armes_et_armures_2)
+| [[Foi Verte (technique)|Foi Verte]] || N || Air, bêtes, eau, feu et terre || [[Domaine de lAir|Air]], [[Domaine de la Faune|Faune]], [[Domaine du Feu|Feu]], [[Domaine de la Flore|Flore]], [[Domaine de la Terre|Terre]] || [[Druide#Armes_et_armures_2|Armes druidiques]]
 
 |- CLASS="premier"
-| [Néthys](./Néthys (technique).md) || N || Magie || [Connaissance](./Domaine de la Connaissance.md), [Destruction](./Domaine de la Destruction.md), [Magie](./Domaine de la Magie.md), [Protection](./Domaine de la Protection.md), [Runes](./Domaine des Runes.md) || [Bâton](./bâton (arme).md)
+| [[Néthys (technique)|Néthys]] || N || Magie || [[Domaine de la Connaissance|Connaissance]], [[Domaine de la Destruction|Destruction]], [[Domaine de la Magie|Magie]], [[Domaine de la Protection|Protection]], [[Domaine des Runes|Runes]] || [[Bâton (arme)|Bâton]]
 
 |- CLASS="premier"
-| [Pharasma](./Pharasma (technique).md) || N || Destin, mort, naissance et prophétie || [Connaissance](./Domaine de la Connaissance.md), [Eau](./Domaine de lEau.md), [Guérison](./Domaine de la Guérison.md), [Mort](./Domaine de la Mort.md), [Repos](./Domaine du Repos.md) || [Dague](./dague (arme).md)
+| [[Pharasma (technique)|Pharasma]] || N || Destin, mort, naissance et prophétie || [[Domaine de la Connaissance|Connaissance]], [[Domaine de lEau|Eau]], [[Domaine de la Guérison|Guérison]], [[Domaine de la Mort|Mort]], [[Domaine du Repos|Repos]] || [[Dague (arme)|Dague]]
 
 |- CLASS="premier"
-| [Calistria](./Calistria (technique).md) || CN || Luxure, tromperie et vengeance || [Chance](./Domaine de la Chance.md), [Chaos](./Domaine du Chaos.md), [Charme](./Domaine du Charme.md), [Connaissance](./Domaine de la Connaissance.md), [Duperie](./Domaine de la Duperie.md) || [Fouet](./fouet (arme).md)
+| [[Calistria (technique)|Calistria]] || CN || Luxure, tromperie et vengeance || [[Domaine de la Chance|Chance]], [[Domaine du Chaos|Chaos]], [[Domaine du Charme|Charme]], [[Domaine de la Connaissance|Connaissance]], [[Domaine de la Duperie|Duperie]] || [[Fouet (arme)|Fouet]]
 
 |- CLASS="premier"
-| [Gorum](./Gorum (technique).md) || CN || Armes, bataille et force || [Chaos](./Domaine du Chaos.md), [Destruction](./Domaine de la Destruction.md), [Force](./Domaine de la Force.md), [Gloire](./Domaine de la Gloire.md), [Guerre](./Domaine de la Guerre.md) || [Épée à deux mains](./épée à deux mains (arme).md)
+| [[Gorum (technique)|Gorum]] || CN || Armes, bataille et force || [[Domaine du Chaos|Chaos]], [[Domaine de la Destruction|Destruction]], [[Domaine de la Force|Force]], [[Domaine de la Gloire|Gloire]], [[Domaine de la Guerre|Guerre]] || [[Épée à deux mains (arme)|Épée à deux mains]]
 
 |- CLASS="premier"
-| [Asmodéus](./Asmodéus (technique).md) || LM || Contrats, esclavagisme, orgueil et tyrannie || [Duperie](./Domaine de la Duperie.md), [Feu](./Domaine du Feu.md), [Loi](./Domaine de la Loi.md), [Magie](./Domaine de la Magie.md), [Mal](./Domaine du Mal.md) || [Masse d'armes (n'importe)](./Tableau récapitulatif des armes.md)
+| [[Asmodéus (technique)|Asmodéus]] || LM || Contrats, esclavagisme, orgueil et tyrannie || [[Domaine de la Duperie|Duperie]], [[Domaine du Feu|Feu]], [[Domaine de la Loi|Loi]], [[Domaine de la Magie|Magie]], [[Domaine du Mal|Mal]] || [[Tableau récapitulatif des armes|Masse d'armes (n'importe)]]
 
 |- CLASS="premier"
-| [Zon-Kuthon](./Zon-Kuthon (technique).md) || LM || Douleur, envie, perte et ténèbres || [Destruction](./Domaine de la Destruction.md), [Loi](./Domaine de la Loi.md), [Mal](./Domaine du Mal.md), [Mort](./Domaine de la Mort.md), [Obscurité](./Domaine de lObscurité.md) || [Chaîne cloutée](./chaîne cloutée (arme).md)
+| [[Zon-Kuthon (technique)|Zon-Kuthon]] || LM || Douleur, envie, perte et ténèbres || [[Domaine de la Destruction|Destruction]], [[Domaine de la Loi|Loi]], [[Domaine du Mal|Mal]], [[Domaine de la Mort|Mort]], [[Domaine de lObscurité|Obscurité]] || [[Chaîne cloutée (arme)|Chaîne cloutée]]
 
 |- CLASS="premier"
-| [Norgorber](./Norgorber (technique).md) || NM || Avarice, meurtre, poison et secrets || [Charme](./Domaine du Charme.md), [Connaissance](./Domaine de la Connaissance.md), [Duperie](./Domaine de la Duperie.md), [Mal](./Domaine du Mal.md), [Mort](./Domaine de la Mort.md) || [Épée courte](./épée courte (arme).md)
+| [[Norgorber (technique)|Norgorber]] || NM || Avarice, meurtre, poison et secrets || [[Domaine du Charme|Charme]], [[Domaine de la Connaissance|Connaissance]], [[Domaine de la Duperie|Duperie]], [[Domaine du Mal|Mal]], [[Domaine de la Mort|Mort]] || [[Épée courte (arme)|Épée courte]]
 
 |- CLASS="premier"
-| [Urgathoa](./Urgathoa (technique).md) || NM || Gloutonnerie, maladie et mort-vivance || [Force](./Domaine de la Force.md), [Guerre](./Domaine de la Guerre.md), [Magie](./Domaine de la Magie.md), [Mal](./Domaine du Mal.md), [Mort](./Domaine de la Mort.md) || [Faux](./faux (arme).md)
+| [[Urgathoa (technique)|Urgathoa]] || NM || Gloutonnerie, maladie et mort-vivance || [[Domaine de la Force|Force]], [[Domaine de la Guerre|Guerre]], [[Domaine de la Magie|Magie]], [[Domaine du Mal|Mal]], [[Domaine de la Mort|Mort]] || [[Faux (arme)|Faux]]
 
 |- CLASS="premier"
-| [Lamashtu](./Lamashtu (technique).md) || CM || Fertilité, folie, cauchemars et monstres || [Chaos](./Domaine du Chaos.md), [Duperie](./Domaine de la Duperie.md), [Folie](./Domaine de la Folie.md), [Force](./Domaine de la Force.md), [Mal](./Domaine du Mal.md) || [Cimeterre à deux mains](./cimeterre à deux mains (arme).md)
+| [[Lamashtu (technique)|Lamashtu]] || CM || Fertilité, folie, cauchemars et monstres || [[Domaine du Chaos|Chaos]], [[Domaine de la Duperie|Duperie]], [[Domaine de la Folie|Folie]], [[Domaine de la Force|Force]], [[Domaine du Mal|Mal]] || [[Cimeterre à deux mains (arme)|Cimeterre à deux mains]]
 
 |- CLASS="premier"
-| [Rovagug](./Rovagug (technique).md) || CM || Colère, désastres et destruction || [Chaos](./Domaine du Chaos.md), [Climat](./Domaine du Climat.md), [Destruction](./Domaine de la Destruction.md), [Guerre](./Domaine de la Guerre.md), [Mal](./Domaine du Mal.md) || [Grande hache](./Grande hache (arme).md)
+| [[Rovagug (technique)|Rovagug]] || CM || Colère, désastres et destruction || [[Domaine du Chaos|Chaos]], [[Domaine du Climat|Climat]], [[Domaine de la Destruction|Destruction]], [[Domaine de la Guerre|Guerre]], [[Domaine du Mal|Mal]] || [[Grande hache (arme)|Grande hache]]
 |}
 
 {s:Reference|AUTRES}
@@ -99,53 +99,53 @@ Divinités plus mineures mais bien connues dans le monde.
 | WIDTH="18%" | Arme
 
 |- CLASS="premier"
-| [Apsu](./Apsu (technique).md) || LB || Commandement, dragons Bons et paix || [Artisanat](./Domaine de lArtisanat.md), [Bien](./Domaine du Bien.md), [Loi](./Domaine de la Loi.md), [Reptiles](./Domaine des Reptiles.md), [Voyage](./Domaine du Voyage.md) || [Bâton](./bâton (arme).md) ou [morsure](./Attaques naturelles (capacité).md)
+| [[Apsu (technique)|Apsu]] || LB || Commandement, dragons Bons et paix || [[Domaine de lArtisanat|Artisanat]], [[Domaine du Bien|Bien]], [[Domaine de la Loi|Loi]], [[Domaine des Reptiles|Reptiles]], [[Domaine du Voyage|Voyage]] || [[Bâton (arme)|Bâton]] ou [[Attaques naturelles (capacité)|morsure]]
 
 |- CLASS="premier"
-| [Kurgess](./Kurgess (technique).md) || NB || Bravoure, compétition et sport || [Bien](./Domaine du Bien.md), [Chance](./Domaine de la Chance.md), [Communauté](./Domaine de la Communauté.md), [Force](./Domaine de la Force.md), [Voyage](./Domaine du Voyage.md) || [Javeline](./javeline (arme).md)
+| [[Kurgess (technique)|Kurgess]] || NB || Bravoure, compétition et sport || [[Domaine du Bien|Bien]], [[Domaine de la Chance|Chance]], [[Domaine de la Communauté|Communauté]], [[Domaine de la Force|Force]], [[Domaine du Voyage|Voyage]] || [[Javeline (arme)|Javeline]]
 
 |- CLASS="premier"
-| [Milani](./Milani (technique).md) || CB || Dévotion, espoir et révolte || [Bien](./Domaine du Bien.md), [Chaos](./Domaine du Chaos.md), [Guérison](./Domaine de la Guérison.md), [Libération](./Domaine de la Libération.md), [Protection](./Domaine de la Protection.md) || [Morgenstern](./morgenstern (arme).md)
+| [[Milani (technique)|Milani]] || CB || Dévotion, espoir et révolte || [[Domaine du Bien|Bien]], [[Domaine du Chaos|Chaos]], [[Domaine de la Guérison|Guérison]], [[Domaine de la Libération|Libération]], [[Domaine de la Protection|Protection]] || [[Morgenstern (arme)|Morgenstern]]
 
 |- CLASS="premier"
-| [Alseta](./Alseta (technique).md) || LN || Années, portes et transitions || [Communauté](./Domaine de la Communauté.md), [Loi](./Domaine de la Loi.md), [Magie](./Domaine de la Magie.md), [Protection](./Domaine de la Protection.md) || [Dague](./dague (arme).md)
+| [[Alseta (technique)|Alseta]] || LN || Années, portes et transitions || [[Domaine de la Communauté|Communauté]], [[Domaine de la Loi|Loi]], [[Domaine de la Magie|Magie]], [[Domaine de la Protection|Protection]] || [[Dague (arme)|Dague]]
 
 |- CLASS="premier"
-| [Brigh](./Brigh (technique).md) || N || Créations mécaniques, inventions et temps || [Artisanat](./Domaine de lArtisanat.md), [Connaissance](./Domaine de la Connaissance.md), [Feu](./Domaine du Feu.md), [Terre](./Domaine de la Terre.md) || [Marteau léger](./marteau léger (arme).md)
+| [[Brigh (technique)|Brigh]] || N || Créations mécaniques, inventions et temps || [[Domaine de lArtisanat|Artisanat]], [[Domaine de la Connaissance|Connaissance]], [[Domaine du Feu|Feu]], [[Domaine de la Terre|Terre]] || [[Marteau léger (arme)|Marteau léger]]
 
 |- CLASS="premier"
-| [Naderi](./Naderi (technique).md) || N || Noyade, suicide et tragédies romantiques || [Charme](./Domaine du Charme.md), [Eau](./Domaine de lEau.md), [Noblesse](./Domaine de la Noblesse.md), [Repos](./Domaine du Repos.md) || [Dague](./dague (arme).md)
+| [[Naderi (technique)|Naderi]] || N || Noyade, suicide et tragédies romantiques || [[Domaine du Charme|Charme]], [[Domaine de lEau|Eau]], [[Domaine de la Noblesse|Noblesse]], [[Domaine du Repos|Repos]] || [[Dague (arme)|Dague]]
 
 |- CLASS="premier"
-| [Nivi Rhomboéblouissante](./Nivi Rhomboéblouissante (technique).md) || N || Discrétion, gemmes et jeux || [Chance](./Domaine de la Chance.md), [Communauté](./Domaine de la Communauté.md), [Duperie](./Domaine de la Duperie.md), [Terre](./Domaine de la Terre.md) || [Marteau léger](./marteau léger (arme).md)
+| [[Nivi Rhomboéblouissante (technique)|Nivi Rhomboéblouissante]] || N || Discrétion, gemmes et jeux || [[Domaine de la Chance|Chance]], [[Domaine de la Communauté|Communauté]], [[Domaine de la Duperie|Duperie]], [[Domaine de la Terre|Terre]] || [[Marteau léger (arme)|Marteau léger]]
 
 |- CLASS="premier"
-| [Sivanah](./Sivanah (technique).md) || N || Illusions, mystères et reflets || [Connaissance](./Domaine de la Connaissance.md), [Duperie](./Domaine de la Duperie.md), [Folie](./Domaine de la Folie.md), [Magie](./Domaine de la Magie.md), [Runes](./Domaine des Runes.md) || [Écharpe tranchante](./écharpe tranchante (arme).md)
+| [[Sivanah (technique)|Sivanah]] || N || Illusions, mystères et reflets || [[Domaine de la Connaissance|Connaissance]], [[Domaine de la Duperie|Duperie]], [[Domaine de la Folie|Folie]], [[Domaine de la Magie|Magie]], [[Domaine des Runes|Runes]] || [[Écharpe tranchante (arme)|Écharpe tranchante]]
 
 |- CLASS="premier"
-| [Besmara](./Besmara (technique).md) || CN || Conflit, monstres marins et piraterie || [Chaos](./Domaine du Chaos.md), [Climat](./Domaine du Climat.md), [Duperie](./Domaine de la Duperie.md), [Eau](./Domaine de lEau.md), [Guerre](./Domaine de la Guerre.md) || [Rapière](./rapière (arme).md)
+| [[Besmara (technique)|Besmara]] || CN || Conflit, monstres marins et piraterie || [[Domaine du Chaos|Chaos]], [[Domaine du Climat|Climat]], [[Domaine de la Duperie|Duperie]], [[Domaine de lEau|Eau]], [[Domaine de la Guerre|Guerre]] || [[Rapière (arme)|Rapière]]
 
 |- CLASS="premier"
-| [Groétus](./Groétus (technique).md) || CN || Lieux vides, néant et ruines || [Chaos](./Domaine du Chaos.md), [Destruction](./Domaine de la Destruction.md), [Folie](./Domaine de la Folie.md), [Obscurité](./Domaine de lObscurité.md), [Vide](./Domaine du Vide.md) || [Fléau d'armes lourd](./Fléau darmes lourd (arme).md)
+| [[Groétus (technique)|Groétus]] || CN || Lieux vides, néant et ruines || [[Domaine du Chaos|Chaos]], [[Domaine de la Destruction|Destruction]], [[Domaine de la Folie|Folie]], [[Domaine de lObscurité|Obscurité]], [[Domaine du Vide|Vide]] || [[Fléau darmes lourd (arme)|Fléau d'armes lourd]]
 
 |- CLASS="premier"
-| [Hanspur](./Hanspur (technique).md) || CN || Contrebande, rivières et voyages || [Chaos](./Domaine du Chaos.md), [Eau](./Domaine de lEau.md), [Mort](./Domaine de la Mort.md), [Voyage](./Domaine du Voyage.md) || [Trident](./trident (arme).md)
+| [[Hanspur (technique)|Hanspur]] || CN || Contrebande, rivières et voyages || [[Domaine du Chaos|Chaos]], [[Domaine de lEau|Eau]], [[Domaine de la Mort|Mort]], [[Domaine du Voyage|Voyage]] || [[Trident (arme)|Trident]]
 
 |- CLASS="premier"
-| [Achaékek](./Achaékek (technique).md) || LM || Assassinats et punition divine || [Duperie](./Domaine de la Duperie.md), [Guerre](./Domaine de la Guerre.md), [Loi](./Domaine de la Loi.md), [Mal](./Domaine du Mal.md), [Mort](./Domaine de la Mort.md) || [Sabre dentelé](./sabre dentelé (arme).md)
+| [[Achaékek (technique)|Achaékek]] || LM || Assassinats et punition divine || [[Domaine de la Duperie|Duperie]], [[Domaine de la Guerre|Guerre]], [[Domaine de la Loi|Loi]], [[Domaine du Mal|Mal]], [[Domaine de la Mort|Mort]] || [[Sabre dentelé (arme)|Sabre dentelé]]
 
 |- CLASS="premier"
-| [Zyphus](./Zyphus (technique).md) || NM || Cimetières, mort accidentelle et tragédie || [Destruction](./Domaine de la Destruction.md), [Flore](./Domaine de la Flore.md), [Guerre](./Domaine de la Guerre.md), [Mal](./Domaine du Mal.md), [Mort](./Domaine de la Mort.md) || [Pic de guerre lourd](./pic de guerre lourd (arme).md)
+| [[Zyphus (technique)|Zyphus]] || NM || Cimetières, mort accidentelle et tragédie || [[Domaine de la Destruction|Destruction]], [[Domaine de la Flore|Flore]], [[Domaine de la Guerre|Guerre]], [[Domaine du Mal|Mal]], [[Domaine de la Mort|Mort]] || [[Pic de guerre lourd (arme)|Pic de guerre lourd]]
 
 |- CLASS="premier"
-| [Dahak](./Dahak (technique).md) || CM || Avarice, destruction et dragons Mauvais || [Chaos](./Domaine du Chaos.md), [Destruction](./Domaine de la Destruction.md), [Duperie](./Domaine de la Duperie.md), [Mal](./Domaine du Mal.md), [Reptiles](./Domaine des Reptiles.md) || [Fouet](./fouet (arme).md) ou [morsure](./Attaques naturelles (capacité).md)
+| [[Dahak (technique)|Dahak]] || CM || Avarice, destruction et dragons Mauvais || [[Domaine du Chaos|Chaos]], [[Domaine de la Destruction|Destruction]], [[Domaine de la Duperie|Duperie]], [[Domaine du Mal|Mal]], [[Domaine des Reptiles|Reptiles]] || [[Fouet (arme)|Fouet]] ou [[Attaques naturelles (capacité)|morsure]]
 
 |- CLASS="premier"
-| [Ghlaunder](./Ghlaunder (technique).md) || CM || Infections, parasites et stagnation || [Air](./Domaine de lAir.md), [Chaos](./Domaine du Chaos.md), [Destruction](./Domaine de la Destruction.md), [Faune](./Domaine de la Faune.md), [Mal](./Domaine du Mal.md) || [Lance](./lance (arme).md)
+| [[Ghlaunder (technique)|Ghlaunder]] || CM || Infections, parasites et stagnation || [[Domaine de lAir|Air]], [[Domaine du Chaos|Chaos]], [[Domaine de la Destruction|Destruction]], [[Domaine de la Faune|Faune]], [[Domaine du Mal|Mal]] || [[Lance (arme)|Lance]]
 
 |- CLASS="premier"
-| [Gyronna](./Gyronna (technique).md) || CM || Extorsion, haine et rancune || [Chaos](./Domaine du Chaos.md), [Destruction](./Domaine de la Destruction.md), [Folie](./Domaine de la Folie.md), [Mal](./Domaine du Mal.md) || [Dague](./dague (arme).md)
+| [[Gyronna (technique)|Gyronna]] || CM || Extorsion, haine et rancune || [[Domaine du Chaos|Chaos]], [[Domaine de la Destruction|Destruction]], [[Domaine de la Folie|Folie]], [[Domaine du Mal|Mal]] || [[Dague (arme)|Dague]]
 
 |- CLASS="premier"
-| [Ydersius](./Ydersius (technique).md) || CM || Hommes-serpents, immortalité et poison || [Chaos](./Domaine du Chaos.md), [Guerre](./Domaine de la Guerre.md), [Mal](./Domaine du Mal.md), [Noblesse](./Domaine de la Noblesse.md), [Reptiles](./Domaine des Reptiles.md) || [Dague](./dague (arme).md)
+| [[Ydersius (technique)|Ydersius]] || CM || Hommes-serpents, immortalité et poison || [[Domaine du Chaos|Chaos]], [[Domaine de la Guerre|Guerre]], [[Domaine du Mal|Mal]], [[Domaine de la Noblesse|Noblesse]], [[Domaine des Reptiles|Reptiles]] || [[Dague (arme)|Dague]]
 |}

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Valeurs de combat#JETDATTAQUE
 ---
 
->>> [Valeurs de combat#JETDATTAQUE](./Valeurs de combat.md#JETDATTAQUE)
+>>> [[Valeurs de combat#JETDATTAQUE]]

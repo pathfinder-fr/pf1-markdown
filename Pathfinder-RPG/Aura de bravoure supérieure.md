@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[émotion](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Pal](./Paladin.md) 2  
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|émotion]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|personnelle]]  
 
 **Zone** émanation de 3 m (2 {s:c}) de rayon centrée sur le lanceur de sorts  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Quand le personnage lance ce sort, il renforce son [aura de bravoure](./Paladin.md#AURADEBRAVOURE) de [paladin](./Paladin.md). Pendant toute la durée du sort, tous les alliés qui se trouvent dans sa zone d'effet son [immunisés](./Immunité.md) contre la peur (magique ou autre). Si le personnage ne dispose pas de l'aptitude de classe [aura de bravoure](./Paladin.md#AURADEBRAVOURE), ce sort n'a aucun effet.
+Quand le personnage lance ce sort, il renforce son [[paladin#AURADEBRAVOURE|aura de bravoure]] de [[paladin]]. Pendant toute la durée du sort, tous les alliés qui se trouvent dans sa zone d'effet son [[immunité|immunisés]] contre la peur (magique ou autre). Si le personnage ne dispose pas de l'aptitude de classe [[paladin#AURADEBRAVOURE|aura de bravoure]], ce sort n'a aucun effet.

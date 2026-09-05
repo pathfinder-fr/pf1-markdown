@@ -14,38 +14,38 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.145*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([obscurien](./sous-type obscur.md)) de taille P, CN}
-{s:BDTexte|**Init** +3 ; **Sens** vision dans les ténèbres ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type obscur|obscurien]]) de taille P, CN}
+{s:BDTexte|**Init** +3 ; **Sens** vision dans les ténèbres ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 14, pris au dépourvu 13 (armure +2, Dex +3, taille +1)}
 {s:BDTexte|**pv** 19 (3d8+6)}
 {s:BDTexte|**Réf** +6, **Vig** +3, **Vol** +1}
-{s:BDTexte|**Faiblesses** [aveuglé par la lumière](./Aveuglé par la lumière.md)}
+{s:BDTexte|**Faiblesses** [[aveuglé par la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** dague, +6 (1d3/19-20 et poison)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./attaque sournoise.md) (+1d6), dernier sursaut}
+{s:BDTexte|**Attaques spéciales** [[attaque sournoise]] (+1d6), dernier sursaut}
 {s:BDTexte|**Pouvoirs magiques** (NLS 3<sup>e</sup>)}
-{s:BDSorts|À volonté — *[détection de la magie](./Détection de la magie.md)*, *[ténèbres](./Ténèbres.md)*}
+{s:BDSorts|À volonté — *[[détection de la magie]]*, *[[ténèbres]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 17, **Con** 14, **Int** 9, **Sag** 10, **Cha** 8}
 {s:BDTexte|**BBA** +2, **BMO** +1, **DMD** 14}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Talent](./Talent.md) ([Escamotage](./Escamotage.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +12, [Escalade](./Escalade.md) +8, [Escamotage](./Escamotage.md) +7, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** [Escalade](./Escalade.md) +4, [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Talent]] ([[Escamotage]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +12, [[Escalade]] +8, [[Escamotage]] +7, [[Perception]] +4 ; **Modificateurs raciaux** [[Escalade]] +4, [[Discrétion]] +4, [[Perception]] +4}
 {s:BDTexte|**Langues** obscurien}
 {s:BDTexte|**Particularités** haillons protecteurs, utilisation des poisons}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
-{s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-6) ou clan (20-80 plus 1 [traqueur obscur](./Traqueur obscur.md) par 20 fureteurs obscurs)}
-{s:BDTexte|**Trésor** standard (dague, traînée noir <nowiki>[</nowiki>3 doses<nowiki>]</nowiki>, autres trésors)}
+{s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-6) ou clan (20-80 plus 1 [[traqueur obscur]] par 20 fureteurs obscurs)}
+{s:BDTexte|**Trésor** standard (dague, traînée noir <nowiki>[[</nowiki>3 doses<nowiki>]]</nowiki>, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Dernier sursaut (Sur).** Lorsqu'un fureteur obscur est tué, son corps s'enflamme dans un éclair de vive lumière blanche qui n'épargne que son équipement (qui tombe sur le sol).Toutes les créatures dans un rayonnement de 3 m (2 {s:c}) doivent réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 13 pour éviter d'être [aveuglées](./Aveuglé.md) pendant 1d6 rounds. Les fureteurs obscurs situés dans cette zone sont automatiquement [aveuglés](./Aveuglé.md) pendant au moins 1 round à cause de leur sensibilité à la lumière. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Dernier sursaut (Sur).** Lorsqu'un fureteur obscur est tué, son corps s'enflamme dans un éclair de vive lumière blanche qui n'épargne que son équipement (qui tombe sur le sol).Toutes les créatures dans un rayonnement de 3 m (2 {s:c}) doivent réussir un jet de [[Vigueur]] de [[DD]] 13 pour éviter d'être [[aveuglé|aveuglées]] pendant 1d6 rounds. Les fureteurs obscurs situés dans cette zone sont automatiquement [[aveuglé|aveuglés]] pendant au moins 1 round à cause de leur sensibilité à la lumière. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 {s:BDTexte|**Haillons protecteurs (Ext).** Les nombreuses couches de haillons crasseux que portent les fureteurs obscurs les protègent comme s'il s'agissait d'armures de cuir.}
-{s:BDTexte|**Utilisation des poisons (Ext).** Les fureteurs obscurs sont experts dans l'utilisation du poison et ils ne risquent jamais de s'empoisonner eux-mêmes par accident. Ils utilisent généralement une pâte noire et malodorante distillée à partir de champignons souterrains et connue sous le nom de traînée noire - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 15 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md)  1d2 [For](./Force.md) ; *guérison* 1 réussite.}
-{s:BDTexte|**Vision dans les ténèbres (Sur).** Les fureteurs obscurs voient parfaitement bien dans les ténèbres de toutes sortes, y compris celles créées par un sort de *[ténèbres profondes](./Ténèbres profondes.md)*.}
+{s:BDTexte|**Utilisation des poisons (Ext).** Les fureteurs obscurs sont experts dans l'utilisation du poison et ils ne risquent jamais de s'empoisonner eux-mêmes par accident. Ils utilisent généralement une pâte noire et malodorante distillée à partir de champignons souterrains et connue sous le nom de traînée noire - blessure ; *JS* [[Vigueur]] [[DD]] 15 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]]  1d2 [[Force|For]] ; *guérison* 1 réussite.}
+{s:BDTexte|**Vision dans les ténèbres (Sur).** Les fureteurs obscurs voient parfaitement bien dans les ténèbres de toutes sortes, y compris celles créées par un sort de *[[ténèbres profondes]]*.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [obscuriens](./obscurien.md).***</li></ul>*Ce petit humanoïde est recouvert de crasseux haillons puant de la tête aux pieds. Seuls ses main et son nez blanc pâle sont visibles.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[obscurien|obscuriens]].***</li></ul>*Ce petit humanoïde est recouvert de crasseux haillons puant de la tête aux pieds. Seuls ses main et son nez blanc pâle sont visibles.*
 
 Les fureteurs obscurs hantent les endroits sombres situés loin
 sous la surface du monde. Ils sortent la nuit et s’infiltrent dans les
@@ -66,7 +66,7 @@ lorsque la précédente devient trop usée.
 
 En groupe, les fureteurs obscurs peuvent mettre la pagaille et
 causer d’importants problèmes, mais cela n’est rien à côté du danger
-que représente une tribu menée par un [traqueur obscur](./Traqueur obscur.md),
+que représente une tribu menée par un [[traqueur obscur]],
 une créature plus grande et encore plus sinistre. Les fureteurs obscurs
 traitent leurs maîtres plus élancés quasiment comme des dieux : ils les
 comblent d’offrandes et obéissent à leurs moindres caprices. Toutes les

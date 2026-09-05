@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-La ville de Litran est située au sud du [Galt](./Galt.md), aux pieds des [Pics Brumeux](./Monts Brumeux.md).
+La ville de Litran est située au sud du [[Galt]], aux pieds des [[Golarion.Monts Brumeux|Pics Brumeux]].
 
-Cette ville est surtout connue pour abriter la guilde des Gardiens Gris, les bourreaux du [Galt](./Galt.md). Cette présence en fait certainement la ville la plus stable du pays. Mais cela ne signifie pas qu'on y soit en sécurité, les étrangers étant très malvenus dans la cité.
+Cette ville est surtout connue pour abriter la guilde des Gardiens Gris, les bourreaux du [[Galt]]. Cette présence en fait certainement la ville la plus stable du pays. Mais cela ne signifie pas qu'on y soit en sécurité, les étrangers étant très malvenus dans la cité.

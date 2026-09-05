@@ -10,10 +10,10 @@ LastModified: 2023-06-28 14:13
 <i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
 </div>
 <div class="contenumenuPF2">
-[Campagnes](./AP.md)
-[Aventures longues](./AL.md)
-[Aventures courtes](./AC.md)
-[Aides de jeu](./ADJA.md)
+[[AP|Campagnes]]
+[[AL|Aventures longues]]
+[[AC|Aventures courtes]]
+[[ADJA|Aides de jeu]]
 </div>
 </div>
 
@@ -52,7 +52,7 @@ Ce livre comporte deux mini aventures qui peuvent être jouées l'une à la suit
 
 Par Eleanor Ferron - téléchargeable gratuitement en VO sur [https://paizo.com/products/btq024ys?Pathfinder-Adventure-Little-Trouble-in-Big-Absalom](https://paizo.com/products/btq024ys?Pathfinder-Adventure-Little-Trouble-in-Big-Absalom)
 
-**Aides de jeu** disponibles sur la [page des aides de jeu](./ADJA.md) pour les aventures.
+**Aides de jeu** disponibles sur la [[ADJA|page des aides de jeu]] pour les aventures.
 
 {s:illustration|https://cdn.paizo.com/image/product/catalog/PZO/PZO9500-22_180.png|A Fistful of Flowers *prétirés de niveau 3*}
 Quand une noble hautaine a décidé d'utiliser des léchys comme décorations principales pour le goûter huppé qu'elle compte organiser, elle n'avait aucune idée des problèmes qu'elle allait causer. Toutes les plantes de la forêt ne sont pas prêtes à être exposées comme des objets d'art, et certaines d'entre elles sont même fort bien équipées pour résister à ceux qui voudraient les déraciner pour les emmener loin de chez elles !

@@ -11,10 +11,10 @@ Categories:
 
 {s:RSE}*Le personnage peut porter des attaques étourdissantes avec des armes spéciales de moine.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Coup étourdissant](./Coup étourdissant.md)
+**Conditions.** [[Coup étourdissant]]
 
-**Avantages.** Le personnage peut utiliser [Coup étourdissant](./Coup étourdissant.md) lorsqu’il porte des attaques de corps à corps avec des armes spéciales de moine ou à mains nues.
+**Avantages.** Le personnage peut utiliser [[Coup étourdissant]] lorsqu’il porte des attaques de corps à corps avec des armes spéciales de moine ou à mains nues.
 
 **Normal.** Le personnage ne peut utiliser Coup étourdissant que lorsqu’il porte un coup à mains nues.

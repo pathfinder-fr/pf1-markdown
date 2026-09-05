@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:ISR}*Votre synchronisation et votre acharnement prend l'ennemi par surprise.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONCOMBAT|combat]], [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Humain](./Humain.md) (chélaxien)
+**Conditions.** [[Humain]] (chélaxien)
 
-**Avantages.** Lorsqu'un allié chélaxien qui possède ce don réussit une [attaque d'opportunité](./AO.md) contre un ennemi que le personnage et lui [menacent](./espace contrôlé.md), le personnage bénéficie d'un bonus de circonstances de +2 aux [jets d'attaque](./jet dattaque.md) au corps à corps contre cet ennemi pendant 1 round.
+**Avantages.** Lorsqu'un allié chélaxien qui possède ce don réussit une [[AO|attaque d'opportunité]] contre un ennemi que le personnage et lui [[espace contrôlé|menacent]], le personnage bénéficie d'un bonus de circonstances de +2 aux [[jet dattaque|jets d'attaque]] au corps à corps contre cet ennemi pendant 1 round.

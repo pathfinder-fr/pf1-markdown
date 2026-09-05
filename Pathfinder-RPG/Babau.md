@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.61*}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille M, CM}
-{s:BDTexte|**Init** +5 ; **Sens** *[détection de l'invisibilité](./Détection de linvisibilité.md)*, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +19}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, CM}
+{s:BDTexte|**Init** +5 ; **Sens** *[[détection de linvisibilité|détection de l'invisibilité]]*, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +19}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 11, pris au dépourvu 18 (Dex +1, naturelle +8)}
 {s:BDTexte|**pv** 73 (7d10+35)}
@@ -25,27 +25,27 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 griffes +12 (1d6+5), morsure +12 (1d6+5) ou pique +12/+7 (1d8+7/x3), morsure +7 (1d6+2)}
 {s:BDTexte|**Espace** 1 ; **Allonge** 1 (2 pour la pique)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./attaque sournoise.md) +2d6}
+{s:BDTexte|**Attaques spéciales** [[attaque sournoise]] +2d6}
 {s:BDTexte|**Pouvoirs magiques** (NLS 7<sup>e</sup>)}
-{s:BDSorts|Constant — *[détection de l'invisibilité](./Détection de linvisibilité.md)*}
-{s:BDSorts|À volonté — *[dissipation de la magie](./Dissipation de la magie.md)*, *[téléportation suprême](./Téléportation suprême.md)* (lui-même plus 25 kg d'objets uniquement), *[ténèbres](./Ténèbres.md)*}
-{s:BDSorts|1/jour — *[convocation](./convocation.md)* (niveau 3, 1 babau, 40%)}
+{s:BDSorts|Constant — *[[détection de linvisibilité|détection de l'invisibilité]]*}
+{s:BDSorts|À volonté — *[[dissipation de la magie]]*, *[[téléportation suprême]]* (lui-même plus 25 kg d'objets uniquement), *[[ténèbres]]*}
+{s:BDSorts|1/jour — *[[convocation]]* (niveau 3, 1 babau, 40%)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 13, **Con** 20, **Int** 14, **Sag** 13, **Cha** 16}
 {s:BDTexte|**BBA** +7, **BMO** +12, **DMD** 23}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11, [Discrétion](./Discrétion.md) +22, [Escalade](./Escalade.md) +12, [Escamotage](./Escamotage.md) +11, [Évasion](./Évasion.md) +11, [Perception](./Perception.md) +19, [Psychologie](./Psychologie.md) +11, [Sabotage](./Sabotage.md) +11 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +8, [Perception](./Perception.md) +8}
-{s:BDTexte|**Langues** abyssal, céleste, draconique ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Discrétion]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11, [[Discrétion]] +22, [[Escalade]] +12, [[Escamotage]] +11, [[Évasion]] +11, [[Perception]] +19, [[Psychologie]] +11, [[Sabotage]] +11 ; **Modificateurs raciaux** [[Discrétion]] +8, [[Perception]] +8}
+{s:BDTexte|**Langues** abyssal, céleste, draconique ; [[télépathie]] 30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Abysse)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-8)}
 {s:BDTexte|**Trésor** standard (pique, autres trésors)}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Mucus protecteur (Sur)** La peau des babaus est recouverte d'une couche de mucus acide. Chaque fois qu'une créature touche le babau avec une attaque naturelle ou une attaque à mains nues, elle subit 1d8 points de dégâts d'acide si elle rate un jet de [Réflexes](./Réflexes.md) de [DD](./DD.md) 18. Lorsqu'une créature frappe le babau à l'aide d'une arme de corps à corps, elle doit réussir un jet de [Réflexes](./Réflexes.md) de [DD](./DD.md) 18 pour éviter que son arme ne subisse 1d8 points de dégâts d'acide. Si ces dégâts sont suffisants pour vaincre la [solidité](./solidité.md) de l'arme, celle-ci devient [brisée](./Brisé.md). Les flèches, carreaux, billes et autres projectiles qui touchent un babau infligent de dégâts normaux puis sont automatiquement détruits.}
+{s:BDTexte|**Mucus protecteur (Sur)** La peau des babaus est recouverte d'une couche de mucus acide. Chaque fois qu'une créature touche le babau avec une attaque naturelle ou une attaque à mains nues, elle subit 1d8 points de dégâts d'acide si elle rate un jet de [[Réflexes]] de [[DD]] 18. Lorsqu'une créature frappe le babau à l'aide d'une arme de corps à corps, elle doit réussir un jet de [[Réflexes]] de [[DD]] 18 pour éviter que son arme ne subisse 1d8 points de dégâts d'acide. Si ces dégâts sont suffisants pour vaincre la [[solidité]] de l'arme, celle-ci devient [[brisé|brisée]]. Les flèches, carreaux, billes et autres projectiles qui touchent un babau infligent de dégâts normaux puis sont automatiquement détruits.}
 </div>
 
 {s:ImageCentre|Bestiaire/babau.jpg|90%}
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 *Cette créature émaciée ressemble à un squelette d’humain cornu recouvert d’une fine peau de cuir huileux qui lui colle aux os.*
 
 Les babaus sont des assassins et des meurtriers sadiques. Il s’agit de caractéristiques courantes chez les démons mais les babaus se distinguent de leurs cousins généralement moins subtils par un penchant pour la discrétion et les embuscades. Les babaus n’ont pas besoin de se nourrir mais la plupart d’entre eux apprécient le goût que la chair des mortels dépose sur leur longues langues râpeuses.

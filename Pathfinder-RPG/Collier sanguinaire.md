@@ -9,19 +9,19 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Collier sanguinaire|{s:MCA}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 1 000 po ; **Poids** 1 kg
+**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 1 000 po ; **Poids** 1 kg
 (((Description)))
 Ce collier en cuir change de taille pour s’adapter à presque toutes les créatures. Une fois par jour, sur commande, la créature qui a attaché le collier à un animal peut faire grandir cet animal et le rendre plus bestial.
-Le personnage qui attache le collier doit être dans un rayon de 9 mètres autour de l’animal pour ce faire. L’animal gagne les avantages du sort *[agrandissement](./Agrandissement.md)* (en dépit des restrictions normales de ce sort) pendant 1 minute.
+Le personnage qui attache le collier doit être dans un rayon de 9 mètres autour de l’animal pour ce faire. L’animal gagne les avantages du sort *[[agrandissement]]* (en dépit des restrictions normales de ce sort) pendant 1 minute.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[croissance animale](./Croissance animale.md)* ; **Coût** 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[croissance animale]]* ; **Coût** 500 po
 </div>
 
 <div class="BD">
 {s:BDTitre|Collier sanguinaire supérieur|{s:MCA}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 14 000 po ; **Poids** 1 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 14 000 po ; **Poids** 1 kg
 (((Description)))
-Ce collier fonctionne comme le *collier sanguinaire*, à la seule différence que l’animal qui le porte gagne les avantages du sort *[croissance animale](./Croissance animale.md)* pendant 1 minute.
+Ce collier fonctionne comme le *collier sanguinaire*, à la seule différence que l’animal qui le porte gagne les avantages du sort *[[croissance animale]]* pendant 1 minute.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[croissance animale](./Croissance animale.md)* ; **Coût** 7 000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[croissance animale]]* ; **Coût** 7 000 po
 </div>

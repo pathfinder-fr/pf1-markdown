@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 50 po ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Ce gros livre à la couverture huilée est orné de scènes de combat glorieux entre d'antiques héros et des monstres féroces. Il contient plusieurs contes parlant de courage, de défaite et de victoire, tous accompagnés d'illustrations hautes en couleurs. Après avoir consulté le livre pendant 1 heure, le personnage bénéficie d'un bonus de +2 en [Représentation](./Représentation.md) (déclamation) et en [Représentation](./Représentation.md) (voix) ainsi que d'un bonus de circonstances de +2 aux tests de [Connaissances](./Connaissances.md) (noblesse) relatifs aux lignées héroïques pendant les 24 heures qui suivent.
+Ce gros livre à la couverture huilée est orné de scènes de combat glorieux entre d'antiques héros et des monstres féroces. Il contient plusieurs contes parlant de courage, de défaite et de victoire, tous accompagnés d'illustrations hautes en couleurs. Après avoir consulté le livre pendant 1 heure, le personnage bénéficie d'un bonus de +2 en [[Représentation]] (déclamation) et en [[Représentation]] (voix) ainsi que d'un bonus de circonstances de +2 aux tests de [[Connaissances]] (noblesse) relatifs aux lignées héroïques pendant les 24 heures qui suivent.

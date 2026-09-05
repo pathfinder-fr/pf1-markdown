@@ -13,4 +13,4 @@ Categories:
 **Avantage.** Le personnage gagne 1 point de blessure pour
 chaque niveau ou dé de vie qu’il possède.
 
-(((Ce don est une version modifiée du don [Robustesse](./Robustesse.md) pour utilisation avec les règles alternatives «&nbsp;[Blessures et vitalité](./Blessures et vitalité.md)&nbsp;» de l’*Art de la Guerre*)))
+(((Ce don est une version modifiée du don [[Robustesse]] pour utilisation avec les règles alternatives «&nbsp;[[Blessures et vitalité]]&nbsp;» de l’*Art de la Guerre*)))

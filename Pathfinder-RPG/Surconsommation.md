@@ -13,13 +13,13 @@ Categories:
 
 *Le personnage oblige ses rivaux à perdre de précieuses ressources lorsqu'ils sont blessés.*
 
-**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+**Catégorie.** [[dons#DONMALEFICESANGLANT|maléfice sanglant]]
 
-**Conditions.** [Int](./Int.md) 13, 5 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md)
+**Conditions.** [[Int]] 13, 5 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]
 
-**Avantage.** Par une [action complexe](./Action complexe.md), le personnage peut maudire une créature à qui il a infligé des dégâts depuis le début de son précédent tour pour l'obliger à utiliser ses pouvoirs plus rapidement. La créature doit réussir un jet de [Vigueur](./Vigueur.md). En cas d'échec, si elle utilise une des capacités de classe suivantes durant la prochaine minute, elle doit en utiliser au moins deux [rounds](./round.md) ou utilisations quotidiennes : [réserve magique](./Magus.md#RESERVEMAGIQUE), [réservoir arcanique](./Arcaniste.md#RESERVOIRARCANIQUE), [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE), [rage sanguine](./Sanguin.md#RAGESANGUINE), [bombes](./Alchimiste.md#BOMBES), [inspiration](./Enquêteur.md#INSPIRATION), [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE), [inductions d'hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR), [réserve phrénique](./Psychiste.md#RESERVEPHRENIQUE), [rage de berserker](./Barbare.md#RAGE) ou [chant de rage](./Scalde.md#CHANTDERAGE).
+**Avantage.** Par une [[action complexe]], le personnage peut maudire une créature à qui il a infligé des dégâts depuis le début de son précédent tour pour l'obliger à utiliser ses pouvoirs plus rapidement. La créature doit réussir un jet de [[Vigueur]]. En cas d'échec, si elle utilise une des capacités de classe suivantes durant la prochaine minute, elle doit en utiliser au moins deux [[round|rounds]] ou utilisations quotidiennes : [[Magus#RESERVEMAGIQUE|réserve magique]], [[Arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]], [[Barde#REPRESENTATIONBARDIQUE|représentation bardique]], [[Sanguin#RAGESANGUINE|rage sanguine]], [[Alchimiste#BOMBES|bombes]], [[Enquêteur#INSPIRATION|inspiration]], [[Occultiste#FOCALISATIONMENTALE|focalisation mentale]], [[Hypnotiseur#INDUCTIONSDHYPNOTISEUR|inductions d'hypnotiseur]], [[Psychiste#RESERVEPHRENIQUE|réserve phrénique]], [[Barbare#RAGE|rage de berserker]] ou [[Scalde#CHANTDERAGE|chant de rage]].
 
-**Spécial.** Un [chaman](./Chaman.md) ou une [sorcière](./Sorcière.md) peuvent utiliser ce maléfice par une [action simple](./Action simple.md).
+**Spécial.** Un [[chaman]] ou une [[sorcière]] peuvent utiliser ce maléfice par une [[action simple]].
 
 (((Consumption (blood Hex)
 

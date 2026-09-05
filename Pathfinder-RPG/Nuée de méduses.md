@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Vermine|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p. 196*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Vermine](./type Vermine.md) ([aquatique](./sous-type aquatique.md), [nuée](./sous-type nuée.md)) de taille Min, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]], [[sous-type nuée|nuée]]) de taille Min, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 14 (Dex +1, taille +4)}
 {s:BDTexte|**pv** 54 (12d8)}
 {s:BDTexte|**Réf** +5, **Vig** +8, **Vol** +4}
-{s:BDTexte|**Immunités** dégâts par armes, [traits des nuées](./traits des nuées.md)}
+{s:BDTexte|**Immunités** dégâts par armes, [[traits des nuées]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** nage 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** nuée (3d6 plus poison)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 0 m}
-{s:BDTexte|**Attaques spéciales** [distraction](./Distraction.md) (DD 16)}
+{s:BDTexte|**Attaques spéciales** [[distraction]] (DD 16)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 13, **Con** 10, **Int** —, **Sag** 10, **Cha** 2}
 {s:BDTexte|**BBA** +9, **BMO** —, **DMD** —}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +29, [Natation](./Natation.md) +9 ; **Modificateurs raciaux** +16 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**Compétences** [[Discrétion]] +29, [[Natation]] +9 ; **Modificateurs raciaux** +16 en [[Discrétion]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** milieu aquatique}
 {s:BDTexte|**Organisation sociale** solitaire, ou groupe (2-8)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Poison (Ext).** Nuée — blessure ; *JS* Vigueur DD 16 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 Dex ; *guérison* 2 réussites consécutives.}
+{s:BDTexte|**Poison (Ext).** Nuée — blessure ; *JS* Vigueur DD 16 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d4 Dex ; *guérison* 2 réussites consécutives.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -44,13 +44,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Méduse à tête de mort](./Méduse à tête de mort.md) || 1
+| [[Méduse à tête de mort]] || 1
 |-
-| [Méduse géante](./Méduse géante.md) || 7
+| [[Méduse géante]] || 7
 |-
-| [Méduse saphir](./Méduse saphir.md) || 11
+| [[Méduse saphir]] || 11
 |-
-| [Nuée de méduses](./Nuée de méduses.md) || 6
+| [[Nuée de méduses]] || 6
 |}
 </div>*Cette vile nuée de méduses de la taille d’un poing forme une sorte de mur de tentacules urticaires quasi invisible dans l’eau.*
 

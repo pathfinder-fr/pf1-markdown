@@ -6,15 +6,15 @@ Categories:
 - Bestiaire
 ---
 
-{s:Desambi|Cauchemar est également le nom d'un [sort](./sort Cauchemar.md).}
+{s:Desambi|Cauchemar est également le nom d'un [[sort cauchemar|sort]].}
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Cauchemar|FP 11}
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.74*}
 {s:BDTexte|**PX** 12.800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille TG, NM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +22}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille TG, NM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +22}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 10, pris au dépourvu 24 (Dex +2, naturelle +16, taille -2)}
 {s:BDTexte|**pv** 147 (14d10+70)}
@@ -25,19 +25,19 @@ Categories:
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Attaques spéciales** fumée (DD 22)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 15<sup>e</sup>)}
-{s:BDSorts|1/heure (lui et 1 cavalier seulement) — *[changement de plan](./Changement de plan.md)*, *[forme éthérée](./Forme éthérée.md)*}
+{s:BDSorts|1/heure (lui et 1 cavalier seulement) — *[[changement de plan]]*, *[[forme éthérée]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 31, **Dex** 15, **Con** 21, **Int** 16, **Sag** 12, **Cha** 12}
-{s:BDTexte|**BBA** +14, **BMO** +26, **DMD** 38 (42 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Course](./Course.md), [Enchaînement](./Enchaînement.md), [Science de l'initiative](./Science de linitiative.md), [Science du renversement](./Science du renversement.md), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +19, [Bluff](./Bluff.md) +18, [Connaissances](./Connaissances.md) (mystères, plans) +20, [Discrétion](./Discrétion.md) +11, [Intimidation](./Intimidation.md) +18, [Perception](./Perception.md) +22, [Psychologie](./Psychologie.md) +22, [Vol](./Vol.md) +19}
+{s:BDTexte|**BBA** +14, **BMO** +26, **DMD** 38 (42 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Course]], [[Enchaînement]], [[Science de linitiative|Science de l'initiative]], [[Science du renversement]], [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +19, [[Bluff]] +18, [[Connaissances]] (mystères, plans) +20, [[Discrétion]] +11, [[Intimidation]] +18, [[Perception]] +22, [[Psychologie]] +22, [[Vol]] +19}
 {s:BDTexte|**Langues** abyssal, infernal}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Abaddon)}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Fumée (Sur)** voir [Destrier noir](./Destrier noir.md)}
+{s:BDTexte|**Fumée (Sur)** voir [[Destrier noir]]}
 </div>
 
 
@@ -48,14 +48,14 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Cauchemar](./Cauchemar.md) || 11
+| [[Cauchemar]] || 11
 |-
-| [Destrier noir](./Destrier noir.md) || 5
+| [[Destrier noir]] || 5
 |}
 </div>*Ce gigantesque cheval brûlant se dresse sur des sabots fumant. Des flammes infernales dansent dans ses yeux emplis de haine.*
 
 Le cauchemar est une variante plus dangereuse
-des [destriers noirs](./Destrier noir.md), qui est particulièrement
+des [[Destrier noir|destriers noirs]], qui est particulièrement
 appréciée pour sa capacité à pénétrer dans le plan Éthéré en
 emmenant son cavalier ainsi que pour son pouvoir de changement
 de plan permettant d’envahir d’autres réalités.

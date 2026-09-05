@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de liberté de mouvement|}
-**Aura** [Abjuration](./Abjuration.md) modérée ; **NLS** 7 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 40 000 po ; **Poids** —
+**Aura** [[Abjuration]] modérée ; **NLS** 7 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 40 000 po ; **Poids** —
 (((Description)))
-Cet anneau en or permet à son porteur d’agir comme s’il était en permanence affecté par le sort *[liberté de mouvement](./Liberté de mouvement.md)*.
+Cet anneau en or permet à son porteur d’agir comme s’il était en permanence affecté par le sort *[[liberté de mouvement]]*.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[liberté de mouvement](./Liberté de mouvement.md)* ; **Coût** 20 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[liberté de mouvement]]* ; **Coût** 20 000 po
 </div>

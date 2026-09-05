@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Rapière d’anémie|{s:AE}}
-**Aura** [Nécromancie](./Nécromancie.md) puissante ; **NLS** 13 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 50 320 po ; **Poids** 1 kg
+**Aura** [[Nécromancie]] puissante ; **NLS** 13 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 50 320 po ; **Poids** 1 kg
 (((Description)))
-Trois fois par jour, cette rapière [sanglante](./sanglante (propriété).md) +2 permet à son porteur d’accomplir une attaque de contact qui lui permet de drainer le sang d’une créature. La victime subit alors un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d6 points de [Constitution](./Constitution.md). Ce pouvoir est sans effet sur les créatures immunisées contre les [coups critiques](./coup critique.md).
+Trois fois par jour, cette rapière [[sanglante (propriété)|sanglante]] +2 permet à son porteur d’accomplir une attaque de contact qui lui permet de drainer le sang d’une créature. La victime subit alors un [[affaiblissement temporaire]] de 1d6 points de [[Constitution]]. Ce pouvoir est sans effet sur les créatures immunisées contre les [[coup critique|coups critiques]].
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[mise à mal](./Mise à mal.md)* ; **Coût** 25 320 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[mise à mal]]* ; **Coût** 25 320 po
 </div>

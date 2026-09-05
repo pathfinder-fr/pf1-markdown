@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Le personnage acquiert une plus grande quantité de ki lors de ses libations.*
 
-**Conditions.** [Con](./Constitution.md) 13, [moine](./Moine.md) niveau 11, capacité de classe de *ki* alcoolisé.
+**Conditions.** [[Constitution|Con]] 13, [[moine]] niveau 11, capacité de classe de *ki* alcoolisé.
 
 **Avantage.** Chaque fois que le personnage gagne du *ki* temporaire grâce à sa capacité de *ki* alcoolisé, il obtient 2 points temporaires de *ki* au lieu d’un seul.

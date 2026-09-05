@@ -7,7 +7,7 @@ Categories:
 - Ville
 ---
 
-{s:Communauté|Alvis (ville)|[Andoran](./Andoran.md)|[Arthfell](./Arthfell.md)||||2 090 (grosse bourgade)||}Située dans la région d'[Arthfell](./Arthfell.md) au sud-est de l'[Andoran](./Andoran.md), près de la [baie de l'Aspo](./Baie de lAspo.md), la ville d'Alvis est surtout connue pour les récents enlèvements perpétrés par une secte locale.<sup>(1)</sup> Alvis abrite également la Société des alchimistes andorans, qu'ils ont aidé à s'échapper d'[Augustana](./Augustana.md) et logent aujourd'hui dans un quartier dédié formé de bâtiments en pierres et de nombreux coupe-feu.<sup>(2)</sup>
+{s:Communauté|Alvis (ville)|[[Andoran]]|[[Arthfell]]||||2 090 (grosse bourgade)||}Située dans la région d'[[Arthfell]] au sud-est de l'[[Andoran]], près de la [[Baie de lAspo|baie de l'Aspo]], la ville d'Alvis est surtout connue pour les récents enlèvements perpétrés par une secte locale.<sup>(1)</sup> Alvis abrite également la Société des alchimistes andorans, qu'ils ont aidé à s'échapper d'[[Augustana]] et logent aujourd'hui dans un quartier dédié formé de bâtiments en pierres et de nombreux coupe-feu.<sup>(2)</sup>
 
 La plupart des boutiques d'Alvis offrent une réduction de 10 % sur leurs produits.<sup>(2)</sup>
 

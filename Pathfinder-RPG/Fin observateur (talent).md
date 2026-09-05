@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#FINOBSERVATEUR
 ---
 
->>> [Talents#FINOBSERVATEUR](./Talents.md#FINOBSERVATEUR)
+>>> [[Talents#FINOBSERVATEUR]]

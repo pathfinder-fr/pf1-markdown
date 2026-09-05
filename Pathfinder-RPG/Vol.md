@@ -8,8 +8,8 @@ Categories:
 
 {s:MenuCompétences}
 
-{s:Desambi|Vol est également le nom d'un [sort](./sort Vol.md) et d'une [capacité spéciale](./Vol (capacité).md).}
-**Caractéristique associée** : [Dextérité](./Dextérité.md)
+{s:Desambi|Vol est également le nom d'un [[sort vol|sort]] et d'une [[Vol (capacité)|capacité spéciale]].}
+**Caractéristique associée** : [[Dextérité]]
 
 **Formation nécessaire** : non
 
@@ -18,13 +18,13 @@ Categories:
 *Lorsque le personnage vole (grâce à des ailes ou par magie), il sait le faire avec agilité. Il peut réaliser des manœuvres aériennes complexes ou dangereuses. Cette compétence ne lui donne cependant pas la capacité de voler.*
 
 ### Test de compétence
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#32) Vol : Lorsqu’un personnage ou une créature vole, et que cette créature décide d’aller vers le haut à un angle de 45°, les règles stipulent qu’il doit se déplacer à mi-vitesse. Les règles pour compter les cases en diagonale continuent-elles à s’appliquer quand on vole en diagonale de cette façon ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#32|→]] Vol : Lorsqu’un personnage ou une créature vole, et que cette créature décide d’aller vers le haut à un angle de 45°, les règles stipulent qu’il doit se déplacer à mi-vitesse. Les règles pour compter les cases en diagonale continuent-elles à s’appliquer quand on vole en diagonale de cette façon ?***
 
-Non. Puisque le jeu est généralement supposé être joué en deux dimensions, même quand on représente un combat en trois dimensions, les règles pour aller vers le haut en <u>[volant](./Vol.md)</u> sont basées sur cette réduction de vitesse pour éviter d’imposer aux joueurs et aux MJs de vérifier les diagonales des mouvements verticaux.
+Non. Puisque le jeu est généralement supposé être joué en deux dimensions, même quand on représente un combat en trois dimensions, les règles pour aller vers le haut en <u>[[Vol|volant]]</u> sont basées sur cette réduction de vitesse pour éviter d’imposer aux joueurs et aux MJs de vérifier les diagonales des mouvements verticaux.
 ---
-***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#33) Vol et vol magique : Une créature paralysée ou étourdie peut-elle continuer de voler avec un vol magique ? Une créature avec un vol magique doit-elle ignorer les bonus ou malus aux tests de Vol puisqu’elle n’a pas une vitesse de vol « naturelle » ? Est-ce que voler immunise une créature à l’état pris au dépourvu ?***
+***[[FAQ- Manuel des joueurs (Dons et compétences)#33|→]] Vol et vol magique : Une créature paralysée ou étourdie peut-elle continuer de voler avec un vol magique ? Une créature avec un vol magique doit-elle ignorer les bonus ou malus aux tests de Vol puisqu’elle n’a pas une vitesse de vol « naturelle » ? Est-ce que voler immunise une créature à l’état pris au dépourvu ?***
 
-Non, n’importe qu’elle créature qui perd toutes ses actions est incapable d’entreprendre une action pour tenter un test de <u>[Vol](./Vol.md)</u> afin de rester en vol stationnaire et tombe donc automatiquement. Cela inclut les créatures [paralysées](./Paralysé.md), [étourdies](./Étourdi.md), et [hébétées](./Hébété.md). Le vol magique n’agit pas différemment, même avec la paralysie, puisque ce n’est pas une action purement mentale. Une créature avec 0 en Dextérité ne peut pas voler, et la paralysie passe la Dextérité d’une créature à 0. Bien que la compétence Vol mentionne que les bonus et les malus de manœuvrabilité s’appliquent aux créatures avec une vitesse de vol naturelle, ils s’appliquent à tout type de vitesse de vol. S’ils ne s’appliquaient pas aux créatures qui gagnent la capacité de voler artificiellement ou par magie, alors ces manœuvrabilités (comme la manœuvrabilité bonne listée dans le sort *[vol](./sort Vol.md)*) n’aurait aucun effet en jeu. Enfin, la phrase « le personnage n’est pas considéré comme pris au dépourvu lorsqu’il vole » signifie que voler (contrairement à se tenir en équilibre avec Acrobaties ou escalader) ne rend pas le personnage automatiquement [pris au dépourvu](./Pris au dépourvu.md) et ne le force pas à être privé de son bonus de Dextérité à la CA ; il ne veut pas dire que voler immunise le personnage à l’état pris au dépourvu.}En règle générale, un test de Vol n’est requis que pour des manœuvres complexes. Une créature volante ne doit pas faire de test pour rester en vol à la fin de son tour, pour autant qu’elle se soit déplacée d’une distance au moins égale à la moitié de sa vitesse. Elle peut également virer à 45° en sacrifiant 1,50 m de mouvement, voler vers le haut selon un angle de 45° à la moitié de sa vitesse ou voler vers le bas (selon n’importe quel angle) à sa vitesse normale. Ces restrictions s’appliquent uniquement aux déplacements effectués au cours d’un tour en combat. Dès le début du tour suivant, la créature peut se déplacer dans une direction différente de celle suivie lors du tour précédent sans devoir faire un test de compétence. Toutes les actions qui violent ces règles nécessitent un test de Vol. Le DD de ce test dépend de la manœuvre que la créature volante tente, comme indiqué dans la table suivante.
+Non, n’importe qu’elle créature qui perd toutes ses actions est incapable d’entreprendre une action pour tenter un test de <u>[[Vol]]</u> afin de rester en vol stationnaire et tombe donc automatiquement. Cela inclut les créatures [[paralysé|paralysées]], [[étourdi|étourdies]], et [[hébété|hébétées]]. Le vol magique n’agit pas différemment, même avec la paralysie, puisque ce n’est pas une action purement mentale. Une créature avec 0 en Dextérité ne peut pas voler, et la paralysie passe la Dextérité d’une créature à 0. Bien que la compétence Vol mentionne que les bonus et les malus de manœuvrabilité s’appliquent aux créatures avec une vitesse de vol naturelle, ils s’appliquent à tout type de vitesse de vol. S’ils ne s’appliquaient pas aux créatures qui gagnent la capacité de voler artificiellement ou par magie, alors ces manœuvrabilités (comme la manœuvrabilité bonne listée dans le sort *[[sort vol|vol]]*) n’aurait aucun effet en jeu. Enfin, la phrase « le personnage n’est pas considéré comme pris au dépourvu lorsqu’il vole » signifie que voler (contrairement à se tenir en équilibre avec Acrobaties ou escalader) ne rend pas le personnage automatiquement [[pris au dépourvu]] et ne le force pas à être privé de son bonus de Dextérité à la CA ; il ne veut pas dire que voler immunise le personnage à l’état pris au dépourvu.}En règle générale, un test de Vol n’est requis que pour des manœuvres complexes. Une créature volante ne doit pas faire de test pour rester en vol à la fin de son tour, pour autant qu’elle se soit déplacée d’une distance au moins égale à la moitié de sa vitesse. Elle peut également virer à 45° en sacrifiant 1,50 m de mouvement, voler vers le haut selon un angle de 45° à la moitié de sa vitesse ou voler vers le bas (selon n’importe quel angle) à sa vitesse normale. Ces restrictions s’appliquent uniquement aux déplacements effectués au cours d’un tour en combat. Dès le début du tour suivant, la créature peut se déplacer dans une direction différente de celle suivie lors du tour précédent sans devoir faire un test de compétence. Toutes les actions qui violent ces règles nécessitent un test de Vol. Le DD de ce test dépend de la manœuvre que la créature volante tente, comme indiqué dans la table suivante.
 
 <center>
 {| CLASS="tablo"
@@ -54,7 +54,7 @@ Non, n’importe qu’elle créature qui perd toutes ses actions est incapable d
 
 **Collision en vol.** Si une créature utilise des ailes pour voler et entre en collision avec un objet de même taille qu’elle ou plus grand qu’elle, elle doit immédiatement réussir un test de Vol (DD 25) pour éviter de plonger vers le sol et de subir des dégâts en conséquence.
 
-**Éviter les dégâts dus à une chute.** Si une créature capable de voler tombe, elle peut tenter d’annuler les dégâts dus à la [chute](./Dangers naturels.md#CHUTES) en réussissant un test de Vol (DD 10). Cette option n’est pas disponible si la chute résulte d’un test de Vol raté ou d’une collision.
+**Éviter les dégâts dus à une chute.** Si une créature capable de voler tombe, elle peut tenter d’annuler les dégâts dus à la [[Dangers naturels#CHUTES|chute]] en réussissant un test de Vol (DD 10). Cette option n’est pas disponible si la chute résulte d’un test de Vol raté ou d’une collision.
 
 **Vents forts.** Les vents forts imposent des malus aux tests de Vol, comme indiqué dans la table ci-dessous. Les créatures dont la taille est inférieure ou égale à celle indiquée dans la colonne « Créatures stoppées » doivent réussir un test de Vol (DD 20) pour pouvoir se déplacer et ce aussi longtemps que les vents persistent. Les créatures dont la taille est inférieure ou égale à celle indiquée dans la colonne « Créatures emportées » doivent réussir un test de Vol (DD 25) pour éviter d’être emportées par le vent sur 2d6 × 3 m et de subir 2d6 points de dégâts non-létaux. Ces tests se répètent chaque round où la créature reste en vol. Une créature qui est emportée doit également réussir un test de Vol (DD 20) pour éviter d’être stoppée par le vent.
 
@@ -116,12 +116,12 @@ Aucune. Un test de Vol ne nécessite pas une action propre ; il fait partie d’
 
 ### Nouvelles tentatives
 
-Variable. On peut tenter un test de Vol pour réaliser une manœuvre aérienne chaque round. Cependant, si une créature qui utilise des ailes rate un test de Vol de 5 points ou plus, elle s’écrase et subit des dégâts en conséquence (voir la section sur les [chutes](./Dangers naturels.md#CHUTES)).
+Variable. On peut tenter un test de Vol pour réaliser une manœuvre aérienne chaque round. Cependant, si une créature qui utilise des ailes rate un test de Vol de 5 points ou plus, elle s’écrase et subit des dégâts en conséquence (voir la section sur les [[Dangers naturels#CHUTES|chutes]]).
 
 {s:REFERENCE|SPECIAL}
 ### Spécial
 
-Un lanceur de sorts possédant une chauve-souris comme [familier](./familier.md) bénéficie d’un bonus de +3 aux tests de Vol.
+Un lanceur de sorts possédant une chauve-souris comme [[familier]] bénéficie d’un bonus de +3 aux tests de Vol.
 
 La compétence de Vol fonctionne comme une compétence de classe pour les créatures qui possèdent une vitesse de vol. De plus, ces créatures obtiennent un bonus (ou un malus) dépendant de leur manœuvrabilité à leurs tests de Vol: déplorable -8, médiocre -4, moyenne +0, bonne +4, parfaite +8. Lorsqu’aucune manœuvrabilité en vol n’est indiquée, on suppose que la créature possède une manœuvrabilité moyenne.
 
@@ -129,4 +129,4 @@ Les créatures dont la taille n’est pas M reçoivent également un bonus (ou u
 
 Pour pouvoir investir des points de compétence dans la compétence de Vol, une créature doit disposer de moyens naturels lui permettant de voler ou de planer ou encore d’une capacité fiable (un sort ou une aptitude spéciale) qu’elle peut utiliser quotidiennement.
 
-Un personnage possédant le [don](./Dons.md) [Voltigeur](./Voltigeur.md) obtient un bonus aux tests de Vol.
+Un personnage possédant le [[Dons|don]] [[Voltigeur]] obtient un bonus aux tests de Vol.

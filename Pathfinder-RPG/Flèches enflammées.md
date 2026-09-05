@@ -12,17 +12,17 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Occ](./Occultiste.md) 3, [San](./Sanguin.md) 3  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Sanguin|San]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une goutte d’huile et un fragment de silex)  
+**Composantes** [[composantes|V, G, M]] (une goutte d’huile et un fragment de silex)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cibles** 50 projectiles devant être en contact les uns avec les autres au moment de l’incantation  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 

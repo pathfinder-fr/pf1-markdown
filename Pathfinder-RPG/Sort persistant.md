@@ -11,8 +11,8 @@ Categories:
 
 {s:apg}*Le personnage peut modifier un sort pour qu’il soit plus tenace face aux cibles qui résistent à ses effets.*
 
-**Catégorie :** [métamagie](./Dons.md#METAMAGIE)
+**Catégorie :** [[Dons#METAMAGIE|métamagie]]
 
-**Avantage.** Chaque fois qu’une créature ciblée par un sort persistant ou située dans la zone d’un sort persistant réussit un [jet de sauvegarde](./jet de sauvegarde.md) contre celui-ci, elle doit effectuer un second jet de sauvegarde. Si ce second jet de sauvegarde échoue, la créature subit les pleins effets du sort, comme si elle avait raté son premier jet de sauvegarde. Un sort persistant utilise un [emplacement de sort](./emplacement de sort.md) de deux niveaux supplémentaires que le niveau normal du sort.
+**Avantage.** Chaque fois qu’une créature ciblée par un sort persistant ou située dans la zone d’un sort persistant réussit un [[jet de sauvegarde]] contre celui-ci, elle doit effectuer un second jet de sauvegarde. Si ce second jet de sauvegarde échoue, la créature subit les pleins effets du sort, comme si elle avait raté son premier jet de sauvegarde. Un sort persistant utilise un [[emplacement de sort]] de deux niveaux supplémentaires que le niveau normal du sort.
 
 Les sorts qui n’imposent pas de jet de sauvegarde permettant d’annuler ou d’amoindrir leurs effets ne peuvent pas bénéficier de ce don.

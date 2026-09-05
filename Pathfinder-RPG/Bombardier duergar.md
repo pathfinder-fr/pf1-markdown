@@ -13,9 +13,9 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.3*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Duergar](./Duergar.md) [alchimiste](./Alchimiste.md) 2 (*Manuel des joueurs règles avancées* p. 26)}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([nain](./sous-type nain.md)) de taille M, LM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [Perception](./Perception.md) +6}
+{s:BDTexte|[[Duergar]] [[alchimiste]] 2 (*Manuel des joueurs règles avancées* p. 26)}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type nain|nain]]) de taille M, LM}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}), [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 14, pris au dépourvu 18 (armure +2, Dex +4, naturelle +6)}
 {s:BDTexte|**pv** 18 (2d8+6)}
@@ -26,23 +26,23 @@ Categories:
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** masse d’armes légère, +2 (1d6+1)}
 {s:BDTexte|**Distance** bombe, +6 (1d6+2 acide ou feu) ou arbalète légère, +3 (1d8/19-20)}
-{s:BDTexte|**Attaques spéciales** [bombe](./Alchimiste.md#BOMBES) 6/jour (1d6+2 acide ou feu, DD 13)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 2 ; [concentration](./concentration.md) –1)}
-{s:BDSorts|1/jour — *[invisibilité](./Invisibilité.md)* (sur soi uniquement), *[peau en fer](./Peau en fer.md)*}
-{s:BDTexte|**Extraits d’alchimiste préparés** ([NLS](./NLS.md) 2)}
-{s:BDSorts|1er — *[bouclier](./Bouclier.md)*, *[coup au but](./Coup au but.md)*, *[œil du mitrailleur](./Œil du mitrailleur.md)*}
+{s:BDTexte|**Attaques spéciales** [[Alchimiste#BOMBES|bombe]] 6/jour (1d6+2 acide ou feu, DD 13)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 2 ; [[concentration]] –1)}
+{s:BDSorts|1/jour — *[[invisibilité]]* (sur soi uniquement), *[[peau en fer]]*}
+{s:BDTexte|**Extraits d’alchimiste préparés** ([[NLS]] 2)}
+{s:BDSorts|1er — *[[bouclier]]*, *[[coup au but]]*, *[[œil du mitrailleur]]*}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|**Avant le combat.** Le bombardier avale un [mutagène](./Alchimiste.md#MUTAGENES) de Dextérité et se lance *[peau en fer](./Peau en fer.md)*.}
-{s:BDTexte|**Pendant le combat.** Le bombardier passe la majeure partie du combat à lancer des [bombes](./Alchimiste.md#BOMBES) ou du [feu grégeois](./Feu grégeois (objet).md) sur ses ennemis, en utilisant *[invisibilité](./Invisibilité.md)* et *[potion](./Potions magiques.md) de [grand pas](./Grand pas.md)* pour gagner un emplacement donnant une supériorité tactique ou pour battre rapidement en retraite.}
-{s:BDTexte|**Statistiques de base.** Quand le bombardier n’est pas sous l’effet de son [mutagène](./Alchimiste.md#MUTAGENES) ni de sa *[peau en fer](./Peau en fer.md)*, voici ses statistiques : **Init **+2 ; **CA **14, contact 12, pris au dépourvu 12 ; **Réf **+5, **Vol **+1 ; **Distance** bombe, +4 (1d6+2 feu) ou arbalète légère, +3 (1d8/19-20) ; **Dex **14, **Sag **12 ; **DMD **14 (18 contre la bousculade et le croc-en-jambe) ; **Compétences **[Perception](./Perception.md) +6, [Premiers secours](./Premiers secours.md) +6, [Sabotage](./Sabotage.md) +7, [Survie](./Survie.md) +6.}
+{s:BDTexte|**Avant le combat.** Le bombardier avale un [[Alchimiste#MUTAGENES|mutagène]] de Dextérité et se lance *[[peau en fer]]*.}
+{s:BDTexte|**Pendant le combat.** Le bombardier passe la majeure partie du combat à lancer des [[Alchimiste#BOMBES|bombes]] ou du [[feu grégeois (objet)|feu grégeois]] sur ses ennemis, en utilisant *[[invisibilité]]* et *[[potions magiques|potion]] de [[grand pas]]* pour gagner un emplacement donnant une supériorité tactique ou pour battre rapidement en retraite.}
+{s:BDTexte|**Statistiques de base.** Quand le bombardier n’est pas sous l’effet de son [[Alchimiste#MUTAGENES|mutagène]] ni de sa *[[peau en fer]]*, voici ses statistiques : **Init **+2 ; **CA **14, contact 12, pris au dépourvu 12 ; **Réf **+5, **Vol **+1 ; **Distance** bombe, +4 (1d6+2 feu) ou arbalète légère, +3 (1d8/19-20) ; **Dex **14, **Sag **12 ; **DMD **14 (18 contre la bousculade et le croc-en-jambe) ; **Compétences **[[Perception]] +6, [[Premiers secours]] +6, [[Sabotage]] +7, [[Survie]] +6.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 16, **Con** 15, **Int** 15, **Sag** 10, **Cha** 4}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 16 (20 contre la bousculade ou le croc-en-jambe)}
-{s:BDTexte|**Dons** [Bombes supplémentaires](./Bombes supplémentaires.md), [Lancer improvisé](./Lancer improvisé.md), [Préparation de potions](./Préparation de potions.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (alchimie) +7, [Connaissances](./Connaissances.md) (mystères) +7, [Perception](./Perception.md) +6, [Premiers secours](./Premiers secours.md) +4, [Sabotage](./Sabotage.md) +8, [Survie](./Survie.md) +4}
+{s:BDTexte|**Dons** [[Bombes supplémentaires]], [[Lancer improvisé]], [[Préparation de potions]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (alchimie) +7, [[Connaissances]] (mystères) +7, [[Perception]] +6, [[Premiers secours]] +4, [[Sabotage]] +8, [[Survie]] +4}
 {s:BDTexte|**Langues** aklo, commun, commun des profondeurs, draconique, nain}
-{s:BDTexte|**Particularités** [à peau de fer](./Duergar.md#TRAITSALTERNATIFS), [alchimie](./Alchimiste.md#ALCHIMIE) (alchimie +2, identification de potions), [découverte](./Alchimiste.md#DECOUVERTES) ([bombe acide](./découvertes.md#BOMBEACIDE), [lentement mais sûrement](./Duergar.md), [mutagène](./Alchimiste.md#MUTAGENES) (+4/-2, +2 naturelle, 20 minutes), [stabilité](./Duergar.md), [utilisation du poison](./Alchimiste.md#UTILISATIONDUPOISON)}
-{s:BDTexte|**Équipement de combat** *[potions](./Potions magiques.md) de [soins légers](./Soins légers.md)* (2), *[potions](./Potions magiques.md) de [détection des passages secrets](./Détection des passages secrets.md)* (2), *[potions](./Potions magiques.md) de [repli expéditif](./Repli expéditif.md)* (2), *[potions](./Potions magiques.md) de [négation de l’arôme](./Négation de larôme.md)* (2), [acide](./Acide (objet).md) (6), [feux grégeois](./Feu grégeois (objet).md) (6), [bâtons fumigènes](./Bâton fumigène (objet).md) (6), [sacoches immobilisantes](./Sacoche immobilisante (objet).md) (6), [pierres-tonnerres](./Pierre tonnerre (objet).md) (6) ; **Équipement divers** [armure de cuir](./armure de cuir (armure).md), [arbalète légère](./Arbalète légère (arme).md) avec [10 carreaux](./Carreaux darbalète (arme).md), [masse d’armes légère](./masse darmes légère (arme).md), [poudre de dissimulation des traces](./Poudre de dissimulation des traces.md), [allume-feux](./Allume-feu (objet).md) (6), [livre de formules](./Recueil de formules (objet).md), 2 po}
+{s:BDTexte|**Particularités** [[Duergar#TRAITSALTERNATIFS|à peau de fer]], [[Alchimiste#ALCHIMIE|alchimie]] (alchimie +2, identification de potions), [[Alchimiste#DECOUVERTES|découverte]] ([[Découvertes#BOMBEACIDE|bombe acide]], [[Duergar|lentement mais sûrement]], [[Alchimiste#MUTAGENES|mutagène]] (+4/-2, +2 naturelle, 20 minutes), [[Duergar|stabilité]], [[Alchimiste#UTILISATIONDUPOISON|utilisation du poison]]}
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potions]] de [[soins légers]]* (2), *[[potions magiques|potions]] de [[détection des passages secrets]]* (2), *[[potions magiques|potions]] de [[repli expéditif]]* (2), *[[potions magiques|potions]] de [[Négation de larôme|négation de l’arôme]]* (2), [[acide (objet)|acide]] (6), [[Feu grégeois (objet)|feux grégeois]] (6), [[bâton fumigène (objet)|bâtons fumigènes]] (6), [[sacoche immobilisante (objet)|sacoches immobilisantes]] (6), [[pierre tonnerre (objet)|pierres-tonnerres]] (6) ; **Équipement divers** [[Armure de cuir (armure)|armure de cuir]], [[arbalète légère (arme)|arbalète légère]] avec [[Carreaux darbalète (arme)|10 carreaux]], [[masse darmes légère (arme)|masse d’armes légère]], [[Poudre de dissimulation des traces]], [[Allume-feu (objet)|allume-feux]] (6), [[Recueil de formules (objet)|livre de formules]], 2 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -50,31 +50,31 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Duergar](./Duergar.md) || 1/3
+| [[Duergar]] || 1/3
 |-
-| [Esclavagiste duergar](./Esclavagiste duergar.md) || 1/2
+| [[Esclavagiste duergar]] || 1/2
 |-
-| [Tireur d'élite duergar](./Tireur délite duergar.md) || 1/2
+| [[Tireur délite duergar|Tireur d'élite duergar]] || 1/2
 |-
-| [Bombardier duergar](./Bombardier duergar.md) || 1
+| [[Bombardier duergar]] || 1
 |-
-| [Enclume duergar](./Enclume duergar.md) || 1
+| [[Enclume duergar]] || 1
 |-
-| [Sergent duergar](./Sergent duergar.md) || 1
+| [[Sergent duergar]] || 1
 |-
-| [Scarabée crache-noir](./Scarabée crache-noir.md) || 3
+| [[Scarabée crache-noir]] || 3
 |-
-| [Lieutenant duergar](./Lieutenant duergar.md) || 5
+| [[Lieutenant duergar]] || 5
 |-
-| [Capitaine duergar](./Capitaine duergar.md) || 8
+| [[Capitaine duergar]] || 8
 |-
-| [Maître de corvée duergar](./Maître de corvée duergar.md) || 9
+| [[Maître de corvée duergar]] || 9
 |-
-| [Marteau duergar](./Marteau duergar.md) || 11
+| [[Marteau duergar]] || 11
 |-
-| [Grand prêtre duergar](./Grand prêtre duergar.md) || 12
+| [[Grand prêtre duergar]] || 12
 |-
-| [Scarabée juggernaut](./Scarabée juggernaut.md) || 14
+| [[Scarabée juggernaut]] || 14
 |-
 |}
 </div> Ce duergar excentrique n’apprécie rien tant que de

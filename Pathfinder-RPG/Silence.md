@@ -14,21 +14,21 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Illusion](./Illusion.md) ([hallucination](./Présentation des sorts.md#HALLUCINATION)) ; **Niveau** [Apal](./Antipaladin.md) 2, [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2   
+**École** [[Illusion]] ([[Présentation des sorts#HALLUCINATION|hallucination]]) ; **Niveau** [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2   
 
-**Temps d'incantation** 1 [round](./round.md)  
+**Temps d'incantation** 1 [[round]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
 
-**Zone d'effet** [émanation](./émanation.md) de 6 m (4 {s:c}) de rayon, centrée sur une créature, un objet ou un point donné  
+**Zone d'effet** [[émanation]] de 6 m (4 {s:c}) de rayon, centrée sur une créature, un objet ou un point donné  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ou aucun (objet) ; **Résistance à la magie** oui (voir description) ou non (objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ou aucun (objet) ; **Résistance à la magie** oui (voir description) ou non (objet)
 
-À la fin de l’incantation, un silence absolu s’abat sur la zone choisie par le personnage. Tous les sons cessent d’exister : les conversations s’arrêtent, il est impossible de jeter le moindre sort à [composante verbale](./composante verbale.md) et nul bruit n’entre ni ne sort de la zone. Un personnage peut lancer *silence* n’importe où (pas besoin de prendre un objet pour cible), mais sa [zone d’effet](./zone deffet.md) reste stationnaire, à moins d’être jeté sur une créature (auquel cas, la zone d’effet se déplace avec). Un individu qui ne veut pas être pris pour [cible](./cible.md) par le sort peut y échapper en réussissant un jet de [Volonté](./Volonté.md) (et, le cas échéant, grâce à sa [résistance à la magie](./RM.md)). Les objets détenus par une créature ont eux aussi droit à un [jet de sauvegarde](./jet de sauvegarde.md) (et à un éventuel test de résistance à la magie), de même que les objets magiques qui émettent des bruits mais ce n’est pas le cas des objets qui n’appartiennent à personne ou des points qui ne correspondent à rien de solide. Les créatures qui se trouvent dans la zone du silence sont immunisées contre les attaques, les sorts et les effets du registre du [son](./Registre.md) ou basés sur le langage.
+À la fin de l’incantation, un silence absolu s’abat sur la zone choisie par le personnage. Tous les sons cessent d’exister : les conversations s’arrêtent, il est impossible de jeter le moindre sort à [[composante verbale]] et nul bruit n’entre ni ne sort de la zone. Un personnage peut lancer *silence* n’importe où (pas besoin de prendre un objet pour cible), mais sa [[zone deffet|zone d’effet]] reste stationnaire, à moins d’être jeté sur une créature (auquel cas, la zone d’effet se déplace avec). Un individu qui ne veut pas être pris pour [[cible]] par le sort peut y échapper en réussissant un jet de [[Volonté]] (et, le cas échéant, grâce à sa [[RM|résistance à la magie]]). Les objets détenus par une créature ont eux aussi droit à un [[jet de sauvegarde]] (et à un éventuel test de résistance à la magie), de même que les objets magiques qui émettent des bruits mais ce n’est pas le cas des objets qui n’appartiennent à personne ou des points qui ne correspondent à rien de solide. Les créatures qui se trouvent dans la zone du silence sont immunisées contre les attaques, les sorts et les effets du registre du [[registre|son]] ou basés sur le langage.
 
 ### Mythique
 {s:CMy}

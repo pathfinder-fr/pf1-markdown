@@ -12,8 +12,8 @@ Categories:
 {s:BDTitre|Bec-de-hache|FP 2}
 {s:BDTexte|*Source : Bonus Bestiary*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 11 (Dex +3, naturelle +2, taille -1)}
 {s:BDTexte|**pv** 22 (3d8+9)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 17, **Con** 16, **Int** 2, **Sag** 11, **Cha** 10}
 {s:BDTexte|**BBA** +2, **BMO** +7, **DMD** 20}
-{s:BDTexte|**Dons** [Course](./Course.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +9}
+{s:BDTexte|**Dons** [[Course]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +9}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérés}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou vol (3-6)}
@@ -41,7 +41,7 @@ Categories:
 
 #### Le bec-de-hache comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m (10 {s:c}) ; **Attaque** morsure (1d6 + 1,5 For) ; **Caractéristiques** For 10, Dex 19, Con 12, Int 2, Sag 11, Cha 10 ; **Particularités** [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m (10 {s:c}) ; **Attaque** morsure (1d6 + 1,5 For) ; **Caractéristiques** For 10, Dex 19, Con 12, Int 2, Sag 11, Cha 10 ; **Particularités** [[vision nocturne]].
 
 **Développement au niveau 4.** **Taille** G ; **CA** +2 armure naturelle ; **Attaque** morsure (1d8 + 1,5 For) ; **Caractéristiques** For +8 Dex -2, Con +4 ; **Particularités** charge soudaine.
 </div>

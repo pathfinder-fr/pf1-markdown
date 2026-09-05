@@ -11,10 +11,10 @@ Categories:
 
 {s:cs}{s:ISR}*Vous savez que la clé de la victoire réside dans les attaques soudaines et les retraites encore plus soudaines.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONCOMBAT|combat]], [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [BBA](./BBA.md) +1, [kobold](./Kobold (race).md)
+**Conditions.** [[BBA]] +1, [[Kobold (race)|kobold]]
 
-**Avantages.** Lorsque le personnage est adjacent à un allié qui possède ce don au début d'un [round de surprise](./round de surprise.md), lui et cet allié peuvent agir lors de ce round de surprise, et peuvent tous deux effectuer une [action simple](./Action simple.md) et une [action de mouvement](./Action de mouvement.md) lors de ce round de surprise.
+**Avantages.** Lorsque le personnage est adjacent à un allié qui possède ce don au début d'un [[round de surprise]], lui et cet allié peuvent agir lors de ce round de surprise, et peuvent tous deux effectuer une [[action simple]] et une [[action de mouvement]] lors de ce round de surprise.
 
-**Normal.** Un personnage ne peut effectuer qu'une [action simple](./Action simple.md) ou une [action de mouvement](./Action de mouvement.md) durant un [round de surprise](./round de surprise.md).
+**Normal.** Un personnage ne peut effectuer qu'une [[action simple]] ou une [[action de mouvement]] durant un [[round de surprise]].

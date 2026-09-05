@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Ce bâton de cire rouge sert à cacheter les enveloppes, souvent à l'aide d'une chevalière qui prouve qu'elles ont été envoyées par le personnage.

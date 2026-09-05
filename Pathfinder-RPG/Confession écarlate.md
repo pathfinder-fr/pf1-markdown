@@ -12,14 +12,14 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2
+{s:MCA}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2
 **Temps d’incantation** 10 minutes
-**Composantes** [V, G](./composantes.md)
+**Composantes** [[composantes|V, G]]
 **Portée** contact
 **Cible** ou zone l’objet touché ou une zone maximale de 30 cm de côté
-**Durée** permanente et 1 heure/[niveau](./niveau.md) (cf. texte)
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour annuler ; **Résistance à la magie** oui
+**Durée** permanente et 1 heure/[[niveau]] (cf. texte)
+**Jet de sauvegarde** [[Vigueur]] pour annuler ; **Résistance à la magie** oui
 
-Le personnage protège un objet ou une zone avec sa rune ou sa marque personnelle. Il peut décider de rendre l’inscription visible ou invisible, et celle-ci n’endommage pas le matériau sur lequel elle est placée. Un sort de *[détection de la magie](./Détection de la magie.md)* permet de faire briller et de rendre visible une marque invisible. Si une créature autre que le personnage touche l’objet ou la zone protégé(e) et rate un jet de [Vigueur](./Vigueur.md), sa peau devient rouge vif pendant 1 heure par niveau. Il est impossible de se débarrasser de cette coloration en se lavant, mais elle peut être dissipée.
+Le personnage protège un objet ou une zone avec sa rune ou sa marque personnelle. Il peut décider de rendre l’inscription visible ou invisible, et celle-ci n’endommage pas le matériau sur lequel elle est placée. Un sort de *[[détection de la magie]]* permet de faire briller et de rendre visible une marque invisible. Si une créature autre que le personnage touche l’objet ou la zone protégé(e) et rate un jet de [[Vigueur]], sa peau devient rouge vif pendant 1 heure par niveau. Il est impossible de se débarrasser de cette coloration en se lavant, mais elle peut être dissipée.
 
-*[Détection de l’invisibilité](./Détection de linvisibilité.md)*, *[vision lucide](./Vision lucide.md)*, une gemme de vision ou une robe de vision totale permettent également à leur utilisateur de voir une marque invisible. Un sort de *[lecture de la magie](./Lecture de la magie.md)* révèle les mots, le cas échéant. La protection ne peut pas être dissipée mais le lanceur peut l’annuler, tout comme le fait un sort d’*[effacement](./Effacement.md)*.
+*[[Détection de linvisibilité|Détection de l’invisibilité]]*, *[[vision lucide]]*, une gemme de vision ou une robe de vision totale permettent également à leur utilisateur de voir une marque invisible. Un sort de *[[lecture de la magie]]* révèle les mots, le cas échéant. La protection ne peut pas être dissipée mais le lanceur peut l’annuler, tout comme le fait un sort d’*[[effacement]]*.

@@ -11,14 +11,14 @@ Categories:
 
 {s:mca} *Le personnage a appris des techniques qui lui permettent de chevaucher des bêtes plus petites que la normale.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** 1 rang en [Équitation](./Équitation.md).
+**Conditions.** 1 rang en [[Équitation]].
 
 **Avantage.** Le personnage peut chevaucher des créatures de même taille que lui, même si l’encombrement ou d’autres facteurs risquent de limiter la façon dont il peut utiliser ce pouvoir.
 
 **Normal.** En principe, les montures adaptées au personnage doivent être plus grandes que lui d’au moins une catégorie de taille.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Tant que le personnage possède encore au moins 1 point dans sa réserve d’endurance, le [DD](./DD.md) de ses tests d’[Équitation](./Équitation.md) pour sauter avec une monture de sa taille et pour monter ou descendre rapidement d’une telle monture est réduit de 5.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Tant que le personnage possède encore au moins 1 point dans sa réserve d’endurance, le [[DD]] de ses tests d’[[Équitation]] pour sauter avec une monture de sa taille et pour monter ou descendre rapidement d’une telle monture est réduit de 5.

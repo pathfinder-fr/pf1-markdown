@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Robe de mimétisme|}
-**Aura** [Illusion](./Illusion.md) modérée ; **NLS** 10 ; **Emplacement** [corps](./Objets merveilleux portés sur le corps.md) ; **Prix** 8 400 po ; **Poids** 0,5 kg
+**Aura** [[Illusion]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 8 400 po ; **Poids** 0,5 kg
 (((Description)))
-Une fois par jour, ce vêtement d’aspect anodin permet à qui la porte de changer d’apparence, pour prendre celle d’une autre créature humanoïde, comme avec le sort *[modification d’apparence](./Modification dapparence.md)*, pendant une durée d’une heure. Ce changement peut être interrompu au prix d’une [action libre](./Action libre.md). Sous sa forme modifiée, le porteur peut parler et comprendre la langue de la créature dont il a emprunté l’apparence (l’orque sous une forme d’[orque](./Orque.md), par exemple).
+Une fois par jour, ce vêtement d’aspect anodin permet à qui la porte de changer d’apparence, pour prendre celle d’une autre créature humanoïde, comme avec le sort *[[modification dapparence|modification d’apparence]]*, pendant une durée d’une heure. Ce changement peut être interrompu au prix d’une [[action libre]]. Sous sa forme modifiée, le porteur peut parler et comprendre la langue de la créature dont il a emprunté l’apparence (l’orque sous une forme d’[[orque]], par exemple).
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[modification d’apparence](./Modification dapparence.md)*, *[langues](./langues.md)* ; **Coût** 4 200 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[modification dapparence|modification d’apparence]]*, *[[langues]]* ; **Coût** 4 200 po
 </div>

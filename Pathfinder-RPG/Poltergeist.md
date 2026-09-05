@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.220*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([intangible](./sous-type intangible.md)) de taille M, LM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type intangible|intangible]]) de taille M, LM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 12, contact 12, pris au dépourvu 11 (parade +1, Dex +1)}
 {s:BDTexte|**pv** 16 (3d8+3)}
@@ -25,8 +25,8 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** —, **Dex** 13, **Con** —, **Int** 5, **Sag** 12, **Cha** 12}
 {s:BDTexte|**BBA** +2, **BMO** +3, **DMD** 14}
-{s:BDTexte|**Dons** [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (effrayant), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +3 [Vol](./Vol.md) +9}
+{s:BDTexte|**Dons** [[Attaque spéciale renforcée]] (effrayant), [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Perception]] +9, [[Psychologie]] +3 [[Vol]] +9}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** lien à un site}
 {s:BDSousTitre|Écologie}

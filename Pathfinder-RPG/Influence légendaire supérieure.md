@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:UI}*Chaque légende vous accorde plus de pouvoir en échange d'une plus grande influence.*
 
-**Conditions.** [Influence légendaire](./Influence légendaire.md), capacités de classe [pouvoir spirituel mineur](./Médium.md#POUVOIRSPIRITUEL) et [conciliation](./Médium.md#CONCILIATION)
+**Conditions.** [[Influence légendaire]], capacités de classe [[Médium#POUVOIRSPIRITUEL|pouvoir spirituel mineur]] et [[Médium#CONCILIATION|conciliation]]
 
-**Avantages.** Pour chaque [esprit](./Médium.md#ESPRIT) que le personnage peut canaliser, il choisit un autre don (hors dons de création d'objet). Chaque fois que le personnage autorise un esprit à prendre 1 [point d'influence](./Médium.md#ESPRIT) sur lui pour bénéficier du don associé à cet esprit avec [Influence légendaire](./Influence légendaire.md), il peut autoriser cet esprit à prendre 1 point d'influence supplémentaire pour bénéficier du second don.
+**Avantages.** Pour chaque [[Médium#ESPRIT|esprit]] que le personnage peut canaliser, il choisit un autre don (hors dons de création d'objet). Chaque fois que le personnage autorise un esprit à prendre 1 [[Médium#ESPRIT|point d'influence]] sur lui pour bénéficier du don associé à cet esprit avec [[Influence légendaire]], il peut autoriser cet esprit à prendre 1 point d'influence supplémentaire pour bénéficier du second don.

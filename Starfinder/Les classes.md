@@ -20,24 +20,24 @@ Categories:
 <td width="13%">{s:ImageMenu|Illustrations/PNJ/Sajan.jpg|95%|./Starfinder.Technomancien.ashx|150px|65}</td>
 </tr>
 <tr style="vertical-align: top">
-<td align="center">[Agent](./AGENT.md)</td>
-<td align="center">[Émissaire](./Émissaire.md)</td>
-<td align="center">[Mécano](./Mécano.md)</td>
-<td align="center">[Mystique](./Mystique.md)</td>
-<td align="center">[Solarien](./Solarien.md)</td>
-<td align="center">[Soldat](./../Aventures/Soldat.md)</td>
-<td align="center">[Technomancien](./Technomancien.md)</td>
+<td align="center">[[Agent]]</td>
+<td align="center">[[Émissaire]]</td>
+<td align="center">[[Mécano]]</td>
+<td align="center">[[Mystique]]</td>
+<td align="center">[[Solarien]]</td>
+<td align="center">[[Soldat]]</td>
+<td align="center">[[Technomancien]]</td>
 </tr>
 </table>
 </center>
 </div>
-- **[Agent](./AGENT.md).** L’agent possède les compétences pour accomplir presque n’importe quelle mission exigeant de la discrétion et de la ruse, qu’il s’agisse d’une opération d’espionnage ou d’élimination.
-- **[Émissaire](./Émissaire.md).** Un émissaire use de son intelligence et de son magnétisme personnel pour aider ses alliés et tromper ses ennemis, souvent dans le cadre de négociations ou de démarches politiques.
-- **[Mécano](./Mécano.md).** Maîtrisant l’art de la construction et de la modification des appareils, le mécano a pour compagnon soit une intelligence artificielle évoluée, soit un drone robot dernier cri.
-- **[Mystique](./Mystique.md).** Le mystique canalise par magie l’énergie qui relie toutes choses souvent grâce à un lien divin ou la compréhension instinctive des systèmes biologiques.
-- **[Solarien](./Solarien.md).** Le solarien étudie et tire sa puissance du cycle de vie des étoiles. Ses techniques lui permettent de créer une arme ou une armure à partir d’un fragment d’énergie stellaire.
-- **[Soldat](./../Aventures/Soldat.md).** Maîtrisant parfaitement les armes de la guerre, le soldat est prêt à semer le chaos quand il est nécessaire d’avoir recours à la force. Il se spécialise généralement dans une forme de combat.
-- **[Technomancien](./Technomancien.md).** Le technomancien comprend le lien entre la magie et la technologie et l’exploite en pliant la réalité à sa volonté, en fonction de ses besoins.
+- **[[Agent]].** L’agent possède les compétences pour accomplir presque n’importe quelle mission exigeant de la discrétion et de la ruse, qu’il s’agisse d’une opération d’espionnage ou d’élimination.
+- **[[Émissaire]].** Un émissaire use de son intelligence et de son magnétisme personnel pour aider ses alliés et tromper ses ennemis, souvent dans le cadre de négociations ou de démarches politiques.
+- **[[Mécano]].** Maîtrisant l’art de la construction et de la modification des appareils, le mécano a pour compagnon soit une intelligence artificielle évoluée, soit un drone robot dernier cri.
+- **[[Mystique]].** Le mystique canalise par magie l’énergie qui relie toutes choses souvent grâce à un lien divin ou la compréhension instinctive des systèmes biologiques.
+- **[[Solarien]].** Le solarien étudie et tire sa puissance du cycle de vie des étoiles. Ses techniques lui permettent de créer une arme ou une armure à partir d’un fragment d’énergie stellaire.
+- **[[Soldat]].** Maîtrisant parfaitement les armes de la guerre, le soldat est prêt à semer le chaos quand il est nécessaire d’avoir recours à la force. Il se spécialise généralement dans une forme de combat.
+- **[[Technomancien]].** Le technomancien comprend le lien entre la magie et la technologie et l’exploite en pliant la réalité à sa volonté, en fonction de ses besoins.
 
 ### Présentation
 Votre classe de personnage représente son domaine de compétences, qu’il s’agisse d’un soldat aguerri ou d’un technomancien pliant à sa volonté les lois de la physique. Cette classe lui octroie un certain nombre de capacités qui peuvent résulter de son entraînement, de ses spécialités ou même d’un lien direct à une divinité. Elle détermine aussi ses caractéristiques comme ses points de vie, ses points d’endurance, son degré de maîtrise des armes et des armures, ses compétences de classe et ses rangs de compétence par niveau ainsi que ses bonus de base au combat et aux jets de sauvegarde.

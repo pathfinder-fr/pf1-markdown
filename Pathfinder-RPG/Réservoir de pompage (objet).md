@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 75 po ; **Poids** 2,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ce réservoir en métal contient 14,8 litres d’eau. Par une [action simple](./Action simple.md) qui provoque des [attaques d’opportunité](./AO.md), le personnage peut utiliser la pompe manuelle et le tuyau flexible pour pulvériser de l’eau jusqu’à 3 mètres de distance. Pomper consomme 4 litres d’eau pour chaque [round](./round.md) d’utilisation et peut éteindre les feux non-magiques sur une case. Un réservoir plein pèse 16,5 kg.
+Ce réservoir en métal contient 14,8 litres d’eau. Par une [[action simple]] qui provoque des [[AO|attaques d’opportunité]], le personnage peut utiliser la pompe manuelle et le tuyau flexible pour pulvériser de l’eau jusqu’à 3 mètres de distance. Pomper consomme 4 litres d’eau pour chaque [[round]] d’utilisation et peut éteindre les feux non-magiques sur une case. Un réservoir plein pèse 16,5 kg.

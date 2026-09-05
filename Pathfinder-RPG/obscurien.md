@@ -14,20 +14,20 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Caligni](./Caligni.md) || 1/2
+| [[Caligni]] || 1/2
 |-
-| [Danseur obscur](./Danseur obscur.md) || 1
+| [[Danseur obscur]] || 1
 |-
-| [Fureteur obscur](./Fureteur obscur.md) || 2
+| [[Fureteur obscur]] || 2
 |-
-| [Suppliant obscur](./Suppliant obscur.md) || 5
+| [[Suppliant obscur]] || 5
 |-
-| [Traqueur obscur](./Traqueur obscur.md) || 4
+| [[Traqueur obscur]] || 4
 |-
-| [Tueur obscur](./Tueur obscur.md) || 3
+| [[Tueur obscur]] || 3
 |}
 </div></div><div class="description">**Source :** Bestiaire 2, p.313.</div>
-*Types/Sous-types associés : [Humanoïde](./type Humanoïde.md) ([obscurien](./sous-type obscur.md))*
+*Types/Sous-types associés : [[type Humanoïde|Humanoïde]] ([[sous-type Obscur|obscurien]])*
 
 Les obscurs sont des humanoïdes qui vivent sous terre à l’écart des autres races et qui détestent la lumière.
 

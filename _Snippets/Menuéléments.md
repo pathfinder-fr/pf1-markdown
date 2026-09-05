@@ -6,22 +6,22 @@
 ### Les éléments
 
 <table><tr style="vertical-align: top"><td width="25%">
-<ul><li>[Élément de l'Air](./../Pathfinder-RPG/talents sauvages.md#Air_2)</li>
-<li>[Élément de l'Eau](./../Pathfinder-RPG/talents sauvages.md#Eau_3)</li>
+<ul><li>[[Talents sauvages#Air_2|Élément de l'Air]]</li>
+<li>[[Talents sauvages#Eau_3|Élément de l'Eau]]</li>
 </ul>
 </td><td width="25%">
 <ul>
-<li>[Élément de l'Éther](./../Pathfinder-RPG/talents sauvages.md#Éther_4)</li>
-<li>[Élément du Feu](./../Pathfinder-RPG/talents sauvages.md#Feu_5)</li>
+<li>[[Talents sauvages#Éther_4|Élément de l'Éther]]</li>
+<li>[[Talents sauvages#Feu_5|Élément du Feu]]</li>
 </ul>
 </td><td width="25%">
 <ul>
-<li>[Élément de la Terre](./../Pathfinder-RPG/talents sauvages.md#Terre_6)</li>
-<li>[Universel](./../Pathfinder-RPG/talents sauvages.md#Universel_7)</li>
+<li>[[Talents sauvages#Terre_6|Élément de la Terre]]</li>
+<li>[[Talents sauvages#Universel_7|Universel]]</li>
 </ul>
 </td><td width="25%">
 <ul>
 <li style="list-style-type: none; list-style-image: none">&nbsp;</li>
 <li style="list-style-type: none; list-style-image: none">&nbsp;</li>
-<li style="list-style-type: none; list-style-image: none">**[Le Cinétiste](./../Pathfinder-RPG/Cinétiste.md)**</ul>
+<li style="list-style-type: none; list-style-image: none">**[[Cinétiste|Le Cinétiste]]**</ul>
 </td></tr></table></div>

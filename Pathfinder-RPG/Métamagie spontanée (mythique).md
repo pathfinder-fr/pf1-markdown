@@ -12,8 +12,8 @@ Categories:
 {s:cmy}
 *Le personnage applique les techniques métamagiques sur ses sorts avec bien plus d’aisance que les autres lanceurs de sorts spontanés.*
 
-**Condition.** [Métamagie spontanée](./Métamagie spontanée.md)
+**Condition.** [[Métamagie spontanée]]
 
-**Avantage.** Le personnage peut changer le sort sur lequel s’applique le don [Métamagie spontanée](./Métamagie spontanée.md) chaque matin dès qu’il peut à nouveau utiliser les emplacements de sort dépensés. Le sort concerné peut être de n’importe quel niveau, mais il doit être valide au regard du don [Métamagie spontanée](./Métamagie spontanée.md).
+**Avantage.** Le personnage peut changer le sort sur lequel s’applique le don [[Métamagie spontanée]] chaque matin dès qu’il peut à nouveau utiliser les emplacements de sort dépensés. Le sort concerné peut être de n’importe quel niveau, mais il doit être valide au regard du don [[Métamagie spontanée]].
 
-**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un [don de Métamagie](./don de métamagie.md) renforcée [non-mythique](./non-mythique.md) différent.
+**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un [[don de Métamagie]] renforcée [[non-mythique]] différent.

@@ -8,11 +8,11 @@ Categories:
 - Sort sanguin 1
 ---
 
-{s:MCA}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [San](./Sanguin.md) 1  
+{s:MCA}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** 1,5 m  
 
@@ -21,4 +21,4 @@ Categories:
 **Durée** 1 round/niveau
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Le personnage crée une ligne écarlate brillante autour de la zone. Contre les créatures situées dans la zone, le personnage peut tenter un nombre d’attaques d’opportunité supplémentaires par round égal au modificateur de sa caractéristique de lancement de sorts ([Intelligence](./Intelligence.md) pour les [magi](./Magus.md) et les [magiciens](./Magicien.md), [Charisme](./Charisme.md) pour les [sanguins](./Sanguin.md) et les [ensorceleurs](./Ensorceleur.md)), même si cela ne lui permet pas de faire plus d’une attaque contre une créature par action provoquant une [attaque d’opportunité](./AO.md).
+Le personnage crée une ligne écarlate brillante autour de la zone. Contre les créatures situées dans la zone, le personnage peut tenter un nombre d’attaques d’opportunité supplémentaires par round égal au modificateur de sa caractéristique de lancement de sorts ([[Intelligence]] pour les [[magus|magi]] et les [[magicien|magiciens]], [[Charisme]] pour les [[sanguin|sanguins]] et les [[ensorceleur|ensorceleurs]]), même si cela ne lui permet pas de faire plus d’une attaque contre une créature par action provoquant une [[AO|attaque d’opportunité]].

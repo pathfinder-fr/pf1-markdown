@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Modificateurs de combat#ABRI
 ---
 
->>> [Modificateurs de combat#ABRI](./Modificateurs de combat.md#ABRI)
+>>> [[Modificateurs de combat#ABRI]]

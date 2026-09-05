@@ -13,11 +13,11 @@ Categories:
 
 *Vos rencontres répétées avec un type d’ennemi particulier vous ont permis d’aiguiser vos compétences pour en venir à bout.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** Aucun niveau dans une classe dotée d'[ennemis jurés](./Rôdeur.md#ENNEMIJURE)
+**Condition.** Aucun niveau dans une classe dotée d'[[rôdeur#ENNEMIJURE|ennemis jurés]]
 
-**Avantage.** Lorsque le personnage sélectionne ce don, il choisit une sorte de créatures spécifique comme les loups, les géants du froid, les gobelins ou les babaus. Il obtient la capacité de classe du rôdeur [ennemi juré](./Rôdeur.md#ENNEMIJURE) contre ce type particulier de créature avec un bonus de +2. Ce don ne compte pas comme la capacité de classe ennemi juré pour les besoins de remplir des conditions. Si le personnage obtient ensuite la capacité de classe ennemi juré, il peut remplacer ce don par un autre dont il remplit les conditions et dont les conditions incluent la capacité de classe ennemi juré.
+**Avantage.** Lorsque le personnage sélectionne ce don, il choisit une sorte de créatures spécifique comme les loups, les géants du froid, les gobelins ou les babaus. Il obtient la capacité de classe du rôdeur [[rôdeur#ENNEMIJURE|ennemi juré]] contre ce type particulier de créature avec un bonus de +2. Ce don ne compte pas comme la capacité de classe ennemi juré pour les besoins de remplir des conditions. Si le personnage obtient ensuite la capacité de classe ennemi juré, il peut remplacer ce don par un autre dont il remplit les conditions et dont les conditions incluent la capacité de classe ennemi juré.
 
 **Spécial.** Le personnage peut choisir ce don plusieurs fois. Ces effets ne se cumulent pas. Chaque fois qu'il choisit ce don, il s’applique à une sorte de créatures différente.
 

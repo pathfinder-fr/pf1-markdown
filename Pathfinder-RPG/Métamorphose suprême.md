@@ -6,23 +6,23 @@ Categories:
 - Sort magicien 7
 ---
 
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7  
+**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un morceau de la créature dont le personnage souhaite prendre l’apparence)  
+**Composantes** [[composantes|V, G, M]] (un morceau de la créature dont le personnage souhaite prendre l’apparence)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature vivante touchée  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Ce sort transforme une créature consentante en [animal](./type Animal.md), [humanoïde](./type Humanoïde.md), [élémentaire](./sous-type élémentaire.md), [dragon](./type Dragon.md) ou [créature végétale](./type Plante.md) au choix du personnage. Ce sort n’a aucun effet sur les créatures non-consentantes et la cible du sort ne peut pas influer sur la forme donnée par le sort (hormis en faisant part de ses désirs au personnage).
+Ce sort transforme une créature consentante en [[type animal|animal]], [[type humanoïde|humanoïde]], [[sous-type élémentaire|élémentaire]], [[type dragon|dragon]] ou [[type plante|créature végétale]] au choix du personnage. Ce sort n’a aucun effet sur les créatures non-consentantes et la cible du sort ne peut pas influer sur la forme donnée par le sort (hormis en faisant part de ses désirs au personnage).
 
-Si le personnage utilise ce sort pour transformer la cible en [animal](./type Animal.md) ou en [créature magique](./type Créature magique.md), celui-ci fonctionne comme *[forme bestiale IV](./Forme bestiale IV.md)*. Si le personnage choisit une transformation en [élémentaire](./sous-type élémentaire.md), le sort fonctionne comme *[corps élémentaire III](./Corps élémentaire III.md)*. Si la forme choisie est celle d’un [humanoïde](./type Humanoïde.md), le sort fonctionne comme *[modification d’apparence](./Modification dapparence.md)*. S’il permet de se transformer en [plante](./type Plante.md), il fonctionne comme *[forme végétale I](./Forme végétale I.md)* et, enfin, s’il permet de se transformer en [dragon](./type Dragon.md), il fonctionne comme *[forme draconique I](./Forme draconique I.md)*. La cible du sort peut reprendre sa forme originelle par une [action complexe](./Action complexe.md), ce qui met fin au sort.
+Si le personnage utilise ce sort pour transformer la cible en [[type animal|animal]] ou en [[type créature magique|créature magique]], celui-ci fonctionne comme *[[forme bestiale IV]]*. Si le personnage choisit une transformation en [[sous-type élémentaire|élémentaire]], le sort fonctionne comme *[[corps élémentaire III]]*. Si la forme choisie est celle d’un [[type Humanoïde|humanoïde]], le sort fonctionne comme *[[Modification dapparence|modification d’apparence]]*. S’il permet de se transformer en [[type plante|plante]], il fonctionne comme *[[forme végétale I]]* et, enfin, s’il permet de se transformer en [[type dragon|dragon]], il fonctionne comme *[[forme draconique I]]*. La cible du sort peut reprendre sa forme originelle par une [[action complexe]], ce qui met fin au sort.
 
 
-(((Ce sort fonctionne comme *[métamorphose](./métamorphose.md)* mais il permet aussi de se transformer en [dragon](./type Dragon.md) ou en [créature végétale](./type Plante.md). Si ce sort sert à transformer la cible en [animal](./type Animal.md) ou en [créature magique](./type Créature magique.md), il fonctionne comme *[forme bestiale IV](./Forme bestiale IV.md)*. S’il sert à prendre la forme d’un [élémentaire](./sous-type élémentaire.md), il fonctionne comme *[corps élémentaire III](./Corps élémentaire III.md)*. S’il permet d’adopter une apparence [humanoïde](./type Humanoïde.md), il fonctionne comme *[modification d’apparence](./Modification dapparence.md)*. S’il permet de se transformer en [plante](./type Plante.md), il fonctionne comme *[forme végétale I](./Forme végétale I.md)* et, enfin, s’il permet de se transformer en [dragon](./type Dragon.md), il fonctionne comme *[forme draconique I](./Forme draconique I.md)*. La cible du sort peut reprendre sa forme originelle par une [action complexe](./Action complexe.md), ce qui met fin au sort.)))
+(((Ce sort fonctionne comme *[[métamorphose]]* mais il permet aussi de se transformer en [[type dragon|dragon]] ou en [[type plante|créature végétale]]. Si ce sort sert à transformer la cible en [[type animal|animal]] ou en [[type créature magique|créature magique]], il fonctionne comme *[[forme bestiale IV]]*. S’il sert à prendre la forme d’un [[sous-type élémentaire|élémentaire]], il fonctionne comme *[[corps élémentaire III]]*. S’il permet d’adopter une apparence [[type humanoïde|humanoïde]], il fonctionne comme *[[Modification dapparence|modification d’apparence]]*. S’il permet de se transformer en [[type plante|plante]], il fonctionne comme *[[forme végétale I]]* et, enfin, s’il permet de se transformer en [[type dragon|dragon]], il fonctionne comme *[[forme draconique I]]*. La cible du sort peut reprendre sa forme originelle par une [[action complexe]], ce qui met fin au sort.)))

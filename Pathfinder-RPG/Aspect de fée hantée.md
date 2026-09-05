@@ -14,16 +14,16 @@ Categories:
 ---
 
 {s:UC}
-**École** [Illusion](./Illusion.md) ([hallucination](./branche hallucination.md)) ; **Niveau** [Bard](./Barde.md) 0, [Hyp](./Hypnotiseur.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Méd](./Médium.md) 0, [Psy](./Psychiste.md) 0  
+**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 0, [[Hypnotiseur|Hyp]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Médium|Méd]] 0, [[Psychiste|Psy]] 0  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [G](./composantes.md)  
+**Composantes** [[Composantes|G]]  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)
+**Durée** 1 [[round]]/[[niveau]] (T)
 
-Le personnage s’entoure d’illusions inquiétantes qui lui donnent l’air d’une étrange fée démente. Il gagne une [RD](./RD.md) 1/[fer froid](./fer froid.md) contre un unique adversaire jusqu’à la fin du sort ou jusqu’à ce qu’il subisse des dégâts.
+Le personnage s’entoure d’illusions inquiétantes qui lui donnent l’air d’une étrange fée démente. Il gagne une [[RD]] 1/[[fer froid]] contre un unique adversaire jusqu’à la fin du sort ou jusqu’à ce qu’il subisse des dégâts.

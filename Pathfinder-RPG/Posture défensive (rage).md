@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#POSTUREDEFENSIVE
 ---
 
->>> [pouvoirs de rage#POSTUREDEFENSIVE](./Pouvoirs de rage.md#POSTUREDEFENSIVE)
+>>> [[pouvoirs de rage#POSTUREDEFENSIVE]]

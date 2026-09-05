@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.183}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille M, N}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [Vision dans le noir](./vision dans le noir.md) 18 m, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type créature magique|Créature magique]] de taille M, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[Vision dans le noir]] 18 m, [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)}
 {s:BDTexte|**pv** 13 (2d10+2)}
@@ -26,29 +26,29 @@ Categories:
 {s:BDTexte|**Attaques spéciales**tête de crâne}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 14, **Con** 13, **Int** 6, **Sag** 12, **Cha** 13}
-{s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 14 (18 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Intimidation](./Intimidation.md) +1 (+5 pour démoraliser), [Perception](./Perception.md) +5 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md), +4 en [Intimidation](./Intimidation.md) pour démoraliser}
+{s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 14 (18 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Intimidation]] +1 (+5 pour démoraliser), [[Perception]] +5 ; **Modificateurs raciaux** +4 en [[Discrétion]], +4 en [[Intimidation]] pour démoraliser}
 {s:BDTexte|**Langues**  sylvestre (incapable de parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts/plaines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (6-10)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Tête de crâne (Sur).** Par une [action simple](./Action simple.md), un krenshar peut retirer
+{s:BDTexte|**Tête de crâne (Sur).** Par une [[action simple]], un krenshar peut retirer
 la peau de son visage et révéler les muscles et la structure osseuse
-de son crâne. Cette [capacité extraordinaire](./pouvoir extraordinaire.md) fonctionne comme
-une utilisation de la compétence [Intimidation](./Intimidation.md) pour démoraliser un
+de son crâne. Cette [[pouvoir extraordinaire|capacité extraordinaire]] fonctionne comme
+une utilisation de la compétence [[Intimidation]] pour démoraliser un
 adversaire. Le krenshar peut émettre un cri puissant tout en retirant
 sa peau, afin de susciter la terreur chez une unique créature
 située dans un rayon de 30 mètres et capable de voir le krenshar.
-La cible en question doit réussir un [jet de Volonté](./jet de sauvegarde.md) de DD 12 pour
-ne pas être [effrayée](./Effrayé.md) (si la cible possède 6 [DV](./../Ressources/DV.md) ou moins) ou [secouée](./Secoué.md)
-(si la cible possède plus de 6 [DV](./../Ressources/DV.md)) pendant 1d4 rounds. Si une créature
-réussit son [jet de sauvegarde](./jet de sauvegarde.md), elle ne peut plus être affectée à
+La cible en question doit réussir un [[jet de sauvegarde|jet de Volonté]] de DD 12 pour
+ne pas être [[effrayé|effrayée]] (si la cible possède 6 [[DV]] ou moins) ou [[secoué|secouée]]
+(si la cible possède plus de 6 [[DV]]) pendant 1d4 rounds. Si une créature
+réussit son [[jet de sauvegarde]], elle ne peut plus être affectée à
 nouveau par la capacité de tête de crâne du krenshar en question
-pendant 24 heures. Il s’agit d’un effet [mental](./Registre.md) de [terreur](./Registre.md) et de [son](./Registre.md).
-Le DD du jet de sauvegarde dépend du [Charisme](./Charisme.md).}
+pendant 24 heures. Il s’agit d’un effet [[registre|mental]] de [[registre|terreur]] et de [[registre|son]].
+Le DD du jet de sauvegarde dépend du [[Charisme]].}
 </div>
 </td><td><div>*Cette sorte de panthère sans oreille grogne et la peau de son visage s'agite puis se replie pour dévoiler ses os et sa chair. *
 
@@ -59,5 +59,5 @@ pour leur lancer un défi, les femelles utilisent cette faculté pour repousser 
 
 Les krenshars préfèrent s’en prendre aux animaux qui vivent en troupeaux, comme le bétail et les cerfs, mais ils n’hésitent pas à s’attaquer aux humanoïdes si la nourriture vient à manquer. Un krenshar moyen mesure entre 1,20 m et 1,50 m de longueur et pèse à peu près 87,5 kg.  
 
-L’[intelligence](./Intelligence.md) des krenshars est un sujet qui a suscité de nombreux débats parmi les érudits. Les krenshars sont clairement plus intelligents que de simples animaux, mais ils ne semblent posséder qu’un langage rudimentaire composé de grognements et de hurlements et, à part les quelques mouvements tactiques pour lesquels ils sont réputés, ils se comportent comme des félins ou des loups normaux, allant même jusqu’à se laisser approcher par des [rôdeurs](./Rôdeur.md) ou des [druides](./Druide.md). Ceux qui prétendent que les krenshars ne sont pas doués d’[intelligence](./Intelligence.md) n’ont cependant qu’à regarder dans leurs étranges yeux violets ou qu’à observer la facilité avec laquelle ils manipulent et piègent leurs proies pour comprendre qu’ils font erreur, une erreur qu’ils ont rarement l’occasion de commettre plus d’une fois.
+L’[[intelligence]] des krenshars est un sujet qui a suscité de nombreux débats parmi les érudits. Les krenshars sont clairement plus intelligents que de simples animaux, mais ils ne semblent posséder qu’un langage rudimentaire composé de grognements et de hurlements et, à part les quelques mouvements tactiques pour lesquels ils sont réputés, ils se comportent comme des félins ou des loups normaux, allant même jusqu’à se laisser approcher par des [[rôdeur|rôdeurs]] ou des [[druide|druides]]. Ceux qui prétendent que les krenshars ne sont pas doués d’[[intelligence]] n’ont cependant qu’à regarder dans leurs étranges yeux violets ou qu’à observer la facilité avec laquelle ils manipulent et piègent leurs proies pour comprendre qu’ils font erreur, une erreur qu’ils ont rarement l’occasion de commettre plus d’une fois.
 </div></td></tr></table>

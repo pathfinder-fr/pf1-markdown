@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 4* p.197}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille P, NM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille P, NM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] à 18 m ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 12 (Dex +1, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 13 (2d10+2)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 13, **Con** 12, **Int** 6, **Sag** 15, **Cha** 11}
 {s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 11 (croc-en–jambe impossible)}
-{s:BDTexte|**Dons** [S’avancer](./Savancer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Natation](./Natation.md) +12}
+{s:BDTexte|**Dons** [[Savancer|S’avancer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Natation]] +12}
 {s:BDTexte|**Langues** aquatique}
 {s:BDTexte|**Particularités** amphibie, mort-vivance nocturne}
 {s:BDSousTitre|Écologie}
@@ -36,27 +36,27 @@ Categories:
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|POUVOIRS MAGIQUES}
 {s:BDTexte|**Attaque par surprise (Sur).** Si un ningyo mort-vivant attaque lors du round
-de surprise, sa cible doit effectuer un jet de [Volonté](./Volonté.md) [DD](./DD.md) 11. Si elle réussit
+de surprise, sa cible doit effectuer un jet de [[Volonté]] [[DD]] 11. Si elle réussit
 ce jet, la cible est secouée pendant un round ; si elle le rate, elle est
 effrayée pendant 1d4 rounds. La cible ne peut être affectée qu’une seule
 fois toutes les 24 heures par l’attaque par surprise d’un même ningyo.
 Les créatures qui possèdent 6 dés de vie ou plus sont immunisées à ce
-pouvoir. C’est un effet mental de terreur. Le [DD](./DD.md) du jet de sauvegarde est
-basé sur le [Charisme](./Charisme.md).}
+pouvoir. C’est un effet mental de terreur. Le [[DD]] du jet de sauvegarde est
+basé sur le [[Charisme]].}
 {s:BDTexte|**Chair empoisonnée (Ext).** Une créature qui mord ou engloutit ne serait-ce
 qu’un morceau de ningyo s’empoisonne.
-*Chair de ningyo* : Ingéré ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 12 ; *incubation* 1 minute ; *fréquence*
+*Chair de ningyo* : Ingéré ; *JdS* [[Vigueur]] [[DD]] 12 ; *incubation* 1 minute ; *fréquence*
 1/minute pendant 4 minutes ; *effet* affaiblissement temporaire de 1d2
-[Int](./Intelligence.md) ; *guérison* 2 réussites.}
+[[Intelligence|Int]] ; *guérison* 2 réussites.}
 {s:BDTexte|**Lutteur de groupe (Ext).** Le ningyo bénéficie d’un bonus racial de +2 aux
-tests de [manœuvre offensive](./Manœuvre offensive.md). Lorsque deux ningyos ou plus luttent contre
+tests de [[manœuvre offensive]]. Lorsque deux ningyos ou plus luttent contre
 une même créature, chacun d’eux gagne un bonus de +1 aux tests de
 lutte et un bonus de +1 aux jets de dégâts effectués en situation de lutte.}
 {s:BDTexte|**Mort-vivance nocturne (Sur).** Le corps du ningyo est toujours en activité.
 Chaque nuit, une heure après le coucher du soleil, le cadavre intact
-du ningyo s’anime ; son type devient [mort-vivant](./type Mort-vivant.md) ([aquatique](./sous-type aquatique.md)) et il
+du ningyo s’anime ; son type devient [[type mort-vivant|mort-vivant]] ([[sous-type aquatique|aquatique]]) et il
 gagne les immunités des morts-vivants ainsi que leurs points de vie
-supplémentaires en fonction de son [Charisme](./Charisme.md) (non de sa [Constitution](./Constitution.md))
+supplémentaires en fonction de son [[Charisme]] (non de sa [[Constitution]])
 et le pouvoir d’attaque par surprise. À l’aube, le ningyo mort-vivant
 redevient un cadavre. Un ningyo mort-vivant sait quand l’aube arrive
 et tente de trouver un abri pour que personne ne puisse découvrir son

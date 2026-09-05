@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[malédiction](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Prê](./Prêtre.md) 2  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ;** Niveau** [[Prêtre|Prê]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[Composantes|V]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Cible** une créature  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage fait appel aux forces du destin pour maudire une créature. La cible souffre de tous les inconvénients du pouvoir de classe de [malédiction d'oracle](./Oracle.md#MALEDICTIONDELORACLE) et d'aucun de ses avantages. En revanche, le personnage subit toujours tous les effets de sa [malédiction](./Oracle.md#MALEDICTIONDELORACLE). Si le personnage ne dispose pas du pouvoir de classe de [malédiction d'oracle](./Oracle.md#MALEDICTIONDELORACLE), ce sort reste sans effet.
+Le personnage fait appel aux forces du destin pour maudire une créature. La cible souffre de tous les inconvénients du pouvoir de classe de [[oracle#MALEDICTIONDELORACLE|malédiction d'oracle]] et d'aucun de ses avantages. En revanche, le personnage subit toujours tous les effets de sa [[oracle#MALEDICTIONDELORACLE|malédiction]]. Si le personnage ne dispose pas du pouvoir de classe de [[oracle#MALEDICTIONDELORACLE|malédiction d'oracle]], ce sort reste sans effet.

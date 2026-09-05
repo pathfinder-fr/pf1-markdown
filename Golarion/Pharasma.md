@@ -15,7 +15,7 @@ Un chemin de terre sinueux escalade une colline, bordée de-ci de-là de kalanch
 
 
 
-Le royaume de Pharasma est étrangement lié à l'influence du dieu [Golarion.Groétus|Groétus]. En effet, cette énorme lune gibbeuse est annonciatrice de la fin des temps pour tout Golarion mais n'est visible que depuis le plan des morts.
+Le royaume de Pharasma est étrangement lié à l'influence du dieu [[Golarion.Groétus|Groétus]]. En effet, cette énorme lune gibbeuse est annonciatrice de la fin des temps pour tout Golarion mais n'est visible que depuis le plan des morts.
 
 
 ### Apparence
@@ -25,12 +25,12 @@ Pharasma est une déesse froide aux longs cheveux blancs et à la peau grise. El
 
 ### Émissaires
 
-Pharasma a un nombre important d'immortels étranges à son service. Les hérauts de Pharasma sont les intendants des écheveaux, une paire d'êtres ressemblant à des [Golarion.Pathfinder-RPG.Ghaéle|Ghaeles]. L'un est entouré de lumières bleues et blanches, tandis que l'autre est entouré de lumières oranges et noires.
+Pharasma a un nombre important d'immortels étranges à son service. Les hérauts de Pharasma sont les intendants des écheveaux, une paire d'êtres ressemblant à des [[Golarion.Pathfinder-RPG.Ghaéle|Ghaeles]]. L'un est entouré de lumières bleues et blanches, tandis que l'autre est entouré de lumières oranges et noires.
 
 
 ### Doctrine
 
-En tant que déesse des prophéties, son clergé a beaucoup souffert de la mort d'[Golarion.Aroden|Aroden]. Certains prêtres liés à ce domaine ont perdu la vie ou la raison et l'on surnomme depuis lors la déesse de "Prophète folle". Les prêtres de Pharasma, et beaucoup de fidèles d'[Golarion.Iomédae|Iomédae] ou de [Golarion.Milani|Milani], murmurent que la déesse était au courant de la mort imminente d'[Golarion.Aroden|Aroden] et qu'elle aurait jugé son âme par avance. Cependant, pour une raison connue d'elle seulement, elle ne prévint pas son propre clergé de la fin prochaine des prophéties.
+En tant que déesse des prophéties, son clergé a beaucoup souffert de la mort d'[[Golarion.Aroden|Aroden]]. Certains prêtres liés à ce domaine ont perdu la vie ou la raison et l'on surnomme depuis lors la déesse de "Prophète folle". Les prêtres de Pharasma, et beaucoup de fidèles d'[[Golarion.Iomédae|Iomédae]] ou de [[Golarion.Milani|Milani]], murmurent que la déesse était au courant de la mort imminente d'[[Golarion.Aroden|Aroden]] et qu'elle aurait jugé son âme par avance. Cependant, pour une raison connue d'elle seulement, elle ne prévint pas son propre clergé de la fin prochaine des prophéties.
 
 
 ### Temples
@@ -47,8 +47,8 @@ Il est appelé la terre spiralée des os.
 {s:VoirAussiAvant}
 
 
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Golarion.Publications|Gods and Magic].
-- Les [Golarion.Publications|Campaign Setting] et le [Golarion.Publications|Gazetteer/Atlas] les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Golarion.Aides de jeu|Guide du joueur] téléchargeable gratuitement sur la page des [Golarion.Aides de jeu|Aides de jeu].
-- Enfin, le [deuxième volume](./../Aventures/Présentation AP8.md#AP8-2) de la huitième campagne, [La Couronne Putréfiée](./../Aventures/Présentation AP8.md), contient un article sur ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Golarion.Publications|Gods and Magic]].
+- Les [[Golarion.Publications|Campaign Setting]] et le [[Golarion.Publications|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Golarion.Aides de jeu|Guide du joueur]] téléchargeable gratuitement sur la page des [[Golarion.Aides de jeu|Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP8#AP8-2|deuxième volume]] de la huitième campagne, [[Aventures.Présentation AP8|La Couronne Putréfiée]], contient un article sur ce dieu.
 {s:VoirAussiAprès}

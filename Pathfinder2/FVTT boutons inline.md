@@ -4,14 +4,14 @@ Title: Boutons inline sur Foundry VTT
 LastModified: 2023-04-09 20:24
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
 
-• [Boutons de jets de dés](./FVTT boutons jets.md)  
+• [[FVTT boutons jets|Boutons de jets de dés]]  
 
-• [Boutons de tests](./FVTT boutons tests.md)  
+• [[FVTT boutons tests|Boutons de tests]]  
 
-• [Boutons de gabarit](./FVTT boutons gabarit.md)  
+• [[FVTT boutons gabarit|Boutons de gabarit]]  
 
 
 <nowiki><style>
@@ -46,7 +46,7 @@ Cette page rassemble des indications sur la syntaxe et l'utilisation de trois ty
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r 1d6+3](.//r-1d6+3.md)`</td>
+`[[/r 1d6+3]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd1b.webp"/></td>
 </tr>
 <tr><td>
@@ -61,7 +61,7 @@ Cette page rassemble des indications sur la syntaxe et l'utilisation de trois ty
 <table class="example">
 <td>**Code**  
 
-`@Template[type:cone|distance:20]`</td>
+`@Template[[type:cone|distance:20]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga3b.webp"/></td>
 </tr>
 <tr><td>
@@ -73,12 +73,12 @@ Cette page rassemble des indications sur la syntaxe et l'utilisation de trois ty
 
 ## Boutons de jets de dés
 
-Le format général pour insérer un bouton de jet de dés est `[/r 1d6+3](.//r-1d6+3.md)`.
+Le format général pour insérer un bouton de jet de dés est `[[/r 1d6+3]]`.
 
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r 1d6+3](.//r-1d6+3.md)`</td>
+`[[/r 1d6+3]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd1b.webp"/></td>
 </tr>
 <tr><td>
@@ -92,7 +92,7 @@ Le format général pour insérer un bouton de jet de dés est `[/r 1d6+3](.//r-
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r 1d6+3](.//r-1d6+3.md){durée de l'effet}`</td>
+`[[/r 1d6+3]]{durée de l'effet}`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd2b.webp"/></td>
 </tr>
 <tr><td>
@@ -106,7 +106,7 @@ Le format général pour insérer un bouton de jet de dés est `[/r 1d6+3](.//r-
 <table class="example">
 <tr>
 <td>**Code**  
-`[/br 1d6+3](.//br-1d6+3.md)`</td>
+`[[/br 1d6+3]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd3b.webp"/></td>
 </tr>
 <tr><td>
@@ -122,7 +122,7 @@ Quelques-uns des types reconnus : `fire`, `cold`, `electricity`, `acid`, `poison
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r 1d12[acid](.//r-1d12[acid.md)]`</td>
+`[[/r 1d12[acid]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd4b.webp"/></td>
 </tr>
 <tr><td>
@@ -133,7 +133,7 @@ Quelques-uns des types reconnus : `fire`, `cold`, `electricity`, `acid`, `poison
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r (1d8+4)[fire](.//r-(1d8+4)[fire.md)]`</td>
+`[[/r (1d8+4)[fire]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd5b.webp"/></td>
 </tr>
 <tr><td>
@@ -144,7 +144,7 @@ Quelques-uns des types reconnus : `fire`, `cold`, `electricity`, `acid`, `poison
 <table class="example">
 <tr>
 <td>**Code**  
-`[[/r 1d6[slashing],2d4[cold],7[precision]]]`</td>
+`[[/r 1d6[[slashing]],2d4[[cold]],7[precision]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd6b.webp"/></td>
 </tr>
 <tr><td>
@@ -159,7 +159,7 @@ Quelques-uns des types reconnus : `fire`, `cold`, `electricity`, `acid`, `poison
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r 2d6[bleed](.//r-2d6[bleed.md)]`</td>
+`[[/r 2d6[bleed]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd7b.webp"/></td>
 </tr>
 <tr><td>
@@ -170,7 +170,7 @@ Quelques-uns des types reconnus : `fire`, `cold`, `electricity`, `acid`, `poison
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r 3d4[electricity,persistent](.//r-3d4[electricity,persistent.md)]`</td>
+`[[/r 3d4[electricity,persistent]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd8b.webp"/></td>
 </tr>
 <tr><td>
@@ -181,7 +181,7 @@ Quelques-uns des types reconnus : `fire`, `cold`, `electricity`, `acid`, `poison
 <table class="example">
 <tr>
 <td>**Code**  
-`[[/r (1d8+2)[fire],1d4[fire,persistent]]]`</td>
+`[[/r (1d8+2)[[fire]],1d4[fire,persistent]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd9b.webp"/></td>
 </tr>
 <tr><td>
@@ -209,7 +209,7 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <tr>
 <td>**Code**  
 
-`@Template[type:emanation|distance:15]`</td>
+`@Template[[type:emanation|distance:15]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga1b.webp"/></td>
 </tr>
 <tr><td>
@@ -221,7 +221,7 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <tr>
 <td>**Code**  
 
-`@Template[type:burst|distance:25]`</td>
+`@Template[[type:burst|distance:25]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga2b.webp"/></td>
 </tr>
 <tr><td>
@@ -233,7 +233,7 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <table class="example">
 <td>**Code**  
 
-`@Template[type:cone|distance:20]`</td>
+`@Template[[type:cone|distance:20]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga3b.webp"/></td>
 </tr>
 <tr><td>
@@ -245,7 +245,7 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <table class="example">
 <td>**Code**  
 
-`@Template[type:line|distance:20]`</td>
+`@Template[[type:line|distance:20]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga4b.webp"/></td>
 </tr>
 <tr><td>
@@ -260,7 +260,7 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <tr>
 <td>**Code**  
 
-`un cône de @Template[type:cone|distance:15]{3 cases}`</td>
+`un cône de @Template[[type:cone|distance:15]]{3 cases}`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga5b.webp"/></td>
 </tr>
 <tr><td>
@@ -275,7 +275,7 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <tr>
 <td>**Code**  
 
-`@Template[type:line|distance:30|width:15]`</td>
+`@Template[[type:line|distance:30|width:15]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga6b.webp"/></td>
 </tr>
 <tr><td>
@@ -287,7 +287,7 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <tr>
 <td>**Code**  
 
-`carré de @Template[type:line|distance:20|width:20]{4 × 4 cases}`</td>
+`carré de @Template[[type:line|distance:20|width:20]]{4 × 4 cases}`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga7b.webp"/></td>
 </tr>
 <tr><td>

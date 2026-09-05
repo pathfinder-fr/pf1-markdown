@@ -9,6 +9,6 @@ Categories:
 
 {s:MR}*L’orque fait preuve d’une vive férocité de courte durée.*
 
-**Conditions requises.** Trait racial férocité, [orque](./orque (race).md).
+**Conditions requises.** Trait racial férocité, [[Orque (race)|orque]].
 
-**Avantages.** Lorsque l’orque tombe à 0 point de vie ou moins, il perd 2 points de vie par round, mais n’est pas chancelant. S’il est [enragé](./Barbare.md#RAGEDEBERSERKER), il ne perd qu’un point de vie par round.
+**Avantages.** Lorsque l’orque tombe à 0 point de vie ou moins, il perd 2 points de vie par round, mais n’est pas chancelant. S’il est [[barbare#RAGEDEBERSERKER|enragé]], il ne perd qu’un point de vie par round.

@@ -10,8 +10,8 @@ Categories:
 
 {s:apg}*Le personnage a réalisé une nouvelle découverte alchimique.*
 
-**Condition.** Aptitude de classe de [découverte](./découvertes.md) [alchimique](./Alchimiste.md).
+**Condition.** Aptitude de classe de [[découvertes|découverte]] [[alchimiste|alchimique]].
 
-**Avantage.** Le personnage gagne une [découverte](./découvertes.md) alchimique de plus dont il doit en remplir les conditions d’accès.
+**Avantage.** Le personnage gagne une [[découvertes|découverte]] alchimique de plus dont il doit en remplir les conditions d’accès.
 
 **Spécial. **Le personnage peut acquérir ce don plusieurs fois.

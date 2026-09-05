@@ -15,32 +15,32 @@ Categories:
 ! Anglais !! Français
 |-
 | Bull Rush
-| CLASS="gauche" | [Bousculade](./bousculade.md)
+| CLASS="gauche" | [[Bousculade]]
 |-
 | Dirty Trick
-| CLASS="gauche" | [Sale coup](./sale coup.md)
+| CLASS="gauche" | [[Sale coup]]
 |-
 | Disarm
-| CLASS="gauche" | [Désarmement](./désarmement.md)
+| CLASS="gauche" | [[Désarmement]]
 |-
 | Drag
-| CLASS="gauche" | [Entraînement](./entraînement.md)
+| CLASS="gauche" | [[Entraînement]]
 |-
 | Grapple
-| CLASS="gauche" | [Lutte](./lutte.md)
+| CLASS="gauche" | [[Lutte]]
 |-
 | Overrun
-| CLASS="gauche" | [Renversement](./renversement.md)
+| CLASS="gauche" | [[Renversement]]
 |-
 | Reposition
-| CLASS="gauche" | [Repositionnement](./repositionnement.md)
+| CLASS="gauche" | [[Repositionnement]]
 |-
 | Steal
-| CLASS="gauche" | [Subtilisation](./subtilisation.md)
+| CLASS="gauche" | [[Subtilisation]]
 |-
 | Sunder
-| CLASS="gauche" | [Destruction](./destruction.md)
+| CLASS="gauche" | [[Destruction]]
 |-
 | Trip
-| CLASS="gauche" | [Croc-en-jambe](./croc-en-jambe.md)
+| CLASS="gauche" | [[Croc-en-jambe]]
 |}

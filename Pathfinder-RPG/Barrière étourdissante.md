@@ -14,12 +14,12 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:MCA}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, G](./composantes.md)</br>
+{s:MCA}**École** [[Abjuration]] ; **Niveau** [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[COMPOSANTES|V, G]]</br>
 **Portée** personnelle</br>
 **Cible** le lanceur de sorts</br>
-**Durée** 1 round/[niveau](./niveau.md) ou jusqu’à déchargement</br>
-**Jet de sauvegarde** aucun et [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** non et oui (voir description)
+**Durée** 1 round/[[niveau]] ou jusqu’à déchargement</br>
+**Jet de sauvegarde** aucun et [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** non et oui (voir description)
 
-Le personnage est étroitement entouré d’un champ magique à peine visible. Ce champ lui apporte un bonus de parade de +1 à la [CA](./CA.md) et un bonus de résistance de +1 aux [jets de sauvegarde](./JDS.md). Toute créature qui touche le personnage avec une attaque au corps à corps est [étourdie](./Étourdi.md) pendant 1 round ([Volonté](./Volonté.md), annule). Une fois que le champ a [étourdi](./Étourdi.md) un adversaire, le sort est déchargé.
+Le personnage est étroitement entouré d’un champ magique à peine visible. Ce champ lui apporte un bonus de parade de +1 à la [[CA]] et un bonus de résistance de +1 aux [[JDS|jets de sauvegarde]]. Toute créature qui touche le personnage avec une attaque au corps à corps est [[étourdi|étourdie]] pendant 1 round ([[Volonté]], annule). Une fois que le champ a [[étourdi]] un adversaire, le sort est déchargé.

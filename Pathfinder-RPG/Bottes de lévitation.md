@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bottes de lévitation|}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [pieds](./Objets merveilleux portés aux pieds.md) ; **Prix** 7 500 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 7 500 po ; **Poids** 0,5 kg
 (((Description)))
-Ces bottes de cuir permettent à leur porteur de décoller du sol sur commande, comme s’il bénéficiait du sort *[lévitation](./Lévitation.md)*.
+Ces bottes de cuir permettent à leur porteur de décoller du sol sur commande, comme s’il bénéficiait du sort *[[lévitation]]*.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[lévitation](./Lévitation.md)* ; **Coût** 3 750 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[lévitation]]* ; **Coût** 3 750 po
 </div>

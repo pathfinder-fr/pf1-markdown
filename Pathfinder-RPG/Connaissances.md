@@ -8,28 +8,28 @@ Categories:
 
 {s:MenuCompétences}
 
-**Caractéristique associée** : [Intelligence](./Intelligence.md)
+**Caractéristique associée** : [[Intelligence]]
 
 **Formation nécessaire** : oui
 
 *Le personnage possède des connaissances dans un domaine spécifique, qui lui permettent de répondre à des questions simples ou complexes. Comme les compétences d’Artisanat, de Profession et de Représentation, cette compétence regroupe plusieurs spécialisations. Les plus courantes sont reprises ci-dessous.*
 
-- Mystères ([créatures artificielles](./type Créature artificielle.md), [créatures magiques](./type Créature magique.md), [dragons](./type Dragon.md), mystères anciens, symboles ésotériques, traditions magiques)
-- Exploration souterraine ([aberrations](./type Aberration.md), cavernes, spéléologie, [vases](./type Vase.md))
+- Mystères ([[type créature artificielle|créatures artificielles]], [[type créature magique|créatures magiques]], [[type dragon|dragons]], mystères anciens, symboles ésotériques, traditions magiques)
+- Exploration souterraine ([[type aberration|aberrations]], cavernes, spéléologie, [[type vase|vases]])
 - Ingénierie (aqueducs, bâtiments, fortifications, ponts)
 - Géographie (climat, pays, peuples, types de terrain)
 - Histoire (colonies, guerres, histoire des villes, migrations)
-- Folklore local (coutumes, habitants, [humanoïdes](./type Humanoïde.md), légendes, lois et traditions, personnalités)
-- Nature ([animaux](./type Animal.md), climat, cycles et saisons, [fées](./type Fée.md), [humanoïdes monstrueux](./type Humanoïde monstrueux.md), [plantes](./type Plante.md), [vermines](./type Vermine.md))
+- Folklore local (coutumes, habitants, [[type humanoïde|humanoïdes]], légendes, lois et traditions, personnalités)
+- Nature ([[type animal|animaux]], climat, cycles et saisons, [[type fée|fées]], [[type humanoïde monstrueux|humanoïdes monstrueux]], [[type plante|plantes]], [[type vermine|vermines]])
 - Noblesse (lignées, héraldique, personnalités, familles royales)
-- Plans ([Extérieurs](./type Extérieur.md), magie des [plans](./Plans.md), [plan Astral](./Plans.md), [plan Éthéré](./Plans.md), [plans Extérieurs](./Plans.md), [plans Intérieurs](./Plans.md))
-- Religion (dieux et déesses, [morts-vivants](./type Mort-vivant.md), mythologie, symboles sacrés, tradition ecclésiastique)
+- Plans ([[type Extérieur|Extérieurs]], magie des [[plans]], [[plans|plan Astral]], [[plans|plan Éthéré]], [[plans|plans Extérieurs]], [[plans|plans Intérieurs]])
+- Religion (dieux et déesses, [[type mort-vivant|morts-vivants]], mythologie, symboles sacrés, tradition ecclésiastique)
 
 ### Test de compétence
 
-Le personnage parvient à répondre à une question ayant trait à sa spécialité s’il réussit un test de compétence d’un [DD](./DD.md) de 10 (pour une question basique), 15 (pour une question facile) ou 20, voire 30 (pour une question difficile ou très difficile).
+Le personnage parvient à répondre à une question ayant trait à sa spécialité s’il réussit un test de compétence d’un [[DD]] de 10 (pour une question basique), 15 (pour une question facile) ou 20, voire 30 (pour une question difficile ou très difficile).
 
-Le personnage peut également utiliser cette compétence pour reconnaître un monstre et identifier ses particularités ou ses points faibles. En général, le [DD](./DD.md) du test vaut 10 + le [FP](./FP.md) du monstre. Dans le cas de monstres communs (comme des gobelins), le [DD](./DD.md) de ce test vaut 5 + le [FP](./FP.md) du monstre. Pour des monstres spécialement rares (comme la tarrasque), le [DD](./DD.md) de ce test vaut 15 + le [FP](./FP.md) du monstre ou plus encore. Un test réussi permet au personnage de se souvenir d’une information utile se rapportant au monstre. Il se rappelle d’une information utile en plus par tranche de 5 points entre son résultat et le [DD](./DD.md) du test. Certaines compétences de Connaissances peuvent également être utilisées pour des tâches spécifiques, comme indiqué dans la table ci-après.
+Le personnage peut également utiliser cette compétence pour reconnaître un monstre et identifier ses particularités ou ses points faibles. En général, le [[DD]] du test vaut 10 + le [[FP]] du monstre. Dans le cas de monstres communs (comme des gobelins), le [[DD]] de ce test vaut 5 + le [[FP]] du monstre. Pour des monstres spécialement rares (comme la tarrasque), le [[DD]] de ce test vaut 15 + le [[FP]] du monstre ou plus encore. Un test réussi permet au personnage de se souvenir d’une information utile se rapportant au monstre. Il se rappelle d’une information utile en plus par tranche de 5 points entre son résultat et le [[DD]] du test. Certaines compétences de Connaissances peuvent également être utilisées pour des tâches spécifiques, comme indiqué dans la table ci-après.
 
 <center>
 {| CLASS="tablo"
@@ -37,17 +37,17 @@ Le personnage peut également utiliser cette compétence pour reconnaître un mo
 |- CLASS="titre"
 | Tâche || Domaine d’étude || DD
 |- CLASS="premier"
-| Identifier les auras magiques avec un sort de *[détection de la magie](./Détection de la magie.md)* || mystères || 15 + [niveau du sort](./Niveau de sort.md)
+| Identifier les auras magiques avec un sort de *[[détection de la magie]]* || mystères || 15 + [[niveau de sort|niveau du sort]]
 |- CLASS="alt"
-| Identifier un effet de sort déjà actif || mystères || 20 + [niveau du sort](./Niveau de sort.md)
+| Identifier un effet de sort déjà actif || mystères || 20 + [[niveau de sort|niveau du sort]]
 |-
-| Reconnaître des matériaux créés par magie || mystères || 20 + [niveau du sort](./Niveau de sort.md)
+| Reconnaître des matériaux créés par magie || mystères || 20 + [[niveau de sort|niveau du sort]]
 |- CLASS="alt"
-| Identifier un sort ayant pris le personnage pour cible || mystères || 25 + [niveau du sort](./Niveau de sort.md)
+| Identifier un sort ayant pris le personnage pour cible || mystères || 25 + [[niveau de sort|niveau du sort]]
 |-
 | Identifier un sort lancé en utilisant une composante matérielle || mystères || 20
 |- CLASS="alt"
-| Identifier un danger souterrain || exploration souterraine || 15 + [FP](./FP.md) du danger
+| Identifier un danger souterrain || exploration souterraine || 15 + [[FP]] du danger
 |-
 | Identifier un minerai, une roche ou un métal || exploration souterraine || 10
 |- CLASS="alt"
@@ -79,7 +79,7 @@ Le personnage peut également utiliser cette compétence pour reconnaître un mo
 |-
 | Connaître une organisation secrète, ses dirigeants et savoir comment les rencontrer || folklore local || 20
 |- CLASS="alt"
-| Identifier un danger naturel || nature || 15 + [FP](./FP.md) du danger
+| Identifier un danger naturel || nature || 15 + [[FP]] du danger
 |-
 | Identifier une plante ou un animal commun || nature || 10
 |- CLASS="alt"
@@ -93,11 +93,11 @@ Le personnage peut également utiliser cette compétence pour reconnaître un mo
 |- CLASS="alt"
 | Connaître les prétendants au trône || noblesse || 20
 |-
-| Connaître le nom des [plans](./Plans.md) || plans || 10
+| Connaître le nom des [[plans]] || plans || 10
 |- CLASS="alt"
-| Reconnaître le [plan](./Plans.md) sur lequel le personnage se trouve || plans || 15
+| Reconnaître le [[plans|plan]] sur lequel le personnage se trouve || plans || 15
 |-
-| Identifier l’origine d’une créature provenant d’un autre [plan](./Plans.md) || plans || 20
+| Identifier l’origine d’une créature provenant d’un autre [[plans|plan]] || plans || 20
 |- CLASS="alt"
 | Reconnaître le symbole d’une divinité courante ou identifier un membre de son clergé || religion || 10
 |-
@@ -105,14 +105,14 @@ Le personnage peut également utiliser cette compétence pour reconnaître un mo
 |- CLASS="alt"
 | Reconnaître le symbole d’une divinité peu connue ou identifier un membre de son clergé || religion || 20
 |-
-| Connaître les capacités et les points faibles d’un monstre || variable || 10 + [FP](./FP.md) du monstre
+| Connaître les capacités et les points faibles d’un monstre || variable || 10 + [[FP]] du monstre
 |}
 </center>
 
 
 ### Action
 
-Généralement, aucune. La plupart du temps, les tests de Connaissances ne prennent pas d’action (voir « [Utilisation sans formation](./Connaissances.md#UTILSANSFOR) », ci-dessous).
+Généralement, aucune. La plupart du temps, les tests de Connaissances ne prennent pas d’action (voir « [[Connaissances#UTILSANSFOR|Utilisation sans formation]] », ci-dessous).
 
 ### Nouvelles tentatives
 
@@ -121,4 +121,4 @@ Non. Le test de compétence représente ce que le personnage sait ; réfléchir 
 {s:Reference|UTILSANSFOR}
 ### Utilisation sans formation
 
-Un test sans formation échoue automatiquement lorsque le [DD](./DD.md) est supérieur à 10. Si le personnage a accès à une grande bibliothèque consacrée à un domaine particulier, cette restriction ne s’applique pas mais le temps nécessaire pour conduire une recherche passe à 1d4 heures. Dans le cas de bibliothèques très complètes, le personnage pourrait même bénéficier d’un bonus aux tests de Connaissances pour les domaines d’étude qui y sont représentés.
+Un test sans formation échoue automatiquement lorsque le [[DD]] est supérieur à 10. Si le personnage a accès à une grande bibliothèque consacrée à un domaine particulier, cette restriction ne s’applique pas mais le temps nécessaire pour conduire une recherche passe à 1d4 heures. Dans le cas de bibliothèques très complètes, le personnage pourrait même bénéficier d’un bonus aux tests de Connaissances pour les domaines d’étude qui y sont représentés.

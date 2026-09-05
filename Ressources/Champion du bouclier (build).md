@@ -4,7 +4,7 @@ Title: Champion du bouclier
 LastModified: 2020-05-17 11:23
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le [sujet de discussion](https://www.pathfinder-fr.org/Forum/posts/t13201-Cogneur-tyrannique<nowiki>--</nowiki>charge-du-cogneur)***</div>
 <nav class="wiki-toc"></nav>
 
@@ -34,18 +34,18 @@ LastModified: 2020-05-17 11:23
 
 **3.3.2 Dons**
 
-[Arme de prédilection](./Pathfinder-RPG-Arme-de-prédilection-ashx.md) : écu</br>
-[Arme de prédilection supérieure](./Pathfinder-RPG-Arme-de-prédilection-supérieure-ashx.md) : écu</br>
-[Spécialisation martiale](./Pathfinder-RPG-Spécialisation-martiale-ashx.md) : écu</br>
-[Spécialisation martiale supérieure](./Pathfinder-RPG-Spécialisation-martiale-supérieure-ashx.md) : écu</br>
-[Tir à bout portant](./Pathfinder-RPG-Tir-à-bout-portant-ashx.md)</br>
-[Tir de précision](./Pathfinder-RPG-Tir-de-précision-ashx.md)</br>
-[Tir rapide](./Pathfinder-RPG-Tir-rapide-ashx.md)</br>
-[Viser](./Pathfinder-RPG-Viser-ashx.md)</br>
-[Maîtrise du tir à bout portant](./Pathfinder-RPG-Maîtrise-du-tir-à-bout-portant-ashx.md)</br>
-[Attaque en puissance](./Pathfinder-RPG-Attaque-en-puissance-ashx.md)</br>
-[Enchaînement](./Pathfinder-RPG-Enchaînement-ashx.md)</br>
-[Enchaînement final](./Pathfinder-RPG-Enchaînement-final-ashx.md)</br>
+[[Pathfinder-RPG.Arme de prédilection.ashx|Arme de prédilection]] : écu</br>
+[[Pathfinder-RPG.Arme de prédilection supérieure.ashx|Arme de prédilection supérieure]] : écu</br>
+[[Pathfinder-RPG.Spécialisation martiale.ashx|Spécialisation martiale]] : écu</br>
+[[Pathfinder-RPG.Spécialisation martiale supérieure.ashx|Spécialisation martiale supérieure]] : écu</br>
+[[Pathfinder-RPG.Tir à bout portant.ashx|Tir à bout portant]]</br>
+[[Pathfinder-RPG.Tir de précision.ashx|Tir de précision]]</br>
+[[Pathfinder-RPG.Tir rapide.ashx|Tir rapide]]</br>
+[[Pathfinder-RPG.Viser.ashx|Viser]]</br>
+[[Pathfinder-RPG.Maîtrise du tir à bout portant.ashx|Maîtrise du tir à bout portant]]</br>
+[[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]</br>
+[[Pathfinder-RPG.Enchaînement.ashx|Enchaînement]]</br>
+[[Pathfinder-RPG.Enchaînement final.ashx|Enchaînement final]]</br>
 Esquive</br>
 École de la grue</br>
 Aile de la grue</br>
@@ -60,43 +60,43 @@ Riposte de la grue</br>
 |- CLASS="titre"
 | Niveau || Classe || BBA || Capacités de classe, dons
 |- CLASS="premier"
-| 01 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 1 || +1 || [Science du combat à mains nues](./Pathfinder-RPG-Science-du-combat-à-mains-nues-ashx.md), [science du coup de bouclier](./Pathfinder-RPG-Science-du-coup-de-bouclier-ashx.md)
+| 01 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 1 || +1 || [[Pathfinder-RPG.Science du combat à mains nues.ashx|Science du combat à mains nues]], [[Pathfinder-RPG.Science du coup de bouclier.ashx|science du coup de bouclier]]
 |-
-| 02 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 2 || +2 || [Don de combat supplémentaire](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md)
+| 02 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 2 || +2 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don de combat supplémentaire]]
 |-
-| 03 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 3 || +3 || [Don](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md)
+| 03 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 3 || +3 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]]
 |-
-| 04 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 4 || +4 || &nbsp;
+| 04 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 4 || +4 || &nbsp;
 |-
-| 05 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 5 || +5 || [Don](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md), [don de combat supplémentaire](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md)
+| 05 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 5 || +5 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]], [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|don de combat supplémentaire]]
 |-
-| 06 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 6 || +6 || &nbsp;
+| 06 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 6 || +6 || &nbsp;
 |-
-| 07 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 7 || +7 || [Don](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md)
+| 07 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 7 || +7 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]]
 |-
-| 08 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 8 || +8 || [Don de combat supplémentaire](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md)
+| 08 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 8 || +8 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don de combat supplémentaire]]
 |-
-| 09 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 9 || +9 || [Art du bouclier](./Pathfinder-RPG-Art-du-bouclier-ashx.md), [art du bouclier supérieur](./Pathfinder-RPG-Art-du-bouclier-supérieur-ashx.md)
+| 09 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 9 || +9 || [[Pathfinder-RPG.Art du bouclier.ashx|Art du bouclier]], [[Pathfinder-RPG.Art du bouclier supérieur.ashx|art du bouclier supérieur]]
 |-
-| 10 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 10 || +10 || &nbsp;
+| 10 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 10 || +10 || &nbsp;
 |-
-| 11 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 11 || +11 || [Combat à deux armes](./Pathfinder-RPG-Combat-à-deux-armes-ashx.md), [frappe du bouclier](./Pathfinder-RPG-Frappe-du-bouclier-ashx.md), [maîtrise du bouclier](./Pathfinder-RPG-Maîtrise-du-bouclier-ashx.md)
+| 11 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 11 || +11 || [[Pathfinder-RPG.Combat à deux armes.ashx|Combat à deux armes]], [[Pathfinder-RPG.Frappe du bouclier.ashx|frappe du bouclier]], [[Pathfinder-RPG.Maîtrise du bouclier.ashx|maîtrise du bouclier]]
 |-
-| 12 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 12 || +12 || &nbsp;
+| 12 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 12 || +12 || &nbsp;
 |-
-| 13 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 13 || +13 || [Don](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md)
+| 13 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 13 || +13 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]]
 |-
-| 14 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 14 || +14 || [Don de combat supplémentaire](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md)
+| 14 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 14 || +14 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don de combat supplémentaire]]
 |-
-| 15 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 15 || +15 || [Don](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md)
+| 15 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 15 || +15 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]]
 |-
-| 16 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 16 || +16 || &nbsp;
+| 16 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 16 || +16 || &nbsp;
 |-
-| 17 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 17 || +17 || [Don](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md), [don de combat supplémentaire](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md)
+| 17 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 17 || +17 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]], [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|don de combat supplémentaire]]
 |-
-| 18 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 18 || +18 || &nbsp;
+| 18 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 18 || +18 || &nbsp;
 |-
-| 19 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 19 || +19 || [Don](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md)
+| 19 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 19 || +19 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]]
 |-
-| 20 || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) 20 || +20 || [Don de combat supplémentaire](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md)
+| 20 || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) 20 || +20 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don de combat supplémentaire]]
 |}

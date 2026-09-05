@@ -8,10 +8,10 @@ Categories:
 - Ville
 ---
 
-La ville d'Osibu est située en plein centre de la jungle Hurlante, au [Mwangi](./Mwangi.md).
+La ville d'Osibu est située en plein centre de la jungle Hurlante, au [[Mwangi]].
 
-A l'instar de [Kibwe](./Kibwe.md), Osibu est une cité pacifique et sûre. Elle est protégée de la jungle environnante et de ses plantes carnivores par un anneau de statues appelé le Cercle des Femmes Deux-Fois Honorées.
+A l'instar de [[Kibwe]], Osibu est une cité pacifique et sûre. Elle est protégée de la jungle environnante et de ses plantes carnivores par un anneau de statues appelé le Cercle des Femmes Deux-Fois Honorées.
 
 Le gouvernement de la ville est démocratique et la vie de ses habitants est véritablement utopique. L'eau et les fruits sont abondants et les sages de la villes connaissent les secrets des herbes apaisantes et soignantes. La richesse de la ville est telle que ses rues sont littéralement pavées d'or.
 
-Osibu abrite aussi la plus vieille créature vivante de [Golarion](./Géographie.md), le trent Dimari-Diji, le Dernier Arbre de l'Ancien Monde. Il se souviendrait de l'arrivée de la pierre-étoile sur [Golarion](./Géographie.md) il y a environ dix-mille ans.
+Osibu abrite aussi la plus vieille créature vivante de [[Golarion.géographie|Golarion]], le trent Dimari-Diji, le Dernier Arbre de l'Ancien Monde. Il se souviendrait de l'arrivée de la pierre-étoile sur [[Golarion.géographie|Golarion]] il y a environ dix-mille ans.

@@ -7,11 +7,11 @@ LastModified: 2019-01-27 10:09
 {s:cs}
 *Votre eau bénite emporte les faux-semblants*
 
-**Conditions.** [Eaux sacrées](./Eaux sacrées.md), [BBA](./BBA.md) +9
+**Conditions.** [[Eaux sacrées]], [[BBA]] +9
 
-**Avantage.** L'eau bénite que vous créez par le biais de l'utilisation du don [Eaux sacrées](./Eaux sacrées.md) peut démasquer les métamorphes et ceux qui sont affectés par une magie déceptive. Toute créature qui subit des dégâts ou qui est à l'intérieur du rayon d'aspersion d'une eau bénite que vous avez créez et lancée est tenue de revenir à sa vraie forme.
+**Avantage.** L'eau bénite que vous créez par le biais de l'utilisation du don [[Eaux sacrées]] peut démasquer les métamorphes et ceux qui sont affectés par une magie déceptive. Toute créature qui subit des dégâts ou qui est à l'intérieur du rayon d'aspersion d'une eau bénite que vous avez créez et lancée est tenue de revenir à sa vraie forme.
 
-Cela affecte les êtres qui sont affectés par une magie de transmutation (comme *[modification d'apparence](./Modification dapparence.md)* ou *[état gazeux](./État gazeux.md)*, par les illusions déceptives (comme *[déguisement](./Déguisement.md)* ou *[invisibilité](./Invisibilité.md)* ou par des effets similaires (à la discrétion du MJ). Cette capacité peut même affecter les créatures utilisant des des facultés surnaturelles, tel que l'aptitude de changement de forme d'un vampire qui prend une forme gazeuse, bien que vous subissez un malus de -5 à votre tentative de dissiper de telles capacités.
+Cela affecte les êtres qui sont affectés par une magie de transmutation (comme *[[modification dapparence|modification d'apparence]]* ou *[[état gazeux]]*, par les illusions déceptives (comme *[[déguisement]]* ou *[[invisibilité]]* ou par des effets similaires (à la discrétion du MJ). Cette capacité peut même affecter les créatures utilisant des des facultés surnaturelles, tel que l'aptitude de changement de forme d'un vampire qui prend une forme gazeuse, bien que vous subissez un malus de -5 à votre tentative de dissiper de telles capacités.
 
 Une créature affectée est sujette à un sort de dissipation de la magie, ciblé uniquement sur de tels effets. Si la créature est affectée par une magie qui cible de multiples créatures, l'effet de dissipation n'affecte que la magie qui s'applique à cette créature (non au sort en son entier). Si la créature n'est pas affectée par un tel effet, l'eau bénite l'affecte normalement.
 

@@ -9,20 +9,20 @@ Categories:
 - Sort druide 7
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 7  
+**École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
 
-**Zone d'effet** tous les objets métalliques pris dans un [rayonnement](./rayonnement.md) de 12 m de rayon  
+**Zone d'effet** tous les objets métalliques pris dans un [[rayonnement]] de 12 m de rayon  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (objet) (voir description)
 
-Ce sort permet au lanceur de sorts de transformer en bois tout le métal présent dans la [zone d’effet](./zone deffet.md). Les armes, les armures et autres objets portés par les créatures présentes sont également affectés. Les objets magiques uniquement constitués de métal bénéficient d’une [résistance à la magie](./résistance à la magie.md) de 20 + [niveau de lanceur de sorts](./NLS.md) de leur créateur contre *transmutation du métal en bois*, tandis que les [artefacts](./Artefacts.md) ne peuvent pas être affectés. Une arme métallique transformée en bois entraîne un malus de -2 aux [jets d’attaque](./jet dattaque.md) et de dégâts, tandis qu’une armure perd 2 points de [CA](./CA.md). Les armes se cassent sur un [jet d’attaque](./jet dattaque.md) de 1 ou 2 (avant modifications) et les armures perdent 1 point de [CA](./CA.md) supplémentaire dès qu’on les touche sur un [jet d’attaque](./jet dattaque.md) de 19 ou 20 (avant modifications).
+Ce sort permet au lanceur de sorts de transformer en bois tout le métal présent dans la [[zone deffet|zone d’effet]]. Les armes, les armures et autres objets portés par les créatures présentes sont également affectés. Les objets magiques uniquement constitués de métal bénéficient d’une [[résistance à la magie]] de 20 + [[NLS|niveau de lanceur de sorts]] de leur créateur contre *transmutation du métal en bois*, tandis que les [[artefacts]] ne peuvent pas être affectés. Une arme métallique transformée en bois entraîne un malus de -2 aux [[jet dattaque|jets d’attaque]] et de dégâts, tandis qu’une armure perd 2 points de [[CA]]. Les armes se cassent sur un [[jet dattaque|jet d’attaque]] de 1 ou 2 (avant modifications) et les armures perdent 1 point de [[CA]] supplémentaire dès qu’on les touche sur un [[jet dattaque|jet d’attaque]] de 19 ou 20 (avant modifications).
 
-*[Miracle](./Miracle.md)*, *[souhait](./Souhait.md)*, *[souhait limité](./Souhait limité.md)* et des magies similaires sont les seuls sorts à pouvoir rendre aux objets leur composition normale.
+*[[Miracle]]*, *[[souhait]]*, *[[souhait limité]]* et des magies similaires sont les seuls sorts à pouvoir rendre aux objets leur composition normale.

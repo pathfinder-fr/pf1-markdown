@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Modificateurs de combat#COUPDEGRACE
 ---
 
->>> [Modificateurs de combat#COUPDEGRACE](./Modificateurs de combat.md#COUPDEGRACE)
+>>> [[Modificateurs de combat#COUPDEGRACE]]

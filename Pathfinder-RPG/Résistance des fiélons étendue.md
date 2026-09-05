@@ -6,7 +6,7 @@ LastModified: 2015-10-28 18:25
 
 *Le tieffelin gagne des résistances fiélones supplémentaires.*
 
-**Condition.** [Tieffelin](./Tieffelin (race).md).
+**Condition.** [[tieffelin (race)|Tieffelin]].
 
 **Avantage.** Le tieffelin choisit un type d’énergie contre lequel il n’a pas déjà de résistance parmi les suivants : acide, froid, électricité ou feu. Il gagne une résistance de 5 contre ce type d’énergie.
 

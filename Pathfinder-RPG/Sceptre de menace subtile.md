@@ -9,11 +9,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Sceptre de menace subtile|{s:MTT}}
-**Aura** [Enchantement](./Enchantement.md) et [Transmutation](./Transmutation.md) faibles ; **NLS** 5 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 12 305 po; **Poids** 2,5 kg
+**Aura** [[Enchantement]] et [[Transmutation]] faibles ; **NLS** 5 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 12 305 po; **Poids** 2,5 kg
 (((Description)))
 Ce grossier bâton d'acier noirci fonctionne comme une masse légère +1. Ceux qui peuvent voir le porteur du sceptre se sentent vaguement en danger. Cette aura inquiétante est faible, mais elle incite les autres à éviter d'irriter le porteur, même s'ils ne savent pas pourquoi.
 
-Lorsqu'il tient le sceptre dans sa main, son porteur peut tenter un test d'[Intimidation](./Intimidation.md) à la place d'un test de [Diplomatie](./Diplomatie.md) lorsqu'il tente de recueillir des informations et le sceptre est toujours considéré comme plus grand que sa cible pour les tests d'[Intimidation](./Intimidation.md).
+Lorsqu'il tient le sceptre dans sa main, son porteur peut tenter un test d'[[Intimidation]] à la place d'un test de [[Diplomatie]] lorsqu'il tente de recueillir des informations et le sceptre est toujours considéré comme plus grand que sa cible pour les tests d'[[Intimidation]].
 (((Création)))
-**Conditions** [Création d'armes et armures magiques](./Création darmes et armures magiques.md), [Création de sceptres magiques](./Création de sceptres magiques.md), *[Imprécation](./Imprécation.md)* ; **Coût** 6 152 po
+**Conditions** [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création de sceptres magiques]], *[[Imprécation]]* ; **Coût** 6 152 po
 </div>

@@ -8,12 +8,12 @@ Categories:
 - Don Combat
 ---
 
-{s:cm}**Cette option est plus courante chez les [géants du froid](./Géant du froid.md).**
+{s:cm}**Cette option est plus courante chez les [[Géant du froid|géants du froid]].**
 
 *Le personnage peut envoyer plusieurs adversaires à terre d’un seul coup de hache.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** [For](./For.md) 15, [Arme de prédilection](./Arme de prédilection.md) (grande hache), [Enchaînement](./Enchaînement.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [BBA](./BBA.md) +11
+**Condition.** [[For]] 15, [[Arme de prédilection]] (grande hache), [[Enchaînement]], [[Science du croc-en-jambe]], [[BBA]] +11
 
-**Avantage.** Quand le personnage effectue une [attaque à outrance](./attaque à outrance.md) avec une arme à deux mains, il peut renoncer à ses attaques normales pour effectuer une manœuvre offensive de [croc-en-jambe](./croc-en-jambe.md) contre tous les adversaires à portée avec son meilleur bonus d’attaque. Il doit faire un test par adversaire.
+**Avantage.** Quand le personnage effectue une [[attaque à outrance]] avec une arme à deux mains, il peut renoncer à ses attaques normales pour effectuer une manœuvre offensive de [[croc-en-jambe]] contre tous les adversaires à portée avec son meilleur bonus d’attaque. Il doit faire un test par adversaire.

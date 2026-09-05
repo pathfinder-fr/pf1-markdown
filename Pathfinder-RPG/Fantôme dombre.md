@@ -10,7 +10,7 @@ Categories:
 
 {s:mr}*Le fetchelin peut se déplacer plus souvent entre le plan de l’Ombre et le plan Matériel.*
 
-**Conditions.** [Fetchelin](./Fetchelin (race).md), pouvoir magique traversée des ombres
+**Conditions.** [[Fetchelin (race)|Fetchelin]], pouvoir magique traversée des ombres
 
 **Avantages.** Le fetchelin gagne la capacité à utiliser traversée des ombres une fois de plus par jour.
 

@@ -13,11 +13,11 @@ Categories:
 
 *Le personnage peut soigner plus que les blessures de la chair.*
 
-**Catégorie.** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+**Catégorie.** [[dons#MAITRISEDOBJET|maîtrise d’objet]]
 
-**Conditions.** 5 rangs en [Premiers secours](./Premiers secours.md), 5 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md), bonus de base de [Vigueur](./Vigueur.md) +3
+**Conditions.** 5 rangs en [[Premiers secours]], 5 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]], bonus de base de [[Vigueur]] +3
 
-**Avantages.** Le personnage peut faire en sorte de tirer d'un objet dont l’une des conditions de fabrication est un sort d'invocation (guérison) de niveau 2 ou supérieur le pouvoir de lancer un sort de *[restauration partielle](./Restauration partielle.md)*. S'il possède 9 rangs en [Premiers secours](./Premiers secours.md), en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) et que l’objet en question possède comme condition de fabrication un sort d'invocation (guérison) de niveau 3 ou supérieur, le personnage peut lancer soit *[guérison de la cécité/surdité](./Guérison de la cécitésurdité.md)*, soit *[délivrance de la paralysie](./Délivrance de la paralysie.md)*. Le personnage peut utiliser ce don une fois par jour et une fois supplémentaire lorsque son bonus de base de [Vigueur](./Vigueur.md) atteint +9 et +12.
+**Avantages.** Le personnage peut faire en sorte de tirer d'un objet dont l’une des conditions de fabrication est un sort d'invocation (guérison) de niveau 2 ou supérieur le pouvoir de lancer un sort de *[[restauration partielle]]*. S'il possède 9 rangs en [[Premiers secours]], en [[Utilisation dobjets magiques|Utilisation d'objets magiques]] et que l’objet en question possède comme condition de fabrication un sort d'invocation (guérison) de niveau 3 ou supérieur, le personnage peut lancer soit *[[guérison de la cécitésurdité|guérison de la cécité/surdité]]*, soit *[[délivrance de la paralysie]]*. Le personnage peut utiliser ce don une fois par jour et une fois supplémentaire lorsque son bonus de base de [[Vigueur]] atteint +9 et +12.
 
 (((Restoration Mastery (Item Mastery)
 

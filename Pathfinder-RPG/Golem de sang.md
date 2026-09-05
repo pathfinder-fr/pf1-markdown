@@ -14,36 +14,36 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 122*}
 - **2 400 PX**
-- [Créature artificielle](./type Créature artificielle.md) de taille M, N
+- [[type créature artificielle|Créature artificielle]] de taille M, N
 - **Init **+4 ; **Sens** vision aveugle à 18 m, vision dans le noir à 18 m, vision nocturne ; Perception +2
 (((Défense)))
 - **CA** 20, contact 14, pris au dépourvu 16 (Dex +4, naturelle +6)
 - **pv** 64 (8d10+20)
 - **Réf **+6, **Vig **+2, **Vol **+4
-- **Capacités défensives** créature informe ; **RD** 5/contondant ; **Immunité** [traits des créatures artificielles](./Traits des créatures artificielles.md), magie
-- **Faiblesse** vulnérabilité au [saignement](./Saignement (capacité).md)
+- **Capacités défensives** créature informe ; **RD** 5/contondant ; **Immunité** [[traits des créatures artificielles]], magie
+- **Faiblesse** vulnérabilité au [[Saignement (capacité)|saignement]]
 (((Attaque)))
 - **VD** 3 m
-- **Corps à corps** 2 coups, +10 (2d6+2 plus [saignement](./Saignement (capacité).md) et [étreinte](./Étreinte (capacité).md))
-- **Attaque spéciale** [saignement](./Saignement (capacité).md) (1d6), absorption de sang (1d2 Con), [constriction](./Constriction (capacité).md) (2d6+2 plus [saignement](./Saignement (capacité).md))
+- **Corps à corps** 2 coups, +10 (2d6+2 plus [[Saignement (capacité)|saignement]] et [[Étreinte (capacité)|étreinte]])
+- **Attaque spéciale** [[Saignement (capacité)|saignement]] (1d6), absorption de sang (1d2 Con), [[Constriction (capacité)|constriction]] (2d6+2 plus [[Saignement (capacité)|saignement]])
 (((Statistiques)))
 - **For** 14, **Dex** 19, **Con** —, **Int **—, **Sag** 14, **Cha** 1
 - **BBA **+8 ; **BMO **+10 (+14 pour la lutte) ; **DMD** 24
-- **Particularités** chair coagulée, [compression](./Compression (capacité).md)
+- **Particularités** chair coagulée, [[Compression (capacité)|compression]]
 (((Écologie)))
 - **Environnement** tous
 - **Organisation** solitaire ou groupe (2-4)
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
 - **Absorption de sang (Sur)**. Le golem de sang peut se soigner de 5 points de vie tous les rounds où il absorbe du sang.
-- **Chair coagulée (Ext)**. Le golem de sang peut coaguler sa surface pour obtenir une peau solide par une action complexe, ce qui lui permet de prendre une forme vaguement humanoïde. Avec cette peau, il gagne une RD 5/contondant, une armure naturelle de +6 et une vitesse de déplacement de 9 mètres mais il perd ses pouvoirs de créature informe et de [compression](./Compression (capacité).md). Il peut liquéfier sa chair par une action complexe, perdant sa RD et son armure naturelle, réduisant sa vitesse de déplacement à 3 mètres et regagnant ses pouvoirs de créature informe et de [compression](./Compression (capacité).md). Le golem maintient normalement sa chair coagulée, ne se liquéfiant que lorsqu’il doit traverser des obstacles susceptibles de gêner sa forme solide.
-- **Immunité à la magie (Ext)**. Le golem de sang est immunisé à tous les sorts et pouvoirs magiques autorisant une [résistance à la magie](./Résistance à la magie (capacité).md). En outre, certains sorts et effets fonctionnent différemment contre lui.
+- **Chair coagulée (Ext)**. Le golem de sang peut coaguler sa surface pour obtenir une peau solide par une action complexe, ce qui lui permet de prendre une forme vaguement humanoïde. Avec cette peau, il gagne une RD 5/contondant, une armure naturelle de +6 et une vitesse de déplacement de 9 mètres mais il perd ses pouvoirs de créature informe et de [[Compression (capacité)|compression]]. Il peut liquéfier sa chair par une action complexe, perdant sa RD et son armure naturelle, réduisant sa vitesse de déplacement à 3 mètres et regagnant ses pouvoirs de créature informe et de [[Compression (capacité)|compression]]. Le golem maintient normalement sa chair coagulée, ne se liquéfiant que lorsqu’il doit traverser des obstacles susceptibles de gêner sa forme solide.
+- **Immunité à la magie (Ext)**. Le golem de sang est immunisé à tous les sorts et pouvoirs magiques autorisant une [[Résistance à la magie (capacité)|résistance à la magie]]. En outre, certains sorts et effets fonctionnent différemment contre lui.
   - Les sorts de soins l’affectent comme s’il s’agissait d’une créature vivante mais ne soignent que le nombre minimal de dégâts.
-  - Les sorts et effets affectant spécifiquement le sang (comme *[sang bouillant](./Sang bouillant.md)*) l’affectent normalement.
-- **Vulnérabilité au saignement (Ext)**. Les effets de [saignement](./Saignement (capacité).md), l’absorption de sang et les attaques ciblant le sang des créatures affectent le golem de sang normalement. Il peut dépenser une action complexe pour renforcer sa coquille extérieure coagulée et mettre fin à un effet de [saignement](./Saignement (capacité).md).
+  - Les sorts et effets affectant spécifiquement le sang (comme *[[sang bouillant]]*) l’affectent normalement.
+- **Vulnérabilité au saignement (Ext)**. Les effets de [[Saignement (capacité)|saignement]], l’absorption de sang et les attaques ciblant le sang des créatures affectent le golem de sang normalement. Il peut dépenser une action complexe pour renforcer sa coquille extérieure coagulée et mettre fin à un effet de [[Saignement (capacité)|saignement]].
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [golems](./Golem.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Golem|golems]].***</li></ul>
 *Une montagne d’hémoglobine sous forme humanoïde ondule sous la couche de sang coagulé qui définit les contours de sa silhouette et maintient sa stabilité.*
 
 Le golem de sang est une masse d’hémoglobine vivante animée. Il peut ramper comme une vase quand il est sous forme liquide ou s’entourer d’une enveloppe de peau constituée de sang coagulé pour se déplacer debout, comme un humanoïde.
@@ -54,5 +54,5 @@ Le corps du golem de sang doit être fabriqué avec le sang frais d’environ 20
 
 
 **NLS** 7 ; **Prix** 22 500 po
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[animation des morts](./Animation des morts.md), [saignement](./Saignement.md), [soins intensifs](./Soins intensifs.md), [quête](./Quête.md)*, créateur NLS 12 ; **Compétences** [Artisanat](./Artisanat.md) (alchimie) DD 17 ; **Coût** 11 500 po.
+**Conditions** [[Création de créatures artificielles]], *[[animation des morts]], [[saignement]], [[soins intensifs]], [[quête]]*, créateur NLS 12 ; **Compétences** [[Artisanat]] (alchimie) DD 17 ; **Coût** 11 500 po.
 </div></td></tr></table>

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Cette bouteille en verre a une contenance d'environ un demi-litre. Elle est fermée par un bouchon de liège.

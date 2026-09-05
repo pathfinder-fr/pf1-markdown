@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Humanoïde|Collines|Tempéré}
 - *Source : Bestiaire 2* p.258
 - **PX** 800
-- [Humanoïde](./type Humanoïde.md) ([gnome](./sous-type gnome.md)) de taille P, CM
-- **Init** +4 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7
+- [[type Humanoïde|Humanoïde]] ([[sous-type gnome|gnome]]) de taille P, CM
+- **Init** +4 ; **Sens** [[vision nocturne]] ; [[Perception]] +7
 (((Défense)))
 - **CA** 17, contact 15, pris au dépourvu 13 (armure +2, Dex +4, taille +1)
 - **pv** 22 (4d8+4)
@@ -23,14 +23,14 @@ Categories:
 - **VD** 6 m (4 {s:c})
 - **Corps à corps** morgenstern de maître, +5 (1d6–1)
 - **Distance** arbalète légère, +8 (1d6/19–20)
-- **Attaques spéciales** [attaque sournoise](./attaque sournoise.md) +2d6
+- **Attaques spéciales** [[attaque sournoise]] +2d6
 - **Pouvoirs magiques** (NLS 4 ; concentration +4)
-  - À volonté — *[effroi](./Effroi.md)* (DD 12), *[fracassement](./Fracassement.md)* (DD 12), *[illumination](./Illumination.md)* (DD 10)
+  - À volonté — *[[effroi]]* (DD 12), *[[fracassement]]* (DD 12), *[[illumination]]* (DD 10)
 (((Statistiques)))
 - **For** 9, **Dex** 19, **Con** 12, **Int** 10, **Sag** 10, **Cha** 9
 - **BBA** +3 ; **BMO** +1 ; **DMD** 15
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (morgenstern), [Attaques réflexes](./Attaques réflexes.md)
-- **Compétences** [Discrétion](./Discrétion.md) +15, [Escalade](./Escalade.md) +1, [Escamotage](./Escamotage.md) +11, [Perception](./Perception.md) +7, [Sabotage](./Sabotage.md) +11 ; **Modificateurs raciaux** +2 en [Discrétion](./Discrétion.md), +2 en [Escalade](./Escalade.md), +2 en [Escamotage](./Escamotage.md), +2 en [Perception](./Perception.md), +2 en [Sabotage](./Sabotage.md)
+- **Dons** [[Arme de prédilection]] (morgenstern), [[Attaques réflexes]]
+- **Compétences** [[Discrétion]] +15, [[Escalade]] +1, [[Escamotage]] +11, [[Perception]] +7, [[Sabotage]] +11 ; **Modificateurs raciaux** +2 en [[Discrétion]], +2 en [[Escalade]], +2 en [[Escamotage]], +2 en [[Perception]], +2 en [[Sabotage]]
 - **Langues** aklo, gnome
 - **Particularités** changement de taille, compétences des spriggans, magie des spriggans
 (((Écologie)))
@@ -39,7 +39,7 @@ Categories:
 - **Trésor** équipement de PNJ (armure de cuir, morgenstern de maître, arbalète légère avec 10 carreaux, autres trésors)
 (((Pouvoirs spéciaux)))
   - **Changement de taille (Sur)**. Par une action simple utilisable à volonté, un spriggan peut changer sa taille, de P à G et vice-versa. Les armes, l’armure et les autres objets portés changent de taille en même temps que lui (les objets lâchés reviennent à leur taille normale au bout d’un round). Lorsqu’un spriggan devient Grand, sa vitesse s’accroît à 9 mètres, il gagne +12 en Force, –2 en Dextérité et +6 en Constitution et subit un malus de taille de –2 à sa CA. Un spriggan de taille G ne peut pas utiliser son attaque sournoise ni ses pouvoirs magiques raciaux (mais s’il a accès à ces capacités grâce à des niveaux de classe, il peut les utiliser quelle que soit sa taille).
-  - **Compétences des spriggans (Ext)**. [Discrétion](./Discrétion.md), [Escalade](./Escalade.md), [Escamotage](./Escamotage.md), [Perception](./Perception.md) et [Sabotage](./Sabotage.md) sont des compétences de classe pour les spriggans.
+  - **Compétences des spriggans (Ext)**. [[Discrétion]], [[Escalade]], [[Escamotage]], [[Perception]] et [[Sabotage]] sont des compétences de classe pour les spriggans.
   - **Magie des spriggans (Ext)**. Un spriggan gagne un bonus racial de +1 aux tests de concentration et au DD des jets de sauvegarde contre ses pouvoirs magiques.
 
 </div>
@@ -48,8 +48,8 @@ Categories:
 {s:Reference|TAILLEG}{s:BDTitre|Spriggan (taille G)|FP 3}
 - *Source : Bestiaire 2* p.258
 - **PX** 800
-- **[Humanoïde](./type Humanoïde.md)** ([gnome](./sous-type gnome.md)) de taille G, CM
-- **Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7
+- **[[type Humanoïde|Humanoïde]]** ([[sous-type gnome|gnome]]) de taille G, CM
+- **Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +7
 (((Défense)))
 - **CA** 14, contact 12, pris au dépourvu 11 (armure +2, Dex +3, taille -1)
 - **pv** 34 (4d8+16)
@@ -62,7 +62,7 @@ Categories:
 (((Statistiques)))
 - **For** 21, **Dex** 17, **Con** 18, **Int** 10, **Sag** 10, **Cha** 9
 - **BBA** +3 ; **BMO** +9 ; **DMD** 22
-- **Compétences** [Discrétion](./Discrétion.md) +6, [Escalade](./Escalade.md) +7, [Escamotage](./Escamotage.md) +10, [Perception](./Perception.md) +7, [Sabotage](./Sabotage.md) +10
+- **Compétences** [[Discrétion]] +6, [[Escalade]] +7, [[Escamotage]] +10, [[Perception]] +7, [[Sabotage]] +10
 </div></td>
 
 <td><div>*Des gouttes de salive tombent des commissures de la bouche de cet humanoïde crasseux et nauséabond. Ses grandes oreilles pointues s’agitent au moindre bruit.*

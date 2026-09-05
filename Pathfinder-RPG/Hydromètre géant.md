@@ -10,7 +10,7 @@ LastModified: 2020-09-20 00:19
 {s:pucem|Vermine|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 147*}
 - **400 PX**
-- [Vermine](./type Vermine.md) de taille G, N
+- [[type vermine|Vermine]] de taille G, N
 - **Init **+1 ; **Sens** vision dans le noir 18 m, perception des vibrations 18 m ; Perception +4
 (((Défense)))
 - **CA** 12, contact 10, pris au dépourvu 11 (Dex +1, naturelle +2, taille -1)
@@ -24,7 +24,7 @@ LastModified: 2020-09-20 00:19
 (((Statistiques)))
 - **For** 13, **Dex** 13, **Con** 14, **Int** -, **Sag** 10, **Cha** 2
 - **BBA **+2 ; **BMO **+4 ; **DMD** 16 (24 contre le croc-en-jambe)
-- **Compétences** [Natation](./Natation.md) +5, [Perception](./Perception.md) +4, [Vol](./Vol.md) -5 ; **Modificateurs raciaux** +4 en Perception, +4 en Natation
+- **Compétences** [[Natation]] +5, [[Perception]] +4, [[Vol]] -5 ; **Modificateurs raciaux** +4 en Perception, +4 en Natation
 - **Particularités** marche sur l’eau
 (((Écologie)))
 - **Environnement** étendues d’eau
@@ -41,9 +41,9 @@ LastModified: 2020-09-20 00:19
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Hydromètre géant](./Hydromètre géant.md) || 1
+| [[Hydromètre géant]] || 1
 |-
-| [Nymphe d'hydromètre](./Nymphe dhydromètre.md) || 1/4
+| [[Nymphe dhydromètre|Nymphe d'hydromètre]] || 1/4
 |}
 </div>*Cet insecte est doté de longues pattes duveteuses qui lui permettent de marcher sur l’eau tout aussi facilement que sur la terre ferme.*
 

@@ -15,18 +15,18 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [Invocation](./Invocation.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 2, [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 3, [San](./Sanguin.md) 2 </br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, G, F](./composantes.md) (1 bout de métal qui vient d’un bouclier)</br>
+{s:UC}**École** [[Invocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 3, [[Sanguin|San]] 2 </br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[Composantes|V, G, F]] (1 bout de métal qui vient d’un bouclier)</br>
 **Portée** contact</br>
 **Cible** créature touchée</br>
-**Durée** 1 heure/[niveau](./niveau.md) ou jusqu’à déchargement</br>
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** non
+**Durée** 1 heure/[[niveau]] ou jusqu’à déchargement</br>
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** non
 
-La cible est entourée de couches de force qui la protègent et lui donnent un bonus d'armure de +2 à la [CA](./CA.md). De plus, la barrière convertit les 5 premiers points de dégâts létaux en [dégâts non létaux](./Dégâts non létaux.md).
+La cible est entourée de couches de force qui la protègent et lui donnent un bonus d'armure de +2 à la [[CA]]. De plus, la barrière convertit les 5 premiers points de dégâts létaux en [[dégâts non létaux]].
 
-Si les attaques infligent déjà des dégâts non létaux, la cible gagne une [RD](./RD.md) 5/–. Le sort est épuisé une fois qu’il a converti 5 points de dégâts en dégâts non létaux par [niveau de lanceur de sorts](./NLS.md) (50 points au maximum).
+Si les attaques infligent déjà des dégâts non létaux, la cible gagne une [[RD]] 5/–. Le sort est épuisé une fois qu’il a converti 5 points de dégâts en dégâts non létaux par [[NLS|niveau de lanceur de sorts]] (50 points au maximum).
 
 ### Mythique
 {s:CMy}
-Ajoutez la moitié du [grade](./Grade.md) du personnage au bonus d’armure conféré par le sort. Ajoutez la moitié du [grade](./Grade.md) personnage au montant de dégâts létaux convertis en dégâts non-létaux par attaque, ainsi qu’à la RD contre les dégâts non-létaux. Ajoutez la moitié du [grade](./Grade.md) du personnage à son [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) lorsqu’il détermine le montant de dégâts que le sort convertit avant épuisement.
+Ajoutez la moitié du [[grade]] du personnage au bonus d’armure conféré par le sort. Ajoutez la moitié du [[grade]] personnage au montant de dégâts létaux convertis en dégâts non-létaux par attaque, ainsi qu’à la RD contre les dégâts non-létaux. Ajoutez la moitié du [[grade]] du personnage à son [[niveau de lanceur de sorts]] lorsqu’il détermine le montant de dégâts que le sort convertit avant épuisement.

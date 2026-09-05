@@ -14,32 +14,32 @@ Categories:
 {s:pucem|Vase|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p. 135*}
 {s:BDTexte|**PX** 1 600 px}
-{s:BDTexte|[Vase](./type Vase.md) ([aquatique](./sous-type aquatique.md)) de taille G, N}
-{s:BDTexte|**Init** -5 ; **Sens** [Perception](./Perception.md) -5}
-{s:BDTexte|**Aura** [puanteur](./Puanteur (capacité).md) ([DD](./DD.md) 18, 10 [rounds](./round.md)}
+{s:BDTexte|[[type Vase|Vase]] ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDTexte|**Init** -5 ; **Sens** [[Perception]] -5}
+{s:BDTexte|**Aura** [[puanteur (capacité)|puanteur]] ([[DD]] 18, 10 [[round|rounds]]}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 4, pris au dépourvu 16 (Dex -5, naturelle +12, taille -1)}
 {s:BDTexte|**pv** 57 (6d8+30)}
 {s:BDTexte|**Réf** -3, **Vig** +7, **Vol** -3}
-{s:BDTexte|**'Immunité** acide, dégâts contondants et perforants, [traits des vases](./type Vase.md) ; **Résistance** électricité 10, froid 10}
+{s:BDTexte|**'Immunité** acide, dégâts contondants et perforants, [[type vase|traits des vases]] ; **Résistance** électricité 10, froid 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), nage 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** coup, +9 (2d6+9 plus [étreinte](./Étreinte (capacité).md) et nausées)}
+{s:BDTexte|**Corps à corps** coup, +9 (2d6+9 plus [[étreinte (capacité)|étreinte]] et nausées)}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./Constriction (capacité).md) (2d6+9), création de rejetons}
+{s:BDTexte|**Attaques spéciales** [[constriction (capacité)|constriction]] (2d6+9), création de rejetons}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 1, **Con** 20, **Int** -, **Sag** 1, **Cha** 1}
-{s:BDTexte|**BBA** +4, **BMO** +11 (+15 [lutte](./lutte.md)), **DMD** 16 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +14}
+{s:BDTexte|**BBA** +4, **BMO** +11 (+15 [[lutte]]), **DMD** 16 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Compétences** [[Natation]] +14}
 {s:BDTexte|**Particularités** besoin d’eau, décomposition}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** littoraux et océans}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou échouage (3-8)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Création de rejetons (Ext).** Lorsqu’un globster dévore une créature vivante, il ne digère qu’une petite partie des restes. Les vestiges non-digérés s’accumulant à l’intérieur du globster, celui-ci gonfle de plus en plus. Par une [action complexe](./Action complexe.md) qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md), le globster peut régurgiter ces restes fétides avec une partie de sa propre masse : cela lui inflige 1d6 points de dégâts mais génère un nouveau globster adulte qui attaque aussitôt la cible non-globster la plus proche. Le globster peut créer des rejetons une fois par jour, mais seulement après s’être nourri d’au moins quatre créatures de taille M (ou d’un nombre équivalent de créatures d’autres tailles).}
-{s:BDTexte|**Décomposition (Ext).** Lorsque le globster est tué, son corps se décompose en une masse visqueuse en l’espace de 24 heures. Néanmoins, son cadavre ne perd rien de son [aura de puanteur](./Puanteur (capacité).md) qui persiste 1d10 jours après sa mort.}
-{s:BDTexte|**Nausées (Ext).** Toutes les créatures touchées par un globster doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 18 pour éviter d’être [nauséeuses](./Nauséeux.md) pendant 1 [round](./round.md). Une fois que la créature a réussi son jet, elle est immunisée contre les autres effets de nausées de ce globster pour une durée de 24 heures. Il s’agit d’un effet de poison. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Création de rejetons (Ext).** Lorsqu’un globster dévore une créature vivante, il ne digère qu’une petite partie des restes. Les vestiges non-digérés s’accumulant à l’intérieur du globster, celui-ci gonfle de plus en plus. Par une [[action complexe]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]], le globster peut régurgiter ces restes fétides avec une partie de sa propre masse : cela lui inflige 1d6 points de dégâts mais génère un nouveau globster adulte qui attaque aussitôt la cible non-globster la plus proche. Le globster peut créer des rejetons une fois par jour, mais seulement après s’être nourri d’au moins quatre créatures de taille M (ou d’un nombre équivalent de créatures d’autres tailles).}
+{s:BDTexte|**Décomposition (Ext).** Lorsque le globster est tué, son corps se décompose en une masse visqueuse en l’espace de 24 heures. Néanmoins, son cadavre ne perd rien de son [[puanteur (capacité)|aura de puanteur]] qui persiste 1d10 jours après sa mort.}
+{s:BDTexte|**Nausées (Ext).** Toutes les créatures touchées par un globster doivent réussir un jet de [[Vigueur]] [[DD]] 18 pour éviter d’être [[nauséeux|nauséeuses]] pendant 1 [[round]]. Une fois que la créature a réussi son jet, elle est immunisée contre les autres effets de nausées de ce globster pour une durée de 24 heures. Il s’agit d’un effet de poison. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 
 </div>
 </td><td><div>

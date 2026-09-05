@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEEXPLOSIVE
 ---
 
->>> [découvertes#BOMBEEXPLOSIVE](./découvertes.md#BOMBEEXPLOSIVE)
+>>> [[découvertes#BOMBEEXPLOSIVE]]

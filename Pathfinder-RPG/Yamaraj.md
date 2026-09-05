@@ -10,7 +10,7 @@ LastModified: 2021-07-15 17:29
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 216*}
 - **307 200 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [psychopompe](./sous-type psychopompe.md)) de taille TG, N 
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type psychopompe|psychopompe]]) de taille TG, N 
 - **Init** +16 ; **Sens **vision dans le noir à 18 m, détection des pensées, vision nocturne, perception spirituelle, vision lucide ; Perception +37
 - **Aura **de terreur (9 m, DD 32)
 (((Défense)))
@@ -28,15 +28,15 @@ LastModified: 2021-07-15 17:29
 - **Espace **4,50 m ; Allonge 4,50 m
 - **Attaques spéciales** arme de souffle (cône de 18 m, 20d6 froid, Réflexes DD 30 ½ dégâts, utilisable tous les 1d4 rounds ; ou scarabées), poison 
 - **Pouvoirs magiques** (**NLS **20 ; concentration +30)
-  - *Constant* – *[armure de mage](./Armure de mage.md)*, *[détection de pensées](./Détection de pensées.md)* (DD 22), *[vision lucide](./Vision lucide.md)*
-  - *À volonté* – *[dissipation suprême](./Dissipation suprême.md)*, *[don des langues](./Don des langues.md)*, *[partage de la langue](./Partage de la langue.md)*, *[réincarnation](./Réincarnation.md)*, *[repos éternel](./Repos éternel.md)*, *[scrutation](./scrutation.md)*, *[télékinésie](./Télékinésie.md)* (DD 25), *[téléportation suprême](./Téléportation suprême.md)* (lui plus 25 kg d’objets seulement)
-  - *3/jour* – *[annihilation de mort-vivant](./Annihilation de mort-vivant.md)* (DD 26), *[cage de force](./Cage de force.md)* (DD 27), *[cercle de mort](./Cercle de mort.md)* (DD 26), *[éclair](./Éclair.md)* à [incantation rapide](./Incantation rapide.md) (DD 23), *[miracle](./Miracle.md)* (DD 29) (voir dernier jugement)
-- *1/jour* – *[capture d’âme](./Capture dâme.md)*, [convocation](./Convocation (capacité).md) (niveau 9, un psychopompe de FP 19 ou moins 100%), *[plainte d’outre-tombe](./Plainte doutre-tombe.md)* (DD 29)
+  - *Constant* – *[[armure de mage]]*, *[[détection de pensées]]* (DD 22), *[[vision lucide]]*
+  - *À volonté* – *[[dissipation suprême]]*, *[[don des langues]]*, *[[partage de la langue]]*, *[[réincarnation]]*, *[[repos éternel]]*, *[[scrutation]]*, *[[télékinésie]]* (DD 25), *[[téléportation suprême]]* (lui plus 25 kg d’objets seulement)
+  - *3/jour* – *[[annihilation de mort-vivant]]* (DD 26), *[[cage de force]]* (DD 27), *[[cercle de mort]]* (DD 26), *[[éclair]]* à [[incantation rapide]] (DD 23), *[[miracle]]* (DD 29) (voir dernier jugement)
+- *1/jour* – *[[capture dâme|capture d’âme]]*, [[Convocation (capacité)|convocation]] (niveau 9, un psychopompe de FP 19 ou moins 100%), *[[plainte doutre-tombe|plainte d’outre-tombe]]* (DD 29)
 (((Statistiques)))
 - **For **28, **Dex **35, **Con **27, **Int **24, **Sag **28, **Cha **31
 - **BBA **+25 ; **BMO **+36 (+38 en bousculade, +40 en lutte) ; **DMD **59 (61 contre la bousculade, 63 contre le croc-en-jambe)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Attaques réflexes](./Attaques réflexes.md), [Comme le vent](./Comme le vent.md), [Efficacité des sorts accrue](./Efficacité des sorts accrue.md), [Esquive](./Esquive.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (éclair), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (morsure), [Souplesse du serpent](./Souplesse du serpent.md), [Vol stationnaire](./Vol stationnaire.md), [Volonté de fer](./Volonté de fer.md) 
-- **Compétences **[Acrobaties](./Acrobaties.md) +37 (+41 pour sauter), [Art de la magie](./Art de la magie.md) +32, [Bluff](./Bluff.md) +38, [Connaissances](./Connaissances.md) (mystères) +32, [Connaissances](./Connaissances.md) (plans) +35, [Connaissances](./Connaissances.md) (religion) +32, [Diplomatie](./Diplomatie.md) +35, [Discrétion](./Discrétion.md) +32, [Intimidation](./Intimidation.md) +35, [Natation](./Natation.md) +42 , [Perception](./Perception.md) +37, [Psychologie](./Psychologie.md) +37, [Vol](./Vol.md) +40 ; Modificateurs raciaux +4 en Acrobaties pour sauter 
+- **Dons **[[Attaque en puissance]], [[Attaques multiples]], [[Attaques réflexes]], [[Comme le vent]], [[Efficacité des sorts accrue]], [[Esquive]], [[Pouvoir magique rapide]] (éclair), [[Science de linitiative|Science de l’initiative]], [[Science de la bousculade]], [[Science du critique]] (morsure), [[Souplesse du serpent]], [[Vol stationnaire]], [[Volonté de fer]] 
+- **Compétences **[[Acrobaties]] +37 (+41 pour sauter), [[Art de la magie]] +32, [[Bluff]] +38, [[Connaissances]] (mystères) +32, [[Connaissances]] (plans) +35, [[Connaissances]] (religion) +32, [[Diplomatie]] +35, [[Discrétion]] +32, [[Intimidation]] +35, [[Natation]] +42 , [[Perception]] +37, [[Psychologie]] +37, [[Vol]] +40 ; Modificateurs raciaux +4 en Acrobaties pour sauter 
 - **Langues **abyssal, aklo, céleste, commun, draconique, infernal
 - **Particularités **contact spectral, dernier jugement
 (((Écologie)))
@@ -50,7 +50,7 @@ LastModified: 2021-07-15 17:29
 - **Poison (Ext).** Morsure – blessure ; JdS Vigueur DD 30 ; fréquence 1/round pendant 6 rounds ; effet diminution permanente de 1d4 Dex ; guérison 3 réussites consécutives.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [psychopompes](./../Golarion/Psychopompes.md).***</li></ul>*La tête de cet animal draconique ailé est couronnée d’une crinière de longs piquants. Des plumes noires comme la suie couvrent son corps.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Psychopompes]].***</li></ul>*La tête de cet animal draconique ailé est couronnée d’une crinière de longs piquants. Des plumes noires comme la suie couvrent son corps.*
 
 Tout aussi royaux que terrifiants aux yeux des mortels, les yamarajs président en tant que juges de la mort et dispensateurs de la justice finale. Les superstitions des vivants utilisent de nombreux termes pour les désigner : les juges ultimes, les magistrats des tombes, les dragons qui dévorent les âmes des hommes. Mais toutes s’accordent sur le fait que ces nobles de la mort dessèchent même les coeurs les plus vaillants. Les magistrats des tombes survolent le Purgatoire avec autorité, règnent sur plusieurs volées de psychopompes inférieurs, tolèrent les chamailleries des diables et des démons s’arrachant les âmes singulières et règlent le cas d’une interminable procession de candidats. Nombre d’entre eux sont des diplomates ou des commandants militaires chargés de maintenir la neutralité du Purgatoire, mais toutes ces responsabilités sont secondaires à côté du maintien du f lot des âmes et de l’équilibre du multivers. En théorie, tous les yamarajs servent les dieux de la mort mais, en pratique, les membres qui composent leur cour ne remettent jamais leur parole en question.
 

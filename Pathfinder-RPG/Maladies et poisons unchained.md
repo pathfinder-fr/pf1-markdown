@@ -20,9 +20,9 @@ Normalement, neutralisation du poison et guérison des maladies ramènent imméd
 Certaines maladies et certains poisons provoquent les mêmes effets qu’un état préjudiciable (comme fiévreux) ou paralysent leur victime. Les effets qui modifient ou annulent ces états préjudiciables (comme les immunités) ne s’appliquent pas, les effets et immunités protégeant contre les maladies ou les poisons sont les seuls à fonctionner.
 
 ### Les maladies
-L’échelle d’une maladie simule son évolution en commençant par sa période d’incubation. Ignorez la section [incubation](./Afflictions.md) du profil de la maladie, la victime commence ses jets de sauvegarde à un rythme basé sur la fréquence de l’affliction. Pour une maladie qui ne comporte pas de section guérison, si le MJ le désire, son évolution peut s’avérer irréversible à moins d’un sort de guérison suprême, la réussite d’une guérison des maladies ne faisant qu’empêcher l’état du malade de se détériorer plus avant.
+L’échelle d’une maladie simule son évolution en commençant par sa période d’incubation. Ignorez la section [[Afflictions|incubation]] du profil de la maladie, la victime commence ses jets de sauvegarde à un rythme basé sur la fréquence de l’affliction. Pour une maladie qui ne comporte pas de section guérison, si le MJ le désire, son évolution peut s’avérer irréversible à moins d’un sort de guérison suprême, la réussite d’une guérison des maladies ne faisant qu’empêcher l’état du malade de se détériorer plus avant.
 
-Il y a deux échelles d’évolution : une pour les maladies affectant les caractéristiques physiques (comme la [peste bubonique](./Maladies et poisons unchained.md#Peste bubonique) ou la [mort vaseuse](./Maladies et poisons unchained.md#Mort vaseuse)) et une pour celles affectant les caractéristiques mentales (comme la [fièvre gloussante](./Maladies et poisons unchained.md#Fièvre gloussante) et la [bouille-crâne](./Maladies et poisons unchained.md#Bouille-crâne)). Voir [quelques exemples de maladies](./Maladies et poisons unchained.md#EXMALADIES).
+Il y a deux échelles d’évolution : une pour les maladies affectant les caractéristiques physiques (comme la [[Maladies et poisons unchained#Peste bubonique|peste bubonique]] ou la [[Maladies et poisons unchained#Mort vaseuse|mort vaseuse]]) et une pour celles affectant les caractéristiques mentales (comme la [[Maladies et poisons unchained#Fièvre gloussante|fièvre gloussante]] et la [[Maladies et poisons unchained#Bouille-crâne|bouille-crâne]]). Voir [[Maladies et poisons unchained#EXMALADIES|quelques exemples de maladies]].
 
 <table width="100%"><tr><td width="49%">
 {s:Reference|PHYSIQUE}
@@ -30,13 +30,13 @@ Il y a deux échelles d’évolution : une pour les maladies affectant les carac
 **En bonne santé → latent/porteur → affaibli → amoindri → hors de combat → grabataire → comateux → mort**
 - **Latent/porteur.** Un personnage à ce stade de la maladie est porteur et peut la transmettre si elle est contagieuse mais ne souffre pas d’effets néfastes.
 
-- **Affaibli.** Un personnage affaibli par une maladie physique subit les états préjudiciables [fiévreux](./Fiévreux.md) et [fatigué](./Fatigué.md).
+- **Affaibli.** Un personnage affaibli par une maladie physique subit les états préjudiciables [[fiévreux]] et [[fatigué]].
 
-- **Amoindri.** Un personnage amoindri par une maladie physique souffre en plus de l’état préjudiciable [épuisé](./Épuisé.md). Quand il effectue une [action simple](./Action simple.md), il doit réussir un jet de [Vigueur](./Vigueur.md) contre le [DD](./DD.md) de la maladie, sinon, il perd son action et il est [nauséeux](./Nauséeux.md) pendant 1 minute.
+- **Amoindri.** Un personnage amoindri par une maladie physique souffre en plus de l’état préjudiciable [[épuisé]]. Quand il effectue une [[action simple]], il doit réussir un jet de [[Vigueur]] contre le [[DD]] de la maladie, sinon, il perd son action et il est [[nauséeux]] pendant 1 minute.
 
-- **Hors de combat.** Un personnage mis hors de combat par une maladie physique est soumis à l’état préjudiciable [du même nom](./Hors de combat.md). S’il effectue une [action simple](./Action simple.md), il perd un point de vie ou il est réduit à –1 pv (il se produit le pire).
+- **Hors de combat.** Un personnage mis hors de combat par une maladie physique est soumis à l’état préjudiciable [[hors de combat|du même nom]]. S’il effectue une [[action simple]], il perd un point de vie ou il est réduit à –1 pv (il se produit le pire).
 
-- **Grabataire.** Un personnage rendu grabataire par une maladie physique est conscient et en état de parler mais il est incapable de se lever sans aide ou d’entreprendre une [action simple](./Action simple.md) ou [de mouvement](./Action de mouvement.md).
+- **Grabataire.** Un personnage rendu grabataire par une maladie physique est conscient et en état de parler mais il est incapable de se lever sans aide ou d’entreprendre une [[action simple]] ou [[action de mouvement|de mouvement]].
 
 - **Comateux.** Un personnage plongé dans le coma suite à une maladie physique est inconscient et brûlant de fièvre. Il est impossible de le réveiller tant qu’il est à ce stade de l’évolution de la maladie.
 
@@ -48,9 +48,9 @@ Il y a deux échelles d’évolution : une pour les maladies affectant les carac
 **En bonne santé → latent/porteur → affaibli → amoindri → perturbé → dérangé → comateux → mort**
 - **Latent/porteur.** Un personnage à ce stade de la maladie est porteur et peut la transmettre si elle est contagieuse mais ne souffre pas d’effets néfastes.
 
-- **Affaibli.** Un personnage affaibli par une maladie mentale subit les effets de l’état préjudiciable [secoué](./Secoué.md). Le [DD](./DD.md) de ses sorts et pouvoirs magiques diminue de 2. Si le malade est un lanceur de sorts, il ne peut plus lancer les sorts du plus haut niveau qu’il connaît.
+- **Affaibli.** Un personnage affaibli par une maladie mentale subit les effets de l’état préjudiciable [[secoué]]. Le [[DD]] de ses sorts et pouvoirs magiques diminue de 2. Si le malade est un lanceur de sorts, il ne peut plus lancer les sorts du plus haut niveau qu’il connaît.
 
-- **Amoindri.** Un personnage amoindri par une maladie mentale n’ajoute plus ses modificateurs de caractéristiques mentales au nombre d’utilisations quotidiennes de ses réserves (comme une [réserve arcanique](./Arcaniste.md#RESERVEARCANIQUE) ou [de ki](./Moine.md#RESERVEDEKI)), de ses aptitudes (comme la [canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) et l’[imposition des mains](./Paladin.md#IMPOSITIONDESMAINS)) et pour déterminer ses sorts supplémentaires par jour. Ses [DD](./DD.md) diminuent encore de 2. S’il est lanceur de sorts, il ne peut plus lancer les sorts des deux plus hauts niveaux qu’il connaît.
+- **Amoindri.** Un personnage amoindri par une maladie mentale n’ajoute plus ses modificateurs de caractéristiques mentales au nombre d’utilisations quotidiennes de ses réserves (comme une [[Arcaniste#RESERVEARCANIQUE|réserve arcanique]] ou [[Moine#RESERVEDEKI|de ki]]), de ses aptitudes (comme la [[Prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] et l’[[Paladin#IMPOSITIONDESMAINS|imposition des mains]]) et pour déterminer ses sorts supplémentaires par jour. Ses [[DD]] diminuent encore de 2. S’il est lanceur de sorts, il ne peut plus lancer les sorts des deux plus hauts niveaux qu’il connaît.
 
 - **Perturbé.** Un personnage perturbé par une maladie mentale a du mal à réfléchir et perd le sens des réalités et la notion de soi. Chaque round, il a 50% de chances de ne rien faire d’utile et de renoncer à ses actions pour bredouiller, errer ou parler à des choses qui n’existent pas.
 
@@ -62,19 +62,19 @@ Il y a deux échelles d’évolution : une pour les maladies affectant les carac
 
 </td></tr></table>
 ### Les poisons
-L’échelle du poison simule son effet progressif sur l’organisme. Un personnage empoisonné effectue le jet de sauvegarde indiqué après le délai indiqué à la fréquence indiquée. Lors de l’exposition initiale au poison, que la victime réussisse son jet de sauvegarde ou non, elle subit des dégâts de poison d’un montant égal au [DD](./DD.md) du poison –10 divisé par deux (par exemple, 5 points de dégâts de poison pour un poison [DD](./DD.md) 20). Ce sont des points de dégâts, pas un [affaiblissement de caractéristique](./affaiblissement temporaire.md). Si la victime est exposée à de nouvelles doses du même poison et qu’elle rate son jet de sauvegarde, l’empoisonnement progresse d’un cran sur son échelle et sa durée augmente de 50% mais le DD n’augmente pas.
+L’échelle du poison simule son effet progressif sur l’organisme. Un personnage empoisonné effectue le jet de sauvegarde indiqué après le délai indiqué à la fréquence indiquée. Lors de l’exposition initiale au poison, que la victime réussisse son jet de sauvegarde ou non, elle subit des dégâts de poison d’un montant égal au [[DD]] du poison –10 divisé par deux (par exemple, 5 points de dégâts de poison pour un poison [[DD]] 20). Ce sont des points de dégâts, pas un [[affaiblissement temporaire|affaiblissement de caractéristique]]. Si la victime est exposée à de nouvelles doses du même poison et qu’elle rate son jet de sauvegarde, l’empoisonnement progresse d’un cran sur son échelle et sa durée augmente de 50% mais le DD n’augmente pas.
 
 <table width="100%"><tr><td width="49%">
 {s:Reference|FORCE}
 #### Échelle d’évolution des poisons de Force
 **En bonne santé → affaibli → amoindri → chancelant → immobile → mort**
-- **Affaibli.** Un personnage affaibli par un poison s’attaquant à la Force souffre d’un malus de –2 aux [jets d’attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) basés sur la [Force](./Force.md) et aux [tests de compétence](./Compétences.md) et de caractéristique basés sur la Force. Sa [capacité de transport](./Poids transportable.md) est divisée par trois et il est toujours considéré comme transportant au moins une charge intermédiaire.
+- **Affaibli.** Un personnage affaibli par un poison s’attaquant à la Force souffre d’un malus de –2 aux [[jet dattaque|jets d’attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] basés sur la [[Force]] et aux [[Compétences|tests de compétence]] et de caractéristique basés sur la Force. Sa [[Poids transportable|capacité de transport]] est divisée par trois et il est toujours considéré comme transportant au moins une charge intermédiaire.
 
 - **Amoindri.** Un personnage amoindri par un poison s’attaquant à la Force voit ses muscles s’atrophier rapidement. Il subit un malus de –2 supplémentaire aux jets et tests basés sur la Force précédemment affectés et il est toujours considéré comme transportant au moins une charge lourde.
 
-- **Chancelant.** Un personnage chancelant à cause d’un poison s’attaquant à la Force est si faible qu’il se retrouve affligé de l’état préjudiciable [chancelant](./Chancelant.md) (mais il peut effectuer une [action complexe](./Action complexe.md) si celle-ci est purement mentale).
+- **Chancelant.** Un personnage chancelant à cause d’un poison s’attaquant à la Force est si faible qu’il se retrouve affligé de l’état préjudiciable [[chancelant]] (mais il peut effectuer une [[action complexe]] si celle-ci est purement mentale).
 
-- **Immobile.** Un personnage immobilisé par un poison affectant la Force ne peut plus bouger. Il est [sans défense](./Sans défense.md) et ne peut plus effectuer que des actions purement mentales.
+- **Immobile.** Un personnage immobilisé par un poison affectant la Force ne peut plus bouger. Il est [[sans défense]] et ne peut plus effectuer que des actions purement mentales.
 
 - **Mort.** Tous les muscles de la victime cessent de fonctionner, y compris son cœur.
 
@@ -82,13 +82,13 @@ L’échelle du poison simule son effet progressif sur l’organisme. Un personn
 {s:Reference|DEXTERITE}
 #### Échelle d’évolution des poisons de Dextérité
 **En bonne santé → apathique → raidi → chancelant → immobile → mort**
-- **Apathique.** Un personnage devenu apathique à cause d’un poison s’attaquant à la Dextérité voit sa vitesse de réaction diminuer. Il souffre d’un malus de –2 aux jets de [Réflexes](./Réflexes.md) et aux [jets d’attaque](./jet dattaque.md) basés sur la [Dextérité](./Dextérité.md) et aux [tests de compétence](./Compétences.md) et de caractéristique basés sur la Dextérité, de même qu’à la [CA](./CA.md).
+- **Apathique.** Un personnage devenu apathique à cause d’un poison s’attaquant à la Dextérité voit sa vitesse de réaction diminuer. Il souffre d’un malus de –2 aux jets de [[Réflexes]] et aux [[jet dattaque|jets d’attaque]] basés sur la [[Dextérité]] et aux [[Compétences|tests de compétence]] et de caractéristique basés sur la Dextérité, de même qu’à la [[CA]].
 
-- **Raidi.** Un personnage raidi à cause d’un poison s’attaquant à la Dextérité se sent engourdi et raide. Il est considéré comme [pris au dépourvu](./Pris au dépourvu.md) et privé de son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md), même s’il maîtrise l’[esquive instinctive](./Roublard.md#ESQUIVEINSTINCTIVE). Il ne peut plus faire d’[attaque d’opportunité](./AO.md).
+- **Raidi.** Un personnage raidi à cause d’un poison s’attaquant à la Dextérité se sent engourdi et raide. Il est considéré comme [[pris au dépourvu]] et privé de son bonus de [[Dextérité]] à la [[CA]], même s’il maîtrise l’[[Roublard#ESQUIVEINSTINCTIVE|esquive instinctive]]. Il ne peut plus faire d’[[AO|attaque d’opportunité]].
 
-- **Chancelant.** Un personnage chancelant à cause d’un poison s’attaquant à la Dextérité est si lent et si raide qu’il se retrouve affligé de l’état préjudiciable [chancelant](./Chancelant.md) (mais il peut effectuer une [action complexe](./Action complexe.md) si celle-ci est purement mentale).
+- **Chancelant.** Un personnage chancelant à cause d’un poison s’attaquant à la Dextérité est si lent et si raide qu’il se retrouve affligé de l’état préjudiciable [[chancelant]] (mais il peut effectuer une [[action complexe]] si celle-ci est purement mentale).
 
-- **Immobile.** Un personnage immobilisé par un poison affectant la Dextérité ne peut plus bouger. Il est [sans défense](./Sans défense.md) et ne peut plus effectuer que des actions purement mentales.
+- **Immobile.** Un personnage immobilisé par un poison affectant la Dextérité ne peut plus bouger. Il est [[sans défense]] et ne peut plus effectuer que des actions purement mentales.
 
 - **Mort.** Le corps du personnage est incapable d’effectuer le moindre mouvement et meurt.
 
@@ -96,11 +96,11 @@ L’échelle du poison simule son effet progressif sur l’organisme. Un personn
 {s:Reference|CONSTITUTION}
 #### Échelle d’évolution des poisons de Constitution
 **En bonne santé → affaibli → amoindri → hors de combat → inconscient → mort**
-- **Affaibli.** Un personnage affaibli par un poison s’attaquant à la Constitution souffre d’un malus de –2 aux jets de [Vigueur](./Vigueur.md) et à tous les tests basés sur la [Constitution](./Constitution.md). À chaque fois qu’il tente un [jet de sauvegarde](./JDS.md) contre le poison, il subit les mêmes dégâts que lors de son exposition initiale à la toxine, qu’il réussisse son jet ou non.
+- **Affaibli.** Un personnage affaibli par un poison s’attaquant à la Constitution souffre d’un malus de –2 aux jets de [[Vigueur]] et à tous les tests basés sur la [[Constitution]]. À chaque fois qu’il tente un [[jds|jet de sauvegarde]] contre le poison, il subit les mêmes dégâts que lors de son exposition initiale à la toxine, qu’il réussisse son jet ou non.
 
 - **Amoindri.** Un personnage amoindri à cause d’un poison s’attaquant à la Constitution subit un malus supplémentaire de –2 aux tests précédemment indiqués.
 
-- **Hors de combat.** Un personnage mis hors de combat par un poison affectant la Constitution est affecté par l’état préjudiciable [du même nom](./Hors de combat.md). S’il accomplit une [action simple](./Action simple.md), ses points de vie diminuent de 1 ou tombent à –1 (il se produit le pire).
+- **Hors de combat.** Un personnage mis hors de combat par un poison affectant la Constitution est affecté par l’état préjudiciable [[hors de combat|du même nom]]. S’il accomplit une [[action simple]], ses points de vie diminuent de 1 ou tombent à –1 (il se produit le pire).
 
 - **Inconscient.** Un personnage inconscient à cause d’un poison affectant la Constitution se trouve en état de choc et rien ne peut le réveiller tant qu’il est à ce stade.
 
@@ -110,11 +110,11 @@ L’échelle du poison simule son effet progressif sur l’organisme. Un personn
 {s:Reference|INTELLIGENCE}
 #### Échelle d’évolution des poisons d’Intelligence
 **En bonne santé → affaibli → amoindri → bestial → comateux → mort**
-- **Affaibli.** Un personnage à l’intellect affaibli par un poison s’attaquant à l’Intelligence souffre d’un malus de –2 à tous les tests de compétence et de caractéristique basés sur l’[Intelligence](./Intelligence.md). Si ses capacités d’incantation reposent sur l’Intelligence, le [DD](./DD.md) de ses sorts diminue de 2 et il ne peut plus lancer les sorts du plus haut niveau de sa connaissance.
+- **Affaibli.** Un personnage à l’intellect affaibli par un poison s’attaquant à l’Intelligence souffre d’un malus de –2 à tous les tests de compétence et de caractéristique basés sur l’[[Intelligence]]. Si ses capacités d’incantation reposent sur l’Intelligence, le [[DD]] de ses sorts diminue de 2 et il ne peut plus lancer les sorts du plus haut niveau de sa connaissance.
 
-- **Amoindri.** Un personnage amoindri à cause d’un poison s’attaquant à l’Intelligence n’ajoute plus son modificateur d’[Intelligence](./Intelligence.md) au nombre d’utilisations quotidiennes de ses réserves (comme une [réserve arcanique](./Arcaniste.md#RESERVEARCANIQUE)) et de ses aptitudes. Il ne bénéficie plus de sorts quotidiens supplémentaires grâce à son Intelligence. Il subit un malus supplémentaire de –2 aux tests d’Intelligence précédemment indiqués. Si le personnage est un lanceur de sorts dont les incantations reposent sur l’Intelligence, ses [DD](./DD.md) diminuent encore de 2 et il ne peut plus lancer les sorts des deux plus hauts niveaux qu’il connaît.
+- **Amoindri.** Un personnage amoindri à cause d’un poison s’attaquant à l’Intelligence n’ajoute plus son modificateur d’[[Intelligence]] au nombre d’utilisations quotidiennes de ses réserves (comme une [[Arcaniste#RESERVEARCANIQUE|réserve arcanique]]) et de ses aptitudes. Il ne bénéficie plus de sorts quotidiens supplémentaires grâce à son Intelligence. Il subit un malus supplémentaire de –2 aux tests d’Intelligence précédemment indiqués. Si le personnage est un lanceur de sorts dont les incantations reposent sur l’Intelligence, ses [[DD]] diminuent encore de 2 et il ne peut plus lancer les sorts des deux plus hauts niveaux qu’il connaît.
 
-- **Bestial.** Un personnage devenu bestial à cause d’un poison affectant l’Intelligence souffre des mêmes effets que s’il était victime d’un sort de *[débilité](./Débilité.md)*, hormis que cela n’affecte pas son [Charisme](./Charisme.md) ni ses compétences basées sur le Charisme.
+- **Bestial.** Un personnage devenu bestial à cause d’un poison affectant l’Intelligence souffre des mêmes effets que s’il était victime d’un sort de *[[débilité]]*, hormis que cela n’affecte pas son [[Charisme]] ni ses compétences basées sur le Charisme.
 
 - **Comateux.** Un personnage tombant dans le coma à cause d’un poison affectant l’Intelligence devient incapable de formuler une pensée cohérente et rien ne peut le réveiller tant qu’il est à ce stade.
 
@@ -124,11 +124,11 @@ L’échelle du poison simule son effet progressif sur l’organisme. Un personn
 {s:Reference|SAGESSE}
 #### Échelle d’évolution des poisons de Sagesse
 **En bonne santé → affaibli → amoindri → confus → comateux → mort**
-- **Affaibli.** Un personnage à la conscience affaiblie par un poison s’attaquant à la Sagesse souffre d’un malus de –2 aux jets de [Volonté](./Volonté.md) ainsi qu’à tous les [tests de compétence](./Compétences.md) et de caractéristique basés sur la [Sagesse](./Sagesse.md). Si ses capacités d’incantation reposent sur la Sagesse, le [DD](./DD.md) de ses sorts diminue de 2 et il ne peut plus lancer les sorts du plus haut niveau de sa connaissance.
+- **Affaibli.** Un personnage à la conscience affaiblie par un poison s’attaquant à la Sagesse souffre d’un malus de –2 aux jets de [[Volonté]] ainsi qu’à tous les [[Compétences|tests de compétence]] et de caractéristique basés sur la [[Sagesse]]. Si ses capacités d’incantation reposent sur la Sagesse, le [[DD]] de ses sorts diminue de 2 et il ne peut plus lancer les sorts du plus haut niveau de sa connaissance.
 
-- **Amoindri.** Un personnage amoindri à cause d’un poison s’attaquant à la Sagesse n’ajoute plus son modificateur de [Sagesse](./Sagesse.md) au nombre d’utilisations quotidiennes de ses réserves (comme une [réserve de ki](./Moine.md#RESERVEDEKI)) et de ses aptitudes. Il ne bénéficie plus de sorts quotidiens supplémentaires grâce à sa Sagesse. Il subit un malus supplémentaire de –2 aux tests de Sagesse précédemment indiqués. Si le personnage est un lanceur de sorts dont les incantations reposent sur la Sagesse, ses [DD](./DD.md) diminuent encore de 2 et il ne peut plus lancer les sorts des deux plus hauts niveaux qu’il connaît.
+- **Amoindri.** Un personnage amoindri à cause d’un poison s’attaquant à la Sagesse n’ajoute plus son modificateur de [[Sagesse]] au nombre d’utilisations quotidiennes de ses réserves (comme une [[Moine#RESERVEDEKI|réserve de ki]]) et de ses aptitudes. Il ne bénéficie plus de sorts quotidiens supplémentaires grâce à sa Sagesse. Il subit un malus supplémentaire de –2 aux tests de Sagesse précédemment indiqués. Si le personnage est un lanceur de sorts dont les incantations reposent sur la Sagesse, ses [[DD]] diminuent encore de 2 et il ne peut plus lancer les sorts des deux plus hauts niveaux qu’il connaît.
 
-- **Confus.** Un personnage confus à cause d’un poison affectant la Sagesse a du mal à discerner la réalité et représente un danger pour autrui et pour lui-même. À chaque [round](./round.md), il lance le dé dans la table du sort de *[confusion](./Confusion.md)* pour déterminer ses actions.
+- **Confus.** Un personnage confus à cause d’un poison affectant la Sagesse a du mal à discerner la réalité et représente un danger pour autrui et pour lui-même. À chaque [[round]], il lance le dé dans la table du sort de *[[confusion]]* pour déterminer ses actions.
 
 - **Comateux.** Un personnage tombant dans le coma à cause d’un poison affectant la Sagesse ne perçoit plus la réalité et s’avère incapable de recevoir des informations sensorielles. Rien ne peut le réveiller tant qu’il est à ce stade.
 
@@ -138,11 +138,11 @@ L’échelle du poison simule son effet progressif sur l’organisme. Un personn
 {s:Reference|CHARISME}
 #### Échelle d’évolution des poisons de Charisme
 **En bonne santé → affaibli → amoindri → malléable → catatonique → mort**
-- **Affaibli.** Un personnage au sens de soi affaibli par un poison s’attaquant au Charisme souffre d’un malus de –2 à tous les [tests de compétence](./Compétences.md) et de caractéristique basés sur le [Charisme](./Charisme.md). Si ses capacités d’incantation reposent sur le Charisme, le [DD](./DD.md) de ses sorts diminue de 2 et il ne peut plus lancer les sorts du plus haut niveau de sa connaissance.
+- **Affaibli.** Un personnage au sens de soi affaibli par un poison s’attaquant au Charisme souffre d’un malus de –2 à tous les [[Compétences|tests de compétence]] et de caractéristique basés sur le [[Charisme]]. Si ses capacités d’incantation reposent sur le Charisme, le [[DD]] de ses sorts diminue de 2 et il ne peut plus lancer les sorts du plus haut niveau de sa connaissance.
 
-- **Amoindri.** Un personnage amoindri à cause d’un poison s’attaquant au Charisme n’ajoute plus son modificateur de [Charisme](./Charisme.md) au nombre d’utilisations quotidiennes de ses réserves et de ses aptitudes (comme [imposition des mains](./Paladin.md#IMPOSITIONDESMAINS)). Il ne bénéficie plus de sorts quotidiens supplémentaires grâce à son Charisme. Il subit un malus supplémentaire de –2 aux tests de Charisme précédemment indiqués. Si le personnage est un lanceur de sorts dont les incantations reposent sur le Charisme, ses [DD](./DD.md) diminuent encore de 2 et il ne peut plus lancer les sorts des deux plus hauts niveaux qu’il connaît.
+- **Amoindri.** Un personnage amoindri à cause d’un poison s’attaquant au Charisme n’ajoute plus son modificateur de [[Charisme]] au nombre d’utilisations quotidiennes de ses réserves et de ses aptitudes (comme [[Paladin#IMPOSITIONDESMAINS|imposition des mains]]). Il ne bénéficie plus de sorts quotidiens supplémentaires grâce à son Charisme. Il subit un malus supplémentaire de –2 aux tests de Charisme précédemment indiqués. Si le personnage est un lanceur de sorts dont les incantations reposent sur le Charisme, ses [[DD]] diminuent encore de 2 et il ne peut plus lancer les sorts des deux plus hauts niveaux qu’il connaît.
 
-- **Malléable.** Un personnage devenu malléable à cause d’un poison affectant le Charisme perd le sens de soi et accepte presque n’importe quoi. Les tests de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md) et d’[Intimidation](./Intimidation.md) effectués à son encontre réussissent automatiquement, sauf les tests de Diplomatie destinés à améliorer son attitude qui restent au [DD](./DD.md) normal. Si le personnage est inamical ou hostile envers une créature, cette dernière ne peut pas profiter de son état malléable pour lui adresser une requête en usant de Diplomatie.
+- **Malléable.** Un personnage devenu malléable à cause d’un poison affectant le Charisme perd le sens de soi et accepte presque n’importe quoi. Les tests de [[Bluff]], de [[Diplomatie]] et d’[[Intimidation]] effectués à son encontre réussissent automatiquement, sauf les tests de Diplomatie destinés à améliorer son attitude qui restent au [[DD]] normal. Si le personnage est inamical ou hostile envers une créature, cette dernière ne peut pas profiter de son état malléable pour lui adresser une requête en usant de Diplomatie.
 
 - **Catatonique.** Un personnage tombant en catatonie à cause d’un poison affectant le Charisme voit, entend et comprend son environnement mais il a perdu tout libre arbitre et n’interagit plus avec le monde, de quelque manière que ce soit.
 
@@ -157,32 +157,32 @@ Voici des exemples de maladies suivant les diverses échelles. Si une maladie ne
 <table width="100%"><tr><td width="49%">
 <div class="BD">
 {s:BDTitre|Bouille-crâne|{s:Reference|Bouille-crâne}}
-- **Type** maladie, inhalation ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 12
-- **Échelle** [mentale](./Maladies et poisons unchained.md#MENTALE) ; **Fréquence** 1/jour
+- **Type** maladie, inhalation ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 12
+- **Échelle** [[Maladies et poisons unchained#MENTALE|mentale]] ; **Fréquence** 1/jour
 - **Guérison** 2 JS consécutifs
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Diantrespasme|{s:Reference|Diantrespasme}}
-- **Type** maladie, blessure ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 14
-- **Échelle** [physique](./Maladies et poisons unchained.md#PHYSIQUE) ; **Fréquence** 1/jour
+- **Type** maladie, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 14
+- **Échelle** [[Maladies et poisons unchained#PHYSIQUE|physique]] ; **Fréquence** 1/jour
 - **Guérison** 3 JS consécutifs
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Fièvre des marais|{s:Reference|Fièvre des marais}}
-- **Type** maladie, blessure ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 12
-- **Échelle** [physique](./Maladies et poisons unchained.md#PHYSIQUE) ; **Fréquence** 1/jour
+- **Type** maladie, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 12
+- **Échelle** [[Maladies et poisons unchained#PHYSIQUE|physique]] ; **Fréquence** 1/jour
 - **Guérison** 2 JS consécutifs
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Fièvre gloussante|{s:Reference|Fièvre gloussante}}
-- **Type** maladie, inhalation ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 16
-- **Échelle** [mentale](./Maladies et poisons unchained.md#MENTALE) ; **Fréquence** 1/jour
+- **Type** maladie, inhalation ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 16
+- **Échelle** [[Maladies et poisons unchained#MENTALE|mentale]] ; **Fréquence** 1/jour
 - **Guérison** 2 JS consécutifs
 
 </div>
@@ -190,77 +190,77 @@ Voici des exemples de maladies suivant les diverses échelles. Si une maladie ne
 <div class="BD">
 {s:BDTitre|Lèpre|{s:Reference|Lèpre}}
 - **Type** maladie, contact, inhalation ou blessure ; **Jet de sauvegarde** Vigueur DD 12
-- **Échelle** [physique](./Maladies et poisons unchained.md#PHYSIQUE) (spécial) ; **Fréquence** 1/semaine
-- **Effet** en bonne santé → latent/porteur → apathique → raidi ; les stades apathique et raidi fonctionnent comme un [poison de Dextérité](./Maladies et poisons unchained.md#DEXTERITE), raidi étant le stade terminal
+- **Échelle** [[Maladies et poisons unchained#PHYSIQUE|physique]] (spécial) ; **Fréquence** 1/semaine
+- **Effet** en bonne santé → latent/porteur → apathique → raidi ; les stades apathique et raidi fonctionnent comme un [[Maladies et poisons unchained#DEXTERITE|poison de Dextérité]], raidi étant le stade terminal
 - **Guérison** 2 JS consécutifs
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Mal aveuglant|{s:Reference|Mal aveuglant}}
-- **Type** maladie, ingestion ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 16
-- **Échelle** [physique](./Maladies et poisons unchained.md#PHYSIQUE) ; **Fréquence** 1/jour
-- **Effet** au stade amoindri, la victime est définitivement [aveugle](./Aveuglé.md)
+- **Type** maladie, ingestion ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 16
+- **Échelle** [[Maladies et poisons unchained#PHYSIQUE|physique]] ; **Fréquence** 1/jour
+- **Effet** au stade amoindri, la victime est définitivement [[aveuglé|aveugle]]
 - **Guérison** 2 JS consécutifs
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Mal rouge|{s:Reference|Mal rouge}}
-- **Type** maladie, blessure ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 15
-- **Échelle** [physique](./Maladies et poisons unchained.md#PHYSIQUE) ; **Fréquence** 1/jour
+- **Type** maladie, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 15
+- **Échelle** [[Maladies et poisons unchained#PHYSIQUE|physique]] ; **Fréquence** 1/jour
 - **Guérison** 2 JS consécutifs
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Mort vaseuse|{s:Reference|Mort vaseuse}}
-- **Type** maladie, contact ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 14
-- **Échelle** [physique](./Maladies et poisons unchained.md#PHYSIQUE) ; **Fréquence** 1/jour
-- **Effet** à partir du stade amoindri, les malus du stade affaibli deviennent permanents à moins que la victime ne bénéficie d’une *[guérison suprême](./Guérison suprême.md)* ou d’une *[restauration](./Restauration.md)*
+- **Type** maladie, contact ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 14
+- **Échelle** [[Maladies et poisons unchained#PHYSIQUE|physique]] ; **Fréquence** 1/jour
+- **Effet** à partir du stade amoindri, les malus du stade affaibli deviennent permanents à moins que la victime ne bénéficie d’une *[[guérison suprême]]* ou d’une *[[restauration]]*
 - **Guérison** 2 JS consécutifs
 
 </div>
 </td><td width="2%"></td><td width="49%">
 <div class="BD">
 {s:BDTitre|Peste bubonique|{s:Reference|Peste bubonique}}
-- **Type** maladie, blessure ou inhalation ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 17
-- **Échelle** [physique](./Maladies et poisons unchained.md#PHYSIQUE) ; **Fréquence** 1/jour
+- **Type** maladie, blessure ou inhalation ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 17
+- **Échelle** [[Maladies et poisons unchained#PHYSIQUE|physique]] ; **Fréquence** 1/jour
 - **Guérison** 2 JS consécutifs
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Peste infernale|{s:Reference|Peste infernale}}
-- **Type** maladie, blessure ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 18
-- **Échelle** [physique](./Maladies et poisons unchained.md#PHYSIQUE) ; **Fréquence** 1/jour
-- **Effet** au stade amoindri, les malus de l’état affaibli deviennent permanents tant que la victime ne bénéficie pas d’une *[guérison suprême](./Guérison suprême.md)* ou d’une *[restauration](./Restauration.md)*
+- **Type** maladie, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 18
+- **Échelle** [[Maladies et poisons unchained#PHYSIQUE|physique]] ; **Fréquence** 1/jour
+- **Effet** au stade amoindri, les malus de l’état affaibli deviennent permanents tant que la victime ne bénéficie pas d’une *[[guérison suprême]]* ou d’une *[[restauration]]*
 - **Guérison** 2 JS consécutifs
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Poussiède de démence|{s:Reference|Poussière de démence}}
-- **Type** maladie, inhalation ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 14
-- **Échelle** [mentale](./Maladies et poisons unchained.md#MENTALE) ; **Fréquence** 1/semaine
-- **Effet** même si le malade guérit avec *[guérison des maladies](./Guérison des maladies.md)*, son état ne s’améliore pas à moins d’une *[restauration suprême](./Restauration suprême.md)* ou d’une *[guérison suprême](./Guérison suprême.md)*
+- **Type** maladie, inhalation ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 14
+- **Échelle** [[Maladies et poisons unchained#MENTALE|mentale]] ; **Fréquence** 1/semaine
+- **Effet** même si le malade guérit avec *[[guérison des maladies]]*, son état ne s’améliore pas à moins d’une *[[restauration suprême]]* ou d’une *[[guérison suprême]]*
 - **Guérison** magie seulement
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Putréfaction de momie|{s:Reference|Putréfaction de momie}}
-- **Type** maladie, blessure ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 16
-- **Échelle** [physique](./Maladies et poisons unchained.md#PHYSIQUE) et [mentale](./Maladies et poisons unchained.md#MENTALE) (spécial) ; **Fréquence** 1/jour
+- **Type** maladie, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 16
+- **Échelle** [[Maladies et poisons unchained#PHYSIQUE|physique]] et [[Maladies et poisons unchained#MENTALE|mentale]] (spécial) ; **Fréquence** 1/jour
 - **Effet** pas de stade latent/porteur ; la victime souffre de tous les malus liés à l’évolution de la maladie sur les échelles physiques et mentales
-- **Guérison** *[délivrance des malédictions](./Délivrance des malédictions.md)* et *[guérison des maladies](./Guérison des maladies.md)* lancés dans un intervalle d’une minute
+- **Guérison** *[[délivrance des malédictions]]* et *[[guérison des maladies]]* lancés dans un intervalle d’une minute
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Tremblante|{s:Reference|Tremblante}}
-- **Type** maladie, contact ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 13
-- **Échelle** [physique](./Maladies et poisons unchained.md#PHYSIQUE) ; **Fréquence** 1/jour
+- **Type** maladie, contact ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 13
+- **Échelle** [[Maladies et poisons unchained#PHYSIQUE|physique]] ; **Fréquence** 1/jour
 - **Guérison** 2 JS consécutifs
 
 </div>
@@ -273,8 +273,8 @@ Voici des exemples de poisons qui suivent les diverses échelles présentées pl
 <table width="100%"><tr><td width="49%">
 <div class="BD">
 {s:BDTitre|Ajonc à feuilles bleues|{s:Reference|Ajonc à feuilles bleues}}
-- **Type** poison, blessure ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 14
-- **Échelle** [Constitution](./Maladies et poisons unchained.md#CONSTITUTION) (spécial) ; **Fréquence** 1/round pendant 2 rounds
+- **Type** poison, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 14
+- **Échelle** [[Maladies et poisons unchained#CONSTITUTION|Constitution]] (spécial) ; **Fréquence** 1/round pendant 2 rounds
 - **Effet** en bonne santé → affaibli → inconscient ; pas de stade terminal
 - **Guérison** 1 JS
 
@@ -282,33 +282,33 @@ Voici des exemples de poisons qui suivent les diverses échelles présentées pl
 
 <div class="BD">
 {s:BDTitre|Amnésite|{s:Reference|Amnésite}}
-- **Type** poison, ingestion ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 14
-- **Échelle** [Intelligence](./Maladies et poisons unchained.md#INTELLIGENCE) ; **Délai** 10 minutes ; **Fréquence** 1/minute pendant 6 minutes
+- **Type** poison, ingestion ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 14
+- **Échelle** [[Maladies et poisons unchained#INTELLIGENCE|Intelligence]] ; **Délai** 10 minutes ; **Fréquence** 1/minute pendant 6 minutes
 - **Guérison** 1 JS
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Brume de folie|{s:Reference|Brume de folie}}
-- **Type** poison, inhalation ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 15
-- **Échelle** [Sagesse](./Maladies et poisons unchained.md#SAGESSE) ; **Fréquence** 1/round pendant 6 rounds
+- **Type** poison, inhalation ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 15
+- **Échelle** [[Maladies et poisons unchained#SAGESSE|Sagesse]] ; **Fréquence** 1/round pendant 6 rounds
 - **Guérison** 1 JS
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Cendres d’ungol|{s:Reference|Cendres d’ungol}}
-- **Type** poison, inhalation ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 15
-- **Échelle** [Charisme](./Maladies et poisons unchained.md#CHARISME) ; **Fréquence** 1/round pendant 4 rounds
-- **Effet** une victime a besoin d’une *[guérison suprême](./Guérison suprême.md)* ou d’une *[restauration](./Restauration.md)* pour guérir une fois le stade affaibli dépassé
+- **Type** poison, inhalation ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 15
+- **Échelle** [[Maladies et poisons unchained#CHARISME|Charisme]] ; **Fréquence** 1/round pendant 4 rounds
+- **Effet** une victime a besoin d’une *[[guérison suprême]]* ou d’une *[[restauration]]* pour guérir une fois le stade affaibli dépassé
 - **Guérison** 1 JS
 
 </div>
 </td><td width="2%"></td><td width="49%">
 <div class="BD">
 {s:BDTitre|Extrait de lotus noir|{s:Reference|Extrait de lotus noir}}
-- **Type** poison, contact ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 20
-- **Échelle** [Constitution](./Maladies et poisons unchained.md#CONSTITUTION) (spécial) ; **Délai** 1 minute ; **Fréquence** 1/round pendant 6 rounds
+- **Type** poison, contact ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 20
+- **Échelle** [[Maladies et poisons unchained#CONSTITUTION|Constitution]] (spécial) ; **Délai** 1 minute ; **Fréquence** 1/round pendant 6 rounds
 - **Effet** en bonne santé → affaibli → hors de combat → mort
 - **Guérison** 2 JS consécutifs
 
@@ -316,8 +316,8 @@ Voici des exemples de poisons qui suivent les diverses échelles présentées pl
 
 <div class="BD">
 {s:BDTitre|Lotus vert|{s:Reference|Lotus vert}}
-- **Type** poison, contact ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 18
-- **Échelle** [Charisme](./Maladies et poisons unchained.md#CHARISME) (spécial) ; **Délai** 1 minute ; **Fréquence** 1/round pendant 6 rounds
+- **Type** poison, contact ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 18
+- **Échelle** [[Maladies et poisons unchained#CHARISME|Charisme]] (spécial) ; **Délai** 1 minute ; **Fréquence** 1/round pendant 6 rounds
 - **Effet** en bonne santé → affaibli → amoindri → malléable → malléable ; le second stade malléable est un stade terminal
 - **Guérison** 1 JS
 
@@ -325,16 +325,16 @@ Voici des exemples de poisons qui suivent les diverses échelles présentées pl
 
 <div class="BD">
 {s:BDTitre|Mortelame|{s:Reference|Mortelame}}
-- **Type** poison, blessure ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 20
-- **Échelle** [Constitution](./Maladies et poisons unchained.md#CONSTITUTION) ; **Fréquence** 1/round pendant 6 rounds
+- **Type** poison, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 20
+- **Échelle** [[Maladies et poisons unchained#CONSTITUTION|Constitution]] ; **Fréquence** 1/round pendant 6 rounds
 - **Guérison** 2 JS consécutifs
 
 </div>
 
 <div class="BD">
 {s:BDTitre|Venin de mille-pattes de taille p|{s:Reference|Venin de mille-pattes de taille p}}
-- **Type** poison, blessure ; **Jet de sauvegarde** [Vigueur](./Vigueur.md) [DD](./DD.md) 11
-- **Échelle** [Dextérité](./Maladies et poisons unchained.md#DEXTERITE) ; **Fréquence** 1/round pendant 4 rounds
+- **Type** poison, blessure ; **Jet de sauvegarde** [[Vigueur]] [[DD]] 11
+- **Échelle** [[Maladies et poisons unchained#DEXTERITE|Dextérité]] ; **Fréquence** 1/round pendant 4 rounds
 - **Effet** nécessite 2 JS ratés pour progresser d’un stade après apathique
 - **Guérison** 1 JS
 

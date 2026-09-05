@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pistolier#AUDACE
 ---
 
->>> [Pistolier#AUDACE](./Pistolier.md#AUDACE)
+>>> [[Pistolier#AUDACE]]

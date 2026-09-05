@@ -6,9 +6,9 @@ LastModified: 2024-05-25 16:27
 
 <div class="BD">
 {s:BDTitre|Ceinture de charge tonitruante|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 8 ; **Emplacement** [taille](./Objets merveilleux portés à la taille.md) ; **Prix** 10 500 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 10 500 po ; **Poids** 0,5 kg
 (((Description)))
 La gravure d’un rhinocéros en pleine charge orne cette épaisse ceinture de cuir. Elle octroie à son porteur un bonus d’altération de +2 à la Force. Ce bonus est temporaire pendant les vingt-quatre premières heures où le personnage porte la ceinture. La ceinture renforce l’élan du porteur lorsqu’il charge et lui octroie un bonus de +2 aux manoeuvres de bousculade et de renversement. De plus, lorsque le porteur attaque en chargeant, on considère que ses armes de corps à corps et naturelles font une catégorie de taille de plus que la réalité en ce qui concerne les dégâts infligés.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[force de taureau](./Force de taureau.md)*, [Lames de plomb](./Lames de plomb.md) ; **Coût** 5 000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[force de taureau]]*, [[Lames de plomb]] ; **Coût** 5 000 po
 </div>

@@ -9,8 +9,8 @@ Categories:
 
 {s:cm}*Lorsqu’il est plongé dans une frénésie inspirée par le sang, le sahuagin peut déchaîner un tourbillon de griffes et de crocs contre ses ennemis.*
 
-**Condition.** [Expertise du combat](./Expertise du combat.md), [Frénésie du sang supérieure](./Frénésie du sang supérieure.md), [BBA](./BBA.md) +6, pouvoir de [frénésie inspirée par le sang](./Sahuagin.md), [sahuagin](./Sahuagin.md)
+**Condition.** [[Expertise du combat]], [[Frénésie du sang supérieure]], [[BBA]] +6, pouvoir de [[sahuagin|frénésie inspirée par le sang]], [[sahuagin]]
 
-**Avantage.** Quand le sahuagin porte une [attaque à outrance](./attaque à outrance.md) alors qu’il est sous le coup d’une frénésie inspirée par le sang, il peut renoncer à ses attaques normales pour porter, à la place, une attaque au corps à corps avec son plus haut [bonus de base à l’attaque](./BBA.md) contre chaque adversaire blessé ou qui saigne et se trouve à portée. Le sahuagin doit utiliser une arme naturelle pour effectuer ces attaques et il doit faire un [jet d’attaque](./jet dattaque.md) pour chaque adversaire. Il n’est pas obligé d’utiliser la même arme naturelle pour chaque adversaire.
+**Avantage.** Quand le sahuagin porte une [[attaque à outrance]] alors qu’il est sous le coup d’une frénésie inspirée par le sang, il peut renoncer à ses attaques normales pour porter, à la place, une attaque au corps à corps avec son plus haut [[BBA|bonus de base à l’attaque]] contre chaque adversaire blessé ou qui saigne et se trouve à portée. Le sahuagin doit utiliser une arme naturelle pour effectuer ces attaques et il doit faire un [[jet dattaque|jet d’attaque]] pour chaque adversaire. Il n’est pas obligé d’utiliser la même arme naturelle pour chaque adversaire.
 
 Quand il utilise Marée de sang, il renonce également à toute attaque supplémentaire que lui accordent les autres dons, sorts ou pouvoirs.

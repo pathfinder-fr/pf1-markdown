@@ -12,4 +12,4 @@ Categories:
 {s:cmy}
 *La réserve de pouvoir mythique du personnage augmente au delà des limites normalement imposées par son grade.*
 
-**Avantage.** Le personnage gagne deux utilisations quotidiennes supplémentaires de [pouvoir mythique](./pouvoir mythique.md).
+**Avantage.** Le personnage gagne deux utilisations quotidiennes supplémentaires de [[pouvoir mythique]].

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vision dans les ténèbres (capacité)
 ---
 
->>> [Vision dans les ténèbres (capacité)](./Vision dans les ténèbres (capacité).md)
+>>> [[Vision dans les ténèbres (capacité)]]

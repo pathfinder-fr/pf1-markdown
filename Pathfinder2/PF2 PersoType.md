@@ -4,9 +4,9 @@ Title: Personnage-type pour les PNJs et créatures PF2
 LastModified: 2024-02-23 20:04
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des créations de fans pour Pathfinder 2](./FAN.md)   
+• [[FAN|Retour à la page des créations de fans pour Pathfinder 2]]   
 
 
 (éventuellement une illustration ou un jeton ; voir la page "Guide de création" pour le code permettant d'insérer une image)Description courte et conseils d'utilisation

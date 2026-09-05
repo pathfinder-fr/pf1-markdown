@@ -10,7 +10,7 @@ LastModified: 2020-11-24 23:46
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 49*}
 - 200 PX
-- [Aberration](./type Aberration.md) de taille P, CM
+- [[type aberration|Aberration]] de taille P, CM
 - **Init **+2 ; **Sens** vision dans le noir à 18 m ; Perception +19
 (((Défense)))
 - **CA **19, contact 13, pris au dépourvu 17 (Dex +2, naturelle +6, taille +1)
@@ -24,8 +24,8 @@ LastModified: 2020-11-24 23:46
 (((Statistiques)))
 - **For **19, **Dex **14, **Con **17, **Int **6, **Sag **11, **Cha **8
 - **BBA **+7 ; **BMO **+10 ; **DMD **22
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en puissance](./Attaque en puissance.md), [Talent](./Talent.md) (Discrétion), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Discrétion](./Discrétion.md) +25, [Perception](./Perception.md) +19 
+- **Dons **[[Arme de prédilection]] (griffe), [[Attaque en puissance]], [[Talent]] (Discrétion), [[Talent]] (Perception), [[Volonté de fer]]
+- **Compétences **[[Discrétion]] +25, [[Perception]] +19 
 - **Langues **commun des profondeurs, végépygmée (ne peut pas parler)
 (((Écologie)))
 - **Environnement **souterrains
@@ -42,17 +42,17 @@ LastModified: 2020-11-24 23:46
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Drider](./Drider.md) || 7
+| [[Drider]] || 7
 |-
-| [Ghonhatine](./Ghonhatine.md) || 10
+| [[Ghonhatine]] || 10
 |-
-| [Grothlut](./Grothlut.md) || 3
+| [[Grothlut]] || 3
 |-
-| [Halsora](./Halsora.md) || 7
+| [[Halsora]] || 7
 |-
-| [Irnakurse](./Irnakurse.md) || 9
+| [[Irnakurse]] || 9
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature distordue](./Créature distordue, archétype.md).***</li></ul>*Cette petite créature végétale est une grosse masse de muscles pareils à des étaux et dont les yeux enfoncés pleurent sans cesse des larmes noires et visqueuses.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature distordue, archétype|Créature distordue]].***</li></ul>*Cette petite créature végétale est une grosse masse de muscles pareils à des étaux et dont les yeux enfoncés pleurent sans cesse des larmes noires et visqueuses.*
 
 
 Les végépygmées transformés par le vil processus de distorsion de la chair deviennent des halsoras, des créatures doublement maudites. La torture alchimique qu’elles subissent semble mineure comparée à ce que les autres distordus subissent : ici, elle ne fait qu’augmenter la masse et la force du végépygmée et déformer ses yeux afin qu’ils sécrètent de l’acide. Le processus a un effet beaucoup plus intéressant sur la moisissure roussâtre résiduelle et précédemment inerte qu’abrite le corps du végépygmée-hôte. La mutation de la moisissure crée des spores mortelles qui parcourent tout le corps de l’halsora. Elles sont excrétées par le bout des doigts de la créature et forment des massifs sur ses griffes.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: arcanes#CAPEARCANIQUE
 ---
 
->>> [arcanes#CAPEARCANIQUE](./arcanes.md#CAPEARCANIQUE)
+>>> [[arcanes#CAPEARCANIQUE]]

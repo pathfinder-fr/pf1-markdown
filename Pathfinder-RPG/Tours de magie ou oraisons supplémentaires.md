@@ -10,7 +10,7 @@ Categories:
 
 {s:um}*Le personnage est un maître des sorts mineurs. *
 
-**Conditions.** Capacité à lancer des [tours de magie](./Ensorceleur.md#TOURSDEMAGIE) ou des [oraisons](./Prêtre.md#ORAISONS).
+**Conditions.** Capacité à lancer des [[ensorceleur#TOURSDEMAGIE|tours de magie]] ou des [[prêtre#ORAISONS|oraisons]].
 
 **Avantage.** Le personnage ajoute deux tours de magie ou oraisons à la liste de ceux qu’il connaît.
 

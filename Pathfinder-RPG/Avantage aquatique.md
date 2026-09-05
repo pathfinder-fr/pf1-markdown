@@ -7,10 +7,10 @@ Categories:
 - Don
 ---
 
-{s:cm}**Cette option est plus courante chez les [sahuagins](./Sahuagin.md).**
+{s:cm}**Cette option est plus courante chez les [[Sahuagin|sahuagins]].**
 
 *Les ennemis n’ayant pas de vitesse de nage provoquent des attaques d’opportunité de la part du sahuagin quand il est sous l’eau.*
 
-**Condition.** [Attaques réflexes](./Attaques réflexes.md), le [sahuagin](./Sahuagin.md) doit avoir une vitesse naturelle de nage
+**Condition.** [[Attaques réflexes]], le [[sahuagin]] doit avoir une vitesse naturelle de nage
 
-**Avantage.** Une créature qui n’a pas de vitesse de nage provoque une [attaque d’opportunité](./AO.md) de la part du sahuagin quand elle attaque celui-ci sous l’eau. Le sahuagin n’a pas droit à une attaque d’opportunité si l’attaquant est sous les effets d’une *[liberté de mouvement](./Liberté de mouvement.md)*.
+**Avantage.** Une créature qui n’a pas de vitesse de nage provoque une [[AO|attaque d’opportunité]] de la part du sahuagin quand elle attaque celui-ci sous l’eau. Le sahuagin n’a pas droit à une attaque d’opportunité si l’attaquant est sous les effets d’une *[[liberté de mouvement]]*.

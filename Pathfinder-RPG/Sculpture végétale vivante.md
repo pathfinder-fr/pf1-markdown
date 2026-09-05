@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Plante|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 239*}
 - 1 200 PX
-- [Plante](./type Plante.md) de taille M, N
+- [[type plante|Plante]] de taille M, N
 - **Init **+6 ; **Sens **vision dans le noir à 18 m, vision nocturne ; Perception +6
 (((Défense)))
 - **CA **16, contact 12, pris au dépourvu 14 (Dex +2, naturelle +4)
@@ -25,13 +25,13 @@ Categories:
 - **VD **9 m
 - **Corps à corps** 2 coups, +6 (1d6+4)
 - **Pouvoirs magiques** (**NLS **5 ; concentration +4)
-  - *Constant *– [passage sans trace](./passage sans trace.md)
+  - *Constant *– [[passage sans trace]]
   - *3/jour* – *voyage par les haies*
 (((Statistiques)))
 - **For **17, **Dex **14, **Con** 19, **Int **6, **Sag **10, **Cha** 9
 - **BBA **+3 ; **BMO **+6 ; **DMD **18 (22 contre le croc-en-jambe)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)
-- **Compétences **[Discrétion](./Discrétion.md) +9 (+15 dans les broussailles), [Évasion](./Évasion.md) +10, [Perception](./Perception.md) +6 ; Modificateurs raciaux +2 en [Discrétion](./Discrétion.md) (+8 dans les broussailles), +8 en [Évasion](./Évasion.md)
+- **Dons** [[Attaque en puissance]], [[science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]]
+- **Compétences **[[Discrétion]] +9 (+15 dans les broussailles), [[Évasion]] +10, [[Perception]] +6 ; Modificateurs raciaux +2 en [[Discrétion]] (+8 dans les broussailles), +8 en [[Évasion]]
 - **Langues **commun, sylvestre (ne sait pas parler)
 - **Particularités **assimilation, déplacement à travers les haies, sculpter sa forme
 (((Écologie)))

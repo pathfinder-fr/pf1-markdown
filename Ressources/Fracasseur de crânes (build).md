@@ -4,8 +4,8 @@ Title: Fracasseur de crânes
 LastModified: 2014-08-13 02:27
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
-***Voir le [http://www.pathfinder-fr.org/Forum/yaf_postsm284782_Creation-d-un-moine.aspx#post284782|sujet de discussion]***</div><nav class="wiki-toc"></nav>
+<div class="fright">***Retour aux [[builds]].***</br>
+***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postsm284782_Creation-d-un-moine.aspx#post284782)***</div><nav class="wiki-toc"></nav>
 
 *Description / présentation RP du build proposé, en italique.*
 

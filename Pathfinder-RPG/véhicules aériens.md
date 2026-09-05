@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Véhicules aériens (véhicules)#
 ---
 
->>> [Véhicules aériens (véhicules)#](./Véhicules aériens (véhicules).md#)
+>>> [[Véhicules aériens (véhicules)#]]

@@ -9,8 +9,8 @@ Categories:
 
 {s:MR}*Le personnage peut discuter pour se tirer de la plupart des situations difficiles.*
 
-**Conditions.** 5 rangs en [Bluff](./Bluff.md), 1 rang en [Évasion](./Évasion.md), [gnome](./Gnome.md)
+**Conditions.** 5 rangs en [[Bluff]], 1 rang en [[Évasion]], [[gnome]]
 
-**Avantage.** Lorsque le personnage voit ses mouvements restreints ou s’il est prisonnier, il peut effectuer un test de [Bluff](./Bluff.md) contre toute créature située à 9 mètres ou moins, en insistant sur son caractère inoffensif et sur la douleur ou l’incommodité de sa situation. Si la créature sait que le personnage est dangereux, elle ajoute un bonus de +4 à son test de [Psychologie](./Psychologie.md). Si le personnage l’emporte, la cible agit pour améliorer sa situation, ou lui demande purement et simplement de se taire, ce qui lui procure un bonus de +5 à son prochain test d’[Évasion](./Évasion.md).
+**Avantage.** Lorsque le personnage voit ses mouvements restreints ou s’il est prisonnier, il peut effectuer un test de [[Bluff]] contre toute créature située à 9 mètres ou moins, en insistant sur son caractère inoffensif et sur la douleur ou l’incommodité de sa situation. Si la créature sait que le personnage est dangereux, elle ajoute un bonus de +4 à son test de [[Psychologie]]. Si le personnage l’emporte, la cible agit pour améliorer sa situation, ou lui demande purement et simplement de se taire, ce qui lui procure un bonus de +5 à son prochain test d’[[Évasion]].
 
-**Spécial.** À la discrétion du MJ, une créature particulièrement cruelle ou malfaisante peut bénéficier d’un bonus de +2 à son test de [Psychologie](./Psychologie.md) pour résister à l’utilisation de cette aptitude. En cas de réussite, elle agit pour renforcer les entraves du personnage et pour compliquer sa situation, ce qui lui inflige une pénalité de -5 à tous ses tests d’[Évasion](./Évasion.md) effectués pour échapper aux entraves renforcées de la sorte.
+**Spécial.** À la discrétion du MJ, une créature particulièrement cruelle ou malfaisante peut bénéficier d’un bonus de +2 à son test de [[Psychologie]] pour résister à l’utilisation de cette aptitude. En cas de réussite, elle agit pour renforcer les entraves du personnage et pour compliquer sa situation, ce qui lui inflige une pénalité de -5 à tous ses tests d’[[Évasion]] effectués pour échapper aux entraves renforcées de la sorte.

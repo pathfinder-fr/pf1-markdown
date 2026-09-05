@@ -8,7 +8,7 @@ Categories:
 ---
 
 {s:CCMI}**Prix** 12 po ; **Poids** 1 kg ; **Groupes** —
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** [croc-en-jambe](./Caractéristiques des armes.md#CROCENJAMBE), [désarmement](./Caractéristiques des armes.md#DESARMEMENT)
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#DESARMEMENT|désarmement]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
-Le talent nécessaire pour manier efficacement une telle arme sans révéler sa dangereuse nature en fait une [arme exotique](./arme exotique.md). Si le personnage est formé au maniement de l’écharpe tranchante, il inflige automatiquement 1d4 points de dégâts tranchants à toute créature qui réussit un test de [lutte](./lutte.md) contre lui. Un personnage peut se servir du don [Attaque en finesse](./Attaque en finesse.md) pour appliquer son modificateur de [Dextérité](./Dextérité.md) au lieu de son modificateur de [Force](./Force.md) aux [jets d’attaque](./jet dattaque.md) effectués avec une écharpe tranchante cousue à sa taille, même si ce n’est pas une [arme légère](./arme légère.md).
+Le talent nécessaire pour manier efficacement une telle arme sans révéler sa dangereuse nature en fait une [[arme exotique]]. Si le personnage est formé au maniement de l’écharpe tranchante, il inflige automatiquement 1d4 points de dégâts tranchants à toute créature qui réussit un test de [[lutte]] contre lui. Un personnage peut se servir du don [[Attaque en finesse]] pour appliquer son modificateur de [[Dextérité]] au lieu de son modificateur de [[Force]] aux [[jet dattaque|jets d’attaque]] effectués avec une écharpe tranchante cousue à sa taille, même si ce n’est pas une [[arme légère]].

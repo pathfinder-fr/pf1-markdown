@@ -14,7 +14,7 @@ Categories:
 ## Équipement des races de base
 {s:Reference|DEMIELFE}
 ### Équipement demi-elfe
-Les [demi-elfe|demi-elfes] ont accès à l’équipement suivant.
+Les [[demi-elfe|demi-elfes]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -30,15 +30,15 @@ Les [demi-elfe|demi-elfes] ont accès à l’équipement suivant.
 |}
 </center></div></div>
 
-{s:REFERENCE|CARTESDUCIEL}**Cartes du ciel.** Beaucoup de demi-elfes vivent dans de grandes villes ou des communautés où ils ont du mal à communier avec l’environnement. Certains partent faire de longues retraites dans la nature, mais d’autres passent leurs soirées sur de hauts toits isolés, à regarder les étoiles. Ces âmes solitaires utilisent des cartes pour suivre le mouvement des étoiles et des autres corps célestes. Une personne qui utilise une de ces cartes par nuit claire peut faire un test de [Connaissances](./Connaissances.md) (géographie) [DD](./DD.md) 20 pour déterminer sa position approximative et le mois de l’année. De plus, ces cartes donnent un [bonus](./bonus.md) de circonstances de +2 aux tests de [Survie](./Survie.md) pour éviter de se perdre de nuit par temps clair.
+{s:REFERENCE|CARTESDUCIEL}**Cartes du ciel.** Beaucoup de demi-elfes vivent dans de grandes villes ou des communautés où ils ont du mal à communier avec l’environnement. Certains partent faire de longues retraites dans la nature, mais d’autres passent leurs soirées sur de hauts toits isolés, à regarder les étoiles. Ces âmes solitaires utilisent des cartes pour suivre le mouvement des étoiles et des autres corps célestes. Une personne qui utilise une de ces cartes par nuit claire peut faire un test de [[Connaissances]] (géographie) [[DD]] 20 pour déterminer sa position approximative et le mois de l’année. De plus, ces cartes donnent un [[bonus]] de circonstances de +2 aux tests de [[Survie]] pour éviter de se perdre de nuit par temps clair.
 
-{s:REFERENCE|FEUILLESDERABLEDORE}**Feuilles d’érable doré.** On recueille ces puissants additifs sur une espèce d’érable très rare qui pousse uniquement dans les zones urbaines. Ces petits arbres biscornus grandissent très lentement (leurs feuilles mettent 3 ans pour atteindre la maturité). Ce sont presque toujours des demi-elfes qui en prennent soin. De plus, les demi-elfes ont une conscience aiguë de l’effort que l’arbre fait pour développer ses feuilles et réservent généralement ses produits aux gens de leur espèce uniquement. On peut couper et faire sécher les feuilles de l’érable quand elles prennent la jolie couleur dorée qui lui vaut son nom. On les réduit ensuite en poudre lors d’un processus qui demande un test de [Connaissances](./Connaissances.md) (nature) ou de [Profession](./Profession.md) (herboriste) [DD](./DD.md) 15. Quand on utilise cette poudre pour créer une substance ou un objet spécial qui demande un test d’[Artisanat](./Artisanat.md) (alchimie), comme de la [graisse alchimique](./graisse alchimique.md) ou une [sacoche immobilisante](./sacoche immobilisante.md), elle réduit le [DD](./DD.md) du test de 5 et ajoute un [bonus](./bonus.md) de +1 au DD de l’objet (s’il en a un). Une dose de poudre de feuille d’érable doré suffit à améliorer la fabrication de trois objets alchimiques.
+{s:REFERENCE|FEUILLESDERABLEDORE}**Feuilles d’érable doré.** On recueille ces puissants additifs sur une espèce d’érable très rare qui pousse uniquement dans les zones urbaines. Ces petits arbres biscornus grandissent très lentement (leurs feuilles mettent 3 ans pour atteindre la maturité). Ce sont presque toujours des demi-elfes qui en prennent soin. De plus, les demi-elfes ont une conscience aiguë de l’effort que l’arbre fait pour développer ses feuilles et réservent généralement ses produits aux gens de leur espèce uniquement. On peut couper et faire sécher les feuilles de l’érable quand elles prennent la jolie couleur dorée qui lui vaut son nom. On les réduit ensuite en poudre lors d’un processus qui demande un test de [[Connaissances]] (nature) ou de [[Profession]] (herboriste) [[DD]] 15. Quand on utilise cette poudre pour créer une substance ou un objet spécial qui demande un test d’[[Artisanat]] (alchimie), comme de la [[graisse alchimique]] ou une [[sacoche immobilisante]], elle réduit le [[DD]] du test de 5 et ajoute un [[bonus]] de +1 au DD de l’objet (s’il en a un). Une dose de poudre de feuille d’érable doré suffit à améliorer la fabrication de trois objets alchimiques.
 
 
 {s:Reference|DEMIORQUE}
 
 ### Équipement demi-orque
-Les [demi-orques](./Demi-orque.md) ont accès à l’équipement suivant.
+Les [[demi-orque|demi-orques]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -54,14 +54,14 @@ Les [demi-orques](./Demi-orque.md) ont accès à l’équipement suivant.
 |}
 </center></div></div>
 
-{s:REFERENCE|KITDEDEGUISEMENTDEMIORQUE}**Kit de déguisement demi-orque.** Ce kit de déguisement a été conçu par des demi-orques pour les aider à se faire passer pour des [humains](./Humain.md). Il comprend une crème pour masquer la teinte gris verdâtre de leur peau et d’autres objets pour dissimuler leurs caractéristiques orques ou attirer l’attention sur une autre partie de leur personne. Un demi-orque qui utilise ce kit gagne un [bonus](./bonus.md) de +3 aux tests de [Déguisement](./Déguisement.md) pour se faire passer pour un humain. Ce kit donne seulement un bonus de +1 si c’est un orque qui l’utilise. Ce kit est épuisé après 10 utilisations.
+{s:REFERENCE|KITDEDEGUISEMENTDEMIORQUE}**Kit de déguisement demi-orque.** Ce kit de déguisement a été conçu par des demi-orques pour les aider à se faire passer pour des [[humain|humains]]. Il comprend une crème pour masquer la teinte gris verdâtre de leur peau et d’autres objets pour dissimuler leurs caractéristiques orques ou attirer l’attention sur une autre partie de leur personne. Un demi-orque qui utilise ce kit gagne un [[bonus]] de +3 aux tests de [[Déguisement]] pour se faire passer pour un humain. Ce kit donne seulement un bonus de +1 si c’est un orque qui l’utilise. Ce kit est épuisé après 10 utilisations.
 
-{s:REFERENCE|PURULENCENOIRE}**Purulence noire.** Les orques appliquent souvent cette pâte noire sur leurs armes avant de lancer des raids, pour contrer la magie de guérison de leurs ennemis. La purulence noire reste sur l’arme, comme un [poison](./Poisons.md), jusqu’à ce que la lame frappe un ennemi pour la première fois. La substance reste dans le corps de la victime pendant une heure. La victime résiste alors à la magie de guérison : si quelqu’un essaie de la soigner par magie, il doit réussir un test de [niveau de lanceur de sorts](./NLS.md) [DD](./DD.md) 10 pour rendre des [pv](./pv.md) à la victime.
+{s:REFERENCE|PURULENCENOIRE}**Purulence noire.** Les orques appliquent souvent cette pâte noire sur leurs armes avant de lancer des raids, pour contrer la magie de guérison de leurs ennemis. La purulence noire reste sur l’arme, comme un [[poisons|poison]], jusqu’à ce que la lame frappe un ennemi pour la première fois. La substance reste dans le corps de la victime pendant une heure. La victime résiste alors à la magie de guérison : si quelqu’un essaie de la soigner par magie, il doit réussir un test de [[NLS|niveau de lanceur de sorts]] [[DD]] 10 pour rendre des [[pv]] à la victime.
 
 {s:Reference|ELFE}
 
 ### Équipement elfique
-Les [elfes](./Elfe.md) ont accès à l’équipement suivant.
+Les [[elfe|elfes]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -86,20 +86,20 @@ s’ils sont conçus pour des créatures de taille P.
 |}
 </center></div></div>
 
-{s:REFERENCE|GRIMOIREDEPOCHE}**Grimoire de poche.** Les magiciens elfiques ont parfois besoin de voyager avec des dizaines, voire des centaines de [grimoires](./grimoire.md), ce qui les oblige souvent à chercher comment les alléger. Les grimoires de poche ne contiennent que 70 pages de sorts, mais ils pèsent bien moins lourd qu’un grimoire ordinaire.
+{s:REFERENCE|GRIMOIREDEPOCHE}**Grimoire de poche.** Les magiciens elfiques ont parfois besoin de voyager avec des dizaines, voire des centaines de [[grimoire|grimoires]], ce qui les oblige souvent à chercher comment les alléger. Les grimoires de poche ne contiennent que 70 pages de sorts, mais ils pèsent bien moins lourd qu’un grimoire ordinaire.
 
-{s:REFERENCE|LABODARTISANATPORTATIF}**Labo d’artisanat portatif.** Le laboratoire d’artisanat portatif contient tout le nécessaire pour [créer des objets magiques](./Création dobjets magiques.md), même si la plupart des ustensiles sont basiques. Il permet à l’artisan de passer chaque jour 4 heures à fabriquer quelque chose pendant ses aventures et d’obtenir les mêmes résultats qu’après 3 heures de travail à la maison (au lieu de 2 heures). En revanche, les outils du labo sont tous conçus pour remplir plusieurs fonctions à la fois et le labo ne fournit ni l’espace ni le calme nécessaire pour créer des objets magiques dans des circonstances idéales, les tests de [création d’objets magiques](./Création dobjets magiques.md) subissent donc un malus de -5 quand ils sont effectués avec le labo.
+{s:REFERENCE|LABODARTISANATPORTATIF}**Labo d’artisanat portatif.** Le laboratoire d’artisanat portatif contient tout le nécessaire pour [[Création dobjets magiques|créer des objets magiques]], même si la plupart des ustensiles sont basiques. Il permet à l’artisan de passer chaque jour 4 heures à fabriquer quelque chose pendant ses aventures et d’obtenir les mêmes résultats qu’après 3 heures de travail à la maison (au lieu de 2 heures). En revanche, les outils du labo sont tous conçus pour remplir plusieurs fonctions à la fois et le labo ne fournit ni l’espace ni le calme nécessaire pour créer des objets magiques dans des circonstances idéales, les tests de [[création dobjets magiques|création d’objets magiques]] subissent donc un malus de -5 quand ils sont effectués avec le labo.
 
-{s:REFERENCE|MANUELDEXERCICESARCANIQUESFAMILIAL}**Manuel d’exercices arcaniques familial.** Comme les elfes sont prédisposés à devenir [magiciens](./Magicien.md) et que ces gens bénéficient de nombreux avantages sociaux, beaucoup de familles elfiques étudient la magie sur plusieurs générations. Les [magiciens](./Magicien.md) elfiques les plus âgés consignent leurs découvertes magiques et leurs réflexions dans des manuels d’exercice que les générations futures sont appelées à utiliser et compléter. Si un elfe utilise un manuel d’exercices arcaniques familial comme référence lors d’un test d’[Art de la magie](./Art de la magie.md) (ce qui lui demande 1d4 [actions complexes](./Action complexe.md) à chercher dans le texte), il bénéficie d’un [bonus](./bonus.md) de circonstances de +2 au test. Ce bonus passe à +4 s’il passe 1d4 heures à consulter le livre.
+{s:REFERENCE|MANUELDEXERCICESARCANIQUESFAMILIAL}**Manuel d’exercices arcaniques familial.** Comme les elfes sont prédisposés à devenir [[magicien|magiciens]] et que ces gens bénéficient de nombreux avantages sociaux, beaucoup de familles elfiques étudient la magie sur plusieurs générations. Les [[magicien|magiciens]] elfiques les plus âgés consignent leurs découvertes magiques et leurs réflexions dans des manuels d’exercice que les générations futures sont appelées à utiliser et compléter. Si un elfe utilise un manuel d’exercices arcaniques familial comme référence lors d’un test d’[[Art de la magie]] (ce qui lui demande 1d4 [[action complexe|actions complexes]] à chercher dans le texte), il bénéficie d’un [[bonus]] de circonstances de +2 au test. Ce bonus passe à +4 s’il passe 1d4 heures à consulter le livre.
 
 {s:REFERENCE|SACANTIOURS}**Sac anti-ours.** Ce sac est muni d’une corde de 6 mètres de long qui permet de le suspendre à un arbre ou un point d’attache similaire. Les gens mettent souvent leurs réserves de nourriture ou leurs objets fragiles dedans, une précaution élémentaire quand ils campent dans des étendues sauvages, afin que les ours et les autres prédateurs ne viennent pas piller son contenu.
 
-{s:REFERENCE|TENTESUSPENDUE}**Tente suspendue.** La tente suspendue est un abri de petite taille en forme de goutte d’eau (capable d’accueillir une créature de [taille M](./taille M.md)). Elle est munie d’une solide corde pour la suspendre à une branche d’arbre, un grappin ou même un piton planté dans la paroi d’une falaise. Ces tentes servent surtout dans les zones montagneuses, où il est très difficile de trouver une surface plane pour monter le camp, et dans les marais où le sol sec est si rare. Pour monter dans une tente suspendue ou en descendre, il faut réussir une [action complexe](./Action complexe.md) qui nécessite un test d’[Escalade](./Escalade.md) [DD](./DD.md) 10. En cas d’échec, il faut faire une nouvelle tentative, mais, si le personnage rate le test de 5 ou plus, il tombe de la tente.
+{s:REFERENCE|TENTESUSPENDUE}**Tente suspendue.** La tente suspendue est un abri de petite taille en forme de goutte d’eau (capable d’accueillir une créature de [[taille M]]). Elle est munie d’une solide corde pour la suspendre à une branche d’arbre, un grappin ou même un piton planté dans la paroi d’une falaise. Ces tentes servent surtout dans les zones montagneuses, où il est très difficile de trouver une surface plane pour monter le camp, et dans les marais où le sol sec est si rare. Pour monter dans une tente suspendue ou en descendre, il faut réussir une [[action complexe]] qui nécessite un test d’[[Escalade]] [[DD]] 10. En cas d’échec, il faut faire une nouvelle tentative, mais, si le personnage rate le test de 5 ou plus, il tombe de la tente.
 
 
 {s:Reference|GNOME}
 ### Équipement gnome
-Les [gnomes](./Gnome.md) ont accès à l’équipement suivant.
+Les [[gnome|gnomes]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -125,23 +125,23 @@ pour des créatures de taille P.
 |}
 </center></div></div>
 
-{s:REFERENCE|HABITSDEDILETTANTE}**Habits de dilettante.** Les inventeurs et les voyageurs gnomes apprécient tout particulièrement ces vêtements qui se composent de robustes bottes, d’un pantalon ou d’une jupe de lin robuste, d’une chemise, de gants de cuir, d’un chapeau, d’une cape et de nombreuses ceintures, attaches et autres accessoires (comme des écharpes, une veste, des bouts de corde ou de ficelle et des cartouchières). Ces divers éléments ne sont jamais assortis et viennent tous d’un autre ensemble de vêtements dont ils ont été extraits pour leur qualité « supérieure. » Ils regorgent de poches et de planques. Ces habits donnent un [bonus](./bonus.md) de circonstances de +2 à leur propriétaire quand il fait un test d’[Escamotage](./Escamotage.md) pour cacher un petit objet sur sa personne.
+{s:REFERENCE|HABITSDEDILETTANTE}**Habits de dilettante.** Les inventeurs et les voyageurs gnomes apprécient tout particulièrement ces vêtements qui se composent de robustes bottes, d’un pantalon ou d’une jupe de lin robuste, d’une chemise, de gants de cuir, d’un chapeau, d’une cape et de nombreuses ceintures, attaches et autres accessoires (comme des écharpes, une veste, des bouts de corde ou de ficelle et des cartouchières). Ces divers éléments ne sont jamais assortis et viennent tous d’un autre ensemble de vêtements dont ils ont été extraits pour leur qualité « supérieure. » Ils regorgent de poches et de planques. Ces habits donnent un [[bonus]] de circonstances de +2 à leur propriétaire quand il fait un test d’[[Escamotage]] pour cacher un petit objet sur sa personne.
 
-{s:REFERENCE|BATONDELUNE}**Bâton de lune.** Ce bâton d’une trentaine de centimètres se termine par des ferrures d’argent et émet une faible lueur quand on le frotte, par une [action simple](./Action simple.md). Il déverse une [faible lumière](./Exploration.md#VISIONLUMIERE) dans un rayon de 9 m (6 {s:c}). Les créatures qui disposent de la [vision nocturne](./Vision nocturne (capacité).md) remarquent facilement cette lumière et, pour elles, le niveau de luminosité augmente d’un cran (normal au maximum) dans un rayon de 18 m (12 {s:c}). Le bâton brille pendant 6 heures, ensuite, le bout en argent est entièrement brûlé et il n’a plus aucune valeur.
+{s:REFERENCE|BATONDELUNE}**Bâton de lune.** Ce bâton d’une trentaine de centimètres se termine par des ferrures d’argent et émet une faible lueur quand on le frotte, par une [[action simple]]. Il déverse une [[Exploration#VISIONLUMIERE|faible lumière]] dans un rayon de 9 m (6 {s:c}). Les créatures qui disposent de la [[vision nocturne (capacité)|vision nocturne]] remarquent facilement cette lumière et, pour elles, le niveau de luminosité augmente d’un cran (normal au maximum) dans un rayon de 18 m (12 {s:c}). Le bâton brille pendant 6 heures, ensuite, le bout en argent est entièrement brûlé et il n’a plus aucune valeur.
 
-{s:REFERENCE|CARNETOBSESSIONNEL}**Carnet obsessionnel.** Les gnomes utilisent ces petits livres pour noter des informations sur l’objet de leur obsession. Quand un gnome consulte son carnet obsessionnel (ce qui lui prend une minute), il gagne un [bonus](./bonus.md) de circonstances de +2 au prochain test d’[Artisanat](./Artisanat.md) ou de [Profession](./Profession.md), à condition qu’il corresponde à celui que le gnome a choisi pour son trait racial [obsession](./Gnome.md#OBSESSION).
+{s:REFERENCE|CARNETOBSESSIONNEL}**Carnet obsessionnel.** Les gnomes utilisent ces petits livres pour noter des informations sur l’objet de leur obsession. Quand un gnome consulte son carnet obsessionnel (ce qui lui prend une minute), il gagne un [[bonus]] de circonstances de +2 au prochain test d’[[Artisanat]] ou de [[Profession]], à condition qu’il corresponde à celui que le gnome a choisi pour son trait racial [[Gnome#OBSESSION|obsession]].
 
-{s:REFERENCE|ENCENSANTIODEUR}**Encens anti-odeur.** L’encens anti-odeur est une sorte de bâton fumigène qui bloque la plupart des odeurs. Tant que la fumée persiste, les créatures qui disposent du pouvoir [odorat](./odorat.md) doivent réussir un test de [Perception](./Perception.md) opposé au test de [Discrétion](./Discrétion.md) des créatures qui se trouvent dans la fumée pour les localiser. Si une créature passe 5 [rounds](./round.md) ou plus dans la fumée, elle s’accroche à lui et dissimule son odeur pendant 1 round après qu’elle a quitté le nuage de fumée.
+{s:REFERENCE|ENCENSANTIODEUR}**Encens anti-odeur.** L’encens anti-odeur est une sorte de bâton fumigène qui bloque la plupart des odeurs. Tant que la fumée persiste, les créatures qui disposent du pouvoir [[odorat]] doivent réussir un test de [[Perception]] opposé au test de [[Discrétion]] des créatures qui se trouvent dans la fumée pour les localiser. Si une créature passe 5 [[round|rounds]] ou plus dans la fumée, elle s’accroche à lui et dissimule son odeur pendant 1 round après qu’elle a quitté le nuage de fumée.
 
-{s:REFERENCE|SANGDEMOLOSSE}**Sang de molosse.** Si un personnage applique cette épaisse pâte rouge, que l’on appelle le sang de molosse, sur son nez ou sa lèvre supérieure, son odorat s’améliore. La pâte donne un [bonus](./bonus.md) alchimique de +2 aux tests de [Perception](./Perception.md) pendant 1 heure à la plupart des créatures, mais, chez les gnomes, il décuple les capacités olfactives et le bénéficiaire dispose pendant 5 minutes du pouvoir [odorat](./odorat.md) avant de n’avoir plus qu’un bonus alchimique de +2 aux tests de [Perception](./Perception.md) pendant 1 heure de plus.
+{s:REFERENCE|SANGDEMOLOSSE}**Sang de molosse.** Si un personnage applique cette épaisse pâte rouge, que l’on appelle le sang de molosse, sur son nez ou sa lèvre supérieure, son odorat s’améliore. La pâte donne un [[bonus]] alchimique de +2 aux tests de [[Perception]] pendant 1 heure à la plupart des créatures, mais, chez les gnomes, il décuple les capacités olfactives et le bénéficiaire dispose pendant 5 minutes du pouvoir [[odorat]] avant de n’avoir plus qu’un bonus alchimique de +2 aux tests de [[Perception]] pendant 1 heure de plus.
 
-{s:REFERENCE|SIFFLETDUPREVOT}**Sifflet du prévôt.** Le sifflet du shérif sert généralement aux [rôdeurs](./Rôdeur.md) et aux prévôts gnomes. Il émet un son aigu que l’on entend facilement à 300 mètres de distance, dans des conditions normales. En revanche, sa fréquence est si haute que les [blaireaux](./Blaireau.md), les [chiens](./Chien.md) et les [gnomes](./Gnome.md) sont les seuls à l’entendre.
+{s:REFERENCE|SIFFLETDUPREVOT}**Sifflet du prévôt.** Le sifflet du shérif sert généralement aux [[rôdeur|rôdeurs]] et aux prévôts gnomes. Il émet un son aigu que l’on entend facilement à 300 mètres de distance, dans des conditions normales. En revanche, sa fréquence est si haute que les [[blaireau|blaireaux]], les [[Chien|chiens]] et les [[gnome|gnomes]] sont les seuls à l’entendre.
 
 
 {s:Reference|HALFELIN}
 
 ### Équipement halfelin
-Les [halfelins](./Halfelin.md) ont accès à l’équipement suivant.
+Les [[halfelin|halfelins]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -161,18 +161,18 @@ Les [halfelins](./Halfelin.md) ont accès à l’équipement suivant.
 |}
 </center></div></div>
 
-{s:REFERENCE|BATONDUDIABLEHALFELIN}**Bâtons du diable halfelins.** Ces quatre bâtons aux couleurs vives sont ornés de serpentins colorés qui créent de jolis motifs quand on jongle avec. Les halfelins sont particulièrement doués pour s’en servir et gagnent un [bonus](./bonus.md) de circonstances de +2 aux tests de [Représentation](./Représentation.md) (comédie).
+{s:REFERENCE|BATONDUDIABLEHALFELIN}**Bâtons du diable halfelins.** Ces quatre bâtons aux couleurs vives sont ornés de serpentins colorés qui créent de jolis motifs quand on jongle avec. Les halfelins sont particulièrement doués pour s’en servir et gagnent un [[bonus]] de circonstances de +2 aux tests de [[Représentation]] (comédie).
 
-{s:REFERENCE|CAPEPARACHUTE}**Cape parachute.** Cette cape en soie est faite de nombreuses couches superposées cousues par des fils très lâches. Quand elle est exposée à un influx d’air soudain, comme lors d’une chute, elle se déploie comme un parachute rudimentaire. Une créature qui tombe alors qu’elle porte cette cape est traitée comme une créature ayant sauté délibérément. En revanche, dans les zones de [vent violent](./Vents.md#EFFETSDUVENT), la cape gêne les mouvements. Dans ce cas, le propriétaire de la cape considère tous les terrains comme des [terrains difficiles](./terrain difficile.md) et subit un malus de -4 aux tests de [Vol](./Vol.md). La cape parachute est de conception étrange et fragile, c’est pourquoi seuls les modèles de taille P ou moins sont fonctionnels. Les capes de plus grande taille donnent seulement les malus liés au grand vent, sans aucun avantage en cas de chute.
+{s:REFERENCE|CAPEPARACHUTE}**Cape parachute.** Cette cape en soie est faite de nombreuses couches superposées cousues par des fils très lâches. Quand elle est exposée à un influx d’air soudain, comme lors d’une chute, elle se déploie comme un parachute rudimentaire. Une créature qui tombe alors qu’elle porte cette cape est traitée comme une créature ayant sauté délibérément. En revanche, dans les zones de [[Vents#EFFETSDUVENT|vent violent]], la cape gêne les mouvements. Dans ce cas, le propriétaire de la cape considère tous les terrains comme des [[terrain difficile|terrains difficiles]] et subit un malus de -4 aux tests de [[Vol]]. La cape parachute est de conception étrange et fragile, c’est pourquoi seuls les modèles de taille P ou moins sont fonctionnels. Les capes de plus grande taille donnent seulement les malus liés au grand vent, sans aucun avantage en cas de chute.
 
-{s:REFERENCE|CONFITUREALCHIMIQUE}**Confiture alchimique.** Ces petites boîtes de confiture spécialement traitée contiennent juste assez de marmelade pour fournir une dose revitalisante à un halfelin. N’importe quelle créature peut manger cette confiture par une [action simple](./Action simple.md), mais elle ne bénéficie qu’aux halfelins. Elle dissipe la [fatigue](./Fatigué.md) chez ces derniers, mais rend les autres créatures [fiévreuses](./Fiévreux.md) pendant 1 [round](./round.md).
+{s:REFERENCE|CONFITUREALCHIMIQUE}**Confiture alchimique.** Ces petites boîtes de confiture spécialement traitée contiennent juste assez de marmelade pour fournir une dose revitalisante à un halfelin. N’importe quelle créature peut manger cette confiture par une [[action simple]], mais elle ne bénéficie qu’aux halfelins. Elle dissipe la [[fatigué|fatigue]] chez ces derniers, mais rend les autres créatures [[fiévreux|fiévreuses]] pendant 1 [[round]].
 
-{s:REFERENCE|CORDERUGISSANTE}**Corde rugissante.** De nombreux morceaux de métal creux, aux formes étranges, sont attachés à cette mince longueur de corde. Par une [action simple](./Action simple.md), une créature peut la faire tournoyer au-dessus de sa tête pour produire toutes sortes de bruits étranges. Pendant le [round](./round.md) suivant, toutes les créatures qui se trouvent à moins de 18 m (12 {s:c}) de la corde rugissante subissent un malus de -2 aux tests de [Perception](./Perception.md) basés sur le son et un malus de -1 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les effets de [terreur](./Terreur (capacité).md). Un [barde](./Barde.md) peut utiliser la corde rugissante comme un instrument (à corde) qui lui donne un [bonus](./bonus.md) de +2 aux tests de [Représentation](./Représentation.md) quand il utilise le pouvoir [contre-chant](./Représentations.md#CONTRE-CHANT).
+{s:REFERENCE|CORDERUGISSANTE}**Corde rugissante.** De nombreux morceaux de métal creux, aux formes étranges, sont attachés à cette mince longueur de corde. Par une [[action simple]], une créature peut la faire tournoyer au-dessus de sa tête pour produire toutes sortes de bruits étranges. Pendant le [[round]] suivant, toutes les créatures qui se trouvent à moins de 18 m (12 {s:c}) de la corde rugissante subissent un malus de -2 aux tests de [[Perception]] basés sur le son et un malus de -1 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets de [[Terreur (capacité)|terreur]]. Un [[barde]] peut utiliser la corde rugissante comme un instrument (à corde) qui lui donne un [[bonus]] de +2 aux tests de [[Représentation]] quand il utilise le pouvoir [[Représentations#CONTRE-CHANT|contre-chant]].
 
 
 {s:Reference|HUMAIN}
 ### Équipement humain
-Les [humains](./Humain.md) ont accès à l’équipement suivant.
+Les [[humain|humains]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -188,29 +188,29 @@ Les [humains](./Humain.md) ont accès à l’équipement suivant.
 |}
 </center></div></div>
 
-{s:REFERENCE|FOUETDEDRESSAGE}**Fouet de dressage.** Ce petit fouet a une lanière très courte (allonge de 3 mètres seulement <nowiki>[</nowiki>2 {s:c}<nowiki>]</nowiki>), sinon, il est identique aux [fouets](./Tableau récapitulatif des armes.md#ARMESEXOTIQUESUNEMAIN) ordinaires. Son propriétaire gagne un [bonus](./bonus.md) de circonstances de +2 aux tests de [Dressage] pour faire avancer un animal dressé et aux tests d’[Intimidation](./Intimidation.md) pour démoraliser tous les animaux tant qu’ils sont à portée du fouet. Quand le personnage utilise le fouet pour intimider un animal dressé, il peut le [fasciné|fasciner] au lieu de le [secoué|secouer] (l’effet a la même durée). La fascination se termine si le personnage ou l’animal sort du champ de vision de l’autre.
+{s:REFERENCE|FOUETDEDRESSAGE}**Fouet de dressage.** Ce petit fouet a une lanière très courte (allonge de 3 mètres seulement <nowiki>[[</nowiki>2 {s:c}<nowiki>]]</nowiki>), sinon, il est identique aux [[Tableau récapitulatif des armes#ARMESEXOTIQUESUNEMAIN|fouets]] ordinaires. Son propriétaire gagne un [[bonus]] de circonstances de +2 aux tests de [[Dressage]] pour faire avancer un animal dressé et aux tests d’[[Intimidation]] pour démoraliser tous les animaux tant qu’ils sont à portée du fouet. Quand le personnage utilise le fouet pour intimider un animal dressé, il peut le [[fasciné|fasciner]] au lieu de le [[secoué|secouer]] (l’effet a la même durée). La fascination se termine si le personnage ou l’animal sort du champ de vision de l’autre.
 
-{s:REFERENCE|HARNACHEMENTDEDRESSAGE}**Harnachement de dressage.** Ce matériel spécialisé est adapté en fonction du type d’[animal](./Listes-des-monstres-par-type.md#ANIMAL) à dresser, comme indiqué dans [Caractéristiques des armures#ARMURESINHABITUELLES|la table des armures pour créatures inhabituelles]. Le harnachement donne un [bonus](./bonus.md) de +2 aux tests de [Dressage] vis-à-vis de l’animal qui le porte.
+{s:REFERENCE|HARNACHEMENTDEDRESSAGE}**Harnachement de dressage.** Ce matériel spécialisé est adapté en fonction du type d’[[Listes des monstres par type#ANIMAL|animal]] à dresser, comme indiqué dans [[Caractéristiques des armures#ARMURESINHABITUELLES|la table des armures pour créatures inhabituelles]]. Le harnachement donne un [[bonus]] de +2 aux tests de [[Dressage]] vis-à-vis de l’animal qui le porte.
 
 {s:Reference|NAIN}
 ### Équipement nain
-Les [nains](./Nain.md) ont accès à l’équipement suivant.
+Les [[nain|nains]] ont accès à l’équipement suivant.
 
 <center>
 {| CLASS="tablo cadre"
 |+ Armes exotiques naines
 |- CLASS="titre"
-| [Armes exotiques](./Caractéristiques des armes.md#ARMEEXOTIQUE) || Prix || Dégâts (P) || Dégâts (M) || [Critique](./Tableau récapitulatif des armes.md#CRITIQUE) || [Facteur de portée](./Tableau récapitulatif des armes.md#FACTEURDEPORTEE) || Poids || [Type](./Tableau récapitulatif des armes.md#TYPE) || Spécial
+| [[Caractéristiques des armes#ARMEEXOTIQUE|Armes exotiques]] || Prix || Dégâts (P) || Dégâts (M) || [[Tableau récapitulatif des armes#CRITIQUE|Critique]] || [[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]] || Poids || [[Tableau récapitulatif des armes#TYPE|Type]] || Spécial
 |-
-| COLSPAN="9" | **ARMES DE [CORPS À CORPS](./Caractéristiques des armes.md#ARMEDECORPSACORPS) [LÉGÈRES](./Caractéristiques des armes.md#ARMELEGERE)**
+| COLSPAN="9" | **ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMELEGERE|LÉGÈRES]]**
 |- CLASS="alt"
 | Casque bélier nain || 20 po || 1d3 || 1d4 || x2 || - || 5 kg || C || voir texte
 |- CLASS="lignesup"
-| COLSPAN="9" | **ARMES DE [CORPS À CORPS](./Caractéristiques des armes.md#ARMEDECORPSACORPS) [À UNE MAIN](./Caractéristiques des armes.md#ARMEAUNEMAIN)**
+| COLSPAN="9" | **ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMEAUNEMAIN|À UNE MAIN]]**
 |- CLASS="alt"
 | Hache d'armes naine double || 60 po || 1d8 || 1d10 || x3 || - || 6 kg || T || voir texte
 |- CLASS="lignesup"
-| COLSPAN="9" | **ARMES DE [CORPS À CORPS](./Caractéristiques des armes.md#ARMEDECORPSACORPS) [À DEUX MAINS](./Caractéristiques des armes.md#ARMEADEUXMAINS)**
+| COLSPAN="9" | **ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMEADEUXMAINS|À DEUX MAINS]]**
 |- CLASS="alt"
 | Hache naine à long manche || 50 po || 1d10 || 1d12 || x3 || - || 7 kg || T || allonge
 |-
@@ -218,11 +218,11 @@ Les [nains](./Nain.md) ont accès à l’équipement suivant.
 |}
 </center>
 
-{s:REFERENCE|CASQUEBELIERNAIN}**Casque bélier nain.** On peut utiliser ce lourd casque renforcé pour faire des [attaques de corps à corps](./attaque au corps à corps.md). Il sert aussi à faire des manœuvres de [bousculade](./bousculade.md). Son propriétaire bénéficie alors d’un [bonus](./bonus.md) de circonstances de +2 au test, mais, une fois la manœuvre terminée, qu’elle soit couronnée de succès ou non, le personnage est [chancelant](./Chancelant.md) jusqu’à la fin de son prochain [tour](./tour.md). De plus, le casque donne un bonus de circonstances de +2 à la [CA](./CA.md) contre les confirmations de [coup critique](./coup critique.md). Le casque bélier nain augmente les chances d’[échec des sorts](./échec des sorts.md) profanes de 20 %. Il se place sur la tête et il est fait de métal et non de pierre, ce qui veut dire qu’on peut en fabriquer à partir de [matériaux inhabituels](./Matériaux spéciaux.md), comme pour les armes métalliques. On peut aussi l’enchanter comme une [arme](./Armes magiques.md) (et non comme une armure, malgré la protection qu’il offre).
+{s:REFERENCE|CASQUEBELIERNAIN}**Casque bélier nain.** On peut utiliser ce lourd casque renforcé pour faire des [[attaque au corps à corps|attaques de corps à corps]]. Il sert aussi à faire des manœuvres de [[bousculade]]. Son propriétaire bénéficie alors d’un [[bonus]] de circonstances de +2 au test, mais, une fois la manœuvre terminée, qu’elle soit couronnée de succès ou non, le personnage est [[chancelant]] jusqu’à la fin de son prochain [[tour]]. De plus, le casque donne un bonus de circonstances de +2 à la [[CA]] contre les confirmations de [[coup critique]]. Le casque bélier nain augmente les chances d’[[échec des sorts]] profanes de 20 %. Il se place sur la tête et il est fait de métal et non de pierre, ce qui veut dire qu’on peut en fabriquer à partir de [[Matériaux spéciaux|matériaux inhabituels]], comme pour les armes métalliques. On peut aussi l’enchanter comme une [[armes magiques|arme]] (et non comme une armure, malgré la protection qu’il offre).
 
-{s:REFERENCE|HACHEDARMESNAINEDOUBLE}**Hache d’armes naine double.** Cette lourde hache d’armes ressemble à une [hache d’armes naine](./Tableau récapitulatif des armes.md#ARMESEXOTIQUESUNEMAIN) ordinaire, mais ses lames sont recourbées de part et d’autre, comme les ailes d’un papillon mortel. La hache donne un [bonus](./bonus.md) de +1 aux [jets d’attaque](./jet dattaque.md) qui suivent le premier quand le personnage utilise [Enchaînement](./Enchaînement.md) ou [Succession d’enchaînements](./Succession denchaînements.md).
+{s:REFERENCE|HACHEDARMESNAINEDOUBLE}**Hache d’armes naine double.** Cette lourde hache d’armes ressemble à une [[Tableau récapitulatif des armes#ARMESEXOTIQUESUNEMAIN|hache d’armes naine]] ordinaire, mais ses lames sont recourbées de part et d’autre, comme les ailes d’un papillon mortel. La hache donne un [[bonus]] de +1 aux [[jet dattaque|jets d’attaque]] qui suivent le premier quand le personnage utilise [[Enchaînement]] ou [[Succession denchaînements|Succession d’enchaînements]].
 
-{s:REFERENCE|HACHENAINEALONGMANCHE}**Hache naine à long manche.** Ces lames lourdes et ornementées sont montées sur une longue hampe ferrée pour augmenter leur [allonge](./allonge.md). On les trouve rarement chez les nains qui vivent dans les tunnels, elles sont plus répandues chez les clans des montagnes qui affrontent souvent des [géants](./Listes-des-monstres-par-type.md#HUMANOIDE).
+{s:REFERENCE|HACHENAINEALONGMANCHE}**Hache naine à long manche.** Ces lames lourdes et ornementées sont montées sur une longue hampe ferrée pour augmenter leur [[allonge]]. On les trouve rarement chez les nains qui vivent dans les tunnels, elles sont plus répandues chez les clans des montagnes qui affrontent souvent des [[Listes des monstres par type#HUMANOIDE|géants]].
 
 {s:REFERENCE|MARTEAUNAINALONGMANCHE}**Marteau nain à long manche.** Ces marteaux à la tête très lourde sont ornés de visages monstrueux, gravés ou repoussés, ou bien encore percés de minuscules trous qui provoquent un sifflement menaçant quand ils fendent les airs.
 
@@ -231,7 +231,7 @@ Les [nains](./Nain.md) ont accès à l’équipement suivant.
 ## Équipement des races additionnelles
 {s:Reference|AASIMAR}
 ### Équipement aasimar
-Les [aasimars](./Aasimar (race).md) ont accès à l’équipement suivant.
+Les [[aasimar (race)|aasimars]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -253,20 +253,20 @@ Les [aasimars](./Aasimar (race).md) ont accès à l’équipement suivant.
 |}
 </center></div></div>
 
-{s:REFERENCE|AMBROISIE}**Ambroisie.**  La consommation de cet élixir divin, infusion d’eau et d’herbes bénites, accorde un bonus sacré de +2 à tous les [jets de sauvegarde](./jet de sauvegarde.md) contre l’énergie négative, l’absorption d’énergie et les effets de [mort](./Créer un sort.md#MORT) pendant 1 heure, y compris aux jets de sauvegarde pour annuler les niveaux négatifs. L’ambroisie affecte les [morts-vivants](./type Mort-vivant.md) et les [extérieurs](./type Extérieur.md) Mauvais au même titre que l’[eau bénite](./Armes alchimiques.md#Eau bénite).
+{s:REFERENCE|AMBROISIE}**Ambroisie.**  La consommation de cet élixir divin, infusion d’eau et d’herbes bénites, accorde un bonus sacré de +2 à tous les [[jet de sauvegarde|jets de sauvegarde]] contre l’énergie négative, l’absorption d’énergie et les effets de [[Créer un sort#MORT|mort]] pendant 1 heure, y compris aux jets de sauvegarde pour annuler les niveaux négatifs. L’ambroisie affecte les [[type mort-vivant|morts-vivants]] et les [[type extérieur|extérieurs]] Mauvais au même titre que l’[[Armes alchimiques#Eau bénite|eau bénite]].
 
 {s:REFERENCE|ENCENS}**Encens.** Cette résine aromatique, imprégnée d’huiles parfumées, prend souvent la forme de bâtonnets, de cônes ou de boules et est brûlée lors des cérémonies ou des séances de méditation. Une pièce d’encens brûle pendant 1 heure.
 
-{s:REFERENCE|ENCENSOIRCELESTE}**Encensoir céleste.** Cet encensoir béni contient jusqu’à 10 bâtonnets d’encens et brûle à raison de 1 bâtonnet par heure. Si on ajoute un bâton fumigène à l’encens alors qu’il est en train de brûler, les créatures de [sous-type Mal](./sous-type Mal.md) sont [éblouies](./Ébloui.md) tant qu’elles restent dans la zone de fumée produite.
+{s:REFERENCE|ENCENSOIRCELESTE}**Encensoir céleste.** Cet encensoir béni contient jusqu’à 10 bâtonnets d’encens et brûle à raison de 1 bâtonnet par heure. Si on ajoute un bâton fumigène à l’encens alors qu’il est en train de brûler, les créatures de [[sous-type Mal]] sont [[ébloui|éblouies]] tant qu’elles restent dans la zone de fumée produite.
 
-{s:REFERENCE|HUILESAINTE}**Huile sainte.** Cette huile sacrée, infusée avec des épices aromatiques et de l’[eau bénite](./Armes alchimiques.md#Eau bénite) distillée, peut être appliquée sur une créature tandis qu’elle lance un sort divin inoffensif ayant une portée de contact. Ceci augmente le temps d’incantation à une [action complexe](./Action complexe.md), mais accroît également le [niveau de lanceur de sorts](./NLS.md) effectif du lanceur de +1 pour ce sort.
+{s:REFERENCE|HUILESAINTE}**Huile sainte.** Cette huile sacrée, infusée avec des épices aromatiques et de l’[[Armes alchimiques#Eau bénite|eau bénite]] distillée, peut être appliquée sur une créature tandis qu’elle lance un sort divin inoffensif ayant une portée de contact. Ceci augmente le temps d’incantation à une [[action complexe]], mais accroît également le [[NLS|niveau de lanceur de sorts]] effectif du lanceur de +1 pour ce sort.
 
-{s:REFERENCE|LAMPECELESTE}**Lampe céleste.** Cette lanterne polie abrite une flamme éternelle et diffuse de la lumière comme une lampe normale. Si son réservoir de cristal et de pièces de métal consacré est rempli d’[eau bénite](./Armes alchimiques.md#Eau bénite), la lumière de la lampe est sanctifiée pendant 24 heures, rajoutant un bonus de +1 au [DD](./DD.md) du jet de sauvegarde de la [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) positive ou la canalisation d’énergie pour blesser les [extérieurs](./type Extérieur.md) Mauvais situés dans un rayon de 9 mètres.
+{s:REFERENCE|LAMPECELESTE}**Lampe céleste.** Cette lanterne polie abrite une flamme éternelle et diffuse de la lumière comme une lampe normale. Si son réservoir de cristal et de pièces de métal consacré est rempli d’[[Armes alchimiques#Eau bénite|eau bénite]], la lumière de la lampe est sanctifiée pendant 24 heures, rajoutant un bonus de +1 au [[DD]] du jet de sauvegarde de la [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] positive ou la canalisation d’énergie pour blesser les [[type extérieur|extérieurs]] Mauvais situés dans un rayon de 9 mètres.
 
 {s:Reference|DHAMPIR}
 
 ### Équipement dhampir
-Les [dhampirs](./Dhampir (race).md) ont accès à l’équipement suivant.
+Les [[dhampir (race)|dhampirs]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -285,18 +285,18 @@ Les [dhampirs](./Dhampir (race).md) ont accès à l’équipement suivant.
 </center></div></div>
 
 {s:REFERENCE|CARREAUTRANSPERCECOEUR}**Carreau transperce-coeur.**  Spécialement taillés dans de
-l’ébène solide, les carreaux transperce-coeur sont conçus pour tuer les [vampires](./Vampire.md). Il est possible de tirer un carreau transperce-coeur avec n’importe quelle arbalète, mais cela impose un malus de -2 au jet d’attaque et divise par deux le [facteur de portée](./facteur de portée.md) de l’arme. Un vampire touché par un carreau transperce-coeur reçoit les dégâts normaux, mais doit également réussir un jet de [Vigueur](./Vigueur.md) DD 20 ou tomber à terre [sans défense](./Sans défense.md) pendant 1 round. Pendant que le vampire est sans défense, une créature peut tenter de se servir du carreau transperce-coeur pour l’achever en le plantant dans son coeur par une action complexe. Une fois que l’effet débilitant du carreau transperce-coeur se termine, le vampire peut retirer le carreau par une action de mouvement.
-Un vampire tué par un carreau transperce-coeur est soumis aux règles et limitations qu’implique le fait de tuer un vampire avec un pieu en bois, comme précisé dans les faiblesses des [vampires](./Vampire.md).
+l’ébène solide, les carreaux transperce-coeur sont conçus pour tuer les [[vampire|vampires]]. Il est possible de tirer un carreau transperce-coeur avec n’importe quelle arbalète, mais cela impose un malus de -2 au jet d’attaque et divise par deux le [[facteur de portée]] de l’arme. Un vampire touché par un carreau transperce-coeur reçoit les dégâts normaux, mais doit également réussir un jet de [[Vigueur]] DD 20 ou tomber à terre [[sans défense]] pendant 1 round. Pendant que le vampire est sans défense, une créature peut tenter de se servir du carreau transperce-coeur pour l’achever en le plantant dans son coeur par une action complexe. Une fois que l’effet débilitant du carreau transperce-coeur se termine, le vampire peut retirer le carreau par une action de mouvement.
+Un vampire tué par un carreau transperce-coeur est soumis aux règles et limitations qu’implique le fait de tuer un vampire avec un pieu en bois, comme précisé dans les faiblesses des [[vampire|vampires]].
 Un carreau transperce-coeur inflige les dégâts normaux de l’arbalète de son type.
 
-{s:REFERENCE|COLDEPROTECTION}**Col de protection.** Fait de cuir bouilli renforcé d’une bande de métal, ce col protège le porteur contre les morsures de [vampire](./Vampire.md) lorsqu’il le porte autour du cou. Il fournit un bonus d’armure de +1 à la [CA](./CA.md) contre les morsures de vampires ou attaques similaires visant spécifiquement le cou du porteur. Contrairement à la plupart des bonus d’armure, le bonus de +1 du col de protection se cumule avec le bonus d’armure des armures légères ou intermédiaires mais n’offre aucun bonus supplémentaire lorsqu’il est porté avec une armure lourde.
+{s:REFERENCE|COLDEPROTECTION}**Col de protection.** Fait de cuir bouilli renforcé d’une bande de métal, ce col protège le porteur contre les morsures de [[vampire]] lorsqu’il le porte autour du cou. Il fournit un bonus d’armure de +1 à la [[CA]] contre les morsures de vampires ou attaques similaires visant spécifiquement le cou du porteur. Contrairement à la plupart des bonus d’armure, le bonus de +1 du col de protection se cumule avec le bonus d’armure des armures légères ou intermédiaires mais n’offre aucun bonus supplémentaire lorsqu’il est porté avec une armure lourde.
 
-{s:REFERENCE|KITDUTUEURDEVAMPIRES}**Kit du tueur de vampires.** Cette petite mallette en bois verrouillée contient de nombreux outils et appareils utilisés par les chasseurs et tueurs de [vampires](./Vampire.md). Elle contient 10 gousses d’ail, 4 pieux de bois de maître, un marteau, un miroir en argent, 4 fioles d’[eau bénite](./Armes alchimiques.md#Eau bénite), une application de lustrargent et un symbole sacré de maître. Elle contient également de nombreux agents réactifs et des poudres pour traiter les blessures et créer des enchantements de protection, des baumes et autres concoctions. En plus de son utilité générale, le kit du tueur de vampire déployé accorde un bonus de +2 à tous les tests de compétences basées sur le [Charisme](./Charisme.md) pour enquêter sur les vampires ou les traquer.
+{s:REFERENCE|KITDUTUEURDEVAMPIRES}**Kit du tueur de vampires.** Cette petite mallette en bois verrouillée contient de nombreux outils et appareils utilisés par les chasseurs et tueurs de [[vampire|vampires]]. Elle contient 10 gousses d’ail, 4 pieux de bois de maître, un marteau, un miroir en argent, 4 fioles d’[[Armes alchimiques#Eau bénite|eau bénite]], une application de lustrargent et un symbole sacré de maître. Elle contient également de nombreux agents réactifs et des poudres pour traiter les blessures et créer des enchantements de protection, des baumes et autres concoctions. En plus de son utilité générale, le kit du tueur de vampire déployé accorde un bonus de +2 à tous les tests de compétences basées sur le [[Charisme]] pour enquêter sur les vampires ou les traquer.
 
 
 {s:Reference|DROW}
 ### Équipement drow
-Les [drows](./Drow (race).md) ont accès à l’équipement suivant.
+Les [[drow (race)|drows]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -326,19 +326,19 @@ Les [drows](./Drow (race).md) ont accès à l’équipement suivant.
 
 {s:cm}{s:REFERENCE|ATTIREARAIGNEE}**Attire-araignée** Ce liquide alchimique visqueux et translucide émet une puissante odeur chimique dès qu’il est exposé à l’air libre. Il attire les vermines qui prennent toute créature affublée de cette odeur pour une proie. Les araignées, les insectes et autres vermines du même genre reçoivent un bonus de +5 aux tests de Perception et aux jets d’attaque contre les créatures marquées avec de l’attire-araignée. Si ces vermines bénéficient du pouvoir odorat, elles repèrent la créature marquée au quintuple de la distance habituelle, déterminent la direction dans laquelle elle se trouve avec une action rapide et localisent sa position exacte dans un rayon de 7,75 mètres. Les drows utilisent parfois l’attire-araignée comme poison de contact ou arme d’aspersion, ce qui leur permet de battre en retraite, de se regrouper ou de gagner une position plus avantageuse pendant que la vermine concentre ses attaques sur les cibles marquées. Pour se débarrasser de l’attire-araignée, il faut une action complexe et au moins 4,50 litres d’eau ou d’un liquide nettoyant. Sans cela, le produit fait effet pendant 1 heure. Pour fabriquer de l’attire-araignée, il faut réussir un test d’Artisanat (alchimie) DD 20.
 
-{s:REFERENCE|GECKODESELLE}**Gecko de selle.** Plus grands encore que ce que l’on appelle communément le gecko géant, ces lézards éléphantesques sont spécifiquement conçus pour servir de montures aux drows. Recherchés pour leur capacité à parcourir les plafonds des grottes et les parois à pic, il faut une selle exotique pour monter ces créatures. Utilisez les caractéristiques du [gecko géant](./Gecko géant.md) avec l’[archétype géant](./Archétypes.md#CREATUREGEANTE).
+{s:REFERENCE|GECKODESELLE}**Gecko de selle.** Plus grands encore que ce que l’on appelle communément le gecko géant, ces lézards éléphantesques sont spécifiquement conçus pour servir de montures aux drows. Recherchés pour leur capacité à parcourir les plafonds des grottes et les parois à pic, il faut une selle exotique pour monter ces créatures. Utilisez les caractéristiques du [[gecko géant]] avec l’[[Archétypes#CREATUREGEANTE|archétype géant]].
 
 {s:cm}{s:REFERENCE|GRAISSETUELUMIERE}**Graisse tue-lumière** Les drows savent bien qu’ils sont vulnérables à la lumière et que leurs ennemis s’en servent comme d’une arme, ils ont donc inventé diverses manières de se protéger contre elle, qu’elle soit d’origine magique ou non. La graisse tue-lumière est une substance alchimique odorante et huileuse fabriquée à partir de champignons souterrains et de minéraux issus des profondeurs de la terre et réduits en poudre. Quand le mélange est fait dans les bonnes proportions, la substance goudronneuse absorbe la lumière. Pour s’en servir, il faut se l’appliquer autour des yeux (par une action complexe). Elle annule alors l’effet préjudiciable ébloui lié à l’exposition à une lumière vive et offre un bonus alchimique de +1 aux jets de sauvegarde contre les sorts et effets du registre de la lumière. La graisse émet une odeur très puissante et toute créature dotée du pouvoir odorat peut repérer la position d’une créature usant de graisse tue-lumière dans un rayon de 3 mètres au lieu de 1,50 mètre. Une fois la graisse appliquée, elle fait effet pendant une heure. Il faut dépenser une action complexe et 4,5 litres d’eau ou de liquide nettoyant pour s’en débarrasser. Sinon, la créature peut éliminer les marques visibles de la graisse (et mettre fin à leur effet) mais l’odeur persiste jusqu’à la fin de la durée prévue. Pour fabriquer de la graisse tue-lumière, il faut réussir un test d’Artisanat (alchimie) DD 15.
 
-{s:REFERENCE|MONTURECHAUVESOURIS}**Monture chauve-souris.** Considérées comme le moyen de transport non-magique le plus rapide d’Ombreterre, les [chauves-souris sanguinaires](./Chauve-souris sanguinaire.md) sont domestiquées en captivité pour servir d’animaux de selle. On ne trouve couramment les étables accueillant ces énormes créatures que dans les cités drows bâties dans de grandes grottes souterraines : les grands espaces sont indispensables à leur formation et à leur entraînement. Cependant, certains cavaliers drows les font voler presque jusqu’à la surface. Il est nécessaire d’utiliser une selle exotique pour monter ces créatures.
+{s:REFERENCE|MONTURECHAUVESOURIS}**Monture chauve-souris.** Considérées comme le moyen de transport non-magique le plus rapide d’Ombreterre, les [[chauve-souris sanguinaire|chauves-souris sanguinaires]] sont domestiquées en captivité pour servir d’animaux de selle. On ne trouve couramment les étables accueillant ces énormes créatures que dans les cités drows bâties dans de grandes grottes souterraines : les grands espaces sont indispensables à leur formation et à leur entraînement. Cependant, certains cavaliers drows les font voler presque jusqu’à la surface. Il est nécessaire d’utiliser une selle exotique pour monter ces créatures.
 
-{s:REFERENCE|POCHEARAIGNEE}**Poche-araignée.** Contrairement à ce qu’indique son nom, la poche-araignée n’a rien à voir avec les araignées, mais correspond plutôt à un outil alchimique doté d’un système de rangement unique. Utilisés pour l’escalade aussi bien que pour le combat, ces petits sacs grisâtres en forme de gourde sont créés à partir d’un champignon spécialement cultivé avec une paroi extérieure résistante, mais caoutchouteuse. Le fongoïde est soigneusement récolté, percé à une extrémité, évidé puis rempli d’un solide adhésif alchimique qui se solidifie pour former un matériau fibreux presque instantanément lorsqu’il est exposé à l’air. Quand on presse la poche-araignée, son adhésif s’élance à une portée maximale de 3 mètres pour se fixer à ce qu’il vient heurter, puis le fil sèche aussitôt pour former une solide corde fibreuse. Quand il s’agit d’escalader, considérez la poche-araignée comme un [grappin](./Équipement daventurier.md#Grappin), à la seule différence que toutes les surfaces ont une CA de 5. La poche-araignée peut également servir de [lasso](./Descriptions individuelles des armes.md#LASSO), à la seule différence qu’il a une CA de 10, 4 points de vie et nécessite un test de [Force](./Force.md) DD 24 pour être lancé. La poche-araignée est un objet à usage unique.
+{s:REFERENCE|POCHEARAIGNEE}**Poche-araignée.** Contrairement à ce qu’indique son nom, la poche-araignée n’a rien à voir avec les araignées, mais correspond plutôt à un outil alchimique doté d’un système de rangement unique. Utilisés pour l’escalade aussi bien que pour le combat, ces petits sacs grisâtres en forme de gourde sont créés à partir d’un champignon spécialement cultivé avec une paroi extérieure résistante, mais caoutchouteuse. Le fongoïde est soigneusement récolté, percé à une extrémité, évidé puis rempli d’un solide adhésif alchimique qui se solidifie pour former un matériau fibreux presque instantanément lorsqu’il est exposé à l’air. Quand on presse la poche-araignée, son adhésif s’élance à une portée maximale de 3 mètres pour se fixer à ce qu’il vient heurter, puis le fil sèche aussitôt pour former une solide corde fibreuse. Quand il s’agit d’escalader, considérez la poche-araignée comme un [[Équipement daventurier#Grappin|grappin]], à la seule différence que toutes les surfaces ont une CA de 5. La poche-araignée peut également servir de [[Descriptions individuelles des armes#LASSO|lasso]], à la seule différence qu’il a une CA de 10, 4 points de vie et nécessite un test de [[Force]] DD 24 pour être lancé. La poche-araignée est un objet à usage unique.
 
 
 {s:Reference|FETCHELIN}
 
 ### Équipement fetchelin
-Les [fetchelins](./Fetchelin (race).md) ont accès à l'équipement suivant.
+Les [[fetchelin (race)|fetchelins]] ont accès à l'équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -357,19 +357,19 @@ Les [fetchelins](./Fetchelin (race).md) ont accès à l'équipement suivant.
 </center></div></div>
 
 {s:REFERENCE|LANTERNEDELUMIERENOIRE}
-**Lanterne de lumière noire.** Cette lanterne ne brûle pas de l’huile, mais du [nectar d’ombre](./équipements raciaux.md#NECTARDOMBRE). Lorsque le nectar d’ombre est utilisé comme combustible, cette lanterne crée des ténèbres étranges et floues qui diminuent la luminosité d’un degré dans un rayon de 9 mètres (6 {s:c}) (voir article [vision et lumière](./Exploration.md#VISIONLUMIERE)). Contrairement à ce qui se passe lorsque le nectar d’ombre est lancé sur une seule cible, ce flou ne transforme pas les ténèbres naturelles en ténèbres surnaturelles. Une fiole de nectar d’ombre alimente une lanterne de lumière noire pendant 1 minute.
+**Lanterne de lumière noire.** Cette lanterne ne brûle pas de l’huile, mais du [[équipements raciaux#NECTARDOMBRE|nectar d’ombre]]. Lorsque le nectar d’ombre est utilisé comme combustible, cette lanterne crée des ténèbres étranges et floues qui diminuent la luminosité d’un degré dans un rayon de 9 mètres (6 {s:c}) (voir article [[Exploration#VISIONLUMIERE|vision et lumière]]). Contrairement à ce qui se passe lorsque le nectar d’ombre est lancé sur une seule cible, ce flou ne transforme pas les ténèbres naturelles en ténèbres surnaturelles. Une fiole de nectar d’ombre alimente une lanterne de lumière noire pendant 1 minute.
 
 
 {s:REFERENCE|LUNETTESDEVISIONNOCTURNE}
-**Lunettes de vision obscure.** Ces lunettes non-magiques sont taillées dans de la pierre semblable à de l’obsidienne, noire et traitée alchimiquement, que l’on trouve dans les régions montagneuses du plan de l’Ombre. Les lunettes de vision obscure s’adaptent aux yeux uniques des fetchelins de telle manière que lorsqu’ils les portent, elles allongent la portée de leur vision dans le noir à 27 mètres (18 {s:c}). Cependant ils gagnent également la faiblesse [sensibilité à la lumière](./Sensibilité à la lumière (capacité).md). Les autres races ne peuvent pas voir à travers les lentilles de ces lunettes : elles n’ont aucun effet sur les fetchelins dont les yeux ont été modifiés par le don [Vision ténébreuse](./Vision ténébreuse.md). Bien qu’elles soient davantage de nature alchimique que magique, ces lunettes occupent l’emplacement yeux des objets magiques.
+**Lunettes de vision obscure.** Ces lunettes non-magiques sont taillées dans de la pierre semblable à de l’obsidienne, noire et traitée alchimiquement, que l’on trouve dans les régions montagneuses du plan de l’Ombre. Les lunettes de vision obscure s’adaptent aux yeux uniques des fetchelins de telle manière que lorsqu’ils les portent, elles allongent la portée de leur vision dans le noir à 27 mètres (18 {s:c}). Cependant ils gagnent également la faiblesse [[Sensibilité à la lumière (capacité)|sensibilité à la lumière]]. Les autres races ne peuvent pas voir à travers les lentilles de ces lunettes : elles n’ont aucun effet sur les fetchelins dont les yeux ont été modifiés par le don [[Vision ténébreuse]]. Bien qu’elles soient davantage de nature alchimique que magique, ces lunettes occupent l’emplacement yeux des objets magiques.
 
 {s:REFERENCE|NECTARDOMBRE}
-**Nectar d’ombre.** Ce léger liquide noir est conservé dans des fioles hermétiques parce qu’il s’évapore très vite au contact de l’air. Ses vapeurs écœurantes s’accrochent à une cible et obscurcissent sa vision pour une courte durée. Il est possible de lancer une fiole de nectar d’ombre comme une arme à aspersion avec un facteur de portée de 3 mètres (2 {s:c}). Si la cible est touchée directement, elle considère alors la luminosité ambiante comme plus faible que la normale d’une catégorie (voir article [vision et lumière](./Exploration.md#VISIONLUMIERE)), et une créature déjà plongée dans les ténèbres naturelles sera considérée comme plongée dans des ténèbres surnaturelles. Cet effet dure 1 round. Une fiole de nectar d’ombre lancée n’a aucun effet sur les créatures adjacentes ou si elle manque sa cible.
+**Nectar d’ombre.** Ce léger liquide noir est conservé dans des fioles hermétiques parce qu’il s’évapore très vite au contact de l’air. Ses vapeurs écœurantes s’accrochent à une cible et obscurcissent sa vision pour une courte durée. Il est possible de lancer une fiole de nectar d’ombre comme une arme à aspersion avec un facteur de portée de 3 mètres (2 {s:c}). Si la cible est touchée directement, elle considère alors la luminosité ambiante comme plus faible que la normale d’une catégorie (voir article [[Exploration#VISIONLUMIERE|vision et lumière]]), et une créature déjà plongée dans les ténèbres naturelles sera considérée comme plongée dans des ténèbres surnaturelles. Cet effet dure 1 round. Une fiole de nectar d’ombre lancée n’a aucun effet sur les créatures adjacentes ou si elle manque sa cible.
 
 
 {s:Reference|GOBELIN}
 ### Équipement gobelin
-Les [gobelins](./Gobelin (race).md) ont accès à l'équipement suivant.
+Les [[gobelin (race)|gobelins]] ont accès à l'équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -393,13 +393,13 @@ Les [gobelins](./Gobelin (race).md) ont accès à l'équipement suivant.
 |}
 </center></div></div>
 
-{s:REFERENCE|APAISETRIPES}**Apaise-tripes.** La consommation de cette fiole de liquide bleuâtre insipide accorde un bonus alchimique de +5 aux [Valeurs de combat#JETDESAUVEGARDE#jets de sauvegarde](./Valeurs de combat.md#JETDESAUVEGARDE#jets de sauvegarde) pour éviter d’être [nauséeux](./États préjudiciables.md#Nauséeux) ou [fiévreux](./États préjudiciables.md#fiévreux) pendant 1 heure. Si le gobelin est déjà nauséeux, il peut boire de l’apaise-tripes par une [action de mouvement](./Actions de mouvement.md). Sa consommation lui donne droit à un second jet de sauvegarde (sans le bonus de +5). Les gobelins utilisent souvent l’apaise-tripes pour pouvoir avaler la viande ou d’autres formes de nourriture avariées ou dans un état de décomposition avancé.
+{s:REFERENCE|APAISETRIPES}**Apaise-tripes.** La consommation de cette fiole de liquide bleuâtre insipide accorde un bonus alchimique de +5 aux [[Valeurs de combat#JETDESAUVEGARDE#jets de sauvegarde]] pour éviter d’être [[États préjudiciables#Nauséeux|nauséeux]] ou [[États préjudiciables#fiévreux|fiévreux]] pendant 1 heure. Si le gobelin est déjà nauséeux, il peut boire de l’apaise-tripes par une [[Actions de mouvement|action de mouvement]]. Sa consommation lui donne droit à un second jet de sauvegarde (sans le bonus de +5). Les gobelins utilisent souvent l’apaise-tripes pour pouvoir avaler la viande ou d’autres formes de nourriture avariées ou dans un état de décomposition avancé.
 
-{s:cm}{s:REFERENCE|HARNAISDEVOL}**Harnais de vol.** Ce harnais de cuir rudimentaire sert à attacher un gobelin ou une autre créature de taille P sous une [chauve-souris sanguinaire](./Chauve-souris sanguinaire.md) ou un [vautour géant](./Vautour géant.md). Il est considéré comme une selle exotique. Si la monture rate son test de Vol, il y a 50 % de chances que le harnais se brise et que le cavalier tombe. Le harnais de maître compte comme une selle de guerre exotique et ne risque pas de casser si la monture rate son test de Vol.
+{s:cm}{s:REFERENCE|HARNAISDEVOL}**Harnais de vol.** Ce harnais de cuir rudimentaire sert à attacher un gobelin ou une autre créature de taille P sous une [[chauve-souris sanguinaire]] ou un [[vautour géant]]. Il est considéré comme une selle exotique. Si la monture rate son test de Vol, il y a 50 % de chances que le harnais se brise et que le cavalier tombe. Le harnais de maître compte comme une selle de guerre exotique et ne risque pas de casser si la monture rate son test de Vol.
 
 {s:REFERENCE|LANCEBOMBE}**Lance-bombe.**Ces vieux engins bizarres en forme d’œuf sont dotés de nageoires stratégiquement placées qui augmentent la précision des bombes. Les alchimistes gobelins utilisent ces conteneurs pour donner plus de précision à leurs bombes lorsqu’ils les lancent sur de longues distances. L’utilisation d’un lance-bombe pour jeter une bombe augmente le facteur de portée de celle-ci de 9 mètres (6 {s:c}) ou, avec la découverte bombe-fusée, augmente le facteur de portée de la bombe de 21 mètres(14 {s:c}). Les lance-bombes sont détruits après utilisation.
 
-{s:REFERENCE|RACINEVELOUTEE}**Racine veloutée.** Les chefs gobelins les plus sournois donnent cette pâte orange aux guerriers de leur tribu avant de leur proposer de lancer une attaque particulièrement audacieuse. La consommation de racine veloutée induit un sentiment d’euphorie qui donne une impression d’invulnérabilité. Pendant 1 heure après la consommation de la racine veloutée, le gobelin gagne un bonus alchimique de +5 contre les effets de terreur. Néanmoins, alors qu’il est sous les effets de la racine veloutée, il doit réussir un jet de [Volonté](./Volonté.md) DD 15 quand il tente de quitter une zone menacée par un adversaire. S’il échoue, il ne peut pas fuir la zone menacée avec cette action, mais ne perd pas son action.
+{s:REFERENCE|RACINEVELOUTEE}**Racine veloutée.** Les chefs gobelins les plus sournois donnent cette pâte orange aux guerriers de leur tribu avant de leur proposer de lancer une attaque particulièrement audacieuse. La consommation de racine veloutée induit un sentiment d’euphorie qui donne une impression d’invulnérabilité. Pendant 1 heure après la consommation de la racine veloutée, le gobelin gagne un bonus alchimique de +5 contre les effets de terreur. Néanmoins, alors qu’il est sous les effets de la racine veloutée, il doit réussir un jet de [[Volonté]] DD 15 quand il tente de quitter une zone menacée par un adversaire. S’il échoue, il ne peut pas fuir la zone menacée avec cette action, mais ne perd pas son action.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -411,7 +411,7 @@ Les [gobelins](./Gobelin (race).md) ont accès à l'équipement suivant.
 |-
 | Tranchechien || 8 po || 1d4 || 1d6 || 19-20/x2 || 1/2 kg || T || fragile
 |-
-| Coupecheval || 10 po || 1d8 || 1d10 || ×3 || 6 kg || P ou T || [Croc-en-jambe](./Tableau récapitulatif des armes.md#CROCENJAMBE), [réception](./Tableau récapitulatif des armes.md#RECEPTION)
+| Coupecheval || 10 po || 1d8 || 1d10 || ×3 || 6 kg || P ou T || [[Tableau récapitulatif des armes#CROCENJAMBE|Croc-en-jambe]], [[Tableau récapitulatif des armes#RECEPTION|réception]]
 |}
 </center></div></div>
 
@@ -422,7 +422,7 @@ Les [gobelins](./Gobelin (race).md) ont accès à l'équipement suivant.
 {s:Reference|HOBGOBELIN}
 
 ### Équipement hobgobelin
-Les [hobgobelins](./Hobgobelin (race).md) ont accès à l’équipement suivant.
+Les [[hobgobelin (race)|hobgobelins]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -460,7 +460,7 @@ Les [hobgobelins](./Hobgobelin (race).md) ont accès à l’équipement suivant.
 
 {s:Reference|HOMMEFELIN}
 ### Équipement homme-félin
-Les [hommes-félins](./homme-félin (race).md) ont accès à l’équipement suivant.
+Les [[homme-félin (race)|hommes-félins]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -478,16 +478,16 @@ Les [hommes-félins](./homme-félin (race).md) ont accès à l’équipement sui
 |}
 </center></div></div>
 
-{s:REFERENCE|BOTTESDEVELOURS}**Bottes de velours.** Ces bottes douces et très fines sont faites en soie et en cuir spécialement traité. Elles sont spécifiquement conçues pour les pieds des hommes-félins et s’adaptent à leur morphologie afin d’étouffer les bruits de pas et de réduire les empreintes laissées derrière eux. Lorsqu’il porte ces bottes de velours, l’homme-félin bénéficie d’un bonus de circonstances de +1 à ses tests de [Discrétion](./Discrétion.md). En outre, le [DD](./DD.md) pour repérer ou suivre la piste d’un homme-félin portant ces bottes augmente de +2.
+{s:REFERENCE|BOTTESDEVELOURS}**Bottes de velours.** Ces bottes douces et très fines sont faites en soie et en cuir spécialement traité. Elles sont spécifiquement conçues pour les pieds des hommes-félins et s’adaptent à leur morphologie afin d’étouffer les bruits de pas et de réduire les empreintes laissées derrière eux. Lorsqu’il porte ces bottes de velours, l’homme-félin bénéficie d’un bonus de circonstances de +1 à ses tests de [[Discrétion]]. En outre, le [[DD]] pour repérer ou suivre la piste d’un homme-félin portant ces bottes augmente de +2.
 
-{s:REFERENCE|GRIFFESMETALLIQUES}**Griffes métalliques.** Ces lames subtiles ne peuvent être utilisées que par les hommes-félins ayant le trait racial griffes du félin. Achetées par lots de cinq, elles s’adaptent aux griffes du porteur sur une main. Les lames accordent un bonus d’altération de +1 aux [jets d’attaque](./jet dattaque.md) de griffe que le porteur effectue de cette main et modifient le type d’arme : d’arme naturelle, elle devient une arme légère tranchante. Les hommes-félins ayant le trait racial griffes du félin sont formés au maniement de cette arme. Il est possible d’améliorer les griffes métalliques comme une arme de maître au prix normal. Le coût indiqué pour l’objet s’applique à un ensemble de cinq lames pour une main.
+{s:REFERENCE|GRIFFESMETALLIQUES}**Griffes métalliques.** Ces lames subtiles ne peuvent être utilisées que par les hommes-félins ayant le trait racial griffes du félin. Achetées par lots de cinq, elles s’adaptent aux griffes du porteur sur une main. Les lames accordent un bonus d’altération de +1 aux [[jet dattaque|jets d’attaque]] de griffe que le porteur effectue de cette main et modifient le type d’arme : d’arme naturelle, elle devient une arme légère tranchante. Les hommes-félins ayant le trait racial griffes du félin sont formés au maniement de cette arme. Il est possible d’améliorer les griffes métalliques comme une arme de maître au prix normal. Le coût indiqué pour l’objet s’applique à un ensemble de cinq lames pour une main.
 
-{s:REFERENCE|TROUSSEDEMARQUAGEOLFACTIF}**Trousse de marquage olfactif.** Cette petite boîte de phéromones d’hommes-félins spécialement préparées et de réactifs alchimiques peut être utilisée pour laisser des odeurs subtiles, mais tenaces que seuls les hommes-félins peuvent sentir et déchiffrer. S’il prend une minute, l’homme-félin peut créer une fragrance à appliquer sur un objet solide comme un arbre, un mur ou même un objet plus petit, comme une arme ou une fiole de potion. Lorsqu’il fait cela, l’homme-félin laisse une de ces impressions derrière lui : danger, nourriture, abri ou propriété. L’impression de propriété est toujours liée à l’homme-félin particulier qui utilise la trousse et signifie que le territoire ou l’objet lui appartient. D’autres races peuvent tenter d’utiliser cette trousse pour créer une impression de danger, de nourriture ou d’abri, mais pour cela, elles doivent réussir un test d’[Artisanat](./Artisanat.md) (alchimie) [DD](./DD.md) 20. Un homme-félin peut détecter une odeur particulière générée grâce à une trousse de marquage olfactif dans un rayon de 9 mètres (6 {s:c}). Si l’odeur est charriée par le vent, la portée à laquelle l’homme-félin peut la repérer passe à 18 mètres (12 {s:c}) ; si elle est sous le vent, la portée tombe à 4,5 mètres (3 {s:c}). Un homme-félin ayant la particularité raciale odorat double ces distances. Une impression odorante dure un an ou jusqu’à ce que l’objet soit nettoyé. Chaque trousse est prévue pour 10 utilisations.
+{s:REFERENCE|TROUSSEDEMARQUAGEOLFACTIF}**Trousse de marquage olfactif.** Cette petite boîte de phéromones d’hommes-félins spécialement préparées et de réactifs alchimiques peut être utilisée pour laisser des odeurs subtiles, mais tenaces que seuls les hommes-félins peuvent sentir et déchiffrer. S’il prend une minute, l’homme-félin peut créer une fragrance à appliquer sur un objet solide comme un arbre, un mur ou même un objet plus petit, comme une arme ou une fiole de potion. Lorsqu’il fait cela, l’homme-félin laisse une de ces impressions derrière lui : danger, nourriture, abri ou propriété. L’impression de propriété est toujours liée à l’homme-félin particulier qui utilise la trousse et signifie que le territoire ou l’objet lui appartient. D’autres races peuvent tenter d’utiliser cette trousse pour créer une impression de danger, de nourriture ou d’abri, mais pour cela, elles doivent réussir un test d’[[Artisanat]] (alchimie) [[DD]] 20. Un homme-félin peut détecter une odeur particulière générée grâce à une trousse de marquage olfactif dans un rayon de 9 mètres (6 {s:c}). Si l’odeur est charriée par le vent, la portée à laquelle l’homme-félin peut la repérer passe à 18 mètres (12 {s:c}) ; si elle est sous le vent, la portée tombe à 4,5 mètres (3 {s:c}). Un homme-félin ayant la particularité raciale odorat double ces distances. Une impression odorante dure un an ou jusqu’à ce que l’objet soit nettoyé. Chaque trousse est prévue pour 10 utilisations.
 
 
 {s:Reference|HOMMERAT}
 ### Équipement homme-rat
-Les [hommes-rats](./Homme-rat (race).md) ont accès à l’équipement suivant.
+Les [[homme-rat (race)|hommes-rats]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -509,7 +509,7 @@ Les [hommes-rats](./Homme-rat (race).md) ont accès à l’équipement suivant.
 
 {s:REFERENCE|ENCRENAUSEABONDE}**Encre nauséabonde.** L’encre nauséabonde est une encre spéciale et âcre à base de musc qui permet à l’utilisateur d’encoder les informations par l’odeur plutôt que visuellement. L’encre nauséabonde s’éclaircit en séchant, mais son odeur âcre extrêmement localisée peut être perçue par ceux qui ont le nez suffisamment sensible pour lire en utilisant leur odorat. Seules les créatures ayant le trait sens aiguisés ou la capacité odorat peuvent lire l’encre nauséabonde sans s’aider de magie. Lire ou écrire quelque chose à l’encre nauséabonde prend deux fois plus de temps que de lire ou d’écrire la même quantité d’informations à l’encre normale.
 
-{s:REFERENCE|ENCRENAUSEABONDEMAGIQUE}**Encre nauséabonde magique.** Surtout répandue chez les hommes-rats alchimistes, l’encre nauséabonde magique est utilisée pour noter des formules ou des sorts dans des recueils de formules ou des grimoires. Comme l’encre nauséabonde normale, la version magique ne peut être lue que par des créatures ayant la capacité odorat (bien que *[lecture de la magie](./Lecture de la magie.md)* fonctionne normalement sur les sorts et les formules magiques écrits à l’encre nauséabonde). L’utilisation d’encre nauséabonde magique pour écrire un sort ou une formule dans un livre coûte +10 % du coût normal.
+{s:REFERENCE|ENCRENAUSEABONDEMAGIQUE}**Encre nauséabonde magique.** Surtout répandue chez les hommes-rats alchimistes, l’encre nauséabonde magique est utilisée pour noter des formules ou des sorts dans des recueils de formules ou des grimoires. Comme l’encre nauséabonde normale, la version magique ne peut être lue que par des créatures ayant la capacité odorat (bien que *[[lecture de la magie]]* fonctionne normalement sur les sorts et les formules magiques écrits à l’encre nauséabonde). L’utilisation d’encre nauséabonde magique pour écrire un sort ou une formule dans un livre coûte +10 % du coût normal.
 
 {s:REFERENCE|POCHEDEVEROLE}**Poche de vérole.** Une poche de vérole est une gourde ou vessie animale alchimiquement protégée que l’on a remplie de matériaux toxiques en décomposition. Le personnage peut lancer une poche de vérole comme une
 arme à dispersion. Traitez cette attaque comme une attaque de contact à distance avec un facteur de portée de 3 mètres. Si la cible est touchée directement, elle doit faire un jet de Vigueur DD 13 ou contracter la fièvre des marais. Tous les espaces adjacents à la case occupée par la cible de la poche de vérole sont recouverts de saletés infectieuses. Au cours de la minute qui suit, toutes les créatures blessées se trouvant dans l’un de ces espaces doivent également réussir un jet de Vigueur DD 9 ou contracter la fièvre des marais.
@@ -535,7 +535,7 @@ arme à dispersion. Traitez cette attaque comme une attaque de contact à distan
 
 
 ### Équipement ifrit
-Les [ifrits](./Ifrit (race).md) ont accès à l’équipement suivant.
+Les [[ifrit (race)|ifrits]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -559,7 +559,7 @@ utilisée pour créer des tatouages qui brillent en permanence.
 
 {s:Reference|KOBOLD}
 ### Équipement kobold
-Les [kobolds](./Kobold (race).md) ont accès à l’équipement suivant.
+Les [[kobold (race)|kobolds]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -581,7 +581,7 @@ Les [kobolds](./Kobold (race).md) ont accès à l’équipement suivant.
 |}
 </center></div></div>
 
-{s:REFERENCE|ACCESSOIRESCAUDAUX}**Accessoires caudaux des kobolds.** Un kobold ayant le don [Queue de terreur](./Queue de terreur.md) peut fixer ces accessoires sur le bout de sa queue pour améliorer son attaque naturelle. Chaque accessoire caudal fournit juste assez de poids, d’équilibre et de puissance de frappe pour augmenter les dégâts de son coup de queue. Il faut une action complexe pour fixer un accessoire caudal de kobold, et celui-ci reçoit un bonus de +4 contre les tentatives de désarmement visant à détacher son accessoire caudal. Lorsqu’un kobold porte un accessoire caudal, l’attaque inflige les dégâts de l’accessoire caudal et certains bénéficient d’une caractéristique spéciale. Les accessoires caudaux sont des armes légères et peuvent être améliorés avec des dons augmentant les attaques d’arme (comme [Arme de prédilection](./Arme de prédilection.md) et [Spécialisation martiale](./Spécialisation martiale.md)). Tous les accessoires caudaux de kobold forment un groupe d’armes pouvant être améliorées par la capacité formation martiale du guerrier. Ils peuvent être d’un matériau spécial et fabriqués comme des objets de maître ou magiques. Il y a cinq types d’accessoires caudaux de base. ***Balai. ***Correctement utilisée, cette pièce de métal très incurvée peut renverser les adversaires. Contrairement à la plupart des armes de croc-en-jambe, le kobold ne peut pas la lâcher s’il tombe lors de sa propre tentative de croc-en-jambe. ***Lame.*** Ce morceau de métal a une arête couverte de piquants. ***Long fouet.*** Cette fine corde est incrustée de tout petits bouts de verre et de pierre sur toute la longueur. ***Pieu.*** Ce pieu étroit se termine en une pointe acérée. ***Poids.*** Cette boule ramassée est faite dans une sorte de métal terne.
+{s:REFERENCE|ACCESSOIRESCAUDAUX}**Accessoires caudaux des kobolds.** Un kobold ayant le don [[Queue de terreur]] peut fixer ces accessoires sur le bout de sa queue pour améliorer son attaque naturelle. Chaque accessoire caudal fournit juste assez de poids, d’équilibre et de puissance de frappe pour augmenter les dégâts de son coup de queue. Il faut une action complexe pour fixer un accessoire caudal de kobold, et celui-ci reçoit un bonus de +4 contre les tentatives de désarmement visant à détacher son accessoire caudal. Lorsqu’un kobold porte un accessoire caudal, l’attaque inflige les dégâts de l’accessoire caudal et certains bénéficient d’une caractéristique spéciale. Les accessoires caudaux sont des armes légères et peuvent être améliorés avec des dons augmentant les attaques d’arme (comme [[Arme de prédilection]] et [[Spécialisation martiale]]). Tous les accessoires caudaux de kobold forment un groupe d’armes pouvant être améliorées par la capacité formation martiale du guerrier. Ils peuvent être d’un matériau spécial et fabriqués comme des objets de maître ou magiques. Il y a cinq types d’accessoires caudaux de base. ***Balai. ***Correctement utilisée, cette pièce de métal très incurvée peut renverser les adversaires. Contrairement à la plupart des armes de croc-en-jambe, le kobold ne peut pas la lâcher s’il tombe lors de sa propre tentative de croc-en-jambe. ***Lame.*** Ce morceau de métal a une arête couverte de piquants. ***Long fouet.*** Cette fine corde est incrustée de tout petits bouts de verre et de pierre sur toute la longueur. ***Pieu.*** Ce pieu étroit se termine en une pointe acérée. ***Poids.*** Cette boule ramassée est faite dans une sorte de métal terne.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -611,7 +611,7 @@ pendant 1 round. Une créature qui réussit un jet de Réflexes DD 15 ne reçoit
 {s:Reference|ONDIN}
 
 ### Équipement ondin
-Les [ondins](./Ondin (race).md) ont accès à l’équipement suivant.
+Les [[ondin (race)|ondins]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -638,7 +638,7 @@ aux attaques visant spécifiquement le cristal, le verre, la céramique ou la po
 
 {s:Reference|ORQUE}
 ### Équipement orque
-Les [orques](./orque (race).md) ont accès à l’équipement suivant.
+Les [[orque (race)|orques]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -665,7 +665,7 @@ Les [orques](./orque (race).md) ont accès à l’équipement suivant.
 
 {s:Reference|OREADE}
 ### Équipement oréade
-Les [oréades](./Oréade (race).md) ont accès à l’équipement suivant.
+Les [[oréade (race)|oréades]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -699,7 +699,7 @@ plantes oréades la plus commune. Il faut 1 minute pour appliquer de la pâte de
 
 {s:Reference|SYLPHE}
 ### Équipement sylphe
-Les [sylphes](./Sylphe (race).md) ont accès à l’équipement suivant.
+Les [[sylphe (race)|sylphes]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -722,7 +722,7 @@ Les [sylphes](./Sylphe (race).md) ont accès à l’équipement suivant.
 
 {s:Reference|TENGU}
 ### Équipement tengu
-Les [tengus](./Tengu (race).md) ont accès à l’équipement suivant.
+Les [[tengu (race)|tengus]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -751,7 +751,7 @@ le tengu.
 
 {s:REFERENCE|TIEFFELIN}
 ### Équipement tieffelin
-Les [tieffelin (race)|tieffelins] ont accès à l’équipement suivant.
+Les [[tieffelin (race)|tieffelins]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -765,13 +765,13 @@ Les [tieffelin (race)|tieffelins] ont accès à l’équipement suivant.
 |}
 </center></div></div>
 
-{s:REFERENCE|ONGUENTDESANGFIELON} **Onguent de sang fiélon.** Quand cet onguent (préparé à partir d’agents réactifs alchimiques et de sang de fiélons) est appliqué sur un tieffelin ou un extérieur Mauvais blessé (qui n’est pas au maximum de ses points de vie), il transforme temporairement l’essence de la cible en quelque chose d’encore plus redoutable et démoniaque. Lorsqu’il est sous les effets de l’onguent de sang fiélon, le tieffelin ou l’extérieur Mauvais gagne un bonus de circonstances de +2 à ses tests d’[Intimidation](./Intimidation.md) et un bonus de circonstances de +1 au DD de tous les sorts du registre terreur qu’il lance. L’application de cet onguent est un processus délicat, nécessitant une action complexe, et ne peut être réalisée correctement que sur une créature consentante ou sans défense. S’il est
+{s:REFERENCE|ONGUENTDESANGFIELON} **Onguent de sang fiélon.** Quand cet onguent (préparé à partir d’agents réactifs alchimiques et de sang de fiélons) est appliqué sur un tieffelin ou un extérieur Mauvais blessé (qui n’est pas au maximum de ses points de vie), il transforme temporairement l’essence de la cible en quelque chose d’encore plus redoutable et démoniaque. Lorsqu’il est sous les effets de l’onguent de sang fiélon, le tieffelin ou l’extérieur Mauvais gagne un bonus de circonstances de +2 à ses tests d’[[Intimidation]] et un bonus de circonstances de +1 au DD de tous les sorts du registre terreur qu’il lance. L’application de cet onguent est un processus délicat, nécessitant une action complexe, et ne peut être réalisée correctement que sur une créature consentante ou sans défense. S’il est
 appliqué à une créature autre qu’un tieffelin ou un extérieur Mauvais, il rend la créature fiévreuse. Les effets de l’onguent (qu’ils soient bénéfiques ou préjudiciables) durent 1 minute.
 
 ## Équipement des races extraordinaires
 {s:REFERENCE|AQUATIQUE}
 ### Équipement aquatique
-Les [aquatique (race)|aquatiques] ont accès à l’équipement suivant.
+Les [[aquatique (race)|aquatiques]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -790,7 +790,7 @@ Les [aquatique (race)|aquatiques] ont accès à l’équipement suivant.
 
 {s:REFERENCE|DUERGAR}
 ### Équipement duergar
-Les [duergars](./duergar (race).md) ont accès à l’équipement suivant.
+Les [[duergar (race)|duergars]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -817,9 +817,9 @@ Si l’attaque se solde par un croc-en-jambe réussi et enchevêtre la cible, ce
 {| CLASS="tablo cadre"
 |+ Armes exotiques duergar
 |- CLASS="titre"
-| [Armes exotiques](./Caractéristiques des armes.md#ARMEEXOTIQUE) || Prix || Dégâts (P) || Dégâts (M) || [Critique](./Tableau récapitulatif des armes.md#CRITIQUE) || [Facteur de portée](./Tableau récapitulatif des armes.md#FACTEURDEPORTEE) || Poids || [Type](./Tableau récapitulatif des armes.md#TYPE) || Spécial
+| [[Caractéristiques des armes#ARMEEXOTIQUE|Armes exotiques]] || Prix || Dégâts (P) || Dégâts (M) || [[Tableau récapitulatif des armes#CRITIQUE|Critique]] || [[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]] || Poids || [[Tableau récapitulatif des armes#TYPE|Type]] || Spécial
 |-
-| COLSPAN="9" | **ARMES À [DISTANCE](./Caractéristiques des armes.md#ARMEADISTANCE)**
+| COLSPAN="9" | **ARMES À [[Caractéristiques des armes#ARMEADISTANCE|DISTANCE]]**
 |- CLASS="alt"
 | Arbalète légère d'esclavagiste || 250 po || 1d3 || 1d4 || 19/20 (voir texte) || 12 m (8 {s:c}) || 3 kg || C || Non létaux, croc-en-jambe, voir texte
 |- CLASS="lignesup"
@@ -832,7 +832,7 @@ Si l’attaque se solde par un croc-en-jambe réussi et enchevêtre la cible, ce
 {s:REFERENCE|GRIPPLI}
 
 ### Équipement grippli
-Les [grippli (race)|gripplis] ont accès à l’équipement suivant.
+Les [[grippli (race)|gripplis]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -851,7 +851,7 @@ Les [grippli (race)|gripplis] ont accès à l’équipement suivant.
 
 {s:REFERENCE|HOMMEPOISSON}
 ### Équipement homme-poisson
-Les [hommes-poissons](./homme-poisson (race).md) ont accès à l’équipement suivant.
+Les [[homme-poisson (race)|hommes-poissons]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -872,7 +872,7 @@ Les [hommes-poissons](./homme-poisson (race).md) ont accès à l’équipement s
 
 {s:REFERENCE|SAMSARAN}
 ### Équipement samsaran
-Les [samsarans](./samsaran (race).md) ont accès à l’équipement suivant.
+Les [[samsaran (race)|samsarans]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -886,12 +886,12 @@ Les [samsarans](./samsaran (race).md) ont accès à l’équipement suivant.
 |}
 </center></div></div>
 
-{s:REFERENCE|ROUEKARMIQUEDUSAMSARAN} **Roue karmique du samsaran.** Cette petite bobine en bois tourne librement à l’intérieur d’un boîtier. Sur la face extérieure de la bobine sont inscrites des dizaines de prières samsarans, ainsi que des noms ou des symboles associés aux vies passées du samsaran. Les samsarans pensent que faire tourner la bobine pendant leurs méditations renforce les connexions spirituelles entre leurs anciennes vies. Si un samsaran médite avec sa roue pendant au moins 10 minutes en se concentrant sur une question de [Connaissances](./Connaissances.md) (histoire) relative à sa propre histoire ou à celles de ses vies passées, il reçoit un bonus d’intuition de +1 à son test.
+{s:REFERENCE|ROUEKARMIQUEDUSAMSARAN} **Roue karmique du samsaran.** Cette petite bobine en bois tourne librement à l’intérieur d’un boîtier. Sur la face extérieure de la bobine sont inscrites des dizaines de prières samsarans, ainsi que des noms ou des symboles associés aux vies passées du samsaran. Les samsarans pensent que faire tourner la bobine pendant leurs méditations renforce les connexions spirituelles entre leurs anciennes vies. Si un samsaran médite avec sa roue pendant au moins 10 minutes en se concentrant sur une question de [[Connaissances]] (histoire) relative à sa propre histoire ou à celles de ses vies passées, il reçoit un bonus d’intuition de +1 à son test.
 
 
 {s:Reference|STRIX}
 ### Équipement strix
-Les [strix](./strix (race).md) ont accès à l’équipement suivant.
+Les [[strix (race)|strix]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -912,7 +912,7 @@ Ce filet est une arme accessible à tous sous le vocable Filet piégeur.
 {s:Reference|SULI}
 
 ### Équipement suli
-Les [sulis](./suli (race).md) ont accès à l’équipement suivant.
+Les [[suli (race)|sulis]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -926,12 +926,12 @@ Les [sulis](./suli (race).md) ont accès à l’équipement suivant.
 |}
 </center></div></div>
 
-{s:REFERENCE|FLUXELEMENTAIRE} **Flux élémentaire.** Cette flasque de poudre alchimique réagit à la puissance élémentaire qui coule dans les veines du suli. Le fait d’y ajouter du sang suli à hauteur de 1 [point de vie](./point de vie.md) crée une [arme à aspersion](./Actions spéciales.md#ARMEIMPACT) élémentaire. L’[arme à aspersion](./Actions spéciales.md#ARMEIMPACT) fonctionne comme une [flasque d’acide](./Armes alchimiques.md#Acide), à la seule différence que les dégâts infligés sont d’un type d’énergie aléatoire (acide, froid, électricité ou feu). Un test d’[Artisanat](./Artisanat.md) (alchimie) DD 10 permet d’identifier le type d’énergie de la flasque activée. Le flux activé conserve sa puissance pendant 24 heures avant de se transformer en matériau inerte. Le DD du test d’[Artisanat](./Artisanat.md) (alchimie) pour créer ce flux est de 20.
+{s:REFERENCE|FLUXELEMENTAIRE} **Flux élémentaire.** Cette flasque de poudre alchimique réagit à la puissance élémentaire qui coule dans les veines du suli. Le fait d’y ajouter du sang suli à hauteur de 1 [[point de vie]] crée une [[Actions spéciales#ARMEIMPACT|arme à aspersion]] élémentaire. L’[[Actions spéciales#ARMEIMPACT|arme à aspersion]] fonctionne comme une [[Armes alchimiques#Acide|flasque d’acide]], à la seule différence que les dégâts infligés sont d’un type d’énergie aléatoire (acide, froid, électricité ou feu). Un test d’[[Artisanat]] (alchimie) DD 10 permet d’identifier le type d’énergie de la flasque activée. Le flux activé conserve sa puissance pendant 24 heures avant de se transformer en matériau inerte. Le DD du test d’[[Artisanat]] (alchimie) pour créer ce flux est de 20.
 
 
 {s:Reference|SVIRFNEBLIN}
 ### Équipement svirfneblin
-Les [svirfneblins](./svirfneblin (race).md) ont accès à l’équipement suivant.
+Les [[svirfneblin (race)|svirfneblins]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -949,7 +949,7 @@ Les [svirfneblins](./svirfneblin (race).md) ont accès à l’équipement suivan
 
 {s:Reference|VANARA}
 ### Équipement vanara
-Les [vanaras](./vanara (race).md) ont accès à l’équipement suivant.
+Les [[vanara (race)|vanaras]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -965,11 +965,11 @@ Les [vanaras](./vanara (race).md) ont accès à l’équipement suivant.
 
 {s:REFERENCE|BOISFOUETTANT}**Bois fouettant.** Les vanaras artisans du bois créent ce matériau extrêmement souple lors d’un processus très long. Le bois fouettant est en réalité un composé de plusieurs fibres de bois tissées et fusionnées pour former un ensemble solide, mais souple. Seules les armes en bois ou ayant un manche en bois (comme les haches et les lances) peuvent être faites en bois fouettant. Une créature maniant une arme en bois fouettant ajoute un bonus de +2 à son DMD quand il s’agit d’éviter les tentatives de destruction contre son arme. Le nombre de points de vie des armes en bois fouettant augmente de +5. Le bois fouettant perd ses qualités spéciales lorsqu’il est soumis aux effets d’un sort de bois de fer.
 
-Ce [matériau spécial](./Matériaux spéciaux.md) est également connu sous le nom de [bois flexible](./Matériaux spéciaux.md#BOISFLEXIBLE)
+Ce [[Matériaux spéciaux|matériau spécial]] est également connu sous le nom de [[Matériaux spéciaux#BOISFLEXIBLE|bois flexible]]
 
 {s:Reference|VISHKANYA}
 ### Équipement vishkanya
-Les [vishkanyas](./vishkanya (race).md) ont accès à l’équipement suivant.
+Les [[vishkanya (race)|vishkanyas]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -987,7 +987,7 @@ Les [vishkanyas](./vishkanya (race).md) ont accès à l’équipement suivant.
 
 {s:Reference|WAYANG}
 ### Équipement wayang
-Les [wayangs](./wayang (race).md) ont accès à l’équipement suivant.
+Les [[wayang (race)|wayangs]] ont accès à l’équipement suivant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">

@@ -9,13 +9,13 @@ Categories:
 - Sort sanguin 1
 ---
 
-{s:MCA}**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Rôd](./Rôdeur.md) 1, [San](./Sanguin.md) 1  
+{s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
@@ -23,4 +23,4 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Le personnage tape du pied ou frappe son arme contre la terre ou le sol, créant une onde de puissance dont il peut se servir pour faire un [croc-en-jambe](./croc-en-jambe.md) à une créature. Il fait un test de manœuvre offensive de [croc-en-jambe](./croc-en-jambe.md) contre la cible mais, plutôt que d’utiliser son bonus de base à l’attaque, il peut utiliser son [niveau de lanceur de sorts](./NLS.md) et, plutôt que son modificateur de [Force](./Force.md), il peut utiliser le modificateur de sa valeur de caractéristique de lancement de sorts ([Intelligence](./Intelligence.md) pour les [magi](./Magus.md) et les [magiciens](./Magicien.md) ; [Sagesse](./Sagesse.md) pour les [druides](./Druide.md) et les [rôdeurs](./Rôdeur.md) ; [Charisme](./Charisme.md) pour les ensorceleurs et les [sanguins](./Sanguin.md)). Ceci ne provoque pas d’[attaque d’opportunité](./AO.md). Ce sort n’a aucun effet si le personnage ne peut toucher la terre ou le sol ou si sa cible n’est pas en contact avec la terre ou le sol.
+Le personnage tape du pied ou frappe son arme contre la terre ou le sol, créant une onde de puissance dont il peut se servir pour faire un [[croc-en-jambe]] à une créature. Il fait un test de manœuvre offensive de [[croc-en-jambe]] contre la cible mais, plutôt que d’utiliser son bonus de base à l’attaque, il peut utiliser son [[NLS|niveau de lanceur de sorts]] et, plutôt que son modificateur de [[Force]], il peut utiliser le modificateur de sa valeur de caractéristique de lancement de sorts ([[Intelligence]] pour les [[magus|magi]] et les [[magicien|magiciens]] ; [[Sagesse]] pour les [[druide|druides]] et les [[rôdeur|rôdeurs]] ; [[Charisme]] pour les ensorceleurs et les [[sanguin|sanguins]]). Ceci ne provoque pas d’[[AO|attaque d’opportunité]]. Ce sort n’a aucun effet si le personnage ne peut toucher la terre ou le sol ou si sa cible n’est pas en contact avec la terre ou le sol.

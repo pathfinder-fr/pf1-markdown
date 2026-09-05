@@ -8,6 +8,6 @@ Categories:
 
 {s:MR}*Les vents portent le sylphe, l’emmenant où il veut aller.*
 
-**Conditions requises.** [Pas aérien](./Pas aérien.md), niveau 9, [Sylphe](./Sylphe (race).md).
+**Conditions requises.** [[Pas aérien]], niveau 9, [[sylphe (race)|Sylphe]].
 
 **Avantages.** Le bonus du sylphe à ses jets de sauvegarde contre les effets du registre air ou électricité et contre les effets infligeant des dégâts d’électricité passe à +4. En outre, le sylphe gagne une vitesse de vol surnaturelle égale à sa vitesse de base (bonne manœuvrabilité). Il ne peut voler avec cette capacité que s’il porte une armure légère ou pas d’armure.

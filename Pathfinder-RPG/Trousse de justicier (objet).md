@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:UI}**Prix** 8 po ; **Poids** 11 kg
-<span class="Catégorie">**Catégorie** [Trousses d’équipement](./Trousses déquipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d’équipement]]</span>
 ---
-Cette trousse comprend un [sac à dos](./Sac à dos (objet).md), une [bourse](./Bourse (objet).md), une [couverture](./Couverture (objet).md), des [torches](./Torche (objet).md) (10), des [rations de survie](./Rations de survie (objet).md) (5 jours) et une [outre](./Outre (objet).md).
+Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], une [[Bourse (objet)|bourse]], une [[Couverture (objet)|couverture]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].

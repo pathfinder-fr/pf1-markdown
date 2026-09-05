@@ -10,7 +10,7 @@ LastModified: 2025-06-26 21:06
 {s:pucem|Fée|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 210*}
 - **600 PX**
-- [Créature féerique](./type Fée.md) de taille TP, CN
+- [[type fée|Créature féerique]] de taille TP, CN
 - **Init** +7 ; Sens vision dans le noir à 18 m, vision nocturne ; Perception +8
 (((Défense)))
 - **CA** 16, contact 15, pris au dépourvu 13 (Dex +3, naturelle +1, taille +2)
@@ -23,16 +23,16 @@ LastModified: 2025-06-26 21:06
 - **Espace** 0,75 m ; **Allonge** 0 m
 - **Attaques spéciales** poison
 - **Pouvoirs magiques** (**NLS** 6 ; concentration +7)
-  - *À volonté* – [détection de la magie](./Détection de la magie.md), [invisibilité](./Invisibilité.md) (sur elle-même uniquement)
-  - *3/jour* – [image miroir](./Image miroir.md) (DD 13), [sommeil](./Sommeil.md) (DD 12)
-  - *1/jour* – [suggestion](./Suggestion.md) (DD 13)
+  - *À volonté* – [[détection de la magie]], [[invisibilité]] (sur elle-même uniquement)
+  - *3/jour* – [[image miroir]] (DD 13), [[sommeil]] (DD 12)
+  - *1/jour* – [[suggestion]] (DD 13)
 (((Statistiques)))
 - **For** 10, **Dex** 16, **Con** 13, **Int** 11, **Sag** 12, **Cha** 13
 - **BBA** +2 ; **BMO** +3 ; **DMD** 13
-- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Bluff](./Bluff.md) +8, [Diplomatie](./Diplomatie.md) +8, [Discrétion](./Discrétion.md) +18, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +6, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +6, [Vol](./Vol.md) +18
+- **Dons** [[Attaque en finesse]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Bluff]] +8, [[Diplomatie]] +8, [[Discrétion]] +18, [[Perception]] +8, [[Psychologie]] +6, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +6, [[Vol]] +18
 - **Langues** commun, sylvestre ; télépathie (au contact seulement)
-- **Particularités** changement de forme (2 parmi les suivantes : [chat](./Chat.md), [chèvre](./Chèvre.md), lapin (utilisez le profil du [raton laveur](./Raton laveur.md)) ou [corbeau](./Corbeau.md) ; métamorphose)
+- **Particularités** changement de forme (2 parmi les suivantes : [[chat]], [[chèvre]], lapin (utilisez le profil du [[raton laveur]]) ou [[corbeau]] ; métamorphose)
 (((Écologie)))
 - **Environnement** tous
 - **Organisation** solitaire, couple ou ruse (3-9)

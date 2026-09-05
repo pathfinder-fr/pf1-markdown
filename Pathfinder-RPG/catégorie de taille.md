@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Petites et grandes créatures
 ---
 
->>> [Petites et grandes créatures](./Petites et grandes créatures.md)
+>>> [[Petites et grandes créatures]]

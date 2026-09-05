@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Evaluer les statistiques des monstres#STATMONSTRESMYTHIQUEPARFP
 ---
 
->>> [Evaluer les statistiques des monstres#STATMONSTRESMYTHIQUEPARFP](./Evaluer les statistiques des monstres.md#STATMONSTRESMYTHIQUEPARFP)
+>>> [[Evaluer les statistiques des monstres#STATMONSTRESMYTHIQUEPARFP]]

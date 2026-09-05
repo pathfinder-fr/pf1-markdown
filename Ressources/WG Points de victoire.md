@@ -4,7 +4,7 @@ Title: Points de victoire
 LastModified: 2011-04-23 07:53
 ---
 
-<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=191293267581270) publiée avec l'autorisation de l'auteur — [retour à l'index](./Weekly Grind.md)</p>
+<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=191293267581270) publiée avec l'autorisation de l'auteur — [[Weekly Grind|retour à l'index]]</p>
 Le système qui suit sera utilisé pour déterminer les points gagnés par chacune des équipes Paizo qui participent au Weekly Grind. Au terme du donjon, l'équipe qui aura remporté le plus de points sera déclarée vainqueur. Les équipes peuvent gagner un maximum de 20 points chaque semaine en plus des points en bonus. Notez que certaines pièces ne donneront pas l'entièreté des 20 points (en fonction des objectifs donnés pour chacune d'elles). Les équipes peuvent gagner les points qui suivent chaque semaine. Les points accordés chaque semaine seront rendus publiques une fois que les deux équipes auront terminé la salle de la semaine en question.
 
 <center>

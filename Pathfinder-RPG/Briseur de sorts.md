@@ -8,15 +8,15 @@ Categories:
 
 *Le personnage frappe les lanceurs de sorts ennemis quand ils ratent un sort lancé sur la défensive alors qu’ils se trouvent dans une case contrôlée par le personnage.*
 
-**Conditions.** [Perturbateur](./Perturbateur.md), [guerrier](./Guerrier.md) de [niveau](./niveau.md) 10.
+**Conditions.** [[Perturbateur]], [[guerrier]] de [[niveau]] 10.
 
-**Avantage.** Les lanceurs de sorts adverses qui se trouvent dans une case contrôlée par le personnage et qui ratent [un sort lancé sur la défensive](./incantation sur la défensive.md) provoquent une [attaque d’opportunité](./attaque dopportunité.md) de la part du personnage.
+**Avantage.** Les lanceurs de sorts adverses qui se trouvent dans une case contrôlée par le personnage et qui ratent [[incantation sur la défensive|un sort lancé sur la défensive]] provoquent une [[attaque dopportunité|attaque d’opportunité]] de la part du personnage.
 
-**Normal.** Les ennemis qui ne parviennent pas à lancer [un sort sur la défensive](./incantation sur la défensive.md) ne provoquent pas d’[attaque d’opportunité](./attaque dopportunité.md).
+**Normal.** Les ennemis qui ne parviennent pas à lancer [[incantation sur la défensive|un sort sur la défensive]] ne provoquent pas d’[[attaque dopportunité|attaque d’opportunité]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage touche un lanceur de sorts avec une [attaque d’opportunité](./AO.md) déclenchée par un échec d’[incantation sur la défensive](./Lancer des sorts.md#INCANTATIONSURLADEFENSIVE), il peut dépenser 5 points d’endurance pour [hébéter](./Hébété.md) le mage jusqu’à la fin de son prochain tour. Si le mage réussit un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) = 10 + bonus de base à l’attaque du personnage, il est juste [chancelant](./Chancelant.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage touche un lanceur de sorts avec une [[AO|attaque d’opportunité]] déclenchée par un échec d’[[Lancer des sorts#INCANTATIONSURLADEFENSIVE|incantation sur la défensive]], il peut dépenser 5 points d’endurance pour [[hébété|hébéter]] le mage jusqu’à la fin de son prochain tour. Si le mage réussit un jet de [[Vigueur]] [[DD]] = 10 + bonus de base à l’attaque du personnage, il est juste [[chancelant]].
 
 {s:CMy}
 ### Version mythique
@@ -24,4 +24,4 @@ Quand le personnage touche un lanceur de sorts avec une [attaque d’opportunit�
 
 **Condition.** Briseur de sorts
 
-**Avantage.** Les créatures non-mythiques menacées par le personnage provoquent une [attaque d’opportunité](./AO.md) de sa part dès qu’elles lancent un sort ou utilisent un pouvoir magique, même si l’incantation se fait [sur la défensive](./Lancer des sorts.md#INCANTATIONSURLADEFENSIVE) ou est accélérée.
+**Avantage.** Les créatures non-mythiques menacées par le personnage provoquent une [[AO|attaque d’opportunité]] de sa part dès qu’elles lancent un sort ou utilisent un pouvoir magique, même si l’incantation se fait [[Lancer des sorts#INCANTATIONSURLADEFENSIVE|sur la défensive]] ou est accélérée.

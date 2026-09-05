@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#LAMESDECONFUSION
 ---
 
->>> [Talents#LAMESDECONFUSION](./Talents.md#LAMESDECONFUSION)
+>>> [[Talents#LAMESDECONFUSION]]

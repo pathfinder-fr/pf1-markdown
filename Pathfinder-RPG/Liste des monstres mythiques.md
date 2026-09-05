@@ -2237,10 +2237,10 @@ Part phylactère mythique, reconstruction
 ÉCOLOGIE
 Environnement tous
 Organisation solitaire
-Trésor équipement de PNJ (potions d’invisibilité [2], chemise de
+Trésor équipement de PNJ (potions d’invisibilité [[2]], chemise de
 mailles +3, masse d’armes lourde +1, amulette d’armure naturelle
 +3, ceinturon de dextérité du chat +2, cape de résistance +3, bandeau
-de prouesse mentale +4 [Sag, Cha], anneau de protection
+de prouesse mentale +4 [[Sag, Cha]], anneau de protection
 +2, autre trésor)
 La liche mythique est un lanceur de sorts mort-vivant qui a
 renoncé à ses aptitudes de voie mythique en échange de pouvoirs

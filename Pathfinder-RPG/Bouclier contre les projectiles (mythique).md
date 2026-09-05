@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *La réactivité stupéfiante du personnage lui permet de parer plusieurs attaques à distance, même les rayons magiques.*
 
-**Condition.** [Bouclier contre les projectiles](./Bouclier contre les projectiles.md)
+**Condition.** [[Bouclier contre les projectiles]]
 
-**Avantage.** Lorsqu’il utilise [Bouclier contre les projectiles](./Bouclier contre les projectiles.md), le personnage peut, chaque round, parer un nombre d’attaques à distance supplémentaires égal à la moitié de son [grade](./Grade.md). Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) par une [action immédiate](./Action immédiate.md) pour parer un unique rayon produit par un sort ou un effet sous forme de rayon qui le prend pour cible.
+**Avantage.** Lorsqu’il utilise [[Bouclier contre les projectiles]], le personnage peut, chaque round, parer un nombre d’attaques à distance supplémentaires égal à la moitié de son [[grade]]. Il peut dépenser une utilisation de [[pouvoir mythique]] par une [[action immédiate]] pour parer un unique rayon produit par un sort ou un effet sous forme de rayon qui le prend pour cible.

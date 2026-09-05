@@ -14,11 +14,11 @@ Categories:
 ---
 
 {s:racial|Tengu (race)|tengus|Illustrations/PNJ/Tengu.jpg}{s:MR}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Prê](./Prêtre.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Abjuration]] ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** contact  
 
@@ -26,10 +26,10 @@ Categories:
 
 **Durée** 24h  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
 
-Le lanceur de sorts protège un objet en sa possession contre le vol. Il gagne un bonus de +10 à ses tests de [perception](./Perception.md) pour repérer quelqu’un essayant de lui prendre cet objet.
+Le lanceur de sorts protège un objet en sa possession contre le vol. Il gagne un bonus de +10 à ses tests de [[Perception]] pour repérer quelqu’un essayant de lui prendre cet objet.
 
 ### Mythique
 {s:CMy}
-Ajoutez le [grade](./Grade.md) du personnage au bonus aux tests de [Perception](./Perception.md). Ajoutez son [grade](./Grade.md) à son DMD contre les manoeuvres offensives de désarmement et de subtilisation effectuées sur l’objet.
+Ajoutez le [[grade]] du personnage au bonus aux tests de [[Perception]]. Ajoutez son [[grade]] à son DMD contre les manoeuvres offensives de désarmement et de subtilisation effectuées sur l’objet.

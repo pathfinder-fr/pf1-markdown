@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.218}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, CM}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +23}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +23}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 15, pris au dépourvu 18 (Dex +4, esquive +1, naturelle +8)}
 {s:BDTexte|**pv** 91 (14d8+28)}
 {s:BDTexte|**Réf** +10, **Vig** +6, **Vol** +9}
-{s:BDTexte|**Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) }
+{s:BDTexte|**Immunités** [[traits des morts-vivants]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** 2 coups +15 (2d8+5 et [étreinte](./Étreinte.md)), langue +10 (contact, [paralysie](./paralysie.md))}
-{s:BDTexte|**Attaques spéciales** création de rejetons, [paralysie](./paralysie.md) (1d4 minutes, DD 21)}
+{s:BDTexte|**Corps à corps** 2 coups +15 (2d8+5 et [[étreinte]]), langue +10 (contact, [[paralysie]])}
+{s:BDTexte|**Attaques spéciales** création de rejetons, [[paralysie]] (1d4 minutes, DD 21)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 19, **Con** -, **Int** 11, **Sag** 10, **Cha** 14}
-{s:BDTexte|**BBA** +10, **BMO** +15 (+19 pour la [lutte](./lutte.md)), **DMD** 30}
-{s:BDTexte|**Dons** [Attaque éclair](./Attaque éclair.md), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (paralysie), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +21, [Escalade](./Escalade.md) +22, [Natation](./Natation.md) +19, [Perception](./Perception.md) +23}
+{s:BDTexte|**BBA** +10, **BMO** +15 (+19 pour la [[lutte]]), **DMD** 30}
+{s:BDTexte|**Dons** [[Attaque éclair]], [[Attaque spéciale renforcée]] (paralysie), [[Esquive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Souplesse du serpent]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +21, [[Escalade]] +22, [[Natation]] +19, [[Perception]] +23}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
-{s:BDTexte|**Organisation sociale** solitaire, bande (2-4), ou groupe (2-4 plus 4-12 [zombis](./Zombi humain.md))}
+{s:BDTexte|**Organisation sociale** solitaire, bande (2-4), ou groupe (2-4 plus 4-12 [[zombi humain|zombis]])}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Création de rejetons (Sur).** Lorsqu'un mohrg tue une créature [humanoïde](./type Humanoïde.md), celle-ci se relève immédiatement sous la forme d'un [zombi](./Zombi, archétype.md) rapide placé sous son contrôle. Le soudain afflux d'énergie négative créé lorsque la victime meurt et se transforme en [zombi](./Zombi, archétype.md) a un effet bénéfique sur le morgh : chaque fois qu'il crée un [zombi](./Zombi, archétype.md), il guérit de 1d6 points de vie par [DV](./../Ressources/DV.md) de la créature tuée et agit au cours du round suivant la création du rejeton comme s'il était affecté par un sort de *[rapidité](./Rapidité.md)*.}
+{s:BDTexte|**Création de rejetons (Sur).** Lorsqu'un mohrg tue une créature [[type humanoïde|humanoïde]], celle-ci se relève immédiatement sous la forme d'un [[zombi, archétype|zombi]] rapide placé sous son contrôle. Le soudain afflux d'énergie négative créé lorsque la victime meurt et se transforme en [[zombi, archétype|zombi]] a un effet bénéfique sur le morgh : chaque fois qu'il crée un [[zombi, archétype|zombi]], il guérit de 1d6 points de vie par [[DV]] de la créature tuée et agit au cours du round suivant la création du rejeton comme s'il était affecté par un sort de *[[rapidité]]*.}
 </div>
 </td><td><div>''L’amas d’entrailles décolorées attaché au torse de ce squelette monte dans
 sa mâchoire et en ressort sous la forme d’une langue.''
@@ -55,7 +55,7 @@ besogne sous la forme d’un mohrg.
 Les mohrgs sont des morts-vivants qui ont encore moins
 d’égard pour la vie que l’individu qu’ils étaient avant leur mort,
 et ils ont pour seul but la destruction des créatures vivantes.
-On les prend parfois pour des [squelettes](./Squelette humain.md) ou des [zombis](./Zombi humain.md) mais ils
+On les prend parfois pour des [[squelette humain|squelettes]] ou des [[zombi humain|zombis]] mais ils
 sont bien plus dangereux que ces abominations sans cervelle car
 ils conservent une partie de leurs souvenirs et se rappellent du
 plaisir qu’ils éprouvaient en entendant les cris des leurs victimes.

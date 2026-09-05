@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tropical}
 {s:BDTexte|*Source : Familiar Folio page 25*}
 - **100 PX**
-- [Animal](./type Animal.md) de taille TP, N
-- **Init **+2 ; **Sens** [Vision nocturne](./vision nocturne.md) ;  [Perception](./Perception.md) +5
+- [[type animal|Animal]] de taille TP, N
+- **Init **+2 ; **Sens** [[Vision nocturne]] ;  [[Perception]] +5
 (((Défense)))
 - **CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)
 - **PV** 6 (1d8+2)
@@ -27,8 +27,8 @@ Categories:
 (((Caractéristiques)))
 - **For **4, **Dex **14, **Con **15, **Int **1, **Sag **12, **Cha **9
 - **BBA **+0 ; **BMO **+0 ; **DMD **7
-- **Dons **[Manœuvres agiles](./Manœuvres agiles.md)
-- **Compétences **[Perception](./Perception.md) +5, [Natation](./Natation.md) +5 
+- **Dons **[[Manœuvres agiles]]
+- **Compétences **[[Perception]] +5, [[Natation]] +5 
 (((Écologie)))
 - **Environnement **Côtes tropicales
 - **Organisation **solitaire, ou banc (2-8)

@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) ; **Niveau** [barde](./Barde.md) 2, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 2, [magus](./Magus.md) 2, [prêtre](./Prêtre.md) 2, [sorcière](./Sorcière.md) 2  
+**École** [[Évocation]] ; **Niveau** [[barde]] 2, [[ensorceleur]]/[[magicien]] 2, [[magus]] 2, [[prêtre]] 2, [[sorcière]] 2  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
 
-**Restriction de cible** *[Explosion](./Explosion.md)* (émanation)
+**Restriction de cible** *[[Explosion]]* (émanation)
 
 La cible d’un sort incluant cet effet irradie l’obscurité dans un rayon de 6 mètres (4 {s:c}), annulant toutes les sources de lumière naturelles et magiques inférieures au niveau du sort. Celui-ci réduit la luminosité d’un niveau mais n’a aucun effet sur une zone déjà obscure.

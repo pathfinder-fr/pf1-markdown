@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Amuseurs publics#BARDECELEBRE
 ---
 
->>> [Amuseurs publics#BARDECELEBRE](./Amuseurs-publics.md#BARDECELEBRE)
+>>> [[Amuseurs publics#BARDECELEBRE]]

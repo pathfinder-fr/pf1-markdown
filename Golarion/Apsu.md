@@ -9,9 +9,9 @@ Categories:
 {s:Dieu|Apsu|%2fPCUP%2fReligion-PNG%2fApsu.png|Le Créateur de Tout, Celui qui montre le chemin, Le wyrm exilé|LB|Dragons, Gloire, Commandement, Paix |Dragons| Morsure, bâton |Artisanat, Bien, Terre, Loi, Voyage|Archon, Commerce, Construction, Dragons, Exploration, Labeur|}
 *Et je mettrai fin à la mort.*
 
-Apsu est le dieu des dragons et un des plus vieux dieux du [Grand Au-delà](./Grand Au-Delà.md). Il était présent lors de la bataille mythique contre [Rovagug](./Rovagug.md) qui conduisit à l’emprisonnement de ce dernier. Tous les dragons le vénèrent quelque soit leur origine.
+Apsu est le dieu des dragons et un des plus vieux dieux du [[Grand Au-delà]]. Il était présent lors de la bataille mythique contre [[Rovagug]] qui conduisit à l’emprisonnement de ce dernier. Tous les dragons le vénèrent quelque soit leur origine.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Le [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Le [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
 {s:VoirAussiAprès}

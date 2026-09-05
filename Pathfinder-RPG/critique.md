@@ -5,4 +5,4 @@ LastModified: 2010-06-30 00:16
 RedirectTo: Pathfinder-RPG.coup critique
 ---
 
->>> [Pathfinder-RPG.coup critique](./coup critique.md)
+>>> [[Pathfinder-RPG.coup critique]]

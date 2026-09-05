@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#FRAGILE
 ---
 
->>> [Caractéristiques des armes#FRAGILE](./Caractéristiques des armes.md#FRAGILE)
+>>> [[Caractéristiques des armes#FRAGILE]]

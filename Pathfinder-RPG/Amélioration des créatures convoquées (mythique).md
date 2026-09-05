@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les sorts d’invocation lancés par le personnage ne convoquent plus uniquement des animaux ordinaires, mais également des créatures mythiques.*
 
-**Condition.** [Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md)
+**Condition.** [[Amélioration des créatures convoquées]]
 
-**Avantage.** Une créature que le personnage convoque par le biais d’un sort d’invocation est considérée comme mythique dans le cadre de ses interactions avec d’autres créatures mythiques. Elle ne gagne aucune aptitude ou [pouvoir mythique](./pouvoir mythique.md), mais elle peut être affectée par des sorts et des aptitudes mythiques en considérant qu’elle est une créature mythique de [grade](./Grade.md) 1. De plus, si la créature convoquée possède une réduction des dégâts, celle-ci change et devient [RD/épique](./RDépique.md).
+**Avantage.** Une créature que le personnage convoque par le biais d’un sort d’invocation est considérée comme mythique dans le cadre de ses interactions avec d’autres créatures mythiques. Elle ne gagne aucune aptitude ou [[pouvoir mythique]], mais elle peut être affectée par des sorts et des aptitudes mythiques en considérant qu’elle est une créature mythique de [[grade]] 1. De plus, si la créature convoquée possède une réduction des dégâts, celle-ci change et devient [[RDépique|RD/épique]].

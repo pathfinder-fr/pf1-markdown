@@ -12,7 +12,7 @@ Categories:
 
 *Vos sorts sont particulièrement efficaces contre ceux que vous surprenez non préparés*
 
-**Avantage.** Durant le [round de surprise](./round de surprise.md), les adversaires qui n’ont pas encore agit reçoivent un malus de -2 aux [jets de sauvegarde](./JDS.md) contre les sorts lancés par le personnage. Les créatures qui ont déjà agit reçoivent un malus de -1 à la place.
+**Avantage.** Durant le [[round de surprise]], les adversaires qui n’ont pas encore agit reçoivent un malus de -2 aux [[jds|jets de sauvegarde]] contre les sorts lancés par le personnage. Les créatures qui ont déjà agit reçoivent un malus de -1 à la place.
 
 (((Ambuscading Spell
 

@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *La vigueur du personnage est sans pareil.*
 
-**Condition.** [Vigueur surhumaine](./Vigueur surhumaine.md)
+**Condition.** [[Vigueur surhumaine]]
 
-**Avantage.** Chaque fois que le personnage effectue un jet de [Vigueur](./Vigueur.md) contre un sort, un pouvoir magique ou un pouvoir surnaturel produit par une source [non-mythique](./non-mythique.md), il lance deux fois le dé et conserve le meilleur résultat.
+**Avantage.** Chaque fois que le personnage effectue un jet de [[Vigueur]] contre un sort, un pouvoir magique ou un pouvoir surnaturel produit par une source [[non-mythique]], il lance deux fois le dé et conserve le meilleur résultat.

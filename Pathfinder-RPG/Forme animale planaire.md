@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage peut donner des caractéristiques planaires à sa forme animale. *
 
-**Conditions.** [Forme animale](./Druide.md#FORMEANIMALE), 5 [rangs](./rang.md) en [Connaissances](./Connaissances.md) (plans)
+**Conditions.** [[druide#FORMEANIMALE|Forme animale]], 5 [[rang|rangs]] en [[Connaissances]] (plans)
 
-**Avantage.** Quand le personnage utilise forme animale pour prendre la forme d’un animal, il peut dépenser une utilisation supplémentaire de ce pouvoir pour lui ajouter l’[archétype fiélon](./Archétypes.md#CREATUREFIELON) ou [céleste](./Archétypes.md#CREATURECELESTE). (Les druides Bons sont obligés de prendre la forme céleste et les Mauvais la forme fiélone.) La forme céleste d’un animal donne un bonus de +2 aux [jets d’attaque](./jet dattaque.md) pour confirmer un [coup critique](./coup critique.md) sur une créature Mauvaise alors que la forme fiélone donne le même bonus contre les créatures Bonnes.
+**Avantage.** Quand le personnage utilise forme animale pour prendre la forme d’un animal, il peut dépenser une utilisation supplémentaire de ce pouvoir pour lui ajouter l’[[archétypes#CREATUREFIELON|archétype fiélon]] ou [[archétypes#CREATURECELESTE|céleste]]. (Les druides Bons sont obligés de prendre la forme céleste et les Mauvais la forme fiélone.) La forme céleste d’un animal donne un bonus de +2 aux [[jet dattaque|jets d’attaque]] pour confirmer un [[coup critique]] sur une créature Mauvaise alors que la forme fiélone donne le même bonus contre les créatures Bonnes.

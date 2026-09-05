@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#SPECIALISTEDELAFUITE
 ---
 
->>> [Talents#SPECIALISTEDELAFUITE](./Talents.md#SPECIALISTEDELAFUITE)
+>>> [[Talents#SPECIALISTEDELAFUITE]]

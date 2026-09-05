@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:Menuclasseshybrides}{s:mca}En prenant de l’expérience, le tueur apprend quelques astuces qui l’aident à perturber ses adversaires. À partir du niveau 2 puis tous les deux niveaux, il gagne un [talent de tueur](./Talents (tueur).md). Sauf indication contraire, il ne peut pas sélectionner un même talent à plusieurs reprises.
+{s:Menuclasseshybrides}{s:mca}En prenant de l’expérience, le tueur apprend quelques astuces qui l’aident à perturber ses adversaires. À partir du niveau 2 puis tous les deux niveaux, il gagne un [[talents (tueur)|talent de tueur]]. Sauf indication contraire, il ne peut pas sélectionner un même talent à plusieurs reprises.
 
 Les talents marqués d’un astérisque ajoutent un effet à l’attaque sournoise du tueur. Ce dernier ne peut appliquer qu’un seul de ces talents à une attaque donnée et doit choisir lequel avant d’effectuer son jet d’attaque.
 
@@ -17,35 +17,35 @@ Les talents marqués d’un astérisque ajoutent un effet à l’attaque sournoi
 |- CLASS="titre"
 | CLASS="centre" COLSPAN="2" | Talents
 |- CLASS="premier"
-| [Allié étudié](./Talents (tueur).md#ALLIEETUDIE) || [Tromper les indiscrets](./Talents (tueur).md#TROMPERLESINDISCRETS)
+| [[Talents (tueur)#ALLIEETUDIE|Allié étudié]] || [[Talents (tueur)#TROMPERLESINDISCRETS|Tromper les indiscrets]]
 |-
-| [Analyse du sang](./Talents (tueur).md#ANALYSEDUSANG) || [Recherche de pièges](./Talents (tueur).md#RECHERCHEDEPIEGES)
+| [[Talents (tueur)#ANALYSEDUSANG|Analyse du sang]] || [[Talents (tueur)#RECHERCHEDEPIEGES|Recherche de pièges]]
 |-
-| [Coup ralentissant](./Talents (tueur).md#COUPRALENTISSANT)* || [Utilisation des poisons](./Talents (tueur).md#UTILISATIONDESPOISONS)
+| [[Talents (tueur)#COUPRALENTISSANT|Coup ralentissant]]* || [[Talents (tueur)#UTILISATIONDESPOISONS|Utilisation des poisons]]
 |-
-| [Talent de roublard](./Talents (tueur).md#TALENTDEROUBLARD) || [Style de combat du rôdeur](./Talents (tueur).md#STYLEDECOMBATDURODEUR)
+| [[Talents (tueur)#TALENTDEROUBLARD|Talent de roublard]] || [[Talents (tueur)#STYLEDECOMBATDURODEUR|Style de combat du rôdeur]]
 |-
-| [Distance mortelle](./Talents (tueur).md#DISTANCEMORTELLE) || &emsp;
+| [[Talents (tueur)#DISTANCEMORTELLE|Distance mortelle]] || &emsp;
 |-
 |- CLASS="titre"
 | &emsp;
 |- CLASS="titre"
 | CLASS="centre" COLSPAN="2" | Talents de maître
 |- CLASS="premier"
-| [Assassinat](./Talents (tueur).md#ASSASSINAT) || [Déplacement facilité](./Talents (tueur).md#DEPLACEMENTFACILITE)
+| [[Talents (tueur)#ASSASSINAT|Assassinat]] || [[Talents (tueur)#DEPLACEMENTFACILITE|Déplacement facilité]]
 |-
-| [Camouflage du tueur](./Talents (tueur).md#CAMOUFLAGEDUTUEUR) || [Talents de maître roublard](./Talents (tueur).md#TALENTSDEMAITREROUBLARD)
+| [[Talents (tueur)#CAMOUFLAGEDUTUEUR|Camouflage du tueur]] || [[Talents (tueur)#TALENTSDEMAITREROUBLARD|Talents de maître roublard]]
 |}
 
 ### Description des talents de tueur
 <table width="100%"><tr><td width="49%">
 {s:Reference|ALLIEETUDIE}
 #### Allié étudié (Ext)
-Le tueur peut, par une [action de mouvement](./Action de mouvement.md), étudier un allié ou une créature amicale dans son champ de vision. Il gagne un bonus de +1 aux tests et aux [jets d’attaque](./jet dattaque.md) lorsqu’il effectue l’action [aider quelqu’un](./aider qqn.md) pour améliorer les tests de compétence de cet allié ou augmenter sa [CA](./CA.md). Ce bonus augmente au même rythme que celui de [cible étudiée](./Tueur.md#CIBLEETUDIEE) du tueur. Au niveau 7, un tueur peut étudier un allié par une [action de mouvement](./Action de mouvement.md) ou une [action rapide](./Action rapide.md). L’allié étudié d’un tueur est décompté du nombre de cibles étudiées qu’il peut avoir en même temps.
+Le tueur peut, par une [[action de mouvement]], étudier un allié ou une créature amicale dans son champ de vision. Il gagne un bonus de +1 aux tests et aux [[jet dattaque|jets d’attaque]] lorsqu’il effectue l’action [[aider qqn|aider quelqu’un]] pour améliorer les tests de compétence de cet allié ou augmenter sa [[CA]]. Ce bonus augmente au même rythme que celui de [[tueur#CIBLEETUDIEE|cible étudiée]] du tueur. Au niveau 7, un tueur peut étudier un allié par une [[action de mouvement]] ou une [[action rapide]]. L’allié étudié d’un tueur est décompté du nombre de cibles étudiées qu’il peut avoir en même temps.
 
 {s:Reference|ANALYSEDUSANG}
 #### Analyse du sang (Ext)
-S’il peut voir une [cible étudiée](./Tueur.md#CIBLEETUDIEE), un tueur connait le nombre exact de points de vie actuels qu’elle possède. Ce talent fonctionne uniquement contre les cibles vivantes.
+S’il peut voir une [[tueur#CIBLEETUDIEE|cible étudiée]], un tueur connait le nombre exact de points de vie actuels qu’elle possède. Ce talent fonctionne uniquement contre les cibles vivantes.
 
 {s:reference|COUPRALENTISSANT}
 #### Coup ralentissant* (Ext)
@@ -61,7 +61,7 @@ Le tueur obtient Sabotage comme compétence de classe. Il gagne également les p
 
 {s:reference|STYLEDECOMBATDURODEUR}
 #### Style de combat de rôdeur (Ext)
-Le tueur choisit un [style de combat](./Rôdeur.md#DONDESTYLEDECOMBAT) de rôdeur (comme archerie ou combat à deux armes). Il obtient un don de combat issu de la première liste de dons de ce style. Il n’a pas besoin de remplir les conditions requises tant que le don appartient à la liste du style de combat choisi.
+Le tueur choisit un [[rôdeur#DONDESTYLEDECOMBAT|style de combat]] de rôdeur (comme archerie ou combat à deux armes). Il obtient un don de combat issu de la première liste de dons de ce style. Il n’a pas besoin de remplir les conditions requises tant que le don appartient à la liste du style de combat choisi.
 
 Au niveau 6, il peut choisir de nouveau ce talent et ajouter à son éventail de choix les dons disponibles pour les rôdeurs de niveau 6 dans le style qu’il a déjà choisi.
 
@@ -80,19 +80,19 @@ Un tueur peut choisir l’un des talents de roublard suivant au lieu d’un tale
 | COLSPAN="2" | Talents
 |  |
 |- CLASS="premier"
-| [Allié involontaire](./Talents.md#ALLIEINVOLONTAIRE) || [Attaque sanglante](./Talents.md#ATTAQUESANGLANTE)* || [Attaque sournoise puissante](./Talents.md#ATTAQUESOURNOISEPUISSANTE)*
+| [[Talents#ALLIEINVOLONTAIRE|Allié involontaire]] || [[Talents#ATTAQUESANGLANTE|Attaque sanglante]]* || [[Talents#ATTAQUESOURNOISEPUISSANTE|Attaque sournoise puissante]]*
 |-
-| [Attaque surprise](./Talents.md#ATTAQUESURPRISE) || [Audace](./Talents.md#AUDACE) || [Botte secrète](./Talents.md#BOTTESECRETE)
+| [[Talents#ATTAQUESURPRISE|Attaque surprise]] || [[Talents#AUDACE|Audace]] || [[Talents#BOTTESECRETE|Botte secrète]]
 |-
-| [Camouflage](./Talents.md#CAMOUFLAGE) || [Dénicheur de pièges](./Talents.md#DENICHEURDEPIEGES) || [Difficile à berner](./Talents.md#DIFFICILEABERNER)
+| [[Talents#CAMOUFLAGE|Camouflage]] || [[Talents#DENICHEURDEPIEGES|Dénicheur de pièges]] || [[Talents#DIFFICILEABERNER|Difficile à berner]]
 |-
-| [Discret et rapide](./Talents.md#DISCRETETRAPIDE) || [Empoisonnement rapide](./Talents.md#EMPOISONNEMENTRAPIDE) || [Entraînement aux armes à feu](./Talents.md#ENTRAINEMENTAUXARMESAFEU)
+| [[Talents#DISCRETETRAPIDE|Discret et rapide]] || [[Talents#EMPOISONNEMENTRAPIDE|Empoisonnement rapide]] || [[Talents#ENTRAINEMENTAUXARMESAFEU|Entraînement aux armes à feu]]
 |-
-| [Formation martiale](./Talents.md#FORMATIONMARTIALE) || [Maîtrise du terrain](./Talents.md#MAITRISEDUTERRAIN) || [Mouvement à quatre pattes](./Talents.md#MOUVEMENTAQUATREPATTES)
+| [[Talents#FORMATIONMARTIALE|Formation martiale]] || [[Talents#MAITRISEDUTERRAIN|Maîtrise du terrain]] || [[Talents#MOUVEMENTAQUATREPATTES|Mouvement à quatre pattes]]
 |-
-| [Oeil de l’archer](./Talents.md#OEILDELARCHER) || [Réactions lentes](./Talents.md#REACTIONSLENTES)* || [Tir soudain](./Talents.md#TIRSOUDAIN)
+| [[Talents#OEILDELARCHER|Oeil de l’archer]] || [[Talents#REACTIONSLENTES|Réactions lentes]]* || [[Talents#TIRSOUDAIN|Tir soudain]]
 |-
-| [Roublard en finesse](./Talents.md#ROUBLARDENFINESSE) || [Poison persistant](./Talents.md#POISONPERSISTANT)
+| [[Talents#ROUBLARDENFINESSE|Roublard en finesse]] || [[Talents#POISONPERSISTANT|Poison persistant]]
 |}
 </center>
 
@@ -160,11 +160,11 @@ suivant au lieu d’un talent de maître tueur
 | COLSPAN="2" | Talents
 |  |
 |- CLASS="premier"
-| [Attaque sournoise mortelle](./Talents.md#ATTAQUESOURNOISEMORTELLE)* || [Coup assommant](./Talents.md#COUPASSOMMANT) || [Don](./Talents.md#DON)
+| [[Talents#ATTAQUESOURNOISEMORTELLE|Attaque sournoise mortelle]]* || [[Talents#COUPASSOMMANT|Coup assommant]] || [[Talents#DON|Don]]
 |-
-| [Esquive Totale](./Astuces.md#ESQUIVETOTALE) || [Maître du déguisement](./Talents.md#MAITREDUDEGUISEMENT) || [Opportunisme](./Talents.md#OPPORTUNISME)
+| [[Astuces#ESQUIVETOTALE|Esquive Totale]] || [[Talents#MAITREDUDEGUISEMENT|Maître du déguisement]] || [[Talents#OPPORTUNISME|Opportunisme]]
 |-
-| [Surprise du chasseur](./Talents.md#SURPRISEDUCHASSEUR) || [Tireur discret](./Talents.md#TIREURDISCRET)
+| [[Talents#SURPRISEDUCHASSEUR|Surprise du chasseur]] || [[Talents#TIREURDISCRET|Tireur discret]]
 |}
 </center>
 

@@ -17,21 +17,21 @@ Categories:
 ---
 
 {s:APG}
-**École** [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 2, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 3, [San](./Sanguin.md) 3  
+**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3  
 
 **Temps d'incantation** 1 minute  
 
-**Composantes** [V, G, M/FD](./composantes.md) (un bout de parchemin)  
+**Composantes** [[Composantes|V, G, M/FD]] (un bout de parchemin)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** le sang d'une créature ou une tache de sang  
 
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)  
+**Durée** [[présentation des sorts#DUREE|instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir texte) ; **Résistance à la magie** non
 
-Le personnage découvre la réponse à une question spécifique qui porte sur une créature tant qu'il a au moins accès à une goutte de son sang. Il peut lancer le sort sur une créature morte ou vivante, mais les êtres vivants ou morts-vivants ont droit à un [jet de sauvegarde](./jet de sauvegarde.md) pour résister au sort. Le sort fonctionne aussi bien avec du sang frais que séché. Quand le personnage lance le sort, la réponse à l'une des quatre questions suivantes apparaît sur la surface plane de son choix (un mur, un bout de papier, etc.).
+Le personnage découvre la réponse à une question spécifique qui porte sur une créature tant qu'il a au moins accès à une goutte de son sang. Il peut lancer le sort sur une créature morte ou vivante, mais les êtres vivants ou morts-vivants ont droit à un [[jet de sauvegarde]] pour résister au sort. Le sort fonctionne aussi bien avec du sang frais que séché. Quand le personnage lance le sort, la réponse à l'une des quatre questions suivantes apparaît sur la surface plane de son choix (un mur, un bout de papier, etc.).
 
 - Qui es-tu ? (Le nom sous lequel la créature est la plus connue)
 - Qu'es-tu ? (Sexe, race, profession/rôle)

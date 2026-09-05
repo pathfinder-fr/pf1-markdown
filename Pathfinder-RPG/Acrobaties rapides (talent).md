@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ACROBATIESRAPIDES
 ---
 
->>> [Talents#ACROBATIESRAPIDES](./Talents.md#ACROBATIESRAPIDES)
+>>> [[Talents#ACROBATIESRAPIDES]]

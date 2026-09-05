@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.41*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 11, pris au dépourvu 10 (Dex +1)}
 {s:BDTexte|**pv** 13 (2d8+4)}
@@ -26,9 +26,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 13, **Con** 14, **Int** 2, **Sag** 11, **Cha** 4}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 13 (17 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Course](./Course.md)<sup>B</sup>, [Endurance](./Endurance.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +5}
-{s:BDTexte|**Particularités** docile (voir le [cheval](./Cheval.md))}
+{s:BDTexte|**Dons** [[Course]]<sup>B</sup>, [[Endurance]]}
+{s:BDTexte|**Compétences** [[Perception]] +5}
+{s:BDTexte|**Particularités** docile (voir le [[cheval]])}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérés}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou troupeau (3-30)}
@@ -40,9 +40,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Cheval](./Cheval.md) || 1
+| [[Cheval]] || 1
 |-
-| [Poney](./Poney.md) || 1/2
+| [[Poney]] || 1/2
 |}
 </div>*Ce petit cheval trapu vous observe de ses grands yeux curieux, puis il tend son museau comme s’il s’attendait à recevoir une gâterie.*
 
@@ -77,7 +77,7 @@ aux races de petite taille.
 
 #### Le poney comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** 2 sabots (1d3) ; **Caractéristiques** For 13, Dex 13, Con 12, Int 2, Sag 11, Cha 4 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** 2 sabots (1d3) ; **Caractéristiques** For 13, Dex 13, Con 12, Int 2, Sag 11, Cha 4 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 4** : **Caractéristiques** For +2, Con +2 ; **Particularités** [entraîné au combat](./entraîné au combat.md).
+**Développement au niveau 4** : **Caractéristiques** For +2, Con +2 ; **Particularités** [[entraîné au combat]].
 </div></td></tr></table>

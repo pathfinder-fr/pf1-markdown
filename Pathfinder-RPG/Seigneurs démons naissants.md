@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Seigneurs démons#Seigneurs_démons_naissants_6
 ---
 
->>> [Seigneurs démons#Seigneurs_démons_naissants_6](./Seigneurs démons.md#Seigneurs_démons_naissants_6)
+>>> [[Seigneurs démons#Seigneurs_démons_naissants_6]]

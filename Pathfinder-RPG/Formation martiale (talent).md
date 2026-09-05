@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#FORMATIONMARTIALE
 ---
 
->>> [Talents#FORMATIONMARTIALE](./Talents.md#FORMATIONMARTIALE)
+>>> [[Talents#FORMATIONMARTIALE]]

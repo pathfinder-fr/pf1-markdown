@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ;** Niveau** [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1  
+**École** [[Transmutation]] ;** Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (chaîne brisée)  
+**Composantes** [[Composantes|V, G, M]] (chaîne brisée)  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Cible** [eidolon](./eidolon.md) du lanceur de sorts  
+**Cible** [[eidolon]] du lanceur de sorts  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** non
 
-Ce sort brise le lien entre le personnage et son [eidolon](./eidolon.md), ce qui permet à ce dernier de s'aventurer à plus de 30 mètres (20 {s:c}) de lui sans malus. Il peut parcourir n'importe quelle distance tant que le sort est actif mais, s'il expire alors que l'[eidolon](./eidolon.md) est à plus de 30 mètres (20 {s:c}) du personnage, il perd automatiquement les points de vie appropriés en fonction de son éloignement et il est possible qu'il soit renvoyé dans son [plan](./Plans.md) d'origine. Tant que le sort fait effet, le personnage ne peut pas sacrifier de points de vie pour empêcher que son [eidolon](./eidolon.md) ne reçoive de dégâts. Le transfert de dégâts par le lien vital est temporairement impossible. Si le personnage essaye de se servir du pouvoir de transposition alors que ce sort fait encore effet, il doit lancer un dé sur la table des incidents de *[téléportation](./téléportation.md)* en utilisant la ligne « soigneusement étudié. »
+Ce sort brise le lien entre le personnage et son [[eidolon]], ce qui permet à ce dernier de s'aventurer à plus de 30 mètres (20 {s:c}) de lui sans malus. Il peut parcourir n'importe quelle distance tant que le sort est actif mais, s'il expire alors que l'[[eidolon]] est à plus de 30 mètres (20 {s:c}) du personnage, il perd automatiquement les points de vie appropriés en fonction de son éloignement et il est possible qu'il soit renvoyé dans son [[plans|plan]] d'origine. Tant que le sort fait effet, le personnage ne peut pas sacrifier de points de vie pour empêcher que son [[eidolon]] ne reçoive de dégâts. Le transfert de dégâts par le lien vital est temporairement impossible. Si le personnage essaye de se servir du pouvoir de transposition alors que ce sort fait encore effet, il doit lancer un dé sur la table des incidents de *[[téléportation]]* en utilisant la ligne « soigneusement étudié. »

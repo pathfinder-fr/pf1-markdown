@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Crâne dYdersius.md).***
+***Voir les [[Pathfinder-RPG.Crâne dYdersius|statistiques de cet artefact]].***
 
 Il semblerait que les anciens crocs du crâne de cette vipère aux proportions impossibles suintent de ténèbres telles un souffle pestilentiel infini.
 

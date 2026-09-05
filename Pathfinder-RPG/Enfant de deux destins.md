@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISR}*Vous avez à tirer parti de votre existence déchirée.*
 
-**Conditions.** 5 rangs en [Connaissances](./Connaissances.md) (folklore local), [demi-elfe](./Demi-elfe.md)
+**Conditions.** 5 rangs en [[Connaissances]] (folklore local), [[demi-elfe]]
 
-**Avantages.** Une fois par jour, le personnage peut choisir un [don de travail d'équipe](./Dons.md#DONEQUIPE) qu'un allié [humain](./Humain.md) ou [elfe](./Elfe.md) dans un rayon de 9 mètres possède. Il peut ignorer toute condition de race, d'éthnie ou de trait racial, mais doit toujours remplir les autres conditions de ce don pour bénéficier de ses avantages. On considère que le personnage possède ce don pendant 1 minute au maximum, tant qu'il reste à 9 mètres ou moins de l'allié dont il a choisit d'émuler le don.
+**Avantages.** Une fois par jour, le personnage peut choisir un [[Dons#DONEQUIPE|don de travail d'équipe]] qu'un allié [[humain]] ou [[elfe]] dans un rayon de 9 mètres possède. Il peut ignorer toute condition de race, d'éthnie ou de trait racial, mais doit toujours remplir les autres conditions de ce don pour bénéficier de ses avantages. On considère que le personnage possède ce don pendant 1 minute au maximum, tant qu'il reste à 9 mètres ou moins de l'allié dont il a choisit d'émuler le don.

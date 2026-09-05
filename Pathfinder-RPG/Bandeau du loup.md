@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bandeau du loup|{s:MCA}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [front](./Objets merveilleux portés sur le front.md) ; **Prix** 5 000 po ; **Poids** 0,25 kg
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur le front|front]] ; **Prix** 5 000 po ; **Poids** 0,25 kg
 (((Description)))
-Ce bandeau en argent a été forgé de manière à ressembler à une meute de loups en chasse. Sur commande, le personnage peut bénéficier du pouvoir [odorat](./Odorat (capacité).md) à une portée de 3 mètres (6 mètres dans le sens du vent, 1,5 mètre contre le vent), comme pour l’aspect du loup du pouvoir de classe du chasseur [imitation animale](./Chasseur.md#IMITATIONANIMALE). Si le personnage est un [chasseur](./Chasseur.md) possédant cet aspect, ce bandeau augmente, à la place, son niveau effectif de chasseur pour l’aspect du loup de 8.
+Ce bandeau en argent a été forgé de manière à ressembler à une meute de loups en chasse. Sur commande, le personnage peut bénéficier du pouvoir [[odorat (capacité)|odorat]] à une portée de 3 mètres (6 mètres dans le sens du vent, 1,5 mètre contre le vent), comme pour l’aspect du loup du pouvoir de classe du chasseur [[chasseur#IMITATIONANIMALE|imitation animale]]. Si le personnage est un [[chasseur]] possédant cet aspect, ce bandeau augmente, à la place, son niveau effectif de chasseur pour l’aspect du loup de 8.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[chien de chasse](./Chien de chasse.md)*, le créateur doit posséder le pouvoir de classe [imitation animale](./Chasseur.md#IMITATIONANIMALE) ; **Coût** 2 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[chien de chasse]]*, le créateur doit posséder le pouvoir de classe [[chasseur#IMITATIONANIMALE|imitation animale]] ; **Coût** 2 500 po
 </div>

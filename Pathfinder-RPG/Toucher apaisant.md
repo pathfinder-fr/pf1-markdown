@@ -9,14 +9,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [invocation](./Invocation.md) ([guérison](./branche guérison.md)) ; **Niveau** [prêtre](./Prêtre.md) 0, [druide](./Druide.md) 0, [inquisiteur](./Inquisiteur.md) 0, [paladin](./Paladin.md) 1, [sorcière](./Sorcière.md) 0  
+**École** [[invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[prêtre]] 0, [[druide]] 0, [[inquisiteur]] 0, [[paladin]] 1, [[sorcière]] 0  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
 
-**Restriction de cible** *[personnel](./Personnel (mot de pouvoir).md)*, *[choisi](./Choisi.md)*
+**Restriction de cible** *[[Personnel (mot de pouvoir)|personnel]]*, *[[choisi]]*
 
-Si la cible d’un sort incluant cet effet est [mourante](./Mourant.md), elle est automatiquement [stabilisée](./Stable.md).  
+Si la cible d’un sort incluant cet effet est [[Mourant|mourante]], elle est automatiquement [[Stable|stabilisée]].  
 
-:**Augmentation :** La cible est guérie des états préjudiciables [secoué](./Secoué.md), [fiévreux](./Fiévreux.md) ou [fatigué](./Fatigué.md) (au choix du lanceur). Augmenter cet effet améliore son niveau de 1.
+:**Augmentation :** La cible est guérie des états préjudiciables [[secoué]], [[fiévreux]] ou [[fatigué]] (au choix du lanceur). Augmenter cet effet améliore son niveau de 1.

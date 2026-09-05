@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vous inspirez la terreur à vos ennemis.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [Coup de brute](./Coup de brute.md), [Force intimidante](./Force intimidante.md), 3 rangs en [Intimidation](./Intimidation.md), trait racial [apprentissage martial](./orque (race).md#Traits_raciaux_standards_7)
+**Conditions.** [[Coup de brute]], [[Force intimidante]], 3 rangs en [[Intimidation]], trait racial [[Orque (race)#Traits_raciaux_standards_7|apprentissage martial]]
 
-**Avantages.** Lorsque le personnage manie une [grande hache](./Grande hache (arme).md), un [cimeterre à deux mains](./cimeterre à deux mains (arme).md) ou une arme comportant "orque" dans son nom, il peut utiliser le don [Coup de brute](./Coup de brute.md) sur la première attaque d'une [attaque à outrance](./attaque à outrance.md) ou d'une [action simple](./Action simple.md) permettant de porter une ou plusieurs attaques (comme avec le don [Enchaînement](./Enchaînement.md)).
+**Avantages.** Lorsque le personnage manie une [[grande hache (arme)|grande hache]], un [[cimeterre à deux mains (arme)|cimeterre à deux mains]] ou une arme comportant "orque" dans son nom, il peut utiliser le don [[Coup de brute]] sur la première attaque d'une [[attaque à outrance]] ou d'une [[action simple]] permettant de porter une ou plusieurs attaques (comme avec le don [[Enchaînement]]).

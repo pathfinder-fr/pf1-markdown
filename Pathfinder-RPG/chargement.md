@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armes à feu#CHARGERUNEARMEAFEU
 ---
 
->>> [Armes à feu#CHARGERUNEARMEAFEU](./Armes à feu.md#CHARGERUNEARMEAFEU)
+>>> [[Armes à feu#CHARGERUNEARMEAFEU]]

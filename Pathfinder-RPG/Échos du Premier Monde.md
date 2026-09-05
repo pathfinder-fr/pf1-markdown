@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISR}*Votre héritage féerique est puissant, et il se renforce d'autant plus lorsque vous êtes proches d'un autre membre de votre espèce.*
 
-**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** 2 rangs en [Connaissances](./Connaissances.md) (nature), sous-type [gnome](./sous-type gnome.md)
+**Conditions.** 2 rangs en [[Connaissances]] (nature), sous-type [[sous-type gnome|gnome]]
 
-**Avantages.** Tant que le personnage est adjacent à un allié de sous-type [gnome](./sous-type gnome.md) qui possède ce don, il bénéficie d'une [RD](./RD.md) 2/[fer froid](./fer froid.md), et compte comme une [fée](./type Fée.md) plutôt qu'un [humanoïde](./type Humanoïde.md) dans le cadre des effets qui cibles les créatures selon leur type. Le personnage est toujours considéré comme étant de sous-type gnome quand cet effet est actif.
+**Avantages.** Tant que le personnage est adjacent à un allié de sous-type [[sous-type gnome|gnome]] qui possède ce don, il bénéficie d'une [[RD]] 2/[[fer froid]], et compte comme une [[type Fée|fée]] plutôt qu'un [[type Humanoïde|humanoïde]] dans le cadre des effets qui cibles les créatures selon leur type. Le personnage est toujours considéré comme étant de sous-type gnome quand cet effet est actif.

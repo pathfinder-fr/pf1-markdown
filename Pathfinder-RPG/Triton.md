@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.276}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Eau](./sous-type Eau.md), [natif](./sous-type natif.md)) de taille M, NB}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type eau|Eau]], [[sous-type natif|natif]]) de taille M, NB}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 10, pris au dépourvu 14 (naturelle +4)}
 {s:BDTexte|**pv** 19 (3d10+3)}
@@ -25,16 +25,16 @@ Categories:
 {s:BDTexte|**Corps à corps** trident de maître, +5 (1d8+1)}
 {s:BDTexte|**Distance** arbalète lourde, +3 (1d10/19–20)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 7 ; concentration +7)}
-{s:BDSorts|1/jour — *[convocation d’alliés naturels II](./Convocation dalliés naturels II.md)* ([élémentaire de l’Eau](./Élémentaire de lEau.md) de taille P ou 1d3 [dauphins](./Dauphin.md) uniquement)}
+{s:BDSorts|1/jour — *[[convocation dalliés naturels II|convocation d’alliés naturels II]]* ([[élémentaire de lEau|élémentaire de l’Eau]] de taille P ou 1d3 [[dauphin|dauphins]] uniquement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 10, **Con** 12, **Int** 13 **Sag** 13, **Cha** 11}
 {s:BDTexte|**BBA** +3 ; **BMO** +4 ; **DMD** 14}
-{s:BDTexte|**Dons** [Attaque au galop](./Attaque au galop.md), [Combat monté](./Combat monté.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (un au choix) +7, [Diplomatie](./Diplomatie.md) +6, [Discrétion](./Discrétion.md) +6, [Équitation](./Équitation.md) +6, [Natation](./Natation.md) +9, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7, [Survie](./Survie.md) +7}
+{s:BDTexte|**Dons** [[Attaque au galop]], [[Combat monté]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (un au choix) +7, [[Diplomatie]] +6, [[Discrétion]] +6, [[Équitation]] +6, [[Natation]] +9, [[Perception]] +7, [[Psychologie]] +7, [[Survie]] +7}
 {s:BDTexte|**Langues** aquatique, commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
-{s:BDTexte|**Organisation sociale** solitaire, compagnie (2–5), escouade (6–11) ou groupe (12–21 plus 2–16 [dauphins](./Dauphin.md))}
+{s:BDTexte|**Organisation sociale** solitaire, compagnie (2–5), escouade (6–11) ou groupe (12–21 plus 2–16 [[dauphin|dauphins]])}
 {s:BDTexte|**Trésor** standard (trident de maître,arbalète lourde avec 10 carreaux, autres trésors)}
 </div>
 </td><td><div>

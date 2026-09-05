@@ -7,11 +7,11 @@ Categories:
 - Manuel des Classes avancées
 ---
 
-<div style="float:right">***Retour aux [anneaux magiques](./Anneaux magiques.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[anneaux magiques]].***</div><div class="BD">
 {s:BDTitre|Anneau d'harmonisation naturelle (Drake)|{s:mca}}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 7 ; **Emplacement** anneau ; **Prix** 12 880 po ; **Poids** —
+**Aura** [[Invocation]] modérée ; **NLS** 7 ; **Emplacement** anneau ; **Prix** 12 880 po ; **Poids** —
 (((Description)))
-Cet anneau en spirale est taillé dans le jade sous la forme d’un drake des mers. Si le personnage peut lancer des sorts de *[convocation d’alliés naturels](./Convocation dalliés naturels.md)*, il ajoute le [drake des forêts](./Drake des forêts.md) et le [drake d’ombre](./Drake dombre.md) à la liste des monstres de niveau 4 qu’il peut invoquer avec ces sorts, il ajoute le [drake des flammes](./Drake des flammes.md) à la liste de niveau 5, le [drake du froid](./Drake du froid.md) à la liste de niveau 6 et le [drake du désert](./Drake du désert.md) à la liste de niveau 9. Une fois par jour, sur commande, le personnage peut également utiliser cet anneau pour invoquer un [drake d’ombre](./Drake dombre.md), comme l’autorise le sort *[convocation d’alliés naturels IV](./Convocation dalliés naturels IV.md)*.
+Cet anneau en spirale est taillé dans le jade sous la forme d’un drake des mers. Si le personnage peut lancer des sorts de *[[convocation dalliés naturels|convocation d’alliés naturels]]*, il ajoute le [[drake des forêts]] et le [[drake dombre|drake d’ombre]] à la liste des monstres de niveau 4 qu’il peut invoquer avec ces sorts, il ajoute le [[drake des flammes]] à la liste de niveau 5, le [[drake du froid]] à la liste de niveau 6 et le [[drake du désert]] à la liste de niveau 9. Une fois par jour, sur commande, le personnage peut également utiliser cet anneau pour invoquer un [[Drake dombre|drake d’ombre]], comme l’autorise le sort *[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]*.
 (((Création)))
-[Création d'anneaux magiques](./Création danneaux magiques.md), *[convocation d’alliés naturels IV](./Convocation dalliés naturels IV.md)*, *[morsure magique suprême](./Morsure magique suprême.md)* ; **Coût** 6 440 po
+[[Création danneaux magiques|Création d'anneaux magiques]], *[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]*, *[[morsure magique suprême]]* ; **Coût** 6 440 po
 </div>

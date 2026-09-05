@@ -4,8 +4,8 @@ Title: Le futur dieu
 LastModified: 2010-11-11 18:18
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du deuxième chapitre : "[http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lbl6](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lbl6)" de la nouvelle "Le Seigneur Pénitent" de Richard Lee Byers. Illustration de Colby Stevenson.*
 
 Contrairement à la plupart des futurs dieux, Domitian ne vivait pas sur l'Avenue des Espoirs, ni même tout près. Séfu et Olhas durent traverser une grande partie de la Cour de l'Ascension et passer devant des repères bien connus comme l'édifice en bois qui abritait la salle à bière consacrée à Cayden Cailéan et la statue de grès rouge appelée l'Iomaedienne avant d'atteindre la paisible rue annexe où, selon leurs informations, le culte possédait un manoir. C'est à ce moment-là qu'Olhas leva une main pour indiquer un arrêt.

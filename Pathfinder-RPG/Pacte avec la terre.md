@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Rôd](./Rôdeur.md) 4  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Rôdeur|Rôd]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (une pincée de terre qui vient de l'[environnement de prédilection](./Rôdeur.md#ENVIRONNEMENTDE PREDILECTION) du [rôdeur](./Rôdeur.md))  
+**Composantes** [[composantes|V, G, F]] (une pincée de terre qui vient de l'[[rôdeur#ENVIRONNEMENTDE PREDILECTION|environnement de prédilection]] du [[rôdeur]])  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 heure/2 [niveaux](./niveau.md) (T)
+**Durée** 1 heure/2 [[niveau|niveaux]] (T)
 
-Le personnage fait appel aux esprits de la nature pour qu’ils l’aident à s’adapter à son environnement. Il traite le terrain sur lequel il se trouve comme son meilleur [environnement de prédilection](./Rôdeur.md#ENVIRONNEMENTDEPREDILECTION) jusqu’à ce que le sort expire.
+Le personnage fait appel aux esprits de la nature pour qu’ils l’aident à s’adapter à son environnement. Il traite le terrain sur lequel il se trouve comme son meilleur [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]] jusqu’à ce que le sort expire.
 
-S’il ne possède pas le pouvoir de classe [environnement de prédilection](./Rôdeur.md#ENVIRONNEMENTDEPREDILECTION), le sort n’a aucun effet sur lui.
+S’il ne possède pas le pouvoir de classe [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]], le sort n’a aucun effet sur lui.

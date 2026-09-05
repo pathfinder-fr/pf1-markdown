@@ -12,13 +12,13 @@ alchimistes construisent des créatures artificielles aux caractéristiques
 toujours plus proches de celles de créatures vivantes.''
 
 #### Création de créatures artificielles
-Un inventeur alchimiste de niveau 1 acquiert la découverte [disciple inventif](./découvertes.md#DISCIPLEINVENTIF). Cette aptitude remplace celles de [préparation de potions](./Alchimiste.md#PREPARATIONDEPOTIONS) et [lancer improvisé](./Alchimiste.md#LANCERIMPROVISE).
+Un inventeur alchimiste de niveau 1 acquiert la découverte [[découvertes#DISCIPLEINVENTIF|disciple inventif]]. Cette aptitude remplace celles de [[alchimiste#PREPARATIONDEPOTIONS|préparation de potions]] et [[alchimiste#LANCERIMPROVISE|lancer improvisé]].
 
 #### Compagnon homoncule (Ext)
-Un inventeur alchimiste de niveau 1 bénéficie des services d’un [compagnon homoncule](./Inventeur alchimiste (alchimiste).md#COMPAGNONHOMONCULE). Les méthodes mises en oeuvre pour créer cet homoncule particulier sont plus exotiques que d’habitude et nécessitent l’injection d’une partie de l’essence vitale de l’inventeur alchimiste dans l’homoncule. Cette [créature artificielle](./type Créature artificielle.md), une fois sa création achevée, ressemble généralement à un petit humanoïde ou à un enfant ; le créateur peut modifier cet aspect général mais l’homoncule est toujours humanoïde et clairement artificiel si on l’examine de près. Chaque homoncule se montre complètement loyal envers son maître mais la fidélité de certains s’avère parfois déconcertante. En effet, il arrive que certains protègent jalousement leur maître contre toutes les menaces ou aménagent d’étranges chapelles en leur honneur. Un compagnon homoncule peut être de n’importe quel alignement, même s’il est différent de celui de son maître. Un compagnon homoncule détruit peut être ramené à la vie en accomplissant un rituel sur son cadavre qui nécessite une pinte du sang de son créateur par Dés de vie de l’homoncule, et des composantes rares d’une valeur de 100 po par Dés de Vie de l’homoncule. L’accomplissement de ce rituel prend une heure (même s’il faudra du temps pour amasser le sang nécessaire aux niveaux les plus élevés. Ainsi, certains inventeurs alchimistes conservent des échantillons de sang congelé, juste au cas où). Un inventeur alchimiste ne peut pas choisir les découvertes de [mutagène](./découvertes.md#MUTAGENE) ou de [cognatogène](./découvertes.md#COGNATOGENE). Cette aptitude remplace celles de [bombes](./Alchimiste.md#BOMBES) et [mutagène](./Alchimiste.md#MUTAGENES).
+Un inventeur alchimiste de niveau 1 bénéficie des services d’un [[Inventeur alchimiste (alchimiste)#COMPAGNONHOMONCULE|compagnon homoncule]]. Les méthodes mises en oeuvre pour créer cet homoncule particulier sont plus exotiques que d’habitude et nécessitent l’injection d’une partie de l’essence vitale de l’inventeur alchimiste dans l’homoncule. Cette [[type créature artificielle|créature artificielle]], une fois sa création achevée, ressemble généralement à un petit humanoïde ou à un enfant ; le créateur peut modifier cet aspect général mais l’homoncule est toujours humanoïde et clairement artificiel si on l’examine de près. Chaque homoncule se montre complètement loyal envers son maître mais la fidélité de certains s’avère parfois déconcertante. En effet, il arrive que certains protègent jalousement leur maître contre toutes les menaces ou aménagent d’étranges chapelles en leur honneur. Un compagnon homoncule peut être de n’importe quel alignement, même s’il est différent de celui de son maître. Un compagnon homoncule détruit peut être ramené à la vie en accomplissant un rituel sur son cadavre qui nécessite une pinte du sang de son créateur par Dés de vie de l’homoncule, et des composantes rares d’une valeur de 100 po par Dés de Vie de l’homoncule. L’accomplissement de ce rituel prend une heure (même s’il faudra du temps pour amasser le sang nécessaire aux niveaux les plus élevés. Ainsi, certains inventeurs alchimistes conservent des échantillons de sang congelé, juste au cas où). Un inventeur alchimiste ne peut pas choisir les découvertes de [[découvertes#MUTAGENE|mutagène]] ou de [[découvertes#COGNATOGENE|cognatogène]]. Cette aptitude remplace celles de [[alchimiste#BOMBES|bombes]] et [[alchimiste#MUTAGENES|mutagène]].
 
 #### Découvertes
-Les découvertes suivantes complètent l’archétype d’inventeur alchimiste : [simulacre alchimique](./découvertes.md#SIMULACREALCHIMIQUE), [simulacre alchimique supérieur](./découvertes.md#SIMULACREALCHIMIQUESUPERIEUR) et [simulacre de doppelganger](./découvertes.md#SIMULACREDEDOPPELGANGER).
+Les découvertes suivantes complètent l’archétype d’inventeur alchimiste : [[découvertes#SIMULACREALCHIMIQUE|simulacre alchimique]], [[découvertes#SIMULACREALCHIMIQUESUPERIEUR|simulacre alchimique supérieur]] et [[découvertes#SIMULACREDEDOPPELGANGER|simulacre de doppelganger]].
 
 ### Caractéristiques du compagnon homoncule
 Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La table suivante indique la plupart des caractéristiques de base des compagnons homoncules. Il est considéré comme une créature artificielle lorsqu'il s'agit de déterminer si un sort l'affecte ou non.
@@ -44,7 +44,7 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 | 2
 | 1
 | +0
-| CLASS="gauche" | [Armes et armures](./Inventeur alchimiste (alchimiste).md#ARMESETARMURES), [Contact télépathique](./Inventeur alchimiste (alchimiste).md#CONTACTTÉLÉPATHIQUE), [Pacte alchimique](./Inventeur alchimiste (alchimiste).md#PACTEALCHIMIQUE), [Vision dans le noir](./Inventeur alchimiste (alchimiste).md#VISIONDANSLENOIR), [Vision nocturne](./Inventeur alchimiste (alchimiste).md#VISIONNOCTURNE)
+| CLASS="gauche" | [[Inventeur alchimiste (alchimiste)#ARMESETARMURES|Armes et armures]], [[Inventeur alchimiste (alchimiste)#CONTACTTÉLÉPATHIQUE|Contact télépathique]], [[Inventeur alchimiste (alchimiste)#PACTEALCHIMIQUE|Pacte alchimique]], [[Inventeur alchimiste (alchimiste)#VISIONDANSLENOIR|Vision dans le noir]], [[Inventeur alchimiste (alchimiste)#VISIONNOCTURNE|Vision nocturne]]
 |- CLASS="alt"
 | 2
 | 2
@@ -62,7 +62,7 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 | 8
 | 2
 | +1
-| CLASS="centre" | [Esquive totale](./Inventeur alchimiste (alchimiste).md#ESQUIVETOTALE)
+| CLASS="centre" | [[Inventeur alchimiste (alchimiste)#ESQUIVETOTALE|Esquive totale]]
 |- CLASS="alt"
 | 4
 | 3
@@ -80,7 +80,7 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 | 10
 | 2
 | +1
-| CLASS="centre" | [Accroissement d'une caractéristique](./Inventeur alchimiste (alchimiste).md#AUGMENTATIONCARAC)
+| CLASS="centre" | [[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]
 |- CLASS="alt"
 | 6
 | 5
@@ -89,7 +89,7 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 | 12
 | 3
 | +2
-| CLASS="centre" | [Parole](./Inventeur alchimiste (alchimiste).md#PAROLE)
+| CLASS="centre" | [[Inventeur alchimiste (alchimiste)#PAROLE|Parole]]
 |-
 | 7
 | 6
@@ -116,7 +116,7 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 | 16
 | 4
 | +3
-| CLASS="centre" | [Résistance à la magie](./Inventeur alchimiste (alchimiste).md#RESISTMAGIE)
+| CLASS="centre" | [[Inventeur alchimiste (alchimiste)#RESISTMAGIE|Résistance à la magie]]
 |- CLASS="alt"
 | 10
 | 8
@@ -125,7 +125,7 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 | 18
 | 4
 | +3
-| CLASS="centre" | [Accroissement d'une caractéristique](./Inventeur alchimiste (alchimiste).md#AUGMENTATIONCARAC)
+| CLASS="centre" | [[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]
 |-
 | 11
 | 9
@@ -170,7 +170,7 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 | 26
 | 6
 | +5
-| CLASS="centre" | [Accroissement d'une caractéristique](./Inventeur alchimiste (alchimiste).md#AUGMENTATIONCARAC), [Esquive surnaturelle](./Inventeur alchimiste (alchimiste).md#ESQUIVESURNATURELLE)
+| CLASS="centre" | [[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]], [[Inventeur alchimiste (alchimiste)#ESQUIVESURNATURELLE|Esquive surnaturelle]]
 |- CLASS="alt"
 | 16
 | 12
@@ -215,7 +215,7 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 | 32
 | 8
 | +6
-| CLASS="centre" | [Accroissement d'une caractéristique](./Inventeur alchimiste (alchimiste).md#AUGMENTATIONCARAC)
+| CLASS="centre" | [[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]
 |}
 </center>
 
@@ -231,7 +231,7 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 
 **Dons**. Il s’agit du nombre total de dons possédés par l’homoncule. Un homoncule peut choisir n’importe quel don pour lequel il satisfait les conditions d’acquisition mais il doit posséder les membres corporels appropriés afin de pouvoir en utiliser certains.
 
-**Bonus de For/Dex**. Ce modificateur s’ajoute aux valeurs de [Force](./Force.md) et de [Dextérité](./Dextérité.md) de l’homoncule.
+**Bonus de For/Dex**. Ce modificateur s’ajoute aux valeurs de [[Force]] et de [[Dextérité]] de l’homoncule.
 
 **Spécial**. Cette colonne indique les diverses capacités que les homoncules acquièrent au fil de leur évolution. Ces capacités sont décrites ci-dessous.
 
@@ -242,9 +242,9 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 *Contact télépathique (Sur)*. Un homoncule ne peut normalement pas parler, mais il est en contact télépathique permanent avec son créateur. Il sait tout ce que son maître sait et peut lui transmettre tout ce qu’il voit et entend jusqu’à une distance de 4 500 mètres.
 
 {s:Reference|PACTEALCHIMIQUE}
-*Pacte alchimique (Sur)*. La relation entre un inventeur alchimiste et son homoncule est si étroite que les extraits de l’alchimiste fonctionnent tout aussi bien sur lui que sur son homoncule, ce qui permet à ce dernier de bénéficier des extraits sans que l’alchimiste ait besoin de posséder la découverte d’[infusion](./découvertes.md#INFUSION). L’homoncule est considéré comme un [humanoïde](./type Humanoïde.md) ou comme une [créature artificielle](./type Créature artificielle.md), en choisissant le plus avantageux, lorsqu’il s’agit de déterminer quels extraits peuvent l’affecter.  
+*Pacte alchimique (Sur)*. La relation entre un inventeur alchimiste et son homoncule est si étroite que les extraits de l’alchimiste fonctionnent tout aussi bien sur lui que sur son homoncule, ce qui permet à ce dernier de bénéficier des extraits sans que l’alchimiste ait besoin de posséder la découverte d’[[découvertes#INFUSION|infusion]]. L’homoncule est considéré comme un [[type humanoïde|humanoïde]] ou comme une [[type créature artificielle|créature artificielle]], en choisissant le plus avantageux, lorsqu’il s’agit de déterminer quels extraits peuvent l’affecter.  
 
-De plus, chaque jour, l’homoncule peut préparer les extraits de son maître à l’aide de son livre de formules, tant qu’il est à portée du [contact télépathique](./Inventeur alchimiste (alchimiste).md#CONTACTTÉLÉPATHIQUE).
+De plus, chaque jour, l’homoncule peut préparer les extraits de son maître à l’aide de son livre de formules, tant qu’il est à portée du [[Inventeur alchimiste (alchimiste)#CONTACTTÉLÉPATHIQUE|contact télépathique]].
 
 {s:Reference|VISIONDANSLENOIR}
 *Vision dans le noir (Ext)*. L’homoncule possède la vision dans le noir jusqu’à 18 mètres.
@@ -262,7 +262,7 @@ De plus, chaque jour, l’homoncule peut préparer les extraits de son maître �
 *Parole (Ext)*. Au niveau 6, un homoncule peut enfin s’exprimer et parler toutes les langues qu’il connaît.
 
 {s:Reference|RESISTMAGIE}
-*Résistance à la magie (Sur)*. Au niveau 9, l’homoncule acquiert une [résistance à la magie](./résistance à la magie.md) égale à 11 + le niveau
+*Résistance à la magie (Sur)*. Au niveau 9, l’homoncule acquiert une [[résistance à la magie]] égale à 11 + le niveau
 d’alchimiste de son maître.
 
 {s:Reference|ESQUIVESURNATURELLE}
@@ -271,20 +271,20 @@ d’alchimiste de son maître.
 #### Profil de départ
 - **Type.** Créature artificielle (homoncule)	
 - **Taille.** P	
-- **[VD].** 6 m, vol 9 m (médiocre)	
+- **[[VD]].** 6 m, vol 9 m (médiocre)	
 - **CA.** +2 armure naturelle	
 - **Attaque.** morsure (1d4)	
 - **Caractéristiques.** For 10, Dex 15, Con -, Int 10, Sag 12, Cha 7
-- **Particularités.** [vision dans le noir](./vision dans le noir (capacité).md), [vision nocturne](./Vision nocturne (capacité).md)
+- **Particularités.** [[Vision dans le noir (capacité)|vision dans le noir]], [[Vision nocturne (capacité)|vision nocturne]]
 - **Langues.** commun (ne peut pas parler)
 
 #### Compétences des compagnons homoncules
-Voici la liste de compétences de classe des homoncules : [Artisanat](./Artisanat.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (mystères) (Int), [Discrétion](./Discrétion.md) (Dex), [Perception](./Perception.md) (Sag), [Psychologie](./Psychologie.md) (Sag) et [Vol](./Vol.md) (Dex). De plus, un [inventeur alchimiste](./Inventeur alchimiste (alchimiste).md) de niveau 1 peut choisir deux compétences et les ajouter à la liste de compétences de classe de son homoncule.
+Voici la liste de compétences de classe des homoncules : [[Artisanat]] (Int), [[Bluff]] (Cha), [[Connaissances]] (mystères) (Int), [[Discrétion]] (Dex), [[Perception]] (Sag), [[Psychologie]] (Sag) et [[Vol]] (Dex). De plus, un [[Inventeur alchimiste (alchimiste)|inventeur alchimiste]] de niveau 1 peut choisir deux compétences et les ajouter à la liste de compétences de classe de son homoncule.
 
 #### Développement au niveau 4
 - **Taille.** M
-- **[VD].** 9 m, vol 12 m (moyenne)
+- **[[VD]].** 9 m, vol 12 m (moyenne)
 - **CA.** +2 armure naturelle
 - **Attaque.** morsure (1d6 + poison), 2 griffes (1d6)
 - **Caractéristiques.** For +4, Dex -2
-- **Attaque spéciale.** [poison](./Poison (capacité).md) (morsure – blessure ; *fréquence* 1/minute pendant 60 minutes, *effet* sommeil pendant 1 minute, *guérison* 1 JS réussi, DD basé sur la Con avec un bonus racial de +2)
+- **Attaque spéciale.** [[Poison (capacité)|poison]] (morsure – blessure ; *fréquence* 1/minute pendant 60 minutes, *effet* sommeil pendant 1 minute, *guérison* 1 JS réussi, DD basé sur la Con avec un bonus racial de +2)

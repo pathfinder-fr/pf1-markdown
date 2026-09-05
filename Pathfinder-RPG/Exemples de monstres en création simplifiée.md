@@ -18,7 +18,7 @@ Les monstres sont présentés du plus simple au plus complexe. Certains de ceux 
 {s:BDTexte|**CA** 16 (contact 12, pris au dépourvu 12) ; **Réf** +5, **Vig** +5, **Vol** +1 ; **DMD** 16 (20 contre le croc-en-jambe)}
 {s:BDTexte|**pv** 22}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**Corps à corps** morsure, +6 (1d6+7 plus science de la manoeuvre offensive [croc-en-jambe])}
+{s:BDTexte|**Corps à corps** morsure, +6 (1d6+7 plus science de la manoeuvre offensive [[croc-en-jambe]])}
 {s:BDTexte|**BMO** +4 (+8 pour le croc-en-jambe)}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** +3, **Dex** +2, **Con** +1, **Int** -2 ; Discrétion +7, Survie +7}
@@ -215,7 +215,7 @@ Les monstres sont présentés du plus simple au plus complexe. Certains de ceux 
 {s:BDTexte|**Faiblesse** vulnérabilité au froid}
 {s:BDTexte|**Option défensive** lancer de rochers}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**Corps à corps** grande hache tueuse de nains (allonge 3 m), +18/+13/+8 (3d6+19/×3 [+2d6 contre les nains]) ou 2 coups (allonge 3 m), +18 (1d8+21)}
+{s:BDTexte|**Corps à corps** grande hache tueuse de nains (allonge 3 m), +18/+13/+8 (3d6+19/×3 [[+2d6 contre les nains]]) ou 2 coups (allonge 3 m), +18 (1d8+21)}
 {s:BDTexte|**À distance** rocher (portée 36 m), +13 (1d8+15 plus 1d6 feu)}
 {s:BDTexte|**BMO** +20}
 {s:BDSousTitre|Statistiques}
@@ -313,7 +313,7 @@ Les monstres sont présentés du plus simple au plus complexe. Certains de ceux 
 {s:BDTexte|**Faiblesse** faiblesses des vampires}
 {s:BDTexte|**Option défensive** résistance à la canalisation +4}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**Corps à corps** faux, +20/+15 (2d4+25/×4) ou coup, +20 (1d4+20 plus absorption d’énergie [2 niveaux négatifs])}
+{s:BDTexte|**Corps à corps** faux, +20/+15 (2d4+25/×4) ou coup, +20 (1d4+20 plus absorption d’énergie [[2 niveaux négatifs]])}
 {s:BDTexte|**À distance** arbalète légère (portée 24 m), +15 (1d8+22/19-20)}
 {s:BDTexte|**Sorts d'attaque** (DD 17 + niveau du sort) 1/jour – dissipation du Bien, exécution ; 3/jour – arme spirituelle, malédiction ; à volonté – blessure légère, domination de personne, imprécation}
 {s:BDTexte|**Options d'attaque** absorption de sang, canalisation d’énergie (énergie négative), incantation spontanée (blessure) ; **BMO** +20}
@@ -437,7 +437,7 @@ Les monstres sont présentés du plus simple au plus complexe. Certains de ceux 
 {s:BDTexte|**pv** 297 ; RD 10/Bien et fer froid ; Immunité électricité, poison ; Résistance acide 10, feu 10, froid 10 ; aura maudite}
 {s:BDTexte|**Pouvoirs magiques** défensifs à volonté – projection d’image}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**Corps à corps** épée longue +1 (allonge 3 m), +29/+24/+19/+14 (2d6+9/17-20) et 5 épées longues +1 (allonge 3 m), +29 (2d6+9/17- 20) et coup de queue, +24 (2d6+3 plus science de la manoeuvre offensive [lutte])}
+{s:BDTexte|**Corps à corps** épée longue +1 (allonge 3 m), +29/+24/+19/+14 (2d6+9/17-20) et 5 épées longues +1 (allonge 3 m), +29 (2d6+9/17- 20) et coup de queue, +24 (2d6+3 plus science de la manoeuvre offensive [[lutte]])}
 {s:BDTexte|**Pouvoirs magiques** d’attaque (DD 18 + niveau du sort) 3/jour – barrière de lames ; à volonté – télékinésie}
 {s:BDTexte|**Option d'attaque** frappe critique ; **BMO** +31 (+35 en lutte)}
 {s:BDSousTitre|Statistiques}
@@ -504,7 +504,7 @@ Le dragon dispose de sept options au lieu de quatre, représentatives de ses nom
 {s:BDTexte|**CA** 38 (contact 21, pris au dépourvu 29) ; **Réf** +20, **Vig** +22, **Vol** +17 ; **DMD** 43 (47 contre la lutte) ; RM 31 ; Concentration +26}
 {s:BDTexte|**pv** 333 ; régénération 5 (armes du Bien, sorts du Bien) ; RD 10/argent et Bien ; Immunité feu, poison ; Résistance acide 10, froid 10}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**Corps à corps** 2 griffes (allonge 3 m), +32 (2d8+42) et morsure (allonge 3 m), +32 (4d6+30 plus maladie et poison) et coup de queue (allonge 3 m), +32 (2d8+18 plus science de la manoeuvre offensive [lutte])}
+{s:BDTexte|**Corps à corps** 2 griffes (allonge 3 m), +32 (2d8+42) et morsure (allonge 3 m), +32 (4d6+30 plus maladie et poison) et coup de queue (allonge 3 m), +32 (2d8+18 plus science de la manoeuvre offensive [[lutte]])}
 {s:BDTexte|**Pouvoirs magiques** d’attaque (DD 17 + niveau du sort) 1/jour – boule de feu à incantation rapide, nuée de météores ; à volonté – immobilisation de monstre de groupe, mur de feu}
 {s:BDTexte|**Options d'attaque** (DD 25) constriction (2d8+60), maladie (incubation immédiate, fréquence 1/jour, effet affaiblissement temporaire de 1d4 For, guérison 2 réussites consécutives), poison (type blessure, fréquence 1/round pendant 10 rounds, effet affaiblissement temporaire de 1d6 Con, guérison 3 réussites consécutives) ; **BMO** +34 (+38 en lutte)}
 {s:BDSousTitre|Statistiques}

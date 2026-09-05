@@ -10,8 +10,8 @@ Categories:
 
 {s:apg}*Grâce à son entraînement constant, le personnage est parvenu à maîtriser une nouvelle botte secrète.*
 
-**Condition.** Aptitude de classe de [talent de roublard](./Talents.md).
+**Condition.** Aptitude de classe de [[talents|talent de roublard]].
 
-**Avantage.** Le personnage gagne un [talent](./Talents.md) supplémentaire. Il doit en remplir les conditions d’accès.
+**Avantage.** Le personnage gagne un [[talents|talent]] supplémentaire. Il doit en remplir les conditions d’accès.
 
 **Spécial.** Le personnage peut acquérir ce don plusieurs fois.

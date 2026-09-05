@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.119*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md); [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]]; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu  11 (Dex +3, naturelle +2, taille -1)}
 {s:BDTexte|**pv**  22 (3d8+9)}
@@ -28,14 +28,14 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 17, **Con** 16, **Int** 2, **Sag** 11, **Cha** 10}
 {s:BDTexte|**BBA** +2, **BMO** +7, **DMD** 20}
-{s:BDTexte|**Dons** [Course](./Course.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +9}
+{s:BDTexte|**Dons** [[Course]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +9}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou volée (3-6)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Charge foudroyante (Ext).** Lorsqu’il [charge](./charge.md), le fer de hache fait une seule attaque de morsure. S’il réussit, il a également le droit de faire un [croc-en-jambe](./croc-en-jambe.md) à son adversaire, par une [action libre](./Action libre.md), sans provoquer d’attaque d’opportunité. S’il échoue, son adversaire ne peut pas lui faire de [croc-en-jambe](./croc-en-jambe.md) en retour.}
+{s:BDTexte|**Charge foudroyante (Ext).** Lorsqu’il [[charge]], le fer de hache fait une seule attaque de morsure. S’il réussit, il a également le droit de faire un [[croc-en-jambe]] à son adversaire, par une [[action libre]], sans provoquer d’attaque d’opportunité. S’il échoue, son adversaire ne peut pas lui faire de [[croc-en-jambe]] en retour.}
 </div>
 </td><td><div>
 *Ce gros oiseau incapable de voler se tient sur deux longues pattes se terminant par des serres, mais c’est son bec en forme de hache qui, plus que tout le reste, lui donne son air si féroce.*
@@ -72,21 +72,21 @@ connu d’entre eux. Voici trois variantes plus rares du fer de
 hache :
 
 **Le diatryma.** Si les diatrymas (appelés aussi gastornis) à plumes noires et à bec
-orange sont plus [petits](./Archétypes-ashx.md#Créature_jeune_FP_-B_7) que le fer de hache moyen, mesurant
+orange sont plus [[Archétypes.ashx#Créature_jeune_FP_-B_7|petits]] que le fer de hache moyen, mesurant
 à peine 1,8 à 2,1 m, ils n’en sont pas moins féroces. Les
-diatrymas sont des fers de hache de [taille](./taille.md) M. Ils ont 2 dés de
-vie et un [FP](./FP.md) de 1.
+diatrymas sont des fers de hache de [[taille]] M. Ils ont 2 dés de
+vie et un [[FP]] de 1.
 
 **L’oiseau-terreur.** Les oiseaux-terreurs font 30 cm de plus
 que le fer de hache moyen et leurs serres puissantes leur
 servent d’armes supplémentaires. Ce sont des fers de hache
-[évolués](./Archétypes-ashx.md#Créature_évoluée_FP_+B_0) avec 5 [DV](./../Ressources/DV.md) qui gagnent [Science du critique](./Science du critique.md) (morsure)
+[[Archétypes.ashx#Créature_évoluée_FP_+B_0|évolués]] avec 5 [[DV]] qui gagnent [[Science du critique]] (morsure)
 comme don supplémentaire. Ils ont également deux attaques
 naturelles supplémentaires grâce à une paire de serres
 infligeant des dégâts de base de 1d4 chacune. Les oiseaux-terreurs
-ont un [FP](./FP.md) 4.
+ont un [[FP]] 4.
 
-**Le coureur des glaces*.** Une variante plus grande et plus forte de l'andalgalornis qui vit sur la lointaine planète Triaxus. Ce sont des fers de hache [évolués](./Archétypes-ashx.md#Créature_évoluée_FP_+B_0) qui font 30 cm de plus que le fer de hache moyen, avec des plumes noires et blanches. Les coureurs des glaces sont des créatures boréales, surnaturellement immunisées au froid mais vulnérables au feu.
+**Le coureur des glaces*.** Une variante plus grande et plus forte de l'andalgalornis qui vit sur la lointaine planète Triaxus. Ce sont des fers de hache [[Archétypes.ashx#Créature_évoluée_FP_+B_0|évolués]] qui font 30 cm de plus que le fer de hache moyen, avec des plumes noires et blanches. Les coureurs des glaces sont des créatures boréales, surnaturellement immunisées au froid mais vulnérables au feu.
 
 **Entraîner un bec-de-hache**.**  Un fer-de-hache, appelé aussi bec-de-hache, a besoin d'être entraîné avant de pouvoir porter un cavalier. Apprivoiser un bec-de-hache nécessite 6 semaines de travail et un jet de Dressage DD25, après quoi l'animal peut apprendre des tours. Chevaucher un bec-de-hache nécessite une selle exotique. Les œufs des becs-de-hache valent 1000 PO pièces sur le marché, alors qu'un jeune coûte 1500 PO.
 
@@ -95,7 +95,7 @@ ont un [FP](./FP.md) 4.
 
 #### Le fer de hache comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m ; **Attaque** morsure (1d6 + 1,5 For) ; **Caractéristiques** For 10, Dex 17, Con 12, Int 2, Sag 11, Cha 10 ; **Particularités** [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m ; **Attaque** morsure (1d6 + 1,5 For) ; **Caractéristiques** For 10, Dex 17, Con 12, Int 2, Sag 11, Cha 10 ; **Particularités** [[vision nocturne]].
 
 **Évolution au niveau 4.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** (1d8 + 1,5 For) ; **Attaque spéciale** charge foudroyante ; **Caractéristiques** For +8, Dex –2, Con +4.
 

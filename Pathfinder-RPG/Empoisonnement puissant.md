@@ -12,9 +12,9 @@ Categories:
 
 *Vous pouvez effectuer de puissantes attaques qui placent davantage du poison de votre arme dans les blessures de votre adversaire.*
 
-**Condition.** [Attaque en puissance](./Attaque en puissance.md); 3 rangs en [Artisanat](./Artisanat.md) (poison) ou capacité de classe [utilisation du poison](./Ninja.md#UTILISATIONDUPOISON)
+**Condition.** [[Attaque en puissance]]; 3 rangs en [[Artisanat]] (poison) ou capacité de classe [[Ninja#UTILISATIONDUPOISON|utilisation du poison]]
 
-**Avantage.** Lorsque le personnage blesse un adversaire avec une [Attaque en puissance](./Attaque en puissance.md) en utilisant une arme empoisonnée, il peut remplacer le bonus aux dégâts pour augmenter le [DD](./DD.md) du poison de 1. Lorsque son [bonus de base à l'attaque](./BBA.md) atteint +4, et, par la suite, pour chaque tranche de +4 points de bonus, le [DD](./DD.md) est augmenté d'1 point supplémentaire. Cette capacité ne permet pas d'augmenter le DD au delà de 15 + 1/2 niveau du personnage.
+**Avantage.** Lorsque le personnage blesse un adversaire avec une [[Attaque en puissance]] en utilisant une arme empoisonnée, il peut remplacer le bonus aux dégâts pour augmenter le [[DD]] du poison de 1. Lorsque son [[BBA|bonus de base à l'attaque]] atteint +4, et, par la suite, pour chaque tranche de +4 points de bonus, le [[DD]] est augmenté d'1 point supplémentaire. Cette capacité ne permet pas d'augmenter le DD au delà de 15 + 1/2 niveau du personnage.
 
 (((Powerful Poisoning
 

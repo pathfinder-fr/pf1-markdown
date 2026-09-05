@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Un lien spécial unit le personnage avec toutes les choses qui rampent, glissent, serpentent et piquent.*
 
-**Condition.** Aptitude de classe d’[empathie sauvage](./empathie sauvage.md).
+**Condition.** Aptitude de classe d’[[empathie sauvage]].
 
-**Avantage.** Les sorts ou capacités spéciales du personnage qui n’affectent normalement que les animaux peuvent cibler les vermines (celles qui pouvaient déjà affecter les vermines continuent de fonctionner). Il peut utiliser sa capacité d’empathie sauvage pour influencer les [vermines](./type Vermine.md) aussi facilement que s’il s’agissait d’animaux.
+**Avantage.** Les sorts ou capacités spéciales du personnage qui n’affectent normalement que les animaux peuvent cibler les vermines (celles qui pouvaient déjà affecter les vermines continuent de fonctionner). Il peut utiliser sa capacité d’empathie sauvage pour influencer les [[type Vermine|vermines]] aussi facilement que s’il s’agissait d’animaux.

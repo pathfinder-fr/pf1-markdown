@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.117*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 13 (Dex +2, naturelle +1, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -26,9 +26,9 @@ Categories:
 {s:BDTexte|**Espace occupé** 75 cm (1/2 {s:c}) ; **Allonge** 0 m}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 15, **Con** 11, **Int** 2, **Sag** 16, **Cha** 5}
-{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 9 (13 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +10, [Escamotage](./Escamotage.md) +3}
+{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 9 (13 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Escalade]] +10, [[Escamotage]] +3}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire ou groupe (2-4)}

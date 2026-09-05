@@ -14,9 +14,9 @@ Categories:
 {s:pucem|Humanoïde|Marais|Tropical}
 - *Source : Bestiaire 2* p.158
 - **PX** 200
-- Grippli [rôdeur](./Rôdeur.md) 1
-- [Humanoïde](./type Humanoïde.md) ([grippli](./sous-type Grippli.md)) de taille P, N
-- **Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +5
+- Grippli [[rôdeur]] 1
+- [[type Humanoïde|Humanoïde]] ([[sous-type grippli|grippli]]) de taille P, N
+- **Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5
 (((Défense)))
 - **CA** 16, contact 14, pris au dépourvu 13 (armure +2, Dex +3, taille +1)
 - **pv** 12 (1d10+2)
@@ -25,20 +25,20 @@ Categories:
 - **VD** 9 m (6 {s:c}), escalade 6 m (4 {s:c})
 - **Corps à corps** épée courte, +3 (1d4+1/19–20)
 - **Distance** dard, +5 (1d3+1) ou filet, +5 (spécial)
-- **Attaques spéciales** [ennemi juré](./ennemi juré.md) ([vermines](./type Vermine.md), +2)
+- **Attaques spéciales** [[ennemi juré]] ([[type vermine|vermines]], +2)
 (((Caractéristiques)))
 - **For** 12, **Dex** 17, **Con** 13, **Int** 12, **Sag** 12, **Cha** 8
 - **BBA** +1, **BMO** +1, **DMD** 14
-- **Dons** [Autonome](./Autonome.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +4, [Discrétion](./Discrétion.md) +11 (+15 en forêt ou dans les marécages), [Dressage](./Dressage.md) +3, [Escalade](./Escalade.md) +13, [Perception](./Perception.md) +5, [Premiers secours](./Premiers secours.md) +7, [Survie](./Survie.md) +7 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) en forêt ou dans les marécages
+- **Dons** [[Autonome]]
+- **Compétences** [[Acrobaties]] +4, [[Discrétion]] +11 (+15 en forêt ou dans les marécages), [[Dressage]] +3, [[Escalade]] +13, [[Perception]] +5, [[Premiers secours]] +7, [[Survie]] +7 ; **Modificateurs raciaux** +4 en [[Discrétion]] en forêt ou dans les marécages
 - **Langues** commun, grippli
-- **Particularités** déplacement facilité (marais), [empathie sauvage](./empathie sauvage.md), [pistage](./Rôdeur.md#pistage)
+- **Particularités** déplacement facilité (marais), [[empathie sauvage]], [[rôdeur#pistage|pistage]]
 (((Écologie)))
 - **Environnement** forêts/marécages chauds
-- **Organisation sociale** solitaire, bande (2–5), meute (6–11) ou tribu (21–30 plus 1 chef [prêtre](./Prêtre.md) de niveau 3)
+- **Organisation sociale** solitaire, bande (2–5), meute (6–11) ou tribu (21–30 plus 1 chef [[prêtre]] de niveau 3)
 - **Trésor** équipement de PNJ (armure de cuir, 4 dards, filet, épée courte, autres trésors)
 (((Capacités spéciales)))
-- **Déplacement facilité (marais) (Ext).** Un grippli peut traverser un terrain difficile à sa vitesse normale lorsqu’il se trouve dans les marais (ce qui lui donne la capacité [respiration aquatique](./Respiration aquatique (capacité).md), uniquement dans les marécages). Les terrains modifiés par magie continuent à l’affecter normalement cependant.
+- **Déplacement facilité (marais) (Ext).** Un grippli peut traverser un terrain difficile à sa vitesse normale lorsqu’il se trouve dans les marais (ce qui lui donne la capacité [[respiration aquatique (capacité)|respiration aquatique]], uniquement dans les marécages). Les terrains modifiés par magie continuent à l’affecter normalement cependant.
 
 </div>
 
@@ -58,10 +58,10 @@ possèdent pas de DV raciaux. Ils partagent les traits raciaux suivants.
 - **Taille P.** Les gripplis sont de taille P.
 - **Rapide.** Les gripplis ont une vitesse de base de 9 mètres et une vitesse d’escalade de base de 6 mètres.
 - **Vision dans le noir.** Les gripplis peuvent voir dans le noir jusqu’à une distance de 18 mètres.
-- **Camouflage.** Les gripplis bénéficient d’un bonus de +4 aux tests de [Discrétion](./Discrétion.md) dans les marais et les forêts.
+- **Camouflage.** Les gripplis bénéficient d’un bonus de +4 aux tests de [[Discrétion]] dans les marais et les forêts.
 - **Déplacement facilité (marais).** Voir ci-contre.
 - **Apprentissage martial.** Les gripplis sont formés au maniement des filets.
-- **Langues.** Les gripplis parlent le commun et le grippli. Ceux qui possèdent une [Intelligence](./Intelligence.md) élevée peuvent choisir des langages supplémentaires dans la liste suivante : bourbiérin, draconique, elfique, gnome, gobelin, sylvestre.
+- **Langues.** Les gripplis parlent le commun et le grippli. Ceux qui possèdent une [[Intelligence]] élevée peuvent choisir des langages supplémentaires dans la liste suivante : bourbiérin, draconique, elfique, gnome, gobelin, sylvestre.
 
-{s:VoirAussiAvant}La page de la race [Grippli](./grippli (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Grippli (race)|Grippli]]{s:VoirAussiAprès}
 </div></td></tr></table>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#ARGENT
 ---
 
->>> [Matériaux spéciaux#ARGENT](./Matériaux spéciaux.md#ARGENT)
+>>> [[Matériaux spéciaux#ARGENT]]

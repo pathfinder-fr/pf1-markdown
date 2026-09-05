@@ -11,11 +11,11 @@ Categories:
 
 {s:GC}*Vous cherchez à créer un véritable chef d’œuvre.*
 
-**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+**Catégorie.** [[Dons#DONHISTOIRE|histoire]]
 
-**Conditions.** Vous devez avoir vendu cinq œuvres d’art ou plus de votre création pour une valeur totale d’au moins 5 000 po, avoir donné au moins cinq représentations devant un public de 50 spectateurs ou plus et présenter une superbe prestation au minimum (voir la description de la compétence [Représentation](./Représentation.md)) ou encore avoir l’[historique](./Générateur dhistorique.md) Virtuose.
+**Conditions.** Vous devez avoir vendu cinq œuvres d’art ou plus de votre création pour une valeur totale d’au moins 5 000 po, avoir donné au moins cinq représentations devant un public de 50 spectateurs ou plus et présenter une superbe prestation au minimum (voir la description de la compétence [[Représentation]]) ou encore avoir l’[[Générateur dhistorique|historique]] Virtuose.
 
-**Avantages.** Choisissez une unique compétence d’[Artisanat](./Artisanat.md) ou de [Représentation](./Représentation.md). Quand vous choisissez de [faire 10](./faire 10.md), considérez que vous avez fait 15.
+**Avantages.** Choisissez une unique compétence d’[[Artisanat]] ou de [[Représentation]]. Quand vous choisissez de [[faire 10]], considérez que vous avez fait 15.
 
 **Objectif.** Vendre une unique œuvre d’art de votre conception pour un minimum de 25 000 po ou donner au moins dix représentations devant un parterre de cent spectateurs ou plus en obtenant à chaque fois un résultat sublime ou mieux, ou encore avoir comme mécène le dirigeant d’un pays ou d’une ville de 100 000 âmes minimum. Dans ces trois cas, vous devez arriver à vos fins en utilisant la compétence choisie.
 

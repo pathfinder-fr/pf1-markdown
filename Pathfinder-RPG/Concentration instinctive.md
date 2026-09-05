@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage a appris à entrer dans un état second quand il lance des sorts, ce qui lui permet d’ignorer les distractions, les dégâts, les effets météorologiques et même les effets des autres sorts. *
 
-**Condition.** [Magie de guerre](./Magie de guerre.md)
+**Condition.** [[Magie de guerre]]
 
-**Avantage.** Le personnage n’a pas besoin de faire de test de [Concentration](./concentration.md) quand il est affecté par un [effet climatique](./Climat.md) vigoureux ou violent. Il gagne un bonus de +2 à tous les autres tests de [Concentration](./concentration.md).
+**Avantage.** Le personnage n’a pas besoin de faire de test de [[Concentration]] quand il est affecté par un [[Climat|effet climatique]] vigoureux ou violent. Il gagne un bonus de +2 à tous les autres tests de [[Concentration]].

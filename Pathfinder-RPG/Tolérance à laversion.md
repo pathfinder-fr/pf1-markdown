@@ -9,6 +9,6 @@ Categories:
 
 {s:cm}*Le vampire est traqué depuis si longtemps qu’il a développé une certaine résistance aux tactiques habituelles de mise en fuite des tueurs de vampires.*
 
-**Conditions.** [Vampire](./Vampire.md)
+**Conditions.** [[Vampire]]
 
-**Avantages.** Le vampire gagne un bonus de +2 aux jets pour résister à l’aversion pour les objets, les sons et les matériaux appropriés pour un vampire de ce type (comme, par exemple, l’ail, les symboles sacrés et les miroirs pour un moroï). Quand il se retrouve face à ces choses, le vampire peut faire un [jet de sauvegarde](./JDS.md) aussitôt plutôt qu’après un [round](./round.md).
+**Avantages.** Le vampire gagne un bonus de +2 aux jets pour résister à l’aversion pour les objets, les sons et les matériaux appropriés pour un vampire de ce type (comme, par exemple, l’ail, les symboles sacrés et les miroirs pour un moroï). Quand il se retrouve face à ces choses, le vampire peut faire un [[jds|jet de sauvegarde]] aussitôt plutôt qu’après un [[round]].

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Les profils de véhicules#
 ---
 
->>> [Les profils de véhicules#](./Les profils de véhicules.md#)
+>>> [[Les profils de véhicules#]]

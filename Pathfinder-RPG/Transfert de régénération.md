@@ -11,11 +11,11 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:cm} **Cette option est plus courante chez les [trolls](./Troll.md).**
+{s:cm} **Cette option est plus courante chez les [[Troll|trolls]].**
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Cham](./Chaman.md) 3, [Dru](./Druide.md) 3, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
+**École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
 **Portée** courte (7,5 m + 1,5 m/2 niveaux)
 **Cible** une créature vivante consentante
 **Durée** 1 minute

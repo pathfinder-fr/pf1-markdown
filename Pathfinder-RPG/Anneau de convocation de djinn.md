@@ -8,14 +8,14 @@ Categories:
 - Objet magique
 ---
 
-<div style="float:right">***Retour aux [anneaux magiques](./Anneaux magiques.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[anneaux magiques]].***</div><div class="BD">
 {s:BDTitre|Anneau de convocation de djinn
 |{s:AE}}
-**Aura** [Abjuration](./Abjuration.md) forte ; **NLS** 5 ; **Emplacement** anneau ; **Prix** 125000 PO ; **Poids** —
+**Aura** [[Abjuration]] forte ; **NLS** 5 ; **Emplacement** anneau ; **Prix** 125000 PO ; **Poids** —
 (((Description)))
-Cet anneau de « génie » sert de portail pour convoquer un [djinn](./Djinn.md) spé­cifique (voir le Bestiaire) du Plan de l’air. Lorsque le porteur frotte l’anneau (une action simple), il envoie un appel et le djinn apparaît au round suivant. Le djinn obéit au porteur de l’anneau et le sert fidèlement mais jamais plus d’une heure par jour. Si jamais le djinn de l’anneau est tué, l’anneau perd sa magie et ne vaut plus rien.
+Cet anneau de « génie » sert de portail pour convoquer un [[djinn]] spé­cifique (voir le Bestiaire) du Plan de l’air. Lorsque le porteur frotte l’anneau (une action simple), il envoie un appel et le djinn apparaît au round suivant. Le djinn obéit au porteur de l’anneau et le sert fidèlement mais jamais plus d’une heure par jour. Si jamais le djinn de l’anneau est tué, l’anneau perd sa magie et ne vaut plus rien.
 (((Fabrication)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), [portail](./Portail.md); **Coût** 62500  PO
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], [[portail]]; **Coût** 62500  PO
 </div>
 
 *Source : Armes et Équipements p169*

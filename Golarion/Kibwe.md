@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-La cité de Kibwe est située à l'est de la grande jungle du [Mwangi](./Mwangi.md).
+La cité de Kibwe est située à l'est de la grande jungle du [[Mwangi]].
 
-Contrairement à ses voisines situées dans la jungle, la ville est très sûre et de nombreuses races s'y côtoient pour commercer à l'abri derrière ses murs couverts de runes. Elle accueille aussi de nombreux réfugiés venus d'[Usaro](./Usaro.md).
+Contrairement à ses voisines situées dans la jungle, la ville est très sûre et de nombreuses races s'y côtoient pour commercer à l'abri derrière ses murs couverts de runes. Elle accueille aussi de nombreux réfugiés venus d'[[Usaro]].

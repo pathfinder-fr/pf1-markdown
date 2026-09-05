@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#ESPRITVIDE
 ---
 
->>> [pouvoirs de rage#ESPRITVIDE](./Pouvoirs de rage.md#ESPRITVIDE)
+>>> [[pouvoirs de rage#ESPRITVIDE]]

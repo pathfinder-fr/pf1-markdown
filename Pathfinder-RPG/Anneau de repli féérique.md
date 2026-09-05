@@ -11,10 +11,10 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:mca}**École** [invocation](./Invocation.md) ([création](./../Création.md)) ; **Niveau** [Cham](./Chaman.md) 7, [Dru](./Druide.md) 7, [Sor](./Sorcière.md) 7{br}
-**Temps d’incantation** 1 [action simple](./Action simple.md){br}
-**Composantes** [V, G, FD](./composantes.md){br}
-**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md)){br}
+{s:mca}**École** [[invocation]] ([[création]]) ; **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 7, [[Sorcière|Sor]] 7{br}
+**Temps d’incantation** 1 [[action simple]]{br}
+**Composantes** [[composantes|V, G, FD]]{br}
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]]){br}
 **Effet** prairie extradimensionnelle, faisant un maximum de trois cubes de 3 m de côté /niveau (S){br}
 **Durée** 2 heures/niveau (T){br}
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non

@@ -17,44 +17,44 @@ Grâce à un petit nombre d'élus, le pouvoir sacré du divin brille. Appelés p
 | CLASS="gauche" | Nombre de sorts par jour
 |- CLASS="premier"
 | 1 || +1 || +0 || +1 || +1
-| CLASS="gauche" | [Aura sainte](./RM Paladin de prestige.md#AURASAINTE), [Détection du mal](./RM Paladin de prestige.md#DÉTECTIONDUMAL), [Main divine](./RM Paladin de prestige.md#MAINDIVINE), [Pacte sacrée](./RM Paladin de prestige.md#PACTESACRÉ)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./RM Paladin de prestige.md#SORTS)
+| CLASS="gauche" | [[rm paladin de prestige#AURASAINTE|Aura sainte]], [[rm paladin de prestige#DÉTECTIONDUMAL|Détection du mal]], [[rm paladin de prestige#MAINDIVINE|Main divine]], [[rm paladin de prestige#PACTESACRÉ|Pacte sacrée]]
+| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [Imposition des mains](./RM Paladin de prestige.md#IMPOSITIONDESMAINS), [Grâce divine](./RM Paladin de prestige.md#GRACEDIVINE)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./RM Paladin de prestige.md#SORTS)
+| CLASS="gauche" | [[rm paladin de prestige#IMPOSITIONDESMAINS|Imposition des mains]], [[rm paladin de prestige#GRACEDIVINE|Grâce divine]]
+| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
 |-
 | 3 || +3 || +1 || +2 || +2
-| CLASS="gauche" | [Don supplémentaire](./RM Paladin de prestige.md#DONSUPPLÉMENTAIRE), [Santé divine](./RM Paladin de prestige.md#SANTÉDIVINE)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./RM Paladin de prestige.md#SORTS)
+| CLASS="gauche" | [[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]], [[rm paladin de prestige#SANTÉDIVINE|Santé divine]]
+| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 4 || +4 || +1 || +2 || +2
-| CLASS="gauche" | [Canalisation d'énergie](./RM Paladin de prestige.md#CANALISATIONDÉNERGIE)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./RM Paladin de prestige.md#SORTS)
+| CLASS="gauche" | [[rm paladin de prestige#CANALISATIONDÉNERGIE|Canalisation d'énergie]]
+| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
 |-
 | 5 || +5 || +2 || +3 || +3
 | CLASS="gauche" | —
-| CLASS="gauche" | [+1 niveau dans la classe existante](./RM Paladin de prestige.md#SORTS)
+| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 6 || +6 || +2 || +3 || +3
-| CLASS="gauche" | [Don supplémentaire](./RM Paladin de prestige.md#DONSUPPLÉMENTAIRE)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./RM Paladin de prestige.md#SORTS)
+| CLASS="gauche" | [[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]]
+| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
 |-
 | 7 || +7 || +2 || +4 || +4
 | CLASS="gauche" | —
-| CLASS="gauche" | [+1 niveau dans la classe existante](./RM Paladin de prestige.md#SORTS)
+| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 8 || +8 || +3 || +4 || +4
-| CLASS="gauche" | [Résistance divine](./RM Paladin de prestige.md#RÉSISTANCEDIVINE)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./RM Paladin de prestige.md#SORTS)
+| CLASS="gauche" | [[rm paladin de prestige#RÉSISTANCEDIVINE|Résistance divine]]
+| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
 |-
 | 9 || +9 || +3 || +5 || +5
-| CLASS="gauche" | [Don supplémentaire](./RM Paladin de prestige.md#DONSUPPLÉMENTAIRE)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./RM Paladin de prestige.md#SORTS)
+| CLASS="gauche" | [[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]]
+| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
 |-
 | 10 || +10 || +3 || +5 || +5
-| CLASS="gauche" | [Champion divin](./RM Paladin de prestige.md#CHAMPIONDIVIN)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./RM Paladin de prestige.md#SORTS)
+| CLASS="gauche" | [[rm paladin de prestige#CHAMPIONDIVIN|Champion divin]]
+| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
 |}
 </center>
 
@@ -71,14 +71,14 @@ Pour devenir un paladin de prestige, il faut satisfaire aux conditions suivantes
 
 **Alignement.** Loyal Bon.
 
-**Compétence.** 2 rang en [Connaissances](./../Pathfinder-RPG/Connaissances.md) (religion),2 rang en [Connaissances](./../Pathfinder-RPG/Connaissances.md) (noblesse),4 rang en [équitation](./../Pathfinder-RPG/Équitation.md).
+**Compétence.** 2 rang en [[Pathfinder-RPG.Connaissances|Connaissances]] (religion),2 rang en [[Pathfinder-RPG.Connaissances|Connaissances]] (noblesse),4 rang en [[Pathfinder-RPG.Équitation|équitation]].
 
 **Sorts.** Capacité à lancer des sorts divins de niveau 1.
 
 ### Compétence de classe
-Voici les compétences de classe de paladin de prestige : [Art de la Magie](./../Pathfinder-RPG/Art de la magie.md) (Int), [Artisanat](./../Pathfinder-RPG/Artisanat.md) (Int), [Connaissances](./../Pathfinder-RPG/Connaissances.md) (noblesse) (Int), [Connaissances](./../Pathfinder-RPG/Connaissances.md) (religion) (Int), [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) (Cha), [Dressage](./../Pathfinder-RPG/Dressage.md) (Cha), [Équitation](./../Pathfinder-RPG/Équitation.md) (Dex), [Premiers secours](./../Pathfinder-RPG/Premiers secours.md) (Sag), [Profession](./../Pathfinder-RPG/Profession.md) (Sag) et [Psychologie](./../Pathfinder-RPG/Psychologie.md) (Sag).
+Voici les compétences de classe de paladin de prestige : [[Pathfinder-RPG.Art de la magie|Art de la Magie]] (Int), [[Pathfinder-RPG.Artisanat|Artisanat]] (Int), [[Pathfinder-RPG.Connaissances|Connaissances]] (noblesse) (Int), [[Pathfinder-RPG.Connaissances|Connaissances]] (religion) (Int), [[Pathfinder-RPG.Diplomatie|Diplomatie]] (Cha), [[Pathfinder-RPG.Dressage|Dressage]] (Cha), [[Pathfinder-RPG.Équitation|Équitation]] (Dex), [[Pathfinder-RPG.Premiers secours|Premiers secours]] (Sag), [[Pathfinder-RPG.Profession|Profession]] (Sag) et [[Pathfinder-RPG.Psychologie|Psychologie]] (Sag).
 
-**Nombre de rang par niveau.** 2 + modificateur d’[Intelligence](./../Pathfinder-RPG/Intelligence.md).
+**Nombre de rang par niveau.** 2 + modificateur d’[[Pathfinder-RPG.Intelligence|Intelligence]].
 
 ### Caractéristique de classe
 Voici les caractéristiques de classe de paladin de prestige
@@ -92,65 +92,65 @@ Aux niveaux indiqués, le personnage gagne de nouveaux sorts comme s’il avait 
 
 {s:Reference|AURASAINTE}
 #### Aura sainte (Ext)
-Un paladin de prestige rayonne de l'énergie sacrée dans un rayon de 1,5 mètre. Cette aura inflige à chaque round des dégâts sacrés égaux au modificateur [Charisme](./../Pathfinder-RPG/Charisme.md) des paladins de prestige plus son niveau de paladin de prestige aux [extérieurs](./../Pathfinder-RPG/type Extérieur.md) maléfiques et aux [morts-vivants](./../Pathfinder-RPG/type Mort-vivant.md) maléfiques qui lui sont adjacents.
+Un paladin de prestige rayonne de l'énergie sacrée dans un rayon de 1,5 mètre. Cette aura inflige à chaque round des dégâts sacrés égaux au modificateur [[Pathfinder-RPG.Charisme|Charisme]] des paladins de prestige plus son niveau de paladin de prestige aux [[Pathfinder-RPG.type Extérieur|extérieurs]] maléfiques et aux [[Pathfinder-RPG.type Mort-vivant|morts-vivants]] maléfiques qui lui sont adjacents.
 
-De plus, le paladin de prestige gagne un bonus de parade égal à son modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md) (le cas échéant) à sa [CA](./../Pathfinder-RPG/CA.md) contre les attaques d'[extérieur](./../Pathfinder-RPG/type Extérieur.md) maléfique et de [mort-vivant](./../Pathfinder-RPG/type Mort-vivant.md) maléfique que l'attaque se produit de l’intérieur de l’aura ou non.
+De plus, le paladin de prestige gagne un bonus de parade égal à son modificateur de [[Pathfinder-RPG.Charisme|Charisme]] (le cas échéant) à sa [[Pathfinder-RPG.CA|CA]] contre les attaques d'[[Pathfinder-RPG.type Extérieur|extérieur]] maléfique et de [[Pathfinder-RPG.type Mort-vivant|mort-vivant]] maléfique que l'attaque se produit de l’intérieur de l’aura ou non.
 
 {s:Reference|DÉTECTIONDUMAL}
 
 #### Détection du mal (Mag)
-Un paladin de prestige peut détecter le Mal à volonté, comme par le sort de *[détection du Mal](./../Pathfinder-RPG/Détection.md)*. Par une [action de mouvement](./../Pathfinder-RPG/Action de mouvement.md), le paladin de prestige peut se concentrer sur un objet ou un individu unique distant de 18 m (12 cases) ou moins pour déterminer s’il est d’[alignement](./../Pathfinder-RPG/Alignement.md) Mauvais et pour connaître la puissance de son aura comme s’il l’avait étudié pendant trois rounds. Lorsqu’il se concentre sur un objet ou un individu, le paladin de prestige ne détecte pas le Mal sur les autres objets ou individus à proximité.
+Un paladin de prestige peut détecter le Mal à volonté, comme par le sort de *[[Pathfinder-RPG.détection|détection du Mal]]*. Par une [[Pathfinder-RPG.action de mouvement|action de mouvement]], le paladin de prestige peut se concentrer sur un objet ou un individu unique distant de 18 m (12 cases) ou moins pour déterminer s’il est d’[[Pathfinder-RPG.alignement|alignement]] Mauvais et pour connaître la puissance de son aura comme s’il l’avait étudié pendant trois rounds. Lorsqu’il se concentre sur un objet ou un individu, le paladin de prestige ne détecte pas le Mal sur les autres objets ou individus à proximité.
 
-Si le paladin de prestige possède détection du mal par le biais d’une autre classe ou d'un don, alors, il peut utiliser détection du mal comme une [action libre](./../Pathfinder-RPG/Action libre.md).
+Si le paladin de prestige possède détection du mal par le biais d’une autre classe ou d'un don, alors, il peut utiliser détection du mal comme une [[Pathfinder-RPG.action libre|action libre]].
 
 {s:Reference|MAINDIVINE}
 
 #### Main divine (Sur)
-Un paladin de prestige inflige des dégâts supplémentaires à tout adversaire maléfique qu'elle frappe. Elle applique son modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md) en bonus sacrée aux dégâts lorsqu'elle frappe un adversaire mauvais. Si l'ennemi est un [extérieur](./../Pathfinder-RPG/type Extérieur.md) avec le sous-type mal, un dragon maléfique ou une créature de type [mort-vivant](./../Pathfinder-RPG/type Mort-vivant.md), le bonus aux dégâts augmente à 2 points de dégâts par point de modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md).
+Un paladin de prestige inflige des dégâts supplémentaires à tout adversaire maléfique qu'elle frappe. Elle applique son modificateur de [[Pathfinder-RPG.Charisme|Charisme]] en bonus sacrée aux dégâts lorsqu'elle frappe un adversaire mauvais. Si l'ennemi est un [[Pathfinder-RPG.type Extérieur|extérieur]] avec le sous-type mal, un dragon maléfique ou une créature de type [[Pathfinder-RPG.type Mort-vivant|mort-vivant]], le bonus aux dégâts augmente à 2 points de dégâts par point de modificateur de [[Pathfinder-RPG.Charisme|Charisme]].
 
 {s:Reference|PACTESACRÉ}
 
 #### Pacte sacré  (Mag)
 Un paladin de prestige gagne un lien divin se tisse entre lui et son dieu. Celui-ci prend les deux formes suivantes.
 
-**Arme sacrée.** La première forme de lien permet à un paladin de prestige d’enchanter son arme par une [action simple](./../Pathfinder-RPG/Action simple.md) en faisant appel à un esprit céleste qui lui accorde son aide pendant une minute par niveau de paladin de prestige. Lorsqu’il est appelé, l’esprit fait briller l’arme comme une torche. Au niveau 5 du personnage, cet esprit donne à l’arme un bonus d’altération de +1. Tous les trois niveaux suivants du personnages, l’arme gagne un bonus d’altération de +1 supplémentaire, jusqu’à un maximum de +6 au niveau 20. Ces bonus peuvent être ajoutés directement à l’arme et cumulés avec les bonus qu’elle possède déjà et ce jusqu’à un maximum de +5. Ces bonus peuvent également être utilisés pour ajouter l’une des propriétés suivantes à l’arme : [acérée](./../Pathfinder-RPG/Armes magiques.md#Acérée), [axiomatique](./../Pathfinder-RPG/Armes magiques.md#Axiomatique), de [destruction](./../Pathfinder-RPG/Armes magiques.md#Destruction), de [feu](./../Pathfinder-RPG/Armes magiques.md#Feu), de [feu intense](./../Pathfinder-RPG/Armes magiques.md#Feuintense), de [lumière](./../Pathfinder-RPG/Armes magiques.md#Lumière), de [rapidité](./../Pathfinder-RPG/Armes magiques.md#Rapidité), [gardienne](./../Pathfinder-RPG/Armes magiques.md#Gardienne), [miséricordieuse](./../Pathfinder-RPG/Armes magiques.md#Miséricordieuse) ou [sainte](./../Pathfinder-RPG/Armes magiques.md#Sainte). Ajouter une de ces propriétés coûte une quantité de bonus équivalente au coût de la propriété (voir [ici](./../Pathfinder-RPG/Armes magiques.md#DTMSPECIALECAC)). Ces propriétés s’ajoutent à celles que l’arme possède déjà mais les propriétés en double ne se cumulent pas. Si l’arme n’est pas magique, il faut lui ajouter un bonus d’altération d’au moins +1 avant de pouvoir lui conférer des propriétés. Les bonus et les propriétés donnés par l’esprit sont déterminés lorsqu’il est appelé et ne peuvent donc être modifiés que lorsque l’esprit est appelé à nouveau. L’esprit céleste n’accorde aucun bonus si quelqu’un d’autre que le paladin tient l’arme, mais les bonus réapparaissent si l’arme revient dans la main du paladin. Ces bonus ne s’appliquent qu’à une seule tête si l’arme est une arme double. Un paladin de prestige peut utiliser cette capacité une fois par jour au niveau 1 et une fois de plus par jour tous les quatre niveaux suivants, pour un total de trois utilisations quotidiennes au niveau 9.
+**Arme sacrée.** La première forme de lien permet à un paladin de prestige d’enchanter son arme par une [[Pathfinder-RPG.action simple|action simple]] en faisant appel à un esprit céleste qui lui accorde son aide pendant une minute par niveau de paladin de prestige. Lorsqu’il est appelé, l’esprit fait briller l’arme comme une torche. Au niveau 5 du personnage, cet esprit donne à l’arme un bonus d’altération de +1. Tous les trois niveaux suivants du personnages, l’arme gagne un bonus d’altération de +1 supplémentaire, jusqu’à un maximum de +6 au niveau 20. Ces bonus peuvent être ajoutés directement à l’arme et cumulés avec les bonus qu’elle possède déjà et ce jusqu’à un maximum de +5. Ces bonus peuvent également être utilisés pour ajouter l’une des propriétés suivantes à l’arme : [[Pathfinder-RPG.armes magiques#Acérée|acérée]], [[Pathfinder-RPG.armes magiques#Axiomatique|axiomatique]], de [[Pathfinder-RPG.armes magiques#Destruction|destruction]], de [[Pathfinder-RPG.armes magiques#Feu|feu]], de [[Pathfinder-RPG.armes magiques#Feuintense|feu intense]], de [[Pathfinder-RPG.armes magiques#Lumière|lumière]], de [[Pathfinder-RPG.armes magiques#Rapidité|rapidité]], [[Pathfinder-RPG.armes magiques#Gardienne|gardienne]], [[Pathfinder-RPG.armes magiques#Miséricordieuse|miséricordieuse]] ou [[Pathfinder-RPG.armes magiques#Sainte|sainte]]. Ajouter une de ces propriétés coûte une quantité de bonus équivalente au coût de la propriété (voir [[Pathfinder-RPG.Armes magiques#DTMSPECIALECAC|ici]]). Ces propriétés s’ajoutent à celles que l’arme possède déjà mais les propriétés en double ne se cumulent pas. Si l’arme n’est pas magique, il faut lui ajouter un bonus d’altération d’au moins +1 avant de pouvoir lui conférer des propriétés. Les bonus et les propriétés donnés par l’esprit sont déterminés lorsqu’il est appelé et ne peuvent donc être modifiés que lorsque l’esprit est appelé à nouveau. L’esprit céleste n’accorde aucun bonus si quelqu’un d’autre que le paladin tient l’arme, mais les bonus réapparaissent si l’arme revient dans la main du paladin. Ces bonus ne s’appliquent qu’à une seule tête si l’arme est une arme double. Un paladin de prestige peut utiliser cette capacité une fois par jour au niveau 1 et une fois de plus par jour tous les quatre niveaux suivants, pour un total de trois utilisations quotidiennes au niveau 9.
 
 Si une arme est détruite alors qu’elle est liée à un esprit céleste, le paladin de prestige doit attendre de gagner un niveau ou que trente jours se soient écoulés avant de pouvoir utiliser cette capacité à nouveau. Pendant cette période d’attente, le paladin de prestige subit un malus de -1 à tous les jets d’attaque et de dégâts lorsqu’il combat avec une arme.
 
-**Destrier.** La seconde forme de lien permet à un paladin de prestige d’acquérir les services d’un destrier plus intelligent, fort et loyal que la moyenne, qui viendra l’aider dans sa croisade contre le mal. Il s’agit généralement d’un cheval lourd (pour un paladin de prestige de taille M) ou d’un poney (pour un paladin de prestige de taille P), mais des montures plus exotiques comme un sanglier, un chameau ou un chien sont également possibles. Le destrier suit les mêmes règles que les [compagnons animaux](./../Pathfinder-RPG/Compagnons animaux.md) des druides, avec un niveau de druide effectif égal au niveau du personnage. Les montures ainsi liées au paladin de prestige possèdent une [Intelligence](./../Pathfinder-RPG/Intelligence.md) d’au moins 6.
+**Destrier.** La seconde forme de lien permet à un paladin de prestige d’acquérir les services d’un destrier plus intelligent, fort et loyal que la moyenne, qui viendra l’aider dans sa croisade contre le mal. Il s’agit généralement d’un cheval lourd (pour un paladin de prestige de taille M) ou d’un poney (pour un paladin de prestige de taille P), mais des montures plus exotiques comme un sanglier, un chameau ou un chien sont également possibles. Le destrier suit les mêmes règles que les [[Pathfinder-RPG.compagnons animaux|compagnons animaux]] des druides, avec un niveau de druide effectif égal au niveau du personnage. Les montures ainsi liées au paladin de prestige possèdent une [[Pathfinder-RPG.Intelligence|Intelligence]] d’au moins 6.
 
-Une fois par jour, le paladin de prestige peut appeler son destrier auprès de lui en utilisant une [action complexe](./../Pathfinder-RPG/Action complexe.md). Cette capacité est équivalente à un sort d’un niveau égal au tiers du niveau du paladin de prestige. Le destrier apparaît immédiatement à côté du paladin de prestige et reste sur ce plan pendant 2 heures par niveau de paladin de prestige plus le modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md). Celui-ci peut le renvoyer à tout moment par une [action libre](./../Pathfinder-RPG/Action libre.md). Le paladin de prestige convoque toujours la même créature lors de chaque appel, mais il peut la libérer de son service (par exemple, si elle est devenue trop vieille pour l’assister dans sa croisade). Quand la monture apparaît, elle est en pleine santé, quels que soient les dégâts qu’elle ait pu subir lors de sa dernière apparition. Elle conserve son équipement d’un appel à l’autre (y compris la barde, la selle, les fontes et ainsi de suite). Appeler ce destrier est un pouvoir de type invocation (appel). Un paladin de prestige peut utiliser ce pouvoir une fois par jour au niveau 1 et une fois de plus chaque jour tous les quatre niveaux par la suite, pour un total de trois fois par jour au niveau 9.
+Une fois par jour, le paladin de prestige peut appeler son destrier auprès de lui en utilisant une [[Pathfinder-RPG.action complexe|action complexe]]. Cette capacité est équivalente à un sort d’un niveau égal au tiers du niveau du paladin de prestige. Le destrier apparaît immédiatement à côté du paladin de prestige et reste sur ce plan pendant 2 heures par niveau de paladin de prestige plus le modificateur de [[Pathfinder-RPG.Charisme|Charisme]]. Celui-ci peut le renvoyer à tout moment par une [[Pathfinder-RPG.action libre|action libre]]. Le paladin de prestige convoque toujours la même créature lors de chaque appel, mais il peut la libérer de son service (par exemple, si elle est devenue trop vieille pour l’assister dans sa croisade). Quand la monture apparaît, elle est en pleine santé, quels que soient les dégâts qu’elle ait pu subir lors de sa dernière apparition. Elle conserve son équipement d’un appel à l’autre (y compris la barde, la selle, les fontes et ainsi de suite). Appeler ce destrier est un pouvoir de type invocation (appel). Un paladin de prestige peut utiliser ce pouvoir une fois par jour au niveau 1 et une fois de plus chaque jour tous les quatre niveaux par la suite, pour un total de trois fois par jour au niveau 9.
 
-Au niveau 6, le destrier acquiert l’archétype [céleste](./../Pathfinder-RPG/Archétypes.md#Créature céleste FP +A ou +B 1) et est désormais considéré comme une créature magique lorsqu’il s’agit de déterminer les effets des sorts. Au niveau 8, le destrier gagne une résistance à la magie égale au niveau du paladin de prestige + 11.
+Au niveau 6, le destrier acquiert l’archétype [[Pathfinder-RPG.Archétypes#Créature céleste FP +A ou +B 1|céleste]] et est désormais considéré comme une créature magique lorsqu’il s’agit de déterminer les effets des sorts. Au niveau 8, le destrier gagne une résistance à la magie égale au niveau du paladin de prestige + 11.
 
 Si le destrier vient à mourir, il disparaît immédiatement, laissant son équipement derrière lui. Le paladin de prestige doit attendre de gagner un niveau ou que trente jours se soient écoulés avant de pouvoir utiliser cette capacité à nouveau. Pendant cette période d’attente, le paladin de prestige subit un malus de -1 à tous les jets d’attaque et de dégâts lorsqu’il combat avec une arme.
 
 {s:Reference|IMPOSITIONDESMAINS}
 
 #### Imposition des mains (Sur)
-À partir du niveau 2, un paladin de prestige peut soigner ses blessures ou celles de ses camarades d’un simple toucher. Il peut utiliser ce pouvoir un nombre de fois par jour égal à la moitié de son niveau de paladin de prestige + son modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md). Chaque utilisation permet de soigner 1d6 points de vie par tranche de deux niveaux de paladin de prestige et nécessite une [action simple](./../Pathfinder-RPG/Action simple.md) (sauf si le paladin de prestige soigne ses propres blessures, auquel cas une [action rapide](./../Pathfinder-RPG/Action rapide.md) suffit). Contrairement à ce que son nom pourrait laisser penser, cette capacité ne nécessite qu’une seule main de libre pour être utilisée.
+À partir du niveau 2, un paladin de prestige peut soigner ses blessures ou celles de ses camarades d’un simple toucher. Il peut utiliser ce pouvoir un nombre de fois par jour égal à la moitié de son niveau de paladin de prestige + son modificateur de [[Pathfinder-RPG.Charisme|Charisme]]. Chaque utilisation permet de soigner 1d6 points de vie par tranche de deux niveaux de paladin de prestige et nécessite une [[Pathfinder-RPG.action simple|action simple]] (sauf si le paladin de prestige soigne ses propres blessures, auquel cas une [[Pathfinder-RPG.action rapide|action rapide]] suffit). Contrairement à ce que son nom pourrait laisser penser, cette capacité ne nécessite qu’une seule main de libre pour être utilisée.
 
-Le paladin de prestige peut également utiliser ce pouvoir de guérison pour infliger des blessures aux [mort-vivants](./../Pathfinder-RPG/type Mort-vivant.md), à hauteur de 1d6 points de dégâts par tranche de deux niveaux de paladin de prestige. Cette utilisation du pouvoir nécessite un [jet d’attaque de contact](./../Pathfinder-RPG/attaque de contact.md) au corps à corps et ne provoque pas d’attaque d’opportunité. Les [mort-vivants](./../Pathfinder-RPG/type Mort-vivant.md) ne bénéficient d’aucun jet de sauvegarde contre ces dégâts.
+Le paladin de prestige peut également utiliser ce pouvoir de guérison pour infliger des blessures aux [[Pathfinder-RPG.type Mort-vivant|mort-vivants]], à hauteur de 1d6 points de dégâts par tranche de deux niveaux de paladin de prestige. Cette utilisation du pouvoir nécessite un [[Pathfinder-RPG.attaque de contact|jet d’attaque de contact]] au corps à corps et ne provoque pas d’attaque d’opportunité. Les [[Pathfinder-RPG.type Mort-vivant|mort-vivants]] ne bénéficient d’aucun jet de sauvegarde contre ces dégâts.
 
 Si le paladin de prestige possède Imposition des mains par le biais d’une autre classe, alors les niveaux de paladin de prestige se cumulent avec tout autre niveau de classe qui permet l’imposition des mains
 
 {s:Reference|GRACEDIVINE}
 #### Grâce divine (Sur)
-Un paladin de prestige de niveau 2 ou plus bénéficie d’un bonus à tous ses [jets de sauvegarde](./../Pathfinder-RPG/jet de sauvegarde.md) égal à son bonus de [Charisme](./../Pathfinder-RPG/Charisme.md) (s’il en a un).
+Un paladin de prestige de niveau 2 ou plus bénéficie d’un bonus à tous ses [[Pathfinder-RPG.jet de sauvegarde|jets de sauvegarde]] égal à son bonus de [[Pathfinder-RPG.Charisme|Charisme]] (s’il en a un).
 
-Si le paladin de prestige possède Grace divine par le biais d’une autre classe, il gagne un bonus sacrée à sa [CA](./../Pathfinder-RPG/CA.md) égal à son bonus de Charisme. Lorsque le personnage est pris au dépourvu ou qu’il perd son bonus de Dextérité à la CA d’une façon ou d’une autre, il perd aussi ce bonus.
+Si le paladin de prestige possède Grace divine par le biais d’une autre classe, il gagne un bonus sacrée à sa [[Pathfinder-RPG.CA|CA]] égal à son bonus de Charisme. Lorsque le personnage est pris au dépourvu ou qu’il perd son bonus de Dextérité à la CA d’une façon ou d’une autre, il perd aussi ce bonus.
 
 {s:Reference|DONSUPPLÉMENTAIRE}
 #### Don supplémentaire
 Un paladin de prestige de niveau 3,6 et 9, gagne un don supplémentaire qui vient s’ajouter à ceux auxquels tous les personnages ont droit en montant de niveau. Il peut ignorer les prérequis liés aux compétences et aux caractéristiques.
 
-Ces dons supplémentaires doivent être choisis parmi les [don de combat](./../Pathfinder-RPG/don de combat.md#DONCOMBAT) et la liste suivante : [Attrait de la vie](./../Pathfinder-RPG/Attrait de la vie.md), [Bienfait du croyant](./../Pathfinder-RPG/Bienfait du croyant.md), [Canalisation alignée](./../Pathfinder-RPG/Canalisation alignée.md), [Canalisation rapide](./../Pathfinder-RPG/Canalisation rapide.md), [Charge radieuse](./../Pathfinder-RPG/Charge radieuse.md), Compagnon Monstrueux, [Foi absolue](./../Pathfinder-RPG/Foi absolue.md), [Guérison réactive](./../Pathfinder-RPG/Guérison réactive.md), [Imposition des mains supplémentaire](./../Pathfinder-RPG/Imposition des mains supplémentaire.md), [Mains du croyant](./../Pathfinder-RPG/Mains du croyant.md),  [Mot de guérison](./../Pathfinder-RPG/Mot de guérison.md), [Mur de boucliers canalisé](./../Pathfinder-RPG/Mur de boucliers canalisé.md), [Rayon d'énergie canalisée](./../Pathfinder-RPG/Rayon dénergie canalisée.md), [Récompense de grâce](./../Pathfinder-RPG/Récompense de grâce.md), [Récompense de vie](./../Pathfinder-RPG/Récompense de vie.md), [Renaissance canalisée](./../Pathfinder-RPG/Renaissance canalisée.md), [Renvoi des morts-vivants](./../Pathfinder-RPG/Renvoi des morts-vivants.md), [Science de la canalisation](./../Pathfinder-RPG/Science de la canalisation.md).
+Ces dons supplémentaires doivent être choisis parmi les [[Pathfinder-RPG.don de combat#DONCOMBAT|don de combat]] et la liste suivante : [[Pathfinder-RPG.Attrait de la vie|Attrait de la vie]], [[Pathfinder-RPG.Bienfait du croyant|Bienfait du croyant]], [[Pathfinder-RPG.Canalisation alignée|Canalisation alignée]], [[Pathfinder-RPG.Canalisation rapide|Canalisation rapide]], [[Pathfinder-RPG.Charge radieuse|Charge radieuse]], Compagnon Monstrueux, [[Pathfinder-RPG.Foi absolue|Foi absolue]], [[Pathfinder-RPG.Guérison réactive|Guérison réactive]], [[Pathfinder-RPG.Imposition des mains supplémentaire|Imposition des mains supplémentaire]], [[Pathfinder-RPG.Mains du croyant|Mains du croyant]],  [[Pathfinder-RPG.Mot de guérison|Mot de guérison]], [[Pathfinder-RPG.Mur de boucliers canalisé|Mur de boucliers canalisé]], [[Pathfinder-RPG.Rayon dénergie canalisée|Rayon d'énergie canalisée]], [[Pathfinder-RPG.Récompense de grâce|Récompense de grâce]], [[Pathfinder-RPG.Récompense de vie|Récompense de vie]], [[Pathfinder-RPG.Renaissance canalisée|Renaissance canalisée]], [[Pathfinder-RPG.Renvoi des morts-vivants|Renvoi des morts-vivants]], [[Pathfinder-RPG.Science de la canalisation|Science de la canalisation]].
 
 {s:Reference|SANTÉDIVINE}
 #### Santé divine (Ext)
-Un paladin de prestige de niveau 3 est immunisé contre toutes les [maladies](./../Pathfinder-RPG/Maladies.md), y compris celles qui sont d’origine magique ou surnaturelle comme la putréfaction de la momie.
+Un paladin de prestige de niveau 3 est immunisé contre toutes les [[Pathfinder-RPG.maladies|maladies]], y compris celles qui sont d’origine magique ou surnaturelle comme la putréfaction de la momie.
 
-Si le paladin de prestige possède la Santé divine par le biais d’une autre classe ou est déjà immunisé contre les maladies, il devient alors immunisé contre tous les [poisons](./../Pathfinder-RPG/Poisons.md), y compris ceux qui sont d’origine magique ou surnaturelle.
+Si le paladin de prestige possède la Santé divine par le biais d’une autre classe ou est déjà immunisé contre les maladies, il devient alors immunisé contre tous les [[Pathfinder-RPG.poisons|poisons]], y compris ceux qui sont d’origine magique ou surnaturelle.
 
 {s:Reference|CANALISATIONDÉNERGIE}
 
@@ -159,23 +159,23 @@ Les niveaux de paladin de prestige se cumulent avec tout autre niveau de classe 
 
 {s:Reference|RÉSISTANCEDIVINE}
 #### Résistance divine (Sur)
-Un paladin de prestige de niveau 8, gagne une [RD](./../Pathfinder-RPG/RD.md) 5/mal.
-De plus, avec une action de mouvement, il peut ajouter une [RD](./../Pathfinder-RPG/RD.md) égale a son niveau de paladin de prestige contre le mal pendant un nombre de round égale au modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md) multiplié par deux. Le prestige paladin peut utiliser ce pouvoir une fois par jour par deux niveaux de prestige paladin.
+Un paladin de prestige de niveau 8, gagne une [[Pathfinder-RPG.RD|RD]] 5/mal.
+De plus, avec une action de mouvement, il peut ajouter une [[Pathfinder-RPG.RD|RD]] égale a son niveau de paladin de prestige contre le mal pendant un nombre de round égale au modificateur de [[Pathfinder-RPG.Charisme|Charisme]] multiplié par deux. Le prestige paladin peut utiliser ce pouvoir une fois par jour par deux niveaux de prestige paladin.
 
 {s:Reference|CHAMPIONDIVIN}
 #### Champion divin
-Un paladin de prestige niveau 10, multiplie par deux le rayon et les effets de l’[Aura sainte](./RM Paladin de prestige.md#AURASAINTE) et ajoute 1d6 de dégât avec la [Main divine](./RM Paladin de prestige.md#MAINDIVINE). De plus, chaque fois qu’il utilise son [Imposition des mains](./RM Paladin de prestige.md#IMPOSITIONDESMAINS) sur autrui, il guérit de son modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md) multiplié par deux.
+Un paladin de prestige niveau 10, multiplie par deux le rayon et les effets de l’[[rm paladin de prestige#AURASAINTE|Aura sainte]] et ajoute 1d6 de dégât avec la [[rm paladin de prestige#MAINDIVINE|Main divine]]. De plus, chaque fois qu’il utilise son [[rm paladin de prestige#IMPOSITIONDESMAINS|Imposition des mains]] sur autrui, il guérit de son modificateur de [[Pathfinder-RPG.Charisme|Charisme]] multiplié par deux.
 
 
 
 ### Code de conduite
-Le paladin de prestige est obligatoirement [Loyal Bon](./../Pathfinder-RPG/Alignement.md). S’il commet sciemment un acte maléfique, il perd aussitôt son statut et ses pouvoirs, en dehors des compétences de maniement d’armes, de port d’armures et d’utilisation de boucliers.
+Le paladin de prestige est obligatoirement [[Pathfinder-RPG.alignement|Loyal Bon]]. S’il commet sciemment un acte maléfique, il perd aussitôt son statut et ses pouvoirs, en dehors des compétences de maniement d’armes, de port d’armures et d’utilisation de boucliers.
 
-De plus, son code de conduite l’oblige à respecter l’autorité légitime, à se comporter de façon honorable (c’est-à-dire à ne pas mentir, tricher, utiliser le [poison](./../Pathfinder-RPG/Poisons.md), etc.), à aider les gens dans le besoin (à condition qu’ils ne cherchent pas à utiliser le paladin dans un but chaotique ou maléfique), et à châtier ceux qui menacent ou maltraitent les innocents.
+De plus, son code de conduite l’oblige à respecter l’autorité légitime, à se comporter de façon honorable (c’est-à-dire à ne pas mentir, tricher, utiliser le [[Pathfinder-RPG.poisons|poison]], etc.), à aider les gens dans le besoin (à condition qu’ils ne cherchent pas à utiliser le paladin dans un but chaotique ou maléfique), et à châtier ceux qui menacent ou maltraitent les innocents.
 
 ### Compagnons
 Le paladin de prestige peut partir à l’aventure avec des alliés d’alignement Bon ou Neutre mais il évitera de collaborer avec des personnes d’alignement Mauvais ou avec ceux qui bafouent sans cesse son code de conduite. Dans des circonstances exceptionnelles, un paladin de prestige pourra s’associer avec des créatures d’alignement Mauvais mais seulement avec comme but de venir à bout d’un plus grand mal. Le paladin de prestige devrait chercher à recevoir régulièrement un sort de pénitence pendant ce genre d’alliance inhabituelle et il devrait immédiatement mettre un terme à celle-ci s’il a l’impression de faire plus de mal que de bien. Enfin, le paladin de prestige ne peut louer les services d’hommes d’armes et accepter les suivants que s’ils sont Bons et Loyaux.
 
 
 ### Anciens paladins de prestige
-Un paladin de prestige changeant d’alignement, commettant sciemment un acte maléfique ou bafouant son code de conduite perd ses sorts et ses aptitudes (y compris la collaboration de son destrier, mais pas sa formation en matière d’armes, d’armures et de boucliers). Il ne peut plus gagner de niveaux de paladin de prestige. Il récupère son statut et ses capacités et peut à nouveau progresser en tant que paladin de prestige s’il fait acte de contrition (voir le sort *[pénitence](./../Pathfinder-RPG/Pénitence.md)*).
+Un paladin de prestige changeant d’alignement, commettant sciemment un acte maléfique ou bafouant son code de conduite perd ses sorts et ses aptitudes (y compris la collaboration de son destrier, mais pas sa formation en matière d’armes, d’armures et de boucliers). Il ne peut plus gagner de niveaux de paladin de prestige. Il récupère son statut et ses capacités et peut à nouveau progresser en tant que paladin de prestige s’il fait acte de contrition (voir le sort *[[Pathfinder-RPG.pénitence|pénitence]]*).

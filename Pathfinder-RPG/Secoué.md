@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Secoué
 ---
 
->>> [États préjudiciables#Secoué](./États préjudiciables.md#Secoué)
+>>> [[États préjudiciables#Secoué]]

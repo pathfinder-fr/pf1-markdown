@@ -6,9 +6,9 @@ Categories:
 - Organisation
 ---
 
-La Trinité Noire dirige, de facto, [Pangolais](./Pangolais.md), capitale du [Nidal](./Nidal.md). La composition de ce conseil n'a pas évolué depuis le début de l'[Âge des Ténèbres](./Histoire.md) et personne n'a jamais songé à s'opposer à son autorité durant toutes ces années.
+La Trinité Noire dirige, de facto, [[Pangolais]], capitale du [[Nidal]]. La composition de ce conseil n'a pas évolué depuis le début de l'[[Histoire|Âge des Ténèbres]] et personne n'a jamais songé à s'opposer à son autorité durant toutes ces années.
 
 {s:VoirAussiAvant}
 Vous pourrez trouver plus d'informations à propos de la Trinité Noire dans le supplément
-- [Pathfinder Chronicles: Campaign Setting](./Publications.md#CAMPAIGNSETTING).
+- [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

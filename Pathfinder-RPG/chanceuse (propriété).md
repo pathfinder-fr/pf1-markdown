@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Chanceuse
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Chanceuse](./Descriptions individuelles des propriétés spéciales des armes.md#Chanceuse)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Chanceuse]]

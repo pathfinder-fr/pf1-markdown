@@ -11,14 +11,14 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:CCMI}**École** [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 3, [Cham](./Chaman.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Sor](./Sorcière.md) 3
+{s:CCMI}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3
 **Temps d’incantation** 10 minutes
-**Composantes** [V, G, F](./composantes.md) (un [jeu du tourment](./Jeu du tourment (objet).md))
+**Composantes** [[composantes|V, G, F]] (un [[Jeu du tourment (objet)|jeu du tourment]])
 **Portée** contact
 **Cible** une créature
 **Durée** 1 jour/niveau ou jusqu’à accomplissement
 
-Le personnage utilise un [jeu du tourment](./Jeu du tourment (objet).md) pour lire la bonne aventure, pour lui ou pour quelqu’un d’autre. S’il lance *lecture du tourment* sur une créature, il doit lui rester adjacent pendant toute la durée de l’incantation. La lecture doit décrire un événement ou une marche à suivre (par exemple, « chasser le roi des pirates » ou « se rendre à un endroit précis pour chercher une épée magique »). La cible du tourment devra s’exécuter, à un moment ou un autre, pendant la durée du sort.
+Le personnage utilise un [[Jeu du tourment (objet)|jeu du tourment]] pour lire la bonne aventure, pour lui ou pour quelqu’un d’autre. S’il lance *lecture du tourment* sur une créature, il doit lui rester adjacent pendant toute la durée de l’incantation. La lecture doit décrire un événement ou une marche à suivre (par exemple, « chasser le roi des pirates » ou « se rendre à un endroit précis pour chercher une épée magique »). La cible du tourment devra s’exécuter, à un moment ou un autre, pendant la durée du sort.
 
 Si le personnage a accès à un jeu du tourment, il tire neuf cartes au moment de l’incantation. S’il n’en a pas il peut simuler le tirage en lançant un d6 et un d10 pour chacune des neuf cartes (Le d6 détermine la famille de la carte comme suit : 1– Force, 2– Constitution, 3– Dextérité, 4– Intelligence, 5– Sagesse, 6– Charisme. Le d10 détermine son alignement, comme suit : 1– LB, 2– NB, 3– CB, 4– LN, 5– N, 6– CN, 7– LM, 8– NM, 9– CM (si vous obtenez un 10, relancez le dé.)). Notez les valeurs de caractéristiques et d’alignement associées à chaque carte. Chacune de ces cartes donne un bonus de chance ou un malus à un type de jet de d20 donné. La valeur du malus ou du bonus dépend de l’écart entre l’alignement de la carte et celui de la créature ciblée. Si l’alignement de la carte et de la cible sont les mêmes, la carte donne un bonus de chance de +2 aux tests de la suite associée. Si ces alignements sont opposés (voir plus bas), la carte inflige un malus de -1 aux tests de la caractéristique associée. Si la carte est d’un autre alignement, elle donne un bonus de chance de +1 aux tests de la caractéristique associée.
 
@@ -30,15 +30,15 @@ Les malus persistent aussi longtemps que dure le tourment mais les bonus sont «
 |- CLASS="titre"
 | Famille || Test associé
 |- CLASS="premier"
-| Marteau (For) || [Jets d’attaque](./jet dattaque.md) (à distance et en mêlée)
+| Marteau (For) || [[jet dattaque|Jets d’attaque]] (à distance et en mêlée)
 |-
-| Clef (Dex) || Jets de [Réflexes](./Réflexes.md)
+| Clef (Dex) || Jets de [[Réflexes]]
 |-
-| Bouclier (Con) || Jets de [Vigueur](./Vigueur.md)
+| Bouclier (Con) || Jets de [[Vigueur]]
 |-
-| Livre (Int) || [Tests de compétence](./Compétences.md#TESTSDECOMPETENCES)
+| Livre (Int) || [[Compétences#TESTSDECOMPETENCES|Tests de compétence]]
 |-
-| Étoile (Sag) || Jets de [Volonté](./Volonté.md)
+| Étoile (Sag) || Jets de [[Volonté]]
 |-
 | Couronne (Cha) || N’importe quel jet de d20
 |}
@@ -74,4 +74,4 @@ Les malus persistent aussi longtemps que dure le tourment mais les bonus sont «
 
 Une *lecture du tourment mythique* lancée sur la cible d’une *lecture du tourment non-mythique* remplace et annule l’effet de lecture du tourment. Si une créature est sujette à une deuxième *lecture du tourment mythique* alors que la précédente est toujours active, la nouvelle *lecture du tourment mythique* échoue automatiquement.
 
-**[Amplifié](./Amplifié.md) (6ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md) au cours de la lecture, il peut défausser une carte de son choix et en tirer une nouvelle à la place, qui remplace les effets de la carte tirée par ceux de la nouvelle carte tirée. Il doit garder la nouvelle carte. Il peut utiliser chaque bonus deux fois, à chaque fois au double de sa valeur initiale. Quand il a utilisé les deux bonus ou quand la durée du sort se termine, le sort prend fin et tous les malus disparaissent.
+**[[Amplifié]] (6ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]] au cours de la lecture, il peut défausser une carte de son choix et en tirer une nouvelle à la place, qui remplace les effets de la carte tirée par ceux de la nouvelle carte tirée. Il doit garder la nouvelle carte. Il peut utiliser chaque bonus deux fois, à chaque fois au double de sa valeur initiale. Quand il a utilisé les deux bonus ou quand la durée du sort se termine, le sort prend fin et tous les malus disparaissent.

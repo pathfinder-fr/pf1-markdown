@@ -9,11 +9,11 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [prêtre](./Prêtre.md) 5, [druide](./Druide.md) 5, [inquisiteur](./Inquisiteur.md) 5, [magus](./Magus.md) 5, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 5, [conjurateur](./Conjurateur.md) 5  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[prêtre]] 5, [[druide]] 5, [[inquisiteur]] 5, [[magus]] 5, [[ensorceleur]]/[[magicien]] 5, [[conjurateur]] 5  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; '''Résistance
+**Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; '''Résistance
 à la magie''' Oui
 
-Ce mot effet inflige 1d6 points de dégâts de feu par [niveau de lanceur](./NLS.md) (maximum 15d6).
+Ce mot effet inflige 1d6 points de dégâts de feu par [[NLS|niveau de lanceur]] (maximum 15d6).

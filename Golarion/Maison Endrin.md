@@ -8,11 +8,11 @@ Categories:
 - Varisie
 ---
 
-{s:Organisation|Maison Endrin|House Endrin|-|-|[Korvosa](./Korvosa.md) en [Varisie](./Varisie.md)|-|-|Maison noble|Locale|-}L'empereur du [Chéliax](./Chéliax.md), reconnaissant les exploits de Waydon Endrin, accorda à la famille de celui-ci un titre de noblesse en 4456 AR, faisant de Lucien Endrin, fils de Waydon, le premier Lord Endrin. Lucien sacrifia lui-même sa vie à la défense de la cité qu'il aimait tant et mourut sans descendance. Sa soeur Brienna, mariée à un membre de la famille [Jeggare](./Maison-Jeggare.md), fit appel à son cousin Ponchus qui vivait alors au [Chéliax](./Chéliax.md). Ce dernier s'installa à [Korvosa](./Korvosa.md) et réclama le titre en 4471 AR.
+{s:Organisation|Maison Endrin|House Endrin|-|-|[[Korvosa]] en [[Varisie]]|-|-|Maison noble|Locale|-}L'empereur du [[Chéliax]], reconnaissant les exploits de Waydon Endrin, accorda à la famille de celui-ci un titre de noblesse en 4456 AR, faisant de Lucien Endrin, fils de Waydon, le premier Lord Endrin. Lucien sacrifia lui-même sa vie à la défense de la cité qu'il aimait tant et mourut sans descendance. Sa soeur Brienna, mariée à un membre de la famille [[Maison Jeggare|Jeggare]], fit appel à son cousin Ponchus qui vivait alors au [[Chéliax]]. Ce dernier s'installa à [[Korvosa]] et réclama le titre en 4471 AR.
 
-La Maison Endrin a produit plus de commandants de la [Compagnie du Sable](./Compagnie de la Zibeline.md) et de maréchaux à la [Garde Korvosienne](./Garde Korvosienne.md) qu'aucune autre maison noble. La Maison Endrin reste très proche de la [Maison Jeggare](./Maison-Jeggare.md) et possède une très grande influence à [Korvosa](./Korvosa.md) en raison de ses fortes alliances.
+La Maison Endrin a produit plus de commandants de la [[Compagnie de la Zibeline|Compagnie du Sable]] et de maréchaux à la [[Garde Korvosienne]] qu'aucune autre maison noble. La Maison Endrin reste très proche de la [[Maison Jeggare]] et possède une très grande influence à [[Korvosa]] en raison de ses fortes alliances.
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur la Maison Endrin dans le supplément
-- [Pathfinder Chronicles: Guide to Korvosa/Le Guide de Korvosa](./Publications.md#GUIDETOKORVOSA)
+- [[Golarion.Publications#GUIDETOKORVOSA|Pathfinder Chronicles: Guide to Korvosa/Le Guide de Korvosa]]
 {s:VoirAussiAprès}

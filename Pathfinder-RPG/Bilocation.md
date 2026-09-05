@@ -9,12 +9,12 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [invocation](./Invocation.md) ([création](./branche création.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 9, [Psy](./Psychiste.md) 8{br}
-**Temps d’incantation** 1 [action simple](./Action simple.md){br}
-**Composantes** [V](./composantes.md){br}
-**Portée** [courte](./Présentation des sorts.md#La_portée_18) (7,50 m + 1,50 m/2 niveaux){br}
+{s:AO}**École** [[invocation]] ([[branche création|création]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 9, [[psychiste|Psy]] 8{br}
+**Temps d’incantation** 1 [[action simple]]{br}
+**Composantes** [[composantes|V]]{br}
+**Portée** [[Présentation des sorts#La_portée_18|courte]] (7,50 m + 1,50 m/2 niveaux){br}
 **Cible** un double{br}
-**Durée** 1 round/[niveau](./niveau.md) (T){br}
+**Durée** 1 round/[[niveau]] (T){br}
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le sort crée un double du personnage, parfaitement identique,

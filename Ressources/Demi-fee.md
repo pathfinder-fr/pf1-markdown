@@ -8,7 +8,7 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 </div>
 
 <table class="Bestiaire"><tr><td>
@@ -17,8 +17,8 @@ Categories:
 {s:BDTexte|*Source : Faenil*}
 {s:BDTexte|**PX** 200}
 {s:BDTexte|Demi fée, barde 1}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, CB}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +4}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] de taille M, CB}
+{s:BDTexte|**Init** +3 ; **Sens** [[Pathfinder-RPG.vision nocturne|vision nocturne]] ; [[Pathfinder-RPG.Perception|Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 12 (armure +2,  Dex +3)}
 {s:BDTexte|**pv** 8 (1d8)}
@@ -39,7 +39,7 @@ Categories:
 {s:BDTexte|**For** 8, **Dex** 16, **Con** 10, **Int** 13, **Sag** 10, **Cha** 17}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 12}
 {s:BDTexte|**Dons** Attaque en finesse}
-{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +7, [Bluff](./../Pathfinder-RPG/Bluff.md) +7, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (nature) +5, [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) +7, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +7, [Perception](./../Pathfinder-RPG/Perception.md) +4, [Représentation](./../Pathfinder-RPG/Représentation.md) (au choix) +7}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Acrobaties|Acrobaties]] +7, [[Pathfinder-RPG.Bluff|Bluff]] +7, [[Pathfinder-RPG.Connaissances|Connaissances]] (nature) +5, [[Pathfinder-RPG.Diplomatie|Diplomatie]] +7, [[Pathfinder-RPG.Discrétion|Discrétion]] +7, [[Pathfinder-RPG.Perception|Perception]] +4, [[Pathfinder-RPG.Représentation|Représentation]] (au choix) +7}
 {s:BDTexte|**Langues** Commun, Sylvestre, Elfique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme }
@@ -63,10 +63,10 @@ Les demi-fées ne possèdent pas de dés de vie raciaux et progressent en acqué
 
 - **Vision nocturne.** Les demi fées voient deux fois plus loin que la normale dans des conditions de faible éclairage.  
 
-- **Langues.** Les demi fées parlent automatiquement le sylvestre et le commun. S'ils ont une [Intelligence](./../Pathfinder-RPG/Intelligence.md) élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : draconien, elfe, gnome, halfelin, nain.  
+- **Langues.** Les demi fées parlent automatiquement le sylvestre et le commun. S'ils ont une [[Pathfinder-RPG.Intelligence|Intelligence]] élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : draconien, elfe, gnome, halfelin, nain.  
 
-- **Réduction des dégâts** Les demi fées bénéficient d'une [réduction aux dégâts](./../Pathfinder-RPG/réduction aux dégâts.md) de 2/fer froid.  
+- **Réduction des dégâts** Les demi fées bénéficient d'une [[Pathfinder-RPG.réduction aux dégâts|réduction aux dégâts]] de 2/fer froid.  
 
-- **Pouvoirs magiques.** *[Charme personne](./Pathfinder-RPG-charme-personne.md)* 1/jour (NLS égal au nombre de DV de la demi fée)
-- **Classe de prédilection.** Si le personnage choisit la classe d'[ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) et le [lignage féérique](./../Pathfinder-RPG/lignage Féerique.md) comme [classe de prédilection](./../Pathfinder-RPG/classe de prédilection.md), il peut, en lieu et place d'un [point de vie](./../Pathfinder-RPG/point de vie.md) ou d'un [point de compétence](./../Pathfinder-RPG/point de compétence.md), choisir un pouvoir de lignage auquel il a accès en quantité (comme le toucher rieur ou le pouvoir de traversée des ombres) ou en durées limitée (comme le pouvoir de regard furtif). Il pourra faire appel à ce pouvoir 1/2 fois de plus par jour (toucher rieur ou traversée des ombres) ou 1/2 round de plus par jour(regard furtif). 
+- **Pouvoirs magiques.** *[[Pathfinder-RPG.charme personne|Charme personne]]* 1/jour (NLS égal au nombre de DV de la demi fée)
+- **Classe de prédilection.** Si le personnage choisit la classe d'[[Pathfinder-RPG.ensorceleur|ensorceleur]] et le [[Pathfinder-RPG.lignage Féerique|lignage féérique]] comme [[Pathfinder-RPG.classe de prédilection|classe de prédilection]], il peut, en lieu et place d'un [[Pathfinder-RPG.point de vie|point de vie]] ou d'un [[Pathfinder-RPG.point de compétence|point de compétence]], choisir un pouvoir de lignage auquel il a accès en quantité (comme le toucher rieur ou le pouvoir de traversée des ombres) ou en durées limitée (comme le pouvoir de regard furtif). Il pourra faire appel à ce pouvoir 1/2 fois de plus par jour (toucher rieur ou traversée des ombres) ou 1/2 round de plus par jour(regard furtif). 
 </div></td></tr></table>

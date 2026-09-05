@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 p. 145*}
 {s:BDTexte|**PX** 76 800 px}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille Gig, CM}
-{s:BDTexte|**Init** +4 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) à 36 m (24 {s:c}) ; [Perception](./Perception.md) +28}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille Gig, CM}
+{s:BDTexte|**Init** +4 ; **Sens** [[odorat]], [[vision dans le noir]] à 36 m (24 {s:c}) ; [[Perception]] +28}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 31, contact 11, pris au dépourvu 26 (Dex +4, esquive +1, naturelle +20, taille -4) }
 {s:BDTexte|**pv** 283 (21d10+168)}
@@ -25,22 +25,22 @@ Categories:
 {s:BDTexte|**VD** 12 m (8 {s:c}), nage 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** coup de queue, +27 (2d6+6) et morsure, +30 (4d8+13/19-20) et 2 pieds d’éléphant, +27 (2d6+6)}
 {s:BDTexte|**Espace occupé** 6 m (4 {s:c}) ; **Allonge** 6 m (4 {s:c})}
-{s:BDTexte|**Attaques spéciales** frappe retentissante (DD 28), morsure empalante, [piétinement](./Piétinement (capacité).md) (2d6+19, [DD](./DD.md) 33)}
+{s:BDTexte|**Attaques spéciales** frappe retentissante (DD 28), morsure empalante, [[piétinement (capacité)|piétinement]] (2d6+19, [[DD]] 33)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 36, **Dex** 19, **Con** 26, **Int** 15, **Sag** 20, **Cha** 15}
-{s:BDTexte|**BBA** 21, **BMO** 38, **DMD** 53 (55 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque éclair](./Attaque éclair.md), [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Coup fabuleux](./Coup fabuleux.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Enchaînement](./Enchaînement.md), [Esquive](./Esquive.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (morsure), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +15 (+19 pour le saut), [Bluff](./Bluff.md) +4, [Discrétion](./Discrétion.md) +10, [Intimidation](./Intimidation.md) +12, [Natation](./Natation.md) +45, [Perception](./Perception.md) +28, [Psychologie](./Psychologie.md) +13}
+{s:BDTexte|**BBA** 21, **BMO** 38, **DMD** 53 (55 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque éclair]], [[Attaque en puissance]], [[Attaques multiples]], [[Coup fabuleux]], [[Critique sanglant]], [[Don pour les critiques]], [[Enchaînement]], [[Esquive]], [[Science de la bousculade]], [[Science du critique]] (morsure), [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +15 (+19 pour le saut), [[Bluff]] +4, [[Discrétion]] +10, [[Intimidation]] +12, [[Natation]] +45, [[Perception]] +28, [[Psychologie]] +13}
 {s:BDTexte|**Langue** aquatique, commun, draconique}
-{s:BDTexte|**Particularités** fuite aquatique, [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**Particularités** fuite aquatique, [[retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** lacs et rivières chauds}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** double (au moins 50% de gemmes)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Frappe retentissante (Ext).** Par une [action complexe](./Action complexe.md), le grootslang peut redresser son corps de serpent pour abattre ses énormes membres antérieurs avec une force impressionnante. Le grootslang désigne deux cibles adjacentes à [piétiner](./Piétinement (capacité).md). En outre, chaque créature située dans un rayon de 3 mètres (2 {s:c}) doit réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 28 ou [tomber à terre](./À terre.md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Fuite aquatique (Sur).** Par une [action simple](./Action simple.md), un grootslang complètement immergé peut se téléporter sans erreur dans une autre étendue d’eau. Cette capacité fonctionne comme *[voyage par les arbres](./Voyage par les arbres.md)* mais le grootslang peut sortir de n’importe quel corps d’eau situé dans un rayon de 1,5 kilomètres tant que les points d’entrée et de sortie sont suffisamment larges pour le laisser passer. }
-{s:BDTexte|**Morsure empalante (Ext).** Le grootslang peut mordre une créature avec laquelle il [lutte](./lutte.md). Si son attaque touche, elle est automatiquement traitée comme un [critique](./critique.md) possible.}
+{s:BDTexte|**Frappe retentissante (Ext).** Par une [[action complexe]], le grootslang peut redresser son corps de serpent pour abattre ses énormes membres antérieurs avec une force impressionnante. Le grootslang désigne deux cibles adjacentes à [[piétinement (capacité)|piétiner]]. En outre, chaque créature située dans un rayon de 3 mètres (2 {s:c}) doit réussir un jet de [[Réflexes]] [[DD]] 28 ou [[à terre|tomber à terre]]. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Fuite aquatique (Sur).** Par une [[action simple]], un grootslang complètement immergé peut se téléporter sans erreur dans une autre étendue d’eau. Cette capacité fonctionne comme *[[voyage par les arbres]]* mais le grootslang peut sortir de n’importe quel corps d’eau situé dans un rayon de 1,5 kilomètres tant que les points d’entrée et de sortie sont suffisamment larges pour le laisser passer. }
+{s:BDTexte|**Morsure empalante (Ext).** Le grootslang peut mordre une créature avec laquelle il [[lutte]]. Si son attaque touche, elle est automatiquement traitée comme un [[critique]] possible.}
 
 </div>
 

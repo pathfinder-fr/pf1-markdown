@@ -4,7 +4,7 @@ Title: Prêtre archer (build)
 LastModified: 2018-01-17 22:22
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst9380_Pretre-archer.aspx#post384012)***</div><nav class="wiki-toc"></nav>
 
 ### A propos du build
@@ -125,43 +125,43 @@ Parmi les archétypes, on a le Divine Strategist et l'Evangelist (tous deux dans
 |- CLASS="titre"
 | Niveau || Classe || BBA || NLS || Capacités de classe, dons
 |- CLASS="premier"
-| 01 || [++Pathfinder-RPG.Prêtre|Prêtre] 1 || +0 || 1 || [++Pathfinder-RPG.Tir à bout portant|Tir à bout portant], [++Pathfinder-RPG.Tir de précision|tir de précision]
+| 01 || [[Pathfinder-RPG.Prêtre|Prêtre]] 1 || +0 || 1 || [[Pathfinder-RPG.Tir à bout portant|Tir à bout portant]], [[Pathfinder-RPG.Tir de précision|tir de précision]]
 |-
-| 02 || [++Pathfinder-RPG.Prêtre|Prêtre] 2 || +1 || 2 || &nbsp;
+| 02 || [[Pathfinder-RPG.Prêtre|Prêtre]] 2 || +1 || 2 || &nbsp;
 |-
-| 03 || [++Pathfinder-RPG.Prêtre|Prêtre] 3 || +2 || 3 || [++Pathfinder-RPG.Tir rapide|Tir rapide]
+| 03 || [[Pathfinder-RPG.Prêtre|Prêtre]] 3 || +2 || 3 || [[Pathfinder-RPG.Tir rapide|Tir rapide]]
 |-
-| 04 || [++Pathfinder-RPG.Prêtre|Prêtre] 4 || +3 || 4 || &nbsp;
+| 04 || [[Pathfinder-RPG.Prêtre|Prêtre]] 4 || +3 || 4 || &nbsp;
 |-
-| 05 || [++Pathfinder-RPG.Prêtre|Prêtre] 5 || +3 || 5 || [^http://www.d20pfsrd.com/feats/general-feats/boon-companion|Boon Companion]
+| 05 || [[Pathfinder-RPG.Prêtre|Prêtre]] 5 || +3 || 5 || [Boon Companion](http://www.d20pfsrd.com/feats/general-feats/boon-companion)
 |-
-| 06 || [++Pathfinder-RPG.Prêtre|Prêtre] 6 || +4 || 6 || &nbsp;
+| 06 || [[Pathfinder-RPG.Prêtre|Prêtre]] 6 || +4 || 6 || &nbsp;
 |-
-| 07 || [++Pathfinder-RPG.Prêtre|Prêtre] 7 || +5 || 7 || [++Pathfinder-RPG.Viser|Viser]
+| 07 || [[Pathfinder-RPG.Prêtre|Prêtre]] 7 || +5 || 7 || [[Pathfinder-RPG.Viser|Viser]]
 |-
-| 08 || [++Pathfinder-RPG.Prêtre|Prêtre] 8 || +6/+1 || 8 || &nbsp;
+| 08 || [[Pathfinder-RPG.Prêtre|Prêtre]] 8 || +6/+1 || 8 || &nbsp;
 |-
-| 09 || [++Pathfinder-RPG.Prêtre|Prêtre] 9 || +6/+1 || 9 || [++Pathfinder-RPG.Feu Nourri|Feu Nourri]
+| 09 || [[Pathfinder-RPG.Prêtre|Prêtre]] 9 || +6/+1 || 9 || [[Pathfinder-RPG.Feu Nourri|Feu Nourri]]
 |-
-| 10 || [++Pathfinder-RPG.Prêtre|Prêtre] 10 || +7/+2 || 10 || &nbsp;
+| 10 || [[Pathfinder-RPG.Prêtre|Prêtre]] 10 || +7/+2 || 10 || &nbsp;
 |-
-| 11 || [++Pathfinder-RPG.Prêtre|Prêtre] 11 || +8/+3 || 11 || [++Pathfinder-RPG.Incantation rapide.ashx|Métamagie  : incantation rapide]
+| 11 || [[Pathfinder-RPG.Prêtre|Prêtre]] 11 || +8/+3 || 11 || [[Pathfinder-RPG.Incantation rapide.ashx|Métamagie  : incantation rapide]]
 |-
-| 12 || [++Pathfinder-RPG.Prêtre|Prêtre] 12 || +9/+4 || 12 || &nbsp;
+| 12 || [[Pathfinder-RPG.Prêtre|Prêtre]] 12 || +9/+4 || 12 || &nbsp;
 |-
-| 13 || [++Pathfinder-RPG.Prêtre|Prêtre] 13 || +9/+4 || 13 || [++Pathfinder-RPG.Interférence divine|Interférence divine]
+| 13 || [[Pathfinder-RPG.Prêtre|Prêtre]] 13 || +9/+4 || 13 || [[Pathfinder-RPG.Interférence divine|Interférence divine]]
 |-
-| 14 || [++Pathfinder-RPG.Prêtre|Prêtre] 14 || +10/+5 || 14 || &nbsp;
+| 14 || [[Pathfinder-RPG.Prêtre|Prêtre]] 14 || +10/+5 || 14 || &nbsp;
 |-
-| 15 || [++Pathfinder-RPG.Prêtre|Prêtre]  15 || +11/+6/+1 || 15 || [++Pathfinder-RPG.Science du tir de précision|Science du tir de précision]
+| 15 || [[Pathfinder-RPG.Prêtre|Prêtre]]  15 || +11/+6/+1 || 15 || [[Pathfinder-RPG.Science du tir de précision|Science du tir de précision]]
 |-
-| 16 || [++Pathfinder-RPG.Prêtre|Prêtre] 16 || +12/+7/+2 || 16 || &nbsp;
+| 16 || [[Pathfinder-RPG.Prêtre|Prêtre]] 16 || +12/+7/+2 || 16 || &nbsp;
 |-
-| 17 || [++Pathfinder-RPG.Prêtre|Prêtre] 17 || +12/+7/+2 || 17 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don] au choix
+| 17 || [[Pathfinder-RPG.Prêtre|Prêtre]] 17 || +12/+7/+2 || 17 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]] au choix
 |-
-| 18 || [++Pathfinder-RPG.Prêtre|Prêtre] 18 || +13/+8/+3 || 18 || &nbsp;
+| 18 || [[Pathfinder-RPG.Prêtre|Prêtre]] 18 || +13/+8/+3 || 18 || &nbsp;
 |-
-| 19 || [++Pathfinder-RPG.Prêtre|Prêtre] 19 || +14/+9/+4 || 19 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don] au choix
+| 19 || [[Pathfinder-RPG.Prêtre|Prêtre]] 19 || +14/+9/+4 || 19 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]] au choix
 |-
-| 20 || [++Pathfinder-RPG.Prêtre|Prêtre] 20 || +15/+10/+5 || 20 || &nbsp;
+| 20 || [[Pathfinder-RPG.Prêtre|Prêtre]] 20 || +15/+10/+5 || 20 || &nbsp;
 |}

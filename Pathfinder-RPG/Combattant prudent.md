@@ -10,10 +10,10 @@ Categories:
 
 {s:mr}*Le personnage se préoccupe plus de survie que de victoire.*
 
-**Conditions.** [Halfelin](./Halfelin.md)
+**Conditions.** [[Halfelin]]
 
-**Avantages.** Quand le personnage se [bat sur la défensive](./combat sur la défensive.md) ou utilise la [défense totale](./défense totale.md), son bonus d’esquive à la [CA](./CA.md) augmente de 2.
+**Avantages.** Quand le personnage se [[combat sur la défensive|bat sur la défensive]] ou utilise la [[défense totale]], son bonus d’esquive à la [[CA]] augmente de 2.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage ne [combat pas sur la défensive](./combat sur la défensive.md) et n’utilise pas la [défense totale](./défense totale.md), il peut dépenser 5 points d’endurance pour augmenter son bonus d’esquive de 2. Cet accroissement dure jusqu’au début de son prochain tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage ne [[combat sur la défensive|combat pas sur la défensive]] et n’utilise pas la [[défense totale]], il peut dépenser 5 points d’endurance pour augmenter son bonus d’esquive de 2. Cet accroissement dure jusqu’au début de son prochain tour.

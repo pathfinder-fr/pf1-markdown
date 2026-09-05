@@ -11,10 +11,10 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) ; **Niveau** [Bard](./Barde.md) 2, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Occ](./Occultiste.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (un morceau de toile d'araignée)
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+{s:cs}{s:UI}**École**  [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Barde|Bard]] 2, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (un morceau de toile d'araignée)
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
 **Cibles** deux portes (ou autres portails) à portée
 **Durée** 1 round
 

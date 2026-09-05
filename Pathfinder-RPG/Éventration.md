@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Éventration (capacité)
 ---
 
->>> [Éventration (capacité)](./Éventration (capacité).md)
+>>> [[Éventration (capacité)]]

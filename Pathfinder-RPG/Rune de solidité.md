@@ -8,9 +8,9 @@ Categories:
 - Sort magicien 3
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Transmutation]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3
 **Temps d'incantation** 1 minute
-**Composantes** [V, G, M](./composantes.md) (limaille de fer)
+**Composantes** [[composantes|V, G, M]] (limaille de fer)
 **Portée** contact
 **Cible** arme touchée
 **Durée** permanent

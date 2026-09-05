@@ -7,10 +7,10 @@ Categories:
 - Don
 ---
 
-{s:cm}**Cette option est plus courante chez les [hommes-lézards](./Homme-lézard.md).**
+{s:cm}**Cette option est plus courante chez les [[Homme-lézard|hommes-lézards]].**
 
 *Le personnage a développé une capacité étrange mais bien utile : il peut respirer sous l’eau.*
 
-**Conditions.** Capacité [retenir son souffle](./Retenir son souffle (capacité).md)
+**Conditions.** Capacité [[Retenir son souffle (capacité)|retenir son souffle]]
 
 **Avantages.** Le personnage respire aussi bien dans l’air que dans l’eau.

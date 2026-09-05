@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#BRISEROC
 ---
 
->>> [pouvoirs de rage#BRISEROC](./Pouvoirs de rage.md#BRISEROC)
+>>> [[pouvoirs de rage#BRISEROC]]

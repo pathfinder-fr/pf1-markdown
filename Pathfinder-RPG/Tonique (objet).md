@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 20 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 20
-<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
 ---
-Ce liquide génère une agréable sensation de chaleur quand on le consomme. Pendant l’heure qui suit la consommation, le personnage gagne un bonus de moral de +2 aux [jets de sauvegarde](./JDS.md) contre la terreur. L’utilisation de plus d’une dose en l’espace de 24 heures rend le personnage [nauséeux](./Nauséeux.md) pendant 1 heure.
+Ce liquide génère une agréable sensation de chaleur quand on le consomme. Pendant l’heure qui suit la consommation, le personnage gagne un bonus de moral de +2 aux [[jds|jets de sauvegarde]] contre la terreur. L’utilisation de plus d’une dose en l’espace de 24 heures rend le personnage [[nauséeux]] pendant 1 heure.

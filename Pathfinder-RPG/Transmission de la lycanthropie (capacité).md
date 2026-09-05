@@ -6,6 +6,6 @@ Categories:
 - Règle de monstres universelle
 ---
 
-Lorsqu’un lycanthrope naturel en forme animale ou hybride mord une cible humanoïde, il peut l’infecter de lycanthropie ([Vigueur](./jet de sauvegarde.md) DD 15 annule). S’il y a plus d’une catégorie de taille de différence entre la victime et le lycanthrope, cette capacité n’a aucun effet.
+Lorsqu’un lycanthrope naturel en forme animale ou hybride mord une cible humanoïde, il peut l’infecter de lycanthropie ([[jet de sauvegarde|Vigueur]] DD 15 annule). S’il y a plus d’une catégorie de taille de différence entre la victime et le lycanthrope, cette capacité n’a aucun effet.
 
 *Format :* transmission de la lycanthropie. *Emplacement :* attaques individuelles.

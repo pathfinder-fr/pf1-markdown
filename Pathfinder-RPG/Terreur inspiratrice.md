@@ -10,6 +10,6 @@ Categories:
 
 {s:mca} *Quand le personnage répand la peur dans le cœur de ses ennemis, il donne autant de courage à ses alliés.*
 
-**Conditions.** Capacité à pratiquer le [chant funeste](./Scalde.md#CHANTFUNESTE).
+**Conditions.** Capacité à pratiquer le [[scalde#CHANTFUNESTE|chant funeste]].
 
-**Avantage.** Les alliés situés dans la zone du [chant funeste](./Scalde.md#CHANTFUNESTE) du personnage gagnent un bonus de moral de +4 aux jets de sauvegarde contre les effets de terreur. Il faut qu’au moins un ennemi se trouve dans la zone du chant funeste et soit [secoué](./Secoué.md) par le chant pour que les alliés bénéficient de ce bonus.
+**Avantage.** Les alliés situés dans la zone du [[scalde#CHANTFUNESTE|chant funeste]] du personnage gagnent un bonus de moral de +4 aux jets de sauvegarde contre les effets de terreur. Il faut qu’au moins un ennemi se trouve dans la zone du chant funeste et soit [[secoué]] par le chant pour que les alliés bénéficient de ce bonus.

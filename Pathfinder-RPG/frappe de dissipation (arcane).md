@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#FRAPPEDEDISSIPATION
 ---
 
->>> [arcanes#FRAPPEDEDISSIPATION](./arcanes.md#FRAPPEDEDISSIPATION)
+>>> [[arcanes#FRAPPEDEDISSIPATION]]

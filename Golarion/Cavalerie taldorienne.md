@@ -7,13 +7,13 @@ Categories:
 - Taldor
 ---
 
-{s:Organisation|Cavalerie taldorienne|Taldan Horse|-|-|[Oppara](./Oppara.md), [Taldor](./Taldor.md)|-|Soldats montés|hiérarchie militaire|National|-}La cavalerie taldorienne est composée à la fois d'unités équestres et d'unités éléphantines.
+{s:Organisation|Cavalerie taldorienne|Taldan Horse|-|-|[[Oppara]], [[Taldor]]|-|Soldats montés|hiérarchie militaire|National|-}La cavalerie taldorienne est composée à la fois d'unités équestres et d'unités éléphantines.
 
-Les légions équestres sont utilisées pour bloquer les avancées ennemies et pour déborder leurs lignes. Elles sont composées de chevaliers lourdement armés et sont dirigées par un capitaine chevalier. Les chevaux qui appartiennent aux légions équestres sont élevés dans des écuries au sud du [Taldor](./Taldor.md).
+Les légions équestres sont utilisées pour bloquer les avancées ennemies et pour déborder leurs lignes. Elles sont composées de chevaliers lourdement armés et sont dirigées par un capitaine chevalier. Les chevaux qui appartiennent aux légions équestres sont élevés dans des écuries au sud du [[Taldor]].
 
-Les légions éléphantines sont utilisées pour le ravitaillement et, dans certaines conditions, écraser le gros de l'armée ennemie. Elles sont aussi dirigées par un chevalier, mais sont essentiellement constituées de soldat réguliers. Les éléphants, issus d'un élevage du [Garund](./Garund.md), ont été ramenés lors d'une des expéditions des armées d'explorations taldoriennes il y a plusieurs milliers d'années.
+Les légions éléphantines sont utilisées pour le ravitaillement et, dans certaines conditions, écraser le gros de l'armée ennemie. Elles sont aussi dirigées par un chevalier, mais sont essentiellement constituées de soldat réguliers. Les éléphants, issus d'un élevage du [[Garund]], ont été ramenés lors d'une des expéditions des armées d'explorations taldoriennes il y a plusieurs milliers d'années.
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur la cavalerie taldorienne dans le supplément
-- [Pathfinder Companion: Taldor, Echoes of Glory](./Publications.md#COMPANIONTALDOR)
+- [[Golarion.Publications#COMPANIONTALDOR|Pathfinder Companion: Taldor, Echoes of Glory]]
 {s:VoirAussiAprès}

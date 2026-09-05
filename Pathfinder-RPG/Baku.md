@@ -13,26 +13,26 @@ Categories:
 {s:pucem|Créature magique|Ciel|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.27*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille M, N}
-{s:BDTexte|**Init** +9 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille M, N}
+{s:BDTexte|**Init** +9 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 10 (Dex +5)}
 {s:BDTexte|**pv** 95 (10d10+40)}
 {s:BDTexte|**Réf** +12, **Vig** +11, **Vol** +8}
-{s:BDTexte|**RD** 10 fer froid ; **Immunités** [effets mentaux](./effet mental.md), sommeil ; **RM** 19}
+{s:BDTexte|**RD** 10 fer froid ; **Immunités** [[effet mental|effets mentaux]], sommeil ; **RM** 19}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 18 m (6 {s:c} ; parfaite)}
 {s:BDTexte|**Corps à corps**  défenses, +15 (1d6+2) et 2 griffes, +15 (1d4+2)}
 {s:BDTexte|**Attaques spéciales** drain mental}
 {s:BDTexte|**Pouvoirs magiques** (NLS 10<sup>e</sup> ; concentration +17)}
-{s:BDSorts|A volonté — *[berceuse](./Berceuse.md)*, *[invisibilité](./Invisibilité.md)*, *[sommeil](./Sommeil.md)* (DD18)}
-{s:BDSorts|3/jour — *[songe](./Songe.md)*, *[sommeil profond](./Sommeil profond.md)* (DD18)}
-{s:BDSorts|1/jour — *[forme éthérée](./Forme éthérée.md)*, *[modification de mémoire](./Modification de mémoire.md)* (DD21)}
+{s:BDSorts|A volonté — *[[berceuse]]*, *[[invisibilité]]*, *[[sommeil]]* (DD18)}
+{s:BDSorts|3/jour — *[[songe]]*, *[[sommeil profond]]* (DD18)}
+{s:BDSorts|1/jour — *[[forme éthérée]]*, *[[modification de mémoire]]* (DD21)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 21, **Con** 18, **Int** 15, **Sag** 16, **Cha** 25}
 {s:BDTexte|**BBA** +10, **BMO** +12, **DMD** 27 (31 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaque en vol](./Attaque en vol.md), [Science de l'initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +8, [Diplomatie](./Diplomatie.md) +15, [Discrétion](./Discrétion.md) +16, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +13, [Vol](./Vol.md) +18}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +8, [[Diplomatie]] +15, [[Discrétion]] +16, [[Perception]] +16, [[Psychologie]] +13, [[Vol]] +18}
 {s:BDTexte|**Langues** aklo, céleste, commun}
 {s:BDTexte|**Particularités** griffes oniriques}
 {s:BDSousTitre|Écologie}
@@ -40,9 +40,9 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Absorption des rêves (Sur).** Le baku peut se nourrir des rêves d’une créature endormie située dans un rayon de 30 m. Il peut également se nourrir des rêves d’une créature avec laquelle il est entré en contact grâce à son pouvoir de songe. La créature peut résister à cet effet avec un [jet de Volonté](./jet de sauvegarde.md) de [DD](./DD.md) 22. Lorsque le baku se nourrit de cette manière, il peut choisir de ne consommer que les cauchemars ou tous les rêves. S’il ne dévore que les cauchemars, la créature ciblée est immunisée aux effets du sort *[cauchemar](./sort Cauchemar.md)*, à la capacité invasion des rêves de la [guenaude noire](./Guenaude noire.md) et aux autres attaques similaires pendant cette période de sommeil. Si, par contre, le baku se nourrit de tous les rêves de la créature, celle-ci est [fatiguée](./Fatigué.md) lorsqu’elle se réveille et ne bénéficie d’aucun des avantages que le sommeil aurait dû lui apporter comme, par exemple, guérison naturelle ou la capacité à regagner des sorts après s’être reposée. Il s’agit d’un [effet mental](./effet mental.md) de sommeil. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
-{s:BDTexte|**Drain mental (Sur).** Lorsqu’un baku attaque avec ses griffes, il peut, par une [action rapide](./Action rapide.md), provoquer un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 points d’[Intelligence](./Intelligence.md). Un [jet de Volonté](./jet de sauvegarde.md) de [DD](./DD.md) 22 permet d’annuler ces dégâts de caractéristique. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
-{s:BDTexte|**Griffes oniriques (Ext).** Les griffes du baku sont considérées comme étant magiques et en fer froid quand il s’agit de passer une [réduction de dégâts.](./RD.md)}
+{s:BDTexte|**Absorption des rêves (Sur).** Le baku peut se nourrir des rêves d’une créature endormie située dans un rayon de 30 m. Il peut également se nourrir des rêves d’une créature avec laquelle il est entré en contact grâce à son pouvoir de songe. La créature peut résister à cet effet avec un [[jet de sauvegarde|jet de Volonté]] de [[DD]] 22. Lorsque le baku se nourrit de cette manière, il peut choisir de ne consommer que les cauchemars ou tous les rêves. S’il ne dévore que les cauchemars, la créature ciblée est immunisée aux effets du sort *[[sort cauchemar|cauchemar]]*, à la capacité invasion des rêves de la [[guenaude noire]] et aux autres attaques similaires pendant cette période de sommeil. Si, par contre, le baku se nourrit de tous les rêves de la créature, celle-ci est [[fatigué|fatiguée]] lorsqu’elle se réveille et ne bénéficie d’aucun des avantages que le sommeil aurait dû lui apporter comme, par exemple, guérison naturelle ou la capacité à regagner des sorts après s’être reposée. Il s’agit d’un [[effet mental]] de sommeil. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|**Drain mental (Sur).** Lorsqu’un baku attaque avec ses griffes, il peut, par une [[action rapide]], provoquer un [[affaiblissement temporaire]] de 1d4 points d’[[Intelligence]]. Un [[jet de sauvegarde|jet de Volonté]] de [[DD]] 22 permet d’annuler ces dégâts de caractéristique. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|**Griffes oniriques (Ext).** Les griffes du baku sont considérées comme étant magiques et en fer froid quand il s’agit de passer une [[RD|réduction de dégâts.]]}
 
 
 </div>

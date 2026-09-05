@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Martyr
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Martyr](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Martyr)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Martyr]]

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Roublard#ATTAQUESOURNOISE
 ---
 
->>> [Roublard#ATTAQUESOURNOISE](./Roublard.md#ATTAQUESOURNOISE)
+>>> [[Roublard#ATTAQUESOURNOISE]]

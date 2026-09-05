@@ -11,6 +11,6 @@ Categories:
 {s:cmy}
 *Le personnage peut intuitivement sentir les aptitudes magiques d’une créature d’un simple regard.*
 
-**Condition.** [Détection de l’expertise](./Détection de lexpertise.md)
+**Condition.** [[Détection de lexpertise|Détection de l’expertise]]
 
-**Avantage.** Le personnage gagne immédiatement les avantages conférés par [Détection de l’expertise](./Détection de l’expertise.md) (sans avoir besoin d’observer une créature pendant trois rounds) lorsqu’il utilise les moyens divinatoires indiqués dans la description de ce don. Les créatures [non-mythiques](./non-mythiques.md) ne peuvent pas effectuer de jet de [Volonté](./Volonté.md) pour résister à cet effet.
+**Avantage.** Le personnage gagne immédiatement les avantages conférés par [[Détection de l’expertise]] (sans avoir besoin d’observer une créature pendant trois rounds) lorsqu’il utilise les moyens divinatoires indiqués dans la description de ce don. Les créatures [[non-mythiques]] ne peuvent pas effectuer de jet de [[Volonté]] pour résister à cet effet.

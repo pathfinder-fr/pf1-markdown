@@ -14,26 +14,26 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, page 85*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille M, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Aberration|Aberration]] de taille M, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 11, pris au dépourvu 15 (Dex +1, naturelle +5)}
 {s:BDTexte|**pv** 45 (6d8+18)}
 {s:BDTexte|**Réf** +3, **Vig** +4, **Vol** +5}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c}), escalade 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +7 (1d6+3) et tentacules, +8 (2d4+3 plus [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure, +7 (1d6+3) et tentacules, +8 (2d4+3 plus [[étreinte]])}
 {s:BDTexte|**Espace** 1,50 m (1 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales**[constriction](./constriction.md) (2d4+4)}
+{s:BDTexte|**Attaques spéciales**[[constriction]] (2d4+4)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6 ; concentration +7)}
-{s:BDSorts|À volonté — *[image imparfaite](./Image imparfaite.md)* (DD 13)}
+{s:BDSorts|À volonté — *[[image imparfaite]]* (DD 13)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 13, **Con** 15, **Int** 10, **Sag** 11, **Cha** 12}
-{s:BDTexte|**BBA** +4, **BMO** +7 (+11 en lutte), **DMD** 18 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (tentacule), [Robustesse](./Robustesse.md), [Talent](./Talent.md) ([Bluff](./Bluff.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +7 (–1 pour sauter), [Art de la magie](./Art de la magie.md) +6, [Bluff](./Bluff.md) +7, [Discrétion](./Discrétion.md) +9, [Escalade](./Escalade.md) +16, [Évasion](./Évasion.md) +5, [Intimidation](./Intimidation.md) +7, [Perception](./Perception.md) +11 ; **Modificateurs raciaux** +4 en [Perception](./Perception.md)}
+{s:BDTexte|**BBA** +4, **BMO** +7 (+11 en lutte), **DMD** 18 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (tentacule), [[Robustesse]], [[Talent]] ([[Bluff]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +7 (–1 pour sauter), [[Art de la magie]] +6, [[Bluff]] +7, [[Discrétion]] +9, [[Escalade]] +16, [[Évasion]] +5, [[Intimidation]] +7, [[Perception]] +11 ; **Modificateurs raciaux** +4 en [[Perception]]}
 {s:BDTexte|**Langues** aklo}
-{s:BDTexte|**Particularités** [imitation des sons](./Imitation de sons (capacité).md) (voix), tentacules}
+{s:BDTexte|**Particularités** [[imitation de sons (capacité)|imitation des sons]] (voix), tentacules}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées ou sous terre}
 {s:BDTexte|**Organisation sociale** solitaire ou couple reproducteur}
@@ -91,7 +91,7 @@ est la chair
 d’humanoïde,
 et plus
 particulièrement
-la chair de [gnome](./Gnome.md).
+la chair de [[gnome]].
 Ces créatures ont un appétit énorme qui
 les pousse à consommer tout ce sur quoi ils
 peuvent mettre « la main », n’hésitant pas à

@@ -6,7 +6,7 @@ Categories:
 - Kobold Quarterly
 ---
 
-<p class="description">Cette mini-série en 5 parties présente plusieurs cartes magiques au gré des aventures de Lan Su'Vavock et Kai Geyser, deux érudits qui remontent la piste des indices laissés par un ancien cartographe légendaire, par Michael Kortes (également auteur des rubriques "Ask a Shoanti" dans [Wayfinder](./../Golarion/Wayfinder.md)). Liens vers la [Partie 2](./KQ Cartomancien 2.md) — [Partie 3](./KQ Cartomancien 3.md) — [Partie 4](./KQ Cartomancien 4.md) — [Partie 5](./KQ Cartomancien 5.md).</p>
+<p class="description">Cette mini-série en 5 parties présente plusieurs cartes magiques au gré des aventures de Lan Su'Vavock et Kai Geyser, deux érudits qui remontent la piste des indices laissés par un ancien cartographe légendaire, par Michael Kortes (également auteur des rubriques "Ask a Shoanti" dans [[Golarion.Wayfinder|Wayfinder]]). Liens vers la [[KQ Cartomancien 2|Partie 2]] — [[KQ Cartomancien 3|Partie 3]] — [[KQ Cartomancien 4|Partie 4]] — [[KQ Cartomancien 5|Partie 5]].</p>
 {s:KQtop}
 {s:Separateur}
 

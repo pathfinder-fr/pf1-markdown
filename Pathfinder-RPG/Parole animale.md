@@ -8,17 +8,17 @@ Categories:
 - Sort sorcière 2
 ---
 
-{s:MCA}**École** [Divination](./Divination.md) ; **Niveau** [Cham](./Chaman.md) 2, [Dru](./Druide.md) 2, [Sor](./Sorcière.md) 2   
+{s:MCA}**École** [[Divination]] ; **Niveau** [[Chaman|Cham]] 2, [[druide|Dru]] 2, [[sorcière|Sor]] 2   
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [G, FD](./composantes.md)  
+**Composantes** [[composantes|G, FD]]  
 
 **Portée** Personnelle  
 
 **Cible** le lanceur de sorts  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 

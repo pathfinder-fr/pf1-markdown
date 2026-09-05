@@ -11,10 +11,10 @@ Categories:
 
 {s:cs}{s:WMH}*Le personnage peut se battre au corps à corps avec un arc, une arbalète ou une arme à feu*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie :** [[Dons#DONCOMBAT|combat]], [[Dons#DONECOLE|école]]
 
-**Conditions.** [Arme de prédilection](./Arme de prédilection.md) avec l'arme choisie
+**Conditions.** [[Arme de prédilection]] avec l'arme choisie
 
-**Avantage.** Lorsqu'il utilise cette école, le personnage peut faire des attaques au corps à corps avec l'arme choisie comme si c'était une [masse d'armes lourde](./masse darmes lourde (arme).md) (ou une [masse d'armes légère](./masse darmes légère (arme).md) pour une attaque de corps à corps faite avec une [arbalète de poing](./Arbalète de poing (arme).md) ou une arme à feu à une main), bien qu'il ne menace pas automatiquement la zone autour de lui comme s'il maniait une arme de corps à corps. Le personnage peut basculer entre attaque au corps à corps et à distance avec cette arme sans malus, même au cours du même [round](./round.md). De plus, le personnage peut ignorer le prérequis "elfe" pour le don [Coup de flèche](./Coup de flèche.md). S'il possède le don Coup de flèche, il peut l'utiliser avec une arbalète ou une arme à feu, remplaçant une flèche par un carreau d'arbalète ou une munition d'arme à feu.
+**Avantage.** Lorsqu'il utilise cette école, le personnage peut faire des attaques au corps à corps avec l'arme choisie comme si c'était une [[masse darmes lourde (arme)|masse d'armes lourde]] (ou une [[masse darmes légère (arme)|masse d'armes légère]] pour une attaque de corps à corps faite avec une [[arbalète de poing (arme)|arbalète de poing]] ou une arme à feu à une main), bien qu'il ne menace pas automatiquement la zone autour de lui comme s'il maniait une arme de corps à corps. Le personnage peut basculer entre attaque au corps à corps et à distance avec cette arme sans malus, même au cours du même [[round]]. De plus, le personnage peut ignorer le prérequis "elfe" pour le don [[Coup de flèche]]. S'il possède le don Coup de flèche, il peut l'utiliser avec une arbalète ou une arme à feu, remplaçant une flèche par un carreau d'arbalète ou une munition d'arme à feu.
 
-**Spécial.** En plus de l'arme choisie, un personnage avec ce don et la capacité de classe [entraînement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) (arcs, arbalètes, ou armes à feu) peut utiliser l'École du carquois vide avec n'importe quel arc, arbalète ou arme à feu, respectivement.
+**Spécial.** En plus de l'arme choisie, un personnage avec ce don et la capacité de classe [[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] (arcs, arbalètes, ou armes à feu) peut utiliser l'École du carquois vide avec n'importe quel arc, arbalète ou arme à feu, respectivement.

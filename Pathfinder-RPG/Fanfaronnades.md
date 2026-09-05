@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous pouvez intimider verbalement les autres afin qu'ils croient des mensonges improbables ou scandaleux.*
 
-**Conditions.** [Cha](./Cha.md) 13, 1 rang en [Bluff](./Bluff.md), 1 rang en [Intimidation](./Intimidation.md)
+**Conditions.** [[Cha]] 13, 1 rang en [[Bluff]], 1 rang en [[Intimidation]]
 
-**Avantages.** Lorsque le personnage utilise le [Bluff](./Bluff.md) pour tromper quelqu'un, il peut brimer cette personne afin de réduire le malus dû au fait de raconter un mensonge peu crédible ou très peu crédible de 5. S'il le fait et que son test n'aurait pas réussi sans cette réduction, après 1d6×10 minutes, la personne trompée se rend compte que le personnage l'a poussée à croire à un mensonge, le considère comme [inamical](./Diplomatie.md), et est susceptible de rapporter ses agissements ou de prendre des mesures contre lui.
+**Avantages.** Lorsque le personnage utilise le [[Bluff]] pour tromper quelqu'un, il peut brimer cette personne afin de réduire le malus dû au fait de raconter un mensonge peu crédible ou très peu crédible de 5. S'il le fait et que son test n'aurait pas réussi sans cette réduction, après 1d6×10 minutes, la personne trompée se rend compte que le personnage l'a poussée à croire à un mensonge, le considère comme [[Diplomatie|inamical]], et est susceptible de rapporter ses agissements ou de prendre des mesures contre lui.
 
 **Normal.** Le malus dû au fait de raconter des mensonges peu crédibles est de -5, et celui dû au fait de raconter des mensonges très peu crédibles est de -10.

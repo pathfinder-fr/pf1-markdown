@@ -10,7 +10,7 @@ LastModified: 2017-06-22 17:34
 {s:pucem|Créature magique|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 229*}
 - **600 PX**
-- [Créature magique](./type Créature magique.md) de taille Min, N
+- [[type créature magique|Créature magique]] de taille Min, N
 - **Init **+7 ; Sens vision dans le noir à 18 m, vision nocturne ; Perception +5
 (((Défense)))
 - **CA **17, contact 17, pris au dépourvu 13 (Dex +3, taille +4)
@@ -21,14 +21,14 @@ LastModified: 2017-06-22 17:34
 - **Corps à corps** morsure, +10 (1d2-5)
 - **Espace **0,30 m ; **Allonge** 0 m
 - **Pouvoirs magiques** (**NLS **3 ; concentration +5)
-  - *Constant* – [compréhension des langages](./Compréhension des langages.md)
-  - *3/jour* – [augure](./Augure.md), [disparition](./Disparition.md)
-  - *1/jour* – [détection de pensées](./Détection de pensées.md) (DD 14), [divination](./Divination.md), [invisibilité suprême](./Invisibilité suprême.md) (sur lui-même uniquement)
+  - *Constant* – [[compréhension des langages]]
+  - *3/jour* – [[augure]], [[disparition]]
+  - *1/jour* – [[détection de pensées]] (DD 14), [[divination]], [[invisibilité suprême]] (sur lui-même uniquement)
 (((Statistiques)))
 - **For **1, **Dex **16, **Con **9, **Int **14, **Sag **11, **Cha **14
 - **BBA **+3 ; **BMO **+2 ; **DMD **8
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences **[Connaissances](./Connaissances.md) (mystères) +5, [Connaissances](./Connaissances.md) (religion) +5, [Discrétion](./Discrétion.md) +19, [Escalade](./Escalade.md) +7, [Perception](./Perception.md) +5, [Psychologie](./Psychologie.md) +2 
+- **Dons **[[Attaque en finesse]], [[science de linitiative|Science de l’initiative]]
+- **Compétences **[[Connaissances]] (mystères) +5, [[Connaissances]] (religion) +5, [[Discrétion]] +19, [[Escalade]] +7, [[Perception]] +5, [[Psychologie]] +2 
 - **Langues **commun, draconique ; compréhension des langages
 - **Particularités **compression
 (((Écologie)))

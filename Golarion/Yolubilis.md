@@ -7,6 +7,6 @@ Categories:
 - Géographie
 ---
 
-Ce petit fleuve côtier du nord-ouest du [Chéliax](./Chéliax.md) prend sa source au pied de la Flèche, un des sommets du [Perchoir du Diable](./Perchoir du Diable.md). Son cours longe d'abord la forêt de [Ravounel](./Ravounel.md) avant de se jeter dans l'[Océan Arcadien](./océan Arcadien.md) dans la Baie de Nisroch.
+Ce petit fleuve côtier du nord-ouest du [[Chéliax]] prend sa source au pied de la Flèche, un des sommets du [[Perchoir du Diable]]. Son cours longe d'abord la forêt de [[Ravounel]] avant de se jeter dans l'[[Océan Arcadien]] dans la Baie de Nisroch.
 
-Au bord de la petite baie formée par son embouchure s'étend la ville chélaxienne de [Kintargo](./Kintargo.md), capitale du Territoire du Nord-Ouest.
+Au bord de la petite baie formée par son embouchure s'étend la ville chélaxienne de [[Kintargo]], capitale du Territoire du Nord-Ouest.

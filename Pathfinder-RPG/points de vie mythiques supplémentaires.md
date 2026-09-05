@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Construire une créature mythique#POINTSDEVIEMYTHIQUESSUPPLEMENTAIRES
 ---
 
->>> [Construire une créature mythique#POINTSDEVIEMYTHIQUESSUPPLEMENTAIRES](./Construire une créature mythique.md#POINTSDEVIEMYTHIQUESSUPPLEMENTAIRES)
+>>> [[Construire une créature mythique#POINTSDEVIEMYTHIQUESSUPPLEMENTAIRES]]

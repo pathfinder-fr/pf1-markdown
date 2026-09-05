@@ -6,10 +6,10 @@ LastModified: 2018-01-10 21:10
 
 <div class="presentation navmenudroite">
 ### Liens rapides
-<p>[Guide de la Société des Éclaireurs](./PFSG.md)</p>
-<p>[Survol des factions](./Présentation Pathfinder Society.md#FACTIONS)</p>
-<p>[Aventures](./Présentation Pathfinder Society.md#AVENTURES)</p>
-<p>[Liens utiles](./Présentation Pathfinder Society.md#LIENS)</p>
+<p>[[PFSG|Guide de la Société des Éclaireurs]]</p>
+<p>[[Présentation Pathfinder Society#FACTIONS|Survol des factions]]</p>
+<p>[[Présentation Pathfinder Society#AVENTURES|Aventures]]</p>
+<p>[[Présentation Pathfinder Society#LIENS|Liens utiles]]</p>
 </div>
 <img src="/Illustrations/PFS/PFS icone2013.png" class="gauche" alt="">
 
@@ -36,26 +36,26 @@ Considérez le système de parties de JdR organisées comme un jeu massivement m
 ### Survol des factions de la Société des Éclaireurs
 
 <center><table style="text-align: center; margin-top: 8px">
-<tr><td width="160px">[<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Andoran.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>](./PS Andoran.md)</td>
-<td width="160px">[<img width="100px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Cheliax.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>](./PS Chéliax.md)</td>
-<td width="160px">[<img width="100px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Osirion.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>](./PS Osirion.md)</td>
-<td width="160px">[<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Qadira.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>](./PS Qadira.md)</td>
+<tr><td width="160px">[[PS Andoran|<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Andoran.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>]]</td>
+<td width="160px">[[PS Chéliax|<img width="100px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Cheliax.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>]]</td>
+<td width="160px">[[PS Osirion|<img width="100px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Osirion.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>]]</td>
+<td width="160px">[[PS Qadira|<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Qadira.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>]]</td>
 </tr>
-<tr><td>[Andoran](./PS Andoran.md)</td>
-<td>[Chéliax](./PS Chéliax.md)</td>
-<td>[Osirion](./PS Osirion.md)</td>
-<td>[Qadira](./PS Qadira.md)</td>
+<tr><td>[[PS Andoran|Andoran]]</td>
+<td>[[PS Chéliax|Chéliax]]</td>
+<td>[[PS Osirion|Osirion]]</td>
+<td>[[PS Qadira|Qadira]]</td>
 </tr>
 <tr><td COLSPAN=5>&nbsp;</td></tr>
-<tr><td>[<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20grandeloge.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>](./PS Grande.md)</td>
-<td>[<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Sczarni.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>](./PS Sczarni.md)</td>
-<td>[<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Taldor.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>](./PS Taldor.md)</td>
-<td>[<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20SilverCrusade.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>](./PS Croisade argent.md)</td>
+<tr><td>[[PS Grande|<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20grandeloge.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>]]</td>
+<td>[[PS Sczarni|<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Sczarni.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>]]</td>
+<td>[[PS Taldor|<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20Taldor.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>]]</td>
+<td>[[PS Croisade argent|<img width="120px" src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flogo%20SilverCrusade.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1"/>]]</td>
 </tr>
-<tr><td>[Grande Loge](./PS Grande.md)</td>
-<td>[Sczarni](./PS Sczarni.md)</td>
-<td>[Taldor](./PS Taldor.md)</td>
-<td>[Croisade d'argent](./PS Croisade argent.md)</td>
+<tr><td>[[PS Grande|Grande Loge]]</td>
+<td>[[PS Sczarni|Sczarni]]</td>
+<td>[[PS Taldor|Taldor]]</td>
+<td>[[PS Croisade argent|Croisade d'argent]]</td>
 </tr>
 </table></center>
 
@@ -63,31 +63,31 @@ Considérez le système de parties de JdR organisées comme un jeu massivement m
 
 
 ### Les aventures
-- [PFSI|Pathfinder Society - Scénarios d'introduction]
-- [PFS0|Pathfinder Society - Scénarios - Saison 0]
-- [PFS1|Pathfinder Society - Scénarios - Saison 1]
-- [PFS2|Pathfinder Society - Scénarios - Saison 2]
-- [PFS3|Pathfinder Society - Scénarios - Saison 3]
-- [PFS4|Pathfinder Society - Scénarios - Saison 4]
-- [PFS5|Pathfinder Society - Scénarios - Saison 5]
-- [PFSX|Pathfinder Society - Modules autorisés]
-- [PFSY|Pathfinder Society - Aventures autorisées]
+- [[PFSI|Pathfinder Society - Scénarios d'introduction]]
+- [[PFS0|Pathfinder Society - Scénarios - Saison 0]]
+- [[PFS1|Pathfinder Society - Scénarios - Saison 1]]
+- [[PFS2|Pathfinder Society - Scénarios - Saison 2]]
+- [[PFS3|Pathfinder Society - Scénarios - Saison 3]]
+- [[PFS4|Pathfinder Society - Scénarios - Saison 4]]
+- [[PFS5|Pathfinder Society - Scénarios - Saison 5]]
+- [[PFSX|Pathfinder Society - Modules autorisés]]
+- [[PFSY|Pathfinder Society - Aventures autorisées]]
 
 {s:Reference|LIENS}
 ===Liens utiles=== <table><tr><td width="50%">
 ====Sur Pathfinder-FR====</td><td width="50%">
 ====Ailleurs sur la toile====</td></tr>
 <tr><td>
-- [http://www.pathfinder-fr.org/Forum/default.aspx?g=topics&f=45|Le Forum Pathfinder Society (Société des Éclaireurs)]
-- [http://www.pathfinder-fr.org/Wiki/Parties.PFS.ashx|Le Wiki commun aux parties Pathfinder Society]
-- [http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&t=1006|Règles & Sources],
-- [http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&t=1007|Foire aux Questions]
-- [Aides de Jeu](./Aventures-PFS%20Aides%20de%20jeu-aspx.md)
+- [Le Forum Pathfinder Society (Société des Éclaireurs)](http://www.pathfinder-fr.org/Forum/default.aspx?g=topics&f=45)
+- [Le Wiki commun aux parties Pathfinder Society](http://www.pathfinder-fr.org/Wiki/Parties.PFS.ashx)
+- [Règles & Sources](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&t=1006),
+- [Foire aux Questions](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&t=1007)
+- [[Aventures.PFS%20Aides%20de%20jeu.aspx|Aides de Jeu]]
 </td>
 <td>
-- [^http://www.psop.fr|PSOP - Site des Joueurs Français] - Base des joueurs, personnages, aventures et conventions.
-- [^http://paizo.com/pathfinderSociety|Pathfinder Society chez Paizo Éditions]
-- [^http://www.black-book-editions.fr/index.php?site_id=146|Société des Éclaireurs chez Black Book Éditions]
+- [PSOP - Site des Joueurs Français](http://www.psop.fr) - Base des joueurs, personnages, aventures et conventions.
+- [Pathfinder Society chez Paizo Éditions](http://paizo.com/pathfinderSociety)
+- [Société des Éclaireurs chez Black Book Éditions](http://www.black-book-editions.fr/index.php?site_id=146)
 </td>
 </tr>
 </table>

@@ -7,7 +7,7 @@ LastModified: 2019-01-27 09:45
 {s:cs}
 Une fois que vous avez échappé à des entraves psychologiques, vous devenez pratiquement impossible à contraindre de la sorte
 
-**Condition.** [Sag](./Sag.md) 14
+**Condition.** [[Sag]] 14
 
 **Avantage.** Vous obtenez un bonus de +4 à vos jets de sauvegarde pour résister aux effets qui affectent l'esprit. De plus, après un échec à un jet de sauvegarde contre un effet affectant l'esprit, vous obtenez un bonus de +10 à vos jets de sauvegarde pour résister à cet effet affectant l'esprit pendant les 24 prochaines heures.
 

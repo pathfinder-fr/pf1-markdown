@@ -11,14 +11,14 @@ Categories:
 
 {s:uc}*Les coups que le personnage porte à mains nues donnent une révélation à ses ennemis. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Révélation](./Oracle.md#REVELATION), [Science du combat à mains nues](./Science du combat à mains nues.md)
+**Conditions.** [[Oracle#REVELATION|Révélation]], [[Science du combat à mains nues]]
 
-**Avantage.** Le personnage choisit une [révélation](./Oracle.md#REVELATION) qui affecte un adversaire seulement au moment de prendre ce don. S’il réussit une attaque à mains nues contre un ennemi, il lui inflige les dégâts habituels et peut, en plus, utiliser une [action rapide](./Action rapide.md) pour lui attribuer les effets de la révélation choisie, sans provoquer d’[attaque d’opportunité](./attaque dopportunité.md).
+**Avantage.** Le personnage choisit une [[Oracle#REVELATION|révélation]] qui affecte un adversaire seulement au moment de prendre ce don. S’il réussit une attaque à mains nues contre un ennemi, il lui inflige les dégâts habituels et peut, en plus, utiliser une [[action rapide]] pour lui attribuer les effets de la révélation choisie, sans provoquer d’[[attaque dopportunité|attaque d’opportunité]].
 
 **Spécial.** Le personnage peut choisir ce don à plusieurs reprises. Ses effets ne se cumulent pas, ils s’appliquent à chaque fois à une nouvelle révélation.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Une fois que le personnage a touché avec une attaque à mains nues, il peut dépenser 2 points d’endurance pour appliquer les effets de la [révélation](./Oracle.md#REVELATION) choisie par une [action libre](./Action libre.md) au lieu d’une [action rapide](./Action rapide.md). Si la révélation choisie peut être utilisée un nombre illimité de fois par jour, cette astuce martiale coûte 5 points d’endurance.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Une fois que le personnage a touché avec une attaque à mains nues, il peut dépenser 2 points d’endurance pour appliquer les effets de la [[Oracle#REVELATION|révélation]] choisie par une [[action libre]] au lieu d’une [[action rapide]]. Si la révélation choisie peut être utilisée un nombre illimité de fois par jour, cette astuce martiale coûte 5 points d’endurance.

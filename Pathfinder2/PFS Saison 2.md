@@ -5,9 +5,9 @@ LastModified: 2024-09-10 00:31
 ---
 
 <img src="Logos/PFS2/YearofCorruptionReachTitle01.png" class="fright" alt="">
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page PFS pour Pathfinder 2](./PFS.md)
+• [[PFS|Retour à la page PFS pour Pathfinder 2]]
 
 ### Année de l'Étreinte de la Corruption
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0200E_180.jpeg|2-00 - The King in Thorns}

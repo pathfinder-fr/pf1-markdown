@@ -10,29 +10,29 @@ LastModified: 2020-09-21 15:22
 {s:pucem|Vermine|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.189*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Vermine](./type Vermine.md) ([aquatique](./sous-type aquatique.md)) de taille P, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille P, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 11 (Dex +3, taille +1)}
 {s:BDTexte|**pv** 15 (2d8+6)}
 {s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +0}
-{s:BDTexte|**Capacités défensives** [créature informe](./Créature informe (capacité).md) ; **Immunités** effets mentaux ; **RD** 5/perforant ou tranchant }
+{s:BDTexte|**Capacités défensives** [[créature informe (capacité)|créature informe]] ; **Immunités** effets mentaux ; **RD** 5/perforant ou tranchant }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** nage 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** 2 tentacules, +3 (1d3+1 plus poison)}
 {s:BDTexte|**Espace** 1,50 m (1 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 17, **Con** 16, **Int** —, **Sag** 10, **Cha** 1}
-{s:BDTexte|**BBA** +1, **BMO** +1, **DMD** 14 ([croc-en-jambe](./croc-en-jambe.md) impossible}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +9}
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md)}
+{s:BDTexte|**BBA** +1, **BMO** +1, **DMD** 14 ([[croc-en-jambe]] impossible}
+{s:BDTexte|**Compétences** [[Natation]] +9}
+{s:BDTexte|**Particularités** [[compression (capacité)|compression]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
 {s:BDTexte|**Organisation sociale** solitaire, groupe (2–5) ou nuée (6–12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Poison (Ext).** Tentacules — blessure ; *JdS* [jet de Vigueur](./jet de sauvegarde.md) DD 14 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1 Con et de 1 Cha; *guérison* 2 réussites consécutives. Le DD dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|Si la créature rate deux jets consécutifs, ses mâchoires se bloquent, sa langue se met à enfler et ses lèvres se rétractent, la rendant incapable de parler. Cet état se dissipe lorsque l’affaiblissement de [Charisme](./Charisme.md) est guéri.}
+{s:BDTexte|**Poison (Ext).** Tentacules — blessure ; *JdS* [[jet de sauvegarde|jet de Vigueur]] DD 14 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1 Con et de 1 Cha; *guérison* 2 réussites consécutives. Le DD dépend de la [[Constitution]].}
+{s:BDTexte|Si la créature rate deux jets consécutifs, ses mâchoires se bloquent, sa langue se met à enfler et ses lèvres se rétractent, la rendant incapable de parler. Cet état se dissipe lorsque l’affaiblissement de [[Charisme]] est guéri.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -41,13 +41,13 @@ LastModified: 2020-09-21 15:22
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Méduse à tête de mort](./Méduse à tête de mort.md) || 1
+| [[Méduse à tête de mort]] || 1
 |-
-| [Méduse géante](./Méduse géante.md) || 7
+| [[Méduse géante]] || 7
 |-
-| [Méduse saphir](./Méduse saphir.md) || 11
+| [[Méduse saphir]] || 11
 |-
-| [Nuée de méduses](./Nuée de méduses.md) || 6
+| [[Nuée de méduses]] || 6
 |}
 </div>*Cette méduse aux longs tentacules a une large ombrelle sur laquelle se dessine un motif ressemblant vaguement à une tête de mort.*
 

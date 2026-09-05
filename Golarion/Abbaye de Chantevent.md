@@ -9,6 +9,6 @@ Categories:
 
 Avec ses vitraux qui laissent passer la lumière du soleil et ses tunnels dans les murs et les fondations qui transforment les vents en musique, l'abbaye de Chantevent est une merveille d'architecture. Elle se compose de tours et d'arches que l'on voit se démarquer de la côte.
 
-L'abbaye de Chantevent fut fondée par des moines pacifistes et des érudits pour servir de lieu de discussion entre les clergés des principales divinités de la Varisie (bonnes ou mauvaises). Ce lieu permettait de résoudre certains conflits sans les voir dégénérer. Cependant, avec la mort d'[Aroden](./Aroden.md), de nombreux clergés ont abandonné l'abbaye et ses débats.
+L'abbaye de Chantevent fut fondée par des moines pacifistes et des érudits pour servir de lieu de discussion entre les clergés des principales divinités de la Varisie (bonnes ou mauvaises). Ce lieu permettait de résoudre certains conflits sans les voir dégénérer. Cependant, avec la mort d'[[Aroden]], de nombreux clergés ont abandonné l'abbaye et ses débats.
 
 L'abbaye de Chantevent est actuellement dirigée par l'abbesse Masquée et ses conseillers.

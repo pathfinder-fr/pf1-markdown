@@ -10,8 +10,8 @@ Categories:
 
 {s:apg}*Le personnage choisit un élément auquel il a déjà appliqué le don Élément renforcé. Il est extrêmement difficile de résister aux sorts utilisant ce type d’énergie lorsqu’ils sont lancés par le personnage.*
 
-**Condition.** [Élément renforcé](./Élément renforcé.md).
+**Condition.** [[Élément renforcé]].
 
-**Avantage.** Le [DD](./DD.md) de tous les [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts qui infligent des dégâts du type choisi et qui sont lancés par le personnage augmente de +1. Ce bonus se cumule avec celui offert par le don [Élément renforcé](./Élément renforcé.md).
+**Avantage.** Le [[DD]] de tous les [[jet de sauvegarde|jets de sauvegarde]] contre les sorts qui infligent des dégâts du type choisi et qui sont lancés par le personnage augmente de +1. Ce bonus se cumule avec celui offert par le don [[Élément renforcé]].
 
 **Spécial.** Un personnage peut acquérir ce don plusieurs fois. Ses effets ne se cumulent pas. Chaque fois qu’il gagne ce don, il s’applique à un type d’énergie différent pour lequel il possède déjà le don Élément renforcé.

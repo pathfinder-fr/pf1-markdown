@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Arène#GLADIATEUR
 ---
 
->>> [Arène#GLADIATEUR](./Arène.md#GLADIATEUR)
+>>> [[Arène#GLADIATEUR]]

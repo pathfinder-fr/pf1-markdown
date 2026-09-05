@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Prisaudépourvu
 ---
 
->>> [États préjudiciables#Prisaudépourvu](./États préjudiciables.md#Prisaudépourvu)
+>>> [[États préjudiciables#Prisaudépourvu]]

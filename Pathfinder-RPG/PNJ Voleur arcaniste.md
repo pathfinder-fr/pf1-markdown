@@ -10,28 +10,28 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Voleur arcaniste|FP 12}
-{s:BDTexte|*Source : [Manuel des PNJ p. 205](./Manuel des PNJ (Contenu).md)*}
+{s:BDTexte|*Source : [[Manuel des PNJ (contenu)|Manuel des PNJ p. 205]]*}
 {s:BDTexte|**PX** 19 200}
-{s:BDTexte|[Halfelin](./Halfelin.md) [roublard](./Roublard.md) 4/[ensorceleur](./Ensorceleur.md) 5/[mystificateur profane](./Mystificateur profane.md) 4}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([halfelin](./sous-type halfelin.md)) de taille P, N}
-{s:BDTexte|**Init** +4 ; **Sens** [Perception](./Perception.md) +16}
+{s:BDTexte|[[Halfelin]] [[Roublard]] 4/[[Ensorceleur]] 5/[[Mystificateur profane]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type halfelin|halfelin]]) de taille P, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 16, pris au dépourvu 18 (armure +5, Dex +4, naturelle +1, parade +1, taille +1)}
 {s:BDTexte|**pv** 111 (4d8+5d6+4d6+44)}
 {s:BDTexte|**Réf** +16, **Vig** +9, **Vol** +10 ; +2 contre la peur}
-{s:BDTexte|**Capacités défensives** [esquive instinctive](./Roublard.md#ESQUIVEINSTINCTIVE), [esquive totale](./Roublard.md#ESQUIVETOTALE), [sens des pièges +1](./Roublard.md#SENSDESPIEGES)}
+{s:BDTexte|**Capacités défensives** [[Roublard#ESQUIVEINSTINCTIVE|esquive instinctive]], [[Roublard#ESQUIVETOTALE|esquive totale]], [[Roublard#SENSDESPIEGES|sens des pièges +1]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m}
 {s:BDTexte|**Corps à corps** rapière de maître, +7/+2 (1d4–2)}
 {s:BDTexte|**Distance** *arbalète lourde +1*, +13 (1d8+1/19–20)}
-{s:BDTexte|**Attaques spéciales** [attaque imprévisible 1/jour](./Mystificateur profane.md#ATTAQUEIMPREVISIBLE), [attaque sournoise +4d6](./Roublard.md#ATTAQUESOURNOISE)}
-{s:BDTexte|**Sorts d'ensorceleur connus**  ([NLS](./NLS.md) 9 ; [concentration](./concentration.md) +12 ; risque d'échec 10 %)}
-{s:BDSorts|4e (4/jour) — *[œil du mage](./Œil du mage.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*}
-{s:BDSorts|3e (7/jour) — *[dissipation de la magie](./Dissipation de la magie.md)*, *[état gazeux](./État gazeux.md)*, *[flèches enflammées](./Flèches enflammées.md)*}
-{s:BDSorts|2e (7/jour) — *[déblocage](./Déblocage.md)*, *[invisibilité](./Invisibilité.md)*, *[localisation d'objet](./Localisation dobjet.md)*, *[pattes d'araignée](./Pattes daraignée.md)*, *[simulacre de vie](./Simulacre de vie.md)*}
-{s:BDSorts|1er (7/jour) — *[détection des passages secrets](./Détection des passages secrets.md)*, *[disque flottant](./Disque flottant.md)*, *[effacement](./Effacement.md)*, *[feuille morte](./Feuille morte.md)*, *[identification](./Identification.md)*, *[serviteur invisible](./Serviteur invisible.md)*}
-{s:BDSorts|0 (à volonté) — *[aspersion acide](./Aspersion acide.md)*, *[détection de la magie](./Détection de la magie.md)*, *[détection du poison](./Détection du poison.md)*, *[lumière](./Lumière.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*, *[prestidigitation](./Prestidigitation.md)*, *[rayon de givre](./Rayon de givre.md)*}
-{s:BDSorts|**Lignage** [profane](./lignage Profane.md)}
+{s:BDTexte|**Attaques spéciales** [[Mystificateur profane#ATTAQUEIMPREVISIBLE|attaque imprévisible 1/jour]], [[Roublard#ATTAQUESOURNOISE|attaque sournoise +4d6]]}
+{s:BDTexte|**Sorts d'ensorceleur connus**  ([[NLS]] 9 ; [[concentration]] +12 ; risque d'échec 10 %)}
+{s:BDSorts|4e (4/jour) — *[[œil du mage]]*, *[[porte dimensionnelle]]*}
+{s:BDSorts|3e (7/jour) — *[[dissipation de la magie]]*, *[[état gazeux]]*, *[[flèches enflammées]]*}
+{s:BDSorts|2e (7/jour) — *[[déblocage]]*, *[[invisibilité]]*, *[[localisation dobjet|localisation d'objet]]*, *[[pattes daraignée|pattes d'araignée]]*, *[[simulacre de vie]]*}
+{s:BDSorts|1er (7/jour) — *[[détection des passages secrets]]*, *[[disque flottant]]*, *[[effacement]]*, *[[feuille morte]]*, *[[identification]]*, *[[serviteur invisible]]*}
+{s:BDSorts|0 (à volonté) — *[[aspersion acide]]*, *[[détection de la magie]]*, *[[détection du poison]]*, *[[lumière]]*, *[[manipulation à distance]]*, *[[ouverturefermeture|ouverture/fermeture]]*, *[[prestidigitation]]*, *[[rayon de givre]]*}
+{s:BDSorts|**Lignage** [[Lignage Profane|profane]]}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Avant le combat** Le mystificateur profane lance *simulacre de vie*.}
 {s:BDTexte|**Pendant le combat** Le mystificateur profane reste hors de la mêlée en utilisant *invisibilité*, *état gazeux* et *porte dimensionnelle* pour garder ses distances tout en tirant des carreaux d’arbalète sur ses ennemis. Si la situation tourne à son désavantage, il utilise son *parchemin de téléportation* pour prendre la fuite.}
@@ -39,11 +39,11 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 6, **Dex** 18, **Con** 16, **Int** 13, **Sag** 10, **Cha** 16}
 {s:BDTexte|**BBA** +7 ; **BMO** +4 ; **DMD** 19}
-{s:BDTexte|**Dons** [Aisance](./Aisance.md), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [Extension de durée](./Extension de durée.md), [Incantation statique](./Incantation statique.md), [Port de l'armure magique](./Port de larmure magique.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science des réflexes surhumains](./Science des réflexes surhumains.md), [Talent](./Talent.md) (Sabotage)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +15 (+11 pour sauter), [Connaissances](./Connaissances.md) (mystères) +10, [Discrétion](./Discrétion.md) +24, [Escalade](./Escalade.md) +9, [Évasion](./Évasion.md) +11, [Natation](./Natation.md) +7, [Perception](./Perception.md) +16, [Sabotage](./Sabotage.md) +26, [Utilisation d'objets magiques](./UOM.md) +12}
+{s:BDTexte|**Dons** [[Aisance]], [[Dispense de composantes matérielles]], [[Extension de durée]], [[Incantation statique]], [[Port de larmure magique|Port de l'armure magique]], [[Réflexes surhumains]], [[Science des réflexes surhumains]], [[Talent]] (Sabotage)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +15 (+11 pour sauter), [[Connaissances]] (mystères) +10, [[Discrétion]] +24, [[Escalade]] +9, [[Évasion]] +11, [[Natation]] +7, [[Perception]] +16, [[Sabotage]] +26, [[UOM|Utilisation d'objets magiques]] +12}
 {s:BDTexte|**Langues** commun, draconien, halfelin}
-{s:BDTexte|**Particularités** [adepte de la métamagie](./lignage Profane.md#ADEPTEDELAMETAMAGIE) (1/jour), [arcane de lignage](./Ensorceleur.md#LIGNAGE) (+1 au DD des sorts avec des dons de métamagie qui augmentent le niveau de sort), [pacte magique](./lignage Profane.md#PACTEMAGIQUE) (*arbalète lourde +1*), [prestidigitation à distance](./Mystificateur profane.md#PRESTIDIGITATIONADISTANCE), [recherche de pièges +2](./Roublard.md#RECHERCHEDEPIEGES), [talents de roublard](./Roublard.md#TALENTS) ([désamorçage rapide](./Talents.md#DESAMORCAGERAPIDE), [dénicheur de pièges](./Talents.md#DENICHEURDEPIEGES))}
-{s:BDTexte|**Équipement de combat** *[flèches](./Flèches (arme).md) [tueuse](./tueuse (propriété).md) de créatures artificielles +1* (3), *[flèches](./Flèches (arme).md) [tueuse](./tueuse (propriété).md) de morts-vivants +1* (3), *[baguette](./Baguettes magiques.md) de [ralentissement du poison](./Ralentissement du poison.md)* (10 charges), *[parchemin](./Parchemins magiques.md) de [délivrance des malédictions](./Délivrance des malédictions.md)*, *[parchemin](./Parchemins magiques.md) de [guérison des maladies](./Guérison des maladies.md)*, *[parchemin](./Parchemins magiques.md) de [neutralisation du poison](./Neutralisation du poison.md)*, *[parchemin](./Parchemins magiques.md) de [téléportation](./téléportation.md)*, *[potions](./Potions magiques.md) de [soins importants](./Soins importants.md)* (2), [allumes-feu](./Allume-feu (objet).md) (5), [antitoxine](./Antitoxine (objet).md) (5), [eau bénite](./Eau bénite (objet).md) (5) ; **Équipement divers** *[chemise de mailles](./chemise de mailles (armure).md) en [mithral](./mithral.md) +1*, *[arbalète lourde](./Arbalète lourde (arme).md) +1* avec 20 [carreaux](./Carreaux darbalète (arme).md), [rapière](./rapière (arme).md) [de maître](./arme de maître.md), *[amulette d'armure naturelle +1](./Amulette darmure naturelle.md)*, *[anneau de protection +1](./Anneau de protection.md)*, *[cape de résistance +2](./Cape de résistance.md)*, *[ceinturon de dextérité du chat +2](./Ceinturon de dextérité du chat.md)*, *[gants antiprojectiles](./Gants antiprojectiles.md)*, [outils de cambrioleur de maître](./Outils de cambrioleur (objet).md), [sacoche à composantes](./Sacoche à composantes (objet).md), [torche éternelle](./Torche éternelle (objet).md), 56 po}
+{s:BDTexte|**Particularités** [[Lignage Profane#ADEPTEDELAMETAMAGIE|adepte de la métamagie]] (1/jour), [[Ensorceleur#LIGNAGE|arcane de lignage]] (+1 au DD des sorts avec des dons de métamagie qui augmentent le niveau de sort), [[Lignage Profane#PACTEMAGIQUE|pacte magique]] (*arbalète lourde +1*), [[Mystificateur profane#PRESTIDIGITATIONADISTANCE|prestidigitation à distance]], [[Roublard#RECHERCHEDEPIEGES|recherche de pièges +2]], [[Roublard#TALENTS|talents de roublard]] ([[Talents#DESAMORCAGERAPIDE|désamorçage rapide]], [[Talents#DENICHEURDEPIEGES|dénicheur de pièges]])}
+{s:BDTexte|**Équipement de combat** *[[Flèches (arme)|flèches]] [[tueuse (propriété)|tueuse]] de créatures artificielles +1* (3), *[[Flèches (arme)|flèches]] [[tueuse (propriété)|tueuse]] de morts-vivants +1* (3), *[[Baguettes magiques|baguette]] de [[ralentissement du poison]]* (10 charges), *[[Parchemins magiques|parchemin]] de [[délivrance des malédictions]]*, *[[Parchemins magiques|parchemin]] de [[guérison des maladies]]*, *[[Parchemins magiques|parchemin]] de [[neutralisation du poison]]*, *[[Parchemins magiques|parchemin]] de [[téléportation]]*, *[[Potions magiques|potions]] de [[soins importants]]* (2), [[allume-feu (objet)|allumes-feu]] (5), [[antitoxine (objet)|antitoxine]] (5), [[eau bénite (objet)|eau bénite]] (5) ; **Équipement divers** *[[chemise de mailles (armure)|chemise de mailles]] en [[mithral]] +1*, *[[arbalète lourde (arme)|arbalète lourde]] +1* avec 20 [[Carreaux darbalète (arme)|carreaux]], [[rapière (arme)|rapière]] [[arme de maître|de maître]], *[[amulette darmure naturelle|amulette d'armure naturelle +1]]*, *[[anneau de protection|anneau de protection +1]]*, *[[cape de résistance|cape de résistance +2]]*, *[[ceinturon de dextérité du chat|ceinturon de dextérité du chat +2]]*, *[[gants antiprojectiles]]*, [[outils de cambrioleur (objet)|outils de cambrioleur de maître]], [[sacoche à composantes (objet)|sacoche à composantes]], [[torche éternelle (objet)|torche éternelle]], 56 po}
 </div>
 </td><td><div>Maîtres de l’effraction dans les tours occupées par des magiciens et experts de l’infiltration dans des cercles composés d’ensorceleurs, les voleurs arcanistes dérobent les objets magiques et les revendent aux recéleurs locaux ou directement aux aventuriers de passage.
 

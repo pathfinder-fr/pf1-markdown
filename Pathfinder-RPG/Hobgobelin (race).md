@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Hobgobelin.md) d'un hobgobelin standard.***
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [[Hobgobelin|fiche de créature]] d'un hobgobelin standard.***
 
 Guerriers féroces, les hobgobelins survivent grâce à la conquête. Ils doivent les matières premières qui alimentent leurs machines de guerre à leurs raids, leur armement et leurs bâtiments au labeur d’esclaves qui se tuent au travail. Naturellement ambitieux et envieux, les hobgobelins cherchent à améliorer leur niveau de vie aux dépens de leurs semblables, mais, en combat, ils mettent leurs petits différends de côté et se battent en suivant une discipline qui égalent celle des meilleurs soldats. Ils n’éprouvent guère d’affection les uns pour les autres et ne se font pas confiance, encore moins en ce qui concerne les étrangers. La vie de ces brutes se résume à servir leurs supérieurs, à dominer ceux qui leur sont inférieurs et à saisir les rares opportunités de gloire et de montée en grade.
 
@@ -28,13 +28,13 @@ Guerriers féroces, les hobgobelins survivent grâce à la conquête. Ils doiven
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 en [Dextérité](./Dextérité.md), +2 en [Constitution](./Constitution.md).** Les hobgobelins sont rapides et robustes.
-- **Gobelinoïde.** Les hobgobelins sont des [humanoïdes](./type Humanoïde.md) de sous-type [gobelinoïde](./sous-type gobelinoïde.md).
-- **Taille M.** Les hobgobelins sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni bonus ni malus de taille.
-- **Vitesse normale.** Les hobgobelins ont une [vitesse de base](./VD.md) de 9 mètres.
-- **Vision dans le noir.** Les hobgobelins [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
-- **Furtif.** Les hobgobelins reçoivent un bonus racial de +4 à leurs tests de [Discrétion](./Discrétion.md).
-- **Langues.** Les hobgobelins commencent le jeu en parlant le commun et le gobelin. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi celles-ci : draconique, géant, infernal, nain et orque.
+- **+2 en [[Dextérité]], +2 en [[Constitution]].** Les hobgobelins sont rapides et robustes.
+- **Gobelinoïde.** Les hobgobelins sont des [[type Humanoïde|humanoïdes]] de sous-type [[sous-type gobelinoïde|gobelinoïde]].
+- **Taille M.** Les hobgobelins sont des créatures de [[taille M]] qui ne reçoivent ni bonus ni malus de taille.
+- **Vitesse normale.** Les hobgobelins ont une [[VD|vitesse de base]] de 9 mètres.
+- **Vision dans le noir.** Les hobgobelins [[Vision dans le noir (capacité)|voient dans le noir]] à 18 mètres.
+- **Furtif.** Les hobgobelins reçoivent un bonus racial de +4 à leurs tests de [[Discrétion]].
+- **Langues.** Les hobgobelins commencent le jeu en parlant le commun et le gobelin. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues parmi celles-ci : draconique, géant, infernal, nain et orque.
 
 </div>
 
@@ -43,24 +43,24 @@ Guerriers féroces, les hobgobelins survivent grâce à la conquête. Ils doiven
 {s:MR}Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux hobgobelins standards, mais consultez d’abord votre MJ.
 
 <u>*Remplace « furtif » :*</u>
-- {s:cs}{s:ISR}**Autoritaire.** Les hobgobelins élevés dans la nation exceptionnellement ouverte et stable du Kaoling ou parmi les esclavagistes du bois des Chants d'oiseaux en Isger développent souvent un talent pour contrôler les autres. Ils bénéficient d'un bonus racial de +2 aux tests de [Diplomatie](./Diplomatie.md) et d'[Intimidation](./Intimidation.md), qui deviennent des compétences de classe pour eux. Ce trait racial remplace furtif.
-- **Chasseur d’esclaves.** Les esclavagistes hobgobelins excellent dans la traque des esclaves fugitifs et sont capables de survivre dans des conditions abominables. Ceux qui ont ce trait gagnent un bonus racial de +2 à leurs tests de [Survie](./Survie.md) et un bonus racial de +2 à leurs jets de [Vigueur](./Vigueur.md) contre les maladies. Ce trait racial remplace furtif.
-- **Chasseur de mages.** Les hobgobelins détestent et craignent les lanceurs de sorts profanes. Le chasseur de mages gagne un bonus racial de +2 à ses tests d’[Art de la magie](./Art de la magie.md) pour identifier l'incantation d'un sort et un bonus racial de +1 à ses [jets d’attaque](./jet dattaque.md) contre les lanceurs de sorts profanes. Il ne bénéficie de ce bonus que contre les créatures qui utilisent des sorts, non contre celles qui utilisent seulement des [pouvoirs magiques](./Pouvoirs magiques (capacité).md). Ce trait racial remplace furtif.
-- **Chef de fosse.** Le sang des esclaves fait tourner la machine de guerre des hobgobelins. Les chefs de fosse extraient le dernier souffle de labeur des esclaves à l’aide de copieux coups de fouet. Ceux qui ont ce trait racial sont formés au maniement des [fouets](./fouet (arme).md) et un bonus racial de +1 à leurs tests de manoeuvres offensives pour [désarmer](./désarmement.md) ou faire un [croc-en-jambe](./croc-en-jambe.md) avec un fouet. Ce trait racial remplace furtif.
-- **Endurci au combat.** Les exercices incessants font de la défense une seconde nature pour certains hobgobelins. Ceux qui ont ce trait racial gagnent un bonus de +1 au [DMD](./DMD.md). Ce trait racial remplace furtif.
-- **Inapte.** Les hobgobelins qui échouent à s’assurer une place dans l’armée ont le statut le plus bas dans la société hobgobeline, et apprennent très vite l’importance de s’attirer les faveurs de leurs supérieurs. Ceux qui ont ce trait racial gagnent le maniement d’une unique [arme de guerre](./arme de guerre.md) et un bonus racial de +1 à leurs tests de [Bluff](./Bluff.md) et de [Diplomatie](./Diplomatie.md). Ce trait racial remplace furtif.
-- **Ingénieur.** Les hobgobelins ingénieurs passent leur temps à bricoler le feu, les explosifs et les machines de guerre. Ceux qui ont ce trait racial gagnent un bonus racial de +2 à leurs tests d’[Artisanat](./Artisanat.md) (alchimie) et de [Connaissances](./Connaissances.md) (ingénierie). Ce trait racial remplace furtif.
-- **Terrifiant.** Certains hobgobelins méprisent la prudence et la finesse, leur préférant l’arrogance et l’intimidation. Ceux qui ont ce trait racial gagnent un bonus racial de +4 à leurs tests d’[Intimidation](./Intimidation.md). Ce trait racial remplace furtif.
+- {s:cs}{s:ISR}**Autoritaire.** Les hobgobelins élevés dans la nation exceptionnellement ouverte et stable du Kaoling ou parmi les esclavagistes du bois des Chants d'oiseaux en Isger développent souvent un talent pour contrôler les autres. Ils bénéficient d'un bonus racial de +2 aux tests de [[Diplomatie]] et d'[[Intimidation]], qui deviennent des compétences de classe pour eux. Ce trait racial remplace furtif.
+- **Chasseur d’esclaves.** Les esclavagistes hobgobelins excellent dans la traque des esclaves fugitifs et sont capables de survivre dans des conditions abominables. Ceux qui ont ce trait gagnent un bonus racial de +2 à leurs tests de [[Survie]] et un bonus racial de +2 à leurs jets de [[Vigueur]] contre les maladies. Ce trait racial remplace furtif.
+- **Chasseur de mages.** Les hobgobelins détestent et craignent les lanceurs de sorts profanes. Le chasseur de mages gagne un bonus racial de +2 à ses tests d’[[Art de la magie]] pour identifier l'incantation d'un sort et un bonus racial de +1 à ses [[jet dattaque|jets d’attaque]] contre les lanceurs de sorts profanes. Il ne bénéficie de ce bonus que contre les créatures qui utilisent des sorts, non contre celles qui utilisent seulement des [[Pouvoirs magiques (capacité)|pouvoirs magiques]]. Ce trait racial remplace furtif.
+- **Chef de fosse.** Le sang des esclaves fait tourner la machine de guerre des hobgobelins. Les chefs de fosse extraient le dernier souffle de labeur des esclaves à l’aide de copieux coups de fouet. Ceux qui ont ce trait racial sont formés au maniement des [[fouet (arme)|fouets]] et un bonus racial de +1 à leurs tests de manoeuvres offensives pour [[désarmement|désarmer]] ou faire un [[croc-en-jambe]] avec un fouet. Ce trait racial remplace furtif.
+- **Endurci au combat.** Les exercices incessants font de la défense une seconde nature pour certains hobgobelins. Ceux qui ont ce trait racial gagnent un bonus de +1 au [[DMD]]. Ce trait racial remplace furtif.
+- **Inapte.** Les hobgobelins qui échouent à s’assurer une place dans l’armée ont le statut le plus bas dans la société hobgobeline, et apprennent très vite l’importance de s’attirer les faveurs de leurs supérieurs. Ceux qui ont ce trait racial gagnent le maniement d’une unique [[arme de guerre]] et un bonus racial de +1 à leurs tests de [[Bluff]] et de [[Diplomatie]]. Ce trait racial remplace furtif.
+- **Ingénieur.** Les hobgobelins ingénieurs passent leur temps à bricoler le feu, les explosifs et les machines de guerre. Ceux qui ont ce trait racial gagnent un bonus racial de +2 à leurs tests d’[[Artisanat]] (alchimie) et de [[Connaissances]] (ingénierie). Ce trait racial remplace furtif.
+- **Terrifiant.** Certains hobgobelins méprisent la prudence et la finesse, leur préférant l’arrogance et l’intimidation. Ceux qui ont ce trait racial gagnent un bonus racial de +4 à leurs tests d’[[Intimidation]]. Ce trait racial remplace furtif.
 
 <u>*Remplace « vision dans le noir » :*</u>
-- **Balafré.** Un hobgobelin peut se balafrer lui-même avec la lame et le feu pour endurcir sa peau et en faire une masse calleuse de cicatrices. Ceux qui ont ce trait racial gagnent un bonus d’armure naturelle de +1 à la [CA](./CA.md). Néanmoins, l’exposition répétée au feu endommage leurs yeux de façon permanente. Ce trait racial remplace celui de vision dans le noir.
+- **Balafré.** Un hobgobelin peut se balafrer lui-même avec la lame et le feu pour endurcir sa peau et en faire une masse calleuse de cicatrices. Ceux qui ont ce trait racial gagnent un bonus d’armure naturelle de +1 à la [[CA]]. Néanmoins, l’exposition répétée au feu endommage leurs yeux de façon permanente. Ce trait racial remplace celui de vision dans le noir.
 
 <u>*Remplace « vitesse normale » :*</u>
-- **Jambes arquées.** Ces hobgobelins ont une stature encore plus exagérée que celle des autres, avec des jambes arquées et d’énormes épaules. Ceux qui ont ce trait gagnent un bonus racial de +2 à leurs tests d’[Équitation](./Équitation.md) et d’[Escalade](./Escalade.md), et un bonus racial de +2 au [DMD](./DMD.md) contre les tentatives de [bousculades](./bousculade.md) et de [croc-en-jambe](./croc-en-jambe.md) quand ils sont sur un sol solide. La [vitesse de base](./VD.md) des hobgobelins aux jambes arquées est réduite à 6 mètres. Ce trait racial remplace vitesse normale.
+- **Jambes arquées.** Ces hobgobelins ont une stature encore plus exagérée que celle des autres, avec des jambes arquées et d’énormes épaules. Ceux qui ont ce trait gagnent un bonus racial de +2 à leurs tests d’[[Équitation]] et d’[[Escalade]], et un bonus racial de +2 au [[DMD]] contre les tentatives de [[bousculade|bousculades]] et de [[croc-en-jambe]] quand ils sont sur un sol solide. La [[VD|vitesse de base]] des hobgobelins aux jambes arquées est réduite à 6 mètres. Ce trait racial remplace vitesse normale.
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -69,25 +69,25 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-{s:MR}**[Alchimiste](./Alchimiste.md).** L’alchimiste peut créer +1/2 [bombe](./Alchimiste.md#BOMBES) par jour.
+{s:MR}**[[Alchimiste]].** L’alchimiste peut créer +1/2 [[Alchimiste#BOMBES|bombe]] par jour.
 
-{s:MR}**[Chevalier](./Chevalier.md).** Le chevalier ajoute un bonus de +1/2 à ses tests d’[Équitation](./Équitation.md) et d’[Intimidation](./Intimidation.md).
+{s:MR}**[[Chevalier]].** Le chevalier ajoute un bonus de +1/2 à ses tests d’[[Équitation]] et d’[[Intimidation]].
 
-{s:MR}**[Guerrier](./Guerrier.md).** Le guerrier ajoute un bonus de circonstances de +1/2 à ses jets de [confirmation critique](./coup critique.md) qu’il porte avec l’arme de son choix (bonus maximum de +4). Ce bonus ne se cumule pas avec [Don pour les critiques](./Don pour les critiques.md).
+{s:MR}**[[Guerrier]].** Le guerrier ajoute un bonus de circonstances de +1/2 à ses jets de [[coup critique|confirmation critique]] qu’il porte avec l’arme de son choix (bonus maximum de +4). Ce bonus ne se cumule pas avec [[Don pour les critiques]].
 
-{s:MR}**[Inquisiteur](./Inquisiteur.md).** L’inquisiteur ajoute un bonus de +1 à ses tests de [concentration](./concentration.md) pour lancer des sorts d’inquisiteur.
+{s:MR}**[[Inquisiteur]].** L’inquisiteur ajoute un bonus de +1 à ses tests de [[concentration]] pour lancer des sorts d’inquisiteur.
 
-{s:MR}**[Moine](./Moine.md).** Le moine ajoute un bonus de +1/4 à ses tests de manoeuvre offensive pour [lutter](./lutte.md) ou faire un [croc-en-jambe](./croc-en-jambe.md).
+{s:MR}**[[Moine]].** Le moine ajoute un bonus de +1/4 à ses tests de manoeuvre offensive pour [[lutte|lutter]] ou faire un [[croc-en-jambe]].
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}**[Pistolier](./Pistolier.md).** Le pistolier ajoute +1/4 à ses points d’[audace](./Pistolier.md#AUDACE).
+{s:MR}**[[Pistolier]].** Le pistolier ajoute +1/4 à ses points d’[[Pistolier#AUDACE|audace]].
 
-{s:MR}**[Prêtre](./Prêtre.md).** Le prêtre ajoute +1/2 aux dégâts d’énergie négative de ses sorts, y compris des sorts de « *blessure* ».
+{s:MR}**[[Prêtre]].** Le prêtre ajoute +1/2 aux dégâts d’énergie négative de ses sorts, y compris des sorts de « *blessure* ».
 
-{s:MR}**[Rôdeur](./Rôdeur.md).** Le rôdeur rajoute +1/4 à son bonus contre un unique [ennemi juré](./Rôdeur.md#ENNEMIJURE) (bonus maximum de +1 par ennemi juré).
+{s:MR}**[[Rôdeur]].** Le rôdeur rajoute +1/4 à son bonus contre un unique [[Rôdeur#ENNEMIJURE|ennemi juré]] (bonus maximum de +1 par ennemi juré).
 
-{s:MR}**[Roublard](./Roublard.md).** Le roublard réduit de 1 le malus qu’impose la non-maîtrise d’une arme. Lorsque son malus de non-maîtrise pour une arme passe à 0 grâce à cette capacité, on considère que le roublard a le don [Maniement d'une arme de guerre](./Maniement dune arme de guerre.md) ou [exotiques](./Maniement dune arme exotique.md) approprié pour cette arme.
+{s:MR}**[[Roublard]].** Le roublard réduit de 1 le malus qu’impose la non-maîtrise d’une arme. Lorsque son malus de non-maîtrise pour une arme passe à 0 grâce à cette capacité, on considère que le roublard a le don [[Maniement dune arme de guerre|Maniement d'une arme de guerre]] ou [[Maniement dune arme exotique|exotiques]] approprié pour cette arme.
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -103,74 +103,74 @@ Voici les options accessibles aux hobgobelins, d’autres races adaptées peuven
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Belliciste](./Belliciste.md) || <sup>CM</sup> || [Cha](./Cha.md) 13, [hobgobelin](./Hobgobelin (race).md) || Bluff et Diplomatie deviennent des compétences de classe et bénéficient d'un bonus de +4 pour convaincre des créatures de se battre
+| [[Belliciste]] || <sup>CM</sup> || [[Cha]] 13, [[Hobgobelin (race)|hobgobelin]] || Bluff et Diplomatie deviennent des compétences de classe et bénéficient d'un bonus de +4 pour convaincre des créatures de se battre
 
 |- CLASS="premier"
-| [Commandant des gobelinoïdes](./Commandant des gobelinoïdes.md) || <sup>CM</sup> || [Cha](./Cha.md) 13, [hobgobelin](./Hobgobelin (race).md) || Confère un bonus lors du commandement de créatures gobelinoïdes
+| [[Commandant des gobelinoïdes]] || <sup>CM</sup> || [[Cha]] 13, [[Hobgobelin (race)|hobgobelin]] || Confère un bonus lors du commandement de créatures gobelinoïdes
 
 |- CLASS="premier"
-| [Discipline hobgobeline](./Discipline hobgobeline.md) || <sup>MR</sup> || [Hobgobelin](./Hobgobelin (race).md), [BBA](./BBA.md) +1 || En bande, le hobgobelin bénéficie d'un bonus de +1 aux jets de sauvegarde
+| [[Discipline hobgobeline]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], [[BBA]] +1 || En bande, le hobgobelin bénéficie d'un bonus de +1 aux jets de sauvegarde
 |-
-| &emsp;[Coup de focalisation](./Coup de focalisation.md) || <sup>MR</sup> || [Hobgobelin](./Hobgobelin (race).md), [Discipline hobgobeline](./Discipline hobgobeline.md) || Subir des dégâts infligés par un autre hobgobelin permettent de se débarrasser d'un effet mental
+| &emsp;[[Coup de focalisation]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], [[Discipline hobgobeline]] || Subir des dégâts infligés par un autre hobgobelin permettent de se débarrasser d'un effet mental
 
 |- CLASS="premier"
-| [Coup de fouet démoralisant](./Coup de fouet démoralisant.md) || <sup>MR</sup> || [Hobgobelin](./Hobgobelin (race).md), [BBA](./BBA.md) +1, 1 rang en [Intimidation](./Intimidation.md) || Les attaques de fouet prolongent d'un round les effets de l'Intimidation
+| [[Coup de fouet démoralisant]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], [[BBA]] +1, 1 rang en [[Intimidation]] || Les attaques de fouet prolongent d'un round les effets de l'Intimidation
 |-
-| &emsp;[Maître des opérations](./Maître des opérations.md) || <sup>MR</sup> || [Hobgobelin](./Hobgobelin (race).md), [Coup de fouet démoralisant](./Coup de fouet démoralisant.md), 5 rangs en [Intimidation](./Intimidation.md) || La présence du hobgobelin permet de donner à ses alliés plus faibles à se montrer téméraires
+| &emsp;[[Maître des opérations]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], [[Coup de fouet démoralisant]], 5 rangs en [[Intimidation]] || La présence du hobgobelin permet de donner à ses alliés plus faibles à se montrer téméraires
 |-
-| &emsp;&emsp;[Démonstration terrifiante](./Démonstration terrifiante.md) || <sup>MR</sup> || [Hobgobelin](./Hobgobelin (race).md), [Démonstration](./Démonstration.md), [Coup de fouet démoralisant](./Coup de fouet démoralisant.md), [Maître des opérations](./Maître des opérations.md), [Arme de prédilection](./Arme de prédilection.md), 10 rangs en [Intimidation](./Intimidation.md),  maniement de l’arme choisie || La Démonstration du hobgobelin conduit ses alliés à se montrer téméraires
+| &emsp;&emsp;[[Démonstration terrifiante]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], [[Démonstration]], [[Coup de fouet démoralisant]], [[Maître des opérations]], [[Arme de prédilection]], 10 rangs en [[Intimidation]],  maniement de l’arme choisie || La Démonstration du hobgobelin conduit ses alliés à se montrer téméraires
 
 |- CLASS="premier"
-| [Esprit d'équipe](./Esprit déquipe.md) || <sup>CM</sup> || — || Duplique les bonus de moral dont bénéficient les alliés
+| [[Esprit déquipe|Esprit d'équipe]] || <sup>CM</sup> || — || Duplique les bonus de moral dont bénéficient les alliés
 
 |- CLASS="premier"
-| [Explosion assourdissante](./Explosion assourdissante.md) || <sup>MR</sup> || [Hobgobelin](./Hobgobelin (race).md), Aptitude de classe Bombe || La bombe du hobgobelin assourdit la créature touchée
+| [[Explosion assourdissante]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], Aptitude de classe Bombe || La bombe du hobgobelin assourdit la créature touchée
 
 |- CLASS="premier"
-| [Lancer boomerang](./Lancer boomerang.md) || <sup>*ISR*</sup> || [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), 3 rangs en [Escamotage](./Escamotage.md), sous-type [gobelinoïde](./sous-type gobelinoïde.md) || Lorsqu'un allié avec ce don rate une attaque d'arme de jet, le personnage peut la rattraper au vol et attaquer la cible originale immédiatement
+| [[Lancer boomerang]] || <sup>*ISR*</sup> || [[Tir à bout portant]], [[Tir de précision]], 3 rangs en [[Escamotage]], sous-type [[sous-type gobelinoïde|gobelinoïde]] || Lorsqu'un allié avec ce don rate une attaque d'arme de jet, le personnage peut la rattraper au vol et attaquer la cible originale immédiatement
 
 |- CLASS="premier"
-| [Motivation pour la marche](./Motivation pour la marche.md) || <sup>CM</sup> || — || Réduit les dégâts subits lors du commandement d'une marche forcée
+| [[Motivation pour la marche]] || <sup>CM</sup> || — || Réduit les dégâts subits lors du commandement d'une marche forcée
 
 |- CLASS="premier"
-| [Pedigree de commandant](./Pedigree de commandant.md) || <sup>CM</sup> || [Hobgobelin](./Hobgobelin (race).md) || Ajoute le niveau de classe aux tests de Moral pendant un combat de masse
+| [[Pedigree de commandant]] || <sup>CM</sup> || [[Hobgobelin (race)|Hobgobelin]] || Ajoute le niveau de classe aux tests de Moral pendant un combat de masse
 
 |- CLASS="premier"
-| [Succession de défis](./Succession de défis.md) || <sup>CM</sup> || Capacité de classe [défi](./Chevalier.md#DEFI), personnage de niveau 7 || Déclenche un nouveau défi immédiatement après la fin de l'ancien
+| [[Succession de défis]] || <sup>CM</sup> || Capacité de classe [[Chevalier#DEFI|défi]], personnage de niveau 7 || Déclenche un nouveau défi immédiatement après la fin de l'ancien
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Cavalier cruel (chevalier)](./Cavalier cruel (Chevalier).md) *(MR)*
-- [Grenadier (alchimiste)](./Grenadier (alchimiste).md) *(CM)*
-- [Moine à peau de fer (moine)](./Moine à peau de fer (moine).md) *(MR)*
+- [[Cavalier cruel (chevalier)]] *(MR)*
+- [[Grenadier (alchimiste)]] *(CM)*
+- [[Moine à peau de fer (moine)]] *(MR)*
 
 #### Équipement
-- [Accélérateur instable](./Accélérateur instable (objet).md) *(MR)*
-- [Bille de fronde alchimique](./Bille de fronde alchimique (objet).md) *(CM)*
-- [Breuvage de guerre hobgobelin](./Breuvage de guerre hobgobelin (objet).md) *(MR)*
-- [Chistera](./Chistera (objet).md) *(CM)*
-- [Fers](./Fers (objet).md) *(MR)*
-- [Fers de maître](./Fers (objet).md) *(MR)*
-- [Fusée de signalisation](./Fusée de signalisation (objet).md) *(CM)*
-- [Infusion de puanteur](./Infusion de puanteur (objet).md) *(MR)*
-- [Jus de ferveur](./Jus de ferveur (objet).md) *(CM)*
-- [Menottes à pointes](./Menottes à pointes (objet).md) *(MR)*
+- [[Accélérateur instable (objet)|Accélérateur instable]] *(MR)*
+- [[Bille de fronde alchimique (objet)|Bille de fronde alchimique]] *(CM)*
+- [[Breuvage de guerre hobgobelin (objet)|Breuvage de guerre hobgobelin]] *(MR)*
+- [[Chistera (objet)|Chistera]] *(CM)*
+- [[Fers (objet)|Fers]] *(MR)*
+- [[Fers (objet)|Fers de maître]] *(MR)*
+- [[Fusée de signalisation (objet)|Fusée de signalisation]] *(CM)*
+- [[Infusion de puanteur (objet)|Infusion de puanteur]] *(MR)*
+- [[Jus de ferveur (objet)|Jus de ferveur]] *(CM)*
+- [[Menottes à pointes (objet)|Menottes à pointes]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Cataplasme de soins](./Cataplasme de soins.md) *(MR)*
-- [Cruelle (propriété d'arme)](./cruelle (propriété).md) *(A&E, MR)*
-- [Étendard de guerre hobgobelin](./Étendard de guerre hobgobelin.md) *(MR)*
-- [Fers à cheval de ruade dévastatrice](./Fers À Cheval de Ruade Dévastatrice.md) *(A&E, MR)*
-- [Menottes de domination](./Menottes de Domination.md) *(A&E, MR)*
-- [Mortelle (propriété d'arme)](./mortelle (propriété).md) *(A&E, MR)*
-- [Tison du maître](./Tison du maître.md) *(ISR)*
+- [[Cataplasme de soins]] *(MR)*
+- [[cruelle (propriété)|Cruelle (propriété d'arme)]] *(A&E, MR)*
+- [[Étendard de guerre hobgobelin]] *(MR)*
+- [[Fers à cheval de ruade dévastatrice]] *(A&E, MR)*
+- [[Menottes de domination]] *(A&E, MR)*
+- [[mortelle (propriété)|Mortelle (propriété d'arme)]] *(A&E, MR)*
+- [[Tison du maître]] *(ISR)*
 
 #### Sorts
-- **'[Reproche déchirant](./Reproche déchirant.md) *(MR)*
+- **'[[Reproche déchirant]] *(MR)*
 
 </td></tr></table>
 

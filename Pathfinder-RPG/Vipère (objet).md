@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 po ; **Poids** 0,28 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ce reptile de taille TP se nourrit de petits animaux et vit dans la plupart des environnements chauds et tempérés. Sa morsure est douloureuse mais pas spécialement dangereuse pour un aventurier moyen. Voir les statistiques de la [vipère](./Vipère.md).
+Ce reptile de taille TP se nourrit de petits animaux et vit dans la plupart des environnements chauds et tempérés. Sa morsure est douloureuse mais pas spécialement dangereuse pour un aventurier moyen. Voir les statistiques de la [[vipère]].

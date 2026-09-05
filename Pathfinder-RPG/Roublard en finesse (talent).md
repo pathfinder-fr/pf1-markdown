@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ROUBLARDFINESSE
 ---
 
->>> [Talents#ROUBLARDFINESSE](./Talents.md#ROUBLARDFINESSE)
+>>> [[Talents#ROUBLARDFINESSE]]

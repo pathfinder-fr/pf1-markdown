@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Engins de siège#ARMEDESIEGE
 ---
 
->>> [Engins de siège#ARMEDESIEGE](./Engins de siège.md#ARMEDESIEGE)
+>>> [[Engins de siège#ARMEDESIEGE]]

@@ -11,14 +11,14 @@ Categories:
 
 *Le personnage mobilise chacun de ses muscles pour projeter une arme.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Lancer lors d'une charge](./Lancer lors dune charge.md), [Tir à bout portant](./Tir à bout portant.md)
+**Conditions.** [[Lancer lors dune charge|Lancer lors d'une charge]], [[Tir à bout portant]]
 
-**Avantage.** Le personnage peut se trouver à n’importe quelle distance de sa cible quand il utilise [Lancer lors d’une charge](./Lancer lors dune charge.md), dans la limite qu’autorise l’arme. Si la cible se trouve à moins de 9 m (6 {s:c}), il gagne un bonus de +2 au jet de dégâts.
+**Avantage.** Le personnage peut se trouver à n’importe quelle distance de sa cible quand il utilise [[Lancer lors dune charge|Lancer lors d’une charge]], dans la limite qu’autorise l’arme. Si la cible se trouve à moins de 9 m (6 {s:c}), il gagne un bonus de +2 au jet de dégâts.
 
 **Normal.** Le personnage doit arriver à moins de 9 m (6 {s:c}) de sa cible quand il utilise Lancer lors d’une charge.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise Lancer lors d’une charge contre une cible située à 9 mètres ou moins, il peut dépenser jusqu’à 2 points d’endurance. Le bonus de son [jet de dégâts](./Valeurs de combat.md#DEGATS) augmente du double du nombre de points dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise Lancer lors d’une charge contre une cible située à 9 mètres ou moins, il peut dépenser jusqu’à 2 points d’endurance. Le bonus de son [[Valeurs de combat#DEGATS|jet de dégâts]] augmente du double du nombre de points dépensés.

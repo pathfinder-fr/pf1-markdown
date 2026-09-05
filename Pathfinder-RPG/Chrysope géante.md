@@ -11,8 +11,8 @@ Categories:
 {s:BDTitre|Chrysope géante|FP 6}
 {s:BDTexte|*Source : Bonus Bestiary*}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille TG, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] de taille TG, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 11, pris au dépourvu 16 (Dex +3, naturelle +8, taille -2)}
 {s:BDTexte|**pv** 85 (10d8+40)}
@@ -25,7 +25,7 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 16, **Con** 19, **Int** -, **Sag** 11, **Cha** 10}
 {s:BDTexte|**BBA** +7, **BMO** +16, **DMD** 29}
-{s:BDTexte|**Compétences** [Vol](./Vol.md) +5}
+{s:BDTexte|**Compétences** [[Vol]] +5}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** déserts chauds}
 {s:BDTexte|**Organisation sociale** solitaire ou nuée (2-12)}

@@ -13,11 +13,11 @@ Categories:
 
 *Vous êtes capable de surgir de l'ombre et de frapper de stupeur vos adversaires.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** 1 rang en [Intimidation](./Intimidation.md)
+**Condition.** 1 rang en [[Intimidation]]
 
-**Avantage.** Par une [action libre](./Action libre.md), le personnage peut tenter un test d'[Intimidation](./Intimidation.md) pour démoraliser un adversaire [pris au dépourvu](./Pris au dépourvu.md) qu'il attaque.
+**Avantage.** Par une [[action libre]], le personnage peut tenter un test d'[[Intimidation]] pour démoraliser un adversaire [[pris au dépourvu]] qu'il attaque.
 
 (((Frightening Ambush (Combat)
 

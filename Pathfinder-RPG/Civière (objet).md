@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
 La civière permet à deux personnes de transporter un objet lourd et de s’en partager le fardeau. Le personnage peut également l’utiliser pour traîner un chargement qu’il ne peut pas porter seul. La civière supporte jusqu’à 150 kg.

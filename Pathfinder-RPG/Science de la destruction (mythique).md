@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les puissants coups donnés par le personnage mettent les objets en pièces.*
 
-**Condition.** [Science de la destruction](./Science de la destruction.md)
+**Condition.** [[Science de la destruction]]
 
-**Avantage.** Le personnage gagne un bonus égal à la moitié de son [grade](./Grade.md) aux tests de [manœuvre offensive](./Manœuvre offensive.md) de destruction et ajoute ce même bonus à son DMD lorsqu’un adversaire tente une telle manœuvre contre lui. Ces bonus se cumulent avec ceux conférés par la version [non-mythique](./non-mythique.md) de [Science de la destruction](./Science de la destruction.md). De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui tente une manœuvre de destruction contre l’un des objets qu’il porte, à moins qu’elle possède également ce don.
+**Avantage.** Le personnage gagne un bonus égal à la moitié de son [[grade]] aux tests de [[manœuvre offensive]] de destruction et ajoute ce même bonus à son DMD lorsqu’un adversaire tente une telle manœuvre contre lui. Ces bonus se cumulent avec ceux conférés par la version [[non-mythique]] de [[Science de la destruction]]. De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui tente une manœuvre de destruction contre l’un des objets qu’il porte, à moins qu’elle possède également ce don.

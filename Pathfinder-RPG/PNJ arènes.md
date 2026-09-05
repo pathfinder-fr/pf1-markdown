@@ -14,9 +14,9 @@ Categories:
 {s:Reference|GLADIATEUR}
 {s:BDTitre|Gladiateur|FP 5}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|Humain [barbare](./Barbare.md) 3 / [guerrier](./Guerrier.md) 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [Perception](./Perception.md) +10}
+{s:BDTexte|Humain [[barbare]] 3 / [[guerrier]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 12, pris au dépourvu 17 (armure +7, bouclier +2, Dex +3, esquive +1, rage –2)}
 {s:BDTexte|**pv** 57 (6 DV ; 3d12+3d10+21)}
@@ -32,8 +32,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 16, **Con** 17, **Int** 8, **Sag** 12, **Cha** 10}
 {s:BDTexte|**BBA** +6, **BMO** +11, **DMD** 25}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (trident), [Art du bouclier](./Art du bouclier.md), [Combat à deux armes](./Combat à deux armes.md), [Double frappe](./Double frappe.md), [Esquive](./Esquive.md), [Science du coup de bouclier](./Science du coup de bouclier.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+14 pour sauter), [Escalade](./Escalade.md) +8, [Intimidation](./Intimidation.md) +5, [Natation](./Natation.md) +8, [Perception](./Perception.md) +10}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (trident), [[Art du bouclier]], [[Combat à deux armes]], [[Double frappe]], [[Esquive]], [[Science du coup de bouclier]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10 (+14 pour sauter), [[Escalade]] +8, [[Intimidation]] +5, [[Natation]] +8, [[Perception]] +10}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** entraînement aux armures 1, déplacement accéléré}
 {s:BDTexte|**Équipement** *cuirasse +1*, *rondache en acier +1* avec pointes de maître, javelines (5), trident de maître, 1 po}
@@ -43,7 +43,7 @@ Categories:
 Les gladiateurs se distinguent autant par leur style de combat que par leur nation d’origine, mais tous cherchent à verser le sang pour la gloire et la fortune. Bon nombre d’entre eux mettent en avant la rapidité et la protection plutôt que la force brute. Ils jaugent leur adversaire avant de se lancer au combat avec une fureur sanguinaire, épée et bouclier au clair. On peut les utiliser comme gardes du corps, comme « policiers anti-émeute » dans une ville ou comme tirailleurs d’élite dans une armée.
 En remplaçant Esquive par Maniement d’une arme exotique, on crée un maître d’armes exotiques.
 
-En-dehors de l’arène, on croise souvent des gladiateurs occupés à fêter leur dernière victoire avec deux [ivrognes](./PNJ tavernes.md#IVROGNE) (FP 6).
+En-dehors de l’arène, on croise souvent des gladiateurs occupés à fêter leur dernière victoire avec deux [[PNJ tavernes#IVROGNE|ivrognes]] (FP 6).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -51,9 +51,9 @@ En-dehors de l’arène, on croise souvent des gladiateurs occupés à fêter le
 {s:Reference|MAITREDESBETES}
 {s:BDTitre|Maître des bêtes|FP 6}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|Humain [rôdeur](./Rôdeur.md) 7}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +11}
+{s:BDTexte|Humain [[rôdeur]] 7}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 16 (armure +5, bouclier +1, Dex +1)}
 {s:BDTexte|**pv** 59 (7d10+21)}
@@ -64,12 +64,12 @@ En-dehors de l’arène, on croise souvent des gladiateurs occupés à fêter le
 {s:BDTexte|**A distance** arc long composite, +8/+3 (1d8/×3)}
 {s:BDTexte|**Attaque spéciale** ennemi juré (animaux +2, humains +4)}
 {s:BDTexte|**sorts de rôdeur préparés** (NLS 4 ; concentration +5)}
-{s:BDSorts|1<up>er</sup> (3/jour) — *[communication avec les animaux](./Communication avec les animaux.md)*, *[grand pas](./Grand pas.md)*}
+{s:BDSorts|1<up>er</sup> (3/jour) — *[[communication avec les animaux]]*, *[[grand pas]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 13, **Con** 14, **Int** 10, **Sag** 12, **Cha** 8}
 {s:BDTexte|**BBA** +7, **BMO** +11, **DMD** 22}
-{s:BDTexte|**Dons** [Combat à deux armes](./Combat à deux armes.md), [Défense à deux armes](./Défense à deux armes.md), [Double frappe](./Double frappe.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Fente](./Fente.md), [S’avancer](./Savancer.md), [Science du combat à deux armes](./Science du combat à deux armes.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (exploration souterraine) +5, [Connaissances](./Connaissances.md) (nature) +5, [Discrétion](./Discrétion.md) +10,, [Dressage](./Dressage.md) +9, [Équitation](./Équitation.md) +10, [Escalade](./Escalade.md) +11, [Natation](./Natation.md) +10, [Perception](./Perception.md) +11, [Premiers secours](./Premiers secours.md) +5, [Survie](./Survie.md) +11 (+14 pour suivre une piste)}
+{s:BDTexte|**Dons** [[Combat à deux armes]], [[Défense à deux armes]], [[Double frappe]], [[Dur à cuire]], [[Endurance]], [[Fente]], [[savancer|S’avancer]], [[Science du combat à deux armes]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (exploration souterraine) +5, [[Connaissances]] (nature) +5, [[Discrétion]] +10,, [[Dressage]] +9, [[Équitation]] +10, [[Escalade]] +11, [[Natation]] +10, [[Perception]] +11, [[Premiers secours]] +5, [[Survie]] +11 (+14 pour suivre une piste)}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** déplacement facilité, empathie sauvage +6, pacte du chasseur (compagnon animal), pistage +3, environnement de prédilection (ville +2)}
 {s:BDTexte|**Équipement** *chemise de mailles +1*, arc long composite avec 20 flèches, *hachette +1*, *marteau de guerre +1*, 26 po}
@@ -82,7 +82,7 @@ généralement mal pour leurs compagnons animaux, mais, après tout, ce ne sont 
 Parmi les compagnons animaux typiques des gladiateurs maîtres des bêtes, on trouve les crocodiles, les dinosaures, les gorilles, les gros félins, les hyènes, les loups, les ours, les rhinocéros et les varans.
 Des  maîtres  des  bêtes  montés  sur  des  compagnons  rocs  peuvent aussi former une force d’attaque aérienne.
 
-On  peut  rencontrer  un  maître  des  bêtes  seul  avec  son  animal, occupé à chasser ou à échanger des histoires avec un [chasseur de monstres](./PNJ aventuriers.md#CHASSEURDEMONSTRES)  et  un  [trappeur](./PNJ terres sauvages.md#TRAPPEUR)  (FP  8)  ou  encore  dans  un  trio  avec  un [chasseur de primes](./PNJ mercenaires.md#CHASSEURDEPRIMES) (FP 12).
+On  peut  rencontrer  un  maître  des  bêtes  seul  avec  son  animal, occupé à chasser ou à échanger des histoires avec un [[PNJ aventuriers#CHASSEURDEMONSTRES|chasseur de monstres]]  et  un  [[PNJ terres sauvages#TRAPPEUR|trappeur]]  (FP  8)  ou  encore  dans  un  trio  avec  un [[PNJ mercenaires#CHASSEURDEPRIMES|chasseur de primes]] (FP 12).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -90,9 +90,9 @@ On  peut  rencontrer  un  maître  des  bêtes  seul  avec  son  animal, occupé
 {s:Reference|CHAMPION}
 {s:BDTitre|Champion|FP 9}
 {s:BDTexte|**PX** 6 400}
-{s:BDTexte|Humain [barbare](./Barbare.md) 5 / [guerrier](./Guerrier.md) 5}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, CN}
-{s:BDTexte|**Init** +2 ; **Sens** [Perception](./Perception.md) +4}
+{s:BDTexte|Humain [[barbare]] 5 / [[guerrier]] 5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, CN}
+{s:BDTexte|**Init** +2 ; **Sens** [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 10, pris au dépourvu 15 (armure +7, Dex +2, rage –2)}
 {s:BDTexte|**pv** 105 (10 DV, 5d12+5d10+45)}
@@ -108,16 +108,16 @@ On  peut  rencontrer  un  maître  des  bêtes  seul  avec  son  animal, occupé
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 14, **Con** 18, **Int** 8, **Sag** 10, **Cha** 12}
 {s:BDTexte|**BBA** +10, **BMO** +16, **DMD** 28 (30 contre la destruction)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée à deux mains), [Attaque en puissance](./Attaque en puissance.md), [Briser les défenses](./Briser les défenses.md), [Démonstration](./Démonstration.md), [Destruction d’arme supérieure](./Destruction darme supérieure.md), [Force intimidante](./Force intimidante.md), [Science de la destruction](./Science de la destruction.md), [Science du critique](./Science du critique.md) (épée à deux mains), [Spécialisation martiale](./Spécialisation martiale.md) (épée à deux mains)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +13 (+17 pour sauter), [Dressage](./Dressage.md) +5, [Équitation](./Équitation.md) +4, [Escalade](./Escalade.md) +10, [Intimidation](./Intimidation.md) +18 (+20 en rage), [Natation](./Natation.md) +9, [Perception](./Perception.md) +4, [Survie](./Survie.md) +5}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée à deux mains), [[Attaque en puissance]], [[Briser les défenses]], [[Démonstration]], [[Destruction darme supérieure|Destruction d’arme supérieure]], [[Force intimidante]], [[Science de la destruction]], [[Science du critique]] (épée à deux mains), [[Spécialisation martiale]] (épée à deux mains)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +13 (+17 pour sauter), [[Dressage]] +5, [[Équitation]] +4, [[Escalade]] +10, [[Intimidation]] +18 (+20 en rage), [[Natation]] +9, [[Perception]] +4, [[Survie]] +5}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** entraînement aux armures 1, déplacement accéléré}
 {s:BDTexte|**Équipement** *cuirasse +1*, *épée à deux mains vicieuse en adamantium +1*, javelines (5), gantelet clouté, 15 po}
-{s:BDTexte|**Faveur** Un champion peut présenter les PJ à un général, à un prince marchand ou à un noble qui fait partie de ses fans, octroyant ainsi un bonus de +10 aux tests de [Diplomatie](./Diplomatie.md) envers cette personne. Il peut aussi ordonner à un [gladiateur](./PNJ Gladiateur.md) d’aider les PJ pendant 24 heures.}
+{s:BDTexte|**Faveur** Un champion peut présenter les PJ à un général, à un prince marchand ou à un noble qui fait partie de ses fans, octroyant ainsi un bonus de +10 aux tests de [[Diplomatie]] envers cette personne. Il peut aussi ordonner à un [[PNJ gladiateur|gladiateur]] d’aider les PJ pendant 24 heures.}
 </div>
 </td><td><div>
 Le  champion  est  le  maître  de  l’arène.  Il  laisse  derrière  lui  un sillage  d’armes  en  ruines,  de  corps  détruits  et  de  rêves  brisés. Quand il brandit sa lame ensanglantée, le rugissement de la foule
 et la terreur qu’il inspire chez ses ennemis le font exulter.
 
-On peut également  utiliser  le  champion  comme  chef  barbare  ou  capitaine mercenaire. On peut le rencontrer seul ou en compagnie de deux [gladiateurs](./PNJ Gladiateur.md) (FP 10).
+On peut également  utiliser  le  champion  comme  chef  barbare  ou  capitaine mercenaire. On peut le rencontrer seul ou en compagnie de deux [[PNJ gladiateur|gladiateurs]] (FP 10).
 </div></td></tr></table>

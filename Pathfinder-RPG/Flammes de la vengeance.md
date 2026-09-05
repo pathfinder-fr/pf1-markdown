@@ -7,11 +7,11 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Pal](./Paladin.md) 4  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ;** Niveau** [[Paladin|Pal]] 4  
 
-**Temps d'incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d'incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** spéciale (voir description)  
 
@@ -21,4 +21,4 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Après avoir lancé ce sort, la prochaine cible que le personnage attaque à l'aide de son pouvoir de classe [châtiment du mal](./Paladin.md#CHATIMENTDUMAL) est engloutie dans des flammes sacrées qui brûlent encore plus fort quand la cible attaque une créature autre que le personnage. Si, à tout moment pendant la durée d'effet du [châtiment du mal](./Paladin.md#CHATIMENTDUMAL), la cible lance une attaque qui ne comprend pas le personnage, elle reçoit 3d8 points de dégâts de feu. Le sort se termine dès qu'il est déclenché de cette manière ou que le [châtiment du mal](./Paladin.md#CHATIMENTDUMAL) expire.
+Après avoir lancé ce sort, la prochaine cible que le personnage attaque à l'aide de son pouvoir de classe [[paladin#CHATIMENTDUMAL|châtiment du mal]] est engloutie dans des flammes sacrées qui brûlent encore plus fort quand la cible attaque une créature autre que le personnage. Si, à tout moment pendant la durée d'effet du [[paladin#CHATIMENTDUMAL|châtiment du mal]], la cible lance une attaque qui ne comprend pas le personnage, elle reçoit 3d8 points de dégâts de feu. Le sort se termine dès qu'il est déclenché de cette manière ou que le [[paladin#CHATIMENTDUMAL|châtiment du mal]] expire.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#COLPORTEURDERUMEURS
 ---
 
->>> [Talents#COLPORTEURDERUMEURS](./Talents.md#COLPORTEURDERUMEURS)
+>>> [[Talents#COLPORTEURDERUMEURS]]

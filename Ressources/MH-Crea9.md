@@ -6,21 +6,21 @@ LastModified: 2014-10-01 23:15
 
 <div class="chapeau"><table style="width: 100%"><tr style="vertical-align: top"><td style="width: 74%">Cette vue vous permet de répartir les points de compétence de votre personnage.
 
-[My Hero|Retour racine du Manuel]</td><td style="width: 2%"></td><td style="width: 24%"><div class="presentation arrondie"><div style = "font-size: 0.9em;margin-left: -15px">
-<OL><LI>[MH-Crea|Race]
-<LI>[MH-Crea2|Caractéristiques]
-<LI>[MH-Crea3|Âme, Corps et Origines]
-<LI>[MH-Crea4|Traits]
-<LI>[MH-Crea5|Classe]
-<LI>[MH-Crea6|Options de classe]
-<LI>[MH-Crea7|Option de classe de prédilection]
-<LI>[MH-Crea8|Sorts]
-<LI>[MH-Crea9|Compétences]
-<LI>[MH-Crea10|Langages appris]
-<LI>[MH-Crea11|Dons]</OL></div></div></td></tr></table></div>
+[[My Hero|Retour racine du Manuel]]</td><td style="width: 2%"></td><td style="width: 24%"><div class="presentation arrondie"><div style = "font-size: 0.9em;margin-left: -15px">
+<OL><LI>[[MH-Crea|Race]]
+<LI>[[MH-Crea2|Caractéristiques]]
+<LI>[[MH-Crea3|Âme, Corps et Origines]]
+<LI>[[MH-Crea4|Traits]]
+<LI>[[MH-Crea5|Classe]]
+<LI>[[MH-Crea6|Options de classe]]
+<LI>[[MH-Crea7|Option de classe de prédilection]]
+<LI>[[MH-Crea8|Sorts]]
+<LI>[[MH-Crea9|Compétences]]
+<LI>[[MH-Crea10|Langages appris]]
+<LI>[[MH-Crea11|Dons]]</OL></div></div></td></tr></table></div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/Slide59.jpg|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MesPersos|Mes Personnages].
+<OL><LI>Retour vers [[MH-MesPersos|Mes Personnages]].
 <LI>Annulation de tous les points de compétence attribués lors de ce passage de niveau.
 <LI>Ajout d'un point à toutes les compétences du rang le plus élevé.
 <LI>Nombre de points de compétence restant à distribuer.
@@ -31,6 +31,6 @@ LastModified: 2014-10-01 23:15
 <LI>Ajout d’un rang dans la compétence correspondante.
 <LI>Retranchement d’un rang dans la compétence correspondante.
 <LI>Résumé des points de compétence investis lors de ce passage de niveau.
-<LI>Retour vers [MH-Crea5|Classe].
-<LI>Validation des choix effectués. Vers [MH-Crea10|Langages appris].
+<LI>Retour vers [[MH-Crea5|Classe]].
+<LI>Validation des choix effectués. Vers [[MH-Crea10|Langages appris]].
 </OL></td></tr></table>

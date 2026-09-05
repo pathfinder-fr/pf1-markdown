@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Lancer des sorts#CONCENTRATION
 ---
 
->>> [Lancer des sorts#CONCENTRATION](./Lancer des sorts.md#CONCENTRATION)
+>>> [[Lancer des sorts#CONCENTRATION]]

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Attirer (capacité)
 ---
 
->>> [Attirer (capacité)](./Attirer (capacité).md)
+>>> [[Attirer (capacité)]]

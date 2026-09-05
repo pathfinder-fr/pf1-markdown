@@ -8,11 +8,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Cape de la chauve-souris|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 26 000 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 26 000 po ; **Poids** 0,5 kg
 (((Description)))
-Confectionnée dans un tissu noir ou marron foncé, cette cape confère un bonus de compétence de +5 aux tests de [Discrétion](./Discrétion.md). Son porteur est également capable de se pendre au plafond la tête en bas comme le font les chauves-souris.
+Confectionnée dans un tissu noir ou marron foncé, cette cape confère un bonus de compétence de +5 aux tests de [[Discrétion]]. Son porteur est également capable de se pendre au plafond la tête en bas comme le font les chauves-souris.
 
-En saisissant les bords de la cape, le personnage acquiert la possibilité de voler avec une bonne manœuvrabilité (voir le sort *[vol](./sort Vol.md)*) et un bonus de +7 à ses tests de [Vol](./Vol.md). S’il le désire, il peut se transformer en [chauve-souris commune](./Chauve-souris.md), auquel cas il vole à la vitesse de cette dernière (toutes ses possessions sont également transformées). Quelle que soit l’option choisie (métamorphose ou non), le personnage ne peut voler que dans l’obscurité : soit de nuit, soit sous terre, dans un environnement très peu ou pas éclairé. Chacun des modes de vol est utilisable pendant un maximum de sept minutes d’affilée, et au terme de chaque période d’utilisation, la cape ne peut plus servir pour voler pendant une durée au moins égale.
+En saisissant les bords de la cape, le personnage acquiert la possibilité de voler avec une bonne manœuvrabilité (voir le sort *[[sort vol|vol]]*) et un bonus de +7 à ses tests de [[Vol]]. S’il le désire, il peut se transformer en [[chauve-souris|chauve-souris commune]], auquel cas il vole à la vitesse de cette dernière (toutes ses possessions sont également transformées). Quelle que soit l’option choisie (métamorphose ou non), le personnage ne peut voler que dans l’obscurité : soit de nuit, soit sous terre, dans un environnement très peu ou pas éclairé. Chacun des modes de vol est utilisable pendant un maximum de sept minutes d’affilée, et au terme de chaque période d’utilisation, la cape ne peut plus servir pour voler pendant une durée au moins égale.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[vol](./Vol.md)*, *[métamorphose](./métamorphose.md)* ; **Coût** 13 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[vol]]*, *[[métamorphose]]* ; **Coût** 13 000 po
 </div>

@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le ki du personnage est si puissant qu’il refuse la mort. *
 
-**Conditions.** [réserve de ki](./Moine.md#RESERVEDEKI), [Endurance](./Endurance.md)
+**Conditions.** [[Moine#RESERVEDEKI|réserve de ki]], [[Endurance]]
 
-**Avantage.** Tant que le personnage a encore 1 point de ki dans sa [réserve](./Moine.md#RESERVEDEKI), s’il rate un test de [Constitution](./Constitution.md) pour se stabiliser, il ne perd pas 1 [point de vie](./pv.md). S’il réussit le test, il peut dépenser 1 point de ki pour guérir de 1d6 [points de vie](./pv.md). S’il fait un 20 naturel au test de stabilisation, il peut dépenser ce point pour soigner 2d6 points de vie.
+**Avantage.** Tant que le personnage a encore 1 point de ki dans sa [[Moine#RESERVEDEKI|réserve]], s’il rate un test de [[Constitution]] pour se stabiliser, il ne perd pas 1 [[pv|point de vie]]. S’il réussit le test, il peut dépenser 1 point de ki pour guérir de 1d6 [[pv|points de vie]]. S’il fait un 20 naturel au test de stabilisation, il peut dépenser ce point pour soigner 2d6 points de vie.

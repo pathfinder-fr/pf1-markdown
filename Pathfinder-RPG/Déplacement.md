@@ -18,18 +18,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Illusion](./Illusion.md) ([hallucination](./hallucination.md)) ; **Niveau** [Alch](./Alchimiste.md) 3, [Bard](./Barde.md) 3, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Méd](./Médium.md) 3, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 3, [Spi](./Spirite.md) 3  
+**École** [[Illusion]] ([[hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Spirite|Spi]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, M](./composantes.md) (une petite boucle de cuir)  
+**Composantes** [[composantes|V, M]] (une petite boucle de cuir)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Ce sort fait apparaître le sujet à une soixantaine de centimètres de l’endroit où il se trouve réellement. Les attaques qui devraient normalement le toucher ont donc 50 % de chance de le rater, comme s’il bénéficiait d’un [camouflage total](./camouflage total.md) (mais, contrairement à ce qui se passe dans le cas d’un [camouflage total](./camouflage total.md), ses adversaires peuvent le viser normalement). *[Vision lucide](./Vision lucide.md)* dévoile l’endroit où le lanceur de sorts se trouve réellement et annule les risques d’échec des attaques.
+Ce sort fait apparaître le sujet à une soixantaine de centimètres de l’endroit où il se trouve réellement. Les attaques qui devraient normalement le toucher ont donc 50 % de chance de le rater, comme s’il bénéficiait d’un [[camouflage total]] (mais, contrairement à ce qui se passe dans le cas d’un [[camouflage total]], ses adversaires peuvent le viser normalement). *[[Vision lucide]]* dévoile l’endroit où le lanceur de sorts se trouve réellement et annule les risques d’échec des attaques.

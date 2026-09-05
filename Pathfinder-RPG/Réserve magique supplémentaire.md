@@ -10,7 +10,7 @@ Categories:
 
 {s:um}*Le personnage a appris à tirer plus de puissance de sa réserve magique. *
 
-**Condition.** Pouvoir de classe [réserve magique](./Magus.md#RESERVEMAGIQUE)
+**Condition.** Pouvoir de classe [[magus#RESERVEMAGIQUE|réserve magique]]
 
 **Avantage.** La réserve magique du personnage augmente de 2
 

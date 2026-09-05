@@ -7,11 +7,11 @@ Categories:
 - Royaume des Seigneurs des Mammouths
 ---
 
-{s:Nation|Royaumes des Seigneurs des Mammouths|%2fPCUP%2fNation-PNG%2fMammoth.png|La terre perdue du nord|N|Alliance de tribus primitives|Kuldor le puissant, berger des disciples de la Peau d'Ours|Aucune|[Croisée des Collines](./Croisée des Collines.md) (8400), [Marches de Glace](./Marches de Glace.md) (11300), [Tolguth](./Tolguth.md) (3900)|?|?|hallit, géant|[Gorum](./Gorum.md), [Minderhal](./Minderhal.md), [Rovagug](./Rovagug.md)}
+{s:Nation|Royaumes des Seigneurs des Mammouths|%2fPCUP%2fNation-PNG%2fMammoth.png|La terre perdue du nord|N|Alliance de tribus primitives|Kuldor le puissant, berger des disciples de la Peau d'Ours|Aucune|[[Croisée des Collines]] (8400), [[Marches de Glace]] (11300), [[Tolguth]] (3900)|?|?|hallit, géant|[[Gorum]], [[Minderhal]], [[Rovagug]]}
 Un royaume pour la mégafaune, habité par des humains presque aussi sauvages que les gigantesques bêtes préhistoriques qui les entourent. Le royaume des Seigneurs des Mammouths est une terre extrêmement dangereuse pour ceux qui la prennent de haut.
 
 ### Géographie du royaume des Seigneurs des Mammouths
-Le territoire occupé par le royaume des Seigneurs des Mammouths est situé à l'extrême nord de l'[Avistan](./Avistan.md), au bord de la grande étendue glacée de la [Couronne du Monde](./Couronne du monde.md), et coincé entre deux nations hostiles, l'[Irrisen](./Irrisen.md) et la [Plaie du Monde](./Plaie du monde.md).
+Le territoire occupé par le royaume des Seigneurs des Mammouths est situé à l'extrême nord de l'[[Avistan]], au bord de la grande étendue glacée de la [[Couronne du Monde]], et coincé entre deux nations hostiles, l'[[Irrisen]] et la [[Plaie du Monde]].
 
 La majorité du territoire est recouvert par une toundra dure et froide, sur laquelle paissent des troupeaux de créatures gigantesques éteintes depuis longtemps dans d'autres lieux. Des troupeaux de bisons et d'aurochs coexistent avec des familles de lourds mammouths et de mastodontes, sous les yeux de tigres à dents de sabres. On raconte que ces créatures viennent d'un étrange monde souterrain où des bêtes titanesques issues d'un autre âge continuent de vivre et où les humains n'ont pas encore développé la moindre civilisation.
 
@@ -20,7 +20,7 @@ Ce monde souterrain est connu sous le nom de Profondeur de Tolguth et le seul ch
 On dit aussi que certaines vallées des montagnes des Défenses, qui dominent le centre du territoire, sont plus chaudes et abritent des dinosaures depuis qu'ils ont disparu du reste de la surface de la planète.
 
 ### Histoire du royaume des Seigneurs des Mammouths
-Le royaume des Seigneurs des Mammouths est un lieu où le temps n'existe pas. Il vit au rythme de la nature et est soumis au dictat des saisons. De ce fait, il n'a pas d'histoire datée comme celle des autres civilisations. Le style de vie des habitants et l'éternité inhérente à la nature font qu'il n'y a que peu de traces de conflits politiques dans l'histoire du royaume. Néanmoins, on notera que la mort d'[Aroden](./Aroden.md) a constitué l'évènement le plus marquant du royaume en raison de la création de la [Plaie du Monde](./Plaie du monde.md) et l'émergence d'une nouvelle menace à l'est du royaume.
+Le royaume des Seigneurs des Mammouths est un lieu où le temps n'existe pas. Il vit au rythme de la nature et est soumis au dictat des saisons. De ce fait, il n'a pas d'histoire datée comme celle des autres civilisations. Le style de vie des habitants et l'éternité inhérente à la nature font qu'il n'y a que peu de traces de conflits politiques dans l'histoire du royaume. Néanmoins, on notera que la mort d'[[Aroden]] a constitué l'évènement le plus marquant du royaume en raison de la création de la [[Plaie du Monde]] et l'émergence d'une nouvelle menace à l'est du royaume.
 
 
 ### Gouvernement du royaume des Seigneurs des Mammouths
@@ -37,5 +37,5 @@ Les occupants les plus connus du territoire appartiennent à la mégafaune, des 
 
 {s:VoirAussiAvant}
 Vous pourrez trouver plus d'informations à propos du royaume des Seigneurs des Mammouths dans le supplément
-- [Pathfinder Chronicles: Campaign Setting](./Publications.md#CAMPAIGNSETTING).
+- [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]].
 {s:VoirAussiAprès}

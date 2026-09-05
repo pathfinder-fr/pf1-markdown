@@ -11,12 +11,12 @@ Categories:
 
 {s:apg}*Le personnage peut frapper avec précision même lorsqu’il ne peut pas voir clairement ses ennemis.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Condition.** [BBA](./BBA.md) +1.
+**Condition.** [[BBA]] +1.
 
-**Avantage.** Le personnage peut infliger des dégâts de précision (comme des dégâts d’[attaque sournoise](./attaque sournoise.md)) aux cibles qui bénéficient d’un [camouflage](./camouflage.md) (mais pas d’un camouflage total).
+**Avantage.** Le personnage peut infliger des dégâts de précision (comme des dégâts d’[[attaque sournoise]]) aux cibles qui bénéficient d’un [[camouflage]] (mais pas d’un camouflage total).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance quand il touche une créature bénéficiant d’un [camouflage total](./camouflage total.md) pour lui infliger des dégâts de précision.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance quand il touche une créature bénéficiant d’un [[camouflage total]] pour lui infliger des dégâts de précision.

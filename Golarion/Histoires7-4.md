@@ -4,8 +4,8 @@ Title: Assiégés
 LastModified: 2010-12-01 22:41
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du quatrième chapitre : "[http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lboc](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lboc)" de la nouvelle "Le Seigneur Pénitent" de Richard Lee Byers. Illustration de Colby Stevenson.*
 
 Pendant un moment, tout se brouilla. Puis Séfu réalisa que lui et Leyli étaient couchés et enchevêtrés sur le sol, agités par des mouvements incontrôlables. Elle était recouverte de plaques ressemblant à des coups de soleil et certaines parties de sa robe fumaient.

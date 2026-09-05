@@ -14,26 +14,26 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.192}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)}
 {s:BDTexte|**pv** 22 (3d8+9)}
 {s:BDTexte|**Réf** +5, **Vig** +8, **Vol** +2}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +5 (1d8+4 et [étreinte](./Étreinte (capacité).md) et [poison](./Poison (capacité).md))}
+{s:BDTexte|**Corps à corps** morsure +5 (1d8+4 et [[Étreinte (capacité)|étreinte]] et [[Poison (capacité)|poison]])}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 15, **Con** 17, **Int** 2, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +2, **BMO** +5 (+9 pour la lutte), **DMD** 17 (21 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md)), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10 (+14 dans les fourrés), [Escalade](./Escalade.md) +7, [Natation](./Natation.md) +11, [Perception](./Perception.md) +8 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 (+8 dans les fourrés)}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]]), [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +10 (+14 dans les fourrés), [[Escalade]] +7, [[Natation]] +11, [[Perception]] +8 ; **Modificateurs raciaux** [[Discrétion]] +4 (+8 dans les fourrés)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-8)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Poison (Ext)** morsure - blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 14 ; *incubation* 1 minute ; *fréquence* 1/heure pendant 6 heures ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [Dex](./Dextérité.md) ; *guérison* 1 réussite. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Poison (Ext)** morsure - blessure ; *JdS* [[Vigueur]] [[DD]] 14 ; *incubation* 1 minute ; *fréquence* 1/heure pendant 6 heures ; *effet* [[affaiblissement temporaire]] 1d2 [[Dextérité|Dex]] ; *guérison* 1 réussite. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -42,13 +42,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Caméléon géant](./Caméléon géant.md) || 3
+| [[Caméléon géant]] || 3
 |-
-| [Gecko géant](./Gecko géant.md) || 1
+| [[Gecko géant]] || 1
 |-
-| [Lézard à collerette géant](./Lézard à collerette géant.md) || 5
+| [[Lézard à collerette géant]] || 5
 |-
-| [Varan](./Varan.md) || 2
+| [[Varan]] || 2
 |}
 </div>*Cet immense lézard au pas lent mais décidé possède des pattes griffues et des filets de bave tombent de sa gueule.*
 
@@ -60,8 +60,8 @@ des dragons. Certains spécimens peuvent dépasser
 #### Le varan comme compagnon animal
 
 **Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m, nage 9 m ; **CA** armure naturelle +1 ;
-**Attaque** morsure (1d6 et [étreinte](./Étreinte (capacité).md)) ; **Caractéristiques** For 13, Dex 17, Con 12, Int 2, Sag 12, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Attaque** morsure (1d6 et [[Étreinte (capacité)|étreinte]]) ; **Caractéristiques** For 13, Dex 17, Con 12, Int 2, Sag 12, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Évolution au niveau 7.** **Taille** M ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8 et [étreinte](./Étreinte (capacité).md) et [poison](./Poison (capacité).md)) ; **Caractéristiques** For +4, Dex –2, Con +4.
+**Évolution au niveau 7.** **Taille** M ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8 et [[Étreinte (capacité)|étreinte]] et [[Poison (capacité)|poison]]) ; **Caractéristiques** For +4, Dex –2, Con +4.
 
 </div></td></tr></table>

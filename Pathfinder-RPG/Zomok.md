@@ -10,8 +10,8 @@ LastModified: 2021-08-21 16:01
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 - *Source : Bestiaire 4* p.291
 - 76 800 PX
-- [Plante](./type Plante.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille Gig, N
-- **Init** +4 ; **Sens vision** dans le noir 36 m, [vision nocturne](./vision nocturne.md), perception des vibrations 18 m ; [Perception](./Perception.md) +26
+- [[type Plante|Plante]] ([[sous-type extraplanaire|extraplanaire]]) de taille Gig, N
+- **Init** +4 ; **Sens vision** dans le noir 36 m, [[vision nocturne]], perception des vibrations 18 m ; [[Perception]] +26
 (((Défense)))
 - **CA** 33, contact 6, pris au dépourvu 33 (naturelle +27, taille -4)
 - **pv** 246 (17d8+170)
@@ -24,15 +24,15 @@ LastModified: 2021-08-21 16:01
 - **Espace** 6 m ; **Allonge** 4,50 m (6 m avec la queue)
 - **Attaques spéciales** souffle (cône de 18 m, 18d6 contondant et enchevêtrement, Réflexes DD 28 partiel, utilisable tous les 1d4 rounds), engloutissement (6d6 contondants, CA 23, 24 pv), piétinement (2d8+18, DD 30)
 - **Pouvoirs magiques** (**NLS **16 ; concentration +24)
-  - ''Permanent – [passage sans trace](./passage sans trace.md)
-  - À volonté – [empire végétal](./Empire végétal.md) (DD 22), [croissance végétale](./Croissance végétale.md), [extinction des feux](./Extinction des feux.md) (DD 21)
-  - 3/jour – [enchevêtrement](./Enchevêtrement.md) (DD 19), [chêne animé](./Chêne animé.md), [transmutation de la boue en pierre](./Transmutation de la boue en pierre.md), [transmutation de la pierre en boue](./Transmutation de la pierre en boue.md), [mur d’épines](./Mur dépines.md) 
-  - 1/jour – [grand tertre](./Grand tertre.md)''
+  - ''Permanent – [[passage sans trace]]
+  - À volonté – [[empire végétal]] (DD 22), [[croissance végétale]], [[extinction des feux]] (DD 21)
+  - 3/jour – [[enchevêtrement]] (DD 19), [[chêne animé]], [[transmutation de la boue en pierre]], [[transmutation de la pierre en boue]], [[mur dépines|mur d’épines]] 
+  - 1/jour – [[grand tertre]]''
 (((Statistiques)))
 - **For** 35, **Dex** 11, **Con** 30, **Int** 16, **Sag** 22, **Cha** 26
 - **BBA** +12 ; **BMO** +28 (+30 en destruction) ; **DMD** 40 (42 contre la destruction, 44 contre le croc-en-jambe)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Capture](./Capture.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la destruction](./Science de la destruction.md), [Volonté de fer](./Volonté de fer.md) 
-- **Compétences** [Connaissances](./Connaissances.md) (nature) +20, [Discrétion](./Discrétion.md) +8, [Perception](./Perception.md) +26, [Survie](./Survie.md) +23, [Vol](./Vol.md) +10
+- **Dons** [[Attaque en puissance]], [[Capture]], [[Coup fabuleux]], [[Enchaînement]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Science de la bousculade]], [[Science de la destruction]], [[Volonté de fer]] 
+- **Compétences** [[Connaissances]] (nature) +20, [[Discrétion]] +8, [[Perception]] +26, [[Survie]] +23, [[Vol]] +10
 - **Langues** commun, sylvestre, terreux
 (((Écologie)))
 - **Environnement** forêts (royaume primordial des fées)

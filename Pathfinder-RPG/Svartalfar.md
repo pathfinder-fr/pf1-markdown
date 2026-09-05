@@ -10,7 +10,7 @@ LastModified: 2017-03-22 21:43
 {s:pucem|Fée|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 267*}
 - **4 800 PX**
-- [Fée](./type Fée.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, LM
+- [[type fée|Fée]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, LM
 - **Init **+5 ; **Sens **vision dans le noir 36 m, vision nocturne ; Perception +18
 (((Défense)))
 - **CA **20, contact 15, pris au dépourvu 15 (Dex +5, naturelle +5)
@@ -23,14 +23,14 @@ LastModified: 2017-03-22 21:43
 - **Corps à corps** épée longue +1, +9/+6 (1d8+4/19-20)
 - **Attaques spéciales** tueur, frappe magique accélérée, attaque sournoise +3d6
 - **Pouvoirs magiques** (**NLS **13 ; concentration +18)
-  - * À volonté* – [contact glacial](./Contact glacial.md) (DD 16), [contact corrosif](./contact corrosif.md)
-  - *3/jour* – [contact gelé](./Contact gelé.md), [disparition](./Disparition.md), [pas de l’ombre](./Pas de lombre.md)
-  - *1/jour* – [invisibilité suprême](./Invisibilité suprême.md), [poing de force](./Poing de force.md) (DD 18), [rayon d’épuisement](./Rayon dépuisement.md) (DD 18)
+  - * À volonté* – [[contact glacial]] (DD 16), [[contact corrosif]]
+  - *3/jour* – [[contact gelé]], [[disparition]], [[pas de lombre|pas de l’ombre]]
+  - *1/jour* – [[invisibilité suprême]], [[poing de force]] (DD 18), [[rayon dépuisement|rayon d’épuisement]] (DD 18)
 (((Statistiques)))
 - **For **12, **Dex **21, **Con **17, **Int **18, **Sag **14, **Cha **21
 - **BBA **+6 ; **BMO **+11 ; **DMD **22
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (épée longue), [Discret](./Discret.md), [Frappe décisive](./Frappe décisive.md), [Magie de guerre](./Magie de guerre.md), [Manoeuvres agiles](./Manoeuvres-agiles.md), [Talent](./Talent.md) (Discrétion), [Volonté de fer](./Volonté de fer.md)
-- **Compétences ** [Acrobaties](./Acrobaties.md) +21 (+25 en saut), [Bluff](./Bluff.md) +21, [Connaissances](./Connaissances.md) (nature) +20, [Connaissances](./Connaissances.md) (plans) +17, [Discrétion](./Discrétion.md) +31, [Escamotage](./Escamotage.md) +21, [Évasion](./Évasion.md) +25, [Intimidation](./Intimidation.md) +18, [Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +18
+- **Dons **[[Arme de prédilection]] (épée longue), [[Discret]], [[Frappe décisive]], [[Magie de guerre]], [[Manoeuvres agiles]], [[Talent]] (Discrétion), [[Volonté de fer]]
+- **Compétences ** [[Acrobaties]] +21 (+25 en saut), [[Bluff]] +21, [[Connaissances]] (nature) +20, [[Connaissances]] (plans) +17, [[Discrétion]] +31, [[Escamotage]] +21, [[Évasion]] +25, [[Intimidation]] +18, [[Perception]] +18, [[Psychologie]] +18
 - **Modificateurs** raciaux +4 en Acrobaties pour sauter
 - **Langues **aklo, commun, elfique, sylvestre
 (((Écologie)))

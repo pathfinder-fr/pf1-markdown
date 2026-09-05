@@ -16,7 +16,7 @@ Categories:
 Au niveau 1, un chimiste inspiré apprend à préparer un cognatogène d’inspiration, comme décrit dans la découverte cognatogène d’inspiration. Cette aptitude remplace l’aptitude de classe mutagène (par conséquent, un chimiste inspiré ne peut pas préparer des mutagènes à moins qu’il ne sélectionne la découverte mutagène).
 
 #### Dons supplémentaires
-Un chimiste inspiré peut choisir [Talent](./Talent.md) ([Art de la magie](./Art de la magie.md), [Connaissances](./Connaissances.md) (au choix), [Déguisement](./Déguisement.md), [Premiers secours](./Premiers secours.md), [Psychologie](./Psychologie.md), [Sabotage](./Sabotage.md) ou [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md)) à la place d’une découverte.
+Un chimiste inspiré peut choisir [[Talent]] ([[Art de la magie]], [[Connaissances]] (au choix), [[Déguisement]], [[Premiers secours]], [[Psychologie]], [[Sabotage]] ou [[Utilisation dobjets magiques|Utilisation d’objets magiques]]) à la place d’une découverte.
 
 #### Talents d’enquêteur supplémentaires
 Un chimiste inspiré peut choisir deux talents d’enquêteur à la place d’une découverte mais il peut utiliser ces talents uniquement lorsqu’il est sous l’effet d’un cognatogène d’inspiration.

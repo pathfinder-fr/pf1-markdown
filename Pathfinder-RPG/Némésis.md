@@ -11,14 +11,14 @@ Categories:
 
 {s:GC}*Un vieil ennemi travaille à votre perte.*
 
-**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+**Catégorie.** [[Dons#DONHISTOIRE|histoire]]
 
-**Conditions.** Vous devez avoir au moins un ennemi qui vous veut beaucoup de mal. Si vous avez plusieurs ennemis de ce genre, le [MJ](./MJ.md) peut garder le secret sur celui qui devient votre némésis ou faire en sorte qu’ils s’associent contre vous. Si votre némésis n’est pas un adversaire de valeur, il gagne en puissance jusqu’à le devenir ou cherche des alliés pour atteindre le [FP](./FP.md) requis.
+**Conditions.** Vous devez avoir au moins un ennemi qui vous veut beaucoup de mal. Si vous avez plusieurs ennemis de ce genre, le [[MJ]] peut garder le secret sur celui qui devient votre némésis ou faire en sorte qu’ils s’associent contre vous. Si votre némésis n’est pas un adversaire de valeur, il gagne en puissance jusqu’à le devenir ou cherche des alliés pour atteindre le [[FP]] requis.
 
-**Avantages.** L’existence de votre némésis vous pousse à exceller dans tous vos entraînements. À chaque fois que vous gagnez un [niveau](./niveau.md) dans une classe de prédilection (y compris lorsque vous prenez le niveau qui vous permet de choisir ce don), vous avez droit à deux avantages au lieu d’un. L’un d’eux est forcément un point de vie ou de compétence supplémentaire, même si vous avez d’autres possibilités.
+**Avantages.** L’existence de votre némésis vous pousse à exceller dans tous vos entraînements. À chaque fois que vous gagnez un [[niveau]] dans une classe de prédilection (y compris lorsque vous prenez le niveau qui vous permet de choisir ce don), vous avez droit à deux avantages au lieu d’un. L’un d’eux est forcément un point de vie ou de compétence supplémentaire, même si vous avez d’autres possibilités.
 
 **Objectif.** Éliminez votre némésis. Si vos actions directes provoquent sa mort, vous remplissez votre objectif, même si vous ne lui portez pas le coup de grâce ; en revanche, si elle se fait tuer sans intervention de votre part, l’objectif n’est pas atteint.
 
 **Avantage de réussite.** Vous gagnez un bonus inné de +2 dans la valeur de caractéristique de votre choix. De plus, vous pouvez appliquer votre avantage de classe de prédilection supplémentaire de façon rétroactive, pour les niveaux que vous aviez déjà avant de choisir ce don.
 
-**Spécial.** Votre némésis n’a plus qu’un seul objectif : contrecarrer vos plans. Elle gagne un bonus de +2 aux [jets d’attaque](./jet dattaque.md) et de dégâts à votre encontre. Quoi que vous fassiez, votre némésis essaie de le détruire.
+**Spécial.** Votre némésis n’a plus qu’un seul objectif : contrecarrer vos plans. Elle gagne un bonus de +2 aux [[jet dattaque|jets d’attaque]] et de dégâts à votre encontre. Quoi que vous fassiez, votre némésis essaie de le détruire.

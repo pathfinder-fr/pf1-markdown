@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#ARMEAPROJECTILES
 ---
 
->>> [Caractéristiques des armes#ARMEAPROJECTILES](./Caractéristiques des armes.md#ARMEAPROJECTILES)
+>>> [[Caractéristiques des armes#ARMEAPROJECTILES]]

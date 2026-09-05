@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les yeux elfiques du personnage font fi des camouflages.*
 
-**Condition.** [Précision elfique](./Précision elfique.md)
+**Condition.** [[Précision elfique]]
 
-**Avantage.** Lorsque le personnage effectue une attaque avec un arc long ou court (y compris avec des arcs composites), il ignore le camouflage, à l’exception du camouflage total. S’il rate son tir à cause d’un camouflage total, il peut relancer le jet du risque d’échec comme indiqué dans la description de [Précision elfique](./Précision elfique.md).
+**Avantage.** Lorsque le personnage effectue une attaque avec un arc long ou court (y compris avec des arcs composites), il ignore le camouflage, à l’exception du camouflage total. S’il rate son tir à cause d’un camouflage total, il peut relancer le jet du risque d’échec comme indiqué dans la description de [[Précision elfique]].

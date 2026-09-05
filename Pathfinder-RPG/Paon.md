@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Familiar Folio page 27*}
 - **100 PX**
-- [Animal](./type Animal.md) de taille P, N
-- **Init **+1 ; **Sens** [Vision nocturne](./vision nocturne.md) ;  [Perception](./Perception.md) -2
+- [[type animal|Animal]] de taille P, N
+- **Init **+1 ; **Sens** [[Vision nocturne]] ;  [[Perception]] -2
 (((Défense)))
 - **CA** 12, contact 12, pris au dépourvu 11 (Dex +1, taille +1)
 - **PV** 4 (1d8)
@@ -26,8 +26,8 @@ Categories:
 (((Caractéristiques)))
 - **For **7, **Dex **12, **Con **10, **Int **1, **Sag **6, **Cha **13
 - **BBA **+0 ; **BMO **-3 ; **DMD **8
-- **Dons **[Attaque en finesse](./Attaque en finesse.md)
-- **Compétences **[Vol](./Vol.md) -1
+- **Dons **[[Attaque en finesse]]
+- **Compétences **[[Vol]] -1
 (((Écologie)))
 - **Environnement **Forêts et jungles
 - **Organisation **solitaire, paire, ou une fête (3-10)

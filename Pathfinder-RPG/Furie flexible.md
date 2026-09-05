@@ -6,11 +6,11 @@ Categories:
 - Sort barde 3
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 3  
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** personnelle  
 

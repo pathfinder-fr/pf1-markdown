@@ -14,9 +14,9 @@ Categories:
 {s:Reference|ANNONCIATEURDEMALHEURS}
 {s:BDTitre|Annonciateur de malheurs|FP 1}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|Humain [adepte](./Adepte.md) 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** -1 ; **Sens** [Perception](./Perception.md) +5}
+{s:BDTexte|Humain [[adepte]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 9, pris au dépourvu 11 (armure +2, Dex –1)}
 {s:BDTexte|**pv** 10 (3d6)}
@@ -26,16 +26,16 @@ Categories:
 {s:BDTexte|**Corps à corps** serpe, +1 (1d6)}
 {s:BDTexte|**A distance** dard, +0 (1d4)}
 {s:BDTexte|**sorts d’adepte préparés** (NLS 3 ; Concentration +5)}
-{s:BDSorts|1<up>er</sup>  — *[bénédiction](./Bénédiction.md)*, *[brume de dissimulation](./Brume de dissimulation.md)*, *[mains brûlantes](./Mains brûlantes.md)* (DD 13)}
-{s:BDSorts|0<up>e</sup> — *[assistance divine](./Assistance divine.md)*, *[fatigue](./Fatigue.md)* (DD 12), *[son imaginaire](./Son imaginaire.md)* (DD 12)}
+{s:BDSorts|1<up>er</sup>  — *[[bénédiction]]*, *[[brume de dissimulation]]*, *[[mains brûlantes]]* (DD 13)}
+{s:BDSorts|0<up>e</sup> — *[[assistance divine]]*, *[[fatigue]]* (DD 12), *[[son imaginaire]]* (DD 12)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 9, **Con** 10, **Int** 8, **Sag** 15, **Cha** 12}
 {s:BDTexte|**BBA** +1, **BMO** +1, **DMD** 10}
-{s:BDTexte|**Dons** [Écriture de parchemins](./Écriture de parchemins.md), [Persuasion](./Persuasion.md), [Talent](./Talent.md) (Intimidation)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +3, [Connaissances](./Connaissances.md) (religion) +3, [Diplomatie](./Diplomatie.md) +4, [Intimidation](./Intimidation.md) +7, [Perception](./Perception.md) +5, [Premiers secours](./Premiers secours.md) +6, [Profession](./Profession.md) (scribe) +6, [Psychologie](./Psychologie.md) +4, [Représentation](./Représentation.md) (déclamation) +2, [Survie](./Survie.md) +6}
+{s:BDTexte|**Dons** [[Écriture de parchemins]], [[Persuasion]], [[Talent]] (Intimidation)}
+{s:BDTexte|**Compétences** [[Art de la magie]] +3, [[Connaissances]] (religion) +3, [[Diplomatie]] +4, [[Intimidation]] +7, [[Perception]] +5, [[Premiers secours]] +6, [[Profession]] (scribe) +6, [[Psychologie]] +4, [[Représentation]] (déclamation) +2, [[Survie]] +6}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités**  invocation de familier (crapaud)}
-{s:BDTexte|**Équipement de combat** parchemins de *[frayeur](./Frayeur.md)* (4), de *[soins légers](./Soins légers.md)* (4), de *[sommeil](./Sommeil.md)* (4) et d’*[injonction](./Injonction.md)* (4) ; **Autre équipement** armure de cuir, serpe, dards (4)}
+{s:BDTexte|**Équipement de combat** parchemins de *[[frayeur]]* (4), de *[[soins légers]]* (4), de *[[sommeil]]* (4) et d’*[[injonction]]* (4) ; **Autre équipement** armure de cuir, serpe, dards (4)}
 {s:BDTexte|**Faveur** Un annonciateur de malheurs peut donner aux PJ une réputation terrifiante et ainsi leur octroyer pendant 1 semaine un bonus de circonstances de +2 aux tests d’Intimidation effectués dans une communauté. Il peut aussi fabriquer des parchemins avec une réduction de prix de 10%.}
 </div>
 </td><td><div>
@@ -43,7 +43,7 @@ Les annonciateurs de malheurs sont des démagogues qui haranguent les foules sur
 
 Les annonciateurs de malheurs peuvent servir de chamanes primitifs, d’adorateurs dans des cultes malfaisants, de sorciers ou de « prêtres » hargneux dans les villages éloignés situés aux frontières de la civilisation, là où il n’y a aucun clergé organisé.
 
-Un annonciateur de malheurs est souvent accompagné de deux [acolytes](./PNJ temples.md#ACOLYTE) ou de deux [mendiants](./PNJ rues.md#MENDIANT) qui lui servent de disciples (FP 3 ou 4). Il peut travailler avec un groupe de trois [voyageurs](./PNJ routes.md#VOTAGEUR) ou [adorateurs](./PNJ hérétiques.md#ADORATEUR) (FP 6) ou être l’apprenti d’un [magicien amateur](./PNJ érudits.md#MAGICIENAMATEUR) (FP 5). En ville, il peut s’associer avec un gang de quatre [pickpockets](./PNJ criminels.md#PICKPOCKET) (FP 4) qui s’occupent de la foule rassemblée pour l’écouter parler. En remplaçant [Talent](./Talent.md) (Intimidation) par [Talent](./Talent.md) (Premiers secours), il devient un guérisseur laïque qui pourrait accompagner un [pèlerin](./PNJ routes.md#PELERIN) (FP 4).
+Un annonciateur de malheurs est souvent accompagné de deux [[PNJ temples#ACOLYTE|acolytes]] ou de deux [[PNJ rues#MENDIANT|mendiants]] qui lui servent de disciples (FP 3 ou 4). Il peut travailler avec un groupe de trois [[PNJ routes#VOTAGEUR|voyageurs]] ou [[PNJ hérétiques#ADORATEUR|adorateurs]] (FP 6) ou être l’apprenti d’un [[PNJ érudits#MAGICIENAMATEUR|magicien amateur]] (FP 5). En ville, il peut s’associer avec un gang de quatre [[PNJ criminels#PICKPOCKET|pickpockets]] (FP 4) qui s’occupent de la foule rassemblée pour l’écouter parler. En remplaçant [[Talent]] (Intimidation) par [[Talent]] (Premiers secours), il devient un guérisseur laïque qui pourrait accompagner un [[PNJ routes#PELERIN|pèlerin]] (FP 4).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -51,9 +51,9 @@ Un annonciateur de malheurs est souvent accompagné de deux [acolytes](./PNJ tem
 {s:Reference|MEDIUM}
 {s:BDTitre|Medium|FP 4}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|Humain [prêtre](./Prêtre.md) 5}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +8}
+{s:BDTexte|Humain [[prêtre]] 5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 11, pris au dépourvu 20 (armure +7, bouclier +3, Dex +1)}
 {s:BDTexte|**pv** 22 (5d8)}
@@ -64,18 +64,18 @@ Un annonciateur de malheurs est souvent accompagné de deux [acolytes](./PNJ tem
 {s:BDTexte|**A distance** dard, +4 (1d4–1)}
 {s:BDTexte|**Attaque spéciale** canalisation d’énergie positive 7/jour (DD 14, 3d6)}
 {s:BDTexte|**Pouvoirs magiques de domaine** (NLS 5 ; Concentration +8)}
-{s:BDTexte|6/jour — *[engourdissement](./Domaine du Repos.md)*, *[toucher apaisant](./Toucher apaisant.md)* (1d6+5 non létal)}
+{s:BDTexte|6/jour — *[[Domaine du Repos|engourdissement]]*, *[[toucher apaisant]]* (1d6+5 non létal)}
 {s:BDTexte|**sorts de prêtre préparés** (NLS 5 ; concentration +8)}
-{s:BDSorts|3<sup>e</sup> — *[communication avec les morts](./Communication avec les morts.md)* D, *[main du berger](./Main du berger.md)*, *[malédiction](./malédiction.md)* (DD 16)}
-{s:BDSorts|2<sup>e</sup> — *[arme spirituelle](./Arme spirituelle.md)*, *[augure](./Augure.md)*, *[préservation des morts](./Préservation des morts.md)* D, *[silence](./Silence.md)* (DD 15)}
-{s:BDSorts|1<sup>er</sup> — *[bénédiction](./Bénédiction.md)*, *[compréhension des langages](./Compréhension des langages.md)*, *[injonction](./Injonction.md)* (DD 14), *[perception de la mort](./Perception de la mort.md)* D, *[sanctuaire](./Sanctuaire.md)* (DD 14)}
-{s:BDSorts|0 (à volonté) — *[assistance divine](./Assistance divine.md)* D, *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[lumière](./Lumière.md)*}
+{s:BDSorts|3<sup>e</sup> — *[[communication avec les morts]]* D, *[[main du berger]]*, *[[malédiction]]* (DD 16)}
+{s:BDSorts|2<sup>e</sup> — *[[arme spirituelle]]*, *[[augure]]*, *[[préservation des morts]]* D, *[[silence]]* (DD 15)}
+{s:BDSorts|1<sup>er</sup> — *[[bénédiction]]*, *[[compréhension des langages]]*, *[[injonction]]* (DD 14), *[[perception de la mort]]* D, *[[sanctuaire]]* (DD 14)}
+{s:BDSorts|0 (à volonté) — *[[assistance divine]]* D, *[[détection de la magie]]*, *[[lecture de la magie]]*, *[[lumière]]*}
 {s:BDSorts|D — sort de domaine ; **Domaines** Communauté, Repos}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 12, **Con** 10, **Int** 14, **Sag** 17, **Cha** 14}
 {s:BDTexte|**BBA** +3, **BMO** +2, **DMD** 13}
-{s:BDTexte|**Dons** [Art du bouclier](./Art du bouclier.md), [Canalisation supplémentaire](./Canalisation supplémentaire.md), [Renvoi des morts-vivants](./Renvoi des morts-vivants.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +6, [Connaissances](./Connaissances.md) (plans) +9, [Connaissances](./Connaissances.md) (religion) +9, [Diplomatie](./Diplomatie.md) +10, [Perception](./Perception.md) +8, [Premiers secours](./Premiers secours.md) +11, [Profession](./Profession.md) (accoucheur) +9, [Psychologie](./Psychologie.md) +13}
+{s:BDTexte|**Dons** [[Art du bouclier]], [[Canalisation supplémentaire]], [[Renvoi des morts-vivants]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +6, [[Connaissances]] (plans) +9, [[Connaissances]] (religion) +9, [[Diplomatie]] +10, [[Perception]] +8, [[Premiers secours]] +11, [[Profession]] (accoucheur) +9, [[Psychologie]] +13}
 {s:BDTexte|**Langues** céleste, commun, infernal}
 {s:BDTexte|**Particularités** aura du Bien, canalisation d’énergie positive (DD 15, 4d6), grâces (fatigué, hébété), imposition des mains (3d6, 5/jour), pacte divin (arme +1)}
 {s:BDTexte|**Équipement** *cotte de mailles +1*, écu en bois, masse d’armes légère, dards (2), *cape de résistance +1*, symbole sacré en argent, focalisateur pour les augures}
@@ -86,7 +86,7 @@ Un  médium est un intermédiaire entre le monde des vivants et celui des morts.
 
 Un  médium peut être un prêtre ou une sage-femme dans un village, ou encore un prêtre itinérant générique ou un des nombreux prêtres de bas ou moyen niveau qui travaillent dans un temple.
 
-Un médium peut être accompagné de deux [acolytes](./PNJ temples.md#ACOLYTE) ou d’un [annonciateur de malheurs](./PNJ devins.md#ANNONCIATEURDEMALHEURS) (FP 5) ou encore de deux [adorateurs](./PNJ hérétiques.md#ADORATEUR) (FP 6). Un médium avec un [magicien amateur](./PNJ érudits.md#MAGICIENAMATEUR) (FP 6), un [hermite](./PNJ terres sauvages.md#HERMITE) (FP 7) ou un [conjureur](./PNJ hérétiques.md#CONJUREUR) (FP 7) peut veiller sur un [oracle](./Oracle.md) dans une forêt ou être un mendiant mystique itinérant. Un médium et deux [acolytes](./PNJ temples.md#ACOLYTE) peuvent accompagner un [prêtre](./PNJ temples.md#PRETRE) (FP 9) alors que cinq ou six médiums formeront l’entourage d’un [saint homme](./PNJ croisés.md#SAINTHOMME) (FP 12) ou d’un [haut prêtre](./PNJ temples.md#HAUTPRETRE) (FP 13).
+Un médium peut être accompagné de deux [[PNJ temples#ACOLYTE|acolytes]] ou d’un [[PNJ devins#ANNONCIATEURDEMALHEURS|annonciateur de malheurs]] (FP 5) ou encore de deux [[PNJ hérétiques#ADORATEUR|adorateurs]] (FP 6). Un médium avec un [[PNJ érudits#MAGICIENAMATEUR|magicien amateur]] (FP 6), un [[PNJ terres sauvages#HERMITE|hermite]] (FP 7) ou un [[PNJ hérétiques#CONJUREUR|conjureur]] (FP 7) peut veiller sur un [[oracle]] dans une forêt ou être un mendiant mystique itinérant. Un médium et deux [[PNJ temples#ACOLYTE|acolytes]] peuvent accompagner un [[PNJ temples#PRETRE|prêtre]] (FP 9) alors que cinq ou six médiums formeront l’entourage d’un [[PNJ croisés#SAINTHOMME|saint homme]] (FP 12) ou d’un [[PNJ temples#HAUTPRETRE|haut prêtre]] (FP 13).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -94,9 +94,9 @@ Un médium peut être accompagné de deux [acolytes](./PNJ temples.md#ACOLYTE) o
 {s:Reference|DISEUSEDEBONNEAVENTURE}
 {s:BDTitre|Diseuse de bonne aventure|FP 5}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|Humain [barde](./Barde.md) 3 / [ensorceleur](./Ensorceleur.md) 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, CN}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +5}
+{s:BDTexte|Humain [[barde]] 3 / [[ensorceleur]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, CN}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception]] +5}
 {s:BDTexte|**Aura** bravoure (3 m), fermeté (3 m), justice (3 m)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 11, pris au dépourvu 10 (Dex +1)}
@@ -109,23 +109,23 @@ Un médium peut être accompagné de deux [acolytes](./PNJ temples.md#ACOLYTE) o
 {s:BDTexte|**A distance** dague, +4 (1d4–1/19–20)}
 {s:BDTexte|**Attaque spéciale** représentation bardique 18 rounds/jour (contre-chant, distraction, fascination (DD 15), inspiration talentueuse +2, inspiration vaillante +1)}
 {s:BDTexte|**Pouvoirs magiques de lignage** (NLS 12 ; Concentration +17)}
-{s:BDTexte|À volonté — *[détection du Mal](./Détection du Mal.md)*}
+{s:BDTexte|À volonté — *[[détection du Mal]]*}
 {s:BDTexte|**Pouvoirs magiques de lignage** (NLS 3 ; Concentration +7)}
 {s:BDTexte|7/jour — toucher rieur}
 {s:BDTexte|**sorts de barde connus** (NLS 3 ; Concentration +7)}
-{s:BDSorts|1<sup>er</sup> (4/jour) — *[fou rire](./Fou rire.md)* (DD 17), *[image silencieuse](./Image silencieuse.md)* (DD15), *[soins légers](./Soins légers.md), *[ventriloquie](./Ventriloquie.md)* (DD15)*}
-{s:BDSorts|0 (à volonté) — *[lecture de la magie](./Lecture de la magie.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[message](./Message.md)*, *[repérage](./Repérage.md)*, *[résistance](./résistance.md)*, *[son imaginaire](./Son imaginaire.md) (DD 14)*}
+{s:BDSorts|1<sup>er</sup> (4/jour) — *[[fou rire]]* (DD 17), *[[image silencieuse]]* (DD15), *[[soins légers]], *[[ventriloquie]]* (DD15)*}
+{s:BDSorts|0 (à volonté) — *[[lecture de la magie]]*, *[[manipulation à distance]]*, *[[message]]*, *[[repérage]]*, *[[résistance]]*, *[[son imaginaire]] (DD 14)*}
 {s:BDTexte|**sorts d’ensorceleur connus** (NLS 3 ; Concentration +7)}
-{s:BDSorts|1<sup>er</sup> (6/jour) — *[armure de mage](./Armure de mage.md)*, *[charme-personne](./Charme-personne.md)* (DD15), *[enchevêtrement](./Enchevêtrement.md) (DD 15), *[hypnose](./Hypnose.md)* (DD17)*}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[hébétement](./Hébétement.md)* (DD 16), *[prestidigitation](./Prestidigitation.md)*, *[rayon de givre](./Rayon de givre.md)*, *[signature magique](./Signature magique.md)*}
+{s:BDSorts|1<sup>er</sup> (6/jour) — *[[armure de mage]]*, *[[charme-personne]]* (DD15), *[[enchevêtrement]] (DD 15), *[[hypnose]]* (DD17)*}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[hébétement]]* (DD 16), *[[prestidigitation]]*, *[[rayon de givre]]*, *[[signature magique]]*}
 {s:BDTexte|**Lignage** féerique}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 13, **Con** 10, **Int** 14, **Sag** 12, **Cha** 18}
 {s:BDTexte|**BBA** +3, **BMO** +2, **DMD** 13}
-{s:BDTexte|**Dons** [Aptitude magique](./Aptitude magique.md), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [Représentation supplémentaire](./Représentation supplémentaire.md), [Talent](./Talent.md) (Escamotage), [Talent](./Talent.md) (Représentation (scène))}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +10, [Bluff](./Bluff.md) +16, [Connaissances](./Connaissances.md) (folklore local) +7, [Connaissances](./Connaissances.md) (mystères) +7, [Connaissances](./Connaissances.md) (nature) +7, [Connaissances](./Connaissances.md) (plans) +7, [Connaissances](./Connaissances.md) (religion) +7, [Déguisement](./Déguisement.md) +16, [Diplomatie](./Diplomatie.md) +10, [Escamotage](./Escamotage.md) +13, [Intimidation](./Intimidation.md) +10, [Linguistique](./Linguistique.md) +6, [Perception](./Perception.md) +5, [Psychologie](./Psychologie.md) +10, [Représentation](./Représentation.md) (déclamation) +12, [Représentation](./Représentation.md) (scène) +16, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +15}
+{s:BDTexte|**Dons** [[Aptitude magique]], [[Dispense de composantes matérielles]], [[Représentation supplémentaire]], [[Talent]] (Escamotage), [[Talent]] (Représentation (scène))}
+{s:BDTexte|**Compétences** [[Art de la magie]] +10, [[Bluff]] +16, [[Connaissances]] (folklore local) +7, [[Connaissances]] (mystères) +7, [[Connaissances]] (nature) +7, [[Connaissances]] (plans) +7, [[Connaissances]] (religion) +7, [[Déguisement]] +16, [[Diplomatie]] +10, [[Escamotage]] +13, [[Intimidation]] +10, [[Linguistique]] +6, [[Perception]] +5, [[Psychologie]] +10, [[Représentation]] (déclamation) +12, [[Représentation]] (scène) +16, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +15}
 {s:BDTexte|**Langues** aklo, commun, draconique, sylvestre}
 {s:BDTexte|**Particularités** arcanes de lignage, déplacement facilité, savoir bardique +1, versatilité artistique (scène)}
-{s:BDTexte|**Équipement de combat** baguette de *[serviteur invisible](./Serviteur invisible.md)* (50 charges), parchemins de *[bouche magique](./Bouche magique.md)*, de *[compréhension des langages](./Compréhension des langages.md)* (4), de *[corde animée](./Corde animée.md)*, d’*[aura magique](./Aura magique.md)* et d’*[effacement](./Effacement.md)* ; bâtons fumigènes (2) ; pierres à tonnerre (2) ; Autre équipement dagues (2), *cape de résistance +1*, boule de cristal non magique, cartes de tarot, focalisateur pour les augures}
-{s:BDTexte|**Faveur** Une diseuse de bonne fortune peut conseiller les PJ sur la meilleure méthode pour tromper les habitants d’une communauté et ainsi leur octroyer pendant 1 semaine un bonus de circonstances de +2 aux tests de [Bluff](./Bluff.md) et d’[Intimidation](./Intimidation.md) dans cette zone.}
+{s:BDTexte|**Équipement de combat** baguette de *[[serviteur invisible]]* (50 charges), parchemins de *[[bouche magique]]*, de *[[compréhension des langages]]* (4), de *[[corde animée]]*, d’*[[aura magique]]* et d’*[[effacement]]* ; bâtons fumigènes (2) ; pierres à tonnerre (2) ; Autre équipement dagues (2), *cape de résistance +1*, boule de cristal non magique, cartes de tarot, focalisateur pour les augures}
+{s:BDTexte|**Faveur** Une diseuse de bonne fortune peut conseiller les PJ sur la meilleure méthode pour tromper les habitants d’une communauté et ainsi leur octroyer pendant 1 semaine un bonus de circonstances de +2 aux tests de [[Bluff]] et d’[[Intimidation]] dans cette zone.}
 </div></td><td></td></tr></table>

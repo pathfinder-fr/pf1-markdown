@@ -9,18 +9,18 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2  
+{s:APG}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un morceau de partition)  
+**Composantes** [[Composantes|V, G, M]] (un morceau de partition)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage emplit l'esprit de sa cible d'un vacarme retentissant de sons discordants, ce qui la gêne pour se concentrer et agir. La créature est [nauséeuse](./Nauséeux.md) pendant toute la durée du sort si elle rate son [jet de sauvegarde](./jet de sauvegarde.md).
+Le personnage emplit l'esprit de sa cible d'un vacarme retentissant de sons discordants, ce qui la gêne pour se concentrer et agir. La créature est [[nauséeux|nauséeuse]] pendant toute la durée du sort si elle rate son [[jet de sauvegarde]].

@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Lanterne éternelle|{s:CMy}}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 6 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 3 000 po ; **Poids** 1 kg
+**Aura** [[Évocation]] modérée ; **NLS** 6 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 3 000 po ; **Poids** 1 kg
 (((Description)))
-Cette petite lanterne en cuivre et à capuchon diffuse la même lumière qu'un sort de *[lumière du jour](./Lumière du jour.md)*. Si le porteur dépense une utilisation de [pouvoir mythique](./pouvoir mythique.md), la lanterne diffuse la même lumière qu'un sort de *[lumière du jour mythique](./Lumière du jour.md)* pendant 1 heure. Quand elle émet cette *lumière du jour mythique*, la lanterne dissipe automatiquement tous les sorts ou effets de ténèbres non-mythiques qui traversent sa lumière.
+Cette petite lanterne en cuivre et à capuchon diffuse la même lumière qu'un sort de *[[lumière du jour]]*. Si le porteur dépense une utilisation de [[pouvoir mythique]], la lanterne diffuse la même lumière qu'un sort de *[[lumière du jour|lumière du jour mythique]]* pendant 1 heure. Quand elle émet cette *lumière du jour mythique*, la lanterne dissipe automatiquement tous les sorts ou effets de ténèbres non-mythiques qui traversent sa lumière.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), [Artisan mythique](./Artisan mythique (mythique).md), *[lumière du jour mythique](./Lumière du jour.md)* ; **Coût** 1 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], [[Artisan mythique (mythique)|Artisan mythique]], *[[lumière du jour|lumière du jour mythique]]* ; **Coût** 1 500 po
 </div>

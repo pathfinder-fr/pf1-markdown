@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.249}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +0 ; **Sens** [odorat](./odorat.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[odorat]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 9, pris au dépourvu 16 (naturelle +7, taille -1)}
 {s:BDTexte|**pv** 42 (5d8+20)}
@@ -23,12 +23,12 @@ Categories:
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** corne +8 (2d6+9)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [charge puissante](./Charge puissante.md) (corne, 4d6+12)}
+{s:BDTexte|**Attaques spéciales** [[charge puissante]] (corne, 4d6+12)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 10, **Con** 19, **Int** 2, **Sag** 13, **Cha** 5}
 {s:BDTexte|**BBA** +3, **BMO** +10, **DMD** 20 (24 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Endurance](./Endurance.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +12}
+{s:BDTexte|**Dons** [[Endurance]], [[Talent]] ([[Perception]]), [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Perception]] +12}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupeau (3-12)}
@@ -41,9 +41,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Rhinocéros](./Rhinocéros.md) || 4
+| [[Rhinocéros]] || 4
 |-
-| [Rhinocéros laineux](./Rhinocéros laineux.md) || 6
+| [[Rhinocéros laineux]] || 6
 |}
 </div>''Ce rhinocéros possède une tête très proche du sol et des oreilles tordues
 situées de part et d’autre de son cou.''
@@ -60,11 +60,11 @@ les approche de trop près (à une distance
 de 24 mètres généralement, ce qui
 correspond à une charge de rhinocéros).
 
-Voir aussi : [Baluchithérium](./Baluchithérium.md)
+Voir aussi : [[Baluchithérium]]
 
 #### Le rhinocéros comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (9 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** corne (1d8) ; **Caractéristiques** For 14, Dex 14, Con 15, Int 2, Sag 13, Cha 5 ; **Particularités** [odorat](./odorat.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (9 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** corne (1d8) ; **Caractéristiques** For 14, Dex 14, Con 15, Int 2, Sag 13, Cha 5 ; **Particularités** [[odorat]].
 
-**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** corne (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** [charge puissante](./Charge puissante.md).
+**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** corne (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** [[charge puissante]].
 </div></td></tr></table>

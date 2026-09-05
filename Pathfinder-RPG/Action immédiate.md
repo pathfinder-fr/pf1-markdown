@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Types dactions#IMMEDIATE
 ---
 
->>> [Types dactions#IMMEDIATE](./Types dactions.md#IMMEDIATE)
+>>> [[Types dactions#IMMEDIATE]]

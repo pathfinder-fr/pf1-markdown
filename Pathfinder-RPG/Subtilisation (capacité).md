@@ -8,6 +8,6 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-La créature peut tenter une manœuvre offensive de [subtilisation](./subtilisation.md) contre son adversaire par une action libre qui ne provoque pas d’[attaque d’opportunité](./AO.md), à condition qu’elle le touche avec l’attaque spécifiée.
+La créature peut tenter une manœuvre offensive de [[subtilisation]] contre son adversaire par une action libre qui ne provoque pas d’[[AO|attaque d’opportunité]], à condition qu’elle le touche avec l’attaque spécifiée.
 
 *Format :* subtilisation ; *Emplacement :* Attaques individuelles.

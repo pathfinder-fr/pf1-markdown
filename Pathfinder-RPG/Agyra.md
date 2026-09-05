@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Créature magique|Montagnes|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 160*}
 - 3 276 800 PX
-- [Créature magique](./type Créature magique.md) ([Air](./sous-type Air.md), [kaiju](./sous-type kaiju.md)) de taille C, CN
+- [[type créature magique|Créature magique]] ([[sous-type air|Air]], [[sous-type kaiju|kaiju]]) de taille C, CN
 - **Init **+11 ; **Sens **perception aveugle à 9 m, vision dans le noir à 180 m, vision nocturne ; Perception +38
 (((Défense)))
 - **CA **45, contact 9, pris au dépourvu 38 (Dex +7, naturelle +36, taille -8)
@@ -29,8 +29,8 @@ Categories:
 (((Statistiques)))
 - **For **44, **Dex **25, **Con **41, **Int **3, **Sag **29, **Cha **25
 - **BBA** +32 ; **BMO **+57 (+61 en bousculade) ; **DMD **74 (76 contre la bousculade)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Bousculade supérieure](./Bousculade supérieure.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Frappe décisive](./Frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science du critique](./Science du critique.md) (coup de queue), [Science du critique](./Science du critique.md) (morsure), [Virage sur l’aile](./Virage sur laile.md), [Vol stationnaire](./Vol stationnaire.md), [Volonté de fer](./Volonté de fer.md) 
-- **Compétences **[Perception](./Perception.md) +38, [Vol](./Vol.md) +24 ; Modificateurs raciaux +16 en Perception
+- **Dons **[[Attaque en puissance]], [[Attaques réflexes]], [[Bousculade supérieure]], [[Critique ralentissant]], [[Don pour les critiques]], [[Frappe décisive supérieure]], [[Frappe décisive]], [[science de linitiative|Science de l’initiative]], [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science de la volonté de fer]], [[Science du critique]] (coup de queue), [[Science du critique]] (morsure), [[virage sur laile|Virage sur l’aile]], [[Vol stationnaire]], [[Volonté de fer]] 
+- **Compétences **[[Perception]] +38, [[Vol]] +24 ; Modificateurs raciaux +16 en Perception
 - **Langues** aérien (ne sait pas parler)
 - **Particularités **énorme, vol au travers des tempêtes
 (((Écologie)))
@@ -48,7 +48,7 @@ Categories:
 - **Vol au travers des tempêtes (Ext)**. Agyra ne subit aucun malus aux tests de Vol, quelle que soit la violence des vents.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [kaijus](./Kaijus.md).***</li></ul>*Ce monstre bicéphale possède une immense paire d’ailes et une longue queue couvertes d’une multitude de pointes.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Kaijus]].***</li></ul>*Ce monstre bicéphale possède une immense paire d’ailes et une longue queue couvertes d’une multitude de pointes.*
 
 Nombre de cultures pensent que c’est Agyra, la Tempête perpétuelle,
 qui crée les typhons et les violents orages saisonniers.

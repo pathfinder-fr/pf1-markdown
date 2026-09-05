@@ -8,7 +8,7 @@ Categories:
 ---
 
 {s:Organisation|Chevaliers Infernaux|Hellknights|-|-|-|-|-|-|-|-}
-Les Chevaliers Infernaux forment un ordre de représentants de la loi chargés de la faire appliquer. Ils s'intéressent moins au bien être social et à la charité des paladins qu'aux fondements et au formalisme de leur ordre. Dans leur application stricte de la loi - spécifiquement celles énnoncée par leur ordre et par le [Chéliax](./Chéliax.md), leur nation d'origine - les Chevaliers Infernaux rivalisent d'efficacité avec l'une des armées les plus organisées de tous les Plans : les légions issues de l'Enfer. Ils ne s'embarrassent pas de moralité ni de méthodes. Seul le résultat compte. Si on ne peut faire confiance aux gens pour obéir à la loi en dehors de leur propre sens des civilités et de la rigueur sociale, les Chevaliers Infernaux les traiteront comme des animaux, leur apprenant à obéir par la peur d'une main de fer.
+Les Chevaliers Infernaux forment un ordre de représentants de la loi chargés de la faire appliquer. Ils s'intéressent moins au bien être social et à la charité des paladins qu'aux fondements et au formalisme de leur ordre. Dans leur application stricte de la loi - spécifiquement celles énnoncée par leur ordre et par le [[Chéliax]], leur nation d'origine - les Chevaliers Infernaux rivalisent d'efficacité avec l'une des armées les plus organisées de tous les Plans : les légions issues de l'Enfer. Ils ne s'embarrassent pas de moralité ni de méthodes. Seul le résultat compte. Si on ne peut faire confiance aux gens pour obéir à la loi en dehors de leur propre sens des civilités et de la rigueur sociale, les Chevaliers Infernaux les traiteront comme des animaux, leur apprenant à obéir par la peur d'une main de fer.
 
 Malgré leur sévérité, les Chevaliers Infernaux ne forment pas un groupe d'alignement Mauvais. Bien que leurs rangs comptent assurément plusieurs membres voués au Mal - particulièrement dans les plus hauts échelons de l'ordre - la majorité des ordres de Chevaliers Infernaux sont Loyal-Neutre (leurs membres ayant un alignement allant du Loyal-Mauvais au Loyal-Bon en passant par le Loyal-Neutre).
 
@@ -24,21 +24,21 @@ Tous les ordres de Chevaliers Infernaux ont une armure de plaque intimidante et 
 Le responsable d'un ordre de Chevaliers Infernaux est appelé Licteur. Sous ses ordres directs sont le Maître des Lames (commandant des forces armées) et le Paravicaire (dirigeant des forces maniant la magie divine ou profane). Sous leurs ordres, les paralicteurs (officiers), les signifiants (lanceurs de sorts), les Chevaliers Infernaux et les écuyers (Chevaliers Infernaux en cours de formation) constituent la troupe.
 
 #### Ordres majeurs
-Il y a de nombreux ordres de Chevaliers Infernaux. La majorité d'entre eux sont stationnés au [Chéliax](./Chéliax.md), mais certains se sont développés ou agissent à l'extérieur des frontières, plus particulièrement dans les régions qui appartenaient autrefois à l'empire. Actuellement, il existe sept ordres majeurs :
-- l'[Ordre du Chevalet](./Ordre du Chevalet.md) dont le commandement est situé à la citadelle Rivad, près de [Couronne-d'Ouest](./Couronne-Ouest.md) ;
-- l'[Ordre du Fléau](./Ordre du Fléau.md) à la citadelle Demain, près d'[Egorian](./Egorian.md) ;
-- l'[Ordre de la Pointe](./Ordre de la Pointe.md) à la citadelle Vrais, près de [Korvosa](./Korvosa.md) ;
-- l'[Ordre de la Pince Divine](./Ordre de la Pince Divine.md) à la citadelle Dinyar, dans les [Aspodèles](./Aspodell.md) ;
-- l'[Ordre de la Chaîne](./Ordre de la Chaîne.md) à la citadelle Gheradesca, près de [Corentyn](./Corentyn.md) ;
-- l'[Ordre de la Porte](./Ordre de la Porte.md) à la citadelle Enferac, près de [Pezzack](./Pezzack.md) ;
-- l'[Ordre du Bûcher](./Ordre du Bûcher.md) à la citadelle Krane, près d'[Ostenso](./Ostenso.md).
+Il y a de nombreux ordres de Chevaliers Infernaux. La majorité d'entre eux sont stationnés au [[Chéliax]], mais certains se sont développés ou agissent à l'extérieur des frontières, plus particulièrement dans les régions qui appartenaient autrefois à l'empire. Actuellement, il existe sept ordres majeurs :
+- l'[[Ordre du Chevalet]] dont le commandement est situé à la citadelle Rivad, près de [[Couronne-Ouest|Couronne-d'Ouest]] ;
+- l'[[Ordre du Fléau]] à la citadelle Demain, près d'[[Egorian]] ;
+- l'[[Ordre de la Pointe]] à la citadelle Vrais, près de [[Korvosa]] ;
+- l'[[Ordre de la Pince Divine]] à la citadelle Dinyar, dans les [[Aspodell|Aspodèles]] ;
+- l'[[Ordre de la Chaîne]] à la citadelle Gheradesca, près de [[Corentyn]] ;
+- l'[[Ordre de la Porte]] à la citadelle Enferac, près de [[Pezzack]] ;
+- l'[[Ordre du Bûcher]] à la citadelle Krane, près d'[[Ostenso]].
 
 #### Ordres mineurs
-Il existe de très nombreux ordres de Chevaliers Infernaux, même si peu d'entre eux sont connus à l'extérieur des frontières du [Chéliax](./Chéliax.md). Bien que moins envahissants, ces ordres plus petits sont tout aussi craints que leurs illustres grand frères. On remarquera les ordres suivants :
-- l'[Ordre du Rouleau](./Ordre du Rouleau.md) est basé dans l'ancienne colonie du [Sargava](./Sargava.md) et protège les colon de la "pollution" par la culture locale ;
-- l'[Ordre du Pal](./Ordre du Pal.md) qui chasse les monstres de [Murmebois](./Bois du Murmure.md)
-- l'[Ordre de la Balafre](./Ordre de la Balafre.md), à [Egorian](./Egorian.md), chasse les assassins.
+Il existe de très nombreux ordres de Chevaliers Infernaux, même si peu d'entre eux sont connus à l'extérieur des frontières du [[Chéliax]]. Bien que moins envahissants, ces ordres plus petits sont tout aussi craints que leurs illustres grand frères. On remarquera les ordres suivants :
+- l'[[Ordre du Rouleau]] est basé dans l'ancienne colonie du [[Sargava]] et protège les colon de la "pollution" par la culture locale ;
+- l'[[Ordre du Pal]] qui chasse les monstres de [[Bois du Murmure|Murmebois]]
+- l'[[Ordre de la Balafre]], à [[Egorian]], chasse les assassins.
 
 #### Ordres disparus
-Malgré leur forte présence sur l'ensemble du territoire du [Chéliax](./Chéliax.md) et le fait qu'ils maintiennent l'ordre d'une main de fer, certains ordres ont disparu avec le temps. Voici le plus connu d'entre eux :
-- l'[Ordre du Noeud](./Ordre du Noeud.md) (même si trois mort-vivants constituent encore ses rangs).
+Malgré leur forte présence sur l'ensemble du territoire du [[Chéliax]] et le fait qu'ils maintiennent l'ordre d'une main de fer, certains ordres ont disparu avec le temps. Voici le plus connu d'entre eux :
+- l'[[Ordre du Noeud]] (même si trois mort-vivants constituent encore ses rangs).

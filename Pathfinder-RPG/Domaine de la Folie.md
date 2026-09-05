@@ -11,21 +11,21 @@ Categories:
 ### Pouvoirs accordés
 Le personnage a laissé libre cours à la folie qui couvait en son sein et il peut la libérer pour déstabiliser ses ennemis ou sacrifier certaines capacités pour en améliorer d’autres.
 
-**Vision de folie (Mag).** Le personnage peut accorder une vision de folie à une créature via une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md). Il choisit une catégorie de jets parmi : [jets d’attaque](./jet dattaque.md),  [jets de sauvegarde](./jet de sauvegarde.md) et [tests de compétence](./test de compétence.md). La cible reçoit un bonus égal à la moitié du niveau de [prêtre](./Prêtre.md) du personnage (minimum +1) aux jets de la catégorie choisie et un malus équivalent aux deux autres catégories de jets. Cet effet persiste pendant trois rounds. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+**Vision de folie (Mag).** Le personnage peut accorder une vision de folie à une créature via une [[attaque de contact au corps à corps]]. Il choisit une catégorie de jets parmi : [[jet dattaque|jets d’attaque]],  [[jet de sauvegarde|jets de sauvegarde]] et [[test de compétence|tests de compétence]]. La cible reçoit un bonus égal à la moitié du niveau de [[prêtre]] du personnage (minimum +1) aux jets de la catégorie choisie et un malus équivalent aux deux autres catégories de jets. Cet effet persiste pendant trois rounds. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [[Sagesse]].
 
-**Aura de folie (Sur).** Au niveau 8, vous pouvez émettre une aura de folie de 9 m (6 cases) de rayon pendant un nombre de rounds par jour égal à votre niveau de [prêtre](./Prêtre.md). Les ennemis qui se trouvent dans l’aura sont affectés de [confusion](./Confus.md) sauf s’ils réussissent un jet de [Volonté](./Volonté.md) dont le [DD](./DD.md) est égal à 10 + la moitié du niveau de [prêtre](./Prêtre.md) du personnage + le modificateur de [Sagesse](./Sagesse.md) du personnage. Cet effet se termine immédiatement si la créature quitte la zone ou si l’aura disparaît. Les créatures qui réussissent leur [jet de sauvegarde](./jet de sauvegarde.md) développent une immunité contre cette aura pendant vingt-quatre heures. Ces rounds ne doivent pas forcément être consécutifs.
+**Aura de folie (Sur).** Au niveau 8, vous pouvez émettre une aura de folie de 9 m (6 cases) de rayon pendant un nombre de rounds par jour égal à votre niveau de [[prêtre]]. Les ennemis qui se trouvent dans l’aura sont affectés de [[confus|confusion]] sauf s’ils réussissent un jet de [[Volonté]] dont le [[DD]] est égal à 10 + la moitié du niveau de [[prêtre]] du personnage + le modificateur de [[Sagesse]] du personnage. Cet effet se termine immédiatement si la créature quitte la zone ou si l’aura disparaît. Les créatures qui réussissent leur [[jet de sauvegarde]] développent une immunité contre cette aura pendant vingt-quatre heures. Ces rounds ne doivent pas forcément être consécutifs.
 
 ### Sous-domaines associés
 <table width="100%"><tr><td width="49%">
 <div class="presentation arrondi">{s:APG}
 ### Sous-domaine des Cauchemars
-**Toucher terrible (Sur).** *(remplace vision de folie)* Par une [action simple](./Action simple.md), le personnage peut porter une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md) sur une cible et lui faire expérimenter d’atroces hallucinations durant 1 [round](./round.md). Pendant ce laps de temps, celle-ci perd toute immunité aux effets de [terreur](./Terreur (capacité).md) qu’elle pourrait posséder et subit une pénalité de –2 aux jets d’attaque qu’elle porte au [prêtre](./Prêtre.md). Elle subit également une autre pénalité sur ses [jets de Volonté](./jet de sauvegarde.md) contre les effets de [terreur](./Terreur (capacité).md), qui est égale à la moitié du niveau du [prêtre](./Prêtre.md) dans sa classe (minimum –1). Il peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [Sagesse](./Sagesse.md). C’est un [effet mental](./effet mental.md).
+**Toucher terrible (Sur).** *(remplace vision de folie)* Par une [[action simple]], le personnage peut porter une [[attaque de contact au corps à corps]] sur une cible et lui faire expérimenter d’atroces hallucinations durant 1 [[round]]. Pendant ce laps de temps, celle-ci perd toute immunité aux effets de [[Terreur (capacité)|terreur]] qu’elle pourrait posséder et subit une pénalité de –2 aux jets d’attaque qu’elle porte au [[prêtre]]. Elle subit également une autre pénalité sur ses [[jet de sauvegarde|jets de Volonté]] contre les effets de [[Terreur (capacité)|terreur]], qui est égale à la moitié du niveau du [[prêtre]] dans sa classe (minimum –1). Il peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [[Sagesse]]. C’est un [[effet mental]].
 </div>
 </td><td width="2%">
 </td><td width="49%">
 <div class="presentation arrondi">{s:APG}
 ### Sous-domaine de l'Insanité
-**Don du fou (Sur).** *(remplace vision de folie)* Par une [action simple](./Action simple.md), le personnage peut toucher un sujet consentant. Celui-ci bénéficiera pendant 1 minute d’un bonus de +4 sur tous les [jets de sauvegarde](./jet de sauvegarde.md) contre les [effets mentaux](./effet mental.md) et d’une immunité à la [confusion](./Confus.md). S’il rate un [jet de sauvegarde](./jet de sauvegarde.md) contre un [effet mental](./effet mental.md) durant cette période, il perd l’immunité et est immédiatement [confus](./Confus.md) pendant 1 [round](./round.md). Le [prêtre](./Prêtre.md) peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+**Don du fou (Sur).** *(remplace vision de folie)* Par une [[action simple]], le personnage peut toucher un sujet consentant. Celui-ci bénéficiera pendant 1 minute d’un bonus de +4 sur tous les [[jet de sauvegarde|jets de sauvegarde]] contre les [[effet mental|effets mentaux]] et d’une immunité à la [[confus|confusion]]. S’il rate un [[jet de sauvegarde]] contre un [[effet mental]] durant cette période, il perd l’immunité et est immédiatement [[confus]] pendant 1 [[round]]. Le [[prêtre]] peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [[Sagesse]].
 </div>
 </td></tr></table>
 
@@ -36,21 +36,21 @@ Le personnage a laissé libre cours à la folie qui couvait en son sein et il pe
 | WIDTH="26%" | Domaine de la Folie
 | Sous-domaine des Cauchemars || Sous-domaine de l'Insanité
 |- CLASS="premier"
-| 1er || *[confusion mineure](./Confusion mineure.md)* || *idem* || *idem*
+| 1er || *[[confusion mineure]]* || *idem* || *idem*
 |-
-| 2e || *[idiotie](./Idiotie.md)* || *idem* || *idem*
+| 2e || *[[idiotie]]* || *idem* || *idem*
 |-
-| 3e || *[rage](./Rage.md)* || *idem* || *idem*
+| 3e || *[[rage]]* || *idem* || *idem*
 |-
-| 4e || *[confusion](./Confusion.md)* || *[assassin imaginaire](./Assassin imaginaire.md)* || *[pleine lune](./Pleine lune.md)*
+| 4e || *[[confusion]]* || *[[assassin imaginaire]]* || *[[pleine lune]]*
 |-
-| 5e || *[cauchemar](./sort Cauchemar.md)* || *idem* || *idem*
+| 5e || *[[sort cauchemar|cauchemar]]* || *idem* || *idem*
 |-
-| 6e || *[assassin imaginaire](./Assassin imaginaire.md)* || *[manteau de rêves](./Manteau de rêves.md)* || *[toile fantasmagorique](./Toile fantasmagorique.md)*
+| 6e || *[[assassin imaginaire]]* || *[[manteau de rêves]]* || *[[toile fantasmagorique]]*
 |-
-| 7e || *[aliénation mentale](./Aliénation mentale.md)* || *idem* || *idem*
+| 7e || *[[aliénation mentale]]* || *idem* || *idem*
 |-
-| 8e || *[motif scintillant](./Motif scintillant.md)* || *idem* || *idem*
+| 8e || *[[motif scintillant]]* || *idem* || *idem*
 |-
-| 9e || *[ennemi subconscient](./Ennemi subconscient.md)* || *idem* || *idem*
+| 9e || *[[ennemi subconscient]]* || *idem* || *idem*
 |}

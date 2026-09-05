@@ -10,7 +10,7 @@ LastModified: 2017-09-18 13:51
 {s:pucem|Fée|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 179*}
 - **100 PX**
-- [Fée](./type Fée.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille Min, CM
+- [[type fée|Fée]] ([[sous-type extraplanaire|extraplanaire]]) de taille Min, CM
 - **Init** +2 ; Sens vision dans le noir 18 m, vision nocturne ; Perception +7
 (((Défense)))
 - **CA** 16, contact 16, pris au dépourvu 14 (Dex +2, taille +4)
@@ -23,13 +23,13 @@ LastModified: 2017-09-18 13:51
 - **Espace** 0,30 m ; **Allonge** 0 m (1,50 m avec la pince)
 - **Attaques spéciales** dernier sursaut, paralysie (1d3 rounds, DD 11), pince, fieffé voleur
 - **Pouvoirs magiques** (**NLS** 5 ; concentration +7)
-  - *À volonté *– [manipulation à distance](./Manipulation à distance.md), [ouverture/fermeture](./Ouverturefermeture.md)
-  - *1/jour* – [invisibilité](./Invisibilité.md) (sur lui uniquement), [sommeil](./Sommeil.md) (DD 13)
+  - *À volonté *– [[manipulation à distance]], [[ouverturefermeture|ouverture/fermeture]]
+  - *1/jour* – [[invisibilité]] (sur lui uniquement), [[sommeil]] (DD 13)
 (((Statistiques)))
 - **For** 5, **Dex** 14, **Con** 9, **Int** 8, **Sag** 15, **Cha** 14
 - **BBA** +1 ; **BMO** -1 (+3 en sale coup, +7 en subtilisation) ; **DMD** 6 (8 contre la subtilisation)
-- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de la subtilisation](./Science de la subtilisation.md), [Subtilisation supérieure](./Subtilisation supérieure.md) 
-- **Compétences** [Acrobaties](./Acrobaties.md) +7 (+3 en saut), [Discrétion](./Discrétion.md) +19, [Évasion](./Évasion.md) +7, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7, [Vol](./Vol.md) +16
+- **Dons** [[Attaque en finesse]], [[Science de la subtilisation]], [[Subtilisation supérieure]] 
+- **Compétences** [[Acrobaties]] +7 (+3 en saut), [[Discrétion]] +19, [[Évasion]] +7, [[Perception]] +7, [[Psychologie]] +7, [[Vol]] +16
 - **Modificateur** raciaux -4 en Acrobaties pour sauter
 - **Langues** sylvestre
 (((Écologie)))
@@ -39,7 +39,7 @@ LastModified: 2017-09-18 13:51
 (((Pouvoirs spéciaux)))
 - ** Dernier sursaut (Sur).** Lorsqu’il est tué, un lutin des dents explose en un nuage de poussière féerique blanche et scintillante qui colle aux créatures situées à 1,50 mètres ou moins. Cette substance étincelante émet une odeur si épouvantable que les créatures affectées sont fiévreuses pendant 1d4 rounds (Vigueur DD 10 annule). C’est un effet de poison. Le DD du jet de sauvegarde est basé sur la Constitution. 
 - **Fieffé voleur (Sur).** Un lutin des dents peut effectuer une manoeuvre offensive de sale coup avec sa pince pour pincer les doigts d’un adversaire ou une manoeuvre offensive de subtilisation pour arracher une dent d’un adversaire. Un doigt pincé inflige un affaiblissement temporaire de 1 point de Dextérité. L’arrachage d’une dent inflige 1 point de dégâts de saignement et un affaiblissement temporaire de 1 point de Charisme. Si la dent est remise en place 10 minutes ou moins après avoir été arrachée et que le personnage bénéficie de soins magiques, la dent se remet effectivement en place, l’effet de saignement prend fin et l’affaiblissement temporaire de Charisme disparaît.
-- **Pince (Sur).** Chaque lutin des dents possède une pince qu’il utilise pour tourmenter ses victimes. Entre les mains d’un lutin des dents, la pince inflige des dégâts identiques à ceux d’une dague +1 manipulée par une créature de taille M. La pince a une solidité de 10 et 3 points de résistance. Si sa pince est détruite, le lutin des dents est étourdi pendant 1 round. Si le lutin est tué, la pince rouille et devient complètement inutilisable au bout de 1d4 rounds. Un lutin des dents peut créer une nouvelle pince en y consacrant une heure de travail (aucun matériau n’est nécessaire), ce qui détruit la pince précédente. La pince confère au lutin des dents le don [Sale coup supérieur](./Sale coup supérieur.md) et un bonus de +4 aux manoeuvres offensives de sale coup et de subtilisation.
+- **Pince (Sur).** Chaque lutin des dents possède une pince qu’il utilise pour tourmenter ses victimes. Entre les mains d’un lutin des dents, la pince inflige des dégâts identiques à ceux d’une dague +1 manipulée par une créature de taille M. La pince a une solidité de 10 et 3 points de résistance. Si sa pince est détruite, le lutin des dents est étourdi pendant 1 round. Si le lutin est tué, la pince rouille et devient complètement inutilisable au bout de 1d4 rounds. Un lutin des dents peut créer une nouvelle pince en y consacrant une heure de travail (aucun matériau n’est nécessaire), ce qui détruit la pince précédente. La pince confère au lutin des dents le don [[Sale coup supérieur]] et un bonus de +4 aux manoeuvres offensives de sale coup et de subtilisation.
 
 
 </div>

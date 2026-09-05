@@ -13,24 +13,24 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Cham](./Chaman.md) 1, [Inq](./Inquisiteur.md) 1, [Occ](./Occultiste.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 1, [[Inquisiteur|Inq]] 1, [[Occultiste|Occ]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-La cible gagne un bonus de résistance de +4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les [maléfices](./maléfices.md) des [sorcières](./Sorcière.md).
+La cible gagne un bonus de résistance de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les [[maléfices]] des [[sorcière|sorcières]].
 
 ### Mythique
 {s:CMy}
-La cible gagne une immunité à un maléfice de [sorcière](./Sorcière.md) (mais pas à un maléfice majeur ni à un grand maléfice) choisi par le personnage.
+La cible gagne une immunité à un maléfice de [[sorcière]] (mais pas à un maléfice majeur ni à un grand maléfice) choisi par le personnage.
 
-**[Amplifié](./Amplifié.md) (3ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), au lieu de conférer une immunité à un maléfice de [sorcière](./Sorcière.md), il peut octroyer une immunité à deux maléfices ou à un maléfice majeur. S’il a atteint le 6ème [grade](./Grade.md) au moins et dépense trois utilisations de [pouvoir mythique](./pouvoir mythique.md), il peut à la place conférer une immunité à trois maléfices, deux maléfices majeurs ou un grand maléfice.
+**[[Amplifié]] (3ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], au lieu de conférer une immunité à un maléfice de [[sorcière]], il peut octroyer une immunité à deux maléfices ou à un maléfice majeur. S’il a atteint le 6ème [[grade]] au moins et dépense trois utilisations de [[pouvoir mythique]], il peut à la place conférer une immunité à trois maléfices, deux maléfices majeurs ou un grand maléfice.

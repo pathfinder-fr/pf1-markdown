@@ -10,7 +10,7 @@ LastModified: 2017-04-05 15:35
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 110*}
 - **25 600 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille TG, NM
+- [[type mort-vivant|Mort-vivant]] de taille TG, NM
 - **Init **+4 ; **Sens** vision dans le noir à 18 m ; Perception +20
 - **Aura** famine (18 m, DD 25)
 (((Défense)))
@@ -27,8 +27,8 @@ LastModified: 2017-04-05 15:35
 (((Statistiques)))
 - **For** 30, **Dex** 11, **Con** —, **Int** 6, **Sag** 17, **Cha** 21
 - **BBA **+14 ; **BMO **+26 (+28 pour la bousculade, +30 pour la lutte) ; **DMD** 36 (38 contre la bousculade)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md), [Force intimidante](./Force intimidante.md), [Frappe décisive](./Frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (griffe), [Succession d’enchaînements](./Succession denchaînements.md)
-- **Compétences** [Escalade](./Escalade.md) +23, [Intimidation](./Intimidation.md) +32, [Perception](./Perception.md) +20 
+- **Dons** [[Arme de prédilection]] (griffe), [[Attaque en puissance]], [[Coup fabuleux]], [[Enchaînement]], [[Force intimidante]], [[Frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Science de la bousculade]], [[Science du critique]] (griffe), [[Succession denchaînements|Succession d’enchaînements]]
+- **Compétences** [[Escalade]] +23, [[Intimidation]] +32, [[Perception]] +20 
 - **Langues** commun (ne peut pas parler)
 (((Écologie)))
 - **Environnement** tous

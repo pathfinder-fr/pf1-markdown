@@ -10,20 +10,20 @@ LastModified: 2021-02-23 16:37
 {s:pucem|Animal|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.188*}
 {s:BDTexte|**PX** 200 }
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]], [[odorat]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 12 (Dex +3, naturelle +2)}
 {s:BDTexte|**pv** 6 (1d8+2)}
 {s:BDTexte|**Réf** +5, **Vig** +4, **Vol** +0}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** ruade, +1 (1d6+1 plus [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** ruade, +1 (1d6+1 plus [[croc-en-jambe]])}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 16, **Con** 15, **Int** 2, **Sag** 11, **Cha** 7}
 {s:BDTexte|**BBA** +0 ; **BMO** +1 ; **DMD** 14}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Acrobaties](./Acrobaties.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+18 pour sauter), [Perception](./Perception.md) +4 ; **Modificateurs raciaux** +4 en Acrobaties}
+{s:BDTexte|**Dons** [[Talent]] ([[Acrobaties]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10 (+18 pour sauter), [[Perception]] +4 ; **Modificateurs raciaux** +4 en Acrobaties}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines ou plaines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou bande (3-10)}
@@ -36,9 +36,9 @@ LastModified: 2021-02-23 16:37
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Kangourou](./Kangourou.md) || 1/2
+| [[Kangourou]] || 1/2
 |-
-| [Thylacine](./Thylacine.md) || 1/2
+| [[Thylacine]] || 1/2
 |}
 </div>*Aussi grand qu’un humain adulte, cette créature à tête de souris se dresse sur ses puissantes pattes arrière et traîne derrière elle une queue épaisse.*
 
@@ -46,11 +46,11 @@ Ces animaux à l’apparence curieuse ont de longues oreilles pointues et un mus
 
 S’ils ne sont pas spécialement dangereux, les kangourous sont tout à fait capables de se défendre lorsqu’ils sont acculés ou contraints de protéger leurs petits, éliminant leurs ennemis d’une puissante ruade capable de renverser les adversaires imprudents. {br}
 
-Le kangourou mesure plus de 1,95 mètre et pèse plus de 100 kilos. Pour représenter une espèce plus petite de 1,20 mètre de haut et de 55 kilos, appliquez l’[archétype simple de la jeune créature](./Jeune, archétype.md) ou réduisez vous-même sa taille de M à P. Les kangourous atteignent la maturité en moins d’un an et peuvent vivre jusqu’à 20 ans mais la plupart de ceux qui vivent dans la nature se font tuer par les prédateurs au cours de leurs dix premières années.
+Le kangourou mesure plus de 1,95 mètre et pèse plus de 100 kilos. Pour représenter une espèce plus petite de 1,20 mètre de haut et de 55 kilos, appliquez l’[[Jeune, archétype|archétype simple de la jeune créature]] ou réduisez vous-même sa taille de M à P. Les kangourous atteignent la maturité en moins d’un an et peuvent vivre jusqu’à 20 ans mais la plupart de ceux qui vivent dans la nature se font tuer par les prédateurs au cours de leurs dix premières années.
 
 #### Le kangourous comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 12 m ; **Attaque** ruade (1d4) ; **Caractéristiques** For 12, Dex 14, Con 13, Int 2, Sag 11, Cha 7 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 12 m ; **Attaque** ruade (1d4) ; **Caractéristiques** For 12, Dex 14, Con 13, Int 2, Sag 11, Cha 7 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Évolution au niveau 4.** **Taille** M ; **Vitesse** 15 m ; **CA** armure naturelle +2 ; **Attaque** ruade (1d6) ; **Caractéristiques** For +4, Dex +2, Con +2.
 </div></td></tr></table>

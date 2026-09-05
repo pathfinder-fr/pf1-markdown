@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
-Il s’agit de la boisson préférée des [gobelins](./Gobelin.md), des [bourbiérins](./Bourbiérin.md) et des autres humanoïdes primitifs. Elle se fabrique en plongeant une grenouille ou un crapaud venimeux (ou ses oeufs) dans une bière légère, ou en « écrémant » ces animaux de leur poison afin de le mélanger à la bière (ce qui permet de réutiliser l’animal encore et encore). Certaines tribus utilisent des jarres à large col dans lesquelles elles laissent l’animal mort comme une friandise croustillante à manger quand la boisson a été bue. Une créature saoulée au bufo est éblouie en plus de subir les effets normaux de l’intoxication.
+Il s’agit de la boisson préférée des [[Gobelin|gobelins]], des [[Bourbiérin|bourbiérins]] et des autres humanoïdes primitifs. Elle se fabrique en plongeant une grenouille ou un crapaud venimeux (ou ses oeufs) dans une bière légère, ou en « écrémant » ces animaux de leur poison afin de le mélanger à la bière (ce qui permet de réutiliser l’animal encore et encore). Certaines tribus utilisent des jarres à large col dans lesquelles elles laissent l’animal mort comme une friandise croustillante à manger quand la boisson a été bue. Une créature saoulée au bufo est éblouie en plus de subir les effets normaux de l’intoxication.

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Ce bonbon enrobé de miel est composé de réactifs apaisants. Quand il est consommé, il lui faut 1 [round](./round.md) pour commencer à faire effet, puis il accorde un bonus alchimique de +2 aux tests de [Représentation](./Représentation.md) (chant) pendant 1 heure.
+Ce bonbon enrobé de miel est composé de réactifs apaisants. Quand il est consommé, il lui faut 1 [[round]] pour commencer à faire effet, puis il accorde un bonus alchimique de +2 aux tests de [[Représentation]] (chant) pendant 1 heure.

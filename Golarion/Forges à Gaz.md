@@ -10,8 +10,8 @@ Categories:
 ---
 
 Cet immense bâtiment est construit au dessus d'une poche de gaz naturel.
-Entièrement dirigées par des nains, les Forges à Gaz de [Port-Énigme](./Port-Énigme.md) sont l'un des rares endroits de [Varisie](./Varisie.md) où il est possible de fondre et de forger certains métaux comme l'[adamantium](./adamantium.md).
+Entièrement dirigées par des nains, les Forges à Gaz de [[Port-Énigme]] sont l'un des rares endroits de [[Varisie]] où il est possible de fondre et de forger certains métaux comme l'[[adamantium]].
 
 {s:VoirAussiAvant}
-{s:VoirAussiElem|Le guide du joueur en VO de la campagne [Second Darkness](./Publications.md#AP3PG), voir la page sur [les publications sur le monde de Golarion](./Publications.md).}
+{s:VoirAussiElem|Le guide du joueur en VO de la campagne [[Golarion.Publications#AP3PG|Second Darkness]], voir la page sur [[Golarion.Publications|les publications sur le monde de Golarion]].}
 {s:VoirAussiAprès}

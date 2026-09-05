@@ -11,14 +11,14 @@ Categories:
 
 {s:uc}*Le personnage se tapit dans les ombres et frappe si rapidement que son adversaire a à peine le temps de réagir.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Int](./Int.md) 13, [Combat en aveugle](./Combat en aveugle.md), [Expertise du combat](./Expertise du combat.md), , [Science de la feinte](./Science de la feinte.md), [Traqueur au clair de lune](./Traqueur au clair de lune.md), 6 [rangs](./rang.md) en [Bluff](./Bluff.md), [vision dans le noir](./vision dans le noir.md) ou [vision nocturne](./vision nocturne.md)
+**Conditions.** [[Int]] 13, [[Combat en aveugle]], [[Expertise du combat]], , [[Science de la feinte]], [[Traqueur au clair de lune]], 6 [[rang|rangs]] en [[Bluff]], [[vision dans le noir]] ou [[vision nocturne]]
 
-**Avantage.** Une fois par round, quand le personnage est [camouflé](./camouflage.md) aux yeux d’un adversaire, il peut utiliser une [action rapide](./Action rapide.md) pour faire une [feinte](./feinte.md) avec un test de [Bluff](./Bluff.md).
+**Avantage.** Une fois par round, quand le personnage est [[camouflage|camouflé]] aux yeux d’un adversaire, il peut utiliser une [[action rapide]] pour faire une [[feinte]] avec un test de [[Bluff]].
 
-**Normal.** La feinte est une [action simple](./Action simple.md).
+**Normal.** La feinte est une [[action simple]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage effectue un test de [Bluff](./Bluff.md) pour faire une [feinte](./feinte.md) à l’attention d’un adversaire contre lequel il bénéficie d’un [camouflage](./camouflage.md), il peut dépenser jusqu’à 5 points d’endurance pour bénéficier d’un bonus au test égal au double du nombre de points d’endurance dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage effectue un test de [[Bluff]] pour faire une [[feinte]] à l’attention d’un adversaire contre lequel il bénéficie d’un [[camouflage]], il peut dépenser jusqu’à 5 points d’endurance pour bénéficier d’un bonus au test égal au double du nombre de points d’endurance dépensés.

@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Si un adversaire fait tomber le personnage, il se relève instantanément. *
 
-**Conditions.** [Réserve de ki](./Moine.md#RESERVEDEKI)
+**Conditions.** [[Moine#RESERVEDEKI|Réserve de ki]]
 
-**Avantage.** Tant que le personnage a au moins 1 point de ki dans sa réserve, il peut se relever par une [action rapide](./Action rapide.md) qui provoque des attaques d’opportunité.
+**Avantage.** Tant que le personnage a au moins 1 point de ki dans sa réserve, il peut se relever par une [[action rapide]] qui provoque des attaques d’opportunité.
 
-Il peut dépenser 1 point de cette réserve pour se relever par une [action rapide](./Action rapide.md) qui ne déclenche pas d’[attaque d’opportunité](./attaque dopportunité.md).
+Il peut dépenser 1 point de cette réserve pour se relever par une [[action rapide]] qui ne déclenche pas d’[[attaque dopportunité|attaque d’opportunité]].

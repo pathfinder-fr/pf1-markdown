@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.196*}
 {s:BDTexte|**PX** 2 400 px}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, CN}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, CN}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 14, pris au dépourvu 15 (Dex +4, esquive +1, naturelle +6, taille -1)}
 {s:BDTexte|**pv** 68 (8d8+32)}
@@ -26,23 +26,23 @@ Categories:
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDTexte|**Attaques spéciales** hypnose, attaque sournoise +3d6}
 {s:BDTexte|**Sorts connus** (NLS 8 ; concentration +8)}
-{s:BDSorts|2 (5/jour) — *[invisibilité](./Invisibilité.md)*, *[rayon ardent](./Rayon ardent.md)*}
-{s:BDSorts|1 (7/jour) — *[charme-personne](./Charme-personne.md)* ([DD](./DD.md) 14), *[projectile magique](./Projectile magique.md)*, *[rayon affaiblissant](./Rayon affaiblissant.md)* ([DD](./DD.md) 14), *[repli expéditif](./Repli expéditif.md)*}
-{s:BDSorts|0 (à volonté) — *[destruction de mort-vivant](./Destruction de mort-vivant.md)*, *[détection de la magie](./Détection de la magie.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*,  *[prestidigitation](./Prestidigitation.md)*, *[rayon de givre](./Rayon de givre.md)*}
+{s:BDSorts|2 (5/jour) — *[[invisibilité]]*, *[[rayon ardent]]*}
+{s:BDSorts|1 (7/jour) — *[[charme-personne]]* ([[DD]] 14), *[[projectile magique]]*, *[[rayon affaiblissant]]* ([[DD]] 14), *[[repli expéditif]]*}
+{s:BDSorts|0 (à volonté) — *[[destruction de mort-vivant]]*, *[[détection de la magie]]*, *[[manipulation à distance]]*, *[[ouverturefermeture|ouverture/fermeture]]*,  *[[prestidigitation]]*, *[[rayon de givre]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 19, **Con** 18, **Int** 13, **Sag** 16, **Cha** 17}
-{s:BDTexte|**BBA** +6, **BMO** +9, **DMD** 24 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Dispense de composantes matérielles](./Dispense de composantes matérielles.md)<sup>S</sup>, [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +8, [Bluff](./Bluff.md) +7, [Connaissances](./Connaissances.md) (mystères) +5, [Connaissances](./Connaissances.md) (nature) +9, [Diplomatie](./Diplomatie.md) +7, [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +14}
+{s:BDTexte|**BBA** +6, **BMO** +9, **DMD** 24 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Dispense de composantes matérielles]]<sup>S</sup>, [[Esquive]], [[Magie de guerre]], [[Réflexes surhumains]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Art de la magie]] +8, [[Bluff]] +7, [[Connaissances]] (mystères) +5, [[Connaissances]] (nature) +9, [[Diplomatie]] +7, [[Discrétion]] +14, [[Perception]] +14}
 {s:BDTexte|**Langues** aklo, commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire ou nid (2-4)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Hypnose (Sur).** Une fois par jour, en faisant onduler son corps et en sifflant, le naga lunaire peut faire scintiller ses écailles et leur donner l’éclat de la lune. Toutes les créatures situées dans un rayon de 9 mètres (6 {s:c}) et qui peuvent voir le naga doivent réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 17 pour éviter d’être [fascinées](./Fasciné.md). Le naga lunaire peut maintenir cet effet de fascination tant qu’il se concentre : les créatures [fascinées](./Fasciné.md) suivent le naga scintillant s’il se déplace, tant que celui-ci maintient les effets de l’hypnose en restant concentré. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
-{s:BDTexte|**Poison (Ext).** morsure-blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 18 ; *fréquence* 1/[round](./round.md) pendant 6 [rounds](./round.md) ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d3 [Con](./Constitution.md) et de 1 [Sag](./Sagesse.md), *guérison* 1 réussite.}
-{s:BDTexte|**Sorts (Mag).** Le naga lunaire peut lancer des sorts comme un [ensorceleur](./Ensorceleur.md) de niveau 5.}
+{s:BDTexte|**Hypnose (Sur).** Une fois par jour, en faisant onduler son corps et en sifflant, le naga lunaire peut faire scintiller ses écailles et leur donner l’éclat de la lune. Toutes les créatures situées dans un rayon de 9 mètres (6 {s:c}) et qui peuvent voir le naga doivent réussir un jet de [[Volonté]] [[DD]] 17 pour éviter d’être [[fasciné|fascinées]]. Le naga lunaire peut maintenir cet effet de fascination tant qu’il se concentre : les créatures [[fasciné|fascinées]] suivent le naga scintillant s’il se déplace, tant que celui-ci maintient les effets de l’hypnose en restant concentré. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|**Poison (Ext).** morsure-blessure ; *JS* [[Vigueur]] [[DD]] 18 ; *fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; *effet* [[affaiblissement temporaire]] 1d3 [[Constitution|Con]] et de 1 [[Sagesse|Sag]], *guérison* 1 réussite.}
+{s:BDTexte|**Sorts (Mag).** Le naga lunaire peut lancer des sorts comme un [[ensorceleur]] de niveau 5.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -51,17 +51,17 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Naga aquatique](./Naga aquatique.md) || 7
+| [[Naga aquatique]] || 7
 |-
-| [Naga corrupteur](./naga corrupteur.md) || 9
+| [[Naga corrupteur]] || 9
 |-
-| [Naga gardien](./Naga gardien.md) || 10
+| [[Naga gardien]] || 10
 |-
-| [Naga lunaire](./Naga lunaire.md) || 6
+| [[Naga lunaire]] || 6
 |-
-| [Naga royal](./Naga royal.md) || 11
+| [[Naga royal]] || 11
 |-
-| [Naga ténébreux](./Naga ténébreux.md) || 8
+| [[Naga ténébreux]] || 8
 |}
 </div>*Le beau visage de cette femme est encadré d’une chevelure d’un blanc parfait et ses écailles noires brillent de manière hypnotique.*
 

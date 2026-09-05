@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Solide
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Solide](./Descriptions individuelles des propriétés spéciales des armes.md#Solide)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Solide]]

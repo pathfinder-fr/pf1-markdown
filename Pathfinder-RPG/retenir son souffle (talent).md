@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#RETENIRSONSOUFFLE
 ---
 
->>> [Talents#RETENIRSONSOUFFLE](./Talents.md#RETENIRSONSOUFFLE)
+>>> [[Talents#RETENIRSONSOUFFLE]]

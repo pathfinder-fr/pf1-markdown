@@ -39,7 +39,7 @@ L'équipe responsable ne peut naturellement pas avoir une réponse à donner pou
 
 • La première fois que vous jouez un scénario, le personnage que vous incarnez reçoit une fiche de chronique qui lui octroie des points d'expérience, de l'or, des points de prestige, du renom, des avantages et la possibilité d'acheter des objets spéciaux découverts au cours de l'aventure.
 
-• Vous ne pouvez pas recevoir plus d'une chronique en tant que joueur ni plus d'une chronique en tant que MJ pour un même scénario, quel que soit le nombre de fois que vous avez joué ou maîtrisé celui-ci. Vous pouvez rejouer un scénario afin de compléter une table (voir [Chapitre 7](./PFSG-MJ.md)) mais, une fois que vous avez atteint la limite d'une seule fiche de chronique (en tant que joueur), vous ne pouvez plus gagner d'avantages supplémentaires.
+• Vous ne pouvez pas recevoir plus d'une chronique en tant que joueur ni plus d'une chronique en tant que MJ pour un même scénario, quel que soit le nombre de fois que vous avez joué ou maîtrisé celui-ci. Vous pouvez rejouer un scénario afin de compléter une table (voir [[PFSG-MJ|Chapitre 7]]) mais, une fois que vous avez atteint la limite d'une seule fiche de chronique (en tant que joueur), vous ne pouvez plus gagner d'avantages supplémentaires.
 
 Un joueur qui rejoue un scénario afin de permettre à une table d'atteindre le nombre de joueurs minimum (et seulement dans ce cas) devra recevoir une feuille de Chronique pour le scénario, mais elle elle mentionnera 0 or, 0 Renom, 0 XP; elle ne permet pas au personnage de faire un jet de métier, ne donne pas de récompense, d'accès à des objets ou quoique ce soit d'autre mentionné sur la Chronique qui aurait pu être gagné dans le scénario. Cette Chronique ne sert que d'emplacement pour indiquer que le personnage a participé à l'aventure, et permet de mentionner les consommables utilisés, les achats ou les conditions reportables. Il s'agit de la seule exception à la règle interdisant d'avoir deux fois la même Chronique assignée au même personnage.
 
@@ -49,7 +49,7 @@ Un joueur qui rejoue un scénario afin de permettre à une table d'atteindre le 
 
 Il y a deux exceptions à ces règles.
 
-Tous les [++Aventures.PFSG-Glossaire#SCENARIO|scénarios] de [++Aventures.PFSG-Glossaire#CATEGORIE|catégorie 1] et les [++Aventures.PFSG-Glossaire#ADAPTABLE|modules autorisés] de [++Aventures.PFSG-Glossaire#CATEGORIE|catégorie 1-2] peuvent être rejoués plusieurs fois avec des personnages du 1er niveau, en recevant toutes les récompenses. Les [++Aventures.PFSG-Glossaire#ADAPTABLE|modules autorisés] peuvent également être joués une fois avec un personnage du 2e niveau. Vous pouvez ensuite les rejouer avec des personnages du 1er niveau, en recevant toutes les récompenses, même après les avoir joués avec un personnage de  2e niveau. Les MJ peuvent recevoir une nouvelle chronique chaque fois qu'ils font jouer un scénario de catégorie 1 ou un module autorisé de catégorie 1-2, mais ils ne peuvent les attribuer qu'une seule fois à un personnage du 2e niveau.
+Tous les [[Aventures.PFSG-Glossaire#SCENARIO|scénarios]] de [[Aventures.PFSG-Glossaire#CATEGORIE|catégorie 1]] et les [[Aventures.PFSG-Glossaire#ADAPTABLE|modules autorisés]] de [[Aventures.PFSG-Glossaire#CATEGORIE|catégorie 1-2]] peuvent être rejoués plusieurs fois avec des personnages du 1er niveau, en recevant toutes les récompenses. Les [[Aventures.PFSG-Glossaire#ADAPTABLE|modules autorisés]] peuvent également être joués une fois avec un personnage du 2e niveau. Vous pouvez ensuite les rejouer avec des personnages du 1er niveau, en recevant toutes les récompenses, même après les avoir joués avec un personnage de  2e niveau. Les MJ peuvent recevoir une nouvelle chronique chaque fois qu'ils font jouer un scénario de catégorie 1 ou un module autorisé de catégorie 1-2, mais ils ne peuvent les attribuer qu'une seule fois à un personnage du 2e niveau.
 
 En complément, les MJ de la campagne qui sont récompensés pour leurs efforts en recevant des étoiles, peuvent recevoir le droit d'appliquer des chroniques supplémentaires (en tant que joueur ou de MJ) à un certain nombre de scénarios supérieurs à la catégorie 1, dans la limite d'un par étoile. Par exemple, un MJ 3 étoiles peut jouer ou maitriser jusqu'à trois scénarios pour lequel il a déjà reçu des chroniques, et recevoir de nouveau une feuille de chronique en plus des deux autorisées pour le même scénario. Quand un scénario est rejoué avec le bénéfice des étoiles de MJ, le MJ qui remplit la feuille de chronique doit mentionner le texte suivant dans la section - Notes-  de la feuille: "MJ Crédit 1 étoile utilisée", pour formaliser cette utilisation. Le crédit d'étoiles des MJ se renouvelle chaque année le premier jour des évènements PFS à GenCon.
 
@@ -108,9 +108,9 @@ Quelle que soit la vitesse de progression de votre Éclaireur, celui-ci gagne un
 
 
 #### Étape 2 : le métier
-Tous les Éclaireurs ne travaillent pas jour et nuit pour la Société. Certains ont reçu une formation d'artisans, de professionnels d'un certain métier ou encore d'artistes, et gagnent un peu d'argent entre deux missions. Pendant ces temps morts, vous pouvez tenter un test d'[Artisanat](./../Pathfinder-RPG/Artisanat.md), de [Profession](./../Pathfinder-RPG/Profession.md) ou de [Représentation](./../Pathfinder-RPG/Représentation.md) (une compétence avec au moins 1 rang) pour voir combien d'argent vous gagnez ; c'est ce qu'on appelle un test de métier. Dans la campagne organisée de la Société des Éclaireurs, vous faites un test de métier à la fin de chaque aventure. Certaines [vanités](./PFSG-Glossaire.md#VANITES) (*Pathfinder Society Field Guide*, pg 60) vous permettent de modifier le résultat de vos tests de métier ou même d'utiliser des rangs provenant d'autres compétences plus spécialisées comme [Représentation](./../Pathfinder-RPG/Représentation.md) ou  [Escamotage](./../Pathfinder-RPG/Escamotage.md).
+Tous les Éclaireurs ne travaillent pas jour et nuit pour la Société. Certains ont reçu une formation d'artisans, de professionnels d'un certain métier ou encore d'artistes, et gagnent un peu d'argent entre deux missions. Pendant ces temps morts, vous pouvez tenter un test d'[[Pathfinder-RPG.Artisanat|Artisanat]], de [[Pathfinder-RPG.Profession|Profession]] ou de [[Pathfinder-RPG.Représentation|Représentation]] (une compétence avec au moins 1 rang) pour voir combien d'argent vous gagnez ; c'est ce qu'on appelle un test de métier. Dans la campagne organisée de la Société des Éclaireurs, vous faites un test de métier à la fin de chaque aventure. Certaines [[Aventures.PFSG-Glossaire#VANITES|vanités]] (*Pathfinder Society Field Guide*, pg 60) vous permettent de modifier le résultat de vos tests de métier ou même d'utiliser des rangs provenant d'autres compétences plus spécialisées comme [[Pathfinder-RPG.Représentation|Représentation]] ou  [[Pathfinder-RPG.Escamotage|Escamotage]].
 
-Les bonus permanents provenant de votre équipement, de vos dons, de votre race ou de vos traits affectent votre test de métier. Cependant, les bonus temporaires, comme ceux octroyés par un sort, à l'exception de *crafter's fortune*, ne sont pas pris en compte car la durée concernée par un test de métier n'est pas définie précisément et représente un intervalle de temps bien plus long que la durée d'effet du sort. Vous pouvez '[faire 10](./Pathfinder-RPG-Compétences-ashx.md#FAIRE10)' lors d'un test de métier, mais pas '[faire 20](./Pathfinder-RPG-Compétences-ashx.md#FAIRE10)' ni [aider](./Pathfinder-RPG-Actions-spéciales-ashx.md#AIDERQQN) quelqu'un d'autre.
+Les bonus permanents provenant de votre équipement, de vos dons, de votre race ou de vos traits affectent votre test de métier. Cependant, les bonus temporaires, comme ceux octroyés par un sort, à l'exception de *crafter's fortune*, ne sont pas pris en compte car la durée concernée par un test de métier n'est pas définie précisément et représente un intervalle de temps bien plus long que la durée d'effet du sort. Vous pouvez '[[Pathfinder-RPG.Compétences.ashx#FAIRE10|faire 10]]' lors d'un test de métier, mais pas '[[Pathfinder-RPG.Compétences.ashx#FAIRE10|faire 20]]' ni [[Pathfinder-RPG.Actions spéciales.ashx#AIDERQQN|aider]] quelqu'un d'autre.
 
 Consultez la table 5-1 ci-contre pour déterminer combien vous gagnez grâce à votre test de métier. Ajoutez ce montant à la case "Métier" de votre chronique.
 
@@ -125,7 +125,7 @@ Un MJ doit être présent pour que vous puissiez acheter un objet. Ainsi, vous p
 
 Certains objets sont si précieux que l'or obtenu au cours d'un scénario ne suffit pas à les acheter. S'il vous est impossible d'acheter un tel objet immédiatement, vous pouvez économiser votre or et l'acquérir pendant ou après une autre aventure. On considère que tous les objets cités sur les fiches de chronique restent disponibles à l'achat à tout moment, qu'il s'agisse de votre première fiche ou de votre 21e fiche de chronique. Les seules exceptions sont les objets qui possèdent une limite d'achat. Au cours de la vie de votre personnage, vous êtes limités à un nombre maximal d'achats de cet objet (le nombre est spécifié sur la fiche de chronique).
 
-Les personnages peuvent acheter toutes les armes ou pièces d'équipement (mentionnée sur les fiches de chronique ou sur les listes d'objets approuvés), correspondant à leur taille, pour autant que cette taille soit Petite ou Moyenne. Ainsi, si une fiche de chronique donne à un PJ de taille P la possibilité d'acheter une *épée longue +1 de froid*, il peut toujours acheter une *épée longue +1 de froid* de taille P. Par contre, les objets trouvés au cours de l'aventure ont eux une taille propre au moment où ils sont découverts. Leur taille ne peut être ajustée (vers le haut ou vers le bas) qu'une fois l'aventure terminée, quand les PJ font leurs achats. Les PJ qui achètent de l'équipement d'une autre taille que P et M doivent modifier les prix en fonction des [règles existantes](./Pathfinder-RPG-Caractéristiques-des-armures-ashx.md#Armures_pour_créatures_inhabituelles_2) (*Manuel des joueurs*, pg 153).
+Les personnages peuvent acheter toutes les armes ou pièces d'équipement (mentionnée sur les fiches de chronique ou sur les listes d'objets approuvés), correspondant à leur taille, pour autant que cette taille soit Petite ou Moyenne. Ainsi, si une fiche de chronique donne à un PJ de taille P la possibilité d'acheter une *épée longue +1 de froid*, il peut toujours acheter une *épée longue +1 de froid* de taille P. Par contre, les objets trouvés au cours de l'aventure ont eux une taille propre au moment où ils sont découverts. Leur taille ne peut être ajustée (vers le haut ou vers le bas) qu'une fois l'aventure terminée, quand les PJ font leurs achats. Les PJ qui achètent de l'équipement d'une autre taille que P et M doivent modifier les prix en fonction des [[Pathfinder-RPG.Caractéristiques des armures.ashx#Armures_pour_créatures_inhabituelles_2|règles existantes]] (*Manuel des joueurs*, pg 153).
 
 #### Étape 4 : le prestige
 
@@ -133,16 +133,16 @@ Chaque scénario vous donne l'occasion de gagner jusqu'à un maximum de 2 points
 
 
 ### Les classes de prestige
-{s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20L.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}es conditions spéciales des [classes de prestige](./Pathfinder-RPG-Classes-de-prestige-ashx.md) (comme les cérémonies particulières ou tuer un démon) sont abandonnées dans la Société des Éclaireurs. Opérez les ajustements ci-dessous si vous désirez prendre des niveaux en [Gardien du savoir](./../Pathfinder-RPG/Gardien du savoir.md) ou en [Chroniqueur](./../Pathfinder-RPG/Chroniqueur.md). Des options supplémentaires (et tous ajustements mineurs nécessaires) se trouvent dans les [^http://paizo.com/pathfinderSociety/about/additionalResources|ressources additionnelles].
+{s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20L.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}es conditions spéciales des [[Pathfinder-RPG.Classes de prestige.ashx|classes de prestige]] (comme les cérémonies particulières ou tuer un démon) sont abandonnées dans la Société des Éclaireurs. Opérez les ajustements ci-dessous si vous désirez prendre des niveaux en [[Pathfinder-RPG.Gardien du savoir|Gardien du savoir]] ou en [[Pathfinder-RPG.Chroniqueur|Chroniqueur]]. Des options supplémentaires (et tous ajustements mineurs nécessaires) se trouvent dans les [ressources additionnelles](http://paizo.com/pathfinderSociety/about/additionalResources).
 
-**Gardien du savoir :** la condition "Trois [dons de métamagie](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md#_1) ou de [création d'objet](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md#_0)" devient "Trois [dons de métamagie](./Pathfinder-RPG-tableau-récapitulatif-des-dons-ashx.md#_1) ou d'[école renforcée](./../Pathfinder-RPG/École renforcée.md)".
+**Gardien du savoir :** la condition "Trois [[Pathfinder-RPG.tableau récapitulatif des dons.ashx#_1|dons de métamagie]] ou de [[Pathfinder-RPG.tableau récapitulatif des dons.ashx#_0|création d'objet]]" devient "Trois [[Pathfinder-RPG.tableau récapitulatif des dons.ashx#_1|dons de métamagie]] ou d'[[Pathfinder-RPG.École renforcée|école renforcée]]".
 
 **Chroniqueur :** cette classe de prestige n'exige plus de don de création d'objet.
 
 ### États préjudiciables, mort et objets à utilisation limitée
-{s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20Q.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}uand vous jouez votre propre personnage tous les [états](./../Pathfinder-RPG/États préjudiciables.md) (y compris la mort) non résolus au cours du scénario ou du module doivent être résolus avant la fin de l'aventure. De même, toutes richesses dépensées ou ressources utilisées au cours de l'aventure doivent être enregistrées sur la fiche de chronique.
+{s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20Q.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}uand vous jouez votre propre personnage tous les [[Pathfinder-RPG.États préjudiciables|états]] (y compris la mort) non résolus au cours du scénario ou du module doivent être résolus avant la fin de l'aventure. De même, toutes richesses dépensées ou ressources utilisées au cours de l'aventure doivent être enregistrées sur la fiche de chronique.
 
-Tous les [états](./../Pathfinder-RPG/États préjudiciables.md) à l'exception des pertes d'énergie permanentes, des drains de caractéristiques qui ne réduisent pas à 0 une [caractéristique](./../Pathfinder-RPG/Caractéristiques.md) et les états qui n'ont pas d'effets physiques doivent être soignés avant la fin de session, sinon le personnage n'est plus jouable, et doit être déclaré comme "mort" dans le rapport de session. Les niveaux négatifs permanents, les drains de caractéristiques et les états non mécaniques sont reportés sur les sessions ultérieures et doivent être mentionnés dans la section "Notes" de la feuille de chronique. Voir le chapitre 7 section [Gérer les afflictions](./PFSG-MJ.md#AFFLICTIONS) de ce document.
+Tous les [[Pathfinder-RPG.États préjudiciables|états]] à l'exception des pertes d'énergie permanentes, des drains de caractéristiques qui ne réduisent pas à 0 une [[Pathfinder-RPG.caractéristiques|caractéristique]] et les états qui n'ont pas d'effets physiques doivent être soignés avant la fin de session, sinon le personnage n'est plus jouable, et doit être déclaré comme "mort" dans le rapport de session. Les niveaux négatifs permanents, les drains de caractéristiques et les états non mécaniques sont reportés sur les sessions ultérieures et doivent être mentionnés dans la section "Notes" de la feuille de chronique. Voir le chapitre 7 section [[Aventures.PFSG-MJ#AFFLICTIONS|Gérer les afflictions]] de ce document.
 
 La mort fait partie intégrante de tout jeu de rôle et malheureusement, cela arrive aussi dans les parties de la Société des Éclaireurs comme dans toute session classique de Pathfinder. Pour la Société des Éclaireurs, la règle de base stipule qu'un PJ mort au cours d'un scénario peut être ramené à la vie par un PJ de niveau et classe appropriés assis autour de sa table (en payant le coût requis), par un PNJ dans une communauté de taille appropriée (voir Table 5-2: Cout de lancement de sorts communs ci-dessous) ou par sa faction s'il a suffisamment de points de prestige.
 
@@ -155,49 +155,49 @@ Les PJ peuvent utiliser les récompenses mentionnées sur la feuille de chroniqu
 |- CLASS="titre"
 | Sort || Coût
 |- CLASS="premier"
-| *[++Pathfinder-RPG.Pénitence|Pénitence]* || 500 po (3 000 po pour restaurer</br>des pouvoirs de duide,</br>d'inquisiteur ou de prêtre)
+| *[[Pathfinder-RPG.Pénitence|Pénitence]]* || 500 po (3 000 po pour restaurer</br>des pouvoirs de duide,</br>d'inquisiteur ou de prêtre)
 |- CLASS="alt"
-| *[++Pathfinder-RPG.Annulation denchantement|Annulation d’enchantement]* || 450 po
+| *[[Pathfinder-RPG.Annulation denchantement|Annulation d’enchantement]]* || 450 po
 |-
-| *[++Pathfinder-RPG.Dissipation de la magie|Dissipation de la magie]* || 150 po
+| *[[Pathfinder-RPG.Dissipation de la magie|Dissipation de la magie]]* || 150 po
 |- CLASS="alt"
-| *[++Pathfinder-RPG.Dissipation suprême|Dissipation suprême]* || 660 po
+| *[[Pathfinder-RPG.Dissipation suprême|Dissipation suprême]]* || 660 po
 |-
-| *[++Pathfinder-RPG.Restauration suprême|Restauration suprême]* || 5 910 po
+| *[[Pathfinder-RPG.Restauration suprême|Restauration suprême]]* || 5 910 po
 |-
 |- CLASS="alt"
-| *[++Pathfinder-RPG.Guérison suprême|Guérison suprême]* || 660 po
+| *[[Pathfinder-RPG.Guérison suprême|Guérison suprême]]* || 660 po
 |-
-| *[++Pathfinder-RPG.Restauration partielle|Restauration partielle]* || 60 po
+| *[[Pathfinder-RPG.Restauration partielle|Restauration partielle]]* || 60 po
 |- CLASS="alt"
-| *[++Pathfinder-RPG.Réparation intégrale|Réparation intégrale]* || 60 po
+| *[[Pathfinder-RPG.Réparation intégrale|Réparation intégrale]]* || 60 po
 |-
-| *[++Pathfinder-RPG.Neutralisation du poison|Neutralisation du poison]* || 280 po
+| *[[Pathfinder-RPG.Neutralisation du poison|Neutralisation du poison]]* || 280 po
 |- CLASS="alt"
-| *[++Pathfinder-RPG.Rappel à la vie|Rappel à la vie]* || 5 450 po
+| *[[Pathfinder-RPG.Rappel à la vie|Rappel à la vie]]* || 5 450 po
 |-
-| *[++Pathfinder-RPG.Régénération|Régénération]* || 910 po
+| *[[Pathfinder-RPG.Régénération|Régénération]]* || 910 po
 |- CLASS="alt"
-| *[++Pathfinder-RPG.Guérison de la cécitésurdité|Guérison de la cécité/surdité]* || 150 po
+| *[[Pathfinder-RPG.Guérison de la cécitésurdité|Guérison de la cécité/surdité]]* || 150 po
 |-
-| *[++Pathfinder-RPG.Délivrance des malédictions|Délivrance des malédictions]* || 150 po
+| *[[Pathfinder-RPG.Délivrance des malédictions|Délivrance des malédictions]]* || 150 po
 |- CLASS="alt"
-| *[++Pathfinder-RPG.Guérison des maladies|Guérison des maladies]* || 150 po
+| *[[Pathfinder-RPG.Guérison des maladies|Guérison des maladies]]* || 150 po
 |-
-| *[++Pathfinder-RPG.Délivrance de la paralysie|Délivrance de la paralysie]* || 50 po
+| *[[Pathfinder-RPG.Délivrance de la paralysie|Délivrance de la paralysie]]* || 50 po
 |- CLASS="alt"
-| *[++Pathfinder-RPG.Restauration|Restauration]* || 380 po (ou 1 280 pour dissiper</br>un niveau négatif permanent)
+| *[[Pathfinder-RPG.Restauration|Restauration]]* || 380 po (ou 1 280 pour dissiper</br>un niveau négatif permanent)
 |-
-| *[++Pathfinder-RPG.Résurrection|Résurrection]* || 10 910 po
+| *[[Pathfinder-RPG.Résurrection|Résurrection]]* || 10 910 po
 |- CLASS="alt"
-| *[++Pathfinder-RPG.Résurrection suprême|Résurrection suprême]* || 26 530 po
+| *[[Pathfinder-RPG.Résurrection suprême|Résurrection suprême]]* || 26 530 po
 |}
 
-{s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20D.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}ans la *Campagne Organisée de la Société des Éclaireurs*, vous ne pouvez jamais acheter, vendre ou échanger des objets avec d'autres joueurs. Néanmoins, vous pouvez permettre à un autre joueur d'emprunter un objet pour la durée du scénario. Vous êtes aussi autorisé à dépenser l'or de votre personnage pour aider un membre du groupe à payer un lancement de sort, comme *[++Pathfinder-RPG.Rappel à la vie|Rappel à la vie]* ou *[++Pathfinder-RPG.Guérison des maladies|Guérison des maladies]*.
+{s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20D.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}ans la *Campagne Organisée de la Société des Éclaireurs*, vous ne pouvez jamais acheter, vendre ou échanger des objets avec d'autres joueurs. Néanmoins, vous pouvez permettre à un autre joueur d'emprunter un objet pour la durée du scénario. Vous êtes aussi autorisé à dépenser l'or de votre personnage pour aider un membre du groupe à payer un lancement de sort, comme *[[Pathfinder-RPG.Rappel à la vie|Rappel à la vie]]* ou *[[Pathfinder-RPG.Guérison des maladies|Guérison des maladies]]*.
 
 Si un équipement trouvé, mais pas encore acheté, est cassé ou perdu au cours du scénario, vous pouvez encore l'acquérir lors des achats à la fin du scénario. Les objets trouvés à utilisation limitée, comme les potions ou les parchemins, peuvent être utilisés gratuitement au cours du scénario, mais ils devront être payés si vous souhaitez les conserver dans de futurs scénarios.
 
-Pour faciliter le jeu, un [++Pathfinder-RPG.Artisanat#OBJETMAITRE|objet de qualité de maître] peut toujours devenir un objet +1 sans repayer le coût pour obtenir une qualité de maître. À la place, vous payez la différence de prix entre le coût de l'objet +1 et celui de l'objet de maître. Cette règle s'applique aussi pour l'amélioration d'un objet +1 vers un objet +2, et ainsi de suite. Vous n'avez jamais besoin de repayer le coût originel ou vendre à moitié prix l'objet en question pour l'améliorer au cran supérieur. Cela ne s'applique que pour les objets du même genre : vous ne pouvez pas, par exemple, transformer votre rapière de maître en épée à deux mains +1. Un objet ordinaire ne peut obtenir la qualité de maître, tout comme les aspects non magiques d'un équipement ne peuvent être améliorés (comme la valeur de force d'un arc composite).
+Pour faciliter le jeu, un [[Pathfinder-RPG.Artisanat#OBJETMAITRE|objet de qualité de maître]] peut toujours devenir un objet +1 sans repayer le coût pour obtenir une qualité de maître. À la place, vous payez la différence de prix entre le coût de l'objet +1 et celui de l'objet de maître. Cette règle s'applique aussi pour l'amélioration d'un objet +1 vers un objet +2, et ainsi de suite. Vous n'avez jamais besoin de repayer le coût originel ou vendre à moitié prix l'objet en question pour l'améliorer au cran supérieur. Cela ne s'applique que pour les objets du même genre : vous ne pouvez pas, par exemple, transformer votre rapière de maître en épée à deux mains +1. Un objet ordinaire ne peut obtenir la qualité de maître, tout comme les aspects non magiques d'un équipement ne peuvent être améliorés (comme la valeur de force d'un arc composite).
 
 En outre, les objets magiques dont la fréquence d'utilisation est inférieure à 1 fois par jour (comme 1 fois par semaine ou 1 fois par mois) sont considérés avoir une fréquence de 1 fois par scénario.
 
@@ -208,7 +208,7 @@ Pour faciliter le jeu dans la *Campagne Organisée de la Société des Éclaireu
 #### Objets toujours disponibles
 Vous pouvez toujours acheter les objets ci-dessous tant que vous êtes dans une communauté de taille appropriée (voir ci-dessus) :
 
-• toute armure de base, tout équipement, tout objet et toute arme du chapitre 6 du *Manuel des joueurs*, y compris les objets de petite et grande taille. Cela n'inclut l'équipement pas l'équipement fait en peau de dragon, mais cela inclut l'équipement fabriqué à partir des matériaux spéciaux comme l'argent alchimique ou le fer froid (voir [++Pathfinder-RPG.Matériaux spéciaux|les matériaux spéciaux]) . Toute arme, armure, matériel ou substance alchimique ordinaire (sans aucune magie) figurant dans toute source légale du jeu est toujours disponible.
+• toute armure de base, tout équipement, tout objet et toute arme du chapitre 6 du *Manuel des joueurs*, y compris les objets de petite et grande taille. Cela n'inclut l'équipement pas l'équipement fait en peau de dragon, mais cela inclut l'équipement fabriqué à partir des matériaux spéciaux comme l'argent alchimique ou le fer froid (voir [[Pathfinder-RPG.Matériaux spéciaux|les matériaux spéciaux]]) . Toute arme, armure, matériel ou substance alchimique ordinaire (sans aucune magie) figurant dans toute source légale du jeu est toujours disponible.
 
 • armes +1 (2 000 po + 300 pour le coût du travail de maître + le coût de l'objet)
 
@@ -229,24 +229,24 @@ Hormis le matériel ci-dessus, votre personnage est limité aux objets de ses fi
 Les objets doivent être payés à leur pleine valeur. Cela signifie que vous ne pouvez acheter d'armes ou armures cassées, ni de baguettes, bâtons ou sceptres partiellement chargés ; vous devez aussi acheter les munitions en lot entier (habituellement 10 ou 20 pour les munitions ordinaires, 50 pour les munitions magiques). Vous pouvez acheter des objets moins chers que leur prix normal uniquement s'ils apparaissent ainsi dans la fiche de chronique.
 
 #### Potions, parchemins et baguettes
-Dans la *Campagne Organisée de la Société des Éclaireurs*, tous les parchemins, potions, baguettes et autres objets à usage limité sont fabriqués par des prêtres, druides ou magiciens.<!~~Les sorts qui ne sont pas sur les listes de prêtre, druide ou magicien sont les seules exceptions. ndt: J'ai beau relire cette phrase n'a pas de sens dans le contexte~~> Par exemple, un parchemin de *[++Pathfinder-RPG.Restauration partielle|Restauration partielle]* doit être payé comme un parchemin de niveau 2 issu de la liste de prêtre et non comme un parchemin de niveau 1 issu de la liste de paladin. Si un sort figure sur deux listes différentes, à deux niveaux différents, utilisez le niveau le plus bas. Par exemple, *[++Pathfinder-RPG.Empoisonnement|Empoisonnement]* sera évalué comme un sort de druide de niveau 3 et non comme un sort de prêtre de niveau 4. Tous les parchemins, potions et baguettes sont accessibles au niveau de lanceur de sort minimum, à moins qu'ils ne figurent à un niveau supérieur sur la fiche de chronique.
+Dans la *Campagne Organisée de la Société des Éclaireurs*, tous les parchemins, potions, baguettes et autres objets à usage limité sont fabriqués par des prêtres, druides ou magiciens.<!~~Les sorts qui ne sont pas sur les listes de prêtre, druide ou magicien sont les seules exceptions. ndt: J'ai beau relire cette phrase n'a pas de sens dans le contexte~~> Par exemple, un parchemin de *[[Pathfinder-RPG.Restauration partielle|Restauration partielle]]* doit être payé comme un parchemin de niveau 2 issu de la liste de prêtre et non comme un parchemin de niveau 1 issu de la liste de paladin. Si un sort figure sur deux listes différentes, à deux niveaux différents, utilisez le niveau le plus bas. Par exemple, *[[Pathfinder-RPG.Empoisonnement|Empoisonnement]]* sera évalué comme un sort de druide de niveau 3 et non comme un sort de prêtre de niveau 4. Tous les parchemins, potions et baguettes sont accessibles au niveau de lanceur de sort minimum, à moins qu'ils ne figurent à un niveau supérieur sur la fiche de chronique.
 
-Par souci de simplicité, il n'y a aucune différence entre un parchemin ou une baguette profane et divin dans la Campagne Organisée de la Société des Éclaireurs. Ainsi, un barde et un prêtre peuvent tout deux utiliser le même parchemin de *[++Pathfinder-RPG.Soins modérés|Soins modérés]*.
+Par souci de simplicité, il n'y a aucune différence entre un parchemin ou une baguette profane et divin dans la Campagne Organisée de la Société des Éclaireurs. Ainsi, un barde et un prêtre peuvent tout deux utiliser le même parchemin de *[[Pathfinder-RPG.Soins modérés|Soins modérés]]*.
 
 Enfin, les parchemins des sorts de niveau 7 ou plus ne sont pas autorisés pour les personnages en dessous du niveau 12, sauf s'ils sont spécifiquement mentionnés sur une fiche de chronique.
 
 
 #### Lancement de sorts
-Parfois, des choses terribles arrivent aux aventuriers. Après une nuit passée à se défouler dans les égouts, vos blessures peuvent être infectées par une répugnante maladie : vous pourriez même en mourir. Après, et parfois pendant, un scénario, vous pouvez guérir les afflictions de votre personnage. Vous pouvez bénéficier d'un sort jeté sur vous, pour un coût en po à déduire de votre pécule. Si vous n'avez pas assez d'argent, les autres joueurs autour de la table peuvent participer pour vous remettre sur pied, mais ils ne peuvent y être obligés. De plus, votre faction peut vous aider dans certaines situations, tant que vous avez suffisamment de points de prestige à dépenser en échange de cette aide. (voir [++Aventures.PFSG-Règles#RENOM|renom et prestige]). Tout lancement de sorts acheté en utilisant des points de prestige se fait au niveau de lanceur de sort minimum.
+Parfois, des choses terribles arrivent aux aventuriers. Après une nuit passée à se défouler dans les égouts, vos blessures peuvent être infectées par une répugnante maladie : vous pourriez même en mourir. Après, et parfois pendant, un scénario, vous pouvez guérir les afflictions de votre personnage. Vous pouvez bénéficier d'un sort jeté sur vous, pour un coût en po à déduire de votre pécule. Si vous n'avez pas assez d'argent, les autres joueurs autour de la table peuvent participer pour vous remettre sur pied, mais ils ne peuvent y être obligés. De plus, votre faction peut vous aider dans certaines situations, tant que vous avez suffisamment de points de prestige à dépenser en échange de cette aide. (voir [[Aventures.PFSG-Règles#RENOM|renom et prestige]]). Tout lancement de sorts acheté en utilisant des points de prestige se fait au niveau de lanceur de sort minimum.
 
-D'une manière générale, vous pouvez payer pour avoir des sorts lancés sur vous durant le scénario tant que vous êtes dans une communauté ou que vous avez accès à une église, un temple, un autel ou un mystique errant. La page 163 du *Manuel des joueurs* ([++Pathfinder-RPG.Lancement de sorts et services|Lancement de sorts et services]) couvre les règles pour l'achat d'un lancement de sorts et les coûts associés sont affichés dans le tableau Lancement de sorts et services page 157 ([++Pathfinder-RPG.Lancement de sorts et services|tableau en haut de la page]).
+D'une manière générale, vous pouvez payer pour avoir des sorts lancés sur vous durant le scénario tant que vous êtes dans une communauté ou que vous avez accès à une église, un temple, un autel ou un mystique errant. La page 163 du *Manuel des joueurs* ([[Pathfinder-RPG.Lancement de sorts et services|Lancement de sorts et services]]) couvre les règles pour l'achat d'un lancement de sorts et les coûts associés sont affichés dans le tableau Lancement de sorts et services page 157 ([[Pathfinder-RPG.Lancement de sorts et services|tableau en haut de la page]]).
 
 Dans la *Campagne Organisée de la Société des Éclaireurs*, les PJ peuvent acheter les sorts dont le coût dépasse 3 000 po uniquement dans les communautés de plus 5 000 habitants. Toute communauté plus petite aura un mystique, un prêtre ou un magicien qui ne pourra lancer que des sorts inférieurs à ce coût de 3 000 po. Un PJ ne pourra jamais s'offrir les services d'un lanceur de sort itinérant : en d'autres termes, le magicien d'une ville locale n'accompagnera jamais, à aucun prix, les PJ dans leur mission pour pénétrer dans le château hanté du coin.
 
 Les sorts de niveau 7 ou plus ne sont pas disponibles dans le cadre d'un lancement de sorts. Les personnes capables de jeter de tels sorts sont plutôt rares et, en tant que tels, ne peuvent simplement pas être employés pour des lancements de sorts aussi élevés. Les seules exceptions à cette règle sont les sorts de niveau 7 et plus référencés comme étant disponibles pour votre faction.
 
 #### Sorts
-Les sorts suivants du *Manuel des joueurs* ne sont pas légaux et ne peuvent jamais être utilisés, trouvés, achetés ou appris, sous aucune forme, par les PJ jouant les scénarios de la Société des Éclaireurs : *[++Pathfinder-RPG.Éveil|Éveil]*, *[++Pathfinder-RPG.Permanence|Permanence]* et *[++Pathfinder-RPG.Réincarnation|Réincarnation]*.
+Les sorts suivants du *Manuel des joueurs* ne sont pas légaux et ne peuvent jamais être utilisés, trouvés, achetés ou appris, sous aucune forme, par les PJ jouant les scénarios de la Société des Éclaireurs : *[[Pathfinder-RPG.Éveil|Éveil]]*, *[[Pathfinder-RPG.Permanence|Permanence]]* et *[[Pathfinder-RPG.Réincarnation|Réincarnation]]*.
 
 Tous les sorts et effets s'achèvent à la fin d'un scénario avec les exceptions suivantes :
 
@@ -254,7 +254,7 @@ Tous les sorts et effets s'achèvent à la fin d'un scénario avec les exception
 
 • les affections et états préjudiciables infligés au cours d'un scénario se poursuivent jusqu'à leur guérison et continuent de scénario en scénario.
 
-• un personnage peut maintenir chacun des sorts suivants de scénario en scénario : *[++Pathfinder-RPG.Flamme éternelle|Flamme éternelle]*, *[++Pathfinder-RPG.Transformation de maître|Transformation de maître]*, *[++Pathfinder-RPG.Coffre secret|Coffre secret]* et *[++Pathfinder-RPG.Page secrète|Page secrète]*.
+• un personnage peut maintenir chacun des sorts suivants de scénario en scénario : *[[Pathfinder-RPG.Flamme éternelle|Flamme éternelle]]*, *[[Pathfinder-RPG.Transformation de maître|Transformation de maître]]*, *[[Pathfinder-RPG.Coffre secret|Coffre secret]]* et *[[Pathfinder-RPG.Page secrète|Page secrète]]*.
 
 {s:Reference|RENOM}
 
@@ -321,7 +321,7 @@ Vu que vous dépensez des points de prestige pour acquérir des biens, services 
 #### Acquérir du renom
 Chaque scénario vous donne l'opportunité de gagner 2 PP durant l'aventure. Ces points de prestige sont liés à la réalisation de votre mission, et sont décrits dans la section des conditions de succès de l'aventure. L'une de ces conditions devrait être évidente dès le début de l'aventure, tandis que la seconde peut nécessiter un peu de réflexion ou ne devenir apparente que lors du déroulement de l'aventure.
 
-Voir les [++Aventures.PFSG-Factions#Objectifs_de_faction_de_la_saison_F_28|objectifs de faction de la saison 5].
+Voir les [[Aventures.PFSG-Factions#Objectifs_de_faction_de_la_saison_F_28|objectifs de faction de la saison 5]].
 
 Un personnage en progression standard peut gagner deux PP dans un scénario, pour un total de 6 PP pour chaque niveau du personnage. Pour maintenir l'équilibre entre les personnages suivant les deux options de progressions différentes, ceux utilisant la progression lente ne peuvent gagner qu'un PP par scénario.
 
@@ -338,45 +338,45 @@ Le renom d'un personnage représente sa réputation et son statut au sein de la 
 |- CLASS="premier"
 | +4 sur un test de compétence<sup>2</sup> || 1 PP
 |- CLASS="alt"
-| *[Dissipation de la magie](./../Pathfinder-RPG/Dissipation de la magie.md)* || 1 PP
+| *[[Pathfinder-RPG.dissipation de la magie|Dissipation de la magie]]* || 1 PP
 |-
-| *[Restauration partielle](./../Pathfinder-RPG/Restauration partielle.md)* || 1 PP
+| *[[Pathfinder-RPG.restauration partielle|Restauration partielle]]* || 1 PP
 |- CLASS="alt"
-| *[Réparation intégrale](./../Pathfinder-RPG/Réparation intégrale.md)* || 1 PP
+| *[[Pathfinder-RPG.réparation intégrale|Réparation intégrale]]* || 1 PP
 |-
-| *[Guérison de la cécité/surdité](./../Pathfinder-RPG/Guérison de la cécitésurdité.md)* || 1 PP
+| *[[Pathfinder-RPG.guérison de la cécitésurdité|Guérison de la cécité/surdité]]* || 1 PP
 |- CLASS="alt"
-| *[Délivrance des malédictions](./../Pathfinder-RPG/Délivrance des malédictions.md)* || 1 PP
+| *[[Pathfinder-RPG.délivrance des malédictions|Délivrance des malédictions]]* || 1 PP
 |-
-| *[Guérison des maladies](./../Pathfinder-RPG/Guérison des maladies.md)* || 1 PP
+| *[[Pathfinder-RPG.guérison des maladies|Guérison des maladies]]* || 1 PP
 |- CLASS="alt"
-| *[Délivrance de la paralysie](./../Pathfinder-RPG/Délivrance de la paralysie.md)* || 1 PP
+| *[[Pathfinder-RPG.délivrance de la paralysie|Délivrance de la paralysie]]* || 1 PP
 |-
 | Achat gratuit jusqu'à 150 po<sup>3</sup> || 1 PP
 |- CLASS="alt"
-| *[Pénitence](./../Pathfinder-RPG/Pénitence.md)* || 2 PP (8 PP pour restaurer les</br>pouvoirs de prêtre/druide</br>/inquisiteur/paladin)
+| *[[Pathfinder-RPG.pénitence|Pénitence]]* || 2 PP (8 PP pour restaurer les</br>pouvoirs de prêtre/druide</br>/inquisiteur/paladin)
 |-
-| *[Annulation d’enchantement](./../Pathfinder-RPG/Annulation denchantement.md)* || 2PP
+| *[[Pathfinder-RPG.annulation denchantement|Annulation d’enchantement]]* || 2PP
 |- CLASS="alt"
-| *[Dissipation suprême](./../Pathfinder-RPG/Dissipation suprême.md)* || 2 PP
+| *[[Pathfinder-RPG.dissipation suprême|Dissipation suprême]]* || 2 PP
 |-
-| *[Neutralisation du poison](./../Pathfinder-RPG/Neutralisation du poison.md)* || 2 PP
+| *[[Pathfinder-RPG.neutralisation du poison|Neutralisation du poison]]* || 2 PP
 |- CLASS="alt"
-| *[Restauration](./../Pathfinder-RPG/Restauration.md)* || 2 PP (4 PP pour dissiper</br>un niveau négatif permanent)
+| *[[Pathfinder-RPG.restauration|Restauration]]* || 2 PP (4 PP pour dissiper</br>un niveau négatif permanent)
 |-
 | Achat gratuit jusqu'à 750 po<sup>3</sup> || 2 PP
 |- CLASS="alt"
-| *[Régénération](./../Pathfinder-RPG/Régénération.md)* || 3 PP
+| *[[Pathfinder-RPG.régénération|Régénération]]* || 3 PP
 |-
 | Récupération de votre corps</br>par une équipe de secours || 5 PP
 |- CLASS="alt"
-| *[Rappel à la vie](./../Pathfinder-RPG/Rappel à la vie.md)* || 16 PP
+| *[[Pathfinder-RPG.rappel à la vie|Rappel à la vie]]* || 16 PP
 |-
-| *[Restauration suprême](./../Pathfinder-RPG/Restauration suprême.md)* || 16 PP
+| *[[Pathfinder-RPG.restauration suprême|Restauration suprême]]* || 16 PP
 |- CLASS="alt"
-| *[Résurrection](./../Pathfinder-RPG/Résurrection.md)* || 32 PP
+| *[[Pathfinder-RPG.résurrection|Résurrection]]* || 32 PP
 |-
-| *[++Pathfinder-RPG.résurrection suprême|Résurrection suprême]* || 77 PP
+| *[[Pathfinder-RPG.résurrection suprême|Résurrection suprême]]* || 77 PP
 |- CLASS="note"
 | COLSPAN="2" | (1) Ajoutez +5 à ce coût si ce bénéfice est acheté en dehors d'une communauté</br>de 5 000 habitants ou plus.
 |- CLASS="note"
@@ -385,7 +385,7 @@ Le renom d'un personnage représente sa réputation et son statut au sein de la 
 | COLSPAN="2" | (3) Une fois par session, vous pouvez acquérir auprès de votre faction un unique objet</br>d'une valeur inférieure ou égale à ce prix en dépensant les PP appropriés. Les objets</br>ainsi achetés valent 0 po et ne peuvent être vendus.
 |}
 
-Les points de prestige d'un personnage reflètent les soutiens, le capital politique et les faveurs personnelles qu'il a accumulés grâce aux services rendus à l'organisation. Alors que la réputation d'un personnage peut lui procurer titres et privilèges, la dépense des points de prestige accordent des bénéfices plus tangibles par l'achat d'avantages, de faveurs, de lancements de sorts et d'autres services. En sus des récompenses de prestige génériques (listées dans le tableau 5-4), disponibles pour tous les Éclaireurs indépendamment de sa faction, chaque faction offre des récompenses de prestige spécifiques, disponibles uniquement pour ses membres, lesquelles sont décrites dans la description complète de chaque faction du *Pathfinder Society Field Guide*. Quelque soit le renom du personnage, le coût en PP de ces avantages et récompenses restent le même : un membre de la Grande Loge avec un score de 40 en renom doit dépenser 1 PP pour bénéficier du sort *[++Pathfinder-RPG.Délivrance des malédictions|Délivrance des malédictions]* ou *[++Pathfinder-RPG.Dissipation de la magie|Dissipation de la magie]*, tout comme un jeune initié avec 2 en renom.
+Les points de prestige d'un personnage reflètent les soutiens, le capital politique et les faveurs personnelles qu'il a accumulés grâce aux services rendus à l'organisation. Alors que la réputation d'un personnage peut lui procurer titres et privilèges, la dépense des points de prestige accordent des bénéfices plus tangibles par l'achat d'avantages, de faveurs, de lancements de sorts et d'autres services. En sus des récompenses de prestige génériques (listées dans le tableau 5-4), disponibles pour tous les Éclaireurs indépendamment de sa faction, chaque faction offre des récompenses de prestige spécifiques, disponibles uniquement pour ses membres, lesquelles sont décrites dans la description complète de chaque faction du *Pathfinder Society Field Guide*. Quelque soit le renom du personnage, le coût en PP de ces avantages et récompenses restent le même : un membre de la Grande Loge avec un score de 40 en renom doit dépenser 1 PP pour bénéficier du sort *[[Pathfinder-RPG.Délivrance des malédictions|Délivrance des malédictions]]* ou *[[Pathfinder-RPG.Dissipation de la magie|Dissipation de la magie]]*, tout comme un jeune initié avec 2 en renom.
 
 Un point de prestige dépensé l'est de façon permanente ; il n'est pas récupéré automatiquement comme un point de vie ou un point de caractéristique. Le personnage peut gagner davantage de points de prestige en complétant des missions de faction supplémentaires.
 
@@ -418,7 +418,7 @@ Tout Investigateur avec suffisamment de renom et d'expérience peut acheter des 
 
 Il est conseillé aux MJ de coopérer avec les joueurs afin de rendre facile et rapide la validation des Chroniques des romans. (.../...) ndt: la fin de la phrase n'est pas très cohérente avec le paragraphe précédent.
 
-(((**Note du traducteur**: Les joueurs peuvent imprimer un exemplaire de la fiche de chronique disponible dans la liste des Ressources Supplémentaires sur [^http://paizo.com/pathfinderSociety/about/additionalResources|paizo.com/pathfindersociety/about/additionalresources] et l'apporter, avec un exemplaire du roman associé, à un événement de la Société des Éclaireurs. Avant ou après une session de jeu, montrez simplement au MJ l'exemplaire du livre (physique ou numérique, au format PDF ou ePub nominativement filigrané) pour obtenir une signature sur votre fiche de chronique. Une fiche de chronique signée sert de preuve d'achat et vous n'avez plus besoin d'apporter un exemplaire du livre.
+(((**Note du traducteur**: Les joueurs peuvent imprimer un exemplaire de la fiche de chronique disponible dans la liste des Ressources Supplémentaires sur [paizo.com/pathfindersociety/about/additionalresources](http://paizo.com/pathfinderSociety/about/additionalResources) et l'apporter, avec un exemplaire du roman associé, à un événement de la Société des Éclaireurs. Avant ou après une session de jeu, montrez simplement au MJ l'exemplaire du livre (physique ou numérique, au format PDF ou ePub nominativement filigrané) pour obtenir une signature sur votre fiche de chronique. Une fiche de chronique signée sert de preuve d'achat et vous n'avez plus besoin d'apporter un exemplaire du livre.
 
 Jusqu'à récemment, chaque roman donnait droit à une fiche de chronique. Depuis cette année, une seule fiche contient les récompenses de 4 romans, et si les quatre romans sont validés alors cela débloque une récompense supplémentaire
 )))
@@ -456,9 +456,9 @@ Les T-shirts de la Campagne Organisée de la Société des Éclaireurs ci-dessou
 • T-shirt Goblinworks Kickstarter{br}
 • T-shirt *Pathfinder RPG Core Rulebook*
 
-Ces T-shirts existent en différentes tailles sur [^http://paizo.com/pathfinderSociety|paizo.com/pathfindersociety].
+Ces T-shirts existent en différentes tailles sur [paizo.com/pathfindersociety](http://paizo.com/pathfinderSociety).
 
-Si un joueur utilise un exemplaire physique du [^http://www.black-book-editions.fr/index.php?site_id=131|*Dossier de personnage*], il reçoit un nouveau lancer gratuit, comme s'il portait un T-shirt.
+Si un joueur utilise un exemplaire physique du [*Dossier de personnage*](http://www.black-book-editions.fr/index.php?site_id=131), il reçoit un nouveau lancer gratuit, comme s'il portait un T-shirt.
 
 Finalement, si un joueur a reçu un jeton Campaign Service Award en récompense de ses services rendus à la Société des Éclaireurs, il recevra un lancer gratuit une fois par scénario en présentant le jeton. Il pourra également remplacer son numéro de membre avec le numéro à trois chiffres mentionnés sur le jeton.
 
@@ -467,7 +467,7 @@ Finalement, si un joueur a reçu un jeton Campaign Service Award en récompense 
 De plus, quand un joueur utiliser un lancer gratuit, il peut présenter sa carte de membre de la Société des Éclaireurs et ajouter un bonus de +1 pour chaque étoile de MJ qu'il a gagné jusqu'à un maximum de +5.
 
 ### Playtests et erratas
-{s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20L.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}e Jeu de Rôle Pathfinder est un jeu vivant. Que ce soit sous la forme d'un playtest qui évolue, d'une conversion des règles 3.5 vers Pathfinder RPG, d'un errata ou d'une FAQ aux règles de base, parfois, les éléments de jeu changent au cours de la carrière d'un PJ. Les directives ci-dessous permettent aux joueurs de mettre à jour ou transformer des personnages existants afin d'utiliser les dernières règles. La liste des Ressources Supplémentaires sur [http://paizo.com/pathfinderSociety/about/additionalResources] fournit parfois davantage d'explications sur les conversions et les mises à jour, pour clarifier des règles disponibles sur du matériel n'appartenant pas au matériel de de base.
+{s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20L.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}e Jeu de Rôle Pathfinder est un jeu vivant. Que ce soit sous la forme d'un playtest qui évolue, d'une conversion des règles 3.5 vers Pathfinder RPG, d'un errata ou d'une FAQ aux règles de base, parfois, les éléments de jeu changent au cours de la carrière d'un PJ. Les directives ci-dessous permettent aux joueurs de mettre à jour ou transformer des personnages existants afin d'utiliser les dernières règles. La liste des Ressources Supplémentaires sur [http://paizo.com/pathfinderSociety/about/additionalResources](http://paizo.com/pathfinderSociety/about/additionalResources) fournit parfois davantage d'explications sur les conversions et les mises à jour, pour clarifier des règles disponibles sur du matériel n'appartenant pas au matériel de de base.
 
 Si vous modifiez votre personnage, vous devez décrire tous les changements sur votre prochaine chronique, dans la section 'Objets vendus/Conditions acquises'. Votre MJ doit parapher cette section.
 
@@ -478,4 +478,4 @@ Si vous modifiez votre personnage, vous devez décrire tous les changements sur 
 **Si une classe ou une classe de prestige change de telle sorte que vous n'êtes plus compétent avec un type d'armure ou d'arme donné :** vous pouvez revendre le matériel concerné (et uniquement celui-là) au tarif plein.
 
 
-[Aventures.PFSG|Retour vers l'accueil du guide PFS]
+[[Aventures.PFSG|Retour vers l'accueil du guide PFS]]

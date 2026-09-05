@@ -10,14 +10,14 @@ Categories:
 
 {s:um}*Le personnage choisit s’il veut canaliser de l’énergie positive ou négative. *
 
-**Conditions.** [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE), nécromancien ou prêtre Neutre (voir plus bas)
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]], nécromancien ou prêtre Neutre (voir plus bas)
 
 **Avantage.** Le personnage fait un choix à chaque fois qu’il canalise.
 
-S’il canalise habituellement de l’énergie positive, il peut choisir la négative avec un niveau de [prêtre](./Prêtre.md) effectif réduit de 2.
+S’il canalise habituellement de l’énergie positive, il peut choisir la négative avec un niveau de [[prêtre]] effectif réduit de 2.
 
-S’il canalise habituellement de l’énergie négative, il peut choisir la positive avec un niveau de [prêtre](./Prêtre.md) effectif réduit de 2.
+S’il canalise habituellement de l’énergie négative, il peut choisir la positive avec un niveau de [[prêtre]] effectif réduit de 2.
 
-Si le personnage dispose de ce don, il remplit les conditions requises pour les dons et pouvoirs qui exigent une « canalisation d’énergie positive » ou une « canalisation d’énergie négative » (par exemple, il remplit les conditions du [Contrôle des morts-vivants](./Contrôle des morts-vivants.md) et du [Renvoi des morts-vivants](./Renvoi des morts-vivants.md)).
+Si le personnage dispose de ce don, il remplit les conditions requises pour les dons et pouvoirs qui exigent une « canalisation d’énergie positive » ou une « canalisation d’énergie négative » (par exemple, il remplit les conditions du [[Contrôle des morts-vivants]] et du [[Renvoi des morts-vivants]]).
 
 **À noter.** Ce don s’applique seulement aux nécromanciens, aux prêtres Neutres qui vénèrent des divinités Neutres ou aux prêtres Neutres qui ne vénèrent pas de dieu particulier : des personnages qui disposent de la canalisation d’énergie et doivent choisir s’ils canalisent de l’énergie positive ou négative au niveau 1. Ceux dont l’alignement ou la divinité ne permet pas de faire ce choix ne peuvent pas accéder à ce don.

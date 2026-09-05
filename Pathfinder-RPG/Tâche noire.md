@@ -11,22 +11,22 @@ Categories:
 ---
 
 {s:racial|Humain|humains|Illustrations/PNJ/Humain.jpg}{s:MR}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[malédiction, terreur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 7, [Sor](./Sorcière.md) 7  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction, terreur]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 7, [[sorcière|Sor]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (une fiole d'eau de mer)  
+**Composantes** [[COMPOSANTES|V, G, F]] (une fiole d'eau de mer)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature  
 
 **Durée** permanente  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage marque la cible d’une tache noire sur la peau. Il peut déterminer la forme exacte de la marque, mais elle ne peut pas être plus grande que sa main. La tache noire fonctionne comme la *[marque de la justice](./Marque de la justice.md)*. Une fois la marque activée, la victime est secouée dès qu’elle se trouve sur l’eau ou dans l’eau, à plus de 1,50 mètre du rivage. De plus, tant que la tache noire est active, sa victime est frappée par l’effet *[exilé par la nature](./Exilé par la nature.md)*, sauf que toutes les créatures de [sous-type eau](./sous-type Eau.md) ou [aquatique](./sous-type aquatique.md) ou possédant une vitesse de nage sont hostiles, même si elles ne sont pas de [type animal](./type Animal.md). En revanche, la tache n’affecte pas les autres animaux.
+Le personnage marque la cible d’une tache noire sur la peau. Il peut déterminer la forme exacte de la marque, mais elle ne peut pas être plus grande que sa main. La tache noire fonctionne comme la *[[marque de la justice]]*. Une fois la marque activée, la victime est secouée dès qu’elle se trouve sur l’eau ou dans l’eau, à plus de 1,50 mètre du rivage. De plus, tant que la tache noire est active, sa victime est frappée par l’effet *[[exilé par la nature]]*, sauf que toutes les créatures de [[sous-type eau]] ou [[sous-type aquatique|aquatique]] ou possédant une vitesse de nage sont hostiles, même si elles ne sont pas de [[type animal]]. En revanche, la tache n’affecte pas les autres animaux.
 
 ### Mythique
 {s:CMy}
-Chaque jour pendant lequel la créature affectée par ce sort se trouve sur l’eau ou dans l’eau à plus de 1,5 kilomètre du rivage, elle (ou le bateau sur lequel elle navigue) est attaquée par un ou plusieurs monstres de sous-type eau ou aquatique, comme s’ils avaient été convoqués par une [convocation d’alliés naturels VII](./Convocation dalliés naturels VII.md) ([NLS](./NLS.md) 13).
+Chaque jour pendant lequel la créature affectée par ce sort se trouve sur l’eau ou dans l’eau à plus de 1,5 kilomètre du rivage, elle (ou le bateau sur lequel elle navigue) est attaquée par un ou plusieurs monstres de sous-type eau ou aquatique, comme s’ils avaient été convoqués par une [[convocation dalliés naturels VII|convocation d’alliés naturels VII]] ([[NLS]] 13).

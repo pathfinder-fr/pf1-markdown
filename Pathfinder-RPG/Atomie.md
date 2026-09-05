@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 page 25*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Fée](./type Fée.md) de taille Min, CN}
-{s:BDTexte|**Init** +7 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Fée|Fée]] de taille Min, CN}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 17, pris au dépourvu 14 (Dex +3, taille +4)}
 {s:BDTexte|**PV**  9 (2d6+2)}
@@ -25,18 +25,18 @@ Categories:
 {s:BDTexte|**VD** 4,50 m (3 {s:c}), vol 15 m (10 {s:c} bonne)}
 {s:BDTexte|**Corps à corps** rapière, +8 (1d2-2/18-20)}
 {s:BDTexte|**Espace occupé** 30 cm ; Allonge 0 m}
-{s:BDTexte|**Attaque spéciale** [attaque sournoise](./attaque sournoise.md) +1d6}
+{s:BDTexte|**Attaque spéciale** [[attaque sournoise]] +1d6}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6 ; concentration +10)}
-{s:BDSorts|Constant — *[communication avec les animaux](./Communication avec les animaux.md)*}
-{s:BDSorts|À volonté — *[lumières dansantes](./Lumières dansantes.md)*, *[rapetissement](./Rapetissement.md)* (DD 15)}
-{s:BDSorts|3/jour — *[invisibilité](./Invisibilité.md)* (sur lui-même uniquement)}
-{s:BDSorts|1/jour — *[réduction d’objet](./Réduction dobjet.md)*}
+{s:BDSorts|Constant — *[[communication avec les animaux]]*}
+{s:BDSorts|À volonté — *[[lumières dansantes]]*, *[[rapetissement]]* (DD 15)}
+{s:BDSorts|3/jour — *[[invisibilité]]* (sur lui-même uniquement)}
+{s:BDSorts|1/jour — *[[réduction dobjet|réduction d’objet]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 17, **Con** 13, **Int** 11, **Sag** 14, **Cha** 18}
 {s:BDTexte|**BBA** +1, **BMO** +0, **DMD** 8}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8 (+4 pour le saut), [Bluff](./Bluff.md) +9, [Discrétion](./Discrétion.md) +20, [Évasion](./Évasion.md) +7, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +6, [Vol](./Vol.md) +18}
-{s:BDTexte|**Langues**  commun, sylvestre ; [communication avec les animaux](./Communication avec les animaux.md)}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8 (+4 pour le saut), [[Bluff]] +9, [[Discrétion]] +20, [[Évasion]] +7, [[Perception]] +7, [[Psychologie]] +6, [[Vol]] +18}
+{s:BDTexte|**Langues**  commun, sylvestre ; [[communication avec les animaux]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement**  tous les climats tempérés}
 {s:BDTexte|**Organisation** solitaire, couple, gang (3-6) ou groupe (7-14)}
@@ -50,7 +50,7 @@ Categories:
 </td><td><div>
 *Cet humanoïde minuscule à la peau verte brandit une aiguille fine en guise de rapière. Une paire d’ailes de libellule lui permet de se maintenir dans les airs. *
 
-Les atomies se perçoivent plus grands qu’ils ne le sont en réalité. Tels des chiots tenant tête à des corniauds adultes, les atomies ne reculent jamais face à une agression et sont extrêmement fiers de vaincre et d’humilier des adversaires plus grands qu’eux. Ils prennent un plaisir certain à consolider leurs chances de gagner face à des ennemis plus grands en utilisant leur pouvoir magique rapetissement de personne comme méthode d’attaque, espérant ainsi surprendre et humilier les adversaires humanoïdes, ce qui leur donne une chance de porter un coup mortel. Les atomies utilisent leur pouvoir magique [invisibilité](./Invisibilité.md) pour s’approcher de l’ennemi et faire des attaques sournoises avant de filer comme des flèches, hors de portée.
+Les atomies se perçoivent plus grands qu’ils ne le sont en réalité. Tels des chiots tenant tête à des corniauds adultes, les atomies ne reculent jamais face à une agression et sont extrêmement fiers de vaincre et d’humilier des adversaires plus grands qu’eux. Ils prennent un plaisir certain à consolider leurs chances de gagner face à des ennemis plus grands en utilisant leur pouvoir magique rapetissement de personne comme méthode d’attaque, espérant ainsi surprendre et humilier les adversaires humanoïdes, ce qui leur donne une chance de porter un coup mortel. Les atomies utilisent leur pouvoir magique [[invisibilité]] pour s’approcher de l’ennemi et faire des attaques sournoises avant de filer comme des flèches, hors de portée.
 
 Sur les terres peuplées de fées, les atomies font souvent office de sentinelles aux frontières ou de gardes du corps au service des nymphes, des dryades et autres puissantes créatures féeriques. Même si les atomies se révèlent modérément aptes à protéger ces créatures, les autres fées acceptent ce témoignage de fidélité par respect et peut-être un peu par amusement. Les atomies apprécient leurs fonctions de gardes d’honneur mais finissent souvent par s’ennuyer et par quitter leur poste pour partir à l’aventure.
 

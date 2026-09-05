@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#POURSUITE
 ---
 
->>> [pouvoirs de rage#POURSUITE](./Pouvoirs de rage.md#POURSUITE)
+>>> [[pouvoirs de rage#POURSUITE]]

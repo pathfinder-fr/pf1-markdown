@@ -11,17 +11,17 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ;** Niveau** [Occ](./Occultiste.md) 1, [Rôd](./Rôdeur.md) 1  
+**École** [[Transmutation]] ;** Niveau** [[Occultiste|Occ]] 1, [[Rôdeur|Rôd]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
-**Cible** [contact](./Présentation des sorts.md#PORTEE)  
+**Cible** [[Présentation des sorts#PORTEE|contact]]  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 

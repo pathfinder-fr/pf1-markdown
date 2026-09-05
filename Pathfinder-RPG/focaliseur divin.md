@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#FOCALISEURDIVIN
 ---
 
->>> [Présentation des sorts#FOCALISEURDIVIN](./Présentation des sorts.md#FOCALISEURDIVIN)
+>>> [[Présentation des sorts#FOCALISEURDIVIN]]

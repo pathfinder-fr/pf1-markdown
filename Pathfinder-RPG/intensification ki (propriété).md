@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Intensification ki
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Intensification ki](./Descriptions individuelles des propriétés spéciales des armes.md#Intensification ki)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Intensification ki]]

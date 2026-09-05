@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 6, [magus](./Magus.md) 6  
+**École** [[Abjuration]] ; **Niveau** [[ensorceleur]]/[[magicien]] 6, [[magus]] 6  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** non  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non  
 
-**Restriction de cible** *[choisi](./Choisi.md)*, *[personnel](./Personnel (mot de pouvoir).md)*
+**Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
-Ce mot effet fonctionne de la même manière que le mot effet *[armure de force](./Armure de force.md)* mais il confère un bonus de +6 à la [CA](./CA.md), +1 point par tranche de quatre [niveaux de lanceur](./NLS.md). Si une autre source confère à la cible un meilleur bonus d’armure, le mot effet améliore à la place ce bonus d’armure de +2.
+Ce mot effet fonctionne de la même manière que le mot effet *[[armure de force]]* mais il confère un bonus de +6 à la [[CA]], +1 point par tranche de quatre [[NLS|niveaux de lanceur]]. Si une autre source confère à la cible un meilleur bonus d’armure, le mot effet améliore à la place ce bonus d’armure de +2.

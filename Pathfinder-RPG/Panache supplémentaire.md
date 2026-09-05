@@ -11,10 +11,10 @@ Categories:
 
 {s:mca} *Le personnage a plus de panache qu’un simple bretteur.*
 
-**Catégorie.** [panache](./Dons.md#DONPANACHE)
+**Catégorie.** [[dons#DONPANACHE|panache]]
 
-**Conditions.** [Bretteur amateur](./Bretteur amateur.md) ou pouvoir de classe [panache](./Bretteur.md#PANACHE).
+**Conditions.** [[Bretteur amateur]] ou pouvoir de classe [[bretteur#PANACHE|panache]].
 
 **Avantage.** Le personnage gagne deux points de panache supplémentaires au début de chaque jour et sa valeur maximale de panache augmente de deux.
 
-**Spécial.** Si le personnage possède des niveaux dans la classe de [bretteur](./Bretteur.md), il peut prendre ce don plusieurs fois, augmentant à chaque fois ces avantages de deux points.
+**Spécial.** Si le personnage possède des niveaux dans la classe de [[bretteur]], il peut prendre ce don plusieurs fois, augmentant à chaque fois ces avantages de deux points.

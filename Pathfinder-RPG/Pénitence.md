@@ -11,30 +11,30 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Dru](./Druide.md) 5, [Inq](./Inquisiteur.md) 5, [Prê](./Prêtre.md) 5  
+**École** [[Abjuration]] ; **Niveau** [[Druide|Dru]] 5, [[Inquisiteur|Inq]] 5, [[Prêtre|Prê]] 5  
 
 **Temps d'incantation** 1 heure  
 
-**Composantes** [V, G, M](./composantes.md) (de l’encens)[, F](./composantes.md) (un chapelet de prière ou un objet divin d’une valeur de 500 po minimum), FD  
+**Composantes** [[composantes|V, G, M]] (de l’encens)[[composantes|, F]] (un chapelet de prière ou un objet divin d’une valeur de 500 po minimum), FD  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature vivante touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Ce sort apaise la conscience de celui qui a commis des actes maléfiques. Le personnage qui désire se repentir doit sincèrement regretter ses erreurs et vouloir les corriger. S’il a commis ces crimes involontairement ou alors qu’il se trouvait sous influence, la *pénitence* ne demande aucun sacrifice de la part du lanceur de sorts. En revanche, si le sujet était conscient de ses actes, le lanceur de sorts doit intercéder auprès de son dieu pour obtenir son pardon. Il lui en coûte alors 2 500 po en encens rares et en offrandes. Ce sort a plusieurs fonctions distinctes, selon la version choisie :
 
-**Annulation d’un changement d’alignement d’origine magique**. Si une créature a vu son [alignement](./Alignement.md) modifié par magie, *pénitence* lui rend son [alignement](./Alignement.md) d’origine sans que le lanceur de sorts ait besoin de sacrifier la moindre po.
+**Annulation d’un changement d’alignement d’origine magique**. Si une créature a vu son [[alignement]] modifié par magie, *pénitence* lui rend son [[alignement]] d’origine sans que le lanceur de sorts ait besoin de sacrifier la moindre po.
 
-**Récupération du statut de classe.** Un [paladin](./Paladin.md) ou autre ayant perdu son statut pour avoir agi à l’encontre de son [alignement](./Alignement.md) peut récupérer ses pouvoirs grâce à ce sort.
+**Récupération du statut de classe.** Un [[paladin]] ou autre ayant perdu son statut pour avoir agi à l’encontre de son [[alignement]] peut récupérer ses pouvoirs grâce à ce sort.
 
-**Récupération des pouvoirs magiques.** Un [prêtre](./Prêtre.md) ou un [druide](./Druide.md) ayant perdu la faculté de lancer des sorts pour avoir provoqué la colère de son dieu peut récupérer ses pouvoirs en faisant *pénitence* auprès d’un autre [druide](./Druide.md) ou d’un autre [prêtre](./Prêtre.md) de sa religion. Si la transgression était intentionnelle, celui qui lance le sort doit dépenser 2 500 po en encens rare et en offrandes.
+**Récupération des pouvoirs magiques.** Un [[prêtre]] ou un [[druide]] ayant perdu la faculté de lancer des sorts pour avoir provoqué la colère de son dieu peut récupérer ses pouvoirs en faisant *pénitence* auprès d’un autre [[druide]] ou d’un autre [[prêtre]] de sa religion. Si la transgression était intentionnelle, celui qui lance le sort doit dépenser 2 500 po en encens rare et en offrandes.
 
-**Rédemption ou tentation.** On peut lancer ce sort sur une créature d’[alignement](./Alignement.md) différent afin de l’inciter à adopter l’[alignement](./Alignement.md) du lanceur de sorts. Le sujet doit être présent durant toute l’incantation. À la fin du sort, il choisit librement s’il préfère conserver son [alignement](./Alignement.md) d’origine ou adopter celui qui lui est proposé. Il est impossible de l’obliger à changer son [alignement](./Alignement.md) (même par magie) s’il ne le souhaite pas. Cette utilisation du sort ne fonctionne pas sur les [Extérieurs](./type Extérieur.md) (ni sur les créatures incapables de changer d’[alignement](./Alignement.md)).
+**Rédemption ou tentation.** On peut lancer ce sort sur une créature d’[[alignement]] différent afin de l’inciter à adopter l’[[alignement]] du lanceur de sorts. Le sujet doit être présent durant toute l’incantation. À la fin du sort, il choisit librement s’il préfère conserver son [[alignement]] d’origine ou adopter celui qui lui est proposé. Il est impossible de l’obliger à changer son [[alignement]] (même par magie) s’il ne le souhaite pas. Cette utilisation du sort ne fonctionne pas sur les [[type extérieur|Extérieurs]] (ni sur les créatures incapables de changer d’[[alignement]]).
 
-Bien que la description du sort parle d’actes maléfiques, on peut aussi lancer *pénitence* sur une créature ayant simplement agi à l’encontre de son [alignement](./Alignement.md), qu’elle se soit livrée à des actions bonnes, mauvaises, chaotiques ou loyales.
+Bien que la description du sort parle d’actes maléfiques, on peut aussi lancer *pénitence* sur une créature ayant simplement agi à l’encontre de son [[alignement]], qu’elle se soit livrée à des actions bonnes, mauvaises, chaotiques ou loyales.
 
-Note. En règle générale, c’est le joueur qui décide de tout changement d’[alignement](./Alignement.md) de son personnage. *Pénitence* offre juste un moyen crédible de changer d’[alignement](./Alignement.md) de façon rapide et irréversible.
+Note. En règle générale, c’est le joueur qui décide de tout changement d’[[alignement]] de son personnage. *Pénitence* offre juste un moyen crédible de changer d’[[alignement]] de façon rapide et irréversible.

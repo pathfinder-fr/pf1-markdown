@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de retour|{s:AE}}
-**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 7 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 33.600 po ; **Poids** —
+**Aura** [[Invocation]] puissante ; **NLS** 7 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 33.600 po ; **Poids** —
 (((Description)))
 Cet anneau en or est serti de trois pierres : une bleue, une verte et une rouge. Trois fois par jour, le porteur de cet anneau peut, par une action de mouvement, l’utiliser pour créer un lien avec la case de 1,50 mètre de côté qu’il occupe à ce moment-là. L’une des pierres se met alors à briller. Par une action rapide, le porteur de l’anneau peut se téléporter sur n’importe quelle case liée inoccupée dans un rayon de 30 mètres.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[porte dimensionnelle](./Porte dimensionnelle.md)* ; **Coût** 16.800 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[porte dimensionnelle]]* ; **Coût** 16.800 po
 </div>

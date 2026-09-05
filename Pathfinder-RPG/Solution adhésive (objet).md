@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 25 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 20
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Cette bouteille en verre est remplie d’une substance visqueuse et collante très prisée par les marins pour la force d’adhérence supplémentaire qu’elle offre sur le pont des navires. Quand le personnage l’applique sur la semelle de ses chaussures et la laisse sécher pendant 1 heure, la solution adhésive lui apporte un bonus alchimique de +2 aux tests d’[Acrobaties](./Acrobaties.md) pour garder l’équilibre et un bonus de +2 au [DMD](./DMD.md) contre la [bousculade](./bousculade.md). La solution adhésive n’a aucun effet quand elle est mise en contact avec des surfaces très lisses ou magiquement glissantes telles que la glace ou la *[graisse](./Graisse.md)*.
+Cette bouteille en verre est remplie d’une substance visqueuse et collante très prisée par les marins pour la force d’adhérence supplémentaire qu’elle offre sur le pont des navires. Quand le personnage l’applique sur la semelle de ses chaussures et la laisse sécher pendant 1 heure, la solution adhésive lui apporte un bonus alchimique de +2 aux tests d’[[Acrobaties]] pour garder l’équilibre et un bonus de +2 au [[DMD]] contre la [[bousculade]]. La solution adhésive n’a aucun effet quand elle est mise en contact avec des surfaces très lisses ou magiquement glissantes telles que la glace ou la *[[graisse]]*.

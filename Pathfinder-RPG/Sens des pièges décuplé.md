@@ -13,8 +13,8 @@ Categories:
 ''Le personnage fait particulièrement attention aux pièges et à la
 manière dont on les dissimule.''
 
-**Conditions.** 6 rangs en [Perception](./Perception.md), [sens des pièges](./Roublard.md#SENSDESPIEGES) +1
+**Conditions.** 6 rangs en [[Perception]], [[Roublard#SENSDESPIEGES|sens des pièges]] +1
 
-**Avantages.** Quand le personnage passe à 1,50 mètre d’un piège, il a automatiquement droit à un test de [Perception](./Perception.md) pour le repérer. Ce test s’accompagne d’un malus de –10 ou de –5 si le personnage se déplace à la moitié de sa vitesse normale et s’il ne fait rien d’autre que se déplacer.
+**Avantages.** Quand le personnage passe à 1,50 mètre d’un piège, il a automatiquement droit à un test de [[Perception]] pour le repérer. Ce test s’accompagne d’un malus de –10 ou de –5 si le personnage se déplace à la moitié de sa vitesse normale et s’il ne fait rien d’autre que se déplacer.
 
 **Normal.** Le personnage doit chercher activement les pièges.

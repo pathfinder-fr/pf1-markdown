@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions complexes#RETRAITE
 ---
 
->>> [Actions complexes#RETRAITE](./Actions complexes.md#RETRAITE)
+>>> [[Actions complexes#RETRAITE]]

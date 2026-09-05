@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 2 pa ; **Poids** — ; **Groupes** [armes de combat rapproché](./groupe darmes.md#Armesdecombatrapproché), [armes de jet](./groupe darmes.md#Armesdejet), [armes de moine](./groupe darmes.md#Armesdemoine)
-**Dégâts** 1d2 (P), 1d3 (M) ; **Critique** ×2 ; **Portée** 3 m (2 c) ; **Type** P ; **Spécial** [moine](./Caractéristiques des armes.md#MOINE)
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ([orientale](./Armes orientales.md))
-; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+{s:AE}{s:UC}**Prix** 2 pa ; **Poids** — ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]], [[Groupe darmes#Armesdejet|armes de jet]], [[Groupe darmes#Armesdemoine|armes de moine]]
+**Dégâts** 1d2 (P), 1d3 (M) ; **Critique** ×2 ; **Portée** 3 m (2 c) ; **Type** P ; **Spécial** [[Caractéristiques des armes#MOINE|moine]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ([[armes orientales|orientale]])
+; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
 Cette pointe en bois affûtée peut être utilisée comme arme pour frapper. Elle est également parfaitement équilibrée pour le lancer.

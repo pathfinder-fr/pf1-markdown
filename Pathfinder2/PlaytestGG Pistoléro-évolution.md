@@ -4,17 +4,17 @@ Title: Le pistoléro (Playtest Guns & Gears)  - évolution
 LastModified: 2021-01-19 15:11
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)   
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]   
 
-• [Retour à la page du playtest de Guns & Gears](./PlaytestGG.md)
+• [[PlaytestGG|Retour à la page du playtest de Guns & Gears]]
 
 ### Présentation générale
 
-• Voir la [présentation du pistoléro](./PlaytestGG Pistoléro.md)  
+• Voir la [[PlaytestGG Pistoléro|présentation du pistoléro]]  
 
-• Voir les [dons de classe de pistoléro](./PlaytestGG Pistoléro-dons.md)
+• Voir les [[PlaytestGG Pistoléro-dons|dons de classe de pistoléro]]
 
 <center>
 {| CLASS="tablo autoalt toutgauche"

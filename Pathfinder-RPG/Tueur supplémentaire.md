@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage peut utiliser ce pouvoir plus souvent. *
 
-**Condition.** [Tueur](./Inquisiteur.md#TUEUR)
+**Condition.** [[Inquisiteur#TUEUR|Tueur]]
 
-**Avantage.** Chaque jour, le personnage peut utiliser le pouvoir [tueur](./Inquisiteur.md#TUEUR) pendant 3 rounds de plus.
+**Avantage.** Chaque jour, le personnage peut utiliser le pouvoir [[Inquisiteur#TUEUR|tueur]] pendant 3 rounds de plus.

@@ -14,20 +14,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[air](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Magus](./Magus.md) 4, [Occ](./Occultiste.md) 4, [San](./Sanguin.md) 4  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** 36 m (24 {s:c})  
 
 **Cible** ligne de 36 m (24 {s:c})  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Le personnage invoque la puissance de la tempête et dirige un puissant courant de vent là où il le désire. Ce sort crée un couloir de vent de 1,50 m (1 {s:c}) de diamètre. Le vent s'éloigne de l'endroit où se trouvait le lanceur de sorts au moment de l'incantation et poursuit dans cette direction pendant toute la durée du sort. Les créatures prises dans la *rivière de vent* subissent 4d6 points de [dégâts non létaux](./Dégâts non létaux.md) et tombent [à terre](./À terre.md). Un jet de [Vigueur](./Vigueur.md) permet de réduire les dégâts de moitié et de rester debout.
+Le personnage invoque la puissance de la tempête et dirige un puissant courant de vent là où il le désire. Ce sort crée un couloir de vent de 1,50 m (1 {s:c}) de diamètre. Le vent s'éloigne de l'endroit où se trouvait le lanceur de sorts au moment de l'incantation et poursuit dans cette direction pendant toute la durée du sort. Les créatures prises dans la *rivière de vent* subissent 4d6 points de [[dégâts non létaux]] et tombent [[à terre]]. Un jet de [[Vigueur]] permet de réduire les dégâts de moitié et de rester debout.
 
-Une créature qui commence son tour entièrement ou partiellement dans la *rivière de vent* doit réussir un jet de [Vigueur](./Vigueur.md) ou se faire pousser de 6 mètres (4 {s:c}) dans la direction où souffle le vent. Elle subit alors 2d6 points de [dégâts non létaux](./Dégâts non létaux.md) et tombe [à terre](./À terre.md). Un test réussi permet de ne subir que 1d6 points de [dégâts non létaux](./Dégâts non létaux.md). Les créatures affectées par une *[liberté de mouvement](./Liberté de mouvement.md)* et les créatures de [sous-type air](./sous-type Air.md) ne sont pas affectées par le sort.
+Une créature qui commence son tour entièrement ou partiellement dans la *rivière de vent* doit réussir un jet de [[Vigueur]] ou se faire pousser de 6 mètres (4 {s:c}) dans la direction où souffle le vent. Elle subit alors 2d6 points de [[dégâts non létaux]] et tombe [[à terre]]. Un test réussi permet de ne subir que 1d6 points de [[dégâts non létaux]]. Les créatures affectées par une *[[liberté de mouvement]]* et les créatures de [[sous-type air]] ne sont pas affectées par le sort.

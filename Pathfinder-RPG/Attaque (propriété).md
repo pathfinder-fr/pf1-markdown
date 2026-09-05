@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Attaque
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Attaque](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Attaque)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Attaque]]

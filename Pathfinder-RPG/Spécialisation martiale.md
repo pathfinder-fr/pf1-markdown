@@ -7,23 +7,23 @@ Categories:
 - Don combat
 ---
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#30) Spécialisation martiale : Un personnage peut-il choisir Spécialisation martiale (rayon) ou Science du critique (rayon) comme dons ? Qu’en est-il de Spécialisation martiale (bombe) ou Science du critique (bombe) ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#30|→]] Spécialisation martiale : Un personnage peut-il choisir Spécialisation martiale (rayon) ou Science du critique (rayon) comme dons ? Qu’en est-il de Spécialisation martiale (bombe) ou Science du critique (bombe) ?***
 
 Ces quatre options sont des choix valides.
 
-Notez que <u>[Spécialisation martiale](./Spécialisation martiale.md)</u> (rayon) ne s’ajoute qu’aux points de dégâts infligés au [points de vie](./pv.md) par une attaque de rayon qui blesserait normalement les points de vie ; il n’augmente pas les [affaiblissements temporaires](./affaiblissement temporaire (capacité).md) ou les diminutions permanentes de caractéristiques (comme la diminution de Dextérité de *[rayon polaire](./Rayon polaire.md)*), les malus aux valeurs de caractéristiques (comme ceux de *[rayon affaiblissant](./Rayon affaiblissant.md)*) ou l’absorption d’énergie, les niveaux négatifs (comme ceux d’*[énergie négative](./Énergie négative.md)*), ou tout autres dégâts ou malus infligés par des rayons.}*Le personnage est doué pour infliger des dégâts avec son arme. Il choisit une arme pour laquelle il possède le don Arme de prédilection. Il peut aussi choisir l’ attaque à mains nues ou la lutte. Il inflige des dégâts supplémentaires avec cette arme.*
+Notez que <u>[[Spécialisation martiale]]</u> (rayon) ne s’ajoute qu’aux points de dégâts infligés au [[pv|points de vie]] par une attaque de rayon qui blesserait normalement les points de vie ; il n’augmente pas les [[Affaiblissement temporaire (capacité)|affaiblissements temporaires]] ou les diminutions permanentes de caractéristiques (comme la diminution de Dextérité de *[[rayon polaire]]*), les malus aux valeurs de caractéristiques (comme ceux de *[[rayon affaiblissant]]*) ou l’absorption d’énergie, les niveaux négatifs (comme ceux d’*[[énergie négative]]*), ou tout autres dégâts ou malus infligés par des rayons.}*Le personnage est doué pour infliger des dégâts avec son arme. Il choisit une arme pour laquelle il possède le don Arme de prédilection. Il peut aussi choisir l’ attaque à mains nues ou la lutte. Il inflige des dégâts supplémentaires avec cette arme.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+**Catégorie** : [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Arme de prédilection](./Arme de prédilection.md) pour l’arme choisie, Maniement de l’arme choisie, [guerrier](./Guerrier.md) de niveau 4.
+**Conditions.** [[Arme de prédilection]] pour l’arme choisie, Maniement de l’arme choisie, [[guerrier]] de niveau 4.
 
-**Avantage.** Le personnage obtient un bonus de +2 sur les [jets de dégâts](./jet de dégâts.md) de l’arme choisie.
+**Avantage.** Le personnage obtient un bonus de +2 sur les [[jet de dégâts|jets de dégâts]] de l’arme choisie.
 
 **Spécial.** Ce don peut être choisi plusieurs fois, mais ses effets ne se cumulent pas. Il s’applique à chaque fois à une arme nouvelle.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 2 points d’endurance une fois par [round](./round.md) pour bénéficier du bonus aux [jets de dégâts](./Valeurs de combat.md#DEGATS) de la Spécialisation martiale avec une arme qui ne bénéficie pas de ce don. Ce bonus dure jusqu’au début de son prochain tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 2 points d’endurance une fois par [[round]] pour bénéficier du bonus aux [[Valeurs de combat#DEGATS|jets de dégâts]] de la Spécialisation martiale avec une arme qui ne bénéficie pas de ce don. Ce bonus dure jusqu’au début de son prochain tour.
 
 {s:CMy}
 ### Version mythique
@@ -31,6 +31,6 @@ Le personnage peut dépenser 2 points d’endurance une fois par [round](./round
 
 **Condition.** Spécialisation martiale
 
-**Avantage.** Lorsque le personnage utilise l’arme dans laquelle il s’est spécialisé, il gagne un bonus égal à la moitié de son [grade](./Grade.md) aux jets de dégâts. Ce bonus se cumule avec celui conféré par Spécialisation martiale et [Spécialisation martiale supérieure](./Spécialisation martiale supérieure.md).
+**Avantage.** Lorsque le personnage utilise l’arme dans laquelle il s’est spécialisé, il gagne un bonus égal à la moitié de son [[grade]] aux jets de dégâts. Ce bonus se cumule avec celui conféré par Spécialisation martiale et [[Spécialisation martiale supérieure]].
 
-**Spécial.** Si le personnage a choisi plusieurs fois le don Spécialisation martiale non-mythique, il doit choisir à chaque fois lequel il améliore avec [Spécialisation martiale (mythique)](./Spécialisation martiale (mythique).md). Il peut choisir ce don mythique plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un don de Spécialisation martiale non-mythique différent.
+**Spécial.** Si le personnage a choisi plusieurs fois le don Spécialisation martiale non-mythique, il doit choisir à chaque fois lequel il améliore avec [[Spécialisation martiale (mythique)]]. Il peut choisir ce don mythique plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un don de Spécialisation martiale non-mythique différent.

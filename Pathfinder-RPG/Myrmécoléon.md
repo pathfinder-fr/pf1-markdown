@@ -10,7 +10,7 @@ LastModified: 2017-01-19 21:31
 {s:pucem|Créature magique|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 192*}
 - **9 600 PX**
-- [Créature magique](./type Créature magique.md) ([mythique](./sous-type mythique.md)) de taille TG, N
+- [[type créature magique|Créature magique]] ([[sous-type mythique|mythique]]) de taille TG, N
 - **Init **-2 ; **Sens **vision dans le noir à 18 m, vision nocturne ; Perception +9
 (((Défense)))
 - **CA **24, contact 6, pris au dépourvu 24 (Dex -2, naturelle +18, taille -2)
@@ -25,8 +25,8 @@ LastModified: 2017-01-19 21:31
 (((Statistiques)))
 - **For **23, **Dex **6, **Con **20, **Int **2, **Sag** 13, **Cha **5
 - BBA +10 ; BMO +18 (+22 en lutte) ; DMD 24 (28 en situation de lutte, 32 contre le croc-en-jambe)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md)<sup>M</sup> (mandibules), [Attaque en puissance](./Attaque en puissance.md)<sup>M</sup>, [Briser les défenses](./Briser les défenses.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science du critique](./Science du critique.md) (mandibules)
-- **Compétences **[Escalade](./Escalade.md) +22, [Perception](./Perception.md) +9
+- **Dons **[[Arme de prédilection]]<sup>M</sup> (mandibules), [[Attaque en puissance]]<sup>M</sup>, [[Briser les défenses]], [[Réflexes surhumains]], [[Science du critique]] (mandibules)
+- **Compétences **[[Escalade]] +22, [[Perception]] +9
 (((Écologie)))
 - **Environnement **plaines ou collines tempérées
 - **Organisation **solitaire

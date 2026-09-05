@@ -8,21 +8,21 @@ Categories:
 
 {s:MenuObjetsMagiques}*Chaque catégorie d'objet magique débute par une description générale des objets de ce type, puis les objets spécifiques qu’elle comprend sont décrits en détail.*
 
-La description générale regroupe des indications concernant notamment les modes d’activation et la détermination aléatoire. La [CA](./CA.md), la [solidité](./solidité.md) et le nombre de points de vie de certains objets types sont mentionnés, de même que le [DD](./DD.md) nécessaire pour les casser ou les détruire. La [CA](./CA.md) indiquée part du principe que l’objet n’est ni porté ni tenu, ce qui lui donne une [Dextérité](./Dextérité.md) effective de 0 (malus de -5 à la [CA](./CA.md)). Si l’objet est tenu ou porté par une créature, utilisez le modificateur de [Dextérité](./Dextérité.md) de cette dernière à la place du malus de -5.
+La description générale regroupe des indications concernant notamment les modes d’activation et la détermination aléatoire. La [[CA]], la [[solidité]] et le nombre de points de vie de certains objets types sont mentionnés, de même que le [[DD]] nécessaire pour les casser ou les détruire. La [[CA]] indiquée part du principe que l’objet n’est ni porté ni tenu, ce qui lui donne une [[Dextérité]] effective de 0 (malus de -5 à la [[CA]]). Si l’objet est tenu ou porté par une créature, utilisez le modificateur de [[Dextérité]] de cette dernière à la place du malus de -5.
 
-Certains objets ne bénéficient pas d’une description détaillée, surtout si leur unique utilisation consiste à lancer un sort. Il suffit tout simplement de consulter la description du sort concerné en l’adaptant à l’objet ([baguette](./Baguettes magiques.md), [parchemin](./Parchemins magiques.md), [potion](./Potions magiques.md), etc.). Partez du principe que le sort est lancé au niveau minimal pour pouvoir l’utiliser.
+Certains objets ne bénéficient pas d’une description détaillée, surtout si leur unique utilisation consiste à lancer un sort. Il suffit tout simplement de consulter la description du sort concerné en l’adaptant à l’objet ([[baguettes magiques|baguette]], [[parchemins magiques|parchemin]], [[potions magiques|potion]], etc.). Partez du principe que le sort est lancé au niveau minimal pour pouvoir l’utiliser.
 
 Les objets possédant des descriptions complètes ont des explications détaillées de leurs pouvoirs, et les indications suivantes apparaissent à la fin de leur description sous forme condensée.
 
 #### Aura
-La plupart du temps, un sort de *[détection de la magie](./Détection de la magie.md)* permet de déterminer à quelle [école](./Présentation des sorts.md#ECOLES) est affilié un objet magique et quelle est l’intensité de son aura magique. Quand cette information peut être déterminée, elle est la première à figurer sur le profil condensé. La description du sort *[détection de la magie](./Détection de la magie.md)* donne les détails des auras
+La plupart du temps, un sort de *[[détection de la magie]]* permet de déterminer à quelle [[Présentation des sorts#ECOLES|école]] est affilié un objet magique et quelle est l’intensité de son aura magique. Quand cette information peut être déterminée, elle est la première à figurer sur le profil condensé. La description du sort *[[détection de la magie]]* donne les détails des auras
 
 {s:Reference|NLS}
 #### Niveau de lanceur de sorts (NLS)
 
-L’information suivante du profil condensé est le niveau de lanceur de sorts de l’objet : elle permet d’estimer sa puissance relative. Le niveau de lanceur de sorts détermine le bonus de base aux sauvegardes de l’objet, mais aussi les variables comme la portée ou les dégâts des effets générés (s’il y en a). Il indique également quel est le niveau de l’objet si celui-ci est pris pour cible par un sort tel que *[dissipation de la magie](./Dissipation de la magie.md)*. Il apparaît sous la forme « NLS X » (NLS étant une abréviation pour « niveau de lanceur de sorts »).
+L’information suivante du profil condensé est le niveau de lanceur de sorts de l’objet : elle permet d’estimer sa puissance relative. Le niveau de lanceur de sorts détermine le bonus de base aux sauvegardes de l’objet, mais aussi les variables comme la portée ou les dégâts des effets générés (s’il y en a). Il indique également quel est le niveau de l’objet si celui-ci est pris pour cible par un sort tel que *[[dissipation de la magie]]*. Il apparaît sous la forme « NLS X » (NLS étant une abréviation pour « niveau de lanceur de sorts »).
 
-Pour ce qui est des [baguettes](./Baguettes magiques.md), des huiles, des [parchemins](./Parchemins magiques.md) et des [potions](./Potions magiques.md), le créateur de l’objet peut fixer librement le niveau de lanceur de sorts, à condition que celui-ci soit compris entre son propre niveau de lanceur de sorts et le niveau nécessaire pour lancer le sort stocké dans l’objet. Pour les autres objets magiques, le niveau de lanceur de sorts est déterminé par l’objet lui-même.
+Pour ce qui est des [[baguettes magiques|baguettes]], des huiles, des [[parchemins magiques|parchemins]] et des [[potions magiques|potions]], le créateur de l’objet peut fixer librement le niveau de lanceur de sorts, à condition que celui-ci soit compris entre son propre niveau de lanceur de sorts et le niveau nécessaire pour lancer le sort stocké dans l’objet. Pour les autres objets magiques, le niveau de lanceur de sorts est déterminé par l’objet lui-même.
 
 #### Emplacement
 
@@ -38,11 +38,11 @@ Le poids de l’objet. Si aucune indication de poids n’est présente, cela sig
 
 #### Description
 
-Les pouvoirs de l’objet. Les [baguettes](./Baguettes magiques.md), [bâtons](./Bâtons magiques.md), [parchemins](./Parchemins magiques.md) et [potions](./Potions magiques.md) se réfèrent à un certain nombre de sorts dans leur description.
+Les pouvoirs de l’objet. Les [[baguettes magiques|baguettes]], [[bâtons magiques|bâtons]], [[parchemins magiques|parchemins]] et [[potions magiques|potions]] se réfèrent à un certain nombre de sorts dans leur description.
 
 #### Conditions
 
-Les conditions auxquelles le personnage doit satisfaire pour pouvoir fabriquer l’objet. À l’exception des [artefacts](./Artefacts.md), un lanceur de sorts peut fabriquer la plupart des objets magiques, pour peu qu’il dispose des dons et des aptitudes appropriés.
+Les conditions auxquelles le personnage doit satisfaire pour pouvoir fabriquer l’objet. À l’exception des [[artefacts]], un lanceur de sorts peut fabriquer la plupart des objets magiques, pour peu qu’il dispose des dons et des aptitudes appropriés.
 
 
 #### Conditions de création

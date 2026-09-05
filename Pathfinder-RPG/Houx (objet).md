@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** — ; **Poids** —
-<span class="Catégorie">**Catégorie** [Marché noir](./Marché noir.md)</span>
+<span class="Catégorie">**Catégorie** [[Marché noir]]</span>
 ---
-{s:Desambi|Cet objet peut aussi être [couplé avec le gui](./Houx et gui (objet).md).}Les baies rouge vif du houx ont de nombreuses utilisations comme décorations et objets rituels. Les druides récoltent les baies de houx avec des outils spécialement préparés et pendant des périodes sacrées de l'année.
+{s:Desambi|Cet objet peut aussi être [[Houx et gui (objet)|couplé avec le gui]].}Les baies rouge vif du houx ont de nombreuses utilisations comme décorations et objets rituels. Les druides récoltent les baies de houx avec des outils spécialement préparés et pendant des périodes sacrées de l'année.

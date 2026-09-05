@@ -4,15 +4,15 @@
 
 <div class="presentation navmenudroite">
 ### Les archétypes de chasseur
-&nbsp;Retour à la [classe](./../Pathfinder-RPG/Chasseur.md).
-<ul style="margin-top:2px"><li>[Adepte de la vermine](./../Pathfinder-RPG/Adepte de la vermine (Chasseur).md) (MCA)</li>
-<li>[Chasseur au compagnon primitif](./../Pathfinder-RPG/Chasseur au compagnon primitif (Chasseur).md) (MCA)</li>
-<li>[Chasseur de cour](./../Pathfinder-RPG/Chasseur de cour (chasseur).md) (*UI*)</li>
-<li>[Chasseur divin](./../Pathfinder-RPG/Chasseur divin (Chasseur).md) (MCA)</li>
-<li>[Chasseur sauvage](./../Pathfinder-RPG/Chasseur sauvage (Chasseur).md) (MCA)</li>
-<li>[Chef de meute](./../Pathfinder-RPG/Chef de meute (Chasseur).md) (MCA)</li>
-<li>[Coureur des toits](./../Pathfinder-RPG/Coureur des toits (chasseur).md) (*UI*)</li>
-<li>[Déracineur](./../Pathfinder-RPG/Déracineur (chasseur).md) (MCA)</li>
-<li>[Harceleur-scarabée](./../Pathfinder-RPG/Harceleur-scarabée (chasseur).md) (MCA)</li>
+&nbsp;Retour à la [[Chasseur|classe]].
+<ul style="margin-top:2px"><li>[[Adepte de la vermine (Chasseur)|Adepte de la vermine]] (MCA)</li>
+<li>[[Chasseur au compagnon primitif (Chasseur)|Chasseur au compagnon primitif]] (MCA)</li>
+<li>[[Chasseur de cour (chasseur)|Chasseur de cour]] (*UI*)</li>
+<li>[[Chasseur divin (Chasseur)|Chasseur divin]] (MCA)</li>
+<li>[[Chasseur sauvage (Chasseur)|Chasseur sauvage]] (MCA)</li>
+<li>[[Chef de meute (Chasseur)|Chef de meute]] (MCA)</li>
+<li>[[Coureur des toits (chasseur)|Coureur des toits]] (*UI*)</li>
+<li>[[Déracineur (chasseur)|Déracineur]] (MCA)</li>
+<li>[[Harceleur-scarabée (chasseur)|Harceleur-scarabée]] (MCA)</li>
 </ul>
 </div>

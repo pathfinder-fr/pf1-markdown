@@ -10,7 +10,7 @@ LastModified: 2021-04-18 12:17
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 223*}
 - 800 PX
-- [Aberration](./type Aberration.md) de taille TG, N
+- [[type aberration|Aberration]] de taille TG, N
 - **Init **+5 ; **Sens **perception aveugle à 3 m, vision dans le noir à 18 m, odorat ; Perception +25
 (((Défense)))
 - **CA **21, contact 9, pris au dépourvu 20 (Dex +1, naturelle +12, taille -2)
@@ -26,8 +26,8 @@ LastModified: 2021-04-18 12:17
 (((Statistiques)))
 - **For **30, **Dex **12, **Con **19, **Int **14, **Sag **17, **Cha **13
 - **BBA** +9 ; **BMO** +21 (+25 en lutte) ; **DMD **32 (croc-en-jambe impossible)
-- **Dons **[Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Discrétion), [Talent](./Talent.md) (Perception), [Vigueur surhumaine](./Vigueur surhumaine.md) 
-- **Compétences **[Connaissances](./Connaissances.md) (exploration souterraine) +15, [Discrétion](./Discrétion.md) +19 (+27 dans des environnements rocailleux), [Escalade](./Escalade.md) +18, [Escamotage](./Escamotage.md) +14, [Perception](./Perception.md) +25, [Psychologie](./Psychologie.md) +16, [Survie](./Survie.md) +15 ; Modificateurs raciaux +4 en Discrétion (+12 dans des environnements rocailleux)
+- **Dons **[[Attaques réflexes]], [[Combat en aveugle]], [[Robustesse]], [[science de linitiative|Science de l’initiative]], [[Talent]] (Discrétion), [[Talent]] (Perception), [[Vigueur surhumaine]] 
+- **Compétences **[[Connaissances]] (exploration souterraine) +15, [[Discrétion]] +19 (+27 dans des environnements rocailleux), [[Escalade]] +18, [[Escamotage]] +14, [[Perception]] +25, [[Psychologie]] +16, [[Survie]] +15 ; Modificateurs raciaux +4 en Discrétion (+12 dans des environnements rocailleux)
 - **Langues **aklo, commun, commun des profondeurs
 (((Écologie)))
 - **Environnement **souterrains
@@ -35,7 +35,7 @@ LastModified: 2021-04-18 12:17
 - **Trésor **standard
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [raies des profondeurs](./Raie des profondeurs.md).***</li></ul>Les raies des profondeurs femelles, également appelées les piégeuses,
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[raie des profondeurs|raies des profondeurs]].***</li></ul>Les raies des profondeurs femelles, également appelées les piégeuses,
 sont les têtes pensantes de leur race. Trop grandes pour voler
 (et souvent gravides de foetus frétillants), les piégeuses intelligentes
 creusent des trous dans le sol des salles régulièrement traversées et

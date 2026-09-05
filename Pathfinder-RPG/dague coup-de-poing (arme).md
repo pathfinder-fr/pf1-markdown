@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 0,5 kg ; **Groupes** [armes de combat rapproché](./groupe darmes.md#Armesdecombatrapproché)
+{s:AE}**Prix** 2 po ; **Poids** 0,5 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]
 **Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×3 ; **Portée** — ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
 La lame de la dague coup-de-poing est fixée à une poignée horizontale et prolonge le poing lorsqu’elle est tenue en main.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Apparitions
 ---
 
->>> [Apparitions](./Apparitions.md)
+>>> [[Apparitions]]

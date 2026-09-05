@@ -10,18 +10,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) (création) ; **Niveau** [Cham](./Chaman.md) 9, [Dru](./Druide.md) 9  
+**École** [[Invocation]] (création) ; **Niveau** [[Chaman|Cham]] 9, [[Druide|Dru]] 9  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Effet** au moins 3 [tertres errants](./Tertre errant.md), distants de moins de 9 m (6 {s:c}) les uns des autres (voir description)  
+**Effet** au moins 3 [[tertre errant|tertres errants]], distants de moins de 9 m (6 {s:c}) les uns des autres (voir description)  
 
 **Durée** 7 jours ou 7 mois (T) (voir description)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Ce sort crée 1d4+2 [tertres errants](./Tertre errant.md) [évolués](./Archétypes.md#CREATUREEVOLUEE). Ces créatures se battent aux côtés du lanceur de sorts, remplissent une mission pour lui ou lui servent de gardes du corps. Elles restent à ses côtés pendant sept jours, à moins qu’il ne les renvoie plus tôt. Si les [tertres errants](./Tertre errant.md) ont été créés seulement pour faire office de gardes, la durée du sort est de sept mois. Chacun des [tertres errants](./Tertre errant.md) appelés par ce sort doit rester à proximité du point où il est apparu : il ne peut pas s’en éloigner de plus de la portée du sort. Le personnage ne peut bénéficier des effets de plusieurs grands tertres en même temps. S’il lance ce sort alors qu’il bénéficie encore des effets d’une précédente incantation, le sort le plus ancien se dissipe. Les [tertres errants](./Tertre errant.md) ne bénéficient de la résistance au feu propre aux monstres de leur espèce que s’ils ont été appelés dans une région pluvieuse, marécageuse ou très humide.
+Ce sort crée 1d4+2 [[tertre errant|tertres errants]] [[Archétypes#CREATUREEVOLUEE|évolués]]. Ces créatures se battent aux côtés du lanceur de sorts, remplissent une mission pour lui ou lui servent de gardes du corps. Elles restent à ses côtés pendant sept jours, à moins qu’il ne les renvoie plus tôt. Si les [[tertre errant|tertres errants]] ont été créés seulement pour faire office de gardes, la durée du sort est de sept mois. Chacun des [[tertre errant|tertres errants]] appelés par ce sort doit rester à proximité du point où il est apparu : il ne peut pas s’en éloigner de plus de la portée du sort. Le personnage ne peut bénéficier des effets de plusieurs grands tertres en même temps. S’il lance ce sort alors qu’il bénéficie encore des effets d’une précédente incantation, le sort le plus ancien se dissipe. Les [[tertre errant|tertres errants]] ne bénéficient de la résistance au feu propre aux monstres de leur espèce que s’ils ont été appelés dans une région pluvieuse, marécageuse ou très humide.

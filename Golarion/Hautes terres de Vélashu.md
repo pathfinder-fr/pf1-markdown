@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-C’est sur ces terres que l’on trouve les meilleurs éleveurs de chevaux de toute la [Varisie](./Varisie.md). Ces chevaux sont réputés comme étant de grandes et superbes montures. Les Vélashiens s’aventurent de temps à autre jusqu’à [Port-Énigme](./Port-Énigme.md) ou plus loin pour vendre à bon prix leur destrier avant de retourner sur leurs terres.
+C’est sur ces terres que l’on trouve les meilleurs éleveurs de chevaux de toute la [[Varisie]]. Ces chevaux sont réputés comme étant de grandes et superbes montures. Les Vélashiens s’aventurent de temps à autre jusqu’à [[Port-Énigme]] ou plus loin pour vendre à bon prix leur destrier avant de retourner sur leurs terres.

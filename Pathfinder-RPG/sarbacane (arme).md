@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 0,5 kg ; **Groupes** [armes de jet](./groupe darmes.md#Armesdejet)
+{s:AE}**Prix** 2 po ; **Poids** 0,5 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]]
 **Dégâts** 1 (P), 1d2 (M) ; **Critique** ×2 ; **Portée** 6 m (4 c) ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme à distance](./arme à distance.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme à distance]]</span>
 ---
-Les sarbacanes sont généralement utilisées pour inoculer des poisons (rarement fatals) de loin. Elles tirent pratiquement en silence. Voir la liste des [poisons](./Poisons.md).
+Les sarbacanes sont généralement utilisées pour inoculer des poisons (rarement fatals) de loin. Elles tirent pratiquement en silence. Voir la liste des [[Poisons]].

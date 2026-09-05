@@ -11,14 +11,14 @@ Categories:
 
 {s:GC}*Vous n’arrivez pas à vous souvenir d’un événement capital de votre passé.*
 
-**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+**Catégorie.** [[Dons#DONHISTOIRE|histoire]]
 
-**Conditions.** Vous devez souffrir d’une perte de mémoire permanente ou avoir l’[historique](./Générateur dhistorique.md) Réincarné.
+**Conditions.** Vous devez souffrir d’une perte de mémoire permanente ou avoir l’[[Générateur dhistorique|historique]] Réincarné.
 
-**Avantages.** Sur vous, les sorts mentaux (même bénéfiques) durent deux fois moins longtemps. Votre nature curieuse vous donne un bonus de +2 aux tests de [Perception](./Perception.md). Si vous avez investi au moins dix rangs en Perception, ce bonus passe à +4.
+**Avantages.** Sur vous, les sorts mentaux (même bénéfiques) durent deux fois moins longtemps. Votre nature curieuse vous donne un bonus de +2 aux tests de [[Perception]]. Si vous avez investi au moins dix rangs en Perception, ce bonus passe à +4.
 
-**Objectif.** Récupérer une grande partie de vos souvenirs perdus. Il existe différentes méthodes : vous pouvez utiliser un *[souhait](./Souhait.md)*, demander l’aide d’une entité divine, revivre une vie antérieure ou vous placer de nouveau dans la situation qui vous a fait perdre la mémoire. Au cours de ce processus, vous devez obligatoirement rencontrer un adversaire de valeur mais pas forcément lors d’une confrontation directe.
+**Objectif.** Récupérer une grande partie de vos souvenirs perdus. Il existe différentes méthodes : vous pouvez utiliser un *[[souhait]]*, demander l’aide d’une entité divine, revivre une vie antérieure ou vous placer de nouveau dans la situation qui vous a fait perdre la mémoire. Au cours de ce processus, vous devez obligatoirement rencontrer un adversaire de valeur mais pas forcément lors d’une confrontation directe.
 
-**Avantage de réussite.** Quand vous effectuez un [jet de sauvegarde](./JDS.md) contre un effet mental, vous lancez le dé deux fois et vous conservez le meilleur résultat.
+**Avantage de réussite.** Quand vous effectuez un [[jds|jet de sauvegarde]] contre un effet mental, vous lancez le dé deux fois et vous conservez le meilleur résultat.
 
-**Spécial.** Une perte de mémoire que l’on peut restaurer par des moyens de moindre puissance qu’un *souhait* ou un *[miracle](./Miracle.md)* ne permet pas de remplir les conditions requises.
+**Spécial.** Une perte de mémoire que l’on peut restaurer par des moyens de moindre puissance qu’un *souhait* ou un *[[miracle]]* ne permet pas de remplir les conditions requises.

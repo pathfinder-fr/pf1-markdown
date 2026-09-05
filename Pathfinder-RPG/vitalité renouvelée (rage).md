@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#VITALITERENOUVELEE
 ---
 
->>> [Pouvoirs de rage#VITALITERENOUVELEE](./Pouvoirs de rage.md#VITALITERENOUVELEE)
+>>> [[Pouvoirs de rage#VITALITERENOUVELEE]]

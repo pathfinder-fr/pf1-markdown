@@ -11,10 +11,10 @@ Categories:
 - Src Bestiaire
 ---
 
-*Le personnage peut construire des [créatures artificielles](./type Créature artificielle.md) (des [golems](./Golem.md) par exemple).*
+*Le personnage peut construire des [[type Créature artificielle|créatures artificielles]] (des [[golem|golems]] par exemple).*
 
-**Catégories : ** [Création d’objets](./Dons.md#DONCREATION), Monstre
+**Catégories : ** [[Dons#DONCREATION|Création d’objets]], Monstre
 
-**Conditions : ** [NLS](./NLS.md) 5, [Création d'armes et d'armures magiques](./Création darmes et armures magiques.md), [Créations d'objets merveilleux](./Création dobjets magiques.md).
+**Conditions : ** [[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et d'armures magiques]], [[Création dobjets magiques|Créations d'objets merveilleux]].
 
-**Avantage : ** Le personnage peut construire toutes les [créatures artificielles](./type Créature artificielle.md) pour lesquelles il remplit les conditions. L’animation d’une créature artificielle prend un jour par tranche de 1000 po de son prix. Pour construire une créature artificielle, le personnage doit utiliser des matières premières valant la moitié du prix de base plus le prix (complet) du corps créé pour la créature artificielle. Les coûts et les conditions pour créer une créature artificielle sont résumés dans une section spéciale sur la page où elle est décrite. Le nombre de [points de vie](./pv.md) qu’une créature artificielle nouvellement créée possède correspond à la moyenne de ses [dés de vie](./../Ressources/DV.md).
+**Avantage : ** Le personnage peut construire toutes les [[type Créature artificielle|créatures artificielles]] pour lesquelles il remplit les conditions. L’animation d’une créature artificielle prend un jour par tranche de 1000 po de son prix. Pour construire une créature artificielle, le personnage doit utiliser des matières premières valant la moitié du prix de base plus le prix (complet) du corps créé pour la créature artificielle. Les coûts et les conditions pour créer une créature artificielle sont résumés dans une section spéciale sur la page où elle est décrite. Le nombre de [[pv|points de vie]] qu’une créature artificielle nouvellement créée possède correspond à la moyenne de ses [[DV|dés de vie]].

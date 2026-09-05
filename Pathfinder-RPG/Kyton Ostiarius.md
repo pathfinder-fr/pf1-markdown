@@ -5,4 +5,4 @@ LastModified: 2021-04-06 00:33
 RedirectTo: Ostiarius
 ---
 
->>> [Ostiarius](./Ostiarius.md)
+>>> [[Ostiarius]]

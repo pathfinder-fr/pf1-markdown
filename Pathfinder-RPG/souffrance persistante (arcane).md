@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#SOUFFRANCEPERSISTANTE
 ---
 
->>> [arcanes#SOUFFRANCEPERSISTANTE](./arcanes.md#SOUFFRANCEPERSISTANTE)
+>>> [[arcanes#SOUFFRANCEPERSISTANTE]]

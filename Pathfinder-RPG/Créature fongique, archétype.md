@@ -40,7 +40,7 @@ La créature fongique est une plante animée ayant l’apparence d’une créatu
 
 Les créatures fongiques ont l’apparence générale de la créature de base qui les a engendrées mais leur peau est davantage constituée de matière fongique pâle que de chair et de sang. Des chapeaux et des bancs de champignons poussent sur leur corps, qui présente également des lamelles fongiques libérant leurs spores. Comme c’est le cas pour beaucoup de types de champignons, la chair des créatures fongiques est empoisonnée et toute créature qui en ingère risque de se faire infester par ses spores (comme indiqué dans la description du pouvoir création de rejetons et du poison des spores fongiques à la page suivante).
 
-La nymphe fongique présentée là est construite d’après la [nymphe](./Nymphe.md) du Bestiaire Pathfinder. Cf. page 228 du Bestiaire pour les règles concernant les pouvoirs de beauté aveuglante, d’inspiration, magiques, de regard étourdissant, de grâce surnaturelle et d’empathie sauvage de cette créature.
+La nymphe fongique présentée là est construite d’après la [[nymphe]] du Bestiaire Pathfinder. Cf. page 228 du Bestiaire pour les règles concernant les pouvoirs de beauté aveuglante, d’inspiration, magiques, de regard étourdissant, de grâce surnaturelle et d’empathie sauvage de cette créature.
 
-Voir aussi l'exemple de [nymphe fongique](./Nymphe fongique.md).
+Voir aussi l'exemple de [[nymphe fongique]].
 </div></td></tr></table>

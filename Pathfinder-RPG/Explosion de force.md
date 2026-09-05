@@ -9,10 +9,10 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [magus](./Magus.md) 5, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 5  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[magus]] 5, [[ensorceleur]]/[[magicien]] 5  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-Ce mot effet inflige 1d6 points de dégâts de force par [niveau de lanceur](./NLS.md) (maximum 10d6).
+Ce mot effet inflige 1d6 points de dégâts de force par [[NLS|niveau de lanceur]] (maximum 10d6).

@@ -15,18 +15,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 2, [Cham](./Chaman.md) 2, [Inq](./Inquisiteur.md) 2, [Méd](./Médium.md) 2, [Prê](./Prêtre.md) 2, [Spi](./Spirite.md) 2  
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2, [[Chaman|Cham]] 2, [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 2, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[COMPOSANTES|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** la créature vivante touchée  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** aucun ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** aucun ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-*Aide* apporte un bonus de moral de +1 aux [jets d’attaque](./jet dattaque.md) et aux [jets de sauvegarde](./jet de sauvegarde.md) contre la [terreur](./Registre.md), mais également 1d8 [points de vie temporaires](./points de vie temporaires.md) +1 par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) (pour un maximum de 1d8+10 au [niveau](./niveau.md) 10).
+*Aide* apporte un bonus de moral de +1 aux [[jet dattaque|jets d’attaque]] et aux [[jet de sauvegarde|jets de sauvegarde]] contre la [[registre|terreur]], mais également 1d8 [[points de vie temporaires]] +1 par [[niveau de lanceur de sorts]] (pour un maximum de 1d8+10 au [[niveau]] 10).

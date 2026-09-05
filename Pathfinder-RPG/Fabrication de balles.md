@@ -10,11 +10,11 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1  
 
-**Temps d’incantation** 1 [round](./round.md)  
+**Temps d’incantation** 1 [[round]]  
 
-**Composantes** [V, G, F](./composantes.md) (0,5 kg de plomb ou une quantité de métal mou d'une valeur de 2 po)  
+**Composantes** [[Composantes|V, G, F]] (0,5 kg de plomb ou une quantité de métal mou d'une valeur de 2 po)  
 
 **Portée** contact  
 

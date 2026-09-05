@@ -10,11 +10,11 @@ Categories:
 - Sort rôdeur 3
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 3, [Rôd](./Rôdeur.md) 3  
+**École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 3, [[rôdeur|Rôd]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
 **Portée** voir description  
 
@@ -28,7 +28,7 @@ Ce sort a deux versions différentes :
 
 **Taille.** La première version réduit d’environ un tiers la densité de la végétation affectée (herbe, buissons, lianes, arbres, etc.) qui devient plus clairsemée. Cet effet fonctionne à longue portée (120 m + 12 m par niveau du personnage). Les plantes affectées semblent avoir été récemment taillées.
 
-Cette version du sort dissipe automatiquement tous les effets d’amélioration des plantes comme *[enchevêtrement](./Enchevêtrement.md)*, *[croissance végétale](./Croissance végétale.md)* et *[mur d’épines](./Mur dépines.md)*.
+Cette version du sort dissipe automatiquement tous les effets d’amélioration des plantes comme *[[enchevêtrement]]*, *[[croissance végétale]]* et *[[mur dépines|mur d’épines]]*.
 
 Au choix du lanceur de sorts, la zone d’effet prend la forme d’un cercle de 30 m de rayon, d’un demi-cercle de 45 m de rayon ou d’un quart de cercle de 60 m de rayon. On peut définir des points qui ne seront pas affectés au sein de cette zone.
 

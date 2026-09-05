@@ -4,7 +4,7 @@ Title: Liste des prodiges du saint
 LastModified: 2020-06-02 09:01
 ---
 
-*Les prodiges de [Saint](./Saint.md) sont les suivants. Pour tous ces talents, le DD des jets de sauvegarde est égal à 10 + 1/2 niveau de saint + modificateur de Charisme.*
+*Les prodiges de [[Saint]] sont les suivants. Pour tous ces talents, le DD des jets de sauvegarde est égal à 10 + 1/2 niveau de saint + modificateur de Charisme.*
 <div class="article_2col">
 #### Arme divine (Sur)
 

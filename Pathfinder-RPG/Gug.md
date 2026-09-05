@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 - *Source : Bestiaire 2* p.160
 - **PX** 9.600
-- [Aberration](./type Aberration.md) de taille G, CM
-- **Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +27
+- [[type Aberration|Aberration]] de taille G, CM
+- **Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +27
 (((Défense)))
 - **CA** 24, contact 10, pris au dépourvu 23 (Dex +1, naturelle +14, taille –1)
 - **pv** 127 (15d8+60)
@@ -25,14 +25,14 @@ Categories:
 - **VD** 12 m (8 {s:c}), escalade 6 m (4 {s:c})
 - **Corps à corps** morsure, +17 (1d8+7) et 4 griffes, +17 (1d6+7)
 - **Espace** 3 m (2 {s:c}) ; Allonge 4,50 m (3 {s:c})
-- **Attaques spéciales** [éventration](./Éventration.md) (2 griffes, 1d6+10)
+- **Attaques spéciales** [[éventration]] (2 griffes, 1d6+10)
 (((Caractéristiques)))
 - **For** 25, **Dex** 12, **Con** 18, **Int** 11, **Sag** 16, **Cha** 11
 - **BBA** +11, **BMO** +19, **DMD** 30
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Bousculade supérieure](./Bousculade supérieure.md), [Combat en aveugle](./Combat en aveugle.md), [Coup fabuleux](./Coup fabuleux.md), [Fente](./Fente.md), [Science de la bousculade](./Science de la bousculade.md), [Talent](./Talent.md) ([Perception](./Perception.md))
-- **Compétences** [Connaissances](./Connaissances.md) (exploration souterraine) +10, [Discrétion](./Discrétion.md) +15, [Escalade](./Escalade.md) +15, [Évasion](./Évasion.md) +13, [Perception](./Perception.md) +27, [Survie](./Survie.md) +21 ; **Modificateurs raciaux** +4 en [Évasion](./Évasion.md)
+- **Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Bousculade supérieure]], [[Combat en aveugle]], [[Coup fabuleux]], [[Fente]], [[Science de la bousculade]], [[Talent]] ([[Perception]])
+- **Compétences** [[Connaissances]] (exploration souterraine) +10, [[Discrétion]] +15, [[Escalade]] +15, [[Évasion]] +13, [[Perception]] +27, [[Survie]] +21 ; **Modificateurs raciaux** +4 en [[Évasion]]
 - **Langues** commun des profondeurs
-- **Particularités** [compression](./Compression (capacité).md)
+- **Particularités** [[compression (capacité)|compression]]
 (((Écologie)))
 - **Environnement** sous terre
 - **Organisation sociale** solitaire, couple ou camp (3–10)
@@ -50,5 +50,5 @@ Les gugs mesurent 4,80 mètres de hauteur et pèsent près de 1 000 kg. Ils se 
 
 Les gugs sont des combattants féroces lorsqu’ils sont menés par un chef puissant, mais lorsqu’ils sont seuls, il leur arrive de fuir s’ils sont amenés en-dessous de la moitié de leur nombre maximal de points de vie. Dans ces cas-là, lorsque l’occasion se présente, ils emportent de la nourriture pour pouvoir la dévorer plus tard. Les gugs peuvent aussi survivre en se nourrissant de champignons, de vases et de moisissures ou encore de charognes et même de chair de morts-vivants (et plus particulièrement celle des goules).
 
-Certains gugs sanguinaires reçoivent des pouvoirs effrayants de la part des créatures qu’ils vénèrent. Ces monstres sont connus sous le nom de gugs savants. Ils possèdent un [Charisme](./Charisme.md) de 18 et peuvent utiliser *[invisibilité](./Invisibilité.md)*, *[pierres acérées](./Pierres acérées.md)*, *[ténèbres maudites](./Ténèbres maudites.md)* et *[transmutation de la pierre en boue](./Transmutation de la pierre en boue.md)* une fois par jour (chacun) sous la forme de pouvoirs magiques (NLS 10<sup>e</sup>, concentration +14). Certains savants deviennent même des [prêtres](./Prêtre.md) ou des [oracles](./Oracle.md) au service de leurs dieux déments, des puissances étranges liées aux ténèbres, à la folie et au sang. Les gugs savants voient leur FP augmenter de +1.
+Certains gugs sanguinaires reçoivent des pouvoirs effrayants de la part des créatures qu’ils vénèrent. Ces monstres sont connus sous le nom de gugs savants. Ils possèdent un [[Charisme]] de 18 et peuvent utiliser *[[invisibilité]]*, *[[pierres acérées]]*, *[[ténèbres maudites]]* et *[[transmutation de la pierre en boue]]* une fois par jour (chacun) sous la forme de pouvoirs magiques (NLS 10<sup>e</sup>, concentration +14). Certains savants deviennent même des [[prêtre|prêtres]] ou des [[oracle|oracles]] au service de leurs dieux déments, des puissances étranges liées aux ténèbres, à la folie et au sang. Les gugs savants voient leur FP augmenter de +1.
 </div></td></tr></table>

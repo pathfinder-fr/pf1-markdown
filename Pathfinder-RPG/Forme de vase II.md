@@ -11,21 +11,21 @@ Categories:
 
 {s:cs|Ultimate Wilderness}
 
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./métamorphose.md)) ; **Niveau** [Alch](./Alchimiste.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Magus](./Magus.md) 6  
+**École** [[Transmutation]] ([[métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un morceau de la créature dont le personnage veut prendre l’apparence)  
+**Composantes** [[composantes|V, G, M]] (un morceau de la créature dont le personnage veut prendre l’apparence)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 
-Ce sort fonctionne comme *[forme de vase I](./Forme de vase I.md)*, si ce n'est que le lanceur de sorts peut aussi se transformer en [vase](./type Vase.md) de [taille G](./taille G.md). Quelque soit la vase dont il prend la forme, le personnage obtient, en plus des avantages de *[forme de vase I](./Forme de vase I.md)*, la [vision aveugle](./vision aveugle.md) à 9 m (6 c), ainsi qu'une immunité aux dégâts de précision (coups critiques compris).
+Ce sort fonctionne comme *[[forme de vase I]]*, si ce n'est que le lanceur de sorts peut aussi se transformer en [[type vase|vase]] de [[taille G]]. Quelque soit la vase dont il prend la forme, le personnage obtient, en plus des avantages de *[[forme de vase I]]*, la [[vision aveugle]] à 9 m (6 c), ainsi qu'une immunité aux dégâts de précision (coups critiques compris).
 
-**Vase de taille G :** En prenant cette forme, le personnage obtient un bonus de taille de +2 à sa valeur de [Force](./Force.md) et de +8 à sa valeur de [Constitution](./Constitution.md), une attaque de coup (2d4 plus 1d6 acide) et la capacité de [constriction](./Constriction (capacité).md) (2d4), mais subit un malus de -8 à sa valeur de [Dextérité](./Dextérité.md).
+**Vase de taille G :** En prenant cette forme, le personnage obtient un bonus de taille de +2 à sa valeur de [[Force]] et de +8 à sa valeur de [[Constitution]], une attaque de coup (2d4 plus 1d6 acide) et la capacité de [[constriction (capacité)|constriction]] (2d4), mais subit un malus de -8 à sa valeur de [[Dextérité]].
 
 (((This spell functions as ooze form I except you can also assume the form of a Large ooze. You gain blindsight 30 feet and immunity to critical hits and precision damage as well.
 

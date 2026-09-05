@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Aptitudes de la voie du Maréchal Mythique#DONDEPUISSANCE
 ---
 
->>> [Aptitudes de la voie du Maréchal Mythique#DONDEPUISSANCE](./Aptitudes de la voie du Maréchal Mythique.md#DONDEPUISSANCE)
+>>> [[Aptitudes de la voie du Maréchal Mythique#DONDEPUISSANCE]]

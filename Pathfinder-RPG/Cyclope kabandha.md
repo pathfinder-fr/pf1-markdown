@@ -15,33 +15,33 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDtexte|*Source : Bestiaire 5 p.72*}
 {s:BDtexte|**PX** 6 400}
-{s:BDtexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, LN}
-{s:BDtexte|**Init** +7 ; **Sens** *[détection de l’invisibilité](./Détection de linvisibilité.md)*, [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +20}
+{s:BDtexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, LN}
+{s:BDtexte|**Init** +7 ; **Sens** *[[détection de linvisibilité|détection de l’invisibilité]]*, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +20}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 25, contact 12, pris au dépourvu 22 (armure +6, Dex +3, naturelle +7, taille -1)}
 {s:BDtexte|**pv** 119 (14d8+56)}
 {s:BDtexte|**Réf** +9, **Vig** +13, **Vol** +8}
-{s:BDtexte|**Capacités défensives** [férocité](./Férocité (capacité).md)}
+{s:BDtexte|**Capacités défensives** [[Férocité (capacité)|férocité]]}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 9 m}
 {s:BDtexte|**Corps à corps** 2 coups, +19 (1d6+10) et morsure, +19 (1d8+10)}
 {s:BDtexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDtexte|**Attaques spéciales** [lancer de rochers](./Lancer de rochers (capacité).md), rocher rebondissant}
-{s:BDtexte|**Pouvoirs magiques** ([NLS](./NLS.md) 14 ; [concentration](./concentration.md) +15)}
-{s:BDsorts|Constant — *[détection de l’invisibilité](./Détection de linvisibilité.md)*}
-{s:BDsorts|3/jour — *[alarme](./Alarme.md)*}
+{s:BDtexte|**Attaques spéciales** [[Lancer de rochers (capacité)|lancer de rochers]], rocher rebondissant}
+{s:BDtexte|**Pouvoirs magiques** ([[NLS]] 14 ; [[concentration]] +15)}
+{s:BDsorts|Constant — *[[détection de linvisibilité|détection de l’invisibilité]]*}
+{s:BDsorts|3/jour — *[[alarme]]*}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 31, **Dex** 17, **Con** 18, **Int** 10, **Sag** 14, **Cha** 13}
 {s:BDtexte|**BBA** +10, **BMO** +21, **DMD** 34}
-{s:BDtexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDtexte|**Compétences** [Discrétion](./Discrétion.md) +1, [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +20, [Profession](./Profession.md) (soldat) +8, [Psychologie](./Psychologie.md) +9, [Survie](./Survie.md) +10 ; **Modificateurs raciaux** +8 en Perception}
+{s:BDtexte|**Dons** [[Attaque en puissance]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Science de la volonté de fer]], [[Vigilance]], [[Volonté de fer]]}
+{s:BDtexte|**Compétences** [[Discrétion]] +1, [[Intimidation]] +9, [[Perception]] +20, [[Profession]] (soldat) +8, [[Psychologie]] +9, [[Survie]] +10 ; **Modificateurs raciaux** +8 en Perception}
 {s:BDtexte|**Langues** commun, cyclope, géant}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** terre ferme ou sous terre}
 {s:BDtexte|**Organisation sociale** solitaire, patrouille (2-5) ou compagnie (6-20)}
 {s:BDtexte|**Trésor** standard (massue, cuirasse de maître, autres trésors)}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Rocher rebondissant (Ext).** Un kabandha peut lancer un rocher rebondissant à la trajectoire mortelle qui inflige 1d8+10 points de dégâts à toutes les créatures sur le sol ferme situées sur une ligne de 15 mètres ([Réflexes](./Réflexes.md) [DD](./DD.md) 27, 1/2 dégâts). Au bout de cette ligne, la pierre éclate si elle frappe un obstacle et inflige 2d6+10 points de dégâts à toutes les créatures dans un rayon de 3 mètres (Réflexes DD 27, 1/2 dégâts). Une créature située à la fois sur la ligne et près de l’obstacle peut donc subir ces deux montants de dégâts à cause de ce pouvoir. Le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) est basé sur la [Force](./Force.md).}
+{s:BDtexte|**Rocher rebondissant (Ext).** Un kabandha peut lancer un rocher rebondissant à la trajectoire mortelle qui inflige 1d8+10 points de dégâts à toutes les créatures sur le sol ferme situées sur une ligne de 15 mètres ([[Réflexes]] [[DD]] 27, 1/2 dégâts). Au bout de cette ligne, la pierre éclate si elle frappe un obstacle et inflige 2d6+10 points de dégâts à toutes les créatures dans un rayon de 3 mètres (Réflexes DD 27, 1/2 dégâts). Une créature située à la fois sur la ligne et près de l’obstacle peut donc subir ces deux montants de dégâts à cause de ce pouvoir. Le [[DD]] du [[jds|jet de sauvegarde]] est basé sur la [[Force]].}
 </div>
 </td>
 <td>
@@ -52,11 +52,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Cyclope](./Cyclope.md) || 5
+| [[Cyclope]] || 5
 |-
-| [Cyclope kabandha](./Cyclope kabandha.md) || 9
+| [[Cyclope kabandha]] || 9
 |-
-| [Grand cyclope](./Grand cyclope.md) || 12
+| [[Grand cyclope]] || 12
 |}
 </div>*Ce géant imposant n’a pas de tête. Au lieu de cela, son visage doté d’un unique oeil se trouve au milieu de son large torse.*
 

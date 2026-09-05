@@ -4,17 +4,17 @@ Title: Le pistoléro (Playtest Guns & Gears)
 LastModified: 2021-01-11 22:51
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)   
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]   
 
-• [Retour à la page du playtest de Guns & Gears](./PlaytestGG.md)
+• [[PlaytestGG|Retour à la page du playtest de Guns & Gears]]
 
 ### Présentation générale
 
-• Voir l'[évolution du pistoléro](./PlaytestGG Pistoléro-évolution.md)  
+• Voir l'[[PlaytestGG Pistoléro-évolution|évolution du pistoléro]]  
 
-• Voir les [dons de classe de pistoléro](./PlaytestGG Pistoléro-dons.md)
+• Voir les [[PlaytestGG Pistoléro-dons|dons de classe de pistoléro]]
 
 *Un flash éblouissant, une fumée noire à forte odeur, et le recul brutal d'une arme à feu qui rugit... ce sont ces sensations qui vous poussent vers l'avant. Avec votre arme inhabituelle et mortelle à la main, vous êtes prêts à participer à n'importe quel combat, confiant que vos réflexes aiguisés vous permettront d'éviter tous les dangers qui parviennent à pénétrer dans la portée de votre arme à feu. Toujours vigilant, vous restez attentif au moindre danger, à la moindre occasion, gardant votre arme prête et à portée de main.*
 

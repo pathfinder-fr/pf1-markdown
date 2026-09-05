@@ -15,12 +15,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Divination](./école divination.md) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 2, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (le fil d'un tabard ou d'une livrée)
-**Portée** [contact](./contact.md)
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 1, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (le fil d'un tabard ou d'une livrée)
+**Portée** [[contact]]
 **Cibles** créature touchée
 **Durée** 10 minutes/niveau
 **Jet de sauvegarde** Volonté, annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-Le personnage transmet sa connaissance de la noblesse et de la pairie à la cible, ce qui lui permet de reconnaître les membres d'une maison noble, de différencier un blason d'un autre, et d'identifier qui est qui dans un bal royal ou tout autre événement social notable. La cible est capable d'identifier les personnes nobles, les noms de familles nobles, les armoiries, les chevalières et autres symboles. La cible considère que son nombre de rangs en [Connaissances](./Connaissances.md) (noblesse) est égal à celui du personnage, jusqu'à un maximum de 5 et un minimum de 0. Si le nombre de rangs de la cible est supérieur à celui du personnage, elle utilise son propre nombre de rangs à la place. De plus, si le nouveau bonus total en Connaissances (noblesse) de la cible est d'au moins +0, elle réussit automatiquement tous les tests de Connaissances (noblesse) avec un [DD](./DD.md) de 10 ou moins.
+Le personnage transmet sa connaissance de la noblesse et de la pairie à la cible, ce qui lui permet de reconnaître les membres d'une maison noble, de différencier un blason d'un autre, et d'identifier qui est qui dans un bal royal ou tout autre événement social notable. La cible est capable d'identifier les personnes nobles, les noms de familles nobles, les armoiries, les chevalières et autres symboles. La cible considère que son nombre de rangs en [[Connaissances]] (noblesse) est égal à celui du personnage, jusqu'à un maximum de 5 et un minimum de 0. Si le nombre de rangs de la cible est supérieur à celui du personnage, elle utilise son propre nombre de rangs à la place. De plus, si le nouveau bonus total en Connaissances (noblesse) de la cible est d'au moins +0, elle réussit automatiquement tous les tests de Connaissances (noblesse) avec un [[DD]] de 10 ou moins.

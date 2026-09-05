@@ -12,9 +12,9 @@ Categories:
 
 *Ceux que vous prenez à rompre leurs engagements sont davantage sujets à vos pouvoirs*
 
-**Conditions** Capacité à lancer des sorts de niveau 1, alignement Loyal Mauvais, suivant du [dieu-diable des contrats](./../Golarion/Asmodéus.md)
+**Conditions** Capacité à lancer des sorts de niveau 1, alignement Loyal Mauvais, suivant du [[Golarion.Asmodéus|dieu-diable des contrats]]
 
-**Avantage** Le personnage obtient un bonus de +5 aux test de [Psychologie](./Psychologie.md) pour déterminer si une créature est en train de lui mentir lorsqu'il lui demande si elle a respecté les termes d'un contrat ou d'un accord qu'elle a formellement passé avec lui. Cela inclut tous les contrats écrits et signés mais également des choses telles que des vœux de loyauté passés devant témoin ou une charte de guilde. Si le personnage réussit un tel test de [Psychologie](./Psychologie.md) et apprend qu'une créature a violé sa part des termes d'un tel accord, cette créature souffre d'une pénalité de -2 aux [jets de sauvegarde](./JDS.md) contre les sorts du personnage, ses pouvoirs magiques et ses capacités surnaturelles.
+**Avantage** Le personnage obtient un bonus de +5 aux test de [[Psychologie]] pour déterminer si une créature est en train de lui mentir lorsqu'il lui demande si elle a respecté les termes d'un contrat ou d'un accord qu'elle a formellement passé avec lui. Cela inclut tous les contrats écrits et signés mais également des choses telles que des vœux de loyauté passés devant témoin ou une charte de guilde. Si le personnage réussit un tel test de [[Psychologie]] et apprend qu'une créature a violé sa part des termes d'un tel accord, cette créature souffre d'une pénalité de -2 aux [[jds|jets de sauvegarde]] contre les sorts du personnage, ses pouvoirs magiques et ses capacités surnaturelles.
 
 (((Verify
 

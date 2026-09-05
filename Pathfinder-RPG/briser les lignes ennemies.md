@@ -15,18 +15,18 @@ Categories:
 ---
 
 {s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:MR}
-**École** [Transmutation](./Transmutation.md) ;
-**Niveau** [Alch](./Alchimiste.md) 1, [Apal](./Antipaladin.md) 1, [Inq](./Inquisiteur.md) 1, [Magus](./Magus.md) 1, [Pal](./Paladin.md) 1, [Rôd](./Rôdeur.md) 1  
+**École** [[Transmutation]] ;
+**Niveau** [[Alchimiste|Alch]] 1, [[Antipaladin|Apal]] 1, [[Inquisiteur|Inq]] 1, [[Magus]] 1, [[Paladin|Pal]] 1, [[Rôdeur|Rôd]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
 
-Le personnage gagne un bonus de 6 mètres à la vitesse de déplacement quand il charge et un bonus de +2 aux tests de [manoeuvre offensive](./manoeuvres-offensives.md) quand il tente une [bousculade](./bousculade.md) ou un [renversement](./renversement.md).
+Le personnage gagne un bonus de 6 mètres à la vitesse de déplacement quand il charge et un bonus de +2 aux tests de [[manoeuvres offensives|manoeuvre offensive]] quand il tente une [[bousculade]] ou un [[renversement]].

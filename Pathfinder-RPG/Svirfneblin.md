@@ -14,8 +14,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire* p.267}
 {s:BDTexte|**PX** 400}
 {s:BDTexte|Svirfneblin, rôdeur 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gnome](./sous-type gnome.md)) de taille P, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gnome|gnome]]) de taille P, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 11 (Dex +2, esquive +2, taille +1)}
 {s:BDTexte|**pv** 15 (1d10+5)}
@@ -27,18 +27,18 @@ Categories:
 {s:BDTexte|**Distance** arbalète légère +4 (1d6/19-20)}
 {s:BDTexte|**Attaques spéciales** +1 à l'attaque contre les humanoïdes nains et reptiliens, ennemi juré (nain +2)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 1)}
-{s:BDSorts|Constant—*[antidétection](./Antidétection.md)*}
-{s:BDSorts|1/jour—*[cécité/surdité](./Cécitésurdité.md)* (DD 12), *[déguisement](./Déguisement.md)*, *[flou](./Flou.md)*}
+{s:BDSorts|Constant—*[[antidétection]]*}
+{s:BDSorts|1/jour—*[[cécitésurdité|cécité/surdité]]* (DD 12), *[[déguisement]]*, *[[flou]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 15, **Con** 14, **Int** 10, **Sag** 10, **Cha** 8}
 {s:BDTexte|**BBA** +1, **BMO** +1, **DMD** 15}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (alchimie) +6, [Connaissances](./Connaissances.md) (donjons) +4, [Discrétion](./Discrétion.md) +12 (+14 sous terre), [Perception](./Perception.md) +6, [Premiers secours](./Premiers secours.md) +4, [Survie](./Survie.md) +4 (+5 pour pister) ; **Modificateurs raciaux** +2 en [Artisanat](./Artisanat.md) (alchimie), +2 en [Discrétion](./Discrétion.md) (+4 en [Discrétion](./Discrétion.md) sous terre), +2 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (alchimie) +6, [[Connaissances]] (donjons) +4, [[Discrétion]] +12 (+14 sous terre), [[Perception]] +6, [[Premiers secours]] +4, [[Survie]] +4 (+5 pour pister) ; **Modificateurs raciaux** +2 en [[Artisanat]] (alchimie), +2 en [[Discrétion]] (+4 en [[Discrétion]] sous terre), +2 en [[Perception]]}
 {s:BDTexte|**Langues** commun des profondeurs, gnome}
 {s:BDTexte|**Particularités** connaissance de la pierre, empathie sauvage +0, pistage}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** sous terre}
-{s:BDTexte|**Organisation sociale** solitaire, compagnie (2-4), escouade (5-20 et 1 chef de niveau 3-6 et 2 sergents de niveau 3) ou groupe (30-50 et 1 sergent de niveau 3 par 20 adultes, 5 lieutenants de niveau 5, 3 capitaines de niveau 7 et 2-5 [élémentaires de terre](./Élémentaire de la Terre.md) de taille M)}
+{s:BDTexte|**Organisation sociale** solitaire, compagnie (2-4), escouade (5-20 et 1 chef de niveau 3-6 et 2 sergents de niveau 3) ou groupe (30-50 et 1 sergent de niveau 3 par 20 adultes, 5 lieutenants de niveau 5, 3 capitaines de niveau 7 et 2-5 [[élémentaire de la terre|élémentaires de terre]] de taille M)}
 {s:BDTexte|**Trésor** équipement de PNJ (pic de guerre lourd, arbalète légère avec 10 carreaux, autres trésors)}
 </div>
 </td><td><div>''Ce gnome chauve a la peau grise comme la roche, un corps mince et des
@@ -71,5 +71,5 @@ Les svirfneblins ne possèdent pas de dés de vie raciaux et progressent en acqu
 - **Sens.** Les svirfneblins peuvent voir dans le noir jusqu’à 36 mètres et possèdent également une vision nocturne.
 - **Langues.** Les svirfneblins parlent automatiquement le commun des profondeurs et le gnome. S’ils disposent d’une Intelligence élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : aklo, commun, draconique, elfe, géant, gobelin, orque, nain, terreux.
 
-{s:VoirAussiAvant}La page de la race [Gnome des profondeurs](./svirfneblin (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Svirfneblin (race)|Gnome des profondeurs]]{s:VoirAussiAprès}
 </div></td></tr></table>

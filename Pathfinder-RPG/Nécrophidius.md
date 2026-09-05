@@ -14,29 +14,29 @@ Categories:
 {s:pucem|Créature artificielle|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.205}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 12 (Dex +3, naturelle +2)}
 {s:BDTexte|**pv** 36 (3d10+20)}
 {s:BDTexte|**Réf** +4, **Vig** +1, **Vol** +1}
-{s:BDTexte|**Capacités défensives** [traits des créatures artificielles](./Traits des créatures artificielles.md) ; RD 5/contondant}
+{s:BDTexte|**Capacités défensives** [[traits des créatures artificielles]] ; RD 5/contondant}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +6 (1d8+4 plus paralysie)}
 {s:BDTexte|**Attaques spéciales** danse mortelle}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 17, **Con** —, **Int** —, **Sag** 11, **Cha** 1}
-{s:BDTexte|**BBA** +3, **BMO** +6, **DMD** 19 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +15  ; Modificateurs raciaux +12 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**BBA** +3, **BMO** +6, **DMD** 19 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Compétences** [[Discrétion]] +15  ; Modificateurs raciaux +12 en [[Discrétion]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire ou groupe (2–6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Danse mortelle (Ext).** Un nécrophidius peut fasciner ses adversaires en se balançant d’avant en arrière par une action complexe. Toutes les créatures situées dans un rayon de 9 mètres et capables de voir le nécrophidius dansant doivent réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 15 pour ne pas être hébétées pendant 2d4 rounds. Il s’agit d’un effet mental. Le DD du jet de sauvegarde dépend de la [Constitution](./Constitution.md) et comporte un bonus racial
+{s:BDTexte|**Danse mortelle (Ext).** Un nécrophidius peut fasciner ses adversaires en se balançant d’avant en arrière par une action complexe. Toutes les créatures situées dans un rayon de 9 mètres et capables de voir le nécrophidius dansant doivent réussir un jet de [[Volonté]] de [[DD]] 15 pour ne pas être hébétées pendant 2d4 rounds. Il s’agit d’un effet mental. Le DD du jet de sauvegarde dépend de la [[Constitution]] et comporte un bonus racial
 de +4.}
-{s:BDTexte|**Paralysie (Sur).** Toutes les créatures vivantes qui sont mordues par un nécrophidius doivent réussir un jet de [Vigueur](./Vigueur.md) de DD 13 pour ne pas être paralysées pendant 1d4 rounds. Le DD du jet de sauvegarde dépend de la Constitution et comporte un bonus racial de +2.}
+{s:BDTexte|**Paralysie (Sur).** Toutes les créatures vivantes qui sont mordues par un nécrophidius doivent réussir un jet de [[Vigueur]] de DD 13 pour ne pas être paralysées pendant 1d4 rounds. Le DD du jet de sauvegarde dépend de la Constitution et comporte un bonus racial de +2.}
 </div>
 </td><td><div>''De légers craquements d’os révèlent la présence de ce long squelette
 sinueux de serpent orné d’un crâne humanoïde et de mâchoires serpentines.''
@@ -58,5 +58,5 @@ Le corps d’un nécrophidius se compose d’un crâne humain et des restes sque
 **NLS** 10<sup>e</sup> ; **Prix** 7 500 po
 
 
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[baiser de la goule](./Baiser de la goule.md)*, *[grâce féline](./Grâce féline.md)*, *[hébétement de monstre](./Hébétement de monstre.md)*, *[quête](./Quête.md)* ; le créateur doit avoir un [NLS](./NLS.md) supérieur ou égal à 7 ; **Compétence** [Artisanat](./Artisanat.md) (sculpture) ou [Premiers secours](./Premiers secours.md) [DD](./DD.md) 15 ; **Coût** 4 250 po.
+**Conditions** [[Création de créatures artificielles]], *[[baiser de la goule]]*, *[[grâce féline]]*, *[[hébétement de monstre]]*, *[[quête]]* ; le créateur doit avoir un [[NLS]] supérieur ou égal à 7 ; **Compétence** [[Artisanat]] (sculpture) ou [[Premiers secours]] [[DD]] 15 ; **Coût** 4 250 po.
 </div></td></tr></table>

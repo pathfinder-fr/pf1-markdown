@@ -10,9 +10,9 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Berrexi|FP 1}
-{s:BDTexte|*Source : [Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes], p.82*}
-{s:BDTexte|[Humain](./../Pathfinder-RPG/Humain.md) [Guerrier](./../Pathfinder-RPG/Guerrier.md) 1}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, CM}
+{s:BDTexte|*Source : [[Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes]], p.82*}
+{s:BDTexte|[[Pathfinder-RPG.Humain|Humain]] [[Pathfinder-RPG.guerrier|Guerrier]] 1}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] de taille M, CM}
 {s:BDTexte|**Init **+2 ; **sens **Détection 0, Perception auditive 0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 12, pris au dépourvu 15 (+5 armure, +2 Dex)}
@@ -27,7 +27,7 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 15, **Con** 14, **Int** 12, **Sag** 10, **Cha** 11 }
 {s:BDTexte|**BBA** +1; **BMO** +4; **DMD **16}
-{s:BDTexte|**Dons** [Arme de prédilection](./../Pathfinder-RPG/Arme de prédilection.md) (épée longue), [Combat à deux armes](./../Pathfinder-RPG/Combat à deux armes.md), [Robustesse](./../Pathfinder-RPG/Robustesse.md)}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Arme de prédilection|Arme de prédilection]] (épée longue), [[Pathfinder-RPG.Combat à deux armes|Combat à deux armes]], [[Pathfinder-RPG.Robustesse|Robustesse]]}
 {s:BDTexte|**Compétences** Dressage +7, Équitation +10, Intimidation +7}
 {s:BDTexte|**Langues** Commun, Varisien}
 {s:BDSousTitre|Équipement de combat}

@@ -7,11 +7,11 @@ Categories:
 - Organisation
 ---
 
-{s:Organisation|Chambre du Soleil|Sun Chamber|LN|Gouvernement du [Bachuan](./Bachuan.md)|[Peija](./Peija.md), [Bachuan](./Bachuan.md)|Grand-mère Pei|-|Conseil de bureaucrates aînés|National ([Bachuan](./Bachuan.md))|-}La Chambre du Soleil est le corps gouvernemental de la [république du Bachuan](./Bachuan.md). Fondé par Grand-père Pei suite à la Révolution Bachuane, la Chambre du Soleil forma le centre nerveux du nouveau pouvoir communiste. Composées de six conseillers ambitieux, la Chambre du Soleil supervise de nombreux minitères, dont l'infâme [Ministère de la Paix et de l'Harmonie](./Ministère-de-la-Paix-et-de-lHarmonie.md).
+{s:Organisation|Chambre du Soleil|Sun Chamber|LN|Gouvernement du [[Bachuan]]|[[Peija]], [[Bachuan]]|Grand-mère Pei|-|Conseil de bureaucrates aînés|National ([[Bachuan]])|-}La Chambre du Soleil est le corps gouvernemental de la [[Bachuan|république du Bachuan]]. Fondé par Grand-père Pei suite à la Révolution Bachuane, la Chambre du Soleil forma le centre nerveux du nouveau pouvoir communiste. Composées de six conseillers ambitieux, la Chambre du Soleil supervise de nombreux minitères, dont l'infâme [[Ministère de la Paix et de lHarmonie|Ministère de la Paix et de l'Harmonie]].
 
 Suite au décès de Grand-père Pei an 4668 AR, la Chambre du Soleil a mis à sa place sa jeune veuve Pu Yae Men, plus connue sous le nom de Grand-mère Pei.
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur la Chambre du Soleil dans le supplément
-- [Pathfinder Companion: Dragon Empires Primer](./Publications.md#DRAGONEMPIRESPRIMER)
+- [[Golarion.Publications#DRAGONEMPIRESPRIMER|Pathfinder Companion: Dragon Empires Primer]]
 {s:VoirAussiAprès}

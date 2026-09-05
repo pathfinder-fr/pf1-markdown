@@ -10,8 +10,8 @@ LastModified: 2021-02-20 15:30
 {s:pucem|Plante|Souterrain|Tempéré}
 - *Source : Bestiaire 2 page 218*
 - **PX** 1200
-- [Plante](./type Plante.md) de taille P, N
-- **Init** +0 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 9m ; [Perception](./Perception.md) +0
+- [[type Plante|Plante]] de taille P, N
+- **Init** +0 ; **Sens** [[perception des vibrations]] 9m ; [[Perception]] +0
 (((Défense)))
 - **CA** 17, contact 11, pris au dépourvu 17 (naturelle +6, taille +1)
 - **pv** 39 (6d8+12)

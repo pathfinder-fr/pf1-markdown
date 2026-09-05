@@ -8,7 +8,7 @@ Categories:
 ---
 
 {s:MCA}**Prix** 25 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
 La trousse de musc se compose d'une dizaine de fioles de fluides concentrés, de glandes animales préparées et de composés végétaux. Le personnage peut utiliser les muscs fortement parfumés pour marquer des possessions, des lieux et des pistes qu'il est ensuite possible d'identifier ou de suivre à l'odeur. Certains chasseurs plongent leurs flèches ou autres armes dans le musc afin de marquer et de pister les proies blessées.  
   

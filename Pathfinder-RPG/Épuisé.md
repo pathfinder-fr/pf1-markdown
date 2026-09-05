@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Épuisé
 ---
 
->>> [États préjudiciables#Épuisé](./États préjudiciables.md#Épuisé)
+>>> [[États préjudiciables#Épuisé]]

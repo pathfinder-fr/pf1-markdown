@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#ADAMANTIUM
 ---
 
->>> [Matériaux spéciaux#ADAMANTIUM](./Matériaux spéciaux.md#ADAMANTIUM)
+>>> [[Matériaux spéciaux#ADAMANTIUM]]

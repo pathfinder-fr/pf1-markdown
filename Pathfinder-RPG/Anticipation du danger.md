@@ -18,16 +18,16 @@ Categories:
 ---
 
 {s:UM}
-**École** [Divination](./école divination.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Bard](./Barde.md) 1, [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [Rôd](./Rôdeur.md) 1, [Spi](./Spirite.md) 1</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, G](./composantes.md)</br>
-**Portée** [contact](./Présentation des sorts.md#PORTEE)</br>
+**École** [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Spirite|Spi]] 1</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[Composantes|V, G]]</br>
+**Portée** [[présentation des sorts#PORTEE|contact]]</br>
 **Cible** une créature</br>
-**Durée** 1 minute/[niveau](./niveau.md) ou jusqu’à activation</br>
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Durée** 1 minute/[[niveau]] ou jusqu’à activation</br>
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Une créature affectée par l’*anticipation du danger* obtient une perception surnaturelle du danger. Pendant la durée du sort, la première fois qu’elle doit faire un test d’[initiative](./initiative.md), elle ajoute un bonus d’intuition égal au [niveau du lanceur de sorts](./NLS.md) (+5 au maximum) à ce test. Le sort se termine une fois le bonus appliqué.
+Une créature affectée par l’*anticipation du danger* obtient une perception surnaturelle du danger. Pendant la durée du sort, la première fois qu’elle doit faire un test d’[[initiative]], elle ajoute un bonus d’intuition égal au [[NLS|niveau du lanceur de sorts]] (+5 au maximum) à ce test. Le sort se termine une fois le bonus appliqué.
 
 ### Mythique
 {s:CMy}
-Ajoutez le [grade](./Grade.md) du personnage au bonus d’[initiative](./initiative.md) et au bonus maximum d’[initiative](./initiative.md) conférés par le sort.
+Ajoutez le [[grade]] du personnage au bonus d’[[initiative]] et au bonus maximum d’[[initiative]] conférés par le sort.

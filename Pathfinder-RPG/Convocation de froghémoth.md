@@ -10,22 +10,22 @@ Categories:
 ---
 
 {s:UM}
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Dru](./Druide.md) 9  
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Druide|Dru]] 9  
 
-**Temps d’incantation** 1 [round](./round.md)  
+**Temps d’incantation** 1 [[round]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Ce sort invoque un [froghémoth](./Froghémoth.md) qui donne le meilleur de lui-même pour combattre les ennemis du personnage. Il se manifeste là où le personnage le décide et agit immédiatement, lors du tour du personnage. Si le [druide](./Druide.md) est capable de communiquer avec lui, il peut lui dire qui attaquer, qui épargner, et même lui donner d’autres instructions.
+Ce sort invoque un [[froghémoth]] qui donne le meilleur de lui-même pour combattre les ennemis du personnage. Il se manifeste là où le personnage le décide et agit immédiatement, lors du tour du personnage. Si le [[druide]] est capable de communiquer avec lui, il peut lui dire qui attaquer, qui épargner, et même lui donner d’autres instructions.
 
-Un monstre convoqué ne peut à son tour convoquer d’autres créatures. Il ne peut pas davantage user de ses facultés de téléportation ou de déplacement planaire. Une créature ne peut pas être convoquée dans un environnement qui ne saurait assurer sa survie. Les créatures convoquées à l’aide de ce sort ne peuvent utiliser de sort ni de pouvoir magique qui imitent des sorts nécessitant des [composantes matérielles](./composante matérielle.md) onéreuses (comme un *[souhait](./Souhait.md)*).
+Un monstre convoqué ne peut à son tour convoquer d’autres créatures. Il ne peut pas davantage user de ses facultés de téléportation ou de déplacement planaire. Une créature ne peut pas être convoquée dans un environnement qui ne saurait assurer sa survie. Les créatures convoquées à l’aide de ce sort ne peuvent utiliser de sort ni de pouvoir magique qui imitent des sorts nécessitant des [[composante matérielle|composantes matérielles]] onéreuses (comme un *[[souhait]]*).
 
-(((Ce sort fonctionne comme *[convocation d’alliés naturels IX](./Convocation dalliés naturels IX.md)* sauf qu’il invoque un [froghémoth](./Froghémoth.md).)))
+(((Ce sort fonctionne comme *[[convocation dalliés naturels IX|convocation d’alliés naturels IX]]* sauf qu’il invoque un [[froghémoth]].)))

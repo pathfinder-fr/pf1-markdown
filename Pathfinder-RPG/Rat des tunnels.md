@@ -6,6 +6,6 @@ LastModified: 2015-10-28 18:59
 
 *L’homme-rat sait se battre dans les espaces confinés.*
 
-**Conditions.** [Homme-rat](./Homme-rat (race).md), trait racial regroupement.
+**Conditions.** [[homme-rat (race)|Homme-rat]], trait racial regroupement.
 
 **Avantage.** L’homme-rat est considéré comme plus petit que la normale d’une catégorie de taille quand il s’agit de l’écraser.

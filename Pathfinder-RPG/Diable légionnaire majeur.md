@@ -7,7 +7,7 @@ Categories:
 RedirectTo: Diable de lost Majeur
 ---
 
-Dans le Bestiaire 4 p.60, le Magaav est apparu sous le nom de [Diable de l'ost](./Diable de lost.md).\
+Dans le Bestiaire 4 p.60, le Magaav est apparu sous le nom de [[Diable de lost|Diable de l'ost]].\
 Renommé "Diable légionnaire" dans le livre des damnés, le terme initial a été conservé car plus proche du nom anglais "Host Devil".
 
->>> [Diable de lost Majeur](./Diable de lost Majeur.md)
+>>> [[Diable de lost Majeur]]

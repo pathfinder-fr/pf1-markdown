@@ -15,32 +15,32 @@ Sous le nom du sort apparaît l’école de magie (et la branche, le cas échéa
 
 {s:Reference|ECOLES}
 ### Écoles (et branches)
-Tous les sorts, ou presque, appartiennent à l’une des huit écoles de magie. On appelle école un groupe de sorts qui fonctionnent de manière similaire. Quelques sorts (*[permanence](./Permanence.md)*, *[prestidigitation](./Prestidigitation.md)*, *[signature magique](./Signature magique.md)*, *[souhait](./Souhait.md)* et *[souhait limité](./Souhait limité.md)*) sont universels, ce qui signifie qu’ils ne sont rattachés à aucune école.
+Tous les sorts, ou presque, appartiennent à l’une des huit écoles de magie. On appelle école un groupe de sorts qui fonctionnent de manière similaire. Quelques sorts (*[[permanence]]*, *[[prestidigitation]]*, *[[signature magique]]*, *[[souhait]]* et *[[souhait limité]]*) sont universels, ce qui signifie qu’ils ne sont rattachés à aucune école.
 
 {s:Reference|ABJURATION}
-{s:Desambi|Il s'agit également d'une [école de magie](./Abjuration (école).md) pour magiciens.}
+{s:Desambi|Il s'agit également d'une [[Abjuration (école)|école de magie]] pour magiciens.}
 #### Abjuration
-Les abjurations sont des sorts de protection. Elles génèrent des barrières physiques ou magiques, contrent certains pouvoirs (physiques ou magiques), nuisent aux intrus ou bannissent leur cible dans un autre [plan d’existence](./Plans.md).
+Les abjurations sont des sorts de protection. Elles génèrent des barrières physiques ou magiques, contrent certains pouvoirs (physiques ou magiques), nuisent aux intrus ou bannissent leur cible dans un autre [[plans|plan d’existence]].
 
-Lorsque plusieurs abjurations sont actives à moins de 3 m (2 cases) l’une de l’autre pendant plus de 24 heures, l’interaction de leurs champs magiques provoque quelques fluctuations énergétiques à peine visibles. Le [DD](./DD.md) lié aux tests de [Perception](./Perception.md) permettant de repérer ces sorts diminue alors de 4.
+Lorsque plusieurs abjurations sont actives à moins de 3 m (2 cases) l’une de l’autre pendant plus de 24 heures, l’interaction de leurs champs magiques provoque quelques fluctuations énergétiques à peine visibles. Le [[DD]] lié aux tests de [[Perception]] permettant de repérer ces sorts diminue alors de 4.
 
 Lorsqu’une abjuration crée une barrière qui empêche certaines créatures d’approcher, elle ne les repousse pas pour autant. Si le personnage tente de pousser la barrière contre ces créatures il sent qu’une pression s’exerce contre elle. S’il continue de forcer sur la barrière, le sort se dissipe.
 
 {s:Reference|DIVINATION}
-{s:Desambi|Il s'agit également d'une [école de magie](./Divination (école).md) pour magiciens. Divination est également le nom d'un [sort](./Divination.md).}
+{s:Desambi|Il s'agit également d'une [[Divination (école)|école de magie]] pour magiciens. Divination est également le nom d'un [[Divination|sort]].}
 #### Divination
 Les sorts de divination permettent de retrouver des secrets oubliés depuis longtemps, de connaître l’avenir, de découvrir ce qui est caché et de percer les sorts trompeurs à jour.
 
-La plupart des sorts de divination ont une zone d’effet en forme de [cône](./cône.md) qui se déplace avec le personnage. Le [cône](./cône.md) définit la zone que le sort peut sonder en 1 round. Si le personnage étudie un même endroit pendant plusieurs rounds, il peut généralement obtenir des indications supplémentaires (voir la description de chaque sort).
+La plupart des sorts de divination ont une zone d’effet en forme de [[cône]] qui se déplace avec le personnage. Le [[cône]] définit la zone que le sort peut sonder en 1 round. Si le personnage étudie un même endroit pendant plusieurs rounds, il peut généralement obtenir des indications supplémentaires (voir la description de chaque sort).
 
-{s:Reference|SCRUTATION}{s:Desambi|Scrutation est également le nom d'un [sort](./scrutation.md).}**Scrutation.** Un sort de scrutation crée un capteur magique invisible qui fournit des informations au personnage. À moins qu'il n’en soit précisé autrement, ce capteur a la même puissance sensorielle que le personnage. Ce degré de perception tient compte des sorts et effets qui le prennent pour cible, mais pas de ceux qui émanent de lui. Cependant, le capteur est un organe sensoriel indépendant qui fonctionne même si le personnage est [aveuglé](./Aveuglé.md), [assourdi](./Assourdi.md) ou handicapé au niveau des autres sens.
+{s:Reference|SCRUTATION}{s:Desambi|Scrutation est également le nom d'un [[scrutation|sort]].}**Scrutation.** Un sort de scrutation crée un capteur magique invisible qui fournit des informations au personnage. À moins qu'il n’en soit précisé autrement, ce capteur a la même puissance sensorielle que le personnage. Ce degré de perception tient compte des sorts et effets qui le prennent pour cible, mais pas de ceux qui émanent de lui. Cependant, le capteur est un organe sensoriel indépendant qui fonctionne même si le personnage est [[aveuglé]], [[assourdi]] ou handicapé au niveau des autres sens.
 
-Toute créature remarquera le capteur si elle réussit un test de [Perception](./Perception.md) (DD 20 + niveau du sort). Enfin, le capteur peut être dissipé, comme s’il s’agissait d’un sort actif.
+Toute créature remarquera le capteur si elle réussit un test de [[Perception]] (DD 20 + niveau du sort). Enfin, le capteur peut être dissipé, comme s’il s’agissait d’un sort actif.
 
 Les feuilles de plomb et autres protections magiques bloquent les sorts de scrutation mais le lanceur de sort sait que son sort est bloqué.
 
 {s:reference|ENCHANTEMENT}
-{s:Desambi|Il s'agit également d'une [école de magie](./Enchantement (école).md) pour magiciens.}
+{s:Desambi|Il s'agit également d'une [[Enchantement (école)|école de magie]] pour magiciens.}
 #### Enchantement
 Les enchantements affectent l’esprit des créatures, ce qui permet de les contrôler ou d’influer sur leur comportement.
 
@@ -51,48 +51,48 @@ Les enchantements sont des sorts mentaux. Deux branches permettent d’influer s
 {s:Reference|COERCITION}**Coercition.** Le sort oblige la cible à agir d’une façon bien précise ou modifie sa façon de penser. Certaines coercitions déterminent les actions du sujet ou génèrent un effet sur le sujet tandis que d’autres permettent au personnage de donner ses instructions à la cible au moment où il lance le sort et d’autres encore permettent de contrôler la cible en permanence.
 
 {s:Reference|EVOCATION}
-{s:Desambi|Il s'agit également d'une [école de magie](./Évocation (école).md) pour magiciens.}
+{s:Desambi|Il s'agit également d'une [[Évocation (école)|école de magie]] pour magiciens.}
 #### Évocation
 Les sorts d’évocation manipulent l’énergie magique ou puisent dans des sources de puissance invisible pour obtenir le résultat désiré. L’évocation se sert de la magie pour créer quelque chose à partir de rien. La plupart de ces sorts sont très spectaculaires sur le plan visuel, et il n’est pas rare qu’ils provoquent d’importants dégâts.
 
 {s:reference|ILLUSION}
-{s:Desambi|Il s'agit également d'une [école de magie](./Illusion (école).md) pour magiciens.}
+{s:Desambi|Il s'agit également d'une [[Illusion (école)|école de magie]] pour magiciens.}
 
 #### Illusion
 Les illusions trompent les sens et l’esprit. Elles incitent les gens à voir des choses qui n’existent pas, à ne pas voir ce qui est là, à entendre des bruits fictifs ou encore à se souvenir de choses qui ne se sont jamais produites.
 
-{s:Reference|CHIMERE}{s:Desambi|Chimère est également le nom d'un [monstre](./Chimère.md).}**Chimère.** Une chimère crée une fausse sensation. Tous ceux qui en sont victimes perçoivent la même chose, et non une version personnelle légèrement différente de la chimère. Une chimère ne peut pas faire passer une chose pour ce qu’elle n’est pas. Si elle inclut des éléments auditifs, elle ne peut pas imiter un langage intelligible, à moins que la description du sort ne le mentionne expressément. Si la chimère peut reproduire des paroles, c’est forcément dans une langue connue du personnage qui a lancé le sort, sinon, les paroles ne seront que charabia. De même, il est impossible de faire une copie visuelle de quelque chose que l’on n’a jamais vu (ou de reproduire une autre sensation qui n’a pas été expérimentée).
+{s:Reference|CHIMERE}{s:Desambi|Chimère est également le nom d'un [[chimère|monstre]].}**Chimère.** Une chimère crée une fausse sensation. Tous ceux qui en sont victimes perçoivent la même chose, et non une version personnelle légèrement différente de la chimère. Une chimère ne peut pas faire passer une chose pour ce qu’elle n’est pas. Si elle inclut des éléments auditifs, elle ne peut pas imiter un langage intelligible, à moins que la description du sort ne le mentionne expressément. Si la chimère peut reproduire des paroles, c’est forcément dans une langue connue du personnage qui a lancé le sort, sinon, les paroles ne seront que charabia. De même, il est impossible de faire une copie visuelle de quelque chose que l’on n’a jamais vu (ou de reproduire une autre sensation qui n’a pas été expérimentée).
 
-Comme les chimères et les hallucinations sont irréelles, elles ne peuvent pas reproduire des effets véritables à la façon d’autres types d’illusions. Elles ne peuvent causer de dégâts à des objets ou à des créatures, porter quelque chose, fournir une alimentation ou encore une protection contre les éléments. Par conséquent, elles sont très efficaces pour semer la [confusion](./Confus.md) chez l’ennemi ou le retarder, mais pas pour attaquer directement.
+Comme les chimères et les hallucinations sont irréelles, elles ne peuvent pas reproduire des effets véritables à la façon d’autres types d’illusions. Elles ne peuvent causer de dégâts à des objets ou à des créatures, porter quelque chose, fournir une alimentation ou encore une protection contre les éléments. Par conséquent, elles sont très efficaces pour semer la [[confus|confusion]] chez l’ennemi ou le retarder, mais pas pour attaquer directement.
 
-La [CA](./CA.md) d’une chimère est égale à 10 + son modificateur de taille.
+La [[CA]] d’une chimère est égale à 10 + son modificateur de taille.
 
 {s:Reference|FANTASME}**Fantasme.** Un fantasme fait apparaître une image mentale que le jeteur de sorts et la ou les cibles sont généralement les seuls à voir. La perception imprègne directement l’esprit de la cible. C’est une impression mentale personnelle qui se trouve uniquement dans la tête de la victime et non un faux tableau ou quoi que ce soit d’autre de réellement visible. Ceux qui ne sont pas pris pour cible par le fantasme ne la remarquent même pas. Tous les fantasmes sont des sorts mentaux.
 
 {s:Reference|HALLUCINATION}**Hallucination.** Une hallucination modifie les perceptions sensorielles du sujet pour lui communiquer de fausses informations (visuelles, olfactives, etc.) sur l’objet concerné voire lui faire croire que celui-ci a disparu.
 
-{s:Reference|MIRAGE}{s:Desambi|Mirage est également le nom d'un [sort](./mirage.md).}**Mirage.** Les mirages sont semblables aux chimères en ce sens qu’ils génèrent des images mensongères, mais ils ont également un effet mental sur ceux qui les voient . Tous les mirages sont des sorts mentaux.
+{s:Reference|MIRAGE}{s:Desambi|Mirage est également le nom d'un [[mirage|sort]].}**Mirage.** Les mirages sont semblables aux chimères en ce sens qu’ils génèrent des images mensongères, mais ils ont également un effet mental sur ceux qui les voient . Tous les mirages sont des sorts mentaux.
 
-{s:Reference|OMBRE}{s:Desambi|Ombre est également le nom d'un [monstre](./Ombre.md) et d'une [propriété d'armures magiques](./ombre (propriété).md)..}**Ombre.** Les ombres font apparaître des choses partiellement réelles à partir d’une énergie extradimensionnelle. Ces illusions peuvent avoir des effets réels. Une créature blessée par un sort d’ombre subit effectivement des dégâts.
+{s:Reference|OMBRE}{s:Desambi|Ombre est également le nom d'un [[ombre|monstre]] et d'une [[ombre (propriété)|propriété d'armures magiques]]..}**Ombre.** Les ombres font apparaître des choses partiellement réelles à partir d’une énergie extradimensionnelle. Ces illusions peuvent avoir des effets réels. Une créature blessée par un sort d’ombre subit effectivement des dégâts.
 
-{s:Reference|DEVOILE}**Illusions et jets de sauvegarde (dévoile).** En règle générale, les créatures confrontées à une illusion n’ont pas droit à un [jet de sauvegarde](./jet de sauvegarde.md) pour la percer à jour à moins de l’étudier attentivement ou d’interagir avec elle d’une manière ou d’une autre.
+{s:Reference|DEVOILE}**Illusions et jets de sauvegarde (dévoile).** En règle générale, les créatures confrontées à une illusion n’ont pas droit à un [[jet de sauvegarde]] pour la percer à jour à moins de l’étudier attentivement ou d’interagir avec elle d’une manière ou d’une autre.
 
 En cas de jet de sauvegarde réussi, l’illusion est révélée pour ce qu’elle est, mais les chimères et les fantasmes continuent d’apparaître sous forme de silhouettes translucides.
 
 Si le personnage rate son jet de sauvegarde, il ne se rend compte de rien. Quelqu’un qui a la preuve que l’illusion n’est pas réelle n’a pas besoin de faire de jet de sauvegarde. Si l’une des personnes présentes prend conscience de l’illusion et en informe ses compagnons, ces derniers peuvent effectuer un jet de sauvegarde avec un bonus de +4.
 
 {s:Reference|INVOCATION}
-{s:Desambi|Il s'agit également d'une [école de magie](./Invocation (école).md) pour magiciens.}
+{s:Desambi|Il s'agit également d'une [[Invocation (école)|école de magie]] pour magiciens.}
 #### Invocation
-Il existe cinq branches d’invocations, qui permettent de faire apparaître des objets, des créatures ou de l’énergie ([convocation](./Présentation des sorts.md#CONVOCATION)), de faire venir des entités originaires d’un autre plan ([appel](./Présentation des sorts.md#APPEL)), de soigner ([guérison](./Présentation des sorts.md#GUERISON)), de déplacer des créatures ou des objets sur de grandes distances ([téléportation](./Présentation des sorts.md#TELEPORTATION)) ou de créer des objets ou des effets de toutes pièces ([création](./Présentation des sorts.md#CREATION)). Les créatures invoquées obéissent généralement à celui qui les a appelés, mais ce n’est pas systématique.
+Il existe cinq branches d’invocations, qui permettent de faire apparaître des objets, des créatures ou de l’énergie ([[Présentation des sorts#CONVOCATION|convocation]]), de faire venir des entités originaires d’un autre plan ([[Présentation des sorts#APPEL|appel]]), de soigner ([[Présentation des sorts#GUERISON|guérison]]), de déplacer des créatures ou des objets sur de grandes distances ([[Présentation des sorts#TELEPORTATION|téléportation]]) ou de créer des objets ou des effets de toutes pièces ([[Présentation des sorts#CREATION|création]]). Les créatures invoquées obéissent généralement à celui qui les a appelés, mais ce n’est pas systématique.
 
 Une créature ou un objet transporté ou créé par une invocation ne peut pas se matérialiser dans les airs, ni à un endroit déjà occupé par quelqu’un ou quelque chose. Il doit apparaître à un endroit dégagé, sur une surface capable de le soutenir.
 
 La créature ou l’objet doit également arriver dans les limites de portée imposées par le sort, même s’il peut se déplacer par la suite.
 
-{s:Reference|APPEL}**Appel.** Le sort transporte une créature d’un autre [plan](./Plans.md) dans celui du personnage. Il offre à cette créature la capacité (à usage unique) de retourner dans son [plan](./Plans.md) d’origine, bien qu’il puisse limiter les conditions de ce retour. La créature meurt réellement si elle se fait tuer ; elle ne disparaît pas pour se reformer ailleurs contrairement aux monstres créés par les sorts de convocation (voir plus bas). La durée d’un sort d’appel est instantanée, ce qui veut dire que la créature invoquée ne peut pas être dissipée.
+{s:Reference|APPEL}**Appel.** Le sort transporte une créature d’un autre [[plans|plan]] dans celui du personnage. Il offre à cette créature la capacité (à usage unique) de retourner dans son [[plans|plan]] d’origine, bien qu’il puisse limiter les conditions de ce retour. La créature meurt réellement si elle se fait tuer ; elle ne disparaît pas pour se reformer ailleurs contrairement aux monstres créés par les sorts de convocation (voir plus bas). La durée d’un sort d’appel est instantanée, ce qui veut dire que la créature invoquée ne peut pas être dissipée.
 
-{s:Desambi|Il peut aussi s'agir d'une [capacité de monstre](./Convocation (capacité).md).}
+{s:Desambi|Il peut aussi s'agir d'une [[Convocation (capacité)|capacité de monstre]].}
 {s:Reference|CONVOCATION}**Convocation.** Le sort amène instantanément une créature ou un objet à l’endroit choisi par le lanceur de sorts. Quand le sort arrive à son terme ou s’il est dissipé, la créature convoquée retourne aussitôt d’où elle vient. En revanche, un objet convoqué reste généralement sur place, sauf indication contraire dans la description du sort. Une créature convoquée s’en retourne également si elle est tuée ou si elle tombe à 0 point de vie ou moins. Dans ce cas, elle ne meurt pas vraiment. Il lui faut 24 heures pour se reconstituer, période pendant laquelle il est impossible de l’invoquer de nouveau.
 
 Lorsque le sort s’achève et que la créature repart, tous les sorts qu’elle a pu lancer se terminent aussitôt. Une créature convoquée ne peut pas faire appel à ses propres pouvoirs de convocation si elle en a.
@@ -101,29 +101,29 @@ Lorsque le sort s’achève et que la créature repart, tous les sorts qu’elle
 
 {s:Reference|GUERISON}**Guérison.** Certaines invocations divines permettent de soigner les créatures, voire de les ramener à la vie.
 
-{s:Reference|TELEPORTATION}{s:Desambi|Téléportation est également le nom d'un [sort](./téléportation.md).}**Téléportation.** Un sort de téléportation déplace un ou plusieurs objets ou créatures sur de grandes distances. Le plus puissant de ces sorts permet de franchir les frontières entre les [plans](./Plans.md). Contrairement aux sorts de [convocation](./Présentation des sorts.md#CONVOCATION), les sorts de téléportation fonctionnent uniquement dans un sens (à moins qu’il n’en soit précisé autrement) et ne sauraient être dissipés. La téléportation est un mode de déplacement instantané qui passe par le [plan Astral](./plan Astral.md). Tout ce qui empêche les voyages astraux empêche donc aussi la téléportation.
+{s:Reference|TELEPORTATION}{s:Desambi|Téléportation est également le nom d'un [[téléportation|sort]].}**Téléportation.** Un sort de téléportation déplace un ou plusieurs objets ou créatures sur de grandes distances. Le plus puissant de ces sorts permet de franchir les frontières entre les [[plans]]. Contrairement aux sorts de [[présentation des sorts#CONVOCATION|convocation]], les sorts de téléportation fonctionnent uniquement dans un sens (à moins qu’il n’en soit précisé autrement) et ne sauraient être dissipés. La téléportation est un mode de déplacement instantané qui passe par le [[plan Astral]]. Tout ce qui empêche les voyages astraux empêche donc aussi la téléportation.
 
 {s:Reference|NECROMANCIE}
-{s:Desambi|Il s'agit également d'une [école de magie](./Nécromancie (école).md) pour magiciens.}
+{s:Desambi|Il s'agit également d'une [[Nécromancie (école)|école de magie]] pour magiciens.}
 #### Nécromancie
-Les sorts de nécromancie ont trait à la mort. Nombre d’entre eux sont en rapport direct avec les [morts-vivants](./type Mort-vivant.md).
+Les sorts de nécromancie ont trait à la mort. Nombre d’entre eux sont en rapport direct avec les [[type mort-vivant|morts-vivants]].
 
 {s:Reference|TRANSMUTATION}
-{s:Desambi|Il s'agit également d'une [école de magie](./Transmutation (école).md) pour magiciens.}
+{s:Desambi|Il s'agit également d'une [[Transmutation (école)|école de magie]] pour magiciens.}
 #### Transmutation
 Les sorts de transmutation modifient les propriétés d’une créature, d’un objet ou d’une condition.
 
-{s:Reference|METAMORPHOSE}{s:Desambi|Métamorphose est également le nom d'un [sort](./métamorphose.md).}**Métamorphose.** Un sort de métamorphose transforme le corps du personnage pour lui donner l’apparence d’une autre créature. Le sort le fait passer pour elle et lui offre donc un bonus de +10 aux tests de [Déguisement](./Déguisement.md) mais il ne lui accorde pas les capacités ni les pouvoirs de cette créature. Chaque sort de métamorphose permet au personnage de prendre la forme d’une créature d’un type donné et lui accorde des bonus aux caractéristiques et à l’armure naturelle. De plus, chaque sort de métamorphose confère des avantages supplémentaires, comme des mouvements, des résistances ou des sens particuliers. Si la forme choisie donne des avantages ou des aptitudes supérieures du même type, le personnage en bénéficie automatiquement. Si la forme choisie donne une aptitude inférieure, le personnage est obligé de s’y conformer. Sa vitesse de déplacement de base change aussi pour s’accorder à sa nouvelle forme. Si cette forme propose une vitesse de nage ou de creusement, le personnage peut respirer sous l’eau ou sous terre. Le [DD](./DD.md) de ces aptitudes est égal au [DD](./DD.md) du sort de métamorphose utilisé pour prendre cette forme.
+{s:Reference|METAMORPHOSE}{s:Desambi|Métamorphose est également le nom d'un [[métamorphose|sort]].}**Métamorphose.** Un sort de métamorphose transforme le corps du personnage pour lui donner l’apparence d’une autre créature. Le sort le fait passer pour elle et lui offre donc un bonus de +10 aux tests de [[Déguisement]] mais il ne lui accorde pas les capacités ni les pouvoirs de cette créature. Chaque sort de métamorphose permet au personnage de prendre la forme d’une créature d’un type donné et lui accorde des bonus aux caractéristiques et à l’armure naturelle. De plus, chaque sort de métamorphose confère des avantages supplémentaires, comme des mouvements, des résistances ou des sens particuliers. Si la forme choisie donne des avantages ou des aptitudes supérieures du même type, le personnage en bénéficie automatiquement. Si la forme choisie donne une aptitude inférieure, le personnage est obligé de s’y conformer. Sa vitesse de déplacement de base change aussi pour s’accorder à sa nouvelle forme. Si cette forme propose une vitesse de nage ou de creusement, le personnage peut respirer sous l’eau ou sous terre. Le [[DD]] de ces aptitudes est égal au [[DD]] du sort de métamorphose utilisé pour prendre cette forme.
 
-En plus de ces avantages, vous gagnez toutes les formes d’[attaques naturelles](./attaque naturelle.md) de la créature de base et vous êtes automatiquement formé à leur utilisation.
+En plus de ces avantages, vous gagnez toutes les formes d’[[attaque naturelle|attaques naturelles]] de la créature de base et vous êtes automatiquement formé à leur utilisation.
 
-Si le sort de métamorphose change la taille du personnage, les nouveaux modificateurs de taille s’appliquent et changent donc les modificateurs de [classe d’armure](./classe darmure.md), de [bonus d’attaque](./bonus dattaque.md), de [BMO](./BMO.md) et de [Discrétion](./Discrétion.md). Les valeurs de [caractéristique](./Caractéristiques.md) du personnage ne changent pas à moins que cela soit précisé dans la description du sort.
+Si le sort de métamorphose change la taille du personnage, les nouveaux modificateurs de taille s’appliquent et changent donc les modificateurs de [[classe darmure|classe d’armure]], de [[bonus dattaque|bonus d’attaque]], de [[BMO]] et de [[Discrétion]]. Les valeurs de [[caractéristiques|caractéristique]] du personnage ne changent pas à moins que cela soit précisé dans la description du sort.
 
 À moins qu’il en soit précisé autrement, le personnage ne peut pas utiliser un sort de métamorphose pour se transformer en un individu donné. Le personnage peut contrôler beaucoup de détails mais son apparence sera toujours celle d’un membre générique de l’espèce choisie. Le personnage ne peut pas utiliser un sort de métamorphose pour se transformer en une créature douée d’un archétype ou en une version évoluée d’une créature.
 
-Quand le personnage utilise un sort de métamorphose pour se transformer en une créature de type [animal](./type Animal.md), [draconique](./type Dragon.md), [élémentaire](./sous-type élémentaire.md), [végétal](./type Plante.md), en [créature magique](./type Créature magique.md) ou en [vermine](./type Vermine.md), son équipement se fond dans son corps. Les objets qui donnent des bonus permanents et n’ont pas besoin d’être activés continuent de fonctionner (à l’exception de ceux qui donnent des bonus d’armure ou de bouclier). Le personnage ne peut pas utiliser d’objets à activer tant qu’il est transformé. Il ne peut pas non plus lancer de sort nécessitant des [composantes matérielles](./Présentation des sorts.md#COMPOSANTEMATERIELLE) (à moins qu’il dispose du don [Dispense de composantes matérielles](./Dispense de composantes matérielles.md) ou [Incantation animale](./Incantation animale.md)) et il peut lancer des sorts à [composante somatique](./Présentation des sorts.md#COMPOSANTEGESTUELLE) ou [verbale](./Présentation des sorts.md#COMPOSANTEVERBALE) uniquement si la forme choisie lui permet de parler ou de faire les mouvements requis (dans le cas d’un [dragon](./type Dragon.md) par exemple). D’autres sorts de métamorphose peuvent être soumis à ce type de restriction s’ils transforment le personnage en quelque chose de différent de sa forme de départ (à l’appréciation du [MJ](./MJ.md)). Si la nouvelle forme du personnage n’oblige pas son équipement à se fondre en lui, l’équipement est redimensionné pour s’accorder au personnage.
+Quand le personnage utilise un sort de métamorphose pour se transformer en une créature de type [[type animal|animal]], [[type dragon|draconique]], [[sous-type élémentaire|élémentaire]], [[type plante|végétal]], en [[type créature magique|créature magique]] ou en [[type vermine|vermine]], son équipement se fond dans son corps. Les objets qui donnent des bonus permanents et n’ont pas besoin d’être activés continuent de fonctionner (à l’exception de ceux qui donnent des bonus d’armure ou de bouclier). Le personnage ne peut pas utiliser d’objets à activer tant qu’il est transformé. Il ne peut pas non plus lancer de sort nécessitant des [[Présentation des sorts#COMPOSANTEMATERIELLE|composantes matérielles]] (à moins qu’il dispose du don [[Dispense de composantes matérielles]] ou [[Incantation animale]]) et il peut lancer des sorts à [[Présentation des sorts#COMPOSANTEGESTUELLE|composante somatique]] ou [[Présentation des sorts#COMPOSANTEVERBALE|verbale]] uniquement si la forme choisie lui permet de parler ou de faire les mouvements requis (dans le cas d’un [[type dragon|dragon]] par exemple). D’autres sorts de métamorphose peuvent être soumis à ce type de restriction s’ils transforment le personnage en quelque chose de différent de sa forme de départ (à l’appréciation du [[MJ]]). Si la nouvelle forme du personnage n’oblige pas son équipement à se fondre en lui, l’équipement est redimensionné pour s’accorder au personnage.
 
-Tant que le personnage est sous l’effet d’un sort de métamorphose, il perd tous les pouvoirs surnaturels et extraordinaires liés à sa forme originelle (comme les sens surdéveloppés, l’[odorat](./odorat.md) et la [vision dans le noir](./vision dans le noir.md)). Il perd aussi les [attaques naturelles](./attaque naturelle.md) et les mouvements spéciaux qu’il possédait à l’origine. Le personnage perd aussi les aptitudes de classe qui dépendaient de sa forme mais il peut en gagner d’autres (comme un [ensorceleur](./Ensorceleur.md) qui se fait pousser des griffes). La plupart de ces modifications devraient tomber sous le sens mais c’est au [MJ](./MJ.md) de décider des aptitudes qui dépendent de la forme et se perdent quand le personnage se métamorphose. La nouvelle forme du personnage peut lui permettre de les récupérer si elle appartient à une créature qui dispose aussi des aptitudes perdues par le personnage.
+Tant que le personnage est sous l’effet d’un sort de métamorphose, il perd tous les pouvoirs surnaturels et extraordinaires liés à sa forme originelle (comme les sens surdéveloppés, l’[[odorat]] et la [[vision dans le noir]]). Il perd aussi les [[attaque naturelle|attaques naturelles]] et les mouvements spéciaux qu’il possédait à l’origine. Le personnage perd aussi les aptitudes de classe qui dépendaient de sa forme mais il peut en gagner d’autres (comme un [[ensorceleur]] qui se fait pousser des griffes). La plupart de ces modifications devraient tomber sous le sens mais c’est au [[MJ]] de décider des aptitudes qui dépendent de la forme et se perdent quand le personnage se métamorphose. La nouvelle forme du personnage peut lui permettre de les récupérer si elle appartient à une créature qui dispose aussi des aptitudes perdues par le personnage.
 
 Le personnage ne peut être affecté que par un sort de métamorphose à la fois. Si on lui lance un nouveau sort de métamorphose (ou s’il active un effet de métamorphose comme une forme animale), c’est au personnage de décider s’il accepte ce changement ou non. De plus, les sorts qui modifient la taille de leur cible n’ont aucun effet sur un personnage métamorphosé.
 
@@ -153,7 +153,7 @@ Si le personnage lance un sort de métamorphose sur une créature d’une catég
 {s:Reference|REGISTRE}
 
 ### Registre
-Le [registre](./Registre.md) apparaît (le cas échéant) sur la même ligne que l’[école](./Présentation des sorts.md) et la [branche](./Présentation des sorts.md). D’une certaine manière, il apporte une précision quant au sort en question. Certains sorts appartiennent à plusieurs registres.
+Le [[registre]] apparaît (le cas échéant) sur la même ligne que l’[[Pathfinder-RPG.présentation des sorts|école]] et la [[Pathfinder-RPG.présentation des sorts|branche]]. D’une certaine manière, il apporte une précision quant au sort en question. Certains sorts appartiennent à plusieurs registres.
 
 {s:um}Les registres existants sont : acide, Air, Bien, Chaos, douleur, Eau, Électricité, Émotion, Feu, force, froid, langage, Loi, lumière, Mal, maladie, malédiction, mental, mort, ombre, poison, son, terre, terreur.
 
@@ -165,35 +165,35 @@ Un sort mental ne fonctionne que sur les créatures dotées d’une valeur d’I
 
 {s:Reference|NIVEAU}
 ### Niveau
-La ligne suivante indique le niveau du sort, situé entre 0 et 9 inclus, qui donne une idée de la puissance de l’effet. Ce nombre est précédé par une liste des classes pouvant lancer ce sort. Le niveau du sort affecte le [DD](./DD.md) de tout jet de sauvegarde pouvant être fait pour résister aux effets du sort.
+La ligne suivante indique le niveau du sort, situé entre 0 et 9 inclus, qui donne une idée de la puissance de l’effet. Ce nombre est précédé par une liste des classes pouvant lancer ce sort. Le niveau du sort affecte le [[DD]] de tout jet de sauvegarde pouvant être fait pour résister aux effets du sort.
 
 {s:Reference|COMPOSANTES}
 ### Les composantes
 Les composantes sont indispensables au bon fonctionnement d’un sort. Cette ligne comprend les abréviations détaillant les composantes nécessaires au sort. Les indications concernant les composantes matérielles et les focaliseurs sont donnés à la fin du texte de description du sort. La plupart du temps, on ne se préoccupe guère des composantes, mais elles deviennent importantes lorsqu’elles sont chères ou lorsqu’elles viennent à manquer.
 
-{s:Reference|COMPOSANTEVERBALE}**V (verbale).** Une composante verbale représente un texte à réciter. Le personnage doit donc s’exprimer à haute et intelligible voix. Un sort de *[silence](./Silence.md)* ou un bâillon ne le permet pas et empêche donc l’incantation du sort. Un personnage sourd a 20 % de chances de rater ses sorts à composante verbale.
+{s:Reference|COMPOSANTEVERBALE}**V (verbale).** Une composante verbale représente un texte à réciter. Le personnage doit donc s’exprimer à haute et intelligible voix. Un sort de *[[silence]]* ou un bâillon ne le permet pas et empêche donc l’incantation du sort. Un personnage sourd a 20 % de chances de rater ses sorts à composante verbale.
 
 {s:Reference|COMPOSANTEGESTUELLE}**G (gestuelle).** Une composante gestuelle (ou somatique) prend la forme d’un geste précis de la main ou de toute autre partie du corps. Pour ce faire, il faut avoir au moins une main libre.
 
-{s:Reference|COMPOSANTEMATERIELLE}**M (matérielle).** Une composante matérielle est un objet ou une substance détruit par l’énergie magique en cours d’incantation. Si son prix n’est pas indiqué, on considère qu’il est négligeable. Il n’est pas nécessaire de comptabiliser les composantes matérielles peu onéreuses. On part du principe que le personnage dispose de tout ce dont il a besoin tant qu’il a accès à sa [sacoche à composantes](./sacoche à composantes.md).
+{s:Reference|COMPOSANTEMATERIELLE}**M (matérielle).** Une composante matérielle est un objet ou une substance détruit par l’énergie magique en cours d’incantation. Si son prix n’est pas indiqué, on considère qu’il est négligeable. Il n’est pas nécessaire de comptabiliser les composantes matérielles peu onéreuses. On part du principe que le personnage dispose de tout ce dont il a besoin tant qu’il a accès à sa [[sacoche à composantes]].
 
-{s:Reference|FOCALISEUR}**F (focaliseur).** Le focaliseur est une sorte d’accessoire. Contrairement à la composante matérielle classique, le focaliseur n’est pas détruit lors de l’incantation et peut donc être réutilisé. Là aussi, sauf indication contraire, le prix est négligeable. On part du principe que le personnage possède automatiquement tous les focaliseurs à coût modique dont il a besoin dans sa [sacoche à composantes](./sacoche à composantes.md).
+{s:Reference|FOCALISEUR}**F (focaliseur).** Le focaliseur est une sorte d’accessoire. Contrairement à la composante matérielle classique, le focaliseur n’est pas détruit lors de l’incantation et peut donc être réutilisé. Là aussi, sauf indication contraire, le prix est négligeable. On part du principe que le personnage possède automatiquement tous les focaliseurs à coût modique dont il a besoin dans sa [[sacoche à composantes]].
 
-{s:Reference|FOCALISEURDIVIN}**FD (focaliseur divin).** Un focaliseur divin est un objet lourd de signification religieuse. Pour les [prêtres](./Prêtre.md) et les [paladins](./Paladin.md), il s’agit d’un symbole sacré qui représente leur foi. Pour un [druide](./Druide.md) ou un [rôdeur](./Rôdeur.md), il s’agira d’une branche de houx ou d’une autre plante sacrée.
+{s:Reference|FOCALISEURDIVIN}**FD (focaliseur divin).** Un focaliseur divin est un objet lourd de signification religieuse. Pour les [[prêtre|prêtres]] et les [[paladin|paladins]], il s’agit d’un symbole sacré qui représente leur foi. Pour un [[druide]] ou un [[rôdeur]], il s’agira d’une branche de houx ou d’une autre plante sacrée.
 
 Si la ligne « Composantes » mentionne les lettres F/FD ou M/FD, cela signifie que la version profane du sort nécessite un focaliseur ou une composante matérielle (l’abréviation avant la barre oblique), et la version divine un focaliseur divin (l’abréviation après la barre oblique).
 
 {s:Reference|TEMPSDINCANTATION}
 ### Le temps d’incantation
-La plupart des sorts ont un temps d’incantation d’une [action simple](./Action simple.md). Certains exigent un round ou plus, alors que d’autres, plus rares, ne prennent qu’une [action rapide](./Action rapide.md).
+La plupart des sorts ont un temps d’incantation d’une [[action simple]]. Certains exigent un round ou plus, alors que d’autres, plus rares, ne prennent qu’une [[action rapide]].
 
-Un sort dont le temps d’incantation exige 1 round entier correspond à une [action complexe](./Action complexe.md). Il prend effet au round suivant l’incantation, juste avant le début du lanceur de sorts. Une fois que le personnage a lancé son sort, il peut agir normalement.
+Un sort dont le temps d’incantation exige 1 round entier correspond à une [[action complexe]]. Il prend effet au round suivant l’incantation, juste avant le début du lanceur de sorts. Une fois que le personnage a lancé son sort, il peut agir normalement.
 
-De même, un sort exigeant 1 minute d’incantation prend effet juste avant le tour du personnage 1 minute après qu’il a commencé à réciter ses formules magiques (pendant chacun de ces dix rounds, l’incantation est une [action complexe](./Action complexe.md), de la même façon que pour les temps d’incantation prenant un round entier). Ces actions doivent être consécutives et ininterrompues sous peine de voir le sort échouer.
+De même, un sort exigeant 1 minute d’incantation prend effet juste avant le tour du personnage 1 minute après qu’il a commencé à réciter ses formules magiques (pendant chacun de ces dix rounds, l’incantation est une [[action complexe]], de la même façon que pour les temps d’incantation prenant un round entier). Ces actions doivent être consécutives et ininterrompues sous peine de voir le sort échouer.
 
-Quand un personnage commence à lancer un sort dont le temps d’incantation est d’un round au moins, il doit rester [concentré](./Lancer des sorts.md#CONCENTRATION) à compter du round en cours jusqu’à juste avant son tour dans le round suivant (au moins). Si sa [concentration](./Lancer des sorts.md#CONCENTRATION) est brisée, le sort échoue.
+Quand un personnage commence à lancer un sort dont le temps d’incantation est d’un round au moins, il doit rester [[Lancer des sorts#CONCENTRATION|concentré]] à compter du round en cours jusqu’à juste avant son tour dans le round suivant (au moins). Si sa [[Lancer des sorts#CONCENTRATION|concentration]] est brisée, le sort échoue.
 
-Un sort dont le temps d’incantation est d’une [action rapide](./Action rapide.md) ne compte dans la limite normale de sorts qu’il est possible de lancer dans un même round. Cependant, le personnage ne peut lancer qu’un seul sort de ce type par round. Le fait de lancer un tel sort ne suscite pas d’[attaque d’opportunité](./attaque dopportunité.md).
+Un sort dont le temps d’incantation est d’une [[action rapide]] ne compte dans la limite normale de sorts qu’il est possible de lancer dans un même round. Cependant, le personnage ne peut lancer qu’un seul sort de ce type par round. Le fait de lancer un tel sort ne suscite pas d’[[attaque dopportunité|attaque d’opportunité]].
 
 Toutes les décisions liées au sort (portée, cible, zone d’effet, effet, version, etc.) sont prises au moment où il est lancé.
 
@@ -203,7 +203,7 @@ La portée d’un sort, donnée dans sa description, indique quelle distance il 
 
 **Personnelle.** Le sort n’affecte que son lanceur.
 
-{s:Reference|CONTACT}**Contact.** Il faut toucher une créature ou un objet pour l’affecter. Un sort de contact qui inflige des dégâts peut se transformer en [coup critique](./coup critique.md), comme n’importe quelle arme. Un tel sort a une chance d’asséner un coup critique sur un 20 naturel et inflige deux fois plus de dégâts en cas de confirmation. Certains sorts de contact permettent de toucher plusieurs cibles. Le personnage peut toucher jusqu’à six cibles consentantes lors de son incantation mais il doit toutes les toucher au cours du round pendant lequel il termine son incantation. Si le sort permet de le faire sur plusieurs rounds, le fait de toucher les six créatures devient une [action complexe](./Action complexe.md).
+{s:Reference|CONTACT}**Contact.** Il faut toucher une créature ou un objet pour l’affecter. Un sort de contact qui inflige des dégâts peut se transformer en [[coup critique]], comme n’importe quelle arme. Un tel sort a une chance d’asséner un coup critique sur un 20 naturel et inflige deux fois plus de dégâts en cas de confirmation. Certains sorts de contact permettent de toucher plusieurs cibles. Le personnage peut toucher jusqu’à six cibles consentantes lors de son incantation mais il doit toutes les toucher au cours du round pendant lequel il termine son incantation. Si le sort permet de le faire sur plusieurs rounds, le fait de toucher les six créatures devient une [[action complexe]].
 
 **Courte.** Le sort peut agir à une distance maximale de 7,50 m (5 cases), plus 1,50 m (1 case) tous les deux niveaux de lanceur de sorts.
 
@@ -211,7 +211,7 @@ La portée d’un sort, donnée dans sa description, indique quelle distance il 
 
 **Longue.** Le sort peut atteindre 120 m (80 cases), plus 12 m (8 cases) par niveau de lanceur de sorts.
 
-**Illimitée.** Le sort peut prendre effet n’importe où dans le même [plan](./Plans.md) que le personnage.
+**Illimitée.** Le sort peut prendre effet n’importe où dans le même [[plans|plan]] que le personnage.
 
 **Portée exprimée en mètres.** Certains sorts n’entrent dans aucune des catégories précédentes. Dans ce cas, leur portée est indiquée en mètres.
 
@@ -222,11 +222,11 @@ Selon le type de sort, il faut déterminer où il se matérialise ou qui il affe
 #### Cible(s)
 Certains sorts fonctionnent uniquement sur une ou plusieurs cibles bien définies. Le personnage les lance sur des créatures ou des objets, comme il est indiqué dans leur description. Le personnage doit voir ou toucher la cible, après quoi il lui faut expressément la choisir. Il n’a pas besoin de choisir sa cible avant la fin de l’incantation.
 
-Si le sort affecte directement celui qui le lance (« Cible : le jeteur de sorts »), il ne s’accompagne ni de [jet de sauvegarde](./jet de sauvegarde.md), ni de [résistance à la magie](./RM.md), ce qui explique que ces deux facteurs n’apparaissent pas dans la description de ces sorts.
+Si le sort affecte directement celui qui le lance (« Cible : le jeteur de sorts »), il ne s’accompagne ni de [[jet de sauvegarde]], ni de [[RM|résistance à la magie]], ce qui explique que ces deux facteurs n’apparaissent pas dans la description de ces sorts.
 
 Certains sorts affectent des sujets consentants uniquement. Rentrer dans cette catégorie est une action pouvant être réalisée à n’importe quel instant (même en étant pris au dépourvu ou à un moment qui ne correspond pas à son tour.). Les créatures inconscientes sont automatiquement consentantes, ce qui n’est pas le cas d’un personnage conscient mais immobile ou sans défense (enchaîné, recroquevillé sur lui-même, en train de lutter , paralysé, immobilisé dans le cadre d’une lutte ou stoppé).
 
-Certains sorts permettent de rediriger l’effet vers de nouvelles cibles ou zones d’effet une fois l’incantation terminée. Il s’agit d’une action de mouvement qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md).
+Certains sorts permettent de rediriger l’effet vers de nouvelles cibles ou zones d’effet une fois l’incantation terminée. Il s’agit d’une action de mouvement qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]].
 
 {s:Reference|EFFET}
 #### Effet
@@ -236,17 +236,17 @@ Le personnage doit choisir l’endroit où les objets ou créatures sont sensés
 
 {s:Reference|ETENDUE} **Étendue.** Certains sorts, notamment les nuages et les brumes, s’étendent à partir d’un point d’origine, qui doit se situer à une intersection sur la grille de jeu. Ils peuvent alors franchir les angles et atteindre des endroits que le personnage est incapable de voir. Lorsqu’on calcule les distances pour un sort à effet d’étendue, contournez les murs, ne les traversez pas. De la même manière que pour un déplacement, on ne peut avancer en diagonale au niveau d’un angle. Le personnage choisit normalement le point d’origine du sort, mais rien ne l’oblige à voir l’ensemble de la zone d’effet (voir ci-dessous).
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#34) Rayons : Est-ce que les rayons comptent comme des armes dans le cadre de sorts et d’effets qui affectent les armes ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#34|→]] Rayons : Est-ce que les rayons comptent comme des armes dans le cadre de sorts et d’effets qui affectent les armes ?***
 
-Oui. (Voir également [cette autre FAQ](./FAQ- Manuel des joueurs (Dons et compétences).md#30) pour une question similaire à propos des rayons et des dons affectant les armes.)
+Oui. (Voir également [[FAQ- Manuel des joueurs (Dons et compétences)#30|cette autre FAQ]] pour une question similaire à propos des rayons et des dons affectant les armes.)
 
-Par exemple, l’[inspiration vaillante](./Représentations.md#INSPIRATIONVAILLANTE) d’un barde indique qu’elle affecte « les jets de dégâts des armes », et est écrite de cette façon pour qu’on évite d’y inclure un sort comme *[boule de feu](./Boule de feu.md)*. En revanche, les <u>[rayons](./Présentation des sorts.md#RAYON)</u> sont traités comme des armes, qu’ils proviennent d’un sort, d’une capacité de monstre, d’une capacité de classe, ou de toute autre source, donc le bonus d’inspiration vaillante s’applique aux jets d’attaque et de dégâts des rayons.
+Par exemple, l’[[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] d’un barde indique qu’elle affecte « les jets de dégâts des armes », et est écrite de cette façon pour qu’on évite d’y inclure un sort comme *[[boule de feu]]*. En revanche, les <u>[[Présentation des sorts#RAYON|rayons]]</u> sont traités comme des armes, qu’ils proviennent d’un sort, d’une capacité de monstre, d’une capacité de classe, ou de toute autre source, donc le bonus d’inspiration vaillante s’applique aux jets d’attaque et de dégâts des rayons.
 
-La même règle s’applique aux sorts similaires à des armes comme *[lame de feu](./Lame de feu.md)*, *[épée de force](./Épée de force.md)*, et *[arme spirituelle](./Arme spirituelle.md)* – les effets qui affectent les armes fonctionnent sur ces sorts.}{s:Reference|RAYON}**Rayon.** Certains sorts se traduisent par un rayon d’énergie. Le personnage choisit sa cible comme s’il utilisait une arme à distance, mais il fait généralement une attaque de contact à distance plutôt qu’une attaque à distance normale. Comme avec une arme à distance, le personnage peut tirer dans le noir ou sur un adversaire invisible dans l’espoir de toucher quelque chose. Il n’est pas obligé de voir la créature qu’il souhaite atteindre, contrairement aux sorts à cible. Par contre, un obstacle ou un individu interposé entre le personnage et sa cible peut bloquer son champ de vision ou offrir un abri à sa cible.
+La même règle s’applique aux sorts similaires à des armes comme *[[lame de feu]]*, *[[épée de force]]*, et *[[arme spirituelle]]* – les effets qui affectent les armes fonctionnent sur ces sorts.}{s:Reference|RAYON}**Rayon.** Certains sorts se traduisent par un rayon d’énergie. Le personnage choisit sa cible comme s’il utilisait une arme à distance, mais il fait généralement une attaque de contact à distance plutôt qu’une attaque à distance normale. Comme avec une arme à distance, le personnage peut tirer dans le noir ou sur un adversaire invisible dans l’espoir de toucher quelque chose. Il n’est pas obligé de voir la créature qu’il souhaite atteindre, contrairement aux sorts à cible. Par contre, un obstacle ou un individu interposé entre le personnage et sa cible peut bloquer son champ de vision ou offrir un abri à sa cible.
 
 Si le rayon s’accompagne d’une durée, il s’agit du temps pendant lequel l’effet se produit, pas de celle durant laquelle le rayon reste actif.
 
-S’il inflige des dégâts, le rayon peut asséner un [coup critique](./coup critique.md), comme n’importe quelle arme. Un tel sort a une chance de réaliser un coup critique sur un 20 naturel et d’infliger des dégâts doublés  si le critique est confirmé.
+S’il inflige des dégâts, le rayon peut asséner un [[coup critique]], comme n’importe quelle arme. Un tel sort a une chance de réaliser un coup critique sur un 20 naturel et d’infliger des dégâts doublés  si le critique est confirmé.
 
 {s:Reference|ZONEDEFFET}
 #### Zone d’effet
@@ -256,9 +256,9 @@ Quelle que soit la forme que prend la zone d’effet, le personnage choisit son 
 
 Vous pouvez compter les cases en diagonales mais n’oubliez pas qu’une diagonale sur deux compte pour 2 cases. Si le bord le plus éloigné d’une case se trouve dans la zone d’effet, tout ce qui se trouve dans cette case est affecté par le sort. Par contre, si l’effet ne touche que le bord le plus proche de la case, le sort n’affecte rien de ce qui se trouve dedans.
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#12) Grandes créatures et effets centrés : Si une créature de taille G ou plus déclenche un effet « centré sur le lanceur », est-ce que l’émanation peut ne pas affecter l’espace entier de la créature, ou même quoi que ce soit d’autre ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#12|→]] Grandes créatures et effets centrés : Si une créature de taille G ou plus déclenche un effet « centré sur le lanceur », est-ce que l’émanation peut ne pas affecter l’espace entier de la créature, ou même quoi que ce soit d’autre ?***
 
-Non, quand une telle créature utilise <u>[une émanation ou un rayonnement](./Présentation des sorts.md#ZONEDEFFET)</u> dont la portée est « centrée sur le lanceur », on traite l’espace entier de la créature comme point d’origine, et on mesure la zone d’effet du sort ou du pouvoir depuis les bords de l’espace occupé par la créature. Par exemple, une *[zone d’antimagie](./Zone dantimagie.md)* lancée par un grand dracosire rouge s’étendrait de 3 m au-delà de son espace de 9*9 m, pour un diamètre total de 15 mètres.}**Rayonnement, émanation ou étendue.** La plupart des sorts qui affectent une zone fonctionnent comme un rayonnement, une émanation ou une étendue. Dans chacun des cas, vous déterminez le point d’origine du sort et mesurez son effet en vous en éloignant.
+Non, quand une telle créature utilise <u>[[Présentation des sorts#ZONEDEFFET|une émanation ou un rayonnement]]</u> dont la portée est « centrée sur le lanceur », on traite l’espace entier de la créature comme point d’origine, et on mesure la zone d’effet du sort ou du pouvoir depuis les bords de l’espace occupé par la créature. Par exemple, une *[[zone dantimagie|zone d’antimagie]]* lancée par un grand dracosire rouge s’étendrait de 3 m au-delà de son espace de 9*9 m, pour un diamètre total de 15 mètres.}**Rayonnement, émanation ou étendue.** La plupart des sorts qui affectent une zone fonctionnent comme un rayonnement, une émanation ou une étendue. Dans chacun des cas, vous déterminez le point d’origine du sort et mesurez son effet en vous en éloignant.
 
 {s:Reference|DEFRAYONNEMENT}Un *rayonnement* affecte tout ce qui se trouve dans la zone d’effet, y compris les créatures que le lanceur de sorts ne peut voir. En revanche, il n’affecte pas les créatures qui bénéficient d’un abri total vis-à-vis du point d’origine (en d’autres termes, il ne franchit pas les angles). Par défaut, un rayonnement prend la forme d’une sphère, mais certains ressemblent à un cône. Tout sort de ce type s’accompagne d’un rayon qui délimite la zone d’effet du sort.
 
@@ -278,7 +278,7 @@ Non, quand une telle créature utilise <u>[une émanation ou un rayonnement](./P
 
 **Créatures.** Certains sorts affectent directement des créatures (comme ceux dits « à cible ») mais, dans ce cas, ils affectent toutes les créatures comprises dans la zone d’effet et non pas seulement les créatures choisies par le lanceur de sort. La zone d’effet en question peut prendre la forme d’un rayonnement sphérique, d’un rayonnement conique, ou encore une autre forme.
 
-Nombre de sorts affectent seulement les « créatures vivantes », ce qui exclut les [morts-vivants](./type Mort-vivant.md) et les [créatures artificielles](./type Créature artificielle.md). Les créatures qui se trouvent dans la zone d’effet du sort mais ne sont pas de type approprié ne comptent pas au nombre des créatures affectées.
+Nombre de sorts affectent seulement les « créatures vivantes », ce qui exclut les [[type mort-vivant|morts-vivants]] et les [[type créature artificielle|créatures artificielles]]. Les créatures qui se trouvent dans la zone d’effet du sort mais ne sont pas de type approprié ne comptent pas au nombre des créatures affectées.
 
 **Objets.** Ces sorts affectent les objets de la zone choisie (comme pour les sort qui affectent les « Créatures » mais ils ciblent des objets).
 
@@ -306,9 +306,9 @@ L’entrée « Durée » du sort indique combien de temps l’énergie magique d
 
 **Permanente.** L’énergie persiste aussi longtemps que l’effet. Ce sort est donc vulnérable à dissipation de la magie.
 
-**Concentration.** Le sort se prolonge tant que le lanceur de sorts se [concentre](./Lancer des sorts.md#CONCENTRATION) dessus. Cela lui demande une [action simple](./Action simple.md) qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md). Tout ce qui peut interrompre la [concentration](./Lancer des sorts.md#CONCENTRATION) d’un jeteur de sorts en pleine incantation peut aussi l’interrompre pendant qu’il prolonge un sort, ce qui met fin à l’effet du sort.
+**Concentration.** Le sort se prolonge tant que le lanceur de sorts se [[lancer des sorts#CONCENTRATION|concentre]] dessus. Cela lui demande une [[action simple]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]]. Tout ce qui peut interrompre la [[lancer des sorts#CONCENTRATION|concentration]] d’un jeteur de sorts en pleine incantation peut aussi l’interrompre pendant qu’il prolonge un sort, ce qui met fin à l’effet du sort.
 
-Un personnage ne peut pas jeter de sort tant qu’il se [concentre](./Lancer des sorts.md#CONCENTRATION) sur un autre. Certains sorts persistent quelque instants après que le personnage a cessé de se [concentrer](./Lancer des sorts.md#CONCENTRATION).
+Un personnage ne peut pas jeter de sort tant qu’il se [[lancer des sorts#CONCENTRATION|concentre]] sur un autre. Certains sorts persistent quelque instants après que le personnage a cessé de se [[lancer des sorts#CONCENTRATION|concentrer]].
 
 **Sujets, effets et zones d’effet.** Si le sort affecte directement des créatures, il les accompagne jusqu’au terme de sa durée. S’il génère un effet, celui-ci persiste pendant toute la durée indiquée. L’effet peut se déplacer ou rester fixe. Il se peut qu’il soit dissipé avant la fin de la durée indiquée. Si le sort affecte une zone, il se cantonne à cette zone pendant toute sa durée.
 
@@ -318,9 +318,9 @@ Les créatures entrant dans la zone sont aussitôt affectées et ne le sont plus
 
 **Utilisation.** Il arrive qu’un sort se poursuive pendant une durée déterminée ou jusqu’à ce que quelqu’un le déclenche ou le décharge.
 
-**(T) Terminé.** Si la ligne « Durée » se termine par (T), le personnage peut mettre un terme à ce sort quand il le souhaite. Pour ce faire, il doit se trouver dans la zone d’effet du sort et prononcer les paroles appropriées, le plus souvent une version modifiée des [composantes verbales](./Présentation des sorts.md#COMPOSANTEVERBALE) du sort. Si ce dernier n’a pas de [composante verbale](./Présentation des sorts.md#COMPOSANTEVERBALE), il suffit d’un geste pour mettre fin au sort. Mettre un terme à un sort est une [action simple](./Action simple.md) qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md).
+**(T) Terminé.** Si la ligne « Durée » se termine par (T), le personnage peut mettre un terme à ce sort quand il le souhaite. Pour ce faire, il doit se trouver dans la zone d’effet du sort et prononcer les paroles appropriées, le plus souvent une version modifiée des [[Présentation des sorts#COMPOSANTEVERBALE|composantes verbales]] du sort. Si ce dernier n’a pas de [[Présentation des sorts#COMPOSANTEVERBALE|composante verbale]], il suffit d’un geste pour mettre fin au sort. Mettre un terme à un sort est une [[action simple]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]].
 
-Le personnage peut mettre un terme à un sort maintenu par [concentration](./Lancer des sorts.md#CONCENTRATION) de par sa nature même. Cela ne lui demande aucune action il lui suffit juste de ne pas se concentrer lorsque son tour arrive pour que le sort se termine.
+Le personnage peut mettre un terme à un sort maintenu par [[lancer des sorts#CONCENTRATION|concentration]] de par sa nature même. Cela ne lui demande aucune action il lui suffit juste de ne pas se concentrer lorsque son tour arrive pour que le sort se termine.
 
 {s:Reference|JETSDESAUVEGARDE}
 ### Les jets de sauvegarde
@@ -340,15 +340,15 @@ La plupart des sorts offensifs s’accompagnent généralement d’un jet de sau
 
 **(Inoffensif).** Il s’agit généralement d’un sort bénéfique et non offensif mais la cible peut faire un jet de sauvegarde si elle le désire.
 
-**Degré de difficulté des jets de sauvegarde.** Le jet de sauvegarde contre un sort s’accompagne d’un [DD](./DD.md) égal à 10 + niveau du sort + bonus du personnage dans la caractéristique concernée (l’[Intelligence](./Intelligence.md) pour les [magiciens](./Magicien.md), le [Charisme](./Charisme.md) pour les [bardes](./Barde.md), les [paladins](./Paladin.md) et les [ensorceleurs](./Ensorceleur.md), et la [Sagesse](./Sagesse.md) pour les [druides](./Druide.md), les [prêtres](./Prêtre.md), et les [rôdeurs](./Rôdeur.md)). Le niveau d’un sort peut varier en fonction de la classe du personnage. Les jeteurs de sorts doivent toujours se référer au niveau correspondant à leur classe.
+**Degré de difficulté des jets de sauvegarde.** Le jet de sauvegarde contre un sort s’accompagne d’un [[DD]] égal à 10 + niveau du sort + bonus du personnage dans la caractéristique concernée (l’[[Intelligence]] pour les [[magicien|magiciens]], le [[Charisme]] pour les [[barde|bardes]], les [[paladin|paladins]] et les [[ensorceleur|ensorceleurs]], et la [[Sagesse]] pour les [[druide|druides]], les [[prêtre|prêtres]], et les [[rôdeur|rôdeurs]]). Le niveau d’un sort peut varier en fonction de la classe du personnage. Les jeteurs de sorts doivent toujours se référer au niveau correspondant à leur classe.
 
 **Jet de sauvegarde réussi.** Lorsqu’une créature réussit son jet de sauvegarde contre un sort n’ayant aucun effet physique manifeste, elle ressent une force hostile ou un fourmillement mais elle est incapable de déterminer la nature exacte de l’attaque. De la même manière si une créature résiste à un sort qui la cible, le lanceur de sorts sait que son attaque a échoué. Ce n’est pas le cas pour les sorts de zone ou à effet.
 
 **Échecs et réussites automatiques.** Sur un 1 naturel (quand le d20 donne un 1) le jet de sauvegarde est automatiquement raté et le sort inflige des dégâts aux objets (voir « Jets de sauvegarde et objets » ci-dessous). Sur un 20 naturel (quand le d20 donne un 20), le jet de sauvegarde est automatiquement réussi.
 
-**Échec volontaire au jet de sauvegarde.** Une créature peut refuser d’effectuer un jet de sauvegarde et choisir ainsi de s’exposer aux effets d’un sort. Même un personnage doué d’une [résistance à la magie](./résistance à la magie.md) particulière peut décider de la supprimer momentanément.
+**Échec volontaire au jet de sauvegarde.** Une créature peut refuser d’effectuer un jet de sauvegarde et choisir ainsi de s’exposer aux effets d’un sort. Même un personnage doué d’une [[résistance à la magie]] particulière peut décider de la supprimer momentanément.
 
-**Jets de sauvegarde et objets.** À moins que la description du sort ne précise le contraire, tous les objets portés ou tenus par la cible résistent automatiquement aux attaques magiques. Par contre, si la cible fait un 1 naturel au jet de sauvegarde, l’un de ses objets exposés est endommagé par le sort (si celui-ci peut affecter les objets). Pour cela, se référer à la Table "[Objets affectés par les attaques magiques](./Présentation des sorts.md#TABLEOBJETSAFFECTESPARLESATTAQUEMAGIQUE)" ci-dessous. Choisissez les quatre objets portés par la créature qui ont le plus de risques d’être affectés et déterminez aléatoirement l’objet atteint. Il doit alors faire un jet de sauvegarde contre le type d’attaque approprié et subit les dégâts infligés par celle-ci.
+**Jets de sauvegarde et objets.** À moins que la description du sort ne précise le contraire, tous les objets portés ou tenus par la cible résistent automatiquement aux attaques magiques. Par contre, si la cible fait un 1 naturel au jet de sauvegarde, l’un de ses objets exposés est endommagé par le sort (si celui-ci peut affecter les objets). Pour cela, se référer à la Table "[[présentation des sorts#TABLEOBJETSAFFECTESPARLESATTAQUEMAGIQUE|Objets affectés par les attaques magiques]]" ci-dessous. Choisissez les quatre objets portés par la créature qui ont le plus de risques d’être affectés et déterminez aléatoirement l’objet atteint. Il doit alors faire un jet de sauvegarde contre le type d’attaque approprié et subit les dégâts infligés par celle-ci.
 
 Les objets non-magiques qui ne sont ni portés ni tenus n’ont droit à aucun jet de sauvegarde. Ils subissent automatiquement les dégâts indiqués.
 
@@ -385,7 +385,7 @@ Les objets non-magiques qui ne sont ni portés ni tenus n’ont droit à aucun j
 
 {s:reference|RM}
 ### La résistance à la magie
-La résistance à la magie est une capacité défensive spéciale. Si le personnage prend pour cible une créature qui bénéficie d’une certaine résistance à la magie, il doit faire un test de [niveau de lanceur de sort](./niveau de lanceur de sort.md) (1d20 + niveau de lanceur de sorts) contre la valeur de la résistance à la magie de la cible. En cas d'échec, le sort ne l’affecte pas. La résistance à la magie représente l’équivalent de la [CA](./CA.md) contre les attaques magiques. N’oubliez pas d’ajouter tout modificateur de niveau de lanceur de sorts du personnage à son test de niveau de lanceur de sorts.
+La résistance à la magie est une capacité défensive spéciale. Si le personnage prend pour cible une créature qui bénéficie d’une certaine résistance à la magie, il doit faire un test de [[niveau de lanceur de sort]] (1d20 + niveau de lanceur de sorts) contre la valeur de la résistance à la magie de la cible. En cas d'échec, le sort ne l’affecte pas. La résistance à la magie représente l’équivalent de la [[CA]] contre les attaques magiques. N’oubliez pas d’ajouter tout modificateur de niveau de lanceur de sorts du personnage à son test de niveau de lanceur de sorts.
 
 La ligne « Résistance à la magie » de la description des sorts indique si la résistance à la magie s’applique à ce sort. Dans la plupart des cas, cette dernière s’applique uniquement si la créature est directement prise pour cible, pas quand elle entre dans la zone d’effet d’un sort existant.
 

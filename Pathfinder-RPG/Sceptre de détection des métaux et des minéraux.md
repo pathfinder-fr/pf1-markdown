@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Sceptre de détection des métaux et des minéraux|}
-**Aura** [Divination](./école divination.md) modérée ; **NLS** 9 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 10 500 po ; **Poids** 2,5 kg
+**Aura** [[école Divination|Divination]] modérée ; **NLS** 9 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 10 500 po ; **Poids** 2,5 kg
 (((Description)))
-Ce sceptre est très apprécié par les chasseurs de trésor et les mineurs, car il émet des pulsations dans la main de son possesseur à proximité de métal. Les vibrations s’accentuent lorsque le porteur du sceptre pointe celui-ci vers la plus importante source de métal dans les 9 m. Le personnage peut se concentrer sur un métal ou un minéral spécifique. Si le métal ou le minéral recherché est présent à moins de 9 m de distance, le sceptre révèle tous les endroits où celui-ci se trouve, et le personnage a une impression approximative de la quantité de métal. Dans le cas où il y a plusieurs gisements, le sceptre pointe d’abord les plus importantes concentrations. Utiliser le sceptre est une [action complexe](./Action complexe.md).
+Ce sceptre est très apprécié par les chasseurs de trésor et les mineurs, car il émet des pulsations dans la main de son possesseur à proximité de métal. Les vibrations s’accentuent lorsque le porteur du sceptre pointe celui-ci vers la plus importante source de métal dans les 9 m. Le personnage peut se concentrer sur un métal ou un minéral spécifique. Si le métal ou le minéral recherché est présent à moins de 9 m de distance, le sceptre révèle tous les endroits où celui-ci se trouve, et le personnage a une impression approximative de la quantité de métal. Dans le cas où il y a plusieurs gisements, le sceptre pointe d’abord les plus importantes concentrations. Utiliser le sceptre est une [[action complexe]].
 (((Création)))
-**Conditions** [Création de sceptres magiques](./Création de sceptres magiques.md), *[localisation d’objet](./Localisation dobjet.md)* ; **Coût** 5 250 po
+**Conditions** [[Création de sceptres magiques]], *[[localisation dobjet|localisation d’objet]]* ; **Coût** 5 250 po
 </div>

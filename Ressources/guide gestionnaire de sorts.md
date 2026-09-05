@@ -4,17 +4,17 @@ Title: Guide d'utilisation du gestionnaire de sorts
 LastModified: 2010-09-02 11:12
 ---
 
-Ce guide a pour but de vous aider à installer et utiliser le [gestionnaire de sorts](./Gestionnaire de sorts.md).
+Ce guide a pour but de vous aider à installer et utiliser le [[gestionnaire de sorts]].
 
 ### Installation
 
-Commencez par télécharger et décompacter les fichiers présents depuis la page officielle : [gestionnaire de sorts](./Gestionnaire de sorts.md)
+Commencez par télécharger et décompacter les fichiers présents depuis la page officielle : [[gestionnaire de sorts]]
 
 Le pack d’icônes de sort, disponible sur le site de D&D Online n’est utilisable qu’à titre personnel. Pour l’installer, il faut décompacter le fichier et copier le contenu dans le répertoire **datas/french/** de l’application.
 
 Au final, la structure des dossiers ressemble à ça :
 
-[image||{UP(Pathfinder-RPG.guide gestionnaire de sorts)}structure_dossiers.png]
+<img src="{UP(Pathfinder-RPG.guide gestionnaire de sorts)}structure_dossiers.png" alt="">
 
 ### Création d’un raccourcis pour lancement rapide
 

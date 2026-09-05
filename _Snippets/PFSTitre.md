@@ -24,15 +24,15 @@ Société des Éclaireurs
 
 <img src="Illustrations/PFS/PFS_LogoSmall.png" class="centre" alt="">
 #### Accès aux autres chapitres
-<ul><li>[Les principes de base de la campagne](./../Aventures/PFSG-Intro.md)</li>
-<li>[Créer un personnage](./../Aventures/PFSG-Personnage.md)</li>
-<li>[Le monde](./../Aventures/PFSG-Monde.md)</li>
-<li>[Les factions](./../Aventures/PFSG-Factions.md)</li>
-<li>[Règles spécifiques](./../Aventures/PFSG-Règles.md)</li>
-<li>[Les modules autorisés](./../Aventures/PFSG-Modules.md)</li>
-<li>[Les maitres du jeu](./../Aventures/PFSG-MJ.md)</li>
-<li>[Glossaire](./../Aventures/PFSG-Glossaire.md)</li>
+<ul><li>[[PFSG-Intro|Les principes de base de la campagne]]</li>
+<li>[[PFSG-Personnage|Créer un personnage]]</li>
+<li>[[PFSG-Monde|Le monde]]</li>
+<li>[[PFSG-Factions|Les factions]]</li>
+<li>[[PFSG-Règles|Règles spécifiques]]</li>
+<li>[[PFSG-Modules|Les modules autorisés]]</li>
+<li>[[PFSG-MJ|Les maitres du jeu]]</li>
+<li>[[PFSG-Glossaire|Glossaire]]</li>
 <li style="list-style: none none">&emsp;</li>
-<li>[*Retour à la table des matières*](./../Aventures/PFSG.md)</li></ul>
+<li>[[PFSG|*Retour à la table des matières*]]</li></ul>
 </div>
 </TD></TR></TABLE>

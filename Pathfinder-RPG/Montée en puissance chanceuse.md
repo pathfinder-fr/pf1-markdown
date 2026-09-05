@@ -10,6 +10,6 @@ Categories:
 
 {s:CMy}*Les montées en puissance du personnage défient le destin.*
 
-**Conditions.** [Forte montée en puissance](./Forte montée en puissance.md), [3ème grade mythique](./Grade.md)
+**Conditions.** [[Forte montée en puissance]], [[grade|3ème grade mythique]]
 
-**Avantage.** Chaque fois que le personnage utilise son aptitude de [montée en puissance](./montée en puissance.md), il peut lancer deux fois son dé de montée en puissance et conserver le meilleur résultat. S’il dispose déjà de cette capacité, il peut lancer trois fois son dé de montée en puissance et conserver le meilleur résultat.
+**Avantage.** Chaque fois que le personnage utilise son aptitude de [[montée en puissance]], il peut lancer deux fois son dé de montée en puissance et conserver le meilleur résultat. S’il dispose déjà de cette capacité, il peut lancer trois fois son dé de montée en puissance et conserver le meilleur résultat.

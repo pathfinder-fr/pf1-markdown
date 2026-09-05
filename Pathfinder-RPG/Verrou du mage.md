@@ -10,20 +10,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2  
+**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (poussière d’or d’une valeur de 25 po)  
+**Composantes** [[composantes|V, G, M]] (poussière d’or d’une valeur de 25 po)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
-**Cibles** porte, coffre ou portail touché, dans la limite de 3 m²/[niveau](./niveau.md)  
+**Cibles** porte, coffre ou portail touché, dans la limite de 3 m²/[[niveau]]  
 
-**Durée** [permanente](./permanente.md)  
+**Durée** [[permanente]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Un *verrou du mage* ferme solidement le coffre, la porte ou le portail ciblé. Le mage peut ouvrir son propre verrou sans la moindre difficulté. Si l’objet fermé a un verrou, le [DD](./DD.md) de celui-ci augmente de 10 tant qu’il reste fixé à l’objet. Si ce dernier n’a pas de verrou, le sort en conçoit un que l’on peut ouvrir avec un test de [Sabotage](./Sabotage.md) [DD](./DD.md) 20.
+Un *verrou du mage* ferme solidement le coffre, la porte ou le portail ciblé. Le mage peut ouvrir son propre verrou sans la moindre difficulté. Si l’objet fermé a un verrou, le [[DD]] de celui-ci augmente de 10 tant qu’il reste fixé à l’objet. Si ce dernier n’a pas de verrou, le sort en conçoit un que l’on peut ouvrir avec un test de [[Sabotage]] [[DD]] 20.
 
-Une porte ou un objet fermé par ce sort s’ouvre uniquement avec *[déblocage](./Déblocage.md)* ou *[dissipation de la magie](./Dissipation de la magie.md)*. Si quelqu’un tente d’enfoncer une porte ou un portail protégés par ce sort, ajoutez +10 au [DD](./DD.md) normal du test de [Force](./Force.md). À noter que *[déblocage](./Déblocage.md)* ne dissipe pas un *verrou du mage*, mais se contente de le rendre inactif pendant dix minutes.
+Une porte ou un objet fermé par ce sort s’ouvre uniquement avec *[[déblocage]]* ou *[[dissipation de la magie]]*. Si quelqu’un tente d’enfoncer une porte ou un portail protégés par ce sort, ajoutez +10 au [[DD]] normal du test de [[Force]]. À noter que *[[déblocage]]* ne dissipe pas un *verrou du mage*, mais se contente de le rendre inactif pendant dix minutes.

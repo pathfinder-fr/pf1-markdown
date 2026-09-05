@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Tonnerre
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Tonnerre](./Descriptions individuelles des propriétés spéciales des armes.md#Tonnerre)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Tonnerre]]

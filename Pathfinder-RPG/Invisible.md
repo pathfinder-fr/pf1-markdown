@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Invisible
 ---
 
->>> [États préjudiciables#Invisible](./États préjudiciables.md#Invisible)
+>>> [[États préjudiciables#Invisible]]

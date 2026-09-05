@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#ROUND
 ---
 
->>> [Vocabulaire courant#ROUND](./Vocabulaire courant.md#ROUND)
+>>> [[Vocabulaire courant#ROUND]]

@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-La cité-état de Lamasara est située à l'est de la [Thuvie](./Thuvie.md), sur la berge occidentale du fleuve [Junira](./Junira.md).
+La cité-état de Lamasara est située à l'est de la [[Thuvie]], sur la berge occidentale du fleuve [[Junira]].
 
-La cité n'est pas très grande, mais elle compense par l'intelligence reconnue de sa reine à qui les autres représentants des cités-états demandent parfois de porter la voix de la [Thuvie](./Thuvie.md) au niveau international.
+La cité n'est pas très grande, mais elle compense par l'intelligence reconnue de sa reine à qui les autres représentants des cités-états demandent parfois de porter la voix de la [[Thuvie]] au niveau international.
 
 Lamasara est aussi reconnue pour la grande qualité de sa formation artistique.

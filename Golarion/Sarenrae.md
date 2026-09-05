@@ -12,7 +12,7 @@ Connue comme la fleur de l'aube, la flamme guérisseuse, Sarenrae enseigne temp�
 
 ### Histoire
 
-Quand les forces primaires créèrent [Golarion](./Golarion.md), [Asmodéus](./Asmodéus.md) plaça le mal sur le monde à la faveur de la nuit perpétuelle. La doctrine de la foi de Sarenrae relate comment la fleur de l'aube amena ensuite la lumière sur le monde, et avec elle la vérité et l'honnêteté. Ceux qui s'étaient tournés vers le mal ont alors vu leur méchanceté et ont été pardonnés par la lumière de Sarenrae.
+Quand les forces primaires créèrent [[Golarion]], [[Asmodéus]] plaça le mal sur le monde à la faveur de la nuit perpétuelle. La doctrine de la foi de Sarenrae relate comment la fleur de l'aube amena ensuite la lumière sur le monde, et avec elle la vérité et l'honnêteté. Ceux qui s'étaient tournés vers le mal ont alors vu leur méchanceté et ont été pardonnés par la lumière de Sarenrae.
 
 ### Apparence
 
@@ -26,7 +26,7 @@ Sarenrae indique sa faveur par des apparitions de colombes, ou par l'intermédia
 ### Doctrine
 
 Le clergé de Sarenrae recherche la plupart du temps la paix et administre ses ouailles d'une manière douce et avec des mots judicieux.
-Toutefois, leur bonté disparaît quand l'église se met en marche contre un mal qui ne peut pas être racheté - en particulier contre le culte de [Rovagug](./Rovagug.md).
+Toutefois, leur bonté disparaît quand l'église se met en marche contre un mal qui ne peut pas être racheté - en particulier contre le culte de [[Rovagug]].
 À ces moments-là, les prêtres de Sarenrae deviennent de véritables derviches, dansant entre les ennemis et donnant la rédemption finale à leurs adversaires à coups de cimeterres.
 De fait, sa foi attire tous ceux qui ont un cœur bon, mais surtout ceux qui sont disposés à s'endurcir lorsque trop de bonté devient un point faible.
 Le maniement des lames, en particulier du cimeterre, est considéré par les adeptes de Sarenrae comme une forme d'art.
@@ -47,8 +47,8 @@ La promenade de l'aube, ou Bain de l'aube, est un rite classique des fidèles de
 
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [deuxième volume](./../Aventures/Présentation AP4.md#AP4-2) de la quatrième campagne, [L'Héritage du Feu](./../Aventures/Présentation AP4.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP4#AP4-2|deuxième volume]] de la quatrième campagne, [[Aventures.Présentation AP4|L'Héritage du Feu]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

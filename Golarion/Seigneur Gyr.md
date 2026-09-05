@@ -15,4 +15,4 @@ Le Seigneur Gyr de la Maison Gixx est le Primarque d'Absalom depuis 4660AR. Il d
 
 Dans sa jeunesse, le Seigneur Gyr était un aventurier. Lorsqu'il revint à sa ville natale d'Absalom en 4660AR il obtint une place au Haut-Conseil. Démontrant ses talents politiques, il parvint à arranger une acalmie entre plusieurs factions rivales de la cité - moins de six mois après son arrivée, il était élu Primarque.
 
-Y ayant passé beaucoup de temps lors de ses jeunes années, le Seigneur Gyr a une affection toute particulière pour la province de [Cassomir]. Il aime y prêter son manoir à des alliés ou y inviter ses amis à diner. Il détient également une petite chambre dans le Pays des Chevaliers - dans le [Fort Azlante] - afin d'échapper aux harcèlements incessants des courtisans.
+Y ayant passé beaucoup de temps lors de ses jeunes années, le Seigneur Gyr a une affection toute particulière pour la province de [[Cassomir]]. Il aime y prêter son manoir à des alliés ou y inviter ses amis à diner. Il détient également une petite chambre dans le Pays des Chevaliers - dans le [[Fort Azlante]] - afin d'échapper aux harcèlements incessants des courtisans.

@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Ruines-Donjons|Tempéré}
 - *Source : Bestiaire 2 page 49*
 - **PX** 400
-- [Humanoïde monstrueux](./type Humanoïde.md) de taille M, LN
-- **Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6 
+- [[type humanoïde|Humanoïde monstrueux]] de taille M, LN
+- **Init** +1 ; **Sens** [[vision dans le noir]] 18 m, [[vision nocturne]] ; [[Perception]] +6 
 (((Défense)))
 - **CA** 13, contact 11, pris au dépourvu 12 (Dex +1, naturelle +2)
 - **pv** 15 (2d10+4)
@@ -25,8 +25,8 @@ Categories:
 (((Caractéristiques)))
 - **For** 14, **Dex** 13, **Con** 15, **Int** 10, **Sag** 12, **Cha** 7
 - **BBA** +2 ; **BMO** +4 ; **DMD** 15
-- **Dons** [Talent](./Talent.md) (discrétion)
-- **Compétences** [Discrétion](./Discrétion.md) +13, [Escalade](./Escalade.md) +6, [Escamotage](./Escamotage.md) +7, [Perception](./Perception.md) +6, [Survie](./Survie.md) +5 ; Modificateurs raciaux +4 en [Discrétion](./Discrétion.md), +4 en [Escamotage](./Escamotage.md)
+- **Dons** [[Talent]] (discrétion)
+- **Compétences** [[Discrétion]] +13, [[Escalade]] +6, [[Escamotage]] +7, [[Perception]] +6, [[Survie]] +5 ; Modificateurs raciaux +4 en [[Discrétion]], +4 en [[Escamotage]]
 - **Langues** commun, commun des profondeurs
 - **Particularités** imitation de sons (voix) 
 (((Écologie)))

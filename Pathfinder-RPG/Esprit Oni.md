@@ -14,11 +14,11 @@ Categories:
 {s:pucem|Extérieur|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.205}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) sous-type([natif](./sous-type natif.md), [Oni](./sous-type oni.md)) de taille TP, LM}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 c) , [détection de la magie](./Détection de la magie.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] sous-type([[sous-type natif|natif]], [[sous-type Oni|Oni]]) de taille TP, LM}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 c) , [[détection de la magie]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 16, pris au dépourvu 13 (Dex +4, naturelle +1, taille +2)}
-{s:BDTexte|**pv** 19 (3d10+3) ; [guérison accélérée](./guérison accélérée.md) 2 }
+{s:BDTexte|**pv** 19 (3d10+3) ; [[guérison accélérée]] 2 }
 {s:BDTexte|**Réf** +7, **Vig** +2, **Vol** +4}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 c), vol 9 m (bonne, 6 c)}
@@ -26,15 +26,15 @@ Categories:
 {s:BDTexte|**Espace** 75 cm ; **Allonge** 0}
 {s:BDTexte|**Attaques spéciales** poison}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6 ; concentration +8)}
-{s:BDSorts|À volonté — *[invisibilité](./Invisibilité.md)* (personnelle uniquement), *[manipulation à distance](./Manipulation à distance.md)*}
-{s:BDSorts|1/jour — *[injonction](./Injonction.md)* ([DD](./DD.md) 13), *[sommeil](./Sommeil.md)* ([DD](./DD.md) 13)}
-{s:BDSorts|1/semaine — *[communion](./Communion.md)* (NLS 12, 6 questions)}
+{s:BDSorts|À volonté — *[[invisibilité]]* (personnelle uniquement), *[[manipulation à distance]]*}
+{s:BDSorts|1/jour — *[[injonction]]* ([[DD]] 13), *[[sommeil]]* ([[DD]] 13)}
+{s:BDSorts|1/semaine — *[[communion]]* (NLS 12, 6 questions)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 19, **Con** 12, **Int** 13, **Sag** 12, **Cha** 15}
-{s:BDTexte|**BBA** +3, **BMO** +5, **DMD** 13 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md) , [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences**  [Acrobaties](./Acrobaties.md) +7, [Art de la magie](./Art de la magie.md) +4, [Bluff](./Bluff.md) +8,
-[Connaissances](./Connaissances.md) (mystères) +7, [Discrétion](./Discrétion.md) +17, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7, [Vol](./Vol.md) +16}
+{s:BDTexte|**BBA** +3, **BMO** +5, **DMD** 13 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en finesse]] , [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences**  [[Acrobaties]] +7, [[Art de la magie]] +4, [[Bluff]] +8,
+[[Connaissances]] (mystères) +7, [[Discrétion]] +17, [[Perception]] +7, [[Psychologie]] +7, [[Vol]] +16}
 {s:BDTexte|**Langues** : commun }
 {s:BDTexte|**Particularités** : masque de symbiose }
 {s:BDSousTitre|Écologie}
@@ -51,13 +51,13 @@ et doit se détacher du visage de son hôte (par une action de
 mouvement) s’il souhaite effectuer ses propres actions (y
 compris attaquer ou utiliser des pouvoirs magiques). Lorsque
 l’esprit oni est porté comme un masque, il accorde un bonus
-d’intuition de +2 aux tests de [Perception](./Perception.md) de son hôte.}
-{s:BDTexte|**Poison (Ext).** Corne — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 12 ; *fréquence*
-1/round pendant 6 [round](./round.md)s ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md)
+d’intuition de +2 aux tests de [[Perception]] de son hôte.}
+{s:BDTexte|**Poison (Ext).** Corne — blessure ; *JdS* [[Vigueur]] [[DD]] 12 ; *fréquence*
+1/round pendant 6 [[round]]s ; *effet* [[affaiblissement temporaire]]
 de 1d2 Cha ; *guérison* 2 réussites consécutives.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Oni](./Oni.md).***</li></ul>''Ce masque animé aux traits maléfiques présente le visage d’un fiélon
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[oni]].***</li></ul>''Ce masque animé aux traits maléfiques présente le visage d’un fiélon
 cornu aux yeux exorbités et au sourire lubrique dévoilant ses crocs.''
 
 La plupart des onis qui arrivent sur le Plan matériel

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#HURLEMENTTERRIFIANT
 ---
 
->>> [pouvoirs de rage#HURLEMENTTERRIFIANT](./Pouvoirs de rage.md#HURLEMENTTERRIFIANT)
+>>> [[pouvoirs de rage#HURLEMENTTERRIFIANT]]

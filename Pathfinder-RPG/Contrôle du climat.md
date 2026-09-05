@@ -13,11 +13,11 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Cham](./Chaman.md) 7, [Dru](./Druide.md) 7, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Prê](./Prêtre.md) 7, [Sor](./Sorcière.md) 7  
+**École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 7, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 7, [[Sorcière|Sor]] 7  
 
 **Temps d'incantation** 10 minutes (voir description)  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** 3 km  
 
@@ -52,16 +52,16 @@ Ce sort permet de modifier radicalement le climat dans la zone choisie. L’inca
 |}
 </center>
 
-Le personnage à le pouvoir de contrôler les tendances générales définissant le climat désiré, comme par exemple la force et la direction du vent. En revanche, il ne lui appartient pas de décider les points plus précis (tels que les endroits où la foudre frappe, le tracé suivi par une tornade, etc.). Dès que l’effet du sort est décidé, le climat local se modifie graduellement jusqu’à obtenir le résultat souhaité au bout de dix minutes. Dès cet instant, le climat se maintient jusqu’à ce que le sort s’achève, à moins que le personnage décide de le changer de nouveau, ce qui lui demande une [action simple](./Action simple.md) (auquel cas le nouveau climat se manifeste dix minutes plus tard). Plusieurs manifestations contradictoires ne peuvent se déclencher en même temps.
+Le personnage à le pouvoir de contrôler les tendances générales définissant le climat désiré, comme par exemple la force et la direction du vent. En revanche, il ne lui appartient pas de décider les points plus précis (tels que les endroits où la foudre frappe, le tracé suivi par une tornade, etc.). Dès que l’effet du sort est décidé, le climat local se modifie graduellement jusqu’à obtenir le résultat souhaité au bout de dix minutes. Dès cet instant, le climat se maintient jusqu’à ce que le sort s’achève, à moins que le personnage décide de le changer de nouveau, ce qui lui demande une [[action simple]] (auquel cas le nouveau climat se manifeste dix minutes plus tard). Plusieurs manifestations contradictoires ne peuvent se déclencher en même temps.
 
 *Contrôle du climat* permet aussi de dissiper les manifestations climatiques indiquées, qu’elles soient naturelles ou non.
 
-Lancé par un [druide](./Druide.md), le sort bénéficie du double de sa durée et sa [zone d’effet](./zone deffet.md) passe à 4,5 kilomètres de rayon.
+Lancé par un [[druide]], le sort bénéficie du double de sa durée et sa [[zone deffet|zone d’effet]] passe à 4,5 kilomètres de rayon.
 
 ### Mythique
 {s:CMy}
-Le temps d’incantation du sort passe à une [action simple](./Action simple.md).
+Le temps d’incantation du sort passe à une [[action simple]].
 
-Sa durée est doublée. Le climat change après un nombre de rounds égal à 11 – le [grade](./Grade.md) du personnage.
+Sa durée est doublée. Le climat change après un nombre de rounds égal à 11 – le [[grade]] du personnage.
 
-**[Amplifié](./Amplifié.md) (6ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), il peut créer le climat de son choix quelle que soit la saison en cours et le temps change après un round.
+**[[Amplifié]] (6ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], il peut créer le climat de son choix quelle que soit la saison en cours et le temps change après un round.

@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Lorsqu'un ennemi baisse sa garde, vous pouvez le faire souffrir en lui jouant un mauvais tour.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Int](./Int.md) 13, [École du renard](./École du renard.md), [Expertise du combat](./Expertise du combat.md), [Intuition du renard](./Intuition du renard.md), [Science du sale coup](./Science du sale coup.md)
+**Conditions.** [[Int]] 13, [[École du renard]], [[Expertise du combat]], [[Intuition du renard]], [[Science du sale coup]]
 
-**Avantages.** Quand le personnage utilise l'[École du renard](./École du renard.md), il peut effectuer des manœuvres offensives de [sale coup](./sale coup.md) à la place d'[attaques d'opportunité](./AO.md). Si la valeur d'[Intelligence](./Intelligence.md) du personnage est d'au moins 19, il obtient un bonus de +4 aux tests de manœuvres offensives de sale coup.
+**Avantages.** Quand le personnage utilise l'[[École du renard]], il peut effectuer des manœuvres offensives de [[sale coup]] à la place d'[[AO|attaques d'opportunité]]. Si la valeur d'[[Intelligence]] du personnage est d'au moins 19, il obtient un bonus de +4 aux tests de manœuvres offensives de sale coup.

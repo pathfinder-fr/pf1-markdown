@@ -13,24 +13,24 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Hyp](./Hypnotiseur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Méd](./Médium.md) 4, [Psy](./Psychiste.md) 5, [Spi](./Spirite.md) 5  
+**École** [[Abjuration]] ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Psychiste|Psy]] 5, [[Spirite|Spi]] 5  
 
 **Temps d'incantation** 10 minutes  
 
-**Composantes** [V, G, M](./composantes.md) (une mince feuille de plomb, un morceau de verre, un bout de coton et de la chrysolite réduite en poudre)  
+**Composantes** [[composantes|V, G, M]] (une mince feuille de plomb, un morceau de verre, un bout de coton et de la chrysolite réduite en poudre)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Zone d'effet** 1 cube de 9 m d’arête/[niveau](./niveau.md) (F)  
+**Zone d'effet** 1 cube de 9 m d’arête/[[niveau]] (F)  
 
 **Durée** 24 heures (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Ce sort offre une certaine intimité. Toute créature qui observe la zone depuis l’extérieur ne distingue qu’une masse sombre et brumeuse. Même la [vision dans le noir](./vision dans le noir.md) ne parvient à pas à percer cette obscurité. Nul son, quel que soit son volume, ne sort de la zone, aussi est-il inutile de tendre l’oreille pour les créatures situées à l’extérieur. En revanche, celles qui se trouvent à l’intérieur voient normalement.
+Ce sort offre une certaine intimité. Toute créature qui observe la zone depuis l’extérieur ne distingue qu’une masse sombre et brumeuse. Même la [[vision dans le noir]] ne parvient à pas à percer cette obscurité. Nul son, quel que soit son volume, ne sort de la zone, aussi est-il inutile de tendre l’oreille pour les créatures situées à l’extérieur. En revanche, celles qui se trouvent à l’intérieur voient normalement.
 
-Les sorts de [Divination](./Divination.md) ([scrutation](./scrutation.md)) ne permettent pas de distinguer ce qui se passe dans la zone. Les créatures à l’intérieur sont [immunisées](./immunisé.md) contre *[détection de pensées](./Détection de pensées.md)*. L’intérieur et l’extérieur sont incapables de communiquer oralement (tout simplement parce que les sons sont bloqués), mais le sort n’empêche pas d’autres formes de communication (*[communication à distance](./Communication à distance.md)*, *[message](./Message.md)*, télépathie entre un mage et son [familier](./familier.md), etc.).
+Les sorts de [[Divination]] ([[scrutation]]) ne permettent pas de distinguer ce qui se passe dans la zone. Les créatures à l’intérieur sont [[immunisé|immunisées]] contre *[[détection de pensées]]*. L’intérieur et l’extérieur sont incapables de communiquer oralement (tout simplement parce que les sons sont bloqués), mais le sort n’empêche pas d’autres formes de communication (*[[communication à distance]]*, *[[message]]*, télépathie entre un mage et son [[familier]], etc.).
 
 Le sort n’empêche pas les créatures et les objets d’entrer dans la zone ou d’en sortir.
 
-Enfin, il est possible d’user de *[permanence](./Permanence.md)* sur un *sanctuaire secret*.
+Enfin, il est possible d’user de *[[permanence]]* sur un *sanctuaire secret*.

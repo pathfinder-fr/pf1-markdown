@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Sources : Pathfinder #26 ; Bestiaire 2 p.169*}
 {s:BDTexte|**XP** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille G, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 13 (Dex +2, naturelle +4, taille –1)}
 {s:BDTexte|**pv** 37 (5d10+10)}
@@ -29,8 +29,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 15, **Con** 15, **Int** 6, **Sag** 14, **Cha** 11}
 {s:BDTexte|**BBA** +5, **BMO** +10, **DMD** 22}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+22 pour sauter), [Discrétion](./Discrétion.md) +6, [Escalade](./Escalade.md) +12, [Perception](./Perception.md) +13}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10 (+22 pour sauter), [[Discrétion]] +6, [[Escalade]] +12, [[Perception]] +13}
 {s:BDTexte|**Langues** abyssal (incapable de parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme (Abysses)}

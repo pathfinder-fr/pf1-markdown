@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Le personnage frappe les adversaires qui baissent leur garde.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Attaques réflexes](./Attaques réflexes.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Balancement du serpent](./Balancement du serpent.md), 6 rangs en [Acrobaties](./Acrobaties.md) , 9 rangs en [Psychologie](./Psychologie.md)
+**Conditions.** [[Attaques réflexes]], [[Science du combat à mains nues]], [[Balancement du serpent]], 6 rangs en [[Acrobaties]] , 9 rangs en [[Psychologie]]
 
-**Avantage.** Quand le personnage utilise l’[École du serpent](./École du serpent.md) et qu’un adversaire le rate, il peut faire une attaque à mains nues contre lui, comme [attaque d’opportunité](./attaque dopportunité.md). S’il touche, il peut dépenser une [action immédiate](./Action immédiate.md) pour faire une seconde attaque à mains nues contre lui.
+**Avantage.** Quand le personnage utilise l’[[École du serpent]] et qu’un adversaire le rate, il peut faire une attaque à mains nues contre lui, comme [[attaque dopportunité|attaque d’opportunité]]. S’il touche, il peut dépenser une [[action immédiate]] pour faire une seconde attaque à mains nues contre lui.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage rate une [attaque d’opportunité](./AO.md) obtenue grâce au don Croc du serpent, il peut dépenser 5 points d’endurance pour refaire son [jet d’attaque](./jet dattaque.md). Cette astuce martiale ne s’utilise qu’une seule fois par attaque d’opportunité.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage rate une [[AO|attaque d’opportunité]] obtenue grâce au don Croc du serpent, il peut dépenser 5 points d’endurance pour refaire son [[jet dattaque|jet d’attaque]]. Cette astuce martiale ne s’utilise qu’une seule fois par attaque d’opportunité.

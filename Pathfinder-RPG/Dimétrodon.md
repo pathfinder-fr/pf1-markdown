@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 3* p.83}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 11, pris au dépourvu 12+ (Dex +2, naturelle +3, taille -1)}
 {s:BDTexte|**pv** 34 (4d8+16)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDTexte|**Attaque spéciale** morsure déchirante}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 15, **Con** 18, **Int** 1, **Sag** 12, **Cha** 3}
-{s:BDTexte|**BBA** +3 ; **BMO** +9 ; **DMD** 21 (25 contre le [croc-en-jambe](./Manœuvres offensives.md#CROCENJAMBE))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +3, [Perception](./Perception.md) +6}
+{s:BDTexte|**BBA** +3 ; **BMO** +9 ; **DMD** 21 (25 contre le [[Manœuvres offensives#CROCENJAMBE|croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +3, [[Perception]] +6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes}
 {s:BDTexte|**Organisation** solitaire, couple ou meute (3-12)}
@@ -37,7 +37,7 @@ Categories:
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Morsure déchirante (Ext).** Les mâchoires du dimétrodon sont constituées de dents tranchantes comme des rasoirs de deux tailles différentes. Elles permettent à la créature de faire une morsure critique sur un 19 ou un 20.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>*L’immense voile dorsale de cette créature reptilienne à quatre pattes s’agite et se plie lorsque la bête avance.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>*L’immense voile dorsale de cette créature reptilienne à quatre pattes s’agite et se plie lorsque la bête avance.*
 
 Le dimétrodon est un reptile quadrupède similaire, par sa forme, au crocodile, mais avec un museau moins pointu et des dents irrégulières et tranchantes. Sa caractéristique la plus frappante est son énorme voile dorsale. En déployant ou en rétractant cette voile, ce reptile à sang froid contrôle facilement sa température corporelle. Si ce ne sont techniquement pas des dinosaures, les dimétrodons vivent souvent dans les régions peuplées par ces créatures.  
 

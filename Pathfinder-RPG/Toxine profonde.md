@@ -12,9 +12,9 @@ Categories:
 
 *Vos poisons durent plus longtemps et sont appliqués immédiatement.*
 
-**Conditions.** [Frappe décisive](./Frappe décisive.md); [BBA](./BBA.md) +6; 6 rangs en [Artisanat](./Artisanat.md) (poison) ou capacité de classe [utilisation du poison](./Ninja.md#UTILISATIONDUPOISON)
+**Conditions.** [[Frappe décisive]]; [[BBA]] +6; 6 rangs en [[Artisanat]] (poison) ou capacité de classe [[Ninja#UTILISATIONDUPOISON|utilisation du poison]]
 
-**Avantage.** Quand le personnage utilise le don [Frappe décisive](./Frappe décisive.md) avec une arme empoisonnée, il augmente la durée d’un incrément de fréquence. (Par exemple un [venin de scorpion géant](./Poisons.md#Venindescorpiongéant) durerait 7 rounds plutôt que 6 et une dose de [poison drow](./Poisons.md#Poisondrow) durerait 3 minutes plutôt que 2). Les poisons ainsi appliqués font effet immédiatement et n’ont pas de temps d’incubation.
+**Avantage.** Quand le personnage utilise le don [[Frappe décisive]] avec une arme empoisonnée, il augmente la durée d’un incrément de fréquence. (Par exemple un [[Poisons#Venindescorpiongéant|venin de scorpion géant]] durerait 7 rounds plutôt que 6 et une dose de [[Poisons#Poisondrow|poison drow]] durerait 3 minutes plutôt que 2). Les poisons ainsi appliqués font effet immédiatement et n’ont pas de temps d’incubation.
 
 (((Deep Toxin
 

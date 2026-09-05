@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armée#GENERAL
 ---
 
->>> [Armée#GENERAL](./Armée.md#GENERAL)
+>>> [[Armée#GENERAL]]

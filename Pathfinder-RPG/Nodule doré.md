@@ -11,7 +11,7 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun nodule doré|{s:RSE}}
-**Aura** [Divination](./école divination.md) puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 5 000 po (normale), 1 000 po (défectueuse), 150 po (ébréchée) ; **Poids** –
+**Aura** [[école Divination|Divination]] puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 5 000 po (normale), 1 000 po (défectueuse), 150 po (ébréchée) ; **Poids** –
 (((Description)))
 - ***Normale.*** Cette pierre permet au personnage de comprendre, parler, lire et écrire une langue (que choisit le créateur de la pierre).
 
@@ -19,10 +19,10 @@ Categories:
 - ***Défectueuse.*** Cette pierre permet de comprendre et de lire une langue (qu’a choisie son créateur) mais pas de la parler ni de l’écrire.
 
 
-- ***Ébréchée.*** Cette pierre donne un bonus de compétence de +1 aux tests de [Linguistique](./Linguistique.md).
+- ***Ébréchée.*** Cette pierre donne un bonus de compétence de +1 aux tests de [[Linguistique]].
 
 (((Pouvoir de résonance)))
-Bonus de +1 aux [jets de sauvegarde](./JDS.md) contre les effets [dépendants du langage](./Registre.md).
+Bonus de +1 aux [[jds|jets de sauvegarde]] contre les effets [[registre|dépendants du langage]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[don des langues](./Don des langues.md)*, le créateur doit être de niveau 12 ; **Coût** 2 500 po (normale), 500 po (défectueuse), 75 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[don des langues]]*, le créateur doit être de niveau 12 ; **Coût** 2 500 po (normale), 500 po (défectueuse), 75 po (ébréchée)
 </div>

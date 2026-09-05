@@ -10,8 +10,8 @@ LastModified: 2020-09-18 04:09
 {s:pucem|Humanoïde|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 22*}
 - **25 600 PX**
-- [Humain](./Humain.md) (f) ensorceleur lié à un diantrefosse 13
-- [Humanoïde](./type Humanoïde.md) (humain) de taille M, LM
+- [[Humain]] (f) ensorceleur lié à un diantrefosse 13
+- [[type humanoïde|Humanoïde]] (humain) de taille M, LM
 - **Init **+4 ; **Sens** vision dans le noir 18 m, vision dans les ténèbres ; Perception +14
 (((Défense)))
 - **CA** 21, contact 10, pris au dépourvu 21 (armure +4, naturelle +7)
@@ -23,25 +23,25 @@ LastModified: 2020-09-18 04:09
 - **VD** 9 m
 - **Corps à corps** dague, +5/+0 (1d4-1/19-20)
 - **Pouvoirs magiques** du diabolique (**NLS** 13 ; concentration +20)
-  - 3/jour — *[boule de feu](./Boule de feu.md)* à incantation rapide (DD 20), *[invisibilité](./Invisibilité.md)*
+  - 3/jour — *[[boule de feu]]* à incantation rapide (DD 20), *[[invisibilité]]*
   - 1/jour — convocation (niveau 7, 1 lémure, 1 diable barbu ou 1 érinye 100%), blasphème (DD 24)
 - **Pouvoirs magiques** de lignage (**NLS** 13 ; concentration +20)
-  - 10/jour — *[rayon élémentaire](./lignage Élémentaire.md#Pouvoirs_de_lignage_2)* (1d6+6 froid)
-  - 1/jour — *[explosion élémentaire](./lignage Élémentaire.md#Pouvoirs_de_lignage_2)* (13d6 froid, DD 23)
+  - 10/jour — *[[lignage Élémentaire#Pouvoirs_de_lignage_2|rayon élémentaire]]* (1d6+6 froid)
+  - 1/jour — *[[lignage Élémentaire#Pouvoirs_de_lignage_2|explosion élémentaire]]* (13d6 froid, DD 23)
 - **Sorts d’ensorceleur** connus (**NLS** 13, concentration +20)
-  - 6ème (5/jour) — *[brume acide](./Brume acide.md), [convocation de monstres VI](./Convocation de monstres VI.md), [corps élémentaire III](./Corps élémentaire III.md)*
-  - 5ème (7/jour) — *[brume mortelle](./Brume mortelle.md)* (DD 23)*, [convocation de monstres V](./Convocation de monstres V.md), [corps élémentaire II](./Corps élémentaire II.md), [téléportation](./téléportation.md)*
-  - 4ème (6/jour) —* [charme-monstre](./Charme-monstre.md) *(DD 22)*, [confusion](./Confusion.md) *(DD 22)*, [corps élémentaire I](./Corps élémentaire I.md), [peau de pierre](./Peau de pierre.md) *(déjà lancé)*, [terreur](./Terreur.md)* (DD 21)
-  - 3ème (8/jour) — *[convocation de monstres III](./Convocation de monstres III.md), [déplacement](./Déplacement.md), [immobilisation de personne](./Immobilisation de personne.md) *(DD 21)*, [nuage nauséabond](./Nuage nauséabond.md)* (DD 21)*, [protection contre les énergies destructives](./Protection contre les énergies destructives.md)*
-  - 2ème (8/jour) — *[détection de pensées](./Détection de pensées.md) *(DD 19)*, [flèche acide](./Flèche acide.md), [poussière scintillante](./Poussière scintillante.md) *(DD 20)*, [rayon ardent](./Rayon ardent.md)* (froid)*, [ténèbres](./Ténèbres.md), [toile d’araignée](./Toile daraignée.md)* (DD 20)
-  - 1er (7/jour) — *[armure de mage](./Armure de mage.md) *(déjà lancé)*, [charme-personne](./Charme-personne.md) *(DD 19)*, [déguisement](./Déguisement.md), [feuille morte](./Feuille morte.md), [mains brûlantes](./Mains brûlantes.md) *(froid) (DD 18)*, [projectile magique](./Projectile magique.md)*
-  - 0 (à volonté) —* [aspersion acide](./Aspersion acide.md), [détection de la magie](./Détection de la magie.md), [lecture de la magie](./Lecture de la magie.md), [manipulation à distance](./Manipulation à distance.md), [message](./Message.md), [prestidigitation](./Prestidigitation.md), [réparation](./Réparation.md), [signature magique](./Signature magique.md), [son imaginaire](./Son imaginaire.md)* (DD 17)
+  - 6ème (5/jour) — *[[brume acide]], [[convocation de monstres VI]], [[corps élémentaire III]]*
+  - 5ème (7/jour) — *[[brume mortelle]]* (DD 23)*, [[convocation de monstres V]], [[corps élémentaire II]], [[téléportation]]*
+  - 4ème (6/jour) —* [[charme-monstre]] *(DD 22)*, [[confusion]] *(DD 22)*, [[corps élémentaire I]], [[peau de pierre]] *(déjà lancé)*, [[terreur]]* (DD 21)
+  - 3ème (8/jour) — *[[convocation de monstres III]], [[déplacement]], [[immobilisation de personne]] *(DD 21)*, [[nuage nauséabond]]* (DD 21)*, [[protection contre les énergies destructives]]*
+  - 2ème (8/jour) — *[[détection de pensées]] *(DD 19)*, [[flèche acide]], [[poussière scintillante]] *(DD 20)*, [[rayon ardent]]* (froid)*, [[ténèbres]], [[toile daraignée|toile d’araignée]]* (DD 20)
+  - 1er (7/jour) — *[[armure de mage]] *(déjà lancé)*, [[charme-personne]] *(DD 19)*, [[déguisement]], [[feuille morte]], [[mains brûlantes]] *(froid) (DD 18)*, [[projectile magique]]*
+  - 0 (à volonté) —* [[aspersion acide]], [[détection de la magie]], [[lecture de la magie]], [[manipulation à distance]], [[message]], [[prestidigitation]], [[réparation]], [[signature magique]], [[son imaginaire]]* (DD 17)
 **Lignage** élémentaire (eau)
 (((Statistiques)))
 - **For** 8, **Dex** 10, **Con** 18, **Int** 15, **Sag** 12, **Cha** 24
 - **BBA **+6 ; **BMO **+5 ; **DMD** 15
-- **Dons** [Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md), [Bouclier magique](./Bouclier magique.md), [Convocation supérieure](./Convocation supérieure.md), [Création d’objets merveilleux](./Création dobjets merveilleux.md), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [École renforcée](./École renforcée.md) (enchantement), [École renforcée](./École renforcée.md) (invocation), [Extension d’effet](./Extension deffet.md), [Magie de guerre](./Magie de guerre.md), [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)
-- **Compétences** [Connaissances](./Connaissances.md) (mystères) +18, [Connaissances](./Connaissances.md) (plans) +18, [Diplomatie](./Diplomatie.md) +13, [Intimidation](./Intimidation.md) +17, [Perception](./Perception.md) +14, [Psychologie](./Psychologie.md) +14 
+- **Dons** [[Amélioration des créatures convoquées]], [[Bouclier magique]], [[Convocation supérieure]], [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Dispense de composantes matérielles]], [[École renforcée]] (enchantement), [[École renforcée]] (invocation), [[Extension deffet|Extension d’effet]], [[Magie de guerre]], [[Science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]]
+- **Compétences** [[Connaissances]] (mystères) +18, [[Connaissances]] (plans) +18, [[Diplomatie]] +13, [[Intimidation]] +17, [[Perception]] +14, [[Psychologie]] +14 
 - **Langues** commun, draconique, infernal
 - **Particularités** arcanes de lignage (tous les sorts qui infligent des dégâts d’énergie destructive infligent des dégâts de froid)
 (((Écologie)))
@@ -52,7 +52,7 @@ LastModified: 2020-09-18 04:09
 
 </div>
 </td><td><div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature diabolique](./Créature diabolique, archétype.md).***</li></ul>*Cette femme élégante et mystérieuse semble auréolée d’un sinistre halo de sombre puissance qui l’enveloppe et la protège.*
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature diabolique, archétype|Créature diabolique]].***</li></ul>*Cette femme élégante et mystérieuse semble auréolée d’un sinistre halo de sombre puissance qui l’enveloppe et la protège.*
 
 Une créature diabolique a conclu un pacte avec un diable. Elle lui a promis son âme et un service en échange d’une puissance infernale. La nature de ce service dépend du type de diable concerné et de ses motivations mais il sert toujours les intérêts des Enfers.
 </div></td></tr></table>

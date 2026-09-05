@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Fée|Aquatique|Froid}
 {s:BDTexte|*Source : Bestiaire 5 p.42*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Fée](./type Fée.md) ([aquatique](./sous-type aquatique.md)) de taille P, CN}
-{s:BDTexte|**Init** +2 ; **Sens** perception olfactive des maladies ; [Perception](./Perception.md) +19}
+{s:BDTexte|[[type Fée|Fée]] ([[sous-type aquatique|aquatique]]) de taille P, CN}
+{s:BDTexte|**Init** +2 ; **Sens** perception olfactive des maladies ; [[Perception]] +19}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 15 (Dex +2, naturelle +4, taille +1)}
 {s:BDTexte|**pv** 66 (12d6+24)}
@@ -23,24 +23,24 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m, nage 12 m}
 {s:BDTexte|**Corps à corps** 2 griffes, +9 (1d4-1)}
-{s:BDTexte|**Distance** aspersion nasale, +10 contact (3d6 feu, 3d6 acide et [combustion](./Combustion (capacité).md) nasale)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 7 ; [concentration](./concentration.md) +10)}
-{s:BDSorts|3/jour — *[guérison des maladies](./Guérison des maladies.md)*, *[soins légers](./Soins légers.md)*}
-{s:BDSorts|1/jour — *[guérison de la cécitésurdité](./Guérison de la cécitésurdité.md)*, *[soins modérés](./Soins modérés.md)*}
+{s:BDTexte|**Distance** aspersion nasale, +10 contact (3d6 feu, 3d6 acide et [[Combustion (capacité)|combustion]] nasale)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 7 ; [[concentration]] +10)}
+{s:BDSorts|3/jour — *[[guérison des maladies]]*, *[[soins légers]]*}
+{s:BDSorts|1/jour — *[[Guérison de la cécitésurdité]]*, *[[soins modérés]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 14, **Con** 13, **Int** 15, **Sag** 10, **Cha** 17}
 {s:BDTexte|**BBA** +6 ; **BMO** +4 ; **DMD** 16}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (aspersion nasale), [Attaque en finesse](./Attaque en finesse.md), [Autonome](./Autonome.md), [Robustesse](./Robustesse.md), [Talent](./Talent.md) (Premiers secours), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +10, [Connaissances](./Connaissances.md) (mystères) +5, [Connaissances](./Connaissances.md) (nature) +12, [Diplomatie](./Diplomatie.md) +12, [Discrétion](./Discrétion.md) +21, [Évasion](./Évasion.md) +9, [Natation](./Natation.md) +22, [Perception](./Perception.md) +19, [Premiers secours](./Premiers secours.md) +22, [Psychologie](./Psychologie.md) +11, [Survie](./Survie.md) +8, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +18}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (aspersion nasale), [[Attaque en finesse]], [[Autonome]], [[Robustesse]], [[Talent]] (Premiers secours), [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Bluff]] +10, [[Connaissances]] (mystères) +5, [[Connaissances]] (nature) +12, [[Diplomatie]] +12, [[Discrétion]] +21, [[Évasion]] +9, [[Natation]] +22, [[Perception]] +19, [[Premiers secours]] +22, [[Psychologie]] +11, [[Survie]] +8, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +18}
 {s:BDTexte|**Langues** commun, sylvestre}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie (capacité).md)}
+{s:BDTexte|**Particularités** [[Amphibie (capacité)|amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** rivières froides}
 {s:BDTexte|**Organisation** solitaire, couple ou gang (3-8)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Combustion nasale (Sur).** L’aspersion nasale d’un bagiennik inflige 1d6 points de dégâts de feu à la cible touchée lors des rounds suivants (similaire au pouvoir de monstre universel de combustion), mais peut également soigner les maladies. Chaque round pendant lequel une victime subit les dégâts de la combustion nasale d’un bagiennik, elle doit effectuer un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 17. Si elle réussit ce [jet de sauvegarde](./jet de sauvegarde.md), elle soigne 1 point d’une valeur de caractéristique (au choix de la victime) temporairement affaiblie. Si le résultat du [jet de sauvegarde](./jet de sauvegarde.md) dépasse le [DD](./DD.md) de 5 points, elle peut également tenter de supprimer une maladie ou un poison dont elle est actuellement victime, comme si elle bénéficiait des effets d’une [guérison des maladies](./Guérison des maladies.md) ou d’une [neutralisation du poison](./Neutralisation du poison.md) (niveau de lanceur de sorts 7). Si les dégâts infligés par la combustion nasale d’un bagiennik sont réduits ou annulés, quelle que soit la méthode employée, la victime ne peut pas effectuer ce jet de [Vigueur](./Vigueur.md) spécial pendant le round en cours. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Perception olfactive des maladies (Ext).** Un bagiennik peut sentir la présence d’une créature malade comme s’il disposait du pouvoir d'[odorat](./odorat.md). Il peut savoir si la créature malade est la source de la maladie ou une simple porteuse. Dans ce dernier cas, le bagiennik se met souvent en quête de la créature et tente de la débarrasser de ses maux.}
+{s:BDTexte|**Combustion nasale (Sur).** L’aspersion nasale d’un bagiennik inflige 1d6 points de dégâts de feu à la cible touchée lors des rounds suivants (similaire au pouvoir de monstre universel de combustion), mais peut également soigner les maladies. Chaque round pendant lequel une victime subit les dégâts de la combustion nasale d’un bagiennik, elle doit effectuer un jet de [[Vigueur]] [[DD]] 17. Si elle réussit ce [[jet de sauvegarde]], elle soigne 1 point d’une valeur de caractéristique (au choix de la victime) temporairement affaiblie. Si le résultat du [[jet de sauvegarde]] dépasse le [[DD]] de 5 points, elle peut également tenter de supprimer une maladie ou un poison dont elle est actuellement victime, comme si elle bénéficiait des effets d’une [[guérison des maladies]] ou d’une [[neutralisation du poison]] (niveau de lanceur de sorts 7). Si les dégâts infligés par la combustion nasale d’un bagiennik sont réduits ou annulés, quelle que soit la méthode employée, la victime ne peut pas effectuer ce jet de [[Vigueur]] spécial pendant le round en cours. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Perception olfactive des maladies (Ext).** Un bagiennik peut sentir la présence d’une créature malade comme s’il disposait du pouvoir d'[[odorat]]. Il peut savoir si la créature malade est la source de la maladie ou une simple porteuse. Dans ce dernier cas, le bagiennik se met souvent en quête de la créature et tente de la débarrasser de ses maux.}
 </div></td>
 <td><div>*La moitié supérieure de cette petite créature à l’aspect de lézard est de forme humanoïde. Elle possède une longue queue parsemée d’extensions ondulantes.*
 

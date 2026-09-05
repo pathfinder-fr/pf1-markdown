@@ -10,7 +10,7 @@ LastModified: 2017-01-18 22:38
 {s:pucem|Créature magique|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 287*}
 - **38 400 PX**
-- [Créature magique](./type Créature magique.md) de taille TG, N
+- [[type créature magique|Créature magique]] de taille TG, N
 - **Init **+6 ; **Sens **vision dans le noir 36 m, vision nocturne ; Perception +23
 (((Défense)))
 - **CA **31, contact 11, pris au dépourvu 28 (Dex +2, esquive +1, naturelle +20, taille -2)
@@ -26,8 +26,8 @@ LastModified: 2017-01-18 22:38
 (((Statistiques)))
 - **For **26, **Dex **15, **Con **21, **Int **12, **Sag **16, **Cha **13
 - **BBA **+17 ; **BMO **+27 ; **DMD **40 (44 contre le croc-en-jambe)
-- **Dons **[Attaques multiples](./Attaques multiples.md), [Combat en aveugle](./Combat en aveugle.md), [Comme le vent](./Comme le vent.md), [Endurance](./Endurance.md), [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md), [Volonté de fer](./Volonté de fer.md) 
-- **Compétences **[Connaissances](./Connaissances.md) (une au choix) +10, [Escalade](./Escalade.md) +19, [Intimidation](./Intimidation.md) +10, [Natation](./Natation.md) +19, [Perception](./Perception.md) +23
+- **Dons **[[Attaques multiples]], [[Combat en aveugle]], [[Comme le vent]], [[Endurance]], [[Esquive]], [[Magie de guerre]], [[Robustesse]], [[science de linitiative|Science de l’initiative]], [[Souplesse du serpent]], [[Volonté de fer]] 
+- **Compétences **[[Connaissances]] (une au choix) +10, [[Escalade]] +19, [[Intimidation]] +10, [[Natation]] +19, [[Perception]] +23
 - **Langues **aklo ; télépathie 1,50 m
 - **Particularités **exploitation des conjonctions astrales, retenir son souffle
 (((Écologie)))

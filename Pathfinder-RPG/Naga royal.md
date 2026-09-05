@@ -14,40 +14,40 @@ Categories:
 {s:pucem|Aberration|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.197*}
 {s:BDTexte|**PX** 12 800 px}
-{s:BDTexte|[Aberration](./type Aberration.md) ([métamorphe](./sous-type métamorphe.md)) de taille TG, LN}
-{s:BDTexte|**Init** +7 ; **Sens** *[détection de l'invisibilité](./Détection de linvisibilité.md)*, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +27}
+{s:BDTexte|[[type Aberration|Aberration]] ([[sous-type métamorphe|métamorphe]]) de taille TG, LN}
+{s:BDTexte|**Init** +7 ; **Sens** *[[détection de linvisibilité|détection de l'invisibilité]]*, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +27}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 11, pris au dépourvu 23 (Dex +3, naturelle +15, taille -2)}
 {s:BDTexte|**pv** 133 (14d8+70)}
 {s:BDTexte|**Réf** +9, **Vig** +9, **Vol** +15}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** 5 morsures, +14 (2d6+6 plus [saignement](./Saignement (capacité).md))}
+{s:BDTexte|**Corps à corps** 5 morsures, +14 (2d6+6 plus [[saignement (capacité)|saignement]])}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [saignement](./Saignement (capacité).md) (1d6), regard double, [éventration](./Éventration (capacité).md) (3 morsures, 2d6+9)}
+{s:BDTexte|**Attaques spéciales** [[saignement (capacité)|saignement]] (1d6), regard double, [[éventration (capacité)|éventration]] (3 morsures, 2d6+9)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9 ; concentration +13)}
-{s:BDSorts|Constant — *[détection de l'invisibilité](./Détection de linvisibilité.md)*}
+{s:BDSorts|Constant — *[[détection de linvisibilité|détection de l'invisibilité]]*}
 {s:BDTexte|**Sorts connus** (NLS 9 ; concentration +13)}
-{s:BDSorts|4 (5/jour) — *[charme-monstre](./Charme-monstre.md)* ([DD](./DD.md) 18), *[œil du mage](./Œil du mage.md)*}
-{s:BDSorts|3 (7/jour) — *[clignotement](./Clignotement.md)*, *[dissipation de la magie](./Dissipation de la magie.md)*, *[suggestion](./Suggestion.md)* ([DD](./DD.md) 17)}
-{s:BDSorts|2 (7/jour) — *[discours captivant](./Discours captivant.md)* ([DD](./DD.md) 16), *[immobilisation de personne](./Immobilisation de personne.md)* ([DD](./DD.md) 16), *[invisibilité](./Invisibilité.md)*, *[rayon ardent](./Rayon ardent.md)*}
-{s:BDSorts|1 (7/jour) — *[armure de mage](./Armure de mage.md)*, *[bouclier](./Bouclier.md)*, *[charme-personne](./Charme-personne.md)* ([DD](./DD.md) 15), *[projectile magique](./Projectile magique.md)*, *[rayon affaiblissant](./Rayon affaiblissant.md)* ([DD](./DD.md) 15)}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[fatigue](./Fatigue.md)*, *[hébétement](./Hébétement.md)* ([DD](./DD.md) 14), *[illumination](./Illumination.md)* ([DD](./DD.md) 14), *[lecture de la magie](./Lecture de la magie.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[message](./Message.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*}
+{s:BDSorts|4 (5/jour) — *[[charme-monstre]]* ([[DD]] 18), *[[œil du mage]]*}
+{s:BDSorts|3 (7/jour) — *[[clignotement]]*, *[[dissipation de la magie]]*, *[[suggestion]]* ([[DD]] 17)}
+{s:BDSorts|2 (7/jour) — *[[discours captivant]]* ([[DD]] 16), *[[immobilisation de personne]]* ([[DD]] 16), *[[invisibilité]]*, *[[rayon ardent]]*}
+{s:BDSorts|1 (7/jour) — *[[armure de mage]]*, *[[bouclier]]*, *[[charme-personne]]* ([[DD]] 15), *[[projectile magique]]*, *[[rayon affaiblissant]]* ([[DD]] 15)}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[fatigue]]*, *[[hébétement]]* ([[DD]] 14), *[[illumination]]* ([[DD]] 14), *[[lecture de la magie]]*, *[[manipulation à distance]]*, *[[message]]*, *[[ouverturefermeture|ouverture/fermeture]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 17, **Con** 21, **Int** 18, **Sag** 22, **Cha** 19}
-{s:BDTexte|**BBA** +10, **BMO** +18 (+22 en [lutte](./lutte.md)), **DMD** 31 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md)<sup>S</sup>, [Immobiliser](./Immobiliser.md), [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +20 (+24 pour le saut), [Bluff](./Bluff.md) +18,  [Connaissances](./Connaissances.md) (histoire) +11, [Connaissances](./Connaissances.md) (mystères) +18, [Connaissances](./Connaissances.md) (noblesse) +11, [Diplomatie](./Diplomatie.md) +18, [Discrétion](./Discrétion.md) +12, [Perception](./Perception.md) +27, [Psychologie](./Psychologie.md) +24}
+{s:BDTexte|**BBA** +10, **BMO** +18 (+22 en [[lutte]]), **DMD** 31 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Combat en aveugle]], [[Dispense de composantes matérielles]]<sup>S</sup>, [[Immobiliser]], [[Magie de guerre]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +20 (+24 pour le saut), [[Bluff]] +18,  [[Connaissances]] (histoire) +11, [[Connaissances]] (mystères) +18, [[Connaissances]] (noblesse) +11, [[Diplomatie]] +18, [[Discrétion]] +12, [[Perception]] +27, [[Psychologie]] +24}
 {s:BDTexte|**Langues** céleste, commun, infernal}
-{s:BDTexte|**Particularités** [Changement de forme](./Changement de forme (capacité).md) (cinq formes humanoïdes : *[modification d'apparence](./Modification dapparence.md)*)}
+{s:BDTexte|**Particularités** [[Changement de forme (capacité)|Changement de forme]] (cinq formes humanoïdes : *[[modification dapparence|modification d'apparence]]*)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Changement de forme (Sur).** Le naga royal peut utiliser cette capacité pour prendre une de ses cinq formes humanoïdes spécifiques. Chacune de ces formes a une apparence unique (comme, par exemple, une naine aux cheveux roux, un vieil humain, etc.) et le naga ne peut utiliser cette capacité que pour prendre l’une de ses cinq formes. Il peut toujours utiliser sa capacité de regard double sous ses formes humanoïdes.}
-{s:BDTexte|**Regard double (Sur).** Le naga royal a un regard perçant capable d’estropier ceux qui le croisent. La créature a deux [attaques de regard](./Regard (capacité).md) et peut passer de l’une à l’autre par une [action de mouvement](./Action de mouvement.md). L’un de ces regards fait que ceux qui y succombent deviennent [aveugles](./Aveuglé.md), tandis que l’autre les rend [sourds](./Assourdi.md). Un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 21 annule les effets de l’un ou l’autre de ces regards ; sinon, les [effets sont permanents](./diminution permanente.md) tant qu’ils ne sont pas soignés. En général, le naga royal préfère garder son regard assourdissant actif, passant à son regard aveuglant une fois que le combat est engagé et que certains de ses adversaires sont devenus [sourds](./Assourdi.md), étant donné que ceux qui sont [aveugles](./Aveuglé.md) ne peuvent plus être affectés par ses attaques de regard. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
-{s:BDTexte|**Sorts (Mag).** Le naga aquatique peut lancer des sorts comme un [ensorceleur](./Ensorceleur.md) de niveau 9.}
+{s:BDTexte|**Regard double (Sur).** Le naga royal a un regard perçant capable d’estropier ceux qui le croisent. La créature a deux [[regard (capacité)|attaques de regard]] et peut passer de l’une à l’autre par une [[action de mouvement]]. L’un de ces regards fait que ceux qui y succombent deviennent [[aveuglé|aveugles]], tandis que l’autre les rend [[assourdi|sourds]]. Un jet de [[Vigueur]] [[DD]] 21 annule les effets de l’un ou l’autre de ces regards ; sinon, les [[diminution permanente|effets sont permanents]] tant qu’ils ne sont pas soignés. En général, le naga royal préfère garder son regard assourdissant actif, passant à son regard aveuglant une fois que le combat est engagé et que certains de ses adversaires sont devenus [[assourdi|sourds]], étant donné que ceux qui sont [[aveuglé|aveugles]] ne peuvent plus être affectés par ses attaques de regard. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|**Sorts (Mag).** Le naga aquatique peut lancer des sorts comme un [[ensorceleur]] de niveau 9.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -56,17 +56,17 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Naga aquatique](./Naga aquatique.md) || 7
+| [[Naga aquatique]] || 7
 |-
-| [Naga corrupteur](./naga corrupteur.md) || 9
+| [[Naga corrupteur]] || 9
 |-
-| [Naga gardien](./Naga gardien.md) || 10
+| [[Naga gardien]] || 10
 |-
-| [Naga lunaire](./Naga lunaire.md) || 6
+| [[Naga lunaire]] || 6
 |-
-| [Naga royal](./Naga royal.md) || 11
+| [[Naga royal]] || 11
 |-
-| [Naga ténébreux](./Naga ténébreux.md) || 8
+| [[Naga ténébreux]] || 8
 |}
 </div>*Cette créature au corps de serpent a cinq têtes au visage humanoïde altier, couvertes d’un capuchon de cobra.*
 

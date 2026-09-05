@@ -6,7 +6,7 @@ LastModified: 2015-10-28 18:28
 
 *La queue du tieffelin gagne en utilité.*
 
-**Condition.** [Tieffelin](./Tieffelin (race).md).
+**Condition.** [[tieffelin (race)|Tieffelin]].
 
 **Avantage.** S’il ne peut pas manier d’armes avec sa queue, il peut l’utiliser pour récupérer de petits objets rangés sur lui par une action rapide.
 

@@ -13,12 +13,12 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 2, [Inq](./Inquisiteur.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 2, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
+{s:RSE}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 2, [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
 **Portée** contact
 **Cible** créature touchée
-**Durée** 1 [round](./round.md)/niveau
-**Jet de sauvegarde** [Volonté, annule (inoffensif)](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui (inoffensif)
+**Durée** 1 [[round]]/niveau
+**Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|Volonté, annule (inoffensif)]] ; **Résistance à la magie** oui (inoffensif)
 
-Ce sort a été créé à l’origine pour aider temporairement les individus victimes de certaines afflictions. La cible de ce sort ignore les effets infligeant des malus ou des [affaiblissements temporaires de caractéristique](./affaiblissement temporaire (capacité).md) sur une seule valeur de caractéristique de son choix. Toutefois, un affaiblissement temporaire dont le montant est égal ou supérieur à la valeur de caractéristique ciblée provoque toujours l’inconscience ou la mort. Cette règle s’applique quel que soit le moment où les affaiblissements temporaires ou les malus sont subis (avant l’incantation du sort ou pendant qu’il fait effet) et qu’ils soient issus de sources multiples ou pas. Ce sort n’a aucun effet sur les [diminutions permanentes](./affaiblissement temporaire (capacité).md) de caractéristique.
+Ce sort a été créé à l’origine pour aider temporairement les individus victimes de certaines afflictions. La cible de ce sort ignore les effets infligeant des malus ou des [[Affaiblissement temporaire (capacité)|affaiblissements temporaires de caractéristique]] sur une seule valeur de caractéristique de son choix. Toutefois, un affaiblissement temporaire dont le montant est égal ou supérieur à la valeur de caractéristique ciblée provoque toujours l’inconscience ou la mort. Cette règle s’applique quel que soit le moment où les affaiblissements temporaires ou les malus sont subis (avant l’incantation du sort ou pendant qu’il fait effet) et qu’ils soient issus de sources multiples ou pas. Ce sort n’a aucun effet sur les [[Affaiblissement temporaire (capacité)|diminutions permanentes]] de caractéristique.

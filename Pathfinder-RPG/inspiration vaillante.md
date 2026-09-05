@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Les représentations de barde#INSPIRATIONVAILLANTE
 ---
 
->>> [Les représentations de barde#INSPIRATIONVAILLANTE](./Les-représentations-de-barde.md#INSPIRATIONVAILLANTE)
+>>> [[Les représentations de barde#INSPIRATIONVAILLANTE]]

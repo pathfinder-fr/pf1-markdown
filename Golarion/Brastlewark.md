@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Cette ville de l'est du [Chéliax](./Chéliax.md) contient la plus importante communauté Gnome du pays. Elle est située au sud de la chaîne d'[Aspodell](./Aspodell.md), à quelques encablures de la source du fleuve [Brastle](./Brastle.md).
+Cette ville de l'est du [[Chéliax]] contient la plus importante communauté Gnome du pays. Elle est située au sud de la chaîne d'[[Aspodell]], à quelques encablures de la source du fleuve [[Brastle]].

@@ -10,14 +10,14 @@ Categories:
 
 *Les coups critiques du personnage ralentissent ses adversaires.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT), [critique](./Dons.md#DONCRITIQUE)
+**Catégorie** : [[Dons#DONCOMBAT|combat]], [[Dons#DONCRITIQUE|critique]]
 
-**Conditions.** [Don pour les critiques](./Don pour les critiques.md), [bonus de base à l’attaque](./BBA.md) +13.
+**Conditions.** [[Don pour les critiques]], [[BBA|bonus de base à l’attaque]] +13.
 
-**Avantage.** Quand le personnage inflige un [coup critique](./coup critique.md), son adversaire est [chancelant](./Chancelant.md) pendant 1d4+1 [rounds](./round.md). Un jet de [Vigueur](./Vigueur.md) réussi permet de réduire cette durée à 1 [round](./round.md). Le [DD](./DD.md) du jet de [Vigueur](./Vigueur.md) est égal à 10 + [bonus de base à l’attaque](./BBA.md). Les effets de ce don ne se cumulent pas. Les coups supplémentaires prolongent la durée.
+**Avantage.** Quand le personnage inflige un [[coup critique]], son adversaire est [[chancelant]] pendant 1d4+1 [[round|rounds]]. Un jet de [[Vigueur]] réussi permet de réduire cette durée à 1 [[round]]. Le [[DD]] du jet de [[Vigueur]] est égal à 10 + [[BBA|bonus de base à l’attaque]]. Les effets de ce don ne se cumulent pas. Les coups supplémentaires prolongent la durée.
 
-**Spécial.** Le personnage applique un seul effet de critique à chacun de ses [coups critiques](./coup critique.md), à moins qu’il dispose de la [Maîtrise du critique](./Maîtrise du critique.md).
+**Spécial.** Le personnage applique un seul effet de critique à chacun de ses [[coup critique|coups critiques]], à moins qu’il dispose de la [[Maîtrise du critique]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage confirme un [coup critique](./coup critique.md) et tente de faire [chanceler](./Chancelant.md) son adversaire, il peut dépenser jusqu’à 5 points d’endurance pour augmenter le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) à effectuer contre le don d’un montant égal au nombre de points d’endurance dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage confirme un [[coup critique]] et tente de faire [[chancelant|chanceler]] son adversaire, il peut dépenser jusqu’à 5 points d’endurance pour augmenter le [[DD]] du [[jds|jet de sauvegarde]] à effectuer contre le don d’un montant égal au nombre de points d’endurance dépensés.

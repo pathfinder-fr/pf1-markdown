@@ -7,4 +7,4 @@ Categories:
 RedirectTo: antipaladin#TOUCHERDECORRUPTION
 ---
 
->>> [antipaladin#TOUCHERDECORRUPTION](./Antipaladin.md#TOUCHERDECORRUPTION)
+>>> [[antipaladin#TOUCHERDECORRUPTION]]

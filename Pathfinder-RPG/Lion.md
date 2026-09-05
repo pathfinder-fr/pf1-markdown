@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.202}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +7 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 12 (Dex +3, naturelle +3, taille -1)}
 {s:BDTexte|**pv** 32 (5d8+10)}
 {s:BDTexte|**Réf** +7, **Vig** +6, **Vol** +2}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +7 (1d8+5 et [étreinte](./Étreinte.md)), 2 griffes, +7 (1d4+5)}
+{s:BDTexte|**Corps à corps** morsure, +7 (1d8+5 et [[étreinte]]), 2 griffes, +7 (1d4+5)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond.md), [pattes arrière](./Pattes arrière.md) (2 griffes, +7, 1d4+5)}
+{s:BDTexte|**Attaques spéciales** [[bond]], [[pattes arrière]] (2 griffes, +7, 1d4+5)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 17, **Con** 15, **Int** 2, **Sag** 12, **Cha** 6}
-{s:BDTexte|**BBA** +3, **BMO** +9 (+13 [lutte](./lutte.md)), **DMD** 22 (26 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./Course.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11, [Discrétion](./Discrétion.md) +8 (+12 dans les fourrés), [Perception](./Perception.md) +9 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4, [Discrétion](./Discrétion.md) +4 (+8 dans les fourrés)}
+{s:BDTexte|**BBA** +3, **BMO** +9 (+13 [[lutte]]), **DMD** 22 (26 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11, [[Discrétion]] +8 (+12 dans les fourrés), [[Perception]] +9 ; **Modificateurs raciaux** [[Acrobaties]] +4, [[Discrétion]] +4 (+8 dans les fourrés)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-10)}
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Lion](./Lion.md) || 3
+| [[Lion]] || 3
 |-
-| [Lion sanguinaire](./Lion sanguinaire.md) || 5
+| [[Lion sanguinaire]] || 5
 |}
 </div>*On peut voir les muscles de ce grand félin bouger sous sa peau, tandis qu’il montre les crocs et secoue les poils de son épaisse crinière.*
 
@@ -61,8 +61,8 @@ cadavres.
 
 Ils s’attaquent
 parfois aux autres prédateurs
-(comme les [léopards](./Léopard.md) et les
-[hyènes](./Hyène.md)) qui pénètrent sur leur
+(comme les [[Léopard|léopards]] et les
+[[Hyène|hyènes]]) qui pénètrent sur leur
 terrain de chasse, mais ils ne les
 dévorent que si les proies se font
 rares. Les lions ne chassent pas
@@ -75,6 +75,6 @@ principale de son régime
 alimentaire.
 
 #### Le lion comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For 13, Dex 17, Con 13, Int 2, Sag 15, Cha 10 ; **Attaque spéciale** [pattes arrière](./Pattes arrière.md) (1d4) ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For 13, Dex 17, Con 13, Int 2, Sag 15, Cha 10 ; **Attaque spéciale** [[pattes arrière]] (1d4) ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8), 2 griffes (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Attaque spéciale** [bond](./Bond.md), [étreinte](./Étreinte.md), [pattes arrière](./Pattes arrière.md) (1d6).</div></td></tr></table>
+**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8), 2 griffes (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Attaque spéciale** [[bond]], [[étreinte]], [[pattes arrière]] (1d6).</div></td></tr></table>

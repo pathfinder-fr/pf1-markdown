@@ -15,22 +15,22 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 3  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ;** Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (un petit couteau)  
+**Composantes** [[Composantes|V, G, F]] (un petit couteau)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** couteau de force flottant  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Le personnage crée un sinistre couteau de force qui flotte à ses côtés et attaque à chaque [round](./round.md) la même cible que lui. S'il décide de ne pas attaquer de créature ou s'il effectue une attaque qui touche plusieurs adversaires, le couteau ne porte pas d'attaque pour le [round](./round.md). Quand il attaque, le couteau utilise le [bonus de base à l'attaque](./BBA.md) du personnage, modifié par son bonus d'[Intelligence](./Intelligence.md) ou de [Charisme](./Charisme.md) (le plus élevé). Le couteau se place toujours de manière à [prendre l'ennemi en tenailles](./Pris en tenaille.md) avant d'attaquer, à moins que le personnage ne souhaite le contraire ou que le couteau se retrouve dans l'impossibilité de le faire. Quand il touche, il inflige 1d4 points de dégâts de force. Il menace la même zone de critique qu'une dague ordinaire et possède le même modificateur de coup critique. De plus, si la cible ne bénéficie pas de son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) ou si le couteau [prend l'ennemi en tenailles](./Pris en tenaille.md), il peut faire une [attaque sournoise](./attaque sournoise.md) comme un [roublard](./Roublard.md). Il inflige alors 1d6 points de dégâts de plus par tranche de 4 [niveaux de lanceur de sorts](./NLS.md).
+Le personnage crée un sinistre couteau de force qui flotte à ses côtés et attaque à chaque [[round]] la même cible que lui. S'il décide de ne pas attaquer de créature ou s'il effectue une attaque qui touche plusieurs adversaires, le couteau ne porte pas d'attaque pour le [[round]]. Quand il attaque, le couteau utilise le [[BBA|bonus de base à l'attaque]] du personnage, modifié par son bonus d'[[Intelligence]] ou de [[Charisme]] (le plus élevé). Le couteau se place toujours de manière à [[pris en tenaille|prendre l'ennemi en tenailles]] avant d'attaquer, à moins que le personnage ne souhaite le contraire ou que le couteau se retrouve dans l'impossibilité de le faire. Quand il touche, il inflige 1d4 points de dégâts de force. Il menace la même zone de critique qu'une dague ordinaire et possède le même modificateur de coup critique. De plus, si la cible ne bénéficie pas de son bonus de [[Dextérité]] à la [[CA]] ou si le couteau [[pris en tenaille|prend l'ennemi en tenailles]], il peut faire une [[attaque sournoise]] comme un [[roublard]]. Il inflige alors 1d6 points de dégâts de plus par tranche de 4 [[NLS|niveaux de lanceur de sorts]].
 
-On ne peut pas blesser une *lame du crépuscule* avec une attaque physique mais elle est affectée par des effets comme *[dissipation de la magie](./Dissipation de la magie.md)*, *[désintégration](./Désintégration.md)*, *[sphère d'annihilation](./Sphère dannihilation.md)* ou un *[sceptre d'oblitération](./Sceptre doblitération.md)*. Contre les [attaques de contact](./attaque de contact.md), elle a une [CA](./CA.md) de 12 (10 + bonus de taille des petits objets) plus modificateur de [Dextérité](./Dextérité.md) du personnage.
+On ne peut pas blesser une *lame du crépuscule* avec une attaque physique mais elle est affectée par des effets comme *[[dissipation de la magie]]*, *[[désintégration]]*, *[[sphère dannihilation|sphère d'annihilation]]* ou un *[[sceptre doblitération|sceptre d'oblitération]]*. Contre les [[attaque de contact|attaques de contact]], elle a une [[CA]] de 12 (10 + bonus de taille des petits objets) plus modificateur de [[Dextérité]] du personnage.
 
-Si la cible de la *lame du crépuscule* a une [résistance à la magie](./RM.md), le personnage fait un test de [niveau de lanceur de sorts](./NLS.md) (1d20 + niveau de lanceur de sorts) contre cette [résistance à la magie](./RM.md) la première fois où la lame la frappe. Si la cible résiste, elle dissipe le sort, sinon, l'arme applique la totalité de ses effets normaux sur cette créature pendant toute la durée du sort.
+Si la cible de la *lame du crépuscule* a une [[RM|résistance à la magie]], le personnage fait un test de [[NLS|niveau de lanceur de sorts]] (1d20 + niveau de lanceur de sorts) contre cette [[RM|résistance à la magie]] la première fois où la lame la frappe. Si la cible résiste, elle dissipe le sort, sinon, l'arme applique la totalité de ses effets normaux sur cette créature pendant toute la durée du sort.

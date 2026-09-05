@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*La dévotion du personnage est sans limite et sa colère refuse de s’éteindre. *
 
-**Condition.** Pouvoir de classe [tueur](./Inquisiteur.md#TUEUR)
+**Condition.** Pouvoir de classe [[Inquisiteur#TUEUR|tueur]]
 
-**Avantage.** Le personnage ajoute son bonus de [Sagesse](./Sagesse.md) au nombre de rounds quotidiens pendant lesquels il peut utiliser son pouvoir de tueur.
+**Avantage.** Le personnage ajoute son bonus de [[Sagesse]] au nombre de rounds quotidiens pendant lesquels il peut utiliser son pouvoir de tueur.

@@ -4,9 +4,9 @@ Title: Boutons inline pour les gabarits sur Foundry VTT
 LastModified: 2023-04-09 22:21
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• Autres types de boutons inline : [Boutons de jets de dés](./FVTT boutons jets.md) - [Boutons de tests](./FVTT boutons tests.md) - [Boutons de gabarit](./FVTT boutons gabarit.md)
+• Autres types de boutons inline : [[FVTT boutons jets|Boutons de jets de dés]] - [[FVTT boutons tests|Boutons de tests]] - [[FVTT boutons gabarit|Boutons de gabarit]]
 
 <nowiki><style>
 1. content #PageContentDiv code {
@@ -42,7 +42,7 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <tr>
 <td>**Code**  
 
-`@Template[type:emanation|distance:15]`</td>
+`@Template[[type:emanation|distance:15]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga1b.webp"/></td>
 </tr>
 <tr><td>
@@ -54,7 +54,7 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <tr>
 <td>**Code**  
 
-`@Template[type:burst|distance:25]`</td>
+`@Template[[type:burst|distance:25]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga2b.webp"/></td>
 </tr>
 <tr><td>
@@ -66,7 +66,7 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <table class="example">
 <td>**Code**  
 
-`@Template[type:cone|distance:20]`</td>
+`@Template[[type:cone|distance:20]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga3b.webp"/></td>
 </tr>
 <tr><td>
@@ -78,7 +78,7 @@ En cliquant le texte principal du bouton, le curseur prend la forme du gabarit e
 <table class="example">
 <td>**Code**  
 
-`@Template[type:line|distance:20]`</td>
+`@Template[[type:line|distance:20]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga4b.webp"/></td>
 </tr>
 <tr><td>
@@ -94,7 +94,7 @@ Comme pour les boutons précédents, on peut ajouter un libellé entre accolades
 <tr>
 <td>**Code**  
 
-`un cône de @Template[type:cone|distance:15]{3 cases}`</td>
+`un cône de @Template[[type:cone|distance:15]]{3 cases}`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga5b.webp"/></td>
 </tr>
 <tr><td>
@@ -110,7 +110,7 @@ Par défaut, les lignes ont une largeur de 1 case (1,50 mètre). On peut précis
 <tr>
 <td>**Code**  
 
-`@Template[type:line|distance:30|width:15]`</td>
+`@Template[[type:line|distance:30|width:15]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga6b.webp"/></td>
 </tr>
 <tr><td>
@@ -122,7 +122,7 @@ Par défaut, les lignes ont une largeur de 1 case (1,50 mètre). On peut précis
 <tr>
 <td>**Code**  
 
-`carré de @Template[type:line|distance:20|width:20]{4 × 4 cases}`</td>
+`carré de @Template[[type:line|distance:20|width:20]]{4 × 4 cases}`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/biga7b.webp"/></td>
 </tr>
 <tr><td>

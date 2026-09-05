@@ -11,22 +11,22 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Occ](./Occultiste.md) 5  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (un peu de sable, de chaux et d’eau)  
+**Composantes** [[composantes|V, G, M/FD]] (un peu de sable, de chaux et d’eau)  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Zone d'effet** jusqu’à 2 cubes de 3 m d’arête/[niveau](./niveau.md) (F)  
+**Zone d'effet** jusqu’à 2 cubes de 3 m d’arête/[[niveau]] (F)  
 
-**Durée** [permanente](./permanente.md)  
+**Durée** [[permanente]]  
 
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
-Ce sort transforme la boue ou les sables mouvants en pierre (généralement du grès ou une roche similaire). Cette transformation est [permanente](./permanente.md).
+Ce sort transforme la boue ou les sables mouvants en pierre (généralement du grès ou une roche similaire). Cette transformation est [[permanente]].
 
-Les créatures prises dans la boue ont droit à un jet de [Réflexes](./Réflexes.md) pour s’échapper avant d’être coincées dans la pierre.
+Les créatures prises dans la boue ont droit à un jet de [[Réflexes]] pour s’échapper avant d’être coincées dans la pierre.
 
-*[Transmutation de la boue en pierre](./Transmutation de la boue en pierre.md)* contre et dissipe *[transmutation de la pierre en boue](./Transmutation de la pierre en boue.md)*.
+*[[Transmutation de la boue en pierre]]* contre et dissipe *[[transmutation de la pierre en boue]]*.

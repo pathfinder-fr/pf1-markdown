@@ -11,21 +11,21 @@ Categories:
 - Sort spirite 6
 ---
 
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[douleur, émotion](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 6, [Bard](./Barde.md) 6, [Hyp](./Hypnotiseur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Sor](./Sorcière.md) 6, [Spi](./Spirite.md) 6  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|douleur, émotion]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 6, [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** 1 créature vivante  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Chaque [round](./round.md), le personnage cible une créature vivante, projetant sur elle des vagues de puissance maléfique. En fonction des [DV](./../Ressources/DV.md) de la cible, cette attaque peut avoir jusqu’à trois effets.
+Chaque [[round]], le personnage cible une créature vivante, projetant sur elle des vagues de puissance maléfique. En fonction des [[DV]] de la cible, cette attaque peut avoir jusqu’à trois effets.
 
 <center>
 {| CLASS="tablo"
@@ -42,10 +42,10 @@ Chaque [round](./round.md), le personnage cible une créature vivante, projetant
 
 Ces effets sont cumulatifs.
 
-**Fièvre.** La créature affectée est prise d’une brusque poussée de [fièvre](./Fiévreux.md) provoquant des douleurs terribles. L’effet dure pendant dix minutes par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md). Il ne peut pas être contré par *[guérison des maladies](./Guérison des maladies.md)* ou *[guérison suprême](./Guérison suprême.md)*, mais *[délivrance des malédictions](./Délivrance des malédictions.md)* y met un terme.
+**Fièvre.** La créature affectée est prise d’une brusque poussée de [[fiévreux|fièvre]] provoquant des douleurs terribles. L’effet dure pendant dix minutes par [[niveau de lanceur de sorts]]. Il ne peut pas être contré par *[[guérison des maladies]]* ou *[[guérison suprême]]*, mais *[[délivrance des malédictions]]* y met un terme.
 
-**Terreur.** La cible est [paniquée](./Paniqué.md) pendant 1d4 rounds. Même lorsqu’elle reprend le contrôle de ses actes, elle reste [secouée`](./Secoué.md) pendant dix minutes par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) de ce dernier. Si elle se trouve de nouveau confrontée au jeteur de sorts, elle est de nouveau [paniquée](./Paniqué.md) pour 1d4 round. Il s’agit d’un effet de [terreur](./Présentation des sorts.md#REGISTRE).
+**Terreur.** La cible est [[paniqué|paniquée]] pendant 1d4 rounds. Même lorsqu’elle reprend le contrôle de ses actes, elle reste [[secoué|secouée`]] pendant dix minutes par [[niveau de lanceur de sorts]] de ce dernier. Si elle se trouve de nouveau confrontée au jeteur de sorts, elle est de nouveau [[paniqué|paniquée]] pour 1d4 round. Il s’agit d’un effet de [[Présentation des sorts#REGISTRE|terreur]].
 
-**Sommeil.** Le sujet tombe en catatonie pendant dix minutes par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md). On ne peut le réveiller pendant la durée de l’effet qu’en dissipant ce dernier. Il ne s’agit pas d’un effet de sommeil et les [elfes](./Elfe.md) n’y sont donc pas [immunisés](./immunisé.md).
+**Sommeil.** Le sujet tombe en catatonie pendant dix minutes par [[niveau de lanceur de sorts]]. On ne peut le réveiller pendant la durée de l’effet qu’en dissipant ce dernier. Il ne s’agit pas d’un effet de sommeil et les [[elfe|elfes]] n’y sont donc pas [[immunisé|immunisés]].
 
-Pour continuer à affecter un adversaire après le premier [round](./round.md), il faut dépenser une [action rapide](./Action rapide.md) par [round](./round.md).
+Pour continuer à affecter un adversaire après le premier [[round]], il faut dépenser une [[action rapide]] par [[round]].

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 - *Source : Bestiaire 2, p.275*
 - **PX** 1 200
-- [Aberration](./type Aberration.md) ([métamorphe](./sous-type métamorphe.md)) de taille M, CM
-- **Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +2
+- [[type Aberration|Aberration]] ([[sous-type métamorphe|métamorphe]]) de taille M, CM
+- **Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +2
 (((Défense)))
 - **CA** 17, contact 13, pris au dépourvu 14 (Dex +3, naturelle +4)
 - **pv** 42 (5d8+20)
@@ -23,31 +23,31 @@ Categories:
 - **RD** 5/perforant ou tranchant
 (((Attaque)))
 - **VD** 9 m (6 {s:c})
-- **Corps à corps** épée longue de maître, +8 (1d8+4/19–20) et coup, +2 (1d6+2 plus [étreinte](./Étreinte.md))
+- **Corps à corps** épée longue de maître, +8 (1d8+4/19–20) et coup, +2 (1d6+2 plus [[étreinte]])
 - **Espace** 1,50 m (1 {s:c}) ; **Allonge** 3 m (2 {s:c})
-- **Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1 Constitution), [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +2d6
+- **Attaques spéciales** [[absorption de sang (capacité)|absorption de sang]] (1 Constitution), [[roublard#ATTAQUESOURNOISE|attaque sournoise]] +2d6
 - **Pouvoirs magiques** (NLS 5 ; concentration +8)
-  - Constant — *[don des langues](./Don des langues.md)*
+  - Constant — *[[don des langues]]*
 (((Statistiques)))
 - **For** 18, **Dex** 17, **Con** 18, **Int** 13, **Sag** 15, **Cha** 16
 - **BBA** +3 ; **BMO** +7 (+11 lutte) ; **DMD** 20
-- **Dons** [Attaques réflexes](./Attaques réflexes.md), [Fourberie](./Fourberie.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Bluff](./Bluff.md) +10, [Déguisement](./Déguisement.md) +14 (+24 avec changement de forme), [Discrétion](./Discrétion.md) +11, [Escamotage](./Escamotage.md) +8, [Évasion](./Évasion.md) +19 ; **Modificateurs raciaux** +4 en [Déguisement](./Déguisement.md), +8 en [Évasion](./Évasion.md)
-- **Langues** aquatique, commun ; *[don des langues](./Don des langues.md)*
-- **Particularités** [changement de forme](./Changement de forme (capacité).md) (humanoïde de taille M, *[modification d’apparence](./Modification dapparence.md)*), [compression](./Compression (capacité).md), sans visage
+- **Dons** [[Attaques réflexes]], [[Fourberie]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Bluff]] +10, [[Déguisement]] +14 (+24 avec changement de forme), [[Discrétion]] +11, [[Escamotage]] +8, [[Évasion]] +19 ; **Modificateurs raciaux** +4 en [[Déguisement]], +8 en [[Évasion]]
+- **Langues** aquatique, commun ; *[[don des langues]]*
+- **Particularités** [[changement de forme (capacité)|changement de forme]] (humanoïde de taille M, *[[modification dapparence|modification d’apparence]]*), [[compression (capacité)|compression]], sans visage
 (((Écologie)))
 - **Environnement** marécages ou sous terre
 - **Organisation sociale** solitaire, couple ou bande (3–9)
 - **Trésor** standard (épée longue de maître , autres trésors)
 (((Pouvoirs spéciaux)))
-- **Changement de la forme (Sur).** Un traqueur sans visage peut prendre la forme d’un humanoïde de taille M à volonté, mais il lui faut 10 minutes de travail ininterrompu pour modifier son corps. La transformation est légèrement douloureuse, mais le traqueur sans visage peut conserver la nouvelle forme qu’il a adoptée aussi longtemps qu’il le désire. Il peut revenir à sa forme véritable par une action rapide ; après cette transformation inverse, il gagne un bonus de moral de +2 aux jets d’attaque, jets de dégâts, tests de compétence et jets de sauvegarde pendant 1 round. Les traqueurs sans visage conservent leurs propres capacités quand ils prennent une nouvelle forme et n’acquièrent aucune des capacités de la créature imitée. Ils bénéficient d’un bonus de +10 aux tests de [Déguisement](./Déguisement.md) relatifs à l’utilisation de cette capacité.
+- **Changement de la forme (Sur).** Un traqueur sans visage peut prendre la forme d’un humanoïde de taille M à volonté, mais il lui faut 10 minutes de travail ininterrompu pour modifier son corps. La transformation est légèrement douloureuse, mais le traqueur sans visage peut conserver la nouvelle forme qu’il a adoptée aussi longtemps qu’il le désire. Il peut revenir à sa forme véritable par une action rapide ; après cette transformation inverse, il gagne un bonus de moral de +2 aux jets d’attaque, jets de dégâts, tests de compétence et jets de sauvegarde pendant 1 round. Les traqueurs sans visage conservent leurs propres capacités quand ils prennent une nouvelle forme et n’acquièrent aucune des capacités de la créature imitée. Ils bénéficient d’un bonus de +10 aux tests de [[Déguisement]] relatifs à l’utilisation de cette capacité.
 - **Sans visage (Sur).** Sous sa véritable forme, un traqueur sans visage ne possède aucune caractéristique faciale reconnaissable. Il gagne un bonus de +4 aux jets de sauvegarde permettant de résister aux attaques ou aux effets qui ciblent les sens. Cela inclut les attaques du regard, les attaques basées sur l’odorat, les attaques de son et les attaques du même type. Ce bonus ne s’applique pas aux illusions.
 
 </div>
 </td><td><div>*Le visage de ce bipède glabre à la peau épaisse est dénué de véritables caractéristiques faciales mais recouvert de spirales et de fentes.*
 
 Les ugothols (c’est ainsi que les traqueurs sans visage s’appellent)
-sont l’un des nombreux outils que les [aboleths](./Aboleth.md) ont créés puis
+sont l’un des nombreux outils que les [[aboleth|aboleths]] ont créés puis
 abandonnés au cours de la longue guerre qu’ils ont menée
 contre les habitants de la surface. Méprisés par leurs anciens
 maîtres depuis que le plan pour lequel ils avaient été conçus a

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Catalytique
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Catalytique](./Descriptions individuelles des propriétés spéciales des armes.md#Catalytique)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Catalytique]]

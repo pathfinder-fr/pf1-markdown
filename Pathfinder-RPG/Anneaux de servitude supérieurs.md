@@ -10,11 +10,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneaux de servitude supérieurs|{s:UI}}
-**Aura** [Enchantement](./Enchantement.md) modérée ; **NLS** 11 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 42 000 po ; **Poids** —
+**Aura** [[Enchantement]] modérée ; **NLS** 11 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 42 000 po ; **Poids** —
 (((Description)))
-{s:cs}Ces anneaux spécialisés fonctionnent comme des *[anneaux de servitude](./Anneaux de servitude.md)*, mais un ordre imposé par le porteur de l'anneau maître (y compris un accord mutuel qui affecte les deux porteurs) prend 10 minutes à établir, est permanent, et fonctionne comme *[quête](./Quête.md)*, bien qu'un jet de [Volonté](./Volonté.md) [DD](./DD.md) 16 l'annule toujours.
+{s:cs}Ces anneaux spécialisés fonctionnent comme des *[[anneaux de servitude]]*, mais un ordre imposé par le porteur de l'anneau maître (y compris un accord mutuel qui affecte les deux porteurs) prend 10 minutes à établir, est permanent, et fonctionne comme *[[quête]]*, bien qu'un jet de [[Volonté]] [[DD]] 16 l'annule toujours.
 
-De plus, le porteur de l'anneau maître bénéficie d'un *[sanctuaire](./Sanctuaire.md)* ([DD](./DD.md) 16) permanent contre le porteur de l'anneau servant, qui nécessite de réussir un [jet de sauvegarde](./JDS.md) à chaque attaque que le servant effectue contre le maître (y compris les attaques de zone, mais pas le fait d'ordonner à des alliés ou des créatures contrôlées d'attaquer le porteur). Un jet de sauvegarde raté empêche seulement l'attaque qui l'a déclenché. Chaque fois que le servant réussit à attaquer le maître, il doit réussir un jet de [Volonté](./Volonté.md) DD 16 ou être la cible d'une *[malédiction](./sort Malédiction.md)*.
+De plus, le porteur de l'anneau maître bénéficie d'un *[[sanctuaire]]* ([[DD]] 16) permanent contre le porteur de l'anneau servant, qui nécessite de réussir un [[jds|jet de sauvegarde]] à chaque attaque que le servant effectue contre le maître (y compris les attaques de zone, mais pas le fait d'ordonner à des alliés ou des créatures contrôlées d'attaquer le porteur). Un jet de sauvegarde raté empêche seulement l'attaque qui l'a déclenché. Chaque fois que le servant réussit à attaquer le maître, il doit réussir un jet de [[Volonté]] DD 16 ou être la cible d'une *[[sort Malédiction|malédiction]]*.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[détection des pensées](./détection des pensées.md)*, *[malédiction](./sort Malédiction.md)*, *[partage de la langue](./Partage de la langue.md)*, *[quête](./Quête.md)*, *[rapport](./Rapport.md)*, *[sanctuaire](./Sanctuaire.md)* ; **Coût** 21 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[détection des pensées]]*, *[[sort Malédiction|malédiction]]*, *[[partage de la langue]]*, *[[quête]]*, *[[rapport]]*, *[[sanctuaire]]* ; **Coût** 21 000 po
 </div>

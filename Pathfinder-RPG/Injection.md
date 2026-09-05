@@ -12,17 +12,17 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Psy](./Psychiste.md) 3  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** personnelle  
 
 **Cible** le jeteur de sorts  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
@@ -32,4 +32,4 @@ Le sort protège le personnage contre le poison contenu dans le sac corporel mai
 
 ### Mythique
 {s:CMy}
-Ajoutez la moitié du [grade](./Grade.md) du personnage au [DD](./DD.md) d’un poison ou d’une potion injecté dans le corps d’une créature à l’aide de ce sort. S’il injecte une substance qui confère un bonus de compétence, ajoutez son [grade](./Grade.md) à ce bonus.
+Ajoutez la moitié du [[grade]] du personnage au [[DD]] d’un poison ou d’une potion injecté dans le corps d’une créature à l’aide de ce sort. S’il injecte une substance qui confère un bonus de compétence, ajoutez son [[grade]] à ce bonus.

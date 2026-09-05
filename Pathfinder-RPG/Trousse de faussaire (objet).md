@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 200 po ; **Poids** 3 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Cet ensemble d’encres, de feuilles, de modèles d’attestations et d’outils pour modifier ou reproduire des sceaux officiels facilite la contrefaçon de documents. Il accorde un bonus de circonstances de +2 aux tests de [Linguistique](./Linguistique.md) pour fabriquer des faux.
+Cet ensemble d’encres, de feuilles, de modèles d’attestations et d’outils pour modifier ou reproduire des sceaux officiels facilite la contrefaçon de documents. Il accorde un bonus de circonstances de +2 aux tests de [[Linguistique]] pour fabriquer des faux.

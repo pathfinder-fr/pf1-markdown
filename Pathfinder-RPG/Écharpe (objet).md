@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa–5 po ; **Poids** 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:AE}**Prix** 1 pa–5 po ; **Poids** 0,25 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 Les artistes utilisent souvent des costumes séduisants et de ravissants accessoires pour leurs spectacles. Les écharpes en soie transparente ou en tissu coloré, souvent brodées de scènes ou de motifs complexes, font partie de leurs accessoires favoris.

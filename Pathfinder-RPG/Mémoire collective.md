@@ -11,9 +11,9 @@ Categories:
 
 {s:RSE}*Le personnage et ses alliés savent mettre rapidement leurs souvenirs en commun pour se rappeler des faits essentiels.*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Avantage.** Quand un allié, qui dispose aussi de ce don, se trouve à 9 m du personnage ou moins et qu’il tente un test de [Connaissances](./Connaissances.md), le personnage peut utiliser l’action [aider quelqu’un](./aider qqn.md) par une [action libre](./Action libre.md), pour améliorer son test.
+**Avantage.** Quand un allié, qui dispose aussi de ce don, se trouve à 9 m du personnage ou moins et qu’il tente un test de [[Connaissances]], le personnage peut utiliser l’action [[aider qqn|aider quelqu’un]] par une [[action libre]], pour améliorer son test.
 
 Pour utiliser ce don, le personnage doit posséder au moins un rang dans la compétence de Connaissances que son allié utilise.
 

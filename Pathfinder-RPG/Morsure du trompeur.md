@@ -11,10 +11,10 @@ Categories:
 
 {s:RSE}*Les coups à mains nues du personnage font saigner son adversaire.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md)
+**Conditions.** [[Science du combat à mains nues]]
 
-**Avantages.** Lorsqu’il blesse un adversaire avec une attaque à mains nues, le personnage inflige 1d4 points de dégâts de [saignement](./Saignement.md) supplémentaires.
+**Avantages.** Lorsqu’il blesse un adversaire avec une attaque à mains nues, le personnage inflige 1d4 points de dégâts de [[saignement]] supplémentaires.
 
 **Spécial.** Cette capacité ne se cumule pas avec d’autres capacités spéciales, attaques ou objets permettant au personnage d’infliger des dégâts de saignement.

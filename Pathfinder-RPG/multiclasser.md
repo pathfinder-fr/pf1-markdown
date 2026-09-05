@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Progression des personnages#MULTICLASSER
 ---
 
->>> [Progression des personnages#MULTICLASSER](./Progression des personnages.md#MULTICLASSER)
+>>> [[Progression des personnages#MULTICLASSER]]

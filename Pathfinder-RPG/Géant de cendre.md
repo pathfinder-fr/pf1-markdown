@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde|Désert|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p. 128*}
 {s:BDTexte|**PX** 12 800 px}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 11, pris au dépourvu 23 (armure +4, Dex +2, naturelle +10, taille -1)}
 {s:BDTexte|**pv** 147 (14d8+84)}
@@ -30,8 +30,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 33, **Dex** 14, **Con** 23, **Int** 9, **Sag** 12, **Cha** 10}
 {s:BDTexte|**BBA** +10, **BMO** +22, **DMD** 34}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Autonome](./Autonome.md), [Enchaînement](./Enchaînement.md), [Succession d’enchaînements](./Succession denchaînements.md), [Surprise](./Surprise.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +14, [Intimidation](./Intimidation.md) +6, [Perception](./Perception.md) +8, [Premiers secours](./Premiers secours.md) +7, [Survie](./Survie.md) +9}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Autonome]], [[Enchaînement]], [[Succession denchaînements|Succession d’enchaînements]], [[Surprise]], [[Tir à bout portant]], [[Tir de précision]]}
+{s:BDTexte|**Compétences** [[Escalade]] +14, [[Intimidation]] +6, [[Perception]] +8, [[Premiers secours]] +7, [[Survie]] +9}
 {s:BDTexte|**Langue** commun, géant}
 {s:BDTexte|**Particularités** arme de taille supérieure, empathie avec les vermines +14}
 {s:BDSousTitre|Écologie}
@@ -40,9 +40,9 @@ Categories:
 {s:BDTexte|**Trésor** standard (armure de peau, gourdin de taille TG, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Arme de taille supérieure (Ext).** Le géant de cendre peut manier des armes de taille TG sans malus.}
-{s:BDTexte|**Empathie avec les vermines (Ext).** Cette capacité fonctionne comme la capacité d’[empathie sauvage](./Druide.md#EMPATHIESAUVAGE) du [druide](./Druide.md), à la seule différence qu’elle ne s’applique qu’aux [vermines](./type Vermine.md). Le géant de cendre gagne, sur ce test, un bonus racial égal à ses dés de vie (+14 pour la plupart des géants de cendre). Les [vermines](./type Vermine.md) sont normalement dépourvues d’intelligence, mais cette communication empathique leur implante un minimum d’intelligence qui permet au géant de cendre de les dresser et de les utiliser comme gardiennes (même si cette capacité ne leur apporte aucune compétence ni aucun don)}
+{s:BDTexte|**Empathie avec les vermines (Ext).** Cette capacité fonctionne comme la capacité d’[[druide#EMPATHIESAUVAGE|empathie sauvage]] du [[druide]], à la seule différence qu’elle ne s’applique qu’aux [[type vermine|vermines]]. Le géant de cendre gagne, sur ce test, un bonus racial égal à ses dés de vie (+14 pour la plupart des géants de cendre). Les [[type vermine|vermines]] sont normalement dépourvues d’intelligence, mais cette communication empathique leur implante un minimum d’intelligence qui permet au géant de cendre de les dresser et de les utiliser comme gardiennes (même si cette capacité ne leur apporte aucune compétence ni aucun don)}
 {s:BDTexte|**Maladie (Sur).** Le géant de cendre est immunisé contre maladies mais il est porteur d’une forme de lèpre contagieuse. Toutes les créatures touchées par une attaque de géant de cendre sont exposées à cette maladie virulente.}
-{s:BDTexte|*Lèpre de cendre :* blessure  ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 23  ; *incubation* 1 minute  ; *fréquence* 1/jour  ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d2 points de [Con](./Constitution.md), [diminution permanente](./diminution permanente.md) de 1d2 points de [Cha](./Charisme.md) ; *guérison* 2 réussites consécutives. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|*Lèpre de cendre :* blessure  ; *JdS* [[Vigueur]] [[DD]] 23  ; *incubation* 1 minute  ; *fréquence* 1/jour  ; *effet* [[affaiblissement temporaire]] de 1d2 points de [[Constitution|Con]], [[diminution permanente]] de 1d2 points de [[Charisme|Cha]] ; *guérison* 2 réussites consécutives. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -51,49 +51,49 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Géant de cendre](./Géant de cendre.md) || 11
+| [[Géant de cendre]] || 11
 |-
-| [Géant de la jungle](./Géant de la jungle.md) || 10
+| [[Géant de la jungle]] || 10
 |-
-| [Géant de la lune](./Géant de la lune.md) || 15
+| [[Géant de la lune]] || 15
 |-
-| [Géant de la taïga](./Géant de la taïga.md) || 12
+| [[Géant de la taïga]] || 12
 |-
-| [Géant de l'ombre](./Géant de lombre.md) || 13
+| [[Géant de lombre|Géant de l'ombre]] || 13
 |-
-| [Géant de pierre](./Géant de pierre.md) || 8
+| [[Géant de pierre]] || 8
 |-
-| [Géant des bois](./Géant des bois.md) || 6
+| [[Géant des bois]] || 6
 |-
-| [Géant des collines](./Géant des collines.md) || 7
+| [[Géant des collines]] || 7
 |-
-| [Géant des falaises](./Géant des falaises.md) || 9
+| [[Géant des falaises]] || 9
 |-
-| [Géant des grottes](./Géant des grottes.md) || 6
+| [[Géant des grottes]] || 6
 |-
-| [Géant des marais](./Géant des marais.md) || 8
+| [[Géant des marais]] || 8
 |-
-| [Géant des nuages](./Géant des nuages.md) || 11
+| [[Géant des nuages]] || 11
 |-
-| [Géant des océans](./Géant des océans.md) || 14
+| [[Géant des océans]] || 14
 |-
-| [Géant des rivières](./Géant des rivières.md) || 6
+| [[Géant des rivières]] || 6
 |-
-| [Géant des runes](./Géant des runes.md) || 17
+| [[Géant des runes]] || 17
 |-
-| [Géant des scories](./Géant des scories.md) || 7
+| [[Géant des scories]] || 7
 |-
-| [Géant des tempêtes](./Géant des tempêtes.md) || 13
+| [[Géant des tempêtes]] || 13
 |-
-| [Géant des éclipses](./Géant des éclipses.md) || 19
+| [[Géant des éclipses]] || 19
 |-
-| [Géant du désert](./Géant du désert.md) || 9
+| [[Géant du désert]] || 9
 |-
-| [Géant du feu](./Géant du feu.md) || 10
+| [[Géant du feu]] || 10
 |-
-| [Géant du froid](./Géant du froid.md) || 9
+| [[Géant du froid]] || 9
 |-
-| [Géant du soleil](./Géant du soleil.md) || 16
+| [[Géant du soleil]] || 16
 |}
 </div>*Dominant l’humain moyen, ce géant difforme à la peau pâle est recouvert de plaies purulentes et de bulbes tumoraux.*
 

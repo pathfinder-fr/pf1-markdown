@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Chante-sang
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Chante-sang](./Descriptions individuelles des propriétés spéciales des armes.md#Chante-sang)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Chante-sang]]

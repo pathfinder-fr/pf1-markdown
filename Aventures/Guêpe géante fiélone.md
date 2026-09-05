@@ -10,10 +10,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Guêpe géante fiélone|FP 3}
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
-{s:BDTexte|*Base: [Guêpe géante](./../Pathfinder-RPG/Guêpe géante.md), archetype : [fiélone](./../Pathfinder-RPG/Archétypes.md#CREATUREFIELONE)*}
+{s:BDTexte|*Base: [[Pathfinder-RPG.Guêpe géante|Guêpe géante]], archetype : [[Pathfinder-RPG.Archétypes#CREATUREFIELONE|fiélone]]*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Vermine](./../Pathfinder-RPG/type Vermine.md) de taille G, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./../Pathfinder-RPG/Perception.md) +9}
+{s:BDTexte|[[Pathfinder-RPG.type Vermine|Vermine]] de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18 m (12 {s:c}) ; [[Pathfinder-RPG.Perception|Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 10, pris au dépourvu 13 (Dex +1, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 34 (4d8+16)}
@@ -22,18 +22,18 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), vol 18 m (12 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** dard, +6 (1d8+6 et poison)}
-{s:BDTexte|**Attaques spéciales** [Châtiment du Bien](./../Pathfinder-RPG/Antipaladin.md#CHATIMENTDUBIEN) 1/jour}
+{s:BDTexte|**Attaques spéciales** [[Pathfinder-RPG.Antipaladin#CHATIMENTDUBIEN|Châtiment du Bien]] 1/jour}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 12, **Con** 18, **Int** -, **Sag** 13, **Cha** 11}
 {s:BDTexte|**BBA** +3, **BMO** +8, **DMD** 19}
-{s:BDTexte|**Compétences** [Perception](./../Pathfinder-RPG/Perception.md) +9, [Vol](./../Pathfinder-RPG/Vol.md) +3 ; **Modificateurs raciaux** [Perception](./../Pathfinder-RPG/Perception.md) +8}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Perception|Perception]] +9, [[Pathfinder-RPG.Vol|Vol]] +3 ; **Modificateurs raciaux** [[Pathfinder-RPG.Perception|Perception]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple, groupe (3-6) ou nid (7-19)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Poison (Ext).** Dard - blessure ; *JS* [Vigueur](./../Pathfinder-RPG/Vigueur.md) DD 18 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./../Pathfinder-RPG/affaiblissement temporaire.md) 1d2 [Dex](./../Pathfinder-RPG/Dextérité.md) ; *guérison* 1 réussite. Le DD dépend de la [Constitution](./../Pathfinder-RPG/Constitution.md) et inclut un bonus racial de +2.}
+{s:BDTexte|**Poison (Ext).** Dard - blessure ; *JS* [[Pathfinder-RPG.Vigueur|Vigueur]] DD 18 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[Pathfinder-RPG.affaiblissement temporaire|affaiblissement temporaire]] 1d2 [[Pathfinder-RPG.Dextérité|Dex]] ; *guérison* 1 réussite. Le DD dépend de la [[Pathfinder-RPG.Constitution|Constitution]] et inclut un bonus racial de +2.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 </div>*Cette guêpe de la taille d’un cheval est ornée de bandes jaunes et noires. Du venin suinte de son dard, qui est aussi grand qu’une épée.*

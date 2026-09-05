@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.135*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 17, **Con** 11, **Int** 2, **Sag** 15, **Cha** 6}
 {s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 9}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +15, [Perception](./Perception.md) +10, [Vol](./Vol.md) +7 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +15, [[Perception]] +10, [[Vol]] +7 ; **Modificateurs raciaux** [[Discrétion]] +4, [[Perception]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
@@ -37,6 +37,6 @@ Categories:
 </td><td><div>Les chouettes sont des oiseaux nocturnes très silencieux en vol
 qui se nourrissent de rongeurs.
 
-Voir aussi : [Chouette géante](./Chouette géante.md)
+Voir aussi : [[Chouette géante]]
 
 Les chouettes peuvent servir de familier aux lanceurs de sort. Un familier chouette donne à son maître un bonus de +3 aux tests de Perception opposés ou dépendant de la vue dans l’obscurité ou les zones d’ombres.</div></td></tr></table>

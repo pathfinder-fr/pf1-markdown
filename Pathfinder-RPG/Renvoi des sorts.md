@@ -11,21 +11,21 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7  
+**École** [[Abjuration]] ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (un petit miroir en argent)  
+**Composantes** [[composantes|V, G, M/FD]] (un petit miroir en argent)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** jusqu’à épuisement ou 10 minutes/[niveau](./niveau.md)
+**Durée** jusqu’à épuisement ou 10 minutes/[[niveau]]
 
-Les sorts et effets magiques qui prennent le personnage pour cible (et seulement ceux-là) sont renvoyés sur celui qui les a lancés. Les sorts de zone ne sont pas affectés, pas plus que les sorts à effet. Cette protection est inefficace contre les sorts de portée « contact ». L’[abjuration](./Abjuration.md) renvoie de sept à dix (1d4+6) [niveaux de sort](./Niveau de sort.md) (ce chiffre est déterminé en secret). Chaque sort retourné à l’envoyeur est retranché à ce nombre.
+Les sorts et effets magiques qui prennent le personnage pour cible (et seulement ceux-là) sont renvoyés sur celui qui les a lancés. Les sorts de zone ne sont pas affectés, pas plus que les sorts à effet. Cette protection est inefficace contre les sorts de portée « contact ». L’[[abjuration]] renvoie de sept à dix (1d4+6) [[niveau de sort|niveaux de sort]] (ce chiffre est déterminé en secret). Chaque sort retourné à l’envoyeur est retranché à ce nombre.
 
-Il arrive qu’un sort ne soit que partiellement renvoyé si l’[abjuration](./Abjuration.md) n’a plus assez de [niveaux de sort](./Niveau de sort.md) pour le contrer totalement. Dans ce cas, une simple règle de trois permet de savoir quelle part du sort est renvoyée et quelle part affecte normalement le personnage. Si le sort concerné inflige des dégâts, le personnage et celui qui le prend pour cible sont tous deux blessés, en fonction du résultat donné par la règle de trois. Sinon, chacun d’eux risque d’être affecté (là encore, selon le résultat indiqué). Si le personnage et le lanceur de sorts adverse sont tous deux protégés par un *renvoi des sorts*, un champ de résonance se crée et produit des effets imprévisibles. Jetez 1d100 et consultez la table suivante :
+Il arrive qu’un sort ne soit que partiellement renvoyé si l’[[abjuration]] n’a plus assez de [[niveau de sort|niveaux de sort]] pour le contrer totalement. Dans ce cas, une simple règle de trois permet de savoir quelle part du sort est renvoyée et quelle part affecte normalement le personnage. Si le sort concerné inflige des dégâts, le personnage et celui qui le prend pour cible sont tous deux blessés, en fonction du résultat donné par la règle de trois. Sinon, chacun d’eux risque d’être affecté (là encore, selon le résultat indiqué). Si le personnage et le lanceur de sorts adverse sont tous deux protégés par un *renvoi des sorts*, un champ de résonance se crée et produit des effets imprévisibles. Jetez 1d100 et consultez la table suivante :
 
 <center>
 {| CLASS="tablo"

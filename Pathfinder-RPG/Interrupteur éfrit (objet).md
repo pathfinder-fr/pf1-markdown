@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:UI}**Prix** 25 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 10
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-L’interrupteur éfrit est l’outil d’activation d’un [cordon éfrit](./Cordon éfrit (objet).md) ; il mesure approximativement 15 centimètres de long et est fait d'un composé alchimique souple de couleur rouge-brun. Il n'est pas consommé lors de l'activation d'une longueur de cordon et peut être utilisé avec n'importe quelle longueur de cordon éfrit. Il est possible d'associer des longueurs de cordon éfrit à un interrupteur spécifique, mais cela double le prix des deux objets.
+L’interrupteur éfrit est l’outil d’activation d’un [[Cordon éfrit (objet)|cordon éfrit]] ; il mesure approximativement 15 centimètres de long et est fait d'un composé alchimique souple de couleur rouge-brun. Il n'est pas consommé lors de l'activation d'une longueur de cordon et peut être utilisé avec n'importe quelle longueur de cordon éfrit. Il est possible d'associer des longueurs de cordon éfrit à un interrupteur spécifique, mais cela double le prix des deux objets.

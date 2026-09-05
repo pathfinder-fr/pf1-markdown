@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*La chance du personnage prend des proportions légendaires.*
 
-**Conditions.** [halfelin](./Halfelin.md), [Individu chanceux](./Individu chanceux.md), trait racial chance adaptable, personnage de niveau 10
+**Conditions.** [[halfelin]], [[Individu chanceux]], trait racial chance adaptable, personnage de niveau 10
 
 **Avantages.** Le personnage peut utiliser la chance adaptable une fois de plus par jour. De plus, quand il l’utilise, le bonus de chance augmente de 2.

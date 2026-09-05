@@ -10,7 +10,7 @@ LastModified: 2018-01-17 14:57
 {s:pucem|Fée|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 22*}
 - **1 600 PX**
-- [Créature féerique](./type Fée.md) de taille M, CN
+- [[type fée|Créature féerique]] de taille M, CN
 - **Init **+5 ; **Sens** vision dans le noir à 27 m, vision nocturne ; Perception +15
 - **Aura **de beauté insensée (9 m)
 (((Défense)))
@@ -24,17 +24,17 @@ LastModified: 2018-01-17 14:57
 - **Distance **fronde de maître, +9 (1d4)
 - **Attaques spéciales** pleurs
 - **Pouvoirs magiques** (NLS 7 ; concentration +12)
-  - *À volonté* – [fusion dans la pierre](./Fusion dans la pierre.md), [pierres commères](./Pierres commères.md)
+  - *À volonté* – [[fusion dans la pierre]], [[pierres commères]]
 - **Sorts de druide** préparés (NLS 5 ; concentration +8)
-  - *Niveau 3* – [façonnage de la pierre](./Façonnage de la pierre.md)
-  - *Niveau 2* – [appel des pierres](./Appel des pierres.md), [pattes d’araignée](./Pattes daraignée.md)
-  - *Niveau 1 *– [lueur féerique](./Lueur féerique.md), [pierre magique](./Pierre magique.md), [soins légers](./Soins légers.md)
-  - *Niveau 0* – [détection de la magie](./Détection de la magie.md), [détection du poison](./Détection du poison.md), [lumière](./Lumière.md), [réparation](./Réparation.md)
+  - *Niveau 3* – [[façonnage de la pierre]]
+  - *Niveau 2* – [[appel des pierres]], [[pattes daraignée|pattes d’araignée]]
+  - *Niveau 1 *– [[lueur féerique]], [[pierre magique]], [[soins légers]]
+  - *Niveau 0* – [[détection de la magie]], [[détection du poison]], [[lumière]], [[réparation]]
 (((Statistiques)))
 - **For **10, **Dex** 21, **Con **18, **Int **14, **Sag** 17, **Cha **21
 - **BBA **+3 ; **BMO **+3 ; **DMD **23
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [Magie de guerre](./Magie de guerre.md), [Tir à bout portant](./Tir à bout portant.md), [Vigilance](./Vigilance.md)
-- **Compétences **[Art de la magie](./Art de la magie.md) +9, [Connaissances](./Connaissances.md) (exploration souterraine) +9, [Connaissances](./Connaissances.md) (nature) +12, [Diplomatie](./Diplomatie.md) +13, [Discrétion](./Discrétion.md) +15, [Linguistique](./Linguistique.md) +3, [Perception](./Perception.md) +15, [Psychologie](./Psychologie.md) +15, [Représentation](./Représentation.md) (chant) +9, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +15 
+- **Dons **[[Attaque en finesse]], [[Magie de guerre]], [[Tir à bout portant]], [[Vigilance]]
+- **Compétences **[[Art de la magie]] +9, [[Connaissances]] (exploration souterraine) +9, [[Connaissances]] (nature) +12, [[Diplomatie]] +13, [[Discrétion]] +15, [[Linguistique]] +3, [[Perception]] +15, [[Psychologie]] +15, [[Représentation]] (chant) +9, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +15 
 - **Langues **aklo, commun, commun des profondeurs
 - **Particularités **protégée
 (((Écologie)))

@@ -13,7 +13,7 @@ Abadar est connu pour être un dieu patient **d'alignement Loyal Neutre**. Dicta
 Abadar fut longtemps le gardien du premier coffre-fort de la légendaire ville d'Axis, cité millénaire du plan de la loi.
 
 ### Apparence
-Abadar est décrit comme un humain dans la fleur de l'âge, beau avec des cheveux bruns, portant une armure d'Or pur au combat, et de riche vêtement pour les fêtes et durant les situations demandant plus de diplomatie. Abadar est originaire du [Taldor](./Taldor.md).
+Abadar est décrit comme un humain dans la fleur de l'âge, beau avec des cheveux bruns, portant une armure d'Or pur au combat, et de riche vêtement pour les fêtes et durant les situations demandant plus de diplomatie. Abadar est originaire du [[Taldor]].
 
 ### Émissaires
 En plus d'une armée de prêtre servant autant d'avocat que de juge, de banquier que de trésorier, Abadar étend sa volonté au moyen d'envoyé spécifique bien connu des membres de son ordre.
@@ -36,8 +36,8 @@ L'ordre des nombres : Richement illuminé, ce texte est le livre central du cult
 Le manuel du bâtisseur de cité : Souvent installé à une place d'honneur, ce texte contient des conseils pour fonder et développer une communauté.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [second volume](./../Aventures/Présentation AP2.md#AP2-2) de la seconde campagne, [La Malédiction du Trône Ecarlate](./../Aventures/Présentation AP2.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP2#AP2-2|second volume]] de la seconde campagne, [[Aventures.Présentation AP2|La Malédiction du Trône Ecarlate]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

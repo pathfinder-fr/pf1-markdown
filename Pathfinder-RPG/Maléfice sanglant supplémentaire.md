@@ -11,13 +11,13 @@ Categories:
 
 *Les liens avec les maléfices sanglants du personnage sont beaucoup plus forts que la plupart des autres praticiens.*
 
-**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+**Catégorie.** [[dons#DONMALEFICESANGLANT|maléfice sanglant]]
 
-**Conditions.** [Int](./Intelligence.md) 15, 2 dons de [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT), [Art de la magie](./Art de la magie.md) 5 rangs, [Utilisation d’objets magiques](./UOM.md) 5 rangs.
+**Conditions.** [[Intelligence|Int]] 15, 2 dons de [[dons#DONMALEFICESANGLANT|maléfice sanglant]], [[Art de la magie]] 5 rangs, [[UOM|Utilisation d’objets magiques]] 5 rangs.
 
 **Avantage.** Vous disposez de deux utilisations quoitidiennes de plus des maléfices sanglants.
 
-**Spécial.** Vous pouvez prendre ce don plusieurs fois. Chaque fois, votre limite d’utilisation quotidienne des maléfices sanglants augmente de 2. Un personnage qui prend 1 niveau dans la classe de [chaman](./Chaman.md) ou de [sorcière](./Sorcière.md) peut immédiatement remplacer ce don par n’importe quel don de maléfice sanglant dont il remplit les conditions.
+**Spécial.** Vous pouvez prendre ce don plusieurs fois. Chaque fois, votre limite d’utilisation quotidienne des maléfices sanglants augmente de 2. Un personnage qui prend 1 niveau dans la classe de [[chaman]] ou de [[sorcière]] peut immédiatement remplacer ce don par n’importe quel don de maléfice sanglant dont il remplit les conditions.
 
 (((Extra blood Hex
 Your ties to blood hexes are much stronger than those of most other practitioners.

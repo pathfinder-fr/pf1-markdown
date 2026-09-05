@@ -10,8 +10,8 @@ Categories:
 
 {s:mr}*Le sang orque du personnage lui permet de continuer à se battre.*
 
-**Conditions.** [Con](./Constitution.md) 13, [demi-orque](./Demi-orque.md), trait racial [férocité orque](./Demi-orque.md#FEROCITEORQUE).
+**Conditions.** [[Constitution|Con]] 13, [[demi-orque]], trait racial [[demi-orque#FEROCITEORQUE|férocité orque]].
 
-**Avantages.** Le personnage gagne le pouvoir de monstre universel [férocité](./Férocité (capacité).md), qui lui permet de continuer à se battre même s’il est en dessous de 0 [point de vie](./pv.md). Quand il utilise ce pouvoir, il gagne un bonus de +2 aux tests d’[Intimidation](./Intimidation.md).
+**Avantages.** Le personnage gagne le pouvoir de monstre universel [[Férocité (capacité)|férocité]], qui lui permet de continuer à se battre même s’il est en dessous de 0 [[pv|point de vie]]. Quand il utilise ce pouvoir, il gagne un bonus de +2 aux tests d’[[Intimidation]].
 
 **Normal.** Un demi-orque qui possède le trait racial férocité orque peut se battre pendant un round après être tombé en dessous de 0 point de vie.

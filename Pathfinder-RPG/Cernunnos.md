@@ -10,7 +10,7 @@ LastModified: 2021-04-11 10:26
 {s:pucem|Extérieur|Forêt-Jungle|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 250*}
 - **9 830 400 PX**
-- [Extérieur](./type Extérieur.md) ([azata](./sous-type azata.md), [Bien](./sous-type Bien.md), [Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md)) de taille G, CB
+- [[type extérieur|Extérieur]] ([[sous-type azata|azata]], [[sous-type bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]]) de taille G, CB
 - **Init **+16 ; **Sens **perception aveugle à 18 m, vision dans le noir à 18 m, détection du Mal, détection du mensonge, détection du poison, vision nocturne, vision lucide ; Perception +43
 - **Aura **primale (9 m)
 (((Défense)))
@@ -25,22 +25,22 @@ LastModified: 2021-04-11 10:26
 - **Espace **3 m ; **Allonge **3 m
 - **Attaques spéciales** grande flèche mortelle, charge du seigneur cornu, charge puissante (corne, 4d8+13 et charge du seigneur cornu), forme animale (comme un druide de niveau 20)
 - **Pouvoirs magiques** (**NLS **20 ; concentration +25)
-  - * Constant* — [détection du Mal](./Détection du Mal.md), [détection du mensonge](./Détection du mensonge.md), [détection du poison](./Détection du poison.md), [liberté de mouvement](./Liberté de mouvement.md), [vision lucide](./Vision lucide.md)
-  - *À volonté* — [coup au but](./Coup au but.md)*, [rapidité](./Rapidité.md)*, [téléportation suprême](./Téléportation suprême.md)
-  - *3/jour *— [ancre dimensionnelle](./Ancre dimensionnelle.md) (DD 19), [annulation d’enchantement](./Annulation denchantement.md)*, [souffle de vie](./Souffle de vie.md)*
-  - *1/jour* — [arrêt du temps](./Arrêt du temps.md)*, [disjonction](./Disjonction.md)* (DD 24), [localisation suprême](./Localisation suprême.md)
+  - * Constant* — [[détection du Mal]], [[détection du mensonge]], [[détection du poison]], [[liberté de mouvement]], [[vision lucide]]
+  - *À volonté* — [[coup au but]]*, [[rapidité]]*, [[téléportation suprême]]
+  - *3/jour *— [[ancre dimensionnelle]] (DD 19), [[annulation denchantement|annulation d’enchantement]]*, [[souffle de vie]]*
+  - *1/jour* — [[arrêt du temps]]*, [[disjonction]]* (DD 24), [[localisation suprême]]
 - (*) Cernunnos peut utiliser la version mythique de ces pouvoirs dans son royaume.
 - **Sorts de druide préparés** (**NLS **20 ; concentration +26)
-  - *Niveau 9* — [convocation d’alliés naturels IX](./Convocation dalliés naturels IX.md) (2), [nuée d’élémentaires](./Nuée délémentaires.md), [prémonition](./Prémonition.md)
-  - *Niveau 8* — [contrôle des plantes](./Contrôle des plantes.md) (DD 24), [cyclone](./Cyclone.md) (DD 24), [éloignement du métal et de la pierre](./Éloignement du métal et de la pierre.md), [explosion de lumière](./Explosion de lumière.md) (DD 24)
-  - *Niveau 7 *— [contrôle du climat](./Contrôle du climat.md), [guérison suprême](./Guérison suprême.md), [mort rampante](./Mort rampante.md) (DD 23), [rayon de soleil](./Rayon de soleil.md) (DD 23)
-  - *Niveau 6 *— [coquille antivie](./Coquille antivie.md), [dissipation suprême](./Dissipation suprême.md) (2), [glissement de terrain](./Glissement de terrain.md), [mur de pierre](./Mur de pierre.md) (DD 22)
-  - *Niveau 5* — [métamorphose funeste](./Métamorphose funeste.md) (DD 21), [mur d’épines](./Mur dépines.md), [pénitence](./Pénitence.md), [protection contre la mort](./Protection contre la mort.md), [transmutation de la pierre en boue](./Transmutation de la pierre en boue.md)
-  - * Niveau 4 *— [forme véritable](./Forme véritable.md) (DD 20), [liberté de mouvement](./Liberté de mouvement.md), [rouille](./Rouille.md), [soins importants](./Soins importants.md) (2)
-  - * Niveau 3* — [appel de la foudre](./Appel de la foudre.md) (DD 19), [guérison des maladies](./Guérison des maladies.md), [neutralisation du poison](./Neutralisation du poison.md) (2), [soins modérés](./Soins modérés.md)
-  - *Niveau 2 *— [métal gelé](./Métal gelé.md) (DD 18), [métal brûlant](./Métal brûlant.md) (DD 18), [nappe de brouillard](./Nappe de brouillard.md), [résistance aux énergies destructives](./Résistance aux énergies destructives.md) (2),  [restauration partielle](./Restauration partielle.md)
-  - * Niveau 1 *— [apaisement des animaux](./Apaisement des animaux.md) (DD 17, 2), [passage sans trace](./passage sans trace.md) (2), [soins légers](./Soins légers.md) (2)
-  - *Niveau 0 *— [création d’eau](./Création deau.md), [lecture de la magie](./Lecture de la magie.md), [purification de nourriture et d’eau](./Purification de nourriture et deau.md), [réparation](./Réparation.md)
+  - *Niveau 9* — [[convocation dalliés naturels IX|convocation d’alliés naturels IX]] (2), [[nuée délémentaires|nuée d’élémentaires]], [[prémonition]]
+  - *Niveau 8* — [[contrôle des plantes]] (DD 24), [[cyclone]] (DD 24), [[éloignement du métal et de la pierre]], [[explosion de lumière]] (DD 24)
+  - *Niveau 7 *— [[contrôle du climat]], [[guérison suprême]], [[mort rampante]] (DD 23), [[rayon de soleil]] (DD 23)
+  - *Niveau 6 *— [[coquille antivie]], [[dissipation suprême]] (2), [[glissement de terrain]], [[mur de pierre]] (DD 22)
+  - *Niveau 5* — [[métamorphose funeste]] (DD 21), [[mur dépines|mur d’épines]], [[pénitence]], [[protection contre la mort]], [[transmutation de la pierre en boue]]
+  - * Niveau 4 *— [[forme véritable]] (DD 20), [[liberté de mouvement]], [[rouille]], [[soins importants]] (2)
+  - * Niveau 3* — [[appel de la foudre]] (DD 19), [[guérison des maladies]], [[neutralisation du poison]] (2), [[soins modérés]]
+  - *Niveau 2 *— [[métal gelé]] (DD 18), [[métal brûlant]] (DD 18), [[nappe de brouillard]], [[résistance aux énergies destructives]] (2),  [[restauration partielle]]
+  - * Niveau 1 *— [[apaisement des animaux]] (DD 17, 2), [[passage sans trace]] (2), [[soins légers]] (2)
+  - *Niveau 0 *— [[création deau|création d’eau]], [[lecture de la magie]], [[purification de nourriture et deau|purification de nourriture et d’eau]], [[réparation]]
 (((Statistiques)))
 - **For **29, **Dex** 35, **Con **39, **Int** 18, **Sag **22, **Cha **21
 - **BBA **+34 ; **BMO **+44 ; **DMD **67
@@ -62,7 +62,7 @@ LastModified: 2021-04-11 10:26
 - **Sorts.** Cernunnos lance des sorts comme un druide de niveau 20.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs empyréens](./Seigneurs empyréens.md).***</li><li>***Voir la description des [azatas](./Azata.md).***</li></ul>*Cet individu gracieux de grande taille a des traits elfiques, de majestueuses cornes de cerf et un regard perçant sans-âge.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs empyréens]].***</li><li>***Voir la description des [[Azata|azatas]].***</li></ul>*Cet individu gracieux de grande taille a des traits elfiques, de majestueuses cornes de cerf et un regard perçant sans-âge.*
 
 Cernunnos est un puissant seigneur empyréen, incarnation de la force primitive de la nature ainsi que de son caractère sauvage.
 Il s’entoure de conseillers issus de toutes les races célestes. Bien qu’il prenne rarement des décisions hâtives, il lui arrive de laisser sa colère occulter son jugement et va parfois jusqu’à jurer de mener des vendettas personnelles contre des seigneurs-démons ou des archidiables particuliers. Chasseur et archer sans égal, quand Cernunnos traverse ces périodes vengeresses, il est tenté de se rendre aux Enfers ou dans les Abysses afin de prendre sa revanche personnellement.

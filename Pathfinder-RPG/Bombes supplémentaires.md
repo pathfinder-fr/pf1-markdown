@@ -8,8 +8,8 @@ Categories:
 
 {s:apg}*Le personnage peut lancer plus de bombes par jour.*
 
-**Condition.** Aptitude de classe de [bombes](./bombe.md).
+**Condition.** Aptitude de classe de [[bombe|bombes]].
 
-**Avantage.** Le personnage peut lancer 2 [bombes](./bombe.md) de plus chaque jour.
+**Avantage.** Le personnage peut lancer 2 [[bombe|bombes]] de plus chaque jour.
 
 **Spécial.** Le personnage peut acquérir ce don plusieurs fois. Ses effets se cumulent.

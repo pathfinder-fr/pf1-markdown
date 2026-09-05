@@ -10,8 +10,8 @@ Categories:
 
 {s:apg}*Le personnage se sert de sa ruse pour se protéger contre les attaques de ses proies.*
 
-**Condition.** Aptitude de classe d’[ennemi juré](./ennemi juré.md).
+**Condition.** Aptitude de classe d’[[ennemi juré]].
 
-**Avantage.** Le personnage choisit un type d’ennemi juré. Il ajoute la moitié de son bonus d’ennemi juré à son [DMD](./DMD.md) et à sa [CA](./CA.md) (en tant que bonus d’[esquive](./Esquive.md)) contre les attaques de ce type d’ennemi.
+**Avantage.** Le personnage choisit un type d’ennemi juré. Il ajoute la moitié de son bonus d’ennemi juré à son [[DMD]] et à sa [[CA]] (en tant que bonus d’[[esquive]]) contre les attaques de ce type d’ennemi.
 
 **Spécial.** Le personnage peut acquérir ce don plusieurs fois. Ses effets ne se cumulent pas. Chaque fois que le personnage gagne ce don, il s’applique à un nouveau type d’ennemi juré.

@@ -13,10 +13,10 @@ Categories:
 <div class="BD">
 {s:BDtitre|Vède|FP 5}
 {s:pucem|Humanoïde|Montagnes|Froid}
-{s:BDtexte|*Source : [Irrisen, pays de l'hiver éternel p.61](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Irrisen, pays de l'hiver éternel p.61]]*}
 {s:BDtexte|**PX** 1 600}
-{s:BDtexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, NM}
-{s:BDtexte|**Init** -1 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +6}
+{s:BDtexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, NM}
+{s:BDtexte|**Init** -1 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +6}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 16, contact 8, pris au dépourvu 16 (Dex -1, naturelle +8, taille -1)}
 {s:BDtexte|**pv** 57 (6d8+30)}
@@ -28,16 +28,16 @@ Categories:
 {s:BDtexte|**Attaques spéciales** souffle de tempête}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 25, **Dex** 8, **Con** 20, **Int** 7, **Sag** 12, **Cha** 9}
-{s:BDtexte|**BBA** +4, **BMO** +12 (+14 pour la [bousculade](./bousculade.md)), **DMD** 22 (24 contre la [bousculade](./bousculade.md))}
-{s:BDtexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Science de la bousculade](./Science de la bousculade.md)}
-{s:BDtexte|**Compétences** [Intimidation](./Intimidation.md) +4, [Perception](./Perception.md) +6, [Survie](./Survie.md) +6 (+10 dans la neige) ; **Modificateurs raciaux** +4 en Escalade (en escaladant des rochers), +4 en Survie (dans la neige)}
+{s:BDtexte|**BBA** +4, **BMO** +12 (+14 pour la [[bousculade]]), **DMD** 22 (24 contre la [[bousculade]])}
+{s:BDtexte|**Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Science de la bousculade]]}
+{s:BDtexte|**Compétences** [[Intimidation]] +4, [[Perception]] +6, [[Survie]] +6 (+10 dans la neige) ; **Modificateurs raciaux** +4 en Escalade (en escaladant des rochers), +4 en Survie (dans la neige)}
 {s:BDtexte|**Langues** géant}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** collines ou montagnes, froides}
 {s:BDtexte|**Organisation sociale** solitaire, paire, groupe (3-5) ou}
 {s:BDtexte|**Trésor** standard}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Souffle de tempête (Sur).** Tous les 1d4 [rounds](./round.md), par une [action complexe](./Action complexe.md), un vède peut prendre une énorme inspiration, puis expirer violemment l’air dans un cône de 9 mètres. Les cibles qui se trouvent à moins de 3 mètres de l’origine de ce cône doivent réussir un test de [Force](./Force.md) [DD](./DD.md) 18 ou être mises à terre par le souffle. Celles qui réussissent le test ou se trouvent plus loin du vède subissent les effets du souffle de tempête comme s’il s’agissait d’un sort de *[bourrasque](./Bourrasque.md)*.}
+{s:BDtexte|**Souffle de tempête (Sur).** Tous les 1d4 [[round|rounds]], par une [[action complexe]], un vède peut prendre une énorme inspiration, puis expirer violemment l’air dans un cône de 9 mètres. Les cibles qui se trouvent à moins de 3 mètres de l’origine de ce cône doivent réussir un test de [[Force]] [[DD]] 18 ou être mises à terre par le souffle. Celles qui réussissent le test ou se trouvent plus loin du vède subissent les effets du souffle de tempête comme s’il s’agissait d’un sort de *[[bourrasque]]*.}
 </div>
 </td>
 <td>

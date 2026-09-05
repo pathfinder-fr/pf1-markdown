@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#COUPHANDICAPANT
 ---
 
->>> [Pouvoirs de rage#COUPHANDICAPANT](./Pouvoirs de rage.md#COUPHANDICAPANT)
+>>> [[Pouvoirs de rage#COUPHANDICAPANT]]

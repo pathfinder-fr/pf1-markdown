@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Exploration#VISIONLUMIERE
 ---
 
->>> [Exploration#VISIONLUMIERE](./Exploration.md#VISIONLUMIERE)
+>>> [[Exploration#VISIONLUMIERE]]

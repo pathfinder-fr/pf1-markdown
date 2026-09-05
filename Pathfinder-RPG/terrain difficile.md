@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Déplacement et position#TERRAINDIFFICILE
 ---
 
->>> [Déplacement et position#TERRAINDIFFICILE](./Déplacement et position.md#TERRAINDIFFICILE)
+>>> [[Déplacement et position#TERRAINDIFFICILE]]

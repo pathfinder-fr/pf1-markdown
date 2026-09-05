@@ -7,7 +7,7 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**Prix** 20 po ; **Poids** 1,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+{s:RSE}**Prix** 20 po ; **Poids** 1,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Cette bandoulière comporte six poches dans le sens de la longueur et une sacoche au niveau de la hanche. Chaque poche a un épais rabat de cuir qui peut être fermé en cas de secousses (ce qui nécessite une [action de mouvement](./Action de mouvement.md) pour l'ouvrir et l'attacher) ou peut être laissée ouverte pour y accéder plus facilement. Les poches et la sacoche contiennent chacune un certain nombre d'anneaux et de liens permettant d'attacher davantage d'équipement. La ceinture se fixe à l'épaule, et peut être libérée en tirant d'un geste sec en cas d'urgence, par une action de mouvement.
+Cette bandoulière comporte six poches dans le sens de la longueur et une sacoche au niveau de la hanche. Chaque poche a un épais rabat de cuir qui peut être fermé en cas de secousses (ce qui nécessite une [[action de mouvement]] pour l'ouvrir et l'attacher) ou peut être laissée ouverte pour y accéder plus facilement. Les poches et la sacoche contiennent chacune un certain nombre d'anneaux et de liens permettant d'attacher davantage d'équipement. La ceinture se fixe à l'épaule, et peut être libérée en tirant d'un geste sec en cas d'urgence, par une action de mouvement.

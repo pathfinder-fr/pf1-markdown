@@ -13,13 +13,13 @@ Enigmes mathématiques
 
 ### Enigmes codées
 
-Une concernant [http://www.pathfinder-fr.org/Forum/yaf_postst11377_Une-enigme-%2D1.aspx#post474432|Asmodeus].
+Une concernant [Asmodeus](http://www.pathfinder-fr.org/Forum/yaf_postst11377_Une-enigme-%2D1.aspx#post474432).
 
-Une énigme cryptée: [http://www.pathfinder-fr.org/Forum/yaf_postst11391_Et-encore-une-enigme-%2D3.aspx#post474843|Ici].
+Une énigme cryptée: [Ici](http://www.pathfinder-fr.org/Forum/yaf_postst11391_Et-encore-une-enigme-%2D3.aspx#post474843).
 
-Une autre plus complexe: [http://www.pathfinder-fr.org/Forum/yaf_postst11390_Une-autre-enigme-%2D2.aspx#post474820|Ici].
+Une autre plus complexe: [Ici](http://www.pathfinder-fr.org/Forum/yaf_postst11390_Une-autre-enigme-%2D2.aspx#post474820).
 
-Une quatrième énigme : [http://www.pathfinder-fr.org/Forum/yaf_postst13280_Enigme--4.aspx#post556204|Ici].
+Une quatrième énigme : [Ici](http://www.pathfinder-fr.org/Forum/yaf_postst13280_Enigme--4.aspx#post556204).
 
 
 

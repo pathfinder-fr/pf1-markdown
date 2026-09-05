@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*En y repensant, le personnage découvre un mensonge dans ce qu’il a cru être la vérité. *
 
-**Condition.** *[Détection du mensonge](./Détection du mensonge.md)*
+**Condition.** *[[Détection du mensonge]]*
 
-**Avantage.** Une fois par jour, par une [action libre](./Action libre.md), le personnage peut repenser à une phrase qu’il a entendue dans la journée et comprendre qu’il s’agit d’un mensonge. Ceci fonctionne comme le sort *[détection du mensonge](./Détection du mensonge.md)* mais affecte une phrase et non une créature.
+**Avantage.** Une fois par jour, par une [[action libre]], le personnage peut repenser à une phrase qu’il a entendue dans la journée et comprendre qu’il s’agit d’un mensonge. Ceci fonctionne comme le sort *[[détection du mensonge]]* mais affecte une phrase et non une créature.
 
 Par exemple, si le roi a dit « Ma fille est dans le donjon du monstre » avant que le personnage ne parte à sa recherche, tant qu’il a affirmé cela dans la journée, le personnage peut utiliser ce don pour savoir si le roi lui a délibérément menti en disant cela.

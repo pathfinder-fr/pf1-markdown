@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 75 po ; **Poids** 5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
 Il s’agit du livre le plus souvent publié au Paradis religieux des marchands. Il détaille des restrictions alimentaires, vestimentaires et sexuelles très strictes que les fidèles doivent suivre dans le cadre de leur religion.

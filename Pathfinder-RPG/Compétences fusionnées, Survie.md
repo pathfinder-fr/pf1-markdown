@@ -8,11 +8,11 @@ Categories:
 
 {s:MenuPathfinderunchained}{s:PU}*Le personnage sait comment survivre et s’orienter dans les régions sauvages. Il sait également soigner les blessures.*
 
-**Caractéristique associée :** [Sagesse](./Sagesse.md) ; **Formation nécessaire :** Non ; **Malus d'armure :** Non
+**Caractéristique associée :** [[Sagesse]] ; **Formation nécessaire :** Non ; **Malus d'armure :** Non
 
-**Fonctions.** [Déterminer la direction du nord](./Compétences fusionnées, Survie.md#DETERMINERLADIRECTIONDUNORD), [soigner les blessures et autres maux](./Compétences fusionnées, Survie.md#SOIGNERLESBLESSURESETAUTRESMAUX), [suivre des traces](./Compétences fusionnées, Survie.md#SUIVREDESTRACES), [survivre en pleine nature](./Compétences fusionnées, Survie.md#SURVIVREENPLEINENATURE).
+**Fonctions.** [[Compétences fusionnées, Survie#DETERMINERLADIRECTIONDUNORD|Déterminer la direction du nord]], [[Compétences fusionnées, Survie#SOIGNERLESBLESSURESETAUTRESMAUX|soigner les blessures et autres maux]], [[Compétences fusionnées, Survie#SUIVREDESTRACES|suivre des traces]], [[Compétences fusionnées, Survie#SURVIVREENPLEINENATURE|survivre en pleine nature]].
 
-**Compétences de base.** [Premiers secours](./Premiers secours.md), [Survie](./Survie.md).
+**Compétences de base.** [[Premiers secours]], [[Survie]].
 
 {s:Reference|DETERMINERLADIRECTIONDUNORD}
 ### Déterminer la direction du nord
@@ -22,9 +22,9 @@ Un personnage formé dans la compétence de Survie peut automatiquement détermi
 
 {s:Reference|SOIGNERLESBLESSURESETAUTRESMAUX}
 ### Soigner les blessures et autres maux
-Cette fonction de la compétence de Survie fonctionne comme la compétence de base de [Premiers secours](./Premiers secours.md).
+Cette fonction de la compétence de Survie fonctionne comme la compétence de base de [[Premiers secours]].
 
-**Action.** Il faut une [action simple](./Action simple.md) pour donner les premiers secours et soigner un empoisonnement. Pour soigner une maladie ou une créature blessée par un sort de croissance d’épines ou de pierres acérées, il faut dix minutes de travail et il faut une heure pour traiter des blessures mortelles. Les soins suivis demandent huit heures d’activité réduite.
+**Action.** Il faut une [[action simple]] pour donner les premiers secours et soigner un empoisonnement. Pour soigner une maladie ou une créature blessée par un sort de croissance d’épines ou de pierres acérées, il faut dix minutes de travail et il faut une heure pour traiter des blessures mortelles. Les soins suivis demandent huit heures d’activité réduite.
 
 **Nouvelles tentatives.** Variable. En règle générale, il est impossible de tenter un nouveau test de Survie pour soigner les blessures et autres maux sans avoir une preuve de l’échec du premier test. Il est toujours possible d’effectuer un autre test pour stabiliser un compagnon mourant, à condition que celui-ci soit toujours vivant.
 
@@ -46,7 +46,7 @@ de Survie
 |-
 | Dur || 20
 |}
-</center></div></div>Le personnage doit réussir un test de Survie pour repérer des traces ou les suivre sur une distance de 1,5 kilomètre. Il faut réussir un nouveau test chaque fois que la piste devient difficile à suivre. Lorsqu’il suit une piste, le personnage se déplace à la moitié de sa vitesse de déplacement normale. Il peut choisir de se déplacer à sa vitesse normale en acceptant un malus de -5 ou au double de sa vitesse normale avec un malus de -20. Le [DD](./DD.md) du test dépend du type de sol et des conditions en vigueur.
+</center></div></div>Le personnage doit réussir un test de Survie pour repérer des traces ou les suivre sur une distance de 1,5 kilomètre. Il faut réussir un nouveau test chaque fois que la piste devient difficile à suivre. Lorsqu’il suit une piste, le personnage se déplace à la moitié de sa vitesse de déplacement normale. Il peut choisir de se déplacer à sa vitesse normale en acceptant un malus de -5 ou au double de sa vitesse normale avec un malus de -20. Le [[DD]] du test dépend du type de sol et des conditions en vigueur.
 - *Sol très mou.* Toute surface (neige fraîche, épaisse couche de poussière, boue visqueuse) sur laquelle les pas laissent des empreintes profondes et faciles à repérer.
 - *Sol mou.* Toute surface suffisamment molle pour céder à une pression mais plus ferme que de la boue visqueuse ou de la neige fraîche. Une créature y laisse des empreintes nombreuses mais peu profondes.
 - *Sol ferme.* Ce type de sol rassemble la plupart des surfaces courantes en pleine nature (herbe, champs, forêt et terrains similaires) ou les sols en intérieur couverts de poussière ou exceptionnellement mous (tapis épais ou sols particulièrement poussiéreux). Une créature peut y laisser quelques traces (des branches cassées ou des touffes de cheveux) mais ses empreintes sont parcellaires et peu fréquentes.
@@ -99,13 +99,13 @@ Divers modificateurs liés aux conditions indiquées dans la table ci-dessous s�
 |}
 </center>
 
-**Action.** Une [action complexe](./Action complexe.md) ou plus.
+**Action.** Une [[action complexe]] ou plus.
 
 **Nouvelles tentatives.** Le personnage peut effectuer un nouveau test si le précédent est raté au bout d’une heure de recherche (en pleine nature) ou de dix minutes (en intérieur).
 
-**Aucune formation.** Un personnage sans formation dans cette compétence peut quand même tenter de suivre des traces si le [DD](./DD.md) de la tâche est inférieur ou égal à 10.
+**Aucune formation.** Un personnage sans formation dans cette compétence peut quand même tenter de suivre des traces si le [[DD]] de la tâche est inférieur ou égal à 10.
 
-**Perception.** Un personnage peut choisir d’utiliser la compétence de [Perception](./Compétences fusionnées, Perception.md) contre le même [DD](./DD.md) que les tests de Survie afin de repérer une empreinte ou un autre signe du passage d’une créature. Cependant, la compétence de Perception ne permet pas de suivre une piste.
+**Perception.** Un personnage peut choisir d’utiliser la compétence de [[Compétences fusionnées, Perception|Perception]] contre le même [[DD]] que les tests de Survie afin de repérer une empreinte ou un autre signe du passage d’une créature. Cependant, la compétence de Perception ne permet pas de suivre une piste.
 
 {s:Reference|SURVIVREENPLEINENATURE}
 ### Survivre en pleine nature
@@ -131,11 +131,11 @@ des 24 prochaines heures || 15
 |}
 </center></div></div>En pleine nature, le personnage est capable d’assurer sa propre sécurité et sa subsistance ainsi que celles de ses compagnons. Utilisez les DD de la table suivante pour certaines tâches.
 
-Quand le personnage se retrouve en pleine nature, il peut avancer à la moitié de sa vitesse de déplacement normale en chassant et en cueillant pour se nourrir et peut ainsi subsister sans réserve d’eau ni de nourriture. Il peut trouver suffisamment de nourriture et d’eau pour sustenter une personne de plus par tranche de 2 points de différence entre le résultat du test et le [DD](./DD.md) de 10.
+Quand le personnage se retrouve en pleine nature, il peut avancer à la moitié de sa vitesse de déplacement normale en chassant et en cueillant pour se nourrir et peut ainsi subsister sans réserve d’eau ni de nourriture. Il peut trouver suffisamment de nourriture et d’eau pour sustenter une personne de plus par tranche de 2 points de différence entre le résultat du test et le [[DD]] de 10.
 
-Quand il résiste aux conditions climatiques, le personnage acquiert un bonus de +2 aux jets de [Vigueur](./Vigueur.md) effectués contre les rigueurs du climat s’il se déplace à mi-vitesse ou un bonus de +4 s’il reste stationnaire. Il peut conférer le même bonus à une personne de plus par point de différence entre le résultat du test et le [DD](./DD.md) de 15.
+Quand il résiste aux conditions climatiques, le personnage acquiert un bonus de +2 aux jets de [[Vigueur]] effectués contre les rigueurs du climat s’il se déplace à mi-vitesse ou un bonus de +4 s’il reste stationnaire. Il peut conférer le même bonus à une personne de plus par point de différence entre le résultat du test et le [[DD]] de 15.
 
-Quand il prédit les conditions climatiques, le personnage peut effectuer des prédictions pour une journée de plus par tranche de 5 points de différence entre le résultat du test et le [DD](./DD.md) de 15.
+Quand il prédit les conditions climatiques, le personnage peut effectuer des prédictions pour une journée de plus par tranche de 5 points de différence entre le résultat du test et le [[DD]] de 15.
 
 **Action.** Variable. Un unique test de Survie peut représenter une durée allant de plusieurs heures à une journée entière d’activité.
 

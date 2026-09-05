@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Compétences#TESTSDECOMPETENCES
 ---
 
->>> [Compétences#TESTSDECOMPETENCES](./Compétences.md#TESTSDECOMPETENCES)
+>>> [[Compétences#TESTSDECOMPETENCES]]

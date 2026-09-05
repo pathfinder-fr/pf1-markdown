@@ -12,19 +12,19 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:Desambi|Il existe un [don](./Crachat venimeux (nagaji).md) du même nom.}{s:UM}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[poison](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 4, [Dru](./Druide.md) 3, [Prê](./Prêtre.md) 4, [Sor](./Sorcière.md) 3  
+{s:Desambi|Il existe un [[crachat venimeux (nagaji)|don]] du même nom.}{s:UM}
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 3, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[Composantes|V]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** un jet de venin  
 
-**Durée** [instantanée](./instantanée.md), voir texte  
+**Durée** [[instantanée]], voir texte  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [partielle](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] ; **Résistance à la magie** non
 
-Le personnage crache un jet de venin sur une cible grâce à une [attaque de contact à distance](./attaque de contact à distance.md). S’il touche, la cible est [aveugle](./Aveuglé.md) pendant 1 [round](./round.md). La cible doit aussi réussir un [jet de sauvegarde](./jet de sauvegarde.md) ou être [empoisonnée](./poison.md) par du venin de vipère noire. Le [DD](./DD.md) des [rounds](./round.md) de [poison](./poison.md) successifs est égal au [DD](./DD.md) du sort.
+Le personnage crache un jet de venin sur une cible grâce à une [[attaque de contact à distance]]. S’il touche, la cible est [[aveuglé|aveugle]] pendant 1 [[round]]. La cible doit aussi réussir un [[jet de sauvegarde]] ou être [[poison|empoisonnée]] par du venin de vipère noire. Le [[DD]] des [[round|rounds]] de [[poison]] successifs est égal au [[DD]] du sort.

@@ -14,24 +14,24 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Froid}
 {s:BDTexte|*Source : Bestiaire p.285*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([froid](./sous-type froid.md)) de taille G, NM}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type froid|froid]]) de taille G, NM}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 10, pris au dépourvu 16 (Dex +1, naturelle +7, taille -1)}
 {s:BDTexte|**pv** 57 (6d10+24)}
 {s:BDTexte|**Réf** +6, **Vig** +9, **Vol** +3}
 {s:BDTexte|**Immunités** froid }
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au feu}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +10 (1d8+7 et 1d6 froid et [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** morsure +10 (1d8+7 et 1d6 froid et [[croc-en-jambe]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [souffle](./Souffle.md) (tous les 1d4 rounds, [cône](./cône.md) 4,5 m (3 {s:c}), 6d6 froid, [Réflexes](./Réflexes.md) moitié DD 17)}
+{s:BDTexte|**Attaques spéciales** [[souffle]] (tous les 1d4 rounds, [[cône]] 4,5 m (3 {s:c}), 6d6 froid, [[Réflexes]] moitié DD 17)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 13, **Con** 18, **Int** 9, **Sag** 13, **Cha** 10}
 {s:BDTexte|**BBA** +6, **BMO** +12, **DMD** 23 (27 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Course](./Course.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +4 (+10 dans le neige), [Perception](./Perception.md) +11, [Survie](./Survie.md) +5 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +2 (+8 dans la neige), [Perception](./Perception.md) +2, [Survie](./Survie.md) +2}
+{s:BDTexte|**Dons** [[Course]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +4 (+10 dans le neige), [[Perception]] +11, [[Survie]] +5 ; **Modificateurs raciaux** [[Discrétion]] +2 (+8 dans la neige), [[Perception]] +2, [[Survie]] +2}
 {s:BDTexte|**Langues** commun, géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou plaines froides}
@@ -45,9 +45,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Loup arctique](./Loup arctique.md) || 5
+| [[Loup arctique]] || 5
 |-
-| [Worg](./Worg.md) || 2
+| [[Worg]] || 2
 |}
 </div>''Ce loup aussi grand qu’un ours et couvert de fourrure blanche a le museau
 cerclé de givre et des yeux bleu pâle, presque blancs.''

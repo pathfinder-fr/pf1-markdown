@@ -9,10 +9,10 @@ Categories:
 
 {s:MenuGC}{s:GC}<nav class="wiki-toc"></nav>L’exploration constitue la quintessence même de l’aventure. L’explorateur se lance dans les étendues sauvages inexplorées pour y chercher la gloire et la fortune en affrontant un monde de dangers inconnus qui peuvent frapper à tout moment. Au-delà des frontières protectrices de la civilisation, la mort peut venir d’attaques de bandits, de rencontres avec des bêtes sauvages et des caprices indifférents de l’environnement. Pour ceux qui se montrent suffisamment courageux, l’exploration offre son propre type de récompenses : la capacité à regarder en arrière pour voir tout le chemin parcouru, à conter les nombreux obstacles surmontés et à marquer comme siennes les découvertes faites en cours de route. Le sommet de chaque montagne gravie et la longueur de chaque piste dessinée est une victoire pour le voyageur, une chance de contempler le monde qu’il a entrepris de conquérir.
 
-Les pages qui suivent présentent les règles sur la façon dont, vous [MJ](./MJ.md), pouvez inclure de vastes régions sauvages à votre campagne. Vous pouvez utiliser ces règles pour diriger une campagne axée sur l’exploration ou pour ajouter une composante d’exploration à une campagne, comme la quête de ressources, la reconnaissance d’un territoire en vue de l’agrandissement d’un royaume ou l’établissement de routes commerciales.
+Les pages qui suivent présentent les règles sur la façon dont, vous [[MJ]], pouvez inclure de vastes régions sauvages à votre campagne. Vous pouvez utiliser ces règles pour diriger une campagne axée sur l’exploration ou pour ajouter une composante d’exploration à une campagne, comme la quête de ressources, la reconnaissance d’un territoire en vue de l’agrandissement d’un royaume ou l’établissement de routes commerciales.
 
 ### L'exploration ouverte
-Ces règles d’exploration fonctionnent très bien dans les jeux de type bac à sable. Concrètement, une campagne ouverte offre une carte avec de nombreux endroits différents où les [PJ](./PJ.md) se voient confier des tâches à accomplir ainsi que des lieux où ces tâches peuvent être menées à bien. (Chaque mission peut se dérouler ou non à l’endroit où elle été reçue). Il peut s’agir de tâches aussi simples que de nettoyer une forêt de ses monstres maléfiques ou aussi compliquées que d’aider un royaume naissant à exploiter les ressources de son arrière-pays.
+Ces règles d’exploration fonctionnent très bien dans les jeux de type bac à sable. Concrètement, une campagne ouverte offre une carte avec de nombreux endroits différents où les [[PJ]] se voient confier des tâches à accomplir ainsi que des lieux où ces tâches peuvent être menées à bien. (Chaque mission peut se dérouler ou non à l’endroit où elle été reçue). Il peut s’agir de tâches aussi simples que de nettoyer une forêt de ses monstres maléfiques ou aussi compliquées que d’aider un royaume naissant à exploiter les ressources de son arrière-pays.
 
 Quand vous créez des tâches pour un jeu ouvert, faites en sorte que ce soit des choses que le groupe peut choisir de faire, pas des choses qu’il doit faire. En leur laissant le choix des missions à entreprendre, vous permettez aux PJ de devenir des héros vagabonds, maîtres de leur propre destin, qui sillonnent le monde en redressant les torts.
 
@@ -58,15 +58,15 @@ Ce type de jeu non-linéaire encourage les PJ à se lancer dans le monde, à che
 |}
 </div></div>Chaque hexagone de la carte correspond à 20 kilomètres d’un coin à l’autre et représente une zone d’un peu moins de 250 km2. Les hexagones servent à suivre les déplacements du groupe tandis qu’il est en exploration et aident à définir l’étendue des différents types d’environnements. Dans ces règles, les rapports d’exploration diffèrent des rapports de voyage que l’on trouve dans le Manuel des Joueurs puisque les personnages sont également censés prendre le temps d’explorer complètement chaque zone découverte, ce qui est nettement plus long que de simplement la traverser.
 
-Pour déterminer combien de temps il faut aux PJ pour traverser un hexagone ou l’explorer complètement, définissez la vitesse de déplacement de base du groupe (fixée par le membre le plus lent du groupe) et consultez la table "[Temps de voyage (1 hexagone)](./Exploration GC.md#TEMPSDEVOYAGE)" ou la table "[Temps d’exploration (1 hexagone)](./Exploration GC.md#TEMPSDEXPLORATION)". Ces durées représentent le déplacement et l’exploration au sein d’un hexagone normal du type d’environnement spécifié : les règles présentées plus loin dans cette section modifient le temps qu’il faut pour traverser ou explorer complètement un hexagone.
+Pour déterminer combien de temps il faut aux PJ pour traverser un hexagone ou l’explorer complètement, définissez la vitesse de déplacement de base du groupe (fixée par le membre le plus lent du groupe) et consultez la table "[[Exploration GC#TEMPSDEVOYAGE|Temps de voyage (1 hexagone)]]" ou la table "[[Exploration GC#TEMPSDEXPLORATION|Temps d’exploration (1 hexagone)]]". Ces durées représentent le déplacement et l’exploration au sein d’un hexagone normal du type d’environnement spécifié : les règles présentées plus loin dans cette section modifient le temps qu’il faut pour traverser ou explorer complètement un hexagone.
 
-Un hexagone normal d’étendues sauvages est vierge (cf. table "[Terrain et déplacements sur longue distance](./Déplacements.md#LONGUEDISTANCE)"). Bien qu’il ne soit traversé par aucune route ni piste créée par des humanoïdes, il peut y avoir des pistes laissées par les animaux du jeu. Si un hexagone contient plus d’un type d’environnement, considérez-le comme occupé par l’environnement dominant pour déterminer les temps de voyage.
+Un hexagone normal d’étendues sauvages est vierge (cf. table "[[Déplacements#LONGUEDISTANCE|Terrain et déplacements sur longue distance]]"). Bien qu’il ne soit traversé par aucune route ni piste créée par des humanoïdes, il peut y avoir des pistes laissées par les animaux du jeu. Si un hexagone contient plus d’un type d’environnement, considérez-le comme occupé par l’environnement dominant pour déterminer les temps de voyage.
 
 #### Suivre les voyages
-Le moyen le plus simple de suivre la progression des [PJ](./PJ.md) lorsqu’ils traversent et inspectent les étendues sauvages est d’utiliser une feuille à hexagones. Lorsque les PJ explorent un hexagone, les joueurs devraient noter leur progression en marquant celui-ci d’un petit « x ». Il est important de savoir quels sont les hexagones qui ont été complètement explorés pour déterminer les récompenses d’exploration.
+Le moyen le plus simple de suivre la progression des [[PJ]] lorsqu’ils traversent et inspectent les étendues sauvages est d’utiliser une feuille à hexagones. Lorsque les PJ explorent un hexagone, les joueurs devraient noter leur progression en marquant celui-ci d’un petit « x ». Il est important de savoir quels sont les hexagones qui ont été complètement explorés pour déterminer les récompenses d’exploration.
 
 #### Les récompenses d’exploration
-Quand un hexagone a été complètement exploré, le groupe gagne 100 [PX](./PX.md) pour les efforts accomplis. Certains modificateurs peuvent venir s’ajouter à cette somme. Le groupe gagne 25 PX supplémentaires quand il a complètement exploré un hexagone accueillant un environnement difficile ou un danger. Vous pouvez décréter que certains hexagones sont plus dangereux que d’autres, notamment dans les campagnes de haut niveau, et accorder au groupe davantage de px par hexagone (pourquoi pas jusqu’à un maximum de 500 PX pour les zones particulièrement hostiles).
+Quand un hexagone a été complètement exploré, le groupe gagne 100 [[PX]] pour les efforts accomplis. Certains modificateurs peuvent venir s’ajouter à cette somme. Le groupe gagne 25 PX supplémentaires quand il a complètement exploré un hexagone accueillant un environnement difficile ou un danger. Vous pouvez décréter que certains hexagones sont plus dangereux que d’autres, notamment dans les campagnes de haut niveau, et accorder au groupe davantage de px par hexagone (pourquoi pas jusqu’à un maximum de 500 PX pour les zones particulièrement hostiles).
 
 {s:Reference|ENTRETENIRLINTERET}
 #### Entretenir l’intérêt
@@ -96,7 +96,7 @@ Le fait de se perdre répond aux règles normales (Manuel des Joueurs, p. 430) �
 |}
 </div></div>Les catastrophes naturelles peuvent se produire n’importe où. Les régions sauvages accueillent souvent toute une variété de monstres. Vous pouvez ajouter quelques dangers de plus à vos sessions d’exploration en incluant des rencontres aléatoires, qu’elles prennent la forme de dangers naturels ou de monstres vivant dans l’environnement donné.
 
-Lancez un dé sur la table suivante une fois par jour (ou une fois par hexagone si les PJ pénètrent dans plusieurs hexagones en une journée). Pour les dangers, consultez la section [Les dangers](./Exploration GC.md#DANGERS). Pour les rencontres de monstres, dans la plupart des cas les PJ affrontent une créature adaptée à l’environnement donné, mais une crise de famine, de sécheresse, une guerre ou une épidémie pourrait forcer un monstre à quitter son territoire normal et à intégrer un environnement étrange.
+Lancez un dé sur la table suivante une fois par jour (ou une fois par hexagone si les PJ pénètrent dans plusieurs hexagones en une journée). Pour les dangers, consultez la section [[Exploration GC#DANGERS|Les dangers]]. Pour les rencontres de monstres, dans la plupart des cas les PJ affrontent une créature adaptée à l’environnement donné, mais une crise de famine, de sécheresse, une guerre ou une épidémie pourrait forcer un monstre à quitter son territoire normal et à intégrer un environnement étrange.
 
 ### Les rencontres planifiées
 Une rencontre spécifique prévue pour un hexagone ne doit pas forcément être compliquée. Elle peut être aussi simple qu’une rencontre rapide avec un explorateur pouvant vendre aux PJ quelques provisions essentielles ou que la découverte du repaire d’un monstre présageant d’une plus grande menace. Un bon moyen de déterminer le nombre de rencontres planifiées est d’en préparer au moins une pour chaque personnage que compte le groupe. Ainsi, vous pouvez mettre en place des rencontres qui mettront en vedette chacun des personnages sans avoir à peupler tous les hexagones de la carte un à un.
@@ -112,15 +112,15 @@ Pour des questions de simplicité, les hexagones se caractérisent par leur envi
 
 Chacun des types d’environnements qui suivent inclut une description de l’environnement ainsi que tous les effets de règles qu’il peut impliquer. En outre, chaque présentation d’environnement inclut des exemples d’éléments environnementaux que l’on peut trouver dans les hexagones accueillant ce type d’environnement. Un élément environnemental peut être une sorte d’obstacle ou de gêne rendant l’hexagone plus difficile à franchir, une caractéristique unique à l’hexagone, une rencontre avec les prédateurs ou les peuples ayant fait de cet hexagone leur terrain de chasse, des ressources pouvant aider les aventuriers dans leur exploration ou un lieu secret caché quelque part sur l’hexagone.
 
-Même un hexagone « normal » (c’est-à-dire sans élément environnemental) devrait accueillir quelque chose qui le rend mémorable. Les PJ qui explorent l’hexagone y passe au moins une journée et une campagne d’exploration devient vite ennuyeuse si les jours se succèdent sans surprise (cf. [Entretenir l’intérêt](./Exploration GC.md#ENTRETENIRLINTERET)).
+Même un hexagone « normal » (c’est-à-dire sans élément environnemental) devrait accueillir quelque chose qui le rend mémorable. Les PJ qui explorent l’hexagone y passe au moins une journée et une campagne d’exploration devient vite ennuyeuse si les jours se succèdent sans surprise (cf. [[Exploration GC#ENTRETENIRLINTERET|Entretenir l’intérêt]]).
 
 <div class="article_2col">
 {s:Reference|COLLINES}
 #### Collines
 Les collines sont plus basses et moins escarpées que les montagnes. Elles forment souvent un environnement transitoire entre les montagnes et les plaines.
-- **Difficile.** Criblés d’étroites falaises et de roches déchiquetées, les hexagones de collines difficiles nécessitent davantage de précautions pour éviter les chutes dangereuses. En termes de temps de voyage et d’exploration, considérez la vitesse de déplacement du groupe comme inférieure d’une catégorie sur les tables "[Temps de voyage (1 hexagone)](./Exploration GC.md#TEMPSDEVOYAGE)" et "[Temps d’exploration (1 hexagone)](./Exploration GC.md#TEMPSDEXPLORATION)".
+- **Difficile.** Criblés d’étroites falaises et de roches déchiquetées, les hexagones de collines difficiles nécessitent davantage de précautions pour éviter les chutes dangereuses. En termes de temps de voyage et d’exploration, considérez la vitesse de déplacement du groupe comme inférieure d’une catégorie sur les tables "[[Exploration GC#TEMPSDEVOYAGE|Temps de voyage (1 hexagone)]]" et "[[Exploration GC#TEMPSDEXPLORATION|Temps d’exploration (1 hexagone)]]".
 
-- **Caractéristiques.** L’hexagone peut accueillir le site d’une célèbre bataille historique ou le tumulus de chefs morts depuis longtemps. Il offre une vue imprenable sur la région environnante, faisant donc un point de vue bien utile. Les tests de [Survie](./Survie.md) pour éviter de se perdre ou pour retrouver ses repères dans cet hexagone bénéficient d’un bonus de +1.
+- **Caractéristiques.** L’hexagone peut accueillir le site d’une célèbre bataille historique ou le tumulus de chefs morts depuis longtemps. Il offre une vue imprenable sur la région environnante, faisant donc un point de vue bien utile. Les tests de [[Survie]] pour éviter de se perdre ou pour retrouver ses repères dans cet hexagone bénéficient d’un bonus de +1.
 
 - **Terrain de chasse.** L’hexagone est entrecoupé de vallées et de tranchées qui dissimulent des prédateurs. Le risque de faire des rencontres aléatoires est augmenté de 25%.
 
@@ -131,7 +131,7 @@ Les collines sont plus basses et moins escarpées que les montagnes. Elles forme
 {s:Reference|COLONIES}
 #### Colonies
 Les hexagones de colonies normaux sont de petits villages ou des campements militaires. Ces implantations sont généralement construites sur un autre type d’environnement. Les pistes fréquemment empruntées, voire même les simples chemins, réduisent le temps de traversée de l’hexagone de 25% à 50% en fonction du type d’environnement de l’hexagone.
-- **Difficile.** Les hexagones de colonies difficiles accueillent les ruines d’une ville abandonnée ou encore abrite les victimes d’une famine, d’une épidémie ou de quelque autre évènement dévastateur. Les bâtiments délabrés menacent de s’effondrer à tout moment (considérez ces effondrements comme des [éboulements](./Donjons.md#Les_éboulements_5)).
+- **Difficile.** Les hexagones de colonies difficiles accueillent les ruines d’une ville abandonnée ou encore abrite les victimes d’une famine, d’une épidémie ou de quelque autre évènement dévastateur. Les bâtiments délabrés menacent de s’effondrer à tout moment (considérez ces effondrements comme des [[Donjons#Les_éboulements_5|éboulements]]).
 
 - **Caractéristiques.** Les hexagones de colonies accueillent des communautés à la réputation bien connue ou d’importance historique.
 
@@ -144,11 +144,11 @@ Les hexagones de colonies normaux sont de petits villages ou des campements mili
 {s:Reference|EAUX}
 #### Eaux
 Qu’il s’agisse d’un fleuve, d’un lac ou d’un océan, ce type d’hexagone est principalement composé d’eau. Si les PJ n’ont pas de vitesse de nage ni de bateaux, il vaut mieux traiter les océans et les lacs comme des obstacles que les PJ devront contourner plutôt que traverser. Traitez les rivages des hexagones d’eau comme le même type d’environnement que l’hexagone adjacent.
-- **Difficile.** Les rapides, les marées violentes ou les tourbillons sous-marins rendent ces eaux plus difficiles à traverser. Le [DD](./DD.md) des tests de [Natation](./Natation.md) pour traverser ces eaux est augmenté de 5.
+- **Difficile.** Les rapides, les marées violentes ou les tourbillons sous-marins rendent ces eaux plus difficiles à traverser. Le [[DD]] des tests de [[Natation]] pour traverser ces eaux est augmenté de 5.
 
 - **Caractéristiques.** L’hexagone est situé sur le parcours d’un grand fleuve ou d’une rivière connue ou est pourvu d’un pont solide qui en facilite la traversée.
 
-- **Terrain de chasse.** L’hexagone peut très bien accueillir des prédateurs aquatiques ou des chasseurs opportunistes qui se tapissent en attendant de fondre sur les proies venues se désaltérer. Le risque de faire des rencontres aléatoires est augmenté de 10% ou de 25% si les [PJ](./PJ.md) passent la majorité de leurs temps dans l’eau.
+- **Terrain de chasse.** L’hexagone peut très bien accueillir des prédateurs aquatiques ou des chasseurs opportunistes qui se tapissent en attendant de fondre sur les proies venues se désaltérer. Le risque de faire des rencontres aléatoires est augmenté de 10% ou de 25% si les [[PJ]] passent la majorité de leurs temps dans l’eau.
 
 - **Ressources.** Cet hexagone abonde en poissons, en coquillages et en perles. Dans certains cas, l’avantage de ces ressources se traduit par la présence d’eau claire plutôt que par les eaux contaminées ou salées des hexagones voisins.
 
@@ -159,8 +159,8 @@ Qu’il s’agisse d’un fleuve, d’un lac ou d’un océan, ce type d’hexag
 Les déserts se rencontrent dans tous les types d’environnement où les précipitations sont rares. Ils peuvent être chauds, tempérés ou froids.
 
 Cette partie concerne principalement les déserts chauds et tempérés. Dans les environnements froids, le désert correspond généralement à la toundra, qui fonctionne comme n’importe quel autre type d’environnement en fonction de la saison en cours. Pendant la majorité de l’année, les déserts froids sont recouverts d’un pergélisol formant un terrain stable et solide (considéré comme une plaine). Pendant la saison chaude, ce pergélisol fond et transforme la zone en boue (considérée comme un marais).
-- **Difficile.** Les déserts difficiles sont des lieux semés d’embûches, pleins de dunes de sables, d’entonnoirs, de débris, de tempêtes de sable ou de nombreux ravins. Les rares pluies saisonnières peuvent provoquer des crues emportant ou noyant toutes les créatures sur leur passage. Les tests de [Survie](./Survie.md) pour éviter de se perdre ou pour retrouver ses marques dans l’hexagone bénéficient d’un bonus de +1. Les tests de Survie pour s’en sortir dans la nature sont augmentés de 5.
-Traitez les crues comme des [avalanches](./Aventures en extérieur.md#AVALANCHES) à la seule différence qu’au lieu d’étouffer sous la roche, les créatures submergées doivent retenir leur respiration ou commenceront à se noyer.
+- **Difficile.** Les déserts difficiles sont des lieux semés d’embûches, pleins de dunes de sables, d’entonnoirs, de débris, de tempêtes de sable ou de nombreux ravins. Les rares pluies saisonnières peuvent provoquer des crues emportant ou noyant toutes les créatures sur leur passage. Les tests de [[Survie]] pour éviter de se perdre ou pour retrouver ses marques dans l’hexagone bénéficient d’un bonus de +1. Les tests de Survie pour s’en sortir dans la nature sont augmentés de 5.
+Traitez les crues comme des [[Aventures en extérieur#AVALANCHES|avalanches]] à la seule différence qu’au lieu d’étouffer sous la roche, les créatures submergées doivent retenir leur respiration ou commenceront à se noyer.
 
 - **Caractéristiques.** Un hexagone de désert peut présenter différentes caractéristiques comme une ville ou un tombeau depuis longtemps enseveli sous les sables, un ou plusieurs géoglyphes, une mesa inhabituelle, un canyon majestueux, une fosse à goudron ou une oasis. Il est possible d’utiliser une grande structure (comme une mesa ou une tour en ruine) comme point de repère ou comme un point d’observation pour avoir une meilleure vue de la région alentour. D’autres caractéristiques peuvent indiquer des trésors cachés, des lignes telluriques ou des conjonctions célestes.
 
@@ -174,20 +174,20 @@ Des ruines à moitié ensevelies dans le désert pourraient encore abriter des t
 {s:Reference|FORET}
 #### Forêt
 Un hexagone de forêt normale peut accueillir toutes sortes de forêts communes : des bois clairsemés dans les plaines, des pins très épineux dans la taïga, une jungle tropicale luxuriante, voire même un ancien bosquet d’arbres fruitiers envahi par les mauvaises herbes et redevenu sauvage.
-- **Difficile.** Les forêts difficiles sont des endroits semés d’embûches, peuplées d’arbres pourrissants pouvant tomber sans prévenir, d’arbres faucheurs tordus qui plongent sur leurs victimes ou de flammesorcières déroutant les explorateurs. Pour chaque heure passée à traverser une forêt difficile, il y a 5% de chances d’être victime d’un arbre qui chute. Le [DD](./DD.md) des tests de [Survie](./Survie.md) pour éviter de se perdre est augmenté de 5.
+- **Difficile.** Les forêts difficiles sont des endroits semés d’embûches, peuplées d’arbres pourrissants pouvant tomber sans prévenir, d’arbres faucheurs tordus qui plongent sur leurs victimes ou de flammesorcières déroutant les explorateurs. Pour chaque heure passée à traverser une forêt difficile, il y a 5% de chances d’être victime d’un arbre qui chute. Le [[DD]] des tests de [[Survie]] pour éviter de se perdre est augmenté de 5.
 
 - **Caractéristiques.** Un hexagone de forêt peut présenter différentes caractéristiques comme un bouquet de vieux arbres énormes ou quelque type d’arbres unique à cette région. Dans une vieille forêt, la canopée filtre la lumière qui atteint le sol, ce qui fait que les sous-bois sont souvent bas, pleins de plantes résistantes comme la mousse et les fougères.
 
 - **Terrain de chasse.** Ce genre de vieilles forêts est souvent révérée par les peuples du coin, leurs terrains de chasse étant occupés par un éventail terrifiant de créatures arboricoles. Le risque de faire des rencontres aléatoires dans ces forêts est augmenté de 10%.
 
-- **Ressources.** Ces hexagones accueillent du bois d’œuvre précieux, des plantes médicinales ou d’abondantes sources de gibier. Les tests de [Survie](./Survie.md) pour s’en sortir dans la nature bénéficient d’un bonus de +5.
+- **Ressources.** Ces hexagones accueillent du bois d’œuvre précieux, des plantes médicinales ou d’abondantes sources de gibier. Les tests de [[Survie]] pour s’en sortir dans la nature bénéficient d’un bonus de +5.
 
 - **Secrets.** Un hexagone de forêt secret se caractérise par des brumes épaisses ou des ombres insondables qui en rallongent le temps l’exploration complète. Le temps d’exploration est augmenté de 50%.
 
 {s:Reference|MARAIS}
 #### Marais
 Les marais, marécages et tourbières constituent des terrains éprouvants pour qui les traverse. Le DD des tests de Survie pour éviter de s’y perdre est augmenté de 1 dans ces hexagones.
-- **Difficile.** Les hexagones de marais difficiles sont des lieux redoutables, pleins de sables mouvants, de plantes vénéneuses et d’eaux traîtres. Le DD des tests de Survie pour se repérer dans ces environnements est augmenté de 5. En termes de temps de voyage et d’exploration, considérez la vitesse de déplacement du groupe comme inférieure d’une catégorie sur les tables "[Temps de voyage (1 hexagone)](./Exploration GC.md#TEMPSDEVOYAGE)" et "[Temps d’exploration (1 hexagone)](./Exploration GC.md#TEMPSDEXPLORATION)".
+- **Difficile.** Les hexagones de marais difficiles sont des lieux redoutables, pleins de sables mouvants, de plantes vénéneuses et d’eaux traîtres. Le DD des tests de Survie pour se repérer dans ces environnements est augmenté de 5. En termes de temps de voyage et d’exploration, considérez la vitesse de déplacement du groupe comme inférieure d’une catégorie sur les tables "[[Exploration GC#TEMPSDEVOYAGE|Temps de voyage (1 hexagone)]]" et "[[Exploration GC#TEMPSDEXPLORATION|Temps d’exploration (1 hexagone)]]".
 
 - **Caractéristiques.** L’hexagone peut accueillir l’antre d’une créature des marais (comme une guenaude), des ruines englouties, un large terre-plein ou un lac peu profond.
 
@@ -195,12 +195,12 @@ Les marais, marécages et tourbières constituent des terrains éprouvants pour 
 
 - **Ressources.** Les ressources des marais se présentent essentiellement sous la forme de plantes et d’herbes médicinales.
 
-- **Secrets.** Nombre d’explorateurs malheureux ont trouvé la mort dans les marais, laissant derrière eux tout leur équipement. S’ils réussissent un test de [Survie](./Survie.md) de [DD](./DD.md) 25, les PJ pourront chacun récupérer 10 po d’équipement par niveau de personnage.
+- **Secrets.** Nombre d’explorateurs malheureux ont trouvé la mort dans les marais, laissant derrière eux tout leur équipement. S’ils réussissent un test de [[Survie]] de [[DD]] 25, les PJ pourront chacun récupérer 10 po d’équipement par niveau de personnage.
 
 {s:Reference|MONTAGNES}
 #### Montagnes
 Les montagnes forment de longues barrières dans le paysage, handicapant grandement la progression des voyageurs.
-- **Difficile.** Tous les DD d’Escalade dans les hexagones de montagnes difficiles sont augmentés de 2. En termes de temps de voyage et d’exploration, considérez la vitesse de déplacement du groupe comme inférieure d’une catégorie sur les tables "[Temps de voyage (1 hexagone)](./Exploration GC.md#TEMPSDEVOYAGE)" et "[Temps d’exploration (1 hexagone)](./Exploration GC.md#TEMPSDEXPLORATION)".
+- **Difficile.** Tous les DD d’Escalade dans les hexagones de montagnes difficiles sont augmentés de 2. En termes de temps de voyage et d’exploration, considérez la vitesse de déplacement du groupe comme inférieure d’une catégorie sur les tables "[[Exploration GC#TEMPSDEVOYAGE|Temps de voyage (1 hexagone)]]" et "[[Exploration GC#TEMPSDEXPLORATION|Temps d’exploration (1 hexagone)]]".
 
 - **Caractéristiques.** Les montagnes sont le point le plus haut de la région ou présentent une forme inhabituelle, dessinant éventuellement un visage ou une créature. Sinon, utilisez une caractéristique de la section Caractéristiques des environnements de type collines.
 
@@ -208,12 +208,12 @@ Les montagnes forment de longues barrières dans le paysage, handicapant grandem
 
 - **Ressources.** L’hexagone accueille des ressources telles que de la pierre de qualité, du charbon, des métaux précieux ou des pierres précieuses.
 
-- **Secrets.** Des sentiers cachés taillés dans les montagnes offrent des voies plus rapides. Si les PJ réussissent un test de [Perception](./Perception.md) [DD](./DD.md) 20 pour trouver ces sentiers, ils peuvent ignorer l’augmentation du temps de voyage par défaut pour ces hexagones.
+- **Secrets.** Des sentiers cachés taillés dans les montagnes offrent des voies plus rapides. Si les PJ réussissent un test de [[Perception]] [[DD]] 20 pour trouver ces sentiers, ils peuvent ignorer l’augmentation du temps de voyage par défaut pour ces hexagones.
 
 {s:Reference|PLAINES}
 #### Plaines
 Les plaines peuvent être des champs de hautes herbes, une toundra toujours gelée ou des terres stériles et sans relief.
-- **Difficile.** Les plaines dangereuses sont souvent criblées de petites dolines et de fosses à cause desquelles les imprudents peuvent se tordre une cheville ou se casser une jambe. En termes de temps de voyage et d’exploration, considérez la vitesse de déplacement du groupe comme inférieure d’une catégorie sur les tables "[Temps de voyage (1 hexagone)](./Exploration GC.md#TEMPSDEVOYAGE)" et "[Temps d’exploration (1 hexagone)](./Exploration GC.md#TEMPSDEXPLORATION)".
+- **Difficile.** Les plaines dangereuses sont souvent criblées de petites dolines et de fosses à cause desquelles les imprudents peuvent se tordre une cheville ou se casser une jambe. En termes de temps de voyage et d’exploration, considérez la vitesse de déplacement du groupe comme inférieure d’une catégorie sur les tables "[[Exploration GC#TEMPSDEVOYAGE|Temps de voyage (1 hexagone)]]" et "[[Exploration GC#TEMPSDEXPLORATION|Temps d’exploration (1 hexagone)]]".
 
 - **Caractéristiques.** Les plaines peuvent accueillir le site d’un ancien champ de bataille, avec tous les vestiges de ses défenses et de ses tranchées de terre.
 
@@ -221,7 +221,7 @@ Les plaines peuvent être des champs de hautes herbes, une toundra toujours gel�
 
 - **Ressources.** L’hexagone offre des plantes comestibles (comme du blé ou des cactus) ou des matières végétales utiles (comme le lin ou le coton).
 
-- **Secrets.** Des articles volés sont ensevelis dans cet hexagone, marqués de signes anodins comme une pierre de rivière qui ne serait pas à sa place. Si les [PJ](./PJ.md) réussissent un test de Perception DD 25, ils reconnaîtront le repère et pourront chacun récupérer des trésors ou de l’équipement non-magique d’une valeur de 10 po par niveau de personnage.
+- **Secrets.** Des articles volés sont ensevelis dans cet hexagone, marqués de signes anodins comme une pierre de rivière qui ne serait pas à sa place. Si les [[PJ]] réussissent un test de Perception DD 25, ils reconnaîtront le repère et pourront chacun récupérer des trésors ou de l’équipement non-magique d’une valeur de 10 po par niveau de personnage.
 
 </div>
 
@@ -233,19 +233,19 @@ Les plaines peuvent être des champs de hautes herbes, une toundra toujours gel�
 | WIDTH="30%" | d20
 | WIDTH="70%" | Type d'environnement
 |- CLASS="premier"
-| 1-3 || [Forêt](./Exploration GC.md#FORET)
+| 1-3 || [[Exploration GC#FORET|Forêt]]
 |-
-| 4-6 || [Collines](./Exploration GC.md#COLLINES)
+| 4-6 || [[Exploration GC#COLLINES|Collines]]
 |-
-| 7-8 || [Marais](./Exploration GC.md#MARAIS)
+| 7-8 || [[Exploration GC#MARAIS|Marais]]
 |-
-| 9-10 || [Montagnes](./Exploration GC.md#MONTAGNES)
+| 9-10 || [[Exploration GC#MONTAGNES|Montagnes]]
 |-
-| 11-13 || [Plaines](./Exploration GC.md#PLAINES)
+| 11-13 || [[Exploration GC#PLAINES|Plaines]]
 |-
-| 14 || [Colonie](./Exploration GC.md#COLONIE)
+| 14 || [[Exploration GC#COLONIE|Colonie]]
 |-
-| 15-16 || [Eaux](./Exploration GC.md#EAUX)
+| 15-16 || [[Exploration GC#EAUX|Eaux]]
 |-
 | 17-20 || Même type d’environnement que le précédent
 |}
@@ -274,28 +274,28 @@ Pour créer une nouvelle carte, commencez par choisir un hexagone comme point de
 
 {s:Reference|DANGERS}
 ### Les dangers
-Les dangers sont des obstacles ou des évènements périlleux appropriés au type d’environnement de l’hexagone. Ce sont des catastrophes naturelles, des conditions météorologiques rigoureuses et les déboires qui peuvent frapper les explorateurs. Ils servent à pimenter le périple des PJ tandis qu’ils explorent le monde. En plus de ces dangers, vous pouvez inclure une menace environnementale adaptée à l’environnement donné (voir [Aventures en extérieur](./Aventures en extérieur.md)). Une fois que les effets d’un danger ont été résolus, traitez l’hexagone comme un exemplaire normal de cet environnement.
+Les dangers sont des obstacles ou des évènements périlleux appropriés au type d’environnement de l’hexagone. Ce sont des catastrophes naturelles, des conditions météorologiques rigoureuses et les déboires qui peuvent frapper les explorateurs. Ils servent à pimenter le périple des PJ tandis qu’ils explorent le monde. En plus de ces dangers, vous pouvez inclure une menace environnementale adaptée à l’environnement donné (voir [[Aventures en extérieur]]). Une fois que les effets d’un danger ont été résolus, traitez l’hexagone comme un exemplaire normal de cet environnement.
 
 <div class="article_2col">
 #### Feux de broussailles (collines, plaines)
-Les feux de broussailles sont souvent le résultat de la foudre ou de feux de camp inconsidérés. Ils sont similaires aux [feux de forêt](./Aventures en extérieur.md#Forêts_5) à la seule différence qu’ils sont visibles à deux fois la distance normale et que les PJ pris dans une telle zone ne doivent faire de jet de sauvegarde contre les dégâts de chaleur que tous les 10 rounds.
+Les feux de broussailles sont souvent le résultat de la foudre ou de feux de camp inconsidérés. Ils sont similaires aux [[Aventures en extérieur#Forêts_5|feux de forêt]] à la seule différence qu’ils sont visibles à deux fois la distance normale et que les PJ pris dans une telle zone ne doivent faire de jet de sauvegarde contre les dégâts de chaleur que tous les 10 rounds.
 
 #### Fléaux (tous)
-Que ce soit par manque d’eau, à cause d’une épidémie ou d’une magie hostile, les plantes et la vie végétale de l’hexagone souffrent. Les fléaux affectent l’hexagone et les hexagones voisins inexplorés et durent 1d4+2 semaines. Pendant un fléau, le [DD](./DD.md) des tests de [Survie](./Survie.md) pour survivre dans la nature est augmenté de 5.
+Que ce soit par manque d’eau, à cause d’une épidémie ou d’une magie hostile, les plantes et la vie végétale de l’hexagone souffrent. Les fléaux affectent l’hexagone et les hexagones voisins inexplorés et durent 1d4+2 semaines. Pendant un fléau, le [[DD]] des tests de [[Survie]] pour survivre dans la nature est augmenté de 5.
 
 #### Gaz mortels (désert, marais)
 Dans les marais, des poches de gaz inflammables peuvent se former sous la surface avant d’exploser violemment, envoyant de la roche, de la boue et des débris dans toutes les directions avec une force surprenante. Dans le désert, les vapeurs toxiques d’un vent naturel, d’une ancienne mine ou d’une catastrophe magique peuvent imprégner l’air, empoisonnant ou faisant muter les créatures de la région.
 
-Dans les marais, les PJ peuvent tenter un test de [Perception](./Perception.md) [DD](./DD.md) 15 pour percevoir l’odeur et le gonflement des gaz avant qu’ils n’explosent. L’explosion inflige 2d6 points de dégâts contondants dans un rayon de 6 mètres ou 4d6 points de dégâts de feu si la zone accueille des flammes libres.
+Dans les marais, les PJ peuvent tenter un test de [[Perception]] [[DD]] 15 pour percevoir l’odeur et le gonflement des gaz avant qu’ils n’explosent. L’explosion inflige 2d6 points de dégâts contondants dans un rayon de 6 mètres ou 4d6 points de dégâts de feu si la zone accueille des flammes libres.
 
 Dans le désert, les PJ peuvent tenter un test de Perception DD 15 pour percevoir les vapeurs et s’en éloigner avant qu’elles ne les affectent. Sinon, ils doivent réussir un jet de Vigueur DD 15 pour ne pas subir un affaiblissement temporaire de 1d4 points de Constitution et être nauséeux pendant 10 minutes.
 
 #### Mauvais climat (tous)
-Le mauvais climat peut aller des précipitations mineures aux grandes [tempêtes](./Climat.md#Tempêtes_2). Il peut inclure des éclair, des crues, des éboulements de terrain et d’autres catastrophes naturelles.
+Le mauvais climat peut aller des précipitations mineures aux grandes [[Climat#Tempêtes_2|tempêtes]]. Il peut inclure des éclair, des crues, des éboulements de terrain et d’autres catastrophes naturelles.
 
 #### Secousses volcaniques (collines, montagnes)
-Bien que les volcans actifs soient rares, même les volcans endormis peuvent générer des secousses. Partout, elles durent entre 1d4 rounds et 2d6 minutes et augmentent le [DD](./DD.md) des tests d’[Escalade](./Escalade.md) de 2. Elles peuvent provoquer une avalanche ou l’éboulement d’une grotte ou d’une falaise (un peu comme un sort de tremblement de terre).
+Bien que les volcans actifs soient rares, même les volcans endormis peuvent générer des secousses. Partout, elles durent entre 1d4 rounds et 2d6 minutes et augmentent le [[DD]] des tests d’[[Escalade]] de 2. Elles peuvent provoquer une avalanche ou l’éboulement d’une grotte ou d’une falaise (un peu comme un sort de tremblement de terre).
 
 #### Tourbillons de poussière (désert, collines, plaines)
-Les tourbillons de poussière sont des tornades qui ne sont pas associées aux tempêtes, notamment dans les régions qui n’ont pas ou très peu de terres arables. Traitez les tourbillons de poussière comme des [tempêtes de sable](./Climat.md#Tempêtes_2) ou des [tornades](./Climat.md#Tempêtes_2).
+Les tourbillons de poussière sont des tornades qui ne sont pas associées aux tempêtes, notamment dans les régions qui n’ont pas ou très peu de terres arables. Traitez les tourbillons de poussière comme des [[Climat#Tempêtes_2|tempêtes de sable]] ou des [[Climat#Tempêtes_2|tornades]].
 </div>

@@ -13,24 +13,24 @@ Categories:
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire* P.252}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Feu](./sous-type Feu.md)) de taille M, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]]) de taille M, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 11, pris au dépourvu 17 (Dex +1, naturelle +7)}
 {s:BDTexte|**pv** 76 (8d10+32)}
 {s:BDTexte|**Réf** +7, **Vig** +10, **Vol** +6}
 {s:BDTexte|**Immunités** feu ; **RD** 10/magie }
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au froid}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au froid}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** lance, +11/+6 (1d8+4/x3 et 1d6 feu), coup de queue, +6 (2d6+1 et 1d6 feu et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** lance, +11/+6 (1d8+4/x3 et 1d6 feu), coup de queue, +6 (2d6+1 et 1d6 feu et [[étreinte]])}
 {s:BDTexte|**Espace** 1,5 m (1 {s:c}) ; **Allonge** 1,5 m (1 {s:c}); 3 m (2 {s:c}) pour la queue}
-{s:BDTexte|**Attaques spéciales** chaleur, [constriction](./constriction.md) (2d6+4 et 1d6 feu)}
+{s:BDTexte|**Attaques spéciales** chaleur, [[constriction]] (2d6+4 et 1d6 feu)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 13, **Con** 18, **Int** 14, **Sag** 15, **Cha** 13}
 {s:BDTexte|**BBA** +8, **BMO** +11 (+15 lutte), **DMD** 22 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +12, [Artisanat](./Artisanat.md) (fabrication d'armes) +17, [Bluff](./Bluff.md) +12, [Connaissances](./Connaissances.md) (plans) +13, [Discrétion](./Discrétion.md) +12, [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +13 ; **Modificateurs raciaux** [Artisanat](./Artisanat.md) +4 (armes, armures et travail de la forge)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +12, [[Artisanat]] (fabrication d'armes) +17, [[Bluff]] +12, [[Connaissances]] (plans) +13, [[Discrétion]] +12, [[Intimidation]] +12, [[Perception]] +16, [[Psychologie]] +13 ; **Modificateurs raciaux** [[Artisanat]] +4 (armes, armures et travail de la forge)}
 {s:BDTexte|**Langues** commun, igneux}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (plan du Feu)}

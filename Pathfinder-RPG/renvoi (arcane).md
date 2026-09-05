@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#RENVOI
 ---
 
->>> [arcanes#RENVOI](./arcanes.md#RENVOI)
+>>> [[arcanes#RENVOI]]

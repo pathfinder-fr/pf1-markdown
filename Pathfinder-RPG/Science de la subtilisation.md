@@ -11,17 +11,17 @@ Categories:
 
 {s:apg}*Le personnage est doué lorsqu’il s’agit de prélever des objets sur ses adversaires.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Int](./Intelligence.md) 13, [Expertise du combat](./Expertise du combat.md).
+**Conditions.** [[Intelligence|Int]] 13, [[Expertise du combat]].
 
-**Avantage.** Le personnage ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md) lorsqu’il effectue une manœuvre de [subtilisation](./subtilisation.md). De plus, il reçoit un bonus de +2 aux tests des tentatives de subtilisation. Il bénéficie également d’un bonus de +2 à son [DMD](./DMD.md) contre les tentatives de subtilisation effectuées par ses adversaires.
+**Avantage.** Le personnage ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]] lorsqu’il effectue une manœuvre de [[subtilisation]]. De plus, il reçoit un bonus de +2 aux tests des tentatives de subtilisation. Il bénéficie également d’un bonus de +2 à son [[DMD]] contre les tentatives de subtilisation effectuées par ses adversaires.
 
 **Normal.** Le personnage provoque une attaque d’opportunité lorsqu’il effectue une manœuvre de subtilisation.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut choisir ce don même s’il ne remplit pas les conditions requises au niveau des caractéristiques ([Intelligence](./Intelligence.md) 13). Il bénéficie du don tant qu’il lui reste au moins 1 point dans sa réserve d’endurance. Quand le personnage est victime d’une manœuvre de [subtilisation](./subtilisation.md), il peut dépenser un nombre de points d’endurance inférieur ou égal à son bonus de [Force](./Force.md) ou de [Dextérité](./Dextérité.md) (le plus élevé des deux). Son [DMD](./DMD.md) contre cette manœuvre augmente d’un montant égal au nombre de points dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut choisir ce don même s’il ne remplit pas les conditions requises au niveau des caractéristiques ([[Intelligence]] 13). Il bénéficie du don tant qu’il lui reste au moins 1 point dans sa réserve d’endurance. Quand le personnage est victime d’une manœuvre de [[subtilisation]], il peut dépenser un nombre de points d’endurance inférieur ou égal à son bonus de [[Force]] ou de [[Dextérité]] (le plus élevé des deux). Son [[DMD]] contre cette manœuvre augmente d’un montant égal au nombre de points dépensés.
 
 {s:CMy}
 ### Version mythique
@@ -29,4 +29,4 @@ Le personnage peut choisir ce don même s’il ne remplit pas les conditions req
 
 **Condition.** Science de la subtilisation
 
-**Avantage.** Le personnage gagne un bonus égal à la moitié de son grade aux tests de [manœuvre offensive](./Manœuvre offensive.md) de subtilisation et ce même bonus est ajouté à son DMD lorsqu’un adversaire tente de le subtiliser. Ces bonus se cumulent avec ceux conférés par la version [non-mythique](./non-mythique.md) de Science de la subtilisation. De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui tente de le subtiliser, à moins qu’elle possède également ce don.
+**Avantage.** Le personnage gagne un bonus égal à la moitié de son grade aux tests de [[manœuvre offensive]] de subtilisation et ce même bonus est ajouté à son DMD lorsqu’un adversaire tente de le subtiliser. Ces bonus se cumulent avec ceux conférés par la version [[non-mythique]] de Science de la subtilisation. De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui tente de le subtiliser, à moins qu’elle possède également ce don.

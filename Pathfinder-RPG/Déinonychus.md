@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.89*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)}
 {s:BDTexte|**pv** 34 (4d8+16)}
@@ -23,18 +23,18 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** 2 serres, +5 (1d8+2), morsure, +5 (1d6+2), griffes avant, +0 (1d4+1)}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond.md)}
+{s:BDTexte|**Attaques spéciales** [[bond]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 15, **Con** 19, **Int** 2, **Sag** 12, **Cha** 14}
 {s:BDTexte|**BBA** +3, **BMO** +5, **DMD** 17}
-{s:BDTexte|**Dons** [Course](./Course.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+22 pour le saut), [Discrétion](./Discrétion.md) +15, [Perception](./Perception.md) +14 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +8, [Discrétion](./Discrétion.md) +8, [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Course]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10 (+22 pour le saut), [[Discrétion]] +15, [[Perception]] +14 ; **Modificateurs raciaux** [[Acrobaties]] +8, [[Discrétion]] +8, [[Perception]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-12)}
 {s:BDTexte|**Trésor** aucun}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>*Ce dinosaure de couleur vive semble féroce et dangereux. Des grandes griffes en forme de serpes terminent chacune de ses pattes.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>*Ce dinosaure de couleur vive semble féroce et dangereux. Des grandes griffes en forme de serpes terminent chacune de ses pattes.*
 
 Aussi rapide et agile que mortel, le déinonychus
 chasse généralement en
@@ -56,7 +56,7 @@ un formidable mégaraptor.
 
 #### Le déinonychus comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 18 m (12 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** 2 serres (1d6), morsure (1d4) ; **Caractéristiques** For 11, Dex 17, Con 17, Int 2, Sag 12, Cha 14 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 18 m (12 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** 2 serres (1d6), morsure (1d4) ; **Caractéristiques** For 11, Dex 17, Con 17, Int 2, Sag 12, Cha 14 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Évolution au niveau 7.** **Taille** M ; **CA** armure naturelle +2 ; **Attaque** 2 serres (1d8), morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Attaque spéciale** [bond](./Bond.md).
+**Évolution au niveau 7.** **Taille** M ; **CA** armure naturelle +2 ; **Attaque** 2 serres (1d8), morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Attaque spéciale** [[bond]].
 </div></td></tr></table>

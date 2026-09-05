@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 50 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ce petit recueil de prières de guerre à la reliure en cuir est constitué de pages en vélin de haute qualité. Si le personnage a une valeur de 13 ou plus en [Charisme](./Charisme.md) ou au moins 1 rang en [Représentation](./Représentation.md) (déclamation), il peut lire les prières du recueil à voix haute avant la bataille pour encourager les autres face aux épreuves à venir. La lecture des prières à cet effet prend 10 minutes. Le personnage accorde à ceux qui entendent ses prières un bonus de moral de +2 au prochain [jet de sauvegarde](./JDS.md) qu'ils tentent contre un effet de terreur, à partir du moment où ce jet est effectué au cours des 24 heures qui suivent la lecture.
+Ce petit recueil de prières de guerre à la reliure en cuir est constitué de pages en vélin de haute qualité. Si le personnage a une valeur de 13 ou plus en [[Charisme]] ou au moins 1 rang en [[Représentation]] (déclamation), il peut lire les prières du recueil à voix haute avant la bataille pour encourager les autres face aux épreuves à venir. La lecture des prières à cet effet prend 10 minutes. Le personnage accorde à ceux qui entendent ses prières un bonus de moral de +2 au prochain [[jds|jet de sauvegarde]] qu'ils tentent contre un effet de terreur, à partir du moment où ce jet est effectué au cours des 24 heures qui suivent la lecture.

@@ -13,41 +13,41 @@ Categories:
 {s:pucem|Humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.195*}
 {s:BDTexte|**PX** 4800}
-{s:BDTexte|[Orque](./Orque.md) [sorcière](./Sorcière.md) (sorcier docteur balafré) 9 (*Manuel des Joueurs, règles avancées* p. 53 ; *Manuel des Races, règles avancées* p. 140)}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([orque](./sous-type orque.md)) de taille M, CM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[Orque]] [[sorcière]] (sorcier docteur balafré) 9 (*Manuel des Joueurs, règles avancées* p. 53 ; *Manuel des Races, règles avancées* p. 140)}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type orque|orque]]) de taille M, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 15 (+4 armure, +2 Dex, +1 parade)}
 {s:BDTexte|**pv** 94 (9d6+60)}
 {s:BDTexte|**Réf** +6, **Vig** +7, **Vol** +10  ; +2 contre la douleur}
-{s:BDTexte|**Capacités défensives** [férocité](./Férocité.md)}
-{s:BDTexte|**Faiblesse** [sensibilité à la lumière](./Sensibilité à la lumière.md)}
+{s:BDTexte|**Capacités défensives** [[férocité]]}
+{s:BDTexte|**Faiblesse** [[sensibilité à la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** dague de maître, +6 (1d4+1/19-20)}
 {s:BDTexte|**Distance** fronde, +6 (1d4+1)}
-{s:BDTexte|**Attaques spéciales** [maléfices](./Sorcière.md#MALEFICE) ([dépérissement](./maléfices.md#Dépérissement) (27 m), [mauvais œil](./maléfices.md#Mauvaisœil) (-4, 4 rounds), [malchance](./maléfices.md#Malchance) (2 rounds), [ricanement](./maléfices.md#Ricanement), [sommeil](./maléfices.md#Sommeil) (9 rounds))}
-{s:BDTexte|**Sorts de sorcière préparés** ([NLS](./NLS.md) 9 ; [concentration](./concentration.md) +10)}
-{s:BDSorts|5e – *[brume mortelle](./Brume mortelle.md)* (DD 16)}
-{s:BDSorts|4e – *[cri](./Cri.md)* (DD 15), *[énergie négative](./Énergie négative.md)*}
-{s:BDSorts|3e – *[cri strident](./Cri strident.md)* (DD 14), *[éclair](./Éclair.md)* (DD 14), *[frappe douloureuse](./Frappe douloureuse.md)* (DD 14), *[vol](./Vol.md)*}
-{s:BDSorts|2e – *[cécité/surdité](./Cécitésurdité.md)* (DD 13), *[crâne de sentinelle](./Crâne de sentinelle.md)*, *[flambée de sang](./Flambée de sang.md)*, *[idiotie](./Idiotie.md)*, *[simulacre de vie](./Simulacre de vie.md)*}
-{s:BDSorts|1e – *[agrandissement](./Agrandissement.md)* (DD 12), *[armure de mage](./Armure de mage.md)*, *[contact glacial](./Contact glacial.md)* (DD 12), *[mains brûlantes](./Mains brûlantes.md)* (DD 12), *[rayon affaiblissant](./Rayon affaiblissant.md)* (DD 12)}
-{s:BDSorts|0 (à volonté) – *[détection de la magie](./Détection de la magie.md)*, *[étincelle](./Étincelle (mot de pouvoir).md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[signature magique](./Signature magique.md)*}
+{s:BDTexte|**Attaques spéciales** [[Sorcière#MALEFICE|maléfices]] ([[Maléfices#Dépérissement|dépérissement]] (27 m), [[Maléfices#Mauvaisœil|mauvais œil]] (-4, 4 rounds), [[Maléfices#Malchance|malchance]] (2 rounds), [[Maléfices#Ricanement|ricanement]], [[Maléfices#Sommeil|sommeil]] (9 rounds))}
+{s:BDTexte|**Sorts de sorcière préparés** ([[NLS]] 9 ; [[concentration]] +10)}
+{s:BDSorts|5e – *[[brume mortelle]]* (DD 16)}
+{s:BDSorts|4e – *[[cri]]* (DD 15), *[[énergie négative]]*}
+{s:BDSorts|3e – *[[cri strident]]* (DD 14), *[[éclair]]* (DD 14), *[[frappe douloureuse]]* (DD 14), *[[vol]]*}
+{s:BDSorts|2e – *[[Cécitésurdité|cécité/surdité]]* (DD 13), *[[crâne de sentinelle]]*, *[[flambée de sang]]*, *[[idiotie]]*, *[[simulacre de vie]]*}
+{s:BDSorts|1e – *[[agrandissement]]* (DD 12), *[[armure de mage]]*, *[[contact glacial]]* (DD 12), *[[mains brûlantes]]* (DD 12), *[[rayon affaiblissant]]* (DD 12)}
+{s:BDSorts|0 (à volonté) – *[[détection de la magie]]*, *[[étincelle (mot de pouvoir)|étincelle]]*, *[[lecture de la magie]]*, *[[signature magique]]*}
 {s:BDTexte|**Patron** vengeance}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|**Avant le combat.** Le sorcier docteur lance *[simulacre de vie](./Simulacre de vie.md)* et *[armure de mage](./Armure de mage.md)* sur lui-même avant le combat.}
-{s:BDTexte|**Pendant le combat.** Avant que les ennemis n’atteignent les orques, le sorcier docteur lance *[brume mortelle](./Brume mortelle.md)* sur eux. Puis il lance *[vol](./Vol.md)* sur lui-même afin de pouvoir lancer d’autres sorts et d’utiliser ses [maléfices](./Sorcière.md#MALEFICE) en restant hors d’atteinte de l’allonge au corps à corps des ennemis. Le sorcier docteur passe généralement quelques rounds à affaiblir ses adversaires les plus forts en utilisant *[énergie négative](./Énergie négative.md)* et *[rayon d’épuisement](./Rayon dépuisement.md)*, puis il se met à frapper avec des sorts d’évocation.}
-{s:BDTexte|**Statistiques de base.** Sans *[simulacre de vie](./Simulacre de vie.md)* et *[armure de mage](./Armure de mage.md)*, le sorcier docteur possède les statistiques suivantes : **CA** 13, contact 13, pris au dépourvu 11 ; **pv** 79.}
+{s:BDTexte|**Avant le combat.** Le sorcier docteur lance *[[simulacre de vie]]* et *[[armure de mage]]* sur lui-même avant le combat.}
+{s:BDTexte|**Pendant le combat.** Avant que les ennemis n’atteignent les orques, le sorcier docteur lance *[[brume mortelle]]* sur eux. Puis il lance *[[vol]]* sur lui-même afin de pouvoir lancer d’autres sorts et d’utiliser ses [[Sorcière#MALEFICE|maléfices]] en restant hors d’atteinte de l’allonge au corps à corps des ennemis. Le sorcier docteur passe généralement quelques rounds à affaiblir ses adversaires les plus forts en utilisant *[[énergie négative]]* et *[[rayon dépuisement|rayon d’épuisement]]*, puis il se met à frapper avec des sorts d’évocation.}
+{s:BDTexte|**Statistiques de base.** Sans *[[simulacre de vie]]* et *[[armure de mage]]*, le sorcier docteur possède les statistiques suivantes : **CA** 13, contact 13, pris au dépourvu 11 ; **pv** 79.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 14, **Con** 16, **Int** 12, **Sag** 12, **Cha** 8}
 {s:BDTexte|**BBA** +4, **BMO** +5, **DMD** 18}
-{s:BDTexte|**Dons** [Magie de guerre](./Magie de guerre.md), [Maléfice maudit](./Maléfice maudit.md), [Maléfice supplémentaire](./Maléfice supplémentaire.md), [Robustesse](./Robustesse.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +13, [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +10, [Premiers secours](./Premiers secours.md) +7}
+{s:BDTexte|**Dons** [[Magie de guerre]], [[Maléfice maudit]], [[Maléfice supplémentaire]], [[Robustesse]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +13, [[Intimidation]] +12, [[Perception]] +10, [[Premiers secours]] +7}
 {s:BDTexte|**Langues** commun, orque}
-{s:BDTexte|**Particularités** armes familières, basé sur la Constitution, [bouclier cicatriciel](./Guérisseuse balafrée (sorcière).md) (+4, 9 mn/jour), [cicatrice maléfique](./Guérisseuse balafrée (sorcière).md), [masque fétiche](./Guérisseuse balafrée (sorcière).md)}
-{s:BDTexte|**Équipement de combat** *[potion](./Potions magiques.md) de [soins importants](./Soins importants.md)*, *[baguette](./Baguettes magiques.md) de [rayon d’épuisement](./Rayon dépuisement.md)* (4 charges)
-; **Équipement divers** [dague de maître](./dague (arme).md), [fronde](./fronde (arme).md) avec 20 pierres, *[ceinturon de dextérité du chat +2](./Ceinturon de dextérité du chat.md)*, *[bracelets d’armure +1](./Bracelets darmure.md)*, *[cape de résistance +1](./Cape de résistance.md)*, *[anneau de protection +1](./Anneau de protection.md)*, 98 po}
+{s:BDTexte|**Particularités** armes familières, basé sur la Constitution, [[Guérisseuse balafrée (sorcière)|bouclier cicatriciel]] (+4, 9 mn/jour), [[Guérisseuse balafrée (sorcière)|cicatrice maléfique]], [[Guérisseuse balafrée (sorcière)|masque fétiche]]}
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potion]] de [[soins importants]]*, *[[baguettes magiques|baguette]] de [[rayon dépuisement|rayon d’épuisement]]* (4 charges)
+; **Équipement divers** [[dague (arme)|dague de maître]], [[fronde (arme)|fronde]] avec 20 pierres, *[[ceinturon de dextérité du chat|ceinturon de dextérité du chat +2]]*, *[[bracelets darmure|bracelets d’armure +1]]*, *[[cape de résistance|cape de résistance +1]]*, *[[anneau de protection|anneau de protection +1]]*, 98 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -55,29 +55,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Orque](./Orque.md) || 1/3
+| [[Orque]] || 1/3
 |-
-| [Sergent orque](./Sergent orque.md) || 2
+| [[Sergent orque]] || 2
 |-
-| [Mystique orque](./Mystique orque.md) || 2
+| [[Mystique orque]] || 2
 |-
-| [Brigand orque](./Brigand orque.md) || 3
+| [[Brigand orque]] || 3
 |-
-| [Tambour de guerre orque](./Tambour de guerre orque.md) || 3
+| [[Tambour de guerre orque]] || 3
 |-
-| [Lieutenant orque](./Lieutenant orque.md) || 4
+| [[Lieutenant orque]] || 4
 |-
-| [Éclaireur orque](./Éclaireur orque.md) || 5
+| [[Éclaireur orque]] || 5
 |-
-| [Chevaucheur de gorthek](./Chevaucheur de gorthek.md) || 6
+| [[Chevaucheur de gorthek]] || 6
 |-
-| [Seigneur de guerre orque (barbare)](./Seigneur de guerre orque (barbare).md) || 6
+| [[Seigneur de guerre orque (barbare)]] || 6
 |-
-| [Gorthek](./Gorthek.md) || 7
+| [[Gorthek]] || 7
 |-
-| [Sorcier docteur orque](./Sorcier docteur orque.md) || 8
+| [[Sorcier docteur orque]] || 8
 |-
-| [Seigneur de guerre orque (guerrier)](./Seigneur de guerre orque (guerrier).md) || 9
+| [[Seigneur de guerre orque (guerrier)]] || 9
 |}
 </div> Les lanceurs de sorts profanes des tribus orques sont très
 souvent appelés des sorciers docteurs. Quoique de nombreux

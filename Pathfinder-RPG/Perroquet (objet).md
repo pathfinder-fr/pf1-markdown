@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 50 po ; **Poids** 2 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-On peut dresser ces oiseaux colorés et intelligents à imiter la voix des humanoïdes. Les riches et les habitants des régions tropicales où vivent les perroquets les prennent souvent comme animaux de compagnie. Les perroquets ont les mêmes statistiques que les [corbeaux](./Corbeau.md).
+On peut dresser ces oiseaux colorés et intelligents à imiter la voix des humanoïdes. Les riches et les habitants des régions tropicales où vivent les perroquets les prennent souvent comme animaux de compagnie. Les perroquets ont les mêmes statistiques que les [[Corbeau|corbeaux]].

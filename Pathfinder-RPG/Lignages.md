@@ -6,13 +6,13 @@ Categories:
 - Classe
 ---
 
-{s:MenuClasses}{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#11) Ensorceleur : Les bonus accordés par l’arcane de lignage s’appliquent-ils à tous les sorts lancés par l’ensorceleur, ou uniquement ceux lancés depuis la liste d’ensorceleur ?***
+{s:MenuClasses}{s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#11|→]] Ensorceleur : Les bonus accordés par l’arcane de lignage s’appliquent-ils à tous les sorts lancés par l’ensorceleur, ou uniquement ceux lancés depuis la liste d’ensorceleur ?***
 
-Les pouvoirs de l’<u>[arcane de lignage](./Ensorceleur.md#LIGNAGE)</u> s’appliquent à tous les sorts lancés par les personnages de ce lignage, pas seulement à ceux lancés en utilisant les emplacements de sorts d’ensorceleur.
+Les pouvoirs de l’<u>[[Ensorceleur#LIGNAGE|arcane de lignage]]</u> s’appliquent à tous les sorts lancés par les personnages de ce lignage, pas seulement à ceux lancés en utilisant les emplacements de sorts d’ensorceleur.
 
-Règle générale : Si une capacité de classe modifie le lancement de sorts du personnage, elle s’applique aux sorts de toutes ses classes, pas seulement aux sorts de la classe qui offre la capacité. (L’exception étant si la capacité de classe précise qu’elle ne s’applique qu’aux sorts de cette classe.)}Chaque ensorceleur tire ses pouvoirs magiques d’une source liée à son héritage. Elle lui donne accès à des sorts, des dons supplémentaires, une compétence de classe additionnelle et d’autres capacités spéciales. Cette source peut être un lien de sang ou un événement extrême vécu par un de ses ancêtres. Ainsi, un ensorceleur peut avoir un dragon comme parent éloigné, ou son grand-père peut avoir conclu un contrat infernal avec un diable. Quelle que soit la nature de cette source, son influence se manifeste de diverses manières au cours de l’évolution du personnage. Un ensorceleur doit choisir un [lignage](./Lignages.md) dès qu’il reçoit son premier niveau d’ensorceleur. Ce choix ne peut plus être modifié par la suite.
+Règle générale : Si une capacité de classe modifie le lancement de sorts du personnage, elle s’applique aux sorts de toutes ses classes, pas seulement aux sorts de la classe qui offre la capacité. (L’exception étant si la capacité de classe précise qu’elle ne s’applique qu’aux sorts de cette classe.)}Chaque ensorceleur tire ses pouvoirs magiques d’une source liée à son héritage. Elle lui donne accès à des sorts, des dons supplémentaires, une compétence de classe additionnelle et d’autres capacités spéciales. Cette source peut être un lien de sang ou un événement extrême vécu par un de ses ancêtres. Ainsi, un ensorceleur peut avoir un dragon comme parent éloigné, ou son grand-père peut avoir conclu un contrat infernal avec un diable. Quelle que soit la nature de cette source, son influence se manifeste de diverses manières au cours de l’évolution du personnage. Un ensorceleur doit choisir un [[lignages|lignage]] dès qu’il reçoit son premier niveau d’ensorceleur. Ce choix ne peut plus être modifié par la suite.
 
-Au niveau 3 et tous les deux niveaux suivants, l’ensorceleur apprend un sort supplémentaire associé à son lignage. Ces sorts viennent s’ajouter au nombre de sorts indiqué dans la Table "[Sorts connus par l'ensorceleur](./Ensorceleur.md#SORTSCONNUSDELENSORCELEUR)". L’ensorceleur ne peut pas les remplacer par d’autres sorts par la suite.
+Au niveau 3 et tous les deux niveaux suivants, l’ensorceleur apprend un sort supplémentaire associé à son lignage. Ces sorts viennent s’ajouter au nombre de sorts indiqué dans la Table "[[ensorceleur#SORTSCONNUSDELENSORCELEUR|Sorts connus par l'ensorceleur]]". L’ensorceleur ne peut pas les remplacer par d’autres sorts par la suite.
 
 Au niveau 7 et tous les six niveaux suivants, l’ensorceleur reçoit un don supplémentaire qu’il peut choisir dans une liste dépendant de son lignage. L’ensorceleur doit remplir les conditions du don qu’il choisit.
 
@@ -34,5 +34,5 @@ Au niveau 7 et tous les six niveaux suivants, l’ensorceleur reçoit un don sup
 - <sup>AO</sup> Aventures Occultes.''
 
 #### Source semi-officielle
-- [Pestilence](./lignage Pestilence.md)*
-- [Rakshasa](./lignage Rakshasa.md)* *le lignage rakshasa fait l'objet de deux versions, dont la deuxième est semi-officielle.*
+- [[lignage Pestilence|Pestilence]]*
+- [[lignage Rakshasa|Rakshasa]]* *le lignage rakshasa fait l'objet de deux versions, dont la deuxième est semi-officielle.*

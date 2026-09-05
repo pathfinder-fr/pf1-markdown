@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Substances et objets spéciaux#GRAISSEALCHIMIQUE
 ---
 
->>> [Substances et objets spéciaux#GRAISSEALCHIMIQUE](./Substances-et-objets-spéciaux.md#GRAISSEALCHIMIQUE)
+>>> [[Substances et objets spéciaux#GRAISSEALCHIMIQUE]]

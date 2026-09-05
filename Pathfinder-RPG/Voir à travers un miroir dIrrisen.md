@@ -9,15 +9,15 @@ Categories:
 - Src Citées de Golarion
 ---
 
-{s:CSU|1}**École** [Divination](./école divination.md) ([scrutation](./branche scrutation.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Sor](./Sorcière.md) 3
+{s:CSU|1}**École** [[école Divination|Divination]] ([[branche scrutation|scrutation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Sorcière|Sor]] 3
 **Temps d’incantation** 10 minutes
-**Composantes** [V, G, F](./composantes.md) (un miroir)
+**Composantes** [[composantes|V, G, F]] (un miroir)
 **Portée** voir description
 **Effet** capteur magique
-**Durée** 1 minute/[niveau](./niveau.md)
+**Durée** 1 minute/[[niveau]]
 **Jet de sauvegarde** aucun ; Résistance à la magie non
 
-Grâce à ce sort, quand le personnage regarde dans un miroir proche, il y voit l’image réfléchie par un autre miroir spécifique (de son choix) ou celle d’un individu choisi qui se reflète dans n’importe quel miroir. Cela fonctionne comme un sort de *[scrutation](./scrutation.md)* mais le personnage ne voit que les créatures qui se trouvent sur le même plan que lui. À chaque fois qu’il lance le sort, il peut choisir de voir l’un des trois types de reflets suivants.
+Grâce à ce sort, quand le personnage regarde dans un miroir proche, il y voit l’image réfléchie par un autre miroir spécifique (de son choix) ou celle d’un individu choisi qui se reflète dans n’importe quel miroir. Cela fonctionne comme un sort de *[[scrutation]]* mais le personnage ne voit que les créatures qui se trouvent sur le même plan que lui. À chaque fois qu’il lance le sort, il peut choisir de voir l’un des trois types de reflets suivants.
 - ***Miroir connu.*** Le reflet est celui que l’on voit dans un miroir connu du personnage.
 - ***Personne connue.*** Le reflet est celui d’une personne connue du personnage, à condition qu’elle se reflète dans un miroir à ce moment là.
 - ***Endroit connu.*** Le reflet est celui d’un endroit connu du personnage, à condition qu’il se reflète à ce moment dans un miroir.

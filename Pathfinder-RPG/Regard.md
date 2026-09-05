@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Regard (capacité)
 ---
 
->>> [Regard (capacité)](./Regard (capacité).md)
+>>> [[Regard (capacité)]]

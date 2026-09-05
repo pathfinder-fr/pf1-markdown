@@ -6,4 +6,4 @@ LastModified: 2011-01-09 13:30
 
 {s:MenuTypes}*Source : Bestiaire* p.312
 
-Ces créatures possèdent une vitesse de nage et peuvent se déplacer dans l’eau sans devoir effectuer de tests de [Natation](./Natation.md). Les créatures aquatiques peuvent respirer dans l’eau. Elles ne peuvent cependant pas respirer dans l’air sauf si elles possèdent la particularité « amphibie ». Natation est une compétence de classe pour les créatures aquatiques.
+Ces créatures possèdent une vitesse de nage et peuvent se déplacer dans l’eau sans devoir effectuer de tests de [[Natation]]. Les créatures aquatiques peuvent respirer dans l’eau. Elles ne peuvent cependant pas respirer dans l’air sauf si elles possèdent la particularité « amphibie ». Natation est une compétence de classe pour les créatures aquatiques.

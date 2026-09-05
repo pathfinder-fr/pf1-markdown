@@ -11,18 +11,18 @@ Categories:
 - Sort sorcière 3
 ---
 
-{s:MCA}**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[air](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 4, [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3  
+{s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature ou un objet de taille G au maximum  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) pour dégâts partiels (cf. texte) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]] pour dégâts partiels (cf. texte) ; **Résistance à la magie** oui
 
-Le personnage crée un puissant souffle d’air capable de projeter un adversaire dans les airs. Si la cible rate son jet de [Réflexes](./Réflexes.md), la force de l’air lui inflige 2d6 points de dégâts contondants et la projette dans les airs à une hauteur, en mètres, égale à 1,5 × le niveau du lanceur. Si un objet solide (comme un plafond) arrête la cible dans sa course, celle-ci s’écrase sur l’objet de la même façon qu’elle le ferait au cours d’une chute normale. Quand ce souffle d’air s’arrête, la cible retombe (à moins qu’elle ne soit en mesure de voler) et reçoit les dégâts normaux de la chute. Sur un jet de sauvegarde réussi, la cible ne reçoit que la moitié des dégâts du souffle d’air et celui-ci ne la déplace pas.
+Le personnage crée un puissant souffle d’air capable de projeter un adversaire dans les airs. Si la cible rate son jet de [[Réflexes]], la force de l’air lui inflige 2d6 points de dégâts contondants et la projette dans les airs à une hauteur, en mètres, égale à 1,5 × le niveau du lanceur. Si un objet solide (comme un plafond) arrête la cible dans sa course, celle-ci s’écrase sur l’objet de la même façon qu’elle le ferait au cours d’une chute normale. Quand ce souffle d’air s’arrête, la cible retombe (à moins qu’elle ne soit en mesure de voler) et reçoit les dégâts normaux de la chute. Sur un jet de sauvegarde réussi, la cible ne reçoit que la moitié des dégâts du souffle d’air et celui-ci ne la déplace pas.

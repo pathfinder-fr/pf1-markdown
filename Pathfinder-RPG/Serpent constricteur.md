@@ -13,21 +13,21 @@ Categories:
 {s:pucem|Animal|Marais|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.257}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [odorat](./odorat.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[odorat]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 12 (Dex +3, naturelle +2)}
 {s:BDTexte|**pv** 19 (3d8+6)}
 {s:BDTexte|**Réf** +6, **Vig** +4, **Vol** +2}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c}), nage 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +5 (1d4+4 et [étreinte](./Étreinte.md))}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (1d4+4)}
+{s:BDTexte|**Corps à corps** morsure +5 (1d4+4 et [[étreinte]])}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (1d4+4)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 17, **Con** 12, **Int** 1, **Sag** 12, **Cha** 2}
 {s:BDTexte|**BBA** +2, **BMO** +5 (+9 pour la lutte), **DMD** 18 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +15, [Discrétion](./Discrétion.md) +11, [Escalade](./Escalade.md) +11, [Natation](./Natation.md) +11, [Perception](./Perception.md) +12 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +8, [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Robustesse]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +15, [[Discrétion]] +11, [[Escalade]] +11, [[Natation]] +11, [[Perception]] +12 ; **Modificateurs raciaux** [[Acrobaties]] +8, [[Discrétion]] +4, [[Perception]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts, marais ou eaux douces, climat chaud}
 {s:BDTexte|**Organisation sociale** solitaire ou nid (2-6)}
@@ -40,19 +40,19 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Vipère](./Vipère.md) || 1/2
+| Familier, [[Vipère]] || 1/2
 |-
-| [Anaconda géant](./Anaconda géant.md) || 10
+| [[Anaconda géant]] || 10
 |-
-| [Cobra impérial](./Cobra impérial.md) || 5
+| [[Cobra impérial]] || 5
 |-
-| [Nuée de serpents](./Nuée de serpents.md) || 2
+| [[Nuée de serpents]] || 2
 |-
-| [Nuée de serpents venimeux](./Nuée de serpents venimeux.md) || 4
+| [[Nuée de serpents venimeux]] || 4
 |-
-| [Serpent constricteur](./Serpent constricteur.md) || 2
+| [[Serpent constricteur]] || 2
 |-
-| [Serpent venimeux](./Serpent venimeux.md) || 1
+| [[Serpent venimeux]] || 1
 |}
 </div>''Ce grand serpent possède un corps épais et musclé décoré d’écailles vert
 pâle tachetées de points brun foncé.''
@@ -86,7 +86,7 @@ TG à 14 DV (FP 10).
 
 #### Le serpent constricteur comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 6 m (4 {s:c}), escalade 6 m (4 {s:c}), nage 6 m (4 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d3) ; **Attaque spéciale** [étreinte](./Étreinte.md) ; **Caractéristiques** For 15, Dex 17, Con 13, Int 1, Sag 12, Cha 2 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 6 m (4 {s:c}), escalade 6 m (4 {s:c}), nage 6 m (4 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d3) ; **Attaque spéciale** [[étreinte]] ; **Caractéristiques** For 15, Dex 17, Con 13, Int 1, Sag 12, Cha 2 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 4.** **Taille** G; **CA** armure naturelle +1 ; **Attaque** morsure (1d4) ; **Attaque spéciale** [constriction](./constriction.md) (1d4) ; **Caractéristiques** For +8, Dex -2, Con +4.
+**Développement au niveau 4.** **Taille** G; **CA** armure naturelle +1 ; **Attaque** morsure (1d4) ; **Attaque spéciale** [[constriction]] (1d4) ; **Caractéristiques** For +8, Dex -2, Con +4.
 </div></td></tr></table>

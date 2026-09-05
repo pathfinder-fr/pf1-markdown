@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*L’anonymat du personnage le rend très difficile à repérer, que ce soit par magie ou par des moyens ordinaires, et il a appris comment combattre ses deux races génitrices.*
 
-**Conditions.** [Voie de l’exilé](./Voie de lexilé.md), personnage de niveau 5, [demi-elfe](./Demi-elfe.md).
+**Conditions.** [[Voie de lexilé|Voie de l’exilé]], personnage de niveau 5, [[demi-elfe]].
 
-**Avantages.** Le personnage gagne un bonus de +2 à tous les [jets de sauvegarde](./JDS.md) contre les effets de scrutation et de [divination](./Divination.md). De plus, il gagne un bonus de +2 à tous les tests de [Discrétion](./Discrétion.md) et les [elfes](./Elfe.md), les [demi-elfes](./Demi-elfe.md) et les [humains](./Humain.md) subissent un malus de -4 quand ils tentent de suivre sa piste avec la compétence [Survie](./Survie.md).
+**Avantages.** Le personnage gagne un bonus de +2 à tous les [[jds|jets de sauvegarde]] contre les effets de scrutation et de [[divination]]. De plus, il gagne un bonus de +2 à tous les tests de [[Discrétion]] et les [[elfe|elfes]], les [[demi-elfe|demi-elfes]] et les [[humain|humains]] subissent un malus de -4 quand ils tentent de suivre sa piste avec la compétence [[Survie]].

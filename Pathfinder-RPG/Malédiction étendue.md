@@ -9,7 +9,7 @@ Categories:
 
 {s:MR}*La malédiction du halfelin peut affecter des créatures situées plus loin que la normale.*
 
-**Conditions.** Trait [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7)
+**Conditions.** Trait [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]
 
 **Avantage.** La portée de la malédiction du halfelin augmente de 9 mètres.
 

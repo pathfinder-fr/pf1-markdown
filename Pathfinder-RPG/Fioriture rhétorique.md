@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Fioritures rhétoriques
 ---
 
->>> [Pathfinder-RPG.Fioritures rhétoriques](./Fioritures rhétoriques.md)
+>>> [[Pathfinder-RPG.Fioritures rhétoriques]]

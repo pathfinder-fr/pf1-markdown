@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armes à feu#ENRAYEMENT
 ---
 
->>> [Armes à feu#ENRAYEMENT](./Armes à feu.md#ENRAYEMENT)
+>>> [[Armes à feu#ENRAYEMENT]]

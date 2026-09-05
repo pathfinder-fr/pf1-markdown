@@ -6,9 +6,9 @@ LastModified: 2024-05-31 10:26
 
 <div class="BD">
 {s:BDTitre|Pantoufles de démarche aérienne|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3  ; **Emplacement** [pieds](./Objets merveilleux portés aux pieds.md) ; **Prix** 2 000 po ; **Poids** 0.5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 3  ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 2 000 po ; **Poids** 0.5 kg
 (((Description)))
-Une fois par jour pendant 10 minutes, ces pantoufles de soie légère permettent à leur porteur d’ignorer les effets négatifs des [terrains difficiles](./Déplacement et position.md#TERRAINDIFFICILE) quand ils impactent le déplacement, comme s’il était sous l’effet d’un sort de *[démarche aérienne](./Démarche aérienne.md)*. Il peut également effectuer des [pas de placement](./Actions diverses.md#PASDEPLACEMENT) sur ce type de terrains.
+Une fois par jour pendant 10 minutes, ces pantoufles de soie légère permettent à leur porteur d’ignorer les effets négatifs des [[Déplacement et position#TERRAINDIFFICILE|terrains difficiles]] quand ils impactent le déplacement, comme s’il était sous l’effet d’un sort de *[[démarche aérienne]]*. Il peut également effectuer des [[Actions diverses#PASDEPLACEMENT|pas de placement]] sur ce type de terrains.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[démarche aérienne](./Démarche aérienne.md)* ; **Coût** 1 000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[démarche aérienne]]* ; **Coût** 1 000 po
 </div>

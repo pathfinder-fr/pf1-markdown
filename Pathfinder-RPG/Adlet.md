@@ -14,29 +14,29 @@ Categories:
 {s:pucem|Humanoïde|Plaines|Froid}
 {s:BDTexte|*Source : Bestiaire 3 page 8*}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([Adlet](./sous-type adlet.md), [Froid](./sous-type froid.md)) de taille M, CN}
-{s:BDTexte|**Init** +12 ; **Sens** [vision nocturne](./vision nocturne.md) ; [odorat](./odorat.md) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type Adlet|Adlet]], [[sous-type Froid|Froid]]) de taille M, CN}
+{s:BDTexte|**Init** +12 ; **Sens** [[vision nocturne]] ; [[odorat]] ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 19, pris au dépourvu 15 (Dex +8, esquive +1, naturelle +5)}
 {s:BDTexte|**pv** 125 (15d8+60)}
 {s:BDTexte|**Réf** +17, **Vig** +9, **Vol** +8}
 {s:BDTexte|**Immunité** froid}
-{s:BDTexte|**Faiblesse ** [vulnérabilité](./Vulnérabilités.md) au feu}
+{s:BDTexte|**Faiblesse ** [[Vulnérabilités|vulnérabilité]] au feu}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** lance +1, +17/+12/+7 (1d8+7/×3) et morsure, +10 (1d6+2 plus 1d6 froid)}
 {s:BDTexte|**Attaque spéciale** souffle glacé}
 {s:BDTexte|**Pouvoirs magiques** (NLS 10 ; concentration +11)}
-{s:BDSorts|Constant — *[passage sans trace](./passage sans trace.md)*}
-{s:BDSorts|À volonté — *[rayon de givre](./Rayon de givre.md)*}
-{s:BDSorts|3/jour — *[nappe de brouillard](./Nappe de brouillard.md)*, *[tempête de neige](./Tempête de neige.md)*}
-{s:BDSorts|1/jour — *[tempête de grêle](./Tempête de grêle.md)*, *[vent divin](./Vent divin.md)* (sur lui-même uniquement)}
+{s:BDSorts|Constant — *[[passage sans trace]]*}
+{s:BDSorts|À volonté — *[[rayon de givre]]*}
+{s:BDSorts|3/jour — *[[nappe de brouillard]]*, *[[tempête de neige]]*}
+{s:BDSorts|1/jour — *[[tempête de grêle]]*, *[[vent divin]]* (sur lui-même uniquement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 26, **Con** 18, **Int** 13, **Sag** 17, **Cha** 13}
 {s:BDTexte|**BBA** +11, **BMO** +15, **DMD** 35}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (lance), [Attaque en puissance](./Attaque en puissance.md), [Autonome](./Autonome.md), [Course](./Course.md), [Dur à cuire](./Dur à cuire.md), [Esquive](./Esquive.md), [Endurance](./Endurance.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +13 (+17 pour le saut), [Discrétion](./Discrétion.md) +13 (+21 dans la neige), [Dressage](./Dressage.md) +9, [Escalade](./Escalade.md) +12, [Natation](./Natation.md) +9, [Perception](./Perception.md) +13, [Premiers secours](./Premiers secours.md) +5, [Survie](./Survie.md) +20}
-{s:BDTexte|**Modificateur racial** +8 en [Discrétion](./Discrétion.md) dans la neige}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (lance), [[Attaque en puissance]], [[Autonome]], [[Course]], [[Dur à cuire]], [[Esquive]], [[Endurance]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +13 (+17 pour le saut), [[Discrétion]] +13 (+21 dans la neige), [[Dressage]] +9, [[Escalade]] +12, [[Natation]] +9, [[Perception]] +13, [[Premiers secours]] +5, [[Survie]] +20}
+{s:BDTexte|**Modificateur racial** +8 en [[Discrétion]] dans la neige}
 {s:BDTexte|**Langues** commun, adlet}
 {s:BDTexte|**Particularités** déplacement facilité (arctique)}
 {s:BDSousTitre|Écologie}
@@ -45,7 +45,7 @@ Categories:
 {s:BDTexte|**Trésor** standard (lance +1, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Déplacement facilité (arctique) (Ext).** L’adlet peut se déplacer sur les terrains difficiles à sa vitesse normale tant qu’il est sur un terrain arctique ou neigeux. Les terrains altérés magiquement affectent normalement l’adlet.}
-{s:BDTexte|**Souffle glacé (Sur).** Le souffle d’un adlet est exceptionnellement froid et inflige 1d6 points de dégâts de froid lorsqu’il mord. Une fois tous les 1d4 rounds, par une action rapide, l’adlet peut exhaler son souffle, emplissant une zone de 1,50 m de rayon d’un air glacial qui inflige 2d6 points de dégâts de froid qui engourdissent toutes les créatures de la zone et les rend [chancelante](./Chancelant.md) pendant 1d6 rounds. Un jet de [Vigueur](./Vigueur.md) de DD 21 annule le chancellement, mais pas les dégâts de froid. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Souffle glacé (Sur).** Le souffle d’un adlet est exceptionnellement froid et inflige 1d6 points de dégâts de froid lorsqu’il mord. Une fois tous les 1d4 rounds, par une action rapide, l’adlet peut exhaler son souffle, emplissant une zone de 1,50 m de rayon d’un air glacial qui inflige 2d6 points de dégâts de froid qui engourdissent toutes les créatures de la zone et les rend [[Chancelant|chancelante]] pendant 1d6 rounds. Un jet de [[Vigueur]] de DD 21 annule le chancellement, mais pas les dégâts de froid. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div>
 </td><td><div>

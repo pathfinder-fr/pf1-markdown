@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#BUVEURPRODIGIEUX
 ---
 
->>> [pouvoirs de rage#BUVEURPRODIGIEUX](./Pouvoirs de rage.md#BUVEURPRODIGIEUX)
+>>> [[pouvoirs de rage#BUVEURPRODIGIEUX]]

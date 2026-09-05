@@ -18,6 +18,6 @@ Au niveau 6 puis tous les 3 niveaux, le sanguin reçoit un don supplémentaire i
 
 Aux niveaux 7, 10, 13 et 16, le sanguin apprend un nouveau sort dépendant de son lignage. Il s’ajoute au nombre de sorts indiqués dans la table 1-11. Il ne peut pas échanger ces sorts contre d’autres quand il gagne des niveaux.
 
-Si le sanguin prend des niveaux dans une autre classe donnant accès à un lignage, ce dernier doit être le même que celui du sanguin, même si cela oblige à changer un lignage. Si le [MJ](./MJ.md) accepte, le sanguin peut changer son ancien lignage pour le rendre conforme au nouveau.
+Si le sanguin prend des niveaux dans une autre classe donnant accès à un lignage, ce dernier doit être le même que celui du sanguin, même si cela oblige à changer un lignage. Si le [[MJ]] accepte, le sanguin peut changer son ancien lignage pour le rendre conforme au nouveau.
 
-Quand un sanguin déchaîne sa [rage sanguine](./Sanguin.md#RAGESANGUINE), il subit souvent une transformation physique reflétant son lignage et alimentée par la magie qui bouillonne en lui. Sauf indication contraire, il bénéficie des effets de ses pouvoirs de lignage seulement quand il est enragé. Ses pouvoirs de lignage disparaissent dès qu’il met fin à la rage. Toute modification physique disparaît et il reprend son apparence ordinaire.
+Quand un sanguin déchaîne sa [[Sanguin#RAGESANGUINE|rage sanguine]], il subit souvent une transformation physique reflétant son lignage et alimentée par la magie qui bouillonne en lui. Sauf indication contraire, il bénéficie des effets de ses pouvoirs de lignage seulement quand il est enragé. Ses pouvoirs de lignage disparaissent dès qu’il met fin à la rage. Toute modification physique disparaît et il reprend son apparence ordinaire.

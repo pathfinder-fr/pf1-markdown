@@ -10,8 +10,8 @@ Categories:
 
 {s:mca} *Le personnage apprend une nouvelle manière d’utiliser son entraînement et son inspiration.*
 
-**Conditions.** Pouvoir de classe [talent d’enquêteur](./Enquêteur.md#TALENT).
+**Conditions.** Pouvoir de classe [[enquêteur#TALENT|talent d’enquêteur]].
 
-**Avantage**. Le personnage gagne un [talent d’enquêteur](./Enquêteur.md#TALENT) supplémentaire. Il doit remplir les conditions requises pour ce talent.
+**Avantage**. Le personnage gagne un [[enquêteur#TALENT|talent d’enquêteur]] supplémentaire. Il doit remplir les conditions requises pour ce talent.
 
-**Spécial.** Le personnage peut prendre ce don plusieurs fois, gagnant à chaque fois un nouveau [talent d’enquêteur](./Enquêteur.md#TALENT).
+**Spécial.** Le personnage peut prendre ce don plusieurs fois, gagnant à chaque fois un nouveau [[enquêteur#TALENT|talent d’enquêteur]].

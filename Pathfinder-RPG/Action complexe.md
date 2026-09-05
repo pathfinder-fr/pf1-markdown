@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Types dactions#COMPLEXE
 ---
 
->>> [Types dactions#COMPLEXE](./Types dactions.md#COMPLEXE)
+>>> [[Types dactions#COMPLEXE]]

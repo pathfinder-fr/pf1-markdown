@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.55*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision aveugle](./vision aveugle.md) 36 m (24 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision aveugle]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)}
 {s:BDTexte|**pv** 11 (2d8+2)}
@@ -25,15 +25,15 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 15, **Con** 13, **Int** 2, **Sag** 13, **Cha** 6}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 14}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +13, [Perception](./Perception.md) +9 ; **Modificateurs raciaux** [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Natation]] +13, [[Perception]] +9 ; **Modificateurs raciaux** [[Perception]] +4}
 {s:BDTexte|**Particularités** retenir son souffle}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou banc (3-18)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Retenir son souffle (Ext)** Un dauphin peut retenir sa respiration pendant un nombre de minutes égal à 6 fois sa valeur de [Constitution](./Constitution.md) avant de risquer de se noyer.}
+{s:BDTexte|**Retenir son souffle (Ext)** Un dauphin peut retenir sa respiration pendant un nombre de minutes égal à 6 fois sa valeur de [[Constitution]] avant de risquer de se noyer.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -41,9 +41,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Dauphin](./Dauphin.md) || 1/2
+| [[Dauphin]] || 1/2
 |-
-| [Orque épaulard](./Orque épaulard.md) || 5
+| [[Orque épaulard]] || 5
 |}
 </div>*Ce mammifère aquatique aux formes aérodynamiques a des yeux brillants et une bouche souriante remplie de centaines de dents.*
 
@@ -52,10 +52,10 @@ grands groupes familiaux et chassent dans les mers peu profondes
 et les rivières. Les marins apprécient généralement les dauphins
 et connaissent de nombreuses histoires racontant comment
 des dauphins ont sauvé des pêcheurs de la noyade ou ont tué des
-[requins](./Requin.md) en leur infligeant de puissants coups de museau.
+[[Requin|requins]] en leur infligeant de puissants coups de museau.
 
 #### Le dauphin comme compagnon animal
-**Caractéristiques de départ** **Taille** M ; **Vitesse** nage 24 m (16 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** coup (1d4) ; **Caractéristiques** For 12, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** retenir son souffle, [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ** **Taille** M ; **Vitesse** nage 24 m (16 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** coup (1d4) ; **Caractéristiques** For 12, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** retenir son souffle, [[vision nocturne]].
 
-**Développement au niveau 4** **Caractéristiques** For +2, Dex +2, Con +2 ; **Particularités** [vision aveugle](./vision aveugle.md) 36 m (24 {s:c}).
+**Développement au niveau 4** **Caractéristiques** For +2, Dex +2, Con +2 ; **Particularités** [[vision aveugle]] 36 m (24 {s:c}).
 </div></td></tr></table>

@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Interlocuteur
 ---
 
->>> [Interlocuteur](./Interlocuteur.md)
+>>> [[Interlocuteur]]

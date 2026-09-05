@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 8 po ; **Poids** 3,5 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:AE}**Prix** 8 po ; **Poids** 3,5 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
-Cette tenue est prévue pour les excursions en montagne et pour les voyages ou la chasse dans les environnements gelés. Elle comprend un manteau en laine ou en épaisse fourrure animale, une chemise en lin, une casquette en laine, une cape épaisse, une jupe ou un pantalon épais et des bottes en cuir imperméables. Dans certaines régions, cette tenue peut se composer essentiellement de fourrure et de peaux animales. Elle accorde un bonus de circonstances de +5 aux jets de [Vigueur](./Vigueur.md) contre l’exposition au froid.
+Cette tenue est prévue pour les excursions en montagne et pour les voyages ou la chasse dans les environnements gelés. Elle comprend un manteau en laine ou en épaisse fourrure animale, une chemise en lin, une casquette en laine, une cape épaisse, une jupe ou un pantalon épais et des bottes en cuir imperméables. Dans certaines régions, cette tenue peut se composer essentiellement de fourrure et de peaux animales. Elle accorde un bonus de circonstances de +5 aux jets de [[Vigueur]] contre l’exposition au froid.

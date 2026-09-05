@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#PICDEFORCE
 ---
 
->>> [pouvoirs de rage#PICDEFORCE](./Pouvoirs de rage.md#PICDEFORCE)
+>>> [[pouvoirs de rage#PICDEFORCE]]

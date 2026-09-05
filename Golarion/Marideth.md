@@ -4,4 +4,4 @@ Title: Marideth
 LastModified: 2010-02-07 23:00
 ---
 
-Cette rivière délimite la frontière sud du [Nirmathas](./Nirmathas.md). Elle finit sa course dans le lac d'[Encarthan](./Encarthan.md).
+Cette rivière délimite la frontière sud du [[Nirmathas]]. Elle finit sa course dans le lac d'[[Encarthan]].

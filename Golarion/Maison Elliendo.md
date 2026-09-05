@@ -8,12 +8,12 @@ Categories:
 - Organisation
 ---
 
-{s:Organisation|Maison Elliendo|House Elliendo|-|-|[Chéliax](./Chéliax.md)|Inconnu|Ivo Elliendo|Maison noble|Nationale|-}La Maison Elliendo est l'une des familles nobles les plus influentes du [Chéliax](./Chéliax.md) actuel.
+{s:Organisation|Maison Elliendo|House Elliendo|-|-|[[Chéliax]]|Inconnu|Ivo Elliendo|Maison noble|Nationale|-}La Maison Elliendo est l'une des familles nobles les plus influentes du [[Chéliax]] actuel.
 
-Son membre le plus réputé est Ivo Elliendo. Il appartient à l'ordre de [Chevaliers Infernaux](./Chevaliers Infernaux.md) du [Fléau](./Ordre du Fléau.md) et commandeur des [Chevaliers infernaux](./Chevaliers Infernaux.md) d'[Egorian](./Egorian.md), capitale du [Chéliax](./Chéliax.md).
+Son membre le plus réputé est Ivo Elliendo. Il appartient à l'ordre de [[Chevaliers Infernaux]] du [[Ordre du Fléau|Fléau]] et commandeur des [[Chevaliers infernaux]] d'[[Egorian]], capitale du [[Chéliax]].
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur la Maison Elliendo dans les suppléments
-- [Pathfinder Chronicles: Gazetteer/Atlas](./Publications.md#GAZETTEER)
-- [Pathfinder Companion: Cheliax, Empire of Devils](./Publications.md#COMPANIONCHELIAX)
+- [[Publications#GAZETTEER|Pathfinder Chronicles: Gazetteer/Atlas]]
+- [[Publications#COMPANIONCHELIAX|Pathfinder Companion: Cheliax, Empire of Devils]]
 {s:VoirAussiAprès}

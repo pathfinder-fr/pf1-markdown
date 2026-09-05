@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Glossaire Mythique#VOIEMYTHIQUE
 ---
 
->>> [Glossaire Mythique#VOIEMYTHIQUE](./Glossaire Mythique.md#VOIEMYTHIQUE)
+>>> [[Glossaire Mythique#VOIEMYTHIQUE]]

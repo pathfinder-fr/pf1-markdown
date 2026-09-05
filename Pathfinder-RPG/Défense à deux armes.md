@@ -9,17 +9,17 @@ Categories:
 
 *Le personnage sait se défendre avec deux armes.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Combat à deux armes](./Combat à deux armes.md)
+**Conditions.** [[Combat à deux armes]]
 
-**Avantages.** Quand le personnage manie une [arme double](./arme double.md) ou deux armes (sans compter les [armes naturelles](./arme naturelle.md) et les attaques à mains nues), il gagne un bonus de bouclier de +1 à la [CA](./CA.md).
+**Avantages.** Quand le personnage manie une [[arme double]] ou deux armes (sans compter les [[arme naturelle|armes naturelles]] et les attaques à mains nues), il gagne un bonus de bouclier de +1 à la [[CA]].
 
-Quand il se bat sur la [défensive](./combat sur la défensive.md) ou qu’il se met en [défense totale](./défense totale.md), ce bonus de bouclier passe à +2.
+Quand il se bat sur la [[combat sur la défensive|défensive]] ou qu’il se met en [[défense totale]], ce bonus de bouclier passe à +2.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Une fois par [round](./round.md), le personnage peut dépenser 2 points d’endurance pour doubler le bonus conféré par ce don jusqu’au début de son prochain tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Une fois par [[round]], le personnage peut dépenser 2 points d’endurance pour doubler le bonus conféré par ce don jusqu’au début de son prochain tour.
 
 {s:CMy}
 ### Version mythique

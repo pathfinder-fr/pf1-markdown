@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Dru](./Druide.md) 5, [Rôd](./Rôdeur.md) 4  
+**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Druide|Dru]] 5, [[Rôdeur|Rôd]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Quand le personnage lance ce sort sur une créature, sa peau devient glissante et écailleuse et se régénère à chaque round. Tant que la créature est sous l'effet du sort, elle bénéficie d'une [guérison accélérée](./guérison accélérée.md) 5, d'une [résistance](./RD.md) au feu 20 et d'un bonus de compétence de 2 aux [manœuvres de défense](./DMD.md).
+Quand le personnage lance ce sort sur une créature, sa peau devient glissante et écailleuse et se régénère à chaque round. Tant que la créature est sous l'effet du sort, elle bénéficie d'une [[guérison accélérée]] 5, d'une [[RD|résistance]] au feu 20 et d'un bonus de compétence de 2 aux [[DMD|manœuvres de défense]].

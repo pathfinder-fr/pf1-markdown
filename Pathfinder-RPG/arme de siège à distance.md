@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Engins de siège à distance#ARMEDESIEGEADISTANCE
 ---
 
->>> [Engins de siège à distance#ARMEDESIEGEADISTANCE](./Engins-de-siège-à-distance.md#ARMEDESIEGEADISTANCE)
+>>> [[Engins de siège à distance#ARMEDESIEGEADISTANCE]]

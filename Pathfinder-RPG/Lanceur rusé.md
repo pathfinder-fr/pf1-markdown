@@ -10,19 +10,19 @@ LastModified: 2019-01-27 14:40
 
 *Que vous soyez un contrebandier ou un voleur, vous avez appris à utiliser le détournement et la prestidigitation pour dissimuler vos propres pouvoirs magiques*
 
-**Condition:** [Fourberie](./Fourberie.md), capacité de lancer des sorts de niveau 1.
+**Condition:** [[Fourberie]], capacité de lancer des sorts de niveau 1.
 
-**Avantage:** Lorsque vous lancez un sort, vous pouvez tenter un jet de [Bluff](./Bluff.md) (opposé aux jets de [Perception](./Perception.md) des observateurs) pour dissimuler vos actions des spectateurs.
+**Avantage:** Lorsque vous lancez un sort, vous pouvez tenter un jet de [[Bluff]] (opposé aux jets de [[Perception]] des observateurs) pour dissimuler vos actions des spectateurs.
 
-Si le sort nécessite des [composantes matérielles](./composantes.md), vous subissez un malus de -4 à votre jet de [Bluff](./Bluff.md).
+Si le sort nécessite des [[composantes|composantes matérielles]], vous subissez un malus de -4 à votre jet de [[Bluff]].
 
-Si le sort nécessite des [composantes gestuelles](./composantes.md), vous subissez un malus de -4 à votre jet de [Bluff](./Bluff.md).
+Si le sort nécessite des [[composantes|composantes gestuelles]], vous subissez un malus de -4 à votre jet de [[Bluff]].
 
-Si le sort nécessite des [composantes verbales](./composantes.md), vous subissez un malus de -4 au jet de [Bluff](./Bluff.md).
+Si le sort nécessite des [[composantes|composantes verbales]], vous subissez un malus de -4 au jet de [[Bluff]].
 
-Si le sort nécessite un [focaliseur](./composantes.md) ou un [focaliseur divin](./composantes.md) vous subissez un malus de -4 à votre jet de [Bluff](./Bluff.md).
+Si le sort nécessite un [[composantes|focaliseur]] ou un [[composantes|focaliseur divin]] vous subissez un malus de -4 à votre jet de [[Bluff]].
 
-Si le sort produit un effet évident (comme une créature invoquée ou un effet de sort visible), vous subissez un malus de -4 à votre jet de [Bluff](./Bluff.md) et, même si le jet est réussi, les observateurs voient toujours l'effet du sort (même s'ils n'arrivent pas à deviner que vous en êtes le responsable).
+Si le sort produit un effet évident (comme une créature invoquée ou un effet de sort visible), vous subissez un malus de -4 à votre jet de [[Bluff]] et, même si le jet est réussi, les observateurs voient toujours l'effet du sort (même s'ils n'arrivent pas à deviner que vous en êtes le responsable).
 
 Toutes les pénalités se cumulent.
 

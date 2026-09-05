@@ -8,11 +8,11 @@ Categories:
 - Terres Humides
 ---
 
-L'Oeil d'Abendego est un ouragan permanent et vicieux situé dans le sud de l'[océan Arcadien](./océan Arcadien.md), à l'ouest des côtes du [Garund](./Garund.md) (à l'ouest des [Terres Humides](./Terres humides.md) et au nord des [Entraves](./Entraves.md)). Il est apparu il y a un siècle, au début de l'[Âge des Présages Perdus](./Histoire.md) après la tempête de trois semaine qui suivit la mort d'[Aroden](./Aroden.md). Il reste depuis la preuve physique la plus grande de cet évènement. Le cyclone est utilisé très efficacement par les seigneurs pirates des [Entraves](./Entraves.md) qui peuvent masquer en son sein leurs activités illégales.
+L'Oeil d'Abendego est un ouragan permanent et vicieux situé dans le sud de l'[[océan Arcadien]], à l'ouest des côtes du [[Garund]] (à l'ouest des [[Terres Humides]] et au nord des [[Entraves]]). Il est apparu il y a un siècle, au début de l'[[histoire|Âge des Présages Perdus]] après la tempête de trois semaine qui suivit la mort d'[[Aroden]]. Il reste depuis la preuve physique la plus grande de cet évènement. Le cyclone est utilisé très efficacement par les seigneurs pirates des [[Entraves]] qui peuvent masquer en son sein leurs activités illégales.
 
-L'Œil d'Abendego varie en intensité. Dans ses périodes de faible activité, il peut arracher les voiles des plus gros navires alors que dans ses périodes de fortes activité, le vent seul peut faire voler en éclat les plus grands vaisseaux. Périodiquement, des tempêtes venues du coeur de l'Oeil atteignent les côtes du [Garund](./Garund.md), apportant avec eux des pluies torrentielles et des vents très violents. Se sont ces tempêtes qui ont submergé le Lirgen et le Yamasa, créant par là même les [Terres Humides](./Terres humides.md).
+L'Œil d'Abendego varie en intensité. Dans ses périodes de faible activité, il peut arracher les voiles des plus gros navires alors que dans ses périodes de fortes activité, le vent seul peut faire voler en éclat les plus grands vaisseaux. Périodiquement, des tempêtes venues du coeur de l'Oeil atteignent les côtes du [[Garund]], apportant avec eux des pluies torrentielles et des vents très violents. Se sont ces tempêtes qui ont submergé le Lirgen et le Yamasa, créant par là même les [[Terres Humides]].
 
-Un petit groupe d'adorateurs de [Gozreh](./Gozreh.md), connus sous le nome d'Attiseurs de Tempêtes, croient que l'Oeil est une manifestation de leur dieu.
+Un petit groupe d'adorateurs de [[Gozreh]], connus sous le nome d'Attiseurs de Tempêtes, croient que l'Oeil est une manifestation de leur dieu.
 
 **AFFRONTER L'OEIL**
 

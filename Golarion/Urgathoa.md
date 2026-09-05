@@ -22,7 +22,7 @@ Urgathoa est profondément hédoniste, dépravée et dépourvue de toute moralit
 
 ### Émissaires
 
-On compte beaucoup de morts-vivants et de nécromanciens parmi ses adorateurs. Ceux qui souhaitent devenir morts-vivants recherchent aussi ses faveurs, de même que les malades de la peste qui veulent soulager leurs souffrances (bien que la plupart préfèrent se tourner vers [Sarenrae](./Sarenrae.md)), ou les puissants qui désirent se goinfrer encore plus de nourriture ou multiplier les plaisirs physiques.{br}
+On compte beaucoup de morts-vivants et de nécromanciens parmi ses adorateurs. Ceux qui souhaitent devenir morts-vivants recherchent aussi ses faveurs, de même que les malades de la peste qui veulent soulager leurs souffrances (bien que la plupart préfèrent se tourner vers [[Sarenrae]]), ou les puissants qui désirent se goinfrer encore plus de nourriture ou multiplier les plaisirs physiques.{br}
 Urgathoa récompense parfois certaines de ses prêtresses qui l'ont bien servie en les transformant en hideuses créatures morts-vivants nommées les filles d'Urgathoa.
 
 ### Doctrine
@@ -33,15 +33,15 @@ Les rituels pratiqués requièrent la présence de nourriture et de morts-vivant
 
 ### Temples
 
-La plupart du clergé d'Urgathoa mène ses activités en cachette sauf dans les pays contrôlés par les morts-vivants comme [Geb](./Geb.md).{br}
+La plupart du clergé d'Urgathoa mène ses activités en cachette sauf dans les pays contrôlés par les morts-vivants comme [[Geb]].{br}
 Comme beaucoup de cultes maléfiques, l'église d'Urgathoa est composée de petits groupes diffus. Ses temples ressemblent à des salles pour banquets où une grande table centrale entourée de chaises fait office d'autel. Ceux-ci sont souvent situés à côté d'un cimetière ou au-dessus d'une crypte habitée par des goules (qui personnifient les trois thèmes de la déesse).{br}
 ### Textes sacrés
 
 Il se nomme : Pour assouvir votre faim.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [cinquième volume](./../Aventures/Présentation AP8.md#AP8-5) de la huitième campagne, [La Couronne Putréfiée](./../Aventures/Présentation AP8.md), contient un article sur ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP8#AP8-5|cinquième volume]] de la huitième campagne, [[Aventures.Présentation AP8|La Couronne Putréfiée]], contient un article sur ce dieu.
 {s:VoirAussiAprès}

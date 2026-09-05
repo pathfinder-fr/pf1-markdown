@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions modifiant linitiative#RETARDER
 ---
 
->>> [Actions modifiant linitiative#RETARDER](./Actions modifiant linitiative.md#RETARDER)
+>>> [[Actions modifiant linitiative#RETARDER]]

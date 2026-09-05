@@ -11,6 +11,6 @@ Categories:
 
 {s:uc}*Le personnage soutient ses alliés et les aide à se débarrasser des effets gênants. *
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Avantage.** Quand le personnage est adjacent à un ou plusieurs alliés qui disposent aussi de ce don, il gagne un bonus de +1 aux [jets de sauvegarde](./jet de sauvegarde.md) pour chaque allié présent (+4 au maximum).
+**Avantage.** Quand le personnage est adjacent à un ou plusieurs alliés qui disposent aussi de ce don, il gagne un bonus de +1 aux [[jet de sauvegarde|jets de sauvegarde]] pour chaque allié présent (+4 au maximum).

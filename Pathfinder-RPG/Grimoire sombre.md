@@ -4,13 +4,13 @@ Title: Grimoire sombre (artefact mineur)
 LastModified: 2021-07-28 22:25
 ---
 
-<div style="float:right">***Retour aux [Artefacts mineurs|artefacts mineurs].***</div><div class="BD">
+<div style="float:right">***Retour aux [[Artefacts mineurs]].***</div><div class="BD">
 {s:BDTitre|Grimoire sombre|}
 **Aura** Toutes les écoles puissante ; **NLS** 20 ; **Emplacement** aucun ; **Poids** 3kg
 (((Description)))
-Ce lourd grimoire est relié en cuir et à des fermoir en métal à l'air vilain. Le grimoire sombre est un texte substantiel de presque 1000 pages de long. Ses pages contiennent des sorts bons et des sorts mauvais, même si la majorité n'est liée à aucun [alignement](./Alignement.md). Il contient aussi un bon nombre de créatures du mythe du Grand Ancien ([Cthulhu](./Cthulhu.md)) et les sorts pour les invoquer.
+Ce lourd grimoire est relié en cuir et à des fermoir en métal à l'air vilain. Le grimoire sombre est un texte substantiel de presque 1000 pages de long. Ses pages contiennent des sorts bons et des sorts mauvais, même si la majorité n'est liée à aucun [[alignement]]. Il contient aussi un bon nombre de créatures du mythe du Grand Ancien ([[Cthulhu]]) et les sorts pour les invoquer.
 
-Le simple acte de lire le texte est dangereux. Pour chaque heure passée à lire le livre, il y a une chance de 2% que le lecteur trouve quelque chose de trop puissant pour des esprits mortels et devienne fou (comme pour [aliénation mentale](./Aliénation mentale.md)). un [jet de sauvegarde](./jet de sauvegarde.md) de volonté DD25 réussi annule la folie, mais à chaque fois que ce jet est réussi, le [DD](./DD.md) du prochain [jet de sauvegarde](./jet de sauvegarde.md) contre la folie provenant du grimoire sombre augmente de 5, et cette augmentation s'additionne aux précédentes augmentations. Contrairement à un sort d'[aliénation mentale](./Aliénation mentale.md), seulement un [souhait](./Souhait.md) ou un [miracle](./Miracle.md) peut supprimer la folie causée par le grimoire sombre.
+Le simple acte de lire le texte est dangereux. Pour chaque heure passée à lire le livre, il y a une chance de 2% que le lecteur trouve quelque chose de trop puissant pour des esprits mortels et devienne fou (comme pour [[aliénation mentale]]). un [[jet de sauvegarde]] de volonté DD25 réussi annule la folie, mais à chaque fois que ce jet est réussi, le [[DD]] du prochain [[jet de sauvegarde]] contre la folie provenant du grimoire sombre augmente de 5, et cette augmentation s'additionne aux précédentes augmentations. Contrairement à un sort d'[[aliénation mentale]], seulement un [[souhait]] ou un [[miracle]] peut supprimer la folie causée par le grimoire sombre.
 
 Utiliser le grimoire sombre pour lancer des sorts ne nécessite aucune capacité de lancer des sorts, seulement du temps. Lancer un sort nécessite d'étudier le livre pendant un nombre d'heures égale au niveau du sort (ou pendant 30 min pour un sort de niveau 0). Tout sort nécessitant normalement une composante matérielle coûteuse nécessite à la place des sacrifices de créatures humanoïdes. tout sort nécessitant un focalisateur coûteux nécessite à la place un focalisateur créé à partir de restes de créatures humanoïdes sacrifiées. Dans les 2 cas, 1 dé de vie de sacrifice équivaut à 25po du prix que la composante matérielle ou le focalisateur coûte normalement.
 

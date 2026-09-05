@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pc ; **Poids** 0,085 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces créatures se présentent sous de nombreuses formes. Il y en a tout un éventail, des variétés légèrement colorées à 20 pattes aux variétés plus foncées à 300 pattes. En général, ces arthropodes servent souvent d’animaux domestiques dans les bidonvilles mais les jeunes et les excentriques cherchent souvent les meilleurs spécimens pour en faire des [familiers](./Familiers.md). Les mille-pattes servant de familiers ont une valeur d’[Intelligence](./Intelligence.md) et perdent le trait dépourvu d’intelligence. Voir les statistiques du [mille-pattes domestique](./Mille-pattes domestique.md).
+Ces créatures se présentent sous de nombreuses formes. Il y en a tout un éventail, des variétés légèrement colorées à 20 pattes aux variétés plus foncées à 300 pattes. En général, ces arthropodes servent souvent d’animaux domestiques dans les bidonvilles mais les jeunes et les excentriques cherchent souvent les meilleurs spécimens pour en faire des [[Familiers]]. Les mille-pattes servant de familiers ont une valeur d’[[Intelligence]] et perdent le trait dépourvu d’intelligence. Voir les statistiques du [[mille-pattes domestique]].

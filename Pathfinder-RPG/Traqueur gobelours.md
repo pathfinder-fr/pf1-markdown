@@ -13,9 +13,9 @@ Categories:
 {s:pucem|Humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.95*}
 {s:BDTexte|**PX** 1600}
-{s:BDTexte|[Gobelours](./Gobelours.md) [rôdeur](./Rôdeur.md) 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille M, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [odorat](./odorat.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[Gobelours]] [[rôdeur]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille M, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[odorat]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 13, pris au dépourvu 17 (armure +4, Dex +3, naturelle +3)}
 {s:BDTexte|**pv** 41 (6DV ; 3d8+3d10+12)}
@@ -24,18 +24,18 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** cimeterre de maître, +9 (1d6+3/18-20)}
 {s:BDTexte|**Distance** *arc long composite +1*, +10 (1d8+4/x3)}
-{s:BDTexte|**Attaques spéciales** [ennemi juré](./Rôdeur.md#ENNEMIJURE) (humain +2)}
+{s:BDTexte|**Attaques spéciales** [[rôdeur#ENNEMIJURE|ennemi juré]] (humain +2)}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Avant le combat.** Le gobelours suit ses ennemis à la trace et élimine les lanceurs de sorts et les humains de loin.}
-{s:BDTexte|**Pendant le combat.** Le gobelours gagne la mêlée en continuant de tirer et profite des dons [Viser](./Viser.md) et [Tir à bout portant](./Tir à bout portant.md) aussi longtemps que possible avant de dégainer son cimeterre.}
+{s:BDTexte|**Pendant le combat.** Le gobelours gagne la mêlée en continuant de tirer et profite des dons [[Viser]] et [[Tir à bout portant]] aussi longtemps que possible avant de dégainer son cimeterre.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 17, **Con** 15, **Int** 12, **Sag** 14, **Cha** 6}
 {s:BDTexte|**BBA** +5, **BMO** +8, **DMD** 21}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (arc long), [Endurance](./Endurance.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de loin](./Tir de loin.md), [Viser](./Viser.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +13, [Intimidation](./Intimidation.md) +11, [Perception](./Perception.md) +11, [Survie](./Survie.md) +11}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (arc long), [[Endurance]], [[Tir à bout portant]], [[Tir de loin]], [[Viser]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +13, [[Intimidation]] +11, [[Perception]] +11, [[Survie]] +11}
 {s:BDTexte|**Langues** commun, gobelin, sylvestre}
-{s:BDTexte|**Particularités** [empathie sauvage](./Rôdeur.md#EMPATHIESAUVAGE) +1, [environnement de prédilection](./Rôdeur.md#ENVIRONNEMENTDEPREDILECTION) (forêts +2), [pistage](./Rôdeur.md#PISTAGE) +1, [traqueur](./Gobelours.md#TRAQUEUR)}
-{s:BDTexte|**Équipement de combat** *[potions](./Potions magiques.md) de [soins légers](./Soins légers.md)* (4) ; **Équipement divers** [chemise de mailles](./chemise de mailles (armure).md), *[arc long composite +1](./arc long composite (arme).md)* (+3 For) avec [20 flèches](./Flèches (arme).md), [cimeterre de maître](./cimeterre (arme).md), 284 po}
+{s:BDTexte|**Particularités** [[rôdeur#EMPATHIESAUVAGE|empathie sauvage]] +1, [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]] (forêts +2), [[rôdeur#PISTAGE|pistage]] +1, [[Gobelours#TRAQUEUR|traqueur]]}
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potions]] de [[soins légers]]* (4) ; **Équipement divers** [[chemise de mailles (armure)|chemise de mailles]], *[[arc long composite (arme)|arc long composite +1]]* (+3 For) avec [[Flèches (arme)|20 flèches]], [[cimeterre (arme)|cimeterre de maître]], 284 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -43,27 +43,27 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Gobelours](./Gobelours.md) || 2
+| [[Gobelours]] || 2
 |-
-| [Grincedent gobelours](./Grincedent gobelours.md) || 4
+| [[Grincedent gobelours]] || 4
 |-
-| [Traqueur gobelours](./Traqueur gobelours.md) || 5
+| [[Traqueur gobelours]] || 5
 |-
-| [Fanatique gobelours](./Fanatique gobelours.md) || 7
+| [[Fanatique gobelours]] || 7
 |-
-| [Dévoreur gobelours](./Dévoreur gobelours.md) || 8
+| [[Dévoreur gobelours]] || 8
 |-
-| [Rôdeur gobelours](./Rôdeur gobelours.md) || 8
+| [[Rôdeur gobelours]] || 8
 |-
-| [Spectre terrifiant](./Spectre terrifiant.md) || 8
+| [[Spectre terrifiant]] || 8
 |-
-| [Gobelours adepte de l'embuscade](./Gobelours adepte de lembuscade.md) || 10
+| [[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]] || 10
 |-
-| [Ombre discrète gobelours](./Ombre discrète gobelours.md) || 10
+| [[Ombre discrète gobelours]] || 10
 |-
-| [Mage du sang gobelours](./Mage du sang gobelours.md) || 11
+| [[Mage du sang gobelours]] || 11
 |-
-| [Tyran gobelours](./Tyran gobelours.md) || 13
+| [[Tyran gobelours]] || 13
 |}
 </div>Les chasseurs gobelours rôdent dans les étendues sauvages, toujours en quête de nourriture et de victimes potentielles sur lesquelles exercer leur cruauté. Ils sont territoriaux, patients et adorent chasser les voyageurs éloignés de la sécurité de la civilisation.
 </div></td></tr></table>

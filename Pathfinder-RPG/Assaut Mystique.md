@@ -12,9 +12,9 @@ Categories:
 
 *Le personnage inflige des coups mortels lorsque la magie masque son emplacement.*
 
-**Condition.** [Combat en aveugle](./Combat en aveugle.md), [Science de l’initiative](./Science de linitiative.md)
+**Condition.** [[Combat en aveugle]], [[Science de linitiative|Science de l’initiative]]
 
-**Avantage.** Lorsque le personnage attaque en bénéficiant d’un [camouflage total](./camouflage total.md) conféré par une source de magie (tel que les sorts *[invisibilité](./Invisibilité.md)* ou *[déplacement](./Déplacement.md)*), le premier [critique potentiel](./coup critique.md) qu'il porte à chaque [round](./round.md) est automatiquement confirmé.
+**Avantage.** Lorsque le personnage attaque en bénéficiant d’un [[camouflage total]] conféré par une source de magie (tel que les sorts *[[invisibilité]]* ou *[[déplacement]]*), le premier [[coup critique|critique potentiel]] qu'il porte à chaque [[round]] est automatiquement confirmé.
 
 (((Eldritch assault
 

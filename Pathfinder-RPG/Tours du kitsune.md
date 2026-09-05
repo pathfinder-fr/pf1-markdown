@@ -14,9 +14,9 @@ Categories:
 
 *L'esprit et les manœuvres vives du personnage laissent ses opposants sous le choc.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Int](./Int.md) 13; [Expertise du combat](./Expertise du combat.md); [Science du sale coup](./Science du sale coup.md), [École du kitsune](./École du kitsune.md); [BBA](./BBA.md) +3 ou [moine](./Moine.md) de niveau 3
+**Conditions.** [[Int]] 13; [[Expertise du combat]]; [[Science du sale coup]], [[École du kitsune]]; [[BBA]] +3 ou [[moine]] de niveau 3
 
 **Avantage.** Quand le personnage utilise l'École du kitsune, il peut appliquer deux pénalités avec une seule manœuvre de sale coup. Retirer les deux pénalités ne nécessite qu'une action.
 

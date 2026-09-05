@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Dissipation
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Dissipation](./Descriptions individuelles des propriétés spéciales des armes.md#Dissipation)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Dissipation]]

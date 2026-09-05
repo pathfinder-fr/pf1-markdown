@@ -11,24 +11,24 @@ LastModified: 2025-02-16 19:25
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Catrina](./Catrina.md) || 5
+| [[Catrina]] || 5
 |-
-| [Mémitim](./Mémitim.md) || 15
+| [[Mémitim]] || 15
 |-
-| [Morrigna](./Morrigna.md) || 13
+| [[Morrigna]] || 13
 |-
-| [Nosoï](./Nosoï.md) || 2
+| [[Nosoï]] || 2
 |-
-| [Shoki](./Shoki.md) || 9
+| [[Shoki]] || 9
 |-
-| [Vanth](./Vanth.md) || 7
+| [[Vanth]] || 7
 |-
-| [Viduus](./Viduus.md) || 4
+| [[Viduus]] || 4
 |-
-| [Yamaraj](./Yamaraj.md) || 20
+| [[Yamaraj]] || 20
 |}
 </div></div><div class="description">**Source :** Bestiaire 4.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [psychopompe](./sous-type psychopompe.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type psychopompe|psychopompe]])*
 
 Toute vie a un début et une fin. Dès la naissance, toute chose du plan Matériel qui crie et qui lutte rampe inexorablement vers cette finalité singulière, ce point d’orgue fatal qui ouvre la voie aux infinis insondables de l’après-vie. Tandis que les esprits des créatures  défuntes aff luent vers leur ultime destin depuis le désordre de la mortalité, tous sont soumis au jugement des dieux de la mort, qui veillent à ce que tous les morts rejoignent l’après-vie qui leur est destinée. Toutefois, vu le nombre de mondes qui constituent le plan Matériel, les innombrables visages et exceptions de la mortalité, ainsi que tous ceux qui tordent le cou au destin et détournent la finalité de leur existence à leur avantage, la mort, en tant que  système et institution, nécessite, pour fonctionner, davantage d’agents qu’un seul dieu ou panthéon. Ces agents sont les psychopompes : les habitants du Purgatoire et les intendants, chroniqueurs et guides impassibles de toute chose défunte.
 

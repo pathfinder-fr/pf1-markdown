@@ -11,20 +11,20 @@ Categories:
 - Sort spirite 2
 ---
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2, [Spi](./Spirite.md) 2  
+**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Effet** 1 main spectrale  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Une *main spectrale* prend forme à partir de l’énergie vitale du personnage. Elle se matérialise et se déplace selon les souhaits de son créateur, ce qui lui permet de lancer à distance des sorts de contact de bas niveau. À la fin de l’incantation, le mage perd 1d4 [points de vie](./points de vie.md), qu’il regagne au terme de la durée indiquée ou si la main est [dissipée](./Dissipation de la magie.md). Par contre, ces [points de vie](./points de vie.md) restent perdus si la main est détruite (mais on peut les soigner normalement). Tant que le sort persiste, le personnage peut lancer n’importe quel sort de portée « contact » du 4e niveau ou moins par l’intermédiaire de la *main spectrale*, qui lui confère un bonus de +2 au [jet d’attaque](./jet dattaque.md) de [contact au corps à corps](./attaque de contact au corps à corps.md) (se servir de la main de cette façon constitue une attaque normale). La main se trouve toujours entre l’ennemi et le mage. Si elle s’éloigne trop de ce dernier ou si elle quitte son champ de vision (ou s’il cesse de la contrôler), elle revient flotter à ses côtés.
+Une *main spectrale* prend forme à partir de l’énergie vitale du personnage. Elle se matérialise et se déplace selon les souhaits de son créateur, ce qui lui permet de lancer à distance des sorts de contact de bas niveau. À la fin de l’incantation, le mage perd 1d4 [[points de vie]], qu’il regagne au terme de la durée indiquée ou si la main est [[dissipation de la magie|dissipée]]. Par contre, ces [[points de vie]] restent perdus si la main est détruite (mais on peut les soigner normalement). Tant que le sort persiste, le personnage peut lancer n’importe quel sort de portée « contact » du 4e niveau ou moins par l’intermédiaire de la *main spectrale*, qui lui confère un bonus de +2 au [[jet dattaque|jet d’attaque]] de [[attaque de contact au corps à corps|contact au corps à corps]] (se servir de la main de cette façon constitue une attaque normale). La main se trouve toujours entre l’ennemi et le mage. Si elle s’éloigne trop de ce dernier ou si elle quitte son champ de vision (ou s’il cesse de la contrôler), elle revient flotter à ses côtés.
 
-[Intangible](./Intangible.md), la main n’est pas affectée par les armes ordinaires. Elle possède l’aptitude d’[esquive extraordinaire](./esquive extraordinaire.md) (les sorts de zone ne lui infligent aucun dégât sur un [jet de sauvegarde](./jet de sauvegarde.md) réussi ; même en cas d’échec, les dégâts sont automatiquement réduits de moitié), bénéficie des mêmes bonus que le mage aux [jets de sauvegarde](./jet de sauvegarde.md) et a une [CA](./CA.md) de 22 (+8 taille, +4 armure naturelle). Le modificateur d’[Intelligence](./Intelligence.md) du personnage s’applique à la [CA](./CA.md) de la main, à la place du modificateur de [Dextérité](./Dextérité.md) de cette dernière. Enfin, elle possède entre 1 et 4 [points de vie](./points de vie.md) (le nombre de [pv](./pv.md) empruntés à son créateur lors de l’incantation).
+[[Intangible]], la main n’est pas affectée par les armes ordinaires. Elle possède l’aptitude d’[[esquive extraordinaire]] (les sorts de zone ne lui infligent aucun dégât sur un [[jet de sauvegarde]] réussi ; même en cas d’échec, les dégâts sont automatiquement réduits de moitié), bénéficie des mêmes bonus que le mage aux [[jet de sauvegarde|jets de sauvegarde]] et a une [[CA]] de 22 (+8 taille, +4 armure naturelle). Le modificateur d’[[Intelligence]] du personnage s’applique à la [[CA]] de la main, à la place du modificateur de [[Dextérité]] de cette dernière. Enfin, elle possède entre 1 et 4 [[points de vie]] (le nombre de [[pv]] empruntés à son créateur lors de l’incantation).

@@ -46,15 +46,15 @@ Certains vagabonds s’associent avec eux dans l’espoir qu’une partie de leu
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Dextérité](./Dextérité.md), +2 [Charisme](./Charisme.md), -2 [Force](./Force.md).** Les halfelins sont agiles et volontaires, mais, à cause de leur petite taille, ils sont plus faibles que les autres races.
-- **Taille P.** Les halfelins sont des créatures de [taille P](./taille P.md) et gagnent un bonus de taille de +1 à la [CA](./CA.md) et aux [jets d’attaque](./jet dattaque.md), un malus de -1 au [BMO](./BMO.md) et au [DMD](./DMD.md) et un bonus de taille de +4 aux tests de [Discrétion](./Discrétion.md).
-- **Vitesse lente.** Les halfelins ont une [vitesse de base](./VD.md) de 6 mètres.
-- **Sans peur.** Les halfelins ont un bonus racial de +2 à tous les [jets de sauvegarde](./JDS.md) contre la terreur. Ce bonus se cumule avec celui offert par chance des halfelins.
-- **Chance des halfelins.** Les halfelins reçoivent un bonus racial de +1 à tous les [jets de sauvegarde](./JDS.md).
-- **Sens aiguisés.** Les halfelins reçoivent un bonus racial de +2 à tous les jets de [Perception](./Perception.md).
-- **Bon équilibre.** Les halfelins reçoivent un bonus racial de +2 aux tests d’[Acrobaties](./Acrobaties.md) et d’[Escalade](./Escalade.md).
-- **Armes familières.** Les halfelins sont formés au maniement des [frondes](./fronde (arme).md) et considèrent toute arme qui porte la mention « halfelin » dans son nom comme une [arme de guerre](./arme de guerre.md).
-- **Langues.** Les halfelins commencent le jeu en parlant le commun et le halfelin. Ceux qui possèdent une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues tirées de la liste suivante : elfique, gnome, gobelin et nain.
+- **+2 [[Dextérité]], +2 [[Charisme]], -2 [[Force]].** Les halfelins sont agiles et volontaires, mais, à cause de leur petite taille, ils sont plus faibles que les autres races.
+- **Taille P.** Les halfelins sont des créatures de [[taille P]] et gagnent un bonus de taille de +1 à la [[CA]] et aux [[jet dattaque|jets d’attaque]], un malus de -1 au [[BMO]] et au [[DMD]] et un bonus de taille de +4 aux tests de [[Discrétion]].
+- **Vitesse lente.** Les halfelins ont une [[VD|vitesse de base]] de 6 mètres.
+- **Sans peur.** Les halfelins ont un bonus racial de +2 à tous les [[jds|jets de sauvegarde]] contre la terreur. Ce bonus se cumule avec celui offert par chance des halfelins.
+- **Chance des halfelins.** Les halfelins reçoivent un bonus racial de +1 à tous les [[jds|jets de sauvegarde]].
+- **Sens aiguisés.** Les halfelins reçoivent un bonus racial de +2 à tous les jets de [[Perception]].
+- **Bon équilibre.** Les halfelins reçoivent un bonus racial de +2 aux tests d’[[Acrobaties]] et d’[[Escalade]].
+- **Armes familières.** Les halfelins sont formés au maniement des [[Fronde (arme)|frondes]] et considèrent toute arme qui porte la mention « halfelin » dans son nom comme une [[arme de guerre]].
+- **Langues.** Les halfelins commencent le jeu en parlant le commun et le halfelin. Ceux qui possèdent une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues tirées de la liste suivante : elfique, gnome, gobelin et nain.
 
 </div>
 
@@ -63,49 +63,49 @@ Certains vagabonds s’associent avec eux dans l’espoir qu’une partie de leu
 Les halfelins bénéficient d’une chance innée et savent s’adapter à leur environnement. Les options suivantes correspondent à ces attributs et sont disponibles pour tous les personnages halfelins. Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux halfelins standard, mais consultez d’abord votre MJ.
 
 <u>*Remplace « armes familières », « bon équilibre » et « chance des halfelins » :*</u>
-- {s:cs}{s:ISR}**Gardien.** Les humains confient souvent la garde d'enfants et d'animaux à des familles halfelines, une tâche qui les a aidé à développer une grande perspicacité. Ces halfelins bénéficient d'un bonus racial de +2 aux tests de [Psychologie](./Psychologie.md). De plus, lorsqu'ils obtiennent un [compagnon animal](./Compagnons animaux.md), une [monture liée](./Chevalier.md#MONTURE) ou un [compagnon d'armes](./Prestige.md) ou un [familier](./Familiers.md), cette créature obtient un bonus de +2 à une [caractéristique](./Caractéristiques.md) au choix du personnage. Ce trait racial remplace armes familières, bon équilibre et chance des halfelins.
+- {s:cs}{s:ISR}**Gardien.** Les humains confient souvent la garde d'enfants et d'animaux à des familles halfelines, une tâche qui les a aidé à développer une grande perspicacité. Ces halfelins bénéficient d'un bonus racial de +2 aux tests de [[Psychologie]]. De plus, lorsqu'ils obtiennent un [[Compagnons animaux|compagnon animal]], une [[Chevalier#MONTURE|monture liée]] ou un [[Prestige|compagnon d'armes]] ou un [[Familiers|familier]], cette créature obtient un bonus de +2 à une [[Caractéristiques|caractéristique]] au choix du personnage. Ce trait racial remplace armes familières, bon équilibre et chance des halfelins.
 
 <u>*Remplace « armes familières » et « sans peur » :*</u>
-- {s:cs}{s:ISR}**Insidieux.** Les halfelins opprimés s'entraînent dès leur plus jeune âge à profiter des moments où leurs oppresseurs les ignorent. Ces halfelins bénéficient d'un bonus racial de +1 aux attaques contre les adversaires privés de leur bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md). Ce trait racial remplace armes familières et sans peur.
+- {s:cs}{s:ISR}**Insidieux.** Les halfelins opprimés s'entraînent dès leur plus jeune âge à profiter des moments où leurs oppresseurs les ignorent. Ces halfelins bénéficient d'un bonus racial de +1 aux attaques contre les adversaires privés de leur bonus de [[Dextérité]] à la [[CA]]. Ce trait racial remplace armes familières et sans peur.
 
 <u>*Remplace « bon équilibre » :*</u>
-- **Cavalier éclaireur.** Des halfelins se spécialisent dans le combat monté. Ceux qui possèdent ce trait racial gagnent un bonus de +2 aux tests de [Dressage](./Dressage.md) et d’[Équitation](./Équitation.md). Ce trait racial remplace bon équilibre.
-- **Fainéant.** Les halfelins sont réputés être des voleurs et des fourbes... et parfois, ils le méritent bien. Les halfelins qui possèdent ce trait ont un bonus racial de +2 aux tests de [Bluff](./Bluff.md) et d’[Escamotage](./Escamotage.md). Escamotage est toujours une compétence de classe pour eux. Ce trait racial remplace bon équilibre.
-- {s:FAQ|***[→](./FAQ- Manuel des races.md#4) Halfelin, Guerrier à la fronde : Avec quels types de fronde cette capacité de rechargement fonctionne-t-elle ?***  
+- **Cavalier éclaireur.** Des halfelins se spécialisent dans le combat monté. Ceux qui possèdent ce trait racial gagnent un bonus de +2 aux tests de [[Dressage]] et d’[[Équitation]]. Ce trait racial remplace bon équilibre.
+- **Fainéant.** Les halfelins sont réputés être des voleurs et des fourbes... et parfois, ils le méritent bien. Les halfelins qui possèdent ce trait ont un bonus racial de +2 aux tests de [[Bluff]] et d’[[Escamotage]]. Escamotage est toujours une compétence de classe pour eux. Ce trait racial remplace bon équilibre.
+- {s:FAQ|***[[FAQ- Manuel des races#4|→]] Halfelin, Guerrier à la fronde : Avec quels types de fronde cette capacité de rechargement fonctionne-t-elle ?***  
   
-La capacité <u>[guerrier à la fronde](./Halfelin.md#GUERRIERALAFRONDE)</u> dit : « Ceux qui possèdent ce trait racial peuvent recharger cette arme par une action libre. » Il ne dit pas « n'importe quel type de fronde » ou « toutes les frondes », seulement « cette arme ». La capacité n'affecte que les [frondes](./fronde (arme).md) standards, pas le [fustibale halfelin](./fustibale halfelin (arme).md) ou tout autre type de fronde.}**Guerrier à la fronde.** Les halfelins sont experts dans l’art de manier la fronde. Ceux qui possèdent ce trait racial peuvent recharger une [fronde](./fronde (arme).md) arme par une [action libre](./Action libre.md). Ils doivent tout de même utiliser leurs deux mains et cette action provoque toujours une [attaque d’opportunité](./AO.md). Ce trait racial remplace bon équilibre.
-- **Rapide comme les ombres.** Les halfelins sont extrêmement discrets, même quand ils se déplacent dans des zones obstruées. Ceux qui possèdent ce trait racial voient leur malus aux tests de [Discrétion](./Discrétion.md) diminuer de 5 quand ils se déplacent et celui pour le tir embusqué de 10. Ce trait racial remplace bon équilibre.
-- {s:cs}{s:ISR}**Survivant secret.** Les halfelins issus de communautés pauvres et désespérées, le plus souvent dans les grandes villes, doivent prendre ce dont ils ont besoin sans être vus afin de survivre. Ils bénéficient d'un bonus racial de +2 aux tests de [Bluff](./Bluff.md) et de [Discrétion](./Discrétion.md). Ce trait racial remplace bon équilibre.
-- {s:cs}{s:ISR}**Travailleur motivé.** De nombreuses familles halfelines ont développé des techniques afin d'accomplir leur travail plus vite et plus efficacement, que ce soit pour contribuer à la communauté ou pour satisfaire leurs maîtres autoritaires. Ces halfelins bénéficient d'un bonus racial de +4 aux tests d'une compétence d'[Artisanat](./Artisanat.md), de [Profession](./Profession.md) ou de [Représentation](./Représentation.md). Ce trait racial remplace bon équilibre.
+La capacité <u>[[Halfelin#GUERRIERALAFRONDE|guerrier à la fronde]]</u> dit : « Ceux qui possèdent ce trait racial peuvent recharger cette arme par une action libre. » Il ne dit pas « n'importe quel type de fronde » ou « toutes les frondes », seulement « cette arme ». La capacité n'affecte que les [[Fronde (arme)|frondes]] standards, pas le [[Fustibale halfelin (arme)|fustibale halfelin]] ou tout autre type de fronde.}**Guerrier à la fronde.** Les halfelins sont experts dans l’art de manier la fronde. Ceux qui possèdent ce trait racial peuvent recharger une [[Fronde (arme)|fronde]] arme par une [[action libre]]. Ils doivent tout de même utiliser leurs deux mains et cette action provoque toujours une [[AO|attaque d’opportunité]]. Ce trait racial remplace bon équilibre.
+- **Rapide comme les ombres.** Les halfelins sont extrêmement discrets, même quand ils se déplacent dans des zones obstruées. Ceux qui possèdent ce trait racial voient leur malus aux tests de [[Discrétion]] diminuer de 5 quand ils se déplacent et celui pour le tir embusqué de 10. Ce trait racial remplace bon équilibre.
+- {s:cs}{s:ISR}**Survivant secret.** Les halfelins issus de communautés pauvres et désespérées, le plus souvent dans les grandes villes, doivent prendre ce dont ils ont besoin sans être vus afin de survivre. Ils bénéficient d'un bonus racial de +2 aux tests de [[Bluff]] et de [[Discrétion]]. Ce trait racial remplace bon équilibre.
+- {s:cs}{s:ISR}**Travailleur motivé.** De nombreuses familles halfelines ont développé des techniques afin d'accomplir leur travail plus vite et plus efficacement, que ce soit pour contribuer à la communauté ou pour satisfaire leurs maîtres autoritaires. Ces halfelins bénéficient d'un bonus racial de +4 aux tests d'une compétence d'[[Artisanat]], de [[Profession]] ou de [[Représentation]]. Ce trait racial remplace bon équilibre.
 
 <u>*Remplace « bon équilibre » et « sans peur » :*</u>
-- **Sens pratique.** Les halfelins accordent une grande importance au travail et au bon sens. Ceux qui possèdent ce trait gagnent un bonus de +2 à une compétence d’[Artisanat](./Artisanat.md) ou de [Profession](./Profession.md), aux tests de [Psychologie](./Psychologie.md) et aux [jets de sauvegarde](./JDS.md) contre les [illusions](./Illusion.md). Ce trait racial remplace sans peur et bon équilibre.
+- **Sens pratique.** Les halfelins accordent une grande importance au travail et au bon sens. Ceux qui possèdent ce trait gagnent un bonus de +2 à une compétence d’[[Artisanat]] ou de [[Profession]], aux tests de [[Psychologie]] et aux [[jds|jets de sauvegarde]] contre les [[illusion|illusions]]. Ce trait racial remplace sans peur et bon équilibre.
 
 <u>*Remplace « bon équilibre » et « sens aiguisés » :*</u>
-- **Doucereux.** La survie des halfelins dépend souvent des caprices des races plus grandes et plus agressives qu’eux. C’est pourquoi ils se donnent du mal pour se rendre utiles auprès des grandes gens ou au moins pour les divertir. Les halfelins qui possèdent ce trait racial gagnent un bonus de +2 aux tests compétence dans un unique type de [Représentation](./Représentation.md) de leur choix, et Représentation est toujours une compétence de classe pour eux. Ils gagnent aussi un bonus de +2 aux tests d’[Artisanat](./Artisanat.md) et de [Profession](./Profession.md). Ce trait racial remplace sens aiguisés et bon équilibre.
-- {s:cs}{s:ISR}**Ombre des humains.** Les halfelins semblent apparaître partout où l'on trouve des humains, en partie parce qu'ils soutiennent et suivent activement les explorateurs, colons et voyageurs humains sans attirer l'attention sur eux. Ces halfelins peuvent utiliser la [Discrétion](./Discrétion.md) pour se cacher derrière des créatures d'au moins une catégorie de taille de plus qu'eux, sans avoir besoin d'une autre source d'[abri](./abri.md) ou de [camouflage](./camouflage.md). Tant que ces halfelins sont dans un rayon de 9 mètres d'un [humain](./Humain.md), ils bénéficient d'un bonus racial de +2 aux tests de Discrétion et d'[Escamotage](./Escamotage.md). Ce trait racial remplace bon équilibre et sens aiguisés.
+- **Doucereux.** La survie des halfelins dépend souvent des caprices des races plus grandes et plus agressives qu’eux. C’est pourquoi ils se donnent du mal pour se rendre utiles auprès des grandes gens ou au moins pour les divertir. Les halfelins qui possèdent ce trait racial gagnent un bonus de +2 aux tests compétence dans un unique type de [[Représentation]] de leur choix, et Représentation est toujours une compétence de classe pour eux. Ils gagnent aussi un bonus de +2 aux tests d’[[Artisanat]] et de [[Profession]]. Ce trait racial remplace sens aiguisés et bon équilibre.
+- {s:cs}{s:ISR}**Ombre des humains.** Les halfelins semblent apparaître partout où l'on trouve des humains, en partie parce qu'ils soutiennent et suivent activement les explorateurs, colons et voyageurs humains sans attirer l'attention sur eux. Ces halfelins peuvent utiliser la [[Discrétion]] pour se cacher derrière des créatures d'au moins une catégorie de taille de plus qu'eux, sans avoir besoin d'une autre source d'[[abri]] ou de [[camouflage]]. Tant que ces halfelins sont dans un rayon de 9 mètres d'un [[humain]], ils bénéficient d'un bonus racial de +2 aux tests de Discrétion et d'[[Escamotage]]. Ce trait racial remplace bon équilibre et sens aiguisés.
 
 <u>*Remplace « bon équilibre » et « vitesse lente » :*</u>
-- **Pieds rapides.** Certains halfelins sont plus rapides, mais moins prudents que les autres. Ceux qui possèdent ce trait se déplacent à une vitesse normale et ont donc une [vitesse de base](./VD.md) de 9 mètres. Ce trait racial remplace vitesse lente et bon équilibre.
+- **Pieds rapides.** Certains halfelins sont plus rapides, mais moins prudents que les autres. Ceux qui possèdent ce trait se déplacent à une vitesse normale et ont donc une [[VD|vitesse de base]] de 9 mètres. Ce trait racial remplace vitesse lente et bon équilibre.
 
 <u>*Remplace « chance des halfelins » :*</u>
-- **Chance adaptable.** {s:REFERENCE|CHANCEADAPTABLE}Certains halfelins exercent un véritable contrôle sur leur chance innée. Ce pouvoir leur permet d’utiliser leur chance de façon plus diversifiée, mais réduit sa fréquence. Trois fois par jour, le halfelin peut s'accorder un bonus de chance de +2 à un test de [caractéristique](./Caractéristiques.md), un [jet d’attaque](./jet dattaque.md), un [jet de sauvegarde](./JDS.md) ou un test de [compétence](./Compétences.md). Si le halfelin utilise sa chance avant de lancer le dé, il bénéficie du bonus complet de +2, s’il l’utilise après coup, il gagne seulement un bonus de +1. Il n’a pas besoin de dépenser d’action pour utiliser sa chance. Ce trait racial remplace chance des halfelins.
-- {s:cs}{s:ISR}**Halfelin malchanceux.** Ces halfelins subissent un malus de -1 aux [jets de sauvegarde](./JDS.md) mais bénéficient d'un bonus racial de +1 au [niveau de lanceur de sorts](./NLS.md) et au [DD](./DD.md) des jets de sauvegarde de tous leurs sorts et pouvoirs magiques de [malédiction](./Registre.md). De plus, ces halfelins peuvent utiliser *[mauvais présage](./mauvais présage.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) une fois par jour. Ce trait racial remplace chance des halfelins.
-- **Porte-poisse halfelin.** Le halfelin perd le trait racial chance des halfelins (et son bonus racial de +1 aux [jets de sauvegarde](./JDS.md)) et gagne, à la place, la capacité d’affecter à volonté une autre créature de malchance par une [action simple](./Action simple.md). Cette malédiction a une portée de 9 mètres, le halfelin doit être en mesure de voir la cible et d’avoir une [ligne d’effet](./Présentation des sorts.md#LIGNEDEFFET) sur elle. La cible a droit à un jet de [Volonté](./Volonté.md) pour résister à la malédiction ([DD](./DD.md) 10 + 1/2 niveau du halfelin + son modificateur de [Charisme](./Charisme.md)). Si la cible réussit son jet, elle est immunisée à la capacité de malédiction de ce halfelin pendant 24 heures. Une créature maudite reçoit un malus de -1 à tous ses jets de sauvegarde. Cette malédiction dure 24 heures ou jusqu’à ce que le halfelin tente d’utiliser à nouveau sa malédiction. Les malédictions sont des [capacités surnaturelles](./Capacités spéciales.md), n'est pas un effet mental, ignore la [résistance à la magie](./RM.md), et peut affecter n’importe quel type de créature qui n’est pas immunisé aux effets de chance. Ce trait racial remplace chance des halfelins.
-- **Poids plume.** Un halfelin doit s’entraîner dur pour combattre efficacement des adversaires plus grands que lui. Les halfelins qui possèdent ce trait gagnent un bonus d’esquive de +1 à la [CA](./CA.md) contre les ennemis plus grands qu’eux et un bonus de +1 aux jets de [Réflexes](./Réflexes.md) pour éviter les attaques de [piétinement](./Piétinement (capacité).md). Ce trait racial remplace chance des halfelins.
+- **Chance adaptable.** {s:REFERENCE|CHANCEADAPTABLE}Certains halfelins exercent un véritable contrôle sur leur chance innée. Ce pouvoir leur permet d’utiliser leur chance de façon plus diversifiée, mais réduit sa fréquence. Trois fois par jour, le halfelin peut s'accorder un bonus de chance de +2 à un test de [[Caractéristiques|caractéristique]], un [[jet dattaque|jet d’attaque]], un [[jds|jet de sauvegarde]] ou un test de [[Compétences|compétence]]. Si le halfelin utilise sa chance avant de lancer le dé, il bénéficie du bonus complet de +2, s’il l’utilise après coup, il gagne seulement un bonus de +1. Il n’a pas besoin de dépenser d’action pour utiliser sa chance. Ce trait racial remplace chance des halfelins.
+- {s:cs}{s:ISR}**Halfelin malchanceux.** Ces halfelins subissent un malus de -1 aux [[jds|jets de sauvegarde]] mais bénéficient d'un bonus racial de +1 au [[NLS|niveau de lanceur de sorts]] et au [[DD]] des jets de sauvegarde de tous leurs sorts et pouvoirs magiques de [[registre|malédiction]]. De plus, ces halfelins peuvent utiliser *[[mauvais présage]]* comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] une fois par jour. Ce trait racial remplace chance des halfelins.
+- **Porte-poisse halfelin.** Le halfelin perd le trait racial chance des halfelins (et son bonus racial de +1 aux [[jds|jets de sauvegarde]]) et gagne, à la place, la capacité d’affecter à volonté une autre créature de malchance par une [[action simple]]. Cette malédiction a une portée de 9 mètres, le halfelin doit être en mesure de voir la cible et d’avoir une [[Présentation des sorts#LIGNEDEFFET|ligne d’effet]] sur elle. La cible a droit à un jet de [[Volonté]] pour résister à la malédiction ([[DD]] 10 + 1/2 niveau du halfelin + son modificateur de [[Charisme]]). Si la cible réussit son jet, elle est immunisée à la capacité de malédiction de ce halfelin pendant 24 heures. Une créature maudite reçoit un malus de -1 à tous ses jets de sauvegarde. Cette malédiction dure 24 heures ou jusqu’à ce que le halfelin tente d’utiliser à nouveau sa malédiction. Les malédictions sont des [[Capacités spéciales|capacités surnaturelles]], n'est pas un effet mental, ignore la [[RM|résistance à la magie]], et peut affecter n’importe quel type de créature qui n’est pas immunisé aux effets de chance. Ce trait racial remplace chance des halfelins.
+- **Poids plume.** Un halfelin doit s’entraîner dur pour combattre efficacement des adversaires plus grands que lui. Les halfelins qui possèdent ce trait gagnent un bonus d’esquive de +1 à la [[CA]] contre les ennemis plus grands qu’eux et un bonus de +1 aux jets de [[Réflexes]] pour éviter les attaques de [[Piétinement (capacité)|piétinement]]. Ce trait racial remplace chance des halfelins.
 
 <u>*Remplace « chance des halfelins » et « sans peur » :*</u>
-- **Soif de voyages.** Les halfelins aiment les voyages et les cartes. Ceux qui possèdent ce trait racial reçoivent un bonus de +2 aux tests de [Connaissances](./Connaissances.md) (géographie) et de [Survie](./Survie.md). Quand le halfelin lance un sort ou utilise un pouvoir qui améliore ou permet un mouvement, il considère son niveau de lanceur de sorts effectif comme d’un niveau de plus que la normale. Ce trait racial remplace sans peur et chance des halfelins.
-- **Veule.** La plupart des halfelins ignorent la peur, mais certains sont de nature inquiète et sont à l’affût de tout. Ils gagnent un bonus de +1 aux tests d’[initiative](./initiative.md) et un bonus de +1 aux [jets d’attaque](./jet dattaque.md) quand ils prennent un ennemi [en tenaille](./Modificateurs de combat.md#PRISEENTENAILLE), mais ils subissent un malus de -2 aux [jets de sauvegarde](./JDS.md) contre les effets de terreur et ne peuvent pas bénéficier de bonus de moral à ces jets. Quand ils sont affectés par un effet de terreur, leur vitesse augmente de 3 mètres et ils gagnent un bonus d’esquive de +1 à la [CA](./CA.md). Ce trait racial remplace sans peur et chance des halfelins.
+- **Soif de voyages.** Les halfelins aiment les voyages et les cartes. Ceux qui possèdent ce trait racial reçoivent un bonus de +2 aux tests de [[Connaissances]] (géographie) et de [[Survie]]. Quand le halfelin lance un sort ou utilise un pouvoir qui améliore ou permet un mouvement, il considère son niveau de lanceur de sorts effectif comme d’un niveau de plus que la normale. Ce trait racial remplace sans peur et chance des halfelins.
+- **Veule.** La plupart des halfelins ignorent la peur, mais certains sont de nature inquiète et sont à l’affût de tout. Ils gagnent un bonus de +1 aux tests d’[[initiative]] et un bonus de +1 aux [[jet dattaque|jets d’attaque]] quand ils prennent un ennemi [[Modificateurs de combat#PRISEENTENAILLE|en tenaille]], mais ils subissent un malus de -2 aux [[jds|jets de sauvegarde]] contre les effets de terreur et ne peuvent pas bénéficier de bonus de moral à ces jets. Quand ils sont affectés par un effet de terreur, leur vitesse augmente de 3 mètres et ils gagnent un bonus d’esquive de +1 à la [[CA]]. Ce trait racial remplace sans peur et chance des halfelins.
 
 <u>*Remplace « chance des halfelins » et « sens aiguisés » :*</u>
-- {s:cs}{s:ISR}**Sans entraves.** Les anciennes anguilles libérées de l'esclavage s'entraînent pour s'assurer qu'ils ne seront plus jamais soumis à cette vie. Ils bénéficient d'un bonus racial de +4 aux tests d'[Évasion](./Évasion.md) ainsi que d'un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) contre les effets qui imposent l'état [enchevêtré](./Enchevêtré.md), au [DMD](./DMD.md) contre les tentatives de [lutte](./lutte.md), et aux tests de manœuvre offensive pour échapper à une lutte. Ce trait racial remplace chance des halfelins et sens aiguisés.
+- {s:cs}{s:ISR}**Sans entraves.** Les anciennes anguilles libérées de l'esclavage s'entraînent pour s'assurer qu'ils ne seront plus jamais soumis à cette vie. Ils bénéficient d'un bonus racial de +4 aux tests d'[[Évasion]] ainsi que d'un bonus racial de +2 aux [[jds|jets de sauvegarde]] contre les effets qui imposent l'état [[enchevêtré]], au [[DMD]] contre les tentatives de [[lutte]], et aux tests de manœuvre offensive pour échapper à une lutte. Ce trait racial remplace chance des halfelins et sens aiguisés.
 
 <u>*Remplace « sens aiguisés » :*</u>
-- **Coup sous la ceinture.** Certains halfelins s’entraînent dur pour se battre contre des créatures plus grandes qu’eux. Ceux qui possèdent ce trait racial gagnent un bonus de +1 aux jets de confirmation de [coup critique](./coup critique.md) contre les adversaires plus grands qu’eux. Ce trait racial remplace sens aiguisés.
+- **Coup sous la ceinture.** Certains halfelins s’entraînent dur pour se battre contre des créatures plus grandes qu’eux. Ceux qui possèdent ce trait racial gagnent un bonus de +1 aux jets de confirmation de [[coup critique]] contre les adversaires plus grands qu’eux. Ce trait racial remplace sens aiguisés.
 
 <u>*Remplace « sens aiguisés » et « langues » :*</u>
-- **Polyglotte.** Certains halfelins développent un véritable don pour apprendre de nouvelles langues, en particulier ceux qui voyagent beaucoup. Ils gagnent un bonus racial de +2 aux tests de [Linguistique](./Linguistique.md) et considèrent toujours cette compétence comme une compétence de classe. Les halfelins qui possèdent ce trait commencent le jeu en parlant le commun, le halfelin et une autre langue de leur choix (en dehors des langues secrètes comme celle des [druides](./Druide.md#LANGUESSUPPLEMENTAIRES)), en plus des langues qu’ils connaissent grâce à leur valeur d’[Intelligence](./Intelligence.md). Ils ont accès à la liste de langues supplémentaires habituelle des halfelins. Ce trait racial remplace sens aiguisés et modifie les langues de l'halfelin.
+- **Polyglotte.** Certains halfelins développent un véritable don pour apprendre de nouvelles langues, en particulier ceux qui voyagent beaucoup. Ils gagnent un bonus racial de +2 aux tests de [[Linguistique]] et considèrent toujours cette compétence comme une compétence de classe. Les halfelins qui possèdent ce trait commencent le jeu en parlant le commun, le halfelin et une autre langue de leur choix (en dehors des langues secrètes comme celle des [[Druide#LANGUESSUPPLEMENTAIRES|druides]]), en plus des langues qu’ils connaissent grâce à leur valeur d’[[Intelligence]]. Ils ont accès à la liste de langues supplémentaires habituelle des halfelins. Ce trait racial remplace sens aiguisés et modifie les langues de l'halfelin.
 
 #### Sous-types raciaux
 Vous pouvez combiner plusieurs traits raciaux alternatifs pour créer une sous-race halfeline ou une variante raciale, comme suit.
@@ -115,7 +115,7 @@ Vous pouvez combiner plusieurs traits raciaux alternatifs pour créer une sous-r
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -128,96 +128,96 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:AO}**Les halfelins occultes.** La croyance populaire veut que les halfelins évitent les problèmes grâce à la chance qui les caractérise mais, pour certains, la « chance halfeline » est le reflet d’un véritable talent psychique. Beaucoup transforment ce talent en une pratique plus importante pour compenser leur petite taille et deviennent particulièrement doués lorsqu’il s’agit d’influencer ou de manipuler leur entourage.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[Alchimiste](./Alchimiste.md).** L’alchimiste ajoute la formule d’un nouvel [extrait](./Alchimiste.md#EXTRAITS) à son livre de formules. Elle doit être au moins d’un niveau de moins que la plus puissante qu’il connaît.
+{s:MR}{s:APG}**[[Alchimiste]].** L’alchimiste ajoute la formule d’un nouvel [[alchimiste#EXTRAITS|extrait]] à son livre de formules. Elle doit être au moins d’un niveau de moins que la plus puissante qu’il connaît.
 La curiosité naturelle des halfelins les pousse à expérimenter sans cesse de nouvelles choses et, parmi toutes les classes, c’est chez les alchimistes que cette tendance peut s’exprimer le plus librement, sous la forme de nouvelles découvertes explosives (au sens littéral) qui n’attendent que d’être dévoilées.
 
-{s:MCA}**[Arcaniste](./Arcaniste.md).** Gain de 1/6 d’une nouvelle [exploitation](./Exploitations.md) d’arcaniste.
+{s:MCA}**[[Arcaniste]].** Gain de 1/6 d’une nouvelle [[Exploitations|exploitation]] d’arcaniste.
 
-{s:MR}{s:APG}**[Barbare](./Barbare.md).** Le barbare ajoute un bonus de +1/2 au [sens des pièges](./Barbare.md#SENSDESPIEGES) ou de +1/3 au bonus du pouvoir de rage [précision étonnante](./Pouvoirs de rage.md#PRECISIONETONNANTE).
+{s:MR}{s:APG}**[[Barbare]].** Le barbare ajoute un bonus de +1/2 au [[Barbare#SENSDESPIEGES|sens des pièges]] ou de +1/3 au bonus du pouvoir de rage [[pouvoirs de rage#PRECISIONETONNANTE|précision étonnante]].
 Même si les races plus grandes trouvent l’idée d’un barbare halfelin plutôt comique, rares sont ceux qui le lui diraient en face. Les barbares halfelins sont peut-être plus faibles que les autres barbares, mais la terrible fureur d’un halfelin en rage pourrait bien en surprendre plus d’un.
 
-{s:MR}{s:APG}**[Barde](./Barde.md).** Le barde gagne un bonus de +1/2 aux tests de [Bluff](./Bluff.md) pour transmettre un message secret, un bonus de +1/2 aux tests de [Diplomatie](./Diplomatie.md) pour rassembler des informations et un bonus de +1/2 aux tests de [Déguisement](./Déguisement.md) pour passer pour un enfant [elfe](./Elfe.md), [demi-elfe](./Demi-elfe.md) ou [humain](./Humain.md).
+{s:MR}{s:APG}**[[Barde]].** Le barde gagne un bonus de +1/2 aux tests de [[Bluff]] pour transmettre un message secret, un bonus de +1/2 aux tests de [[Diplomatie]] pour rassembler des informations et un bonus de +1/2 aux tests de [[Déguisement]] pour passer pour un enfant [[elfe]], [[demi-elfe]] ou [[humain]].
 Les halfelins aiment chanter, danser et faire la fête ; et leurs bardes sont passés maîtres dans l’art d’amuser tout un chacun. Ils se produisent parfois dans les grandes salles et les théâtres célèbres mais on les rencontre tout aussi souvent sur les chemins où ils laissent libre cours à leur amour du voyage et amènent la joie et l’hilarité chaque jour à un nouveau public.
 
-{s:MCA}**[Bretteur](./Bretteur.md).** Chaque jour, le bretteur peut utiliser [charmante vie](./Bretteur.md#CHARMANTEVIE) 1/4 de fois de plus.
+{s:MCA}**[[Bretteur]].** Chaque jour, le bretteur peut utiliser [[Bretteur#CHARMANTEVIE|charmante vie]] 1/4 de fois de plus.
 
-{s:MCA}**[Chaman](./Chaman.md).** Ajout de 1/2 au niveau effectif du chaman quand il détermine l’armure naturelle, l’[Intelligence](./Intelligence.md) et les pouvoirs spéciaux de son [esprit animal](./Chaman.md#ESPRITANIMAL).
+{s:MCA}**[[Chaman]].** Ajout de 1/2 au niveau effectif du chaman quand il détermine l’armure naturelle, l’[[Intelligence]] et les pouvoirs spéciaux de son [[Chaman#ESPRITANIMAL|esprit animal]].
 
-{s:MCA}**[Chasseur](./Chasseur.md).** Le [compagnon animal](./compagnon animal.md) gagne un bonus de chance de +1/4 aux [jets de sauvegarde](./JDS.md). Si le chasseur le remplace, le nouveau compagnon bénéficie aussi de ce bonus.
+{s:MCA}**[[Chasseur]].** Le [[compagnon animal]] gagne un bonus de chance de +1/4 aux [[jds|jets de sauvegarde]]. Si le chasseur le remplace, le nouveau compagnon bénéficie aussi de ce bonus.
 
-{s:MR}{s:APG}**[Chevalier](./Chevalier.md).** Le chevalier ajoute +1/2 à son niveau effectif de classe quand il détermine les dégâts qu’il inflige lors d’une [attaque d’opportunité](./AO.md) contre un ennemi qu’il a [défié](./Chevalier.md#DEFI).
+{s:MR}{s:APG}**[[Chevalier]].** Le chevalier ajoute +1/2 à son niveau effectif de classe quand il détermine les dégâts qu’il inflige lors d’une [[AO|attaque d’opportunité]] contre un ennemi qu’il a [[chevalier#DEFI|défié]].
 Les halfelins sont peut-être trop petits pour monter des chevaux mais, juché sur un poney, un chien de selle ou une autre monture exotique, un chevalier halfelin pourrait bien surprendre des adversaires de plus grandes tailles en menant des soldats au combat sans la moindre peur tout en leur inspirant un comportement héroïque à l’aide de ses talents et de sa dévotion.
 
-{s:AO}**[Cinétiste](./Cinétiste.md).** Le personnage augmente de 1/6 point la capacité de la [réserve interne](./Cinétiste.md#RÉSERVEINTERNE) du cinétiste.
+{s:AO}**[[Cinétiste]].** Le personnage augmente de 1/6 point la capacité de la [[cinétiste#RÉSERVEINTERNE|réserve interne]] du cinétiste.
 
-{s:MR}{s:APG}**[Conjurateur](./Conjurateur.md).** Le conjurateur donne un rang de [compétence](./eidolon.md#Les_caractéristiques_de_base_de_leidolon_13) de plus à son [eidolon](./Conjurateur.md#EIDOLON).
+{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur donne un rang de [[eidolon#Les_caractéristiques_de_base_de_leidolon_13|compétence]] de plus à son [[Conjurateur#EIDOLON|eidolon]].
 La curiosité des halfelins ne connaît pas de limite. Certains poursuivent la voie du conjurateur pour explorer les multiples formes qu’une créature magique peut prendre. Leurs eidolons sont généralement parés de couleurs vives mais peuvent adopter n’importe quelle apparence concevable par leur imagination débridée. Ils font parfois également office de montures.
 
-{s:MR}{s:APG}**[Druide](./Druide.md).** Le druide gagne un bonus de chance de +1/4 aux jets de sauvegarde de son [compagnon animal](./compagnon animal.md).
+{s:MR}{s:APG}**[[Druide]].** Le druide gagne un bonus de chance de +1/4 aux jets de sauvegarde de son [[compagnon animal]].
 Les halfelins ont plutôt tendance à apprécier les bons côtés de la civilisation mais certains druides halfelins trouvent réconfort et bonheur au sein de la nature. D’autres encore s’allient avec les animaux qui sont déjà présents dans les villes.
 
-{s:MCA}**[Enquêteur](./Enquêteur.md).** L’enquêteur ajoute la formule d’un extrait issu de la [liste des formules de l'alchimiste](./Liste des formules dalchimiste.md) à son livre de formules. Elle doit être d’au moins un niveau de moins que la formule de plus haut niveau qu’il connaît.
+{s:MCA}**[[Enquêteur]].** L’enquêteur ajoute la formule d’un extrait issu de la [[liste des formules dalchimiste|liste des formules de l'alchimiste]] à son livre de formules. Elle doit être d’au moins un niveau de moins que la formule de plus haut niveau qu’il connaît.
 
-{s:MR}{s:APG}**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur choisit un [pouvoir de lignage](./Ensorceleur.md#LIGNAGE) accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Charisme. Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur choisit un [[ensorceleur#LIGNAGE|pouvoir de lignage]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Charisme. Il peut l’utiliser 1/2 fois de plus par jour.
 Les ensorceleurs halfelins gardent généralement leurs capacités magiques secrètes jusqu’à ce qu’ils en aient besoin, afin de prendre plus facilement leurs adversaires par surprise. Ils préfèrent souvent les enchantements qui améliorent leurs talents naturels de persuasion et les évocations énormes qui font paraître leur petite taille comme un trait sans importance.
 
-{s:MR}{s:APG}**[Guerrier](./Guerrier.md).** Le guerrier gagne un bonus de +1 au [DMD](./DMD.md) quand il résiste à un [croc-en-jambe](./Manoeuvres-offensives.md#CROCENJAMBE) ou une [lutte](./Manoeuvres-offensives.md#LUTTE).
+{s:MR}{s:APG}**[[Guerrier]].** Le guerrier gagne un bonus de +1 au [[DMD]] quand il résiste à un [[Manoeuvres offensives#CROCENJAMBE|croc-en-jambe]] ou une [[Manoeuvres offensives#LUTTE|lutte]].
 Les halfelins sont généralement moins bagarreurs que les autres races, mais cela ne les empêche pas de comprendre et d’apprécier l’importance des combattants entraînés capables de défendre leurs frères.
 
-{s:AO}**[Hypnotiseur](./Hypnotiseur.md).** Le personnage augmente de 1/3 le nombre d’[inductions d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR) qu’il peut utiliser chaque jour.
+{s:AO}**[[Hypnotiseur]].** Le personnage augmente de 1/3 le nombre d’[[hypnotiseur#INDUCTIONSDHYPNOTISEUR|inductions d’hypnotiseur]] qu’il peut utiliser chaque jour.
 
-{s:MR}{s:APG}**[Inquisiteur](./Inquisiteur.md).** L’inquisiteur peut changer son [don de travail en équipe](./Inquisiteur.md#DONDETRAVAILENEQUIPE) le plus récent 1/4 de fois de plus par jour.
+{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur peut changer son [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]] le plus récent 1/4 de fois de plus par jour.
 Grâce à leur aptitude à se fondre dans le décor et à écouter sans être remarqués, les halfelins parviennent facilement à obtenir des informations secrètes. Combiné avec leur curiosité naturelle, ce talent fait d’eux de parfaits inquisiteurs, tout spécialement lorsqu’il s’agit d’enquêter au sein des autres races.
 
-{s:cs}{s:UI}**[Justicier](./Justicier.md).** Gagne 1/6 d'un nouveau [talent social](./Justicier.md#TALENTSOCIAL).
+{s:cs}{s:UI}**[[Justicier]].** Gagne 1/6 d'un nouveau [[Justicier#TALENTSOCIAL|talent social]].
 
-{s:MCA}**[Lutteur](./Lutteur.md).** Ajoute 1 au [DMD](./DMD.md) du lutteur pour résister à une manoeuvre de [renversement](./renversement.md) ou de [lutte](./lutte.md).
+{s:MCA}**[[Lutteur]].** Ajoute 1 au [[DMD]] du lutteur pour résister à une manoeuvre de [[renversement]] ou de [[lutte]].
 
-{s:MR}{s:APG}**[Magicien](./Magicien.md).** Le magicien ajoute +1/2 à son niveau de classe effectif quand il détermine l’armure naturelle, l’Intelligence et les capacités spéciales de son [familier](./familier.md).
+{s:MR}{s:APG}**[[Magicien]].** Le magicien ajoute +1/2 à son niveau de classe effectif quand il détermine l’armure naturelle, l’Intelligence et les capacités spéciales de son [[familier]].
 Les magiciens halfelins cherchent souvent à percer les secrets de la magie pour deux raisons : leur curiosité naturelle et leur désir de s’élever au-dessus de leur taille physique et de forcer les autres races à les prendre en considération. C’est ainsi qu’ils ont tendance à préférer les sorts très visuels et les démonstrations de pouvoir évidentes.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}**[Magus](./Magus.md).** Le magus gagne 1/6 d’un nouvel [arcane de magus](./Magus.md#ARCANE).
+{s:MR}**[[Magus]].** Le magus gagne 1/6 d’un nouvel [[Magus#ARCANE|arcane de magus]].
 
-{s:AO}**[Médium](./Médium.md).** Le personnage augmente de 1/3 point le bonus dont bénéficie le médium grâce à son [aubaine de séance médiumnique](./Médium.md#ESPRIT), cela n'augmente pas le bonus des membre du groupe dans [les séances de groupes](./Médium.md#SÉANCEMÉDIUMNIQUEDEGROUPE).
+{s:AO}**[[Médium]].** Le personnage augmente de 1/3 point le bonus dont bénéficie le médium grâce à son [[médium#ESPRIT|aubaine de séance médiumnique]], cela n'augmente pas le bonus des membre du groupe dans [[médium#SÉANCEMÉDIUMNIQUEDEGROUPE|les séances de groupes]].
 
-{s:MR}{s:APG}**[Moine](./Moine.md).** Le moine gagne un bonus de +1 au [DMD](./DMD.md) pour résister à une [lutte](./Manoeuvres-offensives.md#LUTTE) et a droit à 1/2 [attaque étourdissante](./Moine.md#COUPETOURDISSANT) de plus par jour.
+{s:MR}{s:APG}**[[Moine]].** Le moine gagne un bonus de +1 au [[DMD]] pour résister à une [[Manoeuvres offensives#LUTTE|lutte]] et a droit à 1/2 [[Moine#COUPETOURDISSANT|attaque étourdissante]] de plus par jour.
 De nombreux halfelins désirent la vie simple faite de dévotion et de dévouement que constitue la voie du moine. Ces individus au comportement calme, apparemment inoffensifs et toujours prêts à entreprendre de durs labeurs, se fondent facilement dans les communautés halfelins. De nombreux pillards se sont rendus compte trop tard de leur erreur après avoir attaqué un halfelin désarmé.
 
-{s:AO}**[Occultiste](./Occultiste.md).** Le personnage ajoute 1/2 point de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) par jour.
+{s:AO}**[[Occultiste]].** Le personnage ajoute 1/2 point de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] par jour.
 
-{s:MR}{s:APG}**[Oracle](./Oracle.md).** L’oracle ajoute +1/2 à son niveau effectif quand il détermine les effets de son pouvoir de [malédiction](./Oracle.md#MALEDICTIONDELORACLE).
+{s:MR}{s:APG}**[[Oracle]].** L’oracle ajoute +1/2 à son niveau effectif quand il détermine les effets de son pouvoir de [[oracle#MALEDICTIONDELORACLE|malédiction]].
 Les oracles sont plutôt rares au sein de la plupart des races, mais on les rencontre en plus grand nombre dans les endroits où les halfelins sont opprimés ou réduits en esclavage. Ils assurent alors le rôle de centres spirituels secrets des communautés où les cultes et les rassemblements sont interdits. Les oracles halfelins vénèrent souvent les esprits de la terre, de la nature ou même les héros du passé.
 
-{s:MR}{s:APG}**[Paladin](./Paladin.md).** Le paladin ajoute +1/2 pv à son pouvoir d’[imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) (qu’il l’utilise pour soigner ou pour blesser).
+{s:MR}{s:APG}**[[Paladin]].** Le paladin ajoute +1/2 pv à son pouvoir d’[[Paladin#IMPOSITIONDESMAINS|imposition des mains]] (qu’il l’utilise pour soigner ou pour blesser).
 Vu la grande importance que les halfelins accordent à la communauté, au foyer et à la maison, nombre d’entre eux désirent devenir paladins. Les ennemis qui ne les prennent pas au sérieux apprennent bien vite qu’il s’agit d’une erreur lorsque ces robustes guerriers saints font s’abattre la fureur des cieux sur ceux qui nourrissent de sombres projets.
 
-{s:MR}**[Pistolier](./Pistolier.md).** Le pistolier rajoute un bonus d’esquive +1/4 à la [CA](./CA.md) au bonus qu’il possède déjà grâce au pouvoir [dérobade](./Pistolier.md#DÉROBADE) (avec un maximum de +2) ou un bonus de 1/4 à la [CA](./CA.md) quand il utilise l'exploit [esquive du pistolier](./exploits.md#ESQUIVEDUPISTOLIER).
+{s:MR}**[[Pistolier]].** Le pistolier rajoute un bonus d’esquive +1/4 à la [[CA]] au bonus qu’il possède déjà grâce au pouvoir [[Pistolier#DÉROBADE|dérobade]] (avec un maximum de +2) ou un bonus de 1/4 à la [[CA]] quand il utilise l'exploit [[exploits#ESQUIVEDUPISTOLIER|esquive du pistolier]].
 
-{s:MR}{s:APG}**[Prêtre](./Prêtre.md).** Le prêtre choisit un pouvoir de [domaine](./Prêtre.md#DOMAINES) accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Sagesse. Il peut l’utiliser 1/2 fois de plus par jour.
-Les halfelins ont une foi inébranlable les uns envers les autres et cette dévotion s’étend à leurs [dieux](./../Golarion/Religions et philosophies.md). Leur bonne humeur, leur curiosité et leur capacité à se fondre facilement dans de nouvelles sociétés en font d’excellents missionnaires.
+{s:MR}{s:APG}**[[Prêtre]].** Le prêtre choisit un pouvoir de [[Prêtre#DOMAINES|domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Sagesse. Il peut l’utiliser 1/2 fois de plus par jour.
+Les halfelins ont une foi inébranlable les uns envers les autres et cette dévotion s’étend à leurs [[Golarion.religions et philosophies|dieux]]. Leur bonne humeur, leur curiosité et leur capacité à se fondre facilement dans de nouvelles sociétés en font d’excellents missionnaires.
 
-{s:MCA}**[Prêtre combattant](./Prêtre combattant.md).** Ajoute 1/4 au niveau effectif du prêtre combattant quand il détermine les dégâts de son [arme sacrée](./Prêtre combattant.md#ARMESACREE).
+{s:MCA}**[[Prêtre combattant]].** Ajoute 1/4 au niveau effectif du prêtre combattant quand il détermine les dégâts de son [[Prêtre combattant#ARMESACREE|arme sacrée]].
 
-{s:AO}**[Psychiste](./Psychiste.md).** Le personnage considère son modificateur de [Charisme](./Charisme.md) comme supérieur d’1/3 point lorsqu’il s’agit de déterminer le nombre de rounds quotidiens pendant lesquels il peut utiliser ses [pouvoirs de discipline](./Psychiste.md#DISCIPLINEPSYCHIQUE).
+{s:AO}**[[Psychiste]].** Le personnage considère son modificateur de [[Charisme]] comme supérieur d’1/3 point lorsqu’il s’agit de déterminer le nombre de rounds quotidiens pendant lesquels il peut utiliser ses [[psychiste#DISCIPLINEPSYCHIQUE|pouvoirs de discipline]].
 
-{s:MR}{s:APG}**[Rôdeur](./Rôdeur.md).** Le rôdeur gagne un bonus d’esquive de +1/4 à la [CA](./CA.md) contre ses [ennemis jurés](./Rôdeur.md#ENNEMIJURE).
+{s:MR}{s:APG}**[[Rôdeur]].** Le rôdeur gagne un bonus d’esquive de +1/4 à la [[CA]] contre ses [[Rôdeur#ENNEMIJURE|ennemis jurés]].
 Les halfelins n’ont peut-être pas la réputation d’être de grands chasseurs, mais c’est seulement parce que ceux qui sont incapables de se défaire de leurs préjugés n’ont jamais vraiment pris leur talent en considération. Les rôdeurs halfelins excellent dans l’art d’abattre des proies de toutes tailles, de se cacher dans les régions sauvages aussi facilement que leurs cousins se fondent dans le décor urbain et de collaborer avec leurs compagnons animaux (qui fait parfois aussi office de monture) en tirant parti de leur sens de la tactique.
 
-{s:MR}{s:APG}**[Roublard](./Roublard.md).** Le roublard choisit une arme dans la liste qui suit : [dague](./dague (arme).md), [fronde](./fronde (arme).md) ou toute arme comportant la mention « halfelin » dans son nom. Il ajoute un bonus de +1/2 aux jets de confirmation de [coup critique](./Actions simples.md#COUPCRITIQUE) avec elle (+4 au maximum). Ce bonus ne se cumule pas avec [Don pour les critiques](./Don pour les critiques.md).
+{s:MR}{s:APG}**[[Roublard]].** Le roublard choisit une arme dans la liste qui suit : [[Dague (arme)|dague]], [[Fronde (arme)|fronde]] ou toute arme comportant la mention « halfelin » dans son nom. Il ajoute un bonus de +1/2 aux jets de confirmation de [[Actions simples#COUPCRITIQUE|coup critique]] avec elle (+4 au maximum). Ce bonus ne se cumule pas avec [[Don pour les critiques]].
 Les roublards correspondent au stéréotype de l’aventurier halfelin qui mène une vie de joyeux conteur, de cambrioleur rusé et d’audacieux bandit de grand chemin. Avec leurs pieds légers et leurs mains agiles, les halfelins font naturellement d’excellents voleurs et pickpockets, un fait que leurs détracteurs aiment à souligner.
 
-{s:MCA}**[Sanguin](./Sanguin.md).** Gain d’un bonus d’esquive de +1/4 à la [CA](./CA.md) lors d’une [rage sanguine](./Sanguin.md#RAGESANGUINE) contre des créatures d’au moins une catégorie de [taille](./taille.md) de plus que le sanguin.
+{s:MCA}**[[Sanguin]].** Gain d’un bonus d’esquive de +1/4 à la [[CA]] lors d’une [[Sanguin#RAGESANGUINE|rage sanguine]] contre des créatures d’au moins une catégorie de [[taille]] de plus que le sanguin.
 
-{s:MCA}**[Scalde](./Scalde.md).** Le scalde choisit une arme dans la liste suivante : [dague](./dague (arme).md), [fronde](./fronde (arme).md) ou toute arme comportant la mention « halfelin » dans son nom. Il gagne un bonus de +1/2 sur les jets de confirmation de [coup critique](./coup critique.md) avec cette arme, avec un maximum de +4. Ce bonus ne se cumule pas avec [Don pour les critiques](./Don pour les critiques.md) et autres effets similaires.
+{s:MCA}**[[Scalde]].** Le scalde choisit une arme dans la liste suivante : [[Dague (arme)|dague]], [[Fronde (arme)|fronde]] ou toute arme comportant la mention « halfelin » dans son nom. Il gagne un bonus de +1/2 sur les jets de confirmation de [[coup critique]] avec cette arme, avec un maximum de +4. Ce bonus ne se cumule pas avec [[Don pour les critiques]] et autres effets similaires.
 
-{s:MR}{s:APG}**[Sorcière](./Sorcière.md).** La sorcière ajoute +1/4 à son niveau de lanceur de sorts effectif quand elle détermine les effets des sorts que lui accorde son [protecteur](./Sorcière.md#SORTSDEPROTECTEUR).
+{s:MR}{s:APG}**[[Sorcière]].** La sorcière ajoute +1/4 à son niveau de lanceur de sorts effectif quand elle détermine les effets des sorts que lui accorde son [[Sorcière#SORTSDEPROTECTEUR|protecteur]].
 Les halfelins ont la réputation d’être de grands naïfs prêts à tout gober, mais ils collectionnent aussi les secrets et, chez certains, cette tendance se développe en une vocation de sorcière. Ils deviennent alors sages-femmes, herboristes ou érudits fous en quête de savoir.
 
-{s:AO}**[Spirite](./Spirite.md).** Le personnage ajoute 1/4 au nombre de rounds pendant lesquels le [fantôme intangible](./Fantômes (Spirite).md#FORMEDEMANIFESTATIONCOMPLETE) peut sortir de la [ligne de mire et d’effet du spirite](./Spirite.md#LAISSEETHEREE) avant qu’il ne soit renvoyé vers le plan Éthéré.
+{s:AO}**[[Spirite]].** Le personnage ajoute 1/4 au nombre de rounds pendant lesquels le [[Fantômes (Spirite)#FORMEDEMANIFESTATIONCOMPLETE|fantôme intangible]] peut sortir de la [[Spirite#LAISSEETHEREE|ligne de mire et d’effet du spirite]] avant qu’il ne soit renvoyé vers le plan Éthéré.
 
-{s:MCA}**[Tueur](./Tueur.md).** Ajout d’un bonus d’esquive de +1/4 à la [CA](./CA.md) contre les cibles étudiées.
+{s:MCA}**[[Tueur]].** Ajout d’un bonus d’esquive de +1/4 à la [[CA]] contre les cibles étudiées.
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -233,146 +233,146 @@ Voici les options accessibles aux halfelins, d’autres races adaptées peuvent 
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Acclamation incessante](./Acclamation incessante.md) || <sup>*ISR*</sup> || [Halfelin](./Halfelin.md), traits raicuax chance des halfelins et sans peur || +1 aux jets de sauvegarde qui passe à +3 contre la peur lorsqu'adjacent à un allié avec ce don
+| [[Acclamation incessante]] || <sup>*ISR*</sup> || [[Halfelin]], traits raicuax chance des halfelins et sans peur || +1 aux jets de sauvegarde qui passe à +3 contre la peur lorsqu'adjacent à un allié avec ce don
 
 |- CLASS="premier"
-| [Adroit et rapide](./Adroit et rapide.md) || <sup>MR</sup> || Trait racial [pieds rapides](./Halfelin.md#Traits_raciaux_alternatifs_7), [halfelin](./Halfelin.md) || +2 aux tests d'Acrobaties et d'Escalade
+| [[Adroit et rapide]] || <sup>MR</sup> || Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|pieds rapides]], [[halfelin]] || +2 aux tests d'Acrobaties et d'Escalade
 
 |- CLASS="premier"
-| [Alchimie maudite](./Alchimie maudite.md) || <sup>MR</sup> || Capacité de classe [alchimie rapide](./Alchimiste.md#ALCHIMIERAPIDE), Trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || Empêche les créatures maudites de bénéficier des effets des potions et des objets alchimiques
+| [[Alchimie maudite]] || <sup>MR</sup> || Capacité de classe [[Alchimiste#ALCHIMIERAPIDE|alchimie rapide]], Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || Empêche les créatures maudites de bénéficier des effets des potions et des objets alchimiques
 
 |- CLASS="premier"
-| [Apparence enfantine](./Apparence enfantine.md) || <sup>MJRA</sup> || [Cha](./Cha.md) 13, [halfelin](./Halfelin.md) || +2 en Déguisement pour se faire passer pour un humain, faire 10 pour Bluff
+| [[Apparence enfantine]] || <sup>MJRA</sup> || [[Cha]] 13, [[halfelin]] || +2 en Déguisement pour se faire passer pour un humain, faire 10 pour Bluff
 
 |- CLASS="premier"
-| [Bien préparé](./Bien préparé.md) || <sup>MJRA</sup> || [Halfelin](./Halfelin.md) || Le personnage possède toute une séries d’objets communs
+| [[Bien préparé]] || <sup>MJRA</sup> || [[Halfelin]] || Le personnage possède toute une séries d’objets communs
 
 |- CLASS="premier"
-| [Combattant prudent](./Combattant prudent.md)* || <sup>MR</sup> || [Halfelin](./Halfelin.md) || Augmente le bonus à la CA du combat sur la défensive et de la défense totale
+| [[Combattant prudent]]* || <sup>MR</sup> || [[Halfelin]] || Augmente le bonus à la CA du combat sur la défensive et de la défense totale
 |-
-| &emsp;[Coup désespéré](./Coup désespéré.md)* || <sup>MR</sup> || [Combattant prudent](./Combattant prudent.md), [BBA](./BBA.md) +1, [halfelin](./Halfelin.md) || +4 aux jets de confirmation critique en se battant sur la défensive, effectue une attaque en défense totale 1 fois par jour
+| &emsp;[[Coup désespéré]]* || <sup>MR</sup> || [[Combattant prudent]], [[BBA]] +1, [[halfelin]] || +4 aux jets de confirmation critique en se battant sur la défensive, effectue une attaque en défense totale 1 fois par jour
 |-
-| &emsp;&emsp;[Frappe surprenante](./Frappe surprenante.md)* || <sup>MR</sup> || [Combattant prudent](./Combattant prudent.md), [Coup désespéré](./Coup désespéré.md), [BBA](./BBA.md) +6, [halfelin](./Halfelin.md) || 1 fois par jour, ignore le malus à l'attaque imposé par le combat sur la défensive ou Coup désespéré
+| &emsp;&emsp;[[Frappe surprenante]]* || <sup>MR</sup> || [[Combattant prudent]], [[Coup désespéré]], [[BBA]] +6, [[halfelin]] || 1 fois par jour, ignore le malus à l'attaque imposé par le combat sur la défensive ou Coup désespéré
 |-
-| &emsp;[Défense instinctive](./Défense instinctive.md)* || <sup>MR</sup> || [Combattant prudent](./Combattant prudent.md), [BBA](./BBA.md) +3, [halfelin](./Halfelin.md) || Bonus aux Réflexes et au DMD en combattant sur la défensive ou en défense totale
+| &emsp;[[Défense instinctive]]* || <sup>MR</sup> || [[Combattant prudent]], [[BBA]] +3, [[halfelin]] || Bonus aux Réflexes et au DMD en combattant sur la défensive ou en défense totale
 |-
-| &emsp;[Défense maladroite](./Défense maladroite.md)* || <sup>MR</sup> || [Combattant prudent](./Combattant prudent.md), [halfelin](./Halfelin.md) || Confère un bonus à la CA et au DMD des alliés en combattant sur la défensive ou en défense totale
+| &emsp;[[Défense maladroite]]* || <sup>MR</sup> || [[Combattant prudent]], [[halfelin]] || Confère un bonus à la CA et au DMD des alliés en combattant sur la défensive ou en défense totale
 
 |- CLASS="premier"
-| [Frappe chanceuse](./Frappe chanceuse.md)* || <sup>MR</sup> || [BBA](./BBA.md) +5, trait racial [chance adaptative](./Halfelin.md#Traits_raciaux_standards_6), [halfelin](./Halfelin.md) || Relance les dégâts des armes avec chance adaptative
+| [[Frappe chanceuse]]* || <sup>MR</sup> || [[BBA]] +5, trait racial [[Halfelin#Traits_raciaux_standards_6|chance adaptative]], [[halfelin]] || Relance les dégâts des armes avec chance adaptative
 
 |- CLASS="premier"
-| [Frappe risquée](./Frappe risquée.md)* || <sup>MR</sup> || [BBA](./BBA.md) +1, [halfelin](./Halfelin.md) || Échange de la CA pour un bonus à l'attaque contre les créatures plus grandes
+| [[Frappe risquée]]* || <sup>MR</sup> || [[BBA]] +1, [[halfelin]] || Échange de la CA pour un bonus à l'attaque contre les créatures plus grandes
 
 |- CLASS="premier"
-| [Frondeur-fouetteur](./Frondeur-fouetteur.md)* || <sup>MR</sup> || Maniement de la [fronde](./fronde (arme).md) || Le personnage menace les cases autour de lui quand il est armé d'une fronde
+| [[Frondeur-fouetteur]]* || <sup>MR</sup> || Maniement de la [[fronde (arme)|fronde]] || Le personnage menace les cases autour de lui quand il est armé d'une fronde
 
 |- CLASS="premier"
-| [Frondeur halfelin](./Frondeur halfelin.md)* || <sup>MR</sup> || [Halfelin](./Halfelin.md) || Bonus racial de +1 à l'attaque avec les frondes
+| [[Frondeur halfelin]]* || <sup>MR</sup> || [[Halfelin]] || Bonus racial de +1 à l'attaque avec les frondes
 
 |- CLASS="premier"
-| [Grande cible](./Grande cible.md)* || <sup>MR</sup> || Maniement de la [fronde](./fronde (arme).md) || Inflige plus de dégâts avec une fronde contre les créature plus grandes
+| [[Grande cible]]* || <sup>MR</sup> || Maniement de la [[fronde (arme)|fronde]] || Inflige plus de dégâts avec une fronde contre les créature plus grandes
 
 |- CLASS="premier"
-| [Guérisseur chanceux](./Guérisseur chanceux.md) || <sup>MR</sup> || Trait racial [chance adaptative](./Halfelin.md#Traits_raciaux_standards_6), [halfelin](./Halfelin.md) || Utilise chance adaptative pour relancer les dégâts soignés par magie
+| [[Guérisseur chanceux]] || <sup>MR</sup> || Trait racial [[Halfelin#Traits_raciaux_standards_6|chance adaptative]], [[halfelin]] || Utilise chance adaptative pour relancer les dégâts soignés par magie
 
 |- CLASS="premier"
-| [Halfelin porte-chance](./Halfelin porte-chance.md) || <sup>MJRA</sup> || [Halfelin](./Halfelin.md) || Permet de lancer un jet de sauvegarde pour un allié 1/jour
+| [[Halfelin porte-chance]] || <sup>MJRA</sup> || [[Halfelin]] || Permet de lancer un jet de sauvegarde pour un allié 1/jour
 
 |- CLASS="premier"
-| [Individu chanceux](./Individu chanceux.md) || <sup>MR</sup> || Trait racial [chance adaptative](./Halfelin.md#Traits_raciaux_standards_6), [halfelin](./Halfelin.md) || Gain d'une utilisaiton supplémentaire de chance adaptative
+| [[Individu chanceux]] || <sup>MR</sup> || Trait racial [[Halfelin#Traits_raciaux_standards_6|chance adaptative]], [[halfelin]] || Gain d'une utilisaiton supplémentaire de chance adaptative
 |-
-| &emsp;[Chance adaptative](./Chance adaptative.md) || <sup>MR</sup> || [Individu chanceux](./Individu chanceux.md), trait racial [chance adaptable](./Halfelin.md#Traits_raciaux_alternatifs_7), personnage de niveau 10, [halfelin](./Halfelin.md) || Augmente le bonus et le nombre d'utilisation quotidiennes de la chance adaptative
+| &emsp;[[Chance adaptative]] || <sup>MR</sup> || [[Individu chanceux]], trait racial [[Halfelin#Traits_raciaux_alternatifs_7|chance adaptable]], personnage de niveau 10, [[halfelin]] || Augmente le bonus et le nombre d'utilisation quotidiennes de la chance adaptative
 
 |- CLASS="premier"
-| [Lâcher de munition](./Lâcher de munition.md)* || <sup>MR</sup> || 1 rang en [Escamotage](./Escamotage.md), maniement de la [fronde](./fronde (arme).md) || Le personnage peut recharger les frondes par une action rapide
+| [[Lâcher de munition]]* || <sup>MR</sup> || 1 rang en [[Escamotage]], maniement de la [[fronde (arme)|fronde]] || Le personnage peut recharger les frondes par une action rapide
 |-
-| [Rechargement acrobatique](./Rechargement acrobatique.md)* || <sup>MR</sup> || [Lâcher de munition](./Lâcher de munition.md), 1 rang en [Escamotage](./Escamotage.md), maniement de la [fronde](./fronde (arme).md) || Le personnage peut recharger les frondes par une action libre
+| [[Rechargement acrobatique]]* || <sup>MR</sup> || [[Lâcher de munition]], 1 rang en [[Escamotage]], maniement de la [[fronde (arme)|fronde]] || Le personnage peut recharger les frondes par une action libre
 
 |- CLASS="premier"
-| [Malédiction arcanique](./Malédiction arcanique.md) || <sup>MR</sup> || Lanceur de sorts profanes, trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || Le personnage peut sacrifier des sorts profanes pour rendre ses malédictions plus dure à éviter
+| [[Malédiction arcanique]] || <sup>MR</sup> || Lanceur de sorts profanes, trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || Le personnage peut sacrifier des sorts profanes pour rendre ses malédictions plus dure à éviter
 
 |- CLASS="premier"
-| [Malédiction d'apathie](./Malédiction dapathie.md) || <sup>MR</sup> || Trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || Le personnage applique le malus de sa malédiction aux tests d'initiative et aux jets d'attaque de sa cible
+| [[Malédiction dapathie|Malédiction d'apathie]] || <sup>MR</sup> || Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || Le personnage applique le malus de sa malédiction aux tests d'initiative et aux jets d'attaque de sa cible
 
 |- CLASS="premier"
-| [Malédiction de fascination](./Malédiction de fascination.md) || <sup>MR</sup> || Capacité de classe [représentation bardique](./représentation bardique.md), Trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || Le personnage combine les effets de sa fascination avec ceux de sa malédiction
+| [[Malédiction de fascination]] || <sup>MR</sup> || Capacité de classe [[représentation bardique]], Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || Le personnage combine les effets de sa fascination avec ceux de sa malédiction
 
 |- CLASS="premier"
-| [Malédiction de zone](./Malédiction de zone.md) || <sup>MR</sup> || [Extension de zone d’effet](./Extension de zone deffet.md), trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || Le personnage peut maudire plusieurs créatures à la fois
+| [[Malédiction de zone]] || <sup>MR</sup> || [[Extension de zone deffet|Extension de zone d’effet]], trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || Le personnage peut maudire plusieurs créatures à la fois
 
 |- CLASS="premier"
-| [Malédiction du pire](./Malédiction du pire.md) || <sup>MR</sup> || 5 rangs en [Connaissances](./Connaissances.md) (mystères), trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || La malédiction du personnage endigue les effets bénéfiques qui ciblent sa victime
+| [[Malédiction du pire]] || <sup>MR</sup> || 5 rangs en [[Connaissances]] (mystères), trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || La malédiction du personnage endigue les effets bénéfiques qui ciblent sa victime
 
 |- CLASS="premier"
-| [Malédiction étendue](./Malédiction étendue.md) || <sup>MR</sup> || Trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || Augmente la portée de la malédiction du personnage de 9 m
+| [[Malédiction étendue]] || <sup>MR</sup> || Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || Augmente la portée de la malédiction du personnage de 9 m
 
 |- CLASS="premier"
-| [Malédiction renforcée](./Malédiction renforcée.md) || <sup>MR</sup> || [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md), ou [Réflexes surhumains](./Réflexes surhumains.md); trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || Augmente le malus de la malédiction du personnage aux jets de sauvegarde auxquels il a un bonus
+| [[Malédiction renforcée]] || <sup>MR</sup> || [[Vigueur surhumaine]], [[Volonté de fer]], ou [[Réflexes surhumains]]; trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || Augmente le malus de la malédiction du personnage aux jets de sauvegarde auxquels il a un bonus
 
 |- CLASS="premier"
-| [Œil malveillant](./Œil malveillant.md) || <sup>MR</sup> || Maléfice [mauvais oeil](./maléfices.md#Mauvais oeil), trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || Le personnage combine les effets de son mauvais œil avec ceux de sa malédiction
+| [[Œil malveillant]] || <sup>MR</sup> || Maléfice [[Maléfices#Mauvais oeil|mauvais oeil]], trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || Le personnage combine les effets de son mauvais œil avec ceux de sa malédiction
 
 |- CLASS="premier"
-| [Passer pour un humain](./Passer pour un humain.md) || <sup>MJRA</sup> || [Demi-elfe](./Demi-elfe.md), [demi-orque](./Demi-orque.md), ou [halfelin](./Halfelin.md) (voir texte) || +10 aux tests de Déguisement pour ressembler à un humain
+| [[Passer pour un humain]] || <sup>MJRA</sup> || [[Demi-elfe]], [[demi-orque]], ou [[halfelin]] (voir texte) || +10 aux tests de Déguisement pour ressembler à un humain
 
 |- CLASS="premier"
-| [Porte-poisse versatile](./Porte-poisse versatile.md) || <sup>MR</sup> || [Volonté de fer](./Volonté de fer.md), Trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || Le DD de la malédiction du personnage se base sur l'Intelligence ou la Sagesse au lieu du Charisme
+| [[Porte-poisse versatile]] || <sup>MR</sup> || [[Volonté de fer]], Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || Le DD de la malédiction du personnage se base sur l'Intelligence ou la Sagesse au lieu du Charisme
 
 |- CLASS="premier"
-| [Propriété partagée](./Propriété partagée.md) || <sup>*ISR*</sup> || [Bien préparé](./Bien préparé.md), 1 rang en [Escamotage](./Escamotage.md), [halfelin](./Halfelin.md) || Dégaine un objet possédé par un allié avec ce don par une action de mouvement tant qu'il se trouve à 9 mètres ou moins
+| [[Propriété partagée]] || <sup>*ISR*</sup> || [[Bien préparé]], 1 rang en [[Escamotage]], [[halfelin]] || Dégaine un objet possédé par un allié avec ce don par une action de mouvement tant qu'il se trouve à 9 mètres ou moins
 
 |- CLASS="premier"
-| [Résolution courageuse](./Résolution courageuse.md) || <sup>MR</sup> || Trait racial [sans peur](./Halfelin.md#Traits_raciaux_standards_6) ou [veule](./Halfelin.md#Traits_raciaux_standards_7), [halfelin](./Halfelin.md) || Améliore la résistance aux effets de peur
+| [[Résolution courageuse]] || <sup>MR</sup> || Trait racial [[Halfelin#Traits_raciaux_standards_6|sans peur]] ou [[Halfelin#Traits_raciaux_standards_7|veule]], [[halfelin]] || Améliore la résistance aux effets de peur
 
 |- CLASS="premier"
-| [Science du coup sous la ceinture](./Science du coup sous la ceinture.md)* || <sup>MR</sup> || [BBA](./BBA.md) +4, [halfelin](./Halfelin.md), trait racial [coup sous la ceinture](./Halfelin.md#Traits_raciaux_alternatifs_7) || +2 aux jets de confirmation critique contre les créatures plus grandes, relance un jet de confirmation critique 1 fois par jour
+| [[Science du coup sous la ceinture]]* || <sup>MR</sup> || [[BBA]] +4, [[halfelin]], trait racial [[Halfelin#Traits_raciaux_alternatifs_7|coup sous la ceinture]] || +2 aux jets de confirmation critique contre les créatures plus grandes, relance un jet de confirmation critique 1 fois par jour
 
 |- CLASS="premier"
-| [Sort maudit](./Sort maudit.md) || <sup>MR</sup> || Deux [dons de métamagie](./Dons.md#DONMETAMAGIE), Trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || Le personnage combine les effets de ses sorts avec ceux de sa malédiction
+| [[Sort maudit]] || <sup>MR</sup> || Deux [[dons#DONMETAMAGIE|dons de métamagie]], Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || Le personnage combine les effets de ses sorts avec ceux de sa malédiction
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classes
-- [Gardien de la communauté (oracle)](./Gardien de la communauté (oracle).md) *(MR)*
-- [Chapardeur (roublard)](./Chapardeur (roublard).md) *(MR)*
-- [Champion des poids plume (moine)](./Champion des poids plume (moine).md) *(MR)*
+- [[Gardien de la communauté (oracle)]] *(MR)*
+- [[Chapardeur (roublard)]] *(MR)*
+- [[Champion des poids plume (moine)]] *(MR)*
 
 #### Équipement
-- [Bâtons du diable halfelins](./Bâtons du diable halfelins (objet).md) *(MR)*
-- [Bière Pattefolle](./Bière Pattefolle (objet).md) *(MR)*
-- [Cape parachute](./Cape parachute (objet).md) *(MR)*
-- [Confiture alchimique](./Confiture alchimique (objet).md) *(MR)*
-- [Corde rugissante](./Corde rugissante (objet).md) *(MR)*
-- [Double fronde](./double fronde (arme).md) *(MR)*
-- [Fronde piquée](./fronde piquée (arme).md) *(MR)*
-- [Petites pierres-étoiles (10)](./petites pierres-étoiles (arme).md) *(MR)*
-- [Pierres à pointes (10)](./pierres à pointes (arme).md) *(MR)*
-- [Pierres-éponges (10)](./pierres-éponges (arme).md) *(MR)*
-- [Pierres-pelotes (10)](./pierres-pelotes (arme).md) *(MR)*
-- [Punch de dragon au whisky](./Punch de dragon au whisky (objet).md) *(MR)*
-- [Tonique médicinal de Lisken](./Tonique médicinal de Lisken (objet).md) *(MR)*
+- [[Bâtons du diable halfelins (objet)|Bâtons du diable halfelins]] *(MR)*
+- [[Bière Pattefolle (objet)|Bière Pattefolle]] *(MR)*
+- [[Cape parachute (objet)|Cape parachute]] *(MR)*
+- [[Confiture alchimique (objet)|Confiture alchimique]] *(MR)*
+- [[Corde rugissante (objet)|Corde rugissante]] *(MR)*
+- [[double fronde (arme)|Double fronde]] *(MR)*
+- [[fronde piquée (arme)|Fronde piquée]] *(MR)*
+- [[petites pierres-étoiles (arme)|Petites pierres-étoiles (10)]] *(MR)*
+- [[pierres à pointes (arme)|Pierres à pointes (10)]] *(MR)*
+- [[pierres-éponges (arme)|Pierres-éponges (10)]] *(MR)*
+- [[pierres-pelotes (arme)|Pierres-pelotes (10)]] *(MR)*
+- [[Punch de dragon au whisky (objet)|Punch de dragon au whisky]] *(MR)*
+- [[Tonique médicinal de Lisken (objet)|Tonique médicinal de Lisken]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Bracelet porte-bonheur](./Bracelet porte-bonheur.md) *(ISR)*
-- [Chemise de l'insoupçonnable](./Chemise de linsoupçonnable.md) *(ISR)*
-- [Fustibale ingénieux](./Fustibale ingénieux.md) *(ISR)*
-- [Gants des doigts rapides](./gants des doigts rapides.md) *(MR)*
-- [Herbe à pipe de fumée solide](./herbe à pipe de fumée solide.md) *(MR)*
-- [Livre des recettes merveilleuses](./livre des recettes merveilleuses.md) *(MR)*
-- [Mailles des pas malins](./Mailles des pas malins.md) *(ISR)*
-- [Poussière de fuite](./poussière de fuite.md) *(MR)*
-- [Symbole de chance](./symbole de chance.md) *(MR)*
+- [[Bracelet porte-bonheur]] *(ISR)*
+- [[Chemise de linsoupçonnable|Chemise de l'insoupçonnable]] *(ISR)*
+- [[Fustibale ingénieux]] *(ISR)*
+- [[Gants des doigts rapides]] *(MR)*
+- [[Herbe à pipe de fumée solide]] *(MR)*
+- [[Livre des recettes merveilleuses]] *(MR)*
+- [[Mailles des pas malins]] *(ISR)*
+- [[Poussière de fuite]] *(MR)*
+- [[Symbole de chance]] *(MR)*
 
 #### Sorts
-- [Bénédiction de chance et de résolution](./bénédiction de chance et de résolution.md) *(MR)*
-- [Bénédiction de chance et de résolution de groupe](./bénédiction de chance et de résolution de groupe.md) *(MR)*
-- [Double terrifiant](./double terrifiant.md) *(MR)*
-- [Négligence](./Négligence.md) *(ISR)*
-- [Sceau de fuite](./sceau de fuite.md) *(MR)*
-- [Village voilé](./village voilé.md) *(MR)*
+- [[Bénédiction de chance et de résolution]] *(MR)*
+- [[Bénédiction de chance et de résolution de groupe]] *(MR)*
+- [[Double terrifiant]] *(MR)*
+- [[Négligence]] *(ISR)*
+- [[Sceau de fuite]] *(MR)*
+- [[Village voilé]] *(MR)*
 
 </td></tr></table>

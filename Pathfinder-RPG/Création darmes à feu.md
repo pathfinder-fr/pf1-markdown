@@ -10,10 +10,10 @@ Categories:
 
 {s:uc}*Le personnage sait réparer et restaurer les armes à feu.*
 
-**Avantage.** Si le personnage a accès à une [trousse d’armurier](./Trousse darmurier (objet).md), il peut créer ou restaurer des armes à feu, fabriquer des balles et mélanger de la poudre noire pour toutes les armes à feu.
-Pour cela, il n’a pas besoin de faire de test d’[Artisanat](./Artisanat.md).
+**Avantage.** Si le personnage a accès à une [[Trousse darmurier (objet)|trousse d’armurier]], il peut créer ou restaurer des armes à feu, fabriquer des balles et mélanger de la poudre noire pour toutes les armes à feu.
+Pour cela, il n’a pas besoin de faire de test d’[[Artisanat]].
 - *Fabriquer une arme à feu.* Le personnage fabrique toutes les armes à feu rudimentaires pour la moitié de leur prix habituel en matériaux bruts. Si le MJ est d’accord, il peut également fabriquer des armes à feu évoluées pour la moitié de leur prix habituel en matériaux bruts. Cette méthode de fabrication demande une journée de travail par tranche de 1.000 po du prix de l’arme (1 jour au minimum).
-- *Fabriquer des munitions.* Le personnage fabrique des balles, des plombs et de la poudre noire pour 10% (en composantes brutes) du prix habituel. S’il possède au moins 1 rang en [Artisanat](./Artisanat.md) (alchimie), il peut fabriquer une cartouche alchimique pour un coût en composantes brutes égal à la moitié de son prix. Si le MJ est d’accord, il peut fabriquer des cartouches alchimiques métalliques pour un coût en composantes brutes égal à la moitié de leur prix. Cette méthode de fabrication demande une journée de travail par tranche de 1 000 po de munition (1 jour au minimum).
-- *Restaurer une arme à feu brisée.* Chaque jour, le personnage peut utiliser ce don pour consacrer une heure à la réparation d’une arme à feu [brisée](./Brisé.md). Il peut profiter d’une période de repos pour réparer l’arme.
+- *Fabriquer des munitions.* Le personnage fabrique des balles, des plombs et de la poudre noire pour 10% (en composantes brutes) du prix habituel. S’il possède au moins 1 rang en [[Artisanat]] (alchimie), il peut fabriquer une cartouche alchimique pour un coût en composantes brutes égal à la moitié de son prix. Si le MJ est d’accord, il peut fabriquer des cartouches alchimiques métalliques pour un coût en composantes brutes égal à la moitié de leur prix. Cette méthode de fabrication demande une journée de travail par tranche de 1 000 po de munition (1 jour au minimum).
+- *Restaurer une arme à feu brisée.* Chaque jour, le personnage peut utiliser ce don pour consacrer une heure à la réparation d’une arme à feu [[brisé|brisée]]. Il peut profiter d’une période de repos pour réparer l’arme.
 
-**Spécial.** Si le personnage est [pistolier](./Pistolier.md), ce don permet de réparer et de restaurer la première arme usée qu’il a reçue. Il lui faut 300 po et 1 journée de travail pour en faire une [arme de maître](./arme de maître.md) de même type.
+**Spécial.** Si le personnage est [[pistolier]], ce don permet de réparer et de restaurer la première arme usée qu’il a reçue. Il lui faut 300 po et 1 journée de travail pour en faire une [[arme de maître]] de même type.

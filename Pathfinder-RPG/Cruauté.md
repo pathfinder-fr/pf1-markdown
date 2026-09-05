@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*La souffrance des autres vous incite à libérer toute votre cruauté.*
 
-**Conditions.** Suivant de [Zon-Kuthon](./Zon-Kuthon (technique).md).
+**Conditions.** Suivant de [[Zon-Kuthon (technique)|Zon-Kuthon]].
 
-**Avantage.** Lorsque le personnage inflige des dégâts de [saignement](./Saignement.md) à un adversaire, le soumet à un effet de [peur](./Registre.md) ou de [douleur](./Registre.md), ou réduit ses points de vie à 0 ou moins, il gagne un bonus de moral de +2 aux [jets d'attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) des armes pendant 1 round.
+**Avantage.** Lorsque le personnage inflige des dégâts de [[saignement]] à un adversaire, le soumet à un effet de [[registre|peur]] ou de [[registre|douleur]], ou réduit ses points de vie à 0 ou moins, il gagne un bonus de moral de +2 aux [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] des armes pendant 1 round.

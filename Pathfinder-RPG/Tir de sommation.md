@@ -11,8 +11,8 @@ Categories:
 
 *Un tir intentionnellement raté de justesse démontre le talent effroyable du personnage avec une arme à distance.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), [Arme de prédilection](./Arme de prédilection.md), Maniement de l’arme appropriée
+**Conditions.** [[Tir à bout portant]], [[Tir de précision]], [[Arme de prédilection]], Maniement de l’arme appropriée
 
-**Avantages.** Le personnage peut effectuer une attaque de contact à distance par une [action simple](./Action simple.md) en utilisant une [arme à distance](./arme à distance.md) de prédilection. S’il réussit, au lieu d’infliger des dégâts ou d’autres effets liés à l’attaque, il peut tenter un jet d’[intimidation](./Intimidation.md) par une [action libre](./Action libre.md) afin de démoraliser sa cible. La cible n’a pas besoin de se situer à moins de 9m (6c) du tireur, comme elle n’a pas besoin de le voir ni de l’entendre.
+**Avantages.** Le personnage peut effectuer une attaque de contact à distance par une [[action simple]] en utilisant une [[arme à distance]] de prédilection. S’il réussit, au lieu d’infliger des dégâts ou d’autres effets liés à l’attaque, il peut tenter un jet d’[[intimidation]] par une [[action libre]] afin de démoraliser sa cible. La cible n’a pas besoin de se situer à moins de 9m (6c) du tireur, comme elle n’a pas besoin de le voir ni de l’entendre.

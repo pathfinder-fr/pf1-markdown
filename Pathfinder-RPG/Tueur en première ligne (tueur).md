@@ -64,5 +64,5 @@ de tueur en première ligne : allié involontaire
 AG
 , don, camouflage
 du tueur*, opportunisme. Les talents de tueur signalés
-par un astérisque [*] sont présentés dans la description de la
+par un astérisque [[*]] sont présentés dans la description de la
 classe de tueur, page 66.

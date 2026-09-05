@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Flamboyante supérieure
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Flamboyante supérieure](./Descriptions individuelles des propriétés spéciales des armes.md#Flamboyante supérieure)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Flamboyante supérieure]]

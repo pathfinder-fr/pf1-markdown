@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#MONTUREFEROCEMAJEUR
 ---
 
->>> [pouvoirs de rage#MONTUREFEROCEMAJEUR](./Pouvoirs de rage.md#MONTUREFEROCEMAJEUR)
+>>> [[pouvoirs de rage#MONTUREFEROCEMAJEUR]]

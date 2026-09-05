@@ -7,4 +7,4 @@ Categories:
 - Géographie
 ---
 
-Cette très vaste plaine agricole du [Chéliax](./Chéliax.md) s'étend depuis le sud du cours de l'[Adivian](./Adivian.md) jusqu'aux [Bois d'Anferita](./Bois Anferita.md).
+Cette très vaste plaine agricole du [[Chéliax]] s'étend depuis le sud du cours de l'[[Adivian]] jusqu'aux [[Golarion.Bois Anferita|Bois d'Anferita]].

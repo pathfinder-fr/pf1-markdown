@@ -4,9 +4,9 @@ Title: Gardien des âmes (archétype)
 LastModified: 2022-04-27 11:17
 ---
 
-{s:bodmenu}• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+{s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 Vous vous voyez comme un psychopompe honoraire, un berger des esprits qui s’assure que le cycle des âmes se répète sans encombre. Même si vous n’êtes pas capable de protéger le cycle des âmes dans son entièreté, vous vous efforcez de garantir qu’au bout de leur séjour sur le plan Matériel, les âmes poursuivent leur chemin sans incident. Vous oeuvrez à libérer les âmes emprisonnées, à empêcher les nécromanciens d’animer les morts et à détruire les morts-vivants afin que leurs âmes rejoignent le cycle.

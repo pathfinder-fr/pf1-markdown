@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ;** Niveau** [Bard](./Barde.md) 6, [Psy](./Psychiste.md) 8  
+**École** [[Abjuration]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 6, [[Psychiste|Psy]] 8  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un trousseau de clefs)  
+**Composantes** [[Composantes|V, G, M]] (un trousseau de clefs)  
 
 **Portée** 3 m (2 {s:c})  
 
 **Zone** émanation sphérique de 3 m (2 {s:c}) de rayon centrée sur le lanceur de sorts  
 
-**Durée** [concentration](./Présentation des sorts.md#DUREE)  
+**Durée** [[Présentation des sorts#DUREE|concentration]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-À force de singeries et de démonstrations, le personnage crée une zone protégée qui affecte négativement les ennemis qui tentent d'y pénétrer. Quand un adversaire entre dans cette zone, il doit immédiatement faire un jet de [Volonté](./Volonté.md). S'il échoue, il est [confus](./Confus.md) tant qu'il se trouve dans la zone d'effet et pendant 1 [round](./round.md) après l'avoir quittée. S'il réussit son [jet de sauvegarde](./jet de sauvegarde.md), il est [chancelant](./Chancelant.md) tant qu'il reste dans la zone et pendant 1 [round](./round.md) après l'avoir quittée.
+À force de singeries et de démonstrations, le personnage crée une zone protégée qui affecte négativement les ennemis qui tentent d'y pénétrer. Quand un adversaire entre dans cette zone, il doit immédiatement faire un jet de [[Volonté]]. S'il échoue, il est [[confus]] tant qu'il se trouve dans la zone d'effet et pendant 1 [[round]] après l'avoir quittée. S'il réussit son [[jet de sauvegarde]], il est [[chancelant]] tant qu'il reste dans la zone et pendant 1 [[round]] après l'avoir quittée.

@@ -10,33 +10,33 @@ Categories:
 <div class="BD">
 {s:BDTitre|Moxsahbull|FP 7}
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
-{s:BDTexte|*Source : [Aides de jeu AP13#SIEGEDEDREZEN|La Colère des Justes], p.96*; [Berbalang](./../Pathfinder-RPG/Berbalang.md) [évolué](./../Pathfinder-RPG/Archétypes.md#CREATUREEVOLUEE) [profané](./../Pathfinder-RPG/Profanation.md)}
+{s:BDTexte|*Source : [[Aides de jeu AP13#SIEGEDEDREZEN|La Colère des Justes]], p.96*; [[Pathfinder-RPG.Berbalang|Berbalang]] [[Pathfinder-RPG.Archétypes#CREATUREEVOLUEE|évolué]] [[Pathfinder-RPG.Profanation|profané]]}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Mort-vivant](./../Pathfinder-RPG/type Mort-vivant.md) de taille M, CM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./../Pathfinder-RPG/Perception.md) +16}
+{s:BDTexte|[[Pathfinder-RPG.type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] à 18 m (12 {s:c}) ; [[Pathfinder-RPG.Perception|Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 14, pris au dépourvu 19 (Dex +8, esquive +1, naturelle +5)}
 {s:BDTexte|**pv** 92 (8d8+64)}
 {s:BDTexte|**Réf** +8, **Vig** +8, **Vol** +11}
-{s:BDTexte|**Capacité défensive** projection, [guérison accélérée](./../Pathfinder-RPG/Guérison accélérée (capacité).md#) 5 <sup>*</sup>}
+{s:BDTexte|**Capacité défensive** projection, [[Pathfinder-RPG.Guérison accélérée (capacité)#|guérison accélérée]] 5 <sup>*</sup>}
 {s:BDTexte|**RD** 15/argent ou Bien}
-{s:BDTexte|**Immunité** [traits des morts-vivants](./../Pathfinder-RPG/Traits des morts-vivants.md)}
+{s:BDTexte|**Immunité** [[Pathfinder-RPG.traits des morts-vivants|traits des morts-vivants]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m, vol 18 m, bonne}
-{s:BDTexte|**Corps à corps**  griffes, +11 (1d6+5 plus paralysie) et 1 morsure, +12 (1d6+5 plus paralysie) ou contact intangible, +12 (1d4 points affaiblissement de [Constitution](./../Pathfinder-RPG/Constitution.md))}
-{s:BDTexte|**Attaques spéciales** [paralysie](./../Pathfinder-RPG/Paralysie (capacité).md) (1d4+1 rounds, DD 18)}
+{s:BDTexte|**Corps à corps**  griffes, +11 (1d6+5 plus paralysie) et 1 morsure, +12 (1d6+5 plus paralysie) ou contact intangible, +12 (1d4 points affaiblissement de [[Pathfinder-RPG.Constitution|Constitution]])}
+{s:BDTexte|**Attaques spéciales** [[Pathfinder-RPG.paralysie (capacité)|paralysie]] (1d4+1 rounds, DD 18)}
 {s:BDSousTitre|Magie}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9 ; concentration +15)}
-{s:BDSorts|*A volonté* - *[saignement](./../Pathfinder-RPG/sort Saignement.md)*, *[son imaginaire](./../Pathfinder-RPG/Son imaginaire.md)* (DD 16)}
-{s:BDSorts|*3/jour* - *[charme-personne](./../Pathfinder-RPG/Charme-personne.md)* (DD 17), *[modification d'apparence](./../Pathfinder-RPG/Modification dapparence.md)*}
+{s:BDSorts|*A volonté* - *[[Pathfinder-RPG.sort saignement|saignement]]*, *[[Pathfinder-RPG.son imaginaire|son imaginaire]]* (DD 16)}
+{s:BDSorts|*3/jour* - *[[Pathfinder-RPG.charme-personne|charme-personne]]* (DD 17), *[[Pathfinder-RPG.modification dapparence|modification d'apparence]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 23, **Con** -, **Int** 17, **Sag** 20, **Cha** 22}
 {s:BDTexte|**BBA** +8, **BMO** +11, **DMD** 28}
-{s:BDTexte|**Dons** [Attaque en vol](./../Pathfinder-RPG/Attaque en vol.md), [Esquive](./../Pathfinder-RPG/Esquive.md), [Maîtrise du combat défensif](./../Pathfinder-RPG/Maîtrise du combat défensif.md), [Souplesse du serpent](./../Pathfinder-RPG/Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Bluff](./../Pathfinder-RPG/Bluff.md) +12, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (folklore local) +7, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (religion) +8, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +17, [Évasion](./../Pathfinder-RPG/Évasion.md) +12, [Perception](./../Pathfinder-RPG/Perception.md) +16, [Vol](./../Pathfinder-RPG/Vol.md) +19}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Attaque en vol|Attaque en vol]], [[Pathfinder-RPG.Esquive|Esquive]], [[Pathfinder-RPG.Maîtrise du combat défensif|Maîtrise du combat défensif]], [[Pathfinder-RPG.Souplesse du serpent|Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Bluff|Bluff]] +12, [[Pathfinder-RPG.Connaissances|Connaissances]] (folklore local) +7, [[Pathfinder-RPG.Connaissances|Connaissances]] (religion) +8, [[Pathfinder-RPG.Discrétion|Discrétion]] +17, [[Pathfinder-RPG.Évasion|Évasion]] +12, [[Pathfinder-RPG.Perception|Perception]] +16, [[Pathfinder-RPG.Vol|Vol]] +19}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Projection (Sur).** Une fois par jour, par une [action complexe](./../Pathfinder-RPG/Action complexe.md), le berbalang peut entrer en transe et séparer son esprit de son corps. Cette technique partage son nombre actuel de points de vie entre son corps et son esprit. L’esprit du berbalang gagne le [sous-type intangible](./../Pathfinder-RPG/sous-type intangible.md) et le pouvoirs spécial [intangible](./../Pathfinder-RPG/Intangible (capacité).md). Sinon, il conserve les mêmes caractéristiques que son enveloppe physique, avec ces changements : CA 19, contact 19, pris au dépourvu 10 (Dex +4, esquive +1, parade +4), une unique attaque de contact intangible infligeant un [affaiblissement temporaire](./../Pathfinder-RPG/affaiblissement temporaire.md) de 1d4 points de [Constitution](./../Pathfinder-RPG/Constitution.md). L’esprit projeté ne peut pas s’éloigner à plus de 1,5 km du corps du berbalang. La créature n’appartenant qu’en partie à ce plan d’existence lorsqu’elle est dans cet état, son corps gagne le sort *[déplacement](./../Pathfinder-RPG/Déplacement.md)*. Lorsque le berbalang est ainsi divisé, son corps est [inconscient](./../Pathfinder-RPG/Inconscient.md) et [sans défense](./../Pathfinder-RPG/Sans défense.md). Si le corps physique du berbalang est blessé, sa projection le réintègre aussitôt, et son corps perd le sort de *[déplacement](./../Pathfinder-RPG/Déplacement.md)*. Si le corps physique est tué, l’esprit meurt aussitôt. Si le nombre de points de vie de l’esprit est réduit à 0 ou moins, celui-ci réintègre aussitôt son corps. La forme spirituelle du berbalang peut dissiper cet effet à tout moment par une [action simple](./../Pathfinder-RPG/Action simple.md), auquel cas elle réintègre aussitôt son corps. Lorsque l’esprit du berbalang retourne dans son corps, faites la somme des points de vie de l’esprit et des points de vie du corps physique pour déterminer son total actuel de points de vie.}
+{s:BDTexte|**Projection (Sur).** Une fois par jour, par une [[Pathfinder-RPG.action complexe|action complexe]], le berbalang peut entrer en transe et séparer son esprit de son corps. Cette technique partage son nombre actuel de points de vie entre son corps et son esprit. L’esprit du berbalang gagne le [[Pathfinder-RPG.sous-type intangible|sous-type intangible]] et le pouvoirs spécial [[Pathfinder-RPG.intangible (capacité)|intangible]]. Sinon, il conserve les mêmes caractéristiques que son enveloppe physique, avec ces changements : CA 19, contact 19, pris au dépourvu 10 (Dex +4, esquive +1, parade +4), une unique attaque de contact intangible infligeant un [[Pathfinder-RPG.affaiblissement temporaire|affaiblissement temporaire]] de 1d4 points de [[Pathfinder-RPG.Constitution|Constitution]]. L’esprit projeté ne peut pas s’éloigner à plus de 1,5 km du corps du berbalang. La créature n’appartenant qu’en partie à ce plan d’existence lorsqu’elle est dans cet état, son corps gagne le sort *[[Pathfinder-RPG.déplacement|déplacement]]*. Lorsque le berbalang est ainsi divisé, son corps est [[Pathfinder-RPG.inconscient|inconscient]] et [[Pathfinder-RPG.sans défense|sans défense]]. Si le corps physique du berbalang est blessé, sa projection le réintègre aussitôt, et son corps perd le sort de *[[Pathfinder-RPG.déplacement|déplacement]]*. Si le corps physique est tué, l’esprit meurt aussitôt. Si le nombre de points de vie de l’esprit est réduit à 0 ou moins, celui-ci réintègre aussitôt son corps. La forme spirituelle du berbalang peut dissiper cet effet à tout moment par une [[Pathfinder-RPG.action simple|action simple]], auquel cas elle réintègre aussitôt son corps. Lorsque l’esprit du berbalang retourne dans son corps, faites la somme des points de vie de l’esprit et des points de vie du corps physique pour déterminer son total actuel de points de vie.}
 
 </div>
 </td><td><div class="BD">
@@ -44,7 +44,7 @@ Categories:
 
 Moxsahbull n'est pas directement affilié aux démons ou à leurs fanatiques, mais une sorte de trêve fragile existe entre lui et les habitants de Drézen. Les démons et les fanatiques l’autorisent à occuper la crypte tant qu'il se nourrit uniquement des prisonniers évadés de la colline du Paradis. Les démons sont des hôtes courtois, ils laissent une poignée de prisonniers s'évader toutes les quelques semaines pour que le berbalang puisse les traquer.
 
-Moxsahbull a été créé dans une zone [profanée](./../Pathfinder-RPG/Profanation.md), et dipose d'une [guérison accélérée](./../Pathfinder-RPG/Guérison accélérée (capacité).md#) tant que persiste le sort de [sanctification maléfique](./../Pathfinder-RPG/Sanctification maléfique.md)
+Moxsahbull a été créé dans une zone [[Pathfinder-RPG.Profanation|profanée]], et dipose d'une [[Pathfinder-RPG.Guérison accélérée (capacité)#|guérison accélérée]] tant que persiste le sort de [[Pathfinder-RPG.sanctification maléfique|sanctification maléfique]]
 
 ### Trésor (standard)
 800 pièces d'or.
@@ -52,7 +52,7 @@ Moxsahbull a été créé dans une zone [profanée](./../Pathfinder-RPG/Profanat
 - Cithare en orme incrusté de Larmes de Laérale d'une valeur de 800 pièces d'or
 - Harpe en bois simple incrusté d'agates rubanée d'une valeur de 400 pièces d'or
 - Manteau en laine d'une valeur de 80 pièces d'or
-- Potion de [saut](./../Pathfinder-RPG/Saut.md)
-- 2 Parchemins de [Façonnage du bois](./../Pathfinder-RPG/Façonnage du bois.md)
-- 2 Parchemins de [Ramollissement de la terre et de la pierre](./../Pathfinder-RPG/Ramollissement de la terre et de la pierre.md)
+- Potion de [[Pathfinder-RPG.saut|saut]]
+- 2 Parchemins de [[Pathfinder-RPG.Façonnage du bois|Façonnage du bois]]
+- 2 Parchemins de [[Pathfinder-RPG.Ramollissement de la terre et de la pierre|Ramollissement de la terre et de la pierre]]
 </div></td></tr></table>

@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage récupère un pouvoir quand il tue une créature. *
 
-**Conditions.** [Cha](./Cha.md) 13, [lignage](./Lignages.md) d’[ensorceleur](./Ensorceleur.md)
+**Conditions.** [[Cha]] 13, [[lignages|lignage]] d’[[ensorceleur]]
 
-**Avantage.** Une fois par jour, par une [action immédiate](./Action immédiate.md) qui suit la réduction d’une créature à 0 [point de vie](./pv.md) ou moins suite à l’utilisation d’un sort d’[ensorceleur](./Ensorceleur.md), le personnage récupère l’usage d’un pouvoir de lignage avec un nombre d’utilisations quotidiennes limitées. La créature tuée doit avoir au moins moitié autant de [dés de vie](./../Ressources/DV.md) que le personnage a de niveaux d’ensorceleur. Le personnage ne peut pas se servir de ce don pour obtenir une utilisation supplémentaire d’un pouvoir de lignage qu’il n’a pas encore utilisé dans la journée.
+**Avantage.** Une fois par jour, par une [[action immédiate]] qui suit la réduction d’une créature à 0 [[pv|point de vie]] ou moins suite à l’utilisation d’un sort d’[[ensorceleur]], le personnage récupère l’usage d’un pouvoir de lignage avec un nombre d’utilisations quotidiennes limitées. La créature tuée doit avoir au moins moitié autant de [[DV|dés de vie]] que le personnage a de niveaux d’ensorceleur. Le personnage ne peut pas se servir de ce don pour obtenir une utilisation supplémentaire d’un pouvoir de lignage qu’il n’a pas encore utilisé dans la journée.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Lancer des sorts#INCANTATIONSURLADEFENSIVE
 ---
 
->>> [Lancer des sorts#INCANTATIONSURLADEFENSIVE](./Lancer des sorts.md#INCANTATIONSURLADEFENSIVE)
+>>> [[Lancer des sorts#INCANTATIONSURLADEFENSIVE]]

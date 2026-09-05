@@ -8,14 +8,14 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Carafe intarissable|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 9 000 po ; **Poids** 1 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 9 000 po ; **Poids** 1 kg
 (((Description)))
-Il suffit d’ôter le bouchon de cette carafe d’aspect anodin et de prononcer le [mot de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE) approprié pour en faire jaillir un important volume d’eau douce ou salée (au choix de l’utilisateur). Plusieurs [mots de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE) permettent d’obtenir différents effets (chaque effet s’accompagne de deux [mots de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE), un pour l’eau douce, un pour l’eau salée) :
+Il suffit d’ôter le bouchon de cette carafe d’aspect anodin et de prononcer le [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|mot de commande]] approprié pour en faire jaillir un important volume d’eau douce ou salée (au choix de l’utilisateur). Plusieurs [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|mots de commande]] permettent d’obtenir différents effets (chaque effet s’accompagne de deux [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|mots de commande]], un pour l’eau douce, un pour l’eau salée) :
 • Fontaine fournit 4 litres d’eau par round.
 • Geyser produit un jet d’eau de 1,50 mètre de long déversant 20 litres par round.
 • Torrent produit un violent jet d’eau de 6 m de long correspondant à 120 litres par round.
 
-Le torrent provoque un important recul et l’utilisateur doit réussir un test de [Force](./Force.md) ([DD](./DD.md) 12) pour ne pas être renversé. La violence du débit est telle que le torrent inflige 1d4 points de dégâts à toute créature qui le reçoit de plein fouet (une cible par round). Il faut répéter le [mot de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE) pour que le jet d’eau cesse.
+Le torrent provoque un important recul et l’utilisateur doit réussir un test de [[Force]] ([[DD]] 12) pour ne pas être renversé. La violence du débit est telle que le torrent inflige 1d4 points de dégâts à toute créature qui le reçoit de plein fouet (une cible par round). Il faut répéter le [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|mot de commande]] pour que le jet d’eau cesse.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[contrôle de l’eau](./Contrôle de leau.md)* ; **Coût** 4 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[contrôle de leau|contrôle de l’eau]]* ; **Coût** 4 500 po
 </div>

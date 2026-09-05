@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Dragon|Collines|Tempéré}
 {s:BDTexte|*Source : La mer Intérieure p.311*}
 {s:BDTexte|**PX** 76 800}
-{s:BDTexte|[Dragon](./type Dragon.md) (terre) de taille Gig, CN}
-{s:BDTexte|**Init** +2 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) à 9 m, [vision dans le noir](./vision dans le noir (capacité).md) à 36 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +25}
+{s:BDTexte|[[type Dragon|Dragon]] (terre) de taille Gig, CN}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision aveugle (capacité)|vision aveugle]] à 9 m, [[Vision dans le noir (capacité)|vision dans le noir]] à 36 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +25}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 31, contact 9, pris au dépourvu 28 (+2 Dex, +1 esquive, +22 naturelle, -4 taille)}
 {s:BDTexte|**pv** 248 (16d12+144)}
@@ -26,14 +26,14 @@ Categories:
 {s:BDTexte|**Distance** 4 épines, +14 (2d8+11)}
 {s:BDTexte|**Espace occupé** 6 m ; **Allonge** 4,50 m}
 {s:BDTexte|**Attaques spéciales** épines, souffle}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 16 ; [concentration](./concentration.md) +20)}
-{s:BDSorts|3/jour — *[croissance d'épines](./Croissance dépines.md)* (DD 17), *[pierres acérées](./Pierres acérées.md)* (DD 18), *[télékinésie](./Télékinésie.md)* (DD19)}
-{s:BDSorts|1/jour — *[mur de force](./Mur de force.md)*, *[sphère téléguidée](./Sphère téléguidée.md)* (DD 22)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 16 ; [[concentration]] +20)}
+{s:BDSorts|3/jour — *[[croissance dépines|croissance d'épines]]* (DD 17), *[[pierres acérées]]* (DD 18), *[[télékinésie]]* (DD19)}
+{s:BDSorts|1/jour — *[[mur de force]]*, *[[sphère téléguidée]]* (DD 22)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 32, **Dex** 15, **Con** 29, **Int** 16, **Sag** 22, **Cha** 19}
 {s:BDTexte|**BBA** +16 ; **BMO** +31 ; **DMD** 44}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), Attaque réflexe, [Coup fabuleux](./Coup fabuleux.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Science de la bousculade](./Science de la bousculade.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md),}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +23, [Connaissances](./Connaissances.md) (ingénierie) +22, [Connaissances](./Connaissances.md) (nature) +22, [Discrétion](./Discrétion.md) +9, [Estimation](./Estimation.md) +22, [Perception](./Perception.md) +25, [Psychologie](./Psychologie.md) +25, [Vol](./Vol.md) +15,}
+{s:BDTexte|**Dons** [[Attaque en puissance]], Attaque réflexe, [[Coup fabuleux]], [[Esquive]], [[Frappe décisive]], [[Science de la bousculade]], [[Tir à bout portant]], [[Tir de précision]],}
+{s:BDTexte|**Compétences** [[Bluff]] +23, [[Connaissances]] (ingénierie) +22, [[Connaissances]] (nature) +22, [[Discrétion]] +9, [[Estimation]] +22, [[Perception]] +25, [[Psychologie]] +25, [[Vol]] +15,}
 {s:BDTexte|**Langues** commun, draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines tempérées}
@@ -41,8 +41,8 @@ Categories:
 {s:BDTexte|**Trésor** triple}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Détournement de rayon (Sur).** Les écailles du dragon épineux détournent les rayons et les sorts du type projectiles magiques, ce qui immunise la bête contre ces effets. Il y a 30% de chances qu’un effet détourné reparte à pleine puissance en direction de son lanceur, sinon, l’effet est simplement annulé.}
-{s:BDTexte|**Épines (Ext).** Le corps du dragon épineux est recouvert de longues épines cristallines. Chaque [round](./round.md), par une [action complexe](./Action complexe.md), il peut en projeter jusqu’à quatre (une seule pour une [action simple](./Action simple.md)). Toute créature qui attaque un dragon épineux avec une arme de corps à corps, ses mains nues ou une arme naturelle doit réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 20 ou subir 2d8+11 points de dégâts perforants à cause des épines. Le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) est basé sur la [Dextérité](./Dextérité.md).}
-{s:BDTexte|**Souffle (Ext).** Une fois tous les 1d4 [rounds](./round.md), par une [action simple](./Action simple.md), un dragon épineux peut pousser un hurlement dévastateur qui dégage une puissante énergie sonore et ce, dans un cône de 18 mètres. Les créatures prises dans la zone reçoivent 20d6 points de dégâts sonores et deviennent définitivement [sourdes](./Assourdi.md). Un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 27 permet de réduire les dégâts de moitié et d’annuler la surdité. Ces dégâts sonores ont un effet particulièrement dévastateur sur les créatures artificielles qui subissent un malus de -4 au [jet de sauvegarde](./JDS.md). Si elles le ratent, elles sont aussi étourdies pour 1d4 [rounds](./round.md). Le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Épines (Ext).** Le corps du dragon épineux est recouvert de longues épines cristallines. Chaque [[round]], par une [[action complexe]], il peut en projeter jusqu’à quatre (une seule pour une [[action simple]]). Toute créature qui attaque un dragon épineux avec une arme de corps à corps, ses mains nues ou une arme naturelle doit réussir un jet de [[Réflexes]] [[DD]] 20 ou subir 2d8+11 points de dégâts perforants à cause des épines. Le [[DD]] du [[jds|jet de sauvegarde]] est basé sur la [[Dextérité]].}
+{s:BDTexte|**Souffle (Ext).** Une fois tous les 1d4 [[round|rounds]], par une [[action simple]], un dragon épineux peut pousser un hurlement dévastateur qui dégage une puissante énergie sonore et ce, dans un cône de 18 mètres. Les créatures prises dans la zone reçoivent 20d6 points de dégâts sonores et deviennent définitivement [[assourdi|sourdes]]. Un jet de [[Réflexes]] [[DD]] 27 permet de réduire les dégâts de moitié et d’annuler la surdité. Ces dégâts sonores ont un effet particulièrement dévastateur sur les créatures artificielles qui subissent un malus de -4 au [[jds|jet de sauvegarde]]. Si elles le ratent, elles sont aussi étourdies pour 1d4 [[round|rounds]]. Le [[DD]] du [[jds|jet de sauvegarde]] est basé sur la [[Constitution]].}
 </div></td>
 <td><div>*Ce dragon possède une véritable forêt d’épines de cristal et des ailes transparentes qui semblent presque faites de verre.*
 

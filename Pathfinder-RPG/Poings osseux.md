@@ -15,13 +15,13 @@ Categories:
 - Src Magic Tactics Toolbox
 ---
 
-{s:cs}{s:MTT}**École** [Nécromancie](./Nécromancie.md) ; **Niveau**  [Cham](./Chaman.md) 2, [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [Rôd](./Rôdeur.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, S, M](./composantes.md) (épine dorsale d'un animal sinistre)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Cibles** 1 créature/[niveau](./niveau.md), distantes de moins de 9 m (6 c) les unes des autres
-**Durée** 1 minute/[niveau](./niveau.md)
-**Jet de sauvegarde** [aucun](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** non
+{s:cs}{s:MTT}**École** [[Nécromancie]] ; **Niveau**  [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, S, M]] (épine dorsale d'un animal sinistre)
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
+**Cibles** 1 créature/[[niveau]], distantes de moins de 9 m (6 c) les unes des autres
+**Durée** 1 minute/[[niveau]]
+**Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] (inoffensif) ; **Résistance à la magie** non
 
 Les os des articulations de vos cibles deviennent épais et pointus, dépassant douloureusement de la peau au niveau des jointures, des coudes, des épaules, de la colonne vertébrale et des genoux. Les cibles bénéficient chacune d'un bonus de +1 à l'armure naturelle et d'un bonus de +2 aux jets de dégâts avec les armes naturelles, et elles sont considérées comme ayant des pointes d'armure, avec lesquelles elles sont compétentes.
 

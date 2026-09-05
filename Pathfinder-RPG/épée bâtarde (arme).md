@@ -7,20 +7,20 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 35 po ; **Poids** 3 kg ; **Groupes** [lames lourdes](./groupe darmes.md#Lameslourdes)
+{s:AE}**Prix** 35 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Lameslourdes|lames lourdes]]
 **Dégâts** 1d8 (P), 1d10 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
 ---
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Équipement et objets magiques).md#21) Épée bâtarde : Est-ce une arme à une main ou une arme à deux mains ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#21|→]] Épée bâtarde : Est-ce une arme à une main ou une arme à deux mains ?***
 
-Une <u>[épée bâtarde](./épée bâtarde (arme).md)</u> est une arme à une main (bien que pour certaines règles elle brouille la limite entre une arme à une main et une arme à deux mains).
+Une <u>[[épée bâtarde (arme)|épée bâtarde]]</u> est une arme à une main (bien que pour certaines règles elle brouille la limite entre une arme à une main et une arme à deux mains).
 
 Les propriétés physiques d’une épée bâtarde sont celles d’une arme à une main. Par exemple, sa solidité, ses points de résistance, sa capacité à être fabriquée à partir d'un matériau spécial, sa catégorie dans le cadre de la compétence Artisanat, les effets de l’argent alchimique etc., sont ceux d’une arme à une main.
 
 Pour les capacités de classe, les dons, et les autres éléments de règles qui dépendent spécifiquement du maniement d’une arme à une main, d’une arme à deux mains, ou d’une arme à une main prise à deux mains, ou qui diffèrent selon ce maniement, l’épée bâtarde compte comme une arme au nombre de mains avec laquelle le personnage la manie.
 
-Par exemple, si un personnage la manie à une main (ce qui nécessite normalement le don [Maniement d’une arme exotique](./Maniement dune arme exotique.md)), elle est traitée comme une arme à une main ; [Attaque en puissance](./Attaque en puissance.md) ne confère que le bonus à une main, le personnage ne peut pas utiliser [Assaut repoussant](./Assaut repoussant.md) ou [Coups protecteurs](./Coups protecteurs.md) (qui nécessite une arme à deux mains), etc.
+Par exemple, si un personnage la manie à une main (ce qui nécessite normalement le don [[Maniement dune arme exotique|Maniement d’une arme exotique]]), elle est traitée comme une arme à une main ; [[Attaque en puissance]] ne confère que le bonus à une main, le personnage ne peut pas utiliser [[Assaut repoussant]] ou [[Coups protecteurs]] (qui nécessite une arme à deux mains), etc.
 
 Si le personnage la manie avec deux mains (qu’il possède ou non le don Maniement d’une arme exotique pour la manier à une main), elle est traitée comme une arme à deux mains ; Attaque en puissance confère le bonus amélioré, le personnage peut utiliser Assaut repoussant ou Coups protecteurs (qui nécessite une arme à deux mains), etc.
 
-Un cas particulier sur la règle de maniement serait une capacité qui permet au personnage de traiter une arme à deux mains comme une arme à une main. Par exemple, la poigne de Jotun du [briseur de titan](./Briseur de titan (barbare).md) (qui permet au personnage de manier une arme à deux mains avec une seule main) permet au personnage de manier une épée bâtarde avec une seule main même s’il ne possède pas le don Maniement d’une arme exotique, et (comme la capacité le précise) la traite comme une arme à une main, et elle est donc traitée comme une arme à une main pour les autres effets.}Cette épée mesure environ 1,20 mètre de long. Elle est donc trop longue pour être utilisée à une main, à moins de bénéficier d’une formation spéciale. Dans ce cas, c’est une [arme exotique](./arme exotique.md). C’est une [arme de guerre](./arme de guerre.md) si le personnage l’utilise à deux mains.
+Un cas particulier sur la règle de maniement serait une capacité qui permet au personnage de traiter une arme à deux mains comme une arme à une main. Par exemple, la poigne de Jotun du [[Briseur de titan (barbare)|briseur de titan]] (qui permet au personnage de manier une arme à deux mains avec une seule main) permet au personnage de manier une épée bâtarde avec une seule main même s’il ne possède pas le don Maniement d’une arme exotique, et (comme la capacité le précise) la traite comme une arme à une main, et elle est donc traitée comme une arme à une main pour les autres effets.}Cette épée mesure environ 1,20 mètre de long. Elle est donc trop longue pour être utilisée à une main, à moins de bénéficier d’une formation spéciale. Dans ce cas, c’est une [[arme exotique]]. C’est une [[arme de guerre]] si le personnage l’utilise à deux mains.

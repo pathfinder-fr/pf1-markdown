@@ -12,9 +12,9 @@ Categories:
 
 *Lorsque la magie aide à viser, le personnage manque rarement.*
 
-**Condition.** [Tir de précision](./Tir de précision.md), [Tir de loin](./Tir de loin.md)
+**Condition.** [[Tir de précision]], [[Tir de loin]]
 
-**Avantage.** Lorsque le personnage obtient un bonus magique sur un [jet d’attaque](./jet dattaque.md) avec une arme à distance, il peut réduire déduire les pénalités liées au [facteur de portée](./facteur de portée.md) à son [jet de dégâts](./Valeurs de combat.md#DEGATS) au lieu de son jet d’attaque. De plus, lorsque le personnage obtient un bonus magique sur un jet d’attaque à distance, il peut infliger une [attaque sournoise](./attaque sournoise.md) à une cible qui bénéficie d'un [camouflage](./camouflage.md) (mais pas d'un [camouflage total](./camouflage total.md)) tant que son attaque remplit les autres conditions nécessaire à l'attaque sournoise. Le nombre maximal de dés d’attaque sournoise que le personnage peut utiliser de cette manière est égal à la valeur du bonus magique aux jets d'attaque dont il bénéficie.
+**Avantage.** Lorsque le personnage obtient un bonus magique sur un [[jet dattaque|jet d’attaque]] avec une arme à distance, il peut réduire déduire les pénalités liées au [[facteur de portée]] à son [[valeurs de combat#DEGATS|jet de dégâts]] au lieu de son jet d’attaque. De plus, lorsque le personnage obtient un bonus magique sur un jet d’attaque à distance, il peut infliger une [[attaque sournoise]] à une cible qui bénéficie d'un [[camouflage]] (mais pas d'un [[camouflage total]]) tant que son attaque remplit les autres conditions nécessaire à l'attaque sournoise. Le nombre maximal de dés d’attaque sournoise que le personnage peut utiliser de cette manière est égal à la valeur du bonus magique aux jets d'attaque dont il bénéficie.
 
 (((Acute shot
 

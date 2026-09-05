@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#BONUSDEBASEALATTAQUE
 ---
 
->>> [Vocabulaire courant#BONUSDEBASEALATTAQUE](./Vocabulaire courant.md#BONUSDEBASEALATTAQUE)
+>>> [[Vocabulaire courant#BONUSDEBASEALATTAQUE]]

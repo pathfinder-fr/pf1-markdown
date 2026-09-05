@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.200*}
 {s:BDTexte|**XP** 800}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille TG, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] de taille TG, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 8, pris au dépourvu 14 (naturelle +7, taille -2)}
 {s:BDTexte|**pv** 38 (4d8+20)}
@@ -23,20 +23,20 @@ Categories:
 {s:BDTexte|**Immunités** effets mentaux }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), escalade 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +8 (2d6+7 et poison) et queue, +3 (1d3 non létal plus [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** morsure, +8 (2d6+7 et poison) et queue, +3 (1d3 non létal plus [[croc-en-jambe]])}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c}) (6 m (4 {s:c}) avec le coup de queue)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 11, **Con** 21, **Int** —, **Sag** 10, **Cha** 2}
-{s:BDTexte|**BBA** +3, **BMO** +12, **DMD** 22 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +0, [Escalade](./Escalade.md) +15, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md), +4 en [Perception](./Perception.md)}
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md)}
+{s:BDTexte|**BBA** +3, **BMO** +12, **DMD** 22 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Compétences** [[Discrétion]] +0, [[Escalade]] +15, [[Perception]] +4 ; **Modificateurs raciaux** +8 en [[Discrétion]], +4 en [[Perception]]}
+{s:BDTexte|**Particularités** [[compression (capacité)|compression]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées, chaudes ou sous terre}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3-6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Coup de queue (Ext).** Les coups de queue d’un mille-pattes géant infligent des dégâts non létaux qui ne reçoivent aucun bonus dépendant de la Force de la créature.}
-{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* Vigueur DD 17 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 Dex ; *guérison* 1 réussite. Le DD du jet de sauvegarde dépend
+{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* Vigueur DD 17 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d4 Dex ; *guérison* 1 réussite. Le DD du jet de sauvegarde dépend
 de la Constitution.}
 
 </div>
@@ -46,13 +46,13 @@ de la Constitution.}
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Mille-pattes à queue fouettante](./Mille-pattes à queue fouettante.md) || 3
+| [[Mille-pattes à queue fouettante]] || 3
 |-
-| [Mille-pattes géant](./Mille-pattes géant.md) || 1/2
+| [[Mille-pattes géant]] || 1/2
 |-
-| [Mille-pattes titanesque](./Mille-pattes titanesque.md) || 9
+| [[Mille-pattes titanesque]] || 9
 |-
-| [Nuée de mille-pattes](./Nuée de mille-pattes.md) || 4
+| [[Nuée de mille-pattes]] || 4
 |}
 </div>*Ce mille-pattes gigantesques avance à toute vitesse tout en fouettant l’air violemment à l’aide de sa queue dédoublée.*
 

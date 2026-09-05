@@ -12,21 +12,21 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:Desambi|À ne pas confondre avec le sort de [refuge du mage](./Refuge du mage.md) (Bard 4, Ens/Mag 4).}
-**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 9, [Prê](./Prêtre.md) 7, [Psy](./Psychiste.md) 8, [Sor](./Sorcière.md) 9  
+{s:Desambi|À ne pas confondre avec le sort de [[refuge du mage]] (Bard 4, Ens/Mag 4).}
+**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 9  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un objet préparé (1 500 po))  
+**Composantes** [[composantes|V, G, M]] (un objet préparé (1 500 po))  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** objet touché  
 
-**Durée** [permanente](./permanente.md) jusqu’à utilisation  
+**Durée** [[permanente]] jusqu’à utilisation  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Ce sort permet d’enchanter un objet préparé pour l’occasion. Cet objet permettra ensuite de transporter instantanément celui qui le tient chez le lanceur de sorts, à condition que sa demeure se trouve dans le même plan. Une fois l’objet enchanté, le lanceur de sorts doit le donner de son plein gré à la personne de son choix, à qui il doit également enseigner le [mot de commande](./mot de commande.md) qu’il a choisi. Pour bénéficier de l’effet du sort, le sujet doit prononcer le [mot de commande](./mot de commande.md) au moment où il brise l’objet, ce qui lui demande une [action simple](./Action simple.md). Il est alors instantanément transporté chez le lanceur de sorts, avec tout ce qu’il porte (dans la limite de sa [charge maximale](./charge maximale.md)). Aucune autre créature ne peut l’accompagner, exception faite d’un [familier](./Familiers.md) qui doit le toucher au moment où il casse l’objet.
+Ce sort permet d’enchanter un objet préparé pour l’occasion. Cet objet permettra ensuite de transporter instantanément celui qui le tient chez le lanceur de sorts, à condition que sa demeure se trouve dans le même plan. Une fois l’objet enchanté, le lanceur de sorts doit le donner de son plein gré à la personne de son choix, à qui il doit également enseigner le [[mot de commande]] qu’il a choisi. Pour bénéficier de l’effet du sort, le sujet doit prononcer le [[mot de commande]] au moment où il brise l’objet, ce qui lui demande une [[action simple]]. Il est alors instantanément transporté chez le lanceur de sorts, avec tout ce qu’il porte (dans la limite de sa [[charge maximale]]). Aucune autre créature ne peut l’accompagner, exception faite d’un [[familiers|familier]] qui doit le toucher au moment où il casse l’objet.
 
-On peut modifier l’effet du sort lors de l’incantation, afin que le lanceur de sorts soit transporté instantanément à moins de 3 mètres de la personne qui brise l’objet et prononce le [mot de commande](./mot de commande.md). Le lanceur de sorts devine vaguement où se trouve le possesseur de l’objet à l’instant où celui-ci prononce le [mot de commande](./mot de commande.md) mais il ne peut pas se soustraire à l’appel : qu’il le veuille ou non, il est instantanément téléporté à côté de la personne à qui il a donné l’objet.
+On peut modifier l’effet du sort lors de l’incantation, afin que le lanceur de sorts soit transporté instantanément à moins de 3 mètres de la personne qui brise l’objet et prononce le [[mot de commande]]. Le lanceur de sorts devine vaguement où se trouve le possesseur de l’objet à l’instant où celui-ci prononce le [[mot de commande]] mais il ne peut pas se soustraire à l’appel : qu’il le veuille ou non, il est instantanément téléporté à côté de la personne à qui il a donné l’objet.

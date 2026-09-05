@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Miséricordieuse
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Miséricordieuse](./Descriptions individuelles des propriétés spéciales des armes.md#Miséricordieuse)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Miséricordieuse]]

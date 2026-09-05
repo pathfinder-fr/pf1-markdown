@@ -12,11 +12,11 @@ Categories:
 
 {s:Reference|JETDATTAQUE}
 ### Jet d’attaque
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Combat).md#1) 20 naturel et 1 naturel : Sur les jets d’attaque et de sauvegarde, un 20 naturel est une réussite automatique et un 1 naturel est un échec automatique. Mais devrais-je les considérer différemment des autres résultats dans le cadre d’un échec ou d’une réussite de 5 ou plus, d’une comparaison entre deux jets d’attaque pour voir qui a le résultat le plus élevé, ou d’autres situations similaires ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Combat)#1|→]] 20 naturel et 1 naturel : Sur les jets d’attaque et de sauvegarde, un 20 naturel est une réussite automatique et un 1 naturel est un échec automatique. Mais devrais-je les considérer différemment des autres résultats dans le cadre d’un échec ou d’une réussite de 5 ou plus, d’une comparaison entre deux jets d’attaque pour voir qui a le résultat le plus élevé, ou d’autres situations similaires ?***
 
-Non, sauf si une règle indique explicitement le contraire, le résultat d’un 20 naturel ou d’un 1 naturel sur un <u>[jet d’attaque](./jet dattaque.md)</u> ou <u>[de sauvegarde](./JDS.md)</u> est traité de la même façon que tout autre résultat dans le cadre d’une comparaison entre deux nombres. Par exemple, si un guerrier fait un 1 naturel pour un total de 31 contre la CA de 33 d’un magicien, l’attaque rate de 5 ou moins et détruit une des *[images miroirs](./Image miroir.md)* du magicien.}Un jet d’attaque représente la tentative que fait le personnage pour frapper son adversaire lors de son tour de jeu dans le round. Pour ce faire, il jette 1d20 auquel il ajoute son [bonus d’attaque](./Valeurs de combat.md#BONUSDATTAQUE) (de nombreux modificateurs peuvent s’appliquer à ce jet). Si le résultat final égale ou dépasse la [CA](./Valeurs de combat.md#CA) de l’adversaire, le coup touche et inflige des dégâts.
+Non, sauf si une règle indique explicitement le contraire, le résultat d’un 20 naturel ou d’un 1 naturel sur un <u>[[jet dattaque|jet d’attaque]]</u> ou <u>[[jds|de sauvegarde]]</u> est traité de la même façon que tout autre résultat dans le cadre d’une comparaison entre deux nombres. Par exemple, si un guerrier fait un 1 naturel pour un total de 31 contre la CA de 33 d’un magicien, l’attaque rate de 5 ou moins et détruit une des *[[image miroir|images miroirs]]* du magicien.}Un jet d’attaque représente la tentative que fait le personnage pour frapper son adversaire lors de son tour de jeu dans le round. Pour ce faire, il jette 1d20 auquel il ajoute son [[Valeurs de combat#BONUSDATTAQUE|bonus d’attaque]] (de nombreux modificateurs peuvent s’appliquer à ce jet). Si le résultat final égale ou dépasse la [[Valeurs de combat#CA|CA]] de l’adversaire, le coup touche et inflige des dégâts.
 
-**Coup automatiquement réussi ou raté.** On rate automatiquement son coup sur un 1 naturel (c’est-à-dire un 1 au dé) au jet d’attaque. De la même manière, l’attaque réussit toujours sur un 20 naturel (c’est à dire un 20 au dé). Le 20 naturel est également un [coup critique](./Actions simples.md#COUPCRITIQUE) possible (voir l’[action d’attaque](./Actions simples.md#ATTAQUE)).
+**Coup automatiquement réussi ou raté.** On rate automatiquement son coup sur un 1 naturel (c’est-à-dire un 1 au dé) au jet d’attaque. De la même manière, l’attaque réussit toujours sur un 20 naturel (c’est à dire un 20 au dé). Le 20 naturel est également un [[Actions simples#COUPCRITIQUE|coup critique]] possible (voir l’[[Actions simples#ATTAQUE|action d’attaque]]).
 
 {s:Reference|BONUSDATTAQUE}
 ### Bonus d’attaque
@@ -25,14 +25,14 @@ Avec une arme de corps à corps, le bonus d’attaque est égal à :
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque au corps à corps**   
 =  
 
-[Bonus de base à l’attaque](./BBA.md) + modificateur de [Force](./Force.md) + modificateur de [taille](./Valeurs de combat.md#TABMODTAILLE)</center></div>
+[[BBA|Bonus de base à l’attaque]] + modificateur de [[Force]] + modificateur de [[Valeurs de combat#TABMODTAILLE|taille]]</center></div>
 
 Avec une arme à distance, le bonus d’attaque est égal à :
 
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque à distance**   
 =  
 
-[Bonus de base à l’attaque](./BBA.md) + modificateur de [Dextérité](./Dextérité.md) + modificateur de [taille](./Valeurs de combat.md#TABMODTAILLE) + malus de portée</center></div>
+[[BBA|Bonus de base à l’attaque]] + modificateur de [[Dextérité]] + modificateur de [[Valeurs de combat#TABMODTAILLE|taille]] + malus de portée</center></div>
 
 {s:Reference|CA}
 ### Classe d’armure (CA)
@@ -41,11 +41,11 @@ La classe d’armure (CA) représente la difficulté que les adversaires ont à 
 <div class="presentation arrondi recentre ombre"><center>**CA**   
 =  
 
-10 + [bonus d’armure](./Caractéristiques des armures.md#BONUSARMUREBOUCLIER) + [bonus de bouclier](./Caractéristiques des armures.md#BONUSARMUREBOUCLIER) + modificateur de [Dextérité](./Dextérité.md) + modificateur de [taille](./Valeurs de combat.md#TABMODTAILLE)</center></div>
+10 + [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] + [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus de bouclier]] + modificateur de [[Dextérité]] + modificateur de [[Valeurs de combat#TABMODTAILLE|taille]]</center></div>
 
-Notez que l’armure limite le [bonus de Dextérité](./Caractéristiques des armures.md#BONUSDEXMAX), et qu’un personnage revêtu d’une armure particulièrement encombrante risque fort de ne pas bénéficier de la totalité de son bonus de [Dextérité](./Dextérité.md) (voir le "[Tableau récapitulatif des armures](./Tableau récapitulatif des armures.md)").
+Notez que l’armure limite le [[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité]], et qu’un personnage revêtu d’une armure particulièrement encombrante risque fort de ne pas bénéficier de la totalité de son bonus de [[Dextérité]] (voir le "[[Tableau récapitulatif des armures]]").
 
-Dans certains cas de figure, on ne prend pas le [bonus de Dextérité](./Caractéristiques des armures.md#BONUSDEXMAX) en compte. En effet, il représente la faculté du personnage a éviter les attaques mais s’il ne les voit pas venir, sa vitesse de réaction n'est d’aucune utilité.
+Dans certains cas de figure, on ne prend pas le [[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité]] en compte. En effet, il représente la faculté du personnage a éviter les attaques mais s’il ne les voit pas venir, sa vitesse de réaction n'est d’aucune utilité.
 
 #### Autres modificateurs
 
@@ -77,49 +77,49 @@ Dans certains cas de figure, on ne prend pas le [bonus de Dextérité](./Caract�
 | Infime (I) || +8
 |}
 </center></div></div>
-D’autres facteurs peuvent améliorer la [CA](./Valeurs de combat.md#CA) d’un combattant.
+D’autres facteurs peuvent améliorer la [[Valeurs de combat#CA|CA]] d’un combattant.
 
 {s:Reference|BONUSALTERATION}**Bonus d’altération.** Ce bonus améliore l’efficacité de l’armure.
 
-{s:Reference|BONUSPARADE}**Bonus de parade.** Les effets qui offrent un bonus de parade permettent de détourner les attaques, ce qui améliore la [CA](./CA.md).
+{s:Reference|BONUSPARADE}**Bonus de parade.** Les effets qui offrent un bonus de parade permettent de détourner les attaques, ce qui améliore la [[CA]].
 
-{s:Reference|BONUSARMURENATURELLE}**Bonus d’armure naturelle.** Si la [race](./../Golarion/races.md) du personnage possède un cuir, des écailles ou une peau épaisse, il bénéficie d’un bonus à la [CA](./CA.md).
+{s:Reference|BONUSARMURENATURELLE}**Bonus d’armure naturelle.** Si la [[races|race]] du personnage possède un cuir, des écailles ou une peau épaisse, il bénéficie d’un bonus à la [[CA]].
 
-{s:Reference|BONUSESQUIVE}**Bonus d’esquive.** D’autres bonus représentent l’aisance avec laquelle le personnage évite les coups. Ce bonus est appelé bonus d’esquive et disparait si le personnage perd son [bonus de Dextérité](./Caractéristiques des armures.md#BONUSDEXMAX) (par contre, le fait de porter une armure ne réduit pas les bonus d’esquive ; seul le [bonus de Dextérité](./Caractéristiques des armures.md#BONUSDEXMAX) est ainsi limité). Contrairement à la plupart des types de bonus, les bonus d’esquive se cumulent entre eux.
+{s:Reference|BONUSESQUIVE}**Bonus d’esquive.** D’autres bonus représentent l’aisance avec laquelle le personnage évite les coups. Ce bonus est appelé bonus d’esquive et disparait si le personnage perd son [[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité]] (par contre, le fait de porter une armure ne réduit pas les bonus d’esquive ; seul le [[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité]] est ainsi limité). Contrairement à la plupart des types de bonus, les bonus d’esquive se cumulent entre eux.
 
-{s:Reference|BONUSTAILLE}**Bonus de taille.** Le personnage reçoit un bonus ou un malus à la [CA](./CA.md) en fonction de sa taille. Voir la Table "[Modificateurs de taille](./Valeurs de combat.md#TABMODTAILLE)" ci-contre.
+{s:Reference|BONUSTAILLE}**Bonus de taille.** Le personnage reçoit un bonus ou un malus à la [[CA]] en fonction de sa taille. Voir la Table "[[Valeurs de combat#TABMODTAILLE|Modificateurs de taille]]" ci-contre.
 
 {s:Reference|ATTAQUESDECONTACT}
 #### Attaques de contact
-Certaines attaques ne tiennent aucun compte de l’armure, du bouclier ou de l’armure naturelle. L’attaquant doit seulement toucher sa cible pour que son attaque réussisse. Dans ce cas, il effectue un jet d’attaque de contact (soit au corps au corps, soit à distance). Ce jet d’attaque se joue normalement, mais la [CA](./Valeurs de combat.md#CA) de la cible n’inclut pas les [bonus d’armure](./Caractéristiques des armures.md#BONUSARMUREBOUCLIER), de [bouclier](./Caractéristiques des armures.md#BONUSARMUREBOUCLIER) ou d’[armure naturelle](./Valeurs de combat.md#BONUSARMURENATURELLE). En revanche, le [modificateur de taille](./Valeurs de combat.md#BONUSTAILLE) s’applique normalement, de même que les éventuels [bonus de Dextérité](./Caractéristiques des armures.md#BONUSDEXMAX) et de [parade](./Valeurs de combat.md#BONUSPARADE).
+Certaines attaques ne tiennent aucun compte de l’armure, du bouclier ou de l’armure naturelle. L’attaquant doit seulement toucher sa cible pour que son attaque réussisse. Dans ce cas, il effectue un jet d’attaque de contact (soit au corps au corps, soit à distance). Ce jet d’attaque se joue normalement, mais la [[Valeurs de combat#CA|CA]] de la cible n’inclut pas les [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]], de [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bouclier]] ou d’[[Valeurs de combat#BONUSARMURENATURELLE|armure naturelle]]. En revanche, le [[Valeurs de combat#BONUSTAILLE|modificateur de taille]] s’applique normalement, de même que les éventuels [[Caractéristiques des armures#BONUSDEXMAX|bonus de Dextérité]] et de [[Valeurs de combat#BONUSPARADE|parade]].
 
-**Attaques intangibles.** Certaines créatures ont la capacité de porter des attaques intangibles. Ces attaques traversent les objets solides comme les armures ou les boucliers. Elles fonctionnent comme des [attaques de contact](./attaque de contact.md) mais ne tiennent en plus pas compte des bonus dus aux [abris](./abri.md). En revanche, elles tiennent compte des bonus d’armure apportés par des effets de force comme une *[armure de mage](./Armure de mage.md)* ou des bracelets d’armure.
+**Attaques intangibles.** Certaines créatures ont la capacité de porter des attaques intangibles. Ces attaques traversent les objets solides comme les armures ou les boucliers. Elles fonctionnent comme des [[attaque de contact|attaques de contact]] mais ne tiennent en plus pas compte des bonus dus aux [[abri|abris]]. En revanche, elles tiennent compte des bonus d’armure apportés par des effets de force comme une *[[armure de mage]]* ou des bracelets d’armure.
 
 {s:Reference|DEGATS}
 ### Dégâts
 Toute attaque réussie inflige des dégâts déterminés en fonction du type d’arme utilisée.
 
-{s:Reference|DEGATSMINIMAUX}**Dégâts minimaux.** Si des malus divers réduisent les dégâts à moins de 1, un coup réussi inflige tout de même 1 point de [dégâts non-létaux](./Blessures et mort.md#DEGATSNONLETAUX).
+{s:Reference|DEGATSMINIMAUX}**Dégâts minimaux.** Si des malus divers réduisent les dégâts à moins de 1, un coup réussi inflige tout de même 1 point de [[Blessures et mort#DEGATSNONLETAUX|dégâts non-létaux]].
 
-{s:Reference|BONUSFORCE}**Bonus de Force.** À chaque coup au but, le personnage applique son modificateur de [Force](./Force.md) aux dégâts infligés par une arme de corps à corps ou de jet (ou une fronde). Un malus de [Force](./Force.md), mais pas un bonus, s’applique aux dégâts provoqués par un arc qui n'est pas composite.
+{s:Reference|BONUSFORCE}**Bonus de Force.** À chaque coup au but, le personnage applique son modificateur de [[Force]] aux dégâts infligés par une arme de corps à corps ou de jet (ou une fronde). Un malus de [[Force]], mais pas un bonus, s’applique aux dégâts provoqués par un arc qui n'est pas composite.
 
-:: *Arme utilisée dans la main non-directrice.* Lorsque le personnage touche avec l’arme qu’il utilise dans sa main non-directrice, il n’ajoute que la moitié de son bonus de [Force](./Force.md) aux dégâts infligés. Dans le cas d’un malus de [Force](./Force.md), celui-ci s’applique en totalité.
+:: *Arme utilisée dans la main non-directrice.* Lorsque le personnage touche avec l’arme qu’il utilise dans sa main non-directrice, il n’ajoute que la moitié de son bonus de [[Force]] aux dégâts infligés. Dans le cas d’un malus de [[Force]], celui-ci s’applique en totalité.
 
-:: *Arme à deux mains.* Si le personnage utilise une arme à deux mains, il ajoute une fois et demie son bonus normal (les malus de [Force](./Force.md) ne sont pas multipliés). En revanche, si le personnage manie une arme légère à deux mains, il ne bénéficie pas de ce bonus.
+:: *Arme à deux mains.* Si le personnage utilise une arme à deux mains, il ajoute une fois et demie son bonus normal (les malus de [[Force]] ne sont pas multipliés). En revanche, si le personnage manie une arme légère à deux mains, il ne bénéficie pas de ce bonus.
 
-**Multiplication des dégâts.** Il arrive qu’il faille multiplier les dégâts par un facteur donné, comme par exemple lors d’un [coup critique](./Actions simples.md#COUPCRITIQUE). Dans ce cas, les dés sont lancés à plusieurs reprises (en ajoutant chaque fois les modificateurs correspondants) et on additionne les résultats.
+**Multiplication des dégâts.** Il arrive qu’il faille multiplier les dégâts par un facteur donné, comme par exemple lors d’un [[Actions simples#COUPCRITIQUE|coup critique]]. Dans ce cas, les dés sont lancés à plusieurs reprises (en ajoutant chaque fois les modificateurs correspondants) et on additionne les résultats.
 
 :: *Remarque* : Si le personnage doit multiplier ses dégâts plus d’une fois, il multiplie à chaque fois la valeur originelle. Ainsi, si le personnage doit doubler les dégâts deux fois, cela équivaut à tripler la valeur initiale.
 
 :: *Exception.* Les bonus aux dégâts exprimés sous la forme de dés supplémentaires ne sont jamais multipliés.
 
-{s:Reference|DEGATSCARACTERISTIQUE}**Dégâts aux caractéristiques.** Certaines créatures et certains effets magiques réduisent temporairement ou définitivement les caractéristiques (ce qui réduit donc leur valeur). Voir lLes règles concernant les [réductions de caractéristiques](./Capacités spéciales.md#AFFTEMPDIMPERM).
+{s:Reference|DEGATSCARACTERISTIQUE}**Dégâts aux caractéristiques.** Certaines créatures et certains effets magiques réduisent temporairement ou définitivement les caractéristiques (ce qui réduit donc leur valeur). Voir lLes règles concernant les [[Capacités spéciales#AFFTEMPDIMPERM|réductions de caractéristiques]].
 
 {s:Reference|POINTSDEVIE}
 
 
 ### Points de vie
-Lorsque les points de vie d’un personnage tombent à 0, il est mis [hors de combat](./Hors de combat.md). À -1, le personnage est [mourant](./Mourant.md). Quand les points de vie atteignent une valeur négative égale à la valeur de [Constitution](./Constitution.md) du personnage, celui-ci est mort. Voir « [Blessures et mort](./Blessures et mort.md) » pour plus de détails.
+Lorsque les points de vie d’un personnage tombent à 0, il est mis [[hors de combat]]. À -1, le personnage est [[mourant]]. Quand les points de vie atteignent une valeur négative égale à la valeur de [[Constitution]] du personnage, celui-ci est mort. Voir « [[Blessures et mort]] » pour plus de détails.
 
 {s:Reference|ATTAQUEDOPPORTUNITE}
 ### Les attaques d’opportunité
@@ -134,21 +134,21 @@ Au cours de ce combat, le guerrier et l'ensorceleur combattent un ogre et son so
 
 **Cas #2** : Si le guerrier s’approche par là, il provoque deux attaques d’opportunités car il traverse une case contrôlée par ses deux ennemis.
 
-**Cas #3** : L'ensorceleur bat en [retraite](./retraite (action).md). La case qu’il abandonne n’est pas contrôlée et elle peut donc s’éloigner du gobelin en toute sécurité, mais quand il quitte la case suivante, il provoque une attaque d’opportunité de la part de l’ogre (qui a une allonge de 3 m (2 {s:c})). Il peut à la place se limiter à un déplacement de 1,50 m (1 {s:c}), par une [action libre](./Action libre.md), et, dans ce cas, ne pas provoquer d’attaque d’opportunité.
+**Cas #3** : L'ensorceleur bat en [[retraite (action)|retraite]]. La case qu’il abandonne n’est pas contrôlée et elle peut donc s’éloigner du gobelin en toute sécurité, mais quand il quitte la case suivante, il provoque une attaque d’opportunité de la part de l’ogre (qui a une allonge de 3 m (2 {s:c})). Il peut à la place se limiter à un déplacement de 1,50 m (1 {s:c}), par une [[action libre]], et, dans ce cas, ne pas provoquer d’attaque d’opportunité.
 </div></td></tr></table>
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Combat).md#6) Allonge de 3m et diagonales : Je suis confus par rapport à l’allonge et aux diagonales. J’ai entendu quelque part en ligne qu’un personnage ne menace pas la seconde diagonale avec une allonge de 3 mètres mais qu’il peut d’une façon ou d’une autre porter une attaque d’opportunité quand un adversaire se déplace hors de cette case, à côté de ça les Rule Reference Cards montrent que le personnage menace la seconde diagonale. Qui a raison ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Combat)#6|→]] Allonge de 3m et diagonales : Je suis confus par rapport à l’allonge et aux diagonales. J’ai entendu quelque part en ligne qu’un personnage ne menace pas la seconde diagonale avec une allonge de 3 mètres mais qu’il peut d’une façon ou d’une autre porter une attaque d’opportunité quand un adversaire se déplace hors de cette case, à côté de ça les Rule Reference Cards montrent que le personnage menace la seconde diagonale. Qui a raison ?***
 
-Les cartes sont correctes. À titre d’exception par rapport au fonctionnement normal des diagonales, une créature avec une <u>[allonge](./Valeurs de combat.md#ESPACECONTROLE)</u> de 3 mètres menace la seconde diagonale. Ces changements seront reflétés dans le prochain errata.
+Les cartes sont correctes. À titre d’exception par rapport au fonctionnement normal des diagonales, une créature avec une <u>[[Valeurs de combat#ESPACECONTROLE|allonge]]</u> de 3 mètres menace la seconde diagonale. Ces changements seront reflétés dans le prochain errata.
 ---
-***[→](./FAQ- Manuel des joueurs (Combat).md#7) Allonge et objets : un personnage peut-il ramasser ou manipuler un objet dans sa portée d’allonge ? Cela provoque-t-il une AO ? Est-ce que ça en provoque même si la cible peut atteindre l’objet, mais pas l’espace occupé par le personnage ?***
+***[[FAQ- Manuel des joueurs (Combat)#7|→]] Allonge et objets : un personnage peut-il ramasser ou manipuler un objet dans sa portée d’allonge ? Cela provoque-t-il une AO ? Est-ce que ça en provoque même si la cible peut atteindre l’objet, mais pas l’espace occupé par le personnage ?***
 
-Les règles sont un peu vagues sur ce point, mais pour faire simple, un personnage peut affecter les objets et les créatures dans son <u>[allonge](./Valeurs de combat.md#ESPACECONTROLE)</u>. Lorsqu’il ramasse ou manipule un objet, un personnage provoque généralement une [attaque d’opportunité](./AO.md), mais uniquement contre les cibles qui peuvent atteindre l’espace qu’il occupe. Il ne provoque pas d’attaques d’opportunité des cibles qui ne peuvent pas l’atteindre, quelque soit l’action qu’il entreprend, même si elle inclut une interaction avec une zone contrôlée. Bien qu’il paraisse réaliste d’autoriser une attaque dans un tel cas, cela rendrait le jeu beaucoup trop compliqué.
+Les règles sont un peu vagues sur ce point, mais pour faire simple, un personnage peut affecter les objets et les créatures dans son <u>[[Valeurs de combat#ESPACECONTROLE|allonge]]</u>. Lorsqu’il ramasse ou manipule un objet, un personnage provoque généralement une [[AO|attaque d’opportunité]], mais uniquement contre les cibles qui peuvent atteindre l’espace qu’il occupe. Il ne provoque pas d’attaques d’opportunité des cibles qui ne peuvent pas l’atteindre, quelque soit l’action qu’il entreprend, même si elle inclut une interaction avec une zone contrôlée. Bien qu’il paraisse réaliste d’autoriser une attaque dans un tel cas, cela rendrait le jeu beaucoup trop compliqué.
 Cette réponse est d’abord apparue dans le [Paizo blog du 25/9/2012](https://paizo.com/community/blog/v5748dyo5ldx5?FAQs-of-Life).}{s:Reference|ESPACECONTROLE}**Espace contrôlé.** Un personnage contrôle la zone (ou l’espace) dans laquelle il est capable de porter des attaques de corps à corps et ce même si ce n’est pas à son tour d’agir. En règle générale, l’espace contrôlé se compose des cases adjacentes au personnage (ce qui comprend les diagonales). Si l’un des adversaires du personnage accomplit certaines actions dans cette zone, il s’expose à une attaque d’opportunité de la part du personnage. Un personnage ne portant pas d’arme ne peut normalement pas contrôler les cases adjacentes et ne peut donc pas porter d’attaques d’opportunité.
 
 :: *Armes à allonge.* La plupart des créatures de taille M ou plus petites ont une allonge de 1,50 m (1 {s:c}) seulement. Cela signifie qu’elles peuvent frapper leurs ennemis uniquement s’ils se trouvent à 1,50 m (1 {s:c})) ou moins d’eux. Néanmoins, une créature de taille P ou M qui utilise une arme à allonge contrôle plus de cases. De plus, la plupart des créatures de taille G ou plus ont une allonge de 3 m (2 {s:c}) ou plus.
 
-**Actions provoquant une attaque d’opportunité.** Deux types d’actions provoquent généralement des attaques d’opportunité : se déplacer hors d’une case contrôlée et entreprendre certaines actions dans une case contrôlée (les tables des "[Actions au combat](./Types dactions.md)" dressent la liste de la plupart des actions qui provoquent une attaque d’opportunité).
+**Actions provoquant une attaque d’opportunité.** Deux types d’actions provoquent généralement des attaques d’opportunité : se déplacer hors d’une case contrôlée et entreprendre certaines actions dans une case contrôlée (les tables des "[[Types dactions|Actions au combat]]" dressent la liste de la plupart des actions qui provoquent une attaque d’opportunité).
 
 :: *Déplacement.* Sortir d’une case contrôlée (mais pas y entrer) provoque généralement une attaque d’opportunité. Toutefois, deux méthodes permettent d’éviter cela : le pas de placement de 1,50 m (1 {s:c}) et l’action de retraite.
 
@@ -156,7 +156,7 @@ Cette réponse est d’abord apparue dans le [Paizo blog du 25/9/2012](https://p
 
 Rappelez-vous qu’il peut y avoir des exceptions, même pour des actions qui provoquent habituellement des attaques d’opportunité.
 
-**Porter une attaque d’opportunité.** Une attaque d’opportunité est une attaque de corps à corps normale, mais la majorité des personnages ne peuvent en placer qu’une seule par round. Le personnage n’est pas obligé d’en faire une. Une attaque d’opportunité se fait avec le [bonus à l’attaque](./Valeurs de combat.md#BONUSDATTAQUE) normal du personnage, même s’il a déjà agi durant le round.
+**Porter une attaque d’opportunité.** Une attaque d’opportunité est une attaque de corps à corps normale, mais la majorité des personnages ne peuvent en placer qu’une seule par round. Le personnage n’est pas obligé d’en faire une. Une attaque d’opportunité se fait avec le [[Valeurs de combat#BONUSDATTAQUE|bonus à l’attaque]] normal du personnage, même s’il a déjà agi durant le round.
 
 Une attaque d’opportunité interrompt le flot habituel des actions du round. Lorsqu’un personnage provoque des attaques d’opportunité, celles-ci sont résolues immédiatement, puis l’on reprend le tour de jeu du personnage qui a provoqué l’attaque d’opportunité durant son tour, ou on passe au suivant s’il avait terminé.
 
@@ -167,22 +167,22 @@ Une attaque d’opportunité interrompt le flot habituel des actions du round. L
 ### Vitesse de déplacement
 La vitesse de déplacement indique la distance qu’un personnage peut parcourir en un round tout en réalisant malgré tout une action, comme porter une attaque ou en lancer un sort. Elle dépend de la race et de l’armure du personnage.
 
-Les [gnomes](./Gnome.md), les [halfelins](./Halfelin.md) et les [nains](./Nain.md) se déplacent de 6 m (4 {s:c}), ou de 4,50 m (3 {s:c}) s’ils portent une [armure intermédiaire](./armure intermédiaire.md) ou [lourde](./armure lourde.md) (à l’exception des [nains](./Nain.md), qui se déplacent de 6 m (4 {s:c}) quelle que soit l’armure qu’ils portent).
+Les [[gnome|gnomes]], les [[halfelin|halfelins]] et les [[nain|nains]] se déplacent de 6 m (4 {s:c}), ou de 4,50 m (3 {s:c}) s’ils portent une [[armure intermédiaire]] ou [[armure lourde|lourde]] (à l’exception des [[nain|nains]], qui se déplacent de 6 m (4 {s:c}) quelle que soit l’armure qu’ils portent).
 
-Les [humains](./Humain.md), les [elfes](./Elfe.md), les [demi-elfes](./Demi-elfe.md) et les [demi-orques](./Demi-orque.md) se déplacent de 9 m (6 {s:c})), ou de 6 m (4 {s:c}) s’ils portent une [armure intermédiaire](./armure intermédiaire.md) ou [lourde](./armure lourde.md).
+Les [[Humain|humains]], les [[elfe|elfes]], les [[demi-elfe|demi-elfes]] et les [[demi-orque|demi-orques]] se déplacent de 9 m (6 {s:c})), ou de 6 m (4 {s:c}) s’ils portent une [[armure intermédiaire]] ou [[armure lourde|lourde]].
 
-Si un personnage effectue deux [actions de mouvement](./Action de mouvement.md) dans le même round (ce qu’on appelle parfois « double mouvement »), il parcourt deux fois la distance indiquée. En courant pendant tout le round, il parcourt quatre fois la distance normale (trois fois seulement s’il porte une [armure lourde](./armure lourde.md)).
+Si un personnage effectue deux [[action de mouvement|actions de mouvement]] dans le même round (ce qu’on appelle parfois « double mouvement »), il parcourt deux fois la distance indiquée. En courant pendant tout le round, il parcourt quatre fois la distance normale (trois fois seulement s’il porte une [[armure lourde]]).
 
 {s:Reference|JETDESAUVEGARDE}
 
 ### Jets de sauvegarde
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Combat).md#1) 20 naturel et 1 naturel : Sur les jets d’attaque et de sauvegarde, un 20 naturel est une réussite automatique et un 1 naturel est un échec automatique. Mais devrais-je les considérer différemment des autres résultats dans le cadre d’un échec ou d’une réussite de 5 ou plus, d’une comparaison entre deux jets d’attaque pour voir qui a le résultat le plus élevé, ou d’autres situations similaires ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Combat)#1|→]] 20 naturel et 1 naturel : Sur les jets d’attaque et de sauvegarde, un 20 naturel est une réussite automatique et un 1 naturel est un échec automatique. Mais devrais-je les considérer différemment des autres résultats dans le cadre d’un échec ou d’une réussite de 5 ou plus, d’une comparaison entre deux jets d’attaque pour voir qui a le résultat le plus élevé, ou d’autres situations similaires ?***
 
-Non, sauf si une règle indique explicitement le contraire, le résultat d’un 20 naturel ou d’un 1 naturel sur un <u>[jet d’attaque](./jet dattaque.md)</u> ou <u>[de sauvegarde](./JDS.md)</u> est traité de la même façon que tout autre résultat dans le cadre d’une comparaison entre deux nombres. Par exemple, si un guerrier fait un 1 naturel pour un total de 31 contre la CA de 33 d’un magicien, l’attaque rate de 5 ou moins et détruit une des *[images miroirs](./Image miroir.md)* du magicien.
+Non, sauf si une règle indique explicitement le contraire, le résultat d’un 20 naturel ou d’un 1 naturel sur un <u>[[jet dattaque|jet d’attaque]]</u> ou <u>[[jds|de sauvegarde]]</u> est traité de la même façon que tout autre résultat dans le cadre d’une comparaison entre deux nombres. Par exemple, si un guerrier fait un 1 naturel pour un total de 31 contre la CA de 33 d’un magicien, l’attaque rate de 5 ou moins et détruit une des *[[image miroir|images miroirs]]* du magicien.
 ---
-***[→](./FAQ- Manuel des joueurs (Combat).md#27) Jets de Réflexes : Si je suis paralysé, maintenu, mourant, ou autrement complètement immobilisé ou inanimé, puis-je quand même tenter un jet de Réflexes ?***
+***[[FAQ- Manuel des joueurs (Combat)#27|→]] Jets de Réflexes : Si je suis paralysé, maintenu, mourant, ou autrement complètement immobilisé ou inanimé, puis-je quand même tenter un jet de Réflexes ?***
 
-Oui, un personnage peut toujours tenter un jet de <u>[Réflexes](./Réflexes.md)</u>, mais puisque sa Dextérité est ici réduite à 0, il doit remplacer son bonus de Dextérité par un malus de -5, donc il a peu de chances de réussir. S’il réussit, c’est peut-être grâce au pouvoir de sa *[cape de résistance](./Cape de résistance.md)*, à un bon angle de couverture, ou même à la chance. Dans tous les cas, suivez les règles du sort sur un jet de Réflexes réussit, même si cela devrait déplacer le personnage, comme *[création de fosse](./Création de fosse.md)*. En revanche, le personnage perd l’[esquive totale](./Roublard.md#ESQUIVETOTALE) dans ces circonstances. S’il est sous l’influence d’un effet particulier qui le rend immobilisé ou inanimé et qui permet des jets de Réflexes continus pour y échapper, au titre d'exception à la règle, il peut utiliser son bonus de Dextérité complet (plutôt qu’un malus de -5) uniquement pour effectuer ces jets de sauvegarde continus, puisque sa Dextérité est mise à l’épreuve dans le cadre du sort, afin de s’en libérer.}En règle générale, lorsque le personnage est victime d’une attaque magique ou inhabituelle, il a droit à un jet de sauvegarde pour l’annuler, ou du moins pour en amoindrir les effets. Tout comme le [jet d’attaque](./Valeurs de combat.md#JETDATTAQUE), le jet de sauvegarde se joue avec 1d20, auquel on ajoute un bonus dépendant de la [classe du personnage](./Classes.md) et de son niveau ainsi qu’un modificateur de caractéristique. Le modificateur au jet de sauvegarde est égal à :
+Oui, un personnage peut toujours tenter un jet de <u>[[Réflexes]]</u>, mais puisque sa Dextérité est ici réduite à 0, il doit remplacer son bonus de Dextérité par un malus de -5, donc il a peu de chances de réussir. S’il réussit, c’est peut-être grâce au pouvoir de sa *[[cape de résistance]]*, à un bon angle de couverture, ou même à la chance. Dans tous les cas, suivez les règles du sort sur un jet de Réflexes réussit, même si cela devrait déplacer le personnage, comme *[[création de fosse]]*. En revanche, le personnage perd l’[[Roublard#ESQUIVETOTALE|esquive totale]] dans ces circonstances. S’il est sous l’influence d’un effet particulier qui le rend immobilisé ou inanimé et qui permet des jets de Réflexes continus pour y échapper, au titre d'exception à la règle, il peut utiliser son bonus de Dextérité complet (plutôt qu’un malus de -5) uniquement pour effectuer ces jets de sauvegarde continus, puisque sa Dextérité est mise à l’épreuve dans le cadre du sort, afin de s’en libérer.}En règle générale, lorsque le personnage est victime d’une attaque magique ou inhabituelle, il a droit à un jet de sauvegarde pour l’annuler, ou du moins pour en amoindrir les effets. Tout comme le [[Valeurs de combat#JETDATTAQUE|jet d’attaque]], le jet de sauvegarde se joue avec 1d20, auquel on ajoute un bonus dépendant de la [[classes|classe du personnage]] et de son niveau ainsi qu’un modificateur de caractéristique. Le modificateur au jet de sauvegarde est égal à :
 
 <div class="presentation arrondi recentre ombre"><center>**Modificateur du jet de sauvegarde**  
 =  
@@ -191,14 +191,14 @@ Bonus de base au jet de sauvegarde + modificateur de caractéristique.</center><
 **Types de jet de sauvegarde.** Il existe trois types de jets de sauvegarde : Réflexes, Vigueur et Volonté.
 
 {s:Reference|JETDEREFLEXE}
-:: ***Jet de Réflexes.*** Ce type de jet de sauvegarde représente la faculté du personnage à esquiver les attaques de zone et les situations inattendues. On y applique le modificateur de [Dextérité](./Dextérité.md).
+:: ***Jet de Réflexes.*** Ce type de jet de sauvegarde représente la faculté du personnage à esquiver les attaques de zone et les situations inattendues. On y applique le modificateur de [[Dextérité]].
 
 {s:Reference|JETDEVIGUEUR}
-:: ***Jet de Vigueur.*** Ce type de jet de sauvegarde reflète la capacité du personnage à résister aux attaques mettant sa vitalité ou sa santé en danger, ainsi qu’à résister à la douleur. On y applique le modificateur de [Constitution](./Constitution.md).
+:: ***Jet de Vigueur.*** Ce type de jet de sauvegarde reflète la capacité du personnage à résister aux attaques mettant sa vitalité ou sa santé en danger, ainsi qu’à résister à la douleur. On y applique le modificateur de [[Constitution]].
 
 {s:Reference|JETDEVOLONTE}
-:: ***Jet de Volonté.*** Ce type de jet de sauvegarde représente la faculté du personnage à se soustraire aux tentatives de domination et à d’autres effets magiques similaires. On y ajoute le modificateur de [Sagesse](./Sagesse.md).
+:: ***Jet de Volonté.*** Ce type de jet de sauvegarde représente la faculté du personnage à se soustraire aux tentatives de domination et à d’autres effets magiques similaires. On y ajoute le modificateur de [[Sagesse]].
 
-**Degré de difficulté du jet de sauvegarde.** Le [DD](./DD.md) du jet de sauvegarde est déterminé par le type d’attaque.
+**Degré de difficulté du jet de sauvegarde.** Le [[DD]] du jet de sauvegarde est déterminé par le type d’attaque.
 
-**Sauvegarde automatiquement réussie ou ratée.** On rate automatiquement sa sauvegarde sur un 1 naturel (c’est-à-dire au dé, avant modificateur) au jet de sauvegarde (et l’effet a une chance d’affecter l’un des objets portés par le personnage, voir « [Jets de sauvegarde et objets](./Présentation des sorts.md#JETSDESAUVEGARDE) »). De la même manière, un 20 naturel est toujours une réussite.
+**Sauvegarde automatiquement réussie ou ratée.** On rate automatiquement sa sauvegarde sur un 1 naturel (c’est-à-dire au dé, avant modificateur) au jet de sauvegarde (et l’effet a une chance d’affecter l’un des objets portés par le personnage, voir « [[Présentation des sorts#JETSDESAUVEGARDE|Jets de sauvegarde et objets]] »). De la même manière, un 20 naturel est toujours une réussite.

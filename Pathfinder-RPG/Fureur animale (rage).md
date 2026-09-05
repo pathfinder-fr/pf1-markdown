@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#FUREURANIMALE
 ---
 
->>> [pouvoirs de rage#FUREURANIMALE](./Pouvoirs de rage.md#FUREURANIMALE)
+>>> [[pouvoirs de rage#FUREURANIMALE]]

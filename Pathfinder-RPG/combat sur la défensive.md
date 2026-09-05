@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions simples#COMBATSURLADEFENSIVE
 ---
 
->>> [Actions simples#COMBATSURLADEFENSIVE](./Actions simples.md#COMBATSURLADEFENSIVE)
+>>> [[Actions simples#COMBATSURLADEFENSIVE]]

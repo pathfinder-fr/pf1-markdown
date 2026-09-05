@@ -10,10 +10,10 @@ Categories:
 
 {s:UM}*Malgré les talents de lanceur de sorts du personnage, il est encore un amateur dans le maniement des mots de pouvoir.*
 
-**Catégorie.** [mots de pouvoir](./Dons.md#DONMOTSDEPOUVOIR)
+**Catégorie.** [[Dons#DONMOTSDEPOUVOIR|mots de pouvoir]]
 
 **Conditions.** Capacité de lancer des sorts.
 
-**Avantage.** Le personnage choisit une classe qui lui donne la capacité de lancer des sorts. Il peut à présent utiliser les emplacements de sort de cette classe pour lancer un nombre limité de sorts de mots de pouvoir. Il ajoute tous les [mots cibles](./Mots cibles.md) à sa liste de sorts et à son grimoire, son [familier](./familier.md) ou à sa liste de sorts connus. De plus, il ajoute le [méta mots|méta mot] augmenter et un [mots effets|mot effet] de n’importe quel niveau qu’il peut lancer dans la classe choisie.
+**Avantage.** Le personnage choisit une classe qui lui donne la capacité de lancer des sorts. Il peut à présent utiliser les emplacements de sort de cette classe pour lancer un nombre limité de sorts de mots de pouvoir. Il ajoute tous les [[mots cibles]] à sa liste de sorts et à son grimoire, son [[familier]] ou à sa liste de sorts connus. De plus, il ajoute le [[méta mots|méta mot]] augmenter et un [[mots effets|mot effet]] de n’importe quel niveau qu’il peut lancer dans la classe choisie.
 
-**Spécial.** Il peut choisir ce don plusieurs fois. À chaque fois au-delà de la première, il ajoute deux [mots effets](./Mots effets.md) ou [méta mots](./Méta mots.md) à son grimoire, son [familier](./familier.md) ou sa liste de sorts connus.
+**Spécial.** Il peut choisir ce don plusieurs fois. À chaque fois au-delà de la première, il ajoute deux [[mots effets]] ou [[méta mots]] à son grimoire, son [[familier]] ou sa liste de sorts connus.

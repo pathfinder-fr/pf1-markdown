@@ -13,29 +13,29 @@ Categories:
 {s:pucem|Créature magique|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.48*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille P, CN}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille P, CN}
+{s:BDTexte|**Init** +7 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 11 (Dex +3, taille +1)}
 {s:BDTexte|**pv** 22 (3d10+6)}
 {s:BDTexte|**Réf** +6, **Vig** +5, **Vol** +3}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 6 m, [vol](./Vol (capacité).md) 6m (déplorable), nage 9 m}
-{s:BDTexte|**Corps à corps** morsure, +5 (1d4+1) et dard, +5 (1d4+1 plus 1 [saignement](./Saignement (capacité).md) et dard dentelé)}
+{s:BDTexte|**VD** 6 m, [[Vol (capacité)|vol]] 6m (déplorable), nage 9 m}
+{s:BDTexte|**Corps à corps** morsure, +5 (1d4+1) et dard, +5 (1d4+1 plus 1 [[Saignement (capacité)|saignement]] et dard dentelé)}
 {s:BDTexte|**Attaques spéciales** dard dentelé, saignement (1), saut aquatique}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 16, **Con** 15, **Int** 7, **Sag** 14, **Cha** 13}
 {s:BDTexte|**BBA** +3 ; **BMO** +4 ; **DMD** 17}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11 (+15 pour sauter), [Discrétion](./Discrétion.md) +11, [Natation](./Natation.md) +9, [Perception](./Perception.md) +6, [Vol](./Vol.md) -3 ; **Modificateurs raciaux** +4 en Acrobaties (+8 pour sauter)}
+{s:BDTexte|**Dons** [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11 (+15 pour sauter), [[Discrétion]] +11, [[Natation]] +9, [[Perception]] +6, [[Vol]] -3 ; **Modificateurs raciaux** +4 en Acrobaties (+8 pour sauter)}
 {s:BDTexte|**Langues** aquatique}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie (capacité).md)}
+{s:BDTexte|**Particularités** [[Amphibie (capacité)|amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** lacs ou marais}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Dard dentelé (Ext).** Le dard d’un bondisseur aquatique laisse des échardes trop petites pour être visibles à l’œil nu dans la chair de sa victime et provoque une hémorragie. Un test de [Premiers secours](./Premiers secours.md) [DD](./DD.md) 15 réussi étanche ce saignement et permet de retirer les échardes. En revanche, les soins magiques et surnaturels n’arrêtent pas l’hémorragie car ils ne retirent pas les échardes, mais au contraire les scellent dans la plaie, ce qui empire les dégâts de saignement (qui passent à 1d4) et augmente le [DD](./DD.md) du test de [Premiers secours](./Premiers secours.md) qui monte à 20. Si la victime reçoit des soins magiques ou surnaturels à plusieurs reprises, l'hémorragie ne s’arrête toujours pas mais le saignement n’empire pas au-delà de 1d4 et le [DD](./DD.md) n’augmente pas à plus de 20.}
+{s:BDTexte|**Dard dentelé (Ext).** Le dard d’un bondisseur aquatique laisse des échardes trop petites pour être visibles à l’œil nu dans la chair de sa victime et provoque une hémorragie. Un test de [[Premiers secours]] [[DD]] 15 réussi étanche ce saignement et permet de retirer les échardes. En revanche, les soins magiques et surnaturels n’arrêtent pas l’hémorragie car ils ne retirent pas les échardes, mais au contraire les scellent dans la plaie, ce qui empire les dégâts de saignement (qui passent à 1d4) et augmente le [[DD]] du test de [[Premiers secours]] qui monte à 20. Si la victime reçoit des soins magiques ou surnaturels à plusieurs reprises, l'hémorragie ne s’arrête toujours pas mais le saignement n’empire pas au-delà de 1d4 et le [[DD]] n’augmente pas à plus de 20.}
 {s:BDTexte|**Saut aquatique (Ex).** Le bondisseur aquatique doit son nom à sa capacité à sauter hors de l’eau pour attraper sa proie par surprise. S’il débute son tour dans l’eau, il peut faire une attaque spéciale de charge bondissante. Il n’a pas besoin de le faire en ligne droite vis-à-vis de l’altitude, ce qui lui permet de sauter par-dessus la rambarde d’un bateau pour atterrir sur sa proie. Il peut effectuer une attaque de morsure et une attaque de dard à la fin du saut.}
 </div></td>
 <td><div>*Ce monstre vicieux a des ailes dotées de palmures, une gueule débordant de crocs aiguisés et une longue queue se terminant par un dard noir.*
@@ -45,7 +45,7 @@ Le bondisseur aquatique est un chasseur irascible qui vit dans les lacs, les mar
 Un bondisseur aquatique ordinaire mesure un mètre de long, sans compter les ailes ni la queue, et pèse entre 4 et 8 kilos.
 
 ### Brute aquatique
-Comme nombre d’autres animaux amphibies, les bondisseurs aquatiques passent par plusieurs stades d’évolution avant de revêtir leur forme adulte. Ce que les gens ignorent souvent, c’est que le stade de petite créature ailée appelée bondisseur aquatique n’est pas la forme finale de cette espèce. La plupart des bondisseurs ne vivent pas assez longtemps pour entamer leur dernière métamorphose qui se produit à un âge variable, mais ceux qui y parviennent deviennent des brutes aquatiques (que beaucoup d’érudits considèrent comme une espèce rare apparentée au bondisseur mais bien différente). La brute est un bondisseur de taille G [évolué](./Archétypes.md#CRÉATUREÉVOLUÉE) grâce à l’ajout de [DV](./../Ressources/DV.md). Il gagne deux attaques de griffes, [éventration](./Éventration (capacité).md) (2 griffes) et [bond](./Bond (capacité).md) (qui remplace saut aquatique).
+Comme nombre d’autres animaux amphibies, les bondisseurs aquatiques passent par plusieurs stades d’évolution avant de revêtir leur forme adulte. Ce que les gens ignorent souvent, c’est que le stade de petite créature ailée appelée bondisseur aquatique n’est pas la forme finale de cette espèce. La plupart des bondisseurs ne vivent pas assez longtemps pour entamer leur dernière métamorphose qui se produit à un âge variable, mais ceux qui y parviennent deviennent des brutes aquatiques (que beaucoup d’érudits considèrent comme une espèce rare apparentée au bondisseur mais bien différente). La brute est un bondisseur de taille G [[Archétypes#CRÉATUREÉVOLUÉE|évolué]] grâce à l’ajout de [[DV]]. Il gagne deux attaques de griffes, [[Éventration (capacité)|éventration]] (2 griffes) et [[bond (capacité)|bond]] (qui remplace saut aquatique).
 
-Contrairement au bondisseur aquatique, la brute est plus encline à interagir avec les autres espèces (en particulier les [bourbiérins](./Bourbiérin.md) et autres indigènes des marais) pour créer des alliances mutuellement bénéfiques. Il peut même servir de monture, à contrecœur, capable de transporter son cavalier aussi bien sous les vagues que dans les airs. Une brute aquatique accepte une telle alliance pour se procurer une source de nourriture constante, ou parfois pour obtenir quelque chose de moins ordinaire, comme un objet coloré qui a attiré son attention.
+Contrairement au bondisseur aquatique, la brute est plus encline à interagir avec les autres espèces (en particulier les [[bourbiérin|bourbiérins]] et autres indigènes des marais) pour créer des alliances mutuellement bénéfiques. Il peut même servir de monture, à contrecœur, capable de transporter son cavalier aussi bien sous les vagues que dans les airs. Une brute aquatique accepte une telle alliance pour se procurer une source de nourriture constante, ou parfois pour obtenir quelque chose de moins ordinaire, comme un objet coloré qui a attiré son attention.
 </div></td></tr></table>

@@ -12,11 +12,11 @@ Categories:
 
 *Vous savez prendre l’avantage sur un ennemi déconcentré.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Avantage.** Quand le personnage tente une manœuvre contre un ennemi qu'il prend en tenaille, il peut renoncer au bonus de +2 offert par la tenaille pour ne pas déclencher d'[attaque d'opportunité](./AO.md). S'il possède une capacité ou un don qui lui permet d'effectuer la manœuvre voulue sans déclencher d'attaque d'opportunité, il peut à la place augmenter le bonus d'attaque de la prise en tenaille à +4 pour le test de la manœuvre en question.
+**Avantage.** Quand le personnage tente une manœuvre contre un ennemi qu'il prend en tenaille, il peut renoncer au bonus de +2 offert par la tenaille pour ne pas déclencher d'[[AO|attaque d'opportunité]]. S'il possède une capacité ou un don qui lui permet d'effectuer la manœuvre voulue sans déclencher d'attaque d'opportunité, il peut à la place augmenter le bonus d'attaque de la prise en tenaille à +4 pour le test de la manœuvre en question.
 
-**Spécial.** Ce don permet de remplir les conditions [Dex](./Dex.md) 13, [Int](./Int.md) 13, [Expertise du combat](./Expertise du combat.md) et [Science du combat à mains nues](./Science du combat à mains nues.md) quand il s'agit de remplir les conditions des différents dons de Science des manœuvres (Tels que [Science du renversement](./Science du renversement.md) ou [Science du sale coup](./Science du sale coup.md)) ainsi que pour les dons qui ont pour conditions ces dons de Science des manœuvres.
+**Spécial.** Ce don permet de remplir les conditions [[Dex]] 13, [[Int]] 13, [[Expertise du combat]] et [[Science du combat à mains nues]] quand il s'agit de remplir les conditions des différents dons de Science des manœuvres (Tels que [[Science du renversement]] ou [[Science du sale coup]]) ainsi que pour les dons qui ont pour conditions ces dons de Science des manœuvres.
 
 (((Dirty Fighting (Combat)
 

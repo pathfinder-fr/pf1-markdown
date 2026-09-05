@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*La végétation enchantée n’entrave pas les déplacements du personnage.*
 
-**Conditions.** [Dex](./Dex.md) 15, [Aisance](./Aisance.md), [déplacement facilité](./Druide.md#DEPLACEMENTFACILITE)
+**Conditions.** [[Dex]] 15, [[Aisance]], [[druide#DEPLACEMENTFACILITE|déplacement facilité]]
 
-**Avantage.** Le personnage peut se déplacer à sa [vitesse maximale](./VD.md), même dans les ronces, les épineux et les zones luxuriantes enchantées ou manipulées par magie pour gêner les mouvements, et même si ces zones devraient [enchevêtrer](./Enchevêtré.md) les créatures.
+**Avantage.** Le personnage peut se déplacer à sa [[VD|vitesse maximale]], même dans les ronces, les épineux et les zones luxuriantes enchantées ou manipulées par magie pour gêner les mouvements, et même si ces zones devraient [[enchevêtré|enchevêtrer]] les créatures.
 
 **Normal.** Le déplacement facilité ne s’applique pas dans les ronciers, les épineux et les zones de végétation luxuriante enchantée ou manipulée par magie.

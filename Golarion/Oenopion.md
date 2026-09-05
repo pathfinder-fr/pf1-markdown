@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-Oenopion est une ville du [Nex](./Nex.md) située dans la savane à l'ouest de l'[Ustradi](./Ustradi.md).
+Oenopion est une ville du [[Nex]] située dans la savane à l'ouest de l'[[Ustradi]].
 
 Elle est réputée pour ses alchimistes, dont les potions et élixirs sont des produits d'exportation majeurs. Ils savent aussi créer des homoncules qui ont la réputation d'être astucieux et loyaux. La ville possède aussi une usine de golems.
 

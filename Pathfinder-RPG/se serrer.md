@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Déplacement et position#SESERRER
 ---
 
->>> [Déplacement et position#SESERRER](./Déplacement et position.md#SESERRER)
+>>> [[Déplacement et position#SESERRER]]

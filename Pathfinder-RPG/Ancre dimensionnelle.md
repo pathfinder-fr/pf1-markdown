@@ -16,20 +16,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau**  [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 4, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Méd](./Médium.md) 3, [Occ](./Occultiste.md) 4, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 4, [Spi](./Spirite.md) 4  
+**École** [[Abjuration]] ; **Niveau**  [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[COMPOSANTES|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Effet** [rayon](./rayon.md)  
+**Effet** [[rayon]]  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** aucun ; **Résistance à la magie** [oui](./RM.md) (objet)
+**Jet de sauvegarde** aucun ; **Résistance à la magie** [[RM|oui]] (objet)
 
-Un [rayon](./rayon.md) vert jaillit de la main tendue du personnage, qui doit réussir une [attaque de contact à distance](./attaque de contact à distance.md) pour atteindre sa cible (créature ou objet). En cas de succès, la cible se retrouve entourée d’une aura vert émeraude lui interdisant toute forme de déplacement extradimensionnel. Les sorts affectés sont *[changement de plan](./Changement de plan.md)*, *[clignotement](./Clignotement.md)*, *[dédale](./Dédale.md)*, *[forme éthérée](./Forme éthérée.md)*, *[passage dans l’éther](./Passage dans léther.md)*, *[portail](./Portail.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*, *[projection astrale](./Projection astrale.md)*, *[téléportation](./téléportation.md)* et *[traversée des ombres](./Traversée des ombres.md)* ainsi que les [pouvoirs magiques](./pouvoirs magiques.md) correspondants. La victime ne peut pas non plus utiliser un *[portail](./Portail.md)* ou un *[cercle de téléportation](./Cercle de téléportation.md)*.
+Un [[rayon]] vert jaillit de la main tendue du personnage, qui doit réussir une [[attaque de contact à distance]] pour atteindre sa cible (créature ou objet). En cas de succès, la cible se retrouve entourée d’une aura vert émeraude lui interdisant toute forme de déplacement extradimensionnel. Les sorts affectés sont *[[changement de plan]]*, *[[clignotement]]*, *[[dédale]]*, *[[forme éthérée]]*, *[[passage dans léther|passage dans l’éther]]*, *[[portail]]*, *[[porte dimensionnelle]]*, *[[projection astrale]]*, *[[téléportation]]* et *[[traversée des ombres]]* ainsi que les [[pouvoirs magiques]] correspondants. La victime ne peut pas non plus utiliser un *[[portail]]* ou un *[[cercle de téléportation]]*.
 
-*Ancre dimensionnelle* ne gêne pas les déplacements d’une créature qui progressait déjà dans le [plan Astral](./plan Astral.md) ou le [plan Éthéré](./plan Éthéré.md) quand elle a été affectée par le sort. Elle reste également sans effet sur les perceptions ou les attaques extradimensionnelles. Pour finir, elle n’empêche pas les créatures convoquées de disparaître à la fin du sort qui les a appelées.
+*Ancre dimensionnelle* ne gêne pas les déplacements d’une créature qui progressait déjà dans le [[plan Astral]] ou le [[plan Éthéré]] quand elle a été affectée par le sort. Elle reste également sans effet sur les perceptions ou les attaques extradimensionnelles. Pour finir, elle n’empêche pas les créatures convoquées de disparaître à la fin du sort qui les a appelées.

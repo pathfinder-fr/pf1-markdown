@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Véhicules en combat (véhicules)#CONDUITECHARGE
 ---
 
->>> [Véhicules en combat (véhicules)#CONDUITECHARGE](./Véhicules en combat (véhicules).md#CONDUITECHARGE)
+>>> [[Véhicules en combat (véhicules)#CONDUITECHARGE]]

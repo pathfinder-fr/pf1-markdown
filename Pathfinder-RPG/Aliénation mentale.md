@@ -12,18 +12,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7, [Sor](./Sorcière.md) 7  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[COMPOSANTES|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Cible** 1 créature vivante  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-La créature affectée souffre en permanence de l’effet du sort *[confusion](./Confusion.md)*. *[Délivrance des malédictions](./Délivrance des malédictions.md)* est insuffisant pour soigner un individu frappé d’*aliénation mentale*. Un sort tel que *[guérison suprême](./Guérison suprême.md)*, *[miracle](./Miracle.md)*, *[restauration suprême](./Restauration suprême.md)*, *[souhait](./Souhait.md)* ou *[souhait limité](./Souhait limité.md)* est nécessaire pour lui permettre de recouvrer ses facultés.
+La créature affectée souffre en permanence de l’effet du sort *[[confusion]]*. *[[Délivrance des malédictions]]* est insuffisant pour soigner un individu frappé d’*aliénation mentale*. Un sort tel que *[[guérison suprême]]*, *[[miracle]]*, *[[restauration suprême]]*, *[[souhait]]* ou *[[souhait limité]]* est nécessaire pour lui permettre de recouvrer ses facultés.

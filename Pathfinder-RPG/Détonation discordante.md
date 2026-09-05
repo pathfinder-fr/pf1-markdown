@@ -10,22 +10,22 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) ([sonore](./Registre.md)) ;** Niveau** [Bard](./Barde.md) 4  
+**École** [[Évocation]] ([[registre|sonore]]) ;** Niveau** [[Barde|Bard]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** 3 ou 9 m (2 ou 6 {s:c})  
 
 **Zone** voir texte  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Le personnage crée une vague de tonnerre et de force, soit dans un rayonnement de 3 mètres (2 {s:c}) de rayon centré sur le personnage, soit dans un cône de 9 mètres (6 {s:c}). Les créatures qui se trouvent dans la zone subissent 3d6 points de dégâts sonores et sont repoussées de côté, comme par une [bousculade](./bousculade.md). Le personnage fait un test de [manœuvre de combat](./manœuvre de combat.md) et applique ce résultat à chaque créature de la zone. Pour cette [bousculade](./bousculade.md), le [BMO](./BMO.md) du personnage est égal à son [niveau de lanceur de sorts](./NLS.md) plus son modificateur de [Charisme](./Charisme.md). Cette bousculade ne provoque pas d'[attaque d'opportunité](./attaque dopportunité.md). La *détonation discordante* ne peut pénétrer un sort de *[silence](./Silence.md)* (ou tout effet de silence magique similaire).
+Le personnage crée une vague de tonnerre et de force, soit dans un rayonnement de 3 mètres (2 {s:c}) de rayon centré sur le personnage, soit dans un cône de 9 mètres (6 {s:c}). Les créatures qui se trouvent dans la zone subissent 3d6 points de dégâts sonores et sont repoussées de côté, comme par une [[bousculade]]. Le personnage fait un test de [[manœuvre de combat]] et applique ce résultat à chaque créature de la zone. Pour cette [[bousculade]], le [[BMO]] du personnage est égal à son [[NLS|niveau de lanceur de sorts]] plus son modificateur de [[Charisme]]. Cette bousculade ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]]. La *détonation discordante* ne peut pénétrer un sort de *[[silence]]* (ou tout effet de silence magique similaire).
 
 ### Mythique
 {s:CMy}
-Les dégâts infligés s’élèvent à 5d6 points de dégâts de son et le personnage gagne un bonus de +2 aux tests de manoeuvre offensive effectués pour bousculer ses adversaires. Le sort ignore les effets de [silence](./Silence.md) magique [non-mythique](./non-mythique.md) et dissipe les effets de [silence](./Silence.md) [non-mythique](./non-mythique.md) d’un niveau inférieur ou égal à 4.
+Les dégâts infligés s’élèvent à 5d6 points de dégâts de son et le personnage gagne un bonus de +2 aux tests de manoeuvre offensive effectués pour bousculer ses adversaires. Le sort ignore les effets de [[silence]] magique [[non-mythique]] et dissipe les effets de [[silence]] [[non-mythique]] d’un niveau inférieur ou égal à 4.

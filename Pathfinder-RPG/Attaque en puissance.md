@@ -7,18 +7,18 @@ Categories:
 - Don combat
 ---
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#6) Attaque en puissance : Si j’utilise une arme à deux mains avec une seule main (comme une lance d’arçon en étant sur une monture), est-ce que j’obtiens tout de même les +50 % de dégâts dus au maniement d’une arme à deux mains ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#6|→]] Attaque en puissance : Si j’utilise une arme à deux mains avec une seule main (comme une lance d’arçon en étant sur une monture), est-ce que j’obtiens tout de même les +50 % de dégâts dus au maniement d’une arme à deux mains ?***
 
-Oui. *(Retour au <u>[don](./Attaque en puissance.md)</u>)*}*Le personnage est capable de réaliser des attaques de mêlée mortelles en sacrifiant de la précision contre de la puissance.*
+Oui. *(Retour au <u>[[Attaque en puissance|don]]</u>)*}*Le personnage est capable de réaliser des attaques de mêlée mortelles en sacrifiant de la précision contre de la puissance.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+**Catégorie** : [[Dons#DONCOMBAT|combat]]
 
-**Condition.** [For](./Force.md) 13, [bonus de base à l’attaque](./BBA.md) +1.
+**Condition.** [[Force|For]] 13, [[BBA|bonus de base à l’attaque]] +1.
 
-**Avantage.** Le personnage peut appliquer un malus de -1 à ses [jets d'attaque](./jet dattaque.md) de corps à corps et à ses [tests](./../Golarion/Test.md) de [manœuvre offensive](./Manœuvre offensive.md) pour bénéficier d’un bonus de +2 aux jets de dégâts. Ces bonus aux dégâts augmentent de 50% si le personnage utilise une arme à deux mains ou une arme à une main [qu’il manie à deux mains](./Valeurs de combat.md#BONUSFORCE) ou encore une [arme naturelle](./arme naturelle.md) principale qui ajoute 1,5 x le [modificateur](./Caractéristiques.md#TABLEAUCARACTERISTIQUES) de [Force](./Force.md) aux jets de dégâts. Ce bonus aux dégâts est réduit de moitié (50%) si le personnage attaque avec son arme secondaire ou avec une [attaque naturelle](./attaque naturelle.md) secondaire. Quand son [bonus de base à l’attaque](./BBA.md) atteint +4, et, par la suite, pour chaque tranche de +4 points de bonus, le malus augmente de -1 et le bonus aux jets de dégâts de +2. Le personnage doit choisir s'il veut utiliser ce don avant de faire un jet d'attaque, et ses effets durent jusqu'à son prochain tour de jeu. Le bonus de dégâts ne s’applique pas aux [attaques de contact](./attaque de contact.md) ou aux effets qui n’infligent pas de points de dégâts.
+**Avantage.** Le personnage peut appliquer un malus de -1 à ses [[jet dattaque|jets d'attaque]] de corps à corps et à ses [[test|tests]] de [[manœuvre offensive]] pour bénéficier d’un bonus de +2 aux jets de dégâts. Ces bonus aux dégâts augmentent de 50% si le personnage utilise une arme à deux mains ou une arme à une main [[Valeurs de combat#BONUSFORCE|qu’il manie à deux mains]] ou encore une [[arme naturelle]] principale qui ajoute 1,5 x le [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] de [[Force]] aux jets de dégâts. Ce bonus aux dégâts est réduit de moitié (50%) si le personnage attaque avec son arme secondaire ou avec une [[attaque naturelle]] secondaire. Quand son [[BBA|bonus de base à l’attaque]] atteint +4, et, par la suite, pour chaque tranche de +4 points de bonus, le malus augmente de -1 et le bonus aux jets de dégâts de +2. Le personnage doit choisir s'il veut utiliser ce don avant de faire un jet d'attaque, et ses effets durent jusqu'à son prochain tour de jeu. Le bonus de dégâts ne s’applique pas aux [[attaque de contact|attaques de contact]] ou aux effets qui n’infligent pas de points de dégâts.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Quand le personnage utilise ce don, il peut dépenser 2 points d’endurance pour profiter des avantages et des inconvénients de ce don jusqu’à la fin de son tour et non jusqu’à son prochain tour.
 
 {s:CMy}
@@ -27,4 +27,4 @@ Quand le personnage utilise ce don, il peut dépenser 2 points d’endurance pou
 
 **Condition.** Attaque en puissance
 
-**Avantage.** Lorsqu’il utilise Attaque en puissance, le personnage gagne un bonus de +3 au lieu de +2 aux jets de dégâts infligés au corps à corps. Quand son bonus de base à l’attaque ([BBA](./BBA.md)) est au moins égal à +4 et tous les 4 points par la suite, le montant de dégâts supplémentaires augmente de +3 au lieu de +2. De plus, les dégâts supplémentaires conférés par ce don sont doublés en cas de [coup critique](./coup critique.md), avant d’être multipliés par le multiplicateur de critique de l’arme. Le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il active Attaque en puissance pour ignorer les malus aux jets d’attaque au corps à corps et aux tests de [manœuvre offensive](./Manœuvre offensive.md) pendant une minute.
+**Avantage.** Lorsqu’il utilise Attaque en puissance, le personnage gagne un bonus de +3 au lieu de +2 aux jets de dégâts infligés au corps à corps. Quand son bonus de base à l’attaque ([[BBA]]) est au moins égal à +4 et tous les 4 points par la suite, le montant de dégâts supplémentaires augmente de +3 au lieu de +2. De plus, les dégâts supplémentaires conférés par ce don sont doublés en cas de [[coup critique]], avant d’être multipliés par le multiplicateur de critique de l’arme. Le personnage peut dépenser une utilisation de [[pouvoir mythique]] lorsqu’il active Attaque en puissance pour ignorer les malus aux jets d’attaque au corps à corps et aux tests de [[manœuvre offensive]] pendant une minute.

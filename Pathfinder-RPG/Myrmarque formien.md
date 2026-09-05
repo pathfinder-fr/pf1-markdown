@@ -13,13 +13,13 @@ Categories:
 {s:pucem|humanoïde monstrueux|souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4* p. 105}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille G, LN}
-{s:BDTexte|**Init** +8 (+12 avec esprit de ruche) ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [perception aveugle](./perception aveugle.md) à 9 m, esprit de ruche ; [Perception](./Perception.md) +18 (+22 avec esprit de ruche)}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille G, LN}
+{s:BDTexte|**Init** +8 (+12 avec esprit de ruche) ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), [[perception aveugle]] à 9 m, esprit de ruche ; [[Perception]] +18 (+22 avec esprit de ruche)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 27, contact 16, pris au dépourvu 22 (Dex +4, esquive +1, naturelle +11, parade +2, taille -1)}
 {s:BDTexte|**pv** 126 (12d10+60)}
 {s:BDTexte|**Réf** +14, **Vig** +11, **Vol** +13}
-{s:BDTexte|**[Résistance](./Résistance (capacité).md)** son 10}
+{s:BDTexte|**[[Résistance (capacité)|Résistance]]** son 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
 {s:BDTexte|**Corps à corps** dard, +16 (1d8+5 plus poison) et 2 griffes, +16 (1d4+5/19-20) et morsure, +16 (1d6+5)}
@@ -27,16 +27,16 @@ Categories:
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Attaque spéciale** poison}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12 ; concentration +15)}
-{s:BDSorts|À volonté — *[charme-monstre](./Charme-monstre.md)* (DD 17), *[Clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*, *[détection de pensées](./Détection de pensées.md)* ([DD](./DD.md) 15)}
-{s:BDSorts|3/jour — *[immobilisation de monstre](./Immobilisation de monstre.md)* ([DD](./DD.md) 18)}
-{s:BDSorts|1/jour — *[débilité](./Débilité.md)* ([DD](./DD.md) 18)}
+{s:BDSorts|À volonté — *[[charme-monstre]]* (DD 17), *[[Clairaudienceclairvoyance|Clairaudience/clairvoyance]]*, *[[détection de pensées]]* ([[DD]] 15)}
+{s:BDSorts|3/jour — *[[immobilisation de monstre]]* ([[DD]] 18)}
+{s:BDSorts|1/jour — *[[débilité]]* ([[DD]] 18)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 19, **Con** 20, **Int** 17, **Sag** 16, **Cha** 17}
 {s:BDTexte|**BBA** +12 ; **BMO** +18 ; **DMD** 35 (39 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme en main](./Arme en main.md), [Attaque éclair](./Attaque éclair.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +15, [Connaissances](./Connaissances.md) (mystères) +15, [Diplomatie](./Diplomatie.md) +15, [Discrétion](./Discrétion.md) +15, [Escalade](./Escalade.md) +20, [Perception](./Perception.md) +18 (+22 avec esprit de ruche), [Psychologie](./Psychologie.md) +15}
+{s:BDTexte|**Dons** [[Arme en main]], [[Attaque éclair]], [[Esquive]], [[Frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +15, [[Connaissances]] (mystères) +15, [[Diplomatie]] +15, [[Discrétion]] +15, [[Escalade]] +20, [[Perception]] +18 (+22 avec esprit de ruche), [[Psychologie]] +15}
 {s:BDTexte|**Langues** commun, télépathie à 45 m}
-{s:BDTexte|**Particularités** [armes de taille inférieure](./Armes de taille inférieure (capacité).md), inspiration de la ruche, [traits des formiens](./Traits des formiens (capacité).md)}
+{s:BDTexte|**Particularités** [[Armes de taille inférieure (capacité)|armes de taille inférieure]], inspiration de la ruche, [[Traits des formiens (capacité)|traits des formiens]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terrestre ou souterrain, chaud ou tempéré}
 {s:BDTexte|**Organisation sociale** solitaire, équipe (2-4), unité (1 plus 7-18 guerrières et 6-12 ouvriers) ou garde royale (4 plus 12-20 guerrières)}
@@ -44,17 +44,17 @@ Categories:
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Inspiration de la ruche (Sur).** Une fois par jour, le
 myrmarque peut affecter toutes les guerrières et tous les ouvriers à portée de contact télépathique avec un effet
-d’*[Héroïsme suprême](./Héroïsme suprême.md)* (NLS 12).}
-{s:BDTexte|**Poison (Ext).** Javeline ou dard — blessure ; JdS Vigueur [DD](./DD.md) 21 ; fréquence 1/
+d’*[[Héroïsme suprême]]* (NLS 12).}
+{s:BDTexte|**Poison (Ext).** Javeline ou dard — blessure ; JdS Vigueur [[DD]] 21 ; fréquence 1/
 round pendant 6 rounds ; effet 1d4 Dex et fiévreux ; guérison 2 réussites
-consécutives. Le [DD](./DD.md) du jet de sauvegarde est basé sur la Constitution.}
+consécutives. Le [[DD]] du jet de sauvegarde est basé sur la Constitution.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [formiens](./Formiens.md).***</li></ul>''Cet insecte de la taille d’un cheval est recouvert d’une carapace rouge
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Formiens]].***</li></ul>''Cet insecte de la taille d’un cheval est recouvert d’une carapace rouge
 brillante tandis que son visage indique une grande intelligence et
 reflète la confiance.''
 
-Les myrmarques sont une caste d’élite de la race des [formiens](./Formiens.md). Ce
+Les myrmarques sont une caste d’élite de la race des [[formiens]]. Ce
 sont les agents directs de la reine, agissant comme ses conseillers
 et ses généraux ou administrant les tâches dont la complexité ou
 la bienséance ne convient pas aux contremaîtres. Ce sont les myrmarques

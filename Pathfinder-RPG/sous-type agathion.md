@@ -10,12 +10,12 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire 2* p.310
 
-Les [agathions](./Agathion.md) sont des [Extérieurs](./type Extérieur.md) natifs du Nirvana ressemblant à des animaux. Ils possèdent les traits suivants :
-- [Vision nocturne](./Vision nocturne (capacité).md).
-- [Immunité](./Immunité (capacité).md) contre l’électricité et la pétrification.
-- [Résistance](./Résistance (capacité).md) au froid 10 et au son 10.
-- [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS), comme un [paladin](./Paladin.md) de niveau égal au nombre de [DV](./../Ressources/DV.md) de l’agathion.
-- Bonus racial de +4 aux [jets de sauvegarde](./JDS.md) contre le poison.
+Les [[Agathion|agathions]] sont des [[type Extérieur|Extérieurs]] natifs du Nirvana ressemblant à des animaux. Ils possèdent les traits suivants :
+- [[Vision nocturne (capacité)|Vision nocturne]].
+- [[Immunité (capacité)|Immunité]] contre l’électricité et la pétrification.
+- [[Résistance (capacité)|Résistance]] au froid 10 et au son 10.
+- [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]], comme un [[paladin]] de niveau égal au nombre de [[DV]] de l’agathion.
+- Bonus racial de +4 aux [[jds|jets de sauvegarde]] contre le poison.
 - Sauf mention contraire, les agathions parlent le céleste, le draconique et l’infernal.
-- **Communication avec les animaux (Sur).** L'agathion bénéficie de *[communication avec les animaux](./Communication avec les animaux.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) constant ([NLS](./NLS.md) égal au nombre de [DV](./../Ressources/DV.md) de l’agathion) mais il nécessite une [action libre](./Action libre.md) qui ne requiert aucun son.
-- **Langage universel (Sur).** Les agathions peuvent dialoguer avec n’importe quelle créature possédant un langage comme s’ils utilisaient un sort de *[don des langues](./Don des langues.md)* (avec un [NLS](./NLS.md) égal au nombre de [DV](./../Ressources/DV.md) de l’agathion). Cette capacité est active en permanence.
+- **Communication avec les animaux (Sur).** L'agathion bénéficie de *[[communication avec les animaux]]* comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] constant ([[NLS]] égal au nombre de [[DV]] de l’agathion) mais il nécessite une [[action libre]] qui ne requiert aucun son.
+- **Langage universel (Sur).** Les agathions peuvent dialoguer avec n’importe quelle créature possédant un langage comme s’ils utilisaient un sort de *[[don des langues]]* (avec un [[NLS]] égal au nombre de [[DV]] de l’agathion). Cette capacité est active en permanence.

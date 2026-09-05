@@ -12,12 +12,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Occ](./Occultiste.md) 4, [Prê](./Prêtre.md) 4</br>
-**Temps d’incantation** 1 [round](./round.md)</br>
-**Composantes** [V, G](./composantes.md)</br>
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))</br>
+**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4</br>
+**Temps d’incantation** 1 [[round]]</br>
+**Composantes** [[Composantes|V, G]]</br>
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])</br>
 **Cible** une créature artificielle</br>
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)</br>
+**Durée** [[présentation des sorts#DUREE|instantanée]]</br>
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Le personnage apaise l’esprit élémentaire d’une [créature artificielle](./type Créature artificielle.md) et réduit les risques qu’elle devienne berserk de 1d4% par tranche de 4 [niveaux de lanceur de sorts](./NLS.md) (5d4% au maximum). Si le personnage lance le sort sur une créature déjà berserk dont il est le maître, il peut lancer immédiatement le d% pour mettre un terme à l’accès de folie et rendre la créature de nouveau fonctionnelle, ramenant ses chances de devenir berserk à 0%.
+Le personnage apaise l’esprit élémentaire d’une [[type créature artificielle|créature artificielle]] et réduit les risques qu’elle devienne berserk de 1d4% par tranche de 4 [[NLS|niveaux de lanceur de sorts]] (5d4% au maximum). Si le personnage lance le sort sur une créature déjà berserk dont il est le maître, il peut lancer immédiatement le d% pour mettre un terme à l’accès de folie et rendre la créature de nouveau fonctionnelle, ramenant ses chances de devenir berserk à 0%.

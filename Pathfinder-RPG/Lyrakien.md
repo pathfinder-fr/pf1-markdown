@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Extérieur|Plaines|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2* p.45}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([azata](./sous-type azata.md), [Bien](./sous-type Bien.md), [Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md)) de taille TP, CB}
-{s:BDTexte|**Init** +8 ; **Sens** [détection de la magie](./Détection de la magie.md), [détection du Mal](./Détection du Mal.md), [vision dans le noir](./vision dans le noir.md) 18 m, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]]) de taille TP, CB}
+{s:BDTexte|**Init** +8 ; **Sens** [[détection de la magie]], [[détection du Mal]], [[vision dans le noir]] 18 m, [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 16, pris au dépourvu 12 (Dex +4, taille +2)}
 {s:BDTexte|**pv** 19 (3d10+3)}
@@ -25,15 +25,15 @@ Categories:
 {s:BDTexte|**Espace** 75 cm ; **Allonge** 0 m}
 {s:BDTexte|**Attaques spéciales** explosion de lumière des étoiles}
 {s:BDTexte|**Pouvoirs magiques** (NLS 3), concentration +8}
-{s:BDSorts|Constant — *[détection de la magie](./Détection de la magie.md)*, *[détection du Mal](./Détection du Mal.md)*, *[liberté de mouvement](./Liberté de mouvement.md)*}
-{s:BDSorts|À volonté — *[convocation d’instrument](./Convocation dinstrument.md)*, *[hébétement](./Hébétement.md)* (DD 15),  *[lumières dansantes](./Lumières dansantes.md)*, *[ventriloquie](./Ventriloquie.md)* (DD 16)}
-{s:BDSorts|1/jour — *[confusion mineure](./Confusion mineure.md) (DD 16)*, *[image silencieuse](./Image silencieuse.md)* (DD 16), *[soins légers](./Soins légers.md)*}
-{s:BDSorts|1/semaine — *[communion](./Communion.md)* (6 questions, NLS 12)}
+{s:BDSorts|Constant — *[[détection de la magie]]*, *[[détection du Mal]]*, *[[liberté de mouvement]]*}
+{s:BDSorts|À volonté — *[[convocation dinstrument|convocation d’instrument]]*, *[[hébétement]]* (DD 15),  *[[lumières dansantes]]*, *[[ventriloquie]]* (DD 16)}
+{s:BDSorts|1/jour — *[[confusion mineure]] (DD 16)*, *[[image silencieuse]]* (DD 16), *[[soins légers]]*}
+{s:BDSorts|1/semaine — *[[communion]]* (6 questions, NLS 12)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 5, **Dex** 19, **Con** 12, **Int** 14, **Sag** 17, **Cha** 20}
 {s:BDTexte|**BBA** +3, **BMO** +5, **DMD** 12}
-{s:BDTexte|**Dons** [Manoeuvres agiles](./Manoeuvres-agiles.md) , [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Art de la magie](./Art de la magie.md) +5, [Bluff](./Bluff.md) +11, [Connaissances](./Connaissances.md) (un au choix) +8, [Diplomatie](./Diplomatie.md) +11, [Discrétion](./Discrétion.md) +18, [Perception](./Perception.md) +9, [Représentation](./Représentation.md) (un au choix) +11, [Vol](./Vol.md) +16}
+{s:BDTexte|**Dons** [[Manoeuvres agiles]] , [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Art de la magie]] +5, [[Bluff]] +11, [[Connaissances]] (un au choix) +8, [[Diplomatie]] +11, [[Discrétion]] +18, [[Perception]] +9, [[Représentation]] (un au choix) +11, [[Vol]] +16}
 {s:BDTexte|**Langues** céleste, draconique, infernal ; langage universel}
 {s:BDTexte|**Particularités** ami des voyageurs}
 {s:BDSousTitre|Écologie}
@@ -46,7 +46,7 @@ Categories:
 Explosion de lumière des étoiles (Sur). ''' Par une action simple utilisable tous les 1d4 rounds, un lyrakien peut puiser dans l’énergie divine de l’Élysée pour créer une explosion de lumière sainte dans un rayonnement de 1,50 mètre. Toutes les créatures situées dans cette zone subissent 1d4 points de dégâts saints plus 1 point par degré de différence entre leur alignement et l’alignement Chaotique Bon. Par exemple, une créature d’alignement Chaotique Neutre ou Neutre Bon subira 1d4+1 points de dégâts alors qu’une créature Neutre subira 1d4+2 points de dégâts et qu’une créature d’alignement Loyal Mauvais subira 1d4+4 points de dégâts. Un jet de Réflexes de DD 12 permet d’annuler ces dégâts. Les créatures d’alignement Chaotique Bon ne sont pas affectées par cette capacité. Le DD du jet de sauvegarde dépend de la Constitution.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [azatas](./Azata.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[azata|azatas]].***</li></ul>
 *Cette minuscule femme élancée possède de fines ailes de papillons. Elle est entourée de lumières étincelantes et d’arcs-en-ciel.*
 
 Les lyrakiens sont des musiciens et messagers divins qu’on

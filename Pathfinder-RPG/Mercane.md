@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.197*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille G, LN}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]) de taille G, LN}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 13 (Dex +2, esquive +1, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 51 (6d10+18)}
@@ -26,21 +26,21 @@ Categories:
 {s:BDTexte|**Corps à corps** grand cimeterre à deux mains de maître, +8/+3 (2d6+3/18–20)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9 ; concentration +11)}
-{s:BDSorts|3/jour — *[invisibilité](./Invisibilité.md)* (personnel uniquement), *[porte dimensionnelle](./Porte dimensionnelle.md)*}
-{s:BDSorts|1/jour — *[changement de plan](./Changement de plan.md)* (DD 17)}
+{s:BDSorts|3/jour — *[[invisibilité]]* (personnel uniquement), *[[porte dimensionnelle]]*}
+{s:BDSorts|1/jour — *[[changement de plan]]* (DD 17)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 14, **Con** 16, **Int** 20, **Sag** 17, **Cha** 15}
 {s:BDTexte|**BBA** +6, **BMO** +9, **DMD** 22}
-{s:BDTexte|**Dons** [Magie de guerre](./Magie de guerre.md), [Expertise du combat](./Expertise du combat.md), [Esquive](./Esquive.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +14, [Bluff](./Bluff.md) +11, [Connaissances](./Connaissances.md) (mystères) +14, [Connaissances](./Connaissances.md) (plans) +14, [Diplomatie](./Diplomatie.md) +8, [Escamotage](./Escamotage.md) +11, [Estimation](./Estimation.md) +14, [Intimidation](./Intimidation.md) +8, [Perception](./Perception.md) +12, [Profession](./Profession.md) (marchand) +9, [Psychologie](./Psychologie.md) +12}
-{s:BDTexte|**Langues** abyssal, céleste, commun, draconique, infernal ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Magie de guerre]], [[Expertise du combat]], [[Esquive]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +14, [[Bluff]] +11, [[Connaissances]] (mystères) +14, [[Connaissances]] (plans) +14, [[Diplomatie]] +8, [[Escamotage]] +11, [[Estimation]] +14, [[Intimidation]] +8, [[Perception]] +12, [[Profession]] (marchand) +9, [[Psychologie]] +12}
+{s:BDTexte|**Langues** abyssal, céleste, commun, draconique, infernal ; [[télépathie]] 30 m (20 {s:c})}
 {s:BDTexte|**Particularités** coffre secret}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme ou sous terre}
 {s:BDTexte|**Organisation sociale** solitaire ou compagnie (1–4 et 3–12 gardes du corps de races diverses)}
 {s:BDTexte|**Trésor** double (grand cimeterre à deux mains de maître, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Coffre secret (Mag).** Un mercane peut cacher ou ramener vers lui un coffre de rangement extradimensionnel, comme par le sort de *[coffre secret](./Coffre secret.md)* (NLS 5). Le mercane n’a pas besoin d’un coffre coûteux et d’une réplique parfaite pour pouvoir utiliser cette capacité : n’importe quel coffre suffit. Le mercane ne peut utiliser cette capacité que sur un coffre à la fois.}
+{s:BDTexte|**Coffre secret (Mag).** Un mercane peut cacher ou ramener vers lui un coffre de rangement extradimensionnel, comme par le sort de *[[coffre secret]]* (NLS 5). Le mercane n’a pas besoin d’un coffre coûteux et d’une réplique parfaite pour pouvoir utiliser cette capacité : n’importe quel coffre suffit. Le mercane ne peut utiliser cette capacité que sur un coffre à la fois.}
 </div>
 
 {s:ImageCentre|Bestiaire/Mercane.jpg|95%}

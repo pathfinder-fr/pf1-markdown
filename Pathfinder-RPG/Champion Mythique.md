@@ -14,7 +14,7 @@ Categories:
 **Classes.** Les membres de presque toutes les classes peuvent devenir des champions, mais les aptitudes de cette voie seront
 plus utiles et plus attractives pour ceux qui maîtrisent le combat au corps à corps : les barbares, les chevaliers, les guerriers, les moines, les paladins et les rôdeurs. Quoi qu’il en soit, même les magi ou les roublards peuvent déceler dans la voie du champion un excellent moyen d’améliorer leurs aptitudes.
 
-**Bonus en points de vie** À chaque fois que le personnage acquiert un [grade](./Grade.md) de champion, il gagne 5 points de vie supplémentaires. Ces points de vie s’ajoutent au total maximum du personnage et n’affectent pas son nombre total de dés de vie ou ses autres caractéristiques.
+**Bonus en points de vie** À chaque fois que le personnage acquiert un [[grade]] de champion, il gagne 5 points de vie supplémentaires. Ces points de vie s’ajoutent au total maximum du personnage et n’affectent pas son nombre total de dés de vie ou ses autres caractéristiques.
 
 ### Caractéristiques du champion
 <div style="float:right; background-color: #fff; padding: 0 0 8px 16px">
@@ -24,43 +24,43 @@ plus utiles et plus attractives pour ceux qui maîtrisent le combat au corps à 
 |- CLASS="titre"
 | Grade || Caractéristiques de la voie
 |- CLASS="premier"
-| 1 || [Frappe du champion](./Champion Mythique.md#FRAPPEDUCHAMPION), [aptitude de voie](./Champion Mythique.md#APTITUDEDEVOIE)
+| 1 || [[Champion mythique#FRAPPEDUCHAMPION|Frappe du champion]], [[Champion Mythique#APTITUDEDEVOIE|aptitude de voie]]
 |-
-| 2 || [Aptitude de voie](./Champion Mythique.md#APTITUDEDEVOIE)
+| 2 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 3 || [Aptitude de voie](./Champion Mythique.md#APTITUDEDEVOIE)
+| 3 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 4 || [Aptitude de voie](./Champion Mythique.md#APTITUDEDEVOIE)
+| 4 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 5 || [Aptitude de voie](./Champion Mythique.md#APTITUDEDEVOIE)
+| 5 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 6 || [Aptitude de voie](./Champion Mythique.md#APTITUDEDEVOIE)
+| 6 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 7 || [Aptitude de voie](./Champion Mythique.md#APTITUDEDEVOIE)
+| 7 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 8 || [Aptitude de voie](./Champion Mythique.md#APTITUDEDEVOIE)
+| 8 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 9 || [Aptitude de voie](./Champion Mythique.md#APTITUDEDEVOIE)
+| 9 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 10 || [Champion légendaire](./Champion Mythique.md#CHAMPIONEGENDAIRE), [aptitude de voie](./Champion Mythique.md#APTITUDEDEVOIE)
+| 10 || [[Champion Mythique#CHAMPIONEGENDAIRE|Champion légendaire]], [[Champion Mythique#APTITUDEDEVOIE|aptitude de voie]]
 |-
 |}
-</div></div>Au fur et à mesure que le champion monte en [grades](./Grade.md), il obtient les aptitudes suivantes :
+</div></div>Au fur et à mesure que le champion monte en [[grade|grades]], il obtient les aptitudes suivantes :
 
 {s:Reference|FRAPPEDUCHAMPION}
 #### Frappe du champion
 Choisissez l’une des aptitudes suivantes. Ce choix est définitif.
-- ***Charge effrénée (Ext).*** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour se déplacer d’une distance équivalente à sa vitesse de déplacement. N’importe quand pendant ce déplacement, il peut effectuer une unique attaque au corps à corps ou à distance en appliquant son bonus d’attaque le plus élevé et en ajoutant son [grade](./Grade.md) au [jet d’attaque](./jet dattaque.md). Cette attaque vient en plus de celles effectuées au cours du même [round](./round.md). Les dégâts infligés par cette attaque ignorent toutes les [réductions des dégâts](./RD.md).
+- ***Charge effrénée (Ext).*** Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour se déplacer d’une distance équivalente à sa vitesse de déplacement. N’importe quand pendant ce déplacement, il peut effectuer une unique attaque au corps à corps ou à distance en appliquant son bonus d’attaque le plus élevé et en ajoutant son [[grade]] au [[jet dattaque|jet d’attaque]]. Cette attaque vient en plus de celles effectuées au cours du même [[round]]. Les dégâts infligés par cette attaque ignorent toutes les [[RD|réductions des dégâts]].
 
-- ***Frappe soudaine (Ext).*** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour effectuer une attaque au corps à corps avec son bonus à l’attaque le plus élevé. Cette attaque vient en plus de celles effectuées au cours du même [round](./round.md). Lorsqu’il effectue le [jet d’attaque](./jet dattaque.md) d’une frappe soudaine, le personnage lance deux dés et conserve le meilleur résultat, auquel il ajoute son [grade](./Grade.md). Les dégâts de cette attaque ignorent toutes les [réductions de dégâts](./RD.md).
+- ***Frappe soudaine (Ext).*** Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour effectuer une attaque au corps à corps avec son bonus à l’attaque le plus élevé. Cette attaque vient en plus de celles effectuées au cours du même [[round]]. Lorsqu’il effectue le [[jet dattaque|jet d’attaque]] d’une frappe soudaine, le personnage lance deux dés et conserve le meilleur résultat, auquel il ajoute son [[grade]]. Les dégâts de cette attaque ignorent toutes les [[RD|réductions de dégâts]].
 
-- ***Tir de barrage (Ext).*** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour effectuer une attaque à distance avec son bonus à l’attaque le plus élevé. Cette attaque vient en plus de celles effectuées au cours du même [round](./round.md). Lorsqu’il effectue cette attaque, le personnage ignore l’[abri](./abri.md) (à l’exception d’un [abri total](./abri total.md)) et le [camouflage](./camouflage.md) dont bénéficie la cible et il ajoute son [grade](./Grade.md) au [jet d’attaque](./jet dattaque.md). Les dégâts de cette attaque ignorent toutes les [réductions de dégâts](./RD.md).
+- ***Tir de barrage (Ext).*** Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour effectuer une attaque à distance avec son bonus à l’attaque le plus élevé. Cette attaque vient en plus de celles effectuées au cours du même [[round]]. Lorsqu’il effectue cette attaque, le personnage ignore l’[[abri]] (à l’exception d’un [[abri total]]) et le [[camouflage]] dont bénéficie la cible et il ajoute son [[grade]] au [[jet dattaque|jet d’attaque]]. Les dégâts de cette attaque ignorent toutes les [[RD|réductions de dégâts]].
 
 {s:Reference|APTITUDEDEVOIE}
 #### Aptitude de voie
-Au 1<sup>er</sup> [grade](./Grade.md) et tous les [grades](./grades.md) par la suite, choisissez une nouvelle [aptitude de voie](./aptitude de voie.md) parmi la liste des [aptitudes de la voie du champion](./Aptitudes de la voie du Champion Mythique.md) ou parmi la liste des
-[aptitudes de voie universelles](./Aptitudes de voie universelles Mythique.md) . Ce choix est définitif. Sauf indication contraire, chaque aptitude ne peut être choisie qu’une seule fois. Certaines aptitudes s’accompagnent de conditions requises, comme la possession d’une aptitude de classe spécifique ou d’un grade mythique minimum. Le personnage doit remplir les conditions requises avant de pouvoir choisir ces aptitudes.
+Au 1<sup>er</sup> [[grade]] et tous les [[grades]] par la suite, choisissez une nouvelle [[aptitude de voie]] parmi la liste des [[Aptitudes de la voie du Champion Mythique|aptitudes de la voie du champion]] ou parmi la liste des
+[[Aptitudes de voie universelles Mythique|aptitudes de voie universelles]] . Ce choix est définitif. Sauf indication contraire, chaque aptitude ne peut être choisie qu’une seule fois. Certaines aptitudes s’accompagnent de conditions requises, comme la possession d’une aptitude de classe spécifique ou d’un grade mythique minimum. Le personnage doit remplir les conditions requises avant de pouvoir choisir ces aptitudes.
 
 {s:Reference|CHAMPIONEGENDAIRE}
 #### Champion légendaire (Ext)
-Au 10<sup>ème</sup> [grade](./Grade.md), chaque fois que le personnage rate un [jet d’attaque](./jet dattaque.md) contre un adversaire [non-mythique](./non-mythique.md), il peut immédiatement refaire le jet. Il doit conserver le résultat de ce deuxième jet, même s’il est pire. Une fois par [round](./round.md) lorsqu’il fait un 20 naturel sur son jet d’attaque, il récupère une utilisation de [pouvoir mythique](./pouvoir mythique.md).
+Au 10<sup>ème</sup> [[grade]], chaque fois que le personnage rate un [[jet dattaque|jet d’attaque]] contre un adversaire [[non-mythique]], il peut immédiatement refaire le jet. Il doit conserver le résultat de ce deuxième jet, même s’il est pire. Une fois par [[round]] lorsqu’il fait un 20 naturel sur son jet d’attaque, il récupère une utilisation de [[pouvoir mythique]].

@@ -6,12 +6,12 @@ LastModified: 2024-02-17 12:41
 
 {s:MenuTraits}
 Les traits de base sont répartis en quatre catégories :
-- **[Les traits de combat](./Traits de combat.md)** se rapportent aux aspects martiaux et physiques du passé de votre personnage. 
+- **[[Traits de combat|Les traits de combat]]** se rapportent aux aspects martiaux et physiques du passé de votre personnage. 
 
-- **[Les traits de foi](./Traits de foi.md)** touchent à son apprentissage en matière de religion et de philosophie. 
+- **[[Traits de foi|Les traits de foi]]** touchent à son apprentissage en matière de religion et de philosophie. 
 
-- **[Les traits de magie](./Traits de magie.md)** sont liés aux événements magiques ou à l’éducation magique qu’il a reçue.
+- **[[Traits de magie|Les traits de magie]]** sont liés aux événements magiques ou à l’éducation magique qu’il a reçue.
 
-- **[les traits sociaux](./Traits sociaux.md)** se rattachent à la classe sociale du personnage ou à son éducation.
+- **[[Traits sociaux|les traits sociaux]]** se rattachent à la classe sociale du personnage ou à son éducation.
 
 *Les listes de traits ont été séparées en quatre pages distinctes pour éviter l'overdose. (message temporaire)*

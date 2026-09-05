@@ -7,4 +7,4 @@ Categories:
 - Osirion
 ---
 
-Baie de la [Mer Intérieure](./mer Intérieure.md) située au nord de l'[Osirion](./Osirion.md). Elle doit son nom aux remous et courants provoqués par l'embouchure du [Sphinx](./Sphinx.md).
+Baie de la [[Mer Intérieure]] située au nord de l'[[Osirion]]. Elle doit son nom aux remous et courants provoqués par l'embouchure du [[Sphinx]].

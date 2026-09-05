@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous avez du flair pour ce qui est de préparer le sort parfait pour contrer les problèmes rencontrés.*
 
-**Conditions.** [Int](./Int.md) 13, capacité à lancer des sorts de 3e niveau
+**Conditions.** [[Int]] 13, capacité à lancer des sorts de 3e niveau
 
-**Avantages.** Le personnage choisit une classe pour laquelle il peut préparer des sorts de 3e niveau ou plus. Une fois ce choix effectué, il ne peut plus être modifié. Lorsque le personnage prépare ses sorts pour cette classe, il peut faire d'un emplacement de sort libre un emplacement spécial. L'emplacement doit être inférieur d'au moins deux niveaux au niveau de sort le plus élevé qu'il est capable de lancer. Le personnage peut ensuite préparer un sort dans cet emplacement spécial par une [action simple](./Action simple.md) au lieu d'avoir besoin d'y consacrer 15 minutes.
+**Avantages.** Le personnage choisit une classe pour laquelle il peut préparer des sorts de 3e niveau ou plus. Une fois ce choix effectué, il ne peut plus être modifié. Lorsque le personnage prépare ses sorts pour cette classe, il peut faire d'un emplacement de sort libre un emplacement spécial. L'emplacement doit être inférieur d'au moins deux niveaux au niveau de sort le plus élevé qu'il est capable de lancer. Le personnage peut ensuite préparer un sort dans cet emplacement spécial par une [[action simple]] au lieu d'avoir besoin d'y consacrer 15 minutes.
 
 **Spécial.** Ce don peut être choisi plusieurs fois. À chaque fois, il permet au personnage de laisser un emplacement de sort libre spécial supplémentaire.

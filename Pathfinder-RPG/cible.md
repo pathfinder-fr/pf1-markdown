@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#CIBLE
 ---
 
->>> [Présentation des sorts#CIBLE](./Présentation des sorts.md#CIBLE)
+>>> [[Présentation des sorts#CIBLE]]

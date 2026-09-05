@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Requin sanguinaire
 ---
 
->>> [Pathfinder-RPG.Requin sanguinaire](./Requin sanguinaire.md)
+>>> [[Pathfinder-RPG.Requin sanguinaire]]

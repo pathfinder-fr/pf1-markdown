@@ -8,7 +8,7 @@ Categories:
 *Vous comprenez que ce que la plupart des gens appellent de la magie n'est simplement que l'expression de la connexion innée entre les choses et vous êtes intuitivement capable de manipuler cette force invisible pour provoquer les effets les plus étranges. Vous pouvez conceptualiser la source de votre magie comme étant la faveur d'une divinité, la manipulation d'une énergie primordiale ou l'utilisation de votre plein potentiel psychique, mais ce qui est certain, c'est que vous êtes un réceptacle qui canalise des forces bien plus puissantes que vous. Même si vous passez du temps à étudier, vous savez que l'art de la magie, comme la vie, est complexe et intuitif et vous vous spécialisez dans des processus mentaux et biologiques trop complexes pour être parfaitement compris par la science. Vous ressentez l'intangible et vous tirez profit des liens que vous avez forgés avec les autres pour soit les soutenir, soit les soumettre à votre volonté.*
 
 
-<div class="fright">***Voir aussi les [connexions](./connexions.md).***  
+<div class="fright">***Voir aussi les [[connexions]].***  
 
 </ul></div>
   
@@ -39,7 +39,7 @@ Categories:
 | +0
 | +0
 | +2
-| CLASS="gauche" | [Connexion](./Mystique.md#CONNEXION), [Pouvoir de connexion](./Mystique.md#POUVOIRDECONNEXION), [Sort de connexion](./Mystique.md#SORTDECONNEXION), [Contact guérisseur](./Mystique.md#CONTACTGUERISSEUR)
+| CLASS="gauche" | [[Mystique#CONNEXION|Connexion]], [[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]], [[Mystique#SORTDECONNEXION|Sort de connexion]], [[Mystique#CONTACTGUERISSEUR|Contact guérisseur]]
 | 2
 | -
 | -
@@ -52,7 +52,7 @@ Categories:
 | +0
 | +0
 | +3
-| CLASS="gauche" | [Compétence focalisée](./Mystique.md#COMPETENCEFOCALISEE) +1, [Lien mental](./Mystique.md#LIENMENTAL)
+| CLASS="gauche" | [[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +1, [[Mystique#LIENMENTAL|Lien mental]]
 | 2
 | -
 | -
@@ -65,7 +65,7 @@ Categories:
 | +1
 | +1
 | +3
-| CLASS="gauche" | [Spécialisation martiale](./Mystique.md#SPECIALISATIONMARTIALE)
+| CLASS="gauche" | [[Mystique#SPECIALISATIONMARTIALE|Spécialisation martiale]]
 | 3
 | -
 | -
@@ -78,7 +78,7 @@ Categories:
 | +1
 | +1
 | +4
-| CLASS="gauche" | [Sort de connexion](./Mystique.md#SORTDECONNEXION)
+| CLASS="gauche" | [[Mystique#SORTDECONNEXION|Sort de connexion]]
 | 3
 | 2
 | -
@@ -91,7 +91,7 @@ Categories:
 | +1
 | +1
 | +4
-| CLASS="gauche" | [Compétence focalisée](./Mystique.md#COMPETENCEFOCALISEE) +2
+| CLASS="gauche" | [[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +2
 | 4
 | 2
 | -
@@ -104,7 +104,7 @@ Categories:
 | +2
 | +2
 | +5
-| CLASS="gauche" | [Pouvoir de connexion](./Mystique.md#POUVOIRDECONNEXION)
+| CLASS="gauche" | [[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]
 | 4
 | 3
 | -
@@ -117,7 +117,7 @@ Categories:
 | +2
 | +2
 | +5
-| CLASS="gauche" | [Sort de connexion](./Mystique.md#SORTDECONNEXION)
+| CLASS="gauche" | [[Mystique#SORTDECONNEXION|Sort de connexion]]
 | 4
 | 3
 | 2
@@ -130,7 +130,7 @@ Categories:
 | +2
 | +2
 | +6
-| CLASS="gauche" | [Compétence focalisée](./Mystique.md#COMPETENCEFOCALISEE) +3
+| CLASS="gauche" | [[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +3
 | 4
 | 4
 | 2
@@ -143,7 +143,7 @@ Categories:
 | +3
 | +3
 | +6
-| CLASS="gauche" | [Pouvoir de connexion](./Mystique.md#POUVOIRDECONNEXION)
+| CLASS="gauche" | [[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]
 | 5
 | 4
 | 3
@@ -156,7 +156,7 @@ Categories:
 | +3
 | +3
 | +7
-| CLASS="gauche" | [Sort de connexion](./Mystique.md#SORTDECONNEXION)
+| CLASS="gauche" | [[Mystique#SORTDECONNEXION|Sort de connexion]]
 | 5
 | 4
 | 3
@@ -169,7 +169,7 @@ Categories:
 | +3
 | +3
 | +7
-| CLASS="gauche" | [Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +4, [Lien télépathique](./Mystique.md#LIENTELEPATHIQUE)
+| CLASS="gauche" | [Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +4, [[Mystique#LIENTELEPATHIQUE|Lien télépathique]]
 | 5
 | 4
 | 4
@@ -182,7 +182,7 @@ Categories:
 | +4
 | +4
 | +8
-| CLASS="gauche" | [Pouvoir de connexion](./Mystique.md#POUVOIRDECONNEXION)
+| CLASS="gauche" | [[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]
 | 5
 | 5
 | 4
@@ -195,7 +195,7 @@ Categories:
 | +4
 | +4
 | +8
-| CLASS="gauche" | [Sort de connexion](./Mystique.md#SORTDECONNEXION)
+| CLASS="gauche" | [[Mystique#SORTDECONNEXION|Sort de connexion]]
 | 5
 | 5
 | 4
@@ -208,7 +208,7 @@ Categories:
 | +4
 | +4
 | +9
-| CLASS="gauche" | [Compétence focalisée](./Mystique.md#COMPETENCEFOCALISEE) +5
+| CLASS="gauche" | [[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +5
 | 5
 | 5
 | 4
@@ -221,7 +221,7 @@ Categories:
 | +5
 | +5
 | +9
-| CLASS="gauche" | [Pouvoir de connexion](./Mystique.md#POUVOIRDECONNEXION)
+| CLASS="gauche" | [[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]
 | 5
 | 5
 | 5
@@ -234,7 +234,7 @@ Categories:
 | +5
 | +5
 | +10
-| CLASS="gauche" | [Sort de connexion](./Mystique.md#SORTDECONNEXION)
+| CLASS="gauche" | [[Mystique#SORTDECONNEXION|Sort de connexion]]
 | 5
 | 5
 | 5
@@ -247,7 +247,7 @@ Categories:
 | +5
 | +5
 | +10
-| CLASS="gauche" | [Compétence focalisée](./Mystique.md#COMPETENCEFOCALISEE) +6
+| CLASS="gauche" | [[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +6
 | 5
 | 5
 | 5
@@ -260,7 +260,7 @@ Categories:
 | +6
 | +6
 | +11
-| CLASS="gauche" | [Pouvoir de connexion](./Mystique.md#POUVOIRDECONNEXION)
+| CLASS="gauche" | [[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]
 | 5
 | 5
 | 5
@@ -273,7 +273,7 @@ Categories:
 | +6
 | +6
 | +11
-| CLASS="gauche" | [Transcendance](./Mystique.md#TRANSCENDANCE)
+| CLASS="gauche" | [[Mystique#TRANSCENDANCE|Transcendance]]
 | 5
 | 5
 | 5
@@ -286,7 +286,7 @@ Categories:
 | +6
 | +6
 | +12
-| CLASS="gauche" | [Compétence focalisée](./Mystique.md#COMPETENCEFOCALISEE) +7, [Illumination](./Mystique.md#ILLUMINATION)
+| CLASS="gauche" | [[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +7, [[Mystique#ILLUMINATION|Illumination]]
 | 5
 | 5
 | 5
@@ -306,7 +306,7 @@ Categories:
 
 Rangs de compétences par niveau : 6 + modificateur d'intelligence
 
-Les compétences de classe du mystique sont les suivantes : Bluff (Cha), Culture (Int), Déguisement (Cha), Diplomatie (Cha), [Intimidation|Intimidation] (Cha), [Médecine|Médecine] (Int), [Mysticisme|Mysticisme] (Sag), Perception (Sag), [Profession|Profession] (Cha, Int ou Sag), [Psychologie|Psychologie] (Sag), [Sciences de la vie|Sciences de la vie] (Int) et [Survie|Survie] (Sag)
+Les compétences de classe du mystique sont les suivantes : Bluff (Cha), Culture (Int), Déguisement (Cha), Diplomatie (Cha), [[Intimidation]] (Cha), [[Médecine]] (Int), [[Mysticisme]] (Sag), Perception (Sag), [[Profession]] (Cha, Int ou Sag), [[Psychologie]] (Sag), [[Sciences de la vie]] (Int) et [[Survie]] (Sag)
 
 ### Descriptif de la classe
 

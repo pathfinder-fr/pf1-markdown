@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) ;** Niveau** [Pal](./Paladin.md) 2  
+**École** [[Évocation]] ;** Niveau** [[Paladin|Pal]] 2  
 
-**Temps d'incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d'incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** spéciale (voir description)  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-La prochaine créature que le [paladin](./Paladin.md) attaque avec son pouvoir de classe [châtiment du mal](./Paladin.md#CHATIMENTDUMAL) est entourée de flammes qui gênent ses mouvements. La cible est [enchevêtrée](./Enchevêtré.md) jusqu'à la fin du sort. Si la cible commence son tour dans une case adjacente au personnage, on la considère comme [enchevêtrée](./Enchevêtré.md) avec un objet immobile (le personnage) et elle ne peut plus bouger. Une cible qui réussit un [jet de sauvegarde](./jet de sauvegarde.md) contre ce sort n'est affectée que pendant 1 round.
+La prochaine créature que le [[paladin]] attaque avec son pouvoir de classe [[paladin#CHATIMENTDUMAL|châtiment du mal]] est entourée de flammes qui gênent ses mouvements. La cible est [[enchevêtré|enchevêtrée]] jusqu'à la fin du sort. Si la cible commence son tour dans une case adjacente au personnage, on la considère comme [[enchevêtré|enchevêtrée]] avec un objet immobile (le personnage) et elle ne peut plus bouger. Une cible qui réussit un [[jet de sauvegarde]] contre ce sort n'est affectée que pendant 1 round.

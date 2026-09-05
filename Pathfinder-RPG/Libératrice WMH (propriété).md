@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Libératrice WMH
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Libératrice WMH](./Descriptions individuelles des propriétés spéciales des armes.md#Libératrice WMH)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Libératrice WMH]]

@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Yeux de l'aveugle|{s:AE}}
-**Aura** [Nécromancie](./Nécromancie.md) faible ; **NLS** 5 ; **Emplacement** [yeux](./Objets merveilleux portés sur les yeux.md) ; **Poids** —
+**Aura** [[Nécromancie]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Poids** —
 (((Description)))
-Ces timbales ressemblent à des [timbales de rapidité](./Timbales de Rapidité.md) mais, dès que quelqu’un en joue, elles affectent toutes les créatures présentes (y compris le musicien) avec un sort de *[lenteur](./Lenteur.md)* ([Volonté](./Volonté.md) [DD](./DD.md) 14 pour annuler). Aucun test de [Représentation](./Représentation.md) n’est nécessaire pour déclencher la lenteur.
+Ces timbales ressemblent à des [[timbales de rapidité]] mais, dès que quelqu’un en joue, elles affectent toutes les créatures présentes (y compris le musicien) avec un sort de *[[lenteur]]* ([[Volonté]] [[DD]] 14 pour annuler). Aucun test de [[Représentation]] n’est nécessaire pour déclencher la lenteur.
 (((Objet magique prévu)))
-N'importe quelle paire de [lunettes](./Objets merveilleux portés sur les yeux.md) ou de [lentilles magiques](./Objets merveilleux portés sur les yeux.md)
+N'importe quelle paire de [[objets merveilleux portés sur les yeux|lunettes]] ou de [[objets merveilleux portés sur les yeux|lentilles magiques]]
 </div>

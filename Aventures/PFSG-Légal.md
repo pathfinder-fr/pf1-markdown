@@ -7,4 +7,4 @@ LastModified: 2012-08-14 19:05
 {s:PFSTitre|/Illustrations/PFS/pic8.jpg|Chapitre 8|Informations légales}
 
 
-[Aventures.PFSG|Retour vers l'accueil du guide PFS]
+[[Aventures.PFSG|Retour vers l'accueil du guide PFS]]

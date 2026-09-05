@@ -8,32 +8,32 @@ LastModified: 2023-11-21 15:26
 <div class="BD">
 {s:BDTitre|Momie des marais|FP 4}
 {s:pucem|Mort-vivant|Marais|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.186](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.186]]*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, LM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +12}
-{s:BDTexte|**Aura** noyade (9 m, DD 15), [aura surnaturelle](./Aura surnaturelle (capacité).md) (9 m)}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, LM}
+{s:BDTexte|**Init** +5 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +12}
+{s:BDTexte|**Aura** noyade (9 m, DD 15), [[Aura surnaturelle (capacité)|aura surnaturelle]] (9 m)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17 contact 10, pris au dépourvu 16 (naturelle +6)}
 {s:BDTexte|**pv** 52 (7d8+21)}
 {s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +7}
-{s:BDTexte|**RD** 5/— ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants (capacité).md)}
+{s:BDTexte|**RD** 5/— ; **Immunités** [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m}
 {s:BDTexte|**Corps à corps** 2 coups, +10 (1d8+5 plus putréfaction des marais)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 12, **Con** —, **Int** 6, **Sag** 15, **Cha** 15}
 {s:BDTexte|**BBA** +5 ; **BMO** +10 ; **DMD** 21}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +11, [Perception](./Perception.md) +12}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +11, [[Perception]] +12}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais}
 {s:BDTexte|**Organisation** solitaire, escouade de sentinelles (2-6) ou détachement de gardes (7-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Aura de noyade (Sur).** Toutes les créatures qui se trouvent dans un rayon de 9 mètres d’une momie des marais doivent réussir un jet de [Volonté](./Volonté.md) DD 15 ou devenir incapables de parler ou de respirer. Une créature a cependant toujours la possibilité de retenir sa respiration et les créatures qui ne respirent pas d’air ne sont pas affectées par cette aura. Qu’une créature réussisse ou non son jet de sauvegarde, elle ne peut pas être la cible de l’aura de noyade de la même momie des marais pendant les 24 heures qui suivent. Il s’agit d’un [effet mental](./Registre.md). Le DD du jet de sauvegarde est basé sur le Charisme.}
-{s:BDTexte|**Putréfaction des marais (Sur).** Malédiction et maladie — coup ; *jet de sauvegarde* [Vigueur](./Vigueur.md) DD 15 ; *incubation* 1 minute ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d6 [Constitution](./Constitution.md) et 1d6 [Dextérité](./Dextérité.md) ; *guérison* —. La putréfaction des marais est à la fois une malédiction et une maladie. Elle ne peut donc être soignée que si la malédiction est d’abord levée, puis la maladie traitée par magie. Même une fois que la part de malédiction de la putréfaction des marais est levée, une créature qui en souffre ne peut pas guérir naturellement avec le temps. Toute créature qui lance un sort d’[invocation (guérison)](./branche guérison.md) sur la créature malade doit réussir un test de [niveau de lanceur de sorts](./NLS.md) DD 20 ou le sort est perdu et la guérison n’a aucun effet. Toute créature qui meurt des suites de la putréfaction des marais se liquéfie en une boue répugnante et ne peut être ramenée à la vie que par un sort de *[résurrection](./Résurrection.md)* ou une magie plus puissante encore. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|**Aura de noyade (Sur).** Toutes les créatures qui se trouvent dans un rayon de 9 mètres d’une momie des marais doivent réussir un jet de [[Volonté]] DD 15 ou devenir incapables de parler ou de respirer. Une créature a cependant toujours la possibilité de retenir sa respiration et les créatures qui ne respirent pas d’air ne sont pas affectées par cette aura. Qu’une créature réussisse ou non son jet de sauvegarde, elle ne peut pas être la cible de l’aura de noyade de la même momie des marais pendant les 24 heures qui suivent. Il s’agit d’un [[registre|effet mental]]. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|**Putréfaction des marais (Sur).** Malédiction et maladie — coup ; *jet de sauvegarde* [[Vigueur]] DD 15 ; *incubation* 1 minute ; *fréquence* 1/jour ; *effet* [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d6 [[Constitution]] et 1d6 [[Dextérité]] ; *guérison* —. La putréfaction des marais est à la fois une malédiction et une maladie. Elle ne peut donc être soignée que si la malédiction est d’abord levée, puis la maladie traitée par magie. Même une fois que la part de malédiction de la putréfaction des marais est levée, une créature qui en souffre ne peut pas guérir naturellement avec le temps. Toute créature qui lance un sort d’[[branche guérison|invocation (guérison)]] sur la créature malade doit réussir un test de [[NLS|niveau de lanceur de sorts]] DD 20 ou le sort est perdu et la guérison n’a aucun effet. Toute créature qui meurt des suites de la putréfaction des marais se liquéfie en une boue répugnante et ne peut être ramenée à la vie que par un sort de *[[résurrection]]* ou une magie plus puissante encore. Le DD du jet de sauvegarde est basé sur le Charisme.}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -42,11 +42,11 @@ LastModified: 2023-11-21 15:26
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Momie](./Momie.md) || 5
+| [[Momie]] || 5
 |-
-| [Momie des marais](./Momie des marais.md) || 4
+| [[Momie des marais]] || 4
 |-
-| [Seigneur momie humain](./Seigneur momie humain.md) || 10
+| [[Seigneur momie humain]] || 10
 |}
 </div>*Vêtu de lambeaux de ses vêtements d’origine, ce cadavre tanné et ratatiné a deux orbites vides en guise d’yeux.*
 

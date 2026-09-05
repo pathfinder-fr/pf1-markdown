@@ -17,22 +17,22 @@ Categories:
 |- CLASS="titre"
 | Faible || Intermédiaire || Puissant || Catégorie d’objets
 |- CLASS="premier"
-| 01–04 || 01–10 || 01–10 || [Armures et boucliers](./Détermination aléatoire des armures et des boucliers.md)
+| 01–04 || 01–10 || 01–10 || [[Détermination aléatoire des armures et des boucliers|Armures et boucliers]]
 |- CLASS="alt"
-| 05–09 || 11–20 || 11–20 || [Armes](./Détermination aléatoire des armes.md)
+| 05–09 || 11–20 || 11–20 || [[Détermination aléatoire des armes|Armes]]
 |-
-| 10–44 || 21–30 || 21–25 || [Potions et huiles](./Détermination aléatoire des potions et des huiles magiques.md)
+| 10–44 || 21–30 || 21–25 || [[Détermination aléatoire des potions et des huiles magiques|Potions et huiles]]
 |- CLASS="alt"
-| 45–46 || 31–40 || 26–35 || [Anneaux](./Détermination aléatoire des anneaux magiques.md)
+| 45–46 || 31–40 || 26–35 || [[Détermination aléatoire des anneaux magiques|Anneaux]]
 |-
-| — || 41–50 || 36–45 || [Sceptres](./Détermination aléatoire des sceptres magiques.md)
+| — || 41–50 || 36–45 || [[Détermination aléatoire des sceptres magiques|Sceptres]]
 |- CLASS="alt"
-| 47–81 || 51–65 || 46–55 || [Parchemins](./Détermination aléatoire des parchemins magiques.md)
+| 47–81 || 51–65 || 46–55 || [[Détermination aléatoire des parchemins magiques|Parchemins]]
 |-
-| — || 66–68 || 56–75 || [Bâtons](./Détermination aléatoire des bâtons magiques.md)
+| — || 66–68 || 56–75 || [[Détermination aléatoire des bâtons magiques|Bâtons]]
 |- CLASS="alt"
-| 82–91 || 69–83 || 76–80 || [Baguettes](./Détermination aléatoire des baguettes magiques.md)
+| 82–91 || 69–83 || 76–80 || [[Détermination aléatoire des baguettes magiques|Baguettes]]
 |-
-| 92–100 || 84–100 || 81–100 || [Objets merveilleux](./Détermination aléatoire des objets merveilleux.md)
+| 92–100 || 84–100 || 81–100 || [[Détermination aléatoire des objets merveilleux|Objets merveilleux]]
 |}
 </center>

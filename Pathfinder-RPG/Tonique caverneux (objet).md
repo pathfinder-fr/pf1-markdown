@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Ce tonique vaseux a une odeur piquante similaire à celle de la limaille de fer. Quand le personnage boit un tonique caverneux, sa voix prend un timbre plus grave et devient plus rauque pendant 1 heure, lui donnant un bonus alchimique de +5 aux tests d’[Intimidation](./Intimidation.md).
+Ce tonique vaseux a une odeur piquante similaire à celle de la limaille de fer. Quand le personnage boit un tonique caverneux, sa voix prend un timbre plus grave et devient plus rauque pendant 1 heure, lui donnant un bonus alchimique de +5 aux tests d’[[Intimidation]].

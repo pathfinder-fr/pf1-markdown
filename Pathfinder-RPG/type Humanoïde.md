@@ -14,9 +14,9 @@ Categories:
 Les humanoïdes possèdent généralement deux bras, deux jambes et une tête, ou encore un torse semblable à celui des humains, des bras et une tête. Ils n'ont peu ou pas de capacités surnaturelles ou extraordinaires, mais la plupart d'entre eux peuvent parler et possèdent des sociétés bien développées. Ils sont généralement de taille P ou M (à l'exception des géants). Chaque humanoïde appartient également à un sous type-spécifique qui correspond à sa race (comme géant, gobelinoïde, humain, reptilien ou tengu)
 - Dés de vie : d8 ou selon classe de personnage.
 - BBA égal aux 3/4 du nombre de DV (progression moyenne).
-- Jets de sauvegarde forts : une catégorie, généralement [Réflexes](./Réflexes.md).
+- Jets de sauvegarde forts : une catégorie, généralement [[Réflexes]].
 - Points de compétence par DV : 2 + leur modificateur d'Intelligence (au minimum 1) ou selon leur classe de personnage. 
-Compétences de classe pour les humanoïdes : [Artisanat](./Artisanat.md), [Dressage](./Dressage.md), [Équitation](./Équitation.md), [Escalade](./Escalade.md), [Premiers Secours](./Premiers secours.md), [Profession](./Profession.md), [Survie](./Survie.md).
+Compétences de classe pour les humanoïdes : [[Artisanat]], [[Dressage]], [[Équitation]], [[Escalade]], [[Premiers Secours]], [[Profession]], [[Survie]].
 Les humanoïdes ayant des Dès de vie raciaux et des niveaux de personnages ajoutent les compétences ci-avant à ses compétences de classe.
 
 ### Traits

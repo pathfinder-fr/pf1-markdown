@@ -13,18 +13,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Invocation](./Invocation.md) ([création](./branche création.md)) <nowiki>[</nowiki>[acide](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [San](./Sanguin.md) 1  
+**École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature ou objet touché  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-Si le personnage réussit son [attaque de contact au corps à corps](./attaque de contact au corps à corps.md), il inflige 1d4 points de dégâts d’acide par [niveau de lanceur de sorts](./NLS.md) (5d4 au maximum).
+Si le personnage réussit son [[attaque de contact au corps à corps]], il inflige 1d4 points de dégâts d’acide par [[NLS|niveau de lanceur de sorts]] (5d4 au maximum).

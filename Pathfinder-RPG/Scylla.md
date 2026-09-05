@@ -10,31 +10,31 @@ LastModified: 2021-02-20 16:05
 {s:pucem|Aberration|Aquatique|Tempéré}
 - *Source : Bestiaire 2* p.247
 - **PX** 76 800
-- [Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille TG, CM
-- **Init** +11 ; **Sens** [détection de l’invisibilité](./Détection de linvisibilité.md), [vision à 360°](./Vision à 360° (capacité).md), [vision aveugle](./vision aveugle.md) 9 m (6 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +29
-- **Aura** [présence terrifiante](./Présence terrifiante (capacité).md) (9 m (6 {s:c}), [DD](./DD.md) 26)
+- [[Type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille TG, CM
+- **Init** +11 ; **Sens** [[détection de linvisibilité|détection de l’invisibilité]], [[vision à 360° (capacité)|vision à 360°]], [[vision aveugle]] 9 m (6 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +29
+- **Aura** [[présence terrifiante (capacité)|présence terrifiante]] (9 m (6 {s:c}), [[DD]] 26)
 (((Défense)))
 - **CA** 30, contact 20, pris au dépourvu 18 (Dex +11, esquive +1, naturelle +10, taille –2)
-- **pv** 250 (20d8+160) ; [guérison accélérée](./guérison accélérée.md) 10
+- **pv** 250 (20d8+160) ; [[guérison accélérée]] 10
 - **Réf** +17, **Vig** +14, **Vol** +18
-- **Capacités défensives** [esquive surnaturelle](./esquive surnaturelle.md), [liberté de mouvement](./Liberté de mouvement.md) ; **Immunités** effets de [charme](./charme.md), effets de [confusion](./Confusion.md), effets d’[aliénation mentale](./Aliénation mentale.md), froid ; **RD** 10/fer froid et Loi ; **Résistances** acide 20, feu 20 ; **RM** 27
+- **Capacités défensives** [[esquive surnaturelle]], [[liberté de mouvement]] ; **Immunités** effets de [[charme]], effets de [[confusion]], effets d’[[aliénation mentale]], froid ; **RD** 10/fer froid et Loi ; **Résistances** acide 20, feu 20 ; **RM** 27
 (((Attaque)))
 - **VD** 9 m (6 {s:c}), nage 15 m (10 {s:c})
-- **Corps à corps** 4 morsures, +25 (1d8+8/19–20 plus [saignement](./Saignement.md)) et 4 tentacules +23 (1d6+4 plus [étreinte](./Étreinte.md))
+- **Corps à corps** 4 morsures, +25 (1d8+8/19–20 plus [[saignement]]) et 4 tentacules +23 (1d6+4 plus [[étreinte]])
 - **Espace** 4,50 m ; **Allonge** 4,50 m
-- **Attaques spéciales** [constriction](./constriction.md) (1d6+8), [saignement](./Saignement.md) (1d6)
+- **Attaques spéciales** [[constriction]] (1d6+8), [[saignement]] (1d6)
 - **Pouvoirs magiques** (NLS 16 ; concentration +22)
-  - Constant — *[antidétection](./Antidétection.md)*, *[détection de l’invisibilité](./Détection de linvisibilité.md)*, *[liberté de mouvement](./Liberté de mouvement.md)*
-  - À volonté — *[contrôle de l’eau](./Contrôle de leau.md)*, *[dissipation suprême](./Dissipation suprême.md)*, *[flèche acide](./Flèche acide.md)*, *[image accomplie](./Image accomplie.md)* (DD 19), *[nappe de brouillard](./Nappe de brouillard.md)*
-  - 3/jour — *[aliénation mentale](./Aliénation mentale.md)* (DD 23), *[brouillard dense](./Brouillard dense.md)*, *[charme-monstre](./Charme-monstre.md)* (DD 20), *[mirage](./mirage.md)* (DD 21), *[tentacules noirs](./Tentacules noirs.md)*
-  - 1/jour — *[contrôle du climat](./Contrôle du climat.md)*, *[convocation](./convocation.md)* (niveau 8, 1 [charybde](./Charybde.md)), *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*, *[projection d’image](./Projection dimage.md)* (DD 23)
+  - Constant — *[[antidétection]]*, *[[détection de linvisibilité|détection de l’invisibilité]]*, *[[liberté de mouvement]]*
+  - À volonté — *[[contrôle de leau|contrôle de l’eau]]*, *[[dissipation suprême]]*, *[[flèche acide]]*, *[[image accomplie]]* (DD 19), *[[nappe de brouillard]]*
+  - 3/jour — *[[aliénation mentale]]* (DD 23), *[[brouillard dense]]*, *[[charme-monstre]]* (DD 20), *[[mirage]]* (DD 21), *[[tentacules noirs]]*
+  - 1/jour — *[[contrôle du climat]]*, *[[convocation]]* (niveau 8, 1 [[charybde]]), *[[mot de pouvoir étourdissant]]*, *[[projection dimage|projection d’image]]* (DD 23)
 (((Statistiques)))
 - **For** 27, **Dex** 32, **Con** 27, **Int** 20, **Sag** 23, **Cha** 22
-- **BBA** +15, **BMO** +25 (+29 [lutte](./lutte.md)), **DMD** 47 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Arme de prédilection](./Arme de prédilection.md) (tentacules), [Attaque en finesse](./Attaque en finesse.md), [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Science du critique](./Science du critique.md) (morsure), [Souplesse du serpent](./Souplesse du serpent.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +34, [Bluff](./Bluff.md) +26, [Connaissances](./Connaissances.md) (nature) +25, [Discrétion](./Discrétion.md) +26, [Intimidation](./Intimidation.md) +29, [Natation](./Natation.md) +39, [Perception](./Perception.md) +29, [Psychologie](./Psychologie.md) +26, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +26
+- **BBA** +15, **BMO** +25 (+29 [[lutte]]), **DMD** 47 ([[croc-en-jambe]] impossible)
+- **Dons** [[Arme de prédilection]] (morsure), [[Arme de prédilection]] (tentacules), [[Attaque en finesse]], [[Attaque en puissance]], [[Attaques multiples]], [[Attaques réflexes]], [[Esquive]], [[Frappe décisive]], [[Science du critique]] (morsure), [[Souplesse du serpent]]
+- **Compétences** [[Acrobaties]] +34, [[Bluff]] +26, [[Connaissances]] (nature) +25, [[Discrétion]] +26, [[Intimidation]] +29, [[Natation]] +39, [[Perception]] +29, [[Psychologie]] +26, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +26
 - **Langues** abyssal, aquatique, commun
-- **Particularités** [amphibie](./Amphibie.md), armes de taille inférieure, [changement de forme](./Changement de forme.md) (1 forme humanoïde,  [modification d’apparence](./Modification dapparence.md))
+- **Particularités** [[amphibie]], armes de taille inférieure, [[changement de forme]] (1 forme humanoïde,  [[modification dapparence|modification d’apparence]])
 (((Écologie)))
 - **Environnement** milieu aquatique
 - **Organisation sociale** solitaire

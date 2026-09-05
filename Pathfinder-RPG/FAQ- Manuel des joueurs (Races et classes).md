@@ -7,78 +7,78 @@ Categories:
 ---
 
 {s:MenuFAQoff}
-- [Accroissements de caractéristiques :](./.md#1) D'après la table et le texte de la page 30, un personnage bénéficie d'un accroissement de caractéristique aux niveaux 4, 8, 12, 16 et 20. De combien est cet accroissement ? Quelles caractéristiques affecte-t-il ?
+- [[#1|Accroissements de caractéristiques :]] D'après la table et le texte de la page 30, un personnage bénéficie d'un accroissement de caractéristique aux niveaux 4, 8, 12, 16 et 20. De combien est cet accroissement ? Quelles caractéristiques affecte-t-il ?
 
-- [Archétype :](./.md#2) Si un archétype remplace une capacité de classe par une version plus spécifique de cette capacité (ou qui fonctionne de manière similaire à la capacité remplacée), est-ce que la capacité de l'archétype compte comme la capacité originale pour les règles qui améliorent cette dernière ?
+- [[#2|Archétype :]] Si un archétype remplace une capacité de classe par une version plus spécifique de cette capacité (ou qui fonctionne de manière similaire à la capacité remplacée), est-ce que la capacité de l'archétype compte comme la capacité originale pour les règles qui améliorent cette dernière ?
 
-- [Canalisation d'énergie :](./.md#3) Si on obtient cette capacité par plus d'une classe, ses effets se cumulent-ils ?
+- [[#3|Canalisation d'énergie :]] Si on obtient cette capacité par plus d'une classe, ses effets se cumulent-ils ?
 
-- [Capacité de barde maître du savoir et faire 10 :](./.md#4) Puis-je faire 10 sur les tests de Connaissances ? La compétence Connaissances ne dit pas que c’est impossible, mais si c’est vrai, la première moitié de la capacité de barde maître du savoir ne fait rien.
+- [[#4|Capacité de barde maître du savoir et faire 10 :]] Puis-je faire 10 sur les tests de Connaissances ? La compétence Connaissances ne dit pas que c’est impossible, mais si c’est vrai, la première moitié de la capacité de barde maître du savoir ne fait rien.
 
-- [Capacités de classe :](./.md#5) Quand suis-je considéré comme possédant une capacité de classe ?
+- [[#5|Capacités de classe :]] Quand suis-je considéré comme possédant une capacité de classe ?
 
-- [Classe de prestige :](./.md#6) Si je prend un niveau dans une classe de prestige qui améliore la capacité de lancement de sorts, cela me donne-t-il accès aux sorts de lignage de plus haut niveau ?
+- [[#6|Classe de prestige :]] Si je prend un niveau dans une classe de prestige qui améliore la capacité de lancement de sorts, cela me donne-t-il accès aux sorts de lignage de plus haut niveau ?
 
-- [Conditions des classes de prestige :](./.md#7) Si une classe de prestige nécessite 5 rangs dans une compétence et que je possède 6 rangs dans cette compétence, suis-je toujours éligible ?
+- [[#7|Conditions des classes de prestige :]] Si une classe de prestige nécessite 5 rangs dans une compétence et que je possède 6 rangs dans cette compétence, suis-je toujours éligible ?
 
-- [Demi-elfe ou demi-orque :](./.md#8) Est-ce qu’un personnage de l’une de ces deux races peut choisir les archétypes raciaux humains (comme ceux du Manuel des races) ?
+- [[#8|Demi-elfe ou demi-orque :]] Est-ce qu’un personnage de l’une de ces deux races peut choisir les archétypes raciaux humains (comme ceux du Manuel des races) ?
 
-- [Duelliste, Défense astucieuse :](./.md#9) Cette capacité est-elle limitée par le bonus de dextérité maximal de l'armure ?
+- [[#9|Duelliste, Défense astucieuse :]] Cette capacité est-elle limitée par le bonus de dextérité maximal de l'armure ?
 
-- [Duelliste, Défense astucieuse :](./.md#10) La capacité de défense astucieuse s'ajoute-t-elle au DMD ?
+- [[#10|Duelliste, Défense astucieuse :]] La capacité de défense astucieuse s'ajoute-t-elle au DMD ?
 
-- [Ensorceleur :](./.md#11) Les bonus accordés par l’arcane de lignage s’appliquent-ils à tous les sorts lancés par l’ensorceleur, ou uniquement ceux lancés depuis la liste d’ensorceleur ?
+- [[#11|Ensorceleur :]] Les bonus accordés par l’arcane de lignage s’appliquent-ils à tous les sorts lancés par l’ensorceleur, ou uniquement ceux lancés depuis la liste d’ensorceleur ?
 
-- [Ensorceleur/Magicien :](./.md#12) Puis-je révoquer mon familier afin d’en choisir un nouveau ?
+- [[#12|Ensorceleur/Magicien :]] Puis-je révoquer mon familier afin d’en choisir un nouveau ?
 
-- [Familier et invisibilité :](./.md#13) Si j'utilise mon familier pour délivrer un sort de contact alors que je suis invisible, est-ce que cela met fin à mon invisibilité ?
+- [[#13|Familier et invisibilité :]] Si j'utilise mon familier pour délivrer un sort de contact alors que je suis invisible, est-ce que cela met fin à mon invisibilité ?
 
-- [Guerrier :](./.md#14) Puis-je apprendre un nouveau don supplémentaire de guerrier à la place d’un de mes dons de port des armures ?
+- [[#14|Guerrier :]] Puis-je apprendre un nouveau don supplémentaire de guerrier à la place d’un de mes dons de port des armures ?
 
-- [Guerrier :](./.md#15) Puis-je utiliser la capacité dons supplémentaires du guerrier pour ré-entraîner un don que j’ai obtenu au niveau 1 (comme Enchaînement) afin de gagner un don pour lequel je n’étais pas qualifié au niveau 1, mais l’est maintenant (comme Fente) ?
+- [[#15|Guerrier :]] Puis-je utiliser la capacité dons supplémentaires du guerrier pour ré-entraîner un don que j’ai obtenu au niveau 1 (comme Enchaînement) afin de gagner un don pour lequel je n’étais pas qualifié au niveau 1, mais l’est maintenant (comme Fente) ?
 
-- [Guerrier :](./.md#16) Quels dons puis-je ré-entraîner au niveau 4, 8, etc ?
+- [[#16|Guerrier :]] Quels dons puis-je ré-entraîner au niveau 4, 8, etc ?
 
-- [Humain :](./.md#17) Pour un humain avec une Intelligence basse, le nombre minimum de rangs de compétence par niveau est de 1 ou 2 ?
+- [[#17|Humain :]] Pour un humain avec une Intelligence basse, le nombre minimum de rangs de compétence par niveau est de 1 ou 2 ?
 
-- [Intelligence :](./.md#18) Si mon modificateur d’Intelligence augmente, puis-je choisir une nouvelle langue supplémentaire ?
+- [[#18|Intelligence :]] Si mon modificateur d’Intelligence augmente, puis-je choisir une nouvelle langue supplémentaire ?
 
-- [Moine, Déluge de coups :](./.md#19) Comment le BBA amélioré des moines lorsqu’ils portent un déluge interagit-il avec les dons comme Attaque en puissance et Expertise du combat, qui ont des effets différents selon le BBA du personnage ?
+- [[#19|Moine, Déluge de coups :]] Comment le BBA amélioré des moines lorsqu’ils portent un déluge interagit-il avec les dons comme Attaque en puissance et Expertise du combat, qui ont des effets différents selon le BBA du personnage ?
 
-- [Moine, Déluge de coups :](./.md#20) Les règles de moine sur le déluge stipulent : « Pour déterminer les bonus de ces attaques, on considère que le bonus de base à l’attaque du moine est égal à son niveau de moine. » Comment cela interagit-il avec le BBA des niveaux de classe et des Dés de Vie raciaux ? Est-ce qu’un personnage multiclassé guerrier 19/moine 1 porte un déluge comme si son BBA n’était que de +1 ?
+- [[#20|Moine, Déluge de coups :]] Les règles de moine sur le déluge stipulent : « Pour déterminer les bonus de ces attaques, on considère que le bonus de base à l’attaque du moine est égal à son niveau de moine. » Comment cela interagit-il avec le BBA des niveaux de classe et des Dés de Vie raciaux ? Est-ce qu’un personnage multiclassé guerrier 19/moine 1 porte un déluge comme si son BBA n’était que de +1 ?
 
-- [Moine, Déluge de coups :](./.md#21) Lorsque j’utilise le déluge de coups, puis-je porter toutes les attaques avec une seule arme, ou dois-je en utiliser deux, comme il est sous-entendu que la capacité fonctionne comme Combat à deux armes ?
+- [[#21|Moine, Déluge de coups :]] Lorsque j’utilise le déluge de coups, puis-je porter toutes les attaques avec une seule arme, ou dois-je en utiliser deux, comme il est sous-entendu que la capacité fonctionne comme Combat à deux armes ?
 
-- [Moine, Déluge de coups et réserve de ki :](./.md#22) Est-ce que l’attaque supplémentaire obtenue par la dépense de ki dans le cadre d’un déluge de coups se cumule avec l’attaque supplémentaire de *rapidité* ?
+- [[#22|Moine, Déluge de coups et réserve de ki :]] Est-ce que l’attaque supplémentaire obtenue par la dépense de ki dans le cadre d’un déluge de coups se cumule avec l’attaque supplémentaire de *rapidité* ?
 
-- [Mystificateur profane :](./.md#23) Comment la capacité de classe Sorts surprise de la classe de prestige de Mystificateur profane (Manuel des joueurs, page 396) fonctionne-t-elle avec des sorts comme projectile magique ou boule de feu ?
+- [[#23|Mystificateur profane :]] Comment la capacité de classe Sorts surprise de la classe de prestige de Mystificateur profane (Manuel des joueurs, page 396) fonctionne-t-elle avec des sorts comme projectile magique ou boule de feu ?
 
-- [Paladin, Châtiment du Mal :](./.md#24) Le châtiment du Mal ignore-t-il les défenses du pouvoir spécial intangible ?
+- [[#24|Paladin, Châtiment du Mal :]] Le châtiment du Mal ignore-t-il les défenses du pouvoir spécial intangible ?
 
-- [Paladin, Détection du Mal :](./.md#25) Un paladin doit-il dépenser une action simple pour activer sa détection du Mal avant de dépenser une action de mouvement pour se concentrer sur une créature ou un objet ?
+- [[#25|Paladin, Détection du Mal :]] Un paladin doit-il dépenser une action simple pour activer sa détection du Mal avant de dépenser une action de mouvement pour se concentrer sur une créature ou un objet ?
 
-- [Paladin, Imposition des mains :](./.md#26) L’imposition des mains du paladin utilise-t-elle de l’énergie positive ?
+- [[#26|Paladin, Imposition des mains :]] L’imposition des mains du paladin utilise-t-elle de l’énergie positive ?
 
-- [Paladin, Pacte divin :](./.md#27) Puis-je dépenser deux utilisations de cette capacité pour altérer deux de mes armes ou les deux extrémités d’une arme double ?
+- [[#27|Paladin, Pacte divin :]] Puis-je dépenser deux utilisations de cette capacité pour altérer deux de mes armes ou les deux extrémités d’une arme double ?
 
-- [Paladin, Santé divine :](./.md#28) Si je suis immunisé aux maladies, suis-je immunisé à la putréfaction de la momie, qui est à la fois une maladie et une malédiction ?
+- [[#28|Paladin, Santé divine :]] Si je suis immunisé aux maladies, suis-je immunisé à la putréfaction de la momie, qui est à la fois une maladie et une malédiction ?
 
-- [Points de vie :](./.md#29) Quelles créatures prennent les points de vie maximum à leur premier niveau ou sur leur premier Dé de Vie ? Quelles créatures bénéficient des bonus de classe de prédilection aux compétences et aux points de vie ?
+- [[#29|Points de vie :]] Quelles créatures prennent les points de vie maximum à leur premier niveau ou sur leur premier Dé de Vie ? Quelles créatures bénéficient des bonus de classe de prédilection aux compétences et aux points de vie ?
 
-- [Pouvoirs magiques et niveau de sort :](./.md#30) Les domaines de prêtre, les lignages d'ensorceleur, les écoles de magicien et certaines autres capacités de classe confèrent des pouvoirs magiques qui ne sont pas basés sur les sorts. Quel est le niveau de sort effectif de ces pouvoirs ?
+- [[#30|Pouvoirs magiques et niveau de sort :]] Les domaines de prêtre, les lignages d'ensorceleur, les écoles de magicien et certaines autres capacités de classe confèrent des pouvoirs magiques qui ne sont pas basés sur les sorts. Quel est le niveau de sort effectif de ces pouvoirs ?
 
-- [Prêtre :](./.md#31) Un prêtre dont la divinité a pour arme de prédilection l'épée bâtarde reçoit-il gratuitement le maniement d'une arme de guerre ou exotique avec cette épée ?
+- [[#31|Prêtre :]] Un prêtre dont la divinité a pour arme de prédilection l'épée bâtarde reçoit-il gratuitement le maniement d'une arme de guerre ou exotique avec cette épée ?
 
-- [Réserve de ki du moine :](./.md#32) Quels types de réduction de dégâts un moine peut-il ignorer grâce à cette capacité ?
+- [[#32|Réserve de ki du moine :]] Quels types de réduction de dégâts un moine peut-il ignorer grâce à cette capacité ?
 
-- [Sorts en bonus grâce à un score de caractéristique élevé :](./.md#33) Puis-je en bénéficier même si mon niveau de classe de lanceur de sorts n'est pas assez élevé pour me donner accès à ces niveaux de sorts ?
+- [[#33|Sorts en bonus grâce à un score de caractéristique élevé :]] Puis-je en bénéficier même si mon niveau de classe de lanceur de sorts n'est pas assez élevé pour me donner accès à ces niveaux de sorts ?
 
-- [Théurge mystique, Sorts combinés :](./.md#34) Comment le second paragraphe affecte-t-il les lanceurs de sorts doublement spontanés, comme un ensorceleur/oracle/théurge mystique ?
+- [[#34|Théurge mystique, Sorts combinés :]] Comment le second paragraphe affecte-t-il les lanceurs de sorts doublement spontanés, comme un ensorceleur/oracle/théurge mystique ?
 
 ### Réponses
 {s:Reference|1}
 #### Accroissements de caractéristiques : D'après la table et le texte de la page 30, un personnage bénéficie d'un accroissement de caractéristique aux niveaux 4, 8, 12, 16 et 20. De combien est cet accroissement ? Quelles caractéristiques affecte-t-il ?
-Au <u>[4ème niveau](./Progression des personnages.md)</u>, un personnage peut augmenter une caractéristique d'un point. Il s'agit d'un bonus non typé et non magique qui ne peut être modifié une fois pris.
+Au <u>[[Progression des personnages|4ème niveau]]</u>, un personnage peut augmenter une caractéristique d'un point. Il s'agit d'un bonus non typé et non magique qui ne peut être modifié une fois pris.
 
 Par exemple, un guerrier avec une Dextérité de 13 pourrait utiliser ce bonus pour augmenter sa Dextérité à 14.
 
@@ -89,21 +89,21 @@ Par exemple, le guerrier mentionné précédemment pourrait utiliser l'accroisse
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|2}
 #### Archétype : Si un archétype remplace une capacité de classe par une version plus spécifique de cette capacité (ou qui fonctionne de manière similaire à la capacité remplacée), est-ce que la capacité de l'archétype compte comme la capacité originale pour les règles qui améliorent cette dernière ?
-Cela dépend de la façon dont la capacité de l'<u>[archétype](./Classes.md#ARCHETYPES)</u> est formulée. Si celle-ci indique qu'elle fonctionne comme la capacité standard, elle compte comme cette capacité. Si elle requiert de faire un choix spécifique à la capacité standard, elle compte comme cette capacité. Dans tous les autres cas, la capacité de l'archétype ne compte pas comme la capacité standard. Le fait que le nom de la capacité de l'archétype soit différent de celui de la capacité standard n'est pas important pour déterminer si elle compte comme cette dernière, c'est la description et les mécanismes de jeu de la capacité de l'archétype qui importent.
+Cela dépend de la façon dont la capacité de l'<u>[[Classes#ARCHETYPES|archétype]]</u> est formulée. Si celle-ci indique qu'elle fonctionne comme la capacité standard, elle compte comme cette capacité. Si elle requiert de faire un choix spécifique à la capacité standard, elle compte comme cette capacité. Dans tous les autres cas, la capacité de l'archétype ne compte pas comme la capacité standard. Le fait que le nom de la capacité de l'archétype soit différent de celui de la capacité standard n'est pas important pour déterminer si elle compte comme cette dernière, c'est la description et les mécanismes de jeu de la capacité de l'archétype qui importent.
 
-*Exemple :* l'archétype de guerrier [dragon](./Dragon (guerrier).md) (*l'Art de la guerre*) a une capacité appelée "entraînement à la lance", qui demande que le dragon sélectionne les lances comme groupe d'armes et qui fait référence  au bonus d'entraînement aux armes (bien que ce bonus suive une progression légèrement différente de celle de l'entraînement aux armes standard). Cette capacité compte donc comme l'entraînement aux armes pour les effets qui améliorent l'entraînement aux armes, comme les [gants de duelliste](./gants de duelliste.md) (*Manuel des joueurs : règles avancées*) qui augmentent le bonus d'entraînement aux armes du porteur.
+*Exemple :* l'archétype de guerrier [[Dragon (guerrier)|dragon]] (*l'Art de la guerre*) a une capacité appelée "entraînement à la lance", qui demande que le dragon sélectionne les lances comme groupe d'armes et qui fait référence  au bonus d'entraînement aux armes (bien que ce bonus suive une progression légèrement différente de celle de l'entraînement aux armes standard). Cette capacité compte donc comme l'entraînement aux armes pour les effets qui améliorent l'entraînement aux armes, comme les [[gants de duelliste]] (*Manuel des joueurs : règles avancées*) qui augmentent le bonus d'entraînement aux armes du porteur.
 
-*Exemple :* l'archétype de guerrier [archer](./Archer (guerrier).md) confère plusieurs capacités (comme "expert archer") qui remplacent l'entraînement aux armes et n'y font pas référence dans leur description. En conséquence, ces capacités ne comptent pas comme l'entraînement aux armes pour les effets qui améliorent l'entraînement aux armes (comme les gants de duelliste). C'est même le cas pour la capacité "expert archer" qui confère un bonus qui augmente tous les quatre niveaux de guerrier, exactement comme l'entraînement aux armes.
+*Exemple :* l'archétype de guerrier [[Archer (guerrier)|archer]] confère plusieurs capacités (comme "expert archer") qui remplacent l'entraînement aux armes et n'y font pas référence dans leur description. En conséquence, ces capacités ne comptent pas comme l'entraînement aux armes pour les effets qui améliorent l'entraînement aux armes (comme les gants de duelliste). C'est même le cas pour la capacité "expert archer" qui confère un bonus qui augmente tous les quatre niveaux de guerrier, exactement comme l'entraînement aux armes.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|3}
 #### Canalisation d'énergie : Si on obtient cette capacité par plus d'une classe, ses effets se cumulent-ils ?
-Non — à moins qu'une capacité n'indique spécifiquement qu'elle se cumule avec des capacités semblables (comme l'attaque sournoise de l'assassin), ou s'ajoute d'une façon ou d'une autre en se basant sur les niveaux de classe totaux du personnage (comme l'esquive instinctive supérieure), les capacités de classe ne se cumulent pas et il faut les considérer séparément. En conséquence, la [canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) du prêtre ne se cumule pas avec la [canalisation](./Paladin.md#CANALISATIONDENERGIEPOSITIVE) du paladin, celle du [nécromancien](./Nécromancie (école).md), celle de l'[oracle de la vie](./Mystère de la vie.md) et ainsi de suite.
+Non — à moins qu'une capacité n'indique spécifiquement qu'elle se cumule avec des capacités semblables (comme l'attaque sournoise de l'assassin), ou s'ajoute d'une façon ou d'une autre en se basant sur les niveaux de classe totaux du personnage (comme l'esquive instinctive supérieure), les capacités de classe ne se cumulent pas et il faut les considérer séparément. En conséquence, la [[Prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] du prêtre ne se cumule pas avec la [[Paladin#CANALISATIONDENERGIEPOSITIVE|canalisation]] du paladin, celle du [[Nécromancie (école)|nécromancien]], celle de l'[[Mystère de la vie|oracle de la vie]] et ainsi de suite.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|4}
 #### Capacité de barde maître du savoir et faire 10 : Puis-je faire 10 sur les tests de Connaissances ? La compétence Connaissances ne dit pas que c’est impossible, mais si c’est vrai, la première moitié de la capacité de barde maître du savoir ne fait rien.
-Oui, c’est possible. La capacité de barde <u>[maître du savoir](./Barde.md#MAITREDUSAVOIR)</u> devrait préciser à la fin de cette première phrase « , et ce même lorsqu'il est distrait ou menacé ».
+Oui, c’est possible. La capacité de barde <u>[[Barde#MAITREDUSAVOIR|maître du savoir]]</u> devrait préciser à la fin de cette première phrase « , et ce même lorsqu'il est distrait ou menacé ».
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|5}
@@ -114,9 +114,9 @@ Si un personnage possède un archétype ou un autre élément de règles qui rem
 
 Si un personnage possède un archétype ou un autre élément de règles qui remplace certaines mises à niveau d’une capacité de classe évolutive, ou retarde le moment où il obtient cette capacité de classe, il ne possède pas cette capacité de classe jusqu’à ce qu’il l’obtienne réellement.
 
-*Exemple :* Si le personnage possède un archétype de guerrier qui remplace [entraînement aux armes 1](./Guerrier.md#ENTRAINEMENTAUXARMES) (mais pas entraînement aux armes 2, 3 et 4), il n’obtient pas entraînement aux armes 2 avant le niveau 9, ce qui signifie qu’il ne possède pas la capacité de classe entraînement aux armes du tout avant le niveau 9. N’importe quelle option avec « entraînement aux armes » ou « capacité de classe entraînement aux armes » comme condition lui est indisponible avant le niveau 9.
-*Exemple :* Si le personnage possède un archétype de prêtre qui remplace la [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) au niveau 1 (mais pas les améliorations ultérieures de canalisation d’énergie), il n’obtient pas la capacité canalisation d’énergie avant le niveau 3, ce qui signifie qu’il ne possède pas la capacité de classe canalisation d’énergie avant d’atteindre le niveau 3. N’importe quelle option avec « canalisation d’énergie » ou « capacité de classe canalisation d’énergie » comme condition lui est indisponible avant qu’il atteigne le niveau 3.
-*Exemple :* Si le personnage possède un archétype de sorcière qui remplace son [maléfice](./Sorcière.md#MALEFICE) de niveau 1 (mais pas les maléfices suivants, les maléfices majeurs, ou les grands maléfices)), il n’obtient pas son premier maléfice avant le niveau de sorcière 2, ce qui signifie qu’il ne possède pas la capacité de classe maléfice avant d’atteindre le niveau de sorcière 2. N’importe quelle option avec « maléfice » ou « capacité de classe maléfice » comme condition lui est indisponible avant qu’il atteigne le niveau 2.
+*Exemple :* Si le personnage possède un archétype de guerrier qui remplace [[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes 1]] (mais pas entraînement aux armes 2, 3 et 4), il n’obtient pas entraînement aux armes 2 avant le niveau 9, ce qui signifie qu’il ne possède pas la capacité de classe entraînement aux armes du tout avant le niveau 9. N’importe quelle option avec « entraînement aux armes » ou « capacité de classe entraînement aux armes » comme condition lui est indisponible avant le niveau 9.
+*Exemple :* Si le personnage possède un archétype de prêtre qui remplace la [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] au niveau 1 (mais pas les améliorations ultérieures de canalisation d’énergie), il n’obtient pas la capacité canalisation d’énergie avant le niveau 3, ce qui signifie qu’il ne possède pas la capacité de classe canalisation d’énergie avant d’atteindre le niveau 3. N’importe quelle option avec « canalisation d’énergie » ou « capacité de classe canalisation d’énergie » comme condition lui est indisponible avant qu’il atteigne le niveau 3.
+*Exemple :* Si le personnage possède un archétype de sorcière qui remplace son [[Sorcière#MALEFICE|maléfice]] de niveau 1 (mais pas les maléfices suivants, les maléfices majeurs, ou les grands maléfices)), il n’obtient pas son premier maléfice avant le niveau de sorcière 2, ce qui signifie qu’il ne possède pas la capacité de classe maléfice avant d’atteindre le niveau de sorcière 2. N’importe quelle option avec « maléfice » ou « capacité de classe maléfice » comme condition lui est indisponible avant qu’il atteigne le niveau 2.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|6}
@@ -127,13 +127,13 @@ Si le personnage était un oracle, cela ne lui donnerait pas de sorts de mystèr
 Si le personnage était une sorcière, cela ne lui donnerait pas de sorts de protecteur supplémentaires.
 Etc.
 
-Les <u>[classes de prestige](./Classes de prestige.md#DEFINITIONS)</u> qui améliorent la capacité de lancement de sorts n’augmentent que le niveau de lanceur, les sorts par jour, et (pour les lanceurs de sorts spontanés) les sorts connus – globalement, les capacités de lancement de sorts décrites dans la description de la capacité de classe sorts.
-(Notez que la classe de disciple draconien a la capacité [sang des dragons](./Disciple draconien.md#SANGDESDRAGONS), qui indique spécifiquement que le personnage obtient ses pouvoirs de lignage et ses sorts de lignage ; c’est une capacité propre à cette classe et non pas une règle générale sur l’amélioration du lancement de sorts par une classe de prestige.)
+Les <u>[[Classes de prestige#DEFINITIONS|classes de prestige]]</u> qui améliorent la capacité de lancement de sorts n’augmentent que le niveau de lanceur, les sorts par jour, et (pour les lanceurs de sorts spontanés) les sorts connus – globalement, les capacités de lancement de sorts décrites dans la description de la capacité de classe sorts.
+(Notez que la classe de disciple draconien a la capacité [[Disciple draconien#SANGDESDRAGONS|sang des dragons]], qui indique spécifiquement que le personnage obtient ses pouvoirs de lignage et ses sorts de lignage ; c’est une capacité propre à cette classe et non pas une règle générale sur l’amélioration du lancement de sorts par une classe de prestige.)
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|7}
 #### Conditions des classes de prestige : Si une classe de prestige nécessite 5 rangs dans une compétence et que je possède 6 rangs dans cette compétence, suis-je toujours éligible ?
-Oui, parce que les rangs de compétence sont inclusifs : si un personnage a 6 rangs dans une compétence, alors il a 5 rangs dans cette compétence, et remplit donc la <u>[condition](./Classes de prestige.md#DEFINITIONS)</u> « posséder 5 rangs dans <nowiki>[</nowiki>cette<nowiki>]</nowiki> compétence ».
+Oui, parce que les rangs de compétence sont inclusifs : si un personnage a 6 rangs dans une compétence, alors il a 5 rangs dans cette compétence, et remplit donc la <u>[[Classes de prestige#DEFINITIONS|condition]]</u> « posséder 5 rangs dans <nowiki>[[</nowiki>cette<nowiki>]]</nowiki> compétence ».
 
 De la même façon, si un personnage a un BBA de +6, alors il a un BBA de +5, et remplit donc la condition « avoir un BBA de +5 ».
 
@@ -144,7 +144,7 @@ Les conditions de don ne sont pas inclusives, puisqu’il est possible pour une 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|8}
 #### Demi-elfe ou demi-orque : Est-ce qu’un personnage de l’une de ces deux races peut choisir les archétypes raciaux humains (comme ceux du Manuel des races) ?
-Oui. Les <u>[demis-elfes](./Demi-elfe.md)</u> et les <u>[demis-orques](./Demi-orque.md)</u> peuvent choisir des options de classe de prédilection, des archétypes, des traits, etc, comme s’ils étaient des membres à part entière des deux races (un demi-elfe peut choisir les éléments de règles réservés aux [elfes](./Elfe.md) et aux humains, un demi-orque peut choisir les éléments de règles réservés aux humains et aux [orques](./Orque.md)).
+Oui. Les <u>[[Demi-elfe|demis-elfes]]</u> et les <u>[[Demi-orque|demis-orques]]</u> peuvent choisir des options de classe de prédilection, des archétypes, des traits, etc, comme s’ils étaient des membres à part entière des deux races (un demi-elfe peut choisir les éléments de règles réservés aux [[Elfe|elfes]] et aux humains, un demi-orque peut choisir les éléments de règles réservés aux humains et aux [[Orque|orques]]).
 
 Mise à jour 26/9/2013 : Ceci est une inversion d’une ancienne règle. Cela résout une divergence entre cette FAQ et les deux FAQ du Manuel des races.
 
@@ -153,55 +153,55 @@ Mise à jour 26/9/2013 : Ceci est une inversion d’une ancienne règle. Cela r�
 #### Duelliste, Défense astucieuse : Cette capacité est-elle limitée par le bonus de dextérité maximal de l'armure ?
 Un duelliste ajoute son bonus d'Intelligence à sa CA (et non à son bonus de Dextérité à la CA). Il perd ce bonus d'Intelligence à la CA dans toutes les situations où il est privé de son bonus de Dextérité à la CA.
 Son bonus d'Intelligence à la CA ignore la limitation due au bonus de Dextérité maximal de l'armure parce que ce n'est pas un bonus de Dextérité.
-Ce bonus d'Intelligence à la CA s'applique également à la CA de contact. *(Retour à la <u>[capacité](./Duelliste.md#DEFENSEASTUCIEUSE)</u>)*
+Ce bonus d'Intelligence à la CA s'applique également à la CA de contact. *(Retour à la <u>[[Duelliste#DEFENSEASTUCIEUSE|capacité]]</u>)*
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|10}
 #### Duelliste, Défense astucieuse : La capacité de défense astucieuse s'ajoute-t-elle au DMD ?
-Depuis la 6ème impression du *Manuel des joueurs*, la capacité de <u>[défense astucieuse](./Duelliste.md#DEFENSEASTUCIEUSE)</u> confère un bonus d'esquive à la CA. Ce bonus s'ajoute donc au DMD du duelliste.
+Depuis la 6ème impression du *Manuel des joueurs*, la capacité de <u>[[Duelliste#DEFENSEASTUCIEUSE|défense astucieuse]]</u> confère un bonus d'esquive à la CA. Ce bonus s'ajoute donc au DMD du duelliste.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|11}
 #### Ensorceleur : Les bonus accordés par l’arcane de lignage s’appliquent-ils à tous les sorts lancés par l’ensorceleur, ou uniquement ceux lancés depuis la liste d’ensorceleur ?
-Les pouvoirs de l’<u>[arcane de lignage](./Ensorceleur.md#LIGNAGE)</u> s’appliquent à tous les sorts lancés par les personnages de ce lignage, pas seulement à ceux lancés en utilisant les emplacements de sorts d’ensorceleur.
+Les pouvoirs de l’<u>[[Ensorceleur#LIGNAGE|arcane de lignage]]</u> s’appliquent à tous les sorts lancés par les personnages de ce lignage, pas seulement à ceux lancés en utilisant les emplacements de sorts d’ensorceleur.
 
 Règle générale : Si une capacité de classe modifie le lancement de sorts du personnage, elle s’applique aux sorts de toutes ses classes, pas seulement aux sorts de la classe qui offre la capacité. (L’exception étant si la capacité de classe précise qu’elle ne s’applique qu’aux sorts de cette classe.)
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|12}
 #### Ensorceleur/Magicien : Puis-je révoquer mon familier afin d’en choisir un nouveau ?
-Ce n’est indiqué nul part dans les règles, mais oui, un personnage devrait être capable de révoquer un <u>[familier](./Familiers.md)</u> s’il veut en choisir un nouveau. En revanche, il doit toujours attendre une semaine et payer 200 po pour le rituel de 8 heures. Révoquer un familier revient à briser un lien entre l’âme du personnage et celle du familier, donc cela devrait probablement prendre environ une heure.
+Ce n’est indiqué nul part dans les règles, mais oui, un personnage devrait être capable de révoquer un <u>[[Familiers|familier]]</u> s’il veut en choisir un nouveau. En revanche, il doit toujours attendre une semaine et payer 200 po pour le rituel de 8 heures. Révoquer un familier revient à briser un lien entre l’âme du personnage et celle du familier, donc cela devrait probablement prendre environ une heure.
 
-L’exception à la précision ci-dessus est si le personnage prend le don [Familier supérieur](./Familier supérieur.md), qui lui permet de remplacer immédiatement son familier par le nouveau, sans coût ni temps requis (on part du principe que ça se produit pendant les préparations faites pour la montée de niveau).
+L’exception à la précision ci-dessus est si le personnage prend le don [[Familier supérieur]], qui lui permet de remplacer immédiatement son familier par le nouveau, sans coût ni temps requis (on part du principe que ça se produit pendant les préparations faites pour la montée de niveau).
 
 Une fois révoqué, un familier animal est un animal normal de son type (un familier spécial du don Familier supérieur retourne à l’état d’une créature normale de ce type). Qu’il souhaite rester ou non avec le personnage revient au MJ et se basera probablement sur la manière dont le personnage traitait la créature quand elle était son familier.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|13}
 #### Familier et invisibilité : Si j'utilise mon familier pour délivrer un sort de contact alors que je suis invisible, est-ce que cela met fin à mon invisibilité ?
-Non. Le <u>[familier](./Familiers.md)</u> d'un personnage n'est pas lui, et un familier qui attaque n'est pas la même chose qu'un personnage qui attaque. En conséquence, l'[invisibilité](./Capacités spéciales.md#INVISIBILITE) du personnage n'est pas affectée.
+Non. Le <u>[[Familiers|familier]]</u> d'un personnage n'est pas lui, et un familier qui attaque n'est pas la même chose qu'un personnage qui attaque. En conséquence, l'[[Capacités spéciales#INVISIBILITE|invisibilité]] du personnage n'est pas affectée.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|14}
 #### Guerrier, Dons supplémentaires : Puis-je apprendre un nouveau don supplémentaire de guerrier à la place d’un de mes dons de port des armures ?
-Non. Malgré la formulation des dons de Port des armures, les <u>[guerriers](./Guerrier.md#DONSUPPLEMENTAIRE)</u> (et les autres classes) ont une capacité de classe qui octroie le port de ces armures – elle n’offre pas réellement les dons correspondants. Ainsi, la capacité d’un guerrier à apprendre un nouveau don à la place d’un autre ne s’applique pas à ces formations.
+Non. Malgré la formulation des dons de Port des armures, les <u>[[Guerrier#DONSUPPLEMENTAIRE|guerriers]]</u> (et les autres classes) ont une capacité de classe qui octroie le port de ces armures – elle n’offre pas réellement les dons correspondants. Ainsi, la capacité d’un guerrier à apprendre un nouveau don à la place d’un autre ne s’applique pas à ces formations.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|15}
 #### Guerrier, Dons supplémentaires : Puis-je utiliser la capacité dons supplémentaires du guerrier pour ré-entraîner un don que j’ai obtenu au niveau 1 (comme Enchaînement) afin de gagner un don pour lequel je n’étais pas qualifié au niveau 1, mais l’est maintenant (comme Fente) ?
-Oui. Tant que le don « perdu » n’est pas un prérequis pour tout autre don, classe de prestige, ou autre pouvoir que le personnage possède, il peut gagner n’importe quel don pour lequel il est qualifié au moment du <u>[ré-entraînement](./Guerrier.md#DONSUPPLEMENTAIRE)</u>.
+Oui. Tant que le don « perdu » n’est pas un prérequis pour tout autre don, classe de prestige, ou autre pouvoir que le personnage possède, il peut gagner n’importe quel don pour lequel il est qualifié au moment du <u>[[Guerrier#DONSUPPLEMENTAIRE|ré-entraînement]]</u>.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|16}
 #### Guerrier, Dons supplémentaires : Quels dons puis-je ré-entraîner au niveau 4, 8, etc ?
-Les sections Classes dans le *Manuel des joueurs* sont écrites en partant du principe que le personnage est mono-classé (pas [multiclassé](./Progression des personnages.md#MULTICLASSER)). La capacité du <u>[guerrier](./Guerrier.md#DONSUPPLEMENTAIRE)</u> à ré-entraîner des dons permet au personnage de ré-entraîner un de ses dons supplémentaires de guerrier (obtenus au niveau 1, au niveau 2, au niveau 4, etc). Il ne peut pas ré-entraîner des dons (dons de combat ou autres) provenant de toute autre source, comme ses dons de niveau 1, 3, etc., son don bonus d’humain de niveau 1, ou ses autres dons supplémentaires obtenus grâce à d’autres classes.
+Les sections Classes dans le *Manuel des joueurs* sont écrites en partant du principe que le personnage est mono-classé (pas [[Progression des personnages#MULTICLASSER|multiclassé]]). La capacité du <u>[[Guerrier#DONSUPPLEMENTAIRE|guerrier]]</u> à ré-entraîner des dons permet au personnage de ré-entraîner un de ses dons supplémentaires de guerrier (obtenus au niveau 1, au niveau 2, au niveau 4, etc). Il ne peut pas ré-entraîner des dons (dons de combat ou autres) provenant de toute autre source, comme ses dons de niveau 1, 3, etc., son don bonus d’humain de niveau 1, ou ses autres dons supplémentaires obtenus grâce à d’autres classes.
 
 Vous pourriez peut-être mettre un astérisque sur les dons supplémentaires de guerrier sur votre fiche de personnage pour pouvoir facilement déterminer lesquels sont éligibles à un ré-entraînement plus tard.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|17}
 #### Humain : Pour un humain avec une Intelligence basse, le nombre minimum de rangs de compétence par niveau est de 1 ou 2 ?
-C’est 1, mais le personnage ajoute son rang bonus d’<u>[humain](./Humain.md)</u> ensuite, donc il termine avec 2 rangs au total.
+C’est 1, mais le personnage ajoute son rang bonus d’<u>[[Humain]]</u> ensuite, donc il termine avec 2 rangs au total.
 Par exemple, un humain guerrier 1 avec Int 6 devrait commencer avec 2 rangs, ajouter le -2 de son malus d’Int (pour un total de 0 rangs), appliquer la règle du « minimum 1 » (pour un total ajusté de 1 rang), puis ajouter 1 rang d’humain (pour un total de 2 rangs).
 
 Autrement dit, un humain devrait toujours terminer avec plus de rangs de compétence qu’un autre personnage équivalent d’une race différente.
@@ -209,65 +209,65 @@ Autrement dit, un humain devrait toujours terminer avec plus de rangs de compét
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|18}
 #### Intelligence : Si mon modificateur d’Intelligence augmente, puis-je choisir une nouvelle langue supplémentaire ?
-Oui. Par exemple, si l’Int du personnage est 13, et qu’en arrivant au niveau 4 il applique son accroissement de <u>[caractéristique](./Caractéristiques.md#DESCRIPTION)</u> à l’Int, cela passera son bonus d’Int de +1 à +2, lui offrant une nouvelle langue supplémentaire.
-Techniquement, les objets qui améliorent l’Int comme un *[bandeau d’intelligence](./Bandeau dintelligence.md)* devrait conférer un nombre spécifique de langues (comme ils le font pour les rangs de compétence).
+Oui. Par exemple, si l’Int du personnage est 13, et qu’en arrivant au niveau 4 il applique son accroissement de <u>[[Caractéristiques#DESCRIPTION|caractéristique]]</u> à l’Int, cela passera son bonus d’Int de +1 à +2, lui offrant une nouvelle langue supplémentaire.
+Techniquement, les objets qui améliorent l’Int comme un *[[Bandeau dintelligence|bandeau d’intelligence]]* devrait conférer un nombre spécifique de langues (comme ils le font pour les rangs de compétence).
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|19}
 #### Moine, Déluge de coups : Comment le BBA amélioré des moines lorsqu’ils portent un déluge interagit-il avec les dons comme Attaque en puissance et Expertise du combat, qui ont des effets différents selon le BBA du personnage ?
-Le <u>[moine](./Moine.md#DELUGEDECOUPS)</u> utilise le BBA amélioré de son déluge pour déterminer les effets de ces dons.
+Le <u>[[Moine#DELUGEDECOUPS|moine]]</u> utilise le BBA amélioré de son déluge pour déterminer les effets de ces dons.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|20}
 #### Moine, Déluge de coups : Les règles de moine sur le déluge stipulent : « Pour déterminer les bonus de ces attaques, on considère que le bonus de base à l’attaque du moine est égal à son niveau de moine. » Comment cela interagit-il avec le BBA des niveaux de classe et des Dés de Vie raciaux ? Est-ce qu’un personnage multiclassé guerrier 19/moine 1 porte un déluge comme si son BBA n’était que de +1 ?
-Un moine utilisant son <u>[déluge](./Moine.md#DELUGEDECOUPS)</u> traite le BBA de ses niveaux de moine comme égal à son niveau de moine. Il ajoute toujours le BBA des autres sources (comme celui d’autres classes ou de Dés de Vie raciaux) normalement à ce total.
+Un moine utilisant son <u>[[Moine#DELUGEDECOUPS|déluge]]</u> traite le BBA de ses niveaux de moine comme égal à son niveau de moine. Il ajoute toujours le BBA des autres sources (comme celui d’autres classes ou de Dés de Vie raciaux) normalement à ce total.
 
 Donc si un guerrier 19/moine 1 a un BBA normal de +19. Lorsqu’il porte un déluge, il traite son BBA de moine comme +1 (pour 1 niveau de moine) et bénéficie quand même du BBA +19 de ses niveaux de guerrier, pour un BBA de déluge total de +20.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|21}
 #### Moine, Déluge de coups : Lorsque j’utilise le déluge de coups, puis-je porter toutes les attaques avec une seule arme, ou dois-je en utiliser deux, comme il est sous-entendu que la capacité fonctionne comme Combat à deux armes ?
-Le personnage peut porter toutes ses attaques avec une unique arme de moine. Sinon, il peut remplacer autant d’attaques qu’il le souhaite par des attaques à mains nues. Cette FAQ change expressément une décision antérieure prise sur le blog à propos de ce problème. *(Retour à la <u>[capacité](./Moine.md#DELUGEDECOUPS)</u>)*
+Le personnage peut porter toutes ses attaques avec une unique arme de moine. Sinon, il peut remplacer autant d’attaques qu’il le souhaite par des attaques à mains nues. Cette FAQ change expressément une décision antérieure prise sur le blog à propos de ce problème. *(Retour à la <u>[[Moine#DELUGEDECOUPS|capacité]]</u>)*
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|22}
 #### Moine, Déluge de coups et réserve de ki : Est-ce que l’attaque supplémentaire obtenue par la dépense de ki dans le cadre d’un déluge de coups se cumule avec l’attaque supplémentaire de *rapidité* ?
-Oui. L’attaque supplémentaire décrite dans la capacité [réserve de ki](./Moine.md#RESERVEDEKI) ne dit pas qu’elle fonctionne comme *[rapidité](./Rapidité.md)*, ni qu’elle ne se cumule pas avec *rapidité*, donc le moine obtiendrait deux attaques supplémentaires (une par la dépense de ki dans le cadre d’un <u>[déluge de coups](./Moine.md#DELUGEDECOUPS)</u>, et une par *rapidité*).
+Oui. L’attaque supplémentaire décrite dans la capacité [[Moine#RESERVEDEKI|réserve de ki]] ne dit pas qu’elle fonctionne comme *[[rapidité]]*, ni qu’elle ne se cumule pas avec *rapidité*, donc le moine obtiendrait deux attaques supplémentaires (une par la dépense de ki dans le cadre d’un <u>[[Moine#DELUGEDECOUPS|déluge de coups]]</u>, et une par *rapidité*).
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|23}
 #### Mystificateur profane : Comment la capacité de classe Sorts surprise de la classe de prestige de mystificateur profane (Manuel des joueurs, page 396) fonctionne-t-elle avec des sorts comme *projectile magique* ou *boule de feu* ?
-La capacité de classe Sorts surprise permet au <u>[mystificateur profane](./Mystificateur profane.md)</u> d'ajouter ses dégâts supplémentaires d'attaque sournoise aux sorts infligeant des dégâts et qui ciblent des ennemis pris au dépourvu. Ces dommages supplémentaires ne sont appliqués qu'une seule fois par sort. Dans le cas de *[boule de feu](./Boule de feu.md)*, cela signifie qu'ils affectent toutes les cibles dans la zone d'effet, chaque cible bénéficiant d'un jet de sauvegarde pour réduire les dégâts de moitié (y compris les dégâts supplémentaires d'attaque sournoise). Dans le cas de *[projectile magique](./Projectile magique.md)*, les dégâts supplémentaires sont ajoutés à un seul projectile choisi par le lanceur lors de l'incantation du sort.
+La capacité de classe Sorts surprise permet au <u>[[Mystificateur profane]]</u> d'ajouter ses dégâts supplémentaires d'attaque sournoise aux sorts infligeant des dégâts et qui ciblent des ennemis pris au dépourvu. Ces dommages supplémentaires ne sont appliqués qu'une seule fois par sort. Dans le cas de *[[boule de feu]]*, cela signifie qu'ils affectent toutes les cibles dans la zone d'effet, chaque cible bénéficiant d'un jet de sauvegarde pour réduire les dégâts de moitié (y compris les dégâts supplémentaires d'attaque sournoise). Dans le cas de *[[projectile magique]]*, les dégâts supplémentaires sont ajoutés à un seul projectile choisi par le lanceur lors de l'incantation du sort.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|24}
 #### Paladin, Châtiment du Mal : Le châtiment du Mal ignore-t-il les défenses du pouvoir spécial intangible ?
-Le châtiment n’est pas un effet sur l’arme, c’est un effet sur le <u>[paladin](./Paladin.md#CHATIMENTDUMAL)</u>. L’arme a toujours besoin d’être magique pour blesser la créature [intangible](./Intangible (capacité).md), et même une arme magique ne lui inflige que la moitié de ses dégâts.
+Le châtiment n’est pas un effet sur l’arme, c’est un effet sur le <u>[[Paladin#CHATIMENTDUMAL|paladin]]</u>. L’arme a toujours besoin d’être magique pour blesser la créature [[Intangible (capacité)|intangible]], et même une arme magique ne lui inflige que la moitié de ses dégâts.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|25}
 #### Paladin, Détection du Mal : Un paladin doit-il dépenser une action simple pour activer sa détection du Mal avant de dépenser une action de mouvement pour se concentrer sur une créature ou un objet ?
-Non, la première phrase est distincte du reste de la capacité, et offre une option alternative pour utiliser la <u>[détection du Mal](./Paladin.md#DETECTIONDUMAL)</u>. Un paladin peut utiliser l’action de mouvement sur une créature ou un objet à la place de l’action simple nécessaire à l’activation d’une *[détection du Mal](./Détection du Mal.md)* normale.
+Non, la première phrase est distincte du reste de la capacité, et offre une option alternative pour utiliser la <u>[[Paladin#DETECTIONDUMAL|détection du Mal]]</u>. Un paladin peut utiliser l’action de mouvement sur une créature ou un objet à la place de l’action simple nécessaire à l’activation d’une *[[détection du Mal]]* normale.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|26}
 #### Paladin, Imposition des mains : L’imposition des mains du paladin utilise-t-elle de l’énergie positive ?
-Oui. *(Retour à la <u>[capacité](./Paladin.md)</u>)*
+Oui. *(Retour à la <u>[[Paladin|capacité]]</u>)*
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|27}
 #### Paladin, Pacte divin : Puis-je dépenser deux utilisations de cette capacité pour altérer deux de mes armes ou les deux extrémités d’une arme double ?
-Oui. *(Retour à la [classe](./Paladin.md))*
+Oui. *(Retour à la [[Paladin|classe]])*
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|28}
 #### Paladin, Santé divine : Si je suis immunisé aux maladies, suis-je immunisé à la putréfaction de la momie, qui est à la fois une maladie et une malédiction ?
-Oui. *(Retour à la <u>[capacité](./Paladin.md)</u>)*
+Oui. *(Retour à la <u>[[Paladin|capacité]]</u>)*
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|29}
 #### Points de vie : Quelles créatures prennent les points de vie maximum à leur premier niveau ou sur leur premier Dé de Vie ? Quelles créatures bénéficient des bonus de classe de prédilection aux compétences et aux points de vie ?
-{s:Desambi|Il est raisonnable d’inclure cinétiste, hypotiseur, médium, occultiste, psychiste, et spirite à la liste des classes de PJ.}Les créatures dont le premier [Dé de Vie](./../Ressources/DV.md) vient d’une classe de PJ prennent le maximum de points de vie de ce Dé de Vie. La liste actuelle des classes de PJ est alchimiste, arcaniste, barbare, barde, bretteur, chaman, chasseur, chevalier, conjurateur, druide, ensorceleur, guerrier, lutteur, enquêteur, inquisiteur, magicien, magus, moine, oracle, paladin, pistolier, prêtre, prêtre combattant, rôdeur, roublard, sanguin, scalde, tueur, et sorcière (incluant les archétypes, sous-classes, et autres variantes de ces classes)
+{s:Desambi|Il est raisonnable d’inclure cinétiste, hypotiseur, médium, occultiste, psychiste, et spirite à la liste des classes de PJ.}Les créatures dont le premier [[DV|Dé de Vie]] vient d’une classe de PJ prennent le maximum de points de vie de ce Dé de Vie. La liste actuelle des classes de PJ est alchimiste, arcaniste, barbare, barde, bretteur, chaman, chasseur, chevalier, conjurateur, druide, ensorceleur, guerrier, lutteur, enquêteur, inquisiteur, magicien, magus, moine, oracle, paladin, pistolier, prêtre, prêtre combattant, rôdeur, roublard, sanguin, scalde, tueur, et sorcière (incluant les archétypes, sous-classes, et autres variantes de ces classes)
 
 Les créatures dont le premier Dé de Vie vient d’une classe de PNJ (adepte, noble, homme du peuple, expert, homme d’armes) ou d’un Dé de Vie racial (comme la plupart des monstres) ne prennent pas le maximum sur ce Dé de Vie.
 
@@ -278,25 +278,25 @@ Par exemple, un humain homme d’armes 1 pourrait choisir « homme d’armes » 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|30}
 #### Pouvoirs magiques et niveau de sort : Les domaines de prêtre, les lignages d'ensorceleur, les écoles de magicien et certaines autres capacités de classe confèrent des pouvoirs magiques qui ne sont pas basés sur les sorts. Quel est le niveau de sort effectif de ces pouvoirs ?
-Le niveau de sort effectif de ces <u>[pouvoirs magiques](./Capacités spéciales.md)</u> est égal à celui du sort de plus haut niveau qu'un personnage de la classe peut normalement lancer au niveau où le pouvoir est acquis.
+Le niveau de sort effectif de ces <u>[[Capacités spéciales|pouvoirs magiques]]</u> est égal à celui du sort de plus haut niveau qu'un personnage de la classe peut normalement lancer au niveau où le pouvoir est acquis.
 
 Par exemple, un ensorceleur de lignage élémentaire de niveau 1 a Rayon élémentaire en tant que pouvoir magique. Le plus haut niveau de sort accessible à un ensorceleur de niveau 1 étant le niveau 1, ce pouvoir magique compte comme un sort de niveau 1. Un ensorceleur de lignage élémentaire de niveau 9 a Explosion élémentaire en tant que pouvoir magique. Le plus haut niveau de sort accessible à un ensorceleur de niveau 9 étant le niveau 4, ce pouvoir magique compte comme un sort de niveau 4.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|31}
 #### Prêtre : Un prêtre dont la divinité a pour arme de prédilection l'épée bâtarde reçoit-il gratuitement le maniement d'une arme de guerre ou exotique avec cette épée ?
-Puisque l'[épée bâtarde](./épée bâtarde (arme).md) est listée comme étant une arme exotique, le <u>[prêtre](./Prêtre.md#Armes_et_armures_0)</u> reçoit [Maniement d'une arme exotique](./Maniement dune arme exotique.md) avec cette arme, ce qui lui permet de la manier à une main.
+Puisque l'[[Épée bâtarde (arme)|épée bâtarde]] est listée comme étant une arme exotique, le <u>[[Prêtre#Armes_et_armures_0|prêtre]]</u> reçoit [[Maniement dune arme exotique|Maniement d'une arme exotique]] avec cette arme, ce qui lui permet de la manier à une main.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|32}
 #### --Réserve de ki du moine : Quels types de réduction de dégâts un moine peut-il ignorer grâce à cette capacité ?
-Les moines ont souvent des problèmes à ignorer les [RD](./RD.md) avec leurs attaques à mains nues, ce qui les force à dépendre d’armes pour gérer plusieurs sortes de RD. Nous avons décider d’ajouter un nouveau pouvoir à la capacité de classe <u>[réserve de ki](./Moine.md#RESERVEDEKI)</u> du moine. Au niveau 7, les attaques à mains nues du moine sont considérées comme des armes en fer froid et en argent pour ce qui est d'ignorer la réduction de dégâts des créatures, et ce tant qu’il lui reste au moins 1 point dans sa réserve de ki.
+Les moines ont souvent des problèmes à ignorer les [[RD]] avec leurs attaques à mains nues, ce qui les force à dépendre d’armes pour gérer plusieurs sortes de RD. Nous avons décider d’ajouter un nouveau pouvoir à la capacité de classe <u>[[Moine#RESERVEDEKI|réserve de ki]]</u> du moine. Au niveau 7, les attaques à mains nues du moine sont considérées comme des armes en fer froid et en argent pour ce qui est d'ignorer la réduction de dégâts des créatures, et ce tant qu’il lui reste au moins 1 point dans sa réserve de ki.
 Cette réponse est d’abord apparue dans le [Paizo blog du 4/12/2012](http://paizo.com/paizo/blog/v5748dyo5le61?Monkeying-Around).-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|33}
 #### Sorts en bonus grâce à un score de caractéristique élevé : Puis-je en bénéficier même si mon niveau de classe de lanceur de sorts n'est pas assez élevé pour me donner accès à ces niveaux de sorts ?
-Non. Vous ne gagnez des <u>[sorts en bonus](./Caractéristiques.md#DETERMINER)</u> que si votre niveau de classe vous donne accès aux niveaux de sorts considérés.  Vous ne pouvez même pas les utiliser pour lancer ses sorts de niveau inférieur. Voyez le *Manuel des joueurs* page 16, section [Caractéristiques et lanceurs de sorts](./Caractéristiques.md#CARACTERISTIQUESETLANCEURSDESORTS) : « Pour pouvoir jeter des sorts d’un niveau donné, un lanceur de sorts doit posséder une valeur de caractéristique et un niveau de classe suffisamment élevés. »
+Non. Vous ne gagnez des <u>[[Caractéristiques#DETERMINER|sorts en bonus]]</u> que si votre niveau de classe vous donne accès aux niveaux de sorts considérés.  Vous ne pouvez même pas les utiliser pour lancer ses sorts de niveau inférieur. Voyez le *Manuel des joueurs* page 16, section [[Caractéristiques#CARACTERISTIQUESETLANCEURSDESORTS|Caractéristiques et lanceurs de sorts]] : « Pour pouvoir jeter des sorts d’un niveau donné, un lanceur de sorts doit posséder une valeur de caractéristique et un niveau de classe suffisamment élevés. »
 
 Par exemple, un magicien de niveau 1 avec une Intelligence de 18 a, d'après la table 1-3 : Modificateurs de caractéristique et sorts en bonus, un sort en bonus aux niveaux de sorts 1, 2, 3 et 4. Cependant, il ne peut bénéficier que du sort en bonus de niveau 1 parce que, en tant que magicien de niveau 1, il n'a accès qu'aux sorts de niveau 1 (d'après la table de progression du magicien, son nombre de sorts de niveau 2, 3 et 4 est "—", ce qui signifie "pas d'accès aux sorts de ce niveau"). Dès qu'il devient un magicien de niveau 3, il accède à ses emplacements de sorts de niveau 2 et peut donc utiliser l'emplacement de sort en bonus de niveau 2 obtenu grâce à sa haute Intelligence. Il pourra faire de même pour les emplacements de sorts et le sort en bonus de niveau 3 lorsqu'il deviendra un magicien de niveau 5.
 
@@ -308,7 +308,7 @@ En résumé, ignorez les colonnes des sorts sur la table 1-3 : Modificateurs de 
 Le texte en question est :
 « Les lanceurs de sorts spontanés ne peuvent lancer de cette manière que des sorts qu’ils ont préparés avec une classe de lanceur de sorts non spontanés, et ce même si le sort a déjà été utilisé. »
 
-Le but de ce texte est en fait d’imposer une limitation aux classes de lanceurs de sorts préparés, pas aux classes de lanceurs de sorts spontanés ; la limitation n’est pas quels sorts la classe de lanceur de sorts spontanés peut utiliser avec la capacité <u>[sorts combinés](./Théurge mystique.md#SORTSCOMBINES)</u>, c’est plutôt quels sorts la classe de lanceur de sorts préparés peut apporter à la capacité sorts combinés.
+Le but de ce texte est en fait d’imposer une limitation aux classes de lanceurs de sorts préparés, pas aux classes de lanceurs de sorts spontanés ; la limitation n’est pas quels sorts la classe de lanceur de sorts spontanés peut utiliser avec la capacité <u>[[Théurge mystique#SORTSCOMBINES|sorts combinés]]</u>, c’est plutôt quels sorts la classe de lanceur de sorts préparés peut apporter à la capacité sorts combinés.
 
 Par exemple, si un ensorceleur/prêtre/théurge mystique n’a préparé aucune *restauration partielle* aujourd’hui, il ne peut pas utiliser ses emplacements de sort d’ensorceleur pour lancer *restauration partielle* (parce qu’il ne peut utiliser cette capacité que pour accéder à des sorts de prêtre qu’il a préparé aujourd’hui). En revanche, rien dans la description de la capacité ne l’empêche d’utiliser ses emplacements de sort (qui doivent être préparés) de prêtre pour préparer des sorts (spontanés) d’ensorceleur qu’il connaît.
 

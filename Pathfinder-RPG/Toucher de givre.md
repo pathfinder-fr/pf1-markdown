@@ -9,10 +9,10 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[froid](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [druide](./Druide.md) 2, [magus](./Magus.md) 2, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 2  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 2, [[magus]] 2, [[ensorceleur]]/[[magicien]] 2  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-Un sort incluant cet effet inflige 1d6 points de dégâts de froid par [niveau de lanceur](./NLS.md) (maximum 5d6). Une cible qui rate son [jet de sauvegarde](./jet de sauvegarde.md) est également [chancelante](./Chancelant.md) pendant 1 [round](./round.md).
+Un sort incluant cet effet inflige 1d6 points de dégâts de froid par [[NLS|niveau de lanceur]] (maximum 5d6). Une cible qui rate son [[jet de sauvegarde]] est également [[chancelant|chancelante]] pendant 1 [[round]].

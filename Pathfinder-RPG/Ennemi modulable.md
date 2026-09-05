@@ -13,11 +13,11 @@ Categories:
 
 *Votre expertise vous aide contre nombre d'ennemis similaires.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [BBA](./BBA.md) +5, capacité de classe [ennemi juré (humanoïde ou extérieur)](./Rôdeur.md#ENNEMIJURE)
+**Conditions.** [[BBA]] +5, capacité de classe [[Rôdeur#ENNEMIJURE|ennemi juré (humanoïde ou extérieur)]]
 
-**Avantage.** Une fois par jour, par une [action rapide](./Action rapide.md), le personnage peut modifier le sous type d'[ennemi juré](./Rôdeur.md#ENNEMIJURE) humanoïde ou extérieur qu'il a choisi. Par exemple, il peut changer son ennemi juré (elfe) en ennemi juré (nain). Le bonus offert par la capacité de classe ennemi juré est alors toujours de +2, quel que soit le bonus d'origine. Ce changement dure pendant un nombre de rounds égal au niveau du personnage.
+**Avantage.** Une fois par jour, par une [[action rapide]], le personnage peut modifier le sous type d'[[Rôdeur#ENNEMIJURE|ennemi juré]] humanoïde ou extérieur qu'il a choisi. Par exemple, il peut changer son ennemi juré (elfe) en ennemi juré (nain). Le bonus offert par la capacité de classe ennemi juré est alors toujours de +2, quel que soit le bonus d'origine. Ce changement dure pendant un nombre de rounds égal au niveau du personnage.
 
 **Spécial.** Le personnage peut prendre ce don à plusieurs reprises. Chaque fois qu'il le prend, il peut l'utiliser une fois de plus par jour.
 

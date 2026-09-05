@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#POUVOIRDERAGEPERTURBATEUR
 ---
 
->>> [pouvoirs de rage#POUVOIRDERAGEPERTURBATEUR](./Pouvoirs de rage.md#POUVOIRDERAGEPERTURBATEUR)
+>>> [[pouvoirs de rage#POUVOIRDERAGEPERTURBATEUR]]

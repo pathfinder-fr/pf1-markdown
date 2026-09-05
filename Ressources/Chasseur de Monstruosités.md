@@ -6,7 +6,7 @@ LastModified: 2022-08-08 19:58
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Tom_sgr*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 </div>
 
 
@@ -25,83 +25,83 @@ LastModified: 2022-08-08 19:58
 |- CLASS="premier"
 | 1
 | +1
-| CLASS="gauche" | [Voie du chasseur](./Chasseur de Monstruosités.md#ARTDUSANG), [Caractéristique principale](./Chasseur de Monstruosités.md#ECHOSDESANG),[Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#ARTDUSANG|Voie du chasseur]], [[Chasseur de Monstruosités#ECHOSDESANG|Caractéristique principale]],[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |- CLASS="alt"
 | 2
 | +1
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |-
 | 3
 | +1
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |- CLASS="alt"
 | 4
 | +1
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |-
 | 5
 | +1
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |- CLASS="alt"
 | 6
 | +2
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |-
 | 7
 | +2
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |- CLASS="alt"
 | 8
 | +2
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |-
 | 9
 | +2
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |- CLASS="alt"
 | 10
 | +2
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |-
 | 11
 | +3
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |- CLASS="alt"
 | 12
 | +3
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |-
 | 13
 | +3
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |- CLASS="alt"
 | 14
 | +3
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |-
 | 15
 | +3
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |- CLASS="alt"
 | 16
 | +4
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |-
 | 17
 | +4
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |- CLASS="alt"
 | 18
 | +4
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |-
 | 19
 | +4
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |- CLASS="alt"
 | 20
 | +4
-| CLASS="gauche" | [Capacité de monstre](./Chasseur de Monstruosités.md#CAPACITESAUCHOIX)
+| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
 |}
 </center>
 </td>
@@ -120,7 +120,7 @@ Les Echos de Sang sont réservés aux Chasseurs de Monstruosités. Cela compte c
 
 #### Voie du Chasseur
 
-L'Art du Sang permet au Chasseur de Monstruosités de maîtriser à la perfection les echos de sang pour lui permettre de se soigner. Ceci compte comme une compétence de classe unique utilisant les bonus d'[Art de la magie](./../Pathfinder-RPG/Art de la magie.md) et permet au Chasseur de créer un "cristal de Sang" qui va permettre de rendre ses pv perdus au Chasseur de Monstruosité. Le Cristal de Sang rend 1d6pv tous les deux niveaux (jusqu'à un maximum de 10d6 au niveau 20) +1 pv toutes les tranches de 100 echos de Sang rajoutés au prix de base (prix de base d'un cristal de sang étant de 500 echos de sang).
+L'Art du Sang permet au Chasseur de Monstruosités de maîtriser à la perfection les echos de sang pour lui permettre de se soigner. Ceci compte comme une compétence de classe unique utilisant les bonus d'[[Pathfinder-RPG.Art de la magie|Art de la magie]] et permet au Chasseur de créer un "cristal de Sang" qui va permettre de rendre ses pv perdus au Chasseur de Monstruosité. Le Cristal de Sang rend 1d6pv tous les deux niveaux (jusqu'à un maximum de 10d6 au niveau 20) +1 pv toutes les tranches de 100 echos de Sang rajoutés au prix de base (prix de base d'un cristal de sang étant de 500 echos de sang).
 
 {s:Reference|CAPACITESAUCHOIX}
 

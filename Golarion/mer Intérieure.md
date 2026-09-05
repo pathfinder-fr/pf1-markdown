@@ -4,4 +4,4 @@ Title: La mer Intérieure
 LastModified: 2010-06-10 14:26
 ---
 
-Voir [Géographie de Golarion](./Géographie.md#MERINTERIEURE)
+Voir [[Golarion.Géographie#MERINTERIEURE|Géographie de Golarion]]

@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Plaines|Tempéré}
 {s:BDTexte|*Source : Bonus Bestiary*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille M, NM}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) (12 cases) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, NM}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision dans le noir]] (12 cases) ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 12, pris au dépourvu 15 (Dex +2, naturelle +5)}
 {s:BDTexte|**pv** 51 (6d10+18)}
@@ -22,19 +22,19 @@ Categories:
 {s:BDTexte|**Capacités défensives** fusion dans les ombres }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +10 (1d6+6 et [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** morsure +10 (1d6+6 et [[croc-en-jambe]])}
 {s:BDTexte|**Attaques spéciales** hurlement}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 15, **Con** 17, **Int** 4, **Sag** 12, **Cha** 13}
 {s:BDTexte|**BBA** +6, **BMO** +10, **DMD** 22}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Science de l'initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +11, [Perception](./Perception.md) +10, [Survie](./Survie.md) +10}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +11, [[Perception]] +10, [[Survie]] +10}
 {s:BDTexte|**Langues** commun (ne peut pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou meute (5-8)}
 {s:BDTexte|**Trésor** valeur aucune}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Hurlement (Sur)** Lorsqu'un mastiff de l'ombre hurle ou aboie, toutes les créatures sauf les [extérieurs](./type Extérieur.md) [mauvais](./sous-type Mal.md) dans un rayon de 90 m (60 {s:c}) doivent réussir un jet de [Volonté](./Volonté.md) de DD 16 pour éviter d'être [paniquées](./Paniqué.md) pendant 2d4 rounds. C'est un effet de peur, mental et de son. Une créature qui réussit son [jet de sauvegarde](./jet de sauvegarde.md) ne peut plus être affectée par le hurlement du même mastiff pendant 24 heures. Le [DD](./DD.md) du jet de sauvegarde dépend du [Charisme](./Charisme.md) et inclut un bonus racial de +2.}
-{s:BDTexte|**Fusion dans les ombres (Sur)** Dans toutes les conditions d'illumination, excepté en plein jour, un mastiff de l'ombre disparaît dans les ombres, lui accordant un [camouflage](./camouflage.md) total. Une lumière artificielle, même un sort de *[lumière](./Lumière.md)* ou de *[flamme éternelle](./Flamme éternelle.md)*, n'annule pas cette capacité. Un sort de *[lumière du jour](./Lumière du jour.md)*, par contre, le peut. Un mastiff de l'ombre peut désactiver ou activer cette capacité par une [action libre](./Action libre.md).}
+{s:BDTexte|**Hurlement (Sur)** Lorsqu'un mastiff de l'ombre hurle ou aboie, toutes les créatures sauf les [[type extérieur|extérieurs]] [[sous-type Mal|mauvais]] dans un rayon de 90 m (60 {s:c}) doivent réussir un jet de [[Volonté]] de DD 16 pour éviter d'être [[paniqué|paniquées]] pendant 2d4 rounds. C'est un effet de peur, mental et de son. Une créature qui réussit son [[jet de sauvegarde]] ne peut plus être affectée par le hurlement du même mastiff pendant 24 heures. Le [[DD]] du jet de sauvegarde dépend du [[Charisme]] et inclut un bonus racial de +2.}
+{s:BDTexte|**Fusion dans les ombres (Sur)** Dans toutes les conditions d'illumination, excepté en plein jour, un mastiff de l'ombre disparaît dans les ombres, lui accordant un [[camouflage]] total. Une lumière artificielle, même un sort de *[[lumière]]* ou de *[[flamme éternelle]]*, n'annule pas cette capacité. Un sort de *[[lumière du jour]]*, par contre, le peut. Un mastiff de l'ombre peut désactiver ou activer cette capacité par une [[action libre]].}
 </div>

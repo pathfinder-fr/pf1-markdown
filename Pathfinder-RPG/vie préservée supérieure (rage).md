@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#VIEPRESERVEESUPERIEURE
 ---
 
->>> [Pouvoirs de rage#VIEPRESERVEESUPERIEURE](./Pouvoirs de rage.md#VIEPRESERVEESUPERIEURE)
+>>> [[Pouvoirs de rage#VIEPRESERVEESUPERIEURE]]

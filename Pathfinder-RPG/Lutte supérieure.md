@@ -9,14 +9,14 @@ Categories:
 
 *Pour le personnage, continuer à lutter est une seconde nature.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 13, [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [bonus de base à l’attaque](./BBA.md) +6.
+**Conditions.** [[Dextérité|Dex]] 13, [[Science de la lutte]], [[Science du combat à mains nues]], [[BBA|bonus de base à l’attaque]] +6.
 
-**Avantage.** Le personnage reçoit un bonus de +2 aux tests destinés à [agripper](./lutte.md) un adversaire. Ce bonus s’ajoute à celui de la [Science de la lutte](./Science de la lutte.md). Une fois que le personnage a [agrippé](./lutte.md) un adversaire, il lui suffit d’une [action de mouvement](./Action de mouvement.md) pour [maintenir sa prise](./lutte.md). Ce don permet au personnage de faire deux [tests de lutte](./lutte.md) par round (pour déplacer, blesser ou immobiliser son adversaire) mais il n’est pas obligé d’en faire deux. Il lui suffit d’en réussir un pour [maintenir sa prise](./lutte.md).
+**Avantage.** Le personnage reçoit un bonus de +2 aux tests destinés à [[lutte|agripper]] un adversaire. Ce bonus s’ajoute à celui de la [[Science de la lutte]]. Une fois que le personnage a [[lutte|agrippé]] un adversaire, il lui suffit d’une [[action de mouvement]] pour [[lutte|maintenir sa prise]]. Ce don permet au personnage de faire deux [[lutte|tests de lutte]] par round (pour déplacer, blesser ou immobiliser son adversaire) mais il n’est pas obligé d’en faire deux. Il lui suffit d’en réussir un pour [[lutte|maintenir sa prise]].
 
-**Normal.** [Maintenir sa prise](./lutte.md) est une [action simple](./Action simple.md).
+**Normal.** [[lutte|Maintenir sa prise]] est une [[action simple]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Une fois que le personnage a dépensé une [action de mouvement](./Action de mouvement.md) pour maintenir une [lutte](./lutte.md) avec succès, il peut dépenser 5 points d’endurance avant la fin de son tour pour la maintenir par une [action rapide](./Action rapide.md). Cela lui permet d’effectuer jusqu’à trois tests de lutte pour maintenir sa prise au cours du même [round](./round.md) mais il ne peut pas pour autant maintenir sa prise avant le round suivant celui pendant lequel il l’a initiée.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Une fois que le personnage a dépensé une [[action de mouvement]] pour maintenir une [[lutte]] avec succès, il peut dépenser 5 points d’endurance avant la fin de son tour pour la maintenir par une [[action rapide]]. Cela lui permet d’effectuer jusqu’à trois tests de lutte pour maintenir sa prise au cours du même [[round]] mais il ne peut pas pour autant maintenir sa prise avant le round suivant celui pendant lequel il l’a initiée.

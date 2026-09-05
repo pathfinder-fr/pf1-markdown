@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 50 po ; **Poids** 5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ce trampoline compact se démonte et s'enroule comme une tente pour faciliter le transport. L'installation ou le démontage du trampoline prend 1 minute. Quand deux créatures l'utilisent, le trampoline pliant confère un bonus de +5 à tous les tests d'[Acrobaties](./Acrobaties.md) pour sauter. Si une créature qui tombe atterrit sur le trampoline, elle ignore les dégâts des 3 premiers mètres de [chute](./Dangers naturels.md#CHUTE).
+Ce trampoline compact se démonte et s'enroule comme une tente pour faciliter le transport. L'installation ou le démontage du trampoline prend 1 minute. Quand deux créatures l'utilisent, le trampoline pliant confère un bonus de +5 à tous les tests d'[[Acrobaties]] pour sauter. Si une créature qui tombe atterrit sur le trampoline, elle ignore les dégâts des 3 premiers mètres de [[Dangers naturels#CHUTE|chute]].

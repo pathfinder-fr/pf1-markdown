@@ -10,7 +10,7 @@ LastModified: 2016-12-27 18:55
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 178*}
 - 2 400 PX
-- [Aberration](./type Aberration.md) de taille M, N
+- [[type aberration|Aberration]] de taille M, N
 - **Init **+5 ; Sens vision à 360°, vision dans le noir à 18 m ; Perception +10
 (((Défense)))
 - **CA **17, contact 11, pris au dépourvu 16 (Dex +1, naturelle +6)
@@ -25,8 +25,8 @@ LastModified: 2016-12-27 18:55
 (((Statistiques)))
 - **For **16, **Dex **12, **Con **19, **Int **5, **Sag **12, **Cha **10
 - **BBA **+6 ; **BMO **+9 (+13 en lutte) ; **DMD **20
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (morsure), [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Vol stationnaire](./Vol stationnaire.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Discrétion](./Discrétion.md) +7, [Perception](./Perception.md) +10, [Vol](./Vol.md) +5 
+- **Dons **[[Arme de prédilection]] (morsure), [[science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]], [[Vol stationnaire]], [[Volonté de fer]]
+- **Compétences **[[Discrétion]] +7, [[Perception]] +10, [[Vol]] +5 
 - **Langues** commun (ne sait pas parler) ; télépathie à 36 m (avec d’autres lunarmes uniquement)
 - **Particularités** ne respire pas 
 (((Écologie)))
@@ -48,6 +48,6 @@ Les lunarmes sont d’étranges créatures venues de l’espace et ressemblant �
 Dotée d’un système digestif et d’un système de reproduction efficaces, la lunarme peut, à elle seule, éliminer les habitants d’un village entier en engendrant plusieurs dizaines de rejetons qui se mettent à leur tour à la recherche de proies. Heureusement, une lunarme adulte ne vit qu’une seule année, période pendant laquelle elle cherche de la nourriture et des proies vivantes au sein desquelles pondre ses oeufs.
 Un oeuf de lunarme ressemble à un cocon dans lequel la larve se métamorphose en jeune lunarme et dont elle émerge lorsqu’elle sent de la nourriture à proximité. Elle peut rester ainsi dans son cocon pendant plusieurs siècles et, dans les étendues nordiques ainsi qu’à la surface de lunes froides et d’astéroïdes à la dérive, on a déjà trouvé des grappes d’oeufs enfermées dans des cavernes souterraines scellées par la glace, comme si elles avaient été placées là par une créature intelligente.
 
-Les lunarmes peuvent communiquer entre elles par télépathie, mais elles sont à peine intelligentes et leurs pensées sont relativement basiques. Elles ne développent aucune culture et leurs seuls désirs consistent à se nourrir et à se reproduire. En plus de ces deux instincts, elles semblent avoir développé une violente aversion pour les [flumphs](./Flumph.md), qu’elles attaquent à vue. Une lunarme adulte atteint presque 1,50 mètre d’envergure pour 200 kilogrammes
+Les lunarmes peuvent communiquer entre elles par télépathie, mais elles sont à peine intelligentes et leurs pensées sont relativement basiques. Elles ne développent aucune culture et leurs seuls désirs consistent à se nourrir et à se reproduire. En plus de ces deux instincts, elles semblent avoir développé une violente aversion pour les [[flumph|flumphs]], qu’elles attaquent à vue. Une lunarme adulte atteint presque 1,50 mètre d’envergure pour 200 kilogrammes
 
 </div></td></tr></table>

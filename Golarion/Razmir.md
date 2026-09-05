@@ -6,10 +6,10 @@ Categories:
 - Religion
 ---
 
-{s:Dieu|Razmir|%2fPCUP%2fReligion-PNG%2fRazmir.png|?|?|?|Razmiriens|Pas de pouvoirs divins|Aucun|Aucun} Razmir est le dirigeant du [Razmiran](./Razmiran.md) et s'est autoproclamé dieu. En 4661 AR, il apparut dans une partie des [Royaumes Fluviaux](./Royaumes fluviaux.md) prétendant qu'il avait été élevé au rang de dieu par la [Pierre-Étoile](./Pierre-Étoile.md).
-Bien qu'il n'ait aucun pouvoir divin, son incroyable puissance profane est une preuve suffisante de sa déité pour de nombreuses personnes. Sa puissante magie lui a permis de réduire en cendres, et en l'espace d'une nuit, la cité de [Melcat](./Melcat.md). De ce fait, peu sont enclin à remettre en cause son pouvoir immense.
-Cependant, il reste mortel et vieillit de jour en jour. Il cherche à acquérir des fioles d'élixir d'orchidées solaires de [Thuvie](./Thuvie.md) afin d'enrailler sa décrépitude ou du moins l'endiguer jusqu'à ce qu'il devienne vraiment immortel.
+{s:Dieu|Razmir|%2fPCUP%2fReligion-PNG%2fRazmir.png|?|?|?|Razmiriens|Pas de pouvoirs divins|Aucun|Aucun} Razmir est le dirigeant du [[Razmiran]] et s'est autoproclamé dieu. En 4661 AR, il apparut dans une partie des [[Royaumes Fluviaux]] prétendant qu'il avait été élevé au rang de dieu par la [[Pierre-Étoile]].
+Bien qu'il n'ait aucun pouvoir divin, son incroyable puissance profane est une preuve suffisante de sa déité pour de nombreuses personnes. Sa puissante magie lui a permis de réduire en cendres, et en l'espace d'une nuit, la cité de [[Melcat]]. De ce fait, peu sont enclin à remettre en cause son pouvoir immense.
+Cependant, il reste mortel et vieillit de jour en jour. Il cherche à acquérir des fioles d'élixir d'orchidées solaires de [[Thuvie]] afin d'enrailler sa décrépitude ou du moins l'endiguer jusqu'à ce qu'il devienne vraiment immortel.
 
 {s:VoirAussiAvant}
-- Le [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) parlent brièvement de ce dieu.
+- Le [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] parlent brièvement de ce dieu.
 {s:VoirAussiAprès}

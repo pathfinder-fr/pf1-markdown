@@ -7,13 +7,13 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Onguent de vieillesse|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 6 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Poids** —
+**Aura** [[Transmutation]] modérée ; **NLS** 6 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Poids** —
 (((Description)))
 À priori, ce produit ressemble à un onguent d’intemporalité mais, quand il entre en contact avec la peau d’une créature ou avec une matière autrefois vivante, il accélère son vieillissement. Les créatures vivantes vieillissent de 30 ans et les matériaux autrefois vivants (comme le bois, le papier ou les cadavres) tombent en poussière.
 
 Une flasque contient assez d’onguent pour affecter huit créatures ou objets de taille M ou moins. Une créature ou un objet de taille G comptent comme deux choses de taille M et les TG comptent comme quatre M.
 (((Objet magique prévu)))
-[onguent d'intemporalité](./Onguent dintemporalité.md)
+[[onguent dintemporalité|onguent d'intemporalité]]
 </div>

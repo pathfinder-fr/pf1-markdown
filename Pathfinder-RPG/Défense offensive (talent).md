@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#DEFENSEOFFENSIVE
 ---
 
->>> [Talents#DEFENSEOFFENSIVE](./Talents.md#DEFENSEOFFENSIVE)
+>>> [[Talents#DEFENSEOFFENSIVE]]

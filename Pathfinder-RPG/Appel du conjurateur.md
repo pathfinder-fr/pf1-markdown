@@ -10,6 +10,6 @@ Categories:
 
 {s:APG}*Chaque fois que le conjurateur appel son eidolon, il est plus puissant pendant un certain temps.*
 
-**Condition.** Aptitude de classe d’[eidolon](./eidolon.md).
+**Condition.** Aptitude de classe d’[[eidolon]].
 
-**Avantage.** Chaque fois que le personnage appelle son eidolon, il peut lui octroyer un bonus d’altération de +2 en [Force](./Force.md), [Dextérité](./Dextérité.md) ou [Constitution](./Constitution.md). Ce bonus persiste pendant 10 minutes après la fin du rituel de conjuration.
+**Avantage.** Chaque fois que le personnage appelle son eidolon, il peut lui octroyer un bonus d’altération de +2 en [[Force]], [[Dextérité]] ou [[Constitution]]. Ce bonus persiste pendant 10 minutes après la fin du rituel de conjuration.

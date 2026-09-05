@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#DEBOUT
 ---
 
->>> [Talents#DEBOUT](./Talents.md#DEBOUT)
+>>> [[Talents#DEBOUT]]

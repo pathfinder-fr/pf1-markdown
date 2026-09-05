@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ESPRITFUYANT
 ---
 
->>> [Talents#ESPRITFUYANT](./Talents.md#ESPRITFUYANT)
+>>> [[Talents#ESPRITFUYANT]]

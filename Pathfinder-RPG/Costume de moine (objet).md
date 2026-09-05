@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 1 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:AE}**Prix** 5 po ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 Cette tenue très simple comprend des sandales, un pantalon large et une ample chemise, ainsi que de larges ceintures pour maintenir l’ensemble. Ce costume est conçu pour donner au personnage une souplesse maximale et il est fait de tissus de très bonne qualité. On peut dissimuler de petites armes dans les poches qui sont cachées dans les plis et les ceintures sont suffisamment solides pour être utilisées comme de petites cordes.

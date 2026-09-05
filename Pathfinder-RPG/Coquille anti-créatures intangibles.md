@@ -12,12 +12,12 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Cham](./Chaman.md) 4, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4, [Spi](./Spirite.md) 4</br>
+{s:MCA}**École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4</br>
 **Temps d’incantation** 1 round</br>
-**Composantes** [V, G, FD](./composantes.md)</br>
+**Composantes** [[COMPOSANTES|V, G, FD]]</br>
 **Portée** 3 m</br>
 **Zone** émanation de 3 m de rayon centrée sur le lanceur</br>
-**Durée** 1 minute/[niveau](./niveau.md) (T)</br>
+**Durée** 1 minute/[[niveau]] (T)</br>
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage invoque un champ d’énergie hémisphérique mobile où les créatures intangibles ne peuvent pas pénétrer.

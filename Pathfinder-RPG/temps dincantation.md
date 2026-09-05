@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#TEMPSDINCANTATION
 ---
 
->>> [Présentation des sorts#TEMPSDINCANTATION](./Présentation des sorts.md#TEMPSDINCANTATION)
+>>> [[Présentation des sorts#TEMPSDINCANTATION]]

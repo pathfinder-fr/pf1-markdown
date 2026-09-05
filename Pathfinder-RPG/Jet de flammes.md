@@ -12,20 +12,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Magus](./Magus.md) 4, [San](./Sanguin.md) 4  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Sanguin|San]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une source de feu)  
+**Composantes** [[Composantes|V, G, M]] (une source de feu)  
 
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
 
 **Cible** une source de feu, jusqu'à 0,60 mètres cube  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) et [Réflexes](./Réflexes.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; voir texte ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] et [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; voir texte ; **Résistance à la magie** non
 
-*Jet de flammes* fait exploser un feu en un geyser de flamme liquide aveuglante. Le sort utilise une source de feu qui s'éteint automatiquement. Un feu de plus de 0,60 mètre cube ne s'éteindra qu'en partie. Les feux magiques ne s'éteignent pas, mais une créature de [sous-type feu](./sous-type Feu.md) utilisée comme source reçoit 1 point de dégâts par [niveau de lanceur de sorts](./NLS.md) (pas de [jet de sauvegarde](./jet de sauvegarde.md)).
+*Jet de flammes* fait exploser un feu en un geyser de flamme liquide aveuglante. Le sort utilise une source de feu qui s'éteint automatiquement. Un feu de plus de 0,60 mètre cube ne s'éteindra qu'en partie. Les feux magiques ne s'éteignent pas, mais une créature de [[sous-type feu]] utilisée comme source reçoit 1 point de dégâts par [[NLS|niveau de lanceur de sorts]] (pas de [[jet de sauvegarde]]).
 
-La pluie de feu lumineuse remplit un rayonnement hémisphérique de 18 mètres (12 {s:c}) de rayon. Toutes les créatures et les objets subissent 5d6 points de dégâts de feu et [prennent feu](./Dangers naturels.md#PRENDREFEU). Les créatures qui réussissent leur jet de [Réflexes](./Réflexes.md) ne subissent que la moitié des dégâts et ne s'enflamment pas. Les créatures qui se trouvent à 36 mètres (24 {s:c}) de la source de feu originelle sont [aveuglées](./Aveuglé.md) pendant 1d4+1 [rounds](./round.md) ([Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE)).
+La pluie de feu lumineuse remplit un rayonnement hémisphérique de 18 mètres (12 {s:c}) de rayon. Toutes les créatures et les objets subissent 5d6 points de dégâts de feu et [[Dangers naturels#PRENDREFEU|prennent feu]]. Les créatures qui réussissent leur jet de [[Réflexes]] ne subissent que la moitié des dégâts et ne s'enflamment pas. Les créatures qui se trouvent à 36 mètres (24 {s:c}) de la source de feu originelle sont [[aveuglé|aveuglées]] pendant 1d4+1 [[round|rounds]] ([[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]).

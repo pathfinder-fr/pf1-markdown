@@ -25,105 +25,105 @@ LastModified: 2018-02-16 07:56
 | +0
 | +0
 | +2
-| CLASS="gauche" | [influx](./façonneur.md#INFLUX), [Démiurges](./façonneur.md#DEMIURGES), [avantage du créateur](./façonneur.md#AVANTAGEDUCREATEUR), [art du façonneur](./façonneur.md#ARTDUFACONNEUR), [découverte de pièges](./façonneur.md#DECOUVERTEDEPIEGES), [écriture de parchemins](./façonneur.md#ECRITUREDEPARCHEMINS), [préparation de potions](./façonneur.md#PREPARATIONDEPOTION), [ingéniausité](./façonneur.md#INGENIAUSITE)
+| CLASS="gauche" | [[façonneur#INFLUX|influx]], [[façonneur#DEMIURGES|Démiurges]], [[façonneur#AVANTAGEDUCREATEUR|avantage du créateur]], [[façonneur#ARTDUFACONNEUR|art du façonneur]], [[façonneur#DECOUVERTEDEPIEGES|découverte de pièges]], [[façonneur#ECRITUREDEPARCHEMINS|écriture de parchemins]], [[façonneur#PREPARATIONDEPOTION|préparation de potions]], [[façonneur#INGENIAUSITE|ingéniausité]]
 |- CLASS="alt"
 | 2
 | +1
 | +0
 | +0
 | +3
-| CLASS="gauche" | [don supplémentaire](./façonneur.md#DONSUPPLEMENTAIRE), [artisan endurci](./façonneur.md#ARTISANENDURCI), [Déconstruction](./façonneur.md#DECONSTRUCTION)([inhibition](./façonneur.md#inhibition))
+| CLASS="gauche" | [[façonneur#DONSUPPLEMENTAIRE|don supplémentaire]], [[façonneur#ARTISANENDURCI|artisan endurci]], [[façonneur#DECONSTRUCTION|Déconstruction]]([[façonneur#inhibition|inhibition]])
 |-
 | 3
 | +2
 | +1
 | +1
 | +3
-| CLASS="gauche" | [création d'objets merveilleux](./façonneur.md#CREATIONOBJETSMERVEILLEUX),[création de baguettes magiques](./façonneur.md#CREATIONBAGUETTE), [raffinage d'objet](./façonneur.md#RAFFINAGE)([stockage de charge](./façonneur.md#stockagedecharge))
+| CLASS="gauche" | [[façonneur#CREATIONOBJETSMERVEILLEUX|création d'objets merveilleux]],[[façonneur#CREATIONBAGUETTE|création de baguettes magiques]], [[façonneur#RAFFINAGE|raffinage d'objet]]([[façonneur#stockagedecharge|stockage de charge]])
 |- CLASS="alt"
 | 4
 | +3
 | +1
 | +1
 | +4
-| CLASS="gauche" | [création d'homoncules](./façonneur.md#CREATIONHOMONCULE)
+| CLASS="gauche" | [[façonneur#CREATIONHOMONCULE|création d'homoncules]]
 |-
 | 5
 | +3
 | +1
 | +1
 | +4
-| CLASS="gauche" | [préservation d'essence](./façonneur.md#PRESERVATIONDESSENCE), [création d'armes et armures magiques](./façonneur.md#CREATIONARMEETARMURES), [Déconstruction](./façonneur.md#DECONSTRUCTION)([inhibition prolongée](./façonneur.md#inhibitionprolongee))
+| CLASS="gauche" | [[façonneur#PRESERVATIONDESSENCE|préservation d'essence]], [[façonneur#CREATIONARMEETARMURES|création d'armes et armures magiques]], [[façonneur#DECONSTRUCTION|Déconstruction]]([[façonneur#inhibitionprolongee|inhibition prolongée]])
 |- CLASS="alt"
 | 6
 | +4
 | +2
 | +2
 | +5
-| CLASS="gauche" | [don supplémentaire](./façonneur.md#DONSUPPLEMENTAIRE), [raffinage d'objet](./façonneur.md#RAFFINAGE)([potentiel métamagique](./façonneur.md#potentielmetamagique))
+| CLASS="gauche" | [[façonneur#DONSUPPLEMENTAIRE|don supplémentaire]], [[façonneur#RAFFINAGE|raffinage d'objet]]([[façonneur#potentielmetamagique|potentiel métamagique]])
 |-
 | 7
 | +5
 | +2
 | +2
 | +5
-| CLASS="gauche" | [création d'anneaux magiques](./façonneur.md#CREATIONANNEAUX)
+| CLASS="gauche" | [[façonneur#CREATIONANNEAUX|création d'anneaux magiques]]
 |- CLASS="alt"
 | 8
 | +6/+1
 | +2
 | +2
 | +6
-| CLASS="gauche" | [Déconstruction](./façonneur.md#DECONSTRUCTION)([dissipation](./façonneur.md#dissipation))
+| CLASS="gauche" | [[façonneur#DECONSTRUCTION|Déconstruction]]([[façonneur#dissipation|dissipation]])
 |-
 | 9
 | +6/+1
 | +3
 | +3
 | +6
-| CLASS="gauche" | [création de sceptres magiques](./façonneur.md#CREATIONSCEPTRE), [raffinage d'objet](./façonneur.md#RAFFINAGE)([activation concentrée](./façonneur.md#activationconcentree))
+| CLASS="gauche" | [[façonneur#CREATIONSCEPTRE|création de sceptres magiques]], [[façonneur#RAFFINAGE|raffinage d'objet]]([[façonneur#activationconcentree|activation concentrée]])
 |- CLASS="alt"
 | 10
 | +7/+2
 | +3
 | +3
 | +7
-| CLASS="gauche" | [don supplémentaire](./façonneur.md#DONSUPPLEMENTAIRE)
+| CLASS="gauche" | [[façonneur#DONSUPPLEMENTAIRE|don supplémentaire]]
 |-
 | 11
 | +8/+3
 | +3
 | +3
 | +7
-| CLASS="gauche" | [création de bâtons magiques](./façonneur.md#CREATIONBATON), [Déconstruction](./façonneur.md#DECONSTRUCTION)([dissipation suprême](./façonneur.md#dissipationsupreme))
+| CLASS="gauche" | [[façonneur#CREATIONBATON|création de bâtons magiques]], [[façonneur#DECONSTRUCTION|Déconstruction]]([[façonneur#dissipationsupreme|dissipation suprême]])
 |- CLASS="alt"
 | 12
 | +9/+4
 | +4
 | +4
 | +8
-| CLASS="gauche" | [raffinage d'objet](./façonneur.md#RAFFINAGE)([fin d'incantation métamagique](./façonneur.md#findincantationmetamagique))
+| CLASS="gauche" | [[façonneur#RAFFINAGE|raffinage d'objet]]([[façonneur#findincantationmetamagique|fin d'incantation métamagique]])
 |-
 | 13
 | +9/+4
 | +4
 | +4
 | +8
-| CLASS="gauche" | [maîtrise des compétences](./façonneur.md#MAITRISEDESCOMPETENCES)
+| CLASS="gauche" | [[façonneur#MAITRISEDESCOMPETENCES|maîtrise des compétences]]
 |- CLASS="alt"
 | 14
 | +10/+5
 | +4
 | +4
 | +9
-| CLASS="gauche" | [don supplémentaire](./façonneur.md#DONSUPPLEMENTAIRE), [Déconstruction](./façonneur.md#DECONSTRUCTION)([dissipation de zone](./façonneur.md#dissipationdezone))
+| CLASS="gauche" | [[façonneur#DONSUPPLEMENTAIRE|don supplémentaire]], [[façonneur#DECONSTRUCTION|Déconstruction]]([[façonneur#dissipationdezone|dissipation de zone]])
 |-
 | 15
 | +11/+6/+1
 | +5
 | +5
 | +9
-| CLASS="gauche" | [raffinage d'objet](./façonneur.md#RAFFINAGE)([recharge](./façonneur.md#recharge), [redesign](./façonneur.md#redesign))
+| CLASS="gauche" | [[façonneur#RAFFINAGE|raffinage d'objet]]([[façonneur#recharge|recharge]], [[façonneur#redesign|redesign]])
 |- CLASS="alt"
 | 16
 | +12/+7/+2
@@ -137,28 +137,28 @@ LastModified: 2018-02-16 07:56
 | +5
 | +5
 | +10
-| CLASS="gauche" | [Déconstruction](./façonneur.md#DECONSTRUCTION)([disjonction](./façonneur.md#disjonction))
+| CLASS="gauche" | [[façonneur#DECONSTRUCTION|Déconstruction]]([[façonneur#disjonction|disjonction]])
 |- CLASS="alt"
 | 18
 | +13/+8/+3
 | +6
 | +6
 | +11
-| CLASS="gauche" | [don supplémentaire](./façonneur.md#DONSUPPLEMENTAIRE), [raffinage d'objet](./façonneur.md#RAFFINAGE)([duplication](./façonneur.md#duplication))
+| CLASS="gauche" | [[façonneur#DONSUPPLEMENTAIRE|don supplémentaire]], [[façonneur#RAFFINAGE|raffinage d'objet]]([[façonneur#duplication|duplication]])
 |-
 | 19
 | +14/+9/+4
 | +6
 | +6
 | +11
-| CLASS="gauche" | [maître façonneur](./façonneur.md#MAITREFACONNEUR)
+| CLASS="gauche" | [[façonneur#MAITREFACONNEUR|maître façonneur]]
 |- CLASS="alt"
 | 20
 | +15/+10/+5
 | +6
 | +6
 | +12
-| CLASS="gauche" | [science du maître façonneur](./façonneur.md#SCIENCEDUMAITREFACONNEUR)
+| CLASS="gauche" | [[façonneur#SCIENCEDUMAITREFACONNEUR|science du maître façonneur]]
 |}
 </center>
 </td>
@@ -173,16 +173,16 @@ LastModified: 2018-02-16 07:56
 **Dés de vie.** d8.
 
 ### Compétences de classe
-Les compétences de classe du barbare sont les suivantes : [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) (Int), [Artisanat](./../Pathfinder-RPG/Artisanat.md) (Int), [Connaissances](./../Pathfinder-RPG/Connaissances.md) (Ingénierie, Mystères, Plans, Religion,Psionique) (int), [Estimation](./../Pathfinder-RPG/Estimation.md) (Int), [Linguistique](./../Pathfinder-RPG/Linguistique.md) (Int), [Perception](./../Pathfinder-RPG/Perception.md) (Sag), [Profession](./../Pathfinder-RPG/Profession.md) (Sag), [Sabotage](./../Pathfinder-RPG/Sabotage.md) (Dex), [Utilisation d’objets magiques](./Utilisation-d’objets-magiques.md) (Cha) et [Vol](./../Pathfinder-RPG/Vol.md) (Dex).
+Les compétences de classe du barbare sont les suivantes : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (Ingénierie, Mystères, Plans, Religion,Psionique) (int), [[Estimation]] (Int), [[Linguistique]] (Int), [[Perception]] (Sag), [[Profession]] (Sag), [[Sabotage]] (Dex), [[Utilisation d’objets magiques]] (Cha) et [[Vol]] (Dex).
 
-**Points de compétence par niveau.** 4 + modificateur d’[Intelligence](./../Pathfinder-RPG/Intelligence.md).
+**Points de compétence par niveau.** 4 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
 Les aptitudes du façonneur sont décrites ci-dessous.
 
 #### Armes et armures
 
-Le façonneur est formé au maniement des [armes courantes](./../Pathfinder-RPG/arme courante.md), de toutes les arbalètes et armes à feu (si permises dans l’univers), ainsi qu’au port des [armures légères](./../Pathfinder-RPG/armure légère.md) et [intermédiaires](./../Pathfinder-RPG/armure intermédiaire.md). Il sait utiliser les [boucliers](./../Pathfinder-RPG/Tableau récapitulatif des armures.md#BOUCLIERS) (excepté des [pavois](./../Pathfinder-RPG/Descriptions individuelles des armures.md#Pavois)).
+Le façonneur est formé au maniement des [[arme courante|armes courantes]], de toutes les arbalètes et armes à feu (si permises dans l’univers), ainsi qu’au port des [[armure légère|armures légères]] et [[armure intermédiaire|intermédiaires]]. Il sait utiliser les [[Tableau récapitulatif des armures#BOUCLIERS|boucliers]] (excepté des [[Descriptions individuelles des armures#Pavois|pavois]]).
 
 {s:Reference|INFLUX}
 #### Influx
@@ -198,12 +198,12 @@ Pour pouvoir utiliser ses influx, un façonneur doit se reposer 8h puis se conce
 {s:Reference|AVANTAGEDUCREATEUR}
 #### Avantage du créateur
 
-Un façonneur bénéficie d’un bonus égal à la moitié de son niveau (minimum +1) aux tests d’[Utilisation d’objets magiques](./Utilisation-d’objets-magiques.md) .
+Un façonneur bénéficie d’un bonus égal à la moitié de son niveau (minimum +1) aux tests d’[[Utilisation d’objets magiques]] .
 
 {s:Reference|DECOUVERTEDEPIEGES}
 #### Découverte de pièges.
 
-Un façonneur ajoute la moitié de son niveau (minimum +1) aux tests de [Perception](./../Pathfinder-RPG/Perception.md) destinés à repérer des pièges ainsi qu’aux tests de Sabotage.
+Un façonneur ajoute la moitié de son niveau (minimum +1) aux tests de [[Perception]] destinés à repérer des pièges ainsi qu’aux tests de Sabotage.
 Un façonneur peut désarmer les pièges magiques.
 
 {s:Reference|DEMIURGES}

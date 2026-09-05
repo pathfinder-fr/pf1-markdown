@@ -14,32 +14,32 @@ Categories:
 {s:pucem|Aberration|Aquatique|Tempéré}
 - *Source : Bestiaire 2* p.155
 - **PX** 400
-- [Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille P, CN
-- **Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6
+- [[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille P, CN
+- **Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +6
 (((Défense)))
 - **CA** 14, contact 12, pris au dépourvu 13 (Dex +1, naturelle +2, taille +1)
 - **pv** 13 (2d8+4)
 - **Réf** +1, **Vig** +2, **Vol** +4
-- **Capacités défensives** [férocité](./Férocité.md) ; **Résistances** froid 5
+- **Capacités défensives** [[férocité]] ; **Résistances** froid 5
 (((Attaque)))
 - **VD** 1,50 m (1 {s:c}), nage 12 m (8 {s:c})
 - **Corps à corps** 2 griffes, +2 (1d4 plus étreinte et poison)
-- **Attaques spéciales** [constriction](./constriction.md) (1d4), frénésie meurtrière
+- **Attaques spéciales** [[constriction]] (1d4), frénésie meurtrière
 (((Caractéristiques)))
 - **For** 10, **Dex** 13, **Con** 14, **Int** 5, **Sag** 12, **Cha** 13
-- **BBA** +1, **BMO** +0 (+8 [lutte](./lutte.md)), **DMD** 11 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Natation](./Natation.md) +8, [Perception](./Perception.md) +6
+- **BBA** +1, **BMO** +0 (+8 [[lutte]]), **DMD** 11 ([[croc-en-jambe]] impossible)
+- **Dons** [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Natation]] +8, [[Perception]] +6
 - **Langues** commun (incapable de parler)
-- **Particularités** [amphibie](./Amphibie.md)
+- **Particularités** [[amphibie]]
 (((Écologie)))
 - **Environnement** milieu aquatique (près des côtes)
 - **Organisation sociale** solitaire, banc (2–5) ou harem (6–11)
 - **Trésor** aucun
 (((Capacités spéciales)))
-- **Étreinte (Ext).** Une griffe du récif peut utiliser sa capacité d’[étreinte](./Étreinte.md) contre n’importe quelle cible, quelle que soit sa taille. Les griffes du récif bénéficient d’un bonus racial de +8 aux tests de [lutte](./lutte.md) (ce bonus remplace le bonus normal de +4 que les créatures dotées de la capacité d’[étreinte](./Étreinte.md) reçoivent).
+- **Étreinte (Ext).** Une griffe du récif peut utiliser sa capacité d’[[étreinte]] contre n’importe quelle cible, quelle que soit sa taille. Les griffes du récif bénéficient d’un bonus racial de +8 aux tests de [[lutte]] (ce bonus remplace le bonus normal de +4 que les créatures dotées de la capacité d’[[étreinte]] reçoivent).
 - **Frénésie meurtrière (Sur).** Quand une griffe du récif est tuée, son corps est agité de spasmes terrifiants. Au moment même de sa mort, la griffe du récif effectue une attaque à outrance contre une créature située dans la zone qu’elle contrôle. Si plus d’une créature s’y trouve, déterminez aléatoirement la cible de chacune des attaques (il peut aussi s’agir d’une autre griffe du récif ).
-- **Poison (Ext).** Griffe — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ; *fréquence* 1/round pendant 4 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [For](./Force.md) ; *guérison* 1 réussite. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).
+- **Poison (Ext).** Griffe — blessure ; *JdS* [[Vigueur]] [[DD]] 13 ; *fréquence* 1/round pendant 4 rounds ; *effet* [[affaiblissement temporaire]] 1d2 [[Force|For]] ; *guérison* 1 réussite. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].
 
 </div>
 </td><td><div>*Des piquants rouge-sang ornent toute la longueur de cette créature terrifiante qui ressemble à un homard à l’avant et à une anguille à l’arrière.*

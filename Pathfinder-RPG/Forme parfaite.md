@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [alchimiste](./Alchimiste.md) 4, [barde](./Barde.md) 4, [conjurateur](./Conjurateur.md) 4, [druide](./Druide.md) 4, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 4, [magus](./Magus.md) 4, [prêtre](./Prêtre.md) 4  
+**École** [[Transmutation]] ; **Niveau** [[alchimiste]] 4, [[barde]] 4, [[conjurateur]] 4, [[druide]] 4, [[ensorceleur]]/[[magicien]] 4, [[magus]] 4, [[prêtre]] 4  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
 
-**Restriction de cible** *[choisi](./Choisi.md)*, *[personnel](./Personnel (mot de pouvoir).md)*
+**Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
-La cible d’un sort incluant cet effet bénéficie d’un bonus d’altération de +4 à la [Force](./Force.md), la [Dextérité](./Dextérité.md) et la [Constitution](./Constitution.md).
+La cible d’un sort incluant cet effet bénéficie d’un bonus d’altération de +4 à la [[Force]], la [[Dextérité]] et la [[Constitution]].

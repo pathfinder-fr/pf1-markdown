@@ -8,4 +8,4 @@ Categories:
 RedirectTo: guerrier#ENTRAINEMENTAUXARMURES
 ---
 
->>> [guerrier#ENTRAINEMENTAUXARMURES](./Guerrier.md#ENTRAINEMENTAUXARMURES)
+>>> [[guerrier#ENTRAINEMENTAUXARMURES]]

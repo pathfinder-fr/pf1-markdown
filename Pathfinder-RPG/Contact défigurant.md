@@ -17,19 +17,19 @@ Categories:
 - Src Livre des damnés
 ---
 
-{s:UM}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[malédiction](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2, [Spi](./Spirite.md) 2  
+{s:UM}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 1 jour/[niveau](./niveau.md)  
+**Durée** 1 jour/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 D’un contact, le personnage applique une douloureuse malédiction à la cible qui est hideusement défigurée. L’apparence
 physique de cette difformité est soumise aux caprices du lanceur de sorts (la plupart des adorateurs de démons choisissent des difformités qui reflètent la forme ou l’apparence de leur protecteur abyssal). La cible reçoit l’un des malus suivants.  
@@ -46,4 +46,4 @@ Vous pouvez inventer d’autres effets mais ils ne doivent pas être plus puissa
 {s:CMy}
 La cible subit deux malus différents (choisis dans la même liste) au lieu d’un seul.
 
-**[Amplifié](./Amplifié.md).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), la cible est également fatiguée à cause de la douloureuse défiguration. Si cette fatigue est dissipée sans lever la malédiction, elle réapparaît au bout d’une heure.
+**[[Amplifié]].** Si le personnage dépense deux utilisations de [[pouvoir mythique]], la cible est également fatiguée à cause de la douloureuse défiguration. Si cette fatigue est dissipée sans lever la malédiction, elle réapparaît au bout d’une heure.

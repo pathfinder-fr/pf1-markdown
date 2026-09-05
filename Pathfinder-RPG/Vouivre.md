@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Dragon|Collines|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.284}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Dragon](./type Dragon.md) de taille G, N}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +18}
+{s:BDTexte|[[type Dragon|Dragon]] de taille G, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +18}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 10, pris au dépourvu 18 (Dex +1, naturelle +9, taille -1)}
 {s:BDTexte|**pv** 73 (7d12+28)}
@@ -22,21 +22,21 @@ Categories:
 {s:BDTexte|**Immunités** paralysie, sommeil}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), vol 18 m (12 {s:c}) (médiocre)}
-{s:BDTexte|**Corps à corps** dard +10 (1d6+4 et poison), morsure +10 (2d6+4 et [étreinte](./Étreinte.md)), 2 ailes +5 (1d6+2)}
+{s:BDTexte|**Corps à corps** dard +10 (1d6+4 et poison), morsure +10 (2d6+4 et [[étreinte]]), 2 ailes +5 (1d6+2)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [pattes arrière](./Pattes arrière.md) (2 serres +10, 1d6+4)}
+{s:BDTexte|**Attaques spéciales** [[pattes arrière]] (2 serres +10, 1d6+4)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 12, **Con** 18, **Int** 7, **Sag** 12, **Cha** 9}
 {s:BDTexte|**BBA** +7, **BMO** +12 (+16 pour la lutte), **DMD** 23}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +7, [Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +11, [Vol](./Vol.md) +5 ; **Modificateurs raciaux** [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +7, [[Perception]] +18, [[Psychologie]] +11, [[Vol]] +5 ; **Modificateurs raciaux** [[Perception]] +4}
 {s:BDTexte|**Langues** draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines chaudes ou tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou vol (3-6)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Poison (Ext)** Dard - Blessure ; *JS* Vigueur DD 17 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 Con ; *guérison* 2 JdS réussis consécutivement. Le DD dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Poison (Ext)** Dard - Blessure ; *JS* Vigueur DD 17 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d4 Con ; *guérison* 2 JdS réussis consécutivement. Le DD dépend de la [[Constitution]].}
 </div>
 
 

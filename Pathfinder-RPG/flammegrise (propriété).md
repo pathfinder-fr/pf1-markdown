@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Flammegrise
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Flammegrise](./Descriptions individuelles des propriétés spéciales des armes.md#Flammegrise)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Flammegrise]]

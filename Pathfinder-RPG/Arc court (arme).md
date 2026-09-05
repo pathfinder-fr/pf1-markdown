@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 30 po ; **Poids** 1 kg ; **Groupes** [arcs](./groupe darmes.md#Arcs)
+{s:AE}**Prix** 30 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Arcs|arcs]]
 **Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×3 ; **Portée** 18 m (12 c) ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme à distance](./arme à distance.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à distance]]</span>
 ---
-L’arc court est fait d’une seule pièce de bois d’environ 90 centimètres. Le personnage doit utiliser ses deux mains pour manier un arc, quelle que soit sa taille. Il peut utiliser l’arc court alors qu’il est en selle. S’il a un malus à cause d’une faible valeur de Force, il l’applique aux [jets de dégâts](./Valeurs de combat.md#DEGATS) de l’arc court. S’il a un bonus grâce à une valeur de Force élevé, il peut l’appliquer aux jets de dégâts d’un [arc court composite](./arc court composite (arme).md), mais pas d’un arc court standard. L’arc court tire des [flèches](./Flèches (arme).md).
+L’arc court est fait d’une seule pièce de bois d’environ 90 centimètres. Le personnage doit utiliser ses deux mains pour manier un arc, quelle que soit sa taille. Il peut utiliser l’arc court alors qu’il est en selle. S’il a un malus à cause d’une faible valeur de Force, il l’applique aux [[Valeurs de combat#DEGATS|jets de dégâts]] de l’arc court. S’il a un bonus grâce à une valeur de Force élevé, il peut l’appliquer aux jets de dégâts d’un [[arc court composite (arme)|arc court composite]], mais pas d’un arc court standard. L’arc court tire des [[flèches (arme)|flèches]].

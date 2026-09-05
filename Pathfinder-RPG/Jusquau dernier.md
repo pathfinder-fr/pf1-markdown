@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISG}*Votre dévotion envers la guerre vous incite à combattre vaillamment jusqu'à ce que la mort vous rappelle à elle.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), suivant de [Gorum](./Gorum (technique).md)
+**Conditions.** [[Dur à cuire]], [[Endurance]], suivant de [[Gorum (technique)|Gorum]]
 
-**Avantage.** Lorsqu'il est [hors de combat](./Hors de combat.md), le personnage n'est pas [chancelant](./Chancelant.md), bien qu'effectuer une [action simple](./Action simple.md) lui inflige toujours 1 point de dégâts. Effectuer une [action complexe](./Action complexe.md) dans ces conditions inflige 2 points de dégâts au personnage.
+**Avantage.** Lorsqu'il est [[hors de combat]], le personnage n'est pas [[chancelant]], bien qu'effectuer une [[action simple]] lui inflige toujours 1 point de dégâts. Effectuer une [[action complexe]] dans ces conditions inflige 2 points de dégâts au personnage.

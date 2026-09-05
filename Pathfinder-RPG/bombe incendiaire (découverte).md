@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEINCENDIAIRE
 ---
 
->>> [découvertes#BOMBEINCENDIAIRE](./découvertes.md#BOMBEINCENDIAIRE)
+>>> [[découvertes#BOMBEINCENDIAIRE]]

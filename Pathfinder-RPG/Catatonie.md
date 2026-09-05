@@ -16,13 +16,13 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Nécromancie](./Nécromancie.md) ; **Niveau** [Alch](./Alchimiste.md) 2, [Bard](./Barde.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Hyp](./Hypnotiseur.md) 2, [Méd](./Médium.md) 2, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 2  
+{s:AO}** École **[[Nécromancie]] ; **Niveau** [[alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 3, [[hypnotiseur|Hyp]] 2, [[médium|Méd]] 2, [[prêtre|Prê]] 3, [[psychiste|Psy]] 3, [[sorcière|Sor]] 3, [[spirite|Spi]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [G](./composantes.md)  
+**Composantes** [[composantes|G]]  
 
-**Portée** [contact](./courte.md)  
+**Portée** [[courte|contact]]  
 
 **Cible** créature consentante touchée  
 
@@ -30,7 +30,7 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Le personnage touche la cible et la plonge dans un état semblable à la mort pendant toute la durée du sort. La cible semble morte et toutes les créatures qui interagissent avec elle doivent réussir un test de [Premiers secours](./Premiers secours.md) DD 20 pour se rendre compte qu’elle est vivante.
+Le personnage touche la cible et la plonge dans un état semblable à la mort pendant toute la durée du sort. La cible semble morte et toutes les créatures qui interagissent avec elle doivent réussir un test de [[Premiers secours]] DD 20 pour se rendre compte qu’elle est vivante.
 
 Tant que le sort agit, la cible est considérée comme morte vis-à-vis des effets visant les créatures vivantes seulement mais elle ne compte pas comme un mort-vivant. La cible est sans défense et l’on peut la tuer normalement.
 

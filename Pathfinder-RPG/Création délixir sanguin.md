@@ -10,9 +10,9 @@ Categories:
 
 {s:um}*Le personnage peut condenser une partie de son pouvoir dans ce puissant élixir. *
 
-**Conditions.** [Cha](./Cha.md) 15, [Préparation de potions](./Préparation de potions.md), 12 rangs en [Artisanat](./Artisanat.md) (alchimie), [ensorceleur](./Ensorceleur.md) 3
+**Conditions.** [[Cha]] 15, [[Préparation de potions]], 12 rangs en [[Artisanat]] (alchimie), [[ensorceleur]] 3
 
-**Avantage.** Une fois par jour, le personnage peut préparer un élixir sanguin quand il vide son esprit pour renouveler ses emplacements de sort disponibles. À ce moment, il choisit un de ses pouvoirs de [lignage](./Lignages.md) qu’il transfère dans une petite potion que n’importe quelle créature peut boire pour bénéficier temporairement de ce pouvoir de lignage.
+**Avantage.** Une fois par jour, le personnage peut préparer un élixir sanguin quand il vide son esprit pour renouveler ses emplacements de sort disponibles. À ce moment, il choisit un de ses pouvoirs de [[lignages|lignage]] qu’il transfère dans une petite potion que n’importe quelle créature peut boire pour bénéficier temporairement de ce pouvoir de lignage.
 
 Le personnage doit consacrer une heure à la préparation de l’élixir. Il a besoin d’huiles et de distillats spéciaux (d’une valeur de 100 po). Quand il prépare l’élixir, il perd accès à son pouvoir de lignage jusqu’à ce qu’il vide de nouveau son esprit pour renouveler ses emplacements de sort.
 

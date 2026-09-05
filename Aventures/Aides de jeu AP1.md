@@ -4,7 +4,7 @@ Title: L'Éveil des Seigneurs des Runes
 LastModified: 2022-10-19 14:16
 ---
 
-Vous trouverez la présentation de cette campagne sur [cette page](./Présentation AP1.md).
+Vous trouverez la présentation de cette campagne sur [[Présentation AP1|cette page]].
 
 <nav class="wiki-toc"></nav>
 
@@ -12,9 +12,9 @@ Vous trouverez la présentation de cette campagne sur [cette page](./Présentati
 
 En plus des aides de jeu présentées ici, d'autres pages de ce wiki contiennent également des documents qui peuvent être intéressants pour les MJ.
 
-- La page des [illustrations de Pointesable](./Golarion-Illustrations-Pointesable.md) contient plusieurs liens vers des cartes ou des battlemaps représentant certains endroits de Pointesable.
-- La page des [aides de jeu sur Golarion](./../Golarion/Aides de jeu.md) présente plusieurs rapports d'éclaireurs traitant de Pointesable, ainsi qu'une police de caractères imitant les glyphes thassiloniens.
-- Un nouveau regard sur l'histoire du Thassilon, des idées de campagne, une étude des runes thassiloniennes et une nouvelle classe, le runethane dans [un document PDF](./../Golarion/Aides de jeu.md#RUNES).
+- La page des [[Golarion.Illustrations Pointesable|illustrations de Pointesable]] contient plusieurs liens vers des cartes ou des battlemaps représentant certains endroits de Pointesable.
+- La page des [[Golarion.Aides de jeu|aides de jeu sur Golarion]] présente plusieurs rapports d'éclaireurs traitant de Pointesable, ainsi qu'une police de caractères imitant les glyphes thassiloniens.
+- Un nouveau regard sur l'histoire du Thassilon, des idées de campagne, une étude des runes thassiloniennes et une nouvelle classe, le runethane dans [[Golarion.Aides de jeu#RUNES|un document PDF]].
 
 
 ### Aides pour Les Offrandes Calcinées / Burnt Offerings
@@ -42,7 +42,7 @@ En plus des aides de jeu présentées ici, d'autres pages de ce wiki contiennent
 </tr>
 <tr STYLE="vertical-align: top;">
 <td>{s:ADJ|PLANSCATA|Plans de Pic-Chardon|%2fADJ%2fAventures%2fPlanDecoupeMini.jpg|%2fADJ%2fAventures%2fPlanPicChardon.pdf|Des plans à découper pour le pic du Chardon, nouvelle version du 25 avril 2010 (fichier PDF)|Mériadec|none}</td>
-<td>{s:ADJExt|CONVERSION1|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20Pathfinder%201.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([page wiki](./Conversion Pathfinder 1.md))|Feuxfollets et Orion|none}</td>
+<td>{s:ADJExt|CONVERSION1|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20Pathfinder%201.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([[Conversion Pathfinder 1|page wiki]])|Feuxfollets et Orion|none}</td>
 <td>{s:ADJ|PLANSSP|Plans de Pointesable|%2fADJ%2fAventures%2fPlansSPMini.jpg|%2fADJ%2fAventures%2fPlansSP.zip|Deux plans de Sandpoint, un avec une légende et un autre en version vieillie (fichier ZIP)|Orion|none}</td>
 <td>{s:ADJ|PSAPERCU|Aperçu de Pointesable|%2fADJ%2fAventures%2fadjPointesable.jpg|%2fADJ%2fAventures%2fPointesable.pdf|Aperçu de Pointesable(fichier PDF)|Wheldrake|none}</td>
 </tr>
@@ -52,7 +52,7 @@ En plus des aides de jeu présentées ici, d'autres pages de ce wiki contiennent
 </table>
 
 Voir aussi :
-- La page sur [Pointesable/Sandpoint](./../Golarion/Pointesable.md) du wiki Golarion.
+- La page sur [[Golarion.Pointesable|Pointesable/Sandpoint]] du wiki Golarion.
 
 Ainsi quelques liens :
 
@@ -64,7 +64,7 @@ Ainsi quelques liens :
 {s:ADJStart}
 <tr STYLE="vertical-align: top;">
 <td>{s:ADJ|COMPAGNON2|Compagnon de route #2|%2fADJ%2fAventures%2fCompagnon2Mini.jpg|%2fADJ%2fAventures%2fCompagnon2.pdf|**(Version 1.5)** Une compilation d'aides de jeu et de traductions pour les MJ jouant les Meurtres des Écorcheurs (fichier PDF)|Dalvyn|none}</td>
-<td>{s:ADJExt|CONVERSION2|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20Pathfinder%202.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([page wiki](./Conversion Pathfinder 2.md))|Mériadec et Dalvyn|none}</td>
+<td>{s:ADJExt|CONVERSION2|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20Pathfinder%202.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([[Conversion Pathfinder 2|page wiki]])|Mériadec et Dalvyn|none}</td>
 <td>{s:ADJ|PLANSAP2|Plans à découper (1/2)|%2fADJ%2fAventures%2fPlanDecoupeMini.jpg|%2fADJ%2fAventures%2fPlansAP2a.pdf|Des plans à découper pour les Meurtres des Écorcheurs, première partie : De Pointesable au manoir Ganrenard (fichier PDF)|Mériadec|none}</td>
 <td>{s:ADJ|PLANSAP2b|Plans à découper (2/2)|%2fADJ%2fAventures%2fPlanDecoupeMini.jpg|%2fADJ%2fAventures%2fPlansAP2b.pdf|Des plans à découper pour les Meurtres des Écorcheurs, seconde partie : A Magnimar (fichier PDF)|Mériadec|none}</td>
 </tr>
@@ -84,8 +84,8 @@ Ainsi quelques liens :
 
 Voir aussi :
 
-- La page sur [Magnimar](./../Golarion/Magnimar.md) dans le wiki Golarion.
-- Les cartes corrigées de Magnimar sur la page des [aides de jeu](./../Golarion/Aides de jeu.md) du wiki Golarion.
+- La page sur [[Golarion.Magnimar|Magnimar]] dans le wiki Golarion.
+- Les cartes corrigées de Magnimar sur la page des [[Golarion.Aides de jeu|aides de jeu]] du wiki Golarion.
 
 
 ### Aides pour Le Massacre de la montagne Crochue / The Hook Mountain
@@ -94,7 +94,7 @@ Voir aussi :
 <tr STYLE="vertical-align: top;">
 <td>{s:ADJ|COMPAGNON3|Compagnon de route #3|%2fADJ%2fAventures%2fCompagnon3Mini.jpg|%2fADJ%2fAventures%2fCompagnon3.pdf|**(Version 1.4)** Une compilation d'aides de jeu et de traductions pour les MJ jouant le Massacre de la montagne Crochue (fichier PDF)|Dalvyn|none}</td>
 <td>{s:ADJ|CRANECRISTAL|Le crâne de cristal|%2fADJ%2fAventures%2fPF3-craneMini.jpg|%2fADJ%2fAventures%2fPF3-crane.pdf|Un objet magique thassilonnien qui devrait permettre à vos PJ de se déplacer plus facilement d'un coin à l'autre de la Varisie (fichier PDF)|Dalvyn|none}</td>
-<td>{s:ADJExt|CONVERSION3|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20Pathfinder%203.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([page wiki](./Conversion Pathfinder 3.md))|Styx31, Eretas et Anastos|none}</td>
+<td>{s:ADJExt|CONVERSION3|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20Pathfinder%203.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([[Conversion Pathfinder 3|page wiki]])|Styx31, Eretas et Anastos|none}</td>
 <td>{s:ADJ|PLANSAP3|Plans à découper (1/3)|%2fADJ%2fAventures%2fPlanDecoupeMini.jpg|%2fADJ%2fAventures%2fPlansAP3a.pdf|Des plans à découper pour la ferme des Graul et fort Rannick (fichier PDF)|Madrek|none}</td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ Voir aussi :
 
 {s:ADJStart}
 <tr STYLE="vertical-align: top;">
-<td>{s:ADJExt|CONVERSION4|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Conversion%20Pathfinder%204.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([page wiki](./Conversion Pathfinder 4.md))|Anastos|none}</td>
+<td>{s:ADJExt|CONVERSION4|Conversion pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Conversion%20Pathfinder%204.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([[Conversion Pathfinder 4|page wiki]])|Anastos|none}</td>
 </tr>
 </table>
 ### Aides pour Les Péchés des sauveurs / Sins of the Saviors

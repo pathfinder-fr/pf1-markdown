@@ -14,30 +14,30 @@ Categories:
 {s:pucem|Humanoïde|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.213*}
 {s:BDTexte|**PX** 1 600 px}
-{s:BDTexte|Penanggalan humaine [sorcière](./Sorcière.md) 5}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) (humanoïde [altéré](./sous-type altéré.md)) de taille M, NM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 c); [Perception](./Perception.md) +16}
+{s:BDTexte|Penanggalan humaine [[sorcière]] 5}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] (humanoïde [[sous-type altéré|altéré]]) de taille M, NM}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 c); [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 15, pris au dépourvu 16 (Dex +4, esquive +1, naturelle +6)}
-{s:BDTexte|**pv** 45 (5d6+25) ; [guérison accélérée](./guérison accélérée.md) 5}
+{s:BDTexte|**pv** 45 (5d6+25) ; [[guérison accélérée]] 5}
 {s:BDTexte|**Réf** +5, **Vig** +4, **Vol** +7}
-{s:BDTexte|**Capacités défensives** [résistance à la canalisation](./résistance à la canalisation.md) +4 ; **[RD](./RD.md)** 5/argent et tranchant ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) ; **Résistances** feu 10, froid 10 }
+{s:BDTexte|**Capacités défensives** [[résistance à la canalisation]] +4 ; **[[RD]]** 5/argent et tranchant ; **Immunités** [[traits des morts-vivants]] ; **Résistances** feu 10, froid 10 }
 {s:BDTexte|**Faiblesses** sensibilité à la lumière, faiblesses des penanggalans}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 18 m (12 {s:c}) (bonne)}
-{s:BDTexte|**Corps à corps** morsure, +6 (1d6+4 plus maladie) et coup, +6 (1d4+4 plus [étreinte](./Étreinte (capacité).md) et dessèchement)}
-{s:BDTexte|**Attaques spéciales** absorption de sang (1d4 Constitution), création de rejetons, [maladie](./maladie.md) (*fièvre des marais*, [DD](./DD.md) 15), maléfices (ricanement, mauvais oeil, malchance)}
+{s:BDTexte|**Corps à corps** morsure, +6 (1d6+4 plus maladie) et coup, +6 (1d4+4 plus [[étreinte (capacité)|étreinte]] et dessèchement)}
+{s:BDTexte|**Attaques spéciales** absorption de sang (1d4 Constitution), création de rejetons, [[maladie]] (*fièvre des marais*, [[DD]] 15), maléfices (ricanement, mauvais oeil, malchance)}
 {s:BDTexte|**Sorts de sorcière préparés** (NLS 5<sup>e</sup> ; concentration +8)}
-{s:BDSorts|3<sup>e</sup> — *[dissipation de la magie](./Dissipation de la magie.md)*, *[nuage nauséabond](./Nuage nauséabond.md)* (DD 16)}
-{s:BDSorts|2<sup>e</sup> — *[détection de l’invisibilité](./Détection de linvisibilité.md)*, *[immobilisation de personne](./Immobilisation de personne.md)* (DD 16), *[poussière scintillante](./Poussière scintillante.md)* (DD 15)}
-{s:BDSorts|1<sup>er</sup> — *[armure de mage](./Armure de mage.md)*, *[brume de dissimulation](./Brume de dissimulation.md)*, *[charme-personne](./Charme-personne.md)* (DD 14), *[injonction](./Injonction.md)* (DD 14)}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[fatigue](./Fatigue.md)* (DD 13), *[lumières dansantes](./Lumières dansantes.md)*}
+{s:BDSorts|3<sup>e</sup> — *[[dissipation de la magie]]*, *[[nuage nauséabond]]* (DD 16)}
+{s:BDSorts|2<sup>e</sup> — *[[détection de linvisibilité|détection de l’invisibilité]]*, *[[immobilisation de personne]]* (DD 16), *[[poussière scintillante]]* (DD 15)}
+{s:BDSorts|1<sup>er</sup> — *[[armure de mage]]*, *[[brume de dissimulation]]*, *[[charme-personne]]* (DD 14), *[[injonction]]* (DD 14)}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[lecture de la magie]]*, *[[fatigue]]* (DD 13), *[[lumières dansantes]]*}
 {s:BDTexte|**Protecteur** Pestilence}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 18, **Con** -, **Int** 17, **Sag** 16, **Cha** 16}
-{s:BDTexte|**BBA** +2, **BMO** +6 (+10 [lutte](./lutte.md)), **DMD** 21}
-{s:BDTexte|**Dons** [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [École renforcée](./École renforcée.md) (enchantement), [Esquive](./Esquive.md), [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +11, [Bluff](./Bluff.md) +11, [Discrétion](./Discrétion.md) +20,  [Connaissances](./Connaissances.md) (mystères) +19, [Connaissances](./Connaissances.md) (nature) +7, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +14, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +11, [Vol](./Vol.md) +20 ; **Modificateurs raciaux** +8 en Bluff, +8 en Vol, +8 en Connaissances (mystères), +8 en Perception, +8 en Psychologie, +8 en Discrétion}
+{s:BDTexte|**BBA** +2, **BMO** +6 (+10 [[lutte]]), **DMD** 21}
+{s:BDTexte|**Dons** [[Dispense de composantes matérielles]], [[École renforcée]] (enchantement), [[Esquive]], [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +11, [[Bluff]] +11, [[Discrétion]] +20,  [[Connaissances]] (mystères) +19, [[Connaissances]] (nature) +7, [[Perception]] +16, [[Psychologie]] +14, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +11, [[Vol]] +20 ; **Modificateurs raciaux** +8 en Bluff, +8 en Vol, +8 en Connaissances (mystères), +8 en Perception, +8 en Psychologie, +8 en Discrétion}
 {s:BDTexte|**Langues** commun, draconique, gnoll, infernal}
 {s:BDTexte|**Particularités** détachement, familier de la sorcière (mille-pattes)}
 {s:BDSousTitre|Écologie}
@@ -45,12 +45,12 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** équipement de PNJ}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Maléfices.** La sorcière penanggalan peut utiliser n'importe lequel de ses maléfices à volonté sur toute créature située dans un [rayon](./rayon.md) de 9 mètres. Il s’agit d’une [action simple](./Action simple.md) (sauf précision contraire) qui ne provoque pas d’attaque d’opportunité. Les [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) sont basés sur l’[intelligence](./Intelligence.md).}
-{s:BDTexte|**Maléfice de malchance (Sur).** Ce maléfice afflige la cible d’une sévère malchance pendant 1 [round](./round.md). Lorsque la cible fait un jet de caractéristique, d’attaque, de sauvegarde ou un test de compétence pendant ce temps, elle doit relancer le dé et conserver le résultat le moins bon. Un jet de Volonté DD 15 permet d’annuler cet effet. Une créature ne peut être prise pour cible de ce maléfice qu’une seule fois par jour.}
-{s:BDTexte|**Maléfice du mauvais oeil (Sur).** La créature ciblée par ce maléfice subit un malus de -2 à l’un des éléments suivants (au choix de la penanggalan) : CA, jets de caractéristiques, jets d’attaque, jets de sauvegarde ou tests de compétences. Cet effet dure 6 rounds ou seulement 1 round si la cible réussit un jet de Volonté DD 15. Il s’agit d’un [effet mental](./effet mental.md).}
-{s:BDTexte|**Maléfice de ricanement (Sur).** Par une [action de mouvement](./Action de mouvement.md), la penanggalan peut ricaner. Toutes les créatures situées dans un [rayon](./rayon.md) de 9 mètres et étant sous les effets de la malédiction de mauvais oeil ou de malchance du penanggalan voient la durée du maléfice rallongée de 1 round.}
+{s:BDTexte|**Maléfices.** La sorcière penanggalan peut utiliser n'importe lequel de ses maléfices à volonté sur toute créature située dans un [[rayon]] de 9 mètres. Il s’agit d’une [[action simple]] (sauf précision contraire) qui ne provoque pas d’attaque d’opportunité. Les [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] sont basés sur l’[[intelligence]].}
+{s:BDTexte|**Maléfice de malchance (Sur).** Ce maléfice afflige la cible d’une sévère malchance pendant 1 [[round]]. Lorsque la cible fait un jet de caractéristique, d’attaque, de sauvegarde ou un test de compétence pendant ce temps, elle doit relancer le dé et conserver le résultat le moins bon. Un jet de Volonté DD 15 permet d’annuler cet effet. Une créature ne peut être prise pour cible de ce maléfice qu’une seule fois par jour.}
+{s:BDTexte|**Maléfice du mauvais oeil (Sur).** La créature ciblée par ce maléfice subit un malus de -2 à l’un des éléments suivants (au choix de la penanggalan) : CA, jets de caractéristiques, jets d’attaque, jets de sauvegarde ou tests de compétences. Cet effet dure 6 rounds ou seulement 1 round si la cible réussit un jet de Volonté DD 15. Il s’agit d’un [[effet mental]].}
+{s:BDTexte|**Maléfice de ricanement (Sur).** Par une [[action de mouvement]], la penanggalan peut ricaner. Toutes les créatures situées dans un [[rayon]] de 9 mètres et étant sous les effets de la malédiction de mauvais oeil ou de malchance du penanggalan voient la durée du maléfice rallongée de 1 round.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Penanggalan](./Penanggalan, archétype.md).***</li></ul>*Ce visage pâle encadré de cheveux noirs luisants est suspendu dans les airs, traînant des viscères accrochés au moignon de son cou comme s’il s’agissait d’une épouvantable queue.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Penanggalan, archétype|Penanggalan]].***</li></ul>*Ce visage pâle encadré de cheveux noirs luisants est suspendu dans les airs, traînant des viscères accrochés au moignon de son cou comme s’il s’agissait d’une épouvantable queue.*
 
 Les hideuses penanggalans font partie des monstruosités vampiriques les plus ignobles. De jour, la penanggalan apparaît comme un humanoïde normal mais, la nuit venue ou lorsqu’on la provoque, la tête de la créature se détache du reste de son corps, laissant une guirlande de viscères et d’entrailles pendre de sa gorge alors qu’elle s’élance dans les airs en quête de sang pour étancher sa soif impie.
 
@@ -61,5 +61,5 @@ Il existe plus d’un rituel de transformation mais impliquent des actes odieux 
 
 La penanggalan conserve une cuve remplie de vinaigre dans son repaire. Lorsqu’elle s’en revient d’une nuit de repas, ses organes sont gonflés de sang. Afin de pouvoir rentrer à nouveau dans son corps, elle doit se plonger 1 heure dans cette cuve de vinaigre. Une fois réduite, la penanggalan se glisse dans son corps. Si elle est tuée alors qu’elle n’est pas dans son corps, ce dernier se décompose rapidement pour se transformer en poussière fétide.
 
-La penanggalan présenté ci-contre était, de son vivant, une [sorcière](./Sorcière.md).
+La penanggalan présenté ci-contre était, de son vivant, une [[sorcière]].
 </div></td></tr></table>

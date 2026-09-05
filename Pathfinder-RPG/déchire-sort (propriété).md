@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Déchire-sort
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Déchire-sort](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Déchire-sort)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Déchire-sort]]

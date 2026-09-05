@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AO}**Prix** 1 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Un carillon est en ensemble de cloches, de tubes ou de bâtonnets en métal ou en bois que l'on peut suspendre. Souvent accroché à l'extérieur des bâtisses par des personnes superstitieuses pour éloigner les esprits, un carillon peut également servir d'alarme improvisée.

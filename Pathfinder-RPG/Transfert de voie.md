@@ -19,21 +19,21 @@ Categories:
 ---
 
 {s:CMy}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 4, [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 4, [Dru](./Druide.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Magus](./Magus.md) 4, [Méd](./Médium.md) 2, [Prê](./Prêtre.md) 5, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5  
+**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 4, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 4, [[Médium|Méd]] 2, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
 **Composantes** V, G  
 
-**Portée** [contact](./contact.md)  
+**Portée** [[contact]]  
 
 **Cible** créature touchée  
 
 **Durée** 10 minutes/niveau (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
+**Jet de sauvegarde** [[Volonté]], annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
 
 
-Le personnage transfère temporairement l’une de ses [aptitudes de voie](./aptitudes de voie.md) mythique à une créature qui peut l’utiliser comme si elle faisait partie des aptitudes de sa propre [voie](./voie.md). Si la cible est incapable de dépenser du [pouvoir mythique](./pouvoir mythique.md), elle ne peut activer les effets de l’aptitude qui nécessitent la dépense de [pouvoir mythique](./pouvoir mythique.md), mais ceci ne l’empêche pas d’utiliser les parties non concernées par cette règle comme si elle était de [grade](./Grade.md) 1.
+Le personnage transfère temporairement l’une de ses [[aptitudes de voie]] mythique à une créature qui peut l’utiliser comme si elle faisait partie des aptitudes de sa propre [[voie]]. Si la cible est incapable de dépenser du [[pouvoir mythique]], elle ne peut activer les effets de l’aptitude qui nécessitent la dépense de [[pouvoir mythique]], mais ceci ne l’empêche pas d’utiliser les parties non concernées par cette règle comme si elle était de [[grade]] 1.
 
-Tant que le transfert de voie est actif, le personnage ne peut utiliser l’aptitude en question (même si c’est une aptitude qui s’utilise de manière passive ou qui ne nécessite aucune dépense de [pouvoir mythique](./pouvoir mythique.md)).
+Tant que le transfert de voie est actif, le personnage ne peut utiliser l’aptitude en question (même si c’est une aptitude qui s’utilise de manière passive ou qui ne nécessite aucune dépense de [[pouvoir mythique]]).

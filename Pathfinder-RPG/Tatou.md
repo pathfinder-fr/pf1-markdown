@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Plaine|Tempéré}
 {s:BDTexte|*Source : Animal Archive page 30*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +2 ; **Sens** [Odorat](./odorat.md) ; [Perception](./Perception.md) +8 (+0 pour les tests de [Perception](./Perception.md) basés sur la vue)}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Odorat]] ; [[Perception]] +8 (+0 pour les tests de [[Perception]] basés sur la vue)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 14, pris au dépourvu 14 (Dex +2, naturelle +2, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 4, **Dex** 15, **Con** 11, **Int** 2, **Sag** 12, **Cha** 9}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 7 (11 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +8 (+0 pour les tests de [Perception](./Perception.md) basés sur la vue), [Nage](./nage.md) +1 ; **Modificateurs raciaux** [Nage](./nage.md) +4, -8 sur les jets de [Perception](./Perception.md) basés sur la vue }
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +8 (+0 pour les tests de [[Perception]] basés sur la vue), [[Nage]] +1 ; **Modificateurs raciaux** [[Nage]] +4, -8 sur les jets de [[Perception]] basés sur la vue }
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Plaines tempérées ou chaudes}
 {s:BDTexte|**Organisation sociale** solitaire}

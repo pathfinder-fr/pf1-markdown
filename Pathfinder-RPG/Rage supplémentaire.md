@@ -8,8 +8,8 @@ Categories:
 
 *Le personnage peut devenir enragé plus souvent.*
 
-**Condition.** Capacité de classe de [rage](./Barbare.md#RAGEDEBERSERKER).
+**Condition.** Capacité de classe de [[Barbare#RAGEDEBERSERKER|rage]].
 
-**Avantage.** Le personnage peut entrer en [rage](./Barbare.md#RAGEDEBERSERKER) pendant six [rounds](./round.md) supplémentaires par jour.
+**Avantage.** Le personnage peut entrer en [[Barbare#RAGEDEBERSERKER|rage]] pendant six [[round|rounds]] supplémentaires par jour.
 
 **Spécial.** Le personnage peut choisir ce don à plusieurs reprises, ses effets se cumulent.

@@ -16,22 +16,22 @@ Categories:
 
 **(Source: Heroes of the Streets)**
 
-**Ecole** [Divination](./Divination.md) ; **Niveau** [Bard](./Barde.md) 1, [Cham](./Chaman.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1,  [Inq](./Inquisiteur.md) 1, [Prê](./Prêtre.md) 1 , [Sor](./Sorcière.md) 1  
+**Ecole** [[Divination]] ; **Niveau** [[barde|Bard]] 1, [[chaman|Cham]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1,  [[inquisiteur|Inq]] 1, [[prêtre|Prê]] 1 , [[sorcière|Sor]] 1  
 
-**Temps d'incantation** 1 [action simple]  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V,G,M/FD](./composantes.md)(un petit bout de brique)  
+**Composantes** [[composantes|V,G,M/FD]](un petit bout de brique)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** Une créature  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) annule(inoffensif) ; **Résistance à la magie** oui(inoffensif)  
+**Jet de sauvegarde** [[Volonté]] annule(inoffensif) ; **Résistance à la magie** oui(inoffensif)  
 
 
 La cible de ce sort voit et entend un flux de scènes du passé et des bouts de discussions apparentées au peuple local et aux événements. Les flash sont si bref qu'il est impossible d'identifier des personnes individuelles ou des lieux mais quand la cible se concentre sur un sujet précis ou une personne précise, elle peut assembler une narration cohérente racontée par une multitude de voix changeantes dans sa tête.
 
-Chaque round au cours de la durée de ce sort, la cible peut tenter un jet de [Diplomatie](./Diplomatie.md) pour rassembler des informations comme si elle avait passé 1d4 heures à parler aux personnes qui étaient présentes. Puisque la récolte aux informations n'implique aucune interaction actuelle avec les personnes mais seulement de l'observation, la cible du sort peut utiliser sa compétence de [Perception](./Perception.md) au lieu de la compétence de [Diplomatie](./Diplomatie.md). Au cours de cette concentration, la cible est effectivement [aveugle](./aveugle.md) et [sourde](./sourd.md).
+Chaque round au cours de la durée de ce sort, la cible peut tenter un jet de [[Diplomatie]] pour rassembler des informations comme si elle avait passé 1d4 heures à parler aux personnes qui étaient présentes. Puisque la récolte aux informations n'implique aucune interaction actuelle avec les personnes mais seulement de l'observation, la cible du sort peut utiliser sa compétence de [[Perception]] au lieu de la compétence de [[Diplomatie]]. Au cours de cette concentration, la cible est effectivement [[aveugle]] et [[Sourd|sourde]].
 
 (((Ears of the City
 

@@ -12,28 +12,28 @@ Categories:
 
 {s:Menuarchétypepaladin}{s:um}*Les paladins sont des champions sacrés de la loi et du bien, mais certains se dévouent à des causes particulières avec un zèle exceptionnel. Ils jurent solennellement de résoudre des problèmes spécifiques ou de mourir en essayant.*
 
-Tous les paladins observent un code de conduite, qu’il soit enseigné par leur ordre, transmis par les dieux ou inspiré par des convictions personnelles, mais le paladin assermenté se dévoue à une unique cause, ce qui lui donne des pouvoirs supplémentaires mais lui impose d’autres édits à respecter. Le paladin assermenté jure d’éliminer un certain aspect du mal. Ce puissant [serment](./Serments.md) lui donne accès à de nouveaux sorts et modifie ou augmente ses pouvoirs.
+Tous les paladins observent un code de conduite, qu’il soit enseigné par leur ordre, transmis par les dieux ou inspiré par des convictions personnelles, mais le paladin assermenté se dévoue à une unique cause, ce qui lui donne des pouvoirs supplémentaires mais lui impose d’autres édits à respecter. Le paladin assermenté jure d’éliminer un certain aspect du mal. Ce puissant [[serments|serment]] lui donne accès à de nouveaux sorts et modifie ou augmente ses pouvoirs.
 
-Le paladin assermenté peut prêter plusieurs [serments](./Serments.md) mais aucun ne doit remplacer ou modifier un même pouvoir de base du paladin. Par exemple, un paladin ne peut pas prêter serment contre la corruption et contre les wyrms car ils remplacent tous deux le pouvoir de classe aura de courage.
+Le paladin assermenté peut prêter plusieurs [[serments]] mais aucun ne doit remplacer ou modifier un même pouvoir de base du paladin. Par exemple, un paladin ne peut pas prêter serment contre la corruption et contre les wyrms car ils remplacent tous deux le pouvoir de classe aura de courage.
 
-Les paladins qui prêtent serment peuvent faire une promesse sacrée à leur dieu ou à leur temple et jurer d’accomplir un exploit spécifique associé au [serment](./Serments.md). Par exemple, un paladin assermenté qui fait un serment de vengeance peut se donner pour mission de tuer le chef de guerre orque qui a rasé son village natal tandis qu’un paladin du serment contre les wyrms peut être chargé d’obtenir un pacte de non-agression avec une famille de dragons. Quand un paladin tient sa promesse, il a accompli son [serment](./Serments.md) et peut l’abandonner s’il le désire. Il peut ensuite en prêter un autre, redevenir un paladin standard ou choisir un nouvel archétype.
+Les paladins qui prêtent serment peuvent faire une promesse sacrée à leur dieu ou à leur temple et jurer d’accomplir un exploit spécifique associé au [[serments|serment]]. Par exemple, un paladin assermenté qui fait un serment de vengeance peut se donner pour mission de tuer le chef de guerre orque qui a rasé son village natal tandis qu’un paladin du serment contre les wyrms peut être chargé d’obtenir un pacte de non-agression avec une famille de dragons. Quand un paladin tient sa promesse, il a accompli son [[serments|serment]] et peut l’abandonner s’il le désire. Il peut ensuite en prêter un autre, redevenir un paladin standard ou choisir un nouvel archétype.
 
-Si un paladin viole le code de conduite de son [serment](./Serments.md), il perd les pouvoirs de classe associés au [serment](./Serments.md) jusqu’à ce qu’il ait fait amende honorable. S’il viole son code de paladin, il perd ses pouvoirs de paladins et ceux liés à son [serment](./Serments.md).
+Si un paladin viole le code de conduite de son [[serments|serment]], il perd les pouvoirs de classe associés au [[serments|serment]] jusqu’à ce qu’il ait fait amende honorable. S’il viole son code de paladin, il perd ses pouvoirs de paladins et ceux liés à son [[serments|serment]].
 
 Voici les caractéristiques de classe du paladin assermenté.
 
 #### Divinité
-Certains [serments](./Serments.md) sont plus compatibles avec certaines religions.
+Certains [[serments]] sont plus compatibles avec certaines religions.
 
-D’autres dieux peuvent autoriser ce genre de [serment](./Serments.md) mais une divinité accepte rarement un [serment](./Serments.md) qui entre en conflit avec ses enseignements.
+D’autres dieux peuvent autoriser ce genre de [[serments|serment]] mais une divinité accepte rarement un [[serments|serment]] qui entre en conflit avec ses enseignements.
 
 #### Code de conduite
-Le paladin assermenté doit obéir aux préceptes de son [serment](./Serments.md) en plus du code de conduite spécifique exigé par son dieu. Dans certains cas, le code d’une divinité ou d’un ordre de paladins peut entrer en conflit avec les préceptes du [serment](./Serments.md). La plupart du temps, ceci veut dire qu’un paladin de ce dieu ou de cet ordre ne peut pas prêter ce [serment](./Serments.md) (par exemple, un serment contre les wyrms est incompatible avec une divinité draconique bienveillante ou un ordre de paladins montés sur des dragons).
+Le paladin assermenté doit obéir aux préceptes de son [[serments|serment]] en plus du code de conduite spécifique exigé par son dieu. Dans certains cas, le code d’une divinité ou d’un ordre de paladins peut entrer en conflit avec les préceptes du [[serments|serment]]. La plupart du temps, ceci veut dire qu’un paladin de ce dieu ou de cet ordre ne peut pas prêter ce [[serments|serment]] (par exemple, un serment contre les wyrms est incompatible avec une divinité draconique bienveillante ou un ordre de paladins montés sur des dragons).
 
 #### Sorts de serment
-Le [serment](./Serments.md) du paladin influe sur sa magie. Le paladin assermenté ajoute un sort de paladin à sa liste à chaque niveau de sort qu’il peut lancer (y compris pour ceux où il ne devrait gagner que des sorts supplémentaires si son bonus de Charisme le lui permet). C’est la nature du [serment](./Serments.md) qui détermine les sorts à ajouter à la liste. Si le paladin a prêté plusieurs [serments](./Serments.md), il ajoute les sorts de chacun à sa liste.
+Le [[serments|serment]] du paladin influe sur sa magie. Le paladin assermenté ajoute un sort de paladin à sa liste à chaque niveau de sort qu’il peut lancer (y compris pour ceux où il ne devrait gagner que des sorts supplémentaires si son bonus de Charisme le lui permet). C’est la nature du [[serments|serment]] qui détermine les sorts à ajouter à la liste. Si le paladin a prêté plusieurs [[serments]], il ajoute les sorts de chacun à sa liste.
 
-Si un paladin assermenté a prêté plus d’un [serment](./Serments.md), il peut préparer le sort de [serment](./Serments.md) qu’il désire dans l’emplacement attitré (comme un prêtre qui choisit entre ses deux sorts de domaine pour savoir celui qu’il place dans l’emplacement de sort de domaine).
+Si un paladin assermenté a prêté plus d’un [[serments|serment]], il peut préparer le sort de [[serments|serment]] qu’il désire dans l’emplacement attitré (comme un prêtre qui choisit entre ses deux sorts de domaine pour savoir celui qu’il place dans l’emplacement de sort de domaine).
 
 #### Serments
 *Voici quelques exemples de serments pour un paladin assermenté. Il peut en exister d’autres, en rapport avec un ennemi ou un événement de campagne spécifique (comme l’élimination d’une guilde d’assassins ou la destruction d’un temple maléfique).*
@@ -43,15 +43,15 @@ Si un paladin assermenté a prêté plus d’un [serment](./Serments.md), il peu
 ### Serment contre le Chaos
 {s:cs}<div class="description">**Source :** Inner Sea Combat (ISC).</div>Certains paladins voient comme véritable ennemi les créatures du chaos et de la destruction.
 
-**Détection du chaos (Sur).** Ce pouvoir fonctionne comme la [détection du mal](./Paladin.md#DETECTIONDUMAL) du paladin, mais il [détecte](./Détection.md) le chaos et non le mal.
+**Détection du chaos (Sur).** Ce pouvoir fonctionne comme la [[paladin#DETECTIONDUMAL|détection du mal]] du paladin, mais il [[détection|détecte]] le chaos et non le mal.
 
-**Châtiment du chaos (Sur).** Ce pouvoir fonctionne comme le [châtiment du mal](./Paladin.md#CHATIMENTDUMALchâtiment du mal) du paladin, mais s'applique vis à vis des créatures Chaotiques et non Mauvaises. Les dégâts supplémentaires s'appliquent vis à vis des Extérieurs du sous-type Chaos, des dragons d’alignement Chaotique et des aberrations, et non  des un Extérieurs du sous-type Mal, des dragons d’alignement Mauvais ou des morts-vivants.
+**Châtiment du chaos (Sur).** Ce pouvoir fonctionne comme le [[paladin#CHATIMENTDUMALchâtiment du mal|châtiment du mal]] du paladin, mais s'applique vis à vis des créatures Chaotiques et non Mauvaises. Les dégâts supplémentaires s'appliquent vis à vis des Extérieurs du sous-type Chaos, des dragons d’alignement Chaotique et des aberrations, et non  des un Extérieurs du sous-type Mal, des dragons d’alignement Mauvais ou des morts-vivants.
 
-**Ordre du bien (Sur).** Quand le paladin assermenté atteint le niveau 4, il peut dépenser une utilisation de son [imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) lorsqu'il utilise son châtiment du chaos pour bénéficier à la place d'un châtiment du mal, comme un paladin de même niveau. Ce pouvoir remplace la [canalisation d'énergie positive](./Paladin.md#CANALISATIONDENERGIEPOSITIVE).
+**Ordre du bien (Sur).** Quand le paladin assermenté atteint le niveau 4, il peut dépenser une utilisation de son [[paladin#IMPOSITIONDESMAINS|imposition des mains]] lorsqu'il utilise son châtiment du chaos pour bénéficier à la place d'un châtiment du mal, comme un paladin de même niveau. Ce pouvoir remplace la [[paladin#CANALISATIONDENERGIEPOSITIVE|canalisation d'énergie positive]].
 
 **Code de conduite.** Obéir à la loi tant que cette loi est juste ; ne jamais être le jouet d'un tyran. Combattre vaillammant les serviteurs du Chaos.
 
-**Sorts de serment.** 1– [injonction](./Injonction.md), 2– [apaisement des émotions](./Apaisement des émotions.md), 3– [suggestion](./Suggestion.md), 4– [courroux de l'ordre](./Courroux de lordre.md)
+**Sorts de serment.** 1– [[injonction]], 2– [[apaisement des émotions]], 3– [[suggestion]], 4– [[courroux de lordre|courroux de l'ordre]]
 
 
 {s:UM}{s:Reference|CHARITE}
@@ -64,7 +64,7 @@ La charité ne se limite pas à donner de l’argent à un temple ou une cause, 
 
 **Code de conduite.** Toujours proposer d’aider des créatures Bonnes qui semblent en avoir besoin. Toujours proposer d’aider les pauvres et les démunis. (Dans les villages, cette aide se traduit souvent par un don à une organisation religieuse charitable, pas par un paladin qui distribue ses pièces de cuivre à tous les mendiants de la rue.)
 
-**Sorts de serment.** 1– [pierre magique](./Pierre magique.md), 2– [réparation intégrale](./Réparation intégrale.md), 3– [panoplie magique](./Panoplie magique.md), 4– [transfert de sorts](./Transfert de sorts.md)
+**Sorts de serment.** 1– [[pierre magique]], 2– [[réparation intégrale]], 3– [[panoplie magique]], 4– [[transfert de sorts]]
 
 
 {s:UM}{s:Reference|CHASTETE}
@@ -77,7 +77,7 @@ Le paladin chaste prouve sa pureté par ses actions et son abstinence vis-à-vis
 
 **Code de conduite.** Ne jamais s’engager dans une relation amoureuse ni un acte sexuel.
 
-**Sorts de serment.** 1– [regain d’assurance](./Regain dassurance.md), 2– [confession](./Confession.md)<sup>APG</sup>, 3– [héroïsme](./Héroïsme.md), 4– [liberté de mouvement](./Liberté de mouvement.md)
+**Sorts de serment.** 1– [[regain dassurance|regain d’assurance]], 2– [[confession]]<sup>APG</sup>, 3– [[héroïsme]], 4– [[liberté de mouvement]]
 
 {s:UM}{s:Reference|CONTRELACORRUPTION}
 ### Serment contre la corruption
@@ -93,7 +93,7 @@ Quand le paladin canalise de l’énergie positive ou utilise son imposition des
 
 **Code de conduite.** Chasser les aberrations et les empêcher de se promener librement et de blesser autrui. Les détruire si possible, sinon, les bannir.
 
-**Sorts de serment.** 1– [coup au but](./Coup au but.md) ; 2– [sens aiguisés](./Sens aiguisés.md)<sup>UM</sup>, 3– [idiotie](./Idiotie.md), 4– [immunité contre les sorts](./Immunité contre les sorts.md)
+**Sorts de serment.** 1– [[coup au but]] ; 2– [[sens aiguisés]]<sup>UM</sup>, 3– [[idiotie]], 4– [[immunité contre les sorts]]
 
 {s:UM}{s:Reference|CONTRELESFIELONS}
 ### Serment contre les fiélons
@@ -109,13 +109,13 @@ Ce pouvoir remplace l’aura de fermeté.
 
 **Code de conduite.** Ne jamais laisser un extérieur Mauvais en vie s’il peut le détruire. Bannir ceux qu’il ne peut pas tuer. Purger le mal de tous ceux qui sont possédés.
 
-**Sorts de serment.** 1– [endurance aux énergies destructives](./Endurance aux énergies destructives.md), 2– [détection de pensées](./Détection de pensées.md) 3– [négation de l’invisibilité](./Négation de linvisibilité.md), 4– [changement de plan](./Changement de plan.md)
+**Sorts de serment.** 1– [[endurance aux énergies destructives]], 2– [[détection de pensées]] 3– [[négation de linvisibilité|négation de l’invisibilité]], 4– [[changement de plan]]
 
 {s:UM}{s:Reference|LOYAUTE}
 ### Serment de loyauté
 Pour la plupart des paladins, une parole donnée vaut plus que tout. Quand ils disent quelque chose, ils le font. Ceux qui prêtent ce serment mettent cet idéal à l’épreuve à chaque instant. La parole du paladin assermenté est une promesse, un lien sacré mais aussi une source de pouvoir au service du bien et de la loi. Il surveille chacune de ses paroles, de peur d’accepter quelque chose qu’il ne cautionne pas entièrement.
 
-**Serment de loyauté (Sur).** Dés le niveau 1, une fois par jour en une [action rapide](./Action rapide.md), le paladin assermenté peut choisir une créature consentante qu’il a en ligne de mire comme cible de son serment de loyauté. Quand il se trouve à côté d’elle, il lui donne un bonus sacré égal à son bonus de Charisme aux jets de sauvegarde et à la CA. Le serment de loyauté dure 1 minute ou jusqu’à ce que le paladin l’annule (par une action libre) ou le décharge (voir plus bas), selon ce qui se produit en premier.
+**Serment de loyauté (Sur).** Dés le niveau 1, une fois par jour en une [[action rapide]], le paladin assermenté peut choisir une créature consentante qu’il a en ligne de mire comme cible de son serment de loyauté. Quand il se trouve à côté d’elle, il lui donne un bonus sacré égal à son bonus de Charisme aux jets de sauvegarde et à la CA. Le serment de loyauté dure 1 minute ou jusqu’à ce que le paladin l’annule (par une action libre) ou le décharge (voir plus bas), selon ce qui se produit en premier.
 
 Si la cible se fait toucher par un ennemi et que le paladin est à côté de cet ennemi, il peut, par une action immédiate, faire une unique attaque de corps à corps contre cet ennemi. Cela met un terme au serment de loyauté. Au niveau 4 et, par la suite, tous les trois niveaux, le paladin peut utiliser ce pouvoir une fois de plus par jour. Ce pouvoir remplace châtiment du mal.
 
@@ -123,7 +123,7 @@ Si la cible se fait toucher par un ennemi et que le paladin est à côté de cet
 
 **Code de conduite.** Tenir toutes ses promesses. Ne jamais faire un serment ou une promesse à la légère. Ne jamais revenir sur un serment.
 
-**Sorts de serment.** 1– [colère](./Colère.md)<sup>APG</sup>, 2– [aide](./Aide.md), 3– [main du berger](./Main du berger.md), 4– [message](./Message.md)
+**Sorts de serment.** 1– [[colère]]<sup>APG</sup>, 2– [[aide]], 3– [[main du berger]], 4– [[message]]
 
 {s:UM}{s:Reference|CONTRELANONMORT}
 ### Serment contre la non-mort
@@ -141,19 +141,19 @@ Ce pouvoir fonctionne uniquement si le paladin est conscient, pas s’il est inc
 
 **Code de conduite.** Détruire les morts-vivants. Apporter le repos aux pauvres âmes changées contre leur gré. Empêcher la souillure de la non-mort de contaminer les morts récents, en bénissant ou en brûlant leurs cadavres si nécessaire.
 
-**Sorts de serments.** 1– [sanctification de cadavre](./Sanctification de cadavre.md)<sup>UM</sup>, 2– [vision dans le noir](./vision dans le noir.md), 3– [lumière brûlante](./Lumière brûlante.md), 4– [immobilisation de morts-vivants](./Immobilisation de morts-vivants.md)
+**Sorts de serments.** 1– [[sanctification de cadavre]]<sup>UM</sup>, 2– [[vision dans le noir]], 3– [[lumière brûlante]], 4– [[immobilisation de morts-vivants]]
 
 {s:UM}{s:Reference|CONTRELASAUVAGERIE}
 ### Serment contre la sauvagerie
 Certains paladins sont des champions de l’ordre qui jurent de lutter contre les hordes de gobelinoïdes, d’orques, de barbares hostiles et autres sauvages qui empiètent sur les frontières de la civilisation ainsi que contre tous ceux qui rongent la société de l’intérieur, comme les guildes d’assassins et de voleurs. Les paladins qui prêtent ce serment s’attendent donc, encore plus que les autres, à devoir combattre de nombreuses créatures à la fois et développent des capacités spéciales pour gérer ce nombre.
 
-**Allonge sacrée (Sur).** Au niveau 2, le paladin assermenté peut dépenser une utilisation de son pouvoir de châtiment du mal pour augmenter son allonge naturelle de 1,50 mètre pendant 1 minute. Ce pouvoir ne se cumule pas avec le don [Fente](./Fente.md). Il remplace grâce divine.
+**Allonge sacrée (Sur).** Au niveau 2, le paladin assermenté peut dépenser une utilisation de son pouvoir de châtiment du mal pour augmenter son allonge naturelle de 1,50 mètre pendant 1 minute. Ce pouvoir ne se cumule pas avec le don [[Fente]]. Il remplace grâce divine.
 
 **Briseur de horde (Sur).** Au niveau 11, quand le paladin touche un humanoïde Mauvais avec une attaque d’opportunité, il lui inflige 1d6 points de dégâts supplémentaires. Quand il utilise allonge sacrée, le paladin peut, à chaque round, faire un nombre d’attaques d’opportunité supplémentaires égal à son bonus de Charisme. Cette augmentation se cumule avec celles issues d’autres sources comme Attaque réflexe. Ce pouvoir remplace aura de justice.
 
 **Code de conduite.** Toujours répondre à l’appel d’une communauté que menacent des sauvages. Être en première ligne pour défendre un village et être le dernier à se retirer.
 
-**Sorts de serment.** 1– [perception de la mort](./Perception de la mort.md), 2– [protection contre les projectiles](./Protection contre les projectiles.md), 3– [rapidité](./Rapidité.md), 4– [puissance divine](./Puissance divine.md)
+**Sorts de serment.** 1– [[perception de la mort]], 2– [[protection contre les projectiles]], 3– [[rapidité]], 4– [[puissance divine]]
 
 {s:UM}{s:Reference|VENGEANCE}
 ### Serment de vengeance
@@ -165,7 +165,7 @@ Tous les paladins défendent les principes du bien et de la loi mais parfois, ce
 
 **Code de conduite.** Ne pas laisser le moindre mal me distraire de la poursuite d'une vengeance juste.
 
-**Sorts de serment.** 1– [colère](./Colère.md)<sup>APG</sup>, 2– [confession](./Confession.md)<sup>APG</sup>, 3– [bénédiction de ferveur](./Bénédiction de ferveur.md)<sup>APG</sup>, 4– [courroux de l’ordre](./Courroux de lordre.md)
+**Sorts de serment.** 1– [[colère]]<sup>APG</sup>, 2– [[confession]]<sup>APG</sup>, 3– [[bénédiction de ferveur]]<sup>APG</sup>, 4– [[courroux de lordre|courroux de l’ordre]]
 
 {s:UM}{s:Reference|CONTRELESWYRMS}
 ### Serment contre les wyrms
@@ -179,4 +179,4 @@ Peu de dragons considèrent les races de plus petite taille comme leurs égaux. 
 
 **Code de conduite.** Tuer les dragons maléfiques et autres dragons dangereux, qu’ils soient Mauvais ou non. Empêcher que les dragons souillent la lignée d’autres créatures. Protéger les innocents contre les déprédations des dragons.
 
-**Sorts de serment.** 1– [agrandissement](./Agrandissement.md), 2– [endurance de l’ours](./Endurance de lours.md), 3– [vol](./Vol.md), 4– [peau de pierre](./Peau de pierre.md)
+**Sorts de serment.** 1– [[agrandissement]], 2– [[endurance de lours|endurance de l’ours]], 3– [[vol]], 4– [[peau de pierre]]

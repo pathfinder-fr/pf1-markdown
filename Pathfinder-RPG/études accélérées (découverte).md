@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Découvertes arcaniques#ETUDESACCELEREES
 ---
 
->>> [Découvertes arcaniques#ETUDESACCELEREES](./Découvertes arcaniques.md#ETUDESACCELEREES)
+>>> [[Découvertes arcaniques#ETUDESACCELEREES]]

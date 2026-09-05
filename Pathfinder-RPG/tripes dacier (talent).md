@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#TRIPESDACIER
 ---
 
->>> [Talents#TRIPESDACIER](./Talents.md#TRIPESDACIER)
+>>> [[Talents#TRIPESDACIER]]

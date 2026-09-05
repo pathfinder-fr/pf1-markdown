@@ -8,12 +8,12 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:Desambi|Cet objet est apparu dans le [Manuel des races](./Manuel des races (Contenu).md) sous le nom "Anneau d'action féroce".}<div class="BD">
+{s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:Desambi|Cet objet est apparu dans le [[Manuel des races (Contenu)|Manuel des races]] sous le nom "Anneau d'action féroce".}<div class="BD">
 {s:BDTitre|Anneau de férocité|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 3 000 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 3 000 po ; **Poids** 0,5 kg
 (((Description)))
 Cet anneau permet à son propriétaire de persévérer malgré les traumatismes physiques ou mentaux qui devraient gêner ses actions.
-Une fois par jour, lorsque le porteur devient [chancelant](./Chancelant.md) suite à une attaque ennemie, il peut ignorer cette condition pour un maximum de 5 rounds. Cela ne le prémunit pas de se voir infliger la condition [chancelant](./Chancelant.md) à nouveau, et ne le protège pas s'il gagne cette condition de multiples fois.
+Une fois par jour, lorsque le porteur devient [[chancelant]] suite à une attaque ennemie, il peut ignorer cette condition pour un maximum de 5 rounds. Cela ne le prémunit pas de se voir infliger la condition [[chancelant]] à nouveau, et ne le protège pas s'il gagne cette condition de multiples fois.
 (((Création)))
-**Conditions** [Création d’anneaux magiques](./Création danneaux magiques.md), *[rapidité](./Rapidité.md)*, *[stabilisation](./Stabilisation.md)* ; **Coût** 1 500 po
+**Conditions** [[Création danneaux magiques|Création d’anneaux magiques]], *[[rapidité]]*, *[[stabilisation]]* ; **Coût** 1 500 po
 </div>

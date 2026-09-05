@@ -12,15 +12,15 @@ Toutes les pages doivent indiquer **source : Pirates de la mer Intérieure - PMI
 {s:PMI}
 
 #### Archétypes de pirates
-- [Boucanier (barde)](./Boucanier (barde).md)
-- [Contrebandier (roublard)](./Contrebandier (roublard).md)
-- [Corsaire (guerrier)](./Corsaire (guerrier).md) à supprimer la page [Corsaire (guerrier))](./Corsaire-(guerrier)).md) erreur de nom
-- [Flibustier (rôdeur)](./Flibustier (rôdeur).md)
+- [[Boucanier (barde)]]
+- [[Contrebandier (roublard)]]
+- [[Corsaire (guerrier)]] à supprimer la page [[Corsaire (guerrier))]] erreur de nom
+- [[Flibustier (rôdeur)]]
 
 intégrés dans les snippets des archétypes mais pas sur les pages des classes correspondantes
 
 #### Classe de prestige
-- [Pirate de Haute mer](./Pirate de la mer Intérieure.md) intégrée dans le menu d'accueil sous l'appellation Pirate de Haute-mer
+- [[Pirate de la mer Intérieure|Pirate de Haute mer]] intégrée dans le menu d'accueil sous l'appellation Pirate de Haute-mer
 
 #### Traits
 

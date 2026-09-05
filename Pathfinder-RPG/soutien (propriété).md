@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Soutien
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Soutien](./Descriptions individuelles des propriétés spéciales des armes.md#Soutien)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Soutien]]

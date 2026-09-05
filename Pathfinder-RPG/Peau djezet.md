@@ -8,11 +8,11 @@ Categories:
 - Src Armor Masters Handbook
 ---
 
-<div style="float: right">***Retour aux [Armures magiques spécifiques](./Armures magiques spécifiques.md).***</div><div class="BD">
+<div style="float: right">***Retour aux [[Armures magiques spécifiques]].***</div><div class="BD">
 {s:BDTitre|Peau djezet|{s:AMH}}
-**Aura** [Enchantement](./Enchantement.md) faible ; **NLS** 3 ; **Prix** 3 410 po ; **Poids** 3,5 kg
+**Aura** [[Enchantement]] faible ; **NLS** 3 ; **Prix** 3 410 po ; **Poids** 3,5 kg
 (((Description)))
-{s:cs}Lorsqu'on n'y fait pas attention, la *peau djezet* apparaît comme une sphère curieusement lisse de métal rouge rouille. Lorsqu'elle est tenue et qu'un mot de commande est prononcé, l'armure suinte sur le corps du porteur tel une seconde peau. L'armure peut être retirée par une [action libre](./Action libre.md) en s'n éloignant physiquement, ce qui la fait s'accumuler sur le sol. La *peau djezet* agit comme une *[armure de cuir](./armure de cuir (armure).md) +1*, excepté qu'elle est en métal (les [druides](./Druide.md) ne peuvent donc pas la porter), qu'elle n'impose aucun [malus d'armure](./malus darmure.md) aux tests et impose 0 % de risque d'échec des sorts profanes. De plus, le porteur de la *peau djezet* gagne un bonus de circonstances de +5 aux tests de [Diplomatie](./Diplomatie.md) pour demander des services aux créatures avec une attitude amicale ou serviable envers lui.
+{s:cs}Lorsqu'on n'y fait pas attention, la *peau djezet* apparaît comme une sphère curieusement lisse de métal rouge rouille. Lorsqu'elle est tenue et qu'un mot de commande est prononcé, l'armure suinte sur le corps du porteur tel une seconde peau. L'armure peut être retirée par une [[action libre]] en s'n éloignant physiquement, ce qui la fait s'accumuler sur le sol. La *peau djezet* agit comme une *[[armure de cuir (armure)|armure de cuir]] +1*, excepté qu'elle est en métal (les [[Druide|druides]] ne peuvent donc pas la porter), qu'elle n'impose aucun [[malus darmure|malus d'armure]] aux tests et impose 0 % de risque d'échec des sorts profanes. De plus, le porteur de la *peau djezet* gagne un bonus de circonstances de +5 aux tests de [[Diplomatie]] pour demander des services aux créatures avec une attitude amicale ou serviable envers lui.
 (((Fabrication)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[charme-personne](./Charme-personne.md)* ; **Coût** 1 785 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[charme-personne]]* ; **Coût** 1 785 po
 </div>

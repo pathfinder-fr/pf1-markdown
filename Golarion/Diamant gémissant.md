@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Diamant gémissant.md).***
+***Voir les [[Pathfinder-RPG.Diamant gémissant|statistiques de cet artefact]].***
 
 Une plainte funeste infinie, telle un vent violent s’engouffrant dans les cavités de la terre, émane de ce diamant brut de la taille d’un poing.
 

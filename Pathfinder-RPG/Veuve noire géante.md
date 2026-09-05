@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.35}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 13 (Dex +2, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 37 (5d8+15)}
@@ -25,19 +25,19 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +6 (1d8+6 plus poison)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
-{s:BDTexte|**Attaque spéciales** [toile](./Toile.md) (+4 à distance, DD 19, 5 pv)}
+{s:BDTexte|**Attaque spéciales** [[toile]] (+4 à distance, DD 19, 5 pv)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 15, **Con** 16, **Int** -, **Sag** 10, **Cha** 2}
-{s:BDTexte|**BBA** +3 ; **BMO** +8 ; **DMD** 20 (32 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +20, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) (+8 dans des toiles), +8 en [Escalade](./Escalade.md), +4 en [Perception](./Perception.md)}
+{s:BDTexte|**BBA** +3 ; **BMO** +8 ; **DMD** 20 (32 contre [[croc-en-jambe]])}
+{s:BDTexte|**Compétences** [[Escalade]] +20, [[Perception]] +4 ; **Modificateurs raciaux** +4 en [[Discrétion]] (+8 dans des toiles), +8 en [[Escalade]], +4 en [[Perception]]}
 {s:BDTexte|**Particularités** toiles résistantes}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3–8)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 17 ; *fréquence* 1/[round](./round.md) pendant 6 [rounds](./round.md) ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d3 [Con](./Constitution.md) et [chancelant](./Chancelant.md) ; *guérison* 2 réussites. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md) et comporte un bonus racial de +2.}
-{s:BDTexte|**Toiles résistantes (Ext).** Les toiles d’une veuve noire augmentent de +4 le [DD](./DD.md) des tests pour s’en échapper ou les briser.}
+{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [[Vigueur]] [[DD]] 17 ; *fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; *effet* [[affaiblissement temporaire]] 1d3 [[Constitution|Con]] et [[chancelant]] ; *guérison* 2 réussites. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]] et comporte un bonus racial de +2.}
+{s:BDTexte|**Toiles résistantes (Ext).** Les toiles d’une veuve noire augmentent de +4 le [[DD]] des tests pour s’en échapper ou les briser.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -45,25 +45,25 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Araignée écarlate](./Araignée écarlate.md) || 1/4
+| Familier, [[Araignée écarlate]] || 1/4
 |-
-| [Araignée goliath](./Araignée goliath.md) || 11
+| [[Araignée goliath]] || 11
 |-
-| [Araignée lunaire](./Araignée lunaire.md) || 2
+| [[Araignée lunaire]] || 2
 |-
-| [Araignée ogre](./Araignée ogre.md) || 5
+| [[Araignée ogre]] || 5
 |-
-| [Araignée-crabe géante](./Araignée-crabe géante.md) || 1/2
+| [[Araignée-crabe géante]] || 1/2
 |-
-| [Nuée d'araignées](./Nuée daraignées.md) || 1
+| [[Nuée daraignées|Nuée d'araignées]] || 1
 |-
-| [Tarentule géante](./Tarentule géante.md) || 8
+| [[Tarentule géante]] || 8
 |-
-| [Veuve noire géante](./Veuve noire géante.md) || 3
+| [[Veuve noire géante]] || 3
 |}
 </div>*Le vaste abdomen noir et luisant de cette araignée à longues jambes porte une marque en forme de sablier écarlate.*
 
-Les femelles de cette espèce sont plus grandes que les mâles. Les mâles, eux, sont semblables aux [araignées géantes normales](./Araignée géante.md).
+Les femelles de cette espèce sont plus grandes que les mâles. Les mâles, eux, sont semblables aux [[araignée géante|araignées géantes normales]].
 
 
 
@@ -74,7 +74,7 @@ Les femelles de cette espèce sont plus grandes que les mâles. Les mâles, eux,
 
 
 #### La veuve noire géante comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **CA** armure naturelle +0 ; **Vitesse** 9 m, escalade 9 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4 plus [poison](./poison.md)) ; **Attaque spéciale** poison (*Fréquence* 1 round (6), *Effet* affaiblissement temporaire 1 [For](./Force.md), *Guérison* 1 jet de sauvegarde, *DD* dépendant de la [Constitution](./Constitution.md)) ; **Caractéristiques** For 6, Dex 17, Con 10, Int -, Sag 10, Cha 2 ; **Particularités** [perception des vibrations](./Perception des vibrations.md) à 9 m, [vision dans le noir](./vision dans le noir.md) ; ** DMD** croc-en-jambe +12
+**Caractéristiques de départ.** **Taille** P ; **CA** armure naturelle +0 ; **Vitesse** 9 m, escalade 9 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4 plus [[poison]]) ; **Attaque spéciale** poison (*Fréquence* 1 round (6), *Effet* affaiblissement temporaire 1 [[Force|For]], *Guérison* 1 jet de sauvegarde, *DD* dépendant de la [[Constitution]]) ; **Caractéristiques** For 6, Dex 17, Con 10, Int -, Sag 10, Cha 2 ; **Particularités** [[perception des vibrations]] à 9 m, [[vision dans le noir]] ; ** DMD** croc-en-jambe +12
 
 **Évolution au niveau 4.**  **Taille** M **CA** armure naturelle +1 **Attaque** morsure (1d6 plus poison)
 **Caractéristiques** For +4, Dex -2, Con +2

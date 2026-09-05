@@ -10,7 +10,7 @@ LastModified: 2017-02-28 22:05
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 22*}
 - **153 600 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille C, N
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]) de taille C, N
 - **Init **+6 ; **Sens **localisation astrale, vision aveugle 54 m, vision dans le noir 18 m, vision nocturne ; Perception +31
 (((Défense)))
 - **CA **34, contact 4, pris au dépourvu 32 (Dex +2, naturelle+30, taille -8)
@@ -23,12 +23,12 @@ LastModified: 2017-02-28 22:05
 - **Espace **9 m ; **Allonge** 9 m
 - **Attaque spéciale** engloutissement (4d6+18 points de dégâts, CA 25, 31 pv), engloutissement rapide, emporté par la vague
 - **Pouvoirs magiques** (NLS 20 ; concentration +22)
-  - *3/jour*— [porte dimensionnelle](./Porte dimensionnelle.md)
+  - *3/jour*— [[porte dimensionnelle]]
 (((Statistiques)))
 - **For **35, **Dex **14, **Con **31, **Int **6, **Sag **15, **Cha **14
 - **BBA **+20 ; **BMO **+40 (+42 bousculade, +44 lutte) ; **DMD **52 (+54 contre bousculade, croc-en-jambe impossible)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Enchaînement](./Enchaînement.md), [Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) (Perception), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Connaissances](./Connaissances.md) (plans) +21, [Intimidation](./Intimidation.md) +22, [Perception](./Perception.md) +31, [Survie](./Survie.md) +22, [Vol](./Vol.md) –6,
+- **Dons **[[Attaque en puissance]], [[Attaques réflexes]], [[Combat en aveugle]], [[Enchaînement]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Talent]] (Perception), [[Vigueur surhumaine]], [[Volonté de fer]]
+- **Compétences **[[Connaissances]] (plans) +21, [[Intimidation]] +22, [[Perception]] +31, [[Survie]] +22, [[Vol]] –6,
 - **Langues **télépathie 9 m
 (((Écologie)))
 - **Environnement **tous (plan Astral)

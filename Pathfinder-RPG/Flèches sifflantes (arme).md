@@ -9,6 +9,6 @@ Categories:
 ---
 
 {s:AE}{s:UC}**Prix** 2 po ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span> ([orientale](./Armes orientales.md))
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span> ([[armes orientales|orientale]])
 ---
 Ces flèches sont pourvues de rainures et d’un empennage spécial qui leur fait émettre un son puissant et aigu audible dans un rayon de 150 mètres autour de leur trajectoire de vol. Elles sont vendues par 20.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#TIRSOUDAIN
 ---
 
->>> [Talents#TIRSOUDAIN](./Talents.md#TIRSOUDAIN)
+>>> [[Talents#TIRSOUDAIN]]

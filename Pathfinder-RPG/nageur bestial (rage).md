@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#NAGEURBESTIAL
 ---
 
->>> [Pouvoirs de rage#NAGEURBESTIAL](./Pouvoirs de rage.md#NAGEURBESTIAL)
+>>> [[Pouvoirs de rage#NAGEURBESTIAL]]

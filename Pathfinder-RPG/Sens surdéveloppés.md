@@ -13,18 +13,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ;** Niveau** [Alch](./Alchimiste.md) 1, [Dru](./Druide.md) 1, [Occ](./Occultiste.md) 1, [Rôd](./Rôdeur.md) 1  
+**École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 1, [[Druide|Dru]] 1, [[Occultiste|Occ]] 1, [[Rôdeur|Rôd]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, M/FD](./composantes.md) (une plume d'aigle)  
+**Composantes** [[Composantes|V, M/FD]] (une plume d'aigle)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Le sujet gagne un bonus de compétence de +2 aux tests de [Perception](./Perception.md) et bénéficie de la [vision nocturne](./vision nocturne.md). Les sujets qui la possèdent déjà voient leur distance de visibilité doubler grâce au sort.
+Le sujet gagne un bonus de compétence de +2 aux tests de [[Perception]] et bénéficie de la [[vision nocturne]]. Les sujets qui la possèdent déjà voient leur distance de visibilité doubler grâce au sort.

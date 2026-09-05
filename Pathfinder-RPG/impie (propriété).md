@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Impie
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Impie](./Descriptions individuelles des propriétés spéciales des armes.md#Impie)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Impie]]

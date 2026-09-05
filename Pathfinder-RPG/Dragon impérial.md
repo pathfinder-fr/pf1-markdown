@@ -15,30 +15,30 @@ Categories:
 |- CLASS="titre"
 | Dragons impériaux || FP*
 |- CLASS="premier"
-| [Dragon des forêts](./Dragon impérial des forêts.md) || 10, 14, 19
+| [[Dragon impérial des forêts|Dragon des forêts]] || 10, 14, 19
 |-
-| [Dragon souverain](./Dragon impérial souverain.md) || 11, 15, 20
+| [[Dragon impérial souverain|Dragon souverain]] || 11, 15, 20
 |-
-| [Dragon du ciel](./Dragon impérial du ciel.md) || 9, 13, 18
+| [[Dragon impérial du ciel|Dragon du ciel]] || 9, 13, 18
 |-
-| [Dragon des mers](./Dragon impérial des mers.md) || 8, 12, 17
+| [[Dragon impérial des mers|Dragon des mers]] || 8, 12, 17
 |-
-| [Dragon chtonien](./Dragon impérial chtonien.md) || 7, 11, 16
+| [[Dragon impérial chtonien|Dragon chtonien]] || 7, 11, 16
 |- CLASS="titre"
 | &emsp; || </sup>
 |- CLASS="titre"
 | COLSPAN="2" | Autres catégories de dragon
 |- CLASS="premier"
-| COLSPAN="2" | [Dragons ésotériques](./dragon ésotérique.md)
+| COLSPAN="2" | [[Dragon ésotérique|Dragons ésotériques]]
 |-
-| COLSPAN="2" | [Dragons sidéraux](./Dragon sidéral.md)
+| COLSPAN="2" | [[Dragon sidéral|Dragons sidéraux]]
 |-
-| COLSPAN="2" | [Dragons véritables](./dragon.md)
+| COLSPAN="2" | [[Dragon|Dragons véritables]]
 |- CLASS="note"
 | COLSPAN="2" | *(*) Les FP cités sont ceux des versions jeunes, adultes, et vénérables des dragons concernés.*
 |}
 </div></div><div style="float:right"><nav class="wiki-toc"></nav></div><div class="description">**Source :** Bestiaire 3, p.94.</div>
-*Types/Sous-types associés : [Dragon](./type Dragon.md).*
+*Types/Sous-types associés : [[type Dragon|Dragon]].*
 
 Si les dragons chromatiques et les dragons métalliques sont les plus connus, il existe aussi d’autres catégories de véritables dragons. Voici les cinq dragons impériaux, gardes royaux des territoires anciens et serviteurs de l’équilibre cosmique.
 
@@ -159,15 +159,15 @@ Nombre des capacités, des attaques et autres caractéristiques d’un véritabl
 
 **Âge (années).** Il s’agit de l’âge actuel du dragon.
 
-**FP.** Cette colonne modifie le [FP](./FP.md) de base du dragon.
+**FP.** Cette colonne modifie le [[FP]] de base du dragon.
 
-**Taille.** Cette colonne indique le nombre de [catégories de taille](./catégorie de taille.md) qui viennent augmenter la taille de base du dragon, en fonction de son âge (de taille TP à P, de taille P à M, etc.). Un véritable dragon n’améliore pas ses valeurs de caractéristique lorsqu’il atteint la taille G. Au lieu de cela, il gagne des augmentations de caractéristique en fonction de sa catégorie d’âge, comme indiqué dans la table des Valeurs de caractéristique des dragons.
+**Taille.** Cette colonne indique le nombre de [[catégorie de taille|catégories de taille]] qui viennent augmenter la taille de base du dragon, en fonction de son âge (de taille TP à P, de taille P à M, etc.). Un véritable dragon n’améliore pas ses valeurs de caractéristique lorsqu’il atteint la taille G. Au lieu de cela, il gagne des augmentations de caractéristique en fonction de sa catégorie d’âge, comme indiqué dans la table des Valeurs de caractéristique des dragons.
 
 **Dés de vie.** Indique le nombre de dés de vie supplémentaires s’ajoutant aux dés de vie de base du dragon à mesure qu’il grandit. Les augmentations de dés de vie accordent des points de vie, des dons et des rangs de compétence supplémentaires en plus d’augmenter le bonus de base à l’attaque et les bonus de sauvegarde du dragon. Un dragon a un nombre de rangs de compétences égal à 6 + son modificateur d’Intelligence par dé de vie. Les augmentations des valeurs de caractéristiques du dragon correspondant au gain de dés de vie sont inclues dans sa valeur totale de caractéristiques comme indiqué sur table des Caractéristiques des dragons.
 
 **Armure naturelle.** Indique de combien le bonus d’armure naturelle de base du dragon augmente à chaque catégorie d’âge.
 
-**Souffle.** Chaque dragon possède un [souffle](./Souffle (capacité).md) (cf. Combat) infligeant un nombre de points de dégâts de base. Ce multiplicateur augmente le nombre de dés de dégâts qu’inflige le souffle du dragon. Par exemple, un dragon adulte d’âge mûr dont le souffle de base inflige 2d6 points de dégâts d’acide inflige 14d6 points de dégâts d’acide (en raison du multiplicateur ×7).
+**Souffle.** Chaque dragon possède un [[Souffle (capacité)|souffle]] (cf. Combat) infligeant un nombre de points de dégâts de base. Ce multiplicateur augmente le nombre de dés de dégâts qu’inflige le souffle du dragon. Par exemple, un dragon adulte d’âge mûr dont le souffle de base inflige 2d6 points de dégâts d’acide inflige 14d6 points de dégâts d’acide (en raison du multiplicateur ×7).
 
 {| CLASS="tablo centre autoalt"
 |+ Caractéristiques des dragons
@@ -374,33 +374,33 @@ La table des Attaques et Vitesses de déplacement des dragons indique les attaqu
 
 Voici les autres capacités que gagnent les dragons lorsqu’ils atteignent une catégorie d’âge spécifique.
 
-**Balayage avec la queue (Ext).** Ceci permet à un dragon de taille Gig, ou plus grand, de balayer une zone avec sa queue par une [action simple](./Action simple.md). Le balayage affecte un demi-cercle de 9 m (6 {s:c}) de rayon (ou 12 m (8 {s:c}) pour un dragon de taille Col), centré sur n’importe quelle intersection bordant l’espace occupé par le dragon, dans n’importe quelle direction. Toutes les créatures situées dans la zone balayée sont affectées si elles sont plus petites que le dragon de quatre [catégories de taille](./catégorie de taille.md) ou plus. Un balayage avec la queue inflige automatiquement les dégâts indiqués plus 1,5 fois le bonus de Force du dragon. Les créatures affectées peuvent tenter un jet de [Réflexes](./Valeurs de combat.md#JETDESAUVEGARDE) pour ne recevoir que la moitié des dégâts (DD égal à celui du souffle du dragon).
+**Balayage avec la queue (Ext).** Ceci permet à un dragon de taille Gig, ou plus grand, de balayer une zone avec sa queue par une [[action simple]]. Le balayage affecte un demi-cercle de 9 m (6 {s:c}) de rayon (ou 12 m (8 {s:c}) pour un dragon de taille Col), centré sur n’importe quelle intersection bordant l’espace occupé par le dragon, dans n’importe quelle direction. Toutes les créatures situées dans la zone balayée sont affectées si elles sont plus petites que le dragon de quatre [[catégorie de taille|catégories de taille]] ou plus. Un balayage avec la queue inflige automatiquement les dégâts indiqués plus 1,5 fois le bonus de Force du dragon. Les créatures affectées peuvent tenter un jet de [[Valeurs de combat#JETDESAUVEGARDE|Réflexes]] pour ne recevoir que la moitié des dégâts (DD égal à celui du souffle du dragon).
 
 **Corne.** Les dragons impériaux de taille M ou plus grands étant dépourvus d’ailes, ils ont une attaque de corne et non d’ailes. L’attaque de corne constitue une attaque primaire infligeant le nombre de dégâts indiqués plus 1,5 fois le bonus de Force du dragon. Les cornes des dragons impériaux ont une allonge, comme si la créature était plus grande d’une catégorie de taille (+3 mètres pour les dragons de taille Col).
 
 **Coup de queue.** Le dragon peut donner un coup de queue à un ennemi à chaque round. Un coup de queue est une attaque secondaire infligeant le nombre de dégâts indiqué plus 1,5 fois le bonus de Force du dragon (il s’agit d’une exception à la règle normale des attaques secondaires).
 
-**Écrasement (Ext).** Un dragon de taille TG, ou plus grand, qui vole ou saute, peut atterrir sur ses ennemis par une [action simple](./Action simple.md), utilisant tout son corps pour les écraser. Les écrasements ne sont efficaces que contre les adversaires plus petits que le dragon de 3 [catégories de taille](./catégorie de taille.md) ou plus. Un écrasement affecte autant de créatures que peut en contenir l’espace occupé par le dragon. Les créatures situées dans la zone affectée doivent réussir un jet de [Réflexes](./Valeurs de combat.md#JETDESAUVEGARDE) (DD égal à celui du souffle du dragon) ou être immobilisées, recevant automatiquement des dégâts contondants lors du prochain round, à moins que le dragon ne les libère. Si le dragon décide de les maintenir immobiles, il doit réussir un [test de manoeuvre offensive](./Manœuvres offensives.md) normalement. Les adversaires immobilisés reçoivent les dégâts de l’écrasement tous les rounds s’ils ne s’échappent pas. Un écrasement inflige les dégâts indiqués plus 1,5 fois le bonus de Force du dragon.
+**Écrasement (Ext).** Un dragon de taille TG, ou plus grand, qui vole ou saute, peut atterrir sur ses ennemis par une [[action simple]], utilisant tout son corps pour les écraser. Les écrasements ne sont efficaces que contre les adversaires plus petits que le dragon de 3 [[catégorie de taille|catégories de taille]] ou plus. Un écrasement affecte autant de créatures que peut en contenir l’espace occupé par le dragon. Les créatures situées dans la zone affectée doivent réussir un jet de [[Valeurs de combat#JETDESAUVEGARDE|Réflexes]] (DD égal à celui du souffle du dragon) ou être immobilisées, recevant automatiquement des dégâts contondants lors du prochain round, à moins que le dragon ne les libère. Si le dragon décide de les maintenir immobiles, il doit réussir un [[Manœuvres offensives|test de manoeuvre offensive]] normalement. Les adversaires immobilisés reçoivent les dégâts de l’écrasement tous les rounds s’ils ne s’échappent pas. Un écrasement inflige les dégâts indiqués plus 1,5 fois le bonus de Force du dragon.
 
 **Griffes.** Ces attaques primaires infligent le nombre de dégâts indiqués plus le bonus de Force du dragon.
 
-**Morsure.** Il s’agit d’une attaque primaire infligeant les dégâts indiqués plus 1,5 fois le bonus de Force du dragon (même s’il a plus d’une attaque). La morsure d’un dragon a une allonge, comme si la créature était plus grande d’une [catégorie de taille](./catégorie de taille.md) (+3 mètres pour les dragons de taille Col).
+**Morsure.** Il s’agit d’une attaque primaire infligeant les dégâts indiqués plus 1,5 fois le bonus de Force du dragon (même s’il a plus d’une attaque). La morsure d’un dragon a une allonge, comme si la créature était plus grande d’une [[catégorie de taille]] (+3 mètres pour les dragons de taille Col).
 
-**Souffle (Sur).** Il suffit d’une [action simple](./Action simple.md) au dragon pour utiliser son [souffle](./Souffle (capacité).md). Il peut l’utiliser tous les 1d4 rounds, même s’il a plus d’un souffle. Un souffle part toujours d’une intersection adjacente au dragon dans la direction qu’il choisit. Les souffles se présentent sous deux formes, en ligne ou en cône, et la zone couverte dépend de la taille du dragon. Si un souffle inflige des dégâts, ceux qui sont pris dans la zone peuvent tenter un jet de [Réflexes](./Valeurs de combat.md#JETDESAUVEGARDE) pour ne recevoir que la moitié des dégâts. Le DD du jet de sauvegarde contre un souffle de dragon est de 10 + 1/2 nombre de DV du dragon + le modificateur de Con du dragon. Les jets de sauvegarde contre les différents types de souffles utilisent le même DD : le type du jet de sauvegarde est indiqué dans la description du souffle. Le dragon peut utiliser son souffle lorsqu’il [lutte](./Manœuvres offensives.md#LUTTE) ou est [agrippé](./Agrippé.md).
+**Souffle (Sur).** Il suffit d’une [[action simple]] au dragon pour utiliser son [[Souffle (capacité)|souffle]]. Il peut l’utiliser tous les 1d4 rounds, même s’il a plus d’un souffle. Un souffle part toujours d’une intersection adjacente au dragon dans la direction qu’il choisit. Les souffles se présentent sous deux formes, en ligne ou en cône, et la zone couverte dépend de la taille du dragon. Si un souffle inflige des dégâts, ceux qui sont pris dans la zone peuvent tenter un jet de [[Valeurs de combat#JETDESAUVEGARDE|Réflexes]] pour ne recevoir que la moitié des dégâts. Le DD du jet de sauvegarde contre un souffle de dragon est de 10 + 1/2 nombre de DV du dragon + le modificateur de Con du dragon. Les jets de sauvegarde contre les différents types de souffles utilisent le même DD : le type du jet de sauvegarde est indiqué dans la description du souffle. Le dragon peut utiliser son souffle lorsqu’il [[Manœuvres offensives#LUTTE|lutte]] ou est [[agrippé]].
 
 **Vitesse de vol.** La vitesse de vol du dragon augmente, comme précisé, selon sa taille. Les dragons impériaux n’ayant pas d’ailes, leur capacité à voler est surnaturelle.
 
 ### Règles additionnelles pour les dragons
-**Immunités (Ext).** Tous les dragons sont [immunisés](./Immunité (capacité).md) contre les effets de sommeil et de paralysie. En outre, ils sont immunisés contre un ou plusieurs types d’attaque supplémentaires ou dégâts d’énergie, quel que soit leur âge, comme indiqué dans leurs descriptions spécifiques.
+**Immunités (Ext).** Tous les dragons sont [[Immunité (capacité)|immunisés]] contre les effets de sommeil et de paralysie. En outre, ils sont immunisés contre un ou plusieurs types d’attaque supplémentaires ou dégâts d’énergie, quel que soit leur âge, comme indiqué dans leurs descriptions spécifiques.
 
 **Pouvoirs magiques.** Le niveau de lanceur de sorts du dragon, pour ses pouvoirs magiques, est égal à son total de dés de vie.
 
 **Présence terrifiante (Ext).** La présence terrifiante du dragon a une portée égale à 9 m (6 {s:c}) × la catégorie d’âge du dragon. Pour le reste, elle fonctionne comme précisé dans les règles universelles des monstres, en annexes.
 
-**Réduction de dégâts.** Les dragons gagnent une [réduction de dégâts](./Réduction de dégâts (capacité).md) à mesure qu’ils vieillissent, comme indiqué dans chaque en-tête de dragon. Leurs armes naturelles sont considérées comme des armes magiques quand il s’agit de passer une réduction de dégâts.
+**Réduction de dégâts.** Les dragons gagnent une [[Réduction de dégâts (capacité)|réduction de dégâts]] à mesure qu’ils vieillissent, comme indiqué dans chaque en-tête de dragon. Leurs armes naturelles sont considérées comme des armes magiques quand il s’agit de passer une réduction de dégâts.
 
-**Résistance à la magie (Ext).** À mesure qu’ils vieillissent, les dragons deviennent plus résistants aux sorts et aux pouvoirs magiques, comme spécifié dans la description de chacun. La [RM](./Résistance à la magie (capacité).md) du dragon est égale à 11 + son FP.
+**Résistance à la magie (Ext).** À mesure qu’ils vieillissent, les dragons deviennent plus résistants aux sorts et aux pouvoirs magiques, comme spécifié dans la description de chacun. La [[Résistance à la magie (capacité)|RM]] du dragon est égale à 11 + son FP.
 
-**Sens draconiques (Ext).** Les dragons possèdent [perception aveugle](./Perception aveugle (capacité).md) à 18 m (12 {s:c}) et [vision dans le noir](./vision dans le noir.md) à 36 m (24 {s:c}). Ils voient quatre fois plus loin qu’un humain dans les espaces à faible luminosité et deux fois en cas de luminosité normale.
+**Sens draconiques (Ext).** Les dragons possèdent [[Perception aveugle (capacité)|perception aveugle]] à 18 m (12 {s:c}) et [[vision dans le noir]] à 36 m (24 {s:c}). Ils voient quatre fois plus loin qu’un humain dans les espaces à faible luminosité et deux fois en cas de luminosité normale.
 
-**Sorts.** Le dragon connaît et lance des sorts profanes comme un [ensorceleur](./Ensorceleur.md) du niveau indiqué dans sa description. Son niveau de lanceur de sorts dépend de son âge, comme indiqué.
+**Sorts.** Le dragon connaît et lance des sorts profanes comme un [[ensorceleur]] du niveau indiqué dans sa description. Son niveau de lanceur de sorts dépend de son âge, comme indiqué.

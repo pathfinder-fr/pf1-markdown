@@ -10,6 +10,6 @@ Categories:
 
 {s:CMy}*Le personnage et ses alliés combattent en faisant preuve d’une grande coordination.*
 
-**Condition.** Deux [dons de travail en équipe](./Dons.md#DONEQUIPE).
+**Condition.** Deux [[Dons#DONEQUIPE|dons de travail en équipe]].
 
 **Avantage.** La totalité des bonus numériques fixes conférés au personnage par l’utilisation des dons de travail en équipe augmente de 1. Ceci ne s’applique pas aux bonus numériques variables ou aux effets qui ne confèrent aucun bonus numérique, tels que des attaques d’opportunité, un déplacement ou divers autres actions supplémentaires.

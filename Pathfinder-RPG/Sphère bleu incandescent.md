@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun sphère bleu incandescent|{s:RSE}}
-**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 8 000 po (normale), 7 200 po (défectueuse), 200 po (ébréchée) ; **Poids** –
+**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 8 000 po (normale), 7 200 po (défectueuse), 200 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** Bonus d'altération de +2 en [Sagesse](./Sagesse.md).
+- ***Normale.*** Bonus d'altération de +2 en [[Sagesse]].
 
 
-- ***Défectueuse.*** Cette pierre accorde un bonus d’altération de +2 à la [Sagesse](./Sagesse.md) et un malus de -2 aux tests de [Perception](./Perception.md).
+- ***Défectueuse.*** Cette pierre accorde un bonus d’altération de +2 à la [[Sagesse]] et un malus de -2 aux tests de [[Perception]].
 
 
-- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 à une compétence basée sur la [Sagesse](./Sagesse.md).
+- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 à une compétence basée sur la [[Sagesse]].
 
 (((Pouvoir de résonance)))
-[Combat en aveugle](./Combat en aveugle.md).
+[[Combat en aveugle]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être de niveau 12 ; **Coût** 4 000 po (normale), 3 600 po (défectueuse), 100 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], le créateur doit être de niveau 12 ; **Coût** 4 000 po (normale), 3 600 po (défectueuse), 100 po (ébréchée)
 </div>

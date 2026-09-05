@@ -7,14 +7,14 @@ Categories:
 - Religion
 ---
 
-Cet ouvrage occulte d'un noir de jais essaye de collecter les indices éparses de l'existence et de l'influence de la [Sombre Tapisserie](./Sombre Tapisserie.md) : les observations astronomiques et [aberrations](./../Pathfinder-RPG/type Aberration.md) liées à ces lieux obscurs situés entre les étoiles qui peuplent Golarion.
-On trouve notamment dans ses pages une description du terrifiant [Havero](./Havero.md).
+Cet ouvrage occulte d'un noir de jais essaye de collecter les indices éparses de l'existence et de l'influence de la [[Sombre Tapisserie]] : les observations astronomiques et [[Pathfinder-RPG.type Aberration|aberrations]] liées à ces lieux obscurs situés entre les étoiles qui peuplent Golarion.
+On trouve notamment dans ses pages une description du terrifiant [[Havero]].
 
 ### Exemplaires recensés
-La rumeur prétend que le professeur [Petros Lorrimor](./Petros-Lorrimor.md) disposait de cet ouvrage effrayant.
+La rumeur prétend que le professeur [[Petros Lorrimor]] disposait de cet ouvrage effrayant.
 
 {s:VoirAussiAvant}
 Les suppléments suivants évoquent "De la Folie Avérée" :
-- [The Haunting of Harrowstone/Les fantômes de Roctourment](./../Aventures/Présentation AP8.md#AP8-1), quatrième volume de la campagne [Carrion Crown/La couronne morbide](./../Aventures/Présentation AP8.md), p. 14.
-- [A History of Ashes/Histoire de Cendres](./../Aventures/Présentation AP2.md#AP2-4), quatrième volume de la campagne [Curse of the Crimson Throne/La Malédiction du Trône Écarlate](./../Aventures/Présentation AP2.md), p. 87.
+- [[Aventures.Présentation AP8#AP8-1|The Haunting of Harrowstone/Les fantômes de Roctourment]], quatrième volume de la campagne [[Aventures.Présentation AP8|Carrion Crown/La couronne morbide]], p. 14.
+- [[Aventures.Présentation AP2#AP2-4|A History of Ashes/Histoire de Cendres]], quatrième volume de la campagne [[Aventures.Présentation AP2|Curse of the Crimson Throne/La Malédiction du Trône Écarlate]], p. 87.
 {s:VoirAussiAprès}

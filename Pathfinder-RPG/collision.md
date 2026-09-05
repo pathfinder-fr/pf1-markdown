@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Véhicules en combat (véhicules)#CONDUITECOLLISION
 ---
 
->>> [Véhicules en combat (véhicules)#CONDUITECOLLISION](./Véhicules en combat (véhicules).md#CONDUITECOLLISION)
+>>> [[Véhicules en combat (véhicules)#CONDUITECOLLISION]]

@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*Suite à une combinaison d’étrange magie des ombres et de chirurgie, les yeux du fetchelin sont modifiés de manière permanente et lui permettent de voir plus loin dans les ténèbres.*
 
-**Conditions.** [Fetchelin](./Fetchelin (race).md)
+**Conditions.** [[Fetchelin (race)|Fetchelin]]
 
-**Avantages.** Le fetchelin gagne [vision dans le noir](./vision dans le noir.md) à 27 mètres (18 {s:c}), mais gagne la faiblesse [sensibilité à la lumière](./Sensibilité à la lumière (capacité).md).
+**Avantages.** Le fetchelin gagne [[vision dans le noir]] à 27 mètres (18 {s:c}), mais gagne la faiblesse [[sensibilité à la lumière (capacité)|sensibilité à la lumière]].

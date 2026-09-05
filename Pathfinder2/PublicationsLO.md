@@ -10,9 +10,9 @@ LastModified: 2023-04-11 16:03
 <i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
 </div>
 <div class="contenumenuPF2">
-[Règles de base](./../Golarion/Publications.md)
-[Suppléments](./PublicationsRA.md)
-[Lost Omens (monde)](./PublicationsLO.md)
+[[Publications|Règles de base]]
+[[PublicationsRA|Suppléments]]
+[[PublicationsLO|Lost Omens (monde)]]
 </div>
 </div>
 

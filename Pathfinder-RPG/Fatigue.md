@@ -14,20 +14,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Cham](./Chaman.md) 0, [Hyp](./Hypnotiseur.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Occ](./Occultiste.md) 0, [Sor](./Sorcière.md) 0  
+**École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 0, [[Hypnotiseur|Hyp]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Occultiste|Occ]] 0, [[Sorcière|Sor]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une goutte de sueur)  
+**Composantes** [[composantes|V, G, M]] (une goutte de sueur)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-D’un simple toucher, le lanceur de sorts peut [fatiguer](./Fatigué.md) la cible en lui infligeant une décharge d’énergie négative. Il doit effectuer une attaque de contact pour toucher sa victime. Celle-ci est alors [fatiguée](./Fatigué.md) pendant toute la durée du sort.
+D’un simple toucher, le lanceur de sorts peut [[fatigué|fatiguer]] la cible en lui infligeant une décharge d’énergie négative. Il doit effectuer une attaque de contact pour toucher sa victime. Celle-ci est alors [[fatigué|fatiguée]] pendant toute la durée du sort.
 
-*Fatigue* n’a aucun effet si la cible est déjà [fatiguée](./Fatigué.md). Contrairement à la fatigue normale, l’effet prend fin au terme de la durée du sort.
+*Fatigue* n’a aucun effet si la cible est déjà [[fatigué|fatiguée]]. Contrairement à la fatigue normale, l’effet prend fin au terme de la durée du sort.

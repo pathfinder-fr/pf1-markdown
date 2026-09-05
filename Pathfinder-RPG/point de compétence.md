@@ -5,4 +5,4 @@ LastModified: 2010-06-20 16:03
 RedirectTo: Pathfinder-RPG.Compétences
 ---
 
->>> [Pathfinder-RPG.Compétences](./Compétences.md)
+>>> [[Pathfinder-RPG.Compétences]]

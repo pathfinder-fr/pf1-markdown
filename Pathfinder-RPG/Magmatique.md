@@ -10,24 +10,24 @@ LastModified: 2021-02-23 16:37
 {s:pucem|Extérieur|Montagnes|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 3 p.186*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [Feu](./sous-type Feu.md)) de taille P, CN}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]]) de taille P, CN}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 17 (naturelle +6, taille +1)}
 {s:BDTexte|**pv** 30 (4d10+8)}
 {s:BDTexte|**Réf** +4, **Vig** +6, **Vol** +3}
 {s:BDTexte|**RD** 5/Magie}
-{s:BDTexte|**Immunités** feu, [traits des élémentaires](./sous-type élémentaire.md) }
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au froid}
+{s:BDTexte|**Immunités** feu, [[sous-type élémentaire|traits des élémentaires]] }
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au froid}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** contact au corps à corps, +7 (1 de feu plus combustion) ou coup +7 (1d6+2 plus 1 de feu et combustion)}
-{s:BDTexte|**Attaques spéciales** [combustion](./Combustion.md) (1d6, DD 14)}
+{s:BDTexte|**Attaques spéciales** [[combustion]] (1d6, DD 14)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 11, **Con** 15, **Int** 8, **Sag** 10, **Cha** 10}
 {s:BDTexte|**BBA** +4, **BMO** +5, **DMD** 15}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md)<sup>B</sup>, [Volonté de fer](./Volonté de fer.md),<sup>B</sup>}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +7, [Discrétion](./Discrétion.md) +11, [Escalade](./Escalade.md) +9, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7}
+{s:BDTexte|**Dons** [[Attaque en puissance]]<sup>B</sup>, [[Volonté de fer]],<sup>B</sup>}
+{s:BDTexte|**Compétences** [[Acrobaties]] +7, [[Discrétion]] +11, [[Escalade]] +9, [[Perception]] +7, [[Psychologie]] +7}
 {s:BDTexte|**Langues** igné}
 {s:BDTexte|**Particularité** peau surchauffée}
 {s:BDSousTitre|Écologie}
@@ -35,8 +35,8 @@ LastModified: 2021-02-23 16:37
 {s:BDTexte|**Organisation sociale** solitaire ou gang (2-8)}
 {s:BDTexte|**Trésor** standard }
 {s:BDSousTitre|Pouvoirs Spéciaux}
-{s:BDTexte|**Aura brûlante (Ext).**Le magmatique émet une chaleur extrême et toute créature qui commence son tour à moins de 6 mètres du magmatique doit réussir un [jet de Vigueur](./jet de sauvegarde.md) DD 14 ou recevoir 1d6 points de feu. Le DD du jet de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Peau surchauffée (Ext).**Toute arme en métal frappant un magmatique doit réussir un [jet de Vigueur](./jet de sauvegarde.md) DD 14 ou fondre et revêtir la condition brisée. Un autre coup avec la même arme entraîne la destruction de l’arme en métal si elle rate son deuxième jet de sauvegarde. Les armes en bois sont détruites après un seul échec. Les attaques à mains nues ou avec des armes naturelles infligent 1 point de dégât de feu à l’attaquant. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Aura brûlante (Ext).**Le magmatique émet une chaleur extrême et toute créature qui commence son tour à moins de 6 mètres du magmatique doit réussir un [[jet de sauvegarde|jet de Vigueur]] DD 14 ou recevoir 1d6 points de feu. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Peau surchauffée (Ext).**Toute arme en métal frappant un magmatique doit réussir un [[jet de sauvegarde|jet de Vigueur]] DD 14 ou fondre et revêtir la condition brisée. Un autre coup avec la même arme entraîne la destruction de l’arme en métal si elle rate son deuxième jet de sauvegarde. Les armes en bois sont détruites après un seul échec. Les attaques à mains nues ou avec des armes naturelles infligent 1 point de dégât de feu à l’attaquant. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div>
 

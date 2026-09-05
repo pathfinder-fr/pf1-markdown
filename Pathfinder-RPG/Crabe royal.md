@@ -10,8 +10,8 @@ LastModified: 2020-09-18 03:25
 {s:pucem|Vermine|Aquatique|Tempéré}
 {s:BDTexte|<i>Source : Art de la Magie p.118</i>}
 {s:BDTexte|<b>PX</b> 100}
-{s:BDTexte|[Vermine](./type Vermine.md) ([aquatique](./sous-type aquatique.md)) de taille TP, N}
-{s:BDTexte|**Init**+2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille TP, N}
+{s:BDTexte|**Init**+2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 18, contact 14, pris au dépourvu 16 (Dex +2, naturelle +4, taille +2}
 {s:BDTexte|<b>pv</b> 5 (1d8+1)}
@@ -21,11 +21,11 @@ LastModified: 2020-09-18 03:25
 {s:BDTexte|<b>VD</b> 9 m (6 {s:c}); <b>nage</b> 6 m (4 {s:c})}
 {s:BDTexte|<b>Corps à corps</b> 2 griffes +0 (1d2-2 + plus étreinte)}
 {s:BDTexte|<b>Espace</b> 0,8 m (1/2 {s:c}) ; <b>Allonge</b> 0}
-{s:BDTexte|**Attaques spéciales** [Étreinte](./Étreinte (capacité).md) (1d2-2)}
+{s:BDTexte|**Attaques spéciales** [[Étreinte (capacité)|Étreinte]] (1d2-2)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 7, <b>Dex</b> 15, <b>Con</b> 12, <b>Int</b> -, <b>Sag</b> 10, <b>Cha</b> 2}
 {s:BDTexte|<b>BBA</b> +0, <b>BMO</b> +0 (étreinte +4), <b>DMD</b> 8 (20 contre le croc-en-jambe)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +10, [Perception](./Perception.md) +4 ; **Modificateur racial** [Perception](./Perception.md) +4}
+{s:BDTexte|**Compétences** [[Natation]] +10, [[Perception]] +4 ; **Modificateur racial** [[Perception]] +4}
 {s:BDTexte|<b>Particularités</b> Dépendance à l’eau}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> aquatique}

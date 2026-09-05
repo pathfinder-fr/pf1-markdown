@@ -9,9 +9,9 @@ Categories:
 
 {s:cs}*Les sorts de froid du personnage rendent ses cibles paresseuses.*
 
-**Avantage.** Lorsque le personnage lance un sort du [registre](./Registre.md) froid, il peut choisir de subir une pénalité de -1 au [jet d’attaque](./jet dattaque.md) du sort et réduire le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) de 1 pour diminuer la [vitesse](./VD.md) des cibles ayant subit des dégâts de froid de 3 m (2 {s:c}) et les empêcher d'accomplir des [pas de placement](./Pas de placement.md). Cet effet dure pendant 1 [round](./round.md) + 1 round par tranche de 3 niveaux du sort utilisé.
+**Avantage.** Lorsque le personnage lance un sort du [[registre]] froid, il peut choisir de subir une pénalité de -1 au [[jet dattaque|jet d’attaque]] du sort et réduire le [[DD]] du [[jet de sauvegarde]] de 1 pour diminuer la [[VD|vitesse]] des cibles ayant subit des dégâts de froid de 3 m (2 {s:c}) et les empêcher d'accomplir des [[pas de placement]]. Cet effet dure pendant 1 [[round]] + 1 round par tranche de 3 niveaux du sort utilisé.
 
-Le personnage doit choisir d’utiliser ce don avant de lancer le [jet d’attaque](./jet dattaque.md) ou avant que vos cibles n’effectuent leur [jet de sauvegarde](./JDS.md).
+Le personnage doit choisir d’utiliser ce don avant de lancer le [[jet dattaque|jet d’attaque]] ou avant que vos cibles n’effectuent leur [[jds|jet de sauvegarde]].
 
 Ce don n’a pas d’effet sur les sorts qui n’autorisent pas de jet de sauvegarde ou ne nécessitent pas de jet d’attaque.
 

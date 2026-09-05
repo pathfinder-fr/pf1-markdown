@@ -13,6 +13,6 @@ Categories:
 
 **Condition.** Lanceur de sorts de niveau 5
 
-**Avantage.** Quand le personnage confirme un [coup critique](./coup critique.md) avec un sort de contact, de contact à distance ou un pouvoir magique, la victime est atteinte d’une [plaie mineure](./plaie magique.md) aléatoire.
+**Avantage.** Quand le personnage confirme un [[coup critique]] avec un sort de contact, de contact à distance ou un pouvoir magique, la victime est atteinte d’une [[plaie magique|plaie mineure]] aléatoire.
 
-**Spécial.** Le personnage applique les effets d’un seul [don de critique](./Dons.md#CRITIQUE) à un critique donné, à moins de posséder [Maîtrise du critique](./Maîtrise du critique.md).
+**Spécial.** Le personnage applique les effets d’un seul [[dons#CRITIQUE|don de critique]] à un critique donné, à moins de posséder [[Maîtrise du critique]].

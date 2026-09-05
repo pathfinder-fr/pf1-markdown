@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 50 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ce recueil comprend des arbres généalogiques, des descriptions des traits communs que l'on trouve dans certaines familles nobles, des blasons, des rumeurs calomnieuses et des exploits ancestraux. Il donne aux lecteurs une vision très claire de l'aristocratie et un bonus de circonstances de +2 aux tests de [Connaissances](./Connaissances.md) (noblesse).
+Ce recueil comprend des arbres généalogiques, des descriptions des traits communs que l'on trouve dans certaines familles nobles, des blasons, des rumeurs calomnieuses et des exploits ancestraux. Il donne aux lecteurs une vision très claire de l'aristocratie et un bonus de circonstances de +2 aux tests de [[Connaissances]] (noblesse).

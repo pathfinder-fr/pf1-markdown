@@ -6,7 +6,7 @@ Categories:
 - Src Manuel des races
 ---
 
-<div style="float: right; padding: 0 0 2px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Retour au [Créateur de race](./Créateur de race.md).***
+<div style="float: right; padding: 0 0 2px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Retour au [[Créateur de race]].***
 
 Cette section présente de nombreux exemples de races créées à l’aide du créateur de race.
 
@@ -17,170 +17,170 @@ Cette partie présente les sept races de base du *Manuel des joueurs* construite
 <div class="BD">
 {s:BDTitre|Demi-elfes|10 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (elfe, humain)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (elfe, humain)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Héritage humain](./Créateur de race, Particularités raciales.md#HERITAGEHUMAIN)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HERITAGEHUMAIN|Héritage humain]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Linguiste](./Créateur de race, Particularités raciales.md#LINGUISTE)<div style="float:right">1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LINGUISTE|Linguiste]]<div style="float:right">1 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Immunités des elfes](./Créateur de race, Traits raciaux.md#IMMUNITESDESELFES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#IMMUNITESDESELFES|Immunités des elfes]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Don supplémentaire statique](./Créateur de race, Traits raciaux.md#DONSUPPLEMENTAIRESTATIQUE) (Talent)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#DONSUPPLEMENTAIRESTATIQUE|Don supplémentaire statique]] (Talent)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Autres traits raciaux*}
-{s:BDTexte|* [Talents multiples](./Créateur de race, Traits raciaux.md#TALENTSMULTIPLES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENTSMULTIPLES|Talents multiples]]<div style="float:right">2 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Demi-orques|8 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (humain, orque)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (humain, orque)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Héritage humain](./Créateur de race, Particularités raciales.md#HERITAGEHUMAIN)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HERITAGEHUMAIN|Héritage humain]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Attaque*}
-{s:BDTexte|* [Férocité des orques](./Créateur de race, Traits raciaux.md#FEROCITEDESORQUES)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Apprentissage martial](./Créateur de race, Traits raciaux.md#APPRENTISSAGEMARTIAL)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#FEROCITEDESORQUES|Férocité des orques]]<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#APPRENTISSAGEMARTIAL|Apprentissage martial]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Intimidation)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Intimidation)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Elfes|10 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (elfe)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (elfe)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, -2 en Con, +2 en Int)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, -2 en Con, +2 en Int)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Immunités des elfes](./Créateur de race, Traits raciaux.md#IMMUNITESDESELFES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#IMMUNITESDESELFES|Immunités des elfes]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Magie elfique](./Créateur de race, Traits raciaux.md#MAGIEELFIQUE)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#MAGIEELFIQUE|Magie elfique]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Apprentissage martial](./Créateur de race, Traits raciaux.md#APPRENTISSAGEMARTIAL)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#APPRENTISSAGEMARTIAL|Apprentissage martial]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Gnomes|10 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (gnome)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (gnome)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille P](./Créateur de race, Particularités raciales.md#TAILLEP)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEP|Taille P]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Réduite](./Créateur de race, Particularités raciales.md#REDUITE)<div style="float:right">-1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#REDUITE|Réduite]]<div style="float:right">-1 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (-2 en For, +2 en Con, +2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (-2 en For, +2 en Con, +2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Entraînement défensif inférieur](./Créateur de race, Traits raciaux.md#ENTRAINEMENTDEFENSIFINFERIEUR)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Résistance aux illusions](./Créateur de race, Traits raciaux.md#RESISTANCEAUXILLUSIONS)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ENTRAINEMENTDEFENSIFINFERIEUR|Entraînement défensif inférieur]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEAUXILLUSIONS|Résistance aux illusions]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (choisir une compétence d’Artisanat ou de Profession)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (choisir une compétence d’Artisanat ou de Profession)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Magie gnome](./Créateur de race, Traits raciaux.md#MAGIEGNOME)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#MAGIEGNOME|Magie gnome]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Haine](./Créateur de race, Traits raciaux.md#HAINE)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Apprentissage martial](./Créateur de race, Traits raciaux.md#APPRENTISSAGEMARTIAL)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#HAINE|Haine]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#APPRENTISSAGEMARTIAL|Apprentissage martial]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 </div>
 </td><td width="2%">
 </td><td width="49%">
 <div class="BD">
 {s:BDTitre|Halfelins|9 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (halfelin)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (halfelin)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille P](./Créateur de race, Particularités raciales.md#TAILLEP)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEP|Taille P]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Réduite](./Créateur de race, Particularités raciales.md#REDUITE)<div style="float:right">-1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#REDUITE|Réduite]]<div style="float:right">-1 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (-2 en For, +2 en Dex, +2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (-2 en For, +2 en Dex, +2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Sans peur](./Créateur de race, Traits raciaux.md#SANSPEUR)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Chanceux, mineur](./Créateur de race, Traits raciaux.md#CHANCEUXMINEUR)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#SANSPEUR|Sans peur]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#CHANCEUXMINEUR|Chanceux, mineur]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Acrobaties)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Escalade)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Acrobaties)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Escalade)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Apprentissage martial](./Créateur de race, Traits raciaux.md#APPRENTISSAGEMARTIAL)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#APPRENTISSAGEMARTIAL|Apprentissage martial]]<div style="float:right">1 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Humains|9 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (humain)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (humain)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Héritage humain](./Créateur de race, Particularités raciales.md#HERITAGEHUMAIN)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HERITAGEHUMAIN|Héritage humain]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Linguiste](./Créateur de race, Particularités raciales.md#LINGUISTE)<div style="float:right">1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LINGUISTE|Linguiste]]<div style="float:right">1 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Compétent](./Créateur de race, Traits raciaux.md#COMPETENT)<div style="float:right">4 PR</div>}
-{s:BDTexte|* [Don supplémentaire flexible](./Créateur de race, Traits raciaux.md#DONSUPPLEMENTAIREFLEXIBLE)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#COMPETENT|Compétent]]<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#DONSUPPLEMENTAIREFLEXIBLE|Don supplémentaire flexible]]<div style="float:right">4 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Nains|11 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (nain)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (nain)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Réduite](./Créateur de race, Particularités raciales.md#REDUITE)<div style="float:right">-1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#REDUITE|Réduite]]<div style="float:right">-1 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Con, +2 en Sag, -2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Con, +2 en Sag, -2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Entraînement défensif inférieur](./Créateur de race, Traits raciaux.md#ENTRAINEMENTDEFENSIFINFERIEUR)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Robustesse](./Créateur de race, Traits raciaux.md#ROBUSTESSE)<div style="float:right">3 PR</div>}
-{s:BDTexte|* [Stabilité](./Créateur de race, Traits raciaux.md#STABILITE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ENTRAINEMENTDEFENSIFINFERIEUR|Entraînement défensif inférieur]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ROBUSTESSE|Robustesse]]<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#STABILITE|Stabilité]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Avarice](./Créateur de race, Traits raciaux.md#AVARICE)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Connaissance de la pierre](./Créateur de race, Traits raciaux.md#CONNAISSANCEDELAPIERRE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#AVARICE|Avarice]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#CONNAISSANCEDELAPIERRE|Connaissance de la pierre]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Haine](./Créateur de race, Traits raciaux.md#HAINE)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Apprentissage martial](./Créateur de race, Traits raciaux.md#APPRENTISSAGEMARTIAL)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#HAINE|Haine]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#APPRENTISSAGEMARTIAL|Apprentissage martial]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
 </div>
 </td></tr></table>
 
@@ -191,573 +191,573 @@ Les races suivantes font partie des races de monstres les plus adaptées pour le
 <div class="BD">
 {s:BDTitre|Aasimars|15 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Extérieur](./Créateur de race, Particularités raciales.md#EXTERIEUR) (natif )<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#EXTERIEUR|Extérieur]] (natif )<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Flexible](./Créateur de race, Particularités raciales.md#FLEXIBLE) (+2 en Sag, +2 en Cha)<div style="float:right">2 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#FLEXIBLE|Flexible]] (+2 en Sag, +2 en Cha)<div style="float:right">2 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Résistance céleste](./Créateur de race, Traits raciaux.md#RESISTANCECELESTE)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCECELESTE|Résistance céleste]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Diplomatie)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Diplomatie)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Pouvoir magique supérieur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUESUPERIEUR)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUESUPERIEUR|Pouvoir magique supérieur]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Dhampirs|11 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (dhampir)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (dhampir)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, -2 en Con, +2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, -2 en Con, +2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Linguiste](./Créateur de race, Particularités raciales.md#LINGUISTE)<div style="float:right">1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LINGUISTE|Linguiste]]<div style="float:right">1 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Résistance à l’absorption de niveau](./Créateur de race, Traits raciaux.md#RESISTANCEALABSORPTIONDENIVEAU)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Résistance des morts-vivants](./Créateur de race, Traits raciaux.md#RESISTANCEDESMORTS-VIVANTS)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEALABSORPTIONDENIVEAU|Résistance à l’absorption de niveau]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEDESMORTS-VIVANTS|Résistance des morts-vivants]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Bluff )<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Bluff )<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Pouvoir magique mineur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEMINEUR)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEMINEUR|Pouvoir magique mineur]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Faiblesse*}
-{s:BDTexte|* [Affinité avec l’énergie négative](./Créateur de race, Traits raciaux.md#AFFINITEAVECLENERGIENEGATIVE)<div style="float:right">-1 PR</div>}
-{s:BDTexte|* [Sensibilité à la lumière](./Créateur de race, Traits raciaux.md#SENSIBILITEALALUMIERE)<div style="float:right">-1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#AFFINITEAVECLENERGIENEGATIVE|Affinité avec l’énergie négative]]<div style="float:right">-1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#SENSIBILITEALALUMIERE|Sensibilité à la lumière]]<div style="float:right">-1 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Drows|14 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (elfe)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (elfe)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, -2 en Con, +2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, -2 en Con, +2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Immunités des elfes](./Créateur de race, Traits raciaux.md#IMMUNITESDESELFES)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Résistance à la magie mineure](./Créateur de race, Traits raciaux.md#RESISTANCEALAMAGIEMINEURE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#IMMUNITESDESELFES|Immunités des elfes]]<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEALAMAGIEMINEURE|Résistance à la magie mineure]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Pouvoir magique mineur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEMINEUR)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEMINEUR|Pouvoir magique mineur]]<div style="float:right">4 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Apprentissage martial](./Créateur de race, Traits raciaux.md#APPRENTISSAGEMARTIAL)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Utilisation des poisons](./Créateur de race, Traits raciaux.md#UTILISATIONDESPOISONS)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#APPRENTISSAGEMARTIAL|Apprentissage martial]]<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#UTILISATIONDESPOISONS|Utilisation des poisons]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 36 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA36METRES)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA36METRES|Vision dans le noir à 36 mètres]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Faiblesse*}
-{s:BDTexte|* [Aveuglé par la lumière](./Créateur de race, Traits raciaux.md#AVEUGLEPARLALUMIERE)<div style="float:right">-2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#AVEUGLEPARLALUMIERE|Aveuglé par la lumière]]<div style="float:right">-2 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Drows nobles|41 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (elfe)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (elfe)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Évolué](./Créateur de race, Particularités raciales.md#EVOLUE) (+4 en Dex, -2 en Con, +2 en Int, +2 en Sag, +2 en Cha)<div style="float:right">4 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#EVOLUE|Évolué]] (+4 en Dex, -2 en Con, +2 en Int, +2 en Sag, +2 en Cha)<div style="float:right">4 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Immunités des elfes](./Créateur de race, Traits raciaux.md#IMMUNITESDESELFES)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Résistance à la magie supérieure](./Créateur de race, Traits raciaux.md#RESISTANCEALAMAGIESUPERIEURE)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#IMMUNITESDESELFES|Immunités des elfes]]<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEALAMAGIESUPERIEURE|Résistance à la magie supérieure]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Pouvoir magique constant](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUECONSTANT)<div style="float:right">3 PR</div>}
-{s:BDTexte|* [Pouvoir magique mineur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEMINEUR)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Pouvoir magique supérieur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUESUPERIEUR)<div style="float:right">6 PR</div>}
-{s:BDTexte|* [Pouvoir magique à volonté](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEAVOLONTE)<div style="float:right">16 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUECONSTANT|Pouvoir magique constant]]<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEMINEUR|Pouvoir magique mineur]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUESUPERIEUR|Pouvoir magique supérieur]]<div style="float:right">6 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEAVOLONTE|Pouvoir magique à volonté]]<div style="float:right">16 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Utilisation des poisons](./Créateur de race, Traits raciaux.md#UTILISATIONDESPOISONS)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Apprentissage martial](./Créateur de race, Traits raciaux.md#APPRENTISSAGEMARTIAL)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#UTILISATIONDESPOISONS|Utilisation des poisons]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#APPRENTISSAGEMARTIAL|Apprentissage martial]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 36 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA36METRES)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA36METRES|Vision dans le noir à 36 mètres]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Faiblesse*}
-{s:BDTexte|* [Aveuglé par la lumière](./Créateur de race, Traits raciaux.md#AVEUGLEPARLALUMIERE)<div style="float:right">-2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#AVEUGLEPARLALUMIERE|Aveuglé par la lumière]]<div style="float:right">-2 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Duergars|8 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (nain)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (nain)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Réduite](./Créateur de race, Particularités raciales.md#REDUITE)<div style="float:right">-1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#REDUITE|Réduite]]<div style="float:right">-1 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Faiblesse](./Créateur de race, Particularités raciales.md#FAIBLESSE) (+2 en Con, +2 en Sag, -4 en Cha)<div style="float:right">-1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#FAIBLESSE|Faiblesse]] (+2 en Con, +2 en Sag, -4 en Cha)<div style="float:right">-1 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Immunités des duergars](./Créateur de race, Traits raciaux.md#IMMUNITESDESDUERGARS)<div style="float:right">4 PR</div>}
-{s:BDTexte|* [Stabilité](./Créateur de race, Traits raciaux.md#STABILITE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#IMMUNITESDESDUERGARS|Immunités des duergars]]<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#STABILITE|Stabilité]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Pouvoir magique mineur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEMINEUR)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEMINEUR|Pouvoir magique mineur]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 36 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA36METRES)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA36METRES|Vision dans le noir à 36 mètres]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Faiblesse*}
-{s:BDTexte|* [Sensibilité à la lumière](./Créateur de race, Traits raciaux.md#SENSIBILITEALALUMIERE)<div style="float:right">-1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#SENSIBILITEALALUMIERE|Sensibilité à la lumière]]<div style="float:right">-1 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Fetchelins|17 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Extérieur](./Créateur de race, Particularités raciales.md#EXTERIEUR) (natif )<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#EXTERIEUR|Extérieur]] (natif )<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, -2 en Sag, +2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, -2 en Sag, +2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Fusion dans les ombres](./Créateur de race, Traits raciaux.md#FUSIONDANSLESOMBRES)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Résistance des ombres](./Créateur de race, Traits raciaux.md#RESISTANCEDESOMBRES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#FUSIONDANSLESOMBRES|Fusion dans les ombres]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEDESOMBRES|Résistance des ombres]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (connaissances <nowiki>[</nowiki>plans<nowiki>]</nowiki>)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Discrétion)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (connaissances <nowiki>[[</nowiki>plans<nowiki>]]</nowiki>)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Discrétion)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Pouvoir magique mineur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEMINEUR)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Voyage à travers les ombres](./Créateur de race, Traits raciaux.md#VOYAGEATRAVERSLESOMBRES)<div style="float:right">5 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEMINEUR|Pouvoir magique mineur]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VOYAGEATRAVERSLESOMBRES|Voyage à travers les ombres]]<div style="float:right">5 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Gobelins|10 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (gobelinoïde)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (gobelinoïde)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille P](./Créateur de race, Particularités raciales.md#TAILLEP)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEP|Taille P]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Parangon supérieur](./Créateur de race, Particularités raciales.md#PARANGONSUPERIEUR) (-2 en For, +4 en Dex, -2 en Cha)<div style="float:right">2 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#PARANGONSUPERIEUR|Parangon supérieur]] (-2 en For, +4 en Dex, -2 en Cha)<div style="float:right">2 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Cavalier furtif](./Créateur de race, Traits raciaux.md#CAVALIERFURTIF)<div style="float:right">6 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#CAVALIERFURTIF|Cavalier furtif]]<div style="float:right">6 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Gripplis|6 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (grippli)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (grippli)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille P](./Créateur de race, Particularités raciales.md#TAILLEP)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEP|Taille P]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (-2 en For, +2 en Dex, +2 en Sag)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (-2 en For, +2 en Dex, +2 en Sag)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Camouflage](./Créateur de race, Traits raciaux.md#CAMOUFLAGE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#CAMOUFLAGE|Camouflage]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Escalade](./Créateur de race, Traits raciaux.md#ESCALADE)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Déplacement facilité](./Créateur de race, Traits raciaux.md#DEPLACEMENTFACILITE) (marais)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ESCALADE|Escalade]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#DEPLACEMENTFACILITE|Déplacement facilité]] (marais)<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Apprentissage martial](./Créateur de race, Traits raciaux.md#APPRENTISSAGEMARTIAL)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#APPRENTISSAGEMARTIAL|Apprentissage martial]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Hobgobelins|9 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (gobelinoïde)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (gobelinoïde)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Flexible](./Créateur de race, Particularités raciales.md#FLEXIBLE) (+2 en Dex, +2 en Con)<div style="float:right">2 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#FLEXIBLE|Flexible]] (+2 en Dex, +2 en Con)<div style="float:right">2 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Furtif](./Créateur de race, Traits raciaux.md#FURTIF)<div style="float:right">5 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#FURTIF|Furtif]]<div style="float:right">5 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Hommes-félins|9 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (homme-félin)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (homme-félin)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, -2 en Sag, +2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, -2 en Sag, +2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Chance féline](./Créateur de race, Traits raciaux.md#CHANCEFELINE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#CHANCEFELINE|Chance féline]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Discrétion)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Survie)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Discrétion)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Survie)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Sprinter](./Créateur de race, Traits raciaux.md#SPRINTER)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#SPRINTER|Sprinter]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Hommes-rats|9 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (homme-rat)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (homme-rat)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille P](./Créateur de race, Particularités raciales.md#TAILLEP)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEP|Taille P]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Réduite](./Créateur de race, Particularités raciales.md#REDUITE)<div style="float:right">-1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#REDUITE|Réduite]]<div style="float:right">-1 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (-2 en For, +2 en Dex, +2 en Int)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (-2 en For, +2 en Dex, +2 en Int)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Artisanat <nowiki>[</nowiki>alchimie<nowiki>]</nowiki>)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Utilisation d’objets magiques)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Artisanat <nowiki>[[</nowiki>alchimie<nowiki>]]</nowiki>)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Utilisation d’objets magiques)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Regroupement](./Créateur de race, Traits raciaux.md#REGROUPEMENT)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#REGROUPEMENT|Regroupement]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Autres traits raciaux*}
-{s:BDTexte|* [Empathie avec les rongeurs](./Créateur de race, Traits raciaux.md#EMPATHIEAVECLESRONGEURS)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#EMPATHIEAVECLESRONGEURS|Empathie avec les rongeurs]]<div style="float:right">1 PR</div>}
 </div>
 </td><td width="2%">
 </td><td width="49%">
 <div class="BD">
 {s:BDTitre|Ifrits|6 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Extérieur](./Créateur de race, Particularités raciales.md#EXTERIEUR) (natif )<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#EXTERIEUR|Extérieur]] (natif )<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, -2 en Sag, +2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, -2 en Sag, +2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Résistance élémentaire](./Créateur de race, Traits raciaux.md#RESISTANCEELEMENTAIRE) (feu)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEELEMENTAIRE|Résistance élémentaire]] (feu)<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Affinité élémentaire](./Créateur de race, Traits raciaux.md#AFFINITEELEMENTAIRE) (feu)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Pouvoir magique mineur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEMINEUR)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#AFFINITEELEMENTAIRE|Affinité élémentaire]] (feu)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEMINEUR|Pouvoir magique mineur]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Kobolds|7 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (reptilien)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (reptilien)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille P](./Créateur de race, Particularités raciales.md#TAILLEP)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEP|Taille P]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Faiblesse supérieure](./Créateur de race, Particularités raciales.md#FAIBLESSESUPERIEURE) (-4 en For, +2 en Dex, -2 en Con)<div style="float:right">-3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#FAIBLESSESUPERIEURE|Faiblesse supérieure]] (-4 en For, +2 en Dex, -2 en Con)<div style="float:right">-3 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Armure naturelle](./Créateur de race, Traits raciaux.md#ARMURENATURELLE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ARMURENATURELLE|Armure naturelle]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Maîtrise de compétence](./Créateur de race, Traits raciaux.md#MAITRISEDECOMPETENCE) (Artisanat <nowiki>[</nowiki>fabrication de pièges<nowiki>]</nowiki> et Profession <nowiki>[</nowiki>mineur<nowiki>]</nowiki>)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Artisanat <nowiki>[</nowiki>fabrication de pièges<nowiki>]</nowiki>)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Profession <nowiki>[</nowiki>mineur<nowiki>]</nowiki>)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#MAITRISEDECOMPETENCE|Maîtrise de compétence]] (Artisanat <nowiki>[[</nowiki>fabrication de pièges<nowiki>]]</nowiki> et Profession <nowiki>[[</nowiki>mineur<nowiki>]]</nowiki>)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Artisanat <nowiki>[[</nowiki>fabrication de pièges<nowiki>]]</nowiki>)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Profession <nowiki>[[</nowiki>mineur<nowiki>]]</nowiki>)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Faiblesse*}
-{s:BDTexte|* [Sensibilité à la lumière](./Créateur de race, Traits raciaux.md#SENSIBILITEALALUMIERE)<div style="float:right">-1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#SENSIBILITEALALUMIERE|Sensibilité à la lumière]]<div style="float:right">-1 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Ondins|7 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Extérieur](./Créateur de race, Particularités raciales.md#EXTERIEUR) (natif )<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#EXTERIEUR|Extérieur]] (natif )<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (-2 en For, +2 en Dex, +2 en Sag)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (-2 en For, +2 en Dex, +2 en Sag)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Résistance élémentaire](./Créateur de race, Traits raciaux.md#RESISTANCEELEMENTAIRE) (froid)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEELEMENTAIRE|Résistance élémentaire]] (froid)<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Affinité élémentaire](./Créateur de race, Traits raciaux.md#AFFINITEELEMENTAIRE) (eau)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Pouvoir magique mineur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEMINEUR)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#AFFINITEELEMENTAIRE|Affinité élémentaire]] (eau)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEMINEUR|Pouvoir magique mineur]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Nage](./Créateur de race, Traits raciaux.md#NAGE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#NAGE|Nage]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Oréades|6 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Extérieur](./Créateur de race, Particularités raciales.md#EXTERIEUR) (natif )<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#EXTERIEUR|Extérieur]] (natif )<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Réduite](./Créateur de race, Particularités raciales.md#REDUITE)<div style="float:right">-1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#REDUITE|Réduite]]<div style="float:right">-1 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en For, +2 en Sag, -2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en For, +2 en Sag, -2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">1 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Résistance élémentaire](./Créateur de race, Traits raciaux.md#RESISTANCEELEMENTAIRE) (acide)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEELEMENTAIRE|Résistance élémentaire]] (acide)<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Affinité élémentaire](./Créateur de race, Traits raciaux.md#AFFINITEELEMENTAIRE) (terre)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Pouvoir magique mineur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEMINEUR)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#AFFINITEELEMENTAIRE|Affinité élémentaire]] (terre)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEMINEUR|Pouvoir magique mineur]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Orques|8 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (orque)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (orque)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Parangon](./Créateur de race, Particularités raciales.md#PARANGON) (+4 en For, -2 en Int, -2 en Sag, -2 en Cha)<div style="float:right">1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#PARANGON|Parangon]] (+4 en For, -2 en Int, -2 en Sag, -2 en Cha)<div style="float:right">1 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Attaque*}
-{s:BDTexte|* [Férocité](./Créateur de race, Traits raciaux.md#FEROCITE)<div style="float:right">4 PR</div>}
-{s:BDTexte|* [Apprentissage martial](./Créateur de race, Traits raciaux.md#APPRENTISSAGEMARTIAL)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#FEROCITE|Férocité]]<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#APPRENTISSAGEMARTIAL|Apprentissage martial]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Faiblesse*}
-{s:BDTexte|* [Sensibilité à la lumière](./Créateur de race, Traits raciaux.md#SENSIBILITEALALUMIERE)<div style="float:right">-1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#SENSIBILITEALALUMIERE|Sensibilité à la lumière]]<div style="float:right">-1 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Sulis|16 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Extérieur](./Créateur de race, Particularités raciales.md#EXTERIEUR) (natif )<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#EXTERIEUR|Extérieur]] (natif )<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en For, -2 en Int, +2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en For, -2 en Int, +2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Résistance élémentaire](./Créateur de race, Traits raciaux.md#RESISTANCEELEMENTAIRE) (toutes)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEELEMENTAIRE|Résistance élémentaire]] (toutes)<div style="float:right">4 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Diplomatie)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Psychologie)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Diplomatie)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Psychologie)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Assaut élémentaire](./Créateur de race, Traits raciaux.md#ASSAUTELEMENTAIRE) (tous)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ASSAUTELEMENTAIRE|Assaut élémentaire]] (tous)<div style="float:right">4 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Svirfneblins|24 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (gnome)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (gnome)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille P](./Créateur de race, Particularités raciales.md#TAILLEP)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEP|Taille P]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Réduite](./Créateur de race, Particularités raciales.md#REDUITE)<div style="float:right">-1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#REDUITE|Réduite]]<div style="float:right">-1 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Faiblesse mixte](./Créateur de race, Particularités raciales.md#FAIBLESSEMIXTE) (-2 en For, +2 en Dex, +2 en Sag, -4 en Cha)<div style="float:right">-2 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#FAIBLESSEMIXTE|Faiblesse mixte]] (-2 en For, +2 en Dex, +2 en Sag, -4 en Cha)<div style="float:right">-2 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Chanceux supérieur](./Créateur de race, Traits raciaux.md#CHANCEUXSUPERIEUR)<div style="float:right">4 PR</div>}
-{s:BDTexte|* [Entraînement défensif supérieur](./Créateur de race, Traits raciaux.md#ENTRAINEMENTDEFENSIFSUPERIEUR)<div style="float:right">3 PR</div>}
-{s:BDTexte|* [Résistance à la magie supérieure](./Créateur de race, Traits raciaux.md#RESISTANCEALAMAGIESUPERIEURE)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#CHANCEUXSUPERIEUR|Chanceux supérieur]]<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ENTRAINEMENTDEFENSIFSUPERIEUR|Entraînement défensif supérieur]]<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEALAMAGIESUPERIEURE|Résistance à la magie supérieure]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Connaissance de la pierre](./Créateur de race, Traits raciaux.md#CONNAISSANCEDELAPIERRE)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Discrétion souterraine](./Créateur de race, Traits raciaux.md#DISCRETIONSOUTERRAINE)<div style="float:right">5 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Artisanat <nowiki>[</nowiki>alchimie<nowiki>]</nowiki>)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#CONNAISSANCEDELAPIERRE|Connaissance de la pierre]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#DISCRETIONSOUTERRAINE|Discrétion souterraine]]<div style="float:right">5 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Artisanat <nowiki>[[</nowiki>alchimie<nowiki>]]</nowiki>)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Magie des svirfneblins](./Créateur de race, Traits raciaux.md#MAGIEDESSVIRFNEBLINS)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#MAGIEDESSVIRFNEBLINS|Magie des svirfneblins]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Haine](./Créateur de race, Traits raciaux.md#HAINE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#HAINE|Haine]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 36 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA36METRES)<div style="float:right">3 PR</div>}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA36METRES|Vision dans le noir à 36 mètres]]<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Sylphes|6 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Extérieur](./Créateur de race, Particularités raciales.md#EXTERIEUR) (natif )<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#EXTERIEUR|Extérieur]] (natif )<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, -2 en Con, +2 en Int)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, -2 en Con, +2 en Int)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Résistance élémentaire](./Créateur de race, Traits raciaux.md#RESISTANCEELEMENTAIRE) (électricité)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEELEMENTAIRE|Résistance élémentaire]] (électricité)<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Affinité élémentaire](./Créateur de race, Traits raciaux.md#AFFINITEELEMENTAIRE) (air)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Pouvoir magique mineur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEMINEUR)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#AFFINITEELEMENTAIRE|Affinité élémentaire]] (air)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEMINEUR|Pouvoir magique mineur]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Tengus|13 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (tengu)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (tengu)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, -2 en Con, +2 en Sag)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, -2 en Con, +2 en Sag)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Linguiste](./Créateur de race, Particularités raciales.md#LINGUISTE)<div style="float:right">1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LINGUISTE|Linguiste]]<div style="float:right">1 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Linguiste doué](./Créateur de race, Traits raciaux.md#LINGUISTEDOUE)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Discrétion)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#LINGUISTEDOUE|Linguiste doué]]<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Discrétion)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Arme naturelle](./Créateur de race, Traits raciaux.md#ARMENATURELLE)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Entraînement aux épées](./Créateur de race, Traits raciaux.md#ENTRAINEMENTAUXEPEES)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ARMENATURELLE|Arme naturelle]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ENTRAINEMENTAUXEPEES|Entraînement aux épées]]<div style="float:right">4 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Tieffelins|13 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Extérieur](./Créateur de race, Particularités raciales.md#EXTERIEUR) (natif )<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#EXTERIEUR|Extérieur]] (natif )<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, +2 en Int, -2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, +2 en Int, -2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Résistance des fiélons](./Créateur de race, Traits raciaux.md#RESISTANCEDESFIELONS)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEDESFIELONS|Résistance des fiélons]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Bluff )<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Discrétion)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Bluff )<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Discrétion)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Magie des fiélons](./Créateur de race, Traits raciaux.md#MAGIEDESFIELONS)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Pouvoir magique mineur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEMINEUR)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#MAGIEDESFIELONS|Magie des fiélons]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEMINEUR|Pouvoir magique mineur]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Vanaras|8 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (vanara)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (vanara)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, +2 en Sag, -2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, +2 en Sag, -2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Acrobaties)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Discrétion)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Acrobaties)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Discrétion)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Escalade](./Créateur de race, Traits raciaux.md#ESCALADE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ESCALADE|Escalade]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Autres traits raciaux*}
-{s:BDTexte|* [Queue préhensile](./Créateur de race, Traits raciaux.md#QUEUEPREHENSILE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#QUEUEPREHENSILE|Queue préhensile]]<div style="float:right">2 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Vishkanyas|14 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (vishkanya)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (vishkanya)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, -2 en Sag, +2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, -2 en Sag, +2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Résistance aux poisons](./Créateur de race, Traits raciaux.md#RESISTANCEAUXPOISONS)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEAUXPOISONS|Résistance aux poisons]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Évasion)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Perception)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (Discrétion)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Évasion)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Perception)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (Discrétion)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Apprentissage martial](./Créateur de race, Traits raciaux.md#APPRENTISSAGEMARTIAL)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Toxique](./Créateur de race, Traits raciaux.md#TOXIQUE)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Utilisation des poisons](./Créateur de race, Traits raciaux.md#UTILISATIONDESPOISONS)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#APPRENTISSAGEMARTIAL|Apprentissage martial]]<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TOXIQUE|Toxique]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#UTILISATIONDESPOISONS|Utilisation des poisons]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 </div>
 </td></tr></table>
 
@@ -768,154 +768,154 @@ Les races suivantes offrent des exemples détaillés de races que l’on trouve 
 <div class="BD">
 {s:BDTitre|Centaure|29 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde monstrueux](./Créateur de race, Particularités raciales.md#HUMANOIDEMONSTRUEUX)<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDEMONSTRUEUX|Humanoïde monstrueux]]<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille G](./Créateur de race, Particularités raciales.md#TAILLEG)<div style="float:right">7 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEG|Taille G]]<div style="float:right">7 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Flexible](./Créateur de race, Particularités raciales.md#FLEXIBLE) (+2 en For, +2 en Sag)<div style="float:right">2 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#FLEXIBLE|Flexible]] (+2 en For, +2 en Sag)<div style="float:right">2 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Scores de caractéristiques*}
-{s:BDTexte|* [Constitution évoluée](./Créateur de race, Traits raciaux.md#CONSTITUTIONEVOLUEE) (+2)<div style="float:right">4 PR</div>}
-{s:BDTexte|* [Dextérité évoluée](./Créateur de race, Traits raciaux.md#DEXTERITEEVOLUEE) (+2)<div style="float:right">4 PR</div>}
-{s:BDTexte|* [Force évoluée](./Créateur de race, Traits raciaux.md#FORCEEVOLUEE) (+2)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#CONSTITUTIONEVOLUEE|Constitution évoluée]] (+2)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#DEXTERITEEVOLUEE|Dextérité évoluée]] (+2)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#FORCEEVOLUEE|Force évoluée]] (+2)<div style="float:right">4 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Défense*}
-{s:BDTexte|* [Armure naturelle](./Créateur de race, Traits raciaux.md#ARMURENATURELLE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ARMURENATURELLE|Armure naturelle]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Rapide](./Créateur de race, Traits raciaux.md#RAPIDE) (+3 mètres)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RAPIDE|Rapide]] (+3 mètres)<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Autres traits raciaux*}
-{s:BDTexte|* [Quadrupède](./Créateur de race, Traits raciaux.md#QUADRUPEDE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#QUADRUPEDE|Quadrupède]]<div style="float:right">2 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Drider|35 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Aberration](./Créateur de race, Particularités raciales.md#ABERRATION)<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#ABERRATION|Aberration]]<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille G](./Créateur de race, Particularités raciales.md#TAILLEG)<div style="float:right">7 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEG|Taille G]]<div style="float:right">7 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Flexible](./Créateur de race, Particularités raciales.md#FLEXIBLE) (+2 en Con, +2 en Sag)<div style="float:right">2 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#FLEXIBLE|Flexible]] (+2 en Con, +2 en Sag)<div style="float:right">2 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Scores de caractéristiques*}
-{s:BDTexte|* [Constitution évoluée](./Créateur de race, Traits raciaux.md#CONSTITUTIONEVOLUEE) (+2)<div style="float:right">4 PR</div>}
-{s:BDTexte|* [Dextérité évoluée](./Créateur de race, Traits raciaux.md#DEXTERITEEVOLUEE) (+2)<div style="float:right">4 PR</div>}
-{s:BDTexte|* [Force évoluée](./Créateur de race, Traits raciaux.md#FORCEEVOLUEE) (+2)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#CONSTITUTIONEVOLUEE|Constitution évoluée]] (+2)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#DEXTERITEEVOLUEE|Dextérité évoluée]] (+2)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#FORCEEVOLUEE|Force évoluée]] (+2)<div style="float:right">4 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Défense*}
-{s:BDTexte|* [Résistance à la magie supérieure](./Créateur de race, Traits raciaux.md#RESISTANCEALAMAGIESUPERIEURE)<div style="float:right">3 PR</div>}
-{s:BDTexte|* [Armure naturelle](./Créateur de race, Traits raciaux.md#ARMURENATURELLE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#RESISTANCEALAMAGIESUPERIEURE|Résistance à la magie supérieure]]<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ARMURENATURELLE|Armure naturelle]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Escalade](./Créateur de race, Traits raciaux.md#ESCALADE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ESCALADE|Escalade]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Autres traits raciaux*}
-{s:BDTexte|* [Quadrupède](./Créateur de race, Traits raciaux.md#QUADRUPEDE) (8 pattes)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#QUADRUPEDE|Quadrupède]] (8 pattes)<div style="float:right">4 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Gargouille|33 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde monstrueux](./Créateur de race, Particularités raciales.md#HUMANOIDEMONSTRUEUX)<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDEMONSTRUEUX|Humanoïde monstrueux]]<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Parangon](./Créateur de race, Particularités raciales.md#PARANGON) (+4 en Con, -2 en Int, -2 en Sag, -2 en Cha)<div style="float:right">1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#PARANGON|Parangon]] (+4 en Con, -2 en Int, -2 en Sag, -2 en Cha)<div style="float:right">1 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Scores de caractéristiques*}
-{s:BDTexte|* [Force évoluée](./Créateur de race, Traits raciaux.md#FORCEEVOLUEE) (+2)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#FORCEEVOLUEE|Force évoluée]] (+2)<div style="float:right">4 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Défense*}
-{s:BDTexte|* [Réduction de dégâts](./Créateur de race, Traits raciaux.md#REDUCTIONDEDEGATS) (10/magique)<div style="float:right">6 PR</div>}
-{s:BDTexte|* [Armure naturelle supérieure](./Créateur de race, Traits raciaux.md#ARMURENATURELLESUPERIEURE) (+3)<div style="float:right">3 PR</div>}
-{s:BDTexte|* [Armure naturelle](./Créateur de race, Traits raciaux.md#ARMURENATURELLE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#REDUCTIONDEDEGATS|Réduction de dégâts]] (10/magique)<div style="float:right">6 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ARMURENATURELLESUPERIEURE|Armure naturelle supérieure]] (+3)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ARMURENATURELLE|Armure naturelle]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Talent](./Créateur de race, Traits raciaux.md#TALENT) (+2 en Discrétion)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TALENT|Talent]] (+2 en Discrétion)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Vol](./Créateur de race, Traits raciaux.md#VOL) (15 m, moyenne)<div style="float:right">8 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VOL|Vol]] (15 m, moyenne)<div style="float:right">8 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Morsure](./Créateur de race, Traits raciaux.md#MORSURE)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Griffes](./Créateur de race, Traits raciaux.md#GRIFFES)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Attaque naturelle](./Créateur de race, Traits raciaux.md#ATTAQUENATURELLE) (corne)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#MORSURE|Morsure]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#GRIFFES|Griffes]]<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ATTAQUENATURELLE|Attaque naturelle]] (corne)<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Gnoll|6 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (gnoll)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (gnoll)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Flexible](./Créateur de race, Particularités raciales.md#FLEXIBLE) (+2 en For, +2 en Con)<div style="float:right">2 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#FLEXIBLE|Flexible]] (+2 en For, +2 en Con)<div style="float:right">2 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Xénophobe](./Créateur de race, Particularités raciales.md#XENOPHOBE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#XENOPHOBE|Xénophobe]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Armure naturelle](./Créateur de race, Traits raciaux.md#ARMURENATURELLE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ARMURENATURELLE|Armure naturelle]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Homme-lézard|8 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (reptilien)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (reptilien)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Flexible](./Créateur de race, Particularités raciales.md#FLEXIBLE) (+2 en For, +2 en Con)<div style="float:right">2 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#FLEXIBLE|Flexible]] (+2 en For, +2 en Con)<div style="float:right">2 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Xénophobe](./Créateur de race, Particularités raciales.md#XENOPHOBE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#XENOPHOBE|Xénophobe]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Armure naturelle](./Créateur de race, Traits raciaux.md#ARMURENATURELLE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ARMURENATURELLE|Armure naturelle]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Nage](./Créateur de race, Traits raciaux.md#NAGE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#NAGE|Nage]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Morsure](./Créateur de race, Traits raciaux.md#MORSURE)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Griffes](./Créateur de race, Traits raciaux.md#GRIFFES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#MORSURE|Morsure]]<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#GRIFFES|Griffes]]<div style="float:right">2 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Ogre|23 PR}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (géant)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (géant)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille G](./Créateur de race, Particularités raciales.md#TAILLEG)<div style="float:right">7 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEG|Taille G]]<div style="float:right">7 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Parangon](./Créateur de race, Particularités raciales.md#PARANGON) (+4 en For, -2 en Int, -2 en Cha, -2 en Sag)<div style="float:right">1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#PARANGON|Parangon]] (+4 en For, -2 en Int, -2 en Cha, -2 en Sag)<div style="float:right">1 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Xénophobe](./Créateur de race, Particularités raciales.md#XENOPHOBE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#XENOPHOBE|Xénophobe]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Scores de caractéristiques*}
-{s:BDTexte|* [Constitution évoluée](./Créateur de race, Traits raciaux.md#CONSTITUTIONEVOLUEE) (+2)<div style="float:right">4 PR</div>}
-{s:BDTexte|* [Sagesse évoluée](./Créateur de race, Traits raciaux.md#SAGESSEEVOLUEE) (+2)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#CONSTITUTIONEVOLUEE|Constitution évoluée]] (+2)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#SAGESSEEVOLUEE|Sagesse évoluée]] (+2)<div style="float:right">4 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Défense*}
-{s:BDTexte|* [Armure naturelle supérieure](./Créateur de race, Traits raciaux.md#ARMURENATURELLESUPERIEURE) (+1)<div style="float:right">1 PR</div>}
-{s:BDTexte|* [Armure naturelle](./Créateur de race, Traits raciaux.md#ARMURENATURELLE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ARMURENATURELLESUPERIEURE|Armure naturelle supérieure]] (+1)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ARMURENATURELLE|Armure naturelle]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Allonge](./Créateur de race, Traits raciaux.md#ALLONGE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ALLONGE|Allonge]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">1 PR</div>}
 </div>
 </td><td width="2%">
 </td><td width="49%">
@@ -923,117 +923,117 @@ Les races suivantes offrent des exemples détaillés de races que l’on trouve 
 {s:BDTitre|Gathlain|12 PR}
 {s:BDTexte|Ces étranges créatures féeriques sont en symbiose avec une plante semblable à du lierre qui leur sert d’ailes. Leur relation est si étroite qu’il est impossible de distinguer la plante de la fée. Les gathlains sont parfois serviables, souvent espiègles, et sont originaires des plus profonds recoins des forêts et des jungles primaires. Toutefois ils ont également tendance à aimer voyager et à partir à l’aventure.}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Fée](./Créateur de race, Particularités raciales.md#FEE)<div style="float:right">2 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#FEE|Fée]]<div style="float:right">2 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille P](./Créateur de race, Particularités raciales.md#TAILLEP)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEP|Taille P]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Cha, -2 en Con, +2 en Dex)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Cha, -2 en Con, +2 en Dex)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Armure naturelle](./Créateur de race, Traits raciaux.md#ARMURENATURELLE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ARMURENATURELLE|Armure naturelle]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Magiques*}
-{s:BDTexte|* [Pouvoir magique mineur](./Créateur de race, Traits raciaux.md#POUVOIRMAGIQUEMINEUR) (enchevêtrement, démarche aérienne)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#POUVOIRMAGIQUEMINEUR|Pouvoir magique mineur]] (enchevêtrement, démarche aérienne)<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Vol](./Créateur de race, Traits raciaux.md#VOL) (12 m, médiocre)<div style="float:right">6 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VOL|Vol]] (12 m, médiocre)<div style="float:right">6 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">– PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Kasatha|20 PR}
 {s:BDTexte|Chasseurs et pillards des terres abandonnées, les kasathas, créatures claniques à quatre bras, protègent leurs territoires en lançant des attaques éclair et de terrifiants assauts. Certains jeunes adultes de la race sillonnent le monde pendant une année entière en quête d’aventures et de trésors à ramener à leur clan. Quelques renégats décident de renoncer à leur tribu pour vivre une vie d’aventures.}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde](./Créateur de race, Particularités raciales.md#HUMANOIDE) (kasatha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDE|Humanoïde]] (kasatha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Flexible](./Créateur de race, Particularités raciales.md#FLEXIBLE) (+2 en Dex, +2 en Sag)<div style="float:right">2 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#FLEXIBLE|Flexible]] (+2 en Dex, +2 en Sag)<div style="float:right">2 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Défense*}
-{s:BDTexte|* [Entraînement défensif supérieur](./Créateur de race, Traits raciaux.md#ENTRAINEMENTDEFENSIFSUPERIEUR)<div style="float:right">4 PR</div>}
-{s:BDTexte|* [Coureur du désert](./Créateur de race, Traits raciaux.md#COUREURDUDESERT)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#ENTRAINEMENTDEFENSIFSUPERIEUR|Entraînement défensif supérieur]]<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#COUREURDUDESERT|Coureur du désert]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Dons et compétences*}
-{s:BDTexte|* [Traqueur](./Créateur de race, Traits raciaux.md#TRAQUEUR)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#TRAQUEUR|Traqueur]]<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Sauteur](./Créateur de race, Traits raciaux.md#SAUTEUR)<div style="float:right">2 PR</div>}
-{s:BDTexte|* [Déplacement facilité](./Créateur de race, Traits raciaux.md#DEPLACEMENTFACILITE) (désert)<div style="float:right">1 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#SAUTEUR|Sauteur]]<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#DEPLACEMENTFACILITE|Déplacement facilité]] (désert)<div style="float:right">1 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Autres traits raciaux*}
-{s:BDTexte|* [Bras multiples](./Créateur de race, Traits raciaux.md#BRASMULTIPLES) (4 bras)<div style="float:right">8 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#BRASMULTIPLES|Bras multiples]] (4 bras)<div style="float:right">8 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Trox|28 PR}
 {s:BDTexte|Ces grands et horribles fouisseurs sont originaires des montagnes et des hautes terres, mais se retrouvent souvent asservis et obligés de devenir les troupes de choc terrifiantes des armées en maraude ou les acteurs de spectacles de gladiateurs. Certains trox gagnent leur liberté et deviennent des gardes du corps, des malfrats, voire même des aventuriers.}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Humanoïde monstrueux](./Créateur de race, Particularités raciales.md#HUMANOIDEMONSTRUEUX)<div style="float:right">3 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#HUMANOIDEMONSTRUEUX|Humanoïde monstrueux]]<div style="float:right">3 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille G](./Créateur de race, Particularités raciales.md#TAILLEG)<div style="float:right">7 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEG|Taille G]]<div style="float:right">7 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Parangon](./Créateur de race, Particularités raciales.md#PARANGON) (+4 en For, -2 en Int, -2 en Sag, -2 en Cha)<div style="float:right">1 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#PARANGON|Parangon]] (+4 en For, -2 en Int, -2 en Sag, -2 en Cha)<div style="float:right">1 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Xénophobe](./Créateur de race, Particularités raciales.md#XENOPHOBE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#XENOPHOBE|Xénophobe]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Scores de caractéristiques*}
-{s:BDTexte|* [Force évoluée](./Créateur de race, Traits raciaux.md#FORCEEVOLUEE) (+2)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#FORCEEVOLUEE|Force évoluée]] (+2)<div style="float:right">4 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Creusement](./Créateur de race, Traits raciaux.md#CREUSEMENT)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#CREUSEMENT|Creusement]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Frénésie](./Créateur de race, Traits raciaux.md#FRENESIE)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#FRENESIE|Frénésie]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">2 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">2 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Autres traits raciaux*}
-{s:BDTexte|* [Appendices attrapeurs](./Créateur de race, Traits raciaux.md#APPENDICESATTRAPEURS)<div style="float:right">6 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#APPENDICESATTRAPEURS|Appendices attrapeurs]]<div style="float:right">6 PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Virebois|20 PR}
 {s:BDTexte|Les virebois originels furent créés il y a des siècles pour servir d’espions et d’apprentis dépourvus d’émotions à un magicien. La chute de celui-ci coïncida avec le moment où il leur fit don de leur libre-arbitre qui, en plus de leur intelligence froide et calculatrice, préfigura la naissance d’une nouvelle race étrange. Les virebois assassinèrent leur ancien maître et volèrent les secrets de leur propre création, qu’ils gardent jalousement et contrôlent scrupuleusement.}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Créature artificielle](./Créateur de race, Particularités raciales.md#CREATUREARTIFICIELLE)<div style="float:right">20 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CREATUREARTIFICIELLE|Créature artificielle]]<div style="float:right">20 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille P](./Créateur de race, Particularités raciales.md#TAILLEP)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEP|Taille P]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, +2 en Int, -2 en Cha)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, +2 en Int, -2 en Cha)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">– PR</div>}
 </div>
 
 <div class="BD">
 {s:BDTitre|Wivaran|17 PR}
 {s:BDTexte|On trouve souvent les wivarans, que l’on pense être une fusion des kobolds et des vouivres, à la tête des tribus de kobolds, au service des vouivres, voire même parmi les vrais dragons. Comme les vouivres, ce sont des créatures territoriales, mais ils ont un sens de l’honneur aigu. En fonction de la manière dont on les traite, les wivarans peuvent devenir de puissants alliés ou de redoutables ennemis.}
 {s:BDSousTitre|Type}
-{s:BDTexte|[Dragon](./Créateur de race, Particularités raciales.md#DRAGON)<div style="float:right">10 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#DRAGON|Dragon]]<div style="float:right">10 PR</div>}
 {s:BDSousTitre|Taille}
-{s:BDTexte|[Taille M](./Créateur de race, Particularités raciales.md#TAILLEM)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#TAILLEM|Taille M]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Vitesse de base}
-{s:BDTexte|[Normale](./Créateur de race, Particularités raciales.md#NORMALE)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#NORMALE|Normale]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Modificateurs de caractéristiques}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#CARACSTANDARD) (+2 en Dex, -2 en Int, +2 en Sag)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#CARACSTANDARD|Standard]] (+2 en Dex, -2 en Int, +2 en Sag)<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Langues}
-{s:BDTexte|[Standard](./Créateur de race, Particularités raciales.md#LANGUESTANDARD)<div style="float:right">0 PR</div>}
+{s:BDTexte|[[Créateur de race, Particularités raciales#LANGUESTANDARD|Standard]]<div style="float:right">0 PR</div>}
 {s:BDSousTitre|Traits raciaux}
 {s:BDTexte|*Déplacement*}
-{s:BDTexte|* [Vol](./Créateur de race, Traits raciaux.md#VOL) (9 m, déplorable)<div style="float:right">4 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VOL|Vol]] (9 m, déplorable)<div style="float:right">4 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Attaque*}
-{s:BDTexte|* [Queue fouettante](./Créateur de race, Traits raciaux.md#QUEUEFOUETTANTE)<div style="float:right">3 PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#QUEUEFOUETTANTE|Queue fouettante]]<div style="float:right">3 PR</div>}
 <div style="border-top:1px solid black"></div>{s:BDTexte|*Sens*}
-{s:BDTexte|* [Vision dans le noir à 18 mètres](./Créateur de race, Traits raciaux.md#VISIONDANSLENOIRA18METRES)<div style="float:right">– PR</div>}
-{s:BDTexte|* [Vision nocturne](./Créateur de race, Traits raciaux.md#VISIONNOCTURNE)<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONDANSLENOIRA18METRES|Vision dans le noir à 18 mètres]]<div style="float:right">– PR</div>}
+{s:BDTexte|* [[Créateur de race, Traits raciaux#VISIONNOCTURNE|Vision nocturne]]<div style="float:right">– PR</div>}
 </div>
 </td></tr></table>

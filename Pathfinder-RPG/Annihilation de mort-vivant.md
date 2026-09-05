@@ -12,20 +12,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Inq](./Inquisiteur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Prê](./Prêtre.md) 6, [Spi](./Spirite.md) 6  
+**École** [[Nécromancie]] ; **Niveau** [[Inquisiteur|Inq]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Prêtre|Prê]] 6, [[Spirite|Spi]] 6  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (poudre de diamant (500 po))  
+**Composantes** [[COMPOSANTES|V, G, M/FD]] (poudre de diamant (500 po))  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Zone d'effet** plusieurs [morts-vivants](./type Mort-vivant.md) situés dans un [rayonnement](./rayonnement.md) de 12 m de rayon  
+**Zone d'effet** plusieurs [[type mort-vivant|morts-vivants]] situés dans un [[rayonnement]] de 12 m de rayon  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Cercle de mort éteint l’étincelle de vie des [morts-vivants](./type Mort-vivant.md) présents dans la [zone d’effet](./zone deffet.md), qui meurent instantanément. Le sort tue 1d4 [DV](./../Ressources/DV.md) de créatures par [niveau de lanceur de sorts](./NLS.md) (allant jusqu’à un maximum de 20d4). Les plus faibles créatures sont les premières à être affectées. En cas de [DV](./../Ressources/DV.md) identiques, ce sont les cibles les plus proches du point d’origine du [rayonnement](./rayonnement.md) qui sont touchées en priorité. Toute créature disposant d’un minimum de 9 [DV](./../Ressources/DV.md) est immunisée contre ce sort. Si les [DV](./../Ressources/DV.md) restants sont insuffisant pour toucher la cible suivante, ils sont perdus.
+Cercle de mort éteint l’étincelle de vie des [[type mort-vivant|morts-vivants]] présents dans la [[zone deffet|zone d’effet]], qui meurent instantanément. Le sort tue 1d4 [[DV]] de créatures par [[NLS|niveau de lanceur de sorts]] (allant jusqu’à un maximum de 20d4). Les plus faibles créatures sont les premières à être affectées. En cas de [[DV]] identiques, ce sont les cibles les plus proches du point d’origine du [[rayonnement]] qui sont touchées en priorité. Toute créature disposant d’un minimum de 9 [[DV]] est immunisée contre ce sort. Si les [[DV]] restants sont insuffisant pour toucher la cible suivante, ils sont perdus.
 
-(((Ce sort est similaire à *[cercle de mort](./Cercle de mort.md)*, sauf qu’il détruit des [morts-vivants](./type Mort-vivant.md).)))
+(((Ce sort est similaire à *[[cercle de mort]]*, sauf qu’il détruit des [[type mort-vivant|morts-vivants]].)))

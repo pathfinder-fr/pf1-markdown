@@ -10,8 +10,8 @@ LastModified: 2015-02-25 14:35
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Art de la Magie p.118*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Animal](./type Animal.md) de taille Min, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille Min, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 16, pris au dépourvu 14 (Dex +2, taille +4}
 {s:BDTexte|**pv** 2 (1d8-2)}
@@ -23,8 +23,8 @@ LastModified: 2015-02-25 14:35
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 15, **Con** 6, **Int** 2, **Sag** 15, **Cha** 6}
 {s:BDTexte|**BBA** +0, **BMO** -2, **DMD** 3}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +5 , [Vol](./Vol.md) +12}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +5 , [[Vol]] +12}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou vol (3-12)}

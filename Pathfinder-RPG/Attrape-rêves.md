@@ -10,11 +10,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Attrape-rêves|{s:AO}}
-**Aura** [Abjuration](./Abjuration.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 2 800 po ; **Poids** 1 kg
+**Aura** [[Abjuration]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 2 800 po ; **Poids** 1 kg
 (((Description)))
 Cet objet protecteur est un cercle en bois souple et fin à l’intérieur duquel sont tissés des tendons comme une toile d’araignée. Les attrape-rêves sont souvent décorés de perles et de plumes. Il existe des attrape-rêves plus élaborés en or ou en argent sur lesquels sont suspendus des joyaux et des figurines métalliques.
 
-Un attrape-rêves protège son propriétaire endormi des influences malveillantes. Il bénéficie ainsi d’un bonus de sainteté de +2 aux [jets de sauvegarde](./Valeurs de combat.md#JETDESAUVEGARDE) effectués pendant son sommeil. De plus, chaque affaiblissement temporaire ou diminution permanente de caractéristique subi pendant son sommeil est réduit de 1 point (jusqu’à un minimum de 0 point).
+Un attrape-rêves protège son propriétaire endormi des influences malveillantes. Il bénéficie ainsi d’un bonus de sainteté de +2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] effectués pendant son sommeil. De plus, chaque affaiblissement temporaire ou diminution permanente de caractéristique subi pendant son sommeil est réduit de 1 point (jusqu’à un minimum de 0 point).
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[résistance](./sort Résistance.md)* ; **Coût** 1 400 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[sort résistance|résistance]]* ; **Coût** 1 400 po
 </div>

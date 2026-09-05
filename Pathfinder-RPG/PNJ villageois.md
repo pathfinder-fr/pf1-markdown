@@ -15,9 +15,9 @@ simples habitant un hameau endormi, la plupart des gens du peuple ne désirent r
 {s:Reference|IDIOTDUVILLAGE}
 {s:BDTitre|Idiot du village|FP 1/3}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|Humain [homme du peuple](./Homme du peuple.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [Perception](./Perception.md) +3}
+{s:BDTexte|Humain [[homme du peuple]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 10, contact 10, pris au dépourvu 10}
 {s:BDTexte|**pv** 6 (1d6+3)}
@@ -30,21 +30,21 @@ simples habitant un hameau endormi, la plupart des gens du peuple ne désirent r
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 11, **Con** 15, **Int** 4, **Sag** 9, **Cha** 10}
 {s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 11}
-{s:BDTexte|**Dons** [Endurance](./Endurance.md), [Surprise](./Surprise.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +5, [Perception](./Perception.md) +3}
+{s:BDTexte|**Dons** [[Endurance]], [[Surprise]]}
+{s:BDTexte|**Compétences** [[Escalade]] +5, [[Perception]] +3}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** sens des pièges +1}
 {s:BDTexte|**Équipement** gourdin improvisé, fronde avec 10 billes, navet}
-{s:BDTexte|**Faveur** L’idiot du village peut aiguiller les PJ vers un secret ou un objet caché qu’il a découvert par hasard, leur octroyant un bonus de +5 à un test de [Perception](./Perception.md) pour fouiller la zone.}
+{s:BDTexte|**Faveur** L’idiot du village peut aiguiller les PJ vers un secret ou un objet caché qu’il a découvert par hasard, leur octroyant un bonus de +5 à un test de [[Perception]] pour fouiller la zone.}
 </div>
 </td><td><div>
 L’idiot du village est un simplet aimable qui survit grâce à la charité, en mendiant, en accomplissant de menus travaux ou en chassant de petits animaux avec sa fronde. Il a généralement un bon fond mais, si on le provoque, il se met facilement en colère et peut frapper au hasard avec tout ce qui lui tombe sous la main.
-En donnant à l’idiot du village un don de [Talent](./Talent.md) au lieu d’[Endurance](./Endurance.md), on peut en faire un idiot savant doté de grandes connaissances dans un domaine bien spécifique, généralement une compétence d’[Artisanat](./Artisanat.md) ou de [Connaissances](./Connaissances.md). En intervertissant ses valeurs de Constitution et de Charisme et en lui donnant [Fraternité animale](./Fraternité animale.md), [Talent](./Talent.md) (Dressage) et la compétence de Dressage au lieu d’[Escalade](./Escalade.md), on peut créer un ami des chevaux ou un individu qui se sent plus à l’aise parmi les animaux qu’au sein des communautés humaines (**pv** 4, **Vig** +0, [Dressage](./Dressage.md) +11). Un idiot du village peut également posséder un couteau mal aiguisé ou peut avoir appris à se défendre avec ses poings contre les moqueries des villageois cruels (avec le don [Science du combat à mains nues](./Science du combat à mains nues.md)).
+En donnant à l’idiot du village un don de [[Talent]] au lieu d’[[Endurance]], on peut en faire un idiot savant doté de grandes connaissances dans un domaine bien spécifique, généralement une compétence d’[[Artisanat]] ou de [[Connaissances]]. En intervertissant ses valeurs de Constitution et de Charisme et en lui donnant [[Fraternité animale]], [[Talent]] (Dressage) et la compétence de Dressage au lieu d’[[Escalade]], on peut créer un ami des chevaux ou un individu qui se sent plus à l’aise parmi les animaux qu’au sein des communautés humaines (**pv** 4, **Vig** +0, [[Dressage]] +11). Un idiot du village peut également posséder un couteau mal aiguisé ou peut avoir appris à se défendre avec ses poings contre les moqueries des villageois cruels (avec le don [[Science du combat à mains nues]]).
 On peut également utiliser l’idiot du village comme prisonnier, esclave sur une galère ou lunatique emprisonné dans un asile
-de fous. Il peut aussi être n’importe quel homme du peuple si on remplace sa compétence d’[Escalade](./Escalade.md) par l’[Artisanat](./Artisanat.md) ou
-la [Profession](./Profession.md) adéquat. Un garçon d’écurie peut avoir la compétence [Équitation](./Équitation.md), alors qu’un travailleur des docks
-optera plutôt pour [Natation](./Natation.md). Un gamin des rues, lui, pourra posséder les dons [Course](./Course.md) et [Rapide](./Rapide.md).
-L’idiot du village est généralement seul, mais on peut le rencontrer alors qu’il suit un [acolyte](./PNJ temples.md#ACOLYTE), un [ivrogne](./PNJ tavernes.md#IVROGNE), un [fermier](./PNJ villageois.md#FERMIER) ou un [commerçant](./PNJ marchands.md#COMMERCANT).
+de fous. Il peut aussi être n’importe quel homme du peuple si on remplace sa compétence d’[[Escalade]] par l’[[Artisanat]] ou
+la [[Profession]] adéquat. Un garçon d’écurie peut avoir la compétence [[Équitation]], alors qu’un travailleur des docks
+optera plutôt pour [[Natation]]. Un gamin des rues, lui, pourra posséder les dons [[Course]] et [[Rapide]].
+L’idiot du village est généralement seul, mais on peut le rencontrer alors qu’il suit un [[PNJ temples#ACOLYTE|acolyte]], un [[PNJ tavernes#IVROGNE|ivrogne]], un [[PNJ villageois#FERMIER|fermier]] ou un [[PNJ marchands#COMMERCANT|commerçant]].
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -52,9 +52,9 @@ L’idiot du village est généralement seul, mais on peut le rencontrer alors q
 {s:Reference|FERMIER}
 {s:BDTitre|Fermier|FP 1/2}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|Humain [homme du peuple](./Homme du peuple.md) 1 / [expert](./Expert.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [Perception](./Perception.md) +1}
+{s:BDTexte|Humain [[homme du peuple]] 1 / [[expert]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 10, contact 10, pris au dépourvu 10}
 {s:BDTexte|**pv** 10 (2 DV ; 1d6+1d8+2)}
@@ -68,8 +68,8 @@ L’idiot du village est généralement seul, mais on peut le rencontrer alors q
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 10, **Con** 12, **Int** 10, **Sag** 13, **Cha** 9}
 {s:BDTexte|**BBA** +0, **BMO** +0 **DMD** 10}
-{s:BDTexte|**Dons** [Fraternité animale](./Fraternité animale.md), [Talent](./Talent.md) (Profession <nowiki>[</nowiki>fermier<nowiki>]</nowiki>)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (constructions en bois) +5, [Connaissances](./Connaissances.md) (folklore local) +4, [Connaissances](./Connaissances.md) (nature) +4, [Dressage](./Dressage.md) +6, [Équitation](./Équitation.md) +7, [Premiers secours](./Premiers secours.md) +5, [Profession](./Profession.md) (fermier) +9}
+{s:BDTexte|**Dons** [[Fraternité animale]], [[Talent]] (Profession <nowiki>[[</nowiki>fermier<nowiki>]]</nowiki>)}
+{s:BDTexte|**Compétences** [[Artisanat]] (constructions en bois) +5, [[Connaissances]] (folklore local) +4, [[Connaissances]] (nature) +4, [[Dressage]] +6, [[Équitation]] +7, [[Premiers secours]] +5, [[Profession]] (fermier) +9}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** sens des pièges +1}
 {s:BDTexte|**Équipement** fronde avec 10 billes, gourdin, serpe, cheval lourd, wagon}
@@ -78,8 +78,8 @@ L’idiot du village est généralement seul, mais on peut le rencontrer alors q
 <td><div>
 Les fermiers forment la charpente de toute économie. Ils produisent des denrées et du bétail pour tout le monde. Le fermier typique est raisonnable, équitable et digne de confiance mais méfiant envers les étrangers. Un fermier peut être un bon informateur en matière de rumeurs, et il connaît la région autour de sa ferme comme le dos de sa main.
 Les fermiers qui vivent dans des régions particulièrement dangereuses possèdent une vieille armure de cuir qu’ils revêtent en
-période de troubles (CA 12) ainsi qu’une vieille lance ou une arbalète cachée quelque part dans leur maison (des souvenirs datant de leur entraînement dans la milice). Si le fermier est un soldat vétéran ou s’il a déjà dû défendre ses terres de nombreuses fois contre les créatures sauvages, il pourra avoir un niveau d’[homme d’arme](./Homme darme.md) au lieu d’un de ses niveaux d’[homme du peuple](./Homme du peuple.md). Il aura alors les mêmes compétences, mais ses points de vie passeront à 11, son bonus de Vigueur à +3 et son BBA, à +1. Il possédera sans doute une armure légère et de meilleurs armes qu’il utilisera pour défendre sa maison et sa famille.
-On rencontre généralement les fermiers en familles de deux à six membres (FP 1 à 4). À l’extérieur, un fermier peut travailler dans les champs avec ses trois robustes fils, fermiers eux aussi (FP 3). En ville, il peut marchander avec un [commerçant](./PNJ marchands.md#COMMERCANT) (FP 2) ou trois fermiers peuvent converser avec une jolie [serveuse](./PNJ tavernes.md#SERVEUSE) dans la taverne (FP 3). Une douzaine de fermiers équipés de torches et de fourches (considérez-les comme des lances) forment une meute de paysans mécontents (FP 6).
+période de troubles (CA 12) ainsi qu’une vieille lance ou une arbalète cachée quelque part dans leur maison (des souvenirs datant de leur entraînement dans la milice). Si le fermier est un soldat vétéran ou s’il a déjà dû défendre ses terres de nombreuses fois contre les créatures sauvages, il pourra avoir un niveau d’[[homme darme|homme d’arme]] au lieu d’un de ses niveaux d’[[homme du peuple]]. Il aura alors les mêmes compétences, mais ses points de vie passeront à 11, son bonus de Vigueur à +3 et son BBA, à +1. Il possédera sans doute une armure légère et de meilleurs armes qu’il utilisera pour défendre sa maison et sa famille.
+On rencontre généralement les fermiers en familles de deux à six membres (FP 1 à 4). À l’extérieur, un fermier peut travailler dans les champs avec ses trois robustes fils, fermiers eux aussi (FP 3). En ville, il peut marchander avec un [[PNJ marchands#COMMERCANT|commerçant]] (FP 2) ou trois fermiers peuvent converser avec une jolie [[PNJ tavernes#SERVEUSE|serveuse]] dans la taverne (FP 3). Une douzaine de fermiers équipés de torches et de fourches (considérez-les comme des lances) forment une meute de paysans mécontents (FP 6).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -87,9 +87,9 @@ On rencontre généralement les fermiers en familles de deux à six membres (FP 
 {s:Reference|MAIRE}
 {s:BDTitre|Maire|FP 8}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|Humain [noble](./Noble.md) 3 / [expert](./Expert.md) 7}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [Perception](./Perception.md) +10}
+{s:BDTexte|Humain [[noble]] 3 / [[expert]] 7}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 10, pris au dépourvu 16 (armure +4, bouclier +2)}
 {s:BDTexte|**pv** 44 (10d8)}
@@ -101,8 +101,8 @@ On rencontre généralement les fermiers en familles de deux à six membres (FP 
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 10, **Con** 10, **Int** 14, **Sag** 11, **Cha** 14}
 {s:BDTexte|**BBA** +7, **BMO** +6 (+10 pour désarmer), **DMD** 16 (18 contre le désarmement)}
-{s:BDTexte|**Dons** [Désarmement supérieur](./Désarmement supérieur.md), [Expertise du combat](./Expertise du combat.md), [Science du désarmement](./Science du désarmement.md), [Talent](./Talent.md) (Connaissances <nowiki>[</nowiki>folklore local<nowiki>]</nowiki>), [Talent](./Talent.md) (Diplomatie), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +15, [Connaissances](./Connaissances.md) (folklore local) +21, [Connaissances](./Connaissances.md) (géographie) +8, [Connaissances](./Connaissances.md) (histoire) +8, [Connaissances](./Connaissances.md) (noblesse) +15, [Déguisement](./Déguisement.md) +12, [Diplomatie](./Diplomatie.md) +21, [Équitation](./Équitation.md) +8, [Intimidation](./Intimidation.md) +10, [Linguistique](./Linguistique.md) +10, [Linguistique](./Linguistique.md) +8, [Perception](./Perception.md) +10, [Profession](./Profession.md) (une au choix) +13, [Psychologie](./Psychologie.md) +17, [Représentation](./Représentation.md) (déclamation) +15}
+{s:BDTexte|**Dons** [[Désarmement supérieur]], [[Expertise du combat]], [[Science du désarmement]], [[Talent]] (Connaissances <nowiki>[[</nowiki>folklore local<nowiki>]]</nowiki>), [[Talent]] (Diplomatie), [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Bluff]] +15, [[Connaissances]] (folklore local) +21, [[Connaissances]] (géographie) +8, [[Connaissances]] (histoire) +8, [[Connaissances]] (noblesse) +15, [[Déguisement]] +12, [[Diplomatie]] +21, [[Équitation]] +8, [[Intimidation]] +10, [[Linguistique]] +10, [[Linguistique]] +8, [[Perception]] +10, [[Profession]] (une au choix) +13, [[Psychologie]] +17, [[Représentation]] (déclamation) +15}
 {s:BDTexte|**Langues** commun, elfique, gnome, halfelin, nain, sylvestre}
 {s:BDTexte|**Particularités** sens des pièges +1, talent de roublard (roublard en finesse)}
 {s:BDTexte|**Équipement** *armure de cuir cloutée +1*, *targe +1*, dague, *rapière +1*, *charme de bonne santé*, *onguent d’intemporalité* (2), *plume magique* (oiseau), cheval léger avec selle d’équitation}
@@ -111,5 +111,5 @@ On rencontre généralement les fermiers en familles de deux à six membres (FP 
 </td><td><div>
 Les maires sont les autorités civiles des villes et des cités. Un petit village sera dirigé simplement par un individu riche ou un petit conseil d’hommes du peuple, mais un maire, lui, est bien informé de tout ce qui se passe dans sa large communauté et il est capable de travailler efficacement avec tout le monde, les gens du peuple comme les riches et les puissants. Même s’il ne possède pas de titre, sa position lui permet de côtoyer tant les bourgeois et les propriétaires terrestres que les nobles héréditaires.
 On peut trouver un maire dans toutes les villes et cités de bonne taille, ou même dans les petits villages dotés d’une importance stratégique ou économique. Les grandes cités peuvent avoir plusieurs maires œuvrant comme administrateurs des différents districts et siégeant ensemble au conseil de la ville. Un maire peut servir de directeur de collège ou de guilde ou encore d’ambassadeur pour un seigneur noble.
-Les maires se font souvent accompagner par deux gardes du corps [officiers](./PNJ milices.md#OFFICIER) (FP 9) ou par un [noble](./PNJ nobles.md#NOBLE) (FP 10), ou par un [prince marchand](./PNJ marchands.md#PRINCEMARCHAND) et un [mercenaire armé](./PNJ mercenaires.md#MERCENAIREARME) qui lui sert de protecteur (FP 11).
+Les maires se font souvent accompagner par deux gardes du corps [[PNJ milices#OFFICIER|officiers]] (FP 9) ou par un [[PNJ nobles#NOBLE|noble]] (FP 10), ou par un [[PNJ marchands#PRINCEMARCHAND|prince marchand]] et un [[PNJ mercenaires#MERCENAIREARME|mercenaire armé]] qui lui sert de protecteur (FP 11).
 </div></td></tr></table>

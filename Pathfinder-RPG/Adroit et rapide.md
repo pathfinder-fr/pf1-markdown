@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*Le personnage est rapide et prudent.*
 
-**Conditions.** [halfelin](./Halfelin.md), trait racial pieds rapides
+**Conditions.** [[halfelin]], trait racial pieds rapides
 
-**Avantages.** Le personnage gagne un bonus racial de +2 en [Acrobaties](./Acrobaties.md) et en [Escalade](./Escalade.md).
+**Avantages.** Le personnage gagne un bonus racial de +2 en [[Acrobaties]] et en [[Escalade]].

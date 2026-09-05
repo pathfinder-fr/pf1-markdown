@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#BONPOURCEQUETUAS
 ---
 
->>> [pouvoirs de rage#BONPOURCEQUETUAS](./Pouvoirs de rage.md#BONPOURCEQUETUAS)
+>>> [[pouvoirs de rage#BONPOURCEQUETUAS]]

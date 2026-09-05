@@ -10,6 +10,6 @@ Categories:
 
 {s:mca} *Le personnage sachant où frapper, ses poisons sont encore plus dangereux.*
 
-**Conditions.** Pouvoir de classe [utilisation des poisons](./Assassin.md#UTILISATIONDUPOISON), frappe étudiée +4d6.
+**Conditions.** Pouvoir de classe [[assassin#UTILISATIONDUPOISON|utilisation des poisons]], frappe étudiée +4d6.
 
-**Avantage.** Quand le personnage utilise une arme empoisonnée pour porter une attaque avec frappe étudiée, le [DD](./DD.md) pour résister au poison augmente de la moitié du nombre de dés qu’il possède pour frappe étudiée.
+**Avantage.** Quand le personnage utilise une arme empoisonnée pour porter une attaque avec frappe étudiée, le [[DD]] pour résister au poison augmente de la moitié du nombre de dés qu’il possède pour frappe étudiée.

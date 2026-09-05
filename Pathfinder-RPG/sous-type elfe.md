@@ -10,4 +10,4 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire* p.313
 
-On utilise ce sous-type pour les elfes et les créatures qui leur sont apparentées. Les créatures de ce sous-type sont dotées de la capacité de [vision nocturne](./vision nocturne.md).
+On utilise ce sous-type pour les elfes et les créatures qui leur sont apparentées. Les créatures de ce sous-type sont dotées de la capacité de [[vision nocturne]].

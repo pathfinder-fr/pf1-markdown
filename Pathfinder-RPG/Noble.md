@@ -61,12 +61,12 @@ Categories:
 **Dé de vie.** d8.
 
 ### Compétences de classes
-Les compétences du noble (et la caractéristique dont chacune dépend) sont : [Artisanat](./Artisanat.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (au choix, chaque compétence devant être prise séparément) (Int), [Déguisement](./Déguisement.md) (Cha), [Diplomatie](./Diplomatie.md) (Cha), [Dressage](./Dressage.md) (Cha), [Équitation](./Équitation.md) (Dex), [Estimation](./Estimation.md) (Int), [Intimidation](./Intimidation.md) (Cha), [Linguistique](./Linguistique.md) (Int), [Natation](./Natation.md) (For), [Perception](./Perception.md) (Sag), [Profession](./Profession.md) (Sag), [Psychologie](./Psychologie.md) (Sag), [Représentation](./Représentation.md) (Cha), [Survie](./Survie.md) (Sag).
+Les compétences du noble (et la caractéristique dont chacune dépend) sont : [[Artisanat]] (Int), [[Bluff]] (Cha), [[Connaissances]] (au choix, chaque compétence devant être prise séparément) (Int), [[Déguisement]] (Cha), [[Diplomatie]] (Cha), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Estimation]] (Int), [[Intimidation]] (Cha), [[Linguistique]] (Int), [[Natation]] (For), [[Perception]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag), [[Représentation]] (Cha), [[Survie]] (Sag).
 
-**Points de compétence à chaque niveau.** 4 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence à chaque niveau.** 4 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de la classe
 Voici les particularités et aptitudes de la classe de PNJ du noble.
 
 #### Armes et armures
-Le noble est formé au maniement de toutes les [armes courantes](./arme courante.md), de toutes les [armes de guerre](./arme de guerre.md), des boucliers ainsi qu’au port de tous les types d’armures.
+Le noble est formé au maniement de toutes les [[arme courante|armes courantes]], de toutes les [[arme de guerre|armes de guerre]], des boucliers ainsi qu’au port de tous les types d’armures.

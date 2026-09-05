@@ -14,13 +14,13 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[bien](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 1, [Sor](./Sorcière.md) 1, [Spi](./Spirite.md) 1  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|bien]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD, M](./composantes.md) (une pincée de poudre d'argent)  
+**Composantes** [[Composantes|V, G, FD, M]] (une pincée de poudre d'argent)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** cadavre touché  
 
@@ -28,6 +28,6 @@ Categories:
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Ce sort bénit un corps avec l’énergie positive et l’empêche de se transformer en créature [morte-vivante](./type Mort-vivant.md). Toute tentative pour relever le cadavre sous forme de [mort-vivant](./type Mort-vivant.md) échoue automatiquement. Si le cadavre appartient à quelqu’un abattu par une créature qui crée des [morts-vivants](./type Mort-vivant.md) à partir des individus qu’elle tue (comme une [ombre](./Ombre.md), un [vampire](./Vampire, archétype.md) ou une [âme-en-peine](./Âme-en-peine.md)), l’effet est retardé jusqu’à la fin du sort. On peut rallonger la durée de protection en lançant ce sort chaque jour.
+Ce sort bénit un corps avec l’énergie positive et l’empêche de se transformer en créature [[type mort-vivant|morte-vivante]]. Toute tentative pour relever le cadavre sous forme de [[type mort-vivant|mort-vivant]] échoue automatiquement. Si le cadavre appartient à quelqu’un abattu par une créature qui crée des [[type mort-vivant|morts-vivants]] à partir des individus qu’elle tue (comme une [[ombre]], un [[vampire, archétype|vampire]] ou une [[âme-en-peine]]), l’effet est retardé jusqu’à la fin du sort. On peut rallonger la durée de protection en lançant ce sort chaque jour.
 
-On peut rendre la *sanctification* permanente à l’aide d’un sort de *[permanence](./Permanence.md)* si le lanceur de sorts est de [niveau](./niveau.md) 9 au minimum et qu’il paie 500 po.
+On peut rendre la *sanctification* permanente à l’aide d’un sort de *[[permanence]]* si le lanceur de sorts est de [[niveau]] 9 au minimum et qu’il paie 500 po.

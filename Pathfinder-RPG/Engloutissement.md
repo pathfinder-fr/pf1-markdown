@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Engloutissement (capacité)
 ---
 
->>> [Engloutissement (capacité)](./Engloutissement (capacité).md)
+>>> [[Engloutissement (capacité)]]

@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Les coups du personnage sont aussi précis que puissants et lui permettent de poursuivre ses adversaires à une vitesse stupéfiante mais ils le laissent à découvert.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), [Attaque en puissance](./Attaque en puissance.md), [Griffes du tigre](./Griffes du tigre.md), [École du tigre](./École du tigre.md), [BBA](./BBA.md) +9 ou [moine](./Moine.md) de niveau 8
+**Conditions.** [[Science du combat à mains nues]], [[Attaque en puissance]], [[Griffes du tigre]], [[École du tigre]], [[BBA]] +9 ou [[moine]] de niveau 8
 
-**Avantage.** Quand le personnage utilise l’[École du tigre](./École du tigre.md), il peut appliquer le malus de l’[Attaque en puissance](./Attaque en puissance.md) à sa [CA](./CA.md) au lieu de ses [jets d’attaque](./jet dattaque.md). De plus, une fois par round, il peut, par une [action rapide](./Action rapide.md), se rapprocher d’une cible touchée à mains nues à la moitié de sa [vitesse](./VD.md) ou d’une cible contre laquelle il a réussi une [manœuvre offensive](./Manœuvre offensive.md) lors de ce tour ou du précédent.
+**Avantage.** Quand le personnage utilise l’[[École du tigre]], il peut appliquer le malus de l’[[Attaque en puissance]] à sa [[CA]] au lieu de ses [[jet dattaque|jets d’attaque]]. De plus, une fois par round, il peut, par une [[action rapide]], se rapprocher d’une cible touchée à mains nues à la moitié de sa [[VD|vitesse]] ou d’une cible contre laquelle il a réussi une [[manœuvre offensive]] lors de ce tour ou du précédent.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise l’[École du tigre](./École du tigre.md), il peut dépenser 2 points d’endurance et une [action rapide](./Action rapide.md) pour se rapprocher d’un ennemi qu’il a touché avec une attaque à mains nues ou contre qui il a réussi une manœuvre offensive à n’importe quel moment du combat au lieu de se cantonner aux adversaires qu’il a touchés lors de son tour précédent ou de celui en cours.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise l’[[École du tigre]], il peut dépenser 2 points d’endurance et une [[action rapide]] pour se rapprocher d’un ennemi qu’il a touché avec une attaque à mains nues ou contre qui il a réussi une manœuvre offensive à n’importe quel moment du combat au lieu de se cantonner aux adversaires qu’il a touchés lors de son tour précédent ou de celui en cours.

@@ -14,7 +14,7 @@ Categories:
 
 **Catégorie.** Monstre
 
-**Conditions.** Posséder une arme naturelle, [BBA](./BBA.md) +4.
+**Conditions.** Posséder une arme naturelle, [[BBA]] +4.
 
 **Avantage.** Les effets de ce don s’appliquent à un type d'arme naturelle de la créature (mais pas aux attaques à mains nues). Ses dégâts augmentent d’une catégorie selon la progression suivante (comme si la taille de la créature avait augmenté d’un cran). Les dés de dégâts progressent comme suit : 1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6.
 

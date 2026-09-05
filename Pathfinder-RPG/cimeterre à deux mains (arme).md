@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 75 po ; **Poids** 4 kg ; **Groupes** [lames lourdes](./groupe darmes.md#Lameslourdes)
+{s:AE}**Prix** 75 po ; **Poids** 4 kg ; **Groupes** [[Groupe darmes#Lameslourdes|lames lourdes]]
 **Dégâts** 1d6 (P), 2d4 (M) ; **Critique** 18-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
-Cette épée a un côté tranchant incurvé comme un [cimeterre](./cimeterre (arme).md) et un côté extérieur non-tranchant plat ou légèrement incurvé. Elle est plus lourde au niveau de la pointe, ce qui en fait une meilleure arme de taille que d’estoc.
+Cette épée a un côté tranchant incurvé comme un [[cimeterre (arme)|cimeterre]] et un côté extérieur non-tranchant plat ou légèrement incurvé. Elle est plus lourde au niveau de la pointe, ce qui en fait une meilleure arme de taille que d’estoc.

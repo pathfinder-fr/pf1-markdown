@@ -13,18 +13,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[mal](./Registre.md), [maladie](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Prê](./Prêtre.md) 4, [Sor](./Sorcière.md) 5  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal]], [[registre|maladie]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui
 
-Les [attaques naturelles](./attaque naturelle.md) de la cible transmettent la [fièvre des marais](./maladie.md) ([DD](./DD.md) 10 + 1/2 [DV](./../Ressources/DV.md) de la créature + modificateur de [Con](./Constitution.md) de la créature).
+Les [[attaque naturelle|attaques naturelles]] de la cible transmettent la [[maladie|fièvre des marais]] ([[DD]] 10 + 1/2 [[DV]] de la créature + modificateur de [[constitution|Con]] de la créature).

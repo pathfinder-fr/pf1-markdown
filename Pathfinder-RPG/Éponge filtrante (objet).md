@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 25 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 15
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Cette éponge bleue de la taille d’un poing peut absorber jusqu’à 0,5 litre d’eau. En l’essorant, le personnage filtre l’eau et la purifie avant de la boire, de s’en servir pour laver quelque chose ou autre. Il faut une [action complexe](./Action complexe.md) pour saturer et essorer une éponge. Le filtrage suffit à éliminer toutes les impuretés ordinaires et les maladies courantes mais il ne protège pas contre les [poisons](./Poisons.md), la magie et les autres menaces exotiques. Chaque éponge peut purifier 12 litres d’eau avant de s’abîmer et de devenir inutile.
+Cette éponge bleue de la taille d’un poing peut absorber jusqu’à 0,5 litre d’eau. En l’essorant, le personnage filtre l’eau et la purifie avant de la boire, de s’en servir pour laver quelque chose ou autre. Il faut une [[action complexe]] pour saturer et essorer une éponge. Le filtrage suffit à éliminer toutes les impuretés ordinaires et les maladies courantes mais il ne protège pas contre les [[Poisons]], la magie et les autres menaces exotiques. Chaque éponge peut purifier 12 litres d’eau avant de s’abîmer et de devenir inutile.

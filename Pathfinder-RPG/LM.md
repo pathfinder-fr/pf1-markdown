@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Alignement#LM
 ---
 
->>> [Alignement#LM](./Alignement.md#LM)
+>>> [[Alignement#LM]]

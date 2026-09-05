@@ -8,35 +8,35 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:MenuEnvironnement}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>*Voir aussi des [exemples de pièges](./Exemples de pièges.md) et comment [concevoir des pièges](./Conception de pièges.md).*
+{s:MenuEnvironnement}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>*Voir aussi des [[Exemples de pièges]] et comment [[Conception de pièges|concevoir des pièges]].*
 
 Les pièges sont un danger répandu dans les donjons. De l’averse incandescente à la volée de fléchettes empoisonnées, les pièges sont là pour protéger les objets de valeur ou arrêter les intrus indésirables.
 
 {s:Reference|DESCRIPTION}{s:Reference|TYPES}
 ### Les différentes parties d'un piège
-Qu’ils soient ou non de nature magique, les pièges ont en commun un certain nombre d’éléments : [FP](./Rencontres.md#FP), type, [DD](./DD.md) de [Perception](./Perception.md), [DD](./DD.md) de [Sabotage](./Sabotage.md), déclencheur, remise en place, et effet. Certains incluent des éléments optionnels, comme le [poison](./poison.md) ou un moyen de le contourner. Toutes ces caractéristiques sont décrites ci-dessous.
+Qu’ils soient ou non de nature magique, les pièges ont en commun un certain nombre d’éléments : [[Rencontres#FP|FP]], type, [[DD]] de [[Perception]], [[DD]] de [[Sabotage]], déclencheur, remise en place, et effet. Certains incluent des éléments optionnels, comme le [[poison]] ou un moyen de le contourner. Toutes ces caractéristiques sont décrites ci-dessous.
 
 #### Types de pièges
-Les donjons sont souvent protégés par des pièges mécaniques (qui ne sont pas actionnés par magie). Ce type de piège est généralement défini en fonction de l’endroit où il se trouve, de son déclencheur, de la possibilité de le repérer avant qu’il ne soit trop tard, des dégâts qu’il inflige et de l’éventuel [jet de sauvegarde](./jet de sauvegarde.md) permettant d’échapper à tout ou partie de ses effets. Les pièges actionnant des flèches, des lames montées sur ressort et d’autres armes effectuent un [jet d’attaque](./jet dattaque.md) normal, dont le bonus est déterminé par leur conception. Un PJ peut parfaitement [concevoir un piège](./Conception de pièges.md) mécanique fonctionnel s’il utilise correctement la compétence [Artisanat](./Artisanat.md) (pièges).
+Les donjons sont souvent protégés par des pièges mécaniques (qui ne sont pas actionnés par magie). Ce type de piège est généralement défini en fonction de l’endroit où il se trouve, de son déclencheur, de la possibilité de le repérer avant qu’il ne soit trop tard, des dégâts qu’il inflige et de l’éventuel [[jet de sauvegarde]] permettant d’échapper à tout ou partie de ses effets. Les pièges actionnant des flèches, des lames montées sur ressort et d’autres armes effectuent un [[jet dattaque|jet d’attaque]] normal, dont le bonus est déterminé par leur conception. Un PJ peut parfaitement [[Conception de pièges|concevoir un piège]] mécanique fonctionnel s’il utilise correctement la compétence [[Artisanat]] (pièges).
 
-Toute créature qui réussit un test de [Perception](./Perception.md) repère un piège mécanique avant que ce dernier ne se déclenche. Le [DD](./DD.md) du test dépend du piège. Une réussite indique que le mécanisme de déclenchement a été repéré (plaque à pression, mécanisme relié à une porte et ainsi de suite). Si le personnage dépasse le [DD](./DD.md) d’au moins 5, il obtient des informations sur les effets du piège.
+Toute créature qui réussit un test de [[Perception]] repère un piège mécanique avant que ce dernier ne se déclenche. Le [[DD]] du test dépend du piège. Une réussite indique que le mécanisme de déclenchement a été repéré (plaque à pression, mécanisme relié à une porte et ainsi de suite). Si le personnage dépasse le [[DD]] d’au moins 5, il obtient des informations sur les effets du piège.
 
 **Les pièges magiques.** De nombreux sorts peuvent servir à créer des pièges. À moins qu’il n’en soit précisé autrement dans la description du sort, partez du principe que les indications suivantes sont toujours valables :
-- Un test de [Perception](./Perception.md) ([DD](./DD.md) 25 + niveau du sort) réussi par un personnage permet de repérer le piège avant que celui-ci ne se déclenche.
-- Les pièges magiques autorisent un [jet de sauvegarde](./jet de sauvegarde.md) pour échapper à leur effet ([DD](./DD.md) 10 + niveau du sort x 1,5).
-- Les pièges magiques peuvent uniquement être désarmés par un personnage doté de l’aptitude [recherche des pièges](./Roublard.md#RECHERCHEDESPIEGES), et ce, s’il réussit un test de [Sabotage](./Sabotage.md) ([DD](./DD.md) 25 + niveau du sort). Les autres personnages doués de la compétence [Sabotage](./Sabotage.md) n’ont aucune chance de désamorcer ce piège.
+- Un test de [[Perception]] ([[DD]] 25 + niveau du sort) réussi par un personnage permet de repérer le piège avant que celui-ci ne se déclenche.
+- Les pièges magiques autorisent un [[jet de sauvegarde]] pour échapper à leur effet ([[DD]] 10 + niveau du sort x 1,5).
+- Les pièges magiques peuvent uniquement être désarmés par un personnage doté de l’aptitude [[Roublard#RECHERCHEDESPIEGES|recherche des pièges]], et ce, s’il réussit un test de [[Sabotage]] ([[DD]] 25 + niveau du sort). Les autres personnages doués de la compétence [[Sabotage]] n’ont aucune chance de désamorcer ce piège.
 
-Il existe deux types de pièges magiques : les pièges à sort et les pièges magiques à objet. Les seconds déclenchent les effets d’un sort, comme les baguettes, les bâtons, les anneaux et autres objets magiques. Si un PJ souhaite concevoir et construire un piège magique à objet, il doit posséder le don [Création dobjets merveilleux](./Création dobjets merveilleux.md).
+Il existe deux types de pièges magiques : les pièges à sort et les pièges magiques à objet. Les seconds déclenchent les effets d’un sort, comme les baguettes, les bâtons, les anneaux et autres objets magiques. Si un PJ souhaite concevoir et construire un piège magique à objet, il doit posséder le don [[Création dobjets merveilleux]].
 
 Les pièges à sort sont des sorts qui fonctionnent comme des pièges. Le personnage doit être capable de lancer le ou les sorts nécessaires à la fabrication du piège, sans quoi il doit louer les services d’un PNJ qui s’en chargera pour lui.
 
 {s:Reference|DD}
 #### DD des tests de Perception et de Sabotage
-C’est le concepteur du piège mécanique qui fixe le [DD](./DD.md) des tests de [Perception](./Perception.md) et de [Sabotage](./Sabotage.md). Pour ce qui est des pièges magiques, la valeur de chaque [DD](./DD.md) dépend du sort de plus haut niveau utilisé.
+C’est le concepteur du piège mécanique qui fixe le [[DD]] des tests de [[Perception]] et de [[Sabotage]]. Pour ce qui est des pièges magiques, la valeur de chaque [[DD]] dépend du sort de plus haut niveau utilisé.
 
-**Pièges mécaniques.** Le [DD](./DD.md) de base des tests de [Perception](./Perception.md) et de [Sabotage](./Sabotage.md) est égal à 20. Augmenter ou réduire ces [DD](./DD.md) affecte le [FP](./Rencontres.md#FP) [(voir Tableau)](./Conception de pièges.md#MODIFFPMECA)
+**Pièges mécaniques.** Le [[DD]] de base des tests de [[Perception]] et de [[Sabotage]] est égal à 20. Augmenter ou réduire ces [[DD]] affecte le [[Rencontres#FP|FP]] [[Conception de pièges#MODIFFPMECA|(voir Tableau)]]
 
-**Pièges magiques.** Le [DD](./DD.md) des tests de [Perception](./Perception.md) et de [Sabotage](./Sabotage.md) est égal à 25 + niveau du sort de plus haut niveau utilisé. Seuls les personnages dotés de l’aptitude de classe de [recherche des pièges](./recherche des pièges.md) peuvent tenter de les désamorcer.
+**Pièges magiques.** Le [[DD]] des tests de [[Perception]] et de [[Sabotage]] est égal à 25 + niveau du sort de plus haut niveau utilisé. Seuls les personnages dotés de l’aptitude de classe de [[recherche des pièges]] peuvent tenter de les désamorcer.
 
 {s:Reference|DECLENCHEUR}
 #### Déclencheur
@@ -46,11 +46,11 @@ Le déclencheur détermine la façon dont le piège prend effet.
 
 **Proximité.** Ce piège se déclenche lorsqu’une créature s’approche à une distance donnée. Ce type de déclencheur diffère du précédent car la créature n’a pas besoin de se tenir sur une case précise. Les créatures volantes peuvent déclencher le piège. Les déclencheurs de proximité mécaniques sont extrêmement sensibles à la moindre perturbation dans les airs. Ils sont donc seulement utiles dans des lieux rarement dérangés comme les cryptes.
 
-Le sort *[alarme](./Alarme.md)* reste le déclencheur de proximité des pièges magiques le plus courant. Quand il est lancé en tant que déclencheur, sa zone d’effet ne peut pas être supérieure à celle du piège auquel il est associé.
+Le sort *[[alarme]]* reste le déclencheur de proximité des pièges magiques le plus courant. Quand il est lancé en tant que déclencheur, sa zone d’effet ne peut pas être supérieure à celle du piège auquel il est associé.
 
-Certains pièges magiques possèdent un déclencheur de proximité particulier qui s’active uniquement quand certaines créatures s’en approchent. Par exemple, une *[détection du Bien](./Détection du Bien.md)* lancée sur un autel maléfique déclenche le piège quand une créature d’alignement [Bon](./Alignement.md#BIENMAL) s’approche trop près.
+Certains pièges magiques possèdent un déclencheur de proximité particulier qui s’active uniquement quand certaines créatures s’en approchent. Par exemple, une *[[détection du Bien]]* lancée sur un autel maléfique déclenche le piège quand une créature d’alignement [[Alignement#BIENMAL|Bon]] s’approche trop près.
 
-**Sonore.** Ce déclencheur active un piège magique quand il détecte un bruit. Le déclencheur sonore fonctionne sur le même principe que l’oreille et bénéficie d’un bonus de +15 aux tests de [Perception](./Perception.md). Les effets qui neutralisent l’ouïe (un test de [Discrétion](./Discrétion.md) réussi, un *[silence](./Silence.md)* magique, etc.) trompent le déclencheur. Pour bénéficier d’un déclencheur sonore, le piège doit recevoir un sort de *[clairaudience](./Clairaudienceclairvoyance.md)* lors de sa création.
+**Sonore.** Ce déclencheur active un piège magique quand il détecte un bruit. Le déclencheur sonore fonctionne sur le même principe que l’oreille et bénéficie d’un bonus de +15 aux tests de [[Perception]]. Les effets qui neutralisent l’ouïe (un test de [[Discrétion]] réussi, un *[[silence]]* magique, etc.) trompent le déclencheur. Pour bénéficier d’un déclencheur sonore, le piège doit recevoir un sort de *[[clairaudienceclairvoyance|clairaudience]]* lors de sa création.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -58,15 +58,15 @@ Certains pièges magiques possèdent un déclencheur de proximité particulier q
 |- CLASS="titre"
 | Sort || Portée de la vision || Bonus de Détection
 |- CLASS="premier"
-| *[Clairvoyance](./Clairaudienceclairvoyance.md)* || Un lieu prédéfini || +15
+| *[[clairaudienceclairvoyance|Clairvoyance]]* || Un lieu prédéfini || +15
 |-
-| *[Œil du mage](./Œil du mage.md)* || Ligne de mire (portée illimitée) || +20
+| *[[Œil du mage]]* || Ligne de mire (portée illimitée) || +20
 |-
-| *[Vision lucide](./Vision lucide.md)* || Ligne de mire (jusqu’à 36 m) || +30
+| *[[Vision lucide]]* || Ligne de mire (jusqu’à 36 m) || +30
 |}
-</div></div>**Visuel.** Ce déclencheur, destiné aux pièges magiques, fonctionne sur le même principe qu’un œil : il active le piège quand il repère quelque chose. Pour bénéficier d’un déclencheur visuel, le piège doit recevoir un sort de *[clairvoyance](./Clairaudienceclairvoyance.md)*, *[œil du mage](./Œil du mage.md)* ou *[vision lucide](./Vision lucide.md)* lors de sa création. La portée et le bonus aux tests de [Perception](./Perception.md) dépendent du sort choisi, comme indiqué dans la table suivante.
+</div></div>**Visuel.** Ce déclencheur, destiné aux pièges magiques, fonctionne sur le même principe qu’un œil : il active le piège quand il repère quelque chose. Pour bénéficier d’un déclencheur visuel, le piège doit recevoir un sort de *[[clairaudienceclairvoyance|clairvoyance]]*, *[[œil du mage]]* ou *[[vision lucide]]* lors de sa création. La portée et le bonus aux tests de [[Perception]] dépendent du sort choisi, comme indiqué dans la table suivante.
 
-Si vous souhaitez que le piège fonctionne dans l’obscurité, vous devez impérativement lancer *[vision lucide](./Vision lucide.md)* ou *[vision dans le noir](./vision dans le noir.md)* (ce sort limite la vision du piège à 18 m dans les ténèbres). L’invisibilité, les déguisements et les illusions capables de tromper le sort utilisé trompent aussi le déclencheur visuel.
+Si vous souhaitez que le piège fonctionne dans l’obscurité, vous devez impérativement lancer *[[vision lucide]]* ou *[[vision dans le noir]]* (ce sort limite la vision du piège à 18 m dans les ténèbres). L’invisibilité, les déguisements et les illusions capables de tromper le sort utilisé trompent aussi le déclencheur visuel.
 
 **Contact.** Le déclencheur par contact active le piège lorsque quelqu’un entre en contact avec lui. C’est donc l’un des plus simples à concevoir. Il peut être rattaché physiquement à la partie du mécanisme qui inflige les dégâts (comme une aiguille qui jaillit d’une serrure) ou non. On crée un déclencheur par contact magique en ajoutant alarme au piège et en réduisant la zone d’effet pour qu’elle couvre seulement la zone du déclencheur.
 
@@ -84,7 +84,7 @@ Cet élément fixe les conditions permettant de remettre en place le piège une 
 
 **Aucune.** À moins de reconstruire le piège, il n’y a aucun moyen de le déclencher de nouveau. Les pièges à sort fonctionnent sur ce principe.
 
-**Réparation.** Pour que le piège fonctionne de nouveau, il faut le réparer. Pour réparer un piège mécanique, il faut réussir un test d’[Artisanat](./Artisanat.md) (fabrication de pièges) contre un [DD](./DD.md) égal au [DD](./DD.md) de création. Le coût des matières premières nécessaires est égal au cinquième de celles utilisées lors de la création du piège. Pour fixer le temps de travail requis, utilisez le mode de calcul de la création, mais employez le coût des matières premières correspondant à une simple réparation au lieu d’utiliser le prix du marché.
+**Réparation.** Pour que le piège fonctionne de nouveau, il faut le réparer. Pour réparer un piège mécanique, il faut réussir un test d’[[Artisanat]] (fabrication de pièges) contre un [[DD]] égal au [[DD]] de création. Le coût des matières premières nécessaires est égal au cinquième de celles utilisées lors de la création du piège. Pour fixer le temps de travail requis, utilisez le mode de calcul de la création, mais employez le coût des matières premières correspondant à une simple réparation au lieu d’utiliser le prix du marché.
 
 **Manuelle.** Pour que le piège fonctionne de nouveau, quelqu’un doit remettre en place ses éléments. La plupart des pièges mécaniques relèvent de ce type.
 
@@ -94,27 +94,27 @@ Cet élément fixe les conditions permettant de remettre en place le piège une 
 #### Moyen de contourner le piège (optionnel)
 Si le concepteur du piège souhaite contourner son piège après l’avoir créé ou posé, il doit songer à un mécanisme supplémentaire qui lui permettra de le neutraliser, au moins temporairement. Cela ne concerne que les pièges mécaniques. Les pièges à sort incluent généralement un moyen de reconnaissance qui permet à leur créateur de ne pas les déclencher.
 
-**Verrou.** Pour ouvrir ce verrou, il faut réussir un test de [Sabotage](./Sabotage.md) [DD](./DD.md) 30.
+**Verrou.** Pour ouvrir ce verrou, il faut réussir un test de [[Sabotage]] [[DD]] 30.
 
-**Loquet caché.** Pour trouver ce loquet, il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 25.
+**Loquet caché.** Pour trouver ce loquet, il faut réussir un test de [[Perception]] [[DD]] 25.
 
-**Verrou caché.** Le verrou caché combine les caractéristiques décrites ci-dessus. Pour le trouver, il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 25 suivi d’un test de [Sabotage](./Sabotage.md) [DD](./DD.md) 30 pour l’ouvrir.
+**Verrou caché.** Le verrou caché combine les caractéristiques décrites ci-dessus. Pour le trouver, il faut réussir un test de [[Perception]] [[DD]] 25 suivi d’un test de [[Sabotage]] [[DD]] 30 pour l’ouvrir.
 
 {s:Reference|EFFETS}
 #### Dégâts/effets
-Ceux qui déclenchent un piège en subissent les effets. Généralement, cela prend la forme d’un sort ou de dégâts. Cependant, certains pièges ont des effets spéciaux. Généralement, les pièges effectuent un [jet d’attaque](./jet dattaque.md) ou obligent la cible à jouer un [jet de sauvegarde](./jet de sauvegarde.md). Parfois, ils profitent de ces deux options, ou d’aucune (voir « Ne rate jamais »).
+Ceux qui déclenchent un piège en subissent les effets. Généralement, cela prend la forme d’un sort ou de dégâts. Cependant, certains pièges ont des effets spéciaux. Généralement, les pièges effectuent un [[jet dattaque|jet d’attaque]] ou obligent la cible à jouer un [[jet de sauvegarde]]. Parfois, ils profitent de ces deux options, ou d’aucune (voir « Ne rate jamais »).
 
-**Fosses.** Il s’agit de trous (dissimulés ou non) dans lesquels les personnages tombent avant de subir des dégâts. Une fosse n’effectue pas de jet d’attaque, mais il est possible de l’éviter en réussissant un [jet de Réflexes](./jet de sauvegarde.md) ([DD](./DD.md) fixé par le concepteur). Tombent dans cette catégorie d’autres pièges mécaniques proposant un [jet de sauvegarde](./jet de sauvegarde.md). Quand une créature tombe dans une fosse, elle subit 1d6 points de dégâts par tranche de 3 m de profondeur.
+**Fosses.** Il s’agit de trous (dissimulés ou non) dans lesquels les personnages tombent avant de subir des dégâts. Une fosse n’effectue pas de jet d’attaque, mais il est possible de l’éviter en réussissant un [[jet de sauvegarde|jet de Réflexes]] ([[DD]] fixé par le concepteur). Tombent dans cette catégorie d’autres pièges mécaniques proposant un [[jet de sauvegarde]]. Quand une créature tombe dans une fosse, elle subit 1d6 points de dégâts par tranche de 3 m de profondeur.
 
-À l’intérieur d’un donjon, un trou dans le sol peut prendre trois formes : la fosse ouverte, la trappe ou le gouffre. On peut les contourner à l’aide des compétences [Acrobaties](./Acrobaties.md) ou [Escalade](./Escalade.md), mais aussi grâce à des moyens magiques.
+À l’intérieur d’un donjon, un trou dans le sol peut prendre trois formes : la fosse ouverte, la trappe ou le gouffre. On peut les contourner à l’aide des compétences [[Acrobaties]] ou [[Escalade]], mais aussi grâce à des moyens magiques.
 
 Les fosses ouvertes et les gouffres naturels ont surtout pour but de décourager les intrus, même si elles peuvent se révéler très dangereuses quand les personnages progressent dans la pénombre ou sont obligés de se battre à proximité.
 
-Les trappes sont nettement plus dangereuses. Elles peuvent être découvertes à l’aide d’un test de [Perception](./Perception.md) ([DD](./DD.md) 20), mais seulement si le personnage de tête prend le temps d’examiner attentivement le sol. Si le PJ ne voit pas la trappe, celle-ci s’ouvre sous ses pieds et il lui faut réussir un [jet de Réflexes](./jet de sauvegarde.md) ([DD](./DD.md) 20) pour éviter de tomber. S’il était en train de courir ou de se déplacer imprudemment, il perd automatiquement l’équilibre et tombe sans jet de sauvegarde.
+Les trappes sont nettement plus dangereuses. Elles peuvent être découvertes à l’aide d’un test de [[Perception]] ([[DD]] 20), mais seulement si le personnage de tête prend le temps d’examiner attentivement le sol. Si le PJ ne voit pas la trappe, celle-ci s’ouvre sous ses pieds et il lui faut réussir un [[jet de sauvegarde|jet de Réflexes]] ([[DD]] 20) pour éviter de tomber. S’il était en train de courir ou de se déplacer imprudemment, il perd automatiquement l’équilibre et tombe sans jet de sauvegarde.
 
-Un tel piège peut être dissimulé par de la paille, des feuilles, des branches, des déchets ou un tapis. Il peut être aussi être dissimulé de telle sorte qu’il apparaisse comme faisant partie du plancher. Les trappes s’ouvrent généralement quand un poids suffisant appuie dessus (le plus souvent entre 25 et 40 kg). Les modèles les plus sournois se referment aussitôt après s’être ouverts. Une variante de ce système bloque la trappe en position fermée une fois qu’un personnage est tombé dedans. Ouvrir une telle trappe est tout aussi difficile que d’ouvrir une porte (et encore le PJ piégé doit-il pouvoir l’atteindre). Si la trappe est montée sur ressort, un test de [Force](./Force.md) est nécessaire pour la maintenir ouverte ([DD](./DD.md) 13).
+Un tel piège peut être dissimulé par de la paille, des feuilles, des branches, des déchets ou un tapis. Il peut être aussi être dissimulé de telle sorte qu’il apparaisse comme faisant partie du plancher. Les trappes s’ouvrent généralement quand un poids suffisant appuie dessus (le plus souvent entre 25 et 40 kg). Les modèles les plus sournois se referment aussitôt après s’être ouverts. Une variante de ce système bloque la trappe en position fermée une fois qu’un personnage est tombé dedans. Ouvrir une telle trappe est tout aussi difficile que d’ouvrir une porte (et encore le PJ piégé doit-il pouvoir l’atteindre). Si la trappe est montée sur ressort, un test de [[Force]] est nécessaire pour la maintenir ouverte ([[DD]] 13).
 
-Fosses et trappes peuvent être encore plus redoutables selon ce que l’on trouve au fond : des pieux aiguisés, des monstres, un bain d’acide, de la lave ou même de l’eau. Consultez la section « [Éléments divers des pièges](./Pièges.md#DIVERS) » ci-dessous au sujet des fosses à pieux et de leurs variantes.
+Fosses et trappes peuvent être encore plus redoutables selon ce que l’on trouve au fond : des pieux aiguisés, des monstres, un bain d’acide, de la lave ou même de l’eau. Consultez la section « [[Pièges#DIVERS|Éléments divers des pièges]] » ci-dessous au sujet des fosses à pieux et de leurs variantes.
 
 Il arrive que des monstres vivent au fond des fosses ou des trappes. Tout monstre capable de tenir dans le trou peut avoir été placé là par le concepteur du piège, à moins qu’il soit tombé et qu’il n’ait pu remonter.
 
@@ -124,19 +124,19 @@ Qu’il soit d’origine mécanique ou magique, un piège placé au fond d’un 
 
 **Pièges d’attaque au corps à corps.** Ces pièges sont constitués de lames affûtées qui jaillissent des murs et de blocs de pierres qui tombent du plafond. Là encore, le concepteur fixe le bonus à l’attaque. Ces pièges infligent autant de dégâts que l’arme qu’ils « manient ». Dans le cas de la chute d’un bloc de pierre, choisissez le montant des dégâts contondants, mais n’oubliez pas que ceux qui remettent le piège en place doivent pouvoir remonter le rocher.
 
-Un piège d’attaque au corps à corps peut être affublé d’un bonus aux jets de dégâts, comme s’il disposait d’une valeur de [Force](./Force.md) importante.
+Un piège d’attaque au corps à corps peut être affublé d’un bonus aux jets de dégâts, comme s’il disposait d’une valeur de [[Force]] importante.
 
-**Pièges à sort.** Ces pièges reproduisent l’effet du sort mentionné. Comme tous les sorts, si le piège autorise un [jet de sauvegarde](./jet de sauvegarde.md), il a un [DD](./DD.md) égal à 10 + niveau du sort + modificateur de la caractéristique appropriée.
+**Pièges à sort.** Ces pièges reproduisent l’effet du sort mentionné. Comme tous les sorts, si le piège autorise un [[jet de sauvegarde]], il a un [[DD]] égal à 10 + niveau du sort + modificateur de la caractéristique appropriée.
 
-**Pièges magiques à objet.** Ces pièges imitent l’effet du sort inclus dans leur conception. Si le sort en question autorise un [jet de sauvegarde](./jet de sauvegarde.md), ce denier a un [DD](./DD.md) égal à 10 + niveau du sort x 1,5. Certains sorts effectuent un [jet d’attaque](./jet dattaque.md) à la place.
+**Pièges magiques à objet.** Ces pièges imitent l’effet du sort inclus dans leur conception. Si le sort en question autorise un [[jet de sauvegarde]], ce denier a un [[DD]] égal à 10 + niveau du sort x 1,5. Certains sorts effectuent un [[jet dattaque|jet d’attaque]] à la place.
 
-**Spécial.** Certains pièges disposent de diverses caractéristiques qui produisent des effets spéciaux, comme la noyade ou un affaiblissement temporaire de caractéristique dû au poison. Les [jets de sauvegarde](./jet de sauvegarde.md) et les dégâts dépendent du poison ou sont fixés par le concepteur.
+**Spécial.** Certains pièges disposent de diverses caractéristiques qui produisent des effets spéciaux, comme la noyade ou un affaiblissement temporaire de caractéristique dû au poison. Les [[jet de sauvegarde|jets de sauvegarde]] et les dégâts dépendent du poison ou sont fixés par le concepteur.
 
 {s:Reference|DIVERS}
 ### Éléments divers des pièges
 Certains pièges incluent divers éléments qui les rendent bien plus dangereux. Voici les plus courants.
 
-**Attaque de contact.** Cet élément s’applique aux pièges qui ne nécessitent qu’une [attaque de contact](./attaque de contact.md) (à distance ou au corps à corps).
+**Attaque de contact.** Cet élément s’applique aux pièges qui ne nécessitent qu’une [[attaque de contact]] (à distance ou au corps à corps).
 
 **Cibles multiples.** Ce genre de piège affecte plusieurs cibles.
 
@@ -148,10 +148,10 @@ Certains pièges incluent divers éléments qui les rendent bien plus dangereux.
 
 **Ne rate jamais.** Lorsque tous les murs d’un donjon se resserrent pour broyer un personnage, les réflexes de celui-ci ne le sauveront pas. Un piège de ce type n’a pas de bonus à l’attaque et n’autorise pas de jet de sauvegarde, mais il a un effet à retardement. La plupart des pièges à liquide et au gaz sont de ce type.
 
-**Objet spécial.** Les pièges mécaniques comportent parfois des substances et autres éléments spéciaux, comme une sacoche immobilisante, un feu grégeois, une pierre à tonnerre, etc. Certains de ces objets imitent des effets de sorts. Si l’objet reproduit un effet magique, son [FP](./Rencontres.md#FP) est augmenté [voir la Table "modificateurs au FP des pièges mécaniques"](./Conception de pièges.md#MODIFFPMECA).
+**Objet spécial.** Les pièges mécaniques comportent parfois des substances et autres éléments spéciaux, comme une sacoche immobilisante, un feu grégeois, une pierre à tonnerre, etc. Certains de ces objets imitent des effets de sorts. Si l’objet reproduit un effet magique, son [[Rencontres#FP|FP]] est augmenté [[Conception de pièges#MODIFFPMECA|voir la Table "modificateurs au FP des pièges mécaniques"]].
 
-**Pieux.** Les pieux situés au fond d’une fosse infligent autant de dégâts qu’une dague (1d4) mais ils bénéficient d’un bonus de +10 au [jet d’attaque](./jet dattaque.md) et d’un autre de +1 aux dégâts pour chaque tranche de trois mètres de chute (jusqu’à un maximum de +5). S’il y a plusieurs pieux, le personnage risque de s’empaler sur 1d4 d’entre eux. Ils ne s’ajoutent pas aux dégâts moyens du piège (voir « Dégâts moyens », ci-dessous).
+**Pieux.** Les pieux situés au fond d’une fosse infligent autant de dégâts qu’une dague (1d4) mais ils bénéficient d’un bonus de +10 au [[jet dattaque|jet d’attaque]] et d’un autre de +1 aux dégâts pour chaque tranche de trois mètres de chute (jusqu’à un maximum de +5). S’il y a plusieurs pieux, le personnage risque de s’empaler sur 1d4 d’entre eux. Ils ne s’ajoutent pas aux dégâts moyens du piège (voir « Dégâts moyens », ci-dessous).
 
-**Poison.** Les pièges qui ont recours au poison sont beaucoup plus meurtriers que les autres, ce qui explique qu’ils aient un [FP](./Rencontres.md#FP) sensiblement plus élevé. Pour déterminer le modificateur au [FP](./Rencontres.md#FP) d’un poison donné, reportez-vous  [ici](./Conception de pièges.md#MODIFFPMECA). Seuls les poisons de blessure, de contact ou inhalés conviennent à ce type de piège, les poisons ingérés ne fonctionnent pas. Certains pièges infligent tout simplement les dégâts du poison tandis que d’autres infligent des dégâts à condition de réussir un [jet d’attaque](./jet dattaque.md) à distance ou au corps à corps. [Voir plus d'informations sur les poisons.](./Poisons.md)
+**Poison.** Les pièges qui ont recours au poison sont beaucoup plus meurtriers que les autres, ce qui explique qu’ils aient un [[Rencontres#FP|FP]] sensiblement plus élevé. Pour déterminer le modificateur au [[Rencontres#FP|FP]] d’un poison donné, reportez-vous  [[Conception de pièges#MODIFFPMECA|ici]]. Seuls les poisons de blessure, de contact ou inhalés conviennent à ce type de piège, les poisons ingérés ne fonctionnent pas. Certains pièges infligent tout simplement les dégâts du poison tandis que d’autres infligent des dégâts à condition de réussir un [[jet dattaque|jet d’attaque]] à distance ou au corps à corps. [[poisons|Voir plus d'informations sur les poisons.]]
 
 **Retardement.** Un certain temps s’écoule entre le moment où le piège est déclenché et celui où il inflige des dégâts. Un piège qui ne rate jamais a toujours un effet à retardement.

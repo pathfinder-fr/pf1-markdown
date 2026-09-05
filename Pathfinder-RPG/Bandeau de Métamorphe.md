@@ -6,14 +6,14 @@ LastModified: 2024-05-29 20:23
 
 <div class="BD">
 {s:BDTitre|Bandeau de métamorphe|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée  ; **NLS** 8 ; **Emplacement** [front](./Objets merveilleux portés sur le front.md) ; **Prix** 4.500 po (+2), 17.500 po (+4) ou 39.000 po (+6) ; **Poids** —
+**Aura** [[Transmutation]] modérée  ; **NLS** 8 ; **Emplacement** [[Objets merveilleux portés sur le front|front]] ; **Prix** 4.500 po (+2), 17.500 po (+4) ou 39.000 po (+6) ; **Poids** —
 (((Description)))
-Un symbole particulier qui change constamment de forme orne le front de ce bandeau de fourrure de renard rougeâtre. Le bandeau confère à son porteur un bonus d’altération de +2, +4 ou +6 (en fonction du modèle) à une caractéristique mentale ([Intelligence](./Intelligence.md), [Sagesse](./Sagesse.md) ou [Charisme](./Charisme.md)). Ce bonus est temporaire pendant les premières 24 heures où le personnage porte le bandeau. Il est déterminé lors de la création de l’objet et ne peut être modifié par la suite. Si le bandeau confère un bonus en [Intelligence](./Intelligence.md), il octroie également des rangs de compétence supplémentaires comme le fait un [bandeau d’intelligence](./Bandeau dintelligence.md).\
+Un symbole particulier qui change constamment de forme orne le front de ce bandeau de fourrure de renard rougeâtre. Le bandeau confère à son porteur un bonus d’altération de +2, +4 ou +6 (en fonction du modèle) à une caractéristique mentale ([[Intelligence]], [[Sagesse]] ou [[Charisme]]). Ce bonus est temporaire pendant les premières 24 heures où le personnage porte le bandeau. Il est déterminé lors de la création de l’objet et ne peut être modifié par la suite. Si le bandeau confère un bonus en [[Intelligence]], il octroie également des rangs de compétence supplémentaires comme le fait un [[bandeau dintelligence|bandeau d’intelligence]].\
 Si le porteur est une créature qui use de magie pour altérer sa forme, il gagne les avantages supplémentaires suivants.\
-*Bandeau de métamorphe +2* : le porteur ajoute +1 à son [niveau de lanceur de sorts](./NLS.md) lorsqu’il lance des sorts ou crée des extraits de type *[métamorphose](./métamorphose.md)*.\
-*Bandeau de métamorphe +4* : une fois par jour et par une [action simple](./Action simple.md) alors qu’il est sous l’effet d’un sort ou d’un extrait de *[métamorphose](./métamorphose.md)*, le porteur peut prendre une autre forme dans les limites des possibilités offertes par cet effet.\
-*Bandeau de métamorphe +6* : à chaque fois que le porteur change de forme grâce à un effet de *[métamorphose](./métamorphose.md)*, il gagne une [RD](./RD.md) 5/ argent pendant 1 minute (cet effet prend fin s’il reprend sa forme d’origine).\
-Ces pouvoirs de métamorphe supplémentaires sont cumulatifs. Par exemple, une créature qui porte un *bandeau de métamorphe +4* gagne le pouvoir de transformation supplémentaire et ajoute +1 à son [niveau de lanceur de sorts](./NLS.md) lorsqu’elle lance des sorts ou crée des extraits de *[métamorphose](./métamorphose.md)*.
+*Bandeau de métamorphe +2* : le porteur ajoute +1 à son [[NLS|niveau de lanceur de sorts]] lorsqu’il lance des sorts ou crée des extraits de type *[[métamorphose]]*.\
+*Bandeau de métamorphe +4* : une fois par jour et par une [[action simple]] alors qu’il est sous l’effet d’un sort ou d’un extrait de *[[métamorphose]]*, le porteur peut prendre une autre forme dans les limites des possibilités offertes par cet effet.\
+*Bandeau de métamorphe +6* : à chaque fois que le porteur change de forme grâce à un effet de *[[métamorphose]]*, il gagne une [[RD]] 5/ argent pendant 1 minute (cet effet prend fin s’il reprend sa forme d’origine).\
+Ces pouvoirs de métamorphe supplémentaires sont cumulatifs. Par exemple, une créature qui porte un *bandeau de métamorphe +4* gagne le pouvoir de transformation supplémentaire et ajoute +1 à son [[NLS|niveau de lanceur de sorts]] lorsqu’elle lance des sorts ou crée des extraits de *[[métamorphose]]*.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[métamorphose](./métamorphose.md)*  ; **Coût** 2.250 po (+2), 8.750 po (+4) ou 19.500 po (+6)
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[métamorphose]]*  ; **Coût** 2.250 po (+2), 8.750 po (+4) ou 19.500 po (+6)
 </div>

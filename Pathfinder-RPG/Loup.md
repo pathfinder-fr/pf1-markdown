@@ -14,20 +14,20 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.203}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
 {s:BDTexte|**pv** 13 (2d8+4)}
 {s:BDTexte|**Réf** +5, **Vig** +5, **Vol** +1}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +2 (1d6+1 et [croc-en-jambe](./Croc-en-jambe (capacité).md))}
+{s:BDTexte|**Corps à corps** morsure, +2 (1d6+1 et [[Croc-en-jambe (capacité)|croc-en-jambe]])}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 15, **Con** 15, **Int** 2, **Sag** 12, **Cha** 6}
-{s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 14 (18 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +6, [Perception](./Perception.md) +8, [Survie](./Survie.md) +1 (+5 pour pister à l'[odorat](./odorat.md)) ; **Modificateurs raciaux** [Survie](./Survie.md) +4 pour pister à l'[odorat](./odorat.md)}
+{s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 14 (18 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +6, [[Perception]] +8, [[Survie]] +1 (+5 pour pister à l'[[odorat]]) ; **Modificateurs raciaux** [[Survie]] +4 pour pister à l'[[odorat]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts froides ou tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-12)}
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Loup](./Loup.md) || 1
+| [[Loup]] || 1
 |-
-| [Loup sanguinaire](./Loup sanguinaire.md) || 3
+| [[Loup sanguinaire]] || 3
 |}
 </div>*Ce puissant canidé observe sa proie de ses yeux jaunes et perçants alors que sa langue va et vient entre ses dents blanches et acérées.*
 
@@ -82,7 +82,7 @@ moyen mesure entre 75 cm et
 
 #### Le loup comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m (10 {s:c}); **CA** armure naturelle +2 ; **Attaque** morsure (1d6 plus [croc-en-jambe](./Croc-en-jambe (capacité).md)) ; **Caractéristiques** For 13, Dex 15, Con 15, Int 2, Sag 12, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m (10 {s:c}); **CA** armure naturelle +2 ; **Attaque** morsure (1d6 plus [[Croc-en-jambe (capacité)|croc-en-jambe]]) ; **Caractéristiques** For 13, Dex 15, Con 15, Int 2, Sag 12, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8 plus croc-en-jambe) ; **Caractéristiques** For +8, Dex -2, Con +4.
 </div></td></tr></table>

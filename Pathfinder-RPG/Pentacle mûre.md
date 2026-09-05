@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun pentacle mûre|{s:RSE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 10 000 po (normale), 8 700 po (défectueuse), 400 po (ébréchée) ; **Poids** –
+**Aura** [[Transmutation]] modérée ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 10 000 po (normale), 8 700 po (défectueuse), 400 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** Cette pierre vous accorde un bonus de compétence de +5 aux tests de [Bluff](./Bluff.md) et de [Diplomatie](./Diplomatie.md).
+- ***Normale.*** Cette pierre vous accorde un bonus de compétence de +5 aux tests de [[Bluff]] et de [[Diplomatie]].
 
 
-- ***Défectueuse.*** Cette pierre accorde un bonus de compétence de +5 aux tests de [Bluff](./Bluff.md) et de [Diplomatie](./Diplomatie.md) et une pénalité de -2 aux [jets de sauvegarde](./JDS.md) de [Volonté](./Volonté.md).
+- ***Défectueuse.*** Cette pierre accorde un bonus de compétence de +5 aux tests de [[Bluff]] et de [[Diplomatie]] et une pénalité de -2 aux [[jds|jets de sauvegarde]] de [[Volonté]].
 
 
-- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 aux jets de [Bluff](./Bluff.md) et de [Diplomatie](./Diplomatie.md).
+- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 aux jets de [[Bluff]] et de [[Diplomatie]].
 
 (((Pouvoir de résonance)))
-Bonus de compétence de +2 aux tests de [Psychologie](./Psychologie.md).
+Bonus de compétence de +2 aux tests de [[Psychologie]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[splendeur de l’aigle](./Splendeur de laigle.md)*, le créateur doit être de niveau 12 ; **Coût** 5 000 po (normale), 4 350 po (défectueuse), 200 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[splendeur de laigle|splendeur de l’aigle]]*, le créateur doit être de niveau 12 ; **Coût** 5 000 po (normale), 4 350 po (défectueuse), 200 po (ébréchée)
 </div>

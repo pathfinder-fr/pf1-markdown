@@ -4,7 +4,7 @@ Title: Dons des cérothiens
 LastModified: 2016-01-20 09:27
 ---
 
-Les dons suivants sont accessibles uniquement aux [Cérotiens](./Cérotien.md)
+Les dons suivants sont accessibles uniquement aux [[Cérotien|Cérotiens]]
 
 #### Empalement cérothien
 Condition : Arme de prédilection : fléau, Arme de prédilection : corne, Science du coup de corne.{br}

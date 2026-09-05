@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Parchemin ailé à scandale|{s:RSE}{s:UI}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 1 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 100 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 1 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 100 po ; **Poids** —
 (((Description)))
 {s:cs}{s:Desambi|Cet objet a été modifié dans <u>Ultimate Intrigue</u>, sa traduction a donc été modifiée pour coller à sa plus récente itération.}Les conspirateurs nobles aiment utiliser des *parchemin ailé à scandale* pour propager des rumeurs chez leurs ennemis. Cet objet ressemble à une petite feuille ordinaire de parchemin roulée. Son propriétaire peut dérouler la feuille et y enregistrer un mot de 25 mots maximum. Une fois qu'un message y est enregistré, le personnage peut lancer le parchemin en l’air, ce qui l’anime : il se met à tournoyer au-dessus de la tête du personnage pendant 10 minutes, en volant à l’aide d’une petite paire d’ailes de plumes et en répétant d’une voie puissante, mais néanmoins ennuyeuse et quelconque, le message inscrit sur la feuille. Sinon, le personnage peut enrouler le parchemin après avoir rédigé son message et ce sera la prochaine personne qui le déroulera qui déclenchera son animation. Au bout de 10 minutes, le parchemin ailé à scandale disparaît dans une pluie d’étincelles.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[animation d’objets](./Animation dobjets.md)*, *[bouche magique](./Bouche magique.md)* ; **Coût** 50 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[animation dobjets|animation d’objets]]*, *[[bouche magique]]* ; **Coût** 50 po
 </div>

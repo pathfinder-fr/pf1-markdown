@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 50 po ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Cette pochette contient des exemples de lettres officielles ainsi que des exemples appropriés d'adresses, de formules, de protocoles et de tournures de phrases. Utilisé par les bureaucrates, les diplomates et les clercs, elle est aussi très pratique pour contrefaire les correspondances officielles. Elle fournit un bonus de circonstances de +2 aux tests de [Diplomatie](./Diplomatie.md) pour traiter avec les fonctionnaires d'une ville et un bonus de circonstances de +2 aux tests de [Linguistique](./Linguistique.md) pour créer des faux. Les modèles de lettre ne fonctionnent que pour une région donnée, comme un pays, voire même une ville, et ne fournit ces bonus que dans la région en question.
+Cette pochette contient des exemples de lettres officielles ainsi que des exemples appropriés d'adresses, de formules, de protocoles et de tournures de phrases. Utilisé par les bureaucrates, les diplomates et les clercs, elle est aussi très pratique pour contrefaire les correspondances officielles. Elle fournit un bonus de circonstances de +2 aux tests de [[Diplomatie]] pour traiter avec les fonctionnaires d'une ville et un bonus de circonstances de +2 aux tests de [[Linguistique]] pour créer des faux. Les modèles de lettre ne fonctionnent que pour une région donnée, comme un pays, voire même une ville, et ne fournit ces bonus que dans la région en question.

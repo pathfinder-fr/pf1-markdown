@@ -13,22 +13,22 @@ Categories:
 {s:cs}
 **(Source: Heroes of the street)**
 
-**École** [Divination](./Divination.md) ; **Niveau** [Alc](./Alchimiste.md) 2, [Bard](./Barde.md) 2, [Cham](./Chaman.md) 2, [Prê](./Prêtre.md) 2  
+**École** [[Divination]] ; **Niveau** [[alchimiste|Alc]] 2, [[barde|Bard]] 2, [[chaman|Cham]] 2, [[prêtre|Prê]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V,S](./composantes.md)  
+**Composantes** [[composantes|V,S]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** Le lanceur de sorts  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
 
-Vous gagnez un sens inné de la direction dans laquelle se trouve votre foyer ou du dernier endroit au sein duquel vous avez tenté un jet d'[artisanat](./Artisanat.md), selon votre choix. Vous obtenez un bonus d'intuition de +10 aux jets de [survie](./Survie.md) pour retrouver votre chemin jusqu'à l'endroit choisi.
+Vous gagnez un sens inné de la direction dans laquelle se trouve votre foyer ou du dernier endroit au sein duquel vous avez tenté un jet d'[[artisanat]], selon votre choix. Vous obtenez un bonus d'intuition de +10 aux jets de [[survie]] pour retrouver votre chemin jusqu'à l'endroit choisi.
 
-Sous les effets de ce sorts, vos objets bénéficient d'un bonus de chance de +2 sur les [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts et effets et vous obtenez un bonus de chance de +5 sur vos tests d'[Artisanat](./Artisanat.md) pour créer ou réparer des objets avec les compétences d'[Artisanat](./Artisanat.md) dans lesquelles vous êtes formés.
+Sous les effets de ce sorts, vos objets bénéficient d'un bonus de chance de +2 sur les [[jet de sauvegarde|jets de sauvegarde]] contre les sorts et effets et vous obtenez un bonus de chance de +5 sur vos tests d'[[Artisanat]] pour créer ou réparer des objets avec les compétences d'[[Artisanat]] dans lesquelles vous êtes formés.
 
 (((Beloved of the Forge
 

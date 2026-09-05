@@ -10,6 +10,6 @@ Categories:
 
 {s:ISG}{s:GeM}*Même les légers mouvements et vibrations de la pierre peuvent prévenir le personnage des ennuis qui le guettent.*
 
-**Conditions.** 4 rangs en [Connaissances](./Connaissances.md) (exploration souterraine)
+**Conditions.** 4 rangs en [[Connaissances]] (exploration souterraine)
 
-**Avantage.** Lorsque le personnage est dans un environnement majoritairement souterrain ou montagneux, il bénéficie d’un bonus de +3 aux tests de [Perception](./Perception.md). S’il possède 10 rangs ou plus en [Connaissances](./Connaissances.md) (exploration souterraine), ce bonus passe à +6.
+**Avantage.** Lorsque le personnage est dans un environnement majoritairement souterrain ou montagneux, il bénéficie d’un bonus de +3 aux tests de [[Perception]]. S’il possède 10 rangs ou plus en [[Connaissances]] (exploration souterraine), ce bonus passe à +6.

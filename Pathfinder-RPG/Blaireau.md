@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 - *Source : Bestiaire 2 page 51*
 - **PX** 200
-- [Animal](./type Animal.md) de taille P, N
-- **Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +5
+- [[type Animal|Animal]] de taille P, N
+- **Init** +1 ; **Sens** [[vision nocturne]], [[odorat]] ; [[Perception]] +5
 (((Défense)))
 - **CA** 13, contact 12, pris au dépourvu 12 (Dex +1, naturelle +1, taille +1)
 - **pv** 9 (1d8+5)
@@ -26,8 +26,8 @@ Categories:
 (((Caractéristiques)))
 - **For** 10, **Dex** 13, **Con** 15, **Int** 2, **Sag** 12, **Cha** 6
 - **BBA** +0 ; **BMO** -1 ; **DMD** 10 (14 contre croc-en-jambe)
-- **Dons** [Robustesse](./Robustesse.md)
-- **Compétences** [Évasion](./Évasion.md) +5, [Perception](./Perception.md) +5 ; **Modificateurs raciaux** +4 en [Évasion](./Évasion.md)
+- **Dons** [[Robustesse]]
+- **Compétences** [[Évasion]] +5, [[Perception]] +5 ; **Modificateurs raciaux** +4 en [[Évasion]]
 (((Écologie)))
 - **Environnement** forêts tempérées
 - **Organisation sociale** solitaire, couple ou clan (3–6)
@@ -40,16 +40,16 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Blaireau](./Blaireau.md) || 1/2
+| [[Blaireau]] || 1/2
 |-
-| [Blaireau sanguinaire](./Blaireau sanguinaire.md) || 2
+| [[Blaireau sanguinaire]] || 2
 |}
 </div>*Ce blaireau trapu s’avance en se dandinant. Il balade sa truffe au-dessus du sol et ne cesse de renifler.*
 
 Les blaireaux sont des animaux fouisseurs qu’on trouve en grand nombre dans la plupart des forêts tempérées. La majorité des espèces de blaireaux sont carnivores, mais certaines se nourrissent d’un mélange de viande, d’insectes et de végétaux. Malgré leurs courtes pattes et leur large stature, qui leur donnent un aspect lourdaud, ces créatures féroces et tenaces possèdent une force et une rapidité surprenantes. Le blaireau commun a une fourrure brun foncé et grise parsemée de marques blanches qui prennent la forme de bandes ou d’un masque autour des yeux. Ces marques distinctes varient d’une espèce à une autre. Les blaireaux, qui sont d’ordinaire amicaux, deviennent des combattants féroces face à une menace ou une provocation. Une fois qu’un ennemi a attisé leur rage, ils combattent généralement jusqu’à la mort. Au combat, ils utilisent leurs dents très fines et très acérées et leurs longues griffes incurvées, qui leur servent également pour creuser.
 
 #### Le blaireau comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m (6 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d4), 2 griffes (1d3) ; **Attaque spéciale** [rage](./Barbare.md#RAGEDEBERSERKER) (comme un [barbare](./Barbare.md), 6 rounds par jour) ; **Caractéristiques** For 10, Dex 17, Con 15, Int 2, Sag 12, Cha 10 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m (6 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d4), 2 griffes (1d3) ; **Attaque spéciale** [[barbare#RAGEDEBERSERKER|rage]] (comme un [[barbare]], 6 rounds par jour) ; **Caractéristiques** For 10, Dex 17, Con 15, Int 2, Sag 12, Cha 10 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4.** **Taille** M ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2.
 </div></td></tr></table>

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Traque-esprits
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Traque-esprits](./Descriptions individuelles des propriétés spéciales des armes.md#Traque-esprits)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Traque-esprits]]

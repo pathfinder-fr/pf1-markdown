@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 p.64*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 13, pris au dépourvu 11 (Dex +3, naturelle +1)}
 {s:BDTexte|**pv** 11 (2d8+2)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 17, **Con** 12, **Int** 2, **Sag** 13, **Cha** 12}
 {s:BDTexte|**BBA** +1, **BMO** +3, **DMD** 16}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +5, [Vol](./Vol.md) +7}
+{s:BDTexte|**Dons** [[Attaque en vol]]}
+{s:BDTexte|**Compétences** [[Perception]] +5, [[Vol]] +7}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** côtes ou forêts chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou volée (3-9)}
@@ -37,7 +37,7 @@ Categories:
 {s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JS* Vig DD 12 ; *fréquence* 1/round
 pendant 4 rounds ; *effet* affaiblissement temporaire 1d2 For ; *guérison* 1 JS}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>''Ce reptile volant possède une tête surdimensionnée aux couleurs rouges
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>''Ce reptile volant possède une tête surdimensionnée aux couleurs rouges
 et violettes éclatantes et des mâchoires bordées de dents acérées.''
 
 Le dimorphodon a
@@ -55,7 +55,7 @@ de la mâchoire.
 On dit que les dimorphodons
 se dressent
 facilement. Les tests de
-[Dressage](./Dressage.md) visant à les éduquer
+[[Dressage]] visant à les éduquer
 bénéficient d’un bonus de +4 et la
 bête, une fois pleinement domestiquée,
 a droit à un tour supplémentaire,
@@ -67,7 +67,7 @@ cinquante.
 
 #### Le dimorphodon comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 3 m (2 {s:c}), vol 9 m (6 {s:c}) (moyenne) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4) ; **Caractéristiques** For 12, Dex 17, Con 08, Int 2, Sag 14, Cha 12 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 3 m (2 {s:c}), vol 9 m (6 {s:c}) (moyenne) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4) ; **Caractéristiques** For 12, Dex 17, Con 08, Int 2, Sag 14, Cha 12 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Évolution au niveau 4.** **Taille** M ; **Attaque** morsure (1d6) ; **Caractéristiques** For +2, Dex -2, Con +2 ; **Attaques spéciales** poison (*fréquence* 1/round (6) ; *effet* affaiblissement temporaire 1 For ; *guérison* 1 JS, DD basé sur la Con).
 

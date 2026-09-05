@@ -6,18 +6,18 @@ LastModified: 2014-07-06 14:14
 
 <div class="chapeau"><table style="width: 100%"><tr style="vertical-align: top"><td style="width: 74%">Cette vue vous permet de répartir les points de compétence de votre personnage.
 
-[My Hero|Retour racine du Manuel]</td><td style="width: 2%"></td><td style="width: 24%"><div class="presentation arrondie"><div style = "font-size: 0.9em;margin-left: -15px">
-<OL><LI>[MH-Lev|Caractéristique]
-<LI>[MH-Lev2|Classe]
-<LI>[MH-Lev3|Options de classe]
-<LI>[MH-Lev4|Option de classe de prédilection]
-<LI>[MH-Lev5|Sorts]
-<LI>[MH-Lev6|Compétences]
-<LI>[MH-Lev7|Langages appris]
-<LI>[MH-Lev8|Dons]</OL></div></div></td></tr></table></div>
+[[My Hero|Retour racine du Manuel]]</td><td style="width: 2%"></td><td style="width: 24%"><div class="presentation arrondie"><div style = "font-size: 0.9em;margin-left: -15px">
+<OL><LI>[[MH-Lev|Caractéristique]]
+<LI>[[MH-Lev2|Classe]]
+<LI>[[MH-Lev3|Options de classe]]
+<LI>[[MH-Lev4|Option de classe de prédilection]]
+<LI>[[MH-Lev5|Sorts]]
+<LI>[[MH-Lev6|Compétences]]
+<LI>[[MH-Lev7|Langages appris]]
+<LI>[[MH-Lev8|Dons]]</OL></div></div></td></tr></table></div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/Slide59.jpg|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MonPerso|Mon Personnage].
+<OL><LI>Retour vers [[MH-MonPerso|Mon Personnage]].
 <LI>Annulation de tous les points de compétence attribués lors de ce passage de niveau.
 <LI>Nombre de points de compétence restant à distribuer.
 <LI>Liste des compétences.
@@ -27,6 +27,6 @@ LastModified: 2014-07-06 14:14
 <LI>Ajout d’un rang dans la compétence correspondante.
 <LI>Retranchement d’un rang dans la compétence correspondante.
 <LI>Résumé des points de compétence investis lors de ce passage de niveau.
-<LI>Retour vers [MH-Lev2|Classe].
-<LI>Validation des choix effectués. Vers [MH-Lev7|Langages appris].
+<LI>Retour vers [[MH-Lev2|Classe]].
+<LI>Validation des choix effectués. Vers [[MH-Lev7|Langages appris]].
 </OL></td></tr></table>

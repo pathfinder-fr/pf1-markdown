@@ -8,48 +8,48 @@ LastModified: 2020-11-10 13:39
 {| CLASS="tablo"
 |+ Résumé des compétences
 |- CLASS="titre"
-| Compétence || [AGT](./AGENT.md) || [ÉMI](./Émissaire.md) || [MÉC](./Mécano.md) || [MYS](./Mystique.md) || [SOL](./Solarien.md) || [SDT](./../Aventures/Soldat.md) || [TEC](./Technomancien.md) || Utilisable   
+| Compétence || [[Agent|AGT]] || [[Émissaire|ÉMI]] || [[Mécano|MÉC]] || [[Mystique|MYS]] || [[Solarien|SOL]] || [[Soldat|SDT]] || [[Technomancien|TEC]] || Utilisable   
 sans formation || Caractéristique
 |- CLASS="premier"
-| [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) || C || C || — || — || C || C || — || Oui || Dex*
+| [[Acrobaties]] || C || C || — || — || C || C || — || Oui || Dex*
 |- CLASS="alt"
-| [Athlétisme](./../Pathfinder-RPG/Athlétisme.md) || C || C || C || — || C || C || — || Oui || For*
+| [[Athlétisme]] || C || C || C || — || C || C || — || Oui || For*
 |-
-| [Bluff](./../Pathfinder-RPG/Bluff.md) || C || C || — || C || — || — || — || Oui || Cha
+| [[Bluff]] || C || C || — || C || — || — || — || Oui || Cha
 |- CLASS="alt"
-| [Culture](./Culture.md) || C || C || — || C || — || — || — || Non || Int
+| [[Culture]] || C || C || — || C || — || — || — || Non || Int
 |-
-| [Déguisement](./../Pathfinder-RPG/Déguisement.md) || C || C || — || C || — || — || — || Oui || Cha
+| [[Déguisement]] || C || C || — || C || — || — || — || Oui || Cha
 |- CLASS="alt"
-| [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) || — || C || — || C || C || — || — || Oui || Cha
+| [[Diplomatie]] || — || C || — || C || C || — || — || Oui || Cha
 |-
-| [Discrétion](./../Pathfinder-RPG/Discrétion.md) || C || C || — || — || C || — || — || Oui || Dex*
+| [[Discrétion]] || C || C || — || — || C || — || — || Oui || Dex*
 |- CLASS="alt"
-| [Escamotage](./../Pathfinder-RPG/Escamotage.md) || C || C || — || — || — || — || C || Non || Dex*
+| [[Escamotage]] || C || C || — || — || — || — || C || Non || Dex*
 |-
-| [Informatique](./Informatique.md) || C || C || C || — || — || — || C || Non || Int
+| [[Informatique]] || C || C || C || — || — || — || C || Non || Int
 |- CLASS="alt"
-| [Ingénierie](./Ingénierie.md) || C || C || C || — || — || C || C || Non || Int
+| [[Ingénierie]] || C || C || C || — || — || C || C || Non || Int
 |-
-| [Intimidation](./../Pathfinder-RPG/Intimidation.md) || C || C || — || C || C || C || — || Oui || Cha
+| [[Intimidation]] || C || C || — || C || C || C || — || Oui || Cha
 |- CLASS="alt"
-| [Médecine](./Médecine.md) || C || C || C || C || — || C || — || Non || Int
+| [[Médecine]] || C || C || C || C || — || C || — || Non || Int
 |-
-| [Mysticisme](./Mysticisme.md) || — || — || — || C || C || — || C || Non || Sag
+| [[Mysticisme]] || — || — || — || C || C || — || C || Non || Sag
 |- CLASS="alt"
-| [Perception](./../Pathfinder-RPG/Perception.md) || C || C || C || C || C || — || — || Oui || Sag
+| [[Perception]] || C || C || C || C || C || — || — || Oui || Sag
 |-
-| [Pilotage](./Pilotage.md) || C || C || C || — || — || C || C || Oui || Dex
+| [[Pilotage]] || C || C || C || — || — || C || C || Oui || Dex
 |- CLASS="alt"
-| [Profession](./../Pathfinder-RPG/Profession.md) || C || C || C || C || C || C || C || Non || Cha, Int ou Sag
+| [[Profession]] || C || C || C || C || C || C || C || Non || Cha, Int ou Sag
 |-
-| [Psychologie](./../Pathfinder-RPG/Psychologie.md) || C || C || — || C || C || — || — || Oui || Sag
+| [[Psychologie]] || C || C || — || C || C || — || — || Oui || Sag
 |- CLASS="alt"
-| [Sciences de la vie](./Sciences de la vie.md) || — || — || — || C || — || — || C || Non || Int
+| [[Sciences de la vie]] || — || — || — || C || — || — || C || Non || Int
 |-
-| [Sciences physiques](./Sciences physiques.md) || — || — || C || — || C || — || C || Non || Int
+| [[Sciences physiques]] || — || — || C || — || C || — || C || Non || Int
 |- CLASS="alt"
-| [Survie](./../Pathfinder-RPG/Survie.md) || C || — || — || C || — || C || — || Oui || Sag
+| [[Survie]] || C || — || — || C || — || C || — || Oui || Sag
 |}
 
 ''C = compétence de classe  

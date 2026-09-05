@@ -12,12 +12,12 @@ Categories:
 
 {s:RSE}<u>***Contenu issu d'un supplément 3.5***</u>
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 2
-**Temps d'incantation**  1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2
+**Temps d'incantation**  1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** courte (7,50 m + 1,50 m/2 niveaux) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** un ou plusieurs rayons
 **Durée** instantanée
-**Jet de sauvegarde** [aucun](./Présentation des sorts.md#JETDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Présentation des sorts#JETDESAUVEGARDE|aucun]] ; **Résistance à la magie** oui
 
-Le personnage frappe ses ennemis à l’aide de rayons de force non-létaux. Il peut créer un rayon, plus un supplémentaire tous les 4 niveaux au-delà du 3ème (jusqu’à un maximum de 3 rayons au niveau 11). Le personnage doit effectuer une [attaque de contact](./contact.md) à distance par rayon. Ces rayons sont des effets de force qui infligent 4d6 points de dégâts [non-létaux](./Blessures et mort.md#NONLETAL). Les rayons peuvent viser une même cible ou des cibles différentes mais ils doivent tous être tirés en même temps et sur des cibles situées à 9 mètres ou moins les unes des autres. Les rayons frappent leur cible avec une force équivalente à celle d’un coup de poing donné par un humain adulte et fort. Ils peuvent briser les objets abandonnés de 5 kilos ou moins s’ils infligent assez de dégâts.
+Le personnage frappe ses ennemis à l’aide de rayons de force non-létaux. Il peut créer un rayon, plus un supplémentaire tous les 4 niveaux au-delà du 3ème (jusqu’à un maximum de 3 rayons au niveau 11). Le personnage doit effectuer une [[contact|attaque de contact]] à distance par rayon. Ces rayons sont des effets de force qui infligent 4d6 points de dégâts [[Blessures et mort#NONLETAL|non-létaux]]. Les rayons peuvent viser une même cible ou des cibles différentes mais ils doivent tous être tirés en même temps et sur des cibles situées à 9 mètres ou moins les unes des autres. Les rayons frappent leur cible avec une force équivalente à celle d’un coup de poing donné par un humain adulte et fort. Ils peuvent briser les objets abandonnés de 5 kilos ou moins s’ils infligent assez de dégâts.

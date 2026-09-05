@@ -10,4 +10,4 @@ Categories:
 
 {s:apg}*Le personnage possède plus de traits que la normale.*
 
-**Avantage.** Le personnage gagne 2 [traits](./Traits.md) supplémentaires (choisis par le joueur). Ces traits doivent appartenir à deux listes différentes, toutes deux distinctes de celles dans lesquelles le personnage a déjà choisi un trait. Il doit remplir toutes les conditions d’accès à ces traits.
+**Avantage.** Le personnage gagne 2 [[traits]] supplémentaires (choisis par le joueur). Ces traits doivent appartenir à deux listes différentes, toutes deux distinctes de celles dans lesquelles le personnage a déjà choisi un trait. Il doit remplir toutes les conditions d’accès à ces traits.

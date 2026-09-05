@@ -10,6 +10,6 @@ Categories:
 
 {s:CMy}*Le personnage peut créer des objets magiques mythiques.*
 
-**Condition.** N’importe quel [don de création d’objets](./Dons.md#DONCREATION)
+**Condition.** N’importe quel [[Dons#DONCREATION|don de création d’objets]]
 
-**Avantage.** Le personnage peut créer des [objets magiques mythiques](./UOM.md) s’il possède le don de création d’objets approprié. De plus, il gagne un bonus de +5 aux tests de compétence effectués lors de la création d’objets magiques [non-mythiques](./non-mythiques.md).
+**Avantage.** Le personnage peut créer des [[UOM|objets magiques mythiques]] s’il possède le don de création d’objets approprié. De plus, il gagne un bonus de +5 aux tests de compétence effectués lors de la création d’objets magiques [[non-mythiques]].

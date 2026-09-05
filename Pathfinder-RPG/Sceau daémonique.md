@@ -12,32 +12,32 @@ Categories:
 - Src Livre des damnés
 ---
 
-{s:BotD}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Dru](./Druide.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Pal](./Paladin.md) 4, [Prê](./Prêtre.md) 4, [Sor](./Sorcière.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (50 po de poudre d'argent)
+{s:BotD}**École** [[Nécromancie]] ; **Niveau** [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Paladin|Pal]] 4, [[prêtre|Prê]] 4, [[sorcière|Sor]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (50 po de poudre d'argent)
 **Portée** contact
 **Cible** créature vivante touchée
-**Durée** 1 minute/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Durée** 1 minute/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 ---
-Ce sort fonctionne comme *[protection contre la mort](./Protection contre la mort.md)* à l’exception du fait qu’il ne protège que des attaques de [daémons](./Daémon.md).
+Ce sort fonctionne comme *[[protection contre la mort]]* à l’exception du fait qu’il ne protège que des attaques de [[Daémon|daémons]].
 
 
 
 (((
 ## Protection contre la mort
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Alch](./Alchimiste.md) 4, [Dru](./Druide.md) 5, [Inq](./Inquisiteur.md) 4, [Méd](./Médium.md) 4, [Occ](./Occultiste.md) 4, [Pal](./Paladin.md) 4, [Prê](./Prêtre.md) 4, [Sor](./Sorcière.md) 4, [Spi](./Spirite.md) 4  
+**École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Druide|Dru]] 5, [[Inquisiteur|Inq]] 4, [[Médium|Méd]] 4, [[Occultiste|Occ]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créature vivante touchée
-**Durée** 1 minute/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** 1 minute/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Le bénéficiaire gagne un bonus de moral de +4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts et les [effets magiques de mort](./Créer un sort.md#MORT). Il a droit à un [jet de sauvegarde](./jet de sauvegarde.md) contre ces effets même si ce ne devrait pas être le cas. Il est [immunisé](./immunisé.md) contre l’*[absorption d’énergie](./absorption dénergie.md)* et les effets d’[énergie négative](./Énergie négative.md) (même contre ceux qui découlent de la [canalisation](./canalisation dénergie.md) d’[énergie négative](./Énergie négative.md)).
+Le bénéficiaire gagne un bonus de moral de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les sorts et les [[Créer un sort#MORT|effets magiques de mort]]. Il a droit à un [[jet de sauvegarde]] contre ces effets même si ce ne devrait pas être le cas. Il est [[immunisé]] contre l’*[[absorption dénergie|absorption d’énergie]]* et les effets d’[[énergie négative]] (même contre ceux qui découlent de la [[canalisation dénergie|canalisation]] d’[[énergie négative]]).
 
-Ce sort ne permet pas de se débarrasser des [niveaux négatifs](./niveau négatif.md) déjà acquis par le sujet, mais il annule les malus liés à ceux-ci pendant sa durée.
+Ce sort ne permet pas de se débarrasser des [[niveau négatif|niveaux négatifs]] déjà acquis par le sujet, mais il annule les malus liés à ceux-ci pendant sa durée.
 
 Cette incantation ne protège pas contre les autres sortes d’attaques, même si elles causent la mort de leurs victimes.
 )))

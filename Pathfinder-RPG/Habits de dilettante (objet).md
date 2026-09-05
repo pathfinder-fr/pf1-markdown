@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 20 po ; **Poids** 4 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 20 po ; **Poids** 4 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
-Les inventeurs et les voyageurs [gnomes](./Gnome.md) apprécient tout particulièrement ces vêtements qui se composent de robustes bottes, d’un pantalon ou d’une jupe de lin robuste, d’une chemise, de gants de cuir, d’un chapeau, d’une cape et de nombreuses ceintures, attaches et autres accessoires (comme des écharpes, une veste, des bouts de corde ou de ficelle et des cartouchières). Ces divers éléments ne sont jamais assortis et viennent tous d’un autre ensemble de vêtements dont ils ont été extraits pour leur qualité « supérieure. » Ils regorgent de poches et de planques. Ces habits donnent un bonus de circonstances de +2 à leur propriétaire quand il fait un test d’[Escamotage](./Escamotage.md) pour cacher un petit objet sur sa personne.
+Les inventeurs et les voyageurs [[Gnome|gnomes]] apprécient tout particulièrement ces vêtements qui se composent de robustes bottes, d’un pantalon ou d’une jupe de lin robuste, d’une chemise, de gants de cuir, d’un chapeau, d’une cape et de nombreuses ceintures, attaches et autres accessoires (comme des écharpes, une veste, des bouts de corde ou de ficelle et des cartouchières). Ces divers éléments ne sont jamais assortis et viennent tous d’un autre ensemble de vêtements dont ils ont été extraits pour leur qualité « supérieure. » Ils regorgent de poches et de planques. Ces habits donnent un bonus de circonstances de +2 à leur propriétaire quand il fait un test d’[[Escamotage]] pour cacher un petit objet sur sa personne.

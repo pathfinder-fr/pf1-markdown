@@ -7,9 +7,9 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po (standard), 50 po (de maître) ; **Poids** 1 kg (standard), 2 kg (de maître)<sup>[1](./Équipement daventurier.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+{s:AE}**Prix** 2 po (standard), 50 po (de maître) ; **Poids** 1 kg (standard), 2 kg (de maître)<sup>[[Équipement daventurier#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Ce sac à dos en cuir se compose d'une grande poche qui se ferme avec une sangle à boucle et peut contenir environ 60 litres de matériel. Certains ont une ou plusieurs poches supplémentaires sur les côtés.  
   
-*Sac à dos de maître.* Ce sac à dos est pourvu de nombreuses poches dans lesquelles conserver des objets bien utiles quand on part à l'aventure. Il inclut également des crochets permettant d'accrocher des objets tels que des [gourdes](./Gourde (objet).md), des sacoches, voire même une [couverture](./Couverture (objet).md) enroulée. Il est pourvu de lanières matelassées à accrocher en travers de la poitrine et à la taille afin de mieux répartir le poids. Comme pour le sac à dos ordinaire, la poche principale peut contenir environ 60 litres de matériel. Lorsque le personnage porte un sac à dos de maître, il rajoute +1 à son score de [Force](./Force.md) lorsqu'il calcule la [charge](./Poids transportable.md) qu'il peut transporter.
+*Sac à dos de maître.* Ce sac à dos est pourvu de nombreuses poches dans lesquelles conserver des objets bien utiles quand on part à l'aventure. Il inclut également des crochets permettant d'accrocher des objets tels que des [[Gourde (objet)|gourdes]], des sacoches, voire même une [[Couverture (objet)|couverture]] enroulée. Il est pourvu de lanières matelassées à accrocher en travers de la poitrine et à la taille afin de mieux répartir le poids. Comme pour le sac à dos ordinaire, la poche principale peut contenir environ 60 litres de matériel. Lorsque le personnage porte un sac à dos de maître, il rajoute +1 à son score de [[Force]] lorsqu'il calcule la [[Poids transportable|charge]] qu'il peut transporter.

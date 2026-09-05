@@ -9,6 +9,6 @@ Categories:
 
 {s:mr}*Les accès de rage du personnage sont si inspirants pour ses alliés qu’ils n’ont pas besoin de rester à ses côtés pour rester enragés.*
 
-**Conditions.** [Cha](./Cha.md) 13, [orque](./orque (race).md) ou [demi-orque](./Demi-orque.md), non-Loyal
+**Conditions.** [[Cha]] 13, [[orque (race)|orque]] ou [[demi-orque]], non-Loyal
 
-**Avantage.** Les dons et les aptitudes qui permettent à un allié d’entrer en rage ou d’augmenter les effets de sa rage s’il est dans une case adjacente à celle du personnage (tels que [Rage amplifiée](./Rage amplifiée.md) ou [Rage empathique](./Rage empathique.md)) durent tant que son allié se situe à 9 mètres ou moins de sa position et peut le voir. Les conditions pour activer l’effet de rage restent les mêmes. Par exemple, un allié avec la Rage sympathisante doit être adjacent au personnage pour activer sa propre rage, mais une fois sa rage activée, il peut rester en rage tant qu’il le voit et est situé à 9 mètres ou moins de lui.
+**Avantage.** Les dons et les aptitudes qui permettent à un allié d’entrer en rage ou d’augmenter les effets de sa rage s’il est dans une case adjacente à celle du personnage (tels que [[Rage amplifiée]] ou [[Rage empathique]]) durent tant que son allié se situe à 9 mètres ou moins de sa position et peut le voir. Les conditions pour activer l’effet de rage restent les mêmes. Par exemple, un allié avec la Rage sympathisante doit être adjacent au personnage pour activer sa propre rage, mais une fois sa rage activée, il peut rester en rage tant qu’il le voit et est situé à 9 mètres ou moins de lui.

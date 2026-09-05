@@ -14,17 +14,17 @@ Categories:
 ---
 
 {s:UM}
-**École** [Illusion](./Illusion.md) ([ombre](./branche ombre.md)) <nowiki>[</nowiki>[ombre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4, [Spi](./Spirite.md) 4  
+**École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Cible** lanceur de sorts  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 

@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:UI}*Vos yeux aiguisés vous aident à trouver de meilleures affaires sur les composants magiques pour vos sorts.*
 
-**Conditions.** [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), 6 rangs en [Art de la magie](./Art de la magie.md), 6 rangs en [Estimation](./Estimation.md)
+**Conditions.** [[Dispense de composantes matérielles]], 6 rangs en [[Art de la magie]], 6 rangs en [[Estimation]]
 
-**Avantages.** Dans une [grande ville](./Villes.md#Les_communautés_dans_le_jeu_9) ou dans une communauté plus grande, le personnage peut fouiller attentivement les marchés pendant 4 heures afin d'acheter des composantes matérielles pour ses sorts avec une réduction de 10 %. Il peut acheter jusqu'à 1 000 po de composantes matérielles (ce qui lui coûte 900 po) chaque jour. Ces composantes à prix réduit conviennent parfaitement aux sorts du personnage, mais leur valeur de revente est également inférieure de 10 %.
+**Avantages.** Dans une [[Villes#Les_communautés_dans_le_jeu_9|grande ville]] ou dans une communauté plus grande, le personnage peut fouiller attentivement les marchés pendant 4 heures afin d'acheter des composantes matérielles pour ses sorts avec une réduction de 10 %. Il peut acheter jusqu'à 1 000 po de composantes matérielles (ce qui lui coûte 900 po) chaque jour. Ces composantes à prix réduit conviennent parfaitement aux sorts du personnage, mais leur valeur de revente est également inférieure de 10 %.

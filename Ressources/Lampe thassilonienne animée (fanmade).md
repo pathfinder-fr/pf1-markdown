@@ -10,13 +10,13 @@ LastModified: 2016-03-29 13:19
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Création de fan*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature artificielle](./Pathfinder-RPG-type-Créature-artificielle-ashx.md) de taille P, N}
-{s:BDTexte|**Init** +0 ; **Sens** [Vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}), [Vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) -5}
+{s:BDTexte|[[Pathfinder-RPG.type Créature artificielle.ashx|Créature artificielle]] de taille P, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Pathfinder-RPG.vision dans le noir|Vision dans le noir]] 18 m (12 {s:c}), [[Pathfinder-RPG.vision nocturne|Vision nocturne]] ; [[Pathfinder-RPG.Perception|Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 10, pris au dépourvu 12 (naturelle +6)}
 {s:BDTexte|**pv** 26 (3d10+10)}
 {s:BDTexte|**Réf** +1, **Vig** +1, **Vol** -4}
-{s:BDTexte|**Capacités défensives** [Solidité](./../Pathfinder-RPG/solidité.md) 5 ; **Immunités** [Traits des créatures artificielles](./../Pathfinder-RPG/Traits des créatures artificielles.md) }
+{s:BDTexte|**Capacités défensives** [[Pathfinder-RPG.solidité|Solidité]] 5 ; **Immunités** [[Pathfinder-RPG.traits des créatures artificielles|Traits des créatures artificielles]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 coups, +4 (1d6+3) +1d4 de feu}
@@ -29,7 +29,7 @@ LastModified: 2016-03-29 13:19
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacité spéciales}
-{s:BDTexte|**Aspersion d'huile**: grâce à une attaque de contact au corps à corps, asperge une cible d'huile pendant 3 rounds. Une fois enduite, si la cible rate un jet de [Réflexe](./Pathfinder-RPG-Valeurs-de-combat-ashx.md#JETDESAUVEGARDE) (DD 15) au contacte avec une flamme, elle s'enflamme et reçoit 1d6 dégâts de feu par round pendant 1d4 round. }
+{s:BDTexte|**Aspersion d'huile**: grâce à une attaque de contact au corps à corps, asperge une cible d'huile pendant 3 rounds. Une fois enduite, si la cible rate un jet de [[Pathfinder-RPG.Valeurs de combat.ashx#JETDESAUVEGARDE|Réflexe]] (DD 15) au contacte avec une flamme, elle s'enflamme et reçoit 1d6 dégâts de feu par round pendant 1d4 round. }
 {s:BDTexte|**Attaque rotative**: Tous les 1d4 rounds, la lampe se met à tourner rapidement sur elle-même. Les quatre tiges avec les lampes à huile sont alors entraînées par la force centrifuge et infligent à toutes les créatures à moins d'1,5m des dégâts. }
 
 

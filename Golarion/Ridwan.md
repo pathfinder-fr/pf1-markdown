@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-Située au pied des montagnes du [Ménador](./Ménador.md), Ridwan repose dans une plaine volcanique hostile du [Nidal](./Nidal.md).
+Située au pied des montagnes du [[Ménador]], Ridwan repose dans une plaine volcanique hostile du [[Nidal]].
 
-La petite cité est le centre religieux dédié au culte de [Zon-Kuthon](./Zon-Kuthon.md), et on raconte que c'est depuis la crevasse fumante située au centre de la ville qu'est apparu pour la première en [Golarion](./Golarion.md) le Seigneur de Minuit. On dit aussi que la crevasse est l'un des accès au plan de l'Ombre.
+La petite cité est le centre religieux dédié au culte de [[Zon-Kuthon]], et on raconte que c'est depuis la crevasse fumante située au centre de la ville qu'est apparu pour la première en [[Golarion]] le Seigneur de Minuit. On dit aussi que la crevasse est l'un des accès au plan de l'Ombre.
 
-En plus d'être un centre religieux important, Ridwan abrite aussi les camps d'entraînements militaires du [Nidal](./Nidal.md).
+En plus d'être un centre religieux important, Ridwan abrite aussi les camps d'entraînements militaires du [[Nidal]].

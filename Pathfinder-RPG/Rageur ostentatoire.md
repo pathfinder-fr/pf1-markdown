@@ -10,10 +10,10 @@ Categories:
 
 {s:cs}{s:UI}*Vous pouvez enthousiasmer les spectateurs avec une démonstration de puissance féroce ou obliger les ennemis à vous considérer comme une menace cruciale.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** 5 rangs en [Intimidation](./Intimidation.md), capacité de classe [rage de berserker](./Barbare.md#RAGE)
+**Conditions.** 5 rangs en [[Intimidation]], capacité de classe [[Barbare#RAGE|rage de berserker]]
 
-**Avantages.** Le personnage peut gagner de l'argent avec [Intimidation](./Intimidation.md) en réalisant des tours de force et d'intimidation, exactement comme il le ferait avec la compétence [Représentation](./Représentation.md).
+**Avantages.** Le personnage peut gagner de l'argent avec [[Intimidation]] en réalisant des tours de force et d'intimidation, exactement comme il le ferait avec la compétence [[Représentation]].
 
-De plus, quand le personnage est en [rage](./Barbare.md#RAGE), si un adversaire devrait être démoralisé par sa compétence [Intimidation](./Intimidation.md) et que cet adversaire n'est pas [secoué](./Secoué.md) par l'action, il peut à la place le distraire jusqu'au début de son prochain tour. Pendant ce temps, l'adversaire subit un malus de -5 aux tests de [Perception](./Perception.md) qui ne concerne pas le personnage ainsi qu'un malus de -2 à la [CA](./CA.md) contre les créatures autres que le personnage. Ces effets se termine plus tôt si une créature autre que le personnage attaque l'adversaire affecté ou s'il le démoralise et lui impose l'état secoué.
+De plus, quand le personnage est en [[Barbare#RAGE|rage]], si un adversaire devrait être démoralisé par sa compétence [[Intimidation]] et que cet adversaire n'est pas [[secoué]] par l'action, il peut à la place le distraire jusqu'au début de son prochain tour. Pendant ce temps, l'adversaire subit un malus de -5 aux tests de [[Perception]] qui ne concerne pas le personnage ainsi qu'un malus de -2 à la [[CA]] contre les créatures autres que le personnage. Ces effets se termine plus tôt si une créature autre que le personnage attaque l'adversaire affecté ou s'il le démoralise et lui impose l'état secoué.

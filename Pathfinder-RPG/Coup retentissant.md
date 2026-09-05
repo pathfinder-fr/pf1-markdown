@@ -12,24 +12,24 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[son](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Apal](./Antipaladin.md) 4, [Inq](./Inquisiteur.md) 5, [Pal](./Paladin.md) 4  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ;** Niveau** [[Antipaladin|Apal]] 4, [[Inquisiteur|Inq]] 5, [[Paladin|Pal]] 4  
 
-**Temps d'incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d'incantation** 1 [[action rapide]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[Composantes|V]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; voir texte ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; voir texte ; **Résistance à la magie** non
 
 Pour lancer ce sort, le personnage doit avoir une arme en main. En cas de jet d'attaque réussi, cette arme frappe avec un fracas retentissant. La cible reçoit 1d6 points de dégâts sonores. L'arme n'est pas endommagée par l'attaque.
 
-Si le personnage utilisait son pouvoir de [jugement](./Inquisiteur.md#JUGEMENT) ou de [châtiment](./Paladin.md#CHATIMENTDUMAL) contre la cible, cette dernière est [chancelante](./Chancelant.md) pendant 1 round en cas d'attaque réussie. Un jet de [Vigueur](./Vigueur.md) permet d'annuler cet effet.
+Si le personnage utilisait son pouvoir de [[inquisiteur#JUGEMENT|jugement]] ou de [[paladin#CHATIMENTDUMAL|châtiment]] contre la cible, cette dernière est [[chancelant|chancelante]] pendant 1 round en cas d'attaque réussie. Un jet de [[Vigueur]] permet d'annuler cet effet.
 
-En cas de [coup critique](./coup critique.md), la cible est [étourdie](./Étourdi.md) pendant 1 [round](./round.md) et [sourde](./Assourdi.md) pendant 1d6 [rounds](./round.md). Un jet de [Vigueur](./Vigueur.md) réussi permet d'annuler ces deux effets. Si le personnage utilisait son pouvoir de [jugement](./Inquisiteur.md#JUGEMENT) ou de [châtiment](./Paladin.md#CHATIMENTDUMAL) contre la cible, cette dernière ne fait qu'un seul [jet de sauvegarde](./jet de sauvegarde.md) valable contre tous les effets néfastes.
+En cas de [[coup critique]], la cible est [[étourdi|étourdie]] pendant 1 [[round]] et [[assourdi|sourde]] pendant 1d6 [[round|rounds]]. Un jet de [[Vigueur]] réussi permet d'annuler ces deux effets. Si le personnage utilisait son pouvoir de [[inquisiteur#JUGEMENT|jugement]] ou de [[paladin#CHATIMENTDUMAL|châtiment]] contre la cible, cette dernière ne fait qu'un seul [[jet de sauvegarde]] valable contre tous les effets néfastes.
 
-Ce sort se termine immédiatement si l'arme du personnage quitte sa main. *Coup retentissant* se cumule avec les propriétés d'une arme *[de tonnerre](./tonnerre (propriété).md)*.
+Ce sort se termine immédiatement si l'arme du personnage quitte sa main. *Coup retentissant* se cumule avec les propriétés d'une arme *[[tonnerre (propriété)|de tonnerre]]*.

@@ -11,8 +11,8 @@ Categories:
 
 {s:mca} *Le lien que le personnage entretient avec son compagnon lui permet de partager avec lui la magie de soins qu’il reçoit.*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** Capacité à obtenir un [compagnon animal](./Compagnons animaux.md), un [eidolon](./eidolon.md), un [familier](./Familiers.md) ou une monture spéciale.
+**Conditions.** Capacité à obtenir un [[compagnons animaux|compagnon animal]], un [[eidolon]], un [[familiers|familier]] ou une monture spéciale.
 
 **Avantage.** Quand le personnage et son compagnon possèdent tous deux ce don, que son compagnon est adjacent à lui ou partage sa case et que le personnage profite des avantages d’un sort de soins (qu’il ait été lancé par lui-même ou par un tiers), il peut répartir de manière égale les points de vie soignés entre lui-même et son compagnon.

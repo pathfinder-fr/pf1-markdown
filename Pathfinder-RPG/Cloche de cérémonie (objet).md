@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AO}**Prix** 2 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Cette grande cloche en argent est dotée d'une grande poignée en bois. Les cloches de cérémonie sont généralement utilisées pendant des cérémonies, souvent pour attirer l'attention d'un public nombreux. Chaque cloche de cérémonie est gravée de manière différente, en fonction du culte ou de la secte qui l'utilise.

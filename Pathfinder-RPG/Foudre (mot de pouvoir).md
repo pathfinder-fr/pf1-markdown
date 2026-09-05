@@ -9,10 +9,10 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[électricité](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [druide](./Druide.md) 8, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 8, [sorcière](./Sorcière.md) 8  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 8, [[ensorceleur]]/[[magicien]] 8, [[sorcière]] 8  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-Ce mot effet inflige 1d8 points de dégâts d’électricité par [niveau de lanceur](./NLS.md) (maximum 20d8). De plus, une cible qui rate son [jet de sauvegarde](./jet de sauvegarde.md) est [assourdie](./Assourdi.md) durant 1 [round](./round.md) par [niveau de lanceur](./NLS.md).
+Ce mot effet inflige 1d8 points de dégâts d’électricité par [[NLS|niveau de lanceur]] (maximum 20d8). De plus, une cible qui rate son [[jet de sauvegarde]] est [[assourdi|assourdie]] durant 1 [[round]] par [[NLS|niveau de lanceur]].

@@ -10,11 +10,11 @@ Categories:
 
 {s:racial|Kobold (race)|kobolds|Illustrations/PNJ/Kobold.jpg}<div class="BD">
 {s:BDTitre|Levier à vibrations|{s:ISR}}
-**Aura** [Évocation](./Évocation.md) puissante ; **NLS** 15 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 70.000 po ; **Poids** 1 kg
+**Aura** [[Évocation]] puissante ; **NLS** 15 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 70.000 po ; **Poids** 1 kg
 (((Description)))
-{s:cs}Ce [pied-de-biche](./Pied-de-biche (objet).md) en [mithral](./mithral.md) peut inciter la pierre à se déplacer avec une facilité déconcertante. Cinq fois par jour, lorsqu'un porteur [kobold](./Kobold (race).md) fait pression sur une section de pierre et prononce un [mot de commande](./mot de commande.md), la pierre touchée change de forme comme avec *[façonnage de la pierre](./Façonnage de la pierre.md)*.
+{s:cs}Ce [[Pied-de-biche (objet)|pied-de-biche]] en [[mithral]] peut inciter la pierre à se déplacer avec une facilité déconcertante. Cinq fois par jour, lorsqu'un porteur [[Kobold (race)|kobold]] fait pression sur une section de pierre et prononce un [[mot de commande]], la pierre touchée change de forme comme avec *[[façonnage de la pierre]]*.
 
-De plus, un porteur [kobold](./Kobold (race).md) peut une fois par jour lancer le pied-de-biche comme une [arme de jet](./arme de jet.md) [à aspersion](./arme à aspersion.md) sur un point de terre, de métal ou de pierre pour déclencher un *[tremblement de terre](./Tremblement de terre.md)* centré sur le point où le pied-de-biche atterrit.
+De plus, un porteur [[Kobold (race)|kobold]] peut une fois par jour lancer le pied-de-biche comme une [[arme de jet]] [[arme à aspersion|à aspersion]] sur un point de terre, de métal ou de pierre pour déclencher un *[[tremblement de terre]]* centré sur le point où le pied-de-biche atterrit.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[façonnage de la pierre](./Façonnage de la pierre.md)*, *[tremblement de terre](./Tremblement de terre.md)*, le créateur doit être un [kobold](./Kobold (race).md) ; **Coût** 35.000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[façonnage de la pierre]]*, *[[tremblement de terre]]*, le créateur doit être un [[Kobold (race)|kobold]] ; **Coût** 35.000 po
 </div>

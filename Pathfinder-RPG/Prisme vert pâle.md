@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun prisme vert pâle|{s:RSE}}
-**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 30 000 po (normale), 28 000 po (défectueuse), 4 000 po (ébréchée) ; **Poids** –
+**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 30 000 po (normale), 28 000 po (défectueuse), 4 000 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** Bonus de compétence de +1 aux [jets d’attaque](./jet dattaque.md), aux [jets de sauvegarde](./JDS.md), aux tests de [compétence](./Compétences.md) et aux tests de [caractéristique](./Caractéristiques.md).
+- ***Normale.*** Bonus de compétence de +1 aux [[jet dattaque|jets d’attaque]], aux [[jds|jets de sauvegarde]], aux tests de [[Compétences|compétence]] et aux tests de [[Caractéristiques|caractéristique]].
 
 
-- ***Défectueuse.*** Cette pierre accorde un bonus de moral de +1 aux [jets d’attaque](./jet dattaque.md), aux [jets de sauvegarde](./JDS.md), aux tests de [compétence](./Compétences.md) et aux tests de [caractéristique](./Caractéristiques.md).
+- ***Défectueuse.*** Cette pierre accorde un bonus de moral de +1 aux [[jet dattaque|jets d’attaque]], aux [[jds|jets de sauvegarde]], aux tests de [[Compétences|compétence]] et aux tests de [[Caractéristiques|caractéristique]].
 
 
-- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 aux [jets d’attaque](./jet dattaque.md) ou [de sauvegarde](./JDS.md).
+- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 aux [[jet dattaque|jets d’attaque]] ou [[jds|de sauvegarde]].
 
 (((Pouvoir de résonance)))
-Deux fois par jour par une [action libre](./Action libre.md), le porteur peut se débarrasser l’état [fatigué](./Fatigué.md) (ou passer de l’état [épuisé](./Épuisé.md) à l’état fatigué).
+Deux fois par jour par une [[action libre]], le porteur peut se débarrasser l’état [[fatigué]] (ou passer de l’état [[épuisé]] à l’état fatigué).
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être de niveau 12 ; **Coût** 15 000 po (normale), 14 000 po (défectueuse), 2 000 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], le créateur doit être de niveau 12 ; **Coût** 15 000 po (normale), 14 000 po (défectueuse), 2 000 po (ébréchée)
 </div>

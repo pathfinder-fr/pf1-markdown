@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
 Aussi appelé « nécessaire de gravure sur bois », cet ensemble d'aiguilles, de stylets et de tisons en métal sert à dessiner sur le cuir ou le bois en le brûlant. Pour utiliser cette trousse, il faut une source de feu, afin de chauffer l'aiguille ou le stylet. On les manipule ensuite comme un crayon, en se protégeant avec une protection en cuir épais.

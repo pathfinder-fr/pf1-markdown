@@ -12,20 +12,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[feu, terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 6, [Dru](./Druide.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu, terre]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F/FD](./composantes.md) (une bille de goudron durcie)  
+**Composantes** [[composantes|V, G, F/FD]] (une bille de goudron durcie)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Zone** 6 m (4 {s:c}) de rayon  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE), voir texte ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]], voir texte ; **Résistance à la magie** non
 
-Le personnage convertit une couche de sol en goudron brûlant. Les créatures situées dans la zone d’effet quand le goudron apparaît subissent 1d6 points de dégâts de feu par tranche de deux [niveaux de lanceur de sorts](./NLS.md) (10d6 au maximum). Elles doivent réussir un jet de [Réflexes](./Réflexes.md) sinon elles sont [enchevêtrées](./Enchevêtré.md). Une créature [enchevêtrée](./Enchevêtré.md) a droit à un [jet de sauvegarde](./JDS.md) par [round](./round.md), pour se libérer du goudron. Elle peut aussi tenter de se dégager avec un test de [Force](./Force.md) ou d’[Évasion](./Évasion.md) (même [DD](./DD.md) que le [jet de sauvegarde](./JDS.md)).
+Le personnage convertit une couche de sol en goudron brûlant. Les créatures situées dans la zone d’effet quand le goudron apparaît subissent 1d6 points de dégâts de feu par tranche de deux [[NLS|niveaux de lanceur de sorts]] (10d6 au maximum). Elles doivent réussir un jet de [[Réflexes]] sinon elles sont [[enchevêtré|enchevêtrées]]. Une créature [[enchevêtré|enchevêtrée]] a droit à un [[JdS|jet de sauvegarde]] par [[round]], pour se libérer du goudron. Elle peut aussi tenter de se dégager avec un test de [[Force]] ou d’[[Évasion]] (même [[DD]] que le [[JdS|jet de sauvegarde]]).
 
-Il faut dépenser 2 cases de mouvement pour entrer dans une case de la zone d’effet. Le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) augmente de 5 dans la zone qui est considérée comme un [terrain difficile](./terrain difficile.md). Une créature qui entre dans la zone ou qui commence son tour dedans subit 2d6 points de dégâts de feu et doit réussir un jet de [Réflexes](./Réflexes.md) ou se retrouver [enchevêtrée](./Enchevêtré.md). Une créature qui tombe dans la zone subit un malus de -4 au jet de [Réflexes](./Réflexes.md) contre le goudron et aux tests de [Force](./Force.md) et d’[Évasion](./Évasion.md) pour lui échapper. Une créature qui échappe au goudron continue de subir des dégâts de feu jusqu’à expiration du sort ou jusqu’à ce qu’elle passe un [round](./round.md) entier à se débarrasser du goudron. Une créature couverte de goudron subit un malus de -4 aux tests d’[Acrobaties](./Acrobaties.md) et de [Vol](./Vol.md) si elle doit battre des ailes ou utiliser des appendices similaires.
+Il faut dépenser 2 cases de mouvement pour entrer dans une case de la zone d’effet. Le [[DD]] des tests d’[[Acrobaties]] augmente de 5 dans la zone qui est considérée comme un [[terrain difficile]]. Une créature qui entre dans la zone ou qui commence son tour dedans subit 2d6 points de dégâts de feu et doit réussir un jet de [[Réflexes]] ou se retrouver [[enchevêtré|enchevêtrée]]. Une créature qui tombe dans la zone subit un malus de -4 au jet de [[Réflexes]] contre le goudron et aux tests de [[Force]] et d’[[Évasion]] pour lui échapper. Une créature qui échappe au goudron continue de subir des dégâts de feu jusqu’à expiration du sort ou jusqu’à ce qu’elle passe un [[round]] entier à se débarrasser du goudron. Une créature couverte de goudron subit un malus de -4 aux tests d’[[Acrobaties]] et de [[Vol]] si elle doit battre des ailes ou utiliser des appendices similaires.

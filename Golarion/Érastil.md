@@ -6,7 +6,7 @@ Categories:
 - Religion
 ---
 
-{s:Dieu|Érastil|%2fPCUP%2fReligion-PNG%2fErastil.png|Le vieux borgne|LB|Agriculture, chasse, commerce et famille|Agriculteur, chasseur et commerçant|Arc long |Bien, Communauté, Faune, Flore, Loi|Archons, Famille, Plume, Poil, Croissance, Foyer|Conversion, Hérésie, Héroïsme, Illumination, Zèle} Érastil est un des plus anciens dieux à l'œuvre en [Avistan](./Avistan.md). Sa religion date d'avant l'âge des Ténèbres quand de petites communautés agricoles et des rassemblements de chasseurs le priaient pour des récoltes abondantes et des chasses réussies. C'est un dieu de la chasse et de l'agriculture qui préfère montrer la voie à suivre à ses disciples au travers d'exemples simples plutôt que par des sermons.
+{s:Dieu|Érastil|%2fPCUP%2fReligion-PNG%2fErastil.png|Le vieux borgne|LB|Agriculture, chasse, commerce et famille|Agriculteur, chasseur et commerçant|Arc long |Bien, Communauté, Faune, Flore, Loi|Archons, Famille, Plume, Poil, Croissance, Foyer|Conversion, Hérésie, Héroïsme, Illumination, Zèle} Érastil est un des plus anciens dieux à l'œuvre en [[Avistan]]. Sa religion date d'avant l'âge des Ténèbres quand de petites communautés agricoles et des rassemblements de chasseurs le priaient pour des récoltes abondantes et des chasses réussies. C'est un dieu de la chasse et de l'agriculture qui préfère montrer la voie à suivre à ses disciples au travers d'exemples simples plutôt que par des sermons.
 
 ### Histoire
 
@@ -27,7 +27,7 @@ Les élans, biches et les cerfs sont tenues en haute estime par Érastil. Ceux q
 
 ### Temples
 
-Cette religion peut être trouvée dans toutes les régions sauvages d'[Avistan](./Avistan.md), mais plus particulièrement en [Andoran](./Andoran.md), [Chéliax](./Chéliax.md), [Galt](./Galt.md), [Isger](./Isger.md), les [terres des Rois des Linnorms](./Terres des Rois des Linnorms.md), [Molthune](./Molthune.md), [Nirmathas](./Nirmathas.md), les [Royaumes Fluviaux](./Royaumes fluviaux.md) et la [Varisie](./Varisie.md). Les sanctuaires d'Érastil sont presque toujours de simples bâtiments en bois qui servent de lieu de rassemblement aux communautés rurales.
+Cette religion peut être trouvée dans toutes les régions sauvages d'[[Avistan]], mais plus particulièrement en [[Andoran]], [[Chéliax]], [[Galt]], [[Isger]], les [[terres des Rois des Linnorms]], [[Molthune]], [[Nirmathas]], les [[Royaumes Fluviaux]] et la [[Varisie]]. Les sanctuaires d'Érastil sont presque toujours de simples bâtiments en bois qui servent de lieu de rassemblement aux communautés rurales.
 
 
 ### Textes sacrés
@@ -35,8 +35,8 @@ Cette religion peut être trouvée dans toutes les régions sauvages d'[Avistan]
 Ils sont regroupés dans les Paraboles d'Érastil. Ce livre sert de guide et d'almanach aux suivants d'Érastil. Il donne des connaissances sur l'agriculture, sur les étendues sauvages et des conseils pour renforcer les liens familiaux.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [deuxième volume](./../Aventures/Présentation AP6.md#AP6-2) de la sixième campagne, [Kingmaker](./../Aventures/Présentation AP6.md), contient un article sur Érastil.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP6#AP6-2|deuxième volume]] de la sixième campagne, [[Aventures.Présentation AP6|Kingmaker]], contient un article sur Érastil.
 {s:VoirAussiAprès}

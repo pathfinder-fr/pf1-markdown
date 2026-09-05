@@ -14,37 +14,37 @@ Categories:
 {s:pucem|Aberration|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.37*}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision aveugle](./vision aveugle.md) à 27 m (18 {s:c}) ; [Perception](./Perception.md) +21}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision aveugle]] à 27 m (18 {s:c}) ; [[Perception]] +21}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 13, pris au dépourvu 21 (Dex +3, esquive +1, naturelle +12, taille -1)}
 {s:BDTexte|**pv** 133 (14d8+70)}
 {s:BDTexte|**Réf** +9, **Vig** +9, **Vol** +15}
-{s:BDTexte|**Capacité défensive** [créature informe](./Créature informe (capacité).md) ; **RD** 10/perforant ou tranchant ; **Immunité** attaques de regard, froid, illusions, poison ; **Résistances** électricité 30 ; **RM** 22}
+{s:BDTexte|**Capacité défensive** [[créature informe (capacité)|créature informe]] ; **RD** 10/perforant ou tranchant ; **Immunité** attaques de regard, froid, illusions, poison ; **Résistances** électricité 30 ; **RM** 22}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 15 m (10 {s:c}), escalade 6 m (4 {s:c}) ; *[marche dans les airs](./Marche dans les airs.md)*}
+{s:BDTexte|**VD** 15 m (10 {s:c}), escalade 6 m (4 {s:c}) ; *[[marche dans les airs]]*}
 {s:BDTexte|**Corps à corps**  2 griffes, +15 (1d6+6) et 4 tentacules, +11 (1d6+3)}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration (capacité).md) (2 tentacules, 1d6+9 plus drain de Sagesse)}
+{s:BDTexte|**Attaques spéciales** [[éventration (capacité)|éventration]] (2 tentacules, 1d6+9 plus drain de Sagesse)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 11 ; concentration +18)}
-{s:BDSorts|*Constant* - *[marche dans les airs](./Marche dans les airs.md)*}
-{s:BDSorts|*A volonté* - *[détection de pensées](./Détection de pensées.md)* (DD 19)}
-{s:BDSorts|*3/jour* - *[charme-monstre](./Charme-monstre.md)* (DD 21), *[convocation d'ombres](./Convocation dombres.md)* (DD 21), *[dissipation de la magie](./Dissipation de la magie.md)*, *[domination](./Domination.md)* (DD 22), *[magie des ombres](./Magie des ombres.md)* (DD 22), *[voile](./Voile.md)* (DD 23)}
-{s:BDSorts|*1/jour* - *[changement de plan](./Changement de plan.md)* (personnelle uniquement), *[confusion](./Confusion.md)* (DD 21), *[image accomplie](./Image accomplie.md)* (DD 20), *[mirage](./mirage.md)* (DD 22)}
+{s:BDSorts|*Constant* - *[[marche dans les airs]]*}
+{s:BDSorts|*A volonté* - *[[détection de pensées]]* (DD 19)}
+{s:BDSorts|*3/jour* - *[[charme-monstre]]* (DD 21), *[[convocation dombres|convocation d'ombres]]* (DD 21), *[[dissipation de la magie]]*, *[[domination]]* (DD 22), *[[magie des ombres]]* (DD 22), *[[voile]]* (DD 23)}
+{s:BDSorts|*1/jour* - *[[changement de plan]]* (personnelle uniquement), *[[confusion]]* (DD 21), *[[image accomplie]]* (DD 20), *[[mirage]]* (DD 22)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 17, **Con** 20, **Int** 19, **Sag** 18, **Cha** 25}
 {s:BDTexte|**BBA** +10, **BMO** +17, **DMD** 31}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (tentacule), [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +21, [Connaissances](./Connaissances.md) (mystères) +11, [Connaissances](./Connaissances.md) (plans) +18, [Diplomatie](./Diplomatie.md) +14, [Discrétion](./Discrétion.md) +24, [Escalade](./Escalade.md) +14, [Intimidation](./Intimidation.md) +24, [Perception](./Perception.md) +21, [Psychologie](./Psychologie.md) +18, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +21}
-{s:BDTexte|**Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (tentacule), [[Esquive]], [[Magie de guerre]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +21, [[Connaissances]] (mystères) +11, [[Connaissances]] (plans) +18, [[Diplomatie]] +14, [[Discrétion]] +24, [[Escalade]] +14, [[Intimidation]] +24, [[Perception]] +21, [[Psychologie]] +18, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +21}
+{s:BDTexte|**Modificateurs raciaux** +8 en [[Discrétion]]}
 {s:BDTexte|**Langues** aklo (ne peut pas parler) ; télépathie à 90 m (60 {s:c})}
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md), ne respire pas}
+{s:BDTexte|**Particularités** [[compression (capacité)|compression]], ne respire pas}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou cabale (3-5)}
 {s:BDTexte|**Trésor** double}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Drain de sagesse (Sur).** Une créature qui reçoit des dégâts d’[éventration](./Éventration (capacité).md) d’une bête lunaire doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 22 ou subir une [diminution permanente](./diminution permanente.md) de 1d4 points de [Sagesse](./Sagesse.md). La bête lunaire se soigne de 5 points de dégâts pour chaque point de [Sagesse](./Sagesse.md) qu’elle absorbe ainsi. Si sa victime tombe à 0 point de [Sagesse](./Sagesse.md), la bête lunaire bénéficie des effets du sort *[guérison suprême](./Guérison suprême.md)*. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Drain de sagesse (Sur).** Une créature qui reçoit des dégâts d’[[éventration (capacité)|éventration]] d’une bête lunaire doit réussir un jet de [[Volonté]] [[DD]] 22 ou subir une [[diminution permanente]] de 1d4 points de [[Sagesse]]. La bête lunaire se soigne de 5 points de dégâts pour chaque point de [[Sagesse]] qu’elle absorbe ainsi. Si sa victime tombe à 0 point de [[Sagesse]], la bête lunaire bénéficie des effets du sort *[[guérison suprême]]*. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 
 </div>
 </td><td><div>

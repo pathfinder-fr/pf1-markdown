@@ -12,19 +12,19 @@ Voilà maintenant près de trois ans que je joue une campagne s'inspirant à la 
 J'ai entamé l'adaption des règles de Midnight aux règles de Pathfinder, afin de pouvoir continuer à utiliser cet univers avec un système de règle encore disponible. Un univers ne peut survivre s'il n'a pas un système de règle disponible.
 
 Sur Pathfinder-fr, vous trouverez bientôt l'ensemble des règles, des aides de jeu, des scénarii...
-Vous pouvez suivre la campagne et l'évolution du site sur le site : [Midnight Compagnie Noire](./^https://sites-google-com/site/midnightcompagnienoire/accueil.md)
+Vous pouvez suivre la campagne et l'évolution du site sur le site : [Midnight Compagnie Noire](https://sites.google.com/site/midnightcompagnienoire/accueil)
 
-[Nightfinder](./^https://sites-google-com/site/midnightcompagnienoire/librairie/NightFinder-pdf?attredirects=0&d=1.md) (pdf 10mo)
+[Nightfinder](https://sites.google.com/site/midnightcompagnienoire/librairie/NightFinder.pdf?attredirects=0&d=1) (pdf 10mo)
 
 
 
 ## Sommaire
 
-- [Qu'est ce que Midnight ?](./MNPresentation.md) Une Présentation du Jeu de Rôle
+- [[MNPresentation|Qu'est ce que Midnight ?]] Une Présentation du Jeu de Rôle
   - L'historique
   - Les Livres
   - Les sites webs en 3.5
-- [Midnight : l'Univers](./MNunivers.md)
+- [[MNunivers|Midnight : l'Univers]]
   - L'histoire
   - L'ambiance du jeu
   - Les peuples
@@ -33,7 +33,7 @@ Vous pouvez suivre la campagne et l'évolution du site sur le site : [Midnight C
     - Les gouverneurs locaux
     - La résistance
     - Les fées
-- [Le Projet Nightfinder](./MNProjetNightfinder.md)
+- [[MNProjetNightfinder|Le Projet Nightfinder]]
   - Les races
   - Les classes
   - Les voies héroïques

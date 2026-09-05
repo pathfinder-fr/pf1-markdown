@@ -13,11 +13,11 @@ Categories:
 
 *Le personnage peut utiliser ses instruments pour déverrouiller les secrets de la maîtrise des reliques et d'autres objets puissants.*
 
-**Catégorie.** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+**Catégorie.** [[dons#MAITRISEDOBJET|maîtrise d’objet]]
 
-**Conditions.** Capacités de classe [instruments](./Occultiste.md#INSTRUMENTS) et [focalisaiton mentale](./Occultiste.md#FOCALISATIONMENTALE)
+**Conditions.** Capacités de classe [[Occultiste#INSTRUMENTS|instruments]] et [[Occultiste#FOCALISATIONMENTALE|focalisaiton mentale]]
 
-**Avantages.** Dans le cadre de l'utilisation de dons de maîtrise d'objets, le personnage considère ses [instruments](./Occultiste.md#INSTRUMENTS) comme des objets magiques contenant tous les sorts qu'il connaît de chaque [école instrumentale](./Occultiste.md#INSTRUMENTS) associée à l'instrument comme des conditions de fabrication. Lorsqu'il utilise un instrument pour activer un don de maîtrise d'objets, il peut dépenser un nombre de points de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) égal à la moitié du bonus de base de [Vigueur](./Vigueur.md) requis pour utiliser ce don pour l'activer sans en dépenser d'utilisation quotidienne. Un [occultiste](./Occultiste.md) avec ce don peut sélectionner un don de maîtrise d'objets à la place d'un [pouvoir de focalisation](./Occultiste.md#POUVOIRDEFOCALISATION) tant qu'il en rempli les conditions.
+**Avantages.** Dans le cadre de l'utilisation de dons de maîtrise d'objets, le personnage considère ses [[Occultiste#INSTRUMENTS|instruments]] comme des objets magiques contenant tous les sorts qu'il connaît de chaque [[Occultiste#INSTRUMENTS|école instrumentale]] associée à l'instrument comme des conditions de fabrication. Lorsqu'il utilise un instrument pour activer un don de maîtrise d'objets, il peut dépenser un nombre de points de [[Occultiste#FOCALISATIONMENTALE|focalisation mentale]] égal à la moitié du bonus de base de [[Vigueur]] requis pour utiliser ce don pour l'activer sans en dépenser d'utilisation quotidienne. Un [[occultiste]] avec ce don peut sélectionner un don de maîtrise d'objets à la place d'un [[Occultiste#POUVOIRDEFOCALISATION|pouvoir de focalisation]] tant qu'il en rempli les conditions.
 
 (((Implement Mastery (Item Mastery)
 

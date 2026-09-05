@@ -16,273 +16,273 @@ Traduit et publié en français par Black Book Editions sous le nom de [Manuel d
 ### Afflictions
 #### Poisons
 <div class="article_3col">
-[Brûle-sorts](./Poisons.md#Brûle-sorts),
-[Poison d'araignée noire des marais](./Poisons.md#Poisondaraignéenoiredesmarais).
+[[Poisons#Brûle-sorts|Brûle-sorts]],
+[[Poisons#Poisondaraignéenoiredesmarais|Poison d'araignée noire des marais]].
 </div>
 
 
 ### Archétypes
 <div class="article_3col">
-[Adepte ondin (druide)](./Adepte ondin (druide).md),
-[Alchimiste des marais (alchimiste)](./Alchimiste des marais (alchimiste).md),
-[Apôtre démoniaque (prêtre)](./Apôtre démoniaque (prêtre).md),
-[Artificier des profondeurs (alchimiste)](./Artificier des profondeurs (alchimiste).md),
-[Aspirant naga (druide)](./Aspirant naga (druide).md),
-[Assassin secret (roublard)](./Assassin secret (roublard).md),
-[Brasseur dépines (alchimiste)](./Brasseur dépines (alchimiste).md),
-[Boucanier (pistolier)](./Boucanier (pistolier).md),
-[Cavalier cruel (Chevalier)](./Cavalier cruel (Chevalier).md),
-[Champion des poids plume (moine)](./Champion des poids plume (moine).md),
-[Champion du marteau (guerrier)](./Champion du marteau (guerrier).md),
-[Chanteur de l’eau (barde)](./Chanteur de leau (barde).md),
-[Chanteur sylvestre (druide)](./Chanteur sylvestre (druide).md),
-[Chapardeur (roublard)](./Chapardeur (roublard).md),
-[Chevalier élémentaire (magus)](./Chevalier élémentaire (magus).md),
-[Combattant déloyal (guerrier)](./Combattant déloyal (guerrier).md),
-[Courtisan assassin (roublard)](./Courtisan assassin (roublard).md),
-[Cruoromancien (magicien)](./Cruoromancien (magicien).md),
-[Danse-sort (magus)](./Danse-sort (magus).md),
-[Disciple du dieu sanguinaire (conjurateur)](./Disciple du dieu sanguinaire (conjurateur).md),
-[Disciple gris (moine)](./Disciple gris (moine).md),
-[Druide du ciel (druide)](./Druide du ciel (druide).md),
-[Écorcheur fiélon (magus)](./Écorcheur fiélon (magus).md),
-[Élève de la pierre (moine)](./Élève de la pierre (moine).md),
-[Embusqueur des airs (guerrier)](./Embusqueur des airs (guerrier).md),
-[Enfant sauvage (druide)](./Enfant sauvage (druide).md),
-[Enragé haineux (barbare)](./Enragé haineux (barbare).md),
-[Escroc kitsune (roublard)](./Escroc kitsune (roublard).md),
-[Exarque (inquisiteur)](./Exarque (inquisiteur).md),
-[Fabricant de pistolets expérimentaux (pistolier)](./Fabricant de pistolets expérimentaux (pistolier).md),
-[Farceur (barde)](./Farceur (barde).md),
-[Félin cambrioleur (roublard)](./Félin cambrioleur (roublard).md),
-[Forgeur de souhaits (ensorceleur)](./Forgeur de souhaits (ensorceleur).md),
-[Gardien agile (moine)](./Gardien agile (moine).md),
-[Gardien de la communauté (oracle)](./Gardien de la communauté (oracle).md),
-[Gardien des vagues (rôdeur)](./Gardien des vagues (rôdeur).md),
-[Gardien du savoir ancestral (oracle)](./Gardien du savoir ancestral (oracle).md),
-[Grinceur sauvage (barbare)](./Grinceur sauvage (barbare).md),
-[Guérillero (pistolier)](./Guérillero (pistolier).md),
-[Guérisseuse balafrée (sorcière)](./Guérisseuse balafrée (sorcière).md),
-[Héraut des ombres (conjurateur)](./Héraut des ombres (conjurateur).md),
-[Immolateur (inquisiteur)](./Immolateur (inquisiteur).md),
-[Invocateur sauvage (conjurateur)](./Invocateur sauvage (conjurateur).md),
-[Lieur de shaitans (conjurateur)](./Lieur de shaitans (conjurateur).md),
-[Lieur de sorts (magicien)](./Lieur de sorts (magicien).md),
-[Maître des épées (roublard)](./Maître des épées (roublard).md),
-[Maître des forges (prêtre)](./Maître des forges (prêtre).md),
-[Marionnettiste des ombres (barde)](./Marionnettiste des ombres (barde).md),
-[Moine à peau de fer (moine)](./Moine à peau de fer (moine).md),
-[Moine des cimes (moine)](./Moine des cimes (moine).md),
-[Ombre sauvage (rôdeur)](./Ombre sauvage (rôdeur).md),
-[Oracle réincarné (oracle)](./Oracle réincarné (oracle).md),
-[Parricide (inquisiteur)](./Parricide (inquisiteur).md),
-[Pilleur occulte (roublard)](./Pilleur occulte (roublard).md),
-[Porte-peste (alchimiste)](./Porte-peste (alchimiste).md),
-[Purificateur (oracle)](./Purificateur (oracle).md),
-[Pyrobombardier (alchimiste)](./Pyrobombardier (alchimiste).md),
-[Réceptacle fiélon (prêtre)](./Réceptacle fiélon (prêtre).md),
-[Rédempteur (paladin)](./Rédempteur (paladin).md),
-[Saboteur (alchimiste)](./Saboteur (alchimiste).md),
-[Sage gardien (paladin)](./Sage gardien (paladin).md),
-[Seigneur de pierre (paladin)](./Seigneur de pierre (paladin).md),
-[Shigenjo (oracle)](./Shigenjo (oracle).md),
-[Sorcière liée (sorcière)](./Sorcière liée (sorcière).md),
-[Témoin des vents (magicien)](./Témoin des vents (magicien).md),
-[Tireur des ravins (pistolier)](./Tireur des ravins (pistolier).md),
-[Tireur embusqué des cavernes (guerrier)](./Tireur embusqué des cavernes (guerrier).md),
-[Tisseuse de rêves (sorcière)](./Tisseuse de rêves (sorcière).md),
-[Traqueur du crépuscule (rôdeur)](./Traqueur du crépuscule (rôdeur).md),
-[Vagabond (moine)](./Vagabond (moine).md).
+[[Adepte ondin (druide)]],
+[[Alchimiste des marais (alchimiste)]],
+[[Apôtre démoniaque (prêtre)]],
+[[Artificier des profondeurs (alchimiste)]],
+[[Aspirant naga (druide)]],
+[[Assassin secret (roublard)]],
+[[Brasseur dépines (alchimiste)]],
+[[Boucanier (pistolier)]],
+[[Cavalier cruel (Chevalier)]],
+[[Champion des poids plume (moine)]],
+[[Champion du marteau (guerrier)]],
+[[Chanteur de leau (barde)|Chanteur de l’eau (barde)]],
+[[Chanteur sylvestre (druide)]],
+[[Chapardeur (roublard)]],
+[[Chevalier élémentaire (magus)]],
+[[Combattant déloyal (guerrier)]],
+[[Courtisan assassin (roublard)]],
+[[Cruoromancien (magicien)]],
+[[Danse-sort (magus)]],
+[[Disciple du dieu sanguinaire (conjurateur)]],
+[[Disciple gris (moine)]],
+[[Druide du ciel (druide)]],
+[[Écorcheur fiélon (magus)]],
+[[Élève de la pierre (moine)]],
+[[Embusqueur des airs (guerrier)]],
+[[Enfant sauvage (druide)]],
+[[Enragé haineux (barbare)]],
+[[Escroc kitsune (roublard)]],
+[[Exarque (inquisiteur)]],
+[[Fabricant de pistolets expérimentaux (pistolier)]],
+[[Farceur (barde)]],
+[[Félin cambrioleur (roublard)]],
+[[Forgeur de souhaits (ensorceleur)]],
+[[Gardien agile (moine)]],
+[[Gardien de la communauté (oracle)]],
+[[Gardien des vagues (rôdeur)]],
+[[Gardien du savoir ancestral (oracle)]],
+[[Grinceur sauvage (barbare)]],
+[[Guérillero (pistolier)]],
+[[Guérisseuse balafrée (sorcière)]],
+[[Héraut des ombres (conjurateur)]],
+[[Immolateur (inquisiteur)]],
+[[Invocateur sauvage (conjurateur)]],
+[[Lieur de shaitans (conjurateur)]],
+[[Lieur de sorts (magicien)]],
+[[Maître des épées (roublard)]],
+[[Maître des forges (prêtre)]],
+[[Marionnettiste des ombres (barde)]],
+[[Moine à peau de fer (moine)]],
+[[Moine des cimes (moine)]],
+[[Ombre sauvage (rôdeur)]],
+[[Oracle réincarné (oracle)]],
+[[Parricide (inquisiteur)]],
+[[Pilleur occulte (roublard)]],
+[[Porte-peste (alchimiste)]],
+[[Purificateur (oracle)]],
+[[Pyrobombardier (alchimiste)]],
+[[Réceptacle fiélon (prêtre)]],
+[[Rédempteur (paladin)]],
+[[Saboteur (alchimiste)]],
+[[Sage gardien (paladin)]],
+[[Seigneur de pierre (paladin)]],
+[[Shigenjo (oracle)]],
+[[Sorcière liée (sorcière)]],
+[[Témoin des vents (magicien)]],
+[[Tireur des ravins (pistolier)]],
+[[Tireur embusqué des cavernes (guerrier)]],
+[[Tisseuse de rêves (sorcière)]],
+[[Traqueur du crépuscule (rôdeur)]],
+[[Vagabond (moine)]].
 </div>
 
 
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat.
 <div class="article_3col">
-[Acrobate des corniches](./Acrobate des corniches.md),
-[Action féroce](./Action féroce.md),
-[Adroit et rapide](./Adroit et rapide.md),
-[Agitation du sang](./Agitation du sang.md),
-[Ailes d'ange](./Ailes dange.md),
-[Ailes de tengu](./Ailes de tengu.md),
-[Ailes de vent](./Ailes de vent.md),
-[Ailes métalliques](./Ailes métalliques.md),
-[Ailes rallongées](./Ailes rallongées.md),
-[Apprentissage rapide](./Apprentissage rapide.md),
-[Arme de prédilection gnome](./Arme de prédilection gnome.md)*,
-[Armes ardentes](./Armes ardentes.md),
-[Armure de la Fosse](./Armure de la Fosse.md),
-[Arpenteur des ombres](./Arpenteur des ombres.md),
-[Ascendance aquatique](./Ascendance aquatique.md),
-[Aspect draconique](./Aspect draconique.md),
-[Assaut élémentaire différentiel](./Assaut élémentaire différentiel.md),
-[Assaut élémentaire supplémentaire](./Assaut élémentaire supplémentaire.md),
-[Assurance intimidante](./Assurance intimidante.md),
-[Aura ardente](./Aura ardente.md),
-[Bec de sang](./Bec de sang.md),
-[Bond griffu](./Bond griffu.md)*,
-[Brisesort](./Brisesort.md),
-[Brute résiliente](./Brute résiliente.md),
-[Buveur de sang](./Buveur de sang.md),
-[Bénédiction du destructeur](./Bénédiction du destructeur.md)*,
-[Canalisation de force supérieure](./Canalisation de force supérieure.md),
-[Canalisation de force](./Canalisation de force.md),
-[Casque bosselé](./Casque bosselé.md)*,
-[Casque fendu](./Casque fendu.md)*,
-[Cavalier des bêtes](./Cavalier des bêtes.md),
-[Chair angélique](./Chair angélique.md),
-[Chance adaptative](./Chance adaptative.md),
-[Chance inexplicable](./Chance inexplicable.md),
-[Chance insolente](./Chance insolente.md),
-[Charge de la horde](./Charge de la horde.md),
-[Charmeur-né](./Charmeur-né.md),
-[Charognard](./Charognard.md),
-[Chasseur des mers](./Chasseur des mers.md),
-[Chat noir](./Chat noir.md),
-[Coeur de feu](./Coeur de feu.md),
-[Combattant prudent](./Combattant prudent.md),
-[Contemplateur des nuages](./Contemplateur des nuages.md),
-[Convocations féroces](./Convocations féroces.md),
-[Coup de brute](./Coup de brute.md),
-[Coup de focalisation](./Coup de focalisation.md),
-[Coup de fouet démoralisant](./Coup de fouet démoralisant.md),
-[Coup désespéré](./Coup désespéré.md)*,
-[Crachat venimeux (nagaji)](./Crachat venimeux (nagaji).md)*,
-[Crame ! Crame ! Crame !](./Crame ! Crame ! Crame !.md),
-[Critiques divers](./Critiques divers.md)*,
-[Curiosité intrépide](./Curiosité intrépide.md),
-[Dents de fouisseur](./Dents de fouisseur.md),
-[Destin intrépide](./Destin intrépide.md),
-[Discipline hobgobeline](./Discipline hobgobeline.md),
-[Dompteur de feu](./Dompteur de feu.md),
-[Don de la mère](./Don de la mère.md),
-[Débiter les orques](./Débiter les orques.md)*,
-[Défense instinctive](./Défense instinctive.md)*,
-[Défense maladroite](./Défense maladroite.md)*,
-[Démarche de l'araignée (drow)](./Démarche de laraignée (drow).md),
-[Démolisseur de pièges](./Démolisseur de pièges.md),
-[Démonstration terrifiante](./Démonstration terrifiante.md),
-[Échos de la pierre](./Échos de la pierre.md),
-[Éliminer les toxines](./Éliminer les toxines.md),
-[Embusqueur kobold](./Embusqueur kobold.md),
-[Enchaînement élargi](./Enchaînement élargi.md)*,
-[Enchaînement surprise](./Enchaînement surprise.md)*,
-[Enchaîner les gobelins](./Enchaîner les gobelins.md)*,
-[Enragé inflexible](./Enragé inflexible.md),
-[Entraînement guerrier elfique](./Entraînement guerrier elfique.md)*,
-[Esprit des étendues sauvages](./Esprit des étendues sauvages.md),
-[Esprit elfique](./Esprit elfique.md),
-[Esprit humain](./Esprit humain.md),
-[Expertise martiale orque](./Expertise martiale orque.md),
-[Explosion assourdissante](./Explosion assourdissante.md),
-[Fantôme d’ombre](./Fantôme dombre.md),
-[Feinte brûlante](./Feinte brûlante.md),
-[Feinte inversée](./Feinte inversée.md),
-[Festin sanglant](./Festin sanglant.md),
-[Fils de l’ombre supérieur](./Fils de lombre supérieur.md),
-[Fils de l’ombre](./Fils de lombre.md),
-[Fiélon sanguinaire](./Fiélon sanguinaire.md),
-[Flamme intérieure](./Flamme intérieure.md),
-[Forme de corbeau tengu](./Forme de corbeau tengu.md),
-[Fouisseur oréade](./Fouisseur oréade.md),
-[Frappe chanceuse](./Frappe chanceuse.md)*,
-[Frappe leste](./Frappe leste.md)*,
-[Frappe obscure](./Frappe obscure.md)*,
-[Frappe risquée](./Frappe risquée.md)*,
-[Frappe surprenante](./Frappe surprenante.md)*,
-[Frisson de la mort](./Frisson de la mort.md),
-[Gardien des étendues sauvages](./Gardien des étendues sauvages.md),
-[Goûts variés](./Goûts variés.md),
-[Grand veneur](./Grand veneur.md),
-[Grande haine](./Grande haine.md)*,
-[Griffe-tranchante](./Griffe-tranchante.md),
-[Grâce du chat](./Grâce du chat.md),
-[Guerrier rancunier](./Guerrier rancunier.md),
-[Guérisseur chanceux](./Guérisseur chanceux.md),
-[Harmonie sauvage](./Harmonie Sauvage.md),
-[Homme-félin modèle](./Homme-félin modèle.md),
-[Illusionniste amateur](./Illusionniste amateur.md),
-[Immense haine](./Immense haine.md)*,
-[Improvisation](./Improvisation.md),
-[Individu chanceux](./Individu chanceux.md),
-[Invisibilité prolongée](./Invisibilité prolongée.md),
-[Invocateur d'araignées](./Invocateur daraignées.md),
-[Langue agile](./Langue agile.md),
-[Long-nez](./Long-nez.md),
-[Mage de vapeur](./Mage de vapeur.md),
-[Mage des étendues sauvages](./Mage des étendues sauvages.md),
-[Mage ténébreux](./Mage ténébreux.md),
-[Main de feu](./Main de feu.md),
-[Manipulation partagée](./Manipulation partagée.md),
-[Manœuvre hydraulique](./Manoeuvre hydraulique.md),
-[Maître brasseur](./Maître brasseur.md),
-[Maître des opérations](./Maître des opérations.md),
-[Maîtrise des talents multiples](./Maîtrise des talents multiples.md),
-[Maîtrise martiale](./Maîtrise martiale.md)*,
-[Modèle draconique](./Modèle draconique.md),
-[Murmures de la terre](./Murmures de la terre.md),
-[Naissance solitaire](./Naissance solitaire.md),
-[Ni elfe ni humain](./Ni elfe ni humain.md),
-[Noble résistance à la magie](./Noble résistance à la magie.md),
-[Noblesse drow supérieure](./Noblesse drow supérieure.md),
-[Noblesse drow](./Noblesse drow.md),
-[OEil du charognard](./OEil du charognard.md),
-[Oréade nageur de terre](./Oréade nageur de terre.md),
-[Parangon demi-drow](./Parangon demi-drow.md),
-[Pas aérien](./Pas aérien.md),
-[Pas de géant](./Pas de géant.md),
-[Peau d’eau](./Peau deau.md),
-[Pieds emmêlés](./Pieds emmêlés.md),
-[Pistolier gobelin](./Pistolier gobelin.md),
-[Plané draconique](./Plané draconique.md),
-[Polyvalence martiale](./Polyvalence martiale.md)*,
-[Portail triton](./Portail triton.md),
-[Portrait craché](./Portrait craché.md),
-[Pose stoïque](./Pose stoïque.md),
-[Queue agrippeuse](./Queue agrippeuse.md),
-[Queue de terreur](./Queue de terreur.md),
-[Queue magique](./Queue magique.md),
-[Rage empathique](./Rage empathique.md)*,
-[Rat des tunnels](./Rat des tunnels.md),
-[Rayonnement divin](./Rayonnement divin.md),
-[Regard perspicace](./Regard perspicace.md),
-[Récupération de sang](./Récupération de sang.md),
-[Résistance des fiélons étendue](./Résistance des fiélons étendue.md),
-[Résistance étendue](./Résistance étendue.md),
-[Résolution courageuse](./Résolution courageuse.md),
-[Résolution féroce](./Résolution féroce.md),
-[Sang angélique](./Sang angélique.md),
-[Sang de la vie](./Sang de la vie.md),
-[Sang de nain](./Sang de nain.md),
-[Saut élémentaire](./Saut élémentaire.md),
-[Science de la canalisation de force](./Science de la canalisation de force.md),
-[Science de la noblesse drow](./Science de la noblesse drow.md),
-[Science de l'enchaînement surprise](./Science de lenchaînement surprise.md)*,
-[Science de l'improvisation](./Science de limprovisation.md),
-[Science du coup sous la ceinture](./Science du coup sous la ceinture.md)*,
-[Semelle de pierre](./Semelle de pierre.md),
-[Serviteur céleste](./Serviteur céleste.md),
-[Sniper kobold](./Sniper kobold.md),
-[Souffle draconique](./Souffle draconique.md),
-[Souffle intérieur](./Souffle intérieur.md),
-[Succès éclatant](./Succès éclatant.md),
-[Survivant tenace](./Survivant tenace.md),
-[Touche d'ombre](./Touche dombre.md),
-[Transmettre sa chance](./Transmettre sa chance.md),
-[Trapéziste des arbres](./Trapéziste des arbres.md),
-[Tueur de géants](./Tueur de géants.md)*,
-[Ténacité féroce](./Ténacité féroce.md)*,
-[Tête dure](./Tête dure.md)*,
-[Vengeance sanguinaire](./Vengeance sanguinaire.md),
-[Venin de sommeil](./Venin de sommeil.md),
-[Visible et invisible](./Visible et invisible.md),
-[Vision fiélone](./Vision fiélone.md),
-[Vision obscure](./Vision obscure.md),
-[Vision ténébreuse supérieure](./Vision ténébreuse supérieure.md),
-[Vision ténébreuse](./Vision ténébreuse.md),
-[Vision à travers le feu](./Vision à travers le feu.md),
-[Voie de l'exilé](./Voie de lexilé.md),
-[Volonté héroïque](./Volonté héroïque.md).
+[[Acrobate des corniches]],
+[[Action féroce]],
+[[Adroit et rapide]],
+[[Agitation du sang]],
+[[Ailes dange|Ailes d'ange]],
+[[Ailes de tengu]],
+[[Ailes de vent]],
+[[Ailes métalliques]],
+[[Ailes rallongées]],
+[[Apprentissage rapide]],
+[[Arme de prédilection gnome]]*,
+[[Armes ardentes]],
+[[Armure de la Fosse]],
+[[Arpenteur des ombres]],
+[[Ascendance aquatique]],
+[[Aspect draconique]],
+[[Assaut élémentaire différentiel]],
+[[Assaut élémentaire supplémentaire]],
+[[Assurance intimidante]],
+[[Aura ardente]],
+[[Bec de sang]],
+[[Bond griffu]]*,
+[[Brisesort]],
+[[Brute résiliente]],
+[[Buveur de sang]],
+[[Bénédiction du destructeur]]*,
+[[Canalisation de force supérieure]],
+[[Canalisation de force]],
+[[Casque bosselé]]*,
+[[Casque fendu]]*,
+[[Cavalier des bêtes]],
+[[Chair angélique]],
+[[Chance adaptative]],
+[[Chance inexplicable]],
+[[Chance insolente]],
+[[Charge de la horde]],
+[[Charmeur-né]],
+[[Charognard]],
+[[Chasseur des mers]],
+[[Chat noir]],
+[[Coeur de feu]],
+[[Combattant prudent]],
+[[Contemplateur des nuages]],
+[[Convocations féroces]],
+[[Coup de brute]],
+[[Coup de focalisation]],
+[[Coup de fouet démoralisant]],
+[[Coup désespéré]]*,
+[[Crachat venimeux (nagaji)]]*,
+[[Crame ! Crame ! Crame !]],
+[[Critiques divers]]*,
+[[Curiosité intrépide]],
+[[Dents de fouisseur]],
+[[Destin intrépide]],
+[[Discipline hobgobeline]],
+[[Dompteur de feu]],
+[[Don de la mère]],
+[[Débiter les orques]]*,
+[[Défense instinctive]]*,
+[[Défense maladroite]]*,
+[[Démarche de laraignée (drow)|Démarche de l'araignée (drow)]],
+[[Démolisseur de pièges]],
+[[Démonstration terrifiante]],
+[[Échos de la pierre]],
+[[Éliminer les toxines]],
+[[Embusqueur kobold]],
+[[Enchaînement élargi]]*,
+[[Enchaînement surprise]]*,
+[[Enchaîner les gobelins]]*,
+[[Enragé inflexible]],
+[[Entraînement guerrier elfique]]*,
+[[Esprit des étendues sauvages]],
+[[Esprit elfique]],
+[[Esprit humain]],
+[[Expertise martiale orque]],
+[[Explosion assourdissante]],
+[[Fantôme dombre|Fantôme d’ombre]],
+[[Feinte brûlante]],
+[[Feinte inversée]],
+[[Festin sanglant]],
+[[Fils de lombre supérieur|Fils de l’ombre supérieur]],
+[[Fils de lombre|Fils de l’ombre]],
+[[Fiélon sanguinaire]],
+[[Flamme intérieure]],
+[[Forme de corbeau tengu]],
+[[Fouisseur oréade]],
+[[Frappe chanceuse]]*,
+[[Frappe leste]]*,
+[[Frappe obscure]]*,
+[[Frappe risquée]]*,
+[[Frappe surprenante]]*,
+[[Frisson de la mort]],
+[[Gardien des étendues sauvages]],
+[[Goûts variés]],
+[[Grand veneur]],
+[[Grande haine]]*,
+[[Griffe-tranchante]],
+[[Grâce du chat]],
+[[Guerrier rancunier]],
+[[Guérisseur chanceux]],
+[[Harmonie sauvage]],
+[[Homme-félin modèle]],
+[[Illusionniste amateur]],
+[[Immense haine]]*,
+[[Improvisation]],
+[[Individu chanceux]],
+[[Invisibilité prolongée]],
+[[Invocateur daraignées|Invocateur d'araignées]],
+[[Langue agile]],
+[[Long-nez]],
+[[Mage de vapeur]],
+[[Mage des étendues sauvages]],
+[[Mage ténébreux]],
+[[Main de feu]],
+[[Manipulation partagée]],
+[[Manoeuvre hydraulique|Manœuvre hydraulique]],
+[[Maître brasseur]],
+[[Maître des opérations]],
+[[Maîtrise des talents multiples]],
+[[Maîtrise martiale]]*,
+[[Modèle draconique]],
+[[Murmures de la terre]],
+[[Naissance solitaire]],
+[[Ni elfe ni humain]],
+[[Noble résistance à la magie]],
+[[Noblesse drow supérieure]],
+[[Noblesse drow]],
+[[OEil du charognard]],
+[[Oréade nageur de terre]],
+[[Parangon demi-drow]],
+[[Pas aérien]],
+[[Pas de géant]],
+[[Peau deau|Peau d’eau]],
+[[Pieds emmêlés]],
+[[Pistolier gobelin]],
+[[Plané draconique]],
+[[Polyvalence martiale]]*,
+[[Portail triton]],
+[[Portrait craché]],
+[[Pose stoïque]],
+[[Queue agrippeuse]],
+[[Queue de terreur]],
+[[Queue magique]],
+[[Rage empathique]]*,
+[[Rat des tunnels]],
+[[Rayonnement divin]],
+[[Regard perspicace]],
+[[Récupération de sang]],
+[[Résistance des fiélons étendue]],
+[[Résistance étendue]],
+[[Résolution courageuse]],
+[[Résolution féroce]],
+[[Sang angélique]],
+[[Sang de la vie]],
+[[Sang de nain]],
+[[Saut élémentaire]],
+[[Science de la canalisation de force]],
+[[Science de la noblesse drow]],
+[[Science de lenchaînement surprise|Science de l'enchaînement surprise]]*,
+[[Science de limprovisation|Science de l'improvisation]],
+[[Science du coup sous la ceinture]]*,
+[[Semelle de pierre]],
+[[Serviteur céleste]],
+[[Sniper kobold]],
+[[Souffle draconique]],
+[[Souffle intérieur]],
+[[Succès éclatant]],
+[[Survivant tenace]],
+[[Touche dombre|Touche d'ombre]],
+[[Transmettre sa chance]],
+[[Trapéziste des arbres]],
+[[Tueur de géants]]*,
+[[Ténacité féroce]]*,
+[[Tête dure]]*,
+[[Vengeance sanguinaire]],
+[[Venin de sommeil]],
+[[Visible et invisible]],
+[[Vision fiélone]],
+[[Vision obscure]],
+[[Vision ténébreuse supérieure]],
+[[Vision ténébreuse]],
+[[Vision à travers le feu]],
+[[Voie de lexilé|Voie de l'exilé]],
+[[Volonté héroïque]].
 </div>
 
 
@@ -290,494 +290,494 @@ Les dons marqués d'un astérisque (*) sont des dons de combat.
 #### Animaux, montures et leur équipement
 <div class="article_3col">
 **Montures.**
-[Chauve-souris sanguinaire](./Animaux, montures et leur équipement.md#Chauve-souris sanguinaire de selle),
-[Chauve-souris sanguinaire formée au combat](./Animaux, montures et leur équipement.md#Chauve-souris sanguinaire de selle),
-[Gecko](./Animaux, montures et leur équipement.md#Gecko de selle),
-[Gecko formée au combat](./Animaux, montures et leur équipement.md#Gecko de selle).
+[[Animaux, montures et leur équipement#Chauve-souris sanguinaire de selle|Chauve-souris sanguinaire]],
+[[Animaux, montures et leur équipement#Chauve-souris sanguinaire de selle|Chauve-souris sanguinaire formée au combat]],
+[[Animaux, montures et leur équipement#Gecko de selle|Gecko]],
+[[Animaux, montures et leur équipement#Gecko de selle|Gecko formée au combat]].
 
 **Équipement pour animaux.**
-[Fouet de dressage](./Animaux, montures et leur équipement.md#Fouet de dressage),
-[Harnachement de dressage](./Animaux, montures et leur équipement.md#Harnachement de dressage).
+[[Animaux, montures et leur équipement#Fouet de dressage|Fouet de dressage]],
+[[Animaux, montures et leur équipement#Harnachement de dressage|Harnachement de dressage]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Armes====</div>
 <div class="article_3col">
-[Accessoires caudaux kobolds](./accessoires caudaux kobolds (arme).md),
-[Arbalète légère sous-marine](./Arbalète légère sous-marine (arme).md) (modifié),
-[Arbalète lourde sous-marine](./Arbalète lourde sous-marine (arme).md) (modifié),
-[Carreaux transperce-coeur (5)](./carreaux transperce-coeur (arme).md),
-[Casque bélier nain](./casque bélier nain (arme).md),
-[Coupecheval](./Coupecheval (arme).md) (modifié),
-[Couteau de mer](./couteau de mer (arme).md),
-[Filet de barbelés](./filet piégeur (arme).md) (modifié),
-[Fléchette de choc](./fléchette de choc (arme).md),
-[Hache d'armes naine double](./hache darmes naine double (arme).md),
-[Hache naine à long manche](./hache naine à long manche (arme).md),
-[Lame caudale (homme-rat)](./lame caudale (arme).md),
-[Marteau nain à long manche](./marteau nain à long manche (arme).md),
-[Tranchechien](./tranchechien (arme).md) (modifié).
+[[accessoires caudaux kobolds (arme)|Accessoires caudaux kobolds]],
+[[arbalète légère sous-marine (arme)|Arbalète légère sous-marine]] (modifié),
+[[arbalète lourde sous-marine (arme)|Arbalète lourde sous-marine]] (modifié),
+[[carreaux transperce-coeur (arme)|Carreaux transperce-coeur (5)]],
+[[casque bélier nain (arme)|Casque bélier nain]],
+[[coupecheval (arme)|Coupecheval]] (modifié),
+[[couteau de mer (arme)|Couteau de mer]],
+[[filet piégeur (arme)|Filet de barbelés]] (modifié),
+[[fléchette de choc (arme)|Fléchette de choc]],
+[[hache darmes naine double (arme)|Hache d'armes naine double]],
+[[hache naine à long manche (arme)|Hache naine à long manche]],
+[[lame caudale (arme)|Lame caudale (homme-rat)]],
+[[marteau nain à long manche (arme)|Marteau nain à long manche]],
+[[tranchechien (arme)|Tranchechien]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Équipement d'aventurier====</div>
 <div class="article_3col">
-[Encens (10 bâtonnets)](./Équipement daventurier.md#Encens),
-[Fers](./Équipement daventurier.md#Fers),
-[Fers de maître](./Équipement daventurier.md#Fers),
-[Gemme de chair (décorative)](./Équipement daventurier.md#Gemme de chair),
-[Gemme de chair (pointes)](./Équipement daventurier.md#Gemme de chair),
-[Griffes métalliques](./Équipement daventurier.md#Griffes métalliques),
-[Trousse de tueur de vampires](./Équipement daventurier.md#Trousse de tueur de vampires),
-[Manche d’arme ondin](./Équipement daventurier.md#Manche d’arme ondin),
-[Menottes à pointes](./Équipement daventurier.md#Menottes à pointes),
-[Sac anti-ours](./Équipement daventurier.md#Sac anti-ours),
-[Sifflet des grottes](./Équipement daventurier.md#Sifflet des grottes),
-[Sifflet du prévôt](./Équipement daventurier.md#Sifflet du prévôt),
-[Tente suspendue](./Équipement daventurier.md#Tente suspendue).
+[[Équipement daventurier#Encens|Encens (10 bâtonnets)]],
+[[Équipement daventurier#Fers|Fers]],
+[[Équipement daventurier#Fers|Fers de maître]],
+[[Équipement daventurier#Gemme de chair|Gemme de chair (décorative)]],
+[[Équipement daventurier#Gemme de chair|Gemme de chair (pointes)]],
+[[Équipement daventurier#Griffes métalliques|Griffes métalliques]],
+[[Équipement daventurier#Trousse de tueur de vampires|Trousse de tueur de vampires]],
+[[Équipement daventurier#Manche d’arme ondin|Manche d’arme ondin]],
+[[Équipement daventurier#Menottes à pointes|Menottes à pointes]],
+[[Équipement daventurier#Sac anti-ours|Sac anti-ours]],
+[[Équipement daventurier#Sifflet des grottes|Sifflet des grottes]],
+[[Équipement daventurier#Sifflet du prévôt|Sifflet du prévôt]],
+[[Équipement daventurier#Tente suspendue|Tente suspendue]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Jeux====</div>
 <div class="article_3col">
-[Bâtons du diable halfelins](./Jeux.md#Bâtons du diable halfelins),
-[Cerf-volant de terreur](./Jeux.md#Cerf-volant de terreur),
-[Trousse de cerfs-volants de communication](./Jeux.md#Trousse de cerfs-volants de communication).
+[[Jeux#Bâtons du diable halfelins|Bâtons du diable halfelins]],
+[[Jeux#Cerf-volant de terreur|Cerf-volant de terreur]],
+[[Jeux#Trousse de cerfs-volants de communication|Trousse de cerfs-volants de communication]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Outils de compétences====</div>
 <div class="article_3col">
-[Carnet obsessionnel](./Carnet obsessionnel (objet).md),
-[Cartes du ciel](./Cartes du ciel (objet).md),
-[Corde rugissante](./Corde rugissante (objet).md),
-[Encensoir céleste](./Encensoir céleste (objet).md),
-[Ensemble de pochoirs d’ombre](./Ensemble de pochoirs dombre (objet).md),
-[Étendard tribal](./Étendard tribal (objet).md),
-[Grimoire de poche](./Grimoire de poche (objet).md),
-[Kit de déguisement orque](./Kit de déguisement orque (objet).md),
-[Laboratoire d'artisanat portatif](./Laboratoire dartisanat portatif (objet).md),
-[Lampe céleste](./Lampe céleste (objet).md),
-[Manuel d’exercices arcaniques familial](./Manuel dexercices arcaniques familial (objet).md),
-[Roue karmique du samsaran](./Roue karmique du samsaran (objet).md).
+[[Carnet obsessionnel (objet)|Carnet obsessionnel]],
+[[Cartes du ciel (objet)|Cartes du ciel]],
+[[Corde rugissante (objet)|Corde rugissante]],
+[[Encensoir céleste (objet)|Encensoir céleste]],
+[[Ensemble de pochoirs dombre (objet)|Ensemble de pochoirs d’ombre]],
+[[Étendard tribal (objet)|Étendard tribal]],
+[[Grimoire de poche (objet)|Grimoire de poche]],
+[[Kit de déguisement orque (objet)|Kit de déguisement orque]],
+[[Laboratoire dartisanat portatif (objet)|Laboratoire d'artisanat portatif]],
+[[Lampe céleste (objet)|Lampe céleste]],
+[[Manuel dexercices arcaniques familial (objet)|Manuel d’exercices arcaniques familial]],
+[[Roue karmique du samsaran (objet)|Roue karmique du samsaran]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Vêtements====</div>
 <div class="article_3col">
-[Bottes de velours](./Vêtements.md#Bottes de velours),
-[Cape-aile](./Vêtements.md#Cape-aile),
-[Cape parachute](./Vêtements.md#Cape parachute),
-[Ceintures de chaîne](./Vêtements.md#Ceintures de chaîne),
-[Col de protection](./Vêtements.md#Col de protection),
-[Habits de dilettante](./Vêtements.md#Habits de dilettante),
-[Masque de guerre](./Vêtements.md#Masque de guerre).
+[[Vêtements#Bottes de velours|Bottes de velours]],
+[[Vêtements#Cape-aile|Cape-aile]],
+[[Vêtements#Cape parachute|Cape parachute]],
+[[Vêtements#Ceintures de chaîne|Ceintures de chaîne]],
+[[Vêtements#Col de protection|Col de protection]],
+[[Vêtements#Habits de dilettante|Habits de dilettante]],
+[[Vêtements#Masque de guerre|Masque de guerre]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Armes alchimiques====</div>
 <div class="article_3col">
-[Charbon alchimique (cendres aveuglantes)](./Armes alchimiques.md#Charbon alchimique),
-[Charbon alchimique (fumée asphyxiante)](./Armes alchimiques.md#Charbon alchimique),
-[Fiole de nectar d'ombre](./Armes alchimiques.md#Fiole de nectar d'ombre),
-[Flux élémentaire (flasque)](./Armes alchimiques.md#Flux élémentaire),
-[Infusion de puanteur](./Armes alchimiques.md#Infusion de puanteur),
-[Poche de vérole](./Armes alchimiques.md#Poche de vérole).
+[[Armes alchimiques#Charbon alchimique|Charbon alchimique (cendres aveuglantes)]],
+[[Armes alchimiques#Charbon alchimique|Charbon alchimique (fumée asphyxiante)]],
+[[Armes alchimiques#Fiole de nectar d'ombre|Fiole de nectar d'ombre]],
+[[Armes alchimiques#Flux élémentaire|Flux élémentaire (flasque)]],
+[[Armes alchimiques#Infusion de puanteur|Infusion de puanteur]],
+[[Armes alchimiques#Poche de vérole|Poche de vérole]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Outils alchimiques====</div>
 <div class="article_3col">
-[Accélérateur instable](./Outils alchimiques.md#Accélérateur instable),
-[Bâton de lune](./Outils alchimiques.md#Bâton de lune),
-[Breuvage de guerre hobgobelin](./Outils alchimiques.md#Breuvage de guerre hobgobelin),
-[Encens antiodeur](./Outils alchimiques.md#Encens antiodeur),
-[Encre de feu ifrit](./Outils alchimiques.md#Encre de feu ifrit),
-[Éponge à potion](./Outils alchimiques.md#Éponge à potion),
-[Feuilles d'érable doré](./Outils alchimiques.md#Feuilles d'érable doré),
-[Huile sainte](./Outils alchimiques.md#Huile sainte),
-[Lance-bombe](./Outils alchimiques.md#Lance-bombe),
-[Lanterne de lumière noire](./Outils alchimiques.md#Lanterne de lumière noire),
-[Lichen de camouflage](./Outils alchimiques.md#Lichen de camouflage),
-[Lunettes de vision obscure](./Outils alchimiques.md#Lunettes de vision obscure),
-[Onguent de rochéclats](./Outils alchimiques.md#Onguent de rochéclats),
-[Onguent de sang fiélon](./Outils alchimiques.md#Onguent de sang fiélon),
-[Poche-araignée](./Outils alchimiques.md#Poche-araignée),
-[Purulence noire (fiole)](./Outils alchimiques.md#Purulence noire),
-[Sang de molosse](./Outils alchimiques.md#Sang de molosse),
-[Sang d’ifrit](./Outils alchimiques.md#Sang d’ifrit),
-[Souffle élémentaire](./Outils alchimiques.md#Souffle élémentaire),
-[Tatouage empoisonné](./Outils alchimiques.md#Tatouage empoisonné),
-[Tonique infectieux](./Outils alchimiques.md#Tonique infectieux),
-[Trousse de marquage olfactif](./Outils alchimiques.md#Trousse de marquage olfactif).
+[[Outils alchimiques#Accélérateur instable|Accélérateur instable]],
+[[Outils alchimiques#Bâton de lune|Bâton de lune]],
+[[Outils alchimiques#Breuvage de guerre hobgobelin|Breuvage de guerre hobgobelin]],
+[[Outils alchimiques#Encens antiodeur|Encens antiodeur]],
+[[Outils alchimiques#Encre de feu ifrit|Encre de feu ifrit]],
+[[Outils alchimiques#Éponge à potion|Éponge à potion]],
+[[Outils alchimiques#Feuilles d'érable doré|Feuilles d'érable doré]],
+[[Outils alchimiques#Huile sainte|Huile sainte]],
+[[Outils alchimiques#Lance-bombe|Lance-bombe]],
+[[Outils alchimiques#Lanterne de lumière noire|Lanterne de lumière noire]],
+[[Outils alchimiques#Lichen de camouflage|Lichen de camouflage]],
+[[Outils alchimiques#Lunettes de vision obscure|Lunettes de vision obscure]],
+[[Outils alchimiques#Onguent de rochéclats|Onguent de rochéclats]],
+[[Outils alchimiques#Onguent de sang fiélon|Onguent de sang fiélon]],
+[[Outils alchimiques#Poche-araignée|Poche-araignée]],
+[[Outils alchimiques#Purulence noire|Purulence noire (fiole)]],
+[[Outils alchimiques#Sang de molosse|Sang de molosse]],
+[[Outils alchimiques#Sang d’ifrit|Sang d’ifrit]],
+[[Outils alchimiques#Souffle élémentaire|Souffle élémentaire]],
+[[Outils alchimiques#Tatouage empoisonné|Tatouage empoisonné]],
+[[Outils alchimiques#Tonique infectieux|Tonique infectieux]],
+[[Outils alchimiques#Trousse de marquage olfactif|Trousse de marquage olfactif]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Remèdes alchimiques====</div>
 <div class="article_3col">
-[Ambroisie (fiole)](./Remèdes alchimiques.md#Ambroisie),
-[Apaise-tripes (fiole)](./Remèdes alchimiques.md#Apaise-tripes),
-[Confiture alchimique](./Remèdes alchimiques.md#Confiture alchimique),
-[Racine veloutée (fiole)](./Remèdes alchimiques.md#Racine veloutée),
-[Besace d’esprit guerrier](./Remèdes alchimiques.md#Besace d’esprit guerrier),
-[Encre nauséabonde](./Remèdes alchimiques.md#Encre nauséabonde),
-[Encre nauséabonde magique](./Remèdes alchimiques.md#Encre nauséabonde),
-[Huile alaire](./Remèdes alchimiques.md#Huile alaire).
+[[Remèdes alchimiques#Ambroisie|Ambroisie (fiole)]],
+[[Remèdes alchimiques#Apaise-tripes|Apaise-tripes (fiole)]],
+[[Remèdes alchimiques#Confiture alchimique|Confiture alchimique]],
+[[Remèdes alchimiques#Racine veloutée|Racine veloutée (fiole)]],
+[[Remèdes alchimiques#Besace d’esprit guerrier|Besace d’esprit guerrier]],
+[[Remèdes alchimiques#Encre nauséabonde|Encre nauséabonde]],
+[[Remèdes alchimiques#Encre nauséabonde|Encre nauséabonde magique]],
+[[Remèdes alchimiques#Huile alaire|Huile alaire]].
 </div>
 
 
 ### Matériaux spéciaux
 <div class="article_3col">
-[Bois fouettant](./Matériaux spéciaux.md#BOISFOUETTANT),
-[Racine de wy](./Matériaux spéciaux.md#RACINEDEWY) (modifié),
-[Tissu de sombrefeuille](./Matériaux spéciaux.md#TISSUDESOMBREFEUILLE) (modifié).
+[[Matériaux spéciaux#BOISFOUETTANT|Bois fouettant]],
+[[Matériaux spéciaux#RACINEDEWY|Racine de wy]] (modifié),
+[[Matériaux spéciaux#TISSUDESOMBREFEUILLE|Tissu de sombrefeuille]] (modifié).
 </div>
 
 
 ### Objets magiques
 #### Anneaux
 <div class="article_3col">
-[Action féroce](./anneau daction féroce.md) (modifié),
-[Artisanat magique](./Anneau de création magique.md) (modifié),
-[Crocs de rat](./Anneau des crocs du rat.md) (modifié),
-[Nuée de coups](./Anneau de volée de coups.md) (modifié),
-[Sophistication](./Anneau du sybarite.md) (modifié).
+[[Anneau daction féroce|Action féroce]] (modifié),
+[[Anneau de création magique|Artisanat magique]] (modifié),
+[[Anneau des crocs du rat|Crocs de rat]] (modifié),
+[[Anneau de volée de coups|Nuée de coups]] (modifié),
+[[Anneau du sybarite|Sophistication]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Armes====</div>
 <div class="article_3col">
-[Grande hache rapide en obsidienne](./Grande Hache de Vitesse.md) (modifié),
-[Griffes métalliques de lacération](./Griffes métalliques de lacération.md),
-[Lame de ténèbres](./Lame Obscure.md) (modifié).
+[[Grande Hache de Vitesse|Grande hache rapide en obsidienne]] (modifié),
+[[Griffes métalliques de lacération]],
+[[Lame Obscure|Lame de ténèbres]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Armures====</div>
 <div class="article_3col">
-[Bouclier céleste](./Bouclier céleste.md) (modifié),
-[Bouclier élyséen](./Bouclier de lÉlysée.md) (modifié).
+[[Bouclier céleste]] (modifié),
+[[Bouclier de lÉlysée|Bouclier élyséen]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Objets merveilleux====</div>
 <div class="article_3col">
 **Aucun (Sans emplacement).**
-[Bulle au trésor](./Bulle au trésor.md),
-[Cataplasme de soins](./Cataplasme de soins.md),
-[Élixir de vision dans les ténèbres](./élixir de vision dans les ténèbres.md),
-[Élixir d’exhalation impérieuse](./Élixir dexhalation impérieuse.md),
-[Encens de destins multiples](./Encens de destins multiples.md),
-[Étendard de guerre hobgobelin](./Étendard de guerre hobgobelin.md),
-[Étonnants outils d’artisanat](./étonnants outils dartisanat.md),
-[Éventail de plumes noires](./Éventail de plumes noires.md),
-[Éventail de plumes rouges](./Éventail de plumes rouges.md),
-[Fenêtre vacillante](./Fenêtre vacillante.md),
-[Fermoir ancestral](./fermoir ancestral.md),
-[Flûte du gardien du terrier](./Flûte du gardien du terrier.md),
-[Gemme des fantasmes](./gemme des fantasmes.md),
-[Gemme-étoile du kitsune (niveau 1)](./Gemme-étoile du kitsune.md),
-[Gemme-étoile du kitsune (niveau 2)](./Gemme-étoile du kitsune.md),
-[Gemme-étoile du kitsune (niveau 3)](./Gemme-étoile du kitsune.md),
-[Herbe à pipe de fumée solide](./herbe à pipe de fumée solide.md),
-[Jarre de purification tengu](./Jarre de purification tengu.md),
-[Lanterne d’ombres dansantes](./Lanterne dombres dansantes.md),
-[Livre des recettes merveilleuses](./livre des recettes merveilleuses.md),
-[Lustrécailles nagaji](./Lustrécailles nagaji.md),
-[Perle de purification](./perle de purification.md),
-[Poussière de fuite](./poussière de fuite.md),
-[Sacoche du piégeur](./Sacoche du piégeur.md),
-[Statuette merveilleuse (Corbeau de jade noir)](./Statuette merveilleuse.md),
-[Symbole de chance](./symbole de chance.md),
-[Symbole de commandement maudit](./Symbole de commandement maudit.md),
-[Sacoche de nuages d’ombre](./Sacoche de nuages dombre.md).
+[[Bulle au trésor]],
+[[Cataplasme de soins]],
+[[Élixir de vision dans les ténèbres]],
+[[Élixir dexhalation impérieuse|Élixir d’exhalation impérieuse]],
+[[Encens de destins multiples]],
+[[Étendard de guerre hobgobelin]],
+[[Étonnants outils dartisanat|Étonnants outils d’artisanat]],
+[[Éventail de plumes noires]],
+[[Éventail de plumes rouges]],
+[[Fenêtre vacillante]],
+[[Fermoir ancestral]],
+[[Flûte du gardien du terrier]],
+[[Gemme des fantasmes]],
+[[Gemme-étoile du kitsune|Gemme-étoile du kitsune (niveau 1)]],
+[[Gemme-étoile du kitsune|Gemme-étoile du kitsune (niveau 2)]],
+[[Gemme-étoile du kitsune|Gemme-étoile du kitsune (niveau 3)]],
+[[Herbe à pipe de fumée solide]],
+[[Jarre de purification tengu]],
+[[Lanterne dombres dansantes|Lanterne d’ombres dansantes]],
+[[Livre des recettes merveilleuses]],
+[[Lustrécailles nagaji]],
+[[Perle de purification]],
+[[Poussière de fuite]],
+[[Sacoche du piégeur]],
+[[Statuette merveilleuse|Statuette merveilleuse (Corbeau de jade noir)]],
+[[Symbole de chance]],
+[[Symbole de commandement maudit]],
+[[Sacoche de nuages dombre|Sacoche de nuages d’ombre]].
 
 **Corps.**
-[Corset du vishkanya](./Corset Vishkanyan.md) (modifié),
-[Vêtements vivants](./Vêtements vivants.md).
+[[Corset Vishkanyan|Corset du vishkanya]] (modifié),
+[[Vêtements vivants]].
 
 **Cou.**
-[Amulette de lumière cachée](./Amulette de lumière cachée.md),
-[Amulette de sombresire](./Amulette de sombresire.md),
-[Amulette de vie canalisée](./Amulette de vie canalisée.md),
-[Amulette en dent de requin](./Amulette en dent de requin.md),
-[Broche de caméléon racial](./broche de caméléon racial.md).
+[[Amulette de lumière cachée]],
+[[Amulette de sombresire]],
+[[Amulette de vie canalisée]],
+[[Amulette en dent de requin]],
+[[Broche de caméléon racial]].
 
 **Épaules.**
-[Cape d’apparence humaine](./Cape de Déguisement Humain.md) (modifié),
-[Cape de crocs](./Cape de crocs.md) (modifié),
-[Cape de dissimulation enflammée](./Cape de Disparition Enflammée.md) (modifié),
-[Cape de rochebrume](./Cape des Brumes Montagneuses.md) (modifié),
-[Cape du diplomate](./Cape de Diplomate.md) (modifié),
-[Cape du rat sabordeur](./Cape du Rat Sanguinaire.md) (modifié),
-[Châle de préservation vitale](./Châle de Transfert Vital.md) (modifié),
-[Châle d’écume](./Châle dÉcume de Mer.md) (modifié).
+[[Cape de Déguisement Humain|Cape d’apparence humaine]] (modifié),
+[[Cape de crocs]] (modifié),
+[[Cape de disparition enflammée|Cape de dissimulation enflammée]] (modifié),
+[[Cape des Brumes Montagneuses|Cape de rochebrume]] (modifié),
+[[Cape de Diplomate|Cape du diplomate]] (modifié),
+[[Cape du Rat Sanguinaire|Cape du rat sabordeur]] (modifié),
+[[Châle de Transfert Vital|Châle de préservation vitale]] (modifié),
+[[Châle dÉcume de Mer|Châle d’écume]] (modifié).
 
 **Mains.**
-[Gantelets briseurs d’os](./Gantelets briseurs dos.md),
-[Gants de décombres](./Gants de décombres.md),
-[Gants des doigts rapides](./gants des doigts rapides.md),
-[Gants elfiques](./gants elfiques.md).
+[[Gantelets briseurs dos|Gantelets briseurs d’os]],
+[[Gants de décombres]],
+[[Gants des doigts rapides]],
+[[Gants elfiques]].
 
 **Pieds.**
-[Bottes de fuite](./Bottes dÉvasion.md) (modifié),
-[Chaussons du triton](./Chaussons du triton.md) (modifié),
-[Fers à cheval de coups écrasants (+1)](./Fers À Cheval de Ruade Dévastatrice.md) (modifié),
-[Fers à cheval de coups écrasants (+2)](./Fers À Cheval de Ruade Dévastatrice.md) (modifié),
-[Fers à cheval de coups écrasants (+3)](./Fers À Cheval de Ruade Dévastatrice.md) (modifié),
-[Fers à cheval de coups écrasants (+4)](./Fers À Cheval de Ruade Dévastatrice.md) (modifié),
-[Fers à cheval de coups écrasants (+5)](./Fers À Cheval de Ruade Dévastatrice.md) (modifié),
-[Pattes de velours du casse-cou](./Bottes de Casse-cou.md) (modifié).
+[[Bottes dÉvasion|Bottes de fuite]] (modifié),
+[[Chaussons du triton]] (modifié),
+[[Fers À Cheval de Ruade Dévastatrice|Fers à cheval de coups écrasants (+1)]] (modifié),
+[[Fers À Cheval de Ruade Dévastatrice|Fers à cheval de coups écrasants (+2)]] (modifié),
+[[Fers À Cheval de Ruade Dévastatrice|Fers à cheval de coups écrasants (+3)]] (modifié),
+[[Fers À Cheval de Ruade Dévastatrice|Fers à cheval de coups écrasants (+4)]] (modifié),
+[[Fers À Cheval de Ruade Dévastatrice|Fers à cheval de coups écrasants (+5)]] (modifié),
+[[Bottes de Casse-cou|Pattes de velours du casse-cou]] (modifié).
 
 **Poignets.**
-[Bracelets de la vengeance promise](./Brassards de Vengeance.md) (modifié),
-[Chaînes d’ignoble emprisonnement](./Menottes de Domination.md) (modifié),
-[Gantelets du maître d’armes](./Bracelets des Hauts Elfes.md) (modifié).
+[[Brassards de Vengeance|Bracelets de la vengeance promise]] (modifié),
+[[Menottes de Domination|Chaînes d’ignoble emprisonnement]] (modifié),
+[[Bracelets des Hauts Elfes|Gantelets du maître d’armes]] (modifié).
 
 **Taille.**
-[Ceinture de peau de pierre](./Ceinture de peau de pierre.md) (modifié),
-[Ceinture du cueilleur](./Ceinture de Subsistance.md) (modifié),
-[Ceinture méridienne](./Ceinturon Méridien.md) (modifié).
+[[Ceinture de peau de pierre]] (modifié),
+[[Ceinture de Subsistance|Ceinture du cueilleur]] (modifié),
+[[Ceinturon Méridien|Ceinture méridienne]] (modifié).
 
 **Tête.**
-[Auréole de calme intérieur](./Auréole de Sérénité.md) (modifié),
-[Auréole de menace](./Auréole de menace.md) (modifié),
-[Coiffe d’apparence humaine](./Couvre-chef de Déguisement Humanoïde.md) (modifié),
-[Couronne du conquérant](./Couronne de Conquérant.md) (modifié),
-[Couronne d’épées](./Couronne des Épées.md) (modifié),
-[Diadème à oeil-de-chat](./Couronne Œil-de-chat.md) (modifié),
-[Masque de maintien de pierre](./Masque de lHomme de Marbre.md) (modifié).
+[[Auréole de Sérénité|Auréole de calme intérieur]] (modifié),
+[[Auréole de menace]] (modifié),
+[[Couvre-chef de Déguisement Humanoïde|Coiffe d’apparence humaine]] (modifié),
+[[Couronne de Conquérant|Couronne du conquérant]] (modifié),
+[[Couronne des Épées|Couronne d’épées]] (modifié),
+[[Couronne Œil-de-chat|Diadème à oeil-de-chat]] (modifié),
+[[Masque de lHomme de Marbre|Masque de maintien de pierre]] (modifié).
 
 **Yeux.**
-[Lentilles de ténèbres](./Lentilles de ténèbres.md).
+[[Lentilles de ténèbres]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Propriétés spéciales====</div>
 <div class="article_3col">
 **Armes.**
-[Cruelle](./cruelle (propriété).md),
-[Inflammable](./inflammable (propriété).md) (modifié),
-[Mortelle](./mortelle (propriété).md),
-[Née de la fureur](./entêtée (propriété).md) (modifié).
+[[cruelle (propriété)|Cruelle]],
+[[inflammable (propriété)|Inflammable]] (modifié),
+[[mortelle (propriété)|Mortelle]],
+[[entêtée (propriété)|Née de la fureur]] (modifié).
 
 **Armures.**
-[Protection](./protection (propriété).md),
-[Protection supérieure](./protection supérieure (propriété).md),
-[Rafale de nuages](./rafale de nuages (propriété).md).
+[[protection (propriété)|Protection]],
+[[protection supérieure (propriété)|Protection supérieure]],
+[[rafale de nuages (propriété)|Rafale de nuages]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Sceptres====</div>
 <div class="article_3col">
-[Ferme résolution](./Sceptre de résolution inébranlable.md) (modifié),
-[Terre](./Sceptre de la terre.md) (modifié),
-[Puissance naine](./Sceptre de puissance nain.md) (modifié),
-[Ombres](./Sceptre des ombres.md) (modifié).
+[[Sceptre de résolution inébranlable|Ferme résolution]] (modifié),
+[[Sceptre de la terre|Terre]] (modifié),
+[[Sceptre de puissance nain|Puissance naine]] (modifié),
+[[Sceptre des ombres|Ombres]] (modifié).
 </div>
 
 
 ### Options de classe
 #### Découvertes d'alchimiste
 <div class="article_3col">
-[Bombe à éclats de verre](./découvertes.md#BOMBEAECLATSDEVERRE)*,
-[Bombe à fragmentation](./découvertes.md#BOMBEAFRAGMENTATION),
-[Bombe défoliante](./découvertes.md#BOMBEDEFOLIANTE)*,
-[Bombe de ténèbres](./découvertes.md#BOMBEDETENEBRES)*,
-[Bombe-fusée](./découvertes.md#BOMBEFUSEE),
-[Bombe pestiférée supérieure](./découvertes.md#BOMBEPESTIFEREESUPERIEURE),
-[Caméléon](./découvertes.md#CAMELEON),
-[Démolition sous-marine](./découvertes.md#DEMOLITIONSOUSMARINE),
-[Excrétions mortelles](./découvertes.md#EXCRETIONSMORTELLES),
-[Infection prolongée](./découvertes.md#INFECTIONPROLONGEE),
-[Marque de feu](./découvertes.md#MARQUEDEFEU),
-[Mutagène de poupée de chiffon](./découvertes.md#MUTAGENEAPOUPEEDECHIFFON).
+[[Découvertes#BOMBEAECLATSDEVERRE|Bombe à éclats de verre]]*,
+[[Découvertes#BOMBEAFRAGMENTATION|Bombe à fragmentation]],
+[[Découvertes#BOMBEDEFOLIANTE|Bombe défoliante]]*,
+[[Découvertes#BOMBEDETENEBRES|Bombe de ténèbres]]*,
+[[Découvertes#BOMBEFUSEE|Bombe-fusée]],
+[[Découvertes#BOMBEPESTIFEREESUPERIEURE|Bombe pestiférée supérieure]],
+[[Découvertes#CAMELEON|Caméléon]],
+[[Découvertes#DEMOLITIONSOUSMARINE|Démolition sous-marine]],
+[[Découvertes#EXCRETIONSMORTELLES|Excrétions mortelles]],
+[[Découvertes#INFECTIONPROLONGEE|Infection prolongée]],
+[[Découvertes#MARQUEDEFEU|Marque de feu]],
+[[Découvertes#MUTAGENEAPOUPEEDECHIFFON|Mutagène de poupée de chiffon]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Évolutions d'eidolon====</div>
 <div class="article_3col">
 **À 2 points.**
-[Forme d'ombre](./eidolon.md#FORMEDOMBRE),
-[Fusion avec les ombres](./eidolon.md#FUSIONAVECLESOMBRES).
+[[eidolon#FORMEDOMBRE|Forme d'ombre]],
+[[eidolon#FUSIONAVECLESOMBRES|Fusion avec les ombres]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Lignages d'ensorceleur====</div>
 <div class="article_3col">
-[Impérieux](./lignage Impérieux.md),
-[Kobold](./Lignage kobold.md).
+[[Lignage Impérieux|Impérieux]],
+[[Lignage Kobold|Kobold]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Ordres de chevalerie====</div>
 <div class="article_3col">
-[Patte](./Ordres.md#PATTE).
+[[Ordres#PATTE|Patte]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Talents de roublard====</div>
 <div class="article_3col">
 **Talents.**
-[Appropriation d’histoire](./Talents.md#APPROPRIATIONDHISTOIRE),
-[Brouiller les pistes](./Talents.md#BROUILLERLESPISTES),
-[Chance désarmante](./Talents.md#CHANCEDESARMANTE),
-[Chute gracieuse](./Talents.md#CHUTEGRACIEUSE),
-[Évaluateur acharné](./Talents.md#EVALUATEURACHARNE),
-[Faux ami](./Talents.md#FAUXAMI),
-[Griffes vicieuses](./Talents.md#GRIFFESVICIEUSES),
-[Griffure mortelle](./Talents.md#GRIFFUREMORTELLE),
-[Grimpeur félin](./Talents.md#GRIMPEURFELIN).
+[[Talents#APPROPRIATIONDHISTOIRE|Appropriation d’histoire]],
+[[Talents#BROUILLERLESPISTES|Brouiller les pistes]],
+[[Talents#CHANCEDESARMANTE|Chance désarmante]],
+[[Talents#CHUTEGRACIEUSE|Chute gracieuse]],
+[[Talents#EVALUATEURACHARNE|Évaluateur acharné]],
+[[Talents#FAUXAMI|Faux ami]],
+[[Talents#GRIFFESVICIEUSES|Griffes vicieuses]],
+[[Talents#GRIFFUREMORTELLE|Griffure mortelle]],
+[[Talents#GRIMPEURFELIN|Grimpeur félin]].
 </div>
 
 
 ### Races
 <div class="article_3col">
-[Aasimar](./Aasimar (race).md),
-[Aquatique](./aquatique (race).md),
-[Changelin](./changelin (race).md),
-[Demi-orque](./Demi-orque.md),
-[Demi-elfe](./Demi-elfe.md),
-[Dhampir](./Dhampir (race).md),
-[Drow](./Drow (race).md),
-[Duergar](./duergar (race).md),
-[Elfe](./Elfe.md),
-[Fetchelin](./Fetchelin (race).md),
-[Gnome](./Gnome.md),
-[Gobelin](./Gobelin (race).md),
-[Grippli](./grippli (race).md),
-[Halfelin](./Halfelin.md),
-[Hobgobelin](./Hobgobelin (race).md),
-[Homme-félin](./homme-félin (race).md),
-[Homme-poisson](./homme-poisson (race).md),
-[Hommes-rat](./Homme-rat (race).md),
-[Humain](./Humain.md),
-[Ifrit](./Ifrit (race).md),
-[Kitsune](./kitsune (race).md),
-[Kobold](./Kobold (race).md),
-[Nagaji](./nagaji (race).md),
-[Nain](./Nain.md),
-[Ondin](./Ondin (race).md),
-[Orque](./orque (race).md),
-[Oréade](./Oréade (race).md),
-[Samsaran](./samsaran (race).md),
-[Strix](./strix (race).md),
-[Suli](./suli (race).md),
-[Svirfneblin](./svirfneblin (race).md),
-[Sylphe](./Sylphe (race).md),
-[Tengu](./Tengu (race).md),
-[Tieffelin](./Tieffelin (race).md),
-[Vanara](./vanara (race).md),
-[Vishkanya](./vishkanya (race).md),
-[Wayang](./wayang (race).md).
+[[Aasimar (race)|Aasimar]],
+[[Aquatique (race)|Aquatique]],
+[[Changelin (race)|Changelin]],
+[[Demi-orque]],
+[[Demi-elfe]],
+[[Dhampir (race)|Dhampir]],
+[[Drow (race)|Drow]],
+[[Duergar (race)|Duergar]],
+[[Elfe]],
+[[Fetchelin (race)|Fetchelin]],
+[[Gnome]],
+[[Gobelin (race)|Gobelin]],
+[[Grippli (race)|Grippli]],
+[[Halfelin]],
+[[Hobgobelin (race)|Hobgobelin]],
+[[Homme-félin (race)|Homme-félin]],
+[[Homme-poisson (race)|Homme-poisson]],
+[[Homme-rat (race)|Hommes-rat]],
+[[Humain]],
+[[Ifrit (race)|Ifrit]],
+[[Kitsune (race)|Kitsune]],
+[[Kobold (race)|Kobold]],
+[[Nagaji (race)|Nagaji]],
+[[Nain]],
+[[Ondin (race)|Ondin]],
+[[Orque (race)|Orque]],
+[[Oréade (race)|Oréade]],
+[[Samsaran (race)|Samsaran]],
+[[Strix (race)|Strix]],
+[[Suli (race)|Suli]],
+[[Svirfneblin (race)|Svirfneblin]],
+[[Sylphe (race)|Sylphe]],
+[[Tengu (race)|Tengu]],
+[[Tieffelin (race)|Tieffelin]],
+[[Vanara (race)|Vanara]],
+[[Vishkanya (race)|Vishkanya]],
+[[Wayang (race)|Wayang]].
 </div>
 
 
 ### Règles officielles
 <div class="article_3col">
-[Créateur de race](./Créateur de race.md).
+[[Créateur de race]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Accorder une intuition](./accorder une intuition.md),
-[Ailes puissantes](./Ailes puissantes.md),
-[Amélioration de piège](./Amélioration de piège.md),
-[Ancre d'ombre](./Ancre dombre.md),
-[Appel des nixes](./Appel des nixes.md),
-[Barbe de fer](./barbe de fer.md),
-[Bénédiction de chance et de résolution](./bénédiction de chance et de résolution.md),
-[Bénédiction de chance et de résolution de groupe](./bénédiction de chance et de résolution de groupe.md),
-[Bénédiction karmique](./Bénédiction karmique.md),
-[Bouclier de pierre](./Bouclier de pierre.md),
-[Boule de boue](./Boule de boue.md),
-[Bricolage alchimique](./Bricolage alchimique.md),
-[Briser les lignes ennemies](./briser les lignes ennemies.md),
-[Caméléon](./caméléon.md),
-[Canalisation de vie](./Canalisation de vie.md),
-[Chaînes de feu](./Chaînes de feu.md),
-[Chaleur curative](./Chaleur curative.md),
-[Chant du labeur](./chant du labeur.md),
-[Cierge de mort](./Cierge de mort.md),
-[Cœur de l’ennemi](./Cœur-de-lennemi.md),
-[Communion avec les oiseaux](./Communion avec les oiseaux.md),
-[Compression](./Compression.md),
-[Crâne de sentinelle](./Crâne de sentinelle.md),
-[Déchaînement de débris](./Déchaînement de débris.md),
-[Double terrifiant](./double terrifiant.md),
-[Éclairs d'obscurité aveuglante](./Éclairs dobscurité aveuglante.md),
-[Élévation du sol](./élévation du sol.md),
-[Entrave de terre](./Entrave de terre.md),
-[Entrave de terre de groupe](./Entrave de terre de groupe.md),
-[Espace sacré](./Espace sacré.md),
-[Extraction du demi-sang](./extraction du demi-sang.md),
-[Flambée de sang](./Flambée de sang.md),
-[Forme cendrée brûlante](./Forme cendrée brûlante.md),
-[Forme du nuage](./Forme du nuage.md),
-[Forme miasmatique](./Forme miasmatique.md),
-[Fouet de la bouche de l'enfer](./Fouet de la bouche de lenfer.md),
-[Frappes fébriles](./Frappes fébriles.md),
-[Fuite aérienne](./Fuite aérienne.md),
-[Fureur solaire](./Fureur solaire.md),
-[Grâce des néréides](./Grâce des néréides.md),
-[Grâce urbaine](./grâce urbaine.md),
-[Havresombre](./Havresombre.md),
-[Implantation de pensées](./Implantation de pensées.md),
-[Inhalation absorbante](./Inhalation absorbante.md),
-[Jitterbug](./jitterbug.md),
-[Jumeau de vomi](./Jumeau de vomi.md),
-[La mort venue d'en bas](./la mort venue den bas.md),
-[Lames de vent](./Lames de vent.md),
-[Mâchoire féroce](./mâchoire féroce.md),
-[Maîtrise des marids](./Maîtrise des marids.md),
-[Malédiction des ondins](./Malédiction des ondins.md),
-[Malédiction du vieux loup de mer](./malédiction du vieux loup de mer.md),
-[Nage dans la terre](./Nage dans la terre.md),
-[Neuf vies](./Neuf vies.md),
-[Nuage de toile](./Nuage de toile.md),
-[Objet fantomatique mineur](./objet fantomatique mineur.md),
-[Objet fantomatique majeur](./Objet fantomatique majeur.md),
-[Onde de feu](./Onde de feu.md),
-[Parangon soudain](./parangon soudain.md),
-[Perception du sang](./Perception du sang.md),
-[Petite sirène](./Petite sirène.md),
-[Piste de feu](./Piste de feu.md),
-[Plumage d'hiver](./Plumage dhiver.md),
-[Poing invincible de la terre](./Poing invincible de la terre.md),
-[Poumons d'Aboleth](./Poumons daboleth.md),
-[Projectile de toile](./Projectile de toile.md),
-[Protection contre la mort-vivance](./Protection contre la mort-vivance.md),
-[Protection contre le vol](./Protection contre le vol.md),
-[Protégé de la saison](./protégé de la saison.md),
-[Rayon aveuglant](./Rayon aveuglant.md),
-[Rechargement de la magie innée](./rechargement de la magie innée.md),
-[Régression ancestrale](./Régression ancestrale.md),
-[Reproche déchirant](./Reproche déchirant.md),
-[Réservoir de résilience](./réservoir de résilience.md),
-[Retardement des maladies](./Retardement des maladies.md),
-[Sages murmures](./sages murmures.md),
-[Sceau de fuite](./sceau de fuite.md),
-[Sentier de la damnation](./Sentier de la damnation.md),
-[Sommeil de l'amnésique](./sommeil de lamnésique.md),
-[Songe mineur](./songe mineur.md),
-[Sphère de bourrasques](./Sphère de bourrasques.md),
-[Tâche noire](./Tâche noire.md),
-[Toucher de combustion](./Toucher de combustion.md),
-[Transe guerrière](./transe guerrière.md),
-[Transfert de puissance élémentaire](./Transfert de puissance élémentaire.md),
-[Vérité](./Vérité.md),
-[Village voilé](./village voilé.md),
-[Voie des vents](./Voie des vents.md),
-[Voile du paradis](./Voile du paradis.md),
-[Vol de souffle](./Vol de souffle.md),
-[Voleuse préhensile](./Voleuse préhensile.md).
+[[Accorder une intuition]],
+[[Ailes puissantes]],
+[[Amélioration de piège]],
+[[Ancre dombre|Ancre d'ombre]],
+[[Appel des nixes]],
+[[Barbe de fer]],
+[[Bénédiction de chance et de résolution]],
+[[Bénédiction de chance et de résolution de groupe]],
+[[Bénédiction karmique]],
+[[Bouclier de pierre]],
+[[Boule de boue]],
+[[Bricolage alchimique]],
+[[Briser les lignes ennemies]],
+[[Caméléon]],
+[[Canalisation de vie]],
+[[Chaînes de feu]],
+[[Chaleur curative]],
+[[Chant du labeur]],
+[[Cierge de mort]],
+[[Cœur de lennemi|Cœur de l’ennemi]],
+[[Communion avec les oiseaux]],
+[[Compression]],
+[[Crâne de sentinelle]],
+[[Déchaînement de débris]],
+[[Double terrifiant]],
+[[Éclairs dobscurité aveuglante|Éclairs d'obscurité aveuglante]],
+[[Élévation du sol]],
+[[Entrave de terre]],
+[[Entrave de terre de groupe]],
+[[Espace sacré]],
+[[Extraction du demi-sang]],
+[[Flambée de sang]],
+[[Forme cendrée brûlante]],
+[[Forme du nuage]],
+[[Forme miasmatique]],
+[[Fouet de la bouche de lenfer|Fouet de la bouche de l'enfer]],
+[[Frappes fébriles]],
+[[Fuite aérienne]],
+[[Fureur solaire]],
+[[Grâce des néréides]],
+[[Grâce urbaine]],
+[[Havresombre]],
+[[Implantation de pensées]],
+[[Inhalation absorbante]],
+[[Jitterbug]],
+[[Jumeau de vomi]],
+[[La mort venue den bas|La mort venue d'en bas]],
+[[Lames de vent]],
+[[Mâchoire féroce]],
+[[Maîtrise des marids]],
+[[Malédiction des ondins]],
+[[Malédiction du vieux loup de mer]],
+[[Nage dans la terre]],
+[[Neuf vies]],
+[[Nuage de toile]],
+[[Objet fantomatique mineur]],
+[[Objet fantomatique majeur]],
+[[Onde de feu]],
+[[Parangon soudain]],
+[[Perception du sang]],
+[[Petite sirène]],
+[[Piste de feu]],
+[[Plumage dhiver|Plumage d'hiver]],
+[[Poing invincible de la terre]],
+[[Poumons dAboleth|Poumons d'Aboleth]],
+[[Projectile de toile]],
+[[Protection contre la mort-vivance]],
+[[Protection contre le vol]],
+[[Protégé de la saison]],
+[[Rayon aveuglant]],
+[[Rechargement de la magie innée]],
+[[Régression ancestrale]],
+[[Reproche déchirant]],
+[[Réservoir de résilience]],
+[[Retardement des maladies]],
+[[Sages murmures]],
+[[Sceau de fuite]],
+[[Sentier de la damnation]],
+[[Sommeil de lamnésique|Sommeil de l'amnésique]],
+[[Songe mineur]],
+[[Sphère de bourrasques]],
+[[Tâche noire]],
+[[Toucher de combustion]],
+[[Transe guerrière]],
+[[Transfert de puissance élémentaire]],
+[[Vérité]],
+[[Village voilé]],
+[[Voie des vents]],
+[[Voile du paradis]],
+[[Vol de souffle]],
+[[Voleuse préhensile]].
 </div>
 
 
 ### Traits raciaux alternatifs
 <div class="article_3col">
-**[Aasimars](./Aasimar (race).md#Traits_raciaux_alternatifs_7).**
+**[[Aasimar (race)#Traits_raciaux_alternatifs_7|Aasimars]].**
 Croisé céleste,
 Enfant de l’humanité,
 Esprit immortel,
@@ -788,17 +788,17 @@ Messager de la vérité,
 Né dans les cieux,
 Résistance exaltée.
 
-**[Aquatiques](./aquatique (race).md#Traits_raciaux_alternatifs_7).**
+**[[Aquatique (race)#Traits_raciaux_alternatifs_7|Aquatiques]].**
 Chasseur de vase,
 Rescapé,
 Riviérain.
 
-**[Changelins](./changelin (race).md#Traits_raciaux_alternatifs_7).**
+**[[Changelin (race)#Traits_raciaux_alternatifs_7|Changelins]].**
 Enfant de la brume,
 Fille de l’océan,
 Objet de désir.
 
-**[Demi-elfes](./Demi-elfe.md#Traits_raciaux_alternatifs_7).**
+**[[Demi-elfe#Traits_raciaux_alternatifs_7|Demi-elfes]].**
 Armes ancestrales,
 Bien intégré,
 Descendant des drows,
@@ -812,7 +812,7 @@ Méfiant,
 Sang de drow,
 Sociable.
 
-**[Demi-orques](./Demi-orque.md#Traits_raciaux_alternatifs_7).**
+**[[Demi-orque#Traits_raciaux_alternatifs_7|Demi-orques]].**
 Apprenti du chaman,
 Arpenteur des forêts,
 Bestial,
@@ -833,12 +833,12 @@ Tatouage sacré,
 Varappeur,
 Vision dans le noir développée.
 
-**[Dhampirs](./Dhampir (race).md#Traits_raciaux_alternatifs_7).**
+**[[Dhampir (race)#Traits_raciaux_alternatifs_7|Dhampirs]].**
 Crocs,
 Empathie vampirique,
 Né de jour.
 
-**[Drows](./Drow (race).md#Traits_raciaux_alternatifs_7).**
+**[[Drow (race)#Traits_raciaux_alternatifs_7|Drows]].**
 Engagement blasphématoire,
 Infiltré de la surface,
 Intriguant ambitieux,
@@ -846,13 +846,13 @@ Rancune ancestrale,
 Séducteur,
 Traqueur de l’Ombreterre.
 
-**[Duergars](./duergar (race).md#Traits_raciaux_alternatifs_7).**
+**[[Duergar (race)#Traits_raciaux_alternatifs_7|Duergars]].**
 Ennemi de sang,
 Magie profonde,
 Traits nains,
 Vision de jour.
 
-**[Elfes](./Elfe.md#Traits_raciaux_alternatifs_7).**
+**[[Elfe#Traits_raciaux_alternatifs_7|Elfes]].**
 Chasseur silencieux,
 Connaissance des bois,
 Coureur du désert,
@@ -871,14 +871,14 @@ Résistances élémentaires,
 Urbain,
 Vision dans le noir.
 
-**[Fetchelins](./Fetchelin (race).md#Traits_raciaux_alternatifs_7).**
+**[[Fetchelin (race)#Traits_raciaux_alternatifs_7|Fetchelins]].**
 Arpenteur de monde,
 Émissaire,
 Fin manipulateur,
 Magie des ombres,
 Vibration des ténèbres.
 
-**[Gnomes](./Gnome.md#Traits_raciaux_alternatifs_7).**
+**[[Gnome#Traits_raciaux_alternatifs_7|Gnomes]].**
 Académicien,
 Don pour les poisons,
 Espoir éternel,
@@ -896,7 +896,7 @@ Polyglotte,
 Pyromane,
 Vision dans le noir.
 
-**[Gobelins](./Gobelin (race).md#Traits_raciaux_alternatifs_7).**
+**[[Gobelin (race)#Traits_raciaux_alternatifs_7|Gobelins]].**
 Apprentissage martial,
 Charognard urbain,
 Coureur des arbres,
@@ -905,13 +905,13 @@ Mange-tout,
 Rampant des grottes,
 Tête dure et grandes dents.
 
-**[Gripplis](./grippli (race).md#Traits_raciaux_alternatifs_7).**
+**[[Grippli (race)#Traits_raciaux_alternatifs_7|Gripplis]].**
 Peau toxique,
 Planeur,
 Princier,
 Sauteur.
 
-**[Halfelins](./Halfelin.md#Traits_raciaux_alternatifs_7).**
+**[[Halfelin#Traits_raciaux_alternatifs_7|Halfelins]].**
 Cavalier éclaireur,
 Chance adaptable,
 Coup sous la ceinture,
@@ -929,7 +929,7 @@ Soif de voyages,
 Vengeur,
 Veule.
 
-**[Hobgobelins](./Hobgobelin (race).md#Traits_raciaux_alternatifs_7).**
+**[[Hobgobelin (race)#Traits_raciaux_alternatifs_7|Hobgobelins]].**
 Balafré,
 Chasseur d’esclaves,
 Chasseur de mages,
@@ -940,7 +940,7 @@ Ingénieur,
 Jambes arquées,
 Terrifiant.
 
-**[Hommes-félins](./homme-félin (race).md#Traits_raciaux_alternatifs_7).**
+**[[Homme-félin (race)#Traits_raciaux_alternatifs_7|Hommes-félins]].**
 Chute agile,
 Curiosité,
 Félin rusé,
@@ -948,18 +948,18 @@ Griffes du félin,
 Grimpeur,
 Odorat.
 
-**[Hommes-poissons](./homme-poisson (race).md#Traits_raciaux_alternatifs_7).**
+**[[Homme-poisson (race)#Traits_raciaux_alternatifs_7|Hommes-poissons]].**
 Chanteur de la mer,
 Queue musclée,
 Vision dans le noir.
 
-**[Hommes-rats](./Homme-rat (race).md#Traits_raciaux_alternatifs_7).**
+**[[Homme-rat (race)#Traits_raciaux_alternatifs_7|Hommes-rats]].**
 Fureteur,
 Fureur de l’acculé,
 Odorat,
 Surnaturel.
 
-**[Humains](./Humain.md#Traits_raciaux_alternatifs_7).**
+**[[Humain#Traits_raciaux_alternatifs_7|Humains]].**
 À l’affût du talent,
 Campagnard,
 Coeur de la mer,
@@ -982,7 +982,7 @@ Parents adoptifs,
 Pionnier,
 Rat d’égout.
 
-**[Ifrits](./Ifrit (race).md#Traits_raciaux_alternatifs_7).**
+**[[Ifrit (race)#Traits_raciaux_alternatifs_7|Ifrits]].**
 Coeur embrasé,
 Débuts enflammés,
 Formé à la forge,
@@ -992,20 +992,20 @@ Magie éfrite,
 Mirage du désert,
 Veines de feu.
 
-**[Kitsune](./kitsune (race).md#Traits_raciaux_alternatifs_7).**
+**[[Kitsune (race)#Traits_raciaux_alternatifs_7|Kitsune]].**
 Grégaire,
 Métamorphose accélérée.
 
-**[Kobolds](./Kobold (race).md#Traits_raciaux_alternatifs_7).**
+**[[Kobold (race)#Traits_raciaux_alternatifs_7|Kobolds]].**
 Ailes de planeur,
 Bouffon,
 Écailles de dragon,
 Lien avec les bêtes.
 
-**[Nagajis](./nagaji (race).md#Traits_raciaux_alternatifs_7).**
+**[[Nagaji (race)#Traits_raciaux_alternatifs_7|Nagajis]].**
 Regard hypnotique.
 
-**[Nains](./Nain.md#Traits_raciaux_alternatifs_7).**
+**[[Nain#Traits_raciaux_alternatifs_7|Nains]].**
 Ancien des nains,
 Ancienne inimitié,
 Artisan,
@@ -1028,7 +1028,7 @@ Sentinelle du ciel,
 Survivre à la surface,
 Xénophobe.
 
-**[Ondins](./Ondin (race).md#Traits_raciaux_alternatifs_7).**
+**[[Ondin (race)#Traits_raciaux_alternatifs_7|Ondins]].**
 Amphibie,
 Caméléon environnemental,
 Fascination néréide,
@@ -1039,7 +1039,7 @@ Souffle de vase,
 Vision des profondeurs,
 Vitalité hydratée.
 
-**[Oréades](./Oréade (race).md#Traits_raciaux_alternatifs_7).**
+**[[Oréade (race)#Traits_raciaux_alternatifs_7|Oréades]].**
 Croissance ferreuse,
 Forme cristalline,
 Intuition de la terre,
@@ -1049,30 +1049,30 @@ Pierre dans le sang,
 Sol fertile,
 Terre traîtresse.
 
-**[Orques](./orque (race).md#Traits_raciaux_alternatifs_7).**
+**[[Orque (race)#Traits_raciaux_alternatifs_7|Orques]].**
 Coureur de jour,
 Crasseux,
 Renifleur,
 Sauvage.
 
-**[Samsarans](./samsaran (race).md#Traits_raciaux_alternatifs_7).**
+**[[Samsaran (race)#Traits_raciaux_alternatifs_7|Samsarans]].**
 Vie antérieure mystique.
 
-**[Strixs](./strix (race).md#Traits_raciaux_alternatifs_7).**
+**[[Strix (race)#Traits_raciaux_alternatifs_7|Strixs]].**
 Agile,
 Ailes tailladées,
 Effrayant,
 Gardien diurne,
 Robuste.
 
-**[Sulis](./suli (race).md#Traits_raciaux_alternatifs_7).**
+**[[Suli (race)#Traits_raciaux_alternatifs_7|Sulis]].**
 Attaque d’énergie.
 
-**[Svirfneblins](./svirfneblin (race).md#Traits_raciaux_alternatifs_7).**
+**[[Svirfneblin (race)#Traits_raciaux_alternatifs_7|Svirfneblins]].**
 Bien portant,
 Oracle de pierre.
 
-**[Sylphes](./Sylphe (race).md#Traits_raciaux_alternatifs_7).**
+**[[Sylphe (race)#Traits_raciaux_alternatifs_7|Sylphes]].**
 Baiser du vent,
 Comme le vent,
 Flair climatique,
@@ -1082,13 +1082,13 @@ Parle-ciel,
 Résilience assourdissante,
 Tempête dans le sang.
 
-**[Tengus](./Tengu (race).md#Traits_raciaux_alternatifs_7).**
+**[[Tengu (race)#Traits_raciaux_alternatifs_7|Tengus]].**
 Attaque de griffe,
 Formation aux armes exotiques,
 Perception de la charogne,
 Planeur.
 
-**[Tieffelins](./Tieffelin (race).md#Traits_raciaux_alternatifs_7).**
+**[[Tieffelin (race)#Traits_raciaux_alternatifs_7|Tieffelins]].**
 Ailes vestigiales,
 Devin des âmes,
 La gueule ou la griffe,
@@ -1097,15 +1097,15 @@ Queue préhensile,
 Séduisant menteur,
 Sprinter fiélon.
 
-**[Vanaras](./vanara (race).md#Traits_raciaux_alternatifs_7).**
+**[[Vanara (race)#Traits_raciaux_alternatifs_7|Vanaras]].**
 Étranger des arbres,
 Pèlerine blanche.
 
-**[Vishkanyas](./vishkanya (race).md#Traits_raciaux_alternatifs_7).**
+**[[Vishkanya (race)#Traits_raciaux_alternatifs_7|Vishkanyas]].**
 Apparence subtile,
 Sensuel.
 
-**[Wayangs](./wayang (race).md#Traits_raciaux_alternatifs_7).**
+**[[Wayang (race)#Traits_raciaux_alternatifs_7|Wayangs]].**
 Enfant de la Dissolution.
 </div>
 
@@ -1119,64 +1119,64 @@ Traduit et publié en français par Black Book Editions sous le nom de Elfes de 
 
 ### Classes de prestige
 <div class="article_3col">
-[Aspirant à l’Illumination](./Aspirant à lIllumination.md).
+[[Aspirant à lIllumination|Aspirant à l’Illumination]].
 </div>
 
 
 ### Équipement
 #### Armes alchimiques
 <div class="article_3col">
-[Flèche aimantée](./Armes alchimiques.md#Flèche aimantée),
-[Flèche croc-en-jambe](./Armes alchimiques.md#Flèche croc-en-jambe),
-[Flèche de brûlure tardive](./Armes alchimiques.md#Flèche de brûlure tardive),
-[Flèche de marquage](./Armes alchimiques.md#Flèche de marquage),
-[Flèche de nuée d’esquilles](./Armes alchimiques.md#Flèche de nuée d'esquilles),
-[Flèche de pluie](./Armes alchimiques.md#Flèche de pluie),
-[Flèche de saignement](./Armes alchimiques.md#Flèche de saignement),
-[Flèche durable](./Armes alchimiques.md#Flèche durable),
-[Flèche immobilisante](./Armes alchimiques.md#Flèche immobilisante),
-[Flèche phéromone](./Armes alchimiques.md#Flèche phéromone).
+[[Armes alchimiques#Flèche aimantée|Flèche aimantée]],
+[[Armes alchimiques#Flèche croc-en-jambe|Flèche croc-en-jambe]],
+[[Armes alchimiques#Flèche de brûlure tardive|Flèche de brûlure tardive]],
+[[Armes alchimiques#Flèche de marquage|Flèche de marquage]],
+[[Armes alchimiques#Flèche de nuée d'esquilles|Flèche de nuée d’esquilles]],
+[[Armes alchimiques#Flèche de pluie|Flèche de pluie]],
+[[Armes alchimiques#Flèche de saignement|Flèche de saignement]],
+[[Armes alchimiques#Flèche durable|Flèche durable]],
+[[Armes alchimiques#Flèche immobilisante|Flèche immobilisante]],
+[[Armes alchimiques#Flèche phéromone|Flèche phéromone]].
 </div>
 
 
 ### Objets magiques
 #### Artefacts
 <div class="article_3col">
-[Couronne Verte](./Couronne Verte.md).
+[[Couronne Verte]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 #### Potions/huiles
 <div class="article_3col">
-[Chaussons au chéya](./Potions magiques.md#CUISINEMYSTIQUE),
-[Citrons-lanternes séchés au soleil](./Potions magiques.md#CUISINEMYSTIQUE),
-[Filet de poisson-moineau au beurre](./Potions magiques.md#CUISINEMYSTIQUE),
-[Gâteau du sauteur](./Potions magiques.md#CUISINEMYSTIQUE),
-[Pain de route](./Potions magiques.md#CUISINEMYSTIQUE),
-[Poivrons épicés aux baies des neiges](./Potions magiques.md#CUISINEMYSTIQUE),
-[Soupe de vie temporaire](./Potions magiques.md#CUISINEMYSTIQUE).
+[[Potions magiques#CUISINEMYSTIQUE|Chaussons au chéya]],
+[[Potions magiques#CUISINEMYSTIQUE|Citrons-lanternes séchés au soleil]],
+[[Potions magiques#CUISINEMYSTIQUE|Filet de poisson-moineau au beurre]],
+[[Potions magiques#CUISINEMYSTIQUE|Gâteau du sauteur]],
+[[Potions magiques#CUISINEMYSTIQUE|Pain de route]],
+[[Potions magiques#CUISINEMYSTIQUE|Poivrons épicés aux baies des neiges]],
+[[Potions magiques#CUISINEMYSTIQUE|Soupe de vie temporaire]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 #### Propriétés spéciales
 <div class="article_3col">
 **Armes.**
-[Cristal vol-étincelle](./cristal vol-étincelle (propriété).md),
-[Peine du soigneur](./peine du soigneur (propriété).md),
-[Rafale](./rafale (propriété).md).
+[[cristal vol-étincelle (propriété)|Cristal vol-étincelle]],
+[[peine du soigneur (propriété)|Peine du soigneur]],
+[[rafale (propriété)|Rafale]].
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Raciaux](./Traits de race.md).**
+**[[Traits de race|Raciaux]].**
 Amateur de magie profane (Elfes),
 En quête de l’Illumination (Elfes),
 Erreur de jeunesse (Elfes),
 Foi vacillante (Elfes),
 Guerrier des âges (Elfes).
 
-**[Régionaux](./Traits régionaux.md).**
+**[[Traits régionaux|Régionaux]].**
 Délaissé (toute région non-elfe),
 Garde-portail du Kyonin (Royaume des elfes),
 Héritage de la Tour elfique (Tour elfique),
@@ -1184,7 +1184,7 @@ Illusionniste iadaran (Royaume des elfes),
 Laissé pour compte (Jungle sauvage ou Terres sauvages),
 Némésis de Fléau des Arbres (Royaume des elfes).
 
-**[Religieux](./Traits religieux.md).**
+**[[Traits religieux|Religieux]].**
 Ami des guêpes (Calistria),
 Étoile-guide (Desna),
 Panthéiste du Sovyrian (toutes les divinités elfes),
@@ -1201,39 +1201,39 @@ Traduit et publié en français par Black Book Editions sous le nom de Gnomes de
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat et ceux marqués d'un M sont des dons de métamagie.
 <div class="article_3col">
-[Calomnies corrosives](./Calomnies corrosives.md),
-[Crise de larmes](./Crise de larmes.md)*,
-[Esprit de l’école de magie](./Esprit de lécole de magie.md),
-[Feinte subtile](./Feinte subtile.md)*,
-[Illusion menaçante](./Illusion menaçante.md)<sup>M</sup>,
-[Invocation de l’instinct primal](./Invocation de linstinct primal.md),
-[Liens du sang](./Liens du sang.md),
-[Magie gnome supplémentaire](./Magie gnome supplémentaire.md),
-[Maître des merveilles](./Maître des merveilles.md),
-[Prisonnier sans défense](./Prisonnier sans défense.md),
-[Question déconcertante](./Question déconcertante.md),
-[Supercherie facile](./Supercherie facile.md),
-[Trafiquant de camelote](./Trafiquant de camelote.md),
+[[Calomnies corrosives]],
+[[Crise de larmes]]*,
+[[Esprit de lécole de magie|Esprit de l’école de magie]],
+[[Feinte subtile]]*,
+[[Illusion menaçante]]<sup>M</sup>,
+[[Invocation de linstinct primal|Invocation de l’instinct primal]],
+[[Liens du sang]],
+[[Magie gnome supplémentaire]],
+[[Maître des merveilles]],
+[[Prisonnier sans défense]],
+[[Question déconcertante]],
+[[Supercherie facile]],
+[[Trafiquant de camelote]],
 </div>
 
 
 ### Équipement
 #### Armes
 <div class="article_3col">
-[Coutille à scie circulaire](./coutille à scie circulaire (arme).md)
-[Échelle de guerre](./échelle de guerre (arme).md),
-[Fléau long](./fléau long (arme).md),
-[Javelot-tonnerre](./javelot-tonnerre (arme).md),
-[Lance-flasque](./lance-flasque (arme).md),
-[Masse à piston](./masse à piston (arme).md),
-[Masse-yoyo gnome](./Masse-yoyo gnome (arme).md).
+[[coutille à scie circulaire (arme)|Coutille à scie circulaire]]
+[[échelle de guerre (arme)|Échelle de guerre]],
+[[fléau long (arme)|Fléau long]],
+[[javelot-tonnerre (arme)|Javelot-tonnerre]],
+[[lance-flasque (arme)|Lance-flasque]],
+[[masse à piston (arme)|Masse à piston]],
+[[Masse-yoyo gnome (arme)|Masse-yoyo gnome]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 #### Armures
 <div class="article_3col">
-[Bouclier désarmant en acier](./Bouclier désarmant (armure).md),
-[Bouclier désarmant en bois](./Bouclier désarmant (armure).md).
+[[Bouclier désarmant (armure)|Bouclier désarmant en acier]],
+[[Bouclier désarmant (armure)|Bouclier désarmant en bois]].
 </div>
 
 
@@ -1241,33 +1241,33 @@ Les dons marqués d'un astérisque (*) sont des dons de combat et ceux marqués 
 #### Objets merveilleux
 <div class="article_3col">
 **Aucun (sans emplacement).**
-[Pièce-mouchard](./Pièce de Nésa.md).
+[[Pièce de Nésa|Pièce-mouchard]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Poison illusoire](./Poison illusoire.md).
+[[Poison illusoire]].
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Base (combat)](./Traits de base.md#LESTRAITSDECOMBAT).**
+**[[Traits de base#LESTRAITSDECOMBAT|Base (combat)]].**
 Nerveux,
 Sprinteur,
 Vaurien.
 
-**[Base (foi)](./Traits de base.md#LESTRAITSDEFOI).**
+**[[Traits de base#LESTRAITSDEFOI|Base (foi)]].**
 Souvenirs originels,
 Zélote.
 
-**[Base (magie)](./Traits de base.md#LESTRAITSDEMAGIE).**
+**[[Traits de base#LESTRAITSDEMAGIE|Base (magie)]].**
 Charlatan,
 Escroc,
 Naturellement doué.
 
-**[Base (sociaux)](./Traits de base.md#LESTRAITSSOCIAUX).**
+**[[Traits de base#LESTRAITSSOCIAUX|Base (sociaux)]].**
 Collectionneur,
 Entrepreneur de Brastelwark,
 Étymologiste,
@@ -1283,40 +1283,40 @@ Traduit et publié en français par Black Book Editions sous le nom de Gobelins 
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat.
 <div class="article_3col">
-[Brûle ! Brûle ! Brûle !](./Crame ! Crame ! Crame !.md) (modifié),
-[Bruyant encouragement de la monture](./Bruyant encouragement de la monture.md)*,
-[Chantre de guerre](./Chantre de guerre.md),
-[Commandement en base arrière](./Commandement en base arrière.md)*,
-[Distraction en combat](./Distraction en combat.md),
-[Haine des lettres](./Haine des lettres.md),
-[Morsure à la cheville](./Morsure à la cheville.md)*,
-[Roulade gobeline](./Roulade gobeline.md)*,
-[Tueur de chiens, chasseur de chevaux](./Tueur de chiens, chasseur de chevaux.md),
-[Vandale](./Vandale.md).
+[[Crame ! Crame ! Crame !|Brûle ! Brûle ! Brûle !]] (modifié),
+[[Bruyant encouragement de la monture]]*,
+[[Chantre de guerre]],
+[[Commandement en base arrière]]*,
+[[Distraction en combat]],
+[[Haine des lettres]],
+[[Morsure à la cheville]]*,
+[[Roulade gobeline]]*,
+[[Tueur de chiens, chasseur de chevaux]],
+[[Vandale]].
 </div>
 
 
 ### Équipement
 #### Équipement d'aventurier
 <div class="article_3col">
-[Chausse-trappes (vicieuses)](./Équipement daventurier.md#Chausse-trappes vicieuses),
-[Lime à croc](./Équipement daventurier.md#Lime à croc),
-[Objet bricolé](./Équipement daventurier.md#Objet bricolé).
+[[Équipement daventurier#Chausse-trappes vicieuses|Chausse-trappes (vicieuses)]],
+[[Équipement daventurier#Lime à croc|Lime à croc]],
+[[Équipement daventurier#Objet bricolé|Objet bricolé]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Nourriture et boissons====</div>
 <div class="article_3col">
-[Marinades gobelines (1 bocal)](./Nourriture et Boissons.md#Marinades gobelines).
+[[Nourriture et boissons#Marinades gobelines|Marinades gobelines (1 bocal)]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Outils de compétences====</div>
 <div class="article_3col">
-[Cornet à feu](./Cornet à feu (objet).md),
-[Fétiche tribal](./Fétiche tribal (objet).md),
-[Gant de jet](./Gant de jet (objet).md),
-[Graisse de porc](./Graisse de porc (objet).md).
+[[Cornet à feu (objet)|Cornet à feu]],
+[[Fétiche tribal (objet)|Fétiche tribal]],
+[[Gant de jet (objet)|Gant de jet]],
+[[Graisse de porc (objet)|Graisse de porc]].
 </div>
 
 
@@ -1324,34 +1324,34 @@ Les dons marqués d'un astérisque (*) sont des dons de combat.
 #### Objets merveilleux
 <div class="article_3col">
 **Aucun (sans emplacement).**
-[Braise bondissante](./Braise bondissante.md),
-[Pierre réparatrice](./Pierre réparatrice.md),
-[Poche explosive](./Poche explosive.md),
-[Sifflet à chien dévastateur](./Sifflet à chien dévastateur.md).
+[[Braise bondissante]],
+[[Pierre réparatrice]],
+[[Poche explosive]],
+[[Sifflet à chien dévastateur]].
 </div>
 
 
 ### Options de classe
 #### Sous-domaines
 <div class="article_3col">
-[Épaves (Eau)](./Domaine de lEau.md#Sous-domaines_1),
-[Esclavagisme (Loi)](./Domaine de la Loi.md#Sous-domaines_1),
-[Incendies (Feu)](./Domaine du Feu.md#Sous-domaines_1),
-[Torture (Destruction)](./Domaine de la Destruction.md#Sous-domaines_1).
+[[Domaine de lEau#Sous-domaines_1|Épaves (Eau)]],
+[[Domaine de la Loi#Sous-domaines_1|Esclavagisme (Loi)]],
+[[Domaine du Feu#Sous-domaines_1|Incendies (Feu)]],
+[[Domaine de la Destruction#Sous-domaines_1|Torture (Destruction)]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Éternuement de feu](./Éternuement de feu.md),
-[Fouet affaiblissant](./Fouet affaiblissant.md),
-[Rature](./Rature.md),
+[[Éternuement de feu]],
+[[Fouet affaiblissant]],
+[[Rature]],
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Raciaux](./Traits de race.md).**
+**[[Traits de race|Raciaux]].**
 Chants grossiers (Gobelins),
 Distraction avantageuse (Gobelins),
 Élastique (Gobelins),
@@ -1364,13 +1364,13 @@ Tête de ballon (Gobelin),
 Tête de porc (Gobelins),
 Voleur caméléon (Gobelins).
 
-**[Régionaux](./Traits régionaux.md).**
+**[[Traits régionaux|Régionaux]].**
 Défenseur du genre gobelin (Esclave de l’Empire diabolique),
 Maître des falaises (Terres sauvages),
 Pirate gobelin (Îles pirates),
 Singe gobelin (Repaire des assassins pourpres).
 
-**[Religieux](./Traits religieux.md).**
+**[[Traits religieux|Religieux]].**
 Dents de la Mère (Lamashtu),
 Faim énergisante (Venkelvore),
 Force du barghest (Hardregash),
@@ -1386,62 +1386,62 @@ Traduit et publié en français par Black Book Editions sous le nom de Halfelins
 
 ### Classes de prestige
 <div class="article_3col">
-[Opportuniste halfelin](./Opportuniste halfelin.md).
+[[Opportuniste halfelin]].
 </div>
 
 
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat et ceux marqués d'un M sont des dons de métamagie.
 <div class="article_3col">
-[Alchimie maudite](./Alchimie maudite.md),
-[Frondeur-fouetteur](./Frondeur-fouetteur.md)*,
-[Frondeur halfelin](./Frondeur halfelin.md)*,
-[Grande cible](./Grande cible.md)*,
-[Lâcher de munition](./Lâcher de munition.md)*,
-[Malédiction arcanique](./Malédiction arcanique.md),
-[Malédiction d’apathie](./Malédiction dapathie.md),
-[Malédiction de fascination](./Malédiction de fascination.md),
-[Malédiction de zone](./Malédiction de zone.md),
-[Malédiction du pire](./Malédiction du pire.md),
-[Malédiction étendue](./Malédiction étendue.md),
-[Malédiction renforcée](./Malédiction renforcée.md),
-[Œil malveillant](./Œil malveillant.md),
-[Porte-poisse versatile](./Porte-poisse versatile.md),
-[Rechargement acrobatique](./Rechargement acrobatique.md)*,
-[Sort maudit](./Sort maudit.md)<sup>M</sup>.
+[[Alchimie maudite]],
+[[Frondeur-fouetteur]]*,
+[[Frondeur halfelin]]*,
+[[Grande cible]]*,
+[[Lâcher de munition]]*,
+[[Malédiction arcanique]],
+[[Malédiction dapathie|Malédiction d’apathie]],
+[[Malédiction de fascination]],
+[[Malédiction de zone]],
+[[Malédiction du pire]],
+[[Malédiction étendue]],
+[[Malédiction renforcée]],
+[[Œil malveillant]],
+[[Porte-poisse versatile]],
+[[Rechargement acrobatique]]*,
+[[Sort maudit]]<sup>M</sup>.
 </div>
 
 
 ### Équipement
 #### Armes
 <div class="article_3col">
-[Double fronde](./double fronde (arme).md),
-[Fronde piquée](./fronde piquée (arme).md),
-[Petites pierres-étoiles (10)](./petites pierres-étoiles (arme).md),
-[Pierres à pointes (10)](./pierres à pointes (arme).md),
-[Pierres-éponges (10)](./pierres-éponges (arme).md),
-[Pierres-pelotes (10)](./pierres-pelotes (arme).md).
+[[double fronde (arme)|Double fronde]],
+[[fronde piquée (arme)|Fronde piquée]],
+[[petites pierres-étoiles (arme)|Petites pierres-étoiles (10)]],
+[[pierres à pointes (arme)|Pierres à pointes (10)]],
+[[pierres-éponges (arme)|Pierres-éponges (10)]],
+[[pierres-pelotes (arme)|Pierres-pelotes (10)]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 #### Nourriture et boissons
 <div class="article_3col">
-[Bière Pattefolle](./Nourriture et Boissons.md#Bière Pattefolle),
-[Punch de dragon au whisky](./Nourriture et Boissons.md#Punch de dragon au whisky),
-[Tonique médicinal de Lisken](./Nourriture et Boissons.md#Tonique médicinal de Lisken).
+[[Nourriture et boissons#Bière Pattefolle|Bière Pattefolle]],
+[[Nourriture et boissons#Punch de dragon au whisky|Punch de dragon au whisky]],
+[[Nourriture et boissons#Tonique médicinal de Lisken|Tonique médicinal de Lisken]].
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Raciaux](./Traits de race.md).**
+**[[Traits de race|Raciaux]].**
 Instruit (Halfelins),
 Parfait serviteur (Halfelins),
 Passager providentiel (Halfelins),
 Pique-assiette (Halfelins),
 Serviable (Halfelins).
 
-**[Régionaux](./Traits régionaux.md).**
+**[[Traits régionaux|Régionaux]].**
 Bricoleur d’Isger (Esclave de l’Empire diabolique),
 Danseur du crépuscule (État serviteur de l’Ombre),
 Égalité pour tous (Berceau de la liberté),
@@ -1451,7 +1451,7 @@ Libération légaliste (Contrée expansionniste, Terre des pharaons),
 Petit appétit (Terre des pharaons, Terres sauvages),
 Rebelle du peuple (Révolution éternelle).
 
-**[Religieux](./Traits religieux.md).**
+**[[Traits religieux|Religieux]].**
 Abnégation (Shélyn),
 Appel à l’aide (Chaldira Zuzaristan),
 Imbibé de poison (Norgorber),
@@ -1466,7 +1466,7 @@ Sens de l’ordre (Abadar).
 
 ### Traits raciaux alternatifs
 <div class="article_3col">
-**[Halfelins](./Halfelin.md).**
+**[[Halfelin|Halfelins]].**
 Porte-poisse halfelin.
 </div>
 
@@ -1478,17 +1478,17 @@ Traduit et publié en français par Black Book Editions sous le nom de Humains d
 
 ### Sorts
 <div class="article_3col">
-[Adaptation culturelle](./Adaptation culturelle.md) (modifié),
-[Arc brûlant](./Arc brûlant.md),
-[Convocation de créature totémique](./Convocation de créature totémique.md),
-[Façonnage de la neige](./Façonnage de la neige.md),
-[Sphère de protection](./Sphère de protection.md).
+[[Adaptation culturelle]] (modifié),
+[[Arc brûlant]],
+[[Convocation de créature totémique]],
+[[Façonnage de la neige]],
+[[Sphère de protection]].
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Raciaux](./Traits de race.md).**
+**[[Traits de race|Raciaux]].**
 Affliction animale (ulfe),
 Arpenteur des glaces (kellide),
 Avocat désinvolte (chélaxien),
@@ -1523,50 +1523,50 @@ Traduit et publié en français par Black Book Editions sous le nom de Nains de 
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat.
 <div class="article_3col">
-[Frappe de la vipère jaillissante](./Frappe de la vipère jaillissante.md),
-[Lancer de hache coulissante](./Lancer de hache coulissante.md),
-[Maîtrise de la dorn-dergar](./Maîtrise de la dorn-dergar.md)*,
-[Marteau bondissant](./Marteau bondissant.md)*,
-[Position du xorn](./Position du xorn.md)*.
+[[Frappe de la vipère jaillissante]],
+[[Lancer de hache coulissante]],
+[[Maîtrise de la dorn-dergar]]*,
+[[Marteau bondissant]]*,
+[[Position du xorn]]*.
 </div>
 
 
 ### Équipement
 #### Armes
 <div class="article_3col">
-[Dorn-dergar naine](./dorn-dergar naine (arme).md).
+[[dorn-dergar naine (arme)|Dorn-dergar naine]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Assaut concerté](./Assaut concerté.md),
-[Communion ancestrale](./Communion ancestrale.md),
-[Convocation de gardien ancestral](./Convocation de gardien ancestral.md),
-[Don ancestral](./Don ancestral.md),
-[Force décuplée](./Force décuplée.md),
-[Formation tactique](./Formation tactique.md),
-[Œil vigilant](./Œil vigilant.md),
-[Pourparlers du Faiseur de paix](./Pourparlers du Faiseur de paix.md),
-[Repos revigorant](./Repos revigorant.md),
-[Rune de protection](./Rune de protection.md),
-[Rune de solidité](./Rune de solidité.md),
-[Sanglantes représailles](./Sanglantes représailles.md),
-[Serment de justice](./Serment de justice.md),
-[Vision à travers la pierre](./Vision à travers la pierre.md),
-[Voile nain](./Voile nain.md).
+[[Assaut concerté]],
+[[Communion ancestrale]],
+[[Convocation de gardien ancestral]],
+[[Don ancestral]],
+[[Force décuplée]],
+[[Formation tactique]],
+[[Œil vigilant]],
+[[Pourparlers du Faiseur de paix]],
+[[Repos revigorant]],
+[[Rune de protection]],
+[[Rune de solidité]],
+[[Sanglantes représailles]],
+[[Serment de justice]],
+[[Vision à travers la pierre]],
+[[Voile nain]].
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Base (magie)](./Traits de base.md#LESTRAITSDEMAGIE).**
+**[[Traits de base#LESTRAITSDEMAGIE|Base (magie)]].**
 Force de la terre,
 Forgeron émérite,
 Gardien des profondeurs,
 Lien tellurique.
 
-**[Raciaux](./Traits de race.md).**
+**[[Traits de race|Raciaux]].**
 Combattant enthousiaste (Nains),
 Équilibré (Nains),
 Forgeron de guerre (Nains),
@@ -1576,7 +1576,7 @@ Lucide (Nains),
 Marque profonde (Nains),
 Renifleur d’or (Nains).
 
-**[Régionaux](./Traits régionaux.md).**
+**[[Traits régionaux|Régionaux]].**
 Économe (Frontière de l'Esprit),
 Gloire du passé (montagnes des rois nains),
 Habitué au froid (Royaume glacé des vikings),
@@ -1584,7 +1584,7 @@ Persévérant (montagnes des rois nains)),
 Poète combattant (Royaume glacé des vikings),
 Sanguin (Frontière de l'Esprit).
 
-**[Religieux](./Traits religieux.md).**
+**[[Traits religieux|Religieux]].**
 Artisan consciencieux (Droskar),
 Gardien de la forge (Torag),
 Lanceur de sorts combattant (Angradd, Gorum, Torag, Trudd),
@@ -1602,41 +1602,41 @@ Traduit et publié en français par Black Book Editions sous le nom de Nains de 
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat et ceux marqués d'un E sont des dons d'équipe.
 <div class="article_3col">
-[Bénédiction du Destructeur](./Bénédiction du destructeur.md)* (modifié),
-[Bénédiction du Dieu du feu](./Bénédiction du Dieu du feu.md),
-[Canalisation de l’adepte](./Canalisation de ladepte.md),
-[Férocité tenace](./Ténacité féroce.md)* (modifié),
-[Fiélon sanguinaire](./Fiélon sanguinaire.md),
-[Frisson du carnage](./Frisson de la mort.md) (modifié),
-[Lutteur brutal](./Lutteur brutal.md)*<sup>E</sup>,
-[Rage amplifiée](./Rage amplifiée.md)<sup>E</sup>,
-[Rage du chef de guerre](./Rage du chef de guerre.md),
-[Rage sympathisante](./Rage empathique.md)* (modifié),
-[Vengeance sanglante](./Vengeance sanguinaire.md) (modifié).
+[[Bénédiction du Destructeur]]* (modifié),
+[[Bénédiction du Dieu du feu]],
+[[Canalisation de ladepte|Canalisation de l’adepte]],
+[[Ténacité féroce|Férocité tenace]]* (modifié),
+[[Fiélon sanguinaire]],
+[[Frisson de la mort|Frisson du carnage]] (modifié),
+[[Lutteur brutal]]*<sup>E</sup>,
+[[Rage amplifiée]]<sup>E</sup>,
+[[Rage du chef de guerre]],
+[[Rage empathique|Rage sympathisante]]* (modifié),
+[[Vengeance sanguinaire|Vengeance sanglante]] (modifié).
 </div>
 
 
 ### Options de classe
 #### Lignages d'ensorceleur
 <div class="article_3col">
-[Orque](./lignage Orque.md).
+[[Lignage Orque|Orque]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Cœur de l’ennemi](./Cœur-de-lennemi.md) (modifié),
-[Immolation spontanée](./Immolation spontanée.md) (modifié),
-[Loup fantôme](./loup fantomatique.md),
-[Protection de la bannière](./Protection de la bannière.md),
-[Rage sanguinaire](./Rage sanguinaire.md),
-[Vigueur](./sort Vigueur.md).
+[[Cœur de lennemi|Cœur de l’ennemi]] (modifié),
+[[Immolation spontanée]] (modifié),
+[[Loup fantomatique|Loup fantôme]],
+[[Protection de la bannière]],
+[[Rage sanguinaire]],
+[[sort Vigueur|Vigueur]].
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Raciaux](./Traits de race.md).**
+**[[Traits de race|Raciaux]].**
 Borgne (Orques),
 Chevaucheur de bêtes (Orques),
 Combattant vicieux (Orques),
@@ -1651,7 +1651,7 @@ Particulièrement affreux (Orques),
 Rage tempétueuse (Orques),
 Tribal (Orques).
 
-**[Régionaux](./Traits régionaux.md).**
+**[[Traits régionaux|Régionaux]].**
 Briseur de lignes (Terres des Féroces),
 Cuit par le soleil (n’importe quelle région désertique),
 Dominant (Terres des Féroces),
@@ -1659,7 +1659,7 @@ Dresseur de mammouths (Terres des Féroces et Terre perdue du nord),
 Intrépide (Landes lugubres),
 Nageur endurant (Royaumes indépendants).
 
-**[Religieux](./Traits religieux.md).**
+**[[Traits religieux|Religieux]].**
 Bénédiction cannibale (Zura),
 Cogneur sacré (Rovagug),
 Fureur (Rovagug),

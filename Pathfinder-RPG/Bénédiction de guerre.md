@@ -10,8 +10,8 @@ Categories:
 
 {s:mca}*Le personnage lance un appel si fervent à sa divinité qu’elle lui accorde une bénédiction temporaire.*
 
-**Conditions.** Pouvoir de classe [mystère](./Oracle.md#MYSTERE) ou pouvoir de classe [domaine](./Prêtre.md#DOMAINE).
+**Conditions.** Pouvoir de classe [[Oracle#MYSTERE|mystère]] ou pouvoir de classe [[Prêtre#DOMAINE|domaine]].
 
 **Avantage.** Le personnage choisit deux bénédictions de prêtre combattant lorsqu’il prend ce don. Chacune d’elles doit être liée à un domaine que sa divinité lui accorde ou à l’un des deux domaines qui représentent ses pouvoirs et penchants spirituels.
 
-Deux fois par jour, le personnage peut en appeler à la bénédiction mineure de l’une ou l’autre des bénédictions choisies. Ce pouvoir fonctionne autrement comme le pouvoir de classe du [prêtre combattant](./Prêtre combattant.md) [bénédictions](./Bénédictions.md). Le niveau effectif de prêtre combattant du personnage est égal au plus haut niveau qu’il possède dans la classe possédant le pouvoir de classe mystère ou domaine.
+Deux fois par jour, le personnage peut en appeler à la bénédiction mineure de l’une ou l’autre des bénédictions choisies. Ce pouvoir fonctionne autrement comme le pouvoir de classe du [[prêtre combattant]] [[bénédictions]]. Le niveau effectif de prêtre combattant du personnage est égal au plus haut niveau qu’il possède dans la classe possédant le pouvoir de classe mystère ou domaine.

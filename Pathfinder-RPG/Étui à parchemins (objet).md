@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Un étui à parchemin en cuir ou en bois peut accueillir jusqu'à 4 parchemins. Le personnage peut en mettre davantage dedans mais il lui faut une [action complexe](./Action complexe.md) pour en récupérer un plutôt qu'une [action de mouvement](./Action de mouvement.md). Le personnage doit détruire l'étui à parchemin pour endommager son contenu ([solidité](./solidité.md) 2 pour le cuir ou 5 pour le bois, 2 points de vie, [DD](./DD.md) 15 pour le briser). Les étuis à parchemins ne sont pas étanches et doivent être protégés des éléments.
+Un étui à parchemin en cuir ou en bois peut accueillir jusqu'à 4 parchemins. Le personnage peut en mettre davantage dedans mais il lui faut une [[action complexe]] pour en récupérer un plutôt qu'une [[action de mouvement]]. Le personnage doit détruire l'étui à parchemin pour endommager son contenu ([[solidité]] 2 pour le cuir ou 5 pour le bois, 2 points de vie, [[DD]] 15 pour le briser). Les étuis à parchemins ne sont pas étanches et doivent être protégés des éléments.

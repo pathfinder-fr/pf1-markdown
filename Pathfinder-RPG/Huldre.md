@@ -10,7 +10,7 @@ LastModified: 2017-03-19 11:32
 {s:pucem|Fée|Forêt-Jungle|Froid}
 {s:BDTexte|*Source : Bestiaire 4 page 145*}
 - **1 200 PX**
-- [Créature féerique](./type Fée.md) de taille M, CN
+- [[type fée|Créature féerique]] de taille M, CN
 - **Init **+3 ; **Sens **vision dans le noir à 18 m, détection des collets et des fosses, vision nocturne, odorat ; Perception +12
 (((Défense)))
 - **CA **17, contact 14, pris au dépourvu 13 (Dex +3, esquive +1, naturelle +3)
@@ -22,14 +22,14 @@ LastModified: 2017-03-19 11:32
 - **Corps à corps** coup, +7 (1d6+4) et coup de queue, +7 (1d6+4 plus affaiblissement temporaire de 1d4 Cha)
 - **Attaques spéciales** queue flagellante, manipulation de la chance
 - **Pouvoirs magiques** (**NLS **4 ; concentration +8)
-  - *Constant* — [détection des collets et des fosses](./Détection des collets et des fosses.md), [endurance aux énergies destructives](./Endurance aux énergies destructives.md), [passage sans trace](./passage sans trace.md)
-  - *3/jour* — [charme-personne](./Charme-personne.md) (DD 15), [façonnage du bois](./Façonnage du bois.md), [hébétement de monstre](./Hébétement de monstre.md) (DD 16)
-  - *1/jour* — [sommeil profond](./Sommeil profond.md) (DD 17)
+  - *Constant* — [[détection des collets et des fosses]], [[endurance aux énergies destructives]], [[passage sans trace]]
+  - *3/jour* — [[charme-personne]] (DD 15), [[façonnage du bois]], [[hébétement de monstre]] (DD 16)
+  - *1/jour* — [[sommeil profond]] (DD 17)
 (((Statistiques)))
 - **For **19, **Dex **17, **Con **14, **Int **12, **Sag** 14, **Cha **19
 - **BBA **+3 ; **BMO **+7 ; **DMD **21
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Esquive](./Esquive.md), [Fourberie](./Fourberie.md), [Souplesse du serpent](./Souplesse du serpent.md)
-- **Compétences **[Bluff](./Bluff.md) +16, [Connaissances](./Connaissances.md) (nature) +11, [Déguisement](./Déguisement.md) +16, [Discrétion](./Discrétion.md) +13, [Évasion](./Évasion.md) +13, [Perception](./Perception.md) +12, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +14
+- **Dons **[[Attaque en puissance]], [[Esquive]], [[Fourberie]], [[Souplesse du serpent]]
+- **Compétences **[[Bluff]] +16, [[Connaissances]] (nature) +11, [[Déguisement]] +16, [[Discrétion]] +13, [[Évasion]] +13, [[Perception]] +12, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +14
 - **Langues **commun, géant, sylvestre
 (((Écologie)))
 - **Environnement **forêts ou montagnes froides

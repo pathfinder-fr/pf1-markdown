@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Modificateurs de combat#PRISEENTENAILLE
 ---
 
->>> [Modificateurs de combat#PRISEENTENAILLE](./Modificateurs de combat.md#PRISEENTENAILLE)
+>>> [[Modificateurs de combat#PRISEENTENAILLE]]

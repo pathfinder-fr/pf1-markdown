@@ -9,7 +9,7 @@ Categories:
 
 <table class="Bestiaire"><tr><td><div class="BD">{s:BDtitre|CHEVELURE ANIMÉE|FP 1}
 {s:BDtexte|**PX** 200}
-{s:BDtexte|[Vase](./type Vase.md) de taille TP, NM}
+{s:BDtexte|[[type Vase|Vase]] de taille TP, NM}
 {s:BDtexte|**Init** +4 ; **Sens** vision aveugle 18 m, test}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)}
@@ -25,10 +25,10 @@ Categories:
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 10, **Dex** 13, **Con** 12, **Int** 6, **Sag** 13, **Cha** 15}
 {s:BDtexte|**BBA** 1, **BMO** -1 (+1 en lutte), **DMD** 10 (12 contre la lutte, croc-en-jambe impossible)}
-{s:BDtexte|**Dons** Science de l’initiative, [Science de la lutte](./Science de la lutte.md)}
-{s:BDtexte|**Compétences** [Déguisement](./Déguisement.md) +4, [Escalade](./Escalade.md) +8 ; **Modificateurs raciaux** +4 en Déguisement en perruque}
+{s:BDtexte|**Dons** Science de l’initiative, [[Science de la lutte]]}
+{s:BDtexte|**Compétences** [[Déguisement]] +4, [[Escalade]] +8 ; **Modificateurs raciaux** +4 en Déguisement en perruque}
 {s:BDtexte|**Langues** commun (ne peut pas parler) ; empathie}
-{s:BDtexte|**Particularités** [compression](./Compression.md), [ne respire pas](./ne-respire-pas.md)}
+{s:BDtexte|**Particularités** [[compression]], [[ne respire pas]]}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** villes}
 {s:BDtexte|**Organisation sociale** solitaire ou emmêlement (2-6)}

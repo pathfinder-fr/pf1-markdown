@@ -15,23 +15,23 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([création](./../Création.md)) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 1, [Spi](./Spirite.md) 1  
+**École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (un morceau de cuir tanné)  
+**Composantes** [[COMPOSANTES|V, G, F]] (un morceau de cuir tanné)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 heure/[niveau](./niveau.md) (T)  
+**Durée** 1 heure/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non
 
-Ce sort entoure le sujet d’un champ de force invisible mais tangible qui lui octroie un bonus d’armure de +4 à la [CA](./CA.md).
+Ce sort entoure le sujet d’un champ de force invisible mais tangible qui lui octroie un bonus d’armure de +4 à la [[CA]].
 
-Contrairement à une armure normale, une *armure de mage* ne donne pas de pénalité d’armure, de risque d’échec des sorts profanes ou de réduction de la [vitesse de déplacement](./vitesse de déplacement.md). Cette protection étant constituée de force, les créatures [intangibles](./Intangible.md) sont incapables de passer au travers comme elles le font pour les armures physiques.
+Contrairement à une armure normale, une *armure de mage* ne donne pas de pénalité d’armure, de risque d’échec des sorts profanes ou de réduction de la [[vitesse de déplacement]]. Cette protection étant constituée de force, les créatures [[Intangible|intangibles]] sont incapables de passer au travers comme elles le font pour les armures physiques.
 
 ### Mythique
 {s:CMy}

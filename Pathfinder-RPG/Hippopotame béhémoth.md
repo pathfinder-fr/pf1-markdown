@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 2 p.165*}
 {s:BDTexte|**PX** 9600}
-{s:BDTexte|[Animal](./type Animal.md) de taille TG, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 7, pris au dépourvu 23 (Dex -1, naturelle +16, taille -2)}
 {s:BDTexte|**pv** 133 (14d8+70)}
@@ -24,13 +24,13 @@ Categories:
 {s:BDTexte|**VD** 15 m (10 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +17 (4d8+13 / 19-20 plus étreinte)}
 {s:BDTexte|**Espace** 4,5 m (3 {s:c}) ; **Allonge** 4,5 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [piétinement](./Piétinement (capacité).md) (2d6+13; DD 26), renversement de navires}
+{s:BDTexte|**Attaques spéciales** [[piétinement (capacité)|piétinement]] (2d6+13; DD 26), renversement de navires}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 29, **Dex** 8, **Con** 20, **Int** 2, **Sag** 13, **Cha** 5}
 {s:BDTexte|**BBA** +10, **BMO** +21 (+25 en lutte), **DMD** 30 (34 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Science de l'initiative](./Science de linitiative.md), [Sciences du critique (morsure)](./Science du critique.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de Fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +2 (+12 sous l'eau), [Natation](./Natation.md) +13, [Perception](./Perception.md) +12}
-{s:BDTexte|<b>Particularités</b> [retenir son souffle](./Retenir son souffle (capacité).md) ; <b>Modificateurs raciaux</b> +10 en Discrétion sous l'eau}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Dur à cuire]], [[Endurance]], [[Science de linitiative|Science de l'initiative]], [[Science du critique|Sciences du critique (morsure)]], [[Talent]] ([[Perception]]), [[Volonté de Fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +2 (+12 sous l'eau), [[Natation]] +13, [[Perception]] +12}
+{s:BDTexte|<b>Particularités</b> [[retenir son souffle (capacité)|retenir son souffle]] ; <b>Modificateurs raciaux</b> +10 en Discrétion sous l'eau}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** rivières chaudes}
 {s:BDTexte|**Organisation sociale** solitaire ou groupe (2-8)}

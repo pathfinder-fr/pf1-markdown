@@ -6,7 +6,7 @@ Categories:
 - Conversion
 ---
 
-Nous vous proposons des documents aidant les MJ à maitriser le scénario [http://www.pathfinder-fr.org/wiki/Aventures.Pr%C3%A9sentation%20modules.ashx#E1|E1 - La foire aux larmes]. Vous trouverez une table récapitulative des lieux qu'explorent les PJ et une chronologie des évènements se déroulant dans la journée. Vous trouverez également, les fiches des rencontres converties en Pathfinder.
+Nous vous proposons des documents aidant les MJ à maitriser le scénario [E1 - La foire aux larmes](http://www.pathfinder-fr.org/wiki/Aventures.Pr%C3%A9sentation%20modules.ashx#E1). Vous trouverez une table récapitulative des lieux qu'explorent les PJ et une chronologie des évènements se déroulant dans la journée. Vous trouverez également, les fiches des rencontres converties en Pathfinder.
 
 ### Fiche guide
 Vous pouvez utiliser la fiche guide comme un mémo permettant de retracer le passage des PJ dans la foire, lors de la première partie du scénario.
@@ -19,7 +19,7 @@ Descriptif des colonnes :
 - **Lieu** : Le nom du lieu.
 - **Rencontre**: PNJ ayant des statistiques et pouvant être impliqués dans un affrontement avec les PJ, bien que dans ce scénario la majorité d'entre eux ne sont pas des ennemis.
 - **#** : Le nombre des PNJ
-- **FP** : [++Pathfinder-RPG.Rencontres|Facteur de Puissance] des PNJ
+- **FP** : [[Pathfinder-RPG.Rencontres|Facteur de Puissance]] des PNJ
 - **Vertu** : Le nombre de points de vertu que les PJ peuvent gagner sur ce lieu
 - **B.A.** : L'action qui permet de gagner les points de vertu
 - **Visité ?** : Case à cocher pour déterminer si le lieu a été exploré par les PJ.
@@ -42,7 +42,7 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 |-
 | 1
 | Entrée
-| [++Aventures.Conversion E1#Forain_0|Forains]
+| [[Aventures.Conversion E1#Forain_0|Forains]]
 | 2
 | 1
 | 2
@@ -51,7 +51,7 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 |-
 | 2
 | Course traineaux
-| [++Aventures.Conversion E1#Sculpteur_gelé_1|Sculpteurs gelés]
+| [[Aventures.Conversion E1#Sculpteur_gelé_1|Sculpteurs gelés]]
 | 2
 | 4
 | 2
@@ -60,7 +60,7 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 |-
 | 3
 | Ménagerie
-| [++Pathfinder-RPG.Homoncule|Homoncule]
+| [[Pathfinder-RPG.Homoncule|Homoncule]]
 | 1
 | 1
 | 0
@@ -69,7 +69,7 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 |-
 | 3
 | Ménagerie
-| Suture ([++Aventures.Conversion E1#Forain_0|forain])
+| Suture ([[Aventures.Conversion E1#Forain_0|forain]])
 | 1
 | 1
 | 0
@@ -78,7 +78,7 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 |-
 | 3
 | Ménagerie
-| Homme poisson ([++Aventures.Conversion E1#Forain_0|forain])
+| Homme poisson ([[Aventures.Conversion E1#Forain_0|forain]])
 | 1
 | 1
 | 0
@@ -87,7 +87,7 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 |-
 | 3
 | Ménagerie
-| [++Aventures.Conversion E1#Torve_2|Torves]
+| [[Aventures.Conversion E1#Torve_2|Torves]]
 | 2
 | 1
 | 0
@@ -96,7 +96,7 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 |-
 | 3
 | Ménagerie
-| Obèse ([++Aventures.Conversion E1#Forain_0|forain])
+| Obèse ([[Aventures.Conversion E1#Forain_0|forain]])
 | 1
 | 1
 | 0
@@ -105,7 +105,7 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 |-
 | 3
 | Ménagerie
-| Udmor ([++Pathfinder-RPG.Ettin|Ettin])
+| Udmor ([[Pathfinder-RPG.Ettin|Ettin]])
 | 1
 | 6
 | 0
@@ -136,12 +136,12 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 | 1
 | 1
 | 1
-|  class="gauche"  |  Maitriser Jasell avec [++Pathfinder-RPG.Blessures et mort|dégâts non létaux] uniquement
+|  class="gauche"  |  Maitriser Jasell avec [[Pathfinder-RPG.Blessures et mort|dégâts non létaux]] uniquement
 | o/n
 |-
 | 7
 | Peep show
-| Kroig Menottes ([++Pathfinder-RPG.Orque|orque])
+| Kroig Menottes ([[Pathfinder-RPG.Orque|orque]])
 | 1
 | 1
 | 0
@@ -150,7 +150,7 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 |-
 | 7a
 | Peep show intérieur
-| Gardes [++Pathfinder-RPG.Orque|orque]
+| Gardes [[Pathfinder-RPG.Orque|orque]]
 | 4
 | 1
 | 0
@@ -159,7 +159,7 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 |-
 | 7b
 | Antre Kabran
-| [++Aventures.Conversion E1#Kabran_Oeil-Sanglant_3|Kabran Oeil-Sanglant]
+| [[Aventures.Conversion E1#Kabran_Oeil-Sanglant_3|Kabran Oeil-Sanglant]]
 | 1
 | 7
 | 5
@@ -240,7 +240,7 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 |-
 | 15
 | Sculptures de glace
-| [++Aventures.Conversion E1#Sculpteur_gelé_1|Sculpteurs gelés]
+| [[Aventures.Conversion E1#Sculpteur_gelé_1|Sculpteurs gelés]]
 | 3
 | 4
 | 0
@@ -336,7 +336,7 @@ Durant la foire ces mini jeux sont là pour distraire les PJ et faire ressentir 
 | Changeuse de destin tsigane
 | 1 po ou 100 po
 | class="gauche" | Pour **1 po** : tirage de carte avec issue fatale{br}Pour **100 po** : sort de protection de la peur du PJ
-| class="gauche" | Si **100 po** : lorsque le PJ quitte la tente, la tsigane{br}donne une baguette de [fracassement](./../Pathfinder-RPG/Fracassement.md){br}en fer froid (35/50, NLS3)
+| class="gauche" | Si **100 po** : lorsque le PJ quitte la tente, la tsigane{br}donne une baguette de [[Pathfinder-RPG.Fracassement|fracassement]]{br}en fer froid (35/50, NLS3)
 |-
 | Le lancer d'anneaux
 | x pa
@@ -382,20 +382,20 @@ Elles sont présentées selon leur ordre d'apparition dans la Fiche guide ci-des
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For **8, **Dex **11, **Con **10, **Int **10, **Sag **9, **Cha **12}
 {s:BDTexte|**BBA **+1 ; **BMC **+0 ; **DMD **11}
-{s:BDTexte|**Dons **[Science du combat à mains nues](./../Pathfinder-RPG/Science du combat à mains nues.md), [Doigts de féé](./../Pathfinder-RPG/Doigts de fée.md), [Talent](./../Pathfinder-RPG/Talent.md)(Bluff)}
-{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md)+5, [Bluff](./../Pathfinder-RPG/Bluff.md)+8,[Diplomatie](./../Pathfinder-RPG/Diplomatie.md)+5, [Escalade](./../Pathfinder-RPG/Escalade.md)+4,{br}[Escamotage](./../Pathfinder-RPG/Escamotage.md)+7, [Evasion](./../Pathfinder-RPG/Évasion.md)+4, [Représentation](./../Pathfinder-RPG/Représentation.md)+6, [Sabotage](./../Pathfinder-RPG/Sabotage.md)+6}
+{s:BDTexte|**Dons **[[Pathfinder-RPG.Science du combat à mains nues|Science du combat à mains nues]], [[Pathfinder-RPG.Doigts de fée|Doigts de féé]], [[Pathfinder-RPG.Talent|Talent]](Bluff)}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Acrobaties|Acrobaties]]+5, [[Pathfinder-RPG.Bluff|Bluff]]+8,[[Pathfinder-RPG.Diplomatie|Diplomatie]]+5, [[Pathfinder-RPG.Escalade|Escalade]]+4,{br}[[Pathfinder-RPG.Escamotage|Escamotage]]+7, [[Pathfinder-RPG.Évasion|Evasion]]+4, [[Pathfinder-RPG.Représentation|Représentation]]+6, [[Pathfinder-RPG.Sabotage|Sabotage]]+6}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Équipement** dague ou gourdin, +50% de chance d'un des objets suivants en lançant **1d8**: **1.** une corde de 6m; **2.** un marteau et 10 clous; **3.** un seau **4.** une perche de 3m, **5.** un pied de biche; **6.** une échelle de 3m; **7.** une masse; **8.** une pelle}
 {br}
-issu de [http://paizo.com/products/btpy80op?GameMastery-Module-E1-Carnival-of-Tears|GameMastery Module E1: Carnival of Tears], Copyright 2007 Paizo Publishing, LLC. Authors: Tim Hitchcock and Nicolas Logue.
+issu de [GameMastery Module E1: Carnival of Tears](http://paizo.com/products/btpy80op?GameMastery-Module-E1-Carnival-of-Tears), Copyright 2007 Paizo Publishing, LLC. Authors: Tim Hitchcock and Nicolas Logue.
 </div>
 
 #### Sculpteur gelé
 <div class="BD">
 {s:BDTitre|Sculpteur gelé|FP 4}
 {s:BDTexte|PX 1200}
-{s:BDTexte|[Fée](./../Pathfinder-RPG/type Fée.md) ([Froid](./../Pathfinder-RPG/sous-type froid.md)) de taille P, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision nocturne](./../Pathfinder-RPG/vision nocturne.md), **Perception** +7}
+{s:BDTexte|[[Pathfinder-RPG.type Fée|Fée]] ([[Pathfinder-RPG.sous-type froid|Froid]]) de taille P, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[Pathfinder-RPG.vision nocturne|vision nocturne]], **Perception** +7}
 {s:BDSousTitre|Capacités défensives}
 {s:BDTexte|**CA** 21, contact 17, dépourvu 15 (dex+6, naturelle+4, taille+1) }
 {s:BDTexte|**pv** 39 (6d6+18)}
@@ -407,7 +407,7 @@ issu de [http://paizo.com/products/btpy80op?GameMastery-Module-E1-Carnival-of-Te
 {s:BDTexte|**Corps à corps** marteau léger de maître +9 (1d3+1 plus 1d6 de froid), ou marteau léger de maître +9 (1d3+1 plus 1d6 de froid) et ciseau de tailleur de maître +9 (1d3+1 plus 1d6 de froid) et barbe de poils gelés +3 (1d4+1 plus 1d6 de froid) }
 {s:BDTexte|**Distance** éclat de stalactite +10 (1d3+1 plsu 1d6 de froid)}
 {s:BDTexte|**Attaques spéciales** Barbe de poils gelés, malédiction de décalcification, poigne glaciale }
-{s:BDTexte|**Pouvoir magiques** (NLS 10) {br}3/jour - [Déguisement](./../Pathfinder-RPG/sort Déguisement.md), [Façonnage de la glace](./../Pathfinder-RPG/Façonnage de la pierre.md) (comme [Façonnage de la pierre](./../Pathfinder-RPG/Façonnage de la pierre.md) mais affecte la glace){br}1/jour – [Image miroir](./../Pathfinder-RPG/Image miroir.md), [Mur de glace](./../Pathfinder-RPG/Mur de glace.md)}
+{s:BDTexte|**Pouvoir magiques** (NLS 10) {br}3/jour - [[Pathfinder-RPG.sort Déguisement|Déguisement]], [[Pathfinder-RPG.Façonnage de la pierre|Façonnage de la glace]] (comme [[Pathfinder-RPG.Façonnage de la pierre|Façonnage de la pierre]] mais affecte la glace){br}1/jour – [[Pathfinder-RPG.Image miroir|Image miroir]], [[Pathfinder-RPG.Mur de glace|Mur de glace]]}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Avant le combat** Le sculpteur gelé lance Image miroir }
 {s:BDTexte|**Pendant le combat** Le sculpteur gelé lance ses éclats de stalactite et lance sa malédiction de décalcification sur ses opposants qui l'approchent avant de les tailler en morceaux avec son marteau et son ciseau. }
@@ -415,27 +415,27 @@ issu de [http://paizo.com/products/btpy80op?GameMastery-Module-E1-Carnival-of-Te
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For **12, **Dex **22, **Con **16, **Int **11, **Sag **13, **Cha **12}
 {s:BDTexte|**BBA **+3 ; **BMC **+3 ; **DMD **16}
-{s:BDTexte|**Dons **[Esquive](./../Pathfinder-RPG/Esquive.md), [Combat à deux armes](./../Pathfinder-RPG/Combat à deux armes.md), [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md)+12, [Bluff](./../Pathfinder-RPG/Bluff.md)+10,[Déguisement](./../Pathfinder-RPG/Déguisement.md)+10 (+20 avec le sort [Déguisement](./../Pathfinder-RPG/sort Déguisement.md)),[Diplomatie](./../Pathfinder-RPG/Diplomatie.md)+10,{br}[Discrétion](./../Pathfinder-RPG/Discrétion.md)+14,[Evasion](./../Pathfinder-RPG/Évasion.md)+14, [Intimidation](./../Pathfinder-RPG/Intimidation.md)+5,[Perception](./../Pathfinder-RPG/Perception.md)+7}
+{s:BDTexte|**Dons **[[Pathfinder-RPG.Esquive|Esquive]], [[Pathfinder-RPG.Combat à deux armes|Combat à deux armes]], [[Pathfinder-RPG.Attaque en finesse|Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Acrobaties|Acrobaties]]+12, [[Pathfinder-RPG.Bluff|Bluff]]+10,[[Pathfinder-RPG.Déguisement|Déguisement]]+10 (+20 avec le sort [[Pathfinder-RPG.sort Déguisement|Déguisement]]),[[Pathfinder-RPG.Diplomatie|Diplomatie]]+10,{br}[[Pathfinder-RPG.Discrétion|Discrétion]]+14,[[Pathfinder-RPG.Évasion|Evasion]]+14, [[Pathfinder-RPG.Intimidation|Intimidation]]+5,[[Pathfinder-RPG.Perception|Perception]]+7}
 {s:BDTexte|**Langues** commun, sylvain}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Barbe de poils gelés (Sur).** Les poils de la barbe d'un sculpteur gelé sont hérissés et tranchants comme des lames de rasoir. Sa barbe est quasiment aussi large que lui. Cette barbe encombrante pose des difficultés à celui qui s'attaque à cette fée au corps à corps. Un attaquant placé sur une case adjacente à celle occupée par le sculpteur doit réussir un jet de Réflexe DD16 ou subir 1d4 points de dégâts tranchants et 1d6 points de dégâts causés par le froid lorsqu'il le touche. Le sculpteur peut casser ses pics de poils gelés et les jeter sur un ennemi distant.}
 {s:BDTexte|**Malédiction de décalcification (Sur).**
-Une fois par jour, un sculpteur gelé peut cibler un ennemi à moins de 9m (6 cases) et murmure «la peau comme de la glace, les os, comme le verre, craquent, cassent et brisent !" La cible doit réussir un jet de Volonté DD 14 ou être affecté par une terrible malédiction qui l'amène à devenir aussi fragile que la glace cristalline. Si à son tour elle fait autre chose qu'une seule action de mouvement, elle prend 1d6 points de dégâts, 1 point de Dextérité et 1 point de dégâts Force tandis qu' elle commence à tomber en morceaux. Un jet Vigueur DD 14 réussi réduit de moitié les dommages et annule les dégâts causés aux caractéristiques, mais doit être fait chaque tour où elle fait autre chose qu'une seule action de mouvement (action complexe, action simple, double mouvement etc.). En outre, elle prend le double des dégâts causés par les armes contondantes et les attaques soniques. La malédiction dure une journée, mais peut être levée par un sort de [Délivrance des malédictions](./../Pathfinder-RPG/Délivrance des malédictions.md) ou autre sorts aux effets similaires. Le DD de sauvegarde est lié au Charisme.}
+Une fois par jour, un sculpteur gelé peut cibler un ennemi à moins de 9m (6 cases) et murmure «la peau comme de la glace, les os, comme le verre, craquent, cassent et brisent !" La cible doit réussir un jet de Volonté DD 14 ou être affecté par une terrible malédiction qui l'amène à devenir aussi fragile que la glace cristalline. Si à son tour elle fait autre chose qu'une seule action de mouvement, elle prend 1d6 points de dégâts, 1 point de Dextérité et 1 point de dégâts Force tandis qu' elle commence à tomber en morceaux. Un jet Vigueur DD 14 réussi réduit de moitié les dommages et annule les dégâts causés aux caractéristiques, mais doit être fait chaque tour où elle fait autre chose qu'une seule action de mouvement (action complexe, action simple, double mouvement etc.). En outre, elle prend le double des dégâts causés par les armes contondantes et les attaques soniques. La malédiction dure une journée, mais peut être levée par un sort de [[Pathfinder-RPG.Délivrance des malédictions|Délivrance des malédictions]] ou autre sorts aux effets similaires. Le DD de sauvegarde est lié au Charisme.}
 {s:BDTexte|**Poigne glaciale (Sur).**
 Les attaques naturelles du sculpteur gelé et les armes qu'il brandit, ajoute des dégâts supplémentaires : +1d6 de dégâts de froid.}
 {s:BDTexte|**Marcheur sur glace(Sur).**
-Les sculpteurs gelés n'ont aucune pénalité se déplacer sur de la glace, peu importe si elle est particulièrement glissante ou non. Ils ne peuvent être contraint de faire des test d'Acrobaties ou jets de Réflexes pour éviter de tomber sur un terrain gelé. Ils peuvent également grimper les surfaces gelées comme sous l'effet d'un sort [pattes d'araignée](./../Pathfinder-RPG/Pattes daraignée.md).}
+Les sculpteurs gelés n'ont aucune pénalité se déplacer sur de la glace, peu importe si elle est particulièrement glissante ou non. Ils ne peuvent être contraint de faire des test d'Acrobaties ou jets de Réflexes pour éviter de tomber sur un terrain gelé. Ils peuvent également grimper les surfaces gelées comme sous l'effet d'un sort [[Pathfinder-RPG.Pattes daraignée|pattes d'araignée]].}
 {br}
-issu de [http://paizo.com/products/btpy80op?GameMastery-Module-E1-Carnival-of-Tears|GameMastery Module E1: Carnival of Tears], Copyright 2007 Paizo Publishing, LLC. Authors: Tim Hitchcock and Nicolas Logue.
+issu de [GameMastery Module E1: Carnival of Tears](http://paizo.com/products/btpy80op?GameMastery-Module-E1-Carnival-of-Tears), Copyright 2007 Paizo Publishing, LLC. Authors: Tim Hitchcock and Nicolas Logue.
 </div>
 
 #### Torve
 <div class="BD">
 {s:BDTitre|Torve|FP 1}
 {s:BDTexte|PX 400}
-{s:BDTexte|[Humanoïde monstrueux](./../Pathfinder-RPG/type Humanoïde monstrueux.md) de taille M, NM}
-{s:BDTexte|**Init** +1 ; **Sens** [Vision aveugle](./../Pathfinder-RPG/Vision aveugle (capacité).md) 12m (8 cases), [Odorat](./../Pathfinder-RPG/Odorat (capacité).md); **Perception** +9}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, NM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Pathfinder-RPG.Vision aveugle (capacité)|Vision aveugle]] 12m (8 cases), [[Pathfinder-RPG.Odorat (capacité)|Odorat]]; **Perception** +9}
 {s:BDSousTitre|Capacités défensives}
 {s:BDTexte|**CA** 15, contact 11, dépourvu 14 (dex+1, naturelle+4) }
 {s:BDTexte|**pv** 13 (2d10+2)}
@@ -448,24 +448,24 @@ issu de [http://paizo.com/products/btpy80op?GameMastery-Module-E1-Carnival-of-Te
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For **15, **Dex **13, **Con **13, **Int **10, **Sag **8, **Cha **6}
 {s:BDTexte|**BBA **+2 ; **BMC **+4 ; **DMD **15}
-{s:BDTexte|**Dons ** [Vigilance](./../Pathfinder-RPG/Vigilance.md), [Talent](./../Pathfinder-RPG/Talent.md)(Perception)}
-{s:BDTexte|**Compétences** [Discrétion](./../Pathfinder-RPG/Discrétion.md)+6 (+16 en montagnes et souterrains), [Escalade](./../Pathfinder-RPG/Escalade.md) +7, [Perception](./../Pathfinder-RPG/Perception.md) +9, [Psychologie](./../Pathfinder-RPG/Psychologie.md) +1,  [Survie](./../Pathfinder-RPG/Survie.md) +4; **Modificateurs raciaux** +10 en Discrétion en montagnes et souterrains.}
+{s:BDTexte|**Dons ** [[Pathfinder-RPG.Vigilance|Vigilance]], [[Pathfinder-RPG.Talent|Talent]](Perception)}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Discrétion|Discrétion]]+6 (+16 en montagnes et souterrains), [[Pathfinder-RPG.Escalade|Escalade]] +7, [[Pathfinder-RPG.Perception|Perception]] +9, [[Pathfinder-RPG.Psychologie|Psychologie]] +1,  [[Pathfinder-RPG.Survie|Survie]] +4; **Modificateurs raciaux** +10 en Discrétion en montagnes et souterrains.}
 {s:BDTexte|**Langues** commun des profondeurs, torve}
 {br}
-Créature d'origine : Grimlock issu de [http://paizo.com/products/btpy8l4e?Forgotten-Foes|Forgotten Foes] © 2010 Tricky Owlbear Publishing, Inc.; Authors Mark Gedak and Stefen Styrsky.
+Créature d'origine : Grimlock issu de [Forgotten Foes](http://paizo.com/products/btpy8l4e?Forgotten-Foes) © 2010 Tricky Owlbear Publishing, Inc.; Authors Mark Gedak and Stefen Styrsky.
 </div>
 
 #### Kabran Oeil-Sanglant
 <div class="BD">
 {s:BDTitre|Kabran Oeil-Sanglant|FP 7}
 {s:BDTexte|PX 3200}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) [demi-orque](./../Pathfinder-RPG/Demi-orque.md) [roublard](./../Pathfinder-RPG/Roublard.md) 5/[guerrier](./../Pathfinder-RPG/Guerrier.md) 2 de taille M, NM}
-{s:BDTexte|**Init** +6 ; **Sens** [Vision nocturne](./../Pathfinder-RPG/Vision nocturne (capacité).md) 18m (12 cases); **Perception** +12}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] [[Pathfinder-RPG.Demi-orque|demi-orque]] [[Pathfinder-RPG.Roublard|roublard]] 5/[[Pathfinder-RPG.guerrier|guerrier]] 2 de taille M, NM}
+{s:BDTexte|**Init** +6 ; **Sens** [[Pathfinder-RPG.Vision nocturne (capacité)|Vision nocturne]] 18m (12 cases); **Perception** +12}
 {s:BDSousTitre|Capacités défensives}
 {s:BDTexte|**CA** 21, contact 13, dépourvu 18(amure+7, dex+2, esquive+1, naturelle+1) }
 {s:BDTexte|**pv** 54 (5d8+2d10+21)}
 {s:BDTexte|**Réf** +6, **Vig** +7, **Vol** +3}
-{s:BDTexte|**Défenses spéciales** [Esquive totale](./../Pathfinder-RPG/Roublard.md#ESQUIVETOTALE), [++Pathfinder-RPG.Roublard#ESQUIVEINSTINCTIVE|Esquive instinctive]]}
+{s:BDTexte|**Défenses spéciales** [[Pathfinder-RPG.Roublard#ESQUIVETOTALE|Esquive totale]], [++Pathfinder-RPG.Roublard#ESQUIVEINSTINCTIVE|Esquive instinctive]]}
 {s:BDSousTitre|Capacités offensives}
 {s:BDTexte|**VD** 9m (6 cases)}
 {s:BDTexte|**Corps à corps** Dague+1 +10 (1d4+4 plus poison), ou{br}Dague+1 +8 (1d4+4 plus poison) et dague de maître +7 (1d4+1 plus poison)}
@@ -481,8 +481,8 @@ Créature d'origine : Grimlock issu de [http://paizo.com/products/btpy8l4e?Forgo
 {s:BDTexte|**Dons ** Dodge, Improved Initiative, Iron Will, Quick Draw, Two-Weapon Fighting, Weapon Focus (dagger)}
 {s:BDTexte|**Compétences** Acrobatics +12, Appraise +6, Bluff +11, Climb +8, Diplomacy +11, Intimidate +13, Knowledge (local) +7, Perception +12, Sense Motive +12, Swim +8}
 {s:BDTexte|**Langues**  Commun, elfe, orque}
-{s:BDTexte|**Capacités spéciales** [courage](./../Pathfinder-RPG/Guerrier.md#COURAGE) +1, [Recherche des pièges](./../Pathfinder-RPG/Roublard.md#RECHERCHEDESPIEGES), [Sens des pièges](./../Pathfinder-RPG/Roublard.md#SENSDESPIEGES) +1, [Férocité orque](./../Pathfinder-RPG/Demi-orque.md)}
-{s:BDTexte|**Equipement de combat**potion de [soins modérés](./../Pathfinder-RPG/Soins modérés.md), potion de [forme gazeuse](./../Pathfinder-RPG/État gazeux.md), fiole de venin of black adder (3); **Autre équipement** [Amulette d'armure naturelle](./../Pathfinder-RPG/Amulette darmure naturelle.md) +1, dague magique +1 , chemise de maille en mithral magique +2, dagues de maître (4), petite bourse contenant 15 po et un anneau de rubis (60 po), heart-shaped silver locked inlayed with sapphires (150 gp), small silver snuff box with high quality najembo snuff powder (box 30 gp, powder 10 gp)}
+{s:BDTexte|**Capacités spéciales** [[Pathfinder-RPG.guerrier#COURAGE|courage]] +1, [[Pathfinder-RPG.Roublard#RECHERCHEDESPIEGES|Recherche des pièges]], [[Pathfinder-RPG.Roublard#SENSDESPIEGES|Sens des pièges]] +1, [[Pathfinder-RPG.Demi-orque|Férocité orque]]}
+{s:BDTexte|**Equipement de combat**potion de [[Pathfinder-RPG.soins modérés|soins modérés]], potion de [[Pathfinder-RPG.État gazeux|forme gazeuse]], fiole de venin of black adder (3); **Autre équipement** [[Pathfinder-RPG.Amulette darmure naturelle|Amulette d'armure naturelle]] +1, dague magique +1 , chemise de maille en mithral magique +2, dagues de maître (4), petite bourse contenant 15 po et un anneau de rubis (60 po), heart-shaped silver locked inlayed with sapphires (150 gp), small silver snuff box with high quality najembo snuff powder (box 30 gp, powder 10 gp)}
 {br}
-issu de [http://paizo.com/products/btpy80op?GameMastery-Module-E1-Carnival-of-Tears|GameMastery Module E1: Carnival of Tears], Copyright 2007 Paizo Publishing, LLC. Authors: Tim Hitchcock and Nicolas Logue.
+issu de [GameMastery Module E1: Carnival of Tears](http://paizo.com/products/btpy80op?GameMastery-Module-E1-Carnival-of-Tears), Copyright 2007 Paizo Publishing, LLC. Authors: Tim Hitchcock and Nicolas Logue.
 </div>

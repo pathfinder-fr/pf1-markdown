@@ -8,10 +8,10 @@ LastModified: 2014-10-02 16:25
 
 <b>Accès :</b> Mon Personnage/Onglet Attaques
 
-[My Hero|Retour racine du Manuel]</div>
+[[My Hero|Retour racine du Manuel]]</div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/Slide20.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide21.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide22.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide23.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide24.jpg|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MesPersos|Mes Personnages]
+<OL><LI>Retour vers [[MH-MesPersos|Mes Personnages]]
 <LI>Option sélectionnée. Vous pouvez la changer en la sélectionnant directement grâce au menu déroulant ou en utilisant les boutons « + » et « - ». Notez qu’il est également possible d’en changer en cliquant sur un élément de la liste 4).
 <LI>Quatre boutons vous permettant de naviguer dans cette vue.
 <LI>Liste des options d’attaque. Cliquez sur une d’entre elles pour la sélectionner.

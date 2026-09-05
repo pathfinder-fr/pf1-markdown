@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Chancelant
 ---
 
->>> [États préjudiciables#Chancelant](./États préjudiciables.md#Chancelant)
+>>> [[États préjudiciables#Chancelant]]

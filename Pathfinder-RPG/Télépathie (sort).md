@@ -12,13 +12,13 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [Divination](./école divination.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Hyp](./Hypnotiseur.md) 4, [Méd](./Médium.md) 4, [Psy](./Psychiste.md) 5, [Spi](./Spirite.md) 6  
+{s:AO}**École** [[école divination|Divination]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 6, [[hypnotiseur|Hyp]] 4, [[médium|Méd]] 4, [[psychiste|Psy]] 5, [[spirite|Spi]] 6  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 

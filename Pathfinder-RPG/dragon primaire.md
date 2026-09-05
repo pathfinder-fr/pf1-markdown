@@ -14,22 +14,22 @@ RedirectTo: Dragon
 |- CLASS="titre"
 | Dragons primaires
 |- CLASS="premier"
-| [Dragon de cristal](./Dragon de cristal.md)
+| [[Dragon de cristal]]
 |-
-| [Dragon de magma](./Dragon de magma.md)
+| [[Dragon de magma]]
 |-
-| [Dragon de saumure](./Dragon de saumure.md)
+| [[Dragon de saumure]]
 |-
-| [Dragon des nuages](./Dragon des nuages.md)
+| [[Dragon des nuages]]
 |-
-| [Dragon Umbral](./Dragon Umbral.md)
+| [[Dragon Umbral]]
 |}
 </div></div><div class="description">**Source :** Bestiaire 2 p.102.</div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons](./dragon.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dragon|dragons]].***</li></ul>
 
 Les dragons chromatiques et métalliques sont les plus connus de leurs
 espèces, mais il existe d’autres catégories de dragons véritables. Les
 pages qui suivent présentent cinq dragons primaires, des créatures
 puissantes originaires des plans Élémentaires et du plan des Ombres.
 
->>> [Dragon](./dragon.md)
+>>> [[Dragon]]

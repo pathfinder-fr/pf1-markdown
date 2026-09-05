@@ -6,6 +6,6 @@ LastModified: 2015-11-18 14:19
 
 {s:mr}*Lorsque le personnage se lance agrandissement, sa vitesse de déplacement augmente.*
 
-**Conditions requises.** [Duergar](./duergar (race).md), trait racial lentement mais sûrement.
+**Conditions requises.** [[duergar (race)|Duergar]], trait racial lentement mais sûrement.
 
 **Avantage.** Lorsque sa taille augmente à G ou plus, la vitesse de base de la créature augmente de 6 mètres (4 {s:c}). Cette augmentation ne s’applique que si l’effet qui a modifié sa taille n’altère pas sa vitesse.

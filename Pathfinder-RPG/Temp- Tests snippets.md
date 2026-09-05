@@ -9,90 +9,90 @@ LastModified: 2026-04-28 17:22
 ### Les races de base
 <table><tr style="vertical-align: top"><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Demi-elfe.jpg';">[Les demi-elfes](./Demi-elfe.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Demi-elfe.jpg';">[[Demi-elfe|Les demi-elfes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Demi-orque.jpg';">[Les demi-orques](./Demi-orque.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Demi-orque.jpg';">[[Demi-orque|Les demi-orques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Elfe.jpg';">[Les elfes](./Elfe.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Elfe.jpg';">[[Elfe|Les elfes]]</li>
 </ul>
 </td><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Gnome.jpg';">[Les gnomes](./Gnome.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Gnome.jpg';">[[Gnome|Les gnomes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg';">[Les halfelins](./Halfelin.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg';">[[Halfelin|Les halfelins]]</li>
 </ul>
 </td><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Humain.jpg';">[Les humains](./Humain.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Humain.jpg';">[[Humain|Les humains]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Nain.jpg';">[Les nains](./Nain.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Nain.jpg';">[[Nain|Les nains]]</li>
 </ul>
 </td><td width="25%">
-<ul><li>{s:PM|RACESADDITIONNELLES1}***[Races additionnelles](./../Golarion/races.md#RACESADDITIONNELLES)***
+<ul><li>{s:PM|RACESADDITIONNELLES1}***[[Races#RACESADDITIONNELLES|Races additionnelles]]***
 <ul ID="RACESADDITIONNELLES1" CLASS="listecachée cadrebas">
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/aasimar.jpg';">[Les aasimars](./Aasimar (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/aasimar.jpg';">[[Aasimar (race)|Les aasimars]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/dhampir.jpg';">[Les dhampirs](./Dhampir (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/dhampir.jpg';">[[Dhampir (race)|Les dhampirs]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/drow.jpg';">[Les drows](./Drow (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/drow.jpg';">[[Drow (race)|Les drows]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/fetchelin.jpg';">[Les fetchelins](./Fetchelin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/fetchelin.jpg';">[[Fetchelin (race)|Les fetchelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/gobelin.jpg';">[Les gobelins](./Gobelin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/gobelin.jpg';">[[Gobelin (race)|Les gobelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/hobgobelin.jpg';">[Les hobgobelins](./Hobgobelin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/hobgobelin.jpg';">[[Hobgobelin (race)|Les hobgobelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-félin.jpg';">[Les hommes-félins](./homme-félin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-félin.jpg';">[[Homme-félin (race)|Les hommes-félins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-rat.jpg';">[Les hommes-rats](./Homme-rat (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-rat.jpg';">[[Homme-rat (race)|Les hommes-rats]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/ifrit.jpg';">[Les ifrits](./Ifrit (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/ifrit.jpg';">[[Ifrit (race)|Les ifrits]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/kobold.jpg';">[Les kobolds](./Kobold (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/kobold.jpg';">[[Kobold (race)|Les kobolds]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/ondin.jpg';">[Les ondins](./Ondin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/ondin.jpg';">[[Ondin (race)|Les ondins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/orque.jpg';">[Les orques](./orque (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/orque.jpg';">[[Orque (race)|Les orques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/oréade.jpg';">[Les oréades](./Oréade (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/oréade.jpg';">[[Oréade (race)|Les oréades]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/sylphe.jpg';">[Les sylphes](./Sylphe (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/sylphe.jpg';">[[Sylphe (race)|Les sylphes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/tengu.jpg';">[Les tengus](./Tengu (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/tengu.jpg';">[[Tengu (race)|Les tengus]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/tieffelin.jpg';">[Les tieffelins](./Tieffelin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/tieffelin.jpg';">[[Tieffelin (race)|Les tieffelins]]</li>
 </ul></li>
-<li>{s:PM|RACESEXTRAORDINAIRES1}***[Races extraordinaires](./../Golarion/races.md#RACESEXTRAORDINAIRES)***
+<li>{s:PM|RACESEXTRAORDINAIRES1}***[[Races#RACESEXTRAORDINAIRES|Races extraordinaires]]***
 <ul ID="RACESEXTRAORDINAIRES1" CLASS="listecachée cadrebas">
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/aquatique.jpg';">[Les aquatiques](./aquatique (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/aquatique.jpg';">[[Aquatique (race)|Les aquatiques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/changelin.jpg';">[Les changelins](./changelin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/changelin.jpg';">[[Changelin (race)|Les changelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/duergar.jpg';">[Les duergars](./duergar (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/duergar.jpg';">[[Duergar (race)|Les duergars]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/grippli.jpg';">[Les gripplis](./grippli (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/grippli.jpg';">[[Grippli (race)|Les gripplis]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-poisson.jpg';">[Les hommes-poissons](./homme-poisson (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-poisson.jpg';">[[Homme-poisson (race)|Les hommes-poissons]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/kitsune.jpg';">[Les kitsune](./kitsune (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/kitsune.jpg';">[[Kitsune (race)|Les kitsune]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/nagaji.jpg';">[Les nagajis](./nagaji (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/nagaji.jpg';">[[Nagaji (race)|Les nagajis]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/samsaran.jpg';">[Les samsarans](./samsaran (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/samsaran.jpg';">[[Samsaran (race)|Les samsarans]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/strix.jpg';">[Les strix](./strix (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/strix.jpg';">[[Strix (race)|Les strix]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/suli.jpg';">[Les sulis](./suli (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/suli.jpg';">[[Suli (race)|Les sulis]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/svirfneblin.jpg';">[Les svirfneblins](./svirfneblin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/svirfneblin.jpg';">[[Svirfneblin (race)|Les svirfneblins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/vanara.jpg';">[Les vanaras](./vanara (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/vanara.jpg';">[[Vanara (race)|Les vanaras]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/vishkanya.jpg';">[Les vishkanyas](./vishkanya (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/vishkanya.jpg';">[[Vishkanya (race)|Les vishkanyas]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/wayang.jpg';">[Les wayangs](./wayang (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/wayang.jpg';">[[Wayang (race)|Les wayangs]]</li>
 </ul></li>
 </ul>
 </td></tr></table>
@@ -103,90 +103,90 @@ document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/P
 ### Les races additionnelles
 <table><tr style="vertical-align: top"><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/aasimar.jpg';">[Les aasimars](./Aasimar (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/aasimar.jpg';">[[Aasimar (race)|Les aasimars]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/dhampir.jpg';">[Les dhampirs](./Dhampir (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/dhampir.jpg';">[[Dhampir (race)|Les dhampirs]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/drow.jpg';">[Les drows](./Drow (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/drow.jpg';">[[Drow (race)|Les drows]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/fetchelin.jpg';">[Les fetchelins](./Fetchelin (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/fetchelin.jpg';">[[Fetchelin (race)|Les fetchelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/gobelin.jpg';">[Les gobelins](./Gobelin (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/gobelin.jpg';">[[Gobelin (race)|Les gobelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/hobgobelin.jpg';">[Les hobgobelins](./Hobgobelin (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/hobgobelin.jpg';">[[Hobgobelin (race)|Les hobgobelins]]</li>
 </ul>
 </td><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/homme-félin.jpg';">[Les hommes-félins](./homme-félin (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/homme-félin.jpg';">[[Homme-félin (race)|Les hommes-félins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/homme-rat.jpg';">[Les hommes-rats](./Homme-rat (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/homme-rat.jpg';">[[Homme-rat (race)|Les hommes-rats]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/ifrit.jpg';">[Les ifrits](./Ifrit (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/ifrit.jpg';">[[Ifrit (race)|Les ifrits]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/kobold.jpg';">[Les kobolds](./Kobold (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/kobold.jpg';">[[Kobold (race)|Les kobolds]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/ondin.jpg';">[Les ondins](./Ondin (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/ondin.jpg';">[[Ondin (race)|Les ondins]]</li>
 </ul>
 </td><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/orque.jpg';">[Les orques](./orque (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/orque.jpg';">[[Orque (race)|Les orques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/oréade.jpg';">[Les oréades](./Oréade (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/oréade.jpg';">[[Oréade (race)|Les oréades]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/sylphe.jpg';">[Les sylphes](./Sylphe (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/sylphe.jpg';">[[Sylphe (race)|Les sylphes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/tengu.jpg';">[Les tengus](./Tengu (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/tengu.jpg';">[[Tengu (race)|Les tengus]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/tieffelin.jpg';">[Les tieffelins](./Tieffelin (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/tieffelin.jpg';">[[Tieffelin (race)|Les tieffelins]]</li>
 </ul>
 </td><td width="25%">
-<ul><li>{s:PM|RACESDEBASE2}***[Races de base](./../Golarion/races.md#RACESDEBASE)***
+<ul><li>{s:PM|RACESDEBASE2}***[[Races#RACESDEBASE|Races de base]]***
 <ul ID="RACESDEBASE2" CLASS="listecachée cadrebas">
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Demi-elfe.jpg';">[Les demi-elfes](./Demi-elfe.md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Demi-elfe.jpg';">[[Demi-elfe|Les demi-elfes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Demi-orque.jpg';">[Les demi-orques](./Demi-orque.md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Demi-orque.jpg';">[[Demi-orque|Les demi-orques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Elfe.jpg';">[Les elfes](./Elfe.md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Elfe.jpg';">[[Elfe|Les elfes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Gnome.jpg';">[Les gnomes](./Gnome.md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Gnome.jpg';">[[Gnome|Les gnomes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg';">[Les halfelins](./Halfelin.md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg';">[[Halfelin|Les halfelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Humain.jpg';">[Les humains](./Humain.md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Humain.jpg';">[[Humain|Les humains]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Nain.jpg';">[Les nains](./Nain.md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/Nain.jpg';">[[Nain|Les nains]]</li>
 </ul></li>
-<li>{s:PM|RACESEXTRAORDINAIRES2}***[Races extraordinaires](./../Golarion/races.md#RACESEXTRAORDINAIRES)***
+<li>{s:PM|RACESEXTRAORDINAIRES2}***[[Races#RACESEXTRAORDINAIRES|Races extraordinaires]]***
 <ul ID="RACESEXTRAORDINAIRES2" CLASS="listecachée cadrebas">
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/aquatique.jpg';">[Les aquatiques](./aquatique (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/aquatique.jpg';">[[Aquatique (race)|Les aquatiques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/changelin.jpg';">[Les changelins](./changelin (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/changelin.jpg';">[[Changelin (race)|Les changelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/duergar.jpg';">[Les duergars](./duergar (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/duergar.jpg';">[[Duergar (race)|Les duergars]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/grippli.jpg';">[Les gripplis](./grippli (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/grippli.jpg';">[[Grippli (race)|Les gripplis]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/homme-poisson.jpg';">[Les hommes-poissons](./homme-poisson (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/homme-poisson.jpg';">[[Homme-poisson (race)|Les hommes-poissons]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/kitsune.jpg';">[Les kitsune](./kitsune (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/kitsune.jpg';">[[Kitsune (race)|Les kitsune]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/nagaji.jpg';">[Les nagajis](./nagaji (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/nagaji.jpg';">[[Nagaji (race)|Les nagajis]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/samsaran.jpg';">[Les samsarans](./samsaran (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/samsaran.jpg';">[[Samsaran (race)|Les samsarans]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/strix.jpg';">[Les strix](./strix (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/strix.jpg';">[[Strix (race)|Les strix]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/suli.jpg';">[Les sulis](./suli (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/suli.jpg';">[[Suli (race)|Les sulis]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/svirfneblin.jpg';">[Les svirfneblins](./svirfneblin (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/svirfneblin.jpg';">[[Svirfneblin (race)|Les svirfneblins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/vanara.jpg';">[Les vanaras](./vanara (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/vanara.jpg';">[[Vanara (race)|Les vanaras]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/vishkanya.jpg';">[Les vishkanyas](./vishkanya (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/vishkanya.jpg';">[[Vishkanya (race)|Les vishkanyas]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/wayang.jpg';">[Les wayangs](./wayang (race).md)</li>
+document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/PNJ/wayang.jpg';">[[Wayang (race)|Les wayangs]]</li>
 </ul></li>
 </ul>
 </td></tr></table>
@@ -197,90 +197,90 @@ document.getElementById('menuraceIMG2').src='/wiki/public/upload/Illustrations/P
 ### Les races extraordinaires
 <table><tr style="vertical-align: top"><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/aquatique.jpg';">[Les aquatiques](./aquatique (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/aquatique.jpg';">[[Aquatique (race)|Les aquatiques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/changelin.jpg';">[Les changelins](./changelin (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/changelin.jpg';">[[Changelin (race)|Les changelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/duergar.jpg';">[Les duergars](./duergar (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/duergar.jpg';">[[Duergar (race)|Les duergars]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/grippli.jpg';">[Les gripplis](./grippli (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/grippli.jpg';">[[Grippli (race)|Les gripplis]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/homme-poisson.jpg';">[Les hommes-poissons](./homme-poisson (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/homme-poisson.jpg';">[[Homme-poisson (race)|Les hommes-poissons]]</li>
 </ul>
 </td><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/kitsune.jpg';">[Les kitsune](./kitsune (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/kitsune.jpg';">[[Kitsune (race)|Les kitsune]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/nagaji.jpg';">[Les nagajis](./nagaji (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/nagaji.jpg';">[[Nagaji (race)|Les nagajis]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/samsaran.jpg';">[Les samsarans](./samsaran (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/samsaran.jpg';">[[Samsaran (race)|Les samsarans]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/strix.jpg';">[Les strix](./strix (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/strix.jpg';">[[Strix (race)|Les strix]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/suli.jpg';">[Les sulis](./suli (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/suli.jpg';">[[Suli (race)|Les sulis]]</li>
 </ul>
 </td><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/svirfneblin.jpg';">[Les svirfneblins](./svirfneblin (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/svirfneblin.jpg';">[[Svirfneblin (race)|Les svirfneblins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/vanara.jpg';">[Les vanaras](./vanara (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/vanara.jpg';">[[Vanara (race)|Les vanaras]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/vishkanya.jpg';">[Les vishkanyas](./vishkanya (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/vishkanya.jpg';">[[Vishkanya (race)|Les vishkanyas]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/wayang.jpg';">[Les wayangs](./wayang (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/wayang.jpg';">[[Wayang (race)|Les wayangs]]</li>
 </ul>
 </td><td width="25%">
-<ul><li>{s:PM|RACESDEBASE3}***[Races de base](./../Golarion/races.md#RACESDEBASE)***
+<ul><li>{s:PM|RACESDEBASE3}***[[Races#RACESDEBASE|Races de base]]***
 <ul ID="RACESDEBASE3" CLASS="listecachée cadrebas">
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Demi-elfe.jpg';">[Les demi-elfes](./Demi-elfe.md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Demi-elfe.jpg';">[[Demi-elfe|Les demi-elfes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Demi-orque.jpg';">[Les demi-orques](./Demi-orque.md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Demi-orque.jpg';">[[Demi-orque|Les demi-orques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Elfe.jpg';">[Les elfes](./Elfe.md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Elfe.jpg';">[[Elfe|Les elfes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Gnome.jpg';">[Les gnomes](./Gnome.md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Gnome.jpg';">[[Gnome|Les gnomes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg';">[Les halfelins](./Halfelin.md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg';">[[Halfelin|Les halfelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Humain.jpg';">[Les humains](./Humain.md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Humain.jpg';">[[Humain|Les humains]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Nain.jpg';">[Les nains](./Nain.md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/Nain.jpg';">[[Nain|Les nains]]</li>
 </ul></li>
-<li>{s:PM|RACESADDITIONNELLES3}***[Races additionnelles](./../Golarion/races.md#RACESADDITIONNELLES)***
+<li>{s:PM|RACESADDITIONNELLES3}***[[Races#RACESADDITIONNELLES|Races additionnelles]]***
 <ul ID="RACESADDITIONNELLES3" CLASS="listecachée cadrebas">
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/aasimar.jpg';">[Les aasimars](./Aasimar (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/aasimar.jpg';">[[Aasimar (race)|Les aasimars]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/dhampir.jpg';">[Les dhampirs](./Dhampir (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/dhampir.jpg';">[[Dhampir (race)|Les dhampirs]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/drow.jpg';">[Les drows](./Drow (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/drow.jpg';">[[Drow (race)|Les drows]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/fetchelin.jpg';">[Les fetchelins](./Fetchelin (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/fetchelin.jpg';">[[Fetchelin (race)|Les fetchelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/gobelin.jpg';">[Les gobelins](./Gobelin (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/gobelin.jpg';">[[Gobelin (race)|Les gobelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/hobgobelin.jpg';">[Les hobgobelins](./Hobgobelin (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/hobgobelin.jpg';">[[Hobgobelin (race)|Les hobgobelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/homme-félin.jpg';">[Les hommes-félins](./homme-félin (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/homme-félin.jpg';">[[Homme-félin (race)|Les hommes-félins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/homme-rat.jpg';">[Les hommes-rats](./Homme-rat (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/homme-rat.jpg';">[[Homme-rat (race)|Les hommes-rats]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/ifrit.jpg';">[Les ifrits](./Ifrit (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/ifrit.jpg';">[[Ifrit (race)|Les ifrits]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/kobold.jpg';">[Les kobolds](./Kobold (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/kobold.jpg';">[[Kobold (race)|Les kobolds]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/ondin.jpg';">[Les ondins](./Ondin (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/ondin.jpg';">[[Ondin (race)|Les ondins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/orque.jpg';">[Les orques](./orque (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/orque.jpg';">[[Orque (race)|Les orques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/oréade.jpg';">[Les oréades](./Oréade (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/oréade.jpg';">[[Oréade (race)|Les oréades]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/sylphe.jpg';">[Les sylphes](./Sylphe (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/sylphe.jpg';">[[Sylphe (race)|Les sylphes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/tengu.jpg';">[Les tengus](./Tengu (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/tengu.jpg';">[[Tengu (race)|Les tengus]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/tieffelin.jpg';">[Les tieffelins](./Tieffelin (race).md)</li>
+document.getElementById('menuraceIMG3').src='/wiki/public/upload/Illustrations/PNJ/tieffelin.jpg';">[[Tieffelin (race)|Les tieffelins]]</li>
 </ul></li>
 </ul>
 </td></tr></table>
@@ -325,43 +325,43 @@ $('.UI').hide();
 
 #### Évocation
 <ul>
-<li>***[Cri perçant](./Cri perçant.md)*** *(AM)*. Inflige des dégâts sonores et hébète la cible.</li>
-<li>***[Décharge électrique](./Décharge électrique.md) (Y)***. 1d6 points de dégâts d'électricité/niveau (max. 5d6).</li>
-<li>***[Disque flottant](./Disque flottant.md) (Y)***. Disque horizontal de 90 cm de diamètre portant 50 kg/niveau.</li>
-<span class="APG"><li>***[Grandes illuminations](./Grandes illuminations.md)*** *(MJRA)*. Comme *illumination* mais touche toutes les créatures dans un rayon de 3 m.</li></span>
-<li>***[Halo indésirable](./Halo indésirable.md) ([Sarenraé](./Sarenraé (technique).md))*** *(ISG)*. Manifeste un halo autour d'une cible, l'empêchant de se cacher dans l'obscurité.</li>
-<li>***[Mains brûlantes](./Mains brûlantes.md) (Y)***. 1d4 points de dégâts de feu/niveau (max. 5d4).</li>
-<span class="ACG"><li>***[Petite brise](./Petite brise.md)*** *(MCA)*. Vent léger qui protège une cible des nuages, des gaz, de la chaleur et des vapeurs.</li></span>
-<span class="APG"><li>***[Poussée hydraulique](./Poussée hydraulique.md) (Y)*** *(MJRA)*. Vague d’eau qui bouscule un ennemi.</li></span>
-<li>***[Projectile magique](./Projectile magique.md) (Y)***. 1d4+1 points de dégâts, +1 projectile tous les 2 niveaux au-delà de 1 (max. 5).</li>
-<span class="ACG"><li>***[Sabot du tonnerre](./Sabot du tonnerre.md)*** *(MCA)*. Fait un croc-en-jambe à une créature à portée.</li></span>
-<li>***[Toucher de combustion](./Toucher de combustion.md) ([Ifrit](./Ifrit (race).md))*** *(MR)*. Le personnage porte une attaque qui inflige 1d6 points de dégâts et qui risque d'enflammer son adversaire.</li>
+<li>***[[Cri perçant]]*** *(AM)*. Inflige des dégâts sonores et hébète la cible.</li>
+<li>***[[Décharge électrique]] (Y)***. 1d6 points de dégâts d'électricité/niveau (max. 5d6).</li>
+<li>***[[Disque flottant]] (Y)***. Disque horizontal de 90 cm de diamètre portant 50 kg/niveau.</li>
+<span class="APG"><li>***[[Grandes illuminations]]*** *(MJRA)*. Comme *illumination* mais touche toutes les créatures dans un rayon de 3 m.</li></span>
+<li>***[[Halo indésirable]] ([[Sarenraé (technique)|Sarenraé]])*** *(ISG)*. Manifeste un halo autour d'une cible, l'empêchant de se cacher dans l'obscurité.</li>
+<li>***[[Mains brûlantes]] (Y)***. 1d4 points de dégâts de feu/niveau (max. 5d4).</li>
+<span class="ACG"><li>***[[Petite brise]]*** *(MCA)*. Vent léger qui protège une cible des nuages, des gaz, de la chaleur et des vapeurs.</li></span>
+<span class="APG"><li>***[[Poussée hydraulique]] (Y)*** *(MJRA)*. Vague d’eau qui bouscule un ennemi.</li></span>
+<li>***[[Projectile magique]] (Y)***. 1d4+1 points de dégâts, +1 projectile tous les 2 niveaux au-delà de 1 (max. 5).</li>
+<span class="ACG"><li>***[[Sabot du tonnerre]]*** *(MCA)*. Fait un croc-en-jambe à une créature à portée.</li></span>
+<li>***[[Toucher de combustion]] ([[Ifrit (race)|Ifrit]])*** *(MR)*. Le personnage porte une attaque qui inflige 1d6 points de dégâts et qui risque d'enflammer son adversaire.</li>
 </ul>
 
 #### Style de combat (Ext)
 Au niveau 2, un rôdeur choisit de se spécialiser dans un des styles de combat suivants. Cette spécialisation se traduit par des dons supplémentaires gagnés aux niveaux 2, 6, 10, 14 et 18. Le rôdeur choisit ces dons supplémentaires dans la liste appropriée. Il peut sélectionner un don même s’il ne remplit pas les conditions qui lui sont associées.
 
-Si le rôdeur choisit le style de combat ***à distance***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [Tir avec concentration](./Tir avec concentration.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de loin](./Tir de loin.md), [Tir de précision](./Tir de précision.md) et [Tir rapide](./Tir rapide.md). Au niveau 6, les dons [Feu nourri](./Feu nourri.md), [Maîtrise des arbalètes](./Maîtrise des arbalètes.md), [Maîtrise du tir à bout portant](./Maîtrise du tir à bout portant.md)  et [Science du tir de précision](./Science du tir de précision.md) s’ajoutent à la liste. Au niveau 10, les dons [Tir en mouvement](./Tir en mouvement.md) et [Viser juste](./Viser juste.md) s’ajoutent à la liste.
+Si le rôdeur choisit le style de combat ***à distance***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [[Tir avec concentration]], [[Tir à bout portant]], [[Tir de loin]], [[Tir de précision]] et [[Tir rapide]]. Au niveau 6, les dons [[Feu nourri]], [[Maîtrise des arbalètes]], [[Maîtrise du tir à bout portant]]  et [[Science du tir de précision]] s’ajoutent à la liste. Au niveau 10, les dons [[Tir en mouvement]] et [[Viser juste]] s’ajoutent à la liste.
 
-Si le rôdeur choisit le style de combat ***à deux armes***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [Arme en main](./Arme en main.md), [Combat à deux armes](./Combat à deux armes.md), [Double frappe](./Double frappe.md) et [Science du coup de bouclier](./Science du coup de bouclier.md). Au niveau 6, les dons [Défense à deux armes](./Défense à deux armes.md) et [Science du combat à deux armes](./Science du combat à deux armes.md) s’ajoutent à la liste. Au niveau 10, les dons [Éventration à deux armes](./Éventration à deux armes.md) et [Combat à deux armes supérieur](./Combat à deux armes supérieur.md) viennent s’ajouter à la liste.</span><span class="APG">
+Si le rôdeur choisit le style de combat ***à deux armes***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [[Arme en main]], [[Combat à deux armes]], [[Double frappe]] et [[Science du coup de bouclier]]. Au niveau 6, les dons [[Défense à deux armes]] et [[Science du combat à deux armes]] s’ajoutent à la liste. Au niveau 10, les dons [[Éventration à deux armes]] et [[Combat à deux armes supérieur]] viennent s’ajouter à la liste.</span><span class="APG">
 
-{s:apg} Si le rôdeur choisit le style de combat ***arbalète***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [Rechargement rapide](./Rechargement rapide.md), [Tir avec concentration](./Tir avec concentration.md), [Tir de précision](./Tir de précision.md) ou [Viser](./Viser.md). Au niveau 6, les dons [Maîtrise des arbalètes](./Maîtrise des arbalètes.md) et [Science du tir de précision](./Science du tir de précision.md) s'ajoutent à la liste. Au niveau 10, les dons [Tir en mouvement](./Tir en mouvement.md) et [Viser juste](./Viser juste.md) viennent s'ajouter à la liste.</span><span class="APG">
+{s:apg} Si le rôdeur choisit le style de combat ***arbalète***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [[Rechargement rapide]], [[Tir avec concentration]], [[Tir de précision]] ou [[Viser]]. Au niveau 6, les dons [[Maîtrise des arbalètes]] et [[Science du tir de précision]] s'ajoutent à la liste. Au niveau 10, les dons [[Tir en mouvement]] et [[Viser juste]] viennent s'ajouter à la liste.</span><span class="APG">
 
-{s:apg}Si le rôdeur choisit le style de combat ***arme à deux mains***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [Assaut repoussant](./Assaut repoussant.md), [Attaque en puissance](./Attaque en puissance.md), [Coups protecteurs](./Coups protecteurs.md) ou [Enchaînement](./Enchaînement.md). Au niveau 6, les dons [Concentration malgré la fureur](./Concentration malgré la fureur.md) et [Succession d’enchaînements](./Succession denchaînements.md) s'ajoutent à la liste. Au niveau 10, les dons [Carnage effroyable](./Carnage effroyable.md) et [Science de la destruction](./Science de la destruction.md) viennent s'ajouter à la liste.</span><span class="ACG">
+{s:apg}Si le rôdeur choisit le style de combat ***arme à deux mains***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [[Assaut repoussant]], [[Attaque en puissance]], [[Coups protecteurs]] ou [[Enchaînement]]. Au niveau 6, les dons [[Concentration malgré la fureur]] et [[Succession denchaînements|Succession d’enchaînements]] s'ajoutent à la liste. Au niveau 10, les dons [[Carnage effroyable]] et [[Science de la destruction]] viennent s'ajouter à la liste.</span><span class="ACG">
 
-{s:MCA}Si le rôdeur choisit le style de combat ***arme de jet***, il peut choisir les dons de la liste suivante à chaque fois qu’il gagne un don de style de combat : [Arme en main](./Arme en main.md), [Combat à deux armes](./Combat à deux armes.md), [Lanceur à distance](./Lanceur à distance.md), [Tir de précision](./Tir de précision.md). Au niveau 6, il ajoute [Lanceur à courte distance](./Lanceur à courte distance.md) et [Fausse ouverture](./Fausse ouverture.md) à la liste. Au niveau 10, il ajoute [Viser juste](./Viser juste.md) et [Tir en mouvement](./Tir en mouvement.md) à la liste.</span><span class="APG">
+{s:MCA}Si le rôdeur choisit le style de combat ***arme de jet***, il peut choisir les dons de la liste suivante à chaque fois qu’il gagne un don de style de combat : [[Arme en main]], [[Combat à deux armes]], [[Lanceur à distance]], [[Tir de précision]]. Au niveau 6, il ajoute [[Lanceur à courte distance]] et [[Fausse ouverture]] à la liste. Au niveau 10, il ajoute [[Viser juste]] et [[Tir en mouvement]] à la liste.</span><span class="APG">
 
-{s:apg}Si le rôdeur choisit le style de combat ***arme et bouclier***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [Art du bouclier](./Art du bouclier.md), [Frappe du bouclier](./Frappe du bouclier.md), [Combat à deux armes](./Combat à deux armes.md) ou [Science du coup de bouclier](./Science du coup de bouclier.md). Au niveau 6, les dons [Bouclier salvateur](./Bouclier salvateur.md) et [Maîtrise du bouclier](./Maîtrise du bouclier.md) s'ajoutent à la liste. Au niveau 10, les dons [Art du bouclier supérieur](./Art du bouclier supérieur.md) et [Coup de bouclier opportuniste](./Coup de bouclier opportuniste.md) viennent s'ajouter à la liste.</span><span class="APG">
+{s:apg}Si le rôdeur choisit le style de combat ***arme et bouclier***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [[Art du bouclier]], [[Frappe du bouclier]], [[Combat à deux armes]] ou [[Science du coup de bouclier]]. Au niveau 6, les dons [[Bouclier salvateur]] et [[Maîtrise du bouclier]] s'ajoutent à la liste. Au niveau 10, les dons [[Art du bouclier supérieur]] et [[Coup de bouclier opportuniste]] viennent s'ajouter à la liste.</span><span class="APG">
 
-{s:apg}Si le rôdeur choisit le style de combat ***arme naturelle***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [Arme de prédilection](./Arme de prédilection.md), [Arme naturelle supérieure](./Arme naturelle supérieure.md), [Aspect bestial](./Aspect bestial.md) ou [Griffes coupantes](./Griffes coupantes.md). Au niveau 6, les dons [Frappe décisive](./Frappe décisive.md) et [Griffes magiques](./Griffes magiques.md) s'ajoutent à la liste. Au niveau 10, les dons [Attaques multiples](./Attaques multiples.md) et [Science de la frappe décisive](./Science de la frappe décisive.md) viennent s'ajouter à la liste. </span><span class="UI">
+{s:apg}Si le rôdeur choisit le style de combat ***arme naturelle***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [[Arme de prédilection]], [[Arme naturelle supérieure]], [[Aspect bestial]] ou [[Griffes coupantes]]. Au niveau 6, les dons [[Frappe décisive]] et [[Griffes magiques]] s'ajoutent à la liste. Au niveau 10, les dons [[Attaques multiples]] et [[Science de la frappe décisive]] viennent s'ajouter à la liste. </span><span class="UI">
 
-{s:cs}{s:UI}Si le rôdeur choisit le style de combat ***astucieux***, il peut choisir un des dons suivants chaque fois qu'il gagne un don de style de combat, et s'il choisit Expertise du combat, il compte comme ayant une valeur d'Intelligence de 13 afin de choisir des dons qui ont Expertise du combat comme condition : [Esquive](./Esquive.md), [Expertise du combat](./Expertise du combat.md), [Science de la subtilisation](./Science de la subtilisation.md) et [Science du sale coup](./Science du sale coup.md). Au niveau 6, les dons [Sale coup supérieur](./Sale coup supérieur.md) et [Subtilisation supérieure](./Subtilisation supérieure.md) s'ajoutent à la liste. Au niveau 10, les dons [Sale coup rapide](./Sale coup rapide.md) et [Subtilisation rapide](./Subtilisation rapide.md) s'ajoutent à la liste.</span><span class="APG">
+{s:cs}{s:UI}Si le rôdeur choisit le style de combat ***astucieux***, il peut choisir un des dons suivants chaque fois qu'il gagne un don de style de combat, et s'il choisit Expertise du combat, il compte comme ayant une valeur d'Intelligence de 13 afin de choisir des dons qui ont Expertise du combat comme condition : [[Esquive]], [[Expertise du combat]], [[Science de la subtilisation]] et [[Science du sale coup]]. Au niveau 6, les dons [[Sale coup supérieur]] et [[Subtilisation supérieure]] s'ajoutent à la liste. Au niveau 10, les dons [[Sale coup rapide]] et [[Subtilisation rapide]] s'ajoutent à la liste.</span><span class="APG">
 
-{s:apg}Si le rôdeur choisit le style de combat ***combat monté***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [Astuce d’équitation](./Astuce déquitation.md), [Attaque au galop](./Attaque au galop.md), [Combat monté](./Combat monté.md) ou [Tir monté](./Tir monté.md). Au niveau 6, les dons [Bouclier pour la monture](./Bouclier pour la monture.md) et [Charge dévastatrice](./Charge dévastatrice.md) s'ajoutent à la liste. Au niveau 10, les dons [Désarçonner](./Désarçonner.md) et [Tirailleur monté](./Tirailleur monté.md) viennent s'ajouter à la liste.</span><span class="UI">
+{s:apg}Si le rôdeur choisit le style de combat ***combat monté***, il peut choisir un des dons suivants chaque fois qu’il gagne un don de style de combat : [[Astuce déquitation|Astuce d’équitation]], [[Attaque au galop]], [[Combat monté]] ou [[Tir monté]]. Au niveau 6, les dons [[Bouclier pour la monture]] et [[Charge dévastatrice]] s'ajoutent à la liste. Au niveau 10, les dons [[Désarçonner]] et [[Tirailleur monté]] viennent s'ajouter à la liste.</span><span class="UI">
 
-{s:cs}{s:UI}Si le rôdeur choisit le style de combat ***menaçant***, il peut choisir un des dons suivants chaque fois qu'il gagne un don de style de combat : [Coup final sanglant](./Coup final sanglant.md), [Démonstration](./Démonstration.md), [Force intimidante](./Force intimidante.md) et [Homme de main](./Homme de main.md). Au niveau 6, les dons [Briser les défenses](./Briser les défenses.md), [Domination martiale](./Domination martiale.md) s'ajoutent à la liste. Au niveau 10, les dons [Carnage effroyable](./Carnage effroyable.md) et [Science du critique](./Science du critique.md) s'ajoutent à la liste.</span><span class="UI">
+{s:cs}{s:UI}Si le rôdeur choisit le style de combat ***menaçant***, il peut choisir un des dons suivants chaque fois qu'il gagne un don de style de combat : [[Coup final sanglant]], [[Démonstration]], [[Force intimidante]] et [[Homme de main]]. Au niveau 6, les dons [[Briser les défenses]], [[Domination martiale]] s'ajoutent à la liste. Au niveau 10, les dons [[Carnage effroyable]] et [[Science du critique]] s'ajoutent à la liste.</span><span class="UI">
 
-{s:cs}{s:UI}Si le rôdeur choisit le style de combat ***trompeur***, il peut choisir un des dons suivants chaque fois qu'il gagne un don de style de combat : [Feinte à distance](./Feinte à distance.md), [Feinte de dégagement](./Feinte de dégagement.md), [Science de la feinte](./Science de la feinte.md) et [Feinte à deux armes](./Feinte à deux armes.md). Au niveau 6, les dons [Détournement tactique](./Détournement tactique.md) et [Feinte supérieure](./Feinte supérieure.md) s'ajoutent à la liste. Au niveau 10, les dons [Coup de dégagement](./Coup de dégagement.md) et [Tour de passe-passe](./Tour de passe-passe.md) s'ajoutent à la liste.</span>
+{s:cs}{s:UI}Si le rôdeur choisit le style de combat ***trompeur***, il peut choisir un des dons suivants chaque fois qu'il gagne un don de style de combat : [[Feinte à distance]], [[Feinte de dégagement]], [[Science de la feinte]] et [[Feinte à deux armes]]. Au niveau 6, les dons [[Détournement tactique]] et [[Feinte supérieure]] s'ajoutent à la liste. Au niveau 10, les dons [[Coup de dégagement]] et [[Tour de passe-passe]] s'ajoutent à la liste.</span>
 
 Le rôdeur ne bénéficie de ses dons de style de combat que s’il porte une armure légère, une armure intermédiaire ou s’il ne porte aucune armure. Il perd leurs avantages s’il porte une armure lourde. Une fois qu’un rôdeur a opté pour un style de combat, ce choix ne peut plus être modifié.
 

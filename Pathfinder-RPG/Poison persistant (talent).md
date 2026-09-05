@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#POISONPERSISTANT
 ---
 
->>> [Talents#POISONPERSISTANT](./Talents.md#POISONPERSISTANT)
+>>> [[Talents#POISONPERSISTANT]]

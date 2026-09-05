@@ -9,9 +9,9 @@ Categories:
 
 ### Un peuple dur mais juste
 
-Il fut un temps où tous les Ulfes appartenaient à une même nation : les [Terres des Rois des Linnorms]. Il y a plus d’un millénaire ce territoire s’étendait de la côte ouest de l’Avistan jusqu’aux [Royaumes des Seigneurs des Mammouths]. Mais l’arrivée de [Baba Yaga] et de ses armées en 3131AR divisa le peuple Ulfe en deux. D’un côté les habitants des [Terres des Rois des Linnorms] restés libres et d’un autre côté les esclaves de la sorcière, réduits en esclavage dans la nouvelle contrée d’[Irrisen].
+Il fut un temps où tous les Ulfes appartenaient à une même nation : les [[Terres des Rois des Linnorms]]. Il y a plus d’un millénaire ce territoire s’étendait de la côte ouest de l’Avistan jusqu’aux [[Royaumes des Seigneurs des Mammouths]]. Mais l’arrivée de [[Baba Yaga]] et de ses armées en 3131AR divisa le peuple Ulfe en deux. D’un côté les habitants des [[Terres des Rois des Linnorms]] restés libres et d’un autre côté les esclaves de la sorcière, réduits en esclavage dans la nouvelle contrée d’[[Irrisen]].
 
-Les Ulfes sont connus dans le monde pour leur caractère intrépide ; en 4707AR la Roi des Linnorms Estrid la Blanche a même réussi à forcer le blocus du [Chéliax] à l’Arche d’Aroden pour finalement naviguer jusqu’au cœur d’[Absalom]. Seulement ce pont qui reliait le Garund et l’Avistan s’est effondré, réduisant considérablement les raids des Ulfes. Ils sont désormais recrutés comme matelots ou gardes du corps pour leurs compétences en navigation, en combat et leur aspect intimidant. Ceux qui sont originaires des [Terres des Rois des Linnorms] sont généralement des marins ou des marchands tandis que leurs frères d’[Irrisen] sont plus à l’aise sur la terre ferme que sur un navire et s'adonnent encore à l'art du pillage.
+Les Ulfes sont connus dans le monde pour leur caractère intrépide ; en 4707AR la Roi des Linnorms Estrid la Blanche a même réussi à forcer le blocus du [[Chéliax]] à l’Arche d’Aroden pour finalement naviguer jusqu’au cœur d’[[Absalom]]. Seulement ce pont qui reliait le Garund et l’Avistan s’est effondré, réduisant considérablement les raids des Ulfes. Ils sont désormais recrutés comme matelots ou gardes du corps pour leurs compétences en navigation, en combat et leur aspect intimidant. Ceux qui sont originaires des [[Terres des Rois des Linnorms]] sont généralement des marins ou des marchands tandis que leurs frères d’[[Irrisen]] sont plus à l’aise sur la terre ferme que sur un navire et s'adonnent encore à l'art du pillage.
 
 Les thralls – des esclaves dont le labeur s’étant sur une durée limitée – sont un élément caractéristique de la culture ulfene. La société est juste à leur égard, leurs enfants naissent libres et ils peuvent à tout moment déposer une plainte contre un maître trop cruel ou abusif. On devient thrall en étant capturé sur le champ de bataille ou en étant condamné par le Thingmar, un tribunal composé des proches de la victime et dirigé par un ancien jarl, et ce peu importe le statut social de l’accusé.
 
@@ -21,9 +21,9 @@ Les Ulfes raffolent de défis athlétiques ou alcooliques. Prenant souvent place
 
 C’est à cause de ces traditions que la plupart des étrangers voient les Ulfes comme des rustres, une idée reçue qui n’est évidemment pas toujours vraie. Ces vulgaires moments de débauche n’arrivent qu’au cours de fête arrosée et quiconque est surpris à être ivre mort en dehors de ces évènements devra faire face aux moqueries des femmes ulfenes. Une expérience que peu désirent revivre.
 
-Les hommes sont généralement des rangers ou des barbares et vénèrent des divinités comme [Erastil] ou [Gorum] même si on note l'existence de quelques prêtres et druides de [Desna] ou [Torag] même si ce rôle est souvent réservé aux femmes. Un petit nombre d’entre elles peuvent d’ailleurs se joindre aux Sœurs du Vent, une troupe de jeunes filles ayant réussit à dompter des montures volantes.
+Les hommes sont généralement des rangers ou des barbares et vénèrent des divinités comme [[Erastil]] ou [[Gorum]] même si on note l'existence de quelques prêtres et druides de [[Desna]] ou [[Torag]] même si ce rôle est souvent réservé aux femmes. Un petit nombre d’entre elles peuvent d’ailleurs se joindre aux Sœurs du Vent, une troupe de jeunes filles ayant réussit à dompter des montures volantes.
 
-Même s’ils ne sont pas des héros mais plus de chasseurs ou des fermiers, les Ulfes ont un tempérament plus aventureux que la plupart des peuples des Golarion ; les [Terres des Rois des Linnorms] et [Irrisen] demandant de nombreuses compétences de survie comme trouver de la nourriture ou un abri dans le blizzard.
+Même s’ils ne sont pas des héros mais plus de chasseurs ou des fermiers, les Ulfes ont un tempérament plus aventureux que la plupart des peuples des Golarion ; les [[Terres des Rois des Linnorms]] et [[Irrisen]] demandant de nombreuses compétences de survie comme trouver de la nourriture ou un abri dans le blizzard.
 
 Les duels sont un passe-temps très apprécié par les Ulfes ; si la plupart des conflits sont réglés au cour d’un combat où le premier à saigner est considéré comme perdant mettant fin au désaccord, certaines rivalités persistent et gangrènent plusieurs clans et familles. On a déjà observé des vendettas meurtrières toucher plusieurs générations alors leurs causes étaient aussi futiles que la manière de tresser les filets de pêche.
 
@@ -36,8 +36,8 @@ Bien sûr on ne peut parler des Ulfes sans aborder le sujet de la lycanthropie. 
 ### Bilan
 
 **Langage :** Commun ; Skald{br}
-**Région :** [Irrisen] ; [Terres des Rois des Linnorms] ; [Varisie]{br}
-**Religion :** [Cayden Cailéan] ; [Desna] ; [Érastil] ; [Gorum] ; [Lamashtu] ; [Torag]
+**Région :** [[Irrisen]] ; [[Terres des Rois des Linnorms]] ; [[Varisie]]{br}
+**Religion :** [[Cayden Cailéan]] ; [[Desna]] ; [[Érastil]] ; [[Gorum]] ; [[Lamashtu]] ; [[Torag]]
 
 **Description physique :** Les Ulfes ont la sombre réputation d’être des benêts musclés et silencieux à l’accent étrange. Plutôt grands, ces humains ont une peau pâle et de longs cheveux allant du blond au brun en passant par le roux. Pour eux, leur peuple est le plus raffiné et le plus beau de tout l’Avistan ; une affirmation que les autres nations trouvent odieuses mais malheureusement avérée.
 

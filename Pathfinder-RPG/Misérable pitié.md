@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[émotion, mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|émotion, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md) (crachat)  
+**Composantes** [[Composantes|V, G]] (crachat)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) et 1 minute, voir texte  
+**Durée** 1 [[round]]/[[niveau]] et 1 minute, voir texte  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Ce sort fonctionne comme *[sanctuaire](./Sanctuaire.md)* mais les créatures qui tentent d'attaquer la cible et ratent leur [jet de sauvegarde](./jet de sauvegarde.md) ressentent un profond sentiment de pitié envers elle, comme si c'était un petit être faible et pathétique qui ne représente aucun danger. Si la cible rompt le sort en attaquant, les créatures qui ont raté leur jet de sauvegarde gagnent un bonus de moral de +2 contre la cible pendant 1 minute.
+Ce sort fonctionne comme *[[sanctuaire]]* mais les créatures qui tentent d'attaquer la cible et ratent leur [[jet de sauvegarde]] ressentent un profond sentiment de pitié envers elle, comme si c'était un petit être faible et pathétique qui ne représente aucun danger. Si la cible rompt le sort en attaquant, les créatures qui ont raté leur jet de sauvegarde gagnent un bonus de moral de +2 contre la cible pendant 1 minute.

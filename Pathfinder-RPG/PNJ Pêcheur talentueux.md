@@ -10,11 +10,11 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Pêcheur talentueux|FP 2}
-{s:BDTexte|*Source : [Manuel des PNJ p. 256](./Manuel des PNJ (Contenu).md)*}
+{s:BDTexte|*Source : [[Manuel des PNJ (contenu)|Manuel des PNJ p. 256]]*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Halfelin](./Halfelin.md) [homme du peuple](./Homme du peuple.md) 4}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([halfelin](./sous-type halfelin.md)) de taille P, CN}
-{s:BDTexte|**Init** +3 ; **Sens** [Perception](./Perception.md) +10}
+{s:BDTexte|[[Halfelin]] [[Homme du peuple]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type halfelin|halfelin]]) de taille P, CN}
+{s:BDTexte|**Init** +3 ; **Sens** [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 11 (Dex +3, taille +1)}
 {s:BDTexte|**pv** 10 (4d6–4)}
@@ -28,10 +28,10 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 6, **Dex** 16, **Con** 9, **Int** 10, **Sag** 12, **Cha** 13}
 {s:BDTexte|**BBA** +2 ; **BMO** -1 ; **DMD** 12}
-{s:BDTexte|**Dons** [Talent](./Talent.md) (Perception), [Tir à bout portant](./Tir à bout portant.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +5 (+1 pour sauter), [Artisanat](./Artisanat.md) (cuisinier) +6, [Connaissances](./Connaissances.md) (folklore local, géographie, nature) +2, [Escalade](./Escalade.md) +0, [Natation](./Natation.md) +2, [Perception](./Perception.md) +10, [Profession](./Profession.md) (pêcheur) +6, [Survie](./Survie.md) +2}
+{s:BDTexte|**Dons** [[Talent]] (Perception), [[Tir à bout portant]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +5 (+1 pour sauter), [[Artisanat]] (cuisinier) +6, [[Connaissances]] (folklore local, géographie, nature) +2, [[Escalade]] +0, [[Natation]] +2, [[Perception]] +10, [[Profession]] (pêcheur) +6, [[Survie]] +2}
 {s:BDTexte|**Langues** commun, halfelin}
-{s:BDTexte|**Équipement de combat** *[potion](./Potions magiques.md) de [soins légers](./Soins légers.md)* ; **Équipement divers** [filet de pêche](./Filet de pêche (objet).md), [fronde](./fronde (arme).md) avec 10 [billes de fronde](./Billes de fronde (arme).md), [Outils d'artisan de maître (pêche)](./Outils dartisan (objet).md), [torche éternelle](./Torche éternelle (objet).md), 1 480 po}
+{s:BDTexte|**Équipement de combat** *[[Potions magiques|potion]] de [[soins légers]]* ; **Équipement divers** [[filet de pêche (objet)|filet de pêche]], [[fronde (arme)|fronde]] avec 10 [[Billes de fronde (arme)|billes de fronde]], [[Outils dartisan (objet)|Outils d'artisan de maître (pêche)]], [[torche éternelle (objet)|torche éternelle]], 1 480 po}
 </div>
 </td><td><div>Le pêcheur accompli s’enorgueillit d’affronter les épreuves de la vie avec aplomb.
 

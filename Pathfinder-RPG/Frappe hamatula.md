@@ -11,10 +11,10 @@ Categories:
 
 {s:RSE}*Le personnage peut empaler ses adversaires sur son arme et les maintenir en place.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science de la lutte](./Science de la lutte.md), [Force](./Force.md) 13, [BBA](./BBA.md) +7
+**Conditions.** [[Science de la lutte]], [[Force]] 13, [[BBA]] +7
 
-**Avantages.** Lorsqu’il blesse un adversaire avec une arme perforante, le personnage peut aussitôt faire un test de [lutte](./lutte.md). S’il réussit, son adversaire est empalé sur son arme et les deux (l’adversaire et le personnage) sont considérés comme [agrippés](./Agrippé.md). Tant que l’adversaire est empalé, le personnage peut faire un test de lutte, par une [action d’attaque](./Actions simples.md) lors de son tour, avec un malus de -4 pour blesser l’adversaire avec son arme, même si celle-ci ne peut normalement pas être utilisée en lutte.
+**Avantages.** Lorsqu’il blesse un adversaire avec une arme perforante, le personnage peut aussitôt faire un test de [[lutte]]. S’il réussit, son adversaire est empalé sur son arme et les deux (l’adversaire et le personnage) sont considérés comme [[agrippé|agrippés]]. Tant que l’adversaire est empalé, le personnage peut faire un test de lutte, par une [[actions simples|action d’attaque]] lors de son tour, avec un malus de -4 pour blesser l’adversaire avec son arme, même si celle-ci ne peut normalement pas être utilisée en lutte.
 
 **Normal.** Le personnage ne peut que porter une attaque à mains nues, avec une arme naturelle ou avec une arme légère contre les adversaires qu’il agrippe.

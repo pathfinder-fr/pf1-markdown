@@ -10,8 +10,8 @@ Categories:
 
 {s:cm}*Le troll utilise ses dents et ses griffes pour déchiqueter ses ennemis.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Condition.** Attaque de morsure, pouvoir [éventration](./Éventration (capacité).md), [troll](./Troll.md)
+**Condition.** Attaque de morsure, pouvoir [[éventration (capacité)|éventration]], [[troll]]
 
-**Avantage.** Si le troll est en mesure d’utiliser son pouvoir d’[éventration](./Éventration (capacité).md) lors du tour où il a réussi une attaque de morsure, son éventration inflige un nombre de dégâts supplémentaires égal à la moitié de son modificateur de [Force](./Force.md).
+**Avantage.** Si le troll est en mesure d’utiliser son pouvoir d’[[éventration (capacité)|éventration]] lors du tour où il a réussi une attaque de morsure, son éventration inflige un nombre de dégâts supplémentaires égal à la moitié de son modificateur de [[Force]].

@@ -5,4 +5,4 @@ LastModified: 2010-09-10 19:47
 RedirectTo: Pathfinder-RPG.Substances et objets spéciaux
 ---
 
->>> [Pathfinder-RPG.Substances et objets spéciaux](./Pathfinder-RPG-Substances-et-objets-spéciaux.md)
+>>> [[Pathfinder-RPG.Substances et objets spéciaux]]

@@ -13,28 +13,28 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Ville|Extraplanaire}
 - *Source : Bestiaire 2* p.255
 - **PX** 2 400
-- **[Humanoïde monstrueux](./type Humanoïde monstrueux.md)** de taille M, LN
-- **Init** +6 ; **Sens** [détection de la magie](./Détection de la magie.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +8
+- **[[type Humanoïde monstrueux|Humanoïde monstrueux]]** de taille M, LN
+- **Init** +6 ; **Sens** [[détection de la magie]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +8
 (((Défense)))
 - **CA** 19, contact 12, pris au dépourvu 17 (armure +4, Dex +2, naturelle +3)
 - **pv** 68 (8d10+24)
 - **Réf** +8, **Vig** +7, **Vol** +9
-- **Capacités défensives** absorption de force ; [RD](./RD.md) 5/magie
+- **Capacités défensives** absorption de force ; [[RD]] 5/magie
 (((Attaque)))
 - **VD** 9 m (6 {s:c})
-- **Corps à corps** corsèque, +11/+6 (2d4+4/×3) et 2 coups, +6 (1d4+1 plus [étreinte](./Étreinte.md)) ou 4 coups, +11 (1d4+3 plus [étreinte](./Étreinte.md))
+- **Corps à corps** corsèque, +11/+6 (2d4+4/×3) et 2 coups, +6 (1d4+1 plus [[étreinte]]) ou 4 coups, +11 (1d4+3 plus [[étreinte]])
 - **Espace** 1,50 m (1 {s:c}) ; **Allonge** 1,50 m (1 {s:c}) (3 m (2 {s:c}) pour la corsèque)
 - **Attaques spéciales** projectile de force
 - **Pouvoirs magiques** (NLS 8 ; concentration +13)
-  - Constant — *[armure de mage](./Armure de mage.md)*, *[détection de la magie](./Détection de la magie.md)*, *[disque flottant](./Disque flottant.md)*, *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)* (un type d’énergie à la fois), *[serviteur invisible](./Serviteur invisible.md)*
-  - 3/jour — *[déplacement](./Déplacement.md)*, *[dissipation de la magie](./Dissipation de la magie.md)*, *[suggestion](./Suggestion.md)* (DD 18)
-  - 1/jour — *[porte dimensionnelle](./Porte dimensionnelle.md)*, *[sphère d’isolement](./Sphère disolement.md)* (DD 19)
+  - Constant — *[[armure de mage]]*, *[[détection de la magie]]*, *[[disque flottant]]*, *[[résistance aux énergies destructives]]* (un type d’énergie à la fois), *[[serviteur invisible]]*
+  - 3/jour — *[[déplacement]]*, *[[dissipation de la magie]]*, *[[suggestion]]* (DD 18)
+  - 1/jour — *[[porte dimensionnelle]]*, *[[sphère disolement|sphère d’isolement]]* (DD 19)
 (((Statistiques)))
 - **For** 16, **Dex** 15, **Con** 17, **Int** 18, **Sag** 13, **Cha** 20
-- **BBA** +8 ; **BMO** +11 (+15 [lutte](./lutte.md)) ; **DMD** 23
-- **Dons** [Parade de projectiles](./Parade de projectiles.md), [Persuasion](./Persuasion.md), [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md) 
-- **Compétences** [Bluff](./Bluff.md) +13, [Connaissances](./Connaissances.md) (géographie) +12, [Connaissances](./Connaissances.md) (mystères) +12, [Connaissances](./Connaissances.md) (plans) +12, [Diplomatie](./Diplomatie.md) +11, [Estimation](./Estimation.md) +12, [Intimidation](./Intimidation.md) +18, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +5, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +9
-- **Langues** commun, draconique, une ou plusieurs langues planaires ; [don des langues](./Don des langues.md)
+- **BBA** +8 ; **BMO** +11 (+15 [[lutte]]) ; **DMD** 23
+- **Dons** [[Parade de projectiles]], [[Persuasion]], [[Science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]], [[Volonté de fer]] 
+- **Compétences** [[Bluff]] +13, [[Connaissances]] (géographie) +12, [[Connaissances]] (mystères) +12, [[Connaissances]] (plans) +12, [[Diplomatie]] +11, [[Estimation]] +12, [[Intimidation]] +18, [[Perception]] +8, [[Psychologie]] +5, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +9
+- **Langues** commun, draconique, une ou plusieurs langues planaires ; [[don des langues]]
 (((Écologie)))
 - **Environnement** terre ferme
 - **Organisation sociale** solitaire, entourage (1 sorcewyrd et 2–5 gardes humanoïdes) ou enclave (2–5 sorcewyrds et 11–20 gardes humanoïdes)

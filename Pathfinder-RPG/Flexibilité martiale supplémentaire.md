@@ -10,6 +10,6 @@ Categories:
 
 {s:mca} *Le personnage est extrêmement polyvalent en combat.*
 
-**Conditions.** Pouvoir de classe [flexibilité martiale](./Lutteur.md#FLEXIBILITEMARTIALE).
+**Conditions.** Pouvoir de classe [[lutteur#FLEXIBILITEMARTIALE|flexibilité martiale]].
 
-**Avantage.** Le personnage peut utiliser son pouvoir de [flexibilité martiale](./Lutteur.md#FLEXIBILITEMARTIALE) trois fois de plus par jour.
+**Avantage.** Le personnage peut utiliser son pouvoir de [[lutteur#FLEXIBILITEMARTIALE|flexibilité martiale]] trois fois de plus par jour.

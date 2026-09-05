@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 30 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 15
-<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
 ---
-Lorsqu'il est ouvert pour la première fois, ce bocal scellé dégage une odeur tellement antiseptique qu'elle recouvre les autres odeurs jusqu'à ce qu'elle se disperse (1d6 [rounds](./round.md) après ouverture). Les créatures à moins de 6 mètres du pot pendant ce laps de temps obtiennent un bonus alchimique de +5 aux [jets de sauvegarde](./JDS.md) contre les attaques basées sur l’odorat tant que l'odeur de la sève persiste, mais elles échouent automatiquement à tous les tests de [Perception](./Perception.md) basés sur l'odorat pendant cette période.
+Lorsqu'il est ouvert pour la première fois, ce bocal scellé dégage une odeur tellement antiseptique qu'elle recouvre les autres odeurs jusqu'à ce qu'elle se disperse (1d6 [[round|rounds]] après ouverture). Les créatures à moins de 6 mètres du pot pendant ce laps de temps obtiennent un bonus alchimique de +5 aux [[jds|jets de sauvegarde]] contre les attaques basées sur l’odorat tant que l'odeur de la sève persiste, mais elles échouent automatiquement à tous les tests de [[Perception]] basés sur l'odorat pendant cette période.

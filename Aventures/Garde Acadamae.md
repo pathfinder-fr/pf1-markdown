@@ -11,9 +11,9 @@ Categories:
 
 {s:BDTitre|Garde de l'Académie de Korvosa|FP 4}
 - PX 1 200
-- Tieffelin guerrier ([gardien occulte](./../Pathfinder-RPG/Gardien occulte (guerrier).md), [guerrier mutagénique](./../Pathfinder-RPG/Guerrier mutagénique (guerrier).md)) 5 (Pathfinder Player Companion: Familiar Folio 7, Pathfinder RPG Advanced Class Guide 93, Pathfinder RPG Bestiary 264)
-- [Extérieur](./../Pathfinder-RPG/type Extérieur.md) (natif) de taille M, N
-- **Init** +2 ; **Sens** vision dans le noir 18 m., [Perception](./../Pathfinder-RPG/Perception.md) +9
+- Tieffelin guerrier ([[Pathfinder-RPG.Gardien occulte (guerrier)|gardien occulte]], [[Pathfinder-RPG.Guerrier mutagénique (guerrier)|guerrier mutagénique]]) 5 (Pathfinder Player Companion: Familiar Folio 7, Pathfinder RPG Advanced Class Guide 93, Pathfinder RPG Bestiary 264)
+- [[Pathfinder-RPG.type Extérieur|Extérieur]] (natif) de taille M, N
+- **Init** +2 ; **Sens** vision dans le noir 18 m., [[Pathfinder-RPG.Perception|Perception]] +9
 (((Défense)))
 - **CA** 17, contact 12, pris au dépourvu 15 (armure +5, Dex +2)
 - **pv** 47 (5d10+15)
@@ -31,8 +31,8 @@ Categories:
 (((Caractéristiques)))
 - **For** 16, **Dex** 15, **Con** 14, **Int** 12, **Sag** 12, **Cha** 6
 - **BBA** +5, **BMO** +8, **DMD** 20
-- **Dons** [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Attaques réflexes](./../Pathfinder-RPG/Attaques réflexes.md), [Garde du corps](./../Pathfinder-RPG/Garde du corps.md), [Mauler's Endurance](http://www.d20pfsrd.com/feats/familiar-feats/mauler-s-endurance-familiar)
-- **Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +4, [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) +5, [Escalade](./../Pathfinder-RPG/Escalade.md) +6, [Perception](./../Pathfinder-RPG/Perception.md) +9, [Utilisation d'objets magiques](./Pathfinder-RPG-Utilisation-dObjets-Magiques-ashx.md) +6, [Vol](./../Pathfinder-RPG/Vol.md)  +5 ; **Modificateurs raciaux** Vol +4
+- **Dons** [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]], [[Pathfinder-RPG.Attaques réflexes|Attaques réflexes]], [[Pathfinder-RPG.Garde du corps|Garde du corps]], [Mauler's Endurance](http://www.d20pfsrd.com/feats/familiar-feats/mauler-s-endurance-familiar)
+- **Compétences** [[Pathfinder-RPG.Acrobaties|Acrobaties]] +4, [[Pathfinder-RPG.Art de la magie|Art de la magie]] +5, [[Pathfinder-RPG.Escalade|Escalade]] +6, [[Pathfinder-RPG.Perception|Perception]] +9, [[Pathfinder-RPG.Utilisation dObjets Magiques.ashx|Utilisation d'objets magiques]] +6, [[Pathfinder-RPG.Vol|Vol]]  +5 ; **Modificateurs raciaux** Vol +4
 - **Langues** commun, draconique, infernal
 - **Particularités** Ailes vestigiales, Mutagène (+4/-2, +2 armure naturelle, 50 minutes), Queue préhensile
 - **Équipement de combat** Baguette d'armure de mage (13 charges), Baguette de soins légers (32 charges), Huile d'arme magique, Potion d'agrandissement ; **Autre équipement** bardiche de maître, cape de résistance +1, chemise de mailles +1, morgenstern en argent, 9 po
@@ -47,7 +47,7 @@ Categories:
 <div class="BD">
 {s:BDTitre|Archimède (familier chouette)}
 - Chouette (mauler)
-- [Créature magique](./../Pathfinder-RPG/type Créature magique.md) de taille TP, N
+- [[Pathfinder-RPG.type Créature magique|Créature magique]] de taille TP, N
 - **Init** +3 ; **Sens** vision nocturne, Perception +14
 (((Défense)))
 - **CA** 18, contact 15, pris au dépourvu 15 (Dex +3, naturelle +3, taille +2)
@@ -69,8 +69,8 @@ Categories:
 (((Caractéristiques)))
 - **For** 8, **Dex** 17, **Con** 11, **Int** 6, **Sag** 15, **Cha** 6
 - **BBA** +5, **BMO** +6, **DMD** 15
-- **Dons** [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md), [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Attaques réflexes](./../Pathfinder-RPG/Attaques réflexes.md), [Garde du corps](./../Pathfinder-RPG/Garde du corps.md)
-- **Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +9, [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) -1, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +15, [Escalade](./../Pathfinder-RPG/Escalade.md) +7, [Perception](./../Pathfinder-RPG/Perception.md) +14, [Utilisation d'objets magiques](./Pathfinder-RPG-Utilisation-dObjets-Magiques-ashx.md) +3, [Vol](./../Pathfinder-RPG/Vol.md)  +7 ; **Modificateurs raciaux** Discrétion +4, Perception +4
+- **Dons** [[Pathfinder-RPG.Attaque en finesse|Attaque en finesse]], [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]], [[Pathfinder-RPG.Attaques réflexes|Attaques réflexes]], [[Pathfinder-RPG.Garde du corps|Garde du corps]]
+- **Compétences** [[Pathfinder-RPG.Acrobaties|Acrobaties]] +9, [[Pathfinder-RPG.Art de la magie|Art de la magie]] -1, [[Pathfinder-RPG.Discrétion|Discrétion]] +15, [[Pathfinder-RPG.Escalade|Escalade]] +7, [[Pathfinder-RPG.Perception|Perception]] +14, [[Pathfinder-RPG.Utilisation dObjets Magiques.ashx|Utilisation d'objets magiques]] +3, [[Pathfinder-RPG.Vol|Vol]]  +7 ; **Modificateurs raciaux** Discrétion +4, Perception +4
 - **Particularités** Esquive extraordinaire, Forme de combat, Lien forgé dans le sang
 (((Capacités spéciales)))
 - **Esquive extraordinaire** Pas de dégats en cas de jet de réflexe réussi, demi-dégats en cas d'échec.

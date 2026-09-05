@@ -12,18 +12,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F/FD](./composantes.md) (un morceau de coton mouillé)  
+**Composantes** [[Composantes|V, G, F/FD]] (un morceau de coton mouillé)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une arme à feu chargée  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]])
 
-Ce sort gâche les munitions déjà chargées dans une arme avec de l’humidité. Toute tentative pour tirer avec ces munitions mouillées échoue, sans risque de [long feu](./long feu.md), et le tireur doit passer une [action complexe](./Action complexe.md) à nettoyer son arme avant de la recharger et de pouvoir tirer à nouveau. Si le tireur est conscient de l’effet du sort avant d’essayer de tirer avec la munition mouillée ([Art de la magie](./Art de la magie.md) [DD](./DD.md) 16 pour identifier le sort au moment de l’incantation ou effet similaire), il peut utiliser une [action simple](./Action simple.md) pour évacuer la munition gâchée qui est alors détruite.
+Ce sort gâche les munitions déjà chargées dans une arme avec de l’humidité. Toute tentative pour tirer avec ces munitions mouillées échoue, sans risque de [[long feu]], et le tireur doit passer une [[action complexe]] à nettoyer son arme avant de la recharger et de pouvoir tirer à nouveau. Si le tireur est conscient de l’effet du sort avant d’essayer de tirer avec la munition mouillée ([[Art de la magie]] [[DD]] 16 pour identifier le sort au moment de l’incantation ou effet similaire), il peut utiliser une [[action simple]] pour évacuer la munition gâchée qui est alors détruite.

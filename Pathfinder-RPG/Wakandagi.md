@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Wakandagi|FP 14}
 {s:pucem|Extérieur|Aquatique|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.291](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.291]]*}
 {s:BDTexte|**PX** 38 400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Eau](./sous-type Eau.md), [natif](./sous-type natif.md)) de taille G, NB}
-{s:BDTexte|**Init** +6 ; **Sens** *[détection de la magie](./Détection de la magie.md)*, *[détection du Mal](./Détection du Mal.md)*, [odorat](./Odorat (capacité).md), [vision dans la brume](./Vision dans la brume (capacité).md), [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +23}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[sous-type natif|natif]]) de taille G, NB}
+{s:BDTexte|**Init** +6 ; **Sens** *[[détection de la magie]]*, *[[détection du Mal]]*, [[Odorat (capacité)|odorat]], [[Vision dans la brume (capacité)|vision dans la brume]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +23}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 16, pris au dépourvu 21 (Dex +6, esquive +1, naturelle +12, taille -1)}
 {s:BDTexte|**pv** 200 (16d10+112)}
@@ -25,22 +25,22 @@ Categories:
 {s:BDTexte|**Corps à corps** corne, +25 (1d8+10) et morsure, +25 (1d8+10) et 2 sabots, +23 (1d8+5) et queue, +23 (2d8+5)}
 {s:BDTexte|**Distance** bombe aqueuse, +21 contact (bousculade)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,50 m (3 m avec la queue)}
-{s:BDTexte|**Attaques spéciales** bombe aqueuse, [bond](./Bond (capacité).md), [charge puissante](./Charge puissante (capacité).md) (corne, 2d8+15), [retournement de navires](./Retournement de navires (capacité).md)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 14 ; [concentration](./concentration.md) +20)}
-{s:BDSorts|À volonté — *[détection de la magie](./Détection de la magie.md)*, *[détection du Mal](./Détection du Mal.md)*, *[extinction des feux](./Extinction des feux.md)* (DD 19), *[nappe de brouillard](./Nappe de brouillard.md)*}
-{s:BDSorts|3/jour — *[neutralisation du poison](./Neutralisation du poison.md)*, *[orbe aqueux](./Orbe aqueux.md)* (DD 19)}
+{s:BDTexte|**Attaques spéciales** bombe aqueuse, [[Bond (capacité)|bond]], [[Charge puissante (capacité)|charge puissante]] (corne, 2d8+15), [[Retournement de navires (capacité)|retournement de navires]]}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 14 ; [[concentration]] +20)}
+{s:BDSorts|À volonté — *[[détection de la magie]]*, *[[détection du Mal]]*, *[[extinction des feux]]* (DD 19), *[[nappe de brouillard]]*}
+{s:BDSorts|3/jour — *[[neutralisation du poison]]*, *[[orbe aqueux]]* (DD 19)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 30, **Dex** 23, **Con** 24, **Int** 13, **Sag** 19, **Cha** 22}
-{s:BDTexte|**BBA** +16 ; **BMO** +27 ; **DMD** 44 (48 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque éclair](./Attaque éclair.md), [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Souplesse du serpent](./Souplesse du serpent.md), [Tir à bout portant](./Tir à bout portant.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +20, [Art de la magie](./Art de la magie.md) +9, [Connaissances](./Connaissances.md) (nature, plans) +15, [Diplomatie](./Diplomatie.md) +20, [Discrétion](./Discrétion.md) +20, [Intimidation](./Intimidation.md) +20, [Natation](./Natation.md) +23, [Perception](./Perception.md) +23, [Survie](./Survie.md) +20}
+{s:BDTexte|**BBA** +16 ; **BMO** +27 ; **DMD** 44 (48 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque éclair]], [[Attaque en puissance]], [[Attaques multiples]], [[Esquive]], [[Frappe décisive]], [[Réflexes surhumains]], [[Souplesse du serpent]], [[Tir à bout portant]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +20, [[Art de la magie]] +9, [[Connaissances]] (nature, plans) +15, [[Diplomatie]] +20, [[Discrétion]] +20, [[Intimidation]] +20, [[Natation]] +23, [[Perception]] +23, [[Survie]] +20}
 {s:BDTexte|**Langues** commun, sylvestre}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** rivières tempérées}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Bombe aqueuse (Sur).** Par une [action simple](./Action simple.md), un wakandagi peut cracher une boule d’eau sur une cible distante d’au maximum 18 mètres par une attaque de [contact](./contact.md) à distance. Si cette attaque touche la cible, elle se résout comme une [bousculade](./bousculade.md) en utilisant le [BMO](./BMO.md) du wakandagi. Cette bousculade ne provoque pas d’[attaque d’opportunité](./AO.md). Si la boule d’eau touche la cible, elle reste dans la case de cette cible. Si elle la rate, elle poursuit sa course en ligne droite et atterrit une fois qu’elle a atteint sa portée maximale. La boule fait 60 centimètres de diamètre pour 25 kilos. Elle explose un round après le crachat du wakandagi, infligeant 10d6 points de [dégâts non-létaux](./Blessures et mort.md#NONLETAL) à toutes les créatures situées dans un rayon de 6 mètres autour d’elle ([Réflexes](./Réflexes.md) DD 25 pour réduire les dégâts de moitié). Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Bombe aqueuse (Sur).** Par une [[action simple]], un wakandagi peut cracher une boule d’eau sur une cible distante d’au maximum 18 mètres par une attaque de [[contact]] à distance. Si cette attaque touche la cible, elle se résout comme une [[bousculade]] en utilisant le [[BMO]] du wakandagi. Cette bousculade ne provoque pas d’[[AO|attaque d’opportunité]]. Si la boule d’eau touche la cible, elle reste dans la case de cette cible. Si elle la rate, elle poursuit sa course en ligne droite et atterrit une fois qu’elle a atteint sa portée maximale. La boule fait 60 centimètres de diamètre pour 25 kilos. Elle explose un round après le crachat du wakandagi, infligeant 10d6 points de [[Blessures et mort#NONLETAL|dégâts non-létaux]] à toutes les créatures situées dans un rayon de 6 mètres autour d’elle ([[Réflexes]] DD 25 pour réduire les dégâts de moitié). Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div></td>
 <td><div>*Cette bête cornue mêle les caractéristiques d’un daim élégant à celles d’un serpent sinueux.*

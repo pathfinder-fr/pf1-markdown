@@ -10,6 +10,6 @@ Categories:
 - Nex
 ---
 
-La Chaîne Brisée est un massif montagneux du sud du [Garund](./Garund.md). Elle s'étend depuis les confins du sud de l'étendue du [Mwangi](./Mwangi.md) jusqu'à la latitude du centre du [Nex](./Nex.md).
+La Chaîne Brisée est un massif montagneux du sud du [[Garund]]. Elle s'étend depuis les confins du sud de l'étendue du [[Mwangi]] jusqu'à la latitude du centre du [[Nex]].
 
-La Chaîne Brisée sert de frontière naturelle entre l'étendue du [Mwangi](./Mwangi.md) et les nations du [Geb](./Geb.md), de l'[Alkenastre](./Alkenastre.md) et du [Nex](./Nex.md). De nombreuses rivières y ont leur source. Les plus notables d'entre elles sont l'[Axanir](./Axanir.md) au [Geb](./Geb.md) et l'[Ustradi](./Ustradi.md) qui coule entre le Grand Duché d'[Alkenastre](./Alkenastre.md) et le [Nex](./Nex.md).
+La Chaîne Brisée sert de frontière naturelle entre l'étendue du [[Mwangi]] et les nations du [[Geb]], de l'[[Alkenastre]] et du [[Nex]]. De nombreuses rivières y ont leur source. Les plus notables d'entre elles sont l'[[Axanir]] au [[Geb]] et l'[[Ustradi]] qui coule entre le Grand Duché d'[[Alkenastre]] et le [[Nex]].

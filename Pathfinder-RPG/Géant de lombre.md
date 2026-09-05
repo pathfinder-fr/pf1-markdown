@@ -10,34 +10,34 @@ Categories:
 <div class="BD">
 {s:BDTitre|Géant de l'ombre|FP 13}
 {s:pucem|Humanoïde|Ruines-Donjons|Extraplanaire}
-{s:BDTexte|*Source : [Bestiaire de la Mer intérieure p.17](./Bestiaire de la mer Intérieure (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire de la Mer intérieure (Contenu)|Bestiaire de la Mer intérieure p.17]]*}
 {s:BDTexte|**PX** 25 600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([extraplanaire](./sous-type extraplanaire.md), [géant](./sous-type géant.md)) de taille G, LM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 36 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type géant|géant]]) de taille G, LM}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 36 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 11, pris au dépourvu 26 (armure +5, Dex +2, naturelle +12, taille -1)}
 {s:BDTexte|**pv** 218 (19d8+133)}
 {s:BDTexte|**Réf** +8, **Vig** +18, **Vol** +7}
-{s:BDTexte|**Capacités défensives** dissimulation dans l’ombre, [réception de rochers](./Réception de rochers (capacité).md)}
+{s:BDTexte|**Capacités défensives** dissimulation dans l’ombre, [[Réception de rochers (capacité)|réception de rochers]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m}
-{s:BDTexte|**Corps à corps** grand terbutje de maître, +23/+23/+18/+13 (2d8+12/19-20 plus [absorption d'énergie](./Absorption dénergie (capacité).md)) ou 2 coups, +25 (1d8+12 plus [absorption d'énergie](./Absorption dénergie (capacité).md))}
+{s:BDTexte|**Corps à corps** grand terbutje de maître, +23/+23/+18/+13 (2d8+12/19-20 plus [[Absorption dénergie (capacité)|absorption d'énergie]]) ou 2 coups, +25 (1d8+12 plus [[Absorption dénergie (capacité)|absorption d'énergie]])}
 {s:BDTexte|**Distance** rocher, +16 (1d8+12/19-20)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDTexte|**Attaques spéciales** [absorption d'énergie](./Absorption dénergie (capacité).md) (1 niveau, DD 21), [lancer de rochers](./Lancer de rochers (capacité).md) (54 m)}
+{s:BDTexte|**Attaques spéciales** [[Absorption dénergie (capacité)|absorption d'énergie]] (1 niveau, DD 21), [[Lancer de rochers (capacité)|lancer de rochers]] (54 m)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 34, **Dex** 15, **Con** 24, **Int** 10, **Sag** 12, **Cha** 15}
 {s:BDTexte|**BBA** +14 ; **BMO** +27 ; **DMD** 39}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Combat à deux armes](./Combat à deux armes.md), [Double frappe](./Double frappe.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (grand terbutje), [Science du critique](./Science du critique.md) (rocher), [Succession d'enchaînements](./Succession denchaînements.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +4 (+12 dans les zones faiblement éclairées), [Escalade](./Escalade.md) +21, [Intimidation](./Intimidation.md) +15, [Perception](./Perception.md) +14 (+18 dans les zones faiblement éclairées) ; **Modificateurs raciaux** +8 en Discrétion dans les zones faiblement éclairées, +4 en Perception dans les zones faiblement éclairées}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Combat à deux armes]], [[Double frappe]], [[Enchaînement]], [[Frappe décisive]], [[Science de la bousculade]], [[Science du critique]] (grand terbutje), [[Science du critique]] (rocher), [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +4 (+12 dans les zones faiblement éclairées), [[Escalade]] +21, [[Intimidation]] +15, [[Perception]] +14 (+18 dans les zones faiblement éclairées) ; **Modificateurs raciaux** +8 en Discrétion dans les zones faiblement éclairées, +4 en Perception dans les zones faiblement éclairées}
 {s:BDTexte|**Langues** géant, langue de l’ombre}
 {s:BDTexte|**Particularités** préparation martiale}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (plan de l’Ombre)}
 {s:BDTexte|**Organisation** solitaire, bande (2-5), famille (6-13 plus 35% de non-combattants, 1 prêtre ou une chamane-sorcière de niveau 5 à 8, et 1 chef guerrier ou barbare de niveau 7 à 10) ou compagnie (14-33 plus 1 chef guerrier ou barbare de niveau 7 à 10)}
-{s:BDTexte|**Trésor** standard (*[cuirasse](./cuirasse (armure).md) +1 en [or](./Armes et armures primitives.md)*, [grand terbutje](./grand terbutje (arme).md) [de maître](./arme de maître.md), bijoux et parures en or d’une valeur de 500 po, autre trésor)}
+{s:BDTexte|**Trésor** standard (*[[cuirasse (armure)|cuirasse]] +1 en [[Armes et armures primitives|or]]*, [[grand terbutje (arme)|grand terbutje]] [[arme de maître|de maître]], bijoux et parures en or d’une valeur de 500 po, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Dissimulation dans l’ombre (Ext).** En raison de son lien avec le plan de l’Ombre, le géant de l’ombre peut, par une [action de mouvement](./Action de mouvement.md) et lorsqu’il se trouve dans n’importe quelle lumière autre que la lumière du soleil directe, se dissimuler dans les ombres mouvantes. Ce pouvoir fonctionne alors comme le sort de *[flou](./Flou.md)* pendant 1d6+6 [rounds](./round.md). Il peut l’utiliser jusqu’à trois fois par jour.}
+{s:BDTexte|**Dissimulation dans l’ombre (Ext).** En raison de son lien avec le plan de l’Ombre, le géant de l’ombre peut, par une [[action de mouvement]] et lorsqu’il se trouve dans n’importe quelle lumière autre que la lumière du soleil directe, se dissimuler dans les ombres mouvantes. Ce pouvoir fonctionne alors comme le sort de *[[flou]]* pendant 1d6+6 [[round|rounds]]. Il peut l’utiliser jusqu’à trois fois par jour.}
 {s:BDTexte|**Préparation martiale (Ext).** Le géant de l’ombre est formé au maniement de toutes les armes simples et de guerre ainsi qu’à celle d’une arme exotique de son choix.}
 
 </div></td>
@@ -47,49 +47,49 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Géant de cendre](./Géant de cendre.md) || 11
+| [[Géant de cendre]] || 11
 |-
-| [Géant de la jungle](./Géant de la jungle.md) || 10
+| [[Géant de la jungle]] || 10
 |-
-| [Géant de la lune](./Géant de la lune.md) || 15
+| [[Géant de la lune]] || 15
 |-
-| [Géant de la taïga](./Géant de la taïga.md) || 12
+| [[Géant de la taïga]] || 12
 |-
-| [Géant de l'ombre](./Géant de lombre.md) || 13
+| [[Géant de lombre|Géant de l'ombre]] || 13
 |-
-| [Géant de pierre](./Géant de pierre.md) || 8
+| [[Géant de pierre]] || 8
 |-
-| [Géant des bois](./Géant des bois.md) || 6
+| [[Géant des bois]] || 6
 |-
-| [Géant des collines](./Géant des collines.md) || 7
+| [[Géant des collines]] || 7
 |-
-| [Géant des falaises](./Géant des falaises.md) || 9
+| [[Géant des falaises]] || 9
 |-
-| [Géant des grottes](./Géant des grottes.md) || 6
+| [[Géant des grottes]] || 6
 |-
-| [Géant des marais](./Géant des marais.md) || 8
+| [[Géant des marais]] || 8
 |-
-| [Géant des nuages](./Géant des nuages.md) || 11
+| [[Géant des nuages]] || 11
 |-
-| [Géant des océans](./Géant des océans.md) || 14
+| [[Géant des océans]] || 14
 |-
-| [Géant des rivières](./Géant des rivières.md) || 6
+| [[Géant des rivières]] || 6
 |-
-| [Géant des runes](./Géant des runes.md) || 17
+| [[Géant des runes]] || 17
 |-
-| [Géant des scories](./Géant des scories.md) || 7
+| [[Géant des scories]] || 7
 |-
-| [Géant des tempêtes](./Géant des tempêtes.md) || 13
+| [[Géant des tempêtes]] || 13
 |-
-| [Géant des éclipses](./Géant des éclipses.md) || 19
+| [[Géant des éclipses]] || 19
 |-
-| [Géant du désert](./Géant du désert.md) || 9
+| [[Géant du désert]] || 9
 |-
-| [Géant du feu](./Géant du feu.md) || 10
+| [[Géant du feu]] || 10
 |-
-| [Géant du froid](./Géant du froid.md) || 9
+| [[Géant du froid]] || 9
 |-
-| [Géant du soleil](./Géant du soleil.md) || 16
+| [[Géant du soleil]] || 16
 |}
 </div>*La peau de ce géant est noire comme l’encre. Il porte une cuirasse, une coiffe et des bracelets incrustés d’or et ornés de crânes.*
 

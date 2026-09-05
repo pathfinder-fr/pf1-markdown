@@ -4,7 +4,7 @@ Title: Le Garund
 LastModified: 2010-02-12 21:00
 ---
 
-{s:MenuContinents}Le Garund est l'un des deux continents principaux de Golarion. Il est délimité au nord par la [mer Intérieure](./mer Intérieure.md) et bordé à l'ouest par l'[océan Arcadien](./océan Arcadien.md) et à l'est par l'[océan Obari](./océan Obari.md).
+{s:MenuContinents}Le Garund est l'un des deux continents principaux de Golarion. Il est délimité au nord par la [[mer Intérieure]] et bordé à l'ouest par l'[[océan Arcadien]] et à l'est par l'[[océan Obari]].
 
 <table style="clear:right;">
 <tr style="vertical-align: top;">
@@ -59,19 +59,19 @@ LastModified: 2010-02-12 21:00
 <td class="presentation">
 Pour obtenir plus d'informations sur une des nations du Garund, cliquez sur la carte ci-contre ou sur le nom d'une des nations.
 
-- L'[Alkenastre](./Alkenastre.md)
-- Les [Entraves](./Entraves.md)
-- Le [Geb](./Geb.md)
-- L'île de [Jalmeray](./Jalmeray.md)
-- Le [Katapesh](./Katapesh.md)
-- L'Étendue [Mwangi](./Mwangi.md)
-- L'île de [Médiogalti](./Médiogalti.md)
-- Le [Nex](./Nex.md)
-- L'[Osirion](./Osirion.md)
-- Le [Rahadoum](./Rahadoum.md)
-- Le [Sargava](./Sargava.md)
-- Les [Terres humides](./Terres humides.md)
-- La [Thuvie](./Thuvie.md)
+- L'[[Alkenastre]]
+- Les [[Entraves]]
+- Le [[Geb]]
+- L'île de [[Jalmeray]]
+- Le [[Katapesh]]
+- L'Étendue [[Mwangi]]
+- L'île de [[Médiogalti]]
+- Le [[Nex]]
+- L'[[Osirion]]
+- Le [[Rahadoum]]
+- Le [[Sargava]]
+- Les [[Terres humides]]
+- La [[Thuvie]]
 
 </td>
 </tr>

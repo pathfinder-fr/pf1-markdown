@@ -14,9 +14,9 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 - *Source : Bestiaire p.67*
 - **PX** 102 400
-- [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, CM
-- **Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 cases), *[vision lucide](./Vision lucide.md)* ; [Perception](./Perception.md) +31
-- **Aura** *[aura maudite](./Aura maudite.md)* (DD 25)
+- [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille G, CM
+- **Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 cases), *[[vision lucide]]* ; [[Perception]] +31
+- **Aura** *[[aura maudite]]* (DD 25)
 {s:BDSousTitre|Défense}
 - **CA** 32, contact 17, pris au dépourvu 28 (Dex +4, naturelle +15, parade +4, taille -1)
 - **pv** 264 (16d10+176)
@@ -24,30 +24,30 @@ Categories:
 - **Immunités** électricité et poison ; **RD** 10/fer froid et Bien ; **Résistances** acide 10, feu 10, froid 10 ; **RM** 28
 {s:BDSousTitre|Attaque}
 - **VD** 12 m (8 {s:c})
-- **Corps à corps** épée longue +1, +24/+19/+14/+9 (2d6+8/17-20), 5 épées longues +1, +24 (2d6+4/17-20), coup de queue +17 (2d6+3 et [étreinte](./Étreinte.md)) ou 6 coups +22 (1d8+7), coup de queue +17 (2d6+3 et [étreinte](./Étreinte.md))
+- **Corps à corps** épée longue +1, +24/+19/+14/+9 (2d6+8/17-20), 5 épées longues +1, +24 (2d6+4/17-20), coup de queue +17 (2d6+3 et [[étreinte]]) ou 6 coups +22 (1d8+7), coup de queue +17 (2d6+3 et [[étreinte]])
 - **Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})
-- **Attaques spéciales** [constriction](./constriction.md) (coup de queue, 2d6+10 et [constriction](./constriction.md) et écrasement), enchantement des armes, maîtrise du combat à plusieurs armes
+- **Attaques spéciales** [[constriction]] (coup de queue, 2d6+10 et [[constriction]] et écrasement), enchantement des armes, maîtrise du combat à plusieurs armes
 - **Pouvoirs magiques** (NLS 16)
-  - Constant—*[aura maudite](./Aura maudite.md)* (DD 25), *[vision lucide](./Vision lucide.md)*
-  - À volonté—*[projection d'image](./Projection dimage.md)* (DD 24), *[télékinésie](./Télékinésie.md)* (DD 22), *[téléportation suprême](./Téléportation suprême.md)* (elle-même plus 25 kg d'objets uniquement)
-  - 3/jour—*[barrière de lames](./Barrière de lames.md)* (DD 23), vol
-  - 1/jour—*[convocation](./convocation.md)* (niveau 5, 1 [marilith](./Marilith.md) 20%, 1 [nalfeshnie](./Nalfeshnie.md) avec 35%, ou 1d4 [hezrous](./Hezrou.md) avec 60%)
+  - Constant—*[[aura maudite]]* (DD 25), *[[vision lucide]]*
+  - À volonté—*[[projection dimage|projection d'image]]* (DD 24), *[[télékinésie]]* (DD 22), *[[téléportation suprême]]* (elle-même plus 25 kg d'objets uniquement)
+  - 3/jour—*[[barrière de lames]]* (DD 23), vol
+  - 1/jour—*[[convocation]]* (niveau 5, 1 [[marilith]] 20%, 1 [[nalfeshnie]] avec 35%, ou 1d4 [[hezrou|hezrous]] avec 60%)
 {s:BDSousTitre|Caractéristiques}
 - **For** 25, **Dex** 19, **Con** 32, **Int** 18, **Sag** 18, **Cha** 25
-- **BBA** +16, **BMO** +24 (+28 pour la [lutte](./lutte.md)), **DMD** 42 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (épée longue), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Expertise du combat](./Expertise du combat.md), [Science du critique](./Science du critique.md) (épée longue), [Science du désarmement](./Science du désarmement.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +23, [Bluff](./Bluff.md) +26, [Connaissances](./Connaissances.md) (ingénierie) +20, [Diplomatie](./Diplomatie.md) +26, [Discrétion](./Discrétion.md) +19, [Intimidation](./Intimidation.md) +26, [Perception](./Perception.md) +31, [Psychologie](./Psychologie.md) +23, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +26, [Vol](./Vol.md) +18 ; **Modificateurs raciaux** +8 en [Perception](./Perception.md)
-- **Langues** abyssal, céleste, draconique ; [télépathie](./Télépathie.md) 30 m (20 cases)
+- **BBA** +16, **BMO** +24 (+28 pour la [[lutte]]), **DMD** 42 ([[croc-en-jambe]] impossible)
+- **Dons** [[Arme de prédilection]] (épée longue), [[Attaque en puissance]], [[Attaques réflexes]], [[Critique sanglant]], [[Don pour les critiques]], [[Expertise du combat]], [[Science du critique]] (épée longue), [[Science du désarmement]]
+- **Compétences** [[Acrobaties]] +23, [[Bluff]] +26, [[Connaissances]] (ingénierie) +20, [[Diplomatie]] +26, [[Discrétion]] +19, [[Intimidation]] +26, [[Perception]] +31, [[Psychologie]] +23, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +26, [[Vol]] +18 ; **Modificateurs raciaux** +8 en [[Perception]]
+- **Langues** abyssal, céleste, draconique ; [[télépathie]] 30 m (20 cases)
 {s:BDSousTitre|Écologie}
 - **Environnement** quelconque (Abysse)
-- **Organisation sociale** solitaire, couple, ou section (1 [marilith](./Marilith.md), 1-3 [glabrezus](./Glabrezu.md), et 3-14 [babaus](./Babau.md))
+- **Organisation sociale** solitaire, couple, ou section (1 [[marilith]], 1-3 [[glabrezu|glabrezus]], et 3-14 [[babau|babaus]])
 - **Trésor** double (6 épées longues de maître, autres trésors)
 {s:BDSousTitre|Capacités spéciales}
-- **Constriction et écrasement (Ext).** Lorsqu'une créature subit des dégâts de [constriction](./constriction.md) de la part d'un marilith, elle doit réussir un jet de Vigueur de DD25 ou perdre conscience pendant 1d8 rounds. Le DD dépend de la force.
+- **Constriction et écrasement (Ext).** Lorsqu'une créature subit des dégâts de [[constriction]] de la part d'un marilith, elle doit réussir un jet de Vigueur de DD25 ou perdre conscience pendant 1d8 rounds. Le DD dépend de la force.
 - **Enchantement des armes (Sur).** Les armes maniées par une marilith acquièrent un bonus d'altération de +1 à l'attaque et aux dégâts. Elles fonctionnent comme des armes de fer froid et d'alignement Chaotique et Mauvais (en plus des propriétés qu'elles possèdent déjà).
 - **Maîtrise du combat à plusieurs armes (Ext).** le fait de combattre avec plusieurs armes n'impose aucun malus aux jets d'attaque des marilith.
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 *Ce fiélon a un corps de serpent, un torse de femme, six bras, des oreilles pointues et des yeux au scintillement surnaturel.*
 
 Les effroyables mariliths dirigent les hordes abyssales et tiennent lieu

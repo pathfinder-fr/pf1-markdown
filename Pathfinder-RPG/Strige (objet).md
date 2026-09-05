@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 20 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces créatures de taille TP sont prétendument vendues aux clients riches comme défense d’intérieur mais on les utilisent souvent dans des sports de combat exotiques. On croit souvent, à tort, que les striges sont des vermines indomptables, mais on peut les dresser à condition de les nourrir quotidiennement avec du sang frais pour éviter qu’elles se retournent contre leurs maîtres. Voir les statistiques de la [strige](./Strige.md).
+Ces créatures de taille TP sont prétendument vendues aux clients riches comme défense d’intérieur mais on les utilisent souvent dans des sports de combat exotiques. On croit souvent, à tort, que les striges sont des vermines indomptables, mais on peut les dresser à condition de les nourrir quotidiennement avec du sang frais pour éviter qu’elles se retournent contre leurs maîtres. Voir les statistiques de la [[strige]].

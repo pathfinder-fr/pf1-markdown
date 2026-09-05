@@ -30,7 +30,7 @@ Ce wiki contient toutes les informations nécessaires pour jouer à Starfinder, 
 {s:Reference|QUELQUESCONCEPTSDEBASE}
 ### Quelques concepts de base
 
-Pour exploiter au mieux le contenu disponible, il vaut mieux se familiariser avec plusieurs abréviations et termes essentiels. Voir les pages dédiées au [vocabulaire courant](./../Pathfinder-RPG/Vocabulaire courant.md) et aux abréviations.
+Pour exploiter au mieux le contenu disponible, il vaut mieux se familiariser avec plusieurs abréviations et termes essentiels. Voir les pages dédiées au [[vocabulaire courant]] et aux abréviations.
 
 {s:Reference|PRESENTATIONDUJEU}
 

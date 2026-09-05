@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISR}*Vous pouvez exploiter les esprits du monde invisible pour délivrer vos sorts à votre place.*
 
-**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** 3 rangs en [Connaissances](./Connaissances.md) (religion), [humain](./Humain.md) (mwangi)
+**Conditions.** 3 rangs en [[Connaissances]] (religion), [[humain]] (mwangi)
 
 **Avantages.** Le personnage peut lancer des sorts à portée « contact » à une distance de 6 mètres si leur destinataire est un allié mwangi consentant qui possède ce don.

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des armures#Armuredepeau
 ---
 
->>> [Descriptions individuelles des armures#Armuredepeau](./Descriptions individuelles des armures.md#Armuredepeau)
+>>> [[Descriptions individuelles des armures#Armuredepeau]]

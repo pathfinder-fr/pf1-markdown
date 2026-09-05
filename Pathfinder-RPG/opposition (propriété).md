@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Opposition
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Opposition](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Opposition)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Opposition]]

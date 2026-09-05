@@ -13,30 +13,30 @@ Categories:
 {s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Codex monstrueux p.83*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Gobelin](./Gobelin.md) [roublard](./Roublard.md) 2}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille P, NM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[Gobelin]] [[roublard]] 2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille P, NM}
+{s:BDTexte|**Init** +4 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 15, pris au dépourvu 14 (armure +3, Dex +4, taille +1)}
 {s:BDTexte|**pv** 16 (2d8+4)}
 {s:BDTexte|**Réf** +7, **Vig** +2, **Vol** +1}
-{s:BDTexte|**Capacités défensives** [esquive totale](./Roublard.md#ESQUIVETOTALE)}
+{s:BDTexte|**Capacités défensives** [[roublard#ESQUIVETOTALE|esquive totale]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** tranchechien de maître, +5 (1d4/19-20)}
 {s:BDTexte|**Distance** arc court, +6 (1d4/×3)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +1d6}
+{s:BDTexte|**Attaques spéciales** [[roublard#ATTAQUESOURNOISE|attaque sournoise]] +1d6}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|**Pendant le combat.** Le gobelin vicieux s’efforce de prendre ses adversaires dans une embuscade afin de leur porter des [attaques sournoises](./Roublard.md#ATTAQUESOURNOISE) puis opte pour la prise en tenaille grâce aux [Acrobaties](./Acrobaties.md).}
+{s:BDTexte|**Pendant le combat.** Le gobelin vicieux s’efforce de prendre ses adversaires dans une embuscade afin de leur porter des [[roublard#ATTAQUESOURNOISE|attaques sournoises]] puis opte pour la prise en tenaille grâce aux [[Acrobaties]].}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 19, **Con** 14, **Int** 8, **Sag** 12, **Cha** 8}
 {s:BDTexte|**BBA** +1 ; **BMO** +0 ; **DMD** 14}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Combat à deux armes](./Combat à deux armes.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8, [Discrétion](./Discrétion.md) +12, [Escalade](./Escalade.md) +4, [Escamotage](./Escamotage.md) +8, [Évasion](./Évasion.md) +8, [Natation](./Natation.md) +4, [Perception](./Perception.md) +6, [Sabotage](./Sabotage.md) +8}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Combat à deux armes]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8, [[Discrétion]] +12, [[Escalade]] +4, [[Escamotage]] +8, [[Évasion]] +8, [[Natation]] +4, [[Perception]] +6, [[Sabotage]] +8}
 {s:BDTexte|**Langues** gobelin}
-{s:BDTexte|**Particularités** armes familières, [découverte de pièges](./Roublard.md#RECHERCHEDESPIEGES) +1, [talents de roublard](./Roublard.md#TALENTDEROUBLARD) ([roublard en finesse](./Talents.md#ROUBLARDENFINESSE))}
-{s:BDTexte|**Équipement de combat** *[potion](./Potions magiques.md) de [soins légers](./Soins légers.md)*, *[potion](./Potions magiques.md) de [saut](./Saut.md)*, *[potion](./Potions magiques.md) de [feuille morte](./Feuille morte.md)*, [feux grégeois](./Feu grégeois (objet).md) (4), [bâtons fumigènes](./Bâton fumigène (objet).md) (2), [pierres-tonnerres](./Pierre tonnerre (objet).md) (4) ; **Équipement divers** [cuir clouté](./armure de cuir cloutée (armure).md), [tranchechien](./tranchechien (arme).md),
-[tranchechien de maître](./tranchechien (arme).md), [arc court](./Arc court (arme).md) avec [20 flèches](./Flèches (arme).md), 18 po}
+{s:BDTexte|**Particularités** armes familières, [[Roublard#RECHERCHEDESPIEGES|découverte de pièges]] +1, [[Roublard#TALENTDEROUBLARD|talents de roublard]] ([[Talents#ROUBLARDENFINESSE|roublard en finesse]])}
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potion]] de [[soins légers]]*, *[[potions magiques|potion]] de [[saut]]*, *[[potions magiques|potion]] de [[feuille morte]]*, [[Feu grégeois (objet)|feux grégeois]] (4), [[bâton fumigène (objet)|bâtons fumigènes]] (2), [[pierre tonnerre (objet)|pierres-tonnerres]] (4) ; **Équipement divers** [[armure de cuir cloutée (armure)|cuir clouté]], [[tranchechien (arme)|tranchechien]],
+[[tranchechien (arme)|tranchechien de maître]], [[arc court (arme)|arc court]] avec [[flèches (arme)|20 flèches]], 18 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -44,27 +44,27 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Gobelin](./Gobelin.md) || 1/3
+| [[Gobelin]] || 1/3
 |-
-| [Gobelin vicieux](./Gobelin vicieux.md) || 1
+| [[Gobelin vicieux]] || 1
 |-
-| [Pionnier gobelin](./Pionnier gobelin.md) || 1
+| [[Pionnier gobelin]] || 1
 |-
-| [Commando gobelin](./../Aventures/Commando gobelin.md) || 2
+| [[Commando gobelin]] || 2
 |-
-| [Gobelin mutant](./../Aventures/Gobelin mutant.md) || 3
+| [[Gobelin mutant]] || 3
 |-
-| [Pilote de vautour gobelin](./Pilote-de-vautour-gobelin.md) || 3
+| [[Pilote de vautour gobelin]] || 3
 |-
-| [Gobelin incendiaire](./Gobelin incendiaire.md) || 4
+| [[Gobelin incendiaire]] || 4
 |-
-| [Cavalier aguerri](./Cavalier aguerri.md) || 5
+| [[Cavalier aguerri]] || 5
 |-
-| [Parle-crapaud gobelin](./Parle-crapaud-gobelin.md) || 5
+| [[Parle-crapaud gobelin]] || 5
 |-
-| [Seigneur collant gobelin](./Seigneur-collant-gobelin.md) || 6
+| [[Seigneur collant gobelin]] || 6
 |-
-| [Chef gobelin](./Chef-gobelin.md) || 9
+| [[Chef gobelin]] || 9
 |-
 |}
 </div>Les gobelins adorent le vol et sont particulièrement doués pour se déplacer sans être vus. Les gobelins vicieux sont des maîtres de l’embuscade et du camouflage. Les plus talentueux incorporent leur amour racial du feu à leurs tactiques.

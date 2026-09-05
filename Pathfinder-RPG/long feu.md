@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armes à feu#LONGFEU
 ---
 
->>> [Armes à feu#LONGFEU](./Armes à feu.md#LONGFEU)
+>>> [[Armes à feu#LONGFEU]]

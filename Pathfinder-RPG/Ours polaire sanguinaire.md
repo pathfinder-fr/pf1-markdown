@@ -13,21 +13,21 @@ Categories:
 {s:pucem|Animal|Plaines|Froid}
 {s:BDTexte|*Source : Bestiaire 5 p.199*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +7 ; **Sens** [odorat](./Odorat (capacité).md), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 12, pris au dépourvu 19 (Dex +3, naturelle +10, taille -1)}
 {s:BDTexte|**pv** 115 (10d8+70)}
 {s:BDTexte|**Réf** +10, **Vig** +14, **Vol** +6}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m, nage 6 m}
-{s:BDTexte|**Corps à corps** morsure, +15 (1d8+9) et 2 griffes, +15 (1d6+9 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** morsure, +15 (1d8+9) et 2 griffes, +15 (1d6+9 plus [[Étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,50 m}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 29, **Dex** 17, **Con** 25, **Int** 2, **Sag** 16, **Cha** 14}
-{s:BDTexte|**BBA** +7 ; **BMO** +17 (+21 en [lutte](./lutte.md)) ; **DMD** 28 (32 conter les crocs-en-jambe)}
-{s:BDTexte|**Dons** [Course](./Course.md), [Endurance](./Endurance.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +21, [Perception](./Perception.md) +14, [Survie](./Survie.md) +7}
+{s:BDTexte|**BBA** +7 ; **BMO** +17 (+21 en [[lutte]]) ; **DMD** 28 (32 conter les crocs-en-jambe)}
+{s:BDTexte|**Dons** [[Course]], [[Endurance]], [[Science de linitiative|Science de l'initiative]], [[Talent]] (Perception), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Natation]] +21, [[Perception]] +14, [[Survie]] +7}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** côtes ou plaines froides}
 {s:BDTexte|**Organisation** solitaire ou couple}
@@ -39,20 +39,20 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Grizzly](./Grizzly.md) || 4
+| [[Grizzly]] || 4
 |-
-| [Ours sanguinaire](./Ours sanguinaire.md) || 7
+| [[Ours sanguinaire]] || 7
 |-
-| [Ours polaire](./Ours polaire.md) || 5
+| [[Ours polaire]] || 5
 |-
-| [Ours polaire sanguinaire](./Ours polaire sanguinaire.md) || 8
+| [[Ours polaire sanguinaire]] || 8
 |}
 </div>*De la fourrure blanche comme neige de cet animal massif dépassent plusieurs excroissances osseuses impressionnantes.*
 
 Les ours polaires sanguinaires sont plus grands et plus agressifs que les ours polaires et les ours des cavernes ordinaires, même s’ils sont de la même espèce. Ces animaux irascibles préfèrent éviter les régions colonisées, mais s’aventurent parfois dangereusement près des populations lorsqu’ils chassent, ce qui aboutit parfois à des massacres sanglants.
 
-#### L'ours polaire sanguinaire comme [compagnon animal](./liste des compagnons animaux.md)
-**Caractéristiques de départ :** **Taille** P ; **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +2 ; **Attaque** morsure (1d4), 2 griffes (1d3) ; **Caractéristiques** For 15, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+#### L'ours polaire sanguinaire comme [[Liste des compagnons animaux|compagnon animal]]
+**Caractéristiques de départ :** **Taille** P ; **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +2 ; **Attaque** morsure (1d4), 2 griffes (1d3) ; **Caractéristiques** For 15, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4 :** **Taille** M ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2.
 </div></td></tr></table>

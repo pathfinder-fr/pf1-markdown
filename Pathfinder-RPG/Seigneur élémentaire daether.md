@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Élémentaire daether#_5
 ---
 
->>> [Élémentaire daether#_5](./Élémentaire daether.md#_5)
+>>> [[Élémentaire daether#_5]]

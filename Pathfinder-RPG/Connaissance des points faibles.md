@@ -10,8 +10,8 @@ Categories:
 
 {s:mca}*Le personnage connait bien les faiblesses de ses ennemis.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** Aptitude de classe de [savoir bardique](./Barde.md#SAVOIRBARDIQUE).
+**Conditions.** Aptitude de classe de [[barde#SAVOIRBARDIQUE|savoir bardique]].
 
-**Avantage.** Quand il parvient à identifier une créature grâce à un test de [Connaissances](./Connaissances.md) approprié, le personnage gagne un bonus de +1 aux [jets d’attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) effectués contre cette créature pendant un [round](./round.md).
+**Avantage.** Quand il parvient à identifier une créature grâce à un test de [[Connaissances]] approprié, le personnage gagne un bonus de +1 aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] effectués contre cette créature pendant un [[round]].

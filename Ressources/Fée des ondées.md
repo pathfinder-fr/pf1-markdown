@@ -11,8 +11,8 @@ Categories:
 {s:BDTitre|Fée des ondées|FP 2}
 {s:BDTexte|*Source : Faenil*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Fée](./../Pathfinder-RPG/type Fée.md) de taille TP, CN}
-{s:BDTexte|**Init** +8 ; **Sens** [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +8}
+{s:BDTexte|[[pathfinder-RPG.type Fée|Fée]] de taille TP, CN}
+{s:BDTexte|**Init** +8 ; **Sens** [[pathfinder-RPG.vision nocturne|vision nocturne]] ; [[pathfinder-RPG.Perception|Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 18, pris au dépourvu 12 (Dex +5, taille +2, esquive +1)}
 {s:BDTexte|**pv** 10 (3d6)}
@@ -24,15 +24,15 @@ Categories:
 {s:BDTexte|**Distance** Bâton de pluie, +7 (1d6 froid non létal)}
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6)}
-{s:BDSorts|A Volonté — *[Brume de dissimulation](./../Pathfinder-RPG/Brume de dissimulation.md)*, *[Création d'eau](./../Pathfinder-RPG/Création deau.md)* (en fine pluie uniquement)}
-{s:BDSorts|3/jour — *[Bourrasque](./../Pathfinder-RPG/Bourrasque.md)*}
-{s:BDSorts|1/jour — *[Nappe de brouillard](./../Pathfinder-RPG/Nappe de brouillard.md)*, *[Extinction des feux](./../Pathfinder-RPG/Extinction des feux.md)*}
+{s:BDSorts|A Volonté — *[[pathfinder-RPG.Brume de dissimulation|Brume de dissimulation]]*, *[[pathfinder-RPG.Création deau|Création d'eau]]* (en fine pluie uniquement)}
+{s:BDSorts|3/jour — *[[pathfinder-RPG.Bourrasque|Bourrasque]]*}
+{s:BDSorts|1/jour — *[[pathfinder-RPG.Nappe de brouillard|Nappe de brouillard]]*, *[[pathfinder-RPG.Extinction des feux|Extinction des feux]]*}
 {s:BDTexte|**Attaque spéciale** : Intempérie}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 5, **Dex** 18, **Con** 10, **Int** 14, **Sag** 15, **Cha** 18}
 {s:BDTexte|**BBA** +1, **BMO** -5, **DMD** 10}
 {s:BDTexte|**Dons** Science de l'initiative, Esquive}
-{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +10,  [Connaissances](./../Pathfinder-RPG/Connaissances.md) (nature) +8, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +16, [Évasion](./../Pathfinder-RPG/Évasion.md) +10, [Intimidation](./../Pathfinder-RPG/Intimidation.md) +7,  [Perception](./../Pathfinder-RPG/Perception.md) +8, [Survie](./../Pathfinder-RPG/Survie.md) +5, [Vol](./../Pathfinder-RPG/Vol.md) +22 ; **Modificateurs raciaux** : [Discrétion](./../Pathfinder-RPG/Discrétion.md)+4 sous forme gazeuse}
+{s:BDTexte|**Compétences** [[pathfinder-RPG.Acrobaties|Acrobaties]] +10,  [[pathfinder-RPG.Connaissances|Connaissances]] (nature) +8, [[pathfinder-RPG.Discrétion|Discrétion]] +16, [[pathfinder-RPG.Évasion|Évasion]] +10, [[pathfinder-RPG.Intimidation|Intimidation]] +7,  [[pathfinder-RPG.Perception|Perception]] +8, [[pathfinder-RPG.Survie|Survie]] +5, [[pathfinder-RPG.Vol|Vol]] +22 ; **Modificateurs raciaux** : [[pathfinder-RPG.Discrétion|Discrétion]]+4 sous forme gazeuse}
 {s:BDTexte|**Langues** commun, elfique, sylvestre }
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Faerie}
@@ -40,8 +40,8 @@ Categories:
 {s:BDTexte|**Trésor** bâton de pluie}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Bâton de pluie (Sur).** Les fées des ondées possèdent toutes une arme appelée bâton de pluie dont elles peuvent se servir comme bâton de combat ou comme sarbacane. Utilisé à distance, cette arme n'utilise aucun projectile, n'inflige pas de dégâts physiques mais la cible a la sensation qu'une pluie glaciale vient de le fouetter. Il subit 1D6 points de dégâts de froid non létaux. Les créatures protégées par une endurances aux énergies destructives (froid) sont insensibles à ces dégâts. Les bâtons de pluie perdent tous leurs pouvoirs s'ils ne sont plus en possession de la fée. }
-{s:BDTexte|**Forme gazeuse (Sur).** Les fées des ondées peuvent se transformer en un petit nuage au prix d'une action rapide. Ce pouvoir est similaire aux effets de *[État gazeux](./../Pathfinder-RPG/État gazeux.md)*, si ce n'est que la fée garde sa vitesse de déplacement en vol et peut encore faire appel à ses pouvoirs de *[Bourrasque](./../Pathfinder-RPG/Bourrasque.md)*, *[Brume de dissimulation](./../Pathfinder-RPG/Brume de dissimulation.md)*et *[Création d'eau](./../Pathfinder-RPG/Création deau.md)*. Elle bénéficie d'un bonus de +4 à ses test de discrétion sous cette forme. }
-{s:BDTexte|**Intempéries (Mag).** Lorsqu'elles se trouvent en extérieur, les fées des ondées peuvent faire appel une fois par jour à un pouvoir qui dépend de la saison et des conditions en vigueur. Ce pouvoir reproduit l'effet *[d'Appel de la foudre](./../Pathfinder-RPG/Appel de la foudre.md)* (en été ou si le temps est particulièrement orageux), de *[Mur de vent](./../Pathfinder-RPG/Mur de vent.md)* (en automne ou par vent fort), de *[Tempête de neige](./../Pathfinder-RPG/Tempête de neige.md)* (en hiver ou dès que la température passe sous zéro degré), de *[Lueur d'arc-en-ciel](./../Pathfinder-RPG/Lueur darc-en-ciel.md)* (au printemps ou si des averses fréquentes alternent avec des éclaircies), ou encore *[Lumière du jour](./../Pathfinder-RPG/Lumière du jour.md)* (n'importe quelle saison, mais en extérieur et de jour uniquement)}
+{s:BDTexte|**Forme gazeuse (Sur).** Les fées des ondées peuvent se transformer en un petit nuage au prix d'une action rapide. Ce pouvoir est similaire aux effets de *[[pathfinder-RPG.état gazeux|État gazeux]]*, si ce n'est que la fée garde sa vitesse de déplacement en vol et peut encore faire appel à ses pouvoirs de *[[pathfinder-RPG.Bourrasque|Bourrasque]]*, *[[pathfinder-RPG.Brume de dissimulation|Brume de dissimulation]]*et *[[pathfinder-RPG.Création deau|Création d'eau]]*. Elle bénéficie d'un bonus de +4 à ses test de discrétion sous cette forme. }
+{s:BDTexte|**Intempéries (Mag).** Lorsqu'elles se trouvent en extérieur, les fées des ondées peuvent faire appel une fois par jour à un pouvoir qui dépend de la saison et des conditions en vigueur. Ce pouvoir reproduit l'effet *[[pathfinder-RPG.appel de la foudre|d'Appel de la foudre]]* (en été ou si le temps est particulièrement orageux), de *[[pathfinder-RPG.mur de vent|Mur de vent]]* (en automne ou par vent fort), de *[[pathfinder-RPG.tempête de neige|Tempête de neige]]* (en hiver ou dès que la température passe sous zéro degré), de *[[pathfinder-RPG.Lueur darc-en-ciel|Lueur d'arc-en-ciel]]* (au printemps ou si des averses fréquentes alternent avec des éclaircies), ou encore *[[pathfinder-RPG.Lumière du jour|Lumière du jour]]* (n'importe quelle saison, mais en extérieur et de jour uniquement)}
 {s:BDTexte|**Voltigeur impétueux (Ext).** Les fées des ondées ne sont pas ralenties ou gênées dans leur vol par les conditions climatiques comme le vent, la pluie ou la neige. }
 </div>
 
@@ -49,5 +49,5 @@ Categories:
 
 Les fées des ondées sont des êtres capricieux et imprévisibles, prompts à se mettre en colère mais aussi à prodiguer leurs bienfaits. Elles ont, au sein des royaumes féériques, la charge des vents et de la pluie.
 
-Un lanceur de sort de niveau 7, d'alignement chaotique neutre et pourvu du don [familier supérieur](./../Pathfinder-RPG/Familier supérieur.md) peut se lier à une fée des ondées.
+Un lanceur de sort de niveau 7, d'alignement chaotique neutre et pourvu du don [[pathfinder-RPG.familier supérieur|familier supérieur]] peut se lier à une fée des ondées.
 </div></td></tr></table>

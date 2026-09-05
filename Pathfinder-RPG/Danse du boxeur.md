@@ -12,12 +12,12 @@ Categories:
 
 {s:mca}*Le personnage a appris à plier et à mouvoir son corps pour éviter les attaques et se repositionner avantageusement.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [École du boxeur](./École du boxeur.md), [Esquive](./Esquive.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Souplesse du serpent](./Souplesse du serpent.md) ; [BBA](./BBA.md) +9, [lutteur](./Lutteur.md) niveau 5 ou [moine](./Moine.md) niveau 5.
+**Conditions.** [[École du boxeur]], [[Esquive]], [[Science du combat à mains nues]], [[Souplesse du serpent]] ; [[BBA]] +9, [[lutteur]] niveau 5 ou [[moine]] niveau 5.
 
-**Avantage.** Chaque fois que le personnage touche un adversaire avec une attaque à mains nues alors qu’il utilise [École du boxeur](./École du boxeur.md), il peut se déplacer de 1,50 mètre sans provoquer d’[attaque d’opportunité](./AO.md), tant qu’il se déplace dans une case adjacente à l’adversaire touché. S’il utilise ce don, il ne peut pas faire de [pas de placement](./Pas de placement.md) lors de son tour suivant.
+**Avantage.** Chaque fois que le personnage touche un adversaire avec une attaque à mains nues alors qu’il utilise [[École du boxeur]], il peut se déplacer de 1,50 mètre sans provoquer d’[[AO|attaque d’opportunité]], tant qu’il se déplace dans une case adjacente à l’adversaire touché. S’il utilise ce don, il ne peut pas faire de [[pas de placement]] lors de son tour suivant.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Après que le personnage a utilisé [École du boxeur](./École du boxeur.md) pour se déplacer de 1,50 mètre sans provoquer d’[attaque d’opportunité](./AO.md), il peut faire un [pas de placement](./Pas de placement.md) de 1,50 mètre au tour suivant, à condition qu’il lui reste au moins 1 point dans sa réserve d’endurance.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Après que le personnage a utilisé [[École du boxeur]] pour se déplacer de 1,50 mètre sans provoquer d’[[AO|attaque d’opportunité]], il peut faire un [[pas de placement]] de 1,50 mètre au tour suivant, à condition qu’il lui reste au moins 1 point dans sa réserve d’endurance.

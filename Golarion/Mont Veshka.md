@@ -7,6 +7,6 @@ Categories:
 - Géographie
 ---
 
-Le Mont Veshka est situé en plein centre du [Brévoy](./Brévoy.md).
+Le Mont Veshka est situé en plein centre du [[Brévoy]].
 
-Ce majestueux massif montagneux abrite la petite cité de [Nid d'Aigle](./Nid-dAigle.md).
+Ce majestueux massif montagneux abrite la petite cité de [[Nid dAigle|Nid d'Aigle]].

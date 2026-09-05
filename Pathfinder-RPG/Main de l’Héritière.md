@@ -10,7 +10,7 @@ LastModified: 2021-04-11 10:35
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Le Conseil des Voleurs p.498*}
 {s:BDTexte|**PX** 51 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([ange](./sous-type ange.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md)) de taille G, LB}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type ange|ange]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]]) de taille G, LB}
 {s:BDTexte|**Init** +9 ; **Sens** vision dans le noir à 18 m, vision nocturne ; Perception +28}
 {s:BDTexte|**Aura** aura de protection}
 (((DÉFENSE)))
@@ -72,7 +72,7 @@ sort de don des langues (niveau de lanceur égal aux dés de vie de
 l’ange). Ce pouvoir est toujours actif.}
 </div>
 </td>
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [hérauts des dieux](./hérauts des dieux.md).***</li></ul>
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[hérauts des dieux]].***</li></ul>
 ''Cet ange masculin à la peau dorée est encore plus grand que le plus
 impressionnant des champions humains. Le halo qui entoure sa tête est
 une roue de lames en mouvement qui, d’un simple geste de sa part, s’en
@@ -142,7 +142,7 @@ que sa perspective, en tant qu’ange immortel des royaumes
 supérieurs à Golarion, est très différente et présente parfois une
 certaine distance émotionnelle par rapport à la pensée et aux
 inquiétudes de l’humanité. C’est un allié des hérauts de Sarenrae
-et de Shélyn mais il se méfie du [héraut](./hérauts des dieux.md) de Cayden Cailéan, dont
+et de Shélyn mais il se méfie du [[hérauts des dieux|héraut]] de Cayden Cailéan, dont
 la sexualité assumée le met mal à l’aise (n’oublions pas qu’il a
 passé des milliers d’années au service du seigneur empyréen de
 la chasteté).

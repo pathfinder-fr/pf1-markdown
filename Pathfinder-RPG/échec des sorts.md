@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armures#RISQUEECHECPROFANE
 ---
 
->>> [Caractéristiques des armures#RISQUEECHECPROFANE](./Caractéristiques des armures.md#RISQUEECHECPROFANE)
+>>> [[Caractéristiques des armures#RISQUEECHECPROFANE]]

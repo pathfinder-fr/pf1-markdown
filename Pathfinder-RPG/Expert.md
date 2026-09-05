@@ -61,12 +61,12 @@ Categories:
 **Dé de vie.** d8.
 
 ### Compétences de classes
-L’expert peut choisir dix compétences, qui deviennent ses [compétences de classe](./compétence de classe.md).
+L’expert peut choisir dix compétences, qui deviennent ses [[compétence de classe|compétences de classe]].
 
-**Points de compétence à chaque niveau.** 6 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence à chaque niveau.** 6 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de la classe
 Voici les particularités et aptitudes de la classe de PNJ de l’expert.
 
 #### Armes et armures
-L’expert est formé au maniement des [armes courantes](./arme courante.md) et au port de l’[armure légère](./armure légère.md). Il n’est pas formé au maniement des boucliers.
+L’expert est formé au maniement des [[arme courante|armes courantes]] et au port de l’[[armure légère]]. Il n’est pas formé au maniement des boucliers.

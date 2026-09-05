@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le sang de votre ancêtre ensorceleur se mêle au pouvoir mythique de votre personnage, ce qui produit des effets importants.*
 
-**Condition.** [Étrange héritage](./Étrange héritage.md)
+**Condition.** [[Étrange héritage]]
 
-**Avantage.** Le personnage gagne les pouvoirs d’ensorceleur du lignage associé à son [Étrange héritage](./Étrange héritage.md) comme si son niveau d’ensorceleur était égal à son niveau de personnage -2. Pour le pouvoir de lignage de niveau 1, appliquez le niveau complet du personnage pour déterminer son effet ; pour l’ensemble des autres pouvoirs de lignage, considérez que le niveau d’ensorceleur est égal au niveau du personnage -2.
+**Avantage.** Le personnage gagne les pouvoirs d’ensorceleur du lignage associé à son [[Étrange héritage]] comme si son niveau d’ensorceleur était égal à son niveau de personnage -2. Pour le pouvoir de lignage de niveau 1, appliquez le niveau complet du personnage pour déterminer son effet ; pour l’ensemble des autres pouvoirs de lignage, considérez que le niveau d’ensorceleur est égal au niveau du personnage -2.

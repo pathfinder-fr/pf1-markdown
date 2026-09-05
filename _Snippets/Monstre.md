@@ -38,7 +38,7 @@ $(".titre").each(titre);
 <div class="BDtexte">**PX** ?13?</div>
 <div class="BDtexte">?15?</div>
 <div class="BDtexte">?17?</div>
-<div class="BDtexte">**Init** ?19? ; **Sens** ?20? ; [Perception](./../Pathfinder-RPG/Perception.md) ?21?</div>
+<div class="BDtexte">**Init** ?19? ; **Sens** ?20? ; [[Perception]] ?21?</div>
 <div class="BDtexte hideifempty" data-prefixe="**Aura** ">?23?</div>
 <div class="BDsoustitre">Défense</div>
 <div class="BDtexte">**CA** ?25?</div>

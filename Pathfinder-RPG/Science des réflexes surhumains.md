@@ -8,6 +8,6 @@ Categories:
 
 *Le personnage a un don pour éviter les dangers qui l’entourent.*
 
-**Condition.** [Réflexes surhumains](./Réflexes surhumains.md).
+**Condition.** [[Réflexes surhumains]].
 
-**Avantage.** Une fois par jour, le personnage peut relancer un jet de [Réflexes](./Réflexes.md). Il doit décider de le faire avant que le résultat du premier jet soit connu et doit accepter le second résultat, même s’il est pire que le premier.
+**Avantage.** Une fois par jour, le personnage peut relancer un jet de [[Réflexes]]. Il doit décider de le faire avant que le résultat du premier jet soit connu et doit accepter le second résultat, même s’il est pire que le premier.

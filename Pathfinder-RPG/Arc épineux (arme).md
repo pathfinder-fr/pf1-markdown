@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:AA}**Prix** 50 po ; **Poids** 1 kg ; **Groupes** —
 **Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×3 ; **Portée** 12 m (8 c) ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme à distance](./arme à distance.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
 ---
-Cet arc en bois de rose poli est parsemé d'épines et de petites fleurs ; il est considéré comme un [arc court](./Arc court (arme).md).
+Cet arc en bois de rose poli est parsemé d'épines et de petites fleurs ; il est considéré comme un [[arc court (arme)|arc court]].

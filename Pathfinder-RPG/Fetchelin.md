@@ -15,8 +15,8 @@ Categories:
 - *Source : Bestiaire 2* p.134
 - **PX** 200
 - Fetchelin, roublard 1
-- [Extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)) de taille M, N
-- **Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3
+- [[type Extérieur|Extérieur]] ([[sous-type natif|natif]]) de taille M, N
+- **Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +3
 (((Défense)))
 - **CA** 17, contact 14, pris au dépourvu 13 (armure +4, Dex +3)
 - **pv** 10 (1d8+2)
@@ -25,19 +25,19 @@ Categories:
 (((Attaque)))
 - **VD** 9 m (6 {s:c})
 - **Corps à corps** dague, +3 (1d4+1/19-20)
-- **Attaques spéciales** [attaque sournoise](./attaque sournoise.md) +1d6
+- **Attaques spéciales** [[attaque sournoise]] +1d6
 - **Pouvoirs magiques** (NLS 1<sup>er</sup> ; concentration +3)
-  - 1/jour — *[déguisement](./Déguisement.md)* (en humanoïde uniquement)
+  - 1/jour — *[[déguisement]]* (en humanoïde uniquement)
 (((Caractéristiques)))
 - **For** 13, **Dex** 17, **Con** 14, **Int** 8, **Sag** 8, **Cha** 14
 - **BBA** +0, **BMO** +1, **DMD** 14
-- **Dons** [Attaque en finesse](./Attaque en finesse.md)
-- **Compétences** [Bluff](./Bluff.md) +6, [Connaissances](./Connaissances.md) (folklore local) +3, [Connaissances](./Connaissances.md) (plans) +2, [Diplomatie](./Diplomatie.md) +6, [Discrétion](./Discrétion.md) +7, [Estimation](./Estimation.md) +3, [Perception](./Perception.md) +3, [Psychologie](./Psychologie.md) +3 ; **Modificateurs raciaux** +2 en [Connaissances](./Connaissances.md) (plans), +2 en [Discrétion](./Discrétion.md)
+- **Dons** [[Attaque en finesse]]
+- **Compétences** [[Bluff]] +6, [[Connaissances]] (folklore local) +3, [[Connaissances]] (plans) +2, [[Diplomatie]] +6, [[Discrétion]] +7, [[Estimation]] +3, [[Perception]] +3, [[Psychologie]] +3 ; **Modificateurs raciaux** +2 en [[Connaissances]] (plans), +2 en [[Discrétion]]
 - **Langues** commun
 - **Particularités** recherche des pièges +1
 (((Écologie)))
 - **Environnement** tous (plan des Ombres)
-- **Organisation sociale** solitaire, couple, guilde (3-12) ou enclave (13-30 plus 1-4 espions [roublards](./Roublard.md) de niveau 2 à 4 et 1-4 [ensorceleurs](./Ensorceleur.md) de niveau 2 à 4 et 1 chef [guerrier](./Guerrier.md)/[roublard](./Roublard.md) de niveau 3 à 6)
+- **Organisation sociale** solitaire, couple, guilde (3-12) ou enclave (13-30 plus 1-4 espions [[roublard|roublards]] de niveau 2 à 4 et 1-4 [[ensorceleur|ensorceleurs]] de niveau 2 à 4 et 1 chef [[guerrier]]/[[roublard]] de niveau 3 à 6)
 - **Trésor** équipement de PNJ (chemise de mailles, dague, autres trésors)
 (((Capacités spéciales)))
 - **Fusion dans les ombres (Sur).** Les attaques effectuées contre un fetchelin dans une luminosité faible ont 50% de chances d’échouer (au lieu des 20% normaux). Cette capacité ne permet pas au fetchelin de bénéficier d’un camouflage total ; elle accroît seulement le pourcentage d’échec.
@@ -58,15 +58,15 @@ Les fetchelins se définissent par leur niveau de classe et ne possèdent pas de
 
 - **Vision nocturne.** Les fetchelins voient deux fois plus loin que les humains dans des conditions de faible luminosité.  
 
-- **Talentueux.** Les fetchelins gagnent un bonus racial de +1 aux tests de [Connaissances](./Connaissances.md) (plans) et de [Discrétion](./Discrétion.md).  
+- **Talentueux.** Les fetchelins gagnent un bonus racial de +1 aux tests de [[Connaissances]] (plans) et de [[Discrétion]].  
 
 - **Fusion dans les ombres.** Voir ci-contre.  
 
 - **Résistances des ombres.** Les fetchelins bénéficient d’une résistance de 5 points au froid et de 5 points à l’électricité.  
 
-- **Pouvoirs magiques.** Les fetchelins peuvent utiliser [déguisement](./Déguisement.md) une fois par jour en tant que pouvoir magique. Ils peuvent prendre la forme de n’importe quelle créature humanoïde en utilisant cette capacité. Lorsqu’un fetchelin atteint le niveau 9 (en combinant ses différentes classes), il gagne [traversée des ombres](./Traversée des ombres.md) (uniquement lui) en tant que pouvoir magique utilisable une fois par jour. Au niveau 13, il gagne [changement de plan](./Changement de plan.md) (personnel uniquement, uniquement vers le plan des Ombres ou le plan Matériel) en tant que pouvoir magique utilisable une fois par jour. Le NLS du fetchelin pour ces pouvoirs magiques est égal à son nombre total de DV.  
+- **Pouvoirs magiques.** Les fetchelins peuvent utiliser [[déguisement]] une fois par jour en tant que pouvoir magique. Ils peuvent prendre la forme de n’importe quelle créature humanoïde en utilisant cette capacité. Lorsqu’un fetchelin atteint le niveau 9 (en combinant ses différentes classes), il gagne [[traversée des ombres]] (uniquement lui) en tant que pouvoir magique utilisable une fois par jour. Au niveau 13, il gagne [[changement de plan]] (personnel uniquement, uniquement vers le plan des Ombres ou le plan Matériel) en tant que pouvoir magique utilisable une fois par jour. Le NLS du fetchelin pour ces pouvoirs magiques est égal à son nombre total de DV.  
 
 - **Langues.** Les fetchelins entrent en jeu en sachant parler le commun. Un fetchelin doté d’une Intelligence élevée peut choisir ses langues supplémentaires parmi la liste suivante : aérien, aklo, aquatique, draconique, d’ziriak (uniquement pour le comprendre, pas le parler), igneux, terreux, ou n’importe quelle langue régionale humaine.
 
-{s:VoirAussiAvant}La page de la race [Fetchelin](./Fetchelin (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Fetchelin (race)|Fetchelin]]{s:VoirAussiAprès}
 </div></td></tr></table>

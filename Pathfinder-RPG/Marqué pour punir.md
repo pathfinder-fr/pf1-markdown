@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage marque son ennemi avec son arme tueuse et le rend ainsi plus vulnérable aux attaques de ses alliés. *
 
-**Condition.** [Tueur](./Inquisiteur.md#TUEUR).
+**Condition.** [[inquisiteur#TUEUR|Tueur]].
 
-**Avantage.** Le personnage peut, par une [action simple](./Action simple.md), dépenser 3 rounds du pouvoir [tueur](./Inquisiteur.md#TUEUR) pour faire une attaque de corps à corps avec l’arme tueuse. S’il touche, sa cible ne reçoit pas de dégâts mais elle est marquée jusqu’au début du prochain tour du personnage et, tant que la marque persiste, les armes des alliés du personnage fonctionnent comme si elles possédaient la même propriété de tueur que celle qui a servi à marquer l’ennemi.
+**Avantage.** Le personnage peut, par une [[action simple]], dépenser 3 rounds du pouvoir [[inquisiteur#TUEUR|tueur]] pour faire une attaque de corps à corps avec l’arme tueuse. S’il touche, sa cible ne reçoit pas de dégâts mais elle est marquée jusqu’au début du prochain tour du personnage et, tant que la marque persiste, les armes des alliés du personnage fonctionnent comme si elles possédaient la même propriété de tueur que celle qui a servi à marquer l’ennemi.

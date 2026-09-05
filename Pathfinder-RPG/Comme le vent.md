@@ -9,12 +9,12 @@ Categories:
 
 *Les ennemis du personnage ont bien du mal à le situer à cause de ses mouvements erratiques.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+**Catégorie** : [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 15, [Esquive](./Esquive.md), [bonus de base à l’attaque](./BBA.md) +6.
+**Conditions.** [[Dextérité|Dex]] 15, [[Esquive]], [[BBA|bonus de base à l’attaque]] +6.
 
-**Avantage.** Si le personnage parcourt plus de 1,5 m pendant son [tour](./tour.md), il gagne un [camouflage](./camouflage.md) de 20% contre les [attaques à distance](./Attaque à distance.md) pendant un [round](./round.md).
+**Avantage.** Si le personnage parcourt plus de 1,5 m pendant son [[tour]], il gagne un [[camouflage]] de 20% contre les [[attaque à distance|attaques à distance]] pendant un [[round]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise ce don, il peut dépenser 5 points d’endurance pour bénéficier d’un [camouflage](./camouflage.md) de 20% contre toutes les attaques (et pas seulement à distance) pendant 1 [round](./round.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise ce don, il peut dépenser 5 points d’endurance pour bénéficier d’un [[camouflage]] de 20% contre toutes les attaques (et pas seulement à distance) pendant 1 [[round]].

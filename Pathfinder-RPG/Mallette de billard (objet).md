@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pa ; **Poids** 4 kg
-<span class="Catégorie">**Catégorie** [Jeux](./Jeux.md)</span>
+<span class="Catégorie">**Catégorie** [[Jeux]]</span>
 ---
 Cette mallette comprend une queue en bois, un bloc de craie, 15 boules en bois et un cadre en bois triangulaire.

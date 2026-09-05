@@ -10,7 +10,7 @@ LastModified: 2017-04-06 21:09
 {s:pucem|Mort-vivant|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 143*}
 - **12 800 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille M, NM
+- [[type mort-vivant|Mort-vivant]] de taille M, NM
 - **Init **+9 ; **Sens** vision dans le noir à 18 m ; Perception +20
 (((Défense)))
 - **CA** 25, contact 15, pris au dépourvu 20 (Dex +5, naturelle +10)
@@ -25,20 +25,20 @@ LastModified: 2017-04-06 21:09
 - **Espace** 1,50 m ; **Allonge** 1,50 m (3 m avec les piques de cheveux)
 - **Attaques spéciales** saignement (5), rire contagieux, paralysie (1d4+1 rounds, DD 23)
 - **Pouvoirs magiques** (**NLS** 14 ; concentration +20)
-  - *3/jour* — [désir anormal](./Désir anormal.md) (DD 18), [feuille morte](./Feuille morte.md), [lévitation](./Lévitation.md), [rayon affaiblissant](./Rayon affaiblissant.md) (DD 17)
-  - *1/jour* — [baiser du vampire](./Baiser du vampire.md) (DD 19), [charme-monstre](./Charme-monstre.md) (DD 19)
+  - *3/jour* — [[désir anormal]] (DD 18), [[feuille morte]], [[lévitation]], [[rayon affaiblissant]] (DD 17)
+  - *1/jour* — [[baiser du vampire]] (DD 19), [[charme-monstre]] (DD 19)
 (((Statistiques)))
 - **For** 19, **Dex** 20, **Con** —, **Int** 15, **Sag** 17, **Cha** 22
 - **BBA **+10 ; **BMO **+14 ; **DMD** 29
-- **Dons** [Arme naturelle supérieure](./Arme naturelle supérieure.md) (pique de cheveux), [Attaque en finesse](./Attaque en finesse.md), [Attaques multiples](./Attaques multiples.md), [Attaques réflexes](./Attaques réflexes.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (griffe), [Science du critique](./Science du critique.md) (pique de cheveux) 
-- **Compétences** [Bluff](./Bluff.md) +20, [Connaissances](./Connaissances.md) (noblesse) +5, [Déguisement](./Déguisement.md) +23, [Discrétion](./Discrétion.md) +22, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +20, [Psychologie](./Psychologie.md) +20, [Représentation](./Représentation.md) (chant) +10 
+- **Dons** [[Arme naturelle supérieure]] (pique de cheveux), [[Attaque en finesse]], [[Attaques multiples]], [[Attaques réflexes]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (griffe), [[Science du critique]] (pique de cheveux) 
+- **Compétences** [[Bluff]] +20, [[Connaissances]] (noblesse) +5, [[Déguisement]] +23, [[Discrétion]] +22, [[Intimidation]] +16, [[Perception]] +20, [[Psychologie]] +20, [[Représentation]] (chant) +10 
 - **Langues** commun, elfique, sylvestre
 (((Écologie)))
 - **Environnement** terrestre
 - **Organisation** solitaire
 - **Trésor** standard
 (((Pouvoirs spéciaux)))
-- **Rire contagieux (Sur)**. Par une action complexe, l’harionago peut émettre un rire méprisant qui résonne dans un rayonnement de 18 mètres. Les créatures qui entendent ce rire doivent réussir un jet de Volonté DD 23 pour ne pas être affectées par un sort de fou rire (NLS 14) à la seule différence que l’harionago considère les créatures qui rient comme sans défense. Une créature qui réussit son jet de sauvegarde contre le rire méprisant de l’harionago ne peut plus être affectée par le rire de cette harionago pendant 24 heures. Il s’agit d’un effet mental qu’il est possible de contrer avec le pouvoir de classe [contrechant](./Représentations.md#Contre-chant_Sur_0). Le DD du jet de sauvegarde est basé sur le Charisme.
+- **Rire contagieux (Sur)**. Par une action complexe, l’harionago peut émettre un rire méprisant qui résonne dans un rayonnement de 18 mètres. Les créatures qui entendent ce rire doivent réussir un jet de Volonté DD 23 pour ne pas être affectées par un sort de fou rire (NLS 14) à la seule différence que l’harionago considère les créatures qui rient comme sans défense. Une créature qui réussit son jet de sauvegarde contre le rire méprisant de l’harionago ne peut plus être affectée par le rire de cette harionago pendant 24 heures. Il s’agit d’un effet mental qu’il est possible de contrer avec le pouvoir de classe [[Représentations#Contre-chant_Sur_0|contrechant]]. Le DD du jet de sauvegarde est basé sur le Charisme.
 
 
 

@@ -19,7 +19,7 @@ N'hésitez pas à venir discuter de ces aides de jeu [sur le forum dédié](http
 <td>{s:ADJ|GUIDEEXPLORATEURS|Guide des explorateurs|ADJ%2fPathfinder-RPG%2fInitiationPFMini.jpg|%2fADJ%2fPathfinder-RPG%2fInitiationPF.pdf|Une initiation aux jeux de rôle et plus particulièrement à Pathfinder RPG (fichier PDF)|Feuxfollets|none}</td>
 <td>{s:ADJ|PRESENTATIONPATHFINDER|Présentation de Pathfinder|ADJ%2fPathfinder-RPG%2fPresentMini.jpg|%2fADJ%2fPathfinder-RPG%2fPresent.swf|Une mini-présentation des différences entre Pathfinder et 3.5, faite avant la parution de Pathfinder-RPG (lecture en ligne)|Dalvyn|none}</td>
 <td>{s:ADJ|CONVERSION|Conversion 3.5 -> Pathfinder|ADJ%2fPathfinder-RPG%2fConversionPFMini.jpg|%2fADJ%2fPathfinder-RPG%2fConversionPF.pdf|Une traduction amateur du guide de conversion publié par Paizo (fichier PDF)|Dalvyn|none}</td>
-<td>{s:ADJ|CUIDECREA|Guide de création de PJ|||Un guide de création de personnages (en chantier, [lecture en ligne](./Création Main.md))|Feuxfollets|none}</td>
+<td>{s:ADJ|CUIDECREA|Guide de création de PJ|||Un guide de création de personnages (en chantier, [[Création Main|lecture en ligne]])|Feuxfollets|none}</td>
 </tr>
 </table>
 
@@ -42,22 +42,22 @@ N'hésitez pas à venir discuter de ces aides de jeu [sur le forum dédié](http
 </table>
 
 Suppléments à la feuille de personnage pour les sorts (version APG + ADM + UC), par mdadd :
-- Sorts pour [bardes](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsBardes-pdf.md)
-- Sorts pour [druides](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsDruides-pdf.md)
-- Sorts pour [ensorceleurs](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsEnsorceleurs-pdf.md)
-- Sorts pour [magiciens](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsMagiciens-pdf.md)
-- Sorts pour [paladins](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsPaladins-pdf.md)
-- Sorts pour [prêtres](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsPretres-pdf.md) (MAJ du 6 janvier 2015)
-- Sorts pour [rôdeurs](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsRôdeurs-pdf.md)
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsBardes.pdf|bardes]]
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsDruides.pdf|druides]]
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsEnsorceleurs.pdf|ensorceleurs]]
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsMagiciens.pdf|magiciens]]
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsPaladins.pdf|paladins]]
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsPretres.pdf|prêtres]] (MAJ du 6 janvier 2015)
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsRôdeurs.pdf|rôdeurs]]
 
 Et pour les classes avancées (MAJ du 6 janvier 2015) :
-- Sorts pour [alchimistes](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsAlchimistes-pdf.md)
-- Sorts pour [antipaladins](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsAntipaladins-pdf.md)
-- Sorts pour [conjurateurs](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsConjurateurs-pdf.md)
-- Sorts pour [inquisiteurs](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsInquisiteurs-pdf.md)
-- Sorts pour [magus](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsMagus-pdf.md)
-- Sorts pour [oracles](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsOracles-pdf.md)
-- Sorts pour [sorcières](.//wiki/public/Upload/ADJ/Pathfinder-RPG/sortsSorcieres-pdf.md)
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsAlchimistes.pdf|alchimistes]]
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsAntipaladins.pdf|antipaladins]]
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsConjurateurs.pdf|conjurateurs]]
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsInquisiteurs.pdf|inquisiteurs]]
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsMagus.pdf|magus]]
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsOracles.pdf|oracles]]
+- Sorts pour [[/wiki/public/Upload/ADJ/Pathfinder-RPG/sortsSorcieres.pdf|sorcières]]
 
 
 
@@ -210,9 +210,9 @@ Règles avancées|ADJ%2fPathfinder-RPG%2fErrataAPGMini.jpg|%2fADJ%2fPathfinder-R
 {s:ADJStart}
 <tr STYLE="vertical-align: top;">
 <td>{s:ADJ|PREVIEWAPG|(Advanced Player's Guide)  
-6 nouvelles classes|ADJ%2fPathfinder-RPG%2fAPGPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fAPGPlaytest.pdf|**(version 4.3)** Une traduction amateur de six nouvelles classes de base (alchimiste, chevalier, conjurateur, inquisiteur, oracle, sorcière) à paraître dans l'[Advanced Player's Guide](./../Golarion/Publications.md#Suppléments_de_règles_1), actuellement en playtest (fichier PDF)|Dalvyn et Rectulo|none}</td>
+6 nouvelles classes|ADJ%2fPathfinder-RPG%2fAPGPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fAPGPlaytest.pdf|**(version 4.3)** Une traduction amateur de six nouvelles classes de base (alchimiste, chevalier, conjurateur, inquisiteur, oracle, sorcière) à paraître dans l'[[Publications#Suppléments_de_règles_1|Advanced Player's Guide]], actuellement en playtest (fichier PDF)|Dalvyn et Rectulo|none}</td>
 <td>{s:ADJ|PREVIEWBESTIAIRE|(Bestiaire)  
-plus de 30 monstres|ADJ%2fPathfinder-RPG%2fPreviewBestiaireMini.jpg|%2fADJ%2fPathfinder-RPG%2fPreviewBestiaire.pdf|Une traduction amateur des extraits du Bestiaire Pathfinder-RPG à paraître en français qui sont disponible gratuitement en VO sur le site de Paizo (voir [cette page](./../Golarion/Publications.md) pour plus d'informations sur le Bestiaire) (fichier PDF)|Dalvyn|none}</td>
+plus de 30 monstres|ADJ%2fPathfinder-RPG%2fPreviewBestiaireMini.jpg|%2fADJ%2fPathfinder-RPG%2fPreviewBestiaire.pdf|Une traduction amateur des extraits du Bestiaire Pathfinder-RPG à paraître en français qui sont disponible gratuitement en VO sur le site de Paizo (voir [[Publications|cette page]] pour plus d'informations sur le Bestiaire) (fichier PDF)|Dalvyn|none}</td>
 <td>{s:ADJ|PREVIEWUM|(Ultimate Magic)  
 Playtest des règles|ADJ%2fPathfinder-RPG%2fUMPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fUM2Playtest.pdf|Une traduction amateur des règles en playtest pour l'Ultimate Magic, comme la nouvelle classe de base de magus et le système de magie par mots de pouvoir (fichier PDF)|Dalvyn|none}</td>
 <td>{s:ADJ|PREVIEWUC|(Ultimate Combat)  

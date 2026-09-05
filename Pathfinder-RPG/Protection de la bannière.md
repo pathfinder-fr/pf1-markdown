@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:MR}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Prê](./Prêtre.md) 1
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
+**École** [[Abjuration]] ; **Niveau** [[prêtre|Prê]] 1
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, FD]]
 **Portée** contact
 **Cible** bannière touchée
 **Durée** 1 minute/niveau
-**Jet de sauvegarde** [Volonté](./Volonté.md), annule ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]], annule ; **Résistance à la magie** non
 
-Ce sort est utilisé pour protéger l’une des reliques les plus précieuses d’une tribu : sa bannière tribale. Une créature (autre qu’un membre de la tribu représentée sur la bannière) qui tente d’attaquer directement ou de toucher la bannière doit effectuer un [jet de sauvegarde](./JDS.md) de [Volonté](./Volonté.md). Ce sort fonctionne comme un *[sanctuaire](./Sanctuaire.md)*, mais protège uniquement une bannière ou un étendard. De plus, il octroie un bonus de +2 à la solidité et +10 points de vie à la bannière pendant toute la durée du sort.
+Ce sort est utilisé pour protéger l’une des reliques les plus précieuses d’une tribu : sa bannière tribale. Une créature (autre qu’un membre de la tribu représentée sur la bannière) qui tente d’attaquer directement ou de toucher la bannière doit effectuer un [[jds|jet de sauvegarde]] de [[Volonté]]. Ce sort fonctionne comme un *[[sanctuaire]]*, mais protège uniquement une bannière ou un étendard. De plus, il octroie un bonus de +2 à la solidité et +10 points de vie à la bannière pendant toute la durée du sort.

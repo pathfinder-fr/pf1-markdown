@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Dragon|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.116*}
 {s:BDTexte|**PX** 6.400}
-{s:BDTexte|[Dragon](./type Dragon.md) ([aquatique](./sous-type aquatique.md)) de taille TG, N}
-{s:BDTexte|**Init** +4 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) (18 m (12 {s:c})), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type aquatique|aquatique]]) de taille TG, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[odorat]], [[vision dans le noir]] (18 m (12 {s:c})), [[vision nocturne]] ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 8, pris au dépourvu 23 (naturelle +15, taille -2)}
 {s:BDTexte|**pv** 126 (12d12+48)}
@@ -28,17 +28,17 @@ Categories:
 {s:BDTexte|**Attaques spéciales** retournement de navires, souffle}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 27, **Dex** 10, **Con** 19, **Int** 12, **Sag** 13, **Cha** 12}
-{s:BDTexte|**BBA** +12, **BMO** +22, **DMD** 32 (36 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Combat en aveugle](./Combat en aveugle.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md), [Science de l'initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md)}
-{s:BDTexte|**Compétences** [Diplomatie](./Diplomatie.md) +16, [Discrétion](./Discrétion.md) +7 (+15 dans l'eau), [Intimidation](./Intimidation.md) +16, [Natation](./Natation.md) +31, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +16, [Survie](./Survie.md) +16 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +8 dans l'eau}
+{s:BDTexte|**BBA** +12, **BMO** +22, **DMD** 32 (36 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Combat en aveugle]], [[Coup fabuleux]], [[Enchaînement]], [[Science de linitiative|Science de l'initiative]], [[Science de la bousculade]]}
+{s:BDTexte|**Compétences** [[Diplomatie]] +16, [[Discrétion]] +7 (+15 dans l'eau), [[Intimidation]] +16, [[Natation]] +31, [[Perception]] +16, [[Psychologie]] +16, [[Survie]] +16 ; **Modificateurs raciaux** [[Discrétion]] +8 dans l'eau}
 {s:BDTexte|**Langues** aquatique, commun, draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** milieu aquatique à climat tempéré}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** double}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Retournement de navires (Ext).** Un dragon-tortue peut tenter de faire sombrer un bateau ou un navire en effectuant une [charge](./charge.md) et en allant buter contre lui. Il doit effectuer un test de [manœuvre de combat](./manœuvre de combat.md) contre un [DD](./DD.md) égal à 25 ou au résultat d'un test de [Profession](./Profession.md) (marin) réalisé par le capitaine du navire si celui-ci est plus élevé. Si le navire est plus grand que le dragon-tortue, le test de ce dernier subit un malus cumulatif de -10 par catégorie de taille de différence.}
-{s:BDTexte|**Souffle (Sur).** Nuage de vapeur de 6 m (4 {s:c}) de hauteur, 7,50 m (5 {s:c}) de largeur et 15 m (10 {s:c}) de longueur, une fois tous les 1d4 rounds, 12d6 points de dégâts de feu, [Réflexes](./Réflexes.md) [DD](./DD.md) 20 pour diviser les dégâts par deux. Ce souffle est efficace à la fois sur la surface et dans l'eau. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Retournement de navires (Ext).** Un dragon-tortue peut tenter de faire sombrer un bateau ou un navire en effectuant une [[charge]] et en allant buter contre lui. Il doit effectuer un test de [[manœuvre de combat]] contre un [[DD]] égal à 25 ou au résultat d'un test de [[Profession]] (marin) réalisé par le capitaine du navire si celui-ci est plus élevé. Si le navire est plus grand que le dragon-tortue, le test de ce dernier subit un malus cumulatif de -10 par catégorie de taille de différence.}
+{s:BDTexte|**Souffle (Sur).** Nuage de vapeur de 6 m (4 {s:c}) de hauteur, 7,50 m (5 {s:c}) de largeur et 15 m (10 {s:c}) de longueur, une fois tous les 1d4 rounds, 12d6 points de dégâts de feu, [[Réflexes]] [[DD]] 20 pour diviser les dégâts par deux. Ce souffle est efficace à la fois sur la surface et dans l'eau. Le [[DD]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>*Ce monstre aquatique doté d’une longue queue ressemble à une tortue serpentine géante dotée de caractéristiques draconiques.*
 
@@ -76,7 +76,7 @@ coulés mais également avec leurs épaves.
 Leur propension naturelle
 à défendre férocement leur territoire et leur attrait pour ce genre de
 repaires les amènent souvent à entrer en conf lit ouvert avec d’autres
-races sous-marines comme les [hommes-poissons](./Homme-poisson.md) et les [sahuagins](./Sahuagin.md).
+races sous-marines comme les [[Homme-poisson|hommes-poissons]] et les [[Sahuagin|sahuagins]].
 Les gros poissons comme les thons, les esturgeons et même les
 requins constituent l’alimentation préférée des dragons-tortues
 mais ces créatures omnivores se repaissent aussi parfois de larges

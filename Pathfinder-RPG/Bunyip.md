@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Créature magique|Aquatique|Tempéré}
 - *Source : Bestiaire 2 page 55*
 - **PX** 800
-- [Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille M, N
-- **Init** +3 ; **Sens** [odorat surdéveloppé](./Odorat surdéveloppé (capacité).md) 54 m (36 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8
+- [[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille M, N
+- **Init** +3 ; **Sens** [[odorat surdéveloppé (capacité)|odorat surdéveloppé]] 54 m (36 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +8
 (((Défense)))
 - **CA** 15, contact 13, pris au dépourvu 12 (Dex +3, naturelle +2)
 - **pv** 32 (5d10+5)
@@ -22,12 +22,12 @@ Categories:
 (((Attaque)))
 - **VD** 3 m (2{s:c}), nage 15 m (10{s:c})
 - **Corps à corps** morsure, +7 (1d8+1/19–20 plus saignement) 
-- **Attaques spéciales** [rage sanguinaire](./Rage sanguinaire (capacité).md), rugissement, saignement (1d6)
+- **Attaques spéciales** [[Rage sanguinaire (capacité)|rage sanguinaire]], rugissement, saignement (1d6)
 (((Caractéristiques)))
 - **For** 13, **Dex** 16, **Con** 13, **Int** 2, **Sag** 11, **Cha** 7
 - **BBA** +5 ; **BMO** 6 ; **DMD** 19 
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) (Discrétion), [Talent](./Talent.md) (Perception)
-- **Compétences** [Discrétion](./Discrétion.md) +10, Évasion +5, Natation +9, [Perception](./Perception.md) +8
+- **Dons** [[Arme de prédilection]] (morsure), [[Science du critique]] (morsure), [[Talent]] (Discrétion), [[Talent]] (Perception)
+- **Compétences** [[Discrétion]] +10, Évasion +5, Natation +9, [[Perception]] +8
 - ** Particularités** amphibie
 (((Écologie)))
 - **Environnement** milieu aquatique

@@ -10,11 +10,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Torque des cieux|{s:CMy}}
-**Aura** [Divination](./école divination.md) et [Transmutation](./Transmutation.md) puissantes ; **NLS** 20 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 0,5 kg
+**Aura** [[école Divination|Divination]] et [[Transmutation]] puissantes ; **NLS** 20 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 0,5 kg
 (((Description)))
-Ce simple tour de cou n’est rien de plus qu’une tresse d’argent au fermoir en ivoire, dont chacun des bouts est sculpté de manière à représenter la tête d’un loup. Le torque ne laisse personne le porter hormis les personnages [mythiques](./mythique.md) faisant preuve d’une dévotion absolue envers leur dieu. Dans ce cas, il est impossible de retirer le torque tant que son porteur est en vie. Le porteur bénéficie d’un bonus d’altération en [Charisme](./Charisme.md) égal à la moitié de son [grade](./Grade.md) (1 au minimum). Une fois par jour, il peut utiliser le torque pour lancer *[communion](./Communion.md)* afin de contacter son dieu. Enfin, il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour lancer *[mythes et légendes](./Mythes et légendes.md)*.
+Ce simple tour de cou n’est rien de plus qu’une tresse d’argent au fermoir en ivoire, dont chacun des bouts est sculpté de manière à représenter la tête d’un loup. Le torque ne laisse personne le porter hormis les personnages [[mythique|mythiques]] faisant preuve d’une dévotion absolue envers leur dieu. Dans ce cas, il est impossible de retirer le torque tant que son porteur est en vie. Le porteur bénéficie d’un bonus d’altération en [[Charisme]] égal à la moitié de son [[grade]] (1 au minimum). Une fois par jour, il peut utiliser le torque pour lancer *[[communion]]* afin de contacter son dieu. Enfin, il peut dépenser une utilisation de [[pouvoir mythique]] pour lancer *[[mythes et légendes]]*.
 
-Si le porteur enfreint le code éthique de son dieu, le torque se rétracte et commence à l’étouffer jusqu’à ce qu’il meure ou reçoive un sort de *[pénitence](./Pénitence.md)*.
+Si le porteur enfreint le code éthique de son dieu, le torque se rétracte et commence à l’étouffer jusqu’à ce qu’il meure ou reçoive un sort de *[[pénitence]]*.
 (((Destruction)))
-On peut détruite le *torque des cieux* en le faisant fondre dans un chaudron rempli du sang bouillonnant d’un [dragon rouge vénérable](./Dragon rouge vénérable.md).
+On peut détruite le *torque des cieux* en le faisant fondre dans un chaudron rempli du sang bouillonnant d’un [[dragon rouge vénérable]].
 </div>

@@ -10,9 +10,9 @@ Categories:
 
 {s:apg}*Le personnage peut convertir des sorts en protections magiques.*
 
-**Conditions.** Lanceur de sorts profanes, [NLS](./NLS.md) 10.
+**Conditions.** Lanceur de sorts profanes, [[NLS]] 10.
 
-**Avantage.** Par une [action immédiate](./Action immédiate.md), le personnage peut sacrifier un sort préparé (ou un emplacement de sort inutilisé) de niveau supérieur ou égal à 1 afin d’obtenir un bonus de parade à la [CA](./CA.md) égal au niveau du sort (ou de l’emplacement) sacrifié pendant 1 round. Les sorts de niveau 0 ne peuvent pas être sacrifiés dans le cadre de ce don.
+**Avantage.** Par une [[action immédiate]], le personnage peut sacrifier un sort préparé (ou un emplacement de sort inutilisé) de niveau supérieur ou égal à 1 afin d’obtenir un bonus de parade à la [[CA]] égal au niveau du sort (ou de l’emplacement) sacrifié pendant 1 round. Les sorts de niveau 0 ne peuvent pas être sacrifiés dans le cadre de ce don.
 
 {s:CMy}
 ### Version mythique
@@ -20,4 +20,4 @@ Categories:
 
 **Condition.** Bouclier magique
 
-**Avantage.** Le personnage ajoute la moitié de son [grade](./Grade.md) au bonus de parade à sa CA lorsqu’il utilise Bouclier magique. Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour prolonger la durée du don d’un nombre de rounds égal à son [grade](./Grade.md).
+**Avantage.** Le personnage ajoute la moitié de son [[grade]] au bonus de parade à sa CA lorsqu’il utilise Bouclier magique. Il peut dépenser une utilisation de [[pouvoir mythique]] pour prolonger la durée du don d’un nombre de rounds égal à son [[grade]].

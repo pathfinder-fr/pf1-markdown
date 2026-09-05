@@ -12,9 +12,9 @@ Categories:
 {s:pucem|Humanoïde|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 4, p. 193*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|Nagaji (m), [guerrier](./Guerrier.md) 1}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([reptilien](./sous-type reptilien.md)) de taille M, LN}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|Nagaji (m), [[guerrier]] 1}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type reptilien|reptilien]]) de taille M, LN}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (armure +2, Dex +2, naturelle +1)}
 {s:BDTexte|**pv** 10 (1d10)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 14, **Con** 8, **Int** 10, **Sag** 13, **Cha** 12}
 {s:BDTexte|**BBA** +1, **BMO** +4, **DMD** 16}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (naginata), [Attaque en puissance](./Attaque en puissance.md)}
-{s:BDTexte|**Compétences** [Dressage](./Dressage.md) +3, [Perception](./Perception.md) +4, [Survie](./Survie.md) +5}
-{s:BDTexte|**Modificateurs raciaux** +2 en [Dressage](./Dressage.md) (reptiles), +2 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (naginata), [[Attaque en puissance]]}
+{s:BDTexte|**Compétences** [[Dressage]] +3, [[Perception]] +4, [[Survie]] +5}
+{s:BDTexte|**Modificateurs raciaux** +2 en [[Dressage]] (reptiles), +2 en [[Perception]]}
 {s:BDTexte|**Langues** commun, draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou collines chaudes}
@@ -73,5 +73,5 @@ Les nagajis se définissent par leurs niveaux de classe et ne possèdent donc pa
 
 *<u>Note :</u> Sur certaines publications V.O. et V.F. on remarque que les nagajis ont parmi les langues supplémentaires au choix : le Draconique. Hors les nagajis commencent le jeu en sachant déjà parler le Draconique. En fait il faut remplacer le Draconique, parmi les langues supplémentaires, par le Vishkanyan.  Cela devrait avoir été corrigé depuis dans les dernières versions.*
 
-{s:VoirAussiAvant}La page de la race [Nagaji](./nagaji (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Nagaji (race)|Nagaji]]{s:VoirAussiAprès}
 </div></td></tr></table>

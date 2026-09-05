@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#MALUS
 ---
 
->>> [Vocabulaire courant#MALUS](./Vocabulaire courant.md#MALUS)
+>>> [[Vocabulaire courant#MALUS]]

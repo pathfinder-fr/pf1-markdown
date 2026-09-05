@@ -13,10 +13,10 @@ Categories:
 
 **Catégorie.** Combat
 
-**Conditions.** [nain](./Nain.md), [For](./Force.md) 13, [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Enchaîner les gobelins](./Enchaîner les gobelins.md), [Débiter les orques](./Débiter les orques.md), [Riposte](./Riposte.md), [BBA](./BBA.md) +11
+**Conditions.** [[nain]], [[Force|For]] 13, [[Attaque en puissance]], [[Enchaînement]], [[Enchaîner les gobelins]], [[Débiter les orques]], [[Riposte]], [[BBA]] +11
 
-**Avantages.** Ce don fonctionne comme [Enchaîner les gobelins](./Enchaîner les gobelins.md), mais les attaques supplémentaires s’effectuent contre des adversaires d’une catégorie de taille de plus que le personnage ou moins. De plus, si ces attaques visent des humanoïdes (géant), elles bénéficient d’un bonus de circonstances de +2 au [jet d’attaque](./jet dattaque.md).
+**Avantages.** Ce don fonctionne comme [[Enchaîner les gobelins]], mais les attaques supplémentaires s’effectuent contre des adversaires d’une catégorie de taille de plus que le personnage ou moins. De plus, si ces attaques visent des humanoïdes (géant), elles bénéficient d’un bonus de circonstances de +2 au [[jet dattaque|jet d’attaque]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Tant que le personnage a au moins 1 point d’endurance dans sa réserve, le bonus des attaques d’[Enchaînement](./Enchaînement.md) contre les humanoïdes de sous-type [géant](./sous-type géant.md) passe à +4.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Tant que le personnage a au moins 1 point d’endurance dans sa réserve, le bonus des attaques d’[[Enchaînement]] contre les humanoïdes de sous-type [[sous-type Géant|géant]] passe à +4.

@@ -5,4 +5,4 @@ LastModified: 2010-10-22 09:00
 RedirectTo: Pathfinder-RPG.Passage sans traces
 ---
 
->>> [Pathfinder-RPG.Passage sans traces](./Passage sans traces.md)
+>>> [[Pathfinder-RPG.Passage sans traces]]

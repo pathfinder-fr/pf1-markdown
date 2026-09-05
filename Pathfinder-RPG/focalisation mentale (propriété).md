@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Focalisation mentale
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Focalisation mentale](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Focalisation mentale)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Focalisation mentale]]

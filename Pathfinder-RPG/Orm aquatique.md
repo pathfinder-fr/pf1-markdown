@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p. 212*}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille TG, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille TG, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 11, pris au dépourvu 21 (Dex +3, naturelle +13, taille -2)}
 {s:BDTexte|**pv** 136 (13d10+65)}
@@ -23,14 +23,14 @@ Categories:
 {s:BDTexte|**Capacités défensive** insaisissable ; **Immunités** froid ; **Résistances** feu 20}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), nage 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +19 (4d6+18/19-20 plus [étreinte](./Étreinte.md)), et coup de queue, +14 (2d8+4)}
+{s:BDTexte|**Corps à corps** morsure, +19 (4d6+18/19-20 plus [[étreinte]]), et coup de queue, +14 (2d8+4)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c}), 6 m (4 {s:c}) pour la morsure}
-{s:BDTexte|**Attaques spéciales** [engloutissement](./Engloutissement.md) (3d6+12 contondant, CA 16, 13 pv)}
+{s:BDTexte|**Attaques spéciales** [[engloutissement]] (3d6+12 contondant, CA 16, 13 pv)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 16, **Con** 21, **Int** 4, **Sag** 13, **Cha** 11}
-{s:BDTexte|**BBA** +13, **BMO** +23 (+27 lutte), **DMD** 36 (40 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +14, [Natation](./Natation.md) +16, [Perception](./Perception.md) +11 ; **Modificateurs raciaux** +4 en [Perception](./Perception.md)}
+{s:BDTexte|**BBA** +13, **BMO** +23 (+27 lutte), **DMD** 36 (40 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Réflexes surhumains]], [[Science de la volonté de fer]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Talent]] ([[Discrétion]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +14, [[Natation]] +16, [[Perception]] +11 ; **Modificateurs raciaux** +4 en [[Perception]]}
 {s:BDTexte|**Langues** aquatique (incapable de parler)}
 {s:BDTexte|**Particularités** voyage aquatique}
 {s:BDSousTitre|Écologie}
@@ -38,7 +38,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Insaisissable (Sur).** On croise rarement des orms aquatiques, à moins qu’ils n’aient choisis de se laisser découvrir. Par une action complexe, un orm aquatique se trouvant dans l’eau peut se déplacer à sa vitesse de course (60 mètres) sans laisser aucune trace de son passage (comme avec un sort de [passage sans trace](./passage sans trace.md)). Les orms aquatiques gagnent un bonus de circonstances de +40 sur leur test de [Discrétion](./Discrétion.md) dans cette situation. De plus, quand ils ne combattent pas, ils fonctionnent comme s’ils bénéficiaient des effets d’un sort d’[antidétection](./Antidétection.md). Ces effets ont un NLS de 20 et ne peuvent pas être dissipés.}
+{s:BDTexte|**Insaisissable (Sur).** On croise rarement des orms aquatiques, à moins qu’ils n’aient choisis de se laisser découvrir. Par une action complexe, un orm aquatique se trouvant dans l’eau peut se déplacer à sa vitesse de course (60 mètres) sans laisser aucune trace de son passage (comme avec un sort de [[passage sans trace]]). Les orms aquatiques gagnent un bonus de circonstances de +40 sur leur test de [[Discrétion]] dans cette situation. De plus, quand ils ne combattent pas, ils fonctionnent comme s’ils bénéficiaient des effets d’un sort d’[[antidétection]]. Ces effets ont un NLS de 20 et ne peuvent pas être dissipés.}
 {s:BDTexte|**Voyage aquatique (Sur).** Par une action complexe utilisable une fois par jour, un orm aquatique peut se dissoudre en eau et prendre l’apparence d’une longue étendue d’eau similaire au passage d’un bancs de poissons observés depuis au-dessus de la surface. Sous cette forme, l’orm aquatique peut nager à une vitesse de 180 mètres par round (100 km/h) et gagne un bonus de +40 à tous les tests de Natation. Il ne peut pas attaquer ni faire quoi que ce soit d’autre que de nager lorsqu’il est sous cette forme et il peut maintenir cet aspect jusqu’à 8 heures de suite. Un orm aquatique peut reprendre sa forme solide par une action libre. Les orms aquatiques sont incapables de rentrer ou de traverser des eaux salées lorsqu’ils utilisent cette capacité.}
 </div>
 </td><td><div>

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ce contenant creux est fabriqué en bois, creusé dans une calebasse ou fait de métal. Il permet de transporter les liquides comme une [outre](./Outre (objet).md) mais il résiste mieux aux perforations et aux coupures.
+Ce contenant creux est fabriqué en bois, creusé dans une calebasse ou fait de métal. Il permet de transporter les liquides comme une [[Outre (objet)|outre]] mais il résiste mieux aux perforations et aux coupures.

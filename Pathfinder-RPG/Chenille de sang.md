@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.58*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille G, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 9, pris au dépourvu 19 (naturelle +10, taille -1)}
 {s:BDTexte|**pv** 37 (5d8+15)}
@@ -24,19 +24,19 @@ Categories:
 {s:BDTexte|**VD** 9 m, escalade 9 m}
 {s:BDTexte|**Corps à corps** morsure, +8 (2d6+6) et poils, +3 (1d8+3 plus poison)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDTexte|**Attaques spéciales** poison, [toile](./Toile (capacité).md) (+2 distance, DD 15, 5 pv)}
+{s:BDTexte|**Attaques spéciales** poison, [[Toile (capacité)|toile]] (+2 distance, DD 15, 5 pv)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 11, **Con** 17, **Int** —, **Sag** 11, **Cha** 2}
 {s:BDTexte|**BBA** +3 ; **BMO** +10 ; **DMD** 20 (croc-en-jambe impossible)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +14}
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md)}
+{s:BDTexte|**Compétences** [[Escalade]] +14}
+{s:BDTexte|**Particularités** [[Compression (capacité)|compression]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes ou tempérées}
 {s:BDTexte|**Organisation** solitaire, couple ou couvée (3-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Poils (Ext).** Une créature qui agresse une chenille avec une arme de corps à corps sans allonge ou une attaque naturelle doit réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 16 pour ne pas subir les dégâts équivalents à ceux qu’infligent les poils de la chenille. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Dextérité](./Dextérité.md) et inclut un bonus racial de +4.}
-{s:BDTexte|**Poison (Ext).** Poils — blessure ; *[JdS](./jet de sauvegarde.md)* [Vig](./Vigueur.md) [DD](./DD.md) 15 ; *fréquence* 1/[round](./round.md) pendant 6 [rounds](./round.md) ; *effet* 1d4 [Force](./Force.md) ; *guérison* 1 réussite.}
+{s:BDTexte|**Poils (Ext).** Une créature qui agresse une chenille avec une arme de corps à corps sans allonge ou une attaque naturelle doit réussir un jet de [[Réflexes]] [[DD]] 16 pour ne pas subir les dégâts équivalents à ceux qu’infligent les poils de la chenille. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Dextérité]] et inclut un bonus racial de +4.}
+{s:BDTexte|**Poison (Ext).** Poils — blessure ; *[[jet de sauvegarde|JdS]]* [[Vigueur|Vig]] [[DD]] 15 ; *fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; *effet* 1d4 [[Force]] ; *guérison* 1 réussite.}
 </div></td>
 <td><div>*Une multitude de poils pointus et venimeux recouvrent le corps de cette énorme chenille.*
 

@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *L’héritage racial du personnage s’intensifie en se mêlant à son pouvoir mythique.*
 
-**Condition.** [Héritage racial](./Héritage racial.md)
+**Condition.** [[Héritage racial]]
 
-**Avantage.** Le personnage gagne un unique trait racial qu’il sélectionne dans la liste de la race qu’il a choisie lorsqu’il a pris le don [non-mythique](./non-mythique.md) d’[Héritage racial](./Héritage racial.md). Ce trait racial ne peut modifier la taille ou les valeurs de caractéristique du personnage.Il apprend également le langage racial de la race (le cas échéant) s’il ne le connaît pas déjà. Dans le cas des races possédant plusieurs langages raciaux, le personnage les apprend tous.
+**Avantage.** Le personnage gagne un unique trait racial qu’il sélectionne dans la liste de la race qu’il a choisie lorsqu’il a pris le don [[non-mythique]] d’[[Héritage racial]]. Ce trait racial ne peut modifier la taille ou les valeurs de caractéristique du personnage.Il apprend également le langage racial de la race (le cas échéant) s’il ne le connaît pas déjà. Dans le cas des races possédant plusieurs langages raciaux, le personnage les apprend tous.

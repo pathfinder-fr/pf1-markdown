@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Les enseignements de votre déesse vous aident à garder vos secrets à l'abri.*
 
-**Conditions.** [NLS](./NLS.md) 3, capacité à lancer au moins une [chimère](./Présentation des sorts.md#CHIMERE) ou une [hallucination](./Présentation des sorts.md#HALLUCINATION), suivant de [Sivanah](./Sivanah (technique).md).
+**Conditions.** [[NLS]] 3, capacité à lancer au moins une [[Présentation des sorts#CHIMERE|chimère]] ou une [[Présentation des sorts#HALLUCINATION|hallucination]], suivant de [[Sivanah (technique)|Sivanah]].
 
-**Avantage.** Une fois par jour, lorsque le personnage créé une [chimère](./branche chimère.md) ou une [hallucination](./branche hallucination.md), il peut en intensifier l'effet afin d'augmenter le [DD](./DD.md) pour dévoiler l'illusion de 2.
+**Avantage.** Une fois par jour, lorsque le personnage créé une [[branche chimère|chimère]] ou une [[branche hallucination|hallucination]], il peut en intensifier l'effet afin d'augmenter le [[DD]] pour dévoiler l'illusion de 2.

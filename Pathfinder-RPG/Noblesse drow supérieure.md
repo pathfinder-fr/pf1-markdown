@@ -9,6 +9,6 @@ Categories:
 
 {s:MR}*Le drow maîtrise ses pouvoirs magiques mineurs, ce qui prouve sa véritable noblesse.*
 
-**Conditions requises.** : [Science de la noblesse drow](./Science de la noblesse drow.md)
+**Conditions requises.** : [[Science de la noblesse drow]]
 
-**Avantage.** Le pouvoir magique *[détection de la magie](./Détection de la magie.md)* du drow est maintenant permanent. Il peut utiliser les pouvoirs magiques *[lumières dansantes](./Lumières dansantes.md)*, *[ténèbres profondes](./Ténèbres profondes.md)*, *[lueur féerique](./Lueur féerique.md)*, *[feuille morte](./Feuille morte.md)* et *[lévitation](./Lévitation.md)* à volonté.
+**Avantage.** Le pouvoir magique *[[détection de la magie]]* du drow est maintenant permanent. Il peut utiliser les pouvoirs magiques *[[lumières dansantes]]*, *[[ténèbres profondes]]*, *[[lueur féerique]]*, *[[feuille morte]]* et *[[lévitation]]* à volonté.

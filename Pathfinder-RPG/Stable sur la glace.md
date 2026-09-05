@@ -7,10 +7,10 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:cm}**Cette option est plus courante chez les [géants du froid](./Géant du froid.md).**
+{s:cm}**Cette option est plus courante chez les [[Géant du froid|géants du froid]].**
 
 *Le personnage se déplace sur la glace et la neige comme sur sol sec.*
 
-**Conditions.** [Géant du froid](./Géant du froid.md)
+**Conditions.** [[Géant du froid]]
 
-**Avantage.** Le personnage se déplace sur les surfaces gelées et enneigées sans malus et n’a pas besoin de faire de test d’[Acrobaties](./Acrobaties.md) pour courir ou charger sur la glace. Il gagne un bonus de +4 aux tests d’[Escalade](./Escalade.md) pour grimper sur la glace.
+**Avantage.** Le personnage se déplace sur les surfaces gelées et enneigées sans malus et n’a pas besoin de faire de test d’[[Acrobaties]] pour courir ou charger sur la glace. Il gagne un bonus de +4 aux tests d’[[Escalade]] pour grimper sur la glace.

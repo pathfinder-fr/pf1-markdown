@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Conjurateur#PROTECTIONDALLIE
 ---
 
->>> [Conjurateur#PROTECTIONDALLIE](./Conjurateur.md#PROTECTIONDALLIE)
+>>> [[Conjurateur#PROTECTIONDALLIE]]

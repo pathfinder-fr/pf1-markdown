@@ -7,20 +7,20 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[Chaos](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Prê](./Prêtre.md) 2   
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|Chaos]]<nowiki>]</nowiki> ; **Niveau** [[Prêtre|Prê]] 2   
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** projectile d'énergie chaotique en forme de fléchette  
 
-**Durée** [instantanée](./instantanée.md) (1d6 rounds)  
+**Durée** [[instantanée]] (1d6 rounds)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) partielle (voir texte); **Résistance à la magie** oui  
+**Jet de sauvegarde** [[Volonté]] partielle (voir texte); **Résistance à la magie** oui  
 
 
-Grâce à son symbole sacré, le personnage envoie un projectile fait de chaos coagulé vers une cible à portée, par une [attaque de contact à distance](./attaque de contact à distance.md). Les créatures loyales frappées par ce projectile reçoivent 1d8 points de dégâts par tranche de deux [niveaux](./niveau.md) de lanceurs de sorts (5d8 au maximum). Un extérieur loyal subit 1d6 points de dégâts par [niveaux](./niveau.md) de lanceurs de sort (10d6 au maximum) et est ralenti (comme avec [lenteur](./Lenteur.md)) pendant
+Grâce à son symbole sacré, le personnage envoie un projectile fait de chaos coagulé vers une cible à portée, par une [[attaque de contact à distance]]. Les créatures loyales frappées par ce projectile reçoivent 1d8 points de dégâts par tranche de deux [[niveau|niveaux]] de lanceurs de sorts (5d8 au maximum). Un extérieur loyal subit 1d6 points de dégâts par [[niveau|niveaux]] de lanceurs de sort (10d6 au maximum) et est ralenti (comme avec [[lenteur]]) pendant
 1 round. Volonté 1/2 dégâts et annule la lenteur. Ce sort inflige seulement la moitié des dégâts aux créatures qui ne sont ni chaotiques ni loyales, qui ne sont pas ralenties. Il n'a aucun effet sur les créatures chaotiques.

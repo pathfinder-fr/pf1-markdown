@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage sait exactement comme frapper pour ignorer les méthodes défensives les plus sûres et les armures les plus lourdes.*
 
-**Condition.** [Frappe puissante](./Frappe puissante.md)
+**Condition.** [[Frappe puissante]]
 
-**Avantage.** Lorsqu’il utilise [Frappe puissante](./Frappe puissante.md) ou [Frappe puissante supérieure](./Frappe puissante supérieure.md), le personnage peut ignorer un point supplémentaire de réduction des dégâts pour chaque tranche de trois [grades](./grades.md) possédés. De plus, les effets s’appliquent aux réductions de dégâts dénuées de type (telle que RD 10/- par exemple).
+**Avantage.** Lorsqu’il utilise [[Frappe puissante]] ou [[Frappe puissante supérieure]], le personnage peut ignorer un point supplémentaire de réduction des dégâts pour chaque tranche de trois [[grades]] possédés. De plus, les effets s’appliquent aux réductions de dégâts dénuées de type (telle que RD 10/- par exemple).

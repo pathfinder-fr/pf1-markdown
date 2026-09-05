@@ -9,13 +9,13 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[air](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [conjurateur](./Conjurateur.md) 3, [prêtre](./Prêtre.md) 3, [druide](./Druide.md) 3, [magus](./Magus.md) 3, [rôdeur](./Rôdeur.md) 3, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 3  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[conjurateur]] 3, [[prêtre]] 3, [[druide]] 3, [[magus]] 3, [[rôdeur]] 3, [[ensorceleur]]/[[magicien]] 3  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui  
 
-**Restriction de cible** *[barrière](./../Golarion/Barrière.md)*
+**Restriction de cible** *[[barrière]]*
 
-Ce mot effet crée un mur vertical fait de tourbillons d’air. Ce vent ne gène pas la vision mais les projectiles qui le traversent ratent automatiquement (à l’exception des gros projectiles, comme les rochers jetés par un géant et les armes de siège). Les créatures qui essaient de passer à travers se retrouvent en [terrain difficile](./terrain difficile.md) et doivent faire
-un test de [Force](./Force.md) [DD](./DD.md) 10. En cas d’échec, elles ne peuvent pas le traverser durant le round mais sont libres d’essayer à nouveau aux rounds suivants. Les gaz, les armes de souffle et les créatures sous forme gazeuse sont incapables de passer.
+Ce mot effet crée un mur vertical fait de tourbillons d’air. Ce vent ne gène pas la vision mais les projectiles qui le traversent ratent automatiquement (à l’exception des gros projectiles, comme les rochers jetés par un géant et les armes de siège). Les créatures qui essaient de passer à travers se retrouvent en [[terrain difficile]] et doivent faire
+un test de [[Force]] [[DD]] 10. En cas d’échec, elles ne peuvent pas le traverser durant le round mais sont libres d’essayer à nouveau aux rounds suivants. Les gaz, les armes de souffle et les créatures sous forme gazeuse sont incapables de passer.

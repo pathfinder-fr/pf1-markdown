@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Valeurs de combat#JETDESAUVEGARDE
 ---
 
->>> [Valeurs de combat#JETDESAUVEGARDE](./Valeurs de combat.md#JETDESAUVEGARDE)
+>>> [[Valeurs de combat#JETDESAUVEGARDE]]

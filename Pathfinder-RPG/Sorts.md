@@ -7,144 +7,144 @@ LastModified: 2015-04-27 16:34
 <nav class="wiki-toc"></nav>
 
 ### Liste des sorts
-- [de A à D](./Liste des sorts.md)
-- [de E à O](./Liste des sorts (suite).md)
-- [de P à Z](./Liste des sorts (fin).md)
+- [[Liste des sorts|de A à D]]
+- [[Liste des sorts (suite)|de E à O]]
+- [[Liste des sorts (fin)|de P à Z]]
 
 ### Listes par classe et niveau
 {s:Ligne|sansmodif}<div class="wiki-col wiki-col-3">
 
-#### [Alchimistes](./Liste des formules dalchimiste.md)
-- [Niveau 1](./Liste des formules dalchimiste.md#1)
-- [Niveau 2](./Liste des formules dalchimiste.md#2)
-- [Niveau 3](./Liste des formules dalchimiste.md#3)
-- [Niveau 4](./Liste des formules dalchimiste.md#4)
-- [Niveau 5](./Liste des formules dalchimiste.md#5)
-- [Niveau 6](./Liste des formules dalchimiste.md#6)
+#### [[Liste des formules dalchimiste|Alchimistes]]
+- [[Liste des formules dalchimiste#1|Niveau 1]]
+- [[Liste des formules dalchimiste#2|Niveau 2]]
+- [[Liste des formules dalchimiste#3|Niveau 3]]
+- [[Liste des formules dalchimiste#4|Niveau 4]]
+- [[Liste des formules dalchimiste#5|Niveau 5]]
+- [[Liste des formules dalchimiste#6|Niveau 6]]
 </div><div class="wiki-col wiki-col-3">
 
-#### [Antipaladin](./Liste des sorts dantipaladin.md)
-- [Niveau 1](./Liste des sorts dantipaladin.md#1)
-- [Niveau 2](./Liste des sorts dantipaladin.md#2)
-- [Niveau 3](./Liste des sorts dantipaladin.md#3)
-- [Niveau 4](./Liste des sorts dantipaladin.md#4)
+#### [[Liste des sorts dantipaladin|Antipaladin]]
+- [[Liste des sorts dantipaladin#1|Niveau 1]]
+- [[Liste des sorts dantipaladin#2|Niveau 2]]
+- [[Liste des sorts dantipaladin#3|Niveau 3]]
+- [[Liste des sorts dantipaladin#4|Niveau 4]]
 </div><div class="wiki-col wiki-col-3">
 
-#### [Bardes](./Liste des sorts de bardes.md)
-- [Niveau 0](./Liste des sorts de bardes.md#0)
-- [Niveau 1](./Liste des sorts de bardes.md#1)
-- [Niveau 2](./Liste des sorts de bardes.md#2)
-- [Niveau 3](./Liste des sorts de bardes.md#3)
-- [Niveau 4](./Liste des sorts de bardes.md#4)
-- [Niveau 5](./Liste des sorts de bardes.md#5)
-- [Niveau 6](./Liste des sorts de bardes.md#6)
+#### [[Liste des sorts de bardes|Bardes]]
+- [[Liste des sorts de bardes#0|Niveau 0]]
+- [[Liste des sorts de bardes#1|Niveau 1]]
+- [[Liste des sorts de bardes#2|Niveau 2]]
+- [[Liste des sorts de bardes#3|Niveau 3]]
+- [[Liste des sorts de bardes#4|Niveau 4]]
+- [[Liste des sorts de bardes#5|Niveau 5]]
+- [[Liste des sorts de bardes#6|Niveau 6]]
 </div><div class="wiki-col wiki-col-3">
 
-#### [Conjurateurs](./liste des sorts de conjurateurs.md)
-- [Niveau 0](./liste des sorts de conjurateurs.md#0)
-- [Niveau 1](./liste des sorts de conjurateurs.md#1)
-- [Niveau 2](./liste des sorts de conjurateurs.md#2)
-- [Niveau 3](./liste des sorts de conjurateurs.md#3)
-- [Niveau 4](./liste des sorts de conjurateurs.md#4)
-- [Niveau 5](./liste des sorts de conjurateurs.md#5)
-- [Niveau 6](./liste des sorts de conjurateurs.md#6)
+#### [[Liste des sorts de conjurateurs|Conjurateurs]]
+- [[Liste des sorts de conjurateurs#0|Niveau 0]]
+- [[Liste des sorts de conjurateurs#1|Niveau 1]]
+- [[Liste des sorts de conjurateurs#2|Niveau 2]]
+- [[Liste des sorts de conjurateurs#3|Niveau 3]]
+- [[Liste des sorts de conjurateurs#4|Niveau 4]]
+- [[Liste des sorts de conjurateurs#5|Niveau 5]]
+- [[Liste des sorts de conjurateurs#6|Niveau 6]]
 </div></div>{s:Ligne|sansmodif}<div class="wiki-col wiki-col-3">
 
-#### [Druides](./Liste des sorts de druides.md)
-- [Niveau 0](./Liste des sorts de druides.md#0)
-- [Niveau 1](./Liste des sorts de druides.md#1)
-- [Niveau 2](./Liste des sorts de druides.md#2)
-- [Niveau 3](./Liste des sorts de druides.md#3)
-- [Niveau 4](./Liste des sorts de druides.md#4)
-- [Niveau 5](./Liste des sorts de druides.md#5)
-- [Niveau 6](./Liste des sorts de druides.md#6)
-- [Niveau 7](./Liste des sorts de druides.md#7)
-- [Niveau 8](./Liste des sorts de druides.md#8)
-- [Niveau 9](./Liste des sorts de druides.md#9)
+#### [[Liste des sorts de druides|Druides]]
+- [[Liste des sorts de druides#0|Niveau 0]]
+- [[Liste des sorts de druides#1|Niveau 1]]
+- [[Liste des sorts de druides#2|Niveau 2]]
+- [[Liste des sorts de druides#3|Niveau 3]]
+- [[Liste des sorts de druides#4|Niveau 4]]
+- [[Liste des sorts de druides#5|Niveau 5]]
+- [[Liste des sorts de druides#6|Niveau 6]]
+- [[Liste des sorts de druides#7|Niveau 7]]
+- [[Liste des sorts de druides#8|Niveau 8]]
+- [[Liste des sorts de druides#9|Niveau 9]]
 </div><div class="wiki-col wiki-col-3">
 
-#### [Ensorceleurs / Magiciens](./Liste des sorts densorceleursmagiciens.md)
-- [Niveau 0](./Liste des sorts densorceleursmagiciens.md#0)
-- [Niveau 1](./Liste des sorts densorceleursmagiciens.md#1)
-- [Niveau 2](./Liste des sorts densorceleursmagiciens.md#2)
-- [Niveau 3](./Liste des sorts densorceleursmagiciens.md#3)
-- [Niveau 4](./Liste des sorts densorceleursmagiciens.md#4)
-- [Niveau 5](./Liste des sorts densorceleursmagiciens.md#5)
-- [Niveau 6](./Liste des sorts densorceleursmagiciens.md#6)
-- [Niveau 7](./Liste des sorts densorceleursmagiciens.md#7)
-- [Niveau 8](./Liste des sorts densorceleursmagiciens.md#8)
-- [Niveau 9](./Liste des sorts densorceleursmagiciens.md#9)
+#### [[Liste des sorts densorceleursmagiciens|Ensorceleurs / Magiciens]]
+- [[Liste des sorts densorceleursmagiciens#0|Niveau 0]]
+- [[Liste des sorts densorceleursmagiciens#1|Niveau 1]]
+- [[Liste des sorts densorceleursmagiciens#2|Niveau 2]]
+- [[Liste des sorts densorceleursmagiciens#3|Niveau 3]]
+- [[Liste des sorts densorceleursmagiciens#4|Niveau 4]]
+- [[Liste des sorts densorceleursmagiciens#5|Niveau 5]]
+- [[Liste des sorts densorceleursmagiciens#6|Niveau 6]]
+- [[Liste des sorts densorceleursmagiciens#7|Niveau 7]]
+- [[Liste des sorts densorceleursmagiciens#8|Niveau 8]]
+- [[Liste des sorts densorceleursmagiciens#9|Niveau 9]]
 </div><div class="wiki-col wiki-col-3">
 
-#### [Inquisiteur](./Liste des sorts dinquisiteur.md)
-- [Niveau 0](./Liste des sorts dinquisiteur.md#0)
-- [Niveau 1](./Liste des sorts dinquisiteur.md#1)
-- [Niveau 2](./Liste des sorts dinquisiteur.md#2)
-- [Niveau 3](./Liste des sorts dinquisiteur.md#3)
-- [Niveau 4](./Liste des sorts dinquisiteur.md#4)
-- [Niveau 5](./Liste des sorts dinquisiteur.md#5)
-- [Niveau 6](./Liste des sorts dinquisiteur.md#6)
+#### [[Liste des sorts dinquisiteur|Inquisiteur]]
+- [[Liste des sorts dinquisiteur#0|Niveau 0]]
+- [[Liste des sorts dinquisiteur#1|Niveau 1]]
+- [[Liste des sorts dinquisiteur#2|Niveau 2]]
+- [[Liste des sorts dinquisiteur#3|Niveau 3]]
+- [[Liste des sorts dinquisiteur#4|Niveau 4]]
+- [[Liste des sorts dinquisiteur#5|Niveau 5]]
+- [[Liste des sorts dinquisiteur#6|Niveau 6]]
 </div><div class="wiki-col wiki-col-3">
 
-#### [Magicien élémentaliste](./Liste des sorts délémentaliste.md)
-- [Niveau 0](./Liste des sorts délémentaliste.md#0)
-- [Niveau 1](./Liste des sorts délémentaliste.md#1)
-- [Niveau 2](./Liste des sorts délémentaliste.md#2)
-- [Niveau 3](./Liste des sorts délémentaliste.md#3)
-- [Niveau 4](./Liste des sorts délémentaliste.md#4)
-- [Niveau 5](./Liste des sorts délémentaliste.md#5)
-- [Niveau 6](./Liste des sorts délémentaliste.md#6)
-- [Niveau 7](./Liste des sorts délémentaliste.md#7)
-- [Niveau 8](./Liste des sorts délémentaliste.md#8)
-- [Niveau 9](./Liste des sorts délémentaliste.md#9)
+#### [[Liste des sorts délémentaliste|Magicien élémentaliste]]
+- [[Liste des sorts délémentaliste#0|Niveau 0]]
+- [[Liste des sorts délémentaliste#1|Niveau 1]]
+- [[Liste des sorts délémentaliste#2|Niveau 2]]
+- [[Liste des sorts délémentaliste#3|Niveau 3]]
+- [[Liste des sorts délémentaliste#4|Niveau 4]]
+- [[Liste des sorts délémentaliste#5|Niveau 5]]
+- [[Liste des sorts délémentaliste#6|Niveau 6]]
+- [[Liste des sorts délémentaliste#7|Niveau 7]]
+- [[Liste des sorts délémentaliste#8|Niveau 8]]
+- [[Liste des sorts délémentaliste#9|Niveau 9]]
 </div></div>{s:Ligne|sansmodif}<div class="wiki-col wiki-col-3">
 
-#### [Magus](./Liste des sorts de magus.md)
-- [Niveau 0](./Liste des sorts de magus.md#0)
-- [Niveau 1](./Liste des sorts de magus.md#1)
-- [Niveau 2](./Liste des sorts de magus.md#2)
-- [Niveau 3](./Liste des sorts de magus.md#3)
-- [Niveau 4](./Liste des sorts de magus.md#4)
-- [Niveau 5](./Liste des sorts de magus.md#5)
-- [Niveau 6](./Liste des sorts de magus.md#6)
+#### [[Liste des sorts de magus|Magus]]
+- [[Liste des sorts de magus#0|Niveau 0]]
+- [[Liste des sorts de magus#1|Niveau 1]]
+- [[Liste des sorts de magus#2|Niveau 2]]
+- [[Liste des sorts de magus#3|Niveau 3]]
+- [[Liste des sorts de magus#4|Niveau 4]]
+- [[Liste des sorts de magus#5|Niveau 5]]
+- [[Liste des sorts de magus#6|Niveau 6]]
 </div><div class="wiki-col wiki-col-3">
 
-#### [Paladins](./Liste des sorts de paladins.md)
-- [Niveau 1](./Liste des sorts de paladins.md#1)
-- [Niveau 2](./Liste des sorts de paladins.md#2)
-- [Niveau 3](./Liste des sorts de paladins.md#3)
-- [Niveau 4](./Liste des sorts de paladins.md#4)
+#### [[Liste des sorts de paladins|Paladins]]
+- [[Liste des sorts de paladins#1|Niveau 1]]
+- [[Liste des sorts de paladins#2|Niveau 2]]
+- [[Liste des sorts de paladins#3|Niveau 3]]
+- [[Liste des sorts de paladins#4|Niveau 4]]
 </div><div class="wiki-col wiki-col-3">
 
-#### [Prêtres/Oracles](./Liste des sorts de prêtres.md)
-- [Niveau 0](./Liste des sorts de prêtres.md#0)
-- [Niveau 1](./Liste des sorts de prêtres.md#1)
-- [Niveau 2](./Liste des sorts de prêtres.md#2)
-- [Niveau 3](./Liste des sorts de prêtres.md#3)
-- [Niveau 4](./Liste des sorts de prêtres.md#4)
-- [Niveau 5](./Liste des sorts de prêtres.md#5)
-- [Niveau 6](./Liste des sorts de prêtres.md#6)
-- [Niveau 7](./Liste des sorts de prêtres.md#7)
-- [Niveau 8](./Liste des sorts de prêtres.md#8)
-- [Niveau 9](./Liste des sorts de prêtres.md#9)
+#### [[Liste des sorts de prêtres|Prêtres/Oracles]]
+- [[Liste des sorts de prêtres#0|Niveau 0]]
+- [[Liste des sorts de prêtres#1|Niveau 1]]
+- [[Liste des sorts de prêtres#2|Niveau 2]]
+- [[Liste des sorts de prêtres#3|Niveau 3]]
+- [[Liste des sorts de prêtres#4|Niveau 4]]
+- [[Liste des sorts de prêtres#5|Niveau 5]]
+- [[Liste des sorts de prêtres#6|Niveau 6]]
+- [[Liste des sorts de prêtres#7|Niveau 7]]
+- [[Liste des sorts de prêtres#8|Niveau 8]]
+- [[Liste des sorts de prêtres#9|Niveau 9]]
 </div><div class="wiki-col wiki-col-3">
 
-#### [Rôdeurs](./Liste des sorts de rôdeurs.md)
-- [Niveau 1](./Liste des sorts de rôdeurs.md#1)
-- [Niveau 2](./Liste des sorts de rôdeurs.md#2)
-- [Niveau 3](./Liste des sorts de rôdeurs.md#3)
-- [Niveau 4](./Liste des sorts de rôdeurs.md#4)
+#### [[Liste des sorts de rôdeurs|Rôdeurs]]
+- [[Liste des sorts de rôdeurs#1|Niveau 1]]
+- [[Liste des sorts de rôdeurs#2|Niveau 2]]
+- [[Liste des sorts de rôdeurs#3|Niveau 3]]
+- [[Liste des sorts de rôdeurs#4|Niveau 4]]
 </div></div>{s:Ligne|sansmodif}<div class="wiki-col wiki-col-3">
 
-#### [Sorcières](./Liste des sorts de sorcière.md)
-- [Niveau 0](./Liste des sorts de sorcière.md#0)
-- [Niveau 1](./Liste des sorts de sorcière.md#1)
-- [Niveau 2](./Liste des sorts de sorcière.md#2)
-- [Niveau 3](./Liste des sorts de sorcière.md#3)
-- [Niveau 4](./Liste des sorts de sorcière.md#4)
-- [Niveau 5](./Liste des sorts de sorcière.md#5)
-- [Niveau 6](./Liste des sorts de sorcière.md#6)
-- [Niveau 7](./Liste des sorts de sorcière.md#7)
-- [Niveau 8](./Liste des sorts de sorcière.md#8)
-- [Niveau 9](./Liste des sorts de sorcière.md#9)
+#### [[Liste des sorts de sorcière|Sorcières]]
+- [[Liste des sorts de sorcière#0|Niveau 0]]
+- [[Liste des sorts de sorcière#1|Niveau 1]]
+- [[Liste des sorts de sorcière#2|Niveau 2]]
+- [[Liste des sorts de sorcière#3|Niveau 3]]
+- [[Liste des sorts de sorcière#4|Niveau 4]]
+- [[Liste des sorts de sorcière#5|Niveau 5]]
+- [[Liste des sorts de sorcière#6|Niveau 6]]
+- [[Liste des sorts de sorcière#7|Niveau 7]]
+- [[Liste des sorts de sorcière#8|Niveau 8]]
+- [[Liste des sorts de sorcière#9|Niveau 9]]
 </div></div>

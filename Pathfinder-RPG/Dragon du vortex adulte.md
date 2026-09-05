@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Dragon|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 72*}
 - **38 400 PX**
-- [Dragon](./type Dragon.md) (feu) de taille TG, LN
+- [[type dragon|Dragon]] (feu) de taille TG, LN
 - **Init **+5 ; **Sens **sens draconiques, vision dans les ténèbres ; Perception +24
 - **Aura** présence étrangère (54 m, DD 23)
 (((Défense)))
@@ -27,22 +27,22 @@ Categories:
 - **Espace **4,50 m ; **Allonge **3 m (4,50 m avec la morsure)
 - **Attaque spéciale** écrasement, frappe fragmentée, souffle (cône de 15 m, 12d8 feu, DD 23)
 - **Pouvoirs magiques** (**NLS** 17 ; concentration +22)
-- *À volonté* — [anticipation du danger](./Anticipation du danger.md), [bouclier entropique](./Bouclier entropique.md)
+- *À volonté* — [[anticipation du danger]], [[bouclier entropique]]
 - **Sorts d’ensorceleur connus** (**NLS **7 ; concentration +12)
-- *3ème (5/jour)* — [déplacement](./Déplacement.md), [protection contre les énergies destructives](./Protection contre les énergies destructives.md)
-- *2ème (7/jour)* — [image miroir](./Image miroir.md), [rayon ardent](./Rayon ardent.md), [résistance aux énergies destructives](./Résistance aux énergies destructives.md)
-- *1er (8/jour)* — [brume de dissimulation](./Brume de dissimulation.md), [compréhension des langages](./Compréhension des langages.md), [coup au but](./Coup au but.md), [feuille morte](./Feuille morte.md), [projectile magique](./Projectile magique.md) 
-- *0 (à volonté)* — [détection de la magie](./Détection de la magie.md), [lecture de la magie](./Lecture de la magie.md), [lumière](./Lumière.md), [message](./Message.md), 3 de plus
+- *3ème (5/jour)* — [[déplacement]], [[protection contre les énergies destructives]]
+- *2ème (7/jour)* — [[image miroir]], [[rayon ardent]], [[résistance aux énergies destructives]]
+- *1er (8/jour)* — [[brume de dissimulation]], [[compréhension des langages]], [[coup au but]], [[feuille morte]], [[projectile magique]] 
+- *0 (à volonté)* — [[détection de la magie]], [[lecture de la magie]], [[lumière]], [[message]], 3 de plus
 (((Statistiques)))
 - **For **27, **Dex **12, **Con **21, **Int** 20, **Sag **19, **Cha **20
 - **BBA **+17 ; **BMO** +27 ; **DMD **38 (42 contre croc-en-jambe)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md), [Capture](./Capture.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Vigueur surhumaine](./Vigueur surhumaine.md), [Virage sur l’aile](./Virage sur laile.md)
-- **Compétences **[Art de la magie](./Art de la magie.md) +25, [Bluff](./Bluff.md) +25, [Connaissances](./Connaissances.md) (géographie, mystères, plans, religion) +25, [Diplomatie](./Diplomatie.md) +25, [Intimidation](./Intimidation.md) +25, [Perception](./Perception.md) +24, [Psychologie](./Psychologie.md) +24, [Vol](./Vol.md) +21
+- **Dons **[[Attaque en puissance]], [[Attaque en vol]], [[Attaques multiples]], [[Capture]], [[Réflexes surhumains]], [[science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Vigueur surhumaine]], [[virage sur laile|Virage sur l’aile]]
+- **Compétences **[[Art de la magie]] +25, [[Bluff]] +25, [[Connaissances]] (géographie, mystères, plans, religion) +25, [[Diplomatie]] +25, [[Intimidation]] +25, [[Perception]] +24, [[Psychologie]] +24, [[Vol]] +21
 - **Langues **abyssal, aérien, céleste, commun, draconique, infernal
 - **Particularités **agile, émissaire galactique, ne respire pas, vol stellaire
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons sidéraux](./Dragon sidéral.md).***</li><li>***Voir la description des [dragons du vortex](./Dragon du vortex.md).***</li></ul>*Ce dragon s’agite si vite qu’il est difficile de le suivre du regard. Ses ailes et ses cornes, recourbées le long de son cou, émettent une lumière qui semble venir tout droit des étoiles.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li><li>***Voir la description des [[dragon du vortex|dragons du vortex]].***</li></ul>*Ce dragon s’agite si vite qu’il est difficile de le suivre du regard. Ses ailes et ses cornes, recourbées le long de son cou, émettent une lumière qui semble venir tout droit des étoiles.*
 
 Les dragons du vortex sont les maîtres incontestés du voyage intergalactique. Ce sont les messagers et les sentinelles des plus grands dragons sidéraux et des entités quasi-divines du Grand Au-delà.
 </div></td></tr></table>

@@ -4,7 +4,7 @@ Title: Shattered Star / L´Étoile brisée
 LastModified: 2018-06-25 19:04
 ---
 
-Vous trouverez les aides de jeu relatives à cette campagne sur [cette page](./Aides-de-jeu-AP11.md).
+Vous trouverez les aides de jeu relatives à cette campagne sur [[Aides de jeu AP11|cette page]].
 
 ### Les livres de la campagne
 
@@ -26,7 +26,7 @@ La trépidante nouvelle campagne, l'Étoile brisée, commence avec une aventure 
 
 Les nouveaux héros de la Varisie ont mis la main sur une puissante relique datant de l'ancien empire du Thassilon, mais l'artéfact a été brisé en sept fragments. Le troisième de ces fragments se trouve dans les marécages des Mushfens au sud de la ville de Magnimar, caché au sein d'un phrase ancien et gigantesque appelé la Lumière de la Dame. Les bourbiérins agités, les troglodytes et les autres monstres des marais qui habitent la région forceront les aventuriers à approcher l'endroit soit avec discrétion soit avec grand courage. Mais le danger que représentent ces humanoïdes écailleux à la peau gluante n'est rien à côté de la menace que présentent les Vierges Grises exilées qui se sont approprié l'intérieur de la Lumière en tant que nouveau quartier général et de la malédiction sinistre qui frappe le puissant gardien ancestral de ces ruines.  
 
-**Articles.** Mushfens, les Vierges Grises, [Torag](./../Golarion/Torag.md)}
+**Articles.** Mushfens, les Vierges Grises, [[Golarion.Torag|Torag]]}
 {s:BookTitle|AP11-3|The Asylum Stone/La Pierre de l'Asyle}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9063_180.jpeg|http://paizo.com/products/btpy8sds?Pathfinder-Adventure-Path-63-The-Asylum-Stone}
 {s:BookPic||}
@@ -41,7 +41,7 @@ La quête des sept fragments de l'Étoile brisée continue alors que les héros 
 
 La quête des sept fragments de l'Étoile brisée ramène les héros vers la côte ouest de la Varisie, vers le monastère oecuménique appelé l'Abbaye du Chant du vent. Le fragment suivant semble être caché quelque part dans les donjons situés sous l'abbaye. Mais, lorsque les PJ arrivent, ils trouvent l'abbaye en ruines, aux mains de géants violents et de fées dérangées. Une terreur ancienne est revenue à son lieu d'origine et hante désormais les niveaux cachés sous le monastère, une terreur qui compte bien ouvrir la terrible porte apocalyptique qui s'y trouve !  
 
-**Articles.** les qlippoths, [Groetus](./Golarion-Groetus.md)}
+**Articles.** les qlippoths, [[Golarion.Groetus|Groetus]]}
 {s:BookTitle|AP11-5|Into the Nightmare Rift/Dans la fissure cauchemardesque}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9065_180.jpeg|http://paizo.com/products/btpy8tdh?Pathfinder-Adventure-Path-65-Into-the-Nightmare-Rift}
 {s:BookPic||}
@@ -49,7 +49,7 @@ La quête des sept fragments de l'Étoile brisée ramène les héros vers la cô
 
 Maintenant que cinq fragments de l'Étoile brisée ont été récupérés, les visions dirigent les PJ vers l'un des coins les plus reculés de la Varisie, le site protégeant le sixième fragment de ce puissant artefact. Mais les héros ne sont pas les premiers à partir à la recherche de ce fragment : en arrivant dans les ruines appelée l'Éperon de la culpabilité, ils trouvent une petite armée de géants occupés à excaver le site sous les ordres d'un dragon bleu. Et les dangers présents ne se limitent pas à ça car, comme les héros vont bien vite l'apprendre, d'autres forces sont en quête des derniers fragments, certaines provenant des Terres sombres enfouies sous la surface et d'autres issues du royaume cauchemardesque de Leng situé au-delà de la réalité !  
 
-**Articles.** les secrets du plateau de Leng créé par H. P. Lovecraft, [Lissala](./../Golarion/Lissala.md)}
+**Articles.** les secrets du plateau de Leng créé par H. P. Lovecraft, [[Golarion.Lissala|Lissala]]}
 {s:BookTitle|AP11-6|The Dead Heart of Xin/Le coeur mort de Xin}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9066_180.jpeg|http://paizo.com/products/btpy8tvr?Pathfinder-Adventure-Path-66-The-Dead-Heart-of-Xin}
 {s:BookPic||}
@@ -61,7 +61,7 @@ Les sept fragments de l'Étoile brisée ont été récupérés et les Éclaireur
 {s:BookTitle|AP11-7|Shattered Star Adventure Path Pawn Collection/Boîte de pions de l’Étoile brisée}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO1006_180.jpeg|http://paizo.com/products/btpy8uwx?Pathfinder-Pawns-Shattered-Star-Adventure-Path-Pawn-Collection}
 {s:BookPic||}
-{s:BookComment|Boîte contenant plus de 100 pions cartonnés pour jouer la campagne. Attention, cette boîte ne contient pas de socles, mais ils peuvent être achetés sur le site de [^http://paizo.com/pathfinder/pawns|Paizo].}
+{s:BookComment|Boîte contenant plus de 100 pions cartonnés pour jouer la campagne. Attention, cette boîte ne contient pas de socles, mais ils peuvent être achetés sur le site de [Paizo](http://paizo.com/pathfinder/pawns).}
 {s:BookTitle|AP11-8|Pathfinder Dice Set : Shattered Star/Set de dés : l’Étoile brisée}
 {s:BookPic|http://static2.paizo.com/image/product/catalog/QWS/QWSSPAT02_180.jpeg|http://paizo.com/products/btpy916c?Pathfinder-Dice-Set-Shattered-Star}
 {s:BookPic||}

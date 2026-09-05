@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Les geysers en activités du fond du lac lui ont donné ce nom. Des pêcheurs vivent au bord du lac qui sert hélas pour eux de territoire de chasse à des [rukhs](./rukhs.md).
+Les geysers en activités du fond du lac lui ont donné ce nom. Des pêcheurs vivent au bord du lac qui sert hélas pour eux de territoire de chasse à des [[rukhs]].

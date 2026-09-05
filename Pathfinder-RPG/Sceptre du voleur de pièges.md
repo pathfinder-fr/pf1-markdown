@@ -6,13 +6,13 @@ LastModified: 2024-05-28 18:46
 
 <div class="BD">
 {s:BDTitre|Sceptre du voleur de pièges|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 15 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 13 500 po; **Poids** 2,5 kg
+**Aura** [[Transmutation]] puissante ; **NLS** 15 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 13 500 po; **Poids** 2,5 kg
 (((Description)))
-Ce solide sceptre en fer est forgé avec des angles prononcés permettant de le tenir fermement. Il est gravé d’images et d’adages propres à des filous issus des mythes et des légendes courantes. Crochu à un bout, le sceptre du voleur de pièges fonctionne comme un pied-de-biche de qualité exceptionnelle, accordant au porteur un bonus de circonstances de +4 à ses tests de [Force](./Force.md) pour ouvrir une porte ou un coffre lorsqu’il utilise le sceptre.
+Ce solide sceptre en fer est forgé avec des angles prononcés permettant de le tenir fermement. Il est gravé d’images et d’adages propres à des filous issus des mythes et des légendes courantes. Crochu à un bout, le sceptre du voleur de pièges fonctionne comme un pied-de-biche de qualité exceptionnelle, accordant au porteur un bonus de circonstances de +4 à ses tests de [[Force]] pour ouvrir une porte ou un coffre lorsqu’il utilise le sceptre.
 
-En outre et sur commande, le porteur peut transformer le sceptre en outils de cambrioleur magiques qui lui accordent un bonus de compétence de +4 à ses tests de [Sabotage](./Sabotage.md). Le porteur peut retransformer ces outils en sceptre sur commande.
+En outre et sur commande, le porteur peut transformer le sceptre en outils de cambrioleur magiques qui lui accordent un bonus de compétence de +4 à ses tests de [[Sabotage]]. Le porteur peut retransformer ces outils en sceptre sur commande.
 
 Enfin, si le porteur du sceptre réussit à désamorcer un piège avec des outils de cambrioleur et bat le DD de Sabotage du piège de 5 ou plus, il peut voler magiquement le piège désamorcé. Un piège volé disparaît de la zone, aspiré dans un espace extradimensionnel relié au sceptre. Le terrain qui entoure le piège se reforme comme si le piège n’avait jamais existé, mais les seuils et les portails qui supportaient un piège restent inchangés. À n’importe quel moment au cours des 24 heures qui suivent, le porteur du sceptre peut placer le piège stocké dans un nouvel endroit où il fonctionne normalement. Ce nouvel endroit doit être en mesure de recevoir le piège. Par exemple, le personnage peut voler une trappe piégée sur le sol d’un donjon et la replacer sur un chemin de terre mais pas à la surface d’un lac ou d’une rivière. C’est au MJ de décider de la pertinence du nouvel emplacement. Si le personnage place le piège volé dans un endroit inadapté, l’effet magique est gâché et le piège revient à sa position d’origine. Que le piège soit placé avec succès dans un nouvel endroit ou non, il revient à sa position originale au bout de 24 heures. Cette capacité fonctionne une fois par jour.
 (((Création)))
-**Conditions** [Création de sceptres magiques](./Création de sceptres magiques.md), *[changement de plan](./Changement de plan.md)*, *[création de fosse](./Création de fosse.md)*, *[déblocage](./Déblocage.md)* ; **Coût** 6 750 po
+**Conditions** [[Création de sceptres magiques]], *[[changement de plan]]*, *[[création de fosse]]*, *[[déblocage]]* ; **Coût** 6 750 po
 </div>

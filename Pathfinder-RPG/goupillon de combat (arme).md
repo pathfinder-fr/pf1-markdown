@@ -7,12 +7,12 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 2 kg ; **Groupes** [marteaux](./groupe darmes.md#Marteaux)
+{s:AE}**Prix** 5 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Marteaux|marteaux]]
 **Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** voir texte
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
-Nommée d’après le goupillon ordinaire, cet outil semblable à une petite masse que les prêtres utilisent pour répandre l’[eau bénite](./Eau bénite (objet).md), cette arme est pourvue d’une tête creuse que l’on peut remplir et qui se ferme avec un bouchon de métal. Lorsque la masse frappe une créature, l’eau bénite jaillit par de tout petits trous percés sur la tête de l’arme.  
+Nommée d’après le goupillon ordinaire, cet outil semblable à une petite masse que les prêtres utilisent pour répandre l’[[eau bénite (objet)|eau bénite]], cette arme est pourvue d’une tête creuse que l’on peut remplir et qui se ferme avec un bouchon de métal. Lorsque la masse frappe une créature, l’eau bénite jaillit par de tout petits trous percés sur la tête de l’arme.  
   
 Les créatures sujettes aux dégâts de l’eau bénite reçoivent 1 point de dégât en plus des dégâts normaux du coup de masse (un goupillon non-magique peut ainsi infliger des dégâts d’eau bénite à une créature intangible, même si la masse en elle-même n’inflige aucun dégât). Après cinq coups, le goupillon de combat est vide et il faut le remplir de nouveau.  
   
-Il faut une [action simple](./Action simple.md) provoquant des [attaques d’opportunité](./AO.md) (comme le fait de boire une potion) pour le remplir d’eau bénite. Un goupillon rempli d’eau bénite se tient normalement la tête vers le haut pour éviter que l’eau bénite ne s’écoule lorsque l’on manie l’arme.
+Il faut une [[action simple]] provoquant des [[AO|attaques d’opportunité]] (comme le fait de boire une potion) pour le remplir d’eau bénite. Un goupillon rempli d’eau bénite se tient normalement la tête vers le haut pour éviter que l’eau bénite ne s’écoule lorsque l’on manie l’arme.

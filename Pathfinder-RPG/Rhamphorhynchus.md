@@ -10,13 +10,13 @@ LastModified: 2026-08-02 14:33
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Ultimate Wilderness*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +3 ; **Sens** [Odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[Odorat]], [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
 {s:BDTexte|**Réf** +7, **Vig** +2, **Vol** +2}
-{s:BDTexte|**Aptitude défensive** [évasion](./Évasion.md)}
+{s:BDTexte|**Aptitude défensive** [[évasion]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c}), vol 12 m (8 {s:c}) (bon)}
 {s:BDTexte|**Corps à corps** Morsure +0 (1d3-2)}
@@ -25,8 +25,8 @@ LastModified: 2026-08-02 14:33
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 17, **Con** 11, **Int** 2, **Sag** 14, **Cha** 11}
 {s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 9}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Vol](./Vol.md) +11, [Discrétion](./Discrétion.md) +11, [Perception](./Perception.md) +6}
+{s:BDTexte|**Dons** [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Vol]] +11, [[Discrétion]] +11, [[Perception]] +6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Côtes tropicales et forêts}
 {s:BDTexte|**Organisation sociale** solitaire, paire, famille (3-8)}

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 15 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Marché noir](./Marché noir.md)</span>
+<span class="Catégorie">**Catégorie** [[Marché noir]]</span>
 ---
-Ce gel vert est versé dans l'oreille de l'utilisateur et prend effet 2 heures plus tard, améliorant les sens et la mémoire mais augmentant l'irritabilité. Pendant 6 heures, l'utilisateur bénéficie d'un bonus alchimique de +2 aux tests de [Perception](./Perception.md) et de [Connaissances](./Connaissances.md) et subit un malus de -2 à tous les tests basés sur le [Charisme](./Charisme.md).
+Ce gel vert est versé dans l'oreille de l'utilisateur et prend effet 2 heures plus tard, améliorant les sens et la mémoire mais augmentant l'irritabilité. Pendant 6 heures, l'utilisateur bénéficie d'un bonus alchimique de +2 aux tests de [[Perception]] et de [[Connaissances]] et subit un malus de -2 à tous les tests basés sur le [[Charisme]].

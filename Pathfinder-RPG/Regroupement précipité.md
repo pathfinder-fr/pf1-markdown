@@ -13,9 +13,9 @@ Categories:
 
 *Vous abandonnez toute notion d'espace personnel lorsque vous êtes en danger, vous précipitant vers vos alliés à la recherche du meilleur endroit d'où frapper vos adversaires*
 
-**Catégorie** [combat](./Dons.md#DONCOMBAT)
+**Catégorie** [[dons#DONCOMBAT|combat]]
 
-**Condition.** [Homme-rat](./Homme-rat (race).md), trait racial [regroupement](./Homme-rat (race).md#Traits_raciaux_standards_7)
+**Condition.** [[Homme-rat (race)|Homme-rat]], trait racial [[Homme-rat (race)#Traits_raciaux_standards_7|regroupement]]
 
 **Avantage.** Le personnage peut utiliser sa capacité raciale regroupement pour entrer dans le même espace que tout allié volontaire de sa taille ou d'une catégorie de taille supérieure, apportant les bénéfices du trait racial regroupement au personnage comme si son allié était lui aussi un homme-rat disposant de ce trait racial. Cet allié n'obtient aucun avantage en partageant son espace avec le personnage à moins qu'il ne dispose également du trait racial regroupement.
 

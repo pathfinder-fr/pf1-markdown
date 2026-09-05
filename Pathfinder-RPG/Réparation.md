@@ -19,18 +19,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 0, [Cham](./Chaman.md) 0, [Con](./Conjurateur.md) 0, [ConU](./conjurateur unchained.md) 0, [Dru](./Druide.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Occ](./Occultiste.md) 0, [Prê](./Prêtre.md) 0, [Psy](./Psychiste.md) 0, [Sor](./Sorcière.md) 0, [Spi](./Spirite.md) 0  
+**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 0, [[Chaman|Cham]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Druide|Dru]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Occultiste|Occ]] 0, [[Prêtre|Prê]] 0, [[Psychiste|Psy]] 0, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0  
 
 **Temps d'incantation** 10 minutes  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** 3 m  
 
 **Cible** 1 objet pesant jusqu’à 500 g/niveau  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
-Ce sort permet de réparer les dommages superficiels causés aux objets et leur rend 1d4 [points de vie](./points de vie.md). Dans le cas d’un objet [cassé](./Brisé.md), l’objet n’est plus affecté par cette condition néfaste si l’objet se retrouve à au moins 50% de ses [points de vie](./points de vie.md). Pour que ce sort fonctionne, le personnage doit disposer de tous les morceaux de l’objet. Le personnage peut utiliser ce sort pour réparer un objet magique cassé à condition que son [niveau de lanceur de sorts](./NLS.md) soit égal ou supérieur à celui de l’objet. Il peut aussi réparer un objet magique détruit (à 0 point de vie ou moins) mais le sort ne lui rend pas ses aptitudes magiques. Ce sort n’affecte pas les créatures (pas même les [créatures artificielles](./type Créature artificielle.md)). Ce sort n’a aucun effet sur les objets pervertis ou transmutés mais il peut réparer les dégâts qu’ils ont subis.
+Ce sort permet de réparer les dommages superficiels causés aux objets et leur rend 1d4 [[points de vie]]. Dans le cas d’un objet [[brisé|cassé]], l’objet n’est plus affecté par cette condition néfaste si l’objet se retrouve à au moins 50% de ses [[points de vie]]. Pour que ce sort fonctionne, le personnage doit disposer de tous les morceaux de l’objet. Le personnage peut utiliser ce sort pour réparer un objet magique cassé à condition que son [[NLS|niveau de lanceur de sorts]] soit égal ou supérieur à celui de l’objet. Il peut aussi réparer un objet magique détruit (à 0 point de vie ou moins) mais le sort ne lui rend pas ses aptitudes magiques. Ce sort n’affecte pas les créatures (pas même les [[type créature artificielle|créatures artificielles]]). Ce sort n’a aucun effet sur les objets pervertis ou transmutés mais il peut réparer les dégâts qu’ils ont subis.

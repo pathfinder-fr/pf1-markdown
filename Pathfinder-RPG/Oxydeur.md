@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.237}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** perception des métaux 27 m (18 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Aberration|Aberration]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** perception des métaux 27 m (18 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 13, pris au dépourvu 15 (Dex +3, naturelle +5)}
 {s:BDTexte|**pv** 27 (5d8+5)}
@@ -24,16 +24,16 @@ Categories:
 {s:BDTexte|**Corps à corps** morsure, +6 (1d3), antennes, +6 contact (corrosion)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 17, **Con** 13, **Int** 2, **Sag** 13, **Cha** 8}
-{s:BDTexte|**BBA** +3, **BMO** +3, **DMD** 16 (20 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (corrosion), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +8, [Perception](./Perception.md) +12}
+{s:BDTexte|**BBA** +3, **BMO** +3, **DMD** 16 (20 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Attaque spéciale renforcée]] (corrosion), [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Escalade]] +8, [[Perception]] +12}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou nid (3-10)}
 {s:BDTexte|**Trésor** fortuit (aucun trésor de métal)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Corrosion (Sur).** Les antennes des oxydeurs sont des attaques de contact principales qui corrodent et rouillent rapidement le métal qu'elles touchent. L'objet touché subit des dégâts s'élevant à 50% de son nombre maximal de point de vie et gagne l'état préjudiciable "[brisé](./Brisé.md)". Un second contact détruit l'objet. Les oxydeurs ne provoquent pas d'[attaque d'opportunité](./attaque dopportunité.md) lorsqu'ils tentent de toucher un objet avec leurs antennes. Celles-ci infligent 3d6+5 points de dégâts aux créatures constituées de métal. Les objets qui ne sont pas abandonnés, les objets magiques et les créatures métalliques peuvent effectuer un jet de [Réflexes](./Réflexes.md) de [DD](./DD.md) 15 pour annuler l'effet du contact. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Perception des métaux (Ext).** Ce pouvoir fonctionne comme la capacité d'[odorat](./odorat.md) mais possède une portée de 27 m (18 {s:c}) et ne peut être utilisée que pour détecter des objets métalliques (ou des créatures portant ou transportant des objets de métal).}
+{s:BDTexte|**Corrosion (Sur).** Les antennes des oxydeurs sont des attaques de contact principales qui corrodent et rouillent rapidement le métal qu'elles touchent. L'objet touché subit des dégâts s'élevant à 50% de son nombre maximal de point de vie et gagne l'état préjudiciable "[[brisé]]". Un second contact détruit l'objet. Les oxydeurs ne provoquent pas d'[[attaque dopportunité|attaque d'opportunité]] lorsqu'ils tentent de toucher un objet avec leurs antennes. Celles-ci infligent 3d6+5 points de dégâts aux créatures constituées de métal. Les objets qui ne sont pas abandonnés, les objets magiques et les créatures métalliques peuvent effectuer un jet de [[Réflexes]] de [[DD]] 15 pour annuler l'effet du contact. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|**Perception des métaux (Ext).** Ce pouvoir fonctionne comme la capacité d'[[odorat]] mais possède une portée de 27 m (18 {s:c}) et ne peut être utilisée que pour détecter des objets métalliques (ou des créatures portant ou transportant des objets de métal).}
 </div>
 </td><td><div>''Ce monstre insectoïde possède 4 pattes, 2 antennes en forme de plumes et
 une queue terminée par une protubérance en forme d’hélice.''

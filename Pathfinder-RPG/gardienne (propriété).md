@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Gardienne
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Gardienne](./Descriptions individuelles des propriétés spéciales des armes.md#Gardienne)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Gardienne]]

@@ -13,9 +13,9 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.276}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([reptilien](./sous-type reptilien.md)) de taille M, CM}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 27 m (18 {s:c}) ; [Perception](./Perception.md) +0}
-{s:BDTexte|**Aura** [puanteur](./Puanteur.md) (9 m (6 {s:c}), DD 13, 10 rounds)}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type reptilien|reptilien]]) de taille M, CM}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 27 m (18 {s:c}) ; [[Perception]] +0}
+{s:BDTexte|**Aura** [[puanteur]] (9 m (6 {s:c}), DD 13, 10 rounds)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 9, pris au dépourvu 15 (Dex -1, naturelle +6)}
 {s:BDTexte|**pv** 13 (2d8+4)}
@@ -27,12 +27,12 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 9, **Con** 14, **Int** 8, **Sag** 11, **Cha** 11}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 11}
-{s:BDTexte|**Dons** [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5 (+9 en zones rocheuses) ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 (+8 en zones rocheuses)}
+{s:BDTexte|**Dons** [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +5 (+9 en zones rocheuses) ; **Modificateurs raciaux** [[Discrétion]] +4 (+8 en zones rocheuses)}
 {s:BDTexte|**Langues** draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
-{s:BDTexte|**Organisation sociale** solitaire, couple, portée (3-6), escouade (7-12 plus 1 prêtre ou druide de niveau 3 et 1-2 [varans](./Varan.md)) ou groupe (20-80 plus 20% de non combattants, 1 capitaine de niveau 3 à 6, 1-3 druides ou prêtres de niveau 3 à 6 et 3-13 [varans](./Varan.md))}
+{s:BDTexte|**Organisation sociale** solitaire, couple, portée (3-6), escouade (7-12 plus 1 prêtre ou druide de niveau 3 et 1-2 [[varan|varans]]) ou groupe (20-80 plus 20% de non combattants, 1 capitaine de niveau 3 à 6, 1-3 druides ou prêtres de niveau 3 à 6 et 3-13 [[varan|varans]])}
 {s:BDTexte|**Trésor** équipement de PNJ (3 javelines, massue, autres trésors)}
 </div>
 
@@ -44,27 +44,27 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Troglodyte](./Troglodyte.md) || 1
+| [[Troglodyte]] || 1
 |-
-| [Rôdeur troglodyte](./Rôdeur troglodyte.md) || 2
+| [[Rôdeur troglodyte]] || 2
 |-
-| [Parle-bête troglodyte](./Parle-bête troglodyte.md) || 3
+| [[Parle-bête troglodyte]] || 3
 |-
-| [Prêtre troglodyte](./Prêtre troglodyte.md) || 3
+| [[Prêtre troglodyte]] || 3
 |-
-| [Ensorceleur troglodyte](./Ensorceleur troglodyte.md) || 4
+| [[Ensorceleur troglodyte]] || 4
 |-
-| [Cavalier des écailles troglodyte](./Cavalier des écailles troglodyte.md) || 6
+| [[Cavalier des écailles troglodyte]] || 6
 |-
-| [Slaugrak](./Slaugrak.md) || 6
+| [[Slaugrak]] || 6
 |-
-| [Champion troglodyte](./Champion troglodyte.md) || 7
+| [[Champion troglodyte]] || 7
 |-
-| [Chef de clan troglodyte](./Chef de clan troglodyte.md) || 8
+| [[Chef de clan troglodyte]] || 8
 |-
-| [Garde du terrier troglodyte](./Garde du terrier troglodyte.md) || 9
+| [[Garde du terrier troglodyte]] || 9
 |-
-| [Tyran troglodyte](./Tyran troglodyte.md) || 10
+| [[Tyran troglodyte]] || 10
 |}
 </div>''Cet humanoïde à la peau écailleuse gris clair ressemble à un lézard à
 longue queue. Une crête orne l’arrière de sa tête et son dos.''
@@ -137,13 +137,13 @@ La religion a une forte influence sur les troglodytes, dont les prêtres et les 
 Bien que la plupart des troglodytes correspondent aux créatures des cavernes présentées dans le Bestiaire, l’ancienne lignée des xulgaths a évolué au fil des millénaires, donnant le jour à plusieurs variantes qui se sont adaptées à différents climats et environnements.
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 - **Kaergath (FP 1/2).** Trapus, couverts de verrues et tous petits, ces troglodytes mesurent un peu moins d’un mètre vingt pour 90 kilos. Les kaergaths sont couverts d’écailles brun-rouge assez ternes et d’énormes dents carrées mais n’ont pas les griffes des autres troglodytes. Originaires des régions supérieures du monde souterrain, situées sous les déserts infinis et les badlands brûlés par le soleil, les kaergaths sont réputés pour leur capacité à creuser dans le sable, pour leur maniement expert de la javeline et pour leur préférence pour la chair des enfants humanoïdes.
-Les kaergaths sont des troglodytes avec l’archétype simple [jeune](./Archétypes.md#CREATUREJEUNE) et ils possèdent une vitesse de creusement dans le sable et dans la terre meuble (mais pas dans la pierre) à une vitesse de 6 mètres par [round](./round.md). Ils gagnent un bonus racial de +1 aux [jets d’attaque](./jet dattaque.md) avec leur javeline. Ils ont également une attaque de morsure qui inflige 1d8 points de dégâts mais ils n’ont pas d’attaque de griffe.
+Les kaergaths sont des troglodytes avec l’archétype simple [[Archétypes#CREATUREJEUNE|jeune]] et ils possèdent une vitesse de creusement dans le sable et dans la terre meuble (mais pas dans la pierre) à une vitesse de 6 mètres par [[round]]. Ils gagnent un bonus racial de +1 aux [[jet dattaque|jets d’attaque]] avec leur javeline. Ils ont également une attaque de morsure qui inflige 1d8 points de dégâts mais ils n’ont pas d’attaque de griffe.
 - **Troglodytes éclairés (FP 2).** Ces troglodytes vivent beaucoup plus loin dans les profondeurs que leurs frères. Moins bestiaux que les autres troglodytes mais tout aussi vils, ils se servent de leur intelligence pour asservir les races plus primitives. Ils sont devenus des experts du dressage de bêtes, qui leur servent de monture et de sentinelles.
-Un troglodyte éclairé a les valeurs de caractéristique suivantes : [For](./For.md) 14, [Dex](./Dex.md) 17, [Con](./Con.md) 16, [Int](./Int.md) 12, [Sag](./Sag.md) 13 et [Cha](./Cha.md) 13. Il possède généralement les compétences suivantes (sans compter les rangs gagnés grâce aux niveaux de classe) : [Discrétion](./Discrétion.md) +5 (+9 dans les régions rocailleuses), [Dressage](./Dressage.md) +6 et [Perception](./Perception.md) +3.
+Un troglodyte éclairé a les valeurs de caractéristique suivantes : [[For]] 14, [[Dex]] 17, [[Con]] 16, [[Int]] 12, [[Sag]] 13 et [[Cha]] 13. Il possède généralement les compétences suivantes (sans compter les rangs gagnés grâce aux niveaux de classe) : [[Discrétion]] +5 (+9 dans les régions rocailleuses), [[Dressage]] +6 et [[Perception]] +3.
 
 </div><div class="wiki-col wiki-col-6">
 - **Parangon troglodyte (FP 5).** Bien que la plupart des anciens xulgaths aient trouvé la mort quand leur grand empire s’est effondré, il y a bien longtemps, quelques puissants individus ont survécu. Ces anciens troglodytes se sont alors cachés dans les profondeurs du monde et, si nombre d’entre eux ont fini par mourir, ont fui sur d’autres plans ou se sont transformés en liches, quelques-uns se sont réfugiés en stase magique. Au fil de ces longs siècles, les parangons troglodytes ont ponctuellement émergé de leur profond sommeil. Si certains se sont lancés à la recherche des troglodytes modernes dans le but de les élever au-dessus de leur condition et de retrouver la gloire de leur civilisation perdue, la plupart d’entre eux méprisent leurs descendants dégénérés. Se distinguant des troglodytes communs par leurs yeux émeraude scintillants et leurs écailles aux reflets dorés, les parangons troglodytes vivent très longtemps, leur espérance de vie maximale avoisinant les 400 ans. Ce sont des créatures extrêmement paranoïaques et obsédées par leur survie. La plupart des parangons troglodytes possèdent des niveaux dans les classes de prêtre ou d’ensorceleur.
-Les parangons troglodytes sont des troglodytes de taille G avec 7 [dés de vie](./../Ressources/DV.md). Leur bonus d’armure naturelle est augmenté de 2, leurs attaques de griffe infligent 1d8 points de dégâts et leurs attaques de morsure infligent 1d6 points de dégâts. Les parangons troglodytes possèdent les valeurs de caractéristique suivantes plutôt que celles des troglodytes normaux : [For](./For.md) 22, [Dex](./Dex.md) 9, [Con](./Con.md) 16, [Int](./Int.md) 13, [Sag](./Sag.md) 10 et [Cha](./Cha.md) 15. Ils peuvent utiliser les pouvoirs magiques suivants : constant – *[vision magique](./Vision magique.md)* ; à volonté – *[communication avec les animaux](./Communication avec les animaux.md)* (dinosaures et reptiles uniquement), *[hypnose](./Hypnose.md)* ; 3/jour – *[charme-monstre](./Charme-monstre.md)*, *[frayeur](./Frayeur.md)*. Les parangons troglodytes qui possèdent au moins 14 dés de vie (en incluant leurs [DV](./../Ressources/DV.md) raciaux et ceux qui sont issus de leurs niveaux de classe) peuvent également utiliser *[domination universelle](./Domination universelle.md)* une fois par jour. Un parangon troglodyte possède généralement les compétences suivantes (sans compter les rangs gagnés grâce aux niveaux de classe) : [Discrétion](./Discrétion.md) +10 (+14 dans les régions rocailleuses), [Intimidation](./Intimidation.md) +9 et [Perception](./Perception.md) +7.
+Les parangons troglodytes sont des troglodytes de taille G avec 7 [[DV|dés de vie]]. Leur bonus d’armure naturelle est augmenté de 2, leurs attaques de griffe infligent 1d8 points de dégâts et leurs attaques de morsure infligent 1d6 points de dégâts. Les parangons troglodytes possèdent les valeurs de caractéristique suivantes plutôt que celles des troglodytes normaux : [[For]] 22, [[Dex]] 9, [[Con]] 16, [[Int]] 13, [[Sag]] 10 et [[Cha]] 15. Ils peuvent utiliser les pouvoirs magiques suivants : constant – *[[vision magique]]* ; à volonté – *[[communication avec les animaux]]* (dinosaures et reptiles uniquement), *[[hypnose]]* ; 3/jour – *[[charme-monstre]]*, *[[frayeur]]*. Les parangons troglodytes qui possèdent au moins 14 dés de vie (en incluant leurs [[DV]] raciaux et ceux qui sont issus de leurs niveaux de classe) peuvent également utiliser *[[domination universelle]]* une fois par jour. Un parangon troglodyte possède généralement les compétences suivantes (sans compter les rangs gagnés grâce aux niveaux de classe) : [[Discrétion]] +10 (+14 dans les régions rocailleuses), [[Intimidation]] +9 et [[Perception]] +7.
 
 </div></div>
 {s:CM}
@@ -152,14 +152,14 @@ Les règles suivantes incluent des variantes de troglodytes et des sorts créés
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Objets magiques
 Ces objets magiques sont spécifiques aux demi-elfes :
-- [Amulette de jet de puanteur](./Amulette de jet de puanteur.md)
-- [Grande hache des habitants des grottes](./Grande hache des habitants des grottes.md)
+- [[Amulette de jet de puanteur]]
+- [[Grande hache des habitants des grottes]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Sorts
 Les lanceurs de sorts troglodytes apprennent souvent les sorts suivants.
-- ***[Marque du dieu reptile](./Marque du dieu reptile.md)*** *(CM)* ([Apal 4](./Antipaladin.md), [Inq 4](./Inquisiteur.md), [Prê 4](./Prêtre.md)). Marque une créature avec une malédiction acide.
-- ***[Nuée de crocs](./Nuée de crocs.md)*** *(CM)* ([Con 3](./Conjurateur.md), [Dru 3](./Druide.md), [Ens](./Ensorceleur.md)/[Mag 3](./Magicien.md), [Psy 3](./Psychiste.md), [Sor 3](./Sorcière.md)). Appel une nuée de crocs animés volants.
-- ***[Puanteur amplifiée](./Puanteur amplifiée.md)*** *(CM)* ([Cham 2](./Chaman.md), [Dru 2](./Druide.md), [Ens](./Ensorceleur.md)/[Mag 2](./Magicien.md), [Prê 2](./Prêtre.md), [Psy 2](./Psychiste.md)). Améliore la capacité puanteur de la cible.
+- ***[[Marque du dieu reptile]]*** *(CM)* ([[Antipaladin|Apal 4]], [[Inquisiteur|Inq 4]], [[Prêtre|Prê 4]]). Marque une créature avec une malédiction acide.
+- ***[[Nuée de crocs]]*** *(CM)* ([[Conjurateur|Con 3]], [[Druide|Dru 3]], [[Ensorceleur|Ens]]/[[Magicien|Mag 3]], [[Psychiste|Psy 3]], [[Sorcière|Sor 3]]). Appel une nuée de crocs animés volants.
+- ***[[Puanteur amplifiée]]*** *(CM)* ([[Chaman|Cham 2]], [[Druide|Dru 2]], [[Ensorceleur|Ens]]/[[Magicien|Mag 2]], [[Prêtre|Prê 2]], [[Psychiste|Psy 2]]). Améliore la capacité puanteur de la cible.
 
 </div></div>

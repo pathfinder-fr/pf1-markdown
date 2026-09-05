@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 20 po ; **Poids** 5 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces espiègles mammifères aquatiques sont utilisés comme [familiers](./Familiers.md) ou dressés pour faire des tours comme animaux de compagnie. Les loutres sont étonnamment intelligentes et sont réputées pour se servir de pierres comme outils rudimentaires, par exemple pour ouvrir les coquilles de mollusques. Voir les statistiques de la [loutre](./Loutre.md).
+Ces espiègles mammifères aquatiques sont utilisés comme [[Familiers]] ou dressés pour faire des tours comme animaux de compagnie. Les loutres sont étonnamment intelligentes et sont réputées pour se servir de pierres comme outils rudimentaires, par exemple pour ouvrir les coquilles de mollusques. Voir les statistiques de la [[loutre]].

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 10 po ; **Poids** 10 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Cette poutre en bois ferrée accorde un bonus de circonstances de +2 aux tests de [Force](./Force.md) pour ouvrir une porte. Une deuxième personne peut apporter son aide, ce qui augmente automatiquement le bonus du personnage de +2.
+Cette poutre en bois ferrée accorde un bonus de circonstances de +2 aux tests de [[Force]] pour ouvrir une porte. Une deuxième personne peut apporter son aide, ce qui augmente automatiquement le bonus du personnage de +2.

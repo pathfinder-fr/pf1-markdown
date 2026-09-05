@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Protectrice
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Protectrice](./Descriptions individuelles des propriétés spéciales des armes.md#Protectrice)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Protectrice]]

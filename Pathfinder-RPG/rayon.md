@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#RAYON
 ---
 
->>> [Présentation des sorts#RAYON](./Présentation des sorts.md#RAYON)
+>>> [[Présentation des sorts#RAYON]]

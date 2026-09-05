@@ -11,16 +11,16 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Dru](./Druide.md) 1, [Rôd](./Rôdeur.md) 1  
+**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Druide|Dru]] 1, [[Rôdeur|Rôd]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** le lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)
+**Durée** 1 minute/[[niveau]]
 
-Le personnage prend l'aspect d'un faucon. Ses yeux s'élargissent et ressemblent à ceux d'un prédateur et des plumes lui poussent des deux côtés de la tête. Il gagne un bonus de compétence de +3 aux tests de [Perception](./Perception.md), un bonus de compétence de +1 aux attaques à distance et le multiplicateur de coup critique de son arc ou de son arbalète passe à 19-20/x3. Cet effet ne se cumule pas avec tout autre effet qui augmente la plage de critiques d'une arme comme le don [Science du critique](./Science du critique.md) ou une arme *[acérée](./acérée (propriété).md)*.
+Le personnage prend l'aspect d'un faucon. Ses yeux s'élargissent et ressemblent à ceux d'un prédateur et des plumes lui poussent des deux côtés de la tête. Il gagne un bonus de compétence de +3 aux tests de [[Perception]], un bonus de compétence de +1 aux attaques à distance et le multiplicateur de coup critique de son arc ou de son arbalète passe à 19-20/x3. Cet effet ne se cumule pas avec tout autre effet qui augmente la plage de critiques d'une arme comme le don [[Science du critique]] ou une arme *[[acérée (propriété)|acérée]]*.

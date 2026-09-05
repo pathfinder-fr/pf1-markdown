@@ -10,10 +10,10 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire 3* p.301
 
-Les [divs](./Div.md) sont des [extérieurs](./type Extérieur.md) [Neutres Mauvais](./NM.md) qui sèment le malheur et la ruine. Sauf précision contraire, ils ont les traits suivants :
-- [Immunité](./Immunité (capacité).md) contre le feu et le poison.
-- [Résistance](./Résistance (capacité).md) à l’acide 10 et à l’électricité 10.
-- **Convocation (Mag).** Certains divs sont capables de [convoquer](./Convocation (capacité).md) d’autres créatures de leur espèce. Chaque entrée de créature indique les chances de réussites et le type de divs invoqués.
-- [Télépathie](./Télépathie (capacité).md).
-- **Vision dans les ténèbres (Sur).** Certains divs voient parfaitement dans les ténèbres de tout genre, même celles créées par le sort *[ténèbres profondes](./Ténèbres profondes.md)*.
+Les [[Div|divs]] sont des [[type extérieur|extérieurs]] [[NM|Neutres Mauvais]] qui sèment le malheur et la ruine. Sauf précision contraire, ils ont les traits suivants :
+- [[Immunité (capacité)|Immunité]] contre le feu et le poison.
+- [[Résistance (capacité)|Résistance]] à l’acide 10 et à l’électricité 10.
+- **Convocation (Mag).** Certains divs sont capables de [[convocation (capacité)|convoquer]] d’autres créatures de leur espèce. Chaque entrée de créature indique les chances de réussites et le type de divs invoqués.
+- [[Télépathie (capacité)|Télépathie]].
+- **Vision dans les ténèbres (Sur).** Certains divs voient parfaitement dans les ténèbres de tout genre, même celles créées par le sort *[[ténèbres profondes]]*.
 - Sauf indication contraire, les divs parlent l’abyssal, le céleste, et l’infernal.

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 On obtient cette substance sucrée en extrayant et en drainant une partie de la sève des érables au début du printemps. La sève est ensuite mise à bouillir pour donner du sirop, bien qu’on la fasse parfois épaissir davantage pour ensuite la verser sur la neige et créer des bonbons semblables à des caramels et que l’on appelle des tires d’érable.

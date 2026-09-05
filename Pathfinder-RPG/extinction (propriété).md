@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Extinction
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Extinction](./Descriptions individuelles des propriétés spéciales des armes.md#Extinction)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Extinction]]

@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Malgré le fait que ces montagnes servent d’habitat pour un grand nombre de monstres, les abondantes ressources minières qui s’y trouvent attirent beaucoup de monde, notamment de [Korvosa](./Korvosa.md). On y trouve aussi bien des petits camps de mineurs, peuplés de défavorisés qui cherchent la fortune, que de grandes exploitations bien protégées appartenant à des associations minières.
+Malgré le fait que ces montagnes servent d’habitat pour un grand nombre de monstres, les abondantes ressources minières qui s’y trouvent attirent beaucoup de monde, notamment de [[Korvosa]]. On y trouve aussi bien des petits camps de mineurs, peuplés de défavorisés qui cherchent la fortune, que de grandes exploitations bien protégées appartenant à des associations minières.

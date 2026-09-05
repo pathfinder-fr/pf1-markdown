@@ -9,10 +9,10 @@ Categories:
 ---
 
 {s:UM}
-**École** [nécromancie](./Nécromancie.md)  ; **Niveau** [barde](./Barde.md) 3, [inquisiteur](./Inquisiteur.md) 3, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 3, [sorcière](./Sorcière.md) 3  
+**École** [[nécromancie]]  ; **Niveau** [[barde]] 3, [[inquisiteur]] 3, [[ensorceleur]]/[[magicien]] 3, [[sorcière]] 3  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Les cibles d’un sort incluant cet effet sont [nauséeuses](./Nauséeux.md) ; elles bénéficient d’un autre [jet de sauvegarde](./jet de sauvegarde.md) à la fin de leur tour pour mettre un terme à cet état préjudiciable.
+Les cibles d’un sort incluant cet effet sont [[nauséeux|nauséeuses]] ; elles bénéficient d’un autre [[jet de sauvegarde]] à la fin de leur tour pour mettre un terme à cet état préjudiciable.

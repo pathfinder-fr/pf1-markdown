@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 - *Source : Bestiaire 2, p.61*
 - **PX** 3 200
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md))  de taille G, LM
-- **Init** +9 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +18
+- [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]])  de taille G, LM
+- **Init** +9 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +18
 (((Défense)))
 - **CA** 21, contact 15, pris au dépourvu 15 (Dex +5, esquive +1, naturelle +6, taille –1)
 - **pv** 85 (9d10+36)
@@ -23,22 +23,22 @@ Categories:
 - **Capacités défensives** invisible sous la lumière ; **RD** 5/Bien ; **Résistances** feu 10 ; **RM** 18
 (((Attaque)))
 - **VD** 12 m (8 {s:c})
-- **Corps à corps** morsure, +13 (1d8+5) et 2 griffes, +13 (1d6+5/19–20 plus [étreinte](./Étreinte.md))
+- **Corps à corps** morsure, +13 (1d8+5) et 2 griffes, +13 (1d6+5/19–20 plus [[étreinte]])
 - **Espace** 3 m (2 {s:c}) ; Allonge 1,50 m (1 {s:c})
-- **Attaques spéciales** [bond](./Bond.md), [pattes arrière](./Pattes arrière.md) (2 griffes +13, 1d6+5/19–20)
+- **Attaques spéciales** [[bond]], [[pattes arrière]] (2 griffes +13, 1d6+5/19–20)
 (((Statistiques)))
 - **For** 21, **Dex** 21, **Con** 19, **Int** 10, **Sag** 14, **Cha** 10
-- **BBA** +9 ; **BMO** +15 (+19 lutte) ; **DMD** 31 (35 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Dons** [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [[Science de linitiative|Science de
-l’initiative]], [Souplesse du serpent](./Souplesse du serpent.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +17 (+21 pour sauter), [Discrétion](./Discrétion.md) +17, [Escalade](./Escalade.md) +17, [Natation](./Natation.md) +17, [Perception](./Perception.md) +18, [Survie](./Survie.md) +14 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md), +4 en [Perception](./Perception.md)
-- **Langues** infernal (incapable de parler) ; [télépathie](./Télépathie.md) 30 m (20 {s:c})
+- **BBA** +9 ; **BMO** +15 (+19 lutte) ; **DMD** 31 (35 contre [[croc-en-jambe]])
+- **Dons** [[Attaques réflexes]], [[Esquive]], [[Réflexes surhumains]], [[Science de linitiative|Science de
+l’initiative]], [[Souplesse du serpent]]
+- **Compétences** [[Acrobaties]] +17 (+21 pour sauter), [[Discrétion]] +17, [[Escalade]] +17, [[Natation]] +17, [[Perception]] +18, [[Survie]] +14 ; **Modificateurs raciaux** +4 en [[Discrétion]], +4 en [[Perception]]
+- **Langues** infernal (incapable de parler) ; [[télépathie]] 30 m (20 {s:c})
 (((Écologie)))
 - **Environnement** terre ferme (Enfer)
 - **Organisation sociale** solitaire, couple ou meute (3–8)
 - **Trésor** standard
 (((Pouvoirs spéciaux)))
-- **Invisible sous la lumière (Sur).** Un chat infernal jouit d’une [invisibilité](./États préjudiciables.md#Invisible) naturelle dans des conditions de lumière vive. Sous une lumière normale, il bénéficie d’un [camouflage partiel](./Modificateurs de combat.md#Camouflage_1) (20% de chances d’échec des attaques). Sous une lumière faible, il ne dispose d’aucun camouflage. Dans les ténèbres, il ne bénéficie que d’un [camouflage partiel](./Modificateurs de combat.md#Camouflage_1) à cause de la lueur vacillante qu’il émet (à moins qu’il ne s’agisse de ténèbres magiques).
+- **Invisible sous la lumière (Sur).** Un chat infernal jouit d’une [[États préjudiciables#Invisible|invisibilité]] naturelle dans des conditions de lumière vive. Sous une lumière normale, il bénéficie d’un [[Modificateurs de combat#Camouflage_1|camouflage partiel]] (20% de chances d’échec des attaques). Sous une lumière faible, il ne dispose d’aucun camouflage. Dans les ténèbres, il ne bénéficie que d’un [[Modificateurs de combat#Camouflage_1|camouflage partiel]] à cause de la lueur vacillante qu’il émet (à moins qu’il ne s’agisse de ténèbres magiques).
 
 </div>
 </td><td><div>*Cette créature angoissante ressemble à un gros squelette de félin animé avec de longs crocs et des os enflammés d’où s’échappe de la fumée.*

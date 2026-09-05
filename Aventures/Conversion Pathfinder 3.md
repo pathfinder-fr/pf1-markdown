@@ -6,7 +6,7 @@ Categories:
 - Conversion
 ---
 
-Vous trouverez ici la conversion des monstres et PNJ du volume 3 "Le massacre de la montagne crochue" de la campagne [L'Éveil des Seigneurs des Runes](./Aides de jeu AP1.md) au format Pathfinder. Par Styx31, Eretas et Anastos. Ces blocs descriptifs sont également repris dans le [Compagnon de route pour Pathfinder #3](./Aides de jeu AP1.md#COMPAGNON3).
+Vous trouverez ici la conversion des monstres et PNJ du volume 3 "Le massacre de la montagne crochue" de la campagne [[Aides de jeu AP1|L'Éveil des Seigneurs des Runes]] au format Pathfinder. Par Styx31, Eretas et Anastos. Ces blocs descriptifs sont également repris dans le [[Aides de jeu AP1#COMPAGNON3|Compagnon de route pour Pathfinder #3]].
 
 Certaines adaptations sont basées sur [le travail de The Grandfather](https://docs.google.com/Doc?docid=0AYk_NxwamGlyZGN6Nm5iNnJfMTBnNnNncXpnaA&hl=en) provenant [du sujet dédié à ce volume du forum Paizo](http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/runelords/theHookMountainMassacreGMReference&page=1).
 

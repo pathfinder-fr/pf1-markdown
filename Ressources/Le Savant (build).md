@@ -4,8 +4,8 @@ Title: Le Savant
 LastModified: 2016-12-24 10:29
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
-***Voir le [http://www.pathfinder-fr.org/Forum/yaf_postst12565_Le-Savant.aspx#post524089|sujet de discussion]***</div>
+<div class="fright">***Retour aux [[builds]].***</br>
+***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst12565_Le-Savant.aspx#post524089)***</div>
 
 <nav class="wiki-toc"></nav>
 
@@ -42,9 +42,9 @@ Le Savant est un elfe avec le trait racial alternatif "Envoyé".
 ##### 2.3 Exemple de répartition (20 points)
 
 Force : 10{br}
-Dextérité : 14 + 2 [race]){br}
-Constitution : 14 - 2 [race]{br}
-Intelligence : 16 + 2 [race]{br}
+Dextérité : 14 + 2 [[race]]){br}
+Constitution : 14 - 2 [[race]]{br}
+Intelligence : 16 + 2 [[race]]{br}
 Sagesse : 10{br}
 Charisme : 10{br}
 

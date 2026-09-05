@@ -9,8 +9,8 @@ Categories:
 
 {s:cm}*L’ogre excelle à la chasse aux humains quand il fait nuit noire, les assassinant dans le plus grand silence.*
 
-**Conditions.** [Ogre](./Ogre.md)
+**Conditions.** [[Ogre]]
 
-**Avantages.** [Talent](./Talent.md) (Discrétion), [vision dans le noir](./vision dans le noir (capacité).md), [ogre](./Ogre.md) ou [demi-ogre](./Ogrelin, archétype.md), taille G ou supérieure
+**Avantages.** [[Talent]] (Discrétion), [[vision dans le noir (capacité)|vision dans le noir]], [[ogre]] ou [[Ogrelin, archétype|demi-ogre]], taille G ou supérieure
 
-**Spécial.** Lorsqu’il est dans des zones de faible luminosité ou plongées dans les ténèbres naturelles, l’ogre ignore tous les malus de taille aux tests de [Discrétion](./Discrétion.md) et gagne un bonus de +2 aux [jets d’attaque](./jet dattaque.md) contre les ennemis [pris au dépourvu](./Pris au dépourvu.md).
+**Spécial.** Lorsqu’il est dans des zones de faible luminosité ou plongées dans les ténèbres naturelles, l’ogre ignore tous les malus de taille aux tests de [[Discrétion]] et gagne un bonus de +2 aux [[jet dattaque|jets d’attaque]] contre les ennemis [[pris au dépourvu]].

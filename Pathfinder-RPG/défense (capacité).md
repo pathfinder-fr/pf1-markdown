@@ -6,6 +6,6 @@ Categories:
 - Règle de monstres universelle
 ---
 
-Le monstre a 50% de chances de traiter les [coups critiques](./coup critique.md) et les [attaques sournoises](./attaque sournoise.md) comme des coups normaux, comme s’il portait une *armure de [défense intermédiaire](./défense intermédiaire (propriété).md)*.
+Le monstre a 50% de chances de traiter les [[coup critique|coups critiques]] et les [[attaque sournoise|attaques sournoises]] comme des coups normaux, comme s’il portait une *armure de [[défense intermédiaire (propriété)|défense intermédiaire]]*.
 
 *Format :* défense (50%). *Emplacement :* Capacités défensives.

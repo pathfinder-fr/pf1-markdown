@@ -7,9 +7,9 @@ LastModified: 2019-01-27 10:38
 {s:cs}
 *Votre répugnance des morts-vivants est si grande que votre essence même est un anathème pour de telles créatures.*
 
-**Avantage.** Toute créature qui absorbent votre vitalité au travers d'une capacité tel que [absorption de sang](./absorption de sang (capacité).md), [absorption d'énergie](./Absorption dénergie (capacité).md), [affaiblissement de caractéristique](./affaiblissement temporaire (capacité).md) ou un effet similaire doit immédiatement réussir un jet de Vigueur (DD = 10 + votre total de [DV](./../Ressources/DV.md) + votre Modificateur de Charisme) après que sa capacité vous a affectée. Si la créature échoue, elle est nauséeuse pendant un nombre de rounds égal à la moitié de votre total de DV (minimum 1)
+**Avantage.** Toute créature qui absorbent votre vitalité au travers d'une capacité tel que [[absorption de sang (capacité)|absorption de sang]], [[absorption dénergie (capacité)|absorption d'énergie]], [[affaiblissement temporaire (capacité)|affaiblissement de caractéristique]] ou un effet similaire doit immédiatement réussir un jet de Vigueur (DD = 10 + votre total de [[DV]] + votre Modificateur de Charisme) après que sa capacité vous a affectée. Si la créature échoue, elle est nauséeuse pendant un nombre de rounds égal à la moitié de votre total de DV (minimum 1)
 
-De plus , vous obtenez un bonus de +4 aux jets de sauvegarde contre les sorts comme *[possession](./Possession.md)*, *[possession spirituelle](./Possession spirituelle.md)* et les autres capacités qui sont utilisées pour prendre possession de votre corps, tel que les capacités *possession maléfique* du [fantôme](./Fantôme, archétype.md) et du [dibbouk](./Dibbouk.md). Cela ne s'applique pas aux effets qui affectent seulement l'esprit - seulement aux capacités qui nécessitent d'entrer dans votre corps et de le contrôler.
+De plus , vous obtenez un bonus de +4 aux jets de sauvegarde contre les sorts comme *[[possession]]*, *[[possession spirituelle]]* et les autres capacités qui sont utilisées pour prendre possession de votre corps, tel que les capacités *possession maléfique* du [[fantôme, archétype|fantôme]] et du [[dibbouk]]. Cela ne s'applique pas aux effets qui affectent seulement l'esprit - seulement aux capacités qui nécessitent d'entrer dans votre corps et de le contrôler.
 
 (((Soured soul
 

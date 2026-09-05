@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [fiche de créature](./Virebois.md) d'un virebois standard.***
+{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [[Virebois|fiche de créature]] d'un virebois standard.***
 
 Les virebois sont originaires d'une terre lointaine. Dans la mer Intérieure, ils représentent une curiosité ou des voyageurs confus sans concept de foyer.
 
@@ -23,13 +23,13 @@ La plupart des virebois sont des magiciens ou des roublards. Les quelques rares 
 {s:Reference|TRAITSSTANDARD}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Dextérité](./Dextérité.md), +2 [Intelligence](./Intelligence.md), -2 [Charisme](./Charisme.md).** Les virebois sont rapides et calculateurs. En tant que [Créatures artificielles](./type Créature artificielle.md), ils ne possèdent pas de valeur de [Constitution](./Constitution.md).
-- **Créature artificielle.** Les virebois ont le type [créatures artificielle](./type Créature artificielle.md).
-- **Taille P.** Les virebois sont des créatures de [taille P](./taille P.md) qui reçoivent un bonus de taille de +1 à la [CA](./CA.md), un bonus de taille de +1 à leurs [jets d'attaque](./jet dattaque.md), un malus de -1 au [BMO](./BMO.md) et au [DMD](./DMD.md), et un bonus de taille de +4 à leurs tests de [Discrétion](./Discrétion.md).
-- **Vitesse normale.** Les virebois ont une [vitesse de base](./VD.md) de 9 mètres.
-- **Vision dans le noir.** Les virebois [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
-- **Vision nocturne.** Les virebois [voient deux fois plus loin](./Vision nocturne (capacité).md) que les humains à faible luminosité.
-- **Langues.** Les virebois commencent le jeu en parlant le commun. Ceux qui possèdent une valeur d'[Intelligence](./Intelligence.md) élevée peuvent apprendre d'autres langues issues de la liste suivante : draconique, elfique, gnome, gobelin, nain et orque.
+- **+2 [[Dextérité]], +2 [[Intelligence]], -2 [[Charisme]].** Les virebois sont rapides et calculateurs. En tant que [[type Créature artificielle|Créatures artificielles]], ils ne possèdent pas de valeur de [[Constitution]].
+- **Créature artificielle.** Les virebois ont le type [[type Créature artificielle|créatures artificielle]].
+- **Taille P.** Les virebois sont des créatures de [[taille P]] qui reçoivent un bonus de taille de +1 à la [[CA]], un bonus de taille de +1 à leurs [[jet dattaque|jets d'attaque]], un malus de -1 au [[BMO]] et au [[DMD]], et un bonus de taille de +4 à leurs tests de [[Discrétion]].
+- **Vitesse normale.** Les virebois ont une [[VD|vitesse de base]] de 9 mètres.
+- **Vision dans le noir.** Les virebois [[Vision dans le noir (capacité)|voient dans le noir]] à 18 mètres.
+- **Vision nocturne.** Les virebois [[Vision nocturne (capacité)|voient deux fois plus loin]] que les humains à faible luminosité.
+- **Langues.** Les virebois commencent le jeu en parlant le commun. Ceux qui possèdent une valeur d'[[Intelligence]] élevée peuvent apprendre d'autres langues issues de la liste suivante : draconique, elfique, gnome, gobelin, nain et orque.
 
 </div>
 
@@ -38,4 +38,4 @@ La plupart des virebois sont des magiciens ou des roublards. Les quelques rares 
 Il est possible de choisir les traits raciaux suivants à la place des traits raciaux existants des virebois. Consultez votre MJ avant de prendre ces options.
 
 <u>*Remplace « vision dans le noir » :*</u>
-- **Magie de réparation.** Certains virebois ont développé une magie qui leur permet d'être plus auto-suffisant. Ils peuvent utiliser *[réparation intégrale](./Réparation intégrale.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) une fois par jour. Ce trait racial remplace vision dans le noir.
+- **Magie de réparation.** Certains virebois ont développé une magie qui leur permet d'être plus auto-suffisant. Ils peuvent utiliser *[[réparation intégrale]]* comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] une fois par jour. Ce trait racial remplace vision dans le noir.

@@ -5,4 +5,4 @@ LastModified: 2016-07-24 22:01
 RedirectTo: Enquêteur#RESERVEDINSPIRATION
 ---
 
->>> [Enquêteur#RESERVEDINSPIRATION](./Enquêteur.md#RESERVEDINSPIRATION)
+>>> [[Enquêteur#RESERVEDINSPIRATION]]

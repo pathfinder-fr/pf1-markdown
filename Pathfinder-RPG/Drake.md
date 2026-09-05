@@ -15,32 +15,32 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Drake de lave](./Drake de lave.md) || 9
+| [[Drake de lave]] || 9
 |-
-| [Drake de l'éther](./Drake de léther.md) || 10
+| [[Drake de léther|Drake de l'éther]] || 10
 |-
-| [Drake de brume](./Drake de brume.md) || 5
+| [[Drake de brume]] || 5
 |-
-| [Drake des crevasses](./Drake des crevasses.md) || 9
+| [[Drake des crevasses]] || 9
 |-
-| [Drake des flammes](./Drake des flammes.md) || 5
+| [[Drake des flammes]] || 5
 |-
-| [Drake des forêts](./Drake des forêts.md) || 4
+| [[Drake des forêts]] || 4
 |-
-| [Drake des jungles](./Drake des jungles.md) || 6
+| [[Drake des jungles]] || 6
 |-
-| [Drake des mers](./Drake des mers.md) || 6
+| [[Drake des mers]] || 6
 |-
-| [Drake des rivières](./Drake des rivières.md) || 3
+| [[Drake des rivières]] || 3
 |-
-| [Drake des tertres](./Drake des tertres.md) || 7
+| [[Drake des tertres]] || 7
 |-
-| [Drake d'ombre](./Drake dombre.md) || 2
+| [[Drake dombre|Drake d'ombre]] || 2
 |-
-| [Drake du désert](./Drake du désert.md) || 8
+| [[Drake du désert]] || 8
 |-
-| [Drake du froid](./Drake du froid.md) || 7
+| [[Drake du froid]] || 7
 |}
 </div></div><div class="description">**Source :** Bestiaire 2, p.115</div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons](./dragon.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dragon|dragons]].***</li></ul>
 Les drakes sont des cousins dégénérés des dragons véritables.

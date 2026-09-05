@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#TOTEMDUCHAOSMAJEUR
 ---
 
->>> [pouvoirs de rage#TOTEMDUCHAOSMAJEUR](./Pouvoirs de rage.md#TOTEMDUCHAOSMAJEUR)
+>>> [[pouvoirs de rage#TOTEMDUCHAOSMAJEUR]]

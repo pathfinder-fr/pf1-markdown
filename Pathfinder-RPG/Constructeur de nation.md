@@ -11,12 +11,12 @@ Categories:
 
 {s:GC}*La terre vous appelle : vous devez la conquérir et forger votre propre royaume.*
 
-**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+**Catégorie.** [[Dons#DONHISTOIRE|histoire]]
 
 **Conditions.** Vous devez explorer et conquérir une zone d’au moins 260 kilomètres carrés.
 
-**Avantages.** Quand vous êtes dans une nature sauvage qui n’appartient à personne ou dans votre propre royaume, vous gagnez un bonus de +2 aux tests de [Perception](./Perception.md), [Discrétion](./Discrétion.md) et [Survie](./Survie.md). Si vous avez investi au moins dix rangs dans l’une ou l’autres de ces compétences, le bonus passe à +4.
+**Avantages.** Quand vous êtes dans une nature sauvage qui n’appartient à personne ou dans votre propre royaume, vous gagnez un bonus de +2 aux tests de [[Perception]], [[Discrétion]] et [[Survie]]. Si vous avez investi au moins dix rangs dans l’une ou l’autres de ces compétences, le bonus passe à +4.
 
 **Objectif.** Explorer et conquérir une région d’au moins 2 600 kilomètres carrés alors que vous vous efforcez d’infliger une défaite décisive à un adversaire de valeur. Vous devez aussi revendiquer ces terres en votre nom ou en celui d’un dirigeant qui vous a placé sous ses ordres directs. Vous devez ensuite construire une forteresse ou un édifice similaire pour les défendre.
 
-**Avantage de réussite.** Vous gagnez un bonus de +2 aux tests d’[initiative](./initiative.md), aux [jets d’attaque](./jet dattaque.md) et [de sauvegarde](./JDS.md) tant que vous êtes dans la région que vous avez conquise.
+**Avantage de réussite.** Vous gagnez un bonus de +2 aux tests d’[[initiative]], aux [[jet dattaque|jets d’attaque]] et [[jds|de sauvegarde]] tant que vous êtes dans la région que vous avez conquise.

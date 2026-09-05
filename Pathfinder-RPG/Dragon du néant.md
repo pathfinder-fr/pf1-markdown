@@ -9,7 +9,7 @@ LastModified: 2021-07-14 09:58
 {s:BDTitre|Dragon sidéral du néant}
 {s:pucem|Dragon|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 70*}
-{s:BDTexte|[Dragon](./type Dragon.md), NM}
+{s:BDTexte|[[type dragon|Dragon]], NM}
 {s:BDSousTitre|Statistiques de base}
 {s:BDTexte|**FP** 5 ; Taille P ; **DV **6d12}
 {s:BDTexte|**VD **12 m}
@@ -32,13 +32,13 @@ LastModified: 2021-07-14 09:58
 |- CLASS="titre"
 | Nom || &nbsp; || FP
 |- CLASS="premier"
-| [Jeune dragon du néant](./Jeune dragon du néant.md) || &nbsp; || 9
+| [[Jeune dragon du néant]] || &nbsp; || 9
 |-
-| [Dragon du néant adulte](./Dragon du néant adulte.md) || &nbsp; || 13
+| [[Dragon du néant adulte]] || &nbsp; || 13
 |-
-| [Dragon du néant vénérable](./Dragon du néant vénérable.md) || &nbsp; || 18
+| [[Dragon du néant vénérable]] || &nbsp; || 18
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons sidéraux](./Dragon sidéral.md).***</li></ul>*Les cornes et les écailles d’ébène de ce dragon sont mouchetées d’une substance luisant d’une étrange lumière verte. Un ciel nocturne semble se ref léter dans les plis de ses ailes.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Les cornes et les écailles d’ébène de ce dragon sont mouchetées d’une substance luisant d’une étrange lumière verte. Un ciel nocturne semble se ref léter dans les plis de ses ailes.*
 
 Les dragons du néant ont été corrompus par les terrifiantes entités vivant dans les profondeurs de l’espace. Certains continuent à lutter contre une inéluctable vague d’annihilation mais la majorité ont embrassé le néant et n’existent plus que pour se nourrir et détruire.
 

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#MARQUEPROMETTEUSE
 ---
 
->>> [Pouvoirs de rage#MARQUEPROMETTEUSE](./Pouvoirs de rage.md#MARQUEPROMETTEUSE)
+>>> [[Pouvoirs de rage#MARQUEPROMETTEUSE]]

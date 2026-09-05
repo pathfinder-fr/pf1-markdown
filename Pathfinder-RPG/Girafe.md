@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 p.12*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille TG, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 10, pris au dépourvu 14 (Dex +2, naturelle +6, taille -2)}
 {s:BDTexte|**pv** 30 (4d8+12)}
@@ -26,9 +26,9 @@ Categories:
 {s:BDTexte|**Espace** 4,5 m (3 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 15, **Con** 16, **Int** 2, **Sag** 13, **Cha** 7}
-{s:BDTexte|**BBA** +3, **BMO** +10, **DMD** 22 (26 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./Course.md), [Endurance](./Endurance.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +8}
+{s:BDTexte|**BBA** +3, **BMO** +10, **DMD** 22 (26 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]], [[Endurance]]}
+{s:BDTexte|**Compétences** [[Perception]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou troupeau (3-10)}
@@ -42,23 +42,23 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Antilope](./Antilope.md) || 1/2
+| [[Antilope]] || 1/2
 |-
-| [Auroch](./Auroch.md) || 2
+| [[Auroch]] || 2
 |-
-| [Bélier](./Bélier.md) || 1
+| [[Bélier]] || 1
 |-
-| [Bison](./Bison.md) || 4
+| [[Bison]] || 4
 |-
-| [Cerf](./Cerf.md) || 1
+| [[Cerf]] || 1
 |-
-| [Dromadaire](./Dromadaire.md) || 1
+| [[Dromadaire]] || 1
 |-
-| [Élan](./Élan.md) || 1
+| [[Élan]] || 1
 |-
-| [Élan des rivières](./Élan des rivières.md) || 2
+| [[Élan des rivières]] || 2
 |-
-| [Girafe](./Girafe.md) || 3
+| [[Girafe]] || 3
 |}
 </div>''Cet animal au pelage tacheté est affublé d’un cou excessivement long
 qui lui permet de dominer tous les autres animaux.''
@@ -87,7 +87,7 @@ pèse 1,75 tonne.
 
 #### La girafe comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** 2 sabots (1d6) ; **Caractéristiques** For 16, Dex 17, Con 12, Int 2, Sag 13, Cha 7 ; **Particularités** [armes naturelles](./armes naturelles.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** 2 sabots (1d6) ; **Caractéristiques** For 16, Dex 17, Con 12, Int 2, Sag 13, Cha 7 ; **Particularités** [[armes naturelles]], [[vision nocturne]].
 
 **Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** 2 sabots (1d8) et
 coup (1d8) ; **Caractéristiques** For +4, Dex -2, Con +4.

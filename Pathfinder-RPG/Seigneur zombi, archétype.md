@@ -29,7 +29,7 @@ LastModified: 2017-05-04 14:36
 </td><td><div>
 Les seigneurs zombis sont les équivalents charnus des champions squelettes. Ils sont intelligents, rusés et jaloux des créatures aux corps sains. Malgré leurs chairs en putréfaction, ils ne sont pas aussi lents que des zombis ordinaires et peuvent aisément poursuivre toute proie en fuite. Les seigneurs zombis sont plus puissants que les zombis ordinaires et conservent leurs niveaux de classe.
 
-Voir aussi l'exemple : [seigneur zombi](./seigneur zombi.md)
+Voir aussi l'exemple : [[seigneur zombi]]
 
 
 </div></td></tr></table>

@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Le village de Vische est situé dans le comté de [Barstoi](./Barstoi.md) en [Ustalav](./Ustalav.md), à proximité de la frontière avec la [Numérie](./Numérie.md).
+Le village de Vische est situé dans le comté de [[Barstoi]] en [[Ustalav]], à proximité de la frontière avec la [[Numérie]].

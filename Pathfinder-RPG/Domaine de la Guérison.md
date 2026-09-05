@@ -11,21 +11,21 @@ Categories:
 ### Pouvoirs accordés
 Le personnage peut repousser la douleur et la mort d’un simple toucher. Il accorde une grande importance aux sorts de soins, qu’il utilise d’ailleurs avec une grande efficacité.
 
-**Repousser la mort (Mag).** Par une [action simple](./Action simple.md), le personnage peut toucher une créature vivante et soigner 1d4 points de dégâts + 1 point par tranche de deux niveaux de [prêtre](./Prêtre.md). Seules les créatures qui ont moins de 0 point de vie peuvent être affectées. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+**Repousser la mort (Mag).** Par une [[action simple]], le personnage peut toucher une créature vivante et soigner 1d4 points de dégâts + 1 point par tranche de deux niveaux de [[prêtre]]. Seules les créatures qui ont moins de 0 point de vie peuvent être affectées. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [[Sagesse]].
 
-**Bénédiction du guérisseur (Sur).** Au niveau 6, tous les sorts de soin lancés par le personnage agissent comme s’ils étaient affectés par le don [Extension d’effet](./Extension deffet.md) (le nombre de points soignés est augmenté de 50%). Cet avantage ne s’applique pas lorsque le sort est utilisé pour blesser un [mort-vivant](./type Mort-vivant.md) et ne peut être cumulé avec les effets du don [Extension d’effet](./Extension deffet.md).
+**Bénédiction du guérisseur (Sur).** Au niveau 6, tous les sorts de soin lancés par le personnage agissent comme s’ils étaient affectés par le don [[Extension deffet|Extension d’effet]] (le nombre de points soignés est augmenté de 50%). Cet avantage ne s’applique pas lorsque le sort est utilisé pour blesser un [[type mort-vivant|mort-vivant]] et ne peut être cumulé avec les effets du don [[Extension deffet|Extension d’effet]].
 
 ### Sous-domaines associés
 <table width="100%"><tr><td width="49%">
 <div class="presentation arrondi">{s:APG}
 ### Sous-domaine de la Restauration
-**Toucher de restauration (Sur).** *(remplace repousser la mort)* Le personnage peut toucher une créature et permettre au pouvoir de guérison de la divinité de passer à travers lui pour la soulager. Il peut ainsi choisir de supprimer l’un des [états préjudiciables](./États préjudiciables.md) suivants : [hébété](./Hébété.md), [fatigué](./Fatigué.md), [secoué](./Secoué.md), [fiévreux](./Fiévreux.md) ou [chancelant](./Chancelant.md). Le [prêtre](./Prêtre.md) peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+**Toucher de restauration (Sur).** *(remplace repousser la mort)* Le personnage peut toucher une créature et permettre au pouvoir de guérison de la divinité de passer à travers lui pour la soulager. Il peut ainsi choisir de supprimer l’un des [[états préjudiciables]] suivants : [[hébété]], [[fatigué]], [[secoué]], [[fiévreux]] ou [[chancelant]]. Le [[prêtre]] peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [[Sagesse]].
 </div>
 </td><td width="2%">
 </td><td width="49%">
 <div class="presentation arrondi">{s:APG}
 ### Sous-domaine de la Résurrection
-**Don de vie (Sur).** *(remplace bénédiction du guérisseur)* Au niveau 8, le personnage peut toucher une créature morte dans la minute précédente et la ramener à la vie pendant un nombre de [rounds](./round.md) égal à son niveau de [prêtre](./Prêtre.md). Elle possède un nombre de [points de vie](./points de vie.md) égal à la moitié du niveau du [prêtre](./Prêtre.md), peut agir librement (il n’a aucun contrôle sur elle) et continue d’être sous l’effet des sorts toujours actifs, des [états préjudiciables](./États préjudiciables.md) et des [maladies](./Maladies.md) présentes au moment de sa mort. À la fin de la durée du pouvoir, elle meurt. Le [prêtre](./Prêtre.md) peut utiliser cette capacité une fois par jour au niveau 8 et une fois de plus par jour par tranche de quatre niveaux au-delà du niveau 8.
+**Don de vie (Sur).** *(remplace bénédiction du guérisseur)* Au niveau 8, le personnage peut toucher une créature morte dans la minute précédente et la ramener à la vie pendant un nombre de [[round|rounds]] égal à son niveau de [[prêtre]]. Elle possède un nombre de [[points de vie]] égal à la moitié du niveau du [[prêtre]], peut agir librement (il n’a aucun contrôle sur elle) et continue d’être sous l’effet des sorts toujours actifs, des [[états préjudiciables]] et des [[maladies]] présentes au moment de sa mort. À la fin de la durée du pouvoir, elle meurt. Le [[prêtre]] peut utiliser cette capacité une fois par jour au niveau 8 et une fois de plus par jour par tranche de quatre niveaux au-delà du niveau 8.
 </div>
 </td></tr></table>
 
@@ -36,21 +36,21 @@ Le personnage peut repousser la douleur et la mort d’un simple toucher. Il acc
 | WIDTH="26%" | Domaine de la Guérison
 | Sous-domaine de la Restauration || Sous-domaine de la Résurrection
 |- CLASS="premier"
-| 1er || *[soins légers](./Soins légers.md)* || *idem* || *idem*
+| 1er || *[[soins légers]]* || *idem* || *idem*
 |-
-| 2e || *[soins modérés](./Soins modérés.md)* || *[guérison des maladies](./Guérison des maladies.md)* || *idem*
+| 2e || *[[soins modérés]]* || *[[guérison des maladies]]* || *idem*
 |-
-| 3e || *[soins importants](./Soins importants.md)* || *idem* || *idem*
+| 3e || *[[soins importants]]* || *idem* || *idem*
 |-
-| 4e || *[soins intensifs](./Soins intensifs.md)* || *[neutralisation du poison](./Neutralisation du poison.md)* || *idem*
+| 4e || *[[soins intensifs]]* || *[[neutralisation du poison]]* || *idem*
 |-
-| 5e || *[souffle de vie](./Souffle de vie.md)* || *[annulation d'enchantement](./Annulation denchantement.md)* || *[rappel à la vie](./Rappel à la vie.md)*
+| 5e || *[[souffle de vie]]* || *[[annulation denchantement|annulation d'enchantement]]* || *[[rappel à la vie]]*
 |-
-| 6e || *[guérison suprême](./Guérison suprême.md)* || *idem* || *idem*
+| 6e || *[[guérison suprême]]* || *idem* || *idem*
 |-
-| 7e || *[régénération](./Régénération.md)* || *idem* || *[résurrection](./Résurrection.md)*
+| 7e || *[[régénération]]* || *idem* || *[[résurrection]]*
 |-
-| 8e || *[soins intensifs de groupe](./Soins intensifs de groupe.md)* || *idem* || *idem*
+| 8e || *[[soins intensifs de groupe]]* || *idem* || *idem*
 |-
-| 9e || *[guérison suprême de groupe](./Guérison suprême de groupe.md)* || *idem* || *[résurrection suprême](./Résurrection suprême.md)*
+| 9e || *[[guérison suprême de groupe]]* || *idem* || *[[résurrection suprême]]*
 |}

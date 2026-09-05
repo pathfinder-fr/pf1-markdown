@@ -13,17 +13,17 @@ Categories:
 - Src Magic Tactics Toolbox
 ---
 
-{s:cs}{s:MTT}**École** [Invocation](./Invocation.md) ([appel](./appel.md)) ; **Niveau**  [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 4, [Cham](./Chaman.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 3
+{s:cs}{s:MTT}**École** [[Invocation]] ([[appel]]) ; **Niveau**  [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Chaman|Cham]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 3
 **Temps d'incantation** 10 minutes
-**Composantes** [V, S](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**Composantes** [[composantes|V, S]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cibles** Créature touchée
 **Durée** Instantanée
-**Jet de sauvegarde** [Volonté], [annule](./Présentation des sorts.md#JETSDESAUVEGARDE); **Résistance à la magie** oui et non (voir texte)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]]; **Résistance à la magie** oui et non (voir texte)
 
-Cette variante du [Contrat intermédiaire](./Contrat intermédiaire.md) est spécifiquement utilisée pour appeler l'un des types d'extérieur les plus compétents : les [Caulbornes](./Caulborne.md) immortels et prophétiques. Ce sort appelle un seul [Caulborne](./Caulborne.md) dans un piège spécialement préparé. Le lanceur de ce sort ne peut contraindre un [Caulborne](./Caulborne.md) lié qu'à fournir des informations (en utilisant ses compétences de [Connaissances](./Connaissances.md) ou de [détection des pensées](./détection des pensées.md)) ; les tentatives pour contraindre le [Caulborne](./Caulborne.md) à se battre, à garder un lieu ou à accomplir une autre tâche échouent automatiquement.
+Cette variante du [[Contrat intermédiaire]] est spécifiquement utilisée pour appeler l'un des types d'extérieur les plus compétents : les [[Caulborne|Caulbornes]] immortels et prophétiques. Ce sort appelle un seul [[Caulborne]] dans un piège spécialement préparé. Le lanceur de ce sort ne peut contraindre un [[Caulborne]] lié qu'à fournir des informations (en utilisant ses compétences de [[Connaissances]] ou de [[détection des pensées]]) ; les tentatives pour contraindre le [[Caulborne]] à se battre, à garder un lieu ou à accomplir une autre tâche échouent automatiquement.
 
-Ce sort fonctionne par ailleurs comme le [Contrat intermédiaire](./Contrat intermédiaire.md). Les cadeaux les plus efficaces pour un [Caulborne](./Caulborne.md) sont des livres uniques ou des créatures intelligentes dont les pensées peuvent nourrir le [Caulborne](./Caulborne.md). Les véritables noms des [Caulbornes](./Caulborne.md) sont pratiquement impossibles à découvrir, car ils ne sont pas individualistes par nature, mais certaines communautés d'érudits reclus dans le [Kaer Maga](./../Golarion/Kaer Maga.md) peuvent connaître des titres par lesquels des [Caulbornes](./Caulborne.md) spécifiques peuvent être appelés.
+Ce sort fonctionne par ailleurs comme le [[Contrat intermédiaire]]. Les cadeaux les plus efficaces pour un [[Caulborne]] sont des livres uniques ou des créatures intelligentes dont les pensées peuvent nourrir le [[Caulborne]]. Les véritables noms des [[Caulborne|Caulbornes]] sont pratiquement impossibles à découvrir, car ils ne sont pas individualistes par nature, mais certaines communautés d'érudits reclus dans le [[Golarion.Kaer Maga|Kaer Maga]] peuvent connaître des titres par lesquels des [[Caulborne|Caulbornes]] spécifiques peuvent être appelés.
 
 (((Bind Sage
 Source Magic Tactics Toolbox pg. 17

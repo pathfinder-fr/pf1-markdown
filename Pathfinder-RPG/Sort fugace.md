@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Vos sorts disparaissent à une vitesse inhabituelle.*
 
-**Catégorie :** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie :** [[Dons#DONMETAMAGIE|métamagie]]
 
-**Avantages.** La durée d'un sort fugace devient [terminée](./Présentation des sorts.md#DUREE), si elle ne l'était pas déjà. Le personnage peut dissiper ses sorts fugaces par une [action rapide](./Action rapide.md). Lorsqu'il dissipe un sort fugace, son aura persistante ne peut pas être détectée par magie sauf si le lanceur réussit un test de [niveau de lanceur de sorts](./NLS.md) contre un [DD](./DD.md) égal à 11 + le niveau de lanceur de sorts du personnage. Le DD des tests de dissipation visant à contrer un sort fugace est réduit de 2, et une fois qu'il est actif, *[dissipation de la magie](./Dissipation de la magie.md)* supprime un sort fugace sans nécessiter de test. Un sort fugace ne dure que la moitié du temps habituel, et les sorts instantanés ou permanents ne peuvent pas être des sorts fugaces. Un sort fugace n'utilise pas un emplacement de sort d'un niveau plus élevé que le niveau original du sort.
+**Avantages.** La durée d'un sort fugace devient [[Présentation des sorts#DUREE|terminée]], si elle ne l'était pas déjà. Le personnage peut dissiper ses sorts fugaces par une [[action rapide]]. Lorsqu'il dissipe un sort fugace, son aura persistante ne peut pas être détectée par magie sauf si le lanceur réussit un test de [[NLS|niveau de lanceur de sorts]] contre un [[DD]] égal à 11 + le niveau de lanceur de sorts du personnage. Le DD des tests de dissipation visant à contrer un sort fugace est réduit de 2, et une fois qu'il est actif, *[[dissipation de la magie]]* supprime un sort fugace sans nécessiter de test. Un sort fugace ne dure que la moitié du temps habituel, et les sorts instantanés ou permanents ne peuvent pas être des sorts fugaces. Un sort fugace n'utilise pas un emplacement de sort d'un niveau plus élevé que le niveau original du sort.
 
-**Normal.** Il faut une [action simple](./Action simple.md) pour dissiper un sort terminé, et seuls les sorts dont la ligne Durée est marquée d'un (T) peuvent être dissipés de cette façon.
+**Normal.** Il faut une [[action simple]] pour dissiper un sort terminé, et seuls les sorts dont la ligne Durée est marquée d'un (T) peuvent être dissipés de cette façon.

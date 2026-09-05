@@ -15,15 +15,15 @@ plus importants des Mondes du Pacte mais ce ne sont que quelques-unes des
 nombreuses factions de ce système.''
 
 ### Les principales factions
-- [AbadarCorp](./AbadarCorp.md)  
-- [Capitaines libres](./CAPITAINES LIBRES.md) 
-- [Chevalier de Golarion](./Chevalier de Golarion.md) 
-- [Chevalier Infernaux](./Chevalier Infernaux.md) 
-- [Évolués](./Évolués.md)
-- [Front de libération des androïdes](./Front De Libération Des Androïdes.md)
-- [Intendants](./Intendants.md)
-- [Société des Explorateurs d’étoiles](./Société Des Explorateurs D’étoiles.md)
-- [Xéno-Protecteurs](./Xéno-Protecteurs.md)
+- [[AbadarCorp]]  
+- [[Capitaines libres]] 
+- [[Chevalier de Golarion]] 
+- [[Chevalier Infernaux]] 
+- [[Évolués]]
+- [[Front De Libération Des Androïdes]]
+- [[Intendants]]
+- [[Société Des Explorateurs D’étoiles]]
+- [[Xéno-Protecteurs]]
 
 ### Quelques autres factions
 En plus des organisations un peu plus détaillées,

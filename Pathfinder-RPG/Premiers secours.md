@@ -8,7 +8,7 @@ Categories:
 
 {s:MenuCompétences}
 
-**Caractéristique associée** : [Sagesse](./Sagesse.md)
+**Caractéristique associée** : [[Sagesse]]
 
 **Formation nécessaire** : non
 
@@ -16,7 +16,7 @@ Categories:
 
 ### Test de compétence
 
-Le [DD](./DD.md) et les effets du test de Premiers secours dépendent de la tâche que le personnage tente d’accomplir.
+Le [[DD]] et les effets du test de Premiers secours dépendent de la tâche que le personnage tente d’accomplir.
 
 <center>
 {| CLASS="tablo"
@@ -31,39 +31,39 @@ Le [DD](./DD.md) et les effets du test de Premiers secours dépendent de la tâc
 | Soins suivis
 | 15
 |-
-| Soigner une blessure de [chausse-trappes](./Chausse-trappes (objet).md) de *[croissance d'épines](./Croissance dépines.md)* ou de *[pierres acérées](./Pierres acérées.md)*
+| Soigner une blessure de [[Chausse-trappes (objet)|chausse-trappes]] de *[[croissance dépines|croissance d'épines]]* ou de *[[pierres acérées]]*
 |  15
 |- CLASS="alt"
 | Soigner des blessures mortelles
 | 20
 |-
 | Soigner un empoisonnement
-| DD du [jet de sauvegarde](./jet de sauvegarde.md) contre le [poison](./poison.md)
+| DD du [[jet de sauvegarde]] contre le [[poison]]
 |- CLASS="alt"
-| Soigner une [maladie](./maladie.md)
-| DD du [jet de sauvegarde](./jet de sauvegarde.md) contre la [maladie](./maladie.md)
+| Soigner une [[maladie]]
+| DD du [[jet de sauvegarde]] contre la [[maladie]]
 |}
 </center>
 
-**Premiers secours.** Ce terme, qui donne son nom à la compétence, signifie généralement que le personnage intervient rapidement afin de sauver un compagnon mourant. Lorsque quelqu’un est tombé en dessous de 0 point de vie et perd 1 point de vie (par round, par heure ou par jour), le personnage peut stabiliser l’état de celui-ci. Une fois stabilisé, le blessé ne récupère aucun [point de vie](./point de vie.md) mais il cesse au moins d’en perdre. Cette utilisation de la compétence Premiers secours permet également de mettre fin aux pertes de points de vie causées par un [saignement](./Saignement.md) .
+**Premiers secours.** Ce terme, qui donne son nom à la compétence, signifie généralement que le personnage intervient rapidement afin de sauver un compagnon mourant. Lorsque quelqu’un est tombé en dessous de 0 point de vie et perd 1 point de vie (par round, par heure ou par jour), le personnage peut stabiliser l’état de celui-ci. Une fois stabilisé, le blessé ne récupère aucun [[point de vie]] mais il cesse au moins d’en perdre. Cette utilisation de la compétence Premiers secours permet également de mettre fin aux pertes de points de vie causées par un [[saignement]] .
 
-**Soins suivis.** Le personnage s’occupe de son patient pendant un jour ou plus. En cas de succès au test de compétence, le blessé récupère les [points de vie](./points de vie.md) ou les points de [caractéristiques](./Caractéristiques.md) perdus suite à un [affaiblissement temporaire](./affaiblissement temporaire.md) deux fois plus vite que la normale : 2 points de vie par niveau chaque jour où le blessé se repose pendant huit heures entières ou 4 points de vie par niveau pour chaque journée de repos complet, 2 points de caractéristique affaiblie chaque jour où le blessé se repose pendant huit heures entières ou 4 points de caractéristique affaiblie pour chaque journée de repos complet au lit.
+**Soins suivis.** Le personnage s’occupe de son patient pendant un jour ou plus. En cas de succès au test de compétence, le blessé récupère les [[points de vie]] ou les points de [[caractéristiques]] perdus suite à un [[affaiblissement temporaire]] deux fois plus vite que la normale : 2 points de vie par niveau chaque jour où le blessé se repose pendant huit heures entières ou 4 points de vie par niveau pour chaque journée de repos complet, 2 points de caractéristique affaiblie chaque jour où le blessé se repose pendant huit heures entières ou 4 points de caractéristique affaiblie pour chaque journée de repos complet au lit.
 
 On peut ainsi soigner jusqu’à six patients à la fois. Le personnage a besoin d’un peu de matériel (bandages, pommades, etc.) qui se trouve aisément dans les contrées civilisées. Assurer des soins suivis correspond à une activité réduite de la part du personnage (qui ne peut en aucun cas se soigner de la sorte lui-même).
 
-**Soigner une blessure de chausse-trappes, de croissance d’épines ou de pierres acérées.** Une créature blessée pour avoir marché sur une [chausse-trappes](./Chausse-trappes (objet).md) voit sa [vitesse de déplacement](./vitesse de déplacement.md) réduite de moitié. Un test de Premiers secours réussi soigne la plaie et fait disparaître la pénalité de déplacement.
+**Soigner une blessure de chausse-trappes, de croissance d’épines ou de pierres acérées.** Une créature blessée pour avoir marché sur une [[Chausse-trappes (objet)|chausse-trappes]] voit sa [[vitesse de déplacement]] réduite de moitié. Un test de Premiers secours réussi soigne la plaie et fait disparaître la pénalité de déplacement.
 
-De même, quiconque est blessé par les sorts de *[croissance d’épines](./Croissance dépines.md)* ou de *[pierres acérées](./Pierres acérées.md)* doit réussir un [jet de sauvegarde](./jet de sauvegarde.md) sous peine de voir sa [vitesse de déplacement](./vitesse de déplacement.md) réduite d’un tiers. Le personnage peut s’occuper d’un compagnon blessé de la sorte (mais pas se soigner lui-même) en prenant dix minutes pour panser les blessures et en réussissant un test de compétence contre le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) du sort.
+De même, quiconque est blessé par les sorts de *[[croissance dépines|croissance d’épines]]* ou de *[[pierres acérées]]* doit réussir un [[jet de sauvegarde]] sous peine de voir sa [[vitesse de déplacement]] réduite d’un tiers. Le personnage peut s’occuper d’un compagnon blessé de la sorte (mais pas se soigner lui-même) en prenant dix minutes pour panser les blessures et en réussissant un test de compétence contre le [[DD]] du [[jet de sauvegarde]] du sort.
 
-**Soigner des blessures mortelles.** Le personnage peut soigner les blessures mortelles d’une créature blessée et lui faire regagner des [points de vie](./points de vie.md). Un test réussi permet de restaurer 1 point de vie par niveau de la créature. Si le résultat du test dépasse le DD de 5 points ou plus, le personnage peut ajouter son modificateur de [Sagesse](./Sagesse.md) (si celui-ci est positif) au nombre de points de vie guéris. Une créature donnée ne peut bénéficier de ce genre de soins qu’une seule fois par jour et les soins doivent être prodigués dans les vingt-quatre heures suivant le moment où les points de vie ont été perdus. Soigner les blessures mortelles d’une créature nécessite deux fois plus de matériel que des soins normaux (deux utilisations d’une [trousse de premiers secours](./Trousses doutils et de compétences.md#Trousse de premiers secours)). Le [test de compétence](./test de compétence.md) subit une pénalité de -2 si le personnage ne dispose que de la moitié du matériel nécessaire (une seule utilisation de la trousse de premiers secours), et cette pénalité passe à -4 si le personnage n’utilise pas de trousse de premiers secours.
+**Soigner des blessures mortelles.** Le personnage peut soigner les blessures mortelles d’une créature blessée et lui faire regagner des [[points de vie]]. Un test réussi permet de restaurer 1 point de vie par niveau de la créature. Si le résultat du test dépasse le DD de 5 points ou plus, le personnage peut ajouter son modificateur de [[Sagesse]] (si celui-ci est positif) au nombre de points de vie guéris. Une créature donnée ne peut bénéficier de ce genre de soins qu’une seule fois par jour et les soins doivent être prodigués dans les vingt-quatre heures suivant le moment où les points de vie ont été perdus. Soigner les blessures mortelles d’une créature nécessite deux fois plus de matériel que des soins normaux (deux utilisations d’une [[Trousses doutils et de compétences#Trousse de premiers secours|trousse de premiers secours]]). Le [[test de compétence]] subit une pénalité de -2 si le personnage ne dispose que de la moitié du matériel nécessaire (une seule utilisation de la trousse de premiers secours), et cette pénalité passe à -4 si le personnage n’utilise pas de trousse de premiers secours.
 
-**Soigner un empoisonnement.** Un personnage peut s’occuper de quelqu’un qui est empoisonné et qui n’a pas fini de subir les effets du [poison](./poison.md) (perte de [points de vie](./points de vie.md), [affaiblissement de caractéristique](./affaiblissement de caractéristique.md) ou autre). Chaque fois que la personne empoisonnée doit faire un [jet de sauvegarde](./jet de sauvegarde.md) pour se défendre contre le [poison](./poison.md), le soigneur effectue un test de Premiers secours. Si le résultat de ce test dépasse le [DD](./DD.md) du [poison](./poison.md), le personnage reçoit un bonus de compétence de +4 à son [jet de sauvegarde](./jet de sauvegarde.md) contre le [poison](./poison.md).
+**Soigner un empoisonnement.** Un personnage peut s’occuper de quelqu’un qui est empoisonné et qui n’a pas fini de subir les effets du [[poison]] (perte de [[points de vie]], [[affaiblissement de caractéristique]] ou autre). Chaque fois que la personne empoisonnée doit faire un [[jet de sauvegarde]] pour se défendre contre le [[poison]], le soigneur effectue un test de Premiers secours. Si le résultat de ce test dépasse le [[DD]] du [[poison]], le personnage reçoit un bonus de compétence de +4 à son [[jet de sauvegarde]] contre le [[poison]].
 
-**Soigner une maladie.** Le personnage peut également s’occuper d’un malade. Chaque fois que celui-ci reçoit un [jet de sauvegarde](./jet de sauvegarde.md) pour résister aux effets d’une [maladie](./maladie.md), le soigneur effectue un test de Premiers secours. Si le résultat de ce test dépasse le [DD](./DD.md) de la [maladie](./maladie.md), le personnage bénéficie d’un bonus de compétence de +4 à son [jet de sauvegarde](./jet de sauvegarde.md) contre cette dernière.
+**Soigner une maladie.** Le personnage peut également s’occuper d’un malade. Chaque fois que celui-ci reçoit un [[jet de sauvegarde]] pour résister aux effets d’une [[maladie]], le soigneur effectue un test de Premiers secours. Si le résultat de ce test dépasse le [[DD]] de la [[maladie]], le personnage bénéficie d’un bonus de compétence de +4 à son [[jet de sauvegarde]] contre cette dernière.
 
 ### Action
 
-Donner les premiers secours, soigner une blessure ou un empoisonnement est une [action simple](./Action simple.md). Soigner une maladie ou une blessure de *[croissance d'épines](./Croissance dépines.md)* ou de *[pierres acérées](./Pierres acérées.md)* nécessite dix minutes de travail. Traiter des blessures mortelles requiert une heure de travail. Donner des soins suivis prend huit heures d’activité réduite.
+Donner les premiers secours, soigner une blessure ou un empoisonnement est une [[action simple]]. Soigner une maladie ou une blessure de *[[croissance dépines|croissance d'épines]]* ou de *[[pierres acérées]]* nécessite dix minutes de travail. Traiter des blessures mortelles requiert une heure de travail. Donner des soins suivis prend huit heures d’activité réduite.
 
 ### Nouvelles tentatives
 
@@ -71,6 +71,6 @@ Variable. En règle générale, il est impossible de tenter un nouveau test de P
 
 ### Spécial
 
-Un personnage possédant le don [Autonome](./Autonome.md) obtient un bonus aux tests de Premiers secours.
+Un personnage possédant le don [[Autonome]] obtient un bonus aux tests de Premiers secours.
 
-Une [trousse de premiers secours](./Trousses doutils et de compétences.md#Trousses de premiers secours) confère un bonus de circonstances de +2 aux tests de Premiers secours.
+Une [[Trousses doutils et de compétences#Trousses de premiers secours|trousse de premiers secours]] confère un bonus de circonstances de +2 aux tests de Premiers secours.

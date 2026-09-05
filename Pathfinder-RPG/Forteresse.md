@@ -11,11 +11,11 @@ Categories:
 
 {s:GC}*Vous voulez construire un bastion sur lequel vos ennemis viendront se briser comme des vagues sur les rochers.*
 
-**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+**Catégorie.** [[Dons#DONHISTOIRE|histoire]]
 
-**Conditions.** Vous devez disposer du don [Prestige](./Prestige.md) et avoir au moins dix suivants capables de se battre (comme des [guerriers](./Guerrier.md) ou des [rôdeurs](./Rôdeur.md)).
+**Conditions.** Vous devez disposer du don [[Prestige]] et avoir au moins dix suivants capables de se battre (comme des [[Guerrier|guerriers]] ou des [[Rôdeur|rôdeurs]]).
 
-**Avantages.** Vous pouvez dépenser une [action de mouvement](./Action de mouvement.md) pour donner des ordres à vos troupes. Les créatures placées sous votre commandement et situées à 18 mètres ou moins de vous reçoivent alors un bonus de moral de +1 aux [jets d’attaque](./jet dattaque.md), un bonus d’esquive de +1 à la [CA](./CA.md) ou un bonus de +1 à un unique type de [jet de sauvegarde](./JDS.md). Tous vos hommes reçoivent le même bonus. Vous ne pouvez pas utiliser ce don sur des alliés qui ne sont pas placés sous vos ordres. C’est un effet mental dépendant du langage.
+**Avantages.** Vous pouvez dépenser une [[action de mouvement]] pour donner des ordres à vos troupes. Les créatures placées sous votre commandement et situées à 18 mètres ou moins de vous reçoivent alors un bonus de moral de +1 aux [[jet dattaque|jets d’attaque]], un bonus d’esquive de +1 à la [[CA]] ou un bonus de +1 à un unique type de [[jds|jet de sauvegarde]]. Tous vos hommes reçoivent le même bonus. Vous ne pouvez pas utiliser ce don sur des alliés qui ne sont pas placés sous vos ordres. C’est un effet mental dépendant du langage.
 
 **Objectif.** Construisez ou emparez-vous d’une forteresse capable d’abriter au moins 200 hommes et garnissez-la avec un minimum de 100 soldats formés au combat (ou l’équivalent) et placés sous vos ordres. Vous devez aussi stocker assez d’eau et de nourriture pour survivre à un siège de six mois et vous devez disposer d’une réserve d’or suffisante pour payer vos troupes pendant ces six moins si vous devez les rémunérer.
 

@@ -10,10 +10,10 @@ Categories:
 
 {s:cs}{s:WMH}*Le personnage a perfectionné ses compétences dans un groupe d'armes.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [BBA](./BBA.md) +5
+**Conditions.** [[BBA]] +5
 
-**Avantage.** Le personnage choisi un [groupe d’armes](./groupe darmes.md) du guerrier. Lorsqu'il utilise une arme de ce groupe et dont il est formé au maniement, il gagne un bonus de +1 à ses [jets de dégâts](./Valeurs de combat.md#DEGATS).
+**Avantage.** Le personnage choisi un [[groupe darmes|groupe d’armes]] du guerrier. Lorsqu'il utilise une arme de ce groupe et dont il est formé au maniement, il gagne un bonus de +1 à ses [[Valeurs de combat#DEGATS|jets de dégâts]].
 
-**Spécial.** Le don Concentration martiale compte comme la capacité de classe [entraînement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) pour le groupe d'armes choisi afin de remplir les prérequis des [dons de maîtrise d'arme](./Dons.md#MAITRISEDARME).
+**Spécial.** Le don Concentration martiale compte comme la capacité de classe [[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] pour le groupe d'armes choisi afin de remplir les prérequis des [[Dons#MAITRISEDARME|dons de maîtrise d'arme]].

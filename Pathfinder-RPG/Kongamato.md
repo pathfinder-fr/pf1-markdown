@@ -14,32 +14,32 @@ Categories:
 {s:pucem|Dragon|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p 166*}
 {s:BDTexte|**XP** 51 200}
-{s:BDTexte|[Dragon](./type Dragon.md) de taille TG, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}),
-[vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +23}
+{s:BDTexte|[[type dragon|Dragon]] de taille TG, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}),
+[[vision nocturne]] ; [[Perception]] +23}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 29, contact 11, dépourvu 26 (Dex +3, naturelle +18, taille -2)}
 {s:BDTexte|**pv** 261 (18d12+144)}
 {s:BDTexte|**Réf** +16, **Vig** +19, **Vol** +13}
-{s:BDTexte|**[RD](./RD.md)** 10/magique ; **Immunité** magie, paralysie et sommeil ;
-**Résistance** acide 10, électricité 10, feu 10, froid 10 ; **[RM](./RM.md)** 26}
+{s:BDTexte|**[[RD]]** 10/magique ; **Immunité** magie, paralysie et sommeil ;
+**Résistance** acide 10, électricité 10, feu 10, froid 10 ; **[[RM]]** 26}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**Vitesse** 12 m (6 {s:c}), vol 48 m (32 {s:c}, moyenne)}
 {s:BDTexte|**Corps à corps** morsure, +28 (2d6+12) et 2 griffes, +28 (1d8+12) et
 coup de queue, +26 (2d6+6) et 2 ailes, +26 (1d8+6)}
 {s:BDTexte|**Espace** 4,5 m (3 {s:c}) ; **Allonge** 4,5 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** plongeon hurlant, [souffle](./Souffle.md) (cône de 15 m, 14d6 dégâts soniques, [Réflexes](./Réflexes.md) [DD](./DD.md) 27 1/2 dégâts, utilisable tous les 1d4 [round](./round.md)s)}
+{s:BDTexte|**Attaques spéciales** plongeon hurlant, [[souffle]] (cône de 15 m, 14d6 dégâts soniques, [[Réflexes]] [[DD]] 27 1/2 dégâts, utilisable tous les 1d4 [[round]]s)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 34, **Dex** 17, **Con** 26, **Int** 9, **Sag** 14, **Cha** 17}
-{s:BDTexte|**BBA** +18 ; **BMO** +32 ; **DMD** 45 (49 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md),
-[Capture](./Capture.md), [Science de la destruction](./Science de la destruction.md), [Science de l’initiative](./Science de linitiative.md),
-[Réflexes surhumains](./Réflexes surhumains.md), [Virage sur l’aile](./Virage sur laile.md), [Vol stationnaire](./Vol stationnaire.md)}
+{s:BDTexte|**BBA** +18 ; **BMO** +32 ; **DMD** 45 (49 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Attaques multiples]],
+[[Capture]], [[Science de la destruction]], [[Science de linitiative|Science de l’initiative]],
+[[Réflexes surhumains]], [[Virage sur laile|Virage sur l’aile]], [[Vol stationnaire]]}
 {s:BDTexte|**Compétences** }
 {s:BDTexte|**Langues** draconique}
-{s:BDTexte|**Particularités** [Discrétion](./Discrétion.md) +13, [Escalade](./Escalade.md) +19, [Intimidation](./Intimidation.md) +16,
-[Perception](./Perception.md) +23, [Psychologie](./Psychologie.md) +15, [Survie](./Survie.md) +20, [Vol](./Vol.md) +20 }
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md) , bec perforant }
+{s:BDTexte|**Particularités** [[Discrétion]] +13, [[Escalade]] +19, [[Intimidation]] +16,
+[[Perception]] +23, [[Psychologie]] +15, [[Survie]] +20, [[Vol]] +20 }
+{s:BDTexte|**Particularités** [[Compression (capacité)|compression]] , bec perforant }
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tropicales }
 {s:BDTexte|**Organisation sociale** solitaire ou couple }
@@ -53,7 +53,7 @@ est considéré comme étant en adamantium quand il s’agit de
 passer la solidité de l’objet.}
 {s:BDTexte|**Plongeon hurlant (Sur).**
 Lorsque le kongamato effectue une charge en vol ou utilise son don
-[Attaque en vol](./Attaque en vol.md), son corps s’investit d’une énergie qui fait que sa morsure inflige
+[[Attaque en vol]], son corps s’investit d’une énergie qui fait que sa morsure inflige
 +1d6 points de dégâts sonores supplémentaires.}
 </div>
 </td><td><div> ''Cette énorme créature draconique à tête d’oiseau plonge du ciel en

@@ -11,14 +11,14 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage bloque habilement les attaques avec son bouclier quand il se déplace en plein combat.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise de bouclier](./Dons.md#MAITRISEDEBOUCLIER)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDEBOUCLIER|maîtrise de bouclier]]
 
-**Conditions.** [Art du bouclier](./Art du bouclier.md), [BBA](./BBA.md) +6 ou [guerrier](./Guerrier.md) de niveau 4
+**Conditions.** [[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4
 
-**Avantage.** Le personnage gagne un bonus de +2 à la [CA](./CA.md) contre les [attaques d’opportunité](./AO.md).
+**Avantage.** Le personnage gagne un bonus de +2 à la [[CA]] contre les [[AO|attaques d’opportunité]].
 
-**Spécial.** Mouvement protégé compte comme [Esquive](./Esquive.md) et comme [Souplesse du serpent](./Souplesse du serpent.md) pour remplir les prérequis d’autres dons.
+**Spécial.** Mouvement protégé compte comme [[Esquive]] et comme [[Souplesse du serpent]] pour remplir les prérequis d’autres dons.
 
 {s:AMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 3 points d’endurance par une [action immédiate](./Action immédiate.md) pour passer le bonus à la [CA](./CA.md) à +4 contre une unique attaque.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 3 points d’endurance par une [[action immédiate]] pour passer le bonus à la [[CA]] à +4 contre une unique attaque.

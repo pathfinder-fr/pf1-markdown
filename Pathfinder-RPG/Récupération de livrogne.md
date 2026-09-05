@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:UI}*Il suffit d'une gorgée de boisson forte pour vous ramener du seuil de la mort.*
 
-**Conditions.** [Con](./Con.md) 13
+**Conditions.** [[Con]] 13
 
-**Avantages.** Si le personnage est [mourant](./Mourant.md) et que quelqu'un lui fait boire au moins une gorgée d'alcool (une [action simple](./Action simple.md) pour une créature adjacente), il est automatiquement stabilisé.
+**Avantages.** Si le personnage est [[mourant]] et que quelqu'un lui fait boire au moins une gorgée d'alcool (une [[action simple]] pour une créature adjacente), il est automatiquement stabilisé.

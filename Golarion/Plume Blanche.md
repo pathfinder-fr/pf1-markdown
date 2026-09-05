@@ -7,4 +7,4 @@ Categories:
 - Religion
 ---
 
-La Plume Blanche n'est pas à proprement parler une divinité. Il s'agit d'un avatar d'[Irori](./Irori.md), que l'on peut retrouver sous d'autres noms dans d'autres régions de [Golarion](./Golarion.md), qu'une congrégation de moines du [Qadira](./Qadira.md) vénèrent.
+La Plume Blanche n'est pas à proprement parler une divinité. Il s'agit d'un avatar d'[[Irori]], que l'on peut retrouver sous d'autres noms dans d'autres régions de [[Golarion]], qu'une congrégation de moines du [[Qadira]] vénèrent.

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Traque-sang
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Traque-sang](./Descriptions individuelles des propriétés spéciales des armes.md#Traque-sang)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Traque-sang]]

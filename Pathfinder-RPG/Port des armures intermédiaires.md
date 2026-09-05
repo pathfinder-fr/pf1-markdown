@@ -9,12 +9,12 @@ Categories:
 
 *Le personnage est formé au port des armures intermédiaires.*
 
-**Catégorie.** [combat](./Dons.md#COMBAT)
+**Catégorie.** [[Dons#COMBAT|combat]]
 
-**Condition.** [Port des armures légères](./Port des armures légères.md).
+**Condition.** [[Port des armures légères]].
 
-**Avantage.** Voir « [Port des armures légères](./Port des armures légères.md) ».
+**Avantage.** Voir « [[Port des armures légères]] ».
 
-**Normal.** Voir « [Port des armures légères](./Port des armures légères.md) ».
+**Normal.** Voir « [[Port des armures légères]] ».
 
-**Spécial.** [Barbares](./Barbare.md), [druides](./Druide.md), [guerriers](./Guerrier.md), [paladins](./Paladin.md), [prêtres](./Prêtre.md) et [rôdeurs](./Rôdeur.md) obtiennent automatiquement Port des armures intermédiaires en tant que don supplémentaire. Ils n’ont pas besoin de le choisir.
+**Spécial.** [[barbare|Barbares]], [[druide|druides]], [[guerrier|guerriers]], [[paladin|paladins]], [[prêtre|prêtres]] et [[rôdeur|rôdeurs]] obtiennent automatiquement Port des armures intermédiaires en tant que don supplémentaire. Ils n’ont pas besoin de le choisir.

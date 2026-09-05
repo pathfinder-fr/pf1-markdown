@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Caractéristiques#DEXTERITE
 ---
 
->>> [Pathfinder-RPG.Caractéristiques#DEXTERITE](./Caractéristiques.md#DEXTERITE)
+>>> [[Pathfinder-RPG.Caractéristiques#DEXTERITE]]

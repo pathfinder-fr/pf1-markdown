@@ -6,43 +6,43 @@ Categories:
 - Sort conjurateur 3
 ---
 
-{s:UM}**École** [Invocation](./Invocation.md) ([guérison](./guérison.md))  ; **Niveau** [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3
+{s:UM}**École** [[Invocation]] ([[guérison]])  ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3
 **Temps d’incantation** 1 minute
-**Composantes** [V, G, M](./composantes.md) (poussière de diamant d’une valeur  de 100 po ou 1 000 po, voir texte)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**Composantes** [[Composantes|V, G, M]] (poussière de diamant d’une valeur  de 100 po ou 1 000 po, voir texte)
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** eidolon touché
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui (inoffensif)
+**Durée** [[instantanée]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui (inoffensif)
 ---
-Ce sort fonction comme *[restauration](./Restauration.md) * mais affecte uniquement un eidolon.
+Ce sort fonction comme *[[restauration]] * mais affecte uniquement un eidolon.
 
 
 
 (((
 ## Restauration
-**École** [Invocation](./Invocation.md) ([guérison](./branche guérison.md)) ; **Niveau** [Alch](./Alchimiste.md) 4, [Cham](./Chaman.md) 4, [Hyp](./Hypnotiseur.md) 4, [Inq](./Inquisiteur.md) 4, [Pal](./Paladin.md) 4, [Prê](./Prêtre.md) 4, [Spi](./Spirite.md) 4
+**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Chaman|Cham]] 4, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 4, [[Spirite|Spi]] 4
 **Temps d'incantation** 3 rounds
-**Composantes** [V, G, M](./composantes.md) (poussière de diamant d’une valeur de 100 à 1 000 po ; voir description)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**Composantes** [[composantes|V, G, M]] (poussière de diamant d’une valeur de 100 à 1 000 po ; voir description)
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créature touchée
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** [[instantanée]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort est semblable à *[restauration partielle](./Restauration partielle.md)*, si ce n’est qu’il dissipe également les [niveaux négatifs](./niveau négatif.md) temporaires ou un [niveau négatif](./niveau négatif.md) permanent (auquel cas il nécessite de la poudre de diamant valant 1 000 po). Ce sort ne permet pas de dissiper plus d’un [niveau négatif](./niveau négatif.md) [permanent](./diminution permanente.md) sur une même cible par semaine.
+Ce sort est semblable à *[[restauration partielle]]*, si ce n’est qu’il dissipe également les [[niveau négatif|niveaux négatifs]] temporaires ou un [[niveau négatif]] permanent (auquel cas il nécessite de la poudre de diamant valant 1 000 po). Ce sort ne permet pas de dissiper plus d’un [[niveau négatif]] [[diminution permanente|permanent]] sur une même cible par semaine.
 
-*Restauration* guérit tous les [affaiblissements temporaires](./affaiblissement temporaire.md) de [caractéristique](./caractéristique.md) et une [diminution permanente](./diminution permanente.md) de [caractéristique](./caractéristique.md) (choisie par le lanceur de sorts). Il contre également la [fatigue](./Fatigué.md) et l’[épuisement](./Épuisé.md).
+*Restauration* guérit tous les [[affaiblissement temporaire|affaiblissements temporaires]] de [[caractéristique]] et une [[diminution permanente]] de [[caractéristique]] (choisie par le lanceur de sorts). Il contre également la [[fatigué|fatigue]] et l’[[épuisé|épuisement]].
 
 
 
 (((
 ## Restauration partielle
-**École** [Invocation](./Invocation.md) ([guérison](./branche guérison.md)) ; **Niveau** [Alch](./Alchimiste.md) 2, [Cham](./Chaman.md) 2, [Dru](./Druide.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 2, [Spi](./Spirite.md) 2
-**Temps d'incantation** 3 [rounds](./round.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2
+**Temps d'incantation** 3 [[round|rounds]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créature touchée
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** [[instantanée]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort dissipe les effets magiques réduisant l’une des [caractéristiques](./Caractéristiques.md) de la cible ou permet de récupérer 1d4 points d’une [caractéristique](./caractéristique.md) [temporairement affaiblie](./affaiblissement temporaire.md). *Restauration partielle* élimine toute [fatigue](./Fatigué.md) dont est victime le sujet. Si le personnage est [épuisé](./Épuisé.md), il devient simplement [fatigué](./Fatigué.md). Le sort ne peut rien contre les [diminutions permanentes](./diminution permanente.md) de [caractéristique](./caractéristique.md).
+Ce sort dissipe les effets magiques réduisant l’une des [[caractéristiques]] de la cible ou permet de récupérer 1d4 points d’une [[caractéristique]] [[affaiblissement temporaire|temporairement affaiblie]]. *Restauration partielle* élimine toute [[fatigué|fatigue]] dont est victime le sujet. Si le personnage est [[épuisé]], il devient simplement [[fatigué]]. Le sort ne peut rien contre les [[diminution permanente|diminutions permanentes]] de [[caractéristique]].
 ))))))

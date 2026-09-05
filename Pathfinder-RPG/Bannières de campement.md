@@ -10,13 +10,13 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bannières de campement|{s:MPNJ}}
-**Aura** [Abjuration](./Abjuration.md) et [Invocation](./Invocation.md) faibles ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 3 200 po ; **Poids** 2,5 kg par bannière
+**Aura** [[Abjuration]] et [[Invocation]] faibles ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 3 200 po ; **Poids** 2,5 kg par bannière
 (((Description)))
 Ces trois bannières s’activent lorsqu’elles sont plantées dans le sol, à 12 mètres maximum l’une de l’autre. Un mastiff illusoire apparaît une fois les trois bannières plantées et effectue un circuit triangulaire d’une bannière à l’autre, en se déplaçant à une vitesse de 9 mètres. Ce molosse illusoire reste tant que les bannières sont plantées et jusqu’à un maximum de 8 heures. Une fois ce délai écoulé, la protection cesse de fonctionner et il faut attendre 12 heures avant de pouvoir réutiliser les bannières.
 
-Chaque fois qu’une créature de taille TP ou plus grande traverse la zone délimitée par les bannières, le mastiff se jette dessus en poussant des aboiements stridents. Dans le même temps, les bannières invoquent un [chien de selle](./Chien de selle.md) (comme pour une *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)*) qui apparaît sur une case adjacente à celle sur laquelle la créature a franchi la protection ; si la protection a été franchie en plusieurs endroits, le chien apparaît sur une case adjacente à celle d’une brèche choisie au hasard. Le chien attaque immédiatement l’intrus le plus proche.
+Chaque fois qu’une créature de taille TP ou plus grande traverse la zone délimitée par les bannières, le mastiff se jette dessus en poussant des aboiements stridents. Dans le même temps, les bannières invoquent un [[chien de selle]] (comme pour une *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*) qui apparaît sur une case adjacente à celle sur laquelle la créature a franchi la protection ; si la protection a été franchie en plusieurs endroits, le chien apparaît sur une case adjacente à celle d’une brèche choisie au hasard. Le chien attaque immédiatement l’intrus le plus proche.
 
 Toutes les créatures présentes dans la zone protégée lorsque la troisième bannière est plantée sont exclues des effets de l’objet et peuvent entrer et sortir librement de la zone sans déclencher l’attaque du mastiff.
 (((Création)))
-**Conditions** [Conditions d'objets merveilleux](./Création dobjets merveilleux.md), *[alarme](./Alarme.md)*, *[image imparfaite](./Image imparfaite.md)*, *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)* ; **Coût** 1 600 po
+**Conditions** [[Création dobjets merveilleux|Conditions d'objets merveilleux]], *[[alarme]]*, *[[image imparfaite]]*, *[[convocation dalliés naturels I|convocation d’alliés naturels I]]* ; **Coût** 1 600 po
 </div>

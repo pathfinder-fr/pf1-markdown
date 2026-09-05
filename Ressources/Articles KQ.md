@@ -13,39 +13,39 @@ LastModified: 2011-12-30 11:03
 
 <table class="page espace-col deuxcol espaceul"><tr><td>
 ### Monstres
-- **[Le crabe osseux](./KQ Crabe osseux.md) (FP 2)**
-- **[Le drake chandelle](./KQ Drake chandelle.md) (FP 1)**
-- **[Le drake rapide.](./KQ Drake rapide.md) (FP 2.**
-- **[Le linnorm du tombeau.](./KQ Linnorm du tombeau.md) (FP 23)**
+- **[[KQ Crabe osseux|Le crabe osseux]] (FP 2)**
+- **[[KQ Drake chandelle|Le drake chandelle]] (FP 1)**
+- **[[KQ Drake rapide|Le drake rapide.]] (FP 2.**
+- **[[KQ Linnorm du tombeau|Le linnorm du tombeau.]] (FP 23)**
 
 
 ### Objets magiques
-- **[La dernière carte du Cartomancien](./KQ Cartomancien.md).** Cet article en cinq parties présente une série de cartes magiques au fil des aventures de Lan Su'Vavock et Kai Geyser, deux érudits qui remontent la piste des indices laissés par un ancien cartographe légendaire, par **Michael Kortes** (également auteur des rubriques "Ask a Shoanti" dans [Wayfinder](./../Golarion/Wayfinder.md)).   
+- **[[KQ Cartomancien|La dernière carte du Cartomancien]].** Cet article en cinq parties présente une série de cartes magiques au fil des aventures de Lan Su'Vavock et Kai Geyser, deux érudits qui remontent la piste des indices laissés par un ancien cartographe légendaire, par **Michael Kortes** (également auteur des rubriques "Ask a Shoanti" dans [[Golarion.Wayfinder|Wayfinder]]).   
 
-*Liens vers la [Partie 1](./KQ Cartomancien.md) — [Partie 2](./KQ Cartomancien 2.md) — [Partie 3](./KQ Cartomancien 3.md) — [Partie 4](./KQ Cartomancien 4.md) — [Partie 5](./KQ Cartomancien 5.md).*
+*Liens vers la [[KQ Cartomancien|Partie 1]] — [[KQ Cartomancien 2|Partie 2]] — [[KQ Cartomancien 3|Partie 3]] — [[KQ Cartomancien 4|Partie 4]] — [[KQ Cartomancien 5|Partie 5]].*
 
 ### Pièges
-- **[La morsure de l'acier](./KQ Morsure de lacier.md)** (4 pièges)
+- **[[KQ Morsure de lacier|La morsure de l'acier]]** (4 pièges)
 
 </td><td>
 ### Les murmures de l'homoncule
 <p class="description" style="padding-bottom: 12px">Il s'agit d'une série d'articles écrits par Richard Pett, l'auteur à qui on doit, entre autres, Les meurtres des Écorcheurs, Il faut fuir ! et bien d'autres choses horribles à infliger aux joueurs ! Des condensés d'idées tantôt pratiques, tantôt farfelues mais toujours géniales pour les MJ en quête d'inspiration !</p>
-- **[20 jours de fête étranges](./KQ 20 jours de fête étranges.md)**
-- **[20 jours sacrés](./KQ 20 jours sacrés.md)**
-- **[20 légendes villageoises](./KQ 20 légendes villageoises.md)**
-- **[20 paris et défis stupides](./KQ 20 paris et défis stupides.md)**
-- **[20 objets magiques décevants ou problématiques](./KQ 20 objets magiques décevants ou problématiques.md)**
-- **[30 moments vraiment bizarres](./KQ 30 moments vraiment bizarres.md)**
-- **[50 personnes à croiser](./KQ 50 personnes à croiser.md)**
-- **[50 sujets de conversations](./KQ 50 sujets de conversation.md)**
-- **[100 objets inutiles](./KQ 100 objets inutiles.md)**
-- **[Seul, vraiment seul ?](./KQ Seul, vraiment seul.md)**
+- **[[KQ 20 jours de fête étranges|20 jours de fête étranges]]**
+- **[[KQ 20 jours sacrés|20 jours sacrés]]**
+- **[[KQ 20 légendes villageoises|20 légendes villageoises]]**
+- **[[KQ 20 paris et défis stupides|20 paris et défis stupides]]**
+- **[[KQ 20 objets magiques décevants ou problématiques|20 objets magiques décevants ou problématiques]]**
+- **[[KQ 30 moments vraiment bizarres|30 moments vraiment bizarres]]**
+- **[[KQ 50 personnes à croiser|50 personnes à croiser]]**
+- **[[KQ 50 sujets de conversation|50 sujets de conversations]]**
+- **[[KQ 100 objets inutiles|100 objets inutiles]]**
+- **[[KQ Seul, vraiment seul|Seul, vraiment seul ?]]**
 
 ### Le vendredi, tout est permis !
 
-- **[Le catalogue de l'aventurier mort](./KQ Le catalogue de laventurier mort.md)**
-- **[Le catalogue du méchant mort](./KQ Le catalogue du méchant mort.md)**
-- **[Malus de Charisme et apparences douteuses](./KQ Malus de Charisme et apparences douteuses.md)**
+- **[[KQ Le catalogue de laventurier mort|Le catalogue de l'aventurier mort]]**
+- **[[KQ Le catalogue du méchant mort|Le catalogue du méchant mort]]**
+- **[[KQ Malus de Charisme et apparences douteuses|Malus de Charisme et apparences douteuses]]**
 
 ### Autres catégories à venir
 

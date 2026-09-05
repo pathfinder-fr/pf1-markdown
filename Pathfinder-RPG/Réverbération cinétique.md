@@ -12,18 +12,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Psy](./Psychiste.md) 2  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (un peu de sève d'arbre à caoutchouc)  
+**Composantes** [[Composantes|V, G, F]] (un peu de sève d'arbre à caoutchouc)  
 
 **Portée** contact  
 
 **Cible** créature touchée  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]])
 
-Le sort transfère l’élan et la puissance des attaques de mêlée qui visent la cible de ce sort en les renvoyant dans l'arme de son assaillant. Quand un adversaire réussit une attaque de corps à corps contre la cible de ce sort, il doit faire un jet de [Vigueur](./Vigueur.md) pour son arme. S’il rate son [jet](./JDS.md), l'arme reçoit un montant de dégâts égal à ceux qu’elle inflige à la cible du sort. Le sort n’affecte pas les créatures qui utilisent une arme naturelle ou une attaque à mains nues.
+Le sort transfère l’élan et la puissance des attaques de mêlée qui visent la cible de ce sort en les renvoyant dans l'arme de son assaillant. Quand un adversaire réussit une attaque de corps à corps contre la cible de ce sort, il doit faire un jet de [[Vigueur]] pour son arme. S’il rate son [[JdS|jet]], l'arme reçoit un montant de dégâts égal à ceux qu’elle inflige à la cible du sort. Le sort n’affecte pas les créatures qui utilisent une arme naturelle ou une attaque à mains nues.

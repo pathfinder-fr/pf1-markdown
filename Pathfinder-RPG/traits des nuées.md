@@ -7,4 +7,4 @@ Categories:
 RedirectTo: sous-type nuée#TRAITSNUEES
 ---
 
->>> [sous-type nuée#TRAITSNUEES](./sous-type nuée.md#TRAITSNUEES)
+>>> [[sous-type nuée#TRAITSNUEES]]

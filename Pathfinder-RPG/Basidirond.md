@@ -13,13 +13,13 @@ Categories:
 {s:pucem|Plante|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.32*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Plante](./type Plante.md) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [perception des vibrations](./Perception des vibrations.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Plante|Plante]] de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[perception des vibrations]], [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 11, pris au dépourvu 17 (Dex +1, naturelle +7)}
 {s:BDTexte|**pv** 52 (7d8+21)}
 {s:BDTexte|**Réf** +3, **Vig** +8, **Vol** +2}
-{s:BDTexte|**Immunités** froid, [traits des plantes](./Traits des plantes.md) }
+{s:BDTexte|**Immunités** froid, [[traits des plantes]] }
 {s:BDTexte|**Faiblesses** léthargie dans le froid}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}) }
@@ -34,8 +34,8 @@ Categories:
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Particularités}
 {s:BDTexte|**Léthargie dans le froid (Ext)** Les basidironds sont immunisés contre les dégâts de froid, mais tout exposition à un effet de froid les ralentit pendant 1d4 rounds au cours desquels ils ne peuvent utiliser ni leur nuage hallucinatoire ni leurs spores.}
-{s:BDTexte|**Nuage hallucinatoire (Ext)** Par une [action simple](./Action simple.md) utilisable une fois chaque minute, un basidirond peut libérer un nuage de spores invisibles dans un rayon de 6 m (4 {s:c}). Toutes les créatures situées dans la zone doivent réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 16 ou être affectées par de puissantes hallucinations qui persistent tant qu'elles restent dans le nuage et 1d4 round de plus après qu'elles l'aient quitté. Elles doivent effectuer un nouveau [jet de sauvegarde](./jet de sauvegarde.md) à chaque round passé dans la zone affectée. Le nuage hallucinatoire persiste pendant 5 rounds avant de se dissiper (par vent fort, il se disperse immédiatement). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md). Pour déterminer l'hallucination dont une victime affectée souffre, lancez 1d6 chaque round et consultez la table suivante.}
-{s:BDTexte|**Spores (Ext)** Lorsque l'attaque de coup d'un basidirond touche une créature, cette dernière est recouverte de spores. Elle doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 16 pour éviter que ceux-ci ne s'enracinent dans sa chair et plus particulièrement dans ses poumons. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md). *Spores de basidirond :* maladie - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 16 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [Con](./Constitution.md) ; *guérison* 1 réussite.}
+{s:BDTexte|**Nuage hallucinatoire (Ext)** Par une [[action simple]] utilisable une fois chaque minute, un basidirond peut libérer un nuage de spores invisibles dans un rayon de 6 m (4 {s:c}). Toutes les créatures situées dans la zone doivent réussir un jet de [[Vigueur]] de [[DD]] 16 ou être affectées par de puissantes hallucinations qui persistent tant qu'elles restent dans le nuage et 1d4 round de plus après qu'elles l'aient quitté. Elles doivent effectuer un nouveau [[jet de sauvegarde]] à chaque round passé dans la zone affectée. Le nuage hallucinatoire persiste pendant 5 rounds avant de se dissiper (par vent fort, il se disperse immédiatement). Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]]. Pour déterminer l'hallucination dont une victime affectée souffre, lancez 1d6 chaque round et consultez la table suivante.}
+{s:BDTexte|**Spores (Ext)** Lorsque l'attaque de coup d'un basidirond touche une créature, cette dernière est recouverte de spores. Elle doit réussir un jet de [[Vigueur]] de [[DD]] 16 pour éviter que ceux-ci ne s'enracinent dans sa chair et plus particulièrement dans ses poumons. Le [[DD]] dépend de la [[Constitution]]. *Spores de basidirond :* maladie - blessure ; *JS* [[Vigueur]] [[DD]] 16 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d2 [[Constitution|Con]] ; *guérison* 1 réussite.}
 </div>
 </td><td><div>*Cette plante a de longues vrilles vertes, une calotte en forme de cloche inversée et quatre pieds semblables à des pattes d’araignée.*
 
@@ -52,9 +52,9 @@ eux-mêmes ses victimes.
 |- CLASS="titre"
 | d6 || Hallucination
 |- CLASS="premier"
-| 1 || Vous vous enfoncez dans des sables mouvants ! Vous tombez [à terre](./À terre.md) et passez 1 round à agiter les bras et les jambes comme si vous tentiez de nager.
+| 1 || Vous vous enfoncez dans des sables mouvants ! Vous tombez [[à terre]] et passez 1 round à agiter les bras et les jambes comme si vous tentiez de nager.
 |- CLASS="alt"
-| 2 || Attaqué par une nuée d'araignées ! Vous employez une [action complexe](./Action complexe.md) pour frapper le sol avec votre arme.
+| 2 || Attaqué par une nuée d'araignées ! Vous employez une [[action complexe]] pour frapper le sol avec votre arme.
 |-
 | 3 || Un des objets que vous tenez s'est transformé en serpent ! Vous le laissez tomber et vous vous en éloignez à vitesse maximale pendant 1 round.
 |- CLASS="alt"

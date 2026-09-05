@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Duel
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Duel](./Descriptions individuelles des propriétés spéciales des armes.md#Duel)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Duel]]

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:PMI}**Prix** 1 pa ; **Poids** —
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 Un cache-oeil couvre un oeil et se noue autour de la tête. Les pirates portent habituellement cet accessoire pour dissimuler un oeil blessé ou inutilisable, mais certains les portent uniquement pour paraître plus intimidants ou pour garder un oeil couvert et maintenir ainsi leur vision dans le noir lorsqu'ils passent du pont inférieur d'un navire plus ou moins plongé dans le noir au pont supérieur exposé à la lumière du soleil.

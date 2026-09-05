@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Amphibie (capacité)
 ---
 
->>> [Amphibie (capacité)](./Amphibie (capacité).md)
+>>> [[Amphibie (capacité)]]

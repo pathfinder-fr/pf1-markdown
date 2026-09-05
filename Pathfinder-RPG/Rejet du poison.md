@@ -10,6 +10,6 @@ Categories:
 
 {s:ISG}{s:GeM}*Le personnage est un empoisonneur prudent et il sait se protéger de l’exposition aux effets nocifs de la plupart des substances.*
 
-**Conditions.** [Con](./Con.md) 13, capacité de classe [utilisation du poison](./Alchimiste.md#UTILISATIONDUPOISON), suivant de [Norgorber](./Norgorber (technique).md)
+**Conditions.** [[Con]] 13, capacité de classe [[Alchimiste#UTILISATIONDUPOISON|utilisation du poison]], suivant de [[Norgorber (technique)|Norgorber]]
 
-**Avantage.** À chaque fois qu'il rate le [jet de sauvegarde](./JDS.md) initial contre un [poison](./Poisons.md), le personnage a 20% de chance de rejeter naturellement la toxine, annulant ses effets et gâchant son utilisation.
+**Avantage.** À chaque fois qu'il rate le [[jds|jet de sauvegarde]] initial contre un [[poisons|poison]], le personnage a 20% de chance de rejeter naturellement la toxine, annulant ses effets et gâchant son utilisation.

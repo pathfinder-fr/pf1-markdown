@@ -5,4 +5,4 @@ LastModified: 2010-06-29 23:58
 RedirectTo: Pathfinder-RPG.Focaliseur divin
 ---
 
->>> [Pathfinder-RPG.Focaliseur divin](./focaliseur divin.md)
+>>> [[Pathfinder-RPG.Focaliseur divin]]

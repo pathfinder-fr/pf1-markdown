@@ -4,13 +4,13 @@ Title: Aides de jeu AP10
 LastModified: 2016-08-11 17:06
 ---
 
-Vous trouverez la présentation de cette campagne sur [cette page](./Présentation AP10.md).
+Vous trouverez la présentation de cette campagne sur [[Présentation AP10|cette page]].
 
 ### Aides de jeu générales
 {s:ADJStart}
 <tr STYLE="vertical-align: top;">
 <td>{s:ADJ|ENTRAVESVIERGE|Carte vierge des Entraves|%2fADJ%2fAventures%2fCarte_Entraves_vierge_PFfr_mini.jpg|%2fADJ%2fAventures%2fCarte_Entraves_vierge_PFfr.jpg|**(Version 1.1)** Une carte manuscrite vierge à compléter au fil des déplacements de la campagne (fichier JPEG)|Élentir|none}</td>
-<td>{s:ADJExt|PNJ AP10|PNJ complémentaires AP10|/ADJ/Aventures/AP10 Icone PNJ.png|http://www.pathfinder-fr.org/Wiki/Aventures.PNJ%20AP10.ashx|Des fiches de PNJ sur plusieurs niveaux permettant de jouer la campagne. (fichier PDF à télécharger, voir la [page wiki](./PNJ AP10.md))|Mériadec|none}</td>
+<td>{s:ADJExt|PNJ AP10|PNJ complémentaires AP10|/ADJ/Aventures/AP10 Icone PNJ.png|http://www.pathfinder-fr.org/Wiki/Aventures.PNJ%20AP10.ashx|Des fiches de PNJ sur plusieurs niveaux permettant de jouer la campagne. (fichier PDF à télécharger, voir la [[PNJ AP10|page wiki]])|Mériadec|none}</td>
 </tr>
 </table>
 

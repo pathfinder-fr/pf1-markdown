@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Sismique
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Sismique](./Descriptions individuelles des propriétés spéciales des armes.md#Sismique)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Sismique]]

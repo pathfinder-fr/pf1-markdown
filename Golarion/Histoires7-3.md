@@ -6,8 +6,8 @@ Categories:
 - Alkenastre
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du troisième chapitre : "[http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lbn2](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lbn2)" de la nouvelle "Le Seigneur Pénitent" de Richard Lee Byers. Illustration de Colby Stevenson.*
 
 La lune descendante avait dépassé la moitié de sa course et glissait vers l'ouest. Et, même si une ville comme Absalom n'était jamais tout à fait endormie, seules quelques lumières éparses perçaient les ténèbres et le brouhaha perpétuel s'était réduit en un bruit ténu.

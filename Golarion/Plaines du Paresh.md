@@ -7,7 +7,7 @@ Categories:
 - Qadira
 ---
 
-Grandes plaines herbeuses situées au nord de [Katheer](./Katheer.md), capitale du [Qadira](./Qadira.md).
+Grandes plaines herbeuses situées au nord de [[Katheer]], capitale du [[Qadira]].
 
 Elle abrite de nombreuses tribus nomades dont les membres sont les descendants des premières peuplades ayant occupé le Qadira. Ils vivent essentiellement de l'élevage de bétails ou de chevaux et commercent presque uniquement entre eux.
 

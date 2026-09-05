@@ -10,7 +10,7 @@ Categories:
 
 ### Histoire
 
-Gozreh est une ancienne divinité de la nature, d'une rare puissance même parmi les autres dieux. D'une extrême neutralité, il n'intervient dans les complots de ses pairs que si leurs implications affectent ses sphères d'influences. Il est en désaccord avec [Abadar](./Abadar.md) qu'il considère comme son pire ennemi idéologique ainsi qu'avec [Lamashtu](./Lamashtu.md), [Néthys](./Néthys.md) et [Urgathoa](./Urgathoa.md) qu'il voit comme une menace corruptrice sur plusieurs de ses sphères de pouvoir.
+Gozreh est une ancienne divinité de la nature, d'une rare puissance même parmi les autres dieux. D'une extrême neutralité, il n'intervient dans les complots de ses pairs que si leurs implications affectent ses sphères d'influences. Il est en désaccord avec [[Abadar]] qu'il considère comme son pire ennemi idéologique ainsi qu'avec [[Lamashtu]], [[Néthys]] et [[Urgathoa]] qu'il voit comme une menace corruptrice sur plusieurs de ses sphères de pouvoir.
 
 ### Apparence
 
@@ -24,7 +24,7 @@ Le héraut de Gozreh est un puissant et très ancien élémentaire qu'on surnomm
 
 Les fidèles de Gozreh sont souvent ceux qui vivent le plus au contact de la nature et dont la survie dépend de la clémence des éléments. C'est le cas des fermiers, agriculteurs ainsi que des marins qui agissent souvent avec une grande piété vis à vis des éléments instables de la nature. Nombre des Druides qui le vénèrent comme source de leur pouvoir n'accordent aucun crédit aux autres religions et voient dans Gozreh une déité plus puissante et globale de la nature et la force vitale dans son ensemble.
 
-Une petite caste de fidèles de Gozreh officie sur la côte Ouest du [Garund](./Garund.md) et voue une vénération particulière à l'Oeil d'Abendego, un typhon permanent apparût à la mort d'Aroden.
+Une petite caste de fidèles de Gozreh officie sur la côte Ouest du [[Garund]] et voue une vénération particulière à l'Oeil d'Abendego, un typhon permanent apparût à la mort d'Aroden.
 
 ### Temples
 
@@ -37,8 +37,8 @@ Les textes de Gozreh sont des guides de la vie sauvage, des almanachs, séparés
 Hymnes aux vents et aux vagues : Ce livre contient des prières, des règles de bonne conduite et de respect de la nature.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [deuxième volume](./../Aventures/Présentation AP7.md#AP7-2) de la septième campagne, [Le Crâne du Serpent](./../Aventures/Présentation AP7.md), contient un article sur ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP7#AP7-2|deuxième volume]] de la septième campagne, [[Aventures.Présentation AP7|Le Crâne du Serpent]], contient un article sur ce dieu.
 {s:VoirAussiAprès}

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.207}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille G, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Vermine|Vermine]] de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 10, pris au dépourvu 14 (Dex +1, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 30 (4d8+12)}
@@ -23,21 +23,21 @@ Categories:
 {s:BDTexte|**Immunités** effets mentaux }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 9 m (6 {s:c}), vol 12 m (8 {s:c}) (médiocre)}
-{s:BDTexte|**Corps à corps** 2 griffes +5 (1d6+3 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** 2 griffes +5 (1d6+3 et [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Attaques spéciales** attaque soudaine, fente, mandibules}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 13, **Con** 16, **Int** -, **Sag** 14, **Cha** 11}
-{s:BDTexte|**BBA** +3, **BMO** +7 (+11 pour la [lutte](./lutte.md)), **DMD** 18 (22 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +1 (+13 dans les forêts), [Escalade](./Escalade.md) +11, [Perception](./Perception.md) +6, [Vol](./Vol.md) -5 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) (+12 dans les forêts), +4 en [Perception](./Perception.md)}
+{s:BDTexte|**BBA** +3, **BMO** +7 (+11 pour la [[lutte]]), **DMD** 18 (22 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +1 (+13 dans les forêts), [[Escalade]] +11, [[Perception]] +6, [[Vol]] -5 ; **Modificateurs raciaux** +4 en [[Discrétion]] (+12 dans les forêts), +4 en [[Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Attaque soudaine (Ext).** Les mantes géantes réagissent rapidement après avoir surpris leurs victimes. Lors du [round de surprise](./round de surprise.md), elles peuvent agir comme si elles disposaient d'un [round](./Types dactions.md) entier (au lieu d'une [action simple](./Action simple.md) seulement).}
-{s:BDTexte|**Fente (Ext).** Les pattes d'une mandibule géante lui donnent une [allonge](./allonge.md) supérieure à celle des autres créatures de sa taille. Elle peut choisir d'utiliser une [action complexe](./Action complexe.md) pour porter une unique attaque de griffes en bénéficiant du double de son allonge normale et d'un bonus de +4 au [jet d'attaque](./jet dattaque.md). les mantes géantes ne peuvent pas utiliser cette capacité pour effectuer des [attaques d'opportunité](./attaque dopportunité.md).}
-{s:BDTexte|**Mandibules (Ext).** Lorsqu'une mante géante [agrippe](./Agrippé.md) un ennemi, elle peut effectuer une attaque de morsure contre lui. Il s'agit d'une [attaque secondaire](./Attaques naturelles (capacité).md) qui dispose d'un bonus de +0 au toucher et inflige 1d6+1 points de dégâts en cas de réussite.}
+{s:BDTexte|**Attaque soudaine (Ext).** Les mantes géantes réagissent rapidement après avoir surpris leurs victimes. Lors du [[round de surprise]], elles peuvent agir comme si elles disposaient d'un [[types dactions|round]] entier (au lieu d'une [[action simple]] seulement).}
+{s:BDTexte|**Fente (Ext).** Les pattes d'une mandibule géante lui donnent une [[allonge]] supérieure à celle des autres créatures de sa taille. Elle peut choisir d'utiliser une [[action complexe]] pour porter une unique attaque de griffes en bénéficiant du double de son allonge normale et d'un bonus de +4 au [[jet dattaque|jet d'attaque]]. les mantes géantes ne peuvent pas utiliser cette capacité pour effectuer des [[attaque dopportunité|attaques d'opportunité]].}
+{s:BDTexte|**Mandibules (Ext).** Lorsqu'une mante géante [[agrippé|agrippe]] un ennemi, elle peut effectuer une attaque de morsure contre lui. Il s'agit d'une [[attaques naturelles (capacité)|attaque secondaire]] qui dispose d'un bonus de +0 au toucher et inflige 1d6+1 points de dégâts en cas de réussite.}
 </div>
 
 
@@ -96,7 +96,7 @@ vorace. Une mante mortelle est une mante géante évoluée de taille
 Colossale, avec 16 DV et un FP de 14.
 
 #### La mante géante comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m (6 {s:c}), escalade 9 m (6 {s:c}), vol 12 m (8 {s:c}) (moyenne) ; **CA** armure naturelle +3 ; **Attaques** 2 griffes (1d4 plus étreinte) ; **Attaques spéciales** fente ; **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 15, [Con](./Constitution.md) 10, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 7 ; **Particularité** [vision dans le noir](./vision dans le noir.md) ; **DMD** croc-en-jambe +8
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m (6 {s:c}), escalade 9 m (6 {s:c}), vol 12 m (8 {s:c}) (moyenne) ; **CA** armure naturelle +3 ; **Attaques** 2 griffes (1d4 plus étreinte) ; **Attaques spéciales** fente ; **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 15, [[Constitution|Con]] 10, [[Intelligence|Int]] –, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 7 ; **Particularité** [[vision dans le noir]] ; **DMD** croc-en-jambe +8
 
-**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** 2 griffes (1d6) ; **Attaques spéciales** attaque soudaine ([attaque à outrance](./attaque à outrance.md) lors du round de surprise), mandibules (1d6 attaque secondaire contre une cible agrippée) ; **Caractéristiques** For +8, Dex -2, Con +4
+**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** 2 griffes (1d6) ; **Attaques spéciales** attaque soudaine ([[attaque à outrance]] lors du round de surprise), mandibules (1d6 attaque secondaire contre une cible agrippée) ; **Caractéristiques** For +8, Dex -2, Con +4
 </div></td></tr></table>

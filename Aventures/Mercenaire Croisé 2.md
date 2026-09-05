@@ -9,16 +9,16 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Mercenaire Croisé|FP 1/2}
-{s:BDTexte|*Base : [Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes], p.352*}
+{s:BDTexte|*Base : [[Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes]], p.352*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Humain](./../Pathfinder-RPG/Humain.md) (m/f) [Guerrier](./../Pathfinder-RPG/Guerrier.md) 2}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, LB}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./../Pathfinder-RPG/Perception.md) +0}
+{s:BDTexte|[[Pathfinder-RPG.Humain|Humain]] (m/f) [[Pathfinder-RPG.Guerrier|Guerrier]] 2}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] de taille M, LB}
+{s:BDTexte|**Init** +1 ; **Sens** [[Pathfinder-RPG.Perception|Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 11, dépourvu 12(Dex +1, armure +2)}
 {s:BDTexte|**pv** 15 (2d10+4)}
 {s:BDTexte|**Réf** +1, **Vig** +4, **Vol** +0 }
-{s:BDTexte|**Part** [courage +1](./../Pathfinder-RPG/Guerrier.md#COURAGE) }
+{s:BDTexte|**Part** [[Pathfinder-RPG.guerrier#COURAGE|courage +1]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** épée longue +3 (1d8+1/19–20)}
@@ -26,7 +26,7 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 13, **Dex** 13, **Con** 12, **Int** 9, **Sag** 10, **Cha** 8}
 {s:BDTexte|**BBA** +2, **BMO** +3, **DMD** 14}
-{s:BDTexte|**Dons** Talent (Discrétion ), [Tir à bout portant](./../Pathfinder-RPG/Tir à bout portant.md)}
+{s:BDTexte|**Dons** Talent (Discrétion ), [[Pathfinder-RPG.Tir à bout portant|Tir à bout portant]]}
 {s:BDTexte|**Compétences** Discrétion +6, Intimidation +4}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Equipement de combat}

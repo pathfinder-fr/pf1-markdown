@@ -5,9 +5,9 @@ LastModified: 2022-09-25 18:55
 ---
 
 <img src="Logos/PFS2/Year of Shattered Sanctuaries.png" class="fright" alt="">
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page PFS pour Pathfinder 2](./PFS.md)
+• [[PFS|Retour à la page PFS pour Pathfinder 2]]
 
 ### Année des Sanctuaires Brisés
 Il y a 6 arcs qui composent le Metaplot de l'année 3 :   

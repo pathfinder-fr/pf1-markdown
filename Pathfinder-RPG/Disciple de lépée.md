@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Votre dévotion à la maîtrise de l'arme de la bravoure humilie les autres.*
 
-**Conditions.** [Arme de prédilection](./Arme de prédilection.md) (épée longue), [prêtre](./Prêtre.md) ou [inquisiteur](./Inquisiteur.md) de niveau 4, suivant d'[Iomédae](./Iomédae (technique).md)
+**Conditions.** [[Arme de prédilection]] (épée longue), [[prêtre]] ou [[inquisiteur]] de niveau 4, suivant d'[[Iomédae (technique)|Iomédae]]
 
-**Avantage.** Le personnage obtient les avantages de [Spécialisation martiale](./Spécialisation martiale.md) (épée longue) et peut traiter ses niveaux de [prêtre](./Prêtre.md) ou d'[inquisiteur](./Inquisiteur.md) comme des niveaux de [guerrier](./Guerrier.md) afin de remplir les conditions des dons [Arme de prédilection supérieure](./Arme de prédilection supérieure.md) (épée longue) et [Spécialisation martiale supérieure](./Spécialisation martiale supérieure.md) (épée longue). Ce don peut être utilisé à la place de Spécialisation martiale (épée longue) pour remplir les conditions de Spécialisation martiale supérieure (épée longue).
+**Avantage.** Le personnage obtient les avantages de [[Spécialisation martiale]] (épée longue) et peut traiter ses niveaux de [[prêtre]] ou d'[[inquisiteur]] comme des niveaux de [[guerrier]] afin de remplir les conditions des dons [[Arme de prédilection supérieure]] (épée longue) et [[Spécialisation martiale supérieure]] (épée longue). Ce don peut être utilisé à la place de Spécialisation martiale (épée longue) pour remplir les conditions de Spécialisation martiale supérieure (épée longue).

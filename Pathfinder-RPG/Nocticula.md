@@ -11,7 +11,7 @@ LastModified: 2021-04-10 22:53
 {s:BDTexte|*Source : La colère des Justes p.544 et Livre des Damnés p.89*}
 {s:BDTexte|Seigneur démon (f ) des assassins, des ténèbres et de la luxure}
 - **9 830 400 PX**
-- [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille M, CM
+- [[type extérieur|Extérieur]] ([[sous-type chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type mal|Mal]]) de taille M, CM
 - **Init **+13 ; **Sens **détection de la Loi, détection du Bien, vision dans le noir 18 m, vision lucide ; Perception +58
 - **Aura** aura maudite (DD 33), présence séduisante(54 m, DD 43)
 (((Défense)))
@@ -28,10 +28,10 @@ LastModified: 2021-04-10 22:53
 - **Distance** Baiser des ombres, +54/+49/+44/+39 (1d4+20/17-20 plus poison)
 - **Attaques spéciales** absorbtion d'énergie, ascension blasphématoire, attaque sournoise +4d6, combustion (3d6 feu, DD 44), Domination écrasante, poison, tir cruel
 - **Pouvoirs magiques** (**NLS **30)
-  - *Constant* — [aura maudite](./Aura maudite.md) (DD 33), [détection de la Loi](./Détection de la Loi.md), [détection du Bien](./Détection du Bien.md), [liberté de mouvement](./Liberté de mouvement.md), [vision lucide](./Vision lucide.md) 
-  - *À volonté* — [blasphème](./Blasphème.md) (DD 32), [changement de forme](./Changement de forme.md), [dissipation suprême](./Dissipation suprême.md), Marteau du chaos (DD 29), mot de pouvoir aveuglant, [profanation](./Profanation.md), [projection astrale](./Projection astrale.md), [sanctification maléfique](./Sanctification maléfique.md), [télékinésie](./Télékinésie.md) (DD 30), [téléportation suprême](./Téléportation suprême.md), [ténèbres profondes](./Ténèbres profondes.md) 
-  - 3/jour — convocation de démons, Doigt de la mort (DD 32), suggestion de groupe à incantation rapide (DD 31), [symbole de mort](./Symbole de mort.md) (DD 33)
-  - 1/jour — [arrêt du temps](./Arrêt du temps.md), capture d'âme (DD 34), plainte d'outre tombe (DD 34)
+  - *Constant* — [[aura maudite]] (DD 33), [[détection de la Loi]], [[détection du Bien]], [[liberté de mouvement]], [[vision lucide]] 
+  - *À volonté* — [[blasphème]] (DD 32), [[changement de forme]], [[dissipation suprême]], Marteau du chaos (DD 29), mot de pouvoir aveuglant, [[profanation]], [[projection astrale]], [[sanctification maléfique]], [[télékinésie]] (DD 30), [[téléportation suprême]], [[ténèbres profondes]] 
+  - 3/jour — convocation de démons, Doigt de la mort (DD 32), suggestion de groupe à incantation rapide (DD 31), [[symbole de mort]] (DD 33)
+  - 1/jour — [[arrêt du temps]], capture d'âme (DD 34), plainte d'outre tombe (DD 34)
 (((Statistiques)))
 - **For** 34, **Dex** 36, **Con** 42, **Int** 35, **Sag** 32, **Cha** 40
 - **BBA** +36; **BMO** +48 ; **DMD** 89
@@ -44,7 +44,7 @@ LastModified: 2021-04-10 22:53
 - **Organisation **solitaire (unique)
 - **Trésor** triple (Baiser des ombres, divers bijoux pour une valeur totale de 100 000 po, autres trésors)
 (((Pouvoirs spéciaux)))
-- **Absorption d'énergie (Sur).** L’absorption d'énergie de Nocticula fonctionne comme celle d'un [Succube](./Succube.md), sauf qu'elle absorbe 2 niveaux lorsqu'elle utilise ce pouvoir contre des créatures mythiques ou 1d6+4 niveaux contre des créatures non-mythiques.
+- **Absorption d'énergie (Sur).** L’absorption d'énergie de Nocticula fonctionne comme celle d'un [[Succube]], sauf qu'elle absorbe 2 niveaux lorsqu'elle utilise ce pouvoir contre des créatures mythiques ou 1d6+4 niveaux contre des créatures non-mythiques.
 - **Ascension blasphématoire (Sur).** Quand Nocticula se livre à un acte passionné avec un mortel consentant, elle peut lui accorder une ascension blasphématoire. Le nom de la cible apparaît en runes abyssales luisante sur ses ailes et une marque cramoisie apparaît quelque part sur le corps de la cible. Celle ci gagne immédiatement n bonus de malfaisance de +6 à une valeur de caractéristique de son choix, un bonus de malfaisance de +4 à une autre valeur de caractéristique de son choix et le pouvoir de vision dans les ténèbres. Une même créature ne peut bénéficier que d'une seule ascension blasphématoire à la fois. Tant que l'effet persiste, Nocticula peut communiquer par télépathie avec elle, quelle que soit la distance qui les sépare, et elle peut utiliser ses pouvoirs magiques par son biais. Ces pouvoirs se manifestent comme si c'était la cible qui les utilisait. Une ascension blasphématoire peut être dissipée grâce à un miracle ou un souhait. Nocticula peut la dissiper par une action libre, ce qui inflige une diminution permanente de 4d6 points de Charisme et 1d10+10 niveaux négatifs permanent à la cible.
 - **Domination écrasante (Sur).** Par une action simple Nocticula peut écraser la volonté d'un adversaire. Nocticula doit voir la cible, située à 36m ou moins. Celle ci doit réussir un jet de volonté DD 43 pour ne pas tomber sous l'influence de Nocticula en reproduisant les effets d'un domination universelle (NLS 30). Si elle utilise domination écrasante contre une créature humanoïde, elle peut décider à la place ce pouvoir par une action rapide et celui ci fonctionne comme une domination. Tant que la cible subit cet effet, elle gagne un bonus de malfaisance de +4 aux jets de sauvegarde contre les cibles autres que Nocticula.
 - **Poison (Ext).** Dard ou arbalète de poing - blessure; JS Vig DD 44; fréquence 1/round pendant 6 round; effet diminution permanente 1d4 Sagesse plus paralysie pendant 1 round. Ceux qui ratent deux jets de sauvegarde consécutifs contre ce poison son définitivement aveugles. Le DD du jet de sauvegarde est basé sur la Constitution.
@@ -82,9 +82,9 @@ cas la victime précédente est à nouveau libre d’agir,
 mais est étourdie pendant 1d4 rounds.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs démons](./Seigneurs démons.md).***</li></ul>*Cette créature effroyablement majestueuse déploie ses ailes couvertes de runes. Du fer en fusion s'écoule de ses sabots et ses trois queues son couvertes de barbelures*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs démons]].***</li></ul>*Cette créature effroyablement majestueuse déploie ses ailes couvertes de runes. Du fer en fusion s'écoule de ses sabots et ses trois queues son couvertes de barbelures*
 
-Nocticula est le [seigneur démon](./Seigneurs démons.md) des assassins, des ténèbres et de la luxure. Elle règne sur le royaume abyssal des îles de Minuit, un vaste archipel qui s'est formé autour des vestiges de plusieurs dizaines de seigneurs démons et autres puissants adversaires assassinés. Nocticula a été la première succube puis s'est élevée au rang de Dmi-Déesse. Elle vise à présent l'étape supérieure : la complète déification. Lamashtu est le seul seigneur démon ayant accompli cette épreuve jusqu'à maintenant et Nocticula a la ferme intention d'être la deuxième. Tout le monde se demande quelle genre de divinité Nocticula va devenir. certains pensent qu'elle cherche en secret la rédemption pour renier sa nature démoniaque. D'autres affirment que Nocticula est à l'origine de ces rumeurs, unn grand mensonge pour détourner ses ennemis de son véritable objectif : devenir l'assassin et la séductrice des dieux.
+Nocticula est le [[Seigneurs démons|seigneur démon]] des assassins, des ténèbres et de la luxure. Elle règne sur le royaume abyssal des îles de Minuit, un vaste archipel qui s'est formé autour des vestiges de plusieurs dizaines de seigneurs démons et autres puissants adversaires assassinés. Nocticula a été la première succube puis s'est élevée au rang de Dmi-Déesse. Elle vise à présent l'étape supérieure : la complète déification. Lamashtu est le seul seigneur démon ayant accompli cette épreuve jusqu'à maintenant et Nocticula a la ferme intention d'être la deuxième. Tout le monde se demande quelle genre de divinité Nocticula va devenir. certains pensent qu'elle cherche en secret la rédemption pour renier sa nature démoniaque. D'autres affirment que Nocticula est à l'origine de ces rumeurs, unn grand mensonge pour détourner ses ennemis de son véritable objectif : devenir l'assassin et la séductrice des dieux.
 L'attitude et la personnalité de Nocticula sont certainement changeantes. Elle peut simplement assassiner ou jeter en esclavage les visiteurs de passage dans son royaume, ou les accueillir à bras ouvert, même ceux que l'on pourrait considérer comme ses ennemis. Seuls les fous acceptent ses invitations sans hésitation car les souhaits de la reine des succubes peuvent changer du tout au tout en un éclair.
 
 La première des succubes est une créature

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.43*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)}
 {s:BDTexte|**pv** 9 (1d8+5)}
@@ -27,14 +27,14 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 14, **Con** 15, **Int** 2, **Sag** 12, **Cha** 8}
 {s:BDTexte|**BBA** +0, **BMO** +2, **DMD** 14}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +6}
+{s:BDTexte|**Dons** [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts, marais ou souterrain, climat tempéré}
 {s:BDTexte|**Organisation sociale** solitaire ou meute (2-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Réaction allergique (Ext)** Les peaux mortes des chiens gobelins produisent de fortes irritations chez toutes les créatures qui n'appartiennent pas au sous-type "[gobelinoïde](./sous-type gobelinoïde.md)". Chaque fois qu'une créature non gobelinoïde est mordue par un chien gobelin ou qu'elle attaque un chien gobelin à l'aide d'une arme naturelle, à mains nues ou encore qu'elle entre en contact avec un chien gobelin pour toute autre raison (en tentant de l'agripper ou de le monter par exemple), elle doit effectuer un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 12 pour éviter de ressentir de fortes démangeaisons. En cas d'échec, la victime subit un malus de -2 à la [Dextérité](./Dextérité.md) et au [Charisme](./Charisme.md) pendant 1 jour (en cas de réactions allergiques multiples, les effets ne se cumulent pas). Les démangeaisons cessent immédiatement si elle reçoit un sort de *[guérison des maladies](./Guérison des maladies.md)* ou un soin magique. il s'agit d'un effet de type "maladie". Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Réaction allergique (Ext)** Les peaux mortes des chiens gobelins produisent de fortes irritations chez toutes les créatures qui n'appartiennent pas au sous-type "[[sous-type gobelinoïde|gobelinoïde]]". Chaque fois qu'une créature non gobelinoïde est mordue par un chien gobelin ou qu'elle attaque un chien gobelin à l'aide d'une arme naturelle, à mains nues ou encore qu'elle entre en contact avec un chien gobelin pour toute autre raison (en tentant de l'agripper ou de le monter par exemple), elle doit effectuer un jet de [[Vigueur]] de [[DD]] 12 pour éviter de ressentir de fortes démangeaisons. En cas d'échec, la victime subit un malus de -2 à la [[Dextérité]] et au [[Charisme]] pendant 1 jour (en cas de réactions allergiques multiples, les effets ne se cumulent pas). Les démangeaisons cessent immédiatement si elle reçoit un sort de *[[guérison des maladies]]* ou un soin magique. il s'agit d'un effet de type "maladie". Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>*Les yeux globuleux de ce canin glabre, son nez plat et ses dents saillantes font ressembler son visage à celui d’un énorme rat.*
 
@@ -80,7 +80,7 @@ Un chien gobelin mesure 1,50 mètre de long mais ne pèse que 37,5 kg.
 
 #### Le chien gobelin comme compagnon animal
 
-**Caractéristiques de départ** **Taille** P ; **Vitesse** 15 m (10 {s:c})  ; **Attaque** morsure (1d4) ; **Caractéristiques** For 11, Dex 16, Con 11, Int 2, Sag 12, Cha 8 ; **Particularités** réaction allergique, [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ** **Taille** P ; **Vitesse** 15 m (10 {s:c})  ; **Attaque** morsure (1d4) ; **Caractéristiques** For 11, Dex 16, Con 11, Int 2, Sag 12, Cha 8 ; **Particularités** réaction allergique, [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4** : **Taille** M ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For +4, Dex –2, Con +4.
 </div></td></tr></table>

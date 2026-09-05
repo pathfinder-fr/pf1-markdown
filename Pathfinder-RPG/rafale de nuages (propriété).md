@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Rafale de nuages
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Rafale de nuages](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Rafale de nuages)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Rafale de nuages]]

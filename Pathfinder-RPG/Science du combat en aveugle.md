@@ -11,16 +11,16 @@ Categories:
 
 {s:apg}*Les sens aiguisés du personnage guident sa main lorsqu’il affronte des ennemis invisibles.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Perception](./Perception.md) 10 rangs, [Combat en aveugle](./Combat en aveugle.md).
+**Conditions.** [[Perception]] 10 rangs, [[Combat en aveugle]].
 
-**Avantage.** Lorsque le personnage attaque au corps au corps, il ignore le pourcentage d’échec dû au [camouflage](./camouflage.md) si celui-ci est inférieur à un camouflage total. En cas d’échec, le personnage a toujours la possibilité de relancer le jet de pourcentage.
+**Avantage.** Lorsque le personnage attaque au corps au corps, il ignore le pourcentage d’échec dû au [[camouflage]] si celui-ci est inférieur à un camouflage total. En cas d’échec, le personnage a toujours la possibilité de relancer le jet de pourcentage.
 
-Si le personnage parvient à localiser avec précision un attaquant invisible ou caché dans un rayon de 9 m (6 cases), ce dernier ne bénéficie d’aucun avantage spécial lorsqu’il attaque le personnage à distance. En d’autres termes, le personnage ne perd pas son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) et l’attaquant ne bénéficie pas du bonus de +2 auquel il aurait normalement droit vu son invisibilité.
+Si le personnage parvient à localiser avec précision un attaquant invisible ou caché dans un rayon de 9 m (6 cases), ce dernier ne bénéficie d’aucun avantage spécial lorsqu’il attaque le personnage à distance. En d’autres termes, le personnage ne perd pas son bonus de [[Dextérité]] à la [[CA]] et l’attaquant ne bénéficie pas du bonus de +2 auquel il aurait normalement droit vu son invisibilité.
 
-**Spécial.** Ce don n’a aucun effet contre un personnage qui est affecté par un sort de *[clignotement](./Clignotement.md)*.
+**Spécial.** Ce don n’a aucun effet contre un personnage qui est affecté par un sort de *[[clignotement]]*.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage attaque un adversaire qui bénéficie d’un [camouflage total](./camouflage total.md), il peut dépenser 5 points d’endurance pour considérer que son camouflage est normal (20% de chances de rater au lieu de 50%).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage attaque un adversaire qui bénéficie d’un [[camouflage total]], il peut dépenser 5 points d’endurance pour considérer que son camouflage est normal (20% de chances de rater au lieu de 50%).

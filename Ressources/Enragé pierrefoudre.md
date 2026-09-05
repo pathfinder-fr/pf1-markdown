@@ -64,7 +64,7 @@ Pour devenir un enragé pierrefoudre, il faut satisfaire aux conditions suivante
 
 **Bonus de base à l’attaque.** +3.
 
-**Dons.** [Arme de prédilection](./../Pathfinder-RPG/Arme de prédilection.md)(arme contondante ou explosion cinétique), [Sort élémentaire](./Pathfinder-RPG--Sort-élémentaire.md) (Terre ou air), capacité de classe explosion cinétique (air ou terre), élément de prédilection (air ou terre).
+**Dons.** [[Pathfinder-RPG.Arme de prédilection|Arme de prédilection]](arme contondante ou explosion cinétique), [[Pathfinder-RPG. Sort élémentaire|Sort élémentaire]] (Terre ou air), capacité de classe explosion cinétique (air ou terre), élément de prédilection (air ou terre).
 
 **Spécial.** Capacité à lancer 3 sorts différents (les sorts à double registre ne comptent que pour 1) du registre de l'air et/ou de la terre, dont au moins 1 de niveau 3 (répartition au choix, les registres acquis via un don ou une capacité de classe comptent pour ce critère).
 
@@ -73,9 +73,9 @@ Pour devenir un enragé pierrefoudre, il faut satisfaire aux conditions suivante
 
 
 ### Compétences de classe
-Voici les compétences de classe de l'enragé pierrefoudre : [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) (Dex), [Escalade](./../Pathfinder-RPG/Escalade.md) (For),  [Intimidation](./../Pathfinder-RPG/Intimidation.md) (Cha), [Natation](./../Pathfinder-RPG/Natation.md) (For), [Perception](./../Pathfinder-RPG/Perception.md) (Sag), [Connaissances (plans)](./Pathfinder-RPG-Connaissances-(plans).md) (Int).
+Voici les compétences de classe de l'enragé pierrefoudre : [[Pathfinder-RPG.Acrobaties|Acrobaties]] (Dex), [[Pathfinder-RPG.Escalade|Escalade]] (For),  [[Pathfinder-RPG.Intimidation|Intimidation]] (Cha), [[Pathfinder-RPG.Natation|Natation]] (For), [[Pathfinder-RPG.Perception|Perception]] (Sag), [[Pathfinder-RPG.Connaissances (plans)|Connaissances (plans)]] (Int).
 
-**Nombre de rangs par niveau.** 3+modificateur d’[Ìntelligence](./../Pathfinder-RPG/Intelligence.md)
+**Nombre de rangs par niveau.** 3+modificateur d’[[Pathfinder-RPG.Intelligence|Ìntelligence]]
 
 
 

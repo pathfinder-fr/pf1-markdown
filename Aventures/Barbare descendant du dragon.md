@@ -10,7 +10,7 @@ LastModified: 2023-10-22 18:43
 
 {s:BDTitre|Barbare disciple du dragon rouge|FP 8}
 **PX** 4 800
-{s:BDTexte|[Barbare](./../Pathfinder-RPG/Barbare.md) 4 (frère élémentaire) ; [ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) 1 ; [Disciple du dragon](./../Pathfinder-RPG/Disciple draconien.md) (rouge) 4 (PNJ héroïque)}
+{s:BDTexte|[[Pathfinder-RPG.Barbare|Barbare]] 4 (frère élémentaire) ; [[Pathfinder-RPG.ensorceleur|ensorceleur]] 1 ; [[Pathfinder-RPG.Disciple draconien|Disciple du dragon]] (rouge) 4 (PNJ héroïque)}
 {s:BDTexte|humanoïde (humain) de taille M (CM)}
 {s:BDTexte|**Init **+3 ; **Sens **Perception +11}
 {s:BDSousTitre|CAPACITÉS DÉFENSIVES}
@@ -55,7 +55,7 @@ Rage élémentaire (+ 1d6 dégâts de feu aux attaques 1 round/jour)}
 
 1 (7/jour) - *agrandissement, saut, repli expéditif, armure du mage*  
 
-0 (A Volonté) - *réparation, signature, ouverture, lecture de la magie, [Contact brûlant](./Contact brûlant.md)*}
+0 (A Volonté) - *réparation, signature, ouverture, lecture de la magie, [[Contact brûlant]]*}
 {s:BDSousTitre|TACTIQUE}
 {s:BDTexte|**Avant le combat**. s'il en a le temps, ce barbare jeter des sorts tel *agrandissement* pour se préparer. Il entre en rage et se jette au corps à corpsdès que possible.}
 {s:BDTexte|**Pendant le combat**. Le barbare utilisera son don d’attaque en puissance dès le début du combat, n’optant pour des attaques plus précises que si ces coups puissants ne lui permettent visiblement pas de toucher sa cible. Il utilisera sa grande mobilité pour charger si nécessaire. Il préfère se battre au corps à corps et n’utilisera ses haches de lancer ou ses sorts qu’en dernier recours ou pour éliminer un adversaire qui s’enfuit.}

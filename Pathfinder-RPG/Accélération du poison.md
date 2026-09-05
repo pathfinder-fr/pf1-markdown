@@ -12,18 +12,18 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[poison](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Rôd](./Rôdeur.md) 2  
+{s:APG}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Rôdeur|Rôd]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une épine)  
+**Composantes** [[Composantes|V, G, M]] (une épine)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage accélère le délai d'effet du [poison](./poison.md) de la cible. Si le [poison](./poison.md) met habituellement un certain temps avant de faire effet, il s'applique immédiatement. S'il n'en a pas, sa fréquence est doublée, il faut donc faire deux [jets de sauvegarde](./jet de sauvegarde.md) et il inflige le double de dégâts par round ou minute, bien que sa durée soit réduite de moitié. *Accélération du poison* ne change pas les conditions de soin du [poison](./poison.md). Si la cible est affectée par plusieurs [poisons](./Poisons.md), le personnage peut déterminer celui qui l'affecte s'il l'a lui-même administré sinon, le [poison](./poison.md) affecté est choisi au hasard.
+Le personnage accélère le délai d'effet du [[poison]] de la cible. Si le [[poison]] met habituellement un certain temps avant de faire effet, il s'applique immédiatement. S'il n'en a pas, sa fréquence est doublée, il faut donc faire deux [[Jet de sauvegarde|jets de sauvegarde]] et il inflige le double de dégâts par round ou minute, bien que sa durée soit réduite de moitié. *Accélération du poison* ne change pas les conditions de soin du [[poison]]. Si la cible est affectée par plusieurs [[poisons]], le personnage peut déterminer celui qui l'affecte s'il l'a lui-même administré sinon, le [[poison]] affecté est choisi au hasard.

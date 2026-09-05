@@ -11,9 +11,9 @@ Categories:
 
 {s:MMI}*Les sorts d’obscurité du personnage sont concrets et entravent ses ennemis.*
 
-**Catégorie** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie** [[dons#DONMETAMAGIE|métamagie]]
 
-**Conditions** [Sort ténébreux](./Sort ténébreux.md), [Sort umbral](./Sort umbral.md)
+**Conditions** [[Sort ténébreux]], [[Sort umbral]]
 
 **Avantage.** Quand le personnage lance un sort du registre de l’obscurité qui affecte une zone, les créatures dans la zone sont enchevêtrées. Si le sort autorise un jet de sauvegarde, la réussite de ce jet annule l’effet d’enchevêtrement. Si le sort n’autorise normalement aucun jet de sauvegarde, les créatures affectées peuvent effectuer un jet de Réflexes (DD = le DD du sort comme s’il autorisait un jet de sauvegarde) pour annuler l’effet. Si la résistance à la magie permet de résister au sort et si le test associé pour l’ignorer rate, la créature qui en bénéficie n’est pas enchevêtrée.
 

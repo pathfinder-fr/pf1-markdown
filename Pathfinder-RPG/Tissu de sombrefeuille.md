@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#TISSUDESOMBREFEUILLE
 ---
 
->>> [Matériaux spéciaux#TISSUDESOMBREFEUILLE](./Matériaux spéciaux.md#TISSUDESOMBREFEUILLE)
+>>> [[Matériaux spéciaux#TISSUDESOMBREFEUILLE]]

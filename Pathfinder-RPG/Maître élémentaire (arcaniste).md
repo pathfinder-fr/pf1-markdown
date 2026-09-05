@@ -17,7 +17,7 @@ Au niveau 1, le maître élémentaire doit choisir un élément : l’air, l’e
 feu à l’eau) prennent deux emplacements de sort. Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 1.
 
 #### Attaque élémentaire (Sur)
-Au niveau 3, le maître élémentaire gagne une [exploitation d’arcaniste](./Exploitations.md) liée à son élément. S’il a choisi l’air, il gagne l’exploitation d’arcaniste lance de foudre, jet acide s’il a choisi la terre, jet de feu s’il a choisi le feu et projectile de glace s’il a choisi l’eau. Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 3.
+Au niveau 3, le maître élémentaire gagne une [[exploitations|exploitation d’arcaniste]] liée à son élément. S’il a choisi l’air, il gagne l’exploitation d’arcaniste lance de foudre, jet acide s’il a choisi la terre, jet de feu s’il a choisi le feu et projectile de glace s’il a choisi l’eau. Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 3.
 
 #### Puissante exploitation (Sur)
 Au niveau 9, le maître élémentaire fait passer les dégâts infligés par son attaque élémentaire à 1d8 points de dégâts d’énergie plus 1d8 points de dégâts supplémentaires par tranche de deux niveaux d’arcaniste possédés. Le type de dégâts est déterminé par celui de l’attaque élémentaire. De plus, la portée de l’aptitude attaque élémentaire s’élève désormais à 18 mètres (une ligne de 18 mètres de long dans le cas du jet de feu). Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 9.

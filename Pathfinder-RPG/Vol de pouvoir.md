@@ -14,9 +14,9 @@ Categories:
 ---
 
 {s:cmy}
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Hyp](./Hypnotiseur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Prê](./Prêtre.md) 5, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5  
+**École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
 **Composantes** V, G  
 
@@ -26,6 +26,6 @@ Categories:
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), annule ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], annule ; **Résistance à la magie** oui
 
-Le personnage draine le [pouvoir](./pouvoir mythique.md) d’une créature mythique et l’utilise pour restaurer le sien. La cible perd 1d4 utilisations de [pouvoir mythique](./pouvoir mythique.md). Si le personnage possède une aptitude qui lui permet de dépenser du [pouvoir mythique](./pouvoir mythique.md), il récupère autant d’utilisations que celles perdues par la cible.
+Le personnage draine le [[pouvoir mythique|pouvoir]] d’une créature mythique et l’utilise pour restaurer le sien. La cible perd 1d4 utilisations de [[pouvoir mythique]]. Si le personnage possède une aptitude qui lui permet de dépenser du [[pouvoir mythique]], il récupère autant d’utilisations que celles perdues par la cible.

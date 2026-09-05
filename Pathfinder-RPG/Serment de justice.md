@@ -9,9 +9,9 @@ Categories:
 - Sort prêtre 3
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Pal](./Paladin.md) 2, [Prê](./Prêtre.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Nécromancie]] ; **Niveau** [[paladin|Pal]] 2, [[prêtre|Prê]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
 **Portée** contact
 **Cible** deux créatures touchées
 **Durée** permanent (voir description)
@@ -19,4 +19,4 @@ Categories:
 
 *Ce sort est réservé aux personnages qui vénèrent le dieu nain des serments.*
 
-Ce sort scelle un serment solennel prononcé entre deux créatures. Lorsque ce sort est lancé, les cibles doivent se serrer la main et prononcer leur serment au nom du dieu nain des serments. Le sort fonctionne de la même façon que *[marque de la justice](./Marque de la justice.md)*, sauf exception indiquées ci-dessus. De plus, au lieu de subir une malédiction, une marque apparaît sur le visage du fautif et tous les nains qui la voient savent alors que la cible n’a pas respecté les termes d’un serment sacré, ce qui lui inflige une pénalité de -4 pour interagir avec eux. La marque peut être retirée de la même façon qu’une *[marque de la justice](./Marque de la justice.md)*, mais la deuxième cible de ce sort peut pardonner au briseur de serment, ce qui provoque également la disparition de la marque.
+Ce sort scelle un serment solennel prononcé entre deux créatures. Lorsque ce sort est lancé, les cibles doivent se serrer la main et prononcer leur serment au nom du dieu nain des serments. Le sort fonctionne de la même façon que *[[marque de la justice]]*, sauf exception indiquées ci-dessus. De plus, au lieu de subir une malédiction, une marque apparaît sur le visage du fautif et tous les nains qui la voient savent alors que la cible n’a pas respecté les termes d’un serment sacré, ce qui lui inflige une pénalité de -4 pour interagir avec eux. La marque peut être retirée de la même façon qu’une *[[marque de la justice]]*, mais la deuxième cible de ce sort peut pardonner au briseur de serment, ce qui provoque également la disparition de la marque.

@@ -15,120 +15,120 @@ Categories:
 <td style="width:32%">
 ### Aperçu d'Eberron
 <ul>
-<li>[Introduction](./../Pathfinder-RPG/Introduction.md)</li>
-<li>{s:PM|VIVREAEBERRON}[Vivre à Eberron](./Vivre à Eberron.md)
+<li>[[Introduction]]</li>
+<li>{s:PM|VIVREAEBERRON}[[Vivre à Eberron]]
 <ul ID="VIVREAEBERRON" CLASS="listecachée cadrebas">
-<li>[Le Monde et sa Géographie](./Vivre à Eberron.md#LEMONDE)</li>
-<li>[Religion et Alignement](./Vivre à Eberron.md#RELIGIONALIGNEMENT)</li>
-<li>[Dracogrames, Dracolythes & La Prophétie Des Dragons](./Vivre à Eberron.md#DRACOGRAMES)</li>
-<li>[Les Plans et Les Lunes](./Vivre à Eberron.md#PLANSETLUNES)</li>
-<li>[La Dernière Guerre](./Vivre à Eberron.md#DERNIEREGUERRE)</li>
-<li>[Conspirations et Faits Divers](./Vivre à Eberron.md#CONSPIRATION)</li>
+<li>[[Vivre à Eberron#LEMONDE|Le Monde et sa Géographie]]</li>
+<li>[[Vivre à Eberron#RELIGIONALIGNEMENT|Religion et Alignement]]</li>
+<li>[[Vivre à Eberron#DRACOGRAMES|Dracogrames, Dracolythes & La Prophétie Des Dragons]]</li>
+<li>[[Vivre à Eberron#PLANSETLUNES|Les Plans et Les Lunes]]</li>
+<li>[[Vivre à Eberron#DERNIEREGUERRE|La Dernière Guerre]]</li>
+<li>[[Vivre à Eberron#CONSPIRATION|Conspirations et Faits Divers]]</li>
 </ul>
 </li>
 </ul>
 
 ### Les personnages
 <ul>
-<li>{s:PM|RACESAEBERRON}[Les races additionnelles d'Eberron](./Les-races-additionnelles-d'Eberron.md)
+<li>{s:PM|RACESAEBERRON}[[Les races additionnelles d'Eberron]]
 <ul ID="RACESAEBERRON" CLASS="listecachée cadrebas">
-<li>[Les changelins](./../Pathfinder-RPG/changelin (race).md)</li>
-<li>[Les Demi-Daelkyrs](./Demi-daelkyr.md)</li>
-<li>[Humains-Contenant Vides](./Contenant.md)</li>
-<li>[Les Kalashtars](./Kalashtar.md)</li>
-<li>[Les Minotaures](./Minotaures.md)</li>
-<li>[Les Férals](./Féral.md)</li>
-<li>[Les Forgeliers](./Forgelier.md)</li>
+<li>[[changelin (race)|Les changelins]]</li>
+<li>[[Demi-daelkyr|Les Demi-Daelkyrs]]</li>
+<li>[[Contenant|Humains-Contenant Vides]]</li>
+<li>[[Kalashtar|Les Kalashtars]]</li>
+<li>[[Minotaures|Les Minotaures]]</li>
+<li>[[Féral|Les Férals]]</li>
+<li>[[Forgelier|Les Forgeliers]]</li>
 </ul>
 </li>
-<li>{s:PM|RACESBASEEBERRON}[Les Races d'Origine à Eberron](./Les-Races-d'Origine-à-Eberron.md)
+<li>{s:PM|RACESBASEEBERRON}[[Les Races d'Origine à Eberron]]
 <ul ID="RACESBASEEBERRON" CLASS="listecachée cadrebas">
-<li>[Les demi-elfes sur Eberron](./Demi-elfe-eberron.md)</li>
-<li>[Les demi-orques sur Eberron](./Demi-orque-eberron.md)</li>
-<li>[Les elfes sur Eberron](./Elfe-eberron.md)</li>
-<li>[Les gnomes sur Eberron](./Gnome-eberron.md)</li>
-<li>[Les halfelins sur Eberron](./Halfelin-eberron.md)</li>
-<li>[Les humains sur Eberron](./Humain-eberron.md)</li>
-<li>[Les nains sur Eberron](./Nain-eberron.md)</li>
+<li>[[Demi-elfe-eberron|Les demi-elfes sur Eberron]]</li>
+<li>[[Demi-orque-eberron|Les demi-orques sur Eberron]]</li>
+<li>[[Elfe-eberron|Les elfes sur Eberron]]</li>
+<li>[[Gnome-eberron|Les gnomes sur Eberron]]</li>
+<li>[[Halfelin-eberron|Les halfelins sur Eberron]]</li>
+<li>[[Humain-eberron|Les humains sur Eberron]]</li>
+<li>[[Nain-eberron|Les nains sur Eberron]]</li>
 </ul>
 </li>
 </ul>
 <ul>
-<li>{s:PM|LESCLASSESEBERRON}[Les Classes en Eberron](./Les-Classes-en-Eberron.md)
+<li>{s:PM|LESCLASSESEBERRON}[[Les Classes en Eberron]]
 <ul ID="LESCLASSESEBERRON" CLASS="listecachée cadrebas">
-<li>[Le Façonneur](./façonneur.md) *([Influx](./Influx.md))*</li>
-<li>[Divinités et Croyances](./../_Snippets/divin.md) *([domaines, sous-domaines](./../_Snippets/divin.md#DOMAINESETSOUS-DOMAINES),[dieux et croyances](./../_Snippets/divin.md#PANTHEON))*</li>
+<li>[[Façonneur|Le Façonneur]] *([[Influx]])*</li>
+<li>[[Divin|Divinités et Croyances]] *([[Divin#DOMAINESETSOUS-DOMAINES|domaines, sous-domaines]],[[Divin#PANTHEON|dieux et croyances]])*</li>
 </ul>
 </li>
-<li>{s:PM|PECLASSES}[Les Classes de Prestige d'Eberron](./Classes-de-prestige-eberron.md)
+<li>{s:PM|PECLASSES}[[Classes de prestige eberron|Les Classes de Prestige d'Eberron]]
 <ul ID="PECLASSES" CLASS="listecachée cadrebas">
-<li>[Le Poing d'argent (Argent Fist)](./poing-d’argent.md)</li>
-<li>[l’Ataviste (Atavist)](./ataviste.md)</li>
-<li>[Le Chien noir (Black Dog)](./chien-noir.md)</li>
-<li>[La Lame Orienne (Blade of Orien)](./lame-orienne.md)</li>
-<li>[Le Chevalier d’Ossement (Bone Knight)](./chevalier-d’ossement.md)</li>
-<li>[Le Ministre Filou (Cabinet Trickster)](./ministre-filou.md)</li>
-<li>[Le Scout Cannith (Cannith Scout)](./scout-cannith.md)</li>
-<li>[Le Mage Cataclysme (Cataclysm Mage)](./mage-cataclysme.md)</li>
-<li>[Le Vengeur du Cyre (Cyran Avenger)](./vengeur-du-cyre.md)</li>
-<li>[La Lanterne noire (Dark Lantern)](./lanterne-noire.md)</li>
-<li>[Le Gardien Deneith (Deneith Warden)](./gardien-deneith.md)</li>
-<li>[Le Diamant Draconique (Diamond Dragon)](./diamant-draconique.md)</li>
-<li>[Le Prophète Draconique (Dragon Prophet)](./prophète-draconique.md)</li>
-<li>[Le Légataire de Dracogramme (Dragonmark Heir)](./légataire-de-dracogramme.md)</li>
-<li>[Le Duraak'ash (Duraak'ash)](./duraak'ash.md)</li>
-<li>[L’Héritier élémentaire (Elemental Scion)](./héritier-élémentaire.md)</li>
-<li>[Le Mage de l’Excès (Escalation Mage)](./mage-de-l’excès.md)</li>
-<li>[Le Gardien des Secrets (Gatekeeper Mystagogue)](./gardien-des-secrets.md)</li>
-<li>[L’Héritier de Siberys (Heir of Siberys)](./héritier-de-siberys.md)</li>
-<li>[Le Maître des éléments (High Elemental Binder)](./maître-des-éléments.md)</li>
-<li>[L’Âme Exaltée (Illumine Soul)](./âme-Exaltée.md)</li>
-<li>[Le Prince Impur (Impure Prince)](./prince-impur.md)</li>
-<li>[Le Chevalier fantôme (Knight Phantom)](./chevalier-fantôme.md)</li>
-<li>[Le Prophète Medani (Medani Prophet)](./prophète-medani.md)</li>
-<li>[Le Parle-Lune (Moonspeaker)](./parle-Lune.md)</li>
-<li>[Le Chirurgien Non-Somatique (Nosomatic Chirurgeon)](./chirurgien-non-somatique.md)</li>
-<li>[Le Berger Planaire (Planar Shepherd)](./berger-planaire.md)</li>
-<li>[L’Erudit Audacieux (Primal Scholar)](./erudit-audacieux.md)</li>
-<li>[Le Percepensée Quori (Quori Mindhunter)](./percepensée-quori.md)</li>
-<li>[Le Renégat Maîtrefaiseur (Renegade Mastermaker)](./renégat-maîtrefaiseur.md)</li>
-<li>[La Lame de Revenant (Revenant Blade)](./lame-de-revenant.md)</li>
-<li>[Le Chasseur d’Ombre (Shadow Hunter)](./chasseur-d’ombre.md)</li>
-<li>[La Clé Argentée (Silver Key)](./clé-argentée.md)</li>
-<li>[Le Pyromancien d’Argent (Silver Pyromancer)](./pyromancien-d’argent.md)</li>
-<li>[L’Interprète de Concordance (Singer of Concordance)](./interprète-de-concordance.md)</li>
-<li>[L’Orateur Souverain (Sovereign Speaker)](./orateur-souverain.md)</li>
-<li>[Le Soldat Scarunifié (Spellcarved Soldier)](./soldat-scarunifié.md)</li>
-<li>[La Sentinelle de la Tempête (Storm Sentry)](./sentinelle-de-la-tempête.md)</li>
-<li>[Le Voleur de Vie (Thief of Life)](./voleur-de-vie.md)</li>
-<li>[Le Guide Eclatant (Thunder Guide)](./guide-eclatant.md)</li>
-<li>[Le Parchemin Délié (Unbound Scroll)](./parchemin-délié.md)</li>
-<li>[Le Garde-Bête Vadalis (Vadalis Beastkeeper)](./garde-bête-vadalis.md)</li>
-<li>[Le Mastodonte Forgelier (Warforged Juggernaut)](./mastodonte-forgelier.md)</li>
-<li>[Le Maître Lycantropoïde (Weretouched Master)](./maître-lycantropoïde.md)</li>
-<li>[Le Capitaine d’Aéronef Lyrandar (Windwright Captain)](./capitaine-d’aéronef-lyrandar.md)</li>
+<li>[[poing d’argent|Le Poing d'argent (Argent Fist)]]</li>
+<li>[[ataviste|l’Ataviste (Atavist)]]</li>
+<li>[[chien noir|Le Chien noir (Black Dog)]]</li>
+<li>[[lame orienne|La Lame Orienne (Blade of Orien)]]</li>
+<li>[[chevalier d’ossement|Le Chevalier d’Ossement (Bone Knight)]]</li>
+<li>[[ministre filou|Le Ministre Filou (Cabinet Trickster)]]</li>
+<li>[[scout cannith|Le Scout Cannith (Cannith Scout)]]</li>
+<li>[[mage cataclysme|Le Mage Cataclysme (Cataclysm Mage)]]</li>
+<li>[[vengeur du cyre|Le Vengeur du Cyre (Cyran Avenger)]]</li>
+<li>[[lanterne noire|La Lanterne noire (Dark Lantern)]]</li>
+<li>[[gardien deneith|Le Gardien Deneith (Deneith Warden)]]</li>
+<li>[[diamant draconique|Le Diamant Draconique (Diamond Dragon)]]</li>
+<li>[[prophète draconique|Le Prophète Draconique (Dragon Prophet)]]</li>
+<li>[[légataire de dracogramme|Le Légataire de Dracogramme (Dragonmark Heir)]]</li>
+<li>[[duraak'ash|Le Duraak'ash (Duraak'ash)]]</li>
+<li>[[héritier élémentaire|L’Héritier élémentaire (Elemental Scion)]]</li>
+<li>[[mage de l’excès|Le Mage de l’Excès (Escalation Mage)]]</li>
+<li>[[gardien des secrets|Le Gardien des Secrets (Gatekeeper Mystagogue)]]</li>
+<li>[[héritier de siberys|L’Héritier de Siberys (Heir of Siberys)]]</li>
+<li>[[maître des éléments|Le Maître des éléments (High Elemental Binder)]]</li>
+<li>[[âme Exaltée|L’Âme Exaltée (Illumine Soul)]]</li>
+<li>[[prince impur|Le Prince Impur (Impure Prince)]]</li>
+<li>[[chevalier fantôme|Le Chevalier fantôme (Knight Phantom)]]</li>
+<li>[[prophète medani|Le Prophète Medani (Medani Prophet)]]</li>
+<li>[[parle-Lune|Le Parle-Lune (Moonspeaker)]]</li>
+<li>[[chirurgien non-somatique|Le Chirurgien Non-Somatique (Nosomatic Chirurgeon)]]</li>
+<li>[[berger planaire|Le Berger Planaire (Planar Shepherd)]]</li>
+<li>[[erudit audacieux|L’Erudit Audacieux (Primal Scholar)]]</li>
+<li>[[percepensée quori|Le Percepensée Quori (Quori Mindhunter)]]</li>
+<li>[[renégat maîtrefaiseur|Le Renégat Maîtrefaiseur (Renegade Mastermaker)]]</li>
+<li>[[lame de revenant|La Lame de Revenant (Revenant Blade)]]</li>
+<li>[[chasseur d’ombre|Le Chasseur d’Ombre (Shadow Hunter)]]</li>
+<li>[[clé argentée|La Clé Argentée (Silver Key)]]</li>
+<li>[[pyromancien d’argent|Le Pyromancien d’Argent (Silver Pyromancer)]]</li>
+<li>[[interprète de concordance|L’Interprète de Concordance (Singer of Concordance)]]</li>
+<li>[[orateur souverain|L’Orateur Souverain (Sovereign Speaker)]]</li>
+<li>[[soldat scarunifié|Le Soldat Scarunifié (Spellcarved Soldier)]]</li>
+<li>[[sentinelle de la tempête|La Sentinelle de la Tempête (Storm Sentry)]]</li>
+<li>[[voleur de vie|Le Voleur de Vie (Thief of Life)]]</li>
+<li>[[guide eclatant|Le Guide Eclatant (Thunder Guide)]]</li>
+<li>[[parchemin délié|Le Parchemin Délié (Unbound Scroll)]]</li>
+<li>[[garde-bête vadalis|Le Garde-Bête Vadalis (Vadalis Beastkeeper)]]</li>
+<li>[[mastodonte forgelier|Le Mastodonte Forgelier (Warforged Juggernaut)]]</li>
+<li>[[maître lycantropoïde|Le Maître Lycantropoïde (Weretouched Master)]]</li>
+<li>[[capitaine d’aéronef lyrandar|Le Capitaine d’Aéronef Lyrandar (Windwright Captain)]]</li>
 </ul>
 </li>
 </ul>
 <ul>
 </ul>
 <ul>
-<li>[Les Compétences](./../Starfinder/Les compétences.md)*([Conversion des Compétences](./../Starfinder/Les compétences.md#CONVERSION), [Nouvelle Utilisations des Compétences](./../Starfinder/Les compétences.md#NOUVELLESUTILISATIONS))*</li>
-<li>[Les Traits et Désavantages](./les-traits-et-désavantage.md)''</li>
-<li>{s:PM|DONSEBERRON}[Les dons de l'Univers](./Donseberron.md)
+<li>[[les compétences]]*([[les compétences#CONVERSION|Conversion des Compétences]], [[les compétences#NOUVELLESUTILISATIONS|Nouvelle Utilisations des Compétences]])*</li>
+<li>[[les traits et désavantage|Les Traits et Désavantages]]''</li>
+<li>{s:PM|DONSEBERRON}[[Donseberron|Les dons de l'Univers]]
 <ul ID="DONSEBERRON" CLASS="listecachée cadrebas">
 <li>Tableaux des dons</li>
 <ul>
-<li>**[Les Dons Généraux](./dons-généraux.md)**</li>
-<li>**[Les Dons de Canalisation](./dons-canalisatiton.md)**</li>
-<li>**[Les Dons de Création d'Objets](./dons-de-création-objets.md)**</li>
-<li>**[Les Dons de combat](./../Pathfinder-RPG/Dons de combat.md)**</li>
-<li>**[Les Dons de chance](./dons-de-chance.md)**</li>
-<li>**[Les Dons de métamagie](./../Pathfinder-RPG/dons de métamagie.md)**</li>
-<li>**[Les Dons Mythique](./dons-mythique.md)**</li>
-<li>**[Les Dons Psionique](./dons-psionique.md)**</li>
-<li>**[Les Dons de Dracogrammes](./dons-dracogrammes.md)**</li>
-<li>**[Les Dons Raciaux](./../Pathfinder-RPG/dons raciaux.md)**([Les Dons de Changelins](./../Pathfinder-RPG/dons raciaux.md#CHANGELIN), [Les Dons de Férals](./../Pathfinder-RPG/dons raciaux.md#FERAL), [Les Dons de Forgeliers](./../Pathfinder-RPG/dons raciaux.md#FORGELIER))'''</li>
+<li>**[[dons généraux|Les Dons Généraux]]**</li>
+<li>**[[dons canalisatiton|Les Dons de Canalisation]]**</li>
+<li>**[[dons de création objets|Les Dons de Création d'Objets]]**</li>
+<li>**[[dons de combat|Les Dons de combat]]**</li>
+<li>**[[dons de chance|Les Dons de chance]]**</li>
+<li>**[[dons de métamagie|Les Dons de métamagie]]**</li>
+<li>**[[dons mythique|Les Dons Mythique]]**</li>
+<li>**[[dons psionique|Les Dons Psionique]]**</li>
+<li>**[[dons dracogrammes|Les Dons de Dracogrammes]]**</li>
+<li>**[[dons raciaux|Les Dons Raciaux]]**([[dons raciaux#CHANGELIN|Les Dons de Changelins]], [[dons raciaux#FERAL|Les Dons de Férals]], [[dons raciaux#FORGELIER|Les Dons de Forgeliers]])'''</li>
 </ul>
 </li>
 </ul>
@@ -147,38 +147,38 @@ Categories:
 <td width="32%">
 ### L'équipement et services
 <ul>
-<li>[Les Armes](./armes.md)</li>
-<li>[Armures et Protections](./armures-et-protections.md)</li>
-<li>[Objets Alchimiques et Poisons](./objets-alchimiques-et-poisons.md)</li>
-<li>[Animaux et Créatures](./animaux-et-créatures.md)</li>
-<li>[Les Services des Maisons à Dracogrammes](./services-de-maison.md)</li>
-<li>[Les Dracolythes](./dracolythes.md)</li>
-<li>[Les Composantes de Matériel Optionnelles](./composantes-de-matériel-optionnelles.md)</li>
-<li>[Les Services](./services.md)</li>
-<li>[Les Services des Maisons à Dracogrammes](./../Pathfinder-RPG/Matériaux spéciaux.md)</li>
-<li>[Les Kits et Outils](./kits-et-outils.md)</li>
-<li>[Les Véhicules et Transports](./véhicules-et-transports.md)</li>
+<li>[[armes|Les Armes]]</li>
+<li>[[armures et protections]]</li>
+<li>[[objets alchimiques et poisons]]</li>
+<li>[[animaux et créatures]]</li>
+<li>[[services de maison|Les Services des Maisons à Dracogrammes]]</li>
+<li>[[dracolythes|Les Dracolythes]]</li>
+<li>[[composantes de matériel optionnelles|Les Composantes de Matériel Optionnelles]]</li>
+<li>[[services|Les Services]]</li>
+<li>[[matériaux spéciaux|Les Services des Maisons à Dracogrammes]]</li>
+<li>[[kits et outils|Les Kits et Outils]]</li>
+<li>[[véhicules et transports|Les Véhicules et Transports]]</li>
 </ul><ul>
 </ul>
 ### Les Objets Magiques
 <ul>
-<li>[Les artefacts](./../Pathfinder-RPG/Artefacts.md)</li>
-<li>[Les armures et boucliers magiques](./../Pathfinder-RPG/Armures magiques.md)</li>
-<li>[Les armes magiques](./../Pathfinder-RPG/Armes magiques.md)</li>
-<li>[Implants et Symbiotes](./implants-et-symbiotes.md)</li>
-<li>[Les anneaux magiques](./../Pathfinder-RPG/Anneaux magiques.md)</li>
-<li>[Les baguettes magiques éternelles](./Baguettes-magiques-éternelles.md)</li>
-<li>[Les sceptres magiques](./../Pathfinder-RPG/Sceptres magiques.md)</li>
-<li>[Les bâtons magiques](./../Pathfinder-RPG/Bâtons magiques.md)</li>
-<li>[Les objets merveilleux](./../Pathfinder-RPG/Objets merveilleux.md)</li>
-<li>[Les Véhicules Merveilleux](./véhicules-merveilleux.md)</li>
-<li>[Les Schémas](./Schéma.md)</li>
-<li>{s:PM|REGLESSPECIALES}[Les Règles Spéciales](./Les-Règles-Spéciales.md)
+<li>[[Artefacts|Les artefacts]]</li>
+<li>[[Armures magiques|Les armures et boucliers magiques]]</li>
+<li>[[Armes magiques|Les armes magiques]]</li>
+<li>[[implants et symbiotes]]</li>
+<li>[[Anneaux magiques|Les anneaux magiques]]</li>
+<li>[[Baguettes magiques éternelles|Les baguettes magiques éternelles]]</li>
+<li>[[Sceptres magiques|Les sceptres magiques]]</li>
+<li>[[Bâtons magiques|Les bâtons magiques]]</li>
+<li>[[Objets merveilleux|Les objets merveilleux]]</li>
+<li>[[véhicules merveilleux|Les Véhicules Merveilleux]]</li>
+<li>[[Schéma|Les Schémas]]</li>
+<li>{s:PM|REGLESSPECIALES}[[Les Règles Spéciales]]
 <ul ID="REGLESSPECIALES" CLASS="listecachée cadrebas">
-<li>[Les Dracogrammes](./règles-dracogrammes.md)</li>
-<li>[L’Enchaînement d’Élémentaire](./règles-enchaînement-d'élémentaire.md)</li>
-<li>[Les Implants](./règles-implants.md)</li>
-<li>[Les Symbiotes](./règles-symbiotes.md)</li>
+<li>[[règles dracogrammes|Les Dracogrammes]]</li>
+<li>[[règles enchaînement d'élémentaire|L’Enchaînement d’Élémentaire]]</li>
+<li>[[règles implants|Les Implants]]</li>
+<li>[[règles symbiotes|Les Symbiotes]]</li>
 </ul>
 </li>
 </ul>
@@ -188,43 +188,43 @@ Categories:
 <td width="32%">
 ### La Magie
 <ul>
-<li>Les sorts ([de A à C](./../Pathfinder-RPG/Liste des sorts.md), [de D à F](./Liste-des-sorts-(1).md), [de G à I](./Liste-des-sorts-(2).md), [de J à L](./Liste-des-sorts-(3).md), [de M à O](./Liste-des-sorts-(4).md), [de P à R](./Liste-des-sorts-(5).md), [de S à U](./Liste-des-sorts-(6).md), [de V à W](./Liste-des-sorts-(7).md), [de X à Z](./Liste-des-sorts-(8).md),)</li>
+<li>Les sorts ([[Liste des sorts|de A à C]], [[Liste des sorts (1)|de D à F]], [[Liste des sorts (2)|de G à I]], [[Liste des sorts (3)|de J à L]], [[Liste des sorts (4)|de M à O]], [[Liste des sorts (5)|de P à R]], [[Liste des sorts (6)|de S à U]], [[Liste des sorts (7)|de V à W]], [[Liste des sorts (8)|de X à Z]],)</li>
 <li>{s:PM|SORTSEBERRON}Les classes ont des nouveaux pouvoirs et sorts spécifiques à Eberron :
 <ul ID="SORTSEBERRON" CLASS="listecachée cadrebas">
-<li>[Alchimistes d'Eberron](./Liste-d'alchimiste-d'eberron.md) : [1](./Liste-d'alchimiste-d'eberron.md#1) [2](./Liste-d'alchimiste-d'eberron.md#2) [3](./Liste-d'alchimiste-d'eberron.md#3) [4](./Liste-d'alchimiste-d'eberron.md#4) [5](./Liste-d'alchimiste-d'eberron.md#5) [6](./Liste-d'alchimiste-d'eberron.md#6)</li>
-<li>[Arc/ens/mag](./Liste-ensorceleursmagiciens-d'eberron.md) : [0](./Liste-ensorceleursmagiciens-d'eberron.md#0) [1](./Liste-ensorceleursmagiciens-d'eberron.md#1) [2](./Liste-ensorceleursmagiciens-d'eberron.md#2) [3](./Liste-ensorceleursmagiciens-d'eberron.md#3) [4](./Liste-ensorceleursmagiciens-d'eberron.md#4) [5](./Liste-ensorceleursmagiciens-d'eberron.md#5) [6](./Liste-ensorceleursmagiciens-d'eberron.md#6) [7](./Liste-ensorceleursmagiciens-d'eberron.md#7) [8](./Liste-ensorceleursmagiciens-d'eberron.md#8) [9](./Liste-ensorceleursmagiciens-d'eberron.md#9)</li>
-<li>[Bardes](./Liste-bardes-d'eberron.md) : [0](./Liste-bardes-d'eberron.md#0) [1](./Liste-bardes-d'eberron.md#1) [2](./Liste-bardes-d'eberron.md#2) [3](./Liste-bardes-d'eberron.md#3) [4](./Liste-bardes-d'eberron.md#4) [5](./Liste-bardes-d'eberron.md#5) [6](./Liste-bardes-d'eberron.md#6)</li>
-<li>[Façonneurs](./Liste-façonneurs.md) : [0](./Liste-façonneurs.md#0) [1](./Liste-façonneurs.md#1) [2](./Liste-façonneurs.md#2) [3](./Liste-façonneurs.md#3) [4](./Liste-façonneurs.md#4) [5](./Liste-façonneurs.md#5) [6](./Liste-façonneurs.md#6) [7](./Liste-façonneurs.md#7) [8](./Liste-façonneurs.md#8) [9](./Liste-façonneurs.md#9)
-<li>[Conjurateurs](./Liste-conjurateurs-d'eberron.md) : [0](./Liste-conjurateurs-d'eberron.md#0) [1](./Liste-conjurateurs-d'eberron.md#1) [2](./Liste-conjurateurs-d'eberron.md#2) [3](./Liste-conjurateurs-d'eberron.md#3) [4](./Liste-conjurateurs-d'eberron.md#4) [5](./Liste-conjurateurs-d'eberron.md#5) [6](./Liste-conjurateurs-d'eberron.md#6)</li>
-<li>[Druides](./Liste-druides-d'eberron.md) : [0](./Liste-druides-d'eberron.md#0) [1](./Liste-druides-d'eberron.md#1) [2](./Liste-druides-d'eberron.md#2) [3](./Liste-druides-d'eberron.md#3) [4](./Liste-druides-d'eberron.md#4) [5](./Liste-druides-d'eberron.md#5) [Liste druides d'eberron#6|6]] [7](./Liste-druides-d'eberron.md#7) [8](./Liste-druides-d'eberron.md#8) [9](./Liste-druides-d'eberron.md#9)</li>
-<li>[Inquisiteur](./Liste-d'inquisiteur-d'eberron.md) : [Liste d'inquisiteur d'eberron#0|0]] [1](./Liste-d'inquisiteur-d'eberron.md#1) [2](./Liste-d'inquisiteur-d'eberron.md#2) [3](./Liste-d'inquisiteur-d'eberron.md#3) [4](./Liste-d'inquisiteur-d'eberron.md#4) [5](./Liste-d'inquisiteur-d'eberron.md#5) [6](./Liste-d'inquisiteur-d'eberron.md#6)</li>
-<li>[Magus](./Liste-magus-d'eberron.md) : [0](./Liste-magus-d'eberron.md#0) [1](./Liste-magus-d'eberron.md#1) [2](./Liste-magus-d'eberron.md#2) [3](./Liste-magus-d'eberron.md#3) [4](./Liste-magus-d'eberron.md#4) [5](./Liste-magus-d'eberron.md#5) [6](./Liste-magus-d'eberron.md#6)</li>
-<li>[Paladins](./Liste-paladins-d'eberron.md) : [1](./Liste-paladins-d'eberron.md#1) [2](./Liste-paladins-d'eberron.md#2) [3](./Liste-paladins-d'eberron.md#3) [4](./Liste-paladins-d'eberron.md#4)</li>
-<li>[Prêtres/Oracles](./Liste-prêtres-d'eberron.md) : [0](./Liste-prêtres-d'eberron.md#0) [1](./Liste-prêtres-d'eberron.md#1) [2](./Liste-prêtres-d'eberron.md#2) [3](./Liste-prêtres-d'eberron.md#3) [4](./Liste-prêtres-d'eberron.md#4) [5](./Liste-prêtres-d'eberron.md#5) [6](./Liste-prêtres-d'eberron.md#6) [7](./Liste-prêtres-d'eberron.md#7) [8](./Liste-prêtres-d'eberron.md#8) [9](./Liste-prêtres-d'eberron.md#9)</li>
-<li>[Rôdeurs](./Liste-rôdeurs-d'eberron.md) : [1](./Liste-rôdeurs-d'eberron.md#1) [2](./Liste-rôdeurs-d'eberron.md#2) [3](./Liste-rôdeurs-d'eberron.md#3) [4](./Liste-rôdeurs-d'eberron.md#4)</li>
-<li>[Guerrier psychique](./Liste-guerrier-psychique-d'eberron.md) : [0](./Liste-guerrier-psychique-d'eberron.md#0) [Liste guerrier psychique d'eberron#1|1]] [2](./Liste-guerrier-psychique-d'eberron.md#2) [3](./Liste-guerrier-psychique-d'eberron.md#3) [4](./Liste-guerrier-psychique-d'eberron.md#4) [5](./Liste-guerrier-psychique-d'eberron.md#5) [6](./Liste-guerrier-psychique-d'eberron.md#6)</li>
-<li>[Psions et Sauvages](./Liste-psion-et-sauvages.md) : [1](./Liste-psion-et-sauvages.md#1) [2](./Liste-psion-et-sauvages.md#2) [3](./Liste-psion-et-sauvages.md#3) [4](./Liste-psion-et-sauvages.md#4) [5](./Liste-psion-et-sauvages.md#5) [6](./Liste-psion-et-sauvages.md#6) [7](./Liste-psion-et-sauvages.md#7) [8](./Liste-psion-et-sauvages.md#8) [9](./Liste-psion-et-sauvages.md#9)</li>
-<li>[Sorcières](./Liste-sorcière-d'eberron.md) : [0](./Liste-sorcière-d'eberron.md#0) [1](./Liste-sorcière-d'eberron.md#1) [2](./Liste-sorcière-d'eberron.md#2) [3](./Liste-sorcière-d'eberron.md#3) [4](./Liste-sorcière-d'eberron.md#4) [5](./Liste-sorcière-d'eberron.md#5) [6](./Liste-sorcière-d'eberron.md#6) [7](./Liste-sorcière-d'eberron.md#7) [8](./Liste-sorcière-d'eberron.md#8) [9](./Liste-sorcière-d'eberron.md#9)</li>
+<li>[[Liste d'alchimiste d'eberron|Alchimistes d'Eberron]] : [[Liste d'alchimiste d'eberron#1|1]] [[Liste d'alchimiste d'eberron#2|2]] [[Liste d'alchimiste d'eberron#3|3]] [[Liste d'alchimiste d'eberron#4|4]] [[Liste d'alchimiste d'eberron#5|5]] [[Liste d'alchimiste d'eberron#6|6]]</li>
+<li>[[Liste ensorceleursmagiciens d'eberron|Arc/ens/mag]] : [[Liste ensorceleursmagiciens d'eberron#0|0]] [[Liste ensorceleursmagiciens d'eberron#1|1]] [[Liste ensorceleursmagiciens d'eberron#2|2]] [[Liste ensorceleursmagiciens d'eberron#3|3]] [[Liste ensorceleursmagiciens d'eberron#4|4]] [[Liste ensorceleursmagiciens d'eberron#5|5]] [[Liste ensorceleursmagiciens d'eberron#6|6]] [[Liste ensorceleursmagiciens d'eberron#7|7]] [[Liste ensorceleursmagiciens d'eberron#8|8]] [[Liste ensorceleursmagiciens d'eberron#9|9]]</li>
+<li>[[Liste bardes d'eberron|Bardes]] : [[Liste bardes d'eberron#0|0]] [[Liste bardes d'eberron#1|1]] [[Liste bardes d'eberron#2|2]] [[Liste bardes d'eberron#3|3]] [[Liste bardes d'eberron#4|4]] [[Liste bardes d'eberron#5|5]] [[Liste bardes d'eberron#6|6]]</li>
+<li>[[Liste façonneurs|Façonneurs]] : [[Liste façonneurs#0|0]] [[Liste façonneurs#1|1]] [[Liste façonneurs#2|2]] [[Liste façonneurs#3|3]] [[Liste façonneurs#4|4]] [[Liste façonneurs#5|5]] [[Liste façonneurs#6|6]] [[Liste façonneurs#7|7]] [[Liste façonneurs#8|8]] [[Liste façonneurs#9|9]]
+<li>[[Liste conjurateurs d'eberron|Conjurateurs]] : [[Liste conjurateurs d'eberron#0|0]] [[Liste conjurateurs d'eberron#1|1]] [[Liste conjurateurs d'eberron#2|2]] [[Liste conjurateurs d'eberron#3|3]] [[Liste conjurateurs d'eberron#4|4]] [[Liste conjurateurs d'eberron#5|5]] [[Liste conjurateurs d'eberron#6|6]]</li>
+<li>[[Liste druides d'eberron|Druides]] : [[Liste druides d'eberron#0|0]] [[Liste druides d'eberron#1|1]] [[Liste druides d'eberron#2|2]] [[Liste druides d'eberron#3|3]] [[Liste druides d'eberron#4|4]] [[Liste druides d'eberron#5|5]] [Liste druides d'eberron#6|6]] [[Liste druides d'eberron#7|7]] [[Liste druides d'eberron#8|8]] [[Liste druides d'eberron#9|9]]</li>
+<li>[[Liste d'inquisiteur d'eberron|Inquisiteur]] : [Liste d'inquisiteur d'eberron#0|0]] [[Liste d'inquisiteur d'eberron#1|1]] [[Liste d'inquisiteur d'eberron#2|2]] [[Liste d'inquisiteur d'eberron#3|3]] [[Liste d'inquisiteur d'eberron#4|4]] [[Liste d'inquisiteur d'eberron#5|5]] [[Liste d'inquisiteur d'eberron#6|6]]</li>
+<li>[[Liste magus d'eberron|Magus]] : [[Liste magus d'eberron#0|0]] [[Liste magus d'eberron#1|1]] [[Liste magus d'eberron#2|2]] [[Liste magus d'eberron#3|3]] [[Liste magus d'eberron#4|4]] [[Liste magus d'eberron#5|5]] [[Liste magus d'eberron#6|6]]</li>
+<li>[[Liste paladins d'eberron|Paladins]] : [[Liste paladins d'eberron#1|1]] [[Liste paladins d'eberron#2|2]] [[Liste paladins d'eberron#3|3]] [[Liste paladins d'eberron#4|4]]</li>
+<li>[[Liste prêtres d'eberron|Prêtres/Oracles]] : [[Liste prêtres d'eberron#0|0]] [[Liste prêtres d'eberron#1|1]] [[Liste prêtres d'eberron#2|2]] [[Liste prêtres d'eberron#3|3]] [[Liste prêtres d'eberron#4|4]] [[Liste prêtres d'eberron#5|5]] [[Liste prêtres d'eberron#6|6]] [[Liste prêtres d'eberron#7|7]] [[Liste prêtres d'eberron#8|8]] [[Liste prêtres d'eberron#9|9]]</li>
+<li>[[Liste rôdeurs d'eberron|Rôdeurs]] : [[Liste rôdeurs d'eberron#1|1]] [[Liste rôdeurs d'eberron#2|2]] [[Liste rôdeurs d'eberron#3|3]] [[Liste rôdeurs d'eberron#4|4]]</li>
+<li>[[Liste guerrier psychique d'eberron|Guerrier psychique]] : [[Liste guerrier psychique d'eberron#0|0]] [Liste guerrier psychique d'eberron#1|1]] [[Liste guerrier psychique d'eberron#2|2]] [[Liste guerrier psychique d'eberron#3|3]] [[Liste guerrier psychique d'eberron#4|4]] [[Liste guerrier psychique d'eberron#5|5]] [[Liste guerrier psychique d'eberron#6|6]]</li>
+<li>[[Liste psion et sauvages|Psions et Sauvages]] : [[Liste psion et sauvages#1|1]] [[Liste psion et sauvages#2|2]] [[Liste psion et sauvages#3|3]] [[Liste psion et sauvages#4|4]] [[Liste psion et sauvages#5|5]] [[Liste psion et sauvages#6|6]] [[Liste psion et sauvages#7|7]] [[Liste psion et sauvages#8|8]] [[Liste psion et sauvages#9|9]]</li>
+<li>[[Liste sorcière d'eberron|Sorcières]] : [[Liste sorcière d'eberron#0|0]] [[Liste sorcière d'eberron#1|1]] [[Liste sorcière d'eberron#2|2]] [[Liste sorcière d'eberron#3|3]] [[Liste sorcière d'eberron#4|4]] [[Liste sorcière d'eberron#5|5]] [[Liste sorcière d'eberron#6|6]] [[Liste sorcière d'eberron#7|7]] [[Liste sorcière d'eberron#8|8]] [[Liste sorcière d'eberron#9|9]]</li>
 </li>
 </ul></ul>
 ### Bestiaire
 <ul>
-<li>[Les monstres d'eberron(index)](./Monstres-d'eberron.md)</li>
+<li>[[Monstres d'eberron|Les monstres d'eberron(index)]]</li>
 <li>{s:PM|LISTESMONSTRESEBERRON}Listes de monstres
 <ul ID="LISTESMONSTRESEBERRON" CLASS="listecachée cadrebas">
-<li>[Liste de monstres par milieu naturel](./monstres-par-milieu-naturel-d'eberron.md)</li>
-<li>[Liste de monstres par FP](./monstres-par-FP-d'eberron.md)</li>
-<li>[Liste de monstres par type](./monstres-par-type-d'eberron.md)</li></ul></li>
+<li>[[monstres par milieu naturel d'eberron|Liste de monstres par milieu naturel]]</li>
+<li>[[monstres par FP d'eberron|Liste de monstres par FP]]</li>
+<li>[[monstres par type d'eberron|Liste de monstres par type]]</li></ul></li>
 </ul><ul>
-<li>[Les types et sous type de créatures](./Types-de-créatures-d'eberron.md)</li>
-<li>[Les archétypes des monstres](./Archétypes-d'eberron.md)</li>
+<li>[[Types de créatures d'eberron|Les types et sous type de créatures]]</li>
+<li>[[Archétypes d'eberron|Les archétypes des monstres]]</li>
 </ul>
 
 ### Divers
 <ul>
-<li>[Éléments supprimés](./Éléments-supprimés.md)</li>
-<li>[Téléchargement](./Téléchargement.md)</li>
-<li>[Crédits et Liens utiles](./Crédits-et-Liens-utiles.md)</li>
+<li>[[Éléments supprimés]]</li>
+<li>[[Téléchargement]]</li>
+<li>[[Crédits et Liens utiles]]</li>
 </ul>
 </td>
 </tr>

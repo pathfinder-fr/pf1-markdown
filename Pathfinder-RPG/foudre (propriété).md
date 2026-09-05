@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Foudre
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Foudre](./Descriptions individuelles des propriétés spéciales des armes.md#Foudre)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Foudre]]

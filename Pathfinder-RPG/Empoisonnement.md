@@ -15,18 +15,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[poison](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 4, [Cham](./Chaman.md) 4, [Dru](./Druide.md) 3, [Hyp](./Hypnotiseur.md) 4, [Occ](./Occultiste.md) 4, [Prê](./Prêtre.md) 4, [Sor](./Sorcière.md) 4  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 4, [[Chaman|Cham]] 4, [[Druide|Dru]] 3, [[Hypnotiseur|Hyp]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature vivante touchée  
 
-**Durée** [instantanée](./instantanée.md) (voir description)  
+**Durée** [[instantanée]] (voir description)  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
-Ce sort fait appel au pouvoir des entités venimeuses. Il permet au personnage d’empoisonner sa cible en réussissant une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md). Le [poison](./poison.md) inflige 1d3 points d’[affaiblissement temporaire](./affaiblissement temporaire.md) de [Constitution](./Constitution.md) par [round](./round.md) pendant 6 [rounds](./round.md). Une créature empoisonnée a droit à un jet de [Vigueur](./Vigueur.md) par [round](./round.md) pour annuler les dégâts et se débarrasser du poison.
+Ce sort fait appel au pouvoir des entités venimeuses. Il permet au personnage d’empoisonner sa cible en réussissant une [[attaque de contact au corps à corps]]. Le [[poison]] inflige 1d3 points d’[[affaiblissement temporaire]] de [[Constitution]] par [[round]] pendant 6 [[round|rounds]]. Une créature empoisonnée a droit à un jet de [[Vigueur]] par [[round]] pour annuler les dégâts et se débarrasser du poison.

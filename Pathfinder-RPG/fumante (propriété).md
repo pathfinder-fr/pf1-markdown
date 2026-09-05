@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Fumante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Fumante](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Fumante)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Fumante]]

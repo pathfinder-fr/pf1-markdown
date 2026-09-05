@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Ville de l'ouest du [Chéliax](./Chéliax.md) coincée entre le massif du [Perchoir du Diable](./Perchoir du Diable.md) et l'[Océan Arcadien](./océan Arcadien.md), Pezzack est le point de ralliement de tous ceux qui souhaitent résister au pouvoir de la Maison Thrune et de ses alliés infernaux.
+Ville de l'ouest du [[Chéliax]] coincée entre le massif du [[Perchoir du Diable]] et l'[[Océan Arcadien]], Pezzack est le point de ralliement de tous ceux qui souhaitent résister au pouvoir de la Maison Thrune et de ses alliés infernaux.

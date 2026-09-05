@@ -13,18 +13,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[froid](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [San](./Sanguin.md) 2  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sanguin|San]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cibles** créature touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Au terme de l'incantation, la main du mage s'auréole d'une lueur bleutée. Une [attaque de contact](./attaque de contact.md) inflige 4D6 de dégâts de froid et la cible est [chancelante](./Chancelant.md) pour 1 round. Si l'attaque est un [coup critique](./coup critique.md), la cible est [chancelante](./Chancelant.md) pour 1 minute.
+Au terme de l'incantation, la main du mage s'auréole d'une lueur bleutée. Une [[attaque de contact]] inflige 4D6 de dégâts de froid et la cible est [[chancelant|chancelante]] pour 1 round. Si l'attaque est un [[coup critique]], la cible est [[chancelant|chancelante]] pour 1 minute.

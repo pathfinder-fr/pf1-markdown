@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Révélatrice
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Révélatrice](./Descriptions individuelles des propriétés spéciales des armes.md#Révélatrice)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Révélatrice]]

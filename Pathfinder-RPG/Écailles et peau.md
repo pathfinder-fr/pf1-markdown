@@ -12,9 +12,9 @@ Categories:
 
 *Lorsque la magie transforme le personnage, sa peau se durcit.*
 
-**Condition.** [Con](./Constitution.md) 13
+**Condition.** [[Constitution|Con]] 13
 
-**Avantage.** Lorsque un sort ou un pouvoir magique de transmutation affecte le personnage, son bonus d’armure naturelle augmente de 1. Si le personnage ne possède aucun bonus d’armure naturelle à la [CA](./CA.md), on considère qu’il est à 0 lorsqu’il s’agit de ce don. Le bonus passe à +2 si le [niveau de lanceur de sorts](./NLS.md) de l’effet est de 10 ou plus.
+**Avantage.** Lorsque un sort ou un pouvoir magique de transmutation affecte le personnage, son bonus d’armure naturelle augmente de 1. Si le personnage ne possède aucun bonus d’armure naturelle à la [[CA]], on considère qu’il est à 0 lorsqu’il s’agit de ce don. Le bonus passe à +2 si le [[NLS|niveau de lanceur de sorts]] de l’effet est de 10 ou plus.
 
 (((Scale and skin
 

@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2* p.229}
 {s:BDTexte|**PX** 38.400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [qlippoth](./sous-type qlippoth.md)) de taille TG, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [odorat](./odorat.md), [vision aveugle](./vision aveugle.md) 9 m ( 6cases), [vision dans le noir](./vision dans le noir.md) 18 m (12 cases), [vision lucide](./Vision lucide.md) ; [Perception](./Perception.md) +22}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type qlippoth|qlippoth]]) de taille TG, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[odorat]], [[vision aveugle]] 9 m ( 6cases), [[vision dans le noir]] 18 m (12 cases), [[vision lucide]] ; [[Perception]] +22}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 29, contact 7, pris au dépourvu 29 (Dex -1, naturelle +22, taille -2)}
 {s:BDTexte|**pv** 203 (14d10+126)}
@@ -21,18 +21,18 @@ Categories:
 {s:BDTexte|**Immunités** effets mentaux, froid, poison ; **RD** 10/Loi ; **Résistances** acide 10, électricité 10, feu 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 cases), escalade 15 m (10 cases), vol 15 m (moyenne - 10 cases)}
-{s:BDTexte|**Corps à corps** *morsure*, +23 (2d6+11 plus 1d8 de [saignement](./Saignement.md) et malédiction de la putréfaction) et *3 griffes*, +23 (1d8+11 plus 1d8 de [saignement](./Saignement.md))}
+{s:BDTexte|**Corps à corps** *morsure*, +23 (2d6+11 plus 1d8 de [[saignement]] et malédiction de la putréfaction) et *3 griffes*, +23 (1d8+11 plus 1d8 de [[saignement]])}
 {s:BDTexte|**Espace** 4,50 m (3 cases) ; **Allonge** 4,50 m (3 cases) (9 m pour les griffes (6 cases))}
 {s:BDTexte|**Attaques spéciales** apparence horrible (DD 21)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 14), concentration +18}
-{s:BDSorts|Constant — *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|3/jour — *[porte dimensionnelle](./Porte dimensionnelle.md)*, *[protection contre la Loi](./Protection contre la Loi.md)*}
-{s:BDSorts|1/jour — *[vagues d’épuisement](./Vagues dépuisement.md)*}
+{s:BDSorts|Constant — *[[vision lucide]]*}
+{s:BDSorts|3/jour — *[[porte dimensionnelle]]*, *[[protection contre la Loi]]*}
+{s:BDSorts|1/jour — *[[vagues dépuisement|vagues d’épuisement]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 32, **Dex** 9, **Con** 28, **Int** 5, **Sag** 20, **Cha** 19}
 {s:BDTexte|**BBA** +14, **BMO** +27, **DMD** 36 (44 contre croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md),  [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +24, [Escalade](./Escalade.md) +19, [Perception](./Perception.md) +22, [Vol](./Vol.md) +12 ; **Modificateurs raciaux** +16 [Discrétion](./Discrétion.md)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Frappe décisive]], [[Réflexes surhumains]],  [[Science de la frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +24, [[Escalade]] +19, [[Perception]] +22, [[Vol]] +12 ; **Modificateurs raciaux** +16 [[Discrétion]]}
 {s:BDTexte|**Langues** abyssal ; télépathie 30 m}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abysses)}
@@ -43,7 +43,7 @@ Categories:
 {s:BDTexte|**Apparence horrible (Sur).** Les créatures qui succombent à l’apparence horrible d’un augnagar deviennent temporairement démentes. Cela se traduit par un affaiblissement temporaire de 2 points de Charisme qui, en plus, rend la victime confuse pendant 1d3 rounds.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [qlippoths](./Qlippoth.md).***</li></ul>*Cette espèce d’araignée géante possède trois queues crochues et huit pattes reliées par des membranes.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Qlippoth|qlippoths]].***</li></ul>*Cette espèce d’araignée géante possède trois queues crochues et huit pattes reliées par des membranes.*
 
 Les gigantesques augnagars ne possèdent pas un esprit très
 vif. En tant qu’Extérieurs, ils n’ont pas besoin de se nourrir pour

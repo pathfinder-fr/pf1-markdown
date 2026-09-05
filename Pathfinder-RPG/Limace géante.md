@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.198}
 {s:BDTexte|**PX** 4.800}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille TG, N}
-{s:BDTexte|**Init** -4 ; **Sens** [vision aveugle](./vision aveugle.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] de taille TG, N}
+{s:BDTexte|**Init** -4 ; **Sens** [[vision aveugle]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 4, pris au dépourvu 20 (Dex -4, naturelle +16, taille -2)}
 {s:BDTexte|**pv** 102 (12d8+48)}
@@ -29,7 +29,7 @@ Categories:
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 27, **Dex** 2, **Con** 18, **Int** -, **Sag** 10, **Cha** 1}
-{s:BDTexte|**BBA** +9, **BMO** +19, **DMD** 25 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
+{s:BDTexte|**BBA** +9, **BMO** +19, **DMD** 25 ([[croc-en-jambe]] impossible)}
 {s:BDTexte|**Particularités** corps malléable}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais et souterrain, climat tempéré ou chaud}
@@ -37,7 +37,7 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Corps malléable (Ext).** Les corps des limaces géantes est très malléable, ce qui leur permet de se faufiler dans les espaces réduits. Elles peuvent se serrer pour passer dans un espace correspondant à la catégorie de taille directement inférieure à la leur (3 m (2 {s:c}) de largeur pour la plupart des limaces géantes) sans réduire leur vitesse ni subir de malus. Elles peuvent se serrer (en subissant les pénalités normales) pour traverser un espace correspondant à une catégorie de taille inférieure de deux crans à la leur (1,50 m (1 {s:c}) de largeur en général).}
-{s:BDTexte|**Crachat d'acide (Ext).** Les limaces géants peuvent cracher de l'acide sur un adversaire situé à 18 m (12 {s:c}) ou moins (sans facteur de portée). En cas d'attaque de contact à distance réussie, la cible subit 10d6 points de dégâts d'acide (sans [jet de sauvegarde](./jet de sauvegarde.md)).}
+{s:BDTexte|**Crachat d'acide (Ext).** Les limaces géants peuvent cracher de l'acide sur un adversaire situé à 18 m (12 {s:c}) ou moins (sans facteur de portée). En cas d'attaque de contact à distance réussie, la cible subit 10d6 points de dégâts d'acide (sans [[jet de sauvegarde]]).}
 {s:BDTexte|**Susceptibilité au sel (Ext).** Une poignée de sel lancée sur une limace la brûle comme s'il s'agissait d'une fiole d'acide (1d6 points de dégâts par utilisation).}
 </div>
 </td><td><div>''Cette énorme limace grise et brune laisse un sillage gluant derrière elle. Sa
@@ -72,18 +72,18 @@ savent qu’il vaut mieux éviter de s’y aventurer à cette époque.
 
 Certaines races souterraines enfouies loin sous la surface
 utilisent les limaces géantes comme montures ou comme gardes.
-Les créatures comme les [mites](./Mite.md), qui possèdent un étrange pouvoir
+Les créatures comme les [[Mite|mites]], qui possèdent un étrange pouvoir
 empathique avec les vermines, peuvent domestiquer les limaces
 géantes mais, dans la plupart des cas, les créatures qui voudraient
 apprivoiser ces immenses bêtes doivent rester très prudentes et
 s’assurer qu’elles restent bien nourries jusqu’au moment où elles
 sont appelées à combattre.
 
-Certaines rumeurs effrayantes parlent d’armées de [troglodytes](./Troglodyte.md) utilisant des limaces géantes comme
-montures lors de sièges. Une histoire particulièrement inquiétante évoque une large grotte souterraine habitée par des dizaines de [skums](./Skum.md) et de limaces géantes que les [aboleths](./Aboleth.md) contrôleraient et auraient modifiées de sorte que leur salive acide engourdissent également l’esprit de leurs victimes.
+Certaines rumeurs effrayantes parlent d’armées de [[Troglodyte|troglodytes]] utilisant des limaces géantes comme
+montures lors de sièges. Une histoire particulièrement inquiétante évoque une large grotte souterraine habitée par des dizaines de [[Skum|skums]] et de limaces géantes que les [[Aboleth|aboleths]] contrôleraient et auraient modifiées de sorte que leur salive acide engourdissent également l’esprit de leurs victimes.
 
 #### La limace géante comme compagnon animal
-**Caractéristiques de départ.** ; **Taille** M ; **Vitesse** 6 m (4 {s:c}) ; **Attaque** langue (1d4 plus acide) ; **Attaque spéciale** crachat acide (attaque de contact à distance, 9 m (6 {s:c}) de portée, 1d6 points de dégâts d’acide) ; **Particularités** [perception des vibrations](./Perception des vibrations.md) 9 m (6 {s:c}), [RD](./RD.md) 5/tranchant ou perforant, susceptibilité au sel ; **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 8, [Con](./Constitution.md) 13, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 10, [Cha](./Charisme.md) 1 ; **CA** armure naturelle +4 ; **DMD** impossible de lui faire un croc-en-jambe
+**Caractéristiques de départ.** ; **Taille** M ; **Vitesse** 6 m (4 {s:c}) ; **Attaque** langue (1d4 plus acide) ; **Attaque spéciale** crachat acide (attaque de contact à distance, 9 m (6 {s:c}) de portée, 1d6 points de dégâts d’acide) ; **Particularités** [[perception des vibrations]] 9 m (6 {s:c}), [[RD]] 5/tranchant ou perforant, susceptibilité au sel ; **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 8, [[Constitution|Con]] 13, [[Intelligence|Int]] –, [[Sagesse|Sag]] 10, [[Charisme|Cha]] 1 ; **CA** armure naturelle +4 ; **DMD** impossible de lui faire un croc-en-jambe
 
-**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** langue (1d6 plus 1d2 acide) ; **Caractéristiques** For +2, Dex -2, Con +2 ; **Attaques spéciales** crachat acide (attaque de contact à distance, 9 mètres de portée, 1d8 points de dégâts d’acide) ; **Particularité** [vision aveugle](./vision aveugle.md) à 9 m (6 {s:c})
+**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** langue (1d6 plus 1d2 acide) ; **Caractéristiques** For +2, Dex -2, Con +2 ; **Attaques spéciales** crachat acide (attaque de contact à distance, 9 mètres de portée, 1d8 points de dégâts d’acide) ; **Particularité** [[vision aveugle]] à 9 m (6 {s:c})
 </div></td></tr></table>

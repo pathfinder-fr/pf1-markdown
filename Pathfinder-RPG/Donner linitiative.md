@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage est un maître de l’initiative mais il est aussi capable de la donner à quelqu’un. *
 
-**Conditions.** Pouvoir de classe [initiative rusée](./Inquisiteur.md#INITIATIVERUSEE)
+**Conditions.** Pouvoir de classe [[Inquisiteur#INITIATIVERUSEE|initiative rusée]]
 
-**Avantage.** Au début de chaque rencontre, le personnage peut conserver le bonus d’[initiative](./initiative.md) que lui offre sa [Sagesse](./Sagesse.md) ou le donner à un allié présent dans son champ de vision. Il doit faire ce choix avant que son allié et lui aient fait leur test d’initiative.
+**Avantage.** Au début de chaque rencontre, le personnage peut conserver le bonus d’[[initiative]] que lui offre sa [[Sagesse]] ou le donner à un allié présent dans son champ de vision. Il doit faire ce choix avant que son allié et lui aient fait leur test d’initiative.

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** +10 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Il s'agit d'une variante démesurée du symbole sacré standard accueillant un compartiment hermétique qui peut contenir jusqu'à 0,5 litre de liquide (le même volume qu'une [flasque normale](./Flasque (objet).md) d'[eau bénite](./Eau bénite (objet).md)). Les aventuriers utilisent généralement ce contenant pour conserver de l'alcool ou de l'eau bénite. Une flasque sacrée n'est pas prévue pour être lancée sur des ennemis et n'est pas aussi fragile qu'une flasque ordinaire ou qu'une fiole. Pour utiliser l'eau bénite, il faut procéder comme pour asperger un adversaire intangible : débucher la fiole et verser son contenu sur une cible adjacente. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 10 pour repérer le compartiment.
+Il s'agit d'une variante démesurée du symbole sacré standard accueillant un compartiment hermétique qui peut contenir jusqu'à 0,5 litre de liquide (le même volume qu'une [[Flasque (objet)|flasque normale]] d'[[Eau bénite (objet)|eau bénite]]). Les aventuriers utilisent généralement ce contenant pour conserver de l'alcool ou de l'eau bénite. Une flasque sacrée n'est pas prévue pour être lancée sur des ennemis et n'est pas aussi fragile qu'une flasque ordinaire ou qu'une fiole. Pour utiliser l'eau bénite, il faut procéder comme pour asperger un adversaire intangible : débucher la fiole et verser son contenu sur une cible adjacente. Il faut réussir un test de [[Perception]] [[DD]] 10 pour repérer le compartiment.

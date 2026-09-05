@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISR}*Votre optimisme à toute épreuve permet à vous et vos compagnons de tenir bon même dans les temps difficiles.*
 
-**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Halfelin](./Halfelin.md), traits raciaux chance des halfelins et sans peur
+**Conditions.** [[Halfelin]], traits raciaux chance des halfelins et sans peur
 
-**Avantages.** Les alliés adjacents qui possèdent ce don bénéficient d'un bonus de moral de +1 aux [jets de sauvegarde](./JDS.md). Ce bonus passe à +3 aux jets de sauvegarde contre la peur.
+**Avantages.** Les alliés adjacents qui possèdent ce don bénéficient d'un bonus de moral de +1 aux [[jds|jets de sauvegarde]]. Ce bonus passe à +3 aux jets de sauvegarde contre la peur.

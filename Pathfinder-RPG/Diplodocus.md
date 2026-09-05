@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire p.64*}
 {s:BDTexte|**PX** 19 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille C, N}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +32}
+{s:BDTexte|[[type Animal|Animal]] de taille C, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +32}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 6, pris au dépourvu 23 (Dex +2, naturelle +21, taille -8)}
 {s:BDTexte|**pv** 190 (20d8+100)}
@@ -24,12 +24,12 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 fouets caudaux, +22 (4d6+15/19-20)}
 {s:BDTexte|**Espace** 9 m (6 {s:c}) ; **Allonge** 18 m (12 {s:c})}
-{s:BDTexte|**Attaques spéciales** [piétinement](./Piétinement.md) (2d8+22, DD 35)}
+{s:BDTexte|**Attaques spéciales** [[piétinement]] (2d8+22, DD 35)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 40, **Dex** 14, **Con** 21, **Int** 2, **Sag** 17, **Cha** 11}
 {s:BDTexte|**BBA** +15, **BMO** +38 (+40 bousculade), **DMD** 50 (52 contre bousculade, 54 contre croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Coup fabuleux](./Coup fabuleux.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (fouet caudal), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +32}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Coup fabuleux]], [[Critique ralentissant]], [[Don pour les critiques]], [[Talent]] ([[Perception]]), [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (fouet caudal), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Perception]] +32}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupeau (3-14)}
@@ -41,7 +41,7 @@ immense appendice lui sert d’arme principale et inflige des dégâts
 contondants et tranchants. Le diplodocus peut faire deux attaques
 distinctes avec son fouet caudal quand il réalise une action complexe.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>*Cet énorme quadrupède au long cou se déplace avec une grâce inattendue, sa longue queue effilée comme un fouet tendue à l’horizontale.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>*Cet énorme quadrupède au long cou se déplace avec une grâce inattendue, sa longue queue effilée comme un fouet tendue à l’horizontale.*
 
 Du haut de ses trente mètres et plus, le diplodocus
 fait partie des dinosaures les
@@ -58,7 +58,7 @@ distance.
 
 #### Le diplodocus comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m (6 {s:c}) ; **CA** armure naturelle +6 ; **Attaque** queue (1d8) ; **Caractéristiques** For 10, Dex 14, Con 10, Int 2, Sag 12, Cha 10 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m (6 {s:c}) ; **CA** armure naturelle +6 ; **Attaque** queue (1d8) ; **Caractéristiques** For 10, Dex 14, Con 10, Int 2, Sag 12, Cha 10 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** queue (2d6) ; **Caractéristiques** For +6, Dex -2, Con +4 ; **Particularités** fouet caudal.
 </div>

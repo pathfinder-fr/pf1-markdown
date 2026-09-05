@@ -12,6 +12,6 @@ Categories:
 
 *Le personnage a appris comment esquiver les nuées d’horreurs grouillantes qui résident souvent dans les tombes oubliées et les vallées perdues de la Terre des pharaons.*
 
-**Conditions.** [Dex](./Dex.md) 15, capacité [esquive totale](./Roublard.md#ESQUIVETOTALE)
+**Conditions.** [[Dex]] 15, capacité [[Roublard#ESQUIVETOTALE|esquive totale]]
 
-**Avantages.** Quand une nuée attaque le personnage en terminant son tour sur la même case que lui, il a droit à un jet de [Réflexes](./Réflexes.md) pour éviter les dégâts (le [DD](./DD.md) est égal à celui de la distraction de la nuée + 10). S’il réussit son [jet de sauvegarde](./JDS.md), il évite aussi les dégâts de poison, l’absorption de sang ou les effets similaires qui accompagnent normalement les dégâts de la nuée. Si le personnage possède [esquive surnaturelle](./Moine.md#ESQUIVESURNATURELLE), elle s’applique aussi aux dégâts des nuées.
+**Avantages.** Quand une nuée attaque le personnage en terminant son tour sur la même case que lui, il a droit à un jet de [[Réflexes]] pour éviter les dégâts (le [[DD]] est égal à celui de la distraction de la nuée + 10). S’il réussit son [[jds|jet de sauvegarde]], il évite aussi les dégâts de poison, l’absorption de sang ou les effets similaires qui accompagnent normalement les dégâts de la nuée. Si le personnage possède [[Moine#ESQUIVESURNATURELLE|esquive surnaturelle]], elle s’applique aussi aux dégâts des nuées.

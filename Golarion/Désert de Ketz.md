@@ -7,4 +7,4 @@ Categories:
 - Qadira
 ---
 
-Nom donné à la partie du désert du [Qadira](./Qadira.md) située entre les [Montagnes Zho](./Montagnes Zho.md) et [Katheer](./Katheer.md). Sa côte est constituée de hautes falaises sur lesquelles la [Mer Intérieure](./mer Intérieure.md) vient se fracasser avec violence.
+Nom donné à la partie du désert du [[Qadira]] située entre les [[Montagnes Zho]] et [[Katheer]]. Sa côte est constituée de hautes falaises sur lesquelles la [[Mer Intérieure]] vient se fracasser avec violence.

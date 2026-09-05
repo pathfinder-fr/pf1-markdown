@@ -14,26 +14,26 @@ Categories:
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire p.140*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +8 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +8 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 11 (Dex +4, naturelle +1)}
 {s:BDTexte|**pv** 19 (3d8+6)}
 {s:BDTexte|**Réf** +7, **Vig** +5, **Vol** +2}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c}) ; sprint}
-{s:BDTexte|**Corps à corps** morsure, +6 (1d6+3 et [croc-en-jambe](./croc-en-jambe.md)), 2 griffes, +6 (1d3+3)}
+{s:BDTexte|**Corps à corps** morsure, +6 (1d6+3 et [[croc-en-jambe]]), 2 griffes, +6 (1d3+3)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 19, **Con** 15, **Int** 2, **Sag** 12, **Cha** 6}
-{s:BDTexte|**BBA** +2, **BMO** +5, **DMD** 19 (23 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8, [Discrétion](./Discrétion.md) +8 (+12 dans les hautes herbes), [Perception](./Perception.md) +5 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 dans les hautes herbes}
+{s:BDTexte|**BBA** +2, **BMO** +5, **DMD** 19 (23 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8, [[Discrétion]] +8 (+12 dans les hautes herbes), [[Perception]] +5 ; **Modificateurs raciaux** [[Discrétion]] +4 dans les hautes herbes}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Sprint (Ext).**Une fois par heure, un guépard peut se déplacer à 10 fois sa vitesse normale (150 m (100 {s:c})) lorsqu'il [charge](./charge.md).}
+{s:BDTexte|**Sprint (Ext).**Une fois par heure, un guépard peut se déplacer à 10 fois sa vitesse normale (150 m (100 {s:c})) lorsqu'il [[charge]].}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -41,11 +41,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Chat](./Chat.md) || 1/4
+| Familier, [[Chat]] || 1/4
 |-
-| [Guépard](./Guépard.md) || 2
+| [[Guépard]] || 2
 |-
-| [Léopard](./Léopard.md) || 2
+| [[Léopard]] || 2
 |}
 </div>*Les longues et puissantes pattes de ce grand félin à la fourrure dorée tachetée de noir lui permettent de se déplacer à vive allure.*
 
@@ -62,7 +62,7 @@ long et pèse 70 kg.
 
 #### Le guépard comme compagnon animal
 
-**Caractéristiques de départ** **Taille** P ; **Vitesse** 15 m (10 {s:c})  ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4 plus [Croc-en-jambe](./Croc-en-jambe (capacité).md)), 2 griffes (1d2) ; **Caractéristiques** For 12, Dex 21, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ** **Taille** P ; **Vitesse** 15 m (10 {s:c})  ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4 plus [[Croc-en-jambe (capacité)|Croc-en-jambe]]), 2 griffes (1d2) ; **Caractéristiques** For 12, Dex 21, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 4** : **Taille** M ; **Attaque** morsure (1d6 plus [Croc-en-jambe](./Croc-en-jambe (capacité).md)), 2 griffes (1d3) ; **Caractéristiques** For +4, Dex –2, Con +2 ; **Particularité** [sprint](./Guépard.md).
+**Développement au niveau 4** : **Taille** M ; **Attaque** morsure (1d6 plus [[Croc-en-jambe (capacité)|Croc-en-jambe]]), 2 griffes (1d3) ; **Caractéristiques** For +4, Dex –2, Con +2 ; **Particularité** [[Guépard|sprint]].
 </div></td></tr></table>

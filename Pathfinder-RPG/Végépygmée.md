@@ -13,21 +13,21 @@ Categories:
 {s:pucem|Plante|souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.282}
 {s:BDTexte|**XP** 200}
-{s:BDTexte|[Plante](./type Plante.md) de taille P, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Plante|Plante]] de taille P, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 13, pris au dépourvu 14 (Dex +2, naturelle +3, taille +1)}
 {s:BDTexte|**pv** 5 (1d8+1)}
 {s:BDTexte|**Réf** +2, **Vig** +3, **Vol** +0}
-{s:BDTexte|**Capacités défensives** [traits des plantes](./Traits des plantes.md), ; **Immunités** électricité ; **RD** 5/tranchant ou contondant }
+{s:BDTexte|**Capacités défensives** [[traits des plantes]], ; **Immunités** électricité ; **RD** 5/tranchant ou contondant }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 griffes +1 (1d4) ou grande pique +1 (1d6)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 14, **Con** 12, **Int** 8, **Sag** 11, **Cha** 11}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 11}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10 (+18 au sein de la végétation), [Perception](./Perception.md) +7 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 (+12 au sein de la végétation)}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +10 (+18 au sein de la végétation), [[Perception]] +7 ; **Modificateurs raciaux** [[Discrétion]] +4 (+12 au sein de la végétation)}
 {s:BDTexte|**Langues** commun des profondeurs, végépygmée (ne sait pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}

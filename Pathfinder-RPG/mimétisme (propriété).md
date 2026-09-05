@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Mimétisme
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Mimétisme](./Descriptions individuelles des propriétés spéciales des armes.md#Mimétisme)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Mimétisme]]

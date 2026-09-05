@@ -9,12 +9,12 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:cm}**Cette option est plus courante chez les [gnolls](./Gnoll.md).**
+{s:cm}**Cette option est plus courante chez les [[Gnoll|gnolls]].**
 
 *Le personnage peut mordre un adversaire pris en tenaille en un éclair.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONEQUIPE|équipe]]
 
-**Condition.** [BBA](./BBA.md) +9, attaque de morsure
+**Condition.** [[BBA]] +9, attaque de morsure
 
-**Avantage.** Quand le personnage prend un adversaire en [tenaille](./prendre en tenaille.md) avec un allié disposant aussi de ce don, il peut effectuer une attaque de morsure contre lui par une [action rapide](./Action rapide.md).
+**Avantage.** Quand le personnage prend un adversaire en [[prendre en tenaille|tenaille]] avec un allié disposant aussi de ce don, il peut effectuer une attaque de morsure contre lui par une [[action rapide]].

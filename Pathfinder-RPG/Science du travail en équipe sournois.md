@@ -12,8 +12,8 @@ Categories:
 
 {s:RSE}*Le personnage et ses alliés se sont longuement entraînés à exploiter les désavantages de leur adversaire pour faire empirer sa situation.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Expertise du combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md), [Travail en équipe sournois](./Travail en équipe sournois.md), [BBA](./BBA.md) +6
+**Conditions.** [[Expertise du combat]], [[Science du sale coup]], [[Travail en équipe sournois]], [[BBA]] +6
 
-**Avantage.** Quand le personnage et un allié, possédant également ce don, menacent un même adversaire et que l’allié effectue une manœuvre de [sale coup](./sale coup.md) contre lui, le personnage peut dépenser une [action immédiate](./Action immédiate.md) pour faire une manœuvre de sale coup contre ce même adversaire et lui infliger une deuxième condition néfaste. Si l’ennemi utilise une action pour se débarrasser de la première condition, il se libère également de la condition que le personnage lui a imposée par son action immédiate.
+**Avantage.** Quand le personnage et un allié, possédant également ce don, menacent un même adversaire et que l’allié effectue une manœuvre de [[sale coup]] contre lui, le personnage peut dépenser une [[action immédiate]] pour faire une manœuvre de sale coup contre ce même adversaire et lui infliger une deuxième condition néfaste. Si l’ennemi utilise une action pour se débarrasser de la première condition, il se libère également de la condition que le personnage lui a imposée par son action immédiate.

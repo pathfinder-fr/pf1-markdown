@@ -6,119 +6,119 @@
 ### Les races de base
 <table><tr style="vertical-align: top"><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Demi-elfe.jpg';">[Les demi-elfes](./../Pathfinder-RPG/Demi-elfe.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Demi-elfe.jpg';">[[Demi-elfe|Les demi-elfes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Demi-orque.jpg';">[Les demi-orques](./../Pathfinder-RPG/Demi-orque.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Demi-orque.jpg';">[[Demi-orque|Les demi-orques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Elfe.jpg';">[Les elfes](./../Pathfinder-RPG/Elfe.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Elfe.jpg';">[[Elfe|Les elfes]]</li>
 </ul>
 </td><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Gnome.jpg';">[Les gnomes](./../Pathfinder-RPG/Gnome.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Gnome.jpg';">[[Gnome|Les gnomes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg';">[Les halfelins](./../Pathfinder-RPG/Halfelin.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Halfelin.jpg';">[[Halfelin|Les halfelins]]</li>
 </ul>
 </td><td width="25%">
 <ul><li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Humain.jpg';">[Les humains](./../Pathfinder-RPG/Humain.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Humain.jpg';">[[Humain|Les humains]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Nain.jpg';">[Les nains](./../Pathfinder-RPG/Nain.md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/Nain.jpg';">[[Nain|Les nains]]</li>
 </ul>
 </td><td width="25%">
-<ul><li>{s:PM|RACESADDITIONNELLES1}***[Races additionnelles](./../Golarion/races.md#RACESADDITIONNELLES)***
+<ul><li>{s:PM|RACESADDITIONNELLES1}***[[Races#RACESADDITIONNELLES|Races additionnelles]]***
 <ul ID="RACESADDITIONNELLES1" CLASS="listecachée cadrebas">
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/aasimar.jpg';">[Les aasimars](./../Pathfinder-RPG/Aasimar (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/aasimar.jpg';">[[Aasimar (race)|Les aasimars]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/dhampir.jpg';">[Les dhampirs](./../Pathfinder-RPG/Dhampir (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/dhampir.jpg';">[[Dhampir (race)|Les dhampirs]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/drow.jpg';">[Les drows](./../Pathfinder-RPG/Drow (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/drow.jpg';">[[Drow (race)|Les drows]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/fetchelin.jpg';">[Les fetchelins](./../Pathfinder-RPG/Fetchelin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/fetchelin.jpg';">[[Fetchelin (race)|Les fetchelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/gobelin.jpg';">[Les gobelins](./../Pathfinder-RPG/Gobelin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/gobelin.jpg';">[[Gobelin (race)|Les gobelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/hobgobelin.jpg';">[Les hobgobelins](./../Pathfinder-RPG/Hobgobelin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/hobgobelin.jpg';">[[Hobgobelin (race)|Les hobgobelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-félin.jpg';">[Les hommes-félins](./../Pathfinder-RPG/homme-félin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-félin.jpg';">[[Homme-félin (race)|Les hommes-félins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-rat.jpg';">[Les hommes-rats](./../Pathfinder-RPG/Homme-rat (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-rat.jpg';">[[Homme-rat (race)|Les hommes-rats]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/ifrit.jpg';">[Les ifrits](./../Pathfinder-RPG/Ifrit (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/ifrit.jpg';">[[Ifrit (race)|Les ifrits]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/kobold.jpg';">[Les kobolds](./../Pathfinder-RPG/Kobold (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/kobold.jpg';">[[Kobold (race)|Les kobolds]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/ondin.jpg';">[Les ondins](./../Pathfinder-RPG/Ondin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/ondin.jpg';">[[Ondin (race)|Les ondins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/orque.jpg';">[Les orques](./../Pathfinder-RPG/orque (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/orque.jpg';">[[Orque (race)|Les orques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/oréade.jpg';">[Les oréades](./../Pathfinder-RPG/Oréade (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/oréade.jpg';">[[Oréade (race)|Les oréades]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/sylphe.jpg';">[Les sylphes](./../Pathfinder-RPG/Sylphe (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/sylphe.jpg';">[[Sylphe (race)|Les sylphes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/tengu.jpg';">[Les tengus](./../Pathfinder-RPG/Tengu (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/tengu.jpg';">[[Tengu (race)|Les tengus]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/tieffelin.jpg';">[Les tieffelins](./../Pathfinder-RPG/Tieffelin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/tieffelin.jpg';">[[Tieffelin (race)|Les tieffelins]]</li>
 </ul></li>
-<li>{s:PM|RACESEXTRAORDINAIRES1}***[Races extraordinaires](./../Golarion/races.md#RACESEXTRAORDINAIRES)***
+<li>{s:PM|RACESEXTRAORDINAIRES1}***[[Races#RACESEXTRAORDINAIRES|Races extraordinaires]]***
 <ul ID="RACESEXTRAORDINAIRES1" CLASS="listecachée cadrebas">
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/aquatique.jpg';">[Les aquatiques](./../Pathfinder-RPG/aquatique (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/aquatique.jpg';">[[Aquatique (race)|Les aquatiques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/changelin.jpg';">[Les changelins](./../Pathfinder-RPG/changelin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/changelin.jpg';">[[Changelin (race)|Les changelins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/duergar.jpg';">[Les duergars](./../Pathfinder-RPG/duergar (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/duergar.jpg';">[[Duergar (race)|Les duergars]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/grippli.jpg';">[Les gripplis](./../Pathfinder-RPG/grippli (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/grippli.jpg';">[[Grippli (race)|Les gripplis]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-poisson.jpg';">[Les hommes-poissons](./../Pathfinder-RPG/homme-poisson (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/homme-poisson.jpg';">[[Homme-poisson (race)|Les hommes-poissons]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/kitsune.jpg';">[Les kitsune](./../Pathfinder-RPG/kitsune (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/kitsune.jpg';">[[Kitsune (race)|Les kitsune]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/nagaji.jpg';">[Les nagajis](./../Pathfinder-RPG/nagaji (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/nagaji.jpg';">[[Nagaji (race)|Les nagajis]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/samsaran.jpg';">[Les samsarans](./../Pathfinder-RPG/samsaran (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/samsaran.jpg';">[[Samsaran (race)|Les samsarans]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/strix.jpg';">[Les strix](./../Pathfinder-RPG/strix (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/strix.jpg';">[[Strix (race)|Les strix]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/suli.jpg';">[Les sulis](./../Pathfinder-RPG/suli (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/suli.jpg';">[[Suli (race)|Les sulis]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/svirfneblin.jpg';">[Les svirfneblins](./../Pathfinder-RPG/svirfneblin (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/svirfneblin.jpg';">[[Svirfneblin (race)|Les svirfneblins]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/vanara.jpg';">[Les vanaras](./../Pathfinder-RPG/vanara (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/vanara.jpg';">[[Vanara (race)|Les vanaras]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/vishkanya.jpg';">[Les vishkanyas](./../Pathfinder-RPG/vishkanya (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/vishkanya.jpg';">[[Vishkanya (race)|Les vishkanyas]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/wayang.jpg';">[Les wayangs](./../Pathfinder-RPG/wayang (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/wayang.jpg';">[[Wayang (race)|Les wayangs]]</li>
 </ul></li>
-<li>{s:PM|RACESMONSTRUEUSES1}***[Races monstrueuses](./../Golarion/races.md#RACESMONSTRUEUSES)***
+<li>{s:PM|RACESMONSTRUEUSES1}***[[Races#RACESMONSTRUEUSES|Races monstrueuses]]***
 <ul ID="RACESMONSTRUEUSES1" CLASS="listecachée cadrebas">
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/androïde.jpg';">[Les androïdes](./../Pathfinder-RPG/Androïde (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/androïde.jpg';">[[Androïde (race)|Les androïdes]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/changepeau.jpg';">[Les changepeaux](./../Pathfinder-RPG/Changepeau (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/changepeau.jpg';">[[Changepeau (race)|Les changepeaux]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/elfe_aquatique.jpg';">[Les elfes aquatiques](./../Pathfinder-RPG/Elfe aquatique (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/elfe_aquatique.jpg';">[[Elfe aquatique (race)|Les elfes aquatiques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/gathelain.jpg';">[Les gathelains](./../Pathfinder-RPG/Gathelain (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/gathelain.jpg';">[[Gathelain (race)|Les gathelains]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/ghoran.jpg';">[Les ghorans](./../Pathfinder-RPG/Ghoran (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/ghoran.jpg';">[[Ghoran (race)|Les ghorans]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/gobelin_simiesque.jpg';">[Les gobelins simiesques](./../Pathfinder-RPG/Gobelin simiesque (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/gobelin_simiesque.jpg';">[[Gobelin simiesque (race)|Les gobelins simiesques]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/kasatha.jpg';">[Les kasathas](./../Pathfinder-RPG/Kasatha (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/kasatha.jpg';">[[Kasatha (race)|Les kasathas]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/lashunta.jpg';">[Les lashuntas](./../Pathfinder-RPG/Lashunta (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/lashunta.jpg';">[[Lashunta (race)|Les lashuntas]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/syrinx.jpg';">[Les syrinx](./../Pathfinder-RPG/Syrinx (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/syrinx.jpg';">[[Syrinx (race)|Les syrinx]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/trox.jpg';">[Les trox](./../Pathfinder-RPG/Trox (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/trox.jpg';">[[Trox (race)|Les trox]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/triaxien.jpg';">[Les triaxiens](./../Pathfinder-RPG/Triaxien (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/triaxien.jpg';">[[Triaxien (race)|Les triaxiens]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/virebois.jpg';">[Les virebois](./../Pathfinder-RPG/Virebois (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/virebois.jpg';">[[Virebois (race)|Les virebois]]</li>
 <li onmouseover="
-document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/wivaran.jpg';">[Les wivarans](./../Pathfinder-RPG/Wivaran (race).md)</li>
+document.getElementById('menuraceIMG1').src='/wiki/public/upload/Illustrations/PNJ/wivaran.jpg';">[[Wivaran (race)|Les wivarans]]</li>
 </ul></li>
 </ul>
 </td></tr></table>

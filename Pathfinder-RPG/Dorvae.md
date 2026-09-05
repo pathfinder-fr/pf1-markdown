@@ -10,7 +10,7 @@ LastModified: 2017-06-16 02:03
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 66*}
 - **12 800 PX**
-- [Extérieur](./type Extérieur.md) ([Mal](./sous-type Mal.md)) de taille M, NM
+- [[type extérieur|Extérieur]] ([[sous-type mal|Mal]]) de taille M, NM
 - **Init **+5 ; **Sens **détection de l’invisibilité, vision dans le noir 18 m ; Perception +24
 (((Défense)))
 - **CA **24, contact 16, pris au dépourvu 18 (Dex +5, esquive +1, naturelle +8)
@@ -22,15 +22,15 @@ LastModified: 2017-06-16 02:03
 - **Corps à corps** 2 griffes, +18 (3d8+4/19-20 plus étreinte)
 - **Attaque spéciale** serpents grouillants
 - **Pouvoirs magiques** (**NLS **11 ; concentration +14)
-  - *Constant* — [détection de l’invisibilité](./Détection de linvisibilité.md)
-  - *À volonté* — [détection de pensées](./Détection de pensées.md) (DD 15)
-  - *3/jour* — [malédiction](./malédiction.md) (DD 17), [porte dimensionnelle](./Porte dimensionnelle.md)
-  - * 1/jour *— [débilité](./Débilité.md) (DD 18), [mission](./Mission.md) (DD 17)
+  - *Constant* — [[détection de linvisibilité|détection de l’invisibilité]]
+  - *À volonté* — [[détection de pensées]] (DD 15)
+  - *3/jour* — [[malédiction]] (DD 17), [[porte dimensionnelle]]
+  - * 1/jour *— [[débilité]] (DD 18), [[mission]] (DD 17)
 (((Statistiques)))
 - **For** 18, **Dex **21, **Con **18, **Int **17, **Sag **14, **Cha **17
 - **BBA** +13 ; **BMO **+20 (+24 lutte) ; **DMD **33
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en vol](./Attaque en vol.md), [Esquive](./Esquive.md), [Manoeuvres agiles](./Manoeuvres-agiles.md), [Science du critique](./Science du critique.md) (griffe), [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md) (Perception)
-- **Compétences** [Acrobaties](./Acrobaties.md) +21, [Bluff](./Bluff.md) +19, [Connaissances](./Connaissances.md) (plans) +19, [Connaissances](./Connaissances.md) (religion) +19, [Diplomatie](./Diplomatie.md) +13, [Discrétion](./Discrétion.md) +21, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +24, [Psychologie](./Psychologie.md) +18, [Vol](./Vol.md) +18 
+- **Dons **[[Arme de prédilection]] (griffe), [[Attaque en vol]], [[Esquive]], [[Manoeuvres agiles]], [[Science du critique]] (griffe), [[Souplesse du serpent]], [[Talent]] (Perception)
+- **Compétences** [[Acrobaties]] +21, [[Bluff]] +19, [[Connaissances]] (plans) +19, [[Connaissances]] (religion) +19, [[Diplomatie]] +13, [[Discrétion]] +21, [[Intimidation]] +16, [[Perception]] +24, [[Psychologie]] +18, [[Vol]] +18 
 - **Langues **abyssal, céleste, commun, infernal ; télépathie 15 m
 (((Écologie)))
 - **Environnement** tous (plans Mauvais)

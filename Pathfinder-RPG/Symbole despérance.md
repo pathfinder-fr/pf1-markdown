@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Votre espérance encourage vos alliés dans leur bataille.*
 
-**Conditions.** [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 3d6, suivant de [Milani](./Milani (technique).md).
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] 3d6, suivant de [[Milani (technique)|Milani]].
 
-**Avantage.** Lorsque le personnage canalise l'énergie positive pour soigner les créatures vivantes, celles qu'il soigne gagnent un bonus de moral de +2 aux [jets de sauvegarde](./JDS.md), aux [jets d'attaque](./jet dattaque.md) ainsi qu'aux tests de [caractéristique](./Caractéristiques.md) et de [compétence](./Compétences.md) pendant un nombre de [rounds](./round.md) égal à son modificateur de [Charisme](./Charisme.md) (minimum 1 round).
+**Avantage.** Lorsque le personnage canalise l'énergie positive pour soigner les créatures vivantes, celles qu'il soigne gagnent un bonus de moral de +2 aux [[jds|jets de sauvegarde]], aux [[jet dattaque|jets d'attaque]] ainsi qu'aux tests de [[Caractéristiques|caractéristique]] et de [[Compétences|compétence]] pendant un nombre de [[round|rounds]] égal à son modificateur de [[Charisme]] (minimum 1 round).

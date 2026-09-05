@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Les attaques à distance du personnage bénéficient de la prise en tenaille. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), un autre don de [travail en équipe](./Dons.md#EQUIPE)
+**Conditions.** [[Tir à bout portant]], [[Tir de précision]], un autre don de [[dons#EQUIPE|travail en équipe]]
 
-**Avantage.** Le personnage reçoit un bonus de +2 aux [jets d’attaque](./jet dattaque.md) à distance contre un adversaire [pris en tenaille](./Pris en tenaille.md) par un ou plusieurs alliés qui disposent aussi de ce don.
+**Avantage.** Le personnage reçoit un bonus de +2 aux [[jet dattaque|jets d’attaque]] à distance contre un adversaire [[pris en tenaille]] par un ou plusieurs alliés qui disposent aussi de ce don.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser un point d’endurance avant de faire un [jet d’attaque](./jet dattaque.md) à distance pour bénéficier des avantages de ce don contre une cible [prise en tenaille](./prendre en tenaille.md) par deux alliés ou plus, même si ces alliés ne disposent pas de ce don.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser un point d’endurance avant de faire un [[jet dattaque|jet d’attaque]] à distance pour bénéficier des avantages de ce don contre une cible [[prendre en tenaille|prise en tenaille]] par deux alliés ou plus, même si ces alliés ne disposent pas de ce don.

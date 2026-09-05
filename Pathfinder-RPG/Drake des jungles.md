@@ -11,25 +11,25 @@ Categories:
 <div class="BD">
 {s:BDTitre|Drake des jungles|FP 6}
 {s:pucem|Dragon|Forêt-Jungle|Tropical}
-{s:BDTexte|*Source : [Bestiaire 5 p.105](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (Contenu)|Bestiaire 5 p.105]]*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Dragon](./type Dragon.md) ([Terre](./sous-type Terre.md)) de taille G, NM}
-{s:BDTexte|**Init** +7 ; **Sens** [odorat](./Odorat (capacité).md), [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md), [vision végétale](./Vision végétale (capacité).md) à 18 m ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Terre|Terre]]) de taille G, NM}
+{s:BDTexte|**Init** +7 ; **Sens** [[Odorat (capacité)|odorat]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]], [[Vision végétale (capacité)|vision végétale]] à 18 m ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 13, pris au dépourvu 15 (Dex +3, esquive +1, naturelle +6, taille -1)}
 {s:BDTexte|**pv** 73 (7d12+28)}
 {s:BDTexte|**Réf** +8, **Vig** +9, **Vol** +6}
 {s:BDTexte|**Immunités** maladie, paralysie, poison, sommeil}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 12 m, [vol](./Vol (capacité).md) 18 m (moyenne)}
-{s:BDTexte|**Corps à corps** morsure, +13 (2d6+7 plus [étreinte](./Étreinte (capacité).md)) et dard, +13 (1d8+7 plus poison)}
+{s:BDTexte|**VD** 12 m, [[Vol (capacité)|vol]] 18 m (moyenne)}
+{s:BDTexte|**Corps à corps** morsure, +13 (2d6+7 plus [[Étreinte (capacité)|étreinte]]) et dard, +13 (1d8+7 plus poison)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
 {s:BDTexte|**Attaques spéciales** étreinte du prédateur}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 17, **Con** 19, **Int** 8, **Sag** 13, **Cha** 12}
-{s:BDTexte|**BBA** +7 ; **BMO** +15 (+19 en [lutte](./lutte.md)) ; **DMD** 29}
-{s:BDTexte|**Dons** [Attaque éclair](./Attaque éclair.md), [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +11, [Psychologie](./Psychologie.md) +11, [Survie](./Survie.md) +11, [Vol](./Vol.md) +11}
+{s:BDTexte|**BBA** +7 ; **BMO** +15 (+19 en [[lutte]]) ; **DMD** 29}
+{s:BDTexte|**Dons** [[Attaque éclair]], [[Esquive]], [[Science de linitiative|Science de l'initiative]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +9, [[Perception]] +11, [[Psychologie]] +11, [[Survie]] +11, [[Vol]] +11}
 {s:BDTexte|**Langues** draconique}
 {s:BDTexte|**Particularités** accélération soudaine, déplacement facilité}
 {s:BDSousTitre|Écologie}
@@ -37,13 +37,13 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, couple ou déchaînement (3-8)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Accélération soudaine (Ext).** Trois fois par jour, par une [action rapide](./Action rapide.md), un drake des jungles peut augmenter sa force et sa vitesse grâce à son héritage draconique, ce qui lui permet d’effectuer une [action de mouvement](./Action de mouvement.md) supplémentaire lors du round en cours.}
+{s:BDTexte|**Accélération soudaine (Ext).** Trois fois par jour, par une [[action rapide]], un drake des jungles peut augmenter sa force et sa vitesse grâce à son héritage draconique, ce qui lui permet d’effectuer une [[action de mouvement]] supplémentaire lors du round en cours.}
 {s:BDTexte|**Déplacement facilité (Ext).** Un drake des jungles peut se déplacer normalement à travers n’importe quel type de végétation sans subir de dégâts ni être ralenti. Les zones de végétation manipulées par magie l’affectent normalement.}
-{s:BDTexte|**Étreinte du prédateur (Ext).** Un drake des jungles se déplace à sa vitesse de déplacement normale quand il choisit l’option [déplacement](./lutte.md) après avoir maintenu sa prise sur sa cible. Il doit toutefois rester au niveau du sol avec sa cible agrippée. Un drake des jungles peut dépenser une utilisation de son accélération soudaine pour déplacer une cible agrippée de cette façon sans avoir à effectuer un test pour maintenir la prise.}
-{s:BDTexte|**Poison (Ext).** *Dard* — blessure ; *JdS* Vig DD 17 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) 1d2 [Dextérité](./Dextérité.md) et [Force](./Force.md) ; *guérison* 1 réussite.}
+{s:BDTexte|**Étreinte du prédateur (Ext).** Un drake des jungles se déplace à sa vitesse de déplacement normale quand il choisit l’option [[lutte|déplacement]] après avoir maintenu sa prise sur sa cible. Il doit toutefois rester au niveau du sol avec sa cible agrippée. Un drake des jungles peut dépenser une utilisation de son accélération soudaine pour déplacer une cible agrippée de cette façon sans avoir à effectuer un test pour maintenir la prise.}
+{s:BDTexte|**Poison (Ext).** *Dard* — blessure ; *JdS* Vig DD 17 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] 1d2 [[Dextérité]] et [[Force]] ; *guérison* 1 réussite.}
 
 </div></td>
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [drakes](./Drake.md).***</li></ul>*Le cuir de cette robuste créature est moucheté de bleu et de vert, et sa longue queue dissimule un dard menaçant.*
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>*Le cuir de cette robuste créature est moucheté de bleu et de vert, et sa longue queue dissimule un dard menaçant.*
 
 Les drakes des jungles sont des prédateurs implacables, tenaces et totalement adaptés à leur environnement. La queue de ces drakes inocule une toxine virulente capable d’affaiblir même le plus résistant des adversaires.
 

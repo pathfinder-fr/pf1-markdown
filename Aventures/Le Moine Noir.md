@@ -15,9 +15,9 @@ LastModified: 2016-07-22 13:52
 - **pv** 68 (8d8+24)
 - **Réf** +10, **Vig** +9, **Vol** +10 ; +2 contre les enchantements 
 - **Capacités défensives** chute ralentie (12m), esquive totale, résistance aux coups, résistance à la canalisation (+4), plénitude physique
-- **Immunités** [traits des morts-vivants](./../Pathfinder-RPG/Traits des morts-vivants (capacité).md) ; **RD** 5/-
+- **Immunités** [[Pathfinder-RPG.traits des morts-vivants (capacité)|traits des morts-vivants]] ; **RD** 5/-
 - **Résistance** froid (10)
-- **Faiblesses** [vulnérable au feu](./../Pathfinder-RPG/Vulnérabilités (capacité).md)
+- **Faiblesses** [[Pathfinder-RPG.vulnérabilités (capacité)|vulnérable au feu]]
 (((Attaque)))
 - **VD** 1 case, vol 12 cases (parfaite)
 - **Corps à corps** mains nues, +17/+12 (1d10+10 et **putréfaction de la momie**) OU 

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.82*}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([aquatique](./sous-type aquatique.md), [daémon](./sous-type daémon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille M, NM}
-{s:BDTexte|**Init** +8 ; **Sens** *[détection de la magie](./Détection de la magie.md)*, *[détection de l'invisibilité](./Détection de linvisibilité.md)*, *[détection du Bien](./Détection du Bien.md)*, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type aquatique|aquatique]], [[sous-type daémon|daémon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, NM}
+{s:BDTexte|**Init** +8 ; **Sens** *[[détection de la magie]]*, *[[détection de linvisibilité|détection de l'invisibilité]]*, *[[détection du Bien]]*, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 14, pris au dépourvu 20 (Dex +4, naturelle +10)}
 {s:BDTexte|**pv** 137 (11d10+77)}
@@ -23,30 +23,30 @@ Categories:
 {s:BDTexte|**Immunités** acide, effets de mort, maladie, poison ; **RD** 10/Bien ; **Résistances** électricité 10, feu 10, froid 10 ; **RM** 21}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** 2 pinces, +18 (2d6+7/18-20/×3 plus [étreinte](./Étreinte.md) et 1d6 [saignement](./Saignement.md)) et tentacules, +16 (1d10+3 plus poison)}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (2d6+10)}
+{s:BDTexte|**Corps à corps** 2 pinces, +18 (2d6+7/18-20/×3 plus [[étreinte]] et 1d6 [[saignement]]) et tentacules, +16 (1d10+3 plus poison)}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (2d6+10)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 11 ; concentration +14)}
-{s:BDSorts|Constant — *[détection de la magie](./Détection de la magie.md)*, *[détection de l'invisibilité](./Détection de linvisibilité.md)*, *[détection du Bien](./Détection du Bien.md)*}
-{s:BDSorts|À volonté — *[dissipation de la magie](./Dissipation de la magie.md)*, *[téléportation suprême](./Téléportation suprême.md)* (personnel et 25 kg d’objets uniquement)}
-{s:BDSorts|3/jour — *[nuage nauséabond](./Nuage nauséabond.md)* (DD 16), *[vol](./sort Vol.md)*}
-{s:BDSorts|1/jour — [convocation](./Convocation (capacité).md) (niveau 4, 1d3 [hydrodaémons](./Hydrodaémon.md) 35%)}
+{s:BDSorts|Constant — *[[détection de la magie]]*, *[[détection de linvisibilité|détection de l'invisibilité]]*, *[[détection du Bien]]*}
+{s:BDSorts|À volonté — *[[dissipation de la magie]]*, *[[téléportation suprême]]* (personnel et 25 kg d’objets uniquement)}
+{s:BDSorts|3/jour — *[[nuage nauséabond]]* (DD 16), *[[sort vol|vol]]*}
+{s:BDSorts|1/jour — [[convocation (capacité)|convocation]] (niveau 4, 1d3 [[hydrodaémon|hydrodaémons]] 35%)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 18, **Con** 24, **Int** 14, **Sag** 15, **Cha** 17}
 {s:BDTexte|**BBA** +11, **BMO** +18 (+22 lutte), **DMD** 32}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Critique fébrile](./Critique fébrile.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive](./Frappe décisive.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +16, [Discrétion](./Discrétion.md) +18, [Évasion](./Évasion.md) +18, [Intimidation](./Intimidation.md) +17, [Natation](./Natation.md) +29, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +16, [Survie](./Survie.md) +16}
-{s:BDTexte|**Langues** abyssal, draconique, infernal ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md), critique augmenté}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques multiples]], [[Critique fébrile]], [[Don pour les critiques]], [[Frappe décisive]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +16, [[Discrétion]] +18, [[Évasion]] +18, [[Intimidation]] +17, [[Natation]] +29, [[Perception]] +16, [[Psychologie]] +16, [[Survie]] +16}
+{s:BDTexte|**Langues** abyssal, draconique, infernal ; [[télépathie]] 30 m (20 {s:c})}
+{s:BDTexte|**Particularités** [[amphibie]], critique augmenté}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abaddon)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3–5)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs Spéciaux}
 {s:BDTexte|**Critique augmenté (Ext).** La zone de critique possible des pinces d’un piscodaémon est de 18–20. En cas de coups critiques, les dégâts sont multipliés par 3.}
-{s:BDTexte|**Poison (Ext).** Tentacules — blessure ; *JdS* Vigueur DD 22 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 Con et [chancelant](./Chancelant.md) pendant 1 round ; *guérison* 2 réussites consécutives.}
+{s:BDTexte|**Poison (Ext).** Tentacules — blessure ; *JdS* Vigueur DD 22 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d2 Con et [[chancelant]] pendant 1 round ; *guérison* 2 réussites consécutives.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 *Cet horrible croisement entre un crabe, une pieuvre et un humain possède de puissantes pinces menaçantes et des tentacules qui se tortillent.*
 
 Ces daémons aquatiques sillonnent les plans Inférieurs en

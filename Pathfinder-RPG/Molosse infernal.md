@@ -14,23 +14,23 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire* p.220}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Feu](./sous-type Feu.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille M, LM}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 11, pris au dépourvu 15 (Dex +1, naturelle +5)}
 {s:BDTexte|**pv** 30 (4d10+8)}
 {s:BDTexte|**Réf** +5, **Vig** +6, **Vol** +1}
 {s:BDTexte|**Immunités** feu }
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au froid}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au froid}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** morsure +5 (1d8+1 et 1d6 feu)}
-{s:BDTexte|**Attaques spéciales** [souffle](./Souffle.md) ([cône](./cône.md) de 3 m (2 {s:c}), utilisable tous les 2d4 rounds, 2d6 feu, Réflexes DD 14, 1/2 dégâts)}
+{s:BDTexte|**Attaques spéciales** [[souffle]] ([[cône]] de 3 m (2 {s:c}), utilisable tous les 2d4 rounds, 2d6 feu, Réflexes DD 14, 1/2 dégâts)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 13, **Con** 15, **Int** 6, **Sag** 10, **Cha** 6}
-{s:BDTexte|**BBA** +4, **BMO** +5, **DMD** 16 (20 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./Course.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8, [Discrétion](./Discrétion.md) +13, [Perception](./Perception.md) +7, [Survie](./Survie.md) +7 ; **Modificateurs raciaux** +5 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**BBA** +4, **BMO** +5, **DMD** 16 (20 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8, [[Discrétion]] +13, [[Perception]] +7, [[Survie]] +7 ; **Modificateurs raciaux** +5 en [[Discrétion]]}
 {s:BDTexte|**Langues** infernal (ne sait pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Enfer)}
@@ -44,9 +44,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Molosse infernal](./Molosse infernal.md) || 3
+| [[Molosse infernal]] || 3
 |-
-| [Molosse nessien](./Molosse nessien.md) || 9
+| [[Molosse nessien]] || 9
 |}
 </div>*Cette créature ressemble à un grand loup maigre doté de griffes blanches, d’une fourrure rouge-brun et d’yeux d’un rouge ardent.*
 

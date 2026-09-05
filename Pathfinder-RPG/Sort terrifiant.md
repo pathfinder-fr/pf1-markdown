@@ -6,14 +6,14 @@ LastModified: 2017-12-14 20:31
 
 {s:AO}*Les sorts du personnage terrifient ses victimes.*
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[Dons#DONMETAMAGIE|métamagie]]
 
 **Avantage.** Quand une créature subit des dégâts à cause d’un
-sort terrifiant, si elle rate son jet de sauvegarde, elle est [secouée](./Secoué.md)
+sort terrifiant, si elle rate son jet de sauvegarde, elle est [[secoué|secouée]]
 pendant un nombre de rounds égal au niveau originel du sort.
 Si le sort n’autorise pas de jet de sauvegarde, la victime a droit à
-un jet de Volonté pour annuler l’effet [secoué](./Secoué.md) (contre le DD que
+un jet de Volonté pour annuler l’effet [[secoué]] (contre le DD que
 le sort aurait eu s’il avait autorisé un jet de sauvegarde). Si le sort
-rend déjà sa cible [secouée](./Secoué.md), en cas d’échec au jet de sauvegarde, la
-durée du don de métamagie vient s’ajouter à celle du sort. Un sort terrifiant ne peut pas [effrayer](./Effrayé.md) une créature, même si elle est déjà [secouée](./Secoué.md). Un sort terrifiant occupe un emplacement de sort d’un
+rend déjà sa cible [[secoué|secouée]], en cas d’échec au jet de sauvegarde, la
+durée du don de métamagie vient s’ajouter à celle du sort. Un sort terrifiant ne peut pas [[effrayé|effrayer]] une créature, même si elle est déjà [[secoué|secouée]]. Un sort terrifiant occupe un emplacement de sort d’un
 niveau de plus que son niveau normal.

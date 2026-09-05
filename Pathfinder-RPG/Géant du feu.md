@@ -14,29 +14,29 @@ Categories:
 {s:pucem|Humanoïde|Montagnes|Tropical}
 {s:BDTexte|*Source : Bestiaire p.151*, codex monstrueux p.42}
 {s:BDTexte|**PX** 9.600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([Feu](./sous-type Feu.md), [géant](./sous-type géant.md)) de taille G, LM}
-{s:BDTexte|**Init** -1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type Feu|Feu]], [[sous-type géant|géant]]) de taille G, LM}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision nocturne]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 8, pris au dépourvu 24 (armure +8, Dex -1, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 142 (15d8+75)}
 {s:BDTexte|**Réf** +4, **Vig** +14, **Vol** +9}
-{s:BDTexte|**Capacités défensives** [réception de rochers](./Réception de rochers.md) ; **Immunités** feu }
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au froid}
+{s:BDTexte|**Capacités défensives** [[réception de rochers]] ; **Immunités** feu }
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au froid}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}) (9 m (6 {s:c}) en armure)}
 {s:BDTexte|**Corps à corps** épée à deux mains, +21/+16/+11 (3d6+15) ou 2 coups, +20 (1d8+10)}
 {s:BDTexte|**Distance** rocher, +10 (1d8+15 et 1d6 feu)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [lancer de rochers](./Lancer de rochers.md) 36 m (24 {s:c}), rochers surchauffés}
+{s:BDTexte|**Attaques spéciales** [[lancer de rochers]] 36 m (24 {s:c}), rochers surchauffés}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 31, **Dex** 9, **Con** 21, **Int** 10, **Sag** 14, **Cha** 10}
 {s:BDTexte|**BBA** +11, **BMO** +22, **DMD** 31}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée à deux mains), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Maniement d'une arme de guerre](./Maniement dune arme de guerre.md) (épée à deux mains), [Science de la destruction](./Science de la destruction.md), [Science du renversement](./Science du renversement.md), [Succession d'enchaînements](./Succession denchaînements.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (un au choix) +8, [Escalade](./Escalade.md) +14, [Intimidation](./Intimidation.md) +11, [Perception](./Perception.md) +14}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée à deux mains), [[Attaque en puissance]], [[Enchaînement]], [[Maniement dune arme de guerre|Maniement d'une arme de guerre]] (épée à deux mains), [[Science de la destruction]], [[Science du renversement]], [[Succession denchaînements|Succession d'enchaînements]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (un au choix) +8, [[Escalade]] +14, [[Intimidation]] +11, [[Perception]] +14}
 {s:BDTexte|**Langues** commun, géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes chaudes}
-{s:BDTexte|**Organisation sociale** solitaire, bande (2-5), groupe (6-12 et 35% non-combattants et 1 [adepte](./Adepte.md) ou [prêtre](./Prêtre.md) de niveau 1-2), groupe de pillards (6-12 et 1 [adepte](./Adepte.md) ou [ensorceleur](./Ensorceleur.md) de niveau 3-5, 2-5 [molosses infernaux](./Molosse infernal.md) et 2-3 [trolls](./Troll.md) ou [ettins](./Ettin.md)) ou tribu (20-30 et 1 [adepte](./Adepte.md), [prêtre](./Prêtre.md) ou [ensorceleur](./Ensorceleur.md) de niveau 6-7 ; 1 roi [guerrier](./Guerrier.md) ou [rôdeur](./Rôdeur.md) de niveau 8-9 ; et 17-38 [molosses infernaux](./Molosse infernal.md), 12-22 [trolls](./Troll.md), 7-12 [ettins](./Ettin.md) et 1-2 [jeunes dragons rouges](./Dragon rouge.md))}
+{s:BDTexte|**Organisation sociale** solitaire, bande (2-5), groupe (6-12 et 35% non-combattants et 1 [[adepte]] ou [[prêtre]] de niveau 1-2), groupe de pillards (6-12 et 1 [[adepte]] ou [[ensorceleur]] de niveau 3-5, 2-5 [[molosse infernal|molosses infernaux]] et 2-3 [[troll|trolls]] ou [[ettin|ettins]]) ou tribu (20-30 et 1 [[adepte]], [[prêtre]] ou [[ensorceleur]] de niveau 6-7 ; 1 roi [[guerrier]] ou [[rôdeur]] de niveau 8-9 ; et 17-38 [[molosse infernal|molosses infernaux]], 12-22 [[troll|trolls]], 7-12 [[ettin|ettins]] et 1-2 [[dragon rouge|jeunes dragons rouges]])}
 {s:BDTexte|**Trésor** standard (armure à plaques, épée à deux mains, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Rochers surchauffés (Sur).** Les géants du feu peuvent transférer la chaleur de leur corps vers un rocher au cours de l'action d'attaque qui leur permet de le lancer. Un rocher ainsi surchauffé inflige 1d6 points de dégâts de feu supplémentaires en cas d'attaque réussie.}
@@ -47,49 +47,49 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Géant de cendre](./Géant de cendre.md) || 11
+| [[Géant de cendre]] || 11
 |-
-| [Géant de la jungle](./Géant de la jungle.md) || 10
+| [[Géant de la jungle]] || 10
 |-
-| [Géant de la lune](./Géant de la lune.md) || 15
+| [[Géant de la lune]] || 15
 |-
-| [Géant de la taïga](./Géant de la taïga.md) || 12
+| [[Géant de la taïga]] || 12
 |-
-| [Géant de l'ombre](./Géant de lombre.md) || 13
+| [[Géant de lombre|Géant de l'ombre]] || 13
 |-
-| [Géant de pierre](./Géant de pierre.md) || 8
+| [[Géant de pierre]] || 8
 |-
-| [Géant des bois](./Géant des bois.md) || 6
+| [[Géant des bois]] || 6
 |-
-| [Géant des collines](./Géant des collines.md) || 7
+| [[Géant des collines]] || 7
 |-
-| [Géant des falaises](./Géant des falaises.md) || 9
+| [[Géant des falaises]] || 9
 |-
-| [Géant des grottes](./Géant des grottes.md) || 6
+| [[Géant des grottes]] || 6
 |-
-| [Géant des marais](./Géant des marais.md) || 8
+| [[Géant des marais]] || 8
 |-
-| [Géant des nuages](./Géant des nuages.md) || 11
+| [[Géant des nuages]] || 11
 |-
-| [Géant des océans](./Géant des océans.md) || 14
+| [[Géant des océans]] || 14
 |-
-| [Géant des rivières](./Géant des rivières.md) || 6
+| [[Géant des rivières]] || 6
 |-
-| [Géant des runes](./Géant des runes.md) || 17
+| [[Géant des runes]] || 17
 |-
-| [Géant des scories](./Géant des scories.md) || 7
+| [[Géant des scories]] || 7
 |-
-| [Géant des tempêtes](./Géant des tempêtes.md) || 13
+| [[Géant des tempêtes]] || 13
 |-
-| [Géant des éclipses](./Géant des éclipses.md) || 19
+| [[Géant des éclipses]] || 19
 |-
-| [Géant du désert](./Géant du désert.md) || 9
+| [[Géant du désert]] || 9
 |-
-| [Géant du feu](./Géant du feu.md) || 10
+| [[Géant du feu]] || 10
 |-
-| [Géant du froid](./Géant du froid.md) || 9
+| [[Géant du froid]] || 9
 |-
-| [Géant du soleil](./Géant du soleil.md) || 16
+| [[Géant du soleil]] || 16
 |}
 </div>*Ce géant au pas lourd possède des jambes courtes et épaisses et des bras très musclés Ses cheveux et sa barbe semblent être faits de feu.*
 
@@ -166,18 +166,18 @@ Voici un don des géants du feu.
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Rocher fumant](./Rocher fumant.md) || <sup>CM</sup> || [BBA](./BBA.md) +11, pouvoir [rochers surchauffés](./Géant du feu.md) || Les rochers lancés émettent un nuage de fumée
+| [[Rocher fumant]] || <sup>CM</sup> || [[BBA]] +11, pouvoir [[Géant du feu|rochers surchauffés]] || Les rochers lancés émettent un nuage de fumée
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Mystère d'oracle
 Chez les géants du feu, les rares oracles de l’apocalypse sont des êtres bénis, des émissaires favoris des dieux.
-- [Apocalypse](./Mystère de lapocalypse.md)
+- [[Mystère de lApocalypse|Apocalypse]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Objets magiques
 La propriété spéciale d’arme *enflammée* et celle d’armure *fumante* imprègnent l’arsenal des géants du feu de la puissance des flammes et de la vapeur.
-- [Enflammée (propriété d'arme)](./enflammée (propriété).md)
-- [Fumante (propriété d'armure)](./fumante (propriété).md)
+- [[enflammée (propriété)|Enflammée (propriété d'arme)]]
+- [[fumante (propriété)|Fumante (propriété d'armure)]]
 
 </div></div>

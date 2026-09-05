@@ -10,13 +10,13 @@ LastModified: 2016-03-28 16:07
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Création de fan*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature artificielle](./../Pathfinder-RPG/type Créature artificielle.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) -5}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 10, pris au dépourvu 12 (naturelle +4)}
 {s:BDTexte|**pv** 36 (3d10+20)}
 {s:BDTexte|**Réf** +1, **Vig** +1, **Vol** -4}
-{s:BDTexte|**[RD](./../Pathfinder-RPG/RD.md)** 5/feu ; **Immunités** [traits des créatures artificielles](./../Pathfinder-RPG/Traits des créatures artificielles.md) }
+{s:BDTexte|**[[RD]]** 5/feu ; **Immunités** [[traits des créatures artificielles]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** coup, +5 (1d6+3)}

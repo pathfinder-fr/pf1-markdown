@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 p.96*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 15, **Con** 10, **Int** 2, **Sag** 12, **Cha** 7}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +10, [Vol](./Vol.md) +6}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Escalade]] +10, [[Vol]] +6}
 {s:BDTexte|**Particularités** vol difficile}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes ou tempérées}

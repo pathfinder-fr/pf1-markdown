@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEFUMIGENE
 ---
 
->>> [découvertes#BOMBEFUMIGENE](./découvertes.md#BOMBEFUMIGENE)
+>>> [[découvertes#BOMBEFUMIGENE]]

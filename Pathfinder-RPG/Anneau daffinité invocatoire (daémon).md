@@ -7,11 +7,11 @@ Categories:
 - Manuel des Classes avancées
 ---
 
-<div style="float:right">***Retour aux [anneaux magiques](./Anneaux magiques.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[anneaux magiques]].***</div><div class="BD">
 {s:BDTitre|Anneau d'affinité invocatoire (Daémon)|{s:mca}}
-**Aura** [Invocation](./Invocation.md) faible (Mal) ; **NLS** 5 ; **Emplacement** anneau ; **Prix** 10 600 po ; **Poids** —
+**Aura** [[Invocation]] faible (Mal) ; **NLS** 5 ; **Emplacement** anneau ; **Prix** 10 600 po ; **Poids** —
 (((Description)))
-Cet anneau est taillé dans l’os. Si le personnage peut lancer des sorts de *[convocation de monstres](./Convocation de monstres.md)*, il ajoute le [cacodaémon](./Cacodaémon.md) à la liste des monstres de niveau 3 qu’il peut invoquer, il ajoute le [ceustodaémon](./Ceustodaémon.md) à la liste de niveau 5, l’[hydrodaémon](./Hydrodaémon.md) à la liste de niveau 6, le [leukodaémon](./Leukodaémon.md) et le [piscodaémon](./Piscodaémon.md) à la liste de niveau 7, le [derghodaémon](./Derghodaémon.md) et le [méladaémon](./Méladaémon.md) à la liste de niveau 8 et le [thanadaémon](./Thanadaémon.md) à la liste de niveau 9. Une fois par jour, sur commande, il peut également utiliser l’anneau pour invoquer un [cacodaémon](./Cacodaémon.md), comme l’autorise le sort *[convocation de monstres III](./Convocation de monstres III.md)*.
+Cet anneau est taillé dans l’os. Si le personnage peut lancer des sorts de *[[convocation de monstres]]*, il ajoute le [[cacodaémon]] à la liste des monstres de niveau 3 qu’il peut invoquer, il ajoute le [[ceustodaémon]] à la liste de niveau 5, l’[[hydrodaémon]] à la liste de niveau 6, le [[leukodaémon]] et le [[piscodaémon]] à la liste de niveau 7, le [[derghodaémon]] et le [[méladaémon]] à la liste de niveau 8 et le [[thanadaémon]] à la liste de niveau 9. Une fois par jour, sur commande, il peut également utiliser l’anneau pour invoquer un [[cacodaémon]], comme l’autorise le sort *[[convocation de monstres III]]*.
 (((Création)))
-[Création d'anneaux magiques](./Création danneaux magiques.md), *[allié majeur d’outreplan](./Allié majeur doutreplan.md)* ou *[contrat intermédiaire](./Contrat intermédiaire.md)*, le créateur doit être Neutre Mauvais ; **Coût** 5 300 po
+[[Création danneaux magiques|Création d'anneaux magiques]], *[[allié majeur doutreplan|allié majeur d’outreplan]]* ou *[[contrat intermédiaire]]*, le créateur doit être Neutre Mauvais ; **Coût** 5 300 po
 </div>

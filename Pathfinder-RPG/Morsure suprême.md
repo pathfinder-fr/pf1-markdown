@@ -10,8 +10,8 @@ Categories:
 
 {s:cm}*Les griffes acérées du troll exposent les organes vitaux de son adversaire à ses crocs.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Condition.** [BBA](./BBA.md) +6, attaque de morsure, pouvoir [éventration](./Éventration (capacité).md), [troll](./Troll.md)
+**Condition.** [[BBA]] +6, attaque de morsure, pouvoir [[éventration (capacité)|éventration]], [[troll]]
 
-**Avantage.** Si le troll inflige des dégâts à une créature grâce à son pouvoir d’[éventration](./Éventration (capacité).md), la plage de critique de son attaque de morsure passe à 18-20 jusqu’au début de son prochain tour. Cette augmentation ne se cumule pas avec les autres effets qui augmentent la plage de critique de sa morsure (comme la propriété spéciale d’arme *[acérée](./acérée (propriété).md)* ou le don [Science du critique](./Science du critique.md)).
+**Avantage.** Si le troll inflige des dégâts à une créature grâce à son pouvoir d’[[éventration (capacité)|éventration]], la plage de critique de son attaque de morsure passe à 18-20 jusqu’au début de son prochain tour. Cette augmentation ne se cumule pas avec les autres effets qui augmentent la plage de critique de sa morsure (comme la propriété spéciale d’arme *[[acérée (propriété)|acérée]]* ou le don [[Science du critique]]).

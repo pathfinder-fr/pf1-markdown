@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Orbe des tempêtes|{s:AE}}
-**Aura** Multiples puissantes ; **NLS** 18 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 48 000 po ; **Poids** 3 kg
+**Aura** Multiples puissantes ; **NLS** 18 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 48 000 po ; **Poids** 3 kg
 (((Description)))
-Cette boule de verre mesure vingt-cinq centimètres de diamètre. Son possesseur peut appeler les manifestations climatiques de son choix, y compris des tempêtes d’une violence surnaturelle. Une fois par jour, le personnage peut faire appel aux pouvoir de l’orbe pour lancer le sort *[contrôle du climat](./Contrôle du climat.md)*. Une fois par mois, il peut également lancer *[tempête vengeresse](./Tempête vengeresse.md)*. De plus, l’*orbe des tempêtes* protège son porteur comme un sort d’*[endurance aux énergies destructives](./Endurance aux énergies destructives.md)*.
+Cette boule de verre mesure vingt-cinq centimètres de diamètre. Son possesseur peut appeler les manifestations climatiques de son choix, y compris des tempêtes d’une violence surnaturelle. Une fois par jour, le personnage peut faire appel aux pouvoir de l’orbe pour lancer le sort *[[contrôle du climat]]*. Une fois par mois, il peut également lancer *[[tempête vengeresse]]*. De plus, l’*orbe des tempêtes* protège son porteur comme un sort d’*[[endurance aux énergies destructives]]*.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[contrôle du climat](./Contrôle du climat.md)*, *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)*, *[tempête vengeresse](./Tempête vengeresse.md)* ; **Coût** 24 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[contrôle du climat]]*, *[[endurance aux énergies destructives]]*, *[[tempête vengeresse]]* ; **Coût** 24 000 po
 </div>

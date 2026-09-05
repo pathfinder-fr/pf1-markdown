@@ -14,9 +14,9 @@ Categories:
 {s:Reference|MATELOT}
 {s:BDTitre|Matelot|FP 1/2}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|Humain [expert](./Expert.md) 1 / [combattant](./combattant.md) 1 }
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +4}
+{s:BDTexte|Humain [[expert]] 1 / [[combattant]] 1 }
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (armure +3, Dex +1, esquive +1)}
 {s:BDTexte|**pv** 11 (2 DV ; 1d8+1d10+2)}
@@ -28,10 +28,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 13, **Con** 12, **Int** 8, **Sag** 10, **Cha** 9}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 14}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Talent](./Talent.md) (Profession <nowiki>[</nowiki>marin<nowiki>]</nowiki>)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +5, [Artisanat](./Artisanat.md) (navires) +3, [Escalade](./Escalade.md) +5, [Natation](./Natation.md) +5, [Perception](./Perception.md) +4, [Profession](./Profession.md) (marin) +8, [Profession](./Profession.md) (pêcheur) +4, [Survie](./Survie.md) +4}
+{s:BDTexte|**Dons** [[Esquive]], [[Talent]] (Profession <nowiki>[[</nowiki>marin<nowiki>]]</nowiki>)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +5, [[Artisanat]] (navires) +3, [[Escalade]] +5, [[Natation]] +5, [[Perception]] +4, [[Profession]] (marin) +8, [[Profession]] (pêcheur) +4, [[Survie]] +4}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Équipement** armure de cuir cloutée de maître, arc long composite <nowiki>[</nowiki>For +1<nowiki>]</nowiki> avec 20 flèches, cimeterre, dagues (2)}
+{s:BDTexte|**Équipement** armure de cuir cloutée de maître, arc long composite <nowiki>[[</nowiki>For +1<nowiki>]]</nowiki> avec 20 flèches, cimeterre, dagues (2)}
 {s:BDTexte|**Faveur** Un matelot peut faire entrer ou sortir discrètement un petit objet d’un bateau ou aider les PJ à faire de même en créant une diversion (les autres observateurs ont un malus de –4 à leurs tests de Perception pour repérer les PJ pendant 1 minute).}
 </div></td>
 <td><div>
@@ -40,7 +40,7 @@ soleil mais toujours impatients de découvrir ce qui les attend au delà de l’
 
 Les matelots peuvent représenter des soldats marins de bas niveau, des conducteurs de barges ou de barques ou même des habitants des marais (vivant dans des maisons sur pilotis). En remplaçant le don Esquive par Athlétisme, on réduit la CA et le DMD de 1 mais on accroît les compétences d’Escalade et de Natation de 2 chacune. En déplaçant les rangs de Profession (pêcheur) en Linguistique ou en Connaissances, on peut obtenir un marin qui a visité le monde et connaît des terres et des langages exotiques.
 
-Sur un vaisseau, les matelots peuvent former un équipage servant divers types de personnages : huit matelots peuvent travailler pour un [esclavagiste](./PNJ criminels.md#ESCLAVAGISTE) d’alignement Mauvais (FP 6), un [marchand itinérant](./PNJ marchands.md#MARCHANDITINERANT) qui voyage sur mer (FP 7), un pilleur [viking](./PNJ maraudeurs.md#VIKING) (FP 8) ou un [capitaine pirate](./PNJ maraudeurs.md#CAPITAINEPIRATE) et son [second](./PNJ marins.md#SECOND) (FP 12). Sur terre, six matelots peuvent former un groupe de recrutement à la recherche de proies faciles à ajouter à l’équipage d’un vaisseau pirate (FP 4). Un matelot peut être vu en compagnie d’une [serveuse](./PNJ tavernes.md#SERVEUSE) (FP 1) ou avec un [vagabond](./PNJ routes.md#VAGABOND) ou un [conteur](./PNJ amuseurs publiques.md#CONTEUR) (FP 2). Deux matelots peuvent s’acoquiner avec un [ivrogne](./PNJ tavernes.md#IVROGNE) ou une [prostituée](./PNJ rues.md#PEOSTITUEE) pendant que leur navire est à quai (FP 3).
+Sur un vaisseau, les matelots peuvent former un équipage servant divers types de personnages : huit matelots peuvent travailler pour un [[PNJ criminels#ESCLAVAGISTE|esclavagiste]] d’alignement Mauvais (FP 6), un [[PNJ marchands#MARCHANDITINERANT|marchand itinérant]] qui voyage sur mer (FP 7), un pilleur [[PNJ maraudeurs#VIKING|viking]] (FP 8) ou un [[PNJ maraudeurs#CAPITAINEPIRATE|capitaine pirate]] et son [[PNJ marins#SECOND|second]] (FP 12). Sur terre, six matelots peuvent former un groupe de recrutement à la recherche de proies faciles à ajouter à l’équipage d’un vaisseau pirate (FP 4). Un matelot peut être vu en compagnie d’une [[PNJ tavernes#SERVEUSE|serveuse]] (FP 1) ou avec un [[PNJ routes#VAGABOND|vagabond]] ou un [[PNJ amuseurs publiques#CONTEUR|conteur]] (FP 2). Deux matelots peuvent s’acoquiner avec un [[PNJ tavernes#IVROGNE|ivrogne]] ou une [[PNJ rues#PEOSTITUEE|prostituée]] pendant que leur navire est à quai (FP 3).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -48,9 +48,9 @@ Sur un vaisseau, les matelots peuvent former un équipage servant divers types d
 {s:Reference|SECOND}
 {s:BDTitre|Second|FP 8}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|Humain [expert](./Expert.md) 4 / [guerrier](./Guerrier.md) 5}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +4 ; **Sens** [Perception](./Perception.md) +10}
+{s:BDTexte|Humain [[expert]] 4 / [[guerrier]] 5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 14, pris au dépourvu 17 (armure +7, Dex +4)}
 {s:BDTexte|**pv** 63 (9 DV ; 4d8+5d10+18)}
@@ -65,26 +65,26 @@ Sur un vaisseau, les matelots peuvent former un équipage servant divers types d
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 18, **Con** 14, **Int** 8, **Sag** 12, **Cha** 10}
 {s:BDTexte|**BBA** +8, **BMO** +10, **DMD** 24}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée courte), [Arme en main](./Arme en main.md), [Athlétisme](./Athlétisme.md), [Attaque en finesse](./Attaque en finesse.md), [Combat à deux armes](./Combat à deux armes.md), [Maniement d’une arme exotique](./Maniement dune arme exotique.md) (fouet), [Science du combat à deux armes](./Science du combat à deux armes.md), [Science du critique](./Science du critique.md) (épée courte), [Spécialisation martiale](./Spécialisation martiale.md) (épée courte)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +13, [Artisanat](./Artisanat.md) (navires) +5, [Connaissances](./Connaissances.md) (géographie) +3, [Connaissances](./Connaissances.md) (nature) +3, [Escalade](./Escalade.md) +10, [Intimidation](./Intimidation.md) +5, [Linguistique](./Linguistique.md) +3, [Natation](./Natation.md) +13, [Perception](./Perception.md) +10, [Profession](./Profession.md) (marin) +12, [Représentation](./Représentation.md) (chant) +4, [Représentation](./Représentation.md) (instruments à vent) +5, [Survie](./Survie.md) +5}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée courte), [[Arme en main]], [[Athlétisme]], [[Attaque en finesse]], [[Combat à deux armes]], [[Maniement dune arme exotique|Maniement d’une arme exotique]] (fouet), [[Science du combat à deux armes]], [[Science du critique]] (épée courte), [[Spécialisation martiale]] (épée courte)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +13, [[Artisanat]] (navires) +5, [[Connaissances]] (géographie) +3, [[Connaissances]] (nature) +3, [[Escalade]] +10, [[Intimidation]] +5, [[Linguistique]] +3, [[Natation]] +13, [[Perception]] +10, [[Profession]] (marin) +12, [[Représentation]] (chant) +4, [[Représentation]] (instruments à vent) +5, [[Survie]] +5}
 {s:BDTexte|**Langues** aquatique, commun}
 {s:BDTexte|**Particularités** entraînement aux armures 1}
-{s:BDTexte|**Équipement de combat** *[plumes magiques](./Plume magique.md)* (ancre, éventail), potion de *[respiration aquatique](./Respiration aquatique.md)* ; **Autre équipement** *cuirasse +1*, arbalète lourde de maître avec 10 carreaux, *épées courtes +1* (2), fouet de maître, *anneau de nage*, torche éternelle, instrument de musique (concertina ou fifre)}
+{s:BDTexte|**Équipement de combat** *[[Plume magique|plumes magiques]]* (ancre, éventail), potion de *[[respiration aquatique]]* ; **Autre équipement** *cuirasse +1*, arbalète lourde de maître avec 10 carreaux, *épées courtes +1* (2), fouet de maître, *anneau de nage*, torche éternelle, instrument de musique (concertina ou fifre)}
 {s:BDTexte|**Faveur** Un second peut arranger une entrevue entre les PJ et un capitaine ou un prince marchand faisant partie de ses connaissances, et leur octroyer un bonus de circonstances de +2 aux tests de Diplomatie grâce à sa réputation. Il peut aussi accompagner les PJ dans une chaloupe et avec un équipage de quatre matelots pendant 1 journée.}
 </div></td>
 <td><div>
 Le second est l’assistant loyal du capitaine d’un navire. Craint, mais respecté, il veille à la discipline et à l’accomplissement des travaux à bord du vaisseau. Il peut se donner en spectacle avec des chansons de matelots à un moment donné puis faire claquer son fouet ou tirer ses sabres au clair la minute qui suit.
 
-Un second peut aussi être le gardien d’une île-prison exotique. Sur terre, les seconds sont parfois accompagnés d’un [marchand itinérant](./PNJ marchands.md#MARCHANDITINERANT) agissant comme intendant (FP 9) ou d’un [capitaine](./PNJ marins.md#CAPITAINE) (FP 12).
+Un second peut aussi être le gardien d’une île-prison exotique. Sur terre, les seconds sont parfois accompagnés d’un [[PNJ marchands#MARCHANDITINERANT|marchand itinérant]] agissant comme intendant (FP 9) ou d’un [[PNJ marins#CAPITAINE|capitaine]] (FP 12).
 </div></td></tr></table>
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:Reference|CAPITAINE}
 {s:BDTitre|Capitaine|FP 11}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|Humain [expert](./Expert.md) 3 / [guerrier](./Guerrier.md) 9}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +10}
+{s:BDTexte|Humain [[expert]] 3 / [[guerrier]] 9}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 11, pris au dépourvu 24 (armure +10, bouclier +3, Dex +1, naturelle +1)}
 {s:BDTexte|**pv** 89 (12 DV ; 3d8+9d10+26)}
@@ -99,15 +99,15 @@ Un second peut aussi être le gardien d’une île-prison exotique. Sur terre, l
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 13, **Con** 14, **Int** 12, **Sag** 10, **Cha** 10}
 {s:BDTexte|**BBA** +11, **BMO** +16, **DMD** 27}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (trident), [Arme de prédilection supérieure](./Arme de prédilection supérieure.md) (trident), [Attaque en puissance](./Attaque en puissance.md), [Création d’armes et armures magiques](./Création darmes et armures magiques.md), [Création d’objets merveilleux](./Création dobjets merveilleux.md), [Frappe décisive](./Frappe décisive.md), [Maître artisan](./Maître artisan.md), [Riposte](./Riposte.md), [Robustesse](./Robustesse.md), [S’avancer](./Savancer.md), [Spécialisation martiale](./Spécialisation martiale.md) (trident), [Talent](./Talent.md) (Profession <nowiki>[</nowiki>marin<nowiki>]</nowiki>)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Art de la magie](./Art de la magie.md) +16, [Artisanat](./Artisanat.md)(navires) +5, [Connaissances](./Connaissances.md) (folklore local) +5, [Connaissances](./Connaissances.md) (géographie) +10, [Connaissances](./Connaissances.md) (histoire) +5, [Connaissances](./Connaissances.md) (ingénierie) +5, [Connaissances](./Connaissances.md) (nature) +10, [Connaissances](./Connaissances.md) (noblesse) +5, [Diplomatie](./Diplomatie.md) +10, [Escalade](./Escalade.md) +10, [Linguistique](./Linguistique.md) +5, [Natation](./Natation.md) +10, [Perception](./Perception.md) +10, [Profession](./Profession.md) (marchand) +5, [Profession](./Profession.md) (marin) +21, [Représentation](./Représentation.md) (claviers) +5, [Survie](./Survie.md) +10}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (trident), [[Arme de prédilection supérieure]] (trident), [[Attaque en puissance]], [[Création darmes et armures magiques|Création d’armes et armures magiques]], [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Frappe décisive]], [[Maître artisan]], [[Riposte]], [[Robustesse]], [[Savancer|S’avancer]], [[Spécialisation martiale]] (trident), [[Talent]] (Profession <nowiki>[[</nowiki>marin<nowiki>]]</nowiki>)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Art de la magie]] +16, [[Artisanat]](navires) +5, [[Connaissances]] (folklore local) +5, [[Connaissances]] (géographie) +10, [[Connaissances]] (histoire) +5, [[Connaissances]] (ingénierie) +5, [[Connaissances]] (nature) +10, [[Connaissances]] (noblesse) +5, [[Diplomatie]] +10, [[Escalade]] +10, [[Linguistique]] +5, [[Natation]] +10, [[Perception]] +10, [[Profession]] (marchand) +5, [[Profession]] (marin) +21, [[Représentation]] (claviers) +5, [[Survie]] +10}
 {s:BDTexte|**Langues** aquatique, aérien, commun}
 {s:BDTexte|**Particularités** entraînement aux armures 2}
-{s:BDTexte|**Équipement de combat** *[gemme à élémentaire](./Gemme à élémentaire.md)* (eau) ; **Autre équipement** *écu en bois +1*, *harnois +1*, *arc long composite +1* <nowiki>[</nowiki>For +5<nowiki>]</nowiki> avec 20 flèches, lamétoile, *trident d’alerte sous-marine*, *amulette d’armure naturelle +1*, *cape de résistance +2*, *ceinturon de force de géant +2*, *gants de nage et d’escalade*, instrument de musique (clavecin ou petit orgue), longue-vue}
-{s:BDTexte|**Faveur** Un capitaine peut organiser un voyage vers n’importe quelle destination accessible en bateau (pour les PJ ou pour une cargaison). Il peut aider les PJ à trouver comment se rendre vers une destination peu connue (bonus de +5 aux tests de [Connaissances](./Connaissances.md) <nowiki>[</nowiki>géographie<nowiki>]</nowiki> ou autres tests pertinents). S’il travaille pour une organisation plus importante, il peut aussi promulguer des décrets officiels en son nom.}
+{s:BDTexte|**Équipement de combat** *[[gemme à élémentaire]]* (eau) ; **Autre équipement** *écu en bois +1*, *harnois +1*, *arc long composite +1* <nowiki>[[</nowiki>For +5<nowiki>]]</nowiki> avec 20 flèches, lamétoile, *trident d’alerte sous-marine*, *amulette d’armure naturelle +1*, *cape de résistance +2*, *ceinturon de force de géant +2*, *gants de nage et d’escalade*, instrument de musique (clavecin ou petit orgue), longue-vue}
+{s:BDTexte|**Faveur** Un capitaine peut organiser un voyage vers n’importe quelle destination accessible en bateau (pour les PJ ou pour une cargaison). Il peut aider les PJ à trouver comment se rendre vers une destination peu connue (bonus de +5 aux tests de [[Connaissances]] <nowiki>[[</nowiki>géographie<nowiki>]]</nowiki> ou autres tests pertinents). S’il travaille pour une organisation plus importante, il peut aussi promulguer des décrets officiels en son nom.}
 </div></td>
 <td><div>
 En mer, le capitaine est le seul maître à bord. Il peut être une autorité légale et un représentant pour sa nation, sa compagnie, sa foi ou sa faction ou bien un capitaine indépendant qui n’a aucun compte à rendre et pas d’autres demeures que la mer.
 
-Un capitaine peut être utilisé comme pirate, amiral ou maître marchand. Il est généralement accompagné d’un [second](./PNJ marins.md#SECOND) et d’un [marchand itinérant](./PNJ marchands.md#MARCHANDITINERANT) agissant comme intendant (FP 12).
+Un capitaine peut être utilisé comme pirate, amiral ou maître marchand. Il est généralement accompagné d’un [[PNJ marins#SECOND|second]] et d’un [[PNJ marchands#MARCHANDITINERANT|marchand itinérant]] agissant comme intendant (FP 12).
 </div></td></tr></table>

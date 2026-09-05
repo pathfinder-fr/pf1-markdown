@@ -11,6 +11,6 @@ Categories:
 
 {s:apg}*Les énergies magiques des sorts du personnage s’accrochent aux ennemis et gênent leurs incantations.*
 
-**Catégorie :** [métamagie](./Dons.md#METAMAGIE)
+**Catégorie :** [[Dons#METAMAGIE|métamagie]]
 
-**Avantage.** Les cibles affectées par un sort perturbateur doivent effectuer des tests de [Concentration](./concentration.md) chaque fois qu’elles lancent un sort ou utilisent un pouvoir magique (le [DD](./DD.md) du test est égal au DD du [jet de sauvegarde](./jet de sauvegarde.md) contre le sort perturbateur augmenté du niveau du sort qu’elles tentent de lancer). L’effet dure 1 round. Les cibles qui évitent les effets normaux du sort échappent également aux effets du don. Un sort perturbateur utilise un [emplacement de sort](./emplacement de sort.md) d’un niveau de plus que le niveau normal du sort.
+**Avantage.** Les cibles affectées par un sort perturbateur doivent effectuer des tests de [[Concentration]] chaque fois qu’elles lancent un sort ou utilisent un pouvoir magique (le [[DD]] du test est égal au DD du [[jet de sauvegarde]] contre le sort perturbateur augmenté du niveau du sort qu’elles tentent de lancer). L’effet dure 1 round. Les cibles qui évitent les effets normaux du sort échappent également aux effets du don. Un sort perturbateur utilise un [[emplacement de sort]] d’un niveau de plus que le niveau normal du sort.

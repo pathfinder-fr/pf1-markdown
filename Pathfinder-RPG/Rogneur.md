@@ -10,8 +10,8 @@ Categories:
 
 {s:cm}*Grâce à la force de ses dents et à sa rapidité, l’homme-rat est capable de ronger presque n’importe quel obstacle s’il en a le temps.*
 
-**Conditions** [Dents acérées](./Dents acérées.md), [homme-rat](./Homme-rat (race).md).
+**Conditions** [[Dents acérées]], [[Homme-rat (race)|homme-rat]].
 
-**Avantages.** Les dégâts que l’homme-rat inflige avec son attaque de morsure ignorent un nombre de points de solidité égal à 3 + la moitié de son niveau de personnage. Il peut dépenser une [action complexe](./Action complexe.md) pour infliger le double de ses dégâts de morsure à un objet inanimé inutilisé.
+**Avantages.** Les dégâts que l’homme-rat inflige avec son attaque de morsure ignorent un nombre de points de solidité égal à 3 + la moitié de son niveau de personnage. Il peut dépenser une [[action complexe]] pour infliger le double de ses dégâts de morsure à un objet inanimé inutilisé.
 
-**Spécial.** Si l’homme-rat possède le don [Dents de fouisseur](./Dents de fouisseur.md), il peut creuser à travers la roche solide à une vitesse de 1,5 mètre par tranche de 10 minutes.
+**Spécial.** Si l’homme-rat possède le don [[Dents de fouisseur]], il peut creuser à travers la roche solide à une vitesse de 1,5 mètre par tranche de 10 minutes.

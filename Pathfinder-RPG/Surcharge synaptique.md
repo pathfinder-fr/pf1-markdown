@@ -9,18 +9,18 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Divination](./école divination.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 4, [Psy](./Psychiste.md) 5  
+{s:AO}** École **[[école divination|Divination]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 4, [[psychiste|Psy]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
-**Portée** [contact](./courte.md)  
+**Portée** [[courte|contact]]  
 
 **Cible** créature vivante touchée  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Vigueur partiel (voir texte)](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Vigueur partiel (voir texte)]] ; **Résistance à la magie** oui
 
-Le personnage oblige l’esprit de la cible à déchaîner un violent torrent d’informations dans son corps, provoquant une surcharge des synapses. La cible subit 1d6 points de dégâts électriques par [niveau de lanceur de sorts](./NLS.md) (15d6 au maximum) et se trouve [chancelante](./États préjudiciables.md#Chancelant) pendant 1 minute. Un jet de [Vigueur](./Vigueur.md) réussi ne réduit pas ces dégâts mais annule le chancellement.
+Le personnage oblige l’esprit de la cible à déchaîner un violent torrent d’informations dans son corps, provoquant une surcharge des synapses. La cible subit 1d6 points de dégâts électriques par [[NLS|niveau de lanceur de sorts]] (15d6 au maximum) et se trouve [[États préjudiciables#Chancelant|chancelante]] pendant 1 minute. Un jet de [[Vigueur]] réussi ne réduit pas ces dégâts mais annule le chancellement.

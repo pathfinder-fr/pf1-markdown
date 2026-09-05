@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Illusion](./Illusion.md) ([chimère](./branche chimère.md)) ; **Niveau** [barde](./Barde.md) 2, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 3  
+**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[barde]] 2, [[ensorceleur]]/[[magicien]] 3  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [dévoile](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non  
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] ; **Résistance à la magie** non  
 
-**Restriction de cible** *[Explosion](./Explosion.md)* (émanation)
+**Restriction de cible** *[[Explosion]]* (émanation)
 
-Cet effet crée une illusion visuelle centrée sur un espace cible à sa portée. Le mage décide librement de son apparence. L’illusion doit être contenue dans le rayon de l’[explosion](./Explosion.md), elle ne peut comporter que des éléments visuels et il lui est impossible de quitter la zone. L’illusion peut bouger mais elle répète ses mouvements une fois par [round](./round.md) et le mage peut les modifier en se concentrant.
+Cet effet crée une illusion visuelle centrée sur un espace cible à sa portée. Le mage décide librement de son apparence. L’illusion doit être contenue dans le rayon de l’[[explosion]], elle ne peut comporter que des éléments visuels et il lui est impossible de quitter la zone. L’illusion peut bouger mais elle répète ses mouvements une fois par [[round]] et le mage peut les modifier en se concentrant.

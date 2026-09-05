@@ -7,4 +7,4 @@ Categories:
 RedirectTo: arcanes#LAMELONGUEDUREE
 ---
 
->>> [arcanes#LAMELONGUEDUREE](./arcanes.md#LAMELONGUEDUREE)
+>>> [[arcanes#LAMELONGUEDUREE]]

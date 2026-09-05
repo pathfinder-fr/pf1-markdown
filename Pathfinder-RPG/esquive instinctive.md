@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Roublard#ESQUIVEINSTINCTIVE
 ---
 
->>> [Roublard#ESQUIVEINSTINCTIVE](./Roublard.md#ESQUIVEINSTINCTIVE)
+>>> [[Roublard#ESQUIVEINSTINCTIVE]]

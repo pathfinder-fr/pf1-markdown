@@ -6,7 +6,7 @@ LastModified: 2015-11-18 14:44
 
 {s:mr}*Le personnage hérite d’une bénédiction spéciale de sa mère guenaude.*
 
-**Conditions requises.** [Changelin](./changelin (race).md).
+**Conditions requises.** [[changelin (race)|Changelin]].
 
 **Avantage.** Le sombre héritage du personnage se manifeste de l’une des façons suivantes. Il en choisit la manifestation lorsqu’il choisit ce don : une fois qu’il a fait son choix, il ne peut plus en changer.  
 

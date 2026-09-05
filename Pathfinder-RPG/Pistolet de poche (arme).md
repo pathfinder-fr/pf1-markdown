@@ -9,6 +9,6 @@ Categories:
 
 {s:AE}**Prix** 750 po ; **Poids** 0,5 kg
 **Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×3 ; **Portée** 3 m (2 c) ; **Enrayement** 1 (1,5 m (1 c)) ; **Capacité** 1 ; **Type** C et P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes à feu rudimentaires](./Tableau récapitulatif des armes à feu.md#TABRUDIMENTAIRES) ; **Maniement** [arme à feu à une main](./Armes à feu.md#CATEGORIE)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes à feu#TABRUDIMENTAIRES|Armes à feu rudimentaires]] ; **Maniement** [[Armes à feu#CATEGORIE|arme à feu à une main]]</span>
 ---
-Quoique moins puissant que les autres armes à feu de plus grande taille, ce [pistolet](./Pistolet (arme).md) est suffisamment petit pour se dissimuler facilement sous une veste ou un manteau. Le personnage bénéficie d’un bonus de +2 à ses tests d’[Escamotage](./Escamotage.md) pour dissimuler un pistolet de poche sur lui. Le pistolet de poche se charge d’une [balle](./Balle darme à feu (arme).md) et d’une dose de [poudre noire](./Poudre noire (arme).md) ou d’une [cartouche alchimique](./Cartouche alchimique (arme).md). Il s’agit d’une [arme à feu rudimentaire](./Armes à feu.md#CATEGORIE).
+Quoique moins puissant que les autres armes à feu de plus grande taille, ce [[pistolet (arme)|pistolet]] est suffisamment petit pour se dissimuler facilement sous une veste ou un manteau. Le personnage bénéficie d’un bonus de +2 à ses tests d’[[Escamotage]] pour dissimuler un pistolet de poche sur lui. Le pistolet de poche se charge d’une [[Balle darme à feu (arme)|balle]] et d’une dose de [[Poudre noire (arme)|poudre noire]] ou d’une [[Cartouche alchimique (arme)|cartouche alchimique]]. Il s’agit d’une [[Armes à feu#CATEGORIE|arme à feu rudimentaire]].

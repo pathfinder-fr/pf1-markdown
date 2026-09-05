@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vulnérabilités (capacité)
 ---
 
->>> [Vulnérabilités (capacité)](./Vulnérabilités (capacité).md)
+>>> [[Vulnérabilités (capacité)]]

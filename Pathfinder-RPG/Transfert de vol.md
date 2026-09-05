@@ -8,17 +8,17 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-{s:CMy}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, M](./composantes.md) (une poignée de duvet)
+{s:CMy}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, M]] (une poignée de duvet)
 **Portée** contact
 **Cible** l’objet touché
 **Durée** 1 heure/niveau (T)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
 
-Le personnage investi un objet qu’il touche, de taille G ou plus petit, de la capacité à voler à une vitesse de 12 mètres avec une manœuvrabilité moyenne. Celui-ci peut s’élever dans les airs à la moitié de sa vitesse et descendre au double de sa vitesse. L’objet ciblé vole dans la direction que lui indique le personnage, utilisant la compétence [Vol](./Vol.md) du personnage pour les manœuvres difficiles. Le personnage doit être à courte portée (7,5 m + 1,5 m/2 niveaux) de l’objet pour le guider et il doit dépenser une [action de mouvement](./Action de mouvement.md) pour le déplacer. Si l’objet n’est pas guidé, il vole sur place (pas besoin de test de Vol). Le poids maximum de l’objet et de tout ce qu’il porte ne doit pas excéder 250 kilogrammes par [niveau de lanceur de sorts](./NLS.md) (5 tonnes au maximum).
+Le personnage investi un objet qu’il touche, de taille G ou plus petit, de la capacité à voler à une vitesse de 12 mètres avec une manœuvrabilité moyenne. Celui-ci peut s’élever dans les airs à la moitié de sa vitesse et descendre au double de sa vitesse. L’objet ciblé vole dans la direction que lui indique le personnage, utilisant la compétence [[Vol]] du personnage pour les manœuvres difficiles. Le personnage doit être à courte portée (7,5 m + 1,5 m/2 niveaux) de l’objet pour le guider et il doit dépenser une [[action de mouvement]] pour le déplacer. Si l’objet n’est pas guidé, il vole sur place (pas besoin de test de Vol). Le poids maximum de l’objet et de tout ce qu’il porte ne doit pas excéder 250 kilogrammes par [[NLS|niveau de lanceur de sorts]] (5 tonnes au maximum).
 
 ### Mythique
-{s:CMy}Si le personnage dépense une utilisation de [pouvoir mythique](./pouvoir mythique.md), il double le maximum du poids de l’objet qu’il peut faire voler. Il peut dépenser des utilisations supplémentaires de pouvoir mythique pour augmenter la taille maximale de l’objet qu’il peut faire voler. Il doit dépenser deux utilisations de pouvoir mythique pour faire voler un objet de taille TG, quatre utilisations de pouvoir mythique pour faire voler un objet de taille Gig et huit utilisations de pouvoir mythique pour faire voler un objet de taille C. Ces coûts incluent les dépenses pour le lancement d’un sort mythique et le doublement de la limite de poids du sort.
+{s:CMy}Si le personnage dépense une utilisation de [[pouvoir mythique]], il double le maximum du poids de l’objet qu’il peut faire voler. Il peut dépenser des utilisations supplémentaires de pouvoir mythique pour augmenter la taille maximale de l’objet qu’il peut faire voler. Il doit dépenser deux utilisations de pouvoir mythique pour faire voler un objet de taille TG, quatre utilisations de pouvoir mythique pour faire voler un objet de taille Gig et huit utilisations de pouvoir mythique pour faire voler un objet de taille C. Ces coûts incluent les dépenses pour le lancement d’un sort mythique et le doublement de la limite de poids du sort.
 
-Deux lanceurs de sorts ou plus peuvent lancer ce sort de concert afin de se partager le coût en [pouvoir mythique](./pouvoir mythique.md). Chaque lanceur doit dépenser une utilisation supplémentaire de pouvoir mythique pour participer mais elle ne compte pas dans les autres coûts ou effets du sort. Le groupe désigne le lanceur qui a le contrôle du vol. Par une [action complexe](./Action complexe.md), le lanceur aux commandes peut transmettre le contrôle à un autre lanceur ayant participé à l’incantation initiale du sort.
+Deux lanceurs de sorts ou plus peuvent lancer ce sort de concert afin de se partager le coût en [[pouvoir mythique]]. Chaque lanceur doit dépenser une utilisation supplémentaire de pouvoir mythique pour participer mais elle ne compte pas dans les autres coûts ou effets du sort. Le groupe désigne le lanceur qui a le contrôle du vol. Par une [[action complexe]], le lanceur aux commandes peut transmettre le contrôle à un autre lanceur ayant participé à l’incantation initiale du sort.

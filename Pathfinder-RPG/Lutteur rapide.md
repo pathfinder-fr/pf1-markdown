@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage entame la lutte avec célérité. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 13, [Lutte supérieure](./Lutte supérieure.md), [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +9 ou [moine](./Moine.md) de niveau 9
+**Conditions.** [[Dex]] 13, [[Lutte supérieure]], [[Science de la lutte]], [[Science du combat à mains nues]], [[BBA]] +9 ou [[moine]] de niveau 9
 
-**Avantage.** Quand le personnage utilise [Lutte supérieure](./Lutte supérieure.md) pour maintenir une lutte par une [action de mouvement](./Action de mouvement.md), il peut ensuite dépenser une [action rapide](./Action rapide.md) pour faire un test de [lutte](./lutte.md) avec un malus de -5.
+**Avantage.** Quand le personnage utilise [[Lutte supérieure]] pour maintenir une lutte par une [[action de mouvement]], il peut ensuite dépenser une [[action rapide]] pour faire un test de [[lutte]] avec un malus de -5.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 2 points d’endurance pour gagner un bonus de +2 aux tests de [lutte](./lutte.md) effectués par une [action rapide](./Action rapide.md) à l’aide de ce don.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 2 points d’endurance pour gagner un bonus de +2 aux tests de [[lutte]] effectués par une [[action rapide]] à l’aide de ce don.

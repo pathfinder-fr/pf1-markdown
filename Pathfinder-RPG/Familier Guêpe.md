@@ -12,15 +12,15 @@ Categories:
 
 *La déesse de la luxure, de la vengeance et de la roublardise vous a donné une piqûre vivante pour vous démontrer sa faveur.*
 
-**Conditions.** Alignement Chaotique Neutre, suivant de la [déesse de la vengeance](./../Golarion/Calistria.md)
+**Conditions.** Alignement Chaotique Neutre, suivant de la [[Golarion.Calistria|déesse de la vengeance]]
 
-**Avantage.** Le personnage obtient un familier comme avec la capacité [pacte magique](./Magicien.md#PACTEMAGIQUE), en utilisant son niveau de personnage comme niveau de [magicien](./Magicien.md). Le familier est une guêpe de la taille d'un chat d'alignement CN qui est loyale au personnage. Elle utilise les statistiques d'un [scorpion vert](./Scorpion vert.md) mais avec une vitesse de déplacement de 1,5 m, une vitesse de vol de 12 m (moyenne) aucun bonus d'[Escalade](./Escalade.md) et de [Vol](./Vol.md) de +7.
+**Avantage.** Le personnage obtient un familier comme avec la capacité [[Magicien#PACTEMAGIQUE|pacte magique]], en utilisant son niveau de personnage comme niveau de [[magicien]]. Le familier est une guêpe de la taille d'un chat d'alignement CN qui est loyale au personnage. Elle utilise les statistiques d'un [[scorpion vert]] mais avec une vitesse de déplacement de 1,5 m, une vitesse de vol de 12 m (moyenne) aucun bonus d'[[Escalade]] et de [[Vol]] de +7.
 
-Si le personnage peut obtenir un familier par d'autres moyens (tel que le [pacte magique](./Magicien.md#PACTEMAGIQUE) par exemple) et qu'il est au moins de niveau 5, elle utilise alors les statistiques d'un [diablotin](./Diablotin.md), mais remplacer son pouvoir magique *[invisibilité](./Invisibilité.md)* par celui de *[désir anormal](./Désir anormal.md)* ([DD](./DD.md) 14) utilisable trois fois par jour. Un personnage ne peut avoir qu'un seul familier.
+Si le personnage peut obtenir un familier par d'autres moyens (tel que le [[Magicien#PACTEMAGIQUE|pacte magique]] par exemple) et qu'il est au moins de niveau 5, elle utilise alors les statistiques d'un [[diablotin]], mais remplacer son pouvoir magique *[[invisibilité]]* par celui de *[[désir anormal]]* ([[DD]] 14) utilisable trois fois par jour. Un personnage ne peut avoir qu'un seul familier.
 
 Si le personnage viole grossièrement le code de conduite de la déesse de la vengeance (une de la taille de celle qui provoquerait la perte des capacités d'un prêtre de cette déesse), son familier se retourne contre lui et l'attaque jusqu'à la mort.
 
-Pour regagner un familier, le personnage doit demander pardon pour ses méfaits et recevoir le sort *[pénitence](./Pénitence.md)* et payer pour que son familier soit ramené à la vie. Si son familier meurt ou est perdu par d'autres moyens, il peut suivre les règles normales de remplacement des familiers.
+Pour regagner un familier, le personnage doit demander pardon pour ses méfaits et recevoir le sort *[[pénitence]]* et payer pour que son familier soit ramené à la vie. Si son familier meurt ou est perdu par d'autres moyens, il peut suivre les règles normales de remplacement des familiers.
 
 **Spécial** Ce don peut être pris une deuxième fois par les personnages de niveau 7 ou plus s'ils ne disposent pas d'un autre moyen d'accès à un familier. de tels personnages ont alors accès au familier qui utilise les statistiques du diablotin, comme indiqué ci-dessus.
 

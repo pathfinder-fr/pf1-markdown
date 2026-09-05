@@ -10,8 +10,8 @@ Categories:
 
 {s:MR}*Les pleurs, les bégaiements, voire même l’écume qui s’écoule de sa bouche, font passer le personnage pour un individu risible et incohérent, ce qui diminue la vigilance de ses adversaires.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** 1 rang en [Bluff](./Bluff.md), aptitude de classe de [rage de berserker](./Barbare.md#RAGE), [gnome](./Gnome.md)
+**Conditions.** 1 rang en [[Bluff]], aptitude de classe de [[barbare#RAGE|rage de berserker]], [[gnome]]
 
-**Avantage.** Le personnage peut utiliser sa compétence de [Bluff](./Bluff.md) pour [feinter](./Actions spéciales.md#FEINTE) en combat lorsqu’il est [enragé](./Barbare.md#RAGE). L’effet de la feinte dure uniquement jusqu’à ce qu’il touche pour la première fois sa cible.
+**Avantage.** Le personnage peut utiliser sa compétence de [[Bluff]] pour [[actions spéciales#FEINTE|feinter]] en combat lorsqu’il est [[barbare#RAGE|enragé]]. L’effet de la feinte dure uniquement jusqu’à ce qu’il touche pour la première fois sa cible.

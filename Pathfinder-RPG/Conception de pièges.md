@@ -8,13 +8,13 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:MenuEnvironnement}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>*Voir aussi la [description des pièges](./Pièges.md) et des [exemples de pièges](./Exemples de pièges.md).*
+{s:MenuEnvironnement}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>*Voir aussi la [[Pièges|description des pièges]] et des [[Exemples de pièges]].*
 
 {s:Reference|TYPE}
 ### Type de piège
 C’est un procédé assez simple. Il faut tout d’abord décider du type de piège que vous souhaitez créer.
 
-**Pièges mécaniques.** Choisissez les éléments que vous souhaitez associer au piège et ajoutez les modifications adéquates au facteur de puissance (voir la table ci-dessous) pour obtenir le [FP](./Rencontres.md#FP) final du piège afin d’en déduire le [DD](./DD.md) du test d’[Artisanat](./Artisanat.md) (fabrication des pièges) que le personnage doit effectuer (voir Tableau "DD du test d’Artisanat des pièges" plus bas).
+**Pièges mécaniques.** Choisissez les éléments que vous souhaitez associer au piège et ajoutez les modifications adéquates au facteur de puissance (voir la table ci-dessous) pour obtenir le [[Rencontres#FP|FP]] final du piège afin d’en déduire le [[DD]] du test d’[[Artisanat]] (fabrication des pièges) que le personnage doit effectuer (voir Tableau "DD du test d’Artisanat des pièges" plus bas).
 
 <table width="100%"><tr style="vertical-align: top"><td>
 {| CLASS="tablo centre" WIDTH="96%"
@@ -22,7 +22,7 @@ C’est un procédé assez simple. Il faut tout d’abord décider du type de pi
 |- CLASS="titre"
 | Élément || Modificateur au FP
 |- CLASS="premier"
-| COLSPAN="2" | **DD du test de [Perception](./Perception.md)**
+| COLSPAN="2" | **DD du test de [[Perception]]**
 |-
 |  15 ou moins || -1
 |- CLASS="alt"
@@ -34,7 +34,7 @@ C’est un procédé assez simple. Il faut tout d’abord décider du type de pi
 |-
 | 30 ou plus || +3
 |- CLASS="premier"
-| COLSPAN="2" | **DD du test de [Sabotage](./Sabotage.md)**
+| COLSPAN="2" | **DD du test de [[Sabotage]]**
 |-
 | 15 ou moins || –1
 |- CLASS="alt"
@@ -46,7 +46,7 @@ C’est un procédé assez simple. Il faut tout d’abord décider du type de pi
 |-
 | 30 ou plus || +3
 |- CLASS="premier"
-| COLSPAN="2" | **DD du jet de Réflexes (fosses et autres pièges autorisant un [JdS](./jet de sauvegarde.md))**
+| COLSPAN="2" | **DD du jet de Réflexes (fosses et autres pièges autorisant un [[jet de sauvegarde|JdS]])**
 |-
 |  15 ou moins || –1
 |- CLASS="alt"
@@ -136,11 +136,11 @@ C’est un procédé assez simple. Il faut tout d’abord décider du type de pi
 |-
 | Venin de wiverne || +5
 |- CLASS="note"
-| COLPAN="2" | *Voir la section sur les [poisons](./Poisons.md)*
+| COLPAN="2" | *Voir la section sur les [[poisons]]*
 |}
 </td></tr></table>
 
-**Pièges magiques.** Là encore, choisissez les éléments qui vous conviennent et déterminez le [FP](./Rencontres.md#FP) du piège en fonction (voir la table ci-dessous). Si un PJ souhaite concevoir et construire un piège magique, il doit disposer du don [Création d’objets merveilleux](./Création dobjets merveilleux.md). De plus, il doit être capable de lancer le ou les sorts nécessaire à la conception du piège, sans quoi il devra louer les services d’un [PNJ](./PNJ.md) qui s’en chargera pour lui.
+**Pièges magiques.** Là encore, choisissez les éléments qui vous conviennent et déterminez le [[Rencontres#FP|FP]] du piège en fonction (voir la table ci-dessous). Si un PJ souhaite concevoir et construire un piège magique, il doit disposer du don [[Création dobjets merveilleux|Création d’objets merveilleux]]. De plus, il doit être capable de lancer le ou les sorts nécessaire à la conception du piège, sans quoi il devra louer les services d’un [[PNJ]] qui s’en chargera pour lui.
 
 {| CLASS="tablo centre autoalt"
 |+ {s:Reference|MODIFFPMAGIQUES}Modificateurs au FP des pièges magiques
@@ -153,19 +153,19 @@ C’est un procédé assez simple. Il faut tout d’abord décider du type de pi
 |}
 
 ### Facteur de puissance d’un piège
-Pour calculer le facteur de puissance d’un piège, ajoutez tous les modificateurs de [FP](./Rencontres.md#FP) (voir les deux tables de la section précédente) au [FP](./Rencontres.md#FP) de base du piège.
+Pour calculer le facteur de puissance d’un piège, ajoutez tous les modificateurs de [[Rencontres#FP|FP]] (voir les deux tables de la section précédente) au [[Rencontres#FP|FP]] de base du piège.
 
-**Piège mécanique.** Le [FP](./Rencontres.md#FP) de base d’un piège mécanique est égal à 0. Si son [FP](./Rencontres.md#FP) final est toujours égal à 0, ajoutez-lui des éléments jusqu’à ce que le [FP](./Rencontres.md#FP) s’élève à 1 au moins.
+**Piège mécanique.** Le [[Rencontres#FP|FP]] de base d’un piège mécanique est égal à 0. Si son [[Rencontres#FP|FP]] final est toujours égal à 0, ajoutez-lui des éléments jusqu’à ce que le [[Rencontres#FP|FP]] s’élève à 1 au moins.
 
-**Piège magique.** Pour un piège à sort ou à objet magique, le [FP](./Rencontres.md#FP) de base est égal à 1. C’est le sort du plus haut niveau qui modifie le [FP](./Rencontres.md#FP) (voir la table [Modificateurs au FP des pièges magiques](./Conception de pièges.md#MODIFFPMAGIQUES)).
+**Piège magique.** Pour un piège à sort ou à objet magique, le [[Rencontres#FP|FP]] de base est égal à 1. C’est le sort du plus haut niveau qui modifie le [[Rencontres#FP|FP]] (voir la table [[Conception de pièges#MODIFFPMAGIQUES|Modificateurs au FP des pièges magiques]]).
 
-**Dégâts moyens.** Si le piège mécanique ou magique inflige des points de dégâts, calculez les dégâts moyens et arrondissez cette valeur au multiple de 10 le plus proche. Si le piège est conçu pour atteindre des cibles multiples, multipliez cette valeur par 2. S’il est conçu pour infliger des dégâts pendant une certaine durée, multipliez cette valeur par le nombre de rounds pendant lequel le piège sera actif (ou le nombre moyen si la durée est variable). Utilisez cette valeur pour ajuster le facteur de puissance du piège, comme le montre la [table des modificateurs au FP des pièges mécaniques](./Conception de pièges.md#MODIFFPMECA). Les dégâts dus au poison ne comptent pas, à l’inverse de ceux qui découlent des pieux ou d’attaques multiples.
+**Dégâts moyens.** Si le piège mécanique ou magique inflige des points de dégâts, calculez les dégâts moyens et arrondissez cette valeur au multiple de 10 le plus proche. Si le piège est conçu pour atteindre des cibles multiples, multipliez cette valeur par 2. S’il est conçu pour infliger des dégâts pendant une certaine durée, multipliez cette valeur par le nombre de rounds pendant lequel le piège sera actif (ou le nombre moyen si la durée est variable). Utilisez cette valeur pour ajuster le facteur de puissance du piège, comme le montre la [[Conception de pièges#MODIFFPMECA|table des modificateurs au FP des pièges mécaniques]]. Les dégâts dus au poison ne comptent pas, à l’inverse de ceux qui découlent des pieux ou d’attaques multiples.
 
-Pour ce qui est des pièges magiques, on applique un seul modificateur au [FP](./Rencontres.md#FP)  : le niveau du sort du plus haut niveau utilisé lors de la conception, ou les dégâts moyens (choisir le plus élevé).
+Pour ce qui est des pièges magiques, on applique un seul modificateur au [[Rencontres#FP|FP]]  : le niveau du sort du plus haut niveau utilisé lors de la conception, ou les dégâts moyens (choisir le plus élevé).
 
-**Pièges multiples.** Si le piège est en fait constitué de plusieurs pièges qui affectent la même zone à peu de choses près, déterminez le [FP](./Rencontres.md#FP) de chacun séparément.
-- *Pièges multiples interdépendants.* Si un piège dépend du bon fonctionnement d’un autre, (c’est-à-dire qu’on peut éviter le second en n’étant pas victime du premier), les personnages gagnent un nombre de [PX](./PX.md) égal à la valeur totale des pièges s’ils échappent au premier et ne déclenchent pas le second.
-- *Pièges multiples indépendants.* Si plusieurs pièges agissent indépendamment (si le fonctionnement de l’un n’affecte pas celui de l’autre), les personnages gagnent un nombre de [PX](./PX.md) égal à la valeur de celui auquel ils ont réussi à échapper.
+**Pièges multiples.** Si le piège est en fait constitué de plusieurs pièges qui affectent la même zone à peu de choses près, déterminez le [[Rencontres#FP|FP]] de chacun séparément.
+- *Pièges multiples interdépendants.* Si un piège dépend du bon fonctionnement d’un autre, (c’est-à-dire qu’on peut éviter le second en n’étant pas victime du premier), les personnages gagnent un nombre de [[PX]] égal à la valeur totale des pièges s’ils échappent au premier et ne déclenchent pas le second.
+- *Pièges multiples indépendants.* Si plusieurs pièges agissent indépendamment (si le fonctionnement de l’un n’affecte pas celui de l’autre), les personnages gagnent un nombre de [[PX]] égal à la valeur de celui auquel ils ont réussi à échapper.
 
 ### Coût d’un piège mécanique
 Le coût de base d’un piège mécanique est de 1 000 po x le facteur de puissance du piège. Si le déclencheur comporte des sorts, ajoutez ces coûts séparément. Pour une remise en place automatique, augmentez le coût de 50%. Des pièges très simples, comme les fosses, peuvent se révéler très peu onéreux, à la discrétion du MJ, et leur fabrication peut avoisiner à peine 250 po x facteur de puissance.
@@ -175,7 +175,7 @@ Une fois ceci fait, ajoutez la valeur des objets spéciaux et poisons incorporé
 **Pièges multiples.** Si le piège est constitué de plusieurs pièges reliés entre eux, déterminez le coût final de chacun séparément, puis faites la somme des valeurs obtenues. Cela vaut pour les pièges indépendants et interdépendants (voir ci-dessus).
 
 ### Coût d’un piège magique à objet
-Pour créer un piège magique à objet, il faut dépenser des pièces d’or et louer les services d’un lanceur de sorts. La table ci-dessous répertorie toutes ces dépenses. Si le piège nécessite plusieurs sorts (par exemple, un déclencheur visuel ou sonore en plus de l’effet magique principal), le concepteur doit les payer tous (à l’exception du sort *[alarme](./Alarme.md)*, gratuit à moins qu’il soit lancé par un PNJ).
+Pour créer un piège magique à objet, il faut dépenser des pièces d’or et louer les services d’un lanceur de sorts. La table ci-dessous répertorie toutes ces dépenses. Si le piège nécessite plusieurs sorts (par exemple, un déclencheur visuel ou sonore en plus de l’effet magique principal), le concepteur doit les payer tous (à l’exception du sort *[[alarme]]*, gratuit à moins qu’il soit lancé par un PNJ).
 
 Les prix donnés dans la table ci-dessous partent du principe que la personne qui fabrique le piège se charge de lancer les sorts nécessaires (ou qu’un autre PJ le fait gracieusement). Si elle doit louer les services d’un PNJ lanceur de sorts, le salaire de ce dernier s’ajoute au prix total (voir le Chapitre 6 à ce sujet).
 
@@ -186,7 +186,7 @@ Le temps de création d’un piège à objet magique est égal à 1 jour par tra
 |- CLASS="titre"
 | Élément || Modificateur au coût
 |- CLASS="premier"
-| &emsp;Sort *[alarme](./Alarme.md)* en guise de déclencheur || —
+| &emsp;Sort *[[alarme]]* en guise de déclencheur || —
 |-
 | COLSPAN="2" | **Piège à usage unique**
 |-
@@ -205,9 +205,9 @@ Le temps de création d’un piège à objet magique est égal à 1 jour par tra
 Un piège à sort ne coûte rien à moins qu’il ne faille louer les services d’un PNJ lanceur de sorts.
 
 ### DD du test d’Artisanat des pièges mécaniques
-Une fois que vous avez calculé le [facteur de puissance](./Rencontres.md#FP) du piège qu’un PJ souhaite concevoir et construire, déterminez le [DD](./DD.md) du test d’[Artisanat](./Artisanat.md) (fabrication de pièges) en vous reportant à la table ci-contre.
+Une fois que vous avez calculé le [[Rencontres#FP|facteur de puissance]] du piège qu’un PJ souhaite concevoir et construire, déterminez le [[DD]] du test d’[[Artisanat]] (fabrication de pièges) en vous reportant à la table ci-contre.
 
-**Effectuer les tests.** Pour déterminer l’avancement journalier de la construction d’un piège, le personnage effectue un test d’[Artisanat](./Artisanat.md) (fabrication de pièges). Pour de plus amples informations sur ce type de test, reportez-vous à la description de la compétence [Artisanat](./Artisanat.md).
+**Effectuer les tests.** Pour déterminer l’avancement journalier de la construction d’un piège, le personnage effectue un test d’[[Artisanat]] (fabrication de pièges). Pour de plus amples informations sur ce type de test, reportez-vous à la description de la compétence [[Artisanat]].
 
 {| CLASS="tablo centre"
 |+ DD du test d’Artisanat des pièges

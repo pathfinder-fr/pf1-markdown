@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun cabochon écarlate et vert|{s:RSE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 10 000 po (normale), 8 000 po (défectueuse), 1 400 po (ébréchée) ; **Poids** –
+**Aura** [[Transmutation]] modérée ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 10 000 po (normale), 8 000 po (défectueuse), 1 400 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** Cette pierre vous accorde le don [Endurance](./Endurance.md).
+- ***Normale.*** Cette pierre vous accorde le don [[Endurance]].
 
 
-- ***Défectueuse.*** Cette pierre accorde à celui qui la porte le don [Endurance](./Endurance.md). Tout ce qui rendrait normalement le porteur [fatigué](./Fatigué.md) le rend [fiévreux](./Fiévreux.md). Tout ce qui devrait le rendre [épuisé](./Épuisé.md) le rend [nauséeux](./Nauséeux.md).
+- ***Défectueuse.*** Cette pierre accorde à celui qui la porte le don [[Endurance]]. Tout ce qui rendrait normalement le porteur [[fatigué]] le rend [[fiévreux]]. Tout ce qui devrait le rendre [[épuisé]] le rend [[nauséeux]].
 
 
-- ***Ébréchée.*** Cette pierre accorde un bonus de +4 sur un type de jet affecté par le don [Endurance](./Endurance.md).
+- ***Ébréchée.*** Cette pierre accorde un bonus de +4 sur un type de jet affecté par le don [[Endurance]].
 
 (((Pouvoir de résonance)))
-Bonus de +5 aux tests de [Constitution](./Constitution.md) pour se [stabiliser](./Blessures et mort.md#STABLE).
+Bonus de +5 aux tests de [[Constitution]] pour se [[Blessures et mort#STABLE|stabiliser]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[force de taureau](./Force de taureau.md)*, *[grâce féline](./Grâce féline.md)*, le créateur doit être de niveau 12 ; **Coût** 5 000 po (normale), 4 000 po (défectueuse), 700 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[force de taureau]]*, *[[grâce féline]]*, le créateur doit être de niveau 12 ; **Coût** 5 000 po (normale), 4 000 po (défectueuse), 700 po (ébréchée)
 </div>

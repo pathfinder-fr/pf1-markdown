@@ -10,23 +10,23 @@ Categories:
 - Sort prêtre 1
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[émotion, mental, peur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 1, [Cham](./Chaman.md) 1, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Prê](./Prêtre.md) 1  
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Prêtre|Prê]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
 **Portée** 15 m (10 {s:c})  
 
 **Zone d'effet** tous les adversaires se trouvant à 15 m (10 {s:c}) ou moins  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-*Imprécation* instille le doute et la peur chez les adversaires du lanceur de sorts. Toutes les créatures affectées subissent un malus de moral de -1 aux [jets d’attaque](./jet dattaque.md) et aux [jets de sauvegarde](./jet de sauvegarde.md) contre la [terreur](./Présentation des sorts.md#REGISTRE).
+*Imprécation* instille le doute et la peur chez les adversaires du lanceur de sorts. Toutes les créatures affectées subissent un malus de moral de -1 aux [[jet dattaque|jets d’attaque]] et aux [[jet de sauvegarde|jets de sauvegarde]] contre la [[Présentation des sorts#REGISTRE|terreur]].
 
-*Imprécation* contre et dissipe *[bénédiction](./Bénédiction.md)*.
+*Imprécation* contre et dissipe *[[bénédiction]]*.
 
 ### Mythique
 {s:CMy}

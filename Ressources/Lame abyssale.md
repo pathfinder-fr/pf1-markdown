@@ -6,7 +6,7 @@ LastModified: 2015-04-27 21:46
 
 ''Rares sont les combattants assez fous pour devenir des lames abyssales. En effet, le rite pour y parvenir est à la fois radical et terrifiant – il implique de se procurer, ou du moins de se faire procurer, un fragment de l'immonde chair des qlippoths. La seconde partie du rite est encore plus perturbante – le candidat doit subir une dangereuse opération au cours de laquelle la chair du qlippoth est implantée en lui.
 
-Etant donné la corruption et le danger que représentent ces créatures, il n'est pas rare qu'une opértion ait des séquelles durables, cependant elle convient aux [guerriers](./../Pathfinder-RPG/Guerrier.md), [barbares](./../Pathfinder-RPG/Barbare.md) et autres combattants n'ayant pas peur du sacrifice pour parvenir à  leurs fins, leur conférant des pouvoirs issus de la corruption même de leur corps. Les gigantesques armes à deux mains qu'ils manient sont souvent témoins de leur force.''
+Etant donné la corruption et le danger que représentent ces créatures, il n'est pas rare qu'une opértion ait des séquelles durables, cependant elle convient aux [[Pathfinder-RPG.guerrier|guerriers]], [[Pathfinder-RPG.barbare|barbares]] et autres combattants n'ayant pas peur du sacrifice pour parvenir à  leurs fins, leur conférant des pouvoirs issus de la corruption même de leur corps. Les gigantesques armes à deux mains qu'ils manient sont souvent témoins de leur force.''
 
 <center>
 {| CLASS="tablo"
@@ -16,34 +16,34 @@ Etant donné la corruption et le danger que représentent ces créatures, il n'e
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1 || +1 || +1 || +1 || +0
-| CLASS="gauche" | [Force des Abysses](./Lame abyssale.md#FORCEABYSSE), [Sang Furieux](./Lame abyssale.md#SANG FURIEUX)
+| CLASS="gauche" | [[Lame Abyssale#FORCEABYSSE|Force des Abysses]], [[Lame Abyssale#SANG FURIEUX|Sang Furieux]]
 |- CLASS="alt"
 | 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [Pouvoir Souillé](./Lame abyssale.md#POUVOIRSOUILLE)
+| CLASS="gauche" | [[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]
 |-
 | 3 || +3 || +2 || +2 || +1
-| CLASS="gauche" | [Regénération Rapide](./Lame abyssale.md#REGENRAPIDE)
+| CLASS="gauche" | [[Lame Abyssale#REGENRAPIDE|Regénération Rapide]]
 |- CLASS="alt"
 | 4 || +4 || +2 || +2 || +1
-| CLASS="gauche" | [Pouvoir Souillé](./Lame abyssale.md#POUVOIRSOUILLE)
+| CLASS="gauche" | [[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]
 |-
 | 5 || +5 || +3 || +3 || +2
-| CLASS="gauche" | [Véritable Aspect](./Lame abyssale.md#VERITASPECT)
+| CLASS="gauche" | [[Lame Abyssale#VERITASPECT|Véritable Aspect]]
 |- CLASS="alt"
 | 6 || +6 || +3 || +3 || +2
-| CLASS="gauche" | [Pouvoir Souillé](./Lame abyssale.md#POUVOIRSOUILLE)
+| CLASS="gauche" | [[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]
 |-
 | 7 || +7 || +4 || +4 || +2
-| CLASS="gauche" | [Furie Supérieure](./Lame abyssale.md#FURIESUP)
+| CLASS="gauche" | [[Lame Abyssale#FURIESUP|Furie Supérieure]]
 |- CLASS="alt"
 | 8 || +8 || +4 || +4 || +3
-| CLASS="gauche" | [Pouvoir Souillé](./Lame abyssale.md#POUVOIRSOUILLE)
+| CLASS="gauche" | [[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]
 |-
 | 9 || +9 || +5 || +5 || +3
-| CLASS="gauche" | [Au Bord de l'Abysse](./Lame abyssale.md#BORDABYSSE)
+| CLASS="gauche" | [[Lame Abyssale#BORDABYSSE|Au Bord de l'Abysse]]
 |- CLASS="alt"
 | 10 || +10 || +5 || +5 || +3
-| CLASS="gauche" | [Pouvoir Souillé](./Lame abyssale.md#POUVOIRSOUILLE), [Véritable Lame](./Lame abyssale.md#VERITLAME)
+| CLASS="gauche" | [[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]], [[Lame Abyssale#VERITLAME|Véritable Lame]]
 |}
 </center>
 
@@ -58,14 +58,14 @@ Pour devenir une lame abyssale, il faut satisfaire aux conditions suivantes.
 
 **Bonus de base à l’attaque.** +5.
 
-**Dons.** [Vigueur Surhumaine](./../Pathfinder-RPG/Vigueur surhumaine.md), [Arme de Prédilection](./../Pathfinder-RPG/Arme de prédilection.md) (Une arme à deux mains, de préférence une lame lourde)
+**Dons.** [[Pathfinder-RPG.Vigueur Surhumaine|Vigueur Surhumaine]], [[Pathfinder-RPG.Arme de Prédilection|Arme de Prédilection]] (Une arme à deux mains, de préférence une lame lourde)
 
 **Spécial.** Tuer un qlippoth – ou se trouver en possession de la dépouille d'un qlippoth –  et subir l'opération nécessaire.
 
 ### Compétences de classe
-Voici les compétences de classe de la lame abyssale : [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) (Dex), [Escalade](./../Pathfinder-RPG/Escalade.md) (For),  [Intimidation](./../Pathfinder-RPG/Intimidation.md) (Cha), [Natation](./../Pathfinder-RPG/Natation.md) (For), [Perception](./../Pathfinder-RPG/Perception.md) (Sag), [Survie](./../Pathfinder-RPG/Survie.md) (Sag).
+Voici les compétences de classe de la lame abyssale : [[Pathfinder-RPG.Acrobaties|Acrobaties]] (Dex), [[Pathfinder-RPG.Escalade|Escalade]] (For),  [[Pathfinder-RPG.Intimidation|Intimidation]] (Cha), [[Pathfinder-RPG.Natation|Natation]] (For), [[Pathfinder-RPG.Perception|Perception]] (Sag), [[Pathfinder-RPG.Survie|Survie]] (Sag).
 
-**Nombre de rangs par niveau.** 2 + modificateur d’[Ìntelligence](./../Pathfinder-RPG/Intelligence.md)
+**Nombre de rangs par niveau.** 2 + modificateur d’[[Pathfinder-RPG.Intelligence|Ìntelligence]]
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de prestige de lame abyssale
@@ -92,7 +92,7 @@ Au niveau 2, et à tous les deux niveaux suivants, la lame abyssale gagne des pa
 
 :: *Corps Anormal (Ext).* Le personnage possède un corps étrange qui lui permet d'avoir 25% de chance d'ignorer les coups critiques et attaques sournoises à son encontre. Ce pourcentage passe à 50% quand le personnage est en état de furie.
 
-:: *Cuirasse de Chair (Ext).* La [réduction de dégâts](./../Pathfinder-RPG/RD.md) de la lame abyssale augmente de 1/–.  Il augmente de 1/– supplémentaire quand le personnage est en état de furie. Le personnage peut le sélectionner à deux reprises, mais doit être niveau 4 pour le faire.
+:: *Cuirasse de Chair (Ext).* La [[Pathfinder-RPG.RD|réduction de dégâts]] de la lame abyssale augmente de 1/–.  Il augmente de 1/– supplémentaire quand le personnage est en état de furie. Le personnage peut le sélectionner à deux reprises, mais doit être niveau 4 pour le faire.
 
 :: *Forme Incertaine (Ext).* Le personnage gagne le pouvoir d'esquive. Il gagne celui d'esquive totale quand il est en état de furie.
 
@@ -108,7 +108,7 @@ Au niveau 2, et à tous les deux niveaux suivants, la lame abyssale gagne des pa
 
 :: *Regénération Accrue (Ext).* La Regénération rapide de la lame abyssale augmente de 1. Elle augmente de 1 supplémentaire quand le personnage est en état de furie. Il peut le sélectionner à deux reprises, mais doit être niveau 6 pour le faire.
 
-:: *Sens surhumains (Ext).* Le personnage gagne au choix Vision dans le noir à 18m, odorat, ou vision aveugle. Si un de ses sens a une portée, elle est doublée quand le personnage est en état de furie, et il reçoit un bonus de +2 à ses tests de [Perception](./../Pathfinder-RPG/Perception.md). Le personnage peut le sélectionner à plusieurs reprises.
+:: *Sens surhumains (Ext).* Le personnage gagne au choix Vision dans le noir à 18m, odorat, ou vision aveugle. Si un de ses sens a une portée, elle est doublée quand le personnage est en état de furie, et il reçoit un bonus de +2 à ses tests de [[Pathfinder-RPG.Perception|Perception]]. Le personnage peut le sélectionner à plusieurs reprises.
 
 {s:Reference|REGENRAPIDE}
 #### Regénération rapide (Ext)

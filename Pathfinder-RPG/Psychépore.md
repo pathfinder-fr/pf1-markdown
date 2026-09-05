@@ -11,15 +11,15 @@ Categories:
 <div class="BD">
 {s:BDTitre|Psychépore|FP 7}
 {s:pucem|Plante|Forêt-Jungle|Tropical}
-{s:BDTexte|*Source : [Bestiaire 5 p.212](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.212]]*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Plante](./type Plante.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision à 360°](./Vision à 360° (capacité).md), [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Plante|Plante]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[Vision à 360° (capacité)|vision à 360°]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 13, pris au dépourvu 17 (Dex +3, naturelle +7)}
 {s:BDTexte|**pv** 85 (10d8+40)}
 {s:BDTexte|**Réf** +6, **Vig** +10, **Vol** +6}
-{s:BDTexte|**Capacités défensives** musc psychotrope ; **RD** 5/tranchant ; **Immunités** [traits des plantes](./Traits des plantes (capacité).md) ; **Résistances** feu 10}
+{s:BDTexte|**Capacités défensives** musc psychotrope ; **RD** 5/tranchant ; **Immunités** [[Traits des plantes (capacité)|traits des plantes]] ; **Résistances** feu 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m}
 {s:BDTexte|**Corps à corps** 3 coups, +13 (1d8+5 plus poison)}
@@ -28,18 +28,18 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 17, **Con** 16, **Int** 7, **Sag** 12, **Cha** 9}
 {s:BDTexte|**BBA** +7 ; **BMO** +12 ; **DMD** 25}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (coup), [Robustesse](./Robustesse.md), [Talent](./Talent.md) (Discrétion), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +12}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (coup), [[Robustesse]], [[Talent]] (Discrétion), [[Talent]] (Perception), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +14, [[Perception]] +12}
 {s:BDTexte|**Langues** commun (incapable de parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** jungles ou forêts chaudes}
 {s:BDTexte|**Organisation** solitaire, paire ou colonie (5-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Projectiles acérés (Ext).** Par une [action simple](./Action simple.md), un psychépore peut projeter trois fragments fongiques aiguisés comme des rasoirs. Il s’agit d’une attaque à distance avec un facteur de portée de 9 mètres.}
+{s:BDTexte|**Projectiles acérés (Ext).** Par une [[action simple]], un psychépore peut projeter trois fragments fongiques aiguisés comme des rasoirs. Il s’agit d’une attaque à distance avec un facteur de portée de 9 mètres.}
 {s:BDTexte|**Musc psychotrope (Ext).** Quand un psychépore subit des dégâts infligés par une arme de corps à corps tranchante ou perforante, il s’en dégage un nuage de spores, exposant l’attaquant au poison du psychépore.}
-{s:BDTexte|**Poison (Ext).** Coup ou projectile acéré — blessure ou spores — inhalation ; *JdS* [Vigueur](./Vigueur.md) DD 18 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d3 [Sagesse](./Sagesse.md) plus visions ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Visions (Ext).** L’esprit d’une créature affectée par le poison du psychépore est envahi de visions provenant d’un esprit étranger. À chaque round, si la victime rate son jet de sauvegarde contre le poison, elle doit réussir un second jet de [Volonté](./Volonté.md) DD 18 ou devenir [confuse](./Confus.md) pendant 1 round. Il s’agit d’un poison causant un [effet mental](./Registre.md). Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Poison (Ext).** Coup ou projectile acéré — blessure ou spores — inhalation ; *JdS* [[Vigueur]] DD 18 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3 [[Sagesse]] plus visions ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Visions (Ext).** L’esprit d’une créature affectée par le poison du psychépore est envahi de visions provenant d’un esprit étranger. À chaque round, si la victime rate son jet de sauvegarde contre le poison, elle doit réussir un second jet de [[Volonté]] DD 18 ou devenir [[confus|confuse]] pendant 1 round. Il s’agit d’un poison causant un [[registre|effet mental]]. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div></td>
 <td><div>*Cette masse touffue de champignons en forme de coquillages dissimule presque la plante qui se trouve dessous.*

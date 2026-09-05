@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.251}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille M, LM}
-{s:BDTexte|**Init** +1 ; **Sens** [perception aveugle](./perception aveugle.md) 9 m (6 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille M, LM}
+{s:BDTexte|**Init** +1 ; **Sens** [[perception aveugle]] 9 m (6 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 11, pris au dépourvu 15 (Dex +1, naturelle +5)}
 {s:BDTexte|**pv** 15 (2d10+4)}
 {s:BDTexte|**Réf** +4, **Vig** +4, **Vol** +4}
-{s:BDTexte|**Faiblesses** [aveuglé par la lumière](./Aveuglé par la lumière.md)}
+{s:BDTexte|**Faiblesses** [[aveuglé par la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** trident, +4 (1d8+3), morsure, -1 (1d4+1) ou 2 griffes, +4 (1d4+2), morsure, +4 (1d4+2)}
@@ -29,16 +29,16 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 13, **Con** 14, **Int** 14, **Sag** 13, **Cha** 9}
 {s:BDTexte|**BBA** +2, **BMO** +4, **DMD** 15}
-{s:BDTexte|**Dons** [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +6, [Dressage](./Dressage.md) +1, [Équitation](./Équitation.md) +6, [Natation](./Natation.md) +15, [Perception](./Perception.md) +6, [Survie](./Survie.md) +6}
+{s:BDTexte|**Dons** [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +6, [[Dressage]] +1, [[Équitation]] +6, [[Natation]] +15, [[Perception]] +6, [[Survie]] +6}
 {s:BDTexte|**Langues** aquatique, commun ; communication avec les requins}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans tempérés ou chauds}
-{s:BDTexte|**Organisation sociale** solitaire, couple, équipe (5-8), patrouille (11-20 et 1 lieutenant de niveau 3 et 1-2 [requins](./Requin.md)), bande (20-80 et 100% de non combattants et 1 lieutenant de niveau 3 et 1 chef de niveau 4 par 20 adultes et 1-2 [requins](./Requin.md)) ou tribu (70-160 et 100% de non combattants, 1 lieutenant de niveau 3 par 20 adultes, 1 chef de niveau 4 par 40 adultes, 9 gardes de niveau 4, 1-4 sous prêtresses de niveau 3-6, 1 prêtresse de niveau 7, 1 baron de niveau 6-8 et 5-8 [requins](./Requin.md))}
+{s:BDTexte|**Organisation sociale** solitaire, couple, équipe (5-8), patrouille (11-20 et 1 lieutenant de niveau 3 et 1-2 [[requin|requins]]), bande (20-80 et 100% de non combattants et 1 lieutenant de niveau 3 et 1 chef de niveau 4 par 20 adultes et 1-2 [[requin|requins]]) ou tribu (70-160 et 100% de non combattants, 1 lieutenant de niveau 3 par 20 adultes, 1 chef de niveau 4 par 40 adultes, 9 gardes de niveau 4, 1-4 sous prêtresses de niveau 3-6, 1 prêtresse de niveau 7, 1 baron de niveau 6-8 et 5-8 [[requin|requins]])}
 {s:BDTexte|**Trésor** équipement de PNJ (arbalète lourde avec 10 carreaux, trident, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Communication avec les requins (Sur)** Les sahuagins peuvent communiquer par [télépathie](./Télépathie.md) avec les [requins](./Requin.md) dans un rayon de 45 mètres (30 {s:c}). L'échange se limite à des concepts simples tels que "viens ici," "protège-moi" ou "attaque cette cible".}
-{s:BDTexte|**Frénésie inspirée par le sang (Ext)** Une fois par jour, lorsqu'un sahuagin est blessé au cours d'un combat, il peut se laisser gagner par la frénésie dès que son tour arrive. Il gagne un bonus de +2 en [Force](./Force.md) et en [Constitution](./Constitution.md) mais subit un malus de -2 à la [CA](./CA.md). La frénésie persiste pendant 1 minute ou seulement jusqu'à la fin du combat si celui-ci se termine avant.}
+{s:BDTexte|**Communication avec les requins (Sur)** Les sahuagins peuvent communiquer par [[télépathie]] avec les [[requin|requins]] dans un rayon de 45 mètres (30 {s:c}). L'échange se limite à des concepts simples tels que "viens ici," "protège-moi" ou "attaque cette cible".}
+{s:BDTexte|**Frénésie inspirée par le sang (Ext)** Une fois par jour, lorsqu'un sahuagin est blessé au cours d'un combat, il peut se laisser gagner par la frénésie dès que son tour arrive. Il gagne un bonus de +2 en [[Force]] et en [[Constitution]] mais subit un malus de -2 à la [[CA]]. La frénésie persiste pendant 1 minute ou seulement jusqu'à la fin du combat si celui-ci se termine avant.}
 </div>
 </td><td><div>''Cet humanoïde écailleux a des dents acérées, une longue queue de poisson
 et des bras et des jambes terminées par des griffes palmées.''
@@ -102,14 +102,14 @@ Les sahuagins jouissent d’une espérance de vie très longue, peut-être même
 ### Sahuagins mutants
 L’instabilité inhérente aux gènes sahuagins fait que ces créatures sont sujettes aux mutations. Toutes ces mutations ne sont pas bénéfiques et les sahuagins déficients survivent rarement bien longtemps après l’éclosion. Les sahuagins mutants qui parviennent à survivre et atteignent l’âge adulte forcent le respect et l’admiration de leurs pairs, se hissant très vite à des positions de pouvoir. Les sahuagins à quatre bras et les malentis sont les sahuagins mutants les plus courants.
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
-- **Malenti.** Les malentis ressemblent à des elfes aquatiques et reçoivent un bonus de +4 en [Dextérité](./Dextérité.md) et en [Charisme](./Charisme.md), ainsi que les dons supplémentaires [Fourberie](./Fourberie.md) et [Talent](./Talent.md) (Bluff). Ils peuvent utiliser *[injonction](./Injonction.md)* comme un pouvoir magique trois fois par jour (ce pouvoir ne fonctionne que sur les créatures de sous-type aquatique, illustrant ainsi l’influence télépathique des sahuagins sur les créatures aquatiques). En outre, le bonus d’armure naturelle des malentis est réduit à +2 et ils perdent leur particularité aveuglé par la lumière et leurs armes naturelles. Les malentis excellent comme [bardes](./Barde.md), [oracles](./Oracle.md), [roublards](./Roublard.md) et [magiciens](./Magicien.md).
-- **Sahuagin à quatre bras.** Ces mutants sont dotés de quatre bras qui leur apportent deux attaques de griffe supplémentaires. Ils gagnent les dons supplémentaires d’[Attaques multiples](./Attaques multiples.md) et de [Robustesse](./Robustesse.md), ainsi que le pouvoir [maîtrise du combat à plusieurs armes](./Maîtrise du combat à plusieurs armes (capacité).md). Ils ont un [FP](./FP.md) de base de 3 et excellent comme [barbares](./Barbare.md), [guerriers](./Guerrier.md) et [rôdeurs](./Rôdeur.md).
-- **Sahuagin aveugle.** Ces sahuagins blafards à l’air malade n’ont pas d’yeux mais la portée de leur [perception aveugle](./Perception aveugle (capacité).md) passe à 27 mètres et ils gagnent le don supplémentaire [Combat en aveugle](./Combat en aveugle.md). Les sahuagins aveugles sont dotés d’un tentacule scintillant qui [éblouit](./Ébloui.md) toutes les créatures douées de la vue dans un rayon de 3 mètres et qui leur permet d’utiliser *[hypnose des animaux](./Hypnose des animaux.md)* une fois par jour comme un pouvoir magique. L’effet de ce pouvoir est entièrement visuel et n’appartient nullement au registre du son ni ne fonctionne sur les créatures aveugles. Comme ces sahuagins sont aveugles, ils sont immunisés contre tous les effets et toutes les attaques basés sur la vue, y compris contre les [attaques de regard](./Regard (capacité).md).
+- **Malenti.** Les malentis ressemblent à des elfes aquatiques et reçoivent un bonus de +4 en [[Dextérité]] et en [[Charisme]], ainsi que les dons supplémentaires [[Fourberie]] et [[Talent]] (Bluff). Ils peuvent utiliser *[[injonction]]* comme un pouvoir magique trois fois par jour (ce pouvoir ne fonctionne que sur les créatures de sous-type aquatique, illustrant ainsi l’influence télépathique des sahuagins sur les créatures aquatiques). En outre, le bonus d’armure naturelle des malentis est réduit à +2 et ils perdent leur particularité aveuglé par la lumière et leurs armes naturelles. Les malentis excellent comme [[Barde|bardes]], [[Oracle|oracles]], [[Roublard|roublards]] et [[Magicien|magiciens]].
+- **Sahuagin à quatre bras.** Ces mutants sont dotés de quatre bras qui leur apportent deux attaques de griffe supplémentaires. Ils gagnent les dons supplémentaires d’[[Attaques multiples]] et de [[Robustesse]], ainsi que le pouvoir [[maîtrise du combat à plusieurs armes (capacité)|maîtrise du combat à plusieurs armes]]. Ils ont un [[FP]] de base de 3 et excellent comme [[Barbare|barbares]], [[Guerrier|guerriers]] et [[Rôdeur|rôdeurs]].
+- **Sahuagin aveugle.** Ces sahuagins blafards à l’air malade n’ont pas d’yeux mais la portée de leur [[perception aveugle (capacité)|perception aveugle]] passe à 27 mètres et ils gagnent le don supplémentaire [[Combat en aveugle]]. Les sahuagins aveugles sont dotés d’un tentacule scintillant qui [[ébloui|éblouit]] toutes les créatures douées de la vue dans un rayon de 3 mètres et qui leur permet d’utiliser *[[hypnose des animaux]]* une fois par jour comme un pouvoir magique. L’effet de ce pouvoir est entièrement visuel et n’appartient nullement au registre du son ni ne fonctionne sur les créatures aveugles. Comme ces sahuagins sont aveugles, ils sont immunisés contre tous les effets et toutes les attaques basés sur la vue, y compris contre les [[Regard (capacité)|attaques de regard]].
 
 </div><div class="wiki-col wiki-col-6">
-- **Sahuagin épineux.** Couvert de centaines d’épines semblables à des aiguilles, le sahuagin épineux peut déployer ses pointes perforantes pour empaler les créatures qui le touchent. Toutes les créatures qui [agrippent](./Agrippé.md) ou se font agripper par un sahuagin épineux, ou en touchent un à mains nues ou avec une arme naturelle, reçoivent 1d4 points de dégâts perforants. En outre, ces mutants gagnent les dons supplémentaires [Maîtrise du combat défensif](./Maîtrise du combat défensif.md) et [Science de la lutte](./Science de la lutte.md). Les sahuagins épineux vivent généralement dans les profondeurs qui leur servent également de terrain de chasse contre les serpents de mer, les [béhémoths thalassiques](./Béhémoth thalassique.md) ou les autres énormes prédateurs aquatiques.
+- **Sahuagin épineux.** Couvert de centaines d’épines semblables à des aiguilles, le sahuagin épineux peut déployer ses pointes perforantes pour empaler les créatures qui le touchent. Toutes les créatures qui [[agrippé|agrippent]] ou se font agripper par un sahuagin épineux, ou en touchent un à mains nues ou avec une arme naturelle, reçoivent 1d4 points de dégâts perforants. En outre, ces mutants gagnent les dons supplémentaires [[Maîtrise du combat défensif]] et [[Science de la lutte]]. Les sahuagins épineux vivent généralement dans les profondeurs qui leur servent également de terrain de chasse contre les serpents de mer, les [[Béhémoth thalassique|béhémoths thalassiques]] ou les autres énormes prédateurs aquatiques.
 - **Sahuagin préhistorique.** Aussi appelés les adacthys, ces sahuagins mutants renvoient à une époque plus sauvage. Ce sont des créatures de taille G avec un bonus d’armure naturelle de +7, qui peuvent communiquer avec les dinosaures et la mégafaune aquatiques en plus des requins. Les adacthys peuplent généralement les mêmes eaux que les créatures préhistoriques.
-- **Sahuagin requin.** Ces sahuagins mutants sont pourvus de mâchoires impressionnantes remplies de rangées de dents de requin, ainsi que de nageoires et d’une queue de requin géant. Ces anomalies leur donnent l’apparence d’[hommes-poissons](./homme-poisson (race).md) monstrueux, une vitesse de base de 1,50 mètre, une vitesse de nage de 24 mètres, une attaque de morsure infligeant 1d6 points de dégâts et une immunité contre les tentatives de [croc-en-jambe](./croc-en-jambe.md). Les sahuagins requins vivent généralement dans les communautés de sahuagins comptant un nombre exceptionnellement élevé de gardiens requins ou à proximité des zones de reproduction des requins.
+- **Sahuagin requin.** Ces sahuagins mutants sont pourvus de mâchoires impressionnantes remplies de rangées de dents de requin, ainsi que de nageoires et d’une queue de requin géant. Ces anomalies leur donnent l’apparence d’[[Homme-poisson (race)|hommes-poissons]] monstrueux, une vitesse de base de 1,50 mètre, une vitesse de nage de 24 mètres, une attaque de morsure infligeant 1d6 points de dégâts et une immunité contre les tentatives de [[croc-en-jambe]]. Les sahuagins requins vivent généralement dans les communautés de sahuagins comptant un nombre exceptionnellement élevé de gardiens requins ou à proximité des zones de reproduction des requins.
 
 </div></div>
 {s:CM}
@@ -127,19 +127,19 @@ Voici quelques dons très appréciés des sahuagins.
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Avantage aquatique](./Avantage aquatique.md) || <sup>CM</sup> || [Attaques réflexes](./Attaques réflexes.md), vitesse de nage naturelle || Les créatures qui n'ont pas de vitesse de nage provoquent des attaques d'opportunité lorsqu'elles attaquent le personnage
+| [[Avantage aquatique]] || <sup>CM</sup> || [[Attaques réflexes]], vitesse de nage naturelle || Les créatures qui n'ont pas de vitesse de nage provoquent des attaques d'opportunité lorsqu'elles attaquent le personnage
 
 |- CLASS="premier"
-| [Frénésie du sang supérieure](./Frénésie du sang supérieure.md) || <sup>CM</sup> || Pouvoir [frénésie inspirée par le sang](./Sahuagin.md), [sahuagin](./Sahuagin.md) || Pas de malus à la CA et gain du pouvoir éventration lorsque la frénésie inspirée par le sang est active
+| [[Frénésie du sang supérieure]] || <sup>CM</sup> || Pouvoir [[Sahuagin|frénésie inspirée par le sang]], [[sahuagin]] || Pas de malus à la CA et gain du pouvoir éventration lorsque la frénésie inspirée par le sang est active
 |-
-| &emsp;[Marée de sang](./Marée de sang.md) || <sup>CM</sup> || [Expertise du combat](./Expertise du combat.md), [Frénésie du sang supérieure](./Frénésie du sang supérieure.md), [BBA](./BBA.md) +6, [sahuagin](./Sahuagin.md) || Abandonne les attaques normales pour en obtenir plus contre tous les adversaires blessé qui saignent
+| &emsp;[[Marée de sang]] || <sup>CM</sup> || [[Expertise du combat]], [[Frénésie du sang supérieure]], [[BBA]] +6, [[sahuagin]] || Abandonne les attaques normales pour en obtenir plus contre tous les adversaires blessé qui saignent
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Sorts
 Les sahuagins choisissent des sorts qui améliorent leurs dons naturels.
-- ***[Eau rouge](./Eau rouge.md)*** *(CM)* ([Hyp 2](./Hypnotiseur.md), [Ens](./Ensorceleur.md)/[Mag 2](./Magicien.md), [Prê 2](./Prêtre.md), [Psy 2](./Psychiste.md)). Confère la frénésie inspirée par le sang aux créatures dans la zone.
-- ***[Don des profondeurs](./Don des profondeurs.md)*** *(CM)* ([Ens](./Ensorceleur.md)/[Mag 5](./Magicien.md), [Prê 4](./Prêtre.md)). Confère des pouvoirs uniques aux mutants au sahuagin ciblé.
-- ***[Respiration d'air](./Respiration dair.md)*** *(CM)* ([Alch 3](./Alchimiste.md), [Cham 3](./Chaman.md), [Con 3](./Conjurateur.md), [Dru 3](./Druide.md), [Ens](./Ensorceleur.md)/[Mag 3](./Magicien.md), [Magus 3](./Magus.md), [Prê 3](./Prêtre.md), [Psy 3](./Psychiste.md), [San 3](./Sanguin.md)). Permet aux cibles de respirer l'air.
+- ***[[Eau rouge]]*** *(CM)* ([[Hypnotiseur|Hyp 2]], [[Ensorceleur|Ens]]/[[Magicien|Mag 2]], [[Prêtre|Prê 2]], [[Psychiste|Psy 2]]). Confère la frénésie inspirée par le sang aux créatures dans la zone.
+- ***[[Don des profondeurs]]*** *(CM)* ([[Ensorceleur|Ens]]/[[Magicien|Mag 5]], [[Prêtre|Prê 4]]). Confère des pouvoirs uniques aux mutants au sahuagin ciblé.
+- ***[[Respiration dair|Respiration d'air]]*** *(CM)* ([[Alchimiste|Alch 3]], [[Chaman|Cham 3]], [[Conjurateur|Con 3]], [[Druide|Dru 3]], [[Ensorceleur|Ens]]/[[Magicien|Mag 3]], [[Magus|Magus 3]], [[Prêtre|Prê 3]], [[Psychiste|Psy 3]], [[Sanguin|San 3]]). Permet aux cibles de respirer l'air.
 
 </div></div>

@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*L’eidolon possède des évolutions supplémentaires. *
 
-**Conditions.** Pouvoir de classe [eidolon](./eidolon.md)
+**Conditions.** Pouvoir de classe [[eidolon]]
 
-**Avantage.** La réserve d’[évolution](./Évolution.md) de l’eidolon augmente de 1.
+**Avantage.** La réserve d’[[évolution]] de l’eidolon augmente de 1.
 
 **Spécial.** Le personnage peut choisir ce don au niveau 1, puis encore une fois aux niveaux 5, 10, 15 et 20.

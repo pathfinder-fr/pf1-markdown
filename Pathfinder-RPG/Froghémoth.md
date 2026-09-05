@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire p144*}
 {s:BDTexte|**PX** 25.600}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille TG, N}
-{s:BDTexte|**Init** +5 ; **Sens** vision à 360°, [vision aveugle](./vision aveugle.md) 9 m (6 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Aberration|Aberration]] de taille TG, N}
+{s:BDTexte|**Init** +5 ; **Sens** vision à 360°, [[vision aveugle]] 9 m (6 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 9, pris au dépourvu 27 (Dex +1, naturelle +19, taille -2)}
 {s:BDTexte|**pv** 184 (16d8+112)}
@@ -24,21 +24,21 @@ Categories:
 {s:BDTexte|**Faiblesses** ralenti par l'électricité}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), nage 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +20 (2d6+10/19-20 et [étreinte](./Étreinte.md)), 4 tentacules, +18 (1d8+5 et [étreinte](./Étreinte.md)), langue, +18 (1d4+5 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure, +20 (2d6+10/19-20 et [[étreinte]]), 4 tentacules, +18 (1d8+5 et [[étreinte]]), langue, +18 (1d4+5 et [[étreinte]])}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c}) (9 m (6 {s:c}) pour la langue)}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (tentacule, 1d6+10), [engloutissement](./Engloutissement.md) (3d6+10, CA 19, pv 18)}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (tentacule, 1d6+10), [[engloutissement]] (3d6+10, CA 19, pv 18)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 30, **Dex** 13, **Con** 24, **Int** 2, **Sag** 13, **Cha** 11}
-{s:BDTexte|**BBA** +12, **BMO** +24 (+28 [lutte](./lutte.md)), **DMD** 35}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Enchaînement](./Enchaînement.md), [Fente](./Fente.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +14 (+22 dans les marais), [Natation](./Natation.md) +18, [Perception](./Perception.md) +16 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +8 dans les marais, [Perception](./Perception.md) +8}
+{s:BDTexte|**BBA** +12, **BMO** +24 (+28 [[lutte]]), **DMD** 35}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques multiples]], [[Enchaînement]], [[Fente]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (morsure), [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +14 (+22 dans les marais), [[Natation]] +18, [[Perception]] +16 ; **Modificateurs raciaux** [[Discrétion]] +8 dans les marais, [[Perception]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais tempérés}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Ralenti par l'électricité (Ext).** Les froghémoths sont immunisés contres les dégâts d'électricité mais, à chaque fois qu'ils devraient normalement subir de tels dégâts, ils sont [ralentis](./Lenteur.md) pendant 1 round.}
-{s:BDTexte|**Vision à 360° (Ext).** Grâce à leurs yeux montés sur pédoncule, les froghémoths peuvent voir dans toutes les directions en même temps. Il est impossible de les [prendre en tenaille](./prise en tenaille.md).}
+{s:BDTexte|**Ralenti par l'électricité (Ext).** Les froghémoths sont immunisés contres les dégâts d'électricité mais, à chaque fois qu'ils devraient normalement subir de tels dégâts, ils sont [[lenteur|ralentis]] pendant 1 round.}
+{s:BDTexte|**Vision à 360° (Ext).** Grâce à leurs yeux montés sur pédoncule, les froghémoths peuvent voir dans toutes les directions en même temps. Il est impossible de les [[prise en tenaille|prendre en tenaille]].}
 </div>
 </td><td><div>*Cette immense créature à trois yeux se tient sur ses pattes arrière musclées et agite ses quatre bras tentaculaires dans tous les sens.*
 

@@ -6,7 +6,7 @@ Categories:
 - Religion
 ---
 
-{s:Dieu|Irori|%2fPCUP%2fReligion-PNG%2fIrori.png|Le maître des maîtres|LN|Histoire, Connaissance, Perfection|Moines, Vudranais|Mains nues|Guérison, Loi, Connaissance, Rune, Force|Inévitables, Langages, Mémoire, Restauration, Résolution, Pensée|Conversion, Tactique} Irori est le dieu de l'ultime perfection de soi, du dépassement et de la sagesse infinie. Ses adeptes affirment qu'il a atteint l'ultime perfection dans l'équilibre du corps et de l'esprit. Il est l'un des dieux principaux, mais pas majeurs, du panthéon [Vudra](./Vudra.md).
+{s:Dieu|Irori|%2fPCUP%2fReligion-PNG%2fIrori.png|Le maître des maîtres|LN|Histoire, Connaissance, Perfection|Moines, Vudranais|Mains nues|Guérison, Loi, Connaissance, Rune, Force|Inévitables, Langages, Mémoire, Restauration, Résolution, Pensée|Conversion, Tactique} Irori est le dieu de l'ultime perfection de soi, du dépassement et de la sagesse infinie. Ses adeptes affirment qu'il a atteint l'ultime perfection dans l'équilibre du corps et de l'esprit. Il est l'un des dieux principaux, mais pas majeurs, du panthéon [[Vudra]].
 
 ### Histoire
 
@@ -40,8 +40,8 @@ Les temples sont souvent des complexes tentaculaires, contenant des salles pour 
 Le texte sacré du Culte s'appelle *se délivrer des fers*. Il contient des exercices physiques, des guides de méditation, des régimes alimentaires à suivre ainsi que d'autres méthodes pour apprendre à chacun à transcender les limites de sa forme mortelle.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [cinquième volume](./../Aventures/Présentation AP9.md#AP9-5) de la neuvième campagne, [Jade Regent](./../Aventures/Présentation AP9.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP9#AP9-5|cinquième volume]] de la neuvième campagne, [[Aventures.Présentation AP9|Jade Regent]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

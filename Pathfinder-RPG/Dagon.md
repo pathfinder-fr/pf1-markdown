@@ -13,7 +13,7 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4 page 242 et Livre des Damnés page 82*}
 {s:BDTexte|Seigneur démon (m) des difformités, de la mer et des monstres marins}
 - ** 4 915 200 PX**
-- [Extérieur](./type Extérieur.md) ([chaotique](./sous-type Chaos.md), [démon](./sous-type démon.md), [eau](./sous-type Eau.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille TG, CM
+- [[type extérieur|Extérieur]] ([[sous-type chaos|chaotique]], [[sous-type démon|démon]], [[sous-type eau|eau]], [[sous-type extraplanaire|extraplanaire]], [[sous-type mal|Mal]]) de taille TG, CM
 - **Init **+11 ; **Sens **détection de la Loi, détection du Bien, vision dans le noir 18 m, vision lucide ; Perception +55
 - **Aura** aura maudite (DD 28), présence terrifiante (36 m, DD 36)
 (((Défense)))
@@ -28,16 +28,16 @@ Categories:
 - **Espace **4,50 m ; **Allonge** 4,50 m (9 m avec les tentacules)
 - **Attaques spéciales** constriction (2d6+25), engloutissement (transformation, CA 17, 67 pv), engloutissement rapide, maître des créatures aquatiques, poison, souffle 
 - ** Pouvoirs magiques** (NLS 28 ; concentration +38)
-  - *Constant *— [aura maudite](./Aura maudite.md) (DD 28), [communication avec les animaux](./Communication avec les animaux.md) (aquatiques uniquement), [détection de la Loi](./Détection de la Loi.md), [détection du Bien](./Détection du Bien.md), [liberté de mouvement](./Liberté de mouvement.md), [vision lucide](./Vision lucide.md)
-  - *À volonté* — [blasphème](./Blasphème.md)* (DD 27), [changement de forme](./Changement de forme.md), [contrôle de l’eau](./Contrôle de leau.md), [contrôle du climat](./Contrôle du climat.md)*, [dissipation suprême](./Dissipation suprême.md), [profanation](./Profanation.md)*, [projection astrale](./Projection astrale.md), [sanctification maléfique](./Sanctification maléfique.md), [télékinésie](./Télékinésie.md)* (DD 25), [téléportation suprême](./Téléportation suprême.md), [ténèbres maudites](./Ténèbres maudites.md)* (DD 24)
-  - *3/jour* — [aliénation mentale](./Aliénation mentale.md) (DD 27), convocation de démons, [dissipation suprême](./Dissipation suprême.md) à incantation rapide, [symbole d’aliénation mentale](./Symbole daliénation mentale.md) (DD 28), [vortex](./Vortex.md) (DD 27)
-  - *1/jour* — [arrêt du temps](./Arrêt du temps.md)*, [tempête vengeresse](./Tempête vengeresse.md)* (DD 29), [tsunami](./Tsunami.md)* (DD 29)
+  - *Constant *— [[aura maudite]] (DD 28), [[communication avec les animaux]] (aquatiques uniquement), [[détection de la Loi]], [[détection du Bien]], [[liberté de mouvement]], [[vision lucide]]
+  - *À volonté* — [[blasphème]]* (DD 27), [[changement de forme]], [[contrôle de leau|contrôle de l’eau]], [[contrôle du climat]]*, [[dissipation suprême]], [[profanation]]*, [[projection astrale]], [[sanctification maléfique]], [[télékinésie]]* (DD 25), [[téléportation suprême]], [[ténèbres maudites]]* (DD 24)
+  - *3/jour* — [[aliénation mentale]] (DD 27), convocation de démons, [[dissipation suprême]] à incantation rapide, [[symbole daliénation mentale|symbole d’aliénation mentale]] (DD 28), [[vortex]] (DD 27)
+  - *1/jour* — [[arrêt du temps]]*, [[tempête vengeresse]]* (DD 29), [[tsunami]]* (DD 29)
 - (*****) Dagon peut utiliser les versions mythiques de ces sorts quand il se trouve dans son royaume.
 (((Statistiques)))
 - **For **44, **Dex **25, **Con **40, **Int **29, **Sag **32, **Cha **31
 - **BBA **+33 ; **BMO **+52 (+56 bousculade, +54 croc-en-jambe, +54 désarmement, +56 lutte) ; **DMD** 87 (89 contre bousculade et désarmement, croc-en-jambe impossible) 
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Bousculade supérieure](./Bousculade supérieure.md), [Coup fabuleux](./Coup fabuleux.md), [Création d’objets merveilleux](./Création dobjets merveilleux.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Expertise du combat](./Expertise du combat.md), [Frappe décisive](./Frappe décisive.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (dissipation suprême), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Science du critique](./Science du critique.md) (tentacule), [Science du croc-en-jambe](./Science du croc-en-jambe.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +40 (+44 pour sauter), [Art de la magie](./Art de la magie.md) +45, [Bluff](./Bluff.md) +46, [Connaissances](./Connaissances.md) (géographie) +42, [Connaissances](./Connaissances.md) (histoire) +42, [Connaissances](./Connaissances.md) (mystères) +45, [Connaissances](./Connaissances.md) (nature) +45, [Connaissances](./Connaissances.md) (plans) +45, [Connaissances](./Connaissances.md) (religion) +42, [Discrétion](./Discrétion.md) +35, [Intimidation](./Intimidation.md) +46, [Natation](./Natation.md) +61, [Perception](./Perception.md) +55, [Psychologie](./Psychologie.md) +47, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +43 ; **Modificateurs raciaux** +8 en Perception
+- **Dons **[[Attaque en puissance]], [[Attaques réflexes]], [[Bousculade supérieure]], [[Coup fabuleux]], [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Critique sanglant]], [[Don pour les critiques]], [[Expertise du combat]], [[Frappe décisive]], [[Pouvoir magique rapide]] (dissipation suprême), [[Réflexes surhumains]], [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Science du critique]] (tentacule), [[Science du croc-en-jambe]]
+- **Compétences** [[Acrobaties]] +40 (+44 pour sauter), [[Art de la magie]] +45, [[Bluff]] +46, [[Connaissances]] (géographie) +42, [[Connaissances]] (histoire) +42, [[Connaissances]] (mystères) +45, [[Connaissances]] (nature) +45, [[Connaissances]] (plans) +45, [[Connaissances]] (religion) +42, [[Discrétion]] +35, [[Intimidation]] +46, [[Natation]] +61, [[Perception]] +55, [[Psychologie]] +47, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +43 ; **Modificateurs raciaux** +8 en Perception
 - **Langues **abyssal, aquatique, céleste, commun, draconique ; communication avec les animaux (aquatiques uniquement), télépathie 90 m
 - **Particularités **compression, traits des seigneurs démons
 (((Écologie)))
@@ -75,9 +75,9 @@ possède déjà une).
 - **3. Troisième serment (Mag).** Domination universelle 1/jour (créatures aquatiques uniquement)
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs démons](./Seigneurs démons.md).***</li></ul>*Le corps de ce démon est un véritable cauchemar grouillant de tentacules et d’anneaux gluants, surmonté d’une gueule sinistre de prédateur des fonds marins.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs démons]].***</li></ul>*Le corps de ce démon est un véritable cauchemar grouillant de tentacules et d’anneaux gluants, surmonté d’une gueule sinistre de prédateur des fonds marins.*
 
-Dagon est le [seigneur démon](./Seigneurs démons.md) de la difformité, de la mer et des monstres marins. Il règne sur un royaume abyssal composé d’un immense océan ponctué, en surface, d’étranges îles terrifiantes et sillonné, dans ses profondeurs, d’innombrables tranchées et cités englouties. Dagon mesure dix mètres de long. La partie inférieure de son corps ressemble à celle d’une anguille tandis que son visage évoque les gueules effrayantes des prédateurs des fonds marins. Il a quatre tentacules en guise de bras.
+Dagon est le [[Seigneurs démons|seigneur démon]] de la difformité, de la mer et des monstres marins. Il règne sur un royaume abyssal composé d’un immense océan ponctué, en surface, d’étranges îles terrifiantes et sillonné, dans ses profondeurs, d’innombrables tranchées et cités englouties. Dagon mesure dix mètres de long. La partie inférieure de son corps ressemble à celle d’une anguille tandis que son visage évoque les gueules effrayantes des prédateurs des fonds marins. Il a quatre tentacules en guise de bras.
 
 Au départ, Dagon n’était pas un seigneur démon mais un puissant qlippoth. Les savants mortels ignorent pourquoi il s’est ainsi transformé mais Dagon ne semble pas vouer un amour immodéré à son ancienne race.
 

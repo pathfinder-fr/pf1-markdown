@@ -13,18 +13,18 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [Illusion](./Illusion.md) ([fantasme](./fantasme.md)) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Hyp](./Hypnotiseur.md) 1, [Méd](./Médium.md) 1, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2  
+{s:AO}**École** [[Illusion]] ([[fantasme]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[hypnotiseur|Hyp]] 1, [[médium|Méd]] 1, [[psychiste|Psy]] 2, [[sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
 
 **Cible** 1 créature  
 
-**Durée** 1 [round](./round.md)/niveau (T)  
+**Durée** 1 [[round]]/niveau (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-La cible prend tout le monde pour un adversaire. Elle se montre hostile envers toutes les créatures et traite tout le monde en ennemi, elle ne considère que sa propre personne comme un allié. Elle doit faire une [attaque d’opportunité](./Valeurs de combat.md#ATTAQUEDOPPORTUNITE) dès qu’une créature lui en donne l’occasion. Enfin, quand elle est adjacente à une ou deux créatures, elle se laisse submerger par la paranoïa et subit un malus de –2 aux jets d’attaque, de dégâts des armes et de sauvegarde, ainsi qu’aux tests de caractéristique et de compétence.
+La cible prend tout le monde pour un adversaire. Elle se montre hostile envers toutes les créatures et traite tout le monde en ennemi, elle ne considère que sa propre personne comme un allié. Elle doit faire une [[valeurs de combat#ATTAQUEDOPPORTUNITE|attaque d’opportunité]] dès qu’une créature lui en donne l’occasion. Enfin, quand elle est adjacente à une ou deux créatures, elle se laisse submerger par la paranoïa et subit un malus de –2 aux jets d’attaque, de dégâts des armes et de sauvegarde, ainsi qu’aux tests de caractéristique et de compétence.

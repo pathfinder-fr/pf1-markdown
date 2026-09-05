@@ -7,10 +7,10 @@ Categories:
 - Géographie
 ---
 
-Le fleuve Vanji est le plus long cours d'eau de l'Étendue [Mwangi](./Mwangi.md). Il commence son cours à proximité des ruines de Kho, à l'extrémité nord-est du pays, dans les montagnes de la [Barrière](./Barrière.md) et se jette dans l'[océan Arcadien](./océan Arcadien.md), aux pieds de [Baie Sanglante](./Baie Sanglante.md).
+Le fleuve Vanji est le plus long cours d'eau de l'Étendue [[Mwangi]]. Il commence son cours à proximité des ruines de Kho, à l'extrémité nord-est du pays, dans les montagnes de la [[Barrière]] et se jette dans l'[[océan Arcadien]], aux pieds de [[Baie Sanglante]].
 
-Le long de son trajet, il reçoit les eaux de très nombreux affluents et forme l'un des réseaux hydrographiques les plus importants de [Golarion](./Golarion.md). Ses affluents principaux sont, du nord au sud :
+Le long de son trajet, il reçoit les eaux de très nombreux affluents et forme l'un des réseaux hydrographiques les plus importants de [[Golarion]]. Ses affluents principaux sont, du nord au sud :
 - la rivière Ounga, et la rivière Bdonge, au nord de la grande jungle centrale
-- la rivière Kaga Bandoro, la Rivière Calme et la rivière Mberribe, dont la confluence a donné naissance au [lac Ocota](./lac Ocota.md)
+- la rivière Kaga Bandoro, la Rivière Calme et la rivière Mberribe, dont la confluence a donné naissance au [[lac Ocota]]
 - la rivière Buunta, au sud de la grande jungle centrale
-- le Petit Vanji, qui vient des collines de Bandu et se jette dans le fleuve au nord de [Baie Sanglante](./Baie Sanglante.md).
+- le Petit Vanji, qui vient des collines de Bandu et se jette dans le fleuve au nord de [[Baie Sanglante]].

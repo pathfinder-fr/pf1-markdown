@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Traité de perspicacité|{s:AE}}
-**Aura** [Évocation](./Évocation.md) puissante (si *[miracle](./Miracle.md)* est utilisé) ; **NLS** 17 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 27 500 po (+1), 55 000 po (+2), 82 500 po (+3), 110 000 po (+4) ou 137 500 po (+5) ; **Poids** 2,5 kg
+**Aura** [[Évocation]] puissante (si *[[miracle]]* est utilisé) ; **NLS** 17 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 27 500 po (+1), 55 000 po (+2), 82 500 po (+3), 110 000 po (+4) ou 137 500 po (+5) ; **Poids** 2,5 kg
 (((Description)))
-Ce gros ouvrage multiplie les conseils et les exercices permettant d’améliorer sa mémoire et sa logique, mais ne s’arrête pas là, car une magie puissante a été intégrée au texte. Quiconque lit ce livre (ce qui exige un minimum de quarante-huit heures réparties sur six jours) bénéficie d’un bonus inné à sa valeur d’[Intelligence](./Intelligence.md) (la valeur exacte de ce bonus, comprise entre +1 et +5, dépend du type de manuel). Une fois l’ouvrage lu, toute magie disparaît de ses pages et il devient un livre on ne peut plus normal.
+Ce gros ouvrage multiplie les conseils et les exercices permettant d’améliorer sa mémoire et sa logique, mais ne s’arrête pas là, car une magie puissante a été intégrée au texte. Quiconque lit ce livre (ce qui exige un minimum de quarante-huit heures réparties sur six jours) bénéficie d’un bonus inné à sa valeur d’[[Intelligence]] (la valeur exacte de ce bonus, comprise entre +1 et +5, dépend du type de manuel). Une fois l’ouvrage lu, toute magie disparaît de ses pages et il devient un livre on ne peut plus normal.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), soit *[souhait](./Souhait.md)*, soit *[miracle](./Miracle.md)* ; **Coût** 26 250 po (+1), 52 500 po (+2), 78 750 po (+3), 105 000 po (+4) ou 131 250 po (+5)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], soit *[[souhait]]*, soit *[[miracle]]* ; **Coût** 26 250 po (+1), 52 500 po (+2), 78 750 po (+3), 105 000 po (+4) ou 131 250 po (+5)
 </div>

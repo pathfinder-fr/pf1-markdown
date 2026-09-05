@@ -10,12 +10,12 @@ une menace pour une personne ou pour une autre, le chapitre suivant détaille si
 
 ### Les principaux adversaires
 
-- [Consortium De L’Aspis](./Consortium-De-L’Aspis.md) Entreprise criminelle massive
-- [Culte du Dévoreur (Le)](./Culte Du Dévoreur.md) Les Apôtres de l’anéantissement
-- [(L’) Empire Stellaire Azlant](./(L’)-Empire-Stellaire-Azlant.md) Empire stellaire expansionniste
-- [Essaim (L')](./Essaim.md) Sauterelles interstellaires
-- [Invisibles (Les)](./Les Invisibles.md) Infiltrés insidieux
-- [(Le)Sombre Domaine](./(Le)Sombre-Domaine.md) Les prédateurs des ténèbres infinies
+- [[Consortium De L’Aspis]] Entreprise criminelle massive
+- [[Culte Du Dévoreur|Culte du Dévoreur (Le)]] Les Apôtres de l’anéantissement
+- [[(L’) Empire Stellaire Azlant]] Empire stellaire expansionniste
+- [[Essaim|Essaim (L')]] Sauterelles interstellaires
+- [[Les Invisibles|Invisibles (Les)]] Infiltrés insidieux
+- [[(Le)Sombre Domaine]] Les prédateurs des ténèbres infinies
 
 ### Les menaces mineures
 Bien que vous trouverez dans les pages suivantes des menaces à l’échelle d’un système, les héros n’ont pas toujours besoin d’une apocalypse imminente pour atteindre la grandeur. Ci-dessous, nous vous présentons quelques dangers localisés mais qui sont capables de semer le chaos si personne n’intervient.

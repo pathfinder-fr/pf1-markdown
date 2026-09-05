@@ -9,4 +9,4 @@ LastModified: 2020-02-08 14:29
 **Conditions requises.** Grippli.
 
 **Avantage.** Le grippli a une langue préhensile ayant une portée de 3 mètres (2 {s:c}). Avec elle, il peut saisir des objets ne pesant
-pas plus de 2,5 kg, faire des tests d’Escamotage, effectuer les manœuvres offensives de [subtilisation](./subtilisation.md) ou de [désarmement](./désarmement.md), ou faire des attaques de contact au corps à corps.
+pas plus de 2,5 kg, faire des tests d’Escamotage, effectuer les manœuvres offensives de [[subtilisation]] ou de [[désarmement]], ou faire des attaques de contact au corps à corps.

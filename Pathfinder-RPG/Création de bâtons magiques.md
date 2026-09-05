@@ -9,8 +9,8 @@ Categories:
 
 *Le personnage sait fabriquer des bâtons magiques.*
 
-**Catégorie** : [création d'objets](./Dons.md#DONCREATION)
+**Catégorie** : [[Dons#DONCREATION|création d'objets]]
 
-**Condition.** [Niveau](./niveau.md) 11 de [lanceur de sorts](./NLS.md).
+**Condition.** [[Niveau]] 11 de [[NLS|lanceur de sorts]].
 
-**Avantage.** Le personnage peut fabriquer un [bâton](./Création dobjets magiques.md#BATONS) magique. Le processus de fabrication prend un jour par tranche de 1000 po du prix de base de l’objet. Le personnage doit acheter les matières premières nécessaires (à la moitié de leur prix de base). À sa création, le bâton possède dix charges  (Voir la page sur la [création d'objets magiques](./Création dobjets magiques.md)).
+**Avantage.** Le personnage peut fabriquer un [[Création dobjets magiques#BATONS|bâton]] magique. Le processus de fabrication prend un jour par tranche de 1000 po du prix de base de l’objet. Le personnage doit acheter les matières premières nécessaires (à la moitié de leur prix de base). À sa création, le bâton possède dix charges  (Voir la page sur la [[Création dobjets magiques|création d'objets magiques]]).

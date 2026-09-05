@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Barbare#RAGEDEBERSERKER
 ---
 
->>> [Barbare#RAGEDEBERSERKER](./Barbare.md#RAGEDEBERSERKER)
+>>> [[Barbare#RAGEDEBERSERKER]]

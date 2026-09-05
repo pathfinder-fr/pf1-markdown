@@ -16,22 +16,22 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Akhana](./Akhana.md) || 12
+| [[Akhana]] || 12
 |-
-| [Bythos](./Bythos.md) || 16
+| [[Bythos]] || 16
 |-
-| [Lipika](./Lipika.md) || 18
+| [[Lipika]] || 18
 |-
-| [Othaos](./Othaos.md) || 5
+| [[Othaos]] || 5
 |-
-| [Paraclétus](./Paraclétus.md) || 2
+| [[Paraclétus]] || 2
 |-
-| [Pléroma](./Pléroma.md) || 20
+| [[Pléroma]] || 20
 |-
-| [Thélétos](./Thélétos.md) || 7
+| [[Thélétos]] || 7
 |}
 </div></div><div class="description">**Source :** Bestiaire 2 p.10.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([aéon](./sous-type Aéon.md), [extraplanaire](./sous-type extraplanaire.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type aéon|aéon]], [[sous-type extraplanaire|extraplanaire]])*
 
 Sans se préoccuper des passions, de la pitié ou même de la raison, les gardiens de la réalité travaillent sans cesse, s’efforçant en silence de préserver le fragile équilibre dont dépend tout ce qui existe. Ces forces sans visage et sans voix sont les aéons, des constructeurs et destructeurs du multivers aux motivations insondables. Leur existence dépasse le cadre de la compréhension de la plupart des mortels. Guidés par des buts éternels que même certains des habitants des plans les plus anciens ne parviennent pas à saisir, les aéons façonnent l’ordre à partir du chaos du Maelström, plantent des vies nouvelles sur des mondes désolés et mettent un terme aux avancées incontrôlées des forces qui sont devenues trop puissantes. Ils désintègrent des nations, réduisent des planètes en poussière cosmique et organisent des calamités. Ils peuvent accomplir un acte bienveillant à un moment puis semer la destruction la minute suivante, mais tout cela se fait sans ardeur, sans compassion et sans malice. Les aéons, impassibles mais bien déterminés, visent tous vers un seul et même but : la recherche de l’équilibre du multivers, une quête toujours renouvelée, nécessitant des corrections et des ajustements incessants. Unis par cet objectif éternel et peut-être même impossible, les aéons incarnent en quelque sorte ce qu’on présente métaphoriquement comme la main du Grand horloger, une main qui touche tous les plans et qui règle et ajuste sans cesse l’infinité d’engrenages de la réalité en quête de la perfection ultime.
 

@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Les créations magiques du personnage sont imprégnées de puissance divine. *
 
-**Conditions.** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), possibilité de lancer *[sanctification](./Sanctification.md)* ou *[profanation](./Profanation.md)*.
+**Conditions.** [[Création darmes et armures magiques|Création d’armes et armures magiques]], possibilité de lancer *[[sanctification]]* ou *[[profanation]]*.
 
-**Avantage.** Quand le personnage crée une arme, une armure ou un bouclier magique, il peut lancer *[sanctification](./Sanctification.md)* ou *[profanation](./Profanation.md)* lors du processus de fabrication. Cela augmente le prix de l'objet de 250 po. L’objet devient une relique et peut servir de symbole sacré (ou maudit) pour sa divinité.
+**Avantage.** Quand le personnage crée une arme, une armure ou un bouclier magique, il peut lancer *[[sanctification]]* ou *[[profanation]]* lors du processus de fabrication. Cela augmente le prix de l'objet de 250 po. L’objet devient une relique et peut servir de symbole sacré (ou maudit) pour sa divinité.
 
-Si le personnage lance *[sanctification](./Sanctification.md)* ou *[profanation](./Profanation.md)*, la relique compte comme un objet permanent dédié au dieu tant qu’il reste dans la [zone d’effet](./zone deffet.md) du sort.
+Si le personnage lance *[[sanctification]]* ou *[[profanation]]*, la relique compte comme un objet permanent dédié au dieu tant qu’il reste dans la [[zone deffet|zone d’effet]] du sort.

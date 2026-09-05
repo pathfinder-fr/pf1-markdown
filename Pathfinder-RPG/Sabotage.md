@@ -8,7 +8,7 @@ Categories:
 
 {s:MenuCompétences}
 
-**Caractéristique associée** : [Dextérité](./Dextérité.md)
+**Caractéristique associée** : [[Dextérité]]
 
 **Formation nécessaire** : oui
 
@@ -18,7 +18,7 @@ Categories:
 
 Lorsqu’il s’agit de désamorcer un piège ou un mécanisme similaire, le test de Sabotage est effectué en secret, afin que le joueur ne sache pas si son personnage a réussi ou non.
 
-Le [DD](./DD.md) du test dépend de la complexité du mécanisme. En cas de succès, le personnage mène l’opération à bien. En cas d’échec de 1 à 4 points, la tentative ne réussit pas mais le personnage peut réessayer. Si le test est raté d’au moins 5 points, un incident se produit : si le personnage tente de désamorcer un piège, il le déclenche accidentellement ; s’il se livre à une tentative de sabotage, il est persuadé d’avoir mis l’objet hors service, mais celui-ci continue de fonctionner parfaitement.
+Le [[DD]] du test dépend de la complexité du mécanisme. En cas de succès, le personnage mène l’opération à bien. En cas d’échec de 1 à 4 points, la tentative ne réussit pas mais le personnage peut réessayer. Si le test est raté d’au moins 5 points, un incident se produit : si le personnage tente de désamorcer un piège, il le déclenche accidentellement ; s’il se livre à une tentative de sabotage, il est persuadé d’avoir mis l’objet hors service, mais celui-ci continue de fonctionner parfaitement.
 
 Il est également possible de saboter des objets simples comme une selle ou la roue d’un chariot, de telle façon qu’ils fonctionnent normalement pendant un certain temps, puis se cassent, se détachent ou tombent en panne un peu plus tard (généralement après 1d4 rounds ou minutes d’utilisation).
 
@@ -75,7 +75,7 @@ Il est également possible de saboter des objets simples comme une selle ou la r
 
 ### Action
 
-Le temps nécessaire pour faire un test de Sabotage dépend de la tâche que le personnage tente d’accomplir. Mettre un mécanisme simple hors-service prend 1 round et constitue une [action complexe](./Action complexe.md). Les objets plus complexes prennent 1d4 ou 2d4 [rounds](./round.md). Crocheter une serrure requiert une [action complexe](./Action complexe.md).
+Le temps nécessaire pour faire un test de Sabotage dépend de la tâche que le personnage tente d’accomplir. Mettre un mécanisme simple hors-service prend 1 round et constitue une [[action complexe]]. Les objets plus complexes prennent 1d4 ou 2d4 [[round|rounds]]. Crocheter une serrure requiert une [[action complexe]].
 
 ### Nouvelles tentatives
 
@@ -83,10 +83,10 @@ Variable. Le personnage peut réessayer de mettre un mécanisme hors-service si 
 
 ### Spécial
 
-Un personnage possédant le don [Doigts de fée](./Doigts de fée.md) obtient un bonus aux tests de Sabotage.
+Un personnage possédant le don [[Doigts de fée]] obtient un bonus aux tests de Sabotage.
 
-Un [roublard](./Roublard.md) dépassant de 10 points ou plus le [DD](./DD.md) d’un [piège](./Pièges.md) peut l’étudier, comprendre son fonctionnement et le contourner sans avoir besoin de le désamorcer. Il est également à même de le bloquer pour que ses compagnons puissent passer sans risque.
+Un [[roublard]] dépassant de 10 points ou plus le [[DD]] d’un [[pièges|piège]] peut l’étudier, comprendre son fonctionnement et le contourner sans avoir besoin de le désamorcer. Il est également à même de le bloquer pour que ses compagnons puissent passer sans risque.
 
-**Restriction.** Les personnages qui possèdent la capacité de [recherche des pièges](./recherche des pièges.md) (les roublards par exemple) peuvent désamorcer les pièges magiques. En règle générale, les pièges magiques ont un DD de 25 + le niveau du sort utilisé pour les créer.
+**Restriction.** Les personnages qui possèdent la capacité de [[recherche des pièges]] (les roublards par exemple) peuvent désamorcer les pièges magiques. En règle générale, les pièges magiques ont un DD de 25 + le niveau du sort utilisé pour les créer.
 
-Les sorts *[cercle de téléportation](./Cercle de téléportation.md)*, *[glyphe de garde](./Glyphe de garde.md)*, *[piège à feu](./Piège à feu.md)* et *[symbole](./symbole.md)* créent eux aussi des pièges qu’un [roublard](./Roublard.md) peut désarmer à l’aide de cette compétence. À l’inverse, la compétence de Sabotage se révèle inutile face aux sorts *[croissance d’épines](./Croissance dépines.md)* et *[pierres acérées](./Pierres acérées.md)* qui créent des obstacles magiques. Consultez les descriptions de chacun de ces sorts pour plus de détails.
+Les sorts *[[cercle de téléportation]]*, *[[glyphe de garde]]*, *[[piège à feu]]* et *[[symbole]]* créent eux aussi des pièges qu’un [[roublard]] peut désarmer à l’aide de cette compétence. À l’inverse, la compétence de Sabotage se révèle inutile face aux sorts *[[croissance dépines|croissance d’épines]]* et *[[pierres acérées]]* qui créent des obstacles magiques. Consultez les descriptions de chacun de ces sorts pour plus de détails.

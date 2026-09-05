@@ -8,6 +8,6 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-{s:Desambi|Vision végétale est aussi le nom d'un [sort](./Vision végétale.md).}Le monstre voit à travers la matière végétale épaisse comme si elle était transparente, en général avec une portée de 18 mètres. Les feuillages, les plantes grimpantes, la végétation et les broussailles n’offrent aucun camouflage contre la vue du monstre, mais le bois solide bloque quand même sa ligne de vue.
+{s:Desambi|Vision végétale est aussi le nom d'un [[Vision végétale|sort]].}Le monstre voit à travers la matière végétale épaisse comme si elle était transparente, en général avec une portée de 18 mètres. Les feuillages, les plantes grimpantes, la végétation et les broussailles n’offrent aucun camouflage contre la vue du monstre, mais le bois solide bloque quand même sa ligne de vue.
 
 *Format :* vision verdoyante 18 m ; *Emplacement :* Sens

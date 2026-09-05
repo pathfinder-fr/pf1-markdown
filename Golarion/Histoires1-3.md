@@ -4,8 +4,8 @@ Title: Le grand opéra
 LastModified: 2010-10-08 11:33
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du troisième chapitre : "[The Grand Opera](http://paizo.com/pathfinder/tales/serial/v5748dyo5lb2a)" de la nouvelle "L'Éclaireur disparu" par Dave Gross. Illustration d'Eric Belisle*
 
 De tous les membres de la famille Jeggare, je suis celui qui a possédé une loge à l'opéra le plus longtemps et ce, grâce à la longévité qui me vient de mon héritage mixte à la fois elfe et humain. Avant que ma mère ne me la cède, mes parents l'avaient possédée pendant toute leur vie, ainsi que leurs vénérables parents avant eux. Il s'agit même d'une des quatre loges du Grand Opéra d'Égorian occupées depuis le plus longtemps : lors de son ascension sur le trône, la première reine Abrogail l'avait épargnée lorsqu'elle avait revendiqué les première et troisième loges pour elle.

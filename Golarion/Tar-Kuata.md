@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Ville du Sud-est d'[Osirion](./Osirion.md).
+Ville du Sud-est d'[[Osirion]].
 
-Elle est située dans la chaîne rocheuse du [Mur Barrière](./Mur-Barrière.md), à la limite de la région des [Empreintes de Rovagug](./Empreintes de Rovagug.md).
+Elle est située dans la chaîne rocheuse du [[Mur Barrière]], à la limite de la région des [[Empreintes de Rovagug]].

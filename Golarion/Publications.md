@@ -8,7 +8,7 @@ Plusieurs lignes de produits parlent du monde de Golarion :
 - Les livres de la gamme **Chronicles** (**Univers** en VF) abordent certains thèmes liés à Golarion et présentent des informations qui peuvent servir tant aux MJ qu'aux joueurs, mais qui s'adressent principalement aux premiers et peuvent contenir certains secrets que les PJ ne devraient peut-être pas connaître.
 - Les livres de la gamme **Companions** (**Compagnons du joueur** en VF), quant à eux, contiennent plutôt des informations destinées aux joueurs (des résumés de connaissances à propos de certaines régions, ainsi que des options pour construire des personnages). Les MJ peuvent également tirer parti de ces informations (pour parfaire leurs connaissances du monde ou pour créer des PNJ), mais ces livrets ne contiendront pas de secrets liés au monde.
 
-Black Book Editions semble plutôt vouloir sortir des compilations qui comprennent un livret décrivant une partie du monde ou abordant un thème spécifique avec plusieurs modules (voir le [wiki Aventures](./../Aventures/MainPage.md)).
+Black Book Editions semble plutôt vouloir sortir des compilations qui comprennent un livret décrivant une partie du monde ou abordant un thème spécifique avec plusieurs modules (voir le [[Aventures.MainPage|wiki Aventures]]).
 
 <nav class="wiki-toc"></nav>
 
@@ -45,7 +45,7 @@ On a classé les "Chronicles" selon le type de sujet abordé. On n'a pas repris 
 {s:BookTitle|RECUEILDIEUX|Pathfinder univers : Dieux & magie, les cultes de la mer Intérieure}
 <td></td>
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/281_Dieux&#95;_magie.jpg|https://www.black-book-editions.fr/produit.php?id=990}
-{s:BookComment|Dieux et magie, les cultes de la mer Intérieure est une compilation qui reprend plusieurs parutions séparées en VO : le supplément Pathfinder univers [Dieux et magie](./Publications.md#GODSMAGIC) ainsi que trois compagnons du joueur : les [Cultes de la pureté](./Publications.md#COMPANIONFAITHSOFPURITY), les [Cultes de l'équilibre](./Publications.md#COMPANIONFAITHSOFBALANCE) et les [Cultes de la corruption](./Publications.md#COMPANIONFAITHSOFCORRUPTION).}
+{s:BookComment|Dieux et magie, les cultes de la mer Intérieure est une compilation qui reprend plusieurs parutions séparées en VO : le supplément Pathfinder univers [[Publications#GODSMAGIC|Dieux et magie]] ainsi que trois compagnons du joueur : les [[Publications#COMPANIONFAITHSOFPURITY|Cultes de la pureté]], les [[Publications#COMPANIONFAITHSOFBALANCE|Cultes de l'équilibre]] et les [[Publications#COMPANIONFAITHSOFCORRUPTION|Cultes de la corruption]].}
 {s:BookTitle|GREATBEYOND|Pathfinder Chronicles: The Great Beyond - A Guide to the Multiverse}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9209_120.jpeg|http://paizo.com/products/v5748btpy87uz}
 <td></td>
@@ -53,7 +53,7 @@ On a classé les "Chronicles" selon le type de sujet abordé. On n'a pas repris 
 {s:BookTitle|RECUEILPLANS|Pathfinder univers : Manuel des plans et des mondes lointains}
 <td></td>
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/282_Manuel_des_plans_et_des_mondes_lointains.jpg|https://www.black-book-editions.fr/produit.php?id=995}
-{s:BookComment|Le Manuel des plans et des mondes lointains est une compilation qui reprend plusieurs parutions séparées en VO : les suppléments Pathfinder univers, le [Manuel des plans](./Publications.md#GREATBEYOND), le [Manuel des mondes lointains](./Publications.md#DISTANTWORLDS) ainsi que deux modules ([Au-delà du caveau des âmes](./../Aventures/Présentation modules.md#J5) et [^http://paizo.com/products/btpy8vjs|La balafre lunaire]).}
+{s:BookComment|Le Manuel des plans et des mondes lointains est une compilation qui reprend plusieurs parutions séparées en VO : les suppléments Pathfinder univers, le [[Publications#GREATBEYOND|Manuel des plans]], le [[Publications#DISTANTWORLDS|Manuel des mondes lointains]] ainsi que deux modules ([[Aventures.Présentation modules#J5|Au-delà du caveau des âmes]] et [La balafre lunaire](http://paizo.com/products/btpy8vjs)).}
 {s:BookTitle|INNERSEAMAGIC|Pathfinder Campaign Setting: Inner Sea Magic}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9237_120.jpeg|http://paizo.com/products/v5748btpy8j30}
 {s:BookPic|}
@@ -80,14 +80,14 @@ On a classé les "Chronicles" selon le type de sujet abordé. On n'a pas repris 
 {s:BookTitle|GUIDETODARKMOONVALE|Pathfinder Chronicles: Guide to Darkmoon Vale}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO1108_120.jpeg|http://paizo.com/products/btpy83yv}
 <td></td>
-{s:BookComment|Pleurez car la lumière est morte ! Le [val de Sombrelune](./Val de Sombrelune.md), traître et inquiétant, est une étendue sauvage hantée par les fées, à la lisière de la civilisation. C’est un endroit où les pires prédateurs et les dangers les plus ignobles s’avèrent être les humains qui y vivent… et ceux qui se font passer pour des humains !
+{s:BookComment|Pleurez car la lumière est morte ! Le [[Golarion.val de Sombrelune|val de Sombrelune]], traître et inquiétant, est une étendue sauvage hantée par les fées, à la lisière de la civilisation. C’est un endroit où les pires prédateurs et les dangers les plus ignobles s’avèrent être les humains qui y vivent… et ceux qui se font passer pour des humains !
 
-Avec le Guide du val de Sombrelune, vous pourrez explorer cette région terrifiante en profondeur. Découvrez d’anciens donjons nains, une cabale de druides maléfiques et le secret des loups-garous qui rôdent dans le val et la forêt d’Arthfell. De plus, ce volume vous révèlera les secrets du tristement célèbre [Nid-du-Faucon](./Nid-du-Faucon.md) et de son tyran, Thuldrin Kreed, de l'organisation sans scrupules du Consortium du bois, du dernier baron de la république andorane, du terrifiant roi des kobolds et de la Faille de Droskar qui gronde encore de nos jours.
+Avec le Guide du val de Sombrelune, vous pourrez explorer cette région terrifiante en profondeur. Découvrez d’anciens donjons nains, une cabale de druides maléfiques et le secret des loups-garous qui rôdent dans le val et la forêt d’Arthfell. De plus, ce volume vous révèlera les secrets du tristement célèbre [[Golarion.Nid-du-Faucon|Nid-du-Faucon]] et de son tyran, Thuldrin Kreed, de l'organisation sans scrupules du Consortium du bois, du dernier baron de la république andorane, du terrifiant roi des kobolds et de la Faille de Droskar qui gronde encore de nos jours.
 Le val de Sombrelune est l’endroit parfait pour votre prochaine aventure et nous mettons ses secrets à nu au profit des joueurs comme des maîtres de jeu !}
 {s:BookTitle|RECUEILVAL|Recueil du val de Sombrelune}
 <td></td>
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/115_Le_Guide_du_val_de_Sombrelune.jpg|https://www.black-book-editions.fr/produit.php?id=84}
-{s:BookComment|Le Recueil du val de Sombrelune est une compilation qui reprend plusieurs parutions séparées en VO : le [Guide du val de Sombrelune](./Publications.md#GUIDETODARKMOONVALE) ainsi que quatre scénarios. Ces quatre modules sont : [La Couronne du roi kobold](./../Aventures/Présentation modules.md#D1), [La Vengeance du roi kobold](./../Aventures/Présentation modules.md#D15), [La Foire aux larmes](./../Aventures/Présentation modules.md#E1) et [Affamés sont les morts](./../Aventures/Présentation modules.md#D4).}
+{s:BookComment|Le Recueil du val de Sombrelune est une compilation qui reprend plusieurs parutions séparées en VO : le [[Publications#GUIDETODARKMOONVALE|Guide du val de Sombrelune]] ainsi que quatre scénarios. Ces quatre modules sont : [[Aventures.Présentation modules#D1|La Couronne du roi kobold]], [[Aventures.Présentation modules#D15|La Vengeance du roi kobold]], [[Aventures.Présentation modules#E1|La Foire aux larmes]] et [[Aventures.Présentation modules#D4|Affamés sont les morts]].}
 {s:BookTitle|INTOTHEDARKNESS|Pathfinder Chronicles: Into the Darklands/Descente en Ombreterre}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9204_120.jpeg|http://paizo.com/products/btpy85ej}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/138_Descente_en_Ombreterre.jpg|https://www.black-book-editions.fr/produit.php?id=91}
@@ -99,7 +99,7 @@ Le val de Sombrelune est l’endroit parfait pour votre prochaine aventure et no
 {s:BookTitle|RECUEILABSA|Recueil d'Absalom}
 <td></td>
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/239_Le_Recueil_dAbsalom.jpg|https://www.black-book-editions.fr/produit.php?id=236}
-{s:BookComment|Le Recueil d'Absalom est une compilation qui reprend plusieurs parutions séparées en VO : le Guide d'Absalom ainsi que deux scénarios. Ces deux modules sont : [Les tableaux maléfiques](./../Aventures/Présentation modules.md#ABSALOM), [La corde du pendu](./../Aventures/Présentation modules.md#ABSALOM).}
+{s:BookComment|Le Recueil d'Absalom est une compilation qui reprend plusieurs parutions séparées en VO : le Guide d'Absalom ainsi que deux scénarios. Ces deux modules sont : [[Aventures.Présentation modules#ABSALOM|Les tableaux maléfiques]], [[Aventures.Présentation modules#ABSALOM|La corde du pendu]].}
 {s:BookTitle|GUIDETOKATAPESH|Pathfinder Chronicles: Dark Markets - A Guide to Katapesh}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9208_120.jpeg|http://paizo.com/products/btpy87ut}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/257_Le_Guide_de_Katapesh.jpg|https://www.black-book-editions.fr/produit.php?id=354}

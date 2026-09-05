@@ -46,7 +46,7 @@ Le volume 100 des campagnes Pathfinder ! Le temps est venu de reprendre la Cité
   
   
 
-**Articles :** Numéro spécial 100è volume des campagnes : des révélations sur la mort d'[Aroden](./../Golarion/Aroden.md), une rétrospective des campagnes précédentes avec des nouveaux PNJ pour chacune, un poster pour une battlemap majeure de ce volume... }
+**Articles :** Numéro spécial 100è volume des campagnes : des révélations sur la mort d'[[Golarion.Aroden|Aroden]], une rétrospective des campagnes précédentes avec des nouveaux PNJ pour chacune, un poster pour une battlemap majeure de ce volume... }
 {s:BookTitle|AP17-5|The Kintargo Contract/Le Contrat de Kintargo}
 {s:BookPic|http://static2.paizo.com/image/product/catalog/PZO/PZO90101_180.jpeg|http://paizo.com/products/btpy98td}
 {s:BookPic||}

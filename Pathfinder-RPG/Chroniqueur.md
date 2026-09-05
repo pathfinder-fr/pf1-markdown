@@ -9,7 +9,7 @@ Categories:
 
 {s:MenuClassesDePrestige}''Explorateurs courageux redécouvrant des connaissances perdues ou oubliées, les chroniqueurs sont la quintessence de l'aventurier, parcourant le monde à la recherche de vérités ésotériques, de reliques saintes ou magiques, d'artefacts précieux et de nouvelles perspectives, merveilleuses ou terrifiantes. Certains ne voyagent que pour l'argent, d'autres pour la gloire de la découverte. Mais la plupart sont guidés par l'irrésistible envie de découvrir les secrets des temps passés et les légendes d'époques oubliées, afin de raconter les exploits d'hier, d'aujourd'hui et de demain.
 
-La classe de prestige de chroniqueur attire tous ceux qui voient le monde comme un grand mystère à éclaircir et ses rangs, très variés, sont composés de [guerriers](./Guerrier.md), de [bardes](./Barde.md), de [magiciens](./Magicien.md) et de [prêtres](./Prêtre.md), plus tout ce qui se trouve entre. Cependant, à cause de leur rôle d'historiens et de gardiens de la postérité, les aspirants chroniqueurs doivent être lettrés et érudits. Ce sont bien plus que de simples chasseurs de trésor.''
+La classe de prestige de chroniqueur attire tous ceux qui voient le monde comme un grand mystère à éclaircir et ses rangs, très variés, sont composés de [[guerrier|guerriers]], de [[barde|bardes]], de [[magicien|magiciens]] et de [[prêtre|prêtres]], plus tout ce qui se trouve entre. Cependant, à cause de leur rôle d'historiens et de gardiens de la postérité, les aspirants chroniqueurs doivent être lettrés et érudits. Ce sont bien plus que de simples chasseurs de trésor.''
 
 <center>
 {| CLASS="tablo"
@@ -19,112 +19,112 @@ La classe de prestige de chroniqueur attire tous ceux qui voient le monde comme 
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1 || +0 || +1 || +0 || +1
-| CLASS="gauche" | [Savoir bardique](./Chroniqueur.md#SAVOIRBARDIQUE), [poches profondes](./Chroniqueur.md#POCHESPROFONDES), [maître scribe](./Chroniqueur.md#MAITRESCRIBE)
+| CLASS="gauche" | [[chroniqueur#SAVOIRBARDIQUE|Savoir bardique]], [[chroniqueur#POCHESPROFONDES|poches profondes]], [[chroniqueur#MAITRESCRIBE|maître scribe]]
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Survivre pour raconter](./Chroniqueur.md#SURVIVREPOURRACONTER), [découverte des sentiers](./Chroniqueur.md#DECOUVERTEDESSENTIERS)
+| CLASS="gauche" | [[chroniqueur#SURVIVREPOURRACONTER|Survivre pour raconter]], [[chroniqueur#DECOUVERTEDESSENTIERS|découverte des sentiers]]
 |-
 | 3 || +2 || +2 || +1 || +2
-| CLASS="gauche" | [Représentation bardique](./Chroniqueur.md#REPRESENTATIONBARDIQUE), [aide supérieure](./Chroniqueur.md#AIDESUPERIEURE)
+| CLASS="gauche" | [[chroniqueur#REPRESENTATIONBARDIQUE|Représentation bardique]], [[chroniqueur#AIDESUPERIEURE|aide supérieure]]
 |- CLASS="alt"
 | 4 || +3 || +2 || +1 || +2
-| CLASS="gauche" | [Sagas épiques](./Chroniqueur.md#SAGASEPIQUES)
+| CLASS="gauche" | [[chroniqueur#SAGASEPIQUES|Sagas épiques]]
 |-
 | 5 || +3 || +3 || +2 || +3
-| CLASS="gauche" | [Rumeurs](./Chroniqueur.md#RUMEURS)
+| CLASS="gauche" | [[chroniqueur#RUMEURS|Rumeurs]]
 |- CLASS="alt"
 | 6 || +4 || +3 || +2 || +3
-| CLASS="gauche" | [Inspirer une action](./Chroniqueur.md#INSPIRERUNEACTION) (mouvement)
+| CLASS="gauche" | [[chroniqueur#INSPIRERUNEACTION|Inspirer une action]] (mouvement)
 |-
 | 7 || +5 || +4 || +2 || +4
-| CLASS="gauche" | [Invoquer les légendes](./Chroniqueur.md#INVOQUERLESLEGENDES)
+| CLASS="gauche" | [[chroniqueur#INVOQUERLESLEGENDES|Invoquer les légendes]]
 |- CLASS="alt"
 | 8 || +6 || +4 || +3 || +4
-| CLASS="gauche" | [Sagas épiques légendaires](./Chroniqueur.md#SAGASEPIQUESLEGENDAIRES)
+| CLASS="gauche" | [[chroniqueur#SAGASEPIQUESLEGENDAIRES|Sagas épiques légendaires]]
 |-
 | 9 || +6 || +5 || +3 || +5
-| CLASS="gauche" | [Inspirer une action](./Chroniqueur.md#INSPIRERUNEACTION) (simple)
+| CLASS="gauche" | [[chroniqueur#INSPIRERUNEACTION|Inspirer une action]] (simple)
 |- CLASS="alt"
 | 10 || +7 || +5 || +3 || +5
-| CLASS="gauche" | [Lai des morts honorés](./Chroniqueur.md#LAIDESMORTSHONORES)
+| CLASS="gauche" | [[chroniqueur#LAIDESMORTSHONORES|Lai des morts honorés]]
 |}
 </center>
 
 **Rôle.** Au cours de ses missions, le chroniqueur assume souvent le rôle de chef et les aventures que son groupe vit résultent ou tournent autour de ses quêtes sans fin.
 
-**Alignement.** L'alignement du chroniqueur détermine en grande partie ses motivations. Les personnages [Bons](./Bon.md) considèrent leurs missions comme de nobles entreprises, les personnages [Neutres](./Neutre.md) cherchent à protéger le savoir pour l'amour du savoir, et les personnages [Mauvais](./Mauvais.md) sont guidés par une forte envie d'accumuler des richesses et d'œuvrer à leur gloire personnelle.
+**Alignement.** L'alignement du chroniqueur détermine en grande partie ses motivations. Les personnages [[Bon|Bons]] considèrent leurs missions comme de nobles entreprises, les personnages [[Neutre|Neutres]] cherchent à protéger le savoir pour l'amour du savoir, et les personnages [[Mauvais]] sont guidés par une forte envie d'accumuler des richesses et d'œuvrer à leur gloire personnelle.
 
 **Dés de vie.** d8.
 
 ### Conditions
 Pour devenir chroniqueur, il faut satisfaire aux conditions suivantes :
 
-**Compétences.** Rangs de 3 en [Linguistique](./Linguistique.md), rang 5 en [Représentation](./Représentation.md) (art oratoire) et rang 5 en [Profession](./Profession.md) (scribe).
+**Compétences.** Rangs de 3 en [[Linguistique]], rang 5 en [[Représentation]] (art oratoire) et rang 5 en [[Profession]] (scribe).
 
-**Spécial.** Le personnage doit être l'auteur de, ou avoir recopié quelque chose (autre qu'un parchemin magique ou un objet) qu'une autre personne (qui n'est pas un [PJ](./PJ.md)) a payé au moins 50 po.
+**Spécial.** Le personnage doit être l'auteur de, ou avoir recopié quelque chose (autre qu'un parchemin magique ou un objet) qu'une autre personne (qui n'est pas un [[PJ]]) a payé au moins 50 po.
 
 ### Compétences de la classe
-Les compétences du chroniqueur (et la caractéristique dont chacune dépend) sont : [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (au choix, chaque compétence devant être prise séparément) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Déguisement](./Déguisement.md) (Cha), [Équitation](./Équitation.md) (Dex), [Escamotage](./Escamotage.md) (Dex), [Estimation](./Estimation.md) (Int), [Évasion](./Évasion.md) (Dex), [Intimidation](./Intimidation.md) (Cha), [Linguistique](./Linguistique.md) (Int), [Perception](./Perception.md) (Sag), [Psychologie](./Psychologie.md) (Sag), [Représentation](./Représentation.md) (Cha), [Survie](./Survie.md) (Sag), [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) (Cha)
+Les compétences du chroniqueur (et la caractéristique dont chacune dépend) sont : [[Bluff]] (Cha), [[Connaissances]] (au choix, chaque compétence devant être prise séparément) (Int), [[Diplomatie]] (Cha), [[Déguisement]] (Cha), [[Équitation]] (Dex), [[Escamotage]] (Dex), [[Estimation]] (Int), [[Évasion]] (Dex), [[Intimidation]] (Cha), [[Linguistique]] (Int), [[Perception]] (Sag), [[Psychologie]] (Sag), [[Représentation]] (Cha), [[Survie]] (Sag), [[Utilisation dobjets magiques|Utilisation d'objets magiques]] (Cha)
 
-**Points de compétence par niveau.** 8 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 8 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de la classe
 Voici les particularités et aptitudes de la classe de prestige du chroniqueur.
 
 {s:Reference|SAVOIRBARDIQUE}
 #### Savoir bardique
-Elle est identique à la capacité du même nom de la classe de [barde](./Barde.md). Les niveaux dans cette classe se cumulent avec les niveaux de n'importe quelle autre classe qui accorde cette même capacité.
+Elle est identique à la capacité du même nom de la classe de [[barde]]. Les niveaux dans cette classe se cumulent avec les niveaux de n'importe quelle autre classe qui accorde cette même capacité.
 
 {s:Reference|POCHESPROFONDES}
 #### Poches profondes (Ext)
-Durant ses voyages, un chroniqueur réunit aussi bien des objets que des connaissances. En conséquence, il peut transporter une quantité d'équipement non spécifié, d'une valeur maximale de 100 po par niveau dans sa classe de chroniqueur et que l'on peut raisonnablement faire rentrer dans un sac à dos. Cela inclut les potions et les parchemins, mais aucun autre objet magique. Il peut, au prix d'une [action complexe](./Action complexe.md), fouiller dans ses poches et en sortir un objet d'un poids maximum de 5 kg, qu'il ne spécifie qu'à ce moment-là et dont il déduit la valeur du montant indiqué. Une fois ce montant atteint, il doit passer quelques heures et dépenser suffisamment pour reconstituer sa réserve, jusqu'à un maximum de 100 po par niveau dans sa classe de chroniqueur.
+Durant ses voyages, un chroniqueur réunit aussi bien des objets que des connaissances. En conséquence, il peut transporter une quantité d'équipement non spécifié, d'une valeur maximale de 100 po par niveau dans sa classe de chroniqueur et que l'on peut raisonnablement faire rentrer dans un sac à dos. Cela inclut les potions et les parchemins, mais aucun autre objet magique. Il peut, au prix d'une [[action complexe]], fouiller dans ses poches et en sortir un objet d'un poids maximum de 5 kg, qu'il ne spécifie qu'à ce moment-là et dont il déduit la valeur du montant indiqué. Une fois ce montant atteint, il doit passer quelques heures et dépenser suffisamment pour reconstituer sa réserve, jusqu'à un maximum de 100 po par niveau dans sa classe de chroniqueur.
 
-De plus, s'il passe une heure par jour à ranger son équipement, il bénéficie d'un bonus de [Force](./Force.md) de +4 pour déterminer sa [charge légère](./Charge légère.md) transportable. Ce bonus n'affecte pas la [charge maximale](./Encombrement.md) autorisée par sa [Force](./Force.md). Le poids de son équipement, efficacement réparti, l'encombre simplement moins que ce qu'il devrait. Enfin, le chroniqueur bénéficie d'un bonus de +4 sur ses jets d'[Escamotage](./Escamotage.md) quand il veut dissimuler de petits objets sur lui.
+De plus, s'il passe une heure par jour à ranger son équipement, il bénéficie d'un bonus de [[Force]] de +4 pour déterminer sa [[charge légère]] transportable. Ce bonus n'affecte pas la [[encombrement|charge maximale]] autorisée par sa [[Force]]. Le poids de son équipement, efficacement réparti, l'encombre simplement moins que ce qu'il devrait. Enfin, le chroniqueur bénéficie d'un bonus de +4 sur ses jets d'[[Escamotage]] quand il veut dissimuler de petits objets sur lui.
 
 {s:Reference|MAITRESCRIBE}
 #### Maître scribe (Ext)
-Un chroniqueur ajoute son niveau dans sa classe sur ses [tests de compétence](./test de compétence.md) de [Linguistique](./Linguistique.md) et [Profession](./Profession.md) (scribe), de même qu’[Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) quand il s'agit de parchemins ou d'objets magiques écrits. Le personnage peut consacrer une [action complexe](./Action complexe.md) et effectuer un jet de [Linguistique](./Linguistique.md) pour déchiffrer un texte et peut toujours [faire 10](./faire 10.md) sur ses jets de [Linguistique](./Linguistique.md) et de [Profession](./Profession.md) (scribe), même s'il est distrait ou en danger.
+Un chroniqueur ajoute son niveau dans sa classe sur ses [[test de compétence|tests de compétence]] de [[Linguistique]] et [[Profession]] (scribe), de même qu’[[Utilisation dobjets magiques|Utilisation d'objets magiques]] quand il s'agit de parchemins ou d'objets magiques écrits. Le personnage peut consacrer une [[action complexe]] et effectuer un jet de [[Linguistique]] pour déchiffrer un texte et peut toujours [[faire 10]] sur ses jets de [[Linguistique]] et de [[Profession]] (scribe), même s'il est distrait ou en danger.
 
 {s:Reference|SURVIVREPOURRACONTER}
 #### Survivre pour le raconter (Ext)
-Au niveau 2, et une fois par jour tous les niveaux pairs, un chroniqueur peut relancer un [jet de sauvegarde](./jet de sauvegarde.md) échoué au round précédent contre un événement en cours, et ce, même si l'effet est normalement permanent. Ce pouvoir n'a aucune incidence sur les événements qui ne permettent pas de jet de sauvegarde ou contre les effet instantanés.
+Au niveau 2, et une fois par jour tous les niveaux pairs, un chroniqueur peut relancer un [[jet de sauvegarde]] échoué au round précédent contre un événement en cours, et ce, même si l'effet est normalement permanent. Ce pouvoir n'a aucune incidence sur les événements qui ne permettent pas de jet de sauvegarde ou contre les effet instantanés.
 
 {s:Reference|DECOUVERTEDESSENTIERS}
 #### Découverte des sentiers (Ext)
-À partir du niveau 2, un chroniqueur développe un excellent sens de l'orientation et un grand talent pour guider les autres sur un terrain difficile ou à l'aide d'une carte ancienne. Il bénéficie d'un bonus de +5 sur ses jets de [Survie](./Survie.md) lorsqu'il s'agit de ne pas se perdre et d'un bonus de +5 à ses jets d'[Intelligence](./Intelligence.md) pour échapper à un sort de *[dédale](./Dédale.md)*. De plus, il utilise toujours le modificateur « chemin ou route » pour les [déplacements sur longue distance](./Déplacements.md#LONGUEDISTANCE), même sur un terrain vierge de toute piste, et ce qu'il soit à pied ou sur une monture. En réussissant un jet de [Survie](./Survie.md) DD 15, il peut faire bénéficier de cet avantage un compagnon par niveau dans sa classe de chroniqueur.
+À partir du niveau 2, un chroniqueur développe un excellent sens de l'orientation et un grand talent pour guider les autres sur un terrain difficile ou à l'aide d'une carte ancienne. Il bénéficie d'un bonus de +5 sur ses jets de [[Survie]] lorsqu'il s'agit de ne pas se perdre et d'un bonus de +5 à ses jets d'[[Intelligence]] pour échapper à un sort de *[[dédale]]*. De plus, il utilise toujours le modificateur « chemin ou route » pour les [[Déplacements#LONGUEDISTANCE|déplacements sur longue distance]], même sur un terrain vierge de toute piste, et ce qu'il soit à pied ou sur une monture. En réussissant un jet de [[Survie]] DD 15, il peut faire bénéficier de cet avantage un compagnon par niveau dans sa classe de chroniqueur.
 
 {s:Reference|REPRESENTATIONBARDIQUE}
 #### Représentation bardique (Sur)
-Au niveau 3, le personnage gagne le pouvoir de [barde](./Barde.md) du même nom, mais son niveau de [barde](./Barde.md) effectif est inférieur de 2 à son niveau de classe. Les niveaux dans cette classe se cumulent avec ceux de n'importe quelle autre classe qui offre cette capacité, lorsqu'il s'agit de déterminer son niveau de [barde](./Barde.md) effectif.
+Au niveau 3, le personnage gagne le pouvoir de [[barde]] du même nom, mais son niveau de [[barde]] effectif est inférieur de 2 à son niveau de classe. Les niveaux dans cette classe se cumulent avec ceux de n'importe quelle autre classe qui offre cette capacité, lorsqu'il s'agit de déterminer son niveau de [[barde]] effectif.
 
 {s:Reference|AIDESUPERIEURE}
 #### Aide supérieure (Ext)
-Le chroniqueur accompagne souvent les grands héros, se tenant à leurs côtés et racontant leurs exploits, mais donnant aussi un coup de main décisif quand il le faut. À partir du niveau 3, lorsqu'il entreprend d'[aider quelqu'un](./aider quelquun.md), le chroniqueur fait bénéficier celui qu'il assiste d'un bonus de +4, au lieu du bonus de +2 normalement accordé par cette action.
+Le chroniqueur accompagne souvent les grands héros, se tenant à leurs côtés et racontant leurs exploits, mais donnant aussi un coup de main décisif quand il le faut. À partir du niveau 3, lorsqu'il entreprend d'[[aider quelquun|aider quelqu'un]], le chroniqueur fait bénéficier celui qu'il assiste d'un bonus de +4, au lieu du bonus de +2 normalement accordé par cette action.
 
 {s:Reference|SAGASEPIQUES}
 #### Sagas épiques (Sur)
-Un chroniqueur de niveau 4 est capable de coucher sur le papier une histoire si vivante et si prenante qu'il confère aux mots écrits les effets de la [représentation bardique](./Chroniqueur.md#REPRESENTATIONBARDIQUE). Pour créer une histoire épique, il faut sacrifier un nombre de rounds de [représentation bardique](./Chroniqueur.md#REPRESENTATIONBARDIQUE) égal au double de la durée de la saga épique (durée maximale de 10 rounds) et tous les tests pertinents de Représentation se font avec la compétence [Profession](./Profession.md) (scribe). Les effets de la saga épique n'affectent que le lecteur, mais ils accordent tous les bonus qui s'appliqueraient si elle était écoutée. Un chroniqueur peut aussi utiliser n'importe quel don applicable à la [représentation bardique](./Chroniqueur.md#REPRESENTATIONBARDIQUE) pour écrire son récit. La saga épique garde sa puissance surnaturelle pendant un jour par niveau de classe. Il faut une heure pour l'écrire, une [action complexe](./Action complexe.md) pour activer son pouvoir et elle dure un nombre de rounds égal à la moitié du nombre de rounds de [représentation bardique](./Chroniqueur.md#REPRESENTATIONBARDIQUE) sacrifiés pendant sa création. Une fois activée, la magie de la saga épique s'évanouit.
+Un chroniqueur de niveau 4 est capable de coucher sur le papier une histoire si vivante et si prenante qu'il confère aux mots écrits les effets de la [[chroniqueur#REPRESENTATIONBARDIQUE|représentation bardique]]. Pour créer une histoire épique, il faut sacrifier un nombre de rounds de [[chroniqueur#REPRESENTATIONBARDIQUE|représentation bardique]] égal au double de la durée de la saga épique (durée maximale de 10 rounds) et tous les tests pertinents de Représentation se font avec la compétence [[Profession]] (scribe). Les effets de la saga épique n'affectent que le lecteur, mais ils accordent tous les bonus qui s'appliqueraient si elle était écoutée. Un chroniqueur peut aussi utiliser n'importe quel don applicable à la [[chroniqueur#REPRESENTATIONBARDIQUE|représentation bardique]] pour écrire son récit. La saga épique garde sa puissance surnaturelle pendant un jour par niveau de classe. Il faut une heure pour l'écrire, une [[action complexe]] pour activer son pouvoir et elle dure un nombre de rounds égal à la moitié du nombre de rounds de [[chroniqueur#REPRESENTATIONBARDIQUE|représentation bardique]] sacrifiés pendant sa création. Une fois activée, la magie de la saga épique s'évanouit.
 
 {s:Reference|RUMEURS}
 #### Rumeurs (Ext)
-Les chroniqueurs influencent le monde grâce au contrôle qu'ils exercent sur l'information et à leur talent pour façonner la perception de leur public. Au niveau 5, le personnage peut, grâce à une faculté spéciale de [représentation bardique](./Chroniqueur.md#REPRESENTATIONBARDIQUE), accuser ouvertement une créature qui se retrouve alors sous l'effet d'un sort de *[malédiction](./malédiction.md)*, comme si celui-ci était lancé par un [ensorceleur](./Ensorceleur.md) de même niveau. C'est un effet dépendant du langage.
+Les chroniqueurs influencent le monde grâce au contrôle qu'ils exercent sur l'information et à leur talent pour façonner la perception de leur public. Au niveau 5, le personnage peut, grâce à une faculté spéciale de [[chroniqueur#REPRESENTATIONBARDIQUE|représentation bardique]], accuser ouvertement une créature qui se retrouve alors sous l'effet d'un sort de *[[malédiction]]*, comme si celui-ci était lancé par un [[ensorceleur]] de même niveau. C'est un effet dépendant du langage.
 
-Le chroniqueur peut aussi dénoncer une cible en particulier (un individu ou un groupe défini de créatures). Cette faculté de [représentation bardique](./Chroniqueur.md#REPRESENTATIONBARDIQUE) crée les effets d'un [discours captivant](./Discours captivant.md), mais, à la fin de la [Représentation](./Représentation.md), tous ceux qui ratent leur [jet de sauvegarde](./jet de sauvegarde.md) modifient d'un degré leur attitude à l'égard de la cible du discours, dans le sens choisi par le chroniqueur, pendant une durée d’un jour par niveau de classe.
+Le chroniqueur peut aussi dénoncer une cible en particulier (un individu ou un groupe défini de créatures). Cette faculté de [[chroniqueur#REPRESENTATIONBARDIQUE|représentation bardique]] crée les effets d'un [[discours captivant]], mais, à la fin de la [[Représentation]], tous ceux qui ratent leur [[jet de sauvegarde]] modifient d'un degré leur attitude à l'égard de la cible du discours, dans le sens choisi par le chroniqueur, pendant une durée d’un jour par niveau de classe.
 
 {s:Reference|INSPIRERUNEACTION}
 #### Inspirer une action (Sur)
-Cette faculté spéciale de la [représentation bardique](./Chroniqueur.md#REPRESENTATIONBARDIQUE) permet à un chroniqueur de niveau 6 d'exhorter un allié à portée de voix à agir rapidement et lui permettra d'entreprendre une [action de mouvement](./Action de mouvement.md) supplémentaire, qui ne sera pas décomptée de ses actions du tour.
+Cette faculté spéciale de la [[chroniqueur#REPRESENTATIONBARDIQUE|représentation bardique]] permet à un chroniqueur de niveau 6 d'exhorter un allié à portée de voix à agir rapidement et lui permettra d'entreprendre une [[action de mouvement]] supplémentaire, qui ne sera pas décomptée de ses actions du tour.
 
-Au niveau 9, il permet à son allié d'entreprendre une [action simple](./Action simple.md).
+Au niveau 9, il permet à son allié d'entreprendre une [[action simple]].
 
 {s:Reference|CONJURERLESLEGENDES}{s:Reference|INVOQUERLESLEGENDES}
 #### Conjurer les légendes (Sur)
-Au niveau 7, une fois par semaine, le chroniqueur peut, au prix d'une [action complexe](./Action complexe.md), convoquer 2d4 [barbares](./Barbare.md) de niveau 4, des [créatures artificielles](./type Créature artificielle.md) ayant l'apparence d'[humains](./Humain.md), comme s'il avait utilisé un [cor du Valhalla](./Cor du Valhalla.md). Ces créatures sont équipées de façon standard pour des membres de leur classe de combattant, le serviront en toute loyauté et attaqueront toute personne qu'il leur désignera.
+Au niveau 7, une fois par semaine, le chroniqueur peut, au prix d'une [[action complexe]], convoquer 2d4 [[barbare|barbares]] de niveau 4, des [[type créature artificielle|créatures artificielles]] ayant l'apparence d'[[humain|humains]], comme s'il avait utilisé un [[cor du Valhalla]]. Ces créatures sont équipées de façon standard pour des membres de leur classe de combattant, le serviront en toute loyauté et attaqueront toute personne qu'il leur désignera.
 
 {s:Reference|SAGASEPIQUESLEGENDAIRES}
 #### Sagas épiques légendaires (Sur)
-Au niveau 8, la puissance habite les mots que le chroniqueur couche sur le papier. Ce pouvoir fonctionne comme le pouvoir [Sagas épiques](./Chroniqueur.md#SAGASEPIQUES), à ceci près que lorsque le personnage lit le texte à voix haute, la [représentation bardique](./Chroniqueur.md#REPRESENTATIONBARDIQUE) prend effet de la même manière que s'il avait utilisé cette capacité. Le lecteur décide de la cible et on applique aux effets sa caractéristique de [Charisme](./Charisme.md) quand cela est nécessaire.
+Au niveau 8, la puissance habite les mots que le chroniqueur couche sur le papier. Ce pouvoir fonctionne comme le pouvoir [[chroniqueur#SAGASEPIQUES|Sagas épiques]], à ceci près que lorsque le personnage lit le texte à voix haute, la [[chroniqueur#REPRESENTATIONBARDIQUE|représentation bardique]] prend effet de la même manière que s'il avait utilisé cette capacité. Le lecteur décide de la cible et on applique aux effets sa caractéristique de [[Charisme]] quand cela est nécessaire.
 
 {s:Reference|LAIDESMORTSHONORES}
 #### Lai des morts honorés (Sur)
-Un chroniqueur de niveau 10 peut, une fois par semaine et au prix d'une [action complexe](./Action complexe.md), convoquer 1d4+1 [barbares](./Barbare.md) [humains](./Humain.md) de niveau 5, comme s'il s'était servi d'un [cor du Valhalla](./Cor du Valhalla.md). Ces [créatures artificielles](./type Créature artificielle.md) sont [intangibles](./Intangible.md) (elles subissent la moitié des dégâts infligés par une source tangible et aucun si la source n'est pas magique) et elles font preuve à son égard d'une totale et absolue loyauté. À leur arrivée, les [barbares](./Barbare.md) portent des armures de cuir clouté +2 et des grandes haches spectrales +1 qui leur permettent d'infliger des dégâts normaux aux créatures tangibles. Ils attaquent toute personne que le chroniqueur leur désigne. Le personnage et ses alliés les voient sous l'apparence d'une noble troupe de guerriers, tandis que leurs ennemis contemplent la fureur des héros des temps anciens et doivent réussir un jet de [Volonté](./Volonté.md) d’un [DD](./DD.md) égal à 15 + le modificateur de [Charisme](./Charisme.md) du chroniqueur, sous peine d'être [étourdis](./Étourdi.md) durant un nombre de rounds égal au nombre de [barbares](./Barbare.md) convoqués.
+Un chroniqueur de niveau 10 peut, une fois par semaine et au prix d'une [[action complexe]], convoquer 1d4+1 [[barbare|barbares]] [[humain|humains]] de niveau 5, comme s'il s'était servi d'un [[cor du Valhalla]]. Ces [[type créature artificielle|créatures artificielles]] sont [[intangible|intangibles]] (elles subissent la moitié des dégâts infligés par une source tangible et aucun si la source n'est pas magique) et elles font preuve à son égard d'une totale et absolue loyauté. À leur arrivée, les [[barbare|barbares]] portent des armures de cuir clouté +2 et des grandes haches spectrales +1 qui leur permettent d'infliger des dégâts normaux aux créatures tangibles. Ils attaquent toute personne que le chroniqueur leur désigne. Le personnage et ses alliés les voient sous l'apparence d'une noble troupe de guerriers, tandis que leurs ennemis contemplent la fureur des héros des temps anciens et doivent réussir un jet de [[Volonté]] d’un [[DD]] égal à 15 + le modificateur de [[Charisme]] du chroniqueur, sous peine d'être [[étourdi|étourdis]] durant un nombre de rounds égal au nombre de [[barbare|barbares]] convoqués.

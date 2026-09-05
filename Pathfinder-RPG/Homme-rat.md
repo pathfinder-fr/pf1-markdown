@@ -15,8 +15,8 @@ Categories:
 {s:BDTexte|<i>Source : Bestiaire 3 p.150</i>}
 {s:BDTexte|<b>PX</b> 135}
 {s:BDTexte|Homme-rat expert 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([homme-rat](./sous-type homme-rat.md)) de taille P, N}
-{s:BDTexte|<b>Init</b> +2 ; <b>Sens</b> [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type homme-rat|homme-rat]]) de taille P, N}
+{s:BDTexte|<b>Init</b> +2 ; <b>Sens</b> [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 15, contact 13, pris au dépourvu 13 (armure +2, Dex +2, taille +1)}
 {s:BDTexte|<b>pv</b> 4 (1d8)}
@@ -29,8 +29,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 6, <b>Dex</b> 15, <b>Con</b> 11, <b>Int</b> 14, <b>Sag</b> 10, <b>Cha</b> 9}
 {s:BDTexte|<b>BBA</b> +0, <b>BMO</b> -3, <b>DMD</b> 9}
-{s:BDTexte|<b>Dons</b> [Talent](./Talent.md) (Perception)}
-{s:BDTexte|<b>Compétences</b> [Artisanat](./Artisanat.md) (alchimie) +8, [Diplomatie](./Diplomatie.md) +3, [Dressage](./Dressage.md) +3 (+7 avec les rongeurs), [Estimation](./Estimation.md) +6, [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +4, [Survie](./Survie.md) +4, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +5 ; <b>Modificateurs raciaux</b> +2 en [Artisanat](./Artisanat.md) (alchimie), +4 en [Dressage](./Dressage.md) pour influencer les rongeurs, +2 en [Perception](./Perception.md), +2 en [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md)}
+{s:BDTexte|<b>Dons</b> [[Talent]] (Perception)}
+{s:BDTexte|<b>Compétences</b> [[Artisanat]] (alchimie) +8, [[Diplomatie]] +3, [[Dressage]] +3 (+7 avec les rongeurs), [[Estimation]] +6, [[Perception]] +9, [[Psychologie]] +4, [[Survie]] +4, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +5 ; <b>Modificateurs raciaux</b> +2 en [[Artisanat]] (alchimie), +4 en [[Dressage]] pour influencer les rongeurs, +2 en [[Perception]], +2 en [[Utilisation dobjets magiques|Utilisation d’objets magiques]]}
 {s:BDTexte|<b>Langues</b> commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> villes ou déserts chauds}
@@ -72,19 +72,19 @@ Les hommes-rats se définissent par leurs niveaux de classe : ils ne possèdent 
 
 • **-2 en Force, +2 en Dextérité, +2 en Intelligence.** Les hommes-rats sont habiles et intelligents mais physiquement faibles.
 
-• **Taille P.** Les hommes-rats sont des créatures de taille P et gagnent un bonus de [taille](./taille.md) de +1 à leur [CA](./CA.md), un bonus de taille de +1 à leurs jets d’attaque, un malus de -1 à leur [BMO](./BMO.md) et à leur [DMD](./DMD.md) et un bonus de taille de +4 à leurs tests de [Discrétion](./Discrétion.md).
+• **Taille P.** Les hommes-rats sont des créatures de taille P et gagnent un bonus de [[taille]] de +1 à leur [[CA]], un bonus de taille de +1 à leurs jets d’attaque, un malus de -1 à leur [[BMO]] et à leur [[DMD]] et un bonus de taille de +4 à leurs tests de [[Discrétion]].
 
 • **Vision dans le noir.** Les hommes-rats peuvent voir dans le noir jusqu’à 18 mètres (12 {s:c}).
 
-• **Bricolage.** Les hommes-rats gagnent un bonus de +2 à leurs tests d’[Artisanat](./Artisanat.md) (alchimie), de [Perception](./Perception.md) et d’[Utilisation d’objets magiques](./Utilisation dObjets Magiques.md).
+• **Bricolage.** Les hommes-rats gagnent un bonus de +2 à leurs tests d’[[Artisanat]] (alchimie), de [[Perception]] et d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]].
 
-• **Empathie avec les rongeurs.** Les hommes-rats gagnent un bonus de +4 à leurs tests de [Dressage](./Dressage.md) pour influencer les rongeurs.
+• **Empathie avec les rongeurs.** Les hommes-rats gagnent un bonus de +4 à leurs tests de [[Dressage]] pour influencer les rongeurs.
 
 • **Regroupement.** Cf. ci-contre.
 
 • **Langues.** Les hommes-rats commencent le jeu en parlant le commun. Les plus intelligents peuvent choisir des langues supplémentaires parmi celles-ci : aklo, commun des profondeurs, draconique, gnoll, gnome, gobelin, halfelin, nain, et l’orque.
 
-{s:VoirAussiAvant}La page de la race [Homme-rat](./Homme-rat (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[homme-rat (race)|Homme-rat]]{s:VoirAussiAprès}
 </div>
 
 {s:ImageCentre|Bestiaire/Homme-rat.jpg|90%}

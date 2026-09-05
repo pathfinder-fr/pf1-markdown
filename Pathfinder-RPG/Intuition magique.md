@@ -10,6 +10,6 @@ Categories:
 
 {s:ISG}{s:GeM}*L’intuition magique aide le personnage à esquiver les attaques.*
 
-**Conditions.** [Bouclier magique](./Bouclier magique.md), lanceur de sorts profanes, [NLS](./NLS.md) 10, suivant de [Néthys](./Néthys (technique).md)
+**Conditions.** [[Bouclier magique]], lanceur de sorts profanes, [[NLS]] 10, suivant de [[Néthys (technique)|Néthys]]
 
-**Avantage.** À chaque fois que le personnage utilise le don [Bouclier magique](./Bouclier magique.md), il bénéficie également d’un bonus d’intuition de +1 à la [CA](./CA.md) pendant 1 [round](./round.md).
+**Avantage.** À chaque fois que le personnage utilise le don [[Bouclier magique]], il bénéficie également d’un bonus d’intuition de +1 à la [[CA]] pendant 1 [[round]].

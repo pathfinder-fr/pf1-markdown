@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Ville située à l'ouest du [Mendev](./Mendev.md), Kénabres permet de contrôler toute la frontière nord-ouest entre le [Mendev](./Mendev.md) et la [Plaie du Monde](./Plaie du monde.md).
+Ville située à l'ouest du [[Mendev]], Kénabres permet de contrôler toute la frontière nord-ouest entre le [[Mendev]] et la [[Plaie du Monde]].

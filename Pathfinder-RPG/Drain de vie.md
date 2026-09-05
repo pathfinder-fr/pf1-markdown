@@ -9,13 +9,13 @@ Categories:
 ---
 
 {s:UM}
-**École** [nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [magus](./Magus.md) 4, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 4, [sorcière](./Sorcière.md) 4  
+**École** [[nécromancie]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[magus]] 4, [[ensorceleur]]/[[magicien]] 4, [[sorcière]] 4  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui  
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
 
-**Restriction de cible** *[choisi](./Choisi.md)*
+**Restriction de cible** *[[choisi]]*
 
 La cible d’un sort incluant ce mot effet reçoit 1d4 niveaux négatifs temporaires. Si ces niveaux négatifs provoquent sa mort, elle revient sous la forme d’un fantôme 1d4 jours à moins d’être enterrée en terre consacrée.  
 

@@ -10,16 +10,16 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [G](./composantes.md)  
+**Composantes** [[Composantes|G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
+**Durée** 1 [[round]]/[[niveau]]
 
-Cet [extrait](./Alchimiste.md#EXTRAIT) permet au personnage de lancer ses projectiles plus loin, avec plus de précision. Tant qu'il fait effet, l'[extrait](./Alchimiste.md#EXTRAIT) augmente la portée de toute arme de jet de 3 mètres (2 {s:c}). De plus, le personnage reçoit un bonus d'intuition de +1 aux [jets d'attaque](./jet dattaque.md) avec les armes de jet.
+Cet [[alchimiste#EXTRAIT|extrait]] permet au personnage de lancer ses projectiles plus loin, avec plus de précision. Tant qu'il fait effet, l'[[alchimiste#EXTRAIT|extrait]] augmente la portée de toute arme de jet de 3 mètres (2 {s:c}). De plus, le personnage reçoit un bonus d'intuition de +1 aux [[jet dattaque|jets d'attaque]] avec les armes de jet.

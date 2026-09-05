@@ -13,10 +13,10 @@ Categories:
 <div class="BD">
 {s:BDtitre|Guenaude annis boréale|FP 7}
 {s:pucem|Humanoïde monstrueux|Marais|Froid}
-{s:BDtexte|*Source : [Irrisen, pays de l'hiver éternel p.56](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Irrisen, pays de l'hiver éternel p.56]]*}
 {s:BDtexte|**PX** 3 200}
-{s:BDtexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([froid](./sous-type froid.md)) de taille G, CM}
-{s:BDtexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) 18 m ; [Perception](./Perception.md) +13}
+{s:BDtexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type froid|froid]]) de taille G, CM}
+{s:BDtexte|**Init** +1 ; **Sens** [[vision dans le noir (capacité)|vision dans le noir]] 18 m ; [[Perception]] +13}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 20, contact 10, pris au dépourvu 19 (Dex +1, naturelle +10, taille -1)}
 {s:BDtexte|**pv** 73 (7d10+35)}
@@ -27,14 +27,14 @@ Categories:
 {s:BDtexte|**VD** 9 m}
 {s:BDtexte|**Corps à corps** morsure, +14 (1d6+8 plus 1d6 froid), 2 griffes, +14 (1d6+8 plus 1d6 froid)}
 {s:BDtexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDtexte|**Attaques spéciales** [éventration](./Éventration (capacité).md) (2 griffes, 1d6+12)}
-{s:BDtexte|**Pouvoirs magiques** ([NLS](./NLS.md) 7 ; [concentration](./concentration.md) +7)}
-{s:BDsorts|3/jour — *[modification d’apparence](./Modification dapparence.md)*, *[nappe de brouillard](./Nappe de brouillard.md)*}
+{s:BDtexte|**Attaques spéciales** [[Éventration (capacité)|éventration]] (2 griffes, 1d6+12)}
+{s:BDtexte|**Pouvoirs magiques** ([[NLS]] 7 ; [[concentration]] +7)}
+{s:BDsorts|3/jour — *[[modification dapparence|modification d’apparence]]*, *[[nappe de brouillard]]*}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 27, **Dex** 12, **Con** 20, **Int** 13, **Sag** 13, **Cha** 10}
 {s:BDtexte|**BBA** +7, **BMO** +16, **DMD** 26}
-{s:BDtexte|**Dons** [Combat en aveugle](./Combat en aveugle.md), [Force intimidante](./Force intimidante.md), [Vigilance](./Vigilance.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDtexte|**Compétences** [Bluff](./Bluff.md) +7, [Diplomatie](./Diplomatie.md) +7, [Discrétion](./Discrétion.md) +7 (+11 dans la neige), [Intimidation](./Intimidation.md) +18, [Perception](./Perception.md) +13, [Psychologie](./Psychologie.md) +3 ; **Modificateurs raciaux** +4 en Discrétion (dans la neige), +4 en Survie (dans la neige)}
+{s:BDtexte|**Dons** [[Combat en aveugle]], [[Force intimidante]], [[Vigilance]], [[Vigueur surhumaine]]}
+{s:BDtexte|**Compétences** [[Bluff]] +7, [[Diplomatie]] +7, [[Discrétion]] +7 (+11 dans la neige), [[Intimidation]] +18, [[Perception]] +13, [[Psychologie]] +3 ; **Modificateurs raciaux** +4 en Discrétion (dans la neige), +4 en Survie (dans la neige)}
 {s:BDtexte|**Langues** commun, géant}
 {s:BDtexte|**Particularités** absence de traces}
 {s:BDsoustitre|Écologie}
@@ -46,7 +46,7 @@ Categories:
 </div>
 </td>
 <td>
-<div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature boréale](./Créature boréale, archétype.md).***</li></ul>
+<div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature boréale, archétype|Créature boréale]].***</li></ul>
 *Cette vieille femme bossue est d’une laideur repoussante. Sa peau d’une blancheur cadavérique est couverte de tâches marron et jaune qui font penser à des bleus. Bien qu’elle soit courbée, elle reste bien plus grande qu’un humain.*
 
 Depuis l’invasion de Baba Yaga, de nombreuses créatures natives de l'est du Royaume glacé des vikings ont disparu, incapables de s’adapter à l’hiver permanent et surnaturel du pays. Cependant, malgré ce changement radical de climat, quelques spécimens particulièrement résistants ont réussi à survivre et, au cours des siècles, les forces magiques qui maintiennent le royaume sous les neiges ont permis l’évolution d’espèces mieux adaptées à ce rude environnement.

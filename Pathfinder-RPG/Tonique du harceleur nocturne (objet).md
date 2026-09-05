@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:UI}**Prix** 200 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Une fois que le personnage consomme ce liquide au goût métallique, ses effets durent 1 heure. Pendant cette durée, le personnage peut accepter une [brûlure alchimique](./Outils alchimiques.md#BRULURE) afin d'augmenter ses dégâts d'[attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) de 1d6 ou ses dégâts de [frappe cachée](./Justicier.md#SPÉCIALISATIONDEJUSTICIER) de 1d4 ou 1d8 (selon le plus approprié) pendant 1 round. S'il ne possède ni attaque sournoise, ni frappe cachée, consommer ce tonique n'a aucun effet.
+Une fois que le personnage consomme ce liquide au goût métallique, ses effets durent 1 heure. Pendant cette durée, le personnage peut accepter une [[Outils alchimiques#BRULURE|brûlure alchimique]] afin d'augmenter ses dégâts d'[[Roublard#ATTAQUESOURNOISE|attaque sournoise]] de 1d6 ou ses dégâts de [[Justicier#SPÉCIALISATIONDEJUSTICIER|frappe cachée]] de 1d4 ou 1d8 (selon le plus approprié) pendant 1 round. S'il ne possède ni attaque sournoise, ni frappe cachée, consommer ce tonique n'a aucun effet.

@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Il est très difficile de remarquer et d’éviter les pièges de rôdeur du personnage. *
 
-**Conditions.** Capacité à poser des [pièges](./Pièges de rôdeur.md), [rôdeur](./Rôdeur.md) niveau 5
+**Conditions.** Capacité à poser des [[pièges de rôdeur|pièges]], [[rôdeur]] niveau 5
 
-**Avantage.** Le personnage ajoute +1 au [DD](./DD.md) de tous les tests de [Perception](./Perception.md) et de [Sabotage](./Sabotage.md) destinés à trouver ou désamorcer des pièges avec son pouvoir de piège de classe.
+**Avantage.** Le personnage ajoute +1 au [[DD]] de tous les tests de [[Perception]] et de [[Sabotage]] destinés à trouver ou désamorcer des pièges avec son pouvoir de piège de classe.
 
-Il ajoute +1 à tous ses [jets de sauvegarde](./jet de sauvegarde.md) contre les effets des [pièges de rôdeur](./Pièges.md) posés avec son pouvoir de classe de Piège.
+Il ajoute +1 à tous ses [[Jet de sauvegarde|jets de sauvegarde]] contre les effets des [[pièges|pièges de rôdeur]] posés avec son pouvoir de classe de Piège.

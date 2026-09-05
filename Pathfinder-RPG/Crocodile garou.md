@@ -13,8 +13,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4* p.181}
 {s:BDTexte|**PX** 800}
 {s:BDTexte|Crocodile garou naturel, humain guerrier 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md), [métamorphe](./sous-type métamorphe.md)) de taille M, NM}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, NM}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 11, pris au dépourvu 10 (Dex +1)}
 {s:BDTexte|**pv** 27 (3d10+6)}
@@ -26,10 +26,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 13, **Con** 14, **Int** 12, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +3, **BMO** +6, **DMD** 17}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Course](./Course.md), [Enchaînement](./Enchaînement.md), [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5, [Intimidation](./Intimidation.md) +4, [Natation](./Natation.md) +11, [Perception](./Perception.md) +4, [Survie](./Survie.md) +7}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Course]], [[Enchaînement]], [[Science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +5, [[Intimidation]] +4, [[Natation]] +11, [[Perception]] +4, [[Survie]] +7}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (humain, hybride et crocodile ; *[métamorphose](./métamorphose.md)*), empathie lycanthropique [crocodiles](./Crocodile.md) et [crocodiles sanguinaires](./Crocodile sanguinaire.md)), entraînement aux armures 1}
+{s:BDTexte|**Particularités** [[changement de forme (capacité)|changement de forme]] (humain, hybride et crocodile ; *[[métamorphose]]*), empathie lycanthropique [[crocodile|crocodiles]] et [[crocodile sanguinaire|crocodiles sanguinaires]]), entraînement aux armures 1}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** fleuves et marais chauds}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3-12)}
@@ -41,8 +41,8 @@ Categories:
 {s:pucem|Humanoïde|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 4* p.181}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md), [métamorphe](./sous-type métamorphe.md)) de taille M, NM}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, NM}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 11, pris au dépourvu 16 ((Dex +1, naturelle +6)}
 {s:BDTexte|**pv** 30 (3d10+9)}
@@ -55,10 +55,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 13, **Con** 16, **Int** 12, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +3, **BMO** +7 (+11 en lutte), **DMD** 18}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Course](./Course.md), [Enchaînement](./Enchaînement.md), [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5, [Intimidation](./Intimidation.md) +4, [Natation](./Natation.md) +20, [Perception](./Perception.md) +4, [Survie](./Survie.md) +7}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Course]], [[Enchaînement]], [[Science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +5, [[Intimidation]] +4, [[Natation]] +20, [[Perception]] +4, [[Survie]] +7}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (humain, hybride et crocodile ; *[métamorphose](./métamorphose.md)*), empathie lycanthropique [crocodiles](./Crocodile.md) et [crocodiles sanguinaires](./Crocodile sanguinaire.md)), entraînement aux armures 1, retenir son souffle, sprint}
+{s:BDTexte|**Particularités** [[changement de forme (capacité)|changement de forme]] (humain, hybride et crocodile ; *[[métamorphose]]*), empathie lycanthropique [[crocodile|crocodiles]] et [[crocodile sanguinaire|crocodiles sanguinaires]]), entraînement aux armures 1, retenir son souffle, sprint}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** fleuves et marais chauds}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3-12)}
@@ -74,24 +74,24 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Chauve-souris garou](./Chauve-souris garou.md) || 3
+| [[Chauve-souris garou]] || 3
 |-
-| [Crocodile garou](./Crocodile garou.md) || 3
+| [[Crocodile garou]] || 3
 |-
-| [Loup-garou](./Loup-garou.md) || 2
+| [[Loup-garou]] || 2
 |-
-| [Ours-garou](./Ours-garou.md) || 4
+| [[Ours-garou]] || 4
 |-
-| [Rat-garou](./Rat-garou.md) || 2
+| [[Rat-garou]] || 2
 |-
-| [Requin garou](./Requin garou.md) || 3
+| [[Requin garou]] || 3
 |-
-| [Sanglier-garou](./Sanglier-garou.md) || 2
+| [[Sanglier-garou]] || 2
 |-
-| [Tigre-garou](./Tigre-garou.md) || 4
+| [[Tigre-garou]] || 4
 |}
 </div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Lycanthrope](./Lycanthrope, archétype.md).***</li></ul>''Plus grand qu’un homme, cet humanoïde porte des haillons crasseux
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Lycanthrope, archétype|Lycanthrope]].***</li></ul>''Plus grand qu’un homme, cet humanoïde porte des haillons crasseux
 sur son cuir écailleux.''
 
 Les crocodiles garous associent la ferme détermination du crocodile

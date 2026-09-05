@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#IVRESSERUGISSANTE
 ---
 
->>> [pouvoirs de rage#IVRESSERUGISSANTE](./Pouvoirs de rage.md#IVRESSERUGISSANTE)
+>>> [[pouvoirs de rage#IVRESSERUGISSANTE]]

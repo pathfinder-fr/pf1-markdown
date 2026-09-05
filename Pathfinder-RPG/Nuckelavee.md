@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Fée|Marais|Froid}
 {s:BDTexte|*Source : Bestiaire 3* p.201}
 {s:BDTexte|**PX** 6.400}
-{s:BDTexte|[Fée](./type Fée.md) de taille G, NM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision nocturne](./vision nocturne.md); [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Fée|Fée]] de taille G, NM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision nocturne]]; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 17, pris au dépourvu 15 (Dex +7, esquive +1, naturelle +6, taille -1)}
 {s:BDTexte|**pv** 104 (11d6+66)}
@@ -26,39 +26,39 @@ Categories:
 {s:BDTexte|**Corps à corps** épée longue de maître, +11 (1d8+9/19-20) et morsure,
 +10 (1d8+6 plus maladie) et 2 sabots, +5 (1d6+3 plus maladie)}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}) ; **Allonge** 1.5 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales**  [piétinement](./Piétinement.md) (1d6+9, [DD](./DD.md) 21), [souffle](./Souffle.md) (cône de 9 m, 10d6 dégâts plus maladie, [Réflexes](./Réflexes.md) [DD](./DD.md) 21 1/2 dégâts, utilisable tous les 1d4 [round](./round.md)s)}
+{s:BDTexte|**Attaques spéciales**  [[piétinement]] (1d6+9, [[DD]] 21), [[souffle]] (cône de 9 m, 10d6 dégâts plus maladie, [[Réflexes]] [[DD]] 21 1/2 dégâts, utilisable tous les 1d4 [[round]]s)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9; concentration +14)}
-{s:BDSorts|3/jour — *[contrôle de l’eau](./Contrôle de leau.md)*, *[rabougrissement des plantes](./Rabougrissement des plantes.md)*, *[brume de dissimulation](./Brume de dissimulation.md)*}
+{s:BDSorts|3/jour — *[[contrôle de leau|contrôle de l’eau]]*, *[[rabougrissement des plantes]]*, *[[brume de dissimulation]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 24, **Con** 22, **Int** 13, **Sag** 17, **Cha** 21}
-{s:BDTexte|**BBA** +5, **BMO** +12, **DMD** 30 (34 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque éclair](./Attaque éclair.md), [Comme l’éclair](./Comme léclair.md), [Comme le vent](./Comme le vent.md) , [Esquive](./Esquive.md),
-[Réflexes surhumains](./Réflexes surhumains.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +21 (+29 pour le saut),
-[Connaissances](./Connaissances.md) (nature) +15, [Discrétion](./Discrétion.md) +17, [Évasion](./Évasion.md) +21, [Intimidation](./Intimidation.md) +16,
-[Natation](./Natation.md) +28, [Perception](./Perception.md) +17}
+{s:BDTexte|**BBA** +5, **BMO** +12, **DMD** 30 (34 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque éclair]], [[Comme léclair|Comme l’éclair]], [[Comme le vent]] , [[Esquive]],
+[[Réflexes surhumains]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +21 (+29 pour le saut),
+[[Connaissances]] (nature) +15, [[Discrétion]] +17, [[Évasion]] +21, [[Intimidation]] +16,
+[[Natation]] +28, [[Perception]] +17}
 {s:BDTexte|**Langues** aklo, commun, sylvestre}
-{s:BDTexte|**Part** [amphibie](./Amphibie.md), [Armes de taille inférieure](./Armes de taille inférieure (capacité).md) }
+{s:BDTexte|**Part** [[amphibie]], [[Armes de taille inférieure (capacité)|Armes de taille inférieure]] }
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** littoraux ou marais froids}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** standard (épée longue de maître, autre trésor)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Maladie (Sur).** Mortéclat : contact ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 21 ; *incubation* immédiate ; *fréquence*
-1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 Con et la cible
-est [fatiguée](./Fatigué.md) ; *guérison* 2 réussites consécutives. Les animaux
-reçoivent un malus de -2 à leurs [jets de sauvegarde](./jet de sauvegarde.md) contre cette
-maladie. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**[Souffle](./Souffle.md) (Sur).** Le [souffle](./Souffle.md) du nuckelavee est un cône de pestilence
+{s:BDTexte|**Maladie (Sur).** Mortéclat : contact ; *JdS* [[Vigueur]] [[DD]] 21 ; *incubation* immédiate ; *fréquence*
+1/jour ; *effet* [[affaiblissement temporaire]] de 1d4 Con et la cible
+est [[Fatigué|fatiguée]] ; *guérison* 2 réussites consécutives. Les animaux
+reçoivent un malus de -2 à leurs [[jet de sauvegarde|jets de sauvegarde]] contre cette
+maladie. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**[[Souffle]] (Sur).** Le [[souffle]] du nuckelavee est un cône de pestilence
 dévastatrice provoquant de douloureuses gerçures, des crampes
 et des saignements qui n’affectent que les créatures vivantes :
 ces dégâts ignorent toutes les résistances aux énergies et la
 réduction de dégâts. Les plantes normales présentes dans la
 zone sont affectées comme si elles étaient la cible d’un sort de
-*[Flétrissement végétal](./Flétrissement végétal.md)*. Toutes les créatures qui ratent leur jet de
-[Réflexes](./Réflexes.md) contre ce souffle doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md)
-21 ou contracter la mortéclat (cf. ci-dessus). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md)
-est basé sur la [Constitution](./Constitution.md).}
+*[[Flétrissement végétal]]*. Toutes les créatures qui ratent leur jet de
+[[Réflexes]] contre ce souffle doivent réussir un jet de [[Vigueur]] [[DD]]
+21 ou contracter la mortéclat (cf. ci-dessus). Le [[DD]] du [[jet de sauvegarde]]
+est basé sur la [[Constitution]].}
 
 </div>
 </td><td><div>''Cette créature écorchée vive ressemble à un cheval et un cavalier

@@ -7,4 +7,4 @@ Categories:
 - Géographie
 ---
 
-Grand lac naturel du centre du [Chéliax](./Chéliax.md) situé au nord d'[Egorian](./Egorian.md). Il a été créé par la confluence de l'[Adivian](./Adivian.md), de la [Sedna](./Sedna.md) et du [Tomarsulk](./Tomarsulk.md).
+Grand lac naturel du centre du [[Chéliax]] situé au nord d'[[Egorian]]. Il a été créé par la confluence de l'[[Adivian]], de la [[Sedna]] et du [[Tomarsulk]].

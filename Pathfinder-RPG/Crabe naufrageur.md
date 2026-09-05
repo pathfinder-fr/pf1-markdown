@@ -10,29 +10,29 @@ LastModified: 2023-10-22 19:23
 {s:pucem|Vermine|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.53*}
 {s:BDTexte|**PX** 25 600}
-{s:BDTexte|[Vermine](./type Vermine.md) ([aquatique](./sous-type aquatique.md)) de taille Col, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille Col, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 27, contact 5, pris au dépourvu 24 (Dex +3, naturelle +22, taille -8)}
 {s:BDTexte|**pv** 189 (14d8+126)}
 {s:BDTexte|**Réf** +7, **Vig** +18, **Vol** +6}
-{s:BDTexte|**[Immunité](./Immunité (capacité).md)** effets mentaux}
+{s:BDTexte|**[[Immunité (capacité)|Immunité]]** effets mentaux}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** 2 pinces, +16 (2d8+21 plus étreinte)}
 {s:BDTexte|**Espace occupé** 9 m (6 {s:c}); Allonge 9 m (6 {s:c})}
-{s:BDTexte|**Attaques spéciales** [Constriction](./Constriction (capacité).md) (2d8+21)}
+{s:BDTexte|**Attaques spéciales** [[Constriction (capacité)|Constriction]] (2d8+21)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 38, **Dex** 16, **Con** 28, **Int** —, **Sag** 14, **Cha** 5}
 {s:BDTexte|**BBA** +10 ; **BMO** +32 (+36 lutte) ; **DMD** 45 (61 contre le croc-en-jambe)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +22, [Perception](./Perception.md) +10 ; **Modificateurs raciaux** +8 en Perception}
+{s:BDTexte|**Compétences** [[Natation]] +22, [[Perception]] +10 ; **Modificateurs raciaux** +8 en Perception}
 {s:BDTexte|**Particularité** pinces puissantes}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** eau}
 {s:BDTexte|**Organisation** solitaire ou colonie (2-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Pinces puissantes (Ext).** Les attaques de pince du crabe naufrageur infligent un nombre de dégâts égal à 1,5 fois son modificateur de Force. En outre, le crabe naufrageur ignore jusqu’à 5 points de [solidité](./solidité.md) lorsqu’il inflige des dégâts à des objets.}
+{s:BDTexte|**Pinces puissantes (Ext).** Les attaques de pince du crabe naufrageur infligent un nombre de dégâts égal à 1,5 fois son modificateur de Force. En outre, le crabe naufrageur ignore jusqu’à 5 points de [[solidité]] lorsqu’il inflige des dégâts à des objets.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -40,15 +40,15 @@ LastModified: 2023-10-22 19:23
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Crabe royal](./Crabe royal.md) || 1/4
+| Familier, [[Crabe royal]] || 1/4
 |-
-| [Crabe géant](./Crabe géant.md) || 2
+| [[Crabe géant]] || 2
 |-
-| [Crabe mangeur de requins](./Crabe mangeur de requins.md) || 7
+| [[Crabe mangeur de requins]] || 7
 |-
-| [Crabe naufrageur](./Crabe naufrageur.md) || 13
+| [[Crabe naufrageur]] || 13
 |-
-| [Nuée de crabes](./Nuée de crabes.md) || 4
+| [[Nuée de crabes]] || 4
 |}
 </div>*La silhouette de cet énorme crabe est dominée par des pinces, de la taille d’une chaloupe. Des bernacles et des herbes marines pendent à son épaisse coquille.*
 

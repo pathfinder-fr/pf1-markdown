@@ -20,44 +20,44 @@ Toutes les sorcières de l'hiver ne sont pas liées par le sang à la noblesse d
 | CLASS="gauche" | Sorts par jour
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [Protecteur hyperboréal](./Sorcière de lhiver.md#PROTECTEURHYPERBOREAL), [sorcellerie de l'hiver](./Sorcière de lhiver.md#SORCELLERIEDELHIVER)
+| CLASS="gauche" | [[Sorcière de lhiver#PROTECTEURHYPERBOREAL|Protecteur hyperboréal]], [[Sorcière de lhiver#SORCELLERIEDELHIVER|sorcellerie de l'hiver]]
 | CLASS="gauche" | -
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Gel et dégel](./Sorcière de lhiver.md#GELETDEGEL)
-| CLASS="gauche" | [+1 niveau dans la classe de sorcière](./Sorcière de lhiver.md#SORTS)
+| CLASS="gauche" | [[Sorcière de lhiver#GELETDEGEL|Gel et dégel]]
+| CLASS="gauche" | [[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]
 |-
 | 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [Froid anormal](./Sorcière de lhiver.md#FROIDANORMAL)
-| CLASS="gauche" | [+1 niveau dans la classe de sorcière](./Sorcière de lhiver.md#SORTS)
+| CLASS="gauche" | [[Sorcière de lhiver#FROIDANORMAL|Froid anormal]]
+| CLASS="gauche" | [[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]
 |- CLASS="alt"
 | 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [Sculpture de glace et de neige](./Sorcière de lhiver.md#SCULPTUREDEGLACEETDENEIGE)
-| CLASS="gauche" | [+1 niveau dans la classe de sorcière](./Sorcière de lhiver.md#SORTS)
+| CLASS="gauche" | [[Sorcière de lhiver#SCULPTUREDEGLACEETDENEIGE|Sculpture de glace et de neige]]
+| CLASS="gauche" | [[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]
 |-
 | 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [Maléfices de l'hiver](./Sorcière de lhiver.md#MALEFICESDELHIVER)
-| CLASS="gauche" | [+1 niveau dans la classe de sorcière](./Sorcière de lhiver.md#SORTS)
+| CLASS="gauche" | [[Sorcière de lhiver#MALEFICESDELHIVER|Maléfices de l'hiver]]
+| CLASS="gauche" | [[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]
 |- CLASS="alt"
 | 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [Vision du blizzard](./Sorcière de lhiver.md#VISIONDUBLIZZARD)
-| CLASS="gauche" | [+1 niveau dans la classe de sorcière](./Sorcière de lhiver.md#SORTS)
+| CLASS="gauche" | [[Sorcière de lhiver#VISIONDUBLIZZARD|Vision du blizzard]]
+| CLASS="gauche" | [[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]
 |-
 | 7 || +3 || +2 || +2 || +4
 | CLASS="gauche" | -
-| CLASS="gauche" | [+1 niveau dans la classe de sorcière](./Sorcière de lhiver.md#SORTS)
+| CLASS="gauche" | [[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]
 |- CLASS="alt"
 | 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [Froid surnaturel](./Sorcière de lhiver.md#FROIDSURNATUREL)
-| CLASS="gauche" | [+1 niveau dans la classe de sorcière](./Sorcière de lhiver.md#SORTS)
+| CLASS="gauche" | [[Sorcière de lhiver#FROIDSURNATUREL|Froid surnaturel]]
+| CLASS="gauche" | [[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]
 |-
 | 9 || +4 || +3 || +3 || +5
 | CLASS="gauche" | -
-| CLASS="gauche" | [+1 niveau dans la classe de sorcière](./Sorcière de lhiver.md#SORTS)
+| CLASS="gauche" | [[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]
 |- CLASS="alt"
 | 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [Patinage sur glace](./Sorcière de lhiver.md#PATINAGESURGLACE), [froid inexorable](./Sorcière de lhiver.md#FROIDINEXORABLE)
-| CLASS="gauche" | [+1 niveau dans la classe de sorcière](./Sorcière de lhiver.md#SORTS)
+| CLASS="gauche" | [[Sorcière de lhiver#PATINAGESURGLACE|Patinage sur glace]], [[Sorcière de lhiver#FROIDINEXORABLE|froid inexorable]]
+| CLASS="gauche" | [[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]
 |}
 </center>
 
@@ -66,17 +66,17 @@ Toutes les sorcières de l'hiver ne sont pas liées par le sang à la noblesse d
 ### Conditions requises
 Pour devenir une sorcière de l'hiver, il faut satisfaire aux conditions suivantes.
 
-**Compétences.** 5 rangs en [Art de la magie](./Art de la magie.md), 5 rangs en [Connaissances](./Connaissances.md) (mystères).
+**Compétences.** 5 rangs en [[Art de la magie]], 5 rangs en [[Connaissances]] (mystères).
 
-**Sorts.**  Doit être capable de lancer au moins trois sorts différents avec le [registre](./Registre.md) « froid », dont l'un doit être 3e niveau ou plus.
+**Sorts.**  Doit être capable de lancer au moins trois sorts différents avec le [[registre]] « froid », dont l'un doit être 3e niveau ou plus.
 
-**Spécial.** Doit posséder un [protecteur](./protecteurs.md) ainsi que la capacité de classe [magie de la glace](./Sorcière de lhiver (sorcière).md).
+**Spécial.** Doit posséder un [[protecteurs|protecteur]] ainsi que la capacité de classe [[Sorcière de lhiver (sorcière)|magie de la glace]].
 
 ### Compétences de classe
 
-Voici les compétences de classe de la sorcière de l'hiver : [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (mystères) (Int), [Connaissances](./Connaissances.md) (noblesse) (Int), [Intimidation](./Intimidation.md) (Cha), [Survie](./Survie.md) (Sag), et [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) (Cha).
+Voici les compétences de classe de la sorcière de l'hiver : [[Bluff]] (Cha), [[Connaissances]] (mystères) (Int), [[Connaissances]] (noblesse) (Int), [[Intimidation]] (Cha), [[Survie]] (Sag), et [[Utilisation dObjets Magiques|Utilisation d'objets magiques]] (Cha).
 
-**Rangs de compétence par niveau.** 2 + modificateur d'[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de sorcière de l'hiver.
@@ -85,36 +85,36 @@ Une sorcière de l'hiver ne gagne aucune formation supplémentaire au maniement 
 
 {s:reference|SORTS}
 #### Sorts par jour
-Aux niveaux indiqués, une sorcière de l'hiver gagne de nouveaux sorts par jour et des [sorts de protecteurs](./protecteurs.md) comme si elle avait également gagné un niveau dans la classe de [sorcière](./Sorcière.md). Elle n'obtient pas, en revanche, les autres avantages qu'un personnage de cette classe aurait normalement gagné, mis à part les sorts supplémentaires et l'augmentation de [NLS](./NLS.md) effectif.
+Aux niveaux indiqués, une sorcière de l'hiver gagne de nouveaux sorts par jour et des [[protecteurs|sorts de protecteurs]] comme si elle avait également gagné un niveau dans la classe de [[sorcière]]. Elle n'obtient pas, en revanche, les autres avantages qu'un personnage de cette classe aurait normalement gagné, mis à part les sorts supplémentaires et l'augmentation de [[NLS]] effectif.
 
 {s:reference|PROTECTEUR HYPERBOREAL}
 #### Protecteur hyperboréal
-Le protecteur d’une sorcière de l’hiver lui confère une affinité avec la glace. Une sorcière de l’hiver ajoute à sa liste de sorts de classe les sorts suivants (mais elle ne les apprend pas automatiquement) : 3e – *[mur de glace](./Mur de glace.md)*, 5e – *[prison de glace](./Prison de glace.md)*, 7e – *[sphère glaciale](./Sphère glaciale.md)*.
+Le protecteur d’une sorcière de l’hiver lui confère une affinité avec la glace. Une sorcière de l’hiver ajoute à sa liste de sorts de classe les sorts suivants (mais elle ne les apprend pas automatiquement) : 3e – *[[mur de glace]]*, 5e – *[[prison de glace]]*, 7e – *[[sphère glaciale]]*.
 
 {s:reference|SORCELLERIEDELHIVER}
 #### Sorcellerie de l'hiver
-Les niveaux de classe de prestige d’une sorcière de l’hiver se cumulent avec ses niveaux de [sorcière](./Sorcière.md) afin de déterminer : quand elle peut apprendre de nouveaux [maléfices](./Sorcière.md#MALEFICE) ; comment s’appliquent les effets de ses maléfices et des autres pouvoirs propres à sa classe (y compris les pouvoirs liés à son archétype) ; les pouvoirs de son [familier de sorcière](./Sorcière.md#FAMILIER) ; et le niveau à partir duquel elle peut choisir des [maléfices majeurs](./Sorcière.md#MALEFICEMAJEUR) ou des [grands maléfices](./Sorcière.md#GRANDMALEFICE).
+Les niveaux de classe de prestige d’une sorcière de l’hiver se cumulent avec ses niveaux de [[sorcière]] afin de déterminer : quand elle peut apprendre de nouveaux [[Sorcière#MALEFICE|maléfices]] ; comment s’appliquent les effets de ses maléfices et des autres pouvoirs propres à sa classe (y compris les pouvoirs liés à son archétype) ; les pouvoirs de son [[Sorcière#FAMILIER|familier de sorcière]] ; et le niveau à partir duquel elle peut choisir des [[Sorcière#MALEFICEMAJEUR|maléfices majeurs]] ou des [[Sorcière#GRANDMALEFICE|grands maléfices]].
 
 {s:reference|GELETDEGEL}
 #### Gel et dégel (Sur)
-Au niveau 2, une sorcière de l’hiver est capable de geler l’eau ou de faire fondre la neige d’un simple contact de la main. Ainsi, par une [action simple](./Action simple.md), une sorcière de l’hiver peut faire fondre un cube de glace de 1,50 mètre d’arête ou un cube de neige de 3 mètres d’arête. La neige fondue produit un volume d’eau équivalent à 10 % du volume de neige solide. Alternativement, une sorcière de l’hiver peut transformer 150 dm³ (un cube de 53 cm de côté) d’eau en glace. Il faut 1 [round](./round.md) pour que l’eau finisse graduellement de geler, ce qui fait que la sorcière ne peut pas emprisonner une créature de cette manière, sauf si cette dernière est [sans défense](./Sans défense.md). Ce pouvoir n’a aucun effet sur l’eau qui se trouve à l’intérieur des créatures. Un bloc de glace de 30 centimètres d’arête contient environ 28 litres d’eau et pèse près de 30 kilos.
+Au niveau 2, une sorcière de l’hiver est capable de geler l’eau ou de faire fondre la neige d’un simple contact de la main. Ainsi, par une [[action simple]], une sorcière de l’hiver peut faire fondre un cube de glace de 1,50 mètre d’arête ou un cube de neige de 3 mètres d’arête. La neige fondue produit un volume d’eau équivalent à 10 % du volume de neige solide. Alternativement, une sorcière de l’hiver peut transformer 150 dm³ (un cube de 53 cm de côté) d’eau en glace. Il faut 1 [[round]] pour que l’eau finisse graduellement de geler, ce qui fait que la sorcière ne peut pas emprisonner une créature de cette manière, sauf si cette dernière est [[sans défense]]. Ce pouvoir n’a aucun effet sur l’eau qui se trouve à l’intérieur des créatures. Un bloc de glace de 30 centimètres d’arête contient environ 28 litres d’eau et pèse près de 30 kilos.
 
 Ce pouvoir fonctionne aussi bien avec de l’eau de mer que de l’eau douce, mais n’a aucun effet sur : les créatures d’eau ; les liquides (gelés ou non) qui ne sont pas de l’eau ; l’eau, la glace ou la neige d’origine magique. Chaque jour, une sorcière de l’hiver peut utiliser ce pouvoir un nombre de fois égal à la moitié de son niveau de classe.
 
 {s:reference|FROIDANORMAL}
 #### Froid anormal (Sur)
-Au niveau 3, chaque fois qu’une sorcière de l’hiver inflige des dégâts de froid à l’aide d’un sort, d’un [pouvoir magique](./Pouvoirs magiques (capacité).md) ou d’un pouvoir surnaturel, les créatures qui en sont victimes ne prennent en compte que la moitié de leur résistance normale au froid afin de déterminer la quantité de dégâts.
+Au niveau 3, chaque fois qu’une sorcière de l’hiver inflige des dégâts de froid à l’aide d’un sort, d’un [[Pouvoirs magiques (capacité)|pouvoir magique]] ou d’un pouvoir surnaturel, les créatures qui en sont victimes ne prennent en compte que la moitié de leur résistance normale au froid afin de déterminer la quantité de dégâts.
 
 {s:reference|SCULPTUREDEGLACEETDENEIGE}
 #### Sculpture de glace et de neige (Mag)
-Au niveau 4, une sorcière de l’hiver peut sculpter la neige et la glace de manière à leur donner la forme qui lui plaît (comme avec le sort *[façonnage de la pierre](./Façonnage de la pierre.md)*, mais appliqué à la glace). Ce pouvoir fonctionne aussi avec la neige mais, dans ce cas, le volume affecté est deux fois plus important.
+Au niveau 4, une sorcière de l’hiver peut sculpter la neige et la glace de manière à leur donner la forme qui lui plaît (comme avec le sort *[[façonnage de la pierre]]*, mais appliqué à la glace). Ce pouvoir fonctionne aussi avec la neige mais, dans ce cas, le volume affecté est deux fois plus important.
 
-Au niveau 7, ce pouvoir fonctionne sur la glace ou la neige de la même manière que le sort *[fabrication](./Fabrication.md)* et permet de manipuler des volumes plus importants et avec plus de finesse. Une sorcière de l’hiver doit réussir les tests d’[Artisanat](./Artisanat.md) appropriés pour réussir à créer des objets complexes ou très détaillés. Les objets créés grâce à la version de ce pouvoir similaire à *fabrication* se solidifient en glace extrêmement dure ([solidité](./solidité.md) 5, 4 points de résistance par tranche d’un centimètre d’épaisseur) qui résiste à la fonte normale, mais reçoit le double des dégâts du feu. Cette glace conserve sa résistance extrême pendant une heure par niveau de classe avant de redevenir de la glace normale. Chaque jour, une sorcière de l’hiver peut utiliser ce pouvoir un nombre de fois égal à la moitié de son niveau de classe.
+Au niveau 7, ce pouvoir fonctionne sur la glace ou la neige de la même manière que le sort *[[fabrication]]* et permet de manipuler des volumes plus importants et avec plus de finesse. Une sorcière de l’hiver doit réussir les tests d’[[Artisanat]] appropriés pour réussir à créer des objets complexes ou très détaillés. Les objets créés grâce à la version de ce pouvoir similaire à *fabrication* se solidifient en glace extrêmement dure ([[solidité]] 5, 4 points de résistance par tranche d’un centimètre d’épaisseur) qui résiste à la fonte normale, mais reçoit le double des dégâts du feu. Cette glace conserve sa résistance extrême pendant une heure par niveau de classe avant de redevenir de la glace normale. Chaque jour, une sorcière de l’hiver peut utiliser ce pouvoir un nombre de fois égal à la moitié de son niveau de classe.
 
 {s:reference|MALEFICESDELHIVER}
 #### Maléfices de l'hiver
-À partir du niveau 5, lorsqu'une sorcière de l'hiver choisit un [maléfice majeur](./maléfices.md##MALEFICEMAJEUR), elle doit choisir un des maléfices suivants : [tombe de glace](./maléfices.md#Tombedeglace), [couvert de givre](./maléfices.md#Couvertdegivre), ou froid engourdissant (voir ci-dessous). Une fois que la sorcière de l'hiver a choisi les trois maléfices de l'hiver, elle peut choisir n'importe quel maléfice dont elle satisfait les conditions.
-- ***Froid engourdissant (Mur).*** Lorsque la sorcière de l'hiver lance un sort qui inflige des dégâts de froid, elle peut imprégner le sort d'un froid occulte débilitant par une [action rapide](./Action rapide.md). Elle choisit une des cibles de son sort ou une créature dans la zone d'effet du sort. Si cette créature subit des dégâts de froid du sort, elle doit aussi réussir un jet de [Vigueur](./Vigueur.md) ou subir 1d4 points d'[affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de [Dextérité](./Dextérité.md) et être [chancelante](./Chancelant.md) pendant 1 [round](./round.md). La créature ne fait qu'un seul jet de Vigueur par sort, même si le sort fait des dégâts plusieurs fois. Si la créature réussit son jet, elle est immunisée au maléfice pendant 1 jour. C'est un effet de froid.
+À partir du niveau 5, lorsqu'une sorcière de l'hiver choisit un [[maléfices##MALEFICEMAJEUR|maléfice majeur]], elle doit choisir un des maléfices suivants : [[maléfices#Tombedeglace|tombe de glace]], [[maléfices#Couvertdegivre|couvert de givre]], ou froid engourdissant (voir ci-dessous). Une fois que la sorcière de l'hiver a choisi les trois maléfices de l'hiver, elle peut choisir n'importe quel maléfice dont elle satisfait les conditions.
+- ***Froid engourdissant (Mur).*** Lorsque la sorcière de l'hiver lance un sort qui inflige des dégâts de froid, elle peut imprégner le sort d'un froid occulte débilitant par une [[action rapide]]. Elle choisit une des cibles de son sort ou une créature dans la zone d'effet du sort. Si cette créature subit des dégâts de froid du sort, elle doit aussi réussir un jet de [[Vigueur]] ou subir 1d4 points d'[[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de [[Dextérité]] et être [[Chancelant|chancelante]] pendant 1 [[round]]. La créature ne fait qu'un seul jet de Vigueur par sort, même si le sort fait des dégâts plusieurs fois. Si la créature réussit son jet, elle est immunisée au maléfice pendant 1 jour. C'est un effet de froid.
 
 {s:reference|VISIONDUBLIZZARD}
 #### Vision du blizzard (Sur)
@@ -122,12 +122,12 @@ Au niveau 6, une sorcière de l'hiver peut voir normalement dans la pluie, le gr
 
 {s:reference|FROIDSURNATUREL}
 #### Froid surnaturel (Sur)
-Au niveau 8, les sorts, les [pouvoirs magiques](./Pouvoirs magiques (capacité).md) et les capacités surnaturelles d'une sorcière de l'hiver qui infligent des dégâts de froid deviennent effroyablement glacés. La moitié des dégâts de froid infligés par ces effets viennent de puissances d'un autre monde et ne peuvent pas être réduits par des [résistances](./Résistance (capacité).md) ou des [immunités](./Immunité (capacité).md) aux attaques de froid.
+Au niveau 8, les sorts, les [[pouvoirs magiques (capacité)|pouvoirs magiques]] et les capacités surnaturelles d'une sorcière de l'hiver qui infligent des dégâts de froid deviennent effroyablement glacés. La moitié des dégâts de froid infligés par ces effets viennent de puissances d'un autre monde et ne peuvent pas être réduits par des [[Résistance (capacité)|résistances]] ou des [[immunité (capacité)|immunités]] aux attaques de froid.
 
 {s:reference|PATINAGESURGLACE}
 #### Patinage sur glace (Sur)
-Au niveau 10, une sorcière de l'hiver peut se déplacer sans effort à travers la glace ou la neige à sa vitesse de déplacement au sol. Ce mouvement ne laisse aucun trou ou tunnel, et ne laisse aucune trace du passage de la sorcière. Lorsqu'elle patine, une sorcière de l'hiver peut respirer normalement. Un sort de *[contrôle de l'eau](./Contrôle de leau.md)* lancé sur une zone qui contient une sorcière de l'hiver qui patine l'envoie à 9 mètres de distance dans une direction aléatoire, ce qui la rend [étourdie](./États préjudiciables.md#Étourdi) pendant 1 [round](./round.md) sauf si elle réussit un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 15. Une sorcière de l'hiver peut utiliser cette capacité jusqu'à 10 minutes par jour. Ce temps n'a pas à être consécutif, mais doit être dépensé en portions de 1 minute. Activer cette capacité est une [action rapide](./Action rapide.md).
+Au niveau 10, une sorcière de l'hiver peut se déplacer sans effort à travers la glace ou la neige à sa vitesse de déplacement au sol. Ce mouvement ne laisse aucun trou ou tunnel, et ne laisse aucune trace du passage de la sorcière. Lorsqu'elle patine, une sorcière de l'hiver peut respirer normalement. Un sort de *[[contrôle de leau|contrôle de l'eau]]* lancé sur une zone qui contient une sorcière de l'hiver qui patine l'envoie à 9 mètres de distance dans une direction aléatoire, ce qui la rend [[États préjudiciables#Étourdi|étourdie]] pendant 1 [[round]] sauf si elle réussit un jet de [[Vigueur]] [[DD]] 15. Une sorcière de l'hiver peut utiliser cette capacité jusqu'à 10 minutes par jour. Ce temps n'a pas à être consécutif, mais doit être dépensé en portions de 1 minute. Activer cette capacité est une [[action rapide]].
 
 {s:reference|FROIDINEXORABLE}
 #### Froid inexorable (Sur)
-Au niveau 10, une sorcière de l'hiver lance les sorts du [registre](./Registre.md) du froid avec un [NLS](./NLS.md) augmenté de 1. De plus, elle obtient un bonus de +1 aux tests de [niveau de lanceur de sorts](./NLS.md) pour [contrer](./contresort.md), [dissiper](./Dissipation de la magie.md) ou pénétrer la [résistance à la magie](./RM.md) avec ces sorts, et le [DD](./DD.md) pour contrer ou dissiper ces sorts lancés par la sorcière augmente de 1.
+Au niveau 10, une sorcière de l'hiver lance les sorts du [[registre]] du froid avec un [[NLS]] augmenté de 1. De plus, elle obtient un bonus de +1 aux tests de [[NLS|niveau de lanceur de sorts]] pour [[contresort|contrer]], [[dissipation de la magie|dissiper]] ou pénétrer la [[RM|résistance à la magie]] avec ces sorts, et le [[DD]] pour contrer ou dissiper ces sorts lancés par la sorcière augmente de 1.

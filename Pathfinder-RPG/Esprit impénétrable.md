@@ -11,29 +11,29 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8, [Psy](./Psychiste.md) 7, [Sor](./Sorcière.md) 8  
+**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 8  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cible** 1 créature
 **Durée** 24 heures
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Le bénéficiaire d’*esprit impénétrable* est protégé contre tous les sorts et objets qui permettent de recueillir des renseignements à son sujet grâce à la [divination](./Divination.md) comme *[détection du Mal](./Détection du Mal.md)*, *[localisation de créature](./Localisation de créature.md)*, *[scrutation](./scrutation.md)* et *[détection de l’invisibilité](./Détection de linvisibilité.md)*. Ce sort offre aussi un bonus de résistance de +8 aux [jets de sauvegarde](./jet de sauvegarde.md) contre tous les effets et sorts [mentaux](./Registre.md). Ce sort peut même contrer *[souhait](./Souhait.md)*, *[miracle](./Miracle.md)* ou *[souhait limité](./Souhait limité.md)* lorsqu’on les utilise pour obtenir des informations sur le personnage. Si le sort de *[scrutation](./scrutation.md)* affecte une zone plutôt qu’un individu spécifique (c’est le cas de l’*[œil du mage](./Œil du mage.md)* par exemple), il fonctionne normalement mais ne repère pas le personnage protégé. Les tentatives de *[scrutation](./scrutation.md)* qui ciblent directement le sujet échouent purement et simplement.
+Le bénéficiaire d’*esprit impénétrable* est protégé contre tous les sorts et objets qui permettent de recueillir des renseignements à son sujet grâce à la [[divination]] comme *[[détection du Mal]]*, *[[localisation de créature]]*, *[[scrutation]]* et *[[détection de linvisibilité|détection de l’invisibilité]]*. Ce sort offre aussi un bonus de résistance de +8 aux [[jet de sauvegarde|jets de sauvegarde]] contre tous les effets et sorts [[registre|mentaux]]. Ce sort peut même contrer *[[souhait]]*, *[[miracle]]* ou *[[souhait limité]]* lorsqu’on les utilise pour obtenir des informations sur le personnage. Si le sort de *[[scrutation]]* affecte une zone plutôt qu’un individu spécifique (c’est le cas de l’*[[œil du mage]]* par exemple), il fonctionne normalement mais ne repère pas le personnage protégé. Les tentatives de *[[scrutation]]* qui ciblent directement le sujet échouent purement et simplement.
 
 
 
 ((({s:sortssimilaires|esprit impénétrable}
-## [Esprit impénétrable (partagé)](./Esprit impénétrable (partagé).md)
-{s:UC}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 9, [Psy](./Psychiste.md) 8, [Sor](./Sorcière.md) 9  
+## [[Esprit impénétrable (partagé)]]
+{s:UC}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 9  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cible** créatures touchées
 **Durée** 24 heures
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort fonctionne comme *[esprit impénétrable](./Esprit impénétrable.md)* mais la durée se divise entre les créatures touchées, par portions de 1 heure.
+Ce sort fonctionne comme *[[esprit impénétrable]]* mais la durée se divise entre les créatures touchées, par portions de 1 heure.
 )))

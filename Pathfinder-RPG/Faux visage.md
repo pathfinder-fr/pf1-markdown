@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Faux visage|{s:MCA}}
-**Aura** aucune (cf. texte) ; **NLS** 3 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 1 600 po ; **Poids** 0,25 kg
+**Aura** aucune (cf. texte) ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 1 600 po ; **Poids** 0,25 kg
 (((Description)))
-Ce masque de fête tout simple peint à la main ne dégage aucune aura magique. Sa véritable utilité ne se révèle que lorsqu’il est porté. Quand un individu enfile le masque, il prend aussitôt l’apparence d’une créature humanoïde spécifique de taille P ou M. Chaque masque a son propre « visage, » qu’il est impossible de changer une fois que l’objet a été créé. Outre cela, cet effet fonctionne comme *[déguisement](./Déguisement.md)*.
+Ce masque de fête tout simple peint à la main ne dégage aucune aura magique. Sa véritable utilité ne se révèle que lorsqu’il est porté. Quand un individu enfile le masque, il prend aussitôt l’apparence d’une créature humanoïde spécifique de taille P ou M. Chaque masque a son propre « visage, » qu’il est impossible de changer une fois que l’objet a été créé. Outre cela, cet effet fonctionne comme *[[déguisement]]*.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[aura magique](./Aura magique.md)*, *[déguisement](./Déguisement.md)* ; **Coût** 800 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[aura magique]]*, *[[déguisement]]* ; **Coût** 800 po
 </div>

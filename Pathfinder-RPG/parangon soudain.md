@@ -17,23 +17,23 @@ Categories:
 ---
 
 {s:racial|Demi-elfe|demi-elfes|Illustrations/PNJ/Demi-elfe.jpg}{s:MR}
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ;
-**Niveau** [Alch](./Alchimiste.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 4, [Méd](./Médium.md) 3, [Pal](./Paladin.md) 4, [Prê](./Prêtre.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3  
+**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ;
+**Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 4, [[Médium|Méd]] 3, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md) (demi-elfe uniquement)  
+**Portée** [[personnelle]] (demi-elfe uniquement)  
 
 **Cible** lanceur de sort  
 
-**Durée** 1 minute/[niveau](./niveau.md)
+**Durée** 1 minute/[[niveau]]
 
-{s:FAQ|***[→](./FAQ- Manuel des races.md#1) Demi-elfe, *parangon soudain* : Puis-je lancer *parangon soudain* plusieurs fois par jour pour bénéficier d'effets différents ?***
+{s:FAQ|***[[FAQ- Manuel des races#1|→]] Demi-elfe, *parangon soudain* : Puis-je lancer *parangon soudain* plusieurs fois par jour pour bénéficier d'effets différents ?***
 
-Non. La première fois qu'un personnage lance <u>*[parangon soudain](./parangon soudain.md)*</u> chaque jour, il doit choisir un don et prendre toutes les décisions qui vont avec. Une fois ce choix fait, il est figé pour la journée et toutes les autres incantations doivent se baser sur ce choix.}Le personnage déborde temporairement de pouvoir et incarne tous les points forts de ses ancêtres humains et elfiques, pour devenir un parangon des deux races, un être plus accompli qu’un [elfe](./Elfe.md) ou un [humain](./Humain.md) ne peut l’être. Contrairement aux autres effets de métamorphose, celui-ci ne modifie pas la forme générale du personnage qui conserve donc tous ses pouvoirs surnaturels et extraordinaires, ainsi que son équipement.
+Non. La première fois qu'un personnage lance <u>*[[parangon soudain]]*</u> chaque jour, il doit choisir un don et prendre toutes les décisions qui vont avec. Une fois ce choix fait, il est figé pour la journée et toutes les autres incantations doivent se baser sur ce choix.}Le personnage déborde temporairement de pouvoir et incarne tous les points forts de ses ancêtres humains et elfiques, pour devenir un parangon des deux races, un être plus accompli qu’un [[elfe]] ou un [[humain]] ne peut l’être. Contrairement aux autres effets de métamorphose, celui-ci ne modifie pas la forme générale du personnage qui conserve donc tous ses pouvoirs surnaturels et extraordinaires, ainsi que son équipement.
 
-Tant que le sort fait effet, il reçoit un bonus d’altération de +2 à la [Dextérité](./Dextérité.md) et l’[Intelligence](./Intelligence.md) et gagne un [don](./don.md) supplémentaire, au choix, pour lequel il remplit les conditions requises, à choisir au moment de l’incantation.
+Tant que le sort fait effet, il reçoit un bonus d’altération de +2 à la [[Dextérité]] et l’[[Intelligence]] et gagne un [[don]] supplémentaire, au choix, pour lequel il remplit les conditions requises, à choisir au moment de l’incantation.
 
 La première fois que vous lancez ce sort, chaque jour, vous devez choisir le don concerné, ainsi que les choix éventuels qui pourraient en découler. Une fois que ce choix est fait, il est fixé pour la journée et le même choix sera fait en cas de  lancements supplémentaires.

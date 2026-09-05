@@ -10,8 +10,8 @@ Categories:
 
 {s:PU}*Le personnage détruirait le monde s’il le pouvait.*
 
-**Conditions.** 10 [DV](./../Ressources/DV.md), alignement Chaotique Mauvais
+**Conditions.** 10 [[DV]], alignement Chaotique Mauvais
 
-**Avantages.** Le personnage peut stocker un nombre d’[affirmations](./Alignement unchained.md#Glissements_et_affirmations_2) égal à son bonus de [Charisme](./Charisme.md) (1 au minimum) et peut les utiliser quand bon lui semble, et pas seulement dans les vingt-quatre heures qui suivent leur acquisition. Il peut aussi dépenser une affirmation pour qu’un sort, un objet magique ou un autre effet basé sur l’alignement qui l’affecte ne le considère pas comme Chaotique ni Mauvais. Il peut bénéficier de cet avantage après qu’un [jet d’attaque](./jet dattaque.md) lui impose un tel effet ou après avoir raté un [jet de sauvegarde](./JDS.md) contre un tel effet. Enfin, le personnage gagne un bonus de +2 aux dégâts des armes et des sorts contre les créatures Loyales ou Bonnes (ou un bonus de +4 si elles sont Loyales et Bonnes). C’est un effet basé sur l’alignement.
+**Avantages.** Le personnage peut stocker un nombre d’[[Alignement unchained#Glissements_et_affirmations_2|affirmations]] égal à son bonus de [[Charisme]] (1 au minimum) et peut les utiliser quand bon lui semble, et pas seulement dans les vingt-quatre heures qui suivent leur acquisition. Il peut aussi dépenser une affirmation pour qu’un sort, un objet magique ou un autre effet basé sur l’alignement qui l’affecte ne le considère pas comme Chaotique ni Mauvais. Il peut bénéficier de cet avantage après qu’un [[jet dattaque|jet d’attaque]] lui impose un tel effet ou après avoir raté un [[jds|jet de sauvegarde]] contre un tel effet. Enfin, le personnage gagne un bonus de +2 aux dégâts des armes et des sorts contre les créatures Loyales ou Bonnes (ou un bonus de +4 si elles sont Loyales et Bonnes). C’est un effet basé sur l’alignement.
 
 **Résidu.** Si le personnage possède ce don mais n’est plus Chaotique Mauvais, il bénéficie toujours du bonus de +2 aux dégâts des armes et des sorts contre les créatures Loyales ou Bonnes (et de +4 contre les créatures Loyales Bonnes).

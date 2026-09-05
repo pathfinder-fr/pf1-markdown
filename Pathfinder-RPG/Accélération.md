@@ -9,14 +9,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [transmutation](./Transmutation.md) ; **Niveau** [alchimiste](./Alchimiste.md) 2, [barde](./Barde.md) 2, [conjurateur](./Conjurateur.md) 2, [magus](./Magus.md) 2, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 2  
+**École** [[transmutation]] ; **Niveau** [[alchimiste]] 2, [[barde]] 2, [[conjurateur]] 2, [[magus]] 2, [[ensorceleur]]/[[magicien]] 2  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
 
-**Restriction de cible** *[choisi](./Choisi.md)*
+**Restriction de cible** *[[choisi]]*
 
-La cible du sort a une [action de mouvement](./Action de mouvement.md) supplémentaire par tour. Cette action peut avoir lieu avant, après ou entre d’autres actions, mais pas durant une [action complexe](./Action complexe.md).  
+La cible du sort a une [[action de mouvement]] supplémentaire par tour. Cette action peut avoir lieu avant, après ou entre d’autres actions, mais pas durant une [[action complexe]].  
 
-:**Augmentation :** Si elle fait une [action complexe](./Action complexe.md), la cible peut, au lieu de faire une [action de mouvement](./Action de mouvement.md), porter une attaque supplémentaire avec son plus haut bonus d’attaque.
+:**Augmentation :** Si elle fait une [[action complexe]], la cible peut, au lieu de faire une [[action de mouvement]], porter une attaque supplémentaire avec son plus haut bonus d’attaque.

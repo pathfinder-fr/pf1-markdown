@@ -11,14 +11,14 @@ Categories:
 
 {s:uc}*Le personnage peut changer d’école de combat et les combiner pour améliorer leurs effets. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), deux écoles de combat ou plus, [BBA](./BBA.md) +6 ou [moine](./Moine.md) de niveau 5
+**Conditions.** [[Science du combat à mains nues]], deux écoles de combat ou plus, [[BBA]] +6 ou [[moine]] de niveau 5
 
-**Avantage.** Le personnage peut changer d’école par une [action libre](./Action libre.md). Il choisit une école en début de combat et commence l’affrontement avec, même lors du [round de surprise](./round de surprise.md).
+**Avantage.** Le personnage peut changer d’école par une [[action libre]]. Il choisit une école en début de combat et commence l’affrontement avec, même lors du [[round de surprise]].
 
-**Normal.** Il faut dépenser une [action rapide](./Action rapide.md) pour adopter une école ou en changer.
+**Normal.** Il faut dépenser une [[action rapide]] pour adopter une école ou en changer.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 2 points d’endurance en dehors de son tour pour changer d’école par une [action libre](./Action libre.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 2 points d’endurance en dehors de son tour pour changer d’école par une [[action libre]].

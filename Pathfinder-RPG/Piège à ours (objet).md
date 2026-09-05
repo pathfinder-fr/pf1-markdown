@@ -8,13 +8,13 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 po ; **Poids** 5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Bien qu’ils soient destinés à piéger des grands animaux, les pièges à ours fonctionnent tout aussi bien sur les humanoïdes et les monstres. Les mâchoires articulées du piège sont fixées à une chaîne, elle-même maintenue par une pointe plantée dans le sol afin que la victime ne puisse pas prendre la fuite en rampant. Il faut réussir un test de [Force](./Force.md) [DD](./DD.md) 20 pour faire levier sur les mâchoires et les ouvrir ou pour arracher la pointe fichée dans le sol.  
+Bien qu’ils soient destinés à piéger des grands animaux, les pièges à ours fonctionnent tout aussi bien sur les humanoïdes et les monstres. Les mâchoires articulées du piège sont fixées à une chaîne, elle-même maintenue par une pointe plantée dans le sol afin que la victime ne puisse pas prendre la fuite en rampant. Il faut réussir un test de [[Force]] [[DD]] 20 pour faire levier sur les mâchoires et les ouvrir ou pour arracher la pointe fichée dans le sol.  
   
 <div class="BD">  
 {s:BDTitre|Piège à ours|FP 1}
-- **[Type](./Pièges.md#TYPES)** mécanique ; **[Perception](./Perception.md)** [DD](./DD.md) 15 ; **[Sabotage](./Sabotage.md)** [DD](./DD.md) 20(((Effet)))
-- **[Déclencheur](./Pièges.md#DECLENCHEUR)** espace ; **[Remise en place](./Pièges.md#REMISEENPLACE)** manuelle
-- **[Effets](./Pièges.md#EFFETS)** Att +10 corps à corps (2d6+3) ; des mâchoires pointues viennent se refermer autour de la cheville de la créature, réduisant sa vitesse  de base de moitié (ou la maintenant immobile si le piège est fixé à un objet solide) ; la créature peut se libérer en réussissant un test  de [Sabotage](./Sabotage.md) [DD](./DD.md) 20, un test d’[Évasion](./Évasion.md) DD 22 ou un test de [Force](./Force.md) DD 26.  
+- **[[Pièges#TYPES|Type]]** mécanique ; **[[Perception]]** [[DD]] 15 ; **[[Sabotage]]** [[DD]] 20(((Effet)))
+- **[[Pièges#DECLENCHEUR|Déclencheur]]** espace ; **[[Pièges#REMISEENPLACE|Remise en place]]** manuelle
+- **[[Pièges#EFFETS|Effets]]** Att +10 corps à corps (2d6+3) ; des mâchoires pointues viennent se refermer autour de la cheville de la créature, réduisant sa vitesse  de base de moitié (ou la maintenant immobile si le piège est fixé à un objet solide) ; la créature peut se libérer en réussissant un test  de [[Sabotage]] [[DD]] 20, un test d’[[Évasion]] DD 22 ou un test de [[Force]] DD 26.  
 </div>

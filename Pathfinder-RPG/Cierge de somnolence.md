@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Cierge de somnolence|{s:UI}}
-**Aura** [Enchantement](./Enchantement.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 2 500 po ; **Poids** 0,25 kg
+**Aura** [[Enchantement]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 2 500 po ; **Poids** 0,25 kg
 (((Description)))
-{s:cs}Cette simple bougie blanche dégage un agréable arôme de fleurs de lune. Toute créature se trouvant à 3 mètres ou moins de la flamme de la bougie commence à se sentir somnolente et s'endort progressivement. Toutes les 10 minutes, chacune de ces créatures doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 14 ou s'endormir. À chaque test après le premier, la créature subit un malus cumulatif de -2. Même si elle réussit son [jet de sauvegarde](./JDS.md), une créature ne sait pas qu'elle l'a réussi, mais elle peut potentiellement déduire la présence d'un effet soporifique, par exemple si ses alliés commencent à s'endormir. Éteindre la flamme met fin à l'effet magique mais ne réveille pas les créatures endormies. La bougie peut brûler pendant un total de 3 heures ; cette durée n'a pas à être consécutive, mais doit être dépensée par tranches d'une heure. Une fois les 3 heures utilisées, la bougie est détruite.
+{s:cs}Cette simple bougie blanche dégage un agréable arôme de fleurs de lune. Toute créature se trouvant à 3 mètres ou moins de la flamme de la bougie commence à se sentir somnolente et s'endort progressivement. Toutes les 10 minutes, chacune de ces créatures doit réussir un jet de [[Volonté]] [[DD]] 14 ou s'endormir. À chaque test après le premier, la créature subit un malus cumulatif de -2. Même si elle réussit son [[jds|jet de sauvegarde]], une créature ne sait pas qu'elle l'a réussi, mais elle peut potentiellement déduire la présence d'un effet soporifique, par exemple si ses alliés commencent à s'endormir. Éteindre la flamme met fin à l'effet magique mais ne réveille pas les créatures endormies. La bougie peut brûler pendant un total de 3 heures ; cette durée n'a pas à être consécutive, mais doit être dépensée par tranches d'une heure. Une fois les 3 heures utilisées, la bougie est détruite.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[sommeil profond](./Sommeil profond.md)* ; **Coût** 1 250 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[sommeil profond]]* ; **Coût** 1 250 po
 </div>

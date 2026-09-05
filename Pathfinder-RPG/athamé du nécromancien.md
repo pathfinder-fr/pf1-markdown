@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Athamé du nécromancien|{s:APG}{s:AE}}
-**Aura** [Nécromancie](./Nécromancie.md) forte ; **NLS** 11 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 20 000 po ; **Poids** 1 kg
+**Aura** [[Nécromancie]] forte ; **NLS** 11 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 20 000 po ; **Poids** 1 kg
 (((Description)))
-Ce long fémur blafard est aiguisé et sculpté en forme de dague mais il est également creusé de petits trous à intervalles réguliers comme une flûte. Un [nécromancien](./Nécromancie (école).md) qui choisit l’athamé comme [objet fétiche](./Magicien.md#PACTEMAGIQUE) peut l’utiliser pour convertir spontanément n’importe quel sort de [nécromancie](./Nécromancie.md) préparé en un autre sort de [nécromancie](./Nécromancie.md) connu. Ce nouveau sort doit être d’un [niveau](./Niveau de sort.md) égal ou inférieur au sort préparé transformé.
+Ce long fémur blafard est aiguisé et sculpté en forme de dague mais il est également creusé de petits trous à intervalles réguliers comme une flûte. Un [[nécromancie (école)|nécromancien]] qui choisit l’athamé comme [[magicien#PACTEMAGIQUE|objet fétiche]] peut l’utiliser pour convertir spontanément n’importe quel sort de [[nécromancie]] préparé en un autre sort de [[nécromancie]] connu. Ce nouveau sort doit être d’un [[niveau de sort|niveau]] égal ou inférieur au sort préparé transformé.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[création de mort-vivant](./Création de mort-vivant.md)*, le créateur doit être un [nécromancien](./Nécromancie (école).md) ; **Coût** 10 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[création de mort-vivant]]*, le créateur doit être un [[Nécromancie (école)|nécromancien]] ; **Coût** 10 000 po
 </div>

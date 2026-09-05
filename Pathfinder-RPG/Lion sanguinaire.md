@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.202}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 13 (Dex +2, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 60 (8d8+24)}
 {s:BDTexte|**Réf** +8, **Vig** +9, **Vol** +3}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +12 (1d8+7 et [étreinte](./Étreinte.md)), 2 griffes, +13 (1d6+7)}
+{s:BDTexte|**Corps à corps** morsure, +12 (1d8+7 et [[étreinte]]), 2 griffes, +13 (1d6+7)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond.md), [pattes arrière](./Pattes arrière.md) (2 griffes, +13, 1d6+7)}
+{s:BDTexte|**Attaques spéciales** [[bond]], [[pattes arrière]] (2 griffes, +13, 1d6+7)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 15, **Con** 17, **Int** 2, **Sag** 12, **Cha** 10}
-{s:BDTexte|**BBA** +6, **BMO** +14 (+18 [lutte](./lutte.md)), **DMD** 26 (30 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Course](./Course.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11, [Discrétion](./Discrétion.md) +7 (+11 dans les fourrés), [Perception](./Perception.md) +11 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4, [Discrétion](./Discrétion.md) +4 (+8 dans les fourrés)}
+{s:BDTexte|**BBA** +6, **BMO** +14 (+18 [[lutte]]), **DMD** 26 (30 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Course]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11, [[Discrétion]] +7 (+11 dans les fourrés), [[Perception]] +11 ; **Modificateurs raciaux** [[Acrobaties]] +4, [[Discrétion]] +4 (+8 dans les fourrés)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines ou collines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-8)}
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Lion](./Lion.md) || 3
+| [[Lion]] || 3
 |-
-| [Lion sanguinaire](./Lion sanguinaire.md) || 5
+| [[Lion sanguinaire]] || 5
 |}
 </div>*La fourrure de cet immense lion tacheté de la taille d’un homme debout est maculée du sang de ses victimes.*
 
@@ -72,7 +72,7 @@ les chassent dès que
 leur présence est connue.
 
 #### Le lion sanguinaire comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For 13, Dex 17, Con 13, Int 2, Sag 15, Cha 10 ; **Attaque spéciale** [pattes arrière](./Pattes arrière.md) (1d4) ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For 13, Dex 17, Con 13, Int 2, Sag 15, Cha 10 ; **Attaque spéciale** [[pattes arrière]] (1d4) ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8), 2 griffes (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Attaque spéciale** [bond](./Bond.md), [étreinte](./Étreinte.md), [pattes arrière](./Pattes arrière.md) (1d6).
+**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8), 2 griffes (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Attaque spéciale** [[bond]], [[étreinte]], [[pattes arrière]] (1d6).
 </div></td></tr></table>

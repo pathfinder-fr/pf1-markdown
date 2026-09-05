@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.229}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 10, pris au dépourvu 12 (naturelle +4)}
 {s:BDTexte|**pv** 36 (3d10+20)}
 {s:BDTexte|**Réf** +1, **Vig** +1, **Vol** -4}
-{s:BDTexte|**Capacités défensives** [solidité](./solidité.md) 5 (ou plus) ; **Immunités** [traits des créatures artificielles](./Traits des créatures artificielles.md) }
+{s:BDTexte|**Capacités défensives** [[solidité]] 5 (ou plus) ; **Immunités** [[traits des créatures artificielles]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** coup, +5 (1d6+3)}
@@ -33,24 +33,24 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Points de Construction** Les objets animés disposent d'un certain quota de Points de Construction (PC) qu'ils peuvent utiliser pour acheter des capacités et des protections en plus de celles présentées plus haut. Un objet de [taille](./taille.md) M possède 2 PC ; pour les objets de taille différente, voir le tableau ci-dessous. Si un objet animé dépense un nombre de PC supérieur au quota associé à sa catégorie de taille, son FP augmente de +1 par tranche de 2 PC ajoutés (avec un minimum de +1).}
+{s:BDTexte|**Points de Construction** Les objets animés disposent d'un certain quota de Points de Construction (PC) qu'ils peuvent utiliser pour acheter des capacités et des protections en plus de celles présentées plus haut. Un objet de [[taille]] M possède 2 PC ; pour les objets de taille différente, voir le tableau ci-dessous. Si un objet animé dépense un nombre de PC supérieur au quota associé à sa catégorie de taille, son FP augmente de +1 par tranche de 2 PC ajoutés (avec un minimum de +1).}
 {s:BDTexte|:*Attaque supplémentaire (Ext, 1 PC).* Gagne une attaque de coup supplémentaire.}
-{s:BDTexte|:*Constriction (Ext, 1 PC).* Ajoute la capacité de [constriction](./constriction.md) à l'attaque de coup (l'objet doit posséder la capacité d<nowiki>'</nowiki>*étreinte* avant de pouvoir choisir cette option).}
-{s:BDTexte|:*Etreinte (Ext, 1 PC).* Ajoute la capacité d'[étreinte](./Étreinte.md) aux attaques de coup.}
-{s:BDTexte|:*Métal (Ext, 2 PC).* L'objet est fait d'un métal courant. Sa [solidité](./solidité.md) passe à 10 et son bonus d'armure naturelle augmente de +2. Les objets de [mithral](./mithral.md) coûtent 4 PC et ont une [solidité](./solidité.md) de 15 et un accroissement du bonus d'armure naturelle de +4. Les objets d'[adamantium](./../Golarion/adamantium.md) coütent 6 PC et ont une [solidité](./solidité.md) de 20 et un accroissement du bonus d'armure naturelle de +6.}
-{s:BDTexte|:*Mouvement supplémentaire (Ext, 1 PC).* Gagne un nouveau mode de déplacement (creusement, escalade, vol <nowiki>[</nowiki>déplorable</nowiki>]<nowiki> ou nage) avec une vitesse égale à sa vitesse de déplacement de base.}
-{s:BDTexte|:*Pierre (Ext, 1 PC).* L'objet est fait de pierre ou de cristal. Sa [solidité](./solidité.md) passe à 8 et son bonus d'armure naturelle augmente de +1.}
-{s:BDTexte|:*Piétinement (Ext, 2 PC):* Gagne la capacité de [piétinement](./Piétinement.md) (voir la description de la capacité pour les dégâts et les [DD](./DD.md) associés).}
+{s:BDTexte|:*Constriction (Ext, 1 PC).* Ajoute la capacité de [[constriction]] à l'attaque de coup (l'objet doit posséder la capacité d<nowiki>'</nowiki>*étreinte* avant de pouvoir choisir cette option).}
+{s:BDTexte|:*Etreinte (Ext, 1 PC).* Ajoute la capacité d'[[étreinte]] aux attaques de coup.}
+{s:BDTexte|:*Métal (Ext, 2 PC).* L'objet est fait d'un métal courant. Sa [[solidité]] passe à 10 et son bonus d'armure naturelle augmente de +2. Les objets de [[mithral]] coûtent 4 PC et ont une [[solidité]] de 15 et un accroissement du bonus d'armure naturelle de +4. Les objets d'[[adamantium]] coütent 6 PC et ont une [[solidité]] de 20 et un accroissement du bonus d'armure naturelle de +6.}
+{s:BDTexte|:*Mouvement supplémentaire (Ext, 1 PC).* Gagne un nouveau mode de déplacement (creusement, escalade, vol <nowiki>[[</nowiki>déplorable</nowiki>]]<nowiki> ou nage) avec une vitesse égale à sa vitesse de déplacement de base.}
+{s:BDTexte|:*Pierre (Ext, 1 PC).* L'objet est fait de pierre ou de cristal. Sa [[solidité]] passe à 8 et son bonus d'armure naturelle augmente de +1.}
+{s:BDTexte|:*Piétinement (Ext, 2 PC):* Gagne la capacité de [[piétinement]] (voir la description de la capacité pour les dégâts et les [[DD]] associés).}
 {s:BDTexte|:*Plus rapide (Ext, 1 PC).* La vitesse d'un des modes de déplacement augmente de +3 m (2 {s:c}).}
 
 {s:um}
-{s:BDTexte|:*Allonge exceptionnelle (Ext, 1 PC).* L’objet gagne une [allonge](./allonge.md) de 1,50 mètre (1 {s:c}) pour une [attaque au corps à corps](./attaque au corps à corps.md). Augmente l’allonge de toutes les attaques pour 1 PC de plus.}
-{s:BDTexte|*Attaque améliorée (Ext, 1 PC).* Toutes les [attaques à distance](./Attaque à distance.md) et au [corps à corps](./attaque au corps à corps.md) de l’objet animé infligent les mêmes dégâts que s’il était d’une [catégorie de taille](./Caractéristiques des armes.md#TAILLEARME) au-dessus de la sienne. L’artisan doit acheter les pouvoirs d’attaque améliorée séparément pour les armes de corps à corps et les armes à distance.}
-{s:BDTexte|*Attaque à distance (Ext, 2 PC).* Remplace une attaque de coup par une [attaque à distance](./Attaque à distance.md) qui inflige le même montant de dégâts avec une portée de 6 mètres. Remplace toutes les [attaques de corps à corps](./attaque au corps à corps.md) pour 2 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques à distance.}
-{s:BDTexte|*Attaque perforante (Ext, 1PC).* Remplace une attaque de coup par une attaque perforante qui inflige le même montant de dégâts mais possède un multiplicateur de [coup critique](./coup critique.md) de × 3. Remplace toutes les [attaques de corps à corps](./attaque au corps à corps.md) pour 1 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques perforantes.}
-{s:BDTexte|*Attaque tranchante (Ext, 1PC).* Remplace une attaque de coup par une attaque tranchante qui inflige le même montant de dégâts mais possède soit une [zone de critique](./zone de critique.md) possible de 19-20 (pour les attaques de type lame), soit un multiplicateur de [coup critique](./coup critique.md) de × 3 (pour les attaques de type faux). Remplace toutes les [attaques de corps à corps](./attaque au corps à corps.md) pour 1 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques tranchantes.}
-{s:BDTexte|*Critiques augmentés (Ext, 1 PC).* Augmente la [zone de critique](./zone de critique.md) possible des attaques de corps à corps d’un objet animé de 1 ou le multiplicateur de [coup critique](./coup critique.md) de 1. Ce pouvoir ne se cumule pas avec lui-même ni avec les pouvoirs d’attaque d’un objet perforant ou tranchant.}
-{s:BDTexte|*Croc-en-jambe (Ext, 2 PC).* L’objet gagne le pouvoir spécial [croc-en-jambe](./Croc-en-jambe (capacité).md) pour l’une de ses attaques de coup.}
+{s:BDTexte|:*Allonge exceptionnelle (Ext, 1 PC).* L’objet gagne une [[allonge]] de 1,50 mètre (1 {s:c}) pour une [[attaque au corps à corps]]. Augmente l’allonge de toutes les attaques pour 1 PC de plus.}
+{s:BDTexte|*Attaque améliorée (Ext, 1 PC).* Toutes les [[attaque à distance|attaques à distance]] et au [[attaque au corps à corps|corps à corps]] de l’objet animé infligent les mêmes dégâts que s’il était d’une [[Caractéristiques des armes#TAILLEARME|catégorie de taille]] au-dessus de la sienne. L’artisan doit acheter les pouvoirs d’attaque améliorée séparément pour les armes de corps à corps et les armes à distance.}
+{s:BDTexte|*Attaque à distance (Ext, 2 PC).* Remplace une attaque de coup par une [[attaque à distance]] qui inflige le même montant de dégâts avec une portée de 6 mètres. Remplace toutes les [[attaque au corps à corps|attaques de corps à corps]] pour 2 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques à distance.}
+{s:BDTexte|*Attaque perforante (Ext, 1PC).* Remplace une attaque de coup par une attaque perforante qui inflige le même montant de dégâts mais possède un multiplicateur de [[coup critique]] de × 3. Remplace toutes les [[attaque au corps à corps|attaques de corps à corps]] pour 1 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques perforantes.}
+{s:BDTexte|*Attaque tranchante (Ext, 1PC).* Remplace une attaque de coup par une attaque tranchante qui inflige le même montant de dégâts mais possède soit une [[zone de critique]] possible de 19-20 (pour les attaques de type lame), soit un multiplicateur de [[coup critique]] de × 3 (pour les attaques de type faux). Remplace toutes les [[attaque au corps à corps|attaques de corps à corps]] pour 1 PC de plus. Les pouvoirs d’objets qui affectent spécifiquement les attaques de coup ne fonctionnent pas avec les attaques tranchantes.}
+{s:BDTexte|*Critiques augmentés (Ext, 1 PC).* Augmente la [[zone de critique]] possible des attaques de corps à corps d’un objet animé de 1 ou le multiplicateur de [[coup critique]] de 1. Ce pouvoir ne se cumule pas avec lui-même ni avec les pouvoirs d’attaque d’un objet perforant ou tranchant.}
+{s:BDTexte|*Croc-en-jambe (Ext, 2 PC).* L’objet gagne le pouvoir spécial [[croc-en-jambe (capacité)|croc-en-jambe]] pour l’une de ses attaques de coup.}
 
 
 </div>

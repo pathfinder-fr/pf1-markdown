@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armée#SOLDATDINFANTERIE
 ---
 
->>> [Armée#SOLDATDINFANTERIE](./Armée.md#SOLDATDINFANTERIE)
+>>> [[Armée#SOLDATDINFANTERIE]]

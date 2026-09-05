@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Stable
 ---
 
->>> [États préjudiciables#Stable](./États préjudiciables.md#Stable)
+>>> [[États préjudiciables#Stable]]

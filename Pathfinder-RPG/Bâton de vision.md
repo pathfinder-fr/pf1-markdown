@@ -11,15 +11,15 @@ Categories:
 
 <div class="BD">
 {s:APG}{s:BDTitre|Bâton de vision|}
-**Aura** [Divination](./école divination.md) modérée ; **NLS** 11 ; **Emplacement** aucun ([bâton](./Bâtons magiques.md)) ; **Prix** 86 666 po ; **Poids** 2,5 kg
+**Aura** [[école divination|Divination]] modérée ; **NLS** 11 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 86 666 po ; **Poids** 2,5 kg
 (((Description)))
 Une lentille de cristal translucide surmonte ce bâton en laiton recouvert d'une peau écailleuse. Il permet de lancer les sorts suivants :
-• *[détection de l'invisibilité](./Détection de linvisibilité.md)* (1 charge)
-• *[œil du mage](./Œil du mage.md)* (1 charge)
-• *[œil indiscret](./Œil indiscret.md)* (2 charges)
-• *[scrutation](./scrutation.md)* (2 charges)
-• *[vision lucide](./Vision lucide.md)* (3 charges)
-• *[vision magique](./Vision magique.md)* (1 charge)
+• *[[détection de linvisibilité|détection de l'invisibilité]]* (1 charge)
+• *[[œil du mage]]* (1 charge)
+• *[[œil indiscret]]* (2 charges)
+• *[[scrutation]]* (2 charges)
+• *[[vision lucide]]* (3 charges)
+• *[[vision magique]]* (1 charge)
 (((Création)))
-**Conditions** [Création de bâtons magiques](./Création de bâtons magiques.md), *[détection de l'invisibilité](./Détection de linvisibilité.md)*, *[œil du mage](./Œil du mage.md)*, *[œil indiscret](./Œil indiscret.md)*, *[scrutation](./scrutation.md)*, *[vision lucide](./Vision lucide.md)*, *[vision magique](./Vision magique.md)* ; **Coût** 45 416 po
+**Conditions** [[Création de bâtons magiques]], *[[détection de linvisibilité|détection de l'invisibilité]]*, *[[œil du mage]]*, *[[œil indiscret]]*, *[[scrutation]]*, *[[vision lucide]]*, *[[vision magique]]* ; **Coût** 45 416 po
 </div>

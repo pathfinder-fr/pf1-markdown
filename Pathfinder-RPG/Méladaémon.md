@@ -14,40 +14,40 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.79*}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, NM}
-{s:BDTexte|**Init** +6 ; **Sens** *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +20}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille G, NM}
+{s:BDTexte|**Init** +6 ; **Sens** *[[détection de la magie]]*, *[[détection du Bien]]*, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +20}
 {s:BDTexte|**Aura** de faim 6 m (4 {s:c})}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 15, pris au dépourvu 19 (Dex +6, naturelle +10, taille -1)}
 {s:BDTexte|**pv** 147 (14d10+70)}
 {s:BDTexte|**Réf** +15, **Vig** +11, **Vol** +14}
-{s:BDTexte|**Immunités** acide, [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE), critiques, effets de mort, maladie, poison ; **RD** 10/Bien ; **Résistances** électricité 10, feu 10, froid 10 ; **RM** 22}
+{s:BDTexte|**Immunités** acide, [[roublard#ATTAQUESOURNOISE|attaque sournoise]], critiques, effets de mort, maladie, poison ; **RD** 10/Bien ; **Résistances** électricité 10, feu 10, froid 10 ; **RM** 22}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 18 m (12 {s:c}) (moyenne)}
 {s:BDTexte|**Corps à corps** morsure, +20 (2d8+6/19–20 plus maladie) et 2 griffes, +19 (2d6+6 plus faim)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Pouvoirs magiques** (NLS 11 ; concentration +15)}
-{s:BDSorts|Constant — *[détection de la magie](./Détection de la magie.md)*, *[détection de l’invisibilité](./Détection de linvisibilité.md)*, *[détection du Bien](./Détection du Bien.md)*}
-{s:BDSorts|À volonté — *[téléportation suprême](./Téléportation suprême.md)* (personnel et 25 kg d’objets uniquement), *[ténèbres profondes](./Ténèbres profondes.md)*, *[frayeur](./Frayeur.md)* (DD 15)}
-{s:BDSorts|3/jour — *[flétrissement végétal](./Flétrissement végétal.md)* (DD 19), *[projectile magique](./Projectile magique.md)* en incantation rapide, *[rabougrissement des plantes](./Rabougrissement des plantes.md)*}
-{s:BDSorts|1/jour — *[flétrissure](./Flétrissure.md)* (DD 22), *[vagues de fatigue](./Vagues de fatigue.md)*}
+{s:BDSorts|Constant — *[[détection de la magie]]*, *[[détection de linvisibilité|détection de l’invisibilité]]*, *[[détection du Bien]]*}
+{s:BDSorts|À volonté — *[[téléportation suprême]]* (personnel et 25 kg d’objets uniquement), *[[ténèbres profondes]]*, *[[frayeur]]* (DD 15)}
+{s:BDSorts|3/jour — *[[flétrissement végétal]]* (DD 19), *[[projectile magique]]* en incantation rapide, *[[rabougrissement des plantes]]*}
+{s:BDSorts|1/jour — *[[flétrissure]]* (DD 22), *[[vagues de fatigue]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 22, **Con** 21, **Int** 21, **Sag** 17, **Cha** 18}
 {s:BDTexte|**BBA** +14, **BMO** +21, **DMD** 37}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (*[projectile magique](./Projectile magique.md)*), [Science du critique](./Science du critique.md) (morsure), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +22, [Bluff](./Bluff.md) +21, [Connaissances](./Connaissances.md) (plans) +22, [Connaissances](./Connaissances.md) (religion) +22, [Discrétion](./Discrétion.md) +19, [Intimidation](./Intimidation.md) +21, [Perception](./Perception.md) +20, [Premiers secours](./Premiers secours.md) +11, [Psychologie](./Psychologie.md) +20, [Survie](./Survie.md) +20, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +14, [Vol](./Vol.md) +17}
-{s:BDTexte|**Langues** abyssal, draconique, infernal ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaques réflexes]], [[Combat en aveugle]], [[Pouvoir magique rapide]] (*[[projectile magique]]*), [[Science du critique]] (morsure), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +22, [[Bluff]] +21, [[Connaissances]] (plans) +22, [[Connaissances]] (religion) +22, [[Discrétion]] +19, [[Intimidation]] +21, [[Perception]] +20, [[Premiers secours]] +11, [[Psychologie]] +20, [[Survie]] +20, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +14, [[Vol]] +17}
+{s:BDTexte|**Langues** abyssal, draconique, infernal ; [[télépathie]] 30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abaddon)}
 {s:BDTexte|**Organisation sociale** solitaire, meute (2–5) ou kabbale (6–12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs Spéciaux}
-{s:BDTexte|**Aura de faim (Sur).** Un méladaémon possède une aura de faim qui s’étend sur un rayon de 6 mètres. Chaque fois qu’une créature commence son tour dans la zone de cette aura, elle doit réussir un jet de Vigueur contre un DD de 22 pour ne pas subir 1d6 points de dégâts non létaux et de devenir [fatiguée](./Fatigué.md) à cause d’une faim extrême. Les créatures qui n’ont pas besoin de manger sont immunisées contre cet effet. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|**Aura de faim (Sur).** Un méladaémon possède une aura de faim qui s’étend sur un rayon de 6 mètres. Chaque fois qu’une créature commence son tour dans la zone de cette aura, elle doit réussir un jet de Vigueur contre un DD de 22 pour ne pas subir 1d6 points de dégâts non létaux et de devenir [[fatigué|fatiguée]] à cause d’une faim extrême. Les créatures qui n’ont pas besoin de manger sont immunisées contre cet effet. Le DD du jet de sauvegarde dépend de la Constitution.}
 {s:BDTexte|**Faim (Sur).** Les attaques de griffe d’un méladaémon infligent 1d6 points supplémentaires de dégâts non létaux car elles causent de soudains pics de faim chez les victimes. Les créatures qui n’ont pas besoin de manger sont immunisées contre cet effet.}
-{s:BDTexte|**Maladie (Sur).** *Flétrissement daémonique* : Morsure — blessure ; *JdS* Vigueur DD 22 ; *incubation* 1 jour ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 Con et 1d4 Cha ; *guérison* 2 réussites consécutives. Le DD dépend de le Constitution.}
+{s:BDTexte|**Maladie (Sur).** *Flétrissement daémonique* : Morsure — blessure ; *JdS* Vigueur DD 22 ; *incubation* 1 jour ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d4 Con et 1d4 Cha ; *guérison* 2 réussites consécutives. Le DD dépend de le Constitution.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 *Cette vile créature ressemble à un humanoïde émacié avec une tête de chacal.*
 
 En tant qu’incarnations de la mort causée par la faim ou la soif,

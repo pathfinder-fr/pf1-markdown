@@ -11,19 +11,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [Enchantement](./Enchantement.md) <nowiki>[</nowiki>[émotion](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 3, [Bard](./Barde.md) 4, [Hyp](./Hypnotiseur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Psy](./Psychiste.md) 5  
+**École** [[Enchantement]] <nowiki>[</nowiki>[[registre|émotion]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 3, [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Psychiste|Psy]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (crachat)  
+**Composantes** [[Composantes|V, G, M]] (crachat)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature   
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE); **Résistance à la magie** oui  
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]; **Résistance à la magie** oui  
 
 
 Le personnage emplit le coeur de la cible de méchanceté envers les autres créatures. L'attitude de la cible envers autrui empire de deux crans.

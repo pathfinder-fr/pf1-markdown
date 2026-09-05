@@ -10,14 +10,14 @@ Categories:
 
 *Les critiques du personnage épuisent son adversaire.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT), [critique](./Dons.md#DONCRITIQUE)
+**Catégorie** : [[Dons#DONCOMBAT|combat]], [[Dons#DONCRITIQUE|critique]]
 
-**Conditions.** [Critique fatigant](./Critique fatigant.md), [Don pour les critiques](./Don pour les critiques.md), [bonus de base à l’attaque](./BBA.md) +15.
+**Conditions.** [[Critique fatigant]], [[Don pour les critiques]], [[BBA|bonus de base à l’attaque]] +15.
 
-**Avantage.** Quand le personnage inflige un [coup critique](./coup critique.md) à un adversaire, ce dernier est [épuisé](./Épuisé.md). Ce don n’a aucun effet sur une cible déjà [épuisée](./Épuisé.md).
+**Avantage.** Quand le personnage inflige un [[coup critique]] à un adversaire, ce dernier est [[épuisé]]. Ce don n’a aucun effet sur une cible déjà [[épuisé|épuisée]].
 
-**Spécial.** Le personnage applique un seul effet de critique à chacun de ses [coups critiques](./coup critique.md), à moins qu’il dispose de la [Maîtrise du critique](./Maîtrise du critique.md).
+**Spécial.** Le personnage applique un seul effet de critique à chacun de ses [[coup critique|coups critiques]], à moins qu’il dispose de la [[Maîtrise du critique]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage réussit un [critique potentiel](./coup critique.md) contre une cible [épuisée](./Épuisé.md) et décide de lui administrer un Critique épuisant, il peut dépenser jusqu’à 5 points d’endurance pour gagner un bonus de +2 par point dépensé au jet de confirmation du critique.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage réussit un [[coup critique|critique potentiel]] contre une cible [[épuisé|épuisée]] et décide de lui administrer un Critique épuisant, il peut dépenser jusqu’à 5 points d’endurance pour gagner un bonus de +2 par point dépensé au jet de confirmation du critique.

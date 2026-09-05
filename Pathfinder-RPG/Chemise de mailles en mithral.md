@@ -8,7 +8,7 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Chemise de mailles en mithral|{s:AE}}
-**Aura** aucune (non-magique) ; **NLS** — ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 1 100 po ; **Poids** 5 kg
+**Aura** aucune (non-magique) ; **NLS** — ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Prix** 1 100 po ; **Poids** 5 kg
 (((Description)))
-Cette chemise de mailles extrêmement légère est composée de fins anneaux de [mithral](./Matériaux spéciaux.md#MITHRAL). Le risque d’échec des sorts profanes de l’armure est de 10%, son bonus de [Dex](./Dextérité.md) maximal est de +6 et elle n’a aucun malus d’armure aux tests. La chemise de mailles en [mithral](./Matériaux spéciaux.md#MITHRAL) est considéré comme une [armure légère](./armure légère.md).
+Cette chemise de mailles extrêmement légère est composée de fins anneaux de [[Matériaux spéciaux#MITHRAL|mithral]]. Le risque d’échec des sorts profanes de l’armure est de 10%, son bonus de [[Dextérité|Dex]] maximal est de +6 et elle n’a aucun malus d’armure aux tests. La chemise de mailles en [[Matériaux spéciaux#MITHRAL|mithral]] est considéré comme une [[armure légère]].
 </div>

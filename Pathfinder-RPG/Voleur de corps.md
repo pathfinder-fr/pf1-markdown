@@ -10,7 +10,7 @@ LastModified: 2018-11-08 21:20
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 282*}
 - 38 400 PX
-- [Plante](./type Plante.md) de taille Gig, LM
+- [[type plante|Plante]] de taille Gig, LM
 - **Init **-1 ; **Sens **vision nocturne, Perception +30
 (((Défense)))
 - **CA **26, contact 1, pris au dépourvu 25 (Dex -5, naturelle +25, taille -4)
@@ -25,8 +25,8 @@ LastModified: 2018-11-08 21:20
 (((Statistiques)))
 - **For **34, **Dex **1, **Con **25, **Int **21, **Sag **16, **Cha **14
 - **BBA **+15 ; **BMO **+31 (+35 désarmement, +35 lutte, +33 croc-en-jambe) ; **DMD **38 (40 contre désarmement, croc-en-jambe impossible)
-- **Dons **[Attaques multiples](./Attaques multiples.md), [Désarmement supérieur](./Désarmement supérieur.md), [Expertise du combat](./Expertise du combat.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science de l’initiative](./Science de linitiative.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Science du désarmement](./Science du désarmement.md), [Talent](./Talent.md) (Connaissances (nature)), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Connaissances](./Connaissances.md) (géographie, histoire, folklore local, noblesse) +20, [Connaissances](./Connaissances.md)(nature) +31, [Déguisement](./Déguisement.md) +27, [Perception](./Perception.md) +30, [Psychologie](./Psychologie.md) +27 ; Modificateurs raciaux +5 en Déguisement
+- **Dons **[[Attaques multiples]], [[Désarmement supérieur]], [[Expertise du combat]], [[Science de la volonté de fer]], [[science de linitiative|Science de l’initiative]], [[Science du croc-en-jambe]], [[Science du désarmement]], [[Talent]] (Connaissances (nature)), [[Vigilance]], [[Volonté de fer]]
+- **Compétences **[[Connaissances]] (géographie, histoire, folklore local, noblesse) +20, [[Connaissances]](nature) +31, [[Déguisement]] +27, [[Perception]] +30, [[Psychologie]] +27 ; Modificateurs raciaux +5 en Déguisement
 - **Langues **commun, elfe, nain, orque, sylvestre (ne peut pas parler) ; télépathie 300 m (avec ses rejetons uniquement)
 - **Particularités **rejeton de la cosse
 (((Écologie)))

@@ -4,9 +4,9 @@ Title: Forgeron mental
 LastModified: 2022-05-31 17:20
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 *Classe provenant du livre Dark Archives.*  

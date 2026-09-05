@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}**Prix** 1 pa ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Un cornet à feu est un contenant conique fabriqué avec du bois et du cuir épais et isolant. Il est conçu pour conserver une braise ardente sous une couche de cendres. Un cornet à feu peut maintenir une braise ardente pendant 24 heures et permettre à quiconque d’allumer un feu dans des conditions normales sans avoir recours aux tests de [Survie](./Survie.md) ou aux objets alchimiques ou magiques.
+Un cornet à feu est un contenant conique fabriqué avec du bois et du cuir épais et isolant. Il est conçu pour conserver une braise ardente sous une couche de cendres. Un cornet à feu peut maintenir une braise ardente pendant 24 heures et permettre à quiconque d’allumer un feu dans des conditions normales sans avoir recours aux tests de [[Survie]] ou aux objets alchimiques ou magiques.

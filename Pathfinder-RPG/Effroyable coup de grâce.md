@@ -11,8 +11,8 @@ Categories:
 
 {s:ISG}{s:GeM}*Lorsque le personnage tue un adversaire, il effraie ses ennemis.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Force intimidante](./Force intimidante.md), suivant de [Lamashtu](./Lamashtu (technique).md)
+**Conditions.** [[Force intimidante]], suivant de [[Lamashtu (technique)|Lamashtu]]
 
-**Avantage.** En amenant un adversaire à 0 [point de vie](./pv.md) ou en-dessous, il bénéficie pour le reste du combat d’un bonus de +4 aux tests d’[Intimidation](./Intimidation.md) effectué afin de démoraliser les ennemis qui sont en mesure de le voir lui et l'adversaire qu'il a neutralisé.
+**Avantage.** En amenant un adversaire à 0 [[pv|point de vie]] ou en-dessous, il bénéficie pour le reste du combat d’un bonus de +4 aux tests d’[[Intimidation]] effectué afin de démoraliser les ennemis qui sont en mesure de le voir lui et l'adversaire qu'il a neutralisé.

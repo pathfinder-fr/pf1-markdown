@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Élixir de discrétion instinctive|{s:AE}}
-**Aura** [Illusion](./Illusion.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 250 po ; **Poids** —
+**Aura** [[Illusion]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 250 po ; **Poids** —
 (((Description)))
-Un personnage buvant cette potion trouve instinctivement les meilleurs endroits pour se cacher (bonus de compétence de +10 en [Discrétion](./Discrétion.md) pendant une heure).
+Un personnage buvant cette potion trouve instinctivement les meilleurs endroits pour se cacher (bonus de compétence de +10 en [[Discrétion]] pendant une heure).
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[invisibilité](./Invisibilité.md)* ; **Coût** 125 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[invisibilité]]* ; **Coût** 125 po
 </div>

@@ -10,8 +10,8 @@ LastModified: 2026-08-02 14:54
 {s:pucem|Animal|Forêt-Jungle|Tempéré|Tropical}
 {s:BDTexte|*Source : Ultimate Wilderness*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 1(Dex +2, taille +1)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -23,8 +23,8 @@ LastModified: 2026-08-02 14:54
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 14, **Con** 11, **Int** 2, **Sag** 10, **Cha** 4}
 {s:BDTexte|**BBA** +0, **BMO** -2, **DMD** 10}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Acrobaties](./Acrobaties.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +5, [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Talent]] ([[Acrobaties]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +5, [[Perception]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Forêts chaudes et tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, paire, ou groupe (3-10)}

@@ -10,11 +10,11 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Ensorceleur au sang de feu|FP 6}
-{s:BDTexte|*Source : [Manuel des PNJ p. 164](./Manuel des PNJ (Contenu).md)*}
+{s:BDTexte|*Source : [[Manuel des PNJ (contenu)|Manuel des PNJ p. 164]]*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Demi-orque](./Demi-orque.md) [ensorceleur](./Ensorceleur.md) 7}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md), [orque](./sous-type orque.md)) de taille M, NM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[Demi-orque]] [[Ensorceleur]] 7}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type orque|orque]]) de taille M, NM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 12, pris au dépourvu 16 (armure +4, Dex +1, naturelle +1, parade +1)}
 {s:BDTexte|**pv** 60 (7d6+33)}
@@ -24,14 +24,14 @@ Categories:
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** cimeterre à deux mains de maître, +7 (2d4+4/18–20)}
 {s:BDTexte|**Distance** arbalète lourde de maître, +5 (1d10/19–20)}
-{s:BDTexte|**Pouvoirs magiques**  ([NLS](./NLS.md) 7 ; [concentration](./concentration.md) +10)}
-{s:BDSorts|6/jour — [rayon élémentaire](./lignage Élémentaire.md) (1d6+3 feu)}
-{s:BDTexte|**Sorts d'ensorceleur connus**  ([NLS](./NLS.md) 7 ; [concentration](./concentration.md) +10)}
-{s:BDSorts|3e (5/jour) — *[boule de feu](./Boule de feu.md)* (DD 17), *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*, *[rapidité](./Rapidité.md)*}
-{s:BDSorts|2e (7/jour) — *[flou](./Flou.md)*, *[poussière scintillante](./Poussière scintillante.md)* (DD 15), *[rayon ardent](./Rayon ardent.md)*, *[simulacre de vie](./Simulacre de vie.md)*}
-{s:BDSorts|1er (7/jour) — *[arme magique](./Arme magique.md)*, *[armure de mage](./Armure de mage.md)*, *[bouclier](./Bouclier.md)*, *[mains brûlantes](./Mains brûlantes.md)* (DD 15), *[projectile magique](./Projectile magique.md)*, *[rayon affaiblissant](./Rayon affaiblissant.md)* (DD 14)}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[illumination](./Illumination.md)* (DD 14), *[lecture de la magie](./Lecture de la magie.md)*, *[lumière](./Lumière.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[rayon de givre](./Rayon de givre.md)* (fire), *[saignement](./sort Saignement.md)* (DD 13)}
-{s:BDSorts|**Lignage** [élémentaire](./lignage Élémentaire.md) (Feu)}
+{s:BDTexte|**Pouvoirs magiques**  ([[NLS]] 7 ; [[concentration]] +10)}
+{s:BDSorts|6/jour — [[Lignage Élémentaire|rayon élémentaire]] (1d6+3 feu)}
+{s:BDTexte|**Sorts d'ensorceleur connus**  ([[NLS]] 7 ; [[concentration]] +10)}
+{s:BDSorts|3e (5/jour) — *[[boule de feu]]* (DD 17), *[[protection contre les énergies destructives]]*, *[[rapidité]]*}
+{s:BDSorts|2e (7/jour) — *[[flou]]*, *[[poussière scintillante]]* (DD 15), *[[rayon ardent]]*, *[[simulacre de vie]]*}
+{s:BDSorts|1er (7/jour) — *[[arme magique]]*, *[[armure de mage]]*, *[[bouclier]]*, *[[mains brûlantes]]* (DD 15), *[[projectile magique]]*, *[[rayon affaiblissant]]* (DD 14)}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[illumination]]* (DD 14), *[[lecture de la magie]]*, *[[lumière]]*, *[[lumières dansantes]]*, *[[rayon de givre]]* (fire), *[[sort Saignement|saignement]]* (DD 13)}
+{s:BDSorts|**Lignage** [[Lignage Élémentaire|élémentaire]] (Feu)}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Avant le combat.** L’ensorceleur lance *simulacre de vie* et *armure de mage*.}
 {s:BDTexte|**Pendant le combat.** L’ensorceleur lance *rapidité* avant d’attaquer ses ennemis avec *boule de feu* ou *rayon ardent*. Au corps à corps, il lance *bouclier* sur lui-même et *arme magique* sur son cimeterre à deux mains.}
@@ -39,11 +39,11 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 16, **Dex** 12, **Con** 13, **Int** 8, **Sag** 10, **Cha** 16}
 {s:BDTexte|**BBA** +3 ; **BMO** +6 ; **DMD** 18}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [École renforcée](./École renforcée.md) (évocation), [Magie de guerre](./Magie de guerre.md), [Robustesse](./Robustesse.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +4, [Connaissances](./Connaissances.md) (mystères) +3, [Intimidation](./Intimidation.md) +11, [Linguistique](./Linguistique.md) +0, [Perception](./Perception.md) +7}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Dispense de composantes matérielles]], [[École renforcée]] (évocation), [[Magie de guerre]], [[Robustesse]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +4, [[Connaissances]] (mystères) +3, [[Intimidation]] +11, [[Linguistique]] +0, [[Perception]] +7}
 {s:BDTexte|**Langues** commun, igneux, orque}
-{s:BDTexte|**Particularités** [arcane de lignage](./Ensorceleur.md#LIGNAGE) (change les dégâts élémentaires des sorts en feu), armes familières, sang orque}
-{s:BDTexte|**Équipement de combat** *[parchemin](./Parchemins magiques.md) de [vol](./sort Vol.md)* (2), *[potion](./Potions magiques.md) de [soins modérés](./Soins modérés.md)* ; **Équipement divers** [arbalète lourde](./Arbalète lourde (arme).md) [de maître](./arme de maître.md) avec 10 [carreaux](./Carreaux darbalète (arme).md), [cimeterre à deux mains](./cimeterre à deux mains (arme).md) [de maître](./arme de maître.md), *[amulette d'armure naturelle +1](./Amulette darmure naturelle.md)*, *[anneau de protection +1](./Anneau de protection.md)*, 225 po}
+{s:BDTexte|**Particularités** [[Ensorceleur#LIGNAGE|arcane de lignage]] (change les dégâts élémentaires des sorts en feu), armes familières, sang orque}
+{s:BDTexte|**Équipement de combat** *[[Parchemins magiques|parchemin]] de [[sort Vol|vol]]* (2), *[[Potions magiques|potion]] de [[soins modérés]]* ; **Équipement divers** [[arbalète lourde (arme)|arbalète lourde]] [[arme de maître|de maître]] avec 10 [[Carreaux darbalète (arme)|carreaux]], [[cimeterre à deux mains (arme)|cimeterre à deux mains]] [[arme de maître|de maître]], *[[amulette darmure naturelle|amulette d'armure naturelle +1]]*, *[[anneau de protection|anneau de protection +1]]*, 225 po}
 </div></td>
 <td><div>L’ensorceleur au sang de feu calcine ses ennemis avec ses flammes et stimule ses alliés grâce à sa férocité ardente.
 

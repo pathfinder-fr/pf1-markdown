@@ -8,8 +8,8 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Voir la règle sur les [points héroïques](./../Pathfinder-RPG/Points héroïques.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Voir la règle sur les [[pathfinder-rpg.Points héroïques|points héroïques]]</ul>
 </div>
 {br}
 <nav class="wiki-toc"></nav>

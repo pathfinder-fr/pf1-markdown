@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 50 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
-Ces oeufs de poissons translucides et salés sont un mets raffiné. On les mange généralement sur des biscuits, des œufs à la coque, du pain, des pâtisseries ou des légumes. Le caviar se conserve mal et on en trouve rarement en dehors des régions côtières où les œufs sont récoltés. Les puristes considèrent les seuls œufs d’esturgeon comme du vrai caviar mais les autres en ont une définition plus large dans laquelle ils incluent les œufs de saumon, de truite et de corégone. Dans certains pays, les œufs de poissons exotiques plus gros et de créatures marines (comme le [chuul](./Chuul.md), le [gar géant](./Gar géant.md) et la [griffe du récif](./Griffe du récif.md)) sont consommés comme caviar mais à des prix bien plus élevés.
+Ces oeufs de poissons translucides et salés sont un mets raffiné. On les mange généralement sur des biscuits, des œufs à la coque, du pain, des pâtisseries ou des légumes. Le caviar se conserve mal et on en trouve rarement en dehors des régions côtières où les œufs sont récoltés. Les puristes considèrent les seuls œufs d’esturgeon comme du vrai caviar mais les autres en ont une définition plus large dans laquelle ils incluent les œufs de saumon, de truite et de corégone. Dans certains pays, les œufs de poissons exotiques plus gros et de créatures marines (comme le [[Chuul]], le [[Gar géant]] et la [[Griffe du récif]]) sont consommés comme caviar mais à des prix bien plus élevés.

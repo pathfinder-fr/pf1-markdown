@@ -10,6 +10,6 @@ Categories:
 
 *Le feu n’aveugle plus l’ifrit et la fumée ne lui cache pas la vue.*
 
-**Condition.** [Ifrit](./Ifrit (race).md).
+**Condition.** [[ifrit (race)|Ifrit]].
 
-**Avantage.** L’ifrit peut voir à travers le feu et la fumée sans malus, ignorant tous les bonus de [camouflage](./camouflage.md) ou d’[abri](./abri.md) qu’offrent le feu et la fumée. Cela ne lui permet pas de voir ce qu’il ne peut normalement pas voir (par exemple, les créatures invisibles restent invisibles). Il est immunisé à l’état préjudiciable [ébloui](./Ébloui.md)11.
+**Avantage.** L’ifrit peut voir à travers le feu et la fumée sans malus, ignorant tous les bonus de [[camouflage]] ou d’[[abri]] qu’offrent le feu et la fumée. Cela ne lui permet pas de voir ce qu’il ne peut normalement pas voir (par exemple, les créatures invisibles restent invisibles). Il est immunisé à l’état préjudiciable [[ébloui]]11.

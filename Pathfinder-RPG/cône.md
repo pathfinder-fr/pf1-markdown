@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#DEFCONE
 ---
 
->>> [Présentation des sorts#DEFCONE](./Présentation des sorts.md#DEFCONE)
+>>> [[Présentation des sorts#DEFCONE]]

@@ -11,24 +11,24 @@ Categories:
 <div class="BD">
 {s:BDTitre|Goule de Leng|FP 10}
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.142](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.142]]*}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +20}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +20}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 17, pris au dépourvu 18 (Dex +7, naturelle +8)}
 {s:BDTexte|**pv** 126 (12d8+72)}
 {s:BDTexte|**Réf** +11, **Vig** +10, **Vol** +13}
-{s:BDTexte|**Capacités défensives** [résistance à la canalisation](./Résistance à la canalisation (capacité).md) +4 ; **Immunités** froid, [traits des morts-vivants](./Traits des morts-vivants (capacité).md)}
+{s:BDTexte|**Capacités défensives** [[Résistance à la canalisation (capacité)|résistance à la canalisation]] +4 ; **Immunités** froid, [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m, creusement 9 m, escalade 9 m}
-{s:BDTexte|**Corps à corps** morsure, +16 (1d8+7 plus maladie et [paralysie](./Paralysie (capacité).md)) et 2 griffes, +17 (1d6+7 plus [paralysie](./Paralysie (capacité).md))}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +2d6, [éventration](./Éventration (capacité).md) (2 griffes, 1d6+10)}
+{s:BDTexte|**Corps à corps** morsure, +16 (1d8+7 plus maladie et [[Paralysie (capacité)|paralysie]]) et 2 griffes, +17 (1d6+7 plus [[Paralysie (capacité)|paralysie]])}
+{s:BDTexte|**Attaques spéciales** [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +2d6, [[Éventration (capacité)|éventration]] (2 griffes, 1d6+10)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 24, **Con** —, **Int** 17, **Sag** 20, **Cha** 23}
-{s:BDTexte|**BBA** +9 ; **BMO** +16 (+18 en [croc-en-jambe](./croc-en-jambe.md)) ; **DMD** 33 (35 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffes), [Attaques réflexes](./Attaques réflexes.md), [Expertise du combat](./Expertise du combat.md), [Fente](./Fente.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Science de la feinte](./Science de la feinte.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +19, [Connaissances](./Connaissances.md) (exploration souterraine, mystères, plans, religion) +12, [Discrétion](./Discrétion.md) +22, [Escalade](./Escalade.md) +30, [Perception](./Perception.md) +20, [Psychologie](./Psychologie.md) +20}
+{s:BDTexte|**BBA** +9 ; **BMO** +16 (+18 en [[croc-en-jambe]]) ; **DMD** 33 (35 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffes), [[Attaques réflexes]], [[Expertise du combat]], [[Fente]], [[Science du croc-en-jambe]], [[Science de la feinte]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +19, [[Connaissances]] (exploration souterraine, mystères, plans, religion) +12, [[Discrétion]] +22, [[Escalade]] +30, [[Perception]] +20, [[Psychologie]] +20}
 {s:BDTexte|**Langues** aklo, commun}
 {s:BDTexte|**Particularités** érudit}
 {s:BDSousTitre|Écologie}
@@ -36,9 +36,9 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, couple ou culte (3-8)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Érudit (Ext).** Toutes les compétences de [Connaissances](./Connaissances.md) sont des compétences de classe pour les goules de Leng. De plus, une goule de Leng peut lancer des sorts inscrits sur des [parchemins magiques](./Parchemins magiques.md) comme s’ils étaient dans sa liste de sorts. Elle réussit automatiquement le test de [niveau de lanceur de sorts](./NLS.md) nécessaire pour utiliser le parchemin.}
-{s:BDTexte|**Maladie (Ext).** *Fièvre des goules de Leng :* Morsure — blessure ; *JdS* [Vigueur](./Vigueur.md) DD 22 ; *incubation* immédiate ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d3 [Constitution](./Constitution.md) et 1d4 [Dextérité](./Dextérité.md) ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur le Charisme. Un humanoïde qui succombe à la fièvre des goules de Leng se transforme en [goule normale](./Goule.md), à moins qu’elle ne possédât 12 [dés de vie](./../Ressources/DV.md) ou plus de son vivant, auquel cas elle se relève sous forme de goule de Leng.}
-{s:BDTexte|**Paralysie (Ext).** La réussite d’un jet de [Vigueur](./Vigueur.md) DD 22 annule la paralysie d’une goule de Leng. À la fin de chaque round après le premier, la victime peut effectuer un nouveau jet de Vigueur DD 22 pour mettre fin à l’effet de paralysie ; sinon l’effet est permanent. Une fois l’effet terminé, la victime est [chancelante](./Chancelant.md) pendant 1 round.}
+{s:BDTexte|**Érudit (Ext).** Toutes les compétences de [[Connaissances]] sont des compétences de classe pour les goules de Leng. De plus, une goule de Leng peut lancer des sorts inscrits sur des [[parchemins magiques]] comme s’ils étaient dans sa liste de sorts. Elle réussit automatiquement le test de [[NLS|niveau de lanceur de sorts]] nécessaire pour utiliser le parchemin.}
+{s:BDTexte|**Maladie (Ext).** *Fièvre des goules de Leng :* Morsure — blessure ; *JdS* [[Vigueur]] DD 22 ; *incubation* immédiate ; *effet* [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3 [[Constitution]] et 1d4 [[Dextérité]] ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur le Charisme. Un humanoïde qui succombe à la fièvre des goules de Leng se transforme en [[Goule|goule normale]], à moins qu’elle ne possédât 12 [[DV|dés de vie]] ou plus de son vivant, auquel cas elle se relève sous forme de goule de Leng.}
+{s:BDTexte|**Paralysie (Ext).** La réussite d’un jet de [[Vigueur]] DD 22 annule la paralysie d’une goule de Leng. À la fin de chaque round après le premier, la victime peut effectuer un nouveau jet de Vigueur DD 22 pour mettre fin à l’effet de paralysie ; sinon l’effet est permanent. Une fois l’effet terminé, la victime est [[chancelant|chancelante]] pendant 1 round.}
 
 </div></td>
 <td><div>*La chair de cet humanoïde semi-canin, avec des sabots en guise de pieds, est verdâtre et putride. Une lueur d’intelligence brille pourtant dans ses yeux.*

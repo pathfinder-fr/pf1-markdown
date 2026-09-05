@@ -14,7 +14,7 @@ Categories:
 
 **Catégorie.** Monstre
 
-**Conditions.** Posséder une armure naturelle, [Con](./Constitution.md) 13.
+**Conditions.** Posséder une armure naturelle, [[Constitution|Con]] 13.
 
 **Avantage.** Le bonus d’armure naturelle de la créature augmente de +1.
 

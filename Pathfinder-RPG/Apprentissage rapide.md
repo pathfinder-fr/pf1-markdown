@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*La progression du personnage est de plus en plus diversifiée.*
 
-**Conditions.** [humain](./Humain.md), [Int](./Intelligence.md) 13
+**Conditions.** [[humain]], [[Intelligence|Int]] 13
 
-**Avantages.** Quand le personnage gagne un niveau dans une [classe de prédilection](./classe de prédilection.md), il gagne +1 [pv](./pv.md) et +1 point de [compétence](./Compétences.md) au lieu de devoir choisir l’un ou l’autre. Il peut choisir une récompense de classe alternative à la place de l’un ou de l’autre.
+**Avantages.** Quand le personnage gagne un niveau dans une [[classe de prédilection]], il gagne +1 [[pv]] et +1 point de [[compétences|compétence]] au lieu de devoir choisir l’un ou l’autre. Il peut choisir une récompense de classe alternative à la place de l’un ou de l’autre.

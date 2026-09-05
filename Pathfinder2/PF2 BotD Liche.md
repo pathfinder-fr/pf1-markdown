@@ -4,9 +4,9 @@ Title: Liche (archétype)
 LastModified: 2022-04-27 11:07
 ---
 
-{s:bodmenu}• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+{s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 Le chemin vers l’état de liche est long et sinueux, avec de nombreux obstacles que seuls les lanceurs de sorts les plus accomplis et précis parviennent à surmonter. Malgré les épreuves que vous affrontées et les décennies passées dans la solitude, le nez plongé dans des tomes magiques, vous savez, dans chacune des fibres de votre corps, que ça en valait la peine. Vous avez conçu un rituel unique et incroyablement maléfique pour arracher votre âme à votre corps, et vous avez fabriqué avec grand soin un réceptacle pour accueillir votre âme libérée. L’immortalité est désormais à votre portée.
@@ -25,7 +25,7 @@ Quels que soient les voies qu’elles poursuivent, quasiment toutes les liches s
 
 **Prérequis** créature vivante, capable de lancer des sorts de niveau 6 ou plus en utilisant des emplacements de sort, expert en Artisanat, ayant réalisé un rituel pour devenir une liche et construit une cage spirituelle
 
-Après des années passées à étudier et à planifier soigneusement, vous avez enfin terminé une cage spirituelle pour recevoir votre âme et vous êtes parvenu à réaliser un rituel pour vous transformer en liche. Désormais, ni la mort ni le temps ne peuvent vous empêcher de poursuivre vos études et d’assouvir vos grandes ambitions. Vous gagnez le trait Mort-vivant et les [avantages de base de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVBASE). Votre appétence de mort-vivant concerne les connaissances.
+Après des années passées à étudier et à planifier soigneusement, vous avez enfin terminé une cage spirituelle pour recevoir votre âme et vous êtes parvenu à réaliser un rituel pour vous transformer en liche. Désormais, ni la mort ni le temps ne peuvent vous empêcher de poursuivre vos études et d’assouvir vos grandes ambitions. Vous gagnez le trait Mort-vivant et les [[PF2 BotD Jouer un mort-vivant#AVBASE|avantages de base de morts-vivants]]. Votre appétence de mort-vivant concerne les connaissances.
 
 Vous gagnez une cage spirituelle unique, un objet magique qui abrite votre âme. Chaque fois que vous devriez normalement mourir, votre âme s’enfuit vers la cage spirituelle pour vous permettre d’être reconstruit. Tant que votre cage spirituelle existe, vous ne pouvez pas être réellement détruit.
 Spécial Vous ne pouvez pas choisir d’autre don de dévotion avant d’avoir gagné deux autres dons provenant de l’archétype de liche.
@@ -55,7 +55,7 @@ Vous enveloppez votre cage spirituelle dans une collection sans cesse croissante
 
 **Prérequis** Dévotion de liche
 
-L’énergie négative renforce votre corps mort-vivant et transforme votre toucher en l’antithèse de la vie. Vous gagnez les [avantages avancés de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVAVANCE). Le dé de dégâts pour votre poing passe à 1d6 au lieu de 1d4 ; il inflige des dégâts négatifs au lieu de dégâts contondants et il perd le trait Non létal. Votre poing devient magique.
+L’énergie négative renforce votre corps mort-vivant et transforme votre toucher en l’antithèse de la vie. Vous gagnez les [[PF2 BotD Jouer un mort-vivant#AVAVANCE|avantages avancés de morts-vivants]]. Le dé de dégâts pour votre poing passe à 1d6 au lieu de 1d4 ; il inflige des dégâts négatifs au lieu de dégâts contondants et il perd le trait Non létal. Votre poing devient magique.
 
 Quand vous obtenez une réussite critique lors d’une Frappe de poing sur une créature vivante, celle-ci est ralentie 1 jusqu’à la fin de votre prochain tour à moins qu’elle ne réussisse un jet de Vigueur contre le DD de vos sorts. Il s’agit d’un effet de spécialisation critique.
 </div>

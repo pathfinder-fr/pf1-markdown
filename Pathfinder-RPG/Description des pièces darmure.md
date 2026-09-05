@@ -7,7 +7,7 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:MenuAG}<nav class="wiki-toc"></nav>{s:UC}Toutes les pièces d’armure utilisables dans ce système de règles alternatif des [pièces d'armure](./Pièces darmures.md) sont détaillées ci-dessous et sont séparées en trois grandes catégories.
+{s:MenuAG}<nav class="wiki-toc"></nav>{s:UC}Toutes les pièces d’armure utilisables dans ce système de règles alternatif des [[Pièces darmures|pièces d'armure]] sont détaillées ci-dessous et sont séparées en trois grandes catégories.
 
 ### Bras d'armure
 Comme la zone qu’ils protègent est la plus petite, les bras
@@ -17,7 +17,7 @@ offrant peu, voire pas, de protection à moins d’être intégrées
 dans un ensemble d’armure complet. Les bras d’armure
 interférant avec les mouvements des mains nécessaires pour
 les sorts à composantes gestuelles, ils donnent de surcroît les
-plus importants [risques d’échec des sorts profanes](./Caractéristiques des armures.md#RISQUEECHECPROFANE).
+plus importants [[Caractéristiques des armures#RISQUEECHECPROFANE|risques d’échec des sorts profanes]].
 
 
 {s:Reference|BRASBOIS}**Bras d’armure de bois**. Ces manches sont composées de
@@ -49,7 +49,7 @@ bras d’armure d’écailles comprennent une paire de gantelets.
 tissus lourds matelassés spécialement arrangés pour piéger
 les flèches et autres armes à distance perforantes. Portée seule
 ou avec d’autres pièces d’habits rembourrés, cette protection
-octroie [RD](./Réduction de dégâts (capacité).md) 3/– contre les armes perforantes à distance.
+octroie [[Réduction de dégâts (capacité)|RD]] 3/– contre les armes perforantes à distance.
 
 {s:Reference|BRASKIKKO}**Bras d’armure kikko**. Cette pièce d’armure se compose de
 manches de cuir renforcées par des plaques de fer hexagonales.
@@ -113,7 +113,7 @@ astucieusement assortis pour augmenter la manœuvrabilité
 de leur porteur. Quand ils sont portés seuls, avec un pectoral
 de plaques flexibles, ou avec un pectoral de plaques flexibles
 et des jambières de mailles (ou des jambes d’armures
-légères) le [malus d’armure](./Caractéristiques des armures.md#MALUSARMRE) aux tests d’[Escalade](./Escalade.md) et de saut
+légères) le [[Caractéristiques des armures#MALUSARMRE|malus d’armure]] aux tests d’[[Escalade]] et de saut
 est seulement de -4 (les versions de maître ou de mithral de
 cette pièce d’armure et des combinaisons de pièces citées cidessus
 réduisent ce malus selon les règles normales).
@@ -158,7 +158,7 @@ longs sur lesquels se chevauchent des pièces de métal.
 {s:Reference|JAMBESREMBOURRÉES}**Jambes d’habits rembourrés**. Il s’agit de pantalons de
 tissus lourds, solides et rembourrés. Portées seules ou
 uniquement avec d’autres pièces d’habits rembourrés, ces
-jambes d’armure font gagner au personnage une [RD](./Réduction de dégâts (capacité).md) 3 /–
+jambes d’armure font gagner au personnage une [[Réduction de dégâts (capacité)|RD]] 3 /–
 contre les attaques à distance perforantes.
 
 {s:Reference|JAMBESKIKKO}**Jambes d’armure kikko**. Cette pièce d’armure est
@@ -269,8 +269,8 @@ noue autour de l’abdomen pour le protéger.
 {s:Reference|MANTEAUDEPIERRE}**Manteau de pierre**. Cette lourde cuirasse se compose
 de lamelles et de plaques de pierre traitées par des voies
 alchimiques. Porté avec d’autres pièces d’armure, ce pectoral
-n’obtient aucun [bonus d’armure](./Caractéristiques des armures.md#BONUSARMUREBOUCLIER) supplémentaire du fait des
-autres pièces, mais prend en compte les [malus](./Caractéristiques des armures.md#MALUSARMURE) qu’apportent
+n’obtient aucun [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] supplémentaire du fait des
+autres pièces, mais prend en compte les [[Caractéristiques des armures#MALUSARMURE|malus]] qu’apportent
 les autres éléments.
 
 {s:Reference|PECTORALBOIS}**Pectoral d’armure de bois**. Cette chemise ou cuirasse est
@@ -301,7 +301,7 @@ métal se chevauchant.
 veste se compose de lourds vêtements rembourrés spécialement
 conçus pour piéger les flèches et autres armes perforantes à
 distance. Portée seule ou avec d’autres habits rembourrés, elle
-confère une [RD](./réduction de dégâts.md) 3/– contre les armes à distance perforantes.
+confère une [[Réduction de dégâts|RD]] 3/– contre les armes à distance perforantes.
 
 {s:Reference|PECTORALKIKKO}**Pectoral d’armure kikko**. Cette pièce d’armure est une
 chemise de tissu épais ou de cuir sur laquelle sont cousues
@@ -360,24 +360,24 @@ comme une cuirasse, et ne comprend pas de casque.
 {s:Reference|PECTORALPLAQUESFLEXIBLES}'''Pectoral d’armure de plaques
 flexibles'''. Cette cuirasse
 est conçue pour permettre à son porteur une plus grande
-liberté de mouvement. Quand elle est portée seule, le [malus](./Caractéristiques des armures.md#MALUSARMURE)
-d’armure qu’elle impose à son porteur aux tests d’[Escalade](./Escalade.md) et
-de saut est réduit à -1. Les versions [de maître](./Caractéristiques des armures.md#ARMURESMAITRE) et de [mithral](./.md#Mithral) de
-cette pièce d’armure réduisent ce [malus](./Caractéristiques des armures.md#MALUSARMURE) de manière normale.
+liberté de mouvement. Quand elle est portée seule, le [[Caractéristiques des armures#MALUSARMURE|malus]]
+d’armure qu’elle impose à son porteur aux tests d’[[Escalade]] et
+de saut est réduit à -1. Les versions [[Caractéristiques des armures#ARMURESMAITRE|de maître]] et de [[#Mithral|mithral]] de
+cette pièce d’armure réduisent ce [[Caractéristiques des armures#MALUSARMURE|malus]] de manière normale.
 
 De surcroît, lorsque cette pièce d’armure est portée avec
-un [bras d’armure lamellaire flexible](./.md#BRASPLAQUESFLEXIBLES) et des [jambes d’armure de mailles](./.md#JAMBESMAILLES) (ou des pièces d’armure légère), le [malus](./Caractéristiques des armures.md#MALUSARMURE) d’armure
-aux tests d’[Escalade](./Escalade.md) et de saut est seulement de -4. Les
-versions [de maître](./Caractéristiques des armures.md#ARMURESMAITRE) et de [mithral](./.md#MITHRAL) de cette pièce d’armure, et
+un [[#BRASPLAQUESFLEXIBLES|bras d’armure lamellaire flexible]] et des [[#JAMBESMAILLES|jambes d’armure de mailles]] (ou des pièces d’armure légère), le [[Caractéristiques des armures#MALUSARMURE|malus]] d’armure
+aux tests d’[[Escalade]] et de saut est seulement de -4. Les
+versions [[Caractéristiques des armures#ARMURESMAITRE|de maître]] et de [[#MITHRAL|mithral]] de cette pièce d’armure, et
 de la combinaison de pièces décrite ci-dessus, réduisent ce
 malus de manière normale.
 
 Par ailleurs, quand une cuirasse de plaques flexibles est portée
 seule, elle est considérée comme une armure intermédiaire
 plutôt qu’une armure lourde (sauf pour la création de pièces
-d’armure de ce type avec des [matériaux spéciaux](./Matériaux spéciaux.md)).
+d’armure de ce type avec des [[matériaux spéciaux]]).
 
-{s:Reference|PECTORALTATAMIDO}**Pectoral d’armure tatami-do**. Version légère du [pectoral de l’armure o-yoroi](./.md#PECTORALOYOROI), cette pièce d’armure est une tunique ou une
+{s:Reference|PECTORALTATAMIDO}**Pectoral d’armure tatami-do**. Version légère du [[#PECTORALOYOROI|pectoral de l’armure o-yoroi]], cette pièce d’armure est une tunique ou une
 chemise composée de fines lamelles. Elle inclut un casque
 kabuto articulé et une coiffe ou une cagoule renforcée (voir
 les pages 128 et 129 du Chapitre 3).
@@ -391,7 +391,7 @@ simple action de mouvement. Une veste renforcée ne peut pas
 être enfilée à la hâte. La veste renforcée peut être portée avec
 d’autres pièces d’armure, mais son
 porteur bénéficie seulement du
-meilleur [bonus d’armure](./Caractéristiques des armures.md#BONUSARMUREBOUCLIER) au
+meilleur [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] au
 lieu d’additionner les bonus
 d’armure des différentes
 pièces.

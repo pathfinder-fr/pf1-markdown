@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Dangers naturels#ASPHYXIE
 ---
 
->>> [Dangers naturels#ASPHYXIE](./Dangers naturels.md#ASPHYXIE)
+>>> [[Dangers naturels#ASPHYXIE]]

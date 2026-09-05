@@ -16,9 +16,9 @@ LastModified: 2020-09-21 15:20
 
 {s:BDTexte|**PX** 200 }
 
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
 
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +8}
 
 {s:BDSousTitre|Défense}
 
@@ -38,11 +38,11 @@ LastModified: 2020-09-21 15:20
 
 {s:BDTexte|**For** 12, **Dex** 15, **Con** 16, **Int** 2, **Sag** 13, **Cha** 7}
 
-{s:BDTexte|**BBA** +0 ; **BMO** +0 ; **DMD** 12 (16 contre le [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**BBA** +0 ; **BMO** +0 ; **DMD** 12 (16 contre le [[croc-en-jambe]])}
 
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
 
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +8}
+{s:BDTexte|**Compétences** [[Perception]] +8}
 
 {s:BDTexte|**Part** mâchoires puissantes}
 
@@ -65,9 +65,9 @@ LastModified: 2020-09-21 15:20
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Kangourou](./Kangourou.md) || 1/2
+| [[Kangourou]] || 1/2
 |-
-| [Thylacine](./Thylacine.md) || 1/2
+| [[Thylacine]] || 1/2
 |}
 </div>*Cette créature, ressemblant à un chat, a une fourrure tigrée et des moustaches qui pendent de chaque côté de sa longue gueule garnie de dents aiguisées.*
 
@@ -76,7 +76,7 @@ Ces marsupiaux carnivores aux larges mâchoires chassent généralement de nuit 
 Ces statistiques s’appliquent aussi au sarcophilus (diable de Tasmanie), qui lui est apparenté.
 
 #### Le thylacine comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m ; **Attaque** morsure (1d4) ; **Caractéristiques** For 12, Dex 15, Con 16, Int 2, Sag 13, Cha 7 ; **Particularités** [vision nocturne](./vision nocturne.md), mâchoires puissantes.
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m ; **Attaque** morsure (1d4) ; **Caractéristiques** For 12, Dex 15, Con 16, Int 2, Sag 13, Cha 7 ; **Particularités** [[vision nocturne]], mâchoires puissantes.
 
 **Évolution au niveau 4.** **Taille** M ; **CA** armure naturelle +2 ; **Attaque** morsure (1d6) ; **Caractéristiques** For +4, Dex -2, Con +4.
 </div></td></tr></table>

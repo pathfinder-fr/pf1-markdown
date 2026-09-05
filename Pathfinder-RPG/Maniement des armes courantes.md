@@ -9,10 +9,10 @@ Categories:
 
 *Le personnage est formé au maniement des armes courantes.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Avantage.** Lorsqu’il utilise une [arme courante](./arme courante.md), le personnage fait ses [jets d’attaque](./jet dattaque.md) normalement.
+**Avantage.** Lorsqu’il utilise une [[arme courante]], le personnage fait ses [[jet dattaque|jets d’attaque]] normalement.
 
-**Normal.** Un personnage qui utilise une arme sans être formé à son maniement subit un malus de -4 aux [jets d’attaque](./jet dattaque.md).
+**Normal.** Un personnage qui utilise une arme sans être formé à son maniement subit un malus de -4 aux [[jet dattaque|jets d’attaque]].
 
-**Spécial.** Hormis les [druides](./Druide.md), les [magiciens](./Magicien.md) et les [moines](./Moine.md), tous les personnages sont formés au maniement des armes courantes. Ils n’ont pas besoin de choisir ce don.
+**Spécial.** Hormis les [[druide|druides]], les [[magicien|magiciens]] et les [[moine|moines]], tous les personnages sont formés au maniement des armes courantes. Ils n’ont pas besoin de choisir ce don.

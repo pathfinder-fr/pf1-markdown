@@ -11,29 +11,29 @@ Categories:
 <div class="BD">
 {s:BDTitre|Videsprit|FP 11}
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.284](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.284]]*}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|[Plante](./type Plante.md) de taille P, N}
-{s:BDTexte|**Init** +8 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +27}
+{s:BDTexte|[[type Plante|Plante]] de taille P, N}
+{s:BDTexte|**Init** +8 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +27}
 {s:BDTexte|**Aura** absorption d’esprit (9 m, DD 23)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 16, pris au dépourvu 20 (armure +4, Dex +4, esquive +1, naturelle +5, taille +1)}
 {s:BDTexte|**pv** 142 (15d8+75)}
 {s:BDTexte|**Réf** +11, **Vig** +15, **Vol** +12}
-{s:BDTexte|**Immunités** [traits des plantes](./Traits des plantes (capacité).md) ; **RM** 22}
+{s:BDTexte|**Immunités** [[Traits des plantes (capacité)|traits des plantes]] ; **RM** 22}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m, escalade 3 m}
 {s:BDTexte|**Distance** spore, +16 contact (spores mentales)}
 {s:BDTexte|**Attaques spéciales** spores mentales}
-{s:BDTexte|**Magie psychique** ([NLS](./NLS.md) 11 ; [concentration](./concentration.md) +17)}
-{s:BDSorts|10 EP — *[barrière mentale I](./Barrière mentale I.md)* (1 EP), *[coup mental IV](./Coup mental IV.md)* (4 EP, DD 20), *[fouet d'ego I](./Fouet dego I.md)* (3 EP, DD 19), *[insinuation du ça I](./Insinuation du ça I.md)* (2 EP, DD 18)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 11 ; [concentration](./concentration.md) +17)}
-{s:BDSorts|Constant — *[armure de mage](./Armure de mage.md)*}
+{s:BDTexte|**Magie psychique** ([[NLS]] 11 ; [[concentration]] +17)}
+{s:BDSorts|10 EP — *[[barrière mentale I]]* (1 EP), *[[coup mental IV]]* (4 EP, DD 20), *[[fouet dego I|fouet d'ego I]]* (3 EP, DD 19), *[[insinuation du ça I]]* (2 EP, DD 18)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 11 ; [[concentration]] +17)}
+{s:BDSorts|Constant — *[[armure de mage]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 19, **Con** 18, **Int** 17, **Sag** 20, **Cha** 23}
 {s:BDTexte|**BBA** +11 ; **BMO** +10 ; **DMD** 25 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +18, [Escalade](./Escalade.md) +23, [Intimidation](./Intimidation.md) +21, [Perception](./Perception.md) +27, [Psychologie](./Psychologie.md) +24}
+{s:BDTexte|**Dons** [[Esquive]], [[Magie de guerre]], [[Réflexes surhumains]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]], [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +18, [[Escalade]] +23, [[Intimidation]] +21, [[Perception]] +27, [[Psychologie]] +24}
 {s:BDTexte|**Langues** commun, commun des profondeurs (ne peut pas parler), sylvestre}
 {s:BDTexte|**Particularités** dévoreur de magie}
 {s:BDSousTitre|Écologie}
@@ -41,9 +41,9 @@ Categories:
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Aura d’absorption d’esprit (Sur).** Toute créature qui se trouve dans un rayon de 9 mètres d’un videsprit doit réussir un jet de [Volonté](./Volonté.md) DD 23 à chaque round ou subir un [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d3 points d’[Intelligence](./Intelligence.md). Un videsprit peut contrôler toutes les créatures qui se trouvent dans son aura et qui ont subi une diminution d’Intelligence plus élevée que leur valeur d’Intelligence initiale, comme si ces créatures étaient dominées (cet effet remplace le coma qui est l’effet habituel suite à de tels dégâts).}
-{s:BDTexte|**Dévoreur de magie (Ext).** Quand une créature lance un sort à 9 mètres ou moins d’un videsprit, celui-ci gagne 1 point d’[EP](./Magie psychique (capacité).md). S’il s’agissait d’un [sort psychique](./La magie psychique.md), le videsprit gagne à la place un nombre de points d’EP égal au niveau du sort.}
-{s:BDTexte|**Spores mentales (Mag).** Une créature qui est touchée par les spores mentales d’un videsprit subit des dégâts comme si elle avait raté son jet de sauvegarde contre *[coup mental I](./Coup mental I.md)*.}
+{s:BDTexte|**Aura d’absorption d’esprit (Sur).** Toute créature qui se trouve dans un rayon de 9 mètres d’un videsprit doit réussir un jet de [[Volonté]] DD 23 à chaque round ou subir un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3 points d’[[Intelligence]]. Un videsprit peut contrôler toutes les créatures qui se trouvent dans son aura et qui ont subi une diminution d’Intelligence plus élevée que leur valeur d’Intelligence initiale, comme si ces créatures étaient dominées (cet effet remplace le coma qui est l’effet habituel suite à de tels dégâts).}
+{s:BDTexte|**Dévoreur de magie (Ext).** Quand une créature lance un sort à 9 mètres ou moins d’un videsprit, celui-ci gagne 1 point d’[[Magie psychique (capacité)|EP]]. S’il s’agissait d’un [[La magie psychique|sort psychique]], le videsprit gagne à la place un nombre de points d’EP égal au niveau du sort.}
+{s:BDTexte|**Spores mentales (Mag).** Une créature qui est touchée par les spores mentales d’un videsprit subit des dégâts comme si elle avait raté son jet de sauvegarde contre *[[coup mental I]]*.}
 
 </div></td>
 <td><div>*Cet épais ruban de champignons fait penser à une chenille. Ses replis sont animés d’une pulsation qui émet une étrange lumière dorée.*

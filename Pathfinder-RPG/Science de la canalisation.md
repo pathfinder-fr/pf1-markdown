@@ -8,9 +8,9 @@ Categories:
 
 *Il est plus difficile de résister à l’énergie canalisée par le personnage.*
 
-**Condition.** Capacité de classe permettant de [canaliser de l’énergie](./canalisation dénergie.md).
+**Condition.** Capacité de classe permettant de [[canalisation dénergie|canaliser de l’énergie]].
 
-**Avantage.** Le personnage ajoute 2 au [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) destinés à résister à l’énergie qu’il canalise.
+**Avantage.** Le personnage ajoute 2 au [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] destinés à résister à l’énergie qu’il canalise.
 
 {s:CMy}
 ### Version mythique
@@ -18,4 +18,4 @@ Categories:
 
 **Condition.** Science de la canalisation
 
-**Avantage.** Les créatures [non-mythiques](./non-mythiques.md) qui subissent des dégâts infligés par la [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) du personnage doivent effectuer deux jets de sauvegarde et conserver le pire.
+**Avantage.** Les créatures [[non-mythiques]] qui subissent des dégâts infligés par la [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] du personnage doivent effectuer deux jets de sauvegarde et conserver le pire.

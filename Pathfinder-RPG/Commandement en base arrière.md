@@ -10,8 +10,8 @@ Categories:
 
 {s:MR}*Les alliés du personnage comptent tellement sur ses capacités de commandement et ses paroles encourageantes qu’il ne peut se permettre de se mettre en danger.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Gobelin](./Gobelin (race).md), 1 rang en [Intimidation](./Intimidation.md)
+**Conditions.** [[Gobelin (race)|Gobelin]], 1 rang en [[Intimidation]]
 
-**Avantage.** Lors d’un [round](./round.md) pendant lequel il bénéficie d’un [abri](./abri.md) ou d’un [camouflage](./camouflage.md) contre au moins un adversaire et s’il n’est menacé par aucun ennemi, le personnage peut aboyer des ordres et des encouragements à ses alliés par une [action simple](./Action simple.md). Le cas échéant, il octroie à tous ses alliés situés à 9 mètres ou moins un bonus de +1 à tous leurs [jets de dégâts](./Valeurs de combat.md#DEGATS) effectués avec des armes pendant 1 round.
+**Avantage.** Lors d’un [[round]] pendant lequel il bénéficie d’un [[abri]] ou d’un [[camouflage]] contre au moins un adversaire et s’il n’est menacé par aucun ennemi, le personnage peut aboyer des ordres et des encouragements à ses alliés par une [[action simple]]. Le cas échéant, il octroie à tous ses alliés situés à 9 mètres ou moins un bonus de +1 à tous leurs [[valeurs de combat#DEGATS|jets de dégâts]] effectués avec des armes pendant 1 round.

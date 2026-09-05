@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Grâce à ses frappes adroites, le personnage gagne un avantage certain sur ses adversaires, en plus de les blesser purement et simplement.*
 
-**Condition.** [Combat à deux armes](./Combat à deux armes.md)
+**Condition.** [[Combat à deux armes]]
 
-**Avantage.** Par une [action immédiate](./Action immédiate.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour annuler les malus aux jets d’attaques occasionnés par le [combat à deux armes](./Combat à deux armes.md) pendant un nombre de rounds égal à son [grade](./Grade.md).
+**Avantage.** Par une [[action immédiate]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour annuler les malus aux jets d’attaques occasionnés par le [[combat à deux armes]] pendant un nombre de rounds égal à son [[grade]].

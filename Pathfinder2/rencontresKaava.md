@@ -4,9 +4,9 @@ Title: Rencontres dans les terres des kaavas
 LastModified: 2021-11-23 03:24
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 Cette page est la traduction d'une aide de jeu partagée par Jason Tondro (@doctorcomics sur Twitter) et disponible en anglais à l'adresse suivante : [lien GoogleDrive](https://drive.google.com/file/d/1YJJueHtxpqJqqtXT1Rp3kqJB4Y7PBj03/view).
 ---
@@ -18,35 +18,35 @@ Les terres des kaavas constituent un terrain difficile. Les PJ peuvent espérer 
 |- CLASS="titre"
 | d20 || Rencontre || &nbsp; || d20 || Rencontre
 |- CLASS="premier"
-| [1](./.md#1) || chasseur békyar || &nbsp;
-| [11](./.md#11) || ptéranodons en chasse
+| [[#1|1]] || chasseur békyar || &nbsp;
+| [[#11|11]] || ptéranodons en chasse
 |-
-| [2](./.md#2) || charau-kas || &nbsp;
-| [12](./.md#12) || éclaireurs kaavas
+| [[#2|2]] || charau-kas || &nbsp;
+| [[#12|12]] || éclaireurs kaavas
 |-
-| [3](./.md#3) || oiseau coloré || &nbsp;
-| [13](./.md#13) || léopard de Mbaiki
+| [[#3|3]] || oiseau coloré || &nbsp;
+| [[#13|13]] || léopard de Mbaiki
 |-
-| [4](./.md#4) || des "compys" || &nbsp;
-| [14](./.md#14) || champ de racines miraculeuses
+| [[#4|4]] || des "compys" || &nbsp;
+| [[#14|14]] || champ de racines miraculeuses
 |-
-| [5](./.md#5) || singes démoniaques || &nbsp;
-| [15](./.md#15) || moustiques
+| [[#5|5]] || singes démoniaques || &nbsp;
+| [[#15|15]] || moustiques
 |-
-| [6](./.md#6) || attrape-mouche (géant) || &nbsp;
-| [16](./.md#16) || merveille naturelle
+| [[#6|6]] || attrape-mouche (géant) || &nbsp;
+| [[#16|16]] || merveille naturelle
 |-
-| [7](./.md#7) || fantômes de la forêt || &nbsp;
-| [17](./.md#17) || pygmée kaava
+| [[#7|7]] || fantômes de la forêt || &nbsp;
+| [[#17|17]] || pygmée kaava
 |-
-| [8](./.md#8) || capitaines libres ou chercheurs de trésor || &nbsp;
-| [18](./.md#18) || guenaude de la forêt tropicale
+| [[#8|8]] || capitaines libres ou chercheurs de trésor || &nbsp;
+| [[#18|18]] || guenaude de la forêt tropicale
 |-
-| [9](./.md#9) || gecko géant || &nbsp;
-| [19](./.md#19) || nuée d'araignées
+| [[#9|9]] || gecko géant || &nbsp;
+| [[#19|19]] || nuée d'araignées
 |-
-| [10](./.md#10) || gripplis || &nbsp;
-| [20](./.md#20) || umasi
+| [[#10|10]] || gripplis || &nbsp;
+| [[#20|20]] || umasi
 |- CLASS="note"
 | COLSPAN="4" | Cliquez sur un des nombres pour descendre jusqu'à la description de la rencontre.
 |}

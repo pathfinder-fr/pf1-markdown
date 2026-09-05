@@ -10,6 +10,6 @@ Categories:
 {s:AE}**Prix** 25 po ; **Poids** 10 kg
 **Bonus d'armure** +3 ; **Bonus de Dex maximal** +5 ; **Malus d'armure** -1
 **Risque d'échec des sorts profanes** 15% ; **Vitesse** 9 m/6 m (6 c/4 c)
-<span class="Catégorie">**Catégorie** [Armures légères](./Tableau récapitulatif des armures.md#TABLEGERES)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABLEGERES|Armures légères]]</span>
 ---
-Version améliorée de l’[armure de cuir](./armure de cuir (armure).md), l’armure de cuir cloutée est couverte de dizaines de protubérances métalliques. Si, individuellement, ces clous ronds n’offrent que peu de protection, leur nombre permet d’arrêter les tranchants létaux et de les éloigner des points vitaux. La rigidité du métal ajouté donne cependant moins de mobilité qu’une armure de cuir normale.
+Version améliorée de l’[[armure de cuir (armure)|armure de cuir]], l’armure de cuir cloutée est couverte de dizaines de protubérances métalliques. Si, individuellement, ces clous ronds n’offrent que peu de protection, leur nombre permet d’arrêter les tranchants létaux et de les éloigner des points vitaux. La rigidité du métal ajouté donne cependant moins de mobilité qu’une armure de cuir normale.

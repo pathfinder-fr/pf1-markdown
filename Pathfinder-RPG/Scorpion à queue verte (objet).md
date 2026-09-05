@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 15 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Vivant généralement dans les régions forestières, ces scorpions de taille TP ont des pinces trop petites pour être dangereuses pour les créatures plus grosses que les insectes mais leur dard reste empoisonné. On les garde parfois comme animaux de compagnie ou comme [familiers](./Familiers.md). Les scorpions à queue verte utilisés comme [familiers](./Familiers.md) ont une valeur d’[Intelligence](./Intelligence.md) et perdent le trait dépourvu d’intelligence. Voir les statistiques du [scorpion à queue verte](./Scorpion vert.md).
+Vivant généralement dans les régions forestières, ces scorpions de taille TP ont des pinces trop petites pour être dangereuses pour les créatures plus grosses que les insectes mais leur dard reste empoisonné. On les garde parfois comme animaux de compagnie ou comme [[Familiers]]. Les scorpions à queue verte utilisés comme [[Familiers]] ont une valeur d’[[Intelligence]] et perdent le trait dépourvu d’intelligence. Voir les statistiques du [[scorpion vert|scorpion à queue verte]].

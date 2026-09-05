@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.158*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Terre](./sous-type Terre.md)) de taille G, LN}
-{s:BDTexte|**Init** +5 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Terre|Terre]]) de taille G, LN}
+{s:BDTexte|**Init** +5 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 10, pris au dépourvu 19 (Dex +1, naturelle +10, taille -1)}
 {s:BDTexte|**pv** 85 (9d10+36)}
@@ -26,25 +26,25 @@ Categories:
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Attaques spéciales** maîtrise de la terre, malédiction de la pierre, transmutation du métal}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9)}
-{s:BDSorts|À volonté—*[changement de plan](./Changement de plan.md)* (uniquement les cibles volontaires vers les plans Élémentaires, l'Astral ou le plan Matériel), *[façonnage de la pierre](./Façonnage de la pierre.md)*, *[fusion dans la pierre](./Fusion dans la pierre.md)*, *[ramollissement de la terre et de la pierre](./Ramollissement de la terre et de la pierre.md)*, *[voile](./Voile.md)* (sur lui-même uniquement)}
-{s:BDSorts|3/jour—*[mur de pierre](./Mur de pierre.md)*, *[peau de pierre](./Peau de pierre.md)*, *[pierres commères](./Pierres commères.md)*, *[poussière scintillante](./Poussière scintillante.md)* (incantation rapide, DD 14), *[rouille](./Rouille.md)*}
-{s:BDSorts|1/jour—*[transmutation de la boue en pierre](./Transmutation de la boue en pierre.md)*, *[transmutation de la pierre en boue](./Transmutation de la pierre en boue.md)*}
+{s:BDSorts|À volonté—*[[changement de plan]]* (uniquement les cibles volontaires vers les plans Élémentaires, l'Astral ou le plan Matériel), *[[façonnage de la pierre]]*, *[[fusion dans la pierre]]*, *[[ramollissement de la terre et de la pierre]]*, *[[voile]]* (sur lui-même uniquement)}
+{s:BDSorts|3/jour—*[[mur de pierre]]*, *[[peau de pierre]]*, *[[pierres commères]]*, *[[poussière scintillante]]* (incantation rapide, DD 14), *[[rouille]]*}
+{s:BDSorts|1/jour—*[[transmutation de la boue en pierre]]*, *[[transmutation de la pierre en boue]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 13, **Con** 19, **Int** 14, **Sag** 14, **Cha** 15}
 {s:BDTexte|**BBA** +9, **BMO** +15, **DMD** 26}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Bousculade supérieure](./Bousculade supérieure.md), [Magie de guerre](./Magie de guerre.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (poussière scintillante), [Science de l'initiative](./Science de linitiative.md)<sup>B</sup>, [Science de la bousculade](./Science de la bousculade.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +14, [Artisanat](./Artisanat.md) (coupe de gemmes) +14, [Bluff](./Bluff.md) +14, [Connaissances](./Connaissances.md) (ingénierie) +14, [Escalade](./Escalade.md) +25, [Estimation](./Estimation.md) +14, [Perception](./Perception.md) +14, [Psychologie](./Psychologie.md) +14}
-{s:BDTexte|**Langues** aérien, aquatique, commun, igneux, terreux ; [télépathie](./Télépathie.md) 20 cases}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Bousculade supérieure]], [[Magie de guerre]], [[Pouvoir magique rapide]] (poussière scintillante), [[Science de linitiative|Science de l'initiative]]<sup>B</sup>, [[Science de la bousculade]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +14, [[Artisanat]] (coupe de gemmes) +14, [[Bluff]] +14, [[Connaissances]] (ingénierie) +14, [[Escalade]] +25, [[Estimation]] +14, [[Perception]] +14, [[Psychologie]] +14}
+{s:BDTexte|**Langues** aérien, aquatique, commun, igneux, terreux ; [[télépathie]] 20 cases}
 {s:BDTexte|**Particularités** nage dans la pierre}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (plan de la Terre)}
 {s:BDTexte|**Organisation sociale** solitaire, couple, compagnie (3-6) ou groupe (7-12)}
 {s:BDTexte|**Trésor** standard (cimeterre de maître, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Maîtrise de la terre (Ext)** Un shaitan bénéficie d'un bonus de +1 aux [jets d'attaque](./jet dattaque.md) et de [dégâts](./jet de dégâts.md) et un bonus de +2 aux tests opposés dépendant de la [Force](./Force.md) si lui et son ennemi sont tous les deux en contact avec le sol. Il subit un malus de -4 aux jets d'attaque et de dégâts contre les créatures volantes ou sur/dans l'eau.}
-{s:BDTexte|**Malédiction de la pierre (Sur)** Si un shaitan remporte un test de [bousculade](./bousculade.md) de 5 points ou plus et qu'il pousse sa victime dans un obstacle de pierre, celle-ci doit effectuer un jet de [Réflexes](./Réflexes.md) de [DD](./DD.md) 19. En cas d'échec, la victime s'enfonce dans l'obstacle comme si elle avait lancé un sort de *[fusion dans la pierre](./Fusion dans la pierre.md)* ; il lui faut une [action complexe](./Action complexe.md) et un jet de [Vigueur](./Vigueur.md) de DD 19 réussi pour pouvoir s'en extraire. Les DD des [Jets de sauvegarde](./jet de sauvegarde.md) dépendent de la [Force](./Force.md).}
-{s:BDTexte|**Nage dans la roche (Sur)** Cette capacité fonctionne comme le pouvoir de nage dans la terre des [élémentaires de terre](./Élémentaire de la Terre.md), si ce n'est que le shaitan peut traverser la pierre, la terre, le cristal et le métal.}
-{s:BDTexte|**Transmutation du métal (Sur)** Par une [action simple](./Action simple.md), un shaitan peut toucher un objet de métal d'au  plus 5 kg et le transformer en un autre métal pendant 1 jour.}
+{s:BDTexte|**Maîtrise de la terre (Ext)** Un shaitan bénéficie d'un bonus de +1 aux [[jet dattaque|jets d'attaque]] et de [[jet de dégâts|dégâts]] et un bonus de +2 aux tests opposés dépendant de la [[Force]] si lui et son ennemi sont tous les deux en contact avec le sol. Il subit un malus de -4 aux jets d'attaque et de dégâts contre les créatures volantes ou sur/dans l'eau.}
+{s:BDTexte|**Malédiction de la pierre (Sur)** Si un shaitan remporte un test de [[bousculade]] de 5 points ou plus et qu'il pousse sa victime dans un obstacle de pierre, celle-ci doit effectuer un jet de [[Réflexes]] de [[DD]] 19. En cas d'échec, la victime s'enfonce dans l'obstacle comme si elle avait lancé un sort de *[[fusion dans la pierre]]* ; il lui faut une [[action complexe]] et un jet de [[Vigueur]] de DD 19 réussi pour pouvoir s'en extraire. Les DD des [[jet de sauvegarde|Jets de sauvegarde]] dépendent de la [[Force]].}
+{s:BDTexte|**Nage dans la roche (Sur)** Cette capacité fonctionne comme le pouvoir de nage dans la terre des [[Élémentaire de la Terre|élémentaires de terre]], si ce n'est que le shaitan peut traverser la pierre, la terre, le cristal et le métal.}
+{s:BDTexte|**Transmutation du métal (Sur)** Par une [[action simple]], un shaitan peut toucher un objet de métal d'au  plus 5 kg et le transformer en un autre métal pendant 1 jour.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -53,15 +53,15 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Djinn](./Djinn.md) || 5
+| [[Djinn]] || 5
 |-
-| [Efrit](./Efrit.md) || 8
+| [[Efrit]] || 8
 |-
-| [Jann](./Jann.md) || 4
+| [[Jann]] || 4
 |-
-| [Marid](./Marid.md) || 9
+| [[Marid]] || 9
 |-
-| [Shaitan](./Shaitan.md) || 7
+| [[Shaitan]] || 7
 |}
 </div>''Cette créature ressemble à un humain gigantesque possédant une peau de
 pierre polie et des yeux semblables à des agates brillantes.''
@@ -77,12 +77,12 @@ souvent appelées pachas, possèdent 18 DV
 et disposent
 d’un pouvoir
 magique de
-[tremblement de terre](./Tremblement de terre.md) utilisable
+[[tremblement de terre]] utilisable
 une fois par
 jour. Ils peuvent
 également
 accorder jusqu’à trois
-[souhaits](./Souhait.md) par jour à une
+[[Souhait|souhaits]] par jour à une
 créature autre qu’un génie.
 Les shaitans nobles lancent
 ces pouvoirs magiques avec

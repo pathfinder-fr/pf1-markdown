@@ -10,7 +10,7 @@ LastModified: 2021-04-05 23:10
 {s:pucem|Créature magique|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 164*}
 - **4 915 200 PX**
-- [Créature magique](./type Créature magique.md) ([Eau](./sous-type aquatique.md), [Kaiju](./sous-type kaiju.md)) de taille C, CN
+- [[type créature magique|Créature magique]] ([[sous-type aquatique|Eau]], [[sous-type kaiju|Kaiju]]) de taille C, CN
 - **Init **+9 ; **Sens **vision dans le noir à 180 m, vision nocturne, détection de l’invisibilité, perception des kaijus ; Perception +45
 (((Défense)))
 - **CA **47, contact 7, pris au dépourvu 42 (Dex +5, naturelle +40, taille -8)
@@ -27,8 +27,8 @@ LastModified: 2021-04-05 23:10
 (((Statistiques)))
 - **For **50, **Dex **21, **Con **41, **Int **3, **Sag **30, **Cha **26
 - **BBA **+34 ; **BMO** +62 (+66 en bousculade, +66 en lutte, +66 en destruction) ; **DMD **79 (81 contre la bousculade, 81 contre la destruction)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Attaques réflexes](./Attaques réflexes.md), [Bousculade supérieure](./Bousculade supérieure.md), [Critique ralentissant](./Critique ralentissant.md), [Destruction d’arme supérieure](./Destruction darme supérieure.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive](./Frappe décisive.md) , [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la destruction](./Science de la destruction.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science du critique](./Science du critique.md) (griffe), [Science du critique](./Science du critique.md) (morsure), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Natation](./Natation.md) +49, [Perception](./Perception.md) +45 ; **Modificateurs raciaux** +16 en Perception
+- **Dons** [[Attaque en puissance]], [[Attaques multiples]], [[Attaques réflexes]], [[Bousculade supérieure]], [[Critique ralentissant]], [[destruction darme supérieure|Destruction d’arme supérieure]], [[Don pour les critiques]], [[Frappe décisive]] , [[Frappe décisive supérieure]], [[science de linitiative|Science de l’initiative]], [[Science de la bousculade]], [[Science de la destruction]], [[Science de la frappe décisive]], [[Science de la volonté de fer]], [[Science du critique]] (griffe), [[Science du critique]] (morsure), [[Volonté de fer]]
+- **Compétences **[[Natation]] +49, [[Perception]] +45 ; **Modificateurs raciaux** +16 en Perception
 - **Langues **aquatique (ne sait pas parler)
 - **Particularités **énorme
 (((Écologie)))
@@ -45,7 +45,7 @@ LastModified: 2021-04-05 23:10
 Si Mogaru est en train de se battre, il y a seulement 20% de chances cumulatives par round qu’il entende un chant prolongé. Pour pouvoir influencer Mogaru, le chanteur doit réussir un test de Représentation (chant) DD 35 (ce test ne peut pas être amélioré grâce à l’action aider quelqu’un et le chanteur ne peut pas faire 10 ou 20 à ce test). Le résultat du test détermine le DD du jet de Volonté que doit effectuer Mogaru pour résister à la tentative d’influence. Le chanteur peut décider d’influer sur les actions de Mogaru comme s’il avait lancé avec succès un sort de suggestion sur le kaiju (NLS = le nombre de rangs en Représentation (chant) du chanteur). Si Mogaru réussit un jet de Volonté (DD = nombre de rangs en Représentation (chant) du chanteur + modificateur de Charisme du chanteur), les effets de l’influence durent un maximum de 1d4 rounds ; sinon, les autres effets durent aussi longtemps que la durée normale d’une suggestion. Mogaru ne peut pas utiliser son pouvoir de récupération pour dissiper l’influence d’un chant et un même chanteur ne peut influer sur les actions de Mogaru qu’une seule et unique fois par jour.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [kaijus](./Kaijus.md).***</li></ul>*Ce gigantesque saurien se tient debout sur des deux pattes arrière. Ses deux queues fouettent l’air avec fureur et les pointes de son épine dorsale rougeoient.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Kaijus]].***</li></ul>*Ce gigantesque saurien se tient debout sur des deux pattes arrière. Ses deux queues fouettent l’air avec fureur et les pointes de son épine dorsale rougeoient.*
 
 
 Mogaru, que les érudits spécialisés dans l’étude des kaijus appellent le Dernier des rois ou plus simplement le Roi, est le plus destructeur des kaijus. Même s’il n’est pas le plus fort (ce qui donne déjà à réfléchir !), Mogaru est certainement le plus actif des kaijus répertoriés. De plus, il semble tout aussi prompt à saccager les oeuvres de l’humanité qu’à s’attaquer à d’autres kaijus, ce qui fait de lui une bénédiction mais également un fléau pour les cités que menacent ces monstres. L’idée de se faire attaquer par Mogaru est un cauchemar en soi, mais la possibilité qu’il puisse intervenir pendant l’attaque d’un autre kaiju peut représenter un espoir, malgré les dégâts considérables que subit généralement la cité assaillie.

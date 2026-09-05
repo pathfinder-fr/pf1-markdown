@@ -8,16 +8,16 @@ LastModified: 2017-05-01 15:59
 
 <nav class="wiki-toc"></nav>
 
-[imageauto||http://img4.hostingpics.net/pics/179645Guildevoleurplan.png]
+<img src="http://img4.hostingpics.net/pics/179645Guildevoleurplan.png" class="imageauto" alt="">
 
 
-[^http://img4.hostingpics.net/pics/270336Guildevoleur1i.png|Battlemap détaillée]
+[Battlemap détaillée](http://img4.hostingpics.net/pics/270336Guildevoleur1i.png)
 
 ### 1. La maison
 *La cave de cette auberge est pleine de surprises. Une porte semble mener à un sellier toujours fermé. Ou presque. *
 
 Pour l'exemple il s'agit d'une auberge, mais la cave d'une petite vieille sans histoire est tout aussi utilisable.
-Un teste de [Sabotage](./../Pathfinder-RPG/Sabotage.md) (DD 20 permet) d'ouvrir cette porte en bois épais.  Pour l'enfoncer il faut réussir un teste de Force de 25 (Pour la destruction 20 pv solidité 5).
+Un teste de [[Pathfinder-RPG.Sabotage|Sabotage]] (DD 20 permet) d'ouvrir cette porte en bois épais.  Pour l'enfoncer il faut réussir un teste de Force de 25 (Pour la destruction 20 pv solidité 5).
 
 
 ### 2. Le sas
@@ -32,15 +32,15 @@ Le couloir est éclairé par plusieurs torches qui restent toujours allumées.
 ### 3. Salle de repos (hommes)
 *Cette salle éclairée par une torche comporte trois lits superposés ainsi qu'une table et quatre tonneaux en guise de tabourets.  Les couvertures des lits sont sales et déchirées par endroits.*
 
-C'est ici que les membres masculins se reposent entre deux missions quand ils n'ont pas d'autres lieux. Il est possible d'y rencontrer 1d6 adversaires (que vous pouvez choisir dans la [liste des PNJ](./../Aventures/Liste PNJ.md))
+C'est ici que les membres masculins se reposent entre deux missions quand ils n'ont pas d'autres lieux. Il est possible d'y rencontrer 1d6 adversaires (que vous pouvez choisir dans la [[Aventures.Liste PNJ|liste des PNJ]])
 
-Grâce à une [fouille](./../Pathfinder-RPG/Perception.md) (DD 15) il est possible de récupérer sous les matelas, oreillers 53 po et 23pa.
+Grâce à une [[Pathfinder-RPG.Perception|fouille]] (DD 15) il est possible de récupérer sous les matelas, oreillers 53 po et 23pa.
 
 ### 4. Salle de repos (femmes)
 *Cette salle comporte une table basique et trois tonneaux qui servent de tabouret, une psyché ainsi que deux lits superposés dans le fond de la pièce. Les couvertures sont en meilleur état ici que dans l'autre pièce. *
 
 Il est possible de trouver 1d4 adversaires féminins.
-Grâce à un teste de [fouille](./../Pathfinder-RPG/Perception.md) (DD 15) il est possible de récupérer dans les matelas et oreillers 72po et 43 pa.
+Grâce à un teste de [[Pathfinder-RPG.Perception|fouille]] (DD 15) il est possible de récupérer dans les matelas et oreillers 72po et 43 pa.
 
 ### 5. La Grande salle
 *Cette immense pièce vide ne comporte rien d'autre que des torches allumées accrochées aux murs.*
@@ -49,16 +49,16 @@ Cette salle est la salle de réunion de la guilde. Elle fait office également d
 Un cliquetis mécanique se fait entendre à chaque fois.
 - Abaisser les torches 1 et 3 en même temps permet d'activer le passage secret de cette pièce.  
 - Abaisser les torches 5, 7 et 9 en même temps permet d'ouvrir le centre de la pièce d'où émerge un autel dédié à Norgobert. 
-- Abaisser les torches 2, 6, 10 ou 13 déclenche une des trappes au plafond qui fait tomber des vases ou des créatures artificielles ([chair affamée](./../Pathfinder-RPG/Chair affamée.md), [cobra de fer](./../Pathfinder-RPG/Cobra de fer.md) ou [objet animé](./../Pathfinder-RPG/Objet animé.md))
+- Abaisser les torches 2, 6, 10 ou 13 déclenche une des trappes au plafond qui fait tomber des vases ou des créatures artificielles ([[Pathfinder-RPG.Chair affamée|chair affamée]], [[Pathfinder-RPG.cobra de fer|cobra de fer]] ou [[Pathfinder-RPG.objet animé|objet animé]])
 Abaisser les torches 4,8, 11 et 12 déclenchent un piège mécanique (flèche acide, mains brûlantes, arc électrique).
 
 ### 6. L'entrepôt
 *La pièce est plongée dans l'obscurité. Elle est remplie de caisses, barils et divers sacs. *
 
 La plupart permettent un abri partiel voire un abri total lorsqu'il y a plusieurs empilements.
-Si cette pièce est dans le noir et surtout le couloir illuminé c'est pour la bonne raison que le gardien est un [traqueur gluant](./../Pathfinder-RPG/Traqueur gluant.md) qui n'aime pas la lumière vive. Il préfère rester à l'ombre des caisses attendant qu'un imprudent s'aventure dans la réserve.
+Si cette pièce est dans le noir et surtout le couloir illuminé c'est pour la bonne raison que le gardien est un [[Pathfinder-RPG.traqueur gluant|traqueur gluant]] qui n'aime pas la lumière vive. Il préfère rester à l'ombre des caisses attendant qu'un imprudent s'aventure dans la réserve.
 
-Les caisses contiennent des matériaux, des objets d'arts (statuettes, tableaux, bijoux, valant 1d6x100po), il est possible avec un teste de [fouille](./../Pathfinder-RPG/Perception.md)  (DD 20) de trouver 1d6 objets magiques mineurs et une cache secrète sous une caisse avec un teste de [fouille](./../Pathfinder-RPG/Perception.md)  (DD 25) pour trouver 1d4 objets magiques intermédiaires. (cf. [Détermination aléatoire d'objets magiques](./../Pathfinder-RPG/Détermination aléatoire dobjets magiques.md))
+Les caisses contiennent des matériaux, des objets d'arts (statuettes, tableaux, bijoux, valant 1d6x100po), il est possible avec un teste de [[Pathfinder-RPG.Perception|fouille]]  (DD 20) de trouver 1d6 objets magiques mineurs et une cache secrète sous une caisse avec un teste de [[Pathfinder-RPG.Perception|fouille]]  (DD 25) pour trouver 1d4 objets magiques intermédiaires. (cf. [[Pathfinder-RPG.Détermination aléatoire dobjets magiques|Détermination aléatoire d'objets magiques]])
 
 
 Derrière la tapisserie, il est possible de découvrir un trou aussi large qu'une orange. En y mettant la main dedans, on peut activer le passage secret qui mène au couloir.
@@ -77,11 +77,11 @@ Dans cette salle, il y a tout le matériel nécessaire pour faire des copies, y 
 *Cette pièce est de loin la plus luxueuse : il y a un lit confortable, un tapis brodé au sol,deux coffres, une armoire, et une petite table avec divers papiers. *
 
 Il est rare que le chef soit présent. Il se sert de cet endroit comme lieu de retraite, mais l'odeur des égouts non loin l'empêchent de profiter du séjour.
-Néanmoins, vous pouvez utiliser un profil du [Pilleur de tombes](./../Pathfinder-RPG/PNJ aventuriers.md#PILLEURDETOMBES) pour cette rencontre.
+Néanmoins, vous pouvez utiliser un profil du [[Pathfinder-RPG.PNJ Aventuriers#PILLEURDETOMBES|Pilleur de tombes]] pour cette rencontre.
 
 
 Amusez-vous bien !
 
-Et n'hésitez pas à commenter [<nowiki>http://www.pathfinder-fr.org/Forum/posts/t14267~~Donjon~~Guilde-des-voleurs</nowiki>|ici] !
+Et n'hésitez pas à commenter [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t14267~~Donjon~~Guilde-des-voleurs</nowiki>|ici]] !
 
 Djezebel

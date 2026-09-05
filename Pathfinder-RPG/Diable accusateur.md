@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.95*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille P, LM}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille P, LM}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 15, pris au dépourvu 13 (Dex +4, naturelle +2, taille +1)}
 {s:BDTexte|**pv** 30 (4d10+8)}
@@ -25,26 +25,26 @@ Categories:
 {s:BDTexte|**VD** 6 m (4 {s:c}), vol 18 m (12 {s:c}) (parfaite)}
 {s:BDTexte|**Corps à corps** morsure, +5 (1d6 plus 1d6 acide et maladie)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 8 ; concentration +9)}
-{s:BDSorts|À volonté — *[invisibilité](./Invisibilité.md)* (personnel uniquement), *[téléportation suprême](./Téléportation suprême.md)* (personnel et 25 kg d'objets uniquement)}
-{s:BDSorts|3/jour — *[graisse](./Graisse.md)*, *[nuée grouillante](./Nuée grouillante.md)*, *[vent de murmures](./Vent de murmures.md)*}
-{s:BDSorts|1/jour — *[convocation](./Convocation (capacité).md)* (niveau 3, 1 zébub ou 1d4 [lémures](./Lémure.md), 40%)}
+{s:BDSorts|À volonté — *[[invisibilité]]* (personnel uniquement), *[[téléportation suprême]]* (personnel et 25 kg d'objets uniquement)}
+{s:BDSorts|3/jour — *[[graisse]]*, *[[nuée grouillante]]*, *[[vent de murmures]]*}
+{s:BDSorts|1/jour — *[[convocation (capacité)|convocation]]* (niveau 3, 1 zébub ou 1d4 [[lémure|lémures]], 40%)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 18, **Con** 14, **Int** 9, **Sag** 15, **Cha** 12}
 {s:BDTexte|**BBA** +4, **BMO** +3, **DMD** 17}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +8, [Connaissances](./Connaissances.md) (plans) +6, [Discrétion](./Discrétion.md) +15, [Perception](./Perception.md) +9, [Vol](./Vol.md) +21}
-{s:BDTexte|**Langues** céleste, draconique, infernal ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Bluff]] +8, [[Connaissances]] (plans) +6, [[Discrétion]] +15, [[Perception]] +9, [[Vol]] +21}
+{s:BDTexte|**Langues** céleste, draconique, infernal ; [[télépathie]] 30 m (20 {s:c})}
 {s:BDTexte|**Particularités** oeil infernal}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Enfer)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou essaim (3–28)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Maladie (Ext).** Diantrespasme : Morsure — blessure ; *JdS* Vig DD 14 ; *incubation* 1d4 jours ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 For ; *guérison* 3 réussites consécutives.}
+{s:BDTexte|**Maladie (Ext).** Diantrespasme : Morsure — blessure ; *JdS* Vig DD 14 ; *incubation* 1d4 jours ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d4 For ; *guérison* 3 réussites consécutives.}
 {s:BDTexte|**Oeil infernal (Sur).** Un zébub enregistre tout ce qu’il voit et peut transférer ses visions à une autre créature. En restant en contact avec une créature volontaire, il peut « rejouer » jusqu’à 24 heures d’événements dont il a été témoin (ou des événements plus courts s’il le désire). Il faut 1 round à un zébub pour faire « rejouer » 1 heure d’images enregistrées, que la cible reçoit sous la forme d’un afflux soudain d’informations visuelles privées de sons et d’autres éléments sensoriels. Après avoir transmis ses trouvailles, le zébub ne peut plus « rejouer » la vision de ces mêmes événements. Un zébub ne peut pas transmettre ce qu’il a vu à une créature qui n’est pas volontaire, pas même sous la forme d’une attaque, aussi horribles que soient les événements enregistrés.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 *Cette créature blasphématoire d’apparence enfantine combine les caractéristiques d’un bébé humain dodu et d’une mouche gigantesque et obèse.*
 
 Les diables accusateurs sont des âmes d’apparence enfantine
@@ -92,7 +92,7 @@ punir le coupable.
 La capacité qu’ont les zébubs de faire voir à d’autres créatures ce
 qu’ils ont vu eux-mêmes les rend très utiles aux yeux de certains
 conjurateurs. Les diables accusateurs, qui sont assez faciles à
-invoquer à l’aide d’un sort d’*[allié d’outreplan](./Allié doutreplan.md)* ou de *[contrat](./Contrat.md)*, peuvent
+invoquer à l’aide d’un sort d’*[[allié doutreplan|allié d’outreplan]]* ou de *[[contrat]]*, peuvent
 être des alliés très précieux. Il suffit d’ordonner au vil petit diable
 de devenir invisible, de s’infiltrer dans la zone où une information
 visuelle est cachée puis de se téléporter vers son point d’origine pour

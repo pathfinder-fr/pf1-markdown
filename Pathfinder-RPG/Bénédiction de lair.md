@@ -11,7 +11,7 @@ Categories:
 
 {s:Menubénédictions}{s:MCA}
 #### Don du zéphyr *(mineur)*
-Au niveau 1, le prêtre peut toucher une [arme à distance](./arme à distance.md) pour l’améliorer grâce aux dons de l’air. Pendant une minute, les attaques effectuées avec cette arme ne subissent aucun malus de distance. De plus, les attaques à distance effectuées avec elle ne provoquent pas d’[attaques d’opportunité](./AO.md).
+Au niveau 1, le prêtre peut toucher une [[arme à distance]] pour l’améliorer grâce aux dons de l’air. Pendant une minute, les attaques effectuées avec cette arme ne subissent aucun malus de distance. De plus, les attaques à distance effectuées avec elle ne provoquent pas d’[[AO|attaques d’opportunité]].
 
 #### Assaut aérien *(majeur)*
-Au niveau 10, le prêtre combattant peut toucher un allié et lui donner le pouvoir de voler pendant 1 minute (comme avec *[vol](./sort Vol.md)*). L’allié gagne une vitesse de vol de 18 mètres (12 {s:c}) et une manœuvrabilité moyenne. Son bonus aux tests de [Vol](./Vol.md) est égal au niveau du [prêtre combattant](./Prêtre combattant.md). À chaque fois que l’allié réussit une [charge](./charge.md) alors qu’il vole, cette attaque inflige un montant de dégâts d’électricité supplémentaire égal au niveau du prêtre combattant.
+Au niveau 10, le prêtre combattant peut toucher un allié et lui donner le pouvoir de voler pendant 1 minute (comme avec *[[sort vol|vol]]*). L’allié gagne une vitesse de vol de 18 mètres (12 {s:c}) et une manœuvrabilité moyenne. Son bonus aux tests de [[Vol]] est égal au niveau du [[prêtre combattant]]. À chaque fois que l’allié réussit une [[charge]] alors qu’il vole, cette attaque inflige un montant de dégâts d’électricité supplémentaire égal au niveau du prêtre combattant.

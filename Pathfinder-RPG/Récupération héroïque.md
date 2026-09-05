@@ -10,9 +10,9 @@ Categories:
 
 {s:apg}*Le personnage peut combattre les effets des conditions débilitantes.*
 
-**Conditions.** [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), bonus de base de [Vigueur](./Vigueur.md) +4.
+**Conditions.** [[Dur à cuire]], [[Endurance]], bonus de base de [[Vigueur]] +4.
 
-**Avantage.** Une fois par jour, par une [action simple](./Action simple.md), le personnage peut tenter un nouveau [jet de sauvegarde](./jet de sauvegarde.md) contre une condition débilitante ou une [affliction](./États préjudiciables.md) qui l’affecte et qui impose un jet de [Vigueur](./Vigueur.md). Si ce nouveau jet de sauvegarde échoue, aucun effet supplémentaire n’est appliqué. Dans le cas contraire, il compte comme une réussite pour déterminer si le personnage parvient à se débarrasser de l’affliction (comme un [poison](./poison.md) ou une [maladie](./maladie.md)). Le personnage ne peut pas utiliser ce don pour combattre les effets instantanés, les effets qui n’autorisent aucun jet de sauvegarde, ni ceux qui imposent autre chose qu’un jet de Vigueur.
+**Avantage.** Une fois par jour, par une [[action simple]], le personnage peut tenter un nouveau [[jet de sauvegarde]] contre une condition débilitante ou une [[États préjudiciables|affliction]] qui l’affecte et qui impose un jet de [[Vigueur]]. Si ce nouveau jet de sauvegarde échoue, aucun effet supplémentaire n’est appliqué. Dans le cas contraire, il compte comme une réussite pour déterminer si le personnage parvient à se débarrasser de l’affliction (comme un [[poison]] ou une [[maladie]]). Le personnage ne peut pas utiliser ce don pour combattre les effets instantanés, les effets qui n’autorisent aucun jet de sauvegarde, ni ceux qui imposent autre chose qu’un jet de Vigueur.
 
 {s:CMy}
 ### Version mythique
@@ -20,4 +20,4 @@ Categories:
 
 **Condition.** Récupération héroïque
 
-**Avantage.** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour utiliser une nouvelle fois Récupération héroïque. Le cas échéant, il ajoute son [grade](./Grade.md) au résultat du jet de [Vigueur](./Vigueur.md).
+**Avantage.** Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour utiliser une nouvelle fois Récupération héroïque. Le cas échéant, il ajoute son [[grade]] au résultat du jet de [[Vigueur]].

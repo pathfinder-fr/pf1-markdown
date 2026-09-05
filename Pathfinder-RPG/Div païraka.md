@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Païraka
 ---
 
->>> [Païraka](./Païraka.md)
+>>> [[Païraka]]

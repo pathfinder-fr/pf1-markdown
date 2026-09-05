@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa–2.000 po ; **Poids** 0,5 kg–2,5 kg
-<span class="Catégorie">**Catégorie** [Jeux](./Jeux.md)</span>
+<span class="Catégorie">**Catégorie** [[Jeux]]</span>
 ---
 Les cerfs-volants peuvent être de simples jouets de toile ou des œuvres d’art ornementées en soie.

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Traqueuse
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Traqueuse](./Descriptions individuelles des propriétés spéciales des armes.md#Traqueuse)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Traqueuse]]

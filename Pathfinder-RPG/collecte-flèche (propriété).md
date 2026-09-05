@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Collecte-flèche
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Collecte-flèche](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Collecte-flèche)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Collecte-flèche]]

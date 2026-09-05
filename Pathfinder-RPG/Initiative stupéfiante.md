@@ -13,11 +13,11 @@ Categories:
 
 *Vos réflexes vifs laissent les adversaires que vous surprenez complètement désorientés.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** [Science de l’initiative](./Science de linitiative.md)
+**Condition.** [[Science de linitiative|Science de l’initiative]]
 
-**Avantage.** Le personnage considère chaque adversaire qui entame le [round de surprise](./round de surprise.md) comme étant [pris au dépourvu](./Pris au dépourvu.md) comme s’il le restait jusqu’à ce qu’il agisse au cours du premier round de combat, et ce, même s’il a pu agir au cours du round de surprise.
+**Avantage.** Le personnage considère chaque adversaire qui entame le [[round de surprise]] comme étant [[pris au dépourvu]] comme s’il le restait jusqu’à ce qu’il agisse au cours du premier round de combat, et ce, même s’il a pu agir au cours du round de surprise.
 
 (((Befuddling Initiative (Combat)
 Your quick reflexes leave your surprised opponents particularly disoriented.

@@ -4,13 +4,13 @@ Title: Ailes flottantes(artefact mineur)
 LastModified: 2021-07-28 22:17
 ---
 
-<div style="float:right">***Retour aux [Artefacts mineurs|artefacts mineurs].***</div><div class="BD">
+<div style="float:right">***Retour aux [[Artefacts mineurs]].***</div><div class="BD">
 {s:BDTitre|Ailes flottantes|}
-**Aura** [Enchantement](./Enchantement.md) puissante ; **NLS** 18 ; **Emplacement** aucun ; **Poids** 500g
+**Aura** [[Enchantement]] puissante ; **NLS** 18 ; **Emplacement** aucun ; **Poids** 500g
 (((Description)))
-Une fois par jour, le porteur des ailes flottantes peut parler calmement à une créature qui est au moins indifférente à propos de lui. Pendant que le porteur fait cela, il gagne un bonus de +10 aux jets [bluff](./Bluff.md) et de [diplomatie](./Diplomatie.md) contre cette cible. À n'importe quel moment de la discussion,il peut lancer [suggestion](./Suggestion.md) sur cette cible.
+Une fois par jour, le porteur des ailes flottantes peut parler calmement à une créature qui est au moins indifférente à propos de lui. Pendant que le porteur fait cela, il gagne un bonus de +10 aux jets [[bluff]] et de [[diplomatie]] contre cette cible. À n'importe quel moment de la discussion,il peut lancer [[suggestion]] sur cette cible.
 
-Quand elle fait cela, elle peut tenter un jet de bluff pour camoufler l'acte de lancer le sort en de simples mots, gagnant un bonus de +10 à ce jet. Un observateur réalise que le porteur lance un sort seulement si le résultat de son jet de [perception](./Perception.md) excède le résultat du jet de bluff.
+Quand elle fait cela, elle peut tenter un jet de bluff pour camoufler l'acte de lancer le sort en de simples mots, gagnant un bonus de +10 à ce jet. Un observateur réalise que le porteur lance un sort seulement si le résultat de son jet de [[perception]] excède le résultat du jet de bluff.
 
 Un personnage qui porte les ailes flottantes n'est pas affecté par les effets de détection ou de révélation de mensonge à moins que ces effets ne viennent d'un sort du 8ème ou 9ème niveau.
 (((Destruction)))

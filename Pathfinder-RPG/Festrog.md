@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.120*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, NM}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}); [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, NM}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]], [[vision dans le noir]] à 18 m (12 {s:c}); [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 11, pris au dépourvu  13 (Dex +1, naturelle +3)}
 {s:BDTexte|**pv**  9 (2d8)}
@@ -27,20 +27,20 @@ Categories:
 {s:BDTexte|**Attaque spéciale** charge et croc-en-jambe, ingestion de cadavres, pustules infectieuses}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 13, **Con** —, **Int** 10, **Sag** 12, **Cha** 11}
-{s:BDTexte|**BBA** +1, **BMO** +4, **DMD** 15 (19 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +6, [Escalade](./Escalade.md) +8, [Perception](./Perception.md) +6, [Survie](./Survie.md) +3}
+{s:BDTexte|**BBA** +1, **BMO** +4, **DMD** 15 (19 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe)}
+{s:BDTexte|**Compétences** [[Discrétion]] +6, [[Escalade]] +8, [[Perception]] +6, [[Survie]] +3}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire, couple, gang (3-5) ou meute (6-11)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Charge et croc-en-jambe (Ext).** Un festrog qui touche sa cible avec son attaque de morsure après avoir effectué une [charge](./charge.md) à quatre pattes peut tenter de faire un [croc-en-jambe](./croc-en-jambe.md) à son adversaire (bonus de +4). Ceci ne provoque pas d’attaque d’opportunité.}
-{s:BDTexte|**Course à quatre pattes (Ext).** Le festrog peut courir à quatre pattes à une vitesse de 15 mètres (10 {s:c}) s’il n’a rien en main. Lorsqu’il court à ses quatre pattes, considérez qu’il a le don [Course](./Course.md).}
-{s:BDTexte|**Ingestion de cadavres (Sur).** Chaque fois qu’un festrog réussit une attaque de morsure, il se nourrit de la chair de son adversaire et gagne 5 [points de vie temporaires](./points de vie temporaires.md). Il ne peut pas gagner plus de 5 points de vie temporaires à la fois lorsqu’il utilise cette capacité.}
+{s:BDTexte|**Charge et croc-en-jambe (Ext).** Un festrog qui touche sa cible avec son attaque de morsure après avoir effectué une [[charge]] à quatre pattes peut tenter de faire un [[croc-en-jambe]] à son adversaire (bonus de +4). Ceci ne provoque pas d’attaque d’opportunité.}
+{s:BDTexte|**Course à quatre pattes (Ext).** Le festrog peut courir à quatre pattes à une vitesse de 15 mètres (10 {s:c}) s’il n’a rien en main. Lorsqu’il court à ses quatre pattes, considérez qu’il a le don [[Course]].}
+{s:BDTexte|**Ingestion de cadavres (Sur).** Chaque fois qu’un festrog réussit une attaque de morsure, il se nourrit de la chair de son adversaire et gagne 5 [[points de vie temporaires]]. Il ne peut pas gagner plus de 5 points de vie temporaires à la fois lorsqu’il utilise cette capacité.}
 {s:BDTexte|**Pustules infectieuses (Ext).** Lorsqu’un festrog reçoit des dégâts d’une arme tranchante ou perforante, certains de ses furoncles éclatent, aspergeant l’attaquant de pus. Ces sécrétions nocives sont porteuses d’une sévère maladie se transmettant par voie cutanée et provoquent une éruption de douloureux furoncles nécrotiques.}
-{s:BDTexte|**Furoncles nécrotiques. Maladie** — contact ; JdS [Vigueur](./Vigueur.md) [DD](./DD.md) 11 ; incubation 1 jour ; fréquence 1/jour ; effet affaiblissement temporaire de 1d4 points de [Con](./Constitution.md) ; guérison 1 réussite.}
+{s:BDTexte|**Furoncles nécrotiques. Maladie** — contact ; JdS [[Vigueur]] [[DD]] 11 ; incubation 1 jour ; fréquence 1/jour ; effet affaiblissement temporaire de 1d4 points de [[Constitution|Con]] ; guérison 1 réussite.}
 </div>
 </td><td><div>
 *Ce cadavre glabre horriblement déformé, couvert de pustules, se déplace et grogne davantage comme un chien mort-vivant que comme un homme.*

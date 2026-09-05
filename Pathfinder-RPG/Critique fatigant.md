@@ -10,14 +10,14 @@ Categories:
 
 *Les critiques du personnage fatiguent son adversaire.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT), [critique](./Dons.md#DONCRITIQUE)
+**Catégorie** : [[Dons#DONCOMBAT|combat]], [[Dons#DONCRITIQUE|critique]]
 
-**Conditions.** [Don pour les critiques](./Don pour les critiques.md), [bonus de base à l’attaque](./BBA.md) +13.
+**Conditions.** [[Don pour les critiques]], [[BBA|bonus de base à l’attaque]] +13.
 
-**Avantage.** Quand le personnage inflige un [coup critique](./coup critique.md) à un adversaire, ce dernier est [fatigué](./Fatigué.md). Ce don n’a aucun effet sur une cible déjà [fatiguée](./Fatigué.md) ou [épuisée](./Épuisé.md).
+**Avantage.** Quand le personnage inflige un [[coup critique]] à un adversaire, ce dernier est [[fatigué]]. Ce don n’a aucun effet sur une cible déjà [[fatigué|fatiguée]] ou [[épuisé|épuisée]].
 
-**Spécial.** Le personnage applique un seul effet de critique à chacun de ses [coups critiques](./coup critique.md), à moins qu’il dispose de la [Maîtrise du critique](./Maîtrise du critique.md).
+**Spécial.** Le personnage applique un seul effet de critique à chacun de ses [[coup critique|coups critiques]], à moins qu’il dispose de la [[Maîtrise du critique]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Si le personnage réussit un [critique potentiel](./coup critique.md) contre un adversaire [fatigué](./Fatigué.md), il peut dépenser 5 points d’endurance avant de tenter le jet de confirmation pour que son ennemi soit [épuisé](./Épuisé.md) s’il confirme le critique.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Si le personnage réussit un [[coup critique|critique potentiel]] contre un adversaire [[fatigué]], il peut dépenser 5 points d’endurance avant de tenter le jet de confirmation pour que son ennemi soit [[épuisé]] s’il confirme le critique.

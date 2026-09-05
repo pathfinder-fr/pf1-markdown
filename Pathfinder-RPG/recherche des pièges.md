@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Roublard#RECHERCHEDESPIEGES
 ---
 
->>> [Roublard#RECHERCHEDESPIEGES](./Roublard.md#RECHERCHEDESPIEGES)
+>>> [[Roublard#RECHERCHEDESPIEGES]]

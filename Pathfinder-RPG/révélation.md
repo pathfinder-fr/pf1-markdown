@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Oracle#REVELATION
 ---
 
->>> [Oracle#REVELATION](./Oracle.md#REVELATION)
+>>> [[Oracle#REVELATION]]

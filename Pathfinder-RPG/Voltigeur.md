@@ -8,7 +8,7 @@ Categories:
 
 *Le personnage est doué pour bondir, sauter et voltiger.*
 
-**Avantage.** Le personnage obtient un bonus de +2 sur tous ses tests d’[Acrobaties](./Acrobaties.md) et de [Vol](./Vol.md). Si le personnage a 10 [rangs](./rang.md) ou plus dans l’une de ces [compétences](./Compétences.md), le bonus de cette [compétence](./Compétences.md) passe à +4.
+**Avantage.** Le personnage obtient un bonus de +2 sur tous ses tests d’[[Acrobaties]] et de [[Vol]]. Si le personnage a 10 [[rang|rangs]] ou plus dans l’une de ces [[compétences]], le bonus de cette [[compétences|compétence]] passe à +4.
 
 {s:CMy}
 ### Version mythique
@@ -16,4 +16,4 @@ Categories:
 
 **Condition.** Voltigeur
 
-**Avantage.** Le bonus aux tests d’[Acrobaties](./Acrobaties.md) et de [Vol](./Vol.md) conféré par Voltigeur augmente de +2. De plus, le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour considérer qu’il a obtenu un 20 naturel à l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.
+**Avantage.** Le bonus aux tests d’[[Acrobaties]] et de [[Vol]] conféré par Voltigeur augmente de +2. De plus, le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour considérer qu’il a obtenu un 20 naturel à l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.

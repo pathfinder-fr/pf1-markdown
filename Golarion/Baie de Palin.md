@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Les industries de la baie de Palin sont les plus importantes que contrôle [Korvosa](./Korvosa.md). Les produits sortant de ces usines sont d’une grande qualité et les environs, notamment le fleuve le Faucon, sont très pollués. Aussi, les petits artisans, les druides et certains adorateurs de [Gozreh](./Gozreh.md) voient d’un mauvais œil ce centre industriel.
+Les industries de la baie de Palin sont les plus importantes que contrôle [[Korvosa]]. Les produits sortant de ces usines sont d’une grande qualité et les environs, notamment le fleuve le Faucon, sont très pollués. Aussi, les petits artisans, les druides et certains adorateurs de [[Gozreh]] voient d’un mauvais œil ce centre industriel.

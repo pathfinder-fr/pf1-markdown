@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Humanoïde|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.36*, Codex monstrueux p.6}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) (bourbiérin) de taille M, CM}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (bourbiérin) de taille M, CM}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 9, pris au dépourvu 14 (armure +2, Dex -1, naturelle +3)}
 {s:BDTexte|**pv** 22 (3d8+9)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 9, **Con** 14, **Int** 8, **Sag** 11, **Cha** 10}
 {s:BDTexte|**BBA** +2, **BMO** +4, **DMD** 13}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morgenstern), [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +2 (+14 pour le saut), [Discrétion](./Discrétion.md) -1 (+7 dans les marais), [Natation](./Natation.md) +10 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +16 pour sauter, [Discrétion](./Discrétion.md) +8 dans les marais, [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morgenstern), [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +2 (+14 pour le saut), [[Discrétion]] -1 (+7 dans les marais), [[Natation]] +10 ; **Modificateurs raciaux** [[Acrobaties]] +16 pour sauter, [[Discrétion]] +8 dans les marais, [[Perception]] +4}
 {s:BDTexte|**Langues** bourbiérin}
 {s:BDTexte|**Particularités** déplacement facilité (marais), retenir son souffle}
 {s:BDSousTitre|Écologie}
@@ -35,10 +35,10 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou armée (3-12)}
 {s:BDTexte|**Trésor** équipement de PNJ (armure de cuir, morgenstern, autres trésors)}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Coassement terrifiant (Sur)** Une fois par heure, chaque bourbiérin peut utiliser une [action simple](./Action simple.md) pour pousser un puissant et terrifiant coassement. Toutes les créatures (autres que des bourbiérins) situées dans un rayon de 9 m (6 {s:c}) doivent réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 13 pour ne pas être [secouées](./Secoué.md) pendant 1d4 rounds. Celles qui réussissent ce [jet de sauvegarde](./jet de sauvegarde.md) ne peuvent plus être affectées par le coassement du bourbiérin pendant les 24 heures qui suivent. Les créatures qui étaient déjà [secouées](./Secoué.md) deviennent [effrayées](./Effrayé.md) pendant 1d4 rounds. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend du [Charisme](./Charisme.md) et inclut un bonus racial de +2.}
+{s:BDTexte|**Coassement terrifiant (Sur)** Une fois par heure, chaque bourbiérin peut utiliser une [[action simple]] pour pousser un puissant et terrifiant coassement. Toutes les créatures (autres que des bourbiérins) situées dans un rayon de 9 m (6 {s:c}) doivent réussir un jet de [[Volonté]] de [[DD]] 13 pour ne pas être [[secoué|secouées]] pendant 1d4 rounds. Celles qui réussissent ce [[jet de sauvegarde]] ne peuvent plus être affectées par le coassement du bourbiérin pendant les 24 heures qui suivent. Les créatures qui étaient déjà [[secoué|secouées]] deviennent [[effrayé|effrayées]] pendant 1d4 rounds. Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]] et inclut un bonus racial de +2.}
 {s:BDTexte|**Déplacement facilité (marais) (Ext)** Les bourbiérins peuvent traverser tous les terrains naturels difficiles à leur vitesse normale pour autant qu'ils se trouvent dans un marais. Les terrains modifiés par magie ont cependant leur effet normal.}
-{s:BDTexte|**Langue gluante (Ext)** Lorsqu'une créature a été touchée par l'attaque de langue du boubiérin, elle ne peut plus s'éloigner de plus de 3 m (2 {s:c}) de lui et elle subit une pénalité de -2 à la CA tant que la langue du bourbiérin reste attachée (ces pénalités ne se cumulent pas si plusieurs langues sont attachées). La victime peut détacher la langue en réussissant un test de [Force](./Force.md) opposé (par une [action simple](./Action simple.md)) ou en lui infligeant 2 points de dégâts de type tranchant (la langue à une CA de 11 et les dégâts infligés ne sont pas appliqués au bourbiérin). Le bourbiérin non plus ne peut pas s'éloigner de plus de 3 m (2 {s:c}) de la victime pais il peut détacher sa langue par une [action libre](./Action libre.md). Contrairement aux [grenouilles géantes](./Grenouille géante.md), les bourbiérins ne peuvent pas utiliser leur langue pour attirer la victime vers eux.}
-{s:BDTexte|**Retenir son souffle (Ext)** Un bourbiérin peut retenir sa respiration pendant un nombre de rounds égal à quatre fois sa valeur de [Constitution](./Constitution.md) avant de risquer de se noyer ou de suffoquer.}
+{s:BDTexte|**Langue gluante (Ext)** Lorsqu'une créature a été touchée par l'attaque de langue du boubiérin, elle ne peut plus s'éloigner de plus de 3 m (2 {s:c}) de lui et elle subit une pénalité de -2 à la CA tant que la langue du bourbiérin reste attachée (ces pénalités ne se cumulent pas si plusieurs langues sont attachées). La victime peut détacher la langue en réussissant un test de [[Force]] opposé (par une [[action simple]]) ou en lui infligeant 2 points de dégâts de type tranchant (la langue à une CA de 11 et les dégâts infligés ne sont pas appliqués au bourbiérin). Le bourbiérin non plus ne peut pas s'éloigner de plus de 3 m (2 {s:c}) de la victime pais il peut détacher sa langue par une [[action libre]]. Contrairement aux [[grenouille géante|grenouilles géantes]], les bourbiérins ne peuvent pas utiliser leur langue pour attirer la victime vers eux.}
+{s:BDTexte|**Retenir son souffle (Ext)** Un bourbiérin peut retenir sa respiration pendant un nombre de rounds égal à quatre fois sa valeur de [[Constitution]] avant de risquer de se noyer ou de suffoquer.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -46,29 +46,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Bourbiérin](./Bourbiérin.md) || 2
+| [[Bourbiérin]] || 2
 |-
-| [Bourbiérin balafré](./Bourbiérin balafré.md) || 6
+| [[Bourbiérin balafré]] || 6
 |-
-| [Bourbiérin sauvage](./Bourbiérin sauvage.md) || 4
+| [[Bourbiérin sauvage]] || 4
 |-
-| [Brute bourbiérine](./Brute bourbiérine.md) || 3
+| [[Brute bourbiérine]] || 3
 |-
-| [Champion bourbiérin](./Champion bourbiérin.md) || 7
+| [[Champion bourbiérin]] || 7
 |-
-| [Chasseur bourbiérin](./Chasseur bourbiérin.md) || 5
+| [[Chasseur bourbiérin]] || 5
 |-
-| [Grandcoasseur bourbiérin](./Grandcoasseur bourbiérin.md) || 3
+| [[Grandcoasseur bourbiérin]] || 3
 |-
-| [Guerrier abyssal bourbiérin](./Guerrier abyssal bourbiérin.md) || 8
+| [[Guerrier abyssal bourbiérin]] || 8
 |-
-| [Oracle du marais bourbiérin](./Oracle du marais bourbiérin.md) || 4
+| [[Oracle du marais bourbiérin]] || 4
 |-
-| [Prêtre-roi bourbiérin](./Prêtre-roi bourbiérin.md) || 11
+| [[Prêtre-roi bourbiérin]] || 11
 |-
-| [Prophète bourbiérin](./Prophète bourbiérin.md) || 5
+| [[Prophète bourbiérin]] || 5
 |-
-| [Traqueur bourbiérin](./Traqueur bourbiérin.md) || 9
+| [[Traqueur bourbiérin]] || 9
 |}
 </div>*Deux yeux globuleux dominent la tête de crapaud de cette créature à la peau verte recouverte de verrues et de protubérances.*
 
@@ -115,25 +115,25 @@ La métamorphose fascine les bourbiérins, qu’il s’agisse du développement 
 ### Traits raciaux alternatifs
 Vous pouvez remplacer les traits raciaux habituels des bourbiérins par les suivants.
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
-- {s:CM}**Estivation.** Les marais ne sont pas tous humides toute l’année et certains bourbiérins ont dû s’adapter pour survivre dans des marais saisonniers qui traversent aussi des périodes chaudes et arides. Un bourbiérin doté de ce don racial peut passer une heure à s’enfouir dans la terre humide ou meuble, afin d’entrer dans un état d’animation suspendue pendant un temps indéfini. Tant qu’il estive, le bourbiérin n’a pas besoin de manger ni de boire, mais il subit les mêmes malus aux tests de [Perception](./Perception.md) que s’il dormait. Il lui faut une [action complexe](./Action complexe.md) pour mettre un terme à sa dormance. Ce trait racial remplace celui accordant un bonus racial aux tests d’[Acrobaties](./Acrobaties.md) pour sauter.
-- {s:CM}**Sauteur.** Dans certaines régions, les bourbiérins ont des pattes plus adaptées aux mouvements explosifs sur la terre ferme qu’à la propulsion sous l’eau. On considère que ces bourbiérins ont toujours une course d’élan quand ils tentent un test d’[Acrobaties](./Acrobaties.md) pour sauter, mais leur vitesse de nage est réduite de 4,50 mètres.
+- {s:CM}**Estivation.** Les marais ne sont pas tous humides toute l’année et certains bourbiérins ont dû s’adapter pour survivre dans des marais saisonniers qui traversent aussi des périodes chaudes et arides. Un bourbiérin doté de ce don racial peut passer une heure à s’enfouir dans la terre humide ou meuble, afin d’entrer dans un état d’animation suspendue pendant un temps indéfini. Tant qu’il estive, le bourbiérin n’a pas besoin de manger ni de boire, mais il subit les mêmes malus aux tests de [[Perception]] que s’il dormait. Il lui faut une [[action complexe]] pour mettre un terme à sa dormance. Ce trait racial remplace celui accordant un bonus racial aux tests d’[[Acrobaties]] pour sauter.
+- {s:CM}**Sauteur.** Dans certaines régions, les bourbiérins ont des pattes plus adaptées aux mouvements explosifs sur la terre ferme qu’à la propulsion sous l’eau. On considère que ces bourbiérins ont toujours une course d’élan quand ils tentent un test d’[[Acrobaties]] pour sauter, mais leur vitesse de nage est réduite de 4,50 mètres.
 
 </div><div class="wiki-col wiki-col-6">
-- {s:CM}**Prêtre-roi.** Les bourbiérins élevés avec de la pulpe de libellule bleue deviennent parfois des prêtres-rois. Ils ont un bonus d’armure naturelle de +2 seulement mais ne subissent pas le malus racial de –2 à la [Dextérité](./Dextérité.md) et à l’[Intelligence](./Intelligence.md) commun aux autres membres de leur race. De plus, ils reçoivent un bonus racial de +4 à la [Sagesse](./Sagesse.md) et bénéficient des pouvoirs magiques suivants : 1/jour — *[nappe de brouillard](./Nappe de brouillard.md)*, *[nuée grouillante](./Nuée grouillante.md)*. Leur niveau de lanceur de sorts est égal à leurs [DV](./../Ressources/DV.md). Ce trait racial ne remplace pas les autres, il vient en sus, mais il est extrêmement rare et le MJ est le seul à pouvoir l’attribuer.
+- {s:CM}**Prêtre-roi.** Les bourbiérins élevés avec de la pulpe de libellule bleue deviennent parfois des prêtres-rois. Ils ont un bonus d’armure naturelle de +2 seulement mais ne subissent pas le malus racial de –2 à la [[Dextérité]] et à l’[[Intelligence]] commun aux autres membres de leur race. De plus, ils reçoivent un bonus racial de +4 à la [[Sagesse]] et bénéficient des pouvoirs magiques suivants : 1/jour — *[[nappe de brouillard]]*, *[[nuée grouillante]]*. Leur niveau de lanceur de sorts est égal à leurs [[DV]]. Ce trait racial ne remplace pas les autres, il vient en sus, mais il est extrêmement rare et le MJ est le seul à pouvoir l’attribuer.
 
 </div></div>
 ### Bonus alternatifs de classe de prédilection
 Voici les options ouvertes aux bourbiérins dotés de la classe de prédilection indiquée. Le bonus s’applique à chaque fois que le personnage choisit la récompense de classe, sauf indication contraire.
 
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
-**Barbare.** Ajoutez 1 aux tests d’[Acrobaties](./Acrobaties.md) du barbare quand il saute.
+**Barbare.** Ajoutez 1 aux tests d’[[Acrobaties]] du barbare quand il saute.
 
 **Barde.** Réduisez le temps de rechargement entre deux coassements terrifiants de 5 minutes (5 minutes au minimum).
 
 </div><div class="wiki-col wiki-col-6">
-**Guerrier.** Augmentez les points de vie de la langue du guerrier de 1 et ajoutez 1/2 aux tests de [Force](./Force.md) opposés quand il tente d’empêcher une créature de se détacher de sa langue.
+**Guerrier.** Augmentez les points de vie de la langue du guerrier de 1 et ajoutez 1/2 aux tests de [[Force]] opposés quand il tente d’empêcher une créature de se détacher de sa langue.
 
-**Rôdeur.** Ajoutez 1/4 au bonus d’un [environnement de prédilection](./Rôdeur.md#ENVIRONNEMENTDEPREDILECTION) déjà choisi (au maximum +2 par environnement de prédilection).
+**Rôdeur.** Ajoutez 1/4 au bonus d’un [[Rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]] déjà choisi (au maximum +2 par environnement de prédilection).
 
 </div></div>
 {s:CM}
@@ -151,30 +151,30 @@ Voici quelques dons très appréciés des bourbiérins.
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Coassement étourdissant](./Coassement étourdissant.md) || <sup>CM</sup> || [Coassement supersonique](./Coassement supersonique.md), [Sac vocal](./Sac vocal.md), [bourbiérin](./Bourbiérin.md), [coassement terrifiant](./Bourbiérin.md) || Étourdit les créatures avec le coassement
+| [[Coassement étourdissant]] || <sup>CM</sup> || [[Coassement supersonique]], [[Sac vocal]], [[bourbiérin]], [[Bourbiérin|coassement terrifiant]] || Étourdit les créatures avec le coassement
 
 |- CLASS="premier"
-| [Coassement supersonique](./Coassement supersonique.md) || <sup>CM</sup> || [Sac vocal](./Sac vocal.md), [bourbiérin](./Bourbiérin.md), [coassement terrifiant](./Bourbiérin.md) || Inflige des dégâts de son avec le coassement
+| [[Coassement supersonique]] || <sup>CM</sup> || [[Sac vocal]], [[bourbiérin]], [[Bourbiérin|coassement terrifiant]] || Inflige des dégâts de son avec le coassement
 
 |- CLASS="premier"
-| [Coassement supplémentaire](./Coassement supplémentaire.md) || <sup>CM</sup> || [Bourbiérin](./Bourbiérin.md), [coassement terrifiant](./Bourbiérin.md) || Gain d'une utilisation par heure supplémentaire du coassement terrifiant
+| [[Coassement supplémentaire]] || <sup>CM</sup> || [[Bourbiérin]], [[Bourbiérin|coassement terrifiant]] || Gain d'une utilisation par heure supplémentaire du coassement terrifiant
 
 |- CLASS="premier"
-| [Langue puissante](./Langue puissante.md) || <sup>CM</sup> || [For](./For.md) 17, [langue gluante](./Bourbiérin.md) || Gain du pouvoir attirer avec la langue
+| [[Langue puissante]] || <sup>CM</sup> || [[For]] 17, [[Bourbiérin|langue gluante]] || Gain du pouvoir attirer avec la langue
 
 |- CLASS="premier"
-| [Sac vocal](./Sac vocal.md) || <sup>CM</sup> || [Bourbiérin](./Bourbiérin.md), [coassement terrifiant](./Bourbiérin.md) || Augmente la portée du coassement terrifiant
+| [[Sac vocal]] || <sup>CM</sup> || [[Bourbiérin]], [[Bourbiérin|coassement terrifiant]] || Augmente la portée du coassement terrifiant
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Objets magiques
 Ces objets magiques sont spécifiques aux demi-elfes :
-- [Baume de sueur empoisonnée](./Baume de sueur empoisonnée.md)
-- [Chapeau d’énergie négative](./Chapeau dénergie négative.md)
+- [[Baume de sueur empoisonnée]]
+- [[Chapeau dénergie négative|Chapeau d’énergie négative]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Sorts
 Ces sorts sont réservés aux RACE :
-- ***[Aura de cannibalisme](./aura de cannibalisme.md)*** *(CM)* ([Ens](./Ensorceleur.md)/[Mag 3](./Magicien.md), [Prê 3](./Prêtre.md), [Sor 3](./Sorcière.md)). Vol l'énergie vitale des créatures autour du personnage.
+- ***[[Aura de cannibalisme]]*** *(CM)* ([[Ensorceleur|Ens]]/[[Magicien|Mag 3]], [[Prêtre|Prê 3]], [[Sorcière|Sor 3]]). Vol l'énergie vitale des créatures autour du personnage.
 
 </div></div>

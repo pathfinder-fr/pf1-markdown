@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Plante|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.142*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Plante](./type Plante.md) de taille M, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Plante|Plante]] de taille M, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 9, pris au dépourvu 15 (Dex -1, naturelle +6)}
 {s:BDTexte|**pv** 30 (4d8+12)}
 {s:BDTexte|**Réf** +0, **Vig** +7, **Vol** +1}
-{s:BDTexte|**Immunités** [traits des plantes](./Traits des plantes.md) }
+{s:BDTexte|**Immunités** [[traits des plantes]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c})}
 {s:BDTexte|**Corps à corps** 4 tentacules +4 (1d4+1 et putréfaction)}
@@ -33,7 +33,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou tapis (3-12)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Putréfaction (Ext).** Les créatures touchées par un tentacule de fongoïde violet doivent effectuer un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 15. En cas d'échec, la chair autour du point de contact se décompose très rapidement puis se détache en dévoilant les os. Cette terrible affliction inflige un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 points de [Force](./Force.md) et de 1d4 points de [Constitution](./Constitution.md). Il s'agit d'un effet de type "poison". Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Putréfaction (Ext).** Les créatures touchées par un tentacule de fongoïde violet doivent effectuer un jet de [[Vigueur]] de [[DD]] 15. En cas d'échec, la chair autour du point de contact se décompose très rapidement puis se détache en dévoilant les os. Cette terrible affliction inflige un [[affaiblissement temporaire]] de 1d4 points de [[Force]] et de 1d4 points de [[Constitution]]. Il s'agit d'un effet de type "poison". Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>*Des filaments violets sortent des fissures perçant le chapeau de ce champignon pointu qui pousse sur un lit de racines tentaculaires.*
 
@@ -63,7 +63,7 @@ uniquement pour attaquer ou chasser des proies. Tant qu’ils
 disposent d’un stock suffisant de nourriture, ils se contentent
 généralement de rester immobiles. De nombreuses races
 souterraines tirent avantage de cette caractéristique (les
-[troglodytes](./Troglodyte.md) et les [végépygmées](./Végépygmée.md) en particulier). Elles placent des
+[[Troglodyte|troglodytes]] et les [[Végépygmée|végépygmées]] en particulier). Elles placent des
 gardes fongoïdes violets aux embranchements principaux de leur
 réseau de cavernes ainsi qu’aux entrées de leurs grottes, et elles
 s’assurent de bien les nourrir pour qu’ils ne s’aventurent pas plus
@@ -93,14 +93,14 @@ compris la chair de celui qui les utilise. Le
 DD du jet de sauvegarde pour résister à cet
 effet est le même que ci-dessus.
 
-Un test d’[Artisanat](./Artisanat.md) (alchimie) de DD 25 et
+Un test d’[[Artisanat]] (alchimie) de DD 25 et
 250 po de réactifs permettent de préserver le
 venin, mais ce procédé le dilue également.
 
-**Venin violet.** Poison — contact ; JS [Vigueur](./Vigueur.md)
+**Venin violet.** Poison — contact ; JS [[Vigueur]]
 (DD 13) ; fréquence 1/minute pendant
 6 minutes ; effet affaiblissement
-temporaire de 1d2 [Force](./Force.md) et
-1d2 [Constitution](./Constitution.md) ; guérison
+temporaire de 1d2 [[Force]] et
+1d2 [[Constitution]] ; guérison
 1 réussite ; coût 800 po
 </div></td></tr></table>

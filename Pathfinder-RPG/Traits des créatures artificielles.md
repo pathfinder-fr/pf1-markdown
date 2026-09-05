@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Traits des créatures artificielles (capacité)
 ---
 
->>> [Traits des créatures artificielles (capacité)](./Traits des créatures artificielles (capacité).md)
+>>> [[Traits des créatures artificielles (capacité)]]

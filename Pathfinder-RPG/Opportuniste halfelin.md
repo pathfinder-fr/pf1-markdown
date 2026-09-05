@@ -21,19 +21,19 @@ La plupart des opportunistes halfelins commencent leur carrière comme roublards
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1 || +0 || +1 || +0 || +1
-| CLASS="gauche" | [Manœuvre mesquine](./Opportuniste halfelin.md#MANOEUVREMESQUINE), [dénicheur de pièges](./Opportuniste halfelin.md#DENICHEURDEPIEGES), [excellente assistance +1](./Opportuniste halfelin.md#EXCELLENTEASSISTANCE)
+| CLASS="gauche" | [[Opportuniste halfelin#MANOEUVREMESQUINE|Manœuvre mesquine]], [[Opportuniste halfelin#DENICHEURDEPIEGES|dénicheur de pièges]], [[Opportuniste halfelin#EXCELLENTEASSISTANCE|excellente assistance +1]]
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Chance exceptionnelle +2](./Opportuniste halfelin.md#CHANCEEXCEPTIONNELLE), [attaque sournoise +1d6](./Opportuniste halfelin.md#ATTAQUESOURNOISE), [dénicheur de pièges supérieur](./Opportuniste halfelin.md#DENICHEURDEPIEGESSUPERIEUR)
+| CLASS="gauche" | [[Opportuniste halfelin#CHANCEEXCEPTIONNELLE|Chance exceptionnelle +2]], [[Opportuniste halfelin#ATTAQUESOURNOISE|attaque sournoise +1d6]], [[Opportuniste halfelin#DENICHEURDEPIEGESSUPERIEUR|dénicheur de pièges supérieur]]
 |-
 | 3 || +2 || +2 || +1 || +2
-| CLASS="gauche" | [Intégration](./Opportuniste halfelin.md#INTEGRATION), [excellente assistance +2](./Opportuniste halfelin.md#EXCELLENTEASSISTANCE)
+| CLASS="gauche" | [[Opportuniste halfelin#INTEGRATION|Intégration]], [[Opportuniste halfelin#EXCELLENTEASSISTANCE|excellente assistance +2]]
 |- CLASS="alt"
 | 4 || +3 || +2 || +1 || +2
-| CLASS="gauche" | [Chance exceptionnelle +3](./Opportuniste halfelin.md#CHANCEEXCEPTIONNELLE), [attaque sournoise +2d6](./Opportuniste halfelin.md#ATTAQUESOURNOISE)
+| CLASS="gauche" | [[Opportuniste halfelin#CHANCEEXCEPTIONNELLE|Chance exceptionnelle +3]], [[Opportuniste halfelin#ATTAQUESOURNOISE|attaque sournoise +2d6]]
 |-
 | 5 || +3 || +3 || +2 || +3
-| CLASS="gauche" | [Attaquant opportuniste](./Opportuniste halfelin.md#ATTAQUANTOPPORTUNISTE), [excellente assistance +3](./Opportuniste halfelin.md#EXCELLENTEASSISTANCE)
+| CLASS="gauche" | [[Opportuniste halfelin#ATTAQUANTOPPORTUNISTE|Attaquant opportuniste]], [[Opportuniste halfelin#EXCELLENTEASSISTANCE|excellente assistance +3]]
 |}
 </center>
 
@@ -55,16 +55,16 @@ cette classe de prestige de respecter leurs principes.
 ### Conditions
 Pour devenir un opportuniste halfelin, le personnage doit répondre aux conditions suivantes.
 
-**Dons.** [Maîtrise du combat défensif](./Maîtrise du combat défensif.md).
+**Dons.** [[Maîtrise du combat défensif]].
 
-**Race.** [Halfelin](./Halfelin.md).
+**Race.** [[Halfelin]].
 
-**Compétences.** 5 rangs en [Perception](./Perception.md), 5 rangs en [Discrétion](./Discrétion.md).
+**Compétences.** 5 rangs en [[Perception]], 5 rangs en [[Discrétion]].
 
 ### Compétences de classe
-Les compétences de classe de l’opportuniste halfelin (et la caractéristique associée à chacune d’elles) sont : [Acrobaties](./Acrobaties.md) (Dex), [Bluff](./Bluff.md) (Cha), [Déguisement](./Déguisement.md) (Cha), [Diplomatie](./Diplomatie.md) (Cha), [Discrétion](./Discrétion.md) (Dex), [Escalade](./Escalade.md) (For), [Escamotage](./Escamotage.md) (Dex), [Évasion](./Évasion.md) (Dex), [Linguistique](./Linguistique.md) (Int), [Natation](./Natation.md) (Cha), [Perception](./Perception.md) (Sag), [Psychologie](./Psychologie.md) (Sag), [Représentation](./Représentation.md) (Cha) et [Sabotage](./Sabotage.md) (Dex).
+Les compétences de classe de l’opportuniste halfelin (et la caractéristique associée à chacune d’elles) sont : [[Acrobaties]] (Dex), [[Bluff]] (Cha), [[Déguisement]] (Cha), [[Diplomatie]] (Cha), [[Discrétion]] (Dex), [[Escalade]] (For), [[Escamotage]] (Dex), [[Évasion]] (Dex), [[Linguistique]] (Int), [[Natation]] (Cha), [[Perception]] (Sag), [[Psychologie]] (Sag), [[Représentation]] (Cha) et [[Sabotage]] (Dex).
 
-**Points de compétence par niveau.** 6 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 6 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de la classe
 Voici toutes les capacités de classe de la classe de prestige opportuniste halfelin.
@@ -74,7 +74,7 @@ Les opportunistes halfelins ne maîtrisent aucune arme ou armure particulière.
 
 {s:Reference|MANOEUVREMESQUINE}
 #### Manœuvre mesquine (Ext)
-En combat, l’opportuniste halfelin peut se servir des actions d’un ennemi à son propre avantage, comme si l’adversaire utilisait aider quelqu’un pour aider l’opportuniste, lui accordant un bonus pour son prochain [test de compétence](./test de compétence.md), [jet d’attaque](./jet dattaque.md) ou à la [CA](./CA.md) contre la prochaine attaque. L’ennemi doit être en mesure d’atteindre l’opportuniste, et l’opportuniste doit activer cette capacité par une [action immédiate](./Action immédiate.md) et réussir un test de [manœuvre offensive](./Manœuvre offensive.md) contre le [DMD](./DMD.md) de l’ennemi ; si le MJ donne son accord, l’opportuniste peut substituer le modificateur d’une autre caractéristique à celui de sa [Force](./Force.md) lorsqu’il fait son test de manœuvre offensive (il peut, par exemple, utiliser sa [Dextérité](./Dextérité.md) pour une action basée sur l’agilité, ou son [Charisme](./Charisme.md) pour une action sociale). Si le halfelin réussit son test de manœuvre offensive, il rajoute le bonus d’[aider quelqu’un](./aider qqn.md) à l’action de son prochain tour et soustrait ce bonus au jet de l’ennemi pour cette action. Notez que si le test de manœuvre offensive est réussi, le résultat du jet de l’ennemi ne compte pas pour cette capacité : l’opportuniste halfelin peut utiliser le gourdin que manie un géant pour faire un plus grand saut, que le géant réussisse ou rate son jet d’attaque.
+En combat, l’opportuniste halfelin peut se servir des actions d’un ennemi à son propre avantage, comme si l’adversaire utilisait aider quelqu’un pour aider l’opportuniste, lui accordant un bonus pour son prochain [[test de compétence]], [[jet dattaque|jet d’attaque]] ou à la [[CA]] contre la prochaine attaque. L’ennemi doit être en mesure d’atteindre l’opportuniste, et l’opportuniste doit activer cette capacité par une [[action immédiate]] et réussir un test de [[manœuvre offensive]] contre le [[DMD]] de l’ennemi ; si le MJ donne son accord, l’opportuniste peut substituer le modificateur d’une autre caractéristique à celui de sa [[Force]] lorsqu’il fait son test de manœuvre offensive (il peut, par exemple, utiliser sa [[Dextérité]] pour une action basée sur l’agilité, ou son [[Charisme]] pour une action sociale). Si le halfelin réussit son test de manœuvre offensive, il rajoute le bonus d’[[aider qqn|aider quelqu’un]] à l’action de son prochain tour et soustrait ce bonus au jet de l’ennemi pour cette action. Notez que si le test de manœuvre offensive est réussi, le résultat du jet de l’ennemi ne compte pas pour cette capacité : l’opportuniste halfelin peut utiliser le gourdin que manie un géant pour faire un plus grand saut, que le géant réussisse ou rate son jet d’attaque.
 
 Le MJ décide si l’action de l’ennemi profite ou non à l’opportuniste comme celui-ci le souhaiterait. Les événements se déroulant entre le tour de l’ennemi et le tour du halfelin peuvent empêcher celui-ci de mener à terme l’action voulue ; si cette situation se présente, il perd le bonus d’aider quelqu’un, mais peut agir à son tour normalement.
 
@@ -82,19 +82,19 @@ Le MJ décide si l’action de l’ennemi profite ou non à l’opportuniste com
 
 {s:Reference|DENICHEURDEPIEGES}
 #### Dénicheur de pièges (Ext)
-L’opportuniste halfelin a le don de repérer le danger et d’y réagir. Il gagne le talent de roublard [dénicheur de pièges](./Talents.md#DENICHEURDEPIEGES).
+L’opportuniste halfelin a le don de repérer le danger et d’y réagir. Il gagne le talent de roublard [[talents#DENICHEURDEPIEGES|dénicheur de pièges]].
 
 {s:Reference|EXCELLENTEASSISTANCE}
 #### Excellente assistance (Ext)
-L’opportuniste halfelin a un talent exceptionnel pour tirer le meilleur de ceux qui l’aident. Augmentez le bonus qu’il reçoit d’[aider quelqu’un](./aider qqn.md) de +1. Il augmente encore de +1 au niveau 3 et au niveau 5. Cette augmentation ne s’applique pas lorsque le halfelin utilise aider quelqu’un pour aider les autres, seulement lorsque ce sont les autres qui l’aident.
+L’opportuniste halfelin a un talent exceptionnel pour tirer le meilleur de ceux qui l’aident. Augmentez le bonus qu’il reçoit d’[[aider qqn|aider quelqu’un]] de +1. Il augmente encore de +1 au niveau 3 et au niveau 5. Cette augmentation ne s’applique pas lorsque le halfelin utilise aider quelqu’un pour aider les autres, seulement lorsque ce sont les autres qui l’aident.
 
 {s:Reference|CHANCEEXCEPTIONNELLE}
 #### Chance exceptionnelle (Ext)
-Au niveau 2, l’opportuniste halfelin apprend à exploiter davantage sa chance innée. Son bonus racial halfelin aux [jets de sauvegarde](./JDS.md) passe à +2. Ce bonus passe à +3 au niveau 4.
+Au niveau 2, l’opportuniste halfelin apprend à exploiter davantage sa chance innée. Son bonus racial halfelin aux [[jds|jets de sauvegarde]] passe à +2. Ce bonus passe à +3 au niveau 4.
 
 {s:Reference|ATTAQUESOURNOISE}
 #### Attaque sournoise (Ext)
-Il s’agit exactement de la [capacité de roublard du même nom](./attaque sournoise.md). Les dégâts supplémentaires infligés augmentent de +1d6 tous les niveaux pairs (aux niveaux 2 et 4). Si l’opportuniste halfelin a un bonus d’attaque sournoise provenant d’une autre source, les bonus de dégâts se cumulent.
+Il s’agit exactement de la [[attaque sournoise|capacité de roublard du même nom]]. Les dégâts supplémentaires infligés augmentent de +1d6 tous les niveaux pairs (aux niveaux 2 et 4). Si l’opportuniste halfelin a un bonus d’attaque sournoise provenant d’une autre source, les bonus de dégâts se cumulent.
 
 {s:Reference|DENICHEURDEPIEGESSUPERIEUR}
 #### Dénicheur de pièges supérieur (Ext)
@@ -102,8 +102,8 @@ Au niveau 2, la portée de la capacité dénicheur de pièges de l’opportunist
 
 {s:Reference|INTEGRATION}
 #### Intégration (Ext)
-Au niveau 3, l’opportuniste halfelin maîtrise l’art d’envoyer des signaux non-verbaux capables de traduire des notions telles que l’accord et l’affiliation. Ceci lui permet d’agir comme s’il était à sa place dans n’importe quelle situation, qu’il soit dans une réception aristocratique ou dans le sanctuaire principal d’un culte maléfique. Il peut faire un test de [Déguisement](./Déguisement.md) plutôt qu’un test de [Diplomatie](./Diplomatie.md) pour influencer les attitudes de départ des [PNJ](./PNJ.md). Il n’a pas besoin de changer d’apparence pour effectuer ce test : cette capacité s’appuie sur le fait de savoir instinctivement comment agir dans telles ou telles circonstances. Si plusieurs créatures ayant une vision différente du comportement approprié sont présentes, le halfelin ne peut pas les affecter simultanément et doit choisir une créature ou un groupe cible à influencer : il ne peut pas prétendre être invité à une réception chic pour impressionner les nobles tout en se faisant passer pour un domestique pour se mêler aux serviteurs.
+Au niveau 3, l’opportuniste halfelin maîtrise l’art d’envoyer des signaux non-verbaux capables de traduire des notions telles que l’accord et l’affiliation. Ceci lui permet d’agir comme s’il était à sa place dans n’importe quelle situation, qu’il soit dans une réception aristocratique ou dans le sanctuaire principal d’un culte maléfique. Il peut faire un test de [[Déguisement]] plutôt qu’un test de [[Diplomatie]] pour influencer les attitudes de départ des [[PNJ]]. Il n’a pas besoin de changer d’apparence pour effectuer ce test : cette capacité s’appuie sur le fait de savoir instinctivement comment agir dans telles ou telles circonstances. Si plusieurs créatures ayant une vision différente du comportement approprié sont présentes, le halfelin ne peut pas les affecter simultanément et doit choisir une créature ou un groupe cible à influencer : il ne peut pas prétendre être invité à une réception chic pour impressionner les nobles tout en se faisant passer pour un domestique pour se mêler aux serviteurs.
 
 {s:Reference|ATTAQUANTOPPORTUNISTE}
 #### Attaquant opportuniste (Ext)
-Au niveau 5, l’opportuniste halfelin maîtrise l’art de frapper ses ennemis au moment où ils sont le plus vulnérables. Lorsqu’il porte une [attaque d’opportunité](./attaque dopportunité.md), il inflige les dégâts de son attaque sournoise même si sa cible n’est pas [prise au dépourvu](./Pris au dépourvu.md) ou n’a pas perdu son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) d’une quelconque manière.
+Au niveau 5, l’opportuniste halfelin maîtrise l’art de frapper ses ennemis au moment où ils sont le plus vulnérables. Lorsqu’il porte une [[attaque dopportunité|attaque d’opportunité]], il inflige les dégâts de son attaque sournoise même si sa cible n’est pas [[pris au dépourvu|prise au dépourvu]] ou n’a pas perdu son bonus de [[Dextérité]] à la [[CA]] d’une quelconque manière.

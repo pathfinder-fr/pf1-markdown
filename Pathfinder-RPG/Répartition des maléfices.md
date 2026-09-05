@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage peut diviser les effets d’un maléfice qui cible une créature et en affecter une autre située dans son champ de vision. *
 
-**Condition.** [Sorcière](./Sorcière.md) de niveau 10
+**Condition.** [[Sorcière]] de niveau 10
 
-**Avantage.** Quand le personnage utilise un de ses [maléfices](./maléfices.md) (pas un majeur ni un grand) qui vise une unique créature, il peut en choisir une seconde située à moins de 9 mètres (6 {s:c}) de la première. Elle sera aussi affectée par le maléfice.
+**Avantage.** Quand le personnage utilise un de ses [[maléfices]] (pas un majeur ni un grand) qui vise une unique créature, il peut en choisir une seconde située à moins de 9 mètres (6 {s:c}) de la première. Elle sera aussi affectée par le maléfice.

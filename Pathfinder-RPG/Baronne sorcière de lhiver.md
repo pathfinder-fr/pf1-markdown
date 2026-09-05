@@ -13,11 +13,11 @@ Categories:
 <div class="BD">
 {s:BDtitre|Baronne sorcière de l'hiver|FP 4}
 {s:pucem|Humanoïde|Forêt-Jungle|Froid}
-{s:BDtexte|*Source : [Irrisen, pays de l'hiver éternel p.62](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Irrisen, pays de l'hiver éternel p.62]]*}
 {s:BDtexte|**PX** 1 200}
-{s:BDtexte|[Humain](./Humain.md) (f) [sorcière](./Sorcière.md) ([sorcière de l’hiver](./Sorcière de lhiver (sorcière).md)) 5}
-{s:BDtexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md)) de taille M, NM}
-{s:BDtexte|**Init** +1 ; [Perception](./Perception.md) +5}
+{s:BDtexte|[[Humain]] (f) [[Sorcière]] ([[Sorcière de lhiver (sorcière)|sorcière de l’hiver]]) 5}
+{s:BDtexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]]) de taille M, NM}
+{s:BDtexte|**Init** +1 ; [[Perception]] +5}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 13, contact 12, pris au dépourvu 11 (armure +1, Dex +1, esquive +1)}
 {s:BDtexte|**pv** 20 (5d6)}
@@ -26,29 +26,29 @@ Categories:
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 9 m}
 {s:BDtexte|**Corps à corps** dague de maître, +2 (1d4-1/19-20)}
-{s:BDtexte|**Attaques spéciales** [maléfices](./Sorcière.md#MALEFICE) ([dépérissement](./maléfices.md#Dépérissement) <nowiki>[</nowiki>15 mètres<nowiki>]</nowiki>, [mauvais œil](./maléfices.md#Mauvaisœil) <nowiki>[</nowiki>-2, 7 rounds<nowiki>]</nowiki>)}
-{s:BDtexte|**Pouvoirs magiques** ([NLS](./NLS.md) 5 ; [concentration](./concentration.md) +7)}
-{s:BDsorts|Constant — *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)* (seulement contre les températures froides)}
-{s:BDtexte|**Sorts de sorcière préparés** ([NLS](./NLS.md) 5 ; [concentration](./concentration.md) +9)}
-{s:BDsorts|3 — *[exilé par la nature](./Exilé par la nature.md)* (DD 17), *[tempête de neige](./Tempête de neige.md)* (DD 18)}
-{s:BDsorts|2 — *[froid pénétrant](./Froid pénétrant.md)* (DD 16), *[immobilisation de personne](./Immobilisation de personne.md)* (DD 16), *[image miroir](./Image miroir.md)*}
-{s:BDsorts|1 — *[contact glacial](./Contact glacial.md)* (DD 15), *[morsure du froid](./morsure du froid.md)*, *[pieux de glace](./Pieux de glace.md)* (DD 15), *[sommeil](./Sommeil.md)* (DD 15)}
-{s:BDsorts|0 (à volonté) — *[hébétement](./Hébétement.md)* (DD 14), *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[rayon de givre](./Rayon de givre.md)*}
-{s:BDsorts|**Protecteur** [tromperie](./protecteurs.md#TROMPERIE)}
+{s:BDtexte|**Attaques spéciales** [[Sorcière#MALEFICE|maléfices]] ([[Maléfices#Dépérissement|dépérissement]] <nowiki>[[</nowiki>15 mètres<nowiki>]]</nowiki>, [[Maléfices#Mauvaisœil|mauvais œil]] <nowiki>[[</nowiki>-2, 7 rounds<nowiki>]]</nowiki>)}
+{s:BDtexte|**Pouvoirs magiques** ([[NLS]] 5 ; [[concentration]] +7)}
+{s:BDsorts|Constant — *[[endurance aux énergies destructives]]* (seulement contre les températures froides)}
+{s:BDtexte|**Sorts de sorcière préparés** ([[NLS]] 5 ; [[concentration]] +9)}
+{s:BDsorts|3 — *[[exilé par la nature]]* (DD 17), *[[tempête de neige]]* (DD 18)}
+{s:BDsorts|2 — *[[froid pénétrant]]* (DD 16), *[[immobilisation de personne]]* (DD 16), *[[image miroir]]*}
+{s:BDsorts|1 — *[[contact glacial]]* (DD 15), *[[morsure du froid]]*, *[[pieux de glace]]* (DD 15), *[[sommeil]]* (DD 15)}
+{s:BDsorts|0 (à volonté) — *[[hébétement]]* (DD 14), *[[détection de la magie]]*, *[[lecture de la magie]]*, *[[rayon de givre]]*}
+{s:BDsorts|**Protecteur** [[Protecteurs#TROMPERIE|tromperie]]}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 8, **Dex** 13, **Con** 10, **Int** 18, **Sag** 12, **Cha** 14}
 {s:BDtexte|**BBA** +2, **BMO** +1, **DMD** 12}
-{s:BDtexte|**Dons** [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Préparation de potions](./Préparation de potions.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDtexte|**Compétences** [Art de la magie](./Art de la magie.md) +12, [Artisanat](./Artisanat.md) (alchimie) +11, [Bluff](./Bluff.md) +7, [Connaissances](./Connaissances.md) (mystères) +12, [Connaissances](./Connaissances.md) (nature) +11, [Diplomatie](./Diplomatie.md) +7, [Équitation](./Équitation.md) +7, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +5}
+{s:BDtexte|**Dons** [[Esquive]], [[Magie de guerre]], [[Préparation de potions]], [[Vigueur surhumaine]]}
+{s:BDtexte|**Compétences** [[Art de la magie]] +12, [[Artisanat]] (alchimie) +11, [[Bluff]] +7, [[Connaissances]] (mystères) +12, [[Connaissances]] (nature) +11, [[Diplomatie]] +7, [[Équitation]] +7, [[Intimidation]] +10, [[Perception]] +5}
 {s:BDtexte|**Langues** commun, géant, hallit, infernal, scalde}
-{s:BDtexte|**Particularités** chair fraîche, magie des glaces, [familier de la sorcière](./Sorcière.md#FAMILIER) (corbeau)}
+{s:BDtexte|**Particularités** chair fraîche, magie des glaces, [[Sorcière#FAMILIER|familier de la sorcière]] (corbeau)}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** tous (Enclave de la Reine-Sorcière)}
 {s:BDtexte|**Organisation sociale** solitaire}
-{s:BDtexte|**Trésor** équipement de PNJ ([dague](./dague (arme).md) [de maître](./arme de maître.md), *[bracelets d’armure +1](./Bracelets darmure.md)*, *[potion](./Potions magiques.md) de [grâce féline](./Grâce féline.md)*, *[potions](./Potions magiques.md) de [soins légers](./Soins légers.md)* <nowiki>[</nowiki>2<nowiki>]</nowiki>, *[potions](./Potions magiques.md) d’[invisibilité](./Invisibilité.md)*, *[baguette](./Baguettes magiques.md) de [rayon affaiblissant](./Rayon affaiblissant.md)* <nowiki>[</nowiki>24 charges<nowiki>]</nowiki>)}
+{s:BDtexte|**Trésor** équipement de PNJ ([[dague (arme)|dague]] [[arme de maître|de maître]], *[[Bracelets darmure|bracelets d’armure +1]]*, *[[Potions magiques|potion]] de [[grâce féline]]*, *[[Potions magiques|potions]] de [[soins légers]]* <nowiki>[[</nowiki>2<nowiki>]]</nowiki>, *[[Potions magiques|potions]] d’[[invisibilité]]*, *[[Baguettes magiques|baguette]] de [[rayon affaiblissant]]* <nowiki>[[</nowiki>24 charges<nowiki>]]</nowiki>)}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Chair fraîche (Ext).** Une sorcière de l’hiver possède une *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)* comme pouvoir magique constant, mais seulement contre les températures froides. Au niveau 4, elle gagne une [résistance](./Résistance (capacité).md) au froid de 5 qui lui permet d’être à l’aise dans le froid même quand il gèle. Ce pouvoir remplace le maléfice de sorcière de niveau 4.}
-{s:BDtexte|**Magie des glaces.** Quand une sorcière de l’hiver lance un sort u registre du [froid](./Registre.md), le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) contre ce sort augmente de 1. Une baronne ne peut pas apprendre ou lancer de sorts du registre du feu.}
+{s:BDtexte|**Chair fraîche (Ext).** Une sorcière de l’hiver possède une *[[endurance aux énergies destructives]]* comme pouvoir magique constant, mais seulement contre les températures froides. Au niveau 4, elle gagne une [[Résistance (capacité)|résistance]] au froid de 5 qui lui permet d’être à l’aise dans le froid même quand il gèle. Ce pouvoir remplace le maléfice de sorcière de niveau 4.}
+{s:BDtexte|**Magie des glaces.** Quand une sorcière de l’hiver lance un sort u registre du [[registre|froid]], le [[DD]] du [[jds|jet de sauvegarde]] contre ce sort augmente de 1. Une baronne ne peut pas apprendre ou lancer de sorts du registre du feu.}
 </div>
 </td>
 <td>

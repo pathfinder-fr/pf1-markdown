@@ -8,9 +8,9 @@ Categories:
 - Ville
 ---
 
-Quantium est la capitale du [Nex](./Nex.md). Elle est située sur la côte est du [Garund](./Garund.md), au bord de l'[océan Obari](./océan Obari.md).
+Quantium est la capitale du [[Nex]]. Elle est située sur la côte est du [[Garund]], au bord de l'[[océan Obari]].
 
-En raison du nombre de palais, de jardins suspendus, de labyrinthes de végétaux qui y sont construits et de la réputation de ses universités de magie profane, la ville a souvent été comparée à [Sothis](./Sothis.md), capitale de l'[Osirion](./Osirion.md), ou à [Oppara](./Oppara.md), capitale du [Taldor](./Taldor.md).
+En raison du nombre de palais, de jardins suspendus, de labyrinthes de végétaux qui y sont construits et de la réputation de ses universités de magie profane, la ville a souvent été comparée à [[Sothis]], capitale de l'[[Osirion]], ou à [[Oppara]], capitale du [[Taldor]].
 
 Le lieu le plus visité de la ville est sa grande promenade centrale, lieu de parade habituel de la ville, appelée promenade du Sorcier. En son centre, on verra une massive fontaine de marbre blanc entourée par deux golems, l'un vert, l'autre rouge. Tout le long de la promenade, de nombreuses statues de l'archimage Nex et de ses valeureux héros ont été installées, pour le plus grand plaisir des yeux.
 

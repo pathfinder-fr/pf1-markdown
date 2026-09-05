@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Les sbires du protecteur divin du personnage sont prêts à répondre à son appel. *
 
-**Conditions.** Aura, capacité à lancer *[convocation de monstres](./Convocation de monstres I.md)*
+**Conditions.** Aura, capacité à lancer *[[convocation de monstres I|convocation de monstres]]*
 
-**Avantage.** Quand le personnage utilise *[convocation de monstres](./Convocation de monstres I.md)* pour appeler des créatures dont l’alignement du sous-type ou des sous-types correspond exactement à son aura, il peut lancer le sort par une [action simple](./Action simple.md) et non en 1 [round](./round.md).
+**Avantage.** Quand le personnage utilise *[[convocation de monstres I|convocation de monstres]]* pour appeler des créatures dont l’alignement du sous-type ou des sous-types correspond exactement à son aura, il peut lancer le sort par une [[action simple]] et non en 1 [[round]].

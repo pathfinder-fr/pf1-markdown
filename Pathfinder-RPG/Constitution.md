@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques#CONSTITUTION
 ---
 
->>> [Caractéristiques#CONSTITUTION](./Caractéristiques.md#CONSTITUTION)
+>>> [[Caractéristiques#CONSTITUTION]]

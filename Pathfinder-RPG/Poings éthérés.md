@@ -8,16 +8,16 @@ Categories:
 - Sort spirite 3
 ---
 
-{s:AO}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Magus](./Magus.md) 4, [Spi](./Spirite.md) 3  
+{s:AO}**École** [[Transmutation]] ; **Niveau** [[Magus]] 4, [[spirite|Spi]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [G](./composantes.md)  
+**Composantes** [[composantes|G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le lanceur de sorts  
 
 **Durée** 1 minute/niveau (T)
 
-Les mains du personnage agissent à la fois dans le plan Éthéré et Matériel, ce qui lui permet de faire des dégâts normaux aux créatures intangibles avec ses griffes, ses attaques à mains nues et ses sorts et effets de contact. Les chances de rater à cause de la nature éthérée de la cible (comme avec le sort *[clignotement](./Clignotement.md)*) ne s’appliquent pas mais celles basées sur le camouflage fonctionnent normalement.
+Les mains du personnage agissent à la fois dans le plan Éthéré et Matériel, ce qui lui permet de faire des dégâts normaux aux créatures intangibles avec ses griffes, ses attaques à mains nues et ses sorts et effets de contact. Les chances de rater à cause de la nature éthérée de la cible (comme avec le sort *[[clignotement]]*) ne s’appliquent pas mais celles basées sur le camouflage fonctionnent normalement.

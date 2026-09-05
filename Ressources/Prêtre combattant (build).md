@@ -4,7 +4,7 @@ Title: Prêtre combattant
 LastModified: 2015-05-17 12:45
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst10364_Pretre-combattant.aspx#post429089)***</div>
 
 <nav class="wiki-toc"></nav>
@@ -14,7 +14,7 @@ LastModified: 2015-05-17 12:45
 #### 1. Rôle du personnage
 
 C'est un combattant de seconde ligne. Il ne faut pas chercher à jouer à «qui a la plus grosse DPR» avec le guerrier ou le barbare, ni à vouloir «soloter un boss après 3 rounds de buff».
-À bas niveau, la différence de potentiel martial entre un [prêtre](./../Pathfinder-RPG/Prêtre.md) et une classe combattante n'est pas très importante. À haut niveau, on rappellera aux membres du groupe qu'on a aussi une liste de sorts à 9 niveaux...
+À bas niveau, la différence de potentiel martial entre un [[Pathfinder-RPG.Prêtre|prêtre]] et une classe combattante n'est pas très importante. À haut niveau, on rappellera aux membres du groupe qu'on a aussi une liste de sorts à 9 niveaux...
 
 #### 2. Caractéristiques et race
 
@@ -24,7 +24,7 @@ Il faut de la Force pour taper et un minimum de Sagesse pour lancer des sorts. D
 
 ##### 2.2 Race
 
-Humains, demi-elfes et demi-orques feront de bons [prêtres](./../Pathfinder-RPG/Prêtre.md) combattants. Le nain aussi, mais l'absence de bonus flottant attribuable à la Force réservera sans doute la race aux fortes distribution de points.
+Humains, demi-elfes et demi-orques feront de bons [[Pathfinder-RPG.Prêtre|prêtres]] combattants. Le nain aussi, mais l'absence de bonus flottant attribuable à la Force réservera sans doute la race aux fortes distribution de points.
 
 ##### 2.3 Exemple de répartition
 
@@ -42,7 +42,7 @@ En 25 pts : For 18 (16+2), Dex 14, Con 14, Int 10, Sag 14, Cha 10
 
 **3.3.1 Capacités de classe**
 
-Le choix des domaines est compliqué. Le [prêtre](./../Pathfinder-RPG/Prêtre.md) étant un semi-combattant sans capacité spéciale particulière pour le combat, il faudrait idéalement que les pouvoirs viennent remplir cet aspect, au moins en partie (le reste viendra des sorts).
+Le choix des domaines est compliqué. Le [[Pathfinder-RPG.Prêtre|prêtre]] étant un semi-combattant sans capacité spéciale particulière pour le combat, il faudrait idéalement que les pouvoirs viennent remplir cet aspect, au moins en partie (le reste viendra des sorts).
 
 De base, on n'a pas grand chose : Guerre, Force, Destruction, Bien apportent des bonus mais coûtent des actions simples (donc des rounds où l'on ne tape pas). Duperie offre un bon pouvoir défensif. Chaos et Folie ont chacun pouvoir typé "debuff", intéressant pour un combattant de mêlée. Sinon, on pourra toujours se tourner vers les "gros" domaines classiques que sont Voyage, Libération et Chance.
 
@@ -66,32 +66,32 @@ Pour les buffs de courte durée à lancer pendant le combat, on veillera à :</b
 
 Bien sûr, on ne crache pas sur une petite Force du colosse, mais seulement si la configuration du combat le permet. Si on n'arrive pas à anticiper, alors le sort Faveur divine en incantation rapide sera sans doute plus approprié.
 
-**3.4.0 [++Pathfinder-RPG.Liste des sorts de prêtres.ashx#0|Sorts de niveau 0]**
+**3.4.0 [[Pathfinder-RPG.Liste des sorts de prêtres.ashx#0|Sorts de niveau 0]]**
 
-**3.4.1 [++Pathfinder-RPG.Liste des sorts de prêtres.ashx#1|Sorts de niveau 1]**
+**3.4.1 [[Pathfinder-RPG.Liste des sorts de prêtres.ashx#1|Sorts de niveau 1]]**
 
-**3.4.2 [++Pathfinder-RPG.Liste des sorts de prêtres.ashx#2|Sorts de niveau 2]**
+**3.4.2 [[Pathfinder-RPG.Liste des sorts de prêtres.ashx#2|Sorts de niveau 2]]**
 
-**3.4.3 [++Pathfinder-RPG.Liste des sorts de prêtres.ashx#3|Sorts de niveau 3]**
+**3.4.3 [[Pathfinder-RPG.Liste des sorts de prêtres.ashx#3|Sorts de niveau 3]]**
 
-**3.4.4 [++Pathfinder-RPG.Liste des sorts de prêtres.ashx#4|Sorts de niveau 4]**
+**3.4.4 [[Pathfinder-RPG.Liste des sorts de prêtres.ashx#4|Sorts de niveau 4]]**
 
-**3.4.5 [++Pathfinder-RPG.Liste des sorts de prêtres.ashx#5|Sorts de niveau 5]**
+**3.4.5 [[Pathfinder-RPG.Liste des sorts de prêtres.ashx#5|Sorts de niveau 5]]**
 
-**3.4.6 [++Pathfinder-RPG.Liste des sorts de prêtres.ashx#6|Sorts de niveau 6]**
+**3.4.6 [[Pathfinder-RPG.Liste des sorts de prêtres.ashx#6|Sorts de niveau 6]]**
 
-**3.4.7 [++Pathfinder-RPG.Liste des sorts de prêtres.ashx#6|Sorts de niveau 7]**
+**3.4.7 [[Pathfinder-RPG.Liste des sorts de prêtres.ashx#6|Sorts de niveau 7]]**
 
-**3.4.8 [++Pathfinder-RPG.Liste des sorts de prêtres.ashx#6|Sorts de niveau 8]**
+**3.4.8 [[Pathfinder-RPG.Liste des sorts de prêtres.ashx#6|Sorts de niveau 8]]**
 
-**3.4.9 [++Pathfinder-RPG.Liste des sorts de prêtres.ashx#6|Sorts de niveau 9]**
+**3.4.9 [[Pathfinder-RPG.Liste des sorts de prêtres.ashx#6|Sorts de niveau 9]]**
 
 
 
 
 #### 4. Équipement
 
-Le [prêtre](./../Pathfinder-RPG/Prêtre.md) manie les armes courantes et celle de son dieu. Certaines races disposent également du maniement de certaines armes dites "raciales".
+Le [[Pathfinder-RPG.Prêtre|prêtre]] manie les armes courantes et celle de son dieu. Certaines races disposent également du maniement de certaines armes dites "raciales".
 
 - Iomedae => épée longue
 - Sarenrae => cimeterre
@@ -110,43 +110,43 @@ Pour les autres, il y a toujours la lance longue et/ou la morgenstern.
 |- CLASS="titre"
 | Niveau || Classe || BBA || NLS || Capacités de classe, dons
 |- CLASS="premier"
-| 01 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 1 || +0 || 1 || [++Pathfinder-RPG.Science de linitiative.ashx|Science de l'initiative]
+| 01 || [[Pathfinder-RPG.Prêtre|Prêtre]] 1 || +0 || 1 || [[Pathfinder-RPG.Science de linitiative.ashx|Science de l'initiative]]
 |-
-| 02 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 2 || +1 || 2 || &nbsp;
+| 02 || [[Pathfinder-RPG.Prêtre|Prêtre]] 2 || +1 || 2 || &nbsp;
 |-
-| 03 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 3 || +2 || 3 || [++Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]
+| 03 || [[Pathfinder-RPG.Prêtre|Prêtre]] 3 || +2 || 3 || [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]
 |-
-| 04 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 4 || +3 || 4 || &nbsp;
+| 04 || [[Pathfinder-RPG.Prêtre|Prêtre]] 4 || +3 || 4 || &nbsp;
 |-
-| 05 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 5 || +3 || 5 || [++Pathfinder-RPG.Sort éloigné.ashx|Métamagie : sort éloigné]
+| 05 || [[Pathfinder-RPG.Prêtre|Prêtre]] 5 || +3 || 5 || [[Pathfinder-RPG.Sort éloigné.ashx|Métamagie : sort éloigné]]
 |-
-| 06 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 6 || +4 || 6 || &nbsp;
+| 06 || [[Pathfinder-RPG.Prêtre|Prêtre]] 6 || +4 || 6 || &nbsp;
 |-
-| 07 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 7 || +5 || 7 || [++Pathfinder-RPG.Incantation rapide.ashx|Métamagie : incantation rapide]
+| 07 || [[Pathfinder-RPG.Prêtre|Prêtre]] 7 || +5 || 7 || [[Pathfinder-RPG.Incantation rapide.ashx|Métamagie : incantation rapide]]
 |-
-| 08 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 8 || +6 || 8 || &nbsp;
+| 08 || [[Pathfinder-RPG.Prêtre|Prêtre]] 8 || +6 || 8 || &nbsp;
 |-
-| 09 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 9 || +6 || 9 || [++Pathfinder-RPG.Fente.ashx|Fente]
+| 09 || [[Pathfinder-RPG.Prêtre|Prêtre]] 9 || +6 || 9 || [[Pathfinder-RPG.Fente.ashx|Fente]]
 |-
-| 10 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 10 || +7 || 10 || &nbsp;
+| 10 || [[Pathfinder-RPG.Prêtre|Prêtre]] 10 || +7 || 10 || &nbsp;
 |-
-| 11 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 11 || +8 || 11 || [++Pathfinder-RPG.Interférence divine.ashx|Interférence divine]
+| 11 || [[Pathfinder-RPG.Prêtre|Prêtre]] 11 || +8 || 11 || [[Pathfinder-RPG.Interférence divine.ashx|Interférence divine]]
 |-
-| 12 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 12 || +9 || 12 || &nbsp;
+| 12 || [[Pathfinder-RPG.Prêtre|Prêtre]] 12 || +9 || 12 || &nbsp;
 |-
-| 13 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 13 || +9 || 13 || [++Pathfinder-RPG.Sort persistant.ashx|Métamagie : sort persistant]
+| 13 || [[Pathfinder-RPG.Prêtre|Prêtre]] 13 || +9 || 13 || [[Pathfinder-RPG.Sort persistant.ashx|Métamagie : sort persistant]]
 |-
-| 14 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 14 || +10 || 14 || &nbsp;
+| 14 || [[Pathfinder-RPG.Prêtre|Prêtre]] 14 || +10 || 14 || &nbsp;
 |-
-| 15 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 15 || +11 ||  15 || [++Pathfinder-RPG.Perfection magique.ashx|Perfection magique]
+| 15 || [[Pathfinder-RPG.Prêtre|Prêtre]] 15 || +11 ||  15 || [[Pathfinder-RPG.Perfection magique.ashx|Perfection magique]]
 |-
-| 16 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 16 || +12 || 16 || &nbsp;
+| 16 || [[Pathfinder-RPG.Prêtre|Prêtre]] 16 || +12 || 16 || &nbsp;
 |-
-| 17 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 17 || +12 || 17 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]
+| 17 || [[Pathfinder-RPG.Prêtre|Prêtre]] 17 || +12 || 17 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]]
 |-
-| 18 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 18 || +13 || 18 || &nbsp;
+| 18 || [[Pathfinder-RPG.Prêtre|Prêtre]] 18 || +13 || 18 || &nbsp;
 |-
-| 19 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 19 || +14 || 19 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]
+| 19 || [[Pathfinder-RPG.Prêtre|Prêtre]] 19 || +14 || 19 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]]
 |-
-| 20 || [Prêtre](./../Pathfinder-RPG/Prêtre.md) 20 || +15 || 20 || &nbsp;
+| 20 || [[Pathfinder-RPG.Prêtre|Prêtre]] 20 || +15 || 20 || &nbsp;
 |}

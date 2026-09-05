@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 174 po ; **Poids** 16 kg
-<span class="Catégorie">**Catégorie** [Trousses d'équipement](./Trousses déquipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
 ---
-Ce nécessaire contient de l'équipement pour les explorations souterraines : une [lanterne](./Lanterne à capote (objet).md) avec 4 flasques d'[huile](./Huile (objet).md), un [marteau](./Marteau (objet).md) et 8 [pitons](./Piton (objet).md), 30 mètres de [corde en soie](./Corde (objet).md), un [grappin](./Grappin (objet).md) et du [matériel d'escalade](./Matériel descalade (objet).md).
+Ce nécessaire contient de l'équipement pour les explorations souterraines : une [[Lanterne à capote (objet)|lanterne]] avec 4 flasques d'[[Huile (objet)|huile]], un [[Marteau (objet)|marteau]] et 8 [[Piton (objet)|pitons]], 30 mètres de [[Corde (objet)|corde en soie]], un [[Grappin (objet)|grappin]] et du [[Matériel descalade (objet)|matériel d'escalade]].

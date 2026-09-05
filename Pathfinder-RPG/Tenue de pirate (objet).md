@@ -7,8 +7,8 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:PMI}**Prix** 1 pa (simple), 30 po (élaborée) ; **Poids** 1 kg (simple), 3 kg (élaborée)<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:PMI}**Prix** 1 pa (simple), 30 po (élaborée) ; **Poids** 1 kg (simple), 3 kg (élaborée)<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 Les pirates portent toutes sortes de vêtements mais la plupart préfèrent les tenues simples composées d’une chemise de lin, d’un pantalon court en toile, de chaussettes en coton et de chaussures en cuir (même si certains pirates préfèrent naviguer pieds nus).  
   

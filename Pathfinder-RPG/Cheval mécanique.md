@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Créature artificielle|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 30*}
 - 2 400 PX
-- [Créature artificielle](./type Créature artificielle.md) ([mécanique](./sous-type créature mécanique.md)) de taille G, N
+- [[type créature artificielle|Créature artificielle]] ([[sous-type créature mécanique|mécanique]]) de taille G, N
 - **Init **+5 ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +0
 (((Défense)))
 - **CA** 20, contact 12, pris au dépourvu 17 (Dex +1, esquive +2, naturelle +8, taille -1)
 - **pv** 74 (8d10+30)
 - **Réf **+5, **Vig **+2, **Vol **+2
-- **Immunité** [traits des créatures artificielles](./Traits des créatures artificielles.md)
+- **Immunité** [[traits des créatures artificielles]]
 - **Faiblesse** vulnérabilité à l’électricité
 (((Attaque)))
 - **VD** 15 m
@@ -30,7 +30,7 @@ Categories:
 (((Statistiques)))
 - **For** 24, **Dex** 13, **Con **—, **Int **—, **Sag** 10, **Cha** 1
 - **BBA **+8 ; **BMO **+16 ; **DMD** 29 (+33 contre croc-en-jambe)
-- **Dons** [Réflexes surhumains](./Réflexes surhumains.md)<sup>S</sup>, [Science de l’initiative](./Science de linitiative.md)<sup>S</sup>
+- **Dons** [[Réflexes surhumains]]<sup>S</sup>, [[Science de linitiative|Science de l’initiative]]<sup>S</sup>
 - **Particularités** création difficile, réactivité, remontage
 (((Écologie)))
 - **Environnement** terre ferme
@@ -40,7 +40,7 @@ Categories:
 - **Puissante ruade (Ext)**. Par une action simple, le cheval mécanique peut effectuer deux attaques de sabots avec ses postérieurs. S’il touche avec les deux, il peut faire une manoeuvre offensive de Coup fabuleux, comme s’il possédait le don du même nom. Le cheval mécanique bénéficie d’un bonus racial de +4 à ce test de manoeuvre offensive.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [créatures mécaniques](./Créatures mécaniques.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Créatures mécaniques]].***</li></ul>
 *Des engrenages luisants cliquètent et vrombissent dans un concert de mouvements dès que ce destrier aux yeux rouges se déplace.*
 
 Les ingénieurs ont créé ces infatigables créatures artificielles pour remplacer les chevaux ordinaires. Elles peuvent galoper pendant des heures ou des jours si nécessaire. En plus de leur endurance, elles possèdent une grande puissance physique : leurs ruades sont capables d’envoyer voler les créatures plus petites qu’elles. De nombreux cavaliers apprécient ces chevaux qui exécutent leurs ordres sans rechigner mais d’autres sont frustrés par leur manque de personnalité.{br}
@@ -60,7 +60,7 @@ de taille M.
 
 
 - **NLS** 12 ; **Prix** 29 000 po (33 500 po pour un destrier mécanique) 
-- **Conditions requises** [Création de créatures artificielles](./Création de créatures artificielles.md), *[force de taureau](./Force de taureau.md)*, *[quête](./Quête.md)*, le créateur doit avoir un NLS de 12 au minimum ; **Compétence** [Artisanat](./Artisanat.md) (mécanique) DD 20 ; **Coût** 16 000 po (18 750 po pour un destrier mécanique)
+- **Conditions requises** [[Création de créatures artificielles]], *[[force de taureau]]*, *[[quête]]*, le créateur doit avoir un NLS de 12 au minimum ; **Compétence** [[Artisanat]] (mécanique) DD 20 ; **Coût** 16 000 po (18 750 po pour un destrier mécanique)
 
 
 </div></td></tr></table>

@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Ardagh est la cité la plus septentrionale du comté d'[Odranto](./Odranto.md) en [Ustalav](./Ustalav.md).
+Ardagh est la cité la plus septentrionale du comté d'[[Odranto]] en [[Ustalav]].
 
-Elle est située sur la rivière de l'Archer, à proximité de la frontière de l'[Ustalav](./Ustalav.md) avec les terres perdues de la [Plaie du Monde](./Plaie du monde.md).
+Elle est située sur la rivière de l'Archer, à proximité de la frontière de l'[[Ustalav]] avec les terres perdues de la [[Plaie du Monde]].

@@ -8,14 +8,14 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de contresort|}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 11 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 4 000 po ; **Poids** —
+**Aura** [[Évocation]] modérée ; **NLS** 11 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 4 000 po ; **Poids** —
 (((Description)))
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 
-[→](./FAQ- Manuel des joueurs (Équipement et objets magiques).md#5) *Anneau de contresort* : Contre-t-il les sorts à zone d’effet comme *boule de feu* ?**'
+[[FAQ- Manuel des joueurs (Équipement et objets magiques)#5|→]] *Anneau de contresort* : Contre-t-il les sorts à zone d’effet comme *boule de feu* ?**'
 
-L’<u>[anneau](./Anneau de contresort.md)</u> affecte uniquement les sorts qui ciblent le porteur, pas les sorts qui l’inclut dans leur zone d’effet. Une interprétation possible est que l’anneau immuniserait le porteur à ce lancement du sort (et le reste de la zone serait affecté normalement), mais cela nécessiterait une explication supplémentaire et créerait des situations étranges où le porteur serait immunisé à *[contrôle de l’eau](./Contrôle de leau.md)* ou *[défense magique](./Défense magique.md)* et serait capable de se déplacer normalement dans de tels effets. À la place, il est plus clair d’admettre que l’anneau n’affecte que les sorts qui ciblent le porteur).
+L’<u>[[Anneau de contresort|anneau]]</u> affecte uniquement les sorts qui ciblent le porteur, pas les sorts qui l’inclut dans leur zone d’effet. Une interprétation possible est que l’anneau immuniserait le porteur à ce lancement du sort (et le reste de la zone serait affecté normalement), mais cela nécessiterait une explication supplémentaire et créerait des situations étranges où le porteur serait immunisé à *[[contrôle de leau|contrôle de l’eau]]* ou *[[défense magique]]* et serait capable de se déplacer normalement dans de tels effets. À la place, il est plus clair d’admettre que l’anneau n’affecte que les sorts qui ciblent le porteur).
 (Le texte de l’objet magique sera clarifié dans les prochains errata.)}À première vue, cet anneau pourrait passer pour un anneau de stockage de sorts. En réalité, s’il est en effet possible d’y emmagasiner un sort du 1er au 6e niveau, celui-ci ne peut pas être lancé par la suite. Par contre, si le même sort prend le porteur de l’anneau pour cible, il est automatiquement contré, sans que le personnage ait quoi que ce soit à faire (aucune action nécessaire, pas plus qu’une connaissance particulière). Une fois utilisé sous forme de contresort, le sort contenu dans l’anneau disparaît et il devient possible d’en placer un autre (ou le même) dans l’objet.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[transfert de sorts](./Transfert de sorts.md)* ; **Coût** 2 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[transfert de sorts]]* ; **Coût** 2 000 po
 </div>

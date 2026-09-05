@@ -10,6 +10,6 @@ Categories:
 
 {s:ISG}{s:GeM}*En guérissant une créature grâce à l’énergie positive, le personnage lui apporte également de l’espoir.*
 
-**Conditions.** Capacité de classe [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE), [Science de la canalisation](./Science de la canalisation.md), suivant de [Sarenraé](./Sarenraé (technique).md)
+**Conditions.** Capacité de classe [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]], [[Science de la canalisation]], suivant de [[Sarenraé (technique)|Sarenraé]]
 
-**Avantage.** Lorsque le personnage soigne une créature en canalisant de l’énergie positive, il soulage également sa peur. Si elle est [secouée](./Secoué.md), cela met un terme à cet état préjudiciable. Si elle est [effrayée](./Effrayé.md), elle devient secouée. Si elle est [paniquée](./Paniqué.md), elle devient effrayée.
+**Avantage.** Lorsque le personnage soigne une créature en canalisant de l’énergie positive, il soulage également sa peur. Si elle est [[secoué|secouée]], cela met un terme à cet état préjudiciable. Si elle est [[effrayé|effrayée]], elle devient secouée. Si elle est [[paniqué|paniquée]], elle devient effrayée.

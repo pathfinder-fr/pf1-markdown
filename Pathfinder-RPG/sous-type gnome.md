@@ -10,4 +10,4 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire* p.31"
 
-On utilise ce sous-type pour les gnomes et les créatures qui leur sont apparentées. Les créatures de ce sous-type sont dotées de la capacité de [vision nocturne](./vision nocturne.md) et s'ils ont un [Charisme](./Charisme.md) de 11+ de pouvoirs magiques.
+On utilise ce sous-type pour les gnomes et les créatures qui leur sont apparentées. Les créatures de ce sous-type sont dotées de la capacité de [[vision nocturne]] et s'ils ont un [[Charisme]] de 11+ de pouvoirs magiques.

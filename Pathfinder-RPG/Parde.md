@@ -10,7 +10,7 @@ LastModified: 2017-01-18 15:23
 {s:pucem|Créature magique|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 204*}
 - **800 PX**
-- [Créature magique](./type Créature magique.md) de taille M, CN
+- [[type créature magique|Créature magique]] de taille M, CN
 - **Init **+7 ; **Sens **vision dans le noir à 18 m, vision nocturne, odorat ; Perception +6
 (((Défense)))
 - **CA** 20, contact 18, pris au dépourvu 12 (Dex +7, esquive +1, naturelle +2)
@@ -24,8 +24,8 @@ LastModified: 2017-01-18 15:23
 (((Statistiques)))
 - **For** 15, **Dex** 24, **Con **12, **Int **4, **Sag **13, **Cha **11
 - **BBA **+4 ; **BMO **+6 ; **DMD **24 (28 contre le croc-en-jambe)
-- **Dons **[Attaque éclair](./Attaque éclair.md)<sup>S</sup>, [Attaque en finesse](./Attaque en finesse.md), [Comme le vent](./Comme le vent.md)<sup>S</sup>, [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md)<sup>S</sup>
-- **Compétences** [Acrobaties](./Acrobaties.md) +15 (+27 pour sauter), [Discrétion](./Discrétion.md) +15, [Perception](./Perception.md) +6 ; **Modificateurs raciaux** +4 en Acrobaties (+16 pour sauter), +4 en Discrétion
+- **Dons **[[Attaque éclair]]<sup>S</sup>, [[Attaque en finesse]], [[Comme le vent]]<sup>S</sup>, [[Esquive]], [[Souplesse du serpent]]<sup>S</sup>
+- **Compétences** [[Acrobaties]] +15 (+27 pour sauter), [[Discrétion]] +15, [[Perception]] +6 ; **Modificateurs raciaux** +4 en Acrobaties (+16 pour sauter), +4 en Discrétion
 - **Langues **télépathie (empathie) à 18 m
 (((Écologie)))
 - **Environnement **forêts ou plaines chaudes ou tempérées

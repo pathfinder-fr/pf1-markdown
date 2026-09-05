@@ -5,4 +5,4 @@ LastModified: 2010-06-20 16:01
 RedirectTo: Pathfinder-RPG.point de vie
 ---
 
->>> [Pathfinder-RPG.point de vie](./point de vie.md)
+>>> [[Pathfinder-RPG.point de vie]]

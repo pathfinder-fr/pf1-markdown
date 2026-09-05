@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage évite tous les coups avec talent et défiance.*
 
-**Condition.** [Expertise du combat](./Expertise du combat.md)
+**Condition.** [[Expertise du combat]]
 
-**Avantage.** Lorsqu’il utilise [Expertise du combat](./Expertise du combat.md), le personnage gagne un bonus d’esquive supplémentaire de +2 à sa classe d’armure. Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour annuler pendant une minute les malus aux jets d’attaque au corps à corps et aux tests de [manœuvre offensive](./Manœuvre offensive.md) imposés par l’[Expertise du combat](./Expertise du combat.md).
+**Avantage.** Lorsqu’il utilise [[Expertise du combat]], le personnage gagne un bonus d’esquive supplémentaire de +2 à sa classe d’armure. Il peut dépenser une utilisation de [[pouvoir mythique]] pour annuler pendant une minute les malus aux jets d’attaque au corps à corps et aux tests de [[manœuvre offensive]] imposés par l’[[Expertise du combat]].

@@ -14,29 +14,29 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 3* p.228}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, NM}
-{s:BDTexte|**Init** +8 ; **Sens** [perception aveugle](./perception aveugle.md) 18 m, [vision dans le noir](./vision dans le noir.md) 18 m ; [Odorat](./odorat.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, NM}
+{s:BDTexte|**Init** +8 ; **Sens** [[perception aveugle]] 18 m, [[vision dans le noir]] 18 m ; [[Odorat]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 14, pris au dépourvu 14 (Dex +4, naturelle +4)}
 {s:BDTexte|**pv** 52 (7d10+4)}
 {s:BDTexte|**Réf** +9, **Vig** +4, **Vol** +6}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), **Vol** 12 m (8 {s:c}) (bonne)}
-{s:BDTexte|**Corps à corps** morsure, +10 (1d6+3 plus [saignement](./Saignement.md)) et 2 griffes, +10 (1d6+3 plus [étreinte](./Étreinte.md))}
-{s:BDTexte|**Attaques spéciales** [saignement](./Saignement.md) (1d4), absorption de sang (1 [constitution](./Constitution.md)), nuage de poussière, hurlement terrassant, [charge puissante](./Charge puissante.md) (griffe, 2d6+6)}
+{s:BDTexte|**Corps à corps** morsure, +10 (1d6+3 plus [[saignement]]) et 2 griffes, +10 (1d6+3 plus [[étreinte]])}
+{s:BDTexte|**Attaques spéciales** [[saignement]] (1d4), absorption de sang (1 [[constitution]]), nuage de poussière, hurlement terrassant, [[charge puissante]] (griffe, 2d6+6)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 18, **Con** 15, **Int** 9, **Sag** 13, **Cha** 10}
 {s:BDTexte|**BBA** +7, **BMO** +10, **DMD** 24}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Science de linitiative](./Science de linitiative.md), [Talent](./Talent.md) (Perception), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11, [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +14, [Vol](./Vol.md) +8}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Science de linitiative]], [[Talent]] (Perception), [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11, [[Discrétion]] +14, [[Perception]] +14, [[Vol]] +8}
 {s:BDTexte|**Langue** abyssal}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes ou souterrains}
 {s:BDTexte|**Organisation sociale** solitaire, groupe de chasse (2-6) ou Clan (7-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Hurlement terrassant (Sur)**. Par une [action simple](./Action simple.md), le sabosan peut pousser un hurlement assourdissant résonnant dans un [cône](./cône.md) de 9 mètres (6 {s:c}). Les créatures prises dans cette zone doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 15 ou être assourdies pendant 1 minute. Les sabosans sont immunisés contre cette capacité. Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Nuage de poussière (Ext)**. Le sabosan gagne le don supplémentaire [Vol stationnaire](./Vol stationnaire.md) et peut l’utiliser pour créer un nuage de poussière même s’il n’est pas de taille G. Le nuage de poussière créé a un [rayon](./rayon.md) de 9 mètres (6 {s:c}).}
+{s:BDTexte|**Hurlement terrassant (Sur)**. Par une [[action simple]], le sabosan peut pousser un hurlement assourdissant résonnant dans un [[cône]] de 9 mètres (6 {s:c}). Les créatures prises dans cette zone doivent réussir un jet de [[Vigueur]] [[DD]] 15 ou être assourdies pendant 1 minute. Les sabosans sont immunisés contre cette capacité. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].}
+{s:BDTexte|**Nuage de poussière (Ext)**. Le sabosan gagne le don supplémentaire [[Vol stationnaire]] et peut l’utiliser pour créer un nuage de poussière même s’il n’est pas de taille G. Le nuage de poussière créé a un [[rayon]] de 9 mètres (6 {s:c}).}
 </div>
 </td><td><div>*Cet humanoïde semblable à une chauve-souris a un corps mince et musclé couvert de fourrure, ainsi que deux grandes ailes de cuir.*
 

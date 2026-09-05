@@ -10,11 +10,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Poudre de patte-de-feu|{s:MPNJ}}
-**Aura** [Nécromancie](./Nécromancie.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 1 000 po ; **Poids** —
+**Aura** [[Nécromancie]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 1 000 po ; **Poids** —
 (((Description)))
-Cette poudre rouge vif se compose d’un mélange d’herbes rares et de sel noir. Une dose de *poudre de patte-de-feu* suffit à couvrir deux cases de 1,5 mètre de côté, en général autour de seuils. La première créature à pénétrer sur une case recouverte de cette poudre doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 14 ou être immédiatement assaillie de vagues de douleurs violentes comme si ses jambes et ses pieds étaient en train de se consumer. La victime est [fiévreuse](./Fiévreux.md) et subit 1d6 points de dégâts [non-létaux](./Blessures et mort.md#NONLETAL) par [round](./round.md) pendant 5 rounds.
+Cette poudre rouge vif se compose d’un mélange d’herbes rares et de sel noir. Une dose de *poudre de patte-de-feu* suffit à couvrir deux cases de 1,5 mètre de côté, en général autour de seuils. La première créature à pénétrer sur une case recouverte de cette poudre doit réussir un jet de [[Vigueur]] [[DD]] 14 ou être immédiatement assaillie de vagues de douleurs violentes comme si ses jambes et ses pieds étaient en train de se consumer. La victime est [[fiévreux|fiévreuse]] et subit 1d6 points de dégâts [[Blessures et mort#NONLETAL|non-létaux]] par [[round]] pendant 5 rounds.
 
 Une fois qu’une dose de *poudre de patte-de-feu* est appliquée sur une zone, celle-ci est protégée pendant 24 heures ou jusqu’à ce qu’une créature subissent ses effets, auquel cas toute la magie et la protection offertes par la poussière disparaissent définitivement.
 (((Création)))
-**Conditions** [Conditions d'objets merveilleux](./Création dobjets merveilleux.md), *[frappe douloureuse](./Frappe douloureuse.md)* ; **Coût** 500 po
+**Conditions** [[Création dobjets merveilleux|Conditions d'objets merveilleux]], *[[frappe douloureuse]]* ; **Coût** 500 po
 </div>

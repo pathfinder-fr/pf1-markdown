@@ -8,15 +8,15 @@ Categories:
 ---
 
 {s:AE}**Prix** 30 po (poney), 45 po (poney, entraîné au combat), 75 po (léger), 110 po (léger, entraîné au combat), 200 po (lourd), 300 po (lourd, entraîné au combat) ; **Poids** 400 kg (poney), 450 kg (poney, entraîné au combat), 450 kg (léger), 600 kg (léger, entraîné au combat), 1 000 kg (lourd), 1 500 kg (lourd, entraîné au combat)
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
 Ce quadrupède de taille G est utilisé comme monture et animal de bât. Les chevaux peuvent être entraînés pour la guerre mais, sinon, les champs de batailles les rendent nerveux. Beaucoup de cultures mènent des programmes d’élevage et considèrent souvent leur cheval comme étant le meilleur pour la tâche pour laquelle il a été dressé.  
   
-*Cheval léger*. Ces chevaux peuvent être montés mais servent souvent de chevaux de bât ou d’attelage. Voir les statistiques du [cheval](./Cheval.md).  
+*Cheval léger*. Ces chevaux peuvent être montés mais servent souvent de chevaux de bât ou d’attelage. Voir les statistiques du [[cheval]].  
 *Cheval léger (entraîné au combat)*. Ces chevaux de guerre légers sont dressés pour la guerre. ils sont très appréciés dans la cavalerie légère et rapide et chez les éclaireurs et les chevaliers téméraires.  
   
-*Cheval lourd*. Ces chevaux sont souvent utilisés comme animaux de bât, portant des charges importantes sur de grandes distances. Voir les statistiques du [cheval lourd](./Cheval.md).  
-*Cheval lourd (entraîné au combat)*. Les chevaux de guerre lourds sont élevés et dressés pour le combat. Ils sont souvent équipés d’une [barde](./Barde (objet).md) lourde mais se battent tout aussi férocement sans armure.  
+*Cheval lourd*. Ces chevaux sont souvent utilisés comme animaux de bât, portant des charges importantes sur de grandes distances. Voir les statistiques du [[Cheval|cheval lourd]].  
+*Cheval lourd (entraîné au combat)*. Les chevaux de guerre lourds sont élevés et dressés pour le combat. Ils sont souvent équipés d’une [[Barde (objet)|barde]] lourde mais se battent tout aussi férocement sans armure.  
   
-*Poney*. Ces créatures sont généralement utilisées pour transporter des marchandises sur des chemins de montagne étroits ou comme coursier pour les jeunes cavaliers ou les cavaliers de taille P. Voir les statistiques du [poney](./Poney.md).  
+*Poney*. Ces créatures sont généralement utilisées pour transporter des marchandises sur des chemins de montagne étroits ou comme coursier pour les jeunes cavaliers ou les cavaliers de taille P. Voir les statistiques du [[poney]].  
 *Poney (entraîné au combat)*. On peut entraîner les poneys pour la guerre tout aussi efficacement que leurs frères de plus grade taille. Ces coursiers servent souvent aux cavaliers de taille P qui prévoient de se battre.

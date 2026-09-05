@@ -8,10 +8,10 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Hache dévitalisante|{s:AE}}
-**Aura** [Nécromancie](./Nécromancie.md) puissante ; **NLS** 13 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 40 320 po ; **Poids** 6 kg
+**Aura** [[Nécromancie]] puissante ; **NLS** 13 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 40 320 po ; **Poids** 6 kg
 (((Description)))
-Cette grande hache +1 est particulièrement appréciée par les [morts-vivants](./type Mort-vivant.md) et les [créatures artificielles](./type Créature artificielle.md) qui ne souffrent pas de ses inconvénients. Une *hache dévitalisante* inflige deux [niveaux négatifs](./niveau négatif.md) à sa cible à chaque fois qu’elle lui inflige des dégâts, comme si cette cible avait été frappée par un [mort-vivant](./type Mort-vivant.md). Une journée après avoir été frappée, la cible doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 16 pour chaque [niveau négatif](./niveau négatif.md) reçu. Elle perd un niveau de façon permanente à chaque fois qu’elle rate un [jet de sauvegarde](./JDS.md).
-À chaque fois que la *hache dévitalisante* touche sa cible, elle impose également un [niveau négatif](./niveau négatif.md) à son possesseur. Ce [niveau négatif](./niveau négatif.md) disparaît après une heure.
+Cette grande hache +1 est particulièrement appréciée par les [[type mort-vivant|morts-vivants]] et les [[type Créature artificielle|créatures artificielles]] qui ne souffrent pas de ses inconvénients. Une *hache dévitalisante* inflige deux [[niveau négatif|niveaux négatifs]] à sa cible à chaque fois qu’elle lui inflige des dégâts, comme si cette cible avait été frappée par un [[type mort-vivant|mort-vivant]]. Une journée après avoir été frappée, la cible doit réussir un jet de [[Vigueur]] [[DD]] 16 pour chaque [[niveau négatif]] reçu. Elle perd un niveau de façon permanente à chaque fois qu’elle rate un [[jds|jet de sauvegarde]].
+À chaque fois que la *hache dévitalisante* touche sa cible, elle impose également un [[niveau négatif]] à son possesseur. Ce [[niveau négatif]] disparaît après une heure.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[énergie négative](./Énergie négative.md)* ; **Coût** 20 320 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[énergie négative]]* ; **Coût** 20 320 po
 </div>

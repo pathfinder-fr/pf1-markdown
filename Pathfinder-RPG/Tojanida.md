@@ -14,9 +14,9 @@ Categories:
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 3* p.261}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Extraplanaire](./sous-type extraplanaire.md)) de taille M, N}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Extraplanaire|Extraplanaire]]) de taille M, N}
 {s:BDTexte|**Init** +1 ; **Sens** vision à 360°,
-[vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +14}
+[[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 12, pris au dépourvu 19 (Dex +1, esquive +1, naturelle +9)}
 {s:BDTexte|**pv** 51 (6d10+18)}
@@ -29,11 +29,11 @@ Categories:
 {s:BDTexte|**Attaques spéciales** nuage d’encre}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 13, **Con** 17, **Int** 10, **Sag** 12, **Cha** 9}
-{s:BDTexte|**BBA** +5, **BMO** +12 (+16 [lutte](./lutte.md)), **DMD** 24 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Combat en aveugle](./Combat en aveugle.md), [Esquive](./Esquive.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +5, [Connaissances](./Connaissances.md) (plans) +9, [Discrétion](./Discrétion.md) +7,
-[Évasion](./Évasion.md) +10, [Natation](./Natation.md) +11, [Perception](./Perception.md) +14, [Psychologie](./Psychologie.md) +10,
-[Représentation](./Représentation.md) (théâtre) +5, [Survie](./Survie.md) +7}
+{s:BDTexte|**BBA** +5, **BMO** +12 (+16 [[lutte]]), **DMD** 24 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Combat en aveugle]], [[Esquive]]}
+{s:BDTexte|**Compétences** [[Bluff]] +5, [[Connaissances]] (plans) +9, [[Discrétion]] +7,
+[[Évasion]] +10, [[Natation]] +11, [[Perception]] +14, [[Psychologie]] +10,
+[[Représentation]] (théâtre) +5, [[Survie]] +7}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** eaux (plan de l’Eau)}
 {s:BDTexte|**Organisation sociale** solitaire, couple, groupe (3-6) ou culte (1 tojanida
@@ -43,16 +43,16 @@ plus 2-12 partisans humanoïdes)}
 {s:BDTexte|**Nuage d’encre (Ext).** Le tojanida
 peut libérer une sphère d’encre
 de 9 mètres de rayon une fois
-par minute par une [action libre](./Action libre.md).
+par minute par une [[action libre]].
 L’encre lui offre un camouflage
 total dans l’eau et dure 1 minute.
 Lorsqu’il utilise cette capacité hors
 de l’eau, le jet d’encre forme une ligne
 de 9 mètres de long et les créatures situées dans
-la zone doivent réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md)
-16 ou être [aveuglées](./Aveuglé.md) pendant 1 [round](./round.md). Le
-[DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la
-[Constitution](./Constitution.md).}
+la zone doivent réussir un jet de [[Réflexes]] [[DD]]
+16 ou être [[aveuglé|aveuglées]] pendant 1 [[round]]. Le
+[[DD]] du [[jet de sauvegarde]] est basé sur la
+[[Constitution]].}
 </div>
 </td><td><div>''Cette créature est un mélange entre la tortue et le crabe, avec ses nageoires
 à la place des pattes, son bec qui claque et ses deux pinces.''

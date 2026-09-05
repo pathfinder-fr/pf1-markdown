@@ -11,6 +11,6 @@ Categories:
 
 *Le personnage est diplômé de l'école de monte d'élite d'hippogriffe de l'académie militaire à la Cité-état diabolique. Il peut non seulement chevaucher un hippogriffe avec talent mais il peut aussi se lier avec l'un d'eux.*
 
-**Conditions.** 6 rangs en [Équitation](./Équitation.md), [rôdeur](./Rôdeur.md) de niveau 4
+**Conditions.** 6 rangs en [[Équitation]], [[rôdeur]] de niveau 4
 
-**Avantages.** Le personnage gagne un [hippogriffe](./Hippogriffe.md) comme [compagnon animal](./Compagnons animaux.md). Il bénéficie d'un bonus de +2 aux tests d'[Équitation](./Équitation.md) quand il chevauche son compagnon. Tant qu'il se trouve à moins de 6 mètres de son hippogriffe, le personnage gagne un bonus de +2 aux [jets de sauvegarde](./JDS.md) contre les effets de peur.
+**Avantages.** Le personnage gagne un [[Hippogriffe]] comme [[Compagnons animaux|compagnon animal]]. Il bénéficie d'un bonus de +2 aux tests d'[[Équitation]] quand il chevauche son compagnon. Tant qu'il se trouve à moins de 6 mètres de son hippogriffe, le personnage gagne un bonus de +2 aux [[jds|jets de sauvegarde]] contre les effets de peur.

@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Senara est une ville fortifiée du [Chéliax](./Chéliax.md) située en plein milieu du [Bois du Murmure](./Bois du Murmure.md), à la confluence de l'[Iseld](./Iseld.md) et de la [Malvesa](./Malvesa.md).
+Senara est une ville fortifiée du [[Chéliax]] située en plein milieu du [[Bois du Murmure]], à la confluence de l'[[Iseld]] et de la [[Malvesa]].
 
-C'est de cette ville que partent la plupart des expéditions destinées à fermer la porte qui relierait directement le [Chéliax](./Chéliax.md) aux Enfers.
+C'est de cette ville que partent la plupart des expéditions destinées à fermer la porte qui relierait directement le [[Chéliax]] aux Enfers.

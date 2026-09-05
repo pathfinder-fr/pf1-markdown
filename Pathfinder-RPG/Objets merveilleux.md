@@ -15,14 +15,14 @@ Categories:
 Il existe une grande diversité d’objets merveilleux. Pour pouvoir fonctionner, certains se portent obligatoirement sur une partie précise du corps, que l’on appellera « emplacement ». Pour les autres, il suffit de les avoir en sa possession. La catégorie des « objets merveilleux » est vaste, elle rassemble en réalité tous les objets magiques qui ne correspondent à aucun des autres groupes, tels que les armes, les bâtons, etc. Tout le monde peut utiliser un objet merveilleux, sauf indication contraire dans leur description.
 
 ### Activation
-N’importe qui peut utiliser un objet merveilleux, sauf précision contraire mentionnée dans sa description. La compétence [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) permet de simuler certain prérequis.
+N’importe qui peut utiliser un objet merveilleux, sauf précision contraire mentionnée dans sa description. La compétence [[Utilisation dObjets Magiques|Utilisation d'objets magiques]] permet de simuler certain prérequis.
 
-La plupart de ces objets sont [à mot de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE) ou [à usage](./Règles relatives aux objets magiques.md#OBJETSAUSAGE), mais ce n’est pas systématique.
+La plupart de ces objets sont [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|à mot de commande]] ou [[Règles relatives aux objets magiques#OBJETSAUSAGE|à usage]], mais ce n’est pas systématique.
 
 **Objet à mot de commande** : Si l’objet s’active sur commande ou si sa description et sa nature ne fournissent pas d’indice sur sa méthode d’activation, partez du principe qu’il faut prononcer un mot de commande pour l’activer. Avec un objet à mot de commande,le pouvoir se déclenche des que l’utilisateur prononce le mot prévu, il ne requiert aucune autre connaissance particulière.
 Le mot de commande peut être un mot on ne peut plus banal mais le personnage risque alors d’activer son objet par accident s’il prononce le mot au cours d’une conversation. Habituellement, le mot ne veut rien dire et il s’agit même quelquefois
-d’un mot ou d’une phrase tiré d’une langue morte.  Activer un objet à mot de commande est une [action simple](./Action simple.md) qui ne provoque pas d’[attaque d’opportunité](./AO.md). Quelquefois, le mot de commande activant l’objet est mentionné sur celui-ci. Il est parfois dissimulé dans un dessin ou une décoration, à moins que l’objet présente un indice permettant de le deviner.
-Les compétences [Connaissances](./Connaissances.md) (histoire) et [Connaissances](./Connaissances.md) (mystères) permettent d’identifier les mots de commande ou de déchiffrer les indices à leur sujet. Il faut réussir un test de compétence [DD](./DD.md) 30 pour trouver le mot de commande. En cas d’échec, réussir un second test (DD 25) peut fournir un indice utile. Les sorts *[détection de la magie](./Détection de la magie.md)*, *[identification](./Identification.md)* et *[analyse d’enchantement](./Analyse denchantement.md)* permettent d’obtenir le mot de commande d’un objet s’ils permettent d’identifier les propriétés de l’objet analysé avec succès.
+d’un mot ou d’une phrase tiré d’une langue morte.  Activer un objet à mot de commande est une [[action simple]] qui ne provoque pas d’[[AO|attaque d’opportunité]]. Quelquefois, le mot de commande activant l’objet est mentionné sur celui-ci. Il est parfois dissimulé dans un dessin ou une décoration, à moins que l’objet présente un indice permettant de le deviner.
+Les compétences [[Connaissances]] (histoire) et [[Connaissances]] (mystères) permettent d’identifier les mots de commande ou de déchiffrer les indices à leur sujet. Il faut réussir un test de compétence [[DD]] 30 pour trouver le mot de commande. En cas d’échec, réussir un second test (DD 25) peut fournir un indice utile. Les sorts *[[détection de la magie]]*, *[[identification]]* et *[[analyse denchantement|analyse d’enchantement]]* permettent d’obtenir le mot de commande d’un objet s’ils permettent d’identifier les propriétés de l’objet analysé avec succès.
 
 **Objet à usage** : Il suffit d’utiliser normalement ce type d’objet pour activer ses pouvoirs : boire une potion, porter un vêtement, utiliser une arme ou un bouclier, regarder à travers une lentille, éparpiller de la poudre, porter un anneau ou encore mettre un chapeau. C’est le mode d’activation le plus simple à mettre en oeuvre.
 De nombreux objets à usage sont des objets que l’on porte. Les objets à fonctionnement continu sont pratiquement toujours
@@ -58,39 +58,39 @@ Ils se présentent parfois sous la forme de petites babioles, telles que les sta
 
 ### Propriétés spéciales
 Lancer un dé 100 :
-- 01, l’objet est [intelligent](./Objets intelligents.md).
+- 01, l’objet est [[objets intelligents|intelligent]].
 - 02–31, un indice sur ses fonctions figure quelque part à sa surface (dessin, inscription, etc.).
 - 32–100, il n’a aucune propriété spéciale.
 
-Les [objets intelligents](./Objets intelligents.md) ont des propriétés supplémentaires et parfois des pouvoirs extraordinaires et des desseins spéciaux (voir la section "[Les objets intelligents](./Objets intelligents.md)" pour plus de détails).
+Les [[objets intelligents]] ont des propriétés supplémentaires et parfois des pouvoirs extraordinaires et des desseins spéciaux (voir la section "[[objets intelligents|Les objets intelligents]]" pour plus de détails).
 
-Les objets merveilleux [à charges](./Règles relatives aux objets magiques.md#CHARGESOBJETSMAGIQUES) ne sont eux jamais [intelligents](./Objets intelligents.md).
+Les objets merveilleux [[Règles relatives aux objets magiques#CHARGESOBJETSMAGIQUES|à charges]] ne sont eux jamais [[objets intelligents|intelligents]].
 
 {s:Reference|ESPACEEXTRADIMENSIONNEL}
 ### Espaces extradimensionnels
-Certains sorts et objets magiques créent un petit espace qui n’existe nulle part, comme une *[corde enchantée](./Corde enchantée.md)*, un *[sac sans fond](./Sac sans fond.md)* et un *[trou portable](./Trou portable.md)*. Cependant, ils ne peuvent fonctionner dans un autre espace extradimensionnel et ne retrouveront leurs propriétés qu’une fois qu’on les en aura sortis.
+Certains sorts et objets magiques créent un petit espace qui n’existe nulle part, comme une *[[corde enchantée]]*, un *[[sac sans fond]]* et un *[[trou portable]]*. Cependant, ils ne peuvent fonctionner dans un autre espace extradimensionnel et ne retrouveront leurs propriétés qu’une fois qu’on les en aura sortis.
 
-Par exemple, si un *[sac sans fond](./Sac sans fond.md)* est emmené dans l’espace créé par une *[corde enchantée](./Corde enchantée.md)*, son propriétaire ne pourra pas y accéder tant qu’il se trouvera là.
+Par exemple, si un *[[sac sans fond]]* est emmené dans l’espace créé par une *[[corde enchantée]]*, son propriétaire ne pourra pas y accéder tant qu’il se trouvera là.
 
-La seule exception concerne la déchirure dans le [plan Astral](./plan Astral.md), provoquée par l’interaction entre le *[sac sans fond](./Sac sans fond.md)* et le *[trou portable](./Trou portable.md)* (voir la description de ces objets).
+La seule exception concerne la déchirure dans le [[plan Astral]], provoquée par l’interaction entre le *[[sac sans fond]]* et le *[[trou portable]]* (voir la description de ces objets).
 
 ### Listes des objets
-- [Liste alphabétique des objets merveilleux](./liste alphabétique des objets merveilleux.md)
+- [[Liste alphabétique des objets merveilleux]]
 
 Tables de détermination aléatoire :
-- [Tableau des objets merveilleux du Guide du joueur](./Objets merveilleux Guide du joueur.md)
-- [Tableau des objets merveilleux APG](./Objets merveilleux APG.md)
+- [[Objets merveilleux Guide du joueur|Tableau des objets merveilleux du Guide du joueur]]
+- [[Objets merveilleux APG|Tableau des objets merveilleux APG]]
 
 Classement des objets merveilleux selon leur emplacement :
-- [Objets merveilleux portés à la taille](./Objets merveilleux portés à la taille.md)
-- [Objets merveilleux portés sur le corps](./Objets merveilleux portés sur le corps.md)
-- [Objets merveilleux portés sur le torse](./Objets merveilleux portés sur le torse.md)
-- [Objets merveilleux portés sur les yeux](./Objets merveilleux portés sur les yeux.md)
-- [Objets merveilleux portés aux pieds](./Objets merveilleux portés aux pieds.md)
-- [Objets merveilleux portés aux mains](./Objets merveilleux portés aux mains.md)
-- [Objets merveilleux portés sur la tête](./Objets merveilleux portés sur la tête.md)
-- [Objets merveilleux portés sur le front](./Objets merveilleux portés sur le front.md)
-- [Objets merveilleux portés autour du cou](./Objets merveilleux portés autour du cou.md)
-- [Objets merveilleux portés sur les épaules](./Objets merveilleux portés sur les épaules.md)
-- [Objets merveilleux portés aux poignets](./Objets merveilleux portés aux poignets.md)
-- [Objets merveilleux sans emplacement](./Objets merveilleux sans emplacement.md)
+- [[Objets merveilleux portés à la taille]]
+- [[Objets merveilleux portés sur le corps]]
+- [[Objets merveilleux portés sur le torse]]
+- [[Objets merveilleux portés sur les yeux]]
+- [[Objets merveilleux portés aux pieds]]
+- [[Objets merveilleux portés aux mains]]
+- [[Objets merveilleux portés sur la tête]]
+- [[Objets merveilleux portés sur le front]]
+- [[Objets merveilleux portés autour du cou]]
+- [[Objets merveilleux portés sur les épaules]]
+- [[Objets merveilleux portés aux poignets]]
+- [[Objets merveilleux sans emplacement]]

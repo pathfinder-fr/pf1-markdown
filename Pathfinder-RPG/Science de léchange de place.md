@@ -11,14 +11,14 @@ Categories:
 
 {s:mca} *Quand le personnage change de place avec son camarade, leur taille ne compte pas.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Échange de place](./Échange de place.md)
+**Conditions.** [[Échange de place]]
 
-**Avantage.** Quand le personnage et son allié utilisent [Échange de place](./Échange de place.md), l’allié peut être d’une catégorie de taille de plus ou de moins que le personnage et le déplacement du personnage sur la case de son allié ne provoque pas d’attaque d’opportunité. Si l’allié ne tient pas dans l’espace précédemment occupé par le personnage et qu’il n’y a pas de case adjacente de libre pour compléter l’espace occupé par l’allié, celui-ci doit se faufiler. Sinon, l’allié peut tenter, lors de son déplacement, une [manoeuvre offensive](./manoeuvre-offensive.md) de [bousculade](./bousculade.md) contre une créature qui occupe une partie de l’espace qu’il devrait occuper, mais cette bousculade ne permet pas de déplacer la créature de plus de 1,50 mètre.
+**Avantage.** Quand le personnage et son allié utilisent [[Échange de place]], l’allié peut être d’une catégorie de taille de plus ou de moins que le personnage et le déplacement du personnage sur la case de son allié ne provoque pas d’attaque d’opportunité. Si l’allié ne tient pas dans l’espace précédemment occupé par le personnage et qu’il n’y a pas de case adjacente de libre pour compléter l’espace occupé par l’allié, celui-ci doit se faufiler. Sinon, l’allié peut tenter, lors de son déplacement, une [[manoeuvre offensive]] de [[bousculade]] contre une créature qui occupe une partie de l’espace qu’il devrait occuper, mais cette bousculade ne permet pas de déplacer la créature de plus de 1,50 mètre.
 
-**Normal.** Pour utiliser [Échange de place](./Échange de place.md), le personnage et son allié doivent être de la même taille et le mouvement du personnage sur la case de son allié provoque des [attaques d’opportunité](./AO.md).
+**Normal.** Pour utiliser [[Échange de place]], le personnage et son allié doivent être de la même taille et le mouvement du personnage sur la case de son allié provoque des [[AO|attaques d’opportunité]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage tente une [bousculade](./bousculade.md) en utilisant ce don, il peut dépenser 2 points d’endurance pour déplacer la cible de cette manœuvre de plus de 1,50 mètre si besoin pour faire de la place à son allié (il doit tout même obtenir un résultat suffisant au test de bousculade pour déplacer la cible sur cette distance supplémentaire).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage tente une [[bousculade]] en utilisant ce don, il peut dépenser 2 points d’endurance pour déplacer la cible de cette manœuvre de plus de 1,50 mètre si besoin pour faire de la place à son allié (il doit tout même obtenir un résultat suffisant au test de bousculade pour déplacer la cible sur cette distance supplémentaire).

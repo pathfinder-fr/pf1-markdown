@@ -8,8 +8,8 @@ Categories:
 ---
 
 {s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 20 po ; **Poids** 5 kg ; **Groupes** —
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** [allonge](./Caractéristiques des armes.md#ALLONGE), [croc-en-jambe](./Caractéristiques des armes.md#CROCENJAMBE)
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** [[Caractéristiques des armes#ALLONGE|allonge]], [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
 ---
 Plus proche d'un fléau que d'une masse, cette arme possède un manche court attaché à une chaîne avec une boule au bout. Cette dernière est propulsée sur sa distance d’allonge grâce à un coup de poignet, qui la ramène au porteur après la frappe.
 

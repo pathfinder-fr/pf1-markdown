@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#TOTEMSPIRITUEL
 ---
 
->>> [pouvoirs de rage#TOTEMSPIRITUEL](./Pouvoirs de rage.md#TOTEMSPIRITUEL)
+>>> [[pouvoirs de rage#TOTEMSPIRITUEL]]

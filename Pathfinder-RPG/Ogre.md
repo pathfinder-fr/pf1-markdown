@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.230}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, CM}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, CM}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 8, pris au dépourvu 17 (armure +4, Dex -1, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 30 (4d8+12)}
@@ -28,8 +28,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 8, **Con** 15, **Int** 6, **Sag** 10, **Cha** 7}
 {s:BDTexte|**BBA** +3, **BMO** +9, **DMD** 18}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +7, [Perception](./Perception.md) +5}
+{s:BDTexte|**Dons** [[Robustesse]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Escalade]] +7, [[Perception]] +5}
 {s:BDTexte|**Langues** géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines froides ou tempérées}
@@ -129,24 +129,24 @@ Que ce soit le résultat d’une reproduction consanguine, d’expérimentations
 #### À pointes (FP +0)
 Ces grands ogres tous fins ont une peau épaisse, semblable à de l’écorce, et leur corps est recouvert d’excroissances piquantes tandis que leurs mains se terminent sur des griffes acérées comme des épines.
 
-**Règles rapides.** +2 à la [CA](./CA.md), -1 [pv](./pv.md)/[DV](./../Ressources/DV.md) et -1 aux jets de [Vigueur](./Vigueur.md) et de [Constitution](./Constitution.md). Ils gagnent 2 attaques de griffe (1d6) et un bonus racial de +4 aux tests de [Discrétion](./Discrétion.md) en forêt.
+**Règles rapides.** +2 à la [[CA]], -1 [[pv]]/[[DV]] et -1 aux jets de [[Vigueur]] et de [[Constitution]]. Ils gagnent 2 attaques de griffe (1d6) et un bonus racial de +4 aux tests de [[Discrétion]] en forêt.
 
-**Règles de reconstruction.** **Valeurs de caractéristique** [Constitution](./Constitution.md) -2, bonus d’armure naturelle +2 ; *Attaque* ils gagnent 2 attaques de griffe (1d6) ; **Spécial** bonus racial de +4 aux tests de [Discrétion](./Discrétion.md) en forêt.
+**Règles de reconstruction.** **Valeurs de caractéristique** [[Constitution]] -2, bonus d’armure naturelle +2 ; *Attaque* ils gagnent 2 attaques de griffe (1d6) ; **Spécial** bonus racial de +4 aux tests de [[Discrétion]] en forêt.
 
 #### Bouffi (FP +0)
 Les ogres dotés de l’archétype bouffi ont une énorme tête et des dents acérées.
 
-**Règles rapides.** -1 à la [CA](./CA.md), aux [jets d’attaque](./jet dattaque.md) à distance, à l’[initiative](./initiative.md) et aux compétences basées sur la [Dextérité](./Dextérité.md). Ils gagnent une attaque de morsure (1d8).
+**Règles rapides.** -1 à la [[CA]], aux [[jet dattaque|jets d’attaque]] à distance, à l’[[initiative]] et aux compétences basées sur la [[Dextérité]]. Ils gagnent une attaque de morsure (1d8).
 
-**Règles de reconstruction.** **Valeurs de caractéristique** [Dextérité](./Dextérité.md) -2 ; Attaque ils gagnent une attaque de morsure (1d8).
+**Règles de reconstruction.** **Valeurs de caractéristique** [[Dextérité]] -2 ; Attaque ils gagnent une attaque de morsure (1d8).
 
 </div><div class="wiki-col wiki-col-6">
 #### Shaggra (FP +1)
 Les ogres dotés de l’archétype shaggra sont couverts de longs poils et arborent des jambes rabougries mais des bras énormes et surdimensionnés, similaires à ceux des primates. Ils se déplacent à quatre pattes et écrasent leurs ennemis avec leurs poings géants.
 
-**Règles rapides.** +2 à tous les [jets d’attaque](./jet dattaque.md), [jets de dégâts](./Valeurs de combat.md#DEGATS) et tests de [Force](./Force.md). Ils gagnent deux attaques de coup (1d6) ainsi que les pouvoirs spéciaux d’[étreinte](./Étreinte (capacité).md) et de [constriction](./Constriction (capacité).md).
+**Règles rapides.** +2 à tous les [[jet dattaque|jets d’attaque]], [[Valeurs de combat#DEGATS|jets de dégâts]] et tests de [[Force]]. Ils gagnent deux attaques de coup (1d6) ainsi que les pouvoirs spéciaux d’[[étreinte (capacité)|étreinte]] et de [[constriction (capacité)|constriction]].
 
-**Règles de reconstruction.** **Valeurs de caractéristique** [Force](./Force.md) +4 ; **Attaque** ils gagnent deux attaques de coup (1d6, étreinte, constriction) ; **Pouvoirs spéciaux** [étreinte](./Étreinte (capacité).md), [constriction](./Constriction (capacité).md).
+**Règles de reconstruction.** **Valeurs de caractéristique** [[Force]] +4 ; **Attaque** ils gagnent deux attaques de coup (1d6, étreinte, constriction) ; **Pouvoirs spéciaux** [[étreinte (capacité)|étreinte]], [[constriction (capacité)|constriction]].
 
 </div></div>
 ### Archétype de géant des ogres
@@ -161,14 +161,14 @@ Parfois, les ogres se reproduisent avec d’autres géants. Le résultat de ces 
 | CLASS="gauche" | Pouvoirs spéciaux
 |- CLASS="premier"
 | Sang de feu
-| CLASS="gauche" | [Résistance](./Résistance (capacité).md) au feu 10
+| CLASS="gauche" | [[Résistance (capacité)|Résistance]] au feu 10
 |-
 | Sang de glace
-| CLASS="gauche" | [Résistance](./Résistance (capacité).md) au froid 10
+| CLASS="gauche" | [[Résistance (capacité)|Résistance]] au froid 10
 |-
 | Sang de pierre
-| CLASS="gauche" | [Réception de rochers](./Réception de rochers (capacité).md),  
-[lancer de rochers](./Lancer de rochers (capacité).md) (1d8, 36 m)
+| CLASS="gauche" | [[Réception de rochers (capacité)|Réception de rochers]],  
+[[lancer de rochers (capacité)|lancer de rochers]] (1d8, 36 m)
 |-
 | Sang des plaines
 | CLASS="gauche" | Augmentez l’armure naturelle de 2
@@ -177,7 +177,7 @@ Parfois, les ogres se reproduisent avec d’autres géants. Le résultat de ces 
 #### Géant (FP +1)
 Bénis par le sang des grands géants, les ogres géants sont plus imposants et plus forts que leurs cousins ordinaires et gagnent des pouvoirs de leur parent géant.
 
-**Règles de reconstruction.** **Points de vie** +10 [pv](./pv.md) ; **JdS** bonus racial de +1 à tous les [jets de sauvegarde](./JDS.md) ; **Valeurs de caractéristique** [Force](./Force.md) +4, [Constitution](./Constitution.md) +4 ; **Attaques spéciales** [lancer de rochers](./Lancer de rochers (capacité).md) (1d6, 27 m) ; **Spécial** voir tableau.
+**Règles de reconstruction.** **Points de vie** +10 [[pv]] ; **JdS** bonus racial de +1 à tous les [[jds|jets de sauvegarde]] ; **Valeurs de caractéristique** [[Force]] +4, [[Constitution]] +4 ; **Attaques spéciales** [[lancer de rochers (capacité)|lancer de rochers]] (1d6, 27 m) ; **Spécial** voir tableau.
 
 {s:CM}
 ### Nouvelles règles raciales
@@ -194,27 +194,27 @@ Voici quelques dons accessibles aux ogres.
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Brute rageuse](./Brute rageuse.md) || <sup>CM</sup> || [For](./For.md) 21, [ogre](./Ogre.md) || Gain d'un pouvoir de rage et capacité à entrer en rage 1 fois/jour
+| [[Brute rageuse]] || <sup>CM</sup> || [[For]] 21, [[ogre]] || Gain d'un pouvoir de rage et capacité à entrer en rage 1 fois/jour
 
 |- CLASS="premier"
-| [Chair corrompue](./Chair corrompue.md) || <sup>CM</sup> || [Con](./Con.md) 15, 6 [DV](./../Ressources/DV.md), [ogre](./Ogre.md) || Gain du pouvoir de puanteur
+| [[Chair corrompue]] || <sup>CM</sup> || [[Con]] 15, 6 [[DV]], [[ogre]] || Gain du pouvoir de puanteur
 
 |- CLASS="premier"
-| [Critique sauvage](./Critique sauvage.md) || <sup>CM</sup> || [For](./For.md) 19, [ogre](./Ogre.md), [attaque sournoise](./attaque sournoise.md) +2d6 || Ajoute les dégâts d'attaque sournoise lors d'une Frappe décisive critique
+| [[Critique sauvage]] || <sup>CM</sup> || [[For]] 19, [[ogre]], [[attaque sournoise]] +2d6 || Ajoute les dégâts d'attaque sournoise lors d'une Frappe décisive critique
 
 |- CLASS="premier"
-| [Écrasement d'ogre](./Écrasement dogre.md) || <sup>CM</sup> || [For](./For.md) 25, [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [ogre](./Ogre.md), taille G ou plus || Augmente les dégâts des attaques à mains nues contre la cible d'une lutte, gain du pouvoir constriction
+| [[Écrasement dogre|Écrasement d'ogre]] || <sup>CM</sup> || [[For]] 25, [[Science de la lutte]], [[Science du combat à mains nues]], [[ogre]], taille G ou plus || Augmente les dégâts des attaques à mains nues contre la cible d'une lutte, gain du pouvoir constriction
 
 |- CLASS="premier"
-| [Gobeur glouton](./Gobeur glouton.md) || <sup>CM</sup> || [Science du combat à mains nues](./Science du combat à mains nues.md) et [Science de la lutte](./Science de la lutte.md), ou pouvoir [étreinte](./Étreinte (capacité).md), [ogre](./Ogre.md), taille G ou plus || Le personnage agrippe les créatures plus petite dans sa bouche
+| [[Gobeur glouton]] || <sup>CM</sup> || [[Science du combat à mains nues]] et [[Science de la lutte]], ou pouvoir [[étreinte (capacité)|étreinte]], [[ogre]], taille G ou plus || Le personnage agrippe les créatures plus petite dans sa bouche
 
 |- CLASS="premier"
-| [Souffle fétide](./Souffle fétide.md) || <sup>CM</sup> || [Con](./Con.md) 15, [Chair corrompue](./Chair corrompue.md), 6 [DV](./../Ressources/DV.md), [ogre](./Ogre.md) || Souffle un cône d'air fétide et de flegme
+| [[Souffle fétide]] || <sup>CM</sup> || [[Con]] 15, [[Chair corrompue]], 6 [[DV]], [[ogre]] || Souffle un cône d'air fétide et de flegme
 
 |- CLASS="premier"
-| [Tête vestigiale](./Tête vestigiale.md) || <sup>CM</sup> || [Ogre](./Ogre.md) || Une tête vestigiale rabougrie aide à résister aux effets subits par un jet de Volonté raté
+| [[Tête vestigiale]] || <sup>CM</sup> || [[Ogre]] || Une tête vestigiale rabougrie aide à résister aux effets subits par un jet de Volonté raté
 
 |- CLASS="premier"
-| [Traqueur nocturne](./Traqueur nocturne.md) || <sup>CM</sup> || [Talent](./Talent.md) (Discrétion), pouvoir [vision dans le noir](./vision dans le noir (capacité).md), [demi-ogre](./Ogrelin, archétype.md) ou [ogre](./Ogre.md), taille G ou plus || Pas de malus de taille aux tests de Discrétion dans les ténèbres
+| [[Traqueur nocturne]] || <sup>CM</sup> || [[Talent]] (Discrétion), pouvoir [[vision dans le noir (capacité)|vision dans le noir]], [[Ogrelin, archétype|demi-ogre]] ou [[ogre]], taille G ou plus || Pas de malus de taille aux tests de Discrétion dans les ténèbres
 |}
 </center>

@@ -8,7 +8,7 @@ LastModified: 2020-05-21 16:48
 
 Deux catégories de races doivent être distinguées dans le cadre de l'intégration sur le wiki (les races des monstres et les races jouables). Le contenu supplémentaire contenant les PNJ et les rencontres devra être traité à part
 
-Faust - Je me suis permit de faire un récap des intégrations, mais n'ai pas encore prit le temps de compter les archétypes de créatures (sauf les simples qui se retrouveront [ici](./Archétypes.md)).
+Faust - Je me suis permit de faire un récap des intégrations, mais n'ai pas encore prit le temps de compter les archétypes de créatures (sauf les simples qui se retrouveront [[archétypes|ici]]).
 
 ## Les races de monstre
 voir la présentation du bourbiérin pour reprendre le format avec les différentes étapes
@@ -30,35 +30,35 @@ En cas de question, contactez rectulo sur le fil du wiki ou par le chat discord.
 Voici les monstres qui ont été entamés.
 
 #### bourbierin
-La page du [bourbiérin](./Bourbiérin.md) est complétée
+La page du [[bourbiérin]] est complétée
 - ~~sort copié collé à mettre au format wiki - insérer dans les listes de sorts~~ (Fait / Kobalte)
 
 Reste à faire
 - objets magiques copiés collés mais à mettre au format wiki des objets magiques
 - PNJ bourbiérins à créer
-- [Bourbgigoteur](./Bourbgigoteur.md) (nouveau monstre) page créée, texte copié collé : à mettre en forme et à insérer dans les différentes listes de monstres
+- [[Bourbgigoteur]] (nouveau monstre) page créée, texte copié collé : à mettre en forme et à insérer dans les différentes listes de monstres
 - liste des rencontres avec les bourbiérins à créer
 
-**Dons.** [Coassement étourdissant](./Coassement étourdissant.md), [Coassement supersonique](./Coassement supersonique.md), [Coassement supplémentaire](./Coassement supplémentaire.md), [Langue puissante](./Langue puissante.md), [Sac vocal](./Sac vocal.md).
-**Sorts.** *[aura de cannibalisme](./aura de cannibalisme.md)*.
-**Objets magiques.** [Baume de sueur empoisonnée](./Baume de sueur empoisonnée.md), [Chapeau d'énergie négative](./Chapeau dénergie négative.md).
+**Dons.** [[Coassement étourdissant]], [[Coassement supersonique]], [[Coassement supplémentaire]], [[Langue puissante]], [[Sac vocal]].
+**Sorts.** *[[aura de cannibalisme]]*.
+**Objets magiques.** [[Baume de sueur empoisonnée]], [[Chapeau dénergie négative|Chapeau d'énergie négative]].
 
-#### [géant du feu](./Géant du feu.md)
-La page du [géant du feu](./Géant du feu.md) est complétée
+#### [[géant du feu]]
+La page du [[géant du feu]] est complétée
 - propriété d'arme enflammée
 - propriété d'armure fumante
 - Mystère d'oracle de l'apocalypse créée et snippet modifié~~ : reste à faire les liens sur la page du mystère~~
 
 Reste à faire
 - PNJ géants du feu à créer
-- [Sanglier fumant](./Sanglier-fumant.md) (nouveau monstre) à créer et à insérer dans les listes de monstres
+- [[Sanglier fumant]] (nouveau monstre) à créer et à insérer dans les listes de monstres
 - liste des rencontres à créer
 
-**Options de classe (Mystères d'oracle).** [Apocalypse](./Mystère de lapocalypse.md).
-**Dons.** [Rocher fumant](./Rocher fumant.md).
-**Objets magiques.** [enflammée (propriété) !DOUBLON!](./enflammée-(propriété)-!DOUBLON!.md), [fumante (propriété)](./fumante (propriété).md).
+**Options de classe (Mystères d'oracle).** [[Mystère de lapocalypse|Apocalypse]].
+**Dons.** [[Rocher fumant]].
+**Objets magiques.** [[enflammée (propriété) !DOUBLON!]], [[fumante (propriété)]].
 
-#### [géant du froid](./Géant du froid.md)
+#### [[géant du froid]]
 Le contenu a été copié collé sur la page
 
 Reste à faire
@@ -66,14 +66,14 @@ Reste à faire
 - sorts copiés collés à mettre au format wiki - et à insérer dans les listes de sorts
 - objets magiques copiés collés mais à mettre au format wiki des objets magiques - voir l'intégration dans les listes d'objets magiques
 - PNJ géants du froid à créer
-- [Svathurim](./Svathurim.md) (nouveau monstre) à créer et à insérer dans les listes de monstres
+- [[Svathurim]] (nouveau monstre) à créer et à insérer dans les listes de monstres
 - liste des rencontres à créer
 
-**Dons.** [Balayage circulaire](./Balayage circulaire.md)*, [Charge fabuleuse](./Charge fabuleuse.md)*, [Inimitié ancestrale](./Inimitié ancestrale.md)*, [Né du froid](./Né du froid.md), [Regard glacé](./Regard glacé.md), [Rocher glacé](./Rocher glacé.md), [Stable sur la glace](./Stable sur la glace.md).
-**Sorts.** *[nappe de glace](./Nappe de glace.md)*, *[rocher magique](./Rocher magique.md)*.
-**Objets magiques.** [Dent runique de loup arctique](./Dent runique de loup arctique.md), [Gantelets de poigne de fer](./Gantelets de poigne de fer.md), [Hache gèlesang](./Hache gèlesang.md), [Lunettes perce-brume](./Lunettes perce-brume.md).
+**Dons.** [[Balayage circulaire]]*, [[Charge fabuleuse]]*, [[Inimitié ancestrale]]*, [[Né du froid]], [[Regard glacé]], [[Rocher glacé]], [[Stable sur la glace]].
+**Sorts.** *[[nappe de glace]]*, *[[rocher magique]]*.
+**Objets magiques.** [[Dent runique de loup arctique]], [[Gantelets de poigne de fer]], [[Hache gèlesang]], [[Lunettes perce-brume]].
 
-#### **[gnoll](./Gnoll.md)**
+#### **[[gnoll]]**
 Le contenu a été copié collé
 - archétypes créés
 - équipement racial créé
@@ -85,16 +85,16 @@ Reste à faire :
 - Dons : Reprendre les dons accessibles aux autres races sur le tableau récapitulatif des dons
 - mettre au format du wiki les objets magiques
 - PNJ gnolls à créer
-- [Flind](./Flind.md) (nouveau monstre) à créer et à insérer dans les listes de monstres
+- [[Flind]] (nouveau monstre) à créer et à insérer dans les listes de monstres
 - liste des rencontres à créer
 
-**Archétypes.** [Buda (sorcière)](./Buda (sorcière).md), [Enragé de la meute (barbare)](./Enragé de la meute (barbare).md).
-**Dons.** [Mâchoires claquantes](./Mâchoires claquantes.md)* [Partenaire de désarmement](./Partenaire de désarmement.md)*<sup>E</sup>, [Repositionnement coordonné](./Repositionnement coordonné.md)<sup>E</sup>, [Science du partenaire de désarmement](./Science du partenaire de désarmement.md)*<sup>E</sup>, [Tenaille mordeuse](./Tenaille mordeuse.md)*<sup>E</sup>.
-**Équipement.** [Bâton de flind](./équipements raciaux.md#BATONDEFLIND).
-**Sorts.** *[nappe de glace](./Nappe de glace.md)*, *[rocher magique](./Rocher magique.md)*.
-**Objets magiques.** [Anneau de nez du chasseur](./Anneau de nez du chasseur.md), [Cheich de hyène](./Cheich de hyène.md), [Tresse de pugwampi](./Tresse de pugwampi.md).
+**Archétypes.** [[Buda (sorcière)]], [[Enragé de la meute (barbare)]].
+**Dons.** [[Mâchoires claquantes]]* [[Partenaire de désarmement]]*<sup>E</sup>, [[Repositionnement coordonné]]<sup>E</sup>, [[Science du partenaire de désarmement]]*<sup>E</sup>, [[Tenaille mordeuse]]*<sup>E</sup>.
+**Équipement.** [[Équipements raciaux#BATONDEFLIND|Bâton de flind]].
+**Sorts.** *[[nappe de glace]]*, *[[rocher magique]]*.
+**Objets magiques.** [[Anneau de nez du chasseur]], [[Cheich de hyène]], [[Tresse de pugwampi]].
 
-#### **[gobelours](./Gobelours.md)**
+#### **[[gobelours]]**
 La page a été préparée
 - Deux dons ont un homonyme issu d'une autre source
   - Coup déstabilisant devient Coup ébranlant
@@ -105,15 +105,15 @@ La page a été préparée
 - objets magiques à faire
 
 - PNJ gobelours à créer
-- [Spectre terrifiant](./Spectre terrifiant.md) (nouveau monstre) à créer et à insérer dans les listes de monstres
+- [[Spectre terrifiant]] (nouveau monstre) à créer et à insérer dans les listes de monstres
 - liste des rencontres à créer
 
-**Archétypes.** [Semeur de peur (antipaladin)](./Semeur de peur (antipaladin).md).
-**Dons.** [Beuglement terrifiant](./Beuglement terrifiant.md)*, [Blessant](./Blessant.md)*, [Coup destabilisant](./Coup-destabilisant.md)*, [Guérillero](./Guérillero.md)*, [Menace viscérale](./Menace viscérale.md)*, [Rallonge](./Rallonge.md)*, [Strangulation](./Strangulation.md).
-**Objets magiques.** [Élixir d'oppression](./Élixir doppression.md), [Poussière d'horreur](./Poussière dhorreur.md).
-**Sorts.** *[isoler](./Isoler.md)*.
+**Archétypes.** [[Semeur de peur (antipaladin)]].
+**Dons.** [[Beuglement terrifiant]]*, [[Blessant]]*, [[Coup destabilisant]]*, [[Guérillero]]*, [[Menace viscérale]]*, [[Rallonge]]*, [[Strangulation]].
+**Objets magiques.** [[Élixir doppression|Élixir d'oppression]], [[Poussière dhorreur|Poussière d'horreur]].
+**Sorts.** *[[isoler]]*.
 
-#### **[goule](./Goule.md)**
+#### **[[goule]]**
 La page a été complétée
 - Lignage d'ensorceleur apocryphe remplacé - le snippet Menulignages a été modifié
 - Dons des goules
@@ -121,52 +121,52 @@ La page a été complétée
 À faire :
 - sort des goules à mettre au format du wiki et à insérer dans les listes
 - PNJ gobelours à créer
-- [Chauve-souris aile de suie](./Chauve-souris aile de suie.md) (nouveau monstre) à créer et à insérer dans les listes de monstres
-- [Molosse goule](./Molosse goule.md) (nouveau monstre) à créer et à insérer dans les listes de monstres
+- [[Chauve-souris aile de suie]] (nouveau monstre) à créer et à insérer dans les listes de monstres
+- [[Molosse goule]] (nouveau monstre) à créer et à insérer dans les listes de monstres
 - liste des rencontres à créer
 
-**Options de classe (Lignages d'ensorceleur).** [Goule](./lignage Goule.md).
-**Dons.** [Cadavre de compagnie](./Cadavre de compagnie.md), [Creuseur de terrier](./Creuseur de terrier.md), [Dormeur](./Dormeur.md), [Sac d'os](./Sac dos.md), [Vieux comme la poussière](./Vieux comme la poussière.md).
-**Sorts.** *[apparence charnue](./Apparence charnue.md)*, *[terre affamée](./Terre affamée.md)*.
+**Options de classe (Lignages d'ensorceleur).** [[Lignage Goule|Goule]].
+**Dons.** [[Cadavre de compagnie]], [[Creuseur de terrier]], [[Dormeur]], [[Sac dos|Sac d'os]], [[Vieux comme la poussière]].
+**Sorts.** *[[apparence charnue]]*, *[[terre affamée]]*.
 
-#### [homme-lézard](./Homme-lézard.md)
-**Archétypes.** [Gardien antique (druide)](./Gardien antique (druide).md).
-**Options de classe (Malédictions d'oracle).** [Sang froid](./malédictions doracle.md).
-**Dons.** [Adaptation aquatique](./Adaptation aquatique.md), [Dangereuse queue](./Dangereuse queue.md)*, [Nage rapide](./Nage rapide.md).
-**Sorts.** *[écailles épineuses](./écailles épineuses.md)*, *[écailles épineuses supérieures](./Écailles épineuses supérieures.md)*, *[toucher endothermique](./Toucher endothermique.md)*.
+#### [[homme-lézard]]
+**Archétypes.** [[Gardien antique (druide)]].
+**Options de classe (Malédictions d'oracle).** [[Malédictions doracle|Sang froid]].
+**Dons.** [[Adaptation aquatique]], [[Dangereuse queue]]*, [[Nage rapide]].
+**Sorts.** *[[écailles épineuses]]*, *[[écailles épineuses supérieures]]*, *[[toucher endothermique]]*.
 
-#### [homme-serpent](./Homme-serpent.md)
-**Dons.** [Aspersion venimeuse](./Aspersion venimeuse.md)*, [Attaque de queue](./Attaque de queue.md)*, [Compression ophidienne](./Compression ophidienne.md), [Distraction télépathique](./Distraction télépathique.md), [Magie innée](./Magie innée.md).
-**Objets magiques.** [Étrangleur ophidien](./Étrangleur ophidien.md), [Fléau de serpent](./Fléau de serpent.md), [Flèche ophidienne](./Flèche ophidienne.md).
-**Sorts.** *[anneau scindé](./Anneau scindé.md)*, *[vol de sort](./Vol de sort.md)*.
+#### [[homme-serpent]]
+**Dons.** [[Aspersion venimeuse]]*, [[Attaque de queue]]*, [[Compression ophidienne]], [[Distraction télépathique]], [[Magie innée]].
+**Objets magiques.** [[Étrangleur ophidien]], [[Fléau de serpent]], [[Flèche ophidienne]].
+**Sorts.** *[[anneau scindé]]*, *[[vol de sort]]*.
 
-#### [ogre](./Ogre.md)
-**Archétypes de créature.** [À pointes](./Archétypes.md#APOINTES), [Bouffi](./Archétypes.md#BOUFFI), [Géant](./Archétypes.md#GEANT), [Shaggra](./Archétypes.md#SHAGGRA).
-**Options de classe (Compagnons animaux).** [Python de selle](./liste des compagnons animaux.md#Pythondeselle), [Salamandre cavernicole](./liste des compagnons animaux.md#Salamandrecavernicole).
-**Options de classe (Pièges de rôdeur).** [Blaireau moisi et chute de rocher](./Pièges de rôdeur.md#BLAIREAUMOISIETCHUTEDEROCHER), [Chute d'acide](./Pièges de rôdeur.md#CHUTEDACIDE), [Chute de bûche](./Pièges de rôdeur.md#CHUTEDEBUCHE), [Fosse à fumier de dragon](./Pièges de rôdeur.md#FOSSEAFUMIERDEDRAGON), [Lance ophidienne](./Pièges de rôdeur.md#LANCEOPHIDIENNE), [Piège de feu draconique](./Pièges de rôdeur.md#PIEGEDEFEUDRAGONIQUE), [Piège de poussière collante](./Pièges de rôdeur.md#PIEGEDEPOUSSIERECOLLANTE).
-**Dons.** [Brute rageuse](./Brute rageuse.md), [Chair corrompue](./Chair corrompue.md), [Critique sauvage](./Critique sauvage.md), [Écrasement d'ogre](./Écrasement dogre.md), [Gobeur glouton](./Gobeur glouton.md), [Souffle fétide](./Souffle fétide.md), [Tête vestigiale](./Tête vestigiale.md), [Traqueur nocturne](./Traqueur nocturne.md).
+#### [[ogre]]
+**Archétypes de créature.** [[archétypes#APOINTES|À pointes]], [[archétypes#BOUFFI|Bouffi]], [[archétypes#GEANT|Géant]], [[archétypes#SHAGGRA|Shaggra]].
+**Options de classe (Compagnons animaux).** [[liste des compagnons animaux#Pythondeselle|Python de selle]], [[liste des compagnons animaux#Salamandrecavernicole|Salamandre cavernicole]].
+**Options de classe (Pièges de rôdeur).** [[Pièges de rôdeur#BLAIREAUMOISIETCHUTEDEROCHER|Blaireau moisi et chute de rocher]], [[Pièges de rôdeur#CHUTEDACIDE|Chute d'acide]], [[Pièges de rôdeur#CHUTEDEBUCHE|Chute de bûche]], [[Pièges de rôdeur#FOSSEAFUMIERDEDRAGON|Fosse à fumier de dragon]], [[Pièges de rôdeur#LANCEOPHIDIENNE|Lance ophidienne]], [[Pièges de rôdeur#PIEGEDEFEUDRAGONIQUE|Piège de feu draconique]], [[Pièges de rôdeur#PIEGEDEPOUSSIERECOLLANTE|Piège de poussière collante]].
+**Dons.** [[Brute rageuse]], [[Chair corrompue]], [[Critique sauvage]], [[Écrasement dogre|Écrasement d'ogre]], [[Gobeur glouton]], [[Souffle fétide]], [[Tête vestigiale]], [[Traqueur nocturne]].
 
-#### [sahuagin](./Sahuagin.md)
-**Dons.** [Avantage aquatique](./Avantage aquatique.md), [Frénésie du sang supérieure](./Frénésie du sang supérieure.md), [Marée de sang](./Marée de sang.md).
-**Sorts.** *[don des profondeurs](./Don des profondeurs.md)*, *[eau rouge](./Eau rouge.md)*, *[respiration d'air](./Respiration dair.md)*.
+#### [[sahuagin]]
+**Dons.** [[Avantage aquatique]], [[Frénésie du sang supérieure]], [[Marée de sang]].
+**Sorts.** *[[don des profondeurs]]*, *[[eau rouge]]*, *[[respiration dair|respiration d'air]]*.
 
-#### [troglodyte](./Troglodyte.md)
-**Dons.** [Avantage aquatique](./Avantage aquatique.md), [Frénésie du sang supérieure](./Frénésie du sang supérieure.md), [Marée de sang](./Marée de sang.md).
-**Sorts.** *[marque du dieu reptile](./Marque du dieu reptile.md)*, *[nuée de crocs](./Nuée de crocs.md)*, *[puanteur amplifiée](./Puanteur amplifiée.md)*.
-**Objets magiques.** [Amulette de jet de puanteur](./Amulette de jet de puanteur.md), [Grande hache des habitants des grottes](./Grande hache des habitants des grottes.md).
+#### [[troglodyte]]
+**Dons.** [[Avantage aquatique]], [[Frénésie du sang supérieure]], [[Marée de sang]].
+**Sorts.** *[[marque du dieu reptile]]*, *[[nuée de crocs]]*, *[[puanteur amplifiée]]*.
+**Objets magiques.** [[Amulette de jet de puanteur]], [[Grande hache des habitants des grottes]].
 
-#### [troll](./Troll.md)
-**Archétypes.** [Troll furieux (druide)](./Troll furieux (druide).md).
-**Dons.** [Éventration à deux](./Éventration à deux.md)*<sup>E</sup>, [Éventration supérieure](./Éventration supérieure.md)*, [Morsure suprême](./Morsure suprême.md)*, [Régénération musculaire](./Régénération musculaire.md), [Régénération rageuse](./Régénération rageuse.md)*, [Troll sprinter](./Troll-sprinter.md).
-**Équipement.** [Griffes de troll barbelées](./équipements raciaux.md#GRIFFESDETROLLBARBELEES).
-**Sorts.** *[épreuve de l'acide et du feu](./Épreuve de lacide et du feu.md)*, *[transfert de régénération](./Transfert de régénération.md)*.
-**Objets magiques.** [Cape du roi troll](./Cape du roi troll.md), [Gantelets d'éventration](./Gantelets déventration.md).
+#### [[troll]]
+**Archétypes.** [[Troll furieux (druide)]].
+**Dons.** [[Éventration à deux]]*<sup>E</sup>, [[Éventration supérieure]]*, [[Morsure suprême]]*, [[Régénération musculaire]], [[Régénération rageuse]]*, [[Troll sprinter]].
+**Équipement.** [[Équipements raciaux#GRIFFESDETROLLBARBELEES|Griffes de troll barbelées]].
+**Sorts.** *[[épreuve de lacide et du feu|épreuve de l'acide et du feu]]*, *[[transfert de régénération]]*.
+**Objets magiques.** [[Cape du roi troll]], [[Gantelets déventration|Gantelets d'éventration]].
 
 
 ## Les races jouables
 reprendre sur la page de la race les informations et les y intégrer
 
-#### [drows](./Drow (race).md)
+#### [[drow (race)|drows]]
 - nouvelles découvertes d'alchimiste
 - les pages des nouveaux dons ont été créées
 - les nouveaux équipements raciaux ont été intégrés sur la page existante du manuel des races avec un snippet
@@ -174,15 +174,15 @@ reprendre sur la page de la race les informations et les y intégrer
 À faire
 - objets magiques ajoutés mais à mettre en forme
 - PNJ drows
-- [Vipère abrakarne](./Vipère-abrakarne.md) (nouveau monstre) à insérer dans les listes de monstres
+- [[Vipère abrakarne]] (nouveau monstre) à insérer dans les listes de monstres
 - liste des rencontres à créer
 
-**Options de classe (Découvertes d'alchimiste).** [Bombe de l'étoile noire](./découvertes.md#BOMBEDELETOILENOIRE), [Bombe du néant](./découvertes.md#BOMBEDUNEANT).
-**Dons.** [Frappe du fléau des anges](./Frappe du fléau des anges.md), [Lanterne du sniper](./Lanterne du sniper.md), [Linceul d'ombres](./Linceul-d'ombres.md).
-**Équipement.** [Attire-araignée](./équipements raciaux.md#ATTIREARAIGNEE), [Graisse tue-lumière](./équipements raciaux.md#GRAISSETUELUMIERE).
-**Objets magiques.** [Carreau du spéléologue](./Carreau du spéléologue.md), [Gants d'extraction](./Gants dextraction.md).
+**Options de classe (Découvertes d'alchimiste).** [[Découvertes#BOMBEDELETOILENOIRE|Bombe de l'étoile noire]], [[Découvertes#BOMBEDUNEANT|Bombe du néant]].
+**Dons.** [[Frappe du fléau des anges]], [[Lanterne du sniper]], [[Linceul d'ombres]].
+**Équipement.** [[Équipements raciaux#ATTIREARAIGNEE|Attire-araignée]], [[Équipements raciaux#GRAISSETUELUMIERE|Graisse tue-lumière]].
+**Objets magiques.** [[Carreau du spéléologue]], [[Gants dextraction|Gants d'extraction]].
 
-#### [duergars](./duergar (race).md)
+#### [[duergar (race)|duergars]]
 - traits raciaux alternatifs intégrés
 - les nouveaux dons raciaux ont été créés
 - les nouveaux équipements raciaux ont été intégrés sur la page des équipements raciaux et les armes intégrés dans la google sheet (reste à les intégrer dans le tableau des armes du wiki)
@@ -191,19 +191,19 @@ reprendre sur la page de la race les informations et les y intégrer
 - objet magique ajouté mais à mettre en forme
 - la page de chaque sort duergar a été créée, le texte est copié collé mais reste à mettre en forme. Il faut intégrer les sorts dans la liste des sorts et la liste des sorts de chaque classe concernée 
 - PNJ duergars
-- [Scarabée crache-noir](./Scarabée crache-noir.md) (nouveau monstre) à créer et insérer dans les listes de monstres
-- [Scarabée juggernaut](./Scarabée juggernaut.md) (nouveau monstre) à créer et insérer dans les listes de monstres
+- [[Scarabée crache-noir]] (nouveau monstre) à créer et insérer dans les listes de monstres
+- [[Scarabée juggernaut]] (nouveau monstre) à créer et insérer dans les listes de monstres
 - liste des rencontres à créer
 
-**Dons.** [Dur comme le fer](./Dur comme le fer.md), [Fléxibilité innée](./Fléxibilité-innée.md), [Magie des nains gris](./Magie des nains gris.md).
-**Équipement.** [Arbalète d'esclavagiste](./équipements raciaux.md#ARBALETEDESCLAVAGISTE), [Carreau bolas](./équipements raciaux.md#CARREAUBOLAS).
-**Sorts.** *[contrôle de la vermine](./Contrôle de la vermine.md)*, *[peau en fer](./Peau en fer.md)*, *[sceau de poussière](./Sceau de poussière.md)*.
-**Objets magiques.** [Bandeau de contrôle de la vermine](./Bandeau de contrôle de la vermine.md).
+**Dons.** [[Dur comme le fer]], [[Fléxibilité innée]], [[Magie des nains gris]].
+**Équipement.** [[Équipements raciaux#ARBALETEDESCLAVAGISTE|Arbalète d'esclavagiste]], [[Équipements raciaux#CARREAUBOLAS|Carreau bolas]].
+**Sorts.** *[[contrôle de la vermine]]*, *[[peau en fer]]*, *[[sceau de poussière]]*.
+**Objets magiques.** [[Bandeau de contrôle de la vermine]].
 
-#### [gobelins](./Gobelin (race).md)
+#### [[gobelin (race)|gobelins]]
 Fait :
 - écologie
-- archétype : [maraudeur ailé (alchimiste)](./maraudeur ailé (alchimiste).md), modification de la liste des archétypes sur la page alchimiste, sur la page de la race, modification du snippet
+- archétype : [[maraudeur ailé (alchimiste)]], modification de la liste des archétypes sur la page alchimiste, sur la page de la race, modification du snippet
 - malédiction d'oracle
 - maléfice de sorcière
 - équipement de gobelin
@@ -212,37 +212,37 @@ Fait :
 - la page de chaque sort a été créée, le texte est copié collé mais reste à mettre en forme. Il faut intégrer les sorts dans la liste des sorts et la liste des sorts de chaque classe concernée
 - PNJ gobelins
 - liste des rencontres à créer
-- monstre [gobelin mutant](./../Aventures/Gobelin mutant.md) à créer et à insérer sur les différentes listes de monstres
+- monstre [[gobelin mutant]] à créer et à insérer sur les différentes listes de monstres
 
-**Archétypes.** [Maraudeur ailé (alchimiste)](./maraudeur ailé (alchimiste).md).
-**Options de classe (Malédiction d'oracle).** [Infesté](./malédictions doracle.md).
-**Options de classe (Maléfices de sorcière).** [Sorcière de boue](./maléfices.md#Sorcièredeboue).
-**Équipement.** [Harnais de vol](./équipements raciaux.md#HARNAISDEVOL).
-**Sorts.** *[copain de boue](./Copain de boue.md)*, *[corps caoutchouteux](./Corps caoutchouteux.md)*.
+**Archétypes.** [[Maraudeur ailé (alchimiste)]].
+**Options de classe (Malédiction d'oracle).** [[Malédictions doracle|Infesté]].
+**Options de classe (Maléfices de sorcière).** [[Maléfices#Sorcièredeboue|Sorcière de boue]].
+**Équipement.** [[Équipements raciaux#HARNAISDEVOL|Harnais de vol]].
+**Sorts.** *[[copain de boue]]*, *[[corps caoutchouteux]]*.
 
 #### hobgobelins
-**Archétypes.** [Grenadier (alchimiste)](./Grenadier (alchimiste).md).
-**Dons.** [Belliciste](./Belliciste.md), [Commandant des goblenoïdes](./Commandant-des-goblenoïdes.md), [Esprit d'équipe](./Esprit déquipe.md)*<sup>E</sup>, [Motivation pour la marche](./Motivation pour la marche.md), [Pedigree de commandement](./Pedigree-de-commandement.md), [Succession de défis](./Succession de défis.md).
-**Équipement.** [Bille de fronde alchimique](./équipements raciaux.md#BILLEDEFRONDEALCHIMIQUE), [Chistera](./équipements raciaux.md#CHISTERA), [Fusée de signalisation](./équipements raciaux.md#FUSEEDESIGNALISATION), [Jus de ferveur](./équipements raciaux.md#JUSDEFERVEUR).
+**Archétypes.** [[Grenadier (alchimiste)]].
+**Dons.** [[Belliciste]], [[Commandant des goblenoïdes]], [[Esprit déquipe|Esprit d'équipe]]*<sup>E</sup>, [[Motivation pour la marche]], [[Pedigree de commandement]], [[Succession de défis]].
+**Équipement.** [[Équipements raciaux#BILLEDEFRONDEALCHIMIQUE|Bille de fronde alchimique]], [[Équipements raciaux#CHISTERA|Chistera]], [[Équipements raciaux#FUSEEDESIGNALISATION|Fusée de signalisation]], [[Équipements raciaux#JUSDEFERVEUR|Jus de ferveur]].
 
 #### hommes rats
 Fait :
 Les traits alternatifs des hommes rats ont été portés sur la page de cette race.
 
-**Dons.** [Cachette commune](./Cachette commune.md)<sup>E</sup>, [Collectionneur](./Collectionneur.md), [Dents acérées](./Dents acérées.md), [Rogneur](./Rogneur.md).
-**Équipement.** [Pâte de rhinarium](./équipements raciaux.md#PATEDERHINARIUM), [Rat de selle](./équipements raciaux.md#RATDESELLE),
-**Objets magiques.** [catalytique (propriété)](./catalytique (propriété).md), [virulente (propriété)](./virulente (propriété).md).
+**Dons.** [[Cachette commune]]<sup>E</sup>, [[Collectionneur]], [[Dents acérées]], [[Rogneur]].
+**Équipement.** [[Équipements raciaux#PATEDERHINARIUM|Pâte de rhinarium]], [[Équipements raciaux#RATDESELLE|Rat de selle]],
+**Objets magiques.** [[catalytique (propriété)]], [[virulente (propriété)]].
 
-#### [kobold](./Kobold (race).md)
-**Archétypes.** [Dragon jappeur (barde)](./Dragon jappeur (barde).md), Trappeur alchimique (alchimiste)]].
-**Options de classe (Compagnons animaux).** [Python de selle](./liste des compagnons animaux.md#Pythondeselle), [Salamandre cavernicole](./liste des compagnons animaux.md#Salamandrecavernicole).
-**Options de classe (Pièges de rôdeur).** [Blaireau moisi et chute de rocher](./Pièges de rôdeur.md#BLAIREAUMOISIETCHUTEDEROCHER), [Chute d'acide](./Pièges de rôdeur.md#CHUTEDACIDE), [Chute de bûche](./Pièges de rôdeur.md#CHUTEDEBUCHE), [Fosse à fumier de dragon](./Pièges de rôdeur.md#FOSSEAFUMIERDEDRAGON), [Lance ophidienne](./Pièges de rôdeur.md#LANCEOPHIDIENNE), [Piège de feu draconique](./Pièges de rôdeur.md#PIEGEDEFEUDRAGONIQUE), [Piège de poussière collante](./Pièges de rôdeur.md#PIEGEDEPOUSSIERECOLLANTE).
-**Dons.** [Magie draconique](./Magie draconique.md), [Monte de slurk](./Monte de slurk.md)*.
+#### [[kobold (race)|kobold]]
+**Archétypes.** [[Dragon jappeur (barde)]], Trappeur alchimique (alchimiste)]].
+**Options de classe (Compagnons animaux).** [[liste des compagnons animaux#Pythondeselle|Python de selle]], [[liste des compagnons animaux#Salamandrecavernicole|Salamandre cavernicole]].
+**Options de classe (Pièges de rôdeur).** [[Pièges de rôdeur#BLAIREAUMOISIETCHUTEDEROCHER|Blaireau moisi et chute de rocher]], [[Pièges de rôdeur#CHUTEDACIDE|Chute d'acide]], [[Pièges de rôdeur#CHUTEDEBUCHE|Chute de bûche]], [[Pièges de rôdeur#FOSSEAFUMIERDEDRAGON|Fosse à fumier de dragon]], [[Pièges de rôdeur#LANCEOPHIDIENNE|Lance ophidienne]], [[Pièges de rôdeur#PIEGEDEFEUDRAGONIQUE|Piège de feu draconique]], [[Pièges de rôdeur#PIEGEDEPOUSSIERECOLLANTE|Piège de poussière collante]].
+**Dons.** [[Magie draconique]], [[Monte de slurk]]*.
 
-#### [orque](./Orque.md)
-**Dons.** [Charge du chevaucheur de cornes](./Charge du chevaucheur de cornes.md)*, [Chevaucheur de cornes](./Chevaucheur de cornes.md)*, [Haine réciproque](./Haine réciproque.md), [Légion balafrée](./Légion balafrée.md)<sup>E</sup>.
-**Équipement.** [Harnais à cornes](./équipements raciaux.md#HARNAISACORNES), [Selle de gorthek](./équipements raciaux.md#SELLEDEGORTHEK).
-**Objets magiques.** [Bannière de la horde déferlante](./Bannière de la horde déferlante.md), [Bottes de collision](./Bottes de collision.md), [Chaudron d'embuscade](./Chaudron dembuscade.md), [Masques gortheks](./Masques gortheks.md), [Ossépines](./Ossépines.md), [Tambour de guerre de la sauvagerie](./Tambour de guerre de la sauvagerie.md).
+#### [[orque]]
+**Dons.** [[Charge du chevaucheur de cornes]]*, [[Chevaucheur de cornes]]*, [[Haine réciproque]], [[Légion balafrée]]<sup>E</sup>.
+**Équipement.** [[Équipements raciaux#HARNAISACORNES|Harnais à cornes]], [[Équipements raciaux#SELLEDEGORTHEK|Selle de gorthek]].
+**Objets magiques.** [[Bannière de la horde déferlante]], [[Bottes de collision]], [[Chaudron dembuscade|Chaudron d'embuscade]], [[Masques gortheks]], [[Ossépines]], [[Tambour de guerre de la sauvagerie]].
 
 ### contenu supplémentaire
 - PNJ raciaux -> à intégrer en reprenant le format des PNJ avec des blocs descriptifs.

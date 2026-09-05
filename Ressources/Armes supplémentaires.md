@@ -6,8 +6,8 @@ LastModified: 2017-04-08 15:09
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Voir la [liste des armes](./../Pathfinder-RPG/Tableau récapitulatif des armes.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Voir la [[Pathfinder-RPG.Tableau récapitulatif des armes|liste des armes]]</ul>
 </div>
 
 <nav class="wiki-toc"></nav>
@@ -78,7 +78,7 @@ Le stylet est une variante de dague, bien que l'on ne puisse pas s'en servir com
 Le tanto est une variante de dague commune dans les contrées orientales. Dans ces pays, il peut être considéré comme une arme courrante. On ne peut pas s'en servir comme arme de jet. Par contre,  il est particulièrement efficace pour les mise à mort ou les suicides. On peut considérer que les dons choisis par un personnage pour une dague peuvent être appliqués pour un tanto.
 
 #### Arbalètes lourdes
-Les arbalètes lourdes prennent un round entier à recharger. Il en existe des [modèles](http://fr.wikipedia.org/wiki/Arbalète_%28arme%29#.C3.89l.C3.A9ments_historiques) à gros ressorts, faisant plus de dégâts. Celles-ci ne peuvent être rechargées que par un individu doué d’une grande force, ou éventuellement en utilisant un puissant levier, ce qui nécessite plus de temps. L'utilisation du don rechargement rapide sur ce type d'engin doit s'accompagner d'un test de force. Il est impossible d'utiliser le rechargement rapide en utilisant un levier spécial. La possibilité d'armes individuelles encore plus puissantes que celles présentées ci dessous est assez restreinte du fait que les premières baliste envoient des carreaux infligeant 3d8 points de dégâts.
+Les arbalètes lourdes prennent un round entier à recharger. Il en existe des [modèles](http://fr.wikipedia.org/wiki/Arbal%C3%A8te_%28arme%29#.C3.89l.C3.A9ments_historiques) à gros ressorts, faisant plus de dégâts. Celles-ci ne peuvent être rechargées que par un individu doué d’une grande force, ou éventuellement en utilisant un puissant levier, ce qui nécessite plus de temps. L'utilisation du don rechargement rapide sur ce type d'engin doit s'accompagner d'un test de force. Il est impossible d'utiliser le rechargement rapide en utilisant un levier spécial. La possibilité d'armes individuelles encore plus puissantes que celles présentées ci dessous est assez restreinte du fait que les premières baliste envoient des carreaux infligeant 3d8 points de dégâts.
 
 {| CLASS="tablo col1centre"
 |+ Nouvelles arbalètes lourdes

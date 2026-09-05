@@ -6,4 +6,4 @@ Categories:
 - Géographie
 ---
 
-{s:MenuContinents}Le Sarusan est le plus petit des continents de Golarion. Les légendes le situent très loin de la [mer Intérieure](./mer Intérieure.md), à l'écart des routes maritimes les plus fréquentées. On évoque une ancienne civilisation disparue, une île cachée constamment par des brumes et des animaux gigantesques disparus depuis longtemps sur les autres continents. Concrètement, on ne sait pas grand chose de ce mystérieux continent.
+{s:MenuContinents}Le Sarusan est le plus petit des continents de Golarion. Les légendes le situent très loin de la [[mer Intérieure]], à l'écart des routes maritimes les plus fréquentées. On évoque une ancienne civilisation disparue, une île cachée constamment par des brumes et des animaux gigantesques disparus depuis longtemps sur les autres continents. Concrètement, on ne sait pas grand chose de ce mystérieux continent.

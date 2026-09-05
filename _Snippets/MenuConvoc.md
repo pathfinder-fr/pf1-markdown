@@ -36,15 +36,15 @@ color: #000;
 <td class="menuconvoctitre" colspan="9">Convocation de monstres</td>
 </tr>
 <tr class="menuconvocitem">
-<td width="9%">[I](./../Ressources/Monstres convoqués CM1.md)</td>
-<td width="9%">[II](./../Ressources/Monstres convoqués CM2.md)</td>
-<td width="9%">[III](./../Ressources/Monstres convoqués CM3.md)</td>
-<td width="9%">[IV](./../Ressources/Monstres convoqués CM4.md)</td>
-<td width="9%">[V](./../Ressources/Monstres convoqués CM5.md)</td>
-<td width="9%">[VI](./../Ressources/Monstres convoqués CM6.md)</td>
-<td width="9%">[VII](./../Ressources/Monstres convoqués CM7.md)</td>
-<td width="9%">[VIII](./../Ressources/Monstres convoqués CM8.md)</td>
-<td width="9%">[IX](./../Ressources/Monstres convoqués CM9.md)</td>
+<td width="9%">[[Monstres convoqués CM1|I]]</td>
+<td width="9%">[[Monstres convoqués CM2|II]]</td>
+<td width="9%">[[Monstres convoqués CM3|III]]</td>
+<td width="9%">[[Monstres convoqués CM4|IV]]</td>
+<td width="9%">[[Monstres convoqués CM5|V]]</td>
+<td width="9%">[[Monstres convoqués CM6|VI]]</td>
+<td width="9%">[[Monstres convoqués CM7|VII]]</td>
+<td width="9%">[[Monstres convoqués CM8|VIII]]</td>
+<td width="9%">[[Monstres convoqués CM9|IX]]</td>
 </tr>
 </table>
 </td>
@@ -55,15 +55,15 @@ color: #000;
 <td class="menuconvoctitre" colspan="9">Convocation d'alliés naturels</td>
 </tr>
 <tr class="menuconvocitem">
-<td width="5%">[I](./../Ressources/Monstres convoqués AN1.md)</td>
-<td width="5%">[II](./../Ressources/Monstres convoqués AN2.md)</td>
-<td width="5%">[III](./../Ressources/Monstres convoqués AN3.md)</td>
-<td width="5%">[IV](./../Ressources/Monstres convoqués AN4.md)</td>
-<td width="5%">[V](./../Ressources/Monstres convoqués AN5.md)</td>
-<td width="5%">[VI](./../Ressources/Monstres convoqués AN6.md)</td>
-<td width="5%">[VII](./../Ressources/Monstres convoqués AN7.md)</td>
-<td width="5%">[VIII](./../Ressources/Monstres convoqués AN8.md)</td>
-<td width="5%">[IX](./../Ressources/Monstres convoqués AN9.md)</td>
+<td width="5%">[[Monstres convoqués AN1|I]]</td>
+<td width="5%">[[Monstres convoqués AN2|II]]</td>
+<td width="5%">[[Monstres convoqués AN3|III]]</td>
+<td width="5%">[[Monstres convoqués AN4|IV]]</td>
+<td width="5%">[[Monstres convoqués AN5|V]]</td>
+<td width="5%">[[Monstres convoqués AN6|VI]]</td>
+<td width="5%">[[Monstres convoqués AN7|VII]]</td>
+<td width="5%">[[Monstres convoqués AN8|VIII]]</td>
+<td width="5%">[[Monstres convoqués AN9|IX]]</td>
 </tr>
 </table>
 </td>

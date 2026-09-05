@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-C’est par le lac de Syrantula que passent les voies navigables les plus utilisées de la [Varisie](./Varisie.md). En effet le passage par le lac permet de faire la jonction entre les territoires de [Korvosa](./Korvosa.md) et [Magnimar](./Magnimar.md). La plupart des navigateurs n’ont pas grand-chose à craindre sur le lac. Par contre, on trouve sur la rive méridionale de nombreuses ruines que les gens prennent bien soin d’éviter.
+C’est par le lac de Syrantula que passent les voies navigables les plus utilisées de la [[Varisie]]. En effet le passage par le lac permet de faire la jonction entre les territoires de [[Korvosa]] et [[Magnimar]]. La plupart des navigateurs n’ont pas grand-chose à craindre sur le lac. Par contre, on trouve sur la rive méridionale de nombreuses ruines que les gens prennent bien soin d’éviter.

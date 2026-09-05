@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[bien](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Pal](./Paladin.md) 2  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|bien]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** contact  
 
 **Cible** 1 projectile  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ou jusqu'à épuisement  
+**Durée** 1 [[round]]/[[niveau]] ou jusqu'à épuisement  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Le personnage imprègne un projectile d’énergie sacrée, comme une flèche ou un shuriken, afin d’infliger des dégâts supplémentaires aux [morts-vivants](./type Mort-vivant.md). Le montant de ces dégâts équivaut à celui d’une [imposition des mains](./Imposition des mains.md). On ne le multiplie pas en cas de [coup critique](./coup critique.md). Le sort ne dépense pas d’utilisation de l’[imposition des mains](./Imposition des mains.md) mais le personnage doit en avoir encore une en réserve pour le lancer. Si le projectile touche une cible ou s’il est détruit avant la fin de la durée du sort, le sort se dissipe.
+Le personnage imprègne un projectile d’énergie sacrée, comme une flèche ou un shuriken, afin d’infliger des dégâts supplémentaires aux [[type mort-vivant|morts-vivants]]. Le montant de ces dégâts équivaut à celui d’une [[imposition des mains]]. On ne le multiplie pas en cas de [[coup critique]]. Le sort ne dépense pas d’utilisation de l’[[imposition des mains]] mais le personnage doit en avoir encore une en réserve pour le lancer. Si le projectile touche une cible ou s’il est détruit avant la fin de la durée du sort, le sort se dissipe.

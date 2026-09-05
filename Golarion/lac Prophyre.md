@@ -7,6 +7,6 @@ Categories:
 - Ustalav
 ---
 
-Situé dans le comté de [Sinaria](./Sinaria.md), au nord-est de l'[Ustalav](./Ustalav.md), le lac Prophyre est une grande étendue d'eau froide. Il est entouré de terres fertiles et ses rives accueillent la majorité de la population du comté.
+Situé dans le comté de [[Sinaria]], au nord-est de l'[[Ustalav]], le lac Prophyre est une grande étendue d'eau froide. Il est entouré de terres fertiles et ses rives accueillent la majorité de la population du comté.
 
-Sur sa rive ouest est implantée la plus grande cité du comté de [Sinaria](./Sinaria.md) : [Karcau](./Karcau.md), le mondialement connu Village des Voix.
+Sur sa rive ouest est implantée la plus grande cité du comté de [[Sinaria]] : [[Karcau]], le mondialement connu Village des Voix.

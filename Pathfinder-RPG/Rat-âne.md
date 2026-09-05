@@ -10,8 +10,8 @@ LastModified: 2025-12-06 17:19
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Art de la Magie p.119*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +3 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 11 (Dex +3, taille +1)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -21,9 +21,9 @@ LastModified: 2025-12-06 17:19
 {s:BDTexte|**Corps à corps** morsure, +0 (1d3-2)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 17, **Con** 13, **Int** 2, **Sag** 13, **Cha** 4}
-{s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 9 (13 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +15, [Natation](./Natation.md) +11, [Perception](./Perception.md) +4}
+{s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 9 (13 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +15, [[Natation]] +11, [[Perception]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêt côtière ou tempéré}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou nid (3-12)}

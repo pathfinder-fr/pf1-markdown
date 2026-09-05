@@ -14,9 +14,9 @@ Categories:
 {s:Reference|COMMERCANT}
 {s:BDTitre|Commerçant|FP 1}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|Humain [expert](./Expert.md) 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [Perception](./Perception.md) +8}
+{s:BDTexte|Humain [[expert]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 10, contact 10, pris au dépourvu 10}
 {s:BDTexte|**pv** 13 (3d8)}
@@ -28,8 +28,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 9, **Dex** 10, **Con** 10, **Int** 11, **Sag** 13, **Cha** 12}
 {s:BDTexte|**BBA** +2, **BMO** +1, **DMD** 11}
-{s:BDTexte|**Dons** [Fourberie](./Fourberie.md), [Talent](./Talent.md) (Profession <nowiki>[</nowiki>marchand<nowiki>]</nowiki>), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +9, [Connaissances](./Connaissances.md) (folklore local) +6, [Déguisement](./Déguisement.md) +6, [Diplomatie](./Diplomatie.md) +7, [Estimation](./Estimation.md) +6, [Linguistique](./Linguistique.md) +6, [Perception](./Perception.md) +8, [Profession](./Profession.md) (marchand) +10, [Psychologie](./Psychologie.md) +9}
+{s:BDTexte|**Dons** [[Fourberie]], [[Talent]] (Profession <nowiki>[[</nowiki>marchand<nowiki>]]</nowiki>), [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Bluff]] +9, [[Connaissances]] (folklore local) +6, [[Déguisement]] +6, [[Diplomatie]] +7, [[Estimation]] +6, [[Linguistique]] +6, [[Perception]] +8, [[Profession]] (marchand) +10, [[Psychologie]] +9}
 {s:BDTexte|**Langues** commun, gnome, halfelin, nain}
 {s:BDTexte|**Équipement de combat** bâton fumigène, sacoche immobilisante ; Autre équipement dague, trousse de déguisement, cheval lourd et wagon, 433 po de marchandise}
 {s:BDTexte|**Faveur** Un commerçant peut accorder une réduction de 10% sur une pièce d’équipement valant moins de 400 po.}
@@ -38,11 +38,11 @@ Categories:
 Les commerçants gèrent les centres commerciaux des cités, les magasins des villes, les échoppes de village et les comptoirs
 commerciaux isolés. On les retrouve dans tous les coins du monde, sous la forme de rusés brocanteurs itinérants, de vendeurs à la sauvette dans les bazars ou de marchands respectés siégeant aux conseils communaux. Ils forment la charpente sur laquelle repose l’économie d’une communauté et s’assurent de la libre-circulation du commerce à travers celle-ci.
 
-On peut utiliser des commerçants pour représenter toute une variété de professions dans les villages, les villes et les cités. En changeant le domaine de la compétence [Profession](./Profession.md), on peut créer divers personnages allant des boulangers aux pêcheurs en passant par les meuniers. En remplaçant la compétence de [Profession](./Profession.md) par [Artisanat](./Artisanat.md), on peut créer un artisan plutôt qu’un commerçant, comme un alchimiste, un tisserand ou un forgeron. Si on remplace [Profession](./Profession.md) par une ou deux compétences de [Connaissances](./Connaissances.md), on en fait un sage ou un érudit. Dans ce cas, les marchandises évoquées ci-dessus représentent des livres, des cartes ou des parchemins.
+On peut utiliser des commerçants pour représenter toute une variété de professions dans les villages, les villes et les cités. En changeant le domaine de la compétence [[Profession]], on peut créer divers personnages allant des boulangers aux pêcheurs en passant par les meuniers. En remplaçant la compétence de [[Profession]] par [[Artisanat]], on peut créer un artisan plutôt qu’un commerçant, comme un alchimiste, un tisserand ou un forgeron. Si on remplace [[Profession]] par une ou deux compétences de [[Connaissances]], on en fait un sage ou un érudit. Dans ce cas, les marchandises évoquées ci-dessus représentent des livres, des cartes ou des parchemins.
 
 Les commerçants ne sont pas doués au combat mais on peut les utiliser pour représenter une milice citoyenne mobilisée en temps de guerre. Dans ce cas, ajoutez une armure de cuir ou une armure matelassée et remplacez éventuellement la dague par un gourdin ou un épieu... voire même une arbalète pour en faire des combattants plus efficaces.
 
-Les commerçants voyagent souvent par deux ou avec un [vagabond](./PNJ routes.md#VAGABOND) (FP 3) lors de longs trajets. Ils embauchent un [garde](./PNJ milices.md#GARDE) si leur marchandise est assez précieuse (FP 4).
+Les commerçants voyagent souvent par deux ou avec un [[PNJ routes#VAGABOND|vagabond]] (FP 3) lors de longs trajets. Ils embauchent un [[PNJ milices#GARDE|garde]] si leur marchandise est assez précieuse (FP 4).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -50,9 +50,9 @@ Les commerçants voyagent souvent par deux ou avec un [vagabond](./PNJ routes.md
 {s:Reference|MARCHANDITINERANT}
 {s:BDTitre|Marchand itinérant|FP 5}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|Humain [expert](./Expert.md) 7}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** -1 ; **Sens** [Perception](./Perception.md) +12}
+{s:BDTexte|Humain [[expert]] 7}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 10, contact 9, pris au dépourvu 10 (armure +1, Dex –1)}
 {s:BDTexte|**pv** 31 (7d8)}
@@ -64,8 +64,8 @@ Les commerçants voyagent souvent par deux ou avec un [vagabond](./PNJ routes.md
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 9, **Con** 10, **Int** 14, **Sag** 11, **Cha** 14}
 {s:BDTexte|**BBA** +5, **BMO** +4, **DMD** 13}
-{s:BDTexte|**Dons** [Expertise du combat](./Expertise du combat.md), [Fourberie](./Fourberie.md), [Persuasion](./Persuasion.md), [Talent](./Talent.md) (Profession <nowiki>[</nowiki>marchand<nowiki>]</nowiki>), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +14, [Connaissances](./Connaissances.md) (folklore local) +10, [Connaissances](./Connaissances.md) (géographie) +10, [Connaissances](./Connaissances.md) (noblesse) +3, [Déguisement](./Déguisement.md) +6, [Diplomatie](./Diplomatie.md) +12, [Dressage](./Dressage.md) +10, [Équitation](./Équitation.md) +6, [Estimation](./Estimation.md) +12, [Intimidation](./Intimidation.md) +4, [Linguistique](./Linguistique.md) +12, [Perception](./Perception.md) +12, [Profession](./Profession.md) (marchand) +13, [Psychologie](./Psychologie.md) +12}
+{s:BDTexte|**Dons** [[Expertise du combat]], [[Fourberie]], [[Persuasion]], [[Talent]] (Profession <nowiki>[[</nowiki>marchand<nowiki>]]</nowiki>), [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Bluff]] +14, [[Connaissances]] (folklore local) +10, [[Connaissances]] (géographie) +10, [[Connaissances]] (noblesse) +3, [[Déguisement]] +6, [[Diplomatie]] +12, [[Dressage]] +10, [[Équitation]] +6, [[Estimation]] +12, [[Intimidation]] +4, [[Linguistique]] +12, [[Perception]] +12, [[Profession]] (marchand) +13, [[Psychologie]] +12}
 {s:BDTexte|**Langues** commun, draconique, elfique, géant, gnome, gobelin, halfelin, nain, orque, sylvestre}
 {s:BDTexte|**Équipement** armure matelassée, arbalète légère de maître avec 10 carreaux, dague, anneau de subsistance, sac sans fond de type I, trousse de déguisement, cheval léger, 302 po de marchandise}
 {s:BDTexte|**Faveur** Un marchand itinérant peut permettre aux PJ d’acheter ou de vendre des objets comme si la communauté avait une catégorie de taille de plus ou d’accompagner une caravane comme gardes ou invités.}
@@ -77,7 +77,7 @@ Les marchands itinérants font d’excellents diplomates, espions, informateurs 
 érudits et doués en société.
 
 Une délégation de quatre marchands itinérants peut former une mission économique ou un groupe d’ambassadeurs envoyé
-par un pays lointain (FP 9) alors que deux marchands itinérants peuvent agir comme délégués d’un [prince marchand](./PNJ marchands.md#PRINCEMARCHAND) (FP 10). Les marchands itinérants solitaires voyagent généralement avec quatre [gardes de caravane](./PNJ mercenaires.md#GARDEDECARAVANE) (FP 7) alors que ceux qui sont à la tête d’un convoi sont accompagnés d’un [guide](./PNJ terres sauvages.md#GUIDE), de quatre [vagabonds](./PNJ routes.md#VAGABOND) (qui font office de conducteurs) et de huit [gardes de caravane](./PNJ mercenaires.md#GARDEDECARAVANE) (FP 10).
+par un pays lointain (FP 9) alors que deux marchands itinérants peuvent agir comme délégués d’un [[PNJ marchands#PRINCEMARCHAND|prince marchand]] (FP 10). Les marchands itinérants solitaires voyagent généralement avec quatre [[PNJ mercenaires#GARDEDECARAVANE|gardes de caravane]] (FP 7) alors que ceux qui sont à la tête d’un convoi sont accompagnés d’un [[PNJ terres sauvages#GUIDE|guide]], de quatre [[PNJ routes#VAGABOND|vagabonds]] (qui font office de conducteurs) et de huit [[PNJ mercenaires#GARDEDECARAVANE|gardes de caravane]] (FP 10).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -85,9 +85,9 @@ par un pays lointain (FP 9) alors que deux marchands itinérants peuvent agir co
 {s:Reference|PRINCEMARCHAND}
 {s:BDTitre|Prince marchand|FP 9}
 {s:BDTexte|**PX** 6 400}
-{s:BDTexte|Humain [expert](./Expert.md) 4 / [roublard](./Roublard.md) 6}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [Perception](./Perception.md) +17}
+{s:BDTexte|Humain [[expert]] 4 / [[roublard]] 6}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 13, pris au dépourvu 15 (armure +5, Dex +3)}
 {s:BDTexte|**pv** 58 (10d8+13)}
@@ -99,18 +99,18 @@ par un pays lointain (FP 9) alors que deux marchands itinérants peuvent agir co
 {s:BDTexte|**A distance** arbalète de poing +1, +11 (1d4+1/19–20) ou dague, +10 (1d4–1/19–20)}
 {s:BDTexte|**Attaque spéciale** attaque sournoise +3d6}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6, concentration +8)}
-{s:BDTexte|3/jour — [détection de la magie](./Détection de la magie.md)}
-{s:BDTexte|2/jour — [charme-personne](./Charme-personne.md) (DD 13)}
+{s:BDTexte|3/jour — [[détection de la magie]]}
+{s:BDTexte|2/jour — [[charme-personne]] (DD 13)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 16, **Con** 12, **Int** 14, **Sag** 10, **Cha** 16}
 {s:BDTexte|**BBA** +7, **BMO** +6, **DMD** 19}
-{s:BDTexte|**Dons** [Aptitude magique](./Aptitude magique.md), [Attaque en finesse](./Attaque en finesse.md), [Création d’objets merveilleux](./Création dobjets merveilleux.md), [Maître artisan](./Maître artisan.md), [Talent](./Talent.md) (Profession <nowiki>[</nowiki>marchand<nowiki>]</nowiki>), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +19, [Bluff](./Bluff.md) +17, [Connaissances](./Connaissances.md) (folklore local) +10, [Déguisement](./Déguisement.md) +15, [Diplomatie](./Diplomatie.md) +17, [Discrétion](./Discrétion.md) +10, [Dressage](./Dressage.md) +10, [Équitation](./Équitation.md) +10, [Escamotage](./Escamotage.md) +10, [Estimation](./Estimation.md) +17, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +17 (+20 pour détecter les pièges), [Profession](./Profession.md) (marchand) +21, [Psychologie](./Psychologie.md) +16, [Représentation](./Représentation.md) (danse) +10, [Représentation](./Représentation.md) (déclamation) +10, [Représentation](./Représentation.md) (scène) +10, [Sabotage](./Sabotage.md) +12, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +23}
+{s:BDTexte|**Dons** [[Aptitude magique]], [[Attaque en finesse]], [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Maître artisan]], [[Talent]] (Profession <nowiki>[[</nowiki>marchand<nowiki>]]</nowiki>), [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +19, [[Bluff]] +17, [[Connaissances]] (folklore local) +10, [[Déguisement]] +15, [[Diplomatie]] +17, [[Discrétion]] +10, [[Dressage]] +10, [[Équitation]] +10, [[Escamotage]] +10, [[Estimation]] +17, [[Intimidation]] +10, [[Perception]] +17 (+20 pour détecter les pièges), [[Profession]] (marchand) +21, [[Psychologie]] +16, [[Représentation]] (danse) +10, [[Représentation]] (déclamation) +10, [[Représentation]] (scène) +10, [[Sabotage]] +12, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +23}
 {s:BDTexte|**Langues** commun, gnome, halfelin, nain}
 {s:BDTexte|**Particularités** sens des pièges +3, talent de roublard (magie majeure, magie mineure, résilience)}
 
 
-{s:BDTexte|**Équipement de combat** baguette de *[décharge électrique](./Décharge électrique.md)* (NLS 3, 50 charges), baguette de *[rayon affaiblissant](./Rayon affaiblissant.md)* (50 charges), baguette d’*[identification](./Identification.md)* (50 charges) ; **Autre équipement** *chemise de mailles +1*, *arbalète de poing +1* avec 10 carreaux, dague, *cape de résistance +2*, couvre-chef de déguisement, havresac, *serre-tête de persuasion*, trousse de déguisement, loupe, outils de voleur de maître}
+{s:BDTexte|**Équipement de combat** baguette de *[[décharge électrique]]* (NLS 3, 50 charges), baguette de *[[rayon affaiblissant]]* (50 charges), baguette d’*[[identification]]* (50 charges) ; **Autre équipement** *chemise de mailles +1*, *arbalète de poing +1* avec 10 carreaux, dague, *cape de résistance +2*, couvre-chef de déguisement, havresac, *serre-tête de persuasion*, trousse de déguisement, loupe, outils de voleur de maître}
 {s:BDTexte|**Faveur** Un prince marchand peut organiser l’achat ou la vente d’un objet comme si la communauté locale avait deux catégories de taille de plus. Il peut aussi vendre n’importe quel objet situé en-dessous de la valeur de base de la communauté avec une réduction de prix de 10%.}
 </div>
 </td><td><div>
@@ -118,5 +118,5 @@ Les princes marchands sont les capitaines du commerce, des individus mercantiles
 contrats commerciaux internationaux portant sur de grandes quantités que d’arrangements secrets au sujet de colifichets de
 grande valeur. Ce sont des négociateurs rusés qui peuvent faire office d’espions talentueux, de diplomates ou de charlatans se faisant passer pour de véritables magiciens.
 
-Un prince marchand possède souvent un [mercenaire armé](./PNJ mercenaires.md#MERCENAIREARME) comme garde du corps (FP 10).
+Un prince marchand possède souvent un [[PNJ mercenaires#MERCENAIREARME|mercenaire armé]] comme garde du corps (FP 10).
 </div></td></tr></table>

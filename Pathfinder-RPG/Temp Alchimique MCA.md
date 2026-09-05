@@ -14,15 +14,15 @@ Les remèdes alchimiques sont des substances que l’on utilise pour surmonter u
 |- CLASS="titre"
 | Objet || Coût || Poids || DD d’Artisanat
 |- CLASS="premier"
-| [Baume antipoison](./Temp Alchimique MCA.md#antipoison) || 15 po || — || 15
+| [[Temp Alchimique MCA#antipoison|Baume antipoison]] || 15 po || — || 15
 |- CLASS="alt"
-| [Baume coagulant](./Temp Alchimique MCA.md#coagulant) || 30 po || — || 20
+| [[Temp Alchimique MCA#coagulant|Baume coagulant]] || 30 po || — || 20
 |-
-| [Secours du forcené](./Temp Alchimique MCA.md#forcené) || 25 po || — || 25
+| [[Temp Alchimique MCA#forcené|Secours du forcené]] || 25 po || — || 25
 |- CLASS="alt"
-| [Tabac antiémétique](./Temp Alchimique MCA.md#antiémétique) || 50 po || — || 25
+| [[Temp Alchimique MCA#antiémétique|Tabac antiémétique]] || 50 po || — || 25
 |-
-| [Tonique](./Temp Alchimique MCA.md#Tonique) || 20 po || 0,5 kg || 20
+| [[Temp Alchimique MCA#Tonique|Tonique]] || 20 po || 0,5 kg || 20
 |}
 </center>
 
@@ -58,39 +58,39 @@ Les outils alchimiques font partie des équipements d’aventure qui peuvent s�
 |- CLASS="titre"
 | Objet || Coût || Poids || DD d’artisanat
 |- CLASS="premier"
-| [Baume d’arme sainte](./Temp Alchimique MCA.md#ARMESAINTE) || 30 po || 0,25 kg || 20
+| [[Temp Alchimique MCA#ARMESAINTE|Baume d’arme sainte]] || 30 po || 0,25 kg || 20
 |- CLASS="alt"
-| [Capsule vomitive](./Temp Alchimique MCA.md#vomitive) || 12 po || — || 15
+| [[Temp Alchimique MCA#vomitive|Capsule vomitive]] || 12 po || — || 15
 |-
-| [Corde de vigne-sang](./Temp Alchimique MCA.md#Corde) || 200 po || 2,5 kg || 30
+| [[Temp Alchimique MCA#Corde|Corde de vigne-sang]] || 200 po || 2,5 kg || 30
 |- CLASS="alt"
-| [Encre de feu, fiole](./Temp Alchimique MCA.md#Encre) || 40 po || — || 25
+| [[Temp Alchimique MCA#Encre|Encre de feu, fiole]] || 40 po || — || 25
 |-
-| [Galets du petit Poucet](./Temp Alchimique MCA.md#Galets) || 50 po || 0,5 kg || 25
+| [[Temp Alchimique MCA#Galets|Galets du petit Poucet]] || 50 po || 0,5 kg || 25
 |- CLASS="alt"
-| [Huile des maîtres](./Temp Alchimique MCA.md#Huile) || 50 po || 0,25 kg || 25
+| [[Temp Alchimique MCA#Huile|Huile des maîtres]] || 50 po || 0,25 kg || 25
 |-
-| [Masque-odeur, animal](./Temp Alchimique MCA.md#Masque-odeur) || 25 po || — || 20
+| [[Temp Alchimique MCA#Masque-odeur|Masque-odeur, animal]] || 25 po || — || 20
 |- CLASS="alt"
-| [Masque-odeur, créature magique](./Temp Alchimique MCA.md#Masque-odeur) || 100 po || — || 30
+| [[Temp Alchimique MCA#Masque-odeur|Masque-odeur, créature magique]] || 100 po || — || 30
 |-
-| [Masque-odeur, humanoïde](./Temp Alchimique MCA.md#Masque-odeur) || 50 po || — || 25
+| [[Temp Alchimique MCA#Masque-odeur|Masque-odeur, humanoïde]] || 50 po || — || 25
 |- CLASS="alt"
-| [Papier réactif](./Temp Alchimique MCA.md#Papier) || 1 po || — || 15
+| [[Temp Alchimique MCA#Papier|Papier réactif]] || 1 po || — || 15
 |-
-| [Pastel de guède (1 bâtonnet)](./Temp Alchimique MCA.md#Pastel) || 60 po || — || 30
+| [[Temp Alchimique MCA#Pastel|Pastel de guède (1 bâtonnet)]] || 60 po || — || 30
 |- CLASS="alt"
-| [Pastille du rossignol](./Temp Alchimique MCA.md#Pastille) || 50 po || — || 25
+| [[Temp Alchimique MCA#Pastille|Pastille du rossignol]] || 50 po || — || 25
 |-
-| [Poudre de pistage](./Temp Alchimique MCA.md#Poudre) || 30 po || — || 25
+| [[Temp Alchimique MCA#Poudre|Poudre de pistage]] || 30 po || — || 25
 |- CLASS="alt"
-| [Solution adhésive](./Temp Alchimique MCA.md#Solution) || 25 po || 0,5 || kg 20
+| [[Temp Alchimique MCA#Solution|Solution adhésive]] || 25 po || 0,5 || kg 20
 |-
-| [Tabac du traqueur](./Temp Alchimique MCA.md#Tabac) || 200 po || — || 30
+| [[Temp Alchimique MCA#Tabac|Tabac du traqueur]] || 200 po || — || 30
 |- CLASS="alt"
-| [Tonique caverneux](./Temp Alchimique MCA.md#Tonique caverneux) || 50 po || — || 25
+| [[Temp Alchimique MCA#Tonique caverneux|Tonique caverneux]] || 50 po || — || 25
 |-
-| [Trousse à pastels de guède](./Temp Alchimique MCA.md#Pastel) || 300 po || 0,5 kg || 30
+| [[Temp Alchimique MCA#Pastel|Trousse à pastels de guède]] || 300 po || 0,5 kg || 30
 |}
 </center>
 
@@ -228,8 +228,8 @@ un bonus alchimique de +5 aux tests d’Intimidation.
 
 {s:mca}{s:Reference|Pastel}
 #### Trousse à pastels de guède
-Bien qu'associé à des pastels de guède, les ingrédients alchimiques de cette pâte bleue peuvent varier considérablement. Quand vous préparez un sort, vous pouvez réduire les composantes matérielles du sort en poussières et les mélanger à cette pâte pour ensuite l'utiliser pour peindre directement sur votre corps, ce qui vous permet de lancer le sort comme si vous bénéficiez des effets de [Dispense de composantes matérielles](./Dispense de composantes matérielles.md).
-De plus, en peignant des motifs complexes représentant les composantes somatiques pendant 10 minutes, ce qui prend 10 minutes, et en réussissant un test d'[Art de la magie](./Art de la magie.md) contre un [DD](./DD.md) égal à 15 + le niveau du sort, vous pouvez également lancer le sort comme si vous bénéficiez d'[Incantation statique](./Incantation statique.md).
+Bien qu'associé à des pastels de guède, les ingrédients alchimiques de cette pâte bleue peuvent varier considérablement. Quand vous préparez un sort, vous pouvez réduire les composantes matérielles du sort en poussières et les mélanger à cette pâte pour ensuite l'utiliser pour peindre directement sur votre corps, ce qui vous permet de lancer le sort comme si vous bénéficiez des effets de [[Dispense de composantes matérielles]].
+De plus, en peignant des motifs complexes représentant les composantes somatiques pendant 10 minutes, ce qui prend 10 minutes, et en réussissant un test d'[[Art de la magie]] contre un [[DD]] égal à 15 + le niveau du sort, vous pouvez également lancer le sort comme si vous bénéficiez d'[[Incantation statique]].
 Vous ne pouvez jamais avoir plus d'un sort peint sur votre corps et, si vous lancez le sort ainsi préparé ou si la peinture est enlevée pour une raison ou pour une autre, la peinture n'a plus d'effet.
 Les pastels de guède se présentent sous forme solide, en petits blocs concentrés (coûtant 60 po chacun) qui doivent être mélangés à un peu d'eau et aux composantes matérielles puis écrasés en une pâte sur une palette en bois ou en pierre. Une trousse standard contient une palette 5 blocs de peinture. Un bloc produit suffisamment de peintures pour 10 motifs incluant des composantes matérielles ou 1 motif de sort statique. Les pastels à guède ne présentent aucun intérêt pour les individus qui ne lancent pas de sorts.
 
@@ -247,11 +247,11 @@ la table ci-dessous.
 |- CLASS="titre"
 | Objet || Coût || Poids || DD d’Artisanat
 |- CLASS="premier"
-| [Fioles de poudre de diamant](./Temp Alchimique MCA.md#POUDREDIAMANT) || 25 po || — || 25
+| [[Temp Alchimique MCA#POUDREDIAMANT|Fioles de poudre de diamant]] || 25 po || — || 25
 |-
-| [Fioles pour poings de verre (4)](./Temp Alchimique MCA.md#POINGDEVERRE) || 5 po || — || 15
+| [[Temp Alchimique MCA#POINGDEVERRE|Fioles pour poings de verre (4)]] || 5 po || — || 15
 |- CLASS="alt"
-| [Poings de verre](./Temp Alchimique MCA.md#POINGDEVERRE) || 25 po || 0,25 kg || 20
+| [[Temp Alchimique MCA#POINGDEVERRE|Poings de verre]] || 25 po || 0,25 kg || 20
 |}
 </center>
 

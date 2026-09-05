@@ -44,6 +44,6 @@
 </tr>
 </table></td></tr>
 <tr><td style="background-color: #4b3124; padding: 1px"></td></tr>
-<tr><td style="text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0">Voir aussi : [Liste des dieux de Golarion](./../Golarion/Religions et philosophies.md)</td></tr></table>
+<tr><td style="text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0">Voir aussi : [[religions et philosophies|Liste des dieux de Golarion]]</td></tr></table>
 </div>
 </div>

@@ -10,9 +10,9 @@ Categories:
 
 {s:divin|Érastil|%2fPCUP%2fReligion-PNG%2fErastil.png}<div class="BD">
 {s:BDTitre|Anneau du guetteur érastilien|{s:ISG}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 1 500 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 1 500 po ; **Poids** —
 (((Description)))
-{s:cs}Cet anneau est taillé dans une unique pièce de bois épaisse et prend la forme d'une tête d'élan royal. Le porteur bénéficie d'un bonus de compétence de +2 aux tests de [Perception](./Perception.md) et de [Survie](./Survie.md). Une fois par jour, le porteur peut utiliser *[messager animal](./Messager animal.md)*.
+{s:cs}Cet anneau est taillé dans une unique pièce de bois épaisse et prend la forme d'une tête d'élan royal. Le porteur bénéficie d'un bonus de compétence de +2 aux tests de [[Perception]] et de [[Survie]]. Une fois par jour, le porteur peut utiliser *[[messager animal]]*.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[messager animal](./Messager animal.md)*, le créateur doit avoir 2 rangs en [Perception](./Perception.md) et en [Survie](./Survie.md) ; **Coût** 750 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[messager animal]]*, le créateur doit avoir 2 rangs en [[Perception]] et en [[Survie]] ; **Coût** 750 po
 </div>

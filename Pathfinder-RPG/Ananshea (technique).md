@@ -7,20 +7,20 @@ Categories:
 - Src Book of the Damned
 ---
 
-{s:DieuTech|Ananshea|La peau qui marche sur les dents| |[Bourreaux sahkils](./Divinités.md#BOURREAUXSAHKILS)
+{s:DieuTech|Ananshea|La peau qui marche sur les dents| |[[Divinités#BOURREAUXSAHKILS|Bourreaux sahkils]]
 |Chaotique Mauvais|Animaux sauvages, brutalité, torture
 |N'importe|Aucun
-|[Kukri](./kukri (arme).md)
-|[Destruction](./Domaine de la Destruction.md), [Faune](./Domaine de la Faune.md), [Force](./Domaine de la Force.md), [Mal](./Domaine du Mal.md)
-|[Férocité](./Domaine de la Force.md), [Peur](./Domaine du Mal.md), [Rage](./Domaine de la Destruction.md), [Sahkil](./Domaine du Mal.md), [Torture](./Domaine de la Destruction.md)
+|[[kukri (arme)|Kukri]]
+|[[Domaine de la Destruction|Destruction]], [[Domaine de la Faune|Faune]], [[Domaine de la Force|Force]], [[Domaine du Mal|Mal]]
+|[[Domaine de la Force|Férocité]], [[Domaine du Mal|Peur]], [[Domaine de la Destruction|Rage]], [[Domaine du Mal|Sahkil]], [[Domaine de la Destruction|Torture]]
 |—}
 {s:cs}
 
 ### Obédience
-Arracher sa propre chair, s'infligeant 1d4 points de dégâts avec une de ses attaques naturelles ou un couteau. Gain d'un bonus de malfaisance de +3 à la [CA](./CA.md) contre les attaques des [animaux](./type Animal.md) et des [vermines](./type Vermine.md).
+Arracher sa propre chair, s'infligeant 1d4 points de dégâts avec une de ses attaques naturelles ou un couteau. Gain d'un bonus de malfaisance de +3 à la [[CA]] contre les attaques des [[type Animal|animaux]] et des [[type Vermine|vermines]].
 
 #### Faveurs (Bourreaux sahkils)
-Les bourreaux [sahkils](./Sahkil.md) dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [FP](./FP.md) 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) utilisables deux fois par jour chacun.
+Les bourreaux [[Sahkil|sahkils]] dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [[FP]] 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables deux fois par jour chacun.
 - **1.** *[bain de sang](https://aonprd.com/SpellDisplay.aspx?ItemName=Bloodbath)*
-- **2.** *[terreur](./Terreur.md)*
-- **3.** *[barrière de lames](./Barrière de lames.md)*
+- **2.** *[[terreur]]*
+- **3.** *[[barrière de lames]]*

@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 8 po ; **Poids** 3 kg ; **Groupes** [haches](./groupe darmes.md#Haches)
+{s:AE}**Prix** 8 po ; **Poids** 3 kg ; **Groupes** [[Groupe darmes#Haches|haches]]
 **Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×4 ; **Portée** — ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
 ---
-Cette variante du [pic de guerre léger](./pic de guerre léger (arme).md) a un manche plus long et peut être utilisée avec une ou deux mains. Il s'agit d'une arme courante et bon marché pour les soldats montés puisqu'elle peut être utilisée efficacement à dos de cheval.
+Cette variante du [[pic de guerre léger (arme)|pic de guerre léger]] a un manche plus long et peut être utilisée avec une ou deux mains. Il s'agit d'une arme courante et bon marché pour les soldats montés puisqu'elle peut être utilisée efficacement à dos de cheval.

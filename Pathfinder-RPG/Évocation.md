@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#EVOCATION
 ---
 
->>> [Présentation des sorts#EVOCATION](./Présentation des sorts.md#EVOCATION)
+>>> [[Présentation des sorts#EVOCATION]]

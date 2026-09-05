@@ -8,4 +8,4 @@ Categories:
 - Isger
 ---
 
-Le Keld est une petite rivière située entre le [Chéliax](./Chéliax.md) et l'[Isger](./Isger.md). C'est un affluent de l'[Iseld](./Iseld.md).
+Le Keld est une petite rivière située entre le [[Chéliax]] et l'[[Isger]]. C'est un affluent de l'[[Iseld]].

@@ -13,13 +13,13 @@ Categories:
 {s:pucem|humanoïde monstrueux|souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4* p. 104}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, LN}
-{s:BDTexte|**Init** +3 (+7 avec esprit de ruche) ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [perception aveugle](./perception aveugle.md) à 9 m, esprit de ruche ; [Perception](./Perception.md) +7 (+11 avec esprit de ruche)}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, LN}
+{s:BDTexte|**Init** +3 (+7 avec esprit de ruche) ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), [[perception aveugle]] à 9 m, esprit de ruche ; [[Perception]] +7 (+11 avec esprit de ruche)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 14 (Dex +3, naturelle +4)}
 {s:BDTexte|**pv** 30 (4d10+8)}
 {s:BDTexte|**Réf** +7, **Vig** +3, **Vol** +4}
-{s:BDTexte|**[Résistance](./Résistance (capacité).md)** son 10}
+{s:BDTexte|**[[Résistance (capacité)|Résistance]]** son 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** dard, +6 (1d4+2 plus poison) et 2 griffes, +6 (1d4+2 plus étreinte)}
@@ -28,10 +28,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 17, **Con** 15, **Int** 11, **Sag** 10, **Cha** 12}
 {s:BDTexte|**BBA** +4 ; **BMO** +6 (+10 pour la lutte) ; **DMD** 19 (23 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [S’avancer](./Savancer.md), [Talent](./Talent.md) (Acrobaties)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+14 pour sauter), [Discrétion](./Discrétion.md) +7, [Escalade](./Escalade.md) +8, [Intimidation](./Intimidation.md) +8, [Perception](./Perception.md) +7 (+11 avec esprit de ruche)}
-{s:BDTexte|**Langues** commun ; [télépathie](./Télépathie (capacité).md) à 18 m}
-{s:BDTexte|**Particularités** coordination, [traits des formiens](./Traits des formiens (capacité).md)}
+{s:BDTexte|**Dons** [[Savancer|S’avancer]], [[Talent]] (Acrobaties)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10 (+14 pour sauter), [[Discrétion]] +7, [[Escalade]] +8, [[Intimidation]] +8, [[Perception]] +7 (+11 avec esprit de ruche)}
+{s:BDTexte|**Langues** commun ; [[Télépathie (capacité)|télépathie]] à 18 m}
+{s:BDTexte|**Particularités** coordination, [[Traits des formiens (capacité)|traits des formiens]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terrestre ou souterrain, chaud ou tempéré}
 {s:BDTexte|**Organisation sociale** solitaire, couple, groupe (5-8 plus 3-15 ouvriers et 1 contremaître) ou patrouille (3-12)}
@@ -50,13 +50,13 @@ début du prochain tour de la guerrière.}
 {s:BDTexte|**Prise mortelle (Ext).** Quand la guerrière formienne tient un ennemi dans
 son étreinte, elle lui inflige les dégâts de son dard si elle réussit un test
 de lutte pour le blesser.}
-{s:BDTexte|**Poison (Ext).** Javeline ou dard — blessure ; JdS Vigueur [DD](./DD.md) 14 ; fréquence
+{s:BDTexte|**Poison (Ext).** Javeline ou dard — blessure ; JdS Vigueur [[DD]] 14 ; fréquence
 1/round pendant 6 rounds ; effet 1d2 Dex ; guérison 1 réussite.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [formiens](./Formiens.md).***</li></ul>*Cet insecte guerrier est enchâssé dans une armure complète de chitine scintillante rouge et noire et sa queue se termine sur un dard barbelé pointu..*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Formiens]].***</li></ul>*Cet insecte guerrier est enchâssé dans une armure complète de chitine scintillante rouge et noire et sa queue se termine sur un dard barbelé pointu..*
 
-Formant la caste combattante de la colonie, les guerrières [formiennes](./Formiens.md)
+Formant la caste combattante de la colonie, les guerrières [[formiens|formiennes]]
 grandissent à partir de larves qui éclosent dans la chair des
 carnivores et autres créatures violentes. Toutes sont des femelles
 stériles mais il arrive, dans des circonstances très rares, qu’elles

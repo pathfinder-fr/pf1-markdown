@@ -11,26 +11,26 @@ Categories:
 <div class="BD">
 {s:BDTitre|Xiao|FP 2}
 {s:pucem|Créature magique|Montagnes|Tropical}
-{s:BDTexte|*Source : [Bestiaire 5 p.292](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.292]]*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille TP, CN}
-{s:BDTexte|**Init** +3 ; **Sens** [odorat](./Odorat (capacité).md), [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille TP, CN}
+{s:BDTexte|**Init** +3 ; **Sens** [[Odorat (capacité)|odorat]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)}
 {s:BDTexte|**pv** 22 (3d10+6)}
 {s:BDTexte|**Réf** +6, **Vig** +5, **Vol** +1}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 9 m, [vol](./Vol (capacité).md) 9 (bonne)}
+{s:BDTexte|**VD** 9 m, [[Vol (capacité)|vol]] 9 (bonne)}
 {s:BDTexte|**Corps à corps** morsure, +8 (1d4-3) et 2 coups, +8 (1d3-3)}
 {s:BDTexte|**Espace occupé** 75 cm ; **Allonge** 0 m}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +1d6}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 3 ; [concentration](./concentration.md) +3)}
-{s:BDSorts|3/jour — *[étincelles](./Étincelles.md)*, *[mains brûlantes](./Mains brûlantes.md)* (DD 12)}
+{s:BDTexte|**Attaques spéciales** [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +1d6}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 3 ; [[concentration]] +3)}
+{s:BDSorts|3/jour — *[[étincelles]]*, *[[mains brûlantes]]* (DD 12)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 4, **Dex** 16, **Con** 14, **Int** 7, **Sag** 11, **Cha** 13}
 {s:BDTexte|**BBA** +3 ; **BMO** +4 ; **DMD** 11}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Discret](./Discret.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11, [Discrétion](./Discrétion.md) +13, [Escamotage](./Escamotage.md) +8, [Évasion](./Évasion.md) +5, [Perception](./Perception.md) +4, [Sabotage](./Sabotage.md) +8, [Vol](./Vol.md) +11 ; **Modificateurs raciaux** +8 en Acrobaties, +4 en Escamotage, +4 en Sabotage}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Discret]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11, [[Discrétion]] +13, [[Escamotage]] +8, [[Évasion]] +5, [[Perception]] +4, [[Sabotage]] +8, [[Vol]] +11 ; **Modificateurs raciaux** +8 en Acrobaties, +4 en Escamotage, +4 en Sabotage}
 {s:BDTexte|**Langues** commun (incapable de parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes ou forêts chaudes}
@@ -48,5 +48,5 @@ Les xiaos construisent leurs nids dans les hauteurs de la canopée des régions 
 
 Le xiao naît dans un oeuf à peine plus grand que celui d’un poulet. Cet oeuf est recouvert d’une membrane caoutchouteuse bleutée. La femelle en pond un seul à la fois, rarement deux. Le jeune xiao commence à voler vers six semaines et, jusque là, reste accroché à la fourrure du torse de sa mère. Les petits nés en captivité s’attachent à un humanoïde amical et patient et le considèrent comme une mère de substitution pendant tout leur développement. Ils apprennent à voler plus tard que les individus nés en pleine nature mais, en dehors de cela, ils grandissent tout à fait normalement, bien qu’ils se montrent moins craintif vis-à-vis des humains que leurs frères sauvages.
 
-Un lanceur de sorts doté du don [Familier supérieur](./Familier supérieur.md) et d’un [niveau de lanceur de sorts](./NLS.md) profanes de 7 ou plus peut choisir un xiao comme familier.
+Un lanceur de sorts doté du don [[Familier supérieur]] et d’un [[NLS|niveau de lanceur de sorts]] profanes de 7 ou plus peut choisir un xiao comme familier.
 </div></td></tr></table>

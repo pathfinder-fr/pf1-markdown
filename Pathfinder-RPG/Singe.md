@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire p.137*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 15, **Con** 10, **Int** 2, **Sag** 12, **Cha** 5}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Escalade](./Escalade.md) +10, [Perception](./Perception.md) +5 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +8}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Escalade]] +10, [[Perception]] +5 ; **Modificateurs raciaux** [[Acrobaties]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple, groupe (3-9) ou troupe (10-40)}

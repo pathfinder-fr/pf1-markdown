@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Munitions et équipement (Armes à feu)#PLOMBS
 ---
 
->>> [Munitions et équipement (Armes à feu)#PLOMBS](./Munitions-et-équipement-(Armes-à-feu).md#PLOMBS)
+>>> [[Munitions et équipement (Armes à feu)#PLOMBS]]

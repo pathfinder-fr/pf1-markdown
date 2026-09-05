@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 2 po ; **Poids** 1 kg ; **Groupes** [armes de combat rapproché](./groupe darmes.md#Armesdecombatrapproché), [marteaux](./groupe darmes.md#Marteaux)
-**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ou P ; **Spécial** [fragile](./Caractéristiques des armes.md#FRAGILE)
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ([primitive](./Armes et armures primitives.md))
-; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+{s:AE}{s:UC}**Prix** 2 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]], [[Groupe darmes#Marteaux|marteaux]]
+**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ou P ; **Spécial** [[Caractéristiques des armes#FRAGILE|fragile]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ([[armes et armures primitives|primitive]])
+; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
 ---
 Arme de l’Âge de pierre traditionnellement faite de pierre taillée, le mere est un gourdin court avec un côté plat et une pointe acérée.

@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Impactante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Impactante](./Descriptions individuelles des propriétés spéciales des armes.md#Impactante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Impactante]]

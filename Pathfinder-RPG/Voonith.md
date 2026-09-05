@@ -10,8 +10,8 @@ LastModified: 2021-02-23 17:52
 {s:pucem|Créature magique|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.279}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille P, CN}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md), [odorat](./Odorat (capacité).md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille P, CN}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]], [[odorat (capacité)|odorat]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 14, pris au dépourvu 14 (Dex +3, naturelle +3, taille +1)}
 {s:BDTexte|**pv** 37 (5d10+10)}
@@ -20,20 +20,20 @@ LastModified: 2021-02-23 17:52
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 15 m (10 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +8 (1d6+1 plus croc-en-jambe) et 4 griffes, +7 (1d3+1)}
 {s:BDTexte|**Espace occupé** 1,50 m (1 {s:c}) ; **Allonge** 1,50 m (1 {s:c}) (3 m (2 {s:c}) avec morsure)}
-{s:BDTexte|**Attaque spéciales** hurlement effroyable, [bond](./Bond (capacité).md)}
+{s:BDTexte|**Attaque spéciales** hurlement effroyable, [[bond (capacité)|bond]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 16, **Con** 14, **Int** 5, **Sag** 12, **Cha** 13}
-{s:BDTexte|**BBA** +5 ; **BMO** +5 ; **DMD** 18 (26 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (hurlement effroyable), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +12, [Natation](./Natation.md) +14, [Perception](./Perception.md) +8}
+{s:BDTexte|**BBA** +5 ; **BMO** +5 ; **DMD** 18 (26 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque spéciale renforcée]] (hurlement effroyable), [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +12, [[Natation]] +14, [[Perception]] +8}
 {s:BDTexte|**Langues** aklo}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie (capacité).md)}
+{s:BDTexte|**Particularités** [[amphibie (capacité)|amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** rivières et marais}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou couvée (3-6)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Hurlement effroyable (Sur).** Par une [action simple](./Action simple.md), le voonith peut pousser un hurlement à glacer le sang. Toutes les créatures situées dans un [rayon](./rayon.md) de 9 mètres doivent réussir un [jet de Volonté](./jet de sauvegarde.md) [DD](./DD.md) 15 ou être [hébétées](./Hébété.md) pendant 1 [round](./round.md), puis [secouées](./Secoué.md) pendant 1d6 rounds supplémentaires. Les créatures qui réussissent leur jet sont immunisées contre le hurlement de ce voonith pendant 24 heures. Il s’agit d’un [effet mental](./effet mental.md) sonore de terreur. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
+{s:BDTexte|**Hurlement effroyable (Sur).** Par une [[action simple]], le voonith peut pousser un hurlement à glacer le sang. Toutes les créatures situées dans un [[rayon]] de 9 mètres doivent réussir un [[jet de sauvegarde|jet de Volonté]] [[DD]] 15 ou être [[hébété|hébétées]] pendant 1 [[round]], puis [[secoué|secouées]] pendant 1d6 rounds supplémentaires. Les créatures qui réussissent leur jet sont immunisées contre le hurlement de ce voonith pendant 24 heures. Il s’agit d’un [[effet mental]] sonore de terreur. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
 </div>
 </td><td><div>
 *Cet amphibien au long cou, haut en couleurs, a six pattes, un museau pourvu de dents et de nombreuses nageoires courant le long de son épine dorsale.*

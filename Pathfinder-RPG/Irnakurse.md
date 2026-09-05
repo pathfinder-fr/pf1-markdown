@@ -10,7 +10,7 @@ LastModified: 2020-11-24 23:46
 {s:pucem|Aberration|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 50*}
 - 400 PX
-- [Aberration](./type Aberration.md) de taille G, CM
+- [[type aberration|Aberration]] de taille G, CM
 - **Init **+7 ; **Sens **vision dans le noir à 18 m ; Perception +15
 (((Défense)))
 - **CA **23, contact 12, pris au dépourvu 20 (Dex +3, naturelle +11, taille -1)
@@ -24,8 +24,8 @@ LastModified: 2020-11-24 23:46
 (((Statistiques)))
 - **For **24, **Dex **17, **Con **23, **Int **8, **Sag **14, **Cha **18
 - **BBA **+7 ; **BMO** +15 ; **DMD **28 (32 contre le croc-en-jambe)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (tentacule), [Attaques réflexes](./Attaques réflexes.md), [Parade de projectiles](./Parade de projectiles.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md) 
-- **Compétences **[Discrétion](./Discrétion.md) +12, [Escalade](./Escalade.md) +20, [Perception](./Perception.md) +15
+- **Dons **[[Arme de prédilection]] (tentacule), [[Attaques réflexes]], [[Parade de projectiles]], [[Réflexes surhumains]], [[science de linitiative|Science de l’initiative]] 
+- **Compétences **[[Discrétion]] +12, [[Escalade]] +20, [[Perception]] +15
 - **Langues **elfique (ne peut pas parler)
 (((Écologie)))
 - **Environnement **souterrains
@@ -44,17 +44,17 @@ LastModified: 2020-11-24 23:46
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Drider](./Drider.md) || 7
+| [[Drider]] || 7
 |-
-| [Ghonhatine](./Ghonhatine.md) || 10
+| [[Ghonhatine]] || 10
 |-
-| [Grothlut](./Grothlut.md) || 3
+| [[Grothlut]] || 3
 |-
-| [Halsora](./Halsora.md) || 7
+| [[Halsora]] || 7
 |-
-| [Irnakurse](./Irnakurse.md) || 9
+| [[Irnakurse]] || 9
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature distordue](./Créature distordue, archétype.md).***</li></ul>*Cette masse aux yeux fous, composée de membres déformés, de traits mal placés et d’échardes d’os se traîne dans une cacophonie de bruits de chair flasque.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature distordue, archétype|Créature distordue]].***</li></ul>*Cette masse aux yeux fous, composée de membres déformés, de traits mal placés et d’échardes d’os se traîne dans une cacophonie de bruits de chair flasque.*
 
 Les irnakurses, signifiant « les parfaits » en langue elfique, sont une incarnation de toute la haine que les drows éprouvent pour leurs cousins de la surface. Ces abominations, condensées de rage dont on a lavé le cerveau, sont le fruit de la distorsion de la chair exercée sur les elfes et, si les drows le pouvaient, elles seraient également l’incarnation de l’avenir de la race elfique.
 

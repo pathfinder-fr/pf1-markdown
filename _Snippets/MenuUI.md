@@ -5,24 +5,24 @@
 <div class="presentation navmenudroite">
 {s:UI}
 ### Règles de l'intrigue
-<ul><li>{s:PM|Maîtrise}[Maîtriser l'intrigue](./../Pathfinder-RPG/Maîtriser lintrigue.md)&emsp;
+<ul><li>{s:PM|Maîtrise}[[Maîtriser lintrigue|Maîtriser l'intrigue]]&emsp;
 <ul ID="Maîtrise" CLASS="listecachée cadrebas">
-<li>[L'influence](./../Pathfinder-RPG/Influence.md)</li>
-<ul><li>[L'influence individuelle](./../Pathfinder-RPG/Influence individuelle.md)</li>
-<li>[L'influence organisationnelle](./../Pathfinder-RPG/Influence organisationnelle.md)</li>
+<li>[[Influence|L'influence]]</li>
+<ul><li>[[Influence individuelle|L'influence individuelle]]</li>
+<li>[[Influence organisationnelle|L'influence organisationnelle]]</li>
 </ul>
-<li>[Les casses](./../Pathfinder-RPG/Casses.md)</li>
-<ul><li>[L'infiltration](./../Pathfinder-RPG/Casses, Infiltration.md)</li>
+<li>[[Casses|Les casses]]</li>
+<ul><li>[[Casses, Infiltration|L'infiltration]]</li>
 </ul>
-<li>[Le prestige](./../Pathfinder-RPG/Prestige UI.md)</li>
-<li>[Les némésis](./../Pathfinder-RPG/Némésis UI.md)</li>
-<li>[Les poursuites](./../Pathfinder-RPG/Poursuites.md)</li>
-<li>[Les recherches](./../Pathfinder-RPG/Recherches.md)</li>
-<li>[Les sorts d'intrigue](./../Pathfinder-RPG/Sorts dintrigue.md)</li>
+<li>[[Prestige UI|Le prestige]]</li>
+<li>[[Némésis UI|Les némésis]]</li>
+<li>[[Poursuites|Les poursuites]]</li>
+<li>[[Recherches|Les recherches]]</li>
+<li>[[Sorts dintrigue|Les sorts d'intrigue]]</li>
 </ul>
 </li>
-<li>[Conflits sociaux](./../Pathfinder-RPG/Conflits sociaux.md)</li>
-<li>[Duels verbaux](./../Pathfinder-RPG/Duels verbaux.md)</li>
-<li>[Compétences en conflit](./../Pathfinder-RPG/Compétences en conflit.md)</li>
+<li>[[Conflits sociaux]]</li>
+<li>[[Duels verbaux]]</li>
+<li>[[Compétences en conflit]]</li>
 </ul>
 </div>

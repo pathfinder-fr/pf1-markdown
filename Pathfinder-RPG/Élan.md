@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Plaines|Froid}
 {s:BDTexte|*Source : Bestiaire 3 page 13*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 10 (Dex +3)}
 {s:BDTexte|**pv** 15 (2d8+6)}
@@ -22,12 +22,12 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
 {s:BDTexte|**Corps à corps** bois, +3 (1d6+2) et 2 sabots, -2 (1d3+1)}
-{s:BDTexte|**Attaque spéciale**  [charge puissante](./Charge puissante.md) (corne, 1d4+2)}
+{s:BDTexte|**Attaque spéciale**  [[charge puissante]] (corne, 1d4+2)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 17, **Con** 16, **Int** 2, **Sag** 15, **Cha** 7}
 {s:BDTexte|**BBA** +1, **BMO** +3, **DMD** 16 (20 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Course](./Course.md), [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +7}
+{s:BDTexte|**Dons** [[Course]], [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Perception]] +7}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines froides ou tempérées}
 {s:BDTexte|**Organisation** solitaire, couple ou troupeau (3-50)}
@@ -39,23 +39,23 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Antilope](./Antilope.md) || 1/2
+| [[Antilope]] || 1/2
 |-
-| [Auroch](./Auroch.md) || 2
+| [[Auroch]] || 2
 |-
-| [Bélier](./Bélier.md) || 1
+| [[Bélier]] || 1
 |-
-| [Bison](./Bison.md) || 4
+| [[Bison]] || 4
 |-
-| [Cerf](./Cerf.md) || 1
+| [[Cerf]] || 1
 |-
-| [Dromadaire](./Dromadaire.md) || 1
+| [[Dromadaire]] || 1
 |-
-| [Élan](./Élan.md) || 1
+| [[Élan]] || 1
 |-
-| [Élan des rivières](./Élan des rivières.md) || 2
+| [[Élan des rivières]] || 2
 |-
-| [Girafe](./Girafe.md) || 3
+| [[Girafe]] || 3
 |}
 </div>*L’homme arrive au garrot de cette bête majestueuse dont la tête est couronnée par une grande ramure se terminant en de nombreuses pointes. *
 
@@ -84,7 +84,7 @@ créatures de FP 2
 
 #### L'élan comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** bois (1d6) ou 2 sabots (1d3) ; **Caractéristiques** For 12, Dex 17, Con 14, Int 2, Sag 15, Cha 5 ; **Particularités** [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** bois (1d6) ou 2 sabots (1d3) ; **Caractéristiques** For 12, Dex 17, Con 14, Int 2, Sag 15, Cha 5 ; **Particularités** [[vision nocturne]].
 
 **Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** bois (1d8) ou 2 sabots (1d4) ; **Caractéristiques** For +8, Dex -2, Con +4.
 

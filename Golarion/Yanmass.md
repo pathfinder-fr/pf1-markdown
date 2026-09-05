@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-Ville marchande du nord du [Taldor](./Taldor.md).
+Ville marchande du nord du [[Taldor]].
 
-D'abord caravansérail, la ville s'est peu à peu développée pour être maintenant l'un des plus importants centres de commerce de l'Empire. De très nombreuses caravanes venues du [Casmaron](./Casmaron.md) y viennent faire des affaires régulièrement.
+D'abord caravansérail, la ville s'est peu à peu développée pour être maintenant l'un des plus importants centres de commerce de l'Empire. De très nombreuses caravanes venues du [[Casmaron]] y viennent faire des affaires régulièrement.
 
 D'une population relativement faible habituellement, la ville peut la voir tripler saisonnièrement, à l'occasion des grandes foires marquant la fin des moissons et durant l'été.

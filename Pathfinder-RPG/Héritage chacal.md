@@ -12,4 +12,4 @@ Categories:
 
 **Conditions.** Humanoïde, doit être choisi au niveau 1
 
-**Avantages.** Le personnage gagne un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) contre les effets mentaux et un bonus racial de +2 aux tests de [Perception](./Perception.md).
+**Avantages.** Le personnage gagne un bonus racial de +2 aux [[jds|jets de sauvegarde]] contre les effets mentaux et un bonus racial de +2 aux tests de [[Perception]].

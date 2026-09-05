@@ -11,16 +11,16 @@ Categories:
 
 {s:um}*Les sorts du personnage franchissent les sceaux contre l’énergie négative et affectent même les morts-vivants. *
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
-**Conditions.** 6 rangs en [Connaissances](./Connaissances.md) (religion), [École renforcée](./École renforcée.md) ([nécromancie](./Présentation des sorts.md#NECROMANCIE))
+**Conditions.** 6 rangs en [[Connaissances]] (religion), [[École renforcée]] ([[Présentation des sorts#NECROMANCIE|nécromancie]])
 
-**Avantage.** Un sort thanatopique franchit les défenses et les immunités qui protègent contre les effets de mort, l’[énergie négative](./Énergie négative.md) et les [absorptions d’énergie](./absorption dénergie.md), qui affectent alors la cible comme si sa barrière protectrice n’existait pas.
+**Avantage.** Un sort thanatopique franchit les défenses et les immunités qui protègent contre les effets de mort, l’[[énergie négative]] et les [[absorption dénergie|absorptions d’énergie]], qui affectent alors la cible comme si sa barrière protectrice n’existait pas.
 
-Par exemple, le personnage peut lancer un *[baiser du vampire](./Baiser du vampire.md)* ou une énergie négative thanatopique sur une cible à l’abri d’une protection contre la mort. La cible souffre des effets normaux du sort. Les [jets de sauvegarde](./jet de sauvegarde.md) et la [Résistance à la magie](./RM.md) (le cas échéant) s’appliquent toujours.
+Par exemple, le personnage peut lancer un *[[baiser du vampire]]* ou une énergie négative thanatopique sur une cible à l’abri d’une protection contre la mort. La cible souffre des effets normaux du sort. Les [[Jet de sauvegarde|jets de sauvegarde]] et la [[RM|Résistance à la magie]] (le cas échéant) s’appliquent toujours.
 
-Les morts-vivants sont sensibles aux sorts modifiés par ce don car il harmonise l’énergie négative de manière à ce qu’elle les blesse. Un sort thanatopique qui devrait tuer une créature vivante (en lui donnant autant de niveaux négatifs qu’elle a de [DV](./../Ressources/DV.md) par exemple) détruit un [mort-vivant](./type Mort-vivant.md) (même si les [fantômes](./Fantôme, archétype.md), les [liches](./Liche, archétype.md), les [vampires](./Vampire, archétype.md) et autres se reforment comme d’habitude). Les morts-vivants affectés par un sort thanatopique qui impose des niveaux négatifs réussissent automatiquement leur [jet de sauvegarde](./jet de sauvegarde.md) pour s’en débarrasser au bout de 24 heures.
+Les morts-vivants sont sensibles aux sorts modifiés par ce don car il harmonise l’énergie négative de manière à ce qu’elle les blesse. Un sort thanatopique qui devrait tuer une créature vivante (en lui donnant autant de niveaux négatifs qu’elle a de [[DV]] par exemple) détruit un [[type mort-vivant|mort-vivant]] (même si les [[fantôme, archétype|fantômes]], les [[liche, archétype|liches]], les [[vampire, archétype|vampires]] et autres se reforment comme d’habitude). Les morts-vivants affectés par un sort thanatopique qui impose des niveaux négatifs réussissent automatiquement leur [[jet de sauvegarde]] pour s’en débarrasser au bout de 24 heures.
 
-Un sort thanatopique utilise un [emplacement de sort](./emplacement de sort.md) de deux niveaux de plus que le niveau réel du sort.
+Un sort thanatopique utilise un [[emplacement de sort]] de deux niveaux de plus que le niveau réel du sort.
 
-**Normal.** Les défenses comme *[protection contre la mort](./Protection contre la mort.md)* annulent les effets de mort, les niveaux négatifs et les absorptions d’énergie. Les morts-vivants sont immunisés contre ces attaques.
+**Normal.** Les défenses comme *[[protection contre la mort]]* annulent les effets de mort, les niveaux négatifs et les absorptions d’énergie. Les morts-vivants sont immunisés contre ces attaques.

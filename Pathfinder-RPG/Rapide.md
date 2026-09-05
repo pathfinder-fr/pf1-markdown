@@ -8,7 +8,7 @@ Categories:
 
 *Le personnage est plus rapide que la plupart des gens.*
 
-**Avantage.** Quand le personnage porte une [armure légère](./armure légère.md) ou ne porte aucune armure, sa [vitesse de base](./vitesse de déplacement.md) augmente de 1,5 m. Il perd ce bonus s’il porte une [charge intermédiaire](./charge intermédiaire.md) ou [lourde](./charge lourde.md).
+**Avantage.** Quand le personnage porte une [[armure légère]] ou ne porte aucune armure, sa [[vitesse de déplacement|vitesse de base]] augmente de 1,5 m. Il perd ce bonus s’il porte une [[charge intermédiaire]] ou [[charge lourde|lourde]].
 
 **Spécial.** Le personnage peut choisir ce don à plusieurs reprises, ses effets se cumulent.
 
@@ -20,4 +20,4 @@ Categories:
 
 **Avantage.** La vitesse de déplacement de base du personnage augmente de 1,50 mètre, quelle que soit l’armure portée ou la charge transportée. Ce bonus se cumule avec celui conféré par le don Rapide.
 
-**Spécial.** Le personnage peut sélectionner ce don plusieurs fois, sans dépasser le nombre de fois où il a choisit la version [non-mythique](./non-mythique.md) de Rapide. Les effets se cumulent.
+**Spécial.** Le personnage peut sélectionner ce don plusieurs fois, sans dépasser le nombre de fois où il a choisit la version [[non-mythique]] de Rapide. Les effets se cumulent.

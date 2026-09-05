@@ -8,7 +8,7 @@ Categories:
 ---
 
 {s:AE}**Prix** 50 po (léger), 75 po (intermédiaire), 100 po (lourd) ; **Passage (1,5 km)** 2 cp (léger), 2 cp (intermédiaire), 3 cp (lourd)
-<span class="Catégorie">**Catégorie** [Moyens de transport](./Moyens de transport.md)</span>
+<span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
 ---
 Ce véhicule à deux roues est tiré par un cheval. Il existe trois types de chars.  
   

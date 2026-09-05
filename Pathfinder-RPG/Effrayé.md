@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Effrayé
 ---
 
->>> [États préjudiciables#Effrayé](./États préjudiciables.md#Effrayé)
+>>> [[États préjudiciables#Effrayé]]

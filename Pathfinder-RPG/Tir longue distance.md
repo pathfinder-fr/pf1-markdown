@@ -18,16 +18,16 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md); **Niveau** [Alch](./Alchimiste.md) 1, [Apal](./Antipaladin.md) 1, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Occ](./Occultiste.md) 1, [Pal](./Paladin.md) 1, [Psy](./Psychiste.md) 1, [Rôd](./Rôdeur.md) 1  
+**École** [[Transmutation]]; **Niveau** [[Alchimiste|Alch]] 1, [[Antipaladin|Apal]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Paladin|Pal]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F/FD](./composantes.md) (un bout d'empennage)  
+**Composantes** [[Composantes|V, G, F/FD]] (un bout d'empennage)  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)
+**Durée** 1 minute/[[niveau]]
 
-Le sort réduit l’effet de la distance et donne un bonus de +3 m (2 {s:c}) au [facteur de portée](./facteur de portée.md) de toutes les armes de la cible.
+Le sort réduit l’effet de la distance et donne un bonus de +3 m (2 {s:c}) au [[facteur de portée]] de toutes les armes de la cible.

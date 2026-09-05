@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p. 209*}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille Gig, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), vision malgré la tempête, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +20}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille Gig, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la tempête, [[vision nocturne]] ; [[Perception]] +20}
 {s:BDTexte|**Aura** de tempête 30 m (20 {s:c})}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 10, pris au dépourvu 21 (Dex +3, esquive +1, naturelle +15, taille -4)}
@@ -24,16 +24,16 @@ Categories:
 {s:BDTexte|**Immunités** électricité, son}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 36 m (24 {s:c}) (bonne)}
-{s:BDTexte|**Corps à corps** 2 griffes, +18 (2d6+8/19-20 plus [étreinte](./Étreinte.md)), morsure +18 (2d8+8/19-20)}
+{s:BDTexte|**Corps à corps** 2 griffes, +18 (2d6+8/19-20 plus [[étreinte]]), morsure +18 (2d8+8/19-20)}
 {s:BDTexte|**Distance** coup de foudre, +13 contact à distance (6d6 électricité et 6d6 son)}
 {s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 6 m (4 {s:c})}
 {s:BDTexte|**Pouvoirs magiques** (NLS 11, concentration +12)}
-{s:BDSorts|À volonté — *[contrôle du climat](./Contrôle du climat.md)*}
+{s:BDSorts|À volonté — *[[contrôle du climat]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 17, **Con** 21, **Int** 12, **Sag** 16, **Cha** 13}
 {s:BDTexte|**BBA** +14, **BMO** +26 (+30 lutte), **DMD** 40}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Don pour les critiques](./Don pour les critiques.md), [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (griffe), [Science du critique](./Science du critique.md) (morsure), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +13, [Perception](./Perception.md) +20, [Psychologie](./Psychologie.md) +10, [Représentation](./Représentation.md) (chant) +8, [Vol](./Vol.md) +11}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Don pour les critiques]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (griffe), [[Science du critique]] (morsure), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +13, [[Perception]] +20, [[Psychologie]] +10, [[Représentation]] (chant) +8, [[Vol]] +11}
 {s:BDTexte|**Langues** aérien}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines ou montagnes}
@@ -46,7 +46,7 @@ aux jets d’attaque, les tests de Vol reçoivent une pénalité de –4 et les 
 le DD de jets pour résister aux effets du vent ont des valeurs fixes.}
 {s:BDTexte|**Coup de foudre (Sur).** Par une action simple, un oiseau-tonnerre peut projeter un rayon de tonnerre et d’éclairs à partir de ses ailes. Cette attaque a une portée de 60 mètres sans facteur de portée et nécessite un jet d’attaque de contact à distance. En cas d’attaque critique, la cible est étourdie et assourdie pendant 1 round par le coup de foudre si elle rate un jet de Vigueur contre un DD de 22. Le DD du jet de sauvegarde dépend de
 la Constitution.}
-{s:BDTexte|**Vision malgré la tempête (Ext).** Un oiseau-tonnerre ignore tous les malus de vision et le camouflage provenant des effets du climat, y compris ceux qui sont causés par *[brume de dissimulation](./Brume de dissimulation.md)*, *[nappe de brouillard](./Nappe de brouillard.md)* et les sorts similaires.}
+{s:BDTexte|**Vision malgré la tempête (Ext).** Un oiseau-tonnerre ignore tous les malus de vision et le camouflage provenant des effets du climat, y compris ceux qui sont causés par *[[brume de dissimulation]]*, *[[nappe de brouillard]]* et les sorts similaires.}
 </div>
 </td><td><div>
 *Les plumes de cet énorme oiseau ont la couleur d’un ciel de tempête, une ressemblance accrue par les éclairs qui dansent tout autour de son corps.*

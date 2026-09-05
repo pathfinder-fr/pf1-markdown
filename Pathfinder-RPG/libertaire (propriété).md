@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Libertaire
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Libertaire](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Libertaire)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Libertaire]]

@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Vase|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.201*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Vase](./type Vase.md) de taille G, N}
-{s:BDTexte|**Init** -1 ; **Sens** [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] de taille G, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 8, contact 8, pris au dépourvu 8 (Dex _1, taille -1)}
 {s:BDTexte|**pv** 28 (3d8+15)}
 {s:BDTexte|**Réf** +0, **Vig** +6, **Vol** -4}
-{s:BDTexte|**Immunités** [traits des vases](./type Vase.md) ; **Résistances** feu 10}
+{s:BDTexte|**Immunités** [[type vase|traits des vases]] ; **Résistances** feu 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** coup, +4 (1d6+4 plus maladie)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [enveloppement](./Enveloppement (capacité).md) (DD 14, 1d6+4 contondant plus maladie)}
+{s:BDTexte|**Attaques spéciales** [[enveloppement (capacité)|enveloppement]] (DD 14, 1d6+4 contondant plus maladie)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 8, **Con** 21, **Int** —, **Sag** 1, **Cha** 1}
-{s:BDTexte|**BBA** +2, **BMO** +6, **DMD** 15 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Particularités** [immobilité](./Immobilité (capacité).md)}
+{s:BDTexte|**BBA** +2, **BMO** +6, **DMD** 15 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Particularités** [[immobilité (capacité)|immobilité]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire ou infestation (2-5)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Maladie (Ext).** Putréfaction fongique : Coup — contact ; *JdS* Vigueur DD 16 ; *incubation* 1 jour ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 For et 1 Con et [fatigue](./Fatigue.md) ; *guérison* 1 réussite. Toutes les créatures qui touchent une moisissure vaseuse à l’aide d’une attaque à main nue ou d’une attaque naturelle sont également exposée à cette terrible maladie. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|**Maladie (Ext).** Putréfaction fongique : Coup — contact ; *JdS* Vigueur DD 16 ; *incubation* 1 jour ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d2 For et 1 Con et [[fatigue]] ; *guérison* 1 réussite. Toutes les créatures qui touchent une moisissure vaseuse à l’aide d’une attaque à main nue ou d’une attaque naturelle sont également exposée à cette terrible maladie. Le DD du jet de sauvegarde dépend de la Constitution.}
 </div>
 </td><td><div>*Ce qui ressemble à première vue à un tapis de champignons et de moisissures se met soudainement à bouger et à avancer, répandant la puanteur de la putréfaction.*
 

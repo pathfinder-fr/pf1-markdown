@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Paladin#AURADEBRAVOURE
 ---
 
->>> [Paladin#AURADEBRAVOURE](./Paladin.md#AURADEBRAVOURE)
+>>> [[Paladin#AURADEBRAVOURE]]

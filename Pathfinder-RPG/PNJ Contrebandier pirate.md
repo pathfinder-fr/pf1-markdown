@@ -13,30 +13,30 @@ Categories:
 <div class="BD">
 {s:BDtitre|Contrebandier pirate|FP 2}
 {s:pucem|Humanoïde|Aquatique|Tempéré}
-{s:BDtexte|*Source : [Guide des Chaînes p.55](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide des Chaînes p.55]]*}
 {s:BDtexte|**PX** 600}
-{s:BDtexte|[Humain](./Humain.md) [roublard](./Roublard.md) ([contrebandier](./Contrebandier (roublard).md)) 3}
-{s:BDtexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md)) de taille M, CN}
-{s:BDtexte|**Init** +6 ; **Sens** [Perception](./Perception.md) +7}
+{s:BDtexte|[[Humain]] [[roublard]] ([[Contrebandier (roublard)|contrebandier]]) 3}
+{s:BDtexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]]) de taille M, CN}
+{s:BDtexte|**Init** +6 ; **Sens** [[Perception]] +7}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 15, contact 12, pris au dépourvu 13 (armure +3, Dex +2)}
 {s:BDtexte|**pv** 20 (3d8+3)}
 {s:BDtexte|**Réf** +5, **Vig** +0, **Vol** +2}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 9 m}
-{s:BDtexte|**Corps à corps** cimeterre de maître, +3 (1d6/18-20) et matraque, +4 (1d6 [non létaux](./Blessures et mort.md#NONLETAL))}
+{s:BDtexte|**Corps à corps** cimeterre de maître, +3 (1d6/18-20) et matraque, +4 (1d6 [[Blessures et mort#NONLETAL|non létaux]])}
 {s:BDtexte|**À distance** arc court, +4 (1d6/×3)}
-{s:BDtexte|**Attaques spéciales** [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +2d6}
+{s:BDtexte|**Attaques spéciales** [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +2d6}
 {s:BDsoustitre|Statistiques}
 {s:BDtexte|**For** 10, **Dex** 14, **Con** 8, **Int** 12, **Sag** 13, **Cha** 17}
 {s:BDtexte|**BBA** +2 ; **BMO** +2 ; **DMD** 14}
-{s:BDtexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDtexte|**Compétences** [Bluff](./Bluff.md) +9, [Connaissances](./Connaissances.md) (folklore local) +7, [Déguisement](./Déguisement.md) +9, [Diplomatie](./Diplomatie.md) +9, [Discrétion](./Discrétion.md) +8, [Escamotage](./Escamotage.md) +8, [Estimation](./Estimation.md) +7, [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7}
-{s:BDtexte|**Particularités** [pot de vin](./Contrebandier (roublard).md), [dissimulation d’objet](./Contrebandier (roublard).md), [diversion](./Contrebandier (roublard).md), [talents de roublard](./Roublard.md#TALENTDEROUBLARD) ([discret et rapide](./Talents.md#DISCRETETRAPIDE))}
+{s:BDtexte|**Dons** [[Attaque en finesse]], [[Robustesse]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDtexte|**Compétences** [[Bluff]] +9, [[Connaissances]] (folklore local) +7, [[Déguisement]] +9, [[Diplomatie]] +9, [[Discrétion]] +8, [[Escamotage]] +8, [[Estimation]] +7, [[Intimidation]] +9, [[Perception]] +7, [[Psychologie]] +7}
+{s:BDtexte|**Particularités** [[Contrebandier (roublard)|pot de vin]], [[Contrebandier (roublard)|dissimulation d’objet]], [[Contrebandier (roublard)|diversion]], [[Roublard#TALENTDEROUBLARD|talents de roublard]] ([[Talents#DISCRETETRAPIDE|discret et rapide]])}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** océans ou littoraux}
 {s:BDtexte|**Organisation** solitaire, paire ou équipe (3-5)}
-{s:BDtexte|**Trésor** équipement de PNJ ([armure de cuir cloutée](./armure de cuir cloutée (armure).md) [de maître](./armure de maître.md), [matraque](./matraque (arme).md), [cimeterre](./cimeterre (arme).md) [de maître](./arme de maître.md), [arc court](./Arc court (arme).md) avec 20 [flèches](./Flèches (arme).md), *[potion](./Potions magiques.md) de [splendeur de l’aigle](./Splendeur de laigle.md)*, *[potions](./Potions magiques.md) d’[invisibilité](./Invisibilité.md)* <nowiki>[</nowiki>2<nowiki>]</nowiki>, autres trésors)}
+{s:BDtexte|**Trésor** équipement de PNJ ([[armure de cuir cloutée (armure)|armure de cuir cloutée]] [[armure de maître|de maître]], [[matraque (arme)|matraque]], [[cimeterre (arme)|cimeterre]] [[arme de maître|de maître]], [[arc court (arme)|arc court]] avec 20 [[flèches (arme)|flèches]], *[[Potions magiques|potion]] de [[splendeur de laigle|splendeur de l’aigle]]*, *[[Potions magiques|potions]] d’[[invisibilité]]* <nowiki>[[</nowiki>2<nowiki>]]</nowiki>, autres trésors)}
 </div>
 </td>
 <td>

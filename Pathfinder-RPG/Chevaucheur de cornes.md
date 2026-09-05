@@ -10,10 +10,10 @@ Categories:
 
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:cm}*L’orque peut se défendre en utilisant les cornes ou les défenses d’une créature à laquelle il est attaché.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [BBA](./BBA.md) +1
+**Conditions.** [[BBA]] +1
 
-**Avantages.** L’orque gagne un bonus de bouclier de +1 à la [CA](./CA.md) quand il est fixé à un [harnais à corne](./Harnais à corne (objet).md).
+**Avantages.** L’orque gagne un bonus de bouclier de +1 à la [[CA]] quand il est fixé à un [[Harnais à corne (objet)|harnais à corne]].
 
-**Spécial.** Une créature qui possède ce don peut prendre le don [Tir monté](./Tir monté.md) même si elle ne possède pas de rang dans la compétence [Équitation](./Équitation.md) ou le don [Combat monté](./Combat monté.md).
+**Spécial.** Une créature qui possède ce don peut prendre le don [[Tir monté]] même si elle ne possède pas de rang dans la compétence [[Équitation]] ou le don [[Combat monté]].

@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Sceptre de maléfices voraces|{s:MCA}}
-**Aura** puissante, pas d'école ; **NLS** 17 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 32 500 po ; **Poids** 2,5 kg
+**Aura** puissante, pas d'école ; **NLS** 17 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 32 500 po ; **Poids** 2,5 kg
 (((Description)))
 Trois fois par jour, quand le personnage qui manie ce sceptre utilise un maléfice (mais pas un maléfice majeur ni un grand maléfice), il peut utiliser le pouvoir du sceptre pour viser la cible normale du sort, mais aussi une autre cible située à 9 mètres ou moins de la première. Le maléfice doit normalement viser une seule créature dans un rayon minimal de 9 mètres.
 (((Création)))
-**Conditions** [Création de sceptres magiques](./Création de sceptres magiques.md), [Répartition des maléfices](./Répartition des maléfices.md), le créature doit posséder la capacité de classe [maléfice](./Sorcière.md#MALEFICE) ; **Coût** 16 250 po
+**Conditions** [[Création de sceptres magiques]], [[Répartition des maléfices]], le créature doit posséder la capacité de classe [[sorcière#MALEFICE|maléfice]] ; **Coût** 16 250 po
 </div>

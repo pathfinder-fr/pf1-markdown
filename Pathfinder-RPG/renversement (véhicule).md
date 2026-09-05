@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Véhicules en combat (véhicules)#ATTAQUERRENVERSEMENT
 ---
 
->>> [Véhicules en combat (véhicules)#ATTAQUERRENVERSEMENT](./Véhicules en combat (véhicules).md#ATTAQUERRENVERSEMENT)
+>>> [[Véhicules en combat (véhicules)#ATTAQUERRENVERSEMENT]]

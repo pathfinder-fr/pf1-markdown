@@ -7,10 +7,10 @@ Categories:
 - Ustalav
 ---
 
-Le comté de Canterwall est l'un des trois qui composent la province des Palatinats, au nord-ouest de l'[Ustalav](./Ustalav.md).
+Le comté de Canterwall est l'un des trois qui composent la province des Palatinats, au nord-ouest de l'[[Ustalav]].
 
-On considère souvent Canterwall comme étant le grenier à grain de l'[Ustalav](./Ustalav.md). Mais malgré la grande fertilité de ses plaines, Canterwall est loin d'être un endroit idyllique, ses frontières étant constamment menacées par de puissants ennemis. A l'ouest s'étend la terre hostile de [Belkzen](./Belkzen.md), avec ses orques affamés de pillages et de massacres, et au sud le [Virlych](./Virlych.md) où est emprisonné le Tyran qui Murmure.
+On considère souvent Canterwall comme étant le grenier à grain de l'[[Ustalav]]. Mais malgré la grande fertilité de ses plaines, Canterwall est loin d'être un endroit idyllique, ses frontières étant constamment menacées par de puissants ennemis. A l'ouest s'étend la terre hostile de [[Belkzen]], avec ses orques affamés de pillages et de massacres, et au sud le [[Virlych]] où est emprisonné le Tyran qui Murmure.
 
 Comme si cela ne suffisait pas, plusieurs hameaux du sud-ouest du comté ont été découverts vidés de leurs habitants, sans aucune trace de lutte ou de départ précipité, comme s'ils avaient été happés par les brumes qui s'étendent régulièrement sur la campagne.
 
-La population du Canterwall se regroupe principalement en trois lieux : la capitale [Tamrivène](./Tamrivène.md), [Marian Leigh](./Marian Leigh.md) et [Ravengro](./Ravengro.md).
+La population du Canterwall se regroupe principalement en trois lieux : la capitale [[Tamrivène]], [[Marian Leigh]] et [[Ravengro]].

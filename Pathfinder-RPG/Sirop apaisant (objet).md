@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 25 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 15
-<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
 ---
-Ce liquide bleu, au goût sain et sucré, crée une sensation de chaleur et de confort. Il protège l’estomac et évite que le personnage succombe aux nausées. Pendant une heure après l’ingestion, le personnage bénéficie d’un bonus alchimique de +5 à ses [jets de sauvegarde](./JDS.md) pour résister aux effets qui devraient le rendre [nauséeux](./Nauséeux.md) ou [fiévreux](./Fiévreux.md).
+Ce liquide bleu, au goût sain et sucré, crée une sensation de chaleur et de confort. Il protège l’estomac et évite que le personnage succombe aux nausées. Pendant une heure après l’ingestion, le personnage bénéficie d’un bonus alchimique de +5 à ses [[jds|jets de sauvegarde]] pour résister aux effets qui devraient le rendre [[nauséeux]] ou [[fiévreux]].

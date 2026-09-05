@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Tableau récapitulatif des armures#LOURDES
 ---
 
->>> [Tableau récapitulatif des armures#LOURDES](./Tableau récapitulatif des armures.md#LOURDES)
+>>> [[Tableau récapitulatif des armures#LOURDES]]

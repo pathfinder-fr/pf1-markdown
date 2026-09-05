@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés page 124*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([démon](./sous-type démon.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [chaos](./sous-type Chaos.md)) de taille P, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type démon|démon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Chaos|chaos]]) de taille P, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m ; [[Perception]] +10}
 (((DÉFENSE)))
 {s:BDTexte|**CA** 18, contact 14, pris au dépourvu 15 (Dex +3, naturelle +4, taille +1)}
 {s:BDTexte|**pv** 57 (6d10+24)}
@@ -24,22 +24,22 @@ Categories:
 {s:BDTexte|**Immunités** électricité, feu}
 {s:BDTexte|**Résistances** acide 10, froid 10}
 {s:BDTexte|**RM** 16}
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au froid}
+{s:BDTexte|**Faiblesses** [[Vulnérabilités (capacité)|vulnérabilité]] au froid}
 (((ATTAQUE)))
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** épée longue, +11/+6 (1d6+3/19-20 plus 1d6 feu) et sabot, +5 (1d3+1, plus 1d6 feu)}
 {s:BDTexte|**Attaques spéciales** souffle (ligne de 6 m de sang bouillant, 5d6 dégâts de feu, Réflexes DD 17 1/2 dégâts, utilisable tous les 1d4 rounds), sabots de feu}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6 ; concentration +8)}
-{s:BDSorts|3/jour – [dissipation de la magie](./Dissipation de la magie.md), [métal brûlant](./Métal brûlant.md) (DD 14), [flammes](./Flammes.md)}
-{s:BDSorts|1/jour – [marche dans les airs](./Marche dans les airs.md), [boule de feu](./Boule de feu.md) (DD 15), [téléportation suprême](./Téléportation suprême.md) (soi-même et 25 kg d’objets uniquement), convocation (niveau 3, 1 brimorak, 50%)}
+{s:BDSorts|3/jour – [[dissipation de la magie]], [[métal brûlant]] (DD 14), [[flammes]]}
+{s:BDSorts|1/jour – [[marche dans les airs]], [[boule de feu]] (DD 15), [[téléportation suprême]] (soi-même et 25 kg d’objets uniquement), convocation (niveau 3, 1 brimorak, 50%)}
 (((CARACTÉRISTIQUES)))
 {s:BDTexte|**For** 17, **Dex** 16, **Con** 19, **Int** 12, **Sag** 12, **Cha** 15}
 {s:BDTexte|**BBA** +6 ; **BMO** +8, **DMD** 21}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée longue), [Magie de guerre](./Magie de guerre.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +12, [Bluff](./Bluff.md), +11, [Discrétion](./Discrétion.md) +16,
-[Connaissances](./Connaissances.md) (ingénierie) +10, [Connaissances](./Connaissances.md) (plans) +10,
-[Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +10}
-{s:BDTexte|**Modificateurs raciaux** +8 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée longue), [[Magie de guerre]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +12, [[Bluff]], +11, [[Discrétion]] +16,
+[[Connaissances]] (ingénierie) +10, [[Connaissances]] (plans) +10,
+[[Perception]] +18, [[Psychologie]] +10}
+{s:BDTexte|**Modificateurs raciaux** +8 en [[Perception]]}
 {s:BDTexte|**Langues** abyssal, céleste, draconique, igné ; télépathie 30 m}
 {s:BDTexte|**Particularités** arme de feu}
 (((ÉCOLOGIE)))
@@ -85,7 +85,7 @@ souffle d’un brimorak en particulier pendant 24 heures. Le DD du
 jet de sauvegarde est basé sur la Constitution.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 ''Mesurant à peine un mètre, cet humanoïde, aux traits bestiaux et à la
 peau gris-bleu agrémentée d’étranges rayures enroulées, porte des robes
 crasseuses et dépenaillées. Une fourrure sombre couvre sa tête et ses bras

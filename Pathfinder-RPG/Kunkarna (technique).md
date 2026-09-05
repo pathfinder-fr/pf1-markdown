@@ -7,23 +7,23 @@ Categories:
 - Src Book of the Damned
 ---
 
-{s:DieuTech|Kunkarna|Le guerrier des rêves| |[Rakshasas immortels](./Divinités.md#RAKSHASASIMMORTELS)
+{s:DieuTech|Kunkarna|Le guerrier des rêves| |[[Divinités#RAKSHASASIMMORTELS|Rakshasas immortels]]
 |Loyal Mauvais|Aucun
 |N'importe|Aucun
-|[Kukri](./kukri (arme).md)
-|[Duperie](./Domaine de la Duperie.md), [Faune](./Domaine de la Faune.md), [Loi](./Domaine de la Loi.md), [Mal](./Domaine du Mal.md)
-|[Peur](./Domaine du Mal.md), [Poil](./Domaine de la Faune.md), [Supercherie](./Domaine de la Duperie.md), [Tyrannie](./Domaine de la Loi.md)
+|[[Kukri (arme)|Kukri]]
+|[[Domaine de la Duperie|Duperie]], [[Domaine de la Faune|Faune]], [[Domaine de la Loi|Loi]], [[Domaine du Mal|Mal]]
+|[[Domaine du mal|Peur]], [[Domaine de la Faune|Poil]], [[Domaine de la Duperie|Supercherie]], [[Domaine de la Loi|Tyrannie]]
 |—}
 {s:cs}{s:BotD}
 ### Obédience
-Étudier ceux qui nous entourent actuellement ou récemment et envisager d'utiliser sa force vitale pour déchirer leur chair pathétique. Gain d'un bonus de malfaisance de +4 aux [jets de sauvegarde](./JDS.md) contre les effets de [force](./Registre.md).
+Étudier ceux qui nous entourent actuellement ou récemment et envisager d'utiliser sa force vitale pour déchirer leur chair pathétique. Gain d'un bonus de malfaisance de +4 aux [[jds|jets de sauvegarde]] contre les effets de [[registre|force]].
 
 #### Faveurs (Rakshasas immortels)
-En de rare cas, un [rakshasa](./Rakshasa.md) parvient à atteindre un état de pure malfaisance qui lui permet de briser le cycle de ses morts et de ses réincarnations, transcendant ainsi sa propre mortalité. Le pouvoir de ces rakshasas approche celui des dieux qu’ils sont convaincus d'être.
+En de rare cas, un [[rakshasa]] parvient à atteindre un état de pure malfaisance qui lui permet de briser le cycle de ses morts et de ses réincarnations, transcendant ainsi sa propre mortalité. Le pouvoir de ces rakshasas approche celui des dieux qu’ils sont convaincus d'être.
 
 À la différence des autres panthéons décrits dans ce livre, les rakshasas immortels ne se présentent pas comme ayant un thème global, chacun de ces immortels est intéressé par son propre pouvoir et sa propre gloire. Et alors que chaque rakshasa immortel possède sa propre apparence et personnalité, ils ont peu d'intérêt pour la diversité parmi leurs fidèles. Tous les rakshasas immortels donnent accès aux mêmes domaines (Faune, Mal, Loi, et Duperie), aux mêmes sous-domaines (Déception, Peur, Poil et Tyrannie) et à la même armes de prédilection (kukri).
 
-Tous les rakshasas immortels sont Loyal Mauvais et ont une puissance allant de [FP](./FP.md) 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) utilisables deux fois par jour chacun.
-- **1.** *[détection de pensées](./Détection de pensées.md)*
-- **2.** *[sonde mentale](./Sonde mentale.md)*
-- **3.** *[examen des rêves](./Examen des rêves.md)*
+Tous les rakshasas immortels sont Loyal Mauvais et ont une puissance allant de [[FP]] 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables deux fois par jour chacun.
+- **1.** *[[détection de pensées]]*
+- **2.** *[[sonde mentale]]*
+- **3.** *[[examen des rêves]]*

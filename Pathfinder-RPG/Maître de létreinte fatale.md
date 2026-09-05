@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Peu de gens peuvent survivre à l’horrible étreinte broyeuse du personnage. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 17, [Int](./Int.md) 3, naga, [homme-serpent](./Homme-serpent.md) ou créature possédant [étreinte](./Étreinte (capacité).md), [Étreinte fatale](./Étreinte fatale.md), [Horreur de l’étreinte fatale](./Horreur de létreinte fatale.md), [BBA](./BBA.md) +9
+**Conditions.** [[For]] 17, [[Int]] 3, naga, [[homme-serpent]] ou créature possédant [[étreinte (capacité)|étreinte]], [[Étreinte fatale]], [[Horreur de létreinte fatale|Horreur de l’étreinte fatale]], [[BBA]] +9
 
-**Avantage.** Le personnage double le nombre de dés de dégâts de l’attaque spéciale [constriction](./Constriction (capacité).md).
+**Avantage.** Le personnage double le nombre de dés de dégâts de l’attaque spéciale [[constriction (capacité)|constriction]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Chaque fois que le personnage réussit une constriction, il peut dépenser 5 points d’endurance pour tripler le nombre de dés de dégâts de son pouvoir de constriction au lieu de les doubler.

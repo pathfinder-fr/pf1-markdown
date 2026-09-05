@@ -14,32 +14,32 @@ Categories:
 {s:pucem|Créature magique|Forêt-jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.78}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./Vision nocturne (capacité).md), [odorat](./Odorat (capacité).md) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[Vision nocturne (capacité)|vision nocturne]], [[Odorat (capacité)|odorat]] ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 12, pris au dépourvu 15 (Dex +2, esquive +1, naturelle +6, taille -1)}
 {s:BDTexte|**pv** 52 (5d10+25)}
 {s:BDTexte|**Réf** +6, **Vig** +9, **Vol** +2}
-{s:BDTexte|**Capacité défensive** *[liberté de mouvement](./Liberté de mouvement.md)*}
+{s:BDTexte|**Capacité défensive** *[[liberté de mouvement]]*}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 9 m (6 {s:c}), [vol](./Vol (capacité).md) 18 m (12 {s:c}) (bonne)}
+{s:BDTexte|**VD** 9 m (6 {s:c}), [[Vol (capacité)|vol]] 18 m (12 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** morsure, +9 (1d8+5) et 2 pinces, +4 (1d6+2) et dard, +9 (1d6+5 plus poison)}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}); **Allonge** 1,50 m(1 {s:c})}
 {s:BDTexte|**Attaque spéciale** implantation}
 {s:BDTexte|**Pouvoirs magiques** (NLS 10 ; concentration +10)}
-{s:BDSorts|Constant — *[liberté de mouvement](./Liberté de mouvement.md)*}
+{s:BDSorts|Constant — *[[liberté de mouvement]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 14, **Con** 21, **Int** 3, **Sag** 12, **Cha** 10}
 {s:BDTexte|**BBA** +5 ; **BMO** +11 ; **DMD** 24}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +15, [Vol](./Vol.md) +8 ; **Modificateurs raciaux** +4 en Perception}
+{s:BDTexte|**Dons** [[Esquive]], [[Talent]] ([[Perception]]), [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Perception]] +15, [[Vol]] +8 ; **Modificateurs raciaux** +4 en Perception}
 {s:BDTexte|**Langue** aklo (ne peut pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation** solitaire ou portée (2-10)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Implantation (Ext).** Le dévoreur d’araignées pond ses œufs au sein d’un hôte vivant. Pour ce faire, il doit dépenser une [action complexe](./Action complexe.md) qui provoque une [attaque d’opportunité](./Valeurs de combat.md#ATTAQUEDOPPORTUNITE) et la cible doit être [sans défense](./Sans défense.md) mais vivante. Une fois que l’œuf a été implanté, il libère des enzymes paralysantes qui, non seulement, maintiennent la victime dans un état de paralysie perpétuel, mais la nourrissent et la gardent en vie, comateuse mais pleinement consciente. Cet état dure jusqu’à ce que l’œuf éclose, 1d6 semaines plus tard, et que le jeune dévoreur d’araignées mange la plus grande partie de son hôte, le tuant dans le processus. L’œuf peut être chirurgicalement extrait avec un test de [Premiers secours](./Premiers secours.md) de DD 25 (la procédure inflige 2d6 points de dégâts à l’hôte, que le test soit réussi ou non) : la paralysie de l’hôte se dissipe alors en 1d6 rounds. Tous les effets magiques guérissant la paralysie ou les maladies (comme *[délivrance de la paralysie](./Délivrance de la paralysie.md)*, *[guérison des maladies](./Guérison des maladies.md)* ou *[guérison suprême](./Guérison suprême.md)*) détruisent également l’œuf mais une simple immunité contre la paralysie ou les maladies n’est d’aucune aide.}
+{s:BDTexte|**Implantation (Ext).** Le dévoreur d’araignées pond ses œufs au sein d’un hôte vivant. Pour ce faire, il doit dépenser une [[action complexe]] qui provoque une [[Valeurs de combat#ATTAQUEDOPPORTUNITE|attaque d’opportunité]] et la cible doit être [[sans défense]] mais vivante. Une fois que l’œuf a été implanté, il libère des enzymes paralysantes qui, non seulement, maintiennent la victime dans un état de paralysie perpétuel, mais la nourrissent et la gardent en vie, comateuse mais pleinement consciente. Cet état dure jusqu’à ce que l’œuf éclose, 1d6 semaines plus tard, et que le jeune dévoreur d’araignées mange la plus grande partie de son hôte, le tuant dans le processus. L’œuf peut être chirurgicalement extrait avec un test de [[Premiers secours]] de DD 25 (la procédure inflige 2d6 points de dégâts à l’hôte, que le test soit réussi ou non) : la paralysie de l’hôte se dissipe alors en 1d6 rounds. Tous les effets magiques guérissant la paralysie ou les maladies (comme *[[délivrance de la paralysie]]*, *[[guérison des maladies]]* ou *[[guérison suprême]]*) détruisent également l’œuf mais une simple immunité contre la paralysie ou les maladies n’est d’aucune aide.}
 {s:BDTexte|**Poison (Ext).** Dard — blessure ; JdS Vigueur DD 17 ; fréquence 1/ minute pendant 6 minutes ; effet paralysie pendant 1 minute ; guérison 1 réussite. Le DD du jet de sauvegarde est basé sur la Constitution.}
 </div>
 </td><td><div>

@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Doru
 ---
 
->>> [Doru](./Doru.md)
+>>> [[Doru]]

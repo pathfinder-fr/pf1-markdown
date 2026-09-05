@@ -11,54 +11,54 @@ LastModified: 2025-01-15 18:51
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Astradaémon](./Astradaémon.md) || 16
+| [[Astradaémon]] || 16
 |-
-| [Cacodaémon](./Cacodaémon.md) || 2
+| [[Cacodaémon]] || 2
 |-
-| [Ceustodaémon](./Ceustodaémon.md) || 6
+| [[Ceustodaémon]] || 6
 |-
-| [Crucidaémon](./Crucidaémon.md) || 15
+| [[Crucidaémon]] || 15
 |-
-| [Derghodaémon](./Derghodaémon.md) || 12
+| [[Derghodaémon]] || 12
 |-
-| [Érodaémon](./Érodaémon.md) || 11
+| [[Érodaémon]] || 11
 |-
-| [Genthodaémon](./Genthodaémon.md) || 5
+| [[Genthodaémon]] || 5
 |-
-| [Hydrodaémon](./Hydrodaémon.md) || 8
+| [[Hydrodaémon]] || 8
 |-
-| [Lacridaémon](./Lacridaémon.md) || 3
+| [[Lacridaémon]] || 3
 |-
-| [Leukodaémon](./Leukodaémon.md) || 9
+| [[Leukodaémon]] || 9
 |-
-| [Méladaémon](./Méladaémon.md) || 11
+| [[Méladaémon]] || 11
 |-
-| [Obcisidaémon](./Obcisidaémon.md) || 19
+| [[Obcisidaémon]] || 19
 |-
-| [Oléthrodaémon](./Oléthrodaémon.md) || 20
+| [[Oléthrodaémon]] || 20
 |-
-| [Phasmadaémon](./Phasmadaémon.md) || 17
+| [[Phasmadaémon]] || 17
 |-
-| [Piscodaémon](./Piscodaémon.md) || 10
+| [[Piscodaémon]] || 10
 |-
-| [Purrodaémon](./Purrodaémon.md) || 18
+| [[Purrodaémon]] || 18
 |-
-| [Sanguidaémon](./Sanguidaémon.md) || 9
+| [[Sanguidaémon]] || 9
 |-
-| [Suspiridaémon](./Suspiridaémon.md) || 7
+| [[Suspiridaémon]] || 7
 |-
-| [Témerdaémon](./Témerdaémon.md) || 14
+| [[Témerdaémon]] || 14
 |-
-| [Thanadaémon](./Thanadaémon.md) || 13
+| [[Thanadaémon]] || 13
 |-
-| [Vénédaémon](./Vénédaémon.md) || 5
+| [[Vénédaémon]] || 5
 |-
-| [Vulnudaémon](./Vulnudaémon.md) || 4
+| [[Vulnudaémon]] || 4
 |}
 </div></div><div class="description">*Source : Bestiaire 2, p.72.*</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])*
 
-Les daémons sont les annonciateurs de la destruction, l’incarnation des pires manières de mourir. Ils personnifient la mort douloureuse, l’appétit vorace du Mal et la complète annihilation de toute vie. Alors que les [démons](./Démon.md) lancent d’incessantes attaques visant à pervertir et à détruire et que les [diables](./Diable.md) tourmentent et réduisent en esclavage dans l’espoir de corrompre les mortels, les daémons ne cherchent qu’à éteindre la vie elle-même. Certains utilisent la force brute pour éradiquer la vie ou s’attaquent aux âmes vulnérables, d’autres organisent des mensonges à grande échelle pour conduire des royaumes entiers vers leur perte. À chaque vie détruite et à chaque atrocité accomplie, les daémons répandent un peu plus la terreur, la méfiance et le désespoir : ils ternissent les attraits de l’existence et rapprochent sans cesse les plans de leur destruction finale et totale.
+Les daémons sont les annonciateurs de la destruction, l’incarnation des pires manières de mourir. Ils personnifient la mort douloureuse, l’appétit vorace du Mal et la complète annihilation de toute vie. Alors que les [[démon|démons]] lancent d’incessantes attaques visant à pervertir et à détruire et que les [[diable|diables]] tourmentent et réduisent en esclavage dans l’espoir de corrompre les mortels, les daémons ne cherchent qu’à éteindre la vie elle-même. Certains utilisent la force brute pour éradiquer la vie ou s’attaquent aux âmes vulnérables, d’autres organisent des mensonges à grande échelle pour conduire des royaumes entiers vers leur perte. À chaque vie détruite et à chaque atrocité accomplie, les daémons répandent un peu plus la terreur, la méfiance et le désespoir : ils ternissent les attraits de l’existence et rapprochent sans cesse les plans de leur destruction finale et totale.
 
 La haine que les daémons éprouvent envers les mortels est bien connue. Elle est évoquée dans les rêves les plus sombres et dans les histoires terrifiantes où l’ambition ultime des daémons consiste à éteindre chacune des vies mortelles aussi violemment et horriblement que possible. Les méthodes employées varient grandement selon les espèces daémoniaques. Bon nombre d’entre eux cherchent à s’infiltrer sur le plan des mortels et à semer la mort activement en mettant la « griffe à la pâte ». D’autres manipulent des agents (mortels et immortels) tels des marionnettistes maléfiques cherchant à organiser à distance des calamités à grande échelle depuis leurs sombres royaumes. Cette importante diversité de méthodes incite de nombreux érudits à attribuer à tort les machinations des daémons aux autres types de fiélons. La propagation de ces erreurs souvent fatales est facilitée par le fait que les daémons fréquentent et manipulent souvent d’autres Extérieurs maléfiques. Pourtant, chaque fois que le désespoir, la destruction et la mort se répandent comment des maladies contagieuses, il faut y voir le dessein d’un daémon. Malheureusement, il n’est généralement possible de reconnaître ces symptômes que lorsqu’il est déjà trop tard.
 
@@ -66,7 +66,7 @@ Les daémons vivent sur le plan d’Abaddon, une étendue morne parsemée de bru
 
 Les Cavaliers ne contrôlent pas seulement de vastes royaumes. Ils ont également à leur service des armées énormes constituées de daémons inférieurs. Mais leurs plus fidèles disciples sont les daémons spécifiquement attachés aux fonctions qu’ils occupent. Ces groupes de serviteurs daémoniaques particuliers, que les daémons appellent diacres, servent les entités qui possèdent le titre de Cavalier, quelles qu’elles soient. Même si ces serviteurs spéciaux des archidaémons diffèrent en puissance et en capacités, grâce à leur nombre, ils fournissent à chacun de leur seigneur des légions tout aussi capables les unes que les autres de répandre la terreur.
 
-Plus encore que parmi les autres races de fiélons, on trouve chez les daémons plusieurs espèces prêtes à tout pour s’emparer d’âmes. Les autres habitants des plans maléfiques cherchent à corrompre et à détruire les essences vivantes, mais les daémons aiment posséder et contrôler des âmes mortelles, les piéger et les amasser en grands nombres, tout cela pour perturber la progression naturelle de la vie et pervertir l’essence même de la création en la soumettant à leurs vils caprices. Tous les daémons ne possèdent pas la capacité de dérober l’âme d’un mortel et de la soumettre à leurs désirs, mais les plus faibles des daémons, les [cacodaémons](./Cacodaémon.md), des créatures démentes, sont constamment à la recherche d’essences vitales à consommer et à emprisonner. Ces daémons inférieurs toujours à l’affût d’occasions leur permettant de condamner de nouveaux esprits mortels servent avec enthousiasme leurs pairs plus puissants. Et, même si les [cacodaémons](./Cacodaémon.md) n’accordent guère de valeur aux âmes qu’ils retiennent, les daémons supérieurs, eux, aiment les amasser comme trophées, sources d’énergie pour des rites horribles ou offrandes permettant d’attirer sur eux les faveurs de leurs seigneurs. De nombreuses espèces de daémons possèdent également des capacités spéciales qui leur permettent de capturer les esprits des mortels ou de tirer parti de l’énergie des âmes, c’est-à-dire d’utiliser leurs pouvoirs pour les annihiler complètement tout en en tirant un avantage.
+Plus encore que parmi les autres races de fiélons, on trouve chez les daémons plusieurs espèces prêtes à tout pour s’emparer d’âmes. Les autres habitants des plans maléfiques cherchent à corrompre et à détruire les essences vivantes, mais les daémons aiment posséder et contrôler des âmes mortelles, les piéger et les amasser en grands nombres, tout cela pour perturber la progression naturelle de la vie et pervertir l’essence même de la création en la soumettant à leurs vils caprices. Tous les daémons ne possèdent pas la capacité de dérober l’âme d’un mortel et de la soumettre à leurs désirs, mais les plus faibles des daémons, les [[cacodaémon|cacodaémons]], des créatures démentes, sont constamment à la recherche d’essences vitales à consommer et à emprisonner. Ces daémons inférieurs toujours à l’affût d’occasions leur permettant de condamner de nouveaux esprits mortels servent avec enthousiasme leurs pairs plus puissants. Et, même si les [[cacodaémon|cacodaémons]] n’accordent guère de valeur aux âmes qu’ils retiennent, les daémons supérieurs, eux, aiment les amasser comme trophées, sources d’énergie pour des rites horribles ou offrandes permettant d’attirer sur eux les faveurs de leurs seigneurs. De nombreuses espèces de daémons possèdent également des capacités spéciales qui leur permettent de capturer les esprits des mortels ou de tirer parti de l’énergie des âmes, c’est-à-dire d’utiliser leurs pouvoirs pour les annihiler complètement tout en en tirant un avantage.
 
 ### Les Quatre Cavaliers
 Quatre seigneurs effroyables connus partout à travers les plans dirigent les hordes disparates des daémons. Ces archidaémons, qui étaient autrefois semblables à leurs pairs et qui sont sortis des rangs afin de remplacer les tyrans fiélons qui portaient ces titres avant eux, sont les Annonciateurs de la Fin, les Quatre Cavaliers de l’Apocalypse. Les annales blasphématoires qui renferment le savoir des fiélons les dépeignent comme les architectes prophétiques de la destruction du multivers, dont le destin est de se tenir, triomphants, au-dessus des dépouilles des cosmos et devant une infinité silencieuse avant de céder la place à un néant absolu. Chaque Cavalier détient un pouvoir inégalé au sein des hordes de daémons, dirige un vaste royaume situé sur les plaines mornes d’Abaddon et préside à une méthode spécifique de destruction mortelle : la pestilence, la famine, la guerre et la mort de vieillesse. Même si chaque archidaémon jouit d’une influence incroyablement étendue, les daémons n’en restent pas moins incapables de loyauté : ils servent seulement ceux qu’ils ne peuvent pas vaincre. C’est pour cela que, bien qu’ils disposent de grands pouvoirs et orchestrent des manipulations inégalées au sein des hordes de daémons, les Cavaliers doivent sans cesse défendre leur trône contre les machinations de leurs sous-fifres ambitieux et les complots des autres archidaémons.

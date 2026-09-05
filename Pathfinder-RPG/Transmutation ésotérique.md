@@ -10,8 +10,8 @@ Categories:
 
 {s:PU}*Les géodes renforcent les prouesses physiques du personnage quand il s’en sert pour lancer des sorts de transmutation.*
 
-**Catégorie.** [ésotérique](./Composantes matérielles ésotériques.md)
+**Catégorie.** [[Composantes matérielles ésotériques|ésotérique]]
 
-**Avantage.** Quand le personnage lance un sort de [transmutation](./Transmutation.md) avec des [géodes](./Composantes matérielles ésotériques.md#Géodes) comme composante matérielle ésotérique, il gagne un bonus de +2 aux [jets d’attaque](./jet dattaque.md), aux tests de caractéristique et aux [tests de compétence](./Compétences.md) basés sur la [Force](./Force.md), la [Dextérité](./Dextérité.md) ou la [Constitution](./Constitution.md) (le personnage choisit à chaque fois la caractéristique concernée). Ce bonus dure jusqu’à la fin de son prochain tour.
+**Avantage.** Quand le personnage lance un sort de [[transmutation]] avec des [[Composantes matérielles ésotériques#Géodes|géodes]] comme composante matérielle ésotérique, il gagne un bonus de +2 aux [[jet dattaque|jets d’attaque]], aux tests de caractéristique et aux [[Compétences|tests de compétence]] basés sur la [[Force]], la [[Dextérité]] ou la [[Constitution]] (le personnage choisit à chaque fois la caractéristique concernée). Ce bonus dure jusqu’à la fin de son prochain tour.
 
-Quand le personnage obtient l’effet de composante supérieure des géodes quand il lance un sort de transmutation, il augmente de 1 son [niveau de lanceur de sorts](./NLS.md) quand il s’agit de déterminer la durée.
+Quand le personnage obtient l’effet de composante supérieure des géodes quand il lance un sort de transmutation, il augmente de 1 son [[NLS|niveau de lanceur de sorts]] quand il s’agit de déterminer la durée.

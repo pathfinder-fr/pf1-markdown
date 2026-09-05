@@ -9,14 +9,14 @@ Categories:
 
 *Le personnage est doué pour le combat à deux armes.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 17, [Combat à deux armes](./Combat à deux armes.md), [bonus de base à l’attaque](./BBA.md) de +6.
+**Conditions.** [[Dextérité|Dex]] 17, [[Combat à deux armes]], [[BBA|bonus de base à l’attaque]] de +6.
 
-**Avantage.** Lorsque le personnage se bat à deux armes, il peut porter deux attaques supplémentaires à l’aide de son arme secondaire au lieu d’une seule. Cependant, cette deuxième attaque secondaire s’accompagne d’un malus de -5 au [jet d’attaque](./jet dattaque.md).
+**Avantage.** Lorsque le personnage se bat à deux armes, il peut porter deux attaques supplémentaires à l’aide de son arme secondaire au lieu d’une seule. Cependant, cette deuxième attaque secondaire s’accompagne d’un malus de -5 au [[jet dattaque|jet d’attaque]].
 
 **Normal.** Sans ce don, le personnage ne peut porter qu’une attaque supplémentaire avec son arme secondaire.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage effectue une [attaque d’opportunité](./AO.md), il peut dépenser 5 points d’endurance pour en effectuer une seconde avec son arme secondaire. Cette deuxième attaque subit un malus de –5.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage effectue une [[AO|attaque d’opportunité]], il peut dépenser 5 points d’endurance pour en effectuer une seconde avec son arme secondaire. Cette deuxième attaque subit un malus de –5.

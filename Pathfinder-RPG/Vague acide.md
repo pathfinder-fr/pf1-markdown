@@ -9,10 +9,10 @@ Categories:
 ---
 
 {s:UM}
-**École** [Invocation](./Invocation.md) ([création](./branche création.md)) <nowiki>[</nowiki>[acide](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [magus](./Magus.md) 4, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 4  
+**École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[magus]] 4, [[ensorceleur]]/[[magicien]] 4  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (voir texte)  
+**Durée** 1 [[round]]/[[niveau]] (voir texte)  
 
-**Jet de sauvegarde** [réflexes](./Réflexes.md) [1/2 dégâts et partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir ci dessous) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts et partiel]] (voir ci dessous) ; **Résistance à la magie** non
 
-Un sort de mots incluant ce mot effet inflige 1d6 points de dégâts d’acide par [niveau de lanceur](./NLS.md) (maximum 10d6). Les cibles blessées sont [fiévreuses](./Fiévreux.md) pendant 1 [round](./round.md) par [niveau de lanceur](./NLS.md) ou pendant 1 [round](./round.md) si le [jet de sauvegarde](./jet de sauvegarde.md) contre le sort est réussi.
+Un sort de mots incluant ce mot effet inflige 1d6 points de dégâts d’acide par [[NLS|niveau de lanceur]] (maximum 10d6). Les cibles blessées sont [[fiévreux|fiévreuses]] pendant 1 [[round]] par [[NLS|niveau de lanceur]] ou pendant 1 [[round]] si le [[jet de sauvegarde]] contre le sort est réussi.

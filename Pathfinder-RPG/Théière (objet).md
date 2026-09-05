@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Il s'agit d'un petit pot à bec verseur pour préparer le thé. Il inclut un couvercle et une passoire et permet de faire 4 [tasses de thé](./Thé (objet).md) à la fois.
+Il s'agit d'un petit pot à bec verseur pour préparer le thé. Il inclut un couvercle et une passoire et permet de faire 4 [[Thé (objet)|tasses de thé]] à la fois.

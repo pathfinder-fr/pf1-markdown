@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Sceptre inamovible|}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 10 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 5 000 po ; **Poids** 2,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 5 000 po ; **Poids** 2,5 kg
 (((Description)))
-Un sceptre inamovible est une simple barre en fer plate dotée d’un petit bouton à l’une de ses extrémités. Simplement appuyer sur ce bouton fait que le sceptre reste totalement immobile, même si la position qu’il occupe défie les lois de la pesanteur. Ainsi, son utilisateur peut installer le sceptre où il le souhaite, appuyer sur le bouton, et lâcher le sceptre. Plusieurs sceptres inamovibles, peuvent même servir d’échelle quand ils sont utilisés ensemble (il suffit d’en posséder deux). Un sceptre inamovible peut supporter un total de quatre tonnes avant de tomber au sol. Si une créature tente de le pousser après qu’il a été arrimé, elle doit réussir un test de [Force](./Force.md) ([DD](./DD.md) 30) pour le déplacer de trois mètres en 1 round.
+Un sceptre inamovible est une simple barre en fer plate dotée d’un petit bouton à l’une de ses extrémités. Simplement appuyer sur ce bouton fait que le sceptre reste totalement immobile, même si la position qu’il occupe défie les lois de la pesanteur. Ainsi, son utilisateur peut installer le sceptre où il le souhaite, appuyer sur le bouton, et lâcher le sceptre. Plusieurs sceptres inamovibles, peuvent même servir d’échelle quand ils sont utilisés ensemble (il suffit d’en posséder deux). Un sceptre inamovible peut supporter un total de quatre tonnes avant de tomber au sol. Si une créature tente de le pousser après qu’il a été arrimé, elle doit réussir un test de [[Force]] ([[DD]] 30) pour le déplacer de trois mètres en 1 round.
 (((Création)))
-**Conditions** [Création de sceptres magiques](./Création de sceptres magiques.md), *[lévitation](./Lévitation.md)* ; **Coût** 2 500 po
+**Conditions** [[Création de sceptres magiques]], *[[lévitation]]* ; **Coût** 2 500 po
 </div>

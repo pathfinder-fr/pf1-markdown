@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Alchimiste#BOMBE
 ---
 
->>> [Alchimiste#BOMBE](./Alchimiste.md#BOMBE)
+>>> [[Alchimiste#BOMBE]]

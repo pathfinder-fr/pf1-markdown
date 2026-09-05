@@ -12,21 +12,21 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Cham](./Chaman.md) 5, [Dru](./Druide.md) 5, [Psy](./Psychiste.md) 5, [Rôd](./Rôdeur.md) 4  
+**École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5, [[Psychiste|Psy]] 5, [[Rôdeur|Rôd]] 4  
 
 **Temps d'incantation** 10 minutes  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** [instantanée](./instantanée.md)
+**Durée** [[instantanée]]
 
 Le personnage ne fait plus qu’un avec la nature qui l’environne, ce qui lui permet de connaître intimement les alentours. Il apprend aussitôt tout ce qu’il y a à savoir sur trois des thèmes suivants :
 - sol ou milieu : végétation, minéraux, étendues et cours d’eau, 
 - habitants :  population animale, présence ou non de créatures des bois, présence ou non de puissantes créatures surnaturelles, 
 - ou encore état de la nature environnante.
 
-En extérieur, cette [divination](./école divination.md) a une portée de 1,5 kilomètre par [niveau de lanceur de sorts](./NLS.md). Dans des lieux naturels mais souterrains (grottes, galeries, etc.), elle est beaucoup plus limitée (30 m par [niveau de lanceur de sorts](./NLS.md)). *[Communion avec la nature](./Communion avec la nature.md)* ne fonctionne pas dans les endroits où la nature a été supplantée par un nombre élevé de constructions (par exemple en ville ou au cœur d’un donjon).
+En extérieur, cette [[école divination|divination]] a une portée de 1,5 kilomètre par [[NLS|niveau de lanceur de sorts]]. Dans des lieux naturels mais souterrains (grottes, galeries, etc.), elle est beaucoup plus limitée (30 m par [[NLS|niveau de lanceur de sorts]]). *[[Communion avec la nature]]* ne fonctionne pas dans les endroits où la nature a été supplantée par un nombre élevé de constructions (par exemple en ville ou au cœur d’un donjon).

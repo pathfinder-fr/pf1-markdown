@@ -20,11 +20,11 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:RSE}**École** [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 1, [Cham](./Chaman.md) 1,  [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1, [Spi](./Spirite.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
+{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1,  [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
 **Portée** 18 m
 **Zone d'effet** émanation en forme de cône
-**Durée** [concentration](./Présentation des sorts.md#DUREE), jusqu’à 1 minute/niveau (T)
+**Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 minute/niveau (T)
 
-Fonctionne comme *[détection de la magie](./Détection de la magie.md)* mais le personnage repère immédiatement la puissance et l’emplacement de l’aura de chaque effet de [charme](./branche charme.md), de [coercition](./branche coercition.md) ou de possession placé sur les créatures situées dans la zone. Il peut tenter d’[identifier les propriétés](./Art de la magie.md) de chaque aura. En plus de repérer les victimes de ces effets, il peut voir si des créatures les utilisent sur autrui par une [action simple](./Action simple.md), avec un test de [Psychologie](./Psychologie.md) [DD](./DD.md) 20 + [NLS](./NLS.md). S’il réussit, il a droit à un test d’[Art de la magie](./Art de la magie.md) pour identifier le type de magie utilisé (même si la cible ne se trouve pas dans la zone).
+Fonctionne comme *[[détection de la magie]]* mais le personnage repère immédiatement la puissance et l’emplacement de l’aura de chaque effet de [[branche charme|charme]], de [[branche coercition|coercition]] ou de possession placé sur les créatures situées dans la zone. Il peut tenter d’[[Art de la magie|identifier les propriétés]] de chaque aura. En plus de repérer les victimes de ces effets, il peut voir si des créatures les utilisent sur autrui par une [[action simple]], avec un test de [[Psychologie]] [[DD]] 20 + [[NLS]]. S’il réussit, il a droit à un test d’[[Art de la magie]] pour identifier le type de magie utilisé (même si la cible ne se trouve pas dans la zone).

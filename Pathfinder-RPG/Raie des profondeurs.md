@@ -6,7 +6,7 @@ Categories:
 - Src Bestiaire 4
 ---
 
-*Types/Sous-types associés : [Aberration](./type Aberration.md)*
+*Types/Sous-types associés : [[type Aberration|Aberration]]*
 
 <div>
 Les raies des profondeurs forment une famille de créatures à part
@@ -39,17 +39,17 @@ peuvent peser jusqu’à quatre fois plus.
 | taille
 | DV
 |- CLASS="premier"
-| class="gauche" | [Capuche du bourreau](./capuche du bourreau.md)
+| class="gauche" | [[Capuche du bourreau]]
 | 2
 | TP
 | 2d8
 |- CLASS="alt"
-| class="gauche" | [Traqueur-du-dessus](./Traqueur-du-dessus.md)
+| class="gauche" | [[Traqueur-du-dessus]]
 | 7
 | TG
 | 10d8
 |-
-| class="gauche" | [Piégeuse](./piégeuse.md)
+| class="gauche" | [[Piégeuse]]
 | 8
 | TG
 | 13d8

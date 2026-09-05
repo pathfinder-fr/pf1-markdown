@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa (la tasse), 4 pa (l'outre) ; **Poids** 0,25 kg (la tasse), 1 kg (l'outre)
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 On obtient cet alcool nourrissant de la couleur du lait en faisant fermenter des cœurs d’agave.

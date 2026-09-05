@@ -10,6 +10,6 @@ Categories:
 
 {s:cmy}*La vue aiguisée du personnage peut percer les ténèbres les plus profondes.*
 
-**Condition.** [Vision affûtée](./Vision affûtée.md)
+**Condition.** [[Vision affûtée]]
 
-**Avantage.** La portée de la [vision dans le noir](./vision dans le noir.md) du personnage augmente de 3 mètres par [grade](./Grade.md).
+**Avantage.** La portée de la [[vision dans le noir]] du personnage augmente de 3 mètres par [[grade]].

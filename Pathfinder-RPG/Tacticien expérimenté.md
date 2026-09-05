@@ -10,8 +10,8 @@ Categories:
 
 {s:apg}*Avec quelques gestes rapides et deux ou trois ordres, le personnage peut diriger ses alliés au combat.*
 
-**Condition.** Aptitude de classe de [tacticien](./tacticien.md).
+**Condition.** Aptitude de classe de [[tacticien]].
 
-**Avantage.** Le personnage peut utiliser sa capacité de tacticien pour octroyer à ses alliés un [don d’équipe](./don déquipe.md) une fois de plus par jour.
+**Avantage.** Le personnage peut utiliser sa capacité de tacticien pour octroyer à ses alliés un [[don déquipe|don d’équipe]] une fois de plus par jour.
 
 **Spécial.** Le personnage peut acquérir ce don plusieurs fois. Ses effets se cumulent.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Hiérophante Mythique#MONTEEENPUISSANCEDIVINE
 ---
 
->>> [Hiérophante Mythique#MONTEEENPUISSANCEDIVINE](./Hiérophante Mythique.md#MONTEEENPUISSANCEDIVINE)
+>>> [[Hiérophante Mythique#MONTEEENPUISSANCEDIVINE]]

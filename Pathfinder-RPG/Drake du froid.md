@@ -14,14 +14,14 @@ Categories:
 {s:pucem|Dragon|Montagnes|Froid}
 - *Source : Bestiaire 2, p.118*
 - **PX** 3 200
-- [Dragon](./type Dragon.md) ([froid](./sous-type froid.md)) de taille G, CM
-- **Init** +5 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), vision malgré la neige, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10
+- [[type Dragon|Dragon]] ([[sous-type froid|froid]]) de taille G, CM
+- **Init** +5 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige, [[vision nocturne]] ; [[Perception]] +10
 (((Défense)))
 - **CA** 20, contact 10, pris au dépourvu 19 (Dex +1, naturelle +10, taille –1)
 - **pv** 84 (8d12+32)
 - **Réf** +7, **Vig** +10, **Vol** +5
 - **Immunités** froid, paralysie, sommeil
-- **Faiblesses** [vulnérable](./Vulnérabilités (capacité).md) au feu
+- **Faiblesses** [[vulnérabilités (capacité)|vulnérable]] au feu
 (((Attaque)))
 - **VD** 6 m (4 {s:c}), creusement 6 m (4 {s:c}) (uniquement dans la neige), vol 18 m (12 {s:c}) (moyenne)
 - **Corps à corps** morsure, +13 (2d6+6 plus 1d6 froid) et coup de queue, +8 (1d8+3)
@@ -30,8 +30,8 @@ Categories:
 (((Statistiques)))
 - **For** 22, **Dex** 13, **Con** 18, **Int** 8, **Sag** 9, **Cha** 13
 - **BBA** +8 ; **BMO** +15 ; **DMD** 26
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Frappe décisive](./Frappe décisive.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Escalade](./Escalade.md) +17, [Discrétion](./Discrétion.md) +8, [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +10, [Vol](./Vol.md) +10
+- **Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Frappe décisive]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Escalade]] +17, [[Discrétion]] +8, [[Intimidation]] +12, [[Perception]] +10, [[Vol]] +10
 - **Langues** draconique
 - **Particularités** accélération soudaine, marche sur la glace
 (((Écologie)))
@@ -40,14 +40,14 @@ Categories:
 - **Trésor** standard
 (((Pouvoirs spéciaux)))
 - **Accélération soudaine (Ext).** Par une action rapide utilisable trois fois par jour, un drake du froid peut puiser dans son héritage draconique pour obtenir un sursaut de force et de vitesse afin de pouvoir accomplir une action de mouvement supplémentaire au cours du round où il utilise cette capacité.
-- **Marche sur la glace (Ext).** Cette capacité fonctionne comme *[pattes d’araignée](./Pattes daraignée.md)*, mais uniquement sur les surfaces gelées. Le drake peut aussi se déplacer sur les terrains gelés sans subir de pénalité et sans devoir effectuer de tests d’[Acrobaties](./Acrobaties.md) pour courir ou charger.
+- **Marche sur la glace (Ext).** Cette capacité fonctionne comme *[[pattes daraignée|pattes d’araignée]]*, mais uniquement sur les surfaces gelées. Le drake peut aussi se déplacer sur les terrains gelés sans subir de pénalité et sans devoir effectuer de tests d’[[Acrobaties]] pour courir ou charger.
 - **Souffle de brume glaciale (Sur).** Par une action simple, un drake du froid peut cracher une boule de liquide qui explose en un nuage de brume glaciale. Cette attaque a une portée de 18 mètres (12 {s:c}) et inflige 7d6 points de froid (Réflexes DD 18, 1/2 dégâts) à toutes les créatures dans une zone de 6 mètres de rayon. La brume forme une couche de glace glissante sur toute la surface de la zone affectée, la transformant en terrain difficile pour 2d4 rounds. Après cela, la glace se fissure ou fond suffisamment pour ne plus modifier le terrain. Après avoir utilisé cette attaque de souffle, le drake du froid doit attendre 1d6 rounds avant de pouvoir faire à nouveau appel à cette capacité. Le DD du jet de Réflexes dépend de la Constitution.
-- **Vision malgré la neige (Ext).** Un drake du froid peut voir parfaitement bien même s’il neige et il ne subit aucun malus aux tests de [Perception](./Perception.md) dans ce genre de conditions climatiques.
+- **Vision malgré la neige (Ext).** Un drake du froid peut voir parfaitement bien même s’il neige et il ne subit aucun malus aux tests de [[Perception]] dans ce genre de conditions climatiques.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [drakes](./Drake.md).***</li></ul>*Ce dragon à deux pattes possède des écailles bleues et mattes avec des reflets similaires à de la glace. Une brume glaciale sort de ses puissantes mâchoires.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>*Ce dragon à deux pattes possède des écailles bleues et mattes avec des reflets similaires à de la glace. Une brume glaciale sort de ses puissantes mâchoires.*
 
-Ces prédateurs féroces sont des cousins dégénérés des [dragons blancs](./Dragon blanc.md). Ils sont plus grands que les autres drakes et atteignent
+Ces prédateurs féroces sont des cousins dégénérés des [[dragon blanc|dragons blancs]]. Ils sont plus grands que les autres drakes et atteignent
 des hauteurs de 4,20 mètres et des poids pouvant dépasser
 1 250 kg. Leurs pattes larges et griffues leur permettent de creuser
 facilement dans la neige mais pas dans le sol ou l’argile.

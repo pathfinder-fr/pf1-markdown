@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Œil invidien.md).***
+***Voir les [[Pathfinder-RPG.Œil invidien|statistiques de cet artefact]].***
 
 Un diamant éblouissant brille dans une amulette de métal sombre, dont les contours semblent dessiner des crocs et des chaînes.
 

@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Termite géant|FP 3}
 {s:pucem|Vermine|Forêt-Jungle|Tropical}
-{s:BDTexte|*Source : [Bestiaire 5 p.253](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.253]]*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [odorat](./Odorat (capacité).md), [perception des vibrations](./Perception des vibrations (capacité).md) à 18 m, [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Vermine|Vermine]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Odorat (capacité)|odorat]], [[Perception des vibrations (capacité)|perception des vibrations]] à 18 m, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 10, pris au dépourvu 15 (naturelle +5)}
 {s:BDTexte|**pv** 32 (5d8+10)}
@@ -32,8 +32,8 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, couple, nid (3-9) ou colonie (10-60)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Double morsure (Ext).** Les termites géants peuvent se déplacer en creusant dans la terre et le bois mais pas dans la roche ni le métal. Leurs [attaques naturelles](./Attaques naturelles (capacité).md) et leur acide ignorent une [solidité](./solidité.md) de 5 ou moins.}
-{s:BDTexte|**Nuée (Ext).** Deux termites géants peuvent partager le même espace sans malus et, s’ils attaquent tous deux la même créature, on considère qu’ils la [prennent en tenaille](./Pris en tenaille.md). Les termites géants ne subissent pas les dégâts infligés par les nuées de termites.}
+{s:BDTexte|**Double morsure (Ext).** Les termites géants peuvent se déplacer en creusant dans la terre et le bois mais pas dans la roche ni le métal. Leurs [[Attaques naturelles (capacité)|attaques naturelles]] et leur acide ignorent une [[solidité]] de 5 ou moins.}
+{s:BDTexte|**Nuée (Ext).** Deux termites géants peuvent partager le même espace sans malus et, s’ils attaquent tous deux la même créature, on considère qu’ils la [[pris en tenaille|prennent en tenaille]]. Les termites géants ne subissent pas les dégâts infligés par les nuées de termites.}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Nuée de termites](./Nuée de termites.md) || 6
+| [[Nuée de termites]] || 6
 |-
-| [Termite géant](./Termite géant.md) || 3
+| [[Termite géant]] || 3
 |}
 </div>*Cet insecte de la taille d’un poney a de longues mandibules noires et un abdomen blanc strié.*
 

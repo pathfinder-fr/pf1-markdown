@@ -6,8 +6,8 @@ LastModified: 2024-05-16 18:16
 
 {s:cs}{s:AMH}*Le personnage est capable de retourner la situation contre les adversaires désorientés.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 15, [Attaques réflexes](./Attaques réflexes.md), [École du bouclier bouleversant](./École du bouclier bouleversant.md), [Science du coup de bouclier](./Science du coup de bouclier.md), maniement des [targes](./targe (armure).md)
+**Conditions.** [[Dex]] 15, [[Attaques réflexes]], [[École du bouclier bouleversant]], [[Science du coup de bouclier]], maniement des [[targe (armure)|targes]]
 
-**Avantages.** Quand le personnage utilise l'[École du bouclier bouleversant](./École du bouclier bouleversant.md), si un ennemi subit un malus aux [jets d'attaque](./jet dattaque.md) contre le personnage à cause du don École du bouclier bouleversant et qu'il rate la [CA](./CA.md) du personnage de 5 ou plus avec une attaque aux corps à corps, il provoque une [attaque d’opportunité](./AO.md) de la part du personnage. Le personnage ne peut effectuer qu'une seule attaque d'opportunité de cette façon à chaque round.
+**Avantages.** Quand le personnage utilise l'[[École du bouclier bouleversant]], si un ennemi subit un malus aux [[jet dattaque|jets d'attaque]] contre le personnage à cause du don École du bouclier bouleversant et qu'il rate la [[CA]] du personnage de 5 ou plus avec une attaque aux corps à corps, il provoque une [[AO|attaque d’opportunité]] de la part du personnage. Le personnage ne peut effectuer qu'une seule attaque d'opportunité de cette façon à chaque round.

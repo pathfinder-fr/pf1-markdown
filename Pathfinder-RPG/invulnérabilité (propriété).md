@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Invulnérabilité
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Invulnérabilité](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Invulnérabilité)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Invulnérabilité]]

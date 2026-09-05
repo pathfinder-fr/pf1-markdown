@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 25 po ; **Poids** 0,23 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces araignées de taille TP ont le corps rouge et les pattes noires. Ce sont des araignées de chasse : elles ne tissent pas de toiles mais sont venimeuses. Voir les statistiques de l'[araignée écarlate](./Araignée écarlate.md).
+Ces araignées de taille TP ont le corps rouge et les pattes noires. Ce sont des araignées de chasse : elles ne tissent pas de toiles mais sont venimeuses. Voir les statistiques de l'[[araignée écarlate]].

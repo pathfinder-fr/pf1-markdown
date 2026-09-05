@@ -11,7 +11,7 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun fuseau clair|{s:RSE}}
-**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 4 000 po (normale), 2 000 po (défectueuse), 1 000 po (ébréchée) ; **Poids** –
+**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 4 000 po (normale), 2 000 po (défectueuse), 1 000 po (ébréchée) ; **Poids** –
 (((Description)))
 - ***Normale.*** Permet au personnage de subsister sans boire ni manger.
 
@@ -22,7 +22,7 @@ Categories:
 - ***Ébréchée.*** Cette pierre permet à celui qui la porte de s’alimenter en ne prenant que la moitié de la quantité normale de nourriture nécessaire.
 
 (((Pouvoir de résonance)))
-Le porteur peut lancer *[protection contre le Bien](./Protection contre le Bien.md)/[le Chaos](./Protection contre le Chaos.md)/[la Loi](./Protection contre la Loi.md)/[le Mal](./Protection contre le Mal.md)* sur lui-même une fois par jour ([NLS](./NLS.md) 12). Il peut activer cette capacité par une [action immédiate](./Action immédiate.md), mais le faire ainsi vide la pierre ioun de son pouvoir, la transformant en *[pierre ioun gris terne](./Pierre gris terne.md)*.
+Le porteur peut lancer *[[protection contre le Bien]]/[[protection contre le Chaos|le Chaos]]/[[protection contre la Loi|la Loi]]/[[protection contre le Mal|le Mal]]* sur lui-même une fois par jour ([[NLS]] 12). Il peut activer cette capacité par une [[action immédiate]], mais le faire ainsi vide la pierre ioun de son pouvoir, la transformant en *[[Pierre gris terne|pierre ioun gris terne]]*.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être de niveau 12 ; **Coût** 2 000 po (normale), 1 000 po (défectueuse), 500 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], le créateur doit être de niveau 12 ; **Coût** 2 000 po (normale), 1 000 po (défectueuse), 500 po (ébréchée)
 </div>

@@ -15,35 +15,35 @@ Il sont cependant mieux adaptés à une campagne contenant des psioniques.
 | CLASS="gauche" WIDTH="35%" | Conditions
 | CLASS="gauche" WIDTH="50%" | Avantages
 |- CLASS="premier"
-| [Assaut du forcené](./Assaut du forcené.md)
-| CLASS="gauche" | [BBA](./../Pathfinder-RPG/BBA.md) +1
+| [[Assaut du forcené]]
+| CLASS="gauche" | [[Pathfinder-RPG.BBA|BBA]] +1
 | CLASS="gauche" | Échange un malus de -4 à la CA contre +2 à l'attaque
 |-
-| [Capacité psionique innée](./Capacité psionique innée.md)
+| [[Capacité psionique innée]]
 | CLASS="gauche" | —
 | CLASS="gauche" | Acquière le sous-type psionique et deux points psi
 |-
-| [Danse mystificatrice](./Danse mystificatrice.md)
-| CLASS="gauche" | [Représentation](./../Pathfinder-RPG/Représentation.md)(danse) 2 rangs, [Discrétion](./../Pathfinder-RPG/Discrétion.md) 7 rangs
+| [[Danse mystificatrice]]
+| CLASS="gauche" | [[Pathfinder-RPG.Représentation|Représentation]](danse) 2 rangs, [[Pathfinder-RPG.Discrétion|Discrétion]] 7 rangs
 | CLASS="gauche" | Donne un camouflage par un action de mouvement
 |-
-| [Esprit réparateur](./Esprit réparateur.md)
-| CLASS="gauche" | [Con](./../Pathfinder-RPG/Constitution.md) 13
+| [[Esprit réparateur]]
+| CLASS="gauche" | [[Pathfinder-RPG.Constitution|Con]] 13
 | CLASS="gauche" | Soigne l’affaiblissement temporaire de caractéristique plus vite
 |-
-| [Esquive de charge](./Esquive de charge.md)
-| CLASS="gauche" | [Dex](./../Pathfinder-RPG/Dextérité.md) 13, [Esquive](./../Pathfinder-RPG/Esquive.md)
+| [[Esquive de charge]]
+| CLASS="gauche" | [[Pathfinder-RPG.Dextérité|Dex]] 13, [[Pathfinder-RPG.Esquive|Esquive]]
 | CLASS="gauche" | +4 à la CA contre une charge
 |-
-| [Indépendant](./Indépendant.md)
+| [[Indépendant]]
 | CLASS="gauche" |  —
 | CLASS="gauche" | +2 aux tests d’autohypnose et de connaissance (psionique).
 |-
-| [Métabolisme accéléré](./Métabolisme accéléré.md)
-| CLASS="gauche" | [Con](./../Pathfinder-RPG/Constitution.md) 13
+| [[Métabolisme accéléré]]
+| CLASS="gauche" | [[Pathfinder-RPG.Constitution|Con]] 13
 | CLASS="gauche" | Guérit les blessures plus rapidement
 |-
-| [Ouvert d’esprit](./Ouvert desprit.md)
+| [[Ouvert desprit|Ouvert d’esprit]]
 | CLASS="gauche" | —
 | CLASS="gauche" | Points de compétences supplémentaires
 |-

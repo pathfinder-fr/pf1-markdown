@@ -10,27 +10,27 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[émotion, langage, mental, peur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 5, [Inq](./Inquisiteur.md) 5
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
-**Cible** une créature/[niveau](./niveau.md), qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ou 1 [round](./round.md) ; voir texte
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+{s:APG}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion, langage, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Inquisiteur|Inq]] 5
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, FD]]
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
+**Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres
+**Durée** 1 [[round]]/[[niveau]] ou 1 [[round]] ; voir texte
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[fustiger](./Fustiger.md)* mais il affecte plusieurs créatures.
+Ce sort fonctionne comme *[[fustiger]]* mais il affecte plusieurs créatures.
 
 
 
 (((
 ## Fustiger
-{s:APG}**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[émotion, langage, mental, peur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+{s:APG}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion, langage, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cible** une créature vivante
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ou 1 [round](./round.md) ; voir texte
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Durée** 1 [[round]]/[[niveau]] ou 1 [[round]] ; voir texte
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 ---
-Le personnage oblige la cible à supplier qu'on la pardonne. Si cette dernière rate son [jet de sauvegarde](./jet de sauvegarde.md), elle se [recroqueville](./Recroquevillé.md) de peur. En cas de réussite, elle est [secouée](./Secoué.md) pour 1 [round](./round.md). À chaque [round](./round.md), à son tour, la cible [recroquevillée](./Recroquevillé.md) peut tenter un nouveau [jet de sauvegarde](./jet de sauvegarde.md) pour mettre un terme à cet effet. Une créature qui vénère le même dieu que le personnage subit un malus de -2 au [jet de sauvegarde](./jet de sauvegarde.md).
+Le personnage oblige la cible à supplier qu'on la pardonne. Si cette dernière rate son [[jet de sauvegarde]], elle se [[recroquevillé|recroqueville]] de peur. En cas de réussite, elle est [[secoué|secouée]] pour 1 [[round]]. À chaque [[round]], à son tour, la cible [[recroquevillé|recroquevillée]] peut tenter un nouveau [[jet de sauvegarde]] pour mettre un terme à cet effet. Une créature qui vénère le même dieu que le personnage subit un malus de -2 au [[jet de sauvegarde]].
 )))

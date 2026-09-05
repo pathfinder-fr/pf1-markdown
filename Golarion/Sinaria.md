@@ -7,10 +7,10 @@ Categories:
 - Ustalav
 ---
 
-Sinaria est un comté de l'[Ustalav](./Ustalav.md).
+Sinaria est un comté de l'[[Ustalav]].
 
-Le territoire occupé par le comté de Sinaria est inaccueillant, essentiellement constitué d'anciennes forêts mousseuses, de marais humides et froids (dont l'un sert de résidence au sidque dragon noir Seryzilian) et du grand [lac Prophyre](./lac Prophyre.md).
+Le territoire occupé par le comté de Sinaria est inaccueillant, essentiellement constitué d'anciennes forêts mousseuses, de marais humides et froids (dont l'un sert de résidence au sidque dragon noir Seryzilian) et du grand [[lac Prophyre]].
 
-Sur les rives du lac se trouvent la région la plus fertile et, par conséquent, la plus peuplée du comté. On y trouve des fermes qui envoient leurs récoltes à [Karcau](./Karcau.md), lumière scintillante du comté de Sinaria.
+Sur les rives du lac se trouvent la région la plus fertile et, par conséquent, la plus peuplée du comté. On y trouve des fermes qui envoient leurs récoltes à [[Karcau]], lumière scintillante du comté de Sinaria.
 
-[Karcau](./Karcau.md) est réputée pour son opéra et le nombre de génies musicaux qui s'y sont produits. Même sa dirigeante actuelle, la comtesse Sasandra Livgrace, est une ancienne beauté de l'opéra.
+[[Karcau]] est réputée pour son opéra et le nombre de génies musicaux qui s'y sont produits. Même sa dirigeante actuelle, la comtesse Sasandra Livgrace, est une ancienne beauté de l'opéra.

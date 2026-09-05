@@ -11,12 +11,12 @@ Categories:
 {s:Menuarchétypeoracle}{s:um}*Même si tous les oracles possèdent certains pouvoirs de divination, le prophète est un véritable devin, capable de voir les choses telles qu’elles sont, ou telles qu’elles seront.*
 
 #### Mystères recommandés
-[Nature](./Mystère de la nature.md), [savoir](./Mystère du savoir.md), [temps](./Mystère du temps.md)
+[[mystère de la nature|Nature]], [[mystère du savoir|savoir]], [[mystère du temps|temps]]
 
 #### Sorts supplémentaires
-*[Détection de pensées](./Détection de pensées.md)* (4), *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)* (6), *[scrutation](./scrutation.md)* (8), *[vision lucide](./Vision lucide.md)* (10), *[mythes et légendes](./Mythes et légendes.md)* (12), *[scrutation suprême](./Scrutation suprême.md)* (14), *[vision mystique](./Vision mystique.md)* (16), *[prémonition](./Prémonition.md)* (18). Ces sorts supplémentaires remplacent ceux accordés par le [mystère](./mystères.md) de l’[oracle](./Oracle.md) aux niveaux appropriés.
+*[[Détection de pensées]]* (4), *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]* (6), *[[scrutation]]* (8), *[[vision lucide]]* (10), *[[mythes et légendes]]* (12), *[[scrutation suprême]]* (14), *[[vision mystique]]* (16), *[[prémonition]]* (18). Ces sorts supplémentaires remplacent ceux accordés par le [[mystères|mystère]] de l’[[oracle]] aux niveaux appropriés.
 
 #### Révélations
-L’[oracle](./Oracle.md) doit choisir les [révélations](./Oracle.md#REVELATION) suivantes aux niveaux adéquats.
-- *Divination naturelle (Ext).* Comme la [révélation](./Oracle.md#REVELATION) du [mystère de la nature](./Mystère de la nature.md). L’[oracle](./Oracle.md) doit choisir cette [révélation](./Oracle.md#REVELATION) au niveau 1.
-- *Don de prophétie (Sur).* Une fois par jour, le personnage peut rentrer en transe pour avoir un aperçu du futur. La transe dure une minute (ininterrompue) pendant laquelle il ne peut pas entreprendre la moindre action. Au niveau 3, l’[oracle](./Oracle.md) bénéficie des effets d’un sort d’[augure](./Augure.md) avec 90% d’efficacité ; au niveau 5 d’un sort de [divination](./Divination.md) avec 90% d’efficacité et au niveau 9 d’un sort de [communion](./Communion.md). Aucun de ces sorts ne nécessite de composantes matérielles. L’[oracle](./Oracle.md) doit choisir cette [révélation](./Oracle.md#REVELATION) au niveau 3.
+L’[[oracle]] doit choisir les [[oracle#REVELATION|révélations]] suivantes aux niveaux adéquats.
+- *Divination naturelle (Ext).* Comme la [[oracle#REVELATION|révélation]] du [[mystère de la nature]]. L’[[oracle]] doit choisir cette [[oracle#REVELATION|révélation]] au niveau 1.
+- *Don de prophétie (Sur).* Une fois par jour, le personnage peut rentrer en transe pour avoir un aperçu du futur. La transe dure une minute (ininterrompue) pendant laquelle il ne peut pas entreprendre la moindre action. Au niveau 3, l’[[oracle]] bénéficie des effets d’un sort d’[[augure]] avec 90% d’efficacité ; au niveau 5 d’un sort de [[divination]] avec 90% d’efficacité et au niveau 9 d’un sort de [[communion]]. Aucun de ces sorts ne nécessite de composantes matérielles. L’[[oracle]] doit choisir cette [[oracle#REVELATION|révélation]] au niveau 3.

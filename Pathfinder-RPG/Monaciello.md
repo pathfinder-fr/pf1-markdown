@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Fée|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 135*}
 - **400 PX**
-- [Créature féerique](./type Fée.md) de taille P, CM
+- [[type fée|Créature féerique]] de taille P, CM
 - **Init **+2 ; **Sens** vision nocturne ; Perception +6
 - **Aura** entrave à la canalisation (6 m, DD 12)
 (((Défense)))
@@ -24,13 +24,13 @@ Categories:
 - **VD** 9 m
 - **Corps à corps** morsure, +4 (1d4-2) et dague, +4 (1d3-2/19-20)
 - **Pouvoirs magiques** (**NLS **3 ; concentration +4)
-  - À volonté —* [image silencieuse](./Image silencieuse.md)* (DD 12), *[son imaginaire](./Son imaginaire.md)* (DD 12), *[prestidigitation](./Prestidigitation.md), [putréfaction de l’eau et de la nourriture](./Putréfaction de leau et de la nourriture.md)* (DD 11)
-  - 1/jour — *[poussière scintillante](./Poussière scintillante.md)*
+  - À volonté —* [[image silencieuse]]* (DD 12), *[[son imaginaire]]* (DD 12), *[[prestidigitation]], [[putréfaction de leau et de la nourriture|putréfaction de l’eau et de la nourriture]]* (DD 11)
+  - 1/jour — *[[poussière scintillante]]*
 (((Statistiques)))
 - **For** 6, **Dex** 15, **Con** 14, **Int** 11, **Sag** 12, **Cha** 13
 - **BBA **+1 ; **BMO **-2 ; **DMD** 10
 - **Dons** Attaque en finesseS, RobustesseS, Talent (Discrétion)
-- **Compétences** [Bluff](./Bluff.md) +6, [Discrétion](./Discrétion.md) +18 (+14 en mouvement), [Évasion](./Évasion.md) +7, [Perception](./Perception.md) +6, [Psychologie](./Psychologie.md) +6, [Sabotage](./Sabotage.md) +8
+- **Compétences** [[Bluff]] +6, [[Discrétion]] +18 (+14 en mouvement), [[Évasion]] +7, [[Perception]] +6, [[Psychologie]] +6, [[Sabotage]] +8
 - **Modificateurs raciaux** +4 en Sabotage, +4 en Discrétion (+0 en mouvement)
 - **Langues** aklo
 - **Particularités** compression, sac magique
@@ -43,7 +43,7 @@ Categories:
 - **Sac magique (Sur)**. Le monaciello porte toujours sa bourse sur lui. Elle contient un espace extradimensionnel et fonctionne comme un sac sans fond (type I). Si la bourse est arrachée au monaciello, tout ce qu’elle contenait est perdu et elle devient un sac normal contenant un nombre de pièces égal au double de la valeur de trésor d’une créature ayant le même FP que le gremlin. Un monaciello qui perd sa bourse doit en créer une nouvelle, un processus qui lui prend 1d4 jours. Tant que la nouvelle bourse n’est pas terminée, elle reste non-magique, elle devient un espace extradimensionnel fonctionnel seulement une fois achevée.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [gremlins](./Gremlin.md).***</li></ul>*Vêtu d’une robe de moine rouge, ce petit monstre affiche un sourire aux dents très pointues et fait tourner une pièce en or entre ses doigts.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Gremlin|gremlins]].***</li></ul>*Vêtu d’une robe de moine rouge, ce petit monstre affiche un sourire aux dents très pointues et fait tourner une pièce en or entre ses doigts.*
 
 Vivant le plus souvent dans les environnements urbains, ce gremlin évolue parmi l’humanité, raillant les organisations religieuses et académiques avec ses vilains tours. On trouve le plus souvent les monacielli dans les monastères et les cathédrales où ils arrivent par les égouts et les catacombes afin de jouer des tours aux fidèles.
 

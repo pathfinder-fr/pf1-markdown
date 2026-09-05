@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Dangers naturels#PRENDREFEU
 ---
 
->>> [Dangers naturels#PRENDREFEU](./Dangers naturels.md#PRENDREFEU)
+>>> [[Dangers naturels#PRENDREFEU]]

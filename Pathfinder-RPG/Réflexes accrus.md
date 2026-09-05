@@ -6,11 +6,11 @@ Categories:
 - Sort barde 2
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 2  
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** 9 m (6 {s:c})  
 
@@ -18,6 +18,6 @@ Categories:
 
 **Durée** 1 minute/niveau ou jusqu’à déchargement  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-Le personnage accorde à chacun de ses alliés dans la zone un bonus de compétence de +10 à un unique jet de [Réflexes](./Réflexes.md). Chaque allié doit décider s’il utilise son bonus avant de faire le jet auquel il l’applique. Quand un allié utilise son bonus, le sort se termine pour lui.
+Le personnage accorde à chacun de ses alliés dans la zone un bonus de compétence de +10 à un unique jet de [[Réflexes]]. Chaque allié doit décider s’il utilise son bonus avant de faire le jet auquel il l’applique. Quand un allié utilise son bonus, le sort se termine pour lui.

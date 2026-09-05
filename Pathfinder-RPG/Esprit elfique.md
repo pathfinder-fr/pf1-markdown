@@ -12,6 +12,6 @@ Categories:
 
 **Conditions.** Demi-elfe.
 
-**Avantages.** Le personnage possède le trait racial des [elfes](./Elfe.md) magie elfique, qui lui donne un bonus racial de +2 aux tests de [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) pour vaincre la [résistance à la magie](./résistance à la magie.md). De plus, il reçoit un bonus racial de +2 aux tests d’[Art de la magie](./Art de la magie.md) pour identifier les objets magiques. Le personnage peut choisir un autre trait, que les elfes peuvent échanger contre magie elfique, à la place de celui-ci.
+**Avantages.** Le personnage possède le trait racial des [[elfe|elfes]] magie elfique, qui lui donne un bonus racial de +2 aux tests de [[niveau de lanceur de sorts]] pour vaincre la [[résistance à la magie]]. De plus, il reçoit un bonus racial de +2 aux tests d’[[Art de la magie]] pour identifier les objets magiques. Le personnage peut choisir un autre trait, que les elfes peuvent échanger contre magie elfique, à la place de celui-ci.
 
-**Spécial.** Le personnage peut choisir ce don au niveau 1 uniquement et, dans ce cas, il ne peut pas choisir [Esprit humain](./Esprit humain.md).
+**Spécial.** Le personnage peut choisir ce don au niveau 1 uniquement et, dans ce cas, il ne peut pas choisir [[Esprit humain]].

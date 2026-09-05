@@ -11,19 +11,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[sonore](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Inq](./Inquisiteur.md) 2  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|sonore]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 2  
 
-**Temps d’incantation** 1 [round](./round.md)  
+**Temps d’incantation** 1 [[round]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** 1d4 créatures vivantes  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Le personnage émet un puissant bruit qui fait vibrer la chair des vivants. Les cibles doivent faire un
-[jet de sauvegarde](./jet de sauvegarde.md) ou devenir [fiévreuses](./États préjudiciables.md). Les créatures immunisées contre les coups critiques le sont aussi contre ce sort.
+[[jet de sauvegarde]] ou devenir [[États préjudiciables|fiévreuses]]. Les créatures immunisées contre les coups critiques le sont aussi contre ce sort.

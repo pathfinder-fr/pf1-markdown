@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Dragon corde|FP 5}
 {s:pucem|Dragon|Ville|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.91](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (Contenu)|Bestiaire 5 p.91]]*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Dragon](./type Dragon.md) ([métamorphe](./sous-type métamorphe.md)) de taille P, CN}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type métamorphe|métamorphe]]) de taille P, CN}
+{s:BDTexte|**Init** +4 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 15, pris au dépourvu 16 (Dex +4, naturelle +4, taille +1)}
 {s:BDTexte|**pv** 57 (6d12+18)}
@@ -22,25 +22,25 @@ Categories:
 {s:BDTexte|**RD** 5/tranchant ; **Immunités** paralysie, sommeil}
 {s:BDTexte|**Faiblesses** vulnérable au feu}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 6 m, [vol](./Vol (capacité).md) 9 m (moyenne)}
+{s:BDTexte|**VD** 6 m, [[Vol (capacité)|vol]] 9 m (moyenne)}
 {s:BDTexte|**Corps à corps** 2 griffes, +10 (1d4+3) et morsure, +10 (1d6+3) et coup de queue, +5 (1d4+1)}
 {s:BDTexte|**Espace occupé** 1,5 m ; **Allonge** 1,5 m (3 m avec morsure)}
-{s:BDTexte|**Attaques spéciales** [souffle](./Souffle (capacité).md) (cône de 6 m, 4d6 dégâts tranchants, Réflexes DD 16 1/2 dégâts, utilisable tous les 1d4 rounds), souffle filamenteux, rouleau illusoire}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 6)}
-{s:BDSorts|À volonté — *[corde animée](./Corde animée.md)*}
+{s:BDTexte|**Attaques spéciales** [[Souffle (capacité)|souffle]] (cône de 6 m, 4d6 dégâts tranchants, Réflexes DD 16 1/2 dégâts, utilisable tous les 1d4 rounds), souffle filamenteux, rouleau illusoire}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 6)}
+{s:BDSorts|À volonté — *[[corde animée]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 18, **Con** 17, **Int** 11, **Sag** 15, **Cha** 14}
-{s:BDTexte|**BBA** +6 ; **BMO** +8 (+10 [désarmement](./désarmement.md), +10 [croc-en-jambe](./croc-en-jambe.md)) ; **DMD** 22 (24 contre [désarmement](./désarmement.md), 26 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Attaque en vol](./Attaque en vol.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md)<sup>S</sup>, [Science du désarmement](./Science du désarmement.md)<sup>S</sup>, [Talent](./Talent.md) (Discrétion)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Connaissances](./Connaissances.md) (exploration souterraine) +7, [Discrétion](./Discrétion.md) +20, [Escalade](./Escalade.md) +10, [Natation](./Natation.md) +10, [Perception](./Perception.md) +11, [Vol](./Vol.md) +15}
+{s:BDTexte|**BBA** +6 ; **BMO** +8 (+10 [[désarmement]], +10 [[croc-en-jambe]]) ; **DMD** 22 (24 contre [[désarmement]], 26 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Attaque en vol]], [[Science du croc-en-jambe]]<sup>S</sup>, [[Science du désarmement]]<sup>S</sup>, [[Talent]] (Discrétion)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Connaissances]] (exploration souterraine) +7, [[Discrétion]] +20, [[Escalade]] +10, [[Natation]] +10, [[Perception]] +11, [[Vol]] +15}
 {s:BDTexte|**Langues** commun, draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** urbain}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Souffle filamenteux (Sur).** Le souffle d’un dragon corde projette un cône de filaments abrasifs. Si une créature ciblée par ce pouvoir ne réussit pas un jet de [Réflexes](./Réflexes.md) contre le souffle du dragon, elle subit d’innombrables petites coupures et se retrouve [enchevêtrée](./Enchevêtré.md). Les filaments s’attachent aux surfaces voisines bloquent la créature enchevêtrée sur place. Elle peut néanmoins se libérer en réussissant un test de [Force](./Force.md) contre le DD du souffle par une [action complexe](./Action complexe.md), ou en infligeant 10 points de dégâts tranchants aux filaments. Au bout de 1d4 rounds, les filaments deviennent cassants et se détachent de leur cible.}
-{s:BDTexte|**Rouleau illusoire (Sur).** Par une [action simple](./Action simple.md), un dragon corde peut changer d’apparence pour ressembler à un rouleau de corde. Sous cette forme, il perd sa vitesse de vol, et sa vitesse au sol est réduite à 1,5 mètre. Il peut utiliser ses attaques de morsure et de coup de queue – toutes deux avec une allonge de 3 mètres – mais il n’est plus en mesure de griffer. Une créature qui réussit un test de [Perception](./Perception.md) contre le test de [Discrétion](./Discrétion.md) du dragon corde s’apercevra que le rouleau de corde est en réalité vivant et verra la forme du dragon qui s’y dissimule. Néanmoins, tant qu’il reste sous cette forme, le dragon corde reçoit un bonus de +20 à ses tests de Discrétion pour passer pour un rouleau de corde ordinaire ou pour se cacher au milieu d’autres rouleaux de corde. Un dragon corde peut reprendre sa forme de dragon par une [action libre](./Action libre.md).}
+{s:BDTexte|**Souffle filamenteux (Sur).** Le souffle d’un dragon corde projette un cône de filaments abrasifs. Si une créature ciblée par ce pouvoir ne réussit pas un jet de [[Réflexes]] contre le souffle du dragon, elle subit d’innombrables petites coupures et se retrouve [[enchevêtré|enchevêtrée]]. Les filaments s’attachent aux surfaces voisines bloquent la créature enchevêtrée sur place. Elle peut néanmoins se libérer en réussissant un test de [[Force]] contre le DD du souffle par une [[action complexe]], ou en infligeant 10 points de dégâts tranchants aux filaments. Au bout de 1d4 rounds, les filaments deviennent cassants et se détachent de leur cible.}
+{s:BDTexte|**Rouleau illusoire (Sur).** Par une [[action simple]], un dragon corde peut changer d’apparence pour ressembler à un rouleau de corde. Sous cette forme, il perd sa vitesse de vol, et sa vitesse au sol est réduite à 1,5 mètre. Il peut utiliser ses attaques de morsure et de coup de queue – toutes deux avec une allonge de 3 mètres – mais il n’est plus en mesure de griffer. Une créature qui réussit un test de [[Perception]] contre le test de [[Discrétion]] du dragon corde s’apercevra que le rouleau de corde est en réalité vivant et verra la forme du dragon qui s’y dissimule. Néanmoins, tant qu’il reste sous cette forme, le dragon corde reçoit un bonus de +20 à ses tests de Discrétion pour passer pour un rouleau de corde ordinaire ou pour se cacher au milieu d’autres rouleaux de corde. Un dragon corde peut reprendre sa forme de dragon par une [[action libre]].}
 
 </div></td>
 <td><div>*Ce petit dragon, qui semble être composé de rouleaux de corde, est hérissé de filaments effilochés.*

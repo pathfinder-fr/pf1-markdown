@@ -15,23 +15,23 @@ Categories:
 ---
 
 {s:racial|Kobold (race)|kobolds|Illustrations/PNJ/Kobold.jpg}{s:MR}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Apal](./Antipaladin.md) 2, [Dru](./Druide.md) 3, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Rôd](./Rôdeur.md) 2, [Sor](./Sorcière.md) 3  
+**École** [[Transmutation]] ; **Niveau** [[Antipaladin|Apal]] 2, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Rôdeur|Rôd]] 2, [[Sorcière|Sor]] 3  
 
 **Temps d'incantation** 1 minute  
 
-**Composantes** [V,G](./composantes.md)  
+**Composantes** [[Composantes|V,G]]  
 
-**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** un [piège](./Pièges.md) unique  
+**Cible** un [[pièges|piège]] unique  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
-Quand le sort est lancé, le [piège](./Pièges.md) affecté voit un de ses aspects, choisi au moment du lancement, amélioré. Le lanceur peut choisir de lui conférer n'importe quel de ces bonus (chacun augmentant le [FP](./Rencontres.md#FP) du piège de 1) :
-- Augmente de +5 le DD des jets de [Perception](./Perception.md) pour repérer le piège.
-- Augmente de +5 le DD des jets de [Sabotage](./Sabotage.md) pour désamorcer le piège
+Quand le sort est lancé, le [[pièges|piège]] affecté voit un de ses aspects, choisi au moment du lancement, amélioré. Le lanceur peut choisir de lui conférer n'importe quel de ces bonus (chacun augmentant le [[Rencontres#FP|FP]] du piège de 1) :
+- Augmente de +5 le DD des jets de [[Perception]] pour repérer le piège.
+- Augmente de +5 le DD des jets de [[Sabotage]] pour désamorcer le piège
 - Accorde un bonus de +2 aux jets d'attaque ou au DD des effets du piège.
 
-Pour lancer ce sort, il faut être conscient de l'existence du [piège](./Pièges.md) et connaître sa localisation précise. Un seul bonus peut être appliqué à la fois, et si le sort est lancé sur un piège déjà affecté par une amélioration des pièges, le bonus précédent est annulé.
+Pour lancer ce sort, il faut être conscient de l'existence du [[pièges|piège]] et connaître sa localisation précise. Un seul bonus peut être appliqué à la fois, et si le sort est lancé sur un piège déjà affecté par une amélioration des pièges, le bonus précédent est annulé.

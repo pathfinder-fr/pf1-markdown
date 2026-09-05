@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Vous savez comment fortifier les morts-vivants contre l'énergie positive.*
 
-**Condition.** [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 6d6, suivant d'[Urgathoa](./Urgathoa (technique).md).
+**Condition.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] 6d6, suivant d'[[Urgathoa (technique)|Urgathoa]].
 
-**Avantage.** Lorsqu'il canalise l'énergie négative pour soigner les créatures mortes-vivantes, il confère à tous les morts-vivants qu'il soigne une [résistance à la canalisation](./Résistance à la canalisation (capacité).md) +1 (ou un bonus de +1 à leur résistance à la canalisation existante) pendant un nombre de [rounds](./round.md) égal à son modificateur de [Charisme](./Charisme.md) (minimum 1 round).
+**Avantage.** Lorsqu'il canalise l'énergie négative pour soigner les créatures mortes-vivantes, il confère à tous les morts-vivants qu'il soigne une [[Résistance à la canalisation (capacité)|résistance à la canalisation]] +1 (ou un bonus de +1 à leur résistance à la canalisation existante) pendant un nombre de [[round|rounds]] égal à son modificateur de [[Charisme]] (minimum 1 round).

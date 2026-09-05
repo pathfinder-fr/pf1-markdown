@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Ermite
 ---
 
->>> [Ermite](./Ermite.md)
+>>> [[Ermite]]

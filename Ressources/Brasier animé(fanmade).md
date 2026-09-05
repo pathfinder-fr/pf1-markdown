@@ -10,13 +10,13 @@ LastModified: 2016-03-29 14:09
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Création de fan*}
 {s:BDTexte|**PX** 1600}
-{s:BDTexte|[Créature artificielle](./Pathfinder-RPG-type-Créature-artificielle-ashx.md) de taille P, N}
-{s:BDTexte|**Init** +0 ; **Sens** [Vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}), [Vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) -5}
+{s:BDTexte|[[Pathfinder-RPG.type Créature artificielle.ashx|Créature artificielle]] de taille P, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Pathfinder-RPG.vision dans le noir|Vision dans le noir]] 18 m (12 {s:c}), [[Pathfinder-RPG.vision nocturne|Vision nocturne]] ; [[Pathfinder-RPG.Perception|Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 12 (naturelle +6)}
 {s:BDTexte|**pv** 31 (4d10+10)}
 {s:BDTexte|**Réf** +1, **Vig** +1, **Vol** -4}
-{s:BDTexte|**Capacités défensives** [Solidité](./../Pathfinder-RPG/solidité.md) 10 ; **Immunités** [Traits des créatures artificielles](./../Pathfinder-RPG/Traits des créatures artificielles.md) }
+{s:BDTexte|**Capacités défensives** [[Pathfinder-RPG.solidité|Solidité]] 10 ; **Immunités** [[Pathfinder-RPG.traits des créatures artificielles|Traits des créatures artificielles]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 coups, +5 (1d6+3) +1d3 de feu}
@@ -29,7 +29,7 @@ LastModified: 2016-03-29 14:09
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacité spéciales}
-{s:BDTexte|**Jet de charbons ardents**: tous les 1d4 rounds le brasier peut faire sauter 1d4 charbons et les envoyer grâce au couvercle vers ses adversaires. Un jet de [Réflexe](./Pathfinder-RPG-Valeurs-de-combat-ashx.md#JETDESAUVEGARDE) (DD 15) permet de les éviter. Chaque charbon inflige 1d6 dégats + 1d4 dégats de feu.
+{s:BDTexte|**Jet de charbons ardents**: tous les 1d4 rounds le brasier peut faire sauter 1d4 charbons et les envoyer grâce au couvercle vers ses adversaires. Un jet de [[Pathfinder-RPG.Valeurs de combat.ashx#JETDESAUVEGARDE|Réflexe]] (DD 15) permet de les éviter. Chaque charbon inflige 1d6 dégats + 1d4 dégats de feu.
 Si le morceau de charbon reste au contact d'une surface inflammable, celle-ci s'embrasera 1d3+1 rounds plus tard. }
 
 

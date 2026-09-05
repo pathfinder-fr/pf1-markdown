@@ -13,11 +13,11 @@ Categories:
 
 *Vous savez infliger des sales coups pendant une lutte.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 13, [Int](./Int.md) 13, [Expertise du combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md), [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +6
+**Conditions.** [[Dex]] 13, [[Int]] 13, [[Expertise du combat]], [[Science du sale coup]], [[Science de la lutte]], [[Science du combat à mains nues]], [[BBA]] +6
 
-**Avantage.** Le personnage peut effectuer une manœuvre [sale coup](./sale coup.md) et une [lutte](./lutte.md) en même temps contre une cible unique par une [action complexe](./Action complexe.md) lorsqu'il entame ou maintient une prise. Il ne lance qu'un seul jet pour les deux manœuvres. Si le [BMO](./BMO.md) du personnage est différent pour les deux manœuvres, il prend le modificateur le plus bas. Si le [DMD](./DMD.md) de la cible est différent pour les deux manœuvres, il prend le modificateur le plus haut. Si le personnage réussit son jet, il effectue les deux manœuvres avec succès.
+**Avantage.** Le personnage peut effectuer une manœuvre [[sale coup]] et une [[lutte]] en même temps contre une cible unique par une [[action complexe]] lorsqu'il entame ou maintient une prise. Il ne lance qu'un seul jet pour les deux manœuvres. Si le [[BMO]] du personnage est différent pour les deux manœuvres, il prend le modificateur le plus bas. Si le [[DMD]] de la cible est différent pour les deux manœuvres, il prend le modificateur le plus haut. Si le personnage réussit son jet, il effectue les deux manœuvres avec succès.
 
 (((Dirty Grapple (Combat)
 

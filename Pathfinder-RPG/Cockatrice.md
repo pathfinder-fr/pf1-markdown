@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Créature magique|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.48*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille P, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille P, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 11 (Dex +3, esquive +1, taille +1)}
 {s:BDTexte|**pv** 27 (5d10)}
@@ -25,14 +25,14 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 17, **Con** 11, **Int** 2, **Sag** 13, **Cha** 8}
 {s:BDTexte|**BBA** +5, **BMO** +2, **DMD** 16}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +10, [Vol](./Vol.md) +6}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Esquive]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +10, [[Vol]] +6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple, vol (3-5) ou nichée (6-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Pétrification (Sur)** La morsure d'une cockatrice cause un durcissement et une calcification de la peau et de multiples morsures peuvent fossiliser un être vivant en une statue de pierre. Chaque fois qu'une créature est blessée par une morsure de cockatrice, elle doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 12 pour éviter de subir un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 points de [Dextérité](./Dextérité.md) à cause de raideurs et de durcissements dans sa chair et ses os (cette modification lente ne modifie toutefois pas l'armure naturelle de la créature). Si une morsure de cockatrice fait tomber la [Dextérité](./Dextérité.md) de la victime à 0, celle-ci se transforme immédiatement en pierre comme si elle avait été pétrifiée par un sort de *[pétrification](./Pétrification.md)*. Chaque jour, la créature pétrifiée peut tenter un nouveau jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 12 pour mettre fin à cet effet. Lorsque cela se produit, la victime se transforme à nouveau en chair et possède une [Dextérité](./Dextérité.md) de 1 (à partir de ce moment-là, il lui est possible de regagner les points de [Dextérité](./Dextérité.md) perdus guérissant naturellement ou par magie). Cependant, si la créature pétrifiée rate trois jets de [Vigueur](./Vigueur.md) consécutifs, la pétrification devient permanente. Si la pétrification est annulée par magie, les affaiblissements de [Dextérité](./Dextérité.md) que les morsures de cockatrice ont infligés à la victime disparaissent mais ce n'est pas le cas des autres affaiblissements. Les cockatrices sont immunisées contre leur propre pouvoir de pétrification et celui des autres cockatrices, mais les attaques de pétrification traditionnelles fonctionnent normalement sur elles. Le [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Pétrification (Sur)** La morsure d'une cockatrice cause un durcissement et une calcification de la peau et de multiples morsures peuvent fossiliser un être vivant en une statue de pierre. Chaque fois qu'une créature est blessée par une morsure de cockatrice, elle doit réussir un jet de [[Vigueur]] de [[DD]] 12 pour éviter de subir un [[affaiblissement temporaire]] de 1d4 points de [[Dextérité]] à cause de raideurs et de durcissements dans sa chair et ses os (cette modification lente ne modifie toutefois pas l'armure naturelle de la créature). Si une morsure de cockatrice fait tomber la [[Dextérité]] de la victime à 0, celle-ci se transforme immédiatement en pierre comme si elle avait été pétrifiée par un sort de *[[pétrification]]*. Chaque jour, la créature pétrifiée peut tenter un nouveau jet de [[Vigueur]] de [[DD]] 12 pour mettre fin à cet effet. Lorsque cela se produit, la victime se transforme à nouveau en chair et possède une [[Dextérité]] de 1 (à partir de ce moment-là, il lui est possible de regagner les points de [[Dextérité]] perdus guérissant naturellement ou par magie). Cependant, si la créature pétrifiée rate trois jets de [[Vigueur]] consécutifs, la pétrification devient permanente. Si la pétrification est annulée par magie, les affaiblissements de [[Dextérité]] que les morsures de cockatrice ont infligés à la victime disparaissent mais ce n'est pas le cas des autres affaiblissements. Les cockatrices sont immunisées contre leur propre pouvoir de pétrification et celui des autres cockatrices, mais les attaques de pétrification traditionnelles fonctionnent normalement sur elles. Le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>*Cet horrible volatile possède le corps d’un coq famélique, les ailes d’une chauve-souris et une longue queue couverte d’écailles.*
 

@@ -10,21 +10,21 @@ LastModified: 2023-06-29 13:08
 <i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
 </div>
 <div class="contenumenuPF2">
-[Campagnes](./AP.md)
-[Aventures longues](./AL.md)
-[Aventures courtes](./AC.md)
-[Aides de jeu](./ADJA.md)
+[[AP|Campagnes]]
+[[AL|Aventures longues]]
+[[AC|Aventures courtes]]
+[[ADJA|Aides de jeu]]
 </div>
 </div>
 
-**Note** : cette page ne reprend que les aides de jeu pour les aventures longues et aventures courtes ; les aides de jeu liées à une campagne se trouvent sur la page de description de la [campagne](./AP.md) en question.
+**Note** : cette page ne reprend que les aides de jeu pour les aventures longues et aventures courtes ; les aides de jeu liées à une campagne se trouvent sur la page de description de la [[AP|campagne]] en question.
 
 <nav class="wiki-toc"></nav>
 
 ### Fall of Plaguestone / La chute de Pestepierre
 
 <div class="itemmenu">
-{s:ItemPF2|PNJ illustrés|Des illustrations pour les PNJ de Fall of Plaguestone par Luigi (aussi disponibles au [format PDF](.//Wiki/public/Upload/ADJ/PF2/Plaguestone-NPCs-pdf.md)))|/Wiki/public/Upload/ADJ/PF2/Plaguestone-NPCs.zip|/Wiki/public/Upload/Illustrations/Wiki/PF2/Img/vig PNJ-Plaguestone.webp}
+{s:ItemPF2|PNJ illustrés|Des illustrations pour les PNJ de Fall of Plaguestone par Luigi (aussi disponibles au [[/Wiki/public/Upload/ADJ/PF2/Plaguestone-NPCs.pdf|format PDF]]))|/Wiki/public/Upload/ADJ/PF2/Plaguestone-NPCs.zip|/Wiki/public/Upload/Illustrations/Wiki/PF2/Img/vig PNJ-Plaguestone.webp}
 
 </div>
 

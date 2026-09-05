@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Saignement
 ---
 
->>> [États préjudiciables#Saignement](./États préjudiciables.md#Saignement)
+>>> [[États préjudiciables#Saignement]]

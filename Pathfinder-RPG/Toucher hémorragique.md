@@ -15,12 +15,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Zon-Kuthon|%2fPCUP%2fReligion-PNG%2fZon-Kuthon.png}{s:ISG}{s:GeM}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Antipal](./Antipaladin.md) 2, [Cham](./Chaman.md) 2, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
+{s:divin|Zon-Kuthon|%2fPCUP%2fReligion-PNG%2fZon-Kuthon.png}{s:ISG}{s:GeM}**École** [[Nécromancie]] ; **Niveau** [[Antipaladin|Antipal]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
 **Portée** contact
 **Cible** une créature vivante touchée
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
+**Durée** 1 [[round]]/[[niveau]]
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
-Ce sort provoque un abondant saignement de toutes les blessures existantes de la cible. Si le total actuel de ses [points de vie](./pv.md) est en-dessous de son maximum, le sortilège lui fait subir 1 point de dégâts de [saignement](./Saignement.md) à chaque [round](./round.md) et elle est [épuisée](./Épuisé.md) pour toute la durée du sort. Un test de [Premiers secours](./Premiers secours.md) [DD](./DD.md) 15 réussi ou n’importe quel sort guérissant des points de vie en annule les effets de ce sort.
+Ce sort provoque un abondant saignement de toutes les blessures existantes de la cible. Si le total actuel de ses [[pv|points de vie]] est en-dessous de son maximum, le sortilège lui fait subir 1 point de dégâts de [[saignement]] à chaque [[round]] et elle est [[épuisé|épuisée]] pour toute la durée du sort. Un test de [[Premiers secours]] [[DD]] 15 réussi ou n’importe quel sort guérissant des points de vie en annule les effets de ce sort.

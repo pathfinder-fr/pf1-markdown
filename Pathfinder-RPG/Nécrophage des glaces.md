@@ -14,30 +14,30 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Froid}
 {s:BDTexte|*Source : Bestiaire 2 p.204*}
 {s:BDTexte|**PX** 102.400}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([froid](./sous-type froid.md)) de taille M, CM}
-{s:BDTexte|**Init** +10 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +27}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type froid|froid]]) de taille M, CM}
+{s:BDTexte|**Init** +10 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +27}
 {s:BDTexte|**Aura** Aura de froid (3 m (2 {s:c}))}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 32, contact 16, pris au dépourvu 26 (Dex +6, naturelle +16)}
-{s:BDTexte|**pv** 270 (20d8+180) ; [guérison accélérée](./guérison accélérée.md) 10}
+{s:BDTexte|**pv** 270 (20d8+180) ; [[guérison accélérée]] 10}
 {s:BDTexte|**Réf** +14, **Vig** +15, **Vol** +16}
-{s:BDTexte|**Capacités défensives** [résistance à la canalisation](./résistance à la canalisation.md) +4 ; **Immunités**
-froid, [traits des morts-vivants](./Traits des morts-vivants.md) ; **RD** 15/contondant et Bien ; **RM** 28 }
+{s:BDTexte|**Capacités défensives** [[résistance à la canalisation]] +4 ; **Immunités**
+froid, [[traits des morts-vivants]] ; **RD** 15/contondant et Bien ; **RM** 28 }
 {s:BDTexte|**Faiblesses** vulnérable au feu }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +30 (2d8+15 plus feu sombre) et 2 griffes, +30 (2d6+15 plus feu sombre)}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration.md) (2 griffes 2d8+22)}
+{s:BDTexte|**Attaques spéciales** [[éventration]] (2 griffes 2d8+22)}
 {s:BDTexte|*Pouvoirs magiques* (NLS 17<sup>e</sup> ; concentration +26)}
-{s:BDSorts|Constant — *[marche dans les airs](./Marche dans les airs.md)*}
-{s:BDSorts|À volonté — *[cône de froid](./Cône de froid.md)* (DD 24), *[dissipation suprême](./Dissipation suprême.md)*, *[mur de glace](./Mur de glace.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*, *[tempête de neige](./Tempête de neige.md)*}
-{s:BDSorts|3/jour — *[rayon polaire](./Rayon polaire.md)*}
-{s:BDSorts|1/jour — *[contrôle du climat](./Contrôle du climat.md)*}
+{s:BDSorts|Constant — *[[marche dans les airs]]*}
+{s:BDSorts|À volonté — *[[cône de froid]]* (DD 24), *[[dissipation suprême]]*, *[[mur de glace]]*, *[[porte dimensionnelle]]*, *[[tempête de neige]]*}
+{s:BDSorts|3/jour — *[[rayon polaire]]*}
+{s:BDSorts|1/jour — *[[contrôle du climat]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 40, **Dex** 23, **Con** — , **Int** 11, **Sag** 18, **Cha** 29}
 {s:BDTexte|**BBA** +15, **BMO** +30, **DMD** 46}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive](./Frappe décisive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +26, [Discrétion](./Discrétion.md) +29, [Intimidation](./Intimidation.md) +32, [Perception](./Perception.md) +27}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Combat en aveugle]], [[Critique ralentissant]], [[Don pour les critiques]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Réflexes surhumains]], [[Science de la frappe décisive]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +26, [[Discrétion]] +29, [[Intimidation]] +32, [[Perception]] +27}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme, climat froid}
@@ -48,19 +48,19 @@ froid, [traits des morts-vivants](./Traits des morts-vivants.md) ; **RD** 15/con
 d’une aura de froid glacial sur un rayon de 3 mètres. Toutes
 les créatures situées dans cette zone au cours du tour du nécrophage
 des glaces subissent 2d10 points de dégâts de froid.
-Toutes les créatures du [sous-type du froid](./sous-type froid.md) situées dans la zone
+Toutes les créatures du [[sous-type froid|sous-type du froid]] situées dans la zone
 (y compris le nécrophage des glaces) fonctionnent comme si elle
-bénéficiaient de la capacité de [guérison accélérée](./guérison accélérée.md) 10.}
+bénéficiaient de la capacité de [[guérison accélérée]] 10.}
 {s:BDTexte|**Feu sombre (Sur)** Chaque fois qu’un nécrophage des glaces blesse
 une créature en la mordant ou en la griffant, des langues
 de feu sombre jaillissent de la blessure. Pendant les
 5 rounds qui suivent, la victime doit réussir un jet de
-[Vigueur](./Vigueur.md) contre un [DD](./DD.md) de 29 au début de son tour
-pour ne pas subir une [diminution permanente](./diminution permanente.md) de 1d6 points de
-[Constitution](./Constitution.md). Le nécrophage des glaces récupère 10 [points de vie temporaire](./affaiblissement temporaire.md) chaque fois que la créature rate un jet de sauvegarde
+[[Vigueur]] contre un [[DD]] de 29 au début de son tour
+pour ne pas subir une [[diminution permanente]] de 1d6 points de
+[[Constitution]]. Le nécrophage des glaces récupère 10 [[affaiblissement temporaire|points de vie temporaire]] chaque fois que la créature rate un jet de sauvegarde
 contre le feu sombre. Une créature ne peut être affectée
-que par un feu sombre à la fois. Le [DD](./DD.md) du jet de sauvegarde
-dépend du [Charisme](./Charisme.md).}
+que par un feu sombre à la fois. Le [[DD]] du jet de sauvegarde
+dépend du [[Charisme]].}
 </div>
 </td><td><div>''Cette créature squelettique armée de longues griffes est de taille humaine et de
 couleur bleue. Son corps est partiellement recouvert d’éclats de glace acérés.''

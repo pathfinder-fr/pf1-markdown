@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Actions spéciales#ARMEASPERSION
 ---
 
->>> [Pathfinder-RPG.Actions spéciales#ARMEASPERSION](./Actions spéciales.md#ARMEASPERSION)
+>>> [[Pathfinder-RPG.Actions spéciales#ARMEASPERSION]]

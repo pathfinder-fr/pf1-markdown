@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [fiche de créature](./Androïde.md) d'un androïde standard.***
+{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [[Androïde|fiche de créature]] d'un androïde standard.***
 
 Les androïdes sont rares dans la région de la mer Intérieure. Transportés sur Golarion pendant la Pluie d’étoiles il y a plusieurs milliers d’années, les androïdes se sont retrouvés isolés sur une planète étrangère mais pas totalement inhospitalière. Leur ressemblance avec les humains leur permet de trouver un certain refuge dans la société humaine, même si certains ne reculent devant rien pour les capturer et les exploiter sans relâche.
 
@@ -21,12 +21,12 @@ Les androïdes sont des êtres fabriqués, et non pas mis au monde, qui sont dé
 {s:Reference|TRAITSSTANDARD}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Dextérité](./Dextérité.md), +2 [Intelligence](./Intelligence.md), -2 [Charisme](./Charisme.md).** Les androïdes sont rapides et très intelligents, mais ils ont du mal à interagir avec autrui.
-- **Sens exceptionnels (Ext).** Les androïdes [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres et possède la [vision nocturne](./Vision nocturne (capacité).md). Ils bénéficient également d’un bonus racial de +2 aux tests de [Perception](./Perception.md).
-- **Afflux de nanites (Ext).** Le corps d’un androïde contient des nanites. Une fois par jour et par une [action immédiate](./Action immédiate.md), un androïde peut provoquer un afflux de ces nanites qui lui confère un bonus égal à 3 + son niveau de personnage sur n’importe quel type de jet avec un d20 ; ce pouvoir doit être activé avant d’effectuer le jet. Quand un androïde utilise ce pouvoir, ses tatouages à l’aspect de circuits électriques se mettent à luire en diffusant une lumière équivalente à celle d’une [torche](./Torche (objet).md) pendant un round.
-- **Dépourvu d’émotion (Ext).** Les androïdes ne peuvent jamais bénéficier de bonus de moral et sont immunisés contre les effets de [terreur](./Registre.md) et d’[émotion](./Registre.md). Ils éprouvent des difficultés à analyser les émotions et subissent donc un malus de -4 aux tests de [Psychologie](./Psychologie.md).
-- **Fabriqué (Ext).** En ce qui concerne les effets qui ciblent les créatures selon leur type (tels que l'[ennemi juré](./Rôdeur.md#ENNEMIJURE) d’un rôdeur ou les armes *[tueuses](./tueuse (propriété).md)*), les androïdes sont considérés à la fois comme des [humanoïdes](./type Humanoïde.md) et des [créatures artificielles](./type Créature artificielle.md). Les androïdes bénéficient d’un bonus racial de +4 aux [jets de sauvegarde](./JDS.md) contre les effets mentaux, la paralysie, le poison et les effets d’étourdissement. Ils sont immunisés à la fatigue et à l’épuisement, aux maladies et aux effets de sommeil. Ils ne peuvent jamais gagner de bonus de moral et sont immunisés aux effets de terreur et à tous les effets basés sur les émotions.
-- **Langues.** Les androïdes commencent le jeu en parlant le commun. Ceux qui possèdent une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues de leur choix (sauf les langues secrètes comme celle des [druides](./Druide.md##LANGUESSUPPLEMENTAIRES)).
+- **+2 [[Dextérité]], +2 [[Intelligence]], -2 [[Charisme]].** Les androïdes sont rapides et très intelligents, mais ils ont du mal à interagir avec autrui.
+- **Sens exceptionnels (Ext).** Les androïdes [[Vision dans le noir (capacité)|voient dans le noir]] à 18 mètres et possède la [[VIsion nocturne (capacité)|vision nocturne]]. Ils bénéficient également d’un bonus racial de +2 aux tests de [[Perception]].
+- **Afflux de nanites (Ext).** Le corps d’un androïde contient des nanites. Une fois par jour et par une [[action immédiate]], un androïde peut provoquer un afflux de ces nanites qui lui confère un bonus égal à 3 + son niveau de personnage sur n’importe quel type de jet avec un d20 ; ce pouvoir doit être activé avant d’effectuer le jet. Quand un androïde utilise ce pouvoir, ses tatouages à l’aspect de circuits électriques se mettent à luire en diffusant une lumière équivalente à celle d’une [[Torche (objet)|torche]] pendant un round.
+- **Dépourvu d’émotion (Ext).** Les androïdes ne peuvent jamais bénéficier de bonus de moral et sont immunisés contre les effets de [[registre|terreur]] et d’[[registre|émotion]]. Ils éprouvent des difficultés à analyser les émotions et subissent donc un malus de -4 aux tests de [[Psychologie]].
+- **Fabriqué (Ext).** En ce qui concerne les effets qui ciblent les créatures selon leur type (tels que l'[[Rôdeur#ENNEMIJURE|ennemi juré]] d’un rôdeur ou les armes *[[tueuse (propriété)|tueuses]]*), les androïdes sont considérés à la fois comme des [[type Humanoïde|humanoïdes]] et des [[type Créature artificielle|créatures artificielles]]. Les androïdes bénéficient d’un bonus racial de +4 aux [[jds|jets de sauvegarde]] contre les effets mentaux, la paralysie, le poison et les effets d’étourdissement. Ils sont immunisés à la fatigue et à l’épuisement, aux maladies et aux effets de sommeil. Ils ne peuvent jamais gagner de bonus de moral et sont immunisés aux effets de terreur et à tous les effets basés sur les émotions.
+- **Langues.** Les androïdes commencent le jeu en parlant le commun. Ceux qui possèdent une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues de leur choix (sauf les langues secrètes comme celle des [[druide##LANGUESSUPPLEMENTAIRES|druides]]).
 
 </div>
 
@@ -35,7 +35,7 @@ Les androïdes sont des êtres fabriqués, et non pas mis au monde, qui sont dé
 Il est possible de choisir les traits raciaux suivants à la place des traits raciaux existants des androïdes. Consultez votre MJ avant de prendre ces options.
 
 <u>*Remplace « afflux de nanites » :*</u>
-- **Nanites réparatrices.** Certains androïdes ne peuvent pas demander à leurs nanites de les aider dans quelconque entreprise, mais constatent que leurs nanites recousent leur blessures. La première fois chaque jour qu'un androïde subit un nombre de points de dégâts égal ou supérieur au double de leur nombre de [Dés de vie](./../Ressources/DV.md), les nanites s'activent automatiquement, sans nécessiter d'action. Leurs tatouages-circuits brillent d'une lumière équivalente à celle d'une [torche](./Torche (objet).md) pendant 1 round et ils récupèrent un nombre de [points de vie](./pv.md) égal au au double de leur nombre de Dés de vie. Ce trait racial remplace afflux de nanites.
+- **Nanites réparatrices.** Certains androïdes ne peuvent pas demander à leurs nanites de les aider dans quelconque entreprise, mais constatent que leurs nanites recousent leur blessures. La première fois chaque jour qu'un androïde subit un nombre de points de dégâts égal ou supérieur au double de leur nombre de [[DV|Dés de vie]], les nanites s'activent automatiquement, sans nécessiter d'action. Leurs tatouages-circuits brillent d'une lumière équivalente à celle d'une [[torche (objet)|torche]] pendant 1 round et ils récupèrent un nombre de [[pv|points de vie]] égal au au double de leur nombre de Dés de vie. Ce trait racial remplace afflux de nanites.
 
 
 ### Nouvelles règles raciales
@@ -51,12 +51,12 @@ Voici les options accessibles aux androïdes, d’autres races adaptées peuvent
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Connexion mentale alien](./Connexion mentale alien.md) || <sup>*ISR*</sup> || [Androïde](./Androïde (race).md), [kasatha](./Kasatha (race).md), [lashunta](./Lashunta (race).md), ou [triaxien](./Triaxien (race).md) || +4 aux jets de sauvegarde contre les effets mentaux et les scrutations
+| [[Connexion mentale alien]] || <sup>*ISR*</sup> || [[Androïde (race)|Androïde]], [[Kasatha (race)|kasatha]], [[Lashunta (race)|lashunta]], ou [[Triaxien (race)|triaxien]] || +4 aux jets de sauvegarde contre les effets mentaux et les scrutations
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Objets magiques
-- [Lunettes de lecture des pensées](./Lunettes de lecture des pensées.md) *(ISR)*
+- [[Lunettes de lecture des pensées]] *(ISR)*
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Samsaran (race)|samsarans|Illustrations/PNJ/Samsaran.jpg}{s:MR}**Prix** 25 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Cette petite bobine en bois tourne librement à l’intérieur d’un boîtier. Sur la face extérieure de la bobine sont inscrites des dizaines de prières samsarans, ainsi que des noms ou des symboles associés aux vies passées du samsaran. Les [samsarans](./samsaran (race).md) pensent que faire tourner la bobine pendant leurs méditations renforce les connexions spirituelles entre leurs anciennes vies. Si un samsaran médite avec sa roue pendant au moins 10 minutes en se concentrant sur une question de [Connaissances](./Connaissances.md) (histoire) relative à sa propre histoire ou à celles de ses vies passées, il reçoit un bonus d’intuition de +1 à son test.
+Cette petite bobine en bois tourne librement à l’intérieur d’un boîtier. Sur la face extérieure de la bobine sont inscrites des dizaines de prières samsarans, ainsi que des noms ou des symboles associés aux vies passées du samsaran. Les [[Samsaran (race)|samsarans]] pensent que faire tourner la bobine pendant leurs méditations renforce les connexions spirituelles entre leurs anciennes vies. Si un samsaran médite avec sa roue pendant au moins 10 minutes en se concentrant sur une question de [[Connaissances]] (histoire) relative à sa propre histoire ou à celles de ses vies passées, il reçoit un bonus d’intuition de +1 à son test.

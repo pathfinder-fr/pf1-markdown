@@ -8,6 +8,6 @@ Categories:
 
 Un lanceur de sorts possède un montant limité d’énergie magique à sa disposition pour alimenter les sorts qu’il connaît et peut lancer.
 
-Ce pouvoir est représenté par les emplacements de sorts. Chaque lanceur possède un nombre d’emplacements pour chaque [niveau de sort](./Niveau de sort.md) qu’il peut lancer. Un sort du troisième niveau implique nécessairement que le lanceur utilise un emplacement de sort de 3<sup>ème</sup> niveau pour être lancé. Si le lanceur de sorts ne possède que deux emplacements de sorts de ce niveau, il ne peut plus lancer qu’un seul sort de ce même niveau. S'il en lance un second, il ne pourra plus en lancer aucun de ce niveau — jusqu’à ce qu’il regagne ses emplacements de sort.
+Ce pouvoir est représenté par les emplacements de sorts. Chaque lanceur possède un nombre d’emplacements pour chaque [[niveau de sort]] qu’il peut lancer. Un sort du troisième niveau implique nécessairement que le lanceur utilise un emplacement de sort de 3<sup>ème</sup> niveau pour être lancé. Si le lanceur de sorts ne possède que deux emplacements de sorts de ce niveau, il ne peut plus lancer qu’un seul sort de ce même niveau. S'il en lance un second, il ne pourra plus en lancer aucun de ce niveau — jusqu’à ce qu’il regagne ses emplacements de sort.
 
 Un lanceur de sorts regagne les emplacements de sorts utilisés après une bonne nuit de sommeil, ce qui signifie un nombre de huit heures de sommeil sans plus d’une seule interruption. Le lanceur ne peut regagner les emplacements de sort plus d’une fois en 24 heures.

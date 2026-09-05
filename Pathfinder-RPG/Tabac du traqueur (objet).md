@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 200 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 30
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Quand on l’inhale, ce tabac traité alchimiquement améliore grandement les sens du personnage, notamment son sens de l’odorat. Il accorde le pouvoir [odorat](./Odorat (capacité).md) et un bonus alchimique de +2 aux tests de [Perception](./Perception.md) pendant 1 heure. Cela dit, une fois que les effets se dissipent, le corps du personnage est soumis à de terribles douleurs tandis que ses articulations commencent à se raidir et se bloquent, l’affligeant d’un [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d2 points de [Dextérité](./Dextérité.md).
+Quand on l’inhale, ce tabac traité alchimiquement améliore grandement les sens du personnage, notamment son sens de l’odorat. Il accorde le pouvoir [[Odorat (capacité)|odorat]] et un bonus alchimique de +2 aux tests de [[Perception]] pendant 1 heure. Cela dit, une fois que les effets se dissipent, le corps du personnage est soumis à de terribles douleurs tandis que ses articulations commencent à se raidir et se bloquent, l’affligeant d’un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d2 points de [[Dextérité]].

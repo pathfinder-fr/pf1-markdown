@@ -9,6 +9,6 @@ Categories:
 ---
 
 {s:AE}{s:UC}**Prix** 1 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span> ([orientale](./Armes orientales.md))
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span> ([[armes orientales|orientale]])
 ---
-{s:Desambi|Dans l'<u>Art de la guerre</u>, cet objet est aussi appelé "étui en bambou".}Ces flèches de 30 centimètres de long sont utilisées comme munitions pour les [lance-flèches](./lance-flèche (arme).md). En tant qu’armes de corps à corps [improvisées](./arme improvisée.md), elles infligent des dégâts équivalents à ceux d’un [gantelet clouté](./Gantelet clouté (arme).md). Elles sont livrées dans un tube de bambou en contenant 10.
+{s:Desambi|Dans l'<u>Art de la guerre</u>, cet objet est aussi appelé "étui en bambou".}Ces flèches de 30 centimètres de long sont utilisées comme munitions pour les [[lance-flèche (arme)|lance-flèches]]. En tant qu’armes de corps à corps [[arme improvisée|improvisées]], elles infligent des dégâts équivalents à ceux d’un [[gantelet clouté (arme)|gantelet clouté]]. Elles sont livrées dans un tube de bambou en contenant 10.

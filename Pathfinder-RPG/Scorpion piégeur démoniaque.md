@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Créature magique|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Guide de la Plaie du monde p.62*}
 {s:BDTexte|**PX** 6 400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([vermine](./type Vermine.md) [altérée](./sous-type altéré.md), [démon](./sous-type démon.md)) de taille TG, CM}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[type vermine|vermine]] [[sous-type altéré|altérée]], [[sous-type démon|démon]]) de taille TG, CM}
 {s:BDTexte|**Init** +2 ; **Sens** vision dans le noir à 18 m, perception des vibrations à
 18 m ; Perception +19}
 (((DÉFENSES)))
@@ -49,7 +49,7 @@ round pendant 6 rounds ; effet affaiblissement temporaire de 1d4
 For ; guérison 2 réussites consécutives.}
 </div>
 </td><td><div class="BD">
-Voir l'[archétype](./Vermine démoniaque, archétype.md)
+Voir l'[[Vermine démoniaque, archétype|archétype]]
 
 ''Cette vermine démesurée présente des caractéristiques démoniaques et
 un reflet évident d’intelligence au fond des yeux.''

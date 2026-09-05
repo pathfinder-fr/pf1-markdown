@@ -8,11 +8,11 @@ Categories:
 - Ville
 ---
 
-Vigile s'est développée autour d'un immense observatoire situé en altitude au coeur de [Pics de Givre](./Pics de Givre.md), à proximité de la frontière est du [Brévoy](./Brévoy.md).
+Vigile s'est développée autour d'un immense observatoire situé en altitude au coeur de [[Pics de Givre]], à proximité de la frontière est du [[Brévoy]].
 
 L'observatoire est plus ancien que tous les villages connus de la région, et son origine reste mystérieuse. Les structures les plus anciennes ont été construites pour des êtres bien plus grands que les humains et sont protégées à travers les âges par une très puissante magie.
 
-La ville de Vigile commença par être un simple avant-poste construit au tout début de l'histoire de l'[Issie](./Issie.md) par la Maison Surtova en vue d'étudier l'observatoire. Cette fortification fut conquise par les Aldori pendant la très longue guerre qui opposa l'[Issie](./Issie.md) au [Rostland](./Rostland.md) et fut transformée en forteresse bien après que Choral opéra la réunification des deux antagonistes.
+La ville de Vigile commença par être un simple avant-poste construit au tout début de l'histoire de l'[[Issie]] par la Maison Surtova en vue d'étudier l'observatoire. Cette fortification fut conquise par les Aldori pendant la très longue guerre qui opposa l'[[Issie]] au [[Rostland]] et fut transformée en forteresse bien après que Choral opéra la réunification des deux antagonistes.
 
 Quelques années après sa prise de pouvoir, Choral et ses alliés dragons rouges firent plier les séparatistes Aldori de Vigile, réduisant la forteresse en cendre. Choral, puis plus tard les membres de la Maison Rogarvia, se mirent à la recherche de l'ancien observatoire après la défaite des Aldori et édifièrent la ville de Vigile au dessus des ruines de l'ancien village.
 

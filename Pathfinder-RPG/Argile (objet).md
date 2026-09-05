@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Ces 500 grammes d'argile sont vendus dans une boîte hermétique permettant de la garder sous forme de pâte fraîche. Elle se solidifie à la lumière du soleil, à la cuisson ou sous l'influence de n'importe quelle source de chaleur.

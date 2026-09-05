@@ -11,6 +11,6 @@ Categories:
 
 {s:apg}*L’estomac du personnage est particulièrement résistant.*
 
-**Conditions.** [Con](./Constitution.md) 13 ; [demi-orque](./Demi-orque.md), [nain](./Nain.md) ou [orque](./Orque.md).
+**Conditions.** [[constitution|Con]] 13 ; [[demi-orque]], [[nain]] ou [[orque]].
 
-**Avantage.** Le personnage gagne un bonus racial de +2 aux [jets de sauvegarde](./jet de sauvegarde.md) contre tout effet infligeant l’état préjudiciable [fiévreux](./Fiévreux.md) ou [nauséeux](./Nauséeux.md) ainsi que contre les [poisons](./poison.md) ingérés (mais pas les autres). En plus de cela, il reçoit un bonus de +2 aux tests de [Survie](./Survie.md) pour trouver de la nourriture pour lui-même (et seulement lui-même).
+**Avantage.** Le personnage gagne un bonus racial de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre tout effet infligeant l’état préjudiciable [[fiévreux]] ou [[nauséeux]] ainsi que contre les [[poison|poisons]] ingérés (mais pas les autres). En plus de cela, il reçoit un bonus de +2 aux tests de [[Survie]] pour trouver de la nourriture pour lui-même (et seulement lui-même).

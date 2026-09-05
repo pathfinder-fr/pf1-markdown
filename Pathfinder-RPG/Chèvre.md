@@ -10,8 +10,8 @@ LastModified: 2017-05-11 15:51
 {s:pucem|Animal|Montagnes|Tempéré}
 {s:BDTexte|*Sources : Art de la Magie p.117 ; Bestiaire 3 p.116*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 12 (Dex +1, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -22,8 +22,8 @@ LastModified: 2017-05-11 15:51
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 13, **Con** 12, **Int** 2, **Sag** 11, **Cha** 5}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 11 (15 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Aisance](./Aisance.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +1 (saut +5), [Escalade](./Escalade.md) +5, [Survie](./Survie.md) +0 (+4 pour trouver de la nourriture) ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4 lors d’un saut, [Survie](./Survie.md) +4 pour trouver de la nourriture}
+{s:BDTexte|**Dons** [[Aisance]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +1 (saut +5), [[Escalade]] +5, [[Survie]] +0 (+4 pour trouver de la nourriture) ; **Modificateurs raciaux** [[Acrobaties]] +4 lors d’un saut, [[Survie]] +4 pour trouver de la nourriture}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** n’importe}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupeau (3-12)}

@@ -13,9 +13,9 @@ Categories:
 {s:pucem|humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Codex monstrueux p.121*}
 {s:BDTexte|**PX** 4800}
-{s:BDTexte|[Hobgobelin](./Hobgobelin.md) [prêtre](./Prêtre.md) 9}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille M, LM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m (12 {s:c}); [Perception](./Perception.md) +3}
+{s:BDTexte|[[Hobgobelin]] [[prêtre]] 9}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille M, LM}
+{s:BDTexte|**Init** +0 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m (12 {s:c}); [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 10, pris au dépourvu 18 (armure +8)}
 {s:BDTexte|**pv** 71 (9d8+27)}
@@ -24,26 +24,26 @@ Categories:
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** *morgenstern +1*, +9/+4 (1d8+3)}
 {s:BDTexte|**Distance** arbalète lourde de maître, +7 (1d10/19-20)}
-{s:BDTexte|**Attaques spéciales** [bâton de la loi](./Domaine de la Loi.md) (4 rounds, 1/jour), [canalisation d’énergie négative](./Prêtre.md#CANALISATIONDENERGIE) 6/jour (DD 19, 5d6), [maîtrise des armes](./Domaine de la Guerre.md) (9 rounds/jour)}
-{s:BDTexte|**Pouvoirs magiques de domaine** ([NLS](./NLS.md) 9 ; [concentration](./concentration.md) +12)}
-{s:BDSorts|6/jour — *[rage de combat](./Domaine de la Guerre.md)* (+4), *[toucher de la loi](./Domaine de la Loi.md)*}
-{s:BDTexte|**Sorts de prêtre préparés** ([NLS](./NLS.md) 9 ; [concentration](./concentration.md) +12)}
-{s:BDSorts|5e — *[colonne de feu](./Colonne de feu.md)* (DD18), *[force du colosse](./Force du colosse.md)*}
-{s:BDSorts|4e — *[bénédiction de ferveur](./Bénédiction de ferveur.md)*, *[puissance divine](./Puissance divine.md)*, *[soins intensifs](./Soins intensifs.md)*}
-{s:BDSorts|3e — *[cécité/surdité](./Cécitésurdité.md)* (DD 16), *[cercle magique contre le Chaos](./Cercle magique contre le Chaos.md)*, *[dissipation de la magie](./Dissipation de la magie.md)*, *[prière](./Prière.md)*, *[soins importants](./Soins importants.md)*}
-{s:BDSorts|2e — *[aide](./Aide.md)*, *[arme spirituelle](./Arme spirituelle.md)*, *[cacophonie](./Cacophonie.md)* (DD15), *[endurance de l’ours](./Endurance de lours.md)*, *[mise à mort](./Mise à mort.md)* (DD 15), *[restauration partielle](./Restauration partielle.md)*}
-{s:BDSorts|1er — *[arme magique](./Arme magique.md)*, *[bénédiction](./Bénédiction.md)*, *[bouclier de la foi](./Bouclier de la foi.md)*, *[bouclier entropique](./Bouclier entropique.md)*, *[regain d’assurance](./Regain dassurance.md)* (2)}
-{s:BDSorts|0 (à volonté) — *[assistance divine](./Assistance divine.md)*, *[détection de la magie](./Détection de la magie.md)*, *[saignement](./Saignement.md)* (DD 13), *[stabilisation](./Stabilisation.md)*}
-{s:BDTexte|**D** sort de domaine ; **Domaine** [Guerre](./Domaine de la Guerre.md), [Loi](./Domaine de la Loi.md)}
+{s:BDTexte|**Attaques spéciales** [[Domaine de la Loi|bâton de la loi]] (4 rounds, 1/jour), [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie négative]] 6/jour (DD 19, 5d6), [[Domaine de la Guerre|maîtrise des armes]] (9 rounds/jour)}
+{s:BDTexte|**Pouvoirs magiques de domaine** ([[NLS]] 9 ; [[concentration]] +12)}
+{s:BDSorts|6/jour — *[[Domaine de la Guerre|rage de combat]]* (+4), *[[Domaine de la Loi|toucher de la loi]]*}
+{s:BDTexte|**Sorts de prêtre préparés** ([[NLS]] 9 ; [[concentration]] +12)}
+{s:BDSorts|5e — *[[colonne de feu]]* (DD18), *[[force du colosse]]*}
+{s:BDSorts|4e — *[[bénédiction de ferveur]]*, *[[puissance divine]]*, *[[soins intensifs]]*}
+{s:BDSorts|3e — *[[cécitésurdité|cécité/surdité]]* (DD 16), *[[cercle magique contre le Chaos]]*, *[[dissipation de la magie]]*, *[[prière]]*, *[[soins importants]]*}
+{s:BDSorts|2e — *[[aide]]*, *[[arme spirituelle]]*, *[[cacophonie]]* (DD15), *[[endurance de lours|endurance de l’ours]]*, *[[mise à mort]]* (DD 15), *[[restauration partielle]]*}
+{s:BDSorts|1er — *[[arme magique]]*, *[[bénédiction]]*, *[[bouclier de la foi]]*, *[[bouclier entropique]]*, *[[regain dassurance|regain d’assurance]]* (2)}
+{s:BDSorts|0 (à volonté) — *[[assistance divine]]*, *[[détection de la magie]]*, *[[saignement]]* (DD 13), *[[stabilisation]]*}
+{s:BDTexte|**D** sort de domaine ; **Domaine** [[Domaine de la Guerre|Guerre]], [[Domaine de la loi|Loi]]}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|**Pendant le combat.** Le prêtre guerrier lance *[force du colosse](./Force du colosse.md)* dès le début, sûr que le sort le protégera et en fera un phare pour ses alliés. Il lance ensuite *[bénédiction de ferveur](./Bénédiction de ferveur.md)* sur ces derniers. Il se met ensuite en devoir de gêner ses adversaires, typiquement en jetant *[cécité/surdité](./Cécitésurdité.md)* sur un commandant ennemi.}
+{s:BDTexte|**Pendant le combat.** Le prêtre guerrier lance *[[force du colosse]]* dès le début, sûr que le sort le protégera et en fera un phare pour ses alliés. Il lance ensuite *[[bénédiction de ferveur]]* sur ces derniers. Il se met ensuite en devoir de gêner ses adversaires, typiquement en jetant *[[cécitésurdité|cécité/surdité]]* sur un commandant ennemi.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 10, **Con** 14, **Int** 10, **Sag** 16, **Cha** 16}
 {s:BDTexte|**BBA** +6 ; **BMO** +8 ; **DMD** 18}
-{s:BDTexte|**Dons** [Magie de guerre](./Magie de guerre.md), [Port des armures lourdes](./Port des armures lourdes.md), [Robustesse](./Robustesse.md), [Science de la canalisation](./Science de la canalisation.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +12, [Connaissances](./Connaissances.md) (religion) +12, [Discrétion](./Discrétion.md) –2, [Premiers secours](./Premiers secours.md) +15}
+{s:BDTexte|**Dons** [[Magie de guerre]], [[Port des armures lourdes]], [[Robustesse]], [[Science de la canalisation]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +12, [[Connaissances]] (religion) +12, [[Discrétion]] –2, [[Premiers secours]] +15}
 {s:BDTexte|**Langues** commun, gobelin}
-{s:BDTexte|**Équipement de combat** *[baguete](./Baguettes magiques.md) de [soins modérés](./Soins modérés.md)* (10 charges), [acide](./Acide (objet).md) (2), [feux grégeois](./Feu grégeois (objet).md) (2),  antidote ; **Équipement divers** *[clibanion +1](./clibanion (armure).md)*, *[morgenstern +1](./morgenstern (arme).md)*, [arbalète  lourde de maître](./Arbalète lourde (arme).md) avec [20 carreaux](./Carreaux darbalète (arme).md),  *[cape de résistance +1](./Cape de résistance.md)*, *[bandeau de belle allure +2](./Bandeau de belle allure.md)*, [sacoche à composantes](./Sacoche à composantes (objet).md), [symbole maudit en argent](./Symbole sacré (objet).md), [trousse de premiers secours](./Trousse de premiers secours (objet).md), 24 po}
+{s:BDTexte|**Équipement de combat** *[[baguettes magiques|baguete]] de [[soins modérés]]* (10 charges), [[acide (objet)|acide]] (2), [[Feu grégeois (objet)|feux grégeois]] (2),  antidote ; **Équipement divers** *[[clibanion (armure)|clibanion +1]]*, *[[morgenstern (arme)|morgenstern +1]]*, [[arbalète lourde (arme)|arbalète  lourde de maître]] avec [[Carreaux darbalète (arme)|20 carreaux]],  *[[cape de résistance|cape de résistance +1]]*, *[[bandeau de belle allure|bandeau de belle allure +2]]*, [[sacoche à composantes (objet)|sacoche à composantes]], [[Symbole sacré (objet)|symbole maudit en argent]], [[trousse de premiers secours (objet)|trousse de premiers secours]], 24 po}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -52,25 +52,25 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Hobgobelin](./Hobgobelin.md) || 1/2
+| [[Hobgobelin]] || 1/2
 |-
-| [Yzobu](./Yzobu.md) || 1
+| [[Yzobu]] || 1
 |-
-| [Sergent hobgobelin](./Sergent hobgobelin.md) || 2
+| [[Sergent hobgobelin]] || 2
 |-
-| [Zélote des batailles hobgobelin](./Zélote des batailles hobgobelin.md) || 2
+| [[Zélote des batailles hobgobelin]] || 2
 |-
-| [Lieutenant hobgobelin](./../Aventures/Lieutenant hobgobelin.md) || 4
+| [[Lieutenant hobgobelin]] || 4
 |-
-| [Précurseur hobgobelin](./Précurseur hobgobelin.md) || 6
+| [[Précurseur hobgobelin]] || 6
 |-
-| [Bombardier hobgobelin](./Bombardier hobgobelin.md) || 7
+| [[Bombardier hobgobelin]] || 7
 |-
-| [Prêtre guerrier hobgobelin](./Prêtre guerrier hobgobelin.md) || 8
+| [[Prêtre guerrier hobgobelin]] || 8
 |-
-| [Parangon hobgobelin](./Parangon hobgobelin.md) || 10
+| [[Parangon hobgobelin]] || 10
 |-
-| [Commandant hobgobelin](./Commandant hobgobelin.md) || 12
+| [[Commandant hobgobelin]] || 12
 |-
 |}
 </div>Au sein d’une armée d’hobgobelins, les prêtres guerriers occupent le rôle de chefs spirituels et de source d’inspiration. Ils jouent un rôle essentiel dans l’art de la guerre hobgobelin. Ils fournissent peu d’efforts pour soigner leurs alliés et soulager leurs maux et préfèrent accorder de puissants effets à leurs soldats avant une bataille.

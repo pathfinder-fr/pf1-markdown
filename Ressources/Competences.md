@@ -10,57 +10,57 @@ LastModified: 2014-05-27 10:53
 |- CLASS="titre"
 | Compétence || Faire 10 || Faire 20 || Aider quelqu'un || Type de DD || Valeur du DD || DD min || DD Typique || DD Max
 |- CLASS="premier"
-| [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) || Non || Non || Non || Oppo || DMD || - || 20 || —
+| [[Acrobaties]] || Non || Non || Non || Oppo || DMD || - || 20 || —
 |- CLASS="alt"
-| [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) || Non || Non || Non || Fixe || 15+Niveau || 16 || - || 24
+| [[Art de la magie]] || Non || Non || Non || Fixe || 15+Niveau || 16 || - || 24
 |-
-| [Artisanat](./../Pathfinder-RPG/Artisanat.md) || Oui || Non || Oui || Fixe || - || 15 || - || 24
+| [[Artisanat]] || Oui || Non || Oui || Fixe || - || 15 || - || 24
 |- CLASS="alt"
-| [Bluff](./../Pathfinder-RPG/Bluff.md) || Non || Non || Oui || Oppo || Psychologie/BBA || — || — || —
+| [[Bluff]] || Non || Non || Oui || Oppo || Psychologie/BBA || — || — || —
 |-
-| [Connaissances](./../Pathfinder-RPG/Connaissances.md) || - || - || - || - || - || — || — || —
+| [[Connaissances]] || - || - || - || - || - || — || — || —
 |-
-| [Déguisement](./../Pathfinder-RPG/Déguisement.md) || Oui || Oui || Oui || Oppo || Perception || — || — || —
+| [[Déguisement]] || Oui || Oui || Oui || Oppo || Perception || — || — || —
 |- CLASS="alt"
-| [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) || Non || Non || Oui || Fixe || +Cha || 0 || 15 || 25
+| [[Diplomatie]] || Non || Non || Oui || Fixe || +Cha || 0 || 15 || 25
 |-
-| [Discrétion](./../Pathfinder-RPG/Discrétion.md) || Non || Non || Non || Oppo || Perception || - || — || -
+| [[Discrétion]] || Non || Non || Non || Oppo || Perception || - || — || -
 |- CLASS="alt"
-| [Dressage](./../Pathfinder-RPG/Dressage.md) || Oui || Non || Oui || Fixe || - || 5 || 20 || 20
+| [[Dressage]] || Oui || Non || Oui || Fixe || - || 5 || 20 || 20
 |-
-| [Équitation](./../Pathfinder-RPG/Équitation.md) || Non || Non || Non || Fixe || - || 5 || 15 || 20
+| [[Équitation]] || Non || Non || Non || Fixe || - || 5 || 15 || 20
 |- CLASS="alt"
-| [Escalade](./../Pathfinder-RPG/Escalade.md) || Oui/Non || Non || Oui || Fixe || - || 5 || 20 || 30
+| [[Escalade]] || Oui/Non || Non || Oui || Fixe || - || 5 || 20 || 30
 |-
-| [Escamotage](./../Pathfinder-RPG/Escamotage.md) || Oui/Non || Non || Oui/Non || Fixe/Oppo || Perception || 10 || — || 20
+| [[Escamotage]] || Oui/Non || Non || Oui/Non || Fixe/Oppo || Perception || 10 || — || 20
 |- CLASS="alt"
-| [Estimation](./../Pathfinder-RPG/Estimation.md) || Non || Non || Oui || Fixe || — || — || 20 || —
+| [[Estimation]] || Non || Non || Oui || Fixe || — || — || 20 || —
 |-
-| [Évasion](./../Pathfinder-RPG/Évasion.md) || Oui || Oui/Non || Oui || Fixe || 20+BMO || 20 || 30 || 35
+| [[Évasion]] || Oui || Oui/Non || Oui || Fixe || 20+BMO || 20 || 30 || 35
 |- CLASS="alt"
-| [Intimidation](./../Pathfinder-RPG/Intimidation.md) || Non || Non || Oui || Oppo || 10+DV+Sag || - || — || -
+| [[Intimidation]] || Non || Non || Oui || Oppo || 10+DV+Sag || - || — || -
 |-
-| [Linguistique](./../Pathfinder-RPG/Linguistique.md) || Oui || Oui || Oui || Fixe || — || — || 20 || —
+| [[Linguistique]] || Oui || Oui || Oui || Fixe || — || — || 20 || —
 |- CLASS="alt"
-| [Natation](./../Pathfinder-RPG/Natation.md) || Oui/Non || Non || Oui || Fixe || - || - || 20 || -
+| [[Natation]] || Oui/Non || Non || Oui || Fixe || - || - || 20 || -
 |-
-| [Perception](./../Pathfinder-RPG/Perception.md) || Oui || Non || Non || Oppo || Discrétion || - || — || -
+| [[Perception]] || Oui || Non || Non || Oppo || Discrétion || - || — || -
 |- CLASS="alt"
-| [Premiers secours](./../Pathfinder-RPG/Premiers secours.md) || Oui || Oui/Non || Oui || Fixe || — || 15 || 15 || 20
+| [[Premiers secours]] || Oui || Oui/Non || Oui || Fixe || — || 15 || 15 || 20
 |-
-| [Profession](./../Pathfinder-RPG/Profession.md) || Oui || Non || Oui || Fixe || - || 10 || 15 || -
+| [[Profession]] || Oui || Non || Oui || Fixe || - || 10 || 15 || -
 |- CLASS="alt"
-| [Psychologie](./../Pathfinder-RPG/Psychologie.md) || Non || Non || Oui || Fixe/Oppo || Bluff || 15 || 20 || 25
+| [[Psychologie]] || Non || Non || Oui || Fixe/Oppo || Bluff || 15 || 20 || 25
 |-
-| [Représentation](./../Pathfinder-RPG/Représentation.md) || Oui || Non || Oui || Fixe || 10 || 20 || 30
+| [[Représentation]] || Oui || Non || Oui || Fixe || 10 || 20 || 30
 |- CLASS="alt"
-| [Sabotage](./../Pathfinder-RPG/Sabotage.md) || Oui || Oui/Non || Oui || Fixe || - || 10/20 || 15/25 || 25/40
+| [[Sabotage]] || Oui || Oui/Non || Oui || Fixe || - || 10/20 || 15/25 || 25/40
 |-
-| [Survie](./../Pathfinder-RPG/Survie.md) || Oui || Non || Oui || Fixe || - || 10 || 15 || 25
+| [[Survie]] || Oui || Non || Oui || Fixe || - || 10 || 15 || 25
 |- CLASS="alt"
-| [Utilisation d'objets magiques](./../Pathfinder-RPG/Utilisation dObjets Magiques.md) || Non || Non || Non || Fixe || — || 20 || 20 || 37
+| [[Utilisation dobjets magiques|Utilisation d'objets magiques]] || Non || Non || Non || Fixe || — || 20 || 20 || 37
 |-
-| [Vol](./../Pathfinder-RPG/Vol.md) || Oui/Non || Non || Non || Fixe || — || 10 || 15 || 20
+| [[Vol]] || Oui/Non || Non || Non || Fixe || — || 10 || 15 || 20
 |}
 </center>
 Observations

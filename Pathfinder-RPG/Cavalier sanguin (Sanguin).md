@@ -14,11 +14,11 @@ Categories:
 
 {s:Reference|MONTURERAPIDE}
 #### Monture rapide (Ext)
-Le cavalier sanguin sait pousser sa monture à l’extrême. La [vitesse de déplacement](./VD.md) de la monture chevauchée par le sanguin augmente de 3 m (2 {s:c}). Cette aptitude remplace déplacement accéléré.
+Le cavalier sanguin sait pousser sa monture à l’extrême. La [[VD|vitesse de déplacement]] de la monture chevauchée par le sanguin augmente de 3 m (2 {s:c}). Cette aptitude remplace déplacement accéléré.
 
 {s:Reference|MONTURESAUVAGE}
 #### Monture sauvage (Ext)
-Au niveau 5, le sanguin dispose d’une monture sauvage. Cette aptitude fonctionne comme le [compagnon animal](./compagnon animal.md) du druide, en remplaçant le niveau effectif de druide par le niveau du sanguin -4. Le cavalier sanguin doit pouvoir chevaucher ce compagnon et celui-ci doit s’avérer une monture convenable. Un sanguin de taille M peut choisir un chameau ou un cheval. Un sanguin de taille P peut choisir un poney ou un loup, mais également un sanglier ou un chien de selle s’il est de niveau 8 au moins.
+Au niveau 5, le sanguin dispose d’une monture sauvage. Cette aptitude fonctionne comme le [[compagnon animal]] du druide, en remplaçant le niveau effectif de druide par le niveau du sanguin -4. Le cavalier sanguin doit pouvoir chevaucher ce compagnon et celui-ci doit s’avérer une monture convenable. Un sanguin de taille M peut choisir un chameau ou un cheval. Un sanguin de taille P peut choisir un poney ou un loup, mais également un sanglier ou un chien de selle s’il est de niveau 8 au moins.
 
 Quand le cavalier sanguin est en rage sanguine, sa monture sauvage gagne un bonus de moral de +2 à sa Force. Cette aptitude remplace esquive instinctive et esquive instinctive supérieure.
 

@@ -15,12 +15,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[émotion, mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 6, [Hyp](./Hypnotiseur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Prê](./Prêtre.md) 7, [Psy](./Psychiste.md) 7, [Sor](./Sorcière.md) 7</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, G](./composantes.md)</br>
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[Composantes|V, G]]</br>
 **Portée** 9 m (6 {s:c})</br>
 **Zone**  explosion en forme de cône</br>
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (voir texte)</br>
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Durée** 1 [[round]]/[[niveau]] (voir texte)</br>
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
 
-Des vagues de plaisir intense émanent du personnage et font vaciller toutes les cibles à portée. Les créatures affectées sont [étourdies](./Étourdi.md) pendant 1 [round](./round.md) et [chancelantes](./Chancelant.md) pendant le reste de la durée du sort. Une créature qui réussit son [jet de sauvegarde](./jet de sauvegarde.md) est [chancelante](./Chancelant.md) pendant le premier [round](./round.md) et peut agir ensuite normalement.
+Des vagues de plaisir intense émanent du personnage et font vaciller toutes les cibles à portée. Les créatures affectées sont [[étourdi|étourdies]] pendant 1 [[round]] et [[chancelant|chancelantes]] pendant le reste de la durée du sort. Une créature qui réussit son [[jet de sauvegarde]] est [[chancelant|chancelante]] pendant le premier [[round]] et peut agir ensuite normalement.

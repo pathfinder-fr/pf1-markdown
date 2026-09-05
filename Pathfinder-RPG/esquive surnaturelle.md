@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Moine#ESQUIVESURNATURELLE
 ---
 
->>> [Moine#ESQUIVESURNATURELLE](./Moine.md#ESQUIVESURNATURELLE)
+>>> [[Moine#ESQUIVESURNATURELLE]]

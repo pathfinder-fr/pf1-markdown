@@ -18,7 +18,7 @@ Par une action simple, vous pouvez utiliser le Bluff pour feinter en combat, ce 
 #### Mentir
 Vous pouvez utiliser le Bluff pour tromper quelqu’un ou mentir de manière convaincante. Un petit mensonge simple lors d’un combat est considéré comme une raillerie en combat ; sinon, mentir prend au moins une action complexe mais cela peut prendre plus de temps, à l’appréciation du MJ, si le mensonge est complexe. Si la créature est méfiante ou fait attention à ce que vous dites (pour détecter les supercheries avec la compétence de Psychologie, par exemple), le test est opposé au test de Psychologie de la créature à laquelle vous mentez ; sinon, le DD de ce test est égal à 10 + le bonus de compétence total en Psychologie de la créature. Si vous réussissez, la créature à laquelle vous mentez croit ce que vous dites, au moins jusqu’à ce qu’elle soit confrontée à des preuves que vous lui avez menti. Le MJ peut décider que certains mensonges sont si improbables que personne ne peut y croire.
 
-Le DD des tests de Bluff pour mentir sont modifiés en fonction de l’attitude initiale de la cible envers vous (voir [Diplomatie|Diplomatie]) et d’autres circonstances déterminées par le MJ (comme la vraisemblance du mensonge).
+Le DD des tests de Bluff pour mentir sont modifiés en fonction de l’attitude initiale de la cible envers vous (voir [[Diplomatie]]) et d’autres circonstances déterminées par le MJ (comme la vraisemblance du mensonge).
 
 <center>
 {| CLASS="tablo"

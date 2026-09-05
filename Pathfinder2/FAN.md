@@ -4,7 +4,7 @@ Title: Créations de fans pour Pathfinder 2
 LastModified: 2025-08-20 22:28
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
 
 <nav class="wiki-toc"></nav>
@@ -50,9 +50,9 @@ LastModified: 2025-08-20 22:28
 
 - Ascendance de centaure par MJAjani & Woolsei : [Ascendance Centaure](https://scribe.pf2.tools/v/jCyoMsLV-ascendance-centaure)
 
-- Classe de samouraï par MJAjani : [lien](./<nowiki>https://www-pathfinder-fr-org//Forum/posts/t17492~~Classe~~Le-Samourai--Classe-Homebrew</nowiki>.md)
+- Classe de samouraï par MJAjani : [[<nowiki>https://www.pathfinder-fr.org//Forum/posts/t17492~~Classe~~Le-Samourai--Classe-Homebrew</nowiki>|lien]]
 
-- Classe de chevalier noir (inspirée de Final Fantasy) par MJAjani : [lien direct dernière version](https://scribe.pf2.tools/v/tCLVRMjJ-chevalier-noir), [lien vers forum](./<nowiki>https://www-pathfinder-fr-org/Forum/posts/m749522~~Classe~~Le-Chevalier-Noir--Classe-Homebrew</nowiki>.md)
+- Classe de chevalier noir (inspirée de Final Fantasy) par MJAjani : [lien direct dernière version](https://scribe.pf2.tools/v/tCLVRMjJ-chevalier-noir), [[<nowiki>https://www.pathfinder-fr.org/Forum/posts/m749522~~Classe~~Le-Chevalier-Noir--Classe-Homebrew</nowiki>|lien vers forum]]
 
 - Classes hybrides (alternative au multiclassage via archétypes) par jean-michel p : [Gabarit général](https://scribe.pf2.tools/v/8wpT1moz-gabarit-de-classe-hybride) et deux exemples : [Agent sacré](https://scribe.pf2.tools/v/ZrYjswT2-agent-sacr) et [Sacré filou](https://scribe.pf2.tools/v/o0oVVC3w-sacr-filou)
 
@@ -61,16 +61,16 @@ LastModified: 2025-08-20 22:28
 
 PNJs et créatures créées par les fans :
 
-- *[Personnage-type](./PF2 PersoType.md) (code à recopier pour créer la page des autres PNJs et créatures)*
-- [Gobelin demi-fiélon](./GobelinDemiFielon.md) (niveau 0)
+- *[[PF2 PersoType|Personnage-type]] (code à recopier pour créer la page des autres PNJs et créatures)*
+- [[GobelinDemiFielon|Gobelin demi-fiélon]] (niveau 0)
 
 PNJs et créatures provenant du blog de Paizo :
 
-- [Eleukas, garde courageux](./Eleukas.md) (niveau 2)
-- [Explose-Bidoche (Gristleburst), pyromane curieux](./ExploseBidoche.md) (niveau 2)
-- [Lisavet, acolyte érudite](./Lisavet.md) (niveau 2)
-- [Wendlyn, incorrigible voleuse](./Wendlyn.md) (niveau 2)
-- [Morlibint, vendeur de livre dans une petite ville](./Otari-Morlibint.md) (niveau 4)
+- [[Eleukas|Eleukas, garde courageux]] (niveau 2)
+- [[ExploseBidoche|Explose-Bidoche (Gristleburst), pyromane curieux]] (niveau 2)
+- [[Lisavet|Lisavet, acolyte érudite]] (niveau 2)
+- [[Wendlyn|Wendlyn, incorrigible voleuse]] (niveau 2)
+- [[Otari-Morlibint|Morlibint, vendeur de livre dans une petite ville]] (niveau 4)
 
 
 ''Pour ajouter un PNJ / une créature :  

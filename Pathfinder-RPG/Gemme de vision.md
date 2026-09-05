@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Gemme de vision|{s:AE}}
-**Aura** [Divination](./école divination.md) modérée ; **NLS** 10 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 75 000 po ; **Poids** —
+**Aura** [[école Divination|Divination]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 75 000 po ; **Poids** —
 (((Description)))
-De prime abord, rien ne permet d’établir que cette pierre précieuse finement taillée et polie est magique. Pourtant, quiconque regarde au travers bénéficie de l’effet du sort *[vision lucide](./Vision lucide.md)*. Une *gemme de vision* peut être utilisée jusqu’à trente minutes par jour, réparties selon les désirs de son propriétaire en plusieurs périodes de cinq minutes. Ces périodes n’ont pas besoin d’être consécutives.
+De prime abord, rien ne permet d’établir que cette pierre précieuse finement taillée et polie est magique. Pourtant, quiconque regarde au travers bénéficie de l’effet du sort *[[vision lucide]]*. Une *gemme de vision* peut être utilisée jusqu’à trente minutes par jour, réparties selon les désirs de son propriétaire en plusieurs périodes de cinq minutes. Ces périodes n’ont pas besoin d’être consécutives.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[vision lucide](./Vision lucide.md)* ; **Coût** 37 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[vision lucide]]* ; **Coût** 37 500 po
 </div>

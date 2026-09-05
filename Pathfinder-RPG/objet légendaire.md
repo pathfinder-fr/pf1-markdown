@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Objets légendaires
 ---
 
->>> [Objets légendaires](./Objets légendaires.md)
+>>> [[Objets légendaires]]

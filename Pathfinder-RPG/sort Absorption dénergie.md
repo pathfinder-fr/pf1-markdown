@@ -11,25 +11,25 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:Desambi|Absorption d'énergie est également une [capacité spéciale](./Capacités spéciales.md#NIVEAUNEG). Voir aussi [ici](./Absorption dénergie (capacité).md).}
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Cham](./Chaman.md) 9, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 9, [Prê](./Prêtre.md) 9  
+{s:Desambi|Absorption d'énergie est également une [[Capacités spéciales#NIVEAUNEG|capacité spéciale]]. Voir aussi [[Absorption dénergie (capacité)|ici]].}
+**École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** rayon d’énergie négative  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir la description d’*[énergie négative](./Énergie négative.md)*)
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir la description d’*[[énergie négative]]*)
 
-Le lanceur de sorts tend un doigt et un rayon d’énergie négative en jaillit, annihilant la force vitale de toute créature vivante touchée. Il doit effectuer une [attaque de contact à distance](./attaque de contact à distance.md). En cas de succès, la cible acquiert 2d4 [niveaux négatifs](./niveau négatif.md) temporaires (voir la section "[Capacités Spéciales](./Capacités spéciales.md)"). Les [niveaux négatifs](./niveau négatif.md) se cumulent.
+Le lanceur de sorts tend un doigt et un rayon d’énergie négative en jaillit, annihilant la force vitale de toute créature vivante touchée. Il doit effectuer une [[attaque de contact à distance]]. En cas de succès, la cible acquiert 2d4 [[niveau négatif|niveaux négatifs]] temporaires (voir la section "[[Capacités Spéciales]]"). Les [[niveau négatif|niveaux négatifs]] se cumulent.
 
-Vingt-quatre heures après avoir été affecté par le sort, le sujet doit effectuer un jet de [Vigueur](./Vigueur.md) (contre le [DD](./DD.md) du sort) par [niveau négatif](./niveau négatif.md) acquis. A chaque [jet de sauvegarde](./jet de sauvegarde.md) réussi, un [niveau négatif](./niveau négatif.md) disparaît sans plus de conséquences. En cas d’échec, le [niveau négatif](./niveau négatif.md) devient permanent.
+Vingt-quatre heures après avoir été affecté par le sort, le sujet doit effectuer un jet de [[Vigueur]] (contre le [[DD]] du sort) par [[niveau négatif]] acquis. A chaque [[jet de sauvegarde]] réussi, un [[niveau négatif]] disparaît sans plus de conséquences. En cas d’échec, le [[niveau négatif]] devient permanent.
 
-Si le rayon touche un [mort-vivant](./type Mort-vivant.md), ce dernier gagne 2d4x5 [points de vie temporaires](./points de vie temporaires.md) pendant une heure.
+Si le rayon touche un [[type mort-vivant|mort-vivant]], ce dernier gagne 2d4x5 [[points de vie temporaires]] pendant une heure.
 
-(((Ce sort est semblable à *[énergie négative](./Énergie négative.md)*, mais la victime gagne 2d4 [niveaux négatifs](./niveau négatif.md) temporaires et l’effet dure plus longtemps. Vingt-quatre heures après avoir été affectée par le sort, cette dernière doit effectuer un jet de [Vigueur](./Vigueur.md) (contre le [DD](./DD.md) du sort) par [niveau négatif](./niveau négatif.md) acquis. A chaque [jet de sauvegarde](./jet de sauvegarde.md) réussi, un [niveau négatif](./niveau négatif.md) disparaît sans plus de conséquences. En cas d’échec, le [niveau négatif](./niveau négatif.md) devient permanent.)))
+(((Ce sort est semblable à *[[énergie négative]]*, mais la victime gagne 2d4 [[niveau négatif|niveaux négatifs]] temporaires et l’effet dure plus longtemps. Vingt-quatre heures après avoir été affectée par le sort, cette dernière doit effectuer un jet de [[Vigueur]] (contre le [[DD]] du sort) par [[niveau négatif]] acquis. A chaque [[jet de sauvegarde]] réussi, un [[niveau négatif]] disparaît sans plus de conséquences. En cas d’échec, le [[niveau négatif]] devient permanent.)))

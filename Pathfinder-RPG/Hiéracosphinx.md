@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Collines|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 p.247*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, CM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 15 (Dex +2, naturelle +6, taille -1)}
 {s:BDTexte|**pv**  60 (8d10+16)}
@@ -24,23 +24,23 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 18 m (12 {s:c}) (médiocre)}
 {s:BDTexte|**Corps à corps** morsure, +11 (1d10+4) et 2 griffes, +11 (1d6+4)}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}); **Allonge** 1,50 m (1 {s:c})}
-{s:BDTexte|**Attaque spéciale** [bond](./Bond.md), hurlement}
+{s:BDTexte|**Attaque spéciale** [[bond]], hurlement}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 14, **Con** 15, **Int** 6, **Sag** 15, **Cha** 10}
-{s:BDTexte|**BBA** +8, **BMO** +13, **DMD** 25 (29 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Enchaînement](./Enchaînement.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +16, [Vol](./Vol.md) +3}
-{s:BDTexte|**Modificateur racial** +4 en [Perception](./Perception.md)}
+{s:BDTexte|**BBA** +8, **BMO** +13, **DMD** 25 (29 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Enchaînement]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +16, [[Vol]] +3}
+{s:BDTexte|**Modificateur racial** +4 en [[Perception]]}
 {s:BDTexte|**Langue** sphinx}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou volée (3-8)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Hurlement (Sur).** Le hurlement perçant du hiéracosphinx [assourdit](./Assourdi.md) les non-sphinx dans un rayon de 18 mètres (12 {s:c}) pendant 2d4 rounds ([Vigueur](./Vigueur.md) [DD](./DD.md) 16, annule). Lorsqu’une créature réussit son jet contre cet effet, elle est immunisée contre le hurlement de ce hiéracosphinx pendant 24 heures. Cette capacité coûte une [action simple](./Action simple.md). Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Hurlement (Sur).** Le hurlement perçant du hiéracosphinx [[assourdi|assourdit]] les non-sphinx dans un rayon de 18 mètres (12 {s:c}) pendant 2d4 rounds ([[Vigueur]] [[DD]] 16, annule). Lorsqu’une créature réussit son jet contre cet effet, elle est immunisée contre le hurlement de ce hiéracosphinx pendant 24 heures. Cette capacité coûte une [[action simple]]. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [sphinx](./../Golarion/Sphinx.md).***</li></ul>*Cette créature au corps léonin a une tête de faucon aux yeux perçants et de grandes ailes.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Sphinx]].***</li></ul>*Cette créature au corps léonin a une tête de faucon aux yeux perçants et de grandes ailes.*
 
 Les hiéracosphinx sont les moins intelligents des sphinx
 communs, une race lâche et cruelle. Tous sont des mâles. Ils
@@ -98,7 +98,7 @@ mètres de long et pèse 300 kilos. Les
 hiéracosphinx détestent porter
 un cavalier lorsqu’ils sont en
 combat, ce qui augmente
-le [DD](./DD.md) de tous les tests
-d’[Équitation](./Équitation.md) en combat
+le [[DD]] de tous les tests
+d’[[Équitation]] en combat
 de +5.
 </div></td></tr></table>

@@ -13,15 +13,15 @@ Categories:
 #### Jugement (Sur)
 L’hérétique obtient les jugements suivants, en plus de ceux des autres inquisiteurs.
 
-- *Fuite (Sur).* À chaque fois que l’inquisiteur qui utilise ce jugement frappe un adversaire au corps à corps ou à distance, il peut utiliser une [action de mouvement](./Action de mouvement.md) pour tenter de créer une diversion et se cacher (avec la compétence [Discrétion](./Discrétion.md)).
+- *Fuite (Sur).* À chaque fois que l’inquisiteur qui utilise ce jugement frappe un adversaire au corps à corps ou à distance, il peut utiliser une [[action de mouvement]] pour tenter de créer une diversion et se cacher (avec la compétence [[Discrétion]]).
 
 #### Art de la fuite (Ext)
-Au niveau 1, l’hérétique peut utiliser tous les tours qu’il connaît pour échapper à ses poursuivants. Il ajoute son modificateur de [Sagesse](./Sagesse.md) à ses tests de [Bluff](./Bluff.md) et de [Discrétion](./Discrétion.md) en plus de ses modificateurs de caractéristique habituels.
+Au niveau 1, l’hérétique peut utiliser tous les tours qu’il connaît pour échapper à ses poursuivants. Il ajoute son modificateur de [[Sagesse]] à ses tests de [[Bluff]] et de [[Discrétion]] en plus de ses modificateurs de caractéristique habituels.
 
-Ce pouvoir remplace [connaissance des monstres](./Inquisiteur.md#CONNAISSANCEDESMONSTRES).
+Ce pouvoir remplace [[inquisiteur#CONNAISSANCEDESMONSTRES|connaissance des monstres]].
 
 #### Cacher ses traces (Ext)
-Au niveau 1, l’hérétique devient expert dans l’art de dissimuler ses traces. Les créatures qui le traquent subissent un malus de -5 aux jets destinés à le [trouver ou à le suivre](./Survie.md).
+Au niveau 1, l’hérétique devient expert dans l’art de dissimuler ses traces. Les créatures qui le traquent subissent un malus de -5 aux jets destinés à le [[Survie|trouver ou à le suivre]].
 
 ### Les anciens inquisiteurs
 Un inquisiteur déchu peut, avec la permission de son MJ, adopter l’archétype d’hérétique et remplacer ses pouvoirs de classe par ceux de l’archétype. Si le personnage s’amende ou rejoint une autre religion, il perd ses pouvoirs d’hérétique et récupère ses anciens pouvoirs de classe.

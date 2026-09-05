@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10 po (standard), 100 po (orné) ; **Poids** 15 kg (standard), 25 kg (orné)<sup>[1](./Équipement daventurier.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+{s:AE}**Prix** 10 po (standard), 100 po (orné) ; **Poids** 15 kg (standard), 25 kg (orné)<sup>[[Équipement daventurier#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Un cercueil sobre est fait en bois simple. Il est livré avec un couvercle plat et indépendant qui peut être cloué dessus.  
   

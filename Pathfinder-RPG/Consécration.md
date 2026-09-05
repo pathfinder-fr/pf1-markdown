@@ -10,25 +10,25 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[Bien](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 2, [Prê](./Prêtre.md) 2  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 2, [[prêtre|Prê]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une fiole d’eau bénie et 25 po de poussière d’argent)[, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, M]] (une fiole d’eau bénie et 25 po de poussière d’argent)[[composantes|, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Zone d'effet** [émanation](./émanation.md) de 6 m (4 {s:c}) de rayon  
+**Zone d'effet** [[émanation]] de 6 m (4 {s:c}) de rayon  
 
-**Durée** 2 heures/[niveau](./niveau.md)  
+**Durée** 2 heures/[[niveau]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Ce sort bénit un lieu en le baptisant d’énergie positive. Le [DD](./DD.md) de tout test destiné à résister à des [canalisations](./canalisation.md) d’énergie positive dans cet endroit jouit ensuite d’un bonus de sainteté de +3. Les [morts-vivants](./type Mort-vivant.md) entrant dans la zone d’effet sont légèrement contrariés, ce qui s’exprime par un malus de -1 aux [jets d’attaque](./jet dattaque.md), de dégâts et [de sauvegarde](./jet de sauvegarde.md). Un lieu consacré rend impossible l’animation ou la convocation de [morts-vivants](./type Mort-vivant.md). Si un autel, une chapelle ou tout autre objet permanent dédié au dieu du [prêtre](./Prêtre.md) (ou à son panthéon ou à une divinité alliée) est présent sur le lieu consacré, les modificateurs indiqués ci-dessus sont doublés (bonus de sainteté de +6 liés à la [canalisation](./canalisation.md) d’énergie positive, malus de -2 aux jets des [morts-vivants](./type Mort-vivant.md)).
+Ce sort bénit un lieu en le baptisant d’énergie positive. Le [[DD]] de tout test destiné à résister à des [[canalisation|canalisations]] d’énergie positive dans cet endroit jouit ensuite d’un bonus de sainteté de +3. Les [[type mort-vivant|morts-vivants]] entrant dans la zone d’effet sont légèrement contrariés, ce qui s’exprime par un malus de -1 aux [[jet dattaque|jets d’attaque]], de dégâts et [[jet de sauvegarde|de sauvegarde]]. Un lieu consacré rend impossible l’animation ou la convocation de [[type mort-vivant|morts-vivants]]. Si un autel, une chapelle ou tout autre objet permanent dédié au dieu du [[prêtre]] (ou à son panthéon ou à une divinité alliée) est présent sur le lieu consacré, les modificateurs indiqués ci-dessus sont doublés (bonus de sainteté de +6 liés à la [[canalisation]] d’énergie positive, malus de -2 aux jets des [[type mort-vivant|morts-vivants]]).
 
-Il est impossible de consacrer un lieu qui est déjà dédié à un dieu autre que celui du [prêtre](./Prêtre.md). Dans ce cas, la *consécration* maudit l’endroit et rompt les liens de celui-ci avec la divinité ou la puissance associée. Dans ce cas, le sort n’offre pas les bonus ni les malus liés aux [morts-vivants](./type Mort-vivant.md).
+Il est impossible de consacrer un lieu qui est déjà dédié à un dieu autre que celui du [[prêtre]]. Dans ce cas, la *consécration* maudit l’endroit et rompt les liens de celui-ci avec la divinité ou la puissance associée. Dans ce cas, le sort n’offre pas les bonus ni les malus liés aux [[type mort-vivant|morts-vivants]].
 
-*Consécration* neutralise et dissipe *[profanation](./Profanation.md)*.
+*Consécration* neutralise et dissipe *[[profanation]]*.
 
 ### Mythique
 {s:CMy}

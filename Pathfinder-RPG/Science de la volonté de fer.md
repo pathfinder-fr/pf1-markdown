@@ -8,6 +8,6 @@ Categories:
 
 *Les pensées limpides du personnage lui permettent de résister aux attaques mentales.*
 
-**Condition.** [Volonté de fer](./Volonté de fer.md).
+**Condition.** [[Volonté de fer]].
 
-**Avantage.** Une fois par jour, le personnage peut relancer un jet de [Volonté](./Volonté.md). Il doit décider de le faire avant que le résultat du premier jet soit connu et doit accepter le second résultat, même s’il est pire que le premier.
+**Avantage.** Une fois par jour, le personnage peut relancer un jet de [[Volonté]]. Il doit décider de le faire avant que le résultat du premier jet soit connu et doit accepter le second résultat, même s’il est pire que le premier.

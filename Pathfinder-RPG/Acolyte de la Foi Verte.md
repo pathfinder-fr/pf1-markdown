@@ -25,44 +25,44 @@ Les membres de la Verte religion s'opposent avec férocité aux abominations viv
 | CLASS="gauche" | Sorts
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" |  [Empathie sauvage](./Acolyte de la Foi Verte.md#EMPATHIESAUVAGE),[pacte avec le compagnon](./Acolyte de la Foi Verte.md#PACTEAVECLECOMPAGNON) +1
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" |  [[Acolyte de la Foi Verte#EMPATHIESAUVAGE|Empathie sauvage]],[[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +1
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Lien sauvage](./Acolyte de la Foi Verte.md#LIENSAUVAGE) +1
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Acolyte de la Foi Verte#LIENSAUVAGE|Lien sauvage]] +1
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 3 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [Hibernation](./Acolyte de la Foi Verte.md#HIBERNATION), [pacte avec le compagnon](./Acolyte de la Foi Verte.md#PACTEAVECLECOMPAGNON) +2,
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Acolyte de la Foi Verte#HIBERNATION|Hibernation]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +2,
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 4 || +3 || +1 || +1 || +2
-| CLASS="gauche" | [Domination de la nature](./Acolyte de la Foi Verte.md#DOMINATIONDELANATURE), [lien sauvage](./Acolyte de la Foi Verte.md#LIENSAUVAGE) +2
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Acolyte de la Foi Verte#DOMINATIONDELANATURE|Domination de la nature]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +2
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 5 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [Engagement animal](./Acolyte de la Foi Verte.md#ENGAGEMENTANIMAL), [pacte avec le compagnon](./Acolyte de la Foi Verte.md#PACTEAVECLECOMPAGNON) +3,
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Acolyte de la Foi Verte#ENGAGEMENTANIMAL|Engagement animal]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +3,
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 6 || +4 || +2 || +2 || +3
-| CLASS="gauche" | [Immunité au venin](./Acolyte de la Foi Verte.md#IMMUNITEAUVENIN), [lien sauvage](./Acolyte de la Foi Verte.md#LIENSAUVAGE) +3
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Acolyte de la Foi Verte#IMMUNITEAUVENIN|Immunité au venin]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +3
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 7 || +5 || +2 || +2 || +4
-| CLASS="gauche" | [Fléau des abominations](./Acolyte de la Foi Verte.md#FLEAUDESABOMINATIONS), [pacte avec le compagnon](./Acolyte de la Foi Verte.md#PACTEAVECLECOMPAGNON) +4,
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Acolyte de la Foi Verte#FLEAUDESABOMINATIONS|Fléau des abominations]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +4,
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 8 || +6 || +3 || +3 || +4
-| CLASS="gauche" | [Archidruide](./Acolyte de la Foi Verte.md#ARCHIDRUIDE), [lien sauvage](./Acolyte de la Foi Verte.md#LIENSAUVAGE) +4
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Acolyte de la Foi Verte#ARCHIDRUIDE|Archidruide]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +4
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 9 || +6 || +3 || +3 || +5
-| CLASS="gauche" | [Grand druide](./Acolyte de la Foi Verte.md#GRANDDRUIDE), [lien sauvage](./Acolyte de la Foi Verte.md#LIENSAUVAGE) +5, [pacte avec le compagnon](./Acolyte de la Foi Verte.md#PACTEAVECLECOMPAGNON) +5
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Acolyte de la Foi Verte#GRANDDRUIDE|Grand druide]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +5, [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +5
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |-
 | 10 || +7 || +3 || +3 || +5
-| CLASS="gauche" | [Eternelle jeunesse](./Acolyte de la Foi Verte.md#ETERNELLEJEUNESSE), [Haut-Druide](./Acolyte de la Foi Verte.md#HAUTDRUIDE), [lien sauvage](./Acolyte de la Foi Verte.md#LIENSAUVAGE) +6, [longévite](./Acolyte de la Foi Verte.md#LONGEVITE), [pacte avec le compagnon](./Acolyte de la Foi Verte.md#PACTEAVECLECOMPAGNON) +6
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts divins existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Acolyte de la Foi Verte#ETERNELLEJEUNESSE|Eternelle jeunesse]], [[Acolyte de la Foi Verte#HAUTDRUIDE|Haut-Druide]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +6, [[Acolyte de la Foi Verte#LONGEVITE|longévite]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +6
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
 |}
 </center>
 
@@ -73,16 +73,16 @@ Pour pouvoir devenir acolyte de la Nature, le personnage doit satisfaire aux con
 
 **Alignement.** N'importe quel alignement neutre.
 
-**Dons.**  [Acolyte de la Nature](./Acolyte de la Nature.md).
+**Dons.**  [[Acolyte de la Nature]].
 
-**Compétences.**  5 rangs en [Connaissances](./Connaissances.md) (nature), 5 rangs en [Dressage](./Dressage.md), 5 rangs en [Survie](./Survie.md).
+**Compétences.**  5 rangs en [[Connaissances]] (nature), 5 rangs en [[Dressage]], 5 rangs en [[Survie]].
 
 **Sorts.** Capacité à lancer des sorts divins de 3e niveau.
 
 ### Compétences de classes
-Voici les compétences de classe de l'acolyte de la Nature: [Connaissances](./Connaissances.md) (géographie) (Int), [Connaissances](./Connaissances.md) (nature) (Int), [Dressage](./Dressage.md) (Cha), [Escalade](./Escalade.md) (For),  [Premiers Secours](./Premiers secours.md) (Sag), [Natation](./Natation.md) (For) [Survie](./Survie.md) (Sag), [Vol](./Vol.md) (Dex).
+Voici les compétences de classe de l'acolyte de la Nature: [[Connaissances]] (géographie) (Int), [[Connaissances]] (nature) (Int), [[Dressage]] (Cha), [[Escalade]] (For),  [[Premiers Secours]] (Sag), [[Natation]] (For) [[Survie]] (Sag), [[Vol]] (Dex).
 
-**Rangs de compétence par niveau.** 4 + modificateur d'[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe d'acolyte de la Nature.
@@ -91,47 +91,47 @@ Un acolyte de la Nature ne gagne pas de formation supplémentaire au port des ar
 
 {s:reference|PACTEAVECLECOMPAGNON}
 #### Pacte avec le compagnon (Ext)
-Aux niveaux indiqués, un acolyte de la Nature augmente son niveau effectif de [druide](./Druide.md) de 1 pour déterminer les capacités de son [compagnon animal](./Druide.md#PACTEAVECLANATURE). S'il n'a pas de compagnon animal, il gagne à la place un compagnon animal de druide, avec un niveau effectif de druide égal à la moitié de son niveau de classe (minimum 1).
+Aux niveaux indiqués, un acolyte de la Nature augmente son niveau effectif de [[druide]] de 1 pour déterminer les capacités de son [[Druide#PACTEAVECLANATURE|compagnon animal]]. S'il n'a pas de compagnon animal, il gagne à la place un compagnon animal de druide, avec un niveau effectif de druide égal à la moitié de son niveau de classe (minimum 1).
 
 {s:reference|EMPATHIESAUVAGE}
 #### Empathie sauvage (Ext)
-Cette capacité est identique à [celle de druide](./Druide.md#EMPATHIESAUVAGE) du même nom. Pour cette capacité, le niveau d'acolyte de la Nature du personnage se cumule avec n'importe quel autre niveau de classe qui offre la capacité d'empathie sauvage.
+Cette capacité est identique à [[druide#EMPATHIESAUVAGE|celle de druide]] du même nom. Pour cette capacité, le niveau d'acolyte de la Nature du personnage se cumule avec n'importe quel autre niveau de classe qui offre la capacité d'empathie sauvage.
 
 {s:reference|LIENSAUVAGE}
 #### Lien sauvage (Sur)
-Aux niveaux indiqués, un acolyte de la Nature augmente son niveau effectif de [druide](./Druide.md) de 1 pour déterminer les pouvoirs et utilisations par jour de sa capacité [forme animale](./Druide.md#FORMEANIMALE). S'il n'a pas cette capacité de classe, un acolyte de la nature gagne à la place la capacité forme animale d'un druide de niveau 4 quand il a un bonus de lien sauvage de +4, en augmentant son niveau effectif de druide de +1 à chaque itération de cette capacité au-delà de +4.
+Aux niveaux indiqués, un acolyte de la Nature augmente son niveau effectif de [[druide]] de 1 pour déterminer les pouvoirs et utilisations par jour de sa capacité [[Druide#FORMEANIMALE|forme animale]]. S'il n'a pas cette capacité de classe, un acolyte de la nature gagne à la place la capacité forme animale d'un druide de niveau 4 quand il a un bonus de lien sauvage de +4, en augmentant son niveau effectif de druide de +1 à chaque itération de cette capacité au-delà de +4.
 
 {s:reference|HIBERNATION}
 #### Hibernation (Sur)
-Au niveau 3, un acolyte de la Nature peut entrer dans un état d'animation suspendue par une [action complexe](./Action complexe.md). Cet état est similaire à l'effet de *[sceau du serpent](./Sceau du serpent.md)* sauf que l'acolyte est conscient des changements dans ses alentours ou des dégâts faits à son corps comme s'il était profondément endormi. Il peut sortir de cet état n'importe quand par une action complexe. S'il reste en hibernation pendant au moins une semaine avant d'émerger, son corps est renouvelé comme s'il était affecté par les sorts *[guérison suprême](./Guérison suprême.md)* et *[restauration](./Restauration.md)*. Un acolyte de la Nature peut rester dans cet état 1 semaine par niveau de classe, après quoi il doit attendre 1 jour par semaine passée à hiberner pour pouvoir utiliser cette capacité à nouveau.
+Au niveau 3, un acolyte de la Nature peut entrer dans un état d'animation suspendue par une [[action complexe]]. Cet état est similaire à l'effet de *[[sceau du serpent]]* sauf que l'acolyte est conscient des changements dans ses alentours ou des dégâts faits à son corps comme s'il était profondément endormi. Il peut sortir de cet état n'importe quand par une action complexe. S'il reste en hibernation pendant au moins une semaine avant d'émerger, son corps est renouvelé comme s'il était affecté par les sorts *[[guérison suprême]]* et *[[restauration]]*. Un acolyte de la Nature peut rester dans cet état 1 semaine par niveau de classe, après quoi il doit attendre 1 jour par semaine passée à hiberner pour pouvoir utiliser cette capacité à nouveau.
 
 {s:reference|DOMINATIONDELANATURE}
 #### Domination de la nature (Sur)
-Au niveau 4, lorsque les sorts divins d'un acolyte de la Nature infligent des dégâts ou soignent les [points de vie](./pv.md) d'une créature avec le type [animal](./type Animal.md), [fée](./type Fée.md), ou [plante](./type Plante.md), ils soignent ou infligent un nombre de points de vie supplémentaires égal au niveau du sort.
+Au niveau 4, lorsque les sorts divins d'un acolyte de la Nature infligent des dégâts ou soignent les [[pv|points de vie]] d'une créature avec le type [[type animal|animal]], [[type fée|fée]], ou [[type plante|plante]], ils soignent ou infligent un nombre de points de vie supplémentaires égal au niveau du sort.
 
 {s:reference|ENGAGEMENTANIMAL}
 #### Engagement animal (Sur)
-Au niveau 5, lorsqu'il lance un sort divin avec une zone d'effet, un acolyte de la Nature peut choisir un nombre d'animaux présents dans la zone égal à son modificateur de [Charisme](./Charisme.md), [Sagesse](./Sagesse.md), ou [Intelligence](./Intelligence.md) (le plus élevé), avec un minimum de 1. Ces animaux sont exclus des effets du sort. Si le sort a une durée plus longue qu'instantanée, les animaux sont protégés contre le sort uniquement pendant un nombre de [rounds](./round.md) égal au niveau de classe de l'acolyte de la Nature.
+Au niveau 5, lorsqu'il lance un sort divin avec une zone d'effet, un acolyte de la Nature peut choisir un nombre d'animaux présents dans la zone égal à son modificateur de [[Charisme]], [[Sagesse]], ou [[Intelligence]] (le plus élevé), avec un minimum de 1. Ces animaux sont exclus des effets du sort. Si le sort a une durée plus longue qu'instantanée, les animaux sont protégés contre le sort uniquement pendant un nombre de [[round|rounds]] égal au niveau de classe de l'acolyte de la Nature.
 
 {s:reference|IMMUNITEAUVENIN}
 #### Immunité au venin (Ext)
-Au niveau 6, un acolyte de la Nature gagne l'[immunité](./Immunité (capacité).md) à tous les [poisons](./Poisons.md).
+Au niveau 6, un acolyte de la Nature gagne l'[[Immunité (capacité)|immunité]] à tous les [[poisons]].
 
 {s:reference|FLEAUDESABOMINATIONS}
 #### Fléau des abominations (Sur)
-Au niveau 7, lorsqu'un sort divin de l'acolyte de la Nature affecte une créature avec le type [aberration](./type Aberration.md), il traite le sort comme s'il était affecté par le don de métamagie [Sort écœurant](./Sort écœurant.md). Lorsqu'il lance un sort divin qui blesse une créature morte-vivante, on considère que le sort est affecté par le don de métamagie [Extension d'effet](./Extension deffet.md). Le sort affecte les autres types de créature normalement. Cette capacité n'augmente pas le temps d'incantation nécessaire, ni le niveau du sort.
+Au niveau 7, lorsqu'un sort divin de l'acolyte de la Nature affecte une créature avec le type [[type Aberration|aberration]], il traite le sort comme s'il était affecté par le don de métamagie [[Sort écœurant]]. Lorsqu'il lance un sort divin qui blesse une créature morte-vivante, on considère que le sort est affecté par le don de métamagie [[Extension deffet|Extension d'effet]]. Le sort affecte les autres types de créature normalement. Cette capacité n'augmente pas le temps d'incantation nécessaire, ni le niveau du sort.
 
 {s:reference|ARCHIDRUIDE}
 #### Archidruide
-Au niveau 8, un acolyte de la Nature peut devenir [Archidruide](./../Ressources/Lorganisation-des-druides.md) s'il y a une place dans sa région, ou s'il cherche et bat un Archidruide dans un combat au corps à corps, une compétition de sorts ou une autre forme de concours. Si, après avoir gagné le titre, il perd un défi similaire face à un rival, il perd ce titre. Il abandonne aussi le titre d'Archidruide quand il devient [Grand druide](./../Ressources/Lorganisation-des-druides.md). Un acolyte de la Nature doit devenir Archidruide avant de pouvoir progresser vers le niveau 9 de la classe.
+Au niveau 8, un acolyte de la Nature peut devenir [[Ressources.Lorganisation-des-druides|Archidruide]] s'il y a une place dans sa région, ou s'il cherche et bat un Archidruide dans un combat au corps à corps, une compétition de sorts ou une autre forme de concours. Si, après avoir gagné le titre, il perd un défi similaire face à un rival, il perd ce titre. Il abandonne aussi le titre d'Archidruide quand il devient [[Ressources.Lorganisation-des-druides|Grand druide]]. Un acolyte de la Nature doit devenir Archidruide avant de pouvoir progresser vers le niveau 9 de la classe.
 
 {s:reference|GRANDDRUIDE}
 #### Grand druide
-Au niveau 9, un acolyte de la Nature peut obtenir ou perdre le titre de [Grand druide](./../Ressources/Lorganisation-des-druides.md) de la même manière qu'avec le titre d'Archidruide. Il abandonne le titre de Grand druide quand il devient Haut-Druide. Un acolyte de la nature doit obtenir le titre de Grand druide avant de pouvoir passer au niveau 10 de la classe.
+Au niveau 9, un acolyte de la Nature peut obtenir ou perdre le titre de [[Ressources.Lorganisation-des-druides|Grand druide]] de la même manière qu'avec le titre d'Archidruide. Il abandonne le titre de Grand druide quand il devient Haut-Druide. Un acolyte de la nature doit obtenir le titre de Grand druide avant de pouvoir passer au niveau 10 de la classe.
 
 {s:reference|HAUTDRUIDE}
 #### Haut-Druide (Sur)
-Au niveau 10, un acolyte de la Nature peut obtenir ou perdre le titre de [Haut-Druide](./../Ressources/Lorganisation-des-druides.md) de la même façon qu'avec Archidruide et Grand druide. Chaque jour, le Haut-Druide peut préparer 10 niveaux de sort supplémentaires de sorts divins, ou lancer 10 niveaux supplémentaires de sorts divins s'il est un lanceur de sorts spontanés, choisis de niveaux de sorts qu'il est déjà capable de lancer. Il perd cette capacité s'il perd le titre de Haut-Druide.
+Au niveau 10, un acolyte de la Nature peut obtenir ou perdre le titre de [[Ressources.Lorganisation-des-druides|Haut-Druide]] de la même façon qu'avec Archidruide et Grand druide. Chaque jour, le Haut-Druide peut préparer 10 niveaux de sort supplémentaires de sorts divins, ou lancer 10 niveaux supplémentaires de sorts divins s'il est un lanceur de sorts spontanés, choisis de niveaux de sorts qu'il est déjà capable de lancer. Il perd cette capacité s'il perd le titre de Haut-Druide.
 
 {s:reference|LONGEVITE}
 #### Longévité (Ext)
@@ -139,4 +139,4 @@ Au niveau 10, l'âge maximum d'un acolyte de la Nature augmente de 20 %
 
 {s:reference|ETERNELLEJEUNESSE}
 #### Éternelle jeunesse (Ext)
-Au niveau 10, un acolyte de la Nature ne prend plus de pénalités à cause de l'âge. Cette capacité fonctionne comme la [capacité de druide](./Druide.md#ETERNELLEJEUNESSE) du même nom.
+Au niveau 10, un acolyte de la Nature ne prend plus de pénalités à cause de l'âge. Cette capacité fonctionne comme la [[druide#ETERNELLEJEUNESSE|capacité de druide]] du même nom.

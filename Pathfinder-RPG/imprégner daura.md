@@ -9,18 +9,18 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Prê](./Prêtre.md) 2  
+{s:UM}**École** [[Transmutation]] ; **Niveau** [[prêtre|Prê]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir texte) ; **Résistance à la magie** oui
 
-Le personnage imprègne une autre créature de son [aura divine](./Prêtre.md#AURA). La cible émet une [aura](./Prêtre.md#AURA) identique à celle du prêtre. L’[alignement](./Alignement.md) réel de la cible ne change pas mais les sorts comme *[détection du mal](./Détection du Mal.md)* ou *[détection du bien](./Détection du Bien.md)* ne détectent que l’[aura](./Prêtre.md#AURA) du prêtre, pas le véritable [alignement](./Alignement.md) de la créature. Pendant toute la durée du sort, les effets qui dépendent de l’[alignement](./Alignement.md) de la cible fonctionnent selon l’[aura](./Prêtre.md#AURA) qui lui est imposée, pas selon son véritable [alignement](./Alignement.md). Quand le sort se termine, l’[aura](./Prêtre.md#AURA) de la cible redevient normale et les effets magiques basés sur l’[alignement](./Alignement.md) l’affectent selon son véritable [alignement](./Alignement.md).
+Le personnage imprègne une autre créature de son [[prêtre#AURA|aura divine]]. La cible émet une [[prêtre#AURA|aura]] identique à celle du prêtre. L’[[alignement]] réel de la cible ne change pas mais les sorts comme *[[détection du mal]]* ou *[[détection du bien]]* ne détectent que l’[[prêtre#AURA|aura]] du prêtre, pas le véritable [[alignement]] de la créature. Pendant toute la durée du sort, les effets qui dépendent de l’[[alignement]] de la cible fonctionnent selon l’[[prêtre#AURA|aura]] qui lui est imposée, pas selon son véritable [[alignement]]. Quand le sort se termine, l’[[prêtre#AURA|aura]] de la cible redevient normale et les effets magiques basés sur l’[[alignement]] l’affectent selon son véritable [[alignement]].

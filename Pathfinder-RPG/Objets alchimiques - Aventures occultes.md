@@ -10,11 +10,11 @@ LastModified: 2019-10-19 00:22
 |- CLASS="titre"
 | Nom || Prix || Poids
 |- CLASS="premier"
-| [Papier magnétisé](./Objets alchimiques - Aventures occultes.md#Papier magnétisé) || 11 po || 0,5 KG
+| [[Objets alchimiques - Aventures occultes#Papier magnétisé|Papier magnétisé]] || 11 po || 0,5 KG
 |-
-| [Remède miracle](./Objets alchimiques - Aventures occultes.md#Remède miracle) || 20 || —
+| [[Objets alchimiques - Aventures occultes#Remède miracle|Remède miracle]] || 20 || —
 |-
-| [Résidu ectoplasmique](./Objets alchimiques - Aventures occultes.md#Résidu ectoplasmique) || 20 po || 1 KG
+| [[Objets alchimiques - Aventures occultes#Résidu ectoplasmique|Résidu ectoplasmique]] || 20 po || 1 KG
 |}
 
 
@@ -25,7 +25,7 @@ LastModified: 2019-10-19 00:22
 {s:BDTitre|Papier magnétisé|{s:AO}}
 **Prix** : 11 po
 (((Caractéristiques)))
-Ces morceaux de parchemin traités de manière spécifique se vendent par lot de sept. Psychiquement harmonisées aux fluides magnétiques dont une créature vivante a besoin pour lever le voile éthéré, ces feuilles ajoutent un bonus de 5 % aux tentatives pour écrire un contenu sensé lors de l’utilisation de l’extension de compétence occulte [écriture automatique](./Extensions de compétences occultes.md#ÉCRITUREAUTOMATIQUE). On ne peut utiliser qu’une feuille de papier magnétisé par tentative et celle-ci est inutilisable une fois la tentative réalisée.
+Ces morceaux de parchemin traités de manière spécifique se vendent par lot de sept. Psychiquement harmonisées aux fluides magnétiques dont une créature vivante a besoin pour lever le voile éthéré, ces feuilles ajoutent un bonus de 5 % aux tentatives pour écrire un contenu sensé lors de l’utilisation de l’extension de compétence occulte [[extensions de compétences occultes#ÉCRITUREAUTOMATIQUE|écriture automatique]]. On ne peut utiliser qu’une feuille de papier magnétisé par tentative et celle-ci est inutilisable une fois la tentative réalisée.
 
 {s:Reference|Remède miracle}
 <div class="BD">
@@ -51,5 +51,5 @@ réussi, la toxine soigne 1d6 points de dégâts non létaux ;
 {s:BDTitre|Résidu ectoplasmique|{s:AO}}
 **Prix** : 20
 (((Caractéristiques)))
-Cette flasque contient les résidus de fantômes ectoplasmiques mineurs et de créatures similaires. Le personnage peut lancer une flasque de résidu ectoplasmique comme une arme à aspersion. C’est une [attaque de contact](./Valeurs de combat.md#ATTAQUESDECONTACT) à distance avec un facteur de portée de 3 mètres. Une cible directement touchée par la substance ne subit aucun dégât mais doit réussir un jet de Volonté DD 13 pour ne pas être [secouée](./Secoué.md) pendant 1d4 rounds. Les créatures situées à 1,50 mètre ou moins de l’endroit où la flasque a atterri doivent réussir un jet de Volonté DD 13 pour ne pas être [secouées](./Secoué.md) pendant 1 round. C’est un effet [mental](./Créer un sort.md#EFFETMENTAL) de terreur.
+Cette flasque contient les résidus de fantômes ectoplasmiques mineurs et de créatures similaires. Le personnage peut lancer une flasque de résidu ectoplasmique comme une arme à aspersion. C’est une [[valeurs de combat#ATTAQUESDECONTACT|attaque de contact]] à distance avec un facteur de portée de 3 mètres. Une cible directement touchée par la substance ne subit aucun dégât mais doit réussir un jet de Volonté DD 13 pour ne pas être [[secoué|secouée]] pendant 1d4 rounds. Les créatures situées à 1,50 mètre ou moins de l’endroit où la flasque a atterri doivent réussir un jet de Volonté DD 13 pour ne pas être [[secoué|secouées]] pendant 1 round. C’est un effet [[créer un sort#EFFETMENTAL|mental]] de terreur.
 </td></tr></table>

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Juge
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Juge](./Descriptions individuelles des propriétés spéciales des armes.md#Juge)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Juge]]

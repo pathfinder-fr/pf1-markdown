@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Targe de blocage éclair|{s:AE}}
-**Aura** [Abjuration](./Abjuration.md) puissante ; **NLS** 14 ; **Emplacement** [bouclier](./Boucliers magiques spécifiques.md) ; **Prix** 36.155 po ; **Poids** 7,5 kg
+**Aura** [[Abjuration]] puissante ; **NLS** 14 ; **Emplacement** [[Boucliers magiques spécifiques|bouclier]] ; **Prix** 36.155 po ; **Poids** 7,5 kg
 (((Description)))
-Une fois par [round](./round.md), par une [action immédiate](./Action immédiate.md), cette [targe](./targe (armure).md) *[anti-projectiles](./anti-projectiles (propriété).md)* +3 peut bloquer une attaque au corps à corps. Le bonus d’altération de la targe augmente de +2 contre cette attaque. Le porteur de la targe doit décider s’il utilise cette propriété avant que l’adversaire fasse son [jet d’attaque](./jet dattaque.md). S’il bloque une attaque au corps à corps de cette façon, il ne peut utiliser la propriété spéciale d’*[anti-projectiles](./anti-projectiles (propriété).md)* pendant 1 [round](./round.md).
+Une fois par [[round]], par une [[action immédiate]], cette [[targe (armure)|targe]] *[[anti-projectiles (propriété)|anti-projectiles]]* +3 peut bloquer une attaque au corps à corps. Le bonus d’altération de la targe augmente de +2 contre cette attaque. Le porteur de la targe doit décider s’il utilise cette propriété avant que l’adversaire fasse son [[jet dattaque|jet d’attaque]]. S’il bloque une attaque au corps à corps de cette façon, il ne peut utiliser la propriété spéciale d’*[[anti-projectiles (propriété)|anti-projectiles]]* pendant 1 [[round]].
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[bouclier](./Bouclier.md)* ; **Coût** 18.155 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[bouclier]]* ; **Coût** 18.155 po
 </div>

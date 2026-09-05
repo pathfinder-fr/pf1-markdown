@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Chaque round, le personnage peut tirer de nombreuses fois avec une précision stupéfiante.*
 
-**Condition.** [Tir rapide](./Tir rapide.md)
+**Condition.** [[Tir rapide]]
 
-**Avantage.** Lorsqu’il utilise [Tir rapide](./Tir rapide.md), le personnage peut soit ignorer le malus de -2 aux jets d’attaque imposé par le don, soit effectuer deux attaques supplémentaires au lieu d’une seule.
+**Avantage.** Lorsqu’il utilise [[Tir rapide]], le personnage peut soit ignorer le malus de -2 aux jets d’attaque imposé par le don, soit effectuer deux attaques supplémentaires au lieu d’une seule.

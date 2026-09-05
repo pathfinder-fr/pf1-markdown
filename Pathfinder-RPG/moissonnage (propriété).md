@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Moissonnage
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Moissonnage](./Descriptions individuelles des propriétés spéciales des armes.md#Moissonnage)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Moissonnage]]

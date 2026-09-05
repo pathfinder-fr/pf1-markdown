@@ -6,8 +6,8 @@ Categories:
 - Weekly Grind
 ---
 
-<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=2015511565554810) publiée avec l'autorisation de l'auteur Jason Bulmahn — [retour à l'index](./Informations-Weekly-Grind.md)</p>
-La porte la plus au sud de la [Salle 1](./Informations-WG-Salle-1.md) mène à un long corridor rempli de pièges mortels. Lorsque les PJ ouvrent cette porte, lisez ou paraphrasez le texte suivant.
+<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=2015511565554810) publiée avec l'autorisation de l'auteur Jason Bulmahn — [[Informations.Weekly Grind|retour à l'index]]</p>
+La porte la plus au sud de la [[Informations.WG Salle 1|Salle 1]] mène à un long corridor rempli de pièges mortels. Lorsque les PJ ouvrent cette porte, lisez ou paraphrasez le texte suivant.
 
 <center><img src="http://www.pathfinder-fr.org/Wiki/public/upload/Illustrations/WeeklyGrind/wg5.jpg" /></center>
 
@@ -59,7 +59,7 @@ Sur le mur nord de la partie enfoncée se trouve un message écrit en druidique 
 
 Une fois que les trois alcôves sont remplies, si un quatrième PJ pénètre dans la zone au milieu, le sol s'élève jusqu'à atteindre le même niveau que celui des trois alcôves et une voix provient du plafond. Elle dit *"Le premier sera exilé, le second doit en payer le prix, mais le troisième ouvre la voie. Choisissez."*
 
-Le PJ qui se tient au milieu doit alors choisir l'ordre dans lequel les PJ piégés seront libérés. Le premier choisi disparaît et on ne le revoit plus jamais (dans la campagne qui se déroule dans les bureaux de Paizo, les personnages exilés des deux groupes échangeront leur place ; dans les autres parties, le joueur en question devrait créer un nouveau personnage pour les quelques sessions à venir, mais il reviendra tôt ou tard). Le second PJ choisi subit un affaiblissement temporaire de 1 point dans chacune des caractéristiques. Le troisième est libéré sans pénalité mais il est immédiatement aspiré par un portail qui apparaît dans le mur derrière lui et envoyé vers la [Salle 6](./Informations-WG-Salle-6.md).
+Le PJ qui se tient au milieu doit alors choisir l'ordre dans lequel les PJ piégés seront libérés. Le premier choisi disparaît et on ne le revoit plus jamais (dans la campagne qui se déroule dans les bureaux de Paizo, les personnages exilés des deux groupes échangeront leur place ; dans les autres parties, le joueur en question devrait créer un nouveau personnage pour les quelques sessions à venir, mais il reviendra tôt ou tard). Le second PJ choisi subit un affaiblissement temporaire de 1 point dans chacune des caractéristiques. Le troisième est libéré sans pénalité mais il est immédiatement aspiré par un portail qui apparaît dans le mur derrière lui et envoyé vers la [[Informations.WG Salle 6|Salle 6]].
 
 **Points de victoire.** Les PJ qui explorent cette salle peuvent gagner des points de victoire (PV) des manières suivantes.
 - Objectif principal (5 PV) : quitter cette salle via le portail situé dans la dernière section.

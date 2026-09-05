@@ -4,9 +4,9 @@ Title: Seltyel, magus "iconique"
 LastModified: 2021-07-26 19:00
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur le lore de Golarion pour Pathfinder 2](./LORE.md)
+• [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 Je suis né deux fois. Et, à chaque naissance, j’ai gagné un compagnon pour la vie. Mon premier compagnon était la douleur. Je l’ai apprise au moment où je suis sorti du ventre de ma mère et où j’ai vu mon « père » qui se tenait au-dessus de moi, sa lame au clair. Messire Bhrostra m’a présenté ce compagnon, jour après jour, pendant plusieurs années, trouvant à chaque fois de nouvelles excuses pour me battre et de nouvelles méthodes pour ma rappeler que j’étais une souillure pour sa maison. La douleur m’a enveloppé dans son chaud cocon quand mon véritable géniteur, l’elfe Lairsaph, m’a brisé un genou avant de m’abandonner, brisé, tel un présent pour les hommes qui le pourchassaient, afin qu’il puisse s’échapper pendant que je payais le prix de ses crimes. La douleur m’a rendu fort, m’a préparé aux difficultés et a guidé mes pas vers mon second compagnon : les murmures.
 

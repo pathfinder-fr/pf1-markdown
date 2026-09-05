@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Humain|humains|Illustrations/PNJ/Humain.jpg}{s:MR}**Prix** 10 po ; **Poids** 5 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ce matériel spécialisé est adapté en fonction du type d’animal à dresser. Le harnachement donne un bonus de +2 aux tests de [Dressage](./Dressage.md) vis-à-vis de l’animal qui le porte.
+Ce matériel spécialisé est adapté en fonction du type d’animal à dresser. Le harnachement donne un bonus de +2 aux tests de [[Dressage]] vis-à-vis de l’animal qui le porte.

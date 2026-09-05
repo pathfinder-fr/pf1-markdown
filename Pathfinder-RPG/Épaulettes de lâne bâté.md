@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Épaulettes de l'âne bâté|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Poids** 1,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Poids** 1,5 kg
 (((Description)))
-Tant que personne n’enfile ces épaulettes, on dirait qu’elles sont gravées de chevaux au galop, mais dès que quelqu’un les porte, les chevaux se transforment en ânes perplexes. Leur propriétaire subit un malus de –4 à la [Dextérité](./Dextérité.md) et voit ses vitesses de déplacement réduites de 3 mètres. Une *[délivrance des malédictions](./Délivrance des malédictions.md)* est nécessaire pour enlever ces épaulettes.
+Tant que personne n’enfile ces épaulettes, on dirait qu’elles sont gravées de chevaux au galop, mais dès que quelqu’un les porte, les chevaux se transforment en ânes perplexes. Leur propriétaire subit un malus de –4 à la [[Dextérité]] et voit ses vitesses de déplacement réduites de 3 mètres. Une *[[délivrance des malédictions]]* est nécessaire pour enlever ces épaulettes.
 (((Objet magique prévu)))
-N'importe quelles [épaulettes magiques](./Objets merveilleux portés sur les épaules.md)
+N'importe quelles [[objets merveilleux portés sur les épaules|épaulettes magiques]]
 </div>

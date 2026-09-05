@@ -11,24 +11,24 @@ LastModified: 2021-04-25 00:34
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Augnagar](./augnagar.md) || 14
+| [[Augnagar]] || 14
 |-
-| [Chernobue](./Chernobue.md) || 12
+| [[Chernobue]] || 12
 |-
-| [Cythnigot](./Cythnigot.md) || 2
+| [[Cythnigot]] || 2
 |-
-| [Iathavos](./Iathavos.md) || 20
+| [[Iathavos]] || 20
 |-
-| [Nyogoth](./Nyogoth.md) || 10
+| [[Nyogoth]] || 10
 |-
-| [Shoggti](./Shoggti.md) || 7
+| [[Shoggti]] || 7
 |-
-| [Thulgant](./Thulgant.md) || 18
+| [[Thulgant]] || 18
 |-
-| [Véxénion](./Véxénion.md) || 6
+| [[Véxénion]] || 6
 |}
 </div></div><div class="description">**Source :** Bestiaire 2.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md), [qlippoth](./sous-type qlippoth.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]], [[sous-type qlippoth|qlippoth]])*
 
 Avant que les Abysses n’apprennent à transformer des larves en démons, avant même que les larves n’existent ou que le concept de vie mortelle n’apparaisse, ce plan était déjà peuplé de viles créatures. Elles existent encore aujourd’hui, mais en nombre très limité et seulement dans les fosses les plus profondes de ce plan. Ces fiélons connus sous le nom de qlippoths constituent
 peut-être la forme de vie la plus ancienne du Grand Au-Delà (ils existaient certainement avant que les protéens ne les découvrent). Certains pensent que les qlippoths sont venus d’un royaume inconnu situé dans ce qu’ils décrivent comme la

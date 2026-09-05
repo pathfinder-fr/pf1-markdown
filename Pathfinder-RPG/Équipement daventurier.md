@@ -17,567 +17,567 @@ Categories:
 |- CLASS="titre"
 | Objet || Prix || Poids
 |- CLASS="premier"
-| [↓](./Équipement daventurier.md#Affiche peinte) [Affiche peinte](./Affiche peinte (objet).md) || 15 po || —
+| [[Équipement daventurier#Affiche peinte|↓]] [[Affiche peinte (objet)|Affiche peinte]] || 15 po || —
 |-
-| [↓](./Équipement daventurier.md#Aiguille à coudre) [Aiguille à coudre](./Aiguille à coudre (objet).md) || 5 pa || —
+| [[Équipement daventurier#Aiguille à coudre|↓]] [[Aiguille à coudre (objet)|Aiguille à coudre]] || 5 pa || —
 |-
-| [↓](./Équipement daventurier.md#Aimant) [Aimant](./Aimant (objet).md) || 5 pa || 0,25 kg
+| [[Équipement daventurier#Aimant|↓]] [[Aimant (objet)|Aimant]] || 5 pa || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Anneaux de cryptage) [Anneaux de cryptage](./Anneaux de cryptage (objet).md) || 10 po || —
+| [[Équipement daventurier#Anneaux de cryptage|↓]] [[Anneaux de cryptage (objet)|Anneaux de cryptage]] || 10 po || —
 |-
-| [↓](./Équipement daventurier.md#Appeau) [Appeau](./Appeau (objet).md) || 1 pa || —
+| [[Équipement daventurier#Appeau|↓]] [[Appeau (objet)|Appeau]] || 1 pa || —
 |-
-| [↓](./Équipement daventurier.md#Applique pour bouclier) [Applique pour bouclier](./Applique pour bouclier (objet).md) || 1 po || 0,25 kg
+| [[Équipement daventurier#Applique pour bouclier|↓]] [[Applique pour bouclier (objet)|Applique pour bouclier]] || 1 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Ardoise) [Ardoise](./Ardoise (objet).md) || 1 po || 1 kg
+| [[Équipement daventurier#Ardoise|↓]] [[Ardoise (objet)|Ardoise]] || 1 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Argile) [Argile](./Argile (objet).md) || 1 pa || 0,5 kg
+| [[Équipement daventurier#Argile|↓]] [[Argile (objet)|Argile]] || 1 pa || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Armure factice) [Armure factice](./Armure factice (objet).md) || 90 po || 5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Armure factice|↓]] [[Armure factice (objet)|Armure factice]] || 90 po || 5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Astrolabe) [Astrolabe](./Astrolabe (objet).md) || 1.000 po || 3 kg
+| [[Équipement daventurier#Astrolabe|↓]] [[Astrolabe (objet)|Astrolabe]] || 1.000 po || 3 kg
 |-
-| [↓](./Équipement daventurier.md#Bague à poison) [Bague à poison](./Bague à poison (objet).md) || +20 po || —
+| [[Équipement daventurier#Bague à poison|↓]] [[Bague à poison (objet)|Bague à poison]] || +20 po || —
 |-
-| [↓](./Équipement daventurier.md#Baguette de sourcier) [Baguette de sourcier](./Baguette de sourcier (objet).md) || 10 po || 0,5 kg
+| [[Équipement daventurier#Baguette de sourcier|↓]] [[Baguette de sourcier (objet)|Baguette de sourcier]] || 10 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Baignoire pliante) [Baignoire pliante](./Baignoire pliante (objet).md) || 15 po || 10 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Baignoire pliante|↓]] [[Baignoire pliante (objet)|Baignoire pliante]] || 15 po || 10 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Balise) [Balise (standard)](./Balise (objet).md) || 5 pa || 8 kg
+| [[Équipement daventurier#Balise|↓]] [[Balise (objet)|Balise (standard)]] || 5 pa || 8 kg
 |-
-| [↓](./Équipement daventurier.md#Balise) [Balise (supérieure)](./Balise (objet).md) || 10 po || 15 kg
+| [[Équipement daventurier#Balise|↓]] [[Balise (objet)|Balise (supérieure)]] || 10 po || 15 kg
 |-
-| [↓](./Équipement daventurier.md#Bannière) [Bannière](./Bannière (objet).md) || 1–20 po || 1 kg
+| [[Équipement daventurier#Bannière|↓]] [[Bannière (objet)|Bannière]] || 1–20 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Baume à lèvres empoisonné) [Baume à lèvres empoisonné](./Baume à lèvres empoisonné (objet).md) || 5 po || —
+| [[Équipement daventurier#Baume à lèvres empoisonné|↓]] [[Baume à lèvres empoisonné (objet)|Baume à lèvres empoisonné]] || 5 po || —
 |-
-| [↓](./Équipement daventurier.md#Bélier portable) [Bélier portable](./Bélier portable (objet).md) || 10 po || 10 kg
+| [[Équipement daventurier#Bélier portable|↓]] [[Bélier portable (objet)|Bélier portable]] || 10 po || 10 kg
 |-
-| [↓](./Équipement daventurier.md#Billes) [Billes](./Billes (objet).md) || 1 pa || 1 kg
+| [[Équipement daventurier#Billes|↓]] [[Billes (objet)|Billes]] || 1 pa || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Bois de chauffage) [Bois de chauffage (par jour)](./Bois de chauffage (objet).md) || 1 pc || 10 kg
+| [[Équipement daventurier#Bois de chauffage|↓]] [[Bois de chauffage (objet)|Bois de chauffage (par jour)]] || 1 pc || 10 kg
 |-
-| [↓](./Équipement daventurier.md#Boîte à parchemins) [Boîte à parchemins](./Boîte à parchemins (objet).md) || 5 po || 0,5 kg
+| [[Équipement daventurier#Boîte à parchemins|↓]] [[Boîte à parchemins (objet)|Boîte à parchemins]] || 5 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Botte de lintrus) [Botte de l'intrus](./Botte de lintrus (objet).md) || 8 pa || 1 kg
+| [[Équipement daventurier#Botte de lintrus|↓]] [[Botte de lintrus (objet)|Botte de l'intrus]] || 8 pa || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Bottin mondain) [Bottin mondain](./Bottin mondain (objet).md) || 5 po || 0,5 kg
+| [[Équipement daventurier#Bottin mondain|↓]] [[Bottin mondain (objet)|Bottin mondain]] || 5 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Bouchons doreilles) [Bouchons d'oreilles](./Bouchons doreilles (objet).md) || 3 pc || —
+| [[Équipement daventurier#Bouchons doreilles|↓]] [[Bouchons doreilles (objet)|Bouchons d'oreilles]] || 3 pc || —
 |-
-| [↓](./Équipement daventurier.md#Bougeoir) [Bougeoir](./Bougeoir (objet).md) || 1 pc || 0,25 kg
+| [[Équipement daventurier#Bougeoir|↓]] [[Bougeoir (objet)|Bougeoir]] || 1 pc || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Bougie) [Bougie](./Bougie (objet).md) || 1 pc || —
+| [[Équipement daventurier#Bougie|↓]] [[Bougie (objet)|Bougie]] || 1 pc || —
 |-
-| [↓](./Équipement daventurier.md#Bourse) [Bourse](./Bourse (objet).md) || 1 po || 0,25 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Bourse|↓]] [[Bourse (objet)|Bourse]] || 1 po || 0,25 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Boussole) [Boussole](./Boussole (objet).md) || 10 po || 0,25 kg
+| [[Équipement daventurier#Boussole|↓]] [[Boussole (objet)|Boussole]] || 10 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Bouteille) [Bouteille](./Bouteille (objet).md) || 2 po || 0,5 kg
+| [[Équipement daventurier#Bouteille|↓]] [[Bouteille (objet)|Bouteille]] || 2 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Bracelet en braille) [Bracelet en braille](./Bracelet en braille (objet).md) || 25 po || —
+| [[Équipement daventurier#Bracelet en braille|↓]] [[Bracelet en braille (objet)|Bracelet en braille]] || 25 po || —
 |-
-| [↓](./Équipement daventurier.md#Câble) [Câble](./Câble (objet).md) || 5 po || 0,25 kg
+| [[Équipement daventurier#Câble|↓]] [[Câble (objet)|Câble]] || 5 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Cadenas) [Cadenas (bon)](./Cadenas (objet).md) || 80 po || 0,5 kg
+| [[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (bon)]] || 80 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Cadenas) [Cadenas (moyen)](./Cadenas (objet).md) || 40 po || 0,5 kg
+| [[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (moyen)]] || 40 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Cadenas) [Cadenas (simple)](./Cadenas (objet).md) || 20 po || 0,5 kg
+| [[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (simple)]] || 20 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Cadenas) [Cadenas (supérieur)](./Cadenas (objet).md) || 150 po || 0,5 kg
+| [[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (supérieur)]] || 150 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Cafetière) [Cafetière](./Cafetière (objet).md) || 3 po || 2 kg
+| [[Équipement daventurier#Cafetière|↓]] [[Cafetière (objet)|Cafetière]] || 3 po || 2 kg
 |-
-| [↓](./Équipement daventurier.md#Cagoule de contention) [Cagoule de contention](./Cagoule de contention (objet).md) || 75 po || 1,5 kg
+| [[Équipement daventurier#Cagoule de contention|↓]] [[Cagoule de contention (objet)|Cagoule de contention]] || 75 po || 1,5 kg
 |-
-| [↓](./Équipement daventurier.md#Calumet) [Calumet](./Calumet (objet).md) || 20 po || —
+| [[Équipement daventurier#Calumet|↓]] [[Calumet (objet)|Calumet]] || 20 po || —
 |-
-| [↓](./Équipement daventurier.md#Capuchon filtreur) [Capuchon filtreur](./Capuchon filtreur (objet).md) || 10 po || 2 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Capuchon filtreur|↓]] [[Capuchon filtreur (objet)|Capuchon filtreur]] || 10 po || 2 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Carillon) [Carillon](./Carillon (objet).md) || 1 po || 0,5 kg
+| [[Équipement daventurier#Carillon|↓]] [[Carillon (objet)|Carillon]] || 1 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Carnet) [Carnet](./Carnet (objet).md) || 10 po || 0,5 kg
+| [[Équipement daventurier#Carnet|↓]] [[Carnet (objet)|Carnet]] || 10 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Carte nautique) [Carte nautique](./Carte nautique (objet).md) || 25 po || —
+| [[Équipement daventurier#Carte nautique|↓]] [[Carte nautique (objet)|Carte nautique]] || 25 po || —
 |-
-| [↓](./Équipement daventurier.md#Carte régionale) [Carte régionale](./Carte régionale (objet).md) || 50 po || 1 kg
+| [[Équipement daventurier#Carte régionale|↓]] [[Carte régionale (objet)|Carte régionale]] || 50 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Cartouchière) [Cartouchière](./Cartouchière (objet).md) || 5 pa || —
+| [[Équipement daventurier#Cartouchière|↓]] [[Cartouchière (objet)|Cartouchière]] || 5 pa || —
 |-
-| [↓](./Équipement daventurier.md#Casque à bougie) [Casque à bougie](./Casque à bougie (objet).md) || 2 po || 2 kg
+| [[Équipement daventurier#Casque à bougie|↓]] [[Casque à bougie (objet)|Casque à bougie]] || 2 po || 2 kg
 |-
-| [↓](./Équipement daventurier.md#Ceinture daventurier) [Ceinture d'aventurier](./Ceinture daventurier (objet).md) || 20 po || 1,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Ceinture daventurier|↓]] [[Ceinture daventurier (objet)|Ceinture d'aventurier]] || 20 po || 1,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Ceinture-parchemin) [Ceinture-parchemin](./Ceinture-parchemin (objet).md) || 3 pa || variable
+| [[Équipement daventurier#Ceinture-parchemin|↓]] [[Ceinture-parchemin (objet)|Ceinture-parchemin]] || 3 pa || variable
 |-
-| [↓](./Équipement daventurier.md#Cercueil) [Cercueil (orné)](./Cercueil (objet).md) || 100 po || 25 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Cercueil|↓]] [[Cercueil (objet)|Cercueil (orné)]] || 100 po || 25 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Cercueil) [Cercueil (standard)](./Cercueil (objet).md) || 10 po || 15 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Cercueil|↓]] [[Cercueil (objet)|Cercueil (standard)]] || 10 po || 15 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Chaîne) [Chaîne (3 m)](./Chaîne (objet).md) || 30 po || 1 kg
+| [[Équipement daventurier#Chaîne|↓]] [[Chaîne (objet)|Chaîne (3 m)]] || 30 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Chaînes factices) [Chaînes factices (3 m)](./Chaînes factices (objet).md) || 65 po || 1 kg
+| [[Équipement daventurier#Chaînes factices|↓]] [[Chaînes factices (objet)|Chaînes factices (3 m)]] || 65 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Chaise pliante) [Chaise pliante](./Chaise pliante (objet).md) || 2 po || 5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Chaise pliante|↓]] [[Chaise pliante (objet)|Chaise pliante]] || 2 po || 5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Charbon) [Charbon (1 bâtonnet)](./Charbon (objet).md) || 5 pa || —
+| [[Équipement daventurier#Charbon|↓]] [[Charbon (objet)|Charbon (1 bâtonnet)]] || 5 pa || —
 |-
-| [↓](./Équipement daventurier.md#Chaudron) [Chaudron (en mithral)](./Chaudron (objet).md) || 2.501 po || 1,25 kg
+| [[Équipement daventurier#Chaudron|↓]] [[Chaudron (objet)|Chaudron (en mithral)]] || 2.501 po || 1,25 kg
 |-
-| [↓](./Équipement daventurier.md#Chaudron) [Chaudron (standard)](./Chaudron (objet).md) || 1 po || 2,5 kg
+| [[Équipement daventurier#Chaudron|↓]] [[Chaudron (objet)|Chaudron (standard)]] || 1 po || 2,5 kg
 |-
-| [↓](./Équipement daventurier.md#Chausse-trappes) [Chausse-trappes](./Chausse-trappes (objet).md) || 1 po || 1 kg
+| [[Équipement daventurier#Chausse-trappes|↓]] [[Chausse-trappes (objet)|Chausse-trappes]] || 1 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Chausse-trappes vicieuses) [Chausse-trappes vicieuses](./Chausse-trappes vicieuses (objet).md) || 50 po || 2 kg
+| [[Équipement daventurier#Chausse-trappes vicieuses|↓]] [[Chausse-trappes vicieuses (objet)|Chausse-trappes vicieuses]] || 50 po || 2 kg
 |-
-| [↓](./Équipement daventurier.md#Chaussures de fausses empreintes) [Chaussures de fausses empreintes](./Chaussures de fausses empreintes (objet).md) || 5 po || 1 kg
+| [[Équipement daventurier#Chaussures de fausses empreintes|↓]] [[Chaussures de fausses empreintes (objet)|Chaussures de fausses empreintes]] || 5 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Chevalière) [Chevalière](./Chevalière (objet).md) || 5 po || —
+| [[Équipement daventurier#Chevalière|↓]] [[Chevalière (objet)|Chevalière]] || 5 po || —
 |-
-| [↓](./Équipement daventurier.md#ChignoleForeuse) [Chignole/Foreuse](./ChignoleForeuse (objet).md) || 5 pa || 0,5 kg
+| [[Équipement daventurier#ChignoleForeuse|↓]] [[ChignoleForeuse (objet)|Chignole/Foreuse]] || 5 pa || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Chope) [Chope](./Chope (objet).md) || 2 pc || 0,5 kg
+| [[Équipement daventurier#Chope|↓]] [[Chope (objet)|Chope]] || 2 pc || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Chronique des Explorateurs) [Chronique des Explorateurs](./Chronique des Explorateurs (objet).md) || 50 po || 0,5 kg
+| [[Équipement daventurier#Chronique des Explorateurs|↓]] [[Chronique des Explorateurs (objet)|Chronique des Explorateurs]] || 50 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Cire à cacheter) [Cire à cacheter](./Cire à cacheter (objet).md) || 1 po || 0,5 kg
+| [[Équipement daventurier#Cire à cacheter|↓]] [[Cire à cacheter (objet)|Cire à cacheter]] || 1 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Clepsydre) [Clepsydre](./Clepsydre (objet).md) || 1.000 po || 100 kg
+| [[Équipement daventurier#Clepsydre|↓]] [[Clepsydre (objet)|Clepsydre]] || 1.000 po || 100 kg
 |-
-| [↓](./Équipement daventurier.md#Cloche) [Cloche](./Cloche (objet).md) || 1 po || —
+| [[Équipement daventurier#Cloche|↓]] [[Cloche (objet)|Cloche]] || 1 po || —
 |-
-| [↓](./Équipement daventurier.md#Cloche de cérémonie) [Cloche de cérémonie](./Cloche de cérémonie (objet).md) || 2 po || 0,5 kg
+| [[Équipement daventurier#Cloche de cérémonie|↓]] [[Cloche de cérémonie (objet)|Cloche de cérémonie]] || 2 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Coffre) [Coffre (taille G)](./Coffre (objet).md) || 10 po || 50 kg
+| [[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille G)]] || 10 po || 50 kg
 |-
-| [↓](./Équipement daventurier.md#Coffre) [Coffre (taille M)](./Coffre (objet).md) || 5 po || 25 kg
+| [[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille M)]] || 5 po || 25 kg
 |-
-| [↓](./Équipement daventurier.md#Coffre) [Coffre (taille P)](./Coffre (objet).md) || 2 po || 12,5 kg
+| [[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille P)]] || 2 po || 12,5 kg
 |-
-| [↓](./Équipement daventurier.md#Coffre) [Coffre (taille TG)](./Coffre (objet).md) || 25 po || 125 kg
+| [[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille TG)]] || 25 po || 125 kg
 |-
-| [↓](./Équipement daventurier.md#Coffre à double fond) [Coffre à double fond](./Coffre à double fond (objet).md) || 52 po || 12,5 kg
+| [[Équipement daventurier#Coffre à double fond|↓]] [[Coffre à double fond (objet)|Coffre à double fond]] || 52 po || 12,5 kg
 |-
-| [↓](./Équipement daventurier.md#Coffre au trésor) [Coffre au trésor (taille G)](./Coffre au trésor (objet).md) || 15 po || 50 kg
+| [[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille G)]] || 15 po || 50 kg
 |-
-| [↓](./Équipement daventurier.md#Coffre au trésor) [Coffre au trésor (taille M)](./Coffre au trésor (objet).md) || 7 po || 25 kg
+| [[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille M)]] || 7 po || 25 kg
 |-
-| [↓](./Équipement daventurier.md#Coffre au trésor) [Coffre au trésor (taille P)](./Coffre au trésor (objet).md) || 3 po || 12,5 kg
+| [[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille P)]] || 3 po || 12,5 kg
 |-
-| [↓](./Équipement daventurier.md#Coffre au trésor) [Coffre au trésor (taille TG)](./Coffre au trésor (objet).md) || 37 po || 125 kg
+| [[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille TG)]] || 37 po || 125 kg
 |-
-| [↓](./Équipement daventurier.md#Colle animale) [Colle animale](./Colle animale (objet).md) || 5 pa || 0,25 kg
+| [[Équipement daventurier#Colle animale|↓]] [[Colle animale (objet)|Colle animale]] || 5 pa || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Colonie de scarabées charognards) [Colonie de scarabées charognards](./Colonie de scarabées charognards (objet).md) || 3 po || 0,5 kg
+| [[Équipement daventurier#Colonie de scarabées charognards|↓]] [[Colonie de scarabées charognards (objet)|Colonie de scarabées charognards]] || 3 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Combinaison dapiculteur) [Combinaison d'apiculteur](./Combinaison dapiculteur (objet).md) || 20 po || 5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Combinaison dapiculteur|↓]] [[Combinaison dapiculteur (objet)|Combinaison d'apiculteur]] || 20 po || 5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Copie de clé) [Copie de clé](./Copie de clé (objet).md) || 1 po || —
+| [[Équipement daventurier#Copie de clé|↓]] [[Copie de clé (objet)|Copie de clé]] || 1 po || —
 |-
-| [↓](./Équipement daventurier.md#Cor) [Cor](./Cor (objet).md) || 1 po || 1 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Cor|↓]] [[Cor (objet)|Cor]] || 1 po || 1 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Corde) [Corde (15 m)](./Corde (objet).md) || 1 po || 5 kg
+| [[Équipement daventurier#Corde|↓]] [[Corde (objet)|Corde (15 m)]] || 1 po || 5 kg
 |-
-| [↓](./Équipement daventurier.md#Corde) [Corde (en soie d'araignée, 15 m)](./Corde (objet).md) || 100 po || 2 kg
+| [[Équipement daventurier#Corde|↓]] [[Corde (objet)|Corde (en soie d'araignée, 15 m)]] || 100 po || 2 kg
 |-
-| [↓](./Équipement daventurier.md#Corde) [Corde (en soie, 15 m)](./Corde (objet).md) || 10 po || 2,5 kg
+| [[Équipement daventurier#Corde|↓]] [[Corde (objet)|Corde (en soie, 15 m)]] || 10 po || 2,5 kg
 |-
-| [↓](./Équipement daventurier.md#Corde métrée) [Corde métrée (3 m)](./Corde métrée (objet).md) || 1 po || 0,25 kg
+| [[Équipement daventurier#Corde métrée|↓]] [[Corde métrée (objet)|Corde métrée (3 m)]] || 1 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Cordon à grimoire) [Cordon à grimoire](./Cordon à grimoire (objet).md) || 3 pa || 0,25 kg
+| [[Équipement daventurier#Cordon à grimoire|↓]] [[Cordon à grimoire (objet)|Cordon à grimoire]] || 3 pa || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Corne à poudre) [Corne à poudre](./Corne à poudre (objet).md) || 3 po || 0,5 kg
+| [[Équipement daventurier#Corne à poudre|↓]] [[Corne à poudre (objet)|Corne à poudre]] || 3 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Corne acoustique) [Corne acoustique](./Corne acoustique (objet).md) || 5 po || 1 kg
+| [[Équipement daventurier#Corne acoustique|↓]] [[Corne acoustique (objet)|Corne acoustique]] || 5 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Coupe à double fond) [Coupe à double fond](./Coupe à double fond (objet).md) || 1 po || —
+| [[Équipement daventurier#Coupe à double fond|↓]] [[Coupe à double fond (objet)|Coupe à double fond]] || 1 po || —
 |-
-| [↓](./Équipement daventurier.md#Coupe-verre) [Coupe-verre](./Coupe-verre (objet).md) || 5 po || —
+| [[Équipement daventurier#Coupe-verre|↓]] [[Coupe-verre (objet)|Coupe-verre]] || 5 po || —
 |-
-| [↓](./Équipement daventurier.md#Couverture) [Couverture](./Couverture (objet).md) || 5 pa || 1,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Couverture|↓]] [[Couverture (objet)|Couverture]] || 5 pa || 1,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Craie) [Craie](./Craie (objet).md) || 1 pc || —
+| [[Équipement daventurier#Craie|↓]] [[Craie (objet)|Craie]] || 1 pc || —
 |-
-| [↓](./Équipement daventurier.md#Cristal prismatique) [Cristal prismatique](./Cristal prismatique (objet).md) || 30 po || 0,25 kg
+| [[Équipement daventurier#Cristal prismatique|↓]] [[Cristal prismatique (objet)|Cristal prismatique]] || 30 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Cruche) [Cruche](./Cruche (objet).md) || 2 pc || 2,5 kg
+| [[Équipement daventurier#Cruche|↓]] [[Cruche (objet)|Cruche]] || 2 pc || 2,5 kg
 |-
-| [↓](./Équipement daventurier.md#Dictionnaire de voyage) [Dictionnaire de voyage](./Dictionnaire de voyage (objet).md) || 50 po || 1 kg
+| [[Équipement daventurier#Dictionnaire de voyage|↓]] [[Dictionnaire de voyage (objet)|Dictionnaire de voyage]] || 50 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Dragonne) [Dragonne](./Dragonne (objet).md) || 1 pa || —
+| [[Équipement daventurier#Dragonne|↓]] [[Dragonne (objet)|Dragonne]] || 1 pa || —
 |-
-| [↓](./Équipement daventurier.md#Échasses) [Échasses (de maître)](./Échasses (objet).md) || 5 po || 5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Échasses|↓]] [[Échasses (objet)|Échasses (de maître)]] || 5 po || 5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Échasses) [Échasses (standard)](./Échasses (objet).md) || 2 pa || 5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Échasses|↓]] [[Échasses (objet)|Échasses (standard)]] || 2 pa || 5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Échelle) [Échelle (pliante)](./Échelle (objet).md) || 2 po || 8 kg
+| [[Équipement daventurier#Échelle|↓]] [[Échelle (objet)|Échelle (pliante)]] || 2 po || 8 kg
 |-
-| [↓](./Équipement daventurier.md#Échelle) [Échelle (standard)](./Échelle (objet).md) || 2 pa || 10 kg
+| [[Équipement daventurier#Échelle|↓]] [[Échelle (objet)|Échelle (standard)]] || 2 pa || 10 kg
 |-
-| [↓](./Équipement daventurier.md#Encens) [Encens (AO)](./Encens (objet).md) || 7 pa || —
+| [[Équipement daventurier#Encens|↓]] [[Encens (objet)|Encens (AO)]] || 7 pa || —
 |-
-| [↓](./Équipement daventurier.md#Encens) [Encens (MR, 10 bâtonnets)](./Encens (objet).md) || 10 po || 0,5 kg
+| [[Équipement daventurier#Encens|↓]] [[Encens (objet)|Encens (MR, 10 bâtonnets)]] || 10 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Encensoir) [Encensoir](./Encensoir (objet).md) || 50 po || 1,5 kg
+| [[Équipement daventurier#Encensoir|↓]] [[Encensoir (objet)|Encensoir]] || 50 po || 1,5 kg
 |-
-| [↓](./Équipement daventurier.md#Encre) [Encre](./Encre (objet).md) || 8 po || —
+| [[Équipement daventurier#Encre|↓]] [[Encre (objet)|Encre]] || 8 po || —
 |-
-| [↓](./Équipement daventurier.md#Épée à dos de scie) [Épée à dos de scie](./Épée à dos de scie (objet).md) || +5 po || —
+| [[Équipement daventurier#Épée à dos de scie|↓]] [[Épée à dos de scie (objet)|Épée à dos de scie]] || +5 po || —
 |-
-| [↓](./Équipement daventurier.md#Étendard) [Étendard](./Étendard (objet).md) || 10 po || 1,5 kg
+| [[Équipement daventurier#Étendard|↓]] [[Étendard (objet)|Étendard]] || 10 po || 1,5 kg
 |-
-| [↓](./Équipement daventurier.md#Étui à parchemins) [Étui à parchemins](./Étui à parchemins (objet).md) || 1 po || 0,25 kg
+| [[Équipement daventurier#Étui à parchemins|↓]] [[Étui à parchemins (objet)|Étui à parchemins]] || 1 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Étui de manche) [Étui de manche](./Étui de manche (objet).md) || 100 po || 0,5 kg
+| [[Équipement daventurier#Étui de manche|↓]] [[Étui de manche (objet)|Étui de manche]] || 100 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Fausses menottes) [Fausses menottes](./Fausses menottes (objet).md) || 65 po || 1 kg
+| [[Équipement daventurier#Fausses menottes|↓]] [[Fausses menottes (objet)|Fausses menottes]] || 65 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Fers) [Fers (de maître)](./Fers (objet).md) || 50 po || 1 kg
+| [[Équipement daventurier#Fers|↓]] [[Fers (objet)|Fers (de maître)]] || 50 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Fers) [Fers (standards)](./Fers (objet).md) || 15 po || 1 kg
+| [[Équipement daventurier#Fers|↓]] [[Fers (objet)|Fers (standards)]] || 15 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Ficelle) [Ficelle (15 m)](./Ficelle (objet).md) || 1 pc || 0,25 kg
+| [[Équipement daventurier#Ficelle|↓]] [[Ficelle (objet)|Ficelle (15 m)]] || 1 pc || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Fil à scier) [Fil à scier (en adamantium)](./Fil à scier (objet).md) || 150 po || —
+| [[Équipement daventurier#Fil à scier|↓]] [[Fil à scier (objet)|Fil à scier (en adamantium)]] || 150 po || —
 |-
-| [↓](./Équipement daventurier.md#Fil à scier) [Fil à scier (standard)](./Fil à scier (objet).md) || 30 po || —
+| [[Équipement daventurier#Fil à scier|↓]] [[Fil à scier (objet)|Fil à scier (standard)]] || 30 po || —
 |-
-| [↓](./Équipement daventurier.md#Filet à clochettes) [Filet à clochettes](./Filet à clochettes (objet).md) || 2 po || 1 kg
+| [[Équipement daventurier#Filet à clochettes|↓]] [[Filet à clochettes (objet)|Filet à clochettes]] || 2 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Filet à papillons) [Filet à papillons](./Filet à papillons (objet).md) || 5 po || 1 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Filet à papillons|↓]] [[Filet à papillons (objet)|Filet à papillons]] || 5 po || 1 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Filet de pêche) [Filet de pêche](./Filet de pêche (objet).md) || 4 po || 2,5 kg
+| [[Équipement daventurier#Filet de pêche|↓]] [[Filet de pêche (objet)|Filet de pêche]] || 4 po || 2,5 kg
 |-
-| [↓](./Équipement daventurier.md#Fiole) [Fiole](./Fiole (objet).md) || 1 po || —
+| [[Équipement daventurier#Fiole|↓]] [[Fiole (objet)|Fiole]] || 1 po || —
 |-
-| [↓](./Équipement daventurier.md#Fiole en fer) [Fiole en fer](./Fiole en fer (objet).md) || 1 pa || 0,5 kg
+| [[Équipement daventurier#Fiole en fer|↓]] [[Fiole en fer (objet)|Fiole en fer]] || 1 pa || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Flasque) [Flasque](./Flasque (objet).md) || 3 pc || 0,75 kg
+| [[Équipement daventurier#Flasque|↓]] [[Flasque (objet)|Flasque]] || 3 pc || 0,75 kg
 |-
-| [↓](./Équipement daventurier.md#Flasque de poche) [Flasque de poche](./Flasque de poche (objet).md) || 1 po || 0,25 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Flasque de poche|↓]] [[Flasque de poche (objet)|Flasque de poche]] || 1 po || 0,25 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Flèche-grappin) [Flèche-grappin](./Flèche-grappin (objet).md) || 1 po || 0,25 kg
+| [[Équipement daventurier#Flèche-grappin|↓]] [[Flèche-grappin (objet)|Flèche-grappin]] || 1 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Fourreau à double fond) [Fourreau à double fond](./Fourreau à double fond (objet).md) || 45 po || 0,5 kg
+| [[Équipement daventurier#Fourreau à double fond|↓]] [[Fourreau à double fond (objet)|Fourreau à double fond]] || 45 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Fourreau de poignet) [Fourreau de poignet (à ressort)](./Fourreau de poignet (objet).md) || 5 po || 0,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Fourreau de poignet|↓]] [[Fourreau de poignet (objet)|Fourreau de poignet (à ressort)]] || 5 po || 0,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Fourreau de poignet) [Fourreau de poignet (standard)](./Fourreau de poignet (objet).md) || 1 po || 0,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Fourreau de poignet|↓]] [[Fourreau de poignet (objet)|Fourreau de poignet (standard)]] || 1 po || 0,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Fourreau empoisonné) [Fourreau empoisonné](./Fourreau empoisonné (objet).md) || 50 po || 0,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Fourreau empoisonné|↓]] [[Fourreau empoisonné (objet)|Fourreau empoisonné]] || 50 po || 0,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Gaufrier) [Gaufrier (en mithral)](./Gaufrier (objet).md) || 2.501 po || 1,25 kg
+| [[Équipement daventurier#Gaufrier|↓]] [[Gaufrier (objet)|Gaufrier (en mithral)]] || 2.501 po || 1,25 kg
 |-
-| [↓](./Équipement daventurier.md#Gaufrier) [Gaufrier (standard)](./Gaufrier (objet).md) || 1 po || 2,5 kg
+| [[Équipement daventurier#Gaufrier|↓]] [[Gaufrier (objet)|Gaufrier (standard)]] || 1 po || 2,5 kg
 |-
-| [↓](./Équipement daventurier.md#Gemme de chair) [Gemme de chair (décorative)](./Gemme de chair (objet).md) || 1 po || —
+| [[Équipement daventurier#Gemme de chair|↓]] [[Gemme de chair (objet)|Gemme de chair (décorative)]] || 1 po || —
 |-
-| [↓](./Équipement daventurier.md#Gemme de chair) [Gemme de chair (pointes)](./Gemme de chair (objet).md) || 50 po || 2,5 kg
+| [[Équipement daventurier#Gemme de chair|↓]] [[Gemme de chair (objet)|Gemme de chair (pointes)]] || 50 po || 2,5 kg
 |-
-| [↓](./Équipement daventurier.md#Gourde) [Gourde](./Gourde (objet).md) || 2 po || 0,5 kg
+| [[Équipement daventurier#Gourde|↓]] [[Gourde (objet)|Gourde]] || 2 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Graines sentinelles) [Graines sentinelles](./Graines sentinelles (objet).md) || 7 po || 0,25 kg
+| [[Équipement daventurier#Graines sentinelles|↓]] [[Graines sentinelles (objet)|Graines sentinelles]] || 7 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Grappin) [Grappin (en mithral)](./Grappin (objet).md) || 2.001 po || 1 kg
+| [[Équipement daventurier#Grappin|↓]] [[Grappin (objet)|Grappin (en mithral)]] || 2.001 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Grappin) [Grappin (standard)](./Grappin (objet).md) || 1 po || 2 kg
+| [[Équipement daventurier#Grappin|↓]] [[Grappin (objet)|Grappin (standard)]] || 1 po || 2 kg
 |-
-| [↓](./Équipement daventurier.md#Griffes métalliques) [Griffes métalliques](./Griffes métalliques (objet).md) || 305 po || 1 kg
+| [[Équipement daventurier#Griffes métalliques|↓]] [[Griffes métalliques (objet)|Griffes métalliques]] || 305 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Hamac) [Hamac](./Hamac (objet).md) || 1 pa || 1,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Hamac|↓]] [[Hamac (objet)|Hamac]] || 1 pa || 1,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Hameçon) [Hameçon](./Hameçon (objet).md) || 1 pa || —
+| [[Équipement daventurier#Hameçon|↓]] [[Hameçon (objet)|Hameçon]] || 1 pa || —
 |-
-| [↓](./Équipement daventurier.md#Huile) [Huile](./Huile (objet).md) || 1 pa || 0,5 kg
+| [[Équipement daventurier#Huile|↓]] [[Huile (objet)|Huile]] || 1 pa || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Jambe de bois) [Jambe de bois](./Jambe de bois (objet).md) || 10 po || 2,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Jambe de bois|↓]] [[Jambe de bois (objet)|Jambe de bois]] || 10 po || 2,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Jarre) [Jarre](./Jarre (objet).md) || 3 pc || 4,5 kg
+| [[Équipement daventurier#Jarre|↓]] [[Jarre (objet)|Jarre]] || 3 pc || 4,5 kg
 |-
-| [↓](./Équipement daventurier.md#Jeton de représentation) [Jeton de représentation](./Jeton de représentation (objet).md) || 2 pa || —
+| [[Équipement daventurier#Jeton de représentation|↓]] [[Jeton de représentation (objet)|Jeton de représentation]] || 2 pa || —
 |-
-| [↓](./Équipement daventurier.md#Kit repas) [Kit repas](./Kit repas (objet).md) || 2 pa || 0,5 kg
+| [[Équipement daventurier#Kit repas|↓]] [[Kit repas (objet)|Kit repas]] || 2 pa || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Lampe) [Lampe](./Lampe (objet).md) || 1 pa || 0,5 kg
+| [[Équipement daventurier#Lampe|↓]] [[Lampe (objet)|Lampe]] || 1 pa || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Lance-javelot) [Lance-javelot](./Lance-javelot (objet).md) || 1 po || 0,5 kg
+| [[Équipement daventurier#Lance-javelot|↓]] [[Lance-javelot (objet)|Lance-javelot]] || 1 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Lanterne à bougie) [Lanterne à bougie](./Lanterne à bougie (objet).md) || 5 po || 0,5 kg
+| [[Équipement daventurier#Lanterne à bougie|↓]] [[Lanterne à bougie (objet)|Lanterne à bougie]] || 5 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Lanterne à capote) [Lanterne à capote](./Lanterne à capote (objet).md) || 7 po || 1 kg
+| [[Équipement daventurier#Lanterne à capote|↓]] [[Lanterne à capote (objet)|Lanterne à capote]] || 7 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Lanterne de mineur) [Lanterne de mineur](./Lanterne de mineur (objet).md) || 15 po || 1 kg
+| [[Équipement daventurier#Lanterne de mineur|↓]] [[Lanterne de mineur (objet)|Lanterne de mineur]] || 15 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Lanterne étanche) [Lanterne étanche](./Lanterne étanche (objet).md) || +5 po || —
+| [[Équipement daventurier#Lanterne étanche|↓]] [[Lanterne étanche (objet)|Lanterne étanche]] || +5 po || —
 |-
-| [↓](./Équipement daventurier.md#Lanterne sourde) [Lanterne sourde](./Lanterne sourde (objet).md) || 12 po || 1,5 kg
+| [[Équipement daventurier#Lanterne sourde|↓]] [[Lanterne sourde (objet)|Lanterne sourde]] || 12 po || 1,5 kg
 |-
-| [↓](./Équipement daventurier.md#Larmes du Dieu vivant) [Larmes du Dieu vivant](./Larmes du Dieu vivant (objet).md) || 25 po || —
+| [[Équipement daventurier#Larmes du Dieu vivant|↓]] [[Larmes du Dieu vivant (objet)|Larmes du Dieu vivant]] || 25 po || —
 |-
-| [↓](./Équipement daventurier.md#Lime à croc) [Lime à croc](./Lime à croc (objet).md) || 3 po || 1 kg
+| [[Équipement daventurier#Lime à croc|↓]] [[Lime à croc (objet)|Lime à croc]] || 3 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Lit de camp) [Lit de camp](./Lit de camp (objet).md) || 1 po || 15 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Lit de camp|↓]] [[Lit de camp (objet)|Lit de camp]] || 1 po || 15 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Livre creux) [Livre creux](./Livre creux (objet).md) || 15 po || 1,5 kg
+| [[Équipement daventurier#Livre creux|↓]] [[Livre creux (objet)|Livre creux]] || 15 po || 1,5 kg
 |-
-| [↓](./Équipement daventurier.md#Livre généalogique) [Livre généalogique](./Livre généalogique (objet).md) || 50 po || 1 kg
+| [[Équipement daventurier#Livre généalogique|↓]] [[Livre généalogique (objet)|Livre généalogique]] || 50 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Livres-codes) [Livres-codes](./Livres-codes (objet).md) || 150 po || 1 kg
+| [[Équipement daventurier#Livres-codes|↓]] [[Livres-codes (objet)|Livres-codes]] || 150 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Longue vue) [Longue vue](./Longue vue (objet).md) || 1.000 po || 0,5 kg
+| [[Équipement daventurier#Longue vue|↓]] [[Longue vue (objet)|Longue vue]] || 1.000 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Loupe) [Loupe](./Loupe (objet).md) || 100 po || —
+| [[Équipement daventurier#Loupe|↓]] [[Loupe (objet)|Loupe]] || 100 po || —
 |-
-| [↓](./Équipement daventurier.md#Lunettes de lecture des auras) [Lunettes de lecture des auras](./Lunettes de lecture des auras (objet).md) || 15 po || 0,5 kg
+| [[Équipement daventurier#Lunettes de lecture des auras|↓]] [[Lunettes de lecture des auras (objet)|Lunettes de lecture des auras]] || 15 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Lunettes fumées) [Lunettes fumées](./Lunettes fumées (objet).md) || 10 po || —
+| [[Équipement daventurier#Lunettes fumées|↓]] [[Lunettes fumées (objet)|Lunettes fumées]] || 10 po || —
 |-
-| [↓](./Équipement daventurier.md#Manche darme ondin) [Manche d'arme ondin](./Manche darme ondin (objet).md) || +300 po || —
+| [[Équipement daventurier#Manche darme ondin|↓]] [[Manche darme ondin (objet)|Manche d'arme ondin]] || +300 po || —
 |-
-| [↓](./Équipement daventurier.md#Marmite) [Marmite (en mithral)](./Marmite (objet).md) || 2.001 po || 1 kg
+| [[Équipement daventurier#Marmite|↓]] [[Marmite (objet)|Marmite (en mithral)]] || 2.001 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Marmite) [Marmite (standard)](./Marmite (objet).md) || 8 pa || 2 kg
+| [[Équipement daventurier#Marmite|↓]] [[Marmite (objet)|Marmite (standard)]] || 8 pa || 2 kg
 |-
-| [↓](./Équipement daventurier.md#Marteau) [Marteau](./Marteau (objet).md) || 5 pa || 1 kg
+| [[Équipement daventurier#Marteau|↓]] [[Marteau (objet)|Marteau]] || 5 pa || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Masse) [Masse](./Masse (objet).md) || 1 po || 5 kg
+| [[Équipement daventurier#Masse|↓]] [[Masse (objet)|Masse]] || 1 po || 5 kg
 |-
-| [↓](./Équipement daventurier.md#Médaillon dhypnotiseur) [Médaillon d'hypnotiseur (médaillon)](./Médaillon dhypnotiseur (objet).md) || 15 po || 0,5 kg
+| [[Équipement daventurier#Médaillon dhypnotiseur|↓]] [[Médaillon dhypnotiseur (objet)|Médaillon d'hypnotiseur (médaillon)]] || 15 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Médaillon dhypnotiseur) [Médaillon d'hypnotiseur (montre à gousset)](./Médaillon dhypnotiseur (objet).md) || 250 po || 0,5 kg
+| [[Équipement daventurier#Médaillon dhypnotiseur|↓]] [[Médaillon dhypnotiseur (objet)|Médaillon d'hypnotiseur (montre à gousset)]] || 250 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Menottes) [Menottes (de maître)](./Menottes (objet).md) || 50 po || 1 kg
+| [[Équipement daventurier#Menottes|↓]] [[Menottes (objet)|Menottes (de maître)]] || 50 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Menottes) [Menottes (en mithral)](./Menottes (objet).md) || 1.000 po || 1 kg
+| [[Équipement daventurier#Menottes|↓]] [[Menottes (objet)|Menottes (en mithral)]] || 1.000 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Menottes) [Menottes (standards)](./Menottes (objet).md) || 15 po || 1 kg
+| [[Équipement daventurier#Menottes|↓]] [[Menottes (objet)|Menottes (standards)]] || 15 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Menottes à pointes) [Menottes à pointes](./Menottes à pointes (objet).md) || +15 po || 0,5 kg
+| [[Équipement daventurier#Menottes à pointes|↓]] [[Menottes à pointes (objet)|Menottes à pointes]] || +15 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Miroir) [Miroir](./Miroir (objet).md) || 10 po || 0,25 kg
+| [[Équipement daventurier#Miroir|↓]] [[Miroir (objet)|Miroir]] || 10 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Missel de guerre) [Missel de guerre](./Missel de guerre (objet).md) || 50 po || 0,25 kg
+| [[Équipement daventurier#Missel de guerre|↓]] [[Missel de guerre (objet)|Missel de guerre]] || 50 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Modèles de lettre) [Modèles de lettre](./Modèles de lettre (objet).md) || 50 po || 1,5 kg
+| [[Équipement daventurier#Modèles de lettre|↓]] [[Modèles de lettre (objet)|Modèles de lettre]] || 50 po || 1,5 kg
 |-
-| [↓](./Équipement daventurier.md#Montre à gousset) [Montre à gousset](./Montre à gousset (objet).md) || 250 po || 0,5 kg
+| [[Équipement daventurier#Montre à gousset|↓]] [[Montre à gousset (objet)|Montre à gousset]] || 250 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Moule de cire vierge) [Moule de cire vierge](./Moule de cire vierge (objet).md) || 15 po || 0,25 kg
+| [[Équipement daventurier#Moule de cire vierge|↓]] [[Moule de cire vierge (objet)|Moule de cire vierge]] || 15 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Objet bricolé) [Objet bricolé](./Objet bricolé (objet).md) || spécial || spécial
+| [[Équipement daventurier#Objet bricolé|↓]] [[Objet bricolé (objet)|Objet bricolé]] || spécial || spécial
 |-
-| [↓](./Équipement daventurier.md#Oboles) [Oboles (12)](./Oboles (objet).md) || 12 po || 0,25 kg
+| [[Équipement daventurier#Oboles|↓]] [[Oboles (objet)|Oboles (12)]] || 12 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Ouija) [Ouija](./Ouija (objet).md) || 15 po || 1 kg
+| [[Équipement daventurier#Ouija|↓]] [[Ouija (objet)|Ouija]] || 15 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Outre) [Outre](./Outre (objet).md) || 1 po || 2 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Outre|↓]] [[Outre (objet)|Outre]] || 1 po || 2 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Palan) [Palan](./Palan (objet).md) || 5 po || 2,5 kg
+| [[Équipement daventurier#Palan|↓]] [[Palan (objet)|Palan]] || 5 po || 2,5 kg
 |-
-| [↓](./Équipement daventurier.md#Panier) [Panier](./Panier (objet).md) || 4 pa || 0,5 kg
+| [[Équipement daventurier#Panier|↓]] [[Panier (objet)|Panier]] || 4 pa || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Pantin de ventriloque) [Pantin de ventriloque](./Pantin de ventriloque (objet).md) || 100 po || 3,5 kg
+| [[Équipement daventurier#Pantin de ventriloque|↓]] [[Pantin de ventriloque (objet)|Pantin de ventriloque]] || 100 po || 3,5 kg
 |-
-| [↓](./Équipement daventurier.md#Pantographe) [Pantographe](./Pantographe (objet).md) || 50 po || 1 kg
+| [[Équipement daventurier#Pantographe|↓]] [[Pantographe (objet)|Pantographe]] || 50 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Papier) [Papier](./Papier (objet).md) || 4 pa || —
+| [[Équipement daventurier#Papier|↓]] [[Papier (objet)|Papier]] || 4 pa || —
 |-
-| [↓](./Équipement daventurier.md#Papier à lettres) [Papier à lettres](./Papier à lettres (objet).md) || 1 po || —
+| [[Équipement daventurier#Papier à lettres|↓]] [[Papier à lettres (objet)|Papier à lettres]] || 1 po || —
 |-
-| [↓](./Équipement daventurier.md#Papier de riz) [Papier de riz](./Papier de riz (objet).md) || 5 pc || —
+| [[Équipement daventurier#Papier de riz|↓]] [[Papier de riz (objet)|Papier de riz]] || 5 pc || —
 |-
-| [↓](./Équipement daventurier.md#Papier glu) [Papier glu](./Papier glu (objet).md) || 1 pa || —
+| [[Équipement daventurier#Papier glu|↓]] [[Papier glu (objet)|Papier glu]] || 1 pa || —
 |-
-| [↓](./Équipement daventurier.md#Parchemin) [Parchemin](./Parchemin (objet).md) || 2 pa || —
+| [[Équipement daventurier#Parchemin|↓]] [[Parchemin (objet)|Parchemin]] || 2 pa || —
 |-
-| [↓](./Équipement daventurier.md#ParfumEau de Cologne) [Parfum/Eau de Cologne](./ParfumEau de Cologne (objet).md) || 5 po || —
+| [[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne]] || 5 po || —
 |-
-| [↓](./Équipement daventurier.md#ParfumEau de Cologne) [Parfum/Eau de Cologne (exotique)](./ParfumEau de Cologne (objet).md) || 100 po/dose || —
+| [[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne (exotique)]] || 100 po/dose || —
 |-
-| [↓](./Équipement daventurier.md#ParfumEau de Cologne) [Parfum/Eau de Cologne (ordinaire)](./ParfumEau de Cologne (objet).md) || 1 po/dose || —
+| [[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne (ordinaire)]] || 1 po/dose || —
 |-
-| [↓](./Équipement daventurier.md#ParfumEau de Cologne) [Parfum/Eau de Cologne (rare)](./ParfumEau de Cologne (objet).md) || 10 po/dose || —
+| [[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne (rare)]] || 10 po/dose || —
 |-
-| [↓](./Équipement daventurier.md#Passe-partout) [Passe-partout](./Passe-partout (objet).md) || 85 po || —
+| [[Équipement daventurier#Passe-partout|↓]] [[Passe-partout (objet)|Passe-partout]] || 85 po || —
 |-
-| [↓](./Équipement daventurier.md#Pavillon) [Pavillon (national ou de courtoisie de taille G)](./Pavillon (objet).md) || 2 po || —
+| [[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (national ou de courtoisie de taille G)]] || 2 po || —
 |-
-| [↓](./Équipement daventurier.md#Pavillon) [Pavillon (national ou de courtoisie de taille P)](./Pavillon (objet).md) || 5 po || 0,5 kg
+| [[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (national ou de courtoisie de taille P)]] || 5 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Pavillon) [Pavillon (personnel de taille G)](./Pavillon (objet).md) || 4 po || —
+| [[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (personnel de taille G)]] || 4 po || —
 |-
-| [↓](./Équipement daventurier.md#Pavillon) [Pavillon (personnel de taille P)](./Pavillon (objet).md) || 10 po || 0,5 kg
+| [[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (personnel de taille P)]] || 10 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Pelle) [Pelle (pliante)](./Pelle (objet).md) || 10 po || 6 kg
+| [[Équipement daventurier#Pelle|↓]] [[Pelle (objet)|Pelle (pliante)]] || 10 po || 6 kg
 |-
-| [↓](./Équipement daventurier.md#Pelle) [Pelle (standard)](./Pelle (objet).md) || 2 po || 4 kg
+| [[Équipement daventurier#Pelle|↓]] [[Pelle (objet)|Pelle (standard)]] || 2 po || 4 kg
 |-
-| [↓](./Équipement daventurier.md#Perche) [Perche (pliante)](./Perche (objet).md) || 2 pa || 5 kg
+| [[Équipement daventurier#Perche|↓]] [[Perche (objet)|Perche (pliante)]] || 2 pa || 5 kg
 |-
-| [↓](./Équipement daventurier.md#Perche) [Perche (standard)](./Perche (objet).md) || 5 pc || 4 kg
+| [[Équipement daventurier#Perche|↓]] [[Perche (objet)|Perche (standard)]] || 5 pc || 4 kg
 |-
-| [↓](./Équipement daventurier.md#Périscope) [Périscope](./Périscope (objet).md) || 20 po || 2 kg
+| [[Équipement daventurier#Périscope|↓]] [[Périscope (objet)|Périscope]] || 20 po || 2 kg
 |-
-| [↓](./Équipement daventurier.md#Petit encensoir) [Petit encensoir](./Petit encensoir (objet).md) || 5 po || 0,25 kg
+| [[Équipement daventurier#Petit encensoir|↓]] [[Petit encensoir (objet)|Petit encensoir]] || 5 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Pic à cornichons) [Pic à cornichons](./Pic à cornichons (objet).md) || 2 pc || 1 kg
+| [[Équipement daventurier#Pic à cornichons|↓]] [[Pic à cornichons (objet)|Pic à cornichons]] || 2 pc || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Pièce creuse) [Pièce creuse](./Pièce creuse (objet).md) || 12 po || 0,05 kg
+| [[Équipement daventurier#Pièce creuse|↓]] [[Pièce creuse (objet)|Pièce creuse]] || 12 po || 0,05 kg
 |-
-| [↓](./Équipement daventurier.md#Pied-de-biche) [Pied-de-biche](./Pied-de-biche (objet).md) || 2 po || 2,5 kg
+| [[Équipement daventurier#Pied-de-biche|↓]] [[Pied-de-biche (objet)|Pied-de-biche]] || 2 po || 2,5 kg
 |-
-| [↓](./Équipement daventurier.md#Pierre à aiguiser) [Pierre à aiguiser](./Pierre à aiguiser (objet).md) || 2 pc || 0,5 kg
+| [[Équipement daventurier#Pierre à aiguiser|↓]] [[Pierre à aiguiser (objet)|Pierre à aiguiser]] || 2 pc || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Pierre chauffante) [Pierre chauffante](./Pierre chauffante (objet).md) || 20 po || 0,5 kg
+| [[Équipement daventurier#Pierre chauffante|↓]] [[Pierre chauffante (objet)|Pierre chauffante]] || 20 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Pioche de mineur) [Pioche de mineur](./Pioche de mineur (objet).md) || 3 po || 5 kg
+| [[Équipement daventurier#Pioche de mineur|↓]] [[Pioche de mineur (objet)|Pioche de mineur]] || 3 po || 5 kg
 |-
-| [↓](./Équipement daventurier.md#Piton) [Piton](./Piton (objet).md) || 1 pa || 0,25 kg
+| [[Équipement daventurier#Piton|↓]] [[Piton (objet)|Piton]] || 1 pa || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Planche pliante) [Planche pliante](./Planche pliante (objet).md) || 4 pa || 5 kg
+| [[Équipement daventurier#Planche pliante|↓]] [[Planche pliante (objet)|Planche pliante]] || 4 pa || 5 kg
 |-
-| [↓](./Équipement daventurier.md#Planchette décriture automatique) [Planchette d'écriture automatique](./Planchette décriture automatique (objet).md) || 25 po || —
+| [[Équipement daventurier#Planchette décriture automatique|↓]] [[Planchette décriture automatique (objet)|Planchette d'écriture automatique]] || 25 po || —
 |-
-| [↓](./Équipement daventurier.md#Plume à encre) [Plume à encre](./Plume à encre (objet).md) || 1 pa || —
+| [[Équipement daventurier#Plume à encre|↓]] [[Plume à encre (objet)|Plume à encre]] || 1 pa || —
 |-
-| [↓](./Équipement daventurier.md#Poêle à frire) [Poêle à frire (en mithral)](./Poêle à frire (objet).md) || 2.001 po || 1 kg
+| [[Équipement daventurier#Poêle à frire|↓]] [[Poêle à frire (objet)|Poêle à frire (en mithral)]] || 2.001 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Poêle à frire) [Poêle à frire (standard)](./Poêle à frire (objet).md) || 8 pa || 2 kg
+| [[Équipement daventurier#Poêle à frire|↓]] [[Poêle à frire (objet)|Poêle à frire (standard)]] || 8 pa || 2 kg
 |-
-| [↓](./Équipement daventurier.md#Pointe en fer) [Pointe en fer](./Pointe en fer (objet).md) || 5 pc || 0,5 kg
+| [[Équipement daventurier#Pointe en fer|↓]] [[Pointe en fer (objet)|Pointe en fer]] || 5 pc || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Pommeau creux) [Pommeau creux](./Pommeau creux (objet).md) || 5 po || —
+| [[Équipement daventurier#Pommeau creux|↓]] [[Pommeau creux (objet)|Pommeau creux]] || 5 po || —
 |-
-| [↓](./Équipement daventurier.md#Pont portable) [Pont portable](./Pont portable (objet).md) || 200 po || 30 kg
+| [[Équipement daventurier#Pont portable|↓]] [[Pont portable (objet)|Pont portable]] || 200 po || 30 kg
 |-
-| [↓](./Équipement daventurier.md#Poudre) [Poudre](./Poudre (objet).md) || 1 pc || 0,25 kg
+| [[Équipement daventurier#Poudre|↓]] [[Poudre (objet)|Poudre]] || 1 pc || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Prothèse) [Prothèse (bras)](./Prothèse (objet).md) || 10 po || 1,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (bras)]] || 10 po || 1,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Prothèse) [Prothèse (jambe)](./Prothèse (objet).md) || 20 po || 3 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (jambe)]] || 20 po || 3 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Prothèse) [Prothèse (main)](./Prothèse (objet).md) || 1 po || 0,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (main)]] || 1 po || 0,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Prothèse) [Prothèse (pied)](./Prothèse (objet).md) || 1 po || 1 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (pied)]] || 1 po || 1 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Réchaud) [Réchaud](./Réchaud (objet).md) || 10 po || 0,5 kg
+| [[Équipement daventurier#Réchaud|↓]] [[Réchaud (objet)|Réchaud]] || 10 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Réservoir dair) [Réservoir d'air](./Réservoir dair (objet).md) || 1 pa || 0,25 kg
+| [[Équipement daventurier#Réservoir dair|↓]] [[Réservoir dair (objet)|Réservoir d'air]] || 1 pa || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Réservoir de pompage) [Réservoir de pompage](./Réservoir de pompage (objet).md) || 75 po || 2,5 kg
+| [[Équipement daventurier#Réservoir de pompage|↓]] [[Réservoir de pompage (objet)|Réservoir de pompage]] || 75 po || 2,5 kg
 |-
-| [↓](./Équipement daventurier.md#Sablier) [Sablier (1 heure)](./Sablier (objet).md) || 25 po || 0,5 kg
+| [[Équipement daventurier#Sablier|↓]] [[Sablier (objet)|Sablier (1 heure)]] || 25 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Sablier) [Sablier (1 minute)](./Sablier (objet).md) || 20 po || 0,25 kg
+| [[Équipement daventurier#Sablier|↓]] [[Sablier (objet)|Sablier (1 minute)]] || 20 po || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Sablier) [Sablier (6 secondes)](./Sablier (objet).md) || 10 po || —
+| [[Équipement daventurier#Sablier|↓]] [[Sablier (objet)|Sablier (6 secondes)]] || 10 po || —
 |-
-| [↓](./Équipement daventurier.md#Sac) [Sac](./Sac (objet).md) || 1 pa || 0,25 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Sac|↓]] [[Sac (objet)|Sac]] || 1 pa || 0,25 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Sac à dos) [Sac à dos (de maître)](./Sac à dos (objet).md) || 50 po || 2 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Sac à dos|↓]] [[Sac à dos (objet)|Sac à dos (de maître)]] || 50 po || 2 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Sac à dos) [Sac à dos (standard)](./Sac à dos (objet).md) || 2 po || 1 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Sac à dos|↓]] [[Sac à dos (objet)|Sac à dos (standard)]] || 2 po || 1 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Sac anti-ours) [Sac anti-ours](./Sac anti-ours (objet).md) || 2 po || 1,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Sac anti-ours|↓]] [[Sac anti-ours (objet)|Sac anti-ours]] || 2 po || 1,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Sac de couchage) [Sac de couchage](./Sac de couchage (objet).md) || 1 pa || 2,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Sac de couchage|↓]] [[Sac de couchage (objet)|Sac de couchage]] || 1 pa || 2,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Sac étanche) [Sac étanche](./Sac étanche (objet).md) || 5 pa || 0,25 kg
+| [[Équipement daventurier#Sac étanche|↓]] [[Sac étanche (objet)|Sac étanche]] || 5 pa || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Sacoche de familier) [Sacoche de familier](./Sacoche de familier (objet).md) || 25 po || 3 kg
+| [[Équipement daventurier#Sacoche de familier|↓]] [[Sacoche de familier (objet)|Sacoche de familier]] || 25 po || 3 kg
 |-
-| [↓](./Équipement daventurier.md#Savon) [Savon](./Savon (objet).md) || 1 pc || 0,25 kg
+| [[Équipement daventurier#Savon|↓]] [[Savon (objet)|Savon]] || 1 pc || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Scie) [Scie](./Scie (objet).md) || 4 pc || 1 kg
+| [[Équipement daventurier#Scie|↓]] [[Scie (objet)|Scie]] || 4 pc || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Seau) [Seau](./Seau (objet).md) || 5 pa || 1 kg
+| [[Équipement daventurier#Seau|↓]] [[Seau (objet)|Seau]] || 5 pa || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Sentinelle factice) [Sentinelle factice](./Sentinelle factice (objet).md) || 30 po || 17,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Sentinelle factice|↓]] [[Sentinelle factice (objet)|Sentinelle factice]] || 30 po || 17,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Sextant) [Sextant](./Sextant (objet).md) || 500 po || 1 kg
+| [[Équipement daventurier#Sextant|↓]] [[Sextant (objet)|Sextant]] || 500 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Sifflet) [Sifflet (à ultrasons)](./Sifflet (objet).md) || 9 pa || —
+| [[Équipement daventurier#Sifflet|↓]] [[Sifflet (objet)|Sifflet (à ultrasons)]] || 9 pa || —
 |-
-| [↓](./Équipement daventurier.md#Sifflet) [Sifflet (ordinaire)](./Sifflet (objet).md) || 8 pa || —
+| [[Équipement daventurier#Sifflet|↓]] [[Sifflet (objet)|Sifflet (ordinaire)]] || 8 pa || —
 |-
-| [↓](./Équipement daventurier.md#Sifflet des grottes) [Sifflet des grottes](./Sifflet des grottes (objet).md) || 20 po || —
+| [[Équipement daventurier#Sifflet des grottes|↓]] [[Sifflet des grottes (objet)|Sifflet des grottes]] || 20 po || —
 |-
-| [↓](./Équipement daventurier.md#Sifflet du shérif) [Sifflet du shérif](./Sifflet du shérif (objet).md) || 1 po || —
+| [[Équipement daventurier#Sifflet du shérif|↓]] [[Sifflet du shérif (objet)|Sifflet du shérif]] || 1 po || —
 |-
-| [↓](./Équipement daventurier.md#Silex et amorce) [Silex et amorce](./Silex et amorce (objet).md) || 1 po || —
+| [[Équipement daventurier#Silex et amorce|↓]] [[Silex et amorce (objet)|Silex et amorce]] || 1 po || —
 |-
-| [↓](./Équipement daventurier.md#Symbole sacré) [Symbole sacré (en argent)](./Symbole sacré (objet).md) || 25 po || 0,5 kg
+| [[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en argent)]] || 25 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Symbole sacré) [Symbole sacré (en bois)](./Symbole sacré (objet).md) || 1 po || —
+| [[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en bois)]] || 1 po || —
 |-
-| [↓](./Équipement daventurier.md#Symbole sacré) [Symbole sacré (en fer)](./Symbole sacré (objet).md) || 5 po || 0,5 kg
+| [[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en fer)]] || 5 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Symbole sacré) [Symbole sacré (en or)](./Symbole sacré (objet).md) || 100 po || 0,5 kg
+| [[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en or)]] || 100 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Symbole sacré) [Symbole sacré (en platine)](./Symbole sacré (objet).md) || 500 po || 0,5 kg
+| [[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en platine)]] || 500 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Symbole sacré compartiment) [Symbole sacré compartiment](./Symbole sacré compartiment (objet).md) || +5 po || —
+| [[Équipement daventurier#Symbole sacré compartiment|↓]] [[Symbole sacré compartiment (objet)|Symbole sacré compartiment]] || +5 po || —
 |-
-| [↓](./Équipement daventurier.md#Symbole sacré flasque) [Symbole sacré flasque](./Symbole sacré flasque (objet).md) || +10 po || —
+| [[Équipement daventurier#Symbole sacré flasque|↓]] [[Symbole sacré flasque (objet)|Symbole sacré flasque]] || +10 po || —
 |-
-| [↓](./Équipement daventurier.md#Table pliante) [Table pliante](./Table pliante (objet).md) || 10 po || 10 kg
+| [[Équipement daventurier#Table pliante|↓]] [[Table pliante (objet)|Table pliante]] || 10 po || 10 kg
 |-
-| [↓](./Équipement daventurier.md#Talon casse-tête) [Talon casse-tête](./Talon casse-tête (objet).md) || variable || —
+| [[Équipement daventurier#Talon casse-tête|↓]] [[Talon casse-tête (objet)|Talon casse-tête]] || variable || —
 |-
-| [↓](./Équipement daventurier.md#Tatouage) [Tatouage](./Tatouage (objet).md) || 1 pc–20 po || —
+| [[Équipement daventurier#Tatouage|↓]] [[Tatouage (objet)|Tatouage]] || 1 pc–20 po || —
 |-
-| [↓](./Équipement daventurier.md#Tatouage sacré) [Tatouage sacré](./Tatouage sacré (objet).md) || 100 po || —
+| [[Équipement daventurier#Tatouage sacré|↓]] [[Tatouage sacré (objet)|Tatouage sacré]] || 100 po || —
 |-
-| [↓](./Équipement daventurier.md#Tente) [Tente (pavillon)](./Tente (objet).md) || 100 po || 25 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (pavillon)]] || 100 po || 25 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Tente) [Tente (taille G)](./Tente (objet).md) || 30 po || 20 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (taille G)]] || 30 po || 20 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Tente) [Tente (taille M)](./Tente (objet).md) || 15 po || 15 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (taille M)]] || 15 po || 15 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Tente) [Tente (taille P)](./Tente (objet).md) || 10 po || 10 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (taille P)]] || 10 po || 10 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Tente suspendue) [Tente suspendue](./Tente suspendue (objet).md) || 20 po || 7,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Tente suspendue|↓]] [[Tente suspendue (objet)|Tente suspendue]] || 20 po || 7,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Texte sacré) [Texte sacré](./Texte sacré (objet).md) || 1–100 po || 0,5–10 kg
+| [[Équipement daventurier#Texte sacré|↓]] [[Texte sacré (objet)|Texte sacré]] || 1–100 po || 0,5–10 kg
 |-
-| [↓](./Équipement daventurier.md#Théière) [Théière](./Théière (objet).md) || 1 pa || 0,5 kg
+| [[Équipement daventurier#Théière|↓]] [[Théière (objet)|Théière]] || 1 pa || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Toile) [Toile](./Toile (objet).md) || 1 pa || 0,5 kg
+| [[Équipement daventurier#Toile|↓]] [[Toile (objet)|Toile]] || 1 pa || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Toile de camouflage) [Toile de camouflage](./Toile de camouflage (objet).md) || 20 po || 2,5 kg
+| [[Équipement daventurier#Toile de camouflage|↓]] [[Toile de camouflage (objet)|Toile de camouflage]] || 20 po || 2,5 kg
 |-
-| [↓](./Équipement daventurier.md#Tonneau) [Tonneau](./Tonneau (objet).md) || 2 po || 15 kg
+| [[Équipement daventurier#Tonneau|↓]] [[Tonneau (objet)|Tonneau]] || 2 po || 15 kg
 |-
-| [↓](./Équipement daventurier.md#Torche) [Torche](./Torche (objet).md) || 1 pc || 0,5 kg
+| [[Équipement daventurier#Torche|↓]] [[Torche (objet)|Torche]] || 1 pc || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Torche éternelle) [Torche éternelle](./Torche éternelle (objet).md) || 110 po || 0,5 kg
+| [[Équipement daventurier#Torche éternelle|↓]] [[Torche éternelle (objet)|Torche éternelle]] || 110 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Trampoline pliant) [Trampoline pliant](./Trampoline pliant (objet).md) || 50 po || 5 kg
+| [[Équipement daventurier#Trampoline pliant|↓]] [[Trampoline pliant (objet)|Trampoline pliant]] || 50 po || 5 kg
 |-
-| [↓](./Équipement daventurier.md#Trompette pour esprits) [Trompette pour esprits](./Trompette pour esprits (objet).md) || 25 po || 0,5 kg
+| [[Équipement daventurier#Trompette pour esprits|↓]] [[Trompette pour esprits (objet)|Trompette pour esprits]] || 25 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Trousse darmurier) [Trousse d'armurier](./Trousse darmurier (objet).md) || 15 po || 1 kg
+| [[Équipement daventurier#Trousse darmurier|↓]] [[Trousse darmurier (objet)|Trousse d'armurier]] || 15 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Trousse dentretien déquipement) [Trousse d'entretien d'équipement](./Trousse dentretien déquipement (objet).md) || 5 po || 1 kg
+| [[Équipement daventurier#Trousse dentretien déquipement|↓]] [[Trousse dentretien déquipement (objet)|Trousse d'entretien d'équipement]] || 5 po || 1 kg
 |-
-| [↓](./Équipement daventurier.md#Trousse de rasage) [Trousse de rasage](./Trousse de rasage (objet).md) || 15 pa || 0,25 kg
+| [[Équipement daventurier#Trousse de rasage|↓]] [[Trousse de rasage (objet)|Trousse de rasage]] || 15 pa || 0,25 kg
 |-
-| [↓](./Équipement daventurier.md#Trousse de toilette) [Trousse de toilette](./Trousse de toilette (objet).md) || 1 po || 1 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Trousse de toilette|↓]] [[Trousse de toilette (objet)|Trousse de toilette]] || 1 po || 1 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Tuba) [Tuba (de maître)](./Tuba (objet).md) || 5 po || —
+| [[Équipement daventurier#Tuba|↓]] [[Tuba (objet)|Tuba (de maître)]] || 5 po || —
 |-
-| [↓](./Équipement daventurier.md#Tuba) [Tuba (standard)](./Tuba (objet).md) || 5 pa || —
+| [[Équipement daventurier#Tuba|↓]] [[Tuba (objet)|Tuba (standard)]] || 5 pa || —
 |-
-| [↓](./Équipement daventurier.md#Tube de codage) [Tube de codage](./Tube de codage (objet).md) || 1 pa || 0,5 kg
+| [[Équipement daventurier#Tube de codage|↓]] [[Tube de codage (objet)|Tube de codage]] || 1 pa || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Veste en liège) [Veste en liège](./Veste en liège (objet).md) || 25 po || 0,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+| [[Équipement daventurier#Veste en liège|↓]] [[Veste en liège (objet)|Veste en liège]] || 25 po || 0,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 |-
-| [↓](./Équipement daventurier.md#Veste hérisson) [Veste hérisson](./Veste hérisson (objet).md) || 10 po || 2 kg
+| [[Équipement daventurier#Veste hérisson|↓]] [[Veste hérisson (objet)|Veste hérisson]] || 10 po || 2 kg
 |-
-| [↓](./Équipement daventurier.md#Veste subversive) [Veste subversive (veste)](./Veste subversive (objet).md) || 45 po || 0,5 kg
+| [[Équipement daventurier#Veste subversive|↓]] [[Veste subversive (objet)|Veste subversive (veste)]] || 45 po || 0,5 kg
 |-
-| [↓](./Équipement daventurier.md#Veste subversive) [Veste subversive (vêtement)](./Veste subversive (objet).md) || 90 po || 1 kg
+| [[Équipement daventurier#Veste subversive|↓]] [[Veste subversive (objet)|Veste subversive (vêtement)]] || 90 po || 1 kg
 |-
 |}
 </div>
@@ -587,7 +587,7 @@ Categories:
 #### Affiche peinte
 **Prix** 15 po ; **Poids** —
 ---
-Cette grande feuille de papier illustrée mesure généralement soixante centimètres de large sur quatre-vingt de long. Une affiche peinte est souvent utilisée comme outil publicitaire pour que le plus de gens possible puissent la voir. Son affichage dans une communauté confère un bonus de circonstances de +1 aux tests de [Diplomatie](./Diplomatie.md) effectués pour recueillir des informations à propos du sujet abordé par l'affiche. Si la communauté rassemble plus de 1 000 habitants, il faut accrocher une affiche de plus par tranche de 1 000 habitants supplémentaires (en totalité ou en partie) pour pouvoir bénéficier du bonus. Le prix de cet objet inclut la commission versée à l'artiste suffisamment compétent pour réaliser la commande. Les copies au-delà de la première coûtent 5 pa chacune.
+Cette grande feuille de papier illustrée mesure généralement soixante centimètres de large sur quatre-vingt de long. Une affiche peinte est souvent utilisée comme outil publicitaire pour que le plus de gens possible puissent la voir. Son affichage dans une communauté confère un bonus de circonstances de +1 aux tests de [[Diplomatie]] effectués pour recueillir des informations à propos du sujet abordé par l'affiche. Si la communauté rassemble plus de 1 000 habitants, il faut accrocher une affiche de plus par tranche de 1 000 habitants supplémentaires (en totalité ou en partie) pour pouvoir bénéficier du bonus. Le prix de cet objet inclut la commission versée à l'artiste suffisamment compétent pour réaliser la commande. Les copies au-delà de la première coûtent 5 pa chacune.
 
 
 {s:AE}{s:Reference|Aiguille à coudre}
@@ -608,28 +608,28 @@ Les aimants portables sont relativement faibles et servent surtout à détecter 
 #### Anneaux de cryptage
 **Prix** 10 po ; **Poids** —
 ---
-Cette paire de gros anneaux en bois est la clé d'un code de substitution fixé à la création des anneaux. Un ensemble de base se compose de deux anneaux identiques. Il est possible de créer des anneaux supplémentaires pour 4 po pièce. L'utilisation du code des anneaux de cryptage permet au personnage de créer ou de décoder un message écrit (pas de test nécessaire). Le décryptage du message sans le bon anneau nécessite un test de [Linguistique](./Linguistique.md) [DD](./DD.md) 25.
+Cette paire de gros anneaux en bois est la clé d'un code de substitution fixé à la création des anneaux. Un ensemble de base se compose de deux anneaux identiques. Il est possible de créer des anneaux supplémentaires pour 4 po pièce. L'utilisation du code des anneaux de cryptage permet au personnage de créer ou de décoder un message écrit (pas de test nécessaire). Le décryptage du message sans le bon anneau nécessite un test de [[Linguistique]] [[DD]] 25.
 
 
 {s:MCA}{s:Reference|Appeau}
 #### Appeau
 **Prix** 1 pa ; **Poids** —
 ---
-Ces sifflets en roseau ou en bambou imitent le cri de divers animaux sauvages. Chaque  appeau est lié à un type d'animal spécifique ou à un cri donné (signalant, en général, la présence de nourriture ou d'un partenaire pour attirer l'animal). Avec le bon sifflet, le personnage gagne un bonus de +2 aux tests de [Survie](./Survie.md) pour pister les animaux d'un type spécifique ou pour subvenir à ses besoins dans la nature.
+Ces sifflets en roseau ou en bambou imitent le cri de divers animaux sauvages. Chaque  appeau est lié à un type d'animal spécifique ou à un cri donné (signalant, en général, la présence de nourriture ou d'un partenaire pour attirer l'animal). Avec le bon sifflet, le personnage gagne un bonus de +2 aux tests de [[Survie]] pour pister les animaux d'un type spécifique ou pour subvenir à ses besoins dans la nature.
 
 
 {s:AE}{s:Reference|Applique pour bouclier}
 #### Applique pour bouclier
 **Prix** 1 po ; **Poids** 0,25 kg
 ---
-Ce cadre en métal fait pour accueillir une [torche](./Torche (objet).md) s'attache sur le devant d'une [rondache](./rondache (armure).md), d'un [écu](./écu (armure).md) ou d'un [pavois](./pavois (armure).md), permettant au personnage de porter une torche sans avoir à lâcher son bouclier et sans utiliser la main avec laquelle il tient son arme.
+Ce cadre en métal fait pour accueillir une [[Torche (objet)|torche]] s'attache sur le devant d'une [[rondache (armure)|rondache]], d'un [[écu (armure)|écu]] ou d'un [[pavois (armure)|pavois]], permettant au personnage de porter une torche sans avoir à lâcher son bouclier et sans utiliser la main avec laquelle il tient son arme.
 
 
 {s:AE}{s:Reference|Ardoise}
 #### Ardoise
 **Prix** 1 po ; **Poids** 1 kg
 ---
-Un cadre en bois faisant à peu près la même taille qu'un grand livre entoure une fine pièce de pierre noire polie. Il suffit de frotter l'ardoise avec un chiffon humide pour effacer tout ce qui y est écrit à la [craie](./Craie (objet).md).
+Un cadre en bois faisant à peu près la même taille qu'un grand livre entoure une fine pièce de pierre noire polie. Il suffit de frotter l'ardoise avec un chiffon humide pour effacer tout ce qui y est écrit à la [[Craie (objet)|craie]].
 
 
 {s:AE}{s:Reference|Argile}
@@ -641,35 +641,35 @@ Ces 500 grammes d'argile sont vendus dans une boîte hermétique permettant de l
 
 {s:AE}{s:Reference|Armure factice}
 #### Armure factice
-**Prix** 90 po ; **Poids** 5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 90 po ; **Poids** 5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Lorsqu'un lanceur de sorts profanes a besoin d'un déguisement, il arrive qu'il enfile une armure factice. Faite en cuir ou de bois fin comme le balsa ou le bambou, et peinte de manière à paraître en métal, l'armure factice passe pour un [harnois](./harnois (armure).md) aux yeux de tous ceux qui ne l'examinent pas de trop près. Un personnage examinant quelqu'un portant une armure factice doit réussir un test de [Perception](./Perception.md) [DD](./DD.md) 20 pour l'identifier comme une fausse. Une armure factice n'accorde pas de bonus à la [CA](./CA.md), n'affecte pas le maximum du bonus de [Dextérité](./Dextérité.md) et n'impose aucun [malus d'armure](./malus darmure.md), aucun [risque d'échec des sorts profanes](./Caractéristiques.md#RISQUEECHECPROFANE) et aucune réduction de la vitesse de déplacement. On ne peut pas la doter de propriétés magiques d'armure, qu'il s'agisse de bonus d'altération ou de propriétés telles que *[de défense](./défense légère (propriété).md)* ou *[spectrale](./spectrale (propriété armure).md)*. Lorsqu'un personnage porte une armure factice, il gagne un bonus de circonstances de +4 à ses tests de [Bluff](./Bluff.md) pour cacher son identité ou ses compétences de lanceur de sorts (par exemple, dans les villes où le lancement de sorts profanes est illégal). Pour créer une armure factice, le DD du test d'[Artisanat](./Artisanat.md) (construction en bois) ou d'[Artisanat](./Artisanat.md) (travail du cuir) est de 25.
+Lorsqu'un lanceur de sorts profanes a besoin d'un déguisement, il arrive qu'il enfile une armure factice. Faite en cuir ou de bois fin comme le balsa ou le bambou, et peinte de manière à paraître en métal, l'armure factice passe pour un [[harnois (armure)|harnois]] aux yeux de tous ceux qui ne l'examinent pas de trop près. Un personnage examinant quelqu'un portant une armure factice doit réussir un test de [[Perception]] [[DD]] 20 pour l'identifier comme une fausse. Une armure factice n'accorde pas de bonus à la [[CA]], n'affecte pas le maximum du bonus de [[Dextérité]] et n'impose aucun [[malus darmure|malus d'armure]], aucun [[Caractéristiques#RISQUEECHECPROFANE|risque d'échec des sorts profanes]] et aucune réduction de la vitesse de déplacement. On ne peut pas la doter de propriétés magiques d'armure, qu'il s'agisse de bonus d'altération ou de propriétés telles que *[[défense légère (propriété)|de défense]]* ou *[[spectrale (propriété armure)|spectrale]]*. Lorsqu'un personnage porte une armure factice, il gagne un bonus de circonstances de +4 à ses tests de [[Bluff]] pour cacher son identité ou ses compétences de lanceur de sorts (par exemple, dans les villes où le lancement de sorts profanes est illégal). Pour créer une armure factice, le DD du test d'[[Artisanat]] (construction en bois) ou d'[[Artisanat]] (travail du cuir) est de 25.
 
 
 {s:AE}{s:Reference|Astrolabe}
 #### Astrolabe
 **Prix** 1.000 po ; **Poids** 3 kg
 ---
-Cet instrument se compose d'un disque plat sur lequel sont montés deux autres disques. Ils sont fixés sur un axe central permettant au personnage de les faire tourner et de les déplacer à mesure que les jours passent. Le disque du bas indique la latitude de l'utilisateur. L'un astrolabe ne sert à rien si l'utilisateur n'est pas sur la latitude préréglée. Le disque du haut, couvert de repères astronomiques, représente le ciel. N'importe qui peut apprendre à utiliser un astrolabe la nuit pour déterminer la date et l'heure (ce qui prend 1 minute). Lorsque le personnage utilise un astrolabe, il peut faire un test de [Survie](./Survie.md) avec son modificateur d'[Intelligence](./Intelligence.md) plutôt qu'avec son modificateur de [Sagesse](./Sagesse.md) pour éviter de se perdre.
+Cet instrument se compose d'un disque plat sur lequel sont montés deux autres disques. Ils sont fixés sur un axe central permettant au personnage de les faire tourner et de les déplacer à mesure que les jours passent. Le disque du bas indique la latitude de l'utilisateur. L'un astrolabe ne sert à rien si l'utilisateur n'est pas sur la latitude préréglée. Le disque du haut, couvert de repères astronomiques, représente le ciel. N'importe qui peut apprendre à utiliser un astrolabe la nuit pour déterminer la date et l'heure (ce qui prend 1 minute). Lorsque le personnage utilise un astrolabe, il peut faire un test de [[Survie]] avec son modificateur d'[[Intelligence]] plutôt qu'avec son modificateur de [[Sagesse]] pour éviter de se perdre.
 
 
 {s:AE}{s:Reference|Bague à poison}
 #### Bague à poison
 **Prix** +20 po ; **Poids** —
 ---
-Cette bague abrite un tout petit compartiment sous le chaton, servant généralement à accueillir du [poison](./Poisons.md). Il faut une [action de mouvement](./Action de mouvement.md) pour ouvrir et refermer la bague. Et pour passer inaperçu, il faut réussir un test d'[Escamotage](./Escamotage.md) [DD](./DD.md) 20.
+Cette bague abrite un tout petit compartiment sous le chaton, servant généralement à accueillir du [[Poisons|poison]]. Il faut une [[action de mouvement]] pour ouvrir et refermer la bague. Et pour passer inaperçu, il faut réussir un test d'[[Escamotage]] [[DD]] 20.
 
 
 {s:AO}{s:Reference|Baguette de sourcier}
 #### Baguette de sourcier
 **Prix** 10 po ; **Poids** 0,5 kg
 ---
-Fabriquée à partir de matériaux particulièrement adaptés, une baguette de sourcier est utilisée par des créatures sensibles aux ondes psychiques pour trouver de l'eau, des tombes ou certains types de minéraux. Les plus courantes sont des branches taillées en fourche dans du bois de noisetier, de pêcher ou de saule, mais d'autres ont des formes particulières, telles que les baguettes en forme de L fabriquées dans du [fer froid](./fer froid.md) électrisé. Un sourcier peut utiliser n'importe quelle branche en forme de fourche trouvée en pleine nature, mais ces baguettes particulièrement adaptées confèrent un bonus de circonstances de +2 aux tests de [Survie](./Survie.md) effectués en utilisant l'extension de compétence occulte [baguette de sourcier](./Extensions de compétences occultes.md#BAGUETTEDESOURCIER).
+Fabriquée à partir de matériaux particulièrement adaptés, une baguette de sourcier est utilisée par des créatures sensibles aux ondes psychiques pour trouver de l'eau, des tombes ou certains types de minéraux. Les plus courantes sont des branches taillées en fourche dans du bois de noisetier, de pêcher ou de saule, mais d'autres ont des formes particulières, telles que les baguettes en forme de L fabriquées dans du [[fer froid]] électrisé. Un sourcier peut utiliser n'importe quelle branche en forme de fourche trouvée en pleine nature, mais ces baguettes particulièrement adaptées confèrent un bonus de circonstances de +2 aux tests de [[Survie]] effectués en utilisant l'extension de compétence occulte [[Extensions de compétences occultes#BAGUETTEDESOURCIER|baguette de sourcier]].
 
 
 {s:AE}{s:Reference|Baignoire pliante}
 #### Baignoire pliante
-**Prix** 15 po ; **Poids** 10 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 15 po ; **Poids** 10 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
 Après 10 minutes d'assemblage, cet ensemble de lattes en bois forme un support pour une toile en tissu cylindrique étanche. Il peut accueillir suffisamment d'eau pour qu'une créature de taille M puisse s'y baigner confortablement sans les risques liés aux baignades dans les lacs, les rivières ou autres étendues d'eau.
 
@@ -685,7 +685,7 @@ Une balise sert à marquer un point spécifique dans un lac, une rivière ou une
 #### Bannière
 **Prix** 1–20 po ; **Poids** 1 kg
 ---
-Il s'agit d'une bannière, d'un drapeau ou d'un fanion. Le personnage le fixe à une [perche](./Perche (objet).md), à une [lance](./lance (arme).md) ou à une [arme d'hast](./groupe darmes.md#Armesdhast). La plupart des bannières sont tissées, colorées ou peintes avec un motif ou un symbole, comme les armoiries d'un [chevalier](./Chevalier.md) ou le drapeau d'un pays. Une bannière simple avec une seule couleur dominante et un insigne simple comme une arme ou un bouclier coûte 1 po. Une bannière avec de 2 à 4 couleurs dominantes et un insigne complexe comme un lion ou un dragon coûte 5 po. Une bannière détaillée avec 4 couleurs dominantes ou plus et un insigne très complexe comme une armoirie à 8 sections ou plus coûte 20 po.
+Il s'agit d'une bannière, d'un drapeau ou d'un fanion. Le personnage le fixe à une [[Perche (objet)|perche]], à une [[lance (arme)|lance]] ou à une [[Groupe darmes#Armesdhast|arme d'hast]]. La plupart des bannières sont tissées, colorées ou peintes avec un motif ou un symbole, comme les armoiries d'un [[chevalier]] ou le drapeau d'un pays. Une bannière simple avec une seule couleur dominante et un insigne simple comme une arme ou un bouclier coûte 1 po. Une bannière avec de 2 à 4 couleurs dominantes et un insigne complexe comme un lion ou un dragon coûte 5 po. Une bannière détaillée avec 4 couleurs dominantes ou plus et un insigne très complexe comme une armoirie à 8 sections ou plus coûte 20 po.
 
 
 {s:cs}{s:UI}{s:Reference|Baume à lèvres empoisonné}
@@ -699,14 +699,14 @@ Le baume à lèvres empoisonné est courant chez les courtisans qui pratiquent l
 #### Bélier portable
 **Prix** 10 po ; **Poids** 10 kg
 ---
-Cette poutre en bois ferrée accorde un bonus de circonstances de +2 aux tests de [Force](./Force.md) pour ouvrir une porte. Une deuxième personne peut apporter son aide, ce qui augmente automatiquement le bonus du personnage de +2.
+Cette poutre en bois ferrée accorde un bonus de circonstances de +2 aux tests de [[Force]] pour ouvrir une porte. Une deuxième personne peut apporter son aide, ce qui augmente automatiquement le bonus du personnage de +2.
 
 
 {s:AE}{s:Reference|Billes}
 #### Billes
 **Prix** 1 pa ; **Poids** 1 kg
 ---
-Les billes servent à ralentir les adversaires. Un sac d'un kilo de billes permet de couvrir une surface de 1,50 mètre de côté. Une créature pénétrant une zone recouverte de billes doit réussir un jet de [Réflexes](./Réflexes.md) ou tomber [à terre](./À terre.md) (le bonus de stabilité de la créature pour les crocs-en-jambe s'applique au [jet de sauvegarde](./JDS.md)). Toute créature se déplaçant à la moitié de sa vitesse ou plus lentement peut se frayer un chemin à travers une zone couverte de billes sans problème.
+Les billes servent à ralentir les adversaires. Un sac d'un kilo de billes permet de couvrir une surface de 1,50 mètre de côté. Une créature pénétrant une zone recouverte de billes doit réussir un jet de [[Réflexes]] ou tomber [[à terre]] (le bonus de stabilité de la créature pour les crocs-en-jambe s'applique au [[jds|jet de sauvegarde]]). Toute créature se déplaçant à la moitié de sa vitesse ou plus lentement peut se frayer un chemin à travers une zone couverte de billes sans problème.
 
 
 {s:AE}{s:Reference|Bois de chauffage}
@@ -720,20 +720,20 @@ Ce paquet de bois sec se compose de brindilles ou de bûches.
 #### Boîte à parchemins
 **Prix** 5 po ; **Poids** 0,5 kg
 ---
-Cette boîte en bois accueille facilement 10 parchemins et contient de petites pinces ou des marque-pages pour faciliter l'indexation. Il faut une [action de mouvement](./Action de mouvement.md) pour récupérer un parchemin dans une boîte à parchemins tenue en main. La boîte à parchemins a une [solidité](./solidité.md) de 5, 5 points de vie et le [DD](./DD.md) pour la briser est de 20. Les boîtes à parchemins sont étanches.
+Cette boîte en bois accueille facilement 10 parchemins et contient de petites pinces ou des marque-pages pour faciliter l'indexation. Il faut une [[action de mouvement]] pour récupérer un parchemin dans une boîte à parchemins tenue en main. La boîte à parchemins a une [[solidité]] de 5, 5 points de vie et le [[DD]] pour la briser est de 20. Les boîtes à parchemins sont étanches.
 
 
 {s:cs}{s:AA}{s:Reference|Botte de lintrus}
 #### Botte de l'intrus
 **Prix** 8 pa ; **Poids** 1 kg
 ---
-Composé d'un petit cadre en bois avec des pointes barbelées pointant vers l'intérieur, ce piège est placé dans une fosse juste assez profonde pour la partie inférieure de la jambe d'un personnage de taille M. Quand quelqu'un entre sur la case, la botte attrape et retient sa jambe. La cible subit des dégâts si elle essaie de se déplacer ou si un test de [Sabotage](./Sabotage.md) visant à la libérer échoue de 5 ou plus.  
+Composé d'un petit cadre en bois avec des pointes barbelées pointant vers l'intérieur, ce piège est placé dans une fosse juste assez profonde pour la partie inférieure de la jambe d'un personnage de taille M. Quand quelqu'un entre sur la case, la botte attrape et retient sa jambe. La cible subit des dégâts si elle essaie de se déplacer ou si un test de [[Sabotage]] visant à la libérer échoue de 5 ou plus.  
 <div class="BD">  
 {s:BDTitre|Botte de l’intrus|FP 1/2}
-- **[Type](./Pièges.md#TYPES)** mécanique ; **[Perception](./Perception.md)** [DD](./DD.md) 20 ; **[Sabotage](./Sabotage.md)** [DD](./DD.md) 20  
+- **[[Pièges#TYPES|Type]]** mécanique ; **[[Perception]]** [[DD]] 20 ; **[[Sabotage]]** [[DD]] 20  
 (((Effet)))
-- **[Déclencheur](./Pièges.md#DECLENCHEUR)** espace ; **[Remise en place](./Pièges.md#REMISEENPLACE)** manuelle
-- **[Effets](./Pièges.md#EFFETS)** piques (Att +10 corps à corps, 2d4), les piques maintiennent la cible sur place, il est possible de s’échapper avec un test de [Sabotage](./Sabotage.md) [DD](./DD.md) 20, d’[Évasion](./Évasion.md) DD 20 ou de [Force](./Force.md) DD 24.  
+- **[[Pièges#DECLENCHEUR|Déclencheur]]** espace ; **[[Pièges#REMISEENPLACE|Remise en place]]** manuelle
+- **[[Pièges#EFFETS|Effets]]** piques (Att +10 corps à corps, 2d4), les piques maintiennent la cible sur place, il est possible de s’échapper avec un test de [[Sabotage]] [[DD]] 20, d’[[Évasion]] DD 20 ou de [[Force]] DD 24.  
   
 </div>
 
@@ -742,33 +742,33 @@ Composé d'un petit cadre en bois avec des pointes barbelées pointant vers l'in
 #### Bottin mondain
 **Prix** 5 po ; **Poids** 0,5 kg
 ---
-Ce livre indique les établissements de loisirs les plus sordides d'une grande ville. Il inclut les noms de ses bordels, de ses cabarets et de ses maisons de jeu. En consultant le livre pendant 1 heure, le personnage gagne un bonus de circonstances de +2 pour les prochaines 24 heures à ses tests de [Connaissances](./Connaissances.md) (folklore local), de [Bluff](./Bluff.md) et de [Diplomatie](./Diplomatie.md) pour récupérer ou utiliser des informations en ville. Selon décision du [MJ](./MJ.md), le personnage peut l'utiliser dans les villages à proximité pour gagner un bonus de +1.
+Ce livre indique les établissements de loisirs les plus sordides d'une grande ville. Il inclut les noms de ses bordels, de ses cabarets et de ses maisons de jeu. En consultant le livre pendant 1 heure, le personnage gagne un bonus de circonstances de +2 pour les prochaines 24 heures à ses tests de [[Connaissances]] (folklore local), de [[Bluff]] et de [[Diplomatie]] pour récupérer ou utiliser des informations en ville. Selon décision du [[MJ]], le personnage peut l'utiliser dans les villages à proximité pour gagner un bonus de +1.
 
 
 {s:AE}{s:Reference|Bouchons doreilles}
 #### Bouchons d'oreilles
 **Prix** 3 pc ; **Poids** —
 ---
-Faits de liège ou de coton paraffiné, les bouchons d'oreilles accordent un bonus de circonstances de +2 aux [jets de sauvegarde](./JDS.md) contre les effets basés sur l'ouïe mais ils infligent aussi un malus de -5 aux tests de [Perception](./Perception.md) basés sur l'ouïe.
+Faits de liège ou de coton paraffiné, les bouchons d'oreilles accordent un bonus de circonstances de +2 aux [[jds|jets de sauvegarde]] contre les effets basés sur l'ouïe mais ils infligent aussi un malus de -5 aux tests de [[Perception]] basés sur l'ouïe.
 
 
 {s:AE}{s:Reference|Bougeoir}
 #### Bougeoir
 **Prix** 1 pc ; **Poids** 0,25 kg
 ---
-Cette sorte de soucoupe plate est munie d'une poignée et surmontée d'une pointe. Le personnage peut fixer une [bougie](./Bougie (objet).md) (d'un diamètre maximum de 7,5 centimètres) sur la pointe et tenir le bougeoir par la poignée. La base plate permet de poser le bougeoir sans prendre le risque que la bougie ne tombe et s'éteigne. Les bougeoirs sont généralement fabriqués en terre cuite ou en métal bon marché comme le cuivre mais il en existe aussi des plus élaborés et plus chers.
+Cette sorte de soucoupe plate est munie d'une poignée et surmontée d'une pointe. Le personnage peut fixer une [[Bougie (objet)|bougie]] (d'un diamètre maximum de 7,5 centimètres) sur la pointe et tenir le bougeoir par la poignée. La base plate permet de poser le bougeoir sans prendre le risque que la bougie ne tombe et s'éteigne. Les bougeoirs sont généralement fabriqués en terre cuite ou en métal bon marché comme le cuivre mais il en existe aussi des plus élaborés et plus chers.
 
 
 {s:AE}{s:Reference|Bougie}
 #### Bougie
 **Prix** 1 pc ; **Poids** —
 ---
-La bougie illumine faiblement une petite zone, augmentant sa [luminosité](./Exploration.md#VISIONLUMIERE) d'une catégorie dans un rayon de 1,50 mètre (les ténèbres sont transformées en faible lumière et la faible lumière est transformée en lumière normale). Les bougies ne peuvent pas augmenter la luminosité au-delà de la lumière normale. Une bougie brûle pendant 1 heure.
+La bougie illumine faiblement une petite zone, augmentant sa [[Exploration#VISIONLUMIERE|luminosité]] d'une catégorie dans un rayon de 1,50 mètre (les ténèbres sont transformées en faible lumière et la faible lumière est transformée en lumière normale). Les bougies ne peuvent pas augmenter la luminosité au-delà de la lumière normale. Une bougie brûle pendant 1 heure.
 
 
 {s:AE}{s:Reference|Bourse}
 #### Bourse
-**Prix** 1 po ; **Poids** 0,25 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 1 po ; **Poids** 0,25 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
 Une bourse standard en cuir ou en tissu est pourvue d'une cordelette en cuir permettant de la fermer et d'une autre pour la fixer à la ceinture. Elle est suffisamment grande pour contenir 100 à 200 pièces ou deux pommes.
 
@@ -777,7 +777,7 @@ Une bourse standard en cuir ou en tissu est pourvue d'une cordelette en cuir per
 #### Boussole
 **Prix** 10 po ; **Poids** 0,25 kg
 ---
-Il s'agit d'une boussole ordinaire indiquant le nord magnétique et accordant un bonus de circonstances de +2 aux tests de [Survie](./Survie.md) pour éviter de se perdre. Le personnage peut également l'utiliser pour bénéficier du même bonus à ses tests de [Connaissances](./Connaissances.md) (exploration souterraine) pour se repérer sous terre.
+Il s'agit d'une boussole ordinaire indiquant le nord magnétique et accordant un bonus de circonstances de +2 aux tests de [[Survie]] pour éviter de se perdre. Le personnage peut également l'utiliser pour bénéficier du même bonus à ses tests de [[Connaissances]] (exploration souterraine) pour se repérer sous terre.
 
 
 {s:AE}{s:Reference|Bouteille}
@@ -791,20 +791,20 @@ Cette bouteille en verre a une contenance d'environ un demi-litre. Elle est ferm
 #### Bracelet en braille
 **Prix** 25 po ; **Poids** —
 ---
-Ce bracelet arbore dix petites perles d'argile, chacune étant gravée d'un symbole en relief. Il est possible de retirer ces perles du cordon du bracelet pour les réarranger dans l'ordre voulu. Une fois qu'elles ont été réarrangées, on peut lire les gravures du bout des doigts afin de déterminer la signification du symbole et de déchiffrer le message transmis grâce au bracelet. Une seule perle ne peut délivrer qu'un simple message tandis que plusieurs perles peuvent former des messages plus complexes. L'interprétation des perles permet à plusieurs individus de communiquer dans le silence le plus absolu, même dans les ténèbres complètes ou lorsqu'ils sont autrement incapables de voir. Pour utiliser les perles correctement, le personnage et ses alliés doivent assigner une signification à chaque perle avant de se servir du bracelet de cette manière. Pour se rappeler le message d'une seule perle, il faut réussir un test d'[Intelligence](./Intelligence.md) [DD](./DD.md) 10. Pour transmettre des messages plus compliqués, augmentez la difficulté de ce test de 2 pour chaque perle supplémentaire utilisée. Il sera pratiquement impossible pour une créature ne connaissant pas la signification assignée aux différentes perles de déchiffrer le message : le DD est augmenté de 20.
+Ce bracelet arbore dix petites perles d'argile, chacune étant gravée d'un symbole en relief. Il est possible de retirer ces perles du cordon du bracelet pour les réarranger dans l'ordre voulu. Une fois qu'elles ont été réarrangées, on peut lire les gravures du bout des doigts afin de déterminer la signification du symbole et de déchiffrer le message transmis grâce au bracelet. Une seule perle ne peut délivrer qu'un simple message tandis que plusieurs perles peuvent former des messages plus complexes. L'interprétation des perles permet à plusieurs individus de communiquer dans le silence le plus absolu, même dans les ténèbres complètes ou lorsqu'ils sont autrement incapables de voir. Pour utiliser les perles correctement, le personnage et ses alliés doivent assigner une signification à chaque perle avant de se servir du bracelet de cette manière. Pour se rappeler le message d'une seule perle, il faut réussir un test d'[[Intelligence]] [[DD]] 10. Pour transmettre des messages plus compliqués, augmentez la difficulté de ce test de 2 pour chaque perle supplémentaire utilisée. Il sera pratiquement impossible pour une créature ne connaissant pas la signification assignée aux différentes perles de déchiffrer le message : le DD est augmenté de 20.
 
 
 {s:AE}{s:Reference|Câble}
 #### Câble
 **Prix** 5 po ; **Poids** 0,25 kg
 ---
-Ce câble de cuivre de 1,80 mètre est solide et souple. En l'attachant à deux [pitons](./Piton (objet).md) ou à des [pointes en fer](./Pointe en fer (objet).md) de chaque côté d'une zone donnée, le personnage peut créer un piège tout simple comme un fil de détente.  
+Ce câble de cuivre de 1,80 mètre est solide et souple. En l'attachant à deux [[Piton (objet)|pitons]] ou à des [[Pointe en fer (objet)|pointes en fer]] de chaque côté d'une zone donnée, le personnage peut créer un piège tout simple comme un fil de détente.  
 <div class="BD">  
 {s:BDTitre|Fil de détente|FP 1/3}
-- **[Type](./Pièges.md#TYPES)** mécanique ; **[Perception](./Perception.md)** [DD](./DD.md) 15 ; **[Sabotage](./Sabotage.md)** [DD](./DD.md) 10  
+- **[[Pièges#TYPES|Type]]** mécanique ; **[[Perception]]** [[DD]] 15 ; **[[Sabotage]]** [[DD]] 10  
 (((Effet)))
-- **[Déclencheur](./Pièges.md#DECLENCHEUR)** espace ; **[Remise en place](./Pièges.md#REMISEENPLACE)** automatique
-- **[Effets](./Pièges.md#EFFETS)** Manœuvre offensive de [croc-en-jambe](./Manœuvres offensives.md#CROCENJAMBE) +5 (+10 si la cible court)  
+- **[[Pièges#DECLENCHEUR|Déclencheur]]** espace ; **[[Pièges#REMISEENPLACE|Remise en place]]** automatique
+- **[[Pièges#EFFETS|Effets]]** Manœuvre offensive de [[manœuvres offensives#CROCENJAMBE|croc-en-jambe]] +5 (+10 si la cible court)  
   
 </div>
 
@@ -813,35 +813,35 @@ Ce câble de cuivre de 1,80 mètre est solide et souple. En l'attachant à deux 
 #### Cadenas
 **Prix** 20 po (simple), 40 po (moyen), 80 po (bon), 150 po (supérieure) ; **Poids** 0,5 kg (simple), 0,5 kg (moyen), 0,5 kg (bon), 0,5 kg (supérieure)
 ---
-Il peut s'agir d'un cadenas, d'une serrure de porte ou de coffre ou de tout autre type de verrou à clé. Le [DD](./DD.md) pour ouvrir un cadenas avec la compétence [Sabotage](./Sabotage.md) dépend de la qualité du cadenas : simple (DD 20), moyen (DD 25), bon (DD 30) ou supérieur (DD 40).
+Il peut s'agir d'un cadenas, d'une serrure de porte ou de coffre ou de tout autre type de verrou à clé. Le [[DD]] pour ouvrir un cadenas avec la compétence [[Sabotage]] dépend de la qualité du cadenas : simple (DD 20), moyen (DD 25), bon (DD 30) ou supérieur (DD 40).
 
 
 {s:AE}{s:Reference|Cafetière}
 #### Cafetière
 **Prix** 3 po ; **Poids** 2 kg
 ---
-Cette sorte de théière haute contient une petite chambre pour les grains de café et une plus grande pour l'eau. Elles sont reliées entre elles par un petit tube. Lorsqu'on fait chauffer la cafetière, l'eau bouillante passe par le tube et coule sur les grains. Un panneau de verre au sommet du tube permet au personnage de voir la couleur de la boisson et d'arrêter la cafetière lorsqu'il estime qu'elle est suffisamment concentrée. La cafetière peut faire un maximum de 4 [tasses de café](./Café (objet).md) à la fois. Elle peut également servir à faire du [thé](./Thé (objet).md), à faire mariner des herbes médicinales ou simplement à faire bouillir de l'eau.
+Cette sorte de théière haute contient une petite chambre pour les grains de café et une plus grande pour l'eau. Elles sont reliées entre elles par un petit tube. Lorsqu'on fait chauffer la cafetière, l'eau bouillante passe par le tube et coule sur les grains. Un panneau de verre au sommet du tube permet au personnage de voir la couleur de la boisson et d'arrêter la cafetière lorsqu'il estime qu'elle est suffisamment concentrée. La cafetière peut faire un maximum de 4 [[Café (objet)|tasses de café]] à la fois. Elle peut également servir à faire du [[Thé (objet)|thé]], à faire mariner des herbes médicinales ou simplement à faire bouillir de l'eau.
 
 
 {s:AO}{s:Reference|Cagoule de contention}
 #### Cagoule de contention
 **Prix** 75 po ; **Poids** 1,5 kg
 ---
-Ce masque inconfortable est une cagoule d'étoffe noire sur laquelle sont fixés des cache-oreilles en cuir rembourré et des verres que l'on peut recouvrir pour bloquer la vision. Une créature qui porte une cagoule de contention est [aveuglée](./Aveuglé.md) et [assourdie](./Assourdi.md), et elle subit un malus de -10 aux tests de [Perception](./Perception.md) autres que ceux basés sur la vue ou l'ouïe.
+Ce masque inconfortable est une cagoule d'étoffe noire sur laquelle sont fixés des cache-oreilles en cuir rembourré et des verres que l'on peut recouvrir pour bloquer la vision. Une créature qui porte une cagoule de contention est [[aveuglé|aveuglée]] et [[assourdi|assourdie]], et elle subit un malus de -10 aux tests de [[Perception]] autres que ceux basés sur la vue ou l'ouïe.
 
 
 {s:MCA}{s:Reference|Calumet}
 #### Calumet
 **Prix** 20 po ; **Poids** —
 ---
-Le calumet est une pipe de cérémonie en deux parties, avec un fourneau taillé dans la pierre ou l'argile et un tuyau en bois aux gravures complexes et auquel pendent des fétiches. On transporte généralement la pipe dans une blague en cuir ornée de perles, de motifs et de babioles. La pipe permet de fumer différents mélanges à base de plantes pour certains rituels. On fume parfois le calumet en groupe lors des réunions diplomatiques, afin de signifier la solidarité qui existe entre les différents partis. Le personnage gagne un bonus de circonstances de +1 aux tests de [Diplomatie](./Diplomatie.md) contre quiconque partage ainsi son calumet.
+Le calumet est une pipe de cérémonie en deux parties, avec un fourneau taillé dans la pierre ou l'argile et un tuyau en bois aux gravures complexes et auquel pendent des fétiches. On transporte généralement la pipe dans une blague en cuir ornée de perles, de motifs et de babioles. La pipe permet de fumer différents mélanges à base de plantes pour certains rituels. On fume parfois le calumet en groupe lors des réunions diplomatiques, afin de signifier la solidarité qui existe entre les différents partis. Le personnage gagne un bonus de circonstances de +1 aux tests de [[Diplomatie]] contre quiconque partage ainsi son calumet.
 
 
 {s:AE}{s:Reference|Capuchon filtreur}
 #### Capuchon filtreur
-**Prix** 10 po ; **Poids** 2 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 10 po ; **Poids** 2 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Ce capuchon en cuir douillet est pourvu de lunettes intégrées et d'un tube filtrant contenant des éponges. Le capuchon filtreur occupe un emplacement de casque et impose un malus de -2 aux tests de [Perception](./Perception.md) basés sur l'ouïe et la vue. Tant que les éponges sont humides,le capuchon accorde au personnage un bonus de résistance de +2 à ses [jets de sauvegarde](./JDS.md) contre les poisons inhalés et autres formes d'agression que le personnage inhale quand elles se dispersent dans l'air. Il faut dépenser une [action simple](./Action simple.md) pour mouiller les éponges avec de l'eau. Les éponges sèchent après 1d4 × 10 minutes. Il faut les rincer soigneusement après chaque usage.
+Ce capuchon en cuir douillet est pourvu de lunettes intégrées et d'un tube filtrant contenant des éponges. Le capuchon filtreur occupe un emplacement de casque et impose un malus de -2 aux tests de [[Perception]] basés sur l'ouïe et la vue. Tant que les éponges sont humides,le capuchon accorde au personnage un bonus de résistance de +2 à ses [[jds|jets de sauvegarde]] contre les poisons inhalés et autres formes d'agression que le personnage inhale quand elles se dispersent dans l'air. Il faut dépenser une [[action simple]] pour mouiller les éponges avec de l'eau. Les éponges sèchent après 1d4 × 10 minutes. Il faut les rincer soigneusement après chaque usage.
 
 
 {s:AO}{s:Reference|Carillon}
@@ -862,35 +862,35 @@ Il s'agit d'un carnet léger et vierge avec une couverture en toile huilée. Il 
 #### Carte nautique
 **Prix** 25 po ; **Poids** —
 ---
-Pour certains de leurs acquéreurs, les cartes nautiques s'avèrent plus précieuses que l'or. Ces cartes représentent les voies navigables, la profondeur des eaux, la hauteur et le contour des côtes, ainsi que les courants, les ports, les dangers pour la navigation, les récifs et les marées. Une carte nautique confère un bonus de circonstances de +4 aux tests de [Profession](./Profession.md) (marin) effectués pour s'orienter dans une zone décrite sur celle-ci.
+Pour certains de leurs acquéreurs, les cartes nautiques s'avèrent plus précieuses que l'or. Ces cartes représentent les voies navigables, la profondeur des eaux, la hauteur et le contour des côtes, ainsi que les courants, les ports, les dangers pour la navigation, les récifs et les marées. Une carte nautique confère un bonus de circonstances de +4 aux tests de [[Profession]] (marin) effectués pour s'orienter dans une zone décrite sur celle-ci.
 
 
 {s:AE}{s:Reference|Carte régionale}
 #### Carte régionale
 **Prix** 50 po ; **Poids** 1 kg
 ---
-Une carte géographique de la bonne région accorde à un bonus de circonstances de +1 aux tests de [Survie](./Survie.md) pour retrouver son chemin dans la nature. Elle peut également accorder le même bonus aux tests de [Connaissances](./Connaissances.md) (exploration souterraine) pour retrouver son chemin sous terre.
+Une carte géographique de la bonne région accorde à un bonus de circonstances de +1 aux tests de [[Survie]] pour retrouver son chemin dans la nature. Elle peut également accorder le même bonus aux tests de [[Connaissances]] (exploration souterraine) pour retrouver son chemin sous terre.
 
 
 {s:AE}{s:Reference|Cartouchière}
 #### Cartouchière
 **Prix** 5 pa ; **Poids** —
 ---
-Cette ceinture de cuir se porte en bandoulière. Elle se compose de petites boucles ou de sacoches capables d'accueillir huit objets de la taille d'une [flasque](./Flasque (objet).md) ou d'une petite [dague](./dague (arme).md). Le personnage peut dépenser une action de « [récupérer un objet rangé](./Actions de mouvement.md#MANIPULERUNOBJET) » pour prendre un objet de sa cartouchière. Il peut porter au maximum deux cartouchières à la fois (s'il en porte plus, elles s'emmêlent et gênent les mouvements du personnage).
+Cette ceinture de cuir se porte en bandoulière. Elle se compose de petites boucles ou de sacoches capables d'accueillir huit objets de la taille d'une [[Flasque (objet)|flasque]] ou d'une petite [[dague (arme)|dague]]. Le personnage peut dépenser une action de « [[Actions de mouvement#MANIPULERUNOBJET|récupérer un objet rangé]] » pour prendre un objet de sa cartouchière. Il peut porter au maximum deux cartouchières à la fois (s'il en porte plus, elles s'emmêlent et gênent les mouvements du personnage).
 
 
 {s:AE}{s:Reference|Casque à bougie}
 #### Casque à bougie
 **Prix** 2 po ; **Poids** 2 kg
 ---
-Cet objet est un casque surmonté d'une petite pointe courte sur laquelle on place une [bougie](./Bougie (objet).md), ce qui laisse les mains libres pour effectuer d'autres tâches.
+Cet objet est un casque surmonté d'une petite pointe courte sur laquelle on place une [[Bougie (objet)|bougie]], ce qui laisse les mains libres pour effectuer d'autres tâches.
 
 
 {s:RSE}{s:Reference|Ceinture daventurier}
 #### Ceinture d'aventurier
-**Prix** 20 po ; **Poids** 1,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 20 po ; **Poids** 1,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Cette bandoulière comporte six poches dans le sens de la longueur et une sacoche au niveau de la hanche. Chaque poche a un épais rabat de cuir qui peut être fermé en cas de secousses (ce qui nécessite une [action de mouvement](./Action de mouvement.md) pour l'ouvrir et l'attacher) ou peut être laissée ouverte pour y accéder plus facilement. Les poches et la sacoche contiennent chacune un certain nombre d'anneaux et de liens permettant d'attacher davantage d'équipement. La ceinture se fixe à l'épaule, et peut être libérée en tirant d'un geste sec en cas d'urgence, par une action de mouvement.
+Cette bandoulière comporte six poches dans le sens de la longueur et une sacoche au niveau de la hanche. Chaque poche a un épais rabat de cuir qui peut être fermé en cas de secousses (ce qui nécessite une [[action de mouvement]] pour l'ouvrir et l'attacher) ou peut être laissée ouverte pour y accéder plus facilement. Les poches et la sacoche contiennent chacune un certain nombre d'anneaux et de liens permettant d'attacher davantage d'équipement. La ceinture se fixe à l'épaule, et peut être libérée en tirant d'un geste sec en cas d'urgence, par une action de mouvement.
 
 
 {s:cs}{s:UI}{s:Reference|Ceinture-parchemin}
@@ -902,7 +902,7 @@ Cet accessoire est spécialement conçu pour qu'un unique sort soit inscrit à l
 
 {s:AE}{s:Reference|Cercueil}
 #### Cercueil
-**Prix** 10 po (standard), 100 po (orné) ; **Poids** 15 kg (standard), 25 kg (orné)<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 10 po (standard), 100 po (orné) ; **Poids** 15 kg (standard), 25 kg (orné)<sup>[[Équipement daventurier#1|1]]</sup>
 ---
 Un cercueil sobre est fait en bois simple. Il est livré avec un couvercle plat et indépendant qui peut être cloué dessus.  
   
@@ -913,19 +913,19 @@ Un cercueil sobre est fait en bois simple. Il est livré avec un couvercle plat 
 #### Chaîne (3 m)
 **Prix** 30 po ; **Poids** 1 kg
 ---
-Cette chaîne est faite de maillons en métal imbriqués d'environ 2,5 centimètres de long. Elle est suffisamment épaisse pour supporter des poids importants. Elle a une [solidité](./solidité.md) de 10 à 5 points de vie. On peut la briser avec un test de [Force](./Force.md) [DD](./DD.md) 26.
+Cette chaîne est faite de maillons en métal imbriqués d'environ 2,5 centimètres de long. Elle est suffisamment épaisse pour supporter des poids importants. Elle a une [[solidité]] de 10 à 5 points de vie. On peut la briser avec un test de [[Force]] [[DD]] 26.
 
 
 {s:AE}{s:Reference|Chaînes factices}
 #### Chaînes factices (3 m)
 **Prix** 65 po ; **Poids** 1 kg
 ---
-Ces chaînes de maître sont faciles à briser, même si elles ressemblent à des [chaînes ordinaires](./Chaîne (objet).md) ([Perception](./Perception.md) [DD](./DD.md) 25 pour voir la différence). Un test de [Force](./Force.md) DD 10 suffit à les briser instantanément.
+Ces chaînes de maître sont faciles à briser, même si elles ressemblent à des [[Chaîne (objet)|chaînes ordinaires]] ([[Perception]] [[DD]] 25 pour voir la différence). Un test de [[Force]] DD 10 suffit à les briser instantanément.
 
 
 {s:AE}{s:Reference|Chaise pliante}
 #### Chaise pliante
-**Prix** 2 po ; **Poids** 5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 2 po ; **Poids** 5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
 Cette simple chaise pliante a une armature en bois et une assise et un dossier en toile, ce qui la rend facile à transporter et à installer où le personnage le souhaite. Elle se plie facilement et tient dans un sac pratique à porter. La chaise peut supporter facilement jusqu'à 125 kg.
 
@@ -941,7 +941,7 @@ Les bâtonnets de charbon sont utiles pour marquer les sols ou les murs, écrire
 #### Chaudron
 **Prix** 1 po (standard), 2.501 po (en mithral) ; **Poids** 2,5 kg (standard), 1,25 kg (en mithral)
 ---
-Cette version plus grande de la [marmite en fer](./Marmite (objet).md) a une contenance d'environ 4,5 litres — ce qui est suffisant pour un repas nourrissant pleinement quatre humains affamés. Ce chaudron peut également servir à fabriquer des [potions](./Potions magiques.md) ou à d'autres activités similaires.  
+Cette version plus grande de la [[Marmite (objet)|marmite en fer]] a une contenance d'environ 4,5 litres — ce qui est suffisant pour un repas nourrissant pleinement quatre humains affamés. Ce chaudron peut également servir à fabriquer des [[Potions magiques|potions]] ou à d'autres activités similaires.  
   
 *Chaudron en mithral.* Le chaudron en mithral est plus léger et accroche rarement à la cuisson.
 
@@ -952,7 +952,7 @@ Cette version plus grande de la [marmite en fer](./Marmite (objet).md) a une con
 ---
 Une chausse-trappe est une pointe de métal à quatre dents conçue de telle manière qu'il y a toujours une pointe dirigée vers le haut, quelle que soit la façon dont il est atterrit par terre. Le personnage disperse les chausse-trappes au sol dans l'espoir que ses ennemis marchent dessus ou soient au moins forcés de ralentir pour les éviter. Un sac de 1 kg de chausse-trappes permet de couvrir une zone de 1,50 mètre de côté.  
   
-Chaque fois qu'une créature entre dans une zone couverte de chausse-trappes (ou passe un [round](./round.md) à se battre dans une telle zone), elle risque de marcher sur l'un d'eux. Le personnage fait un [jet d'attaque](./jet dattaque.md) pour les chausse-trappes ([BBA](./BBA.md) +0) contre la créature. Pour cette attaque, les bonus de bouclier, d'armure et de parade de la créature ne comptent pas. Si la créature porte des chaussures ou a les pieds protégés d'une autre manière, elle bénéficie d'un bonus d'armure de +2 à la [CA](./CA.md). Si l'attaque réussit, cela signifie que la créature marche sur une chausse-trappe. Elle reçoit 1 point de dégâts et sa vitesse est réduite de moitié, car elle se blesse au pied. Ce malus de mouvement dure 24 heures, jusqu'à ce que la créature réussisse un test de [Premiers secours](./Premiers secours.md) [DD](./DD.md) 15 ou jusqu'à ce qu'elle reçoive au moins 1 point de soins magiques. Une créature qui [court](./courir.md) ou [charge](./charge.md) doit s'arrêter dès qu'elle marche sur une chausse-trappe. Toute créature se déplaçant à la moitié de sa vitesse ou moins peut se frayer un chemin à travers les chausse-trappes sans problème.  
+Chaque fois qu'une créature entre dans une zone couverte de chausse-trappes (ou passe un [[round]] à se battre dans une telle zone), elle risque de marcher sur l'un d'eux. Le personnage fait un [[jet dattaque|jet d'attaque]] pour les chausse-trappes ([[BBA]] +0) contre la créature. Pour cette attaque, les bonus de bouclier, d'armure et de parade de la créature ne comptent pas. Si la créature porte des chaussures ou a les pieds protégés d'une autre manière, elle bénéficie d'un bonus d'armure de +2 à la [[CA]]. Si l'attaque réussit, cela signifie que la créature marche sur une chausse-trappe. Elle reçoit 1 point de dégâts et sa vitesse est réduite de moitié, car elle se blesse au pied. Ce malus de mouvement dure 24 heures, jusqu'à ce que la créature réussisse un test de [[Premiers secours]] [[DD]] 15 ou jusqu'à ce qu'elle reçoive au moins 1 point de soins magiques. Une créature qui [[courir|court]] ou [[charge]] doit s'arrêter dès qu'elle marche sur une chausse-trappe. Toute créature se déplaçant à la moitié de sa vitesse ou moins peut se frayer un chemin à travers les chausse-trappes sans problème.  
   
 Il se peut que les chausse-trappes ne fonctionnent pas contre des adversaires hors du commun.
 
@@ -961,28 +961,28 @@ Il se peut que les chausse-trappes ne fonctionnent pas contre des adversaires ho
 #### Chausse-trappes vicieuses
 **Prix** 50 po ; **Poids** 2 kg
 ---
-Ces chausse-trappes spécialement modifiées sont dotées de pointes effilées légèrement plus longues et plus fragiles que celles des [chausse-trappes classiques](./Chausse-trappes (objet).md). Comme les chausse-trappes ordinaires, un sac de 1 kg de chausse-trappes vicieuses couvre une surface de 1,5 m de côté. Elles fonctionnent comme les chausse-trappes normales, mais leur bonus de base à l'attaque est de +4, elles infligent 1d2 points de dégâts et nécessitent un test de [Premiers secours](./Premiers secours.md) [DD](./DD.md) 20 pour soigner la réduction de mouvement.
+Ces chausse-trappes spécialement modifiées sont dotées de pointes effilées légèrement plus longues et plus fragiles que celles des [[Chausse-trappes (objet)|chausse-trappes classiques]]. Comme les chausse-trappes ordinaires, un sac de 1 kg de chausse-trappes vicieuses couvre une surface de 1,5 m de côté. Elles fonctionnent comme les chausse-trappes normales, mais leur bonus de base à l'attaque est de +4, elles infligent 1d2 points de dégâts et nécessitent un test de [[Premiers secours]] [[DD]] 20 pour soigner la réduction de mouvement.
 
 
 {s:AE}{s:Reference|Chaussures de fausses empreintes}
 #### Chaussures de fausses empreintes
 **Prix** 5 po ; **Poids** 1 kg
 ---
-Ces chaussures surdimensionnées se portent par-dessus des chaussures normales. Elles créent des empreintes de pieds ou de bottes semblables à celles que laisserait une autre créature. Chaque paire crée un type spécifique d'empreintes, comme des empreintes de tigre, d'orque, de gobelin ou d'ogre. Lorsqu'il marche avec ces chaussures, le personnage peut faire un test de [Survie](./Survie.md). Le résultat au test indique le [DD](./DD.md) du test de Survie pour quiconque essaye de déterminer si les traces sont bien ce qu'elles semblent être.
+Ces chaussures surdimensionnées se portent par-dessus des chaussures normales. Elles créent des empreintes de pieds ou de bottes semblables à celles que laisserait une autre créature. Chaque paire crée un type spécifique d'empreintes, comme des empreintes de tigre, d'orque, de gobelin ou d'ogre. Lorsqu'il marche avec ces chaussures, le personnage peut faire un test de [[Survie]]. Le résultat au test indique le [[DD]] du test de Survie pour quiconque essaye de déterminer si les traces sont bien ce qu'elles semblent être.
 
 
 {s:AE}{s:Reference|Chevalière}
 #### Chevalière
 **Prix** 5 po ; **Poids** —
 ---
-Cet anneau présente un motif en relief, généralement des armoiries familiales ou un sigle officiel. Le personnage presse la chevalière sur de la [cire fondue](./Cire à cacheter (objet).md) pour y imprimer ce symbole.
+Cet anneau présente un motif en relief, généralement des armoiries familiales ou un sigle officiel. Le personnage presse la chevalière sur de la [[Cire à cacheter (objet)|cire fondue]] pour y imprimer ce symbole.
 
 
 {s:AE}{s:Reference|Chignole/Foreuse}
 #### Chignole/Foreuse
 **Prix** 5 pa ; **Poids** 0,5 kg
 ---
-Une chignole permet de percer des trous de 2,5 centimètres de diamètre dans la pierre, le bois ou le métal par une [action simple](./Action simple.md). Les matériaux plus durs abîment ou brisent la chignole plus rapidement. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 15 pour entendre le bruit d'une chignole.
+Une chignole permet de percer des trous de 2,5 centimètres de diamètre dans la pierre, le bois ou le métal par une [[action simple]]. Les matériaux plus durs abîment ou brisent la chignole plus rapidement. Il faut réussir un test de [[Perception]] [[DD]] 15 pour entendre le bruit d'une chignole.
 
 
 {s:AE}{s:Reference|Chope}
@@ -996,7 +996,7 @@ Qu'il s'agisse d'une simple coupe en poterie ou d'une chope plus élaborée avec
 #### Chronique des Explorateurs
 **Prix** 50 po ; **Poids** 0,5 kg
 ---
-Il existe de nombreux volumes et éditions des Chroniques des Explorateurs. Quand le personnage en utilise un comme référence (ce qui lui prend en général 1d4 [actions complexes](./Action complexe.md) de recherche dans les textes), l'ouvrage lui donne un bonus de circonstance de +2 à test de [Connaissances](./Connaissances.md) donné. Chaque ouvrage donne un bonus à un type de [Connaissances](./Connaissances.md) différent, mais quel que soit le sujet de la chronique, le prix reste le même. (voir [Chroniques des Explorateurs](./Chroniques des Éclaireurs.md) pour plus de détails sur cet objet)
+Il existe de nombreux volumes et éditions des Chroniques des Explorateurs. Quand le personnage en utilise un comme référence (ce qui lui prend en général 1d4 [[action complexe|actions complexes]] de recherche dans les textes), l'ouvrage lui donne un bonus de circonstance de +2 à test de [[Connaissances]] donné. Chaque ouvrage donne un bonus à un type de [[Connaissances]] différent, mais quel que soit le sujet de la chronique, le prix reste le même. (voir [[Chroniques des Éclaireurs|Chroniques des Explorateurs]] pour plus de détails sur cet objet)
 
 
 {s:AE}{s:Reference|Cire à cacheter}
@@ -1031,28 +1031,28 @@ Cette grande cloche en argent est dotée d'une grande poignée en bois. Les cloc
 #### Coffre
 **Prix** 2 po (taille P), 5 po (taille M), 10 po (taille G), 25 po (taille TG) ; **Poids** 12,5 kg (taille P), 25 kg (taille M), 50 kg (taille G), 125 kg (taille TG)
 ---
-Ce coffre en bois standard se décline en différentes tailles : taille P (0,06 m<sup>3</sup>, 1 pv, [DD](./DD.md) 17 pour le briser), taille M (0,12 m<sup>3</sup>, 15 pv, DD 23 pour le briser), taille G (0,18 m<sup>3</sup>, 30 pv, DD 29 pour le briser), et taille TG (0,24 m<sup>3</sup>, 50 pv, DD 35 pour le briser). La plupart des coffres présentent une encoche simple pour un [cadenas](./Cadenas (objet).md).
+Ce coffre en bois standard se décline en différentes tailles : taille P (0,06 m<sup>3</sup>, 1 pv, [[DD]] 17 pour le briser), taille M (0,12 m<sup>3</sup>, 15 pv, DD 23 pour le briser), taille G (0,18 m<sup>3</sup>, 30 pv, DD 29 pour le briser), et taille TG (0,24 m<sup>3</sup>, 50 pv, DD 35 pour le briser). La plupart des coffres présentent une encoche simple pour un [[Cadenas (objet)|cadenas]].
 
 
 {s:AE}{s:Reference|Coffre à double fond}
 #### Coffre à double fond
 **Prix** 52 po ; **Poids** 12,5 kg
 ---
-Ces coffres sont généralement utilisés par les trafiquants transportant des marchandises de contrebande ou les gens qui veulent cacher un trésor. Le compartiment secret fait environ 2,5 centimètres de profondeur. Il en existe différentes sortes qui s'ouvrent de l'intérieur, par le dessous ou par l'arrière. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 20 pour repérer le compartiment secret.
+Ces coffres sont généralement utilisés par les trafiquants transportant des marchandises de contrebande ou les gens qui veulent cacher un trésor. Le compartiment secret fait environ 2,5 centimètres de profondeur. Il en existe différentes sortes qui s'ouvrent de l'intérieur, par le dessous ou par l'arrière. Il faut réussir un test de [[Perception]] [[DD]] 20 pour repérer le compartiment secret.
 
 
 {s:PMI}{s:Reference|Coffre au trésor}
 #### Coffre au trésor
 **Prix** 3 po (taille P), 7 po (taille M), 15 po (taille G), 37 po (taille TG) ; **Poids** 12,5 kg (taille P), 25 kg (taille M), 50 kg (taille G), 125 kg (taille TG)
 ---
-Un coffre au trésor est un coffre en bois ordinaire traité à la résine pour rendre le bois étanche. Des bandes de métal, le plus souvent en bronze pour éviter l'oxydation, sont fixées autour du coffre pour augmenter sa solidité. Le verrou est également en bronze. Un coffre au trésor a les mêmes statistiques qu'un [coffre en bois](./Coffre (objet).md) ordinaire mais il possède 25 % de [points de résistance](./Exploration.md#DESTRUCTIONOBJET) en plus et son [DD](./DD.md) pour le briser est augmenté de 2. Comparés aux coffres ordinaires, les coffres au trésor sont plus résistants, que ce soit lors des transports maritimes ou quand ils sont enfouis.
+Un coffre au trésor est un coffre en bois ordinaire traité à la résine pour rendre le bois étanche. Des bandes de métal, le plus souvent en bronze pour éviter l'oxydation, sont fixées autour du coffre pour augmenter sa solidité. Le verrou est également en bronze. Un coffre au trésor a les mêmes statistiques qu'un [[Coffre (objet)|coffre en bois]] ordinaire mais il possède 25 % de [[Exploration#DESTRUCTIONOBJET|points de résistance]] en plus et son [[DD]] pour le briser est augmenté de 2. Comparés aux coffres ordinaires, les coffres au trésor sont plus résistants, que ce soit lors des transports maritimes ou quand ils sont enfouis.
 
 
 {s:AE}{s:Reference|Colle animale}
 #### Colle animale
 **Prix** 5 pa ; **Poids** 0,25 kg
 ---
-Cette colle toute simple est fabriquée en faisant longuement bouillir la peau, les os, les sabots, les cornes et les tendons d'un animal jusqu'à ce que l'ensemble donne un sirop ocre qui refroidit tandis qu'il se solidifie. Le personnage applique normalement cette colle avec une brosse et maintient les pièces l'une contre l'autre pendant 1 minute, après quoi la colle s'est refroidie et solidifiée. La colle suffit à couvrir une surface de 30 centimètres de côté ou (avec le surplus et les restes) à couvrir 40 surfaces d'environ 5 centimètres de côté. Il faut réussir un test de [Force](./Force.md) [DD](./DD.md) 15 pour décoller une grande surface collée (au moins 30 centimètres de côté). Il faut réussir un test de Force DD 10 pour décoller une petite surface collée (tout ce qui est inférieur à 30 centimètres de côté). La colle animale se dissout peu à peu dans l'eau, réduisant le DD de Force pour la briser de 1 toutes les 10 minutes. Elle se ramollit lorsqu'on la chauffe, même avec de la vapeur, réduisant le DD de Force pour la briser de 1 toute les minutes.
+Cette colle toute simple est fabriquée en faisant longuement bouillir la peau, les os, les sabots, les cornes et les tendons d'un animal jusqu'à ce que l'ensemble donne un sirop ocre qui refroidit tandis qu'il se solidifie. Le personnage applique normalement cette colle avec une brosse et maintient les pièces l'une contre l'autre pendant 1 minute, après quoi la colle s'est refroidie et solidifiée. La colle suffit à couvrir une surface de 30 centimètres de côté ou (avec le surplus et les restes) à couvrir 40 surfaces d'environ 5 centimètres de côté. Il faut réussir un test de [[Force]] [[DD]] 15 pour décoller une grande surface collée (au moins 30 centimètres de côté). Il faut réussir un test de Force DD 10 pour décoller une petite surface collée (tout ce qui est inférieur à 30 centimètres de côté). La colle animale se dissout peu à peu dans l'eau, réduisant le DD de Force pour la briser de 1 toutes les 10 minutes. Elle se ramollit lorsqu'on la chauffe, même avec de la vapeur, réduisant le DD de Force pour la briser de 1 toute les minutes.
 
 
 {s:MCA}{s:Reference|Colonie de scarabées charognards}
@@ -1064,34 +1064,34 @@ Ce bocal en verre abrite une colonie de scarabées charognards carnivores qu'il 
 
 {s:AE}{s:Reference|Combinaison dapiculteur}
 #### Combinaison d'apiculteur
-**Prix** 20 po ; **Poids** 5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 20 po ; **Poids** 5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Ces épaisses couches de vêtements superposées s'associent à un large chapeau entouré d'un voile épais pour protéger le corps du personnage de tout contact physique avec les créatures de taille Min et I. La combinaison d'apiculteur réduit la vitesse de moitié mais accorde une [RD](./RD.md) de 10/— contre les [nuées](./sous-type nuée.md) de créatures de taille I et une RD de 5/— contre les nuées de créatures de taille Min.
+Ces épaisses couches de vêtements superposées s'associent à un large chapeau entouré d'un voile épais pour protéger le corps du personnage de tout contact physique avec les créatures de taille Min et I. La combinaison d'apiculteur réduit la vitesse de moitié mais accorde une [[RD]] de 10/— contre les [[sous-type Nuée|nuées]] de créatures de taille I et une RD de 5/— contre les nuées de créatures de taille Min.
 
 
 {s:AE}{s:Reference|Copie de clé}
 #### Copie de clé
 **Prix** 1 po ; **Poids** —
 ---
-Un artisan peut fabriquer une copie de clé fonctionnelle en l'espace d'une heure (pour que la copie ressemble exactement à l'original, il faut faire appel à un artisan compétent qui doit réussir un test d'[Artisanat](./Artisanat.md) de [DD](./DD.md) 25 au bout d'une journée).
+Un artisan peut fabriquer une copie de clé fonctionnelle en l'espace d'une heure (pour que la copie ressemble exactement à l'original, il faut faire appel à un artisan compétent qui doit réussir un test d'[[Artisanat]] de [[DD]] 25 au bout d'une journée).
 
 
 {s:AE}{s:Reference|Cor}
 #### Cor
-**Prix** 1 po ; **Poids** 1 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 1 po ; **Poids** 1 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Il faut réussir un test de [Représentation](./Représentation.md) (instruments à vent) [DD](./DD.md) 10 pour faire sonner un cor et communiquer des concepts tels que « À l'attaque! », « À l'aide ! », « En avant ! », « Repli ! », « Feu ! » et « Alerte ! ». Le signal d'un cor s'entend facilement ([Perception](./Perception.md) DD 0) dans un rayon de 800 mètres. Pour chaque tranche de 400 mètres au-delà de cette zone, les tests de Perception pour entendre un cor reçoivent un malus de -1.
+Il faut réussir un test de [[Représentation]] (instruments à vent) [[DD]] 10 pour faire sonner un cor et communiquer des concepts tels que « À l'attaque! », « À l'aide ! », « En avant ! », « Repli ! », « Feu ! » et « Alerte ! ». Le signal d'un cor s'entend facilement ([[Perception]] DD 0) dans un rayon de 800 mètres. Pour chaque tranche de 400 mètres au-delà de cette zone, les tests de Perception pour entendre un cor reçoivent un malus de -1.
 
 
 {s:AE}{s:Reference|Corde}
 #### Corde
 **Prix** 1 po (15 m), 10 po (en soie, 15 m), 100 po (en soie d'araignée, 15 m) ; **Poids** 5 kg (15 m), 2,5 kg (en soie, 15 m), 2 kg (en soie d'araignée, 15 m)
 ---
-Cette corde de chanvre de 15 mètres de long a 2 points de vie et peut être brisée avec un test de [Force](./Force.md) [DD](./DD.md) 23.  
+Cette corde de chanvre de 15 mètres de long a 2 points de vie et peut être brisée avec un test de [[Force]] [[DD]] 23.  
   
-*Corde en soie (15 m)*. Ces 15 mètres de corde en soie ont 4 points de vie. On peut les briser avec un test de [Force](./Force.md) [DD](./DD.md) 24.  
+*Corde en soie (15 m)*. Ces 15 mètres de corde en soie ont 4 points de vie. On peut les briser avec un test de [[Force]] [[DD]] 24.  
   
-*Corde en soie d'araignée (15 m)*. Cette corde de 15 mètres est tissée de fils de soie d'araignées monstrueuses. Rares, pratiquement inexistantes à la surface du monde, ces cordes sont généralement utilisées par les [elfes noirs](./Drow (race).md) mais on trouve parfois des corde en soie d'araignée plus courtes (en principe pas plus de 3 mètres de long) chez les [gobelins](./Gobelin (race).md). La corde en soie d'araignée a 6 points de vie et peut être brisée avec un test de [Force](./Force.md) [DD](./DD.md) 25.
+*Corde en soie d'araignée (15 m)*. Cette corde de 15 mètres est tissée de fils de soie d'araignées monstrueuses. Rares, pratiquement inexistantes à la surface du monde, ces cordes sont généralement utilisées par les [[Drow (race)|elfes noirs]] mais on trouve parfois des corde en soie d'araignée plus courtes (en principe pas plus de 3 mètres de long) chez les [[Gobelin (race)|gobelins]]. La corde en soie d'araignée a 6 points de vie et peut être brisée avec un test de [[Force]] [[DD]] 25.
 
 
 {s:RSE}{s:Reference|Corde métrée}
@@ -1105,42 +1105,42 @@ Cette longueur de fil est marquée tous les trente centimètres pour faciliter l
 #### Cordon à grimoire
 **Prix** 3 pa ; **Poids** 0,25 kg
 ---
-Cette ganse métallique est dotée d'une boucle qui se fixe au verrou d'un [grimoire normal](./Grimoire (objet).md). L'autre bout se fixe à la ceinture ou à une boucle de ceinture. La ganse fait 3 mètres de long et elle est rétractable. Si le personnage lâche son grimoire alors que celui-ci est attaché à la ganse, il peut le récupérer par une [action simple](./Action simple.md). Lorsqu'il est attaché au personnage, le livre ne peut jamais se trouver à plus de 3 mètres de lui. Il faut une [action de mouvement](./Action de mouvement.md) pour détacher l'ouvrage. Il est également possible de couper la corde pour le libérer ([solidité](./solidité.md) 5, pv 10).
+Cette ganse métallique est dotée d'une boucle qui se fixe au verrou d'un [[Grimoire (objet)|grimoire normal]]. L'autre bout se fixe à la ceinture ou à une boucle de ceinture. La ganse fait 3 mètres de long et elle est rétractable. Si le personnage lâche son grimoire alors que celui-ci est attaché à la ganse, il peut le récupérer par une [[action simple]]. Lorsqu'il est attaché au personnage, le livre ne peut jamais se trouver à plus de 3 mètres de lui. Il faut une [[action de mouvement]] pour détacher l'ouvrage. Il est également possible de couper la corde pour le libérer ([[solidité]] 5, pv 10).
 
 
 {s:AE}{s:Reference|Corne à poudre}
 #### Corne à poudre
 **Prix** 3 po ; **Poids** 0,5 kg
 ---
-La corne à poudre est généralement fabriquée à partir d'une corne d'animal évidée mais on utilise de plus en plus de métal pour lui donner diverses formes. Elle peut contenir jusqu'à 10 doses de [poudre noire](./Poudre noire (arme).md). Une corne à poudre protège la poudre noire qu'elle renferme contre le feu, l'électricité, les enrayements des [armes à feu](./Armes à feu.md) et l'eau. Elle a un embout étroit bien pratique pour transvaser en toute sécurité la poudre, si onéreuse, dans le canon d'une arme à feu.
+La corne à poudre est généralement fabriquée à partir d'une corne d'animal évidée mais on utilise de plus en plus de métal pour lui donner diverses formes. Elle peut contenir jusqu'à 10 doses de [[Poudre noire (arme)|poudre noire]]. Une corne à poudre protège la poudre noire qu'elle renferme contre le feu, l'électricité, les enrayements des [[armes à feu]] et l'eau. Elle a un embout étroit bien pratique pour transvaser en toute sécurité la poudre, si onéreuse, dans le canon d'une arme à feu.
 
 
 {s:AE}{s:Reference|Corne acoustique}
 #### Corne acoustique
 **Prix** 5 po ; **Poids** 1 kg
 ---
-En portant cette corne acoustique spécialement adaptée à son oreille et en plaçant l'autre extrémité contre une porte ou un mur, le personnage réduit le malus au [DD](./DD.md) pour écouter aux portes ou aux murs de 5.
+En portant cette corne acoustique spécialement adaptée à son oreille et en plaçant l'autre extrémité contre une porte ou un mur, le personnage réduit le malus au [[DD]] pour écouter aux portes ou aux murs de 5.
 
 
 {s:AE}{s:Reference|Coupe à double fond}
 #### Coupe à double fond
 **Prix** 1 po ; **Poids** —
 ---
-Le petit compartiment situé dans le fond de cette coupe est un endroit parfait pour cacher un petit objet ou une substance. Les modèles les plus traîtres sont dotés d'un loquet plus lourd qui s'ouvre quand on incline la coupe, libérant la substance cachée qui vient se mélanger au contenu de la coupe. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 15 pour repérer le compartiment caché d'une coupe vide.
+Le petit compartiment situé dans le fond de cette coupe est un endroit parfait pour cacher un petit objet ou une substance. Les modèles les plus traîtres sont dotés d'un loquet plus lourd qui s'ouvre quand on incline la coupe, libérant la substance cachée qui vient se mélanger au contenu de la coupe. Il faut réussir un test de [[Perception]] [[DD]] 15 pour repérer le compartiment caché d'une coupe vide.
 
 
 {s:AE}{s:Reference|Coupe-verre}
 #### Coupe-verre
 **Prix** 5 po ; **Poids** —
 ---
-Ce petit bâton en métal est pourvu d'une toute petite roue aiguisée à un bout et d'un bulbe de l'autre. Le personnage marque le verre avec la roue et le frappe avec le bulbe pour le briser. S'il réussit un test d'[Escamotage](./Escamotage.md) [DD](./DD.md) 15, il peut briser le verre en silence (test de [Perception](./Perception.md) DD 15 pour entendre). La plupart des voleurs utilisent du [papier glu](./Papier glu (objet).md) avec le coupe-verre pour atténuer le bruit et récupérer les éclats de verre.
+Ce petit bâton en métal est pourvu d'une toute petite roue aiguisée à un bout et d'un bulbe de l'autre. Le personnage marque le verre avec la roue et le frappe avec le bulbe pour le briser. S'il réussit un test d'[[Escamotage]] [[DD]] 15, il peut briser le verre en silence (test de [[Perception]] DD 15 pour entendre). La plupart des voleurs utilisent du [[Papier glu (objet)|papier glu]] avec le coupe-verre pour atténuer le bruit et récupérer les éclats de verre.
 
 
 {s:AE}{s:Reference|Couverture}
 #### Couverture
-**Prix** 5 pa ; **Poids** 1,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 5 pa ; **Poids** 1,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Cette couverture chaude est pourvue de courroies permettant de l'enrouler et de l'attacher. Les couvertures sont souvent utilisées en plus des [sacs de couchage](./Sac de couchage (objet).md) pour bénéficier de davantage de chaleur ou d'un coussin.
+Cette couverture chaude est pourvue de courroies permettant de l'enrouler et de l'attacher. Les couvertures sont souvent utilisées en plus des [[Sac de couchage (objet)|sacs de couchage]] pour bénéficier de davantage de chaleur ou d'un coussin.
 
 
 {s:AE}{s:Reference|Craie}
@@ -1154,7 +1154,7 @@ Ce gros morceau de craie blanche permet de marquer facilement le bois, le métal
 #### Cristal prismatique
 **Prix** 30 po ; **Poids** 0,25 kg
 ---
-Cet éclat de cristal brille de toutes les couleurs de l'arc-en-ciel. Un cristal prismatique peut être utilisé comme focalisateur lors de l'utilisation de l'extension de compétence occulte [lecture des auras](./Extensions de compétences occultes.md#LECTUREDESAURAS) et permet de réduire à cinq minutes le temps nécessaire à la lecture d'une aura (qui prend dix minutes en temps normal). Porté par des créatures dotées de capacités psychiques, ces cristaux diffusent également de la lumière à courte portée, ce qui augmente d'un cran l'[intensité de la lumière](./Exploration.md#VISIONLUMIERE) sur un rayon de 3 mètres (une zone plongée dans l'obscurité devient faiblement éclairée et une zone faiblement éclairée devient normalement éclairée). Un cristal prismatique n'augmente pas l'intensité lumineuse d'une zone déjà normalement éclairée.
+Cet éclat de cristal brille de toutes les couleurs de l'arc-en-ciel. Un cristal prismatique peut être utilisé comme focalisateur lors de l'utilisation de l'extension de compétence occulte [[Extensions de compétences occultes#LECTUREDESAURAS|lecture des auras]] et permet de réduire à cinq minutes le temps nécessaire à la lecture d'une aura (qui prend dix minutes en temps normal). Porté par des créatures dotées de capacités psychiques, ces cristaux diffusent également de la lumière à courte portée, ce qui augmente d'un cran l'[[Exploration#VISIONLUMIERE|intensité de la lumière]] sur un rayon de 3 mètres (une zone plongée dans l'obscurité devient faiblement éclairée et une zone faiblement éclairée devient normalement éclairée). Un cristal prismatique n'augmente pas l'intensité lumineuse d'une zone déjà normalement éclairée.
 
 
 {s:AE}{s:Reference|Cruche}
@@ -1168,23 +1168,23 @@ Cette cruche toute simple en argile a une poignée et un col ouvert avec un bec 
 #### Dictionnaire de voyage
 **Prix** 50 po ; **Poids** 1 kg
 ---
-Chacun de ces livres référence le vocabulaire d'une langue spécifique et se compose de deux parties. La première présente une grande variété d'expressions et de termes utiles en commun (et répartis par catégories) suivis de leur écriture phonétique dans la langue du dictionnaire. La deuxième partie présente dans l'ordre alphabétique (et par écriture phonétique) un ensemble d'expressions et de termes dans la langue cible suivis de leur traduction en commun. L'utilisation de ce dictionnaire n'accorde pas de bonus aux jets effectués pour communiquer mais, si le [MJ](./MJ.md) est d'accord, peut annuler ou réduire un malus si la créature a suffisamment de patience pour attendre la traduction.
+Chacun de ces livres référence le vocabulaire d'une langue spécifique et se compose de deux parties. La première présente une grande variété d'expressions et de termes utiles en commun (et répartis par catégories) suivis de leur écriture phonétique dans la langue du dictionnaire. La deuxième partie présente dans l'ordre alphabétique (et par écriture phonétique) un ensemble d'expressions et de termes dans la langue cible suivis de leur traduction en commun. L'utilisation de ce dictionnaire n'accorde pas de bonus aux jets effectués pour communiquer mais, si le [[MJ]] est d'accord, peut annuler ou réduire un malus si la créature a suffisamment de patience pour attendre la traduction.
 
 
 {s:AE}{s:Reference|Dragonne}
 #### Dragonne
 **Prix** 1 pa ; **Poids** —
 ---
-Les dragonnes sont des lanières de cuir de 60 centimètres de long qui permettent d'attacher une arme au poignet. Si le personnage lâche son arme ou se fait [désarmer](./désarmement.md), il peut la récupérer par une [action de mouvement](./Action de mouvement.md) et elle ne tombe jamais à plus d'une case de lui. Néanmoins, il ne peut pas changer d'arme sans avoir d'abord détaché (une [action complexe](./Action complexe.md)) ou coupé (une [action de mouvement](./Action de mouvement.md) ou une attaque, [solidité](./solidité.md) 0, 1 point de vie) la dragonne. Contrairement à un gantelet fixé, le personnage peut utiliser sa main avec une dargonne mais l'arme qui pend peut entraver les actions demandant une certaine précision.
+Les dragonnes sont des lanières de cuir de 60 centimètres de long qui permettent d'attacher une arme au poignet. Si le personnage lâche son arme ou se fait [[désarmement|désarmer]], il peut la récupérer par une [[action de mouvement]] et elle ne tombe jamais à plus d'une case de lui. Néanmoins, il ne peut pas changer d'arme sans avoir d'abord détaché (une [[action complexe]]) ou coupé (une [[action de mouvement]] ou une attaque, [[solidité]] 0, 1 point de vie) la dragonne. Contrairement à un gantelet fixé, le personnage peut utiliser sa main avec une dargonne mais l'arme qui pend peut entraver les actions demandant une certaine précision.
 
 
 {s:AE}{s:Reference|Échasses}
 #### Échasses
-**Prix** 2 pa (standard), 5 po (de maître) ; **Poids** 5 kg (standard), 5 kg (de maître)<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 2 pa (standard), 5 po (de maître) ; **Poids** 5 kg (standard), 5 kg (de maître)<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Il s'agit d'une paire de perches en bois avec un repose-pied au milieu. En se plaçant sur les repose-pieds et en tenant le bout des perches, le personnage peut éviter certains dangers au sol. Par exemple, il peut utiliser des échasses pour traverser un plan d'eau sans se mouiller mais il déclenchera quand même les pièges qui s'activent lorsqu'on pénètre une certaine zone. Les échasses réduisent la vitesse de base de 9 mètres à 6 mètres, ou de 6 mètres à 4,50 mètres. Le personnage peut sauter à bas des échasses par une [action de mouvement](./Action de mouvement.md) ou par une [action libre](./Action libre.md) s'il réussit un test d'[Acrobaties](./Acrobaties.md) [DD](./DD.md) 10. Le personnage doit utiliser ses deux mains pour marcher avec des échasses. Avec des échasses, il faut réussir un test d'Acrobaties DD 5 à chaque pas. Si le personnage rate un test, il ne se déplace pas lors de cette action, s'il échoue de 5 ou plus, il tombe des échasses. S'il veut utiliser l'une de ses mains pour faire autre chose alors qu'il est sur les échasses, il doit réussir un test d'Acrobaties DD 10 ou perdre son action, s'il veut utiliser ses deux mains, le DD passe à 20. Les échasses pour une créature de taille M surélèvent le personnage à 60 centimètres de sol, les échasses pour une créature de taille P à 30 centimètres du sol. Le personnage peut utiliser des échasses plus grandes mais pour chaque tranche de 30 centimètres de hauteur supplémentaire, le DD d'Acrobaties pour l'utilisation des échasses augmente de +5. Une échasse a une [solidité](./solidité.md) de 5 et 10 points de vie. Si le personnage n'a qu'une seule échasse, sa vitesse est réduite à 1,50 mètre puisqu'il ne peut que se déplacer qu'en sautillant, non en marchant.  
+Il s'agit d'une paire de perches en bois avec un repose-pied au milieu. En se plaçant sur les repose-pieds et en tenant le bout des perches, le personnage peut éviter certains dangers au sol. Par exemple, il peut utiliser des échasses pour traverser un plan d'eau sans se mouiller mais il déclenchera quand même les pièges qui s'activent lorsqu'on pénètre une certaine zone. Les échasses réduisent la vitesse de base de 9 mètres à 6 mètres, ou de 6 mètres à 4,50 mètres. Le personnage peut sauter à bas des échasses par une [[action de mouvement]] ou par une [[action libre]] s'il réussit un test d'[[Acrobaties]] [[DD]] 10. Le personnage doit utiliser ses deux mains pour marcher avec des échasses. Avec des échasses, il faut réussir un test d'Acrobaties DD 5 à chaque pas. Si le personnage rate un test, il ne se déplace pas lors de cette action, s'il échoue de 5 ou plus, il tombe des échasses. S'il veut utiliser l'une de ses mains pour faire autre chose alors qu'il est sur les échasses, il doit réussir un test d'Acrobaties DD 10 ou perdre son action, s'il veut utiliser ses deux mains, le DD passe à 20. Les échasses pour une créature de taille M surélèvent le personnage à 60 centimètres de sol, les échasses pour une créature de taille P à 30 centimètres du sol. Le personnage peut utiliser des échasses plus grandes mais pour chaque tranche de 30 centimètres de hauteur supplémentaire, le DD d'Acrobaties pour l'utilisation des échasses augmente de +5. Une échasse a une [[solidité]] de 5 et 10 points de vie. Si le personnage n'a qu'une seule échasse, sa vitesse est réduite à 1,50 mètre puisqu'il ne peut que se déplacer qu'en sautillant, non en marchant.  
   
-*Échasses de maître.* Ces échasses se fixent aux pieds et aux jambes du personnage, lui permettant d'utiliser ses mains pour d'autres tâches sans malus. Il faut quand même réussir un test d'[Acrobaties](./Acrobaties.md) [DD](./DD.md) 10 pour marcher avec des échasses de maître. Il faut une [action complexe](./Action complexe.md) pour attacher ou retirer des échasses de maître.
+*Échasses de maître.* Ces échasses se fixent aux pieds et aux jambes du personnage, lui permettant d'utiliser ses mains pour d'autres tâches sans malus. Il faut quand même réussir un test d'[[Acrobaties]] [[DD]] 10 pour marcher avec des échasses de maître. Il faut une [[action complexe]] pour attacher ou retirer des échasses de maître.
 
 
 {s:AE}{s:Reference|Échelle}
@@ -1193,7 +1193,7 @@ Il s'agit d'une paire de perches en bois avec un repose-pied au milieu. En se pl
 ---
 Cette simple échelle de 3 mètres de haut se compose de deux longues planches auxquelles sont clouées des barreaux en bois tous les 30 centimètres.  
   
-*Échelle pliante*. Le crochet, les montants et les barreaux de cette échelle de 3 mètres sont articulés, ce qui permet au personnage de la replier en un paquet de 1,50 mètre sur 30 centimètres. Il faut une [action simple](./Action simple.md) pour la plier ou la déplier.
+*Échelle pliante*. Le crochet, les montants et les barreaux de cette échelle de 3 mètres sont articulés, ce qui permet au personnage de la replier en un paquet de 1,50 mètre sur 30 centimètres. Il faut une [[action simple]] pour la plier ou la déplier.
 
 
 {s:AO}{s:Reference|Encens}
@@ -1207,7 +1207,7 @@ Cette résine aromatique est imbibée d'huiles parfumées et modelée en forme d
 #### Encensoir
 **Prix** 50 po ; **Poids** 1,5 kg
 ---
-Lorsqu'il est rempli de charbon et d'herbes de base d'une valeur de 2 pa, ce brasero miniature remplit une zone de 9 mètres de diamètre d'une légère fumée pendant 1 heure. Toutes les créatures dans la zone enfumée gagnent un bonus de circonstances de +2 à leurs jets de [Vigueur](./Vigueur.md) pour résister aux maladies inhalées.
+Lorsqu'il est rempli de charbon et d'herbes de base d'une valeur de 2 pa, ce brasero miniature remplit une zone de 9 mètres de diamètre d'une légère fumée pendant 1 heure. Toutes les créatures dans la zone enfumée gagnent un bonus de circonstances de +2 à leurs jets de [[Vigueur]] pour résister aux maladies inhalées.
 
 
 {s:AE}{s:Reference|Encre}
@@ -1221,72 +1221,72 @@ Cette fiole contient 30 millilitres d'encre. Les encres de couleur coûtent deux
 #### Épée à dos de scie
 **Prix** +5 po ; **Poids** —
 ---
-Il s'agit d'une modification que l'on peut apporter à toute [lame légère](./groupe darmes.md#Lameslégères) ou [lourde](./groupe darmes.md#Lameslourdes) plutôt qu'à un seul type d'arme. Une lame de scie au dos d'une épée permet au personnage d'utiliser son arme pour effectuer des travaux sommaires de charpenterie.
+Il s'agit d'une modification que l'on peut apporter à toute [[Groupe darmes#Lameslégères|lame légère]] ou [[Groupe darmes#Lameslourdes|lourde]] plutôt qu'à un seul type d'arme. Une lame de scie au dos d'une épée permet au personnage d'utiliser son arme pour effectuer des travaux sommaires de charpenterie.
 
 
 {s:CCMI}{s:Reference|Étendard}
 #### Étendard
 **Prix** 10 po ; **Poids** 1,5 kg
 ---
-L'étendard est une bannière colorée qui porte le symbole ou le blason d'une nation ou d'une organisation. Un personnage qui porte un étendard et possède le don [Porte-étendard](./Porte-étendard.md) accorde des bonus de combat supplémentaires à ses alliés. Il faut avoir une main libre pour porter un étendard au combat.
+L'étendard est une bannière colorée qui porte le symbole ou le blason d'une nation ou d'une organisation. Un personnage qui porte un étendard et possède le don [[Porte-étendard]] accorde des bonus de combat supplémentaires à ses alliés. Il faut avoir une main libre pour porter un étendard au combat.
 
 
 {s:AE}{s:Reference|Étui à parchemins}
 #### Étui à parchemins
 **Prix** 1 po ; **Poids** 0,25 kg
 ---
-Un étui à parchemin en cuir ou en bois peut accueillir jusqu'à 4 parchemins. Le personnage peut en mettre davantage dedans mais il lui faut une [action complexe](./Action complexe.md) pour en récupérer un plutôt qu'une [action de mouvement](./Action de mouvement.md). Le personnage doit détruire l'étui à parchemin pour endommager son contenu ([solidité](./solidité.md) 2 pour le cuir ou 5 pour le bois, 2 points de vie, [DD](./DD.md) 15 pour le briser). Les étuis à parchemins ne sont pas étanches et doivent être protégés des éléments.
+Un étui à parchemin en cuir ou en bois peut accueillir jusqu'à 4 parchemins. Le personnage peut en mettre davantage dedans mais il lui faut une [[action complexe]] pour en récupérer un plutôt qu'une [[action de mouvement]]. Le personnage doit détruire l'étui à parchemin pour endommager son contenu ([[solidité]] 2 pour le cuir ou 5 pour le bois, 2 points de vie, [[DD]] 15 pour le briser). Les étuis à parchemins ne sont pas étanches et doivent être protégés des éléments.
 
 
 {s:MCA}{s:Reference|Étui de manche}
 #### Étui de manche
 **Prix** 100 po ; **Poids** 0,5 kg
 ---
-Quand il le porte sous des manches volumineuses, cet étui en cuir permet au personnage de dégainer une [arbalète de poing](./Arbalète de poing (arme).md) dissimulée ou un [pistolet de poche](./Pistolet de poche (arme).md) par une [action de mouvement](./Action de mouvement.md). L'arme est fixée à des rails et glisse directement dans la main du porteur. Contrairement au [fourreau de poignet](./Fourreau de poignet (objet).md), l'étui de manche est suffisamment encombrant pour être visible en cas d'examen attentif mais, sous un vêtement assez ample, il a peu de risque de provoquer une test de [Perception](./Perception.md) réactif. Un même étui de manche peut accueillir une arbalète de poing ou un pistolet de poche, mais pas les deux.
+Quand il le porte sous des manches volumineuses, cet étui en cuir permet au personnage de dégainer une [[arbalète de poing (arme)|arbalète de poing]] dissimulée ou un [[pistolet de poche (arme)|pistolet de poche]] par une [[action de mouvement]]. L'arme est fixée à des rails et glisse directement dans la main du porteur. Contrairement au [[Fourreau de poignet (objet)|fourreau de poignet]], l'étui de manche est suffisamment encombrant pour être visible en cas d'examen attentif mais, sous un vêtement assez ample, il a peu de risque de provoquer une test de [[Perception]] réactif. Un même étui de manche peut accueillir une arbalète de poing ou un pistolet de poche, mais pas les deux.
 
 
 {s:AE}{s:Reference|Fausses menottes}
 #### Fausses menottes
 **Prix** 65 po ; **Poids** 1 kg
 ---
-Ces menottes sont presque impossibles à distinguer de menottes standards lorsqu'on les examine ([Perception](./Perception.md) [DD](./DD.md) 25). Un porteur qui sait où se trouve le fermoir secret peut les ouvrir par une [action simple](./Action simple.md), sinon, elles fonctionnent comme des [menottes de maître](./Menottes (objet).md). Certaines apparaissent comme des menottes de qualité standard mais les fausses menottes sont toujours des objets de maître.
+Ces menottes sont presque impossibles à distinguer de menottes standards lorsqu'on les examine ([[Perception]] [[DD]] 25). Un porteur qui sait où se trouve le fermoir secret peut les ouvrir par une [[action simple]], sinon, elles fonctionnent comme des [[Menottes (objet)|menottes de maître]]. Certaines apparaissent comme des menottes de qualité standard mais les fausses menottes sont toujours des objets de maître.
 
 
 {s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:MR}{s:Reference|Fers}
 #### Fers
 **Prix** 15 po (standards), 50 po (de maître) ; **Poids** 1 kg (standards), 1 kg (de maître)
 ---
-Les fers sont des [menottes](./Menottes (objet).md) pour les chevilles plutôt que pour les poignets et répondent aux mêmes règles quand il s'agit de les casser, de s'en libérer et en ce qui concerne leur coût en fonction de la taille. Une créature mise aux fers est [enchevêtrée](./Enchevêtré.md) et ne peut se déplacer qu'à la moitié de sa vitesse. En outre, une créature enchaînée doit réussir un test d'[Acrobaties](./Acrobaties.md) [DD](./DD.md) 15 pour se déplacer à plus de sa vitesse (réduite) en un [round](./round.md). Si elle rate son test de 5 ou plus, elle tombe [à terre](./À terre.md).
+Les fers sont des [[Menottes (objet)|menottes]] pour les chevilles plutôt que pour les poignets et répondent aux mêmes règles quand il s'agit de les casser, de s'en libérer et en ce qui concerne leur coût en fonction de la taille. Une créature mise aux fers est [[enchevêtré|enchevêtrée]] et ne peut se déplacer qu'à la moitié de sa vitesse. En outre, une créature enchaînée doit réussir un test d'[[Acrobaties]] [[DD]] 15 pour se déplacer à plus de sa vitesse (réduite) en un [[round]]. Si elle rate son test de 5 ou plus, elle tombe [[à terre]].
 
 
 {s:AE}{s:Reference|Ficelle}
 #### Ficelle (15 m)
 **Prix** 1 pc ; **Poids** 0,25 kg
 ---
-Vendue en pelote ou en bobine, la ficelle permet d'improviser des pièges et des systèmes d'alarme, ou de ramener un objet hors d'atteinte à soi en l'attachant à une flèche ou un carreau. La ficelle a une [solidité](./solidité.md) de 0,1 point de vie et le [DD](./DD.md) pour la briser est de 14.
+Vendue en pelote ou en bobine, la ficelle permet d'improviser des pièges et des systèmes d'alarme, ou de ramener un objet hors d'atteinte à soi en l'attachant à une flèche ou un carreau. La ficelle a une [[solidité]] de 0,1 point de vie et le [[DD]] pour la briser est de 14.
 
 
 {s:AE}{s:Reference|Fil à scier}
 #### Fil à scier
 **Prix** 30 po (standard), 150 po (en adamantium) ; **Poids** — (standard), — (en adamantium)
 ---
-Cette scie souple se constitue tout simplement d'un câble abrasif accroché à deux anneaux métalliques. En frottant le câble sur un verrou ou une petite barre bloquant une porte, le personnage se sert des anneaux pour scier l'obstacle en silence. Il faut 10 minutes pour scier une pièce de bois de 5 centimètres d'épaisseur ou une barre en fer de 2,5 centimètres d'épaisseur. Un fil à scier permet de trancher des objets ayant une [solidité](./solidité.md) de 10 ou moins. Après cinq utilisations, le câble abrasif devient lisse et doit être remplacé (pour un coût de 25 po).  
+Cette scie souple se constitue tout simplement d'un câble abrasif accroché à deux anneaux métalliques. En frottant le câble sur un verrou ou une petite barre bloquant une porte, le personnage se sert des anneaux pour scier l'obstacle en silence. Il faut 10 minutes pour scier une pièce de bois de 5 centimètres d'épaisseur ou une barre en fer de 2,5 centimètres d'épaisseur. Un fil à scier permet de trancher des objets ayant une [[solidité]] de 10 ou moins. Après cinq utilisations, le câble abrasif devient lisse et doit être remplacé (pour un coût de 25 po).  
   
-*Fil à scier en adamantium.* Il permet de couper les matériaux ayant une [solidité](./solidité.md) de 10 ou moins deux fois plus vite qu'un fil à scier normal ou les matériaux ayant une solidité de 11 à 20 à une vitesse normale. Le remplacement d'un câble à scier en adamantium coûte 145 po.
+*Fil à scier en adamantium.* Il permet de couper les matériaux ayant une [[solidité]] de 10 ou moins deux fois plus vite qu'un fil à scier normal ou les matériaux ayant une solidité de 11 à 20 à une vitesse normale. Le remplacement d'un câble à scier en adamantium coûte 145 po.
 
 
 {s:AE}{s:Reference|Filet à clochettes}
 #### Filet à clochettes
 **Prix** 2 po ; **Poids** 1 kg
 ---
-Des clochettes en cuivre sont attachées à chacun des coins de ce filet de 1,50 mètre de côté. Le filet à clochettes se rabat sur l'équipement lorsque le personnage dort, chasse, cuisine ou fait quelque chose qui monopolise son attention. Il le prévient si l'on vient perturber ses possessions. Les créatures qui tentent d'accéder à un équipement protégé par un filet à clochettes doivent réussir un test d'[Escamotage](./Escamotage.md) [DD](./DD.md) 25 pour éviter de faire sonner les clochettes. Pour entendre les clochettes sonner, il faut faire un test de [Perception](./Perception.md) [DD](./DD.md) 0. Les nombreuses clochettes du filet remuant lorsque le personnage se déplace, il subit un malus de -2 aux tests de [Discrétion](./Discrétion.md) quand il se déplace.
+Des clochettes en cuivre sont attachées à chacun des coins de ce filet de 1,50 mètre de côté. Le filet à clochettes se rabat sur l'équipement lorsque le personnage dort, chasse, cuisine ou fait quelque chose qui monopolise son attention. Il le prévient si l'on vient perturber ses possessions. Les créatures qui tentent d'accéder à un équipement protégé par un filet à clochettes doivent réussir un test d'[[Escamotage]] [[DD]] 25 pour éviter de faire sonner les clochettes. Pour entendre les clochettes sonner, il faut faire un test de [[Perception]] [[DD]] 0. Les nombreuses clochettes du filet remuant lorsque le personnage se déplace, il subit un malus de -2 aux tests de [[Discrétion]] quand il se déplace.
 
 
 {s:AE}{s:Reference|Filet à papillons}
 #### Filet à papillons
-**Prix** 5 po ; **Poids** 1 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 5 po ; **Poids** 1 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Un cerceau en métal muni d'un filet aux mailles très fines est attaché au bout de ce bâton de 1,80 mètre de long. Le personnage peut s'en servir pour séparer des objets d'une substance capable de traverser les mailles du filet, comme le sable ou l'eau. Il peut également s'en servir pour capturer des créatures de taille I ou Min comme s'il s'agissait d'un [filet](./filet (arme).md) mais il n'a pas besoin de le replier s'il rate sa cible et il peut utiliser son manche comme il utiliserait la corde d'un filet.
+Un cerceau en métal muni d'un filet aux mailles très fines est attaché au bout de ce bâton de 1,80 mètre de long. Le personnage peut s'en servir pour séparer des objets d'une substance capable de traverser les mailles du filet, comme le sable ou l'eau. Il peut également s'en servir pour capturer des créatures de taille I ou Min comme s'il s'agissait d'un [[filet (arme)|filet]] mais il n'a pas besoin de le replier s'il rate sa cible et il peut utiliser son manche comme il utiliserait la corde d'un filet.
 
 
 {s:AE}{s:Reference|Filet de pêche}
@@ -1307,7 +1307,7 @@ Les fioles sont faites en verre ou en acier et ont une contenance de 30 millilit
 #### Fiole en fer
 **Prix** 1 pa ; **Poids** 0,5 kg
 ---
-Cette bouteille à potion en fer a une [solidité](./solidité.md) de 5 et 3 points de vie. Le [DD](./DD.md) pour la briser est de 14.
+Cette bouteille à potion en fer a une [[solidité]] de 5 et 3 points de vie. Le [[DD]] pour la briser est de 14.
 
 
 {s:AE}{s:Reference|Flasque}
@@ -1319,46 +1319,46 @@ Cette bouteille en verre a une contenance de 0,5 litre. Elle est relativement fr
 
 {s:AE}{s:Reference|Flasque de poche}
 #### Flasque de poche
-**Prix** 1 po ; **Poids** 0,25 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 1 po ; **Poids** 0,25 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Cette petite gourde en métal présente une forme courbe et aplatie permettant de la dissimuler facilement dans une poche ou sur soi. Une flasque de poche a en général une contenance de 240 millilitres et, tout comme une [flasque normale](./Flasque (objet).md), peut n'être rien de plus qu'une simple gourde ou une oeuvre d'art décorative.
+Cette petite gourde en métal présente une forme courbe et aplatie permettant de la dissimuler facilement dans une poche ou sur soi. Une flasque de poche a en général une contenance de 240 millilitres et, tout comme une [[Flasque (objet)|flasque normale]], peut n'être rien de plus qu'une simple gourde ou une oeuvre d'art décorative.
 
 
 {s:AE}{s:Reference|Flèche-grappin}
 #### Flèche-grappin
 **Prix** 1 po ; **Poids** 0,25 kg
 ---
-Ce petit grappin est conçu pour s'attacher à une [corde en soie](./Corde (objet).md) et se lancer avec un [arc](./Arc court (arme).md). Il a alors un [facteur de portée](./facteur de portée.md) de 9 mètres. Il existe un outil équivalent pour les [arbalètes](./Arbalète légère (arme).md).
+Ce petit grappin est conçu pour s'attacher à une [[Corde (objet)|corde en soie]] et se lancer avec un [[Arc court (arme)|arc]]. Il a alors un [[facteur de portée]] de 9 mètres. Il existe un outil équivalent pour les [[Arbalète légère (arme)|arbalètes]].
 
 
 {s:AE}{s:Reference|Fourreau à double fond}
 #### Fourreau à double fond
 **Prix** 45 po ; **Poids** 0,5 kg
 ---
-L'espace situé au fond de ce fourreau d'épée est juste assez large pour accueillir une flasque de potion. Sur certains modèles, on y accède depuis l'extérieur, sur d'autres, il s'ouvre de l'intérieur grâce à un petit loquet secret situé au fond du fourreau. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 25 pour repérer le compartiment secret ou un test de Perception DD 20 si le personnage peut comparer la longueur de l'épée avec celle du fourreau.
+L'espace situé au fond de ce fourreau d'épée est juste assez large pour accueillir une flasque de potion. Sur certains modèles, on y accède depuis l'extérieur, sur d'autres, il s'ouvre de l'intérieur grâce à un petit loquet secret situé au fond du fourreau. Il faut réussir un test de [[Perception]] [[DD]] 25 pour repérer le compartiment secret ou un test de Perception DD 20 si le personnage peut comparer la longueur de l'épée avec celle du fourreau.
 
 
 {s:AE}{s:Reference|Fourreau de poignet}
 #### Fourreau de poignet
-**Prix** 1 po (standard), 5 po (à ressort) ; **Poids** 0,5 kg (standard), 0,5 kg (à ressort)<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 1 po (standard), 5 po (à ressort) ; **Poids** 0,5 kg (standard), 0,5 kg (à ressort)<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Il s'agit d'un fourreau qui se fixe sur l'avant-bras et que l'on peut cacher sous des manches longues. Le fourreau peut accueillir un objet de la longueur de l'avant-bras, comme une [dague](./dague (arme).md), un [fléchette](./fléchette (arme).md) ou une [baguette](./Baguettes magiques.md) ou jusqu'à cinq [flèches](./Flèches (arme).md) ou [carreaux d'arbalète](./Carreaux darbalète (arme).md). Par une [action de mouvement](./Action de mouvement.md), le personnage peut plier le poignet pour faire tomber l'un ou la totalité de ces objets dans sa main (ce qui provoque normalement des [attaques d'opportunité](./AO.md)). Il gagne un bonus de +2 aux tests d'[Escamotage](./Escamotage.md) opposés aux tests de [Perception](./Perception.md) de quelqu'un qui l'examine ou le fouille afin de déterminer s'il a des objets dans son fourreau. Le personnage ne peut porter qu'un seul fourreau de poignet par bras.  
+Il s'agit d'un fourreau qui se fixe sur l'avant-bras et que l'on peut cacher sous des manches longues. Le fourreau peut accueillir un objet de la longueur de l'avant-bras, comme une [[dague (arme)|dague]], un [[fléchette (arme)|fléchette]] ou une [[Baguettes magiques|baguette]] ou jusqu'à cinq [[flèches (arme)|flèches]] ou [[carreaux darbalète (arme)|carreaux d'arbalète]]. Par une [[action de mouvement]], le personnage peut plier le poignet pour faire tomber l'un ou la totalité de ces objets dans sa main (ce qui provoque normalement des [[AO|attaques d'opportunité]]). Il gagne un bonus de +2 aux tests d'[[Escamotage]] opposés aux tests de [[Perception]] de quelqu'un qui l'examine ou le fouille afin de déterminer s'il a des objets dans son fourreau. Le personnage ne peut porter qu'un seul fourreau de poignet par bras.  
   
-{s:cs}{s:AA}*Fourreau de poignet à ressort*. Cet objet fonctionne comme un fourreau de poignet standard, mais relâcher l’objet contenu est une [action rapide](./Action rapide.md). Préparer le fourreau à cette utilisation nécessite de remettre ses petits engrenages et ressorts en place (une [action complexe](./Action complexe.md) qui provoque des [attaques d’opportunité](./AO.md)).
+{s:cs}{s:AA}*Fourreau de poignet à ressort*. Cet objet fonctionne comme un fourreau de poignet standard, mais relâcher l’objet contenu est une [[action rapide]]. Préparer le fourreau à cette utilisation nécessite de remettre ses petits engrenages et ressorts en place (une [[action complexe]] qui provoque des [[AO|attaques d’opportunité]]).
 
 
 {s:AE}{s:Reference|Fourreau empoisonné}
 #### Fourreau empoisonné
-**Prix** 50 po ; **Poids** 0,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 50 po ; **Poids** 0,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-L'intérieur de ce fourreau se compose de bandes d'éponges de mer naturelles. En versant prudemment une dose de [poison](./Poisons.md) dans le fourreau vide (une [action complexe](./Action complexe.md)), le personnage sature les éponges avec la toxine qui reste efficace et humide pendant un maximum de 4 heures. Le personnage court les risques d'empoisonnement habituel quand il prépare le fourreau, exactement comme lorsqu'il empoisonne une arme. La prochaine arme que le personnage dégainera de son fourreau sera automatiquement empoisonnée, comme s'il avait directement appliqué le poison dessus (mais il ne risque pas de s'empoisonner en dégainant). Ceci consomme le poison du fourreau. Un fourreau ne peut accueillir qu'un seul type de lame, que ce soit une [dague](./dague (arme).md), une [épée courte](./épée courte (arme).md) ou une [épée longue](./épée longue (arme).md). En général, ce genre d'objet est illégal dans les régions où le poison n'est pas autorisé.
+L'intérieur de ce fourreau se compose de bandes d'éponges de mer naturelles. En versant prudemment une dose de [[Poisons|poison]] dans le fourreau vide (une [[action complexe]]), le personnage sature les éponges avec la toxine qui reste efficace et humide pendant un maximum de 4 heures. Le personnage court les risques d'empoisonnement habituel quand il prépare le fourreau, exactement comme lorsqu'il empoisonne une arme. La prochaine arme que le personnage dégainera de son fourreau sera automatiquement empoisonnée, comme s'il avait directement appliqué le poison dessus (mais il ne risque pas de s'empoisonner en dégainant). Ceci consomme le poison du fourreau. Un fourreau ne peut accueillir qu'un seul type de lame, que ce soit une [[dague (arme)|dague]], une [[épée courte (arme)|épée courte]] ou une [[épée longue (arme)|épée longue]]. En général, ce genre d'objet est illégal dans les régions où le poison n'est pas autorisé.
 
 
 {s:AE}{s:Reference|Gaufrier}
 #### Gaufrier
 **Prix** 1 po (standard), 2.501 po (en mithral) ; **Poids** 2,5 kg (standard), 1,25 kg (en mithral)
 ---
-Ces deux plaques en métal articulées sont ornées de clous afin de donner plus de texture aux pâtisseries que le personnage fait avec. Le personnage verse la pâte sur les plaques, les referme et les place sur un feu ou un [réchaud](./Réchaud (objet).md) pour la faire cuire. Les plaques de certains gaufriers marquent les gaufres d'armoiries de nobles, d'un symbole religieux ou d'un drapeau national.   
+Ces deux plaques en métal articulées sont ornées de clous afin de donner plus de texture aux pâtisseries que le personnage fait avec. Le personnage verse la pâte sur les plaques, les referme et les place sur un feu ou un [[Réchaud (objet)|réchaud]] pour la faire cuire. Les plaques de certains gaufriers marquent les gaufres d'armoiries de nobles, d'un symbole religieux ou d'un drapeau national.   
   
 *Gaufrier en mithral.* Les gaufriers en mithral ont presque toujours un insigne spécifique plutôt que le motif générique des gaufres. Comme pour les autres équipements de cuisine en mithral, ils attachent rarement à la cuisson.
 
@@ -1367,42 +1367,42 @@ Ces deux plaques en métal articulées sont ornées de clous afin de donner plus
 #### Gemme de chair
 **Prix** 1 po (décorative), 50 po (pointes) ; **Poids** — (décorative), 2,5 kg (pointes)
 ---
-Une aventurière [oréade](./Oréade (race).md) découvrit ces petites gemmes vertes quand, après avoir été blessée en tombant sur des pierres déchiquetées alors qu'elle explorait une grotte, elle remarqua que de jolis morceaux de cristal verts poussaient sur sa peau. Les bijoutiers oréades ont découvert que ces cristaux, appelés gemmes de chair, semblaient se nourrir de l'énergie élémentaire qui imprègne la chair des oréades. Ils se développent et passent de l'état de tout petits éclats de pierre à celui de grosses gemmes ouvragées. Le fait d'implanter des gemmes de chair, opération tout à fait inoffensive, devint alors une méthode raciale unique, parmi les oréades, d'altérer son corps, comme les autres humanoïdes se font des tatouages et des piercings. Les gemmes de chair décoratives coûtent 1 po et sont simplement ornementales. Les gemmes de chair en pointe, quant à elles, se développent pour former des éclats cristallins compliqués qui fonctionnent comme des [pointes d'armure](./armure à pointes (arme).md), mais les oréades qui les portent ne peuvent pas mettre d'armure par-dessus les pointes, et même les vêtements normaux doivent être spécialement troués ou cousus pour leur permettre de passer. L'implantation d'un ensemble de gemmes de chair en pointe prend 10 minutes, et il faut environ 1 semaine pour que les éclats qui poussent atteignent leur taille maximale. Il faut 1 minute pour retirer une gemme de chair ; la personne qui la retire doit réussir un test de [Premiers secours](./Premiers secours.md) [DD](./DD.md) 15 pour éviter d'infliger 1d4 points de dégâts à l'oréade. Les gemmes de chair en pointe peuvent être brisées ou détruites comme les objets que l'on porte ([solidité](./solidité.md) 1, 5 pv), mais, à moins de retirer la racine de la gemme de chair, les éclats repoussent en 1 semaine.
+Une aventurière [[Oréade (race)|oréade]] découvrit ces petites gemmes vertes quand, après avoir été blessée en tombant sur des pierres déchiquetées alors qu'elle explorait une grotte, elle remarqua que de jolis morceaux de cristal verts poussaient sur sa peau. Les bijoutiers oréades ont découvert que ces cristaux, appelés gemmes de chair, semblaient se nourrir de l'énergie élémentaire qui imprègne la chair des oréades. Ils se développent et passent de l'état de tout petits éclats de pierre à celui de grosses gemmes ouvragées. Le fait d'implanter des gemmes de chair, opération tout à fait inoffensive, devint alors une méthode raciale unique, parmi les oréades, d'altérer son corps, comme les autres humanoïdes se font des tatouages et des piercings. Les gemmes de chair décoratives coûtent 1 po et sont simplement ornementales. Les gemmes de chair en pointe, quant à elles, se développent pour former des éclats cristallins compliqués qui fonctionnent comme des [[armure à pointes (arme)|pointes d'armure]], mais les oréades qui les portent ne peuvent pas mettre d'armure par-dessus les pointes, et même les vêtements normaux doivent être spécialement troués ou cousus pour leur permettre de passer. L'implantation d'un ensemble de gemmes de chair en pointe prend 10 minutes, et il faut environ 1 semaine pour que les éclats qui poussent atteignent leur taille maximale. Il faut 1 minute pour retirer une gemme de chair ; la personne qui la retire doit réussir un test de [[Premiers secours]] [[DD]] 15 pour éviter d'infliger 1d4 points de dégâts à l'oréade. Les gemmes de chair en pointe peuvent être brisées ou détruites comme les objets que l'on porte ([[solidité]] 1, 5 pv), mais, à moins de retirer la racine de la gemme de chair, les éclats repoussent en 1 semaine.
 
 
 {s:AE}{s:Reference|Gourde}
 #### Gourde
 **Prix** 2 po ; **Poids** 0,5 kg
 ---
-Ce contenant creux est fabriqué en bois, creusé dans une calebasse ou fait de métal. Il permet de transporter les liquides comme une [outre](./Outre (objet).md) mais il résiste mieux aux perforations et aux coupures.
+Ce contenant creux est fabriqué en bois, creusé dans une calebasse ou fait de métal. Il permet de transporter les liquides comme une [[Outre (objet)|outre]] mais il résiste mieux aux perforations et aux coupures.
 
 
 {s:cs}{s:UI}{s:Reference|Graines sentinelles}
 #### Graines sentinelles
 **Prix** 7 po ; **Poids** 0,25 kg
 ---
-Les graines sentinelles sont de petites perles en verre ovoïdes et creuses dont un côté est plat. Une sacoche spécialement conçue, contenant assez de graines pour couvrir huit cases de 1,5 m de côté, permet à l'utilisateur de répartir équitablement ces graines sur n'importe quelle surface dure, plate et majoritairement plane. Lorsqu'on marche dessus, les perles de verre se brise avec un bruit sec et audible ([Perception](./Perception.md) [DD](./DD.md) 10), avertissant de la présence d'intrus potentiels. Bien qu'elles soient faciles à remarquer en pleine lumière (Perception DD 10), les graines sentinelles sont plus difficiles à voir dans la pénombre et les ténèbres (Perception DD 20).
+Les graines sentinelles sont de petites perles en verre ovoïdes et creuses dont un côté est plat. Une sacoche spécialement conçue, contenant assez de graines pour couvrir huit cases de 1,5 m de côté, permet à l'utilisateur de répartir équitablement ces graines sur n'importe quelle surface dure, plate et majoritairement plane. Lorsqu'on marche dessus, les perles de verre se brise avec un bruit sec et audible ([[Perception]] [[DD]] 10), avertissant de la présence d'intrus potentiels. Bien qu'elles soient faciles à remarquer en pleine lumière (Perception DD 10), les graines sentinelles sont plus difficiles à voir dans la pénombre et les ténèbres (Perception DD 20).
 
 
 {s:AE}{s:Reference|Grappin}
 #### Grappin
 **Prix** 1 po (standard), 2.001 po (en mithral) ; **Poids** 2 kg (standard), 1 kg (en mithral)
 ---
-Il faut faire un [jet d'attaque](./jet dattaque.md) à distance pour lancer un grappin, en traitant le crochet comme une arme de jet ayant un [facteur de portée](./facteur de portée.md) de 3 mètres. Les objets avec une surface assez grande pour réceptionner le grappin ont une [CA](./CA.md) de 5.
+Il faut faire un [[jet dattaque|jet d'attaque]] à distance pour lancer un grappin, en traitant le crochet comme une arme de jet ayant un [[facteur de portée]] de 3 mètres. Les objets avec une surface assez grande pour réceptionner le grappin ont une [[CA]] de 5.
 
 
 {s:racial|Homme-félin (race)|h-félins|Illustrations/PNJ/Homme-félin.jpg}{s:MR}{s:Reference|Griffes métalliques}
 #### Griffes métalliques
 **Prix** 305 po ; **Poids** 1 kg
 ---
-Ces lames subtiles ne peuvent être utilisées que par les [hommes-félins](./homme-félin (race).md) ayant le trait racial griffes du félin. Achetées par lots de cinq, elles s'adaptent aux griffes du porteur sur une main. Les lames accordent un bonus d'altération de +1 aux [jets d'attaque](./jet dattaque.md) de griffe que le porteur effectue de cette main et modifient le type d'arme : d'arme naturelle, elle devient une [arme légère](./arme légère.md) tranchante. Les hommes-félins ayant le trait racial griffes du félin sont formés au maniement de cette arme. Il est possible d'améliorer les griffes métalliques comme une [arme de maître](./arme de maître.md) au prix normal. Le coût indiqué pour l'objet s'applique à un ensemble de cinq lames pour une main.
+Ces lames subtiles ne peuvent être utilisées que par les [[Homme-félin (race)|hommes-félins]] ayant le trait racial griffes du félin. Achetées par lots de cinq, elles s'adaptent aux griffes du porteur sur une main. Les lames accordent un bonus d'altération de +1 aux [[jet dattaque|jets d'attaque]] de griffe que le porteur effectue de cette main et modifient le type d'arme : d'arme naturelle, elle devient une [[arme légère]] tranchante. Les hommes-félins ayant le trait racial griffes du félin sont formés au maniement de cette arme. Il est possible d'améliorer les griffes métalliques comme une [[arme de maître]] au prix normal. Le coût indiqué pour l'objet s'applique à un ensemble de cinq lames pour une main.
 
 
 {s:AE}{s:Reference|Hamac}
 #### Hamac
-**Prix** 1 pa ; **Poids** 1,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 1 pa ; **Poids** 1,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Cette couverture ou filet est pourvu(e) de cordes solides permettant au personnage de l'accrocher à une grosse branche ou entre deux arbres pour dormir au-dessus du sol. Il faut une [action complexe](./Action complexe.md) pou rentrer ou sortir d'un hamac. Un jet de [Dextérité](./Dextérité.md) de [DD](./DD.md) 5 permet de réduire ce temps à une [action de mouvement](./Action de mouvement.md).
+Cette couverture ou filet est pourvu(e) de cordes solides permettant au personnage de l'accrocher à une grosse branche ou entre deux arbres pour dormir au-dessus du sol. Il faut une [[action complexe]] pou rentrer ou sortir d'un hamac. Un jet de [[Dextérité]] de [[DD]] 5 permet de réduire ce temps à une [[action de mouvement]].
 
 
 {s:AE}{s:Reference|Hameçon}
@@ -1416,15 +1416,15 @@ Ce petit crochet en métal n'est rien de plus qu'une aiguille rigide et recourb�
 #### Huile
 **Prix** 1 pa ; **Poids** 0,5 kg
 ---
-Une flasque de 0,5 litre d'huile permet de faire brûler une [lanterne](./Lanterne à capote (objet).md) ou une [lampe](./Lampe (objet).md) pendant 6 heures. Le personnage peut également utiliser la flasque d'huile comme une [arme à aspersion](./arme à aspersion.md), à la seule différence qu'il faut une [action complexe](./Action complexe.md) pour la doter d'une mèche. Une fois la flasque lancée, il y a 50% de chances qu'elle s'enflamme correctement. Le personnage peut déverser la pinte d'huile sur le sol pour couvrir une zone de 1,50 mètre de côté, à condition que la surface soit lisse. Lorsqu'elle est enflammée, l'huile brûle pendant 2 [rounds](./round.md) et inflige 1d3 points de dégâts de feu à toutes les créatures situées dans la zone.
+Une flasque de 0,5 litre d'huile permet de faire brûler une [[Lanterne à capote (objet)|lanterne]] ou une [[Lampe (objet)|lampe]] pendant 6 heures. Le personnage peut également utiliser la flasque d'huile comme une [[arme à aspersion]], à la seule différence qu'il faut une [[action complexe]] pour la doter d'une mèche. Une fois la flasque lancée, il y a 50% de chances qu'elle s'enflamme correctement. Le personnage peut déverser la pinte d'huile sur le sol pour couvrir une zone de 1,50 mètre de côté, à condition que la surface soit lisse. Lorsqu'elle est enflammée, l'huile brûle pendant 2 [[round|rounds]] et inflige 1d3 points de dégâts de feu à toutes les créatures situées dans la zone.
 
 
 {s:PMI}{s:Reference|Jambe de bois}
 #### Jambe de bois
-**Prix** 10 po ; **Poids** 2,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 10 po ; **Poids** 2,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Une jambe de bois est un pilon de bois doté d'une cavité à une extrémité pour y placer le genou d'un individu. Les pirates qui perdent leur jambe portent souvent une jambe de bois. Elle réduit la vitesse de base de son porteur de 1,50 mètre et impose un malus de -4 aux tests d'[Acrobaties](./Acrobaties.md), d'[Escalade](./Escalade.md) et de [Natation](./Natation.md). Le personnage ne subit que la moitié des dégâts infligés par des [chausse-trappes](./Chausse-trappes (objet).md). Les pirates creusent souvent des compartiments secrets dans leur jambe de bois. Ceux-ci peuvent contenir des petits objets d'un poids de 500 grammes à 1 kilo (ou une topette de rhum). Si le personnage porte deux jambes de bois, sa vitesse de base est réduite de moitié et il subit un malus de -10 aux tests d'Acrobaties, d'Escalade et de Natation, mais il est immunisé aux dégâts infligés par les chausse-trappes.  
-Dans le cas des jambes de bois, on part du principe que la jointure du genou est intacte. Dans le cas contraire, utilisez à la place les statistiques de la [prothèse](./Prothèse (objet).md).
+Une jambe de bois est un pilon de bois doté d'une cavité à une extrémité pour y placer le genou d'un individu. Les pirates qui perdent leur jambe portent souvent une jambe de bois. Elle réduit la vitesse de base de son porteur de 1,50 mètre et impose un malus de -4 aux tests d'[[Acrobaties]], d'[[Escalade]] et de [[Natation]]. Le personnage ne subit que la moitié des dégâts infligés par des [[Chausse-trappes (objet)|chausse-trappes]]. Les pirates creusent souvent des compartiments secrets dans leur jambe de bois. Ceux-ci peuvent contenir des petits objets d'un poids de 500 grammes à 1 kilo (ou une topette de rhum). Si le personnage porte deux jambes de bois, sa vitesse de base est réduite de moitié et il subit un malus de -10 aux tests d'Acrobaties, d'Escalade et de Natation, mais il est immunisé aux dégâts infligés par les chausse-trappes.  
+Dans le cas des jambes de bois, on part du principe que la jointure du genou est intacte. Dans le cas contraire, utilisez à la place les statistiques de la [[Prothèse (objet)|prothèse]].
 
 
 {s:AE}{s:Reference|Jarre}
@@ -1452,61 +1452,61 @@ Ce nécessaire comprend une assiette, un bol, une tasse, une fourchette, un cout
 #### Lampe
 **Prix** 1 pa ; **Poids** 0,5 kg
 ---
-Une lampe ordinaire éclaire une petite zone, diffusant une [lumière normale](./Exploration.md#VISIONLUMIERE) dans un rayon de 4,50 mètres et augmentant la luminosité d'une catégorie dans un rayon de 4,50 mètres au-delà de cette zone (les ténèbres sont transformées en faible lumière et la faible lumière est transformée en lumière normale). Une lampe n'augmente pas la luminosité dans les zones de lumière normale ou vive. Elle brûle pendant 6 heures avec 0,5 litre d'[huile](./Huile (objet).md). Le personnage peut la tenir dans une main.
+Une lampe ordinaire éclaire une petite zone, diffusant une [[Exploration#VISIONLUMIERE|lumière normale]] dans un rayon de 4,50 mètres et augmentant la luminosité d'une catégorie dans un rayon de 4,50 mètres au-delà de cette zone (les ténèbres sont transformées en faible lumière et la faible lumière est transformée en lumière normale). Une lampe n'augmente pas la luminosité dans les zones de lumière normale ou vive. Elle brûle pendant 6 heures avec 0,5 litre d'[[Huile (objet)|huile]]. Le personnage peut la tenir dans une main.
 
 
 {s:cs}{s:AA}{s:Reference|Lance-javelot}
 #### Lance-javelot
 **Prix** 1 po ; **Poids** 0,5 kg
 ---
-Un lance-javelot consiste en une poignée avec un récipient, une anse ou un éperon pour tenir l’arrière d’une [fléchette](./fléchette (arme).md), d’une [javeline](./javeline (arme).md) ou d’un [épieu](./épieu (arme).md). Utiliser un lance-javelot pour projeter une telle arme double son [facteur de portée](./facteur de portée.md). Placer une arme dans un lance-javelot est une [action de mouvement](./Action de mouvement.md), et en prenant le don [Rechargement rapide](./Rechargement rapide.md) (lance-javelot), ce temps peut être réduit à une [action libre](./Action libre.md).
+Un lance-javelot consiste en une poignée avec un récipient, une anse ou un éperon pour tenir l’arrière d’une [[fléchette (arme)|fléchette]], d’une [[javeline (arme)|javeline]] ou d’un [[épieu (arme)|épieu]]. Utiliser un lance-javelot pour projeter une telle arme double son [[facteur de portée]]. Placer une arme dans un lance-javelot est une [[action de mouvement]], et en prenant le don [[Rechargement rapide]] (lance-javelot), ce temps peut être réduit à une [[action libre]].
 
 
 {s:AE}{s:Reference|Lanterne à bougie}
 #### Lanterne à bougie
 **Prix** 5 po ; **Poids** 0,5 kg
 ---
-Une lanterne à bougie est un petit objet semblable à une lanterne, avec des panneaux en verre et un emplacement destiné à accueillir une [bougie](./Bougie (objet).md). Elle protège la bougie contre les courants d'air et récupère les gouttes de cire. Elle offre la même lumière qu'une bougie mais on peut la couvrir de façon à ce qu'elle n'éclaire que de 1 à 3 cases adjacentes. Le personnage peut utiliser une lanterne à bougie pour se réchauffer les mains.
+Une lanterne à bougie est un petit objet semblable à une lanterne, avec des panneaux en verre et un emplacement destiné à accueillir une [[Bougie (objet)|bougie]]. Elle protège la bougie contre les courants d'air et récupère les gouttes de cire. Elle offre la même lumière qu'une bougie mais on peut la couvrir de façon à ce qu'elle n'éclaire que de 1 à 3 cases adjacentes. Le personnage peut utiliser une lanterne à bougie pour se réchauffer les mains.
 
 
 {s:AE}{s:Reference|Lanterne à capote}
 #### Lanterne à capote
 **Prix** 7 po ; **Poids** 1 kg
 ---
-Une lanterne à capote diffuse une [lumière normale](./Exploration.md#VISIONLUMIERE) dans un rayon de 9 mètres et augmente la luminosité d'une catégorie dans un rayon de 9 mètres au-delà de cette zone (les ténèbres sont transformées en faible lumière et la faible lumière est transformée en lumière normale). La lanterne à capote n'augmente pas la luminosité dans la lumière normale ou vive. Elle brûle pendant 6 heures avec 0,5 litre d'[huile](./Huile (objet).md). Le personnage peut la tenir dans une main.
+Une lanterne à capote diffuse une [[Exploration#VISIONLUMIERE|lumière normale]] dans un rayon de 9 mètres et augmente la luminosité d'une catégorie dans un rayon de 9 mètres au-delà de cette zone (les ténèbres sont transformées en faible lumière et la faible lumière est transformée en lumière normale). La lanterne à capote n'augmente pas la luminosité dans la lumière normale ou vive. Elle brûle pendant 6 heures avec 0,5 litre d'[[Huile (objet)|huile]]. Le personnage peut la tenir dans une main.
 
 
 {s:RSE}{s:Reference|Lanterne de mineur}
 #### Lanterne de mineur
 **Prix** 15 po ; **Poids** 1 kg
 ---
-Plus petite que la [lanterne à capote](./Lanterne à capote (objet).md), la lanterne de mineur [éclaire normalement](./Exploration.md#VISIONLUMIERE) un cône de neuf mètres et augmente la luminosité ambiante d'un degré au-delà de cette zone dans un cône de dix-huit mètres (les ténèbres se transforment en faible lumière et une faible lumière en lumière normale). La lanterne de mineur n'augmente pas la luminosité d'une zone de lumière vive ou normale. Elle brûle le contenu de son réservoir d'un demi-litre en six heures. Elle est doté de lanières pour l'attacher à un casque ou un couvre-chef solide mais on peut également la tenir à la main.
+Plus petite que la [[Lanterne à capote (objet)|lanterne à capote]], la lanterne de mineur [[Exploration#VISIONLUMIERE|éclaire normalement]] un cône de neuf mètres et augmente la luminosité ambiante d'un degré au-delà de cette zone dans un cône de dix-huit mètres (les ténèbres se transforment en faible lumière et une faible lumière en lumière normale). La lanterne de mineur n'augmente pas la luminosité d'une zone de lumière vive ou normale. Elle brûle le contenu de son réservoir d'un demi-litre en six heures. Elle est doté de lanières pour l'attacher à un casque ou un couvre-chef solide mais on peut également la tenir à la main.
 
 
 {s:AE}{s:Reference|Lanterne étanche}
 #### Lanterne étanche
 **Prix** +5 po ; **Poids** —
 ---
-Cette lanterne prévue pour protéger la flamme contre l'eau et le vent traite les [vents violents](./Vents.md) comme des vents importants, les tempêtes comme des vents violents et les ouragans comme des tempêtes quand il s'agit de déterminer si la flamme s'éteint ou non. Elle contient suffisamment d'air pour brûler sous l'eau pendant 5 [rounds](./round.md) avant de s'éteindre.
+Cette lanterne prévue pour protéger la flamme contre l'eau et le vent traite les [[Vents|vents violents]] comme des vents importants, les tempêtes comme des vents violents et les ouragans comme des tempêtes quand il s'agit de déterminer si la flamme s'éteint ou non. Elle contient suffisamment d'air pour brûler sous l'eau pendant 5 [[round|rounds]] avant de s'éteindre.
 
 
 {s:AE}{s:Reference|Lanterne sourde}
 #### Lanterne sourde
 **Prix** 12 po ; **Poids** 1,5 kg
 ---
-Une lanterne sourde génère un cône de [lumière normale](./Exploration.md#VISIONLUMIERE) de 18 mètres de long et augmente la luminosité d'une catégorie dans un cône de 36 mètres de long au maximum au-delà de cette zone (les ténèbres sont transformées en faible lumière et la faible lumière est transformée en lumière normale). La lanterne sourde n'augmente pas la luminosité de la lumière normale ou vive. Elle brûle pendant 6 heures avec 0,5 litre d'[huile](./Huile (objet).md). Le personnage peut la tenir d'une main.
+Une lanterne sourde génère un cône de [[Exploration#VISIONLUMIERE|lumière normale]] de 18 mètres de long et augmente la luminosité d'une catégorie dans un cône de 36 mètres de long au maximum au-delà de cette zone (les ténèbres sont transformées en faible lumière et la faible lumière est transformée en lumière normale). La lanterne sourde n'augmente pas la luminosité de la lumière normale ou vive. Elle brûle pendant 6 heures avec 0,5 litre d'[[Huile (objet)|huile]]. Le personnage peut la tenir d'une main.
 
 
 {s:CCMI}{s:Reference|Larmes du Dieu vivant}
 #### Larmes du Dieu vivant
 **Prix** 25 po ; **Poids** —
 ---
-Les fidèles du [Dieu vivant](./../Golarion/Razmir.md) disposent d'un certain nombre d'outils pour contrôler la population locale, mais aucun n'est plus insidieux que les larmes du Dieu vivant. Cette décoction contient bon nombre de narcotiques doux et de substances hallucinogènes qui augmentent l'énergie du buveur et renforce sa résistance à la douleur. Elle provoque une [forte dépendance](./Drogues.md#DÉPENDANCE). Bien que le clergé offre des larmes du Dieu vivant aux personnes qui ne sont pas encore dépendantes, il finit toujours par exiger un paiement et demande jusqu'à 10 po la dose aux drogués les plus riches.  
+Les fidèles du [[Golarion.Razmir|Dieu vivant]] disposent d'un certain nombre d'outils pour contrôler la population locale, mais aucun n'est plus insidieux que les larmes du Dieu vivant. Cette décoction contient bon nombre de narcotiques doux et de substances hallucinogènes qui augmentent l'énergie du buveur et renforce sa résistance à la douleur. Elle provoque une [[Drogues#DÉPENDANCE|forte dépendance]]. Bien que le clergé offre des larmes du Dieu vivant aux personnes qui ne sont pas encore dépendantes, il finit toujours par exiger un paiement et demande jusqu'à 10 po la dose aux drogués les plus riches.  
 <div class="BD">  
 {s:BDTitre|Larmes du Dieu vivant}
-- **Type** ingestion ; **Dépendance** sévère, **[Vigueur](./Vigueur.md)** [DD](./DD.md) 18
-- **Effet** 1 heure ; bonus alchimique de +1 à la [Constitution](./Constitution.md), malus de -2 aux tests de compétence basés sur la [Sagesse](./Sagesse.md)
-- **Dégâts** 1d2 points d'[affaiblissement temporaire](./affaiblissement temporaire.md) de [Constitution](./Constitution.md)  
+- **Type** ingestion ; **Dépendance** sévère, **[[Vigueur]]** [[DD]] 18
+- **Effet** 1 heure ; bonus alchimique de +1 à la [[Constitution]], malus de -2 aux tests de compétence basés sur la [[Sagesse]]
+- **Dégâts** 1d2 points d'[[affaiblissement temporaire]] de [[Constitution]]  
   
 </div>
 
@@ -1515,12 +1515,12 @@ Les fidèles du [Dieu vivant](./../Golarion/Razmir.md) disposent d'un certain no
 #### Lime à croc
 **Prix** 3 po ; **Poids** 1 kg
 ---
-Cette lime métallique étroite est utilisée par les [gobelins](./Gobelin (race).md) pour aiguiser leurs dents. L'embout de la lime se termine en pointe au cas où l'entretien des dents serait brusquement interrompu par des ennemis ; elle peut alors être manipulée comme une [dague coup-de-poing](./dague coup-de-poing (arme).md).
+Cette lime métallique étroite est utilisée par les [[Gobelin (race)|gobelins]] pour aiguiser leurs dents. L'embout de la lime se termine en pointe au cas où l'entretien des dents serait brusquement interrompu par des ennemis ; elle peut alors être manipulée comme une [[dague coup-de-poing (arme)|dague coup-de-poing]].
 
 
 {s:AE}{s:Reference|Lit de camp}
 #### Lit de camp
-**Prix** 1 po ; **Poids** 15 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 1 po ; **Poids** 15 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
 Ce lit de camp surélevé est fait de bois et de tissu. Il est particulièrement utile quand le sol est humide ou rocailleux. Il est assez grand pour accueillir un humain adulte mais se replie en un sac cylindrique de 1,20 mètre sur 23 centimètres.
 
@@ -1529,56 +1529,56 @@ Ce lit de camp surélevé est fait de bois et de tissu. Il est particulièrement
 #### Livre creux
 **Prix** 15 po ; **Poids** 1,5 kg
 ---
-Pour un œil non-averti, un livre creux semble être un ouvrage normal. Cependant, il est conçu pour contenir un objet caché dans ses pages. Un type de livre creux possède simplement une cavité découpée dans les pages intérieures qui peut contenir une petite pochette ou un objet similaire. En retournant la couverture de ce type de livre, on découvre instantanément sa véritable nature. Un autre type de livre a une cavité beaucoup plus fine découpée dans sa couverture exceptionnellement épaisse. La cavité est dissimulée par la page de garde du livre, qui est fixée à l'intérieur de la couverture par un adhésif doux et qui peut être décollée puis refermée à plusieurs reprises. Un petit dossier de documents pliés peut être soigneusement caché à l'intérieur de la cavité, et réussir un test de [Perception](./Perception.md) [DD](./DD.md) 20 est nécessaire pour remarquer cette dernière.
+Pour un œil non-averti, un livre creux semble être un ouvrage normal. Cependant, il est conçu pour contenir un objet caché dans ses pages. Un type de livre creux possède simplement une cavité découpée dans les pages intérieures qui peut contenir une petite pochette ou un objet similaire. En retournant la couverture de ce type de livre, on découvre instantanément sa véritable nature. Un autre type de livre a une cavité beaucoup plus fine découpée dans sa couverture exceptionnellement épaisse. La cavité est dissimulée par la page de garde du livre, qui est fixée à l'intérieur de la couverture par un adhésif doux et qui peut être décollée puis refermée à plusieurs reprises. Un petit dossier de documents pliés peut être soigneusement caché à l'intérieur de la cavité, et réussir un test de [[Perception]] [[DD]] 20 est nécessaire pour remarquer cette dernière.
 
 
 {s:AE}{s:Reference|Livre généalogique}
 #### Livre généalogique
 **Prix** 50 po ; **Poids** 1 kg
 ---
-Ce recueil comprend des arbres généalogiques, des descriptions des traits communs que l'on trouve dans certaines familles nobles, des blasons, des rumeurs calomnieuses et des exploits ancestraux. Il donne aux lecteurs une vision très claire de l'aristocratie et un bonus de circonstances de +2 aux tests de [Connaissances](./Connaissances.md) (noblesse).
+Ce recueil comprend des arbres généalogiques, des descriptions des traits communs que l'on trouve dans certaines familles nobles, des blasons, des rumeurs calomnieuses et des exploits ancestraux. Il donne aux lecteurs une vision très claire de l'aristocratie et un bonus de circonstances de +2 aux tests de [[Connaissances]] (noblesse).
 
 
 {s:AE}{s:Reference|Livres-codes}
 #### Livres-codes
 **Prix** 150 po ; **Poids** 1 kg
 ---
-Chaque page de ces livres, toujours vendus par paires identiques, contient une grille numérotée qui catalogue des mots aléatoires. Ainsi, l'utilisateur peut écrire des messages en substituant les lettres et les nombres qui indiquent la page, la ligne et la colonne d'un mot particulier du livre-code. Une créature qui n'a pas accès au livre-code approprié reçoit un malus de -10 à ses tests de [Linguistique](./Linguistique.md) pour déchiffrer chacune des pages d'un message codé. Il faut dix fois plus de temps pour écrire un message à l'aide du code qu'il n'en faut pour écrire un message non-codé et il faut autant de temps pour décoder ce message à l'aide du livre-code qu'il en faut pour écrire le message codé original.
+Chaque page de ces livres, toujours vendus par paires identiques, contient une grille numérotée qui catalogue des mots aléatoires. Ainsi, l'utilisateur peut écrire des messages en substituant les lettres et les nombres qui indiquent la page, la ligne et la colonne d'un mot particulier du livre-code. Une créature qui n'a pas accès au livre-code approprié reçoit un malus de -10 à ses tests de [[Linguistique]] pour déchiffrer chacune des pages d'un message codé. Il faut dix fois plus de temps pour écrire un message à l'aide du code qu'il n'en faut pour écrire un message non-codé et il faut autant de temps pour décoder ce message à l'aide du livre-code qu'il en faut pour écrire le message codé original.
 
 
 {s:AE}{s:Reference|Longue vue}
 #### Longue vue
 **Prix** 1.000 po ; **Poids** 0,5 kg
 ---
-Une longue vue permet d'observer les objets avec un grossissement de deux fois leur taille. Les personnages utilisant une longue vue reçoivent un malus de -1 à leurs tests de [Perception](./Perception.md) par tranche de 6 mètres de distance jusqu'à la cible, si celle-ci est visible.
+Une longue vue permet d'observer les objets avec un grossissement de deux fois leur taille. Les personnages utilisant une longue vue reçoivent un malus de -1 à leurs tests de [[Perception]] par tranche de 6 mètres de distance jusqu'à la cible, si celle-ci est visible.
 
 
 {s:AE}{s:Reference|Loupe}
 #### Loupe
 **Prix** 100 po ; **Poids** —
 ---
-Cette simple lentille permet de regarder les petits objets de plus près. Elle peut également servir de substitut à l'[amorce et au silex](./Silex et amorce (objet).md) pour allumer des feux. Pour allumer un feu avec une loupe, il faut concentrer une lumière vive, comme celle du soleil, sur du petit bois à enflammer. Cela demande au moins une [action complexe](./Action complexe.md). Une loupe accorde un bonus de circonstances de +2 aux tests d'[Estimation](./Estimation.md) pour tout objet de taille P ou grandement détaillé.
+Cette simple lentille permet de regarder les petits objets de plus près. Elle peut également servir de substitut à l'[[Silex et amorce (objet)|amorce et au silex]] pour allumer des feux. Pour allumer un feu avec une loupe, il faut concentrer une lumière vive, comme celle du soleil, sur du petit bois à enflammer. Cela demande au moins une [[action complexe]]. Une loupe accorde un bonus de circonstances de +2 aux tests d'[[Estimation]] pour tout objet de taille P ou grandement détaillé.
 
 
 {s:AO}{s:Reference|Lunettes de lecture des auras}
 #### Lunettes de lecture des auras
 **Prix** 15 po ; **Poids** 0,5 kg
 ---
-Ces grosses lunettes aux armatures de cuir sont dotées de verres sombres teintés en violet et enduits d'une substance alchimique spéciale qui permet de percevoir des spectres psychiques particuliers. Il faut porter ces lunettes pendant une heure entière avant de pouvoir bénéficier de leurs avantages. Pendant cette heure, le porteur subit un malus de -2 aux tests de [Perception](./Perception.md) basés sur la vue. Une fois cette heure écoulée, il peut déchausser les lunettes pour bénéficier d'un bonus de circonstances de +2 aux tests de Perception effectués en utilisant l'extension de compétence occulte [lecture des auras](./Extensions de compétences occultes.md#LECTUREDESAURAS). Cet avantage disparaît au bout d'une heure.
+Ces grosses lunettes aux armatures de cuir sont dotées de verres sombres teintés en violet et enduits d'une substance alchimique spéciale qui permet de percevoir des spectres psychiques particuliers. Il faut porter ces lunettes pendant une heure entière avant de pouvoir bénéficier de leurs avantages. Pendant cette heure, le porteur subit un malus de -2 aux tests de [[Perception]] basés sur la vue. Une fois cette heure écoulée, il peut déchausser les lunettes pour bénéficier d'un bonus de circonstances de +2 aux tests de Perception effectués en utilisant l'extension de compétence occulte [[Extensions de compétences occultes#LECTUREDESAURAS|lecture des auras]]. Cet avantage disparaît au bout d'une heure.
 
 
 {s:AE}{s:Reference|Lunettes fumées}
 #### Lunettes fumées
 **Prix** 10 po ; **Poids** —
 ---
-Ces lunettes ont des verres fumés qui protègent les créatures contre les attaques de regard. Le personnage est toujours considéré comme évitant le regard des créatures lorsqu'il a affaire à des [attaques de regard](./Regard (capacité).md) et il gagne un bonus de circonstances de +8 à ses [jets de sauvegarde](./JDS.md) contre les attaques basées sur la vue (toutes les attaques contre lesquelles une créature [aveugle](./Aveuglé.md) serait immunisée). Le personnage reçoit un malus de -4 à ses tests de [Perception](./Perception.md) lorsqu'il porte ces lunettes et tous ses adversaires sont considérés comme ayant un [camouflage](./camouflage.md) (20% de chances de rater).
+Ces lunettes ont des verres fumés qui protègent les créatures contre les attaques de regard. Le personnage est toujours considéré comme évitant le regard des créatures lorsqu'il a affaire à des [[Regard (capacité)|attaques de regard]] et il gagne un bonus de circonstances de +8 à ses [[jds|jets de sauvegarde]] contre les attaques basées sur la vue (toutes les attaques contre lesquelles une créature [[aveuglé|aveugle]] serait immunisée). Le personnage reçoit un malus de -4 à ses tests de [[Perception]] lorsqu'il porte ces lunettes et tous ses adversaires sont considérés comme ayant un [[camouflage]] (20% de chances de rater).
 
 
 {s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}{s:Reference|Manche darme ondin}
 #### Manche d'arme ondin
 **Prix** +300 po ; **Poids** —
 ---
-Les [ondins](./Ondin (race).md) recourent à une conception unique lorsqu'ils fabriquent des armes à manche comme les [bâtons](./bâton (arme).md), les [lances](./lance (arme).md) et les [tridents](./trident (arme).md). Plutôt que d'intégrer un manche solide, l'arme est construite autour d'un tuyau en bois ou en métal, une de ses extrémités étant scellée et l'autre restant ouverte. Par une [action complexe](./Action complexe.md), l'ondin peut effectuer une attaque de corps à corps avec cette arme et utiliser son pouvoir magique de *[poussée hydraulique](./Poussée hydraulique.md)* contre sa cible. En outre, l'arme fonctionne comme une arme standard de son type et peut se composer de matériaux spéciaux (comme le [mithral](./mithral.md) ou l'[adamantium](./../Golarion/adamantium.md)) et être une [arme de maître](./arme de maître.md).
+Les [[Ondin (race)|ondins]] recourent à une conception unique lorsqu'ils fabriquent des armes à manche comme les [[bâton (arme)|bâtons]], les [[lance (arme)|lances]] et les [[trident (arme)|tridents]]. Plutôt que d'intégrer un manche solide, l'arme est construite autour d'un tuyau en bois ou en métal, une de ses extrémités étant scellée et l'autre restant ouverte. Par une [[action complexe]], l'ondin peut effectuer une attaque de corps à corps avec cette arme et utiliser son pouvoir magique de *[[poussée hydraulique]]* contre sa cible. En outre, l'arme fonctionne comme une arme standard de son type et peut se composer de matériaux spéciaux (comme le [[mithral]] ou l'[[adamantium]]) et être une [[arme de maître]].
 
 
 {s:AE}{s:Reference|Marmite}
@@ -1594,38 +1594,38 @@ Cette solide marmite en fer de 20 centimètres de diamètre est pourvue d'un pie
 #### Marteau
 **Prix** 5 pa ; **Poids** 1 kg
 ---
-Si le personnage utilise un marteau en combat, il le traite comme une [arme improvisée](./arme improvisée.md) à une main infligeant un nombre de dégâts contondants égal à ceux d'un [gantelet clouté](./Gantelet clouté (arme).md) de même taille.
+Si le personnage utilise un marteau en combat, il le traite comme une [[arme improvisée]] à une main infligeant un nombre de dégâts contondants égal à ceux d'un [[gantelet clouté (arme)|gantelet clouté]] de même taille.
 
 
 {s:AE}{s:Reference|Masse}
 #### Masse
 **Prix** 1 po ; **Poids** 5 kg
 ---
-Ce marteau lourd à deux mains est normalement utilisé pour la charpenterie et autres travaux de construction mais il est sert aussi à planter des piquets de tente afin de sécuriser les campements dans les zones où les vents soufflent fort. S'il est utilisé en combat, traitez-le comme un [briseterre](./briseterre (arme).md) [improvisé](./arme improvisée.md).
+Ce marteau lourd à deux mains est normalement utilisé pour la charpenterie et autres travaux de construction mais il est sert aussi à planter des piquets de tente afin de sécuriser les campements dans les zones où les vents soufflent fort. S'il est utilisé en combat, traitez-le comme un [[briseterre (arme)|briseterre]] [[arme improvisée|improvisé]].
 
 
 {s:AO}{s:Reference|Médaillon dhypnotiseur}
 #### Médaillon d'hypnotiseur
 **Prix** 15 po (médaillon), 250 po (montre à gousset) ; **Poids** 0,5 kg (médaillon), 0,5 kg (montre à gousset)
 ---
-Un médaillon d'hypnotiseur est une petite boîte ronde et métallique qui peut contenir un portrait ou un souvenir de petite taille et que l'on peut attacher à la ceinture ou porter en pendentif. Un médaillon d'hypnotiseur accroché au bout d'une chaînette métallique confère un bonus de circonstances de +2 aux tests de [Diplomatie](./Diplomatie.md) effectués en utilisant l'extension de compétence occulte [hypnose](./Extensions de compétences occultes.md#HYPNOSE). Certains médaillons d'hypnotiseur sont des montres à gousset. On les porte de la même façon, elles peuvent également contenir un portrait ou un souvenir, elles confèrent le même bonus aux tentatives d'hypnose mais font également office de montre.
+Un médaillon d'hypnotiseur est une petite boîte ronde et métallique qui peut contenir un portrait ou un souvenir de petite taille et que l'on peut attacher à la ceinture ou porter en pendentif. Un médaillon d'hypnotiseur accroché au bout d'une chaînette métallique confère un bonus de circonstances de +2 aux tests de [[Diplomatie]] effectués en utilisant l'extension de compétence occulte [[Extensions de compétences occultes#HYPNOSE|hypnose]]. Certains médaillons d'hypnotiseur sont des montres à gousset. On les porte de la même façon, elles peuvent également contenir un portrait ou un souvenir, elles confèrent le même bonus aux tentatives d'hypnose mais font également office de montre.
 
 
 {s:AE}{s:Reference|Menottes}
 #### Menottes
 **Prix** 15 po (standard), 50 po (de maître), 1.000 po (en mithral) ; **Poids** 1 kg (standard), 1 kg (de maître), 1 kg (en mithral)
 ---
-Ces menottes permettent d'attacher une créature de taille M. Une créature menottée peut utiliser la compétence [Évasion](./Évasion.md) pour se dégager ([DD](./DD.md) 30 ou DD 35 pour les menottes de maître).Il faut réussir un test de [Force](./Force.md) pour briser les menottes (DD 26, ou DD 28 pour les menottes de maître). Les menottes ont une [solidité](./solidité.md) de 10 et 10 points de vie. La plupart des menottes ont une [serrure](./Cadenas (objet).md). Rajoutez le coût de la serrure pour avoir le prix des menottes. Pour le même prix, le personnage peut acheter des menottes adaptées à une créature de taille P. Pour une créature de taille G, les menottes coûtent 10 fois le prix indiqué et pour une créature de taille TG, elles coûtent 100 fois le prix indiqué. Les créatures de taille Gig, C, TP, Min ou I ne peuvent être attachées qu'avec des menottes fabriquées spécialement, ce qui coûte au moins 100 fois le prix indiqué.  
+Ces menottes permettent d'attacher une créature de taille M. Une créature menottée peut utiliser la compétence [[Évasion]] pour se dégager ([[DD]] 30 ou DD 35 pour les menottes de maître).Il faut réussir un test de [[Force]] pour briser les menottes (DD 26, ou DD 28 pour les menottes de maître). Les menottes ont une [[solidité]] de 10 et 10 points de vie. La plupart des menottes ont une [[Cadenas (objet)|serrure]]. Rajoutez le coût de la serrure pour avoir le prix des menottes. Pour le même prix, le personnage peut acheter des menottes adaptées à une créature de taille P. Pour une créature de taille G, les menottes coûtent 10 fois le prix indiqué et pour une créature de taille TG, elles coûtent 100 fois le prix indiqué. Les créatures de taille Gig, C, TP, Min ou I ne peuvent être attachées qu'avec des menottes fabriquées spécialement, ce qui coûte au moins 100 fois le prix indiqué.  
   
-*Menottes en mithral.* Ces menottes sont plus difficiles à briser que les menottes standards et sont particulièrement utiles contre les [lycanthropes](./Lycanthrope, archétype.md). Elles ont une solidité de 15, 30 points de vie et le DD pour les briser est de 30. Outre cela, elles sont considérées comme des menottes de maître.
+*Menottes en mithral.* Ces menottes sont plus difficiles à briser que les menottes standards et sont particulièrement utiles contre les [[Lycanthrope, archétype|lycanthropes]]. Elles ont une solidité de 15, 30 points de vie et le DD pour les briser est de 30. Outre cela, elles sont considérées comme des menottes de maître.
 
 
 {s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:MR}{s:Reference|Menottes à pointes}
 #### Menottes à pointes
 **Prix** +15 po ; **Poids** 0,5 kg
 ---
-Les pointes ajoutées à ces [menottes](./Menottes (objet).md) blessent les prisonniers qui bougent autrement que lentement et prudemment. Une créature attachée avec des menottes à pointes reçoit 1 point de dégâts perforants si elle entreprend plus qu'une simple [action de mouvement](./Action de mouvement.md) lors d'un [round](./round.md). Les mouvements brutaux en tout genre, comme être touché en combat ou tomber [à terre](./À terre.md), infligent également 1 point de dégâts. Essayer de se libérer de menottes à pointes avec un test de [Force](./Force.md) inflige 1d4 points de dégâts perforants au prisonnier, que sa tentative soit une réussite ou un échec.  
-Les [fers](./Fers (objet).md) peuvent également être agrémentés de pointes, mais le porteur peut éviter les dégâts en n'effectuant aucune action impliquant de bouger les jambes. Les [hobgobelins](./Hobgobelin (race).md) se servent souvent de ce genre de fers pour attacher les artisans à leurs tables de travail. Le fait d'attacher un prisonnier avec plusieurs paires de menottes et/ou de fers ne provoque pas de dégâts supplémentaires.
+Les pointes ajoutées à ces [[Menottes (objet)|menottes]] blessent les prisonniers qui bougent autrement que lentement et prudemment. Une créature attachée avec des menottes à pointes reçoit 1 point de dégâts perforants si elle entreprend plus qu'une simple [[action de mouvement]] lors d'un [[round]]. Les mouvements brutaux en tout genre, comme être touché en combat ou tomber [[à terre]], infligent également 1 point de dégâts. Essayer de se libérer de menottes à pointes avec un test de [[Force]] inflige 1d4 points de dégâts perforants au prisonnier, que sa tentative soit une réussite ou un échec.  
+Les [[Fers (objet)|fers]] peuvent également être agrémentés de pointes, mais le porteur peut éviter les dégâts en n'effectuant aucune action impliquant de bouger les jambes. Les [[Hobgobelin (race)|hobgobelins]] se servent souvent de ce genre de fers pour attacher les artisans à leurs tables de travail. Le fait d'attacher un prisonnier avec plusieurs paires de menottes et/ou de fers ne provoque pas de dégâts supplémentaires.
 
 
 {s:AE}{s:Reference|Miroir}
@@ -1639,14 +1639,14 @@ Ce petit miroir de poche fait environ 30 centimètres de large. Contrairement à
 #### Missel de guerre
 **Prix** 50 po ; **Poids** 0,25 kg
 ---
-Ce petit recueil de prières de guerre à la reliure en cuir est constitué de pages en vélin de haute qualité. Si le personnage a une valeur de 13 ou plus en [Charisme](./Charisme.md) ou au moins 1 rang en [Représentation](./Représentation.md) (déclamation), il peut lire les prières du recueil à voix haute avant la bataille pour encourager les autres face aux épreuves à venir. La lecture des prières à cet effet prend 10 minutes. Le personnage accorde à ceux qui entendent ses prières un bonus de moral de +2 au prochain [jet de sauvegarde](./JDS.md) qu'ils tentent contre un effet de terreur, à partir du moment où ce jet est effectué au cours des 24 heures qui suivent la lecture.
+Ce petit recueil de prières de guerre à la reliure en cuir est constitué de pages en vélin de haute qualité. Si le personnage a une valeur de 13 ou plus en [[Charisme]] ou au moins 1 rang en [[Représentation]] (déclamation), il peut lire les prières du recueil à voix haute avant la bataille pour encourager les autres face aux épreuves à venir. La lecture des prières à cet effet prend 10 minutes. Le personnage accorde à ceux qui entendent ses prières un bonus de moral de +2 au prochain [[jds|jet de sauvegarde]] qu'ils tentent contre un effet de terreur, à partir du moment où ce jet est effectué au cours des 24 heures qui suivent la lecture.
 
 
 {s:AE}{s:Reference|Modèles de lettre}
 #### Modèles de lettre
 **Prix** 50 po ; **Poids** 1,5 kg
 ---
-Cette pochette contient des exemples de lettres officielles ainsi que des exemples appropriés d'adresses, de formules, de protocoles et de tournures de phrases. Utilisé par les bureaucrates, les diplomates et les clercs, elle est aussi très pratique pour contrefaire les correspondances officielles. Elle fournit un bonus de circonstances de +2 aux tests de [Diplomatie](./Diplomatie.md) pour traiter avec les fonctionnaires d'une ville et un bonus de circonstances de +2 aux tests de [Linguistique](./Linguistique.md) pour créer des faux. Les modèles de lettre ne fonctionnent que pour une région donnée, comme un pays, voire même une ville, et ne fournit ces bonus que dans la région en question.
+Cette pochette contient des exemples de lettres officielles ainsi que des exemples appropriés d'adresses, de formules, de protocoles et de tournures de phrases. Utilisé par les bureaucrates, les diplomates et les clercs, elle est aussi très pratique pour contrefaire les correspondances officielles. Elle fournit un bonus de circonstances de +2 aux tests de [[Diplomatie]] pour traiter avec les fonctionnaires d'une ville et un bonus de circonstances de +2 aux tests de [[Linguistique]] pour créer des faux. Les modèles de lettre ne fonctionnent que pour une région donnée, comme un pays, voire même une ville, et ne fournit ces bonus que dans la région en question.
 
 
 {s:cs}{s:AA}{s:Reference|Montre à gousset}
@@ -1660,33 +1660,33 @@ Cette horloge miniature est assez petite pour être portée.
 #### Moule de cire vierge
 **Prix** 15 po ; **Poids** 0,25 kg
 ---
-Cet écrin à double face est rempli de cire molle pour recueillir et imprimer la forme d'un objet que l'on presse entre les deux battants, créant un moule parfait de l'objet. Un artisan compétent peut ainsi faire une copie de l'objet à partir du moule (détruisant le moule dans le processus). Il faut réussir un test d'[Escamotage](./Escamotage.md) [DD](./DD.md) 25 pour subrepticement faire une empreinte.
+Cet écrin à double face est rempli de cire molle pour recueillir et imprimer la forme d'un objet que l'on presse entre les deux battants, créant un moule parfait de l'objet. Un artisan compétent peut ainsi faire une copie de l'objet à partir du moule (détruisant le moule dans le processus). Il faut réussir un test d'[[Escamotage]] [[DD]] 25 pour subrepticement faire une empreinte.
 
 
 {s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}{s:Reference|Objet bricolé}
 #### Objet bricolé
 **Prix** spécial ; **Poids** spécial
 ---
-Les [gobelins](./Gobelin (race).md) sont particulièrement doués pour fabriquer des objets à partir de débris récupérés. La catégorie « objet bricolé » regroupe tous les équipements réparés ou modifiés par les gobelins. Ces objets sont de moindre qualité et lorsqu'ils sont utilisés dans le cadre d'un [test de compétence](./test de compétence.md) ou d'un [jet d'attaque](./jet dattaque.md), ils ont 10 % de chances de se casser. Les objets bricolés ne peuvent jamais être des [objets de maître](./Artisanat.md#OBJETMAITRE). La qualité de ces objets est inférieure à celle de leur équivalent normal ; leur prix est donc égal à 75 % du prix de leur équivalent normal. Par contre, les objets bricolés sont plus encombrants. Tout objet bricolé pesant 500 g ou plus pèse en réalité deux fois plus que son équivalent normal. Tout objet dont le prix est supérieur à 50 po ne peut jamais être bricolé, tout comme l'ensemble des produits alchimiques. À la discrétion du [MJ](./MJ.md), certains objets seront tout simplement impossibles à bricoler.
+Les [[Gobelin (race)|gobelins]] sont particulièrement doués pour fabriquer des objets à partir de débris récupérés. La catégorie « objet bricolé » regroupe tous les équipements réparés ou modifiés par les gobelins. Ces objets sont de moindre qualité et lorsqu'ils sont utilisés dans le cadre d'un [[test de compétence]] ou d'un [[jet dattaque|jet d'attaque]], ils ont 10 % de chances de se casser. Les objets bricolés ne peuvent jamais être des [[Artisanat#OBJETMAITRE|objets de maître]]. La qualité de ces objets est inférieure à celle de leur équivalent normal ; leur prix est donc égal à 75 % du prix de leur équivalent normal. Par contre, les objets bricolés sont plus encombrants. Tout objet bricolé pesant 500 g ou plus pèse en réalité deux fois plus que son équivalent normal. Tout objet dont le prix est supérieur à 50 po ne peut jamais être bricolé, tout comme l'ensemble des produits alchimiques. À la discrétion du [[MJ]], certains objets seront tout simplement impossibles à bricoler.
 
 
 {s:MCA}{s:Reference|Oboles}
 #### Oboles (12)
 **Prix** 12 po ; **Poids** 0,25 kg
 ---
-Les oboles sont de petites pièces en argent ou en or embossées d'un symbole sacré et bénies par un prêtre d'un dieu de la guerre ou de la mort. Historiquement, les [inquisiteurs](./Inquisiteur.md) et les [prêtres combattants](./Prêtre combattant.md) placent ces pièces sur le cadavre de ceux qui périssent au combat, mettant en général une pièce sur chaque œil ou une dans la bouche. Le coût est indiqué pour un lot de 12 oboles.
+Les oboles sont de petites pièces en argent ou en or embossées d'un symbole sacré et bénies par un prêtre d'un dieu de la guerre ou de la mort. Historiquement, les [[Inquisiteur|inquisiteurs]] et les [[Prêtre combattant|prêtres combattants]] placent ces pièces sur le cadavre de ceux qui périssent au combat, mettant en général une pièce sur chaque œil ou une dans la bouche. Le coût est indiqué pour un lot de 12 oboles.
 
 
 {s:AO}{s:Reference|Ouija}
 #### Ouija
 **Prix** 15 po ; **Poids** 1 kg
 ---
-Sur cette fine planche de bois rectangulaire sont imprimés en arc de cercle les lettres de l’alphabet, des chiffres et deux courts messages pour l’affirmative et la négative. Accompagné d’un petit pointeur en forme de cœur monté sur de courts supports en bois, cet outil permet de communiquer avec des esprits ou d’entrer en contact avec le subconscient de l’utilisateur. Un ouija peut être utilisé à la place d’un crayon et d’une feuille de papier ou d’une [planchette d’écriture automatique](./Planchette décriture automatique (objet).md) quand l’utilisateur effectue un test de [Linguistique](./Linguistique.md) en utilisant l’extension de compétence occulte [écriture automatique](./Extensions de compétences occultes.md#ÉCRITUREAUTOMATIQUE). Le cas échéant, il confère un bonus de circonstances de +2 à ces tests. En outre, vu la taille de la planche, l’utilisateur peut bénéficier du soutien d’une autre créature psychiquement sensible qui peut améliorer ses chances en réussissant l’action [aider quelqu’un](./aider qqn.md). Il est également possible d’utiliser le ouija seul pour tenter de faire remonter des souvenirs à la surface en utilisant l’extension de compétence occulte [hypnose](./Extensions de compétences occultes.md#HYPNOSE). L’utilisateur effectue le test comme à l’accoutumée (il est le sujet de cette séance) en bénéficiant d’un bonus de circonstances de +2. Utilisé pour canaliser une [apparition](./Nouvelles règles sur les apparitions.md) capable de communiquer, un ouija double la vitesse de la communication et confère à son utilisateur un bonus de circonstances de +4 aux tests de [Linguistique](./Linguistique.md) effectués pour décrypter les messages énigmatiques. Un ouija remplit les mêmes fonctions que d’autres équipements (comme les planchettes d’écriture automatique et les [médaillons d’hypnotiseur](./Médaillon dhypnotiseur (objet).md)), mais ces objets ne peuvent être utilisés en même temps pour obtenir plusieurs bonus ou augmenter plus de deux fois la vitesse de la communication avec une apparition.
+Sur cette fine planche de bois rectangulaire sont imprimés en arc de cercle les lettres de l’alphabet, des chiffres et deux courts messages pour l’affirmative et la négative. Accompagné d’un petit pointeur en forme de cœur monté sur de courts supports en bois, cet outil permet de communiquer avec des esprits ou d’entrer en contact avec le subconscient de l’utilisateur. Un ouija peut être utilisé à la place d’un crayon et d’une feuille de papier ou d’une [[Planchette décriture automatique (objet)|planchette d’écriture automatique]] quand l’utilisateur effectue un test de [[Linguistique]] en utilisant l’extension de compétence occulte [[Extensions de compétences occultes#ÉCRITUREAUTOMATIQUE|écriture automatique]]. Le cas échéant, il confère un bonus de circonstances de +2 à ces tests. En outre, vu la taille de la planche, l’utilisateur peut bénéficier du soutien d’une autre créature psychiquement sensible qui peut améliorer ses chances en réussissant l’action [[aider qqn|aider quelqu’un]]. Il est également possible d’utiliser le ouija seul pour tenter de faire remonter des souvenirs à la surface en utilisant l’extension de compétence occulte [[Extensions de compétences occultes#HYPNOSE|hypnose]]. L’utilisateur effectue le test comme à l’accoutumée (il est le sujet de cette séance) en bénéficiant d’un bonus de circonstances de +2. Utilisé pour canaliser une [[Nouvelles règles sur les apparitions|apparition]] capable de communiquer, un ouija double la vitesse de la communication et confère à son utilisateur un bonus de circonstances de +4 aux tests de [[Linguistique]] effectués pour décrypter les messages énigmatiques. Un ouija remplit les mêmes fonctions que d’autres équipements (comme les planchettes d’écriture automatique et les [[Médaillon dhypnotiseur (objet)|médaillons d’hypnotiseur]]), mais ces objets ne peuvent être utilisés en même temps pour obtenir plusieurs bonus ou augmenter plus de deux fois la vitesse de la communication avec une apparition.
 
 
 {s:AE}{s:Reference|Outre}
 #### Outre
-**Prix** 1 po ; **Poids** 2 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 1 po ; **Poids** 2 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
 Cette sacoche est faite de peau animale ou de cuir traité. Elle est étanche et peut contenir environ 2 litres de liquide. Le poids est indiqué pour une outre pleine d'eau, de vin ou de bière, vide, elle pèse environ 1 kg.
 
@@ -1695,7 +1695,7 @@ Cette sacoche est faite de peau animale ou de cuir traité. Elle est étanche et
 #### Palan
 **Prix** 5 po ; **Poids** 2,5 kg
 ---
-Qu'il serve à remonter des trésors du fond d'une fosse ou à déplacer des provisions, un simple palan à poulie correctement attaché, rajoute un bonus de circonstances de +5 aux tests de [Force](./Force.md) pour soulever des objets lourds. Il faut une minute pour attacher la poulie.
+Qu'il serve à remonter des trésors du fond d'une fosse ou à déplacer des provisions, un simple palan à poulie correctement attaché, rajoute un bonus de circonstances de +5 aux tests de [[Force]] pour soulever des objets lourds. Il faut une minute pour attacher la poulie.
 
 
 {s:AE}{s:Reference|Panier}
@@ -1709,7 +1709,7 @@ Ce grand panier est doté d'un couvercle et a une contenance d'environ 60 litres
 #### Pantin de ventriloque
 **Prix** 100 po ; **Poids** 3,5 kg
 ---
-Un pantin de ventriloque est une marionnette en bois finement sculptée, peinte et habillée pour ressembler à un humanoïde typique d’une taille de soixante centimètres environ. Une ouverture à l’arrière du pantin permet à une créature de taille M ou P d’y insérer son bras pour le manipuler. Utilisé lors d’un spectacle, le pantin de ventriloque confère un bonus de circonstances de +2 aux tests de [Représentation](./Représentation.md) (farce).
+Un pantin de ventriloque est une marionnette en bois finement sculptée, peinte et habillée pour ressembler à un humanoïde typique d’une taille de soixante centimètres environ. Une ouverture à l’arrière du pantin permet à une créature de taille M ou P d’y insérer son bras pour le manipuler. Utilisé lors d’un spectacle, le pantin de ventriloque confère un bonus de circonstances de +2 aux tests de [[Représentation]] (farce).
 
 
 {s:RSE}{s:Reference|Pantographe}
@@ -1723,7 +1723,7 @@ Cette armature de métal composée de rayures parallèles est utilisée pour dup
 #### Papier
 **Prix** 4 pa ; **Poids** —
 ---
-Une feuille de papier ordinaire mesure généralement 23 centimètres sur 15 et ne convient pas à la création de [parchemins magiques](./Parchemins magiques.md). Elle a une [solidité](./solidité.md) de 0, 1 point de vie et le [DD](./DD.md) pour la déchirer est de 5.
+Une feuille de papier ordinaire mesure généralement 23 centimètres sur 15 et ne convient pas à la création de [[Parchemins magiques]]. Elle a une [[solidité]] de 0, 1 point de vie et le [[DD]] pour la déchirer est de 5.
 
 
 {s:AE}{s:Reference|Papier à lettres}
@@ -1737,7 +1737,7 @@ Généralement utilisé par les plus riches, le papier à lettres de luxe consis
 #### Papier de riz
 **Prix** 5 pc ; **Poids** —
 ---
-Cette feuille de papier est faite de riz, de paille ou d'écorce d'arbre. Elle a une [solidité](./solidité.md) de 0, 1 point de vie et le [DD](./DD.md) pour la déchirer est de 2.
+Cette feuille de papier est faite de riz, de paille ou d'écorce d'arbre. Elle a une [[solidité]] de 0, 1 point de vie et le [[DD]] pour la déchirer est de 2.
 
 
 {s:AE}{s:Reference|Papier glu}
@@ -1751,24 +1751,24 @@ Ce petit carré de papier de 30 centimètres de côté a une face couverte d'une
 #### Parchemin
 **Prix** 2 pa ; **Poids** —
 ---
-Cette fine feuille de peau animale traitée constitue une surface d'écriture résistante et convient à la création de [parchemins magiques](./Parchemins magiques.md). Elle a une [solidité](./solidité.md) de 0, 2 points de vie et le [DD](./DD.md) pour la déchirer est de 5.
+Cette fine feuille de peau animale traitée constitue une surface d'écriture résistante et convient à la création de [[Parchemins magiques]]. Elle a une [[solidité]] de 0, 2 points de vie et le [[DD]] pour la déchirer est de 5.
 
 
 {s:AE}{s:Reference|Parfum/Eau de Cologne}
 #### Parfum/Eau de Cologne
 **Prix** 1 po/dose (ordinaire), 5 po/dose (A&E), 10 po/dose (rare), 100 po/dose (exotique) ; **Poids** — (ordinaire), — (A&E), — (rare), — (exotique)
 ---
-La plupart des parfums et eaux de Cologne sont fabriqués à partir d'huiles essentielles de fleurs. Un parfum ou une eau de Cologne peut (si le [MJ](./MJ.md) donne son accord) accorder un bonus de circonstances de +1 à différents tests de compétences basées sur le [Charisme](./Charisme.md).  
+La plupart des parfums et eaux de Cologne sont fabriqués à partir d'huiles essentielles de fleurs. Un parfum ou une eau de Cologne peut (si le [[MJ]] donne son accord) accorder un bonus de circonstances de +1 à différents tests de compétences basées sur le [[Charisme]].  
   
 {s:CCMI}*Ordinaire.* Le parfum et l'eau de Cologne sont des accessoires ordinaires pour ceux qui veulent éviter d'indisposer les autres par leur odeur.  
-*Exotique.* Les parfums et l'eau de Cologne exotiques sont vendus dans des fioles contentant dix doses, chacune durant vingt-quatre heures au cours desquelles le personnage gagne un bonus de circonstance de +2 aux tests de [Diplomatie](./Diplomatie.md) (sauf contre les créatures que le [MJ](./MJ.md) considère comme indifférentes au parfum).
+*Exotique.* Les parfums et l'eau de Cologne exotiques sont vendus dans des fioles contentant dix doses, chacune durant vingt-quatre heures au cours desquelles le personnage gagne un bonus de circonstance de +2 aux tests de [[Diplomatie]] (sauf contre les créatures que le [[MJ]] considère comme indifférentes au parfum).
 
 
 {s:AE}{s:Reference|Passe-partout}
 #### Passe-partout
 **Prix** 85 po ; **Poids** —
 ---
-De nombreuses portes sont de conception similaire et se déverrouillent donc avec une même clé. Le passe-partout peut être utilisé sur toutes les serrures standards à clé, même si le personnage n'a pas la compétence [Sabotage](./Sabotage.md). Il utilise le bonus de [Sabotage](./Sabotage.md) de +10 du passe-partout plutôt que son propre bonus. Il ne peut pas [faire 10](./faire 10.md) en utilisant un passe-partout. Avec le passe-partout, on ne peut faire qu'un seul jet par serrure. Si le jet est raté, la clé ne peut pas verrouiller ou déverrouiller la serrure. Il arrive que les passe-partout inférieurs n'offrent qu'un bonus de +5.
+De nombreuses portes sont de conception similaire et se déverrouillent donc avec une même clé. Le passe-partout peut être utilisé sur toutes les serrures standards à clé, même si le personnage n'a pas la compétence [[Sabotage]]. Il utilise le bonus de [[Sabotage]] de +10 du passe-partout plutôt que son propre bonus. Il ne peut pas [[faire 10]] en utilisant un passe-partout. Avec le passe-partout, on ne peut faire qu'un seul jet par serrure. Si le jet est raté, la clé ne peut pas verrouiller ou déverrouiller la serrure. Il arrive que les passe-partout inférieurs n'offrent qu'un bonus de +5.
 
 
 {s:PMI}{s:Reference|Pavillon}
@@ -1784,9 +1784,9 @@ Le prix des *pavillons nationaux et de courtoisie* est moins élevé que celui d
 #### Pelle
 **Prix** 2 po (standard), 10 po (pliante) ; **Poids** 4 kg (standard), 6 kg (pliante)
 ---
-Cet outil permet de creuser une fosse à raison de 0,06 m3 par minutes. En combat, le personnage la traite comme une [arme improvisée](./arme improvisée.md) à une main infligeant un nombre de dégâts contondants égal à ceux d'un [gourdin](./gourdin (arme).md) de même taille.  
+Cet outil permet de creuser une fosse à raison de 0,06 m3 par minutes. En combat, le personnage la traite comme une [[arme improvisée]] à une main infligeant un nombre de dégâts contondants égal à ceux d'un [[gourdin (arme)|gourdin]] de même taille.  
   
-*Pelle pliante*. La pelle pliante est une pelle normale avec un solide manche découpé en sections se repliant en éléments pas plus longs que la lame de la pelle, ce qui permet de la ranger dans des espaces plus petits comme un [sac à dos](./Sac à dos (objet).md). Il faut deux [actions complexes](./Action complexe.md) pour déplier la pelle de manière à pouvoir l'utiliser (ou vice versa).
+*Pelle pliante*. La pelle pliante est une pelle normale avec un solide manche découpé en sections se repliant en éléments pas plus longs que la lame de la pelle, ce qui permet de la ranger dans des espaces plus petits comme un [[Sac à dos (objet)|sac à dos]]. Il faut deux [[action complexe|actions complexes]] pour déplier la pelle de manière à pouvoir l'utiliser (ou vice versa).
 
 
 {s:AE}{s:Reference|Perche}
@@ -1795,49 +1795,49 @@ Cet outil permet de creuser une fosse à raison de 0,06 m3 par minutes. En comba
 ---
 Ce bâton en bois de 3 mètres de long sert à sonder les fosses, les dalles et les liquides troubles tout en restant à distance de sécurité.  
   
-*Perche pliante*. Cette perche articulée peut être dépliée et maintenue en place au moyen de broches coulissantes, pour former une perche de 3 mètres de long. Lorsqu'elle est repliée, elle ne mesure que 1 mètre de long. Il faut une [action complexe](./Action complexe.md) pour assembler ou replier cette perche. À cause des gonds et des broches, elle n'est pas aussi solide qu'une perche d'une seule pièce, il vaut mieux l'utiliser pour comme pour sonder le terrain que pour sauter ou escalader quelque chose.
+*Perche pliante*. Cette perche articulée peut être dépliée et maintenue en place au moyen de broches coulissantes, pour former une perche de 3 mètres de long. Lorsqu'elle est repliée, elle ne mesure que 1 mètre de long. Il faut une [[action complexe]] pour assembler ou replier cette perche. À cause des gonds et des broches, elle n'est pas aussi solide qu'une perche d'une seule pièce, il vaut mieux l'utiliser pour comme pour sonder le terrain que pour sauter ou escalader quelque chose.
 
 
 {s:AE}{s:Reference|Périscope}
 #### Périscope
 **Prix** 20 po ; **Poids** 2 kg
 ---
-Ce tube de métal de 60 centimètres de long se termine sur un angle droit intégrant un miroir à chaque extrémité. Si le personnage regarde d'un côté, il peut voir par l'autre bout, ce qui lui permet de repérer les obstacles et de voir ce qu'il y a derrière un angle ou dans les petits espaces où il ne peut pas passer la tête. Lorsque le personnage utilise un périscope, l'extrémité du tube compte comme un objet de taille Min : il y a donc peu de chance que la créature observée le repère. Si le personnage bénéficie d'un [camouflage total](./camouflage total.md) contre la créature, à l'exception de l'extrémité du périscope, il utilise le modificateur de taille Min du tube au lieu du sien pour son test de [Discrétion](./Discrétion.md). À cause de la distorsion due aux miroirs, il reçoit un malus de -4 aux tests de [Perception](./Perception.md) lorsqu'il regarde à l'aide dans le périscope. Le tube est assez solide ([solidité](./solidité.md) 5, 2 points de vie) mais ses miroirs sont fragiles (solidité 1, 1 point de vie) et tout dégât passant la solidité du tube s'applique au tube et à ses miroirs.
+Ce tube de métal de 60 centimètres de long se termine sur un angle droit intégrant un miroir à chaque extrémité. Si le personnage regarde d'un côté, il peut voir par l'autre bout, ce qui lui permet de repérer les obstacles et de voir ce qu'il y a derrière un angle ou dans les petits espaces où il ne peut pas passer la tête. Lorsque le personnage utilise un périscope, l'extrémité du tube compte comme un objet de taille Min : il y a donc peu de chance que la créature observée le repère. Si le personnage bénéficie d'un [[camouflage total]] contre la créature, à l'exception de l'extrémité du périscope, il utilise le modificateur de taille Min du tube au lieu du sien pour son test de [[Discrétion]]. À cause de la distorsion due aux miroirs, il reçoit un malus de -4 aux tests de [[Perception]] lorsqu'il regarde à l'aide dans le périscope. Le tube est assez solide ([[solidité]] 5, 2 points de vie) mais ses miroirs sont fragiles (solidité 1, 1 point de vie) et tout dégât passant la solidité du tube s'applique au tube et à ses miroirs.
 
 
 {s:AO}{s:Reference|Petit encensoir}
 #### Petit encensoir
 **Prix** 5 po ; **Poids** 0,25 kg
 ---
-Ce récipient métallique doté d'un couvercle amovible de petite taille contient un petit creuset dans lequel on brûle de l'encens. Utilisé lors de rituels ou de cérémonies religieuses, un encensoir peut contenir jusqu'à dix morceaux d'[encens](./Encens (objet).md). Une fois allumé, l'encensoir brûle un morceau d'encens par heure.
+Ce récipient métallique doté d'un couvercle amovible de petite taille contient un petit creuset dans lequel on brûle de l'encens. Utilisé lors de rituels ou de cérémonies religieuses, un encensoir peut contenir jusqu'à dix morceaux d'[[Encens (objet)|encens]]. Une fois allumé, l'encensoir brûle un morceau d'encens par heure.
 
 
 {s:cs}{s:AA}{s:Reference|Pic à cornichons}
 #### Pic à cornichons
 **Prix** 2 pc ; **Poids** 1 kg
 ---
-Un pic à cornichons n’est rien de plus qu’un pique coincé au bout d’un bâton, utilisé le plus souvent par des [gobelins](./Gobelin (race).md) pour saisir des objets au fond d’un tonneau.
+Un pic à cornichons n’est rien de plus qu’un pique coincé au bout d’un bâton, utilisé le plus souvent par des [[Gobelin (race)|gobelins]] pour saisir des objets au fond d’un tonneau.
 
 
 {s:cs}{s:UI}{s:Reference|Pièce creuse}
 #### Pièce creuse
 **Prix** 12 po ; **Poids** 0,05 kg
 ---
-Une pièce creuse ressemble en tout point à une pièce de monnaie locale typique et est souvent fabriquée à partir d'une pièce de monnaie ordinaire - bien que pour les métaux nobles comme l'or, la pièce soit généralement fabriquée avec un intérieur en fer ou en acier, puis plaquée avec le métal le plus précieux. En tournant la pièce le long de son bord, on dévisse les deux moitiés, révélant un mince espace creux à l'intérieur. Ces pièces sont souvent utilisées pour dissimuler de petits messages écrits sur du papier très fin lors d'une livraison secrète. Pour remarquer la véritable nature d'une pièce creuse, il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 25.
+Une pièce creuse ressemble en tout point à une pièce de monnaie locale typique et est souvent fabriquée à partir d'une pièce de monnaie ordinaire - bien que pour les métaux nobles comme l'or, la pièce soit généralement fabriquée avec un intérieur en fer ou en acier, puis plaquée avec le métal le plus précieux. En tournant la pièce le long de son bord, on dévisse les deux moitiés, révélant un mince espace creux à l'intérieur. Ces pièces sont souvent utilisées pour dissimuler de petits messages écrits sur du papier très fin lors d'une livraison secrète. Pour remarquer la véritable nature d'une pièce creuse, il faut réussir un test de [[Perception]] [[DD]] 25.
 
 
 {s:AE}{s:Reference|Pied-de-biche}
 #### Pied-de-biche
 **Prix** 2 po ; **Poids** 2,5 kg
 ---
-Cet outil polyvalent sert à ouvrir tout ce qui résiste à son propriétaire. Un pied-de biche accorde un bonus de circonstances de +2 aux tests de [Force](./Force.md) pour forcer une porte ou un coffre. En combat, traitez-le comme une [arme improvisée](./arme improvisée.md) à une main infligeant un nombre de dégâts contondants égal à ceux d'un [gourdin](./gourdin (arme).md) de même taille.
+Cet outil polyvalent sert à ouvrir tout ce qui résiste à son propriétaire. Un pied-de biche accorde un bonus de circonstances de +2 aux tests de [[Force]] pour forcer une porte ou un coffre. En combat, traitez-le comme une [[arme improvisée]] à une main infligeant un nombre de dégâts contondants égal à ceux d'un [[gourdin (arme)|gourdin]] de même taille.
 
 
 {s:AE}{s:Reference|Pierre à aiguiser}
 #### Pierre à aiguiser
 **Prix** 2 pc ; **Poids** 0,5 kg
 ---
-La pierre à aiguiser permet au personnage d'affûter une lame en la frottant contre la pierre selon un angle précis. L'affûtage d'une lame avec une pierre à aiguiser demande environ 15 minutes et accorde un bonus d'arme de +1 aux [jets de dégâts](./Valeurs de combat.md#DEGATS) lors de la première attaque réussie avec cette lame. Ceci ne fonctionne que pour les lames non-magiques.
+La pierre à aiguiser permet au personnage d'affûter une lame en la frottant contre la pierre selon un angle précis. L'affûtage d'une lame avec une pierre à aiguiser demande environ 15 minutes et accorde un bonus d'arme de +1 aux [[valeurs de combat#DEGATS|jets de dégâts]] lors de la première attaque réussie avec cette lame. Ceci ne fonctionne que pour les lames non-magiques.
 
 
 {s:CCMI}{s:Reference|Pierre chauffante}
@@ -1851,28 +1851,28 @@ Ces grosses pierres rondes ou ovoïdes, traitées selon un procédé alchimique 
 #### Pioche de mineur
 **Prix** 3 po ; **Poids** 5 kg
 ---
-Si la pioche de mineur est utilisée en combat, le personnage la traite comme une [arme improvisée](./arme improvisée.md) à deux mains infligeant un nombre de dégâts perforants égal à ceux d'un [pic de guerre lourd](./pic de guerre lourd (arme).md) de même taille.
+Si la pioche de mineur est utilisée en combat, le personnage la traite comme une [[arme improvisée]] à deux mains infligeant un nombre de dégâts perforants égal à ceux d'un [[pic de guerre lourd (arme)|pic de guerre lourd]] de même taille.
 
 
 {s:AE}{s:Reference|Piton}
 #### Piton
 **Prix** 1 pa ; **Poids** 0,25 kg
 ---
-Un piton est une [pointe en fer](./Pointe en fer (objet).md) avec une boucle ou un anneau à un bout, permettant d'y attacher une corde.
+Un piton est une [[Pointe en fer (objet)|pointe en fer]] avec une boucle ou un anneau à un bout, permettant d'y attacher une corde.
 
 
 {s:AE}{s:Reference|Planche pliante}
 #### Planche pliante
 **Prix** 4 pa ; **Poids** 5 kg
 ---
-Ces planches pliantes articulées en deux points peuvent soutenir jusqu'à 125 kg avant de se briser. Une planche de 3 mètres de long se replie en un paquet de 90 centimètres sur 90 pour une épaisseur de 15 centimètres. Il faut une [action simple](./Action simple.md) pour plier ou déplier une planche.
+Ces planches pliantes articulées en deux points peuvent soutenir jusqu'à 125 kg avant de se briser. Une planche de 3 mètres de long se replie en un paquet de 90 centimètres sur 90 pour une épaisseur de 15 centimètres. Il faut une [[action simple]] pour plier ou déplier une planche.
 
 
 {s:AO}{s:Reference|Planchette décriture automatique}
 #### Planchette d'écriture automatique
 **Prix** 25 po ; **Poids** —
 ---
-Cette planchette de bois finement ouvragée en forme de losange est dotée de deux roulettes et d'une petite pince dans laquelle on insère un crayon qui fait office de troisième support pour que l'ensemble reste stable. Généralement utilisé sur une table recouverte d'une feuille de papier kraft, cet ustensile permet de coucher de mystérieux messages sur le papier lorsqu'il est manipulé par une créature qui utilise l'extension de compétence occulte [écriture automatique](./Extensions de compétences occultes.md#ÉCRITUREAUTOMATIQUE), ce qui lui confère un bonus de circonstances de +2 au test de [Linguistique](./Linguistique.md). Quand elle est utilisée pour canaliser certaines [apparitions](./Nouvelles règles sur les apparitions.md) capables de communiquer, la planchette double le rythme de la communication et confère à son utilisateur un bonus de circonstances de +4 aux tests de Linguistique effectués pour décrypter les messages énigmatiques. Ces avantages ne se cumulent pas avec ceux conférés par d'autres objets similaires (tels que le [ouija](./Ouija (objet).md)).
+Cette planchette de bois finement ouvragée en forme de losange est dotée de deux roulettes et d'une petite pince dans laquelle on insère un crayon qui fait office de troisième support pour que l'ensemble reste stable. Généralement utilisé sur une table recouverte d'une feuille de papier kraft, cet ustensile permet de coucher de mystérieux messages sur le papier lorsqu'il est manipulé par une créature qui utilise l'extension de compétence occulte [[Extensions de compétences occultes#ÉCRITUREAUTOMATIQUE|écriture automatique]], ce qui lui confère un bonus de circonstances de +2 au test de [[Linguistique]]. Quand elle est utilisée pour canaliser certaines [[Nouvelles règles sur les apparitions|apparitions]] capables de communiquer, la planchette double le rythme de la communication et confère à son utilisateur un bonus de circonstances de +4 aux tests de Linguistique effectués pour décrypter les messages énigmatiques. Ces avantages ne se cumulent pas avec ceux conférés par d'autres objets similaires (tels que le [[Ouija (objet)|ouija]]).
 
 
 {s:AE}{s:Reference|Plume à encre}
@@ -1893,33 +1893,33 @@ Cette poêle de 20 centimètres de diamètre est dotée d'un long manche et d'un
 #### Pointe en fer
 **Prix** 5 pc ; **Poids** 0,5 kg
 ---
-Cette pointe en fer de 30 centimètres sert à garder les portes ouvertes ou fermées et à fixer les cordes pour l'escalade. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 5 pour entendre quelqu'un enfoncer une pointe en fer à coup de [marteau](./Marteau (objet).md).
+Cette pointe en fer de 30 centimètres sert à garder les portes ouvertes ou fermées et à fixer les cordes pour l'escalade. Il faut réussir un test de [[Perception]] [[DD]] 5 pour entendre quelqu'un enfoncer une pointe en fer à coup de [[Marteau (objet)|marteau]].
 
 
 {s:AE}{s:Reference|Pommeau creux}
 #### Pommeau creux
 **Prix** 5 po ; **Poids** —
 ---
-En fonction de l'arme, le pommeau creux peut contenir un objet aussi gros qu'une [flasque](./Flasque (objet).md) ou aussi petit qu'un petit rouleau de papier. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 15 pour repérer un pommeau creux.
+En fonction de l'arme, le pommeau creux peut contenir un objet aussi gros qu'une [[Flasque (objet)|flasque]] ou aussi petit qu'un petit rouleau de papier. Il faut réussir un test de [[Perception]] [[DD]] 15 pour repérer un pommeau creux.
 
 
 {s:AE}{s:Reference|Pont portable}
 #### Pont portable
 **Prix** 200 po ; **Poids** 30 kg
 ---
-Lorsqu'il est fixé avec huit [pitons](./Piton (objet).md) (4 de chaque côté du fossé), ce pont à lattes et à corde peut supporter jusqu'à 750 kg et couvrir un vide d'une distance de 9 mètres. Il s'enroule pour former un paquet transportable sur le dos ou sur une bête de somme. Il faut utiliser le [tour](./Dressage.md) "Viens" ou "Au pied" pour convaincre un animal de franchir un pont portable.
+Lorsqu'il est fixé avec huit [[Piton (objet)|pitons]] (4 de chaque côté du fossé), ce pont à lattes et à corde peut supporter jusqu'à 750 kg et couvrir un vide d'une distance de 9 mètres. Il s'enroule pour former un paquet transportable sur le dos ou sur une bête de somme. Il faut utiliser le [[Dressage|tour]] "Viens" ou "Au pied" pour convaincre un animal de franchir un pont portable.
 
 
 {s:AE}{s:Reference|Poudre}
 #### Poudre
 **Prix** 1 pc ; **Poids** 0,25 kg
 ---
-La craie broyée, la farine et les autres matériaux en poudre sont très prisés par les aventuriers puisqu'ils permettent de repérer les créatures invisibles. Pour jeter un sac de poudre sur une case, il faut faire une attaque contre une [CA](./CA.md) de 5, qui révèle momentanément la position éventuelle d'une créature [invisible](./Invisible.md). Une méthode bien plus efficace consiste à répandre de la poudre sur une surface (ce qui prend une [action complexe](./Action complexe.md)) et de chercher des empreintes de pas.
+La craie broyée, la farine et les autres matériaux en poudre sont très prisés par les aventuriers puisqu'ils permettent de repérer les créatures invisibles. Pour jeter un sac de poudre sur une case, il faut faire une attaque contre une [[CA]] de 5, qui révèle momentanément la position éventuelle d'une créature [[invisible]]. Une méthode bien plus efficace consiste à répandre de la poudre sur une surface (ce qui prend une [[action complexe]]) et de chercher des empreintes de pas.
 
 
 {s:AE}{s:Reference|Prothèse}
 #### Prothèse
-**Prix** 1 po (main), 1 po (pied), 10 po (bras), 20 po (jambe) ; **Poids** 0,5 kg (main), 1 kg (pied), 1,5 kg (bras), 3 kg (jambe)<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 1 po (main), 1 po (pied), 10 po (bras), 20 po (jambe) ; **Poids** 0,5 kg (main), 1 kg (pied), 1,5 kg (bras), 3 kg (jambe)<sup>[[Équipement daventurier#1|1]]</sup>
 ---
 Les gens qui perdent une main, un bras, une jambe ou un pied en combat le font parfois remplacer par une prothèse : ce sont des imitations réalistes des membres perdus. Généralement taillées dans le bois et peintes de manière à reproduire la carnation du porteur, ces objets ont une fonctionnalité limitée, permettant à une personne dépourvue de jambe de marcher à la moitié de sa vitesse ou à une personne sans bras de tenir un bouclier dans une position fixe, mais guère plus. On sait que certains individus futés taillent de petits compartiments dans leurs prothèses, juste assez grands pour accueillir de tout petits objets. Une prothèse de main ou de pied peut accueillir un objet de poids négligeable, tandis qu'une prothèse de membre peut accueillir de 0,5 à 1 kg d'objet.
 
@@ -1928,21 +1928,21 @@ Les gens qui perdent une main, un bras, une jambe ou un pied en combat le font p
 #### Réchaud
 **Prix** 10 po ; **Poids** 0,5 kg
 ---
-Ce petit conteneur en métal se remplit d'un combustible cireux qui génère suffisamment de chaleur pour la cuisine mais n'éclaire pas plus qu'une [bougie](./Bougie (objet).md). Pour moucher la flamme, il faut mettre le couvercle en métal sur le conteneur. Il se refroidit assez pour être pris en main en l'espace de quelques minutes. Chaque réchaud fonctionne pendant 5 heures (ce qui suffit pour cuisiner une dizaine de repas).
+Ce petit conteneur en métal se remplit d'un combustible cireux qui génère suffisamment de chaleur pour la cuisine mais n'éclaire pas plus qu'une [[Bougie (objet)|bougie]]. Pour moucher la flamme, il faut mettre le couvercle en métal sur le conteneur. Il se refroidit assez pour être pris en main en l'espace de quelques minutes. Chaque réchaud fonctionne pendant 5 heures (ce qui suffit pour cuisiner une dizaine de repas).
 
 
 {s:AE}{s:Reference|Réservoir dair}
 #### Réservoir d'air
 **Prix** 1 pa ; **Poids** 0,25 kg
 ---
-Ce réservoir utilisé par les nageurs pour rallonger le temps de plongée, ressemble à une [outre](./Outre (objet).md) mais il est relativement hermétique. Lorsqu'il est gonflé, il contient suffisamment d'air pour alimenter une créature de taille M pendant 1 [round](./round.md) ou une créature de taille P pendant 2 rounds.
+Ce réservoir utilisé par les nageurs pour rallonger le temps de plongée, ressemble à une [[Outre (objet)|outre]] mais il est relativement hermétique. Lorsqu'il est gonflé, il contient suffisamment d'air pour alimenter une créature de taille M pendant 1 [[round]] ou une créature de taille P pendant 2 rounds.
 
 
 {s:cs}{s:AA}{s:Reference|Réservoir de pompage}
 #### Réservoir de pompage
 **Prix** 75 po ; **Poids** 2,5 kg
 ---
-Ce réservoir en métal contient 14,8 litres d’eau. Par une [action simple](./Action simple.md) qui provoque des [attaques d’opportunité](./AO.md), le personnage peut utiliser la pompe manuelle et le tuyau flexible pour pulvériser de l’eau jusqu’à 3 mètres de distance. Pomper consomme 4 litres d’eau pour chaque [round](./round.md) d’utilisation et peut éteindre les feux non-magiques sur une case. Un réservoir plein pèse 16,5 kg.
+Ce réservoir en métal contient 14,8 litres d’eau. Par une [[action simple]] qui provoque des [[AO|attaques d’opportunité]], le personnage peut utiliser la pompe manuelle et le tuyau flexible pour pulvériser de l’eau jusqu’à 3 mètres de distance. Pomper consomme 4 litres d’eau pour chaque [[round]] d’utilisation et peut éteindre les feux non-magiques sur une case. Un réservoir plein pèse 16,5 kg.
 
 
 {s:AE}{s:Reference|Sablier}
@@ -1954,46 +1954,46 @@ Ce sablier standard met une heure à transférer le sable de la chambre supérie
 
 {s:AE}{s:Reference|Sac}
 #### Sac
-**Prix** 1 pa ; **Poids** 0,25 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 1 pa ; **Poids** 0,25 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
 Ce solide sac en toile, pratique pour transporter l'équipement d'aventurier et autres provisions, a une contenance d'environ 120 litres. Une lanière en cuir passée dans des boucles à la gueule du sac et permet de le fermer facilement.
 
 
 {s:AE}{s:Reference|Sac à dos}
 #### Sac à dos
-**Prix** 2 po (standard), 50 po (de maître) ; **Poids** 1 kg (standard), 2 kg (de maître)<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 2 po (standard), 50 po (de maître) ; **Poids** 1 kg (standard), 2 kg (de maître)<sup>[[Équipement daventurier#1|1]]</sup>
 ---
 Ce sac à dos en cuir se compose d'une grande poche qui se ferme avec une sangle à boucle et peut contenir environ 60 litres de matériel. Certains ont une ou plusieurs poches supplémentaires sur les côtés.  
   
-*Sac à dos de maître.* Ce sac à dos est pourvu de nombreuses poches dans lesquelles conserver des objets bien utiles quand on part à l'aventure. Il inclut également des crochets permettant d'accrocher des objets tels que des [gourdes](./Gourde (objet).md), des sacoches, voire même une [couverture](./Couverture (objet).md) enroulée. Il est pourvu de lanières matelassées à accrocher en travers de la poitrine et à la taille afin de mieux répartir le poids. Comme pour le sac à dos ordinaire, la poche principale peut contenir environ 60 litres de matériel. Lorsque le personnage porte un sac à dos de maître, il rajoute +1 à son score de [Force](./Force.md) lorsqu'il calcule la [charge](./Poids transportable.md) qu'il peut transporter.
+*Sac à dos de maître.* Ce sac à dos est pourvu de nombreuses poches dans lesquelles conserver des objets bien utiles quand on part à l'aventure. Il inclut également des crochets permettant d'accrocher des objets tels que des [[Gourde (objet)|gourdes]], des sacoches, voire même une [[Couverture (objet)|couverture]] enroulée. Il est pourvu de lanières matelassées à accrocher en travers de la poitrine et à la taille afin de mieux répartir le poids. Comme pour le sac à dos ordinaire, la poche principale peut contenir environ 60 litres de matériel. Lorsque le personnage porte un sac à dos de maître, il rajoute +1 à son score de [[Force]] lorsqu'il calcule la [[Poids transportable|charge]] qu'il peut transporter.
 
 
 {s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:MR}{s:Reference|Sac anti-ours}
 #### Sac anti-ours
-**Prix** 2 po ; **Poids** 1,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 2 po ; **Poids** 1,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
 Ce sac est muni d'une corde de 6 mètres de long qui permet de le suspendre à un arbre ou un point d'attache similaire. Les gens mettent souvent leurs réserves de nourriture ou leurs objets fragiles dedans, une précaution élémentaire quand ils campent dans des étendues sauvages, afin que les ours et les autres prédateurs ne viennent pas piller son contenu.
 
 
 {s:AE}{s:Reference|Sac de couchage}
 #### Sac de couchage
-**Prix** 1 pa ; **Poids** 2,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 1 pa ; **Poids** 2,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Ce sac se compose de deux draps de laine cousus ensemble au niveau des pieds et sur un côté pour former un sac de couchage. Certains sont pourvus de courroies en tissus sur le côté ouvert, que le personnage peut resserrer pour dormir. On peut l'enrouler et l'attacher pour y ranger des objets ou pour le transporter. La plupart des gens utilisent une [couverture](./Couverture (objet).md) en plus du sac de couchage pour se tenir au chaud ou pour se faire un coussin.
+Ce sac se compose de deux draps de laine cousus ensemble au niveau des pieds et sur un côté pour former un sac de couchage. Certains sont pourvus de courroies en tissus sur le côté ouvert, que le personnage peut resserrer pour dormir. On peut l'enrouler et l'attacher pour y ranger des objets ou pour le transporter. La plupart des gens utilisent une [[Couverture (objet)|couverture]] en plus du sac de couchage pour se tenir au chaud ou pour se faire un coussin.
 
 
 {s:AE}{s:Reference|Sac étanche}
 #### Sac étanche
 **Prix** 5 pa ; **Poids** 0,25 kg
 ---
-Ce sac en cuir étanchéifié avec du goudron ou de la poix conserve les objets fragiles à l'abri des ravages de l'eau. Les objets placés dans le sac restent relativement secs, ce qui en fait un sac idéal pour les [cartes](./Carte régionale (objet).md), les [parchemins](./Parchemin (objet).md), les [grimoires](./Grimoire (objet).md) et autres, même s'il n'est pas imperméable et ne peut être complètement immergé que pendant 10 [rounds](./round.md) avant que trop d'eau ne s'infiltre et ne ruine ce genre d'objets.
+Ce sac en cuir étanchéifié avec du goudron ou de la poix conserve les objets fragiles à l'abri des ravages de l'eau. Les objets placés dans le sac restent relativement secs, ce qui en fait un sac idéal pour les [[Carte régionale (objet)|cartes]], les [[Parchemin (objet)|parchemins]], les [[Grimoire (objet)|grimoires]] et autres, même s'il n'est pas imperméable et ne peut être complètement immergé que pendant 10 [[round|rounds]] avant que trop d'eau ne s'infiltre et ne ruine ce genre d'objets.
 
 
 {s:AE}{s:Reference|Sacoche de familier}
 #### Sacoche de familier
 **Prix** 25 po ; **Poids** 3 kg
 ---
-Cette sacoche renforcée offre un [abri total](./abri total.md) à toute créature de taille TP ou plus petite qu'on y place. Elle comporte des aérations (que l'on peut fermer avec des bouchons de liège si le personnage doit plonger sous l'eau) et deux réceptacles pour la nourriture et l'eau.
+Cette sacoche renforcée offre un [[abri total]] à toute créature de taille TP ou plus petite qu'on y place. Elle comporte des aérations (que l'on peut fermer avec des bouchons de liège si le personnage doit plonger sous l'eau) et deux réceptacles pour la nourriture et l'eau.
 
 
 {s:AE}{s:Reference|Savon}
@@ -2007,7 +2007,7 @@ La plupart des savons sont faits de graisse animale et de soude caustique issue 
 #### Scie
 **Prix** 4 pc ; **Poids** 1 kg
 ---
-Les scies peuvent prendre différentes formes, de la petite scie de charpentier à la longue scie à deux mains qu'utilisent les bûcherons. Le personnage peut insérer une scie entre une porte et son encadrement pour couper les verrous ou les barres en bois. Par une [action complexe](./Action complexe.md), il inflige 5 points de dégâts plus son modificateur de [Force](./Force.md) par [round](./round.md) à l'objet scié. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 10 pour entendre quelqu'un scier. Les scies utilisées pour découper la glace des rivières ont un bout pointu permettant de percer la glace avant de la découper.
+Les scies peuvent prendre différentes formes, de la petite scie de charpentier à la longue scie à deux mains qu'utilisent les bûcherons. Le personnage peut insérer une scie entre une porte et son encadrement pour couper les verrous ou les barres en bois. Par une [[action complexe]], il inflige 5 points de dégâts plus son modificateur de [[Force]] par [[round]] à l'objet scié. Il faut réussir un test de [[Perception]] [[DD]] 10 pour entendre quelqu'un scier. Les scies utilisées pour découper la glace des rivières ont un bout pointu permettant de percer la glace avant de la découper.
 
 
 {s:AE}{s:Reference|Seau}
@@ -2019,81 +2019,81 @@ Le seau standard a une poignée de corde et peut contenir entre 4,5 et 9 litres 
 
 {s:AE}{s:Reference|Sentinelle factice}
 #### Sentinelle factice
-**Prix** 30 po ; **Poids** 17,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 30 po ; **Poids** 17,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Après 5 minutes d'assemblage et d'habillage avec un large capuchon et un vêtement ample livrés avec, cette armature en bois ressemble à une silhouette humanoïde en train de monter la garde. Les créatures situées à plus de 9 mètres doivent réussir un test de [Perception](./Perception.md) [DD](./DD.md) 10 pour réaliser qu'il ne s'agit pas d'une véritable sentinelle.
+Après 5 minutes d'assemblage et d'habillage avec un large capuchon et un vêtement ample livrés avec, cette armature en bois ressemble à une silhouette humanoïde en train de monter la garde. Les créatures situées à plus de 9 mètres doivent réussir un test de [[Perception]] [[DD]] 10 pour réaliser qu'il ne s'agit pas d'une véritable sentinelle.
 
 
 {s:AE}{s:Reference|Sextant}
 #### Sextant
 **Prix** 500 po ; **Poids** 1 kg
 ---
-Le sextant sert à déterminer la latitude. En conjonction avec un [astrolabe](./Astrolabe (objet).md), il donne au personnage un bonus de circonstances de +4 aux tests de [Survie](./Survie.md) pour ne pas se perdre.
+Le sextant sert à déterminer la latitude. En conjonction avec un [[Astrolabe (objet)|astrolabe]], il donne au personnage un bonus de circonstances de +4 aux tests de [[Survie]] pour ne pas se perdre.
 
 
 {s:AE}{s:Reference|Sifflet}
 #### Sifflet
 **Prix** 8 pa (ordinaire), 9 pa (à ultrasons) ; **Poids** — (ordinaire), — (à ultrasons)
 ---
-Avec un test de [Représentation](./Représentation.md) (instruments à vent) [DD](./DD.md) 5, le personnage peut utiliser un sifflet pour envoyer les mêmes signaux qu'avec un cor. Le signal perçant du sifflet s'entend facilement ([Perception](./Perception.md) DD 0) dans un rayon de 400 mètres. Pour chaque tranche de 400 mètres au-delà de cette zone, les tests de [Perception](./Perception.md) pour entendre un sifflet reçoivent un malus de -2. Il existe également des sifflets à ultrasons que seuls les animaux et d'autres créatures à l'ouïe fine peuvent entendre.
+Avec un test de [[Représentation]] (instruments à vent) [[DD]] 5, le personnage peut utiliser un sifflet pour envoyer les mêmes signaux qu'avec un cor. Le signal perçant du sifflet s'entend facilement ([[Perception]] DD 0) dans un rayon de 400 mètres. Pour chaque tranche de 400 mètres au-delà de cette zone, les tests de [[Perception]] pour entendre un sifflet reçoivent un malus de -2. Il existe également des sifflets à ultrasons que seuls les animaux et d'autres créatures à l'ouïe fine peuvent entendre.
 
 
 {s:racial|Kobold (race)|kobolds|Illustrations/PNJ/Kobold.jpg}{s:MR}{s:Reference|Sifflet des grottes}
 #### Sifflet des grottes
 **Prix** 20 po ; **Poids** —
 ---
-Créé à partir du pied fongique d'un champignon rare, ce sifflet produit un son que seuls les [kobolds](./Kobold (race).md) et les dragons peuvent entendre. Les kobolds créent souvent des codes compliqués composés de notes qu'ils utilisent pour coordonner leurs embuscades et leurs attaques.
+Créé à partir du pied fongique d'un champignon rare, ce sifflet produit un son que seuls les [[Kobold (race)|kobolds]] et les dragons peuvent entendre. Les kobolds créent souvent des codes compliqués composés de notes qu'ils utilisent pour coordonner leurs embuscades et leurs attaques.
 
 
 {s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}{s:Reference|Sifflet du shérif}
 #### Sifflet du shérif
 **Prix** 1 po ; **Poids** —
 ---
-Le sifflet du shérif sert généralement aux [rôdeurs](./Rôdeur.md) et aux prévôts gnomes. Il émet un son aigu que l'on entend facilement à 300 mètres de distance, dans des conditions normales. En revanche, sa fréquence est si haute que les [blaireaux](./Blaireau (objet).md), les [chiens](./Chien (objet).md) et les [gnomes](./Gnome.md) sont les seuls à l'entendre.
+Le sifflet du shérif sert généralement aux [[Rôdeur|rôdeurs]] et aux prévôts gnomes. Il émet un son aigu que l'on entend facilement à 300 mètres de distance, dans des conditions normales. En revanche, sa fréquence est si haute que les [[Blaireau (objet)|blaireaux]], les [[Chien (objet)|chiens]] et les [[Gnome|gnomes]] sont les seuls à l'entendre.
 
 
 {s:AE}{s:Reference|Silex et amorce}
 #### Silex et amorce
 **Prix** 1 po ; **Poids** —
 ---
-Il faut une [action complexe](./Action complexe.md) pour allumer une [torche](./Torche (objet).md) avec un silex et une amorce. Il faut au moins autant de temps pour allumer tout autre feu de cette manière.
+Il faut une [[action complexe]] pour allumer une [[Torche (objet)|torche]] avec un silex et une amorce. Il faut au moins autant de temps pour allumer tout autre feu de cette manière.
 
 
 {s:AE}{s:Reference|Symbole sacré}
 #### Symbole sacré
 **Prix** 1 po (en bois), 5 po (en fer), 25 po (en argent), 100 po (en or), 500 po (en platine) ; **Poids** — (en bois), 0,5 kg (en fer), 0,5 kg (en argent), 0,5 kg (en or), 0,5 kg (en platine)
 ---
-Un symbole sacré permet de concentrer l'énergie positive. Il sert aux [prêtres](./Prêtre.md) et aux [paladins](./Paladin.md) d'alignement Bon (ou aux prêtres d'alignement Neutre qui veulent lancer des sorts d'alignement Bon ou canaliser l'énergie positive). Chaque religion a son propre symbole. Le matériau utilisé pour fabriquer le symbole sacré n'a aucun effet sur ses pouvoirs mais il arrive que certains matériaux aient une signification particulière pour certaines religions.  
+Un symbole sacré permet de concentrer l'énergie positive. Il sert aux [[Prêtre|prêtres]] et aux [[Paladin|paladins]] d'alignement Bon (ou aux prêtres d'alignement Neutre qui veulent lancer des sorts d'alignement Bon ou canaliser l'énergie positive). Chaque religion a son propre symbole. Le matériau utilisé pour fabriquer le symbole sacré n'a aucun effet sur ses pouvoirs mais il arrive que certains matériaux aient une signification particulière pour certaines religions.  
   
-*Symboles maudits.* Un symbole maudit équivaut à un symbole sacré, à la seule différence qu'il concentre l'énergie négative et sert aux [prêtres](./Prêtre.md) d'alignement Mauvais (ou aux prêtres d'alignement Neutre qui veulent lancer des sorts d'alignement Mauvais ou canaliser l'énergie négative).
+*Symboles maudits.* Un symbole maudit équivaut à un symbole sacré, à la seule différence qu'il concentre l'énergie négative et sert aux [[Prêtre|prêtres]] d'alignement Mauvais (ou aux prêtres d'alignement Neutre qui veulent lancer des sorts d'alignement Mauvais ou canaliser l'énergie négative).
 
 
 {s:AE}{s:Reference|Symbole sacré compartiment}
 #### Symbole sacré compartiment
 **Prix** +5 po ; **Poids** —
 ---
-Conçue et approuvée par un membre de la religion concernée, cette modification intègre un compartiment secret au [symbole sacré](./Symbole sacré (objet).md), afin d'y cacher une fiole de [potion](./Potions magiques.md). Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 20 pour repérer le compartiment.
+Conçue et approuvée par un membre de la religion concernée, cette modification intègre un compartiment secret au [[Symbole sacré (objet)|symbole sacré]], afin d'y cacher une fiole de [[Potions magiques|potion]]. Il faut réussir un test de [[Perception]] [[DD]] 20 pour repérer le compartiment.
 
 
 {s:AE}{s:Reference|Symbole sacré flasque}
 #### Symbole sacré flasque
 **Prix** +10 po ; **Poids** —
 ---
-Il s'agit d'une variante démesurée du symbole sacré standard accueillant un compartiment hermétique qui peut contenir jusqu'à 0,5 litre de liquide (le même volume qu'une [flasque normale](./Flasque (objet).md) d'[eau bénite](./Eau bénite (objet).md)). Les aventuriers utilisent généralement ce contenant pour conserver de l'alcool ou de l'eau bénite. Une flasque sacrée n'est pas prévue pour être lancée sur des ennemis et n'est pas aussi fragile qu'une flasque ordinaire ou qu'une fiole. Pour utiliser l'eau bénite, il faut procéder comme pour asperger un adversaire intangible : débucher la fiole et verser son contenu sur une cible adjacente. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 10 pour repérer le compartiment.
+Il s'agit d'une variante démesurée du symbole sacré standard accueillant un compartiment hermétique qui peut contenir jusqu'à 0,5 litre de liquide (le même volume qu'une [[Flasque (objet)|flasque normale]] d'[[Eau bénite (objet)|eau bénite]]). Les aventuriers utilisent généralement ce contenant pour conserver de l'alcool ou de l'eau bénite. Une flasque sacrée n'est pas prévue pour être lancée sur des ennemis et n'est pas aussi fragile qu'une flasque ordinaire ou qu'une fiole. Pour utiliser l'eau bénite, il faut procéder comme pour asperger un adversaire intangible : débucher la fiole et verser son contenu sur une cible adjacente. Il faut réussir un test de [[Perception]] [[DD]] 10 pour repérer le compartiment.
 
 
 {s:AE}{s:Reference|Table pliante}
 #### Table pliante
 **Prix** 10 po ; **Poids** 10 kg
 ---
-Cette table en bois est pourvue de pieds articulés et d'une charnière en son milieu. Lorsqu'elle est complètement dépliée, elle fait 60 centimètres sur 1,20 mètre, mais repliée, elle ne fait plus que 60 centimètres sur 60 centimètres sur 5 centimètres. Il faut une [action complexe](./Action complexe.md) pour installer une table pliante et 2 [actions complexes](./Action complexe.md) pour la replier.
+Cette table en bois est pourvue de pieds articulés et d'une charnière en son milieu. Lorsqu'elle est complètement dépliée, elle fait 60 centimètres sur 1,20 mètre, mais repliée, elle ne fait plus que 60 centimètres sur 60 centimètres sur 5 centimètres. Il faut une [[action complexe]] pour installer une table pliante et 2 [[action complexe|actions complexes]] pour la replier.
 
 
 {s:cs}{s:UI}{s:Reference|Talon casse-tête}
 #### Talon casse-tête
 **Prix** variable ; **Poids** —
 ---
-Utilisé pour remplacer le talon et la semelle d'une chaussure ou d'une botte, le talon casse-tête peut être utilisé pour cacher des objets afin de pouvoir les récupérer en cas de besoin. Pour ouvrir le petit compartiment à l'intérieur d'un talon casse-tête, le personnage doit appuyer, tourner et tordre le talon et la semelle selon un schéma particulier. La complexité accrue d'un talon casse-tête confère un bonus de circonstances aux tests d'[Escamotage](./Escamotage.md) pour dissimuler des objets, en fonction de la complexité du processus d'ouverture. Pour ouvrir le talon sans connaître la séquence, il faut réussir un test de [Sabotage](./Sabotage.md). Le volume d'un compartiment de talon casse-tête est d'environ 80 centimètres cubes.  
+Utilisé pour remplacer le talon et la semelle d'une chaussure ou d'une botte, le talon casse-tête peut être utilisé pour cacher des objets afin de pouvoir les récupérer en cas de besoin. Pour ouvrir le petit compartiment à l'intérieur d'un talon casse-tête, le personnage doit appuyer, tourner et tordre le talon et la semelle selon un schéma particulier. La complexité accrue d'un talon casse-tête confère un bonus de circonstances aux tests d'[[Escamotage]] pour dissimuler des objets, en fonction de la complexité du processus d'ouverture. Pour ouvrir le talon sans connaître la séquence, il faut réussir un test de [[Sabotage]]. Le volume d'un compartiment de talon casse-tête est d'environ 80 centimètres cubes.  
   
 <table class="tablo centre autoalt"><tbody><tr class="titre"><td>Complexité</td><td>Prix</td><td>Escamotage</td><td>Sabotage</td></tr><tr class="premier"><td>3 étapes</td><td>20 po</td><td>+4</td><td>20</td></tr><tr><td>4 étapes</td><td>40 po</td><td>+6</td><td>25</td></tr><tr><td>5 étapes</td><td>80 po</td><td>+8</td><td>30</td></tr></tbody></table>
 
@@ -2109,21 +2109,21 @@ Le prix d'un tatouage dépend de sa qualité, de sa taille et du nombre de coule
 #### Tatouage sacré
 **Prix** 100 po ; **Poids** —
 ---
-Dans certaines religions, le personnage est autorisé à se faire tatouer ou apposer la marque du symbole sacré de sa divinité sur la peau (généralement sur la paume, sur le dos de la main ou sur l'avant bras) lors d'une cérémonie spéciale. Après cela, le tatouage fonctionne comme un vrai [symbole sacré](./Symbole sacré (objet).md) de sa foi. Le personnage peut l'utiliser comme focalisateur divin pour lancer ses sorts, canaliser l'énergie, etc. Le tatouage doit être complètement visible pour être utilisé de cette façon (il ne doit pas être recouvert d'un gant, d'un gantelet ou d'une pièce d'équipement). Le prix indiqué vaut pour une marque simple ou un tatouage à l'encre noire permanente. Si le personnage souhaite quelque chose de plus élaboré, il doit payer un supplément adapté. Si le symbole apposé est endommagé ou effacé, le personnage ne peut plus l'utiliser comme un vrai symbole sacré.
+Dans certaines religions, le personnage est autorisé à se faire tatouer ou apposer la marque du symbole sacré de sa divinité sur la peau (généralement sur la paume, sur le dos de la main ou sur l'avant bras) lors d'une cérémonie spéciale. Après cela, le tatouage fonctionne comme un vrai [[Symbole sacré (objet)|symbole sacré]] de sa foi. Le personnage peut l'utiliser comme focalisateur divin pour lancer ses sorts, canaliser l'énergie, etc. Le tatouage doit être complètement visible pour être utilisé de cette façon (il ne doit pas être recouvert d'un gant, d'un gantelet ou d'une pièce d'équipement). Le prix indiqué vaut pour une marque simple ou un tatouage à l'encre noire permanente. Si le personnage souhaite quelque chose de plus élaboré, il doit payer un supplément adapté. Si le symbole apposé est endommagé ou effacé, le personnage ne peut plus l'utiliser comme un vrai symbole sacré.
 
 
 {s:AE}{s:Reference|Tente}
 #### Tente
-**Prix** 10 po (taille P), 15 po (taille M), 30 po (taille G), 100 po (pavillon) ; **Poids** 10 kg (taille P), 15 kg (taille M), 20 kg (taille G), 25 kg (pavillon)<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 10 po (taille P), 15 po (taille M), 30 po (taille G), 100 po (pavillon) ; **Poids** 10 kg (taille P), 15 kg (taille M), 20 kg (taille G), 25 kg (pavillon)<sup>[[Équipement daventurier#1|1]]</sup>
 ---
 Les tentes existent en différentes tailles et peuvent accueillir de 1 à 10 personnes. Une tente de taille P accueille 1 créature de taille M et prend 20 minutes à monter, une tente de taille M accueille deux créatures et prend 30 minutes à monter, une tente de taille G accueille quatre créatures et prend 45 minutes à monter et un pavillon accueille 10 créatures et prend 90 minutes à monter (deux créatures de taille P comptent comme une créature de taille M et une créature de taille G compte comme deux créatures de taille M). Les pavillons sont suffisamment grands pour faire un petit feu au centre. Il faut moitié moins de temps pour remballer une tente que pour la monter.
 
 
 {s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}{s:MR}{s:Reference|Tente suspendue}
 #### Tente suspendue
-**Prix** 20 po ; **Poids** 7,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 20 po ; **Poids** 7,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-La tente suspendue est un abri de petite taille en forme de goutte d'eau (capable d'accueillir une créature de taille M). Elle est munie d'une solide corde pour la suspendre à une branche d'arbre, un [grappin](./Grappin (objet).md) ou même un [piton](./Piton (objet).md) planté dans la paroi d'une falaise. Ces tentes servent surtout dans les zones montagneuses, où il est très difficile de trouver une surface plane pour monter le camp, et dans les marais où le sol sec est si rare. Pour monter dans une tente suspendue ou en descendre, il faut réussir une [action complexe](./Action complexe.md) qui nécessite un test d'[Escalade](./Escalade.md) [DD](./DD.md) 10. En cas d'échec, il faut faire une nouvelle tentative, mais, si le personnage rate le test de 5 ou plus, il tombe de la tente.
+La tente suspendue est un abri de petite taille en forme de goutte d'eau (capable d'accueillir une créature de taille M). Elle est munie d'une solide corde pour la suspendre à une branche d'arbre, un [[Grappin (objet)|grappin]] ou même un [[Piton (objet)|piton]] planté dans la paroi d'une falaise. Ces tentes servent surtout dans les zones montagneuses, où il est très difficile de trouver une surface plane pour monter le camp, et dans les marais où le sol sec est si rare. Pour monter dans une tente suspendue ou en descendre, il faut réussir une [[action complexe]] qui nécessite un test d'[[Escalade]] [[DD]] 10. En cas d'échec, il faut faire une nouvelle tentative, mais, si le personnage rate le test de 5 ou plus, il tombe de la tente.
 
 
 {s:AE}{s:Reference|Texte sacré}
@@ -2137,7 +2137,7 @@ Il s'agit d'un texte religieux relatif à une religion en particulier, avec un t
 #### Théière
 **Prix** 1 pa ; **Poids** 0,5 kg
 ---
-Il s'agit d'un petit pot à bec verseur pour préparer le thé. Il inclut un couvercle et une passoire et permet de faire 4 [tasses de thé](./Thé (objet).md) à la fois.
+Il s'agit d'un petit pot à bec verseur pour préparer le thé. Il inclut un couvercle et une passoire et permet de faire 4 [[Thé (objet)|tasses de thé]] à la fois.
 
 
 {s:AE}{s:Reference|Toile}
@@ -2151,11 +2151,11 @@ Cette toile de tissu épais convient pour la peinture, pour recouvrir des objets
 #### Toile de camouflage
 **Prix** 20 po ; **Poids** 2,5 kg
 ---
-Ce maillage fait de ficelle et de tissu bigarré est utilisé pour camoufler la présence de créatures ou de gros objets. La toile de camouflage est spécialement conçue pour servir de camouflage dans un seul type d'environnement, comme la neige, le sable, la forêt, l'herbe, les marais, la ville ou l'eau. Lorsqu'un personnage se cache sous une toile de camouflage dans l'environnement correspondant, il gagne un bonus de circonstances de +4 à ses tests de [Discrétion](./Discrétion.md) tant qu'il reste immobile et allongé. Il faut dépenser une [action complexe](./Action complexe.md) requérant un test de [Survie](./Survie.md) [DD](./DD.md) 10 pour déployer une toile de camouflage (en cas d'échec, le personnage ne se recouvre pas correctement et ne bénéfice pas du bonus aux tests de [Discrétion](./Discrétion.md)). Le personnage est considéré comme [enchevêtré](./Enchevêtré.md) quand il utilise une toile de camouflage, à la seule différence que son malus de [Dextérité](./Dextérité.md) n'affecte pas son [initiative](./initiative.md) ni ses tests de Discrétion. Il faut une [action de mouvement](./Action de mouvement.md) pour retirer une toile de camouflage ou une [action rapide](./Action rapide.md) si elle est combinée à une action de mouvement pour se relever à partir d'une position allongée.  
+Ce maillage fait de ficelle et de tissu bigarré est utilisé pour camoufler la présence de créatures ou de gros objets. La toile de camouflage est spécialement conçue pour servir de camouflage dans un seul type d'environnement, comme la neige, le sable, la forêt, l'herbe, les marais, la ville ou l'eau. Lorsqu'un personnage se cache sous une toile de camouflage dans l'environnement correspondant, il gagne un bonus de circonstances de +4 à ses tests de [[Discrétion]] tant qu'il reste immobile et allongé. Il faut dépenser une [[action complexe]] requérant un test de [[Survie]] [[DD]] 10 pour déployer une toile de camouflage (en cas d'échec, le personnage ne se recouvre pas correctement et ne bénéfice pas du bonus aux tests de [[Discrétion]]). Le personnage est considéré comme [[enchevêtré]] quand il utilise une toile de camouflage, à la seule différence que son malus de [[Dextérité]] n'affecte pas son [[initiative]] ni ses tests de Discrétion. Il faut une [[action de mouvement]] pour retirer une toile de camouflage ou une [[action rapide]] si elle est combinée à une action de mouvement pour se relever à partir d'une position allongée.  
   
-Le personnage peut passer 1 minute à couvrir un objet d'une toile de camouflage. Il effectue un test de [Survie](./Survie.md) avec un malus de -10 et utilise le résultat total comme résultat du test de Discrétion de l'objet. Les créatures qui ratent un test de [Perception](./Perception.md) contre ce DD de Discrétion ne reconnaissent pas l'objet dont il s'agit et le traitent généralement comme partie intégrante de l'environnement. Par exemple, le personnage peut faire passer un wagon pour un rocher ou des broussailles. Il faut deux toiles de camouflage pour couvrir un objet de taille G. Il faut cinq toiles de camouflage pour couvrir un objet de taille TG ou Gig, ainsi que 10 minutes de travail, et le malus du test de [Survie](./Survie.md) est de -20 au lieu de -10.Le camouflage d'un objet de taille Col dépend de sa forme mais nécessite généralement un minimum de 10 toiles de camouflage et prend 1 heure de travail. Le malus du test de [Survie](./Survie.md) est de -30 au lieu de -10.  
+Le personnage peut passer 1 minute à couvrir un objet d'une toile de camouflage. Il effectue un test de [[Survie]] avec un malus de -10 et utilise le résultat total comme résultat du test de Discrétion de l'objet. Les créatures qui ratent un test de [[Perception]] contre ce DD de Discrétion ne reconnaissent pas l'objet dont il s'agit et le traitent généralement comme partie intégrante de l'environnement. Par exemple, le personnage peut faire passer un wagon pour un rocher ou des broussailles. Il faut deux toiles de camouflage pour couvrir un objet de taille G. Il faut cinq toiles de camouflage pour couvrir un objet de taille TG ou Gig, ainsi que 10 minutes de travail, et le malus du test de [[Survie]] est de -20 au lieu de -10.Le camouflage d'un objet de taille Col dépend de sa forme mais nécessite généralement un minimum de 10 toiles de camouflage et prend 1 heure de travail. Le malus du test de [[Survie]] est de -30 au lieu de -10.  
   
-Une créature ayant la capacité [odorat](./Odorat (capacité).md) ignore les effets de la toile de camouflage et fait des tests contre le résultat du test de Discrétion du personnage lorsque ce dernier est à portée d'odorat. Toute créature située dans un rayon de 3 mètres autour d'un objet de taille G ou plus grand caché par une toile de camouflage comprend de suite qu'il s'agit d'un objet recouvert d'une toile de camouflage.
+Une créature ayant la capacité [[odorat (capacité)|odorat]] ignore les effets de la toile de camouflage et fait des tests contre le résultat du test de Discrétion du personnage lorsque ce dernier est à portée d'odorat. Toute créature située dans un rayon de 3 mètres autour d'un objet de taille G ou plus grand caché par une toile de camouflage comprend de suite qu'il s'agit d'un objet recouvert d'une toile de camouflage.
 
 
 {s:AE}{s:Reference|Tonneau}
@@ -2169,63 +2169,63 @@ Il s'agit d'un solide tonneau en bois ceint des bandes métalliques et pourvu d'
 #### Torche
 **Prix** 1 pc ; **Poids** 0,5 kg
 ---
-Une torche brûle pendant 1 heure, diffusant une [lumière normale](./Exploration.md#VISIONLUMIERE) dans un rayon de 6 mètres et augmentant la luminosité d'une catégorie dans un rayon de 6 mètres au-delà de cette zone (les ténèbres sont transformées en faible lumière, la faible lumière est transformée en lumière normale). Une torche ne permet pas d'augmenter la luminosité dans la lumière normale ou vive. Si une torche est utilisée en combat, traitez-la comme une [arme improvisée](./arme improvisée.md) à une main infligeant un nombre de dégâts contondants égal à ceux d'un [gantelet](./Gantelet (arme).md) de même taille, plus 1 point de dégâts de feu.
+Une torche brûle pendant 1 heure, diffusant une [[Exploration#VISIONLUMIERE|lumière normale]] dans un rayon de 6 mètres et augmentant la luminosité d'une catégorie dans un rayon de 6 mètres au-delà de cette zone (les ténèbres sont transformées en faible lumière, la faible lumière est transformée en lumière normale). Une torche ne permet pas d'augmenter la luminosité dans la lumière normale ou vive. Si une torche est utilisée en combat, traitez-la comme une [[arme improvisée]] à une main infligeant un nombre de dégâts contondants égal à ceux d'un [[gantelet (arme)|gantelet]] de même taille, plus 1 point de dégâts de feu.
 
 
 {s:AE}{s:Reference|Torche éternelle}
 #### Torche éternelle
 **Prix** 110 po ; **Poids** 0,5 kg
 ---
-Cette torche tout à fait normale est sujette à un sort de *[flamme éternelle](./Flamme éternelle.md)*. De ce fait, elle éclaire comme une [torche ordinaire](./Torche (objet).md) mais n'émet pas de chaleur et n'inflige pas de dégâts de feu lorsqu'elle est utilisée comme une arme.
+Cette torche tout à fait normale est sujette à un sort de *[[flamme éternelle]]*. De ce fait, elle éclaire comme une [[Torche (objet)|torche ordinaire]] mais n'émet pas de chaleur et n'inflige pas de dégâts de feu lorsqu'elle est utilisée comme une arme.
 
 
 {s:MCA}{s:Reference|Trampoline pliant}
 #### Trampoline pliant
 **Prix** 50 po ; **Poids** 5 kg
 ---
-Ce trampoline compact se démonte et s'enroule comme une tente pour faciliter le transport. L'installation ou le démontage du trampoline prend 1 minute. Quand deux créatures l'utilisent, le trampoline pliant confère un bonus de +5 à tous les tests d'[Acrobaties](./Acrobaties.md) pour sauter. Si une créature qui tombe atterrit sur le trampoline, elle ignore les dégâts des 3 premiers mètres de [chute](./Dangers naturels.md#CHUTE).
+Ce trampoline compact se démonte et s'enroule comme une tente pour faciliter le transport. L'installation ou le démontage du trampoline prend 1 minute. Quand deux créatures l'utilisent, le trampoline pliant confère un bonus de +5 à tous les tests d'[[Acrobaties]] pour sauter. Si une créature qui tombe atterrit sur le trampoline, elle ignore les dégâts des 3 premiers mètres de [[Dangers naturels#CHUTE|chute]].
 
 
 {s:AO}{s:Reference|Trompette pour esprits}
 #### Trompette pour esprits
 **Prix** 25 po ; **Poids** 0,5 kg
 ---
-Cette trompette télescopique d'une longueur d'un mètre une fois dépliée se compose de plusieurs fines épaisseurs d'étain roulées en cônes concentriques. Principalement utilisées par les médiums frauduleux pour cacher la véritable source des voix mystérieuses qui s'élèvent dans les salles obscurcies où ils organisent leurs séances médiumniques, ces trompettes augmentent de 1 le [DD](./DD.md) des [jets de sauvegarde](./JDS.md) effectués pour dévoiler les effets des sorts de *[son imaginaire](./Son imaginaire.md)* et de *[ventriloquie](./Ventriloquie.md)*. Utilisée pour canaliser une [apparition](./Nouvelles règles sur les apparitions.md) capable de communiquer, une trompette pour esprits double le rythme de la communication et confère à son utilisateur un bonus de circonstances de +4 aux tests de [Linguistique](./Linguistique.md) effectués pour décrypter les messages énigmatiques.
+Cette trompette télescopique d'une longueur d'un mètre une fois dépliée se compose de plusieurs fines épaisseurs d'étain roulées en cônes concentriques. Principalement utilisées par les médiums frauduleux pour cacher la véritable source des voix mystérieuses qui s'élèvent dans les salles obscurcies où ils organisent leurs séances médiumniques, ces trompettes augmentent de 1 le [[DD]] des [[jds|jets de sauvegarde]] effectués pour dévoiler les effets des sorts de *[[son imaginaire]]* et de *[[ventriloquie]]*. Utilisée pour canaliser une [[Nouvelles règles sur les apparitions|apparition]] capable de communiquer, une trompette pour esprits double le rythme de la communication et confère à son utilisateur un bonus de circonstances de +4 aux tests de [[Linguistique]] effectués pour décrypter les messages énigmatiques.
 
 
 {s:AE}{s:Reference|Trousse darmurier}
 #### Trousse d'armurier
 **Prix** 15 po ; **Poids** 1 kg
 ---
-Cette petite trousse comprend tous les outils dont le personnage a besoin pour créer, réparer et restaurer des [armes à feu](./Armes à feu.md), à l'exception des matériaux bruts nécessaires. Sans cette trousse, le personnage ne peut pas fabriquer ou entretenir correctement les armes à feu.
+Cette petite trousse comprend tous les outils dont le personnage a besoin pour créer, réparer et restaurer des [[Armes à feu]], à l'exception des matériaux bruts nécessaires. Sans cette trousse, le personnage ne peut pas fabriquer ou entretenir correctement les armes à feu.
 
 
 {s:AE}{s:Reference|Trousse dentretien déquipement}
 #### Trousse d'entretien d'équipement
 **Prix** 5 po ; **Poids** 1 kg
 ---
-Cette trousse comprend du lustrant à métal, une petite lime, un couteau à parer, une huile d'entretien pour le cuir, deux chiffons doux, des lanières en cuir supplémentaires, une [aiguille à coudre](./Aiguille à coudre (objet).md) et quelques boutons.
+Cette trousse comprend du lustrant à métal, une petite lime, un couteau à parer, une huile d'entretien pour le cuir, deux chiffons doux, des lanières en cuir supplémentaires, une [[Aiguille à coudre (objet)|aiguille à coudre]] et quelques boutons.
 
 
 {s:AE}{s:Reference|Trousse de rasage}
 #### Trousse de rasage
 **Prix** 15 pa ; **Poids** 0,25 kg
 ---
-Cette trousse comprend un rasoir droit, une [pierre à aiguiser](./Pierre à aiguiser (objet).md), un petit miroir, une brosse, une coupe et assez de poudre à raser pour permettre à un humanoïde de taille M de se raser 50 fois.
+Cette trousse comprend un rasoir droit, une [[Pierre à aiguiser (objet)|pierre à aiguiser]], un petit miroir, une brosse, une coupe et assez de poudre à raser pour permettre à un humanoïde de taille M de se raser 50 fois.
 
 
 {s:AE}{s:Reference|Trousse de toilette}
 #### Trousse de toilette
-**Prix** 1 po ; **Poids** 1 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 1 po ; **Poids** 1 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Ce petit sac de produits de toilette comprend un peigne, des ciseaux, une lime à ongles, une éponge, une brosse à cheveux, un miroir de poche, un [savon](./Savon (objet).md), un bâtonnet de souak et un dentifrice.
+Ce petit sac de produits de toilette comprend un peigne, des ciseaux, une lime à ongles, une éponge, une brosse à cheveux, un miroir de poche, un [[Savon (objet)|savon]], un bâtonnet de souak et un dentifrice.
 
 
 {s:AE}{s:Reference|Tuba}
 #### Tuba
 **Prix** 5 pa (standard), 5 po (de maître) ; **Poids** — (standard), — (de maître)
 ---
-L'une des extrémités de ce tube en bois étanche est recourbée et pourvue d'un embout pour la bouche. Lorsque le personnage place l'embout dans la bouche, le tube se prolonge vers l'arrière de sa tête, ce qui lui permet de respirer indéfiniment lorsqu'il nage face vers le fond, juste sous la surface. Si le personnage immerge le bout libre du tuba, il se remplit d'eau et ne permet plus de respirer tant qu'il n'a pas été vidé de son eau (ce qui nécessite une [action de mouvement](./Action de mouvement.md) et un accès à l'air libre). Un tuba fait généralement 38 centimètres de long, s'il est moins long, il se remplit généralement d'eau lorsque le personnage est sous l'eau, mais s'il est plus long, le personnage ne fait pas circuler suffisamment d'air frais pour que le tuba soit efficace.  
+L'une des extrémités de ce tube en bois étanche est recourbée et pourvue d'un embout pour la bouche. Lorsque le personnage place l'embout dans la bouche, le tube se prolonge vers l'arrière de sa tête, ce qui lui permet de respirer indéfiniment lorsqu'il nage face vers le fond, juste sous la surface. Si le personnage immerge le bout libre du tuba, il se remplit d'eau et ne permet plus de respirer tant qu'il n'a pas été vidé de son eau (ce qui nécessite une [[action de mouvement]] et un accès à l'air libre). Un tuba fait généralement 38 centimètres de long, s'il est moins long, il se remplit généralement d'eau lorsque le personnage est sous l'eau, mais s'il est plus long, le personnage ne fait pas circuler suffisamment d'air frais pour que le tuba soit efficace.  
   
 *Tuba de maître.* Le tuba de maître est pourvu d'une valve à son sommet pour empêcher l'eau d'y entrer et protégeant le personnage des éclaboussures ou lorsqu'il plonge. Il comporte également une purge et une valve au niveau de la bouche, empêchant l'eau d'atteindre la bouche et drainant automatiquement l'excès d'eau lorsque le personnage refait surface.
 
@@ -2234,27 +2234,27 @@ L'une des extrémités de ce tube en bois étanche est recourbée et pourvue d'u
 #### Tube de codage
 **Prix** 1 pa ; **Poids** 0,5 kg
 ---
-En apparence, cet outil n'est rien d'autre qu'une simple tige, comme un goujon, bien qu'il puisse être fabriqué sous la forme de n'importe quel objet cylindrique, comme une canne ou un bâton de marche, une tringle à rideau, un [étui à parchemins](./Étui à parchemins (objet).md), un [carillon](./Carillon (objet).md) ou une [sarbacane](./sarbacane (arme).md). La forme la plus simple d'un tube de codage coûte 1 pa et pèse 0,5 kg. S'il a une autre fonction que celle de tube de codage, il utilise le prix et le poids les plus élevés des deux objets. Deux tubes de codage de même circonférence doivent être utilisées par paire pour fonctionner correctement. Le deuxième tube peut être un objet similaire au premier, ou simplement être fabriqué aux mêmes dimensions. Pour utiliser un tube de codage, une longue et étroite bande de papier est enroulée autour de la tige en spirale de manière à ce que le bord du papier touche le circuit précédent à chaque passage, formant ainsi une surface continue. Un message est écrit sur toute la longueur du tube, jusqu'à un caractère par bobine de papier, rangée par rangée, jusqu'à ce que le papier soit plein. Une fois le message terminé, la bande de papier est déroulée, rendant le message indéchiffrable. Elle peut alors être pliée et envoyée au destinataire, qui l'enroule autour du tube jumeau et peut alors lire le message. L'utilisateur peut écrire en langage clair ou coder davantage le message. Une personne qui intercepte le message, si elle reconnaît l'utilisation d'un tube de codage, peut essayer de trouver un autre tube de circonférence similaire, en utilisant la compétence [Linguistique](./Linguistique.md) pour déchiffrer le message inscrit.
+En apparence, cet outil n'est rien d'autre qu'une simple tige, comme un goujon, bien qu'il puisse être fabriqué sous la forme de n'importe quel objet cylindrique, comme une canne ou un bâton de marche, une tringle à rideau, un [[Étui à parchemins (objet)|étui à parchemins]], un [[Carillon (objet)|carillon]] ou une [[Sarbacane (arme)|sarbacane]]. La forme la plus simple d'un tube de codage coûte 1 pa et pèse 0,5 kg. S'il a une autre fonction que celle de tube de codage, il utilise le prix et le poids les plus élevés des deux objets. Deux tubes de codage de même circonférence doivent être utilisées par paire pour fonctionner correctement. Le deuxième tube peut être un objet similaire au premier, ou simplement être fabriqué aux mêmes dimensions. Pour utiliser un tube de codage, une longue et étroite bande de papier est enroulée autour de la tige en spirale de manière à ce que le bord du papier touche le circuit précédent à chaque passage, formant ainsi une surface continue. Un message est écrit sur toute la longueur du tube, jusqu'à un caractère par bobine de papier, rangée par rangée, jusqu'à ce que le papier soit plein. Une fois le message terminé, la bande de papier est déroulée, rendant le message indéchiffrable. Elle peut alors être pliée et envoyée au destinataire, qui l'enroule autour du tube jumeau et peut alors lire le message. L'utilisateur peut écrire en langage clair ou coder davantage le message. Une personne qui intercepte le message, si elle reconnaît l'utilisation d'un tube de codage, peut essayer de trouver un autre tube de circonférence similaire, en utilisant la compétence [[Linguistique]] pour déchiffrer le message inscrit.
 
 
 {s:MCA}{s:Reference|Veste en liège}
 #### Veste en liège
-**Prix** 25 po ; **Poids** 0,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
+**Prix** 25 po ; **Poids** 0,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
 ---
-Le tissu de cette veste contient des poches tapissées de liège qui offrent plus de flottabilité au porteur. Traditionnellement portée par les pêcheurs et les marins, elle protège contre la noyade. Lorsque le personnage porte une veste en liège, il reçoit un malus de -2 aux tests de [Dextérité](./Dextérité.md) et de [Natation](./Natation.md) mais, il coule sur un échec de 10 points ou plus en dessous du [DD](./DD.md), au lieu de couler à partir de 5 points en dessous du DD. En outre, il bénéficie d'un bonus de +4 aux tests de Natation pour éviter les dégâts de fatigue. La veste en liège peut être portée sous une armure.
+Le tissu de cette veste contient des poches tapissées de liège qui offrent plus de flottabilité au porteur. Traditionnellement portée par les pêcheurs et les marins, elle protège contre la noyade. Lorsque le personnage porte une veste en liège, il reçoit un malus de -2 aux tests de [[Dextérité]] et de [[Natation]] mais, il coule sur un échec de 10 points ou plus en dessous du [[DD]], au lieu de couler à partir de 5 points en dessous du DD. En outre, il bénéficie d'un bonus de +4 aux tests de Natation pour éviter les dégâts de fatigue. La veste en liège peut être portée sous une armure.
 
 
 {s:AE}{s:Reference|Veste hérisson}
 #### Veste hérisson
 **Prix** 10 po ; **Poids** 2 kg
 ---
-De minces rabats de cuir empêchent les centaines de toutes petites aiguilles, semblables à des [hameçons](./Hameçon (objet).md), qui ornent la surface de cette veste noire, de blesser le personnage lorsqu'il la porte. Si une créature le blesse avec une attaque naturelle ou à mains nues, elle doit réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 15 ou recevoir 1 point de dégâts. Si une créature avale le personnage, elle reçoit 1 point de dégâts tous les [rounds](./round.md) jusqu'à ce qu'elle l'ait recraché, qu'il se soit échappé ou qu'il meurt (auquel cas la veste aura encaissé suffisamment de dégâts pour ne plus constituer une menace). Cette veste ne peut être portée que sur une [armure légère](./armure légère.md) ou sans armure.
+De minces rabats de cuir empêchent les centaines de toutes petites aiguilles, semblables à des [[Hameçon (objet)|hameçons]], qui ornent la surface de cette veste noire, de blesser le personnage lorsqu'il la porte. Si une créature le blesse avec une attaque naturelle ou à mains nues, elle doit réussir un jet de [[Réflexes]] [[DD]] 15 ou recevoir 1 point de dégâts. Si une créature avale le personnage, elle reçoit 1 point de dégâts tous les [[round|rounds]] jusqu'à ce qu'elle l'ait recraché, qu'il se soit échappé ou qu'il meurt (auquel cas la veste aura encaissé suffisamment de dégâts pour ne plus constituer une menace). Cette veste ne peut être portée que sur une [[armure légère]] ou sans armure.
 
 
 {s:cs}{s:UI}{s:Reference|Veste subversive}
 #### Veste subversive
 **Prix** 45 po (veste), 90 po (vêtement) ; **Poids** 0,5 kg (veste), 1 kg (vêtement)
 ---
-Les vestes subversives sont taillées selon les règles de l'art de la mode courtoise, mais possèdent des compartiments stratégiquement placés pour cacher des [outils de cambrioleur](./Outils de cambrioleur (objet).md). Le personnage bénéficie d'un bonus de circonstances de +2 aux tests d'[Escamotage](./Escamotage.md) pour dissimuler des outils de cambrioleur dans une veste subversive.  
+Les vestes subversives sont taillées selon les règles de l'art de la mode courtoise, mais possèdent des compartiments stratégiquement placés pour cacher des [[Outils de cambrioleur (objet)|outils de cambrioleur]]. Le personnage bénéficie d'un bonus de circonstances de +2 aux tests d'[[Escamotage]] pour dissimuler des outils de cambrioleur dans une veste subversive.  
   
-*Vêtement subversif.* Un vêtement subversif est similaire à une veste subversive, mais ressemble à une tenue cléricale et peut contenir plus d'objets. En plus d'[outils de cambrioleur](./Outils de cambrioleur (objet).md), le personnage peut ranger jusqu'à deux flasques de 0,5 L dans des poches spécialement conçues pour dissimuler le volume des objets à la vue de tous, avec le même bonus de circonstances qu'une veste subversive.
+*Vêtement subversif.* Un vêtement subversif est similaire à une veste subversive, mais ressemble à une tenue cléricale et peut contenir plus d'objets. En plus d'[[Outils de cambrioleur (objet)|outils de cambrioleur]], le personnage peut ranger jusqu'à deux flasques de 0,5 L dans des poches spécialement conçues pour dissimuler le volume des objets à la vue de tous, avec le même bonus de circonstances qu'une veste subversive.

@@ -8,7 +8,7 @@ Categories:
 
 {s:Dieu|Iomédae|%2fPCUP%2fReligion-PNG%2fIomedae.png|L'héritière|LB|Courage, commandement, justice et honneur|Paladins, chevaliers, guerriers|Épée longue|Gloire, Bien, Loi, Soleil, Guerre|Archons, Jour, Héroïsme, Honneur, Lumière, Tactique|Conversion, Hérésie, Héroïsme, Justice, Ordre, Persévérance, Vérité}
 *La justice est l'amour guidé par la lumière.*
-Iomédae est la déesse de la justice, du courage et de l'honneur. Ayant été le héraut d'[Aroden](./Aroden.md), elle a récupéré nombres de ses serviteurs azlantes à sa mort. Elle continue de poursuivre ses idéaux d'honneur et de droiture en luttant contre le mal et en défendant le bien.
+Iomédae est la déesse de la justice, du courage et de l'honneur. Ayant été le héraut d'[[Aroden]], elle a récupéré nombres de ses serviteurs azlantes à sa mort. Elle continue de poursuivre ses idéaux d'honneur et de droiture en luttant contre le mal et en défendant le bien.
 
 Iomédae est une divinité Loyale Bonne associée au courage, à la
 justice, à la souveraineté et à l’honneur. Son arme de prédilection
@@ -20,11 +20,11 @@ Loi, du Soleil et de la Guerre. Tous ses hommes de religion sont
 des prêtres ou des paladins, bien que nombre de ses disciples
 soient aussi des rôdeurs qui jouent un rôle important dans son
 église. L’Héritière est le titre principal de la déesse, même si les
-[Chevaliers d’Ozem](./Chevaliers dOzem.md) l’appellent la Lumière de l’Épée.
+[[Chevaliers dOzem|Chevaliers d’Ozem]] l’appellent la Lumière de l’Épée.
 
 ### Histoire
 
-*Lors de son existence mortelle, elle s'est illustrée pendant la [Croisade Étincelante](./Croisade-Étincelante.md). Peu après, elle réussit le test de la [Pierre-Étoile](./Pierre-Étoile.md) et gagna une étincelle de divinité. Elle attira alors l'attention d'[Aroden](./Aroden.md).*
+*Lors de son existence mortelle, elle s'est illustrée pendant la [[Croisade Étincelante]]. Peu après, elle réussit le test de la [[Pierre-Étoile]] et gagna une étincelle de divinité. Elle attira alors l'attention d'[[Aroden]].*
 
 Iomédae (Io-méda-é) est née au Chéliax sous une forme
 mortelle. Paladine d’Arazni, elle est passée au premier
@@ -114,7 +114,7 @@ saints sont les protecteurs d’une église ou d’un ordre militaire
 donné, pouvant alors n’être connus que localement ou des
 érudits religieux. Certains ne répondent qu’aux demandes des
 prêtres qui fréquentent leurs églises ou leurs ordres particuliers.
-Le héraut de Iomédae porte le titre de [Main de l’Héritière](./../Pathfinder-RPG/Main de l’Héritière.md).
+Le héraut de Iomédae porte le titre de [[Pathfinder-RPG.Main de l’Héritière|Main de l’Héritière]].
 Voici quelques-uns des serviteurs surnaturels de
 Iomédae, bien connus, que l’on peut invoquer à l’aide d’un allié
 majeur d’outreplan ou d’autres sorts similaires.
@@ -313,13 +313,13 @@ Il existe de nombreux ordres militaires qui considèrent
 Iomédae comme leur protectrice : la plupart d’entre eux sont
 très actifs au Dernier-Rempart et au Mendev, où on peut
 compter de dix à trois cents chevaliers ou chevaliers-prêtres.
-Le plus connus de ces ordres est celui des [Chevaliers d’Ozem](./Chevaliers dOzem.md),
+Le plus connus de ces ordres est celui des [[Chevaliers dOzem|Chevaliers d’Ozem]],
 qui a combattu et emprisonné le Tyran-qui-murmure et auquel
 Iomédae appartenait lorsqu’elle n’était encore qu’une mortelle.
 
 ### Temples
 
-*Les temples d'Iomédae servent d'église et d'habitat pour les chevaliers saints. Souvent, ils étaient au préalable des temples d'[Aroden](./Aroden.md). Ces bâtiments sont souvent peints en blanc, possèdent de multiples arches, des cours intérieures avec piliers, des fontaines et des statues.*
+*Les temples d'Iomédae servent d'église et d'habitat pour les chevaliers saints. Souvent, ils étaient au préalable des temples d'[[Aroden]]. Ces bâtiments sont souvent peints en blanc, possèdent de multiples arches, des cours intérieures avec piliers, des fontaines et des statues.*
 
 Les temples de Iomédae sont des bâtiments blanchis à la
 chaux qui font également office de tribunaux et d’espace de
@@ -375,7 +375,7 @@ de la Deuxième bataille d’Encarthan de retenir une vague d’âmes en peine. 
 les renforts à l’aube et survivre.
 **Cinquième acte.** Elle châtia Érum-Hel, Seigneur des Morghs,
 à la bataille des Trois Chagrins (durant laquelle le Tyran-quimurmure
-restitua le corps d’Arazni aux [Chevaliers d’Ozem](./Chevaliers dOzem.md)) et le
+restitua le corps d’Arazni aux [[Chevaliers dOzem|Chevaliers d’Ozem]]) et le
 força à fuir jusqu’en Orv, estropié.
 **Sixième acte.** Après que le Tyran-qui-murmure eut utilisé sa
 magie pour briser l’épée de la déesse, Iomédae en fusionna les
@@ -406,7 +406,7 @@ sa simple cape de laine devant elle. Celle-ci s’étendit et s’allongea
 pour former un sentier solide qui enjambait le vide et lui permit
 d’entrer dans la Cathédrale pour y passer le Test.
 </div></div>
-*Ils sont regroupés dans les Actes de Iomédae. Ils retracent les miracles accomplis autrefois par Iomédae dans tout le [Garund](./Garund.md) et l'[Avistan](./Avistan.md) quand elle était au service d'[Aroden](./Aroden.md).*
+*Ils sont regroupés dans les Actes de Iomédae. Ils retracent les miracles accomplis autrefois par Iomédae dans tout le [[Garund]] et l'[[Avistan]] quand elle était au service d'[[Aroden]].*
 
 #### Le texte sacré
 
@@ -530,14 +530,14 @@ iomédéen comme témoin à ses côtés lors d’un procès.
 
 ### Les relations avec les autres religions
 
-Iomédae s’entend bien avec [Abadar](./Abadar.md), [Cayden Cailéan](./Cayden Cailéan.md), [Érastil](./Érastil.md),
-[Sarenrae](./Sarenrae.md), [Shélyn](./Shélyn.md) et [Torag](./Torag.md), qui possèdent des intérêts
+Iomédae s’entend bien avec [[Abadar]], [[Cayden Cailéan]], [[Érastil]],
+[[Sarenrae]], [[Shélyn]] et [[Torag]], qui possèdent des intérêts
 complémentaires ou parallèles aux siens. Elle ne traite pas avec
 les fiélons de quelque statut que ce soit, a très peu de contacts avec
 les divinités maléfiques et fait appel aux Seigneurs empyréens
 quand elle le peut, bien qu’elle cède la priorité à Sarenrae quand
 la déesse, plus ancienne, en a un besoin plus urgent. Iomédae
-ressent une tendresse particulière pour [Milani](./Milani.md), qu’elle considère comme une
+ressent une tendresse particulière pour [[Milani]], qu’elle considère comme une
 soeur, et elle est toujours prête à soutenir le Bourgeon éternel
 quand vient le temps d’agir. Elle est indifférente à toutes les
 autres divinités, espérant, par son exemple, les pousser à réaliser
@@ -545,8 +545,8 @@ de hauts-faits mais ne mettant pas ses plans de côté pour cela.
 
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [second volume](./../Aventures/Présentation AP5.md#AP5-2) de la cinquième campagne, [Le Conseil des Voleurs](./../Aventures/Présentation AP5.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP5#AP5-2|second volume]] de la cinquième campagne, [[Aventures.Présentation AP5|Le Conseil des Voleurs]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

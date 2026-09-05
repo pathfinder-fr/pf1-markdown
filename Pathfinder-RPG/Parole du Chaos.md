@@ -10,19 +10,19 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[chaos](./Registre.md), [son](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 6, [Prê](./Prêtre.md) 7  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|chaos]], [[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 6, [[prêtre|Prê]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
 **Portée** 12 m  
 
-**Zone d'effet** créatures non-Chaotiques situées dans une [étendue](./étendue.md) de 12 m de rayon centrée sur le prêtre  
+**Zone d'effet** créatures non-Chaotiques situées dans une [[étendue]] de 12 m de rayon centrée sur le prêtre  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** aucun ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
+**Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
 Toutes les créatures non-Chaotiques situées dans la zone de la *parole du Chaos* et qui l’entendent sont victimes des effets suivants.
 
@@ -32,30 +32,30 @@ Toutes les créatures non-Chaotiques situées dans la zone de la *parole du Chao
 |- CLASS="titre"
 | DV || Effet
 |- CLASS="premier"
-| Égaux au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) || Assourdissement
+| Égaux au [[niveau de lanceur de sorts]] || Assourdissement
 |- CLASS="alt"
-| Jusqu’au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) -1 || Assourdissement, étourdissement
+| Jusqu’au [[niveau de lanceur de sorts]] -1 || Assourdissement, étourdissement
 |-
-| Jusqu’au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) -5  || Assourdissement, confusion, étourdissement
+| Jusqu’au [[niveau de lanceur de sorts]] -5  || Assourdissement, confusion, étourdissement
 |- CLASS="alt"
-| Jusqu’au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) -10 || Assourdissement, confusion, étourdissement, mort
+| Jusqu’au [[niveau de lanceur de sorts]] -10 || Assourdissement, confusion, étourdissement, mort
 |}
 </center>
 
-Les effets sont cumulatifs et simultanés. Un jet de [Volonté](./Volonté.md) permet de réduire ou d’annuler les effets néfastes. Les créatures affectées par plusieurs effets font un unique [jet de sauvegarde](./jet de sauvegarde.md) qu’elles appliquent à tous.
+Les effets sont cumulatifs et simultanés. Un jet de [[Volonté]] permet de réduire ou d’annuler les effets néfastes. Les créatures affectées par plusieurs effets font un unique [[jet de sauvegarde]] qu’elles appliquent à tous.
 
-**Assourdissement :** la créature est [assourdie](./Assourdi.md) pendant 1d4 [rounds](./round.md). [Jet de sauvegarde](./jet de sauvegarde.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE).
+**Assourdissement :** la créature est [[assourdi|assourdie]] pendant 1d4 [[round|rounds]]. [[Jet de sauvegarde]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]].
 
-**Confusion :** la créature est plongée dans la plus totale [confusion](./Confusion.md) pendant 1d10 minutes. Il s’agit là d’un [enchantement](./Enchantement.md) [mental](./Registre.md). [Jet de sauvegarde](./jet de sauvegarde.md) pour réduire la durée à 1 [round](./round.md).
+**Confusion :** la créature est plongée dans la plus totale [[confusion]] pendant 1d10 minutes. Il s’agit là d’un [[enchantement]] [[registre|mental]]. [[Jet de sauvegarde]] pour réduire la durée à 1 [[round]].
 
-**Étourdissement :** la créature est [étourdie](./Étourdi.md) pendant 1 [round](./round.md). [Jet de sauvegarde](./jet de sauvegarde.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE)
+**Étourdissement :** la créature est [[étourdi|étourdie]] pendant 1 [[round]]. [[Jet de sauvegarde]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]
 
-**Mort :** la créature meurt sur-le-champ. S’il s’agit d’un [mort-vivant](./type Mort-vivant.md), celui-ci est détruit. [Jet de sauvegarde](./jet de sauvegarde.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE). En cas de réussite, la victime subit seulement 3d6 points de dégâts +1 par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) (maximum +25).
+**Mort :** la créature meurt sur-le-champ. S’il s’agit d’un [[type mort-vivant|mort-vivant]], celui-ci est détruit. [[Jet de sauvegarde]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]. En cas de réussite, la victime subit seulement 3d6 points de dégâts +1 par [[niveau de lanceur de sorts]] (maximum +25).
 
-De plus, si le [prêtre](./Prêtre.md) prononce l’incantation dans son plan d’origine, toutes les créatures extraplanaires d’[alignement](./Alignement.md) autre que Chaotique comprises dans la [zone d’effet](./zone deffet.md) sont immédiatement renvoyées dans leur plan d’origine. Une fois bannies de la sorte, elles ne peuvent pas revenir avant vingt-quatre heures. Cet effet se produit même si les entités n’entendent pas la *parole du Chaos*. Pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) le bannissement, elles doivent réussir un jet de [Volonté](./Volonté.md) (avec un malus de -4).
+De plus, si le [[prêtre]] prononce l’incantation dans son plan d’origine, toutes les créatures extraplanaires d’[[alignement]] autre que Chaotique comprises dans la [[zone deffet|zone d’effet]] sont immédiatement renvoyées dans leur plan d’origine. Une fois bannies de la sorte, elles ne peuvent pas revenir avant vingt-quatre heures. Cet effet se produit même si les entités n’entendent pas la *parole du Chaos*. Pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] le bannissement, elles doivent réussir un jet de [[Volonté]] (avec un malus de -4).
 
-Les créatures dont le nombre de [DV](./../Ressources/DV.md) est supérieur au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) du [prêtre](./Prêtre.md) sont [immunisées](./immunisé.md) contre *parole du Chaos*.
+Les créatures dont le nombre de [[DV]] est supérieur au [[niveau de lanceur de sorts]] du [[prêtre]] sont [[immunisé|immunisées]] contre *parole du Chaos*.
 
 ### Mythique
 {s:CMy}
-Lorsqu’il détermine l’effet produit par le sort sur des créatures [non-mythiques](./non-mythiques.md), le personnage ajoute son grade à son [niveau de lanceur de sorts](./NLS.md). Les créatures non-Chaotiques qui ratent leur jet de sauvegarde contre le sort subissent également un malus de -4 aux jets d’attaque et de sauvegarde et leur résistance à la magie diminue de 5 points tant que durent les autres effets du sort.
+Lorsqu’il détermine l’effet produit par le sort sur des créatures [[non-mythiques]], le personnage ajoute son grade à son [[NLS|niveau de lanceur de sorts]]. Les créatures non-Chaotiques qui ratent leur jet de sauvegarde contre le sort subissent également un malus de -4 aux jets d’attaque et de sauvegarde et leur résistance à la magie diminue de 5 points tant que durent les autres effets du sort.

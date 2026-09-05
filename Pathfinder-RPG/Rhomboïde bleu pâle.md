@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun rhomboïde bleu pâle|{s:RSE}}
-**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 8 000 po (normale), 6 000 po (défectueuse), 200 po (ébréchée) ; **Poids** –
+**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 8 000 po (normale), 6 000 po (défectueuse), 200 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** Bonus d'altération de +2 en [Force](./Force.md).
+- ***Normale.*** Bonus d'altération de +2 en [[Force]].
 
 
-- ***Défectueuse.*** Cette pierre accorde un bonus d’altération de +2 en [Force](./Force.md) et un malus de -2 en [Constitution](./Constitution.md).
+- ***Défectueuse.*** Cette pierre accorde un bonus d’altération de +2 en [[Force]] et un malus de -2 en [[Constitution]].
 
 
-- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 à une compétence basée sur la [Force](./Force.md).
+- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 à une compétence basée sur la [[Force]].
 
 (((Pouvoir de résonance)))
-Bonus de +1 aux [jets de sauvegarde](./JDS.md) de [Vigueur](./Vigueur.md).
+Bonus de +1 aux [[jds|jets de sauvegarde]] de [[Vigueur]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être de niveau 12 ; **Coût** 4 000 po (normale), 3 000 po (défectueuse), 100 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], le créateur doit être de niveau 12 ; **Coût** 4 000 po (normale), 3 000 po (défectueuse), 100 po (ébréchée)
 </div>

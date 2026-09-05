@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Lorsqu’il reste attentif, le personnage devient pratiquement impossible à toucher au combat.*
 
-**Condition.** [Esquive](./Esquive.md)
+**Condition.** [[Esquive]]
 
-**Avantage.** Le bonus à la CA conféré par [Esquive](./Esquive.md) augmente de +1. Par une [action immédiate](./Action immédiate.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour bénéficier d’un bonus d’esquive supplémentaire de +10 à la CA contre une attaque.
+**Avantage.** Le bonus à la CA conféré par [[Esquive]] augmente de +1. Par une [[action immédiate]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour bénéficier d’un bonus d’esquive supplémentaire de +10 à la CA contre une attaque.

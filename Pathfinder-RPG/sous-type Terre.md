@@ -10,4 +10,4 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire* p.314
 
-On utilise généralement ce sous-type pour les Extérieurs liés au plan élémentaire de Terre. Les créatures de la Terre possèdent généralement une vitesse de creusement et la plupart d’entre elles peuvent creuser à travers la pierre. Les créatures de la Terre qui possèdent une vitesse de creusement bénéficient de la particularité « [perception des vibrations](./Perception des vibrations.md) ».
+On utilise généralement ce sous-type pour les Extérieurs liés au plan élémentaire de Terre. Les créatures de la Terre possèdent généralement une vitesse de creusement et la plupart d’entre elles peuvent creuser à travers la pierre. Les créatures de la Terre qui possèdent une vitesse de creusement bénéficient de la particularité « [[perception des vibrations]] ».

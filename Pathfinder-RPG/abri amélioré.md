@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Modificateurs de combat#abri amélioré
 ---
 
->>> [Modificateurs de combat#abri amélioré](./Modificateurs de combat.md#abri amélioré)
+>>> [[Modificateurs de combat#abri amélioré]]

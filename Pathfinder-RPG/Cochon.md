@@ -10,8 +10,8 @@ LastModified: 2017-05-16 16:22
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Sources : Art de la Magie p.117, Bestiaire 3 p.116*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 12 (Dex +1, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 6 (1d8+2)}
@@ -22,8 +22,8 @@ LastModified: 2017-05-16 16:22
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 12, **Con** 15, **Int** 2, **Sag** 13, **Cha** 4}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 10 (14 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +5}
+{s:BDTexte|**Dons** [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Perception]] +5}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupeau (3-12)}

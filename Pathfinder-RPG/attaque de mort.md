@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Capacités spéciales#ATTAQUESMORT
 ---
 
->>> [Capacités spéciales#ATTAQUESMORT](./Capacités spéciales.md#ATTAQUESMORT)
+>>> [[Capacités spéciales#ATTAQUESMORT]]

@@ -4,7 +4,7 @@ Title: Choix des caractéristiques
 LastModified: 2016-09-30 20:00
 ---
 
-Cette page vous permet de choisir les caractéristiques de votre personnage en utilisant la méthode d'achat de points (version Pathfinder). En cas de soucis avec cette nouvelle version de la calculatrice, vous pouvez essayer d'utiliser [l'ancienne version](./CalculatriceES5.md).
+Cette page vous permet de choisir les caractéristiques de votre personnage en utilisant la méthode d'achat de points (version Pathfinder). En cas de soucis avec cette nouvelle version de la calculatrice, vous pouvez essayer d'utiliser [[CalculatriceES5|l'ancienne version]].
 
 <script src="public/Upload/Battlemaps/CalcStat.js"></script>
 <link rel="stylesheet" type="text/css" href="public/Upload/Battlemaps/CalcStat.css" />

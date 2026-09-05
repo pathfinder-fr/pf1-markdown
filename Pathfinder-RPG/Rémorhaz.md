@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Désert|Froid}
 {s:BDTexte|*Source : Bestiaire* p.247}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille TG, N}
-{s:BDTexte|**Init** +1 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille TG, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 9, pris au dépourvu 19 (Dex +1, naturelle +11, taille -2)}
 {s:BDTexte|**pv** 94 (9d10+45)}
@@ -23,21 +23,21 @@ Categories:
 {s:BDTexte|**Immunités** feu, froid }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), creusement 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +13 (3d6+9 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure, +13 (3d6+9 et [[étreinte]])}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** chaleur, [engloutissement](./Engloutissement.md) (2d6+9 et 8d6 feu, CA 15, 9 pv)}
+{s:BDTexte|**Attaques spéciales** chaleur, [[engloutissement]] (2d6+9 et 8d6 feu, CA 15, 9 pv)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 13, **Con** 21, **Int** 5, **Sag** 12, **Cha** 10}
-{s:BDTexte|**BBA** +9, **BMO** +17 (+21 [lutte](./lutte.md)), **DMD** 28 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md), [Science de la bousculade](./Science de la bousculade.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +16}
+{s:BDTexte|**BBA** +9, **BMO** +17 (+21 [[lutte]]), **DMD** 28 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Enchaînement]], [[Science de la bousculade]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +16}
 {s:BDTexte|**Langues** géant (ne sait pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** déserts froids et glaciers}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Chaleur (Sur)** Les rémorhaz enragés produisent une chaleur si intense que tout ce qui les touche subit 8d6 points de dégâts de feu. C'est le cas des créatures qui les frappent à l'aide d'attaques naturelles ou à mains nues (mais pas de celles qui utilisent des armes de corps à corps). La chaleur peut aussi faire fondre ou brûler les armes : celles qui entrent en contact avec un rémorhaz doivent réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 19 pour éviter du subir ces mêmes dégâts. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Chaleur (Sur)** Les rémorhaz enragés produisent une chaleur si intense que tout ce qui les touche subit 8d6 points de dégâts de feu. C'est le cas des créatures qui les frappent à l'aide d'attaques naturelles ou à mains nues (mais pas de celles qui utilisent des armes de corps à corps). La chaleur peut aussi faire fondre ou brûler les armes : celles qui entrent en contact avec un rémorhaz doivent réussir un jet de [[Vigueur]] de [[DD]] 19 pour éviter du subir ces mêmes dégâts. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>''Cette espèce de mille-pattes géant jaillit hors de la neige. Son dos est garni
 de rangées de plaques de chitine rougies par la chaleur.''

@@ -5,4 +5,4 @@ LastModified: 2010-04-27 11:33
 RedirectTo: Forêt Sombrelune
 ---
 
->>> [Forêt Sombrelune](./Forêt Sombrelune.md)
+>>> [[Forêt Sombrelune]]

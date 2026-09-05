@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Équilibrée
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Équilibrée](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Équilibrée)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Équilibrée]]

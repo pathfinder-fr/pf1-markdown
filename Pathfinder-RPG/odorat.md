@@ -7,4 +7,4 @@ Categories:
 RedirectTo: odorat (capacité)
 ---
 
->>> [odorat (capacité)](./Odorat (capacité).md)
+>>> [[odorat (capacité)]]

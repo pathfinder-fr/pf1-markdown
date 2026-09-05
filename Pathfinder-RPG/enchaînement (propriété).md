@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Enchaînement
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Enchaînement](./Descriptions individuelles des propriétés spéciales des armes.md#Enchaînement)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Enchaînement]]

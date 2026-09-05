@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 po ; **Poids** 15 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Il s'agit d'un solide tonneau en bois ceint des bandes métalliques et pourvu d'un couvercle hermétique.

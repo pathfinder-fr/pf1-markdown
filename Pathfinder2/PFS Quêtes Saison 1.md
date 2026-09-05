@@ -4,11 +4,11 @@ Title: Quêtes PFS 'Série 1' pour Pathfinder 2
 LastModified: 2024-09-04 21:22
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page PFS pour Pathfinder 2](./PFS.md)
+• [[PFS|Retour à la page PFS pour Pathfinder 2]]
 
-Les quêtes PFS sont des aventures courtes conçues pour être jouées en 1 à 2 heures. Elles rapportent 1 XP, 1 point de réputation et 2 jours de Downtime. Elles ont été publiées en 2019-2020 et ont été arrêtées pour laisser place aux [Primes](./PFS Primes.md) fin 2020 avant de revenir au goût du jour sous un nouveau format avec la [Série 2](./PFS Quêtes Saison 2.md) en 2023.
+Les quêtes PFS sont des aventures courtes conçues pour être jouées en 1 à 2 heures. Elles rapportent 1 XP, 1 point de réputation et 2 jours de Downtime. Elles ont été publiées en 2019-2020 et ont été arrêtées pour laisser place aux [[PFS Primes|Primes]] fin 2020 avant de revenir au goût du jour sous un nouveau format avec la [[PFS Quêtes Saison 2|Série 2]] en 2023.
 
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFQ0001E_180.jpeg|Quest 1 - The Sandstone Secret}
 **Titre VF** Le Secret de la Pierre de Grès  

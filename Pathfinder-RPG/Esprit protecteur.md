@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Invocation](./Invocation.md) ([création](./../Création.md)) ;** Niveau** [Rôd](./Rôdeur.md) 2  
+**École** [[Invocation]] ([[création]]) ;** Niveau** [[Rôdeur|Rôd]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
+**Durée** 1 [[round]]/[[niveau]]
 
-L<nowiki>'</nowiki>*esprit protecteur* est une force invisible, informe et dépourvue d'intelligence qui plane au-dessus du personnage et le protège contre les attaques imprévues. Quand une créature lance une [attaque d'opportunité](./attaque dopportunité.md) contre le personnage, l<nowiki>'</nowiki>*esprit protecteur* attaque immédiatement en utilisant le [bonus de base à l'attaque](./BBA.md) du personnage plus son modificateur de [Dextérité](./Dextérité.md). S'il touche, il n'inflige pas de dégâts mais fait automatiquement rater l'[attaque d'opportunité](./attaque dopportunité.md). Chaque round, l'esprit protège le personnage contre un nombre d'[attaques d'opportunité](./attaque dopportunité.md) égal au bonus de [Dextérité](./Dextérité.md) du personnage (1 au minimum).
+L<nowiki>'</nowiki>*esprit protecteur* est une force invisible, informe et dépourvue d'intelligence qui plane au-dessus du personnage et le protège contre les attaques imprévues. Quand une créature lance une [[attaque dopportunité|attaque d'opportunité]] contre le personnage, l<nowiki>'</nowiki>*esprit protecteur* attaque immédiatement en utilisant le [[BBA|bonus de base à l'attaque]] du personnage plus son modificateur de [[Dextérité]]. S'il touche, il n'inflige pas de dégâts mais fait automatiquement rater l'[[attaque dopportunité|attaque d'opportunité]]. Chaque round, l'esprit protège le personnage contre un nombre d'[[attaque dopportunité|attaques d'opportunité]] égal au bonus de [[Dextérité]] du personnage (1 au minimum).
 
-L'esprit occupe la même case que le personnage et se déplace avec lui. Il est impossible de l'attaquer ou de le blesser avec des attaques physiques mais il est affecté par *[dissipation de la magie](./Dissipation de la magie.md)*, *[désintégration](./Désintégration.md)*, une *[sphère d'annihilation](./Sphère dannihilation.md)* ou un *[sceptre d'oblitération](./Sceptre doblitération.md)*. Contre les attaques de contact, l<nowiki>'</nowiki>*esprit protecteur* a une [CA](./CA.md) de 10 + modificateur de [Dextérité](./Dextérité.md) du personnage.
+L'esprit occupe la même case que le personnage et se déplace avec lui. Il est impossible de l'attaquer ou de le blesser avec des attaques physiques mais il est affecté par *[[dissipation de la magie]]*, *[[désintégration]]*, une *[[sphère dannihilation|sphère d'annihilation]]* ou un *[[sceptre doblitération|sceptre d'oblitération]]*. Contre les attaques de contact, l<nowiki>'</nowiki>*esprit protecteur* a une [[CA]] de 10 + modificateur de [[Dextérité]] du personnage.

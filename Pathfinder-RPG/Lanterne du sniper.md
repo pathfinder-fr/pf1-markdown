@@ -10,8 +10,8 @@ Categories:
 
 {s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:cm}*Le personnage utilise sa magie innée pour viser ses ennemis et repérer leurs faiblesses.*
 
-**Conditions.** [Tir à bout portant](./Tir à bout portant.md), pouvoir magique racial *[lumières dansantes](./Lumières dansantes.md)*.
+**Conditions.** [[Tir à bout portant]], pouvoir magique racial *[[lumières dansantes]]*.
 
-**Avantages.** Le personnage peut utiliser son pouvoir magique racial *[lumières dansantes](./Lumières dansantes.md)* pour créer un orbe de lumière vive. Cette lumière lui donne un bonus d’intuition de +2 aux attaques à distance contre les cibles situées dans un rayon de 1,50 mètre autour de l’orbe. Le personnage peut déplacer la lumière par une [action de mouvement](./Action de mouvement.md), dans les limites de portée du sort. En dehors de cela, l’orbe fonctionne comme lumières dansantes.
+**Avantages.** Le personnage peut utiliser son pouvoir magique racial *[[lumières dansantes]]* pour créer un orbe de lumière vive. Cette lumière lui donne un bonus d’intuition de +2 aux attaques à distance contre les cibles situées dans un rayon de 1,50 mètre autour de l’orbe. Le personnage peut déplacer la lumière par une [[action de mouvement]], dans les limites de portée du sort. En dehors de cela, l’orbe fonctionne comme lumières dansantes.
 
-Le personnage peut utiliser ce pouvoir une fois par jour et une fois de plus quand le [niveau de lanceur de sorts](./NLS.md) de son pouvoir racial lumières dansantes atteint 5, 10, 15 et 20.
+Le personnage peut utiliser ce pouvoir une fois par jour et une fois de plus quand le [[NLS|niveau de lanceur de sorts]] de son pouvoir racial lumières dansantes atteint 5, 10, 15 et 20.

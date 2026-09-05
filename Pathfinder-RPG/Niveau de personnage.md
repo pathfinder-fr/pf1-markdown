@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#NIVEAU
 ---
 
->>> [Vocabulaire courant#NIVEAU](./Vocabulaire courant.md#NIVEAU)
+>>> [[Vocabulaire courant#NIVEAU]]

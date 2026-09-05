@@ -6,9 +6,9 @@ LastModified: 2024-05-31 23:06
 
 <div class="BD">
 {s:BDTitre|Fers à cheval cauchemardesque|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) et [Invocation](./Invocation.md) modérées ; **NLS** 7 ; **Emplacement** [pieds](./Objets merveilleux portés aux pieds.md) ; **Prix** 9 000 po ; **Poids** 6 kg
+**Aura** [[Transmutation]] et [[Invocation]] modérées ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 9 000 po ; **Poids** 6 kg
 (((Description)))
-Ces fers à cheval sont en acier noirci et généralement estampés de symboles infernaux ou d’horribles motifs moins subtils représentant de sombres destriers torturés et terrorisés. Ils dégagent souvent une légère odeur de soufre, comme s’ils sortaient tout droit d’une forge infernale. Sur commande, le cavalier d’une monture ferrée avec ces fers peut lui conférer le pouvoir surnaturel de [fumée](./Destrier noir.md). Les fers fonctionnent 10 [rounds](./round.md) par jour mais le cavalier peut découper cette durée comme bon lui semble (par tranches d’un round minimum). Lorsque ce pouvoir est activé, les yeux, les sabots, la crinière et la queue de la monture prennent feu et une attaque de sabots réussie inflige 1d4 points de dégâts de feu supplémentaires.
+Ces fers à cheval sont en acier noirci et généralement estampés de symboles infernaux ou d’horribles motifs moins subtils représentant de sombres destriers torturés et terrorisés. Ils dégagent souvent une légère odeur de soufre, comme s’ils sortaient tout droit d’une forge infernale. Sur commande, le cavalier d’une monture ferrée avec ces fers peut lui conférer le pouvoir surnaturel de [[Destrier noir|fumée]]. Les fers fonctionnent 10 [[round|rounds]] par jour mais le cavalier peut découper cette durée comme bon lui semble (par tranches d’un round minimum). Lorsque ce pouvoir est activé, les yeux, les sabots, la crinière et la queue de la monture prennent feu et une attaque de sabots réussie inflige 1d4 points de dégâts de feu supplémentaires.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[mains brûlantes](./Mains brûlantes.md)*, *[brume de dissimulation](./Brume de dissimulation.md)*, *[nuage nauséabond](./Nuage nauséabond.md)* ; **Coût** 4 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[mains brûlantes]]*, *[[brume de dissimulation]]*, *[[nuage nauséabond]]* ; **Coût** 4 500 po
 </div>

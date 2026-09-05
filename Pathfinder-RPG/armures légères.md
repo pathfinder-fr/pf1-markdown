@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Tableau récapitulatif des armures#TABLEGERES
 ---
 
->>> [Tableau récapitulatif des armures#TABLEGERES](./Tableau récapitulatif des armures.md#TABLEGERES)
+>>> [[Tableau récapitulatif des armures#TABLEGERES]]

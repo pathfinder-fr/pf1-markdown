@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-La cité d'Isarn est située le long de l'affluent du [Sellen](./Sellen.md) qui traverse le [Galt](./Galt.md), à proximité de la frontière avec les [Royaumes Fluviaux](./Royaumes fluviaux.md).
+La cité d'Isarn est située le long de l'affluent du [[Sellen]] qui traverse le [[Galt]], à proximité de la frontière avec les [[Royaumes Fluviaux]].
 
-Capitale du [Galt](./Galt.md), la ville est composée de bâtiments à l'architecture hétéroclite, les architectes ayant eu la possibilité de laisser libre cours à leur imagination. Malheureusement, quarante années de révolution continuelle ont abîmé la plupart des lieux de la ville qui ne sont maintenant plus entretenus et occupés par des pauvres hères à la recherche d'un peu de nourriture.
+Capitale du [[Galt]], la ville est composée de bâtiments à l'architecture hétéroclite, les architectes ayant eu la possibilité de laisser libre cours à leur imagination. Malheureusement, quarante années de révolution continuelle ont abîmé la plupart des lieux de la ville qui ne sont maintenant plus entretenus et occupés par des pauvres hères à la recherche d'un peu de nourriture.
 
 Le seul bâtiment qui soit encore conservé est le Monolithe, le siège du Conseil Révolutionnaire. On remarquera à ses pied la Lame Finale de la ville, appelée Madame Margaery.

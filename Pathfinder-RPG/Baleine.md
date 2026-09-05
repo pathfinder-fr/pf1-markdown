@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2 page 47*}
 {s:BDTexte|**PX** 9600}
-{s:BDTexte|[Animal](./type Animal.md) de taille Gig, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision aveugle](./vision aveugle.md) 36m ; [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +23}
+{s:BDTexte|[[type Animal|Animal]] de taille Gig, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision aveugle]] 36m ; [[vision nocturne]] ; [[Perception]] +23}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 4, pris au dépourvu 22 (Dex -2, naturelle +18, taille -4)}
 {s:BDTexte|**pv** 157 (15d8+90)}
@@ -27,22 +27,22 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 38, **Dex** 6, **Con** 23, **Int** 2, **Sag** 11, **Cha** 5}
 {s:BDTexte|**BBA** +11, **BMO** +29, **DMD** 37 (croc en jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Perception), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [natation](./Natation.md) +30 ; [Perception](./Perception.md) +23 ; **Modificateurs raciaux** [Perception](./Perception.md) +4}
-{s:BDTexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Dur à cuire]], [[Endurance]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]], [[Talent]] (Perception), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[natation]] +30 ; [[Perception]] +23 ; **Modificateurs raciaux** [[Perception]] +4}
+{s:BDTexte|**Particularités** [[retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou banc (3-16)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Renversement de navires (ext).** Une baleine peut tenter de faire sombrer un bateau ou un navire en effectuant une charge et un test de manoeuvre. Le DD de ce test est égal à 25 ou au résultat d'un test de [profession](./Profession.md) marin réalisé par le capitaine du navire si celui-ci est plus élevé. Si le navire est plus grand que la baleine, le test subit un malus cumulatif de -10 par catégorie de taille de différence.}
+{s:BDTexte|**Renversement de navires (ext).** Une baleine peut tenter de faire sombrer un bateau ou un navire en effectuant une charge et un test de manoeuvre. Le DD de ce test est égal à 25 ou au résultat d'un test de [[profession]] marin réalisé par le capitaine du navire si celui-ci est plus élevé. Si le navire est plus grand que la baleine, le test subit un malus cumulatif de -10 par catégorie de taille de différence.}
 </div>
 </td><td><div>
 *Cette immense baleine se déplace lentement et gracieusement à travers les eaux, ce qui semble étonnant vu sa taille immense.*
 
 Les baleines sont souvent chassées pour leur viande et leur graisse, dont on peut extraire des huiles coûteuses. Les baleines à fanons (ou mysticètes) n’ont pas de dents et attaquent en frappant leurs ennemis à l’aide de leur queue. Les baleines à dents (ou odontocètes) et les cachalots, par contre, attaquent en mordant.
 
-Voir aussi : [Basilosaure](./Basilosaure.md), [Grande baleine blanche](./Grande baleine blanche.md)
+Voir aussi : [[Basilosaure]], [[Grande baleine blanche]]
 
 #### Les baleines comme compagnon animal
-Les compagnons animaux baleines correspondent à des espèces plus petites et suivent les mêmes règles que les compagnons [orques épaulards](./Orque épaulard.md).</div></td></tr></table>
+Les compagnons animaux baleines correspondent à des espèces plus petites et suivent les mêmes règles que les compagnons [[Orque épaulard|orques épaulards]].</div></td></tr></table>

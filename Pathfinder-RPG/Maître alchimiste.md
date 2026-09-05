@@ -10,8 +10,8 @@ Categories:
 
 {s:apg}*Le personnage possède une maîtrise quasi surnaturelle de l’alchimie.*
 
-**Condition.** [Artisanat](./Artisanat.md) (alchimie) 5 rangs.
+**Condition.** [[Artisanat]] (alchimie) 5 rangs.
 
-**Avantage.** Le personnage reçoit un bonus de +2 aux tests d’[Artisanat](./Artisanat.md) (Alchimie) et il peut créer des objets alchimiques communs beaucoup plus vite que la normale. Lorsqu’il fabrique des [poisons](./poison.md), il peut créer un nombre de doses égal à son modificateur d’[Intelligence](./Intelligence.md) (au minimum 1) en même temps. Ces doses supplémentaires n’augmentent pas le temps requis mais bien le coût en matières premières.
+**Avantage.** Le personnage reçoit un bonus de +2 aux tests d’[[Artisanat]] (Alchimie) et il peut créer des objets alchimiques communs beaucoup plus vite que la normale. Lorsqu’il fabrique des [[poison|poisons]], il peut créer un nombre de doses égal à son modificateur d’[[Intelligence]] (au minimum 1) en même temps. Ces doses supplémentaires n’augmentent pas le temps requis mais bien le coût en matières premières.
 
 De plus, chaque fois que le personnage fabrique des objets alchimiques ou des poisons à l’aide de la compétence d’Artisanat (Alchimie), on utilise la valeur de l’objet en pièces d’or au lieu de sa valeur en pièces d’argent pour calculer ses progrès (ne multipliez pas la valeur en pièces d’or par 10 pour déterminer la valeur en pièces d’argent).

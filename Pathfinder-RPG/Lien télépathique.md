@@ -12,22 +12,22 @@ Categories:
 - Sort spirite 5
 ---
 
-**École** [Divination](./Divination.md) ; **Niveau** [Hyp](./Hypnotiseur.md) 4, [Inq](./Inquisiteur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Méd](./Médium.md) 4, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 5, [Spi](./Spirite.md) 5  
+**École** [[Divination]] ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (deux coquilles d’œufs appartenant à des espèces différentes)  
+**Composantes** [[composantes|V, G, M]] (deux coquilles d’œufs appartenant à des espèces différentes)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cibles** le jeteur de sorts et 1 créature consentante/3 [niveaux](./niveau.md), distantes de moins de 9 m/6 cases les unes des autres  
+**Cibles** le jeteur de sorts et 1 créature consentante/3 [[niveau|niveaux]], distantes de moins de 9 m/6 cases les unes des autres  
 
-**Durée** 10 minutes/[niveau](./niveau.md) (T)  
+**Durée** 10 minutes/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Ce sort de [Divination](./Divination.md) génère un lien télépathique entre plusieurs créatures dont l’[Intelligence](./Intelligence.md) doit au moins être égale ou supérieure à 3. Toutes les créatures sont liées les unes aux autres et peuvent communiquer par télépathie, même si elles parlent des langues différentes. Ce lien ne donne à aucune créature un ascendant sur les autres. Le lien fonctionne quelle que soit la distance qui sépare les créatures, sauf entre des individus qui se trouvent dans des plans d’existence différents.
+Ce sort de [[Divination]] génère un lien télépathique entre plusieurs créatures dont l’[[Intelligence]] doit au moins être égale ou supérieure à 3. Toutes les créatures sont liées les unes aux autres et peuvent communiquer par télépathie, même si elles parlent des langues différentes. Ce lien ne donne à aucune créature un ascendant sur les autres. Le lien fonctionne quelle que soit la distance qui sépare les créatures, sauf entre des individus qui se trouvent dans des plans d’existence différents.
 
 S’il le souhaite, un personnage peut choisir de ne pas faire partie des créatures unies par le *lien télépathique*, mais cette décision doit être prise lors de l’incantation.
 
-On peut user de *[permanence](./Permanence.md)* sur un *lien télépathique*, mais chaque *[permanence](./Permanence.md)* permet uniquement de lier un ou deux individus supplémentaires.
+On peut user de *[[permanence]]* sur un *lien télépathique*, mais chaque *[[permanence]]* permet uniquement de lier un ou deux individus supplémentaires.

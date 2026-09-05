@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Désert|Tropical}
 - *Source : Bestiaire 2, p.31*
 - **PX** 400
-- [Animal](./type Animal.md) de taille G, N
-- **Init** +3 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5
+- [[type animal|Animal]] de taille G, N
+- **Init** +3 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +5
 (((Défense)))
 - **CA** 13, contact 12, pris au dépourvu 10 (Dex +3, naturelle +1, taille –1)
 - **pv** 13 (2d8+4)
@@ -26,15 +26,15 @@ Categories:
 - **Attaques spéciales** crachat, +3 contact à distance
 (((Statistiques)))
 - **For** 18, **Dex** 16, **Con** 14, **Int** 2, **Sag** 11, **Cha** 4
-- **BBA** +1 ; **BMO** +6 ; **DMD** 19 (23 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Dons** [Endurance](./Endurance.md)
-- **Compétences** [Perception](./Perception.md) +5
+- **BBA** +1 ; **BMO** +6 ; **DMD** 19 (23 contre [[croc-en-jambe]])
+- **Dons** [[Endurance]]
+- **Compétences** [[Perception]] +5
 (((Écologie)))
 - **Environnement** déserts chauds
 - **Organisation sociale** solitaire
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
-- **Crachat (Ext).** Une fois par heure, un chameau peut expulser le contenu de son estomac sous la forme d’un crachat dégoûtant visant une cible unique située dans un rayon de 3 mètres (2 {s:c}). La cible doit réussir un jet de Vigueur de DD 13 pour ne pas devenir [fiévreuse](./Fiévreux.md) pendant 1d4 rounds. Le DD du jet de sauvegarde dépend de la Constitution.
+- **Crachat (Ext).** Une fois par heure, un chameau peut expulser le contenu de son estomac sous la forme d’un crachat dégoûtant visant une cible unique située dans un rayon de 3 mètres (2 {s:c}). La cible doit réussir un jet de Vigueur de DD 13 pour ne pas devenir [[fiévreux|fiévreuse]] pendant 1d4 rounds. Le DD du jet de sauvegarde dépend de la Constitution.
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -43,23 +43,23 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Antilope](./Antilope.md) || 1/2
+| [[Antilope]] || 1/2
 |-
-| [Auroch](./Auroch.md) || 2
+| [[Auroch]] || 2
 |-
-| [Bélier](./Bélier.md) || 1
+| [[Bélier]] || 1
 |-
-| [Bison](./Bison.md) || 4
+| [[Bison]] || 4
 |-
-| [Cerf](./Cerf.md) || 1
+| [[Cerf]] || 1
 |-
-| [Dromadaire](./Dromadaire.md) || 1
+| [[Dromadaire]] || 1
 |-
-| [Élan](./Élan.md) || 1
+| [[Élan]] || 1
 |-
-| [Élan des rivières](./Élan des rivières.md) || 2
+| [[Élan des rivières]] || 2
 |-
-| [Girafe](./Girafe.md) || 3
+| [[Girafe]] || 3
 |}
 </div>*Ce chameau à une bosse qui semble quelque peu mécontent a été équipé d’une selle et d’une bride.*
 
@@ -70,6 +70,6 @@ Vous pouvez appliquer l’archétype simple « évolué » pour obtenir un profi
 
 #### Le Chameau (Dromadaire) comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** G ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4) ou crachat (attaque de contact à distance qui rend la cible fiévreuse pendant 1d4 rounds, portée 3 m (2 cases)) ; **Caractéristiques** For 18, Dex 16, Con 14, Int 2, Sag 11, Cha 4 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** G ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4) ou crachat (attaque de contact à distance qui rend la cible fiévreuse pendant 1d4 rounds, portée 3 m (2 cases)) ; **Caractéristiques** For 18, Dex 16, Con 14, Int 2, Sag 11, Cha 4 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4** : **Caractéristiques** For +2, Con +2.</div></td></tr></table>

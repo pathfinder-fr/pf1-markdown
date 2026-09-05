@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.176*}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille M, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille M, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +11}
 {s:BDTexte|**Aura** apparence horrible 18 m (12 {s:c})}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 13, pris au dépourvu 13 (Dex +3, naturelle +3)}
@@ -29,17 +29,17 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 16, **Con** 18, **Int** 12, **Sag** 13, **Cha** 15}
 {s:BDTexte|**BBA** +4, **BMO** +8, **DMD** 21}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Bluff](./Bluff.md), [Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +9, [Connaissances](./Connaissances.md) (une au choix) +5, [Discrétion](./Discrétion.md) +10, [Natation](./Natation.md) +19, [Perception](./Perception.md) +11}
+{s:BDTexte|**Dons** [[Talent]] ([[Bluff]], [[Perception]])}
+{s:BDTexte|**Compétences** [[Bluff]] +9, [[Connaissances]] (une au choix) +5, [[Discrétion]] +10, [[Natation]] +19, [[Perception]] +11}
 {s:BDTexte|**Langues** commun, géant}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md)}
+{s:BDTexte|**Particularités** [[amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** milieu aquatique}
 {s:BDTexte|**Organisation sociale** solitaire ou cercle (3 guenaudes de n'importe quel type)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Apparence horrible (Sur).** Voir une guenaude marine est une expérience si atroce qu'à l'exception des autres guenaudes, toutes les créatures qui se trouvent dans un rayon de 18 m (12 {s:c}) et qui posent les yeux sur elles doivent réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 14 sous peine de se sentir faibles et de subir un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d6 points de [Force](./Force.md). Quel que soit le résultat du [jet de sauvegarde](./jet de sauvegarde.md), les créatures concernées ne peuvent plus être affectées par l'apparence horrible de la guenaude marine en question pendant 24 heures. Il s'agit d'une effet mental. Le [DD](./DD.md) dépend du [Charisme](./Charisme.md).}
-{s:BDTexte|**Mauvais œil (Sur).** Trois fois par jour, une guenaude marine peut lancer le mauvais œil sur une créature située dans un rayon de 9 m (6 {s:c}). La cible doit réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 14 pour ne pas être [chancelante](./Chancelant.md) à cause des angoisses étranges et de l'impression de malheur imminent qui l'assaillent. Si la guenaude marine utilise son mauvais œil sur une créature qui est déjà affectée par cette malédiction, celle-ci doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 14 pour ne par être terrassée par la terreur et s'effondrer dans un état comateux qui dure pendant 3 jours. Après chacun de ces jours, la victime comateuse doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 14 pour éviter de périr. Le mauvais œil est un effet mental de terreur. Le [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) dépend du [Charisme](./Charisme.md). *Malédiction du mauvais œil.* Regard - JS raté ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 14 ; *fréquence* 1/jour ; *effet* [chancelant](./Chancelant.md) (ou tomber dans le coma pour les cibles déjà affectées par le mauvais œil).}
+{s:BDTexte|**Apparence horrible (Sur).** Voir une guenaude marine est une expérience si atroce qu'à l'exception des autres guenaudes, toutes les créatures qui se trouvent dans un rayon de 18 m (12 {s:c}) et qui posent les yeux sur elles doivent réussir un jet de [[Vigueur]] de [[DD]] 14 sous peine de se sentir faibles et de subir un [[affaiblissement temporaire]] de 1d6 points de [[Force]]. Quel que soit le résultat du [[jet de sauvegarde]], les créatures concernées ne peuvent plus être affectées par l'apparence horrible de la guenaude marine en question pendant 24 heures. Il s'agit d'une effet mental. Le [[DD]] dépend du [[Charisme]].}
+{s:BDTexte|**Mauvais œil (Sur).** Trois fois par jour, une guenaude marine peut lancer le mauvais œil sur une créature située dans un rayon de 9 m (6 {s:c}). La cible doit réussir un jet de [[Volonté]] de [[DD]] 14 pour ne pas être [[chancelant|chancelante]] à cause des angoisses étranges et de l'impression de malheur imminent qui l'assaillent. Si la guenaude marine utilise son mauvais œil sur une créature qui est déjà affectée par cette malédiction, celle-ci doit réussir un jet de [[Vigueur]] de [[DD]] 14 pour ne par être terrassée par la terreur et s'effondrer dans un état comateux qui dure pendant 3 jours. Après chacun de ces jours, la victime comateuse doit réussir un jet de [[Vigueur]] de [[DD]] 14 pour éviter de périr. Le mauvais œil est un effet mental de terreur. Le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] dépend du [[Charisme]]. *Malédiction du mauvais œil.* Regard - JS raté ; *JS* [[Vigueur]] [[DD]] 14 ; *fréquence* 1/jour ; *effet* [[chancelant]] (ou tomber dans le coma pour les cibles déjà affectées par le mauvais œil).}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -48,19 +48,19 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Guenaude annis](./Guenaude annis.md) || 6
+| [[Guenaude annis]] || 6
 |-
-| [Guenaude arctique](./Guenaude arctique.md) || 7
+| [[Guenaude arctique]] || 7
 |-
-| [Guenaude de sang](./Guenaude de sang.md) || 8
+| [[Guenaude de sang]] || 8
 |-
-| [Guenaude des tempêtes](./Guenaude des tempêtes.md) || 7
+| [[Guenaude des tempêtes]] || 7
 |-
-| [Guenaude marine](./Guenaude marine.md) || 4
+| [[Guenaude marine]] || 4
 |-
-| [Guenaude noire](./Guenaude noire.md) || 9
+| [[Guenaude noire]] || 9
 |-
-| [Guenaude verte](./Guenaude verte.md) || 5
+| [[Guenaude verte]] || 5
 |}
 </div>*La peau verdâtre et détendue de cette vieille sorcière couverte de poils semblables à des algues pourries pend sur sa silhouette famélique.*
 
@@ -107,7 +107,7 @@ marines particulièrement
 amicales entre elles, qui se
 considèrent comme des sœurs.
 
-Consultez la [guenaude verte](./Guenaude verte.md) (page 178) pour plus
+Consultez la [[guenaude verte]] (page 178) pour plus
 d’informations sur les cercles de
 guenaudes.
 </div></td></tr></table>

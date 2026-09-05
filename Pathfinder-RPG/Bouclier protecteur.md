@@ -11,12 +11,12 @@ Categories:
 
 {s:apg}*Le personnage sait comment utiliser son bouclier pour se protéger et protéger ses alliés.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Art du bouclier](./Art du bouclier.md), [BBA](./BBA.md) +6.
+**Conditions.** [[Art du bouclier]], [[BBA]] +6.
 
-**Avantage.** Chaque fois que le personnage utilise l’action de [défense totale](./défense totale.md) avec une rondache, un écu ou un pavois, il peut offrir à un allié adjacent de taille inférieure ou égale à la sienne un bonus d’[abri](./abri.md) à la [CA](./CA.md) égal au bonus de bouclier conféré par son bouclier. Ce bonus persiste jusqu’au début de son prochain tour. Le bouclier du personnage ne donne pas de bonus d’abri aux jets de [Réflexes](./Réflexes.md) cependant.
+**Avantage.** Chaque fois que le personnage utilise l’action de [[défense totale]] avec une rondache, un écu ou un pavois, il peut offrir à un allié adjacent de taille inférieure ou égale à la sienne un bonus d’[[abri]] à la [[CA]] égal au bonus de bouclier conféré par son bouclier. Ce bonus persiste jusqu’au début de son prochain tour. Le bouclier du personnage ne donne pas de bonus d’abri aux jets de [[Réflexes]] cependant.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance quand il se met en [défense totale](./défense totale.md). Dans ce cas, son bouclier offre aussi un bonus d’abri aux jets de [Réflexes](./Réflexes.md) de son allié.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance quand il se met en [[défense totale]]. Dans ce cas, son bouclier offre aussi un bonus d’abri aux jets de [[Réflexes]] de son allié.

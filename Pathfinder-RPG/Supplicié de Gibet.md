@@ -10,7 +10,7 @@ LastModified: 2017-04-12 09:14
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 266*}
 - **76 800 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille M, CM
+- [[type mort-vivant|Mort-vivant]] de taille M, CM
 - **Init **+8 ; **Sens** vision dans le noir à 18 m ; Perception +3
 - **Aura** murmures (9 m, DD 27)
 (((Défense)))
@@ -27,8 +27,8 @@ LastModified: 2017-04-12 09:14
 (((Statistiques)))
 - **For** 24, **Dex** 19, **Con **—, **Int** 11, **Sag** 16, **Cha** 21
 - **BBA **+18 ; **BMO **+25 ; **DMD** 40
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (chaîne cloutée), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Esquive](./Esquive.md), [Fente](./Fente.md), [Frappe décisive](./Frappe décisive.md), [S’avancer](./Savancer.md), [Science de l’initiative](./Science de linitiative.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science du critique](./Science du critique.md) (chaîne cloutée)
-- **Compétences** [Escalade](./Escalade.md) +34, [Évasion](./Évasion.md) +28, [Intimidation](./Intimidation.md) +32, [Natation](./Natation.md) +31 
+- **Dons** [[Arme de prédilection]] (chaîne cloutée), [[Attaque en puissance]], [[Attaques réflexes]], [[Critique sanglant]], [[Don pour les critiques]], [[Esquive]], [[Fente]], [[Frappe décisive]], [[Savancer|S’avancer]], [[Science de linitiative|Science de l’initiative]], [[Science de la frappe décisive]], [[Science du critique]] (chaîne cloutée)
+- **Compétences** [[Escalade]] +34, [[Évasion]] +28, [[Intimidation]] +32, [[Natation]] +31 
 - **Langues** commun
 (((Écologie)))
 - **Environnement** tous

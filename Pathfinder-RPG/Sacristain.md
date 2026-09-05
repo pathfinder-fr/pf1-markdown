@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 171*}
 - **9 600 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [kyton](./sous-type kyton.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille M, LM
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type kyton|kyton]], [[sous-type loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM
 - **Init **+3 ; **Sens **vision dans le noir à 18 m ; Perception +17
 (((Défense)))
 - **CA **22, contact 13, pris au dépourvu 19 (Dex +3, naturelle +9)
@@ -28,8 +28,8 @@ Categories:
 (((Statistiques)))
 - **For **20, **Dex **16, **Con **21, **Int **13, **Sag **14, **Cha** 15
 - **BBA **+12 ; **BMO **+17 (+19 en bousculade) ; **DMD **30 (32 contre la bousculade)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Enchaînement](./Enchaînement.md), [Science de la bousculade](./Science de la bousculade.md), [Succession d’enchaînements](./Succession denchaînements.md)
-- **Compétences **[Acrobaties](./Acrobaties.md) +15, [Bluff](./Bluff.md) +17, [Discrétion](./Discrétion.md) +18, [Escalade](./Escalade.md) +17, [Intimidation](./Intimidation.md) +17, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +17
+- **Dons** [[Attaque en puissance]], [[Critique sanglant]], [[Don pour les critiques]], [[Enchaînement]], [[Science de la bousculade]], [[Succession denchaînements|Succession d’enchaînements]]
+- **Compétences **[[Acrobaties]] +15, [[Bluff]] +17, [[Discrétion]] +18, [[Escalade]] +17, [[Intimidation]] +17, [[Perception]] +17, [[Psychologie]] +17
 - **Langues **commun, infernal
 (((Écologie)))
 - **Environnement **quelconque (plan de l’Ombre)
@@ -40,7 +40,7 @@ Categories:
 - **Regard déstabilisant (Ext)**. Une créature qui succombe au regard déstabilisant du sacristain devient chancelante pendant 1 round.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [kytons](./Kytons.md).***</li></ul>*Des chaînes et des objets perforants torturent la chair de cet être exsangue. Son visage et sa bouche portent les marques de souffrance les plus inquiétantes.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Kytons]].***</li></ul>*Des chaînes et des objets perforants torturent la chair de cet être exsangue. Son visage et sa bouche portent les marques de souffrance les plus inquiétantes.*
 
 
 Chaque kyton se considère comme une sorte d’artiste, couchant encore et encore ses visions avant-gardistes sur différents supports : la chair, les esprits, l’obscurité et d’autres matières naturelles et délicates.

@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Créature magique|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.37*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille TG, N}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille TG, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 10, pris au dépourvu 20 (Dex +2, naturelle +12, taille -2)}
 {s:BDTexte|**pv** 84 (8d10+40)}
@@ -27,15 +27,15 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 15, **Con** 20, **Int** 2, **Sag** 13, **Cha** 6}
 {s:BDTexte|**BBA** +8, **BMO** +16, **DMD** 28 (32 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +9 (+17 pour sauter), [Perception](./Perception.md) +11 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4 pour sauter}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +9 (+17 pour sauter), [[Perception]] +11 ; **Modificateurs raciaux** [[Acrobaties]] +4 pour sauter}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Bondissement (Ext)** Les bulettes peuvent effectuer une forme spéciale d'attaque de bond lorsqu'elles se lancent au combat. Au cours d'une [charge](./charge.md), une bulette peut effectuer une test d'[Acrobaties](./Acrobaties.md) de [DD](./DD.md) 20 pour sauter en l'air et atterrir à côté de ses ennemis. Si le test réussit, elle peut enchaîner avec quatre attaques de griffes contre les ennemis à sa portée, mais elle ne peut pas utiliser son attaque de morsure.}
-{s:BDTexte|**Morsure violente (Ext)** La morsure des bulettes est particulièrement puissante. Les dégâts qu'elle inflige bénéficient d'1,5 fois son modificateur de [Force](./Force.md) et sa zone de critique possible est 19-20.}
+{s:BDTexte|**Bondissement (Ext)** Les bulettes peuvent effectuer une forme spéciale d'attaque de bond lorsqu'elles se lancent au combat. Au cours d'une [[charge]], une bulette peut effectuer une test d'[[Acrobaties]] de [[DD]] 20 pour sauter en l'air et atterrir à côté de ses ennemis. Si le test réussit, elle peut enchaîner avec quatre attaques de griffes contre les ennemis à sa portée, mais elle ne peut pas utiliser son attaque de morsure.}
+{s:BDTexte|**Morsure violente (Ext)** La morsure des bulettes est particulièrement puissante. Les dégâts qu'elle inflige bénéficient d'1,5 fois son modificateur de [[Force]] et sa zone de critique possible est 19-20.}
 </div>
 </td><td><div>*La créature couverte de plaques protectrices ouvre sa gueule garnie de dents acérées et un aileron dorsal se dresse entre ses épaules.*
 

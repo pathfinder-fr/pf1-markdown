@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde|Aquatique|Tempéré}
 - *Source : Bestiaire 4* p.114
 - **PX** 2 400 PX
-- [Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, CB ou CM
-- **Init** +4 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6
+- [[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, CB ou CM
+- **Init** +4 ; **Sens** [[vision nocturne]] ; [[Perception]] +6
 (((Défense)))
 - **CA** 19, contact 9, pris au dépourvu 19 (armure +3, naturelle +7, taille -1)
 - **pv** 68 (8d8+32)
@@ -24,12 +24,12 @@ Categories:
 - **Corps à corps** lance, +11/+6 (2d6+7/x3) ou 2 coups, +10 (1d8+5)
 - **Distance** rocher, +6 (1d8+5)
 - **Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})
-- **Attaques spéciales** [lancer de rochers](./Lancer de rochers.md) (30 m ; 20 {s:c})
+- **Attaques spéciales** [[lancer de rochers]] (30 m ; 20 {s:c})
 (((Caractéristiques)))
 - **For** 20, **Dex** 11, **Con** 19, **Int** 9, **Sag** 10, **Cha** 8
 - **BBA** +6, **BMO** +12 (+14 pour la bousculade), **DMD** 22 (+24 pour la bousculade)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (lance), [Maniement d'une arme de guerre](./Maniement dune arme de guerre.md) (lance), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md).
-- **Compétences** [Acrobaties](./Acrobaties.md) +0 (+4 sur les bateaux), [Natation](./Natation.md) +10, [Perception](./Perception.md) +6, [Profession](./Profession.md) (marin) +9, [Survie](./Survie.md) +6 (+10 sur les bateaux).
+- **Dons** [[Arme de prédilection]] (lance), [[Maniement dune arme de guerre|Maniement d'une arme de guerre]] (lance), [[Science de linitiative|Science de l’initiative]], [[Science de la bousculade]].
+- **Compétences** [[Acrobaties]] +0 (+4 sur les bateaux), [[Natation]] +10, [[Perception]] +6, [[Profession]] (marin) +9, [[Survie]] +6 (+10 sur les bateaux).
 - **Modificateurs raciaux** +4 en Acrobaties sur les bateaux, +4 en Profession (marin), +4 en Survie sur les bateaux, +4 en Natation
 - **Langues** commun, géant
 - **Particularités** retenir son souffle
@@ -45,49 +45,49 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Géant de cendre](./Géant de cendre.md) || 11
+| [[Géant de cendre]] || 11
 |-
-| [Géant de la jungle](./Géant de la jungle.md) || 10
+| [[Géant de la jungle]] || 10
 |-
-| [Géant de la lune](./Géant de la lune.md) || 15
+| [[Géant de la lune]] || 15
 |-
-| [Géant de la taïga](./Géant de la taïga.md) || 12
+| [[Géant de la taïga]] || 12
 |-
-| [Géant de l'ombre](./Géant de lombre.md) || 13
+| [[Géant de lombre|Géant de l'ombre]] || 13
 |-
-| [Géant de pierre](./Géant de pierre.md) || 8
+| [[Géant de pierre]] || 8
 |-
-| [Géant des bois](./Géant des bois.md) || 6
+| [[Géant des bois]] || 6
 |-
-| [Géant des collines](./Géant des collines.md) || 7
+| [[Géant des collines]] || 7
 |-
-| [Géant des falaises](./Géant des falaises.md) || 9
+| [[Géant des falaises]] || 9
 |-
-| [Géant des grottes](./Géant des grottes.md) || 6
+| [[Géant des grottes]] || 6
 |-
-| [Géant des marais](./Géant des marais.md) || 8
+| [[Géant des marais]] || 8
 |-
-| [Géant des nuages](./Géant des nuages.md) || 11
+| [[Géant des nuages]] || 11
 |-
-| [Géant des océans](./Géant des océans.md) || 14
+| [[Géant des océans]] || 14
 |-
-| [Géant des rivières](./Géant des rivières.md) || 6
+| [[Géant des rivières]] || 6
 |-
-| [Géant des runes](./Géant des runes.md) || 17
+| [[Géant des runes]] || 17
 |-
-| [Géant des scories](./Géant des scories.md) || 7
+| [[Géant des scories]] || 7
 |-
-| [Géant des tempêtes](./Géant des tempêtes.md) || 13
+| [[Géant des tempêtes]] || 13
 |-
-| [Géant des éclipses](./Géant des éclipses.md) || 19
+| [[Géant des éclipses]] || 19
 |-
-| [Géant du désert](./Géant du désert.md) || 9
+| [[Géant du désert]] || 9
 |-
-| [Géant du feu](./Géant du feu.md) || 10
+| [[Géant du feu]] || 10
 |-
-| [Géant du froid](./Géant du froid.md) || 9
+| [[Géant du froid]] || 9
 |-
-| [Géant du soleil](./Géant du soleil.md) || 16
+| [[Géant du soleil]] || 16
 |}
 </div>*Cette géante élancée est très simplement vêtue et sa peau verte présente des motifs tourbillonnants.*
 

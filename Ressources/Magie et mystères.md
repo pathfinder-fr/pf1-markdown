@@ -6,8 +6,8 @@ LastModified: 2012-01-21 17:12
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Voir aussi [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) et [connaissance des mystères](./../Pathfinder-RPG/Connaissances.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Voir aussi [[Pathfinder-RPG.Art de la magie|Art de la magie]] et [[Pathfinder-RPG.connaissances|connaissance des mystères]]</ul>
 </div>
 
 Art de la magie et connaissance des mystères sont deux compétences qui se partagent la gestion de la connaissance de la magie dans pathfinder. La justification de la répartition des différentes tâches réalisables entre ces deux compétences obéis à une logique ludique et non pas à une logique réaliste.

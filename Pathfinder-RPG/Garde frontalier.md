@@ -7,4 +7,4 @@ Categories:
 RedirectTo: PNJ Garde frontalier
 ---
 
->>> [PNJ Garde frontalier](./PNJ Garde frontalier.md)
+>>> [[PNJ Garde frontalier]]

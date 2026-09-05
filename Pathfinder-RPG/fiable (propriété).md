@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Fiable
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Fiable](./Descriptions individuelles des propriétés spéciales des armes.md#Fiable)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Fiable]]

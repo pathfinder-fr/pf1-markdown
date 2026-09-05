@@ -15,8 +15,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDtexte|*Source : Bestiaire 5 p.76*}
 {s:BDtexte|**PX** 51 200}
-{s:BDtexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démodande](./sous-type démodande.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille M, CM}
-{s:BDtexte|**Init** +8 ; **Sens** *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*, [vision dans le noir](./vision dans le noir (capacité).md) à 36 m ; [Perception](./Perception.md) +24}
+{s:BDtexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démodande|démodande]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, CM}
+{s:BDtexte|**Init** +8 ; **Sens** *[[détection de la magie]]*, *[[détection du Bien]]*, [[vision dans le noir (capacité)|vision dans le noir]] à 36 m ; [[Perception]] +24}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 30, contact 18, pris au dépourvu 22 (Dex +8, naturelle +12)}
 {s:BDtexte|**pv** 230 (20d10+120)}
@@ -24,29 +24,29 @@ Categories:
 {s:BDtexte|**RD** 10/Bien et magie ; **Immunités** acide, poison ; **Résistances** feu 10, froid 10 ; **RM** 26}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 12 m, vol 12 m (moyenne)}
-{s:BDtexte|**Corps à corps** morsure, +29 (2d6+9 plus 2d6 [non-létaux](./Blessures et mort.md#NONLETAL)/19-20) et 2 griffes, +29 (1d10+9 plus 2d6 non-létaux/19-20)}
-{s:BDtexte|**Attaques spéciales** [attaque voleuse de foi](./sous-type démodande.md) (DD 24), excroissances enchevêtrantes}
-{s:BDtexte|**Pouvoirs magiques** ([NLS](./NLS.md) 15 ; [concentration](./concentration.md) +19)}
-{s:BDsorts|Constant — *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*}
-{s:BDsorts|À volonté — *[détection des pensées](./détection des pensées.md)* (DD 16)}
-{s:BDsorts|3/jour — *[dissipation suprême](./Dissipation suprême.md)*, *[terreur](./Terreur.md)* (DD 18)}
-{s:BDsorts|1/jour — [convocation](./Convocation (capacité).md) (niveau 6, 1d4 [démodandes goudronneux](./Démodande goudronneux.md) ou 1d2 démodandes filandreux 40%), *[immobilisation de monstre](./Immobilisation de monstre.md)* (DD 19)}
+{s:BDtexte|**Corps à corps** morsure, +29 (2d6+9 plus 2d6 [[Blessures et mort#NONLETAL|non-létaux]]/19-20) et 2 griffes, +29 (1d10+9 plus 2d6 non-létaux/19-20)}
+{s:BDtexte|**Attaques spéciales** [[sous-type démodande|attaque voleuse de foi]] (DD 24), excroissances enchevêtrantes}
+{s:BDtexte|**Pouvoirs magiques** ([[NLS]] 15 ; [[concentration]] +19)}
+{s:BDsorts|Constant — *[[détection de la magie]]*, *[[détection du Bien]]*}
+{s:BDsorts|À volonté — *[[détection des pensées]]* (DD 16)}
+{s:BDsorts|3/jour — *[[dissipation suprême]]*, *[[terreur]]* (DD 18)}
+{s:BDsorts|1/jour — [[Convocation (capacité)|convocation]] (niveau 6, 1d4 [[Démodande goudronneux|démodandes goudronneux]] ou 1d2 démodandes filandreux 40%), *[[immobilisation de monstre]]* (DD 19)}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 28, **Dex** 27, **Con** 23, **Int** 12, **Sag** 13, **Cha** 18}
 {s:BDtexte|**BBA** +20, **BMO** +29, **DMD** 47}
-{s:BDtexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Attaque en vol](./Attaque en vol.md), [Combat en aveugle](./Combat en aveugle.md), [Enchaînement](./Enchaînement.md), [Force intimidante](./Force intimidante.md), [Frappe décisive](./Frappe décisive.md), [Science du critique](./Science du critique.md) (griffe), [Science du critique](./Science du critique.md) (morsure), [Science de la frappe décisive](./Science de la frappe décisive.md)}
-{s:BDtexte|**Compétences** [Acrobaties](./Acrobaties.md) +26, [Bluff](./Bluff.md) +27, [Connaissances](./Connaissances.md) (plans) +14, [Discrétion](./Discrétion.md) +26, [Escalade](./Escalade.md) +22, [Intimidation](./Intimidation.md) +36, [Perception](./Perception.md) +24, [Psychologie](./Psychologie.md) +14, [Survie](./Survie.md) +14, [Vol](./Vol.md) +21}
+{s:BDtexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Attaque en vol]], [[Combat en aveugle]], [[Enchaînement]], [[Force intimidante]], [[Frappe décisive]], [[Science du critique]] (griffe), [[Science du critique]] (morsure), [[Science de la frappe décisive]]}
+{s:BDtexte|**Compétences** [[Acrobaties]] +26, [[Bluff]] +27, [[Connaissances]] (plans) +14, [[Discrétion]] +26, [[Escalade]] +22, [[Intimidation]] +36, [[Perception]] +24, [[Psychologie]] +14, [[Survie]] +14, [[Vol]] +21}
 {s:BDtexte|**Langues** abyssal, céleste, commun}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** tous (Abysses)}
 {s:BDtexte|**Organisation sociale** solitaire, couple ou enchevêtrement (3-8)}
 {s:BDtexte|**Trésor** standard}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Excroissances enchevêtrantes (Ext).** Même si les dégoûtantes excroissances qui se développent sur un démodande filandreux font techniquement partie de sa peau, le démodande exerce un minimum de contrôle sur ses appendices filandreux. Par une [action rapide](./Action rapide.md), un démodande filandreux peut utiliser ses excroissances pour [enchevêtrer](./Enchevêtré.md) les cibles adjacentes d’une taille égale ou inférieure à la sienne. Pour résister à cet enchevêtrement, une cible doit réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 25. Tant que le démodande filandreux enchevêtre une ou plusieurs créatures, les créatures qui se déplacent sur les emplacements adjacents au démodande doivent chacune réussir un [jet de sauvegarde](./JDS.md) pour ne pas être également enchevêtrées. Les créatures enchevêtrées ne peuvent pas s’éloigner de plus de 1,50 mètre du démodande filandreux à moins qu’elles ne se libèrent des excroissances. Une créature enchevêtrée peut se libérer par une [action de mouvement](./Action de mouvement.md) en réussissant un test de [Force](./Force.md) ou d’[Évasion](./Évasion.md) DD 25. Le DD du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDtexte|**Excroissances enchevêtrantes (Ext).** Même si les dégoûtantes excroissances qui se développent sur un démodande filandreux font techniquement partie de sa peau, le démodande exerce un minimum de contrôle sur ses appendices filandreux. Par une [[action rapide]], un démodande filandreux peut utiliser ses excroissances pour [[enchevêtré|enchevêtrer]] les cibles adjacentes d’une taille égale ou inférieure à la sienne. Pour résister à cet enchevêtrement, une cible doit réussir un jet de [[Réflexes]] [[DD]] 25. Tant que le démodande filandreux enchevêtre une ou plusieurs créatures, les créatures qui se déplacent sur les emplacements adjacents au démodande doivent chacune réussir un [[jds|jet de sauvegarde]] pour ne pas être également enchevêtrées. Les créatures enchevêtrées ne peuvent pas s’éloigner de plus de 1,50 mètre du démodande filandreux à moins qu’elles ne se libèrent des excroissances. Une créature enchevêtrée peut se libérer par une [[action de mouvement]] en réussissant un test de [[Force]] ou d’[[Évasion]] DD 25. Le DD du jet de sauvegarde est basé sur la [[Constitution]].}
 </div>
 </td>
 <td>
-<div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démodandes](./Démodande.md).***</li></ul>
+<div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démodande|démodandes]].***</li></ul>
 *Cet humanoïde ailé et dégingandé est couvert de plusieurs couches de longues excroissances de peau filandreuse.*
 
 

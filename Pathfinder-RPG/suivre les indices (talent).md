@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#SUIVRELESINDICES
 ---
 
->>> [Talents#SUIVRELESINDICES](./Talents.md#SUIVRELESINDICES)
+>>> [[Talents#SUIVRELESINDICES]]

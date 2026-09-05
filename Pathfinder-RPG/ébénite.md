@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#EBENITE
 ---
 
->>> [Matériaux spéciaux#EBENITE](./Matériaux spéciaux.md#EBENITE)
+>>> [[Matériaux spéciaux#EBENITE]]

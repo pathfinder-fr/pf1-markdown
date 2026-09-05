@@ -10,12 +10,12 @@ Categories:
 
 {s:cs}{s:AMH}*La maitrise du personnage lui permet de tirer le meilleur parti de son bouclier.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Art du bouclier](./Art du bouclier.md), [BBA](./BBA.md) +6
+**Conditions.** [[Art du bouclier]], [[BBA]] +6
 
-**Avantage.** Le [malus d’armure](./malus darmure.md) aux tests des boucliers que le personnage utilise est réduit de 1. Le personnage peut également utiliser son niveau à la place de son [BBA](./BBA.md) pour remplir les conditions des [maîtrise de bouclier](./Dons.md#MAITRISEDEBOUCLIER).
+**Avantage.** Le [[malus darmure|malus d’armure]] aux tests des boucliers que le personnage utilise est réduit de 1. Le personnage peut également utiliser son niveau à la place de son [[BBA]] pour remplir les conditions des [[Dons#MAITRISEDEBOUCLIER|maîtrise de bouclier]].
 
 {s:AMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 3 points d’endurance pour annuler le [malus d’armure](./malus darmure.md) imposé par son bouclier sur un unique test de compétence.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 3 points d’endurance pour annuler le [[malus darmure|malus d’armure]] imposé par son bouclier sur un unique test de compétence.

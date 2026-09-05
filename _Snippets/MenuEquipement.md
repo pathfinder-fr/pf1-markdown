@@ -5,40 +5,40 @@
 <div class="presentation navmenu">
 ### Accès rapide aux sections sur l'équipement
 <table><tr style="vertical-align: top; text-align: left"><td>
-<ul><li>[Les armes](./../Pathfinder-RPG/Tableau récapitulatif des armes.md) ([descriptions](./../Pathfinder-RPG/Descriptions individuelles des armes.md))</li>
-<ul><li>[caractéristiques](./../Pathfinder-RPG/Caractéristiques des armes.md)</li></ul>
-<li>[Les armes à feu](./../Pathfinder-RPG/Tableau récapitulatif des armes à feu.md) ([descriptions](./../Pathfinder-RPG/Descriptions individuelles des armes à feu.md))</li>
-<ul><li>[caractéristiques](./../Pathfinder-RPG/Armes à feu.md)</li></ul>
-<li>[Les armures](./../Pathfinder-RPG/Tableau récapitulatif des armures.md) ([descriptions](./../Pathfinder-RPG/Descriptions individuelles des armures.md))</li>
-<ul><li>[caractéristiques](./../Pathfinder-RPG/Caractéristiques des armures.md)</li></ul>
-<li>[Les matériaux spéciaux](./../Pathfinder-RPG/Matériaux spéciaux.md)</li>
+<ul><li>[[Tableau récapitulatif des armes|Les armes]] ([[Descriptions individuelles des armes|descriptions]])</li>
+<ul><li>[[Caractéristiques des armes|caractéristiques]]</li></ul>
+<li>[[Tableau récapitulatif des armes à feu|Les armes à feu]] ([[Descriptions individuelles des armes à feu|descriptions]])</li>
+<ul><li>[[Armes à feu|caractéristiques]]</li></ul>
+<li>[[Tableau récapitulatif des armures|Les armures]] ([[Descriptions individuelles des armures|descriptions]])</li>
+<ul><li>[[Caractéristiques des armures|caractéristiques]]</li></ul>
+<li>[[Matériaux spéciaux|Les matériaux spéciaux]]</li>
 </ul>
 </td><td>
-<ul><li>[Animaux, montures et leur équipement](./../Pathfinder-RPG/Animaux, montures et leur équipement.md#)</li>
-<li>[Chroniques des Explorateurs](./../Pathfinder-RPG/Chroniques des Éclaireurs.md)</li>
-<li>[Équipement d'aventurier](./../Pathfinder-RPG/Équipement daventurier.md#)</li>
-<li>[Focalisateurs de canalisation](./../Pathfinder-RPG/Focalisateurs de canalisation.md#)</li>
-<li>[Hébergement et services](./../Pathfinder-RPG/Hébergement et services.md#)</li>
-<li>[Jeux](./../Pathfinder-RPG/Jeux.md#)</li>
-<li>[Marché noir](./../Pathfinder-RPG/Marché noir.md#)</li>
+<ul><li>[[Animaux, montures et leur équipement#|Animaux, montures et leur équipement]]</li>
+<li>[[Chroniques des Éclaireurs|Chroniques des Explorateurs]]</li>
+<li>[[Équipement daventurier#|Équipement d'aventurier]]</li>
+<li>[[Focalisateurs de canalisation#|Focalisateurs de canalisation]]</li>
+<li>[[Hébergement et services#|Hébergement et services]]</li>
+<li>[[Jeux#|Jeux]]</li>
+<li>[[Marché noir#|Marché noir]]</li>
 </ul>
 </td><td>
-<ul><li>[Moyens de transport](./../Pathfinder-RPG/Moyens de transport.md#)</li>
-<li>[Nourriture et Boissons](./../Pathfinder-RPG/Nourriture et Boissons.md#)</li>
-<li>[Outils de compétences](./../Pathfinder-RPG/Outils de compétences.md#)</li>
-<li>[Trousses d'équipement](./../Pathfinder-RPG/Trousses déquipement.md#)</li>
-<li>[Vêtements](./../Pathfinder-RPG/Vêtements.md#)</li>
+<ul><li>[[Moyens de transport#|Moyens de transport]]</li>
+<li>[[Nourriture et Boissons#|Nourriture et Boissons]]</li>
+<li>[[Outils de compétences#|Outils de compétences]]</li>
+<li>[[Trousses déquipement#|Trousses d'équipement]]</li>
+<li>[[Vêtements#|Vêtements]]</li>
 </ul>
-<ul><li>[Poisons](./../Pathfinder-RPG/Poisons.md#)</li>
+<ul><li>[[Poisons#|Poisons]]</li>
 </ul>
 </td><td>
-<ul><li>[Armes alchimiques](./../Pathfinder-RPG/Armes alchimiques.md#)</li>
-<li>[Outils alchimiques](./../Pathfinder-RPG/Outils alchimiques.md#)</li>
-<li>[Remèdes alchimiques](./../Pathfinder-RPG/Remèdes alchimiques.md#)</li>
+<ul><li>[[Armes alchimiques#|Armes alchimiques]]</li>
+<li>[[Outils alchimiques#|Outils alchimiques]]</li>
+<li>[[Remèdes alchimiques#|Remèdes alchimiques]]</li>
 </ul>
-<ul><li>[L'argent et la richesse](./../Pathfinder-RPG/Argent et richesse.md)</li>
-<li>[Les marchandises](./../Pathfinder-RPG/Marchandises.md)</li>
-<li>[Le poids transportable](./../Pathfinder-RPG/Poids transportable.md)</li>
-<li>[Les réactifs alchimiques](./../Pathfinder-RPG/Réactifs alchimiques.md)</li>
+<ul><li>[[Argent et richesse|L'argent et la richesse]]</li>
+<li>[[Marchandises|Les marchandises]]</li>
+<li>[[Poids transportable|Le poids transportable]]</li>
+<li>[[Réactifs alchimiques|Les réactifs alchimiques]]</li>
 </ul>
 </td></tr></table></div>

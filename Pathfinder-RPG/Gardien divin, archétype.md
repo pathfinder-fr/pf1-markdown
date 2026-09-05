@@ -24,27 +24,27 @@ LastModified: 2019-01-29 16:46
 |- CLASS="titre"
 |     DV   || Pouvoir
 |- CLASS="premier"
-|  1-2  || *[alarme](./Alarme.md)* 3/jour, *[porte dimensionnelle](./Porte dimensionnelle.md)* (à volonté, au sein du sol sacré seulement), *[verrouillage](./Verrouillage.md)*
+|  1-2  || *[[alarme]]* 3/jour, *[[porte dimensionnelle]]* (à volonté, au sein du sol sacré seulement), *[[verrouillage]]*
 |-
-|  3-4  || *[déblocage](./Déblocage.md)* 3/jour, *[verrou du mage](./Verrou du mage.md)*
+|  3-4  || *[[déblocage]]* 3/jour, *[[verrou du mage]]*
 |-
-|  5-6  || *[augure](./Augure.md), [clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*
+|  5-6  || *[[augure]], [[clairaudienceclairvoyance|clairaudience/clairvoyance]]*
 |-
-|  7-8  || *[renvoi](./Renvoi.md)*
+|  7-8  || *[[renvoi]]*
 |-
-| 9-10 || *[communion](./Communion.md)*
+| 9-10 || *[[communion]]*
 |-
-| 11-12 || * [défense magique](./Défense magique.md)*
+| 11-12 || * [[défense magique]]*
 |-
-| 13-14 || * [interdiction](./Interdiction.md)*
+| 13-14 || * [[interdiction]]*
 |-
-| 15-16 || * [bannissement](./Bannissement.md)*
+| 15-16 || * [[bannissement]]*
 |-
-| 17-18 || *[champ de force](./Champ de force.md)*
+| 17-18 || *[[champ de force]]*
 |-
-| 19-20 || * [écran](./Écran.md)*
+| 19-20 || * [[écran]]*
 |-
-| 21+ || * [aversion](./Aversion.md)*
+| 21+ || * [[aversion]]*
 |}
 
 
@@ -66,9 +66,9 @@ En général, ces gardiens ont une allure plus majestueuse que celle de leurs fr
 
 La plupart des gardiens divins ont choisi de servir leur dieu pour l’éternité mais quelques-uns ont reçu ce devoir comme punition pour avoir causé du tort aux fidèles du dieu ou l’ont accepté comme pénitence pour se racheter d’un grand péché. Quelles que soient les raisons de sa création, le gardien divin est lié au dieu qui lui donne ses pouvoirs et aux serviteurs de ce dieu. Un prêtre ou un paladin dévoué à la divinité qui a créé le gardien peut lui donner des ordres. Cela ne lui donne pas un pouvoir absolu sur le gardien mais ce dernier répond favorablement à ses requêtes. Par exemple, un prêtre peut demander au gardien de ne pas attaquer ses compagnons ou de les aider à défendre le site sacré contre des assaillants. Un prêtre ou un paladin dévoué au même dieu que le gardien doit réussir un test de Charisme opposé au sien pour le convaincre de faire quelque chose qu’il ne ferait pas d’ordinaire. Il est impossible de lui ordonner de quitter le site sacré ou d’aller à l’encontre des préceptes de son dieu.
 
-L’hydre gardienne divine présentée ici est conçue à partir de l’[hydre](./Hydre.md) du Bestiaire Pathfinder JdR. Consultez la page 186 du Bestiaire pour connaître les traits des hydres et leur pouvoir de régénération de têtes. Cette hydre est le gardien divin du dieu de la nature et du climat, ce qui lui donne les sous-types air et eau.
+L’hydre gardienne divine présentée ici est conçue à partir de l’[[hydre]] du Bestiaire Pathfinder JdR. Consultez la page 186 du Bestiaire pour connaître les traits des hydres et leur pouvoir de régénération de têtes. Cette hydre est le gardien divin du dieu de la nature et du climat, ce qui lui donne les sous-types air et eau.
 
-Voir l'exemple [hydre gardienne divine](./hydre gardienne divine.md)
+Voir l'exemple [[hydre gardienne divine]]
 
 
 </div></td></tr></table>

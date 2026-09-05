@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEDECONFUSION
 ---
 
->>> [découvertes#BOMBEDECONFUSION](./découvertes.md#BOMBEDECONFUSION)
+>>> [[découvertes#BOMBEDECONFUSION]]

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armures magiques#Résistanceauxénergiessupérieure
 ---
 
->>> [Armures magiques#Résistanceauxénergiessupérieure](./Armures magiques.md#Résistanceauxénergiessupérieure)
+>>> [[Armures magiques#Résistanceauxénergiessupérieure]]

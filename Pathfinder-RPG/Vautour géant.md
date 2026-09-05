@@ -10,12 +10,12 @@ LastModified: 2022-02-05 12:22
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire 3, p.276*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md), [odorat](./Odorat (capacité).md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]], [[odorat (capacité)|odorat]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 15 (Dex +2, naturelle +6, taille -1)}
 {s:BDTexte|**pv** 42 (5d8+20)}
-{s:BDTexte|**Réf** +6, **Vig** +10, **Vol** +3 ; +4 contre les [maladies](./Maladies.md)}
+{s:BDTexte|**Réf** +6, **Vig** +10, **Vol** +3 ; +4 contre les [[maladies]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c}), vol 15 m (10 {s:c}) (moyenne)}
 {s:BDTexte|**Corps à corps** morsure, +9 (2d6+9 plus maladie)}
@@ -23,15 +23,15 @@ LastModified: 2022-02-05 12:22
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 15, **Con** 18, **Int** 2, **Sag** 15, **Cha** 7}
 {s:BDTexte|**BBA** +3, **BMO** +10, **DMD** 22}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Robustesse](./Robustesse.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +14, [Vol](./Vol.md) +7 ; **Modificateur racial** +8 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Robustesse]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Perception]] +14, [[Vol]] +7 ; **Modificateur racial** +8 en [[Perception]]}
 {s:BDTexte|**Particularité** porteur de maladies}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines ou plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou volée (3-8)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs Spéciaux}
-{s:BDTexte|**Porteur de maladies (Sur).** En raison de ses habitudes alimentaires dégoûtantes et de son exposition constante à la chair en décomposition, le vautour géant est porteur de maladies (bien plus que le vautour ordinaire). Toutes les créatures mordues par un vautour géant ont 10% de chances d’être exposées à la [fièvre des marais](./Maladies.md), à la [mal aveuglant](./Maladies.md) ou à toute autre maladie similaire. Une fois ce test réussi, la victime ne peut plus être infectée par ce vautour géant, mais les attaques des autres vautours géants se résolvent normalement et peuvent donner lieu à de multiples maladies. Si les vautours ne sont pas immunisés contre toutes les maladies, ils bénéficient d’un bonus racial de +4 à tous leurs [jets de sauvegarde](./jet de sauvegarde.md) contre ces affections.}
+{s:BDTexte|**Porteur de maladies (Sur).** En raison de ses habitudes alimentaires dégoûtantes et de son exposition constante à la chair en décomposition, le vautour géant est porteur de maladies (bien plus que le vautour ordinaire). Toutes les créatures mordues par un vautour géant ont 10% de chances d’être exposées à la [[maladies|fièvre des marais]], à la [[maladies|mal aveuglant]] ou à toute autre maladie similaire. Une fois ce test réussi, la victime ne peut plus être infectée par ce vautour géant, mais les attaques des autres vautours géants se résolvent normalement et peuvent donner lieu à de multiples maladies. Si les vautours ne sont pas immunisés contre toutes les maladies, ils bénéficient d’un bonus racial de +4 à tous leurs [[jet de sauvegarde|jets de sauvegarde]] contre ces affections.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -40,9 +40,9 @@ LastModified: 2022-02-05 12:22
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Vautour](./Vautour.md) || 1/2
+| [[Vautour]] || 1/2
 |-
-| [Vautour géant](./Vautour géant.md) || 4
+| [[Vautour géant]] || 4
 |}
 </div>*Le vilain bec crochu et l’immense tête nue de cet immense charognard aux grandes ailes attirent l’attention.*
 
@@ -52,6 +52,6 @@ Le vautour géant mesure 4 mètres de haut pour une envergure d’une dizaine de
 
 #### Le vautour géant comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 3 m, Vol 15 m (moyenne) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8) ; **Caractéristiques** For 12, Dex 15, Con 14, Int 2, Sag 15, Cha 7 ; **Particularités** [vision nocturne](./vision nocturne.md), +4 aux jets de sauvegarde contre les maladies.
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 3 m, Vol 15 m (moyenne) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8) ; **Caractéristiques** For 12, Dex 15, Con 14, Int 2, Sag 15, Cha 7 ; **Particularités** [[vision nocturne]], +4 aux jets de sauvegarde contre les maladies.
 
 **Évolution au niveau 7.** **Taille** G ; **Vitesse** 12 m, Vol 15 m ; **CA** armure naturelle +2 ; **Attaque** morsure (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4.</div></td></tr></table>

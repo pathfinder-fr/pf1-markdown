@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résistance supérieure aux énergies destructives
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résistance supérieure aux énergies destructives](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Résistance supérieure aux énergies destructives)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résistance supérieure aux énergies destructives]]

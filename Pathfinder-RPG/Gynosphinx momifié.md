@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 56*}
 - **6 400 PX**
-- [Mort-vivant](./type Mort-vivant.md) (créature magique [altérée](./sous-type altéré.md)) de taille G, NM
+- [[type mort-vivant|Mort-vivant]] (créature magique [[sous-type altéré|altérée]]) de taille G, NM
 - **Init **+5 ; **Sens** vision dans le noir à 18 m, détection de la magie, vision nocturne, détection de l’invisibilité ; Perception +21
 - **Aura** de présence terrifiante (9 m, DD 20, 1d6 rounds)
 (((Défense)))
@@ -28,15 +28,15 @@ Categories:
 - **Espace** 3 m ; **Allonge** 1,50 m
 - **Attaques spéciales** accès de fureur, bond, nuage de poussière, pattes arrière (2 griffes, +19, 3d6+8/19-20)
 - **Pouvoirs magiques** (**NLS** 12 ; concentration +16)
-  - Constant – *[compréhension des langages](./Compréhension des langages.md), [détection de l’invisibilité](./Détection de linvisibilité.md), [détection de la magie](./Détection de la magie.md), [lecture de la magie](./Lecture de la magie.md)*
-  - 3/jour – *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*
-  - 1/jour – *[délivrance des malédictions](./Délivrance des malédictions.md), [dissipation de la magie](./Dissipation de la magie.md), [localisation d’objet](./Localisation dobjet.md), [mythes et légendes](./Mythes et légendes.md)*
-  - 1/semaine – l’un des pouvoirs suivants avec une durée maximale de 1 semaine : *[Symbole d’étourdissement](./Symbole détourdissement.md)* (DD 21), *[symbole de douleur](./Symbole de douleur.md)* (DD 19), *[symbole de persuasion](./Symbole de persuasion.md)* (DD 20), *[symbole de sommeil](./Symbole de sommeil.md)* (DD 19), *[symbole de terreur](./Symbole de terreur.md)* (DD 20)
+  - Constant – *[[compréhension des langages]], [[détection de linvisibilité|détection de l’invisibilité]], [[détection de la magie]], [[lecture de la magie]]*
+  - 3/jour – *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]*
+  - 1/jour – *[[délivrance des malédictions]], [[dissipation de la magie]], [[localisation dobjet|localisation d’objet]], [[mythes et légendes]]*
+  - 1/semaine – l’un des pouvoirs suivants avec une durée maximale de 1 semaine : *[[Symbole détourdissement|Symbole d’étourdissement]]* (DD 21), *[[symbole de douleur]]* (DD 19), *[[symbole de persuasion]]* (DD 20), *[[symbole de sommeil]]* (DD 19), *[[symbole de terreur]]* (DD 20)
 (((Statistiques)))
 - **For** 26, **Dex** 13, **Con** —, **Int** 16, **Sag** 19, **Cha** 19
 - **BBA **+12 ; **BMO **+21 ; **DMD** 32 (36 contre le croc-en-jambe)
-- **Dons** [Arme naturelle supérieure](./Arme naturelle supérieure.md)<sup>S</sup> (griffe), [Magie de guerre](./Magie de guerre.md), [Robustesse](./Robustesse.md)<sup>S</sup>, [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (griffe), [Vigilance](./Vigilance.md), [Vol stationnaire](./Vol stationnaire.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Art de la magie](./Art de la magie.md) +11, [Bluff](./Bluff.md) +12, [Connaissances](./Connaissances.md) (histoire) +5, [Connaissances](./Connaissances.md) (religion) +5, [Diplomatie](./Diplomatie.md) +12, [Discrétion](./Discrétion.md) +12, [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +21, [Psychologie](./Psychologie.md) +18, [Vol](./Vol.md) +2 ; **Modificateurs raciaux** +4 en Discrétion
+- **Dons** [[Arme naturelle supérieure]]<sup>S</sup> (griffe), [[Magie de guerre]], [[Robustesse]]<sup>S</sup>, [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (griffe), [[Vigilance]], [[Vol stationnaire]], [[Volonté de fer]]
+- **Compétences** [[Art de la magie]] +11, [[Bluff]] +12, [[Connaissances]] (histoire) +5, [[Connaissances]] (religion) +5, [[Diplomatie]] +12, [[Discrétion]] +12, [[Intimidation]] +12, [[Perception]] +21, [[Psychologie]] +18, [[Vol]] +2 ; **Modificateurs raciaux** +4 en Discrétion
 - **Langues** commun, draconique, sphinx ; compréhension des langages
 (((Écologie)))
 - **Environnement** ruines chaudes
@@ -45,7 +45,7 @@ Categories:
 
 </div>
 </td><td><div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature momifiée](./Créature momifiée, archétype.md).***</li></ul>*Cette créature aux ailes déchirées et couverte de longues bandes de lin devait autrefois avoir un corps de lion et une tête de femme.*
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature momifiée, archétype|Créature momifiée]].***</li></ul>*Cette créature aux ailes déchirées et couverte de longues bandes de lin devait autrefois avoir un corps de lion et une tête de femme.*
 
 Beaucoup de civilisations antiques momifient leurs morts et conservent leurs dépouilles au moyen de procédés d’embaumement funéraires longs et complexes. Alors que la grande majorité de ces dépouilles sont momifiées dans le seul but que le corps se conserve dans les tombes où elles reposent, d’autres sont momifiées à l’aide de magie pour se relever sous forme de créatures momifiées après leur mort. Ces créatures ressemblent beaucoup aux momies classiques :  elles ont un corps poussiéreux, desséché, flétri et entièrement enveloppé de bandelettes funéraires en lin, couvertes de hiéroglyphes, mais une lueur d’intelligence malveillante brille au fond de leurs yeux de mortes-vivantes.
 
@@ -58,5 +58,5 @@ Pour créer une créature momifiée, le cadavre doit être embaumé, ses organes
 
 Finalement, le créateur doit lancer création de mort-vivant dominant pour octroyer la non-vie à la créature momifiée.
 
-*<u>Note :</u> Dans certaines V.F. le sous-type "[créature altérée](./sous-type altéré.md)" (augmented) semble avoir été remplacée par "[créature évolué](./Archétypes.md#Créature_évoluée_FP_+B_1)" (Advanced Creature), alors qu'en V.O. il s'agit bien du "[sous-type altéré](./sous-type altéré.md)" (augmented). Cela devrait avoir été corrigé depuis dans les dernières versions.*
+*<u>Note :</u> Dans certaines V.F. le sous-type "[[sous-type altéré|créature altérée]]" (augmented) semble avoir été remplacée par "[[Archétypes#Créature_évoluée_FP_+B_1|créature évolué]]" (Advanced Creature), alors qu'en V.O. il s'agit bien du "[[sous-type altéré]]" (augmented). Cela devrait avoir été corrigé depuis dans les dernières versions.*
 </div></td></tr></table>

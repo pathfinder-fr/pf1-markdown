@@ -10,9 +10,9 @@ LastModified: 2019-01-27 12:45
 
 *Vous êtes doué à cacher votre utilisation d'objets magique avec des tours rusés et habiles.*
 
-**Prérequis:** [Discret](./Discret.md)
+**Prérequis:** [[Discret]]
 
-**Avantage(s):** En utilisant une [baguette magique](./Baguettes magiques.md), un bâton ou n'importe quel autre objet magique, vous pouvez tenter un jet de [Discrétion](./Discrétion.md) (contre le jet de [Perception](./Perception.md) des spectateurs) pour cacher l'activation de l'assistance.
+**Avantage(s):** En utilisant une [[Baguettes magiques|baguette magique]], un bâton ou n'importe quel autre objet magique, vous pouvez tenter un jet de [[Discrétion]] (contre le jet de [[Perception]] des spectateurs) pour cacher l'activation de l'assistance.
 
 Si l'objet magique produit un effet visible (comme une créature invoquée ou un effet magique visible), vous subissez -4 à votre jet de Discrétion, et même si le jet est réussi, les observateurs voient toujours l'effet du sort (même si ils n'arrivent pas à devenir que vous en êtes responsable).
 

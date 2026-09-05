@@ -7,16 +7,16 @@ Categories:
 ---
 
 ### Aides de jeu pour créer un PJ Éclaireur
-- [Équipement à prévoir pour jouer un Éclaireur de Golarion](./PFS aide de jeu équipement.md)
+- [[PFS aide de jeu équipement|Équipement à prévoir pour jouer un Éclaireur de Golarion]]
 
 ### Aides de jeu pour les scénarios Pathfinder Society
 
 #### Saison 4
-- [Scénario 7 : Severing ties](./Aides de jeu PFS S04E07.md)
-- [Scénario 19 : The Night March of Kalkamedes](./Aides de jeu PFS S04E19.md)
+- [[Aides de jeu PFS S04E07|Scénario 7 : Severing ties]]
+- [[Aides de jeu PFS S04E19|Scénario 19 : The Night March of Kalkamedes]]
 
 #### Saison 5
-- [Scénario 1 : The Glass River Rescue](./Aides de jeu PFS S05E01.md)
+- [[Aides de jeu PFS S05E01|Scénario 1 : The Glass River Rescue]]
 
 #### Saison 6
-- [Scénario 10 : The Wounded Wisp](./Aides de jeu PFS S06E10.md)
+- [[Aides de jeu PFS S06E10|Scénario 10 : The Wounded Wisp]]

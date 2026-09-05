@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Créature magique|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 257*}
 - ** 600 PX**
-- [Créature magique](./type Créature magique.md) de taille M, N
+- [[type créature magique|Créature magique]] de taille M, N
 - **Init **+5 ; **Sens **vision dans le noir 18 m, vision nocturne, odorat ; Perception +9
 (((Défense)))
 - **CA **16, contact 11, pris au dépourvu 15 (Dex +1, naturelle +5)
@@ -26,8 +26,8 @@ Categories:
 (((Statistiques)))
 - **For **8, **Dex **13, **Con **14, **Int** 1, **Sag **13, **Cha **6
 - **BBA **+3 ; **BMO **+2 ; **DMD **13 (croc-en-jambe impossible)
-- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences **[Discrétion](./Discrétion.md) +10, [Perception](./Perception.md) +9
+- **Dons** [[Attaque en finesse]], [[science de linitiative|Science de l’initiative]]
+- **Compétences **[[Discrétion]] +10, [[Perception]] +9
 - **Modificateurs raciaux** +4 en Perception, +4 en Discrétion
 - **Particularités **liquéfaction (voir seps)
 (((Pouvoirs spéciaux)))
@@ -40,9 +40,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Jeune seps](./Jeune seps.md) || 2
+| [[Jeune seps]] || 2
 |-
-| [Seps](./Seps.md) || 11
+| [[Seps]] || 11
 |}
 </div>
 *Ce serpent venimeux est protégé par une lourde carapace et possède des crocs exceptionnellement grands.*

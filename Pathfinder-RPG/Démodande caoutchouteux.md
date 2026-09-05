@@ -15,39 +15,39 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDtexte|*Source : Bestiaire 5 p.75*}
 {s:BDtexte|**PX** 102 400}
-{s:BDtexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démodande](./sous-type démodande.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille M, CM}
-{s:BDtexte|**Init** +10 ; **Sens** *[détection de l’invisibilité](./Détection de linvisibilité.md)*, *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*, [vision dans le noir](./vision dans le noir (capacité).md) à 36 m ; [Perception](./Perception.md) +25}
+{s:BDtexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démodande|démodande]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, CM}
+{s:BDtexte|**Init** +10 ; **Sens** *[[détection de linvisibilité|détection de l’invisibilité]]*, *[[détection de la magie]]*, *[[détection du Bien]]*, [[Vision dans le noir (capacité)|vision dans le noir]] à 36 m ; [[Perception]] +25}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 32, contact 16, pris au dépourvu 26 (armure +1, Dex +6, naturelle +15)}
-{s:BDtexte|**pv** 264 (23d10+138) ; [guérison accélérée](./Guérison accélérée (capacité).md) 10}
+{s:BDtexte|**pv** 264 (23d10+138) ; [[Guérison accélérée (capacité)|guérison accélérée]] 10}
 {s:BDtexte|**Réf** +15, **Vig** +19, **Vol** +15 ; +4 contre les sorts divins}
-{s:BDtexte|**Capacités défensives** [défense](./défense (capacité).md) (50%) ; **RD** 15/Bien et tranchant ; **Immunités** acide, poison ; **Résistances** feu 10, froid 10 ; **RM** 28}
+{s:BDtexte|**Capacités défensives** [[Défense (capacité)|défense]] (50%) ; **RD** 15/Bien et tranchant ; **Immunités** acide, poison ; **Résistances** feu 10, froid 10 ; **RM** 28}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 12 m, vol 15 m (moyenne)}
 {s:BDtexte|**Corps à corps** *maillet vicieux +1*, +34/+29/+24/+19 (2d6+16/19-20/×3 plus 2d6) ou 2 griffes, +33 (2d6+10)}
-{s:BDtexte|**Attaques spéciales** [attaque voleuse de foi](./sous-type démodande.md) (DD 25), crachat sacrilège}
-{s:BDtexte|**Pouvoirs magiques** ([NLS](./NLS.md) 17 ; [concentration](./concentration.md) +21)}
-{s:BDsorts|Constant — *[détection de l’invisibilité](./Détection de linvisibilité.md)*, *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*}
-{s:BDsorts|À volonté — *[ancre dimensionnelle](./Ancre dimensionnelle.md)*, *[protection contre le Bien](./Protection contre le Bien.md)*, *[recherche de pensées](./Recherche de pensées.md)* (DD 17), *[terreur](./Terreur.md)* (DD 18)}
-{s:BDsorts|3/jour — *[dissipation suprême](./Dissipation suprême.md)*, *[déformation douloureuse](./Déformation douloureuse.md) rapide* (DD 17), *[frappe douloureuse](./Frappe douloureuse.md) rapide* (DD 17)}
-{s:BDsorts|1/jour — [convocation](./Convocation (capacité).md) (niveau 6, 1d4 [démodandes goudronneux](./Démodande goudronneux.md) ou 1d2 [démodandes filandreux](./Démodande filandreux.md) 55%), *[frappe douloureuse de groupe](./Frappe douloureuse de groupe.md)* (DD 19), *[vagues d’épuisement](./Vagues dépuisement.md)*}
+{s:BDtexte|**Attaques spéciales** [[sous-type démodande|attaque voleuse de foi]] (DD 25), crachat sacrilège}
+{s:BDtexte|**Pouvoirs magiques** ([[NLS]] 17 ; [[concentration]] +21)}
+{s:BDsorts|Constant — *[[détection de linvisibilité|détection de l’invisibilité]]*, *[[détection de la magie]]*, *[[détection du Bien]]*}
+{s:BDsorts|À volonté — *[[ancre dimensionnelle]]*, *[[protection contre le Bien]]*, *[[recherche de pensées]]* (DD 17), *[[terreur]]* (DD 18)}
+{s:BDsorts|3/jour — *[[dissipation suprême]]*, *[[déformation douloureuse]] rapide* (DD 17), *[[frappe douloureuse]] rapide* (DD 17)}
+{s:BDsorts|1/jour — [[Convocation (capacité)|convocation]] (niveau 6, 1d4 [[Démodande goudronneux|démodandes goudronneux]] ou 1d2 [[Démodande filandreux|démodandes filandreux]] 55%), *[[frappe douloureuse de groupe]]* (DD 19), *[[vagues dépuisement|vagues d’épuisement]]*}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 31, **Dex** 22, **Con** 23, **Int** 17, **Sag** 14, **Cha** 18}
 {s:BDtexte|**BBA** +23, **BMO** +33, **DMD** 49}
-{s:BDtexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Critique étourdissant](./Critique étourdissant.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Fente](./Fente.md), [Force intimidante](./Force intimidante.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (*déformation douloureuse*), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (*frappe douloureuse*), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (maillet)}
-{s:BDtexte|**Compétences** [Acrobaties](./Acrobaties.md) +21, [Art de la magie](./Art de la magie.md) +23, [Bluff](./Bluff.md) +22, [Connaissances](./Connaissances.md) (mystères) +14, [Connaissances](./Connaissances.md) (plans) +14, [Connaissances](./Connaissances.md) (religion) +14, [Discrétion](./Discrétion.md) +29, [Escalade](./Escalade.md) +25, [Intimidation](./Intimidation.md) +40, [Perception](./Perception.md) +25, [Psychologie](./Psychologie.md) +20, [Survie](./Survie.md) +25, [Vol](./Vol.md) +29}
+{s:BDtexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Critique étourdissant]], [[Critique ralentissant]], [[Don pour les critiques]], [[Fente]], [[Force intimidante]], [[Pouvoir magique rapide]] (*déformation douloureuse*), [[Pouvoir magique rapide]] (*frappe douloureuse*), [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (maillet)}
+{s:BDtexte|**Compétences** [[Acrobaties]] +21, [[Art de la magie]] +23, [[Bluff]] +22, [[Connaissances]] (mystères) +14, [[Connaissances]] (plans) +14, [[Connaissances]] (religion) +14, [[Discrétion]] +29, [[Escalade]] +25, [[Intimidation]] +40, [[Perception]] +25, [[Psychologie]] +20, [[Survie]] +25, [[Vol]] +29}
 {s:BDtexte|**Langues** abyssal, céleste, commun}
-{s:BDtexte|**Particularités** [âme hérétique](./sous-type démodande.md)}
+{s:BDtexte|**Particularités** [[sous-type démodande|âme hérétique]]}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** tous (Abysses)}
-{s:BDtexte|**Organisation sociale** solitaire ou groupe de chasse (1 démodande caoutchouteux plus 2-5 [démodandes goudronneux](./Démodande goudronneux.md))}
-{s:BDtexte|**Trésor** standard (kilt renforcé [de maître](./armure de maître.md), *maillet [vicieux](./vicieuse (propriété).md) +1*, autres trésors)}
+{s:BDtexte|**Organisation sociale** solitaire ou groupe de chasse (1 démodande caoutchouteux plus 2-5 [[Démodande goudronneux|démodandes goudronneux]])}
+{s:BDtexte|**Trésor** standard (kilt renforcé [[armure de maître|de maître]], *maillet [[vicieuse (propriété)|vicieux]] +1*, autres trésors)}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Crachat sacrilège (Ext).** Une fois tous les 1d4 [rounds](./round.md) et par une [action simple](./Action simple.md), un démodande caoutchouteux peut cracher du mucus acide dans un cône de 9 mètres. Les créatures dans la zone subissent 15d6 points de dégâts d’acide ([Réflexes](./Réflexes.md) [DD](./DD.md) 27, 1/2 dégâts) et sont [enchevêtrées](./Enchevêtré.md) en cas de [jet de sauvegarde](./JDS.md) raté. Les créatures enchevêtrées subissent 5d6 points de dégâts d’acide chaque round à la fin de leur tour. Les créatures qui subissent les dégâts d’acide du crachat sacrilège sont également sujettes à l’[attaque voleuse de foi](./sous-type démodande.md) du démodande. Chaque round lors de son tour, une créature enchevêtrée peut effectuer un nouveau jet de sauvegarde pour mettre fin à l’effet, par une [action complexe](./Action complexe.md) qui provoque des [attaques d’opportunité](./AO.md). Le DD du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDtexte|**Crachat sacrilège (Ext).** Une fois tous les 1d4 [[round|rounds]] et par une [[action simple]], un démodande caoutchouteux peut cracher du mucus acide dans un cône de 9 mètres. Les créatures dans la zone subissent 15d6 points de dégâts d’acide ([[Réflexes]] [[DD]] 27, 1/2 dégâts) et sont [[enchevêtré|enchevêtrées]] en cas de [[jds|jet de sauvegarde]] raté. Les créatures enchevêtrées subissent 5d6 points de dégâts d’acide chaque round à la fin de leur tour. Les créatures qui subissent les dégâts d’acide du crachat sacrilège sont également sujettes à l’[[sous-type démodande|attaque voleuse de foi]] du démodande. Chaque round lors de son tour, une créature enchevêtrée peut effectuer un nouveau jet de sauvegarde pour mettre fin à l’effet, par une [[action complexe]] qui provoque des [[AO|attaques d’opportunité]]. Le DD du jet de sauvegarde est basé sur la [[Constitution]].}
 </div>
 </td>
 <td>
-<div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démodandes](./Démodande.md).***</li></ul>
+<div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démodande|démodandes]].***</li></ul>
 *Cet humanoïde obèse possède une large bouche et des ailes de chauve-souris. Un fluide pâle suppure des bourrelets de sa peau noire et graisseuse.*
 
 

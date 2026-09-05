@@ -8,11 +8,11 @@ Categories:
 - Sort magicien 0
 ---
 
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une pincée de terre)  
+**Composantes** [[Composantes|V, G, M]] (une pincée de terre)  
 
 **Portée** contact  
 
@@ -20,9 +20,9 @@ Categories:
 
 **Durée** 1 minute (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
-Ce sort renforce le lien de la cible avec le sol, améliorant sa capacité à résister aux [manœuvres de combat](./Manœuvres offensives.md). Elle gagne un bonus d’intuition de +2 à la [DMD](./DMD.md) pour résister à une [bousculade](./bousculade.md) ou un [renversement](./renversement.md), et un bonus de +2 aux jets d’[Acrobaties](./Acrobaties.md) effectués pour conserver l’équilibre ou rester debout lorsque son bénéficiaire se trouve sur de la terre, du sable, de la pierre ou toute autre matière rocheuse.
+Ce sort renforce le lien de la cible avec le sol, améliorant sa capacité à résister aux [[manœuvres offensives|manœuvres de combat]]. Elle gagne un bonus d’intuition de +2 à la [[DMD]] pour résister à une [[bousculade]] ou un [[renversement]], et un bonus de +2 aux jets d’[[Acrobaties]] effectués pour conserver l’équilibre ou rester debout lorsque son bénéficiaire se trouve sur de la terre, du sable, de la pierre ou toute autre matière rocheuse.
 
 (((**Note :** La parution de ces nouveaux tours de magie était initialement prévue par Paizo dans l’Art de la Magie. Elle a été supprimée faute de place, en laissant des traces dans la première édition de l’ouvrage en anglais. Paizo a décidé de faire plaisir à ses fans en les publiant par la suite sur son blog. BBE et Pathfinder-FR sont particulièrement heureux de pouvoir en proposer autant aux fans francophones.  
 

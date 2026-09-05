@@ -10,4 +10,4 @@ Categories:
 
 {s:MenuEnvironnement}
 
-Les escaliers représentent la méthode la plus utilisée pour se rendre d’un étage à l’autre au sein d’un donjon. Un personnage peut les monter ou les descendre sans malus mais ne peut pas les parcourir en courant. Le [DD](./DD.md) des tests d’[Acrobaties](./Acrobaties.md) réalisés dans un escalier augmente de 4. Certains escaliers sont si raides qu’on les considère comme un [terrain difficile](./terrain difficile.md).
+Les escaliers représentent la méthode la plus utilisée pour se rendre d’un étage à l’autre au sein d’un donjon. Un personnage peut les monter ou les descendre sans malus mais ne peut pas les parcourir en courant. Le [[DD]] des tests d’[[Acrobaties]] réalisés dans un escalier augmente de 4. Certains escaliers sont si raides qu’on les considère comme un [[terrain difficile]].

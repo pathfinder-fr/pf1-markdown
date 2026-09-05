@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#ASSAUTACCELERE
 ---
 
->>> [arcanes#ASSAUTACCELERE](./arcanes.md#ASSAUTACCELERE)
+>>> [[arcanes#ASSAUTACCELERE]]

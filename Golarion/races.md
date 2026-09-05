@@ -4,84 +4,84 @@ Title: Les races civilisées de Golarion
 LastModified: 2018-12-31 14:01
 ---
 
-Il existe bien sûr plusieurs définitions pour le mot "civilisation", mais on parle ici les races qui sont plus particulièrement destinées aux PJ, celles qu'on qualifie parfois de races humanoïdes. Si vous vous intéressez aux autres habitants de Golarion, jetez un coup d'oeil sur la page des [créatures](./créatures.md) monstrueuses.
+Il existe bien sûr plusieurs définitions pour le mot "civilisation", mais on parle ici les races qui sont plus particulièrement destinées aux PJ, celles qu'on qualifie parfois de races humanoïdes. Si vous vous intéressez aux autres habitants de Golarion, jetez un coup d'oeil sur la page des [[créatures]] monstrueuses.
 
 <table width="100%">
 <tr><td style="width:32%" class="presentation">
 ### Les ethnies humaines
 
 #### Les ethnies modernes
-- Les [Chélaxiens](./Chélaxiens.md)
-- Les [Garundais](./Garundais.md)
-- Les [Kéléshites](./Kéléshites.md)
-- Les [Kellides](./Kellides.md)
-- Les [Mwangis](./Mwangis.md)
-- Les [Taldans](./Taldans.md)
-- Les [Tianais](./Tianais.md)
-- Les [Ulfes](./Ulfes.md)
-- Les [Varisiens](./Varisiens.md)
-- Les [Vudranais](./Vudranais.md)
+- Les [[Chélaxiens]]
+- Les [[Garundais]]
+- Les [[Kéléshites]]
+- Les [[Kellides]]
+- Les [[Mwangis]]
+- Les [[Taldans]]
+- Les [[Tianais]]
+- Les [[Ulfes]]
+- Les [[Varisiens]]
+- Les [[Vudranais]]
 
 #### Les ethnies mineures
-- Les [Shoantis](./Shoantis.md)
-- Les [Caldarus](./Caldarus.md)
-- Les [Lergenis](./Lergenis.md)
+- Les [[Shoantis]]
+- Les [[Caldarus]]
+- Les [[Lergenis]]
 
 #### Les ethnies et royaumes disparus
-- Les [Azlants](./Azlantes.md)
-- L'[Empire Jistka](./Empire Jistka.md)
-- La [Ligue Tékritaninne](./Ligue Tékritaninne.md)
-- Le [Ninshabur](./Ninshabur.md)
-- Le [Thassilon](./Thassilon.md)
+- Les [[Azlantes|Azlants]]
+- L'[[Empire Jistka]]
+- La [[Ligue Tékritaninne]]
+- Le [[Ninshabur]]
+- Le [[Thassilon]]
 
 </td><td style="width:1%"></td>
 <td style="width:32%" class="presentation">
 ### Les autres humanoïdes
-- Les [demi-elfes](./demi-elfes.md)
-- Les [demi-orques](./demi-orques.md)
-- Les [elfes](./elfes.md)
-- Les [gnomes](./gnomes.md)
-- Les [halfelins](./halfelins.md)
-- Les [nains](./nains.md)
+- Les [[demi-elfes]]
+- Les [[demi-orques]]
+- Les [[elfes]]
+- Les [[gnomes]]
+- Les [[halfelins]]
+- Les [[nains]]
 
 #### Les races additionnelles
-- Les [Aasimars](./../Pathfinder-RPG/Aasimar (race).md)
-- Les [dhampirs](./../Pathfinder-RPG/Dhampir (race).md)
-- Les [drows](./../Pathfinder-RPG/Drow (race).md)
-- Les [fetchelins](./../Pathfinder-RPG/Fetchelin (race).md)
-- Les [ifrits](./../Pathfinder-RPG/Ifrit (race).md)
-- Les [ondins](./../Pathfinder-RPG/Ondin (race).md)
-- Les [oréades](./../Pathfinder-RPG/Oréade (race).md)
-- Les [sylphes](./../Pathfinder-RPG/Sylphe (race).md)
-- Les [tieffelins](./../Pathfinder-RPG/Tieffelin (race).md)
+- Les [[pathfinder-rpg.aasimar (race)|Aasimars]]
+- Les [[pathfinder-rpg.dhampir (race)|dhampirs]]
+- Les [[pathfinder-rpg.drow (race)|drows]]
+- Les [[pathfinder-rpg.fetchelin (race)|fetchelins]]
+- Les [[pathfinder-rpg.ifrit (race)|ifrits]]
+- Les [[pathfinder-rpg.ondin (race)|ondins]]
+- Les [[pathfinder-rpg.oréade (race)|oréades]]
+- Les [[pathfinder-rpg.sylphe (race)|sylphes]]
+- Les [[pathfinder-rpg.tieffelin (race)|tieffelins]]
 
 #### Les races extraordinaires
-- Les [aquatiques](./../Pathfinder-RPG/aquatique (race).md)
-- Les [changelins](./../Pathfinder-RPG/changelin (race).md)
-- Les [duergars](./../Pathfinder-RPG/duergar (race).md)
-- Les [kitsunes](./../Pathfinder-RPG/kitsune (race).md)
-- Les [samsarans](./../Pathfinder-RPG/samsaran (race).md)
-- Les [sulis-janns](./../Pathfinder-RPG/suli (race).md)
-- Les [svirfneblins](./../Pathfinder-RPG/svirfneblin (race).md)
-- Les [wayangs](./../Pathfinder-RPG/wayang (race).md)
+- Les [[pathfinder-rpg.aquatique (race)|aquatiques]]
+- Les [[pathfinder-rpg.changelin (race)|changelins]]
+- Les [[pathfinder-rpg.duergar (race)|duergars]]
+- Les [[pathfinder-rpg.kitsune (race)|kitsunes]]
+- Les [[pathfinder-rpg.samsaran (race)|samsarans]]
+- Les [[pathfinder-rpg.suli (race)|sulis-janns]]
+- Les [[pathfinder-rpg.svirfneblin (race)|svirfneblins]]
+- Les [[pathfinder-rpg.wayang (race)|wayangs]]
 
 </td><td style="width:1%"></td>
 <td style="width:32%" class="presentation">
 ### Les humanoïdes thérianthropes
-- Les [gobelins](./../Pathfinder-RPG/Gobelin (race).md)
-- Les [hobgobelins](./../Pathfinder-RPG/Hobgobelin (race).md)
-- Les [hulines](./../Pathfinder-RPG/homme-félin (race).md)
-- Les [kobolds](./../Pathfinder-RPG/Kobold (race).md)
-- Les [orques](./../Pathfinder-RPG/orque (race).md)
-- Les [hommes-rats](./../Pathfinder-RPG/Homme-rat (race).md)
-- Les [tengus](./../Pathfinder-RPG/Tengu (race).md)
+- Les [[pathfinder-rpg.gobelin (race)|gobelins]]
+- Les [[pathfinder-rpg.hobgobelin (race)|hobgobelins]]
+- Les [[pathfinder-rpg.homme-félin (race)|hulines]]
+- Les [[pathfinder-rpg.kobold (race)|kobolds]]
+- Les [[pathfinder-rpg.orque (race)|orques]]
+- Les [[pathfinder-rpg.homme-rat (race)|hommes-rats]]
+- Les [[pathfinder-rpg.tengu (race)|tengus]]
 
 #### Les races extraordinaires
-- Les [gripplis](./../Pathfinder-RPG/grippli (race).md)
-- Les [hommes-poissons](./../Pathfinder-RPG/homme-poisson (race).md)
-- Les [kasathas](./../Pathfinder-RPG/Kasatha.md)
-- Les [nagajis](./../Pathfinder-RPG/nagaji (race).md)
-- Les [strix](./../Pathfinder-RPG/strix (race).md)
-- Les [vanaras](./../Pathfinder-RPG/vanara (race).md)
-- Les [vishkanyas](./../Pathfinder-RPG/vishkanya (race).md)
+- Les [[pathfinder-rpg.grippli (race)|gripplis]]
+- Les [[pathfinder-rpg.homme-poisson (race)|hommes-poissons]]
+- Les [[pathfinder-rpg.kasatha|kasathas]]
+- Les [[pathfinder-rpg.nagaji (race)|nagajis]]
+- Les [[pathfinder-rpg.strix (race)|strix]]
+- Les [[pathfinder-rpg.vanara (race)|vanaras]]
+- Les [[pathfinder-rpg.vishkanya (race)|vishkanyas]]
 </td></tr></table>

@@ -12,8 +12,8 @@ Categories:
 {s:BDTitre|Rat|FP 1/4}
 {s:BDTexte|*Source : Bestiaire p.137*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -24,9 +24,9 @@ Categories:
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 2, **Dex** 15, **Con** 11, **Int** 2, **Sag** 13, **Cha** 2}
-{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6 (10 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +18, [Escalade](./Escalade.md) +10, [Natation](./Natation.md) +10 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4}
+{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6 (10 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +18, [[Escalade]] +10, [[Natation]] +10 ; **Modificateurs raciaux** [[Discrétion]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** climat tempéré}
 {s:BDTexte|**Organisation sociale** solitaire, couple, nid (3-12) ou meute (13-100)}

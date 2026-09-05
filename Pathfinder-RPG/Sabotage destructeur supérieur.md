@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous devenez encore plus habile à saboter les objets de vos ennemis.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 13, [Attaque en puissance](./Attaque en puissance.md), [Sabotage destructeur](./Sabotage destructeur.md), [Science de la destruction](./Science de la destruction.md), 9 rangs en [Sabotage](./Sabotage.md)
+**Conditions.** [[For]] 13, [[Attaque en puissance]], [[Sabotage destructeur]], [[Science de la destruction]], 9 rangs en [[Sabotage]]
 
-**Avantages.** Le personnage ne provoque pas d'[attaque d'opportunité](./AO.md) lorsqu'il effectue la manœuvre offensive de destruction spéciale offerte par le don [Sabotage destructeur](./Sabotage destructeur.md). De plus, le personnage peut tenter d'utiliser cette manœuvre sur les objets tenus par la cible, mais il ne peut toujours pas le faire sur les objets cachés dans un sac, un paquet, ou un autre contenant.
+**Avantages.** Le personnage ne provoque pas d'[[AO|attaque d'opportunité]] lorsqu'il effectue la manœuvre offensive de destruction spéciale offerte par le don [[Sabotage destructeur]]. De plus, le personnage peut tenter d'utiliser cette manœuvre sur les objets tenus par la cible, mais il ne peut toujours pas le faire sur les objets cachés dans un sac, un paquet, ou un autre contenant.

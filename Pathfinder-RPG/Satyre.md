@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.255}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Fée](./type Fée.md) de taille M, CN}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +18}
+{s:BDTexte|[[type Fée|Fée]] de taille M, CN}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +18}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 13, pris au dépourvu 15 (Dex +2, esquive +1, naturelle +5)}
 {s:BDTexte|**pv** 44 (8d6+16)}
@@ -26,20 +26,20 @@ Categories:
 {s:BDTexte|**Distance** arc court +6 (1d6/x3)}
 {s:BDTexte|**Attaques spéciales** flûte de Pan}
 {s:BDTexte|**Pouvoirs magiques** (NLS 8)}
-{s:BDSorts|À volonté—*[charme-personne](./Charme-personne.md)* (DD 15), *[lumières dansantes](./Lumières dansantes.md)*, *[sommeil](./Sommeil.md)* (DD 15), *[son imaginaire](./Son imaginaire.md)* (DD 14), *[suggestion](./Suggestion.md)* (DD 17)}
-{s:BDSorts|1/jour—*[convocation d'alliés naturels III](./Convocation dalliés naturels III.md)*, *[terreur](./Terreur.md)* (DD 18)}
+{s:BDSorts|À volonté—*[[charme-personne]]* (DD 15), *[[lumières dansantes]]*, *[[sommeil]]* (DD 15), *[[son imaginaire]]* (DD 14), *[[suggestion]]* (DD 17)}
+{s:BDSorts|1/jour—*[[convocation dalliés naturels III|convocation d'alliés naturels III]]*, *[[terreur]]* (DD 18)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 15, **Con** 15, **Int** 12, **Sag** 14, **Cha** 19}
 {s:BDTexte|**BBA** +4, **BMO** +6, **DMD** 19}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +15, [Connaissances](./Connaissances.md) (nature) +10, [Déguisement](./Déguisement.md) +9, [Diplomatie](./Diplomatie.md) +15, [Discrétion](./Discrétion.md) +17, [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +18, [Représentation](./Représentation.md) (instruments à vent) +19, [Survie](./Survie.md) +7 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +4, [Représentation](./Représentation.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Esquive]], [[Souplesse du serpent]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Bluff]] +15, [[Connaissances]] (nature) +10, [[Déguisement]] +9, [[Diplomatie]] +15, [[Discrétion]] +17, [[Intimidation]] +9, [[Perception]] +18, [[Représentation]] (instruments à vent) +19, [[Survie]] +7 ; **Modificateurs raciaux** [[Discrétion]] +4, [[Perception]] +4, [[Représentation]] +4}
 {s:BDTexte|**Langues** commun, sylvestre}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple, groupe (3-6) ou orgie (7-11)}
 {s:BDTexte|**Trésor** standard (arc court et 20 flèches, dague, flûtes de pan de maître, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Flûtes de pan (Sur)** Les satyres peuvent canaliser leurs pouvoirs magiques en en augmenter la puissance en jouant des mélodies lugubres sur leurs flûtes de pan. Lorsqu'un satyre joue, toutes les créatures situées dans un rayon de 18 m (12 {s:c}) doivent réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 18 pour ne pas être affectées par *[charme-personne](./Charme-personne.md)*, *[sommeil](./Sommeil.md)*, *[suggestion](./Suggestion.md)* ou *[terreur](./Terreur.md)* (en fonction de la mélodie choisie par le satyre). Les créatures qui réussissent leur [jet de sauvegarde](./jet de sauvegarde.md) ne peuvent plus être affectées par la flûte de pan du satyre en question pendant 24 heures, mais cela ne les immunise pas contre les autres pouvoirs magiques du satyre. Les effets qu'un satyre produit à l'aide de sa flûte de pan ne réduisent pas son quota quotidien de pouvoirs magiques. S'il perd sa flûte, il peut continuer à utiliser ses pouvoirs magiques normalement. La flûte elle-même est un instrument de maître. Le satyre peut fabriquer nouvelle flûte en y consacrant 1 semaine de travail. Le DD des [jets de sauvegarde](./jet de sauvegarde.md) dépendent du [Charisme](./Charisme.md).}
+{s:BDTexte|**Flûtes de pan (Sur)** Les satyres peuvent canaliser leurs pouvoirs magiques en en augmenter la puissance en jouant des mélodies lugubres sur leurs flûtes de pan. Lorsqu'un satyre joue, toutes les créatures situées dans un rayon de 18 m (12 {s:c}) doivent réussir un jet de [[Volonté]] de [[DD]] 18 pour ne pas être affectées par *[[charme-personne]]*, *[[sommeil]]*, *[[suggestion]]* ou *[[terreur]]* (en fonction de la mélodie choisie par le satyre). Les créatures qui réussissent leur [[jet de sauvegarde]] ne peuvent plus être affectées par la flûte de pan du satyre en question pendant 24 heures, mais cela ne les immunise pas contre les autres pouvoirs magiques du satyre. Les effets qu'un satyre produit à l'aide de sa flûte de pan ne réduisent pas son quota quotidien de pouvoirs magiques. S'il perd sa flûte, il peut continuer à utiliser ses pouvoirs magiques normalement. La flûte elle-même est un instrument de maître. Le satyre peut fabriquer nouvelle flûte en y consacrant 1 semaine de travail. Le DD des [[jet de sauvegarde|jets de sauvegarde]] dépendent du [[Charisme]].}
 </div>
 </td><td><div>''Ce bel homme souriant a des pattes de chèvre, et des cornes courbées
 semblables à celles des boucs partent de ses tempes.''

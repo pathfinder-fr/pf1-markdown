@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [alchimiste](./Alchimiste.md) 1, [conjurateur](./Conjurateur.md) 1, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 1, [inquisiteur](./Inquisiteur.md) 1, [paladin](./Paladin.md) 1, [prêtre](./Prêtre.md) 1, [rôdeur](./Rôdeur.md) 1  
+**École** [[Abjuration]] ; **Niveau** [[alchimiste]] 1, [[conjurateur]] 1, [[ensorceleur]]/[[magicien]] 1, [[inquisiteur]] 1, [[paladin]] 1, [[prêtre]] 1, [[rôdeur]] 1  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
 
-**Restriction de cible** *[choisi](./Choisi.md)*, *[personnel](./Personnel (mot de pouvoir).md)*
+**Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
-La cible d’un sort incluant cet effet bénéficie d’un bonus de résistance de +1 à ses [jets de sauvegarde](./jet de sauvegarde.md), ainsi qu’un nombre de points de vie temporaires égal à ses dés de vie.
+La cible d’un sort incluant cet effet bénéficie d’un bonus de résistance de +1 à ses [[Jet de sauvegarde|jets de sauvegarde]], ainsi qu’un nombre de points de vie temporaires égal à ses dés de vie.

@@ -10,18 +10,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8, [Psy](./Psychiste.md) 8  
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (poudre de diamant, d’émeraude, de rubis et de saphir, pour une valeur totale de 5 000 po)  
+**Composantes** [[COMPOSANTES|V, G, M]] (poudre de diamant, d’émeraude, de rubis et de saphir, pour une valeur totale de 5 000 po)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** [permanente](./permanente.md)  
+**Durée** [[permanente]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le lanceur de sorts doit toucher sa cible à l’aide d’une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md). S’il réussit, son adversaire se retrouve en état de stase. Pour ce dernier le temps cesse de s’écouler et plus rien ne l’affecte. Il ne vieillit pas, ses fonctions corporelles se mettent en sommeil et aucune attaque ne peut lui faire de mal. L’*animation suspendue* se poursuit jusqu’à ce qu’une *[délivrance](./Délivrance.md)* ou une *[dissipation de la magie](./Dissipation de la magie.md)* réussie vienne y mettre un terme.
+Le lanceur de sorts doit toucher sa cible à l’aide d’une [[attaque de contact au corps à corps]]. S’il réussit, son adversaire se retrouve en état de stase. Pour ce dernier le temps cesse de s’écouler et plus rien ne l’affecte. Il ne vieillit pas, ses fonctions corporelles se mettent en sommeil et aucune attaque ne peut lui faire de mal. L’*animation suspendue* se poursuit jusqu’à ce qu’une *[[délivrance]]* ou une *[[dissipation de la magie]]* réussie vienne y mettre un terme.

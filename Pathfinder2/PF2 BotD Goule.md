@@ -4,9 +4,9 @@ Title: Goule (archétype)
 LastModified: 2022-04-27 11:06
 ---
 
-{s:bodmenu}• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+{s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 Vous avez succombé à la maladie nécrotique appelée la fièvre des goules et vous vous êtes relevé sous la forme d’une goule vorace sujette à l’envie constante et irrépressible de dévorer de la chair de créatures douées d’intelligence. Vous pouvez apaiser cette faim à l’aide de chairs dérobées dans des tombeaux anciens et provenant de créatures mortes depuis longtemps mais vous préférez nettement dévorer celles qui viennent de mourir, profitant d’une mort dont vous n’êtes pas à l’origine, tel un charognard, ou parce que vous avez vous-même tué la créature en question pour vous repaître de chair fraîche.
@@ -27,7 +27,7 @@ Les goules qui ne veulent pas s’encombrer des règles imposées par les vivant
 **Prérequis** Vous avez été tué par la fièvre des goules.
 
 Vous avez succombé à la fièvre des goules, vous êtes mort et vous êtes revenu en tant que goule, un de ces morts-vivants affligés d’une faim incessante pour la chair morte, une malédiction qui prend peu à peu le pas sur leur raison et leur volonté, jusqu’à ce qu’ils soient prêts à tout pour obtenir la nourriture qu’ils désirent. À ce changement de personnalité vient s’ajouter une modification de votre corps. Vos oreilles deviennent pointues et votre peau prend un teint bleuté et pâle. Vos ongles s’allongent en des griffes ; vos dents deviennent acérées comme des rasoirs prêts à arracher les chairs des os, et votre langue devient longue et pointue.
-Vous gagnez les traits Goule et Mort-vivant ainsi que les [avantages de base de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVBASE). Votre appétence de mort-vivant cible la chair des créatures mortes ; les cadavres récents des créatures dotées d’intelligence assouvissent vos désirs bien plus que les corps sans intelligence ou ayant entamé leur processus de putréfaction mais toutes les créatures mortes peuvent au moins repousser la faim pendant un moment. Vous gagnez deux attaques naturelles appartenant au groupe du combat à mains nues. La première attaque naturelle est une griffe qui inflige 1d4 points de dégâts tranchants et possède les traits agile et finesse ; la seconde est une attaque de mâchoires qui inflige 1d6 points de dégâts perforants et possède le trait finesse.
+Vous gagnez les traits Goule et Mort-vivant ainsi que les [[PF2 BotD Jouer un mort-vivant#AVBASE|avantages de base de morts-vivants]]. Votre appétence de mort-vivant cible la chair des créatures mortes ; les cadavres récents des créatures dotées d’intelligence assouvissent vos désirs bien plus que les corps sans intelligence ou ayant entamé leur processus de putréfaction mais toutes les créatures mortes peuvent au moins repousser la faim pendant un moment. Vous gagnez deux attaques naturelles appartenant au groupe du combat à mains nues. La première attaque naturelle est une griffe qui inflige 1d4 points de dégâts tranchants et possède les traits agile et finesse ; la seconde est une attaque de mâchoires qui inflige 1d6 points de dégâts perforants et possède le trait finesse.
 
 Vous gagnez l’action Consommer de la chair (voir plus bas). Celle-ci vous rassasie temporairement. De nombreux dons de goules concernent des capacités supplémentaires ou des effets qui peuvent être utilisés quand vous êtes rassasiés mais dont l’utilisation vous fait perdre ce statut de rassasié. Vous pouvez Consommer de la chair sans limite mais en manger plus que la quantité normale ne produit pas d’effet supplémentaire : la faim d’une goule est satisfaite ou ne l’est pas, sans demi-mesure.
 
@@ -73,7 +73,7 @@ Si vous êtes rassasié, quand vous touchez, vous pouvez choisir de perdre l’�
 
 **Prérequis** Dévotion de goule
 
-La chair que vous avez consommé au cours de votre existence en tant que goule vous a rendu plus fort en vous octroyant des intuitions étranges provenant des esprits des créatures intelligentes que vous avez dévorées, vous rapprochant ainsi du mort-vivant idéal. Vous gagnez les [avantages avancés de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVAVANCE). De plus, vous gagnez un bonus de statut de +1 case à votre Vitesse de déplacement quand vous êtes rassasié.
+La chair que vous avez consommé au cours de votre existence en tant que goule vous a rendu plus fort en vous octroyant des intuitions étranges provenant des esprits des créatures intelligentes que vous avez dévorées, vous rapprochant ainsi du mort-vivant idéal. Vous gagnez les [[PF2 BotD Jouer un mort-vivant#AVAVANCE|avantages avancés de morts-vivants]]. De plus, vous gagnez un bonus de statut de +1 case à votre Vitesse de déplacement quand vous êtes rassasié.
 </div>
 
 <div class="blocPF2">

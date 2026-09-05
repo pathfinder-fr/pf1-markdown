@@ -13,33 +13,33 @@ Categories:
 {s:BDTitre|Zhyen|FP 1/2}
 {s:pucem|Extérieur|Désert|Tempéré}
 {s:BDTexte|*Source : Recueil de la Société des Éclaireurs p.290*}
-{s:BDTexte|[Extérieur](./type Extérieur.md) (air, terre, feu ou eau) de taille TP, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Extérieur|Extérieur]] (air, terre, feu ou eau) de taille TP, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 14, pris au dépourvu 15 (+2 Dex, +3 naturelle, +2 taille)}
 {s:BDTexte|**pv** 9 (2d8)}
 {s:BDTexte|**Réf** +4, **Vig** +0, **Vol** +4}
 {s:BDTexte|**Résistances** acide 5, froid 5, électricité 5, feu 5}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 3 m, [vol](./Vol (capacité).md) 9 m (parfaite), nage 9 m (pour un zhyen de l’eau)}
+{s:BDTexte|**VD** 3 m, [[Vol (capacité)|vol]] 9 m (parfaite), nage 9 m (pour un zhyen de l’eau)}
 {s:BDTexte|**Corps à corps** contact au corps à corps, +1 (1d4 dégâts d’acide, de froid, d’électricité ou de feu)}
 {s:BDTexte|**Espace occupé** 75 cm ; **Allonge** 0 m}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 2)}
-{s:BDSorts|À volonté — *[manipulation à distance](./Manipulation à distance.md)*, *[réparation](./Réparation.md)*}
-{s:BDSorts|1/jour — *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)*, *[fatigue](./Fatigue.md)*}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 2)}
+{s:BDSorts|À volonté — *[[manipulation à distance]]*, *[[réparation]]*}
+{s:BDSorts|1/jour — *[[endurance aux énergies destructives]]*, *[[fatigue]]*}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Avant le combat** Les zhyens n’engagent pas le combat d’eux-mêmes, à moins d’être convoqués.}
-{s:BDTexte|**Pendant le combat** Le zhyen préfère éviter les attaques au moyen d’une action de [défense totale](./défense totale.md) mais, s’il est acculé, il attaque jusqu’à ce qu’il puisse s’enfuir.}
+{s:BDTexte|**Pendant le combat** Le zhyen préfère éviter les attaques au moyen d’une action de [[défense totale]] mais, s’il est acculé, il attaque jusqu’à ce qu’il puisse s’enfuir.}
 {s:BDTexte|**Moral** Pas habitué et généralement pas préparé au combat, le zhyen tente de fuir quand il est réduit à la moitié de ses points de vie ou moins.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 14, **Con** 10, **Int** 9, **Sag** 14, **Cha** 12}
 {s:BDTexte|**BBA** +1 ; **BMO** -3; **DMD** 9}
-{s:BDTexte|**Dons** [Course](./Course.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +0, [Connaissances](./Connaissances.md) (mystères) +0, [Connaissances](./Connaissances.md) (plans) +3, [Discrétion](./Discrétion.md) +14, Nage +6, [Perception](./Perception.md) +6, [Vol](./Vol.md) +6}
+{s:BDTexte|**Dons** [[Course]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +0, [[Connaissances]] (mystères) +0, [[Connaissances]] (plans) +3, [[Discrétion]] +14, Nage +6, [[Perception]] +6, [[Vol]] +6}
 {s:BDTexte|**Langues** aérien, aquatique, commun, igné, terreux}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Tous les déserts ou plans élémentaires}
-{s:BDTexte|**Organisation** Solitaire ou gang (1 zhyen et 2-4 [méphites](./Méphite.md))}
+{s:BDTexte|**Organisation** Solitaire ou gang (1 zhyen et 2-4 [[méphite|méphites]])}
 {s:BDTexte|**Trésor** Aucun}
 </div></td>
 <td><div>*Ce petit génie flotte dans les airs. Il mesure à peine 30 centimètres mais il n’a pas de jambes qui permettraient d’estimer sa véritable taille. Des volutes de lumière élémentaire s’échappent de ses yeux et il s’incline, prêt à vous servir.*

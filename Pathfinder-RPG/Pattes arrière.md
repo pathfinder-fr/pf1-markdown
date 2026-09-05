@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pattes arrière (capacité)
 ---
 
->>> [Pattes arrière (capacité)](./Pattes arrière (capacité).md)
+>>> [[Pattes arrière (capacité)]]

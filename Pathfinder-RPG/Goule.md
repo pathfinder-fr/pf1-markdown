@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.173*, Codex monstrueux p.102}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, CM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
 {s:BDTexte|**pv** 13 (2d8+4)}
 {s:BDTexte|**Réf** +2, **Vig** +2, **Vol** +5}
-{s:BDTexte|**Capacités défensives** [résistance à la canalisation](./résistance à la canalisation.md) +2 }
+{s:BDTexte|**Capacités défensives** [[résistance à la canalisation]] +2 }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +3 (1d6+1 et maladie et paralysie) et 2 griffes, +3 (1d6+1 et paralysie)}
-{s:BDTexte|**Attaques spéciales** [paralysie](./Paralysie (capacité).md) (1d4+1 rounds, DD 13, les elfes sont immunisés contre cet effet)}
+{s:BDTexte|**Attaques spéciales** [[Paralysie (capacité)|paralysie]] (1d4+1 rounds, DD 13, les elfes sont immunisés contre cet effet)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 15, **Con** -, **Int** 13, **Sag** 14, **Cha** 14}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 14}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +4, [Discrétion](./Discrétion.md) +7, [Escalade](./Escalade.md) +6, [Natation](./Natation.md) +3, [Perception](./Perception.md) +7}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +4, [[Discrétion]] +7, [[Escalade]] +6, [[Natation]] +3, [[Perception]] +7}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
@@ -37,7 +37,7 @@ Categories:
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
 {s:Reference|FIEVREDESGOULES}
-{s:BDTexte|**Maladie : fièvre des goules (Sur).** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ; *incubation* 1 jour ; *fréquence* 1/jour  ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d3 [Con](./Constitution.md) et 1d3 [Dex](./Dextérité.md) ; * guérison* 2 réussites consécutives. Le [DD](./DD.md) dépend du [Charisme](./Charisme.md). Lorsqu'un [humanoïde](./type Humanoïde.md) meurt de la fièvre des goules, il se relève sous la forme d'une goule dès que sonne minuit. Il ne conserve aucune des capacités qu'il possédait de son vivant et n'est pas soumis au contrôle des autres goules, la chair des vivants l'attire et il se comporte comme une goule normale. Ceux qui possèdent 4 [DV](./../Ressources/DV.md) ou plus se relèvent sous la forme de [blêmes](./Blême.md).}
+{s:BDTexte|**Maladie : fièvre des goules (Sur).** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 13 ; *incubation* 1 jour ; *fréquence* 1/jour  ; *effet* [[affaiblissement temporaire]] 1d3 [[Constitution|Con]] et 1d3 [[Dextérité|Dex]] ; * guérison* 2 réussites consécutives. Le [[DD]] dépend du [[Charisme]]. Lorsqu'un [[type humanoïde|humanoïde]] meurt de la fièvre des goules, il se relève sous la forme d'une goule dès que sonne minuit. Il ne conserve aucune des capacités qu'il possédait de son vivant et n'est pas soumis au contrôle des autres goules, la chair des vivants l'attire et il se comporte comme une goule normale. Ceux qui possèdent 4 [[DV]] ou plus se relèvent sous la forme de [[Blême|blêmes]].}
 </div>
 
 
@@ -49,25 +49,25 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Chauve-souris aile de suie](./Chauve-souris aile de suie.md) || 1/2
+| [[Chauve-souris aile de suie]] || 1/2
 |-
-| [Molosse goule](./Molosse goule.md) || 1
+| [[Molosse goule]] || 1
 |-
-| [Goule](./Goule.md) || 1
+| [[Goule]] || 1
 |-
-| [Goule sournoise](./Goule sournoise.md) || 3
+| [[Goule sournoise]] || 3
 |-
-| [Goule traqueuse](./Goule traqueuse.md) || 6
+| [[Goule traqueuse]] || 6
 |-
-| [Grand-veneur goule](./Grand-veneur goule.md) || 7
+| [[Grand-veneur goule]] || 7
 |-
-| [Assassin masqué](./Assassin masqué.md) || 8
+| [[Assassin masqué]] || 8
 |-
-| [Commandant goule](./Commandant goule.md) || 8
+| [[Commandant goule]] || 8
 |-
-| [Antique fossoyeur](./Antique fossoyeur.md) || 10
+| [[Antique fossoyeur]] || 10
 |-
-| [Monarque goule](./Monarque goule.md) || 12
+| [[Monarque goule]] || 12
 |}
 </div>*Cette créature humanoïde possède de longues dents acérées et sa peau pâle semble avoir été étirée autour d’un corps affamé.*
 
@@ -79,7 +79,7 @@ Les goules se tapissent aux abords de la civilisation (dans ou près des cimeti�
 Les habitudes alimentaires de ces goules « civilisées » n’en sont pas pour autant moins horribles. En fait, l’idée d’une table bien dressée lors d’un banquet de goules est peut-être même plus terrifiante que celle d’un repas fraîchement extrait de son cercueil.
 
 #### Blême
-Les [blêmes](./Blême.md) sont des goules qui possèdent l’archétype « évolué ». La paralysie des blêmes affectent même les elfes. Les blêmes se regroupent en meutes ou dirigent des bandes de goules normales. L’odeur de mort et de corruption qui émane de ces créatures est si puissante qu’elles gagnent la capacité extraordinaire de [puanteur](./Puanteur.md) (rayon de 3 m, [Vigueur](./Vigueur.md) DD 15 annule, [fiévreux](./Fiévreux.md) pendant 1d6+4 minutes).
+Les [[Blême|blêmes]] sont des goules qui possèdent l’archétype « évolué ». La paralysie des blêmes affectent même les elfes. Les blêmes se regroupent en meutes ou dirigent des bandes de goules normales. L’odeur de mort et de corruption qui émane de ces créatures est si puissante qu’elles gagnent la capacité extraordinaire de [[puanteur]] (rayon de 3 m, [[Vigueur]] DD 15 annule, [[fiévreux]] pendant 1d6+4 minutes).
 
 #### Lacédon
 Ces cousins aquatiques des goules vivent près des récifs cachés et des dangers qui menacent les navires. Les lacédons ont une vitesse de déplacement de base de 9 mètres et une vitesse de nage de 9 mètres.
@@ -109,7 +109,7 @@ Les cimetières attirent naturellement les goules qui passent souvent leur exist
 Les goules ne vivent pas toutes dans de sombres terriers sous les cimetières. Dans certaines régions isolées, elles disposent de villes voire de nations entières peuplées de leurs semblables et de morts-vivants. Dans ces cités, elles traitent les vivants comme du bétail. Les nations mortes-vivantes sont généralement dirigées par des liches ou des morts-vivants encore plus puissants mais, en certains lieux, les goules occupent des postes influents et il leur arrive même de régner. Les souverains de ces nations admettent qu’ils n’ont aucune chance de remporter une guerre contre les pays de vivants, bien plus peuplés, et concluent des accords avec leurs voisins pour négocier des esclaves ou juste des cadavres. Les plus grands pays de morts-vivants utilisent les humains comme esclaves qui travaillent dans les fermes pour produire leur propre nourriture avant de terminer à leur tour dans l’assiette de leurs maîtres.
 
 Les lacédons sont des goules aquatiques qui vivent dans des récifs isolés et des cavernes sous-marines près des communautés
-humanoïdes aquatiques comme celles des [grindylows](./Grindylow.md), des [locathahs](./Locathah.md) ou des [hommes-poissons](./homme-poisson (race).md). Dans les contes de ces habitants des mers, les lacédons sont aussi célèbres que les goules le sont dans les histoires des races de la terre ferme.
+humanoïdes aquatiques comme celles des [[Grindylow|grindylows]], des [[Locathah|locathahs]] ou des [[Homme-poisson (race)|hommes-poissons]]. Dans les contes de ces habitants des mers, les lacédons sont aussi célèbres que les goules le sont dans les histoires des races de la terre ferme.
 
 Les lacédons qui préfèrent des proies faciles résident près des côtes ou des routes commerciales très fréquentées où ils endurent de longues périodes de disette jusqu’à ce qu’un naufrage leur offre un glorieux festin sanglant. Les lacédons sont plus mobiles que les autres goules : s’ils détectent le goût du sang humanoïde dans l’eau, ils peuvent remonter le courant qui leur a amené le sang sur des kilomètres, jusqu’à trouver la source.
 
@@ -128,27 +128,27 @@ Voici quelques dons offrant de nouvelles perspectives aux goules.
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Cadavre de compagnie](./Cadavre de compagnie.md) || <sup>CM</sup> || Capacité de classe [compagnon animal](./Chasseur.md#COMPAGNONANIMAL), [goule](./Goule.md) || Gain d'un compagnon animal mort-vivant
+| [[Cadavre de compagnie]] || <sup>CM</sup> || Capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]], [[goule]] || Gain d'un compagnon animal mort-vivant
 
 |- CLASS="premier"
-| [Creuseur de terrier](./Creuseur de terrier.md) || <sup>CM</sup> || [Goule](./Goule.md) || Gain d'une vitesse de creusement
+| [[Creuseur de terrier]] || <sup>CM</sup> || [[Goule]] || Gain d'une vitesse de creusement
 |-
-| &emsp;[Dormeur](./Dormeur.md) || <sup>CM</sup> || [Creuseur de terrier](./Creuseur de terrier.md), [goule](./Goule.md) || Gain du pouvoir guérison accélérée près de terre ou de pierre
+| &emsp;[[Dormeur]] || <sup>CM</sup> || [[Creuseur de terrier]], [[goule]] || Gain du pouvoir guérison accélérée près de terre ou de pierre
 |-
-| &emsp;&emsp;[Vieux comme la poussière](./Vieux comme la poussière.md) || <sup>CM</sup> || [Dormeur](./Dormeur.md), [Creuseur de terrier](./Creuseur de terrier.md), avoir été une [goule](./Goule.md) pendant au moins 500 ans || Empêche de mourir sauf si le corps est complètement détruit
+| &emsp;&emsp;[[Vieux comme la poussière]] || <sup>CM</sup> || [[Dormeur]], [[Creuseur de terrier]], avoir été une [[goule]] pendant au moins 500 ans || Empêche de mourir sauf si le corps est complètement détruit
 
 |- CLASS="premier"
-| [Sac d'os](./Sac dos.md) || <sup>CM</sup> || [Goule](./Goule.md) || Bonus aux jets tests d'Évasion. Considéré comme d'une taille inférieure pour se faufiler
+| [[Sac dos|Sac d'os]] || <sup>CM</sup> || [[Goule]] || Bonus aux jets tests d'Évasion. Considéré comme d'une taille inférieure pour se faufiler
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Lignages d'ensorceleur
 Il arrive qu’une personne contracte la fièvre des goules et survive. Si elle compte un ensorceleur parmi ses descendants, il hérite souvent de ce lignage.
-- [Goule](./lignage Goule.md)
+- [[Lignage Goule|Goule]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Sorts
 Les sorts des goules reflètent leur obsession pour la mort et leur faim constante.
-- ***[Apparence charnue](./Apparence charnue.md)*** *(CM)* ([Alch 2](./Alchimiste.md), [Apal 2](./Barde.md), [Inq 2](./Inquisiteur.md), [Ens](./Ensorceleur.md)/[Mag 2](./Magicien.md), [Psy 2](./Psychiste.md), [Sor 2](./Sorcière.md)). Une créature mort-vivante tangible paraît vivante.
-- ***[Terre affamée](./Terre affamée.md)*** *(CM)* ([Dru 5](./Druide.md), [Ens](./Ensorceleur.md)/[Mag 5](./Magicien.md), [Sor 5](./Sorcière.md)). Envoûte le sol pour qu'il tire les créatures sous la surface.
+- ***[[Apparence charnue]]*** *(CM)* ([[Alchimiste|Alch 2]], [[Barde|Apal 2]], [[Inquisiteur|Inq 2]], [[Ensorceleur|Ens]]/[[Magicien|Mag 2]], [[Psychiste|Psy 2]], [[Sorcière|Sor 2]]). Une créature mort-vivante tangible paraît vivante.
+- ***[[Terre affamée]]*** *(CM)* ([[Druide|Dru 5]], [[Ensorceleur|Ens]]/[[Magicien|Mag 5]], [[Sorcière|Sor 5]]). Envoûte le sol pour qu'il tire les créatures sous la surface.
 </div></div>

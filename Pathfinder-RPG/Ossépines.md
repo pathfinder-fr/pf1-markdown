@@ -10,9 +10,9 @@ Categories:
 
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}<div class="BD">
 {s:BDTitre|Ossépines|{s:CM}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 22 000 po ; **Poids** 1 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 22 000 po ; **Poids** 1 kg
 (((Description)))
-Les *ossépines* sont un ensemble d’ossements blanchis d’humanoïdes (généralement des côtes, des vertèbres et des os de la main) que l’on transporte dans une sacoche grossière constituée de peau humaine, de ligaments et de tendons. Trois fois par jour, par une [action simple](./Action simple.md), le porteur peut jeter les *ossépines* au sol afin de créer une zone couverte de piques dangereuses. Ces pointes acérées, qui présentent la même couleur et la même forme que des os, fonctionnent comme un sort de *[croissance d’épines](./Croissance dépines.md)*. Les pointes occupent quatre espaces contigus de 3 mètres de côté auxquels l’utilisateur donne la forme qu’il souhaite au moment du déploiement. Les pointes restent actives pendant un maximum de trois heures, après quoi elles disparaissent tandis que les *ossépines* réintègrent magiquement leur sacoche.
+Les *ossépines* sont un ensemble d’ossements blanchis d’humanoïdes (généralement des côtes, des vertèbres et des os de la main) que l’on transporte dans une sacoche grossière constituée de peau humaine, de ligaments et de tendons. Trois fois par jour, par une [[action simple]], le porteur peut jeter les *ossépines* au sol afin de créer une zone couverte de piques dangereuses. Ces pointes acérées, qui présentent la même couleur et la même forme que des os, fonctionnent comme un sort de *[[croissance dépines|croissance d’épines]]*. Les pointes occupent quatre espaces contigus de 3 mètres de côté auxquels l’utilisateur donne la forme qu’il souhaite au moment du déploiement. Les pointes restent actives pendant un maximum de trois heures, après quoi elles disparaissent tandis que les *ossépines* réintègrent magiquement leur sacoche.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[animation des morts](./Animation des morts.md)*, *[croissance d’épines](./Croissance dépines.md)*; **Coût** 11 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[animation des morts]]*, *[[croissance dépines|croissance d’épines]]*; **Coût** 11 000 po
 </div>

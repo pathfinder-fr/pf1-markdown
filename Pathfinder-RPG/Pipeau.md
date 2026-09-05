@@ -14,31 +14,31 @@ Categories:
 {s:pucem|Aberration|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.216*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille M, N}
-{s:BDTexte|**Init** +4 ; **Sens** [vision à 360°](./Vision à 360° (capacité).md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Aberration|Aberration]] de taille M, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision à 360° (capacité)|vision à 360°]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 10, pris au dépourvu 15 (naturelle +11)}
 {s:BDTexte|**pv** 97 (13d8+39)}
 {s:BDTexte|**Réf** +6, **Vig** +9, **Vol** +10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 1,50 m (1 {s:c}), creusement 1,50 m (1 {s:c}), escalade 1,50 m (1 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +12 (1d6+3) et 8 tentacules, +11 (1d4+1 plus [étreinte](./Étreinte.md) et [attirer](./Attirer.md))}
+{s:BDTexte|**Corps à corps** morsure, +12 (1d6+3) et 8 tentacules, +11 (1d4+1 plus [[étreinte]] et [[attirer]])}
 {s:BDTexte|**Espace occupé** 1,50 m 1 {s:c} ; **Allonge** 1,50 m 1 {s:c} (4,50 m 3 {s:c} avec tentacules)}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (tentacule 1d4+3), implantation, [attirer](./Attirer.md) (tentacule, 1,5 m (1 {s:c}))}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (tentacule 1d4+3), implantation, [[attirer]] (tentacule, 1,5 m (1 {s:c}))}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 10, **Con** 17, **Int** 6, **Sag** 14, **Cha** 7}
 {s:BDTexte|**BBA** +9, **BMO** +12 (+18 lutte), **DMD** 22 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (tentacule), [Attaques multiples](./Attaques multiples.md), [Lutte supérieure](./Lutte supérieure.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Science des réflexes surhumains](./Science des réflexes surhumains.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (nature) +4, [Déguisement](./Déguisement.md) -1 (+11 en souche d'arbre), [Discrétion](./Discrétion.md) +9, [Escalade](./Escalade.md) +15, [Perception](./Perception.md) +14, [Psychologie](./Psychologie.md) +8 ; **Modificateurs raciaux** +12 en [déguisement](./Déguisement.md) en tant que souche d’arbre}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (tentacule), [[Attaques multiples]], [[Lutte supérieure]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science des réflexes surhumains]], [[Talent]] ([[Perception]]), [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (nature) +4, [[Déguisement]] -1 (+11 en souche d'arbre), [[Discrétion]] +9, [[Escalade]] +15, [[Perception]] +14, [[Psychologie]] +8 ; **Modificateurs raciaux** +12 en [[déguisement]] en tant que souche d’arbre}
 {s:BDTexte|**Particularités** leurre macabre}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Implantation (Ext).** Le pipeau peut infester une créature avec ses oeufs de deux façons. Une créature se nourrissant d’une carcasse utilisée par le monstre comme un leurre macabre est automatiquement infestée. Sinon, une fois par jour, le pipeau peut implanter un oeuf dans une créature [sans défense](./Sans défense.md) ou [immobilisée](./Immobilisé.md) au cours d’une action de [lutte](./lutte.md). La cible peut résister à l’implantation en réussissant un [jet de Vigueur](./jet de sauvegarde.md) [DD](./DD.md) 19 mais, en cas d’échec, la graine entre en gestation pour devenir une créature parfaitement consciente qui se nourrit lentement de son hôte avant de finalement se libérer en déchirant ses entrailles. On peut sortir le parasite du ventre de l’hôte en réussissant un test de [Premiers secours](./Premiers secours.md) de [DD](./DD.md) 25, ce qui prend 1 heure et inflige 3d6 points de dégâts tranchants, que le test soit réussi ou non. *[Guérison des maladies](./Guérison des maladies.md)* (ou tout autre effet similaire) tue l’oeuf implanté.}
-{s:BDTexte|**OEuf de pipeau** : infestation — ingestion ; *JS* Vigueur [DD](./DD.md) 19 ; *incubation* 1 journée ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 Force jusqu’à ce que l’hôte tombe à 0 point, puis 3d6 points de dégâts lorsque le parasite éclôt ; *guérison *3 réussites consécutives. Le [DD](./DD.md) du jet de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Leurre macabre (Ext).** En plaçant un cadavre au sommet de sa souche et en le criblant de petits filaments, le pipeau peut contrôler grossièrement le corps, le manipulant comme une marionnette. Le corps ne peut pas quitter la souche ni entreprendre d’[action complexe](./Action complexe.md), il sert de leurre pour attirer de plus grandes proies à portée des tentacules du pipeau. Le pipeau peut manipuler de cette manière des corps de deux catégories de taille inférieures à la sienne au maximum (des créatures de taille TP pour un pipeau de taille M). Lorsque le pipeau utilise un cadavre de cette manière, il gagne un bonus de +8 à ses tests de [Déguisement](./Déguisement.md) en plus de son bonus racial normal.}
+{s:BDTexte|**Implantation (Ext).** Le pipeau peut infester une créature avec ses oeufs de deux façons. Une créature se nourrissant d’une carcasse utilisée par le monstre comme un leurre macabre est automatiquement infestée. Sinon, une fois par jour, le pipeau peut implanter un oeuf dans une créature [[sans défense]] ou [[immobilisé|immobilisée]] au cours d’une action de [[lutte]]. La cible peut résister à l’implantation en réussissant un [[jet de sauvegarde|jet de Vigueur]] [[DD]] 19 mais, en cas d’échec, la graine entre en gestation pour devenir une créature parfaitement consciente qui se nourrit lentement de son hôte avant de finalement se libérer en déchirant ses entrailles. On peut sortir le parasite du ventre de l’hôte en réussissant un test de [[Premiers secours]] de [[DD]] 25, ce qui prend 1 heure et inflige 3d6 points de dégâts tranchants, que le test soit réussi ou non. *[[Guérison des maladies]]* (ou tout autre effet similaire) tue l’oeuf implanté.}
+{s:BDTexte|**OEuf de pipeau** : infestation — ingestion ; *JS* Vigueur [[DD]] 19 ; *incubation* 1 journée ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d4 Force jusqu’à ce que l’hôte tombe à 0 point, puis 3d6 points de dégâts lorsque le parasite éclôt ; *guérison *3 réussites consécutives. Le [[DD]] du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Leurre macabre (Ext).** En plaçant un cadavre au sommet de sa souche et en le criblant de petits filaments, le pipeau peut contrôler grossièrement le corps, le manipulant comme une marionnette. Le corps ne peut pas quitter la souche ni entreprendre d’[[action complexe]], il sert de leurre pour attirer de plus grandes proies à portée des tentacules du pipeau. Le pipeau peut manipuler de cette manière des corps de deux catégories de taille inférieures à la sienne au maximum (des créatures de taille TP pour un pipeau de taille M). Lorsque le pipeau utilise un cadavre de cette manière, il gagne un bonus de +8 à ses tests de [[Déguisement]] en plus de son bonus racial normal.}
 
 </div>
 </td><td><div>*Un petit animal forestier est assis, immobile, sur une souche usée, jusqu’à ce que la façade de la souche se déchire pour lui dessiner une immense gueule garnie de crocs.*

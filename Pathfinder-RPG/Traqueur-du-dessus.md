@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 222*}
 - 3 200 PX
-- [Aberration](./type Aberration.md) de taille TG, N
+- [[type aberration|Aberration]] de taille TG, N
 - **Init **+5 ; Sens perception aveugle à 3 m, vision dans le noir à 18 m, odorat ; Perception +5
 (((Défense)))
 - **CA **19, contact 9, pris au dépourvu 18 (Dex +1, naturelle +10, taille -2)
@@ -30,7 +30,7 @@ Categories:
 - **For **30, **Dex** 12, **Con** 19, **Int **2, **Sag **15, **Cha **9
 - **BBA **+7 ; **BMO **+19 (+23 en lutte) ; **DMD **30 (croc-en-jambe impossible)
 - **Dons **Attaques réflexes, Combat en aveugle, Science de l’initiative, Talent (Discrétion), Talent (Perception)
-- **Compétences **[Discrétion](./Discrétion.md) +8 (+16 dans des environnements rocailleux), [Escalade](./Escalade.md) +18, [Perception](./Perception.md) +5, [Vol](./Vol.md) +1 ; Modificateurs raciaux +4 en Discrétion (+12 dans les environnements rocailleux)
+- **Compétences **[[Discrétion]] +8 (+16 dans des environnements rocailleux), [[Escalade]] +18, [[Perception]] +5, [[Vol]] +1 ; Modificateurs raciaux +4 en Discrétion (+12 dans les environnements rocailleux)
 (((Écologie)))
 - **Environnement **souterrains
 - **Organisation **solitaire
@@ -39,9 +39,9 @@ Categories:
 - **Étouffement (Ext)**. Lorsque le traqueur-du-dessus agrippe une cible, il obstrue toutes les voies respiratoires de sa proie. Une cible agrippée ne peut plus parler ni lancer de sorts à composante verbale. Elle doit également retenir sa respiration (voir Asphyxie, page 447 du *Manuel des Joueurs Pathfinder JdR*).
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [raies des profondeurs](./Raie des profondeurs.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[raie des profondeurs|raies des profondeurs]].***</li></ul>
 Les traqueurs-du-dessus sont les mâles pratiquement décérébrés
-de l'espèce des [raies des profondeurs](./Raie des profondeurs.md). Ils appliquent à peu de choses près la même tactique
+de l'espèce des [[raie des profondeurs|raies des profondeurs]]. Ils appliquent à peu de choses près la même tactique
 que les capuches du bourreau. À la différence de ces dernières, ils
 peuvent étirer leur masse corporelle afin de planer à grande vitesse
 et en silence. Ils peuvent même voler maladroitement en agitant certaines

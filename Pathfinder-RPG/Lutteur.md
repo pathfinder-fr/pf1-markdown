@@ -30,7 +30,7 @@ mains nues
 | +2
 | +2
 | +0
-| CLASS="gauche" | [Combat à mains nues](./Lutteur.md#COMBATAMAINSNUES), [entraînement martial](./Lutteur.md#ENTRAINEMENTMARTIAL), [flexibilité martiale](./Lutteur.md#FLEXIBILITEMARTIALE), [ruse du lutteur](./Lutteur.md#RUSEDULUTTEUR)
+| CLASS="gauche" | [[lutteur#COMBATAMAINSNUES|Combat à mains nues]], [[lutteur#ENTRAINEMENTMARTIAL|entraînement martial]], [[lutteur#FLEXIBILITEMARTIALE|flexibilité martiale]], [[lutteur#RUSEDULUTTEUR|ruse du lutteur]]
 | 1d6
 |-
 | 2
@@ -38,7 +38,7 @@ mains nues
 | +3
 | +3
 | +0
-| CLASS="gauche" | [Déluge de coup du lutteur](./Lutteur.md#DELUGEDECOUPSDULUTTEUR) (combat à deux armes), [don de combat supplémentaire](./Lutteur.md#DONDECOMBATSUPPLEMENTAIRE)
+| CLASS="gauche" | [[lutteur#DELUGEDECOUPSDULUTTEUR|Déluge de coup du lutteur]] (combat à deux armes), [[lutteur#DONDECOMBATSUPPLEMENTAIRE|don de combat supplémentaire]]
 | 1d6
 |-
 | 3
@@ -46,7 +46,7 @@ mains nues
 | +3
 | +3
 | +1
-| CLASS="gauche" | [Entraînement aux manœuvres](./Lutteur.md#ENTRAINEMENTAUXMANOEUVRES) 1
+| CLASS="gauche" | [[lutteur#ENTRAINEMENTAUXMANOEUVRES|Entraînement aux manœuvres]] 1
 | 1d6
 |-
 | 4
@@ -54,7 +54,7 @@ mains nues
 | +4
 | +4
 | +1
-| CLASS="gauche" | [Bonus à la CA](./Lutteur.md#BONUSALACA) +1, [KO](./Lutteur.md#KO) 1/jour
+| CLASS="gauche" | [[lutteur#BONUSALACA|Bonus à la CA]] +1, [[lutteur#KO|KO]] 1/jour
 | 1d8
 |-
 | 5
@@ -62,7 +62,7 @@ mains nues
 | +4
 | +4
 | +1
-| CLASS="gauche" | [Don de combat supplémentaire](./Lutteur.md#DONDECOMBATSUPPLEMENTAIRE), [frappe du lutteur](./Lutteur.md#FRAPPEDULUTTEUR) (magique), [maîtrise des armes de proximité](./Lutteur.md#MAITRISEDESARMESDEPROXIMITE)
+| CLASS="gauche" | [[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (magique), [[lutteur#MAITRISEDESARMESDEPROXIMITE|maîtrise des armes de proximité]]
 | 1d8
 |-
 | 6
@@ -70,7 +70,7 @@ mains nues
 | +5
 | +5
 | +2
-| CLASS="gauche" | [Flexibilité martiale](./Lutteur.md#FLEXIBILITEMARTIALE) (action rapide)
+| CLASS="gauche" | [[lutteur#FLEXIBILITEMARTIALE|Flexibilité martiale]] (action rapide)
 | 1d8
 |-
 | 7
@@ -78,7 +78,7 @@ mains nues
 | +5
 | +5
 | +2
-| CLASS="gauche" | [Entraînement aux manœuvres](./Lutteur.md#ENTRAINEMENTAUXMANOEUVRES) 2
+| CLASS="gauche" | [[lutteur#ENTRAINEMENTAUXMANOEUVRES|Entraînement aux manœuvres]] 2
 | 1d8
 |-
 | 8
@@ -86,7 +86,7 @@ mains nues
 | +6
 | +6
 | +2
-| CLASS="gauche" | [Déluge de coup du lutteur](./Lutteur.md#DELUGEDECOUPSDULUTTEUR) (science du combat à deux armes), [don de combat supplémentaire](./Lutteur.md#DONDECOMBATSUPPLEMENTAIRE)
+| CLASS="gauche" | [[lutteur#DELUGEDECOUPSDULUTTEUR|Déluge de coup du lutteur]] (science du combat à deux armes), [[lutteur#DONDECOMBATSUPPLEMENTAIRE|don de combat supplémentaire]]
 | 1d10
 |-
 | 9
@@ -94,7 +94,7 @@ mains nues
 | +6
 | +6
 | +3
-| CLASS="gauche" | [Bonus à la CA](./Lutteur.md#BONUSALACA) +2, [frappe du lutteur](./Lutteur.md#FRAPPEDULUTTEUR) (fer froid et argent)
+| CLASS="gauche" | [[lutteur#BONUSALACA|Bonus à la CA]] +2, [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (fer froid et argent)
 | 1d10
 |-
 | 10
@@ -102,7 +102,7 @@ mains nues
 | +7
 | +7
 | +3
-| CLASS="gauche" | [Flexibilité martiale](./Lutteur.md#FLEXIBILITEMARTIALE) (action libre), [KO](./Lutteur.md#KO) 2/jour
+| CLASS="gauche" | [[lutteur#FLEXIBILITEMARTIALE|Flexibilité martiale]] (action libre), [[lutteur#KO|KO]] 2/jour
 | 1d10
 |-
 | 11
@@ -110,7 +110,7 @@ mains nues
 | +7
 | +7
 | +3
-| CLASS="gauche" | [Don de combat supplémentaire](./Lutteur.md#DONDECOMBATSUPPLEMENTAIRE), [entraînement aux manœuvres](./Lutteur.md#ENTRAINEMENTAUXMANOEUVRES) 3
+| CLASS="gauche" | [[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#ENTRAINEMENTAUXMANOEUVRES|entraînement aux manœuvres]] 3
 | 1d10
 |-
 | 12
@@ -118,7 +118,7 @@ mains nues
 | +8
 | +8
 | +4
-| CLASS="gauche" | [Flexibilité martiale](./Lutteur.md#FLEXIBILITEMARTIALE) (action immédiate), [frappe du lutteur](./Lutteur.md#FRAPPEDULUTTEUR) (alignement)
+| CLASS="gauche" | [[lutteur#FLEXIBILITEMARTIALE|Flexibilité martiale]] (action immédiate), [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (alignement)
 | 2d6
 |-
 | 13
@@ -126,7 +126,7 @@ mains nues
 | +8
 | +8
 | +4
-| CLASS="gauche" | [Bonus à la CA](./Lutteur.md#BONUSALACA) +3
+| CLASS="gauche" | [[lutteur#BONUSALACA|Bonus à la CA]] +3
 | 2d6
 |-
 | 14
@@ -134,7 +134,7 @@ mains nues
 | +9
 | +9
 | +4
-| CLASS="gauche" | [Don de combat supplémentaire](./Lutteur.md#DONDECOMBATSUPPLEMENTAIRE)
+| CLASS="gauche" | [[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]]
 | 2d6
 |-
 | 15
@@ -142,7 +142,7 @@ mains nues
 | +9
 | +9
 | +5
-| CLASS="gauche" | [Déluge de coup du lutteur](./Lutteur.md#DELUGEDECOUPSDULUTTEUR) (Combat à deux armes supérieur), [entraînement aux manœuvres](./Lutteur.md#ENTRAINEMENTAUXMANOEUVRES) 4
+| CLASS="gauche" | [[lutteur#DELUGEDECOUPSDULUTTEUR|Déluge de coup du lutteur]] (Combat à deux armes supérieur), [[lutteur#ENTRAINEMENTAUXMANOEUVRES|entraînement aux manœuvres]] 4
 | 2d6
 |-
 | 16
@@ -150,7 +150,7 @@ mains nues
 | +10
 | +10
 | +5
-| CLASS="gauche" | [Coup fabuleux](./Lutteur.md#COUPFABULEUX), [KO](./Lutteur.md#KO) 3/jour
+| CLASS="gauche" | [[lutteur#COUPFABULEUX|Coup fabuleux]], [[lutteur#KO|KO]] 3/jour
 | 2d8
 |-
 | 17
@@ -158,7 +158,7 @@ mains nues
 | +10
 | +10
 | +5
-| CLASS="gauche" | [Don de combat supplémentaire](./Lutteur.md#DONDECOMBATSUPPLEMENTAIRE), [frappe du lutteur](./Lutteur.md#FRAPPEDULUTTEUR) (adamantium)
+| CLASS="gauche" | [[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (adamantium)
 | 2d8
 |-
 | 18
@@ -166,7 +166,7 @@ mains nues
 | +11
 | +11
 | +6
-| CLASS="gauche" | [Bonus à la CA](./Lutteur.md#BONUSALACA) +4
+| CLASS="gauche" | [[lutteur#BONUSALACA|Bonus à la CA]] +4
 | 2d8
 |-
 | 19
@@ -174,7 +174,7 @@ mains nues
 | +11
 | +11
 | +6
-| CLASS="gauche" | [Entraînement aux manœuvres](./Lutteur.md#ENTRAINEMENTAUXMANOEUVRES) 5
+| CLASS="gauche" | [[lutteur#ENTRAINEMENTAUXMANOEUVRES|Entraînement aux manœuvres]] 5
 | 2d8
 |-
 | 20
@@ -182,13 +182,13 @@ mains nues
 | +12
 | +12
 | +6
-| CLASS="gauche" | [Don de combat supplémentaire](./Lutteur.md#DONDECOMBATSUPPLEMENTAIRE), [flexibilité martiale](./Lutteur.md#FLEXIBILITEMARTIALE) (autant que possible), [science du coup fabuleux](./Lutteur.md#SCIENCEDUCOUPFABULEUX)
+| CLASS="gauche" | [[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#FLEXIBILITEMARTIALE|flexibilité martiale]] (autant que possible), [[lutteur#SCIENCEDUCOUPFABULEUX|science du coup fabuleux]]
 | 2d10
 |}
 
 **Rôle.** Le lutteur est très mobile et particulièrement doué pour prendre ses ennemis en tenaille ou se débarrasser d’adversaires en armure légère. Il s’adapte très vite aux situations changeantes sur un champ de bataille.
 
-**Classes mères.** [Guerrier](./Guerrier.md) et [moine](./Moine.md).
+**Classes mères.** [[Guerrier]] et [[Moine]].
 
 **Alignement.** Tous.
 
@@ -198,9 +198,9 @@ mains nues
 
 {s:ImageDroite|Illustrations/PNJ/Kess.jpg|30%}
 ### Compétences de classe
-Voici les compétences de classe du lutteur : [Acrobaties](./Acrobaties.md) (Dex), [Artisanat](./Artisanat.md) (Int), [Connaissances](./Connaissances.md) (exploration souterraine) (Int), [Connaissances](./Connaissances.md) (folklore local) (Int), [Dressage](./Dressage.md) (Cha), [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Évasion](./Évasion.md) (Dex), [Intimidation](./Intimidation.md) (Cha), [Natation](./Natation.md) (For), [Perception](./Perception.md) (Sag), [Profession](./Profession.md) (Sag) et [Psychologie](./Psychologie.md) (Sag).
+Voici les compétences de classe du lutteur : [[Acrobaties]] (Dex), [[Artisanat]] (Int), [[Connaissances]] (exploration souterraine) (Int), [[Connaissances]] (folklore local) (Int), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Évasion]] (Dex), [[Intimidation]] (Cha), [[Natation]] (For), [[Perception]] (Sag), [[Profession]] (Sag) et [[Psychologie]] (Sag).
 
-**Points de compétence par niveau.** 4 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 4 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
 Voici les aptitudes de classe du lutteur.
@@ -210,21 +210,21 @@ Un lutteur est formé au maniement de toutes les armes courantes ainsi que de la
 
 {s:reference|ENTRAINEMENTMARTIAL}
 #### Entraînement martial (Ext)
-À partir du niveau 1, le lutteur considère ses niveaux de lutteur comme des niveaux de [moine](./Moine.md) et de [guerrier](./Guerrier.md) quand il s’agit de remplir les conditions requises par un don. Il est aussi considéré comme un guerrier et un moine vis-à-vis des dons et des objets magiques qui fonctionnent différemment avec les personnages possédant des niveaux dans ces classes (comme [Coup étourdissant](./Coup étourdissant.md) et la [robe de moine](./Robe de moine.md)).
+À partir du niveau 1, le lutteur considère ses niveaux de lutteur comme des niveaux de [[moine]] et de [[guerrier]] quand il s’agit de remplir les conditions requises par un don. Il est aussi considéré comme un guerrier et un moine vis-à-vis des dons et des objets magiques qui fonctionnent différemment avec les personnages possédant des niveaux dans ces classes (comme [[Coup étourdissant]] et la [[robe de moine]]).
 
 Cette aptitude n’offre pas les dons que les guerriers et les moines acquièrent automatiquement en fonction de leur niveau de classe, comme le Coup étourdissant.
 
 {s:reference|FLEXIBILITEMARTIALE}
 #### Flexibilité martiale (Ext)
-Le lutteur peut accomplir une [action de mouvement](./Action de mouvement.md) pour profiter d’un [don de combat](./Dons.md#COMBAT) qu’il ne possède pas. Cet effet dure une minute et le lutteur doit remplir les conditions requises par le don.
+Le lutteur peut accomplir une [[action de mouvement]] pour profiter d’un [[Dons#COMBAT|don de combat]] qu’il ne possède pas. Cet effet dure une minute et le lutteur doit remplir les conditions requises par le don.
 
-Chaque jour, il peut utiliser ce pouvoir un nombre de fois égal à 3 + 1/2 niveau de lutteur (1 au minimum). Le lutteur peut utiliser de nouveau ce pouvoir avant la fin de sa durée s’il veut remplacer le don de combat choisi par un autre. Si le don de combat a un nombre d’utilisations limité (comme [Coup étourdissant](./Coup étourdissant.md)), à chaque fois que le lutteur utilise ce don grâce à ce pouvoir, il décompte l’utilisation de la limite quotidienne.
+Chaque jour, il peut utiliser ce pouvoir un nombre de fois égal à 3 + 1/2 niveau de lutteur (1 au minimum). Le lutteur peut utiliser de nouveau ce pouvoir avant la fin de sa durée s’il veut remplacer le don de combat choisi par un autre. Si le don de combat a un nombre d’utilisations limité (comme [[Coup étourdissant]]), à chaque fois que le lutteur utilise ce don grâce à ce pouvoir, il décompte l’utilisation de la limite quotidienne.
 
-Au niveau 6, le lutteur peut utiliser cette aptitude pour profiter de deux dons de combat à la fois. Il peut choisir un don par une [action rapide](./Action rapide.md) ou deux dons par une [action de mouvement](./Action de mouvement.md). Il peut utiliser le premier don pour remplir les conditions requises par le deuxième. En revanche, il ne peut pas remplacer un don remplissant une condition requise par un autre à moins de remplacer aussi cet autre don. Chaque don choisi est décompté du nombre d’utilisations quotidiennes de ce pouvoir.
+Au niveau 6, le lutteur peut utiliser cette aptitude pour profiter de deux dons de combat à la fois. Il peut choisir un don par une [[action rapide]] ou deux dons par une [[action de mouvement]]. Il peut utiliser le premier don pour remplir les conditions requises par le deuxième. En revanche, il ne peut pas remplacer un don remplissant une condition requise par un autre à moins de remplacer aussi cet autre don. Chaque don choisi est décompté du nombre d’utilisations quotidiennes de ce pouvoir.
 
-Au niveau 10, le lutteur peut utiliser cette aptitude pour bénéficier de trois dons de combat à la fois. Il peut en choisir un par une [action libre](./Action libre.md), deux par une action rapide et trois par une action de mouvement. Il peut utiliser le premier pour remplir les conditions requises du deuxième ou du troisième et le deuxième pour remplir les conditions requises du troisième. Chaque don choisi est décompté du nombre d’utilisations quotidiennes de ce pouvoir.
+Au niveau 10, le lutteur peut utiliser cette aptitude pour bénéficier de trois dons de combat à la fois. Il peut en choisir un par une [[action libre]], deux par une action rapide et trois par une action de mouvement. Il peut utiliser le premier pour remplir les conditions requises du deuxième ou du troisième et le deuxième pour remplir les conditions requises du troisième. Chaque don choisi est décompté du nombre d’utilisations quotidiennes de ce pouvoir.
 
-Au niveau 12, le lutteur peut utiliser cette aptitude pour bénéficier d’un don de combat par une [action immédiate](./Action immédiate.md) ou de trois dons de combat par une [action rapide](./Action rapide.md). Chaque don choisi est décompté du nombre d’utilisations quotidiennes de ce pouvoir.
+Au niveau 12, le lutteur peut utiliser cette aptitude pour bénéficier d’un don de combat par une [[action immédiate]] ou de trois dons de combat par une [[action rapide]]. Chaque don choisi est décompté du nombre d’utilisations quotidiennes de ce pouvoir.
 
 Au niveau 20, le lutteur peut utiliser cette aptitude pour bénéficier d’autant de dons de combat qu’il le désire par une
 action rapide. Chaque don choisi est décompté du nombre d’utilisations quotidiennes de ce pouvoir.
@@ -257,60 +257,60 @@ de taille P ou G
 |-
 |}
 </div></div>
-Au niveau 1, le lutteur gagne [Science du combat à mains nues](./Science du combat à mains nues.md) comme don supplémentaire. Il peut attaquer avec les poings, les coudes, les genoux et les pieds, ce qui veut dire qu’il peut attaquer à mains nues même s’il a les mains prises. Il applique la totalité de son bonus de [Force](./Force.md) (et non la moitié) aux jets de dégâts à mains nues. En général, les attaques à mains nues du lutteur infligent des dégâts létaux mais, s’il le désire, il peut infliger des dégâts non-létaux sans pour autant subir de malus au [jet d’attaque](./jet dattaque.md). De même, il peut choisir d’infliger des dégâts létaux ou non lors d’une lutte.
+Au niveau 1, le lutteur gagne [[Science du combat à mains nues]] comme don supplémentaire. Il peut attaquer avec les poings, les coudes, les genoux et les pieds, ce qui veut dire qu’il peut attaquer à mains nues même s’il a les mains prises. Il applique la totalité de son bonus de [[Force]] (et non la moitié) aux jets de dégâts à mains nues. En général, les attaques à mains nues du lutteur infligent des dégâts létaux mais, s’il le désire, il peut infliger des dégâts non-létaux sans pour autant subir de malus au [[jet dattaque|jet d’attaque]]. De même, il peut choisir d’infliger des dégâts létaux ou non lors d’une lutte.
 
-Les attaques à mains nues du lutteur sont considérées comme portées avec des armes naturelles et manufacturées vis-à-vis des sorts qui modifient les armes naturelles ou manufacturées. Le lutteur inflige plus de dégâts à mains nues que les autres personnages, comme indiqué dans la table. Un lutteur de [taille P](./taille P.md) inflige moins de dégâts que ce qui est indiqué alors qu’un lutteur de taille G en inflige plus.
+Les attaques à mains nues du lutteur sont considérées comme portées avec des armes naturelles et manufacturées vis-à-vis des sorts qui modifient les armes naturelles ou manufacturées. Le lutteur inflige plus de dégâts à mains nues que les autres personnages, comme indiqué dans la table. Un lutteur de [[taille P]] inflige moins de dégâts que ce qui est indiqué alors qu’un lutteur de taille G en inflige plus.
 
 Consultez la table ci-contre pour de plus amples informations.
 
 {s:reference|RUSEDULUTTEUR}
 #### Ruse du lutteur (Ext)
-Si le lutteur a une [Intelligence](./Intelligence.md) inférieure à 13, on considère qu’elle est de 13 quand il s’agit de remplir les conditions requises par un don de combat.
+Si le lutteur a une [[Intelligence]] inférieure à 13, on considère qu’elle est de 13 quand il s’agit de remplir les conditions requises par un don de combat.
 
 {s:reference|DONDECOMBATSUPPLEMENTAIRE}
 #### Dons de combat supplémentaires
 Au niveau 2 puis tous les trois niveaux, le lutteur gagne un don de combat supplémentaire, en plus de ceux obtenus lors de sa progression normale. Il doit impérativement les choisir parmi ceux qui améliorent ses défenses ou son attaque au corps à corps. Il doit remplir les conditions requises par les dons choisis.
 
 Au niveau 5 puis tous les trois niveaux, le lutteur peut apprendre un nouveau don de combat à la place d’un don qu’il
-connaît déjà. Il perd donc le don qu’il connaissait et acquiert le nouveau. L’ancien don ne devait pas servir de condition requise pour un autre don, une [classe de prestige](./classe de prestige.md) ou une aptitude. Le lutteur ne peut changer qu’un don à chaque fois que son niveau le lui permet. Il doit choisir de l’échanger au moment où il obtient son nouveau don de combat pour le niveau.
+connaît déjà. Il perd donc le don qu’il connaissait et acquiert le nouveau. L’ancien don ne devait pas servir de condition requise pour un autre don, une [[classe de prestige]] ou une aptitude. Le lutteur ne peut changer qu’un don à chaque fois que son niveau le lui permet. Il doit choisir de l’échanger au moment où il obtient son nouveau don de combat pour le niveau.
 
 {s:reference|DELUGEDECOUPSDULUTTEUR}
 #### Déluge de coups du lutteur (Ext)
-À partir du niveau 2, le lutteur peut effectuer un déluge de coups du lutteur par une [action complexe](./Action complexe.md). Il dispose alors du don [Combat à deux armes](./Combat à deux armes.md) tant qu’il attaque avec une combinaison de frappes à mains nues, d’armes du groupe d’armes de proximité du guerrier ou d’armes dites « de moine. » Il n’a pas besoin d’utiliser deux armes différentes pour se servir de ce pouvoir.
+À partir du niveau 2, le lutteur peut effectuer un déluge de coups du lutteur par une [[action complexe]]. Il dispose alors du don [[Combat à deux armes]] tant qu’il attaque avec une combinaison de frappes à mains nues, d’armes du groupe d’armes de proximité du guerrier ou d’armes dites « de moine. » Il n’a pas besoin d’utiliser deux armes différentes pour se servir de ce pouvoir.
 
-Le lutteur applique la totalité de son modificateur de [Force](./Force.md) à ses jets de dégâts pour toutes les attaques du déluge de coups du lutteur, qu’il les porte avec une arme dans la main secondaire ou une arme dans chaque main. Lors d'un déluge de coups, il peut remplacer ses attaques à mains nues par des manœuvres de [désarmement](./désarmement.md), de [destruction d’arme](./destruction.md) et de [croc-en-jambe](./croc-en-jambe.md). Un lutteur doté d’armes naturelles ne peut pas les utiliser lors d’un déluge de coup du lutteur. Il ne peut pas non plus s’en servir pour faire des attaques en plus de ses attaques de déluge de coup du lutteur.
+Le lutteur applique la totalité de son modificateur de [[Force]] à ses jets de dégâts pour toutes les attaques du déluge de coups du lutteur, qu’il les porte avec une arme dans la main secondaire ou une arme dans chaque main. Lors d'un déluge de coups, il peut remplacer ses attaques à mains nues par des manœuvres de [[désarmement]], de [[destruction|destruction d’arme]] et de [[croc-en-jambe]]. Un lutteur doté d’armes naturelles ne peut pas les utiliser lors d’un déluge de coup du lutteur. Il ne peut pas non plus s’en servir pour faire des attaques en plus de ses attaques de déluge de coup du lutteur.
 
-Au niveau 8, le lutteur gagne le don [Science du combat à deux armes](./Science du combat à deux armes.md) quand il utilise le déluge de coups du lutteur.
+Au niveau 8, le lutteur gagne le don [[Science du combat à deux armes]] quand il utilise le déluge de coups du lutteur.
 
-Au niveau 15, il gagne [Combat à deux armes supérieur](./Combat à deux armes supérieur.md) quand il se sert de cette aptitude.
+Au niveau 15, il gagne [[Combat à deux armes supérieur]] quand il se sert de cette aptitude.
 
 {s:reference|ENTRAINEMENTAUXMANOEUVRES}
 #### Entraînement aux manoeuvres offensives (Ext)
-Au niveau 3, le lutteur peut développer sa maîtrise d’une manœuvre offensive. Il gagne un bonus de +1 lors de ses tests quand il effectue cette manœuvre et un bonus de +1 à son [DMD](./DMD.md) quand il se défend contre elle.
+Au niveau 3, le lutteur peut développer sa maîtrise d’une manœuvre offensive. Il gagne un bonus de +1 lors de ses tests quand il effectue cette manœuvre et un bonus de +1 à son [[DMD]] quand il se défend contre elle.
 
-Au niveau 7, puis tous les quatre niveaux, il perfectionne son entraînement dans une autre manœuvre offensive et gagne les bonus au test de manœuvre et au [DMD](./DMD.md) précédemment cités. De plus, les bonus des manœuvres déjà améliorées augmentent tous de 1 (par exemple, si un lutteur choisit la [lutte](./lutte.md) au niveau 3 et la [destruction](./destruction.md) d’arme au niveau 7, ses bonus à la [lutte](./lutte.md) sont de +2 et de +1 à la destruction d’armes. S’il choisit la [bousculade](./bousculade.md) en arrivant au niveau 11, ses bonus à la lutte passent à +3, ses bonus à la destruction d’armes à +2 et son bonus à la bousculade est de +1).
+Au niveau 7, puis tous les quatre niveaux, il perfectionne son entraînement dans une autre manœuvre offensive et gagne les bonus au test de manœuvre et au [[DMD]] précédemment cités. De plus, les bonus des manœuvres déjà améliorées augmentent tous de 1 (par exemple, si un lutteur choisit la [[lutte]] au niveau 3 et la [[destruction]] d’arme au niveau 7, ses bonus à la [[lutte]] sont de +2 et de +1 à la destruction d’armes. S’il choisit la [[bousculade]] en arrivant au niveau 11, ses bonus à la lutte passent à +3, ses bonus à la destruction d’armes à +2 et son bonus à la bousculade est de +1).
 
 {s:reference|BONUSALACA}
 #### Bonus à la CA (Ext)
-Au niveau 4, quand le lutteur porte une armure légère ou ne porte pas d’armure, il gagne un bonus d’esquive de +1 à la [CA](./CA.md) et au [DMD](./DMD.md). Ce bonus augmente de 1 aux niveaux 9, 13 et 18. Ces bonus à la CA s’appliquent aux attaques de contact. Le lutteur les perd s’il est [immobilisé](./Immobilisé.md) ou [sans défense](./Sans défense.md), s’il porte une armure intermédiaire ou lourde ou encore s’il porte une charge intermédiaire ou lourde.
+Au niveau 4, quand le lutteur porte une armure légère ou ne porte pas d’armure, il gagne un bonus d’esquive de +1 à la [[CA]] et au [[DMD]]. Ce bonus augmente de 1 aux niveaux 9, 13 et 18. Ces bonus à la CA s’appliquent aux attaques de contact. Le lutteur les perd s’il est [[immobilisé]] ou [[sans défense]], s’il porte une armure intermédiaire ou lourde ou encore s’il porte une charge intermédiaire ou lourde.
 
 {s:reference|KO}
 #### KO (Ext)
-Au niveau 4, le lutteur peut, une fois par jour, porter une attaque dévastatrice qui met immédiatement sa cible KO. Il doit annoncer son intention avant de lancer l’attaque. S’il touche et que la cible subit des dégâts suite à son coup, elle doit réussir un jet de [Vigueur](./Vigueur.md) ([DD](./DD.md) = 10 + 1/2 niveau de lutteur + le plus élevé entre le modificateur de [Dextérité](./Dextérité.md) ou de [Force](./Force.md) du lutteur). Si elle échoue, elle tombe [inconsciente](./Inconscient.md) pendant 1d6 rounds.
+Au niveau 4, le lutteur peut, une fois par jour, porter une attaque dévastatrice qui met immédiatement sa cible KO. Il doit annoncer son intention avant de lancer l’attaque. S’il touche et que la cible subit des dégâts suite à son coup, elle doit réussir un jet de [[Vigueur]] ([[DD]] = 10 + 1/2 niveau de lutteur + le plus élevé entre le modificateur de [[Dextérité]] ou de [[Force]] du lutteur). Si elle échoue, elle tombe [[inconscient|inconsciente]] pendant 1d6 rounds.
 
-À chaque round, la cible évanouie peut, à son tour, effectuer un nouveau [jet de sauvegarde](./jet de sauvegarde.md) pour mettre un terme à l’effet par une [action complexe](./Action complexe.md) qui ne provoque pas d’[attaque d’opportunité](./AO.md). Les créatures immunisées contre les [coups critiques](./coup critique.md) et les dégâts non-létaux sont aussi immunisées contre cette aptitude.
+À chaque round, la cible évanouie peut, à son tour, effectuer un nouveau [[jet de sauvegarde]] pour mettre un terme à l’effet par une [[action complexe]] qui ne provoque pas d’[[AO|attaque d’opportunité]]. Les créatures immunisées contre les [[coup critique|coups critiques]] et les dégâts non-létaux sont aussi immunisées contre cette aptitude.
 
 Au niveau 10, le lutteur peut utiliser cette aptitude deux fois par jour et trois fois au niveau 16.
 
 {s:reference|FRAPPEDULUTTEUR}
 #### Frappe du lutteur (Ext)
-Au niveau 5, les coups que le lutteur porte à mains nues sont considérés comme des armes magiques quand il s’agit de surmonter la [réduction de dégâts](./RD.md).
+Au niveau 5, les coups que le lutteur porte à mains nues sont considérés comme des armes magiques quand il s’agit de surmonter la [[RD|réduction de dégâts]].
 
 Au niveau 9, ils sont également considérés comme des armes en fer froid et en argent pour surmonter cette réduction.
 
-Au niveau 12, le lutteur choisit une composante d’alignement : Chaos, Mal, Bien ou Loi. Ses coups sont considérés comme étant de cet alignement vis-à-vis de la [réduction de dégâts](./RD.md) (cet alignement ne peut s’opposer à celui du lutteur, un lutteur Bon ne peut donc pas choisir des frappes Mauvaises).
+Au niveau 12, le lutteur choisit une composante d’alignement : Chaos, Mal, Bien ou Loi. Ses coups sont considérés comme étant de cet alignement vis-à-vis de la [[RD|réduction de dégâts]] (cet alignement ne peut s’opposer à celui du lutteur, un lutteur Bon ne peut donc pas choisir des frappes Mauvaises).
 
-Au niveau 17, ses coups sont considérés comme des armes en adamantium quand il s’agit d’ignorer la réduction de dégâts et la [solidité](./solidité.md).
+Au niveau 17, ses coups sont considérés comme des armes en adamantium quand il s’agit d’ignorer la réduction de dégâts et la [[solidité]].
 
 {s:reference|MAITRISEDESARMESDEPROXIMITE}
 #### Maîtrise des armes de proximité (Ext)
@@ -318,10 +318,10 @@ Au niveau 5, le lutteur inflige plus de dégâts avec les armes de proximité. Q
 
 {s:reference|COUPFABULEUX}
 #### Coup fabuleux (Ext)
-Au niveau 16, le lutteur peut, par une [action simple](./Action simple.md), effectuer une manœuvre offensive de coup fabuleux contre une créature tangible de sa taille ou plus petite. S'il réussit son test de manœuvre, la cible subit des dégâts comme si elle avait reçu un coup de l’arme de proximité du lutteur ou de ses mains nues.
+Au niveau 16, le lutteur peut, par une [[action simple]], effectuer une manœuvre offensive de coup fabuleux contre une créature tangible de sa taille ou plus petite. S'il réussit son test de manœuvre, la cible subit des dégâts comme si elle avait reçu un coup de l’arme de proximité du lutteur ou de ses mains nues.
 
-De plus, elle est propulsée sur 3 mètres (2 {s:c}) dans la direction choisie par le lutteur et elle tombe [à terre](./À terre.md). Le lutteur peut la déplacer en ligne droite seulement et ne peut pas la rapprocher de lui. Si un obstacle empêche la cible de terminer son déplacement, la cible et l’obstacle subissent tous deux 1d6 points de dégâts et la cible tombe à terre dans l’espace adjacent à l’obstacle (contrairement au don de monstre [Coup fabuleux](./Coup fabuleux.md), le lutteur peut utiliser cette aptitude quelle que soit sa taille).
+De plus, elle est propulsée sur 3 mètres (2 {s:c}) dans la direction choisie par le lutteur et elle tombe [[à terre]]. Le lutteur peut la déplacer en ligne droite seulement et ne peut pas la rapprocher de lui. Si un obstacle empêche la cible de terminer son déplacement, la cible et l’obstacle subissent tous deux 1d6 points de dégâts et la cible tombe à terre dans l’espace adjacent à l’obstacle (contrairement au don de monstre [[Coup fabuleux]], le lutteur peut utiliser cette aptitude quelle que soit sa taille).
 
 {s:reference|SCIENCEDUCOUPFABULEUX}
 #### Science du coup fabuleux (Ext)
-Au niveau 20, le lutteur peut utiliser son aptitude de coup fabuleux comme une attaque et non plus comme une [action simple](./Action simple.md). Il peut s’en servir contre des créatures de n’importe quelle taille. S’il fait un 20 naturel sur le test de manœuvre, il peut confirmer le [critique](./coup critique.md) avec un autre jet auquel il ajoute les mêmes modificateurs que ceux appliqués au jet qu’il vient de faire. S’il confirme le critique, l’attaque inflige des dégâts doublés et, si la cible heurte un obstacle, les dégâts de collision sont eux aussi doublés.
+Au niveau 20, le lutteur peut utiliser son aptitude de coup fabuleux comme une attaque et non plus comme une [[action simple]]. Il peut s’en servir contre des créatures de n’importe quelle taille. S’il fait un 20 naturel sur le test de manœuvre, il peut confirmer le [[coup critique|critique]] avec un autre jet auquel il ajoute les mêmes modificateurs que ceux appliqués au jet qu’il vient de faire. S’il confirme le critique, l’attaque inflige des dégâts doublés et, si la cible heurte un obstacle, les dégâts de collision sont eux aussi doublés.

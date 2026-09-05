@@ -12,9 +12,9 @@ Categories:
 
 *Vos instincts primaux vous empêchent d'être pris par surprise.*
 
-**Condition.** Capacité de classe [rage de berserker](./Barbare.md#RAGE)
+**Condition.** Capacité de classe [[Barbare#RAGE|rage de berserker]]
 
-**Avantage.** Quand le personnage est [pris au dépourvu](./Pris au dépourvu.md) lors d'un [round de surprise](./round de surprise.md), il peut entrer en [rage](./Rage.md) par une [action immédiate](./Action immédiate.md). Dans ce cas, il gagne un bonus d'intuition de +2 à la [CA](./CA.md) pour le reste du round de surprise.
+**Avantage.** Quand le personnage est [[pris au dépourvu]] lors d'un [[round de surprise]], il peut entrer en [[rage]] par une [[action immédiate]]. Dans ce cas, il gagne un bonus d'intuition de +2 à la [[CA]] pour le reste du round de surprise.
 
 (((Lightning Rager
 

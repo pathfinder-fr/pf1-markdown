@@ -10,7 +10,7 @@ LastModified: 2017-03-02 13:39
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 260*}
 - **800 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, N
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, N
 - **Init** +8 ; Sens vision dans le noir 18 m ; Perception +10
 (((Défense)))
 - **CA **16, contact 14, pris au dépourvu 12 (Dex +4, naturelle +2)

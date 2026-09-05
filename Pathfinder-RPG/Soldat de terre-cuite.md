@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.243}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille M, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision nocturne](./vision nocturne.md), [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision nocturne]], [[vision dans le noir]] 18 m ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, **contact** 13, **pris au dépourvu** 16 (Dex +3, naturelle +6)}
 {s:BDTexte|**pv** 64 (8d10+20)}
@@ -24,28 +24,28 @@ Categories:
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** longue, +10/+5 (1d8+3/19-20) et épée courte, +10 (1d6+1/19-20) ou 2 coups, +11 (1d6+3)}
 {s:BDTexte|**Attaques spéciales** armes affûtées, combat en rang}
-{s:BDTexte|**Pouvoirs magiques** (NLS 11) ; [concentration](./concentration.md) +12}
-{s:BDSorts|Constant — *[marche dans les airs](./Marche dans les airs.md)*}
+{s:BDTexte|**Pouvoirs magiques** (NLS 11) ; [[concentration]] +12}
+{s:BDSorts|Constant — *[[marche dans les airs]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 16, **Con** —, **Int** 1, **Sag** 11, **Cha** 1}
 {s:BDTexte|**BBA** +8, **BMO** +11, **DMD** 24}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée longue, épée courte), [Combat à deux armes](./Combat à deux armes.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée longue, épée courte), [[Combat à deux armes]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Perception]] +8}
 {s:BDTexte|**Langues** aérien (ne peut pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, troupe (3-12) ou armée (13+)}
 {s:BDTexte|**Trésor** fortuit (épée longue, épée courte, autre trésor)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Armes affûtées (Sur).** Lorsque le soldat de terre-cuite est engagé en combat depuis au moins 1 round, ses armes bénéficient automatiquement des avantages du sort affûtage ([NLS](./NLS.md) 6). Cet effet dure jusqu’à la fin du combat.}
-{s:BDTexte|**Combat en rang (Ext).** Lorsqu’un soldat de terre-cuite est adjacent à un autre soldat de terre-cuite, il bénéficie d’un bonus d’[esquive](./Esquive.md) de +2 à la [CA](./CA.md) et d’un bonus de +2 à ses [jets de sauvegarde](./jet de sauvegarde.md), à ses jets d’attaque et à ses jets de dégâts.}
+{s:BDTexte|**Armes affûtées (Sur).** Lorsque le soldat de terre-cuite est engagé en combat depuis au moins 1 round, ses armes bénéficient automatiquement des avantages du sort affûtage ([[NLS]] 6). Cet effet dure jusqu’à la fin du combat.}
+{s:BDTexte|**Combat en rang (Ext).** Lorsqu’un soldat de terre-cuite est adjacent à un autre soldat de terre-cuite, il bénéficie d’un bonus d’[[esquive]] de +2 à la [[CA]] et d’un bonus de +2 à ses [[jet de sauvegarde|jets de sauvegarde]], à ses jets d’attaque et à ses jets de dégâts.}
 
 
 <div class="BD">
 {s:BDTitre|Créature en terre cuite}
 {s:BDTexte|**NLS** 9 ; **Prix** 19 500 po}
 {s:BDSousTitre|CONSTRUCTION}
-{s:BDTexte|**Conditions requises** [Création de créatures artificielles](./Création de créatures artificielles.md), [animation d’objets](./Animation dobjets.md), [grâce féline](./Grâce féline.md), [mission](./Mission.md), [affûtage](./Affûtage.md), le créateur doit avoir un niveau de lanceur de sorts minimum de 9 ; **Compétences** [Artisanat](./Artisanat.md) (poterie) ou [Artisanat](./Artisanat.md) (sculpture) [DD](./DD.md) 14 ; **Coût** 10 000 po}
+{s:BDTexte|**Conditions requises** [[Création de créatures artificielles]], [[animation dobjets|animation d’objets]], [[grâce féline]], [[mission]], [[affûtage]], le créateur doit avoir un niveau de lanceur de sorts minimum de 9 ; **Compétences** [[Artisanat]] (poterie) ou [[Artisanat]] (sculpture) [[DD]] 14 ; **Coût** 10 000 po}
 {s:BDTexte|*Le corps d’un soldat de terre cuite est fabriqué à partir de 300 kilos d’argile, cuite avec des vernis rares et magiques d’une valeur de 500 po.*}
 
 </div>
@@ -57,8 +57,8 @@ Contrairement à la plupart des créatures artificielles, les soldats de terre-c
 
 Voici deux variantes assez courantes du soldat de terre-cuite.
 
-**Archer de terre cuite** **([FP](./FP.md) +0)**. Les archers de terre-cuite sont simplement des soldats de terre-cuite équipés d’un arc long composite. Ils ont les dons [Arme de prédilection](./Arme de prédilection.md) (arc long), [Science de l’initiative](./Science de linitiative.md), [Tir à bout portant](./Tir à bout portant.md) et [Tir de précision](./Tir de précision.md).
+**Archer de terre cuite** **([[FP]] +0)**. Les archers de terre-cuite sont simplement des soldats de terre-cuite équipés d’un arc long composite. Ils ont les dons [[Arme de prédilection]] (arc long), [[Science de linitiative|Science de l’initiative]], [[Tir à bout portant]] et [[Tir de précision]].
 
-**Cavalier de terre cuite** **([FP](./FP.md) +1)**. Certains soldats de terre-cuite sont modelés de façon à ressembler à des guerriers montés sur des chevaux de terre-cuite, mais le cavalier et sa monture ne forment qu’une seule créature. Les cavaliers de terre-cuite sont des soldats de terre-cuite de taille G avec 10 dés de vie raciaux et les pouvoirs spéciaux de piétinement et d’armes de taille inférieure. Les cavaliers de terre-cuite sont généralement équipés de lances plutôt que d’épées et ont les dons [Arme de prédilection](./Arme de prédilection.md) (lance), [Attaque en puissance](./Attaque en puissance.md), [Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md) et [Science du renversement](./Science du renversement.md).
+**Cavalier de terre cuite** **([[FP]] +1)**. Certains soldats de terre-cuite sont modelés de façon à ressembler à des guerriers montés sur des chevaux de terre-cuite, mais le cavalier et sa monture ne forment qu’une seule créature. Les cavaliers de terre-cuite sont des soldats de terre-cuite de taille G avec 10 dés de vie raciaux et les pouvoirs spéciaux de piétinement et d’armes de taille inférieure. Les cavaliers de terre-cuite sont généralement équipés de lances plutôt que d’épées et ont les dons [[Arme de prédilection]] (lance), [[Attaque en puissance]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]] et [[Science du renversement]].
 
 </div></td></tr></table>

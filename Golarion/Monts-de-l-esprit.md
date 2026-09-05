@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Véritable concentration de dangers mortels, seuls les aventuriers aguerris osent s’aventurer dans ces montagnes. En effet, elles sont habitées par des [géants](./géants.md), des [trolls](./trolls.md), des [ogres](./ogres.md) et les nombreuses crevasses et chutes de pierres ne facilitent pas non plus toute progression. Cependant ces montagnes et leurs  dangers constituent aussi un excellent bouclier contre la menace que représentent les orques de la forteresse de [Belkzen](./Belkzen.md).
+Véritable concentration de dangers mortels, seuls les aventuriers aguerris osent s’aventurer dans ces montagnes. En effet, elles sont habitées par des [[géants]], des [[trolls]], des [[ogres]] et les nombreuses crevasses et chutes de pierres ne facilitent pas non plus toute progression. Cependant ces montagnes et leurs  dangers constituent aussi un excellent bouclier contre la menace que représentent les orques de la forteresse de [[Belkzen]].

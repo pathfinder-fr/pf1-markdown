@@ -11,14 +11,14 @@ Categories:
 
 {s:apg}*Le personnage parvient à parer des attaques qui pourraient se révéler mortelles pour ses alliés.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
 **Condition.** Formé à l’utilisation des boucliers.
 
-**Avantage.** Chaque fois qu’un allié adjacent au personnage est la cible d’une attaque, le personnage peut, par une [action immédiate](./Action immédiate.md), lui octroyer un bonus de bouclier à la [CA](./CA.md) de +2. Le personnage doit tenir une rondache, un écu ou un pavois pour pouvoir utiliser ce don.
+**Avantage.** Chaque fois qu’un allié adjacent au personnage est la cible d’une attaque, le personnage peut, par une [[action immédiate]], lui octroyer un bonus de bouclier à la [[CA]] de +2. Le personnage doit tenir une rondache, un écu ou un pavois pour pouvoir utiliser ce don.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Quand le personnage utilise ce don, il peut dépenser 2 points d’endurance pour augmenter le bonus de bouclier conféré à son allié d’un montant égal au bonus d’altération du bouclier qu’il utilise.
 
 {s:CMy}

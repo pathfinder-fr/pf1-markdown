@@ -13,9 +13,9 @@ Categories:
 {s:pucem|humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Codex monstrueux p.118*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Hobgobelin](./Hobgobelin.md) [prêtre](./Prêtre.md) 2/[guerrier](./Guerrier.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille M, LM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m (12 {s:c}); [Perception](./Perception.md) +2}
+{s:BDTexte|[[Hobgobelin]] [[prêtre]] 2/[[guerrier]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille M, LM}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m (12 {s:c}); [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 14 (armure +3, bouclier +1, Dex +2)}
 {s:BDTexte|**pv** 25 (3 DV ; 2d8+1d10+6)}
@@ -24,20 +24,20 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** épée bâtarde, +4 (1d10+2/19-20)}
 {s:BDTexte|**Distance** arbalète légère, +4 (1d8/19-20)}
-{s:BDTexte|**Attaques spéciales** [canalisation d’énergie négative](./Prêtre.md#CANALISATIONDENERGIE) 3/jour (DD 13, 1d6)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 2 ; [concentration](./concentration.md) +4)}
-{s:BDSorts|5/jour — *[pic de force](./Domaine de la Force.md)* (+1), *[rage de combat](./Domaine de la Guerre.md)* (+1)}
-{s:BDTexte|**Sorts de prêtre préparés** ([NLS](./NLS.md) 2 ; [concentration](./concentration.md) +4)}
-{s:BDSorts|1er — *[arme magique](./Arme magique.md)*, *[bouclier de la foi](./Bouclier de la foi.md)*, *[sanctuaire](./Sanctuaire.md)* (DD 13), *[soins légers](./Soins légers.md)*}
-{s:BDSorts|0 (à volonté) — *[assistance divine](./Assistance divine.md)*, *[lumière](./Lumière.md)*, *[stabilisation](./Stabilisation.md)*, *[stimulant](./Stimulant.md)*}
-{s:BDTexte|**D** sort de domaine ; **Domaine** [Force](./Domaine de la Force.md), [Guerre](./Domaine de la Guerre.md)}
+{s:BDTexte|**Attaques spéciales** [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie négative]] 3/jour (DD 13, 1d6)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 2 ; [[concentration]] +4)}
+{s:BDSorts|5/jour — *[[Domaine de la Force|pic de force]]* (+1), *[[Domaine de la Guerre|rage de combat]]* (+1)}
+{s:BDTexte|**Sorts de prêtre préparés** ([[NLS]] 2 ; [[concentration]] +4)}
+{s:BDSorts|1er — *[[arme magique]]*, *[[bouclier de la foi]]*, *[[sanctuaire]]* (DD 13), *[[soins légers]]*}
+{s:BDSorts|0 (à volonté) — *[[assistance divine]]*, *[[lumière]]*, *[[stabilisation]]*, *[[stimulant]]*}
+{s:BDTexte|**D** sort de domaine ; **Domaine** [[Domaine de la Force|Force]], [[Domaine de la Guerre|Guerre]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 14, **Con** 15, **Int** 8, **Sag** 13, **Cha** 10}
 {s:BDTexte|**BBA** +2 ; **BMO** +4 ; **DMD** 16}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Magie de guerre](./Magie de guerre.md), [Science de la canalisation](./Science de la canalisation.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +3, [Artisanat](./Artisanat.md) (alchimie) +3, [Discrétion](./Discrétion.md) +5, [Premiers secours](./Premiers secours.md) +5}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Magie de guerre]], [[Science de la canalisation]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +3, [[Artisanat]] (alchimie) +3, [[Discrétion]] +5, [[Premiers secours]] +5}
 {s:BDTexte|**Langues** commun, gobelin}
-{s:BDTexte|**Équipement de combat** *[potion](./Potions magiques.md) de [soins modérés](./Soins modérés.md)*, *[parchemins](./Parchemins magiques.md) de [frayeur](./Frayeur.md)* (3), *[baguette](./Baguettes magiques.md) de [soins légers](./Soins légers.md)* (35 charges), [feux grégeois](./Feu grégeois (objet).md) (4),  [sacoches immobilisantes](./Sacoche immobilisante (objet).md) (2) ; **Équipement divers** [armure de cuir cloutée de maître](./armure de cuir cloutée (armure).md), [targe](./targe (armure).md), [épée bâtarde](./épée bâtarde (arme).md), [arbalète légère](./Arbalète légère (arme).md) avec [20 carreaux](./Carreaux darbalète (arme).md), [trousse de premiers secours](./Trousse de premiers secours (objet).md), [symbole maudit en argent](./Symbole sacré (objet).md), [sacoche à composantes](./Sacoche à composantes (objet).md), 228 po}
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potion]] de [[soins modérés]]*, *[[parchemins magiques|parchemins]] de [[frayeur]]* (3), *[[baguettes magiques|baguette]] de [[soins légers]]* (35 charges), [[Feu grégeois (objet)|feux grégeois]] (4),  [[sacoche immobilisante (objet)|sacoches immobilisantes]] (2) ; **Équipement divers** [[armure de cuir cloutée (armure)|armure de cuir cloutée de maître]], [[targe (armure)|targe]], [[épée bâtarde (arme)|épée bâtarde]], [[arbalète légère (arme)|arbalète légère]] avec [[Carreaux darbalète (arme)|20 carreaux]], [[trousse de premiers secours (objet)|trousse de premiers secours]], [[Symbole sacré (objet)|symbole maudit en argent]], [[sacoche à composantes (objet)|sacoche à composantes]], 228 po}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -46,25 +46,25 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Hobgobelin](./Hobgobelin.md) || 1/2
+| [[Hobgobelin]] || 1/2
 |-
-| [Yzobu](./Yzobu.md) || 1
+| [[Yzobu]] || 1
 |-
-| [Sergent hobgobelin](./Sergent hobgobelin.md) || 2
+| [[Sergent hobgobelin]] || 2
 |-
-| [Zélote des batailles hobgobelin](./Zélote des batailles hobgobelin.md) || 2
+| [[Zélote des batailles hobgobelin]] || 2
 |-
-| [Lieutenant hobgobelin](./../Aventures/Lieutenant hobgobelin.md) || 4
+| [[Lieutenant hobgobelin]] || 4
 |-
-| [Précurseur hobgobelin](./Précurseur hobgobelin.md) || 6
+| [[Précurseur hobgobelin]] || 6
 |-
-| [Bombardier hobgobelin](./Bombardier hobgobelin.md) || 7
+| [[Bombardier hobgobelin]] || 7
 |-
-| [Prêtre guerrier hobgobelin](./Prêtre guerrier hobgobelin.md) || 8
+| [[Prêtre guerrier hobgobelin]] || 8
 |-
-| [Parangon hobgobelin](./Parangon hobgobelin.md) || 10
+| [[Parangon hobgobelin]] || 10
 |-
-| [Commandant hobgobelin](./Commandant hobgobelin.md) || 12
+| [[Commandant hobgobelin]] || 12
 |-
 |}
 </div>Chaque sergent ou zélote des batailles possède une petite dose d’autorité qui lui permet de diriger une petite dizaine de combattants.

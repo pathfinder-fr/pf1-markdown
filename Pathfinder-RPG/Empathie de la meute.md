@@ -15,10 +15,10 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Divination](./école divination.md) ; **Niveau** [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Inq](./Inquisiteur.md) 3, [Méd](./Médium.md) 2, [Rôd](./Rôdeur.md) 2, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Inquisiteur|Inq]] 3, [[Médium|Méd]] 2, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cibles** le lanceur de sort et une créature vivante consentante/3 niveaux, chacune se trouvant à 9 m ou moins l'une de l'autre
 **Durée** 1 heure/niveau (T)
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non

@@ -10,7 +10,7 @@ Categories:
 ---
 
 {s:Menuarchétypebarbare}{s:cm}
-**Cet archetype est réservé aux [gnolls](./Gnoll.md)**
+**Cet archetype est réservé aux [[gnoll|gnolls]]**
 
 ''La rage d’un barbare est parfois empreinte d’une beauté sauvage,
 d’une grâce mortelle. Ces accès de violence incontrôlés perturbent

@@ -10,14 +10,14 @@ Categories:
 
 {s:mca}*Le savoir du personnage est plus que de la simple intelligence : il est inspiré.*
 
-**Conditions.** [Int](./Int.md) 13, 1 rang dans au moins une compétence
-[Connaissances](./Connaissances.md), aucun niveau dans des classes possédant
-le pouvoir de classe [inspiration](./Enquêteur.md#INSPIRATION).
+**Conditions.** [[Int]] 13, 1 rang dans au moins une compétence
+[[Connaissances]], aucun niveau dans des classes possédant
+le pouvoir de classe [[enquêteur#INSPIRATION|inspiration]].
 
 **Avantage.** Comme l’enquêteur, le personnage a la possibilité
-d’améliorer ses tests de [Connaissances](./Connaissances.md), de [Linguistique](./Linguistique.md) et [Art de la magie](./Art de la magie.md). Il gagne une réserve d’inspiration égale à son modificateur
-d’[Intelligence](./Intelligence.md). Il peut dépenser une utilisation d’inspiration
-par une [action libre](./Action libre.md) pour ajouter 1d6 au résultat d’un test de
+d’améliorer ses tests de [[Connaissances]], de [[Linguistique]] et [[Art de la magie]]. Il gagne une réserve d’inspiration égale à son modificateur
+d’[[Intelligence]]. Il peut dépenser une utilisation d’inspiration
+par une [[action libre]] pour ajouter 1d6 au résultat d’un test de
 Connaissances, de Linguistique ou d’Art de la magie à partir du moment
 où il est formé à la compétence (même s’il décide de faire 10
 ou 20 sur ce test). Il fait son choix après avoir fait son jet mais avant
@@ -27,4 +27,4 @@ chaque jour, généralement après une bonne nuit de sommeil.
 
 **Spécial.** Si le personnage gagne des niveaux dans une classe
 qui possède le pouvoir de classe inspiration, il peut aussitôt
-échanger ce don contre celui d’[Inspiration supplémentaire](./Inspiration supplémentaire.md).
+échanger ce don contre celui d’[[Inspiration supplémentaire]].

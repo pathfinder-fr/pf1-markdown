@@ -7,11 +7,11 @@ Categories:
 - Sort magicien 3
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3  
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une sculpture animale de taille réelle représentant un familier et faite en argile, en tissu ou en bois, plus une racine de mandragore d’une valeur de 25 po)  
+**Composantes** [[composantes|V, G, M]] (une sculpture animale de taille réelle représentant un familier et faite en argile, en tissu ou en bois, plus une racine de mandragore d’une valeur de 25 po)  
 
 **Portée** contact  
 
@@ -21,4 +21,4 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non (inoffensif)
 
-Après avoir lancé ce sort, le personnage verse quelques gouttes de son sang et de sa salive dans la gueule de la composante matérielle qu’est la sculpture animale, lui insufflant temporairement la vie. L’animal est lié au personnage comme si c’était son [familier](./familier.md) (le personnage utilise son [niveau de lanceur de sorts](./NLS.md) comme niveau effectif de magicien pour déterminer les pouvoirs du familier) mais n’accorde pas le don Vigilance au personnage ni le pouvoir spécial lié à son type d’animal. Si sa sentinelle de sang est tuée, le personnage subit une diminution permanente de 2 points d’[Intelligence](./Intelligence.md) et le corps de la sentinelle de sang n’est plus qu’une statue détruite. Ce sort n’a aucun effet si le personnage a déjà un familier ou une autre sentinelle de sang.
+Après avoir lancé ce sort, le personnage verse quelques gouttes de son sang et de sa salive dans la gueule de la composante matérielle qu’est la sculpture animale, lui insufflant temporairement la vie. L’animal est lié au personnage comme si c’était son [[familier]] (le personnage utilise son [[NLS|niveau de lanceur de sorts]] comme niveau effectif de magicien pour déterminer les pouvoirs du familier) mais n’accorde pas le don Vigilance au personnage ni le pouvoir spécial lié à son type d’animal. Si sa sentinelle de sang est tuée, le personnage subit une diminution permanente de 2 points d’[[Intelligence]] et le corps de la sentinelle de sang n’est plus qu’une statue détruite. Ce sort n’a aucun effet si le personnage a déjà un familier ou une autre sentinelle de sang.

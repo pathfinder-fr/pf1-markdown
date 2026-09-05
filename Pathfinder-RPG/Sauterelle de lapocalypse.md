@@ -10,7 +10,7 @@ LastModified: 2017-03-17 22:25
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 235*}
 - **2 400 PX**
-- [Extérieur](./type Extérieur.md) ([Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [mythique](./sous-type mythique.md)) de taille G, CM
+- [[type extérieur|Extérieur]] ([[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type mythique|mythique]]) de taille G, CM
 - **Init** +0 ; **Sens **vision dans le noir 18 m, Perception +10
 (((Défense)))
 - **CA **20, contact 9, pris au dépourvu 20 (naturelle +11, taille -1)
@@ -23,12 +23,12 @@ LastModified: 2017-03-17 22:25
 - **Espace **3 m ; **Allonge **3 m
 - **Attaque spéciale** bourdonnement exaspérant, constriction (1d8+9), dard, pouvoir mythique (3/jour, montée en puissance +1d6), souffle (ligne de 9 m, 1d6 feu plus marque maudite, Volonté DD 15 pour annuler, utilisable tous les 2d4 rounds), tourment abyssal 
 - **Pouvoirs magiques** (**NLS **6 ; concentration +8)
-  - *1/jour* — [nuée grouillante](./Nuée grouillante.md) (sauterelles seulement)
+  - *1/jour* — [[nuée grouillante]] (sauterelles seulement)
 (((Statistiques)))
 - **For **22, **Dex** 10, **Con **14, **Int **11, **Sag **13, **Cha** 15
 - **BBA **+6 ; **BMO **+13 (+17 lutte) ; **DMD **23
-- **Dons **[Arme de prédilection](./Arme de prédilection.md)<sup>M</sup> (pince), [Attaque en puissance](./Attaque en puissance.md)<sup>M</sup>, [Attaque en vol](./Attaque en vol.md) 
-- **Compétences **[Bluff](./Bluff.md) +11, [Discrétion](./Discrétion.md) +5, [Intimidation](./Intimidation.md) +11, [Perception](./Perception.md) +10, [Survie](./Survie.md) +10, [Vol](./Vol.md) +11, * **Langues** abyssal
+- **Dons **[[Arme de prédilection]]<sup>M</sup> (pince), [[Attaque en puissance]]<sup>M</sup>, [[Attaque en vol]] 
+- **Compétences **[[Bluff]] +11, [[Discrétion]] +5, [[Intimidation]] +11, [[Perception]] +10, [[Survie]] +10, [[Vol]] +11, * **Langues** abyssal
 (((Écologie)))
 - **Environnement **tout plan d’alignement Mauvais
 - **Organisation **solitaire, paire ou colonie (3-30)

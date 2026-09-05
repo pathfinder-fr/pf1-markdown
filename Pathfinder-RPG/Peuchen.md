@@ -11,35 +11,35 @@ Categories:
 <div class="BD">
 {s:BDTitre|Peuchen|FP 10}
 {s:pucem|Créature magique|Ruines-Donjons|Tropical}
-{s:BDTexte|*Source : [Bestiaire 5 p.205](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.205]]*}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([métamorphe](./sous-type métamorphe.md)) de taille M, NM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md), [odorat](./Odorat (capacité).md) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type métamorphe|métamorphe]]) de taille M, NM}
+{s:BDTexte|**Init** +6 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]], [[Odorat (capacité)|odorat]] ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 16, pris au dépourvu 18 (Dex +6, naturelle +8)}
 {s:BDTexte|**pv** 136 (13d10+65)}
 {s:BDTexte|**Réf** +14, **Vig** +13, **Vol** +9}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 9 m, [vol](./Vol (capacité).md) 15 m (bonne)}
-{s:BDTexte|**Corps à corps** morsure, +19 (2d6+9 plus 1d6 [saignement](./Saignement (capacité).md), [étreinte](./Étreinte (capacité).md) et poison)}
+{s:BDTexte|**VD** 9 m, [[Vol (capacité)|vol]] 15 m (bonne)}
+{s:BDTexte|**Corps à corps** morsure, +19 (2d6+9 plus 1d6 [[Saignement (capacité)|saignement]], [[Étreinte (capacité)|étreinte]] et poison)}
 {s:BDTexte|**Espace occupé** 1,5 m ; **Allonge** 1,5 m (3 m avec morsure)}
-{s:BDTexte|**Attaques spéciales** saignement (1d6), [absorption de sang](./absorption de sang (capacité).md) (1d2 Constitution), [constriction](./Constriction (capacité).md) (2d6+9)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 13 ; [concentration](./concentration.md) +18)}
-{s:BDSorts|À volonté — *[baiser du vampire](./Baiser du vampire.md)*}
-{s:BDSorts|3/jour — *[immobilisation de personne](./Immobilisation de personne.md)* (DD 18)}
+{s:BDTexte|**Attaques spéciales** saignement (1d6), [[Absorption de sang (capacité)|absorption de sang]] (1d2 Constitution), [[Constriction (capacité)|constriction]] (2d6+9)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 13 ; [[concentration]] +18)}
+{s:BDSorts|À volonté — *[[baiser du vampire]]*}
+{s:BDSorts|3/jour — *[[immobilisation de personne]]* (DD 18)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 23, **Con** 20, **Int** 13, **Sag** 16, **Cha** 21}
 {s:BDTexte|**BBA** +13 ; **BMO** +19 ; **DMD** 35 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Attaque en vol](./Attaque en vol.md), [Fourberie](./Fourberie.md), [Frappe décisive](./Frappe décisive.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +13, [Déguisement](./Déguisement.md) +7, [Discrétion](./Discrétion.md) +15, [Perception](./Perception.md) 16, [Psychologie](./Psychologie.md) +8, [Survie](./Survie.md) +9, [Vol](./Vol.md) +19}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Attaque en vol]], [[Fourberie]], [[Frappe décisive]], [[Science de la frappe décisive]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Bluff]] +13, [[Déguisement]] +7, [[Discrétion]] +15, [[Perception]] 16, [[Psychologie]] +8, [[Survie]] +9, [[Vol]] +19}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (animal de troupeau de taille Petite, Moyenne ou Grande, *[forme bestiale I](./Forme bestiale I.md)*I)}
+{s:BDTexte|**Particularités** [[Changement de forme (capacité)|changement de forme]] (animal de troupeau de taille Petite, Moyenne ou Grande, *[[forme bestiale I]]*I)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terrestre, chaud ou tempéré}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [Vigueur](./Vigueur.md) DD 21 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d4 [Dextérité](./Dextérité.md) ; *guérison* 2 réussites consécutives.}
+{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [[Vigueur]] DD 21 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d4 [[Dextérité]] ; *guérison* 2 réussites consécutives.}
 
 </div></td>
 <td><div>*Cet énorme serpent aux yeux verts luisants a de larges crocs et de grandes ailes membraneuses.*

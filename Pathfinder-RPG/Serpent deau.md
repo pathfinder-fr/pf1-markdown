@@ -13,29 +13,29 @@ Categories:
 <div class="BD">
 {s:BDtitre|Serpent d'eau|FP 1}
 {s:pucem|Animal|Aquatique|Tempéré}
-{s:BDtexte|*Source : [Guide des Chaînes p.61](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide des Chaînes p.61]]*}
 {s:BDtexte|**PX** 400}
-{s:BDtexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDtexte|**Init** +2 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +9}
+{s:BDtexte|[[type Animal|Animal]] de taille P, N}
+{s:BDtexte|**Init** +2 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +9}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 14, contact 13, pris au dépourvu 12 (Dex +2, naturelle +1, taille +1)}
 {s:BDtexte|**pv** 11 (2d8+2)}
 {s:BDtexte|**Réf** +5, **Vig** +4, **Vol** +1}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 6 m, escalade 6 m, nage 12 m}
-{s:BDtexte|**Corps à corps** morsure, +4 (1d4-1 plus [poison](./Poison (capacité).md))}
+{s:BDtexte|**Corps à corps** morsure, +4 (1d4-1 plus [[Poison (capacité)|poison]])}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 8, **Dex** 15, **Con** 12, **Int** 1, **Sag** 13, **Cha** 2}
-{s:BDtexte|**BBA** +1, **BMO** +2, **DMD** 11 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDtexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>, [Manœuvres agiles](./Manœuvres agiles.md)}
-{s:BDtexte|**Compétences** [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +7, [Natation](./Natation.md) +7, [Perception](./Perception.md) +9 ; **Modificateurs raciaux** +4 en Discrétion, +4 en Perception}
-{s:BDtexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDtexte|**BBA** +1, **BMO** +2, **DMD** 11 ([[croc-en-jambe]] impossible)}
+{s:BDtexte|**Dons** [[Attaque en finesse]]<sup>B</sup>, [[Manœuvres agiles]]}
+{s:BDtexte|**Compétences** [[Discrétion]] +14, [[Escalade]] +7, [[Natation]] +7, [[Perception]] +9 ; **Modificateurs raciaux** +4 en Discrétion, +4 en Perception}
+{s:BDtexte|**Particularités** [[Retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** océan}
 {s:BDtexte|**Organisation sociale** solitaire, couple ou nid (3-8)}
 {s:BDtexte|**Trésor** aucun}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Poison (Ext).** *Morsure* — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 12 ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d3 [Constitution](./Constitution.md) ; *guérison* 1 réussite}
+{s:BDtexte|**Poison (Ext).** *Morsure* — blessure ; *JdS* [[Vigueur]] [[DD]] 12 ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d3 [[Constitution]] ; *guérison* 1 réussite}
 </div>
 </td>
 <td>
@@ -45,9 +45,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Serpent d'eau](./Serpent deau.md) || 1
+| [[Serpent deau|Serpent d'eau]] || 1
 |-
-| [Serpent d'eau géant](./Serpent deau géant.md) || 7
+| [[Serpent deau géant|Serpent d'eau géant]] || 7
 |}
 </div>
 *Ce serpent aux écailles bleu-vert glisse à la surface de l’eau dans un ballet sinueux de muscles gracieux et agiles.*

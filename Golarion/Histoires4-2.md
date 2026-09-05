@@ -4,8 +4,8 @@ Title: Le Don de Valas
 LastModified: 2010-10-08 11:40
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du second chapitre : "[Valas’s Gift](http://paizo.com/pathfinder/tales/serial/v5748dyo5lbei)" de la nouvelle "Certitudes" de Liane Merciel. Illustration de KyuShik Shin.*
 
 Un silence sinistre enveloppa les nouvelles recrues après cet accueil. Lorsqu'un autre soldat arriva pour les emmener vers l'armurerie, ils le suivirent sans dire un mot, la tête baissée vers le sol à la manière d'hommes condamnés s'avançant vers l'échafaud.

@@ -12,9 +12,9 @@ Categories:
 
 *Vous faites tourner la lame dans la blessure pour faire pénétrer davantage de poison dans le système sanguin de votre cible.*
 
-**Condition** [BBA](./BBA.md) +5, capacité de classe [attaque sournoise](./attaque sournoise.md)
+**Condition** [[BBA]] +5, capacité de classe [[attaque sournoise]]
 
-**Avantage** Lorsque le personnage inflige une [attaque sournoise](./attaque sournoise.md) avec une arme empoisonnée, il peut échanger certains de ses dégâts supplémentaires pour augmenter le [DD](./DD.md) du poison transmit, augmentant le [DD](./DD.md) de 1 pour chaque 1d6 de dégâts d'attaque sournoise échangés. Cela ne peut faire passer le [DD](./DD.md) au delà de 15 + 1/2 le niveau du personnage.
+**Avantage** Lorsque le personnage inflige une [[attaque sournoise]] avec une arme empoisonnée, il peut échanger certains de ses dégâts supplémentaires pour augmenter le [[DD]] du poison transmit, augmentant le [[DD]] de 1 pour chaque 1d6 de dégâts d'attaque sournoise échangés. Cela ne peut faire passer le [[DD]] au delà de 15 + 1/2 le niveau du personnage.
 
 (((Treacherous Toxin
 

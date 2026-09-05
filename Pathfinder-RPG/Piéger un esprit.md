@@ -11,19 +11,19 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Nécromancie](./Nécromancie.md) ; **Niveau** [Méd](./Médium.md) 4, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 5, [Spi](./Spirite.md) 4  
+{s:AO}** École **[[Nécromancie]] ; **Niveau** [[médium|Méd]] 4, [[Occultiste|Occ]] 5, [[psychiste|Psy]] 5, [[spirite|Spi]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (petit miroir en argent)  
+**Composantes** [[composantes|V, G, F]] (petit miroir en argent)  
 
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
 
 **Cible** créature intangible ou apparition  
 
 **Durée** 1 heure/niveau (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 Le personnage piège la cible dans le miroir qui lui sert de focalisateur. Une fois dans le miroir, plus rien ne peut affecter cette cible.
 

@@ -12,14 +12,14 @@ Categories:
 {s:BDTitre|Ghawwas|FP 10}
 {s:BDTexte|*Source : Bestiaire 3* p.90}
 {s:BDTexte|**px** 9 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([aquatique](./sous-type aquatique.md), [div](./sous-type div.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, NM}
-{s:BDTexte|**Init** +6 ; **Sens** *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*, [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision dans les ténèbres](./Vision dans les ténèbres.md) ; [Perception](./Perception.md) +19}
+{s:BDTexte|[[Type Extérieur|Extérieur]] ([[sous-type aquatique|aquatique]], [[sous-type div|div]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille G, NM}
+{s:BDTexte|**Init** +6 ; **Sens** *[[détection de la magie]]*, *[[détection du Bien]]*, [[vision dans le noir]] à 18 m (12 {s:c}), [[vision dans les ténèbres]] ; [[Perception]] +19}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 11, pris au dépourvu 24 (Dex +2, naturelle +15, taille -1)}
 {s:BDTexte|**pv** 161 (14d10+84)}
 {s:BDTexte|**Réf** +13, **Vig** +10, **Vol** +11}
-{s:BDTexte|**Capacité défensive** peau rugueuse ; **[RD](./Réduction de dégâts (capacité).md)** 10/Bien et fer froid ;
-**[Immunité](./Immunité (capacité).md)** feu, poison ; **[Résistance](./Résistance (capacité).md)** acide 10, électricité 10 ; **[RM](./Résistance à la magie (capacité).md)** 21}
+{s:BDTexte|**Capacité défensive** peau rugueuse ; **[[Réduction de dégâts (capacité)|RD]]** 10/Bien et fer froid ;
+**[[Immunité (capacité)|Immunité]]** feu, poison ; **[[Résistance (capacité)|Résistance]]** acide 10, électricité 10 ; **[[Résistance à la magie (capacité)|RM]]** 21}
 {s:BDSousTitre|ATTAQUE}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 24 m (16 {s:c})}
 {s:BDTexte|**Corps à corps** dard, +20 (1d6+7 plus poison) et 2 griffes, +20 (1d6+7) et morsure, +21 (1d8+7/19-20) ou lance, +20/+15/+10 (2d6+10/×3 plus poison) et dard, +18 (1d6+3 plus poison) et morsure, +19 (1d8+3/19-20)}
@@ -27,27 +27,27 @@ Categories:
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}); Allonge 3 m (2 {s:c})}
 {s:BDTexte|**Attaque spéciale** eaux bouillonnantes}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12 ; concentration +14)}
-{s:BDSorts|Constant — *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*}
-{s:BDSorts|À volonté — *[contrôle de l’eau](./Contrôle de leau.md)*, *[malédiction de l’eau](./Malédiction de leau.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*, *[ténèbres profondes](./Ténèbres profondes.md)*}
-{s:BDSorts|3/jour — *[convocation](./convocation.md)* (niveau 6, 1 païraka 60%), *[extinction des feux](./Extinction des feux.md)* (DD 15), *[nuage nauséabond](./Nuage nauséabond.md)* (DD 15), *[terrain hallucinatoire](./Terrain hallucinatoire.md)* (DD 16)}
+{s:BDSorts|Constant — *[[détection de la magie]]*, *[[détection du Bien]]*}
+{s:BDSorts|À volonté — *[[contrôle de leau|contrôle de l’eau]]*, *[[malédiction de leau|malédiction de l’eau]]*, *[[porte dimensionnelle]]*, *[[ténèbres profondes]]*}
+{s:BDSorts|3/jour — *[[convocation]]* (niveau 6, 1 païraka 60%), *[[extinction des feux]]* (DD 15), *[[nuage nauséabond]]* (DD 15), *[[terrain hallucinatoire]]* (DD 16)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 15, **Con** 23, **Int** 12, **Sag** 15, **Cha** 14}
 {s:BDTexte|**BBA** +14 ; **BMO** +22 ; **DMD** 34}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Attaques réflexes](./Attaques réflexes.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +19, [Connaissances](./Connaissances.md) (géographies et plans) +18, [Discrétion](./Discrétion.md) +15, [Natation](./Natation.md) +32, [Perception](./Perception.md) +19, [Survie](./Survie.md) +19}
-{s:BDTexte|**Langues** abyssal, aquatique, céleste, infernal ; [télépathie](./Télépathie (capacité).md) à 30 m (20 {s:c})}
-{s:BDTexte|**Particularité** [amphibie](./Amphibie (capacité).md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaques multiples]], [[Attaques réflexes]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure)}
+{s:BDTexte|**Compétences** [[Bluff]] +19, [[Connaissances]] (géographies et plans) +18, [[Discrétion]] +15, [[Natation]] +32, [[Perception]] +19, [[Survie]] +19}
+{s:BDTexte|**Langues** abyssal, aquatique, céleste, infernal ; [[Télépathie (capacité)|télépathie]] à 30 m (20 {s:c})}
+{s:BDTexte|**Particularité** [[Amphibie (capacité)|amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abaddon)}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Eaux bouillonnantes (Sur).** Par une [action simple](./Action simple.md), le ghawwas peut faire bouillir les eaux qui l’entourent. Toutes les créatures situées dans un rayon de 15 m (10 {s:c}) autour du ghawwas, dans la même étendue d’eau et au moins à moitié immergées, reçoivent 6d6 points de dégâts de feu ([JdS Vigueur](./Valeurs de combat.md#JETDESAUVEGARDE) DD 23, 1/2 dégâts). Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Eaux bouillonnantes (Sur).** Par une [[action simple]], le ghawwas peut faire bouillir les eaux qui l’entourent. Toutes les créatures situées dans un rayon de 15 m (10 {s:c}) autour du ghawwas, dans la même étendue d’eau et au moins à moitié immergées, reçoivent 6d6 points de dégâts de feu ([[Valeurs de combat#JETDESAUVEGARDE|JdS Vigueur]] DD 23, 1/2 dégâts). Le DD du jet de sauvegarde est basé sur la Constitution.}
 {s:BDTexte|**Peau rugueuse (Ext).** Les ghawwas ont une peau rugueuse émaillée d’épines et de pointes irrégulières. Toutes les créatures touchant un ghawwas avec une arme naturelle ou par une attaque à mains nues reçoivent 1d6 points de dégâts tranchants et perforants.}
-{s:BDTexte|**Poison (Ext).** *Dard* — blessure ; *JdS* [Vigueur](./Valeurs de combat.md#JETDESAUVEGARDE) DD 23 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./Capacités spéciales.md#AFFTEMPDIMPERM) de 1d6 points de For ; *guérison* 2 réussites consécutives.}
+{s:BDTexte|**Poison (Ext).** *Dard* — blessure ; *JdS* [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] DD 23 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[Capacités spéciales#AFFTEMPDIMPERM|affaiblissement temporaire]] de 1d6 points de For ; *guérison* 2 réussites consécutives.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [divs](./Div.md).***</li></ul>*Hérissé de crêtes d’épines, de cornes de corail et pourvu de dents aussi pointues que des aiguilles, ce bipède menaçant semble émerger de quelque mer empoisonnée.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Div|divs]].***</li></ul>*Hérissé de crêtes d’épines, de cornes de corail et pourvu de dents aussi pointues que des aiguilles, ce bipède menaçant semble émerger de quelque mer empoisonnée.*
 
 Perfides et venimeux, les ghawwas polluent les mers et cherchent à apporter la destruction à tous ceux qui y vivent.
 Les ghawwas sont un mélange entre un énorme humanoïde, un poisson préhistorique et un poisson benthique venimeux. Si la plupart des ghawwas vivent dans les eaux salées, ils se téléportent parfois dans des oasis pour les souiller ou les

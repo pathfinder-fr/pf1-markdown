@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 25 po ; **Poids** 2,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Ce petit coffret en bois accueille de nombreux petits compartiments remplis d’objets utiles pour le personnage qui voudrait feindre une maladie, ainsi qu’un manuel de références pratique présentant les signes courants de certaines des maladies virulentes les plus redoutées. Cette trousse comprend des choses telles que des fausses pustules, des comprimés faisant écumer celui qui les prend et des décoctions d’herbes provoquant de la fièvre ou des vomissements. La trousse à symptômes accorde un bonus de circonstances de +5 aux tests de [Déguisement](./Déguisement.md) pour simuler une maladie. Elle est épuisée après 10 utilisations.
+Ce petit coffret en bois accueille de nombreux petits compartiments remplis d’objets utiles pour le personnage qui voudrait feindre une maladie, ainsi qu’un manuel de références pratique présentant les signes courants de certaines des maladies virulentes les plus redoutées. Cette trousse comprend des choses telles que des fausses pustules, des comprimés faisant écumer celui qui les prend et des décoctions d’herbes provoquant de la fièvre ou des vomissements. La trousse à symptômes accorde un bonus de circonstances de +5 aux tests de [[Déguisement]] pour simuler une maladie. Elle est épuisée après 10 utilisations.

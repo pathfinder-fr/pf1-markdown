@@ -8,7 +8,7 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-La créature peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) par une [action libre](./Action libre.md) quand elle utilise son [souffle](./Souffle (capacité).md), afin que la zone touchée irradie des dégâts d’énergie (du même type que le souffle) pendant 1 [round](./round.md) par [rang mythique](./Monstres mythiques.md#RANGMYTHIQUE). Toute créature se trouvant dans la zone du souffle, y pénétrant ou la traversant pendant ce laps de temps reçoit des dégâts dépendant de la taille de la créature qui a soufflé. Ce pouvoir n’a aucun effet sur un souffle qui n’inflige pas de dégâts d’énergie.
+La créature peut dépenser une utilisation de [[pouvoir mythique]] par une [[action libre]] quand elle utilise son [[Souffle (capacité)|souffle]], afin que la zone touchée irradie des dégâts d’énergie (du même type que le souffle) pendant 1 [[round]] par [[Monstres mythiques#RANGMYTHIQUE|rang mythique]]. Toute créature se trouvant dans la zone du souffle, y pénétrant ou la traversant pendant ce laps de temps reçoit des dégâts dépendant de la taille de la créature qui a soufflé. Ce pouvoir n’a aucun effet sur un souffle qui n’inflige pas de dégâts d’énergie.
 
 {| CLASS="tablo centre autoalt"
 |+ Dégâts de souffle prolongé

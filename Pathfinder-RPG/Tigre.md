@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.273}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 11, pris au dépourvu 12 (Dex +2, naturelle +3, taille -1)}
 {s:BDTexte|**pv** 45 (6d8+18)}
 {s:BDTexte|**Réf** +7, **Vig** +8, **Vol** +3}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** 2 griffes +10 (1d8+6 et [étreinte](./Étreinte.md)), morsure +9 (2d6+6 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** 2 griffes +10 (1d8+6 et [[étreinte]]), morsure +9 (2d6+6 et [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond.md), [pattes arrière](./Pattes arrière.md) (2 griffes +10, 1d8+6)}
+{s:BDTexte|**Attaques spéciales** [[bond]], [[pattes arrière]] (2 griffes +10, 1d8+6)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 15, **Con** 17, **Int** 2, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +4, **BMO** +11 (+15 pour la lutte), **DMD** 23 (27 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Discrétion](./Discrétion.md) +7 (+11 dans les hautes herbes), [Natation](./Natation.md) +11, [Perception](./Perception.md) +8 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4, [Discrétion](./Discrétion.md) +4 (+8 dans les hautes herbes)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Discrétion]] +7 (+11 dans les hautes herbes), [[Natation]] +11, [[Perception]] +8 ; **Modificateurs raciaux** [[Acrobaties]] +4, [[Discrétion]] +4 (+8 dans les hautes herbes)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** n'importe quelle forêt}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
@@ -44,9 +44,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Tigre](./Tigre.md) || 4
+| [[Tigre]] || 4
 |-
-| [Tigre sanguinaire](./Tigre sanguinaire.md) || 8
+| [[Tigre sanguinaire]] || 8
 |}
 </div>''Ce puissant prédateur félin à la robe orange-rouge tachetée de bandes
 noires se déplace avec une grâce mortelle.''
@@ -75,6 +75,6 @@ visibles même lorsque sa gueule est fermée.
 
 #### Le tigre comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For 13, Dex 17, Con 13, Int 2, Sag 15, Cha 10 ; **Attaque spéciale** [pattes arrière](./Pattes arrière.md) (1d4) ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For 13, Dex 17, Con 13, Int 2, Sag 15, Cha 10 ; **Attaque spéciale** [[pattes arrière]] (1d4) ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8), 2 griffes (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Attaque spéciale** [bond](./Bond.md), [étreinte](./Étreinte.md), [pattes arrière](./Pattes arrière.md) (1d6). </div></td></tr></table>
+**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8), 2 griffes (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Attaque spéciale** [[bond]], [[étreinte]], [[pattes arrière]] (1d6). </div></td></tr></table>

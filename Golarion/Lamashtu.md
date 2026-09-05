@@ -7,11 +7,11 @@ Categories:
 ---
 
 {s:Dieu|Lamashtu|%2fPCUP%2fReligion-PNG%2fLamashtu.png|La Mère des monstres|CM|folie, monstres, cauchemars et fertilité|humanoïdes monstrueux (gnolls, méduses, gobelins)|cimeterre à 2 mains|Chaos, Duperie, Folie, Force, Mal|Supercherie, Démons, Férocité, Insanité, Cauchemars, Voleurs|Conversion, Hérésie, Oubli, Vengeance}
-Des milliers de races d’humanoïdes monstrueux considèrent Lamashtu comme leur mère procréatrice. Par exemple, les [gnoll](./../Pathfinder-RPG/Gnoll.md) sont issus selon eux de l’accouplement de Lamashtu avec une hyène qu’elle aurait fait prince. Toutes ces races la vénèrent et craignent sa colère. Elle ne manque pas de la faire sentir sur ses adorateurs notamment au travers de leurs cauchemars.
+Des milliers de races d’humanoïdes monstrueux considèrent Lamashtu comme leur mère procréatrice. Par exemple, les [[gnoll]] sont issus selon eux de l’accouplement de Lamashtu avec une hyène qu’elle aurait fait prince. Toutes ces races la vénèrent et craignent sa colère. Elle ne manque pas de la faire sentir sur ses adorateurs notamment au travers de leurs cauchemars.
 
 ### Histoire
 
-Issue des Abysses, Lamashtu commença son parcours vers la divinité dans l’Empire du [Thassilon](./Thassilon.md). A cette époque de nombreux démons étaient vénérés. Elle fut appelée la Mère des monstres uniquement après avoir tué le dieu Curchanus à qui elle vola le pouvoir de dominer les bêtes. Curchanus était le maître de [Desna](./Desna.md) qui depuis a autant de haine que de répugnance envers Lamashtu.
+Issue des Abysses, Lamashtu commença son parcours vers la divinité dans l’Empire du [[Thassilon]]. A cette époque de nombreux démons étaient vénérés. Elle fut appelée la Mère des monstres uniquement après avoir tué le dieu Curchanus à qui elle vola le pouvoir de dominer les bêtes. Curchanus était le maître de [[Desna]] qui depuis a autant de haine que de répugnance envers Lamashtu.
 
 Lamashtu adore par-dessus tout la destruction physique et psychique de tout être qui n’est pas difforme ou corrompu. Elle souhaite faire disparaître tous ceux qui ne sont pas « ses enfants ». C’est pour cela, qu’après avoir pris le contrôle des bêtes sauvages, elle leur montra l’Homme comme un ennemi à éliminer.
 
@@ -41,8 +41,8 @@ Le crâne de Mashaag : Ce crâne jauni est celui d'un yaenit mort au service de 
 Les quatre peaux de Lawm : C'est une collection de trois peaux faites à partir d'humanoïde. La quatrième a été perdue, il y a très longtemps. Elle contiendrait des rites monstrueux de fertilité et de pouvoir.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [cinquième volume](./../Aventures/Présentation AP1.md#AP1-5) de la première campagne, [L'Éveil des Seigneurs des Runes](./../Aventures/Présentation AP1.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP1#AP1-5|cinquième volume]] de la première campagne, [[Aventures.Présentation AP1|L'Éveil des Seigneurs des Runes]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

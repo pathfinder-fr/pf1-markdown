@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#SOURNOIS
 ---
 
->>> [Talents#SOURNOIS](./Talents.md#SOURNOIS)
+>>> [[Talents#SOURNOIS]]

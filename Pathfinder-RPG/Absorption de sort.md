@@ -8,24 +8,24 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, M](./composantes.md) (un prisme)
+{s:MMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, M]] (un prisme)
 **Portée** personnelle
 **Cible** le personnage
 **Durée** 1 round/niveau
 
-Si le personnage réussit à contrer un sort de niveau 3 ou moins (avec une *[dissipation de la magie](./Dissipation de la magie.md)* ou à l’aide d’un [contresort](./contresort.md) classique) pendant que l’absorption de sort est active, il absorbe le sort contré et l’utilise pour récupérer des sorts qu’il a déjà lancés. S’il est [magicien](./Magicien.md), il récupère l’utilisation d’un unique sort qu’il a déjà lancé depuis sa dernière période de préparation de sorts. S’il est [ensorceleur](./Ensorceleur.md), il récupère un unique emplacement de sort. Le sort ou l’emplacement de sort récupéré doit être d’un niveau égal ou inférieur au sort contré.
+Si le personnage réussit à contrer un sort de niveau 3 ou moins (avec une *[[dissipation de la magie]]* ou à l’aide d’un [[contresort]] classique) pendant que l’absorption de sort est active, il absorbe le sort contré et l’utilise pour récupérer des sorts qu’il a déjà lancés. S’il est [[magicien]], il récupère l’utilisation d’un unique sort qu’il a déjà lancé depuis sa dernière période de préparation de sorts. S’il est [[ensorceleur]], il récupère un unique emplacement de sort. Le sort ou l’emplacement de sort récupéré doit être d’un niveau égal ou inférieur au sort contré.
 
 
 ((({s:sortssimilaires|Absorption de sort}
-## [Absorption de sort suprême](./Absorption de sort suprême.md)
-{s:MMI}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, M](./composantes.md) (un prisme)
+## [[Absorption de sort suprême]]
+{s:MMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, M]] (un prisme)
 **Portée** personnelle
 **Cible** le personnage
 **Durée** 1 round/niveau
 
-Ce sort fonctionne comme *[absorption de sort](./Absorption de sort.md)*, sauf que le personnage peut absorber les sorts contrés de niveau 6 ou moins.
+Ce sort fonctionne comme *[[absorption de sort]]*, sauf que le personnage peut absorber les sorts contrés de niveau 6 ou moins.
 )))

@@ -15,4 +15,4 @@ La résolution minimum pour une bonne utilisation est de 1024*768
 Il suffit de dzipper le fichier et de lancer le programme.
 Le dossier Tables contient tout les fichiers de données (Il suffit de les ouvrir sous excel pour les modifier)
 
-La [version 1.4](./{UP}/BAO/BaSMJ_14-zip.md) est disponible en cliquant sur le lien.
+La [[{UP}/BAO/BaSMJ_14.zip|version 1.4]] est disponible en cliquant sur le lien.

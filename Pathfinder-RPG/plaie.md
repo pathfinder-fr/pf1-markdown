@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Plaies
 ---
 
->>> [Plaies](./Plaies.md)
+>>> [[Plaies]]

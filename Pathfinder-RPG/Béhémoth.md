@@ -15,14 +15,14 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Béhémoth des tempêtes](./Béhémoth des tempêtes.md)  || 22
+| [[Béhémoth des tempêtes]]  || 22
 |-
-| [Béhémoth du tonnerre](./Béhémoth du tonnerre.md) || 18
+| [[Béhémoth du tonnerre]] || 18
 |-
-| [Béhémoth thalassique](./Béhémoth thalassique.md)  || 20
+| [[Béhémoth thalassique]]  || 20
 |}
 </div></div><div class="description">*Source : Bestiaire 3.*</div>
-*Types/Sous-types associés : [Créature magique](./type Créature magique.md) ([béhémoth](./sous-type béhémoth.md))*
+*Types/Sous-types associés : [[type Créature magique|Créature magique]] ([[sous-type béhémoth|béhémoth]])*
 
 Immenses, sans âge, quasiment invincibles, les béhémoths infligent le châtiment divin sur les royaumes des mortels. Façonnés à partir des énergies primaires de la création et empreints d’une puissance élémentaire, les béhémoths ressemblent à des créatures vivantes, sans les faiblesses de la chair. À peine plus intelligents que les animaux les plus futés, les béhémoths comprennent l’aklo mais ne peuvent le parler. Il ne faut rien de moins qu’un dieu ou le plus puissant des artefacts légendaires pour maîtriser un béhémoth, et les dieux eux-mêmes éprouvent une certaine appréhension à l’idée d’en libérer ne serait-ce qu’un seul, de crainte qu’il ne s’affranchisse de ses chaînes et ne retourne sa colère contre son créateur.
 

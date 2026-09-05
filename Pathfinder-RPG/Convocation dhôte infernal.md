@@ -12,12 +12,12 @@ Categories:
 - Src Manuel des PNJ
 ---
 
-{s:MPNJ}**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) <nowiki>[</nowiki>[Mal, Loi](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 5, [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Prê](./Prêtre.md) 5, [Sor](./Sorcière.md) 5
-**Temps d’incantation** 1 [round](./round.md)
-**Composantes** [V, G, F/FD](./composantes.md) (une bande de parchemin couvert de runes)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Effet** 1d4+1 [diables hôtes mineurs](./Diable légionnaire mineur.md) ou 1 [diable légionnaire majeur](./Diable légionnaire majeur.md)
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
+{s:MPNJ}**École** [[Invocation]] ([[branche convocation|convocation]]) <nowiki>[</nowiki>[[registre|Mal, Loi]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 5
+**Temps d’incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, F/FD]] (une bande de parchemin couvert de runes)
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
+**Effet** 1d4+1 [[Diable légionnaire mineur|diables hôtes mineurs]] ou 1 [[diable légionnaire majeur]]
+**Durée** 1 [[round]]/[[niveau]]
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Ce sort fonctionne comme *[convocation de monstres V](./Convocation de monstres V.md)* qui ne peut être lancé que pour invoquer des diables légionnaires. Ces diables volants nocifs sont également appelés [gaavs](./Diable légionnaire mineur.md) et [magaavs](./Diable légionnaire majeur.md).
+Ce sort fonctionne comme *[[convocation de monstres V]]* qui ne peut être lancé que pour invoquer des diables légionnaires. Ces diables volants nocifs sont également appelés [[Diable légionnaire mineur|gaavs]] et [[Diable légionnaire majeur|magaavs]].

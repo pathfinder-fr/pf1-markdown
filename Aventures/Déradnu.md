@@ -9,10 +9,10 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Déradnu|FP 5}
-{s:BDTexte|*Source : [Aides de jeu AP13#HERITAGEPIERREDEGARDE|La Colère des Justes], p.62 ; [Minotaure](./../Pathfinder-RPG/Minotaure.md) et [archetype fiélon](./../Pathfinder-RPG/Archétypes.md#CREATUREFIELON)*}
+{s:BDTexte|*Source : [[Aides de jeu AP13#HERITAGEPIERREDEGARDE|La Colère des Justes]], p.62 ; [[Pathfinder-RPG.minotaure|Minotaure]] et [[Pathfinder-RPG.Archétypes#CREATUREFIELON|archetype fiélon]]*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Extérieur](./../Pathfinder-RPG/type Extérieur.md) ([extraplanaire](./../Pathfinder-RPG/sous-type extraplanaire.md), [Mal](./../Pathfinder-RPG/sous-type Mal.md)) de taille G, CM}
-{s:BDTexte|**Init** +0 ; **Sens** [++Pathfinder-RPG.vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m ; [++Pathfinder-RPG.Perception](./../Pathfinder-RPG/Perception.md) +10}
+{s:BDTexte|[[Pathfinder-RPG.type Extérieur|Extérieur]] ([[Pathfinder-RPG.sous-type Extraplanaire|extraplanaire]], [[Pathfinder-RPG.sous-type Mal|Mal]]) de taille G, CM}
+{s:BDTexte|**Init** +0 ; **Sens** [[Pathfinder-RPG.vision dans le noir]] 18 m ; [[Pathfinder-RPG.Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 9, pris au dépourvu 14 (naturelle +5, taille -1)}
 {s:BDTexte|**pv** 45 (6d10+12)}
@@ -25,23 +25,23 @@ Categories:
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** grande hache +9/+4 (3d6+6/x3) et corne +4 (1d6+2)}
 {s:BDTexte|**Espace** 3 m ; **Allonge** 3 m }
-{s:BDTexte|**Attaques spéciales** [charge puissante](./../Pathfinder-RPG/Charge puissante.md) (corne +11, 2d6+6)}
-{s:BDTexte|**Attaques spéciales** *châtiment du Bien* (1/jour) par une [action rapide](./../Pathfinder-RPG/Action rapide.md) (ajouter un bonus de +5 aux [dégâts](./../Pathfinder-RPG/jet de dégâts.md) contre une cible d’alignement bon ; le châtiment du Bien persiste jusqu’à ce que la cible soit morte ou que la créature se repose).}
+{s:BDTexte|**Attaques spéciales** [[Pathfinder-RPG.charge puissante|charge puissante]] (corne +11, 2d6+6)}
+{s:BDTexte|**Attaques spéciales** *châtiment du Bien* (1/jour) par une [[Pathfinder-RPG.action rapide|action rapide]] (ajouter un bonus de +5 aux [[Pathfinder-RPG.jet de dégâts|dégâts]] contre une cible d’alignement bon ; le châtiment du Bien persiste jusqu’à ce que la cible soit morte ou que la créature se repose).}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 10, **Con** 15, **Int** 7, **Sag** 10, **Cha** 8}
 {s:BDTexte|**BBA** +6, **BMO** +11, **DMD** 21}
-{s:BDTexte|**Dons** [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Science de la bousculade](./../Pathfinder-RPG/Science de la bousculade.md), [Vigueur surhumaine](./../Pathfinder-RPG/Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./../Pathfinder-RPG/Discrétion.md) +2, [Intimidation](./../Pathfinder-RPG/Intimidation.md) +5, [Perception](./../Pathfinder-RPG/Perception.md) +10, [Survie](./../Pathfinder-RPG/Survie.md) +10}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Perception](./../Pathfinder-RPG/Perception.md), +4 en [Survie](./../Pathfinder-RPG/Survie.md)}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]], [[Pathfinder-RPG.Science de la bousculade|Science de la bousculade]], [[Pathfinder-RPG.Vigueur surhumaine|Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Discrétion|Discrétion]] +2, [[Pathfinder-RPG.Intimidation|Intimidation]] +5, [[Pathfinder-RPG.Perception|Perception]] +10, [[Pathfinder-RPG.Survie|Survie]] +10}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Pathfinder-RPG.Perception|Perception]], +4 en [[Pathfinder-RPG.Survie|Survie]]}
 {s:BDTexte|**Langues** abyssal}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Instinct (Ext).** Les minotaures ne sont pas spécialement intelligents mais ils possèdent un instinct inné et des capacités de raisonnement logique qui les immunisent contre les sorts de *[dédale](./../Pathfinder-RPG/Dédale.md)* et les empêchent de se perdre. En plus de cela, ils ne sont jamais [pris au dépourvu](./../Pathfinder-RPG/Pris au dépourvu.md).}
+{s:BDTexte|**Instinct (Ext).** Les minotaures ne sont pas spécialement intelligents mais ils possèdent un instinct inné et des capacités de raisonnement logique qui les immunisent contre les sorts de *[[Pathfinder-RPG.dédale|dédale]]* et les empêchent de se perdre. En plus de cela, ils ne sont jamais [[Pathfinder-RPG.pris au dépourvu|pris au dépourvu]].}
 {s:BDSousTitre|Equipement de combat}
-{s:BDTexte|[Grande hache](./../Pathfinder-RPG/Tableau récapitulatif des armes.md#ARMESDEGUERREDEUXMAINS)}
-{s:BDTexte|[Cor de Lucidité Martiale](./../Pathfinder-RPG/Objets merveilleux sans emplacement.md#Cor de Lucidité Martiale)}
+{s:BDTexte|[[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESDEGUERREDEUXMAINS|Grande hache]]}
+{s:BDTexte|[[Pathfinder-RPG.Objets merveilleux sans emplacement#Cor de Lucidité Martiale|Cor de Lucidité Martiale]]}
 {s:BDTexte|6 figurines en ivoire de femme humanoïde possédant des traits animaux déroutants(45 po chaque)}
 </div>
-</td><td><div class="BD">Le garde du corps personnel de [Jeslyn](./AP13-Jeslyn.md) est un effroyable minotaure fiélon. Sa fourrure rouge sang et ses yeux jaunes et luisants ne laissent aucun doute sur sa nature abyssale.
+</td><td><div class="BD">Le garde du corps personnel de [[AP13-Jeslyn|Jeslyn]] est un effroyable minotaure fiélon. Sa fourrure rouge sang et ses yeux jaunes et luisants ne laissent aucun doute sur sa nature abyssale.
 
 ### Tactique
 **Avant le combat**\
@@ -51,5 +51,5 @@ Déradnu se bat jusqu'à la mort..
 
 ### Trésor
 2 casques historiques de la Première Croisade\
-6 [torches éternelles](./../Pathfinder-RPG/Torche éternelle (objet).md)
+6 [[Pathfinder-RPG.Torche éternelle (objet)|torches éternelles]]
 </div></td></tr></table>

@@ -17,18 +17,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 0, [Con](./Conjurateur.md) 0, [ConU](./conjurateur unchained.md) 0, [Hyp](./Hypnotiseur.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Magus](./Magus.md) 0, [Méd](./Médium.md) 0, [Occ](./Occultiste.md) 0, [Psy](./Psychiste.md) 0, [Spi](./Spirite.md) 0  
+**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Hypnotiseur|Hyp]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0, [[Spirite|Spi]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (une clef en laiton)  
+**Composantes** [[composantes|V, G, F]] (une clef en laiton)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** objet pesant jusqu’à 15 kg ou porte pouvant être ouverte ou fermée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Ce sort permet, au choix, d’ouvrir ou de fermer une porte, un coffre, une boîte, une fenêtre, un sac, une bourse, une bouteille ou tout autre récipient. Il échoue automatiquement si l’objet dispose d’un mécanisme de fermeture (barre, serrure fermée, etc.). De plus, il ouvre et ferme seulement les objets qui pèsent 15 kg ou moins. Le couvercle d’un gros coffre ou une porte de grande taille représentent des masses trop importantes pour lui.

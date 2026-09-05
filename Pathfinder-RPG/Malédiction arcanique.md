@@ -9,6 +9,6 @@ Categories:
 
 {s:MR}*Le halfelin peut sacrifier des sorts profanes ou des emplacements de sort pour rendre la résistance à ses malédictions plus difficile.*
 
-**Conditions.** Lanceur de sorts profanes, trait [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7)
+**Conditions.** Lanceur de sorts profanes, trait [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]
 
-**Avantage.** Lorsqu’il essaye de lancer une malédiction sur une créature, le halfelin peut dépenser l’un de ses sorts profanes préparés ou un emplacement de sort profane disponible pour donner à la cible un malus à son [jet de sauvegarde](./JDS.md) contre la malédiction égal au niveau du sort ou de l’emplacement de sort dépensé. Ceci n’affecte pas l’effet de la malédiction, seulement le jet de sauvegarde pour y résister.
+**Avantage.** Lorsqu’il essaye de lancer une malédiction sur une créature, le halfelin peut dépenser l’un de ses sorts profanes préparés ou un emplacement de sort profane disponible pour donner à la cible un malus à son [[jds|jet de sauvegarde]] contre la malédiction égal au niveau du sort ou de l’emplacement de sort dépensé. Ceci n’affecte pas l’effet de la malédiction, seulement le jet de sauvegarde pour y résister.

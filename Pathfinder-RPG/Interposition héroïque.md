@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISG}*Pile quand on a le plus besoin de lui, le personnage arrive pour vaincre le mal.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 13, [Esquive](./Esquive.md), [Science de l'initative](./Science de linitiative.md), suivant d'un [seigneur empyréen](./Seigneurs empyréens.md)
+**Conditions.** [[Dextérité|Dex]] 13, [[Esquive]], [[Science de linitiative|Science de l'initative]], suivant d'un [[Seigneurs empyréens|seigneur empyréen]]
 
-**Avantage.** Une fois par jour, le personnage peut se déplacer à sa vitesse par une [action immédiate](./Action immédiate.md), mais son mouvement doit se terminer dans une case adjacente à celle d'un ennemi qui s'apprête à attaquer un allié. Tant que le personnage est visible pour l'ennemi vers lequel il s'est déplacé, cet ennemi subit un malus de -2 au [jet d'attaque](./jet dattaque.md) qui a provoqué le déplacement du personnage.
+**Avantage.** Une fois par jour, le personnage peut se déplacer à sa vitesse par une [[action immédiate]], mais son mouvement doit se terminer dans une case adjacente à celle d'un ennemi qui s'apprête à attaquer un allié. Tant que le personnage est visible pour l'ennemi vers lequel il s'est déplacé, cet ennemi subit un malus de -2 au [[jet dattaque|jet d'attaque]] qui a provoqué le déplacement du personnage.

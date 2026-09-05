@@ -17,44 +17,44 @@ Categories:
 | CLASS="gauche" | Sorts par jour
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [Tatouage de familier](./Mystique tatoué.md#TATOUAGEDEFAMILIER)
+| CLASS="gauche" | [[Mystique tatoué#TATOUAGEDEFAMILIER|Tatouage de familier]]
 | CLASS="gauche" | -
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Tatouage mystique](./Mystique tatoué.md#TATOUAGEMYSTIQUE)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
 |-
 | 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [Artiste du tatouage magique](./Mystique tatoué.md#ARTISTEDUTATOUAGEMAGIQUE)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Mystique tatoué#ARTISTEDUTATOUAGEMAGIQUE|Artiste du tatouage magique]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
 |- CLASS="alt"
 | 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [Tatouage mystique](./Mystique tatoué.md#TATOUAGEMYSTIQUE)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
 |-
 | 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [Tatoueur expérimenté](./Mystique tatoué.md#TATOUEUREXPERIMENTE)
+| CLASS="gauche" | [[Mystique tatoué#TATOUEUREXPERIMENTE|Tatoueur expérimenté]]
 | CLASS="gauche" | -
 |- CLASS="alt"
 | 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [Tatouage mystique](./Mystique tatoué.md#TATOUAGEMYSTIQUE)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
 |-
 | 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [Maîtrise du tatouage](./Mystique tatoué.md#MAITRISEDUTATOUAGE)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Mystique tatoué#MAITRISEDUTATOUAGE|Maîtrise du tatouage]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
 |- CLASS="alt"
 | 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [Tatouage mystique](./Mystique tatoué.md#TATOUAGEMYSTIQUE)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
 |-CLASS="alt"
 | 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [Tatouages puissants](./Mystique tatoué.md#TATOUAGESPUISSANTS)
+| CLASS="gauche" | [[Mystique tatoué#TATOUAGESPUISSANTS|Tatouages puissants]]
 | CLASS="gauche" | -
 |-
 | 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [Tatouage mystique](./Mystique tatoué.md#TATOUAGEMYSTIQUE)
-| CLASS="gauche" | [+1 niveau dans une classe de lanceur de sorts existante](./Classes de prestige.md#SORTSPARJOUR)
+| CLASS="gauche" | [[Mystique tatoué#TATOUAGEMYSTIQUE|Tatouage mystique]]
+| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
 |}
 
 **Dé de vie** d6.
@@ -62,18 +62,18 @@ Categories:
 ### Conditions requises
 Pour pouvoir devenir mystique tatoué, le personnage doit satisfaire aux conditions suivantes :
 
-**Dons** [Tatouage mystique](./Tatouage mystique.md).
+**Dons** [[Tatouage mystique]].
 
-**Compétences** 5 rangs en [Art de la magie](./Art de la magie.md) et 5 rangs en [Artisanat](./Artisanat.md) (tatouage).
+**Compétences** 5 rangs en [[Art de la magie]] et 5 rangs en [[Artisanat]] (tatouage).
 
 **Sorts** Capacité à lancer des sorts de 2e niveau.
 
 **Spécial** Doit être capable de parler la langue de l'Empire du péché.
 
 ### Compétences de classe
-Voici les compétences de classe du mystique tatoué : [Art de la magie](./Art de la magie.md) (Int), [Connaissances](./Connaissances.md) (histoire) (Int), [Connaissances](./Connaissances.md) (mystères) (Int) et [Linguistique](./Linguistique.md) (Int).
+Voici les compétences de classe du mystique tatoué : [[Art de la magie]] (Int), [[Connaissances]] (histoire) (Int), [[Connaissances]] (mystères) (Int) et [[Linguistique]] (Int).
 
-**Rangs de compétence par niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.** 2 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de classe du mystique tatoué.
@@ -82,37 +82,37 @@ Un mystique tatoué ne gagne aucune formation supplémentaire au maniement des a
 
 {s:reference|TATOUAGEDEFAMILIER}
 #### Tatouage de familier (Sur)
-Cette capacité fonctionne exactement comme la [capacité d'ensorceleur tatoué](./Ensorceleur tatoué (ensorceleur).md) du même nom.
+Cette capacité fonctionne exactement comme la [[Ensorceleur tatoué (ensorceleur)|capacité d'ensorceleur tatoué]] du même nom.
 
 {s:reference|TATOUAGEMYSTIQUE}
 #### Tatouage mystique (Sur)
-Un mystique tatoué inscrit d’anciens symboles de pouvoir sur sa peau pour améliorer ses capacités de lanceur de sorts. Au niveau 2 puis tous les 2 niveaux par la suite, le mystique tatoué inscrit un nouveau tatouage sur son corps, choisi dans la liste ci-dessous. Les tatouages mystiques n’occupent pas d’emplacement d’objets magiques ou d’emplacements de [tatouages magiques](./Tatouages magiques.md) sur son corps. Le mystique peut choisir chaque tatouage plus d’une fois, les effets de plusieurs tatouages similaires sont notés dans leur description.
-- ***Bêtes bondissantes.*** Ces pictogrammes bestiaux ont l’air prêts à sauter en dehors de la peau du mystique. Le mystique tatoué peut lancer des sorts *[convocation de monstres](./Convocation de monstres.md)* et de *[convocation d'alliés naturels](./Convocation dalliés naturels.md)* de 3e niveau ou moins par une action [action simple](./Action simple.md), au lieu d’un round entier, tant que toutes les créatures appelées apparaissent dans une case adjacente au mystique. Le niveau de sort maximal affecté augmente de 2 à chaque fois que ce tatouage est choisi de nouveau, jusqu'au 9e niveau au maximum.
+Un mystique tatoué inscrit d’anciens symboles de pouvoir sur sa peau pour améliorer ses capacités de lanceur de sorts. Au niveau 2 puis tous les 2 niveaux par la suite, le mystique tatoué inscrit un nouveau tatouage sur son corps, choisi dans la liste ci-dessous. Les tatouages mystiques n’occupent pas d’emplacement d’objets magiques ou d’emplacements de [[Tatouages magiques]] sur son corps. Le mystique peut choisir chaque tatouage plus d’une fois, les effets de plusieurs tatouages similaires sont notés dans leur description.
+- ***Bêtes bondissantes.*** Ces pictogrammes bestiaux ont l’air prêts à sauter en dehors de la peau du mystique. Le mystique tatoué peut lancer des sorts *[[convocation de monstres]]* et de *[[convocation dalliés naturels|convocation d'alliés naturels]]* de 3e niveau ou moins par une action [[action simple]], au lieu d’un round entier, tant que toutes les créatures appelées apparaissent dans une case adjacente au mystique. Le niveau de sort maximal affecté augmente de 2 à chaque fois que ce tatouage est choisi de nouveau, jusqu'au 9e niveau au maximum.
 
-- ***Glyphe déglutissant.*** Ce glyphe ombré et orné absorbe les âmes de ceux vaincus par le mystique tatoué. Dès que le mystique tue une cible avec un sort de l’école de [nécromancie](./Nécromancie.md), il peut dépenser une [action rapide](./Action rapide.md) pour gagner un nombre de [points de vie temporaires](./Blessures et mort.md#PVTEMPORAIRES) égal au niveau du sort lancé. Les points de vie temporaires obtenus par des utilisations consécutives de cette capacité ne se cumulent pas. La deuxième fois que ce tatouage est choisi, le nombre de points de vie temporaires obtenus passe au double du niveau du sort. La troisième fois qu'il est choisi, ce nombre passe au triple du niveau du sort.
+- ***Glyphe déglutissant.*** Ce glyphe ombré et orné absorbe les âmes de ceux vaincus par le mystique tatoué. Dès que le mystique tue une cible avec un sort de l’école de [[nécromancie]], il peut dépenser une [[action rapide]] pour gagner un nombre de [[Blessures et mort#PVTEMPORAIRES|points de vie temporaires]] égal au niveau du sort lancé. Les points de vie temporaires obtenus par des utilisations consécutives de cette capacité ne se cumulent pas. La deuxième fois que ce tatouage est choisi, le nombre de points de vie temporaires obtenus passe au double du niveau du sort. La troisième fois qu'il est choisi, ce nombre passe au triple du niveau du sort.
 
-- ***Œil clignant.*** La peau derrière cet œil stylisé a l’air partiellement translucide et non substantielle. Lorsque le mystique tatoué dépense une [action simple](./Action simple.md) pour se concentrer sur un effet d’[illusion](./Présentation des sorts.md#ILLUSION) actif créé par un de ses sorts, il obtient un [camouflage](./Modificateurs de combat.md#CAMOUFLAGE) (20% de chance pour les ennemis de le rater) jusqu’au début de son prochain tour. Les effets qui annulent l’invisibilité ignorent cet effet. Quand ce tatouage est choisi une deuxième fois, les chances de le rater passent à 50%. Lorsqu’il est choisi une troisième fois, le mystique devient invisible à la place, comme avec un sort d’*[invisibilité](./Invisibilité.md)*, jusqu’au début de son prochain tour.
+- ***Œil clignant.*** La peau derrière cet œil stylisé a l’air partiellement translucide et non substantielle. Lorsque le mystique tatoué dépense une [[action simple]] pour se concentrer sur un effet d’[[Présentation des sorts#ILLUSION|illusion]] actif créé par un de ses sorts, il obtient un [[Modificateurs de combat#CAMOUFLAGE|camouflage]] (20% de chance pour les ennemis de le rater) jusqu’au début de son prochain tour. Les effets qui annulent l’invisibilité ignorent cet effet. Quand ce tatouage est choisi une deuxième fois, les chances de le rater passent à 50%. Lorsqu’il est choisi une troisième fois, le mystique devient invisible à la place, comme avec un sort d’*[[invisibilité]]*, jusqu’au début de son prochain tour.
 
-- ***Rubans torrides.*** Ces marques minces et brillantes encerclent le bras du mystique tatoué. Lorsque le mystique tatoué lance un sort d’[évocation](./Présentation des sorts.md#EVOCATION) qui inflige des dégâts d’énergie destructive, il peut dépenser une [action rapide](./Action rapide.md) pour s’entourer d’une aura du même type d’énergie jusqu’au début de son prochain tour. Les créatures adjacentes au mystique quand il active cette capacité ou qui finissent leur tour à côté de lui subissent 1d6 points de dégâts du même type d’énergie que le sort d’évocation. Si le sort inflige plus d’un type de dégâts d’énergie, le mystique doit en choisir un. Choisir plusieurs fois ce tatouage augmente les dégâts de 2d6, jusqu’à un maximum de 7d6.
+- ***Rubans torrides.*** Ces marques minces et brillantes encerclent le bras du mystique tatoué. Lorsque le mystique tatoué lance un sort d’[[Présentation des sorts#EVOCATION|évocation]] qui inflige des dégâts d’énergie destructive, il peut dépenser une [[action rapide]] pour s’entourer d’une aura du même type d’énergie jusqu’au début de son prochain tour. Les créatures adjacentes au mystique quand il active cette capacité ou qui finissent leur tour à côté de lui subissent 1d6 points de dégâts du même type d’énergie que le sort d’évocation. Si le sort inflige plus d’un type de dégâts d’énergie, le mystique doit en choisir un. Choisir plusieurs fois ce tatouage augmente les dégâts de 2d6, jusqu’à un maximum de 7d6.
 
-- ***Runes de crocs.*** Ces runes dentelées couvrent le visage du mystique tatoué, lui donnant une expression bestiale. Lorsqu’il est métamorphosé ou autrement transformé en une forme possédant des attaques naturelles, le mystique gagne un bonus d’altération sur les [jets d’attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) égal à la moitié de son niveau avec une attaque naturelle, choisie au moment où il se transforme. À chaque fois qu’il sélectionne à nouveau ce tatouage, il peut choisir une attaque naturelle supplémentaire à laquelle s’applique le bonus. 
+- ***Runes de crocs.*** Ces runes dentelées couvrent le visage du mystique tatoué, lui donnant une expression bestiale. Lorsqu’il est métamorphosé ou autrement transformé en une forme possédant des attaques naturelles, le mystique gagne un bonus d’altération sur les [[jet dattaque|jets d’attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] égal à la moitié de son niveau avec une attaque naturelle, choisie au moment où il se transforme. À chaque fois qu’il sélectionne à nouveau ce tatouage, il peut choisir une attaque naturelle supplémentaire à laquelle s’applique le bonus. 
 
-- ***Sceau triangulaire.*** Ce motif triangulaire permet au mystique de transformer un sort hostile l’affectant en un tatouage magique, similaire à un [tatouage de stockage](./Tatouage de stockage.md). Lorsque le mystique rate un [jet de sauvegarde](./JDS.md) contre un sort de 3e niveau ou moins qui ne cible que lui, il peut essayer de l’identifier avec un test d’[Art de la Magie](./Art de la magie.md) ([DD](./DD.md) 15 + niveau du sort). S’il réussit ce test, il peut sacrifier un sort préparé ou un emplacement de sort d’un niveau supérieur ou égal par une [action immédiate](./Action immédiate.md) pour sceller le sort, ce qui contient ses effets et suspend sa durée pendant un nombre de [rounds](./round.md) égal à son niveau. Seuls les sorts avec une durée supérieure à “instantanée” peuvent être scellés, et un seul sort peut être scellé à la fois. Quand il est scellé, le sort peut être [dissipé](./Dissipation de la magie.md) ou supprimé normalement. Le niveau de sort maximal que le mystique tatoué peut sceller augmente de 2 à chaque fois que ce tatouage est choisi, jusqu'au 9e niveau au maximum.
+- ***Sceau triangulaire.*** Ce motif triangulaire permet au mystique de transformer un sort hostile l’affectant en un tatouage magique, similaire à un [[tatouage de stockage]]. Lorsque le mystique rate un [[jds|jet de sauvegarde]] contre un sort de 3e niveau ou moins qui ne cible que lui, il peut essayer de l’identifier avec un test d’[[Art de la Magie]] ([[DD]] 15 + niveau du sort). S’il réussit ce test, il peut sacrifier un sort préparé ou un emplacement de sort d’un niveau supérieur ou égal par une [[action immédiate]] pour sceller le sort, ce qui contient ses effets et suspend sa durée pendant un nombre de [[round|rounds]] égal à son niveau. Seuls les sorts avec une durée supérieure à “instantanée” peuvent être scellés, et un seul sort peut être scellé à la fois. Quand il est scellé, le sort peut être [[Dissipation de la magie|dissipé]] ou supprimé normalement. Le niveau de sort maximal que le mystique tatoué peut sceller augmente de 2 à chaque fois que ce tatouage est choisi, jusqu'au 9e niveau au maximum.
 
-- ***Texte sinueux.*** Les formes vagues et floues qui forment ce tatouage en spirale se tordent en un texte lisible lorsqu’il est observé. Les créatures à 9 m (6 {s:c}) ou moins du mystique tatoué qui peuvent le voir sont affectées par ses sorts d’[enchantement](./Présentation des sorts.md#ENCHANTEMENT) dépendant du langage, même s'ils ne comprennent pas la langue utilisée. Les créatures ne parlant aucune langue sont immunisées à cet effet. La portée de cet effet augmente de 9 m à chaque fois que ce tatouage est choisi, jusqu’à un maximum de 45 m.
+- ***Texte sinueux.*** Les formes vagues et floues qui forment ce tatouage en spirale se tordent en un texte lisible lorsqu’il est observé. Les créatures à 9 m (6 {s:c}) ou moins du mystique tatoué qui peuvent le voir sont affectées par ses sorts d’[[Présentation des sorts#ENCHANTEMENT|enchantement]] dépendant du langage, même s'ils ne comprennent pas la langue utilisée. Les créatures ne parlant aucune langue sont immunisées à cet effet. La portée de cet effet augmente de 9 m à chaque fois que ce tatouage est choisi, jusqu’à un maximum de 45 m.
 
 {s:reference|ARTISTEDUTATOUAGEMAGIQUE}
 #### Artiste du tatouage magique
-Au niveau 3, un mystique tatoué obtient le don [Création de tatouages magiques](./Création de tatouages magiques.md) comme don supplémentaire.
+Au niveau 3, un mystique tatoué obtient le don [[Création de tatouages magiques]] comme don supplémentaire.
 
 {s:reference|TATOUEUREXPERIMENTE}
 #### Tatoueur expérimenté (Ext)
-Au niveau 5, tant que le mystique tatoué utilise sa compétence d’[Artisanat](./Artisanat.md) (peinture, calligraphie ou tatouage) pour créer des [tatouages magiques](./Tatouages magiques.md) sur son propre corps, il peut le faire deux fois plus rapidement que la normale.
+Au niveau 5, tant que le mystique tatoué utilise sa compétence d’[[Artisanat]] (peinture, calligraphie ou tatouage) pour créer des [[tatouages magiques]] sur son propre corps, il peut le faire deux fois plus rapidement que la normale.
 
 {s:reference|MAITRISEDUTATOUAGE}
 #### Maîtrise du tatouage (Ext)
-Au niveau 7, un mystique tatoué peut utiliser son propre modificateur de caractéristique et des dons appropriés pour définir le [DD](./DD.md) des [tatouages de sorts](./Tatouage de sort.md) qu’il crée, et peut utiliser son propre [NLS](./NLS.md) s'il est plus élevé que celui du tatouage de sort qu’il est en train de créer (comme un lanceur de sort utilisant un [bâton magique](./Bâtons magiques.md)).
+Au niveau 7, un mystique tatoué peut utiliser son propre modificateur de caractéristique et des dons appropriés pour définir le [[DD]] des [[Tatouage de sort|tatouages de sorts]] qu’il crée, et peut utiliser son propre [[NLS]] s'il est plus élevé que celui du tatouage de sort qu’il est en train de créer (comme un lanceur de sort utilisant un [[Bâtons magiques|bâton magique]]).
 
 {s:reference|TATOUAGESPUISSANTS}
 #### Tatouages puissants (Ext)
-Au niveau 9, lorsqu'un mystique tatoué utilise son [NLS](./NLS.md) pour déterminer le [DD](./DD.md) d’un des [tatouages de sort](./Tatouage de sort.md) qu’il vient de créer, il le fait avec un bonus de +1 au [NLS](./NLS.md).
+Au niveau 9, lorsqu'un mystique tatoué utilise son [[NLS]] pour déterminer le [[DD]] d’un des [[Tatouage de sort|tatouages de sort]] qu’il vient de créer, il le fait avec un bonus de +1 au [[NLS]].

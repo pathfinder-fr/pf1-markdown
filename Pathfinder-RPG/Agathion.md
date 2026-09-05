@@ -15,24 +15,24 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Avoral](./Avoral.md) || 9
+| [[Avoral]] || 9
 |-
-| [Cervinal](./Cervinal.md) || 17
+| [[Cervinal]] || 17
 |-
-| [Cétacéal](./Cétacéal.md) || 15
+| [[Cétacéal]] || 15
 |-
-| [Draconal](./Draconal.md) || 20
+| [[Draconal]] || 20
 |-
-| [Léonal](./Léonal.md) || 12
+| [[Léonal]] || 12
 |-
-| [Reptial](./Reptial.md) || 4
+| [[Reptial]] || 4
 |-
-| [Silvanshie](./Silvanshie.md) || 2
+| [[Silvanshie]] || 2
 |-
-| [Vulpinal](./Vulpinal.md) || 6
+| [[Vulpinal]] || 6
 |}
 </div></div><div class="description">*Source : Bestiaire 2 p.17.*</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([agathion](./sous-type agathion.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type agathion|agathion]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]])*
 
 Les agathions forment une race d’Extérieurs d’apparence animale et natifs du plan du Nirvana, le royaume du Bien pur, hors de toute influence des dogmes de la Loi (contrairement au Paradis) ou du Chaos (contrairement à l’Élysée). Même si le Nirvana est un lieu de repos où les âmes bénies viennent chercher l’illumination, les agathions se montrent agressifs et n’hésitent pas à intervenir dans le monde des mortels lorsqu’il s’agit d’affronter le Mal. Les agathions sont créés à partir des âmes des mortels Bons qui sont parvenus (parfois seulement après leur mort) à atteindre l’illumination qu’ils recherchaient de leur vivant. Ils incarnent les principes d’un royaume pacifique mais n’hésitent pas à rassembler leurs forces pour défendre ce royaume contre tous ceux qui voudraient le profaner. Comme les agathions représentent un équilibre éthique à mi-chemin entre les azatas, créatures féeriques et chaotiques, et les archons, êtres loyaux et rigides, ils font souvent office de porte-paroles entre les races célestes. Ils adoucissent les tempéraments nerveux et oeuvrent aux buts communs à toutes ces races : la victoire sur le Mal et la protection du Bien.
 
@@ -57,4 +57,4 @@ que les agathions communs ( jusqu’au double de la taille normale dans certains
 - Sixvies la Fureur violète (silvanshie)
 - Marche-avec-les-Étoiles-dorées (draconal)
 
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./Seigneurs empyréens.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs Empyréens]].***</li></ul>

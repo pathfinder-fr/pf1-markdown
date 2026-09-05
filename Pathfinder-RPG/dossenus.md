@@ -10,7 +10,7 @@ LastModified: 2021-06-14 12:56
 {s:pucem|Aberration|souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 67*}
 - 400 PX
-- [Aberration](./type Aberration.md) de taille P, N
+- [[type aberration|Aberration]] de taille P, N
 - **Init **+0 ; **Sens **vision dans le noir 18 m ; Perception +5
 (((Défense)))
 - **CA **12, contact 11, pris au dépourvu 12 (naturelle +1, taille +1)
@@ -24,8 +24,8 @@ LastModified: 2021-06-14 12:56
 (((Statistiques)))
 - **For **12, **Dex **11, **Con **14, **Int** 3, **Sag **10, **Cha **5
 - **BBA **+1 ; **BMO **+1 ; **DMD **11 (15 contre croc-en-jambe)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (morsure), [Science du critique](./Science du critique.md)<sup>S</sup> (morsure), [Spécialisation martiale](./Spécialisation martiale.md)<sup>S</sup> (morsure)
-- **Compétences **[Escalade](./Escalade.md) +17, [Perception](./Perception.md) +5 ; Modificateurs raciaux +8 en Escalade
+- **Dons **[[Arme de prédilection]] (morsure), [[Science du critique]]<sup>S</sup> (morsure), [[Spécialisation martiale]]<sup>S</sup> (morsure)
+- **Compétences **[[Escalade]] +17, [[Perception]] +5 ; Modificateurs raciaux +8 en Escalade
 - **Langues **aklo
 (((Écologie)))
 - **Environnement **sous terre (mais pas dans l’eau)

@@ -10,7 +10,7 @@ Categories:
 
 {s:mca} *Le personnage regagne des rounds de rage de berserker ou de chant de rage quand il se débarrasse d’un ennemi.*
 
-**Conditions.** Pouvoir de classe [rage de berserker](./Barbare.md#RAGEDEBERSERKER) ou [chant de rage](./Scalde.md#CHANTDERAGE).
+**Conditions.** Pouvoir de classe [[barbare#RAGEDEBERSERKER|rage de berserker]] ou [[scalde#CHANTDERAGE|chant de rage]].
 
 **Avantage.** Chaque fois que le personnage réduit un ennemi à 0 point de vie ou moins alors qu’il est en rage ou utilise chant de rage, il regagne 1 round de rage de berserker ou de chant de rage (selon son choix, s’il possède les deux pouvoirs) à partir du moment où le nombre de dés de vie que possède l’adversaire est égal ou supérieur à la moitié du niveau du personnage.
 

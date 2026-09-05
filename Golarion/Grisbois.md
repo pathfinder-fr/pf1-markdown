@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Grisbois est une ville de l'[Irrisen](./Irrisen.md). Elle est située au sud-est du pays, au milieu de la forêt éponyme.
+Grisbois est une ville de l'[[Irrisen]]. Elle est située au sud-est du pays, au milieu de la forêt éponyme.
 
 La ville est entièrement sculptée dans le tronc d'un arbre pétrifié d'une taille exceptionnelle. Son seul autre titre de gloire est la débauche visible dans les fêtes qu'organise continuellement Anelisha, le dirigeant de la ville.

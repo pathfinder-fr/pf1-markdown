@@ -10,7 +10,7 @@ LastModified: 2016-12-28 16:32
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 259*}
 - 1 200 PX
-- [Aberration](./type Aberration.md) de taille M, CM
+- [[type aberration|Aberration]] de taille M, CM
 - **Init **+7 ; **Sens **vision dans le noir 18 m, perception des vibrations 18 m ; Perception +12
 (((Défense)))
 - **CA **17, contact 13, pris au dépourvu 14 (Dex +3, naturelle +4)
@@ -25,8 +25,8 @@ LastModified: 2016-12-28 16:32
 (((Statistiques)))
 - **For **13, **Dex **17, **Con **12, **Int **3, **Sag **12, **Cha **2
 - **BBA** +5 ; **BMO **+6 ; **DMD** 19 (31 contre le croc-en-jambe)
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [S’avancer](./Savancer.md), [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)
-- **Compétences **[Escalade](./Escalade.md) +15, [Perception](./Perception.md) +12 
+- **Dons **[[Attaque en finesse]], [[savancer|S’avancer]], [[science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]]
+- **Compétences **[[Escalade]] +15, [[Perception]] +12 
 - **Modificateurs raciaux** +4 en Perception
 - **Langues **aklo
 (((Écologie)))

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 5 pc ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
 ---
-Si ce sont techniquement des munitions de [fronde](./fronde (arme).md), ces galets entourés de tissu ou de ficelle sont surtout utilisés pour émettre un signal ou pour les fêtes plutôt que pour le combat, puisqu’ils frappent à peine aussi fort qu’une piqûre. Lorsqu’ils sont plongés dans l’huile ou dans un alcool fort, ils brûlent vivement pendant 1 [round](./round.md) et éclairent une zone comme le ferait une [bougie](./Bougie (objet).md) et génèrent de brefs éclats de lumière tandis qu’ils traversent les airs. Ils ne sont généralement pas assez chauds et ne brûlent pas assez rapidement pour enflammer les combustibles.
+Si ce sont techniquement des munitions de [[fronde (arme)|fronde]], ces galets entourés de tissu ou de ficelle sont surtout utilisés pour émettre un signal ou pour les fêtes plutôt que pour le combat, puisqu’ils frappent à peine aussi fort qu’une piqûre. Lorsqu’ils sont plongés dans l’huile ou dans un alcool fort, ils brûlent vivement pendant 1 [[round]] et éclairent une zone comme le ferait une [[Bougie (objet)|bougie]] et génèrent de brefs éclats de lumière tandis qu’ils traversent les airs. Ils ne sont généralement pas assez chauds et ne brûlent pas assez rapidement pour enflammer les combustibles.

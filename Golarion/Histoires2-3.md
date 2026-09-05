@@ -4,8 +4,8 @@ Title: Tenir bon
 LastModified: 2010-10-08 11:28
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du troisième chapitre : "[Holding Ground](http://paizo.com/pathfinder/tales/serial/v5748dyo5lb8t)" de la nouvelle "Un noble sacrifice" par Richard Ford.*
 
 Le sol de l'étroite piste de montagne était irrégulier ; c'était un chemin peu visible, guère plus qu'une piste tracée par les boucs. Malgré cela, Tibérion se déplaçait avec grande hâte sans sembler se préoccuper du danger. Kal avait du mal à suivre l'allure du guerrier colossal qui descendait quasiment la pente en courant. Cela faisait longtemps qu'ils avaient perdu de vue, l'armée de gobelinoïdes, mais ce n'était pas pour autant que leur mission était moins urgente. Si la garnison de Point-du-Loup n'était pas mise en garde, elle n'aurait aucune chance. Les gobelins tireraient profit des ténèbres pour attaquer et fondre sur la garnison au cœur de la nuit, se déplaçant en silence pour écraser les faibles défenses avant qu'ils n'aient eu l'occasion de donner l'alarme. C'était une tactique qu'ils avaient utilisée à travers tout l'Isger, et Kal était bien déterminé à ne pas laisser la même chose se reproduire à Point-du-Loup.

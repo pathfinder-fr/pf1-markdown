@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Vermine|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.51*}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Vermine](./type Vermine.md) ([aquatique](./sous-type aquatique.md), [nuée](./sous-type nuée.md)) de taille Min, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]], [[sous-type nuée|nuée]]) de taille Min, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 16, pris au dépourvu 16 (Dex +2, naturelle +2, taille +4)}
 {s:BDTexte|**pv** 38 (7d8+7)}
 {s:BDTexte|**Réf** +4, **Vig** +6, **Vol** +2}
-{s:BDTexte|**Immunités** dégâts par armes, effets mentaux, [traits des nuées](./traits des nuées.md) }
+{s:BDTexte|**Immunités** dégâts par armes, effets mentaux, [[traits des nuées]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** nuée (2d6)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 0 m (0 {s:c})}
-{s:BDTexte|**Attaques spéciales** [distraction](./Distraction.md) (DD 14)}
+{s:BDTexte|**Attaques spéciales** [[distraction]] (DD 14)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 14, **Con** 13, **Int** -, **Sag** 10, **Cha** 2}
 {s:BDTexte|**BBA** +5, **BMO** -, **DMD** -}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +10 ; **Modificateurs raciaux** Utilise la Dex pour [Natation](./Natation.md)}
+{s:BDTexte|**Compétences** [[Natation]] +10 ; **Modificateurs raciaux** Utilise la Dex pour [[Natation]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** milieu aquatique}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou wave (3-8 swarms)}
@@ -41,15 +41,15 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Crabe royal](./Crabe royal.md) || 1/4
+| Familier, [[Crabe royal]] || 1/4
 |-
-| [Crabe géant](./Crabe géant.md) || 2
+| [[Crabe géant]] || 2
 |-
-| [Crabe mangeur de requins](./Crabe mangeur de requins.md) || 7
+| [[Crabe mangeur de requins]] || 7
 |-
-| [Crabe naufrageur](./Crabe naufrageur.md) || 13
+| [[Crabe naufrageur]] || 13
 |-
-| [Nuée de crabes](./Nuée de crabes.md) || 4
+| [[Nuée de crabes]] || 4
 |}
 </div>*Une masse de carapaces qui cliquettent et de pinces qui claquent sort de l’eau, portée par des milliers de pattes qui s’agitent dans le sable.*
 

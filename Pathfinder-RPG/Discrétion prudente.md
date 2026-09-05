@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:UI}*En prenant votre temps, vous annulez les malus à la discrétion imposés par la plupart des armures.*
 
-**Conditions.** [Dex](./Dex.md) 13, 3 rangs en [Discrétion](./Discrétion.md)
+**Conditions.** [[Dex]] 13, 3 rangs en [[Discrétion]]
 
-**Avantages.** Le personnage n'applique pas le [malus d'armure](./malus darmure.md) infligé par les armures légères et intermédiaires aux tests de [Discrétion](./Discrétion.md) tant qu'il se déplace à la moitié de sa vitesse ou moins. Il est toujours impossible de [courir](./courir.md) ou de [charger](./charger.md) en utilisant la Discrétion de cette façon.
+**Avantages.** Le personnage n'applique pas le [[malus darmure|malus d'armure]] infligé par les armures légères et intermédiaires aux tests de [[Discrétion]] tant qu'il se déplace à la moitié de sa vitesse ou moins. Il est toujours impossible de [[courir]] ou de [[charger]] en utilisant la Discrétion de cette façon.

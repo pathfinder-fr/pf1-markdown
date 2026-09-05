@@ -10,7 +10,7 @@ LastModified: 2023-02-23 20:03
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 272*}
 - **614 400 PX**
-- [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [mythique](./sous-type mythique.md)) de taille C, CM
+- [[type extérieur|Extérieur]] ([[sous-type chaos|Chaos]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type mythique|mythique]]) de taille C, CM
 - **Init **+1 ; **Sens **vision dans le noir 18 m, perception de la magie divine ; Perception +26
 - **Aura **présence effrayante (18 m, DD 27)
 (((Défense)))
@@ -25,15 +25,15 @@ LastModified: 2023-02-23 20:03
 - **Espace **9 m ; **Allonge **9 m
 - **Attaques spéciales** saignement (4d6), rage sanguinaire, pouvoir mythique (8/jour, montée en puissance +1d10), repousser (masse d’armes lourde ou coup, 3 m), lancer de rochers (30 m), piétinement (2d8+24, DD 35)
 - **Pouvoirs magiques** (**NLS **20 ; concentration +28)
-  - *Constant* – [marche dans les airs](./Marche dans les airs.md), [esprit impénétrable](./Esprit impénétrable.md), [vision lucide](./Vision lucide.md)
-  - *À volonté* – [annulation d’enchantement](./Annulation denchantement.md), [divination](./Divination.md), [dissipation suprême](./Dissipation suprême.md), [communication à distance](./Communication à distance.md)
-  - *3/jour* – [désintégration](./Désintégration.md) (DD 24), [guérison suprême](./Guérison suprême.md), [scrutation suprême](./Scrutation suprême.md) (DD 25), [suggestion de groupe](./Suggestion de groupe.md) (DD 24)
-  - *1/jour* – [allié suprême d’outreplan](./Allié suprême doutreplan.md), [disjonction](./Disjonction.md) (DD 27), [terre maudite](./Terre maudite.md), [renvoi des sorts](./Renvoi des sorts.md), [souhait](./Souhait.md)
+  - *Constant* – [[marche dans les airs]], [[esprit impénétrable]], [[vision lucide]]
+  - *À volonté* – [[annulation denchantement|annulation d’enchantement]], [[divination]], [[dissipation suprême]], [[communication à distance]]
+  - *3/jour* – [[désintégration]] (DD 24), [[guérison suprême]], [[scrutation suprême]] (DD 25), [[suggestion de groupe]] (DD 24)
+  - *1/jour* – [[allié suprême doutreplan|allié suprême d’outreplan]], [[disjonction]] (DD 27), [[terre maudite]], [[renvoi des sorts]], [[souhait]]
 (((Statistiques)))
 - **For **42, **Dex **12, **Con** 37, **Int **29, **Sag **20, **Cha** 27
 - **BBA** +18 ; **BMO **+42 (+44 en bousculade) ; **DMD **53 (55 contre la bousculade)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md)<sup>M</sup>, [Coup fabuleux](./Coup fabuleux.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive](./Frappe décisive.md)<sup>M</sup>, [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md)<sup>M</sup> (masse d’armes lourde), [Volonté de fer](./Volonté de fer.md)<sup>M</sup> 
-- **Compétences** [Acrobaties](./Acrobaties.md) +14, [Art de la magie](./Art de la magie.md) +30, [Artisanat](./Artisanat.md) (un au choix) +30, [Bluff](./Bluff.md) +29, [Connaissances](./Connaissances.md) (mystères, histoire) +21, [Connaissances](./Connaissances.md) (plans, religion) +30, [Diplomatie](./Diplomatie.md) +20, [Intimidation](./Intimidation.md) +29, [Natation](./Natation.md) +29, [Perception](./Perception.md) +26, [Premiers secours](./Premiers secours.md) +23, [Psychologie](./Psychologie.md) +26, [Survie](./Survie.md) +23, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +29
+- **Dons **[[Attaque en puissance]]<sup>M</sup>, [[Coup fabuleux]], [[Critique ralentissant]], [[Don pour les critiques]], [[Frappe décisive]]<sup>M</sup>, [[Réflexes surhumains]], [[Science de la bousculade]], [[Science du critique]]<sup>M</sup> (masse d’armes lourde), [[Volonté de fer]]<sup>M</sup> 
+- **Compétences** [[Acrobaties]] +14, [[Art de la magie]] +30, [[Artisanat]] (un au choix) +30, [[Bluff]] +29, [[Connaissances]] (mystères, histoire) +21, [[Connaissances]] (plans, religion) +30, [[Diplomatie]] +20, [[Intimidation]] +29, [[Natation]] +29, [[Perception]] +26, [[Premiers secours]] +23, [[Psychologie]] +26, [[Survie]] +23, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +29
 - **Langues **abyssale, céleste, commun ; télépathie 90 m
 (((Écologie)))
 - **Environnement** tous (Abysses)
@@ -46,7 +46,7 @@ LastModified: 2023-02-23 20:03
 
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [titans](./Titan.md).***</li></ul>*Ce géant à l’image d’un dieu porte une armure composée d’épaisses plaques de fer noirci et brandit une imposante masse hérissée de lames.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[titan|titans]].***</li></ul>*Ce géant à l’image d’un dieu porte une armure composée d’épaisses plaques de fer noirci et brandit une imposante masse hérissée de lames.*
 
 Les titans formoriens étaient les premiers titans créés par les dieux. Leur orgueil les a poussés à s’immiscer dans le domaine de leurs maîtres et à créer eux-mêmes la vie pour qu’ils puissent à leur tour être vénérés. Les dieux ont été contraints de combattre leurs créations et, malgré leur victoire, ils n’ont pas eu le courage de détruire les fomoriens. Au lieu de cela, ils les ont engoncés à jamais dans des armures qui dissimulent leur beauté et les ont enfermés dans des prisons secrètes disséminées aux quatre coins du multivers.
 

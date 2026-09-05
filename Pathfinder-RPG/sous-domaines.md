@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Domaines#SOUSDOMAINES
 ---
 
->>> [Domaines#SOUSDOMAINES](./Domaines.md#SOUSDOMAINES)
+>>> [[Domaines#SOUSDOMAINES]]

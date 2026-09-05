@@ -11,26 +11,26 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Occ](./Occultiste.md) 5  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (eau et argile)  
+**Composantes** [[composantes|V, G, M/FD]] (eau et argile)  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Zone d'effet** jusqu’à 2 cubes de 3 m d’arête/[niveau](./niveau.md) (F)  
+**Zone d'effet** jusqu’à 2 cubes de 3 m d’arête/[[niveau]] (F)  
 
-**Durée** [permanente](./permanente.md) (voir description)  
+**Durée** [[permanente]] (voir description)  
 
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
-Ce sort transforme la pierre brute (c’est-à-dire non-travaillée) en quantité égale de boue. Le sort n’affecte pas la pierre magique ou enchantée. La profondeur de boue créée ne dépasse jamais trois mètres. Les créatures incapables de se dégager (en volant, en lévitant, etc.) s’enfoncent jusqu’à la taille ou jusqu’à la poitrine, ce qui réduit leur [vitesse de déplacement](./vitesse de déplacement.md) à 1,50 m et leur inflige un malus de -2 à la [CA](./CA.md) et aux [jets d’attaque](./jet dattaque.md). On peut jeter de la broussaille sur la boue pour que les créatures assez légères puissent s’y hisser. Les créatures suffisamment grandes pour toucher le fond peuvent quitter la zone à raison de 1,50 m par round.
+Ce sort transforme la pierre brute (c’est-à-dire non-travaillée) en quantité égale de boue. Le sort n’affecte pas la pierre magique ou enchantée. La profondeur de boue créée ne dépasse jamais trois mètres. Les créatures incapables de se dégager (en volant, en lévitant, etc.) s’enfoncent jusqu’à la taille ou jusqu’à la poitrine, ce qui réduit leur [[vitesse de déplacement]] à 1,50 m et leur inflige un malus de -2 à la [[CA]] et aux [[jet dattaque|jets d’attaque]]. On peut jeter de la broussaille sur la boue pour que les créatures assez légères puissent s’y hisser. Les créatures suffisamment grandes pour toucher le fond peuvent quitter la zone à raison de 1,50 m par round.
 
-Si le personnage lance *transmutation de la pierre en boue* sur le plafond d’une grotte ou d’une galerie, la boue tombe au sol et constitue un bassin d’un mètre cinquante de profondeur. La pluie de boue et l’éboulement qui s’ensuit infligent 8d6 points de dégâts contondants à toutes les créatures qui se trouvent en dessous, dégâts réduits de moitié en cas de jet de [Réflexes](./Réflexes.md) réussi.
+Si le personnage lance *transmutation de la pierre en boue* sur le plafond d’une grotte ou d’une galerie, la boue tombe au sol et constitue un bassin d’un mètre cinquante de profondeur. La pluie de boue et l’éboulement qui s’ensuit infligent 8d6 points de dégâts contondants à toutes les créatures qui se trouvent en dessous, dégâts réduits de moitié en cas de jet de [[Réflexes]] réussi.
 
 Les châteaux et les structures importantes sont généralement immunisés contre les effets de ce sort car *transmutation de la pierre en boue* n’affecte que la pierre à l’état naturel. De plus, elle ne peut que rarement endommager leurs fondations, trop profondément enfouies pour être affectées. Par contre, les maisons et les structures plus modestes sont généralement bâties sur des fondations qui peuvent être endommagées par ce sort, ce qui a souvent pour effet de modifier l’assise du bâtiment.
 
-La boue reste en l’état jusqu’à ce qu’une *[transmutation de la boue en pierre](./Transmutation de la boue en pierre.md)* ou une *[dissipation de la magie](./Dissipation de la magie.md)* réussie lui rende sa consistance (mais pas nécessairement sa forme) initiale. L’évaporation naturelle la transforme en terre au bout de quelques jours. Le laps de temps exact est calculé en fonction de son exposition au soleil, du vent et des capacités de drainage du sol.
+La boue reste en l’état jusqu’à ce qu’une *[[transmutation de la boue en pierre]]* ou une *[[dissipation de la magie]]* réussie lui rende sa consistance (mais pas nécessairement sa forme) initiale. L’évaporation naturelle la transforme en terre au bout de quelques jours. Le laps de temps exact est calculé en fonction de son exposition au soleil, du vent et des capacités de drainage du sol.
 
-*Transmutation de la pierre en boue* contre et dissipe *[transmutation de la boue en pierre](./Transmutation de la boue en pierre.md)*.
+*Transmutation de la pierre en boue* contre et dissipe *[[transmutation de la boue en pierre]]*.

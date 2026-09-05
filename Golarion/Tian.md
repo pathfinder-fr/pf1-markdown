@@ -8,35 +8,35 @@ Categories:
 
 ### Une origine reculée
 
-Même si la plupart des gens d’Avistan et du Garund le considèrent comme étant une ethnie unique, le peuple nommé Tian se divise en plusieurs branches distinctes. Originaires de contrées comme les [Etats Successeurs] ou le [Minkai], des empires du lointain continent  [Tian Xia], cette population étrangère s’est installée dans la région de la Mer Intérieure.
+Même si la plupart des gens d’Avistan et du Garund le considèrent comme étant une ethnie unique, le peuple nommé Tian se divise en plusieurs branches distinctes. Originaires de contrées comme les [[Etats Successeurs]] ou le [[Minkai]], des empires du lointain continent  [[Tian Xia]], cette population étrangère s’est installée dans la région de la Mer Intérieure.
 
 ### Culture étrangère
 
-Les religions tiannes sont aussi variées que leurs pratiquants ; ces derniers vénèrent un panthéon de divinité aussi fourni que celui de la Mer Intérieure. Depuis son introduction par des missionnaires vudranis l’Eglise d’[Irori] s’est répendue dans tout le [Tian Xia], devenant une religion même officielle dans la plupart des nations tiannes. Au fil des générations, la majorité des Tians installés dans la région de la Mer Intérieure ont fini par en adopter la plupart des divinités.
+Les religions tiannes sont aussi variées que leurs pratiquants ; ces derniers vénèrent un panthéon de divinité aussi fourni que celui de la Mer Intérieure. Depuis son introduction par des missionnaires vudranis l’Eglise d’[[Irori]] s’est répendue dans tout le [[Tian Xia]], devenant une religion même officielle dans la plupart des nations tiannes. Au fil des générations, la majorité des Tians installés dans la région de la Mer Intérieure ont fini par en adopter la plupart des divinités.
 
 Les Tians ont une affection toute particulière pour les vêtements amples et ceci quelque soit leur statut social. Les plus riches portent des espèces de robe très décorées tandis que les paysans et ouvriers se contentent d’un simple kilt ou d’un pantalon large. Cette garde-robe est généralement très colorée et seules les castes très modestes devront se contenter d’habits aux teintes ternes.
 
 ### Sept peuples ; Sept cultures
 
-**Les Dans :** Originaire du [Xa Hoi], la culture de ce peuple est récemment entrée dans un âge d’or – on a alors noté une recrudescence des plats épicés, habits colorés et magnifiques pagodes typiques chez ce peuple. Ils sont gouvernés par des dragons à apparence humaine ; les Rois Dragons.
+**Les Dans :** Originaire du [[Xa Hoi]], la culture de ce peuple est récemment entrée dans un âge d’or – on a alors noté une recrudescence des plats épicés, habits colorés et magnifiques pagodes typiques chez ce peuple. Ils sont gouvernés par des dragons à apparence humaine ; les Rois Dragons.
 
-**Les Las :** Ce peuple nomade navigue dans le nord-ouest du [Tian Xia], dans le [Hongal] et le [Shaguang]. Ce sont des cavaliers émérites et de talentueux éleveurs de chevaux. Ils sont considérés comme des sauvages par leurs voisins ; les Las au contraire voient la vie citadine comme une faiblesse.
+**Les Las :** Ce peuple nomade navigue dans le nord-ouest du [[Tian Xia]], dans le [[Hongal]] et le [[Shaguang]]. Ce sont des cavaliers émérites et de talentueux éleveurs de chevaux. Ils sont considérés comme des sauvages par leurs voisins ; les Las au contraire voient la vie citadine comme une faiblesse.
 
-**Les Mins :** Venu de l’archipel du [Minkai], ce peuple possède la plus grande variété de teinte d’yeux au monde. Bleu, vert, violet, orange, rouge, marron et noir... De plus les tatouages sont très courants chez les Mins. Leur société voit l’honneur et la loyauté comme des valeurs sacrées.
+**Les Mins :** Venu de l’archipel du [[Minkai]], ce peuple possède la plus grande variété de teinte d’yeux au monde. Bleu, vert, violet, orange, rouge, marron et noir... De plus les tatouages sont très courants chez les Mins. Leur société voit l’honneur et la loyauté comme des valeurs sacrées.
 
-**Les Shus :** Les Tians des [Etats Successeurs] sont l’ethnie la plus courante de [Tian Xia]. Bien qu’antérieur à la chute de la Pierre-Etoile, leur antique empire de [Lung Wa] est désormais fractionné en plusieurs petits royaumes. Cette ethnie a généralement une peau relativement sombre.
+**Les Shus :** Les Tians des [[Etats Successeurs]] sont l’ethnie la plus courante de [[Tian Xia]]. Bien qu’antérieur à la chute de la Pierre-Etoile, leur antique empire de [[Lung Wa]] est désormais fractionné en plusieurs petits royaumes. Cette ethnie a généralement une peau relativement sombre.
 
-**Les Sings :** C’est au sud-est de [Tian Xia], dans le grand archipel de [Minata], aussi appelé les Îles Errantes, que l’on retrouve ce peuple à la peau étonnamment foncée. Ils s’installent généralement sur des rives ou des lagons. Les tatouages aux formes géométriques font partie intégrante de leur culture.
+**Les Sings :** C’est au sud-est de [[Tian Xia]], dans le grand archipel de [[Minata]], aussi appelé les Îles Errantes, que l’on retrouve ce peuple à la peau étonnamment foncée. Ils s’installent généralement sur des rives ou des lagons. Les tatouages aux formes géométriques font partie intégrante de leur culture.
 
-**Les Hwans :** Longtemps opprimé par le [Lung Wa], le peuple de [Hwanggot] a émergé au cours de la chute de cet empire. Dans leur société le rôle des deux sexes est surprenant ; les femmes deviennent des soldats ou des universitaires tandis que les hommes travaillent en temps qu’ouvriers ou artisans.
+**Les Hwans :** Longtemps opprimé par le [[Lung Wa]], le peuple de [[Hwanggot]] a émergé au cours de la chute de cet empire. Dans leur société le rôle des deux sexes est surprenant ; les femmes deviennent des soldats ou des universitaires tandis que les hommes travaillent en temps qu’ouvriers ou artisans.
 
-**Les Dtangs :** Originaire du [Dtang Ma], ce peuple accepte les aléas de la vie avec sérénité, bonne humeur et abnégation. Très sociables, leurs maisons sont toujours ouvertes et leurs lèvres toujours prêtes à proférer quelques conseils utiles mais énigmatiques.
+**Les Dtangs :** Originaire du [[Dtang Ma]], ce peuple accepte les aléas de la vie avec sérénité, bonne humeur et abnégation. Très sociables, leurs maisons sont toujours ouvertes et leurs lèvres toujours prêtes à proférer quelques conseils utiles mais énigmatiques.
 
 ### Bilan
 
 **Langage :** Commun ; Tien{br}
-**Région :** [Absalom] ; [Katapesh] ; [Terres des Rois des Linnorms] ; [Nidal] ; [Royaume des Seigneurs des Mammouths] ; [Varisie]{br}
-**Religion :** [Abadar] ; [Calistria] ; [Desna] ; [Érastil] ; [Irori] ; [Shélyn] ; [Zon-Khuton] ; Culte des Ancêtres ; Panthéon Tian
+**Région :** [[Absalom]] ; [[Katapesh]] ; [[Terres des Rois des Linnorms]] ; [[Nidal]] ; [[Royaume des Seigneurs des Mammouths]] ; [[Varisie]]{br}
+**Religion :** [[Abadar]] ; [[Calistria]] ; [[Desna]] ; [[Érastil]] ; [[Irori]] ; [[Shélyn]] ; [[Zon-Khuton]] ; Culte des Ancêtres ; Panthéon Tian
 
 **Description physique :** Les Tians sont généralement plus petits et fins que les autres ethnies de Golarion. Même si la plupart des gens de ce peuple sont bruns foncés certains enfants naissent avec des cheveux blancs ou argentés ; une rareté vue comme le présage d’un grand avenir. Ces individus deviendront souvent des poètes, des leaders influents ou de riches magistrats.
 ##### Tian-Dan/Tian-Dtang

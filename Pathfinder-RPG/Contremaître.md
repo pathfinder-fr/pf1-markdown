@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Contremaître Formien
 ---
 
->>> [Contremaître Formien](./Contremaître formien.md)
+>>> [[Contremaître Formien]]

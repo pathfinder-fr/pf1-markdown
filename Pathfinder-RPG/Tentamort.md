@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 - *Source : Bestiaire 2, p.266*
 - **PX** 1 200
-- [Aberration](./type Aberration.md) de taille M, N
-- **Init** +5 ; **Sens** [perception aveugle](./perception aveugle.md) 9 m (6 {s:c}), [vision à 360°](./Vision à 360° (capacité).md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +11
+- [[type Aberration|Aberration]] de taille M, N
+- **Init** +5 ; **Sens** [[perception aveugle]] 9 m (6 {s:c}), [[vision à 360° (capacité)|vision à 360°]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +11
 (((Défense)))
 - **CA** 17, contact 11, pris au dépourvu 16 (Dex +1, naturelle +6)
 - **pv** 39 (6d8+12)
 - **Réf** +5, **Vig** +4, **Vol** +7
 (((Attaque)))
 - **VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c})
-- **Corps à corps** dard, +6 (1d6+2 plus poison) et tentacule, +2 (1d6+1 plus [étreinte](./Étreinte.md))
+- **Corps à corps** dard, +6 (1d6+2 plus poison) et tentacule, +2 (1d6+1 plus [[étreinte]])
 - **Espace** 1,50 m (1 {s:c}) ; Allonge 3 m (2 {s:c})
-- **Attaques spéciales** [constriction](./constriction.md) (1d6+1)
+- **Attaques spéciales** [[constriction]] (1d6+1)
 (((Statistiques)))
 - **For** 15, **Dex** 13, **Con** 14, **Int** 1, **Sag** 14, **Cha** 6
-- **BBA** +4 ; **BMO** +6 (+10 lutte) ; **DMD** 17 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (tentacule), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Escalade](./Escalade.md) +10, [Perception](./Perception.md) +11
+- **BBA** +4 ; **BMO** +6 (+10 lutte) ; **DMD** 17 ([[croc-en-jambe]] impossible)
+- **Dons** [[Arme de prédilection]] (tentacule), [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Escalade]] +10, [[Perception]] +11
 (((Écologie)))
 - **Environnement** marais ou sous terre
 - **Organisation sociale** solitaire, couple ou groupe (3–6)
 - **Trésor** fortuit
 (((Pouvoirs spéciaux)))
-- **Poison (Ext).** Dard — blessure; *JdS* Vigueur DD 15 ; *fréquence* 1/round pendant 2 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 Con et [nausées](./Nauséeux.md) ; *guérison* 1 réussite.
+- **Poison (Ext).** Dard — blessure; *JdS* Vigueur DD 15 ; *fréquence* 1/round pendant 2 rounds ; *effet* [[affaiblissement temporaire]] 1d4 Con et [[nauséeux|nausées]] ; *guérison* 1 réussite.
 
 </div>
 </td><td><div>*Cette créature bleu foncé a un corps conique recouvert de plusieurs yeux rouges et colériques et de nombreux tentacules, dont deux sont plus grands que les autres.*

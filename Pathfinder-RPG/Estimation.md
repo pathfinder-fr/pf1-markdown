@@ -8,7 +8,7 @@ Categories:
 
 {s:MenuCompétences}
 
-**Caractéristique associée** : [Intelligence](./Intelligence.md)
+**Caractéristique associée** : [[Intelligence]]
 
 **Formation nécessaire** : non
 
@@ -16,13 +16,13 @@ Categories:
 
 ### Test de compétence
 
-Le personnage est capable d’évaluer les objets courants grâce à un test d’Estimation de [DD](./DD.md) 20. Si le test réussit de 5 points ou plus, le personnage détermine également si l’objet possède des propriétés magiques, mais le test n’en révèle pas les capacités exactes. En cas d’échec de moins de 5 points, l’estimation du personnage se situe entre 80% et 120% du prix exact. Si le test échoue de 5 points ou plus, l’estimation est très inexacte (à l’appréciation du MJ). Dans le cas d’objets rares ou exotiques, le DD du test pourrait être augmenté de 5 ou plus.
+Le personnage est capable d’évaluer les objets courants grâce à un test d’Estimation de [[DD]] 20. Si le test réussit de 5 points ou plus, le personnage détermine également si l’objet possède des propriétés magiques, mais le test n’en révèle pas les capacités exactes. En cas d’échec de moins de 5 points, l’estimation du personnage se situe entre 80% et 120% du prix exact. Si le test échoue de 5 points ou plus, l’estimation est très inexacte (à l’appréciation du MJ). Dans le cas d’objets rares ou exotiques, le DD du test pourrait être augmenté de 5 ou plus.
 
 Le personnage peut également utiliser cette compétence pour repérer l’objet visible le plus précieux au sein d’un trésor. Le DD du test est généralement 20 mais il peut aller jusqu’à 30 dans le cas d’un trésor particulièrement vaste.
 
 ### Action
 
-Il faut 1 [action simple](./Action simple.md) pour estimer la valeur d’un objet. Repérer l’objet le plus précieux dans un trésor prend 1 [action complexe](./Action complexe.md).
+Il faut 1 [[action simple]] pour estimer la valeur d’un objet. Repérer l’objet le plus précieux dans un trésor prend 1 [[action complexe]].
 
 ### Nouvelles tentatives
 
@@ -30,4 +30,4 @@ De nouvelles tentatives d’estimation sur un même objet donnent toujours le m�
 
 ### Spécial
 
-Les lanceurs de sorts possédant un corbeau comme [familier](./familier.md) obtiennent un bonus de +3 aux tests d’Estimation.
+Les lanceurs de sorts possédant un corbeau comme [[familier]] obtiennent un bonus de +3 aux tests d’Estimation.

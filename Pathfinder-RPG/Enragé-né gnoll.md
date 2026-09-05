@@ -13,29 +13,29 @@ Categories:
 {s:pucem|Humanoïde|Plaines|Tropical}
 {s:BDTexte|*Source : Codex monstrueux p.70*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Gnoll](./Gnoll.md) [barbare](./Barbare.md) (enragé de la meute) 2 (voir p. 68)}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gnoll](./sous-type-gnoll.md)) de taille M, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[Gnoll]] [[barbare]] (enragé de la meute) 2 (voir p. 68)}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gnoll|gnoll]]) de taille M, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 9, pris au dépourvu 15 (armure +6, Dex +1, naturelle +1, rage -2)}
 {s:BDTexte|**pv** 49 (4 DV ; 2d8+2d12+22)}
 {s:BDTexte|**Réf** +1, **Vig** +11, **Vol** +3}
-{s:BDTexte|**Capacités défensives** [esquive instinctive](./Barbare.md#ESQUIVEINSTINCTIVE)}
+{s:BDTexte|**Capacités défensives** [[barbare#ESQUIVEINSTINCTIVE|esquive instinctive]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** grande hache de maître, +10 (1d12+9/×3) ou morsure, +9 (1d6+9)}
 {s:BDTexte|**Distance** javeline de maître, +5 (1d6+6)}
-{s:BDTexte|**Attaques spéciales** [rage](./Barbare.md#RAGEDEBERSERKER) (9 rounds/jour)}
+{s:BDTexte|**Attaques spéciales** [[barbare#RAGEDEBERSERKER|rage]] (9 rounds/jour)}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Statistiques de base.** Quand le barbare n’est pas enragé, voici ses statistiques : **CA **18, contact 11, pris au dépourvu 17 ; **pv **41 ; **Vig** +9, **Vol **+1 ; **Corps à corps** grande hache de maître, +8 (1d12+6/×3) et morsure, +7 (1d6+6) ; **For **19, **Con **16 ; **BMO **+7, **DMD **18 ; **Compétences **Escalade +6.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 13, **Con** 20, **Int** 8, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +3 ; **BMO** +9 ; **DMD** 18}
-{s:BDTexte|**Dons** [Mâchoires claquantes](./Mâchoires claquantes.md), [Repositionnement coordonné](./Repositionnement coordonné.md), [S’avancer](./Savancer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +3, [Escalade](./Escalade.md) +8, [Perception](./Perception.md) +6, [Survie](./Survie.md) +6}
+{s:BDTexte|**Dons** [[Mâchoires claquantes]], [[Repositionnement coordonné]], [[Savancer|S’avancer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +3, [[Escalade]] +8, [[Perception]] +6, [[Survie]] +6}
 {s:BDTexte|**Langues** gnoll}
-{s:BDTexte|**Particularités** [déplacement accéléré](./Barbare.md#DEPLACEMENTACCELERE)}
-{s:BDTexte|**Équipement de combat** *[potion](./Potions magiques.md) de [soins modéré](./Soins modérés.md)*, [feux grégeois](./Feu grégeois (objet).md) (3) ; **Équipement divers** [cuirasse de maître](./cuirasse (armure).md), [grande hache de maître](./Grande hache (arme).md), [javelines de maître](./javeline (arme).md) (2), 18 po}
+{s:BDTexte|**Particularités** [[barbare#DEPLACEMENTACCELERE|déplacement accéléré]]}
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potion]] de [[soins modérés|soins modéré]]*, [[Feu grégeois (objet)|feux grégeois]] (3) ; **Équipement divers** [[cuirasse (armure)|cuirasse de maître]], [[grande hache (arme)|grande hache de maître]], [[javeline (arme)|javelines de maître]] (2), 18 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -43,29 +43,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Gnoll](./Gnoll.md) || 1
+| [[Gnoll]] || 1
 |-
-| [Flind](./Flind.md) || 3
+| [[Flind]] || 3
 |-
-| [Cogneur gnoll](./Cogneur gnoll.md) || 3
+| [[Cogneur gnoll]] || 3
 |-
-| [Enragé-né gnoll](./Enragé-né gnoll.md) || 3
+| [[Enragé-né gnoll]] || 3
 |-
-| [Sergent gnoll](./Sergent gnoll.md) || 4
+| [[Sergent gnoll]] || 4
 |-
-| [OEil de Lamashtu](./OEil de Lamashtu.md) || 5
+| [[OEil de Lamashtu]] || 5
 |-
-| [Lieutenant gnoll](./Lieutenant gnoll.md) || 6
+| [[Lieutenant gnoll]] || 6
 |-
-| [Chef de meute gnoll](./Chef de meute gnoll.md) || 9
+| [[Chef de meute gnoll]] || 9
 |-
-| [Gardien gnoll](./Gardien gnoll.md) || 10
+| [[Gardien gnoll]] || 10
 |-
-| [Saccageur gnoll](./Saccageur gnoll.md) || 11
+| [[Saccageur gnoll]] || 11
 |-
-| [Élue de Lamashtu](./Élue de Lamashtu.md) || 12
+| [[Élue de Lamashtu]] || 12
 |-
-| [Buda gnoll](./Buda gnoll.md) || 13
+| [[Buda gnoll]] || 13
 |-
 |}
 </div>Les barbares gnolls se nourrissent mutuellement de leur rage et utilisent des tactiques de groupe pour déchiqueter leurs ennemis.

@@ -12,7 +12,7 @@ Categories:
 
 *Les sorts électriques du personnage fatiguent leurs cibles.*
 
-**Avantage.** Lorsque le personnage lance un sort du [registre](./Registre.md) électricité qui cible une ou plusieurs créatures, il peut choisir de subir une pénalité de -1 au [jet d’attaque](./jet dattaque.md) du sort et réduire le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) de 1 pour rendre la cible la plus proche du personnage ayant subit des dégâts d'électricité [fatiguée](./Fatigué.md). Ce don ne peut jamais rendre [épuisée](./Épuisé.md) une créature déjà [fatiguée](./Fatigué.md).
+**Avantage.** Lorsque le personnage lance un sort du [[registre]] électricité qui cible une ou plusieurs créatures, il peut choisir de subir une pénalité de -1 au [[jet dattaque|jet d’attaque]] du sort et réduire le [[DD]] du [[jet de sauvegarde]] de 1 pour rendre la cible la plus proche du personnage ayant subit des dégâts d'électricité [[fatigué|fatiguée]]. Ce don ne peut jamais rendre [[épuisé|épuisée]] une créature déjà [[fatigué|fatiguée]].
 
 Ce don n’a pas d’effet sur les sorts qui n’autorisent pas de jet de sauvegarde ou ne nécessitent pas de jet d’attaque.
 

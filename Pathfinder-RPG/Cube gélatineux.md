@@ -13,13 +13,13 @@ Categories:
 {s:pucem|Vase|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.53*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Vase](./type Vase.md) de taille G, N}
-{s:BDTexte|**Init** -5 ; **Sens** [vision aveugle](./vision aveugle.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] de taille G, N}
+{s:BDTexte|**Init** -5 ; **Sens** [[vision aveugle]] 18 m (12 {s:c}) ; [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 4, contact 4, pris au dépourvu 4 (Dex -5, taille -1)}
 {s:BDTexte|**pv** 50 (4d8+32)}
 {s:BDTexte|**Réf** -4, **Vig** +9, **Vol** -4}
-{s:BDTexte|**Immunités** électricité, [traits des vases](./type Vase.md#TRAITVASE) }
+{s:BDTexte|**Immunités** électricité, [[type vase#TRAITVASE|traits des vases]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 4,50 m (3 {s:c})}
 {s:BDTexte|**Corps à corps** coup +2 (1d6 et 1d6 acide)}
@@ -27,7 +27,7 @@ Categories:
 {s:BDTexte|**Attaques spéciales** enveloppement, paralysie}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 1, **Con** 26, **Int** -, **Sag** 1, **Cha** 1}
-{s:BDTexte|**BBA** +3, **BMO** +4, **DMD** 9 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
+{s:BDTexte|**BBA** +3, **BMO** +4, **DMD** 9 ([[croc-en-jambe]] impossible)}
 {s:BDTexte|**Particularités** transparence}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** sous terre}
@@ -35,9 +35,9 @@ Categories:
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Particularités}
 {s:BDTexte|**Acide (Ext)** L'acide des cubes gélatineux n'attaque pas le métal ni la pierre.}
-{s:BDTexte|**Enveloppement (Ext)** Même s'ils se déplacent lentement, les cubes gélatineux peuvent envelopper les créatures de taille inférieure ou égale à G qui se trouvent sur leur chemin par une [action simple](./Action simple.md). Un cube gélatineux ne peut pas porter d'attaque de coup au cours d'un round où il enveloppe un ennemi. Il lui suffit d'avancer sur ses ennemis pour en envelopper autant que possible (tous ceux qui peuvent rentrer dans son espace). Les cibles peuvent en profiter pour porter une [attaque d'opportunité](./attaque dopportunité.md) contre le cube mais, dans ce cas là, ils ne bénéficient pas de [jet de sauvegarde](./jet de sauvegarde.md).Ceux qui renoncent à cette [attaque d'opportunité](./attaque dopportunité.md) peuvent effectuer un jet de [Réflexes](./Réflexes.md) de [DD](./DD.md) 12 pour éviter d'être enveloppées. En cas de réussite, elles sont repoussées vers l'arrière ou vers le côté (selon leur choix) lorsque le cube s'avance. Les créatures enveloppées sont affectées par les effets de paralysie et d'acide du cube, acquièrent l'état préjudiciable [immobilisé](./Immobilisé.md) (en lutte), risquent de suffoquer et sont piégées au sein du cube gélatineux jusqu'à ce qu'elles se libèrent de cet état préjudiciable. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Force](./Force.md).}
-{s:BDTexte|**Paralysie (Ext)** Les cubes gélatineux sécrètent un mucus anesthésiant. Une cible touchée par une attaque de corps à corps ou enveloppée doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 20 pour ne pas être [paralysée](./Paralysé.md) pendant 3d6 rounds. Si un cube tente d'envelopper une ennemi paralysé, la manoeuvre réussit automatiquement. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Transparence (Ext)** Comme les cubes gélatineux ne sont pas colorés, ils sont difficiles à repérer. Il faut réussir un test de [Perception](./Perception.md) de [DD](./DD.md) 15 pour repérer un cube gélatineux immobile. Les créatures qui marchent dans un cube gélatineux qu'elles n'ont pas remarqué sont automatiquement enveloppées.}
+{s:BDTexte|**Enveloppement (Ext)** Même s'ils se déplacent lentement, les cubes gélatineux peuvent envelopper les créatures de taille inférieure ou égale à G qui se trouvent sur leur chemin par une [[action simple]]. Un cube gélatineux ne peut pas porter d'attaque de coup au cours d'un round où il enveloppe un ennemi. Il lui suffit d'avancer sur ses ennemis pour en envelopper autant que possible (tous ceux qui peuvent rentrer dans son espace). Les cibles peuvent en profiter pour porter une [[attaque dopportunité|attaque d'opportunité]] contre le cube mais, dans ce cas là, ils ne bénéficient pas de [[jet de sauvegarde]].Ceux qui renoncent à cette [[attaque dopportunité|attaque d'opportunité]] peuvent effectuer un jet de [[Réflexes]] de [[DD]] 12 pour éviter d'être enveloppées. En cas de réussite, elles sont repoussées vers l'arrière ou vers le côté (selon leur choix) lorsque le cube s'avance. Les créatures enveloppées sont affectées par les effets de paralysie et d'acide du cube, acquièrent l'état préjudiciable [[immobilisé]] (en lutte), risquent de suffoquer et sont piégées au sein du cube gélatineux jusqu'à ce qu'elles se libèrent de cet état préjudiciable. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Force]].}
+{s:BDTexte|**Paralysie (Ext)** Les cubes gélatineux sécrètent un mucus anesthésiant. Une cible touchée par une attaque de corps à corps ou enveloppée doit réussir un jet de [[Vigueur]] de [[DD]] 20 pour ne pas être [[paralysé|paralysée]] pendant 3d6 rounds. Si un cube tente d'envelopper une ennemi paralysé, la manoeuvre réussit automatiquement. Le [[DD]] dépend de la [[Constitution]].}
+{s:BDTexte|**Transparence (Ext)** Comme les cubes gélatineux ne sont pas colorés, ils sont difficiles à repérer. Il faut réussir un test de [[Perception]] de [[DD]] 15 pour repérer un cube gélatineux immobile. Les créatures qui marchent dans un cube gélatineux qu'elles n'ont pas remarqué sont automatiquement enveloppées.}
 </div>
 </td><td><div>*Un squelette partiellement digéré, des pièces de monnaie et des armes brisées flottant à l’intérieur de ce cube de vase gélatineuse.*
 

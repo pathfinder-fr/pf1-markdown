@@ -13,32 +13,32 @@ Categories:
 {s:pucem|Créature magique|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 page 9*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([Aquatique](./sous-type aquatique.md)) de taille G, NM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) (12 cases), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type Aquatique|Aquatique]]) de taille G, NM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] (12 cases), [[vision nocturne]] ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 12, pris au dépourvu 16 (Dex +3, naturelle +7, taille -1)}
 {s:BDTexte|**pv** 68 (8d10+24)}
 {s:BDTexte|**Réf** +9, **Vig** +9, **Vol** +4}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +12 (2d6+5) et griffe, +12 (1d8+5/19-20 plus [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure, +12 (2d6+5) et griffe, +12 (1d8+5/19-20 plus [[étreinte]])}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}), **Allonge** 1,5 m (3 m avec la queue)}
 {s:BDTexte|**Attaque spéciale** pattes arrière (2 griffes +12, 1d4+5)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 17, **Con** 17, **Int** 9, **Sag** 14, **Cha** 16}
-{s:BDTexte|**BBA** +8, **BMO** +14 (+18 [lutte](./lutte.md)), **DMD** 27 (31 contre le
+{s:BDTexte|**BBA** +8, **BMO** +14 (+18 [[lutte]]), **DMD** 27 (31 contre le
 croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Critique aveuglants](./Critique aveuglant.md), [Immobiliser](./Immobiliser.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (griffes), [Talent](./Talent.md) (Discrétion)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +9, [Discrétion](./Discrétion.md) +9, [Natation](./Natation.md) +20}
-{s:BDTexte|**Modificateur racial** +6 en [Bluff](./Bluff.md)}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Critique aveuglant|Critique aveuglants]], [[Immobiliser]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (griffes), [[Talent]] (Discrétion)}
+{s:BDTexte|**Compétences** [[Bluff]] +9, [[Discrétion]] +9, [[Natation]] +20}
+{s:BDTexte|**Modificateur racial** +6 en [[Bluff]]}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md), membres agrippants, imitation de voix}
+{s:BDTexte|**Particularités** [[amphibie]], membres agrippants, imitation de voix}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** lacs, marécages chauds ou rivières}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Imitation de voix (Sur).** L’ahuizotl peut imiter parfaitement le son d’un humanoïde qui sanglote et peut même tenter d’imiter des voix préalablement entendues. Lorsqu’il imite une voix, l’ahuizotl doit faire un test de [Bluff](./Bluff.md) opposé au test de [Psychologie](./Psychologie.md) de celui qui l’écoute. Si la créature qui l’écoute n’a jamais entendu la voix que l’ahuizotl tente d’imiter, elle reçoit un malus de -8 à son test de [Psychologie](./Psychologie.md).}
+{s:BDTexte|**Imitation de voix (Sur).** L’ahuizotl peut imiter parfaitement le son d’un humanoïde qui sanglote et peut même tenter d’imiter des voix préalablement entendues. Lorsqu’il imite une voix, l’ahuizotl doit faire un test de [[Bluff]] opposé au test de [[Psychologie]] de celui qui l’écoute. Si la créature qui l’écoute n’a jamais entendu la voix que l’ahuizotl tente d’imiter, elle reçoit un malus de -8 à son test de [[Psychologie]].}
 {s:BDTexte|**Membres agrippants (Ext).** L’ahuizotl ne devient pas agrippé lorsqu’il agrippe un ennemi.}
 
 </div>

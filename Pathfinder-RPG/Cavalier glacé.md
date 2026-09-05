@@ -12,33 +12,33 @@ Categories:
 {s:pucem|Fée|Forêt-Jungle|Froid}
 {s:BDTexte|*Source : Bestiaire 3 page 43*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Fée](./type Fée.md),([Froid](./sous-type froid.md)) de taille M, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18m ; [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +18}
+{s:BDTexte|[[type Fée|Fée]],([[sous-type Froid|Froid]]) de taille M, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18m ; [[vision nocturne]] ; [[Perception]] +18}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 13, pris au dépourvu 19 (armure +9, Dex +3)}
 {s:BDTexte|**pv** 97 (13d6+52) ; guérison accélérée 5}
 {s:BDTexte|**Réf** +11, **Vig** +8, **Vol** +10}
 {s:BDTexte|**Capacité défensive** équipement de glace ;**Immunité** froid ; **RM** 19}
-{s:BDTexte|**Faiblesse ** [vulnérabilité](./Vulnérabilités.md) au feu et au son ; sensibilité au fracassement}
+{s:BDTexte|**Faiblesse ** [[Vulnérabilités|vulnérabilité]] au feu et au son ; sensibilité au fracassement}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), marche sur la glace}
 {s:BDTexte|**Corps à corps** *coutille de froid intense +2*, +12/+7 (1d10+6 plus 1d6 froid) et bois, +4 (2d6+1 plus 1d6 froid)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 10 ; concentration +13)}
-{s:BDSorts|Constant — *[passage sans trace](./passage sans trace.md)*}
-{s:BDSorts|A volonté — *[brume de dissimulation](./Brume de dissimulation.md)*, *[coursier fantôme](./Coursier fantôme.md)*, *[métal gelé](./Métal gelé.md)* (DD 15), *[rayon de givre](./Rayon de givre.md)*, *[sommeil profond](./Sommeil profond.md)* (DD 16), *[son imaginaire](./Son imaginaire.md)* (DD 13)}
-{s:BDSorts|1/jour — *[tempête de grêle](./Tempête de grêle.md)*, *[Liberté de mouvement](./Liberté de mouvement.md)*}
+{s:BDSorts|Constant — *[[passage sans trace]]*}
+{s:BDSorts|A volonté — *[[brume de dissimulation]]*, *[[coursier fantôme]]*, *[[métal gelé]]* (DD 15), *[[rayon de givre]]*, *[[sommeil profond]]* (DD 16), *[[son imaginaire]]* (DD 13)}
+{s:BDSorts|1/jour — *[[tempête de grêle]]*, *[[Liberté de mouvement]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 16, **Con** 18, **Int** 14, **Sag** 15, **Cha** 17}
 {s:BDTexte|**BBA** +6, **BMO** +9, **DMD** 22}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (Coutille), [Attaque au galop](./Attaque au galop.md), [Charge dévastatrice](./Charge dévastatrice.md), [Combat monté](./Combat monté.md), [Piétinement](./Piétinement.md) , [Talent](./Talent.md)(Équitation), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +19), [Connaissances](./Connaissances.md) (nature) +18, [Dressage](./Dressage.md) +16, [Équitation](./Équitation.md) +22, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +18}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (Coutille), [[Attaque au galop]], [[Charge dévastatrice]], [[Combat monté]], [[Piétinement]] , [[Talent]](Équitation), [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +19), [[Connaissances]] (nature) +18, [[Dressage]] +16, [[Équitation]] +22, [[Intimidation]] +16, [[Perception]] +18, [[Psychologie]] +18}
 {s:BDTexte|**Langues** commun, elfique, sylvestre}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous les environnements froids}
 {s:BDTexte|**Organisation** solitaire, couple ou cavalerie (3-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Equipement de glace (Sur). ** Le cavalier glacé porte un [harnois](./harnois (armure).md) et manie une *[coutille](./Coutille (arme).md) de [froid intense](./froid intense (propriété).md) +2* constitués de glace magique aussi solide que l’acier. Son armure ne le restreint en aucune façon. Lorsqu’un cavalier glacé meurt, son armure et sa coutille fondent et se transforment en eau en 1d6 rounds.}
+{s:BDTexte|**Equipement de glace (Sur). ** Le cavalier glacé porte un [[harnois (armure)|harnois]] et manie une *[[coutille (arme)|coutille]] de [[froid intense (propriété)|froid intense]] +2* constitués de glace magique aussi solide que l’acier. Son armure ne le restreint en aucune façon. Lorsqu’un cavalier glacé meurt, son armure et sa coutille fondent et se transforment en eau en 1d6 rounds.}
 {s:BDTexte|**Marche sur la glace (Ext)** Le cavalier glacé et la créature qu’il chevauche, quelle qu’elle soit, peuvent se déplacer sur les surfaces gelées sans malus et sans avoir besoin de faire de test d’Acrobaties pour courir ou charger. Ils peuvent escalader les surfaces gelées comme s’ils étaient sous l’effet du sort pattes d’araignée.}
 {s:BDTexte|**Sensibilité au fracassement (Ext) ** Le sort de fracassement inflige 3d6 points de dégâts au cavalier glacé (pas de jet de sauvegarde) et réduit son bonus d’armure de 2 pendant 1 minute. Les sorts de fracassement passent automatiquement la résistance à la magie du cavalier glacé.}
 </div>

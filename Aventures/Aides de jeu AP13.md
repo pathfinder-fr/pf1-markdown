@@ -6,13 +6,13 @@ Categories:
 - Campagne
 ---
 
-Vous trouverez la présentation de cette campagne (AP13) sur [cette page](./Présentation AP13.md).
+Vous trouverez la présentation de cette campagne (AP13) sur [[Présentation AP13|cette page]].
 
 <nav class="wiki-toc"></nav>
 #### Réajustements des rencontres
 Un membre du forum de Paizo, **Sc8rpi8n_mjd** a réajusté certaines des rencontres de la campagne pour que celles-ci soient plus difficiles avec des personnages mythiques.
-- [^http://paizo.com/threads/rzs2qmo4?Wrath-of-the-Righteous-statblocks-document#1|Lien vers le fil de discussion du forum de Paizo.] 
-- [^https://drive.google.com/file/d/0B4XaF66siOnpeG1NR3RKamdxcDA/edit?pli=1|Lien vers l'aide de jeu.]
+- [Lien vers le fil de discussion du forum de Paizo.](http://paizo.com/threads/rzs2qmo4?Wrath-of-the-Righteous-statblocks-document#1) 
+- [Lien vers l'aide de jeu.](https://drive.google.com/file/d/0B4XaF66siOnpeG1NR3RKamdxcDA/edit?pli=1)
 
 Les aides suivantes ont été compilées par *Giher* afin d'aider le MJ lors des combats pour disposer de liens vers les créatures, pouvoirs et capacités spéciales des rencontres. Il compile aussi les différents lieux et tables de rencontres associées.
 
@@ -20,54 +20,54 @@ Les aides suivantes ont été compilées par *Giher* afin d'aider le MJ lors des
 ### Aides pour L'invasion de la Plaie du Monde / The Worldwound Incursion
 {s:Reference|CHUTEDEKENABRES}
 #### La chute de Kénabres (niveau 1)
-[Kénabres](./Kénabres.md)
-- A1 [Avénia Tirabade](./AP13-Avénia-Tirabade.md), [Aravashnial](./AP13-Aravashnial.md), [Horgus Gwerm](./AP13-Horgus-Gwerm.md)
-[Ecailles de Térendélev](./Ecailles de Térendélev.md)
-- A1 [Ver géant](./../Pathfinder-RPG/Ver géant.md)
-- A2 [2 Cafards géants](./../Pathfinder-RPG/Cafard géant.md)
+[[Kénabres]]
+- A1 [[AP13-Avénia Tirabade|Avénia Tirabade]], [[AP13-Aravashnial|Aravashnial]], [[AP13-Horgus Gwerm|Horgus Gwerm]]
+[[Ecailles de Térendélev]]
+- A1 [[Pathfinder-RPG.Ver géant|Ver géant]]
+- A2 [[Pathfinder-RPG.Cafard géant|2 Cafards géants]]
 3 bougies entamées (30 minutes chacune), un hameçon tordu, 3m de corde tres effilochée
 Broche en cuivre en forme de chauve souris perchée au dessus d'un champignon avec des amétystes pour les yeux (200 po)
-- A3 Sac a dos de maître, 10 jours de ration, silex, amorce, jeu de chausses-trappes, 2 flasques d'huile, 12 flèches, potion de [soins légers](./../Pathfinder-RPG/Soins légers.md), potion de [restauration partielle](./../Pathfinder-RPG/Restauration partielle.md)
-- A4 [Vipère des cavernes](./../Pathfinder-RPG/Serpent venimeux.md)
-- B1 [Mouche géante](./../Pathfinder-RPG/Mouche géante.md)
-- B2 2 doses d'[eau bénite](./../Pathfinder-RPG/Eau bénite (objet).md)
-- B3 [Wécufe](./../Pathfinder-RPG/Huécuva.md)
-2 potions de [soins légers](./../Pathfinder-RPG/Soins légers.md), anneau d'or torsadé (125 po), marteau de guerre
-- C1 [2 Mantes obscures](./../Pathfinder-RPG/Mante obscure.md)
-- C2 [Millorn](./Equipement de Millorn.md)
-- D [Crel](./../Pathfinder-RPG/Bâtard.md), [Dyra](./../Pathfinder-RPG/Bâtard.md) et [Lann](./../Pathfinder-RPG/Bâtard.md)
+- A3 Sac a dos de maître, 10 jours de ration, silex, amorce, jeu de chausses-trappes, 2 flasques d'huile, 12 flèches, potion de [[Pathfinder-RPG.soins légers|soins légers]], potion de [[Pathfinder-RPG.restauration partielle|restauration partielle]]
+- A4 [[Pathfinder-RPG.Serpent venimeux|Vipère des cavernes]]
+- B1 [[Pathfinder-RPG.Mouche géante|Mouche géante]]
+- B2 2 doses d'[[Pathfinder-RPG.Eau bénite (objet)|eau bénite]]
+- B3 [[Pathfinder-RPG.Huécuva|Wécufe]]
+2 potions de [[Pathfinder-RPG.soins légers|soins légers]], anneau d'or torsadé (125 po), marteau de guerre
+- C1 [[Pathfinder-RPG.Mante obscure|2 Mantes obscures]]
+- C2 [[Equipement de Millorn|Millorn]]
+- D [[Pathfinder-RPG.Bâtard|Crel]], [[Pathfinder-RPG.Bâtard|Dyra]] et [[Pathfinder-RPG.Bâtard|Lann]]
 - F deux cadavres de croisés
-potion de [soins légers](./../Pathfinder-RPG/Soins légers.md), parchemin de [frayeur](./../Pathfinder-RPG/Frayeur.md), 129 po, 2 coutilles, 2 gantelets à pointes, symbole de Baphomet (50 po)
-- G [Neathholm](./Neathholm.md) : [Sull](./Neathholm-Sull.md), [Opoli](./Neathholm-Opoli.md)
+potion de [[Pathfinder-RPG.soins légers|soins légers]], parchemin de [[Pathfinder-RPG.frayeur|frayeur]], 129 po, 2 coutilles, 2 gantelets à pointes, symbole de Baphomet (50 po)
+- G [[Neathholm]] : [[Neathholm-Sull|Sull]], [[Neathholm-Opoli|Opoli]]
 
 {s:Reference|TANIEREDESBATARDS}
 #### La tanière des abominables et malveillants Bâtards (niveau 2)
 <table>
 {s:ADJStart}
 <tr STYLE="vertical-align:top;"><td  COLSPAN=4>
-[Neathholm](./Neathholm.md) : [Sull](./Neathholm-Sull.md), [Opoli](./Neathholm-Opoli.md), [Avénia Tirabade](./AP13-Avénia-Tirabade.md), [Aravashnial](./AP13-Aravashnial.md), [Horgus Gwerm](./AP13-Horgus-Gwerm.md)
-- H1 [2 Traîtres Bâtards](./../Pathfinder-RPG/Bâtard.md)
-- H2 [2 Traîtres Bâtards](./../Pathfinder-RPG/Bâtard.md)
-- H3 [Lézard des cavernes](./../Pathfinder-RPG/Varan.md)
-- H4 [Wenduag](./Wenduag.md)
-- H5 [Amibe Géante](./../Pathfinder-RPG/Amibe géante.md)
-- H6 [2 Traîtres Bâtards](./../Pathfinder-RPG/Bâtard.md)
-- H7 [2 Traîtres Bâtards](./../Pathfinder-RPG/Bâtard.md)
+[[Neathholm]] : [[Neathholm-Sull|Sull]], [[Neathholm-Opoli|Opoli]], [[AP13-Avénia Tirabade|Avénia Tirabade]], [[AP13-Aravashnial|Aravashnial]], [[AP13-Horgus Gwerm|Horgus Gwerm]]
+- H1 [[Pathfinder-RPG.Bâtard|2 Traîtres Bâtards]]
+- H2 [[Pathfinder-RPG.Bâtard|2 Traîtres Bâtards]]
+- H3 [[Pathfinder-RPG.Varan|Lézard des cavernes]]
+- H4 [[Wenduag]]
+- H5 [[Pathfinder-RPG.Amibe Géante|Amibe Géante]]
+- H6 [[Pathfinder-RPG.Bâtard|2 Traîtres Bâtards]]
+- H7 [[Pathfinder-RPG.Bâtard|2 Traîtres Bâtards]]
 - H8 Un rat sauvage en cours de désossage
-- H9 [Hossila](./Hossila.md) et [Uziel](./../Pathfinder-RPG/Tieffelin.md)
+- H9 [[Hossila]] et [[Pathfinder-RPG.Tieffelin|Uziel]]
 [Lettre à Hossila](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=/ADJ/Aventures/AP13-Lettre à Hossila.pdf)
-[Radiance](./Radiance.md)
-- H10 [Leriel](./Leriel.md) et [Narah](./Narah.md)
-- H11 [2 Gars](./../Pathfinder-RPG/Gar.md)
-- H12 <div class="BD" STYLE="border: 1px solid;margin: 5px;">{s:BDTitre|Piège : Fosse hérissée de pieux|FP 2} **[Type](./../Pathfinder-RPG/Pièges.md#TYPES)** mécanique; **[Perception](./../Pathfinder-RPG/Perception.md)** [DD](./../Pathfinder-RPG/DD.md) 20 ;
-**[Sabotage](./../Pathfinder-RPG/Sabotage.md)** [DD](./../Pathfinder-RPG/DD.md) 20
-(((Effet)))  **[Déclencheur](./../Pathfinder-RPG/Pièges.md#DECLENCHEUR)** esapce; **[Remise en place](./../Pathfinder-RPG/Pièges.md#REMISEENPLACE)** manuelle
-**[Effets](./../Pathfinder-RPG/Pièges.md#EFFETS)** fosse des 3m de profondeur (1d6, chute) ; pieux (Att +10 corsp à corps, 1d4 pieux par cible; 1d4+2 de dégâts par chacun) ; Reflexes DD 20 pour éviter la chutte cibles multiples (espace de 3x3 m)
+[[Radiance]]
+- H10 [[Leriel]] et [[Narah]]
+- H11 [[Pathfinder-RPG.Gar|2 Gars]]
+- H12 <div class="BD" STYLE="border: 1px solid;margin: 5px;">{s:BDTitre|Piège : Fosse hérissée de pieux|FP 2} **[[Pathfinder-RPG.Pièges#TYPES|Type]]** mécanique; **[[Pathfinder-RPG.Perception|Perception]]** [[Pathfinder-RPG.DD|DD]] 20 ;
+**[[Pathfinder-RPG.Sabotage|Sabotage]]** [[Pathfinder-RPG.DD|DD]] 20
+(((Effet)))  **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** esapce; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** manuelle
+**[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** fosse des 3m de profondeur (1d6, chute) ; pieux (Att +10 corsp à corps, 1d4 pieux par cible; 1d4+2 de dégâts par chacun) ; Reflexes DD 20 pour éviter la chutte cibles multiples (espace de 3x3 m)
 </div>
-rondache en bois +1, [anneau d'escalade](./../Pathfinder-RPG/Anneau descalade.md), parchemin d'[identification](./../Pathfinder-RPG/Identification.md), parchemin de [morsure magique](./../Pathfinder-RPG/Morsure magique.md), deux potions de [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md), 250 po.
-- H13 [3 Rats des égouts](./Rat sanguinaire évolué.md)
-- H14 [2 Traîtres Bâtards](./../Pathfinder-RPG/Bâtard.md)
-- H15 [2 Dretchs](./../Pathfinder-RPG/Dretch.md)
+rondache en bois +1, [[Pathfinder-RPG.anneau descalade|anneau d'escalade]], parchemin d'[[Pathfinder-RPG.identification|identification]], parchemin de [[Pathfinder-RPG.morsure magique|morsure magique]], deux potions de [[Pathfinder-RPG.vision dans le noir|vision dans le noir]], 250 po.
+- H13 [[Rat sanguinaire évolué|3 Rats des égouts]]
+- H14 [[Pathfinder-RPG.Bâtard|2 Traîtres Bâtards]]
+- H15 [[Pathfinder-RPG.Dretch|2 Dretchs]]
 </td><td>{s:ADJ|LHOSSILA|Lettre à Hossila|/ADJ/Aventures/Icone aidejeu lettre.jpg|/ADJ/Aventures/AP13-Lettre à Hossila.pdf|Retranscription de la lettre à Hossila (fichier PDF)|Mériadec|none}
 </td></tr></table>
 
@@ -76,25 +76,25 @@ rondache en bois +1, [anneau d'escalade](./../Pathfinder-RPG/Anneau descalade.md
 <table>
 {s:ADJStart}
 <tr STYLE="vertical-align: top;"><td  COLSPAN=4>
-[Kénabres en ruines](./Kénabres en ruines.md) : [Avénia Tirabade](./AP13-Avénia-Tirabade.md), [Aravashnial](./AP13-Aravashnial.md), [Horgus Gwerm](./AP13-Horgus-Gwerm.md)
-- I [Chaleb Sazomal](./Ap13-Chaleb Sazomal.md), [2 Tieffelin](./../Pathfinder-RPG/Tieffelin.md), [Fenna](./Fenna.md), [4 Bibliothécaires](./../Pathfinder-RPG/PNJ Mage prudent.md)
-- K [Vagorg](./Ap13-Vagorg.md)
-[Corsèque de la gargouille](./Ap13-Corsèque de la gargouille.md)
-2 potions de [soins modérés](./../Pathfinder-RPG/Soins modérés.md), 3 potions d'[invisibilité](./../Pathfinder-RPG/Invisibilité.md)
-- L1 [6 Pillards](./../Pathfinder-RPG/PNJ Brigand.md)
-112 po, 418 pa, couverts en argent (125 po), gobelet en laiton (15 po), portrait sans cadre (55 po), flasque d'[acide](./../Pathfinder-RPG/Acide (objet).md), flasque de [feu grégeois](./../Pathfinder-RPG/Feu grégeois (objet).md), 2 fioles d'[antidote](./../Pathfinder-RPG/Antitoxine (objet).md), 3 fioles d'[eau bénite](./../Pathfinder-RPG/Eau bénite (objet).md), 3 carreaux de [feu](./../Pathfinder-RPG/feu (propriété).md) +1, un [élixir d'acuité visuelle](./../Pathfinder-RPG/Élixir dacuité visuelle.md), une potion de [peau d'écorce](./../Pathfinder-RPG/Peau décorce.md) +2
-- L2 [Mandragore](./../Pathfinder-RPG/Mandragore.md)
-5 symboles sacrés enduits de [Pâte de malyasse](./../Pathfinder-RPG/Poisons.md#TABLEAUPOISONS)
-<div class="BD" STYLE="border: 1px solid;margin: 5px;">{s:BDTitre|Piège : Bouteille de bile|FP 1} **[Type](./../Pathfinder-RPG/Pièges.md#TYPES)** magique ; **[Perception](./../Pathfinder-RPG/Perception.md)** [DD](./../Pathfinder-RPG/DD.md) 20 ;
-**[Sabotage](./../Pathfinder-RPG/Sabotage.md)** [DD](./../Pathfinder-RPG/DD.md) 10
-(((Effet)))  **[Déclencheur](./../Pathfinder-RPG/Pièges.md#DECLENCHEUR)** mot prononcé (Baphomet); **[Remise en place](./../Pathfinder-RPG/Pièges.md#REMISEENPLACE)** non
-**[Effets](./../Pathfinder-RPG/Pièges.md#EFFETS)** voir [Bouteille de bile](./Bouteille de bile.md)
+[[Kénabres en ruines]] : [[AP13-Avénia Tirabade|Avénia Tirabade]], [[AP13-Aravashnial|Aravashnial]], [[AP13-Horgus Gwerm|Horgus Gwerm]]
+- I [[AP13-Chaleb Sazomal|Chaleb Sazomal]], [[Pathfinder-RPG.Tieffelin|2 Tieffelin]], [[Fenna]], [[Pathfinder-RPG.PNJ Mage prudent|4 Bibliothécaires]]
+- K [[Ap13-Vagorg|Vagorg]]
+[[Ap13-Corsèque de la gargouille|Corsèque de la gargouille]]
+2 potions de [[Pathfinder-RPG.soins modérés|soins modérés]], 3 potions d'[[Pathfinder-RPG.invisibilité|invisibilité]]
+- L1 [[Pathfinder-RPG.PNJ Brigand|6 Pillards]]
+112 po, 418 pa, couverts en argent (125 po), gobelet en laiton (15 po), portrait sans cadre (55 po), flasque d'[[Pathfinder-RPG.Acide (objet)|acide]], flasque de [[Pathfinder-RPG.Feu grégeois (objet)|feu grégeois]], 2 fioles d'[[Pathfinder-RPG.Antitoxine (objet)|antidote]], 3 fioles d'[[Pathfinder-RPG.Eau bénite (objet)|eau bénite]], 3 carreaux de [[Pathfinder-RPG.feu (propriété)|feu]] +1, un [[Pathfinder-RPG.Élixir dacuité visuelle|élixir d'acuité visuelle]], une potion de [[Pathfinder-RPG.peau décorce|peau d'écorce]] +2
+- L2 [[Pathfinder-RPG.Mandragore|Mandragore]]
+5 symboles sacrés enduits de [[Pathfinder-RPG.Poisons#TABLEAUPOISONS|Pâte de malyasse]]
+<div class="BD" STYLE="border: 1px solid;margin: 5px;">{s:BDTitre|Piège : Bouteille de bile|FP 1} **[[Pathfinder-RPG.Pièges#TYPES|Type]]** magique ; **[[Pathfinder-RPG.Perception|Perception]]** [[Pathfinder-RPG.DD|DD]] 20 ;
+**[[Pathfinder-RPG.Sabotage|Sabotage]]** [[Pathfinder-RPG.DD|DD]] 10
+(((Effet)))  **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** mot prononcé (Baphomet); **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** non
+**[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** voir [[Bouteille de bile]]
 </div>
 Statue de Marilith (250 po)
-- N2 [2 fanatiques de Baphomet](./Fanatique de Baphomet.md)
-- N3 [Faxon](./Ap13-Faxon.md) et [Nox](./Nox.md)
-[Lettre à Faxon](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=/ADJ/Aventures/AP13-Lettre à Faxon.pdf)
-- O [Kimroth Otail](./Kénabres-Kimroth-Otail.md), [Irabeth Tirabade](./AP13-Irabeth-Tirabade.md)
+- N2 [[Fanatique de Baphomet|2 fanatiques de Baphomet]]
+- N3 [[Ap13-Faxon|Faxon]] et [[Nox]]
+[Lettre à Faxon](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=/ADJ/Aventures/AP13-Lettre%20%C3%A0%20Faxon.pdf)
+- O [[Kénabres-Kimroth Otail|Kimroth Otail]], [[AP13-Irabeth Tirabade|Irabeth Tirabade]]
 </td><td>{s:ADJ|LFAXON|Lettre à Faxon|/ADJ/Aventures/Icone aidejeu lettre.jpg|/ADJ/Aventures/AP13-Lettre à Faxon.pdf|Retranscription de la lettre à Faxon (fichier PDF)|Mériadec|none}
 </td></tr></table>
 
@@ -103,28 +103,28 @@ Statue de Marilith (250 po)
 <table>
 {s:ADJStart}
 <tr STYLE="vertical-align: top;"><td COLSPAN=4>
-[Cœur du défenseur](./Kénabres en ruines.md) : [Kimroth Otail](./Kénabres-Kimroth-Otail.md), [Quednys Orlun](./Kénabres-Quednys-Orlun.md) ([Sceptre d'annulation](./../Pathfinder-RPG/Sceptre dannulation.md)), [Irabeth Tirabade](./AP13-Irabeth-Tirabade.md), [Avénia Tirabade](./AP13-Avénia-Tirabade.md), [Aravashnial](./AP13-Aravashnial.md), [Fenna](./Fenna.md), [Émissaires de Neatholm](./Rôdeur Bâtard.md)
-- P1 [2 Vermleks](./../Pathfinder-RPG/Vermlek.md)
-- P3 [6 Gardes Tieffelins](./../Pathfinder-RPG/Tieffelin.md)
-- P5 [2 Abrikandilus](./../Pathfinder-RPG/Abrikandilu.md)
-morgenstern en [adamantium](./../Pathfinder-RPG/Matériaux spéciaux.md#ADAMANTIUM) +1
-- P6 [Tieffelin](./../Pathfinder-RPG/Tieffelin.md), [3 dretchs](./../Pathfinder-RPG/Dretch.md)
-- P7 [3 Fanatiques de Deskari](./Fanatique de Deskari.md)
-- P8 3 épées longues en [fer froid](./../Pathfinder-RPG/Matériaux spéciaux.md#FERFROID), 2 arbalètes lourdes, arc long composite (For +2), masse d'arme lourde en [fer froid](./../Pathfinder-RPG/Matériaux spéciaux.md#FERFROID) de [maître](./../Pathfinder-RPG/arme de maître.md), 2 piques en [fer froid](./../Pathfinder-RPG/Matériaux spéciaux.md#FERFROID), 50 carreaux d'arbalète en [fer froid](./../Pathfinder-RPG/Matériaux spéciaux.md#FERFROID), 100 flèches en [fer froid](./../Pathfinder-RPG/Matériaux spéciaux.md#FERFROID), épée longue +1, 5 flèches [saintes](./../Pathfinder-RPG/sainte (propriété).md) +1, flèche [tueuse](./../Pathfinder-RPG/tueuse (propriété).md) d'extérieurs mauvais, 2 cotes de mailles [maître](./../Pathfinder-RPG/Caractéristiques des armures.md#ARMURESMAITRE), cuirasse +1, écu en acier [maître](./../Pathfinder-RPG/Caractéristiques des armures.md#ARMURESMAITRE), bouclier [aveuglant](./../Pathfinder-RPG/aveuglante (propriété).md) +1  
-- P9 [Othirubo](./AP13-Othirubo.md)
+[[Kénabres en ruines|Cœur du défenseur]] : [[Kénabres-Kimroth Otail|Kimroth Otail]], [[Kénabres-Quednys Orlun|Quednys Orlun]] ([[Pathfinder-RPG.Sceptre dannulation|Sceptre d'annulation]]), [[AP13-Irabeth Tirabade|Irabeth Tirabade]], [[AP13-Avénia Tirabade|Avénia Tirabade]], [[AP13-Aravashnial|Aravashnial]], [[Fenna]], [[Rôdeur Bâtard|Émissaires de Neatholm]]
+- P1 [[Pathfinder-RPG.Vermlek|2 Vermleks]]
+- P3 [[Pathfinder-RPG.Tieffelin|6 Gardes Tieffelins]]
+- P5 [[Pathfinder-RPG.abrikandilu|2 Abrikandilus]]
+morgenstern en [[Pathfinder-RPG.Matériaux spéciaux#ADAMANTIUM|adamantium]] +1
+- P6 [[Pathfinder-RPG.Tieffelin|Tieffelin]], [[Pathfinder-RPG.Dretch|3 dretchs]]
+- P7 [[Fanatique de Deskari|3 Fanatiques de Deskari]]
+- P8 3 épées longues en [[Pathfinder-RPG.Matériaux spéciaux#FERFROID|fer froid]], 2 arbalètes lourdes, arc long composite (For +2), masse d'arme lourde en [[Pathfinder-RPG.Matériaux spéciaux#FERFROID|fer froid]] de [[Pathfinder-RPG.arme de maître|maître]], 2 piques en [[Pathfinder-RPG.Matériaux spéciaux#FERFROID|fer froid]], 50 carreaux d'arbalète en [[Pathfinder-RPG.Matériaux spéciaux#FERFROID|fer froid]], 100 flèches en [[Pathfinder-RPG.Matériaux spéciaux#FERFROID|fer froid]], épée longue +1, 5 flèches [[Pathfinder-RPG.sainte (propriété)|saintes]] +1, flèche [[Pathfinder-RPG.tueuse (propriété)|tueuse]] d'extérieurs mauvais, 2 cotes de mailles [[Pathfinder-RPG.Caractéristiques des armures#ARMURESMAITRE|maître]], cuirasse +1, écu en acier [[Pathfinder-RPG.Caractéristiques des armures#ARMURESMAITRE|maître]], bouclier [[Pathfinder-RPG.aveuglante (propriété)|aveuglant]] +1  
+- P9 [[AP13-Othirubo|Othirubo]]
 [Lettre à Stauton](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=/ADJ/Aventures/AP13-Lettre à Stauton.pdf)
-- P10 [6 gardes Tieffelins](./../Pathfinder-RPG/Tieffelin.md)
-- P11 [Péryton](./../Pathfinder-RPG/Péryton.md)
-- P12 [Ariès](./../Pathfinder-RPG/Ariès.md)
-6 livres (50 po chacun), [traité de guerre](./../Pathfinder-RPG/Traité de guerre.md)
-- P12 [3 Mouches géantes démoniaques](./../Pathfinder-RPG/Mouche géante démoniaque.md)
-- P14 [4 Fanatiques de Deskari](./Fanatique de Deskari.md)
-plans de guerre, parchemin de [restauration](./../Pathfinder-RPG/Restauration.md)
-- P15 [6 Zombis Humains](./../Pathfinder-RPG/Zombi humain.md)
-- P17 [Déradnu](./Déradnu.md)
-- P18 [Jeslyn](./AP13-Jeslyn.md), [6 Babaus](./../Pathfinder-RPG/Babau.md)
-[6 éclats de Pierre de Garde](./AP13-eclat pierre de garde.md)
-[Ascension](./../Pathfinder-RPG/Création Personnage Mythique.md#ASCENSIONMYTHIQUE)
+- P10 [[Pathfinder-RPG.Tieffelin|6 gardes Tieffelins]]
+- P11 [[Pathfinder-RPG.Péryton|Péryton]]
+- P12 [[Pathfinder-RPG.Ariès|Ariès]]
+6 livres (50 po chacun), [[Pathfinder-RPG.traité de guerre|traité de guerre]]
+- P12 [[Pathfinder-RPG.Mouche géante démoniaque|3 Mouches géantes démoniaques]]
+- P14 [[Fanatique de Deskari|4 Fanatiques de Deskari]]
+plans de guerre, parchemin de [[Pathfinder-RPG.restauration|restauration]]
+- P15 [[Pathfinder-RPG.Zombi humain|6 Zombis Humains]]
+- P17 [[Déradnu]]
+- P18 [[AP13-Jeslyn|Jeslyn]], [[Pathfinder-RPG.Babau|6 Babaus]]
+[[AP13-eclat Pierre de Garde|6 éclats de Pierre de Garde]]
+[[Pathfinder-RPG.Création Personnage Mythique#ASCENSIONMYTHIQUE|Ascension]]
 </td><td>
 {s:ADJ|LSTAUTON|Lettre à Stauton|/ADJ/Aventures/Icone aidejeu lettre.jpg|/ADJ/Aventures/AP13-Lettre à Stauton.pdf|Retranscription de la lettre à Stauton (fichier PDF)|Mériadec|none}
 </td></tr></table>
@@ -133,67 +133,67 @@ plans de guerre, parchemin de [restauration](./../Pathfinder-RPG/Restauration.md
 ### Aides pour L'épée du courage / Sword of valor
 {s:Reference|MARCHEDESCROISES}
 #### La marche des Croisés (niveau 6.1)
-[Cœur du défenseur](./Kénabres en ruines.md) :[Quednys Orlun](./Kénabres-Quednys-Orlun.md), [Irabeth Tirabade](./AP13-Irabeth-Tirabade.md), [Galfrey](./AP13-Galfrey.md)
+[[Kénabres en ruines|Cœur du défenseur]] :[[Kénabres-Quednys Orlun|Quednys Orlun]], [[AP13-Irabeth Tirabade|Irabeth Tirabade]], [[AP13-Galfrey|Galfrey]]
 
-[Marche vers Drézen](./Les Terres Blessées.md) : Armée de [Chevaliers de Kénabres](./AP13-Chevalier de Kénabres.md) M, [Irabeth Tirabade](./AP13-Irabeth-Tirabade.md), [Avénia Tirabade](./AP13-Avénia-Tirabade.md), [Aravashnial](./AP13-Aravashnial.md), [Horgus Gwerm](./AP13-Horgus-Gwerm.md), [Aron Kir](./AP13-Aron Kir.md), [Nurah Dendiwhar](./AP13-Nurah Dendiwhar.md), [Sosiel Vaenic](./AP13-Sosiel-Vaenic.md)
+[[Les Terres Blessées|Marche vers Drézen]] : Armée de [[AP13-Chevalier de Kénabres|Chevaliers de Kénabres]] M, [[AP13-Irabeth Tirabade|Irabeth Tirabade]], [[AP13-Avénia Tirabade|Avénia Tirabade]], [[AP13-Aravashnial|Aravashnial]], [[AP13-Horgus Gwerm|Horgus Gwerm]], [[AP13-Aron Kir|Aron Kir]], [[AP13-Nurah Dendiwhar|Nurah Dendiwhar]], [[AP13-Sosiel Vaenic|Sosiel Vaenic]]
 - A un jour (5 vivres)
 2d4 vivres
-- B un jour et demi (8 vivres) Armée de [Tieffelins](./../Pathfinder-RPG/Tieffelin.md) G (Moral +2; [Umestil](./../Pathfinder-RPG/Brimorak.md) Cha +2; aucun bienfait)
-[Kamilo Dann](./AP13-Kamilo Dann.md), [12 Soldats](./../Pathfinder-RPG/PNJ armées.md#SOLDATDINFANTERIE)
+- B un jour et demi (8 vivres) Armée de [[Pathfinder-RPG.Tieffelin|Tieffelins]] G (Moral +2; [[Pathfinder-RPG.Brimorak|Umestil]] Cha +2; aucun bienfait)
+[[AP13-Kamilo Dann|Kamilo Dann]], [[Pathfinder-RPG.PNJ Armées#SOLDATDINFANTERIE|12 Soldats]]
 1d6 vivres, 3 Marchandises
-- C un jour un quart (5 vivres) Armée de [Tieffelins](./../Pathfinder-RPG/Tieffelin.md) G (Moral +0; [Berrexi](./AP13-Berrexi.md) Cha +0; aucun bienfait) , Armée de [Dretchs](./../Pathfinder-RPG/Dretch.md) M (Moral +5;  [Exorius](./../Pathfinder-RPG/Incube.md) Char +5; impitoyable)
+- C un jour un quart (5 vivres) Armée de [[Pathfinder-RPG.Tieffelin|Tieffelins]] G (Moral +0; [[AP13-Berrexi|Berrexi]] Cha +0; aucun bienfait) , Armée de [[Pathfinder-RPG.Dretch|Dretchs]] M (Moral +5;  [[Pathfinder-RPG.Incube|Exorius]] Char +5; impitoyable)
 1d6 vivres, 2 Marchandises
-- Dans la Plaie du Monde : [Arles Jhestandre](./AP13-Arles Jhestandre.md)
-[Sang d'ombre](./Sang dombre.md)
+- Dans la Plaie du Monde : [[AP13-Arles Jhestandre|Arles Jhestandre]]
+[[Sang dombre|Sang d'ombre]]
 - D une journée (5 vivres)
-- D1 [3 Gargouilles](./../Pathfinder-RPG/Gargouille.md)
-- D2 hache d'arme de [maître](./../Pathfinder-RPG/arme de maître.md), épée longue +1, 3 dagues en [fer froid](./../Pathfinder-RPG/Matériaux spéciaux.md#FERFROID), pique en [fer froid](./../Pathfinder-RPG/Matériaux spéciaux.md#FERFROID) +1
-- D3 [6 Goules](./../Pathfinder-RPG/Goule.md), [Ilzek](./AP13-Pretre de Kabriri Goule.md), [Jadiss](./AP13-Pretre de Kabriri Goule.md)
-96 potions de [soins légers](./../Pathfinder-RPG/Soins légers.md) (3 ressources d'armée)
-- D6 [Nulkineth](./AP13-Nulkineth.md), [4 Goules](./../Pathfinder-RPG/Goule.md), [Maugla](./../Pathfinder-RPG/Nabasu.md)
+- D1 [[Pathfinder-RPG.Gargouille|3 Gargouilles]]
+- D2 hache d'arme de [[Pathfinder-RPG.arme de maître|maître]], épée longue +1, 3 dagues en [[Pathfinder-RPG.Matériaux spéciaux#FERFROID|fer froid]], pique en [[Pathfinder-RPG.Matériaux spéciaux#FERFROID|fer froid]] +1
+- D3 [[Pathfinder-RPG.Goule|6 Goules]], [[AP13-Pretre de Kabriri Goule|Ilzek]], [[AP13-Pretre de Kabriri Goule|Jadiss]]
+96 potions de [[Pathfinder-RPG.soins légers|soins légers]] (3 ressources d'armée)
+- D6 [[AP13-Nulkineth|Nulkineth]], [[Pathfinder-RPG.Goule|4 Goules]], [[Pathfinder-RPG.Nabasu|Maugla]]
 - E un tiers de journée (2 vivres)
-- E2 [2 Nuées de vescavores](./../Pathfinder-RPG/Nuée de vescavores.md)
-- E3 [Reine vescavore](./../Pathfinder-RPG/Reine vescavore.md)
-- E4 [faille abyssale](./../Pathfinder-RPG/Dangers.md#FAILLEABYSSALE), [Vrock](./../Pathfinder-RPG/Vrock.md)
+- E2 [[Pathfinder-RPG.Nuée de vescavores|2 Nuées de vescavores]]
+- E3 [[Pathfinder-RPG.Reine vescavore|Reine vescavore]]
+- E4 [[Pathfinder-RPG.Dangers#FAILLEABYSSALE|faille abyssale]], [[Pathfinder-RPG.Vrock|Vrock]]
 
 {s:Reference|SIEGEDEDREZEN}
 #### Le siège de Drézen (niveau 7.1)
-[Siège de Drézen](./Drézen.md) : Armée de [Chevaliers de Kénabres](./AP13-Chevalier de Kénabres.md) M, [Irabeth Tirabade](./AP13-Irabeth-Tirabade.md), [Avénia Tirabade](./AP13-Avénia-Tirabade.md), [Aravashnial](./AP13-Aravashnial.md), [Horgus Gwerm](./AP13-Horgus-Gwerm.md), [Aron Kir](./AP13-Aron Kir.md), ~~[Nurah Dendiwhar](./AP13-Nurah Dendiwhar.md)~~, [Sosiel Vaenic](./AP13-Sosiel-Vaenic.md)
-- B1 Armée de [Tieffelins](./../Pathfinder-RPG/Tieffelin.md) G (Moral +1; [Alarendi](./Rôdeur Tieffelin 5.md) Cha +1; aucun bienfait), Armée de [fanatiques](./../Pathfinder-RPG/PNJ Brigand.md) G (Moral +2; [Vérilenn](./../Pathfinder-RPG/PNJ Boucanier vétéran.md) Cha +2; aucun bienfait)
+[[Drézen|Siège de Drézen]] : Armée de [[AP13-Chevalier de Kénabres|Chevaliers de Kénabres]] M, [[AP13-Irabeth Tirabade|Irabeth Tirabade]], [[AP13-Avénia Tirabade|Avénia Tirabade]], [[AP13-Aravashnial|Aravashnial]], [[AP13-Horgus Gwerm|Horgus Gwerm]], [[AP13-Aron Kir|Aron Kir]], ~~[[AP13-Nurah Dendiwhar|Nurah Dendiwhar]]~~, [[AP13-Sosiel Vaenic|Sosiel Vaenic]]
+- B1 Armée de [[Pathfinder-RPG.Tieffelin|Tieffelins]] G (Moral +1; [[Rôdeur Tieffelin 5|Alarendi]] Cha +1; aucun bienfait), Armée de [[Pathfinder-RPG.PNJ Brigand|fanatiques]] G (Moral +2; [[Pathfinder-RPG.PNJ Boucanier vétéran|Vérilenn]] Cha +2; aucun bienfait)
 Armures magiques (armée)
-- B2 Armée d'[Ariès](./../Pathfinder-RPG/Ariès.md) M (Moral +3; [Pozlixt](./../Pathfinder-RPG/Vrock.md) Cha +3; aucun bienfait), Armée de [mercenaires libérés](./Mercenaire Croisé 2.md) G
+- B2 Armée d'[[Pathfinder-RPG.Ariès|Ariès]] M (Moral +3; [[Pathfinder-RPG.Vrock|Pozlixt]] Cha +3; aucun bienfait), Armée de [[Mercenaire Croisé 2|mercenaires libérés]] G
 6 Vivres
-- B3 Armée de [Goules](./../Pathfinder-RPG/Goule.md) M (Moral +4; [Turgath](./../Pathfinder-RPG/Blême.md) Cha +4; aucun bienfait)
-- E1 [Moxsahbull](./AP13-Moxsahbull.md)
-- E2 [Barrid Isen](./AP13-Barrid Isen.md), [8 Tieffelins](./../Pathfinder-RPG/Tieffelin.md), [4 Aurochs Mangeurs d'hommes](./../Pathfinder-RPG/Auroch mangeur dhommes.md) (enchaînés) 
-- E4 [4 Brimoraks](./../Pathfinder-RPG/Brimorak.md)
-- R [Soltengrebbe](./AP13-Soltengrebbe.md)
-[Epreuve](./../Pathfinder-RPG/Création Personnage Mythique.md#ObtentionGrades)
-- BF Armée de [fanatiques](./../Pathfinder-RPG/PNJ Brigand.md) G (Moral +2; [Nnelirév](./../Pathfinder-RPG/PNJ Boucanier vétéran.md) Cha +2; aucun bienfait), Armée de [Tieffelins](./../Pathfinder-RPG/Tieffelin.md) G (Moral +1; [Idnerala](./Rôdeur Tieffelin 5.md) Cha +1; aucun bienfait); Armée de [Dretchs](./../Pathfinder-RPG/Dretch.md) M (Moral +5;  [Suiroxe](./../Pathfinder-RPG/Incube.md) Char +5; impitoyable)
+- B3 Armée de [[Pathfinder-RPG.Goule|Goules]] M (Moral +4; [[Pathfinder-RPG.Blême|Turgath]] Cha +4; aucun bienfait)
+- E1 [[AP13-Moxsahbull|Moxsahbull]]
+- E2 [[AP13-Barrid Isen|Barrid Isen]], [[Pathfinder-RPG.Tieffelin|8 Tieffelins]], [[Pathfinder-RPG.Auroch mangeur dhommes|4 Aurochs Mangeurs d'hommes]] (enchaînés) 
+- E4 [[Pathfinder-RPG.Brimorak|4 Brimoraks]]
+- R [[AP13-Soltengrebbe|Soltengrebbe]]
+[[Pathfinder-RPG.Création Personnage Mythique#ObtentionGrades|Epreuve]]
+- BF Armée de [[Pathfinder-RPG.PNJ Brigand|fanatiques]] G (Moral +2; [[Pathfinder-RPG.PNJ Boucanier Vétéran|Nnelirév]] Cha +2; aucun bienfait), Armée de [[Pathfinder-RPG.Tieffelin|Tieffelins]] G (Moral +1; [[Rôdeur Tieffelin 5|Idnerala]] Cha +1; aucun bienfait); Armée de [[Pathfinder-RPG.Dretch|Dretchs]] M (Moral +5;  [[Pathfinder-RPG.Incube|Suiroxe]] Char +5; impitoyable)
 
 {s:Reference|EXCURSIONCITADELLE}
 #### Excursion dans la Citadelle (niveau 8.2)
-[Siège de Drézen](./Drézen.md) : Armée de [Chevaliers de Kénabres](./AP13-Chevalier de Kénabres.md) M
-[Irabeth Tirabade](./AP13-Irabeth-Tirabade.md), ~~[Nurah Dendiwhar](./AP13-Nurah Dendiwhar.md)~~, [Sosiel Vaenic](./AP13-Sosiel-Vaenic.md) : volontaires pour l'exploration
-[Avénia Tirabade](./AP13-Avénia-Tirabade.md) : -1 initiative, 25% de chances d'être blessée
-[Horgus Gwerm](./AP13-Horgus-Gwerm.md) : 1d3 Vivres et 1d4 Marchandises (max 25) par jour
-[Aron Kir](./AP13-Aron Kir.md) : -1 initiative, 25% de chances d'être blessé
-[Aravashnial](./AP13-Aravashnial.md) : 1d4 potions (max 10) et 1 parchemin (max 5) par nuit
+[[Drézen|Siège de Drézen]] : Armée de [[AP13-Chevalier de Kénabres|Chevaliers de Kénabres]] M
+[[AP13-Irabeth Tirabade|Irabeth Tirabade]], ~~[[AP13-Nurah Dendiwhar|Nurah Dendiwhar]]~~, [[AP13-Sosiel Vaenic|Sosiel Vaenic]] : volontaires pour l'exploration
+[[AP13-Avénia Tirabade|Avénia Tirabade]] : -1 initiative, 25% de chances d'être blessée
+[[AP13-Horgus Gwerm|Horgus Gwerm]] : 1d3 Vivres et 1d4 Marchandises (max 25) par jour
+[[AP13-Aron Kir|Aron Kir]] : -1 initiative, 25% de chances d'être blessé
+[[AP13-Aravashnial|Aravashnial]] : 1d4 potions (max 10) et 1 parchemin (max 5) par nuit
 
 {| CLASS="tablo centre toutgauche"
 |+ Tirage aléatoire
 |- CLASS="titre"
 | potions || parchemins
 |- CLASS="premier"
-| potion de [ruse du renard](./../Pathfinder-RPG/Ruse du renard.md) (NLS 3) || parchemin d'[agrandissement de groupe](./../Pathfinder-RPG/Agrandissement de groupe.md) (NLS 7)
+| potion de [[Pathfinder-RPG.ruse du renard|ruse du renard]] (NLS 3) || parchemin d'[[Pathfinder-RPG.agrandissement de groupe|agrandissement de groupe]] (NLS 7)
 |-
-| potion de [sagesse du hibou](./../Pathfinder-RPG/Sagesse du hibou.md) (NLS 3) || parchemin de [symbole de douleur](./../Pathfinder-RPG/Symbole de douleur.md) (NLS 9)
+| potion de [[Pathfinder-RPG.sagesse du hibou|sagesse du hibou]] (NLS 3) || parchemin de [[Pathfinder-RPG.symbole de douleur|symbole de douleur]] (NLS 9)
 |-
-| potion de [lévitation](./../Pathfinder-RPG/Lévitation.md) (NLS 3) || parchemin d'[allié d'outreplan](./../Pathfinder-RPG/Allié doutreplan.md) (NLS 9)
+| potion de [[Pathfinder-RPG.lévitation|lévitation]] (NLS 3) || parchemin d'[[Pathfinder-RPG.allié doutreplan|allié d'outreplan]] (NLS 9)
 |-
-| potion de [résistance aux énergies destructives (électricité)](./../Pathfinder-RPG/Résistance aux énergies destructives.md) (NLS 3) || parchemin de [brume mentale](./../Pathfinder-RPG/Brume mentale.md) (NLS 9)
+| potion de [[Pathfinder-RPG.résistance aux énergies destructives|résistance aux énergies destructives (électricité)]] (NLS 3) || parchemin de [[Pathfinder-RPG.brume mentale|brume mentale]] (NLS 9)
 |-
-| potion de [soins importants](./../Pathfinder-RPG/Soins importants.md) (NLS 5) || parchemin de [magie des ombres](./../Pathfinder-RPG/Magie des ombres.md) (NLS 9)
+| potion de [[Pathfinder-RPG.soins importants|soins importants]] (NLS 5) || parchemin de [[Pathfinder-RPG.magie des ombres|magie des ombres]] (NLS 9)
 |-
 | potion de [[++Pathfinder-RPG.don des langues | don des langues]] (NLS 5) |
 |-
@@ -205,66 +205,66 @@ Armures magiques (armée)
 |-
 | potion de [[++Pathfinder-RPG.neutralisation du poison | neutralisation du poison]] (NLS 5) |
 |}
-- F1 [2 Brimoraks](./../Pathfinder-RPG/Brimorak.md)
-- F2 [4 Gargouilles](./../Pathfinder-RPG/Gargouille.md)
-- F3 [4 Archers fanatiques](./../Pathfinder-RPG/PNJ Garde frontalier.md), ~~[Barrid Isen](./AP13-Barrid Isen.md)~~
-- F4 [Konneshka](./../Pathfinder-RPG/Vrock.md)
-- F5 [Janéamine](./../Pathfinder-RPG/Succube.md) et [4 croisés apprivoisés](./../Pathfinder-RPG/PNJ milices.md#GARDE)
-- F7 [2 Mimiques fiélons évolués](./Mimique fiélon évolué.md), ~~[Nurah Dendiwhar](./AP13-Nurah Dendiwhar.md)~~
-3 harnois de [maître](./../Pathfinder-RPG/arme de maître.md), [Armure du dévot](./AP13-Armure-du-dévot.md)
-- F8 hache d'arme en [adamentium](./../Pathfinder-RPG/Matériaux spéciaux.md#ADAMANTIUM), 50 flèches +1, 1 [flèche mortelle](./../Pathfinder-RPG/Flèche mortelle.md) (humain), cuirasse +2, épée longue [acérée](./../Pathfinder-RPG/acérée (propriété).md) +2, arc long composite de [maître](./../Pathfinder-RPG/arme de maître.md) (For +2), fléau d'arme de [maître](./../Pathfinder-RPG/arme de maître.md), écu en [mithral](./../Pathfinder-RPG/Matériaux spéciaux.md#MITHRAL), [cotte de mailles elfique](./../Pathfinder-RPG/Cotte de mailles elfique.md) +2.
-- F9 [Jestak](./AP13-Jestak.md)
-- F11 [Daitan](./../Pathfinder-RPG/Nabasu.md) avec 2 points de croissance, [2 Goules](./../Pathfinder-RPG/Goule.md)
-- F12 [3 Gardiens tombaux](./../Pathfinder-RPG/Gardien tombal.md)
-- F14 [4 Brimoraks](./../Pathfinder-RPG/Brimorak.md)
-- F15 [Kiranda](./AP13-Kiranda.md), ~~[Nurah Dendiwhar](./AP13-Nurah Dendiwhar.md)~~
-- F16 [3 Thoxels](./../Pathfinder-RPG/Thoxel.md)
-- F17 [2 Minotaures demi-fiélons](./../Pathfinder-RPG/Minotaure demi-fiélon.md)
-- F18 [Joran Vhane](./AP13-Joran Vhane.md), [3 Babaus](./../Pathfinder-RPG/Babau.md)
-- F20 [Staunton Vhane](./AP13-Staunton Vhane.md),​ [2 Minotaures demi-fiélons](./../Pathfinder-RPG/Minotaure demi-fiélon.md), ~~[Nurah Dendiwhar](./AP13-Nurah Dendiwhar.md)~~, ~~[Vrexed](./Guêpe géante fiélone.md)~~
-[Cisaille des âmes](./AP13-Cisaille des âmes.md)
-[Epreuve](./../Pathfinder-RPG/Création Personnage Mythique.md#ObtentionGrades)
-- F21 633 pc, 427 pa, 5786 po, 376 pp, 9 grenats (100 po chacun), [Perle de thaumaturge](./../Pathfinder-RPG/Perle de thaumaturge.md) (niveau 2), [Sceptre de détection des métaux et des minéraux](./../Pathfinder-RPG/Sceptre de détection des métaux et des minéraux.md) , parchemin de [divination](./../Pathfinder-RPG/Divination.md) , ensemble de figurines naines sculptées (600 po), 2 vases précieux (250 po chacun), coffret en argent (350 po),[Élixir d'acrobatie](./../Pathfinder-RPG/Élixir dacrobatie.md) , potion de [Neutralisation du poison](./../Pathfinder-RPG/Neutralisation du poison.md) (NLS 5), baguette d'[Antidétection](./../Pathfinder-RPG/Antidétection.md) (23 charges, NLS 5), huile de [Résurrection suprême](./../Pathfinder-RPG/Résurrection suprême.md), journal de Staunton.
-- F23 3438 pc, 1319 pa, 7753 po, 2 perles (500 po chacune), 3 grenats (250 po chacun), 8 améthystes (100 po chacune), 12 agates (50 po chacune) sceptre en ivoire incrusté d'émeraudes (4000 po), candélabre en argent (75 po), chevalière en or (50 po), [Sac sans fond](./../Pathfinder-RPG/Sac sans fond.md) (modèle 3), collection de livre rares (+4 connaissances des plans, 2000 po), [Livre magique](./../Pathfinder-RPG/Livre magique.md) (1000 pages, vide), [Carquois efficace](./../Pathfinder-RPG/Carquois efficace.md), 2 [javelines de foudre](./../Pathfinder-RPG/Javeline de foudre.md), 19 flèches [tueuses](./../Pathfinder-RPG/Descriptions individuelles des propriétés spéciales des armes.md#Tueuse) (créatures magiques) +2, [Gemme à élémentaire](./../Pathfinder-RPG/Gemme à élémentaire.md) (terre), une dose de [Lustrargent](./../Pathfinder-RPG/Lustrargent.md), potion de [Restauration partielle](./../Pathfinder-RPG/Restauration partielle.md) (NLS 3), parchemin de [Porte dimensionnelle](./../Pathfinder-RPG/Porte dimensionnelle.md), parchemin de [glissement de terrain](./../Pathfinder-RPG/Glissement de terrain.md), arbalette lourde de [feu](./../Pathfinder-RPG/feu (propriété).md) +1, harnois [spectral](./../Pathfinder-RPG/spectrale (propriété).md) +1
+- F1 [[Pathfinder-RPG.Brimorak|2 Brimoraks]]
+- F2 [[Pathfinder-RPG.Gargouille|4 Gargouilles]]
+- F3 [[Pathfinder-RPG.PNJ Garde frontalier|4 Archers fanatiques]], ~~[[AP13-Barrid Isen|Barrid Isen]]~~
+- F4 [[Pathfinder-RPG.Vrock|Konneshka]]
+- F5 [[Pathfinder-RPG.Succube|Janéamine]] et [[Pathfinder-RPG.PNJ Milices#GARDE|4 croisés apprivoisés]]
+- F7 [[Mimique fiélon évolué|2 Mimiques fiélons évolués]], ~~[[AP13-Nurah Dendiwhar|Nurah Dendiwhar]]~~
+3 harnois de [[Pathfinder-RPG.arme de maître|maître]], [[AP13-Armure du dévot|Armure du dévot]]
+- F8 hache d'arme en [[Pathfinder-RPG.Matériaux spéciaux#ADAMANTIUM|adamentium]], 50 flèches +1, 1 [[Pathfinder-RPG.Flèche mortelle|flèche mortelle]] (humain), cuirasse +2, épée longue [[Pathfinder-RPG.acérée (propriété)|acérée]] +2, arc long composite de [[Pathfinder-RPG.arme de maître|maître]] (For +2), fléau d'arme de [[Pathfinder-RPG.arme de maître|maître]], écu en [[Pathfinder-RPG.Matériaux spéciaux#MITHRAL|mithral]], [[Pathfinder-RPG.Cotte de mailles elfique|cotte de mailles elfique]] +2.
+- F9 [[AP13-Jestak|Jestak]]
+- F11 [[Pathfinder-RPG.Nabasu|Daitan]] avec 2 points de croissance, [[Pathfinder-RPG.Goule|2 Goules]]
+- F12 [[Pathfinder-RPG.Gardien tombal|3 Gardiens tombaux]]
+- F14 [[Pathfinder-RPG.Brimorak|4 Brimoraks]]
+- F15 [[AP13-Kiranda|Kiranda]], ~~[[AP13-Nurah Dendiwhar|Nurah Dendiwhar]]~~
+- F16 [[Pathfinder-RPG.Thoxel|3 Thoxels]]
+- F17 [[Pathfinder-RPG.Minotaure demi-fiélon|2 Minotaures demi-fiélons]]
+- F18 [[AP13-Joran Vhane|Joran Vhane]], [[Pathfinder-RPG.Babau|3 Babaus]]
+- F20 [[AP13-Staunton Vhane|Staunton Vhane]],​ [[Pathfinder-RPG.Minotaure demi-fiélon|2 Minotaures demi-fiélons]], ~~[[AP13-Nurah Dendiwhar|Nurah Dendiwhar]]~~, ~~[[Guêpe géante fiélone|Vrexed]]~~
+[[AP13-Cisaille des âmes|Cisaille des âmes]]
+[[Pathfinder-RPG.Création Personnage Mythique#ObtentionGrades|Epreuve]]
+- F21 633 pc, 427 pa, 5786 po, 376 pp, 9 grenats (100 po chacun), [[Pathfinder-RPG.Perle de thaumaturge|Perle de thaumaturge]] (niveau 2), [[Pathfinder-RPG.Sceptre de détection des métaux et des minéraux|Sceptre de détection des métaux et des minéraux]] , parchemin de [[Pathfinder-RPG.divination|divination]] , ensemble de figurines naines sculptées (600 po), 2 vases précieux (250 po chacun), coffret en argent (350 po),[[Pathfinder-RPG.Élixir dacrobatie|Élixir d'acrobatie]] , potion de [[Pathfinder-RPG.Neutralisation du poison|Neutralisation du poison]] (NLS 5), baguette d'[[Pathfinder-RPG.Antidétection|Antidétection]] (23 charges, NLS 5), huile de [[Pathfinder-RPG.Résurrection suprême|Résurrection suprême]], journal de Staunton.
+- F23 3438 pc, 1319 pa, 7753 po, 2 perles (500 po chacune), 3 grenats (250 po chacun), 8 améthystes (100 po chacune), 12 agates (50 po chacune) sceptre en ivoire incrusté d'émeraudes (4000 po), candélabre en argent (75 po), chevalière en or (50 po), [[Pathfinder-RPG.Sac sans fond|Sac sans fond]] (modèle 3), collection de livre rares (+4 connaissances des plans, 2000 po), [[Pathfinder-RPG.Livre magique|Livre magique]] (1000 pages, vide), [[Pathfinder-RPG.Carquois efficace|Carquois efficace]], 2 [[Pathfinder-RPG.Javeline de foudre|javelines de foudre]], 19 flèches [[Pathfinder-RPG.Descriptions individuelles des propriétés spéciales des armes#Tueuse|tueuses]] (créatures magiques) +2, [[Pathfinder-RPG.Gemme à élémentaire|Gemme à élémentaire]] (terre), une dose de [[Pathfinder-RPG.Lustrargent|Lustrargent]], potion de [[Pathfinder-RPG.Restauration partielle|Restauration partielle]] (NLS 3), parchemin de [[Pathfinder-RPG.Porte dimensionnelle|Porte dimensionnelle]], parchemin de [[Pathfinder-RPG.glissement de terrain|glissement de terrain]], arbalette lourde de [[Pathfinder-RPG.feu (propriété)|feu]] +1, harnois [[Pathfinder-RPG.spectrale (propriété)|spectral]] +1
 
 {s:Reference|DONJONDEDREZEN}
 #### Le Donjon de Drézen (niveau 9.2)
-**Imprégnation abyssale.** Le donjon est [fortement aligné](./../Pathfinder-RPG/Plans.md#CARACALIGNEMENT) sur le Chaos et le Mal (int,sag,cha). Par conséquent la magie des sorts et des pouvoirs magiques du Bien et de la Loi est [entravée](./../Pathfinder-RPG/Plans.md#CARACMAGIQUES) (Concentration DD 20 + niveau du sort).
-**Sanctification maléfique.** Un effet de [Sanctification maléfique](./../Pathfinder-RPG/Sanctification maléfique.md) (NLS 20) couvre l'ensemble du donjon. Une [ancre dimensionnelle](./../Pathfinder-RPG/Ancre dimensionnelle.md) est liée à cet effet et affecte toutes les créatures à l'exception des fidèles de Deskari Chaotiques Mauvais.
-**Murmures démentiels.** Des esprits démoniaques hantent les murs du donjon. Leurs murmures ne sont pas assez audibles pour être compréhensibles mais leur susurrements perpétuels irritent l'esprit. Au début de chaque heure passée dans le donjon, toutes les créatures à l'exception des Chaotiques Mauvaises, doivent réussir un jet de volonté DD 14 pour ne pas subir un affaiblissement temporaire de 2 points de Charisme alors que les murmures les plongent peu à peu dans la folie. Une créature qui subit un affaiblissement temporaire de Charisme égal à sa valeur dans cette caractéristique contracte une [maladie mentale](./../Pathfinder-RPG/Santé mentale.md) déterminée aléatoirement. C'est un effet mental sonore.
+**Imprégnation abyssale.** Le donjon est [[Pathfinder-RPG.Plans#CARACALIGNEMENT|fortement aligné]] sur le Chaos et le Mal (int,sag,cha). Par conséquent la magie des sorts et des pouvoirs magiques du Bien et de la Loi est [[Pathfinder-RPG.Plans#CARACMAGIQUES|entravée]] (Concentration DD 20 + niveau du sort).
+**Sanctification maléfique.** Un effet de [[Pathfinder-RPG.Sanctification maléfique|Sanctification maléfique]] (NLS 20) couvre l'ensemble du donjon. Une [[Pathfinder-RPG.ancre dimensionnelle|ancre dimensionnelle]] est liée à cet effet et affecte toutes les créatures à l'exception des fidèles de Deskari Chaotiques Mauvais.
+**Murmures démentiels.** Des esprits démoniaques hantent les murs du donjon. Leurs murmures ne sont pas assez audibles pour être compréhensibles mais leur susurrements perpétuels irritent l'esprit. Au début de chaque heure passée dans le donjon, toutes les créatures à l'exception des Chaotiques Mauvaises, doivent réussir un jet de volonté DD 14 pour ne pas subir un affaiblissement temporaire de 2 points de Charisme alors que les murmures les plongent peu à peu dans la folie. Une créature qui subit un affaiblissement temporaire de Charisme égal à sa valeur dans cette caractéristique contracte une [[Pathfinder-RPG.Santé mentale|maladie mentale]] déterminée aléatoirement. C'est un effet mental sonore.
 **Portes en fer.** solidité 10, 60 pr, DD 28.
 
-[Siège de Drézen](./Drézen.md)
+[[Drézen|Siège de Drézen]]
 <table>
 {s:ADJStart}
 <tr STYLE="vertical-align: top;"><td  COLSPAN=4>
-- G2 [3 Spectres](./../Pathfinder-RPG/Spectre.md)
-- G3 [6 Vampiriens](./../Pathfinder-RPG/Vampirien.md)
-- G4 [zone d'antimagie](./../Pathfinder-RPG/Zone dantimagie.md) (NLS 20)
-- G4a pas de *Imprégnation abyssale* ni de *Murmures démentiels*. [Guérison accélérée 1](./../Pathfinder-RPG/Guérison accélérée (capacité).md)
+- G2 [[Pathfinder-RPG.Spectre|3 Spectres]]
+- G3 [[Pathfinder-RPG.Vampirien|6 Vampiriens]]
+- G4 [[Pathfinder-RPG.zone dantimagie|zone d'antimagie]] (NLS 20)
+- G4a pas de *Imprégnation abyssale* ni de *Murmures démentiels*. [[Pathfinder-RPG.Guérison accélérée (Capacité)|Guérison accélérée 1]]
 [Prière d’Arueshalae](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=/ADJ/Aventures/AP13-Prière d'Arueshalae)
 - G5 source de *Imprégnation abyssale*, connaissances (mystère) ou art de la magie DD 20.
-[2 Babaus](./../Pathfinder-RPG/Babau.md)
-- G6 [Théruk Nul](./AP13-Théruk Nul.md), ~~[Idrian Vosner](./AP13-Idrian Vosner.md)~~
+[[Pathfinder-RPG.Babau|2 Babaus]]
+- G6 [[AP13-Théruk Nul|Théruk Nul]], ~~[[AP13-Idrian Vosner|Idrian Vosner]]~~
 - G7 source des *Murmures démentiels*, connaissances (mystère, religion) DD 20.
-[4 Salamandres](./../Pathfinder-RPG/Salamandre.md)
-[Forge de corruption](./AP13-Forge de corruption.md)
+[[Pathfinder-RPG.Salamandre|4 Salamandres]]
+[[AP13-Forge de corruption|Forge de corruption]]
 - G9 10 Marchandises
-- G10 [Chorussine Domal](./AP13-Chorussine Domal.md), [3 Ariès](./../Pathfinder-RPG/Ariès.md), ~~[Kiranda](./AP13-Kiranda.md)~~
+- G10 [[AP13-Chorussine Domal|Chorussine Domal]], [[Pathfinder-RPG.Ariès|3 Ariès]], ~~[[AP13-Kiranda|Kiranda]]~~
 - G11 
-<div class="BD" STYLE="border: 1px solid;margin: 5px;">{s:BDTitre|Piège : Bourreaux de la vertu|FP 5} **[Type](./../Pathfinder-RPG/Pièges.md#TYPES)** magique ; **[Perception](./../Pathfinder-RPG/Perception.md)** DD 29 ; **[Sabotage](./../Pathfinder-RPG/Sabotage.md)** DD 29
-(((Effet)))  **[Déclencheur](./../Pathfinder-RPG/Pièges.md#DECLENCHEUR)** espace; **[Remise en place](./../Pathfinder-RPG/Pièges.md#REMISEENPLACE)** non
-**[Effets](./../Pathfinder-RPG/Pièges.md#EFFETS)** effet de sort (variante de l' [assassin imaginaire](./../Pathfinder-RPG/Assassin imaginaire.md), Vig/Vol DD 16) ; cibles multiples (jusqu'à 5)
+<div class="BD" STYLE="border: 1px solid;margin: 5px;">{s:BDTitre|Piège : Bourreaux de la vertu|FP 5} **[[Pathfinder-RPG.Pièges#TYPES|Type]]** magique ; **[[Pathfinder-RPG.Perception|Perception]]** DD 29 ; **[[Pathfinder-RPG.Sabotage|Sabotage]]** DD 29
+(((Effet)))  **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** espace; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** non
+**[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** effet de sort (variante de l' [[Pathfinder-RPG.assassin imaginaire|assassin imaginaire]], Vig/Vol DD 16) ; cibles multiples (jusqu'à 5)
 </div>
 - G12 
-<div class="BD" STYLE="border: 1px solid;margin: 5px;">{s:BDTitre|Piège : Piège télékinétique|FP 7} **[Type](./../Pathfinder-RPG/Pièges.md#TYPES)** magique ; **[Perception](./../Pathfinder-RPG/Perception.md)** [DD](./../Pathfinder-RPG/DD.md) 30 ;
-**[Sabotage](./../Pathfinder-RPG/Sabotage.md)** [DD](./../Pathfinder-RPG/DD.md) 30
-(((Effet)))  **[Déclencheur](./../Pathfinder-RPG/Pièges.md#DECLENCHEUR)** espace; **[Remise en place](./../Pathfinder-RPG/Pièges.md#REMISEENPLACE)** aucune
-**[Effets](./../Pathfinder-RPG/Pièges.md#EFFETS)** effet de sort ([télékinésie](./../Pathfinder-RPG/Télékinésie.md), [bousculade](./../Pathfinder-RPG/Manœuvres offensives.md#BOUSCULADE), BMO +12) ; force de 12m de profondeur (4d6, chute) ; [limon vert](./../Pathfinder-RPG/Champignons, moisissures et limons.md#LIMONVERT)
+<div class="BD" STYLE="border: 1px solid;margin: 5px;">{s:BDTitre|Piège : Piège télékinétique|FP 7} **[[Pathfinder-RPG.Pièges#TYPES|Type]]** magique ; **[[Pathfinder-RPG.Perception|Perception]]** [[Pathfinder-RPG.DD|DD]] 30 ;
+**[[Pathfinder-RPG.Sabotage|Sabotage]]** [[Pathfinder-RPG.DD|DD]] 30
+(((Effet)))  **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** espace; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** aucune
+**[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** effet de sort ([[Pathfinder-RPG.télékinésie|télékinésie]], [[Pathfinder-RPG.Manœuvres offensives#BOUSCULADE|bousculade]], BMO +12) ; force de 12m de profondeur (4d6, chute) ; [[Pathfinder-RPG.Champignons, moisissures et limons#LIMONVERT|limon vert]]
 </div>
-- G13 [Eustoyriax](./AP13-Eustoyriax.md), ~~[Aron Kir (possédé)](./AP13-Aron Kir (possédé).md)~~
-[Epée du courage](./AP13-Epée du courage.md)
-[Epreuve](./../Pathfinder-RPG/Création Personnage Mythique.md#ObtentionGrades)
+- G13 [[AP13-Eustoyriax|Eustoyriax]], ~~[[AP13-Aron Kir (possédé)|Aron Kir (possédé)]]~~
+[[AP13-Epée du courage|Epée du courage]]
+[[Pathfinder-RPG.Création Personnage Mythique#ObtentionGrades|Epreuve]]
 </td><td>
 {s:ADJ|PARUESHALAE|Prière d'Arueshalae|/ADJ/Aventures/Icone aidejeu lettre.jpg|/ADJ/Aventures/AP13-Prière d'Arueshalae.pdf|Retranscription de la prière d’Arueshalae (fichier PDF)|Mériadec|none}
 </td></tr></table>
@@ -272,13 +272,13 @@ Armures magiques (armée)
 ### Aides pour L'hérésie démoniaque / Demon's Heresy
 {s:Reference|RECONSTRUIREDREZEN}
 #### Reconstruire Drézen (niveau 9.3)
-[Drézen Libre](./Drézen Libre.md)
+[[Drézen Libre]]
 <table>
 {s:ADJStart}
 <tr STYLE="vertical-align: top;"><td  COLSPAN=4>
-- Voir les [Intermèdes](./../Pathfinder-RPG/Intermèdes.md)
-- Restaurer l'économie de [Drézen](./Drézen Libre.md#RESTAURERLECONOMIE)
-- Purifier la [Forge de corruption](./AP13-Forge de corruption.md)
+- Voir les [[Pathfinder-RPG.Intermèdes|Intermèdes]]
+- Restaurer l'économie de [[Drézen Libre#RESTAURERLECONOMIE|Drézen]]
+- Purifier la [[AP13-Forge de corruption|Forge de corruption]]
 </td><td>
 {s:ADJ|LGALFREY|Lettre de la reine Galfrey|/ADJ/Aventures/Icone aidejeu lettre.jpg|/ADJ/Aventures/AP13-Lettre de Galfrey.pdf|Retranscription de la lettre de la reine Galfrey (fichier PDF)|Mériadec|none}
 </td></tr></table>
@@ -287,52 +287,52 @@ Armures magiques (armée)
 #### Dans les Marches (niveau 10.3)
 **La riposte**
 - Les chevaucheurs de Drake
-[Chevaucheur de drake](./AP13-Chevaucheur-de-drake.md)
-[Drake des crevasses](./../Pathfinder-RPG/Drake des crevasses.md)
+[[AP13-Chevaucheur de drake|Chevaucheur de drake]]
+[[Pathfinder-RPG.Drake des crevasses|Drake des crevasses]]
 - Enlèvement
-[Horreur chasseresse](./../Pathfinder-RPG/Horreur chasseresse.md)
-[Quasit](./../Pathfinder-RPG/Quasit.md)
+[[Pathfinder-RPG.Horreur chasseresse|Horreur chasseresse]]
+[[Pathfinder-RPG.Quasit|Quasit]]
 - Assaut en règle
 Trois batailles de FP+2.
 
 **Rencontres**
-- A [Drézen Libre](./Drézen Libre.md)
+- A [[Drézen Libre]]
 - B Cavernes de la nuée
 - C Chapelle perdue
 - D Canyon du Gardien
 - E Gué de Vilareth
 - F Rocher de l'Aigle
-[Dérakni](./../Pathfinder-RPG/Dérakni.md)
+[[Pathfinder-RPG.Dérakni|Dérakni]]
 - G Tombe de Delamère
-[Jesker Helton (possédé)](./AP13-Jesker Helton (possédé).md), [Quinarch](./Pathfinder-RPG-Shachath.md), ~~[Jesker Helton](./AP13-Jesker-Helton.md)~~
+[[AP13-Jesker Helton (possédé)|Jesker Helton (possédé)]], [[Pathfinder-RPG.Shachath|Quinarch]], ~~[[AP13-Jesker Helton|Jesker Helton]]~~
 - H Hall du Soleilhivernal
-[Epreuve (Exposé à l'horreur)](./../Pathfinder-RPG/Création Personnage Mythique.md#ObtentionGrades)
-  - H1 [2 Barbares Grunhuld-Soleilhivernaux](./AP13-Barbare-Grunhuld-Soleilhivernal.md)
-  - H2 [4 Barbares Grunhuld-Soleilhivernaux](./AP13-Barbare-Grunhuld-Soleilhivernal.md)
-  - H4 [2 Barbares Grunhuld-Soleilhivernaux](./AP13-Barbare-Grunhuld-Soleilhivernal.md)
-  - H5 [Makhévok Grunhuld-Soleilhivernal](./AP13-Makhévok-Grunhuld-Soleilhivernal.md)
+[[Pathfinder-RPG.Création Personnage Mythique#ObtentionGrades|Epreuve (Exposé à l'horreur)]]
+  - H1 [[AP13-Barbare Grunhuld-Soleilhivernal|2 Barbares Grunhuld-Soleilhivernaux]]
+  - H2 [[AP13-Barbare Grunhuld-Soleilhivernal|4 Barbares Grunhuld-Soleilhivernaux]]
+  - H4 [[AP13-Barbare Grunhuld-Soleilhivernal|2 Barbares Grunhuld-Soleilhivernaux]]
+  - H5 [[AP13-Makhévok Grunhuld-Soleilhivernal|Makhévok Grunhuld-Soleilhivernal]]
 - I Cascade Embraséee
 - J Crypte Familiale
-[Epreuve (Enfant de la Croisade)](./../Pathfinder-RPG/Création Personnage Mythique.md#ObtentionGrades)
-  - J1 [Alrys Harnaste](./AP13-Alrys-Harnaste.md)
-  - J3 [Bodak évolué](./Bodak-évolué.md)
-  - J4 [Trystecrâne](./AP13-Trystecrâne.md)
+[[Pathfinder-RPG.Création Personnage Mythique#ObtentionGrades|Epreuve (Enfant de la Croisade)]]
+  - J1 [[AP13-Alrys Harnaste|Alrys Harnaste]]
+  - J3 [[Bodak évolué]]
+  - J4 [[AP13-Trystecrâne|Trystecrâne]]
 - K Temple Profané
-[Epreuve (Touché par la grâce)](./../Pathfinder-RPG/Création Personnage Mythique.md#ObtentionGrades)
-  - K1 [6 Templiers du Labyrinthe d'Ivoire](./Templier-du-Labyrinthe-d'Ivoire.md)
-  - K4 [Mishtu évolué](./Mishtu-évolué.md)
-  - K5 [Zanèdre](./AP13-Zanèdre.md), [Svennarobeth](./AP13-Svennarobeth.md)
+[[Pathfinder-RPG.Création Personnage Mythique#ObtentionGrades|Epreuve (Touché par la grâce)]]
+  - K1 [[Templier du Labyrinthe d'Ivoire|6 Templiers du Labyrinthe d'Ivoire]]
+  - K4 [[Mishtu évolué]]
+  - K5 [[AP13-Zanèdre|Zanèdre]], [[AP13-Svennarobeth|Svennarobeth]]
 - L Antre du Dragon de la Plaie
-[Epreuve (tous)](./../Pathfinder-RPG/Création Personnage Mythique.md#ObtentionGrades)
-[Scorizscar](./AP13-Scorizscar.md)
+[[Pathfinder-RPG.Création Personnage Mythique#ObtentionGrades|Epreuve (tous)]]
+[[AP13-Scorizscar|Scorizscar]]
 - M Balafre Embrasée
-[Epreuve (Fureur volée)](./../Pathfinder-RPG/Création Personnage Mythique.md#ObtentionGrades)
-[Vorimeraak](./AP13-Vorimeraak.md)
-[2 Vrocks](./../Pathfinder-RPG/Vrock.md)
+[[Pathfinder-RPG.Création Personnage Mythique#ObtentionGrades|Epreuve (Fureur volée)]]
+[[AP13-Vorimeraak|Vorimeraak]]
+[[Pathfinder-RPG.Vrock|2 Vrocks]]
 - N Redoute d'Arueshalae
-[Epreuve (Rencontre fortuite)](./../Pathfinder-RPG/Création Personnage Mythique.md#ObtentionGrades)
+[[Pathfinder-RPG.Création Personnage Mythique#ObtentionGrades|Epreuve (Rencontre fortuite)]]
 - O Portes Vertes
-[Epreuve (Orphelin des Gardiens des failles)](./../Pathfinder-RPG/Création Personnage Mythique.md#ObtentionGrades)
+[[Pathfinder-RPG.Création Personnage Mythique#ObtentionGrades|Epreuve (Orphelin des Gardiens des failles)]]
 
 {s:Reference|LAREDOUTEDUDEMON}
 
@@ -344,9 +344,9 @@ Trois batailles de FP+2.
 <table>
 {s:ADJStart}
 <tr STYLE="vertical-align: top;"><td  COLSPAN=4>
-- Voir les [Intermèdes](./../Pathfinder-RPG/Intermèdes.md)
-- Resaurer l'économie de [Drézen](./Drézen Libre.md)
-- Purifier la [Forge de corruption](./AP13-Forge de corruption.md)
+- Voir les [[Pathfinder-RPG.Intermèdes|Intermèdes]]
+- Resaurer l'économie de [[Drézen Libre|Drézen]]
+- Purifier la [[AP13-Forge de corruption|Forge de corruption]]
 </td><td>
 {s:ADJ|LJERRIBETH|Lettre de Jerribeth|/ADJ/Aventures/Icone aidejeu lettre.jpg|/ADJ/Aventures/AP13-Lettre de Jerribeth.pdf|Retranscription de la lettre de Jerribeth (fichier PDF)|Mériadec|none}
 </td></tr></table>

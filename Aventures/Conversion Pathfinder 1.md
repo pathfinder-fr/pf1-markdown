@@ -37,8 +37,8 @@ Categories:
 {s:BDTitre|Chien gobelin|FP 1}
 - *Source : Bestiaire*
 - **XP** 400
-- [Animal](./../Pathfinder-RPG/type Animal.md) de taille M, N
-- **Init** +2 ; **Sens** [odorat](./../Pathfinder-RPG/odorat.md), [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +1
+- [[Pathfinder-RPG.type Animal|Animal]] de taille M, N
+- **Init** +2 ; **Sens** [[Pathfinder-RPG.odorat|odorat]], [[Pathfinder-RPG.vision nocturne|vision nocturne]] ; [[Pathfinder-RPG.Perception|Perception]] +1
 (((Défense)))
 - **CA** 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)
 - **pv** 9 (1d8+5)
@@ -50,14 +50,14 @@ Categories:
 (((Caractéristiques)))
 - **For** 15, **Dex** 14, **Con** 15, **Int** 2, **Sag** 12, **Cha** 8
 - **BBA** +0, **BMO** +2, **DMD** 14
-- **Dons** [Robustesse](./../Pathfinder-RPG/Robustesse.md)
-- **Compétences** [Discrétion](./../Pathfinder-RPG/Discrétion.md) +6
+- **Dons** [[Pathfinder-RPG.Robustesse|Robustesse]]
+- **Compétences** [[Pathfinder-RPG.Discrétion|Discrétion]] +6
 (((Écologie)))
 - **Environnement** forêts, marais ou sous terre, climat tempéré
 - **Organisation sociale** solitaire ou meute (2-12)
 - **Trésor** aucun
 (((Particularités)))
-- **Réaction allergique (Ext)** Les squames des chiens gobelins sont extrêmement irritantes pour toutes les créatures exceptées pour les [gobelinoïdes](./../Pathfinder-RPG/sous-type gobelinoïde.md). Une créature n'appartenant pas à ce sous-type qui est mordue par un chien gobelin, qui en touche un avec une arme naturelle ou à poings nus ou qui entre en contact avec l'un d'entre eux (notamment en essayant de l'agripper ou de l'enfourcher) doit réussir un JdS Vigueur DD12 ou subir une éruption de boutons irritants. Une créature affectée par cette éruption subit un malus de -2 à la [Dextérité](./../Pathfinder-RPG/Dextérité.md) et au [Charisme](./../Pathfinder-RPG/Charisme.md) pendant une journée (plusieurs réactions allergiques ne s'additionnent pas). *[guérison des maladies](./../Pathfinder-RPG/Guérison des maladies.md)* ou tout autre soin magique stoppe la réaction allergique immédiatement. C'est un effet maladif. Le DD du JdS est basé sur la [Constitution](./../Pathfinder-RPG/Constitution.md).
+- **Réaction allergique (Ext)** Les squames des chiens gobelins sont extrêmement irritantes pour toutes les créatures exceptées pour les [[Pathfinder-RPG.sous-type gobelinoïde|gobelinoïdes]]. Une créature n'appartenant pas à ce sous-type qui est mordue par un chien gobelin, qui en touche un avec une arme naturelle ou à poings nus ou qui entre en contact avec l'un d'entre eux (notamment en essayant de l'agripper ou de l'enfourcher) doit réussir un JdS Vigueur DD12 ou subir une éruption de boutons irritants. Une créature affectée par cette éruption subit un malus de -2 à la [[Pathfinder-RPG.Dextérité|Dextérité]] et au [[Pathfinder-RPG.Charisme|Charisme]] pendant une journée (plusieurs réactions allergiques ne s'additionnent pas). *[[Pathfinder-RPG.guérison des maladies|guérison des maladies]]* ou tout autre soin magique stoppe la réaction allergique immédiatement. C'est un effet maladif. Le DD du JdS est basé sur la [[Pathfinder-RPG.Constitution|Constitution]].
 
 </div>
 
@@ -342,8 +342,8 @@ Categories:
 {s:BDTitre|Vargouille|FP 2}
 - *Source : Bestiaire*
 - **XP** 600
-- [Extérieur](./../Pathfinder-RPG/type Extérieur.md) ([extraplanaire](./../Pathfinder-RPG/sous-type extraplanaire.md), [Mal](./../Pathfinder-RPG/sous-type Mal.md)) de taille P, NM
-- **Init** +1 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) (12 cases) ; [Perception](./../Pathfinder-RPG/Perception.md) +7
+- [[Pathfinder-RPG.type Extérieur|Extérieur]] ([[Pathfinder-RPG.sous-type extraplanaire|extraplanaire]], [[Pathfinder-RPG.sous-type Mal|Mal]]) de taille P, NM
+- **Init** +1 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] (12 cases) ; [[Pathfinder-RPG.Perception|Perception]] +7
 (((Défense)))
 - **CA** 15, contact 12, pris au dépourvu 14 (Dex +1, naturelle +3, taille +1)
 - **pv** 19 (3d10+3)
@@ -355,15 +355,15 @@ Categories:
 (((Caractéristiques)))
 - **For** 10, **Dex** 13, **Con** 13, **Int** 5, **Sag** 12, **Cha** 8
 - **BBA** +3, **BMO** +2, **DMD** 13
-- **Dons** [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md), [Talent](./../Pathfinder-RPG/Talent.md) ([Discrétion](./../Pathfinder-RPG/Discrétion.md))
-- **Compétences** [Discrétion](./../Pathfinder-RPG/Discrétion.md) +8, [Intimidation](./../Pathfinder-RPG/Intimidation.md) +5, [Perception](./../Pathfinder-RPG/Perception.md) +7, [Vol](./../Pathfinder-RPG/Vol.md) +13
+- **Dons** [[Pathfinder-RPG.Attaque en finesse|Attaque en finesse]], [[Pathfinder-RPG.Talent|Talent]] ([[Pathfinder-RPG.Discrétion|Discrétion]])
+- **Compétences** [[Pathfinder-RPG.Discrétion|Discrétion]] +8, [[Pathfinder-RPG.Intimidation|Intimidation]] +5, [[Pathfinder-RPG.Perception|Perception]] +7, [[Pathfinder-RPG.Vol|Vol]] +13
 - **Langues** infernal
 (((Écologie)))
 - **Environnement** tous
 - **Organisation sociale** couple, nichée (3-6) ou foule (7-12)
 - **Trésor** aucun
 (((Particularités)))
-- **Baiser (Sur)** Une vargouille peut embrasser une cible sans défense en réussissant un jet d'attaque au contact (qui  provoque une attaque d'opportunité). Un adversaire ainsi embrassé doit réussir un jet de Vigueur DD 16 ou entamer une terrible transformation qui change la créature en une vargouille dans les 24 heures (et souvent beaucoup plus tôt ; lancez 1d6 séparément pour chaque phase de la transformation). Premièrement, sur une période de 1d6 heures, tous les cheveux et poils de la victime tombent. En une autre période de 1d6 heures après cela, les oreilles de la créature se transforment en de larges ailes de cuir, des tentacules jaillissent sur son menton et son cuir chevelu et ses dents deviennent de longs crochets pointus. Durant les 1d6 prochaines heures, la victime subit une diminution permanente d'Intelligence et de Charisme égal à 1 point par heure (avec un minimum de 3). La transformation est complète 1d6 heures après cela, lorsque la tête de la victime se détache du corps (lequel ne survit que quelques instants) et devient une vargouille. Ce processus de transformation est suspendu par la lumière du soleil ou tout sort de lumière du 3<sup>ème</sup> niveau ou plus, mais pour interrompre la transformation il faut utiliser le sort *[guérison des maladies](./../Pathfinder-RPG/Guérison des maladies.md)* ou effet similaire. La transformation est une affliction. Le DD du jet de sauvegarde est basé sur la Constitution et comprend un bonus racial de +4.
+- **Baiser (Sur)** Une vargouille peut embrasser une cible sans défense en réussissant un jet d'attaque au contact (qui  provoque une attaque d'opportunité). Un adversaire ainsi embrassé doit réussir un jet de Vigueur DD 16 ou entamer une terrible transformation qui change la créature en une vargouille dans les 24 heures (et souvent beaucoup plus tôt ; lancez 1d6 séparément pour chaque phase de la transformation). Premièrement, sur une période de 1d6 heures, tous les cheveux et poils de la victime tombent. En une autre période de 1d6 heures après cela, les oreilles de la créature se transforment en de larges ailes de cuir, des tentacules jaillissent sur son menton et son cuir chevelu et ses dents deviennent de longs crochets pointus. Durant les 1d6 prochaines heures, la victime subit une diminution permanente d'Intelligence et de Charisme égal à 1 point par heure (avec un minimum de 3). La transformation est complète 1d6 heures après cela, lorsque la tête de la victime se détache du corps (lequel ne survit que quelques instants) et devient une vargouille. Ce processus de transformation est suspendu par la lumière du soleil ou tout sort de lumière du 3<sup>ème</sup> niveau ou plus, mais pour interrompre la transformation il faut utiliser le sort *[[Pathfinder-RPG.guérison des maladies|guérison des maladies]]* ou effet similaire. La transformation est une affliction. Le DD du jet de sauvegarde est basé sur la Constitution et comprend un bonus racial de +4.
 - **Hurlement (Sur)** Au lieu de mordre, une vargouille peut ouvrir sa gueule distendue pour pousser un hurlement strident. Ceux qui se trouvent dans les 12 cases (à l'exception des autres vargouilles) et qui entendent le cri et peuvent clairement voir la créature doivent réussir un jet de Vigueur DD 12 ou être paralysés pendant 2d4 rounds ou jusqu'à ce que le monstre les attaque, s'en aille hors de portée ou hors de leur vue. Une créature qui réussit son jet de sauvegarde ne peut plus être affectée de nouveau par le même hurlement de cette vargouille pendant 24 heures. Le DD du jet de sauvegarde est basé sur la Constitution.
 - **Poison (Sur)** blessure par morsure ; *JdS* Vigueur DD 12 ; *fréquence* une seule fois ; *effet* les dégâts infligés par la morsure ne peuvent être soignés que magiquement et si le lanceur de sort parvient à réussir un test de lanceur DD 20 ; *guérison* 1 JdS. Le DD du JdS est basé sur la Constitution.
 
@@ -373,20 +373,20 @@ Categories:
 {s:BDTitre|Zombi humain|FP 1/2}
 - *Source : Bestiaire*
 - **XP** 200
-- [Mort-vivant](./../Pathfinder-RPG/type Mort-vivant.md) de taille M, NM
-- **Init** +0 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) (12 cases) ; [Perception](./../Pathfinder-RPG/Perception.md) +0
+- [[Pathfinder-RPG.type Mort-vivant|Mort-vivant]] de taille M, NM
+- **Init** +0 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] (12 cases) ; [[Pathfinder-RPG.Perception|Perception]] +0
 (((Défense)))
 - **CA** 12, contact 10, pris au dépourvu 12 (naturelle +2)
 - **pv** 12 (2d8+3)
 - **Réf** +0, **Vig** +0, **Vol** +3
-- **Immunités** [++Pathfinder-RPG.traits des morts-vivants](./../Pathfinder-RPG/Traits des morts-vivants.md) ; **RD** 5/tranchant 
+- **Immunités** [[Pathfinder-RPG.traits des morts-vivants]] ; **RD** 5/tranchant 
 (((Attaque)))
 - **VD** 6
 - **Corps à corps** coup +4 (1d6+4)
 (((Caractéristiques)))
 - **For** 17, **Dex** 10, **Con** -, **Int** -, **Sag** 10, **Cha** 10
 - **BBA** +1, **BMO** +4, **DMD** 14
-- **Dons** [Robustesse](./../Pathfinder-RPG/Robustesse.md) (B)
+- **Dons** [[Pathfinder-RPG.Robustesse|Robustesse]] (B)
 - **Particularités** chancelant
 (((Écologie)))
 - **Environnement** tous
@@ -426,8 +426,8 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Skiwer, Chat (familier)|FP 1/2}
-- [Animal](./../Pathfinder-RPG/type Animal.md) de taille TP, N
-- **Init** +2 ; **Sens** [odorat](./../Pathfinder-RPG/odorat.md), [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +5
+- [[Pathfinder-RPG.type Animal|Animal]] de taille TP, N
+- **Init** +2 ; **Sens** [[Pathfinder-RPG.odorat|odorat]], [[Pathfinder-RPG.vision nocturne|vision nocturne]] ; [[Pathfinder-RPG.Perception|Perception]] +5
 (((Défense)))
 - **CA** 16, contact 14, pris au dépourvu 14 (Dex +2, taille +2, armure naturelle +2)
 - **pv** 9 (3d8-1)
@@ -439,9 +439,9 @@ Categories:
 (((Caractéristiques)))
 - **For** 3, **Dex** 15, **Con** 8, **Int** 7, **Sag** 12, **Cha** 7
 - **BBA** +1, **BMO** +1, **DMD** 7 (11 contre le croc-en-jambe)
-- **Dons** [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md)
-- **Compétences** [Discrétion](./../Pathfinder-RPG/Discrétion.md) +14, [Escalade](./../Pathfinder-RPG/Escalade.md) +6, [Perception](./../Pathfinder-RPG/Perception.md) +5 ; **Modificateurs raciaux** [Escalade](./../Pathfinder-RPG/Escalade.md) +4, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +4
-Particularités : [Esquive extraordinaire](./../Pathfinder-RPG/Familiers.md#ESQUIVEEXTRAORDINAIRE), [transfert de sorts](./../Pathfinder-RPG/Familiers.md#TRANSFERTDESORTS), [lien empathique](./../Pathfinder-RPG/Familiers.md#LIENEMPATHIQUE), [vigilance](./../Pathfinder-RPG/Familiers.md#VIGILANCE), [Conduit](./../Pathfinder-RPG/Familiers.md#CONDUIT)
+- **Dons** [[Pathfinder-RPG.Attaque en finesse|Attaque en finesse]]
+- **Compétences** [[Pathfinder-RPG.Discrétion|Discrétion]] +14, [[Pathfinder-RPG.Escalade|Escalade]] +6, [[Pathfinder-RPG.Perception|Perception]] +5 ; **Modificateurs raciaux** [[Pathfinder-RPG.Escalade|Escalade]] +4, [[Pathfinder-RPG.Discrétion|Discrétion]] +4
+Particularités : [[Familiers#ESQUIVEEXTRAORDINAIRE|Esquive extraordinaire]], [[Familiers#TRANSFERTDESORTS|transfert de sorts]], [[Familiers#LIENEMPATHIQUE|lien empathique]], [[Familiers#VIGILANCE|vigilance]], [[Familiers#CONDUIT|Conduit]]
 
 </div>
 
@@ -519,7 +519,7 @@ Particularités : [Esquive extraordinaire](./../Pathfinder-RPG/Familiers.md#ESQU
 (((Caractéristiques)))
 - **For** 17, **Dex** 13, **Con** 14, **Int** 10, **Sag** 12, **Cha** 8
 - **BBA **+3, **BMO **+6, **DMD** 17
-- **Dons** arme de prédilection (épée bâtarde), [Athlétisme](./../Pathfinder-RPG/Athlétisme.md), [Maniement dune arme exotique (épée bâtarde)](./../Pathfinder-RPG/Maniement dune arme exotique.md),  Attaque en puissance
+- **Dons** arme de prédilection (épée bâtarde), [[Pathfinder-RPG.Athlétisme|Athlétisme]], [[Pathfinder-RPG.Maniement dune arme exotique|Maniement dune arme exotique (épée bâtarde)]],  Attaque en puissance
 - **Compétences** Escalade +6, Natation +6, Intimidation +5
 - **Langues** commun, gobelin
 - **Particulier** (voir guerrier)

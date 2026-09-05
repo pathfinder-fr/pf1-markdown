@@ -15,8 +15,8 @@ Categories:
 
 *Le personnage distrait ses ennemis avec des attaques à distances afin de protéger ses alliés.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#EQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[Dons#EQUIPE|équipe]]
 
-**Conditions.** [Tir à bout portant](./Tir à bout portant.md)
+**Conditions.** [[Tir à bout portant]]
 
-**Avantages.** Le personnage peut utiliser une action [aider quelqu'un](./aider quelquun.md) combinée à une [attaque à distance](./Attaque à distance.md) contre un adversaire, même si celui-ci ne menace pas ses alliés. Les pénalités liées au facteur de portée s’appliquent au [jet d'attaque](./jet dattaque.md). Le personnage doit désigner un allié avant l’attaque. Si celle-ci réussit, cet allié gagne un bonus de +2 à sa [CA](./CA.md) contre la prochaine attaque de l’ennemi ciblé, tant que celle-ci s’effectue avant le début du prochain tour du personnage qui le couvre. Tous les alliés qui possèdent ce don obtiennent également le bonus contre cet ennemi.
+**Avantages.** Le personnage peut utiliser une action [[aider quelquun|aider quelqu'un]] combinée à une [[attaque à distance]] contre un adversaire, même si celui-ci ne menace pas ses alliés. Les pénalités liées au facteur de portée s’appliquent au [[jet dattaque|jet d'attaque]]. Le personnage doit désigner un allié avant l’attaque. Si celle-ci réussit, cet allié gagne un bonus de +2 à sa [[CA]] contre la prochaine attaque de l’ennemi ciblé, tant que celle-ci s’effectue avant le début du prochain tour du personnage qui le couvre. Tous les alliés qui possèdent ce don obtiennent également le bonus contre cet ennemi.

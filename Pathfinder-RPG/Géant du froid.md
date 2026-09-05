@@ -14,29 +14,29 @@ Categories:
 {s:pucem|Humanoïde|Montagnes|Froid}
 {s:BDTexte|*Source : Bestiaire p.152, Codex monstrueux p.54*}
 {s:BDTexte|**PX** 6.400}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([froid](./sous-type froid.md), [géant](./sous-type géant.md)) de taille G, CM}
-{s:BDTexte|**Init** -1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type froid|froid]], [[sous-type géant|géant]]) de taille G, CM}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 8, pris au dépourvu 21 (armure +4, Dex -1, naturelle +9, taille -1)}
 {s:BDTexte|**pv** 133 (14d8+70)}
 {s:BDTexte|**Réf** +3, **Vig** +14, **Vol** +6}
-{s:BDTexte|**Capacités défensives** [réception de rochers](./Réception de rochers.md) ; **Immunités** froid }
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Capacités défensives** [[réception de rochers]] ; **Immunités** froid }
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au feu}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** grande hache, +18/+13 (3d6+13) ou 2 coups, +18 (1d8+9)}
 {s:BDTexte|**Distance** rocher, +9 (1d8+13)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [lancer de rochers](./Lancer de rochers.md) 36 m (24 {s:c})}
+{s:BDTexte|**Attaques spéciales** [[lancer de rochers]] 36 m (24 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 29, **Dex** 9, **Con** 21, **Int** 10, **Sag** 14, **Cha** 11}
 {s:BDTexte|**BBA** +10, **BMO** +20, **DMD** 29}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Maniement d'une arme de guerre](./Maniement dune arme de guerre.md) (grande hache), [Science de la destruction](./Science de la destruction.md), [Science du renversement](./Science du renversement.md), [Succession d'enchaînements](./Succession denchaînements.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (un au choix) +7, [Discrétion](./Discrétion.md) +2 (+6 dans la neige), [Escalade](./Escalade.md) +13, [Intimidation](./Intimidation.md) +7, [Perception](./Perception.md) +10 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 dans la neige}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Maniement dune arme de guerre|Maniement d'une arme de guerre]] (grande hache), [[Science de la destruction]], [[Science du renversement]], [[Succession denchaînements|Succession d'enchaînements]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Artisanat]] (un au choix) +7, [[Discrétion]] +2 (+6 dans la neige), [[Escalade]] +13, [[Intimidation]] +7, [[Perception]] +10 ; **Modificateurs raciaux** [[Discrétion]] +4 dans la neige}
 {s:BDTexte|**Langues** commun, géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes froides}
-{s:BDTexte|**Organisation sociale** solitaire, bande (3-5), groupe (6-12 et 35% non-combattants et 1 [adepte](./Adepte.md) ou [prêtre](./Prêtre.md) de niveau 1-2), groupe de pillards (6-12 et 35% non-combattants, 1 [adepte](./Adepte.md) ou [ensorceleur](./Ensorceleur.md) de niveau 3-5, 1-4 [loups arctiques](./Loup arctique.md) et 2-3 [ogres](./Ogre.md)) ou tribu (21-30 et 1 [adepte](./Adepte.md), [prêtre](./Prêtre.md) ou [ensorceleur](./Ensorceleur.md) de niveau 6-7; 1 jarl [barbare](./Barbare.md) ou [rôdeur](./Rôdeur.md) de niveau 7-9 ; et 15-36 [loups arctiques](./Loup arctique.md), 13-22 [ogres](./Ogre.md) et 1-2 [jeunes dragons blancs](./Dragon blanc.md))}
+{s:BDTexte|**Organisation sociale** solitaire, bande (3-5), groupe (6-12 et 35% non-combattants et 1 [[adepte]] ou [[prêtre]] de niveau 1-2), groupe de pillards (6-12 et 35% non-combattants, 1 [[adepte]] ou [[ensorceleur]] de niveau 3-5, 1-4 [[loup arctique|loups arctiques]] et 2-3 [[ogre|ogres]]) ou tribu (21-30 et 1 [[adepte]], [[prêtre]] ou [[ensorceleur]] de niveau 6-7; 1 jarl [[barbare]] ou [[rôdeur]] de niveau 7-9 ; et 15-36 [[loup arctique|loups arctiques]], 13-22 [[ogre|ogres]] et 1-2 [[dragon blanc|jeunes dragons blancs]])}
 {s:BDTexte|**Trésor** standard (chemise de maille, grande hache, autres trésors)}
 
 
@@ -48,49 +48,49 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Géant de cendre](./Géant de cendre.md) || 11
+| [[Géant de cendre]] || 11
 |-
-| [Géant de la jungle](./Géant de la jungle.md) || 10
+| [[Géant de la jungle]] || 10
 |-
-| [Géant de la lune](./Géant de la lune.md) || 15
+| [[Géant de la lune]] || 15
 |-
-| [Géant de la taïga](./Géant de la taïga.md) || 12
+| [[Géant de la taïga]] || 12
 |-
-| [Géant de l'ombre](./Géant de lombre.md) || 13
+| [[Géant de lombre|Géant de l'ombre]] || 13
 |-
-| [Géant de pierre](./Géant de pierre.md) || 8
+| [[Géant de pierre]] || 8
 |-
-| [Géant des bois](./Géant des bois.md) || 6
+| [[Géant des bois]] || 6
 |-
-| [Géant des collines](./Géant des collines.md) || 7
+| [[Géant des collines]] || 7
 |-
-| [Géant des falaises](./Géant des falaises.md) || 9
+| [[Géant des falaises]] || 9
 |-
-| [Géant des grottes](./Géant des grottes.md) || 6
+| [[Géant des grottes]] || 6
 |-
-| [Géant des marais](./Géant des marais.md) || 8
+| [[Géant des marais]] || 8
 |-
-| [Géant des nuages](./Géant des nuages.md) || 11
+| [[Géant des nuages]] || 11
 |-
-| [Géant des océans](./Géant des océans.md) || 14
+| [[Géant des océans]] || 14
 |-
-| [Géant des rivières](./Géant des rivières.md) || 6
+| [[Géant des rivières]] || 6
 |-
-| [Géant des runes](./Géant des runes.md) || 17
+| [[Géant des runes]] || 17
 |-
-| [Géant des scories](./Géant des scories.md) || 7
+| [[Géant des scories]] || 7
 |-
-| [Géant des tempêtes](./Géant des tempêtes.md) || 13
+| [[Géant des tempêtes]] || 13
 |-
-| [Géant des éclipses](./Géant des éclipses.md) || 19
+| [[Géant des éclipses]] || 19
 |-
-| [Géant du désert](./Géant du désert.md) || 9
+| [[Géant du désert]] || 9
 |-
-| [Géant du feu](./Géant du feu.md) || 10
+| [[Géant du feu]] || 10
 |-
-| [Géant du froid](./Géant du froid.md) || 9
+| [[Géant du froid]] || 9
 |-
-| [Géant du soleil](./Géant du soleil.md) || 16
+| [[Géant du soleil]] || 16
 |}
 </div>*Ce géant ressemble à un humain robuste et musclé. Ses cheveux bleu clair sont tressés. Sa peau est blanche comme la glace.*
 
@@ -155,8 +155,8 @@ des groupes de géants du froid possèdent 1 ou 2 esclaves
 humanoïdes enchaînés à un maître-esclave (généralement,
 il s’agit de l’individu le plus méchant et le plus cruel du
 groupe, après le jarl). Ils apprécient également les animaux de
-compagnie monstrueux : [dragons blancs](./Dragon blanc.md), [loups arctiques](./Loup arctique.md), mais
-également [rémorhaz](./Rémorhaz.md), [yétis](./Yéti.md) ou même linnorms.
+compagnie monstrueux : [[Dragon blanc|dragons blancs]], [[Loup arctique|loups arctiques]], mais
+également [[rémorhaz]], [[Yéti|yétis]] ou même linnorms.
 </div></td></tr></table>
 
 {s:cm}
@@ -201,36 +201,36 @@ Voici quelques dons accessibles aux géants du froid.
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Balayage circulaire](./Balayage circulaire.md)* || <sup>CM</sup> || [For](./For.md) 15, [Enchaînement](./Enchaînement.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Arme de prédilection](./Arme de prédilection.md) (grande hache), [BBA](./BBA.md) +11 || Utilise Enchaînement pour tenter un croc-en-jambe contre tous les adversaires à portée
+| [[Balayage circulaire]]* || <sup>CM</sup> || [[For]] 15, [[Enchaînement]], [[Science du croc-en-jambe]], [[Arme de prédilection]] (grande hache), [[BBA]] +11 || Utilise Enchaînement pour tenter un croc-en-jambe contre tous les adversaires à portée
 
 |- CLASS="premier"
-| [Charge fabuleuse](./Charge fabuleuse.md)* || <sup>CM</sup> || [For](./For.md) 25, [Coup fabuleux](./Coup fabuleux.md), [Science de la bousculade](./Science de la bousculade.md), [Attaque en puissance](./Attaque en puissance.md) || Utilise Coup fabuleux après une attaque de charge réussie
+| [[Charge fabuleuse]]* || <sup>CM</sup> || [[For]] 25, [[Coup fabuleux]], [[Science de la bousculade]], [[Attaque en puissance]] || Utilise Coup fabuleux après une attaque de charge réussie
 
 |- CLASS="premier"
-| [Inimitié ancestrale](./Inimitié ancestrale.md)* || <sup>CM</sup> || [Sous-type géant](./sous-type géant.md) || +2 aux jets d'attaque contre les gnomes et les nains
+| [[Inimitié ancestrale]]* || <sup>CM</sup> || [[Sous-type géant]] || +2 aux jets d'attaque contre les gnomes et les nains
 
 |- CLASS="premier"
-| [Né du froid](./Né du froid.md) || <sup>CM</sup> || [Géant du froid](./Géant du froid.md) || Les attaques naturelles du personnage infligent des dégâts de froid
+| [[Né du froid]] || <sup>CM</sup> || [[Géant du froid]] || Les attaques naturelles du personnage infligent des dégâts de froid
 |-
-| &emsp;[Regard glacé](./Regard glacé.md) || <sup>CM</sup> || [Né du froid](./Né du froid.md), [géant du froid](./Géant du froid.md) || Le regard du personnage peut infliger des dégâts de froid
+| &emsp;[[Regard glacé]] || <sup>CM</sup> || [[Né du froid]], [[géant du froid]] || Le regard du personnage peut infliger des dégâts de froid
 |-
-| &emsp;[Rocher glacé](./Rocher glacé.md) || <sup>CM</sup> || [Né du froid](./Né du froid.md), [géant du froid](./Géant du froid.md) || Un objet jeté avec lancer de rocher inflige des dégâts supplémentaires de froid
+| &emsp;[[Rocher glacé]] || <sup>CM</sup> || [[Né du froid]], [[géant du froid]] || Un objet jeté avec lancer de rocher inflige des dégâts supplémentaires de froid
 
 |- CLASS="premier"
-| [Stable sur la glace](./Stable sur la glace.md) || <sup>CM</sup> || [Géant du froid](./Géant du froid.md) || Pas de malus de déplacement sur la glace et les surfaces enneigées
+| [[Stable sur la glace]] || <sup>CM</sup> || [[Géant du froid]] || Pas de malus de déplacement sur la glace et les surfaces enneigées
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Objets magiques
 On dit que ce sont les géants du froid qui ont créé les premiers objets magiques présentés ci-après et la plupart des exemplaires existants sont encore entre leurs mains. Nombre de héros téméraires ont essayé de pénétrer dans les places fortes des géants en quête de ces trésors magiques, escaladant de dangereuses falaises jusqu’au château ou au palais de glace perché au sommet. Les meilleurs ont même réussi à rentrer chez eux sans perdre de membre.
-- [Dent runique de loup arctique](./Dent runique de loup arctique.md)
-- [Gantelets de poigne de fer](./Gantelets de poigne de fer.md)
-- [Hache gèlesang](./Hache gèlesang.md)
-- [Lunettes perce-brume](./Lunettes perce-brume.md)
+- [[Dent runique de loup arctique]]
+- [[Gantelets de poigne de fer]]
+- [[Hache gèlesang]]
+- [[Lunettes perce-brume]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Sorts
 Voici les sorts que les géants du froid ont conçus pour les aider dans leurs chasses et leurs pillages au sein des contrées glacées.
-- ***[Nappe de glace](./Nappe de glace.md)*** *(CM)* ([Dru 2](./Druide.md), [Ens](./Ensorceleur.md)/[Mag 2](./Magicien.md), [Magus 2](./Magus.md), [Rôd 2](./Rôdeur.md), [Sor 2](./Sorcière.md)). Recouvre une zone de glace, infligeant des dégâts de froid et pouvant faire tomber les créatures s'y trouvant.
-- ***[Rocher magique](./Rocher magique.md)*** *(CM)* ([Dru 2](./Druide.md), [Prê 2](./Prêtre.md)). Comme pierre magique, mais avec des rochers.
+- ***[[Nappe de glace]]*** *(CM)* ([[Druide|Dru 2]], [[Ensorceleur|Ens]]/[[Magicien|Mag 2]], [[Magus|Magus 2]], [[Rôdeur|Rôd 2]], [[Sorcière|Sor 2]]). Recouvre une zone de glace, infligeant des dégâts de froid et pouvant faire tomber les créatures s'y trouvant.
+- ***[[Rocher magique]]*** *(CM)* ([[Druide|Dru 2]], [[Prêtre|Prê 2]]). Comme pierre magique, mais avec des rochers.
 </div></div>

@@ -9,14 +9,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [Illusion](./Illusion.md) ([hallucination](./branche hallucination.md)) ; **Niveau** [alchimiste](./Alchimiste.md) 2, [barde](./Barde.md) 2, [conjurateur](./Conjurateur.md)2, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 2, [inquisiteur](./Inquisiteur.md) 2, [magus](./Magus.md) 2, [sorcière](./Sorcière.md) 2  
+**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[alchimiste]] 2, [[barde]] 2, [[conjurateur]]2, [[ensorceleur]]/[[magicien]] 2, [[inquisiteur]] 2, [[magus]] 2, [[sorcière]] 2  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
 
-**Restriction de cible** *[choisi](./Choisi.md)*
+**Restriction de cible** *[[choisi]]*
 
-Cet effet fonctionne comme *[évanouissement](./Évanouissement.md)* mais sa durée est plus longue.
+Cet effet fonctionne comme *[[évanouissement]]* mais sa durée est plus longue.
 
 **Augmentation.** La cible ne devient pas visible si elle attaque ou si elle entreprend une action offensive. Augmenter ce mot effet améliore son niveau de 2.

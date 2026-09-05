@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 page 7*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille M, NM}
-{s:BDTexte|**Init** +3 ; **Sens** [perception aveugle](./perception aveugle.md) (6 cases) ; [vision dans le noir](./vision dans le noir.md) (12 cases) ; [vision nocturne](./vision nocturne.md) ; [odorat surdéveloppé](./Odorat surdéveloppé (capacité).md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille M, NM}
+{s:BDTexte|**Init** +3 ; **Sens** [[perception aveugle]] (6 cases) ; [[vision dans le noir]] (12 cases) ; [[vision nocturne]] ; [[Odorat surdéveloppé (capacité)|odorat surdéveloppé]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 12 (Dex +3, naturelle +2)}
 {s:BDTexte|**pv** 30 (4d10+8)}
@@ -28,19 +28,19 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 17, **Con** 14, **Int** 10, **Sag** 13, **Cha** 13}
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 20}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (lance), [Viser](./Viser.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Intimidation](./Intimidation.md) +8, [Natation](./Natation.md) +18, [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (lance), [[Viser]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Intimidation]] +8, [[Natation]] +18, [[Perception]] +8}
 {s:BDTexte|**Langues** aquatique, commun, communication avec les requins}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md), utilisation des poisons}
+{s:BDTexte|**Particularités** [[amphibie]], utilisation des poisons}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans chauds}
 {s:BDTexte|**Organisation sociale** solitaire, groupe de chasse (2-6) ou tribu (7-12)}
 {s:BDTexte|**Trésor** standard (3 lances, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Communication avec les requins (Sur).** L’adaro peut entrer en communication télépathique avec les requins situés à une distance maximale de 30 m. Cette communication est limitée à des concepts simples tels que « viens », « défends », « attaque ».}
-{s:BDTexte|**Frénésie de la pluie (Sur).** Les adaros révèrent les tempêtes et leur soif de sang s’amplifie de manière exponentielle lorsqu’il pleut. Quand ils se battent sous la pluie ou pendant une tempête, les adaros agissent comme s’ils étaient sous l’influence du sort *[rage](./Rage.md)*. L’adaro bénéficie de cet avantage même s’il se trouve sous l’eau, mais seulement tant qu’il reste à une action de déplacement de la surface (15 m pour la plupart des adaros).}
+{s:BDTexte|**Frénésie de la pluie (Sur).** Les adaros révèrent les tempêtes et leur soif de sang s’amplifie de manière exponentielle lorsqu’il pleut. Quand ils se battent sous la pluie ou pendant une tempête, les adaros agissent comme s’ils étaient sous l’influence du sort *[[rage]]*. L’adaro bénéficie de cet avantage même s’il se trouve sous l’eau, mais seulement tant qu’il reste à une action de déplacement de la surface (15 m pour la plupart des adaros).}
 {s:BDTexte|**Poison (Ext).** Les adaros utilisent une toxine paralysante sécrétée par les poissons-globes hérissons : il s’agit d’un venin collant qui ne dissout pas dans l’eau.}
-{s:BDTexte|**Tétradotoxine.** lance — blessure ; JdS [Vigueur](./Vigueur.md) DD 15 ; fréquence 1/minute pendant 4 minutes ; effet [paralysé](./Paralysé.md) pendant 1 minute ; guérison 2 réussites consécutives.}
+{s:BDTexte|**Tétradotoxine.** lance — blessure ; JdS [[Vigueur]] DD 15 ; fréquence 1/minute pendant 4 minutes ; effet [[paralysé]] pendant 1 minute ; guérison 2 réussites consécutives.}
 {s:BDTexte|**Utilisation des poisons (Ext).** Les adaros sont rompus à l’utilisation du poison et ne risquent jamais de s’empoisonner accidentellement.}
 
 </div>

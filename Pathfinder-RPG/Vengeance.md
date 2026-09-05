@@ -11,11 +11,11 @@ Categories:
 
 {s:GC}*Vous avez un tel besoin de venger ceux que vous aimiez que vous accomplissez de grands exploits.*
 
-**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+**Catégorie.** [[Dons#DONHISTOIRE|histoire]]
 
-**Conditions.** Il faut qu’un membre de votre famille ou un être cher se fasse tuer par un adversaire de valeur ou ses sbires. Sinon, vous devez avoir l’[historique](./Générateur dhistorique.md) Pillards ou Vengeance.
+**Conditions.** Il faut qu’un membre de votre famille ou un être cher se fasse tuer par un adversaire de valeur ou ses sbires. Sinon, vous devez avoir l’[[Générateur dhistorique|historique]] Pillards ou Vengeance.
 
-**Avantages.** Vous gagnez un bonus de +1 aux [jets de sauvegarde](./JDS.md), [d’attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) des armes contre votre adversaire et les gens que vous savez à son service.
+**Avantages.** Vous gagnez un bonus de +1 aux [[jds|jets de sauvegarde]], [[jet dattaque|d’attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] des armes contre votre adversaire et les gens que vous savez à son service.
 
 **Objectif.** Contrecarrer les plans de votre adversaire.
 

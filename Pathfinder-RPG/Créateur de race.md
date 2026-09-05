@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-<div style="float:right; margin:8px 6px 0px 10px">***Voir des [exemples de création de race](./Créateur de race, Exemples.md).***</div>Ce créateur de races vous permet de créer de nouvelles races en achetant des particularités raciales et des traits raciaux avec des points de race (PR). Il y a de nombreuses différences entre les particularités raciales et les traits raciaux. La principale étant que les particularités raciales sont obligatoires (vous devez en choisir une pour chaque catégorie de particularités raciales indiquées dans ces règles), tandis que les traits raciaux sont optionnels. Il existe six catégories de particularités raciales incluant le type, le sous-type (s’il y en a un), la taille, la vitesse de base, les modificateurs de caractéristiques et les langues. Les traits raciaux présentent un certain nombre d’options intéressantes pour la race que vous créez, des modes de déplacement étendus aux bonus de tests de compétence en passant par des pouvoirs encore plus étranges comme, par exemple, une attaque de coassement effrayante ou la capacité à changer de forme. Les traits raciaux sont répartis en différentes catégories comme la défense, l’attaque et les traits magiques.
+<div style="float:right; margin:8px 6px 0px 10px">***Voir des [[Créateur de race, Exemples|exemples de création de race]].***</div>Ce créateur de races vous permet de créer de nouvelles races en achetant des particularités raciales et des traits raciaux avec des points de race (PR). Il y a de nombreuses différences entre les particularités raciales et les traits raciaux. La principale étant que les particularités raciales sont obligatoires (vous devez en choisir une pour chaque catégorie de particularités raciales indiquées dans ces règles), tandis que les traits raciaux sont optionnels. Il existe six catégories de particularités raciales incluant le type, le sous-type (s’il y en a un), la taille, la vitesse de base, les modificateurs de caractéristiques et les langues. Les traits raciaux présentent un certain nombre d’options intéressantes pour la race que vous créez, des modes de déplacement étendus aux bonus de tests de compétence en passant par des pouvoirs encore plus étranges comme, par exemple, une attaque de coassement effrayante ou la capacité à changer de forme. Les traits raciaux sont répartis en différentes catégories comme la défense, l’attaque et les traits magiques.
 
 Avant d’acheter les particularités et les traits raciaux, vous devez définir le niveau de puissance de votre race. Le MJ le décide selon les besoins de sa campagne. Le niveau de puissance de la race détermine le nombre de PR dont vous disposez pour sa construction, ainsi que le nombre maximum de traits raciaux que vous pouvez choisir dans chaque catégorie de traits raciaux et quel type de traits vous pouvez y choisir.
 
@@ -69,9 +69,9 @@ Si vous utilisez ces règles, mais n’êtes pas le MJ, assurez-vous d’œuvrer
 ### Étape 2 : Particularités raciales
 L’étape suivante consiste à choisir les particularités de votre race. Vous devez choisir une option dans chacune des catégories de particularités suivantes. Ces particularités ou certains de leurs aspects servent souvent de conditions requises pour les traits raciaux.
 
-Voir les [particularités raciales](./Créateur de race, Particularités raciales.md).
+Voir les [[Créateur de race, Particularités raciales|particularités raciales]].
 
 ### Étape 3 : Traits raciaux
 Après avoir choisi toutes vos particularités raciales, vous pouvez alors choisir vos traits raciaux avec les PR qu’il vous reste.
 
-Voir les [traits raciaux](./Créateur de race, Traits raciaux.md).
+Voir les [[Créateur de race, Traits raciaux|traits raciaux]].

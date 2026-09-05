@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 15 po ; **Poids** 5 kg<sup>[1](./Outils de compétences.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+{s:AE}**Prix** 15 po ; **Poids** 5 kg<sup>[[Outils de compétences#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Cette trousse contient plusieurs ensembles d’objets parfaitement équilibrés tels que des balles, des gourdins, des couteaux, des anneaux et des torches. Elle accorde un bonus de +1 aux tests de [Représentation](./Représentation.md) (scène ou farce) et aux tests impliquant le jonglage.
+Cette trousse contient plusieurs ensembles d’objets parfaitement équilibrés tels que des balles, des gourdins, des couteaux, des anneaux et des torches. Elle accorde un bonus de +1 aux tests de [[Représentation]] (scène ou farce) et aux tests impliquant le jonglage.

@@ -5,4 +5,4 @@ LastModified: 2010-07-16 16:13
 RedirectTo: Pathfinder-RPG.actions
 ---
 
->>> [Pathfinder-RPG.actions](./actions.md)
+>>> [[Pathfinder-RPG.actions]]

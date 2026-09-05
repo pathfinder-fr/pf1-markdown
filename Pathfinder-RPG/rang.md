@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Compétences#ACQUERIR
 ---
 
->>> [Compétences#ACQUERIR](./Compétences.md#ACQUERIR)
+>>> [[Compétences#ACQUERIR]]

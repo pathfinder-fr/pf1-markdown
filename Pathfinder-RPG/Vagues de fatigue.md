@@ -13,18 +13,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Hyp](./Hypnotiseur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5, [Spi](./Spirite.md) 5  
+**École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** 9 m (6 {s:c})  
 
-**Effet** [rayonnement](./rayonnement.md) en forme de cône  
+**Effet** [[rayonnement]] en forme de cône  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Des vagues d’[énergie négative](./Énergie négative.md) [fatiguent](./Fatigué.md) toutes les créatures situées dans la zone. Ce sort n’a aucun effet sur les créatures déjà [fatiguées](./Fatigué.md).
+Des vagues d’[[énergie négative]] [[fatigué|fatiguent]] toutes les créatures situées dans la zone. Ce sort n’a aucun effet sur les créatures déjà [[fatigué|fatiguées]].

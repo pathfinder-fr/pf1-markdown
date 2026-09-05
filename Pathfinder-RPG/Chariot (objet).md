@@ -8,7 +8,7 @@ Categories:
 ---
 
 {s:AE}**Prix** 50 po (léger), 100 po (intermédiaire), 200 po (lourd) ; **Passage (1,5 km)** 2 cp (léger), 2 cp (intermédiaire), 2 cp (lourd)
-<span class="Catégorie">**Catégorie** [Moyens de transport](./Moyens de transport.md)</span>
+<span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
 ---
 Ce véhicule ouvert à quatre roues sert à transporter des chargements lourds. Il est livré avec un harnais permettant de le tracter. Il existe trois types courants de chariots.  
   

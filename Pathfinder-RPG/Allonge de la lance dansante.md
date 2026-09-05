@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vous pouvez frapper de loin avec les armes doubles.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 17, [Spirale de la lance dansante](./Spirale de la lance dansante.md), [École de la lance dansante](./École de la lance dansante.md), [Attaque en finesse](./Attaque en finesse.md), [Combat à deux armes](./Combat à deux armes.md), [Arme de prédilection](./Arme de prédilection.md) avec l'arme choisie
+**Conditions.** [[Dex]] 17, [[Spirale de la lance dansante]], [[École de la lance dansante]], [[Attaque en finesse]], [[Combat à deux armes]], [[Arme de prédilection]] avec l'arme choisie
 
-**Avantages.** Lorsque le personnage utilise l'[École de la lance dansante](./École de la lance dansante.md) et initie une [attaque à outrance](./attaque à outrance.md) en utilisant l'arme choisie comme une arme [double](./Caractéristiques des armes.md#DOUBLE), il peut ajouter l'attribut d'[allonge](./Caractéristiques des armes.md#ALLONGE) à une ou aux deux extrémités de l'arme jusqu'à la fin de son tour par une [action rapide](./Action rapide.md).
+**Avantages.** Lorsque le personnage utilise l'[[École de la lance dansante]] et initie une [[attaque à outrance]] en utilisant l'arme choisie comme une arme [[Caractéristiques des armes#DOUBLE|double]], il peut ajouter l'attribut d'[[Caractéristiques des armes#ALLONGE|allonge]] à une ou aux deux extrémités de l'arme jusqu'à la fin de son tour par une [[action rapide]].

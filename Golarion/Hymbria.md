@@ -9,6 +9,6 @@ Categories:
 ---
 
 {s:Ville|Mimere|||Village|?|?||?|?|{s:DescElem|**Feriel Nellmyr** (elfe, m, roublard 7, N)}}
-Le royaume d'Hymbria est une région forestière du sud des [Royaumes Fluviaux](./Royaumes fluviaux.md), à la limite de la forêt d'Embeth et du territoire de [Gralton](./Gralton.md).
+Le royaume d'Hymbria est une région forestière du sud des [[Royaumes Fluviaux]], à la limite de la forêt d'Embeth et du territoire de [[Gralton]].
 
 Le territoire est interdit aux non-elfes, et même à certains d'entre eux qui ne sont pas issus de la région. Pour cette raison, on n'a que très peu de connaissances sur Hymbria. On notera tout de même qu'elle est dirigée par Feriel Nellmyr et que sa capitale s'appelle Mimere.

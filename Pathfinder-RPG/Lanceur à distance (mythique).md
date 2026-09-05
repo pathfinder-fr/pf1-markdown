@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Grâce à la force du personnage, la portée des armes de jet qu’il lance est pratiquement illimitée.*
 
-**Condition.** 17 en [Force](./Force.md), [Lanceur à distance](./Lanceur à distance.md)
+**Condition.** 17 en [[Force]], [[Lanceur à distance]]
 
 **Avantage.** Les armes de jet propulsées par le personnage voient leur portée normale doubler.

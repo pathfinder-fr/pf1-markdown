@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Spriggan#TAILLEG
 ---
 
->>> [Spriggan#TAILLEG](./Spriggan.md#TAILLEG)
+>>> [[Spriggan#TAILLEG]]

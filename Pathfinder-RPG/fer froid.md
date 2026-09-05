@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#FERFROID
 ---
 
->>> [Matériaux spéciaux#FERFROID](./Matériaux spéciaux.md#FERFROID)
+>>> [[Matériaux spéciaux#FERFROID]]

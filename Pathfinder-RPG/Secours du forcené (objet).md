@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 25 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
 ---
-Ce paquet rempli de feuilles à bords dentés dégage une odeur piquante presque assez forte pour faire pleurer le personnage. Lorsque celui-ci mâche les feuilles, il ignore les effets de [fatigue](./Fatigué.md). L’effet des feuilles dure 6 [rounds](./round.md), après quoi ne reste qu’une boulette de pulpe. Quand l’effet du secours du forcené se dissipe, le personnage est [épuisé](./Épuisé.md) plutôt que fatigué.
+Ce paquet rempli de feuilles à bords dentés dégage une odeur piquante presque assez forte pour faire pleurer le personnage. Lorsque celui-ci mâche les feuilles, il ignore les effets de [[fatigué|fatigue]]. L’effet des feuilles dure 6 [[round|rounds]], après quoi ne reste qu’une boulette de pulpe. Quand l’effet du secours du forcené se dissipe, le personnage est [[épuisé]] plutôt que fatigué.

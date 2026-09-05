@@ -8,6 +8,6 @@ Categories:
 
 {s:um}*Contrairement à d’autres adeptes du serment contre les morts-vivants, l’obsession du personnage pour les morts-vivants n’obscurcit pas ses capacités à différencier le bien du mal. *
 
-**Condition.** Pouvoir de [paladin](./Paladin.md) [détection des morts-vivants](./Détection des morts-vivants.md)
+**Condition.** Pouvoir de [[paladin]] [[détection des morts-vivants]]
 
-**Avantage.** Le personnage bénéficie de *[détection du mal](./Détection du Mal.md)*. Il peut utiliser ce pouvoir ou *[détection des morts-vivants](./Détection des morts-vivants.md)* mais pas les deux à la fois.
+**Avantage.** Le personnage bénéficie de *[[détection du mal]]*. Il peut utiliser ce pouvoir ou *[[détection des morts-vivants]]* mais pas les deux à la fois.

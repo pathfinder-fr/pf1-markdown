@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Inconscient
 ---
 
->>> [États préjudiciables#Inconscient](./États préjudiciables.md#Inconscient)
+>>> [[États préjudiciables#Inconscient]]

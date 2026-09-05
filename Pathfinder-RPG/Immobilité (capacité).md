@@ -8,7 +8,7 @@ La créature peut se maintenir si
 parfaitement immobile qu’elle semble être un objet inanimé
 (selon sa forme, elle peut avoir l’apparence d’une statue ou d’un
 tapis de champignons par exemple). La créature peut « faire 20 »
-sur ses tests de [Discrétion](./Discrétion.md) pour se fondre dans le décor comme
+sur ses tests de [[Discrétion]] pour se fondre dans le décor comme
 objet inanimé.
 
 *Format :* immobilité. *Emplacement :* Particularités.

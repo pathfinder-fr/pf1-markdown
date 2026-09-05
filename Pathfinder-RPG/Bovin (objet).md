@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 10-50 po ; **Poids** 750 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
 Les bovins sont élevés pour leur lait et leur viande et sont utilisés comme bêtes de somme. Le taureau sert surtout pour la reproduction. Les autres mâles sont castrés pour devenir des bœufs que l’on utilise pour porter des chargements et labourer les champs.

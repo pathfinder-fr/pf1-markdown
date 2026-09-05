@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-La ville de Kalsgard est située sur les rive des [Flots de Givre](./Flots-de-Givre.md) au nord-est des [Terres des Rois des Linnorms](./Terres des Rois des Linnorms.md).
+La ville de Kalsgard est située sur les rive des [[Flots de Givre]] au nord-est des [[Terres des Rois des Linnorms]].
 
 Kalsgard est la plus grande ville du pays et la plus cosmopolite. Elle abrite plusieurs communautés naines, gnomes, varisiennes et d'autres peuples venus de plus loin encore.
 
-Kalsgard est aussi le siège du plus ancien et du plus puissant Roi des Linnorms : Svienn Sang d'Aigle. Mais on dit de plus en plus qu'il s'apprête à faire son dernier voyage vers Valenhall, en [Arcadie](./Arcadie.md), ainsi que la tradition des Rois Linnorms l'exige.
+Kalsgard est aussi le siège du plus ancien et du plus puissant Roi des Linnorms : Svienn Sang d'Aigle. Mais on dit de plus en plus qu'il s'apprête à faire son dernier voyage vers Valenhall, en [[Arcadie]], ainsi que la tradition des Rois Linnorms l'exige.

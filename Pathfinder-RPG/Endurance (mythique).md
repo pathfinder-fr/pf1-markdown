@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *L’endurance du personnage dépasse véritablement les limites physiques naturelles.*
 
-**Condition.** [Endurance](./Endurance.md)
+**Condition.** [[Endurance]]
 
-**Avantage.** Le bonus aux tests et aux jets de sauvegarde conférés par [Endurance](./Endurance.md) augmente de la moitié du [grade](./Grade.md) du personnage. Il subit la moitié des dégâts lorsqu’il rate un test effectué pour éviter les dégâts non-létaux infligés par une marche forcée, la faim ou la soif, les environnements chauds ou froids, ou l’asphyxie. Le personnage peut dormir en armure lourde sans être fatigué le lendemain.
+**Avantage.** Le bonus aux tests et aux jets de sauvegarde conférés par [[Endurance]] augmente de la moitié du [[grade]] du personnage. Il subit la moitié des dégâts lorsqu’il rate un test effectué pour éviter les dégâts non-létaux infligés par une marche forcée, la faim ou la soif, les environnements chauds ou froids, ou l’asphyxie. Le personnage peut dormir en armure lourde sans être fatigué le lendemain.

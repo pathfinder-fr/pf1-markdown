@@ -13,9 +13,9 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.35*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Duergar](./Duergar.md) [roublard](./Roublard.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([nain](./sous-type nain.md)) de taille M, LM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [Perception](./Perception.md) +7}
+{s:BDTexte|[[Duergar]] [[roublard]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type nain|nain]]) de taille M, LM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}), [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (armure +3, Dex +2)}
 {s:BDTexte|**pv** 10 (1d8+2)}
@@ -26,17 +26,17 @@ Categories:
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** épée courte, +1 (1d6+1/19-20) ou matraque, +1 (1d6+1 non-létaux)}
 {s:BDTexte|**Distance** arbalète légère de maître, +3 (1d8/19-20)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +1d6}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 1 ; [concentration](./concentration.md) –2)}
-{s:BDSorts|1/jour — *[agrandissement](./Agrandissement.md)* (sur soi uniquement), *[invisibilité](./Invisibilité.md)* (sur soi uniquement)}
+{s:BDTexte|**Attaques spéciales** [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +1d6}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 1 ; [[concentration]] –2)}
+{s:BDSorts|1/jour — *[[agrandissement]]* (sur soi uniquement), *[[invisibilité]]* (sur soi uniquement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 15, **Con** 12, **Int** 12, **Sag** 16, **Cha** 4}
 {s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 13 (17 contre la bousculade ou le croc-en-jambe)}
-{s:BDTexte|**Dons** [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +5, [Connaissances](./Connaissances.md) (exploration souterraine) +5, [Discrétion](./Discrétion.md) +5, [Escalade](./Escalade.md) +4, [Évasion](./Évasion.md) +5, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7, [Sabotage](./Sabotage.md) +5, [Survie](./Survie.md) +4}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +5, [[Connaissances]] (exploration souterraine) +5, [[Discrétion]] +5, [[Escalade]] +4, [[Évasion]] +5, [[Perception]] +7, [[Psychologie]] +7, [[Sabotage]] +5, [[Survie]] +4}
 {s:BDTexte|**Langues** commun, commun des profondeurs, nain}
-{s:BDTexte|**Particularités** [lentement mais sûrement](./Duergar.md), [recherche des pièges](./Roublard.md#RECHERCHEDESPIEGES) +1,  [stabilité](./Duergar.md)}
-{s:BDTexte|**Équipement divers** [cuir clouté](./armure de cuir cloutée (armure).md), [arbalète légère de maître](./Arbalète légère (arme).md) avec [20 carreaux](./Carreaux darbalète (arme).md), [matraque](./matraque (arme).md), [épée courte](./épée courte (arme).md), 18 po}
+{s:BDTexte|**Particularités** [[Duergar|lentement mais sûrement]], [[Roublard#RECHERCHEDESPIEGES|recherche des pièges]] +1,  [[Duergar|stabilité]]}
+{s:BDTexte|**Équipement divers** [[Armure de cuir cloutée (armure)|cuir clouté]], [[arbalète légère (arme)|arbalète légère de maître]] avec [[Carreaux darbalète (arme)|20 carreaux]], [[matraque (arme)|matraque]], [[épée courte (arme)|épée courte]], 18 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -44,31 +44,31 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Duergar](./Duergar.md) || 1/3
+| [[Duergar]] || 1/3
 |-
-| [Esclavagiste duergar](./Esclavagiste duergar.md) || 1/2
+| [[Esclavagiste duergar]] || 1/2
 |-
-| [Tireur d'élite duergar](./Tireur délite duergar.md) || 1/2
+| [[Tireur délite duergar|Tireur d'élite duergar]] || 1/2
 |-
-| [Bombardier duergar](./Bombardier duergar.md) || 1
+| [[Bombardier duergar]] || 1
 |-
-| [Enclume duergar](./Enclume duergar.md) || 1
+| [[Enclume duergar]] || 1
 |-
-| [Sergent duergar](./Sergent duergar.md) || 1
+| [[Sergent duergar]] || 1
 |-
-| [Scarabée crache-noir](./Scarabée crache-noir.md) || 3
+| [[Scarabée crache-noir]] || 3
 |-
-| [Lieutenant duergar](./Lieutenant duergar.md) || 5
+| [[Lieutenant duergar]] || 5
 |-
-| [Capitaine duergar](./Capitaine duergar.md) || 8
+| [[Capitaine duergar]] || 8
 |-
-| [Maître de corvée duergar](./Maître de corvée duergar.md) || 9
+| [[Maître de corvée duergar]] || 9
 |-
-| [Marteau duergar](./Marteau duergar.md) || 11
+| [[Marteau duergar]] || 11
 |-
-| [Grand prêtre duergar](./Grand prêtre duergar.md) || 12
+| [[Grand prêtre duergar]] || 12
 |-
-| [Scarabée juggernaut](./Scarabée juggernaut.md) || 14
+| [[Scarabée juggernaut]] || 14
 |-
 |}
 </div> Les roublards duergars sont avant tout chargés de capturer

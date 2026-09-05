@@ -17,18 +17,18 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Divination](./école divination.md) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Antipal](./Antipaladin.md) 2, [Bard](./Barde.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 3, [Méd](./Médium.md) 2, [Pal](./Paladin.md) 3, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, F/DF](./composantes.md) (un médaillon)
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 2, [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 3, [[Médium|Méd]] 2, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, F/DF]] (un médaillon)
 **Portée** 18 m
-**Zone d'effet** [émanation](./émanation.md) en forme de cône
-**Durée** [concentration](./Présentation des sorts.md#DUREE), jusqu'à 1 minute/niveau (T)
+**Zone d'effet** [[émanation]] en forme de cône
+**Durée** [[Présentation des sorts#DUREE|concentration]], jusqu'à 1 minute/niveau (T)
 **Jet de sauvegarde** Volonté, annule (voir description) ; **Résistance à la magie** non
 
-Ce sort fonctionne comme *[détection des pensées](./détection des pensées.md)* excepté que le personnage détecte les pires angoisses des créatures avec une valeur d'[Intelligence](./Intelligence.md) de 1 ou plus, qu'elles soient conscientes ou non.
+Ce sort fonctionne comme *[[détection des pensées]]* excepté que le personnage détecte les pires angoisses des créatures avec une valeur d'[[Intelligence]] de 1 ou plus, qu'elles soient conscientes ou non.
 
-Plutôt que la valeur d'[Intelligence](./Intelligence.md), le deuxième round de concentration révèle la valeur de [Sagesse](./Sagesse.md) de chaque esprit et son degré de peur actuel ([secoué](./Secoué.md), [effrayé](./Effrayé.md), [paniqué](./Paniqué.md), [recroquevillé](./Recroquevillé.md) ou [paralysé](./Paralysé.md) par la peur). Si la valeur de Sagesse la plus élevée est de 26 ou plus (et d'au moins 10 points supérieure à celle du personnage), le personnage est [étourdi](./Étourdi.md) pendant 1 round et le sort se termine.
+Plutôt que la valeur d'[[Intelligence]], le deuxième round de concentration révèle la valeur de [[Sagesse]] de chaque esprit et son degré de peur actuel ([[secoué]], [[effrayé]], [[paniqué]], [[recroquevillé]] ou [[paralysé]] par la peur). Si la valeur de Sagesse la plus élevée est de 26 ou plus (et d'au moins 10 points supérieure à celle du personnage), le personnage est [[étourdi]] pendant 1 round et le sort se termine.
 
-Plutôt que les pensées superficielles, le troisième round de concentration révèle l'angoisse actuelle la plus intense de chaque esprit dans la zone ([Volonté](./Volonté.md) annule).
+Plutôt que les pensées superficielles, le troisième round de concentration révèle l'angoisse actuelle la plus intense de chaque esprit dans la zone ([[Volonté]] annule).
 
-Utiliser le poids de ses angoisses contre une créature offre au personnage un bonus de +2 (ou plus, à la discrétion du [MJ](./MJ.md)) aux tests d'[Intimidation](./Intimidation.md) effectués contre cette créature.
+Utiliser le poids de ses angoisses contre une créature offre au personnage un bonus de +2 (ou plus, à la discrétion du [[MJ]]) aux tests d'[[Intimidation]] effectués contre cette créature.

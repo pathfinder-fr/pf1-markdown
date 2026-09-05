@@ -17,7 +17,7 @@ mêmes.
 Pour beaucoup de créatures défigurées par la couleur, cette mort reste le seul moyen d’échapper à une vie de souffrances.
 </div>
 </td><td><div>
-Voir aussi [Couleur tombée du ciel](./Couleur tombée du ciel.md)
+Voir aussi [[Couleur tombée du ciel]]
 
 
 </div></td></tr></table>

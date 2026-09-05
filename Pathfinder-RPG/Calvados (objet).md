@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 8 pc (la chope), 4 pa (le gallon) ; **Poids** 0,5 kg (la chope), 4 kg (le gallon)
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Cette version plus forte du cidre brut est généralement fabriquée à partir de cidre brut que l’on fait geler pendant les froids d’hiver et dont on retire ensuite la glace afin d’extraire l’essentiel de l’eau du cidre et de concentrer l’alcool.

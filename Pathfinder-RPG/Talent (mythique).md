@@ -12,8 +12,8 @@ Categories:
 {s:cmy}
 *La maîtrise du personnage dans la compétence concernée, même dans les situations les plus compliquées, est sans pareille.*
 
-**Condition.** [Talent](./Talent.md)
+**Condition.** [[Talent]]
 
-**Avantage.** Le personnage peut toujours faire 10 ou 20 aux tests de la compétence concernée par le don [Talent](./Talent.md), même s’il est menacé ou ne peut pas prendre son temps.
+**Avantage.** Le personnage peut toujours faire 10 ou 20 aux tests de la compétence concernée par le don [[Talent]], même s’il est menacé ou ne peut pas prendre son temps.
 
-**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un don de Talent [non-mythique](./non-mythique.md) différent.
+**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un don de Talent [[non-mythique]] différent.

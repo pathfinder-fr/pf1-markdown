@@ -7,6 +7,6 @@ Categories:
 - Src Bestiaire 2
 ---
 
-La créature peut voir parfaitement bien dans les ténèbres normales ou magiques, y compris celles créées par un sort de *[ténèbres profondes](./Ténèbres profondes.md)*.
+La créature peut voir parfaitement bien dans les ténèbres normales ou magiques, y compris celles créées par un sort de *[[ténèbres profondes]]*.
 
 *Format* : vision dans les ténèbres. *Emplacement* : Sens.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Exploration#SOLIDITE
 ---
 
->>> [Exploration#SOLIDITE](./Exploration.md#SOLIDITE)
+>>> [[Exploration#SOLIDITE]]

@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Créature magique|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 162*}
 - 2 457 600 PX
-- [Créature magique](./type Créature magique.md) ([kaiju](./sous-type kaiju.md), [Terre](./sous-type Terre.md)) de taille C, CN
+- [[type créature magique|Créature magique]] ([[sous-type kaiju|kaiju]], [[sous-type terre|Terre]]) de taille C, CN
 - **Init **+9 ; **Sens **vision dans le noir à 180 m, vision nocturne, perception des vibrations à 180 m ; Perception +37
 (((Défense)))
 - **CA **44, contact 7, pris au dépourvu 39 (Dex +5, naturelle +37, taille -8)
@@ -29,8 +29,8 @@ Categories:
 (((Statistiques)))
 - **For **47, **Dex** 20, **Con **40, **Int **3, **Sag **26, **Cha **23
 - **BBA **+30 ; **BMO **+56 (+60 en bousculade, +60 en lutte) ; **DMD** 71 (73 contre la bousculade, 83 contre le croc-en-jambe)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Bousculade supérieure](./Bousculade supérieure.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive](./Frappe décisive.md) , [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science des réflexes surhumains](./Science des réflexes surhumains.md), [Science du critique](./Science du critique.md) (dard), [Science du critique](./Science du critique.md) (griffe), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Discrétion](./Discrétion.md) +2 (+32 lorsqu’il creuse), [Escalade](./Escalade.md) +31, [Perception](./Perception.md) +37 ; 
+- **Dons **[[Attaque en puissance]], [[Attaques réflexes]], [[Bousculade supérieure]], [[Critique ralentissant]], [[Don pour les critiques]], [[Frappe décisive]] , [[Frappe décisive supérieure]], [[Réflexes surhumains]], [[science de linitiative|Science de l’initiative]], [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science des réflexes surhumains]], [[Science du critique]] (dard), [[Science du critique]] (griffe), [[Volonté de fer]]
+- **Compétences **[[Discrétion]] +2 (+32 lorsqu’il creuse), [[Escalade]] +31, [[Perception]] +37 ; 
 - **Modificateurs raciaux** +30 en Discrétion lorsqu’il creuse, +16 en Perception
 - **Langues **terreux (ne sait pas parler)
 - **Particularités **énorme, ne respire pas
@@ -47,7 +47,7 @@ Les effets ultérieurs de cette nature, qui s’activent après l’échec du je
 - **Toiles (Ext)**. Les toiles que crée Bézravnis sont immunisées au feu. De plus, ce sont des entités semi-vivantes qui continuent d’écraser les créatures qu’elles enchevêtrent. Si une créature est enchevêtrée dans les toiles au début de son tour, elle subit 2d6+6 points de dégâts contondants tandis que ces toiles l’écrasent. Ce pouvoir fonctionne par ailleurs de la même façon que le pouvoir décrit dans les règles universelles de monstre.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [kaijus](./Kaijus.md).***</li></ul>*L’épaisse carapace de cet immense scorpion à trois queues est rouge vive et ses dards luisent sous l’action d’une chaleur intense.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Kaijus]].***</li></ul>*L’épaisse carapace de cet immense scorpion à trois queues est rouge vive et ses dards luisent sous l’action d’une chaleur intense.*
 
 Bézravnis, ou la Fournaise venue d’en bas, rôde sous les sables
 d’un désert peu peuplé de haute altitude qui s’étend à l’ombre de la

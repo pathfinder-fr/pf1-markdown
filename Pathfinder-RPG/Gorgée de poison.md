@@ -10,13 +10,13 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 5, [Cham](./Chaman.md) 5, [Dru](./Druide.md) 5, [Sor](./Sorcière.md) 5
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** [personnelle](./personnelle.md)
+{s:cs}{s:UI}**École**  [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Chaman|Cham]] 5, [[Druide|Dru]] 5, [[Sorcière|Sor]] 5
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** [[personnelle]]
 **Cibles** le lanceur de sort
 **Durée** 1 heure/niveau ou jusqu'à déchargement
 
-Une glande spéciale qui absorbe tout poison ingéré et peut être utilisé pour les expulser dans une aspersion toxique pousse à l'intérieure de la gorge du personnage. Chaque fois qu'il consomme un poison d'ingestion pendant la durée du sort, il peut effectuer un test de [niveau de lanceur de sorts](./NLS.md) contre le [DD](./DD.md) de sauvegarde du poison afin de l'absorber sans danger, ignorant ainsi ses effets. Le sort peut absorber jusqu'à 1 dose de poison par tranche de 3 niveaux de lanceur de sorts, après quoi la glande devient incapable de traiter d'autres poisons et toute nouvelle dose de poison d'ingestion consommée affecte le personnage normalement.
+Une glande spéciale qui absorbe tout poison ingéré et peut être utilisé pour les expulser dans une aspersion toxique pousse à l'intérieure de la gorge du personnage. Chaque fois qu'il consomme un poison d'ingestion pendant la durée du sort, il peut effectuer un test de [[NLS|niveau de lanceur de sorts]] contre le [[DD]] de sauvegarde du poison afin de l'absorber sans danger, ignorant ainsi ses effets. Le sort peut absorber jusqu'à 1 dose de poison par tranche de 3 niveaux de lanceur de sorts, après quoi la glande devient incapable de traiter d'autres poisons et toute nouvelle dose de poison d'ingestion consommée affecte le personnage normalement.
 
-Les doses absorbées sont stockées à l'intérieur de la glande, et le personnage peut mettre fin au sort pour expulser une dose de poison de sa bouche par une [action simple](./Action simple.md). L'expulsion propage le poison dans un cône de 4.5 m. Chaque créature dans la zone doit réussir un jet de [Réflexes](./Réflexes.md) (contre le [DD](./DD.md) de *gorgée de poison*) ou être exposée au poison expulsé, qui est alors traité comme un poison de contact. Toutes les statistiques du poison à part son type, y compris sa fréquence, son effet et son DD de sauvegarde ne sont pas affectées par ce sort. Les autres doses de poison absorbées deviennent inertes lorsque le personnage met fin au sort. Si le sort se termine sans que le personnage n'ait expulsé de poison, tous les poisons absorbés deviennent également inertes.
+Les doses absorbées sont stockées à l'intérieur de la glande, et le personnage peut mettre fin au sort pour expulser une dose de poison de sa bouche par une [[action simple]]. L'expulsion propage le poison dans un cône de 4.5 m. Chaque créature dans la zone doit réussir un jet de [[Réflexes]] (contre le [[DD]] de *gorgée de poison*) ou être exposée au poison expulsé, qui est alors traité comme un poison de contact. Toutes les statistiques du poison à part son type, y compris sa fréquence, son effet et son DD de sauvegarde ne sont pas affectées par ce sort. Les autres doses de poison absorbées deviennent inertes lorsque le personnage met fin au sort. Si le sort se termine sans que le personnage n'ait expulsé de poison, tous les poisons absorbés deviennent également inertes.

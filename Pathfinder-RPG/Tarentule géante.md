@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.35}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille Gig, N}
-{s:BDTexte|**Init** +1 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] de taille Gig, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 7, pris au dépourvu 20 (Dex +1, naturelle +14, taille -4)}
 {s:BDTexte|**pv** 115 (10d8+70)}
@@ -24,19 +24,19 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +15 (3d6+18 plus poison)}
-{s:BDTexte|**Distance** poils acérés, +4 contact ([nausées](./Nauséeux.md))}
+{s:BDTexte|**Distance** poils acérés, +4 contact ([[nauséeux|nausées]])}
 {s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 6 m (4 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 35, **Dex** 13, **Con** 24, **Int** -, **Sag** 10, **Cha** 2}
-{s:BDTexte|**BBA** +7 ; **BMO** +23 ; **DMD** 34 (46 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) -7 (-3 dans des toiles), [Escalade](./Escalade.md) +28, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) (+8 dans des toiles), +8 en [Escalade](./Escalade.md), +4 en [Perception](./Perception.md)}
+{s:BDTexte|**BBA** +7 ; **BMO** +23 ; **DMD** 34 (46 contre [[croc-en-jambe]])}
+{s:BDTexte|**Compétences** [[Discrétion]] -7 (-3 dans des toiles), [[Escalade]] +28, [[Perception]] +4 ; **Modificateurs raciaux** +4 en [[Discrétion]] (+8 dans des toiles), +8 en [[Escalade]], +4 en [[Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3–8)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Poils acérés (Ext).** Une tarentule peut projeter des poils acérés à partir de son dos vers une créature (attaque de contact à distance, [facteur de portée](./FP.md) 6 mètres (4 {s:c})). Une victime touchée par ces poils doit réussir un [jet de Vigueur](./jet de sauvegarde.md) de [DD](./DD.md) 22 pour ne pas être [nauséeuse](./Nauséeux.md) pendant 1d6 [rounds](./round.md). Les créatures qui attaquent une tarentule géante avec une arme de corps à corps sans allonge doivent réussir un [jet de Réflexes](./jet de sauvegarde.md) contre un [DD](./DD.md) de 22 pour ne pas être touchées par ces poils. Les [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) dépendent de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 24 ; *fréquence* 1/[round](./round.md) pendant 6 [rounds](./round.md) ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d6 [For](./Force.md) ; *guérison* 2 réussites consécutives. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md) et comporte un bonus racial de +2.}
+{s:BDTexte|**Poils acérés (Ext).** Une tarentule peut projeter des poils acérés à partir de son dos vers une créature (attaque de contact à distance, [[FP|facteur de portée]] 6 mètres (4 {s:c})). Une victime touchée par ces poils doit réussir un [[jet de sauvegarde|jet de Vigueur]] de [[DD]] 22 pour ne pas être [[nauséeux|nauséeuse]] pendant 1d6 [[round|rounds]]. Les créatures qui attaquent une tarentule géante avec une arme de corps à corps sans allonge doivent réussir un [[jet de sauvegarde|jet de Réflexes]] contre un [[DD]] de 22 pour ne pas être touchées par ces poils. Les [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] dépendent de la [[Constitution]].}
+{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [[Vigueur]] [[DD]] 24 ; *fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; *effet* [[affaiblissement temporaire]] 1d6 [[Force|For]] ; *guérison* 2 réussites consécutives. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]] et comporte un bonus racial de +2.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -44,21 +44,21 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Araignée écarlate](./Araignée écarlate.md) || 1/4
+| Familier, [[Araignée écarlate]] || 1/4
 |-
-| [Araignée goliath](./Araignée goliath.md) || 11
+| [[Araignée goliath]] || 11
 |-
-| [Araignée lunaire](./Araignée lunaire.md) || 2
+| [[Araignée lunaire]] || 2
 |-
-| [Araignée ogre](./Araignée ogre.md) || 5
+| [[Araignée ogre]] || 5
 |-
-| [Araignée-crabe géante](./Araignée-crabe géante.md) || 1/2
+| [[Araignée-crabe géante]] || 1/2
 |-
-| [Nuée d'araignées](./Nuée daraignées.md) || 1
+| [[Nuée daraignées|Nuée d'araignées]] || 1
 |-
-| [Tarentule géante](./Tarentule géante.md) || 8
+| [[Tarentule géante]] || 8
 |-
-| [Veuve noire géante](./Veuve noire géante.md) || 3
+| [[Veuve noire géante]] || 3
 |}
 </div>*Une gigantesque tarentule recouverte de poils hérissés s’avance à pas calculés, ses huit yeux scrutant les environs à la recherche d’une proie.*
 </div></td></tr></table>

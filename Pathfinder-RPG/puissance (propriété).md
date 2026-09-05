@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Puissance
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Puissance](./Descriptions individuelles des propriétés spéciales des armes.md#Puissance)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Puissance]]

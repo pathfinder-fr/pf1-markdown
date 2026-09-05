@@ -14,30 +14,30 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 - *Source : Bestiaire 2, p.29*
 - **PX** 19 200
-- [Extérieur](./type Extérieur.md) ([ange](./sous-type ange.md), [aquatique](./sous-type aquatique.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md) de taille M, NB
-- **Init** +8 ; **Sens** *[détection du Mal](./Détection du Mal.md)*, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +29
-- **Aura** [de protection](./sous-type ange.md#AURADEPROTECTION)
+- [[type Extérieur|Extérieur]] ([[sous-type ange|ange]], [[sous-type aquatique|aquatique]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]] de taille M, NB
+- **Init** +8 ; **Sens** *[[détection du Mal]]*, [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +29
+- **Aura** [[sous-type ange#AURADEPROTECTION|de protection]]
 (((Défense)))
 - **CA** 27, contact 14, pris au dépourvu 23 (Dex +4, naturelle +13) (parade +4 contre le Mal)
 - **pv** 147 (14d10+70)
 - **Réf** +13, **Vig** +15, **Vol** +10 ; +4 contre le poison ; +4 (résistance) contre le Mal
-- **Immunités** [absorption d’énergie](./Absorption dénergie (capacité).md), acide, effets de mort, électricité,
-feu, froid, [pétrification](./Pétrification.md) ; **RD** 10/Mal ; **RM** 23
+- **Immunités** [[absorption dénergie (capacité)|absorption d’énergie]], acide, effets de mort, électricité,
+feu, froid, [[pétrification]] ; **RD** 10/Mal ; **RM** 23
 (((Attaque)))
 - **VD** 12 m (8 {s:c}), vol 27 m (18 {s:c}) (bonne)
 - **Corps à corps** morgenstern +3, +22/+17/+12 (1d8+10 plus coup percutant)
 - **Pouvoirs magiques** (NLS 10 ; concentration +14)
-  - Constant — *[détection du Mal](./Détection du Mal.md)*
-  - À volonté — *[aide](./Aide.md)*, *[changement de plan](./Changement de plan.md)* (DD 19), *[charme-monstre](./Charme-monstre.md)* (DD 18, les élémentaires uniquement), *[châtiment sacré](./Châtiment sacré.md)* (DD 18), *[délivrance des malédictions](./Délivrance des malédictions.md)*, *[détection du mensonge](./Détection du mensonge.md)* (DD 18), *[dissipation de la magie](./Dissipation de la magie.md)*, *[guérison des maladies](./Guérison des maladies.md)*, *[invisibilité](./Invisibilité.md)* (personnel uniquement), *[regain d’assurance](./Regain dassurance.md)*, *[rejet du Mal](./Rejet du Mal.md)* (DD 19)
-  - 3/jour — *[image miroir](./Image miroir.md)*, *[parole sacrée](./Parole sacrée.md)* (DD 21), *[soins importants](./Soins importants.md)*
-  - 1/jour — *[aura sacrée](./Aura sacrée.md)* (DD 22), *[guérison suprême](./Guérison suprême.md)*, *[immobilisation de monstre](./Immobilisation de monstre.md)* (DD 19)
+  - Constant — *[[détection du Mal]]*
+  - À volonté — *[[aide]]*, *[[changement de plan]]* (DD 19), *[[charme-monstre]]* (DD 18, les élémentaires uniquement), *[[châtiment sacré]]* (DD 18), *[[délivrance des malédictions]]*, *[[détection du mensonge]]* (DD 18), *[[dissipation de la magie]]*, *[[guérison des maladies]]*, *[[invisibilité]]* (personnel uniquement), *[[regain dassurance|regain d’assurance]]*, *[[rejet du Mal]]* (DD 19)
+  - 3/jour — *[[image miroir]]*, *[[parole sacrée]]* (DD 21), *[[soins importants]]*
+  - 1/jour — *[[aura sacrée]]* (DD 22), *[[guérison suprême]]*, *[[immobilisation de monstre]]* (DD 19)
 (((Statistiques)))
 - **For** 21, **Dex** 19, **Con** 18, **Int** 19, **Sag** 18, **Cha** 19
 - **BBA** +14 ; **BMO** +19 ; **DMD** 33
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Connaissances](./Connaissances.md) (plans) +21, [Connaissances](./Connaissances.md) (religion) +21, [Diplomatie](./Diplomatie.md) +21, [Discrétion](./Discrétion.md) +21, [Intimidation](./Intimidation.md) +21, [Natation](./Natation.md) +27, [Perception](./Perception.md) +29, [Psychologie](./Psychologie.md) +25, [Survie](./Survie.md) +21, [Vol](./Vol.md) +25 ; **Modificateurs raciaux** +4 en [Perception](./Perception.md)
-- **Langues** céleste, draconique, infernal ; [langage universel](./sous-type ange.md#LANGAGEUNIVERSEL)
-- **Particularités** [amphibie](./Amphibie (capacité).md)
+- **Dons** [[Attaque en puissance]], [[Enchaînement]], [[Robustesse]], [[Science de linitiative|Science de l’initiative]], [[Vigilance]], [[Vigueur surhumaine]], [[Volonté de fer]]
+- **Compétences** [[Connaissances]] (plans) +21, [[Connaissances]] (religion) +21, [[Diplomatie]] +21, [[Discrétion]] +21, [[Intimidation]] +21, [[Natation]] +27, [[Perception]] +29, [[Psychologie]] +25, [[Survie]] +21, [[Vol]] +25 ; **Modificateurs raciaux** +4 en [[Perception]]
+- **Langues** céleste, draconique, infernal ; [[sous-type ange#LANGAGEUNIVERSEL|langage universel]]
+- **Particularités** [[Amphibie (capacité)|amphibie]]
 (((Écologie)))
 - **Environnement** plans d’alignement Bon
 - **Organisation sociale** solitaire, couple ou escouade (3–6)
@@ -46,7 +46,7 @@ feu, froid, [pétrification](./Pétrification.md) ; **RD** 10/Mal ; **RM** 23
 - **Coup percutant (Sur).** Si, au cours d’un round, un déva monadique touche la même créature deux fois avec sa masse, celle-ci subit 1d8+10 points de dégâts supplémentaires.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [anges](./Ange.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Ange|anges]].***</li></ul>
 *Cette créature angélique possède une peau lisse, un corps musclé et de grandes ailes dorées. Elle porte une masse impressionnante.*
 
 Les dévas monadiques sont les gardiens stoïques du plan

@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2 page 48*}
 {s:BDTexte|**PX** 25600}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([intangible](./sous-type intangible.md)) de taille M, CM}
-{s:BDTexte|**Init** +15 ; **Sens** perception des battements de cœur ; [vision dans le noir](./vision dans le noir.md) 18m ; [Perception](./Perception.md) +31}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type intangible|intangible]]) de taille M, CM}
+{s:BDTexte|**Init** +15 ; **Sens** perception des battements de cœur ; [[vision dans le noir]] 18m ; [[Perception]] +31}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 26, pris au dépourvu 14 (Dex +11, esquive +1, parade +4)}
 {s:BDTexte|**pv** 161 (19d8+76)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** -, **Dex** 32, **Con** -, **Int** 5, **Sag** 20, **Cha** 19}
 {s:BDTexte|**BBA** +14, **BMO** +25, **DMD** 40}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (toucher intangible), [Attaques réflexes](./Attaques réflexes.md), [Comme le vent](./Comme le vent.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [S’avancer](./Savancer.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +31, [Psychologie](./Psychologie.md) +7, [Vol](./Vol.md) +19}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (toucher intangible), [[Attaques réflexes]], [[Comme le vent]], [[Esquive]], [[Réflexes surhumains]], [[Savancer|S’avancer]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]], [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Perception]] +31, [[Psychologie]] +7, [[Vol]] +19}
 {s:BDTexte|**Langues** Commun, Elfe}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}

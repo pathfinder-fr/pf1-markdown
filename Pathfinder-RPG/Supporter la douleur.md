@@ -11,4 +11,4 @@ Categories:
 
 **Conditions.** Survivre à dix séances de torture ou plus.
 
-**Avantage.** Si le personnage reçoit des dégâts [non létaux](./Blessures et mort.md#NONLETAL), il a droit à un jet de [Vigueur](./Vigueur.md) ([DD](./DD.md) 10 + montant des dégâts non létaux) pour les réduire de moitié. Le don [Endurance](./Endurance.md) donne un bonus de +4 à ce [jet de sauvegarde](./JDS.md).
+**Avantage.** Si le personnage reçoit des dégâts [[Blessures et mort#NONLETAL|non létaux]], il a droit à un jet de [[Vigueur]] ([[DD]] 10 + montant des dégâts non létaux) pour les réduire de moitié. Le don [[Endurance]] donne un bonus de +4 à ce [[jds|jet de sauvegarde]].

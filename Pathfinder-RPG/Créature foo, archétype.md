@@ -12,22 +12,22 @@ LastModified: 2021-02-22 00:10
 La « créature foo» est un archétype hérité que l’on peut ajouter à n’importe quel animal qui devient, à partir de là, la créature de base. La créature foo conserve toutes les caractéristiques et les capacités de la créature de base, à ces exceptions près :
 - **Facteur de puissance.** Identique à celui de la créature de base +1.
 - **Alignement.** Tout alignement Bon.
-- **Type.** Le type de la créature change pour devenir [Extérieur](./type Extérieur.md) avec le sous-type [Bon](./sous-type Bien.md). La créature foo gagne le sous-type [altéré](./sous-type altéré.md). Ne recalculez pas le BBA ni les jets de sauvegarde ni les rangs de compétences.
-- **Sens.** Ceux de la créature de base plus [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}).
-- **Classe d’armure.** Le bonus d’[armure naturelle](./Valeurs de combat.md#BONUSARMURENATURELLE) de la créature foo augmente de +2.
+- **Type.** Le type de la créature change pour devenir [[type Extérieur|Extérieur]] avec le sous-type [[sous-type Bien|Bon]]. La créature foo gagne le sous-type [[sous-type altéré|altéré]]. Ne recalculez pas le BBA ni les jets de sauvegarde ni les rangs de compétences.
+- **Sens.** Ceux de la créature de base plus [[vision dans le noir]] à 18 m (12 {s:c}).
+- **Classe d’armure.** Le bonus d’[[Valeurs de combat#BONUSARMURENATURELLE|armure naturelle]] de la créature foo augmente de +2.
 - **Dés de vie.** Les dés de vie raciaux de la créature de base deviennent des d10.
 - **Capacités défensives.** La créature foo conserve toutes les capacités défensives et les particularités de la créature de base. Elle gagne également les capacités suivantes :
-  - *Défense de pierre (Sur).* Un nombre de fois par jour égal à son nombre de dés de vie, la créature foo peut renforcer sa peau en la transformant en pierre inébranlable par une action immédiate. Elle gagne une [solidité](./Exploration.md#DESTRUCTIONOBJET) de 8 jusqu’à la fin de son prochain tour, mais sa vitesse de déplacement est réduite de 3 m (2 {s:c}) pour cette durée.
-  - *Immunité (Ext).* Une créature foo gagne l'[immunité](./Immunité (capacité).md) au poison, aux maladies, à la paralysie, et au sommeil.
-  - *Protecteurs appariés (Sur).* Lorsque deux créatures foo ou plus sont situées à moins de 9 m (6 {s:c}) les unes des autres, elles bénéficient toutes des effets du sort *[protection contre le Mal](./Protection contre le Mal.md)*. Le niveau de lanceur de sorts de cet effet est égal au nombre de DV le plus élevé des créatures. Cet effet peut être dissipé mais, si cela arrive, la créature foo peut le réactiver par une action rapide.
-  - *Réduction de dégâts (Ext).* La créature foo gagne une RD/ contondant basée sur ses dés de vie. Une créature foo ayant jusqu’à 10 DV reçoit une [RD](./Réduction de dégâts (capacité).md) de 5/contondant. Une créature foo ayant 11 DV ou plus reçoit une [RD](./Réduction de dégâts (capacité).md) de 10/contondant.
+  - *Défense de pierre (Sur).* Un nombre de fois par jour égal à son nombre de dés de vie, la créature foo peut renforcer sa peau en la transformant en pierre inébranlable par une action immédiate. Elle gagne une [[Exploration#DESTRUCTIONOBJET|solidité]] de 8 jusqu’à la fin de son prochain tour, mais sa vitesse de déplacement est réduite de 3 m (2 {s:c}) pour cette durée.
+  - *Immunité (Ext).* Une créature foo gagne l'[[immunité (capacité)|immunité]] au poison, aux maladies, à la paralysie, et au sommeil.
+  - *Protecteurs appariés (Sur).* Lorsque deux créatures foo ou plus sont situées à moins de 9 m (6 {s:c}) les unes des autres, elles bénéficient toutes des effets du sort *[[protection contre le Mal]]*. Le niveau de lanceur de sorts de cet effet est égal au nombre de DV le plus élevé des créatures. Cet effet peut être dissipé mais, si cela arrive, la créature foo peut le réactiver par une action rapide.
+  - *Réduction de dégâts (Ext).* La créature foo gagne une RD/ contondant basée sur ses dés de vie. Une créature foo ayant jusqu’à 10 DV reçoit une [[Réduction de dégâts (capacité)|RD]] de 5/contondant. Une créature foo ayant 11 DV ou plus reçoit une [[Réduction de dégâts (capacité)|RD]] de 10/contondant.
 - **Pouvoirs spéciaux.** La créature foo conserve toutes les attaques spéciales et les pouvoirs spéciaux de la créature de base. Elle gagne également la particularité suivante :
-  - *Immobilité (Ext).* La créature foo peut se tenir complètement immobile, à tel point qu’on la prend pour une statue. La créature foo utilisant immobilité rajoute un bonus de +10 à ses tests de [Discrétion](./Discrétion.md) pour se cacher en pleine lumière en se faisant passer pour une statue de pierre. La créature foo peut conserver cette position autant de temps qu’elle le souhaite.
+  - *Immobilité (Ext).* La créature foo peut se tenir complètement immobile, à tel point qu’on la prend pour une statue. La créature foo utilisant immobilité rajoute un bonus de +10 à ses tests de [[Discrétion]] pour se cacher en pleine lumière en se faisant passer pour une statue de pierre. La créature foo peut conserver cette position autant de temps qu’elle le souhaite.
 - **Caractéristiques.** +2 en Constitution, +2 en Force, +4 en Intelligence.
-- **Dons.** Toutes les créatures foo gagnent le don supplémentaire [Volonté de Fer](./Volonté de fer.md).
+- **Dons.** Toutes les créatures foo gagnent le don supplémentaire [[Volonté de Fer]].
 - **Langues.** Toutes les créatures foo parlent le commun et le céleste.
 </div></td>
-<td><div>Voir un exemple : [chien foo](./Chien foo.md), [Lion foo](./Lion foo.md) .  
+<td><div>Voir un exemple : [[chien foo]], [[Lion foo]] .  
 
 
 
@@ -47,8 +47,8 @@ Pour créer une créature foo impériale, établissez d’abord les caractérist
 - **1ère étape :** augmenter les valeurs de caractéristiques. La créature foo qui devient une impériale gagne un bonus de +6 à toutes ses valeurs de caractéristiques, sauf à son Intelligence qui passe à 20 (à moins que le bonus de +6 ne la fasse passer à un niveau plus élevé, auquel cas utilisez la valeur le plus haute).
 - **2e étape :** augmenter les dés de vie. La créature foo impériale a toujours au moins deux fois plus de DV que la
 créature foo originale : vous pouvez lui accorder plus de dés de vie que cela si vous souhaitez en faire une créature foo impériale particulièrement puissante. Le bonus de base à l’attaque, les jets de sauvegarde, les rangs de compétences, les dons et toutes les autres variables dépendant des dés de vie sont modifiés en conséquence.
-- **3e étape :** augmenter la taille. Augmentez la taille de la créature foo d’une catégorie, ajoutant les modificateurs de la [table 2.2 "changement de taille"](./Modifier un monstre.md).
-- **4e étape :** lancement de sorts. La créature foo impériale lance ses sorts comme un ensorceleur de niveau 10 mais elle peut aussi lancer des sorts de prêtre pour elle, les sorts de prêtre sont considérés comme des sorts profanes. La créature foo impériale reçoit le don supplémentaire [Dispense de composantes matérielles](./Dispense de composantes matérielles.md) mais ne gagne aucune autre caractéristique de classe de l’ensorceleur.
-- **5e étape :** déterminer le FP. Comparez les caractéristiques de la créature foo avec celles indiquées dans la [table des valeurs cibles](./Créer un monstre.md), pour déterminer le FP total de la créature. La créature foo impériale a un FP minimum de 11. Si les caractéristiques de votre création ne sont pas suffisantes pour atteindre ce FP minimum, rajoutez-lui des dés de vie raciaux jusqu’à ce que ses caractéristiques lui permettent d’atteindre ce minimum.
+- **3e étape :** augmenter la taille. Augmentez la taille de la créature foo d’une catégorie, ajoutant les modificateurs de la [[Modifier un monstre|table 2.2 "changement de taille"]].
+- **4e étape :** lancement de sorts. La créature foo impériale lance ses sorts comme un ensorceleur de niveau 10 mais elle peut aussi lancer des sorts de prêtre pour elle, les sorts de prêtre sont considérés comme des sorts profanes. La créature foo impériale reçoit le don supplémentaire [[Dispense de composantes matérielles]] mais ne gagne aucune autre caractéristique de classe de l’ensorceleur.
+- **5e étape :** déterminer le FP. Comparez les caractéristiques de la créature foo avec celles indiquées dans la [[Créer un monstre|table des valeurs cibles]], pour déterminer le FP total de la créature. La créature foo impériale a un FP minimum de 11. Si les caractéristiques de votre création ne sont pas suffisantes pour atteindre ce FP minimum, rajoutez-lui des dés de vie raciaux jusqu’à ce que ses caractéristiques lui permettent d’atteindre ce minimum.
 
 </div></td></tr></table>

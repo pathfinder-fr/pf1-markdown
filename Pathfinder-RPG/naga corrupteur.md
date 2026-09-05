@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.223*}
 {s:BDTexte|**PX** 6.400}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +22}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +22}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 14, pris au dépourvu 18 (Dex +5, naturelle +9, taille -1)}
 {s:BDTexte|**pv** 95 (10d8+50)}
@@ -26,24 +26,24 @@ Categories:
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDTexte|**Attaques spéciales** regard charmeur}
 {s:BDTexte|**Sorts connus** (NLS 7<sup>e</sup>)}
-{s:BDSorts|3 (5/jour) — *[boule de feu](./Boule de feu.md)* (DD 16), *[déplacement](./Déplacement.md)*}
-{s:BDSorts|2 (7/jour) — *[grâce féline](./Grâce féline.md)*, *[invisibilité](./Invisibilité.md)*, *[nuée grouillante](./Nuée grouillante.md)*}
-{s:BDSorts|1 (7/jour) — *[bouclier de la foi](./Bouclier de la foi.md)*, *[charme-personne](./Charme-personne.md)* (DD 14), *[faveur divine](./Faveur divine.md)*, *[projectile magique](./Projectile magique.md)*, *[soins légers](./Soins légers.md)*}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[hébétement](./Hébétement.md)* (DD 13), *[lecture de la magie](./Lecture de la magie.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*, *[rayon de givre](./Rayon de givre.md)*, *[saignement](./Saignement.md)*}
+{s:BDSorts|3 (5/jour) — *[[boule de feu]]* (DD 16), *[[déplacement]]*}
+{s:BDSorts|2 (7/jour) — *[[grâce féline]]*, *[[invisibilité]]*, *[[nuée grouillante]]*}
+{s:BDSorts|1 (7/jour) — *[[bouclier de la foi]]*, *[[charme-personne]]* (DD 14), *[[faveur divine]]*, *[[projectile magique]]*, *[[soins légers]]*}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[hébétement]]* (DD 13), *[[lecture de la magie]]*, *[[manipulation à distance]]*, *[[ouverturefermeture|ouverture/fermeture]]*, *[[rayon de givre]]*, *[[saignement]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 20, **Con** 21, **Int** 12, **Sag** 17, **Cha** 17}
 {s:BDTexte|**BBA** +7, **BMO** +12, **DMD** 27 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (regard charmeur), [Discret](./Discret.md), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md)<sup>B</sup>, [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +11, [Bluff](./Bluff.md) +13, [Connaissances](./Connaissances.md) (mystères) +14, [Discrétion](./Discrétion.md) +15, [Évasion](./Évasion.md) +13, [Intimidation](./Intimidation.md) +9, [Natation](./Natation.md) +12, [Perception](./Perception.md) +22}
+{s:BDTexte|**Dons** [[Attaque spéciale renforcée]] (regard charmeur), [[Discret]], [[Dispense de composantes matérielles]]<sup>B</sup>, [[Magie de guerre]], [[Réflexes surhumains]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Art de la magie]] +11, [[Bluff]] +13, [[Connaissances]] (mystères) +14, [[Discrétion]] +15, [[Évasion]] +13, [[Intimidation]] +9, [[Natation]] +12, [[Perception]] +22}
 {s:BDTexte|**Langues** abyssal, commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais tempérés}
 {s:BDTexte|**Organisation sociale** solitaire ou nid (2-4)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Poison (Ext).** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 20 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 [Con](./Constitution.md) ; *guérison* 1 réussite.}
-{s:BDTExte|**Regard charmeur (Sur).** Comme *[charme-personne](./Charme-personne.md)*, 9 m (6 {s:c}), [Volonté](./Volonté.md) [DD](./DD.md) 20 annule. Le [DD](./DD.md) dépend du [Charisme](./Charisme.md).}
-{s:BDTexte|**Sorts (Ext).** Les nagas corrupteurs lancent des sorts comme des [ensorceleurs](./Ensorceleur.md) de niveau 7 et peuvent utiliser les sorts de la [liste des prêtres](./Liste des sorts de prêtres.md) en plus de ceux qui sont [accessibles aux ensorceleurs](./Liste des sorts densorceleursmagiciens.md). Ils lancent les sorts de [prêtres](./Prêtre.md) comme s'il s'agissait de sorts profanes.}
+{s:BDTexte|**Poison (Ext).** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 20 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d4 [[Constitution|Con]] ; *guérison* 1 réussite.}
+{s:BDTExte|**Regard charmeur (Sur).** Comme *[[charme-personne]]*, 9 m (6 {s:c}), [[Volonté]] [[DD]] 20 annule. Le [[DD]] dépend du [[Charisme]].}
+{s:BDTexte|**Sorts (Ext).** Les nagas corrupteurs lancent des sorts comme des [[ensorceleur|ensorceleurs]] de niveau 7 et peuvent utiliser les sorts de la [[liste des sorts de prêtres|liste des prêtres]] en plus de ceux qui sont [[liste des sorts densorceleursmagiciens|accessibles aux ensorceleurs]]. Ils lancent les sorts de [[prêtre|prêtres]] comme s'il s'agissait de sorts profanes.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -52,17 +52,17 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Naga aquatique](./Naga aquatique.md) || 7
+| [[Naga aquatique]] || 7
 |-
-| [Naga corrupteur](./naga corrupteur.md) || 9
+| [[Naga corrupteur]] || 9
 |-
-| [Naga gardien](./Naga gardien.md) || 10
+| [[Naga gardien]] || 10
 |-
-| [Naga lunaire](./Naga lunaire.md) || 6
+| [[Naga lunaire]] || 6
 |-
-| [Naga royal](./Naga royal.md) || 11
+| [[Naga royal]] || 11
 |-
-| [Naga ténébreux](./Naga ténébreux.md) || 8
+| [[Naga ténébreux]] || 8
 |}
 </div>*La bouche humanoïde de ce sinistre monstre serpentin abrite de longs crocs jaunis d’où suintent des gouttes de venin.*
 

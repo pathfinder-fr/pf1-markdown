@@ -11,34 +11,34 @@ LastModified: 2024-08-27 17:10
 {s:BDTexte|*Source : Bestiaire 3 p.41*}
 {s:BDTexte|*Source : Bonus Bestiary*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille M, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18m, [vision nocturne](./vision nocturne.md)  ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 18m, [[vision nocturne]]  ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 9, pris au dépourvu 14 (Dex -1, naturelle +5)}
 {s:BDTexte|**pv**  36 (3d10+20)}
 {s:BDTexte|**Réf** +0, **Vig** +1, **Vol** +1}
 {s:BDTexte|**Capacité défensive** fracassement des armes}
-{s:BDTexte|**RD** 5/— ; **Immunité** magie, [traits des créatures artificielles](./Traits des créatures artificielles.md)}
+{s:BDTexte|**RD** 5/— ; **Immunité** magie, [[traits des créatures artificielles]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6m (4 {s:c})}
 {s:BDTexte|**Corps à corps** épée longue de maître, +8 (1d8+4/19-20) }
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 9, **Con** —, **Int** —, **Sag** 11, **Cha** 1}
 {s:BDTexte|**BBA** +3, **BMO** +7, **DMD** 16 (désarmement impossible)}
-{s:BDTexte|**Particularité** [statue](./Statue.md)}
+{s:BDTexte|**Particularité** [[statue]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonnade (6-11)}
 {s:BDTexte|**Trésor** standard (épée longue de maître, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Fracassement des armes (Ext).** Lorsqu’un personnage frappe la colonne caryatide avec une arme (magique ou non), l’arme reçoit 3d6 points de dégâts. Appliquez normalement les règles de [solidité](./solidité.md) de l’arme. Les armes recevant un nombre de points de dégâts supérieur à leur [solidité](./solidité.md) se brisent.}
-{s:BDTexte|**Immunité contre la magie (Ext).** Les colonnes caryatides sont immunisées contre tous les sorts et pouvoirs magiques contre lesquels la [résistance à la magie](./RM.md) fonctionne. De plus, certains sorts et effets fonctionnent différemment contre cette créature, comme précisé ci-dessous.
+{s:BDTexte|**Fracassement des armes (Ext).** Lorsqu’un personnage frappe la colonne caryatide avec une arme (magique ou non), l’arme reçoit 3d6 points de dégâts. Appliquez normalement les règles de [[solidité]] de l’arme. Les armes recevant un nombre de points de dégâts supérieur à leur [[solidité]] se brisent.}
+{s:BDTexte|**Immunité contre la magie (Ext).** Les colonnes caryatides sont immunisées contre tous les sorts et pouvoirs magiques contre lesquels la [[RM|résistance à la magie]] fonctionne. De plus, certains sorts et effets fonctionnent différemment contre cette créature, comme précisé ci-dessous.
   
-• Un sort de *[transmutation de la pierre en boue](./Transmutation de la pierre en boue.md)* inflige 1d6 points de dégâts par [Niveau de lanceur de sorts](./NLS.md) à la colonne caryatide, sans [jet de sauvegarde](./jet de sauvegarde.md).
+• Un sort de *[[transmutation de la pierre en boue]]* inflige 1d6 points de dégâts par [[NLS|Niveau de lanceur de sorts]] à la colonne caryatide, sans [[jet de sauvegarde]].
   
-• *[Transmutation de la boue en pierre](./Transmutation de la boue en pierre.md)* guérit aussitôt tous les dégâts, quels qu’ils soient, que la colonne caryatide a reçus.
+• *[[Transmutation de la boue en pierre]]* guérit aussitôt tous les dégâts, quels qu’ils soient, que la colonne caryatide a reçus.
   
-• Un sort de *[transmutation de la pierre en chair](./Transmutation de la pierre en chair.md)* ne modifie pas la structure de la colonne mais annule sa réduction de dégâts et son immunité à la magie pendant 1 round.}
+• Un sort de *[[transmutation de la pierre en chair]]* ne modifie pas la structure de la colonne mais annule sa réduction de dégâts et son immunité à la magie pendant 1 round.}
 {s:BDTexte|**Statue (Ext).** La colonne caryatide peut se tenir parfaitement immobile, imitant une statue (généralement une statue soutenant un plafond, telle une colonne sculptée). L’observateur doit réussir un test de Perception de DD 20 pour remarquer que la colonne caryatide est vivante. Une colonne caryatide qui commence le combat dans cette position bénéficie d’un bonus de +6 au jet d’initiative.}
 </div>
 </td><td><div>

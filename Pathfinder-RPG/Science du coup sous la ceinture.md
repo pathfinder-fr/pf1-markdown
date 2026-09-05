@@ -13,10 +13,10 @@ Categories:
 
 **Catégorie.** combat
 
-**Conditions.** [halfelin](./Halfelin.md), trait racial coup bas, [BBA](./BBA.md)+4
+**Conditions.** [[halfelin]], trait racial coup bas, [[BBA]]+4
 
 **Avantages.** Le bonus pour confirmer les coups critiques contre les adversaires plus grands que le personnage passe à +2. De plus, il peut, une fois par jour, relancer le jet de confirmation de coup critique s’il rate le premier. Il doit conserver le second résultat, même s’il est pire que le premier.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance pour relancer un second jet de confirmation de [coup critique](./coup critique.md) au cours d’une même journée.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance pour relancer un second jet de confirmation de [[coup critique]] au cours d’une même journée.

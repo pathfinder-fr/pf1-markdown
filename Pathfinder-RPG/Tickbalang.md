@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 4* p.271}
 {s:BDTexte|**PX** 6 400}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([métamorphe](./sous-type métamorphe.md)) de taille G, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m, [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +18}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type métamorphe|métamorphe]]) de taille G, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] à 18 m, [[vision nocturne]], [[odorat]] ; [[Perception]] +18}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 13, pris au dépourvu 18 (Dex +3, esquive +1, naturelle +9, taille -1)}
 {s:BDTexte|**pv** 114 (12d10+48)}
@@ -25,19 +25,19 @@ Categories:
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Attaques spéciales** bond, épines, piétinement (1d8+10, DD 23)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12<sup>e</sup> ; concentration +16)}
-{s:BDSorts|Constant — *[pattes d’araignée](./Pattes daraignée.md)*}
-{s:BDSorts|A volonté — *[invisibilité](./Invisibilité.md)*, *[ventriloquie](./Ventriloquie.md)* (DD 15)}
-{s:BDSorts|3/jour — *[image accomplie](./Image accomplie.md)* (DD 17)}
-{s:BDSorts|1/jour — *[mirage](./mirage.md)* (DD 19), *[vol](./Vol.md)* (sur lui uniquement)}
-{s:BDSorts|1/semaine — *[dédale](./Dédale.md)*}
+{s:BDSorts|Constant — *[[pattes daraignée|pattes d’araignée]]*}
+{s:BDSorts|A volonté — *[[invisibilité]]*, *[[ventriloquie]]* (DD 15)}
+{s:BDSorts|3/jour — *[[image accomplie]]* (DD 17)}
+{s:BDSorts|1/jour — *[[mirage]]* (DD 19), *[[vol]]* (sur lui uniquement)}
+{s:BDSorts|1/semaine — *[[dédale]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 16, **Con** 19, **Int** 11, **Sag** 16, **Cha** 19}
 {s:BDTexte|**BBA** +12, **BMO** +20, **DMD** 34}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Fourberie](./Fourberie.md), [Science du critique](./Science du critique.md) (morsure), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +20, [Déguisement](./Déguisement.md) +6, [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +18, [psychologie](./Psychologie.md) +9, [Survie](./Survie.md) +12}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Esquive]], [[Fourberie]], [[Science du critique]] (morsure), [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Bluff]] +20, [[Déguisement]] +6, [[Discrétion]] +14, [[Perception]] +18, [[psychologie]] +9, [[Survie]] +12}
 {s:BDTexte|**Langues** commun, sylvestre}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (humanoïde de taille P
-ou M, *[modification d'apparence](./Modification dapparence.md)*), coups puissants (sabots), imitation de sons (sons et voix)}
+{s:BDTexte|**Particularités** [[Changement de forme (capacité)|changement de forme]] (humanoïde de taille P
+ou M, *[[modification dapparence|modification d'apparence]]*), coups puissants (sabots), imitation de sons (sons et voix)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** jungles ou forêts chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou bande (3-5)}

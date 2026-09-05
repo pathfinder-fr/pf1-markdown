@@ -13,20 +13,20 @@ Categories:
 {s:pucem|Animal|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.42*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)}
 {s:BDTexte|**pv** 13 (2d8+4)}
 {s:BDTexte|**Réf** +5, **Vig** +5, **Vol** +1}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +3 (1d6+3 et [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** morsure +3 (1d6+3 et [[croc-en-jambe]])}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 15, **Con** 15, **Int** 2, **Sag** 12, **Cha** 6}
-{s:BDTexte|**BBA** +1, **BMO** +3, **DMD** 15 (19 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +6 (+14 pour sauter), [Perception](./Perception.md) +8, [Survie](./Survie.md) +1 (+5 pour pister à l'odorat) ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4 pour sauter, [Survie](./Survie.md) +4 pour pister à l'odorat}
+{s:BDTexte|**BBA** +1, **BMO** +3, **DMD** 15 (19 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +6 (+14 pour sauter), [[Perception]] +8, [[Survie]] +1 (+5 pour pister à l'odorat) ; **Modificateurs raciaux** [[Acrobaties]] +4 pour sauter, [[Survie]] +4 pour pister à l'odorat}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-12)}
@@ -38,11 +38,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Chien](./Chien.md) || 1/3
+| [[Chien]] || 1/3
 |-
-| [Chien de selle](./Chien de selle.md) || 1
+| [[Chien de selle]] || 1
 |}
-</div>*Ce [chien](./Chien.md) robuste est équipé d’une petite selle. Un grondement menaçant remonte depuis le fond de sa gorge.*
+</div>*Ce [[chien]] robuste est équipé d’une petite selle. Un grondement menaçant remonte depuis le fond de sa gorge.*
 
 Parmi les chiens plus grands (que les races de taille P comme les
 halfelins et les gnomes appellent chiens de selle), on trouve des

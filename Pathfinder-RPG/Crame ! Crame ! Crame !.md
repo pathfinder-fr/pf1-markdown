@@ -10,6 +10,6 @@ Categories:
 
 {s:MR}*La passion du gobelin pour le feu et les incendies atteint un tout autre niveau.*
 
-**Conditions.** [Gobelin](./Gobelin (race).md), rang 1 en [sabotage](./Sabotage.md).
+**Conditions.** [[gobelin (race)|Gobelin]], rang 1 en [[sabotage]].
 
-**Avantage.** Le gobelin inflige 1d4 points de dégâts supplémentaires lorsqu’il attaque avec du feu issu d’une source alchimique ou non-magique (comme des torches alchimiques ou non-magiques) et gagne un bonus de compétence de +4 à ses jets de [Réflexes](./Réflexes.md) pour éviter de prendre feu ou pour éteindre les flammes lorsqu’il a pris feu. Les dégâts supplémentaires causés avec ce don ne s’appliquent pas aux attaques magiques (comme les bombes de l’[alchimiste](./Alchimiste.md)) ou aux dégâts d’aspersion.
+**Avantage.** Le gobelin inflige 1d4 points de dégâts supplémentaires lorsqu’il attaque avec du feu issu d’une source alchimique ou non-magique (comme des torches alchimiques ou non-magiques) et gagne un bonus de compétence de +4 à ses jets de [[Réflexes]] pour éviter de prendre feu ou pour éteindre les flammes lorsqu’il a pris feu. Les dégâts supplémentaires causés avec ce don ne s’appliquent pas aux attaques magiques (comme les bombes de l’[[alchimiste]]) ou aux dégâts d’aspersion.

@@ -14,23 +14,23 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4* p.23}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille G, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [odorat](./odorat.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille G, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[odorat]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 8, pris au dépourvu 18 (Dex -1, naturelle +10, taille -1)}
 {s:BDTexte|**pv** 51 (6d10+18)}
 {s:BDTexte|**Réf** +4, **Vig** +7, **Vol** +6}
-{s:BDTexte|**Faiblesse** [aveuglé par la lumière](./Aveuglé par la lumière.md)}
+{s:BDTexte|**Faiblesse** [[aveuglé par la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 c), creusement 9 m  (6 c)}
 {s:BDTexte|**Corps à corps** griffes x2, +11 (1d8+6) et défense, +11 (1d8+6)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** étriper et écraser, [éventration](./Éventration.md) (2 griffes, 1d8+9)}
+{s:BDTexte|**Attaques spéciales** étriper et écraser, [[éventration]] (2 griffes, 1d8+9)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 9, **Con** 17, **Int** 6, **Sag** 13, **Cha** 6}
 {s:BDTexte|**BBA** +6, **BMO** +13, **DMD** 22}
-{s:BDTexte|**Dons** [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Discrétion), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +7 (+15 sous terre), [Escalade](./Escalade.md) +10, [Perception](./Perception.md) +9 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md) si le buggane se trouve sous terre.}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l’initiative]], [[Talent]] (Discrétion), [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +7 (+15 sous terre), [[Escalade]] +10, [[Perception]] +9 ; **Modificateurs raciaux** +8 en [[Discrétion]] si le buggane se trouve sous terre.}
 {s:BDTexte|**Langues** géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** sous terre}
@@ -56,8 +56,8 @@ effectuer une tentative de croc-en-jambe sur un adversaire qu’il
 a blessé avec son éventration. Il ne provoque pas d’attaque
 d’opportunité. S’il rate son croc-en-jambe, il ne peut pas être victime
 d’un croc-en-jambe en retour. S’il réussit, la cible doit effectuer un
-jet de Vigueur [DD](./DD.md) 19. En cas d’échec à ce jet de sauvegarde, elle est
-étourdie pendant 1 round. Le [DD](./DD.md) du jet de sauvegarde est basé sur
+jet de Vigueur [[DD]] 19. En cas d’échec à ce jet de sauvegarde, elle est
+étourdie pendant 1 round. Le [[DD]] du jet de sauvegarde est basé sur
 la Force.}
 </div>
 </td><td><div>*Ce géant glabre et bossu est doté de cruelles défenses et de deux énormes poings aux griffes émoussées qui semblent pourtant capables de briser la pierre.*

@@ -11,6 +11,6 @@ Categories:
 
 {s:apg}*Les sorts du personnage peuvent traverser l’espace qui sépare les dimensions et créer un effet fantôme dans l’éther.*
 
-**Catégorie :** [métamagie](./Dons.md#METAMAGIE)
+**Catégorie :** [[Dons#METAMAGIE|métamagie]]
 
-**Avantage.** Un sort ectoplasmique agit pleinement sur les créatures [éthérées](./Éthéré.md) ou [intangibles](./Intangible.md). Un sort ectoplasmique occupe un [emplacement de sort](./emplacement de sort.md) d’un niveau de plus que le niveau normal du sort.
+**Avantage.** Un sort ectoplasmique agit pleinement sur les créatures [[éthéré|éthérées]] ou [[intangible|intangibles]]. Un sort ectoplasmique occupe un [[emplacement de sort]] d’un niveau de plus que le niveau normal du sort.

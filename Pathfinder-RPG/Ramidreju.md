@@ -11,34 +11,34 @@ Categories:
 <div class="BD">
 {s:BDTitre|Ramidreju|FP 1/2}
 {s:pucem|Créature magique|Forêt-Jungle|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.216](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.216]]*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md), [odorat](./Odorat (capacité).md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]], [[Odorat (capacité)|odorat]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 12, contact 12, pris au dépourvu 10 (Dex +2)}
 {s:BDTexte|**pv** 11 (2d10)}
 {s:BDTexte|**Réf** +5, **Vig** +3, **Vol** +1}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m, creusement 3 m, escalade 6 m}
-{s:BDTexte|**Corps à corps** morsure, +4 (1d6 plus [étreinte](./Étreinte (capacité).md))}
-{s:BDTexte|**Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1 Constitution), [constriction](./Constriction (capacité).md) (1d6)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 3 ; [concentration](./concentration.md) +3)}
-{s:BDSorts|1/jour — *[création de fosse](./Création de fosse.md)* (DD 12)}
+{s:BDTexte|**Corps à corps** morsure, +4 (1d6 plus [[Étreinte (capacité)|étreinte]])}
+{s:BDTexte|**Attaques spéciales** [[Absorption de sang (capacité)|absorption de sang]] (1 Constitution), [[Constriction (capacité)|constriction]] (1d6)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 3 ; [[concentration]] +3)}
+{s:BDSorts|1/jour — *[[création de fosse]]* (DD 12)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 15, **Con** 10, **Int** 3, **Sag** 13, **Cha** 11}
-{s:BDTexte|**BBA** +2 ; **BMO** +2 (+6 en [lutte](./lutte.md)) ; **DMD** 14 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +8, [Escalade](./Escalade.md) +8, [Évasion](./Évasion.md) +8, [Perception](./Perception.md) +6 ; **Modificateurs raciaux** +6 en Discrétion, +6 en Évasion}
+{s:BDTexte|**BBA** +2 ; **BMO** +2 (+6 en [[lutte]]) ; **DMD** 14 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +8, [[Escalade]] +8, [[Évasion]] +8, [[Perception]] +6 ; **Modificateurs raciaux** +6 en Discrétion, +6 en Évasion}
 {s:BDTexte|**Langues** sylvestre (incapable de parler)}
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md), excavateur de fosses, sent l’or}
+{s:BDTexte|**Particularités** [[Compression (capacité)|compression]], excavateur de fosses, sent l’or}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** triple (objets en or)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Excavateur de fosses (Ext).** Un ramidreju peut creuser une fosse de 6 mètres dans un sol normal ou de la terre meuble (pas de la pierre solide) et la couvrir de branches, d’herbes et de brindilles. Cette fosse est similaire au piège [fosse camouflée](./Exemples de pièges.md#Fossecamouflée) [FP](./FP.md) 1. Un ramidreju a besoin de 4 heures pour creuser une fosse, mais il n’est pas obligé de la creuser entièrement le même jour.}
-{s:BDTexte|**Sent l’or (Ext).** Un ramidreju peut utiliser son [odorat](./Odorat (capacité).md) pour détecter et localiser de l’or qui se trouve à une distance de 27 mètres. Le ramidreju peut sentir de l’or même s’il a été enterré ou s’il se trouve dans un contenant (comme un sac à dos ou un coffre), ou encore s’il s’agit d’un filon d’or dans de la roche solide. Le ramidreju ne connaît par contre pas la quantité d’or ni ne sait si celui-ci est transporté par une créature ni s’il est bien gardé par une créature ou un piège.}
+{s:BDTexte|**Excavateur de fosses (Ext).** Un ramidreju peut creuser une fosse de 6 mètres dans un sol normal ou de la terre meuble (pas de la pierre solide) et la couvrir de branches, d’herbes et de brindilles. Cette fosse est similaire au piège [[Exemples de pièges#Fossecamouflée|fosse camouflée]] [[FP]] 1. Un ramidreju a besoin de 4 heures pour creuser une fosse, mais il n’est pas obligé de la creuser entièrement le même jour.}
+{s:BDTexte|**Sent l’or (Ext).** Un ramidreju peut utiliser son [[Odorat (capacité)|odorat]] pour détecter et localiser de l’or qui se trouve à une distance de 27 mètres. Le ramidreju peut sentir de l’or même s’il a été enterré ou s’il se trouve dans un contenant (comme un sac à dos ou un coffre), ou encore s’il s’agit d’un filon d’or dans de la roche solide. Le ramidreju ne connaît par contre pas la quantité d’or ni ne sait si celui-ci est transporté par une créature ni s’il est bien gardé par une créature ou un piège.}
 
 </div></td>
 <td><div>*Cette grande belette au corps de serpent est munie de défenses et d’un groin, comme un sanglier, et son corps est couvert d’une douce fourrure verte.*

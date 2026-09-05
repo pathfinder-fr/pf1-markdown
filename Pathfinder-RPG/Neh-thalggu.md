@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Montagnes|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2 p. 206*}
 {s:BDTexte|**PX** 4.800}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 19, pris au dépourvu 18 (Dex +3, naturelle +2, intuition +7, taille –1)}
 {s:BDTexte|**pv** 105 (10d8+60)}
@@ -25,28 +25,28 @@ Categories:
 {s:BDTexte|**VD** 3 m (2 {s:c}), vol 12 m (8 {s:c}) (parfaite)}
 {s:BDTexte|**Corps à corps** morsure, +13 (1d8+7 plus poison) et 2 griffes, +13 (1d6+7)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration.md) (2 griffes, 2d6+7)}
+{s:BDTexte|**Attaques spéciales** [[éventration]] (2 griffes, 2d6+7)}
 {s:BDTexte|**Sorts d’ensorceleurs connus** (NLS 7<sup>e</sup> ; concentration +17)}
-{s:BDTexte|3 (5/jour) — [éclair](./Éclair.md) (DD 16), [immobilisation de personne](./Immobilisation de personne.md) (DD 16)}
-{s:BDTexte|2 (7/jour) — [flèche acide](./Flèche acide.md), [invisibilité](./Invisibilité.md), [modification d’apparence](./Modification dapparence.md)}
-{s:BDTexte|1 (7/jour) — [bouclier](./Bouclier.md), [graisse](./Graisse.md) (DD 14), [projectile magique](./Projectile magique.md), [rayon affaiblissant](./Rayon affaiblissant.md) (DD 14), [serviteur invisible](./Serviteur invisible.md)}
-{s:BDTexte|0 (à volonté) — [aspersion acide](./Aspersion acide.md), [détection de la magie](./Détection de la magie.md), [lecture de la magie](./Lecture de la magie.md), [lumières dansantes](./Lumières dansantes.md), [manipulation à distance](./Manipulation à distance.md), [ouverture/fermeture](./Ouverturefermeture.md), [prestidigitation](./Prestidigitation.md)}
+{s:BDTexte|3 (5/jour) — [[éclair]] (DD 16), [[immobilisation de personne]] (DD 16)}
+{s:BDTexte|2 (7/jour) — [[flèche acide]], [[invisibilité]], [[modification dapparence|modification d’apparence]]}
+{s:BDTexte|1 (7/jour) — [[bouclier]], [[graisse]] (DD 14), [[projectile magique]], [[rayon affaiblissant]] (DD 14), [[serviteur invisible]]}
+{s:BDTexte|0 (à volonté) — [[aspersion acide]], [[détection de la magie]], [[lecture de la magie]], [[lumières dansantes]], [[manipulation à distance]], [[ouverturefermeture|ouverture/fermeture]], [[prestidigitation]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 16, **Con** 23, **Int** 19, **Sag** 18, **Cha** 17}
-{s:BDTexte|**BBA** +7, **BMO** +15, **DMD** 35 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [Extension de durée](./Extension de durée.md), [Frappe magique](./Frappe magique.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +17, [Connaissances](./Connaissances.md) (mystères, exploration souterraine et plans) +23, [Discrétion](./Discrétion.md) +12, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +17, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +16, [Vol](./Vol.md) +15}
-{s:BDTexte|**Langues** abyssal, aklo, commun, commun des profondeurs, draconique, protéen ; [télépathie](./Télépathie.md) (30 m) (20 {s:c})}
+{s:BDTexte|**BBA** +7, **BMO** +15, **DMD** 35 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Dispense de composantes matérielles]], [[Extension de durée]], [[Frappe magique]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +17, [[Connaissances]] (mystères, exploration souterraine et plans) +23, [[Discrétion]] +12, [[Perception]] +17, [[Psychologie]] +17, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +16, [[Vol]] +15}
+{s:BDTexte|**Langues** abyssal, aklo, commun, commun des profondeurs, draconique, protéen ; [[télépathie]] (30 m) (20 {s:c})}
 {s:BDTexte|**Particularités** collection de cerveaux, connaissance étrange}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** double}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Collection de cerveaux (Ext).** Un neh-thalggu peut conserver jusqu’à 7 cerveaux humains et les utiliser pour améliorer son savoir et sa puissance. Chaque cerveau collecté donne au neh-thalggu un bonus d’intuition cumulatif de +1 à la [CA](./CA.md), aux tests de [concentration](./concentration.md) et aux tests de [Connaissances](./Connaissances.md). Un neh-thalggu peut extraire le cerveau d’un adversaire sans défense en lui portant un [coup de grâce](./Coup de grâce.md) ou celui d’un corps mort depuis moins d’une minute en utilisant une [action simple](./Action simple.md). Un neh-thalggu possédant moins de 7 cerveaux subit un [niveau négatif](./niveau négatif.md) par cerveau manquant. Ces niveaux négatifs ne deviennent jamais permanents, mais ils ne peuvent être supprimés qu’en collectant un cerveau. Les caractéristiques présentées ci-contre supposent que le monstre dispose d’une collection complète de cerveaux.}
-{s:BDTexte|**Connaissance étrange (Ext).** Toutes les [Connnaissances](./Connnaissances.md) sont des compétences de classe pour les neh-thalggus.}
-{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 21 ; *fréquence* 1/round pendant 6 rounds ; *effet* affaiblissement temporaire 1d2 For et chancelant ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Sorts.** Un neh-thalggu lance des sorts comme un [ensorceleur](./Ensorceleur.md) de niveau 7. Pour chaque niveau négatif infligé par l’absence d’un cerveau, son [NLS](./NLS.md) est réduit de 1. Un neh-thalggu sans aucun cerveau ne peut pas lancer de sorts.}
+{s:BDTexte|**Collection de cerveaux (Ext).** Un neh-thalggu peut conserver jusqu’à 7 cerveaux humains et les utiliser pour améliorer son savoir et sa puissance. Chaque cerveau collecté donne au neh-thalggu un bonus d’intuition cumulatif de +1 à la [[CA]], aux tests de [[concentration]] et aux tests de [[Connaissances]]. Un neh-thalggu peut extraire le cerveau d’un adversaire sans défense en lui portant un [[coup de grâce]] ou celui d’un corps mort depuis moins d’une minute en utilisant une [[action simple]]. Un neh-thalggu possédant moins de 7 cerveaux subit un [[niveau négatif]] par cerveau manquant. Ces niveaux négatifs ne deviennent jamais permanents, mais ils ne peuvent être supprimés qu’en collectant un cerveau. Les caractéristiques présentées ci-contre supposent que le monstre dispose d’une collection complète de cerveaux.}
+{s:BDTexte|**Connaissance étrange (Ext).** Toutes les [[Connnaissances]] sont des compétences de classe pour les neh-thalggus.}
+{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [[Vigueur]] [[DD]] 21 ; *fréquence* 1/round pendant 6 rounds ; *effet* affaiblissement temporaire 1d2 For et chancelant ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la [[Constitution]].}
+{s:BDTexte|**Sorts.** Un neh-thalggu lance des sorts comme un [[ensorceleur]] de niveau 7. Pour chaque niveau négatif infligé par l’absence d’un cerveau, son [[NLS]] est réduit de 1. Un neh-thalggu sans aucun cerveau ne peut pas lancer de sorts.}
 </div>
 </td><td><div>*Ce crabe cauchemardesque possède une bouche de lamproie et des pattes garnies d’yeux qui s’agitent. Son dos est recouvert de cloques renfermant des cerveaux humains.*
 

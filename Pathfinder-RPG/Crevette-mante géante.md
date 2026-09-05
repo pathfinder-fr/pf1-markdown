@@ -15,8 +15,8 @@ Categories:
 {s:pucem|Vermine|Aquatique|Tropical}
 {s:BDtexte|*Source : Bestiaire 5 p.70*}
 {s:BDtexte|**PX** 6 400}
-{s:BDtexte|[Vermine](./type Vermine.md) ([aquatique](./sous-type aquatique.md)) de taille M, N}
-{s:BDtexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) 18 m, vision extraordinaire ; [Perception](./Perception.md) +1}
+{s:BDtexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille M, N}
+{s:BDtexte|**Init** +7 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] 18 m, vision extraordinaire ; [[Perception]] +1}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 26, contact 17, pris au dépourvu 19 (Dex +7, naturelle +9)}
 {s:BDtexte|**pv** 105 (14d8+42)}
@@ -24,20 +24,20 @@ Categories:
 {s:BDtexte|**Immunités** effets mentaux ; **Résistances** son 10}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 12 m ; nage 9 m}
-{s:BDtexte|**Corps à corps** pince, +17/+12 (2d6+4 plus [étreinte](./Étreinte (capacité).md) et explosion sonore) et pince, +17 (2d6+4 plus [étreinte](./Étreinte (capacité).md) et explosion sonore)}
+{s:BDtexte|**Corps à corps** pince, +17/+12 (2d6+4 plus [[Étreinte (capacité)|étreinte]] et explosion sonore) et pince, +17 (2d6+4 plus [[Étreinte (capacité)|étreinte]] et explosion sonore)}
 {s:BDtexte|**Attaques spéciales** explosion sonore, pince rapide}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 18, **Dex** 25, **Con** 16, **Int** —, **Sag** 13, **Cha** 16}
-{s:BDtexte|**BBA** +10, **BMO** +14 (+18 en [lutte](./lutte.md)), **DMD** 31 (43 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDtexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
+{s:BDtexte|**BBA** +10, **BMO** +14 (+18 en [[lutte]]), **DMD** 31 (43 contre le [[croc-en-jambe]])}
+{s:BDtexte|**Dons** [[Attaque en finesse]]}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** côtes chaudes}
 {s:BDtexte|**Organisation sociale** solitaire}
 {s:BDtexte|**Trésor** aucun}
 {s:BDsoustitre|Pouvoirs spéciaux}
 {s:BDtexte|**Pince rapide (Ext).** Une crevette-mante géante peut porter des attaques répétées avec une unique pince.}
-{s:BDtexte|**Explosion sonore (Ext).** L’attaque d’une crevette-mante géante est tellement rapide que ses pinces provoquent une explosion de lumière et une onde de choc quand elles se ferment. Chaque fois qu’une crevette-mante géante attaque à l’aide de ses pinces, qu’elle touche sa cible ou non, toutes les créatures qui se trouvent dans un rayon de 3 mètres autour de la cible de l’attaque subissent 1d8 points de dégâts de son et doivent réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 20 ou être [étourdies](./Étourdi.md) pendant 1 [round](./round.md). Une créature qui réussit son [jet de sauvegarde](./JDS.md) est immunisée à l'effet d›étourdissement des explosions sonores suivantes jusqu’au prochain tour de la vermine, mais subit quand même les dégâts de son. Les crevettes-mantes géantes sont immunisées à cet effet. Le DD du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
-{s:BDtexte|**Vision extraordinaire (Ext).** Une crevette-mante géante peut percevoir bien plus de couleurs que les humains et peut voir parfaitement, quelle que soit la luminosité, y compris dans les ténèbres surnaturelles. Tant qu’une crevette-mante géante n’est pas [aveuglée](./Aveuglé.md), on considère qu’elle a une [vision aveugle](./Vision aveugle (capacité).md) à 18 mètres.}
+{s:BDtexte|**Explosion sonore (Ext).** L’attaque d’une crevette-mante géante est tellement rapide que ses pinces provoquent une explosion de lumière et une onde de choc quand elles se ferment. Chaque fois qu’une crevette-mante géante attaque à l’aide de ses pinces, qu’elle touche sa cible ou non, toutes les créatures qui se trouvent dans un rayon de 3 mètres autour de la cible de l’attaque subissent 1d8 points de dégâts de son et doivent réussir un jet de [[Réflexes]] [[DD]] 20 ou être [[étourdi|étourdies]] pendant 1 [[round]]. Une créature qui réussit son [[jds|jet de sauvegarde]] est immunisée à l'effet d›étourdissement des explosions sonores suivantes jusqu’au prochain tour de la vermine, mais subit quand même les dégâts de son. Les crevettes-mantes géantes sont immunisées à cet effet. Le DD du jet de sauvegarde est basé sur la [[Constitution]].}
+{s:BDtexte|**Vision extraordinaire (Ext).** Une crevette-mante géante peut percevoir bien plus de couleurs que les humains et peut voir parfaitement, quelle que soit la luminosité, y compris dans les ténèbres surnaturelles. Tant qu’une crevette-mante géante n’est pas [[aveuglé|aveuglée]], on considère qu’elle a une [[Vision aveugle (capacité)|vision aveugle]] à 18 mètres.}
 </div>
 </td>
 <td>
@@ -52,11 +52,11 @@ Une crevette-mante géante typique mesure 1,20 mètre de haut pour 1,80 mètre d
 #### Variantes de crevettes-mantes géantes
 La vision incroyable et les pinces mortelles des crevettes-mantes géantes en font de formidables prédateurs dans n’importe quel environnement.
 
-**Crevette-mante des cavernes.** Une crevette-mante des cavernes s’est adaptée à la vie des cavernes. Sa carapace a perdu les couleurs vives qu’arborent encore ses cousines pour devenir presque transparente. En conséquence, une crevette-mante des cavernes gagne un bonus racial de +8 à ses tests de [Discrétion](./Discrétion.md) et peut faire une [action complexe](./Action complexe.md) pendant le [round de surprise](./round de surprise.md).
+**Crevette-mante des cavernes.** Une crevette-mante des cavernes s’est adaptée à la vie des cavernes. Sa carapace a perdu les couleurs vives qu’arborent encore ses cousines pour devenir presque transparente. En conséquence, une crevette-mante des cavernes gagne un bonus racial de +8 à ses tests de [[Discrétion]] et peut faire une [[action complexe]] pendant le [[round de surprise]].
 
-**Crevette-mante royale.** La crevette-mante royale se trouve sur le plancher océanique, dans des eaux plus profondes que ses congénères de plus petite taille. Les crevettes-mantes royales sont de Grande taille. Quand elles s’en prennent à un objet, leurs attaques ignorent les 20 premiers points de [solidité](./solidité.md). Elles profitent de cet avantage pour couler des bateaux afin d’en dévorer les cargaisons et les équipages malchanceux.
+**Crevette-mante royale.** La crevette-mante royale se trouve sur le plancher océanique, dans des eaux plus profondes que ses congénères de plus petite taille. Les crevettes-mantes royales sont de Grande taille. Quand elles s’en prennent à un objet, leurs attaques ignorent les 20 premiers points de [[solidité]]. Elles profitent de cet avantage pour couler des bateaux afin d’en dévorer les cargaisons et les équipages malchanceux.
 
-**Crevette-mante des sables.** Les crevettes-mantes des sables s’enterrent dans les déserts, guettant quiconque s’approchera un peu trop près de leurs pinces. Une crevette-mante des sables perd le sous-type [aquatique](./sous-type aquatique.md).
+**Crevette-mante des sables.** Les crevettes-mantes des sables s’enterrent dans les déserts, guettant quiconque s’approchera un peu trop près de leurs pinces. Une crevette-mante des sables perd le sous-type [[sous-type Aquatique|aquatique]].
 </div>
 </td>
 </tr>

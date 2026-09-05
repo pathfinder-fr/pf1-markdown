@@ -10,4 +10,4 @@ Categories:
 
 {s:apg}*En vivant dans de grandes villes exotiques, le personnage a rencontré de nombreuses civilisations, cultures et races.*
 
-**Avantage.** Le personnage peut parler et lire deux [langues](./Linguistique.md) de plus (de son choix). En plus de cela, il peut choisir deux compétences dépendant de l’[Intelligence](./Intelligence.md), de la [Sagesse](./Sagesse.md) ou du [Charisme](./Charisme.md), qui deviennent des [compétences de classe](./compétences de classe.md) pour lui.
+**Avantage.** Le personnage peut parler et lire deux [[Linguistique|langues]] de plus (de son choix). En plus de cela, il peut choisir deux compétences dépendant de l’[[Intelligence]], de la [[Sagesse]] ou du [[Charisme]], qui deviennent des [[compétences de classe]] pour lui.

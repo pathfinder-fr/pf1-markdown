@@ -7,6 +7,6 @@ Categories:
 - Varisie
 ---
 
-Le plateau de Storval est une zone où survivre demande une grande force de caractère et d’adaptation. En effet, les conditions climatiques extrêmes, la pauvreté du sol ainsi que les [géants](./géants.md) rendent le quotidien difficile. Pourtant les tribus de [Shoantis](./Shoantis.md) arrivent à trouver dans ces terres des ressources pour se nourrir et élever des aurochs.
+Le plateau de Storval est une zone où survivre demande une grande force de caractère et d’adaptation. En effet, les conditions climatiques extrêmes, la pauvreté du sol ainsi que les [[géants]] rendent le quotidien difficile. Pourtant les tribus de [[Shoantis]] arrivent à trouver dans ces terres des ressources pour se nourrir et élever des aurochs.
 
-On peut se rendre sur ce plateau en passant par les [escaliers de Storval](./Escaliers de Storval.md), creusés dans les falaises, du même nom, qui peuvent atteindre plusieurs centaines de mètres de hauteur. Au sud on y trouve l'[Abysse de Storval](./Abysse de Storval.md), gigantesque lac.
+On peut se rendre sur ce plateau en passant par les [[escaliers de Storval]], creusés dans les falaises, du même nom, qui peuvent atteindre plusieurs centaines de mètres de hauteur. Au sud on y trouve l'[[Abysse de Storval]], gigantesque lac.

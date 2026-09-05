@@ -13,28 +13,28 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Con](./Conjurateur.md) 6, [ConU](./conjurateur unchained.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Occ](./Occultiste.md) 6, [Prê](./Prêtre.md) 6, [Psy](./Psychiste.md) 6
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Cible** une créature/[niveau](./niveau.md), qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres
-**Durée** 1 heure/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+{s:APG}**École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 6, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
+**Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres
+**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort fonctionne comme *[adaptation planaire](./Adaptation planaire.md)* mais il affecte plusieurs créatures.
+Ce sort fonctionne comme *[[adaptation planaire]]* mais il affecte plusieurs créatures.
 
 
 
 (((
 ## Adaptation planaire
-{s:APG}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 5, [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Méd](./Médium.md) 4, [Occ](./Occultiste.md) 4, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 4, [Spi](./Spirite.md) 5
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V](./composantes.md)
-**Portée** [personnelle](./personnelle.md)
+{s:APG}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V]]
+**Portée** [[personnelle]]
 **Cible** lanceur de sorts
-**Durée** 1 heure/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 ---
-*Adaptation planaire* immunise le personnage contre les effets néfastes dus à l'environnement d'un [plan](./Plans.md) particulier, y compris contre la toxicité, les températures extrêmes et le manque d'air. De plus, le personnage gagne une [résistance](./résistance.md) à l'énergie de 20 contre le type d'énergie qui prévaut sur ce [plan](./Plans.md) (en choisir un si le [plan](./Plans.md) est dominé par plusieurs types d'énergie).
+*Adaptation planaire* immunise le personnage contre les effets néfastes dus à l'environnement d'un [[plans|plan]] particulier, y compris contre la toxicité, les températures extrêmes et le manque d'air. De plus, le personnage gagne une [[résistance]] à l'énergie de 20 contre le type d'énergie qui prévaut sur ce [[plans|plan]] (en choisir un si le [[plans|plan]] est dominé par plusieurs types d'énergie).
 
-*Adaptation planaire* n'a aucun effet s'il est lancé sur le [plan](./Plans.md) d'origine du personnage.
+*Adaptation planaire* n'a aucun effet s'il est lancé sur le [[plans|plan]] d'origine du personnage.
 )))

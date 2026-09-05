@@ -6,618 +6,618 @@ LastModified: 2024-08-25 22:32
 
 {s:MenuOpposition}Ceci est un regroupement non-officiel des familles majeures de monstres qu'on peut retrouver dans la gamme Pathfinder. Les types et sous-types associés le sont parce que la majorité des membres d'une famille les possèdent, ils ne sont en aucun cas obligatoires.
 
-### Aéon ([lien](./Aéon.md))
+### Aéon ([[Aéon|lien]])
 *Sans se préoccuper des passions, de la pitié ou même de la raison, les gardiens de la réalité travaillent sans cesse, s’efforçant en silence de préserver le fragile équilibre dont dépend tout ce qui existe...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([aéon](./sous-type Aéon.md), [extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type aéon|aéon]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Akhana](./Akhana.md) (FP 12), [Bythos](./Bythos.md) (FP 16), [Lipika](./Lipika.md) (FP 18), [Othaos](./Othaos.md) (FP 5), [Paraclétus](./Paraclétus.md) (FP 2), [Pléroma](./Pléroma.md) (FP 20), [Thélétos](./Thélétos.md) (FP 7).
+**Membres.** [[Akhana]] (FP 12), [[Bythos]] (FP 16), [[Lipika]] (FP 18), [[Othaos]] (FP 5), [[Paraclétus]] (FP 2), [[Pléroma]] (FP 20), [[Thélétos]] (FP 7).
 
-### Agathion ([lien](./Agathion.md))
+### Agathion ([[Agathion|lien]])
 *Les agathions forment une race d’Extérieurs d’apparence animale et natifs du plan du Nirvana, le royaume du Bien pur, hors de toute influence des dogmes de la Loi (contrairement au Paradis) ou du Chaos (contrairement à l’Élysée)...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([agathion](./sous-type agathion.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type agathion|agathion]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Avoral](./Avoral.md) (FP 9), [Cervinal](./Cervinal.md) (FP 17), [Cétacéal](./Cétacéal.md) (FP 15), [Draconal](./Draconal.md) (FP 20), [Léonal](./Léonal.md) (FP 12), [Reptial](./Reptial.md) (FP 4), [Silvanshie](./Silvanshie.md) (FP 2), [Vulpinal](./Vulpinal.md) (FP 6).
+**Membres.** [[Avoral]] (FP 9), [[Cervinal]] (FP 17), [[Cétacéal]] (FP 15), [[Draconal]] (FP 20), [[Léonal]] (FP 12), [[Reptial]] (FP 4), [[Silvanshie]] (FP 2), [[Vulpinal]] (FP 6).
 
-### Ange ([lien](./Ange.md))
+### Ange ([[Ange|lien]])
 *Les anges sont une race de créatures célestes, c’est-à-dire de créatures vivant sur les plans d’alignement Bon...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([ange](./sous-type ange.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type ange|ange]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Balisse](./Balisse.md) (FP 8), [Cassisien](./Cassisien.md) (FP 2), [Choral](./Choral.md) (FP 6), [Empyréen](./Empyréen.md) (FP 20), [Déva astral](./Déva astral.md) (FP 14), [Déva monadique](./Déva monadique.md) (FP 12), [Déva movanique](./Déva movanique.md) (FP 10), [Planétar](./Planétar.md) (FP 16), [Solar](./Solar.md) (FP 23).
+**Membres.** [[Balisse]] (FP 8), [[Cassisien]] (FP 2), [[Choral]] (FP 6), [[Empyréen]] (FP 20), [[Déva astral]] (FP 14), [[Déva monadique]] (FP 12), [[Déva movanique]] (FP 10), [[Planétar]] (FP 16), [[Solar]] (FP 23).
 
 ### Animal de troupeau
 Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.
 
-**Types/Sous-types associés.** [Animal](./type Animal.md)
+**Types/Sous-types associés.** [[type Animal|Animal]]
 
-**Membres.** [Antilope](./Antilope.md) (FP 1/2), [Auroch](./Auroch.md) (FP 2), [Bélier](./Bélier.md) (FP 1), [Bison](./Bison.md) (FP 4), [Cerf](./Cerf.md) (FP 1), [Dromadaire](./Dromadaire.md) (FP 1), [Élan](./Élan.md) (FP 1), [Élan des rivières](./Élan des rivières.md) (FP 2), [Girafe](./Girafe.md) (FP 3).
+**Membres.** [[Antilope]] (FP 1/2), [[Auroch]] (FP 2), [[Bélier]] (FP 1), [[Bison]] (FP 4), [[Cerf]] (FP 1), [[Dromadaire]] (FP 1), [[Élan]] (FP 1), [[Élan des rivières]] (FP 2), [[Girafe]] (FP 3).
 
-### Archon ([lien](./Archon.md))
+### Archon ([[Archon|lien]])
 *Les archons sont une race d’Extérieurs originaire du Paradis, ces créatures de la Loi et du Bien ont pour devoir la protection de ce plan et de tous ceux qui sont innocents et dénués d’intentions maléfiques...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([archon](./sous-type archon.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type archon|archon]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]])
 
-**Membres.** [Archon annonciateur](./Archon annonciateur.md) (FP 2), [Archon bouclier](./Archon bouclier.md) (FP 10), [Archon canin](./Archon canin.md) (FP 4), [Archon des portails](./Archon des portails.md) (FP 17), [Archon étoile](./Archon étoile.md) (FP 19), [Archon excendré](./Archon excendré.md) (FP 12), [Archon légionnaire](./Archon légionnaire.md) (FP 7), [Archon lumineux](./Archon lumineux.md) (FP 2), [Archon messager](./Archon messager.md) (FP 14).
+**Membres.** [[Archon annonciateur]] (FP 2), [[Archon bouclier]] (FP 10), [[Archon canin]] (FP 4), [[Archon des portails]] (FP 17), [[Archon étoile]] (FP 19), [[Archon excendré]] (FP 12), [[Archon légionnaire]] (FP 7), [[Archon lumineux]] (FP 2), [[Archon messager]] (FP 14).
 
-### Asura ([lien](./Asura.md))
+### Asura ([[Asura|lien]])
 *Les asuras sont des êtres immortels dont les origines sont ancrées dans le rejet et la destruction...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([asura](./sous-type asura.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type asura|asura]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]])
 
-**Membres.** [Adhukaït](./Adhukaït.md) (FP 7), [Aghasura](./Aghasura.md) (FP 11), [Asurendra](./Asurendra.md) (FP 20), [Hishandura](./Hishandura.md) (FP 15), [Japalisura](./Japalisura.md) (FP 12), [Tripurasura](./Tripurasura.md) (FP 2), [Upasunda](./Upasunda.md) (FP 9).
+**Membres.** [[Adhukaït]] (FP 7), [[Aghasura]] (FP 11), [[Asurendra]] (FP 20), [[Hishandura]] (FP 15), [[Japalisura]] (FP 12), [[Tripurasura]] (FP 2), [[Upasunda]] (FP 9).
 
-### Azata ([lien](./Azata.md))
+### Azata ([[Azata|lien]])
 *Les azatas forment une race de créatures célestes natives du plan de l’Élysée, un plan dominé par la quête de la liberté et de la bonté...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([azata](./sous-type azata.md), [Bien](./sous-type Bien.md), [Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Bralani](./Bralani.md) (FP 6), [Brijidine](./Brijidine.md) (FP 17), [Gancanagh](./Gancanagh.md) (FP 4), [Ghaéle](./Ghaéle.md) (FP 13), [Lillende](./Lillende.md) (FP 7), [Lyrakien](./Lyrakien.md) (FP 2), [Raélis](./Raélis.md) (FP 10).
+**Membres.** [[Bralani]] (FP 6), [[Brijidine]] (FP 17), [[Gancanagh]] (FP 4), [[Ghaéle]] (FP 13), [[Lillende]] (FP 7), [[Lyrakien]] (FP 2), [[Raélis]] (FP 10).
 
-### Béhémoth ([lien](./Béhémoth.md))
+### Béhémoth ([[Béhémoth|lien]])
 *Immenses, sans âge, quasiment invincibles, les béhémoths infligent le châtiment divin sur les royaumes des mortels...*
 
-**Types/Sous-types associés.** [Créature magique](./type Créature magique.md) ([béhémoth](./sous-type béhémoth.md))
+**Types/Sous-types associés.** [[type Créature magique|Créature magique]] ([[sous-type béhémoth|béhémoth]])
 
-**Membres.** [Béhémoth des tempêtes](./Béhémoth des tempêtes.md) (FP 22), [Béhémoth du tonnerre](./Béhémoth du tonnerre.md) (FP 18), [Béhémoth thalassique](./Béhémoth thalassique.md) (FP 20).
+**Membres.** [[Béhémoth des tempêtes]] (FP 22), [[Béhémoth du tonnerre]] (FP 18), [[Béhémoth thalassique]] (FP 20).
 
-### Créature mécanique ([lien](./Créatures mécaniques.md))
+### Créature mécanique ([[Créatures mécaniques|lien]])
 *Les créatures mécaniques sont les cousins technologiques des golems...*
 
-**Types/Sous-types associés.** [Créature artificielle](./type Créature artificielle.md) ([créature mécanique](./sous-type créature mécanique.md))
+**Types/Sous-types associés.** [[type Créature artificielle|Créature artificielle]] ([[sous-type créature mécanique|créature mécanique]])
 
-**Membres.** [Cheval mécanique](./Cheval mécanique.md) (FP 6), [Dragon mécanique](./Dragon mécanique.md) (FP 16), [Escargot mécanique](./Escargot-mécanique.md) (FP 10), [Espion mécanique](./Espion mécanique.md) (FP 1/2), [Familier mécanique](./Familier mécanique.md) (FP 2), [Goliath mécanique](./Goliath mécanique.md) (FP 19), [Léviathan mécanique](./Léviathan mécanique.md) (FP 12), [Mage mécanique](./Mage mécanique.md) (FP 9), [Serviteur mécanique](./Serviteur mécanique.md) (FP 2), [Soldat mécanique](./Soldat mécanique.md) (FP 6).
+**Membres.** [[Cheval mécanique]] (FP 6), [[Dragon mécanique]] (FP 16), [[Escargot mécanique]] (FP 10), [[Espion mécanique]] (FP 1/2), [[Familier mécanique]] (FP 2), [[Goliath mécanique]] (FP 19), [[Léviathan mécanique]] (FP 12), [[Mage mécanique]] (FP 9), [[Serviteur mécanique]] (FP 2), [[Soldat mécanique]] (FP 6).
 
-### Colosse ([lien](./Colosse.md))
+### Colosse ([[Colosse|lien]])
 *Les magiciens créent des créatures artificielles à leur service depuis que les mortels ont découvert la magie...*
 
-**Types/Sous-types associés.** [Créature artificielle](./type Créature artificielle.md) ([colosse](./sous-type colosse.md), [mythique](./sous-type mythique.md))
+**Types/Sous-types associés.** [[type Créature artificielle|Créature artificielle]] ([[sous-type colosse|colosse]], [[sous-type mythique|mythique]])
 
-**Membres mythiques.** [Colosse de bois](./Colosse de bois.md) (FP 17/RMy 6), [Colosse de chair](./Colosse de chair.md) (FP 16/RMy 6), [Colosse de fer](./Colosse de fer.md) (FP 21/RMy 8), [Colosse de pierre](./Colosse de pierre.md) (FP 19/RMy 7), [Colosse sphinx](./Colosse sphinx.md) (FP 14/RMy 4).
+**Membres mythiques.** [[Colosse de bois]] (FP 17/RMy 6), [[Colosse de chair]] (FP 16/RMy 6), [[Colosse de fer]] (FP 21/RMy 8), [[Colosse de pierre]] (FP 19/RMy 7), [[Colosse sphinx]] (FP 14/RMy 4).
 
-### Créature distordue ([lien](./Créature distordue, archétype.md))
+### Créature distordue ([[Créature distordue, archétype|lien]])
 *Les drows les plus terrifiants ne se satisfont pas de la simple défaite et de la mort de leurs ennemis, préférant les profaner d’horrible manière...*
 
-**Types/Sous-types associés.** [Aberration](./type Aberration.md)
+**Types/Sous-types associés.** [[type Aberration|Aberration]]
 
-**Membres.** [Drider](./Drider.md) (FP 7), [Grothlut](./Grothlut.md) (FP 3), [Halsora](./Halsora.md) (FP 7), [Oronci](./Oronci.md) (FP 5).
+**Membres.** [[Drider]] (FP 7), [[Grothlut]] (FP 3), [[Halsora]] (FP 7), [[Oronci]] (FP 5).
 
-### Daémon ([lien](./Daémon.md))
+### Daémon ([[Daémon|lien]])
 *Les daémons sont les annonciateurs de la destruction, l’incarnation des pires manières de mourir...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])
 
-**Membres.** [Astradaémon](./Astradaémon.md) (FP 16), [Cacodaémon](./Cacodaémon.md) (FP 2), [Ceustodaémon](./Ceustodaémon.md) (FP 6), [Crucidaémon](./Crucidaémon.md) (FP 15), [Derghodaémon](./Derghodaémon.md) (FP 12), [Érodaémon](./Érodaémon.md) (FP 11), [Genthodaémon](./Genthodaémon.md) (FP 5), [Hydrodaémon](./Hydrodaémon.md) (FP 8), [Lacridaémon](./Lacridaémon.md) (FP 3), [Leukodaémon](./Leukodaémon.md) (FP 9), [Méladaémon](./Méladaémon.md) (FP 11), [Obcisidaémon](./Obcisidaémon.md) (FP 19), [Oléthrodaémon](./Oléthrodaémon.md) (FP 20), [Phasmadaémon](./Phasmadaémon.md) (FP 17), [Piscodaémon](./Piscodaémon.md) (FP 10), [Purrodaémon](./Purrodaémon.md) (FP 18), [Sanguidaémon](./Sanguidaémon.md) (FP 9), [Suspiridaémon](./Suspiridaémon.md) (FP 7), [Témerdaémon](./Témerdaémon.md) (FP 14), [Thanadaémon](./Thanadaémon.md) (FP 13), [Vénédaémon](./Vénédaémon.md) (FP 5), [Vulnudaémon](./Vulnudaémon.md) (FP 4).
+**Membres.** [[Astradaémon]] (FP 16), [[Cacodaémon]] (FP 2), [[Ceustodaémon]] (FP 6), [[Crucidaémon]] (FP 15), [[Derghodaémon]] (FP 12), [[Érodaémon]] (FP 11), [[Genthodaémon]] (FP 5), [[Hydrodaémon]] (FP 8), [[Lacridaémon]] (FP 3), [[Leukodaémon]] (FP 9), [[Méladaémon]] (FP 11), [[Obcisidaémon]] (FP 19), [[Oléthrodaémon]] (FP 20), [[Phasmadaémon]] (FP 17), [[Piscodaémon]] (FP 10), [[Purrodaémon]] (FP 18), [[Sanguidaémon]] (FP 9), [[Suspiridaémon]] (FP 7), [[Témerdaémon]] (FP 14), [[Thanadaémon]] (FP 13), [[Vénédaémon]] (FP 5), [[Vulnudaémon]] (FP 4).
 
-### Démodande ([lien](./Démodande.md))
+### Démodande ([[Démodande|lien]])
 *Au cours d’une guerre antique dont la plupart des mortels n’ont nul souvenir, les titans thanatotiques se soulevèrent contre les dieux...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démodande](./sous-type démodande.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démodande|démodande]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])
 
-**Membres.** [Démodande caoutchouteux](./Démodande caoutchouteux.md) (FP 17), [Démodande filandreux](./Démodande filandreux.md) (FP 15), [Démodande goudronneux](./Démodande goudronneux.md) (FP 13), [Démodande hirsute](./Démodande hirsute.md) (FP 18), [Démodande visqueux](./Démodande visqueux.md) (FP 16).
+**Membres.** [[Démodande caoutchouteux]] (FP 17), [[Démodande filandreux]] (FP 15), [[Démodande goudronneux]] (FP 13), [[Démodande hirsute]] (FP 18), [[Démodande visqueux]] (FP 16).
 
-### Démon ([lien](./Démon.md))
+### Démon ([[Démon|lien]])
 *Les démons n’existent que pour une seule raison : détruire...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])
 
-**Membres.** [Abrikandilu](./../Aventures/abrikandilu.md) (FP 3), [Andrazku](./Andrazku.md) (FP 5), [Ariès](./Ariès.md) (FP 4), [Babau](./Babau.md) (FP 6), [Balor](./Balor.md) (FP 20), [Brimorak](./Brimorak.md) (FP 5), [Cambion](./Cambion.md) (FP 2), [Coloxe](./Coloxe.md) (FP 12), [Démon des ombres](./Démon des ombres.md) (FP 7), [Dérakni](./Dérakni.md) (FP 10), [Dretch](./Dretch.md) (FP 2), [Gallu](./Gallu.md) (FP 19), [Gibrileth](./Gibrileth.md) (FP 11), [Glabrezu](./Glabrezu.md) (FP 13), [Hala](./Hala.md) (FP 4), [Hezrou](./Hezrou.md) (FP 11), [Incube](./Incube.md) (FP 6), [Kalavakus](./Kalavakus.md) (FP 10), [Katpaskir](./Katpaskir.md) (FP 18), [Kithangien](./Kithangien.md) (FP 9), [Lilitu](./Lilitu.md) (FP 17), [Marilith](./Marilith.md) (FP 17), [Nabasu](./Nabasu.md) (FP 8), [Nalfeshnie](./Nalfeshnie.md) (FP 14), [Omox](./Omox.md) (FP 12), [Oolioddroo](./Oolioddroo.md) (FP 13), [Quasit](./Quasit.md) (FP 2), [Séraptis](./Séraptis.md) (FP 15), [Shachath](./Shachath.md) (FP 11), [Shemhazian](./Shemhazian.md) (FP 16), [Succube](./Succube.md) (FP 7), [Thoxe](./Thoxe.md) (FP 5), [Ulkreth](./Ulkreth.md) (FP 15), [Vavaki](./Vavaki.md) (FP 18), [Vermlek](./Vermlek.md) (FP 3), [Vilsteth](./Vilsteth.md) (FP 16), [Vrock](./Vrock.md) (FP 9), [Vrolikai](./Vrolikai.md) (FP 19).
-**Membres mythiques.** [Marilith mythique](./Marilith mythique.md) (FP 21/RMy 8), [Nalfeshnie mythique](./Nalfeshnie mythique.md) (FP 17/RMy 7), [Vrock mythique](./Vrock mythique.md) (FP 11/RMy 4).
+**Membres.** [[Abrikandilu]] (FP 3), [[Andrazku]] (FP 5), [[Ariès]] (FP 4), [[Babau]] (FP 6), [[Balor]] (FP 20), [[Brimorak]] (FP 5), [[Cambion]] (FP 2), [[Coloxe]] (FP 12), [[Démon des ombres]] (FP 7), [[Dérakni]] (FP 10), [[Dretch]] (FP 2), [[Gallu]] (FP 19), [[Gibrileth]] (FP 11), [[Glabrezu]] (FP 13), [[Hala]] (FP 4), [[Hezrou]] (FP 11), [[Incube]] (FP 6), [[Kalavakus]] (FP 10), [[Katpaskir]] (FP 18), [[Kithangien]] (FP 9), [[Lilitu]] (FP 17), [[Marilith]] (FP 17), [[Nabasu]] (FP 8), [[Nalfeshnie]] (FP 14), [[Omox]] (FP 12), [[Oolioddroo]] (FP 13), [[Quasit]] (FP 2), [[Séraptis]] (FP 15), [[Shachath]] (FP 11), [[Shemhazian]] (FP 16), [[Succube]] (FP 7), [[Thoxe]] (FP 5), [[Ulkreth]] (FP 15), [[Vavaki]] (FP 18), [[Vermlek]] (FP 3), [[Vilsteth]] (FP 16), [[Vrock]] (FP 9), [[Vrolikai]] (FP 19).
+**Membres mythiques.** [[Marilith mythique]] (FP 21/RMy 8), [[Nalfeshnie mythique]] (FP 17/RMy 7), [[Vrock mythique]] (FP 11/RMy 4).
 
-### Diable ([lien](./Diable.md))
+### Diable ([[Diable|lien]])
 *Les diables sont passés maîtres dans l’art de corrompre et de profaner la pureté...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]])
 
-**Membres.** [Chortov](./Chortov.md) (FP 9), [Diable accusateur](./Diable accusateur.md) (FP 3), [Diable apostat](./Diable apostat.md) (FP 17), [Diable barbelé](./Diable barbelé.md) (FP 11), [Diable barbu](./Diable barbu.md) (FP 5), [Diable belliciste](./Diable belliciste.md) (FP 7), [Diable cornu](./Diable cornu.md) (FP 16), [Diable de la noyade](./Diable de la noyade.md) (FP 8), [Diable de l'hérésie](./Diable de lhérésie.md) (FP 12), [Diable de l'ost](./Diable de lost.md) (FP 6), [Diable de l'ost majeur](./Diable de lost Majeur.md) (FP 6), [Diable de l'ost mineur](./Diable de lost mineur.md) (FP 3), [Diable des contrats](./Diable des contrats.md) (FP 10), [Diable des glaces](./Diable des glaces.md) (FP 13), [Diable immolateur](./Diable immolateur.md) (FP 19), [Diable némésis](./Diable némésis.md) (FP 18), [Diable osseux](./Diable osseux.md) (FP 9), [Diable trompeur](./Diable trompeur.md) (FP 16), [Diable vestale](./Diable vestale.md) (FP 14), [Diablotin](./Diablotin.md) (FP 2), [Diantrefosse](./Diantrefosse.md) (FP 20), [Érinye](./Érinye.md) (FP 8), [Lémure](./Lémure.md) (FP 1), [Salikotal](./Salikotal.md) (FP 7), [Ukobach](./Ukobach.md) (FP 4).
-**Membres mythiques.** [Diable osseux mythique](./Diable osseux mythique.md) (FP 11/RMy 4), [Diable des glaces mythique](./Diable des glaces mythique.md) (FP 16/RMy 6).
+**Membres.** [[Chortov]] (FP 9), [[Diable accusateur]] (FP 3), [[Diable apostat]] (FP 17), [[Diable barbelé]] (FP 11), [[Diable barbu]] (FP 5), [[Diable belliciste]] (FP 7), [[Diable cornu]] (FP 16), [[Diable de la noyade]] (FP 8), [[Diable de lhérésie|Diable de l'hérésie]] (FP 12), [[Diable de lost|Diable de l'ost]] (FP 6), [[Diable de lost Majeur|Diable de l'ost majeur]] (FP 6), [[Diable de lost mineur|Diable de l'ost mineur]] (FP 3), [[Diable des contrats]] (FP 10), [[Diable des glaces]] (FP 13), [[Diable immolateur]] (FP 19), [[Diable némésis]] (FP 18), [[Diable osseux]] (FP 9), [[Diable trompeur]] (FP 16), [[Diable vestale]] (FP 14), [[Diablotin]] (FP 2), [[Diantrefosse]] (FP 20), [[Érinye]] (FP 8), [[Lémure]] (FP 1), [[Salikotal]] (FP 7), [[Ukobach]] (FP 4).
+**Membres mythiques.** [[Diable osseux mythique]] (FP 11/RMy 4), [[Diable des glaces mythique]] (FP 16/RMy 6).
 
-### Dinosaure ([lien](./Dinosaure.md))
+### Dinosaure ([[Dinosaure|lien]])
 Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.
 
-**Types/Sous-types associés.** [Animal](./type Animal.md)
+**Types/Sous-types associés.** [[type Animal|Animal]]
 
-**Membres.** [Allosaure](./Allosaure.md) (FP 7), [Ankylosaure](./Ankylosaure.md) (FP 6), [Brachiosaure](./Brachiosaure.md) (FP 10), [Cératosaure](./Cératosaure.md) (FP 5), [Compsognathus](./Compsognathus.md) (FP 1/2), [Déinonychus](./Déinonychus.md) (FP 3), [Dimétrodon](./Dimétrodon.md) (FP 3), [Dimorphodon](./Dimorphodon.md) (FP 1), [Diplodocus](./Diplodocus.md) (FP 12), [Élasmosaure](./Élasmosaure.md) (FP 7), [Iguanodon](./Iguanodon.md) (FP 6), [Pachycéphalosaure](./Pachycéphalosaure.md) (FP 4), [Parasaurolophus](./Parasaurolophus.md) (FP 4), [Plésiosaure](./Plésiosaure.md) (FP 2), [Ptéranodon](./Ptéranodon.md) (FP 3), [Spinosaure](./Spinosaure.md) (FP 11), [Stégosaure](./Stégosaure.md) (FP 7), [Styracosaure](./Styracosaure.md) (FP 5), [Thérizinosaure](./Thérizinosaure.md) (FP 10), [Tricératops](./Tricératops.md) (FP 8), [Troodon](./Troodon.md) (FP 1), [Tylosaure](./Tylosaure.md) (FP 8), [Tyrannosaure](./Tyrannosaure.md) (FP 9), [Vélociraptor](./Vélociraptor.md) (FP 2).
+**Membres.** [[Allosaure]] (FP 7), [[Ankylosaure]] (FP 6), [[Brachiosaure]] (FP 10), [[Cératosaure]] (FP 5), [[Compsognathus]] (FP 1/2), [[Déinonychus]] (FP 3), [[Dimétrodon]] (FP 3), [[Dimorphodon]] (FP 1), [[Diplodocus]] (FP 12), [[Élasmosaure]] (FP 7), [[Iguanodon]] (FP 6), [[Pachycéphalosaure]] (FP 4), [[Parasaurolophus]] (FP 4), [[Plésiosaure]] (FP 2), [[Ptéranodon]] (FP 3), [[Spinosaure]] (FP 11), [[Stégosaure]] (FP 7), [[Styracosaure]] (FP 5), [[Thérizinosaure]] (FP 10), [[Tricératops]] (FP 8), [[Troodon]] (FP 1), [[Tylosaure]] (FP 8), [[Tyrannosaure]] (FP 9), [[Vélociraptor]] (FP 2).
 
-### Div ([lien](./Div.md))
+### Div ([[Div|lien]])
 *Les démons existent pour détruire, les diables aspirent à corrompre et à contrôler et les infernaux veulent la mort de toute chose, mais les êtres abjects que l’on connaît sous le nom de divs s’acharnent, eux, à ruiner et à ravager tout ce que créent les mortels...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([div](./sous-type div.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type div|div]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])
 
-**Membres.** [Aghash](./Aghash.md) (FP 4), [Akvan](./Akvan.md) (FP 20), [Doru](./Doru.md) (FP 2), [Ghawwas](./Ghawwas.md) (FP 10), [Païraka](./Païraka.md) (FP 7), [Sépide](./Sépide.md) (FP 14), [Shira](./Shira.md) (FP 12).
+**Membres.** [[Aghash]] (FP 4), [[Akvan]] (FP 20), [[Doru]] (FP 2), [[Ghawwas]] (FP 10), [[Païraka]] (FP 7), [[Sépide]] (FP 14), [[Shira]] (FP 12).
 
-### Dragon chromatique ([lien](./dragon.md))
+### Dragon chromatique ([[Dragon|lien]])
 *Les véritables dragons se répartissent en deux grandes catégories : les chromatiques et les métalliques...*
 <table width="100%"><tr><td width="49%">
 #### Dragon blanc
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([froid](./sous-type froid.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type froid|froid]])
 
-**Membres.** [Dragon blanc adulte](./Dragon blanc adulte.md) (FP 10), [Dragon blanc vénérable](./Dragon blanc vénérable.md) (FP 15), [Jeune dragon blanc](./Jeune dragon blanc.md) (FP 6).
-**Membres mythiques.** [Dragon blanc adolescent mythique](./Dragon blanc mythique.md) (FP 9/RMy 3).
+**Membres.** [[Dragon blanc adulte]] (FP 10), [[Dragon blanc vénérable]] (FP 15), [[Jeune dragon blanc]] (FP 6).
+**Membres mythiques.** [[Dragon blanc mythique|Dragon blanc adolescent mythique]] (FP 9/RMy 3).
 
 #### Dragon bleu
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Terre](./sous-type Terre.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Terre|Terre]])
 
-**Membres.** [Dragon bleu adulte](./Dragon bleu adulte.md) (FP 13), [Dragon bleu vénérable](./Dragon bleu vénérable.md) (FP 18), [Jeune dragon bleu](./Jeune dragon bleu.md) (FP 9).
-**Membres mythiques.** [Dragon bleu d'âge mûr mythique](./Dragon bleu mythique.md) (FP 17/RMy 7).
+**Membres.** [[Dragon bleu adulte]] (FP 13), [[Dragon bleu vénérable]] (FP 18), [[Jeune dragon bleu]] (FP 9).
+**Membres mythiques.** [[Dragon bleu mythique|Dragon bleu d'âge mûr mythique]] (FP 17/RMy 7).
 
 #### Dragon noir
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Eau](./sous-type Eau.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Eau|Eau]])
 
-**Membres.** [Dragon noir adulte](./Dragon noir adulte.md) (FP 11), [Dragon noir vénérable](./Dragon noir vénérable.md) (FP 16), [Jeune dragon noir](./Jeune dragon noir.md) (FP 7).
-**Membres mythiques.** [Dragon noir d'âge mûr mythique](./Dragon noir mythique.md) (FP 15/RMy 6).
+**Membres.** [[Dragon noir adulte]] (FP 11), [[Dragon noir vénérable]] (FP 16), [[Jeune dragon noir]] (FP 7).
+**Membres mythiques.** [[Dragon noir mythique|Dragon noir d'âge mûr mythique]] (FP 15/RMy 6).
 </td><td width="2%">
 </td><td width="49%">
 #### Dragon rouge
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Feu](./sous-type Feu.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Feu|Feu]])
 
-**Membres.** [Dragon rouge adulte](./Dragon rouge adulte.md) (FP 14), [Dragon rouge vénérable](./Dragon rouge vénérable.md) (FP 19), [Jeune dragon rouge](./Jeune dragon rouge.md) (FP 10).
-**Membres mythiques.** [Dracosire rouge mythique](./Dracosire rouge mythique.md) (FP 25/RMy 10), [Jeune dragon rouge mythique](./Jeune dragon rouge mythique.md) (FP 12/RMy 5).
+**Membres.** [[Dragon rouge adulte]] (FP 14), [[Dragon rouge vénérable]] (FP 19), [[Jeune dragon rouge]] (FP 10).
+**Membres mythiques.** [[Dracosire rouge mythique]] (FP 25/RMy 10), [[Jeune dragon rouge mythique]] (FP 12/RMy 5).
 
 #### Dragon vert
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Air](./sous-type Air.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Air|Air]])
 
-**Membres.** [Dragon vert adulte](./Dragon vert adulte.md) (FP 12), [Dragon vert vénérable](./Dragon vert vénérable.md) (FP 17), [Jeune dragon vert](./Jeune dragon vert.md) (FP 8).
-**Membres mythiques.** [Très vieux dragon vert mythique](./Dragon vert mythique.md) (FP 20/RMy 8).
+**Membres.** [[Dragon vert adulte]] (FP 12), [[Dragon vert vénérable]] (FP 17), [[Jeune dragon vert]] (FP 8).
+**Membres mythiques.** [[Dragon vert mythique|Très vieux dragon vert mythique]] (FP 20/RMy 8).
 </td></tr></table>
 
-### Dragon ésotérique ([lien](./dragon ésotérique.md))
+### Dragon ésotérique ([[Dragon ésotérique|lien]])
 *Les cinq dragons décrits plus loin forment l’une des nombreuses familles de dragons véritables. Elle comporte des créatures à la parenté distante qui vivent dans les régions lointaines des plans Ésotériques ou qui se mêlent aux problèmes abscons du plan Matériel...*
 <table width="100%"><tr><td width="49%">
 #### Dragon astral
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Dragon astral adulte](./Dragon astral adulte.md) (FP 13), [Dragon astral vénérable](./Dragon astral vénérable.md) (FP 18), [Jeune dragon astral](./Jeune dragon astral.md) (FP 9).
+**Membres.** [[Dragon astral adulte]] (FP 13), [[Dragon astral vénérable]] (FP 18), [[Jeune dragon astral]] (FP 9).
 
 #### Dragon des cauchemars
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Dragon des cauchemars adulte](./Dragon des cauchemars adulte.md) (FP 10), [Dragon des cauchemars vénérable](./Dragon des cauchemars vénérable.md) (FP 15), [Jeune dragon des cauchemars](./Jeune dragon des cauchemars.md) (FP 6).
+**Membres.** [[Dragon des cauchemars adulte]] (FP 10), [[Dragon des cauchemars vénérable]] (FP 15), [[Jeune dragon des cauchemars]] (FP 6).
 
 #### Dragon des rêves
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Dragon des rêves adulte](./Dragon des rêves adulte.md) (FP 14), [Dragon des rêves vénérable](./Dragon des rêves vénérable.md) (FP 19), [Jeune dragon des rêves](./Jeune dragon des rêves.md) (FP 10).
+**Membres.** [[Dragon des rêves adulte]] (FP 14), [[Dragon des rêves vénérable]] (FP 19), [[Jeune dragon des rêves]] (FP 10).
 </td><td width="2%">
 </td><td width="49%">
 #### Dragon éthéré
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Dragon éthéré adulte](./Dragon éthéré adulte.md) (FP 11), [Dragon éthéré vénérable](./Dragon éthéré vénérable.md) (FP 16), [Jeune dragon éthéré](./Jeune dragon éthéré.md) (FP 7).
+**Membres.** [[Dragon éthéré adulte]] (FP 11), [[Dragon éthéré vénérable]] (FP 16), [[Jeune dragon éthéré]] (FP 7).
 
 #### Dragon occulte
-**Types/Sous-types associés.** [Dragon](./type Dragon.md)
+**Types/Sous-types associés.** [[type Dragon|Dragon]]
 
-**Membres.** [Dragon occulte adulte](./Dragon occulte adulte.md) (FP 10), [Dragon occulte vénérable](./Dragon occulte vénérable.md) (FP 15), [Jeune dragon occulte](./Jeune dragon occulte.md) (FP 6).
+**Membres.** [[Dragon occulte adulte]] (FP 10), [[Dragon occulte vénérable]] (FP 15), [[Jeune dragon occulte]] (FP 6).
 </td></tr></table>
 
-### Dragon impérial ([lien](./Dragon impérial.md))
+### Dragon impérial ([[Dragon impérial|lien]])
 *Si les dragons chromatiques et les dragons métalliques sont les plus connus, il existe aussi d’autres catégories de véritables dragons...*
 <table width="100%"><tr><td width="49%">
 #### Dragon des forêts
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Terre](./sous-type Terre.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Terre|Terre]])
 
-**Membres.** [Dragon des forêts adulte](./Dragon des forêts adulte.md) (FP 14), [Dragon des forêts vénérable](./Dragon des forêts vénérable.md) (FP 19), [Jeune dragon des forêts](./Jeune dragon des forêts.md) (FP 10).
+**Membres.** [[Dragon des forêts adulte]] (FP 14), [[Dragon des forêts vénérable]] (FP 19), [[Jeune dragon des forêts]] (FP 10).
 
 #### Dragon souverain
-**Types/Sous-types associés.** [Dragon](./type Dragon.md)
+**Types/Sous-types associés.** [[type Dragon|Dragon]]
 
-**Membres.** [Dragon souverain adulte](./Dragon souverain adulte.md) (FP 15), [Dragon souverain vénérable](./Dragon souverain vénérable.md) (FP 20), [Jeune dragon souverain](./Jeune dragon souverain.md) (FP 11).
+**Membres.** [[Dragon souverain adulte]] (FP 15), [[Dragon souverain vénérable]] (FP 20), [[Jeune dragon souverain]] (FP 11).
 
 #### Dragon du ciel
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Air](./sous-type Air.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Air|Air]])
 
-**Membres.** [Dragon du ciel adulte](./Dragon du ciel adulte.md) (FP 13), [Dragon du ciel vénérable](./Dragon du ciel vénérable.md) (FP 18), [Jeune dragon du ciel](./Jeune dragon du ciel.md) (FP 9).
+**Membres.** [[Dragon du ciel adulte]] (FP 13), [[Dragon du ciel vénérable]] (FP 18), [[Jeune dragon du ciel]] (FP 9).
 </td><td width="2%">
 </td><td width="49%">
 #### Dragon des mers
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Eau](./sous-type Eau.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Eau|Eau]])
 
-**Membres.** [Dragon des mers adulte](./Dragon des mers adulte.md) (FP 12), [Dragon des mers vénérable](./Dragon des mers vénérable.md) (FP 17), [Jeune dragon des mers](./Jeune dragon des mers.md) (FP 8).
+**Membres.** [[Dragon des mers adulte]] (FP 12), [[Dragon des mers vénérable]] (FP 17), [[Jeune dragon des mers]] (FP 8).
 
 #### Dragon chtonien
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Feu](./sous-type Feu.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Feu|Feu]])
 
-**Membres.** [Dragon chtonien adulte](./Dragon chtonien adulte.md) (FP 11), [Dragon chtonien vénérable](./Dragon chtonien vénérable.md) (FP 16), [Jeune dragon chtonien](./Jeune dragon chtonien.md) (FP 7).
+**Membres.** [[Dragon chtonien adulte]] (FP 11), [[Dragon chtonien vénérable]] (FP 16), [[Jeune dragon chtonien]] (FP 7).
 </td></tr></table>
 
-### Dragon métallique ([lien](./dragon.md))
+### Dragon métallique ([[Dragon|lien]])
 *Les véritables dragons se répartissent en deux grandes catégories : les chromatiques et les métalliques...*
 <table width="100%"><tr><td width="49%">
 #### Dragon d'arain
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Feu](./sous-type Feu.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Feu|Feu]])
 
-**Membres.** [Dragon d'airain adulte](./Dragon dairain adulte.md) (FP 11), [Dragon d'airain vénérable](./Dragon dairain vénérable.md) (FP 16), [Jeune dragon d'airain](./Jeune dragon dairain.md) (FP 7).
+**Membres.** [[Dragon dairain adulte|Dragon d'airain adulte]] (FP 11), [[Dragon dairain vénérable|Dragon d'airain vénérable]] (FP 16), [[Jeune dragon dairain|Jeune dragon d'airain]] (FP 7).
 
 #### Dragon d'argent
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([froid](./sous-type froid.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type froid|froid]])
 
-**Membres.** [Dragon d'argent adulte](./Dragon dargent adulte.md) (FP 14), [Dragon d'argent vénérable](./Dragon dargent vénérable.md) (FP 19), [Jeune dragon d'argent](./Jeune dragon dargent.md) (FP 10).
+**Membres.** [[Dragon dargent adulte|Dragon d'argent adulte]] (FP 14), [[Dragon dargent vénérable|Dragon d'argent vénérable]] (FP 19), [[Jeune dragon dargent|Jeune dragon d'argent]] (FP 10).
 
 #### Dragon de bronze
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Eau](./sous-type Eau.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Eau|Eau]])
 
-**Membres.** [Dragon de bronze adulte](./Dragon de bronze adulte.md) (FP 13), [Dragon de bronze vénérable](./Dragon de bronze vénérable.md) (FP 18), [Jeune dragon de bronze](./Jeune dragon de bronze.md) (FP 9).
+**Membres.** [[Dragon de bronze adulte]] (FP 13), [[Dragon de bronze vénérable]] (FP 18), [[Jeune dragon de bronze]] (FP 9).
 </td><td width="2%">
 </td><td width="49%">
 #### Dragon de cuivre
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Terre](./sous-type Terre.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Terre|Terre]])
 
-**Membres.** [Dragon de cuivre adulte](./Dragon de cuivre adulte.md) (FP 12), [Dragon de cuivre vénérable](./Dragon de cuivre vénérable.md) (FP 17), [Jeune dragon de cuivre](./Jeune dragon de cuivre.md) (FP 8).
+**Membres.** [[Dragon de cuivre adulte]] (FP 12), [[Dragon de cuivre vénérable]] (FP 17), [[Jeune dragon de cuivre]] (FP 8).
 
 #### Dragon d'or
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Feu](./sous-type Feu.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Feu|Feu]])
 
-**Membres.** [Dragon d'or adulte](./Dragon dor adulte.md) (FP 15), [Dragon d'or vénérable](./Dragon dor vénérable.md) (FP 20), [Jeune dragon d'or](./Jeune dragon dor.md) (FP 11).
+**Membres.** [[Dragon dor adulte|Dragon d'or adulte]] (FP 15), [[Dragon dor vénérable|Dragon d'or vénérable]] (FP 20), [[Jeune dragon dor|Jeune dragon d'or]] (FP 11).
 </td></tr></table>
 
-### Dragon primaire ([lien](./dragon.md))
+### Dragon primaire ([[Dragon|lien]])
 *Les dragons chromatiques et métalliques sont les plus connus de leurs espèces, mais il existe d’autres catégories de dragons véritables, tels les dragons primaires, des créatures puissantes originaires des plans Élémentaires et du plan des Ombres...*
 <table width="100%"><tr><td width="49%">
 #### Dragon de cristal
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([extraplanaire](./sous-type extraplanaire.md), [Terre](./sous-type Terre.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Terre|Terre]])
 
-**Membres.** [Dragon de cristal adulte](./Dragon de cristal adulte.md) (FP 10), [Dragon de cristal vénérable](./Dragon de cristal vénérable.md) (FP 15), [Jeune dragon de cristal](./Jeune dragon de cristal.md) (FP 6).
+**Membres.** [[Dragon de cristal adulte]] (FP 10), [[Dragon de cristal vénérable]] (FP 15), [[Jeune dragon de cristal]] (FP 6).
 
 #### Dragon de magma
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([extraplanaire](./sous-type extraplanaire.md), [Feu](./sous-type Feu.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]])
 
-**Membres.** [Dragon de magma adulte](./Dragon de magma adulte.md) (FP 12), [Dragon de magma vénérable](./Dragon de magma vénérable.md) (FP 17), [Jeune dragon de magma](./Jeune dragon de magma.md) (FP 8).
+**Membres.** [[Dragon de magma adulte]] (FP 12), [[Dragon de magma vénérable]] (FP 17), [[Jeune dragon de magma]] (FP 8).
 
 #### Dragon de saumure
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Eau](./sous-type Eau.md), [extraplanaire](./sous-type extraplanaire.md)).
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Eau|Eau]], [[sous-type extraplanaire|extraplanaire]]).
 
-**Membres.** [Dragon de saumure adulte](./Dragon de saumure adulte.md) (FP 11), [Dragon de saumure vénérable](./Dragon de saumure vénérable.md) (FP 16), [Jeune dragon de saumure](./Jeune dragon de saumure.md) (FP 7).
+**Membres.** [[Dragon de saumure adulte]] (FP 11), [[Dragon de saumure vénérable]] (FP 16), [[Jeune dragon de saumure]] (FP 7).
 </td><td width="2%">
 </td><td width="49%">
 #### Dragon des nuages
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Air](./sous-type Air.md), [extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Air|Air]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Dragon des nuages adulte](./Dragon des nuages adulte.md) (FP 13), [Dragon des nuages vénérable](./Dragon des nuages vénérable.md) (FP 18), [Jeune dragon des nuages](./Jeune dragon des nuages.md) (FP 9).
+**Membres.** [[Dragon des nuages adulte]] (FP 13), [[Dragon des nuages vénérable]] (FP 18), [[Jeune dragon des nuages]] (FP 9).
 
 #### Dragon umbral
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Dragon umbral adulte](./Dragon umbral adulte.md) (FP 14), [Dragon umbral vénérable](./Dragon umbral vénérable.md) (FP 19), [Jeune dragon umbral](./Jeune dragon umbral.md) (FP 10).
+**Membres.** [[Dragon umbral adulte]] (FP 14), [[Dragon umbral vénérable]] (FP 19), [[Jeune dragon umbral]] (FP 10).
 </td></tr></table>
 
-### Dragon sidéral ([lien](./Dragon sidéral.md))
+### Dragon sidéral ([[Dragon sidéral|lien]])
 *Les dragons sidéraux habitent dans les vastes étendues de l’espace...*
 <table width="100%"><tr><td width="49%">
 #### Dragon du néant
-**Types/Sous-types associés.** [Dragon](./type Dragon.md)
+**Types/Sous-types associés.** [[type Dragon|Dragon]]
 
-**Membres.** [Dragon du néant adulte](./Dragon du néant adulte.md) (FP 13), [Dragon du néant vénérable](./Dragon du néant vénérable.md) (FP 18), [Jeune dragon du néant](./Jeune dragon du néant.md) (FP 9).
+**Membres.** [[Dragon du néant adulte]] (FP 13), [[Dragon du néant vénérable]] (FP 18), [[Jeune dragon du néant]] (FP 9).
 
 #### Dragon du vortex
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Feu](./sous-type Feu.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Feu|Feu]])
 
-**Membres.** [Dragon du vortex adulte](./Dragon du vortex adulte.md) (FP 14), [Dragon du vortex vénérable](./Dragon du vortex vénérable.md) (FP 19), [Jeune dragon du vortex](./Jeune dragon du vortex.md) (FP 10).
+**Membres.** [[Dragon du vortex adulte]] (FP 14), [[Dragon du vortex vénérable]] (FP 19), [[Jeune dragon du vortex]] (FP 10).
 
 #### Dragon lunaire
-**Types/Sous-types associés.** [Dragon](./type Dragon.md)
+**Types/Sous-types associés.** [[type Dragon|Dragon]]
 
-**Membres.** [Dragon lunaire adulte](./Dragon lunaire adulte.md) (FP 13), [Dragon lunaire vénérable](./Dragon lunaire vénérable.md) (FP 18), [Jeune dragon lunaire](./Jeune dragon lunaire.md) (FP 9).
+**Membres.** [[Dragon lunaire adulte]] (FP 13), [[Dragon lunaire vénérable]] (FP 18), [[Jeune dragon lunaire]] (FP 9).
 </td><td width="2%">
 </td><td width="49%">
 #### Dragon solaire
-**Types/Sous-types associés.** [Dragon](./type Dragon.md) ([Feu](./sous-type Feu.md))
+**Types/Sous-types associés.** [[type Dragon|Dragon]] ([[sous-type Feu|Feu]])
 
-**Membres.** [Dragon solaire adulte](./Dragon solaire adulte.md) (FP 13), [Dragon solaire vénérable](./Dragon solaire vénérable.md) (FP 18), [Jeune dragon solaire](./Jeune dragon solaire.md) (FP 9).
+**Membres.** [[Dragon solaire adulte]] (FP 13), [[Dragon solaire vénérable]] (FP 18), [[Jeune dragon solaire]] (FP 9).
 
 #### Dragon temporel
-**Types/Sous-types associés.** [Dragon](./type Dragon.md)
+**Types/Sous-types associés.** [[type Dragon|Dragon]]
 
-**Membres.** [Dragon temporel adulte](./Dragon temporel adulte.md) (FP 15), [Dragon temporel vénérable](./Dragon temporel vénérable.md) (FP 20), [Jeune dragon temporel](./Jeune dragon temporel.md) (FP 11).
+**Membres.** [[Dragon temporel adulte]] (FP 15), [[Dragon temporel vénérable]] (FP 20), [[Jeune dragon temporel]] (FP 11).
 </td></tr></table>
 
-### Drake ([lien](./Drake.md))
+### Drake ([[Drake|lien]])
 Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.
 
-**Types/Sous-types associés.** [Dragon](./type Dragon.md)
+**Types/Sous-types associés.** [[type Dragon|Dragon]]
 
-**Membres.** [Drake de brume](./Drake de brume.md) (FP 5), [Drake de lave](./Drake de lave.md) (FP 9), [Drake de l'éther](./Drake de léther.md) (FP 10), [Drake des crevasses](./Drake des crevasses.md) (FP 9), [Drake des flammes](./Drake des flammes.md) (FP 5), [Drake des forêts](./Drake des forêts.md) (FP 4), [Drake des jungles](./Drake des jungles.md) (FP 6), [Drake des mers](./Drake des mers.md) (FP 6), [Drake des rivières](./Drake des rivières.md) (FP 3), [Drake des tertres](./Drake des tertres.md) (FP 7), [Drake d'ombre](./Drake dombre.md) (FP 2), [Drake du désert](./Drake du désert.md) (FP 8), [Drake du froid](./Drake du froid.md) (FP 7).
+**Membres.** [[Drake de brume]] (FP 5), [[Drake de lave]] (FP 9), [[Drake de léther|Drake de l'éther]] (FP 10), [[Drake des crevasses]] (FP 9), [[Drake des flammes]] (FP 5), [[Drake des forêts]] (FP 4), [[Drake des jungles]] (FP 6), [[Drake des mers]] (FP 6), [[Drake des rivières]] (FP 3), [[Drake des tertres]] (FP 7), [[Drake dombre|Drake d'ombre]] (FP 2), [[Drake du désert]] (FP 8), [[Drake du froid]] (FP 7).
 
 ### Élémentaire
 *Les élémentaires sont des créatures intégralement composées d’un des quatre éléments classiques (air, eau, feu ou terre)...*
 <table width="100%"><tr><td width="49%">
 #### Élémentaire d'aether
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([aether](./sous-type Aether.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type aether|aether]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Élémentaire d'aether de taille G](./Élémentaire daether de taille G.md) (FP 5), [Élémentaire d'aether de taille M](./Élémentaire daether de taille M.md) (FP 3), [Élémentaire d'aether de taille P](./Élémentaire daether de taille P.md) (FP 1), [Élémentaire d'aether de taille TG](./Élémentaire daether de taille TG.md) (FP 7), [Élémentaire d'aether noble](./Élémentaire daether noble.md) (FP 9), [Seigneur élémentaire d'aether](./Seigneur élémentaire daether.md) (FP 11).
+**Membres.** [[Élémentaire daether de taille G|Élémentaire d'aether de taille G]] (FP 5), [[Élémentaire daether de taille M|Élémentaire d'aether de taille M]] (FP 3), [[Élémentaire daether de taille P|Élémentaire d'aether de taille P]] (FP 1), [[Élémentaire daether de taille TG|Élémentaire d'aether de taille TG]] (FP 7), [[Élémentaire daether noble|Élémentaire d'aether noble]] (FP 9), [[Seigneur élémentaire daether|Seigneur élémentaire d'aether]] (FP 11).
 
 #### Élémentaire de la boue
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([Eau](./sous-type Eau.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [Terre](./sous-type Terre.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Terre|Terre]])
 
-**Membres.** [Élémentaire de la boue de taille G](./Élémentaire de la boue de taille G.md) (FP 5), [Élémentaire de la boue de taille M](./Élémentaire de la boue de taille M.md) (FP 3), [Élémentaire de la boue de taille P](./Élémentaire de la boue de taille P.md) (FP 1), [Élémentaire de la boue de taille TG](./Élémentaire de la boue de taille TG.md) (FP 7), [Élémentaire de la boue noble](./Élémentaire de la boue noble.md) (FP 9), [Seigneur élémentaire de la boue](./Seigneur élémentaire de la boue.md) (FP 11).
+**Membres.** [[Élémentaire de la boue de taille G]] (FP 5), [[Élémentaire de la boue de taille M]] (FP 3), [[Élémentaire de la boue de taille P]] (FP 1), [[Élémentaire de la boue de taille TG]] (FP 7), [[Élémentaire de la boue noble]] (FP 9), [[Seigneur élémentaire de la boue]] (FP 11).
 
 #### Élémentaire de la glace
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [Eau](./sous-type Eau.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [froid](./sous-type froid.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type froid|froid]])
 
-**Membres.** [Élémentaire de la glace de taille G](./Élémentaire de la glace de taille G.md) (FP 5), [Élémentaire de la glace de taille M](./Élémentaire de la glace de taille M.md) (FP 3), [Élémentaire de la glace de taille P](./Élémentaire de la glace de taille P.md) (FP 1), [Élémentaire de la glace de taille TG](./Élémentaire de la glace de taille TG.md) (FP 7), [Élémentaire de la glace noble](./Élémentaire de la glace noble.md) (FP 9), [Seigneur élémentaire de la glace](./Seigneur élémentaire de la glace.md) (FP 11).
+**Membres.** [[Élémentaire de la glace de taille G]] (FP 5), [[Élémentaire de la glace de taille M]] (FP 3), [[Élémentaire de la glace de taille P]] (FP 1), [[Élémentaire de la glace de taille TG]] (FP 7), [[Élémentaire de la glace noble]] (FP 9), [[Seigneur élémentaire de la glace]] (FP 11).
 
 #### Élémentaire de la Terre
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [Terre](./sous-type Terre.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Terre|Terre]])
 
-**Membres.** [Élémentaire de Terre de taille G](./Élémentaire de Terre de taille G.md) (FP 5), [Élémentaire de Terre de taille M](./Élémentaire de Terre de taille M.md) (FP 3), [Élémentaire de Terre de taille P](./Élémentaire de Terre de taille P.md) (FP 1), [Élémentaire de Terre de taille TG](./Élémentaire de Terre de taille TG.md) (FP 7), [Élémentaire de Terre noble](./Élémentaire de Terre noble.md) (FP 9), [Seigneur élémentaire de Terre](./Seigneur élémentaire de Terre.md) (FP 11).
-**Membres mythiques.** [Seigneur élémentaire de la Terre mythique](./Élémentaire de la Terre mythique.md).
+**Membres.** [[Élémentaire de Terre de taille G]] (FP 5), [[Élémentaire de Terre de taille M]] (FP 3), [[Élémentaire de Terre de taille P]] (FP 1), [[Élémentaire de Terre de taille TG]] (FP 7), [[Élémentaire de Terre noble]] (FP 9), [[Seigneur élémentaire de Terre]] (FP 11).
+**Membres mythiques.** [[Élémentaire de la Terre mythique|Seigneur élémentaire de la Terre mythique]].
 
 #### Élémentaire de l'Air
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Élémentaire de l'Air de taille G](./Élémentaire de lAir de taille G.md) (FP 5), [Élémentaire de l'Air de taille M](./Élémentaire de lAir de taille M.md) (FP 3), [Élémentaire de l'Air de taille P](./Élémentaire de lAir de taille P.md) (FP 1), [Élémentaire de l'Air de taille TG](./Élémentaire de lAir de taille TG.md) (FP 7), [Élémentaire de l'Air noble](./Élémentaire de lAir noble.md) (FP 9), [Seigneur élémentaire de l'Air](./Seigneur élémentaire de lAir.md) (FP 11).
-**Membres mythiques.** [Seigneur élémentaire de l'Air mythique](./Élémentaire de lAir mythique.md).
+**Membres.** [[Élémentaire de lAir de taille G|Élémentaire de l'Air de taille G]] (FP 5), [[Élémentaire de lAir de taille M|Élémentaire de l'Air de taille M]] (FP 3), [[Élémentaire de lAir de taille P|Élémentaire de l'Air de taille P]] (FP 1), [[Élémentaire de lAir de taille TG|Élémentaire de l'Air de taille TG]] (FP 7), [[Élémentaire de lAir noble|Élémentaire de l'Air noble]] (FP 9), [[Seigneur élémentaire de lAir|Seigneur élémentaire de l'Air]] (FP 11).
+**Membres mythiques.** [[Élémentaire de lAir mythique|Seigneur élémentaire de l'Air mythique]].
 </td><td width="2%">
 </td><td width="49%">
 #### Élémentaire de l'Eau
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([Eau](./sous-type Eau.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Élémentaire de l'Eau de taille G](./Élémentaire de lEau de taille G.md) (FP 5), [Élémentaire de l'Eau de taille M](./Élémentaire de lEau de taille M.md) (FP 3), [Élémentaire de l'Eau de taille P](./Élémentaire de lEau de taille P.md) (FP 1), [Élémentaire de l'Eau de taille TG](./Élémentaire de lEau de taille TG.md) (FP 7), [Élémentaire de l'Eau noble](./Élémentaire de lEau noble.md) (FP 9), [Seigneur élémentaire de l'Eau](./Seigneur élémentaire de lEau.md) (FP 11).
-**Membres mythiques.** [Seigneur élémentaire de l'Eau mythique](./Élémentaire de lEau mythique.md).
+**Membres.** [[Élémentaire de lEau de taille G|Élémentaire de l'Eau de taille G]] (FP 5), [[Élémentaire de lEau de taille M|Élémentaire de l'Eau de taille M]] (FP 3), [[Élémentaire de lEau de taille P|Élémentaire de l'Eau de taille P]] (FP 1), [[Élémentaire de lEau de taille TG|Élémentaire de l'Eau de taille TG]] (FP 7), [[Élémentaire de lEau noble|Élémentaire de l'Eau noble]] (FP 9), [[Seigneur élémentaire de lEau|Seigneur élémentaire de l'Eau]] (FP 11).
+**Membres mythiques.** [[Élémentaire de lEau mythique|Seigneur élémentaire de l'Eau mythique]].
 
 #### Élémentaire de l'éclair
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Élémentaire de l'éclair de taille G](./Élémentaire de léclair de taille G.md) (FP 5), [Élémentaire de l'éclair de taille M](./Élémentaire de léclair de taille M.md) (FP 3), [Élémentaire de l'éclair de taille P](./Élémentaire de léclair de taille P.md) (FP 1), [Élémentaire de l'éclair de taille TG](./Élémentaire de léclair de taille TG.md) (FP 7), [Élémentaire de l'éclair noble](./Élémentaire de léclair noble.md) (FP 9), [Seigneur élémentaire de l'éclair](./Seigneur élémentaire de léclair.md) (FP 11).
+**Membres.** [[Élémentaire de léclair de taille G|Élémentaire de l'éclair de taille G]] (FP 5), [[Élémentaire de léclair de taille M|Élémentaire de l'éclair de taille M]] (FP 3), [[Élémentaire de léclair de taille P|Élémentaire de l'éclair de taille P]] (FP 1), [[Élémentaire de léclair de taille TG|Élémentaire de l'éclair de taille TG]] (FP 7), [[Élémentaire de léclair noble|Élémentaire de l'éclair noble]] (FP 9), [[Seigneur élémentaire de léclair|Seigneur élémentaire de l'éclair]] (FP 11).
 
 #### Élémentaire du Feu
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [Feu](./sous-type Feu.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]])
 
-**Membres.** [Élémentaire du Feu de taille G](./Élémentaire du Feu de taille G.md) (FP 5), [Élémentaire du Feu de taille M](./Élémentaire du Feu de taille M.md) (FP 3), [Élémentaire du Feu de taille P](./Élémentaire du Feu de taille P.md) (FP 1), [Élémentaire du Feu de taille TG](./Élémentaire du Feu de taille TG.md) (FP 7), [Élémentaire du Feu noble](./Élémentaire du Feu noble.md) (FP 9), [Seigneur élémentaire du Feu](./Seigneur élémentaire du Feu.md) (FP 11).
-**Membres mythiques.** [Seigneur élémentaire du Feu mythique](./Élémentaire du Feu mythique.md).
+**Membres.** [[Élémentaire du Feu de taille G]] (FP 5), [[Élémentaire du Feu de taille M]] (FP 3), [[Élémentaire du Feu de taille P]] (FP 1), [[Élémentaire du Feu de taille TG]] (FP 7), [[Élémentaire du Feu noble]] (FP 9), [[Seigneur élémentaire du Feu]] (FP 11).
+**Membres mythiques.** [[Élémentaire du Feu mythique|Seigneur élémentaire du Feu mythique]].
 
 #### Élémentaire du magma
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [Feu](./sous-type Feu.md), [Terre](./sous-type Terre.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]], [[sous-type Terre|Terre]])
 
-**Membres.** [Élémentaire du magma de taille G](./Élémentaire du magma de taille G.md) (FP 5), [Élémentaire du magma de taille M](./Élémentaire du magma de taille M.md) (FP 3), [Élémentaire du magma de taille P](./Élémentaire du magma de taille P.md) (FP 1), [Élémentaire du magma de taille TG](./Élémentaire du magma de taille TG.md) (FP 7), [Élémentaire du magma noble](./Élémentaire du magma noble.md) (FP 9), [Seigneur élémentaire du magma](./Seigneur élémentaire du magma.md) (FP 11).
+**Membres.** [[Élémentaire du magma de taille G]] (FP 5), [[Élémentaire du magma de taille M]] (FP 3), [[Élémentaire du magma de taille P]] (FP 1), [[Élémentaire du magma de taille TG]] (FP 7), [[Élémentaire du magma noble]] (FP 9), [[Seigneur élémentaire du magma]] (FP 11).
 </td></tr></table>
 
-### Esprit du foyer ([lien](./Esprits du foyer.md))
+### Esprit du foyer ([[Esprits du foyer|lien]])
 *Ces créatures féériques, parfois serviables, et connues sous l’appellation d’esprits du foyer s’attachent à des familles paysannes et vivent parmi elles...*
 
-**Types/Sous-types associés.** [Fée](./type Fée.md)
+**Types/Sous-types associés.** [[type Fée|Fée]]
 
-**Membres.** [Domovoï](./Domovoï.md) (FP 3), [Dvorovoï](./Dvorovoï.md) (FP 4), [Ovinnik](./Ovinnik.md) (FP 2).
+**Membres.** [[Domovoï]] (FP 3), [[Dvorovoï]] (FP 4), [[Ovinnik]] (FP 2).
 
-### Familier ([lien](./Familiers.md))
+### Familier ([[Familiers|lien]])
 *Voici les caractéristiques de base des familiers les plus courants...*
 
 **Types/Sous-types associés.** —
 
-**Membres.** [Araignée écarlate](./Araignée écarlate.md) (FP 1/4), [Archéoptéryx](./Archéoptéryx.md) (FP 1/4), [Belette](./Belette.md) (FP 1/2), [Caïman nain](./Caïman nain.md) (FP 1/3), [Chat](./Chat.md) (FP 1/4), [Chauve-souris](./Chauve-souris.md) (FP 1/8), [Chèvre](./Chèvre.md) (FP 1/3), [Chouette](./Chouette.md) (FP 1/3), [Cochon](./Cochon.md) (FP 1/3), [Corbeau](./Corbeau.md) (FP 1/6), [Crabe royal](./Crabe royal.md) (FP 1/4), [Crapaud](./Crapaud.md) (FP 1/8), [Dodo](./Dodo.md) (FP 1/4), [Écureuil volant](./Écureuil volant.md) (FP 1/3), [Faucon](./Faucon.md) (FP 1/3), [Grive](./Grive.md) (FP 1/3), [Hérisson](./Hérisson.md) (FP 1/8), [Isopode géant](./Isopode géant.md) (FP 1/8), [Lézard](./Lézard.md) (FP 1/6), [Loutre](./Loutre.md) (FP 1/4), [Manchot](./Manchot.md) (FP 1/3), [Mille-pattes domestique](./Mille-pattes domestique.md) (FP 1/8), [Ornithorynque](./Ornithorynque.md) (FP 1/6), [Paresseux](./Paresseux.md) (FP 1/6), [Petit panda](./Petit panda.md) (FP 1/2), [Phoque](./Phoque.md) (FP 1/3), [Pieuvre à anneaux bleus](./Pieuvre à anneaux bleus.md) (FP 1/2), [Poulet](./Poulet.md) (FP 1/6), [Rat](./Rat.md) (FP 1/4), [Rat-âne](./Rat-âne.md) (FP 1/4), [Raton laveur](./Raton laveur.md) (FP 1/2), [Renard](./Renard.md) (FP 1/4), [Roussette](./Roussette.md) (FP 1/3), [Singe](./Singe.md) (FP 1/4), [Trilobite](./Trilobite.md) (FP 1/4), [Tuatara](./Tuatara.md) (FP 1/4), [Vipère](./Vipère.md) (FP 1/2).
+**Membres.** [[Araignée écarlate]] (FP 1/4), [[Archéoptéryx]] (FP 1/4), [[Belette]] (FP 1/2), [[Caïman nain]] (FP 1/3), [[Chat]] (FP 1/4), [[Chauve-souris]] (FP 1/8), [[Chèvre]] (FP 1/3), [[Chouette]] (FP 1/3), [[Cochon]] (FP 1/3), [[Corbeau]] (FP 1/6), [[Crabe royal]] (FP 1/4), [[Crapaud]] (FP 1/8), [[Dodo]] (FP 1/4), [[Écureuil volant]] (FP 1/3), [[Faucon]] (FP 1/3), [[Grive]] (FP 1/3), [[Hérisson]] (FP 1/8), [[Isopode géant]] (FP 1/8), [[Lézard]] (FP 1/6), [[Loutre]] (FP 1/4), [[Manchot]] (FP 1/3), [[Mille-pattes domestique]] (FP 1/8), [[Ornithorynque]] (FP 1/6), [[Paresseux]] (FP 1/6), [[Petit panda]] (FP 1/2), [[Phoque]] (FP 1/3), [[Pieuvre à anneaux bleus]] (FP 1/2), [[Poulet]] (FP 1/6), [[Rat]] (FP 1/4), [[Rat-âne]] (FP 1/4), [[Raton laveur]] (FP 1/2), [[Renard]] (FP 1/4), [[Roussette]] (FP 1/3), [[Singe]] (FP 1/4), [[Trilobite]] (FP 1/4), [[Tuatara]] (FP 1/4), [[Vipère]] (FP 1/2).
 
-### Formien ([lien](./Formiens.md))
+### Formien ([[Formiens|lien]])
 *Expansionnistes interplanétaires géants ressemblant à des fourmis et dotés d’une intelligence collective extraterrestre, les formiens ne sont pas mauvais mais ils pratiquent une méthode de propagation raciale agressive...*
 
-**Types/Sous-types associés.** [Humanoïde monstrueux](./type Humanoïde monstrueux.md)
+**Types/Sous-types associés.** [[type Humanoïde monstrueux|Humanoïde monstrueux]]
 
-**Membres.** [Contremaître formien](./Contremaître formien.md) (FP 7), [Guerrière formienne](./Guerrière formienne.md) (FP 3), [Myrmarque formien](./Myrmarque formien.md) (FP 10), [Ouvrier formien](./Ouvrier formien.md) (FP 1/2), [Reine formienne](./Reine formienne.md) (FP 17).
+**Membres.** [[Contremaître formien]] (FP 7), [[Guerrière formienne]] (FP 3), [[Myrmarque formien]] (FP 10), [[Ouvrier formien]] (FP 1/2), [[Reine formienne]] (FP 17).
 
 ### Génie
 Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md)/[natif](./sous-type natif.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]/[[sous-type natif|natif]])
 
-**Membres.** [Djinn](./Djinn.md) (FP 5), [Efrit](./Efrit.md) (FP 8), [Jann](./Jann.md) (FP 4), [Marid](./Marid.md) (FP 9), [Shaitan](./Shaitan.md) (FP 7).
+**Membres.** [[Djinn]] (FP 5), [[Efrit]] (FP 8), [[Jann]] (FP 4), [[Marid]] (FP 9), [[Shaitan]] (FP 7).
 
-### Golem ([lien](./Golem.md))
+### Golem ([[Golem|lien]])
 *Les golems sont des automates très puissants créés par magie...*
 
-**Types/Sous-types associés.** [Créature artificielle](./type Créature artificielle.md)
+**Types/Sous-types associés.** [[type Créature artificielle|Créature artificielle]]
 
-**Membres.** [Golem alchimique](./Golem alchimique.md) (FP 9), [Golem canon](./Golem canon.md) (FP 15), [Golem d'adamantium](./Golem dadamantium.md) (FP 19), [Golem d'argile](./Golem dargile.md) (FP 10), [Golem d'os](./Golem dos.md) (FP 8), [Golem de bois](./Golem de bois.md) (FP 6), [Golem de chair](./Golem de chair.md) (FP 7), [Golem de charogne](./Golem de charogne.md) (FP 4), [Golem de cire](./Golem de cire.md) (FP 3), [Golem de corail](./Golem de corail.md) (FP 9), [Golem de cristal](./Golem de cristal.md) (FP 11), [Golem de cuivre](./Golem de cuivre.md) (FP 14), [Golem de fer](./Golem de fer.md) (FP 13), [Golem de glace](./golem de glace.md) (FP 5), [Golem de mithral](./Golem de mithral.md) (FP 16), [Golem de noqual](./Golem-de-noqual.md) (FP 18), [Golem de pacotille](./Golem de pacotille.md) (FP 4), [Golem de pierre](./Golem de pierre.md) (FP 11), [Golem de plomb](./Golem de plomb.md) (FP 10), [Golem de Quantium](./Golem-de-Quantium.md) (FP 20), [Golem de roche-moelle](./Golem-de-roche-moelle.md) (FP 8), [Golem de sang](./Golem de sang.md) (FP 6), [Golem de verre](./Golem de verre.md) (FP 8), [Golem fossile](./Golem fossile.md) (FP 12), [Golem mécanique](./Golem mécanique.md) (FP 12).
+**Membres.** [[Golem alchimique]] (FP 9), [[Golem canon]] (FP 15), [[Golem dadamantium|Golem d'adamantium]] (FP 19), [[Golem dargile|Golem d'argile]] (FP 10), [[Golem dos|Golem d'os]] (FP 8), [[Golem de bois]] (FP 6), [[Golem de chair]] (FP 7), [[Golem de charogne]] (FP 4), [[Golem de cire]] (FP 3), [[Golem de corail]] (FP 9), [[Golem de cristal]] (FP 11), [[Golem de cuivre]] (FP 14), [[Golem de fer]] (FP 13), [[Golem de glace]] (FP 5), [[Golem de mithral]] (FP 16), [[Golem de noqual]] (FP 18), [[Golem de pacotille]] (FP 4), [[Golem de pierre]] (FP 11), [[Golem de plomb]] (FP 10), [[Golem de Quantium]] (FP 20), [[Golem de roche-moelle]] (FP 8), [[Golem de sang]] (FP 6), [[Golem de verre]] (FP 8), [[Golem fossile]] (FP 12), [[Golem mécanique]] (FP 12).
 
-### Grand ancien ([lien](./../Golarion/Grands Anciens.md))
+### Grand ancien ([[Grands anciens|lien]])
 *Les Grands Anciens sont des entités d’autres mondes à la puissance pratiquement inimaginable...*
 
-**Types/Sous-types associés.** — ([Grand ancien](./sous-type Grand Ancien.md))
+**Types/Sous-types associés.** — ([[sous-type Grand ancien|Grand ancien]])
 
-**Membres.** [Bokrug](./Bokrug.md) (FP 27), [Cthulhu](./Cthulhu.md) (FP 30), [Hastur](./Hastur.md) (FP 29), [Mhar](./Mhar.md) (FP 26).
+**Membres.** [[Bokrug]] (FP 27), [[Cthulhu]] (FP 30), [[Hastur]] (FP 29), [[Mhar]] (FP 26).
 
-### Gremlin ([lien](./Gremlin.md))
+### Gremlin ([[Gremlin|lien]])
 *Les créatures féeriques connues sous le nom de gremlins et célèbres pour leur nature malicieuse, leur vilain sens de l’humour et leurs habitudes destructrices méritent bien leur réputation de farceurs cruels et de destructeurs sadiques...*
 
-**Types/Sous-types associés.** [Fée](./type Fée.md)
+**Types/Sous-types associés.** [[type Fée|Fée]]
 
-**Membres.** [Fuath](./Fuath.md) (FP 1), [Haniver](./Haniver.md) (FP 1/2), [Hobkins](./Hobkins.md) (FP 1/2), [Jinkin](./Jinkin.md) (FP 1), [Monaciello](./Monaciello.md) (FP 1), [Nuglub](./Nuglub.md) (FP 2), [Nuno](./Nuno.md) (FP 1/2), [Pugwampi](./Pugwampi.md) (FP 1/2), [Tristefripe](./Tristefripe.md) (FP 1/3), [Vexgit](./Vexgit.md) (FP 1).
+**Membres.** [[Fuath]] (FP 1), [[Haniver]] (FP 1/2), [[Hobkins]] (FP 1/2), [[Jinkin]] (FP 1), [[Monaciello]] (FP 1), [[Nuglub]] (FP 2), [[Nuno]] (FP 1/2), [[Pugwampi]] (FP 1/2), [[Tristefripe]] (FP 1/3), [[Vexgit]] (FP 1).
 
-### Guenaude ([lien](./Guenaudes.md))
+### Guenaude ([[Guenaudes|lien]])
 *<u>Note:</u> En attente d'une réponse en vo.*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md)/[Humanoïde monstrueux](./type Humanoïde monstrueux.md)
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]]/[[type Humanoïde monstrueux|Humanoïde monstrueux]]
 
-**Membres.** [Guenaude annis](./Guenaude annis.md) (FP 6), [Guenaude arctique](./Guenaude arctique.md) (FP 7), [Guenaude de sang](./Guenaude de sang.md) (FP 8), [Guenaude des tempêtes](./Guenaude des tempêtes.md) (FP 7), [Guenaude marine](./Guenaude marine.md) (FP 4), [Guenaude noire](./Guenaude noire.md) (FP 9), [Guenaude verte](./Guenaude verte.md) (FP 5).
+**Membres.** [[Guenaude annis]] (FP 6), [[Guenaude arctique]] (FP 7), [[Guenaude de sang]] (FP 8), [[Guenaude des tempêtes]] (FP 7), [[Guenaude marine]] (FP 4), [[Guenaude noire]] (FP 9), [[Guenaude verte]] (FP 5).
 
-### Inévitable ([lien](./Inévitable.md))
+### Inévitable ([[Inévitable|lien]])
 *Les inévitables sont des machines vivantes inventées et forgées dans les plans Extérieurs par les axiomites, avec pour seul but de rechercher et de détruire les agents du Chaos où qu’ils se trouvent...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [inévitable](./sous-type Inévitable.md), [Loi](./sous-type Loi.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type inévitable|inévitable]], [[sous-type Loi|Loi]])
 
-**Membres.** [Arbitre](./Arbitre.md) (FP 2), [Kolyarut](./Kolyarut.md) (FP 12), [Lhaksharut](./Lhaksharut.md) (FP 20), [Marut](./Marut.md) (FP 15), [Zélékhut](./Zélékhut.md) (FP 9).
+**Membres.** [[Arbitre]] (FP 2), [[Kolyarut]] (FP 12), [[Lhaksharut]] (FP 20), [[Marut]] (FP 15), [[Zélékhut]] (FP 9).
 
-### Kaiju ([lien](./Kaijus.md))
+### Kaiju ([[Kaijus|lien]])
 *Dans les recoins les plus isolés du monde, là où la civilisation ellemême n’est que légende et où les cartographes ne peuvent qu’imaginer la topographie des terres et la nature de leurs occupants, vivent d’immenses créatures que l’on vénère comme des dieux...*
 
-**Types/Sous-types associés.** [Créature magique](./type Créature magique.md) ([kaiju](./sous-type kaiju.md))
+**Types/Sous-types associés.** [[type Créature magique|Créature magique]] ([[sous-type kaiju|kaiju]])
 
-**Membres.** [Agyra](./Agyra.md) (FP 27), [Bézravnis](./Bézravnis.md) (FP 26), [Mogaru](./Mogaru.md) (FP 28).
+**Membres.** [[Agyra]] (FP 27), [[Bézravnis]] (FP 26), [[Mogaru]] (FP 28).
 
-### Kami ([lien](./Kami.md))
+### Kami ([[Kami|lien]])
 *Les kamis sont des esprits anciens et mystiques originaires d’un autre monde...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([kami](./sous-type kami.md), [natif](./sous-type natif.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type kami|kami]], [[sous-type natif|natif]])
 
-**Membres.** [Dosojin](./Dosojin.md) (FP 7), [Dunagh](./Dunagh.md) (FP 4), [Fukujin](./Fukujin.md) (FP 3), [Jinushigami](./Jinushigami.md) (FP 20), [Kaminari](./Kaminari.md) (FP 17), [Kodama](./Kodama.md) (FP 5), [Shikigami](./Shikigami.md) (FP 2), [Suijin](./Suijin.md) (FP 14), [Toshigami](./Toshigami.md) (FP 15), [Zuishin](./Zuishin.md) (FP 10).
+**Membres.** [[Dosojin]] (FP 7), [[Dunagh]] (FP 4), [[Fukujin]] (FP 3), [[Jinushigami]] (FP 20), [[Kaminari]] (FP 17), [[Kodama]] (FP 5), [[Shikigami]] (FP 2), [[Suijin]] (FP 14), [[Toshigami]] (FP 15), [[Zuishin]] (FP 10).
 
-### Kyton ([lien](./Kytons.md))
+### Kyton ([[Kytons|lien]])
 *Horriblement cruels et laids, les kytons sont des fiélons maléfiques qui se nourrissent de la peur et de la souffrance des mortels en usant de méthodes de torture surnaturelles...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [kyton](./sous-type kyton.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type kyton|kyton]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]])
 
-**Membres.** [Augure](./monstre Augure.md) (FP 2), [Éphialtès](./Éphialtès.md) (FP 16), [Ermite](./Ermite.md) (FP 20), [Interlocuteur](./Interlocuteur.md) (FP 12), [Libitinarii](./Libitinarii.md) (FP 13), [Mégère](./Mégère.md) (FP 17), [Ostiarius](./Ostiarius.md) (FP 5), [Sacristain](./Sacristain.md) (FP 10).
+**Membres.** [[monstre Augure|Augure]] (FP 2), [[Éphialtès]] (FP 16), [[Ermite]] (FP 20), [[Interlocuteur]] (FP 12), [[Libitinarii]] (FP 13), [[Mégère]] (FP 17), [[Ostiarius]] (FP 5), [[Sacristain]] (FP 10).
 
-### Léchi ([lien](./Léchi.md))
+### Léchi ([[Léchi|lien]])
 *À l’origine utilisés comme serviteurs des fées les plus puissantes et de la vie végétale intelligente, telle que les vénérables sylvaniens, les léchis sont des plantes douées de conscience qui veillent sur leurs semblables non-intelligents et font office de gardiens verdoyants de la nature...*
 
-**Types/Sous-types associés.** [Plante](./type Plante.md) ([léchi](./sous-type léchi.md), [métamorphe](./sous-type métamorphe.md))
+**Types/Sous-types associés.** [[type Plante|Plante]] ([[sous-type léchi|léchi]], [[sous-type métamorphe|métamorphe]])
 
-**Membres.** [Léchi attrape-mouche](./Léchi attrape-mouche.md) (FP 4), [Léchi calebasse](./Léchi calebasse.md) (FP 1), [Léchi d'algues](./Léchi dalgues.md) (FP 3), [Léchi de feuilles](./Léchi de feuilles.md) (FP 1/2), [Léchi fongique](./Léchi fongique.md) (FP 2), [Léchi lotus](./Léchi lotus.md) (FP 5).
+**Membres.** [[Léchi attrape-mouche]] (FP 4), [[Léchi calebasse]] (FP 1), [[Léchi dalgues|Léchi d'algues]] (FP 3), [[Léchi de feuilles]] (FP 1/2), [[Léchi fongique]] (FP 2), [[Léchi lotus]] (FP 5).
 
-### Linnorm ([lien](./Linnorms.md))
+### Linnorm ([[Linnorms|lien]])
 *Dragons primaires et traîtres des régions nordiques du monde, les linnorms tirent leur force de leur haine envers ceux qu’ils considèrent être des créatures inférieures et cherchent à faire souffrir autant que possible ces victimes malheureuses...*
 
-**Types/Sous-types associés.** [Dragon](./type Dragon.md)
+**Types/Sous-types associés.** [[type Dragon|Dragon]]
 
-**Membres.** [Linnorm de la taïga](./Linnorm de la taïga.md) (FP 19), [Linnorm de roche](./Linnorm de roche.md) (FP 21), [Linnorm des cairns](./Linnorm des cairns.md) (FP 18), [Linnorm des falaises](./Linnorm des falaises.md) (FP 14), [Linnorm des fjords](./Linnorm des fjords.md) (FP 16), [Linnorm des glaces](./Linnorm des glaces.md) (FP 17), [Linnorm des lacs](./Linnorm des lacs.md) (FP 20), [Linnorm des rivières](./Linnorm-des-rivières.md) (FP 15).
+**Membres.** [[Linnorm de la taïga]] (FP 19), [[Linnorm de roche]] (FP 21), [[Linnorm des cairns]] (FP 18), [[Linnorm des falaises]] (FP 14), [[Linnorm des fjords]] (FP 16), [[Linnorm des glaces]] (FP 17), [[Linnorm des lacs]] (FP 20), [[Linnorm des rivières]] (FP 15).
 
-### Lycanthrope ([lien](./Lycanthrope, archétype.md))
+### Lycanthrope ([[Lycanthrope, archétype|lien]])
 *Les lycanthropes sont des humanoïdes qui possèdent la capacité de se transformer en animaux ou en hybrides mi-animal mi-humanoïde...*
 
-**Types/Sous-types associés.** [Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md), [métamorphe](./sous-type métamorphe.md))
+**Types/Sous-types associés.** [[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]])
 
-**Membres.** [Chauve-souris garou](./Chauve-souris garou.md) (FP 3), [Crocodile garou](./Crocodile garou.md) (FP 3), [Loup-garou](./Loup-garou.md) (FP 2), [Ours-garou](./Ours-garou.md) (FP 4), [Rat-garou](./Rat-garou.md) (FP 2), [Requin garou](./Requin garou.md) (FP 3), [Sanglier-garou](./Sanglier-garou.md) (FP 2), [Tigre-garou](./Tigre-garou.md) (FP 4).
+**Membres.** [[Chauve-souris garou]] (FP 3), [[Crocodile garou]] (FP 3), [[Loup-garou]] (FP 2), [[Ours-garou]] (FP 4), [[Rat-garou]] (FP 2), [[Requin garou]] (FP 3), [[Sanglier-garou]] (FP 2), [[Tigre-garou]] (FP 4).
 
-### Manasaputra ([lien](./Manasaputras.md))
+### Manasaputra ([[Manasaputras|lien]])
 *Pour la majorité des créatures, le chemin du perfectionnement de soi prend fin comme tout ce qu’entreprennent les mortels : avec la mort...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Bien](./sous-type Bien.md), [Loi](./sous-type Loi.md), [manasaputra](./sous-type Manasaputra.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Bien|Bien]], [[sous-type Loi|Loi]], [[sous-type manasaputra|manasaputra]])
 
-**Membres.** [Manu](./Manu.md) (FP 12), [Manu maharishi](./Manu maharishi.md) (FP 16), [Manu rishi](./Manu rishi.md) (FP 14), [Pitri crépusculaire (Barhisad)](./Pitri crépusculaire.md) (FP &nbsp; (FP 18.
-**Membres mythiques.** [Pitri solaire (Agnishvatta)](./Pitri solaire.md) (FP 22/RMy 8)
+**Membres.** [[Manu]] (FP 12), [[Manu maharishi]] (FP 16), [[Manu rishi]] (FP 14), [[Pitri crépusculaire|Pitri crépusculaire (Barhisad)]] (FP &nbsp; (FP 18.
+**Membres mythiques.** [[Pitri solaire|Pitri solaire (Agnishvatta)]] (FP 22/RMy 8)
 
 ### Mégafaune
 Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.
 
-**Types/Sous-types associés.** [Animal](./type Animal.md)
+**Types/Sous-types associés.** [[type Animal|Animal]]
 
-**Membres.** [Archelon](./Archelon.md) (FP 5), [Arsinoithérium](./Arsinoithérium.md) (FP 7), [Baluchithérium](./Baluchithérium.md) (FP 8), [Basilosaure](./Basilosaure.md) (FP 12), [Chalicothérium](./Chalicothérium.md) (FP 6), [Glyptodonte](./Glyptodonte.md) (FP 6), [Kaprosuchus](./Kaprosuchus.md) (FP 5), [Mégalania](./Mégalania.md) (FP 7), [Mégalocéros](./Mégalocéros.md) (FP 4), [Mégathérium](./Mégathérium.md) (FP 5), [Moa](./Moa.md) (FP 2), [Uintathérium](./Uintathérium.md) (FP 7).
+**Membres.** [[Archelon]] (FP 5), [[Arsinoithérium]] (FP 7), [[Baluchithérium]] (FP 8), [[Basilosaure]] (FP 12), [[Chalicothérium]] (FP 6), [[Glyptodonte]] (FP 6), [[Kaprosuchus]] (FP 5), [[Mégalania]] (FP 7), [[Mégalocéros]] (FP 4), [[Mégathérium]] (FP 5), [[Moa]] (FP 2), [[Uintathérium]] (FP 7).
 
 ### Naga
 Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.
 
-**Types/Sous-types associés.** [Aberration](./type Aberration.md)
+**Types/Sous-types associés.** [[type Aberration|Aberration]]
 
-**Membres.** [Naga aquatique](./Naga aquatique.md) (FP 7), [Naga corrupteur](./naga corrupteur.md) (FP 9), [Naga gardien](./Naga gardien.md) (FP 10), [Naga lunaire](./Naga lunaire.md) (FP 6), [Naga royal](./Naga royal.md) (FP 11), [Naga ténébreux](./Naga ténébreux.md) (FP 8).
+**Membres.** [[Naga aquatique]] (FP 7), [[Naga corrupteur]] (FP 9), [[Naga gardien]] (FP 10), [[Naga lunaire]] (FP 6), [[Naga royal]] (FP 11), [[Naga ténébreux]] (FP 8).
 
-### Oni ([lien](./Oni.md))
+### Oni ([[Oni|lien]])
 *Les onis sont une race d’esprits malveillants originaires du Plan matériel et dont le corps physique reflète les formes et les désirs humanoïdes...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([métamorphe](./sous-type métamorphe.md), [natif](./sous-type natif.md), [oni](./sous-type oni.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]], [[sous-type oni|oni]])
 
-**Membres.** [Atamahuta](./Atamahuta.md) (FP 11), [Esprit Oni](./Esprit Oni.md) (FP 2), [Ja Noi](./Ja-Noi.md) (FP 5), [Kuwa](./Kuwa.md) (FP 4), [Nogitsune](./Nogitsune.md) (FP 7), [Ogre mage](./Ogre mage.md) (FP 8), [Yai de glace](./Yai de glace.md) (FP 14), [Yai de l'eau](./Yai de leau.md) (FP 18), [Yai de la terre](./Yai-de-la-terre.md) (FP 13), [Yai du feu](./Yai du feu.md) (FP 15), [Yai du vent](./Yai-du-vent.md) (FP 16), [Yai du vide](./Yai du vide.md) (FP 20), [Yamabushi tengu](./Yamabushi-tengu.md) (FP 5).
+**Membres.** [[Atamahuta]] (FP 11), [[Esprit Oni]] (FP 2), [[Ja Noi]] (FP 5), [[Kuwa]] (FP 4), [[Nogitsune]] (FP 7), [[Ogre mage]] (FP 8), [[Yai de glace]] (FP 14), [[Yai de leau|Yai de l'eau]] (FP 18), [[Yai de la terre]] (FP 13), [[Yai du feu]] (FP 15), [[Yai du vent]] (FP 16), [[Yai du vide]] (FP 20), [[Yamabushi tengu]] (FP 5).
 
-### Obscurien ([lien](./obscurien.md))
+### Obscurien ([[Obscurien|lien]])
 Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.
 
-**Types/Sous-types associés.** [Humanoïde](./type Humanoïde.md) ([obscurien](./sous-type obscur.md))
+**Types/Sous-types associés.** [[type Humanoïde|Humanoïde]] ([[sous-type Obscur|obscurien]])
 
-**Membres.** [Caligni](./Caligni.md) (FP 1/2), [Danseur obscur](./Danseur obscur.md) (FP 1), [Fureteur obscur](./Fureteur obscur.md) (FP 2), [Suppliant obscur](./Suppliant obscur.md) (FP 5), [Tueur obscur](./Tueur obscur.md) (FP 3), [Traqueur obscur](./Traqueur obscur.md) (FP 4).
+**Membres.** [[Caligni]] (FP 1/2), [[Danseur obscur]] (FP 1), [[Fureteur obscur]] (FP 2), [[Suppliant obscur]] (FP 5), [[Tueur obscur]] (FP 3), [[Traqueur obscur]] (FP 4).
 
-### Protéen ([lien](./Protéen.md))
+### Protéen ([[Protéen|lien]])
 *Les protéens sont des créatures de pur chaos et de forme serpentine qui rampent à travers les improbabilités anarchiques des Limbes en reconstruisant la réalité au gré de leurs caprices...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [métamorphe](./sous-type métamorphe.md), [protéen](./sous-type protéen.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type métamorphe|métamorphe]], [[sous-type protéen|protéen]])
 
-**Membres.** [Imentesh](./Imentesh.md) (FP 10), [Kékétar](./Kékétar.md) (FP 17), [Naunet](./Naunet.md) (FP 7), [Ver du néant](./Ver du néant.md) (FP 2).
+**Membres.** [[Imentesh]] (FP 10), [[Kékétar]] (FP 17), [[Naunet]] (FP 7), [[Ver du néant]] (FP 2).
 
-### Psychopompe ([lien](./../Golarion/Psychopompes.md))
+### Psychopompe ([[Psychopompes|lien]])
 *Toute vie a un début et une fin. Dès la naissance, toute chose du plan Matériel qui crie et qui lutte rampe inexorablement vers cette finalité singulière, ce point d’orgue fatal qui ouvre la voie aux infinis insondables de l’après-vie...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [psychopompe](./sous-type psychopompe.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type psychopompe|psychopompe]])
 
-**Membres.** [Catrina](./Catrina.md) (FP 5), [Mémitim](./Mémitim.md) (FP 15), [Morrigna](./Morrigna.md) (FP 13), [Nosoï](./Nosoï.md) (FP 2), [Shoki](./Shoki.md) (FP 9), [Vanth](./Vanth.md) (FP 7), [Viduus](./Viduus.md) (FP 4), [Yamaraj](./Yamaraj.md) (FP 20).
+**Membres.** [[Catrina]] (FP 5), [[Mémitim]] (FP 15), [[Morrigna]] (FP 13), [[Nosoï]] (FP 2), [[Shoki]] (FP 9), [[Vanth]] (FP 7), [[Viduus]] (FP 4), [[Yamaraj]] (FP 20).
 
-### Qlippoth ([lien](./Qlippoth.md))
+### Qlippoth ([[Qlippoth|lien]])
 *Avant que les Abysses n’apprennent à transformer des larves en démons, avant même que les larves n’existent ou que le concept de vie mortelle n’apparaisse, ce plan était déjà peuplé de viles créatures...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md), [qlippoth](./sous-type qlippoth.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]], [[sous-type qlippoth|qlippoth]])
 
-**Membres.** [Augnagar](./augnagar.md) (FP 14), [Chernobue](./Chernobue.md) (FP 12), [Cythnigot](./Cythnigot.md) (FP 2), [Iathavos](./Iathavos.md) (FP 20), [Nyogoth](./Nyogoth.md) (FP 10), [Shoggti](./Shoggti.md) (FP 7), [Thulgant](./Thulgant.md) (FP 18), [Véxénion](./Véxénion.md) (FP 6).
+**Membres.** [[Augnagar]] (FP 14), [[Chernobue]] (FP 12), [[Cythnigot]] (FP 2), [[Iathavos]] (FP 20), [[Nyogoth]] (FP 10), [[Shoggti]] (FP 7), [[Thulgant]] (FP 18), [[Véxénion]] (FP 6).
 
-### Raie des profondeurs ([lien](./Raie des profondeurs.md))
+### Raie des profondeurs ([[Raie des profondeurs|lien]])
 *Les raies des profondeurs infestent les sombres recoins du monde et se repaissent des créatures faibles et imprudentes...*
 
-**Types/Sous-types associés.** [Aberration](./type Aberration.md)
+**Types/Sous-types associés.** [[type Aberration|Aberration]]
 
-**Membres.** [Capuche du bourreau](./capuche du bourreau.md) (FP 2), [Piégeuse](./piégeuse.md) (FP 8), [Traqueur-du-dessus](./Traqueur-du-dessus.md) (FP 7).
+**Membres.** [[Capuche du bourreau]] (FP 2), [[Piégeuse]] (FP 8), [[Traqueur-du-dessus]] (FP 7).
 
-### Rakshasa ([lien](./Rakshasa B3.md))
+### Rakshasa ([[Rakshasa B3|lien]])
 *Les rakshasas sont nés sur le Plan matériel mais n’en sont pas originaires. Ils ont les pouvoirs et l’apparence des fiélons mais leur destin est inexorablement lié au monde des mortels qu’ils cherchent à dominer...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([métamorphe](./sous-type métamorphe.md), [natif](./sous-type natif.md), [rakshasa](./sous-type rakshasa.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]], [[sous-type rakshasa|rakshasa]])
 
-**Membres.** [Dandasuka](./Dandasuka.md) (FP 5), [Maraï](./Maraï.md) (FP 8), [Maharadjah](./Maharadjah.md) (FP 20), [Rakshasa](./Rakshasa.md) (FP 10), [Raktavarna](./Raktavarna.md) (FP 2), [Tataka](./Tataka.md) (FP 15).
+**Membres.** [[Dandasuka]] (FP 5), [[Maraï]] (FP 8), [[Maharadjah]] (FP 20), [[Rakshasa]] (FP 10), [[Raktavarna]] (FP 2), [[Tataka]] (FP 15).
 
-### Robot ([lien](./Robots.md))
+### Robot ([[Robots|lien]])
 *Les créatures artificielles que l’on appelle robots sont le fruit d’une technologie, d’une ingénierie et d’une science de pointe...*
 
-**Types/Sous-types associés.** [Créature artificielle](./type Créature artificielle.md) ([robot](./sous-type Robot.md))
+**Types/Sous-types associés.** [[type Créature artificielle|Créature artificielle]] ([[sous-type Robot|robot]])
 
-**Membres.** [Annihilateur](./Annihilateur.md) (FP 16), [Machiniste](./Machiniste.md) (FP 4), [Myrmidon](./Myrmidon.md) (FP 11), [Terraformeur](./Terraformeur.md) (FP 7).
+**Membres.** [[Annihilateur]] (FP 16), [[Machiniste]] (FP 4), [[Myrmidon]] (FP 11), [[Terraformeur]] (FP 7).
 
-### Sahkil ([lien](./Sahkil.md))
+### Sahkil ([[Sahkil|lien]])
 *Les psychopompes sont responsables du bon fonctionnement de l’un des processus fondamentaux du multivers : l’évolution des âmes mortelles...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md), [sahkil](./sous-type sahkil.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]], [[sous-type sahkil|sahkil]])
 
-**Membres.** [Esipil](./Esipil.md) (FP 2), [Ichkoh](./Ichkoh.md) (FP 7), [Kimenhul](./Kimenhul.md) (FP 20), [Nucol](./Nucol.md) (FP 4), [Pakalchi](./Pakalchi.md) (FP 9), [Qolok](./Qolok.md) (FP 16), [Wihsaak](./Wihsaak.md) (FP 6), [Ximtal](./Ximtal.md) (FP 17), [Zohanil](./Zohanil.md) (FP 10).
+**Membres.** [[Esipil]] (FP 2), [[Ichkoh]] (FP 7), [[Kimenhul]] (FP 20), [[Nucol]] (FP 4), [[Pakalchi]] (FP 9), [[Qolok]] (FP 16), [[Wihsaak]] (FP 6), [[Ximtal]] (FP 17), [[Zohanil]] (FP 10).
 
-### Seigneur démon ([lien](./Seigneurs démons.md))
+### Seigneur démon ([[Seigneurs démons|lien]])
 *Les seigneurs démoniaques sont les démons les plus puissants des Abysses...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])
 
-**Membres.** [Baphomet](./Baphomet.md) (FP 27), [Dagon](./Dagon.md) (FP 28), [Deskari](./Deskari.md) (FP 29), [Kostchtchie](./Kostchtchie.md) (FP 26), [Nocticula](./Nocticula.md) (FP 30), [Pazuzu](./Pazuzu.md) (FP 30), [Shax](./Shax.md) (FP 28), [Sifkesh](./Sifkesh.md) (FP 28), [Xoveron](./Xoveron.md) (FP 27).
+**Membres.** [[Baphomet]] (FP 27), [[Dagon]] (FP 28), [[Deskari]] (FP 29), [[Kostchtchie]] (FP 26), [[Nocticula]] (FP 30), [[Pazuzu]] (FP 30), [[Shax]] (FP 28), [[Sifkesh]] (FP 28), [[Xoveron]] (FP 27).
 
-### Seigneur empyréen ([lien](./Seigneurs empyréens.md))
+### Seigneur empyréen ([[Seigneurs empyréens|lien]])
 *Les seigneurs empyréens sont l’incarnation des forces primales du Bien...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([agathion](./sous-type agathion.md)/[ange](./sous-type ange.md)/[archon](./sous-type archon.md)/[azata](./sous-type azata.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type agathion|agathion]]/[[sous-type ange|ange]]/[[sous-type archon|archon]]/[[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]])
 
-**Membres.** [Cernunnos](./Cernunnos.md) (FP 30), [Korada](./Korada.md) (FP 26), [Vildéïs](./Vildéïs.md) (FP 28).
+**Membres.** [[Cernunnos]] (FP 30), [[Korada]] (FP 26), [[Vildéïs]] (FP 28).
 
-### Sphinx ([lien](./../Golarion/Sphinx.md))
+### Sphinx ([[Sphinx|lien]])
 *Les sphinx, énigmatiques, sont tous apparentés même si leur apparence, leur intellect et leur personnalité diffèrent...*
 
-**Types/Sous-types associés.** [Créature magique](./type Créature magique.md)
+**Types/Sous-types associés.** [[type Créature magique|Créature magique]]
 
-**Membres.** [Androsphinx](./Androsphinx.md) (FP 9), [Criosphinx](./Criosphinx.md) (FP 7), [Gynosphinx](./gynosphinx.md) (FP 8), [Hiéracosphinx](./Hiéracosphinx.md) (FP 5).
-**Membres mythiques.** [Sphinx mythique](./Sphinx mythique.md) (FP 10/RMy 4).
+**Membres.** [[Androsphinx]] (FP 9), [[Criosphinx]] (FP 7), [[Gynosphinx]] (FP 8), [[Hiéracosphinx]] (FP 5).
+**Membres mythiques.** [[Sphinx mythique]] (FP 10/RMy 4).
 
-### Ténébreux ([lien](./Ténébreux.md))
+### Ténébreux ([[Ténébreux|lien]])
 *Les ténébreux forment une race maléfique et mystérieuse d’abominations nécrotiques composées à part égale de ténèbres et de Mal à l’état pur...*
 
-**Types/Sous-types associés.** [Mort-vivant](./type Mort-vivant.md) ([extraplanaire](./sous-type extraplanaire.md), [ténébreux](./sous-type Ténébreux.md))
+**Types/Sous-types associés.** [[type Mort-vivant|Mort-vivant]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type ténébreux|ténébreux]])
 
-**Membres.** [Ailé ténébreux](./Ailé ténébreux.md) (FP 14), [Marcheur ténébreux](./Marcheur ténébreux.md) (FP 16), [Rampant ténébreux](./Rampant ténébreux.md) (FP 18), [Vague ténébreuse](./Vague ténébreuse.md) (FP 20).
+**Membres.** [[Ailé ténébreux]] (FP 14), [[Marcheur ténébreux]] (FP 16), [[Rampant ténébreux]] (FP 18), [[Vague ténébreuse]] (FP 20).
 
-### Thriae ([lien](./Thriae.md))
+### Thriae ([[Thriae|lien]])
 *Les thriae sont des créatures qui se consacrent à la spiritualité et à la protection des grands secrets du monde...*
 
-**Types/Sous-types associés.** [Humanoïde monstrueux](./type Humanoïde monstrueux.md)
+**Types/Sous-types associés.** [[type Humanoïde monstrueux|Humanoïde monstrueux]]
 
-**Membres.** [Bâtisseuse thriae](./Bâtisseuse thriae.md) (FP 14), [Danseuse thriae](./Danseuse thriae.md) (FP 6), [Oracle thriae](./Oracle thriae.md) (FP 11), [Reine thriae](./Reine thriae.md) (FP 18), [Soldat thriae](./Soldat thriae.md) (FP 4).
+**Membres.** [[Bâtisseuse thriae]] (FP 14), [[Danseuse thriae]] (FP 6), [[Oracle thriae]] (FP 11), [[Reine thriae]] (FP 18), [[Soldat thriae]] (FP 4).
 
 ### Titan
 Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])
 
-**Membres.** [Titan de l'Élysée](./Titan de lÉlysée.md) (FP 21), [Titan hécatonchire](./Titan hécatonchire.md) (FP 24), [Titan thanatotique](./Titan thanatotique.md) (FP 22).
-**Membres mythiques.** [Danave](./Danave.md) (FP 24/RMy 9), [Titan fomorien](./Titan fomorien.md) (FP 22/RMy 8).
+**Membres.** [[Titan de lÉlysée|Titan de l'Élysée]] (FP 21), [[Titan hécatonchire]] (FP 24), [[Titan thanatotique]] (FP 22).
+**Membres mythiques.** [[Danave]] (FP 24/RMy 9), [[Titan fomorien]] (FP 22/RMy 8).
 
 ### Troll
 Cette famille regroupe des créatures d'une espèce similaire, mais aucune description officielle ne lui a été donnée.
 
-**Types/Sous-types associés.** [Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md))
+**Types/Sous-types associés.** [[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]])
 
-**Membres.** [Acolyte troll](./Acolyte troll.md) (FP 6), [Berserker troll](./Berserker troll.md) (FP 9), [Brute troll](./Brute troll.md) (FP 7), [Matrone âgée troll](./Matrone âgée troll.md) (FP 10), [Étripeur troll](./Étripeur troll.md) (FP 8), [Éventreur troll](./Éventreur troll.md) (FP 10), [Gardien troll](./Gardien troll.md) (FP 6), [Monarque troll](./Monarque troll.md) (FP 15), [Troll](./Troll.md) (FP 5), [Troll de mousse](./Troll de mousse.md) (FP 3), [Troll de pierre](./Troll de pierre.md) (FP 6), [Troll des cheminées](./Troll-des-cheminées.md) (FP 2), [Troll des égouts](./Troll des égouts.md) (FP 2), [Troll des glaces](./Troll des glaces.md) (FP 4), [Troll furieux](./Troll furieux.md) (FP 8), [Troll jötun](./Troll jötun.md) (FP 15).
-**Membres mythiques.** [Troll mythique](./Troll mythique.md) (FP 6/RMy 2).
+**Membres.** [[Acolyte troll]] (FP 6), [[Berserker troll]] (FP 9), [[Brute troll]] (FP 7), [[Matrone âgée troll]] (FP 10), [[Étripeur troll]] (FP 8), [[Éventreur troll]] (FP 10), [[Gardien troll]] (FP 6), [[Monarque troll]] (FP 15), [[Troll]] (FP 5), [[Troll de mousse]] (FP 3), [[Troll de pierre]] (FP 6), [[Troll des cheminées]] (FP 2), [[Troll des égouts]] (FP 2), [[Troll des glaces]] (FP 4), [[Troll furieux]] (FP 8), [[Troll jötun]] (FP 15).
+**Membres mythiques.** [[Troll mythique]] (FP 6/RMy 2).
 
-### Tsukumogami ([lien](./Tsukumogami, archétype.md))
+### Tsukumogami ([[Tsukumogami, archétype|lien]])
 *Quand un objet fête le centenaire de sa création, il arrive qu’il fusionne avec un kami et devienne une créature appelée un tsukumogami...*
 
-**Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([kami](./sous-type kami.md), [natif](./sous-type natif.md))
+**Types/Sous-types associés.** [[type Extérieur|Extérieur]] ([[sous-type kami|kami]], [[sous-type natif|natif]])
 
-**Membres.** [Boroboroton](./Boroboroton.md) (FP 5), [Kasa-obake](./Kasa-obake.md) (FP 4), [Koto-furunishi](./Koto-furunishi.md) (FP 2).
+**Membres.** [[Boroboroton]] (FP 5), [[Kasa-obake]] (FP 4), [[Koto-furunishi]] (FP 2).

@@ -5,4 +5,4 @@ LastModified: 2021-04-11 10:44
 RedirectTo: Sphinx
 ---
 
->>> [Sphinx](./../Golarion/Sphinx.md)
+>>> [[Sphinx]]

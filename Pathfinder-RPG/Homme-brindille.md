@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|<i>Source : Bestiaire 2 p.166</i>}
 {s:BDTexte|<b>PX</b> 800}
-{s:BDTexte|[Fée](./type Fée.md) de taille TP, CM}
-{s:BDTexte|<b>Init</b> +3 ; <b>Sens</b> <a> [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c})</a> ; [vision nocturne](./vision nocturne.md), <a> [Perception](./Perception.md)</a> +10}
+{s:BDTexte|[[type Fée|Fée]] de taille TP, CM}
+{s:BDTexte|<b>Init</b> +3 ; <b>Sens</b> <a> [[vision dans le noir]] 18 m (12 {s:c})</a> ; [[vision nocturne]], <a> [[Perception]]</a> +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 17, contact 15, pris au dépourvu 14 (Dex +3, naturelle +2, taille +2)}
 {s:BDTexte|<b>pv</b> 27 (5d6+10)}
@@ -29,10 +29,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 8, <b>Dex</b> 16, <b>Con</b> 15, <b>Int</b> 11, <b>Sag</b> 14, <b>Cha</b> 13}
 {s:BDTexte|<b>BBA</b> +2, <b>BMO</b> +3, <b>DMD</b> 12}
-{s:BDTexte|<b>Dons</b> <a>[Attaque en finesse](./Attaque en finesse.md)</a>, <a>[Manoeuvres agiles](./Manoeuvres-agiles.md)</a>, <a>[Talent](./Talent.md) ([Discrétion](./Discrétion.md)</a>}
-{s:BDTexte|<b>Compétences</b> <a>[Acrobaties](./Acrobaties.md)</a>  +11, <a>[Connaissances (nature)](./Connaissances.md)</a>  +8, <a>[Discrétion](./Discrétion.md)</a>  +22, <a>[Escalade](./Escalade.md)</a> +7 , <a>[Perception](./Perception.md)</a>  +10, <a>[Sabotage](./Sabotage.md)</a> +8}
+{s:BDTexte|<b>Dons</b> <a>[[Attaque en finesse]]</a>, <a>[[Manoeuvres agiles]]</a>, <a>[[Talent]] ([[Discrétion]]</a>}
+{s:BDTexte|<b>Compétences</b> <a>[[Acrobaties]]</a>  +11, <a>[[Connaissances|Connaissances (nature)]]</a>  +8, <a>[[Discrétion]]</a>  +22, <a>[[Escalade]]</a> +7 , <a>[[Perception]]</a>  +10, <a>[[Sabotage]]</a> +8}
 {s:BDTexte|<b>Langues</b> commun, sylvestre}
-{s:BDTexte|<b>Particularités</b> [déplacement facilité (forêt)](./Druide.md#DEPLACEMENTFACILITE), saut de ronces}
+{s:BDTexte|<b>Particularités</b> [[Druide#DEPLACEMENTFACILITE|déplacement facilité (forêt)]], saut de ronces}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> forêts tempérées}
 {s:BDTexte|<b>Organisation sociale</b> solitaire, couple ou bande (3-8)}

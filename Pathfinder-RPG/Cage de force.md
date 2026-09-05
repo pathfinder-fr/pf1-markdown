@@ -10,26 +10,26 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (poussière de rubis (500 po))  
+**Composantes** [[composantes|V, G, M]] (poussière de rubis (500 po))  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Zone d'effet** cage à barreaux (cube de 6 m d’arête) ou cellule aveugle (cube de 3 m d’arête)  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
 Ce sort redoutable fait apparaître une prison statique et invisible aux murs (ou barreaux, au choix du personnage) magiques.
 
-Les créatures présentes dans la [zone d’effet](./zone deffet.md) sont automatiquement emprisonnées, excepté dans le cas où elles se révèlent être trop grandes pour la cage ce qui fait immédiatement échouer le sort. Il est possible de s’échapper par *[téléportation](./téléportation.md)* ou par le biais du [plan Astral](./plan Astral.md), mais les barreaux de la cage existent également dans le [plan Éthéré](./plan Éthéré.md), ce qui empêche de passer par là pour s’échapper.
+Les créatures présentes dans la [[zone deffet|zone d’effet]] sont automatiquement emprisonnées, excepté dans le cas où elles se révèlent être trop grandes pour la cage ce qui fait immédiatement échouer le sort. Il est possible de s’échapper par *[[téléportation]]* ou par le biais du [[plan Astral]], mais les barreaux de la cage existent également dans le [[plan Éthéré]], ce qui empêche de passer par là pour s’échapper.
 
-Tout comme le *[mur de force](./Mur de force.md)*, la *cage de force* résiste à une *[dissipation de la magie](./Dissipation de la magie.md)*, mais elle est vulnérable à une *[disjonction](./Disjonction.md)*. Les sorts abîment la cage comme il se doit, hormis la *[désintégration](./Désintégration.md)* qui la détruit automatiquement. Les murs de la cage peuvent aussi être endommagés à l’aide d’armes ou de pouvoirs surnaturels mais ils ont une [solidité](./solidité.md) de 30 et 20 [points de vie](./points de vie.md) par [niveau de lanceur de sorts](./NLS.md). Si la cage entre en contact avec une *[sphère d’annihilation](./Sphère dannihilation.md)* ou un *[sceptre d’oblitération](./Sceptre doblitération.md)*, elle est détruite sur-le-champ.
+Tout comme le *[[mur de force]]*, la *cage de force* résiste à une *[[dissipation de la magie]]*, mais elle est vulnérable à une *[[disjonction]]*. Les sorts abîment la cage comme il se doit, hormis la *[[désintégration]]* qui la détruit automatiquement. Les murs de la cage peuvent aussi être endommagés à l’aide d’armes ou de pouvoirs surnaturels mais ils ont une [[solidité]] de 30 et 20 [[points de vie]] par [[NLS|niveau de lanceur de sorts]]. Si la cage entre en contact avec une *[[sphère dannihilation|sphère d’annihilation]]* ou un *[[sceptre doblitération|sceptre d’oblitération]]*, elle est détruite sur-le-champ.
 
-**Cage.** Cette cage a l’aspect d’un cube de six mètre d’arête et dont les barreaux sont constitués de force (le même type d’énergie qui constitue un *[mur de force](./Mur de force.md)*). Ils sont d’une épaisseur légèrement supérieure à un centimètre et sont séparés d’autant. Les créatures ayant la capacité de se faufiler peuvent se libérer, mais les autres sont prises au piège. Il est impossible d’attaquer une créature dans la cage à l’aide d’une arme, à moins que cette dernière ne puisse passer entre les barreaux. Face à de telles armes (ce qui inclut flèches et autres attaques à distance), la créature emprisonnée dispose d’un [abri](./abri.md). Les sorts et souffles agissent de façon normale.
+**Cage.** Cette cage a l’aspect d’un cube de six mètre d’arête et dont les barreaux sont constitués de force (le même type d’énergie qui constitue un *[[mur de force]]*). Ils sont d’une épaisseur légèrement supérieure à un centimètre et sont séparés d’autant. Les créatures ayant la capacité de se faufiler peuvent se libérer, mais les autres sont prises au piège. Il est impossible d’attaquer une créature dans la cage à l’aide d’une arme, à moins que cette dernière ne puisse passer entre les barreaux. Face à de telles armes (ce qui inclut flèches et autres attaques à distance), la créature emprisonnée dispose d’un [[abri]]. Les sorts et souffles agissent de façon normale.
 
 **Cellule.** La cellule est un cube de trois mètres d’arête sans la moindre ouverture. Ses parois sont constituées de six plans de force et ne présentent pas le plus petit interstice.

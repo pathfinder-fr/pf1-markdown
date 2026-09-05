@@ -11,11 +11,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Cape du grand héros barghest|{s:ISG}{s:GeM}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 7 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 2 800 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 2 800 po ; **Poids** 0,5 kg
 (((Description)))
-Cette cape ressemble à la fourrure d’un chien gobelin avec les pattes et la queue, le fermoir est une dent de chien gobelin. Le personnage bénéficie d’un bonus de compétence de +2 aux tests d’[Intimidation](./Intimidation.md).
+Cette cape ressemble à la fourrure d’un chien gobelin avec les pattes et la queue, le fermoir est une dent de chien gobelin. Le personnage bénéficie d’un bonus de compétence de +2 aux tests d’[[Intimidation]].
 
-Si le personnage est un suivant d’un des héros barghests gobelins, il peut utiliser *[métamorphose](./métamorphose.md)* pour se transformer en [chien gobelin](./Chien gobelin.md) une fois par jour pendant une durée maximale de 7 minutes.
+Si le personnage est un suivant d’un des héros barghests gobelins, il peut utiliser *[[métamorphose]]* pour se transformer en [[chien gobelin]] une fois par jour pendant une durée maximale de 7 minutes.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[métamorphose](./métamorphose.md)*, le créateur doit avoir 5 rangs en [Intimidation](./Intimidation.md) ; **Coût** 1 400 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[métamorphose]]*, le créateur doit avoir 5 rangs en [[Intimidation]] ; **Coût** 1 400 po
 </div>

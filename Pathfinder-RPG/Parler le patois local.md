@@ -16,11 +16,11 @@ Categories:
 
 **(Source: Heroes of the street)**
 
-**École** [Divination](./Divination.md) ; **Niveau** [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Inq](./Inquisiteur.md) 1, [Prê](./Prêtre.md) 1, [rôdeur](./Rôdeur.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Divination]] ; **Niveau** [[barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[inquisiteur|Inq]] 1, [[prêtre|Prê]] 1, [[rôdeur]] 1, [[sorcière|Sor]] 1  
 
-**Composantes** [V,M,FD](./composantes.md) (une pièce usée)
+**Composantes** [[composantes|V,M,FD]] (une pièce usée)
 
-Ce sort fonctionne comme *[don des langues](./Don des langues.md)* sauf que la créature touchée gagne seulement le pouvoir de parler et comprendre un patois humain régional et que la langue en question doit être une langue que vous connaissez. Vous devez sélectionner la langue lorsque vous lancez le sort.
+Ce sort fonctionne comme *[[don des langues]]* sauf que la créature touchée gagne seulement le pouvoir de parler et comprendre un patois humain régional et que la langue en question doit être une langue que vous connaissez. Vous devez sélectionner la langue lorsque vous lancez le sort.
 
 Le langage ne peut pas être une langue morte.
 

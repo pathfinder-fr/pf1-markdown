@@ -4,8 +4,8 @@ Title: Un coup de feu dans le noir
 LastModified: 2021-05-24 19:49
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du [deuxième chapitre](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lbpz) de la nouvelle "Les canons de l'Alkenastre" de Ed Greenwood. Illustration de Colby Stevenson.*
 
 La balle fit exploser les pierres à quelques centimètres de sa tête, projetant des éclats de pierre dans toutes les directions. Gelgur se lança au-dessus d'un tas de détritus, plongeant menton en premier vers les pavés nus et tendant ses bras et ses jambes pour s'aplatir autant que possible. Quand il arrêta de glisser, il se tint aussi immobile que possible.

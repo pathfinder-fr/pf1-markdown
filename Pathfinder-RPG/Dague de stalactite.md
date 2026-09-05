@@ -14,19 +14,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [invocation](./Invocation.md) ([création](./branche création.md)) <nowiki>[</nowiki>[froid](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Occ](./Occultiste.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** 0 m  
 
 **Effet** une stalactite  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Le personnage crée une dague de maître de glace. Elle inflige 1 point de dégâts de froid en plus des dégâts habituels des dagues. Si elle quitte la main du personnage pendant plus d’un [round](./round.md), elle fond et le sort se termine. Au [niveau](./niveau.md) 6, la dague fonctionne comme une *dague de froid* +1. Au [niveau](./niveau.md) 11, elle gagne la propriété
-*[boomerang](./boomerang (propriété).md)* quand le personnage la lance : elle fond et se reforme dans sa main au [round](./round.md) suivant.
+Le personnage crée une dague de maître de glace. Elle inflige 1 point de dégâts de froid en plus des dégâts habituels des dagues. Si elle quitte la main du personnage pendant plus d’un [[round]], elle fond et le sort se termine. Au [[niveau]] 6, la dague fonctionne comme une *dague de froid* +1. Au [[niveau]] 11, elle gagne la propriété
+*[[boomerang (propriété)|boomerang]]* quand le personnage la lance : elle fond et se reforme dans sa main au [[round]] suivant.

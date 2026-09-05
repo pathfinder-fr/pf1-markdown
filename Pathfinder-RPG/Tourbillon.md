@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Tourbillon (capacité)
 ---
 
->>> [Tourbillon (capacité)](./Tourbillon (capacité).md)
+>>> [[Tourbillon (capacité)]]

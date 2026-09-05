@@ -14,21 +14,21 @@ Categories:
 {s:BDTexte|*Source : Bestiaire p.263*}
 {s:BDTexte|**PX** 600}
 {s:BDTexte|Humain champion squelette, combattant 1}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, NM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) (12 cases) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, NM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] (12 cases) ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 11, pris au dépourvu 20 (armure +6, bouclier +2, Dex +1, naturelle +2)}
 {s:BDTexte|**pv** 17 (2d8+1d10+3)}
 {s:BDTexte|**Réf** +1, **Vig** +3, **Vol** +3}
-{s:BDTexte|**Capacités défensives** [résistance à la canalisation](./résistance à la canalisation.md) +4 ; **Immunités** froid, [traits des morts-vivants](./Traits des morts-vivants.md) ; **RD** 5/contondant }
+{s:BDTexte|**Capacités défensives** [[résistance à la canalisation]] +4 ; **Immunités** froid, [[traits des morts-vivants]] ; **RD** 5/contondant }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** épée longue de maître +7 (1d8+3/19-20)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 13, **Con** -, **Int** 9, **Sag** 10, **Cha** 12}
 {s:BDTexte|**BBA** +2, **BMO** +5, **DMD** 16}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée longue), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Science de l'initiative](./Science de linitiative.md) <sup>B</sup>}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) -1, [Intimidation](./Intimidation.md) +7, [Perception](./Perception.md) +6}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée longue), [[Attaque en puissance]], [[Enchaînement]], [[Science de linitiative|Science de l'initiative]] <sup>B</sup>}
+{s:BDTexte|**Compétences** [[Discrétion]] -1, [[Intimidation]] +7, [[Perception]] +6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou section (3-12)}
@@ -41,11 +41,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Champion squelette](./Champion squelette.md) || 2
+| [[Champion squelette]] || 2
 |-
-| [Squelette humain](./Squelette humain.md) || 1/3
+| [[Squelette humain]] || 1/3
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Champion squelette](./Champion squelette, archétype.md).***</li></ul>*Ce squelette en armure adopte une posture de combat et se prépare à frapper. Une froide lueur bleue brille dans ses orbites.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Champion squelette, archétype|Champion squelette]].***</li></ul>*Ce squelette en armure adopte une posture de combat et se prépare à frapper. Une froide lueur bleue brille dans ses orbites.*
 
 Certains squelettes conservent leur intelligence et leurs
 talents, ce qui en fait de formidables combattants. Ces morts-vivants

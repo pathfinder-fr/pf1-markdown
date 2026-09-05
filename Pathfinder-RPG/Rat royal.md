@@ -10,7 +10,7 @@ LastModified: 2017-01-18 16:44
 {s:pucem|Créature magique|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 224*}
 - **1 600 PX**
-- [Créature magique](./type Créature magique.md) de taille P, N
+- [[type créature magique|Créature magique]] de taille P, N
 - **Init **+4 ; **Sens **vision dans le noir 18 m, vision nocturne ; Perception +11
 (((Défense)))
 - **CA **18, contact 16, pris au dépourvu 13 (Dex +4, esquive +1, naturelle +2, taille +1)
@@ -24,8 +24,8 @@ LastModified: 2017-01-18 16:44
 (((Statistiques)))
 - **For **12, **Dex **19, **Con **18, **Int **5, **Sag **14, **Cha **11
 - **BBA **+6 ; **BMO **+6 ; **DMD **21 (croc-en-jambe impossible)
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Talent](./Talent.md) (Perception)
-- **Compétences **[Connaissances](./Connaissances.md) (folklore local) -2, [Diplomatie](./Diplomatie.md) +0 (+4 pour influencer des rats), [Discrétion](./Discrétion.md) +13, [Escalade](./Escalade.md) +9, [Natation](./Natation.md) +9, [Perception](./Perception.md) +11
+- **Dons **[[Attaque en finesse]], [[Esquive]], [[Talent]] (Perception)
+- **Compétences **[[Connaissances]] (folklore local) -2, [[Diplomatie]] +0 (+4 pour influencer des rats), [[Discrétion]] +13, [[Escalade]] +9, [[Natation]] +9, [[Perception]] +11
 - **Modificateurs raciaux** +4 en Diplomatie pour influencer des rats
 - **Particularités **compression, communication avec les rats
 (((Écologie)))

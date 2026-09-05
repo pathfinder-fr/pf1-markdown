@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 - *Source : Bestiaire 2* p.154
 - **PX** 800
-- [Aberration](./type Aberration.md) de taille M, N
-- **Init** +2 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +12
+- [[type Aberration|Aberration]] de taille M, N
+- **Init** +2 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +12
 (((Défense)))
 - **CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)
 - **pv** 27 (5d8+5)
@@ -26,9 +26,9 @@ Categories:
 - **Corps à corps** morsure, +4 (1d4+1) et 4 tentacules, –1 (1d4)
 (((Caractéristiques)))
 - **For** 12, **Dex** 14, **Con** 13, **Int** 3, **Sag** 14, **Cha** 5
-- **BBA** +3, **BMO** +4, **DMD** 16 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Attaques réflexes](./Attaques réflexes.md), [Immobiliser](./Immobiliser.md), [Talent](./Talent.md) ([Perception](./Perception.md))
-- **Compétences** [Discrétion](./Discrétion.md) +6 (+14 dans un environnement rocailleux), [Escalade](./Escalade.md) +9, [Perception](./Perception.md) +12 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md) dans un environnement rocailleux
+- **BBA** +3, **BMO** +4, **DMD** 16 ([[croc-en-jambe]] impossible)
+- **Dons** [[Attaques réflexes]], [[Immobiliser]], [[Talent]] ([[Perception]])
+- **Compétences** [[Discrétion]] +6 (+14 dans un environnement rocailleux), [[Escalade]] +9, [[Perception]] +12 ; **Modificateurs raciaux** +8 en [[Discrétion]] dans un environnement rocailleux
 - **Langues** aklo (incapable de parler)
 (((Écologie)))
 - **Environnement** sous terre
@@ -45,10 +45,10 @@ Les gricks sont des espèces de vers terrifiants qui vivent dans les cavernes et
 
 On ne connaît pas les origines des gricks. Ils possèdent une intelligence rudimentaire mais pas vraiment de société à proprement parler et la plupart d’entre eux sont des solitaires. Les rares fois où des voyageurs infortunés ont rencontré plusieurs spécimens à la fois, les gricks n’ont pas semblé communiquer entre eux ni même travailler de concert : chacun d’eux a attaqué sa cible et s’est enfui avec elle après l’avoir mise hors d’état de combattre.
 
-Ces prédateurs doués possèdent également une peau résistante aux armes, ce qui les rend tout particulièrement dangereux. De nombreux aventuriers novices ont succombé à des attaques de gricks simplement parce qu’ils étaient incapables de les blesser avec leurs armes non magiques. Ceux qui connaissent bien les gricks (les [nains](./Nain.md), les [morlocks](./Morlock.md) et les [troglodytes](./Troglodyte.md) par exemple) savent que la meilleur stratégie à adopter face à eux consiste à battre en retraite et à attendre des renforts plus puissants ou dotés de magie.
+Ces prédateurs doués possèdent également une peau résistante aux armes, ce qui les rend tout particulièrement dangereux. De nombreux aventuriers novices ont succombé à des attaques de gricks simplement parce qu’ils étaient incapables de les blesser avec leurs armes non magiques. Ceux qui connaissent bien les gricks (les [[nain|nains]], les [[morlock|morlocks]] et les [[troglodyte|troglodytes]] par exemple) savent que la meilleur stratégie à adopter face à eux consiste à battre en retraite et à attendre des renforts plus puissants ou dotés de magie.
 
 Les gricks tirent parti de leur coloration sombre et de leur capacité à escalader les murs pour rester hors de vue jusqu’au moment où ils sont prêts à lancer une embuscade. De temps en temps, lorsque la nourriture se fait rare sur leur territoire, les gricks remontent à la surface et sillonnent la région en quête de proies. Mais ces séjours à la surface ne s’effectuent qu’en cas de nécessité et ils se terminent dès que les gricks trouvent une entrée leur permettant de rejoindre leurs demeures souterraines. Ils préfèrent les ténèbres et le confort d’un endroit avec un plafond au-dessus de leur tête. Ils évitent les zones à ciel ouvert et font tout leur possible pour atteindre des lieux où des branches d’arbres, des nuages bas ou des toits de bâtiments les séparent du vaste gouffre qu’est le ciel.
 
 #### Les gricks de la jungle
 
-Ces variantes de gricks se sont adaptées à la vie à la surface, arborent diverses teintes de vert et vivent dans les jungles. Ils se tapissent dans les broussailles ou grimpent sur les branches les plus basses, se jettant sur leurs proies afin de les surprendre. Leur bonus racial aux tests de [Discrétion](./Discrétion.md) s’applique dans les environnements forestiers au lieu des environnements rocailleux. Les gricks de la jungle sont des créatures plus robustes que leur cousins souterrains : ils possèdent tous l’archétype simple de « créature évoluée » et gagnent [Robustesse](./Robustesse.md) en tant que don supplémentaire.</div></td></tr></table>
+Ces variantes de gricks se sont adaptées à la vie à la surface, arborent diverses teintes de vert et vivent dans les jungles. Ils se tapissent dans les broussailles ou grimpent sur les branches les plus basses, se jettant sur leurs proies afin de les surprendre. Leur bonus racial aux tests de [[Discrétion]] s’applique dans les environnements forestiers au lieu des environnements rocailleux. Les gricks de la jungle sont des créatures plus robustes que leur cousins souterrains : ils possèdent tous l’archétype simple de « créature évoluée » et gagnent [[Robustesse]] en tant que don supplémentaire.</div></td></tr></table>

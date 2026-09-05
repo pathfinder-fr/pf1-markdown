@@ -10,8 +10,8 @@ Categories:
 
 {s:mca} *Le maléfice errant du personnage change quand il le décide.*
 
-**Conditions.** Pouvoir de classe [maléfice errant](./Chaman.md#MALEFICEERRANT).
+**Conditions.** Pouvoir de classe [[chaman#MALEFICEERRANT|maléfice errant]].
 
-**Avantage.** Une fois par jour par une [action rapide](./Action rapide.md), le personnage peut changer de [maléfice errant](./Chaman.md#MALEFICEERRANT). Quand il change son maléfice, le nouveau doit être associé à l’esprit errant avec lequel il est lié à ce moment-là. Au niveau 12, il peut changer l’un de ses maléfices errants, ou les deux, avec ce don.
+**Avantage.** Une fois par jour par une [[action rapide]], le personnage peut changer de [[chaman#MALEFICEERRANT|maléfice errant]]. Quand il change son maléfice, le nouveau doit être associé à l’esprit errant avec lequel il est lié à ce moment-là. Au niveau 12, il peut changer l’un de ses maléfices errants, ou les deux, avec ce don.
 
-**Normal.** Les [chamans](./Chaman.md) choisissent leurs maléfices tous les jours quand ils préparent leurs sorts et ne peuvent pas en changer.
+**Normal.** Les [[chaman|chamans]] choisissent leurs maléfices tous les jours quand ils préparent leurs sorts et ne peuvent pas en changer.

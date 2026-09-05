@@ -14,9 +14,9 @@ Categories:
 {s:pucem|Créature magique|Marais|Tempéré}
 - *Source : Bestiaire 2, p.57*
 - **PX** 19 200
-- [Créature magique](./type Créature magique.md) de taille G, N
-- **Init** –1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +25
-- **Aura** [puanteur](./Puanteur (capacité).md) (9 m (6 {s:c}), DD 23, 10 rounds)
+- [[type créature magique|Créature magique]] de taille G, N
+- **Init** –1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +25
+- **Aura** [[puanteur (capacité)|puanteur]] (9 m (6 {s:c}), DD 23, 10 rounds)
 (((Défense)))
 - **CA** 27, contact 8, pris au dépourvu 27 (Dex –1, naturelle +19, taille –1)
 - **pv** 161 (14d10+84)
@@ -26,19 +26,19 @@ Categories:
 - **VD** 12 m (8 {s:c}), nage 6 m (4 {s:c})
 - **Corps à corps** morsure, +18 (3d6+5) et cornes, +18 (2d8+5/19–20) et 2 sabots, +16 (1d8+2)
 - **Espace** 4,50 m (3 {s:c}) ; Allonge 4,50 m (3 {s:c})
-- **Attaques spéciales** [piétinement](./Piétinement.md) (4d6+7, DD 22), [souffle](./Souffle.md) ([cône](./cône.md) de 18 m (12 {s:c}), poison, Vigueur DD 23, utilisable tous les 1d4 rounds)
+- **Attaques spéciales** [[piétinement]] (4d6+7, DD 22), [[souffle]] ([[cône]] de 18 m (12 {s:c}), poison, Vigueur DD 23, utilisable tous les 1d4 rounds)
 (((Statistiques)))
 - **For** 20, **Dex** 8, **Con** 22, **Int** 5, **Sag** 15, **Cha** 10
-- **BBA** +14 ; **BMO** +20 ; **DMD** 29 (33 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Dons** [Attaques multiples](./Attaques multiples.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science du critique](./Science du critique.md) (cornes), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Natation](./Natation.md) +13, [Perception](./Perception.md) +25
+- **BBA** +14 ; **BMO** +20 ; **DMD** 29 (33 contre [[croc-en-jambe]])
+- **Dons** [[Attaques multiples]], [[Dur à cuire]], [[Endurance]], [[Science de la volonté de fer]], [[Science du critique]] (cornes), [[Talent]] ([[Perception]]), [[Volonté de fer]]
+- **Compétences** [[Natation]] +13, [[Perception]] +25
 - **Langues** aklo
 (((Écologie)))
 - **Environnement** marécages
 - **Organisation sociale** solitaire, couple ou troupeau (3–6)
 - **Trésor** fortuit
 (((Pouvoirs spéciaux)))
-- **Souffle empoisonné (Ext).** L’horrible et nauséabond souffle qu’émettent les catoblépas prend la forme d’un cône de gaz empoisonné de 18 mètres (12 {s:c}). Souffle — contact ; *JdS* Vigueur DD 23 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d6 Con ; *guérison* 3 réussites consécutives. Le DD dépend de la Constitution.
+- **Souffle empoisonné (Ext).** L’horrible et nauséabond souffle qu’émettent les catoblépas prend la forme d’un cône de gaz empoisonné de 18 mètres (12 {s:c}). Souffle — contact ; *JdS* Vigueur DD 23 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d6 Con ; *guérison* 3 réussites consécutives. Le DD dépend de la Constitution.
 
 </div>
 </td><td><div>*Cette hideuse créature possède une tête de sanglier, de courts bois de cerf, le corps épais d’un boeuf recouvert d’épines et des sabots fendus au bout de ses pattes trapues.*

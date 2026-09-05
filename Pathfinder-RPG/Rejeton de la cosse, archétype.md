@@ -25,9 +25,9 @@ Categories:
 - ** Pouvoirs spéciaux.** Le rejeton de la cosse perd tous ses pouvoirs de lanceur de sorts, ses pouvoirs magiques et ses pouvoirs surnaturels.
 
 </div></td>
-<td><div>Voir un exemple : le [Capitaine de la garde rejeton de la cosse](./capitaine de la garde rejeton de la cosse.md).
+<td><div>Voir un exemple : le [[Capitaine de la garde rejeton de la cosse]].
 
-Une créature dotée de l’archétype rejeton de la cosse est un double créé par un [voleur de corps](./Voleur de corps.md). Elle ressemble à l’original et possède les mêmes souvenirs que lui mais elle est incapable de ressentir la moindre émotion.
+Une créature dotée de l’archétype rejeton de la cosse est un double créé par un [[voleur de corps]]. Elle ressemble à l’original et possède les mêmes souvenirs que lui mais elle est incapable de ressentir la moindre émotion.
 
 Les créatures de la cosse sont incapables de se reproduire et conservent l’âge qu’avait leur modèle au moment de leur création.
 </div></td></tr></table>

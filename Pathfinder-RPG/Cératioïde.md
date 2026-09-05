@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.45*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 10, pris au dépourvu 15 (naturelle +5)}
 {s:BDTexte|**pv** 30 (4d10+8)}
@@ -29,8 +29,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 10, **Con** 15, **Int** 15, **Sag** 14, **Cha** 12}
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 17}
-{s:BDTexte|**Dons**  [Arme de prédilection](./Arme de prédilection.md) (épieux), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (leurre)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +5, [Discrétion](./Discrétion.md) +7, [Intimidation](./Intimidation.md) +8, [Natation](./Natation.md) +18, [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +6}
+{s:BDTexte|**Dons**  [[Arme de prédilection]] (épieux), [[Attaque spéciale renforcée]] (leurre)}
+{s:BDTexte|**Compétences** [[Bluff]] +5, [[Discrétion]] +7, [[Intimidation]] +8, [[Natation]] +18, [[Perception]] +9, [[Psychologie]] +6}
 {s:BDTexte|**Langues** aquatique, commun}
 {s:BDTexte|**Particularités** amphibien primitif, esprit dual}
 {s:BDSousTitre|Écologie}
@@ -38,9 +38,9 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, binôme accouplé ou clan (3-20)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Amphibien primitif (Ext).** Les cératioïdes ont des poumons rudimentaires qui leur permettent de respirer indéfiniment à l'air libre, mais leur peau doit être régulièrement plongée dans l'eau salée s'ils ne veulent pas commencer à se dessécher dans d'horribles souffrances. Ils peuvent rejoindre la terre ferme pendant un nombre d'heures égal à leur score de [Constitution](./Constitution.md) multiplié par 2 (30 heures pour la plupart des cératioïdes) avant de devoir replonger dans l'eau de mer : s'ils ne le font pas, ils subissent un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1 point de [Constitution](./Constitution.md) par heure. Tous les dégâts de [Constitution](./Constitution.md) qu'ils accumulent ainsi disparaissent après 10 minutes d'immersion dans l'eau de mer.}
+{s:BDTexte|**Amphibien primitif (Ext).** Les cératioïdes ont des poumons rudimentaires qui leur permettent de respirer indéfiniment à l'air libre, mais leur peau doit être régulièrement plongée dans l'eau salée s'ils ne veulent pas commencer à se dessécher dans d'horribles souffrances. Ils peuvent rejoindre la terre ferme pendant un nombre d'heures égal à leur score de [[Constitution]] multiplié par 2 (30 heures pour la plupart des cératioïdes) avant de devoir replonger dans l'eau de mer : s'ils ne le font pas, ils subissent un [[affaiblissement temporaire]] de 1 point de [[Constitution]] par heure. Tous les dégâts de [[Constitution]] qu'ils accumulent ainsi disparaissent après 10 minutes d'immersion dans l'eau de mer.}
 {s:BDTexte|**Esprit dual (Ext).** Chaque cératioïde étant, en réalité, la somme de deux individus partageant le même corps, ils possèdent tous un certain nombres de caractéristiques uniques. Le cératioïde peut déléguer différentes actions et tâches physiques à chacun de ses esprits individuels, ce qui lui permet de se battre avec deux armes en même temps sans subir aucun malus. Il peut également choisir deux classes de prédilection. Le lien télépathique unissant ses deux consciences jumelles rend le cératioïde imperméable aux effets mentaux.}
-{s:BDTexte|**Leurre (Sur).** Par une [action libre](./Action libre.md), le cératioïde peut allumer le leurre luminescent qui pend à son front, forçant tous les non cératioïdes situés dans un rayon de 15 m (10 {s:c}) à faire un jet de [Volonté](./Volonté.md) [DD](./DD.md) 15 pour éviter d'être [fascinés](./Fasciné.md) pendant 1 [round](./round.md). Quelles qu'aient été les intéractions précédentes entre le cératioïde et sa cible, une créature affectée par cette capacité ne voit pas le cératioïde l'ayant [fasciné](./Fasciné.md) comme une menace potentielle tant que le cératioïde ne l'attaque pas : cela permet au cératioïde de s'approcher sans rompre la [fascination](./Fasciné.md). A partir du moment où une créature réussit son [jet](./jet de sauvegarde.md) contre cet effet, elle est immunisé contre le leurre de ce cératioïde pendant 24 heures. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
+{s:BDTexte|**Leurre (Sur).** Par une [[action libre]], le cératioïde peut allumer le leurre luminescent qui pend à son front, forçant tous les non cératioïdes situés dans un rayon de 15 m (10 {s:c}) à faire un jet de [[Volonté]] [[DD]] 15 pour éviter d'être [[fasciné|fascinés]] pendant 1 [[round]]. Quelles qu'aient été les intéractions précédentes entre le cératioïde et sa cible, une créature affectée par cette capacité ne voit pas le cératioïde l'ayant [[fasciné]] comme une menace potentielle tant que le cératioïde ne l'attaque pas : cela permet au cératioïde de s'approcher sans rompre la [[fasciné|fascination]]. A partir du moment où une créature réussit son [[jet de sauvegarde|jet]] contre cet effet, elle est immunisé contre le leurre de ce cératioïde pendant 24 heures. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
 
 </div>
 </td><td><div>
@@ -48,5 +48,5 @@ Categories:
 
 Maîtres des fosses océaniques, les cératioïdes partagent plusieurs traits inhabituels caractéristiques prédateurs aquatiques de la famille des ceratiidae, aussi connus sous le nom de poissons-pêcheurs. Depuis leurs étranges cités aux hautes tours cachées sous les vagues, les cératioïdes étendent leur influence partout.
 
-L’aspect le plus étrange du cératioïde tient sans doute au fait qu’il est en réalité constitué de deux entités distinctes  : une femelle puissante et imposante, et un mâle parasitaire de la taille d’un rat qui passe la majorité de sa vie accroché au cou de sa compagne. Une femelle sans compagnon perd sa capacité d’esprit dual, tandis qu’un mâle non rattaché à une femelle conserve son intelligence mais possède les mêmes caractéristiques que l’[anguille électrique](./Anguille électrique.md) (sans le pouvoir spécial d’électricité ni la résistance à l’électricité).
+L’aspect le plus étrange du cératioïde tient sans doute au fait qu’il est en réalité constitué de deux entités distinctes  : une femelle puissante et imposante, et un mâle parasitaire de la taille d’un rat qui passe la majorité de sa vie accroché au cou de sa compagne. Une femelle sans compagnon perd sa capacité d’esprit dual, tandis qu’un mâle non rattaché à une femelle conserve son intelligence mais possède les mêmes caractéristiques que l’[[anguille électrique]] (sans le pouvoir spécial d’électricité ni la résistance à l’électricité).
 </div></td></tr></table>

@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Même si le personnage est encore jeune pour sa race, il a déjà accumulé de nombreux savoirs et talents.*
 
-**Conditions.** [Elfe](./Elfe.md), [gnome](./Gnome.md) ou [nain](./Nain.md) ; au moins 100 ans d’âge.
+**Conditions.** [[Elfe]], [[gnome]] ou [[nain]] ; au moins 100 ans d’âge.
 
-**Avantage.** Le personnage obtient un bonus de +2 à tous les tests de [Connaissances](./Connaissances.md) et de [Profession](./Profession.md)  et il peut utiliser ces [compétences](./Compétences.md) même sans formation.
+**Avantage.** Le personnage obtient un bonus de +2 à tous les tests de [[Connaissances]] et de [[Profession]]  et il peut utiliser ces [[compétences]] même sans formation.

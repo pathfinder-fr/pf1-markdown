@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Agrippé
 ---
 
->>> [États préjudiciables#Agrippé](./États préjudiciables.md#Agrippé)
+>>> [[États préjudiciables#Agrippé]]

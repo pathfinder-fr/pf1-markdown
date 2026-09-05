@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#TRANSMUTATION
 ---
 
->>> [Présentation des sorts#TRANSMUTATION](./Présentation des sorts.md#TRANSMUTATION)
+>>> [[Présentation des sorts#TRANSMUTATION]]

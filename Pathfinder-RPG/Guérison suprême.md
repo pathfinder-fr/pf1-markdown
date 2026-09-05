@@ -17,46 +17,46 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([guérison](./guérison.md)) ; **Niveau** [Alch](./Alchimiste.md) 6, [Cham](./Chaman.md) 7, [Dru](./Druide.md) 7, [Inq](./Inquisiteur.md) 6, [Occ](./Occultiste.md) 6, [Prê](./Prêtre.md) 6, [Sor](./Sorcière.md) 7, [Spi](./Spirite.md) 6
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 6, [[Chaman|Cham]] 7, [[Druide|Dru]] 7, [[Inquisiteur|Inq]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 7, [[Spirite|Spi]] 6
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créature touchée
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** [[instantanée]]
+**Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Grâce à *guérison suprême*, le lanceur de sorts peut [canaliser](./canalisation dénergie.md) suffisamment d’énergie positive dans le corps du sujet pour faire disparaître toutes ses blessures et [maladies](./maladie.md). Ce sort soigne les [affaiblissements temporaires](./affaiblissement temporaire.md) de caractéristique, l’aliénation, la [cécité](./Aveuglé.md), la [confusion](./Confus.md), la débilité, l’[éblouissement](./Ébloui.md), l’empoisonnement, l’[épuisement](./Épuisé.md), l’[étourdissement](./Étourdi.md), la [fatigue](./Fatigué.md), la [fièvre](./Fiévreux.md), l’[hébétement](./Hébété.md), les [maladies](./maladie.md), la [nausée](./Nauséeux.md) et la [surdité](./Assourdi.md). Il guérit également de 10 [points de vie](./points de vie.md) par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md), jusqu’à un maximum de 150 points de vie au niveau 15.
+Grâce à *guérison suprême*, le lanceur de sorts peut [[canalisation dénergie|canaliser]] suffisamment d’énergie positive dans le corps du sujet pour faire disparaître toutes ses blessures et [[maladie|maladies]]. Ce sort soigne les [[affaiblissement temporaire|affaiblissements temporaires]] de caractéristique, l’aliénation, la [[aveuglé|cécité]], la [[confus|confusion]], la débilité, l’[[ébloui|éblouissement]], l’empoisonnement, l’[[épuisé|épuisement]], l’[[étourdi|étourdissement]], la [[fatigué|fatigue]], la [[fiévreux|fièvre]], l’[[hébété|hébétement]], les [[maladie|maladies]], la [[nauséeux|nausée]] et la [[assourdi|surdité]]. Il guérit également de 10 [[points de vie]] par [[niveau de lanceur de sorts]], jusqu’à un maximum de 150 points de vie au niveau 15.
 
-Par contre, *guérison suprême* n’a aucun effet sur les [niveaux négatifs](./niveau négatif.md), les niveaux perdus et les [diminutions permanentes](./diminution permanente.md) de caractéristique.
+Par contre, *guérison suprême* n’a aucun effet sur les [[niveau négatif|niveaux négatifs]], les niveaux perdus et les [[diminution permanente|diminutions permanentes]] de caractéristique.
 
 ### Mythique
 {s:CMy}
-Les dégâts soignés s’élèvent à 15 points de dégâts par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) (225 points maximum).
+Les dégâts soignés s’élèvent à 15 points de dégâts par [[niveau de lanceur de sorts]] (225 points maximum).
 
-**[Amplifié](./Amplifié.md).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), le sort fonctionne également comme une [restauration](./Restauration.md).
+**[[Amplifié]].** Si le personnage dépense deux utilisations de [[pouvoir mythique]], le sort fonctionne également comme une [[restauration]].
 
 
 
 ((({s:sortssimilaires|guérison suprême}
-## [Guérison de destrier](./Guérison de destrier.md)
-**École** [Invocation](./Invocation.md) ([guérison](./guérison.md)) ; **Niveau** [Pal](./Paladin.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+## [[Guérison de destrier]]
+**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[paladin|Pal]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** la monture touchée
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** [[instantanée]]
+**Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort fonctionne comme *[guérison suprême](./Guérison suprême.md)*, mais il n’affecte que le destrier du [paladin](./Paladin.md) (il s’agit généralement d’un cheval).
+Ce sort fonctionne comme *[[guérison suprême]]*, mais il n’affecte que le destrier du [[paladin]] (il s’agit généralement d’un cheval).
 
-## [Guérison suprême de groupe](./Guérison suprême de groupe.md)
-**École** [Invocation](./Invocation.md) ([guérison](./guérison.md)) ; **Niveau** [Cham](./Chaman.md) 9, [Prê](./Prêtre.md) 9
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+## [[Guérison suprême de groupe]]
+**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Chaman|Cham]] 9, [[Prêtre|Prê]] 9
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cibles** 1 ou plusieurs créatures distantes de moins de 9 m (6 {s:c}) les unes des autres
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** [[instantanée]]
+**Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort fonctionne comme *[guérison suprême](./Guérison suprême.md)*, si ce n’est qu’il agit à distance et sur plusieurs cibles à la fois, restituant à chacune d’entre elles un nombre de [points de vie](./points de vie.md) pouvant aller jusqu’à 250.
+Ce sort fonctionne comme *[[guérison suprême]]*, si ce n’est qu’il agit à distance et sur plusieurs cibles à la fois, restituant à chacune d’entre elles un nombre de [[points de vie]] pouvant aller jusqu’à 250.
 )))

@@ -51,51 +51,51 @@ Classes principalement concernées
 
 Ce volume de la collection Pathfinder Player Companion présente de nouvelles options propres aux personnages des classes suivantes, ainsi que des éléments pouvant s’appliquer à un large éventail de personnages.
 
-#### [#autres_options|Sanguins]
+#### [[#autres_options|Sanguins]]
 
 Les Sanguins ont accès à une grande variété de familiers grâce aux règles des familiers de lignage. Combinées à des archétypes de familier orientés vers le combat, tels que le Cogneur ou le Protecteur, ces règles permettent aux Sanguins d’utiliser leurs familiers comme de précieux auxiliaires au combat.
 
-#### [#archetypes_personnages|Guerriers]
+#### [[#archetypes_personnages|Guerriers]]
 
 Bien que les Guerriers ne disposent que d’un seul archétype, le Gardien Occulte, son inclusion est importante, car les guerriers n’ont normalement accès à aucune forme de familier ni de compagnon animal. Cet archétype leur permet donc de profiter des nombreuses options proposées dans ce volume.
 
-#### [#archetypes_personnages|Sorcières]
+#### [[#archetypes_personnages|Sorcières]]
 
 La Sorcière étant la seule classe pour laquelle le familier constitue une partie intégrante de ses aptitudes plutôt qu’une option facultative, elle bénéficie d'autant plus des possibilités présentées dans ce volume. La liste étendue des familiers offre aux joueurs davantage de choix lorsqu’ils cherchent un familier correspondant à un concept précis de sorcière. Les familiers de protecteur spirituel entretiennent des liens particuliers avec les protecteurs des sorcières, renforçant encore davantage le lien entre la sorcière et son familier.
 
-#### [#archetypes_personnages|Magiciens]
+#### [[#archetypes_personnages|Magiciens]]
 
 Ces maîtres de la magie ont beaucoup à gagner dans les pages de ce volume. Les archétypes de mage Adepte du Familier, Mage de Pacte, et Lieur d'Esprit, ainsi que les familiers propres aux différentes écoles de magie, permettent à chaque magicien de personnaliser son familier afin qu’il soutienne au mieux ses choix de sorts et ses tactiques de combat.
 
-#### [#autres_options|Pour tous les personnages]
+#### [[#autres_options|Pour tous les personnages]]
 
 Certains éléments de jeu transcendent les particularités de la race ou de la classe d’un personnage. Les éléments suivants, détaillés dans cet ouvrage, conviennent tout aussi bien à n’importe quel personnage que vous souhaiteriez jouer, et offrent même aux aventuriers dépourvus de familier de nouvelles manières d’interagir avec ceux des autres.
 
-#### [#creer_familiers|Créer des nouveaux familiers]
+#### [[#creer_familiers|Créer des nouveaux familiers]]
 
 Les recommandations permettant de répondre à la demande d’un joueur souhaitant obtenir un familier qui n’existe pas encore peuvent également servir à élargir le choix des compagnons animaux, compagnons d’armes, suivants, et créatures convoquées. Elles peuvent ainsi s’appliquer à une grande variété d’aventuriers.
 
-#### [#archetypes_personnages|Archétypes]
+#### [[#archetypes_personnages|Archétypes]]
 
 En plus des options destinées aux classes principalement concernées, certains archétypes permettent également aux alchimistes, aux bardes, aux druides, aux magus et aux paladins d’obtenir un familier.
 
-#### [#familiers_tp|Familiers privilégiés]
+#### [[#familiers_tp|Familiers privilégiés]]
 
 Les informations concernant les familiers les plus répandus au sein de différentes cultures, organisations, et nations, peuvent contribuer à développer les personnages associés à ces groupes, même lorsque ceux-ci ne possèdent pas eux-mêmes de familier. Lorsque vous incarnez un personnage opposé aux Chevaliers de l'Enfer, il peut être utile de savoir que leurs Significateurs affectionnent particulièrement les familiers diablotins, ne serait-ce que pour préparer vos plans.
 
-#### [#equipement|Équipement et objets magiques]
+#### [[#equipement|Équipement et objets magiques]]
 
 Une grande partie du nouvel équipement présenté dans ce volume est conçue pour affronter les familiers de lanceurs de sorts hostiles. Le poison présenté dans cette section peut être utile pour semer la discorde dans un groupe d'ennemis et peut même permettre à un personnage de se protéger contre les manigances d’adversaires charismatiques.
 
-#### [#familiers_superieurs|Nouveaux familiers supérieurs]
+#### [[#familiers_superieurs|Nouveaux familiers supérieurs]]
 
 Bien qu’ils soient proposés en tant que familiers supérieurs, les nouveaux monstres présentés dans ce volume possèdent une valeur d’Intelligence suffisamment élevée pour pouvoir être engagés comme espions mercenaires ou devenir, si l’on gagne leur amitié, des alliés volontaires.
 
-#### [#sorts|Sorts]
+#### [[#sorts|Sorts]]
 
 Certains des nouveaux sorts présentés sont conçus pour renforcer le familier d’un allié ou neutraliser celui d’un adversaire.
 
-#### [#dons|Dons d'équipe]
+#### [[#dons|Dons d'équipe]]
 
 Les nouveaux dons d'équipe permettent aux lanceurs de sorts dépourvus de familier de tirer parti du familier d’un allié.
 
@@ -119,269 +119,269 @@ La première version de la sorcière conçue pour le Manuel des joueurs : règle
 
 Les nouvelles options de règles suivantes sont présentées dans le Folio des Familiers.
 
-{br}[anchor|#creer_familiers]
-#### [Creer des familiers|Créer des nouveaux familiers]
+{br}<a id="creer_familiers"></a>
+#### [[Creer des familiers|Créer des nouveaux familiers]]
 
 Bien qu’il existe déjà de nombreux types de familiers, il arrive que les options disponibles ne correspondent pas exactement à l’idée que vous vous faites du compagnon magique de votre personnage. Avec l’accord de votre maître du jeu, vous pouvez toutefois réutiliser le profil d’un familier existant afin de représenter approximativement le familier idéal pour votre personnage.
 
-[Creer des familiers|Consulter les règles de création de familiers.]
+[[Creer des familiers|Consulter les règles de création de familiers.]]
 
 
-{br}[anchor|#familiers_inhabituels]
+{br}<a id="familiers_inhabituels"></a>
 #### Familiers inhabituels
 
 Bien que la plupart des familiers soient des animaux de taille Très Petite (TP) ou des créatures magiques, les lanceurs de sorts peuvent acquérir des créatures plus grandes ou inhabituelles au cours de leurs voyages. Cela implique certains effets de règles dont il faut tenir compte à la table de jeu.
 
 Les familiers de taille P contrôlent les cases adjacentes comme le font les autres créatures de petite taille. Ils peuvent être prendre des ennemis en tenaille, bien que leurs maîtres soient généralement peu enclins à employer de telles tactiques qui sont souvent mortelles pour leur familier. Les familiers de taille P sont également plus difficiles à transporter sur soi que les familiers de taille TP ou inférieure ; un objet magique, comme un sac sans fond, est généralement nécessaire.
 
-Les familiers de type créature artificielle, plante et vermine acquièrent une valeur d'[intelligence](./Intelligence.md) et perdent le trait [Dénué dintelligence|dénué d'intelligence] s'ils le possédaient. Si ces familiers ne parlent aucune langue, ils communiquent avec leur maître et les autres créatures de leur espèce (un scorpion vert avec d'autres scorpions, des plantes mobiles avec d'autres plantes mobiles, etc.) au moyen d'un étrange mélange de comportements, de légers changements de coloration, et parfois même par la sécrétion d'odeurs ou de phéromones. Les autres types de créatures ne peuvent pas comprendre cette communication sans l'aide de la magie.
+Les familiers de type créature artificielle, plante et vermine acquièrent une valeur d'[[intelligence]] et perdent le trait [[Dénué dintelligence|dénué d'intelligence]] s'ils le possédaient. Si ces familiers ne parlent aucune langue, ils communiquent avec leur maître et les autres créatures de leur espèce (un scorpion vert avec d'autres scorpions, des plantes mobiles avec d'autres plantes mobiles, etc.) au moyen d'un étrange mélange de comportements, de légers changements de coloration, et parfois même par la sécrétion d'odeurs ou de phéromones. Les autres types de créatures ne peuvent pas comprendre cette communication sans l'aide de la magie.
 
 Les extraplanaires et les créatures morts-vivantes ne sont normalement accessibles qu'avec le don Familier supérieur et ne nécessitent aucune autre règle spéciale.
 
 #### Archétypes de personnages
 
-{br}[anchor|#archetypes_personnages]
+{br}<a id="archetypes_personnages"></a>
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
 |+ ARCHÉTYPES DE PERSONNAGES
 |- CLASS="titre"
 | NOM || CLASSE
 |- CLASS="premier"
-| [Lame bestiale (magus)|Lame Bestiale] || Magus
+| [[Lame bestiale (magus)|Lame Bestiale]] || Magus
 |-
-| [Elu (paladin)|Élu] || Paladin
+| [[Elu (paladin)|Élu]] || Paladin
 |-
-| [Duettiste (barde)|Duettiste] || Barde
+| [[Duettiste (barde)|Duettiste]] || Barde
 |-
-| [Gardien occulte (guerrier)|Gardien Occulte] || Guerrier
+| [[Gardien occulte (guerrier)|Gardien Occulte]] || Guerrier
 |-
-| [Adepte du familier (magicien)|Adepte du Familier] || Magicien
+| [[Adepte du familier (magicien)|Adepte du Familier]] || Magicien
 |-
-| [Homonculiste (alchimiste)|Homunculiste] || Alchimiste
+| [[Homonculiste (alchimiste)|Homunculiste]] || Alchimiste
 |-
-| [Gardien des Leshys (druide)|Gardien des Leshys] || Druide
+| [[Gardien des Leshys (druide)|Gardien des Leshys]] || Druide
 |-
-| [Mage de Pacte (magicien)|Mage de Pacte] || Magicien
+| [[Mage de Pacte (magicien)|Mage de Pacte]] || Magicien
 |-
-| [Lieur Esprits (magicien)|Lieur d’Esprits] || Magicien
+| [[Lieur Esprits (magicien)|Lieur d’Esprits]] || Magicien
 |-
-| [Synergiste (sorcier)|Synergiste] || Sorcière
+| [[Synergiste (sorcier)|Synergiste]] || Sorcière
 |}
 
 #### Archétypes de familiers
 
-{br}[anchor|#archetypes_familiers]
+{br}<a id="archetypes_familiers"></a>
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
 |+ ARCHÉTYPES DE FAMILIERS
 |- CLASS="titre"
 | NOM || TYPE
 |- CLASS="premier"
-| [Abjuration  (familier)|Abjuration] || Familier d’École
+| [[Abjuration  (familier)|Abjuration]] || Familier d’École
 |-
-| [Invocation (familier)|Invocation] || Familier d’École
+| [[Invocation (familier)|Invocation]] || Familier d’École
 |-
-| [Leurre (familier)|Leurre] || /
+| [[Leurre (familier)|Leurre]] || /
 |-
-| [Divination (familier)|Divination] || Familier d’École
+| [[Divination (familier)|Divination]] || Familier d’École
 |-
-| [Emissaire (familier)|Émissaire] || /
+| [[Emissaire (familier)|Émissaire]] || /
 |-
-| [Enchantement (familier)|Enchantement] || Familier d’École
+| [[Enchantement (familier)|Enchantement]] || Familier d’École
 |-
-| [Evocation (familier)|Évocation] || Familier d’École
+| [[Evocation (familier)|Évocation]] || Familier d’École
 |-
-| [Chimere (familier)|Chimère] || /
+| [[Chimere (familier)|Chimère]] || /
 |-
-| [Illusion (familier)|Illusion] || Familier d’École
+| [[Illusion (familier)|Illusion]] || Familier d’École
 |-
-| [Mascotte (familier)|Mascotte] || /
+| [[Mascotte (familier)|Mascotte]] || /
 |-
-| [Cogneur (familier)|Cogneur] || /
+| [[Cogneur (familier)|Cogneur]] || /
 |-
-| [Necromancie (familier)|Nécromancie] || Familier d’École
+| [[Necromancie (familier)|Nécromancie]] || Familier d’École
 |-
-| [Protecteur (familier)|Protecteur] || /
+| [[Protecteur (familier)|Protecteur]] || /
 |-
-| [Sage (familier)|Sage] || /
+| [[Sage (familier)|Sage]] || /
 |-
-| [Transmutation (familier)|Transmutation] || Familier d’École
+| [[Transmutation (familier)|Transmutation]] || Familier d’École
 |}
 
 #### Autres options de familiers
 
-{br}[anchor|#autres_options]
+{br}<a id="autres_options"></a>
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
 |+ AUTRES OPTIONS DE FAMILIER
 |- CLASS="titre"
 | NOM || CLASSE
 |- CLASS="premier"
-| [Familier de lignage (familier)|Familiers de lignage] || Sanguin/Ensorceleur
+| [[Familier de lignage (familier)|Familiers de lignage]] || Sanguin/Ensorceleur
 |-
-| [Familier protecteur (familier)|Familiers protecteurs] || Sorcière
+| [[Familier protecteur (familier)|Familiers protecteurs]] || Sorcière
 |}
 
 #### Nouveaux dons
 
-{br}[anchor|#dons]
+{br}<a id="dons"></a>
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
 |+ DONS
 |- CLASS="titre"
 | NOM || TYPE
 |- CLASS="premier"
-| [Affinité avec le familier|Affinité avec le familier] || Général
+| [[Affinité avec le familier]] || Général
 |-
-| [Affinité supérieure avec le familier|Affinité supérieure avec le familier] || Général
+| [[Affinité supérieure avec le familier]] || Général
 |-
-| [Amour de mascotte|Amour de mascotte] || Familier
+| [[Amour de mascotte]] || Familier
 |-
-| [onseils du sage|Conseils du sage] || Familier
+| [[onseils du sage|Conseils du sage]] || Familier
 |-
-| [Diversion du leurre|Diversion du leurre] || Familier
+| [[Diversion du leurre]] || Familier
 |-
-| [Encouragement de l’émissaire|Encouragement de l’émissaire] || Familier
+| [[Encouragement de l’émissaire]] || Familier
 |-
-| [Familier d’école|Familier d’école] || Général
+| [[Familier d’école]] || Général
 |-
-| [Familier d’école supérieur|Familier d’école supérieur] || Général
+| [[Familier d’école supérieur]] || Général
 |-
-| [Familier polyglotte|Familier polyglotte] || Familier
+| [[Familier polyglotte]] || Familier
 |-
-| [Familier vagabond|Familier vagabond] || Général
+| [[Familier vagabond]] || Général
 |-
-| [Fluidité chimérique|Fluidité chimérique] || Familier
+| [[Fluidité chimérique]] || Familier
 |-
-| [Lien télépathique|Lien télépathique] || Général
+| [[Lien télépathique]] || Général
 |-
-| [Retour du gardien|Retour du gardien] || Familier
+| [[Retour du gardien]] || Familier
 |-
-| [Sort de contact collectif|Sort de contact collectif] || Équipe
+| [[Sort de contact collectif]] || Équipe
 |-
-| [Sort partagé collectif|Sort partagé collectif] || Équipe
+| [[Sort partagé collectif]] || Équipe
 |}
 
 #### Équipement et objets magiques
 
-{br}[anchor|#equipement]
+{br}<a id="equipement"></a>
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
 |+ EQUIPEMENT ET OBJETS MAGIQUES
 |- CLASS="titre"
 | NOM || TYPE
 |- CLASS="premier"
-| [Bardage plumefeuillu|Bardage plumefeuillu] || Armure magique
+| [[Bardage plumefeuillu]] || Armure magique
 |-
-| [Bocal|Bocal] || Divers
+| [[Bocal]] || Divers
 |-
-| [Bocal régénérant|Bocal régénérant] || Magique
+| [[Bocal régénérant]] || Magique
 |-
-| [Brume vaguesprit|Brume vaguesprit] || Poison
+| [[Brume vaguesprit]] || Poison
 |-
-| [Collier de sorts|Collier de sorts] || Magique
+| [[Collier de sorts]] || Magique
 |-
-| [Colorant pour cuir|Colorant pour cuir] || Divers
+| [[Colorant pour cuir]] || Divers
 |-
-| [Concentré vaguesprit|Concentré vaguesprit] || Poison
+| [[Concentré vaguesprit]] || Poison
 |-
-| [Gants de toucher de familier|Gants de toucher de familier] || Magique
+| [[Gants de toucher de familier]] || Magique
 |-
-| [Graisse mondaine|Graisse mondaine] || Magique
+| [[Graisse mondaine]] || Magique
 |-
-| [Herbe à chat|Herbe à chat] || Médecine
+| [[Herbe à chat]] || Médecine
 |-
-| [Lien télépathique|Lien télépathique] || Général
+| [[Lien télépathique]] || Général
 |-
-| [Retour du gardien|Retour du gardien] || Familier
+| [[Retour du gardien]] || Familier
 |-
-| [Sifflet bestial|Sifflet bestial] || Divers
+| [[Sifflet bestial]] || Divers
 |}
 
 #### Nouveaux sorts
 
-{br}[anchor|#sorts]
+{br}<a id="sorts"></a>
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
 |+ SORTS
 |- CLASS="titre"
 | NOM || TYPE || NIVEAU
 |- CLASS="premier"
-| [Conduit empathique|Conduit empathique] || Nécromancie || 5
+| [[Conduit empathique]] || Nécromancie || 5
 |-
-| [Duplication de familier|Duplication de familier] || Conjuration || 4, 5
+| [[Duplication de familier]] || Conjuration || 4, 5
 |-
-| [Fusion avec le familier|Fusion avec le familier] || Transmutation || 2
+| [[Fusion avec le familier]] || Transmutation || 2
 |-
-| [Lien perturbé|Lien perturbé] || Abjuration || 2, 3
+| [[Lien perturbé]] || Abjuration || 2, 3
 |-
-| [Rappel de familier|Rappel de familier] || Conjuration || 2
+| [[Rappel de familier]] || Conjuration || 2
 |-
-| [Rappel de familier supérieur|Rappel de familier supérieur] || Conjuration || 5
+| [[Rappel de familier supérieur]] || Conjuration || 5
 |-
-| [Transfert d'âme|Transfert d'âme] || Nécromancie || 5
+| [[Transfert d'âme]] || Nécromancie || 5
 |-
-| [Transfert de familier|Transfert de familier] || Evocation || 6
+| [[Transfert de familier]] || Evocation || 6
 |}
 
 #### Nouveaux familiers de taille TP
 
-{br}[anchor|#familiers_tp]
+{br}<a id="familiers_tp"></a>
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
 |+ FAMILIERS TRES PETITS
 |- CLASS="titre"
 | NOM || BONUS
 |- CLASS="premier"
-| [Poulet|Poulet] || Le maître obtient +3 [points de vie](./points de vie.md).
+| [[Poulet]] || Le maître obtient +3 [[points de vie]].
 |-
-| [Kakapo|Kakapo] || Le maître obtient +3 aux tests de [Escalade](./Escalade.md).
+| [[Kakapo]] || Le maître obtient +3 aux tests de [[Escalade]].
 |-
-| [Taupe|Taupe] || Le maître obtient un bonus de +3 aux tests de [Perception](./Perception.md){br}basés sur le touché, l'odorat, et le goût.
+| [[Taupe]] || Le maître obtient un bonus de +3 aux tests de [[Perception]]{br}basés sur le touché, l'odorat, et le goût.
 |-
-| [Tetraodon|Tétraodon] || Le maître obtient +2 aux jets de [Vigueur](./Vigueur.md)
+| [[Tetraodon|Tétraodon]] || Le maître obtient +2 aux jets de [[Vigueur]]
 |}
 
 #### Nouveaux familiers de taille P
 
-{br}[anchor|#familiers_p]
+{br}<a id="familiers_p"></a>
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
 |+ FAMILIERS PETITS
 |- CLASS="titre"
 | NOM || BONUS
 |- CLASS="premier"
-| [Dauphin popoto|Dauphin Popoto] || Le maître obtient +3 aux tests de [Natation](./Natation.md).
+| [[Dauphin popoto]] || Le maître obtient +3 aux tests de [[Natation]].
 |-
-| [Koala|Koala] || Le maître obtient +3 aux tests de [Escalade](./Escalade.md).
+| [[Koala]] || Le maître obtient +3 aux tests de [[Escalade]].
 |-
-| [Paon|Paon] || Le maître obtient +3 aux tests de [Intimidation](./Intimidation.md).
+| [[Paon]] || Le maître obtient +3 aux tests de [[Intimidation]].
 |-
-| [Wallaby|Wallaby] || Le maître obtient +3 aux tests de [Acrobaties](./Acrobaties.md).
+| [[Wallaby]] || Le maître obtient +3 aux tests de [[Acrobaties]].
 |-
-| [Manchot|Manchot] || Le maître obtient +3 aux tests de [Natation](./Natation.md).
+| [[Manchot]] || Le maître obtient +3 aux tests de [[Natation]].
 |}
 
 #### Nouveaux familiers supérieurs
 
-{br}[anchor|#familiers_superieurs]
+{br}<a id="familiers_superieurs"></a>
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
 |+ NOUVEAUX FAMILIERS SUPERIEURS
 |- CLASS="titre"
 | NOM || TYPE || NLS
 |- CLASS="premier"
-| [Chat féérique|Chat féérique] || Créature magique || 7
+| [[Chat féérique]] || Créature magique || 7
 |-
-| [Chiot de Cayden|Chiot de Cayden] || Extraplanaire (natif) || 7
+| [[Chiot de Cayden]] || Extraplanaire (natif) || 7
 |-
-| [Pseudosphinx|Pseudosphinx] || Créature magique || 7
+| [[Pseudosphinx]] || Créature magique || 7
 |}
 
 #### Nouveaux familiers inhabituels
 
-{br}[anchor|#familiers_inhabituels]
+{br}<a id="familiers_inhabituels"></a>
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
 |+ NOUVEAUX FAMILIERS INHABITUELS
 |- CLASS="titre"
 | NOM || BONUS
 |- CLASS="premier"
-| [Wyrd Ioun|Wyrd Ioun] || Général
+| [[Wyrd Ioun]] || Général
 |-
-| [Limace léopard|Limace léopard] || Général
+| [[Limace léopard]] || Général
 |-
-| [Pétrifougère|Pétrifougère] || Familier
+| [[Pétrifougère]] || Familier
 |}
 
 ---

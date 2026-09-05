@@ -10,10 +10,10 @@ Categories:
 
 {s:mca} *Le personnage peut préparer plus de sorts que les autres arcanistes.*
 
-**Conditions.** [Arcaniste](./Arcaniste.md) niveau 1.
+**Conditions.** [[Arcaniste]] niveau 1.
 
 **Avantage.** Le personnage gagne un emplacement de sort supplémentaire du plus haut niveau qu’il peut lancer, qui se
 rajoute au nombre d’emplacements de sorts qu’il peut normalement préparer à partir de son grimoire. Le personnage peut,
-à la place, ajouter deux emplacements de sort mais ces deux sorts doivent être inférieurs d’au moins un niveau au plus haut niveau de sort d’[arcaniste](./Arcaniste.md) qu’il peut lancer. Le personnage doit choisir l’avantage qu’il gagne quand il prend ce don.
+à la place, ajouter deux emplacements de sort mais ces deux sorts doivent être inférieurs d’au moins un niveau au plus haut niveau de sort d’[[arcaniste]] qu’il peut lancer. Le personnage doit choisir l’avantage qu’il gagne quand il prend ce don.
 
 **Spécial.** Le personnage peut prendre ce don trois fois, choisissant à chaque fois l’avantage qu’il désire.

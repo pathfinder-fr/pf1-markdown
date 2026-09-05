@@ -10,7 +10,7 @@ LastModified: 2019-01-10 12:29
 
 *Votre exposition régulière aux immondes et infortunés résidus propres aux égouts et souterrains urbains vous a fait développer une résistance aux effets de telles conditions*
 
-**Avantage:** Vous obtenez un bonus de +4 à tous vos [jets de sauvegarde](./jet de sauvegarde.md) contre les maladies et à tout effet qui vous ferait devenir [nauséeux](./Nauséeux.md) ou [secoué](./Secoué.md).
+**Avantage:** Vous obtenez un bonus de +4 à tous vos [[jet de sauvegarde|jets de sauvegarde]] contre les maladies et à tout effet qui vous ferait devenir [[nauséeux]] ou [[secoué]].
 
 (((Filth Forager
 Your regular exposure to the filth and unfortunate residues common to sewers and subterranean urban environs has caused you to develop a resistance to the effects of such conditions.

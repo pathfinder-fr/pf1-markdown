@@ -9,6 +9,6 @@ Categories:
 
 {s:AE}**Prix** 1.750 po ; **Poids** 2,5 kg
 **Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×4 ; **Portée** 6 m (4 c) ; **Enrayement** 1-2 (1,5 m (1 c)) ; **Capacité** 2 ; **Type** C et P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes à feu rudimentaires](./Tableau récapitulatif des armes à feu.md#TABRUDIMENTAIRES) ; **Maniement** [arme à feu à une main](./Armes à feu.md#CATEGORIE)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes à feu#TABRUDIMENTAIRES|Armes à feu rudimentaires]] ; **Maniement** [[Armes à feu#CATEGORIE|arme à feu à une main]]</span>
 ---
-Ce [pistolet](./Pistolet (arme).md) a deux canons parallèles. On peut tirer avec chaque canon indépendamment, en deux actions séparées, ou tirer avec les deux en même temps par une [action simple](./Action simple.md) (une action d'attaque). Si les deux canons tirent en même temps, ils doivent cibler la même créature ou le même objet, mais le pistolet est alors extrêmement imprécis et impose un malus de -4 à chaque tir. Il s’agit d’une [arme à feu rudimentaire](./Armes à feu.md#CATEGORIE).
+Ce [[pistolet (arme)|pistolet]] a deux canons parallèles. On peut tirer avec chaque canon indépendamment, en deux actions séparées, ou tirer avec les deux en même temps par une [[action simple]] (une action d'attaque). Si les deux canons tirent en même temps, ils doivent cibler la même créature ou le même objet, mais le pistolet est alors extrêmement imprécis et impose un malus de -4 à chaque tir. Il s’agit d’une [[Armes à feu#CATEGORIE|arme à feu rudimentaire]].

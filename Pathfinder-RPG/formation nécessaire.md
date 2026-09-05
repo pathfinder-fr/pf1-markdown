@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Format de description des compétences#FORMATIONNECESSAIRE
 ---
 
->>> [Format de description des compétences#FORMATIONNECESSAIRE](./Format de description des compétences.md#FORMATIONNECESSAIRE)
+>>> [[Format de description des compétences#FORMATIONNECESSAIRE]]

@@ -10,9 +10,9 @@ Categories:
 
 Les hémothéurges placent leurs sangsues à des endroits stratégiques ce qui leur permet d'éviter les crises de rage incontrôlables provoquées par l'excès de sang. Les sangsues sont aussi nécessaires aux hémothéurges pour éviter que la surproduction sanguine ne provoque, à terme, leur mort.
 
-Si les Hémothéurges sont présents partout sur la surface de [Golarion](./Golarion.md), on leur connaît deux communautés principales. L'une à [Kaer Maga](./Kaer Maga.md), en [Varisie](./Varisie.md), l'autre dans le [Marais du Mush](./Marais-du-Mush.md), au sud de la même [Varisie](./Varisie.md).
+Si les Hémothéurges sont présents partout sur la surface de [[Golarion]], on leur connaît deux communautés principales. L'une à [[Kaer Maga]], en [[Varisie]], l'autre dans le [[Marais-du-Mush|Marais du Mush]], au sud de la même [[Varisie]].
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur les Adeptes du Feu Noir dans le supplément
-- [Pathfinder Chronicles: Campaign Setting](./Publications.md#CAMPAIGNSETTING)
+- [[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicles: Campaign Setting]]
 {s:VoirAussiAprès}

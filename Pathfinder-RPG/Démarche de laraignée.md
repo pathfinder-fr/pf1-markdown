@@ -8,8 +8,8 @@ Categories:
 - Règles officielles
 ---
 
-{s:Desambi|il existe un autre [don](./Démarche de laraignée (drow).md) du même nom.}{s:apg}*La maîtrise physique du personnage lui permet de marcher là où d’autres ne le peuvent pas.*
+{s:Desambi|il existe un autre [[Démarche de laraignée (drow)|don]] du même nom.}{s:apg}*La maîtrise physique du personnage lui permet de marcher là où d’autres ne le peuvent pas.*
 
-**Conditions.** 6 rangs en [Acrobaties](./Acrobaties.md), 6 rangs en [Escalade](./Escalade.md), [moine](./Moine.md) niveau 6.
+**Conditions.** 6 rangs en [[Acrobaties]], 6 rangs en [[Escalade]], [[moine]] niveau 6.
 
-**Avantage.** Par une [action de mouvement](./Action de mouvement.md), le personnage peut se déplacer de la moitié de la distance de chute ralentie (maximum 15 mètres) sur un mur, au plafond, sur une corde, sur des branches ou même sur l’eau ou n’importe quelle autre surface qui ne pourrait normalement pas supporter son poids. Il doit atteindre une surface solide et horizontale à la fin de son tour, sous peine de tomber.
+**Avantage.** Par une [[action de mouvement]], le personnage peut se déplacer de la moitié de la distance de chute ralentie (maximum 15 mètres) sur un mur, au plafond, sur une corde, sur des branches ou même sur l’eau ou n’importe quelle autre surface qui ne pourrait normalement pas supporter son poids. Il doit atteindre une surface solide et horizontale à la fin de son tour, sous peine de tomber.

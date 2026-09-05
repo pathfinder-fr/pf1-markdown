@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Erages est un petit village de pêcheurs du [Kyonin](./Kyonin.md) situé sur les rives du lac d'[Encarthan](./Encarthan.md).
+Erages est un petit village de pêcheurs du [[Kyonin]] situé sur les rives du lac d'[[Encarthan]].
 
-Ce village est uniquement habité par des demi-elfes et, comme [Or Vert](./Or Vert.md) et [Omesta](./Omesta.md), l'un des seuls lieux du [Kyonin](./Kyonin.md) occupé par des non-elfes.
+Ce village est uniquement habité par des demi-elfes et, comme [[Or Vert]] et [[Omesta]], l'un des seuls lieux du [[Kyonin]] occupé par des non-elfes.

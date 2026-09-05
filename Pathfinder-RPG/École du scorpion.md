@@ -9,15 +9,15 @@ Categories:
 
 *Le personnage frappe son adversaire de ses poings nus et entrave considérablement ses mouvements.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Condition.** [Science du combat à mains nues](./Science du combat à mains nues.md).
+**Condition.** [[Science du combat à mains nues]].
 
-**Avantage.** Pour utiliser ce don, le personnage doit faire une unique [attaque à mains nues](./attaque à mains nues.md) par une [action simple](./Action simple.md). S’il touche, il inflige des dégâts normaux et réduit la [vitesse de déplacement](./vitesse de déplacement.md) de base de sa cible à 1,5 m pendant un nombre de [rounds](./round.md) égal à son modificateur de [Sagesse](./Sagesse.md), à moins que la victime réussisse un jet de [Vigueur](./Vigueur.md) (DD 10 + 1/2 niveau du personnage + modificateur de [Sagesse](./Sagesse.md)).
+**Avantage.** Pour utiliser ce don, le personnage doit faire une unique [[attaque à mains nues]] par une [[action simple]]. S’il touche, il inflige des dégâts normaux et réduit la [[vitesse de déplacement]] de base de sa cible à 1,5 m pendant un nombre de [[round|rounds]] égal à son modificateur de [[Sagesse]], à moins que la victime réussisse un jet de [[Vigueur]] (DD 10 + 1/2 niveau du personnage + modificateur de [[Sagesse]]).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage touche son adversaire avec une attaque à mains nues en utilisant ce don mais que sa cible réussit ses [jets de sauvegarde](./JDS.md) contre l’effet, il peut dépenser 2 points d’endurance pour réduire la vitesse de déplacement de la cible de moitié pour un [round](./round.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage touche son adversaire avec une attaque à mains nues en utilisant ce don mais que sa cible réussit ses [[jds|jets de sauvegarde]] contre l’effet, il peut dépenser 2 points d’endurance pour réduire la vitesse de déplacement de la cible de moitié pour un [[round]].
 
 {s:CMy}
 ### Version mythique
@@ -25,4 +25,4 @@ Quand le personnage touche son adversaire avec une attaque à mains nues en util
 
 **Condition.** École du scorpion
 
-**Avantage.** Lorsqu’il utilise École du scorpion, le personnage ajoute son [grade](./Grade.md) au nombre de rounds pendant lesquels il réduit la vitesse de déplacement de base de la cible. Le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il effectue son attaque pour ralentir sa cible (effet identique au sort de lenteur), à moins qu’elle réussisse un jet de [Vigueur](./Vigueur.md) (DD 10 + ½ du niveau du personnage + modificateur de [Sagesse](./Sagesse.md) du personnage). L’effet de lenteur remplace la réduction normale de la vitesse de déplacement provoquée par École du scorpion, mais sa durée en rounds reste la même.
+**Avantage.** Lorsqu’il utilise École du scorpion, le personnage ajoute son [[grade]] au nombre de rounds pendant lesquels il réduit la vitesse de déplacement de base de la cible. Le personnage peut dépenser une utilisation de [[pouvoir mythique]] lorsqu’il effectue son attaque pour ralentir sa cible (effet identique au sort de lenteur), à moins qu’elle réussisse un jet de [[Vigueur]] (DD 10 + ½ du niveau du personnage + modificateur de [[Sagesse]] du personnage). L’effet de lenteur remplace la réduction normale de la vitesse de déplacement provoquée par École du scorpion, mais sa durée en rounds reste la même.

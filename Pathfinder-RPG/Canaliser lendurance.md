@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Vous faites appel au vent et aux vagues pour préparer vos alliés aux assauts de la nature.*
 
-**Conditions.** [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) positive 3d6, suivant de [Gozreh](./Gozreh (technique).md).
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] positive 3d6, suivant de [[Gozreh (technique)|Gozreh]].
 
-**Avantage.** Une fois par jour, lorsque le personnage [canalise de l'énergie](./Prêtre.md#CANALISATIONDENERGIE) positive pour soigner les créatures vivantes, il peut choisir de faire bénéficier ceux qu'il soigne d'une *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)* avec un [NLS](./NLS.md) égal à son niveau de prêtre effectif. Les effets du sort durent 24 heures.
+**Avantage.** Une fois par jour, lorsque le personnage [[Prêtre#CANALISATIONDENERGIE|canalise de l'énergie]] positive pour soigner les créatures vivantes, il peut choisir de faire bénéficier ceux qu'il soigne d'une *[[endurance aux énergies destructives]]* avec un [[NLS]] égal à son niveau de prêtre effectif. Les effets du sort durent 24 heures.

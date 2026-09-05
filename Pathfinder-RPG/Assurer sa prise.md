@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Grâce à ses réflexes et son talent de grimpeur, le personnage ne risque pas de tomber.*
 
-**Conditions.** 1 rang en [Escalade](./Escalade.md)
+**Conditions.** 1 rang en [[Escalade]]
 
-**Avantage.** Le personnage lance deux fois le dé quand il grimpe ou quand il fait un jet de [Réflexes](./Réflexes.md) pour éviter de tomber. Il conserve le meilleur résultat.
+**Avantage.** Le personnage lance deux fois le dé quand il grimpe ou quand il fait un jet de [[Réflexes]] pour éviter de tomber. Il conserve le meilleur résultat.

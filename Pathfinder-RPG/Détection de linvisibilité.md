@@ -20,20 +20,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./Divination.md) ; **Niveau** [Alch](./Alchimiste.md) 2, [Bard](./Barde.md) 3, [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2, [Hyp](./Hypnotiseur.md) 3, [Inq](./Inquisiteur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2, [Spi](./Spirite.md) 2  
+**École** [[Divination]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 3, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (talc et poudre d’argent)  
+**Composantes** [[composantes|V, G, M]] (talc et poudre d’argent)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** 10 minutes/[niveau](./niveau.md) (T)
+**Durée** 10 minutes/[[niveau]] (T)
 
-Ce sort permet au personnage de repérer les objets et les créatures [invisibles](./Invisible.md) situés dans son champ de vision, ainsi que celles qui sont [éthérées](./Éthéré.md), comme si elles étaient visibles. Ces créatures apparaissent sous la forme de silhouettes translucides, ce qui permet au personnage de distinguer les créatures visibles, les [invisibles](./Invisible.md) et celles qui sont [éthérées](./Éthéré.md).
+Ce sort permet au personnage de repérer les objets et les créatures [[invisible|invisibles]] situés dans son champ de vision, ainsi que celles qui sont [[éthéré|éthérées]], comme si elles étaient visibles. Ces créatures apparaissent sous la forme de silhouettes translucides, ce qui permet au personnage de distinguer les créatures visibles, les [[invisible|invisibles]] et celles qui sont [[éthéré|éthérées]].
 
-Le sort n’indique pas la méthode employée pour se rendre [invisible](./Invisible.md). Il ne révèle pas non plus les [illusions](./Illusion.md), et il ne permet pas de voir à travers les objets opaques. Il ne fait pas non plus apparaître les créatures cachées, [camouflées](./camouflage.md) ou difficiles à repérer.
+Le sort n’indique pas la méthode employée pour se rendre [[invisible]]. Il ne révèle pas non plus les [[illusion|illusions]], et il ne permet pas de voir à travers les objets opaques. Il ne fait pas non plus apparaître les créatures cachées, [[camouflage|camouflées]] ou difficiles à repérer.
 
-On peut user de *[permanence](./Permanence.md)* sur un sort de *détection de l’invisibilité*.
+On peut user de *[[permanence]]* sur un sort de *détection de l’invisibilité*.

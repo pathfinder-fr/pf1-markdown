@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Symbole de lumière guérisseuse|{s:AE}}
-**Aura** [Invocation](./Invocation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 10 000 po ; **Poids** 0,5 kg
+**Aura** [[Invocation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 10 000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce symbole sacré de la taille d’une main est composé de minuscules morceaux de verre teinté maintenus en place par un cadre d’or. La forme du symbole est déterminée par son créateur lors de sa fabrication. Par une [action libre](./Action libre.md), la créature qui tient cet objet en main peut projeter la silhouette lumineuse du symbole sacré sur une créature ou une surface située à 4,50 mètres ou moins, comme si elle faisait des ombres chinoises. Cette lumière ne suffit pas à éclairer une zone. Si le porteur est un [paladin](./Paladin.md), il peut utiliser son aptitude d’[imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) sur une créature baignée par la lumière du symbole (la portée effective de l’imposition des mains passe donc de « contact » à « 4,50 mètres »).
+Ce symbole sacré de la taille d’une main est composé de minuscules morceaux de verre teinté maintenus en place par un cadre d’or. La forme du symbole est déterminée par son créateur lors de sa fabrication. Par une [[action libre]], la créature qui tient cet objet en main peut projeter la silhouette lumineuse du symbole sacré sur une créature ou une surface située à 4,50 mètres ou moins, comme si elle faisait des ombres chinoises. Cette lumière ne suffit pas à éclairer une zone. Si le porteur est un [[paladin]], il peut utiliser son aptitude d’[[paladin#IMPOSITIONDESMAINS|imposition des mains]] sur une créature baignée par la lumière du symbole (la portée effective de l’imposition des mains passe donc de « contact » à « 4,50 mètres »).
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[lien sacré](./Lien sacré.md)* ; **Coût** 5 000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[lien sacré]]* ; **Coût** 5 000 po
 </div>

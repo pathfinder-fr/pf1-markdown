@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *La monture déchaînée du personnage peut piétiner les adversaires à terre tout en continuant sa course.*
 
-**Condition.** [Piétinement](./Piétinement.md)
+**Condition.** [[Piétinement]]
 
-**Avantage.** La monture du personnage peut réaliser deux attaques de sabot au lieu d’une seule contre un adversaire mis à terre suite à un renversement effectué par le personnage. Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il obtient une possibilité de critique avec une ou plusieurs de ces attaques de sabot. Le cas échéant, le coup critique est automatiquement confirmé. Si les deux attaques sont des possibilités de critique, la dépense d’une utilisation de [pouvoir mythique](./pouvoir mythique.md) confirme automatiquement les deux.
+**Avantage.** La monture du personnage peut réaliser deux attaques de sabot au lieu d’une seule contre un adversaire mis à terre suite à un renversement effectué par le personnage. Il peut dépenser une utilisation de [[pouvoir mythique]] lorsqu’il obtient une possibilité de critique avec une ou plusieurs de ces attaques de sabot. Le cas échéant, le coup critique est automatiquement confirmé. Si les deux attaques sont des possibilités de critique, la dépense d’une utilisation de [[pouvoir mythique]] confirme automatiquement les deux.

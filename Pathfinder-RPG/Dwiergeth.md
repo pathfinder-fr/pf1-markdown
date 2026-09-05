@@ -13,10 +13,10 @@ Categories:
 <div class="BD">
 {s:BDtitre|Dwiergeth|FP 13}
 {s:pucem|Aberration|Montagnes|Extraplanaire}
-{s:BDtexte|*Source : [Guide de la Plaie du monde p.56](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide de la Plaie du monde p.56]]*}
 {s:BDtexte|**PX** 25 600}
-{s:BDtexte|[Aberration](./type Aberration.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille G, CM}
-{s:BDtexte|**Init** +11 ; **Sens** [vision à 360°](./Vision à 360° (capacité).md), [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +16}
+{s:BDtexte|[[type Aberration|Aberration]] ([[sous-type extraplanaire|extraplanaire]]) de taille G, CM}
+{s:BDtexte|**Init** +11 ; **Sens** [[Vision à 360° (capacité)|vision à 360°]], [[vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +16}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 28, contact 17, pris au dépourvu 20 (Dex +7, esquive +1, naturelle +11, taille -1)}
 {s:BDtexte|**pv** 175 (13d8+117)}
@@ -24,25 +24,25 @@ Categories:
 {s:BDtexte|**RD** 10/Loi ; **Immunités** cécité, éblouissement, poison, effets visuels ; **Résistances** froid 20, feu 20 ; **RM** 24}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 18 m, escalade 18 m}
-{s:BDtexte|**Corps à corps** 2 morsures, +19 (4d6+11/19-20 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDtexte|**Corps à corps** 2 morsures, +19 (4d6+11/19-20 plus [[Étreinte (capacité)|étreinte]])}
 {s:BDtexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDtexte|**Attaques spéciales** [engloutissement rapide](./Engloutissement rapide (capacité).md), gosier éternel, [engloutissement](./Engloutissement (capacité).md) (8d6 dégâts tranchants, CA 15, 17 pv)}
-{s:BDtexte|**Pouvoirs magiques** ([NLS](./NLS.md) 13 ; [concentration](./concentration.md) +13)}
-{s:BDsorts|Constant — *[feuille morte](./Feuille morte.md)*}
-{s:BDsorts|À volonté — *[bourrasque](./Bourrasque.md)* (DD 15)}
-{s:BDsorts|1/jour — *[contrôle des vents](./Contrôle des vents.md)* (DD 18), *[mur de vent](./Mur de vent.md)*}
+{s:BDtexte|**Attaques spéciales** [[Engloutissement rapide (capacité)|engloutissement rapide]], gosier éternel, [[Engloutissement (capacité)|engloutissement]] (8d6 dégâts tranchants, CA 15, 17 pv)}
+{s:BDtexte|**Pouvoirs magiques** ([[NLS]] 13 ; [[concentration]] +13)}
+{s:BDsorts|Constant — *[[feuille morte]]*}
+{s:BDsorts|À volonté — *[[bourrasque]]* (DD 15)}
+{s:BDsorts|1/jour — *[[contrôle des vents]]* (DD 18), *[[mur de vent]]*}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 32, **Dex** 25, **Con** 28, **Int** 5, **Sag** 24, **Cha** 17}
-{s:BDtexte|**BBA** +9, **BMO** +21 (+25 pour la [lutte](./lutte.md)), **DMD** 39 (43 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDtexte|**Dons** [Attaque éclair](./Attaque éclair.md), [Attaques réflexes](./Attaques réflexes.md), [Comme le vent](./Comme le vent.md), [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsures), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDtexte|**Compétences** [Escalade](./Escalade.md) +37, [Perception](./Perception.md) +16}
+{s:BDtexte|**BBA** +9, **BMO** +21 (+25 pour la [[lutte]]), **DMD** 39 (43 contre le [[croc-en-jambe]])}
+{s:BDtexte|**Dons** [[Attaque éclair]], [[Attaques réflexes]], [[Comme le vent]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsures), [[Souplesse du serpent]]}
+{s:BDtexte|**Compétences** [[Escalade]] +37, [[Perception]] +16}
 {s:BDtexte|**Langues** abyssal}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** montagnes froides}
 {s:BDtexte|**Organisation sociale** solitaire, couple ou meute (3-6)}
 {s:BDtexte|**Trésor** fortuit}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Gosier éternel (Sur).** Quand le dwiergeth engloutit une créature (il est capable d’engloutir ainsi les créatures de taille P ou plus petites), il la fait passer au travers d’orifices extradimensionnels à l’intérieur de son corps et l’envoie dans ce qui semble être un dédale sans fin d’entrailles bardées de dents existant en dehors de la réalité, un peu comme le labyrinthe que créerait un sort de *[dédale](./Dédale.md)* mais en une version horriblement organique et affamée. Si la créature engloutie parvient à se tailler une sortie hors du dwiergeth, elle doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 21 lorsqu’elle rampe hors du trou qu’elle a créé. Si elle réussit, elle s’échappe de la créature mais si elle échoue, elle ne fait que ramper d’un intestin extradimensionnel à l’autre et doit survivre à l’engloutissement un round de plus. Le dwiergeth peut continuer d’utiliser son pouvoir d’engloutissement même après qu’une créature s’est extirpée de son corps. Une créature qui utilise un sort ou un pouvoir magique de [téléportation](./branche téléportation.md) alors qu’elle se trouve à 1,50 mètre ou moins d’un dwiergeth doit réussir un jet de [Volonté](./Volonté.md) DD 21, sinon son effet de téléportation l’envoie dans le gosier éternel du dwiergeth. Quand le dwiergeth est sous les effets d’une *[ancre dimensionnelle](./Ancre dimensionnelle.md)* ou dans une zone interdisant les déplacements extradimensionnels, il perd son pouvoir de gosier éternel mais son pouvoir d’engloutissement fonctionne normalement. Le DD du jet de sauvegarde est basé sur le [Charisme](./Charisme.md) et est augmenté d’un bonus racial de +2.}
+{s:BDtexte|**Gosier éternel (Sur).** Quand le dwiergeth engloutit une créature (il est capable d’engloutir ainsi les créatures de taille P ou plus petites), il la fait passer au travers d’orifices extradimensionnels à l’intérieur de son corps et l’envoie dans ce qui semble être un dédale sans fin d’entrailles bardées de dents existant en dehors de la réalité, un peu comme le labyrinthe que créerait un sort de *[[dédale]]* mais en une version horriblement organique et affamée. Si la créature engloutie parvient à se tailler une sortie hors du dwiergeth, elle doit réussir un jet de [[Vigueur]] [[DD]] 21 lorsqu’elle rampe hors du trou qu’elle a créé. Si elle réussit, elle s’échappe de la créature mais si elle échoue, elle ne fait que ramper d’un intestin extradimensionnel à l’autre et doit survivre à l’engloutissement un round de plus. Le dwiergeth peut continuer d’utiliser son pouvoir d’engloutissement même après qu’une créature s’est extirpée de son corps. Une créature qui utilise un sort ou un pouvoir magique de [[branche téléportation|téléportation]] alors qu’elle se trouve à 1,50 mètre ou moins d’un dwiergeth doit réussir un jet de [[Volonté]] DD 21, sinon son effet de téléportation l’envoie dans le gosier éternel du dwiergeth. Quand le dwiergeth est sous les effets d’une *[[ancre dimensionnelle]]* ou dans une zone interdisant les déplacements extradimensionnels, il perd son pouvoir de gosier éternel mais son pouvoir d’engloutissement fonctionne normalement. Le DD du jet de sauvegarde est basé sur le [[Charisme]] et est augmenté d’un bonus racial de +2.}
 </div>
 </td>
 <td>

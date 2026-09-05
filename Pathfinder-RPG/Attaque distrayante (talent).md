@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ATTAQUEDISTRAYANTE
 ---
 
->>> [Talents#ATTAQUEDISTRAYANTE](./Talents.md#ATTAQUEDISTRAYANTE)
+>>> [[Talents#ATTAQUEDISTRAYANTE]]

@@ -12,22 +12,22 @@ Categories:
 ---
 
 {s:APG}
-**École** [Illusion](./Illusion.md) ([fantasme](./branche fantasme.md)) <nowiki>[</nowiki>[émotion, mental, peur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7  
+**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|émotion, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE) et [illimitée](./Présentation des sorts.md#PORTEE) (voir description)  
+**Portée** [[Présentation des sorts#PORTEE|contact]] et [[Présentation des sorts#PORTEE|illimitée]] (voir description)  
 
 **Cible** cadavre touché  
 
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)  
+**Durée** [[présentation des sorts#DUREE|instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [dévoiler](./Présentation des sorts.md#JETSDESAUVEGARDE) puis [Vigueur](./Vigueur.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; voir texte ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|dévoiler]] puis [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; voir texte ; **Résistance à la magie** oui
 
-Quand le personnage lance cet étrange sort sur une créature décédée, une image spectrale terrifiante se lève de son cadavre et pousse un hurlement de vengeance avant de disparaître dans une explosion de lumière surnaturelle. Le fantôme cherche alors son assassin et, tant que ce dernier se trouve sur le même [plan](./Plans.md) que la créature morte, elle le trouve immanquablement et essaye alors de le tuer.
+Quand le personnage lance cet étrange sort sur une créature décédée, une image spectrale terrifiante se lève de son cadavre et pousse un hurlement de vengeance avant de disparaître dans une explosion de lumière surnaturelle. Le fantôme cherche alors son assassin et, tant que ce dernier se trouve sur le même [[plans|plan]] que la créature morte, elle le trouve immanquablement et essaye alors de le tuer.
 
-Le meurtrier de la créature est le seul à voir l'image fantasmagorique créée par le personnage. Ce dernier et toute personne qui assiste à l'incantation ou à ses effets ne voient qu'une forme vague. La cible a tout d'abord droit à un jet de [Volonté](./Volonté.md) pour dévoiler l'[Illusion](./Illusion.md). Si elle échoue, elle doit réussir un jet de [Vigueur](./Vigueur.md) ou subir 10 points de dégâts par [niveau de lanceur de sorts](./NLS.md) de la part de l'image. Même si la cible réussit son [jet de sauvegarde](./jet de sauvegarde.md), elle subit tout de même 5d6 points de dégâts +1 point par [niveau de lanceur de sorts](./NLS.md). Le personnage sait immédiatement si le sort a tué la cible ou non mais sans information complémentaire, il ne connaît même pas l'identité de la cible du sort.
+Le meurtrier de la créature est le seul à voir l'image fantasmagorique créée par le personnage. Ce dernier et toute personne qui assiste à l'incantation ou à ses effets ne voient qu'une forme vague. La cible a tout d'abord droit à un jet de [[Volonté]] pour dévoiler l'[[Illusion]]. Si elle échoue, elle doit réussir un jet de [[Vigueur]] ou subir 10 points de dégâts par [[NLS|niveau de lanceur de sorts]] de la part de l'image. Même si la cible réussit son [[jet de sauvegarde]], elle subit tout de même 5d6 points de dégâts +1 point par [[NLS|niveau de lanceur de sorts]]. Le personnage sait immédiatement si le sort a tué la cible ou non mais sans information complémentaire, il ne connaît même pas l'identité de la cible du sort.
 
-La créature qui fournit le cadavre ne doit pas être morte depuis plus de 1 jour par [niveau de lanceur de sorts](./NLS.md) avant l'incantation. Si elle n'a pas été tuée par qui que ce soit ou si son assassin est mort ou sur un autre [plan](./Plans.md), le sort échoue. *Vengeance fantasmagorique* ne porte aucun jugement moral et vise aussi bien le vainqueur d'un duel équitable qu'un meurtrier. Un cadavre ne peut servir de cible à ce sort qu'une seule fois.
+La créature qui fournit le cadavre ne doit pas être morte depuis plus de 1 jour par [[NLS|niveau de lanceur de sorts]] avant l'incantation. Si elle n'a pas été tuée par qui que ce soit ou si son assassin est mort ou sur un autre [[plans|plan]], le sort échoue. *Vengeance fantasmagorique* ne porte aucun jugement moral et vise aussi bien le vainqueur d'un duel équitable qu'un meurtrier. Un cadavre ne peut servir de cible à ce sort qu'une seule fois.

@@ -14,8 +14,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire* p.270}
 {s:BDTexte|**PX** 200}
 {s:BDTexte|Tengu (m), roublard 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([tengu](./tengu%20%28race%29.md)) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[tengu%20%28race%29|tengu]]) de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 12 (armure +2, Dex +3)}
 {s:BDTexte|**pv** 9 (1d8+1)}
@@ -24,12 +24,12 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** dague +3 (1d4+1/19-20), morsure -2 (1d3)}
 {s:BDTexte|**Distance** arc court +3 (1d6/x3)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./attaque sournoise.md) +1d6}
+{s:BDTexte|**Attaques spéciales** [[attaque sournoise]] +1d6}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 17, **Con** 12, **Int** 10, **Sag** 15, **Cha** 8}
 {s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 14}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +7, [Bluff](./Bluff.md) +3, [Connaissances](./Connaissances.md) (folklore local) +4, [Discrétion](./Discrétion.md) +9, [Escalade](./Escalade.md) +5, [Estimation](./Estimation.md) +4, [Linguistique](./Linguistique.md) +8, [Perception](./Perception.md) +8 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +2, [Linguistique](./Linguistique.md) +4, [Perception](./Perception.md) +2}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +7, [[Bluff]] +3, [[Connaissances]] (folklore local) +4, [[Discrétion]] +9, [[Escalade]] +5, [[Estimation]] +4, [[Linguistique]] +8, [[Perception]] +8 ; **Modificateurs raciaux** [[Discrétion]] +2, [[Linguistique]] +4, [[Perception]] +2}
 {s:BDTexte|**Langues** commun, gobelin, halfelin, tengu}
 {s:BDTexte|**Particularités** entraînement aux épées, linguiste doué, recherche des pièges}
 {s:BDSousTitre|Écologie}
@@ -38,7 +38,7 @@ Categories:
 {s:BDTexte|**Trésor** équipement de PNJ (armure de cuir, dague, arc court avec 20 flèches, autres trésors)}
 {s:BDSousTitre|Particularités}
 {s:BDTexte|**Entrainement aux épées (Ext)** Dès la naissance, les tengus s'entraînent à manier des lames. Ils sont automatiquement formés au maniement des épées au sens large (y compris le cimeterre à deux mains, les cimeterres, les dagues de poing, les dagues, les doubles lames, les épées à deux mains, les épées bâtardes, les épées courtes, les épées longues, les kukris, les lames elfiques incurvées et les rapières).}
-{s:BDTexte|**Linguiste doué (Ext)** Les tengus bénéficient d'un bonus racial de +4 aux tests de [Linguistique](./Linguistique.md)  et apprennent 2 nouvelles langues chaque fois qu'ils gagnent un rang en [Linguistique](./Linguistique.md) (au lieu d'une seule).}
+{s:BDTexte|**Linguiste doué (Ext)** Les tengus bénéficient d'un bonus racial de +4 aux tests de [[Linguistique]]  et apprennent 2 nouvelles langues chaque fois qu'ils gagnent un rang en [[Linguistique]] (au lieu d'une seule).}
 </div>
 
 {s:ImageCentre|Bestiaire/Tengu-Korva.jpg|95%}
@@ -76,4 +76,4 @@ acquérant des niveaux de classes. Leurs traits raciaux sont les suivants.
 - **Sournois.** Les tengus gagnent un bonus racial de +2 aux tests de Discrétion et de Perception.
 - **Langues.** Les tengus parlent automatiquement le commun et leur propre dialecte, le tengu. S’ils disposent d’une Intelligence élevée, ils peuvent choisir n’importe quelle langage comme langue supplémentaire.
 
-{s:VoirAussiAvant}La page de la race [Tengu](./Tengu (race).md){s:VoirAussiAprès}</div></td></tr></table>
+{s:VoirAussiAvant}La page de la race [[tengu (race)|Tengu]]{s:VoirAussiAprès}</div></td></tr></table>

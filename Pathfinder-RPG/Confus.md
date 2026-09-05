@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Confus
 ---
 
->>> [États préjudiciables#Confus](./États préjudiciables.md#Confus)
+>>> [[États préjudiciables#Confus]]

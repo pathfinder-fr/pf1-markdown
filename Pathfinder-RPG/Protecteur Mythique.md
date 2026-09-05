@@ -23,41 +23,41 @@ Categories:
 |- CLASS="titre"
 | Grade || Caractéristiques de la voie
 |- CLASS="premier"
-| 1 || [Ralliement du protecteur](./Protecteur Mythique.md#RALLIMENTDUPROTECTEUR), [Aptitude de voie](./Protecteur Mythique.md#APTITUDEDEVOIE)
+| 1 || [[Protecteur Mythique#RALLIMENTDUPROTECTEUR|Ralliement du protecteur]], [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 2 || [Aptitude de voie](./Protecteur Mythique.md#APTITUDEDEVOIE)
+| 2 || [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 3 || [Aptitude de voie](./Protecteur Mythique.md#APTITUDEDEVOIE)
+| 3 || [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 4 || [Aptitude de voie](./Protecteur Mythique.md#APTITUDEDEVOIE)
+| 4 || [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 5 || [Aptitude de voie](./Protecteur Mythique.md#APTITUDEDEVOIE)
+| 5 || [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 6 || [Aptitude de voie](./Protecteur Mythique.md#APTITUDEDEVOIE)
+| 6 || [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 7 || [Aptitude de voie](./Protecteur Mythique.md#APTITUDEDEVOIE)
+| 7 || [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 8 || [Aptitude de voie](./Protecteur Mythique.md#APTITUDEDEVOIE)
+| 8 || [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 9 || [Aptitude de voie](./Protecteur Mythique.md#APTITUDEDEVOIE)
+| 9 || [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 10 || [Aptitude de voie](./Protecteur Mythique.md#APTITUDEDEVOIE), [Véritable défenseur](./Protecteur Mythique.md#VERITABLEDEFENSEUR)
+| 10 || [[Protecteur Mythique#APTITUDEDEVOIE|Aptitude de voie]], [[Protecteur Mythique#VERITABLEDEFENSEUR|Véritable défenseur]]
 |}
-</div></div>Au fur et à mesure que le protecteur monte en [grades](./grades.md), il obtient les aptitudes suivantes :
+</div></div>Au fur et à mesure que le protecteur monte en [[grades]], il obtient les aptitudes suivantes :
 
 {s:Reference|RALLIMENTDUPROTECTEUR}
 #### Ralliement du protecteur
 Choisissez l’une des aptitudes suivantes. Ce choix est définitif.
-- ***Absorption des coups (Sur).*** Par une [action immédiate](./Action immédiate.md), lorsque le personnage subit une perte de [points de vie](./pv.md) infligée par une source unique (telle que le souffle d’un dragon, un sort ou une arme), il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour réduire ces dégâts de 5 points par [grade](./Grade.md) (jusqu’à un minimum de 0 point de dégâts subi). Si une autre aptitude ou effet dont bénéficie le protecteur réduit également les dégâts (comme une *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*), il réduit d’abord les dégâts grâce à l’absorption des coups avant d’appliquer les réductions conférées par d’autres effets. Pour chaque tranche de 10 points de dégâts évités grâce à cette aptitude, le personnage gagne une [RD](./RD.md) 1/[épique](./RDépique.md) et 5 points de résistance contre les dégâts d’acide, de froid, d’électricité, de feu et de son pendant une minute. La RD et les résistances se cumulent aux autres RD et [résistances](./Résistance (capacité).md) que possède le personnage.
+- ***Absorption des coups (Sur).*** Par une [[action immédiate]], lorsque le personnage subit une perte de [[pv|points de vie]] infligée par une source unique (telle que le souffle d’un dragon, un sort ou une arme), il peut dépenser une utilisation de [[pouvoir mythique]] pour réduire ces dégâts de 5 points par [[grade]] (jusqu’à un minimum de 0 point de dégâts subi). Si une autre aptitude ou effet dont bénéficie le protecteur réduit également les dégâts (comme une *[[protection contre les énergies destructives]]*), il réduit d’abord les dégâts grâce à l’absorption des coups avant d’appliquer les réductions conférées par d’autres effets. Pour chaque tranche de 10 points de dégâts évités grâce à cette aptitude, le personnage gagne une [[RD]] 1/[[RDépique|épique]] et 5 points de résistance contre les dégâts d’acide, de froid, d’électricité, de feu et de son pendant une minute. La RD et les résistances se cumulent aux autres RD et [[Résistance (capacité)|résistances]] que possède le personnage.
 
-- ***Fureur bestiale (Sur).*** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour octroyer à son [compagnon animal](./Druide.md#PACTEAVECLANATURE), son [compagnon d’armes](./Prestige.md), son [eidolon](./Conjurateur.md#EIDOLON), son [familier](./Magicien.md#PACTEMAGIQUE) ou sa [monture](./Chevalier.md#MONTURE) fidèle une fraction de ce pouvoir. Par une [action immédiate](./Action immédiate.md), la créature bénéficiaire peut se déplacer d’une distance égale ou inférieure à sa vitesse de déplacement et effectuer une attaque avec l’une de ses armes naturelles. Lorsqu’elle effectue cette attaque, vous faites deux jets pour la créature et conservez le meilleur résultat. Les éventuels dégâts infligés par cette attaque ignorent toutes les [réductions des dégâts](./RD.md). Une créature affectée par cette aptitude peut effectuer ces actions en plus de celles réalisées pendant son tour.
+- ***Fureur bestiale (Sur).*** Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour octroyer à son [[Druide#PACTEAVECLANATURE|compagnon animal]], son [[Prestige|compagnon d’armes]], son [[Conjurateur#EIDOLON|eidolon]], son [[Magicien#PACTEMAGIQUE|familier]] ou sa [[Chevalier#MONTURE|monture]] fidèle une fraction de ce pouvoir. Par une [[action immédiate]], la créature bénéficiaire peut se déplacer d’une distance égale ou inférieure à sa vitesse de déplacement et effectuer une attaque avec l’une de ses armes naturelles. Lorsqu’elle effectue cette attaque, vous faites deux jets pour la créature et conservez le meilleur résultat. Les éventuels dégâts infligés par cette attaque ignorent toutes les [[RD|réductions des dégâts]]. Une créature affectée par cette aptitude peut effectuer ces actions en plus de celles réalisées pendant son tour.
 
-- ***Parade soudaine (Ext).{s:Desambi|Cette aptitude fait bien partie de CMy (Campagnes Mythiques), mais n'a pas de traduction française officielle dû à une erreur dans le livre (et le pdf).}*** Par une [action immédiate](./Action immédiate.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour empêcher une attaque au corps à corps contre lui ou un allié adjacent. Le personnage ajoute son [grade](./Grade.md) à sa [CA](./CA.md), ou celle de son allié, contre cette attaque. La créature qui attaque doit lancer deux [jets d'attaque](./jet dattaque.md) et conserver le pire résultat. Une fois l'attaque terminé, le personnage ou son allié (au choix) peut faire une unique attaque au corps à corps contre cette créature. Les dégâts de cette attaque ignorent toutes les [réductions des dégâts](./RD.md).
+- ***Parade soudaine (Ext).{s:Desambi|Cette aptitude fait bien partie de CMy (Campagnes Mythiques), mais n'a pas de traduction française officielle dû à une erreur dans le livre (et le pdf).}*** Par une [[action immédiate]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour empêcher une attaque au corps à corps contre lui ou un allié adjacent. Le personnage ajoute son [[grade]] à sa [[CA]], ou celle de son allié, contre cette attaque. La créature qui attaque doit lancer deux [[jet dattaque|jets d'attaque]] et conserver le pire résultat. Une fois l'attaque terminé, le personnage ou son allié (au choix) peut faire une unique attaque au corps à corps contre cette créature. Les dégâts de cette attaque ignorent toutes les [[RD|réductions des dégâts]].
 
 {s:Reference|APTITUDEDEVOIE}
 #### Aptitude de voie
-Au 1<sup>er</sup> [grade](./Grade.md) et tous les [grades](./grades.md) par la suite, choisissez une nouvelle [aptitude de voie](./aptitude de voie.md) parmi la liste des [aptitudes de voie du protecteur](./Aptitudes de la voie du Protecteur Mythique.md) ou parmi la liste des [aptitudes de voie universelles](./Aptitudes de voie universelles Mythique.md). Ce choix est définitif. Sauf indication contraire, chaque aptitude ne peut être choisie qu’une seule fois. Certaines aptitudes s’accompagnent de conditions requises, comme la possession d’une aptitude de classe spécifique ou d’un [grade](./Grade.md) mythique minimum. Le personnage doit remplir les conditions requises avant de pouvoir choisir ces aptitudes.
+Au 1<sup>er</sup> [[grade]] et tous les [[grades]] par la suite, choisissez une nouvelle [[aptitude de voie]] parmi la liste des [[Aptitudes de la voie du Protecteur Mythique|aptitudes de voie du protecteur]] ou parmi la liste des [[Aptitudes de voie universelles Mythique|aptitudes de voie universelles]]. Ce choix est définitif. Sauf indication contraire, chaque aptitude ne peut être choisie qu’une seule fois. Certaines aptitudes s’accompagnent de conditions requises, comme la possession d’une aptitude de classe spécifique ou d’un [[grade]] mythique minimum. Le personnage doit remplir les conditions requises avant de pouvoir choisir ces aptitudes.
 
 {s:Reference|VERITABLEDEFENSEUR}
 #### Véritable défenseur (Sur)
-Au 10<sup>ème</sup> grade, chaque fois que le personnage subit des dégâts infligés par une attaque à distance ou au corps à corps réalisée par une créature [non-mythique](./non-mythique.md), ces dégâts sont diminués de moitié. Cette réduction s’applique après toutes les autres réductions, comme celles conférées par une [résistance](./Résistance (capacité).md) aux énergies destructives ou une [réduction des dégâts](./RD.md). Une fois par round]], lorsqu’un ennemi inflige un coup critique au protecteur, ce dernier récupère une utilisation de pouvoir mythique.
+Au 10<sup>ème</sup> grade, chaque fois que le personnage subit des dégâts infligés par une attaque à distance ou au corps à corps réalisée par une créature [[non-mythique]], ces dégâts sont diminués de moitié. Cette réduction s’applique après toutes les autres réductions, comme celles conférées par une [[Résistance (capacité)|résistance]] aux énergies destructives ou une [[RD|réduction des dégâts]]. Une fois par round]], lorsqu’un ennemi inflige un coup critique au protecteur, ce dernier récupère une utilisation de pouvoir mythique.

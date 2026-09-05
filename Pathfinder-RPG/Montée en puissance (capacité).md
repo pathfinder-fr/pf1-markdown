@@ -8,6 +8,6 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-La créature peut faire appel à son [pouvoir mythique](./pouvoir mythique.md) pour surmonter les pires difficultés. Elle peut dépenser une utilisation de pouvoir mythique pour améliorer un jet de d20 qu’elle vient juste de faire en lui ajoutant 1d6. Ce pouvoir s’utilise par une [action immédiate](./Action immédiate.md), après le premier jet, une fois que la créature a pris connaissance de son résultat. Le dé supplémentaire que confère ce pouvoir se change en d8 au [rang mythique](./Monstres mythiques.md#RANGMYTHIQUE) 4, en d10 au rang 7 et en d12 au rang 10. La créature peut utiliser ce pouvoir même si elle est dépourvue d’intelligence ou si elle a seulement une intelligence animale.
+La créature peut faire appel à son [[pouvoir mythique]] pour surmonter les pires difficultés. Elle peut dépenser une utilisation de pouvoir mythique pour améliorer un jet de d20 qu’elle vient juste de faire en lui ajoutant 1d6. Ce pouvoir s’utilise par une [[action immédiate]], après le premier jet, une fois que la créature a pris connaissance de son résultat. Le dé supplémentaire que confère ce pouvoir se change en d8 au [[Monstres mythiques#RANGMYTHIQUE|rang mythique]] 4, en d10 au rang 7 et en d12 au rang 10. La créature peut utiliser ce pouvoir même si elle est dépourvue d’intelligence ou si elle a seulement une intelligence animale.
 
-La montée en puissance ne possédant pas de section particulière dans le profil du monstre, le dé associé est indiqué avec la capacité [pouvoir mythique](./Pouvoir mythique (capacité).md).
+La montée en puissance ne possédant pas de section particulière dans le profil du monstre, le dé associé est indiqué avec la capacité [[Pouvoir mythique (capacité)|pouvoir mythique]].

@@ -6,7 +6,7 @@ LastModified: 2019-05-31 16:17
 
 <div class="BD">
 {s:BDTitre|Bouteille de bile|}
-{s:BDTexte|*Source : [Aides de jeu AP13|La Colère des Justes], p.489*}
+{s:BDTexte|*Source : [[Aides de jeu AP13|La Colère des Justes]], p.489*}
 **Aura** invocation faible; **NLS** 5; **Emplacement** Aucun ; **Prix 500 po** ; **Poids** 1 kg
 (((Description)))
 Une bouteille de bile semble n'être qu'un récipient fermé contenant de l'eau. Elle s'utilise comme arme à aspersion. Lorsqu'une bouteille de bile est débouchée ou brisée, les fluides nocifs qu'elle contient se rependent aussi tôt pour produire un nuage de vapeurs toxiques de 9 m de rayon. Ces vapeurs sont invisibles, mais les créatures à l'intérieur de la zone doivent réussir un jet de vigueur DD 14 au début de leur tour pour ne pas subir l'un des effets suivants déterminé aléatoirement. Les vapeurs créées par une bouteille de bile disparaissent au bout d'une minute ou si elles sont exposées à un vent d'une violence supérieure à modérée. Ces vapeurs sont un effet de poison.
@@ -34,5 +34,5 @@ Une bouteille de bile semble n'être qu'un récipient fermé contenant de l'eau.
 
 
 (((Condition de fabrication)))
-[Création d'objets merveilleux](./../Pathfinder-RPG/Création dobjets merveilleux.md), [nuage nauséabond](./../Pathfinder-RPG/Nuage nauséabond.md).
+[[Pathfinder-RPG.Création dobjets merveilleux|Création d'objets merveilleux]], [[Pathfinder-RPG.nuage nauséabond|nuage nauséabond]].
 </div>

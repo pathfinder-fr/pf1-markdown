@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Lancer de rochers (capacité)
 ---
 
->>> [Lancer de rochers (capacité)](./Lancer de rochers (capacité).md)
+>>> [[Lancer de rochers (capacité)]]

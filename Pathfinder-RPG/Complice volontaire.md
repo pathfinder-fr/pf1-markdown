@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:UI}*Votre soutien bien placé peut aider vos amis et alliés à préserver leurs secrets les plus précieux.*
 
-**Conditions.** [Cha](./Cha.md) 13, 3 rangs en [Bluff](./Bluff.md), 1 rang en [Psychologie](./Psychologie.md)
+**Conditions.** [[Cha]] 13, 3 rangs en [[Bluff]], 1 rang en [[Psychologie]]
 
-**Avantages.** Par une [action simple](./Action simple.md), le personnage peut effectuer un test de [Bluff](./Bluff.md) pour [aider quelqu'un](./aider qqn.md) lors d'un test de [Déguisement](./Déguisement.md). De plus, lorsqu'il utilise un tel test pour aider un allié [justicier](./Justicier.md) à maintenir son [identité sociale](./Justicier.md#DOUBLEIDENTITE), un test réussi confère à l'allié un bonus de +5 à la place du bonus normal de +2.
+**Avantages.** Par une [[action simple]], le personnage peut effectuer un test de [[Bluff]] pour [[aider qqn|aider quelqu'un]] lors d'un test de [[Déguisement]]. De plus, lorsqu'il utilise un tel test pour aider un allié [[justicier]] à maintenir son [[Justicier#DOUBLEIDENTITE|identité sociale]], un test réussi confère à l'allié un bonus de +5 à la place du bonus normal de +2.

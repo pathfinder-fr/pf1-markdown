@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage fait preuve d’une agilité manuelle exceptionnelle.*
 
-**Condition.** [Doigts de fée](./Doigts de fée.md)
+**Condition.** [[Doigts de fée]]
 
-**Avantage.** Les bonus aux tests de [Sabotage](./Sabotage.md) et [Escamotage](./Escamotage.md) conférés par [Doigts de fée](./Doigts de fée.md) sont augmentés de +2. De plus, le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour considérer qu’il a obtenu un 20 naturel à l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.
+**Avantage.** Les bonus aux tests de [[Sabotage]] et [[Escamotage]] conférés par [[Doigts de fée]] sont augmentés de +2. De plus, le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour considérer qu’il a obtenu un 20 naturel à l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.

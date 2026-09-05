@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#DEFENDREAVECPRESCIENCE
 ---
 
->>> [arcanes#DEFENDREAVECPRESCIENCE](./arcanes.md#DEFENDREAVECPRESCIENCE)
+>>> [[arcanes#DEFENDREAVECPRESCIENCE]]

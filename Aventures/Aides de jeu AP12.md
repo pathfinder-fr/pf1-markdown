@@ -4,7 +4,7 @@ Title: Aides de jeu pour Le règne de l'hiver
 LastModified: 2019-06-01 10:31
 ---
 
-Vous trouverez la présentation de cette campagne sur [cette page](./Présentation AP12.md).
+Vous trouverez la présentation de cette campagne sur [[Présentation AP12|cette page]].
 
 <nav class="wiki-toc"></nav>
 

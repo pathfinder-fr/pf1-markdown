@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.40*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [perception aveugle](./perception aveugle.md) 12 m (8 {s:c}) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[perception aveugle]] 12 m (8 {s:c}) ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 11, pris au dépourvu 12 (Dex +2, naturelle +3, taille -1)}
 {s:BDTexte|**pv** 22 (4d8+4)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 15, **Con** 13, **Int** 2, **Sag** 14, **Cha** 6}
 {s:BDTexte|**BBA** +3, **BMO** +7, **DMD** 19}
-{s:BDTexte|**Dons** [Discret](./Discret.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +12, [Vol](./Vol.md) +9 ; **Modificateurs raciaux** [Perception](./Perception.md) +4 avec [perception aveugle](./perception aveugle.md)}
+{s:BDTexte|**Dons** [[Discret]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +4, [[Perception]] +12, [[Vol]] +9 ; **Modificateurs raciaux** [[Perception]] +4 avec [[perception aveugle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** climats tempérés ou tropicaux}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3-8)}
@@ -39,15 +39,15 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Chauve-souris](./Chauve-souris.md) || 1/8
+| Familier, [[Chauve-souris]] || 1/8
 |-
-| [Chauve-souris sanguinaire](./Chauve-souris sanguinaire.md) || 2
+| [[Chauve-souris sanguinaire]] || 2
 |-
-| [Mobat](./Mobat.md) || 3
+| [[Mobat]] || 3
 |-
-| [Nuée de chauves-souris](./Nuée de chauves-souris.md) || 2
+| [[Nuée de chauves-souris]] || 2
 |-
-| [Skaveling](./Skaveling.md) || 5
+| [[Skaveling]] || 5
 |}
 </div>''En dépliant ses ailes membraneuses, cette chauve-souris poilue atteint une
 envergure plus grande que deux hommes bras tendus.''
@@ -66,10 +66,10 @@ vie solitaire. Pour se nourrir, elles s’attaquent
 au bétail ou aux troupeaux errants.
 
 #### Renard-volant géant (FP 1)
-Ce grand mammifère volant d'une envergure dépassant les 1,50 m arbore une tête de mustélidé aux airs de renard. Actif la nuit, il peut parcourir de longues distances en vol allant jusqu'à 40 km pour se nourrir de divers fruits. Utilisez l'archétype "[jeune](./Archétypes-ashx.md#Créature_jeune_FP_-B_7)" pour le grand renard-volant.
+Ce grand mammifère volant d'une envergure dépassant les 1,50 m arbore une tête de mustélidé aux airs de renard. Actif la nuit, il peut parcourir de longues distances en vol allant jusqu'à 40 km pour se nourrir de divers fruits. Utilisez l'archétype "[[Archétypes.ashx#Créature_jeune_FP_-B_7|jeune]]" pour le grand renard-volant.
 
 #### La chauve-souris sanguinaire comme compagnon animal
-**Caractéristiques de départ** **Taille **M ; **Vitesse** 6 m (4 {s:c}), vol 12 m (8 {s:c}) (bonne) ; **CA** armure naturelle +0 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 9, Dex 17, Con 9, Int 2, Sag 14, Cha 6 ; **Particularités** [perception aveugle](./perception aveugle.md) 12 m (8 {s:c}) cases.
+**Caractéristiques de départ** **Taille **M ; **Vitesse** 6 m (4 {s:c}), vol 12 m (8 {s:c}) (bonne) ; **CA** armure naturelle +0 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 9, Dex 17, Con 9, Int 2, Sag 14, Cha 6 ; **Particularités** [[perception aveugle]] 12 m (8 {s:c}) cases.
 
 **Développement au niveau 7** : **Taille** G ; **CA** armure naturelle +3 ; **Attaque** morsure (1d8) ; **Caractéristiques** For +8, Dex –2, Con +4.
 

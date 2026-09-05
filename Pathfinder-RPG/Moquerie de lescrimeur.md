@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vous prenez vos adversaires au dépourvu avec vos attaques.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [École de l'escrimeur](./École de lescrimeur.md), [Expertise du combat](./Expertise du combat.md), [Science de la feinte](./Science de la feinte.md), [Arme de prédilection](./Arme de prédilection.md) avec l'arme choisie, [BBA](./BBA.md) +5
+**Conditions.** [[École de lescrimeur|École de l'escrimeur]], [[Expertise du combat]], [[Science de la feinte]], [[Arme de prédilection]] avec l'arme choisie, [[BBA]] +5
 
-**Avantages.** Lorsque le personnage utilise l'[École de l'escrimeur](./École de lescrimeur.md), par une [action immédiate](./Action immédiate.md), il peut tenter une [feinte](./feinte.md) contre un ennemi qui lui a porté une attaque au corps à corps et l'a raté.
+**Avantages.** Lorsque le personnage utilise l'[[École de lescrimeur|École de l'escrimeur]], par une [[action immédiate]], il peut tenter une [[feinte]] contre un ennemi qui lui a porté une attaque au corps à corps et l'a raté.

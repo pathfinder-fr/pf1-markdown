@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Élixir de voix tonitruante|{s:MCA}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 250 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 250 po ; **Poids** —
 (((Description)))
-Cet élixir gris clair donne au personnage une voix plus forte et plus violente, lui conférant un caractère inhumain qui ébranle ses interlocuteurs et lui accorde un bonus de compétence de +10 aux tests d’[Intimidation](./Intimidation.md) pendant 1 heure.
+Cet élixir gris clair donne au personnage une voix plus forte et plus violente, lui conférant un caractère inhumain qui ébranle ses interlocuteurs et lui accorde un bonus de compétence de +10 aux tests d’[[Intimidation]] pendant 1 heure.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[cacophonie](./Cacophonie.md)* ; **Coût** 125 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[cacophonie]]* ; **Coût** 125 po
 </div>

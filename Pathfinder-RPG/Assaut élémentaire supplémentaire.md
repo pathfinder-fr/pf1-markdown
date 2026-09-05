@@ -8,10 +8,10 @@ Categories:
 - Règles officielles
 ---
 
-{s:MR}*Le [Suli](./suli (race).md) a libéré un plus grand pouvoir élémentaire.*
+{s:MR}*Le [[Suli (race)|Suli]] a libéré un plus grand pouvoir élémentaire.*
 
-**Conditions requises.** [Suli](./suli (race).md)
+**Conditions requises.** [[Suli (race)|Suli]]
 
-**Avantage.** L’[assaut élémentaire](./suli (race).md) du [Suli](./suli (race).md)  dure 2 [rounds](./round.md) par jour supplémentaire.
+**Avantage.** L’[[Suli (race)|assaut élémentaire]] du [[Suli (race)|Suli]]  dure 2 [[round|rounds]] par jour supplémentaire.
 
-**Spécial.**  Le [Suli](./suli (race).md) peut prendre ce [don](./don.md) plusieurs fois. Ses effets se cumulent.
+**Spécial.**  Le [[Suli (race)|Suli]] peut prendre ce [[don]] plusieurs fois. Ses effets se cumulent.

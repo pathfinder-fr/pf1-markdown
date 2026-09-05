@@ -20,32 +20,32 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Cham](./Chaman.md) 1, [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [Rôd](./Rôdeur.md) 1, [San](./Sanguin.md) 1, [Spi](./Spirite.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Chaman|Cham]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créature touchée
 **Durée** 24 heures
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Une créature protégée par *endurance aux énergies destructives* ne souffre pas de la chaleur ou du froid lorsqu’elle se trouve dans un environnement extrême. Elle se sent à son aise par des températures allant de -45°C à +60°C et ne doit pas effectuer le moindre jet de [Vigueur](./Vigueur.md) dans ces conditions. Son équipement bénéficie également de la même protection.
+Une créature protégée par *endurance aux énergies destructives* ne souffre pas de la chaleur ou du froid lorsqu’elle se trouve dans un environnement extrême. Elle se sent à son aise par des températures allant de -45°C à +60°C et ne doit pas effectuer le moindre jet de [[Vigueur]] dans ces conditions. Son équipement bénéficie également de la même protection.
 
 *Endurance aux énergies destructives* n’offre aucune protection contre les dégâts de feu et de froid ni contre les autres dangers liés à l’environnement comme la fumée ou le manque d’air par exemple.
 
 ### Version mythique
-{s:CMy}La cible du sort change et devient une créature touchée par niveau. Les créatures affectées gagnent une résistance au froid et au feu de 5. Elles ne sont pas ralenties par la neige et ignorent les malus aux tests de [Perception](./Perception.md) et aux attaques d’armes à distance infligés par la grêle, la pluie, la neige fondue ou normale. Elles considèrent également que la puissance du vent est inférieure d’une catégorie.
+{s:CMy}La cible du sort change et devient une créature touchée par niveau. Les créatures affectées gagnent une résistance au froid et au feu de 5. Elles ne sont pas ralenties par la neige et ignorent les malus aux tests de [[Perception]] et aux attaques d’armes à distance infligés par la grêle, la pluie, la neige fondue ou normale. Elles considèrent également que la puissance du vent est inférieure d’une catégorie.
 
 
 
 ((({s:sortssimilaires|endurance aux énergies destructives}
-## [Endurance aux énergies destructives (partagé)](./Endurance aux énergies destructives (partagé).md)
-{s:UC}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Pal](./Paladin.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [Rôd](./Rôdeur.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+## [[Endurance aux énergies destructives (partagé)]]
+{s:UC}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créatures touchées
 **Durée** 24 heures
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort fonctionne comme *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)* mais la durée se divise entre les créatures touchées, par portions de 1 heure.
+Ce sort fonctionne comme *[[endurance aux énergies destructives]]* mais la durée se divise entre les créatures touchées, par portions de 1 heure.
 )))

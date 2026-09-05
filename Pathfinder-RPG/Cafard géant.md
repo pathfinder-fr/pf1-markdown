@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Vermine|Ville|Tempéré}
 - *Source : Bestiaire 2, p.56*
 - **PX** 200
-- [Vermine](./type Vermine.md) de taille P, N
-- **Init** +1 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}); [Perception](./Perception.md) +4
+- [[type Vermine|Vermine]] de taille P, N
+- **Init** +1 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}); [[Perception]] +4
 (((Défense)))
 - **CA** 14, contact 12, pris au dépourvu 13 (Dex +1, naturelle +2, taille +1)
 - **pv** 8 (1d8+4)
 - **Réf** +1, **Vig** +6, **Vol** +0
-- **Faiblesses** [sensibilité à la lumière](./Sensibilité à la lumière (capacité).md)
+- **Faiblesses** [[sensibilité à la lumière (capacité)|sensibilité à la lumière]]
 (((Attaque)))
 - **VD** 9 m (6 {s:c}), escalade 9 m (6 {s:c}), vol 12 m (8 {s:c}) (médiocre)
 - **Corps à corps** morsure, +1 (1d4)
 (((Statistiques)))
 - **For** 11, **Dex** 12, **Con** 19, **Int** — , **Sag** 11, **Cha** 2
 - **BBA** +0 ; **BMO** –1 ; **DMD** 10
-- **Dons** [Dur à cuire](./Dur à cuire.md)<sup>B</sup>, [Endurance](./Endurance.md)<sup>B</sup>
-- **Compétences** [Discrétion](./Discrétion.md) +9, [Escalade](./Escalade.md) +8, [Perception](./Perception.md) +4, [Vol](./Vol.md) –1 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md), +4 en [Perception](./Perception.md)
-- **Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)
+- **Dons** [[Dur à cuire]]<sup>B</sup>, [[Endurance]]<sup>B</sup>
+- **Compétences** [[Discrétion]] +9, [[Escalade]] +8, [[Perception]] +4, [[Vol]] –1 ; **Modificateurs raciaux** +4 en [[Discrétion]], +4 en [[Perception]]
+- **Particularités** [[retenir son souffle (capacité)|retenir son souffle]]
 (((Écologie)))
 - **Environnement** terre ferme
 - **Organisation sociale** solitaire ou infestation (2–20)
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Cafard géant](./Cafard géant.md) || 1/2
+| [[Cafard géant]] || 1/2
 |-
-| [Nuée de cafards](./Nuée de cafards.md) || 2
+| [[Nuée de cafards]] || 2
 |}
 </div>''Ce cafard de la taille d’un chien s’avance rapidement en faisant claquer
 impatiemment ses mandibules recouvertes de déchets.''

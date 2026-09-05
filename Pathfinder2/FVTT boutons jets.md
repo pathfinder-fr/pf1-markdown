@@ -4,9 +4,9 @@ Title: Boutons inline pour les jets de dés sur Foundry VTT
 LastModified: 2023-05-25 13:57
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• Autres types de boutons inline : [Boutons de jets de dés](./FVTT boutons jets.md) - [Boutons de tests](./FVTT boutons tests.md) - [Boutons de gabarit](./FVTT boutons gabarit.md)
+• Autres types de boutons inline : [[FVTT boutons jets|Boutons de jets de dés]] - [[FVTT boutons tests|Boutons de tests]] - [[FVTT boutons gabarit|Boutons de gabarit]]
 
 <nowiki><style>
 1. content #PageContentDiv code {
@@ -34,12 +34,12 @@ width: 280px;
 <nav class="wiki-toc"></nav>
 
 ### Syntaxe de base
-Le format général pour insérer un bouton de jet de dés est `[/r 1d6+3](.//r-1d6+3.md)`.
+Le format général pour insérer un bouton de jet de dés est `[[/r 1d6+3]]`.
 
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r 1d6+3](.//r-1d6+3.md)`</td>
+`[[/r 1d6+3]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd1b.webp"/></td>
 </tr>
 <tr><td>
@@ -54,7 +54,7 @@ Par défaut, le texte affiché correspond à la formule du lancer de dé. On peu
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r 1d6+3](.//r-1d6+3.md){durée de l'effet}`</td>
+`[[/r 1d6+3]]{durée de l'effet}`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd2b.webp"/></td>
 </tr>
 <tr><td>
@@ -69,7 +69,7 @@ Par défaut, le lancer de dé est visible de tous. Pour forcer un jet secret, il
 <table class="example">
 <tr>
 <td>**Code**  
-`[/br 1d6+3](.//br-1d6+3.md)`</td>
+`[[/br 1d6+3]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd3b.webp"/></td>
 </tr>
 <tr><td>
@@ -86,7 +86,7 @@ Quelques-uns des types reconnus : `fire`, `cold`, `electricity`, `acid`, `poison
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r 1d12[acid](.//r-1d12[acid.md)]`</td>
+`[[/r 1d12[acid]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd4b.webp"/></td>
 </tr>
 <tr><td>
@@ -97,7 +97,7 @@ Quelques-uns des types reconnus : `fire`, `cold`, `electricity`, `acid`, `poison
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r (1d8+4)[fire](.//r-(1d8+4)[fire.md)]`</td>
+`[[/r (1d8+4)[fire]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd5b.webp"/></td>
 </tr>
 <tr><td>
@@ -108,7 +108,7 @@ Quelques-uns des types reconnus : `fire`, `cold`, `electricity`, `acid`, `poison
 <table class="example">
 <tr>
 <td>**Code**  
-`[[/r 1d6[slashing],2d4[cold],7[precision]]]`</td>
+`[[/r 1d6[[slashing]],2d4[[cold]],7[precision]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd6b.webp"/></td>
 </tr>
 <tr><td>
@@ -123,7 +123,7 @@ On peut préciser que le jet correspond à des dégâts persistants avec le type
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r 2d6[bleed](.//r-2d6[bleed.md)]`</td>
+`[[/r 2d6[bleed]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd7b.webp"/></td>
 </tr>
 <tr><td>
@@ -134,7 +134,7 @@ On peut préciser que le jet correspond à des dégâts persistants avec le type
 <table class="example">
 <tr>
 <td>**Code**  
-`[/r 3d4[electricity,persistent](.//r-3d4[electricity,persistent.md)]`</td>
+`[[/r 3d4[electricity,persistent]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd8b.webp"/></td>
 </tr>
 <tr><td>
@@ -145,7 +145,7 @@ On peut préciser que le jet correspond à des dégâts persistants avec le type
 <table class="example">
 <tr>
 <td>**Code**  
-`[[/r (1d8+2)[fire],1d4[fire,persistent]]]`</td>
+`[[/r (1d8+2)[[fire]],1d4[fire,persistent]]]`</td>
 <td rowspan="2"><img src="/Wiki/public/Upload/ADJ/PF2/FVTT/bijd9b.webp"/></td>
 </tr>
 <tr><td>

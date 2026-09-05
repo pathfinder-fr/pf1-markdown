@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 10 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Cet alcool clair, distillé à partir du sorgo, est extrêmement fort. Les gens finissent souvent par l’apprécier à la longue et non de suite car il a une saveur corrosive.

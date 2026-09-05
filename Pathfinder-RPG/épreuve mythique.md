@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Glossaire Mythique#EPREUVEMYTHIQUE
 ---
 
->>> [Glossaire Mythique#EPREUVEMYTHIQUE](./Glossaire Mythique.md#EPREUVEMYTHIQUE)
+>>> [[Glossaire Mythique#EPREUVEMYTHIQUE]]

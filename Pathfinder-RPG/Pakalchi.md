@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Pakalchi|FP 9}
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
-{s:BDTexte|*Source : [Bestiaire 5 p.232](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.232]]*}
 {s:BDTexte|**PX** 6 400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [sahkil](./sous-type sahkil.md)) de taille M, NM}
-{s:BDTexte|**Init** +10 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md), *[vision lucide](./Vision lucide.md)* ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type sahkil|sahkil]]) de taille M, NM}
+{s:BDTexte|**Init** +10 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]], *[[vision lucide]]* ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 16, pris au dépourvu 16 (Dex +6, naturelle +6)}
 {s:BDTexte|**pv** 115 (11d10+55)}
@@ -22,34 +22,34 @@ Categories:
 {s:BDTexte|**RD** 10/Bien ; **Immunités** effets de mort, effets de terreur, maladie, poison ; **Résistances** électricité 10, froid 10, son 10 ; **RM** 20}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m}
-{s:BDTexte|**Corps à corps** 2 griffes, +17 (1d6+6/19-20) et 4 lianes, +15 (1d4+3 plus 1d4 [saignement](./Saignement (capacité).md) et poison)}
-{s:BDTexte|**Distance** 4 épines, +17 (1d4 plus [saignement](./Saignement (capacité).md) et poison)}
+{s:BDTexte|**Corps à corps** 2 griffes, +17 (1d6+6/19-20) et 4 lianes, +15 (1d4+3 plus 1d4 [[Saignement (capacité)|saignement]] et poison)}
+{s:BDTexte|**Distance** 4 épines, +17 (1d4 plus [[Saignement (capacité)|saignement]] et poison)}
 {s:BDTexte|**Attaques spéciales** saignement (1d4), traîne enchevêtrante, regard terrible (9 m, DD 22), contact spectral, attaque soudaine, épines}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 12 ; [concentration](./concentration.md) +17)}
-{s:BDSorts|Constant — *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|À volonté — *[charme-personne](./Charme-personne.md)* (DD 16), détection du bien, *[détection de la magie](./Détection de la magie.md)*, protection contre le bien, *[téléportation suprême](./Téléportation suprême.md)* (ellemême plus 25 kilos d’équipement)}
-{s:BDSorts|3/jour — *[apaisement des émotions](./Apaisement des émotions.md)* (DD 19), *[clignotement](./Clignotement.md)*, *[vol](./sort Vol.md)*}
-{s:BDSorts|1/jour — *[convocation](./Convocation (capacité).md)* (niveau 6, 1 [wihsaak](./Wihsaak.md) 40%), *[domination](./Domination.md)* (DD 20)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 12 ; [[concentration]] +17)}
+{s:BDSorts|Constant — *[[vision lucide]]*}
+{s:BDSorts|À volonté — *[[charme-personne]]* (DD 16), détection du bien, *[[détection de la magie]]*, protection contre le bien, *[[téléportation suprême]]* (ellemême plus 25 kilos d’équipement)}
+{s:BDSorts|3/jour — *[[apaisement des émotions]]* (DD 19), *[[clignotement]]*, *[[sort Vol|vol]]*}
+{s:BDSorts|1/jour — *[[Convocation (capacité)|convocation]]* (niveau 6, 1 [[wihsaak]] 40%), *[[domination]]* (DD 20)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 23, **Con** 20, **Int** 15, **Sag** 16, **Cha** 21}
 {s:BDTexte|**BBA** +11 ; **BMO** +17 ; **DMD** 33}
-{s:BDTexte|**Dons** [Attaques multiples](./Attaques multiples.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Science du critique](./Science du critique.md) (griffes), [Science de l'initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +15, [Art de la magie](./Art de la magie.md) +10, [Bluff](./Bluff.md) +15, [Connaissances](./Connaissances.md) (plans, religion) +13, [Diplomatie](./Diplomatie.md) +15, [Discrétion](./Discrétion.md) +20, [Escalade](./Escalade.md) +16, [Intimidation](./Intimidation.md) +15, [Perception](./Perception.md) +13, [Psychologie](./Psychologie.md) +15}
-{s:BDTexte|**Langues** abyssal, céleste, commun, infernal ; [télépathie](./Télépathie (capacité).md) 30 m}
+{s:BDTexte|**Dons** [[Attaques multiples]], [[Attaques réflexes]], [[Combat en aveugle]], [[Science du critique]] (griffes), [[Science de linitiative|Science de l'initiative]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +15, [[Art de la magie]] +10, [[Bluff]] +15, [[Connaissances]] (plans, religion) +13, [[Diplomatie]] +15, [[Discrétion]] +20, [[Escalade]] +16, [[Intimidation]] +15, [[Perception]] +13, [[Psychologie]] +15}
+{s:BDTexte|**Langues** abyssal, céleste, commun, infernal ; [[Télépathie (capacité)|télépathie]] 30 m}
 {s:BDTexte|**Particularités** convocation facile, émotion dominante, bond entre les plans}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (plan Éthéré)}
 {s:BDTexte|**Organisation** solitaire, paire ou carré (3-7)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Attaque soudaine (Ext).** Une fois par round, une pakalchi peut, dans le cadre d’une attaque unique, étendre de 1,5 mètre l’allonge d’une de ses griffes ou d’une de ses lianes épineuses. Elle peut utiliser ce pouvoir pour menacer des cases supplémentaires et forcer un ennemi à provoquer une [attaque d’opportunité](./AO.md).}
-{s:BDTexte|**Épines (Ext).** Par une [action simple](./Action simple.md), une pakalchi peut projeter une volée d’épines empoisonnées (faites un [jet d'attaque](./jet dattaque.md) pour chaque épine). Cette attaque a une portée de 30 mètres et n’a pas de facteur de portée.}
-{s:BDTexte|**Poison (Ext).** Épines — blessure ; *JdS* [Vigueur](./Vigueur.md) DD 22 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d3 [Sagesse](./Sagesse.md) ; *guérison* 2 réussites consécutives. Une créature dont la valeur de Sagesse diminue à cause du poison d’une pakalchi entend des murmures paranoïaques qui l’avertissent de trahisons. Elle ne peut considérer aucune créature comme une alliée ou être la cible volontaire d’un sort ou d’un effet. Il s’agit d’un effet d’[émotion](./Registre.md).}
-{s:BDTexte|**Regard terrible (Sur).** Une créature affectée par le [regard](./sous-type sahkil.md) d’une pakalchi est [paniquée](./Paniqué.md) pendant 1 round et [secouée](./Secoué.md) pendant 1d4 rounds supplémentaires. Si elle réussit son jet de sauvegarde contre cet effet, la créature n’est secouée que pendant 1 round. Le DD du jet de sauvegarde est basé sur le Charisme.}
-{s:BDTexte|**Traîne enchevêtrante (Sur).** Les créatures adjacentes à une pakalchi doivent réussir un jet de [Réflexes](./Réflexes.md) DD 20 ou se trouver [enchevêtrées](./Enchevêtré.md) dans les lianes des plantes qui poussent sur elle pendant 1 round et être considérées comme [attachées](./lutte.md). Les créatures enchevêtrées subissent automatiquement des dégâts causés par les lianes pendant chaque round qu’elles passent enchevêtrées. Les créatures sont libérées de leur état d›enchevêtrement si la pakalchi s’éloigne. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Attaque soudaine (Ext).** Une fois par round, une pakalchi peut, dans le cadre d’une attaque unique, étendre de 1,5 mètre l’allonge d’une de ses griffes ou d’une de ses lianes épineuses. Elle peut utiliser ce pouvoir pour menacer des cases supplémentaires et forcer un ennemi à provoquer une [[AO|attaque d’opportunité]].}
+{s:BDTexte|**Épines (Ext).** Par une [[action simple]], une pakalchi peut projeter une volée d’épines empoisonnées (faites un [[jet dattaque|jet d'attaque]] pour chaque épine). Cette attaque a une portée de 30 mètres et n’a pas de facteur de portée.}
+{s:BDTexte|**Poison (Ext).** Épines — blessure ; *JdS* [[Vigueur]] DD 22 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3 [[Sagesse]] ; *guérison* 2 réussites consécutives. Une créature dont la valeur de Sagesse diminue à cause du poison d’une pakalchi entend des murmures paranoïaques qui l’avertissent de trahisons. Elle ne peut considérer aucune créature comme une alliée ou être la cible volontaire d’un sort ou d’un effet. Il s’agit d’un effet d’[[registre|émotion]].}
+{s:BDTexte|**Regard terrible (Sur).** Une créature affectée par le [[sous-type sahkil|regard]] d’une pakalchi est [[paniqué|paniquée]] pendant 1 round et [[secoué|secouée]] pendant 1d4 rounds supplémentaires. Si elle réussit son jet de sauvegarde contre cet effet, la créature n’est secouée que pendant 1 round. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|**Traîne enchevêtrante (Sur).** Les créatures adjacentes à une pakalchi doivent réussir un jet de [[Réflexes]] DD 20 ou se trouver [[enchevêtré|enchevêtrées]] dans les lianes des plantes qui poussent sur elle pendant 1 round et être considérées comme [[lutte|attachées]]. Les créatures enchevêtrées subissent automatiquement des dégâts causés par les lianes pendant chaque round qu’elles passent enchevêtrées. Les créatures sont libérées de leur état d›enchevêtrement si la pakalchi s’éloigne. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div></td>
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [sahkils](./Sahkil.md).***</li></ul>*Des plantes grimpantes épineuses et constellées de minuscules fleurs rouges poussent sur le corps de cette femme émaciée, formant une traîne derrière elle.*
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Sahkil|sahkils]].***</li></ul>*Des plantes grimpantes épineuses et constellées de minuscules fleurs rouges poussent sur le corps de cette femme émaciée, formant une traîne derrière elle.*
 
 Les pakalchis se nourrissent de la peur et de l’insécurité naissant des relations qui battent de l’aile. Elles prennent plaisir à voir les liens entre les individus se briser, car elles savent que les mortels qui ont été brisés ou isolés suite à de tels conflits sont plus sensibles à leur influence maléfique. Marionnettistes consommées, les pakalchis utilisent leur pouvoir de domination pour retourner les amis et les amants les uns contre les autres, appréciant la manière dont un simple mot peut provoquer une avalanche destructrice et comment les victimes paniquées se débattent, ne faisant qu’empirer la situation. Les pakalchis attirent alors les mortels découragés à leur côté et jouent au chat et à la souris, accroissant doucement la pression physique et psychologique jusqu’à ce que leur proie craque.
 

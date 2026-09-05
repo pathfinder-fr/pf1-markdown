@@ -4,11 +4,11 @@ Title: Chéa, Étudiante du déploiement des vents
 LastModified: 2021-02-24 16:40
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
-Après [Urok](./UrokInfiltrateurKobold.md), l'infiltrateur kobold, qui a été l'occasion de dévoiler l'héritage polyvalent des aphorites, voici un nouveau PNJ pour présenter d'autres aspects du livres *Lost Omens: Ancestry Guide*, à savoir un autre héritage polyvalent, celui de Bestial (beastkin), qui sera décrit après la présentation de Chéa.
+Après [[UrokInfiltrateurKobold|Urok]], l'infiltrateur kobold, qui a été l'occasion de dévoiler l'héritage polyvalent des aphorites, voici un nouveau PNJ pour présenter d'autres aspects du livres *Lost Omens: Ancestry Guide*, à savoir un autre héritage polyvalent, celui de Bestial (beastkin), qui sera décrit après la présentation de Chéa.
 
 ### Chéa, Étudiante du déploiement des vents
 

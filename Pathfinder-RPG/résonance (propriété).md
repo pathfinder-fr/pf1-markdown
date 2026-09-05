@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résonance
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résonance](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Résonance)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résonance]]

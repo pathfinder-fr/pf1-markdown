@@ -6,10 +6,10 @@ LastModified: 2015-11-20 00:57
 
 *La terre accueille l’oréade, lui révélant ses passages secrets dans le sable et dans la terre.*
 
-**Conditions.** [Fouisseur oréade](./Fouisseur oréade.md), [Semelle de pierre](./Semelle de pierre.md), niveau 13, [oréade](./Oréade (race).md).
+**Conditions.** [[Fouisseur oréade]], [[Semelle de pierre]], niveau 13, [[oréade (race)|oréade]].
 
 **Avantages.** L’oréade gagne le pouvoir universel de monstre
-[nage dans la terre](./Nage dans la terre (capacité).md) et peut l’utiliser pour traverser le sable, la
+[[Nage dans la terre (capacité)|nage dans la terre]] et peut l’utiliser pour traverser le sable, la
 terre, l’argile, le gravier ou autres matériaux similaires à sa
 vitesse maximale. S’il est protégé contre les dégâts de feu, il
 peut même traverser la lave. Il peut traverser la roche solide

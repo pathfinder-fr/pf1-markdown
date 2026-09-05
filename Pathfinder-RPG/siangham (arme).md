@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 3 po ; **Poids** 0,5 kg ; **Groupes** [armes de moine](./groupe darmes.md#Armesdemoine)
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** [moine](./Caractéristiques des armes.md#MOINE)
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+{s:AE}**Prix** 3 po ; **Poids** 0,5 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]]
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** [[Caractéristiques des armes#MOINE|moine]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
-Cette arme est un petit bâton portable pourvu d’une pointe acérée pour poignarder les ennemis. Elle ressemble à une [flèche](./Flèches (arme).md) (en beaucoup plus solide) avec un manche conçu pour le combat au corps à corps.
+Cette arme est un petit bâton portable pourvu d’une pointe acérée pour poignarder les ennemis. Elle ressemble à une [[flèches (arme)|flèche]] (en beaucoup plus solide) avec un manche conçu pour le combat au corps à corps.

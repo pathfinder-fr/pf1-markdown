@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Plante|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.25*}
 {s:BDTexte|**PX** 9.600}
-{s:BDTexte|[Plante](./type Plante.md) de taille TG, N}
-{s:BDTexte|**Init** +8 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Plante|Plante]] de taille TG, N}
+{s:BDTexte|**Init** +8 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 12, pris au dépourvu 18 (Dex +4, naturelle +10, taille -2)}
 {s:BDTexte|**pv** 149 (13d8+91)}
@@ -22,20 +22,20 @@ Categories:
 {s:BDTexte|**Immunités** effets mentaux, étourdissement, métamorphose, paralysie, poison, sommeil ; **Résistances** acide 20 }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c})}
-{s:BDTexte|**Corps à corps** 4 morsures +15 (1d8+7 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** 4 morsures +15 (1d8+7 et [[étreinte]])}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
 {s:BDTexte|**Attaques spéciales** enveloppement}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 18, **Con** 25, **Int** 1, **Sag** 12, **Cha** 6}
-{s:BDTexte|**BBA** +9, **BMO** +18 (+22 lutte), **DMD** 32 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +9 (+17 dans les broussailles), [Perception](./Perception.md) +10 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +8 dans les broussailles}
+{s:BDTexte|**BBA** +9, **BMO** +18 (+22 lutte), **DMD** 32 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Enchaînement]], [[Frappe décisive]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Discrétion]]), [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +9 (+17 dans les broussailles), [[Perception]] +10 ; **Modificateurs raciaux** [[Discrétion]] +8 dans les broussailles}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais tempérés}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou bosquet (3-6)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Enveloppement (Ext)** Si, au début du tour de l'attrape-mouches géant, une créature d'au moins deux catégories de tailles de moins que lui est [agrippé](./Agrippé.md) dans une de ses gueules, il peut refermer ses mâchoires tout autour d'elle en effectuant un nouveau test de [manoeuvre de combat](./Manœuvre offensive.md) (comme si elle tentait d'immobiliser sa victime). En cas de réussite, la proie, qui se retrouve enveloppée, subit 1d8+7 points de dégâts et 2d6 points de dégâts d'acide à cause des enzymes digestives qui remplissent peu à peu la cavité. Comme l'espace où la créature enveloppée se retrouve est hermétiquement fermée, elle risque de suffoquer. L'enveloppement est un cas particulier de l'[immobilisation](./Immobilisé.md) en lutte : on peut s'en libérer de la même manière qu'on s'extrait d'une [immobilisation](./Immobilisé.md) en lutte mais, comme la créature enveloppées est intégralement enfermée à l'intérieur des mâchoires de la plante, elle ne peut pas être la cible d'effets ou d'attaques qui requièrent une ligne de visée ou une ligne d'effet. Lorsqu'un attrape-mouches géant agrippe ou enveloppe un ennemi, il ne peut pas attaquer d'autres cibles avec l'attaque de morsure correspondante mais ne subit aucune autre pénalité.}
+{s:BDTexte|**Enveloppement (Ext)** Si, au début du tour de l'attrape-mouches géant, une créature d'au moins deux catégories de tailles de moins que lui est [[agrippé]] dans une de ses gueules, il peut refermer ses mâchoires tout autour d'elle en effectuant un nouveau test de [[manœuvre offensive|manoeuvre de combat]] (comme si elle tentait d'immobiliser sa victime). En cas de réussite, la proie, qui se retrouve enveloppée, subit 1d8+7 points de dégâts et 2d6 points de dégâts d'acide à cause des enzymes digestives qui remplissent peu à peu la cavité. Comme l'espace où la créature enveloppée se retrouve est hermétiquement fermée, elle risque de suffoquer. L'enveloppement est un cas particulier de l'[[immobilisé|immobilisation]] en lutte : on peut s'en libérer de la même manière qu'on s'extrait d'une [[immobilisé|immobilisation]] en lutte mais, comme la créature enveloppées est intégralement enfermée à l'intérieur des mâchoires de la plante, elle ne peut pas être la cible d'effets ou d'attaques qui requièrent une ligne de visée ou une ligne d'effet. Lorsqu'un attrape-mouches géant agrippe ou enveloppe un ennemi, il ne peut pas attaquer d'autres cibles avec l'attaque de morsure correspondante mais ne subit aucune autre pénalité.}
 </div>
 </td><td><div>*Ce gigantesque et horrible amas d’épines et de tiges comporte des parties mobiles qui se terminent par des mâchoires vertes acérées.*
 
@@ -79,7 +79,7 @@ géant et augmenter son bonus d’armure
 naturelle de +1 pour chaque attaque de morsure supplémentaire que vous lui donnez. Vous devrez accroître son FP de +1
 chaque fois que vous améliorez ses attaques et ses DV de la
 sorte. Si vous ajoutez plus de 3 ou 4 morsures (et donc
-plus de 6 ou 8 DV), consultez la [Table 1‑1 de la page 292](./Créer un monstre.md#TAB11) pour vous assurer que son
+plus de 6 ou 8 DV), consultez la [[Créer un monstre#TAB11|Table 1‑1 de la page 292]] pour vous assurer que son
 FP reste adéquat.
 
 Les tiges d’un attrape-mouches
@@ -96,7 +96,7 @@ pèse 4 500 kg.
 
 #### La Plante carnivore comme compagnon végétal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m (6 {s:c}), escalade 3 m (2 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d6) ; **Caractéristiques**  For 10, Dex 17, Con 15, Int 2, Sag 12, Cha 10 ; **Particularités**  [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m (6 {s:c}), escalade 3 m (2 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d6) ; **Caractéristiques**  For 10, Dex 17, Con 15, Int 2, Sag 12, Cha 10 ; **Particularités**  [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (2d6) ; **Attaque spéciale**  [rage de berseker](./Barbare.md#RAGEDEBERSERKER) (1/jour comme le pouvoir de [barbare](./Barbare.md) pendant 6 rounds) ; **Caractéristiques** For +4, Dex -2, Con +2.
+**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (2d6) ; **Attaque spéciale**  [[barbare#RAGEDEBERSERKER|rage de berseker]] (1/jour comme le pouvoir de [[barbare]] pendant 6 rounds) ; **Caractéristiques** For +4, Dex -2, Con +2.
 </div></td></tr></table>

@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Harse est l'un des villages sous la domination de [Korvosa](./Korvosa.md). Ce village doit sa renommée à ses chevaux et à son bétail qui sont célébrés chaque année par un grand rodéo. La traversé des rivières Sarwin et Faucon est grandement facilité par les bacs que l'on trouve près du village.
+Harse est l'un des villages sous la domination de [[Korvosa]]. Ce village doit sa renommée à ses chevaux et à son bétail qui sont célébrés chaque année par un grand rodéo. La traversé des rivières Sarwin et Faucon est grandement facilité par les bacs que l'on trouve près du village.

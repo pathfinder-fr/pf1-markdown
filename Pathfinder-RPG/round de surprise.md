@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Déroulement dun combat#ROUNDSURPRISE
 ---
 
->>> [Déroulement dun combat#ROUNDSURPRISE](./Déroulement dun combat.md#ROUNDSURPRISE)
+>>> [[Déroulement dun combat#ROUNDSURPRISE]]

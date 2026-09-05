@@ -15,25 +15,25 @@ Categories:
 ---
 
 {s:racial|Oréade (race)|oréades|Illustrations/PNJ/Oréade.jpg}{s:MR}
-**École** [Transmutation](./Transmutation.md)  <nowiki>[</nowiki>[terre](./Créer un sort.md#TERRE)<nowiki>]</nowiki> ;
-**Niveau** [Bard](./Barde.md) 3, [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Prê](./Prêtre.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3</br>
-**Temps d'incantation** 1 [round](./round.md)  
+**École** [[Transmutation]]  <nowiki>[</nowiki>[[Créer un sort#TERRE|terre]]<nowiki>]</nowiki> ;
+**Niveau** [[Barde|Bard]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Prêtre|Prê]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3</br>
+**Temps d'incantation** 1 [[round]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** [courte](./Présentation des sorts.md#PORTEE) (7,5 m + 1,5 m/2 niveau)  
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,5 m + 1,5 m/2 niveau)  
 
 **Effet** une nuée de pierres  
 
-**Durée** [concentration](./concentration.md) + 2 [rounds](./round.md)  
+**Durée** [[concentration]] + 2 [[round|rounds]]  
 
-**Jet de sauvegarde** [aucun](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** [Oui](./Résistance à la magie (capacité).md)
+**Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** [[Résistance à la magie (capacité)|Oui]]
 
 Le lanceur de sorts anime une zone de débris, de graviers ou autres
 petits cailloux, et crée une zone dangereuse de débris déferlant. Les
 débris animés occupent un espace de 3 mètres de côté et agissent
-comme une [nuée](./sous-type nuée.md), blessant (1d6 points de vie) et distrayant (DD 12)
-tout ce qui s’y trouve. Par une [action de mouvement](./Action de mouvement.md), le lanceur peut
+comme une [[sous-type nuée|nuée]], blessant (1d6 points de vie) et distrayant (DD 12)
+tout ce qui s’y trouve. Par une [[action de mouvement]], le lanceur peut
 diriger les débris, les déplaçant de 3 mètres maximum. Si les débris
-sont attaqués, ils sont considérés comme un objet animé de [taille M](./Petites et grandes créatures.md#TABLEAUDESTAILLES)
-ayant l’[archétype](./Archétypes.md) simple [jeune créature](./Archétypes.md#CREATUREJEUNE) et le [sous-type](./Sous-types de créatures.md) [nuée](./sous-type nuée.md).
+sont attaqués, ils sont considérés comme un objet animé de [[Petites et grandes créatures#TABLEAUDESTAILLES|taille M]]
+ayant l’[[Archétypes|archétype]] simple [[Archétypes#CREATUREJEUNE|jeune créature]] et le [[Sous-types de créatures|sous-type]] [[sous-type nuée|nuée]].

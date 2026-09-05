@@ -13,16 +13,16 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Inq](./Inquisiteur.md) 2, [Occ](./Occultiste.md) 3, [Rôd](./Rôdeur.md) 2  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une goutte de sang et une pincée de cannelle)  
+**Composantes** [[Composantes|V, G, M]] (une goutte de sang et une pincée de cannelle)  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** le lanceur de sorts  
 
-**Durée** 1 heure/[niveau](./niveau.md)
+**Durée** 1 heure/[[niveau]]
 
-Le personnage gagne l'aptitude [odorat](./odorat.md) et peut donc traquer une créature à l'odeur. Il reçoit un bonus de compétence de +8 aux tests de [Perception](./Perception.md) qui recourent à l'odorat et un bonus de compétence de +4 aux tests de [Survie](./Survie.md) pour suivre une piste à l'odeur. Il subit un malus de -4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les effets liés à l'odeur comme le pouvoir spécial de [puanteur](./Puanteur.md) et les *[nuages nauséabonds](./Nuage nauséabond.md)*. Une créature sous l'effet de *chien de chasse* peut détecter le [poison](./poison.md) à l'odeur si elle réussit un test de [Perception](./Perception.md) [DD](./DD.md) 20.
+Le personnage gagne l'aptitude [[odorat]] et peut donc traquer une créature à l'odeur. Il reçoit un bonus de compétence de +8 aux tests de [[Perception]] qui recourent à l'odorat et un bonus de compétence de +4 aux tests de [[Survie]] pour suivre une piste à l'odeur. Il subit un malus de -4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets liés à l'odeur comme le pouvoir spécial de [[puanteur]] et les *[[nuage nauséabond|nuages nauséabonds]]*. Une créature sous l'effet de *chien de chasse* peut détecter le [[poison]] à l'odeur si elle réussit un test de [[Perception]] [[DD]] 20.

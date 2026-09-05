@@ -16,29 +16,29 @@ Categories:
 | WIDTH="76%" | Résultat
 | WIDTH="2%" | FP
 |- Class="premier"
-| 01-10 || 1d3 [ettercaps](./../Pathfinder-RPG/Ettercap.md) || 4
+| 01-10 || 1d3 [[Pathfinder-RPG.Ettercap|ettercaps]] || 4
 |-
-| 11-20 || 1d3 [ours-hiboux](./../Pathfinder-RPG/Ours-hibou.md) || 4
+| 11-20 || 1d3 [[Pathfinder-RPG.Ours-hibou|ours-hiboux]] || 4
 |-
-| 21-30 || 1 [guenaude verte](./../Pathfinder-RPG/Guenaude verte.md) || 5
+| 21-30 || 1 [[Pathfinder-RPG.Guenaude verte|guenaude verte]] || 5
 |-
-| 31-50 || 3d4 [hobgobelins](./../Pathfinder-RPG/Hobgobelin.md) || 5
+| 31-50 || 3d4 [[Pathfinder-RPG.Hobgobelin|hobgobelins]] || 5
 |-
-| 51-54 || 1 [manticore](./../Pathfinder-RPG/Manticore.md) || 5
+| 51-54 || 1 [[Pathfinder-RPG.Manticore|manticore]] || 5
 |-
-| 55-70 || 2d6 [loups-garous](./../Pathfinder-RPG/Loup-garou.md) || 5
+| 55-70 || 2d6 [[Pathfinder-RPG.Loup-garou|loups-garous]] || 5
 |-
 | 71-74 || 1 drake caustique<sup>1</sup> || 6
 |-
-| 75 || Cercle (3 [guenaude verte](./../Pathfinder-RPG/Guenaude verte.md)) || 6
+| 75 || Cercle (3 [[Pathfinder-RPG.Guenaude verte|guenaude verte]]) || 6
 |-
-| 76 || 1 [sylvanien](./../Pathfinder-RPG/Sylvanien.md) || 8
+| 76 || 1 [[Pathfinder-RPG.Sylvanien|sylvanien]] || 8
 |-
-| 77-97 || Meute de loups (2d6 [loups](./../Pathfinder-RPG/Loup.md), 1d2 [loups sanguinaires](./../Pathfinder-RPG/Loup sanguinaire.md) et 1 [loup arctique](./../Pathfinder-RPG/Loup arctique.md)) || 8
+| 77-97 || Meute de loups (2d6 [[Pathfinder-RPG.Loup|loups]], 1d2 [[Pathfinder-RPG.Loup sanguinaire|loups sanguinaires]] et 1 [[Pathfinder-RPG.Loup arctique|loup arctique]]) || 8
 |-
 | 98-100 || 2d4 cadavres || —
 |- CLASS="note"
-| COLSPAN="3" | *(1) Utilisez les statistiques d'une [vouivre](./../Pathfinder-RPG/Vouivre.md); remplacez l'attaque de dard par la capacité de cracher une ligne d'acide à 9 m tous les 1d4 rounds (5d6 points de dégâts d'acide, Réflexes 1/2 dégâts).*
+| COLSPAN="3" | *(1) Utilisez les statistiques d'une [[Pathfinder-RPG.Vouivre|vouivre]]; remplacez l'attaque de dard par la capacité de cracher une ligne d'acide à 9 m tous les 1d4 rounds (5d6 points de dégâts d'acide, Réflexes 1/2 dégâts).*
 |}
 </div>
 <div style="border: 1px solid #4b3124; padding: 4px; width: 260px;">
@@ -49,41 +49,41 @@ Categories:
 | WIDTH="76%" | Résultat
 | WIDTH="2%" | FP
 |- Class="premier"
-| 1–4 || 1 [forlarren](./../Pathfinder-RPG/Forlarren.md) || 2
+| 1–4 || 1 [[Pathfinder-RPG.Forlarren|forlarren]] || 2
 |-
-| 5–11 || 1 [défenseur des cavernes](./Pathfinder-RPG-PNJ-Défenseur-des-cavernes.md) || 4
+| 5–11 || 1 [[Pathfinder-RPG.PNJ Défenseur des cavernes|défenseur des cavernes]] || 4
 |-
-| 12–24 || 1d4+2 [nécrophages](./../Pathfinder-RPG/Nécrophage.md) || 4
+| 12–24 || 1d4+2 [[Pathfinder-RPG.Nécrophage|nécrophages]] || 4
 |-
 | 25–33 || 2 [fellsigs](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fellsig) || 5
 |-
-| 34–42 || 2 [Lumber Consortium enforcers](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Lumber Consortium Enforcer) || 5
+| 34–42 || 2 [Lumber Consortium enforcers](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Lumber%20Consortium%20Enforcer) || 5
 |-
-| 43–50 || 1d4+2 [Eagle Knights](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Eagle Knight) || 6
+| 43–50 || 1d4+2 [Eagle Knights](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Eagle%20Knight) || 6
 |-
-| 51–62 || 2 [sawdust sloughs](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Sawdust Slough) || 6
+| 51–62 || 2 [sawdust sloughs](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Sawdust%20Slough) || 6
 |-
-| 63–75 || 1d6+2 [hommes-brindilles](./../Pathfinder-RPG/Homme-brindille.md) || 7
+| 63–75 || 1d6+2 [[Pathfinder-RPG.Homme-brindille|hommes-brindilles]] || 7
 |-
-| 76–80 || 2 [chapeaux rouges](./../Pathfinder-RPG/Chapeau rouge.md) || 8
+| 76–80 || 2 [[Pathfinder-RPG.Chapeau rouge|chapeaux rouges]] || 8
 |-
-| 81–84 || 2 [tendricules](./../Pathfinder-RPG/Tendricule.md) || 8
+| 81–84 || 2 [[Pathfinder-RPG.Tendricule|tendricules]] || 8
 |-
-| 85–90 || Troupe de ragewight (1 [ragewight](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Ragewight), 1d4+1 [nécrophages des glaces](./../Pathfinder-RPG/Nécrophage des glaces.md)) || 9
+| 85–90 || Troupe de ragewight (1 [ragewight](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Ragewight), 1d4+1 [[Pathfinder-RPG.Nécrophage des glaces|nécrophages des glaces]]) || 9
 |-
-| 91–97 || 1 [nuée de tiques](./../Pathfinder-RPG/Nuée de tiques.md) || 9
+| 91–97 || 1 [[Pathfinder-RPG.Nuée de tiques|nuée de tiques]] || 9
 |-
-| 98–100 || 1 [Candlestone courtier](https://aonprd.com/MonsterDisplay.aspx?ItemName=Candlestone Courtier) || 12
+| 98–100 || 1 [Candlestone courtier](https://aonprd.com/MonsterDisplay.aspx?ItemName=Candlestone%20Courtier) || 12
 |}
-</div></div>Les vieux pins et sapins de la forêt d'Arthfell constituent l'une des régions boisées les plus tristement célèbres de la nation [andorane](./Andoran.md). Connue pour ses cabales druidiques, ses groupes de loups-garous menaçants et d'autres dangers, Arthfell est rarement traversée, bien que la civilisation empiète toujours sur ses frontières.<sup>(1)</sup> La région de l'Andoran connue sous le nom d'[Arthfell](./Arthfell.md) tire son nom de cette forêt.<sup>(2)</sup>
+</div></div>Les vieux pins et sapins de la forêt d'Arthfell constituent l'une des régions boisées les plus tristement célèbres de la nation [[Andoran|andorane]]. Connue pour ses cabales druidiques, ses groupes de loups-garous menaçants et d'autres dangers, Arthfell est rarement traversée, bien que la civilisation empiète toujours sur ses frontières.<sup>(1)</sup> La région de l'Andoran connue sous le nom d'[[Arthfell]] tire son nom de cette forêt.<sup>(2)</sup>
 
 #### Géographie
-La forêt d'Arthfell couvre l'ouest d'Andoran entre la plaine de Sombrelune au nord, les sommets des [montagnes d'Arthfell](./Montagnes-dArthfell.md) et les [pics de Norgotha](./pics-de-Norgotha.md) à l'est, et les plaines fertiles de l'[Andoran](./Andoran.md) à l'ouest et au sud. Elle est composé en grande partie de pin blanc, de pin à sucre et de sapins énormes, et mesure moins de 480 kilomètress de longueur de sa pointe sud-ouest à sa pointe nord-est, et rarement plus de 80 kilomètres de largeur. La forêt n'abrite pas de communauté humaine majeure, et la canopée sombre des arbres obscurcit beaucoup l'intérieur de la forêt'Arthfell, ne faisant qu'augmenter son apparence dangereuse et mystérieuse.<sup>(3)</sup><sup>(4)</sup>
+La forêt d'Arthfell couvre l'ouest d'Andoran entre la plaine de Sombrelune au nord, les sommets des [[Montagnes dArthfell|montagnes d'Arthfell]] et les [[pics de Norgotha]] à l'est, et les plaines fertiles de l'[[Andoran]] à l'ouest et au sud. Elle est composé en grande partie de pin blanc, de pin à sucre et de sapins énormes, et mesure moins de 480 kilomètress de longueur de sa pointe sud-ouest à sa pointe nord-est, et rarement plus de 80 kilomètres de largeur. La forêt n'abrite pas de communauté humaine majeure, et la canopée sombre des arbres obscurcit beaucoup l'intérieur de la forêt'Arthfell, ne faisant qu'augmenter son apparence dangereuse et mystérieuse.<sup>(3)</sup><sup>(4)</sup>
 
 #### Histoire
-La forêt était autrefois beaucoup plus grande, s'étendant du bord des [Montagnes des Cinq Rois](./Montagnes-des-Cinq-Rois.md) au nord jusqu'à la côte sud de l'[Andoran](./Andoran.md). Après la fondation de l'Andoran en tant que province la plus occidentale de l'empire du [Taldor](./Taldor.md) en 1707 AR, une forte exploitation forestière a commencé dans le sud de la forêt d'Arthfell pour alimenter les chantiers navals d'[Augustana](./Augustana.md). Même si les activités d'exploitation forestière dans la forêt ont augmenté et diminué au cours des deux derniers millénaires en raison de changements dans la politique et la demande du gouvernement, la forêt d'Arthfell a été un élément vital de l'Andoran pendant très longtemps.<sup>(4)</sup><sup>(5)</sup> La majeure partie de l'exploitation forestière dans la forêt d'Arthfell est désormais supervisée par l'immoral [Consortium du Bois](./Consortium du Bois.md), qui a réussi à déboiser un tiers de la forêt.<sup>(4)</sup>
+La forêt était autrefois beaucoup plus grande, s'étendant du bord des [[Montagnes des Cinq Rois]] au nord jusqu'à la côte sud de l'[[Andoran]]. Après la fondation de l'Andoran en tant que province la plus occidentale de l'empire du [[Taldor]] en 1707 AR, une forte exploitation forestière a commencé dans le sud de la forêt d'Arthfell pour alimenter les chantiers navals d'[[Augustana]]. Même si les activités d'exploitation forestière dans la forêt ont augmenté et diminué au cours des deux derniers millénaires en raison de changements dans la politique et la demande du gouvernement, la forêt d'Arthfell a été un élément vital de l'Andoran pendant très longtemps.<sup>(4)</sup><sup>(5)</sup> La majeure partie de l'exploitation forestière dans la forêt d'Arthfell est désormais supervisée par l'immoral [[Consortium du Bois]], qui a réussi à déboiser un tiers de la forêt.<sup>(4)</sup>
 
-Aujourd'hui, la forêt d'Arthfell est le théâtre de conflits fréquents entre les bûcherons approvisionnant les chantiers navals d'[Augustana](./Augustana.md) en bois d'œuvre et les différents défenseurs de la forêt, comme l'archidruide bestial connu sous le nom de Cerf Sanglant.<sup>(3)</sup><sup>(6)</sup>
+Aujourd'hui, la forêt d'Arthfell est le théâtre de conflits fréquents entre les bûcherons approvisionnant les chantiers navals d'[[Augustana]] en bois d'œuvre et les différents défenseurs de la forêt, comme l'archidruide bestial connu sous le nom de Cerf Sanglant.<sup>(3)</sup><sup>(6)</sup>
 
 ### Références
 **1.** Mike McArtor dans *[Guide to Darkmoon Vale](https://paizo.com/products/btpy83yv)* en 2008, p. 7. Paizo inc. ; **VF** *[Recueil du Val de Sombrelune](https://www.black-book-editions.fr/produit.php?id=84)*, p.9

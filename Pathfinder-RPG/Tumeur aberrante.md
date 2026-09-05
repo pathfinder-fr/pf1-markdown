@@ -10,6 +10,6 @@ Categories:
 
 {s:mca} *À la grande surprise des autres, l’étrange excroissance que présente le personnage est en réalité son partenaire d’incantation.*
 
-**Conditions.** [Lignage aberrant](./lignage Aberrant.md).
+**Conditions.** [[Lignage aberrant]].
 
-**Avantage.** Le personnage gagne un familier-tumeur, comme la découverte [familier tumeur](./découvertes.md#FAMILIERTUMEUR) de l’[alchimiste](./Alchimiste.md). Quand il s’agit de déterminer les pouvoirs du familier-tumeur, le niveau effectif d’alchimiste du personnage est égal au niveau de la classe qui lui accorde son lignage aberrant. Si plusieurs classes donnent au personnage son lignage aberrant, ces niveaux de classe se cumulent pour le calcul de son niveau effectif d’alchimiste.
+**Avantage.** Le personnage gagne un familier-tumeur, comme la découverte [[découvertes#FAMILIERTUMEUR|familier tumeur]] de l’[[alchimiste]]. Quand il s’agit de déterminer les pouvoirs du familier-tumeur, le niveau effectif d’alchimiste du personnage est égal au niveau de la classe qui lui accorde son lignage aberrant. Si plusieurs classes donnent au personnage son lignage aberrant, ces niveaux de classe se cumulent pour le calcul de son niveau effectif d’alchimiste.

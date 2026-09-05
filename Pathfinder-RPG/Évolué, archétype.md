@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Archétypes#CREATUREEVOLUEE
 ---
 
->>> [Archétypes#CREATUREEVOLUEE](./Archétypes.md#CREATUREEVOLUEE)
+>>> [[Archétypes#CREATUREEVOLUEE]]

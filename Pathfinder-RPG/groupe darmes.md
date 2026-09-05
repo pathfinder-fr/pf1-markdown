@@ -10,99 +10,99 @@ Categories:
 {s:MenuClasses}
 {s:AE}En ce qui concerne la capacité de classe du guerrier entraînement aux armes, les groupes d’armes sont définis comme suit (le MJ peut rajouter des armes à ces groupes ou créer de nouveaux groupes).
 
-''Les armes marquées d’un astérisque (*) sont des [armes orientales](./Armes orientales.md).
-Les armes marquées de deux astérisques (**) sont des [armes primitives](./Armes et armures primitives.md).''
+''Les armes marquées d’un astérisque (*) sont des [[armes orientales]].
+Les armes marquées de deux astérisques (**) sont des [[armes et armures primitives|armes primitives]].''
 
 <table width="100%"><tr><td width="49%">
 {s:Reference|Arbalètes}
 #### Arbalètes
-**Courantes.** [arbalète légère](./Arbalète légère (arme).md), [arbalète légère sous-marine](./Arbalète légère sous-marine (arme).md), [arbalète lourde](./Arbalète lourde (arme).md) et [arbalète lourde sous-marine](./Arbalète lourde sous-marine (arme).md).
-**De guerre.** [lance-flèche](./lance-flèche (arme).md).
-**Exotiques.** [arbalète de lancer](./Arbalète de lancer (arme).md), [arbalète de poing](./Arbalète de poing (arme).md), [arbalète de poing à répétition](./Arbalète de poing à répétition (arme).md), [arbalète légère à répétition](./Arbalète légère à répétition (arme).md) et [arbalète lourde à répétition](./arbalète lourde à répétition (arme).md), [double arbalète](./Double arbalète (arme).md).
+**Courantes.** [[arbalète légère (arme)|arbalète légère]], [[arbalète légère sous-marine (arme)|arbalète légère sous-marine]], [[arbalète lourde (arme)|arbalète lourde]] et [[arbalète lourde sous-marine (arme)|arbalète lourde sous-marine]].
+**De guerre.** [[lance-flèche (arme)|lance-flèche]].
+**Exotiques.** [[arbalète de lancer (arme)|arbalète de lancer]], [[arbalète de poing (arme)|arbalète de poing]], [[arbalète de poing à répétition (arme)|arbalète de poing à répétition]], [[arbalète légère à répétition (arme)|arbalète légère à répétition]] et [[arbalète lourde à répétition (arme)|arbalète lourde à répétition]], [[double arbalète (arme)|double arbalète]].
 
 {s:Reference|Arcs}
 #### Arcs
 **Courantes.** —.
-**De guerre.** [arc court composite](./arc court composite (arme).md), [arc court](./Arc court (arme).md), [arc long](./Arc long (arme).md), [arc long composite](./arc long composite (arme).md).
+**De guerre.** [[arc court composite (arme)|arc court composite]], [[arc court (arme)|arc court]], [[arc long (arme)|arc long]], [[arc long composite (arme)|arc long composite]].
 **Exotiques.** —.
 
 {s:Reference|Armesàfeu}
 #### Armes à feu
-Toutes les [armes à feu](./Armes à feu.md) à une main, à deux mains et de siège.
+Toutes les [[armes à feu]] à une main, à deux mains et de siège.
 
 {s:Reference|Armesdhast}
 #### Armes d'hast
 **Courantes.** —.
-**De guerre.** [bardiche](./Bardiche (arme).md), [bec de corbin](./Bec de corbin (arme).md), [corsèque](./Corsèque (arme).md), [coupecheval](./Coupecheval (arme).md), [coutille](./Coutille (arme).md), [crochet ogre](./Crochet ogre (arme).md), [fourche du tigre](./fourche du tigre (arme).md)*, [getsugasan](./getsugasan (arme).md)*, [glaive-guisarme](./Glaive-guisarme (arme).md), [guisarme](./Guisarme (arme).md), [hallebarde](./Hallebarde (arme).md), [lance crochue](./lance crochue (arme).md)*, [marteau de Lucerne](./Marteau de lucerne (arme).md), [naginata](./naginata (arme).md)*, [nodachi](./nodachi (arme).md)*, [vouge](./vouge (arme).md).
-**Exotiques.** [happe-vilain](./Happe-vilain (arme).md).
+**De guerre.** [[bardiche (arme)|bardiche]], [[bec de corbin (arme)|bec de corbin]], [[corsèque (arme)|corsèque]], [[coupecheval (arme)|coupecheval]], [[coutille (arme)|coutille]], [[crochet ogre (arme)|crochet ogre]], [[fourche du tigre (arme)|fourche du tigre]]*, [[getsugasan (arme)|getsugasan]]*, [[glaive-guisarme (arme)|glaive-guisarme]], [[guisarme (arme)|guisarme]], [[hallebarde (arme)|hallebarde]], [[lance crochue (arme)|lance crochue]]*, [[marteau de Lucerne (arme)|marteau de Lucerne]], [[naginata (arme)|naginata]]*, [[nodachi (arme)|nodachi]]*, [[vouge (arme)|vouge]].
+**Exotiques.** [[happe-vilain (arme)|happe-vilain]].
 
 {s:Reference|Armesdecombatrapproché}
 #### Armes de combat rapproché
-**Courantes.** [baïonnette](./baïonnette (arme).md), [coup-de-poing](./Coup-de-poing (arme).md), [dague coup-de-poing](./dague coup-de-poing (arme).md), [gantelet](./Gantelet (arme).md), [gantelet clouté](./Gantelet clouté (arme).md), [gourdin mere](./gourdin mere (arme).md)**, [mains nues](./mains nues (arme).md), [pieu de bois](./pieu de bois (arme).md).
-**De guerre.** [écu](./écu (arme).md), [fléchette wushu](./fléchette wushu (arme).md)*, [klar](./klar (arme).md), [matraque](./matraque (arme).md), [pinceau de fer](./pinceau de fer (arme).md)*, [armure à pointes](./armure à pointes (arme).md), [écu](./écu (arme).md), [écu à pointes](./Écu à pointes (arme).md), [rondache](./rondache (arme).md), [rondache à pointes](./Rondache à pointes (arme).md), [scizore](./scizore (arme).md), [tonfa](./tonfa (arme).md).
-**Exotiques.** [dan bong](./dan bong (arme).md)*, [emeici](./emeici (arme).md)*, [éventail de combat](./éventail de combat (arme).md)*, [gantelet de corde](./Gantelet de corde (arme).md), [madu](./madu (arme).md), [tekko-kagi](./tekko-kagi (arme).md).
+**Courantes.** [[baïonnette (arme)|baïonnette]], [[coup-de-poing (arme)|coup-de-poing]], [[dague coup-de-poing (arme)|dague coup-de-poing]], [[gantelet (arme)|gantelet]], [[gantelet clouté (arme)|gantelet clouté]], [[gourdin mere (arme)|gourdin mere]]**, [[mains nues (arme)|mains nues]], [[pieu de bois (arme)|pieu de bois]].
+**De guerre.** [[écu (arme)|écu]], [[fléchette wushu (arme)|fléchette wushu]]*, [[klar (arme)|klar]], [[matraque (arme)|matraque]], [[pinceau de fer (arme)|pinceau de fer]]*, [[armure à pointes (arme)|armure à pointes]], [[écu (arme)|écu]], [[écu à pointes (arme)|écu à pointes]], [[rondache (arme)|rondache]], [[rondache à pointes (arme)|rondache à pointes]], [[scizore (arme)|scizore]], [[tonfa (arme)|tonfa]].
+**Exotiques.** [[dan bong (arme)|dan bong]]*, [[emeici (arme)|emeici]]*, [[éventail de combat (arme)|éventail de combat]]*, [[gantelet de corde (arme)|gantelet de corde]], [[madu (arme)|madu]], [[tekko-kagi (arme)|tekko-kagi]].
 
 {s:Reference|Armesdejet}
 #### Armes de jet
-**Courantes.** [dague](./dague (arme).md), [épieu](./épieu (arme).md), [fléchette](./fléchette (arme).md), [fronde](./fronde (arme).md), [gourdin](./gourdin (arme).md), [javeline](./javeline (arme).md), [lance](./lance (arme).md).
-**De guerre.** [amentum](./amentum (arme).md), [atlatl](./atlatl (arme).md)**, [chakram](./chakram (arme).md)*, [fléchette wushu](./fléchette wushu (arme).md)*, [hache de lancer](./hache de lancer (arme).md), [hunga munga](./hunga munga (arme).md), [lamétoile](./lamétoile (arme).md), [marteau léger](./marteau léger (arme).md), [pilum](./pilum (arme).md), [sable empoisonné](./sable empoisonné (arme).md)*, [sibat](./sibat (arme).md)*, [trident](./trident (arme).md).
-**Exotiques.** [aklys](./aklys (arme).md), [bolas](./bolas (arme).md), [boomerang](./boomerang (arme).md), [bouclier de lancer](./bouclier de lancer (arme).md), [filet](./filet (arme).md), [filet piégeur](./filet piégeur (arme).md), [fustibale halfelin](./fustibale halfelin (arme).md), [gant-fronde](./Gant-fronde (arme).md), [harpon](./harpon (arme).md), [kestros](./kestros (arme).md)**, [lasso](./lasso (arme).md), [sarbacane](./sarbacane (arme).md), [sheng biao](./sheng biao (arme).md)*, [shurikens](./Shurikens (arme).md)*.
+**Courantes.** [[dague (arme)|dague]], [[épieu (arme)|épieu]], [[fléchette (arme)|fléchette]], [[fronde (arme)|fronde]], [[gourdin (arme)|gourdin]], [[javeline (arme)|javeline]], [[lance (arme)|lance]].
+**De guerre.** [[amentum (arme)|amentum]], [[atlatl (arme)|atlatl]]**, [[chakram (arme)|chakram]]*, [[fléchette wushu (arme)|fléchette wushu]]*, [[hache de lancer (arme)|hache de lancer]], [[hunga munga (arme)|hunga munga]], [[lamétoile (arme)|lamétoile]], [[marteau léger (arme)|marteau léger]], [[pilum (arme)|pilum]], [[sable empoisonné (arme)|sable empoisonné]]*, [[sibat (arme)|sibat]]*, [[trident (arme)|trident]].
+**Exotiques.** [[aklys (arme)|aklys]], [[bolas (arme)|bolas]], [[boomerang (arme)|boomerang]], [[bouclier de lancer (arme)|bouclier de lancer]], [[filet (arme)|filet]], [[filet piégeur (arme)|filet piégeur]], [[fustibale halfelin (arme)|fustibale halfelin]], [[gant-fronde (arme)|gant-fronde]], [[harpon (arme)|harpon]], [[kestros (arme)|kestros]]**, [[lasso (arme)|lasso]], [[sarbacane (arme)|sarbacane]], [[sheng biao (arme)|sheng biao]]*, [[shurikens (arme)|shurikens]]*.
 
 {s:Reference|Armesdemoine}
 #### Armes de moine
-**Courantes.** [bâton](./bâton (arme).md), [ceste](./ceste (arme).md), [coup-de-poing](./Coup-de-poing (arme).md), [hanbo](./Hanbo (arme).md), [mains nues](./mains nues (arme).md).
-**De guerre.** [couteau papillon](./couteau papillon (arme).md)*, [épée à neuf anneaux](./épée à neuf anneaux (arme).md)*, [épée à triple pointe et double tranchant](./épée à triple pointe et double tranchant (arme).md)*, [fléchette wushu](./fléchette wushu (arme).md)*, [lungchuan tamo](./lungchuan tamo (arme).md)*, [sabre double ergot de poulet](./sabre double ergot de poulet (arme).md)*, [sansetsukon](./sansetsukon (arme).md)*, [shang gou](./shang gou (arme).md)*, [tonfa](./tonfa (arme).md)*.
-**Exotiques.** [bô](./bô (arme).md)*, [chaîne à deux kamas](./chaîne à deux kamas (arme).md)*, [dan bong](./dan bong (arme).md)*, [emeici](./emeici (arme).md)*, [épée à sept branches](./épée à sept branches (arme).md)*, [éventail de combat](./éventail de combat (arme).md)*, [fouet en neuf parties](./fouet en neuf parties (arme).md)*, [fourche du tigre](./fourche du tigre (arme).md)*, [getsugasan](./getsugasan (arme).md)*, [jitte](./jitte (arme).md)*, [kama](./kama (arme).md)*, [kusarigama](./kusarigama (arme).md)*, [kyoketsu shoge](./kyoketsu shoge (arme).md)*, [nunchaku](./nunchaku (arme).md)*, [saï](./Saï (arme).md)*, [sheng biao](./sheng biao (arme).md)*, [shurikens](./Shurikens (arme).md)*, [siangham](./siangham (arme).md)*, [urumi](./urumi (arme).md)*.
+**Courantes.** [[bâton (arme)|bâton]], [[ceste (arme)|ceste]], [[coup-de-poing (arme)|coup-de-poing]], [[hanbo (arme)|hanbo]], [[mains nues (arme)|mains nues]].
+**De guerre.** [[couteau papillon (arme)|couteau papillon]]*, [[épée à neuf anneaux (arme)|épée à neuf anneaux]]*, [[épée à triple pointe et double tranchant (arme)|épée à triple pointe et double tranchant]]*, [[fléchette wushu (arme)|fléchette wushu]]*, [[lungchuan tamo (arme)|lungchuan tamo]]*, [[sabre double ergot de poulet (arme)|sabre double ergot de poulet]]*, [[sansetsukon (arme)|sansetsukon]]*, [[shang gou (arme)|shang gou]]*, [[tonfa (arme)|tonfa]]*.
+**Exotiques.** [[bô (arme)|bô]]*, [[chaîne à deux kamas (arme)|chaîne à deux kamas]]*, [[dan bong (arme)|dan bong]]*, [[emeici (arme)|emeici]]*, [[épée à sept branches (arme)|épée à sept branches]]*, [[éventail de combat (arme)|éventail de combat]]*, [[fouet en neuf parties (arme)|fouet en neuf parties]]*, [[fourche du tigre (arme)|fourche du tigre]]*, [[getsugasan (arme)|getsugasan]]*, [[jitte (arme)|jitte]]*, [[kama (arme)|kama]]*, [[kusarigama (arme)|kusarigama]]*, [[kyoketsu shoge (arme)|kyoketsu shoge]]*, [[nunchaku (arme)|nunchaku]]*, [[saï (arme)|saï]]*, [[sheng biao (arme)|sheng biao]]*, [[shurikens (arme)|shurikens]]*, [[siangham (arme)|siangham]]*, [[urumi (arme)|urumi]]*.
 
 {s:Reference|Armesdoubles}
 #### Armes doubles
-**Courantes.** [bâton](./bâton (arme).md).
-**De guerre.** [getsugasan](./getsugasan (arme).md)*, .
-**Exotiques.** [bâton aux deux katanas](./bâton aux deux katanas (arme).md)*, [bô](./bô (arme).md)*, [chaîne à deux kamas](./chaîne à deux kamas (arme).md)*, [double lame](./double lame (arme).md), [fléau double](./Fléau double (arme).md), [hache double orque](./hache double orque (arme).md), [kusarigama](./kusarigama (arme).md)*, [lance à chaîne](./lance à chaîne (arme).md), [marteau-piolet gnome](./marteau-piolet gnome (arme).md), [taiaha](./taiaha (arme).md)**, [urgrosh nain](./urgrosh nain (arme).md).
+**Courantes.** [[bâton (arme)|bâton]].
+**De guerre.** [[getsugasan (arme)|getsugasan]]*, .
+**Exotiques.** [[bâton aux deux katanas (arme)|bâton aux deux katanas]]*, [[bô (arme)|bô]]*, [[chaîne à deux kamas (arme)|chaîne à deux kamas]]*, [[double lame (arme)|double lame]], [[fléau double (arme)|fléau double]], [[hache double orque (arme)|hache double orque]], [[kusarigama (arme)|kusarigama]]*, [[lance à chaîne (arme)|lance à chaîne]], [[marteau-piolet gnome (arme)|marteau-piolet gnome]], [[taiaha (arme)|taiaha]]**, [[urgrosh nain (arme)|urgrosh nain]].
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 {s:Reference|Armesnaturelles}
 #### Armes naturelles
-[Mains nues](./mains nues (arme).md) et toutes les [armes naturelles](./attaques naturelles.md) comme la morsure, les griffes, les cornes, la queue et les ailes.
+[[mains nues (arme)|Mains nues]] et toutes les [[attaques naturelles|armes naturelles]] comme la morsure, les griffes, les cornes, la queue et les ailes.
 
 {s:Reference|Enginsdesiège}
 #### Engins de siège
-Baliste, bélier, bombarde, catapulte, corbeau, dragon de feu, drake de feu, galerie, onagre, tour de siège, trébuchet et tous les autres [engins de siège](./Engins de siège.md).
+Baliste, bélier, bombarde, catapulte, corbeau, dragon de feu, drake de feu, galerie, onagre, tour de siège, trébuchet et tous les autres [[engins de siège]].
 
 {s:Reference|Fléaux}
 #### Fléaux
-**Courantes.** [morgenstern](./morgenstern (arme).md).
-**De guerre.** [fléau d’armes léger](./Fléau darmes léger (arme).md), [fléau d’armes lourd](./Fléau darmes lourd (arme).md), [sansetsukon](./sansetsukon (arme).md)*.
-**Exotiques.** [Chaîne à deux kamas](./chaîne à deux kamas (arme).md)*, [chaîne cloutée](./chaîne cloutée (arme).md)*, [fléau double](./Fléau double (arme).md), [fouet](./fouet (arme).md), [fouet en neuf parties](./fouet en neuf parties (arme).md)*, [fouet scorpion](./fouet scorpion (arme).md), [kusarigama](./kusarigama (arme).md)*, [kyoketsu shoge](./kyoketsu shoge (arme).md)*, [lame volante](./lame volante (arme).md), [lance à chaîne](./lance à chaîne (arme).md), [marteau météore](./marteau météore (arme).md)*, [nunchaku](./nunchaku (arme).md)*, [poïs de guerre](./Poïs de guerre (arme).md), [urumi](./urumi (arme).md).
+**Courantes.** [[morgenstern (arme)|morgenstern]].
+**De guerre.** [[fléau darmes léger (arme)|fléau d’armes léger]], [[fléau darmes lourd (arme)|fléau d’armes lourd]], [[sansetsukon (arme)|sansetsukon]]*.
+**Exotiques.** [[chaîne à deux kamas (arme)|Chaîne à deux kamas]]*, [[chaîne cloutée (arme)|chaîne cloutée]]*, [[fléau double (arme)|fléau double]], [[fouet (arme)|fouet]], [[fouet en neuf parties (arme)|fouet en neuf parties]]*, [[fouet scorpion (arme)|fouet scorpion]], [[kusarigama (arme)|kusarigama]]*, [[kyoketsu shoge (arme)|kyoketsu shoge]]*, [[lame volante (arme)|lame volante]], [[lance à chaîne (arme)|lance à chaîne]], [[marteau météore (arme)|marteau météore]]*, [[nunchaku (arme)|nunchaku]]*, [[poïs de guerre (arme)|poïs de guerre]], [[urumi (arme)|urumi]].
 
 {s:Reference|Haches}
 #### Haches
 **Courantes.** —.
-**De guerre.** [bardiche](./Bardiche (arme).md), [grande hache](./Grande hache (arme).md), [hache d’armes](./Hache darmes (arme).md), [hache de lancer](./hache de lancer (arme).md), [hachette](./hachette (arme).md), [mattock](./mattock (arme).md)**, [pic de guerre léger](./pic de guerre léger (arme).md), [pic de guerre lourd](./pic de guerre lourd (arme).md).
-**Exotiques.** [hache crochue](./Hache crochue (arme).md), [hache d'armes naine](./Hache darmes naine (arme).md), [hache de poing](./hache de poing (arme).md), [hache double orque](./hache double orque (arme).md), [pata](./pata (arme).md).
+**De guerre.** [[bardiche (arme)|bardiche]], [[grande hache (arme)|grande hache]], [[hache darmes (arme)|hache d’armes]], [[hache de lancer (arme)|hache de lancer]], [[hachette (arme)|hachette]], [[mattock (arme)|mattock]]**, [[pic de guerre léger (arme)|pic de guerre léger]], [[pic de guerre lourd (arme)|pic de guerre lourd]].
+**Exotiques.** [[hache crochue (arme)|hache crochue]], [[hache darmes naine (arme)|hache d'armes naine]], [[hache de poing (arme)|hache de poing]], [[hache double orque (arme)|hache double orque]], [[pata (arme)|pata]].
 
 {s:Reference|Lameslégères}
 #### Lames légères
-**Courantes.** [baïonnette](./baïonnette (arme).md), [dague](./dague (arme).md), [épée courte](./épée courte (arme).md), [serpe](./serpe (arme).md).
-**De guerre.** [canne épée](./canne épée (arme).md), [couteau papillon](./couteau papillon (arme).md)*, [gladius](./gladius (arme).md), [hunga munga](./hunga munga (arme).md), [kérambit](./kérambit (arme).md)*, [kukri](./kukri (arme).md), [lamétoile](./lamétoile (arme).md), [rapière](./rapière (arme).md), [rasoir de combat](./rasoir de combat (arme).md), [tranchechien](./tranchechien (arme).md).
-**Exotiques.** [dague brise-épée](./dague brise-épée (arme).md), [kama](./kama (arme).md)*, [pata](./pata (arme).md), [quadrens](./quadrens (arme).md), [sica](./sica (arme).md), [wakizashi](./wakizashi (arme).md)*.
+**Courantes.** [[baïonnette (arme)|baïonnette]], [[dague (arme)|dague]], [[épée courte (arme)|épée courte]], [[serpe (arme)|serpe]].
+**De guerre.** [[canne épée (arme)|canne épée]], [[couteau papillon (arme)|couteau papillon]]*, [[gladius (arme)|gladius]], [[hunga munga (arme)|hunga munga]], [[kérambit (arme)|kérambit]]*, [[kukri (arme)|kukri]], [[lamétoile (arme)|lamétoile]], [[rapière (arme)|rapière]], [[Rasoir de combat (arme)|rasoir de combat]], [[tranchechien (arme)|tranchechien]].
+**Exotiques.** [[dague brise-épée (arme)|dague brise-épée]], [[kama (arme)|kama]]*, [[pata (arme)|pata]], [[quadrens (arme)|quadrens]], [[sica (arme)|sica]], [[wakizashi (arme)|wakizashi]]*.
 
 {s:Reference|Lameslourdes}
 #### Lames lourdes
 **Courantes.** —.
-**De guerre.** [chakram](./chakram (arme).md)*, [cimeterre](./cimeterre (arme).md), [cimeterre à deux mains](./cimeterre à deux mains (arme).md), [épée à deux mains](./épée à deux mains (arme).md), [épée à neuf anneaux](./épée à neuf anneaux (arme).md)*, [épée longue](./épée longue (arme).md), [faux](./faux (arme).md), [nodachi](./nodachi (arme).md)*, [sabre double ergot de poulet](./sabre double ergot de poulet (arme).md)*, [terbutje](./terbutje (arme).md)**.
-**Exotiques.** [bâton aux deux katanas](./bâton aux deux katanas (arme).md)*, [double lame](./double lame (arme).md), [épée à sept branches](./épée à sept branches (arme).md)*, [épée bâtarde](./épée bâtarde (arme).md)*, [épée du temple](./épée du temple (arme).md)*, [falcata](./falcata (arme).md), [flamberge](./Flamberge (arme).md), [grand terbutje](./grand terbutje (arme).md)**, [katana](./katana (arme).md)*, [khopesh](./khopesh (arme).md), [lame elfique incurvée](./lame elfique incurvée (arme).md), [sabre dentelé](./sabre dentelé (arme).md), [shotel](./shotel (arme).md), [épée rhoka](./épée rhoka (arme).md).
+**De guerre.** [[chakram (arme)|chakram]]*, [[cimeterre (arme)|cimeterre]], [[cimeterre à deux mains (arme)|cimeterre à deux mains]], [[épée à deux mains (arme)|épée à deux mains]], [[épée à neuf anneaux (arme)|épée à neuf anneaux]]*, [[épée longue (arme)|épée longue]], [[faux (arme)|faux]], [[nodachi (arme)|nodachi]]*, [[sabre double ergot de poulet (arme)|sabre double ergot de poulet]]*, [[terbutje (arme)|terbutje]]**.
+**Exotiques.** [[bâton aux deux katanas (arme)|bâton aux deux katanas]]*, [[double lame (arme)|double lame]], [[épée à sept branches (arme)|épée à sept branches]]*, [[épée bâtarde (arme)|épée bâtarde]]*, [[épée du temple (arme)|épée du temple]]*, [[falcata (arme)|falcata]], [[flamberge (arme)|flamberge]], [[grand terbutje (arme)|grand terbutje]]**, [[katana (arme)|katana]]*, [[khopesh (arme)|khopesh]], [[lame elfique incurvée (arme)|lame elfique incurvée]], [[sabre dentelé (arme)|sabre dentelé]], [[shotel (arme)|shotel]], [[épée rhoka (arme)|épée rhoka]].
 
 {s:Reference|Lances}
 #### Lances
-**Courantes.** [épieu](./épieu (arme).md), [javeline](./javeline (arme).md), [lance](./lance (arme).md), [lance d’arrêt](./lance darrêt (arme).md), [pique](./pique (arme).md).
-**De guerre.** [amentum](./amentum (arme).md), [fourche du tigre](./fourche du tigre (arme).md)*, [lance d’arçon](./lance darçon (arme).md), [pilum](./pilum (arme).md), [sibat](./sibat (arme).md), [trident](./trident (arme).md).
-**Exotiques.** [harpon](./harpon (arme).md).
+**Courantes.** [[épieu (arme)|épieu]], [[javeline (arme)|javeline]], [[lance (arme)|lance]], [[lance darrêt (arme)|lance d’arrêt]], [[pique (arme)|pique]].
+**De guerre.** [[amentum (arme)|amentum]], [[fourche du tigre (arme)|fourche du tigre]]*, [[lance darçon (arme)|lance d’arçon]], [[pilum (arme)|pilum]], [[sibat (arme)|sibat]], [[trident (arme)|trident]].
+**Exotiques.** [[harpon (arme)|harpon]].
 
 {s:Reference|Marteaux}
 #### Marteaux
-**Courantes.** [goupillon de combat](./goupillon de combat (arme).md), [gourdin](./gourdin (arme).md), [gourdin mere](./gourdin mere (arme).md)**, [masse d’armes légère](./masse darmes légère (arme).md), [masse d’armes lourde](./masse darmes lourde (arme).md).
-**De guerre.** [briseterre](./briseterre (arme).md), [marteau de guerre](./marteau de guerre (arme).md), [marteau léger](./marteau léger (arme).md), [massue](./massue (arme).md).
-**Exotiques.** [aklys](./aklys (arme).md), [taiaha](./taiaha (arme).md)**, [tetsubo](./tetsubo (arme).md)*, [wahaika](./wahaika (arme).md)**.
+**Courantes.** [[goupillon de combat (arme)|goupillon de combat]], [[gourdin (arme)|gourdin]], [[gourdin mere (arme)|gourdin mere]]**, [[masse darmes légère (arme)|masse d’armes légère]], [[masse darmes lourde (arme)|masse d’armes lourde]].
+**De guerre.** [[briseterre (arme)|briseterre]], [[marteau de guerre (arme)|marteau de guerre]], [[marteau léger (arme)|marteau léger]], [[massue (arme)|massue]].
+**Exotiques.** [[aklys (arme)|aklys]], [[taiaha (arme)|taiaha]]**, [[tetsubo (arme)|tetsubo]]*, [[wahaika (arme)|wahaika]]**.
 </td></tr></table>

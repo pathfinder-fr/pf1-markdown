@@ -16,18 +16,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Bard](./Barde.md) 0, [Dru](./Druide.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Magus](./Magus.md) 0, [Occ](./Occultiste.md) 0, [Prê](./Prêtre.md) 0, [Sor](./Sorcière.md) 0   
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 0, [[Druide|Dru]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Occultiste|Occ]] 0, [[Prêtre|Prê]] 0, [[Sorcière|Sor]] 0   
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md) ou [G](./composantes.md)  
+**Composantes** [[Composantes|V]] ou [[Composantes|G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** un objet infime  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (objet) ; **Résistance à la magie** oui (objet)
 
-Le personnage peut embraser un objet inflammable de taille infime. Ce sort fonctionne comme un [silex et de l'amadou](./Silex et amorce (objet).md) sauf que l'on peut l'utiliser quelles que soient les conditions météorologiques et qu'il met moins longtemps à enflammer l'objet.
+Le personnage peut embraser un objet inflammable de taille infime. Ce sort fonctionne comme un [[Silex et amorce (objet)|silex et de l'amadou]] sauf que l'on peut l'utiliser quelles que soient les conditions météorologiques et qu'il met moins longtemps à enflammer l'objet.

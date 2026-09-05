@@ -4,8 +4,8 @@ Title: Trop vieux pour aller courir dans les allées
 LastModified: 2021-05-24 19:49
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du [premier chapitre](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lbpf) de la nouvelle "Les canons de l'Alkenastre" de Ed Greenwood. Illustration de Colby Stevenson.*
 
 "Je pensais que ça t'intéresserait plus que ça," dit Kordroun sur un ton froid. "Tu étais un très bon maréchal-bouclier autrefois. Tu étais l'un des meilleurs."

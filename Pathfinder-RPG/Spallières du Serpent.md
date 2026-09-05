@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Spallières du serpent|{s:AE}}
-**Aura** [Abjuration](./Abjuration.md) faible  ; **NLS** 3 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 3.000 po ; **Poids** 1,5 kg
+**Aura** [[Abjuration]] faible  ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 3.000 po ; **Poids** 1,5 kg
 (((Description)))
-Une vipère lovée en position défensive est gravée sur chacune de ces spallières en mithral. Elles confèrent à leur porteur un bonus d’esquive de +2 à la [CA](./CA.md) contre les [attaques d’opportunité](./Valeurs de combat.md#ATTAQUEDOPPORTUNITE) et augmentent son [DMD](./DMD.md) de 2 contre les manœuvres de [bousculade](./Manœuvres offensives.md#BOUSCULADE), de [lutte](./Manœuvres offensives.md#LUTTE), de [repositionnement](./Manœuvres offensives.md#REPOSITIONNEMENT) et de [croc-en-jambe](./Manœuvres offensives.md#CROCENJAMBE).
+Une vipère lovée en position défensive est gravée sur chacune de ces spallières en mithral. Elles confèrent à leur porteur un bonus d’esquive de +2 à la [[CA]] contre les [[valeurs de combat#ATTAQUEDOPPORTUNITE|attaques d’opportunité]] et augmentent son [[DMD]] de 2 contre les manœuvres de [[manœuvres offensives#BOUSCULADE|bousculade]], de [[manœuvres offensives#LUTTE|lutte]], de [[manœuvres offensives#REPOSITIONNEMENT|repositionnement]] et de [[manœuvres offensives#CROCENJAMBE|croc-en-jambe]].
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[grâce féline](./Grâce féline.md)*  ; **Coût** 1.500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[grâce féline]]*  ; **Coût** 1.500 po
 </div>

@@ -7,9 +7,9 @@ LastModified: 2017-12-14 20:31
 {s:AO}''La magie émotionnelle du personnage provoque un choc
 psychique chez ses adversaires.''
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[Dons#DONMETAMAGIE|métamagie]]
 
-**Avantage.** Quand une créature rate son [jet de sauvegarde](./Valeurs de combat.md#JETDESAUVEGARDE)
+**Avantage.** Quand une créature rate son [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]]
 contre un sort marquant, elle subit un malus de –2 aux jets
 de sauvegarde contre les effets d’émotion et de terreur du
 personnage et un malus de –1 contre les autres effets d’émotion

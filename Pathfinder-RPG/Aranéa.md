@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2 p.36*}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([métamorphe](./sous-type métamorphe.md)) de taille M, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type métamorphe|métamorphe]]) de taille M, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 13, pris au dépourvu 17 (armure +4, Dex +3, naturelle +3)}
 {s:BDTexte|**pv** 37 (5d10+10)}
@@ -23,27 +23,27 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (12 {s:c}), escalade 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +8 (1d6 plus poison)}
-{s:BDTexte|**Attaques spéciales** [toile](./Toile (capacité).md) (+8 à distance, DD 14, 5 pv)}
+{s:BDTexte|**Attaques spéciales** [[toile (capacité)|toile]] (+8 à distance, DD 14, 5 pv)}
 {s:BDTexte|**Sorts d'ensorceleurs connus** (NLS 5 ; concentration +8)}
-{s:BDTexte|2<sup>e</sup> (5/jour) - *[image miroir](./Image miroir.md)*, *[invisibilité](./Invisibilité.md)*}
-{s:BDTexte|1<sup>er</sup> (7/jour) - *[armure de mage](./Armure de mage.md)* (1 déjà lancé), *[charme-personne](./Charme-personne.md)* (DD 14), *[image silencieuse](./Image silencieuse.md)* (DD 14), *[sommeil](./Sommeil.md)* (Dd 14)}
-{s:BDTexte|0 (A volonté) - *[détection de la magie](./Détection de la magie.md)*, *[hébétement](./Hébétement.md)* (DD 13), *[lumière](./Lumière.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[résistance](./résistance.md)*, *[son imaginaire](./Son imaginaire.md)* (DD 13)}
+{s:BDTexte|2<sup>e</sup> (5/jour) - *[[image miroir]]*, *[[invisibilité]]*}
+{s:BDTexte|1<sup>er</sup> (7/jour) - *[[armure de mage]]* (1 déjà lancé), *[[charme-personne]]* (DD 14), *[[image silencieuse]]* (DD 14), *[[sommeil]]* (Dd 14)}
+{s:BDTexte|0 (A volonté) - *[[détection de la magie]]*, *[[hébétement]]* (DD 13), *[[lumière]]*, *[[manipulation à distance]]*, *[[résistance]]*, *[[son imaginaire]]* (DD 13)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 17, **Con** 14, **Int** 14, **Sag** 13, **Cha** 16}
 {s:BDTexte|**BBA** +5 ; **BMO** +5 ; **DMD** 18}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [dispense de composantes matérielles](./Dispense de composantes matérielles.md)<sup>B</sup>, [Science de l'initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +9 (+17 pour sauter), [Connaissances](./Connaissances.md) (mystères) +7, [Discrétion](./Discrétion.md) +9, [Escalade](./Escalade.md) +14, [Évasion](./Évasion.md) +8, [Perception](./Perception.md) +9 ; **Modificateurs raciaux** +2 en [Acrobaties](./Acrobaties.md), +2 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[dispense de composantes matérielles]]<sup>B</sup>, [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +9 (+17 pour sauter), [[Connaissances]] (mystères) +7, [[Discrétion]] +9, [[Escalade]] +14, [[Évasion]] +8, [[Perception]] +9 ; **Modificateurs raciaux** +2 en [[Acrobaties]], +2 en [[Perception]]}
 {s:BDTexte|**Langues** commun, sylvestre}
-{s:BDTexte|**Particularités** changement de forme (humanoïde ; *[modification d'apparence](./Modification dapparence.md)*)}
+{s:BDTexte|**Particularités** changement de forme (humanoïde ; *[[modification dapparence|modification d'apparence]]*)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tropicales}
 {s:BDTexte|**Organisation sociale** solitaire ou colonie (2-6)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
 {s:BDTexte|**Changement de forme (Sur)** Une aranéa peut prendre la forme d’un humanoïde ou d’un hybride
-humanoïde-araignée de [taille](./taille.md) P ou M. Sous forme humanoïde, elle ne peut pas utiliser ses attaques de morsure, de toile et de poison. Sous forme hybride, elle ressemble à un humanoïde doté de crocs d’araignée et de filières généralement placées au sommet de son dos. L’aranéa conserve ses attaques de morsure, de toile et de poison sous cette forme et elle peut utiliser des armes et porter une armure. Sous forme humanoïde ou hybride, sa [vitesse](./VD.md) est de 9 mètres (6 {s:c}) et elle ne possède pas de vitesse d’escalade.}
-{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 14 ; *fréquence* 1/[round](./round.md) pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d3 [For](./Force.md) ; *guérison* 1 réussite.}
-{s:BDTexte|**Sorts** Une aranéa lance des sorts comme un [ensorceleur](./Ensorceleur.md) de niveau 5, mais elle ne gagne aucune capacité supplémentaire (comme celle de [lignage](./Lignages.md) d’ensorceleur).}
+humanoïde-araignée de [[taille]] P ou M. Sous forme humanoïde, elle ne peut pas utiliser ses attaques de morsure, de toile et de poison. Sous forme hybride, elle ressemble à un humanoïde doté de crocs d’araignée et de filières généralement placées au sommet de son dos. L’aranéa conserve ses attaques de morsure, de toile et de poison sous cette forme et elle peut utiliser des armes et porter une armure. Sous forme humanoïde ou hybride, sa [[VD|vitesse]] est de 9 mètres (6 {s:c}) et elle ne possède pas de vitesse d’escalade.}
+{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 14 ; *fréquence* 1/[[round]] pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d3 [[Force|For]] ; *guérison* 1 réussite.}
+{s:BDTexte|**Sorts** Une aranéa lance des sorts comme un [[ensorceleur]] de niveau 5, mais elle ne gagne aucune capacité supplémentaire (comme celle de [[lignages|lignage]] d’ensorceleur).}
 </div>
 </td><td><div>*Cette araignée bouffie a un corps bossu et une certaine intelligence transparaît dans ses nombreux yeux.*
 

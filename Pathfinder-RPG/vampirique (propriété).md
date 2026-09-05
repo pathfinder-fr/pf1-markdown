@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Vampirique
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Vampirique](./Descriptions individuelles des propriétés spéciales des armes.md#Vampirique)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Vampirique]]

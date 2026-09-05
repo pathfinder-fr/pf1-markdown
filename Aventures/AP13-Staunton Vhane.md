@@ -9,45 +9,45 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Staunton Vhane|FP 10}
-{s:BDTexte|*Source : [Aides de jeu AP13#EXCURSIONCITADELLE|La Colère des Justes], p.480*}
+{s:BDTexte|*Source : [[Aides de jeu AP13#EXCURSIONCITADELLE|La Colère des Justes]], p.480*}
 {s:BDTexte|**PX** 9600}
-{s:BDTexte|[Nain](./../Pathfinder-RPG/Nain.md) (m) [Antipaladin](./../Pathfinder-RPG/Antipaladin.md) (Deskari) 8 / [Champion mythique](./../Pathfinder-RPG/Champion Mythique.md) 2}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) (nain) de taille M, CM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18m, [Perception](./../Pathfinder-RPG/Perception.md) +1}
+{s:BDTexte|[[Pathfinder-RPG.Nain|Nain]] (m) [[Pathfinder-RPG.Antipaladin|Antipaladin]] (Deskari) 8 / [[Pathfinder-RPG.Champion mythique|Champion mythique]] 2}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] (nain) de taille M, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18m, [[Pathfinder-RPG.Perception|Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 10, pris au dépourvu 24 (armure +12, naturelle +2)}
 {s:BDTexte|**pv** 130 (8d10+82)}
 {s:BDTexte|**Réf** +4, **Vig** +15, **Vol** +9; +2 contre les poisons, les sorts et les pouvoirs magiques}
-{s:BDTexte|**Capacités défensives** [difficile à tuer](./Pathfinder-RPG-Création-Personnage-Mythique-ashx.md#DifficileTuer) **immunité** maladie}
+{s:BDTexte|**Capacités défensives** [[Pathfinder-RPG.Création Personnage Mythique.ashx#DifficileTuer|difficile à tuer]] **immunité** maladie}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m}
 {s:BDTexte|**Corps à corps** Cisaille des âmes, +15/+10 (1d10+9/x3) ou armure à pointes, +13/+8 (1d6+5/x3)}
 {s:BDTexte|**Distance** hache de lancer boomerang +1 , +9/+4 (1d6+6)}
-{s:BDTexte|**Attaques spéciales** [canalisation d'énergie](./../Pathfinder-RPG/Prêtre.md#CANALISATIONDENERGIE) négative 2/jour (DD16, 4d6), [Châtiment du Bien](./../Pathfinder-RPG/Antipaladin.md#CHATIMENTDUBIEN) 3/j (+2 attaque et CA, +8 dégats), [frappe du champion](./../Pathfinder-RPG/Champion Mythique.md#FRAPPEDUCHAMPION) (soudaine), [Giclée de sang](./../Pathfinder-RPG/Aptitudes de la voie du Champion Mythique.md#GICLEEDESANG) , [Haine naine](./../Pathfinder-RPG/Nain.md#HAINE) , pouvoir mythique (2/j 1d6)  }
-{s:BDTexte|**Pouvoirs magiques**  ([NLS](./../Pathfinder-RPG/NLS.md) 8; [concentration](./../Pathfinder-RPG/concentration.md) +10)}
-{s:BDSorts|A volonté- [Détection du bien](./../Pathfinder-RPG/Détection du Bien.md)}
-{s:BDTexte|**Sorts d'antipaladin préparés** ([NLS](./../Pathfinder-RPG/NLS.md) 5; [concentration](./../Pathfinder-RPG/concentration.md) +7)}
-{s:BDSorts|2<sup>e</sup> — *[Force de taureau](./../Pathfinder-RPG/Force de taureau.md)*, *[immobilisation de personne](./../Pathfinder-RPG/Immobilisation de personne.md)* (DD 14)}
-{s:BDSorts|1<sup>er</sup> — *[injonction](./../Pathfinder-RPG/Injonction.md)* (DD 14), *[protection contre le bien](./../Pathfinder-RPG/Protection contre le Bien.md)*}
+{s:BDTexte|**Attaques spéciales** [[Pathfinder-RPG.prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] négative 2/jour (DD16, 4d6), [[Pathfinder-RPG.Antipaladin#CHATIMENTDUBIEN|Châtiment du Bien]] 3/j (+2 attaque et CA, +8 dégats), [[Pathfinder-RPG.Champion mythique#FRAPPEDUCHAMPION|frappe du champion]] (soudaine), [[Pathfinder-RPG.Aptitudes de la voie du champion mythique#GICLEEDESANG|Giclée de sang]] , [[Pathfinder-RPG.Nain#HAINE|Haine naine]] , pouvoir mythique (2/j 1d6)  }
+{s:BDTexte|**Pouvoirs magiques**  ([[Pathfinder-RPG.NLS|NLS]] 8; [[Pathfinder-RPG.concentration|concentration]] +10)}
+{s:BDSorts|A volonté- [[Pathfinder-RPG.Détection du bien|Détection du bien]]}
+{s:BDTexte|**Sorts d'antipaladin préparés** ([[Pathfinder-RPG.NLS|NLS]] 5; [[Pathfinder-RPG.concentration|concentration]] +7)}
+{s:BDSorts|2<sup>e</sup> — *[[Pathfinder-RPG.Force de taureau|Force de taureau]]*, *[[Pathfinder-RPG.immobilisation de personne|immobilisation de personne]]* (DD 14)}
+{s:BDSorts|1<sup>er</sup> — *[[Pathfinder-RPG.injonction|injonction]]* (DD 14), *[[Pathfinder-RPG.protection contre le bien|protection contre le bien]]*}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 20, **Dex** 10, **Con** 24, **Int** 12, **Sag** 12, **Cha** 14}
 {s:BDTexte|**BBA** +8, **BMO** +13, **DMD** 23 (27 contre la bousculade et le croc en jambe)}
-{s:BDTexte|**Dons** [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Robustesse](./../Pathfinder-RPG/Robustesse.md), [Création d'armes et armures magiques](./../Pathfinder-RPG/Création darmes et armures magiques.md), [Talent](./../Pathfinder-RPG/Talent.md) (Bluff)}
-{s:BDTexte|**Compétences** [Bluff](./../Pathfinder-RPG/Bluff.md) +12, [Equitation](./../Pathfinder-RPG/Équitation.md) +4, [Intimidation](./../Pathfinder-RPG/Intimidation.md) +7, [Linguistique](./../Pathfinder-RPG/Linguistique.md) +1, [Perception](./../Pathfinder-RPG/Perception.md) +0 (+2 pour la pierre), [Psychologie](./../Pathfinder-RPG/Psychologie.md) +7}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]], [[Pathfinder-RPG.Robustesse|Robustesse]], [[Pathfinder-RPG.Création darmes et armures magiques|Création d'armes et armures magiques]], [[Pathfinder-RPG.Talent|Talent]] (Bluff)}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Bluff|Bluff]] +12, [[Pathfinder-RPG.équitation|Equitation]] +4, [[Pathfinder-RPG.Intimidation|Intimidation]] +7, [[Pathfinder-RPG.Linguistique|Linguistique]] +1, [[Pathfinder-RPG.Perception|Perception]] +0 (+2 pour la pierre), [[Pathfinder-RPG.Psychologie|Psychologie]] +7}
 {s:BDTexte|**Langues** abyssal, commun, nain}
-{s:BDTexte|**Part.** [excellente initiative](./../Pathfinder-RPG/Excellente initiative (capacité).md), [cruauté](./../Pathfinder-RPG/Antipaladin.md#CRUAUTE) (DD 16, fatigué, maladie),  [faveur des fielons](./../Pathfinder-RPG/Antipaladin.md#FAVEURDESFIELONS) (monture),  [toucher de corruption](./../Pathfinder-RPG/Antipaladin.md#TOUCHERDECORRUPTION) (4d6, 6/j), [vitesse invraisemblable](./../Pathfinder-RPG/Aptitudes de la voie du Champion Mythique.md#VITESSEINVRAISEMBLABLE) }
-{s:BDTexte|**Équipement de combat** baguette de [Cécité/Surdité](./../Pathfinder-RPG/Cécitésurdité.md) (8 charges)}{s:BDTexte|**Équipement divers** harnois [à pointes](./../Pathfinder-RPG/Pointes darmure (armure).md) +3, [Cisaille des âmes](./AP13-Cisaille des âmes.md), [hache de lancer](./../Pathfinder-RPG/hache de lancer (arme).md) *[boomerang](./../Pathfinder-RPG/boomerang (propriété).md)* +1, [amulette d'armure naturelle](./../Pathfinder-RPG/Amulette darmure naturelle.md) +2, [Bandeau de belle allure](./../Pathfinder-RPG/Bandeau de belle allure.md) +2, [Ceinturon de constitution de l'ours](./../Pathfinder-RPG/Ceinturon de constitution de lours.md) +4, passe partout de la citadelle de Drézen, 68 po}
+{s:BDTexte|**Part.** [[Pathfinder-RPG.Excellente initiative (capacité)|excellente initiative]], [[Pathfinder-RPG.Antipaladin#CRUAUTE|cruauté]] (DD 16, fatigué, maladie),  [[Pathfinder-RPG.Antipaladin#FAVEURDESFIELONS|faveur des fielons]] (monture),  [[Pathfinder-RPG.Antipaladin#TOUCHERDECORRUPTION|toucher de corruption]] (4d6, 6/j), [[Pathfinder-RPG.Aptitudes de la voie du champion mythique#VITESSEINVRAISEMBLABLE|vitesse invraisemblable]] }
+{s:BDTexte|**Équipement de combat** baguette de [[Pathfinder-RPG.Cécitésurdité|Cécité/Surdité]] (8 charges)}{s:BDTexte|**Équipement divers** harnois [[Pathfinder-RPG.Pointes darmure (armure)|à pointes]] +3, [[AP13-Cisaille des âmes|Cisaille des âmes]], [[Pathfinder-RPG.hache de lancer (arme)|hache de lancer]] *[[Pathfinder-RPG.boomerang (propriété)|boomerang]]* +1, [[Pathfinder-RPG.Amulette darmure naturelle|amulette d'armure naturelle]] +2, [[Pathfinder-RPG.Bandeau de belle allure|Bandeau de belle allure]] +2, [[Pathfinder-RPG.Ceinturon de constitution de lours|Ceinturon de constitution de l'ours]] +4, passe partout de la citadelle de Drézen, 68 po}
 </div>
 </td><td><div class="BD">
 *Ancien paladin de Torag, Staunton Vhane a bafoué ses principes et trahi ses alliés en échange d'un pacte avec la Plaie du Monde et l'opportunité d'apprendre un antique secret nain : l'emplacement d'une Citadelle céleste perdue.*
 
-**Monture :** [Vrexed](./Guêpe géante fiélone.md)
+**Monture :** [[Guêpe géante fiélone|Vrexed]]
 
 ### Tactiques
 **Avant le combat**
-Staunton se lance *[Force de taureau](./../Pathfinder-RPG/Force de taureau.md)* avant le combat.
+Staunton se lance *[[Pathfinder-RPG.Force de taureau|Force de taureau]]* avant le combat.
 **Pendant le combat.**
-Staunton se lance *[protection contre le bien](./../Pathfinder-RPG/Protection contre le Bien.md)* au premier round de combat. Il préfère charger au coeur de la mêlée en brandissant * Cisaille des âmes*. Il attaque avec son armure à pointes s'il ne peut maintenir son allonge contre ses adversaires. Il applique toujours son [Châtiment du Bien](./../Pathfinder-RPG/Antipaladin.md#CHATIMENTDUBIEN) contre les prêtres et les paladins vertueux, en utilisant son pouvoir mythique pour effectuer des [frappe du champion](./../Pathfinder-RPG/Champion Mythique.md#FRAPPEDUCHAMPION) soudaines. A chaque fois qu'il attaque, il utilise [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md) pour augmenter ses dégâts. Il utilise [Giclée de sang](./../Pathfinder-RPG/Aptitudes de la voie du Champion Mythique.md#GICLEEDESANG) aussi souvent que possible contre les soigneurs. Contre des ennemis portant des armures lourdes, il se fie à son [toucher de corruption](./../Pathfinder-RPG/Antipaladin.md#TOUCHERDECORRUPTION), en infligeant d'abord une [cruauté](./../Pathfinder-RPG/Antipaladin.md#CRUAUTE) fatigue puis maladie ([peste bubonique](./../Pathfinder-RPG/Maladies.md#PESTEBUNONIQUE)). Sa coutille convoque un [babau](./../Pathfinder-RPG/Babau.md) qui vient l'aider lors du premier round de combat.
+Staunton se lance *[[Pathfinder-RPG.protection contre le bien|protection contre le bien]]* au premier round de combat. Il préfère charger au coeur de la mêlée en brandissant * Cisaille des âmes*. Il attaque avec son armure à pointes s'il ne peut maintenir son allonge contre ses adversaires. Il applique toujours son [[Pathfinder-RPG.Antipaladin#CHATIMENTDUBIEN|Châtiment du Bien]] contre les prêtres et les paladins vertueux, en utilisant son pouvoir mythique pour effectuer des [[Pathfinder-RPG.Champion mythique#FRAPPEDUCHAMPION|frappe du champion]] soudaines. A chaque fois qu'il attaque, il utilise [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]] pour augmenter ses dégâts. Il utilise [[Pathfinder-RPG.Aptitudes de la voie du champion mythique#GICLEEDESANG|Giclée de sang]] aussi souvent que possible contre les soigneurs. Contre des ennemis portant des armures lourdes, il se fie à son [[Pathfinder-RPG.Antipaladin#TOUCHERDECORRUPTION|toucher de corruption]], en infligeant d'abord une [[Pathfinder-RPG.Antipaladin#CRUAUTE|cruauté]] fatigue puis maladie ([[Pathfinder-RPG.Maladies#PESTEBUNONIQUE|peste bubonique]]). Sa coutille convoque un [[Pathfinder-RPG.babau|babau]] qui vient l'aider lors du premier round de combat.
 **Moral**
 Staunton se bat jusqu'à la mort.
 

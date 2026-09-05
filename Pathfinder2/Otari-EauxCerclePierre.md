@@ -4,9 +4,9 @@ Title: Les eaux du Cercle de pierre
 LastModified: 2023-04-27 17:33
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur Otari](./OTARI.md)
+• [[OTARI|Retour à la page sur Otari]]
 
 L'étang du Cercle de pierre abrite l'enclave druidique d'Otari. Cet emplacement ne possède pas de rôle important dans les aventures de la boîte d'initiation, dans Troubles à Otari ni dans la campagne du Donjon des abominations mais ce n'est pas pour autant que les MJ et les joueurs ne peuvent pas l'intégrer dans leur campagne !
 

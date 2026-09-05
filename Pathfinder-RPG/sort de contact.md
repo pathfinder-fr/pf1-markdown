@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#CONTACT
 ---
 
->>> [Présentation des sorts#CONTACT](./Présentation des sorts.md#CONTACT)
+>>> [[Présentation des sorts#CONTACT]]

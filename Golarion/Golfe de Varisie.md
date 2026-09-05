@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Il y a 10 000 ans, le golfe est apparu avec l’effondrement d’une partie de la [Varisie](./Varisie.md) sous la mer qui accéléra  la chute de l’Empire [Thassilonien](./Thassilonien.md). De nos jours, il reste des vestiges de cet empire aussi bien sur la terre ferme, comme l’[Irarche](./Irarche.md) de [Magnimar](./Magnimar.md), que sous la mer avec des villes oubliées d’une grande richesse.
+Il y a 10 000 ans, le golfe est apparu avec l’effondrement d’une partie de la [[Varisie]] sous la mer qui accéléra  la chute de l’Empire [[Thassilonien]]. De nos jours, il reste des vestiges de cet empire aussi bien sur la terre ferme, comme l’[[Irarche]] de [[Magnimar]], que sous la mer avec des villes oubliées d’une grande richesse.

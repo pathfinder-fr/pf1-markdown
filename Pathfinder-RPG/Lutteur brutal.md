@@ -11,10 +11,10 @@ Categories:
 
 {s:mr}*Lorsqu’il aide un allié qui lutte contre un adversaire, le personnage peut infliger des dégâts à cet adversaire.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Orque](./orque (race).md) ou [demi-orque](./Demi-orque.md)
+**Conditions.** [[orque (race)|Orque]] ou [[demi-orque]]
 
-**Avantage.** Lorsque lui et un allié possédant ce don [luttent](./lutte.md) contre la même créature, le personnage peut tenter de lui infliger des dégâts pendant son tour (que ce soit lui qui ait engagé la lutte en premier ou qu’il aide son allié à le faire). On considère que le personnage et l’allié s’entraident pour lutter contre leur adversaire (bonus de +2 sur la manœuvre de combat de lutte) tant que les deux maintiennent la prise.
+**Avantage.** Lorsque lui et un allié possédant ce don [[lutte|luttent]] contre la même créature, le personnage peut tenter de lui infliger des dégâts pendant son tour (que ce soit lui qui ait engagé la lutte en premier ou qu’il aide son allié à le faire). On considère que le personnage et l’allié s’entraident pour lutter contre leur adversaire (bonus de +2 sur la manœuvre de combat de lutte) tant que les deux maintiennent la prise.
 
-**Normal.** Lorsque plusieurs créatures luttent contre une cible, la créature qui a, la première, engagé la lutte est la seule à effectuer un jet pour infliger des dégâts à l’adversaire agrippé, avec un bonus de +2 pour chaque créature qui l’aide pendant la lutte en utilisant l’action [ider quelqu’un](./aider qqn.md).
+**Normal.** Lorsque plusieurs créatures luttent contre une cible, la créature qui a, la première, engagé la lutte est la seule à effectuer un jet pour infliger des dégâts à l’adversaire agrippé, avec un bonus de +2 pour chaque créature qui l’aide pendant la lutte en utilisant l’action [[aider qqn|ider quelqu’un]].

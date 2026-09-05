@@ -6,7 +6,7 @@ LastModified: 2015-11-20 07:03
 
 *La terre livre ses secrets aux perceptions de l’oréade.*
 
-**Conditions requises.** [Échos de la pierre](./Échos de la pierre.md), niveau 9, [oréade](./Oréade (race).md).
+**Conditions requises.** [[Échos de la pierre]], niveau 9, [[oréade (race)|oréade]].
 
 **Avantages.** L’oréade gagne une forme limitée de perception
 des vibrations. Par une action de mouvement, il prend

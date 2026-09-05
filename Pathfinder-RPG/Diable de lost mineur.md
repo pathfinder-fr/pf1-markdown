@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés p.62*}
 {s:BDTexte|**XP 800**}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md)) de taille P, LM}
-{s:BDTexte|**Init **+3 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18m, [vision dans les ténèbres](./Vision dans les ténèbres.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type loi|Loi]]) de taille P, LM}
+{s:BDTexte|**Init **+3 ; **Sens** [[vision dans le noir]] à 18m, [[vision dans les ténèbres]] ; [[Perception]] +6}
 (((Défense)))
 {s:BDTexte|**CA** 17, contact 15, pris au dépourvu 13 (Dex +3, esquive +1, naturelle +2, taille +1)}
 {s:BDTexte|**Pv** 30 (4d10+8)}
@@ -28,12 +28,12 @@ Categories:
 {s:BDTexte|**Corps à corps **lance de maître, +7 (1d8+1) et 2 griffes +6 (1d4+1)}
 {s:BDTexte|**Attaques spéciales** souffle nocif, convocation de diable}
 {s:BDTexte|**Pouvoirs magiques** (**NLS** 4)}
-{s:BDSorts|À volonté – *[lumières dansantes](./Lumières dansantes.md), [détection de la magie](./Détection de la magie.md), [téléportation suprême](./Téléportation suprême.md)* (personnelle plus 25kg d’objets uniquement), *[manipulation à distance](./Manipulation à distance.md), [ventriloquie](./Ventriloquie.md)* (DD 10)}
+{s:BDSorts|À volonté – *[[lumières dansantes]], [[détection de la magie]], [[téléportation suprême]]* (personnelle plus 25kg d’objets uniquement), *[[manipulation à distance]], [[ventriloquie]]* (DD 10)}
 (((Statistiques)))
 {s:BDTexte|**For** 13, **Dex** 17, **Con** 14, **Int** 7, **Sag** 9, **Cha** 8}
 {s:BDTexte|**BBA **+4 ; **BMO **+4 ; **DMD** 18}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +9, [Discrétion](./Discrétion.md) +13, [Évasion](./Évasion.md) +9, [Perception](./Perception.md) +6, [Vol](./Vol.md) +11}
+{s:BDTexte|**Dons** [[Esquive]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +9, [[Discrétion]] +13, [[Évasion]] +9, [[Perception]] +6, [[Vol]] +11}
 {s:BDTexte|**Langues** infernal ; télépathie 30m}
 {s:BDTexte|**Particularités** maître lutteur, sens partagés, grouillement}
 (((Écologie)))
@@ -52,20 +52,20 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Diable de l'ost](./Diable de lost.md) (Magaav) || 6
+| [[Diable de lost|Diable de l'ost]] (Magaav) || 6
 |-
-| [Diable de l'ost majeur](./Diable de lost Majeur.md) (Magaav) || 6
+| [[Diable de lost Majeur|Diable de l'ost majeur]] (Magaav) || 6
 |-
-| [Diable de l'ost mineur](./Diable de lost mineur.md) (Gaav) || 3
+| [[Diable de lost mineur|Diable de l'ost mineur]] (Gaav) || 3
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 ''Une double paire d’ailes de vautour s’agite furieusement dans un fouillis
 de membres d’oiseau couverts d’écailles alors que la créature tient
 bien haut sa tête osseuse et cornue de fiélon. Alors qu’un souffle fétide
 s’échappe de son visage repoussant couvert de mouches, des bras griffus
 travaillent ensemble pour fendre l’air avec une lance à l’air vicieux.''
 
-Tous les magaavs peuvent communiquer par télépathie avec tous les autres [gaavs](./Diable de lost mineur.md) et [magaavs](./Diable de lost Majeur.md) situés à moins de 30 mètres en simultané, permettant aux diables légionnaires majeurs de commander des essaims entiers. Bien que les magaavs se contredisent rarement les uns les autres, si des gaavs sont confrontés à des ordres en concurrence, ils suivent ceux du magaav le plus proche.
+Tous les magaavs peuvent communiquer par télépathie avec tous les autres [[Diable de lost mineur|gaavs]] et [[Diable de lost Majeur|magaavs]] situés à moins de 30 mètres en simultané, permettant aux diables légionnaires majeurs de commander des essaims entiers. Bien que les magaavs se contredisent rarement les uns les autres, si des gaavs sont confrontés à des ordres en concurrence, ils suivent ceux du magaav le plus proche.
 
 Chasseurs d’âmes, les diables légionnaires récupèrent les propriétés des Enfers qui ont le plus tendance à fuir. Qu’il s’agisse d’âmes qui échappent à la capture depuis longtemps sur les plaines de l’Averne, d’êtres damnés qui sont parvenus, d’une façon ou d’une autre, à échapper aux Enfers ou de créatures qui ont manqué à leurs engagements dans un contrat infernal, de très grands troupeaux de ces fiélons ailés jaillissent de la Fosse pour récupérer leurs proies.
 

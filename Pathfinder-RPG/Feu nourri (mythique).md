@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage peut tirer sans problème un barrage de flèches sur sa cible.*
 
-**Conditions.** [Feu nourri](./Feu nourri.md)
+**Conditions.** [[Feu nourri]]
 
-**Avantage.** Lorsqu’il effectue une [attaque à outrance](./attaque à outrance.md) avec un arc en utilisant [Feu nourri](./Feu nourri.md), le personnage peut tirer deux flèches à chaque fois lors de sa première et de sa deuxième attaque au lieu de deux flèches uniquement lors de la première attaque.
+**Avantage.** Lorsqu’il effectue une [[attaque à outrance]] avec un arc en utilisant [[Feu nourri]], le personnage peut tirer deux flèches à chaque fois lors de sa première et de sa deuxième attaque au lieu de deux flèches uniquement lors de la première attaque.

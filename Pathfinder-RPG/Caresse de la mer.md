@@ -13,18 +13,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ;** Niveau** [Alch](./Alchimiste.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [San](./Sanguin.md) 1  
+**École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Sanguin|San]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (écaille de poisson)  
+**Composantes** [[Composantes|V, G, M]] (écaille de poisson)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Le personnage fait pousser des filaments entre les doigts et les orteils de sa cible. Ils s'épaississent jusqu'à former des palmes qui lui accordent une vitesse de nage de 9 mètres (6 {s:c}) et un bonus de [Natation](./Natation.md) associé de +8 ainsi que la possibilité de [faire 10](./faire 10.md) même si elle est distraite ou en danger. La cible peut également utiliser l'option de [course](./Course.md) tant qu'elle nage en ligne droite. Ce sort fusionne les bottes et les gants que porte éventuellement la cible avec les palmes (mais les objets magiques à effet continu fonctionnent tout de même). Ce sort ne permet pas de respirer sous l'eau.
+Le personnage fait pousser des filaments entre les doigts et les orteils de sa cible. Ils s'épaississent jusqu'à former des palmes qui lui accordent une vitesse de nage de 9 mètres (6 {s:c}) et un bonus de [[Natation]] associé de +8 ainsi que la possibilité de [[faire 10]] même si elle est distraite ou en danger. La cible peut également utiliser l'option de [[course]] tant qu'elle nage en ligne droite. Ce sort fusionne les bottes et les gants que porte éventuellement la cible avec les palmes (mais les objets magiques à effet continu fonctionnent tout de même). Ce sort ne permet pas de respirer sous l'eau.

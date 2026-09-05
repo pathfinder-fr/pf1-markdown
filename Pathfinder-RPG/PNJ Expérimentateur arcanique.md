@@ -10,23 +10,23 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Expérimentateur arcanique|FP 13}
-{s:BDTexte|*Source : [Manuel des PNJ p. 19](./Manuel des PNJ (Contenu).md)*}
+{s:BDTexte|*Source : [[Manuel des PNJ (contenu)|Manuel des PNJ p. 19]]*}
 {s:BDTexte|**PX** 25 600}
-{s:BDTexte|[Gnome](./Gnome.md) [barbare](./Barbare.md) 14}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gnome](./sous-type gnome.md)) de taille P, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +20}
+{s:BDTexte|[[Gnome]] [[Barbare]] 14}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gnome|gnome]]) de taille P, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +20}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 12, pris au dépourvu 16 (armure +7, Dex +3, rage -2, taille +1)}
 {s:BDTexte|**pv** 191 (14d12+95)}
 {s:BDTexte|**Réf** +8, **Vig** +16, **Vol** +9 ; +2 contre les illusions, +4 contre les enchantements}
-{s:BDTexte|**Capacités défensives** entraînement défensif (bonus d'esquive de +1 à la CA contre les géants), [esquive instinctive supérieure](./Barbare.md#ESQUIVEINSTINCTIVESUPERIEURE), [sens des pièges +4](./Barbare.md#SENSDESPIEGES), [volonté indomptable](./Barbare.md#VOLONTEINDOMPTABLE) ; **Immunités** effrayé, fiévreux, nauséeux, secoué ; **RD** 3/—}
+{s:BDTexte|**Capacités défensives** entraînement défensif (bonus d'esquive de +1 à la CA contre les géants), [[Barbare#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]], [[Barbare#SENSDESPIEGES|sens des pièges +4]], [[Barbare#VOLONTEINDOMPTABLE|volonté indomptable]] ; **Immunités** effrayé, fiévreux, nauséeux, secoué ; **RD** 3/—}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 7,5 m}
 {s:BDTexte|**Corps à corps** *marteau-piolet gnome de tonnerre +1*, +21/+16/+11 (1d4+8/19–20/×4) ou *marteau-piolet gnome de tonnerre +1*, +19/+14/+9 (1d4+6/19–20/×4), *marteau-piolet gnome +1*, +19/+14 (1d6+6/19–20/×3), morsure, +15 (1d3+2)}
 {s:BDTexte|**Distance** arc long composite de maître, +19/+14/+9 (1d6+5/×3)}
-{s:BDTexte|**Attaques spéciales** +1 aux jets d'attaque contre les humanoïdes gobelinoïdes et reptiliens, [rage de grand berserker](./Barbare.md#RAGEDEGRANDBERSERKER) (33 rounds/jour), [pouvoirs de rage](./Barbare.md#POUVOIRSDERAGE) ([coup redoutable](./Pouvoirs de rage.md#COUPREDOUTABLE), [esprit vide](./Pouvoirs de rage.md#ESPRITVIDE), [fureur animale](./Pouvoirs de rage.md#FUREURANIMALE), [moment de lucidité](./Pouvoirs de rage.md#MOMENTDELUCIDITE), [pic de force +14](./Pouvoirs de rage.md#PICDEFORCE), [rage sans peur](./Pouvoirs de rage.md#RAGESANSPEUR), [vigueur interne](./Pouvoirs de rage.md#VIGUEURINTERNE))}
-{s:BDTexte|**Pouvoirs magiques**  ([NLS](./NLS.md) 14 ; [concentration](./concentration.md) +15)}
-{s:BDSorts|1/jour — *[communication avec les animaux](./Communication avec les animaux.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[prestidigitation](./Prestidigitation.md)*, *[son imaginaire](./Son imaginaire.md)* (DD 11)}
+{s:BDTexte|**Attaques spéciales** +1 aux jets d'attaque contre les humanoïdes gobelinoïdes et reptiliens, [[Barbare#RAGEDEGRANDBERSERKER|rage de grand berserker]] (33 rounds/jour), [[Barbare#POUVOIRSDERAGE|pouvoirs de rage]] ([[Pouvoirs de rage#COUPREDOUTABLE|coup redoutable]], [[Pouvoirs de rage#ESPRITVIDE|esprit vide]], [[Pouvoirs de rage#FUREURANIMALE|fureur animale]], [[Pouvoirs de rage#MOMENTDELUCIDITE|moment de lucidité]], [[Pouvoirs de rage#PICDEFORCE|pic de force +14]], [[Pouvoirs de rage#RAGESANSPEUR|rage sans peur]], [[Pouvoirs de rage#VIGUEURINTERNE|vigueur interne]])}
+{s:BDTexte|**Pouvoirs magiques**  ([[NLS]] 14 ; [[concentration]] +15)}
+{s:BDSorts|1/jour — *[[communication avec les animaux]]*, *[[lumières dansantes]]*, *[[prestidigitation]]*, *[[son imaginaire]]* (DD 11)}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Avant le combat** Le barbare utilise sa *baguette de bouclier* avant la plupart des combats. Il recourt aussi à sa *baguette d’image miroir* s’il s’attend à mener un combat difficile ou à affronter un puissant ennemi solitaire.}
 {s:BDTexte|**Pendant le combat** Le barbare se hâte d’arriver au corps à corps pour porter des attaques à outrance avec son marteau-piolet. Il choisit le côté *piolet de tonnerre* comme arme principale et le côté marteau pour ses attaques secondaires. S’il charge ou s’il doit se déplacer entre deux attaques, il fait une unique Attaque en puissance avec le côté piolet. Si la situation l’exige, il utilise un moment de lucidité pour utiliser une baguette ou un parchemin, lorsqu’il affronte un adversaire volant ou invisible par exemple. Il préfère attendre d’être au corps à corps pour utiliser ses bottes de rapidité et faciliter les attaques à outrance ou pour rattraper des ennemis plus rapides que lui.}
@@ -34,11 +34,11 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 20, **Dex** 17, **Con** 22, **Int** 8, **Sag** 12, **Cha** 12}
 {s:BDTexte|**BBA** +14 ; **BMO** +18 ; **DMD** 29}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Combat à deux armes](./Combat à deux armes.md), [Double frappe](./Double frappe.md), [Éventration à deux armes](./Éventration à deux armes.md), [Science du combat à deux armes](./Science du combat à deux armes.md), [Science du critique](./Science du critique.md) (marteau-piolet gnome), [Talent](./Talent.md) (Utilisation d'objets magiques)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +17, [Art de la magie](./Art de la magie.md) +0, [Artisanat](./Artisanat.md) (alchimie) +5, [Connaissances](./Connaissances.md) (mystères) +0, [Discrétion](./Discrétion.md) +5, [Escalade](./Escalade.md) +6, [Perception](./Perception.md) +20, [Survie](./Survie.md) +5, [Utilisation d'objets magiques](./UOM.md) +18}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Combat à deux armes]], [[Double frappe]], [[Éventration à deux armes]], [[Science du combat à deux armes]], [[Science du critique]] (marteau-piolet gnome), [[Talent]] (Utilisation d'objets magiques)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +17, [[Art de la magie]] +0, [[Artisanat]] (alchimie) +5, [[Connaissances]] (mystères) +0, [[Discrétion]] +5, [[Escalade]] +6, [[Perception]] +20, [[Survie]] +5, [[UOM|Utilisation d'objets magiques]] +18}
 {s:BDTexte|**Langues** commun, gnome, sylvestre}
-{s:BDTexte|**Particularités** [déplacement accéléré](./Barbare.md#DEPLACEMENTACCELERE)}
-{s:BDTexte|**Équipement de combat** *[baguette](./Baguettes magiques.md) de [bouclier](./Bouclier.md)* (40 charges), *[baguette](./Baguettes magiques.md) de [détection de l'invisibilité](./Détection de linvisibilité.md)* (10 charges), *[baguette](./Baguettes magiques.md) d'[image miroir](./Image miroir.md)* (10 charges), *[baguette](./Baguettes magiques.md) de [vol](./sort Vol.md)* (10 charges), *[parchemin](./Parchemins magiques.md) d'[arme alignée](./Arme alignée.md)*, *[parchemin](./Parchemins magiques.md) d'[arme magique](./Arme magique.md)*, *[parchemin](./Parchemins magiques.md) de [coup au but](./Coup au but.md)*, *[parchemin](./Parchemins magiques.md) de [protection contre le Bien](./Protection contre le Bien.md)*, *[parchemin](./Parchemins magiques.md) de [soins légers](./Soins légers.md)*, [flèches](./Flèches (arme).md) en [argent](./argent.md) (10), [flèches](./Flèches (arme).md) en [fer froid](./fer froid.md) (20) ; **Équipement divers** [arc long composite](./arc long composite (arme).md) [de maître](./arme de maître.md) (+5 For), *[cuirasse](./cuirasse (armure).md) +1*, *[marteau-piolet gnome](./marteau-piolet gnome (arme).md) de [tonnerre](./tonnerre (propriété).md) +1/+1*, *[bottes de rapidité](./Bottes de rapidité.md)*, *[cape de résistance +1](./Cape de résistance.md)*, *[ceinturon de puissance de géant +2](./Ceinturon de puissance de géant.md)*, 8 po}
+{s:BDTexte|**Particularités** [[Barbare#DEPLACEMENTACCELERE|déplacement accéléré]]}
+{s:BDTexte|**Équipement de combat** *[[Baguettes magiques|baguette]] de [[bouclier]]* (40 charges), *[[Baguettes magiques|baguette]] de [[détection de linvisibilité|détection de l'invisibilité]]* (10 charges), *[[Baguettes magiques|baguette]] d'[[image miroir]]* (10 charges), *[[Baguettes magiques|baguette]] de [[sort Vol|vol]]* (10 charges), *[[Parchemins magiques|parchemin]] d'[[arme alignée]]*, *[[Parchemins magiques|parchemin]] d'[[arme magique]]*, *[[Parchemins magiques|parchemin]] de [[coup au but]]*, *[[Parchemins magiques|parchemin]] de [[protection contre le Bien]]*, *[[Parchemins magiques|parchemin]] de [[soins légers]]*, [[Flèches (arme)|flèches]] en [[argent]] (10), [[Flèches (arme)|flèches]] en [[fer froid]] (20) ; **Équipement divers** [[arc long composite (arme)|arc long composite]] [[arme de maître|de maître]] (+5 For), *[[cuirasse (armure)|cuirasse]] +1*, *[[marteau-piolet gnome (arme)|marteau-piolet gnome]] de [[tonnerre (propriété)|tonnerre]] +1/+1*, *[[bottes de rapidité]]*, *[[cape de résistance|cape de résistance +1]]*, *[[ceinturon de puissance de géant|ceinturon de puissance de géant +2]]*, 8 po}
 </div>
 </td><td><div>Les expérimentateurs arcaniques sont une curiosité parmi les leurs : ils profitent de leur connaissance de la magie pour semer le chaos sur le champ de bataille.
 

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Aveuglante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Aveuglante](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Aveuglante)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Aveuglante]]

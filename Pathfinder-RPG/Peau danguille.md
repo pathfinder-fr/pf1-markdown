@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#PEAUDANGUILLE
 ---
 
->>> [Matériaux spéciaux#PEAUDANGUILLE](./Matériaux spéciaux.md#PEAUDANGUILLE)
+>>> [[Matériaux spéciaux#PEAUDANGUILLE]]

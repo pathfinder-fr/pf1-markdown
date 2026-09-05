@@ -10,8 +10,8 @@ Categories:
 
 {s:PU}*Le personnage pense que les créatures ont besoin de liberté pour prospérer.*
 
-**Conditions.** 10 [DV](./../Ressources/DV.md), alignement Chaotique Bon
+**Conditions.** 10 [[DV]], alignement Chaotique Bon
 
-**Avantages.** Le personnage peut stocker un nombre d’[affirmations](./Alignement unchained.md#Glissements_et_affirmations_2) égal à son bonus de [Charisme](./Charisme.md) (1 au minimum) et peut les utiliser quand bon lui semble, et pas seulement dans les vingt-quatre heures qui suivent leur acquisition. Il peut utiliser une affirmation pour bénéficier d’une *[liberté de mouvement](./Liberté de mouvement.md)* pendant 1 [round](./round.md). Enfin, le personnage gagne un bonus de +2 aux dégâts des armes et des sorts contre les créatures Loyales ou Mauvaises (ou un bonus de +4 si elles sont Loyales et Mauvaises). C’est un effet basé sur l’alignement.
+**Avantages.** Le personnage peut stocker un nombre d’[[Alignement unchained#Glissements_et_affirmations_2|affirmations]] égal à son bonus de [[Charisme]] (1 au minimum) et peut les utiliser quand bon lui semble, et pas seulement dans les vingt-quatre heures qui suivent leur acquisition. Il peut utiliser une affirmation pour bénéficier d’une *[[liberté de mouvement]]* pendant 1 [[round]]. Enfin, le personnage gagne un bonus de +2 aux dégâts des armes et des sorts contre les créatures Loyales ou Mauvaises (ou un bonus de +4 si elles sont Loyales et Mauvaises). C’est un effet basé sur l’alignement.
 
 **Résidu.** Si le personnage possède ce don mais n’est plus Chaotique Bon, il bénéficie toujours du bonus de +2 aux dégâts des armes et des sorts contre les créatures Loyales ou Mauvaises (et de +4 contre les créatures Loyales Mauvaises).

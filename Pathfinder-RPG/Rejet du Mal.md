@@ -12,21 +12,21 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[bien](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 5, [Inq](./Inquisiteur.md) 5, [Pal](./Paladin.md) 4, [Prê](./Prêtre.md) 5  
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|bien]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 5, [[Inquisiteur|Inq]] 5, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
-**Cibles** le jeteur de sorts et 1 créature extraplanaire maléfique, ou le jeteur et le sort du [Mal](./Registre.md) ou l’[enchantement](./Enchantement.md) affectant la créature ou l’objet touché  
+**Cibles** le jeteur de sorts et 1 créature extraplanaire maléfique, ou le jeteur et le sort du [[registre|Mal]] ou l’[[enchantement]] affectant la créature ou l’objet touché  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ou jusqu’à épuisement  
+**Durée** 1 [[round]]/[[niveau]] ou jusqu’à épuisement  
 
 **Jet de sauvegarde** voir description ; **Résistance à la magie** voir description
 
 Une aura blanche et scintillante entoure le personnage et lui confère les avantages suivants :
-- Un bonus de parade de +4 à la [CA](./CA.md) contre les attaques des créatures d’[alignement Mauvais](./Alignement.md).
-- La possibilité de chasser une créature d’[alignement Mauvais](./Alignement.md) originaire d’un autre plan avec une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md). Si celle-ci rate un jet de [Volonté](./Volonté.md) (et que sa [résistance à la magie](./RM.md) est battue par le lanceur de sort), elle est renvoyée dans son plan d’origine. Cela épuise toute l’énergie magique du sort qui se termine immédiatement.
-- La possibilité de dissiper, d’un simple [contact](./contact.md), un sort du [Mal](./Registre.md) ou un [enchantement](./Enchantement.md) lancé par une créature d’[alignement Mauvais](./Alignement.md) (réussite automatique). Les sorts immunisés contre *[dissipation de la magie](./Dissipation de la magie.md)* le sont également contre *rejet du Mal*. Cet effet n’autorise aucun [jet de sauvegarde](./jet de sauvegarde.md) ou de [résistance à la magie](./RM.md). En revanche, il épuise toute l’énergie magique du sort qui se termine immédiatement.
+- Un bonus de parade de +4 à la [[CA]] contre les attaques des créatures d’[[alignement|alignement Mauvais]].
+- La possibilité de chasser une créature d’[[alignement|alignement Mauvais]] originaire d’un autre plan avec une [[attaque de contact au corps à corps]]. Si celle-ci rate un jet de [[Volonté]] (et que sa [[RM|résistance à la magie]] est battue par le lanceur de sort), elle est renvoyée dans son plan d’origine. Cela épuise toute l’énergie magique du sort qui se termine immédiatement.
+- La possibilité de dissiper, d’un simple [[contact]], un sort du [[registre|Mal]] ou un [[enchantement]] lancé par une créature d’[[alignement|alignement Mauvais]] (réussite automatique). Les sorts immunisés contre *[[dissipation de la magie]]* le sont également contre *rejet du Mal*. Cet effet n’autorise aucun [[jet de sauvegarde]] ou de [[RM|résistance à la magie]]. En revanche, il épuise toute l’énergie magique du sort qui se termine immédiatement.

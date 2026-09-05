@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions diverses#PASDEPLACEMENT
 ---
 
->>> [Actions diverses#PASDEPLACEMENT](./Actions diverses.md#PASDEPLACEMENT)
+>>> [[Actions diverses#PASDEPLACEMENT]]

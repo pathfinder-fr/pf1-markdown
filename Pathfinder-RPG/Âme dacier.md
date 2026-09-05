@@ -11,8 +11,8 @@ Categories:
 
 {s:APG}*Le personnage est tout particulièrement résistant à la magie.*
 
-**Conditions.** [Nain](./Nain.md), trait racial Robuste.
+**Conditions.** [[Nain]], trait racial Robuste.
 
-**Avantage.** Le personnage reçoit un bonus racial de +4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts et les pouvoirs magiques. Cela remplace le bonus normal octroyé par le trait racial Robuste.
+**Avantage.** Le personnage reçoit un bonus racial de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les sorts et les pouvoirs magiques. Cela remplace le bonus normal octroyé par le trait racial Robuste.
 
-**Normal.** Les nains reçoivent un bonus racial de +2 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts et les pouvoirs magiques.
+**Normal.** Les nains reçoivent un bonus racial de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les sorts et les pouvoirs magiques.

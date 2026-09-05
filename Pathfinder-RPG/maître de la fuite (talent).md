@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#MAITREDELAFUITE
 ---
 
->>> [Talents#MAITREDELAFUITE](./Talents.md#MAITREDELAFUITE)
+>>> [[Talents#MAITREDELAFUITE]]

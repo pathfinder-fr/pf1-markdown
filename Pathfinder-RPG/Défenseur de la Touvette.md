@@ -11,4 +11,4 @@ Categories:
 
 **Conditions** Affinité avec la dictature militaire athéiste des Royaumes indépendants
 
-**Avantages.** Une fois par jour, le personnage peut tenter de frapper un ennemi de la dictature militaire athéiste des Royaumes indépendants avec une attaque de corps à corps normale. Il gagne un bonus de moral de +4 au [jet d’attaque](./jet dattaque.md) et inflige 1 point de dégâts supplémentaire par niveau. En ce qui concerne ce don, on considère toute personne autre qu’un citoyen du royaume comme un ennemi de celui-ci. Le personnage ne peut pas utiliser ce pouvoir en dehors des frontières du royaume.
+**Avantages.** Une fois par jour, le personnage peut tenter de frapper un ennemi de la dictature militaire athéiste des Royaumes indépendants avec une attaque de corps à corps normale. Il gagne un bonus de moral de +4 au [[jet dattaque|jet d’attaque]] et inflige 1 point de dégâts supplémentaire par niveau. En ce qui concerne ce don, on considère toute personne autre qu’un citoyen du royaume comme un ennemi de celui-ci. Le personnage ne peut pas utiliser ce pouvoir en dehors des frontières du royaume.

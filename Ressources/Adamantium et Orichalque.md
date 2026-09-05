@@ -8,9 +8,9 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 <ul>Voir la [discussion](http://www.pathfinder-fr.org/Forum/yaf_postst2847_Adamantium.aspx)</ul>
-<ul>Voir la [règle officielle](./../Pathfinder-RPG/Matériaux spéciaux.md#Adamantium)</ul>
+<ul>Voir la [[Pathfinder-RPG.Matériaux spéciaux#Adamantium|règle officielle]]</ul>
 </div>
 
 

@@ -11,20 +11,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[langage](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 1, [Inq](./Inquisiteur.md) 1  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|langage]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Inquisiteur|Inq]] 1  
 
-**Temps d’incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d’incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-Cette litanie affirme que la cible du personnage est faible et sape ses forces. La cible est [fatiguée](./Fatigué.md) pour 1 [round](./round.md).
+Cette litanie affirme que la cible du personnage est faible et sape ses forces. La cible est [[fatigué|fatiguée]] pour 1 [[round]].
 
 Quand il est sous l’effet de ce sort, il ne peut pas bénéficier des effets d’un autre sort de litanie.

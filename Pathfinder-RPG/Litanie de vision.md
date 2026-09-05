@@ -12,20 +12,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Divination](./école divination.md) ; **Niveau** [Apal](./Antipaladin.md) 3, [Inq](./Inquisiteur.md) 4, [Pal](./Paladin.md) 3  
+**École** [[école divination|Divination]] ; **Niveau** [[Antipaladin|Apal]] 3, [[Inquisiteur|Inq]] 4, [[Paladin|Pal]] 3  
 
-**Temps d’incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d’incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-Cette litanie révèle l’invisible au personnage. Il voit alors les créatures et les objets [invisibles](./Invisible.md) situés dans un rayon de 9 m (6 {s:c}).
+Cette litanie révèle l’invisible au personnage. Il voit alors les créatures et les objets [[invisible|invisibles]] situés dans un rayon de 9 m (6 {s:c}).
 
 La cible affectée par ce sort ne peut pas bénéficier des effets d’un autre sort de litanie.

@@ -12,11 +12,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Invocation](./Invocation.md) ([création](./../Création.md)) ; **Niveau** [Alch](./Alchimiste.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1  
+{s:MCA}**École** [[Invocation]] ([[création]]) ; **Niveau** [[Alchimiste|Alch]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** 4,5 m (3 {s:c})  
 
@@ -24,6 +24,6 @@ Categories:
 
 **Durée** 1 round/niveau ou jusqu’à déchargement (cf. texte)  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) pour dégâts partiels ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Réflexes]] pour dégâts partiels ; **Résistance à la magie** non
 
-Pendant la durée du sort, le personnage peut cracher un liquide visqueux une seule fois par une [action simple](./Action simple.md). Ce liquide fonctionne comme une [sacoche immobilisante](./sacoche immobilisante.md), à la seule différence que le personnage n’a pas besoin de réussir de jet d’attaque pour toucher sa cible. Le [DD](./DD.md) pour contrer cet adhésif (pour éviter d’être collé au sol, pour voler, pour briser l’adhésif ou pour lancer un sort) est égal au DD du sort plutôt qu’au DD normal de la sacoche immobilisante. L’adhésif persiste pendant 2d4 rounds après que le personnage l’a craché.
+Pendant la durée du sort, le personnage peut cracher un liquide visqueux une seule fois par une [[action simple]]. Ce liquide fonctionne comme une [[sacoche immobilisante]], à la seule différence que le personnage n’a pas besoin de réussir de jet d’attaque pour toucher sa cible. Le [[DD]] pour contrer cet adhésif (pour éviter d’être collé au sol, pour voler, pour briser l’adhésif ou pour lancer un sort) est égal au DD du sort plutôt qu’au DD normal de la sacoche immobilisante. L’adhésif persiste pendant 2d4 rounds après que le personnage l’a craché.

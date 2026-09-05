@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Heaume de la valkyrie|{s:MCA}}
-**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 14 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 16 000 po ; **Poids** 1,5 kg
+**Aura** [[Invocation]] puissante ; **NLS** 14 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 16 000 po ; **Poids** 1,5 kg
 (((Description)))
-Ce heaume brillant étincelle des teintes multicolores de l’aurore et arbore des ailes sculptées dans des fanons très fins partant des tempes vers l’arrière du casque. S’il est en bon état, il semble néanmoins avoir traversé quelques batailles. Une fois par jour, le personnage peut invoquer un loup spectral géant. Traitez-le comme un *[coursier fantôme](./Coursier fantôme.md)* ; [NLS](./NLS.md) 14 mais avec une [CA](./CA.md) de 24 (armure naturelle +8, Dex +7, taille -1) et 100 points de vie. Le loup dure un maximum de 24 heures, à partir du moment où la créature qui l’a invoqué porte toujours le *heaume de la valkyrie*. Même si elle prend la forme d’un redoutable prédateur et qu’elle est plus puissante que les autres coursiers fantômes, la monture n’est rien de plus que de la brume et elle ne peut pas attaquer.
+Ce heaume brillant étincelle des teintes multicolores de l’aurore et arbore des ailes sculptées dans des fanons très fins partant des tempes vers l’arrière du casque. S’il est en bon état, il semble néanmoins avoir traversé quelques batailles. Une fois par jour, le personnage peut invoquer un loup spectral géant. Traitez-le comme un *[[coursier fantôme]]* ; [[NLS]] 14 mais avec une [[CA]] de 24 (armure naturelle +8, Dex +7, taille -1) et 100 points de vie. Le loup dure un maximum de 24 heures, à partir du moment où la créature qui l’a invoqué porte toujours le *heaume de la valkyrie*. Même si elle prend la forme d’un redoutable prédateur et qu’elle est plus puissante que les autres coursiers fantômes, la monture n’est rien de plus que de la brume et elle ne peut pas attaquer.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[coursier fantôme](./Coursier fantôme.md)* ; **Coût** 8 000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[coursier fantôme]]* ; **Coût** 8 000 po
 </div>

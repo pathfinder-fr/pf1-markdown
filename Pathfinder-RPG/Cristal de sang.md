@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#CRISTALDESANG
 ---
 
->>> [Matériaux spéciaux#CRISTALDESANG](./Matériaux spéciaux.md#CRISTALDESANG)
+>>> [[Matériaux spéciaux#CRISTALDESANG]]

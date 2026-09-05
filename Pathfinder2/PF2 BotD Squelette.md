@@ -4,9 +4,9 @@ Title: Squelette (ascendance)
 LastModified: 2022-04-27 11:06
 ---
 
-{s:bodmenu}• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+{s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 Les squelettes sont considérés comme l’un des types les plus faibles de morts-vivants. Il s’agit généralement de créatures dénuées d’intelligence qui ne bénéficient pas non plus des capacités qui font des autres morts-vivants des menaces plus sérieuses. Malgré cela, les os animés des dragons, géants et autres grandes créatures constituent des ennemis dangereux. Quelques créatures vivantes puissantes sont capables de retenir une partie de leurs pouvoirs et de leur intellect lorsqu’elles reviennent sous la forme de squelettes. Certains nécromanciens transforment leurs ennemis les plus puissants en des serviteurs squelettiques morts-vivants, du moins tant qu’ils sont capables d’en garder le contrôle.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#FANTASME
 ---
 
->>> [Présentation des sorts#FANTASME](./Présentation des sorts.md#FANTASME)
+>>> [[Présentation des sorts#FANTASME]]

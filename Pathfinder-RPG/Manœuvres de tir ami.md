@@ -12,8 +12,8 @@ Categories:
 
 *Le personnage et ses équipiers anticipent les attaques à distances de chacun d’entre eux et ainsi évitent de se gêner lors de leurs attaques.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#EQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[Dons#EQUIPE|équipe]]
 
-**Conditions.** [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)
+**Conditions.** [[Tir à bout portant]], [[Tir de précision]]
 
-**Avantages.** Les alliés qui possèdent également ce don ne fournissent pas d’[abri mou](./abri.md) aux ennemis, permettant au personnage de faire des [attaques d’opportunités](./attaque dopportunité.md) contre l’un d’eux même si ses alliés le font bénéficier d’un abri mou contre les attaques de cet adversaire. Dans le cas où un allié qui possède ce don lance un sort à zone d’effet et que le personnage se trouve dans son aire d’effet, si ce sort permet un jet de sauvegarde de réflexes pour éviter l’effet (tel que [Boule de feu](./Boule de feu.md)), le personnage gagne un bonus d’esquive de +4 pour ce [jet de sauvegarde](./jet de sauvegarde.md).
+**Avantages.** Les alliés qui possèdent également ce don ne fournissent pas d’[[abri|abri mou]] aux ennemis, permettant au personnage de faire des [[attaque dopportunité|attaques d’opportunités]] contre l’un d’eux même si ses alliés le font bénéficier d’un abri mou contre les attaques de cet adversaire. Dans le cas où un allié qui possède ce don lance un sort à zone d’effet et que le personnage se trouve dans son aire d’effet, si ce sort permet un jet de sauvegarde de réflexes pour éviter l’effet (tel que [[Boule de feu]]), le personnage gagne un bonus d’esquive de +4 pour ce [[jet de sauvegarde]].

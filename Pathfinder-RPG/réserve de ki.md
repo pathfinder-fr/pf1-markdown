@@ -7,4 +7,4 @@ Categories:
 RedirectTo: moine#RESERVEDEKI
 ---
 
->>> [moine#RESERVEDEKI](./Moine.md#RESERVEDEKI)
+>>> [[moine#RESERVEDEKI]]

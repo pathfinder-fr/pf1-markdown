@@ -18,18 +18,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [Rôd](./Rôdeur.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1  
 
-**Temps d’incantation** 1 [action immédiate](./Action immédiate.md)  
+**Temps d’incantation** 1 [[action immédiate]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Si la cible est [attachée](./Manœuvres offensives.md#LUTTE) ou [agrippée](./Agrippé.md), elle peut faire un test d’[Évasion](./Évasion.md) pour s’échapper par une [action immédiate](./Action immédiate.md). Elle gagne un bonus de compétence au test égal à deux fois le [niveau du lanceur de sorts](./NLS.md) (+20 au maximum). Ce sort n’a aucun effet si la cible ne peut pas se libérer avec un test d’[Évasion](./Évasion.md) (par exemple, si elle est victime d’un sort d’*[immobilisation de personne](./Immobilisation de personne.md)* ou si elle est [paralysée](./Paralysé.md) par un [affaiblissement](./affaiblissement temporaire.md) de [Force](./Force.md)).
+Si la cible est [[Manœuvres offensives#LUTTE|attachée]] ou [[agrippé|agrippée]], elle peut faire un test d’[[Évasion]] pour s’échapper par une [[action immédiate]]. Elle gagne un bonus de compétence au test égal à deux fois le [[NLS|niveau du lanceur de sorts]] (+20 au maximum). Ce sort n’a aucun effet si la cible ne peut pas se libérer avec un test d’[[Évasion]] (par exemple, si elle est victime d’un sort d’*[[immobilisation de personne]]* ou si elle est [[paralysé|paralysée]] par un [[affaiblissement temporaire|affaiblissement]] de [[Force]]).

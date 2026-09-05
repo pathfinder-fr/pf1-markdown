@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Créature magique|Collines|Tropical}
 {s:BDTexte|*Source : Bestiaire p.19*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 12, pris au dépourvu 14 (Dex +3, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 51 (6d10+18)}
@@ -22,23 +22,23 @@ Categories:
 {s:BDTexte|**Capacités défensives** forme éthérée }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), escalade 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +10 (2d6+7 et poison et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure, +10 (2d6+7 et poison et [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDTexte|**Attaques spéciales** embuscade depuis l'Éthéré}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 17, **Con** 16, **Int** 7, **Sag** 13, **Cha** 10}
-{s:BDTexte|**BBA** +6, **BMO** +12 (+16 lutte), **DMD** 25 (37 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (poison), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +7, [Escalade](./Escalade.md) +18, [Perception](./Perception.md) +6}
+{s:BDTexte|**BBA** +6, **BMO** +12 (+16 lutte), **DMD** 25 (37 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque spéciale renforcée]] (poison), [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +7, [[Escalade]] +18, [[Perception]] +6}
 {s:BDTexte|**Langues** aklo}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Embuscade depuis l'Éthéré (Ext)** Lorsqu'une araignée de phase surprend des ennemis situés sur le [plan Matériel](./plan Matériel.md) (si elle commence le combat en glissant du [plan Éthéré](./plan Éthéré.md) vers le [plan Matériel](./plan Matériel.md)), elle peut effectuer un round entier d'actions au cours du [round de surprise](./round de surprise.md)).}
-{s:BDTexte|**Forme éthérée (Sur)** Les araignées de phase peuvent glisser du [plan Éthéré](./plan Éthéré.md) vers le [plan Matériel](./plan Matériel.md) par une [action libre](./Action libre.md). Elles peuvent glisser du [plan Matériel](./plan Matériel.md) vers le [plan Éthéré](./plan Éthéré.md) par une [action de mouvement](./Action de mouvement.md) (ou au cours d'une [action de mouvement](./Action de mouvement.md)). A part cela, cette capacité est identique au sort de *[forme éthérée](./Forme éthérée.md)* ([NLS](./NLS.md) 15).}
-{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 18 ; *fréquence* 1/round pendant 8 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [Con](./Constitution.md) ; *guérison* 2 réussites consécutives. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Embuscade depuis l'Éthéré (Ext)** Lorsqu'une araignée de phase surprend des ennemis situés sur le [[plan Matériel]] (si elle commence le combat en glissant du [[plan Éthéré]] vers le [[plan Matériel]]), elle peut effectuer un round entier d'actions au cours du [[round de surprise]]).}
+{s:BDTexte|**Forme éthérée (Sur)** Les araignées de phase peuvent glisser du [[plan Éthéré]] vers le [[plan Matériel]] par une [[action libre]]. Elles peuvent glisser du [[plan Matériel]] vers le [[plan Éthéré]] par une [[action de mouvement]] (ou au cours d'une [[action de mouvement]]). A part cela, cette capacité est identique au sort de *[[forme éthérée]]* ([[NLS]] 15).}
+{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 18 ; *fréquence* 1/round pendant 8 rounds ; *effet* [[affaiblissement temporaire]] 1d2 [[Constitution|Con]] ; *guérison* 2 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>*L’étrange visage humanoïde de cette gigantesque araignée monstrueuse est entouré d’une épaisse crinière de fourrure.*
 

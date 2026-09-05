@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Le personnage peut sacrifier un sort préparé afin de lancer spontanément son sort de spécialisation.*
 
-**Conditions.** [Int](./Int.md) 13, [École renforcée](./École renforcée.md), [Spécialisation magique](./Spécialisation magique.md), capacité à préparer des sorts de niveau 5
+**Conditions.** [[Int]] 13, [[École renforcée]], [[Spécialisation magique]], capacité à préparer des sorts de niveau 5
 
 **Avantage.** Si le personnage sacrifie un sort préparé de même niveau que son sort de spécialité ou de niveau supérieur, il peut lancer spontanément son sort de spécialité. Ce dernier agit à son niveau normal, quel que soit le niveau du sort sacrifié.
 
-Le personnage peut lui appliquer un don de [métamagie](./Dons.md#METAMAGIE) en augmentant le niveau d’emplacement du sort et le temps d’incantation, comme un prêtre qui lance spontanément un sort de soins ou de blessure avec un don de métamagie.
+Le personnage peut lui appliquer un don de [[Dons#METAMAGIE|métamagie]] en augmentant le niveau d’emplacement du sort et le temps d’incantation, comme un prêtre qui lance spontanément un sort de soins ou de blessure avec un don de métamagie.

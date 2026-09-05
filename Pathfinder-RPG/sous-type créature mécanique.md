@@ -10,8 +10,8 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire 3* p.301
 
-Les [créatures mécaniques](./Créatures mécaniques.md) sont des [créatures artificielles](./type Créature artificielle.md) créées par une fusion entre la magie et la technologie. Sauf précision contraire, elles ont les traits suivants :
+Les [[Créatures mécaniques]] sont des [[type créature artificielle|créatures artificielles]] créées par une fusion entre la magie et la technologie. Sauf précision contraire, elles ont les traits suivants :
 - **Création difficile (Ext).** Le temps et le coût en po nécessaires à la création d’une créature mécanique correspondent à 150% des besoins normaux. Les Conditions requises de l’entrée Construction d'une créature mécanique tiennent déjà compte de cette augmentation.
-- **Réactivité (Ext).** Les créatures mécaniques ont souvent des réactions bien plus rapides que les autres [créatures artificielles](./type Créature artificielle.md). Ils gagnent [Science de l’initiative](./Science de linitiative.md) et [Réflexes surhumains](./Réflexes surhumains.md) comme dons supplémentaires, ainsi qu’un bonus d’esquive de +2 à la [CA](./CA.md).
-- **Remontage (Ext).** Pour fonctionner, il faut remonter les créatures mécaniques avec une clef spéciale. En règle générale, une créature mécanique complètement remontée peut rester active pendant 1 journée par [dé de vie](./../Ressources/DV.md) mais il existe des durées plus longues ou plus courtes.
+- **Réactivité (Ext).** Les créatures mécaniques ont souvent des réactions bien plus rapides que les autres [[type créature artificielle|créatures artificielles]]. Ils gagnent [[science de linitiative|Science de l’initiative]] et [[Réflexes surhumains]] comme dons supplémentaires, ainsi qu’un bonus d’esquive de +2 à la [[CA]].
+- **Remontage (Ext).** Pour fonctionner, il faut remonter les créatures mécaniques avec une clef spéciale. En règle générale, une créature mécanique complètement remontée peut rester active pendant 1 journée par [[DV|dé de vie]] mais il existe des durées plus longues ou plus courtes.
 - **Vulnérable à l’électricité.** Les créatures mécaniques reçoivent 150% des dégâts normaux des attaques d’électricité.

@@ -13,11 +13,11 @@ Categories:
 <div class="BD">
 {s:BDtitre|Marin pirate|FP 1}
 {s:pucem|Humanoïde|Aquatique|Tempéré}
-{s:BDtexte|*Source : [Guide des Chaînes p.55](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide des Chaînes p.55]]*}
 {s:BDtexte|**PX** 200}
-{s:BDtexte|[Humain](./Humain.md) [roublard](./Roublard.md) 1}
-{s:BDtexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md)) de taille M, CN}
-{s:BDtexte|**Init** +3 ; [Perception](./Perception.md) +4}
+{s:BDtexte|[[Humain]] [[roublard]] 1}
+{s:BDtexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]]) de taille M, CN}
+{s:BDtexte|**Init** +3 ; [[Perception]] +4}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 16, contact 14, pris au dépourvu 12 (armure +2, Dex +3, esquive +1)}
 {s:BDtexte|**pv** 9 (1d8+1)}
@@ -25,18 +25,18 @@ Categories:
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 9 m}
 {s:BDtexte|**Corps à corps** cimeterre à deux mains, +2 (2d4+3/18-20) ou dague de maître, +3 (1d4+3/19-20)}
-{s:BDtexte|**Attaques spéciales** [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +1d6}
+{s:BDtexte|**Attaques spéciales** [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +1d6}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 15, **Dex** 16, **Con** 13, **Int** 12, **Sag** 10, **Cha** 8}
 {s:BDtexte|**BBA** +0, **BMO** +2, **DMD** 16}
-{s:BDtexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md)}
-{s:BDtexte|**Compétences** [Acrobaties](./Acrobaties.md) +7, [Bluff](./Bluff.md) +3, [Connaissances](./Connaissances.md) (folklore local) +5, [Diplomatie](./Diplomatie.md) +3, [Escalade](./Escalade.md) +6, [Évasion](./Évasion.md) +7, [Intimidation](./Intimidation.md) +3, [Natation](./Natation.md) +6, [Perception](./Perception.md) +4, [Psychologie](./Psychologie.md) +4, [Sabotage](./Sabotage.md) +7}
+{s:BDtexte|**Dons** [[Attaques réflexes]], [[Esquive]]}
+{s:BDtexte|**Compétences** [[Acrobaties]] +7, [[Bluff]] +3, [[Connaissances]] (folklore local) +5, [[Diplomatie]] +3, [[Escalade]] +6, [[Évasion]] +7, [[Intimidation]] +3, [[Natation]] +6, [[Perception]] +4, [[Psychologie]] +4, [[Sabotage]] +7}
 {s:BDtexte|**Langues** commun, polyglotte}
-{s:BDtexte|**Particularités** [recherche des pièges +1](./Roublard.md#RECHERCHEDESPIEGES)}
+{s:BDtexte|**Particularités** [[Roublard#RECHERCHEDESPIEGES|recherche des pièges +1]]}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** océans ou littoraux}
 {s:BDtexte|**Organisation sociale** solitaire, paire ou groupe (3-8)}
-{s:BDtexte|**Trésor** équipement de PNJ ([armure de cuir](./armure de cuir (armure).md), [cimeterre à deux mains](./cimeterre à deux mains (arme).md), [dague](./dague (arme).md) [de maître](./arme de maître.md), autres trésors)}
+{s:BDtexte|**Trésor** équipement de PNJ ([[armure de cuir (armure)|armure de cuir]], [[cimeterre à deux mains (arme)|cimeterre à deux mains]], [[dague (arme)|dague]] [[arme de maître|de maître]], autres trésors)}
 </div>
 </td>
 <td>

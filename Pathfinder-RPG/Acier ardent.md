@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#ACIERARDENT
 ---
 
->>> [Matériaux spéciaux#ACIERARDENT](./Matériaux spéciaux.md#ACIERARDENT)
+>>> [[Matériaux spéciaux#ACIERARDENT]]

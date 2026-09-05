@@ -30,6 +30,6 @@ Ce bonus et ce malus peuvent s’appliquer aux caractéristiques modifiées par 
 </div>
 </td><td><div>
 
-Voir aussi l'exemple : [Lillende à l'âme brisée](./lillende à lâme brisée.md)
+Voir aussi l'exemple : [[Lillende à lâme brisée|Lillende à l'âme brisée]]
 
 </div></td></tr></table>

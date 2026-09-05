@@ -13,10 +13,10 @@ Categories:
 
 **Catégorie.** combat
 
-**Conditions.** [halfelin](./Halfelin.md), [Combattant prudent](./Combattant prudent.md), [BBA](./BBA.md)+3
+**Conditions.** [[halfelin]], [[Combattant prudent]], [[BBA]]+3
 
-**Avantages.** Quand le personnage se [bat sur la défensive](./combat sur la défensive.md) ou se met en [défense totale](./défense totale.md), il gagne un bonus aux jets de [Réflexes](./Réflexes.md) et au [DMD](./DMD.md) égal à 1/2 bonus d’esquive que l’action donne à la [CA](./CA.md).
+**Avantages.** Quand le personnage se [[Combat sur la défensive|bat sur la défensive]] ou se met en [[défense totale]], il gagne un bonus aux jets de [[Réflexes]] et au [[DMD]] égal à 1/2 bonus d’esquive que l’action donne à la [[CA]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage se [bat sur la défensive](./combat sur la défensive.md) ou opte pour l’action de [défense totale](./défense totale.md), s’il tente un jet de [Réflexes](./Réflexes.md) ou s’il est victime d’une manœuvre offensive, il peut dépenser un nombre de points d’endurance inférieur ou égal au montant de son bonus de [Dextérité](./Dextérité.md) pour bénéficier d’un bonus au jet de Réflexes ou au [DMD](./DMD.md) égal au nombre de points d’endurance dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage se [[combat sur la défensive|bat sur la défensive]] ou opte pour l’action de [[défense totale]], s’il tente un jet de [[Réflexes]] ou s’il est victime d’une manœuvre offensive, il peut dépenser un nombre de points d’endurance inférieur ou égal au montant de son bonus de [[Dextérité]] pour bénéficier d’un bonus au jet de Réflexes ou au [[DMD]] égal au nombre de points d’endurance dépensés.

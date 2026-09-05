@@ -4,11 +4,11 @@ Title: Nous zombis !
 LastModified: 2023-04-27 17:33
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur Otari](./OTARI.md)
+• [[OTARI|Retour à la page sur Otari]]
 
-Voici une courte rencontre que les MJ peuvent ajouter à leurs campagnes tournant autour d'Otari, qu'il s'agisse de la boîte d'initiation, des aventures de Troubles à Otari, de la campagne [Le Donjon des Abominations](./AP28.md) ou d'une campagne de leur cru. On pourrait penser qu'une petite horde de zombis gobelins est une rencontre étrange dans une petite ville côtière pacifique comme Otari mais les lecteurs de la mini-nouvelle "Le Voile des quatre silences" verront la connexion.
+Voici une courte rencontre que les MJ peuvent ajouter à leurs campagnes tournant autour d'Otari, qu'il s'agisse de la boîte d'initiation, des aventures de Troubles à Otari, de la campagne [[AP28|Le Donjon des Abominations]] ou d'une campagne de leur cru. On pourrait penser qu'une petite horde de zombis gobelins est une rencontre étrange dans une petite ville côtière pacifique comme Otari mais les lecteurs de la mini-nouvelle "Le Voile des quatre silences" verront la connexion.
 
 ### La cabane abandonnée (Modérée 1)
 Cette rencontre se déroule dans ou près d'une cabane abandonnée située à proximité d'un monument très ancien qui s'est écroulé il y a longtemps de cela. Un alchimiste nécromancien a animé les corps de quatre pauvre gobelins et a fourré leur estomac de composantes alchimiques qui explosent lorsqu'ils sont détruits. Les gobelins sont tapis dans la cabane, pour exterminer les intrus ou peut-être protéger un indice ou un trésor.

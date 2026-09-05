@@ -8,7 +8,7 @@ Categories:
 
 *Les sorts du personnage ont plus de facilité à franchir les défenses de ses ennemis.*
 
-**Avantage.** Le personnage bénéficie d’un bonus de +2 à son [test](./../Golarion/Test.md) de [niveau de lanceur de sorts](./NLS.md) (1d20 + niveau de lanceur de sorts) lorsqu’il s’agit de franchir la [résistance à la magie](./RM.md) d’une cible.
+**Avantage.** Le personnage bénéficie d’un bonus de +2 à son [[test]] de [[NLS|niveau de lanceur de sorts]] (1d20 + niveau de lanceur de sorts) lorsqu’il s’agit de franchir la [[RM|résistance à la magie]] d’une cible.
 
 {s:CMy}
 ### Version mythique
@@ -16,4 +16,4 @@ Categories:
 
 **Condition.** Efficacité des sorts accrue
 
-**Avantage.** Le personnage ajoute la moitié de son [grade](./Grade.md) aux tests de niveau de lanceur de sorts effectués pour ignorer la résistance à la magie. S’il possède [Efficacité des sorts accrue supérieure](./Efficacité des sorts accrue supérieure.md), il ajoute à la place son [grade](./Grade.md) complet.
+**Avantage.** Le personnage ajoute la moitié de son [[grade]] aux tests de niveau de lanceur de sorts effectués pour ignorer la résistance à la magie. S’il possède [[Efficacité des sorts accrue supérieure]], il ajoute à la place son [[grade]] complet.

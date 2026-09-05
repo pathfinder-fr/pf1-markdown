@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Intimidante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Intimidante](./Descriptions individuelles des propriétés spéciales des armes.md#Intimidante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Intimidante]]

@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Gilet d’évasion|{s:AE}}
-**Aura** [Invocation](./Invocation.md) et [Transmutation](./Transmutation.md) faibles ; **NLS** 4 ; **Emplacement** [torse](./Objets merveilleux portés sur le torse.md) ; **Prix** 5 200 po ; **Poids** —
+**Aura** [[Invocation]] et [[Transmutation]] faibles ; **NLS** 4 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 5 200 po ; **Poids** —
 (((Description)))
-Les poches secrètes de ce gilet en soie contiennent des outils de cambrioleur magiques, qui offrent un bonus de compétence de +4 aux tests de [Sabotage](./Sabotage.md) du personnage. Le gilet lui-même confère un bonus de compétence de +6 aux tests d’[Évasion](./Évasion.md).
+Les poches secrètes de ce gilet en soie contiennent des outils de cambrioleur magiques, qui offrent un bonus de compétence de +4 aux tests de [[Sabotage]] du personnage. Le gilet lui-même confère un bonus de compétence de +6 aux tests d’[[Évasion]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[déblocage](./Déblocage.md)*, *[graisse](./Graisse.md)* ; **Coût** 2 600 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[déblocage]]*, *[[graisse]]* ; **Coût** 2 600 po
 </div>

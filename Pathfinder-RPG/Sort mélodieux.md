@@ -12,4 +12,4 @@ Categories:
 
 **Condition**. Musique de barde
 
-**Avantages**. Quand le personnage lance un sort alors qu’il maintient une [représentation bardique](./représentation bardique.md), il peut la maintenir pour le round sans dépenser un de ses rounds de représentation quotidiens. De plus, il peut passer d’un type de représentation à un autre par une [action rapide](./Action rapide.md) quand il lance un sort, tout en maintenant une représentation bardique.
+**Avantages**. Quand le personnage lance un sort alors qu’il maintient une [[représentation bardique]], il peut la maintenir pour le round sans dépenser un de ses rounds de représentation quotidiens. De plus, il peut passer d’un type de représentation à un autre par une [[action rapide]] quand il lance un sort, tout en maintenant une représentation bardique.

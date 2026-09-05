@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bracelets hurlants|{s:MCA}}
-**Aura** [Enchantement](./Enchantement.md) modéré ; **NLS** 7 ; **Emplacement** [poignets](./Objets merveilleux portés aux poignets.md) ; **Prix** 7 000 po ; **Poids** 0,5 kg
+**Aura** [[Enchantement]] modéré ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés aux poignets|poignets]] ; **Prix** 7 000 po ; **Poids** 0,5 kg
 (((Description)))
-Ces bracelets forgés dans du fer lourd sont ornés de motifs représentant des loups qui hurlent. Une fois par jour, sur commande, le personnage peut entrechoquer les deux bracelets en rythme. De ce fait, les loups gravés dessus prennent vie et se mettent à hurler en choeur, avec le même effet que *[désespoir foudroyant](./Désespoir foudroyant.md)* ([DD](./DD.md) 16). De plus, pour chaque tranche de deux créatures sous les effets du [chant de rage](./Scalde.md#CHANTDERAGE) du personnage quand ce pouvoir est utilisé, le [DD](./DD.md) est augmenté de 1, jusqu’à un maximum de 5.
+Ces bracelets forgés dans du fer lourd sont ornés de motifs représentant des loups qui hurlent. Une fois par jour, sur commande, le personnage peut entrechoquer les deux bracelets en rythme. De ce fait, les loups gravés dessus prennent vie et se mettent à hurler en choeur, avec le même effet que *[[désespoir foudroyant]]* ([[DD]] 16). De plus, pour chaque tranche de deux créatures sous les effets du [[scalde#CHANTDERAGE|chant de rage]] du personnage quand ce pouvoir est utilisé, le [[DD]] est augmenté de 1, jusqu’à un maximum de 5.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[désespoir foudroyant](./Désespoir foudroyant.md)*, le créateur doit posséder le pouvoir de classe [chant de rage](./Scalde.md#CHANTDERAGE) ; **Coût** 3 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[désespoir foudroyant]]*, le créateur doit posséder le pouvoir de classe [[scalde#CHANTDERAGE|chant de rage]] ; **Coût** 3 500 po
 </div>

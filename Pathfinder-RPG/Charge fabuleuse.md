@@ -8,12 +8,12 @@ Categories:
 - Don Combat
 ---
 
-{s:cm}**Cette option est plus courante chez les [géants du froid](./Géant du froid.md).**
+{s:cm}**Cette option est plus courante chez les [[Géant du froid|géants du froid]].**
 
 *Le personnage peut projeter ses adversaires en l’air quand il charge.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** [For](./For.md) 25, [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Science de la bousculade](./Science de la bousculade.md)
+**Condition.** [[For]] 25, [[Attaque en puissance]], [[Coup fabuleux]], [[Science de la bousculade]]
 
-**Avantage.** Quand le personnage touche une créature alors qu’il [charge](./charge.md), il peut tenter une manœuvre de [Coup fabuleux](./Coup fabuleux.md) contre elle par une [action libre](./Action libre.md).
+**Avantage.** Quand le personnage touche une créature alors qu’il [[charge]], il peut tenter une manœuvre de [[Coup fabuleux]] contre elle par une [[action libre]].

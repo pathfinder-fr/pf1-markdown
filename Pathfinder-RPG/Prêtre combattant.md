@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:Menuclasseshybrides}
-<div class="fright">***Voir aussi les [bénédictions](./Bénédictions.md).***
-***Voir aussi la [liste des sorts de prêtre](./Liste des sorts de prêtres.md).***
+<div class="fright">***Voir aussi les [[Bénédictions]].***
+***Voir aussi la [[Liste des sorts de prêtres|liste des sorts de prêtre]].***
 {s:PM0|prêtrecombattant}**Voir les archétypes du prêtre combattant**&emsp;
 <li ID="prêtrecombattant" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeprêtrecombattant}</li>
 </div>{s:mca}*Capables d’utiliser la puissance des dieux sous forme de bénédictions et de sorts, les prêtres combattants mêlent magie divine et talents martiaux. Ce sont d’imprenables bastions de leur religion qui chantent les louanges de leur dieu alors même qu’ils soumettent leurs ennemis en les rouant de coups. Ils ne reculent jamais devant un défi lancé à leurs croyances. Les prêtres usent souvent de subtilité et de diplomatie pour atteindre leurs objectifs alors que les prêtres combattants n’hésitent pas à recourir à la violence dès que la situation l’exige. Dans nombre de religions, ils forment le noyau des forces martiales de leur église : ils récupèrent les reliques perdues, volent au secours des membres du clergé enlevés et défendent les préceptes de leur église contre tous ceux qui osent les défier.*
@@ -40,7 +40,7 @@ Categories:
 | +0
 | +2
 | +2
-| CLASS="gauche" | [Prêtre combattant#ARMEDEPREDILECTION|Arme de prédilection], [Prêtre combattant#ARMESACREE|arme sacrée], [Prêtre combattant#AURA|aura], [Prêtre combattant#BENEDICTIONS|bénédictions] (mineures), [Prêtre combattant#ORAISONS|oraisons]
+| CLASS="gauche" | [[Prêtre combattant#ARMEDEPREDILECTION|Arme de prédilection]], [[Prêtre combattant#ARMESACREE|arme sacrée]], [[Prêtre combattant#AURA|aura]], [[Prêtre combattant#BENEDICTIONS|bénédictions]] (mineures), [[Prêtre combattant#ORAISONS|oraisons]]
 | 1d6
 | 3
 | 1
@@ -55,7 +55,7 @@ Categories:
 | +0
 | +3
 | +3
-| CLASS="gauche" | [Prêtre combattant#FERVEUR|Ferveur] 1d6
+| CLASS="gauche" | [[Prêtre combattant#FERVEUR|Ferveur]] 1d6
 | 1d6
 | 4
 | 2
@@ -70,7 +70,7 @@ Categories:
 | +1
 | +3
 | +3
-| CLASS="gauche" | [Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]
+| CLASS="gauche" | [[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]
 | 1d6
 | 4
 | 3
@@ -85,7 +85,7 @@ Categories:
 | +1
 | +4
 | +4
-| CLASS="gauche" | [Prêtre combattant#ARMESACREE|Arme sacrée] +1, [Prêtre combattant#CANALISATIONDENERGIE|canalisation d'énergie]
+| CLASS="gauche" | [[Prêtre combattant#ARMESACREE|Arme sacrée]] +1, [[Prêtre combattant#CANALISATIONDENERGIE|canalisation d'énergie]]
 | 1d6
 | 4
 | 3
@@ -100,7 +100,7 @@ Categories:
 | +1
 | +4
 | +4
-| CLASS="gauche" | [Prêtre combattant#FERVEUR|Ferveur] 2d6
+| CLASS="gauche" | [[Prêtre combattant#FERVEUR|Ferveur]] 2d6
 | 1d8
 | 4
 | 4
@@ -115,7 +115,7 @@ Categories:
 | +2
 | +5
 | +5
-| CLASS="gauche" | [Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]
+| CLASS="gauche" | [[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]
 | 1d8
 | 5
 | 4
@@ -130,7 +130,7 @@ Categories:
 | +2
 | +5
 | +5
-| CLASS="gauche" | [Prêtre combattant#ARMURESACREE|Armure sacrée] +1
+| CLASS="gauche" | [[Prêtre combattant#ARMURESACREE|Armure sacrée]] +1
 | 1d8
 | 5
 | 4
@@ -145,7 +145,7 @@ Categories:
 | +2
 | +6
 | +6
-| CLASS="gauche" | [Prêtre combattant#ARMESACREE|Arme sacrée] +2, [Prêtre combattant#FERVEUR|Ferveur] 3d6
+| CLASS="gauche" | [[Prêtre combattant#ARMESACREE|Arme sacrée]] +2, [[Prêtre combattant#FERVEUR|Ferveur]] 3d6
 | 1d8
 | 5
 | 4
@@ -160,7 +160,7 @@ Categories:
 | +3
 | +6
 | +6
-| CLASS="gauche" | [Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]
+| CLASS="gauche" | [[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]
 | 1d8
 | 5
 | 5
@@ -175,7 +175,7 @@ Categories:
 | +3
 | +7
 | +7
-| CLASS="gauche" | [Prêtre combattant#ARMURESACREE|Armure sacrée] +2, [Prêtre combattant#BENEDICTIONS|bénédictions] (majeures)
+| CLASS="gauche" | [[Prêtre combattant#ARMURESACREE|Armure sacrée]] +2, [[Prêtre combattant#BENEDICTIONS|bénédictions]] (majeures)
 | 1d10
 | 5
 | 5
@@ -190,7 +190,7 @@ Categories:
 | +3
 | +7
 | +7
-| CLASS="gauche" | [Prêtre combattant#FERVEUR|Ferveur] 4d6
+| CLASS="gauche" | [[Prêtre combattant#FERVEUR|Ferveur]] 4d6
 | 1d10
 | 5
 | 5
@@ -205,7 +205,7 @@ Categories:
 | +4
 | +8
 | +8
-| CLASS="gauche" | [Prêtre combattant#ARMESACREE|Arme sacrée] +3, [Prêtre combattant#DONSUPPLEMENTAIRE|don supplémentaire]
+| CLASS="gauche" | [[Prêtre combattant#ARMESACREE|Arme sacrée]] +3, [[Prêtre combattant#DONSUPPLEMENTAIRE|don supplémentaire]]
 | 1d10
 | 5
 | 5
@@ -220,7 +220,7 @@ Categories:
 | +4
 | +8
 | +8
-| CLASS="gauche" | [Prêtre combattant#ARMURESACREE|Armure sacrée] +3
+| CLASS="gauche" | [[Prêtre combattant#ARMURESACREE|Armure sacrée]] +3
 | 1d10
 | 5
 | 5
@@ -235,7 +235,7 @@ Categories:
 | +4
 | +9
 | +9
-| CLASS="gauche" | [Prêtre combattant#FERVEUR|Ferveur] 5d6
+| CLASS="gauche" | [[Prêtre combattant#FERVEUR|Ferveur]] 5d6
 | 1d10
 | 5
 | 5
@@ -250,7 +250,7 @@ Categories:
 | +5
 | +9
 | +9
-| CLASS="gauche" | [Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]
+| CLASS="gauche" | [[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]
 | 2d6
 | 5
 | 5
@@ -265,7 +265,7 @@ Categories:
 | +5
 | +10
 | +10
-| CLASS="gauche" | [Prêtre combattant#ARMESACREE|Arme sacrée] +4, [Prêtre combattant#ARMURESACREE|armure sacrée] +4
+| CLASS="gauche" | [[Prêtre combattant#ARMESACREE|Arme sacrée]] +4, [[Prêtre combattant#ARMURESACREE|armure sacrée]] +4
 | 2d6
 | 5
 | 5
@@ -280,7 +280,7 @@ Categories:
 | +5
 | +10
 | +10
-| CLASS="gauche" | [Prêtre combattant#FERVEUR|Ferveur] 6d6
+| CLASS="gauche" | [[Prêtre combattant#FERVEUR|Ferveur]] 6d6
 | 2d6
 | 5
 | 5
@@ -295,7 +295,7 @@ Categories:
 | +6
 | +11
 | +11
-| CLASS="gauche" | [Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]
+| CLASS="gauche" | [[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]
 | 2d6
 | 5
 | 5
@@ -310,7 +310,7 @@ Categories:
 | +6
 | +11
 | +11
-| CLASS="gauche" | [Prêtre combattant#ARMURESACREE|Armure sacrée] +5
+| CLASS="gauche" | [[Prêtre combattant#ARMURESACREE|Armure sacrée]] +5
 | 2d6
 | 5
 | 5
@@ -325,7 +325,7 @@ Categories:
 | +6
 | +12
 | +12
-| CLASS="gauche" | [Prêtre combattant#ARMESACREE|Arme sacrée] +5, [Prêtre combattant#ASPECTDELAGUERRE|aspect de la guerre], [Prêtre combattant#FERVEUR|ferveur] 7d6
+| CLASS="gauche" | [[Prêtre combattant#ARMESACREE|Arme sacrée]] +5, [[Prêtre combattant#ASPECTDELAGUERRE|aspect de la guerre]], [[Prêtre combattant#FERVEUR|ferveur]] 7d6
 | 2d8
 | 5
 | 5
@@ -335,12 +335,12 @@ Categories:
 | 5
 | 5
 |- CLASS="note"
-| COLSPAN="14" | *(*) Les valeurs sont indiquées pour des prêtres combattants de taille M. Pour ceux de taille P et G, consultez le pouvoir de classe [arme sacrée](./Prêtre combattant.md#ARMESACREE).*
+| COLSPAN="14" | *(*) Les valeurs sont indiquées pour des prêtres combattants de taille M. Pour ceux de taille P et G, consultez le pouvoir de classe [[Prêtre combattant#ARMESACREE|arme sacrée]].*
 |}
 
 **Rôle.** Les prêtres combattants sont des guérisseurs et des lanceurs de sorts compétents qui puisent dans leurs pouvoirs divins au beau milieu des batailles où leur armure et leurs talents martiaux sont mis à rude épreuve.
 
-**Classes mères.** [Guerrier](./Guerrier.md) et [prêtre](./Prêtre.md).
+**Classes mères.** [[Guerrier]] et [[Prêtre]].
 
 **Alignement.** L’alignement du prêtre combattant ne doit pas s’éloigner de plus d’un cran de celui de sa divinité sur l’axe Loi/Chaos ou Bien/Mal.
 
@@ -349,9 +349,9 @@ Categories:
 **Argent de départ.** 5d6 x 10 po (moyenne 175 po).
 
 ### Compétences de classe
-Voici les compétences de classe du prêtre combattant : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Connaissances](./Connaissances.md) (ingénierie) (Int), [Connaissances](./Connaissances.md) (religion) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Dressage](./Dressage.md) (Cha), [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Intimidation](./Intimidation.md) (Cha), [Natation](./Natation.md) (For), [Premiers secours](./Premiers secours.md) (Sag), [Profession](./Profession.md) (Sag), [Psychologie](./Psychologie.md) (Sag), [Survie](./Survie.md) (Sag)
+Voici les compétences de classe du prêtre combattant : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (ingénierie) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Intimidation]] (Cha), [[Natation]] (For), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag), [[Survie]] (Sag)
 
-**Rangs de compétence par niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.** 2 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
 Voici les aptitudes de classe du prêtre combattant.
@@ -361,7 +361,7 @@ Voici les aptitudes de classe du prêtre combattant.
 #### Armes et armures
 Le prêtre combattant est formé au maniement de toutes les armes courantes et de guerre, ainsi que de l’arme de prédilection de son dieu.
 
-Il est formé au port des armures (lourdes, légères et intermédiaires) et au maniement des boucliers (à l’exception du pavois). Si le prêtre combattant vénère un dieu ayant pour arme de prédilection les mains nues, il gagne le don [Science du combat à mains nues](./Science du combat à mains nues.md) comme don supplémentaire.
+Il est formé au port des armures (lourdes, légères et intermédiaires) et au maniement des boucliers (à l’exception du pavois). Si le prêtre combattant vénère un dieu ayant pour arme de prédilection les mains nues, il gagne le don [[Science du combat à mains nues]] comme don supplémentaire.
 
 {s:Reference|SORTS}
 #### Sorts
@@ -369,12 +369,12 @@ Le prêtre combattant lance des sorts divins issus de la liste du prêtre. Un pr
 
 Le prêtre combattant choisit et prépare ses sorts à l’avance. Le prêtre combattant lance des sorts de niveau 6 au maximum, les sorts de prêtres de niveau 7 et plus ne figurent pas sur sa propre liste de sorts et il ne peut pas utiliser d’objets à potentiel magique ou à fin d’incantation utilisant un sort de prêtre de niveau 7 ou plus (à moins de réussir un test d’Utilisation d’objets magiques).
 
-Pour préparer ou lancer un sort, le prêtre combattant doit avoir une valeur de [Sagesse](./Sagesse.md) au moins égale à 10 + niveau du sort. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) pour résister au sort du prêtre combattant est de 10 + niveau du sort + modificateur de Sagesse du prêtre combattant.
+Pour préparer ou lancer un sort, le prêtre combattant doit avoir une valeur de [[Sagesse]] au moins égale à 10 + niveau du sort. Le [[DD]] du [[jet de sauvegarde]] pour résister au sort du prêtre combattant est de 10 + niveau du sort + modificateur de Sagesse du prêtre combattant.
 
-Comme d’autres lanceurs de sorts, le prêtre combattant lance un nombre limité de sorts de chaque niveau chaque jour. Ce nombre figure dans la table ci-dessus. De plus, s’il a une valeur de Sagesse élevée, il reçoit des [sorts quotidiens supplémentaires](./Caractéristiques.md#DETERMINERLESMODIFICATEURS).
+Comme d’autres lanceurs de sorts, le prêtre combattant lance un nombre limité de sorts de chaque niveau chaque jour. Ce nombre figure dans la table ci-dessus. De plus, s’il a une valeur de Sagesse élevée, il reçoit des [[Caractéristiques#DETERMINERLESMODIFICATEURS|sorts quotidiens supplémentaires]].
 
 Le prêtre combattant prie ou médite pour obtenir ses sorts. Il choisit la période de la journée pendant laquelle il consacre,
-chaque jour, une heure en contemplation silencieuse ou en suppliques, afin de récupérer son nombre de sorts quotidiens. Le prêtre combattant peut préparer et lancer n’importe quel [sort de la liste du prêtre](./Liste des sorts de prêtres.md), à condition d’avoir le niveau requis, mais il doit choisir les sorts qu’il prépare lors de sa méditation quotidienne.
+chaque jour, une heure en contemplation silencieuse ou en suppliques, afin de récupérer son nombre de sorts quotidiens. Le prêtre combattant peut préparer et lancer n’importe quel [[liste des sorts de prêtres|sort de la liste du prêtre]], à condition d’avoir le niveau requis, mais il doit choisir les sorts qu’il prépare lors de sa méditation quotidienne.
 
 {s:Reference|ORAISONS}
 #### Oraisons
@@ -382,7 +382,7 @@ Les prêtres combattants préparent un certain nombre d’oraisons (ou sorts de 
 
 {s:Reference|AURA}
 #### Aura (Ext)
-Le prêtre combattant d’une divinité Chaotique, Mauvaise, Bonne ou Loyale produit une aura particulièrement puissante (comme un [prêtre](./Prêtre.md)), correspondant à l’alignement de son dieu (voir *[détection du Mal](./Détection du Mal.md)*).
+Le prêtre combattant d’une divinité Chaotique, Mauvaise, Bonne ou Loyale produit une aura particulièrement puissante (comme un [[prêtre]]), correspondant à l’alignement de son dieu (voir *[[détection du Mal]]*).
 
 {s:Reference|BENEDICTIONS}
 #### Bénédictions (Sur)
@@ -392,13 +392,13 @@ Chaque bénédiction accorde un pouvoir mineur au niveau 1 et un pouvoir majeur 
 
 Chaque jour, le prêtre combattant peut faire appel au pouvoir de ses bénédictions un nombre total de fois égal à 3 + 1/2 niveau de prêtre combattant (pour un maximum de 13 fois au niveau 20). Chaque fois que le prêtre combattant utilise une de ses bénédictions, une utilisation est décomptée de ce quota quotidien.
 
-Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) contre une bénédiction est de 10 + 1/2 niveau du prêtre combattant + son modificateur de [Sagesse](./Sagesse.md). Si le prêtre combattant possède des niveaux dans une autre classe offrant des [domaines](./Domaines.md) de prêtres, ses bénédictions doivent être issues des mêmes domaines. Si le MJ accepte, le prêtre combattant peut changer ses bénédictions ou ses domaines pour les mettre en conformité.
+Le [[DD]] du [[jet de sauvegarde]] contre une bénédiction est de 10 + 1/2 niveau du prêtre combattant + son modificateur de [[Sagesse]]. Si le prêtre combattant possède des niveaux dans une autre classe offrant des [[domaines]] de prêtres, ses bénédictions doivent être issues des mêmes domaines. Si le MJ accepte, le prêtre combattant peut changer ses bénédictions ou ses domaines pour les mettre en conformité.
 
-*Voir la [liste des bénédictions](./Bénédictions.md).*
+*Voir la [[Bénédictions|liste des bénédictions]].*
 
 {s:Reference|ARMEDEPREDILECTION}
 #### Arme de prédilection.
-Au niveau 1, le prêtre combattant reçoit [Arme de prédilection](./Arme de prédilection.md) comme don supplémentaire (il peut choisir n’importe quelle arme, pas seulement l’arme de prédilection de son dieu).
+Au niveau 1, le prêtre combattant reçoit [[Arme de prédilection]] comme don supplémentaire (il peut choisir n’importe quelle arme, pas seulement l’arme de prédilection de son dieu).
 
 {s:Reference|ARMESACREE}
 #### Arme sacrée (Sur)
@@ -432,29 +432,29 @@ combattants de taille P ou G
 | 2d6
 | 3d8
 |}
-</div></div>Dès le niveau 1, les armes du prêtre combattant sont imprégnées de la puissance de sa foi. Cela s’applique à l’arme de prédilection de son dieu mais aussi à toutes celles qui bénéficient du don [Arme de prédilection](./Arme de prédilection.md). Si le prêtre combattant a pris ce don à plusieurs reprises, toutes les armes associées sont sacrées pour lui.
+</div></div>Dès le niveau 1, les armes du prêtre combattant sont imprégnées de la puissance de sa foi. Cela s’applique à l’arme de prédilection de son dieu mais aussi à toutes celles qui bénéficient du don [[Arme de prédilection]]. Si le prêtre combattant a pris ce don à plusieurs reprises, toutes les armes associées sont sacrées pour lui.
 
 Quand le prêtre combattant touche un adversaire avec une arme sacrée, les dégâts se basent sur le niveau du prêtre combattant et non sur le type de l’arme. Les dégâts des armes sacrées des prêtres combattants de taille M figurent dans la table de la classe, ceux des prêtres de taille P et G se trouvent dans la table ci-contre. Le prêtre combattant peut choisir d’appliquer les dégâts de base de son arme au lieu des dégâts de l’arme sacrée mais il doit l’annoncer avant de faire son jet (si les dégâts de base de l’arme excèdent ceux de l’arme sacrée, ils ne changent pas).
 
 L’augmentation de dégâts n’affecte pas les autres aspects de l’arme et ne s’applique pas aux objets alchimiques, aux bombes et autres armes infligeant des dégâts d’énergie destructive.
 
-Au niveau 4, le prêtre combattant apprend à améliorer une arme sacrée en l’imprégnant de la puissance divine par une [action rapide](./Action rapide.md). L’arme bénéficie alors d’un bonus d’altération de +1. Tous les quatre niveaux après le 4<sup>ème</sup>, ce bonus augmente de 1, pour un maximum de +5 au niveau 20. Si le prêtre combattant possède plusieurs armes sacrées, il peut en améliorer une autre au round suivant par une nouvelle [action rapide](./Action rapide.md).
+Au niveau 4, le prêtre combattant apprend à améliorer une arme sacrée en l’imprégnant de la puissance divine par une [[action rapide]]. L’arme bénéficie alors d’un bonus d’altération de +1. Tous les quatre niveaux après le 4<sup>ème</sup>, ce bonus augmente de 1, pour un maximum de +5 au niveau 20. Si le prêtre combattant possède plusieurs armes sacrées, il peut en améliorer une autre au round suivant par une nouvelle [[action rapide]].
 
 Chaque jour, le prêtre combattant peut utiliser ce pouvoir un nombre de rounds égal à son niveau de classe, ces rounds n’étant pas forcément consécutifs. Ces bonus se cumulent avec ceux que l’arme possède peut-être déjà, sans jamais dépasser +5 au total.
 
-Le prêtre combattant peut améliorer une arme en la dotant des propriétés spéciales d’arme suivantes : [acérée](./Armes magiques.md#Acérée), de [destruction](./Armes magiques.md#Destruction), [de feu](./Armes magiques.md#Feu), [de froid](./Armes magiques.md#Froid), [de lumière](./Armes magiques.md#Lumière), [gardienne](./Armes magiques.md#Gardienne) ou [de foudre](./Armes magiques.md#Foudre).
-- S’il est Chaotique, il peut aussi ajouter [anarchique](./Armes magiques.md#Anarchique) et [vicieuse](./Armes magiques.md#Vicieuse). 
-- S’il est Mauvais, il peut aussi ajouter [d’enchaînement](./Armes magiques.md#Enchaînement) et [impie](./Armes magiques.md#Impie). 
-- S’il est Bon, il peut aussi ajouter [spectrale](./Armes magiques.md#Spectrale) et [sainte](./Armes magiques.md#Sainte).
-- S’il est Loyal, il peut aussi ajouter [axiomatique](./Armes magiques.md#Axiomatique) et [miséricordieuse](./Armes magiques.md#Miséricordieuse).
-- S’il est Neutre (sans autre composante d’alignement), il peut aussi ajouter [de stockage de sorts](./Armes magiques.md#Stockagedesort) et de [tonnerre](./Armes magiques.md#Tonnerre).
+Le prêtre combattant peut améliorer une arme en la dotant des propriétés spéciales d’arme suivantes : [[Armes Magiques#Acérée|acérée]], de [[Armes Magiques#Destruction|destruction]], [[Armes Magiques#Feu|de feu]], [[Armes Magiques#Froid|de froid]], [[Armes Magiques#Lumière|de lumière]], [[Armes Magiques#Gardienne|gardienne]] ou [[Armes Magiques#Foudre|de foudre]].
+- S’il est Chaotique, il peut aussi ajouter [[Armes Magiques#Anarchique|anarchique]] et [[Armes Magiques#Vicieuse|vicieuse]]. 
+- S’il est Mauvais, il peut aussi ajouter [[Armes Magiques#Enchaînement|d’enchaînement]] et [[Armes Magiques#Impie|impie]]. 
+- S’il est Bon, il peut aussi ajouter [[Armes Magiques#Spectrale|spectrale]] et [[Armes Magiques#Sainte|sainte]].
+- S’il est Loyal, il peut aussi ajouter [[Armes Magiques#Axiomatique|axiomatique]] et [[Armes Magiques#Miséricordieuse|miséricordieuse]].
+- S’il est Neutre (sans autre composante d’alignement), il peut aussi ajouter [[Armes Magiques#Stockagedesort|de stockage de sorts]] et de [[Armes Magiques#Tonnerre|tonnerre]].
 Ces propriétés coûtent et remplacent un bonus d’altération de valeur équivalente. Les propriétés en double ne se cumulent pas. L’arme doit disposer d’un bonus d’altération d’au moins +1 avant de pouvoir bénéficier de propriétés spéciales.
 
 Si le prêtre combattant améliore plusieurs armes, elles consomment des rounds de pouvoir indépendamment les unes des autres.
 
 Le bonus d’altération et les propriétés spéciales sont à déterminer quand le prêtre combattant utilise ce pouvoir pour la première fois de la journée. Il ne peut plus en changer jusqu’au lendemain.
 
-Ces bonus ne s’appliquent pas si une créature autre que le prêtre combattant manie l’arme mais ils restent actifs si l’arme quitte sa main (s’il la lance, par exemple). Le prêtre combattant peut mettre fin à cette aptitude par une [action libre](./Action libre.md) au début de son tour (ce round n’est pas décompté de sa limite d’utilisations quotidiennes, à moins qu’il ne réactive le pouvoir au cours du même round). Si le prêtre combattant utilise ce pouvoir sur une arme double, l’effet s’applique sur l’une des têtes de l’arme seulement.
+Ces bonus ne s’appliquent pas si une créature autre que le prêtre combattant manie l’arme mais ils restent actifs si l’arme quitte sa main (s’il la lance, par exemple). Le prêtre combattant peut mettre fin à cette aptitude par une [[action libre]] au début de son tour (ce round n’est pas décompté de sa limite d’utilisations quotidiennes, à moins qu’il ne réactive le pouvoir au cours du même round). Si le prêtre combattant utilise ce pouvoir sur une arme double, l’effet s’applique sur l’une des têtes de l’arme seulement.
 
 {s:Reference|INCANTATIONSPONTANEE}
 #### Incantation spontanée
@@ -485,7 +485,7 @@ Par une action rapide, le prêtre combattant peut dépenser une utilisation de c
 
 {s:Reference|DONSUPPLEMENTAIRE}
 #### Dons supplémentaires
-Au niveau 3 puis tous les trois niveaux, le prêtre combattant gagne un don supplémentaire, en plus de ceux obtenus grâce à son évolution normale. Il doit les choisir parmi les dons de combat. Il doit remplir les conditions requises mais considère ses niveaux de prêtre combattant comme [bonus de base à l’attaque](./BBA.md) (qu’il ajoute aux bonus de base à l’attaque obtenus grâce aux autres classes et [DV](./../Ressources/DV.md) raciaux) pour déterminer s'il en remplit les prérequis. Enfin, vis-à-vis de ces dons, le prêtre combattant peut choisir des dons nécessitant un nombre minimum de niveaux de guerrier, en considérant son niveau de prêtre combattant comme le niveau de guerrier.
+Au niveau 3 puis tous les trois niveaux, le prêtre combattant gagne un don supplémentaire, en plus de ceux obtenus grâce à son évolution normale. Il doit les choisir parmi les dons de combat. Il doit remplir les conditions requises mais considère ses niveaux de prêtre combattant comme [[BBA|bonus de base à l’attaque]] (qu’il ajoute aux bonus de base à l’attaque obtenus grâce aux autres classes et [[DV]] raciaux) pour déterminer s'il en remplit les prérequis. Enfin, vis-à-vis de ces dons, le prêtre combattant peut choisir des dons nécessitant un nombre minimum de niveaux de guerrier, en considérant son niveau de prêtre combattant comme le niveau de guerrier.
 
 {s:Reference|CANALISATIONDENERGIE}
 #### Canalisation d’énergie (Sur)
@@ -499,7 +499,7 @@ La canalisation d’énergie se présente sous forme de rayonnement qui affecte 
 
 {s:Reference|ARMURESACREE}
 #### Armure sacrée (Sur)
-Au niveau 7, le prêtre combattant peut améliorer son armure grâce à la puissance divine par une action rapide. L’armure bénéficie alors d’un bonus d’altération de +1. Tous les trois niveaux après le 7ème, ce bonus augmente de 1 (pour un maximum de +5 au niveau 19). Chaque jour, le prêtre combattant peut utiliser ce pouvoir un nombre de minutes égal à son niveau de classe. Cette durée se découpe en périodes d’une minute au minimum mais n’est pas forcément consécutive. Ces bonus se cumulent avec ceux que l’armure possède déjà, jusqu’à un maximum de +5 au total. Le prêtre combattant peut doter son armure des propriétés suivantes : de [défense](./Armures magiques.md#Défense) (lourde, intermédiaire ou légère), de [mimétisme](./Armures magiques.md#Mimétisme), de [résistance à la magie](./Armures magiques.md#Résistanceàlamagie) (13, 15, 17 ou 19), de [résistance aux énergies](./Armures magiques.md#Résistanceauxénergies) (normale, supérieure ou suprême). Ces propriétés coûtent et remplacent un bonus d’altération de valeur équivalente. Dans ce cas, la propriété spéciale d’armure de mimétisme compte comme un bonus de +1, de résistance aux énergies comme un bonus de +2, de résistance aux énergies supérieure comme un bonus de +4 et de résistance aux énergies suprême comme un bonus de +5. Les propriétés en double ne se cumulent pas. L’armure doit disposer d’un bonus d’altération d’au moins +1 avant de pouvoir bénéficier de propriétés spéciales.
+Au niveau 7, le prêtre combattant peut améliorer son armure grâce à la puissance divine par une action rapide. L’armure bénéficie alors d’un bonus d’altération de +1. Tous les trois niveaux après le 7ème, ce bonus augmente de 1 (pour un maximum de +5 au niveau 19). Chaque jour, le prêtre combattant peut utiliser ce pouvoir un nombre de minutes égal à son niveau de classe. Cette durée se découpe en périodes d’une minute au minimum mais n’est pas forcément consécutive. Ces bonus se cumulent avec ceux que l’armure possède déjà, jusqu’à un maximum de +5 au total. Le prêtre combattant peut doter son armure des propriétés suivantes : de [[Armures magiques#Défense|défense]] (lourde, intermédiaire ou légère), de [[Armures magiques#Mimétisme|mimétisme]], de [[Armures magiques#Résistanceàlamagie|résistance à la magie]] (13, 15, 17 ou 19), de [[Armures magiques#Résistanceauxénergies|résistance aux énergies]] (normale, supérieure ou suprême). Ces propriétés coûtent et remplacent un bonus d’altération de valeur équivalente. Dans ce cas, la propriété spéciale d’armure de mimétisme compte comme un bonus de +1, de résistance aux énergies comme un bonus de +2, de résistance aux énergies supérieure comme un bonus de +4 et de résistance aux énergies suprême comme un bonus de +5. Les propriétés en double ne se cumulent pas. L’armure doit disposer d’un bonus d’altération d’au moins +1 avant de pouvoir bénéficier de propriétés spéciales.
 
 Le bonus d’altération et les propriétés spéciales sont à déterminer quand le prêtre combattant utilise cette aptitude pour la première fois de la journée. Il ne peut plus en changer jusqu’au lendemain. Ces bonus s’appliquent uniquement tant que le prêtre combattant porte l’armure et se dissipent s’il l’ôte ou ne se trouve plus en sa possession. Le prêtre combattant peut mettre fin à cette aptitude par une action libre au début de son tour. Cette aptitude ne fonctionne pas sur les boucliers.
 
@@ -510,4 +510,4 @@ Quand le prêtre combattant utilise cette aptitude, il peut aussi utiliser son a
 Au niveau 20, le prêtre combattant canalise un aspect de la guerre qui augmente sa puissance et ses compétences martiales. Une fois par jour et par une action rapide, il traite son niveau comme son bonus de base à l’attaque, gagne une RD 10/— et se déplace à sa vitesse normale quelle que soit l’armure et la charge qu’il porte. De plus, tant que l’aptitude est active, les bénédictions qu’il utilise ne sont pas décomptées de son nombre d’utilisations quotidiennes. Cette aptitude dure pendant une minute.
 
 ### Anciens prêtres combattants
-Un prêtre combattant qui commet une violation éhontée du code de conduite de sa religion perd tous ses sorts et ses aptitudes de classe, à l’exception de sa maîtrise des armes, des armures et des boucliers et de ses dons supplémentaires. Il ne peut plus gagner de niveaux dans la classe de prêtre combattant dédiée à ce dieu tant qu’il n’a pas fait amende honorable (voir le sort de *[pénitence](./Pénitence.md)*).
+Un prêtre combattant qui commet une violation éhontée du code de conduite de sa religion perd tous ses sorts et ses aptitudes de classe, à l’exception de sa maîtrise des armes, des armures et des boucliers et de ses dons supplémentaires. Il ne peut plus gagner de niveaux dans la classe de prêtre combattant dédiée à ce dieu tant qu’il n’a pas fait amende honorable (voir le sort de *[[pénitence]]*).

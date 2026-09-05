@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 8 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Cette fiole contient 30 millilitres d'encre. Les encres de couleur coûtent deux fois plus cher que l'encre noire.

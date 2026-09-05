@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Menaçante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Menaçante](./Descriptions individuelles des propriétés spéciales des armes.md#Menaçante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Menaçante]]

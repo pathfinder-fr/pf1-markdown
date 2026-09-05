@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Planaire
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Planaire](./Descriptions individuelles des propriétés spéciales des armes.md#Planaire)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Planaire]]

@@ -14,24 +14,24 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 3 p.237*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, **contact** 16, **pris au dépourvu** 15 (Dex +6)}
 {s:BDTexte|**pv** 38 (4d10+16)}
 {s:BDTexte|**Réf** +7, **Vig** +8, **Vol** +7}
-{s:BDTexte|**Capacités défensives** créature informe, [flou](./Flou.md) ; **Immunité** froid}
+{s:BDTexte|**Capacités défensives** créature informe, [[flou]] ; **Immunité** froid}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** cimeterre à deux mains de maître, +8 (2d4+4/18-20 plus 1d6 froid) ou contact, +7 (1d6 froid)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 4 ; [concentration](./concentration.md) +7)}
-{s:BDSorts|Constant — *[flou](./Flou.md)*}
-{s:BDSorts|A volonté — *[magie des ombres](./Magie des ombres.md)* ([DD](./DD.md) 16)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 4 ; [[concentration]] +7)}
+{s:BDSorts|Constant — *[[flou]]*}
+{s:BDSorts|A volonté — *[[magie des ombres]]* ([[DD]] 16)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 22, **Con** 18, **Int** 21, **Sag** 13, **Cha** 17}
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 23}
-{s:BDTexte|**Dons** [Expertise du combat](./Expertise du combat.md), [volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +13, [Bluff](./Bluff.md) +10, [Déguisement](./Déguisement.md) +10, [Diplomatie](./Diplomatie.md) +10, [Discrétion](./Discrétion.md) +13 (+23 dans les régions faiblement éclairées ou dans les ténèbres), [Intimidation](./Intimidation.md) +7, [Connaissances](./Connaissances.md) (mystères) +9, [Connaissances](./Connaissances.md) (plans) +12, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +8, [Utilisation d'objet magique](./Utilisation dObjets Magiques.md) +10 ; **Modificateurs raciaux** +10 en [discrétion](./Discrétion.md) dans les régions faiblement éclairées ou dans les ténèbres }
+{s:BDTexte|**Dons** [[Expertise du combat]], [[volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +13, [[Bluff]] +10, [[Déguisement]] +10, [[Diplomatie]] +10, [[Discrétion]] +13 (+23 dans les régions faiblement éclairées ou dans les ténèbres), [[Intimidation]] +7, [[Connaissances]] (mystères) +9, [[Connaissances]] (plans) +12, [[Perception]] +8, [[Psychologie]] +8, [[Utilisation dobjets magiques|Utilisation d'objet magique]] +10 ; **Modificateurs raciaux** +10 en [[discrétion]] dans les régions faiblement éclairées ou dans les ténèbres }
 {s:BDTexte|**Langues** aklo, commun, shaé}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (plan de l'Ombre)}
@@ -39,7 +39,7 @@ Categories:
 {s:BDTexte|**Trésor** standard (cimeterre à deux mains de maître, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Froid (Sur)**. Le contact d’une shaé absorbe la chaleur des créatures vivantes, laissant des zones de chair décolorée au lieu de blessures physiques. La shaé peut infliger 1d6 points de dégâts de froid au toucher. Elle rajoute +1d6 points de dégâts de froid à tous ses dégâts d’arme de corps à corps.}
-{s:BDTexte|**Magie des ombres (Mag)**. Ce pouvoir magique fonctionne de manière identique au sort [magie des ombres](./Magie des ombres.md), mais crée seulement des versions quasi-réelles des sorts d’[évocation](./Évocation.md) d’[ensorceleur](./Ensorceleur.md) ou de [magicien](./Magicien.md) de niveau 2 ou inférieur. Ce [pouvoir magique](./pouvoir magique.md) équivaut à un sort de niveau 3.}
+{s:BDTexte|**Magie des ombres (Mag)**. Ce pouvoir magique fonctionne de manière identique au sort [[magie des ombres]], mais crée seulement des versions quasi-réelles des sorts d’[[évocation]] d’[[ensorceleur]] ou de [[magicien]] de niveau 2 ou inférieur. Ce [[pouvoir magique]] équivaut à un sort de niveau 3.}
 
 </div>
 

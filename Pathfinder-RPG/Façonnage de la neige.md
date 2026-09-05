@@ -10,16 +10,16 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:regional|Ulfes|Ulfes|ulfes}{s:MR}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[eau](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M/FD](./composantes.md) (une pelle miniature)
-**Portée** [contact](./contact.md)
+{s:regional|Ulfes|Ulfes|ulfes}{s:MR}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[prêtre|Prê]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M/FD]] (une pelle miniature)
+**Portée** [[contact]]
 **Cible** de la neige ou une sculpture de neige touchée, d’un maximum de 5 cubes de 30cm de côté + 1 cube additionnel/niveau
 **Durée** instantanée
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 *Sur les territoires gelés du nord, là où la terre est cachée sous d’épais amoncellements de neige, les druides vikings ont développé une variante de façonnage de la pierre que les autres lanceurs de sorts ont apprise depuis.*
 
-Le lanceur peut façonner une masse de neige en n’importe quelle forme qui correspond à ses besoins, comme pour le sort façonnage de la pierre. S’il est possible de créer des objets rudimentaires avec façonnage de la neige, la plupart des détails subtils sont impossibles à reproduire. Néanmoins, un test d’[Artisanat](./Artisanat.md) (armes) réussi permet au personnage de créer une arme à lame dans la neige. Le [DD](./DD.md) de ce test est égal au DD indiqué pour la compétence Artisanat (armes). C’est lui qui doit faire le test d’Artisanat et il doit le faire au moment de lancer son sort. S’il rate son test, le sort est lancé normalement, mais l’arme créée est déformée et inutile. Ce sort ne peut être lancé que pour créer des armes, pas des outils précis ou des armures complexes.
+Le lanceur peut façonner une masse de neige en n’importe quelle forme qui correspond à ses besoins, comme pour le sort façonnage de la pierre. S’il est possible de créer des objets rudimentaires avec façonnage de la neige, la plupart des détails subtils sont impossibles à reproduire. Néanmoins, un test d’[[Artisanat]] (armes) réussi permet au personnage de créer une arme à lame dans la neige. Le [[DD]] de ce test est égal au DD indiqué pour la compétence Artisanat (armes). C’est lui qui doit faire le test d’Artisanat et il doit le faire au moment de lancer son sort. S’il rate son test, le sort est lancé normalement, mais l’arme créée est déformée et inutile. Ce sort ne peut être lancé que pour créer des armes, pas des outils précis ou des armures complexes.
 
-Une fois que l’objet a été créé avec ce sort, il se solidifie en glace très dure, gagnant une solidité de 5 et 10 points de vie par centimètre d’épaisseur. Cette arme reçoit le double des dégâts de feu. Quiconque utilise une arme de glace reçoit un malus de -2 à ses [jets d’attaque](./jet dattaque.md) en raison de la nature glissante et peu maniable de l’arme, mais celle-ci inflige 1 point de dégâts de froid en plus des dégâts normaux. Une arme créée avec ce sort dure 24 heures avant de fondre et de devenir inutile.
+Une fois que l’objet a été créé avec ce sort, il se solidifie en glace très dure, gagnant une solidité de 5 et 10 points de vie par centimètre d’épaisseur. Cette arme reçoit le double des dégâts de feu. Quiconque utilise une arme de glace reçoit un malus de -2 à ses [[jet dattaque|jets d’attaque]] en raison de la nature glissante et peu maniable de l’arme, mais celle-ci inflige 1 point de dégâts de froid en plus des dégâts normaux. Une arme créée avec ce sort dure 24 heures avant de fondre et de devenir inutile.

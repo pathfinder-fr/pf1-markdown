@@ -6,6 +6,6 @@ Categories:
 - Règle de monstres universelle
 ---
 
-Si la créature est exposée à la lumière du soleil (un sort de *[lumière du jour](./Lumière du jour.md)* ou équivalent ne suffit pas), elle ne peut pas attaquer et elle est [chancelante](./Chancelant.md).
+Si la créature est exposée à la lumière du soleil (un sort de *[[lumière du jour]]* ou équivalent ne suffit pas), elle ne peut pas attaquer et elle est [[chancelant|chancelante]].
 
 *Format :* impuissant sous la lumière du soleil.* Emplacement :* Faiblesses.

@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pont escamotable|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 10 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 7 000 po ; **Poids** 2,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 7 000 po ; **Poids** 2,5 kg
 (((Description)))
 Cette fine plaque de métal est un carré d’une trentaine de centimètres de côté. Lorsqu’un personnage prononce le mot de commande, la plaque s’étend en se dépliant pour devenir un panneau de 30 cm d’épaisseur, 1 mètre de large et jusqu’à 9 mètres de long (l’objet arrête de s’étendre dès qu’il rencontre une quelconque résistance, telle qu’un mur, un plafond ou une créature). Chaque section de 1,50 mètre de ce pont métallique possède une solidité de 10 et 30 points de résistance. Le pont pèse 150 kg et peut supporter une charge de 2 tonnes. Lorsque le mot de commande est prononcé une deuxième fois, il se replie pour reprendre sa forme transportable initiale. Le pont escamotable peut être activé jusqu’à trois fois par jour. Si l’une de ses parties est détruite pendant qu’il est déplié, sa magie disparaît immédiatement.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[réduction d’objet](./Réduction dobjet.md)*, *[mur de fer](./Mur de fer.md)* ; **Coût** 3 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Réduction dobjet|réduction d’objet]]*, *[[mur de fer]]* ; **Coût** 3 500 po
 </div>

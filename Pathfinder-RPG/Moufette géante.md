@@ -10,8 +10,8 @@ LastModified: 2021-02-23 17:22
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.193}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +3 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 12 (Dex +2, naturelle +3, taille -1)}
 {s:BDTexte|**pv** 32 (5d8+10)}
@@ -25,14 +25,14 @@ LastModified: 2021-02-23 17:22
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 16, **Con** 13, **Int** 2, **Sag** 12, **Cha** 9}
 {s:BDTexte|**BBA** +3, **BMO** +7, **DMD** 20}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (musc), [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +7, [Perception](./Perception.md) +5, [Survie](./Survie.md) +2}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaque spéciale renforcée]] (musc), [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Escalade]] +7, [[Perception]] +5, [[Survie]] +2}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs Spéciaux}
-{s:BDTexte|**Musc (Ext).** Par une [action simple](./Action simple.md) et jusqu’à deux fois par jour, la moufette peut envoyer un jet de musc nocif sur une seule cible située dans un [rayon](./rayon.md) de 9 mètres. Si la moufette réussit une [attaque de contact](./attaque de contact.md) à distance, la créature touchée doit réussir un  [jet de Vigueur](./jet de sauvegarde.md) DD 17 ou être [nauséeuse](./Nauséeux.md) pendant 1d6 [round](./round.md), puis [fiévreuse](./Fiévreux.md) pendant 1d6 minutes, à cause de l’horrible puanteur. Un [jet de sauvegarde](./jet de sauvegarde.md) réussi réduit l’effet à un état [fiévreux](./Fiévreux.md) pendant 1d4 rounds. Les créatures ne peuvent pas utiliser leur capacité d’[odorat](./Odorat (capacité).md) tant qu’elles sont affectées par ce musc. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md) et inclut un bonus racial de +2.}
+{s:BDTexte|**Musc (Ext).** Par une [[action simple]] et jusqu’à deux fois par jour, la moufette peut envoyer un jet de musc nocif sur une seule cible située dans un [[rayon]] de 9 mètres. Si la moufette réussit une [[attaque de contact]] à distance, la créature touchée doit réussir un  [[jet de sauvegarde|jet de Vigueur]] DD 17 ou être [[nauséeux|nauséeuse]] pendant 1d6 [[round]], puis [[fiévreux|fiévreuse]] pendant 1d6 minutes, à cause de l’horrible puanteur. Un [[jet de sauvegarde]] réussi réduit l’effet à un état [[fiévreux]] pendant 1d4 rounds. Les créatures ne peuvent pas utiliser leur capacité d’[[Odorat (capacité)|odorat]] tant qu’elles sont affectées par ce musc. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]] et inclut un bonus racial de +2.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -41,9 +41,9 @@ LastModified: 2021-02-23 17:22
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Moufette](./Moufette.md) || 1/4
+| [[Moufette]] || 1/4
 |-
-| [Moufette géante](./Moufette géante.md) || 3
+| [[Moufette géante]] || 3
 |}
 </div>*Semblable à un petit blaireau, cette créature a une fourrure noire rayée de blanc de son museau à sa queue touffue relevée en signe d’avertissement.*
 

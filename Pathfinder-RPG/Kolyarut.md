@@ -14,25 +14,25 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2* p.173}
 {s:BDTexte|**PX** 19 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [inévitable](./sous-type Inévitable.md), [Loi](./sous-type Loi.md)) de taille M, LN}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +22}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Extraplanaire|extraplanaire]], [[sous-type inévitable|inévitable]], [[sous-type loi|Loi]]) de taille M, LN}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +22}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 14, pris au dépourvu 22 (Dex +4, naturelle +12)}
-{s:BDTexte|**pv** 158 (12d10+92) ; [régénération](./Régénération.md) 5 (Chaos)}
+{s:BDTexte|**pv** 158 (12d10+92) ; [[régénération]] 5 (Chaos)}
 {s:BDTexte|**Réf** +10, **Vig** +14, **Vol** +11}
-{s:BDTexte|**Capacités défensives** [fabriqué](./fabriqué.md) ; **RD** 10/Chaos ; **RM** 23}
+{s:BDTexte|**Capacités défensives** [[fabriqué]] ; **RD** 10/Chaos ; **RM** 23}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** *épée bâtarde +2*, +20/+15/+10 (1d10+8/19-20) et coup, +13 (2d6+3) ou 2 coups, +18 (2d6+6)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12 ; concentration +15)}
-{s:BDSorts|A volonté — *[baiser du vampire](./Baiser du vampire.md)*, *[déguisement](./Déguisement.md)*, *[détection du mensonge](./Détection du mensonge.md)* (DD 17), *[énergie négative](./Énergie négative.md)*, *[immobilisation de personne](./Immobilisation de personne.md)* (DD 16), *[invisibilité](./Invisibilité.md)* (personnel uniquement), *[localisation de créature](./Localisation de créature.md)*, *[suggestion](./Suggestion.md)* (DD 16), *[terreur](./Terreur.md)* (DD 17)}
-{s:BDSorts|3/jour — *[immobilisation de monstre](./Immobilisation de monstre.md)* (DD 18), *[marque de la justice](./Marque de la justice.md)*, *[suggestion](./Suggestion.md)* en [incantation rapide](./Incantation rapide.md) (DD 16)}
-{s:BDSorts|1/semaine — *[quête](./Quête.md)* (DD 16)}
+{s:BDSorts|A volonté — *[[baiser du vampire]]*, *[[déguisement]]*, *[[détection du mensonge]]* (DD 17), *[[énergie négative]]*, *[[immobilisation de personne]]* (DD 16), *[[invisibilité]]* (personnel uniquement), *[[localisation de créature]]*, *[[suggestion]]* (DD 16), *[[terreur]]* (DD 17)}
+{s:BDSorts|3/jour — *[[immobilisation de monstre]]* (DD 18), *[[marque de la justice]]*, *[[suggestion]]* en [[incantation rapide]] (DD 16)}
+{s:BDSorts|1/semaine — *[[quête]]* (DD 16)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 19, **Con** 23, **Int** 10, **Sag** 17, **Cha** 16}
 {s:BDTexte|**BBA** +12, **BMO** +18, **DMD** 32}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Magie de guerre](./Magie de guerre.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) ([suggestion](./Suggestion.md)), [réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +15, [Déguisement](./Déguisement.md) +22, [Diplomatie](./Diplomatie.md) +22, [Perception](./Perception.md) +22, [Psychologie](./Psychologie.md) +22, [Survie](./Survie.md) +18 ; **Modificateurs raciaux** +4 en [Déguisement](./Déguisement.md), +4 en [Diplomatie](./Diplomatie.md)}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Magie de guerre]], [[Pouvoir magique rapide]] ([[suggestion]]), [[réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +15, [[Déguisement]] +22, [[Diplomatie]] +22, [[Perception]] +22, [[Psychologie]] +22, [[Survie]] +18 ; **Modificateurs raciaux** +4 en [[Déguisement]], +4 en [[Diplomatie]]}
 {s:BDTexte|**Langues** langage universel}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
@@ -40,7 +40,7 @@ Categories:
 {s:BDTexte|**Trésor** standard (*épée bâtarde +2*, autres trésors)}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [inévitables](./Inévitable.md).***</li></ul>*Sous sa cape, cette créature de forme humanoïde semble être mi-statue mi-machine de métal.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Inévitable|inévitables]].***</li></ul>*Sous sa cape, cette créature de forme humanoïde semble être mi-statue mi-machine de métal.*
 
 Les kolyaruts s’assurent du respect des contrats. Ils sillonnent les plans pour punir ceux qui brisent leurs
 serments et pour vérifier que les clauses des arrangements sont bien respectées. Ils ne se préoccupent guère de la nature exacte des contrats en question : seul leur importe le fait que les promesses soient tenues, les dettes, payées et l’équilibre, maintenu.

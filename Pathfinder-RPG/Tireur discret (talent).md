@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#TIREURDISCRET
 ---
 
->>> [Talents#TIREURDISCRET](./Talents.md#TIREURDISCRET)
+>>> [[Talents#TIREURDISCRET]]

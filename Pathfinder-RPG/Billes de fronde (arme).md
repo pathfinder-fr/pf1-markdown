@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa ; **Poids** 2,5
-<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
 ---
-Les billes de fronde sont des billes de métal rondes conçues pour être utilisées avec une [fronde](./fronde (arme).md) ou un [fustibale halfelin](./fustibale halfelin (arme).md). Elles sont livrées dans une sacoche en cuir en contenant 10.
+Les billes de fronde sont des billes de métal rondes conçues pour être utilisées avec une [[Fronde (arme)|fronde]] ou un [[Fustibale halfelin (arme)|fustibale halfelin]]. Elles sont livrées dans une sacoche en cuir en contenant 10.

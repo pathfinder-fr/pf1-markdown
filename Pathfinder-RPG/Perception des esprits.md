@@ -6,7 +6,7 @@ LastModified: 2017-12-03 00:06
 
 {s:AO}*Le personnage sent la présence de l’invisible.*
 
-**Conditions.** [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques.
+**Conditions.** [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques.
 
 **Avantage.** Le personnage gagne un bonus de +5 aux tests pour remarquer les apparitions. De plus, quand il vise une créature intangible avec un sort ou un effet tangible qui n’inflige pas de points de dégâts, il a 75 % de chances d’affecter la cible.
 

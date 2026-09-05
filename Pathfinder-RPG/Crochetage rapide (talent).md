@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#CROCHAGERAPIDE
 ---
 
->>> [Talents#CROCHAGERAPIDE](./Talents.md#CROCHAGERAPIDE)
+>>> [[Talents#CROCHAGERAPIDE]]

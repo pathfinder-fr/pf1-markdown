@@ -13,13 +13,13 @@ Categories:
 
 *Les attaques à distance du personnage traquent infailliblement ceux qu'il a maudits.*
 
-**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+**Catégorie.** [[dons#DONMALEFICESANGLANT|maléfice sanglant]]
 
-**Conditions.** [Dex](./Dex.md) 13, [Int](./Int.md) 13, [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Tir à bout portant](./Tir à bout portant.md), [Tir en mouvement](./Tir en mouvement.md), [BBA](./BBA.md) +4, 1 rang en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md)
+**Conditions.** [[Dex]] 13, [[Int]] 13, [[Esquive]], [[Souplesse du serpent]], [[Tir à bout portant]], [[Tir en mouvement]], [[BBA]] +4, 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]
 
-**Avantage.** Par une [action simple](./Action simple.md), le personnage peut maudire une créature à qui il a infligé des dégâts par une attaque à distance effectuée avec une arme depuis le début de son tour précédent. La cible doit réussir un jet de [Réflexes](./Réflexes.md), ou le personnage ne subit plus de pénalité contre cette créature dans le premier incrément du facteur de portée des attaques à distance effectuées avec une arme, et il ignore tous les bonus à la [CA](./CA.md) que sa cible peut tirer d’un [abri partiel](./abri partiel.md). La cible peut toujours bénéficier d’un [abri total](./abri.md). L’effet dure 1 minute.
+**Avantage.** Par une [[action simple]], le personnage peut maudire une créature à qui il a infligé des dégâts par une attaque à distance effectuée avec une arme depuis le début de son tour précédent. La cible doit réussir un jet de [[Réflexes]], ou le personnage ne subit plus de pénalité contre cette créature dans le premier incrément du facteur de portée des attaques à distance effectuées avec une arme, et il ignore tous les bonus à la [[CA]] que sa cible peut tirer d’un [[abri partiel]]. La cible peut toujours bénéficier d’un [[abri|abri total]]. L’effet dure 1 minute.
 
-**Spécial.** Un [chaman](./Chaman.md) ou une [sorcière](./Sorcière.md) peut utiliser ce maléfice sanglant si elle a blessé sa cible avec n’importe quelle attaque à distance et l’applique à n’importe quelle attaque à distance à l’encontre de la cible affectée.
+**Spécial.** Un [[chaman]] ou une [[sorcière]] peut utiliser ce maléfice sanglant si elle a blessé sa cible avec n’importe quelle attaque à distance et l’applique à n’importe quelle attaque à distance à l’encontre de la cible affectée.
 
 (((Bull’s eye (blood Hex)
 Your ranged attacks unerringly seek those you have cursed.

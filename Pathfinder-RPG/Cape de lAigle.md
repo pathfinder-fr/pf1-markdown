@@ -6,9 +6,9 @@ LastModified: 2024-06-01 16:32
 
 <div class="BD">
 {s:BDTitre|Cape de l’aigle|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 7.000 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 7.000 po ; **Poids** 0,5 kg
 (((Description)))
-De longues plumes d’aigle ornent la face extérieure de cette magnifique cape. Lorsque son porteur chute d’une hauteur supérieure à 1,50 mètre, la cape s’ouvre derrière lui pour amortir sa chute. Cet effet est le même que celui produit par le sort *[feuille morte](./Feuille morte.md)* et seul le porteur en bénéficie. Une fois par jour, le porteur peut empoigner les bords de la cape et étendre les bras pour se transformer en aigle (comme s’il était sous l’effet du sort *[forme bestiale I](./Forme bestiale I.md)*, mais uniquement pour se transformer en aigle avec une vitesse de déplacement en vol de 24 mètres). Cet effet dure 10 minutes mais peut être annulé prématurément par une [action simple](./Action simple.md). De plus, le porteur gagne un bonus de compétence de +5 aux tests de [Perception](./Perception.md) lorsqu’il est sous forme d’aigle.
+De longues plumes d’aigle ornent la face extérieure de cette magnifique cape. Lorsque son porteur chute d’une hauteur supérieure à 1,50 mètre, la cape s’ouvre derrière lui pour amortir sa chute. Cet effet est le même que celui produit par le sort *[[feuille morte]]* et seul le porteur en bénéficie. Une fois par jour, le porteur peut empoigner les bords de la cape et étendre les bras pour se transformer en aigle (comme s’il était sous l’effet du sort *[[forme bestiale I]]*, mais uniquement pour se transformer en aigle avec une vitesse de déplacement en vol de 24 mètres). Cet effet dure 10 minutes mais peut être annulé prématurément par une [[action simple]]. De plus, le porteur gagne un bonus de compétence de +5 aux tests de [[Perception]] lorsqu’il est sous forme d’aigle.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[forme bestiale I](./Forme bestiale I.md)*, *[feuille morte](./Feuille morte.md)*, *[perception des indices](./Perception des indices.md)* ; **Coût** 3.500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[forme bestiale I]]*, *[[feuille morte]]*, *[[perception des indices]]* ; **Coût** 3.500 po
 </div>

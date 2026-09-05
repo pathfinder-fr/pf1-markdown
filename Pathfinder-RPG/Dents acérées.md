@@ -8,6 +8,6 @@ Categories:
 
 {s:cm}*L’homme-rat est pourvu de dents particulièrement solides et acérées.*
 
-**Conditions** [Homme-rat](./Homme-rat (race).md)
+**Conditions** [[Homme-rat (race)|Homme-rat]]
 
 **Avantages.** L’homme-rat gagne une attaque de morsure. Il s’agit d’une attaque naturelle principale qui inflige 1d3 points de dégâts.

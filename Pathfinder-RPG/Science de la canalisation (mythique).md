@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage est un intermédiaire sans pareil du pouvoir divin.*
 
-**Condition.** [Science de la canalisation](./Science de la canalisation.md)
+**Condition.** [[Science de la canalisation]]
 
-**Avantage.** Les créatures [non-mythiques](./non-mythiques.md) qui subissent des dégâts infligés par la canalisation d’énergie du personnage doivent effectuer deux jets de sauvegarde et conserver le pire.
+**Avantage.** Les créatures [[non-mythiques]] qui subissent des dégâts infligés par la canalisation d’énergie du personnage doivent effectuer deux jets de sauvegarde et conserver le pire.

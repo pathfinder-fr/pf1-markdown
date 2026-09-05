@@ -11,15 +11,15 @@ Categories:
 <div class="BD">
 {s:BDTitre|Indigeste|FP 1/4}
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.155](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.155]]*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille TP, NM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille TP, NM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)}
 {s:BDTexte|**pv** 9 (2d8)}
 {s:BDTexte|**Réf** +1, **Vig** +0, **Vol** +1}
-{s:BDTexte|**Capacités défensives** [amorphe](./Amorphe (capacité).md) ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants (capacité).md) ; **Résistances** acide 5}
+{s:BDTexte|**Capacités défensives** [[Amorphe (capacité)|amorphe]] ; **Immunités** [[Traits des morts-vivants (capacité)|traits des morts-vivants]] ; **Résistances** acide 5}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m, escalade 6 m, nage 6 m}
 {s:BDTexte|**Corps à corps** morsure, +3 (1d3-3 plus 1 acide)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 4, **Dex** 12, **Con** —, **Int** 3, **Sag** 9, **Cha** 11}
 {s:BDTexte|**BBA** +1 ; **BMO** +0 ; **DMD** 7 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>S</sup>, [Talent](./Talent.md) (Perception)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +13, [Escalade](./Escalade.md) +9, [Natation](./Natation.md) +9, [Perception](./Perception.md) +6}
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>S</sup>, [[Talent]] (Perception)}
+{s:BDTexte|**Compétences** [[Discrétion]] +13, [[Escalade]] +9, [[Natation]] +9, [[Perception]] +6}
 {s:BDTexte|**Langues** commun (incapable de parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Indigeste](./Indigeste.md) || 1/4
+| [[Indigeste]] || 1/4
 |-
-| [Nuée d'indigestes](./Nuée dindigestes.md) || 5
+| [[Nuée dindigestes|Nuée d'indigestes]] || 5
 |}
 </div>*Un mélange d’os et de fragments de crâne à demi-liquéfiés flotte dans une gelée jaune et brune.*
 

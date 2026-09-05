@@ -11,45 +11,45 @@ Categories:
 <div class="BD">
 {s:BDTitre|Pitri crépusculaire (Barhisad)|FP 18}
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
-{s:BDTexte|*Source : [Bestiaire 5 p.176](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.176]]*}
 {s:BDTexte|**PX** 153 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Bien](./sous-type Bien.md), [Loi](./sous-type Loi.md), [manasaputra](./sous-type Manasaputra.md)) de taille G, LB}
-{s:BDTexte|**Init** +12 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +35}
-{s:BDTexte|**Aura** [présence terrifiante](./Présence terrifiante (capacité).md) (18 m, DD 23)}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Bien|Bien]], [[sous-type Loi|Loi]], [[sous-type manasaputra|manasaputra]]) de taille G, LB}
+{s:BDTexte|**Init** +12 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +35}
+{s:BDTexte|**Aura** [[Présence terrifiante (capacité)|présence terrifiante]] (18 m, DD 23)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 36, contact 32, pris au dépourvu 27 (bouclier +4, Dex +8, esquive +1, Sag +14, taille -1)}
 {s:BDTexte|**pv** 300 (24d10+168)}
 {s:BDTexte|**Réf** +22, **Vig** +15, **Vol** +22 ; +2 contre les enchantements}
 {s:BDTexte|**Capacités défensives** halo céruléen ; **Immunités** appel, maladie, poison ; **Résistances** adaptable 15 ; **RM** 29}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 12 m, [vol](./Vol (capacité).md) 18 m (parfaite)}
+{s:BDTexte|**VD** 12 m, [[Vol (capacité)|vol]] 18 m (parfaite)}
 {s:BDTexte|**Corps à corps** combat à mains nues, +28/+23/+18/+13 (2d10+8/19-20/×3)}
 {s:BDTexte|**Distance** rayons lunaires, contact +31/+26/+21/+16 (8d6 froid et 8d6 énergie positive)}
-{s:BDTexte|**Magie psychique** (Mag). ([NLS](./NLS.md) 18 ; [concentration](./concentration.md) +26 ; basé sur la Sagesse)}
-{s:BDSorts|45 EP — *[bredouillement](./Bredouillement.md)* (3 EP, DD 21), *[chirurgie psychique](./Chirurgie psychique.md)* (6 EP), *[coup mental VI](./Coup mental VI.md)* (6 EP, DD 24), *[dégoût](./Dégoût.md)* (2 EP, DD 20), *[effacement de l'esprit](./Effacement de lesprit.md)* (4 EP, DD 22), *[éveil](./Éveil.md)* (5 EP), *[éveil de créature artificielle](./Éveil de créature artificielle.md)* (6 EP), *[fouet d'ego V](./Fouet dego V.md)* (7 EP, DD 25), *[image psychique](./Image psychique.md)* (9 EP), *[pulsation synaptique suprême](./Pulsation synaptique suprême.md)* (5 EP, DD 23), *[surcharge synaptique](./Surcharge synaptique.md)* (5 EP, DD 23)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 18 ; [concentration](./concentration.md) +26 ; basé sur la Sagesse)}
-{s:BDSorts|À volonté — *[changement de plan](./Changement de plan.md)* (sur lui-même uniquement), *[téléportation suprême](./Téléportation suprême.md)* (sur lui-même uniquement)}
+{s:BDTexte|**Magie psychique** (Mag). ([[NLS]] 18 ; [[concentration]] +26 ; basé sur la Sagesse)}
+{s:BDSorts|45 EP — *[[bredouillement]]* (3 EP, DD 21), *[[chirurgie psychique]]* (6 EP), *[[coup mental VI]]* (6 EP, DD 24), *[[dégoût]]* (2 EP, DD 20), *[[effacement de lesprit|effacement de l'esprit]]* (4 EP, DD 22), *[[éveil]]* (5 EP), *[[éveil de créature artificielle]]* (6 EP), *[[fouet dego V|fouet d'ego V]]* (7 EP, DD 25), *[[image psychique]]* (9 EP), *[[pulsation synaptique suprême]]* (5 EP, DD 23), *[[surcharge synaptique]]* (5 EP, DD 23)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 18 ; [[concentration]] +26 ; basé sur la Sagesse)}
+{s:BDSorts|À volonté — *[[changement de plan]]* (sur lui-même uniquement), *[[téléportation suprême]]* (sur lui-même uniquement)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
 {s:BDTexte|**Attaques spéciales** démantèlement anatomique, rayons lunaires, coup étourdissant (6/jour, DD 18)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 27, **Con** 24, **Int** 18, **Sag** 26, **Cha** 13}
 {s:BDTexte|**BBA** +24 ; **BMO** +29 ; **DMD** 62}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (combat à mains nues), [Attaques réflexes](./Attaques réflexes.md), [Coup étourdissant](./Coup étourdissant.md), [Critique étourdissant](./Critique étourdissant.md), [Don pour les critiques](./Don pour les critiques.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Science du critique](./Science du critique.md) (combat à mains nues), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de l'initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +32 (+36 pour sauter), [Art de la magie](./Art de la magie.md) +31, [Connaissances](./Connaissances.md) (mystères, exploration souterraine, histoire, plans) +31, [Discrétion](./Discrétion.md) +31, [Intimidation](./Intimidation.md) +25, [Perception](./Perception.md) +35, [Vol](./Vol.md) +41}
-{s:BDTexte|**Langues** aklo, céleste, commun ; [télépathie](./Télépathie (capacité).md) 30 m}
-{s:BDTexte|**Particularités** [ne respire pas](./Ne respire pas (capacité).md), affinité avec l’énergie positive, troisième oeil}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (combat à mains nues), [[Attaques réflexes]], [[Coup étourdissant]], [[Critique étourdissant]], [[Don pour les critiques]], [[Esquive]], [[Frappe décisive]], [[Science du combat à mains nues]], [[Science du critique]] (combat à mains nues), [[Science de la frappe décisive]], [[Science de linitiative|Science de l'initiative]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +32 (+36 pour sauter), [[Art de la magie]] +31, [[Connaissances]] (mystères, exploration souterraine, histoire, plans) +31, [[Discrétion]] +31, [[Intimidation]] +25, [[Perception]] +35, [[Vol]] +41}
+{s:BDTexte|**Langues** aklo, céleste, commun ; [[Télépathie (capacité)|télépathie]] 30 m}
+{s:BDTexte|**Particularités** [[Ne respire pas (capacité)|ne respire pas]], affinité avec l’énergie positive, troisième oeil}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (plan de l’Énergie positive)}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Démantèlement anatomique (Ext).** Un pitri crépusculaire a une compréhension instinctive de la manière de déconstruire les formes tangibles. Il ajoute donc son modificateur de [Sagesse](./Sagesse.md) au lieu de son modificateur de [Force](./Force.md) aux dégâts infligés par son attaque à mains nues. Quand il réussit un [coup critique](./coup critique.md) en utilisant le combat à mains nues, un pitri crépusculaire multiplie par trois le nombre de dégâts qu’il inflige.}
-{s:BDTexte|**Halo céruléen (Sur).** Les pitris crépusculaires sont nimbés d’une inquiétante lumière d’un bleu azur, dont on raconte qu’elle est l’écho d’une précédente version du multivers. Tant que ce halo entoure le pitri, sa lumière lui accorde un bonus de bouclier de +4 à la [CA](./CA.md). Un pitri crépusculaire peut utiliser son aura de [présence terrifiante](./Présence terrifiante (capacité).md) seulement quand il est nimbé de son halo céruléen. Le pitri peut faire disparaître le halo par une [action libre](./Action libre.md), même quand ce n’est pas son tour, afin de relancer un jet de sauvegarde ou annuler un coup critique. Le halo qui a été ainsi dissipé reparaît après 1d3 rounds.}
-{s:BDTexte|**Rayons lunaires (Sur).** Un pitri crépusculaire peut projeter des rayons de lumière lunaire sur une distance de 30 mètres. Il peut tirer un unique rayon en utilisant une attaque, ou jusqu’à quatre rayons en faisant une [attaque à outrance](./attaque à outrance.md). Tirer un rayon ne provoque pas d’[attaque d’opportunité](./AO.md). Le pitri crépusculaire peut appliquer le don [Frappe décisive](./Frappe décisive.md) à ses rayons lunaires. Chaque rayon inflige 8d6 points de dégâts de froid et 8d6 points de dégâts d’énergie positive. Cette énergie positive ne blesse pas les créatures qui ne subissent normalement pas de dégâts à cause de ce type d’énergie et elle ne les soigne pas non plus.}
-{s:BDTexte|**Troisième oeil (Sur).** Par une [action rapide](./Action rapide.md), un pitri crépusculaire peut ouvrir ou fermer son troisième œil. Tant que cet œil est ouvert, le pitri crépusculaire a accès à une réserve supplémentaire de 45 points d’EP et gagne l’effet *[vision lucide](./Vision lucide.md)* en permanence, mais il perd les bénéfices liés à son halo céruléen. Cette réserve d’énergie psychique est séparée de la réserve normale du pitri crépusculaire et n’est accessible que tant que le troisième œil est ouvert. Les effets susceptibles d’[aveugler](./Aveuglé.md) un pitri crépusculaire l’empêchent d’utiliser cette capacité.}
+{s:BDTexte|**Démantèlement anatomique (Ext).** Un pitri crépusculaire a une compréhension instinctive de la manière de déconstruire les formes tangibles. Il ajoute donc son modificateur de [[Sagesse]] au lieu de son modificateur de [[Force]] aux dégâts infligés par son attaque à mains nues. Quand il réussit un [[coup critique]] en utilisant le combat à mains nues, un pitri crépusculaire multiplie par trois le nombre de dégâts qu’il inflige.}
+{s:BDTexte|**Halo céruléen (Sur).** Les pitris crépusculaires sont nimbés d’une inquiétante lumière d’un bleu azur, dont on raconte qu’elle est l’écho d’une précédente version du multivers. Tant que ce halo entoure le pitri, sa lumière lui accorde un bonus de bouclier de +4 à la [[CA]]. Un pitri crépusculaire peut utiliser son aura de [[Présence terrifiante (capacité)|présence terrifiante]] seulement quand il est nimbé de son halo céruléen. Le pitri peut faire disparaître le halo par une [[action libre]], même quand ce n’est pas son tour, afin de relancer un jet de sauvegarde ou annuler un coup critique. Le halo qui a été ainsi dissipé reparaît après 1d3 rounds.}
+{s:BDTexte|**Rayons lunaires (Sur).** Un pitri crépusculaire peut projeter des rayons de lumière lunaire sur une distance de 30 mètres. Il peut tirer un unique rayon en utilisant une attaque, ou jusqu’à quatre rayons en faisant une [[attaque à outrance]]. Tirer un rayon ne provoque pas d’[[AO|attaque d’opportunité]]. Le pitri crépusculaire peut appliquer le don [[Frappe décisive]] à ses rayons lunaires. Chaque rayon inflige 8d6 points de dégâts de froid et 8d6 points de dégâts d’énergie positive. Cette énergie positive ne blesse pas les créatures qui ne subissent normalement pas de dégâts à cause de ce type d’énergie et elle ne les soigne pas non plus.}
+{s:BDTexte|**Troisième oeil (Sur).** Par une [[action rapide]], un pitri crépusculaire peut ouvrir ou fermer son troisième œil. Tant que cet œil est ouvert, le pitri crépusculaire a accès à une réserve supplémentaire de 45 points d’EP et gagne l’effet *[[vision lucide]]* en permanence, mais il perd les bénéfices liés à son halo céruléen. Cette réserve d’énergie psychique est séparée de la réserve normale du pitri crépusculaire et n’est accessible que tant que le troisième œil est ouvert. Les effets susceptibles d’[[aveuglé|aveugler]] un pitri crépusculaire l’empêchent d’utiliser cette capacité.}
 
 </div></td>
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [manasaputras](./Manasaputras.md).***</li></ul>*Une lumière céruléenne enveloppe ce gigantesque humanoïde à quatre bras dans un halo éclatant.*
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Manasaputras]].***</li></ul>*Une lumière céruléenne enveloppe ce gigantesque humanoïde à quatre bras dans un halo éclatant.*
 
 Alors que les prêtres et les oracles ont leurs propres mythes de la création, les manasaputras racontent une vérité sous-jacente à ces histoires : le multivers actuel n’est pas le premier à exister et il ne sera pas le dernier. Comme les cycles des saisons et de la lune, l’existence va et vient.
 

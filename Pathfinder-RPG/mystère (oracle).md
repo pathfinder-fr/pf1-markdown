@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Oracle#MYSTERE
 ---
 
->>> [Oracle#MYSTERE](./Oracle.md#MYSTERE)
+>>> [[Oracle#MYSTERE]]

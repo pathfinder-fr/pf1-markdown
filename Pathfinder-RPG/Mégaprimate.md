@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Mégaprimate|FP 8}
 {s:pucem|Animal|Forêt-Jungle|Tropical}
-{s:BDTexte|*Source : [Bestiaire 5 p.246](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.246]]*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille Gig, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./Odorat (capacité).md), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Animal|Animal]] de taille Gig, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 8, pris au dépourvu 19 (Dex +2, naturelle +13, taille -4)}
 {s:BDTexte|**pv** 105 (10d8+60)}
@@ -23,19 +23,19 @@ Categories:
 {s:BDTexte|**VD** 9 m, escalade 9 m}
 {s:BDTexte|**Corps à corps** 2 coups, +13 (1d8+9) et morsure, +12 (2d6+9)}
 {s:BDTexte|**Espace occupé** 6 m ; **Allonge** 6 m}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration (capacité).md) (2 coups, 1d8+13), éventration et broyage, traversée fracassante}
+{s:BDTexte|**Attaques spéciales** [[Éventration (capacité)|éventration]] (2 coups, 1d8+13), éventration et broyage, traversée fracassante}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 29, **Dex** 15, **Con** 22, **Int** 2, **Sag** 12, **Cha** 15}
 {s:BDTexte|**BBA** +7 ; **BMO** +20 ; **DMD** 32}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (coup), [Attaques réflexes](./Attaques réflexes.md), [Capture](./Capture.md), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Escalade](./Escalade.md) +21, [Perception](./Perception.md) +11}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (coup), [[Attaques réflexes]], [[Capture]], [[Talent]] (Perception), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Escalade]] +21, [[Perception]] +11}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines, forêts ou montagnes chaudes}
 {s:BDTexte|**Organisation** solitaire ou couple}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Éventration et broyage (Ext).** Quand un mégaprimate [éventre](./Éventration (capacité).md) une créature ou parvient à utiliser son don de [Capture](./Capture.md) pour agripper une créature en situation de [lutte](./lutte.md), la cible subit également 1d6 points de dégâts de [saignement](./Saignement.md) et voit sa vitesse de déplacement réduite de moitié pendant 1 minute. Le singe peut décider de ne pas appliquer cet effet pour mettre hors d’usage une des armes naturelles de la cible pendant 1 minute. Le cas échéant, les attaques effectuées avec cette arme subissent un malus de -4 aux [jets d'attaque](./jet dattaque.md) et infligent la moitié de ses dégâts.}
-{s:BDTexte|**Traversée fracassante (Ext).** Le déplacement d’un mégaprimate n’est pas ralenti par les broussailles, les arbres, les décombres et les [terrains difficiles](./terrain difficile.md) similaires ; par les créatures de taille M ou plus petites ; ou par ses alliées, quelle que soit leur taille. Un mégaprimate peut effectuer un test de manœuvre offensive pour [renverser](./renversement.md) un adversaire de taille Gig ou plus petit, par une [action rapide](./Action rapide.md) qui ne provoque pas d’[attaque d’opportunité](./AO.md).}
+{s:BDTexte|**Éventration et broyage (Ext).** Quand un mégaprimate [[Éventration (capacité)|éventre]] une créature ou parvient à utiliser son don de [[Capture]] pour agripper une créature en situation de [[lutte]], la cible subit également 1d6 points de dégâts de [[saignement]] et voit sa vitesse de déplacement réduite de moitié pendant 1 minute. Le singe peut décider de ne pas appliquer cet effet pour mettre hors d’usage une des armes naturelles de la cible pendant 1 minute. Le cas échéant, les attaques effectuées avec cette arme subissent un malus de -4 aux [[jet dattaque|jets d'attaque]] et infligent la moitié de ses dégâts.}
+{s:BDTexte|**Traversée fracassante (Ext).** Le déplacement d’un mégaprimate n’est pas ralenti par les broussailles, les arbres, les décombres et les [[terrain difficile|terrains difficiles]] similaires ; par les créatures de taille M ou plus petites ; ou par ses alliées, quelle que soit leur taille. Un mégaprimate peut effectuer un test de manœuvre offensive pour [[renversement|renverser]] un adversaire de taille Gig ou plus petit, par une [[action rapide]] qui ne provoque pas d’[[AO|attaque d’opportunité]].}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -44,13 +44,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Singe](./Singe.md) || 1/4
+| Familier, [[Singe]] || 1/4
 |-
-| [Gorille](./Gorille.md) || 2
+| [[Gorille]] || 2
 |-
-| [Gorille sanguinaire](./Gorille sanguinaire.md) || 3
+| [[Gorille sanguinaire]] || 3
 |-
-| [Mégaprimate](./Mégaprimate.md) || 8
+| [[Mégaprimate]] || 8
 |}
 </div>*La majeure partie du corps de ce singe titanesque au cuir épais est recouvert d’une abondante fourrure grise et brune.*
 
@@ -62,8 +62,8 @@ Les créatures qui ne représentent, de toute évidence, aucun danger pour un m�
 
 Sa tendance à ignorer les créatures plus petites que lui peut mener un mégaprimate à sa perte, car il est peu préparé à gérer l’ingéniosité des humanoïdes et de leurs instruments de guerre suffisamment puissants pour abattre une créature aussi redoutable que lui.
 
-#### Le mégaprimate comme [compagnon animal](./liste des compagnons animaux.md)
-**Caractéristiques de départ :** **Taille** M ; **Vitesse** 9 m (6 {s:c}), escalade 9 m (6 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 griffes (1d4) ; **Caractéristiques** For 13, Dex 17, Con 10, Int 2, Sag 12, Cha 7 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+#### Le mégaprimate comme [[Liste des compagnons animaux|compagnon animal]]
+**Caractéristiques de départ :** **Taille** M ; **Vitesse** 9 m (6 {s:c}), escalade 9 m (6 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 griffes (1d4) ; **Caractéristiques** For 13, Dex 17, Con 10, Int 2, Sag 12, Cha 7 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4 :** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d6), 2 griffes (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4.
 </div></td></tr></table>

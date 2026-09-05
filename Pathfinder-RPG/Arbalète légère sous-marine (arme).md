@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 70 po ; **Poids** 2 kg ; **Groupes** [arbalètes](./groupe darmes.md#Arbalètes)
+{s:AE}**Prix** 70 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Arbalètes|arbalètes]]
 **Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 19-20/×2 ; **Portée** 24 m (16 c) ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme à distance](./arme à distance.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme à distance]]</span>
 ---
-Une arbalète sous-marine fonctionne comme son [homologue normal](./Arbalète légère (arme).md) au-dessus de l’eau et s’utilise aussi sous l’eau. Là, elle a un [facteur de portée](./facteur de portée.md) de 6 m (4 {s:c}). Quiconque sait manier une arbalète légère normale peut utiliser une arbalète légère sous-marine.
+Une arbalète sous-marine fonctionne comme son [[arbalète légère (arme)|homologue normal]] au-dessus de l’eau et s’utilise aussi sous l’eau. Là, elle a un [[facteur de portée]] de 6 m (4 {s:c}). Quiconque sait manier une arbalète légère normale peut utiliser une arbalète légère sous-marine.

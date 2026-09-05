@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#ARMELEGERE
 ---
 
->>> [Caractéristiques des armes#ARMELEGERE](./Caractéristiques des armes.md#ARMELEGERE)
+>>> [[Caractéristiques des armes#ARMELEGERE]]

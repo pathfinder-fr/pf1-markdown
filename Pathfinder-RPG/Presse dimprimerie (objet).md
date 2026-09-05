@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 250 po ; **Poids** 75 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
 Une presse à manivelle utilise une plaque sur laquelle tout le texte d'une page est gravé à l'envers. Changer la plaque est un processus simple, mais en créer une nouvelle est coûteux et demande beaucoup de travail. La presse imprime une page à la fois, à un rythme d'environ cinq pages par minute. Un papetier doit ensuite couper et rogner les pages puis relier le livre.

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Rempart
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Rempart](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Rempart)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Rempart]]

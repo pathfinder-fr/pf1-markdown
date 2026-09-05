@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Projectile fantôme
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Projectile fantôme](./Descriptions individuelles des propriétés spéciales des armes.md#Projectile fantôme)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Projectile fantôme]]

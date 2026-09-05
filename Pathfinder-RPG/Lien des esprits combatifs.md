@@ -15,32 +15,32 @@ Categories:
 ---
 
 {s:UM}
-**École** [Divination](./école divination.md) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 4, [Inq](./Inquisiteur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Méd](./Médium.md) 4, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 6  
+**École** [[école divination|Divination]] <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 6  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md) et courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** [[personnelle]] et courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** lanceur de sorts et un allié  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
 **Jet de sauvegarde** oui (inoffensif); **Résistance à la magie** oui (inoffensif)
 
-Le personnage fusionne ses pensées avec celles d'un allié, ce qui leur permet de se battre en tandem, de façon parfaitement coordonnée. Le personnage et son allié font tous deux leur jet d'[initiative](./initiative.md) et utilisent le meilleur jet avant d'y ajouter leur modificateur. Ce sort a trois effet.
+Le personnage fusionne ses pensées avec celles d'un allié, ce qui leur permet de se battre en tandem, de façon parfaitement coordonnée. Le personnage et son allié font tous deux leur jet d'[[initiative]] et utilisent le meilleur jet avant d'y ajouter leur modificateur. Ce sort a trois effet.
 
-:*A distance*. Si le personnage et son allié font tous deux une [attaque à distance](./Valeurs de combat.md#BONUSDATTAQUE) contre la même créature, ils font tous deux un [jet d'attaque](./jet dattaque.md) et prennent tous deux le meilleur dé (plus les bonus).  
-
-
-:*Corps à corps*. Si le personnage et son allié font tous deux une [attaque de corps à corps](./Valeurs de combat.md#BONUSDATTAQUE) contre la même créature, ils font tous deux un [jet d'attaque](./jet dattaque.md) et prennent tous deux le meilleur dé (plus les bonus).  
+:*A distance*. Si le personnage et son allié font tous deux une [[Valeurs de combat#BONUSDATTAQUE|attaque à distance]] contre la même créature, ils font tous deux un [[jet dattaque|jet d'attaque]] et prennent tous deux le meilleur dé (plus les bonus).  
 
 
-:*Sort*. Si le personnage et son allié lancent tous deux un sort et visent la même zone ou la même créature, les créatures affectées subissent un malus de -2 au [jet de sauvegarde](./jet de sauvegarde.md) contre les sorts.
+:*Corps à corps*. Si le personnage et son allié font tous deux une [[Valeurs de combat#BONUSDATTAQUE|attaque de corps à corps]] contre la même créature, ils font tous deux un [[jet dattaque|jet d'attaque]] et prennent tous deux le meilleur dé (plus les bonus).  
 
-Le personnage et son allié perdent les avantages de ce sort s'ils ne se voient plus ou si l'un d'eux est [inconscient](./Inconscient.md) ou [sans défense](./Sans défense.md).
+
+:*Sort*. Si le personnage et son allié lancent tous deux un sort et visent la même zone ou la même créature, les créatures affectées subissent un malus de -2 au [[jet de sauvegarde]] contre les sorts.
+
+Le personnage et son allié perdent les avantages de ce sort s'ils ne se voient plus ou si l'un d'eux est [[inconscient]] ou [[sans défense]].
 
 ### Mythique
 {s:CMy}
-Lorsque le personnage lance ce sort, si l’allié lié utilise une aptitude de [voie mythique](./Création Personnage Mythique.md) contre une créature, le personnage peut utiliser cette même aptitude contre cette créature comme s’il la possédait lui-même. De même, l’allié lié peut utiliser les aptitudes de voie que le personnage utilise contre une créature (même si cet allié n’est pas mythique). Par exemple, si le personnage est un [champion](./Champion Mythique.md) qui attaque un géant du froid en utilisant son aptitude de voie de précision martiale, son allié lié peut utiliser son aptitude de précision martiale lorsqu’il attaque ce géant du froid. Si une aptitude de voie nécessite la dépense de [pouvoir mythique](./pouvoir mythique.md) ou d’autre chose, l’allié lié doit dépenser le coût requis pour que le personnage puisse utiliser cette aptitude.
+Lorsque le personnage lance ce sort, si l’allié lié utilise une aptitude de [[Création personnage mythique|voie mythique]] contre une créature, le personnage peut utiliser cette même aptitude contre cette créature comme s’il la possédait lui-même. De même, l’allié lié peut utiliser les aptitudes de voie que le personnage utilise contre une créature (même si cet allié n’est pas mythique). Par exemple, si le personnage est un [[champion mythique|champion]] qui attaque un géant du froid en utilisant son aptitude de voie de précision martiale, son allié lié peut utiliser son aptitude de précision martiale lorsqu’il attaque ce géant du froid. Si une aptitude de voie nécessite la dépense de [[pouvoir mythique]] ou d’autre chose, l’allié lié doit dépenser le coût requis pour que le personnage puisse utiliser cette aptitude.

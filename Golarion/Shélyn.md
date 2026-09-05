@@ -6,12 +6,12 @@ Categories:
 - Religion
 ---
 
-{s:Dieu|Shélyn|%2fPCUP%2fReligion-PNG%2fShelyn.png|La rose éternelle|NB|Beauté, Art, Amour, Musique|Artistes, amants, poète| Coutille |Air, Bien, Chance, Charme, Protection|Agathions, Nuées, Défense, Destin, Amour, Pureté|Conversion, Ferveur, Hérésie} Shélyn est la demi-sœur de Zon-Kuthon, le seigneur des ténèbres. Durant de nombreux siècles, Shélyn fut vénérée comme une déesse mineure, protectrice des arts et de la beauté. À la mort de sa mère, la déesse de l'amour, Shélyn reprit le flambeau familial, ainsi que les adorateurs et les libations des fidèles du culte, et fut propulsée au panthéon des divinités majeures de Golarion. Bien que d'origine Taldorienne, le culte de Shélyn est présent dans tous les pays, en particulier le [Taldor](./Taldor.md), le [Galt](./Galt.md), le [Sargava](./Sargava.md) ainsi que la cité état d'[Absalom](./Absalom.md).
+{s:Dieu|Shélyn|%2fPCUP%2fReligion-PNG%2fShelyn.png|La rose éternelle|NB|Beauté, Art, Amour, Musique|Artistes, amants, poète| Coutille |Air, Bien, Chance, Charme, Protection|Agathions, Nuées, Défense, Destin, Amour, Pureté|Conversion, Ferveur, Hérésie} Shélyn est la demi-sœur de Zon-Kuthon, le seigneur des ténèbres. Durant de nombreux siècles, Shélyn fut vénérée comme une déesse mineure, protectrice des arts et de la beauté. À la mort de sa mère, la déesse de l'amour, Shélyn reprit le flambeau familial, ainsi que les adorateurs et les libations des fidèles du culte, et fut propulsée au panthéon des divinités majeures de Golarion. Bien que d'origine Taldorienne, le culte de Shélyn est présent dans tous les pays, en particulier le [[Taldor]], le [[Galt]], le [[Sargava]] ainsi que la cité état d'[[Absalom]].
 
 ### Histoire
-Shélyn est née après que les premiers dieux aient emprisonné [Rovagug](./Rovagug.md), et qu'ils aient libéré les hommes de son joug destructeur. Son père, l'esprit-loup, "Le prince des hurlements" ainsi que son autre enfant, Dou-Bral ont participé activement à la bataille contre la plus grande menace qu'ait connu Golarion. Pendant un certain temps, Dou-Bral et sa demi-sœur Shélyn parcoururent le monde, créant la beauté et inspirant l'art dans toutes les contrées du monde. Cependant, Dou-Bral décida de partir seul, dans le plan de l'ombre, à la recherche d'un moyen de purifier cet endroit de sa noirceur.
+Shélyn est née après que les premiers dieux aient emprisonné [[Rovagug]], et qu'ils aient libéré les hommes de son joug destructeur. Son père, l'esprit-loup, "Le prince des hurlements" ainsi que son autre enfant, Dou-Bral ont participé activement à la bataille contre la plus grande menace qu'ait connu Golarion. Pendant un certain temps, Dou-Bral et sa demi-sœur Shélyn parcoururent le monde, créant la beauté et inspirant l'art dans toutes les contrées du monde. Cependant, Dou-Bral décida de partir seul, dans le plan de l'ombre, à la recherche d'un moyen de purifier cet endroit de sa noirceur.
 
-Mais [Dou-Bral](./Dou-Bral.md) revint différent. Désormais, il se faisait appeler [Zon-Kuthon](./Zon-Kuthon.md), et devint le sombre dieu de la torture, des mutilations et de l'horreur. Shélyn, toujours persuadée que l'âme de son frère se cachait dans la sombre carcasse du dieu noir, s'avança vers lui, les mains en avant dans l'espoir d'apaiser son âme. Mais Zon-Kuthon planta ses ongles noirs dans sa main et les enfonça aussi profondément qu'un clou. Quand [Tron](./Tron.md), leur père, vint pour demander des comptes à son fils, celui-ci le captura, le tortura et modela son âme au-delà de toute reconnaissance. C'est ce crime, ajouté à tous les autres, qui poussa les dieux à s'unir une fois de plus pour bannir [Zon-Kuthon](./Zon-Kuthon.md) dans le plan de l'ombre et ce : *tant que le soleil brillerait dans le ciel* .
+Mais [[Dou-Bral]] revint différent. Désormais, il se faisait appeler [[Zon-Kuthon]], et devint le sombre dieu de la torture, des mutilations et de l'horreur. Shélyn, toujours persuadée que l'âme de son frère se cachait dans la sombre carcasse du dieu noir, s'avança vers lui, les mains en avant dans l'espoir d'apaiser son âme. Mais Zon-Kuthon planta ses ongles noirs dans sa main et les enfonça aussi profondément qu'un clou. Quand [[Tron]], leur père, vint pour demander des comptes à son fils, celui-ci le captura, le tortura et modela son âme au-delà de toute reconnaissance. C'est ce crime, ajouté à tous les autres, qui poussa les dieux à s'unir une fois de plus pour bannir [[Zon-Kuthon]] dans le plan de l'ombre et ce : *tant que le soleil brillerait dans le ciel* .
 
 Shélyn s'empara du glaive de Zon-kuthon, le murmure des âmes, la cause de sa corruption, mais malgré cela, il continua son œuvre destructrice.
 
@@ -21,7 +21,7 @@ Shélyn est décrite comme une jeune femme, aux yeux bleus ou argentés. Ses che
 
 ### Émissaires
 
-Shélyn a de nombreux alliés qui respectent comme elle, la beauté et les arts. Parmi les plus notables, on trouve les dragons de bronze. Son héraut est un [ghaele azata](./ghaele-azata.md) qui la sert depuis l'époque où elle n'était que la déesse de la beauté, des arts et de la musique. Quand elle devint Neutre Bonne, son héraut fit de même.
+Shélyn a de nombreux alliés qui respectent comme elle, la beauté et les arts. Parmi les plus notables, on trouve les dragons de bronze. Son héraut est un [[ghaele azata]] qui la sert depuis l'époque où elle n'était que la déesse de la beauté, des arts et de la musique. Quand elle devint Neutre Bonne, son héraut fit de même.
 ### Doctrine
 
 **Beauté.** Avant de devenir la déesse de l'amour, Shélyn était inconstante et futile. Depuis qu'elle a découvert la capacité des gens à se montrer bon et affectueux, elle a tourné son regard vers la beauté intérieure des hommes. "La beauté vient de l'intérieur" est une parole relativement récente introduite par son culte en Golarion, et même si elle ne pratique pas forcément cette philosophie elle-même, elle exige de ses prêtres qu'ils l'appliquent pour elle, dans le monde matériel ! En fait, il reste rare, mais possible, qu'une personne laide devienne prêtre de la déesse de la beauté.
@@ -33,10 +33,10 @@ Elle n'aime pas utiliser sa beauté comme une arme pour manipuler les autres et 
 
 **Art.** Un des aspects de la déesse est bien sûr de faire la promotion de l'art et de l'esprit créatif des hommes. Elle inspire les talentueux et encourage les débutants et tous ceux qui font en sorte de répandre la beauté et l'œuvre de création dans le monde. Les prêtres de Shélyn sont fréquemment des artistes peintres, musiciens ou sculpteurs et rendent gloire à leur déesse par une volonté d'apporter le beau à leurs suivants.
 
-Shélyn elle-même est une grande collectionneuse d'œuvres d'art, particulièrement de violon (car elle joue divinement bien du violon) et une autre, moins connue, de glaive (dont le premier lui fut offert par [Zon-Kuthon](./Zon-Kuthon.md), ou un de ses disciples comme une mauvaise blague).
+Shélyn elle-même est une grande collectionneuse d'œuvres d'art, particulièrement de violon (car elle joue divinement bien du violon) et une autre, moins connue, de glaive (dont le premier lui fut offert par [[Zon-Kuthon]], ou un de ses disciples comme une mauvaise blague).
 
 
-**Amour.** En tant que Déesse de l'amour, Shélyn encourage les élans romantiques et les grandes déclarations d'amour enflammées. Cependant, elle n'est ni une déesse de la fertilité, ni une déesse de la sexualité (rôle plutôt lié à [Lamashtu](./Lamashtu.md)) et elle fait une distinction claire entre amour et sexualité (même si elle ne désapprouve pas la sensualité). Les quelques paladins qui suivent sa doctrine pratiquent l'amour courtois, la galanterie et aiment séduire et chavirer le cœur des belles damoiselles. Les mœurs amoureuses du clergé de Shélyn sont libres et l'amour n'a pas de limitation hétérosexuelle ou homosexuelle. Les deux sentiments y sont encouragés, ce qui peut-être mal vu par les autres cultes.
+**Amour.** En tant que Déesse de l'amour, Shélyn encourage les élans romantiques et les grandes déclarations d'amour enflammées. Cependant, elle n'est ni une déesse de la fertilité, ni une déesse de la sexualité (rôle plutôt lié à [[Lamashtu]]) et elle fait une distinction claire entre amour et sexualité (même si elle ne désapprouve pas la sensualité). Les quelques paladins qui suivent sa doctrine pratiquent l'amour courtois, la galanterie et aiment séduire et chavirer le cœur des belles damoiselles. Les mœurs amoureuses du clergé de Shélyn sont libres et l'amour n'a pas de limitation hétérosexuelle ou homosexuelle. Les deux sentiments y sont encouragés, ce qui peut-être mal vu par les autres cultes.
 
 ### Temples
 
@@ -47,8 +47,8 @@ Les temples sont remplis d'œuvres d'art, et presque continuellement on peut ent
 Il se nomme : Les mélodies de la beauté intérieure.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [deuxième volume](./../Aventures/Présentation AP9.md#AP9-2) de la neuvième campagne, [Jade Regent](./../Aventures/Présentation AP9.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP9#AP9-2|deuxième volume]] de la neuvième campagne, [[Aventures.Présentation AP9|Jade Regent]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

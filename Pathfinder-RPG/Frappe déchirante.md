@@ -11,12 +11,12 @@ Categories:
 
 {s:mca} *Quand le personnage infuse son arme de puissance arcanique, ses attaques rendent ses ennemis encore plus sensibles à la magie.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Frappe magique](./Frappe magique.md), capacité à lancer des sorts profanes.
+**Conditions.** [[Frappe magique]], capacité à lancer des sorts profanes.
 
-**Avantage.** Si le personnage manie une arme altérée par son don [Frappe magique](./Frappe magique.md) et qu’il blesse une créature avec une attaque portée avec cette arme, cette créature reçoit un malus de -2 aux jets de sauvegarde contre les sorts et [pouvoirs magiques](./pouvoirs magiques.md). Cet effet dure 1 round.
+**Avantage.** Si le personnage manie une arme altérée par son don [[Frappe magique]] et qu’il blesse une créature avec une attaque portée avec cette arme, cette créature reçoit un malus de -2 aux jets de sauvegarde contre les sorts et [[pouvoirs magiques]]. Cet effet dure 1 round.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise ce don, il peut dépenser jusqu’à 3 points d’endurance pour augmenter la durée de l’effet d’un [round](./round.md) par point d’endurance dépensé.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise ce don, il peut dépenser jusqu’à 3 points d’endurance pour augmenter la durée de l’effet d’un [[round]] par point d’endurance dépensé.

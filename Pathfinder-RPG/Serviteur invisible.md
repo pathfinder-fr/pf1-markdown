@@ -18,20 +18,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([création](./branche création.md)) ; **Niveau** [Bard](./Barde.md) 1, [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1, [Spi](./Spirite.md) 1  
+**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un morceau de ficelle et un bout de bois)  
+**Composantes** [[composantes|V, G, M]] (un morceau de ficelle et un bout de bois)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** 1 serviteur invisible, dénué de forme et d’intelligence  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Le *serviteur invisible* est une entité dénuée de forme et d’intelligence qui accomplit les tâches simples que son créateur lui confie. Il peut aller chercher des objets, ouvrir des portes (à condition qu’elles ne soient pas coincées), tirer la chaise du maître des lieux pour l’aider à s’asseoir, faire le ménage, etc. Il n’exécute qu’une seule tâche à la fois et la répète inlassablement jusqu’à ce qu’on lui dise de faire autre chose. Il ne peut ouvrir que les portes, couvercles et tiroirs normaux. Sa [Force](./Force.md) est réduite (2 seulement, ce qui lui permet juste de soulever dix kilos et de tirer jusqu’à cinquante kilos). Il peut déclencher les pièges, mais seulement s’il suffit de leur appliquer une pression de dix kilos, ce qui veut dire que certains ne s’actionneront pas à son contact. Il est incapable de réaliser des tâches qui nécessitent un [test de compétence](./test de compétence.md) accompagné d’un [DD](./DD.md) de 10 ou plus ou d’un [test de compétence](./test de compétence.md) nécessitant une formation. Sa [vitesse de déplacement](./vitesse de déplacement.md) est de 4,50 m et il ne peut ni voler, ni escalader, ni nager (en revanche, il peut marcher sur l’eau).
+Le *serviteur invisible* est une entité dénuée de forme et d’intelligence qui accomplit les tâches simples que son créateur lui confie. Il peut aller chercher des objets, ouvrir des portes (à condition qu’elles ne soient pas coincées), tirer la chaise du maître des lieux pour l’aider à s’asseoir, faire le ménage, etc. Il n’exécute qu’une seule tâche à la fois et la répète inlassablement jusqu’à ce qu’on lui dise de faire autre chose. Il ne peut ouvrir que les portes, couvercles et tiroirs normaux. Sa [[Force]] est réduite (2 seulement, ce qui lui permet juste de soulever dix kilos et de tirer jusqu’à cinquante kilos). Il peut déclencher les pièges, mais seulement s’il suffit de leur appliquer une pression de dix kilos, ce qui veut dire que certains ne s’actionneront pas à son contact. Il est incapable de réaliser des tâches qui nécessitent un [[test de compétence]] accompagné d’un [[DD]] de 10 ou plus ou d’un [[test de compétence]] nécessitant une formation. Sa [[vitesse de déplacement]] est de 4,50 m et il ne peut ni voler, ni escalader, ni nager (en revanche, il peut marcher sur l’eau).
 
-Le serviteur est incapable de combattre. Il est impossible de le tuer mais il se dissipe si des attaques de zone lui infligent un total de 6 points de dégâts (il n’a pas droit au moindre [jet de sauvegarde](./jet de sauvegarde.md)). Il cesse d’exister dès que son créateur tente de l’envoyer trop loin (c’est-à-dire en dehors des limites de portée du sort).
+Le serviteur est incapable de combattre. Il est impossible de le tuer mais il se dissipe si des attaques de zone lui infligent un total de 6 points de dégâts (il n’a pas droit au moindre [[jet de sauvegarde]]). Il cesse d’exister dès que son créateur tente de l’envoyer trop loin (c’est-à-dire en dehors des limites de portée du sort).

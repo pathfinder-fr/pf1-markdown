@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Trushmoor est un village de pêcheurs du comté de [Versex](./Versex.md) en [Ustalav](./Ustalav.md), situé sur les rives du lac d'[Encarthan](./Encarthan.md).
+Trushmoor est un village de pêcheurs du comté de [[Versex]] en [[Ustalav]], situé sur les rives du lac d'[[Encarthan]].
 
 On dit que beaucoup de ses habitants sont des fervents des Cultes Anciens.

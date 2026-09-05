@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#MAGIEACCELEREE
 ---
 
->>> [arcanes#MAGIEACCELEREE](./arcanes.md#MAGIEACCELEREE)
+>>> [[arcanes#MAGIEACCELEREE]]

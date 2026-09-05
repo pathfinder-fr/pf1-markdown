@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Iadara est la capitale du [Kyonin](./Kyonin.md).
+Iadara est la capitale du [[Kyonin]].
 
-Située en plein cœur de la [forêt de Firéani](./forêt de Firéani.md), elle est protégée des intrus par de nombreux charmes et illusions. En revanche, ceux qui sont conviés à y pénétrer y découvriront une cité d'une beauté sans pareil.
+Située en plein cœur de la [[forêt de Firéani]], elle est protégée des intrus par de nombreux charmes et illusions. En revanche, ceux qui sont conviés à y pénétrer y découvriront une cité d'une beauté sans pareil.

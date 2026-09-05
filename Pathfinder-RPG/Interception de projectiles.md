@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armures magiques#Interceptiondeprojectiles
 ---
 
->>> [Armures magiques#Interceptiondeprojectiles](./Armures magiques.md#Interceptiondeprojectiles)
+>>> [[Armures magiques#Interceptiondeprojectiles]]

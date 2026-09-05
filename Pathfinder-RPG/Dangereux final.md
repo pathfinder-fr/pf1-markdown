@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[son](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Bard](./Barde.md) 6  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 6  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** 1 créature/3 [niveaux](./niveau.md) qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
+**Cible** 1 créature/3 [[niveau|niveaux]] qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Pour lancer ce sort, le personnage doit être en train de donner une [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE). Il y met immédiatement un terme avec un geste théâtral qui inflige 2d8 points de dégâts sonores à chaque cible. De plus, chaque cible reçoit 3d6 points de dégâts de [saignement](./Saignement.md) pendant 1d6 rounds. Un [jet de sauvegarde](./jet de sauvegarde.md) réussi annule les dégâts de [saignement](./Saignement.md) mais pas les dégâts sonores.
+Pour lancer ce sort, le personnage doit être en train de donner une [[barde#REPRESENTATIONBARDIQUE|représentation bardique]]. Il y met immédiatement un terme avec un geste théâtral qui inflige 2d8 points de dégâts sonores à chaque cible. De plus, chaque cible reçoit 3d6 points de dégâts de [[saignement]] pendant 1d6 rounds. Un [[jet de sauvegarde]] réussi annule les dégâts de [[saignement]] mais pas les dégâts sonores.

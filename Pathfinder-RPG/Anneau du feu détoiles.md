@@ -8,17 +8,17 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de feu d’étoiles|}
-**Aura** [Évocation](./Évocation.md) puissante ; **NLS** 12 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 50 000 po ; **Poids** —
+**Aura** [[Évocation]] puissante ; **NLS** 12 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 50 000 po ; **Poids** —
 (((Description)))
 Cet anneau possède deux modes de fonctionnement, l’un quand le porteur est dans une pièce sombre ou la nuit à l’extérieur, et l’autre quand il est en sous-sol ou à l’intérieur de nuit.
 
 De nuit sous un ciel dégagé ou dans une zone d’ombre ou de ténèbres, l’anneau de feu d’étoiles peut produire les effets suivants, sur ordre de son porteur.
-• [Boules de foudre](./Anneau du feu détoiles.md#BOULEDEFOUDRE) (spécial, 1 fois par nuit)
-• [Étoiles filantes](./Anneau du feu détoiles.md#ETOILESFILANTES) (spécial, 3 par semaine)
-• *[Lumière](./Lumière.md)* (2 fois par nuit)
-• *[Lumières dansantes](./Lumières dansantes.md)* (1 fois par heure)
+• [[Anneau du feu détoiles#BOULEDEFOUDRE|Boules de foudre]] (spécial, 1 fois par nuit)
+• [[Anneau du feu détoiles#ETOILESFILANTES|Étoiles filantes]] (spécial, 3 par semaine)
+• *[[Lumière]]* (2 fois par nuit)
+• *[[Lumières dansantes]]* (1 fois par heure)
 
-{s:Reference|BOULEDEFOUDRE}La première fonction spéciale, **boules de foudre**, libère une à quatre sphères d’électricité, selon ce que décide le porteur. Ces globes luisants ressemblent à ceux générés par le sort *[lumières dansantes](./Lumières dansantes.md)*, et le personnage les contrôle de la même façon. Les boules de foudre ont une portée de 36 m et une durée d’existence de 4 rounds. Le porteur peut les déplacer de 36 m par round. Elles font environ un mètre de diamètre et se dissipent dès qu’elles arrivent à 1,50 m d’une créature, cette dernière subissant une décharge d’électricité dont la violence est inversement proportionnelle au nombre de sphères créées.
+{s:Reference|BOULEDEFOUDRE}La première fonction spéciale, **boules de foudre**, libère une à quatre sphères d’électricité, selon ce que décide le porteur. Ces globes luisants ressemblent à ceux générés par le sort *[[lumières dansantes]]*, et le personnage les contrôle de la même façon. Les boules de foudre ont une portée de 36 m et une durée d’existence de 4 rounds. Le porteur peut les déplacer de 36 m par round. Elles font environ un mètre de diamètre et se dissipent dès qu’elles arrivent à 1,50 m d’une créature, cette dernière subissant une décharge d’électricité dont la violence est inversement proportionnelle au nombre de sphères créées.
 
 {| CLASS="tablo centre autoalt"
 |- CLASS="titre"
@@ -38,13 +38,13 @@ Une fois la fonction activée, les boules de foudre peuvent être libérées au 
 
 {s:Reference|ETOILESFILANTES}La seconde fonction spéciale, **étoiles filantes**, crée des comètes miniatures dotées d’une longue queue étincelante. Chaque semaine, l’anneau peut libérer trois étoiles filantes, simultanément ou une par une. Chacun de ces projectiles inflige 12 points de dégâts au moment de l’impact puis explose comme une boule de feu, infligeant 24 points de dégâts de feu supplémentaires sur une zone de 1,50 m de rayon.
 
-Une créature frappée de plein fouet par une étoile filante subit la totalité des dégâts causés par l’impact et par l’explosion. Celles qui sont seulement prises dans la zone dangereuse ne sont pas affectées par l’impact et ont droit à un jet de [Réflexes](./Réflexes.md) ([DD](./DD.md) 13) pour ne subir que la moitié des dégâts dus à l’explosion. La portée maximale des étoiles filantes est de 21 m. Après avoir parcouru cette distance, elles explosent automatiquement, à moins d’avoir heurté un obstacle ou une créature sur leur trajet. Elles se déplacent en ligne droite, et quiconque se trouve sur leur route doit réussir un jet de [Réflexes](./Réflexes.md) ([DD](./DD.md) 13) sous peine d’être touché et de provoquer l’explosion.
+Une créature frappée de plein fouet par une étoile filante subit la totalité des dégâts causés par l’impact et par l’explosion. Celles qui sont seulement prises dans la zone dangereuse ne sont pas affectées par l’impact et ont droit à un jet de [[Réflexes]] ([[DD]] 13) pour ne subir que la moitié des dégâts dus à l’explosion. La portée maximale des étoiles filantes est de 21 m. Après avoir parcouru cette distance, elles explosent automatiquement, à moins d’avoir heurté un obstacle ou une créature sur leur trajet. Elles se déplacent en ligne droite, et quiconque se trouve sur leur route doit réussir un jet de [[Réflexes]] ([[DD]] 13) sous peine d’être touché et de provoquer l’explosion.
 
 La nuit en intérieur, ou en sous-sol à tout moment de la journée, l’anneau de feu d’étoiles a les pouvoirs suivants.
-• *[Lueur féerique](./Lueur féerique.md)* (2 fois par jour)
-• [Pluie d’étincelles](./Anneau du feu détoiles.md#PLUIEDETINCELLES) (spécial, 1 fois par jour)
+• *[[Lueur féerique]]* (2 fois par jour)
+• [[Anneau du feu détoiles#PLUIEDETINCELLES|Pluie d’étincelles]] (spécial, 1 fois par jour)
 
 {s:Reference|PLUIEDETINCELLES}La **pluie d’étincelles** prend la forme d’un nuage d’étincelles violettes qui jaillissent de l’anneau et parcourent une distance de 6 m dans un arc de 3 m de large à son extrémité. Les créatures prises dans la zone d’effet subissent 2d8 points de dégâts d’électricité chacune si elles ne portent aucun objet métallique. Une cible qui porte une armure métallique ou une arme en métal subit 4d8 points de dégâts d’électricité.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[boule de feu](./Boule de feu.md)*, *[éclair](./Éclair.md)*, *[lueur féerique](./Lueur féerique.md)* et *[lumière](./Lumière.md)* ; **Coût** 25 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[boule de feu]]*, *[[éclair]]*, *[[lueur féerique]]* et *[[lumière]]* ; **Coût** 25 000 po
 </div>

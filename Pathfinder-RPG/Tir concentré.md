@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:ISR}*Vos attaques à distance simultanées pénètrent aisément les défenses de vos adversaires.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONCOMBAT|combat]], [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Tir à bout portant](./Tir à bout portant.md), [elfe](./Elfe.md), trait racial armes familières
+**Conditions.** [[Tir à bout portant]], [[elfe]], trait racial armes familières
 
-**Avantages.** Si le personnage et un unique allié qui possède ce don utilisent tous deux une [action préparée](./action préparée.md) pour porter une attaque à distance contre le même adversaire et choisissent la même condition de déclenchement, lorsque le personnage et cet allié lancent leur attaque, il peuvent tous deux choisir de conserver le résultat de [jet d'attaque](./jet dattaque.md) le plus élevé à la place du leur. De plus, si le personnage et son allié touchent tous les deux la cible, ils peuvent additionner les dégâts de chaque attaque avant d'appliquer son éventuelle [réduction de dégâts](./RD.md) ou [résistance aux énergies](./Résistance (capacité).md).
+**Avantages.** Si le personnage et un unique allié qui possède ce don utilisent tous deux une [[action préparée]] pour porter une attaque à distance contre le même adversaire et choisissent la même condition de déclenchement, lorsque le personnage et cet allié lancent leur attaque, il peuvent tous deux choisir de conserver le résultat de [[jet dattaque|jet d'attaque]] le plus élevé à la place du leur. De plus, si le personnage et son allié touchent tous les deux la cible, ils peuvent additionner les dégâts de chaque attaque avant d'appliquer son éventuelle [[RD|réduction de dégâts]] ou [[Résistance (capacité)|résistance aux énergies]].

@@ -11,11 +11,11 @@ Categories:
 
 **Catégorie.** Monstre
 
-**Condition.** Posséder un pouvoir magique lancé à un [NLS](./NLS.md) supérieur ou égal à 6.
+**Condition.** Posséder un pouvoir magique lancé à un [[NLS]] supérieur ou égal à 6.
 
 **Avantage.** Ce don s’applique à un des pouvoirs magiques de la créature, qui doit vérifier les conditions décrites ci-dessous. Trois fois par jour (ou moins souvent si la créature est normalement limitée à une ou deux utilisations quotidiennes du pouvoir), le pouvoir choisi peut être utilisé avec des effets étendus.
 Lorsque les effets d’un pouvoir sont étendus, toutes ses quantités numériques variables sont augmentées de 50%. Les jets de sauvegarde et les tests opposés ne sont pas concernés. Les pouvoirs magiques qui ne comportent pas de quantités aléatoires ne sont pas affectés.
-Le pouvoir magique choisi doit imiter un sort dont le niveau est inférieur ou égal à la moitié du [NLS](./NLS.md) de la créature (arrondi vers le bas) moins 2. Le tableau inclus ci-dessous présente les restrictions imposées par cette condition.
+Le pouvoir magique choisi doit imiter un sort dont le niveau est inférieur ou égal à la moitié du [[NLS]] de la créature (arrondi vers le bas) moins 2. Le tableau inclus ci-dessous présente les restrictions imposées par cette condition.
 
 **Spécial.** La créature peut gagner ce don plusieurs fois, mais ses effets ne se cumulent pas : il s’applique chaque fois à un pouvoir magique différent.
 

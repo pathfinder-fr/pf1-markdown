@@ -11,12 +11,12 @@ Categories:
 
 {s:mr}*Quand le personnage voit un allié devenir enragé, il se laisse lui aussi gagner par la rage.*
 
-**Catégorie.** [Combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|Combat]]
 
-**Conditions.** [Demi-orque](./Demi-orque.md) ou [orque](./orque (race).md), autre que Loyal.
+**Conditions.** [[Demi-orque]] ou [[orque (race)|orque]], autre que Loyal.
 
-**Avantages.** Quand le personnage est adjacent à un allié enragé, il peut utiliser une [action libre](./Action libre.md), à son tour, pour entrer dans un état similaire, mais moins efficace. Cette forme de [rage](./Barbare.md#RAGEDEBERSERKER) plus faible lui donne tous les avantages et tous les malus de la rage de [barbare](./Barbare.md), sauf que le bonus de moral à la [Force](./Force.md) et la [Constitution](./Constitution.md) est seulement de +2. Le personnage peut rester enragé aussi longtemps qu’il le désire tant qu’il reste adjacent à un allié enragé (par exemple, il peut faire un pas de 1,50 m (1 {s:c}) pour s’éloigner d’un allié enragé et se placer à côté d’un autre allié enragé tout en maintenant sa rage). Une fois que cette rage amoindrie se termine, le personnage est [fatigué](./Fatigué.md), comme avec la rage de barbare. Le personnage ne peut pas utiliser ce don s’il est fatigué.
+**Avantages.** Quand le personnage est adjacent à un allié enragé, il peut utiliser une [[action libre]], à son tour, pour entrer dans un état similaire, mais moins efficace. Cette forme de [[barbare#RAGEDEBERSERKER|rage]] plus faible lui donne tous les avantages et tous les malus de la rage de [[barbare]], sauf que le bonus de moral à la [[Force]] et la [[Constitution]] est seulement de +2. Le personnage peut rester enragé aussi longtemps qu’il le désire tant qu’il reste adjacent à un allié enragé (par exemple, il peut faire un pas de 1,50 m (1 {s:c}) pour s’éloigner d’un allié enragé et se placer à côté d’un autre allié enragé tout en maintenant sa rage). Une fois que cette rage amoindrie se termine, le personnage est [[fatigué]], comme avec la rage de barbare. Le personnage ne peut pas utiliser ce don s’il est fatigué.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Quand un allié enragé se trouve à 9 mètres ou moins du personnage, ce dernier peut dépenser 5 points d’endurance pour entrer en rage empathique même s’il n’est pas adjacent à son allié. Tant que la rage n’a pas pris fin, il lui suffit de rester dans un rayon de 9 mètres autour de l’allié en rage pour maintenir la rage empathique.

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2 page 42*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille P, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille P, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 14, pris au dépourvu 13 (Dex +2, esquive +1, naturelle +2, taille +1)}
 {s:BDTexte|**pv** 22 (3d10+6)}
@@ -28,14 +28,14 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 15, **Con** 16, **Int** 2, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +3 ; **BMO** +3 ; **DMD** 16}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Talent](./Talent.md) (Perception)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +6 (+10 pour sauter), [Natation](./Natation.md) +9, [Perception](./Perception.md) +9 ; **Modificateurs raciaux** +4 en [Acrobaties](./Acrobaties.md) pour sauter}
+{s:BDTexte|**Dons** [[Esquive]], [[Talent]] (Perception)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +6 (+10 pour sauter), [[Natation]] +9, [[Perception]] +9 ; **Modificateurs raciaux** +4 en [[Acrobaties]] pour sauter}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** sous terre}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou famille (3-5)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Regard aveuglant (Ext)** Les yeux d’un aveugleur émettent une lumière vive ayant une portée de 9 mètres (6 {s:c}). Toutes les créatures situées dans cette zone doivent réussir un [jet de Vigueur](./jet de sauvegarde.md) de [DD](./DD.md) 13 pour ne pas être [aveuglées](./Aveuglé.md) pendant 1 heure. Les aveugleurs peuvent voir normalement malgré la lumière émise par leurs yeux, qui illumine une étendue de 9 mètres (6 {s:c}) de [rayon](./rayon.md) ([lumière vive](./Exploration.md#VISIONLUMIERE)). Les créatures qui sont [aveuglées](./Aveuglé.md) par la lumière ou sensibles à la lumière subissent les pénalités normales lorsqu’elles se trouvent à 9 mètres (6 {s:c}) ou moins d’un aveugleur qui utilise son regard aveuglant. Un aveugleur peut décider d’activer ou de désactiver cette capacité par une [action libre](./Action libre.md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Regard aveuglant (Ext)** Les yeux d’un aveugleur émettent une lumière vive ayant une portée de 9 mètres (6 {s:c}). Toutes les créatures situées dans cette zone doivent réussir un [[jet de sauvegarde|jet de Vigueur]] de [[DD]] 13 pour ne pas être [[aveuglé|aveuglées]] pendant 1 heure. Les aveugleurs peuvent voir normalement malgré la lumière émise par leurs yeux, qui illumine une étendue de 9 mètres (6 {s:c}) de [[rayon]] ([[Exploration#VISIONLUMIERE|lumière vive]]). Les créatures qui sont [[aveuglé|aveuglées]] par la lumière ou sensibles à la lumière subissent les pénalités normales lorsqu’elles se trouvent à 9 mètres (6 {s:c}) ou moins d’un aveugleur qui utilise son regard aveuglant. Un aveugleur peut décider d’activer ou de désactiver cette capacité par une [[action libre]]. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>
 *Cette créature qui ressemble à une grenouille a la taille d’un petit humanoïde trapu, des pieds et des mains palmées et des yeux blancs et brillants.*

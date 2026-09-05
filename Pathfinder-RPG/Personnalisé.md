@@ -4,6 +4,6 @@ Title: Rencontres Personnalisées
 LastModified: 2017-11-25 23:13
 ---
 
-*Retour sur le wiki du [cristal bleu](./PHF19.md).*
+*Retour sur le wiki du [[PHF19|cristal bleu]].*
 
-- **[Rémanence sanguine](./PHF19Rémanence sanguine.md).**
+- **[[PHF19Rémanence sanguine|Rémanence sanguine]].**

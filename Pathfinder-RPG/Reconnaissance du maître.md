@@ -9,7 +9,7 @@ LastModified: 2019-01-26 11:13
 
 **Avantage.** Vous pouvez passer une minute à examiner les restes d'une créature morte-vivante que vous avez détruite au cours de l'heure précédente. En procédant de la sorte, vous pouvez faire un test de Perception contre un DD égal à 15 + le nombre de DV de la créature morte-vivante. Si vous y parvenez, vous pouvez déterminer le processus de création du mort-vivant, qu'il s'agisse d'un sort, de la capacité création de rejeton, une génération spontanée ou une autre origine.
 
-**Spécial.** Si vous bénéficiez du don [Vampirologue](./Vampirologue.md), vous pouvez aussi reconnaître certains indices permettant de révéler le créateur de certains êtres morts-vivants. Si vous parvenez à déterminer que la créature morte-vivante a été créée par un vampire, vous pouvez immédiatement utiliser votre don Vampirologue pour déterminer qui l'a créée.
+**Spécial.** Si vous bénéficiez du don [[Vampirologue]], vous pouvez aussi reconnaître certains indices permettant de révéler le créateur de certains êtres morts-vivants. Si vous parvenez à déterminer que la créature morte-vivante a été créée par un vampire, vous pouvez immédiatement utiliser votre don Vampirologue pour déterminer qui l'a créée.
 
 (((Know master
 You recognize the telltale signs of undead overlords among their slaves.

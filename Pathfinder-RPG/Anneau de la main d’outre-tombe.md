@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de la main d’outre-tombe|{s:AE}}
-**Aura** [Nécromancie](./Nécromancie.md) faible; **NLS** 1 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 2 000 po ; **Poids** —
+**Aura** [[Nécromancie]] faible; **NLS** 1 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 2 000 po ; **Poids** —
 (((Description)))
 Le porteur de cet anneau peut effectuer une attaque de contact au corps à corps contre une créature morte-vivante qui ne fait pas plus d’une catégorie de taille de plus que lui, la coupant de son énergie immortelle. Le porteur ne souffre jamais des effets néfastes qui se produisent normalement lors d’un contact physique avec une créature morte-vivante. Sur une attaque réussie, la créature morte-vivante ne peut plus être soignée ou aidée par les effets d’énergie négative pendant 1d4 rounds. Pendant cette durée, l’énergie positive l’affecte normalement.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), [façonnage de cadavre](./Façonnage de cadavre.md) ; **Coût** 1 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], [[façonnage de cadavre]] ; **Coût** 1 000 po
 </div>

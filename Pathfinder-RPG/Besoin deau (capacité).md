@@ -7,6 +7,6 @@ Categories:
 - Règle universelle de monstres
 ---
 
-Une créature ayant ce pouvoir spécial peut survivre hors de l’eau pendant 1 minute par point de [Constitution](./Constitution.md). Après, elle risque de s’[asphyxier](./Dangers naturels.md#ASPHYXIE), comme si elle se [noyait](./Dangers naturels.md#NOYADE).
+Une créature ayant ce pouvoir spécial peut survivre hors de l’eau pendant 1 minute par point de [[Constitution]]. Après, elle risque de s’[[Dangers naturels#ASPHYXIE|asphyxier]], comme si elle se [[Dangers naturels#NOYADE|noyait]].
 
 *Format :* besoin d’eau ; *Emplacement :* Particularités

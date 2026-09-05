@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vos attaques laissent vos ennemis tremblants de peur.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Coup de brute](./Coup de brute.md), [Force intimidante](./Force intimidante.md), [École de la furie orque](./École de la furie orque.md), [Dévastation orque](./Dévastation orque.md), 7 rangs en [Intimidation](./Intimidation.md), trait racial [apprentissage martial](./orque (race).md#Traits_raciaux_standards_7)
+**Conditions.** [[Coup de brute]], [[Force intimidante]], [[École de la furie orque]], [[Dévastation orque]], 7 rangs en [[Intimidation]], trait racial [[Orque (race)#Traits_raciaux_standards_7|apprentissage martial]]
 
-**Avantages.** Lorsqu'il utilise l'[École de la furie orque](./École de la furie orque.md), le personnage gagne un bonus de +4 aux [jets de sauvegarde](./JDS.md) contre les effets créés par les créatures [secoués](./Secoué.md).
+**Avantages.** Lorsqu'il utilise l'[[École de la furie orque]], le personnage gagne un bonus de +4 aux [[jds|jets de sauvegarde]] contre les effets créés par les créatures [[secoué|secoués]].

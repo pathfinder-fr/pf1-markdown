@@ -15,18 +15,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[émotion](./Registre.md), [mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 1, [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Méd](./Médium.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-La cible reçoit un malus de -4 aux tests d’[initiative](./initiative.md) et aux jets de [Réflexes](./Réflexes.md).
+La cible reçoit un malus de -4 aux tests d’[[initiative]] et aux jets de [[Réflexes]].

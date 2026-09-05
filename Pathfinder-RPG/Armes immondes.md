@@ -14,13 +14,13 @@ Categories:
 
 *Vous propagez la contagion avec vos armes en recouvrant leur bout dans la fange et les immondices.*
 
-**Catégorie.** [combat](./Dons.md#COMBAT)
+**Catégorie.** [[Dons#COMBAT|combat]]
 
-**Conditions.** 1 rang en [Connaissances](./Connaissances.md) (Exploration souterraine), 1 rang en [Connaissances](./Connaissances.md) (Nature)
+**Conditions.** 1 rang en [[Connaissances]] (Exploration souterraine), 1 rang en [[Connaissances]] (Nature)
 
-**Avantage.** Vous utilisez une [action simple](./Action simple.md) pour couvrir votre arme avec des restes en décomposition, des immondices gluants ou n'importe quel autre agent virulent.
+**Avantage.** Vous utilisez une [[action simple]] pour couvrir votre arme avec des restes en décomposition, des immondices gluants ou n'importe quel autre agent virulent.
 
-La prochaine attaque faite avec cette arme qui réussit à blesser un ennemi l'expose à la fièvre des marais. Si l'attaque est un [coup critique](./coup critique.md), le temps d'incubation est d'un round et le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est égal à 10+ 1/2 [BBA](./BBA.md) + votre modificateur d'[Intelligence](./Intelligence.md).
+La prochaine attaque faite avec cette arme qui réussit à blesser un ennemi l'expose à la fièvre des marais. Si l'attaque est un [[coup critique]], le temps d'incubation est d'un round et le [[DD]] du [[jet de sauvegarde]] est égal à 10+ 1/2 [[BBA]] + votre modificateur d'[[Intelligence]].
 
 (((Filthy Weapons (Combat)
 You spread contagion with your weapons by covering their business ends in virulent muck and sewage.

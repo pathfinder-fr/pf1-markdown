@@ -6,14 +6,14 @@ Categories:
 - Don
 ---
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#9) Canalisation supplémentaire : Si je prends ce don et que j’ai plus d’une classe avec la capacité canalisation d’énergie, dois-je assigner les utilisations supplémentaires à une classe précise en choisissant le don ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#9|→]] Canalisation supplémentaire : Si je prends ce don et que j’ai plus d’une classe avec la capacité canalisation d’énergie, dois-je assigner les utilisations supplémentaires à une classe précise en choisissant le don ?***
 
-Non. En fait, <u>[le don](./Canalisation supplémentaire.md)</u> offre au personnage deux utilisations quotidiennes « flottantes » de canalisation d’énergie, et il peut les utiliser avec n’importe qu’elle classe appropriée qu’il possède et qui confère la capacité canalisation d’énergie.
-Par exemple, si le personnage est un [prêtre](./Prêtre.md)/[nécromancien](./Nécromancie (école).md), chaque jour il pourrait utiliser 1 canalisation en tant que prêtre et 1 en tant que nécromancien, 2 en tant que prêtre et 0 en tant que nécromancien, ou 0 en tant que prêtre et 2 en tant que nécromancien.
+Non. En fait, <u>[[Canalisation supplémentaire|le don]]</u> offre au personnage deux utilisations quotidiennes « flottantes » de canalisation d’énergie, et il peut les utiliser avec n’importe qu’elle classe appropriée qu’il possède et qui confère la capacité canalisation d’énergie.
+Par exemple, si le personnage est un [[Prêtre]]/[[Nécromancie (école)|nécromancien]], chaque jour il pourrait utiliser 1 canalisation en tant que prêtre et 1 en tant que nécromancien, 2 en tant que prêtre et 0 en tant que nécromancien, ou 0 en tant que prêtre et 2 en tant que nécromancien.
 Notez que cela n’offre pas deux utilisations supplémentaires de canalisation d’énergie à *chaque* classe qui confère cette capacité — le don offre exactement deux utilisations quotidiennes supplémentaires.}*Le personnage peut canaliser l’énergie divine plus souvent.*
 
-**Conditions.** Capacité de [classe](./classe.md) à [canaliser de l’énergie](./canalisation.md).
+**Conditions.** Capacité de [[classe]] à [[canalisation|canaliser de l’énergie]].
 
-**Avantage.** Le personnage [canalise l’énergie](./canalisation.md) deux fois de plus par jour.
+**Avantage.** Le personnage [[canalisation|canalise l’énergie]] deux fois de plus par jour.
 
-**Spécial.** Si un [paladin](./Paladin.md) capable de [canaliser de l’énergie](./canalisation.md) choisit ce don, il peut utiliser l’[imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) quatre fois de plus par jour mais seulement pour [canaliser de l’énergie positive](./canalisation.md). Si un [prêtre combattant](./Prêtre combattant.md) possédant le pouvoir canalisation d’énergie prend ce don, il peut utiliser ferveur quatre fois de plus par jour, mais uniquement pour canaliser l’énergie.
+**Spécial.** Si un [[paladin]] capable de [[canalisation|canaliser de l’énergie]] choisit ce don, il peut utiliser l’[[Paladin#IMPOSITIONDESMAINS|imposition des mains]] quatre fois de plus par jour mais seulement pour [[canalisation|canaliser de l’énergie positive]]. Si un [[prêtre combattant]] possédant le pouvoir canalisation d’énergie prend ce don, il peut utiliser ferveur quatre fois de plus par jour, mais uniquement pour canaliser l’énergie.

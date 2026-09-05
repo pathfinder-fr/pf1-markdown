@@ -12,12 +12,12 @@ Categories:
 
 {s:mca}*Le personnage peut utiliser une simple cape pour se protéger et dérouter ses ennemis.*
 
-**Catégorie.** [panache](./Dons.md#DONPANACHE)
+**Catégorie.** [[dons#DONPANACHE|panache]]
 
-**Conditions.** [Bretteur amateur](./Bretteur amateur.md) ou pouvoir de classe [panache](./Bretteur.md#PANACHE), [Esquive](./Esquive.md), 1 rang en [Escamotage](./Escamotage.md).
+**Conditions.** [[Bretteur amateur]] ou pouvoir de classe [[bretteur#PANACHE|panache]], [[Esquive]], 1 rang en [[Escamotage]].
 
-**Avantage.** Par une [action de mouvement](./Actions de mouvement.md), le personnage peut envelopper son bras d’une cape qu’il porte (la retirant si nécessaire) et la traiter comme une targe. S’il utilise la cape de cette manière et que son adversaire rate son attaque au corps à corps contre lui, le personnage peut, par une [action immédiate](./Actions immédiates.md), dépenser 1 point de [panache](./Bretteur.md#PANACHE) pour enlever la cape de son bras et [enchevêtrer](./États préjudiciables.md#Enchevêtré) son ennemi avec. L’ennemi peut se libérer en dépensant une [action complexe](./Actions complexes.md) pour s’échapper ou en détruisant la cape : une cape ordinaire a une [solidité](./solidité.md) de 1 et 3 points de vie. Le personnage peut utiliser ce don avec des objets présentant une forme et un poids similaire à ceux d’une cape, comme un manteau ou un rideau.
+**Avantage.** Par une [[Actions de mouvement|action de mouvement]], le personnage peut envelopper son bras d’une cape qu’il porte (la retirant si nécessaire) et la traiter comme une targe. S’il utilise la cape de cette manière et que son adversaire rate son attaque au corps à corps contre lui, le personnage peut, par une [[Actions immédiates|action immédiate]], dépenser 1 point de [[bretteur#PANACHE|panache]] pour enlever la cape de son bras et [[États préjudiciables#Enchevêtré|enchevêtrer]] son ennemi avec. L’ennemi peut se libérer en dépensant une [[Actions complexes|action complexe]] pour s’échapper ou en détruisant la cape : une cape ordinaire a une [[solidité]] de 1 et 3 points de vie. Le personnage peut utiliser ce don avec des objets présentant une forme et un poids similaire à ceux d’une cape, comme un manteau ou un rideau.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise ce don pour [enchevêtrer](./Enchevêtré.md) un adversaire, il peut dépenser 5 points d’endurance au lieu d’un point de [panache](./panache.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise ce don pour [[enchevêtré|enchevêtrer]] un adversaire, il peut dépenser 5 points d’endurance au lieu d’un point de [[panache]].

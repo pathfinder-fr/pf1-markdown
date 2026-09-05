@@ -42,7 +42,7 @@ Tous les joueurs de la campagne qui s'inscrivent ont leurs données de partie ac
 
 ### Code de Conduite de la Communauté
 
-Tous les participants à la Campagne Organisée doivent adhérer au [<u>Code de Conduite de la Campagne Organisée</u>](./<u>Code-de-Conduite-de-la-Campagne-Organisée</u>.md) et aux [<u>Normes de la Communauté</u>](./<u>Normes-de-la-Communauté</u>.md) PFS - les lire et les respecter lors de tous les événements et parties de la Campagne Organisée.
+Tous les participants à la Campagne Organisée doivent adhérer au [[<u>Code de Conduite de la Campagne Organisée</u>]] et aux [[<u>Normes de la Communauté</u>]] PFS - les lire et les respecter lors de tous les événements et parties de la Campagne Organisée.
 
 
 
@@ -58,7 +58,7 @@ NdT : les personnages pré-tirés sont disponibles en français sur ce site : [A
 
 #### Créer un Personnage
 
-Si vous avez le temps et que vous savez quel type de personnage vous voulez jouer, vous pouvez créer votre propre personnage en suivant les instructions de la page [Création de Personnage](https://www.pathfinder-fr.org/Wiki/Pathfinder2.PFS Bases du Joueur.ashx).
+Si vous avez le temps et que vous savez quel type de personnage vous voulez jouer, vous pouvez créer votre propre personnage en suivant les instructions de la page [Création de Personnage](https://www.pathfinder-fr.org/Wiki/Pathfinder2.PFS%20Bases%20du%20Joueur.ashx).
 
 Après avoir créé votre personnage, enregistrez-le sur votre [compte de campagne organisée](https://paizo.com/organizedPlay/myAccount). Connectez-vous et cliquez sur *Register a New Pathfinder Society (second edition) Character*.
 
@@ -74,4 +74,4 @@ Chaque communauté fonctionne différemment pour programmer des parties. Voici l
 - [Meet Up](https://www.meetup.com/)
 
 
-[Retour à la page PFS pour Pathfinder 2](./PFS.md)
+[[PFS|Retour à la page PFS pour Pathfinder 2]]

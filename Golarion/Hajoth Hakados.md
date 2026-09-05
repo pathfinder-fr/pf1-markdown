@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-Hajoth Hakados est une cité de [Numérie](./Numérie.md) située à proximité de la frontière avec les [Royaumes Fluviaux](./Royaumes fluviaux.md) sur les rives du [Sellen](./Sellen.md).
+Hajoth Hakados est une cité de [[Numérie]] située à proximité de la frontière avec les [[Royaumes Fluviaux]] sur les rives du [[Sellen]].
 
-Etant donné sa presque totale indépendance du pouvoir central de la [Numérie](./Numérie.md), la région qu'elle contrôle est souvent considérée comme faisant partie des [Royaumes Fluviaux](./Royaumes fluviaux.md).
+Etant donné sa presque totale indépendance du pouvoir central de la [[Numérie]], la région qu'elle contrôle est souvent considérée comme faisant partie des [[Royaumes Fluviaux]].
 
-Elle a bénéficié de la présence du [Sellen](./Sellen.md) et du blocage de l'[Ustalav](./Ustalav.md) pour devenir un point d'étape important pour les croisés se rendant au [Mendev](./Mendev.md).
+Elle a bénéficié de la présence du [[Sellen]] et du blocage de l'[[Ustalav]] pour devenir un point d'étape important pour les croisés se rendant au [[Mendev]].

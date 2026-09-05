@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#BRISEURDESORT
 ---
 
->>> [Pouvoirs de rage#BRISEURDESORT](./Pouvoirs de rage.md#BRISEURDESORT)
+>>> [[Pouvoirs de rage#BRISEURDESORT]]

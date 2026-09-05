@@ -11,32 +11,32 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8, [Psy](./Psychiste.md) 8, [Sor](./Sorcière.md) 8  
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** 1 créature dotée de 150 [pv](./pv.md) ou moins  
+**Cible** 1 créature dotée de 150 [[pv]] ou moins  
 
 **Durée** voir description  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Le personnage prononce un mot qui [étourdit](./Étourdi.md) instantanément une créature de son choix, qu’elle entende le mot ou non. La durée du sort dépend du nombre de [points de vie](./points de vie.md) actuel de la créature affectée. Une créature dotée de plus de 150 [points de vie](./points de vie.md) n’est pas affectée.
+Le personnage prononce un mot qui [[étourdi|étourdit]] instantanément une créature de son choix, qu’elle entende le mot ou non. La durée du sort dépend du nombre de [[points de vie]] actuel de la créature affectée. Une créature dotée de plus de 150 [[points de vie]] n’est pas affectée.
 
 <center>
 {| CLASS="tablo"
 |- CLASS="titre"
 | Points de vie || Durée
 |- CLASS="premier"
-| Jusqu’à 50 || 4d4 [rounds](./round.md)
+| Jusqu’à 50 || 4d4 [[round|rounds]]
 |- CLASS="alt"
-| 51–100 || 2d4 [rounds](./round.md)
+| 51–100 || 2d4 [[round|rounds]]
 |-
-| 101–150 || 1d4 [rounds](./round.md)
+| 101–150 || 1d4 [[round|rounds]]
 |}
 </center>
 
@@ -44,6 +44,6 @@ Le personnage prononce un mot qui [étourdit](./Étourdi.md) instantanément une
 
 ### Mythique
 {s:CMy}
-Considérez que le total actuel de points de vie de la cible est diminué d’un montant égal à 5 fois le [grade](./Grade.md) du personnage. Par exemple, un [archimage](./Archimage Mythique.md) de grade 3 qui lance un mot de pouvoir étourdissant mythique considérera une créature avec 60 pv comme une créature avec 45 pv et le sort durera donc 2d4 rounds de plus. Le personnage peut cibler une créature dotée d’un montant de points de vie supérieur à la limite imposée par le sort. Le cas échéant, la créature devient hébétée pendant 1 round.
+Considérez que le total actuel de points de vie de la cible est diminué d’un montant égal à 5 fois le [[grade]] du personnage. Par exemple, un [[archimage mythique|archimage]] de grade 3 qui lance un mot de pouvoir étourdissant mythique considérera une créature avec 60 pv comme une créature avec 45 pv et le sort durera donc 2d4 rounds de plus. Le personnage peut cibler une créature dotée d’un montant de points de vie supérieur à la limite imposée par le sort. Le cas échéant, la créature devient hébétée pendant 1 round.
 
-**[Amplifié](./Amplifié.md) (6ème).** Si le personnage dépense trois utilisations de [pouvoir mythique](./pouvoir mythique.md), la magie du mot continue d’affaiblir la cible. Si le total actuel des points de vie de la cible baisse avant le début du prochain tour du personnage, assez pour changer de tranche dans le cadre des effets produit par ce sort, celui-ci affecte la créature en fonction de ce nouveau total de points de vie. Par exemple, une créature qui se trouve dans la tranche de 101-150 pv et bascule à 80 pv est immédiatement étourdie pendant 1d4 rounds supplémentaires. L’intensité des effets du sort ne diminue pas si la cible récupère des points de vie.
+**[[Amplifié]] (6ème).** Si le personnage dépense trois utilisations de [[pouvoir mythique]], la magie du mot continue d’affaiblir la cible. Si le total actuel des points de vie de la cible baisse avant le début du prochain tour du personnage, assez pour changer de tranche dans le cadre des effets produit par ce sort, celui-ci affecte la créature en fonction de ce nouveau total de points de vie. Par exemple, une créature qui se trouve dans la tranche de 101-150 pv et bascule à 80 pv est immédiatement étourdie pendant 1d4 rounds supplémentaires. L’intensité des effets du sort ne diminue pas si la cible récupère des points de vie.

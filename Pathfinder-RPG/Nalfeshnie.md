@@ -14,9 +14,9 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.69*}
 {s:BDTexte|**PX** 38.400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille TG, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), *[vision lucide](./Vision lucide.md)* ; [Perception](./Perception.md) +31}
-{s:BDTexte|**Aura** *[aura maudite](./Aura maudite.md)* (DD 23)}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille TG, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), *[[vision lucide]]* ; [[Perception]] +31}
+{s:BDTexte|**Aura** *[[aura maudite]]* (DD 23)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 29, contact 13, pris au dépourvu 28 (Dex +1, naturelle +16, parade +4, taille -2)}
 {s:BDTexte|**pv** 203 (14d10+126)}
@@ -28,23 +28,23 @@ Categories:
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
 {s:BDTexte|**Attaques spéciales** halo maudit}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12<sup>e</sup>)}
-{s:BDSorts|Constant — *[aura maudite](./Aura maudite.md)* (DD 23), *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|À volonté — *[appel de la foudre](./Appel de la foudre.md)* (DD 18), *[débilité](./Débilité.md)* (DD 20), *[dissipation suprême](./Dissipation suprême.md)*, *[lenteur](./Lenteur.md)* (DD 18), *[téléportation suprême](./Téléportation suprême.md)* (lui-même et 25 kg d'objets uniquement)}
-{s:BDSorts|1/jour — *[convocation](./convocation.md)* (niveau 5, 1 nalfeshnie 20%, 1d4 [hezrous](./Hezrou.md) 40%, ou 1d4 [vrocks](./Vrock.md) 50%)}
+{s:BDSorts|Constant — *[[aura maudite]]* (DD 23), *[[vision lucide]]*}
+{s:BDSorts|À volonté — *[[appel de la foudre]]* (DD 18), *[[débilité]]* (DD 20), *[[dissipation suprême]]*, *[[lenteur]]* (DD 18), *[[téléportation suprême]]* (lui-même et 25 kg d'objets uniquement)}
+{s:BDSorts|1/jour — *[[convocation]]* (niveau 5, 1 nalfeshnie 20%, 1d4 [[hezrou|hezrous]] 40%, ou 1d4 [[vrock|vrocks]] 50%)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 32, **Dex** 13, **Con** 29, **Int** 23, **Sag** 22, **Cha** 20}
 {s:BDTexte|**BBA** +14, **BMO** +27, **DMD** 42}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md), [Science de l'initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (morsure), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +23, [Bluff](./Bluff.md) +22, [Connaissances](./Connaissances.md) (mystères) +23, [Connaissances](./Connaissances.md) (plans) +23, [Connaissances](./Connaissances.md) (un autre domaine) +20, [Diplomatie](./Diplomatie.md) +22, [Discrétion](./Discrétion.md) +10, [Intimidation](./Intimidation.md) +19, [Perception](./Perception.md) +31, [Psychologie](./Psychologie.md) +23, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +22, [Vol](./Vol.md) +10 ; **Modificateurs raciaux** [Perception](./Perception.md) +8}
-{s:BDTexte|**Langues** abyssal, céleste, draconique ; [télépathie](./Télépathie.md) 20 cases}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Enchaînement]], [[Science de linitiative|Science de l'initiative]], [[Science de la bousculade]], [[Science du critique]] (morsure), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +23, [[Bluff]] +22, [[Connaissances]] (mystères) +23, [[Connaissances]] (plans) +23, [[Connaissances]] (un autre domaine) +20, [[Diplomatie]] +22, [[Discrétion]] +10, [[Intimidation]] +19, [[Perception]] +31, [[Psychologie]] +23, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +22, [[Vol]] +10 ; **Modificateurs raciaux** [[Perception]] +8}
+{s:BDTexte|**Langues** abyssal, céleste, draconique ; [[télépathie]] 20 cases}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Abysse)}
-{s:BDTexte|**Organisation sociale** solitaire ou groupe de combat (1 nalfeshnie, 1 [hezrou](./Hezrou.md), et 2-5 [vrocks](./Vrock.md))}
+{s:BDTexte|**Organisation sociale** solitaire ou groupe de combat (1 nalfeshnie, 1 [[hezrou]], et 2-5 [[vrock|vrocks]])}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Halo maudit (Sur).** Trois fois par jour, un nalfeshnie peut créer un halo de lumière maudite par un [action libre](./Action libre.md), créant des reflets chatoyants et écœurants tout autour de son corps. Un round plus tard, les lueurs s'étendent dans un rayon de 18 m (12 {s:c}). Toutes les créatures qui ne sont pas des démons et sont situées dans cette zone doivent réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 22 pour ne pas être [hébétées](./Hébété.md) pendant 1d10 rounds par les visions de folie qui les assaillent. Le [DD](./DD.md) dépend du [Charisme](./Charisme.md).}
+{s:BDTexte|**Halo maudit (Sur).** Trois fois par jour, un nalfeshnie peut créer un halo de lumière maudite par un [[action libre]], créant des reflets chatoyants et écœurants tout autour de son corps. Un round plus tard, les lueurs s'étendent dans un rayon de 18 m (12 {s:c}). Toutes les créatures qui ne sont pas des démons et sont situées dans cette zone doivent réussir un jet de [[Volonté]] de [[DD]] 22 pour ne pas être [[hébété|hébétées]] pendant 1d10 rounds par les visions de folie qui les assaillent. Le [[DD]] dépend du [[Charisme]].}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 *Ce gigantesque fiélon corpulent a une horrible tête de sanglier et des bras qui se terminent par des mains boudinées à quatre doigts.*
 
 Rares sont les démons qui comprennent le fonctionnement interne

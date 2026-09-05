@@ -60,19 +60,19 @@ $('#' + abbr).removeClass("Non").addClass("Oui");
 <div style="border: 1px solid #4b3124">
 <table style="width: 100%;">
 <tr>
-<td id="LB" class="Non">[LB](./../Pathfinder-RPG/LB.md)</td>
-<td id="NB" class="Non">[NB](./../Pathfinder-RPG/NB.md)</td>
-<td id="CB" class="Non">[CB](./../Pathfinder-RPG/CB.md)</td>
+<td id="LB" class="Non">[[LB]]</td>
+<td id="NB" class="Non">[[NB]]</td>
+<td id="CB" class="Non">[[CB]]</td>
 <tr>
 <tr>
-<td id="LN" class="Non">[LN](./../Pathfinder-RPG/LN.md)</td>
-<td id="N" class="Non">[N](./../Pathfinder-RPG/N.md)</td>
-<td id="CN" class="Non">[CN](./../Pathfinder-RPG/CN.md)</td>
+<td id="LN" class="Non">[[LN]]</td>
+<td id="N" class="Non">[[N]]</td>
+<td id="CN" class="Non">[[CN]]</td>
 <tr>
 <tr>
-<td id="LM" class="Non">[LM](./../Pathfinder-RPG/LM.md)</td>
-<td id="NM" class="Non">[NM](./../Pathfinder-RPG/NM.md)</td>
-<td id="CM" class="Non">[CM](./../Pathfinder-RPG/CM.md)</td>
+<td id="LM" class="Non">[[LM]]</td>
+<td id="NM" class="Non">[[NM]]</td>
+<td id="CM" class="Non">[[CM]]</td>
 </tr>
 </table>
 </div>
@@ -102,5 +102,5 @@ $('#' + abbr).removeClass("Non").addClass("Oui");
 </tr>
 </table></td></tr>
 <tr style="vertical-align: top"><td style="background-color: #4b3124; padding: 1px"></td></tr>
-<tr><td style="text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0">Voir aussi : [Profil contextuel de la divinité](./Golarion-?1?.md)</td></tr>
+<tr><td style="text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0">Voir aussi : [[Golarion.?1?|Profil contextuel de la divinité]]</td></tr>
 </table></div></div>

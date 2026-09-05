@@ -14,18 +14,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 2, [Bard](./Barde.md) 2, [Inq](./Inquisiteur.md) 2, [Psy](./Psychiste.md) 2, [Rôd](./Rôdeur.md) 2  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une lentille de verre)  
+**Composantes** [[Composantes|V, G, M]] (une lentille de verre)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** 1 créature touchée  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
-La cible gagne un bonus d’altération de +10 aux tests de [Perception](./Perception.md). Ce bonus passe à +20 au [niveau](./niveau.md) 8 et à +30 (le maximum) au [niveau](./niveau.md) 16.
+La cible gagne un bonus d’altération de +10 aux tests de [[Perception]]. Ce bonus passe à +20 au [[niveau]] 8 et à +30 (le maximum) au [[niveau]] 16.

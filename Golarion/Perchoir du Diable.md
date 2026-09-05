@@ -7,6 +7,6 @@ Categories:
 - Géographie
 ---
 
-Cette petite chaîne de montagnes s'étire du nord au sud à l'ouest du [Chéliax](./Chéliax.md). Elle est le prolongement naturel de la chaîne du [Ménador](./Ménador.md).
+Cette petite chaîne de montagnes s'étire du nord au sud à l'ouest du [[Chéliax]]. Elle est le prolongement naturel de la chaîne du [[Ménador]].
 
 Elle doit son nom à l'un de ses sommets les plus éminents.

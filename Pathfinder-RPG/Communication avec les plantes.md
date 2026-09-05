@@ -11,16 +11,16 @@ Categories:
 - Sort rôdeur 2
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 4, [Dru](./Druide.md) 3, [Rôd](./Rôdeur.md) 2  
+**École** [[école divination|Divination]] ; **Niveau** [[barde|Bard]] 4, [[druide|Dru]] 3, [[rôdeur|Rôd]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)
+**Durée** 1 minute/[[niveau]]
 
-Ce sort permet de comprendre les plantes (ce qui inclut les [créatures végétales](./type Plante.md)) et de communiquer avec elles. Le personnage peut les interroger et comprendre leurs réponses. Les plantes ne possédant qu’une connaissance très limitée de leur environnement, elles sont incapables de répondre à ce qui n’a pas trait à leur voisinage direct. Le sort ne rend pas les végétaux plus amicaux qu’ils ne le seraient normalement. Les plantes prudentes et sournoises sont souvent évasives dans leurs réponses, tandis que les plus gourdes ont tendance à dire n’importe quoi. Le personnage peut même obtenir de la [créature végétale](./type Plante.md) qu’elle lui rende service si cette dernière se montre amicale envers lui.
+Ce sort permet de comprendre les plantes (ce qui inclut les [[type plante|créatures végétales]]) et de communiquer avec elles. Le personnage peut les interroger et comprendre leurs réponses. Les plantes ne possédant qu’une connaissance très limitée de leur environnement, elles sont incapables de répondre à ce qui n’a pas trait à leur voisinage direct. Le sort ne rend pas les végétaux plus amicaux qu’ils ne le seraient normalement. Les plantes prudentes et sournoises sont souvent évasives dans leurs réponses, tandis que les plus gourdes ont tendance à dire n’importe quoi. Le personnage peut même obtenir de la [[type plante|créature végétale]] qu’elle lui rende service si cette dernière se montre amicale envers lui.

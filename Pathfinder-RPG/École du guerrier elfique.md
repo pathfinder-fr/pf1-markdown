@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vous maniez les armes traditionnelles elfiques avec grâce.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions** [Entraînement guerrier elfique](./Entraînement guerrier elfique.md), [BBA](./BBA.md) +1, trait racial [armes familières](./Elfe.md#Traits_raciaux_standards_6)
+**Conditions** [[Entraînement guerrier elfique]], [[BBA]] +1, trait racial [[Elfe#Traits_raciaux_standards_6|armes familières]]
 
-**Avantages** Quand il utilise une [épée longue](./épée longue (arme).md), une [rapière](./rapière (arme).md) ou toute autre arme de corps à corps dont le nom contient "elfique" ou "elfe", les tests de [manœuvres offensives](./Manœuvres offensives.md) réalisés avec cette arme lors d'[attaques d'opportunité](./AO.md) ne provoquent pas d'attaques d'opportunité elles-mêmes.
+**Avantages** Quand il utilise une [[épée longue (arme)|épée longue]], une [[rapière (arme)|rapière]] ou toute autre arme de corps à corps dont le nom contient "elfique" ou "elfe", les tests de [[manœuvres offensives]] réalisés avec cette arme lors d'[[AO|attaques d'opportunité]] ne provoquent pas d'attaques d'opportunité elles-mêmes.

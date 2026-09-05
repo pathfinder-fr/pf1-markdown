@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Négation
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Négation](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Négation)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Négation]]

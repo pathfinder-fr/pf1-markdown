@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Élémentaire de la boue#_2
 ---
 
->>> [Élémentaire de la boue#_2](./Élémentaire de la boue.md#_2)
+>>> [[Élémentaire de la boue#_2]]

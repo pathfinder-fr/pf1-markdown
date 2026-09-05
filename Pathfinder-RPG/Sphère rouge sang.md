@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun sphère rouge sang|{s:RSE}}
-**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 8 000 po (normale), 6 000 po (défectueuse), 200 po (ébréchée) ; **Poids** –
+**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 8 000 po (normale), 6 000 po (défectueuse), 200 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** Bonus d'altération de +2 en [Dextérité](./Dextérité.md).
+- ***Normale.*** Bonus d'altération de +2 en [[Dextérité]].
 
 
-- ***Défectueuse.*** Cette pierre accorde un bonus d’altération de +2 à la [Dextérité](./Dextérité.md), et un malus de -1 à la [Constitution](./Constitution.md).
+- ***Défectueuse.*** Cette pierre accorde un bonus d’altération de +2 à la [[Dextérité]], et un malus de -1 à la [[Constitution]].
 
 
-- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 sur une compétence basée sur la [Dextérité](./Dextérité.md).
+- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 sur une compétence basée sur la [[Dextérité]].
 
 (((Pouvoir de résonance)))
-[Science du combat à mains nues](./Science du combat à mains nues.md).
+[[Science du combat à mains nues]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être de niveau 12 ; **Coût** 4 000 po (normale), 3 000 po (défectueuse), 100 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], le créateur doit être de niveau 12 ; **Coût** 4 000 po (normale), 3 000 po (défectueuse), 100 po (ébréchée)
 </div>

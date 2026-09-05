@@ -9,10 +9,10 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Lunettes de médecin|{s:MCA}}
-**Aura** [Divination](./école divination.md) et Invocation]] faibles ; **NLS** 3 ; **Emplacement** [yeux](./Objets merveilleux portés sur les yeux.md) ; **Prix** 4 900 po ; **Poids** —
+**Aura** [[école divination|Divination]] et Invocation]] faibles ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 4 900 po ; **Poids** —
 (((Description)))
 Ces lunettes ordinaires à la monture en airain sont dotées de verres teintés en vert et sont très prisées par les médecins praticiens comme par les aventuriers.
-Quand le personnage les porte, elles lui permettent d’avoir constamment conscience des poisons et des maladies, comme pour les sorts *[détection du poison](./Détection du poison.md)* et *[diagnostic](./Diagnostic.md)*. Une fois par jour, sur commande, le personnage peut également toucher une seule créature afin d’utiliser *[ralentissement du poison](./Ralentissement du poison.md)* sur elle.
+Quand le personnage les porte, elles lui permettent d’avoir constamment conscience des poisons et des maladies, comme pour les sorts *[[détection du poison]]* et *[[diagnostic]]*. Une fois par jour, sur commande, le personnage peut également toucher une seule créature afin d’utiliser *[[ralentissement du poison]]* sur elle.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[détection du poison](./Détection du poison.md)*, *[diagnostic](./Diagnostic.md)*, *[ralentissement du poison](./Ralentissement du poison.md)* ; **Coût** 2 450 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[détection du poison]]*, *[[diagnostic]]*, *[[ralentissement du poison]]* ; **Coût** 2 450 po
 </div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#EQUILIBRISTE
 ---
 
->>> [Talents#EQUILIBRISTE](./Talents.md#EQUILIBRISTE)
+>>> [[Talents#EQUILIBRISTE]]

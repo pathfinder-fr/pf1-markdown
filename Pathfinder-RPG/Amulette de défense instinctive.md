@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Amulette de défense instinctive|{s:MCA}}
-**Aura** [Abjuration](./Abjuration.md) modérée ; **NLS** 9 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 5 000 po ; **Poids** —
+**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 5 000 po ; **Poids** —
 (((Description)))
-Cette lourde amulette en fer froid représente une tête d’ours à la gueule grande ouverte sur un rugissement. Elle améliore le pouvoir d’esquive instinctive du personnage, qui fonctionne alors comme [esquive instinctive supérieure](./Roublard.md#ESQUIVEINSTINCTIVESUPERIEURE). (L’amulette n’apporte aucun avantage aux personnages qui ne possèdent pas [esquive instinctive](./Roublard.md#ESQUIVEINSTINCTIVE).) S’il possède déjà l’[esquive instinctive supérieure](./Roublard.md#ESQUIVEINSTINCTIVESUPERIEURE), traitez-le alors comme s’il avait 4 niveaux de classe de plus quand il s’agit de déterminer le nombre de niveaux de [roublard](./Roublard.md) qu’un attaquant doit avoir pour porter des [attaques sournoises](./attaque sournoise.md) contre lui personnage lorsqu’il le [prend en tenaille](./prise en tenaille.md).
+Cette lourde amulette en fer froid représente une tête d’ours à la gueule grande ouverte sur un rugissement. Elle améliore le pouvoir d’esquive instinctive du personnage, qui fonctionne alors comme [[roublard#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]]. (L’amulette n’apporte aucun avantage aux personnages qui ne possèdent pas [[roublard#ESQUIVEINSTINCTIVE|esquive instinctive]].) S’il possède déjà l’[[roublard#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]], traitez-le alors comme s’il avait 4 niveaux de classe de plus quand il s’agit de déterminer le nombre de niveaux de [[roublard]] qu’un attaquant doit avoir pour porter des [[attaque sournoise|attaques sournoises]] contre lui personnage lorsqu’il le [[prise en tenaille|prend en tenaille]].
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), ‘’[vision lucide](./Vision lucide.md)’’ ; **Coût** 2 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], ‘’[[vision lucide]]’’ ; **Coût** 2 500 po
 </div>

@@ -22,18 +22,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[effet mental, émotion, peur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 1, [Bard](./Barde.md) 1, [Cham](./Chaman.md) 1, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 1, [Spi](./Spirite.md) 1  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|effet mental, émotion, peur]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** 1 créature vivante ayant 5 [DV](./../Ressources/DV.md) ou moins  
+**Cible** 1 créature vivante ayant 5 [[DV]] ou moins  
 
-**Durée** 1d4 [rounds](./round.md) ou 1 [round](./round.md) (voir description)  
+**Durée** 1d4 [[round|rounds]] ou 1 [[round]] (voir description)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-La cible de ce sort est [effrayée](./Effrayé.md). Si elle réussit un jet de [Volonté](./Volonté.md), elle est seulement [secouée](./Secoué.md) pendant 1 [round](./round.md). Les créatures qui possèdent 6 [DV](./../Ressources/DV.md) ou plus sont [immunisées](./immunisé.md) contre ce sort. *Frayeur* contre et dissipe *[regain d’assurance](./Regain dassurance.md)*.
+La cible de ce sort est [[effrayé|effrayée]]. Si elle réussit un jet de [[Volonté]], elle est seulement [[secoué|secouée]] pendant 1 [[round]]. Les créatures qui possèdent 6 [[DV]] ou plus sont [[immunisé|immunisées]] contre ce sort. *Frayeur* contre et dissipe *[[regain dassurance|regain d’assurance]]*.

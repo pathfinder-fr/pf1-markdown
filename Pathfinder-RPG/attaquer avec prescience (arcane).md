@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#ATTAQUERAVECPRESCIENCE
 ---
 
->>> [arcanes#ATTAQUERAVECPRESCIENCE](./arcanes.md#ATTAQUERAVECPRESCIENCE)
+>>> [[arcanes#ATTAQUERAVECPRESCIENCE]]

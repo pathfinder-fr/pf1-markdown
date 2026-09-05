@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des armures#Pointespourbouclier
 ---
 
->>> [Descriptions individuelles des armures#Pointespourbouclier](./Descriptions individuelles des armures.md#Pointespourbouclier)
+>>> [[Descriptions individuelles des armures#Pointespourbouclier]]

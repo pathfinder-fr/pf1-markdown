@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#SUPERSTITION
 ---
 
->>> [pouvoirs de rage#SUPERSTITION](./Pouvoirs de rage.md#SUPERSTITION)
+>>> [[pouvoirs de rage#SUPERSTITION]]

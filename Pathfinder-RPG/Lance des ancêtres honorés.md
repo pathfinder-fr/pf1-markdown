@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Lance des ancêtres honorés|{s:WMH}}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 15 302 po ; **Poids** 3 kg
+**Aura** [[Invocation]] modérée ; **NLS** 9 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 15 302 po ; **Poids** 3 kg
 (((Description)))
-{s:cs}Lorsque le porteur de cette *[lance](./lance (arme).md) [spectrale](./spectrale (propriété).md) +1* scintillante entre en rage, il peut frapper la lance contre un bouclier ou contre le sol par une [action rapide](./Action rapide.md). S'il le fait, des lumières colorées dansent autour de la lance et le porteur peut alors choisir de bénéficier des effets d'une *[assistance divine](./Assistance divine.md)*, de donner la propriété spéciale *[spectrale](./spectrale (propriété).md)* au bouclier touché, ou de donner la propriété spéciale [boomerang](./boomerang (propriété).md)  à la lance. Cet effet dure pendant toute la durée de la rage.
+{s:cs}Lorsque le porteur de cette *[[lance (arme)|lance]] [[spectrale (propriété)|spectrale]] +1* scintillante entre en rage, il peut frapper la lance contre un bouclier ou contre le sol par une [[action rapide]]. S'il le fait, des lumières colorées dansent autour de la lance et le porteur peut alors choisir de bénéficier des effets d'une *[[assistance divine]]*, de donner la propriété spéciale *[[spectrale (propriété)|spectrale]]* au bouclier touché, ou de donner la propriété spéciale [[boomerang (propriété)|boomerang]]  à la lance. Cet effet dure pendant toute la durée de la rage.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[assistance divine](./Assistance divine.md)*, *[lueur féerique](./Lueur féerique.md)*, *[changement de plan](./Changement de plan.md)*; **Coût** 7 802 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[assistance divine]]*, *[[lueur féerique]]*, *[[changement de plan]]*; **Coût** 7 802 po
 </div>

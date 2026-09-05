@@ -8,4 +8,4 @@ Categories:
 RedirectTo: magus#RESERVEMAGIQUE
 ---
 
->>> [magus#RESERVEMAGIQUE](./Magus.md#RESERVEMAGIQUE)
+>>> [[magus#RESERVEMAGIQUE]]

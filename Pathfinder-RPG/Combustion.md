@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Combustion (capacité)
 ---
 
->>> [Combustion (capacité)](./Combustion (capacité).md)
+>>> [[Combustion (capacité)]]

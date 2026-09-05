@@ -10,7 +10,7 @@ LastModified: 2026-06-08 04:25
 {s:pucem|Dragon|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 268*}
 - **153 600 PX**
-- [Dragon](./type Dragon.md) de taille TG, NM
+- [[type dragon|Dragon]] de taille TG, NM
 - **Init **+4 ; Sens vision dans le noir 36 m, perception de la mort ; Perception +26
 - **Aura **de présence effrayante (54 m, DD 25)
 (((Défense)))
@@ -26,14 +26,14 @@ LastModified: 2026-06-08 04:25
 - **Espace **4,50 m ; **Allonge **3 m (4,50 m avec la morsure)
 - **Attaques spéciales** souffle (cône de 18 m, diminution permanente de 1d6 For et putréfaction de momie, Vigueur DD 27 annule, utilisable tous les 1d4 rounds)
 - **Pouvoirs magiques** (**NLS **20 ; concentration +25)
-  - *Constant* – [perception de la mort](./Perception de la mort.md)
-  - *3/jour* – [animation des morts](./Animation des morts.md), [blessure grave](./Blessure grave.md) (DD 18)
-  - *1/jour *– [flétrissure](./Flétrissure.md) (DD 23), [mauvais oeil](./mauvais-oeil.md) (DD 21), [symbole de douleur](./Symbole de douleur.md) (DD 20)
+  - *Constant* – [[perception de la mort]]
+  - *3/jour* – [[animation des morts]], [[blessure grave]] (DD 18)
+  - *1/jour *– [[flétrissure]] (DD 23), [[mauvais oeil]] (DD 21), [[symbole de douleur]] (DD 20)
 (((Statistiques)))
 - **For **33, **Dex **11, **Con **25, **Int **18, **Sag **17, **Cha **20
 - **BBA **+20 ; **BMO **+33 ; **DMD **43 (croc-en-jambe impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Critique fébrile](./Critique fébrile.md), [Don pour les critiques](./Don pour les critiques.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)
-- **Compétences** [Art de la magie](./Art de la magie.md) +27, [Bluff](./Bluff.md) +28, [Connaissances](./Connaissances.md) (mystères) +27, [Connaissances](./Connaissances.md) (religion) +27, [Discrétion](./Discrétion.md) +15, [Intimidation](./Intimidation.md) +28, [Perception](./Perception.md) +26, [Premiers secours](./Premiers secours.md) +26, [Psychologie](./Psychologie.md) +26, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +28, [Vol](./Vol.md) -12
+- **Dons** [[Arme de prédilection]] (griffe), [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaques réflexes]], [[Critique fébrile]], [[Don pour les critiques]], [[Enchaînement]], [[Frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]]
+- **Compétences** [[Art de la magie]] +27, [[Bluff]] +28, [[Connaissances]] (mystères) +27, [[Connaissances]] (religion) +27, [[Discrétion]] +15, [[Intimidation]] +28, [[Perception]] +26, [[Premiers secours]] +26, [[Psychologie]] +26, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +28, [[Vol]] -12
 - **Langues **commun, draconique, commun des profondeurs
 (((Écologie)))
 - **Environnement** terre ferme ou souterrains

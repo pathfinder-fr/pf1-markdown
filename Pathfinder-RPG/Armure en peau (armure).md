@@ -10,6 +10,6 @@ Categories:
 {s:AE}**Prix** 15 po ; **Poids** 12,5 kg
 **Bonus d'armure** +4 ; **Bonus de Dex maximal** +4 ; **Malus d'armure** -3
 **Risque d'échec des sorts profanes** 20% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
-<span class="Catégorie">**Catégorie** [Armures intermédiaires](./Tableau récapitulatif des armures.md#TABINTERMEDIAIRES)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABINTERMEDIAIRES|Armures intermédiaires]]</span>
 ---
 L’armure en peau est faite avec le cuir tanné de bêtes à la peau  particulièrement épaisse, cousu avec de multiples couches superposées de cuir brut ou des pièces extérieures de cuir matelassé ou rembourré de fourrure. Les dégâts faits à l’armure se réparent généralement en recousant les entailles ou en rajoutant de nouvelles pièces de peau, ce qui donne aux armures en peau très utilisées leur apparence particulière de patchwork.

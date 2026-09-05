@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions complexes#ATTAQUEAOUTRANCE
 ---
 
->>> [Actions complexes#ATTAQUEAOUTRANCE](./Actions complexes.md#ATTAQUEAOUTRANCE)
+>>> [[Actions complexes#ATTAQUEAOUTRANCE]]

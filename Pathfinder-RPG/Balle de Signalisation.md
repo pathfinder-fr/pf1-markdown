@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Balle de signalisation|{s:AE}}
-**Aura** [Évocation](./Évocation.md) faible  ; **NLS** 2 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 100 po ; **Poids** —
+**Aura** [[Évocation]] faible  ; **NLS** 2 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 100 po ; **Poids** —
 (((Description)))
-Ces balles +1 n’infligent pas de dégâts mais entourent la cible d’une lueur blafarde, comme un sort de *[lueur féerique](./Lueur féerique.md)* qui inflige un malus de -2 à la [CA](./CA.md) contre les attaques à distance. Cet effet dure 1d4 [round(s)](./round.md).
+Ces balles +1 n’infligent pas de dégâts mais entourent la cible d’une lueur blafarde, comme un sort de *[[lueur féerique]]* qui inflige un malus de -2 à la [[CA]] contre les attaques à distance. Cet effet dure 1d4 [[round|round(s)]].
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[lueur féerique](./Lueur féerique.md)* ; **Coût** 50 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[lueur féerique]]* ; **Coût** 50 po
 </div>

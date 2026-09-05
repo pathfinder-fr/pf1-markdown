@@ -12,8 +12,8 @@ Categories:
 {s:cmy}
 *Le personnage est particulièrement efficace lorsqu’il manipule sa magie spécialisée.*
 
-**Condition.** [École renforcée](./École renforcée.md)
+**Condition.** [[École renforcée]]
 
-**Avantage.** Le personnage sélectionne une école de magie déjà choisie avec le don [École renforcée](./École renforcée.md). Le bonus aux DD des jets de sauvegarde conféré par [École renforcée](./École renforcée.md) et [École supérieure](./École supérieure.md) dans l’école de magie choisie augmente de +1. Le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) lors de l’incantation d’un sort issu de l’école choisie pour obliger les cibles du sort à lancer deux fois leur jet de sauvegarde et à conserver le pire.
+**Avantage.** Le personnage sélectionne une école de magie déjà choisie avec le don [[École renforcée]]. Le bonus aux DD des jets de sauvegarde conféré par [[École renforcée]] et [[École supérieure]] dans l’école de magie choisie augmente de +1. Le personnage peut dépenser une utilisation de [[pouvoir mythique]] lors de l’incantation d’un sort issu de l’école choisie pour obliger les cibles du sort à lancer deux fois leur jet de sauvegarde et à conserver le pire.
 
-**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un don d’[École renforcée](./École renforcée.md) [non-mythique](./non-mythique.md) différent.
+**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un don d’[[École renforcée]] [[non-mythique]] différent.

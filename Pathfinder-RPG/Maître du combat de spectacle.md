@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage est passé maître des techniques et des armes utilisées dans l’arène et sur scène. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [spectacle](./Dons.md#DONSPECTACLE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONSPECTACLE|spectacle]]
 
-**Conditions.** [Combattant de spectacle](./Combattant de spectacle.md) ou au moins trois dons de spectacle, [BBA](./BBA.md) +6
+**Conditions.** [[Combattant de spectacle]] ou au moins trois dons de spectacle, [[BBA]] +6
 
-**Avantage.** Le personnage peut faire un test de combat de spectacle par une [action libre](./Action libre.md). Il sait manier toutes les [armes de spectacle](./Caractéristiques des armes.md#SPECTACLE).
+**Avantage.** Le personnage peut faire un test de combat de spectacle par une [[action libre]]. Il sait manier toutes les [[Caractéristiques des armes#SPECTACLE|armes de spectacle]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage effectue un test de [combat de spectacle](./Combat de spectacle.md), il peut dépenser jusqu’à 5 points d’endurance pour gagner un bonus au test égal au nombre de points dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage effectue un test de [[combat de spectacle]], il peut dépenser jusqu’à 5 points d’endurance pour gagner un bonus au test égal au nombre de points dépensés.

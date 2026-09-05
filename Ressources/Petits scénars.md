@@ -12,20 +12,20 @@ Parfois, il faut bien le dire, on tombe en panne d'idée ou on recherche de quoi
 {| CLASS="tablo autoalt col1centre" width=40%
 |+ Types de scénario
 |-
-| [Dans la nature](./<nowiki>http://www-pathfinder-fr-org/Forum/posts/t13290-Petits-scenars~~-~~dans-la-nature</nowiki>.md)
+| [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t13290-Petits-scenars~~-~~dans-la-nature</nowiki>|Dans la nature]]
 |-
-| [A Korvosa](./<nowiki>http://www-pathfinder-fr-org/Forum/posts/t13263-Petits-scenars-a-Korvosa</nowiki>.md)
+| [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t13263-Petits-scenars-a-Korvosa</nowiki>|A Korvosa]]
 |-
-| [Féériques](./<nowiki>http://www-pathfinder-fr-org/Forum/posts/t13427~~Petits-scenars~~Feeriques</nowiki>.md)
+| [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t13427~~Petits-scenars~~Feeriques</nowiki>|Féériques]]
 |-
-| [De fêtes](./<nowiki>http://www-pathfinder-fr-org/Forum/posts/t13634~~Petits-scenars~~de-fete</nowiki>.md)
+| [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t13634~~Petits-scenars~~de-fete</nowiki>|De fêtes]]
 |-
-| [Dilemmes](./<nowiki>http://www-pathfinder-fr-org/Forum/posts/m579319~~Petits-scenars~~Dilemmes</nowiki>.md)
+| [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/m579319~~Petits-scenars~~Dilemmes</nowiki>|Dilemmes]]
 |-
-| [Epreuves tribales](./<nowiki>http://www-pathfinder-fr-org/Forum/posts/m596297~~Petits-scenars~~Epreuves-tribales</nowiki>.md)
+| [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/m596297~~Petits-scenars~~Epreuves-tribales</nowiki>|Epreuves tribales]]
 |-
-| [Horrifique](./<nowiki>http://www-pathfinder-fr-org/Forum/posts/m599989~~Petits-scenars~~Horrifique</nowiki>.md)
+| [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/m599989~~Petits-scenars~~Horrifique</nowiki>|Horrifique]]
 |-
-| [Dans l'eau](./<nowiki>http://www-pathfinder-fr-org/Forum/posts/t14738~~Petits-scenars~~Dans-l-eau</nowiki>.md)
+| [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t14738~~Petits-scenars~~Dans-l-eau</nowiki>|Dans l'eau]]
 |}
 </center>

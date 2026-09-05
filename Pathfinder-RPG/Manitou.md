@@ -10,7 +10,7 @@ LastModified: 2017-03-18 20:17
 {s:pucem|Extérieur|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 185*}
 - **51 200 PX**
-- [Extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)) de taille TG, NB
+- [[type extérieur|Extérieur]] ([[sous-type natif|natif]]) de taille TG, NB
 - **Init **+10 ; **Sens** vision dans le noir à 18 m, détection du Mal, vision lucide ; Perception +34
 - **Aura **d’énergie positive (3 m)
 (((Défense)))
@@ -24,14 +24,14 @@ LastModified: 2017-03-18 20:17
 - **Espace** 4,50 m ; **Allonge** 4,50 m
 - **Attaques spéciales** déferlante d’esprits
 - **Pouvoirs magiques** (**NLS **19 ; concentration +26)
-  - *Constant *– [communication avec les animaux](./Communication avec les animaux.md), [détection du Mal](./Détection du Mal.md), [invisibilité suprême](./Invisibilité suprême.md), [liberté de mouvement](./Liberté de mouvement.md), [passage sans trace](./passage sans trace.md), [vision lucide](./Vision lucide.md)
-  - *3/jour* – [convocation d’alliés naturels VIII](./Convocation dalliés naturels VIII.md), [guérison suprême](./Guérison suprême.md), [neutralisation du poison](./Neutralisation du poison.md), [restauration](./Restauration.md)
-  - *1/jour* – [tremblement de terre](./Tremblement de terre.md)
+  - *Constant *– [[communication avec les animaux]], [[détection du Mal]], [[invisibilité suprême]], [[liberté de mouvement]], [[passage sans trace]], [[vision lucide]]
+  - *3/jour* – [[convocation dalliés naturels VIII|convocation d’alliés naturels VIII]], [[guérison suprême]], [[neutralisation du poison]], [[restauration]]
+  - *1/jour* – [[tremblement de terre]]
 (((Statistiques)))
 - **For **34, **Dex **23, **Con **24, **Int** 19, **Sag **22, **Cha **25
 - **BBA **+19 ; **BMO **+33 (+35 en bousculade) ; **DMD **53 (55 contre la bousculade)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (coup), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md), [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Talent](./Talent.md) (Discrétion), [Talent](./Talent.md) (Perception)
-- **Compétences **[Art de la magie](./Art de la magie.md) +14, [Connaissances](./Connaissances.md) (folklore local, plans) +17, [Connaissances](./Connaissances.md) (mystères,géographie, histoire,religion) +14, [Connaissances](./Connaissances.md) (nature) +26, [Diplomatie](./Diplomatie.md) +20, [Discrétion](./Discrétion.md) +17, [Escalade](./Escalade.md) +22,  [Intimidation](./Intimidation.md) +10, [Natation](./Natation.md) +22, [Perception](./Perception.md) +34, [Premiers secours](./Premiers secours.md) +16, [Psychologie](./Psychologie.md) +19, [Survie](./Survie.md) +28
+- **Dons **[[Arme de prédilection]] (coup), [[Attaque en puissance]], [[Attaques réflexes]], [[Coup fabuleux]], [[Enchaînement]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Science de la bousculade]], [[Talent]] (Discrétion), [[Talent]] (Perception)
+- **Compétences **[[Art de la magie]] +14, [[Connaissances]] (folklore local, plans) +17, [[Connaissances]] (mystères,géographie, histoire,religion) +14, [[Connaissances]] (nature) +26, [[Diplomatie]] +20, [[Discrétion]] +17, [[Escalade]] +22,  [[Intimidation]] +10, [[Natation]] +22, [[Perception]] +34, [[Premiers secours]] +16, [[Psychologie]] +19, [[Survie]] +28
 - **Langues** céleste, commun, sylvestre ; communication avec les animaux
 - **Particularités** gage de chance
 (((Écologie)))

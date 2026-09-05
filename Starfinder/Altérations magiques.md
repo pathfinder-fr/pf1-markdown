@@ -14,84 +14,84 @@ Vous apprenez votre première altération magique au niveau 2 et vous en apprene
 | Nom
 | Niv
 |- CLASS="premier"
-| [Analyse rapide](./Altérations magiques.md#ANALYSERAPIDE)
+| [[Altérations magiques#ANALYSERAPIDE|Analyse rapide]]
 | 2
-| [Arme surchargée](./Altérations magiques.md#ARMESURCHAGEE)
-| 2
-|-
-| [Ciblage sélectif](./Altérations magiques.md#CIBLAGESELECTIF)
-| 2
-| [Contres-mesures anti-sorts](./Altérations magiques.md#CONTRESMESURESANTISORTS)
+| [[Altérations magiques#ARMESURCHAGEE|Arme surchargée]]
 | 2
 |-
-| [Contre-technologie](./Altérations magiques.md#CONTRETECHNOLOGIE)
+| [[Altérations magiques#CIBLAGESELECTIF|Ciblage sélectif]]
 | 2
-| [Création technologique](./Altérations magiques.md#CREATIONTECHNOLOGIQUE)
-| 2
-|-
-| [Influence robotique](./Altérations magiques.md#INFLUENCEROBOTIQUE)
-| 2
-| [Maîtrise technomancienne](./Altérations magiques.md#MAITRISETECHNOMANCIENNE)
+| [[Altérations magiques#CONTRESMESURESANTISORTS|Contres-mesures anti-sorts]]
 | 2
 |-
-| [Sort alimenté](./Altérations magiques.md#SORTALIMENTE)
+| [[Altérations magiques#CONTRETECHNOLOGIE|Contre-technologie]]
 | 2
-| [Sorts offensifs](./Altérations magiques.md#SORTSOFFENSIFS)
+| [[Altérations magiques#CREATIONTECHNOLOGIQUE|Création technologique]]
 | 2
 |-
-| [Choc de recharge](./Altérations magiques.md#CHOCDERECHARGE)
+| [[Altérations magiques#INFLUENCEROBOTIQUE|Influence robotique]]
+| 2
+| [[Altérations magiques#MAITRISETECHNOMANCIENNE|Maîtrise technomancienne]]
+| 2
+|-
+| [[Altérations magiques#SORTALIMENTE|Sort alimenté]]
+| 2
+| [[Altérations magiques#SORTSOFFENSIFS|Sorts offensifs]]
+| 2
+|-
+| [[Altérations magiques#CHOCDERECHARGE|Choc de recharge]]
 | 5
-| [Débogage de sort](./Altérations magiques.md#DEBOGAGEDESORT)
-| 5
-|-
-| [Fabrication d'armes](./Altérations magiques.md#FABRICATIONDARMES)
-| 5
-| [Grenade enchantée](./Altérations magiques.md#GRENADEENCHANTEE)
+| [[Altérations magiques#DEBOGAGEDESORT|Débogage de sort]]
 | 5
 |-
-| [Négation de la magie](./Altérations magiques.md#NEGATIONDELAMAGIE)
+| [[Altérations magiques#FABRICATIONDARMES|Fabrication d'armes]]
 | 5
-| [Sort distant](./Altérations magiques.md#SORTDISTANT)
+| [[Altérations magiques#GRENADEENCHANTEE|Grenade enchantée]]
 | 5
 |-
-| [Sort prolongé](./Altérations magiques.md#SORTPROLONGE)
+| [[Altérations magiques#NEGATIONDELAMAGIE|Négation de la magie]]
+| 5
+| [[Altérations magiques#SORTDISTANT|Sort distant]]
+| 5
+|-
+| [[Altérations magiques#SORTPROLONGE|Sort prolongé]]
 | 5
 | -
 | -
 |-
-| [Contres-mesures technologiques](./Altérations magiques.md#CONTRESMESURESTECHNOLOGIQUES)
+| [[Altérations magiques#CONTRESMESURESTECHNOLOGIQUES|Contres-mesures technologiques]]
 | 8
-| [Écoute divinatoire](./Altérations magiques.md#ECOUTEDIVATOIRE)
-| 8
-|-
-| [Marque mentale](./Altérations magiques.md#MARQUEMENTALE)
-| 8
-| [Sort élargi](./Altérations magiques.md#SORTELARGI)
+| [[Altérations magiques#ECOUTEDIVATOIRE|Écoute divinatoire]]
 | 8
 |-
-| [Téléportation éclair](./Altérations magiques.md#TELEPORTATIONECLAIR)
+| [[Altérations magiques#MARQUEMENTALE|Marque mentale]]
 | 8
-| [Tir de sortilège](./Altérations magiques.md#TIRDESORTILEGE)
+| [[Altérations magiques#SORTELARGI|Sort élargi]]
 | 8
 |-
-| [Réinitialisation mentale](./Altérations magiques.md#REINITIALISATIONMENTALE)
+| [[Altérations magiques#TELEPORTATIONECLAIR|Téléportation éclair]]
+| 8
+| [[Altérations magiques#TIRDESORTILEGE|Tir de sortilège]]
+| 8
+|-
+| [[Altérations magiques#REINITIALISATIONMENTALE|Réinitialisation mentale]]
 | 11
-| [Sentinelle de contre-technologie](./Altérations magiques.md#SENTINELLEDECONTRETECHNOLOGIE)
-| 11
-|-
-| [Sort éternel](./Altérations magiques.md#SORTETERNEL)
-| 11
-| [Tir autoguidé](./Altérations magiques.md#TIRAUTOGUIDE)
+| [[Altérations magiques#SENTINELLEDECONTRETECHNOLOGIE|Sentinelle de contre-technologie]]
 | 11
 |-
-| [Bibliothèque de sorts](./Altérations magiques.md#BIBLIOTHEQUEDESORTS)
+| [[Altérations magiques#SORTETERNEL|Sort éternel]]
+| 11
+| [[Altérations magiques#TIRAUTOGUIDE|Tir autoguidé]]
+| 11
+|-
+| [[Altérations magiques#BIBLIOTHEQUEDESORTS|Bibliothèque de sorts]]
 | 14
-| [Pluie de feu](./Altérations magiques.md#PLUIEDEFEU)
+| [[Altérations magiques#PLUIEDEFEU|Pluie de feu]]
 | 14
 |-
-| [Sort rapide](./Altérations magiques.md#SORTRAPIDE)
+| [[Altérations magiques#SORTRAPIDE|Sort rapide]]
 | 14
-| [Tir déphasé](./Altérations magiques.md#TIRDEPHASE)
+| [[Altérations magiques#TIRDEPHASE|Tir déphasé]]
 | 14
 |}
 </center>

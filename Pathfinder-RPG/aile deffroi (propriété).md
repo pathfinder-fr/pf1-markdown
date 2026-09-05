@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Aile d'effroi
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Aile d'effroi](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Aile d'effroi)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Aile d'effroi]]

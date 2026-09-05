@@ -13,34 +13,34 @@ Categories:
 <div class="BD">
 {s:BDtitre|Vouivre de l'Annihilatrice|FP 8}
 {s:pucem|Dragon|Collines|Tropical}
-{s:BDtexte|*Source : [Guide des Chaînes p.63](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide des Chaînes p.63]]*}
 {s:BDtexte|**PX** 4 800}
-{s:BDtexte|[Dragon](./type Dragon.md) de taille G, CN}
-{s:BDtexte|**Init** +5 ; **Sens** [odorat](./Odorat (capacité).md), [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +20}
+{s:BDtexte|[[type Dragon|Dragon]] de taille G, CN}
+{s:BDtexte|**Init** +5 ; **Sens** [[Odorat (capacité)|odorat]], [[vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +20}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 20, contact 10, pris au dépourvu 19 (Dex +1, naturelle +10, taille -1)}
 {s:BDtexte|**pv** 103 (9d12+45)}
 {s:BDtexte|**Réf** +7, **Vig** +11, **Vol** +9}
-{s:BDtexte|**Immunités** [traits des dragons](./type Dragon.md), paralysie magique, sommeil ; **Résistances** acide 10, feu 10 ; **RM** 19}
+{s:BDtexte|**Immunités** [[type Dragon|traits des dragons]], paralysie magique, sommeil ; **Résistances** acide 10, feu 10 ; **RM** 19}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 6 m, vol 18 m (médiocre), nage 12 m}
-{s:BDtexte|**Corps à corps** morsure, +13 (2d6+5 plus [étreinte](./Étreinte (capacité).md)) et 2 dards, +13 (1d6+5 plus [poison](./Poison (capacité).md)) et 2 ailes, +8 (1d6+2)}
+{s:BDtexte|**Corps à corps** morsure, +13 (2d6+5 plus [[Étreinte (capacité)|étreinte]]) et 2 dards, +13 (1d6+5 plus [[Poison (capacité)|poison]]) et 2 ailes, +8 (1d6+2)}
 {s:BDtexte|**Espace occupé** 3 m ; **Allonge** 1,50 m}
-{s:BDtexte|**Attaques spéciales** souffle (cône de 9 m, 6d6 feu plus vapeurs, Réflexes DD 19, utilisable tous les 1d4 rounds), [pattes arrières](./Pattes arrière (capacité).md) (2 griffes +16, 1d6+5)}
+{s:BDtexte|**Attaques spéciales** souffle (cône de 9 m, 6d6 feu plus vapeurs, Réflexes DD 19, utilisable tous les 1d4 rounds), [[Pattes arrière (capacité)|pattes arrières]] (2 griffes +16, 1d6+5)}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 21, **Dex** 12, **Con** 20, **Int** 9, **Sag** 12, **Cha** 11}
-{s:BDtexte|**BBA** +9, **BMO** +15 (+19 en [lutte](./lutte.md)), **DMD** 26}
-{s:BDtexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)}
-{s:BDtexte|**Compétences** [Discrétion](./Discrétion.md) +9, [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +20, [Vol](./Vol.md) +7 ; **Modificateurs raciaux** +4 en Perception}
+{s:BDtexte|**BBA** +9, **BMO** +15 (+19 en [[lutte]]), **DMD** 26}
+{s:BDtexte|**Dons** [[Attaque en vol]], [[Attaques réflexes]], [[Science de linitiative|Science de l’initiative]], [[Talent]] (Perception), [[Volonté de fer]]}
+{s:BDtexte|**Compétences** [[Discrétion]] +9, [[Intimidation]] +12, [[Perception]] +20, [[Vol]] +7 ; **Modificateurs raciaux** +4 en Perception}
 {s:BDtexte|**Langues** draconique}
-{s:BDtexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDtexte|**Particularités** [[Retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** collines chaudes ou tempérées}
-{s:BDtexte|**Organisation sociale** solitaire, couple ou meurtre (3-5 et 1-3 [vouivres](./Vouivre.md))}
+{s:BDtexte|**Organisation sociale** solitaire, couple ou meurtre (3-5 et 1-3 [[Vouivre|vouivres]])}
 {s:BDtexte|**Trésor** standard}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Souffle (Sur).** Tous les 1d4 [rounds](./round.md), la vouivre d’Aashaq peut exhaler un cône de feu empoisonné infligeant 6d6 points de dégâts de feu dans un cône de 9 mètres. Les créatures subissant des dégâts sont aussi temporairement [aveuglées](./Aveuglé.md) par les fumerolles pendant 4 rounds, comme avec *[poussière scintillante](./Poussière scintillante.md)*. Un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 19 réduit les dégâts de moitié et annule l’effet de *poussière scintillante*. Le DD du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
-{s:BDtexte|**Poison (Ext).** *Dard* — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 19 ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d4 [Constitution](./Constitution.md) ; *guérison* 2 réussites consécutives}
+{s:BDtexte|**Souffle (Sur).** Tous les 1d4 [[round|rounds]], la vouivre d’Aashaq peut exhaler un cône de feu empoisonné infligeant 6d6 points de dégâts de feu dans un cône de 9 mètres. Les créatures subissant des dégâts sont aussi temporairement [[aveuglé|aveuglées]] par les fumerolles pendant 4 rounds, comme avec *[[poussière scintillante]]*. Un jet de [[Réflexes]] [[DD]] 19 réduit les dégâts de moitié et annule l’effet de *poussière scintillante*. Le DD du jet de sauvegarde est basé sur la [[Constitution]].}
+{s:BDtexte|**Poison (Ext).** *Dard* — blessure ; *JdS* [[Vigueur]] [[DD]] 19 ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d4 [[Constitution]] ; *guérison* 2 réussites consécutives}
 </div>
 </td>
 <td>

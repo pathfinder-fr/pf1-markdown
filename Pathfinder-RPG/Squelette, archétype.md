@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.264}
 "Squelette" est un archétype acquis qui peut être ajouté à toute créature tangible (autre qu'un mort-vivant) possédant un squelette osseux.
-- **FP.** Selon le nombre de [DV](./../Ressources/DV.md) voir la table suivante.
+- **FP.** Selon le nombre de [[DV]] voir la table suivante.
 
 <center>
 {| CLASS="tablo" WIDTH="50%"
@@ -65,7 +65,7 @@ Categories:
 </center>
 
 - **Alignement.** Toujours Neutre Mauvais.
-- **Type.** Le type de la créature devient [mort-vivant](./type Mort-vivant.md). Elle conserve tous ses types à l'exception des sous-types d'alignement (comme "bien") et des sous-types qui indiquent son espèce (comme "géant"). Elle ne gagne pas le sous-type "altéré". Elle conserve toutes les caractéristiques et les capacités spéciales de la créature de base, aux exceptions suivantes près.
+- **Type.** Le type de la créature devient [[type Mort-vivant|mort-vivant]]. Elle conserve tous ses types à l'exception des sous-types d'alignement (comme "bien") et des sous-types qui indiquent son espèce (comme "géant"). Elle ne gagne pas le sous-type "altéré". Elle conserve toutes les caractéristiques et les capacités spéciales de la créature de base, aux exceptions suivantes près.
 - **CA.** Le bonus d'armure naturelle change comme indiqué dans le tableau suivant.
 
 <center>
@@ -95,16 +95,16 @@ Categories:
 |}
 </center>
 
-- **DV.** Le squelette perd tous les [DV](./../Ressources/DV.md) correspondant à des niveaux de classes et ses DV raciaux deviennent des d8. Si la créature de base ne possède aucun DV racial, le squelette, lui, en a 1. Si la créature de base a plus de 20 DV, elle ne peut pas être transformée en squelette par un sort d<nowiki>'</nowiki>*[animation des morts](./Animation des morts.md)*. Le squelette utilise son modificateur de [Charisme](./Charisme.md) (au lieu de celui de [Constitution](./Constitution.md)) pour déterminer ses points de vie supplémentaires.
-- **Jets de sauvegarde.** Les bonus de base des [jets de sauvegarde](./jet de sauvegarde.md) sont : [Réflexes](./Réflexes.md) +1 par 3 DV, [Vigueur](./Vigueur.md) +1 par 3 DV, [Volonté](./Volonté.md) +2, +1 par 2 DV.
-- **Capacités défensives.** Le squelette perd toutes les capacités défensives de la créature de base et gagne une [RD](./RD.md) 5/contondant et une immunité contre le froid. Il acquiert également toutes les immunités et les [traits des morts-vivants](./Traits des morts-vivants.md)
+- **DV.** Le squelette perd tous les [[DV]] correspondant à des niveaux de classes et ses DV raciaux deviennent des d8. Si la créature de base ne possède aucun DV racial, le squelette, lui, en a 1. Si la créature de base a plus de 20 DV, elle ne peut pas être transformée en squelette par un sort d<nowiki>'</nowiki>*[[animation des morts]]*. Le squelette utilise son modificateur de [[Charisme]] (au lieu de celui de [[Constitution]]) pour déterminer ses points de vie supplémentaires.
+- **Jets de sauvegarde.** Les bonus de base des [[jet de sauvegarde|jets de sauvegarde]] sont : [[Réflexes]] +1 par 3 DV, [[Vigueur]] +1 par 3 DV, [[Volonté]] +2, +1 par 2 DV.
+- **Capacités défensives.** Le squelette perd toutes les capacités défensives de la créature de base et gagne une [[RD]] 5/contondant et une immunité contre le froid. Il acquiert également toutes les immunités et les [[traits des morts-vivants]]
 - **Vitesse.** Un squelette ailé ne peut pas utiliser ses ailes pour voler. Si la créature de base volait par magie, le squelette le peut encore. Il conserve tous les autres types de mouvement de la créature de base.
-- **Attaques.** Le squelette conserve toutes les [attaques naturelles](./Attaques naturelles (capacité).md) et toutes les attaques par armes manufacturées, ainsi que toutes les capacités de maniement d'armes de la créature de base, à l'exception des attaques qui ne peuvent fonctionner sans chair. Si la créature possède des mains, le squelette gagne une attaque de griffe par main. Il peut frapper avec chacune de ces attaques de griffe en utilisant son bonus d'attaque entier. Une attaque de griffe inflige des dégâts qui dépendent de la taille du squelette (voir [ici](./Attaques naturelles (capacité).md#TABLEATTAQUENATURELLE)). Si la créature de base pouvait déjà porter des attaques de griffe avec ses mains, les dégâts infligés restent inchangés s'ils sont plus élevés que la valeur standard.
+- **Attaques.** Le squelette conserve toutes les [[attaques naturelles (capacité)|attaques naturelles]] et toutes les attaques par armes manufacturées, ainsi que toutes les capacités de maniement d'armes de la créature de base, à l'exception des attaques qui ne peuvent fonctionner sans chair. Si la créature possède des mains, le squelette gagne une attaque de griffe par main. Il peut frapper avec chacune de ces attaques de griffe en utilisant son bonus d'attaque entier. Une attaque de griffe inflige des dégâts qui dépendent de la taille du squelette (voir [[attaques naturelles (capacité)#TABLEATTAQUENATURELLE|ici]]). Si la créature de base pouvait déjà porter des attaques de griffe avec ses mains, les dégâts infligés restent inchangés s'ils sont plus élevés que la valeur standard.
 - **Attaques spéciales.** Le squelette ne conserve aucune des attaques spéciales de la créature de base.
-- **Caractéristiques.** La [Dextérité](./Dextérité.md) du squelette augmente de +2. Il ne possède ni valeur de [Constitution](./Constitution.md) ni valeur d'[Intelligence](./Intelligence.md) et sa [Sagesse](./Sagesse.md) comme son [Charisme](./Charisme.md) passent à 10.
-- **BBA.** Le [BBA](./BBA.md) du squelette est égal à 3/4 de son nombre de DV.
-- **Compétences.** Le squelette perd tous les [rangs](./rang.md) de compétences que la créature de base possédait et n'en gagne aucun.
-- **Dons.** Le squelette perd tous les dons que la créature de base possédait et gagne [Science de l'initiative](./Science de linitiative.md) comme don supplémentaire.
+- **Caractéristiques.** La [[Dextérité]] du squelette augmente de +2. Il ne possède ni valeur de [[Constitution]] ni valeur d'[[Intelligence]] et sa [[Sagesse]] comme son [[Charisme]] passent à 10.
+- **BBA.** Le [[BBA]] du squelette est égal à 3/4 de son nombre de DV.
+- **Compétences.** Le squelette perd tous les [[rang|rangs]] de compétences que la créature de base possédait et n'en gagne aucun.
+- **Dons.** Le squelette perd tous les dons que la créature de base possédait et gagne [[Science de linitiative|Science de l'initiative]] comme don supplémentaire.
 - **Particularités.** Le squelette perd la plupart des particularités de la créature de base. Il conserve les particularités extraordinaires qui améliorent ses attaques au corps à corps ou à distance.
 - **Environnement** Généralement le même que la créature de base.
 - **Organisation sociale.** Quelconque.
@@ -114,7 +114,7 @@ Categories:
 
 {s:ImageCentre|Bestiaire/Squelette.jpg|95%}
 
-</td><td><div>Voir un exemple : le [squelette humain](./Squelette humain.md).
+</td><td><div>Voir un exemple : le [[squelette humain]].
 
 ### VARIANTES DE SQUELETTES
 Il existe de nombreuses variantes de squelettes, comme ceux dont

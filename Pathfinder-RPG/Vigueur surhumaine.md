@@ -8,7 +8,7 @@ Categories:
 
 *Le personnage est plus résistant aux poisons, aux maladies et autres effets néfastes.*
 
-**Avantage.** Le personnage bénéficie d’un bonus de +2 à tous ses jets de [Vigueur](./Vigueur.md).
+**Avantage.** Le personnage bénéficie d’un bonus de +2 à tous ses jets de [[Vigueur]].
 
 {s:CMy}
 ### Version mythique
@@ -16,4 +16,4 @@ Categories:
 
 **Condition.** Vigueur surhumaine
 
-**Avantage.** Chaque fois que le personnage effectue un jet de [Vigueur](./Vigueur.md) contre un sort, un pouvoir magique ou un pouvoir surnaturel produit par une source [non-mythique](./non-mythique.md), il lance deux fois le dé et conserve le meilleur résultat.
+**Avantage.** Chaque fois que le personnage effectue un jet de [[Vigueur]] contre un sort, un pouvoir magique ou un pouvoir surnaturel produit par une source [[non-mythique]], il lance deux fois le dé et conserve le meilleur résultat.

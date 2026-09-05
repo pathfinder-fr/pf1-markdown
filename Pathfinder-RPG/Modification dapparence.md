@@ -18,29 +18,29 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Alch](./Alchimiste.md) 2, [Bard](./Barde.md) 2, [Cham](./Chaman.md) 2, [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Méd](./Médium.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (Un morceau de la créature dont le mage veut prendre l’apparence)
-**Portée** [personnelle](./personnelle.md)
+**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (Un morceau de la créature dont le mage veut prendre l’apparence)
+**Portée** [[personnelle]]
 **Cible** le jeteur de sorts
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 ---
-Quand le mage lance ce sort, il peut prendre la forme de n’importe quelle créature [humanoïde](./type Humanoïde.md) de [taille P](./taille P.md) ou [M](./taille M.md). Si cette créature possède l’une des aptitudes suivantes : [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) et [nage](./nage.md) 9 m (6 {s:c}), le personnage en dispose aussi.
+Quand le mage lance ce sort, il peut prendre la forme de n’importe quelle créature [[type humanoïde|humanoïde]] de [[taille P]] ou [[taille M|M]]. Si cette créature possède l’une des aptitudes suivantes : [[vision dans le noir]] à 18 m (12 {s:c}), [[vision nocturne]], [[odorat]] et [[nage]] 9 m (6 {s:c}), le personnage en dispose aussi.
 
-Créature P : Sous cette forme, le personnage gagne un bonus de taille de +2 à la [Dextérité](./Dextérité.md).
+Créature P : Sous cette forme, le personnage gagne un bonus de taille de +2 à la [[Dextérité]].
 
-Créature M : Sous cette forme, le personnage gagne un bonus de taille de +2 à la [Force](./Force.md).
+Créature M : Sous cette forme, le personnage gagne un bonus de taille de +2 à la [[Force]].
 
 
 
 ((({s:sortssimilaires|modification d'apparence}
-## [Métamorphe ajustable](./Métamorphe ajustable.md)
-{s:MCA}**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Alch](./Alchimiste.md) 4, [Bard](./Barde.md) 4, [Cham](./Chaman.md) 4, [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Magus](./Magus.md) 4, [Méd](./Médium.md) 4, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (un petit bout de chair de doppleganger)
+## [[Métamorphe ajustable]]
+{s:MCA}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Barde|Bard]] 4, [[Chaman|Cham]] 4, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Médium|Méd]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (un petit bout de chair de doppleganger)
 **Portée** personnelle
 **Cible** le lanceur de sorts
 **Durée** 1 minute/niveau (T)
 ---
-Ce sort fonctionne comme *[modification d’apparence](./Modification dapparence.md)*, à la seule différence que le personnage peut changer de déguisement par une [action rapide](./Action rapide.md) (dans les limites de ce qu’autorise *modification d’apparence*). Par exemple, le personnage pourrait se transformer en halfelin, puis en homme-lézard, puis en elfe, etc. Il peut changer de forme un nombre de fois égal à son [niveau de lanceur de sorts](./NLS.md).
+Ce sort fonctionne comme *[[modification dapparence|modification d’apparence]]*, à la seule différence que le personnage peut changer de déguisement par une [[action rapide]] (dans les limites de ce qu’autorise *modification d’apparence*). Par exemple, le personnage pourrait se transformer en halfelin, puis en homme-lézard, puis en elfe, etc. Il peut changer de forme un nombre de fois égal à son [[NLS|niveau de lanceur de sorts]].
 )))

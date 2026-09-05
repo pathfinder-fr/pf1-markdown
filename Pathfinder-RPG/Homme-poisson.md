@@ -14,9 +14,9 @@ Categories:
 {s:pucem|humanoïde|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.183}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|Homme-poisson [homme d'arme](./Homme darme.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([aquatique](./sous-type aquatique.md)) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3}
+{s:BDTexte|Homme-poisson [[homme darme|homme d'arme]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type aquatique|aquatique]]) de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 11, pris au dépourvu 12 (Dex +1, naturelle +2)}
 {s:BDTexte|**pv** 7 (1d10+2)}
@@ -28,13 +28,13 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 13, **Con** 14, **Int** 10, **Sag** 9, **Cha** 10}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 13 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +13, [Perception](./Perception.md) +3}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Natation]] +13, [[Perception]] +3}
 {s:BDTexte|**Langues** aquatique, commun}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md)}
+{s:BDTexte|**Particularités** [[amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans tempérés}
-{s:BDTexte|**Organisation sociale** solitaire, compagnie (2-4), patrouille (3-10 et 2 lieutenants de niveau 3 et 1 leader de niveau 3-6) ou banc (11-60 et 1 sergent de niveau 3 par 20 adultes, 5 lieutenants de niveau 5, 3 capitaines de niveau 7 et 8-12 [dauphins](./Dauphin.md))}
+{s:BDTexte|**Organisation sociale** solitaire, compagnie (2-4), patrouille (3-10 et 2 lieutenants de niveau 3 et 1 leader de niveau 3-6) ou banc (11-60 et 1 sergent de niveau 3 par 20 adultes, 5 lieutenants de niveau 5, 3 capitaines de niveau 7 et 8-12 [[dauphin|dauphins]])}
 {s:BDTexte|**Trésor** équipement de PNJ (arbalète lourde avec 10 carreaux, trident, autres trésors)}
 </div>
 </td><td><div>*Cette magnifique femme qui apparaît et disparaît entre les vagues ressemble à un long poisson élancé en-dessous de la taille.*
@@ -88,14 +88,14 @@ sinistre et inconnue qui vit dans les fonds marins.
 Les hommes-poissons ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classe. Leurs traits raciaux sont les suivants :
 - **+2 Dextérité, +2 Constitution, +2 Charisme.** Les hommes-poissons sont gracieux, beaux et dotés d'une constitution solide.  
 
-- **Aquatique.** Les hommes-poissons sont des créatures aquatiques et peuvent respirer sous l'eau. Leur vitesse de déplacement sur le sol est de 1,50 m (1 {s:c}) mais leur vitesse de nage est de 15 m (10 {s:c}). Ils sont [amphibies](./Amphibie.md) mais préfèrent ne pas rester trop longtemps hors de l'eau.  
+- **Aquatique.** Les hommes-poissons sont des créatures aquatiques et peuvent respirer sous l'eau. Leur vitesse de déplacement sur le sol est de 1,50 m (1 {s:c}) mais leur vitesse de nage est de 15 m (10 {s:c}). Ils sont [[amphibie|amphibies]] mais préfèrent ne pas rester trop longtemps hors de l'eau.  
 
 - **Armure naturelle +2.** Les hommes-poissons ont une peau dure.  
 
-- **Vision nocturne.** Les hommes-poissons possèdent la capacité de [vision nocturne](./vision nocturne.md).  
+- **Vision nocturne.** Les hommes-poissons possèdent la capacité de [[vision nocturne]].  
 
-- **Langues.** Les hommes-poissons parlent automatiquement l'aquatique et le commun. S'ils disposent d'une [Intelligence](./Intelligence.md) élevée, ils peuvent choisir des [langues supplémentaires](./Linguistique.md) parmi les suivantes : aboleth, aklo, draconique, elfe, sahuagin et sylvestre.
+- **Langues.** Les hommes-poissons parlent automatiquement l'aquatique et le commun. S'ils disposent d'une [[Intelligence]] élevée, ils peuvent choisir des [[Linguistique|langues supplémentaires]] parmi les suivantes : aboleth, aklo, draconique, elfe, sahuagin et sylvestre.
 
-{s:VoirAussiAvant}La page de la race [Homme-poisson](./homme-poisson (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[homme-poisson (race)|Homme-poisson]]{s:VoirAussiAprès}
 </div></td></tr></table>
 </div>

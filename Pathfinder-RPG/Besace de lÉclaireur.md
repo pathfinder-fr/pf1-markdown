@@ -10,11 +10,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Besace de l'Éclaireur|{s:RSE}}
-**Aura** aucune ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 1.000 po ; **Poids** 0.5 kg
+**Aura** aucune ; **NLS** 9 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 1.000 po ; **Poids** 0.5 kg
 (((Description)))
-Cette besace informe portée à la ceinture est très appréciée des Éclaireurs qui ont besoin de passer des objets de contrebande à l’insu de gardes ou d’agents gouvernementaux. *[détection de la magie](./Détection de la magie.md)* ne détecte pas qu’elle est magique (comme le sort *[aura magique](./Aura magique.md)*), mais la besace agit comme un *[sac sans fond](./Sac sans fond.md)* de taille TP (son contenu est limité à 5 kilos, et le volume interne est limité à 50 cm3.
+Cette besace informe portée à la ceinture est très appréciée des Éclaireurs qui ont besoin de passer des objets de contrebande à l’insu de gardes ou d’agents gouvernementaux. *[[détection de la magie]]* ne détecte pas qu’elle est magique (comme le sort *[[aura magique]]*), mais la besace agit comme un *[[sac sans fond]]* de taille TP (son contenu est limité à 5 kilos, et le volume interne est limité à 50 cm3.
 
 Sur un mot de commande, le porteur peut fermer ou ouvrir l’espace extra-dimensionnel contenu dans la besace ; quand il est fermé, la besace ne contient pas davantage qu’une bourse de ceinture ordinaire de la taille d’un poing humain, bien que les objets stockés dans l’espace extra-dimensionnel y demeurent, hors d’atteinte jusqu’à ce que la besace soit de nouveau descellée. Ceci permet à l’utilisateur de vider ses poches ou même de retourner la besace pour prouver qu’il ne transporte aucun objet de contrebande, et d’accéder aux biens cachés plus tard, en lieu sûr. Du fait de leurs auras non magiques, ces besaces renferment parfois des trésors secrets des générations durant sans que leurs propriétaires n’en réalisent la nature.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[aura magique](./Aura magique.md)*, *[coffre secret](./Coffre secret.md)* ; **Coût** 1.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[aura magique]]*, *[[coffre secret]]* ; **Coût** 1.000 po
 </div>

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire p.130*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Animal](./type Animal.md) de taille TG, N}
-{s:BDTexte|**Init** +0 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +21}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +21}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 8, pris au dépourvu 17 (naturelle +9, taille -2)}
 {s:BDTexte|**pv** 93 (11d8+44)}
@@ -24,12 +24,12 @@ Categories:
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** défenses, +16 (2d8+10), coup, +16 (2d6+10)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [piétinement](./Piétinement (capacité).md) (2d8+15; DD 25)}
+{s:BDTexte|**Attaques spéciales** [[Piétinement (capacité)|piétinement]] (2d8+15; DD 25)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 30, **Dex** 10, **Con** 19, **Int** 2, **Sag** 13, **Cha** 7}
 {s:BDTexte|**BBA** +8, **BMO** +20, **DMD** 30 (34 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Endurance](./Endurance.md), [Science de la bousculade](./Science de la bousculade.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +21}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Endurance]], [[Science de la bousculade]], [[Talent]] ([[Perception]]), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Perception]] +21}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire ou troupeau (6-30)}
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Éléphant](./Éléphant.md) || 7
+| [[Éléphant]] || 7
 |-
-| [Mastodonte](./Mastodonte.md) || 9
+| [[Mastodonte]] || 9
 |}
 </div>*Cet animal à la peau très épaisse arbore deux larges défenses d’ivoire de part et d’autre de sa longue trompe préhensile.*
 
@@ -61,8 +61,8 @@ riches.
 
 #### L'éléphant comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** défenses (1d8), coup (1d6) ; **Caractéristiques** For 14, Dex 14, Con 13, Int 2, Sag 13, Cha 7 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** défenses (1d8), coup (1d6) ; **Caractéristiques** For 14, Dex 14, Con 13, Int 2, Sag 13, Cha 7 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** défenses (2d6), coup
-(1d8) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** [Piétinement](./Piétinement.md) (2d6).
+(1d8) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** [[Piétinement]] (2d6).
 </div></td></tr></table>

@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 0,5 kg ; **Groupes** [armes de jet](./groupe darmes.md#Armesdejet), [lames légères](./groupe darmes.md#Lameslégères)
+{s:AE}**Prix** 2 po ; **Poids** 0,5 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]], [[Groupe darmes#Lameslégères|lames légères]]
 **Dégâts** 1d3 (P), 1d4 (M) ; **Critique** 19-20/×2 ; **Portée** 3 m (2 c) ; **Type** P ou T ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
-La dague est un couteau de combat. Sa lame fait généralement moins de 30 centimètres de long et peut être incurvée ou droite, avec un tranchant ou deux. La forme de la dague varie grandement et elle peut avoir différents noms (comme la dague d’estoc que l’on appelle parfois « poignard »). Le personnage reçoit un bonus de +2 à ses tests d’[Escamotage](./Escamotage.md) pour dissimuler une dague sur lui.
+La dague est un couteau de combat. Sa lame fait généralement moins de 30 centimètres de long et peut être incurvée ou droite, avec un tranchant ou deux. La forme de la dague varie grandement et elle peut avoir différents noms (comme la dague d’estoc que l’on appelle parfois « poignard »). Le personnage reçoit un bonus de +2 à ses tests d’[[Escamotage]] pour dissimuler une dague sur lui.

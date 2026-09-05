@@ -11,12 +11,12 @@ Categories:
 
 {s:apg}*Les réflexes rapides du personnage lui permettent de tenter sa chance une seconde fois en cas d’attaque ratée.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Int](./Intelligence.md) 13, [Expertise du combat](./Expertise du combat.md), [BBA](./BBA.md) +6.
+**Conditions.** [[Intelligence|Int]] 13, [[Expertise du combat]], [[BBA]] +6.
 
-**Avantage.** Lorsque le personnage effectue une [attaque à outrance](./attaque à outrance.md), si sa première attaque échoue, il peut sacrifier toutes les autres attaques qu’il aurait pu effectuer au cours de son tour pour relancer le jet de l’attaque ratée (en utilisant son BBA maximum).
+**Avantage.** Lorsque le personnage effectue une [[attaque à outrance]], si sa première attaque échoue, il peut sacrifier toutes les autres attaques qu’il aurait pu effectuer au cours de son tour pour relancer le jet de l’attaque ratée (en utilisant son BBA maximum).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut choisir ce don même s’il ne remplit pas les conditions requises au niveau des caractéristiques ([Intelligence](./Intelligence.md) 13). Il bénéficie du don tant qu’il lui reste au moins 1 point dans sa réserve d’endurance. Une fois qu’il a utilisé Seconde chance, il peut dépenser 5 points d’endurance pour effectuer une attaque avec son deuxième [bonus de base à l’attaque](./BBA.md) le plus élevé alors qu’il a relancé le dé pour sa première attaque.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut choisir ce don même s’il ne remplit pas les conditions requises au niveau des caractéristiques ([[Intelligence]] 13). Il bénéficie du don tant qu’il lui reste au moins 1 point dans sa réserve d’endurance. Une fois qu’il a utilisé Seconde chance, il peut dépenser 5 points d’endurance pour effectuer une attaque avec son deuxième [[BBA|bonus de base à l’attaque]] le plus élevé alors qu’il a relancé le dé pour sa première attaque.

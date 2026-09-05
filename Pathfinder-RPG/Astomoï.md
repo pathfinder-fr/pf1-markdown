@@ -13,9 +13,9 @@ Categories:
 {s:pucem|Humanoïde|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.38*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|Astomoï [psychiste](./Psychiste.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) (astomoi) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./Odorat (capacité).md), sens télépathiques, [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +7}
+{s:BDTexte|Astomoï [[psychiste]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (astomoi) de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Odorat (capacité)|odorat]], sens télépathiques, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 13 (Dex +1, Sag +3)}
 {s:BDTexte|**pv** 7 (1d6+1)}
@@ -26,16 +26,16 @@ Categories:
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** dague, -1 (1d4-1/19-20)}
 {s:BDTexte|**Attaques spéciales** amplification phrénique (armure invoquée), impulsion physique (+3, 3/jour), réserve phrénique (3 points)}
-{s:BDTexte|**Sorts de psychiste préparés** ([NLS](./NLS.md) 1 ; [concentration](./concentration.md) +4)}
-{s:BDSorts|1er (4/jour) — convocation de monstre I, coup mental (DD 14), *[repli expéditif](./Repli expéditif.md)*}
-{s:BDSorts|0 (à volonté) — *[hébétement](./Hébétement.md)* (DD 13), *[illumination](./Illumination.md)* (DD 13), *[paroles de la tombe](./Paroles de la tombe.md)*, *[projectile télékinétique](./Projectile télékinétique.md)*}
+{s:BDTexte|**Sorts de psychiste préparés** ([[NLS]] 1 ; [[concentration]] +4)}
+{s:BDSorts|1er (4/jour) — convocation de monstre I, coup mental (DD 14), *[[repli expéditif]]*}
+{s:BDSorts|0 (à volonté) — *[[hébétement]]* (DD 13), *[[illumination]]* (DD 13), *[[paroles de la tombe]]*, *[[projectile télékinétique]]*}
 Discipline psychique perfection personnelle
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 13, **Con** 10, **Int** 17, **Sag** 16, **Cha** 10}
 {s:BDTexte|**BBA** +0 ; **BMO** -1 ; **DMD** 13}
-{s:BDTexte|**Dons** [Magie de guerre](./Magie de guerre.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +7, [Connaissances](./Connaissances.md) (mystères)+7, [Connaissances](./Connaissances.md) (plans) +7, [Diplomatie](./Diplomatie.md) +4, [Perception](./Perception.md) +7}
-{s:BDTexte|**Langues** céleste, commun, sylvestre (ne peut pas parler à voix haute) ; [télépathie](./Télépathie (capacité).md) 30 m}
+{s:BDTexte|**Dons** [[Magie de guerre]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +7, [[Connaissances]] (mystères)+7, [[Connaissances]] (plans) +7, [[Diplomatie]] +4, [[Perception]] +7}
+{s:BDTexte|**Langues** céleste, commun, sylvestre (ne peut pas parler à voix haute) ; [[Télépathie (capacité)|télépathie]] 30 m}
 {s:BDTexte|**Particularités** pas de bouche}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
@@ -43,7 +43,7 @@ Discipline psychique perfection personnelle
 {s:BDTexte|**Trésor** équipement de PNJ (dague, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Pas de bouche (Ext).** Les astomoï n’ont besoin ni de manger ni de boire pour survivre. À la place, ils absorbent l’essence de la nourriture et des boissons, ce qui consume les nutriments des repas comme s’ils les mangeaient, les rendant inutiles pour autrui. Les astomoï consomment les potions et autres matières habituellement ingérées de la même façon. Puisqu’ils n’ingèrent jamais rien, ils ne peuvent normalement pas être exposés aux poisons ingérés.}
-{s:BDTexte|**Respiration sensible (Ext).** Les astomoï subissent un malus de -2 aux [jets de sauvegarde](./JDS.md) contre les poisons inhalés et les maladies.}
+{s:BDTexte|**Respiration sensible (Ext).** Les astomoï subissent un malus de -2 aux [[jds|jets de sauvegarde]] contre les poisons inhalés et les maladies.}
 {s:BDTexte|**Sens télépathiques (Ext).** Les astomoï ne peuvent ni parler ni voir, mais ils perçoivent mentalement leur environnement jusqu’à une distance de 18 mètres, comme avec la vision dans le noir, et peuvent s’exprimer par télépathie. Un astomoï ne voit rien au-delà de 18 mètres. Un astomoï doit fournir les composantes intellectuelles des sorts qui nécessitent normalement des composantes verbales. Avec sa télépathie, il peut utiliser des pouvoirs qui dépendent du langage, mais pas les pouvoirs qui dépendent de composantes sonores.}
 </div></td>
 <td><div>*Cet humanoïde semble composé de ténèbres et n’a ni oreilles, ni yeux, ni bouche visibles.*
@@ -55,6 +55,6 @@ Les astomoï se définissent par leurs niveaux de classe — ils ne possèdent p
 - **-2 en Constitution, +2 en Intelligence, +2 en Sagesse.** Les astomoï recherchent l’éveil spirituel par l’abnégation et sont en harmonie sur le plan psychique avec leur environnement, mais leur corps fragile est plus sensible aux dangers physiques.
 - **Taille moyenne.** Les astomoï sont des créatures de taille Moyenne et ne subissent donc aucun bonus ou malus dû à la taille.
 - **Vitesse normale.** Les astomoï ont une vitesse de base au sol de 9 mètres.
-- **Odorat.** Les astomoï possèdent le pouvoir spécial d’[odorat](./Odorat (capacité).md).
+- **Odorat.** Les astomoï possèdent le pouvoir spécial d’[[Odorat (capacité)|odorat]].
 - **Sens télépathiques.** Voir ci-dessus.
 </div></td></tr></table>

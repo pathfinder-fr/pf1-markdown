@@ -11,6 +11,6 @@ Categories:
 
 {s:apg}*Le personnage peut continuer à combattre même lorsqu’il devrait normalement être mort.*
 
-**Conditions. **[Con](./Constitution.md) 13 ; [demi-orque](./Demi-orque.md), [nain](./Nain.md) ou [orque](./Orque.md).
+**Conditions. **[[Constitution|Con]] 13 ; [[demi-orque]], [[nain]] ou [[orque]].
 
-**Avantage.** Une fois par jour, le personnage peut gagner un nombre de [points de vie](./pv.md) temporaires égal à son modificateur de [Constitution](./Constitution.md). Il peut activer ce don par une [action immédiate](./Action immédiate.md) lorsqu’il est réduit à 0 point de vie ou moins, ce qui peut lui permettre d’éviter de mourir. Ces points de vie temporaires persistent pendant 1 minute. Si les points de vie du personnage descendent sous 0 lorsque ces points de vie temporaires disparaissent, il tombe inconscient et devient mourant (conformément aux règles normales). S’il possède également le trait racial [Férocité](./Férocité.md), il peut l’utiliser après la disparition des points de vie temporaires offerts par ce don.
+**Avantage.** Une fois par jour, le personnage peut gagner un nombre de [[pv|points de vie]] temporaires égal à son modificateur de [[Constitution]]. Il peut activer ce don par une [[action immédiate]] lorsqu’il est réduit à 0 point de vie ou moins, ce qui peut lui permettre d’éviter de mourir. Ces points de vie temporaires persistent pendant 1 minute. Si les points de vie du personnage descendent sous 0 lorsque ces points de vie temporaires disparaissent, il tombe inconscient et devient mourant (conformément aux règles normales). S’il possède également le trait racial [[Férocité]], il peut l’utiliser après la disparition des points de vie temporaires offerts par ce don.

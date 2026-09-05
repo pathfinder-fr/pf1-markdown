@@ -10,7 +10,7 @@ LastModified: 2016-12-15 09:43
 {s:pucem|Aberration|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 95*}
 - 1 600 PX
-- [Aberration](./type Aberration.md) de taille M, NM
+- [[type aberration|Aberration]] de taille M, NM
 - **Init **+1 ; **Sens **vision dans le noir à 18 m ; Perception +9
 - **Aura **terreur (9 m, DD 15)
 (((Défense)))
@@ -23,8 +23,8 @@ LastModified: 2016-12-15 09:43
 (((Statistiques)))
 - **For **20, **Dex **13, **Con **15, **Int **6, **Sag **12, **Cha **15
 - **BBA **+5 ; **BMO **+10 ; **DMD** 24 (28 contre le croc-en-jambe)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Volonté de fer](./Volonté de fer.md), [Voltigeur](./Voltigeur.md)
-- **Compétences **[Acrobaties](./Acrobaties.md) +13, [Discrétion](./Discrétion.md) +6, [Perception](./Perception.md) +9
+- **Dons **[[Attaque en puissance]], [[Enchaînement]], [[Volonté de fer]], [[Voltigeur]]
+- **Compétences **[[Acrobaties]] +13, [[Discrétion]] +6, [[Perception]] +9
 - **Langues **commun
 - **Particularités **équilibre exceptionnel
 (((Écologie)))
@@ -32,8 +32,8 @@ LastModified: 2016-12-15 09:43
 - **Organisation **solitaire
 - **Trésor **standard (hache d’armes, autre trésor)
 (((Pouvoirs spéciaux)))
-- **Équilibre exceptionnel (Ext).** Malgré sa curieuse anatomie, le fachan est très doué pour rester debout et hors de danger. Il gagne un bonus d’esquive de +3 à la CA et un bonus racial de +4 au [DMD](./DMD.md) contre les manœuvres offensives de croc-en-jambe.
-- **Terreur (Sur).** Chaque créature ayant la fachan en vue et se trouvant à  9 mètres ou moins de lui doit réussir un test de [Volonté](./Volonté.md) [DD](./DD.md) 15 pour ne pas être paralysée par la peur pendant 1d4 rounds. Une créature qui réussit son jet ne peut plus être sujette à l’aura de terreur de ce fachan pendant 24 heures. Il s’agit d’un effet de paralysie et d’un effet mental de  terreur. Le DD du jet de sauvegarde est basé sur le Charisme.
+- **Équilibre exceptionnel (Ext).** Malgré sa curieuse anatomie, le fachan est très doué pour rester debout et hors de danger. Il gagne un bonus d’esquive de +3 à la CA et un bonus racial de +4 au [[DMD]] contre les manœuvres offensives de croc-en-jambe.
+- **Terreur (Sur).** Chaque créature ayant la fachan en vue et se trouvant à  9 mètres ou moins de lui doit réussir un test de [[Volonté]] [[DD]] 15 pour ne pas être paralysée par la peur pendant 1d4 rounds. Une créature qui réussit son jet ne peut plus être sujette à l’aura de terreur de ce fachan pendant 24 heures. Il s’agit d’un effet de paralysie et d’un effet mental de  terreur. Le DD du jet de sauvegarde est basé sur le Charisme.
 
 
 

@@ -8,9 +8,9 @@ Categories:
 - Ville
 ---
 
-Jaha est une cité située dans le nord de la grande jungle du [Mwangi](./Mwangi.md).
+Jaha est une cité située dans le nord de la grande jungle du [[Mwangi]].
 
-On raconte qu'elle aurait été fondée avant la chute de la pierre-étoile sur [Golarion](./Golarion.md) par une race depuis disparue et dont les tombes serviraient de soubassement à la ville actuelle.
+On raconte qu'elle aurait été fondée avant la chute de la pierre-étoile sur [[Golarion]] par une race depuis disparue et dont les tombes serviraient de soubassement à la ville actuelle.
 
 Elle est dirigée par les survivants des astrologues du Lirgen qui se sont réfugiés ici après la destruction de leur nation par l'apparition de l'Œil d'Abendégo. Les hommes lézards, anciens occupants des lieux, tentent encore de nos jours de récupérer le pouvoir, mais sont régulièrement massacrés par les descendants du Lirgen.
 

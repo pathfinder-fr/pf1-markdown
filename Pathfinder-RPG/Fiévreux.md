@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Fiévreux
 ---
 
->>> [États préjudiciables#Fiévreux](./États préjudiciables.md#Fiévreux)
+>>> [[États préjudiciables#Fiévreux]]

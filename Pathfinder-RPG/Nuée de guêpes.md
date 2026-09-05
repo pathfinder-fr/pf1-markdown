@@ -14,30 +14,30 @@ Categories:
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.179*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Vermine](./type Vermine.md) ([nuée](./sous-type nuée.md)) de taille Min, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type nuée|nuée]]) de taille Min, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 14 (Dex +1, taille +4)}
 {s:BDTexte|**pv** 31 (7d8)}
 {s:BDTexte|**Réf** +3, **Vig** +5, **Vol** +3}
-{s:BDTexte|**Capacités défensives** [traits des nuées](./traits des nuées.md) ; **Immunités** dégâts par armes }
-{s:BDTexte|**Faiblesses** [traits des nuées](./traits des nuées.md)}
+{s:BDTexte|**Capacités défensives** [[traits des nuées]] ; **Immunités** dégâts par armes }
+{s:BDTexte|**Faiblesses** [[traits des nuées]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 1,50 m (1 {s:c}), vol 12 m (8 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** nuée (2d6 et poison)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 0 m (0 {s:c})}
-{s:BDTexte|**Attaques spéciales** [distraction](./Distraction.md) (DD 13), poison}
+{s:BDTexte|**Attaques spéciales** [[distraction]] (DD 13), poison}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 13, **Con** 10, **Int** -, **Sag** 12, **Cha** 9}
 {s:BDTexte|**BBA** +5, **BMO** -, **DMD** -}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +9, [Vol](./Vol.md) +11 ; **Modificateurs raciaux** [Perception](./Perception.md) +8}
-{s:BDTexte|**Particularités** [traits des nuées](./traits des nuées.md), [traits des vermines](./traits des vermines.md)}
+{s:BDTexte|**Compétences** [[Perception]] +9, [[Vol]] +11 ; **Modificateurs raciaux** [[Perception]] +8}
+{s:BDTexte|**Particularités** [[traits des nuées]], [[traits des vermines]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple, essaim (3-6 nuées), colonie (7-12 nuées)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Poison (Ext).** Nuée - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ; *fréquence* 1/round pendant 4 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1 [Dex](./Dextérité.md) ; *guérison* 1 réussite. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Poison (Ext).** Nuée - blessure ; *JS* [[Vigueur]] [[DD]] 13 ; *fréquence* 1/round pendant 4 rounds ; *effet* [[affaiblissement temporaire]] 1 [[Dextérité|Dex]] ; *guérison* 1 réussite. Le [[DD]] dépend de la [[Constitution]].}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -46,9 +46,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Guêpe géante](./Guêpe géante.md) || 3
+| [[Guêpe géante]] || 3
 |-
-| [Nuée de guêpes](./Nuée de guêpes.md) || 3
+| [[Nuée de guêpes]] || 3
 |}
 </div>*Un bourdonnement sourd et inquiétant annonce l’arrivée d’un essaim de plusieurs milliers de guêpes en colère.*
 

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Forêt-Jungle|Tropical}
 - *Source : Bestiaire 2, p.68*
 - **PX** 4 800
-- [Vermine](./type Vermine.md) de taille TG, N
-- **Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0
+- [[type vermine|Vermine]] de taille TG, N
+- **Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0
 (((Défense)))
 - **CA** 21, contact 8, pris au dépourvu 21 (naturelle +13, taille –2)
 - **pv** 104 (11d8+55)
@@ -25,11 +25,11 @@ Categories:
 - **VD** 9 m (6 {s:c}), vol 9 m (6 {s:c}) (médiocre)
 - **Corps à corps** morsure +17 (3d8+16)
 - **Espace** 4,50 m (3 {s:c}) ; Allonge 3 m (2 {s:c})
-- **Attaques spéciales** [piétinement](./Piétinement.md) (3d8+16, DD 26)
+- **Attaques spéciales** [[piétinement]] (3d8+16, DD 26)
 (((Statistiques)))
 - **For** 32, **Dex** 10, **Con** 21, **Int** — , **Sag** 10, **Cha** 4
-- **BBA** +8 ; **BMO** +21 ; **DMD** 31 (39 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Compétences** [Vol](./Vol.md) –8
+- **BBA** +8 ; **BMO** +21 ; **DMD** 31 (39 contre [[croc-en-jambe]])
+- **Compétences** [[Vol]] –8
 (((Écologie)))
 - **Environnement** forêts ou plaines chaudes
 - **Organisation sociale** solitaire, couple ou troupeau (3–8)
@@ -42,13 +42,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Charançon géant](./Charançon géant.md) || 4
+| [[Charançon géant]] || 4
 |-
-| [Coléoptère goliath](./Coléoptère goliath.md) || 8
+| [[Coléoptère goliath]] || 8
 |-
-| [Coléoptère tranchoir](./Coléoptère tranchoir.md) || 4
+| [[Coléoptère tranchoir]] || 4
 |-
-| [Punaise de feu](./Punaise de feu.md) || 1/3
+| [[Punaise de feu]] || 1/3
 |}
 </div>*Cet immense coléoptère de la taille d’une maison fait claquer ses grandes mandibules cornues comme s’il était impatient de se nourrir.*
 

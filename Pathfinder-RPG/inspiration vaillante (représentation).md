@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Représentations#INSPIRATIONVAILLANTE
 ---
 
->>> [Représentations#INSPIRATIONVAILLANTE](./Représentations.md#INSPIRATIONVAILLANTE)
+>>> [[Représentations#INSPIRATIONVAILLANTE]]

@@ -10,29 +10,29 @@ LastModified: 2020-09-18 02:46
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.20*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Vermine](./type Vermine.md) ([nuée](./sous-type nuée.md)) de taille Min, N}
-{s:BDTexte|**Init** +3 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 9 m (6 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type nuée|nuée]]) de taille Min, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[perception des vibrations]] 9 m (6 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 17, pris au dépourvu 14 (Dex +3, taille +4)}
 {s:BDTexte|**pv** 9 (2d8)}
 {s:BDTexte|**Réf** +3, **Vig** +3, **Vol** +0}
 {s:BDTexte|**Immunités** dégâts des armes, effets mentaux}
-{s:BDTexte|**Faiblesses** [traits des nuées](./traits des nuées.md) }
+{s:BDTexte|**Faiblesses** [[traits des nuées]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** nuée (1d6 et poison et [distraction](./Distraction.md))}
+{s:BDTexte|**Corps à corps** nuée (1d6 et poison et [[distraction]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 0 m}
-{s:BDTexte|**Attaques spéciales** [distraction](./Distraction.md) (DD 11)}
+{s:BDTexte|**Attaques spéciales** [[distraction]] (DD 11)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 17, **Con** 10, **Int** -, **Sag** 10, **Cha** 2}
 {s:BDTexte|**BBA** +1, **BMO** -, **DMD** -}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +11, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** [Perception](./Perception.md) +4 ; [Escalade](./Escalade.md) dépend de la [Dextérité](./Dextérité.md)}
+{s:BDTexte|**Compétences** [[Escalade]] +11, [[Perception]] +4 ; **Modificateurs raciaux** [[Perception]] +4 ; [[Escalade]] dépend de la [[Dextérité]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
 {s:BDTexte|**Organisation sociale** solitaire, couple, masse (3-6 nuées) ou colonie (11-20 nuées)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Poison (Ext).** Nuée - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 11 ; *fréquence* 1/round pendant 2 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [For](./Force.md) ; *guérison* 1 réussite. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Poison (Ext).** Nuée - blessure ; *JS* [[Vigueur]] [[DD]] 11 ; *fréquence* 1/round pendant 2 rounds ; *effet* [[affaiblissement temporaire]] 1d2 [[Force|For]] ; *guérison* 1 réussite. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -40,23 +40,23 @@ LastModified: 2020-09-18 02:46
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Araignée écarlate](./Araignée écarlate.md) || 1/4
+| Familier, [[Araignée écarlate]] || 1/4
 |-
-| [Araignée géante](./Araignée géante.md) || 1
+| [[Araignée géante]] || 1
 |-
-| [Araignée goliath](./Araignée goliath.md) || 11
+| [[Araignée goliath]] || 11
 |-
-| [Araignée lunaire](./Araignée lunaire.md) || 2
+| [[Araignée lunaire]] || 2
 |-
-| [Araignée ogre](./Araignée ogre.md) || 5
+| [[Araignée ogre]] || 5
 |-
-| [Araignée-crabe géante](./Araignée-crabe géante.md) || 1/2
+| [[Araignée-crabe géante]] || 1/2
 |-
-| [Nuée d'araignées](./Nuée daraignées.md) || 1
+| [[Nuée daraignées|Nuée d'araignées]] || 1
 |-
-| [Tarentule géante](./Tarentule géante.md) || 8
+| [[Tarentule géante]] || 8
 |-
-| [Veuve noire géante](./Veuve noire géante.md) || 3
+| [[Veuve noire géante]] || 3
 |}
 </div>*Une horrible masse grouillante faite de pattes et de mandibules émerge soudainement des ténèbres.*
 

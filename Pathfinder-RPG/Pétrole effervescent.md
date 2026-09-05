@@ -11,15 +11,15 @@ Categories:
 <div class="BD">
 {s:BDTitre|Pétrole effervescent|FP 6}
 {s:pucem|Vase|Souterrain|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.204](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.204]]*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Vase](./type Vase.md) de taille G, N}
-{s:BDTexte|**Init** -5 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) à 18 m ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] de taille G, N}
+{s:BDTexte|**Init** -5 ; **Sens** [[Vision aveugle (capacité)|vision aveugle]] à 18 m ; [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 4, contact 4, pris au dépourvu 4 (Dex -5, taille -1)}
 {s:BDTexte|**pv** 103 (9d8+63)}
 {s:BDTexte|**Réf** -2, **Vig** +10, **Vol** -2}
-{s:BDTexte|**RD** 10/tranchant ; **Immunités** électricité, feu, [traits des vases](./Traits des vases (capacité).md)}
+{s:BDTexte|**RD** 10/tranchant ; **Immunités** électricité, feu, [[Traits des vases (capacité)|traits des vases]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m, escalade 3 m}
 {s:BDTexte|**Corps à corps** coup, +15 (3d6+15 plus film écoeurant)}
@@ -28,14 +28,14 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 30, **Dex** 1, **Con** 24, **Int** —, **Sag** 1, **Cha** 1}
 {s:BDTexte|**BBA** +6 ; **BMO** +17 ; **DMD** 22 (croc-en-jambe impossible)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +18}
+{s:BDTexte|**Compétences** [[Escalade]] +18}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrains}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Brasier mouvant (Sur).** Le pétrole effervescent est à la fois volatile et inflammable. La vase est [immunisée](./Immunité (capacité).md) aux dégâts de feu et d’électricité, mais si elle se trouve au contact de l’une de ces énergies, qu’elle soit d’origine naturelle ou magique, elle s’enflammera dans une explosion qui inflige 5d6 points de dégâts de feu à tous les objets et créatures qui se trouvent dans un rayon de 6 mètres ([Réflexes](./Réflexes.md) DD 21 diminue de moitié). Une fois qu’il a pris feu, un pétrole effervescent perd son pouvoir film écœurant, mais les coups qu’il porte infligent 2d6 points de dégâts de feu supplémentaires et la vase gagne l’attaque spéciale [combustion](./Combustion (capacité).md) ([Réflexes](./Réflexes.md) DD 21 annule). Les deux DD sont basés sur la Constitution. Tant qu’il est enflammé, le pétrole effervescent dégage une fumée qui constitue un [camouflage](./camouflage.md) dans l’espace qu’il occupe et sur un rayon supplémentaire de 1,5 mètre. Cette fumée se comporte comme une *[nappe de brouillard](./Nappe de brouillard.md)* sur la portée indiquée. L'eau ne permet pas d›éteindre les flammes, mais des dégâts de froid, une *[bourrasque](./Bourrasque.md)* ou un effet similaire peuvent permettre d’étouffer les flammes. En l’absence d’intervention extérieure, un pétrole effervescent brûle pendant 1 minute avant de revenir à son état originel. Tant que la vase est enflammée, tout dégât supplémentaire de feu ou d’électricité étend la durée de combustion, mais ne cause pas de nouvelle explosion.}
-{s:BDTexte|**Film écœurant (Sur).** Quand un pétrole effervescent réussit à porter un coup, il recouvre une portion de sa cible d’un film collant et nauséabond. Les créatures affectées doivent réussir un jet de [Vigueur](./Vigueur.md) DD 19 ou elles seront [nauséeuses](./Nauséeux.md) pendant 1d4+1 rounds. Si le jet de sauvegarde est réussi, elles seront quand même nauséeuses pendant 1 round. Il s’agit d’un effet de poison. Une autre créature peut réaliser une [action complexe](./Action complexe.md) pour gratter une partie du film et réduire la durée de l’état préjudiciable nauséeux d’un 1 round.}
+{s:BDTexte|**Brasier mouvant (Sur).** Le pétrole effervescent est à la fois volatile et inflammable. La vase est [[Immunité (capacité)|immunisée]] aux dégâts de feu et d’électricité, mais si elle se trouve au contact de l’une de ces énergies, qu’elle soit d’origine naturelle ou magique, elle s’enflammera dans une explosion qui inflige 5d6 points de dégâts de feu à tous les objets et créatures qui se trouvent dans un rayon de 6 mètres ([[Réflexes]] DD 21 diminue de moitié). Une fois qu’il a pris feu, un pétrole effervescent perd son pouvoir film écœurant, mais les coups qu’il porte infligent 2d6 points de dégâts de feu supplémentaires et la vase gagne l’attaque spéciale [[Combustion (capacité)|combustion]] ([[Réflexes]] DD 21 annule). Les deux DD sont basés sur la Constitution. Tant qu’il est enflammé, le pétrole effervescent dégage une fumée qui constitue un [[camouflage]] dans l’espace qu’il occupe et sur un rayon supplémentaire de 1,5 mètre. Cette fumée se comporte comme une *[[nappe de brouillard]]* sur la portée indiquée. L'eau ne permet pas d›éteindre les flammes, mais des dégâts de froid, une *[[bourrasque]]* ou un effet similaire peuvent permettre d’étouffer les flammes. En l’absence d’intervention extérieure, un pétrole effervescent brûle pendant 1 minute avant de revenir à son état originel. Tant que la vase est enflammée, tout dégât supplémentaire de feu ou d’électricité étend la durée de combustion, mais ne cause pas de nouvelle explosion.}
+{s:BDTexte|**Film écœurant (Sur).** Quand un pétrole effervescent réussit à porter un coup, il recouvre une portion de sa cible d’un film collant et nauséabond. Les créatures affectées doivent réussir un jet de [[Vigueur]] DD 19 ou elles seront [[nauséeux|nauséeuses]] pendant 1d4+1 rounds. Si le jet de sauvegarde est réussi, elles seront quand même nauséeuses pendant 1 round. Il s’agit d’un effet de poison. Une autre créature peut réaliser une [[action complexe]] pour gratter une partie du film et réduire la durée de l’état préjudiciable nauséeux d’un 1 round.}
 
 </div></td>
 <td><div>*Cet amas visqueux s’étale comme une tache d’encre. Sa couleur est celle d’un ciel dépourvu d’étoiles et l’air qui l’entoure est chargé d’une puissante odeur.*

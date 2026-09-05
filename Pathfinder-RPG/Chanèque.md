@@ -10,7 +10,7 @@ LastModified: 2017-03-19 10:19
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 27*}
 - **400 PX**
-- [Fée](./type Fée.md) ([mythique](./sous-type mythique.md)) de taille P, NM
+- [[type fée|Fée]] ([[sous-type mythique|mythique]]) de taille P, NM
 - **Init **+3 ; **Sens **vision nocturne ; Perception +8
 - **Aura **de terreur (9 m, DD 13)
 (((Défense)))
@@ -23,12 +23,12 @@ LastModified: 2017-03-19 10:19
 - **Distance **lancer de crâne, +5 (1d4+3 plus vol d’âme)
 - **Attaques spéciales** pouvoir mythique (1/jour, montée en puissance +1d6), vol d’âme
 - **Pouvoirs magiques** (**NLS** 5 ; concentration +4)
-  - *3/jour* — [terreur](./Terreur.md) (DD 13)
+  - *3/jour* — [[terreur]] (DD 13)
 (((Statistiques)))
 - **For **6, **Dex **17, **Con** 10, **Int **13, **Sag **14, **Cha **9
 - **BBA **+1 ; **BMO** -2 ; **DMD **11
-- **Dons **[Attaque en finesse](./Attaque en finesse.md)<sup>M</sup>, [Robustesse](./Robustesse.md)
-- **Compétences **[Acrobaties](./Acrobaties.md) +9, [Bluff](./Bluff.md) +5, [Discrétion](./Discrétion.md) +13 (+17 dans les arbres), [Escalade](./Escalade.md) +12, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +8, [Vol](./Vol.md) +3 ;** Modificateurs raciaux** +4 en Discrétion dans les arbres
+- **Dons **[[Attaque en finesse]]<sup>M</sup>, [[Robustesse]]
+- **Compétences **[[Acrobaties]] +9, [[Bluff]] +5, [[Discrétion]] +13 (+17 dans les arbres), [[Escalade]] +12, [[Perception]] +8, [[Psychologie]] +8, [[Vol]] +3 ;** Modificateurs raciaux** +4 en Discrétion dans les arbres
 - **Langues **abyssal, commun, sylvestre
 (((Écologie)))
 - **Environnement **forêts

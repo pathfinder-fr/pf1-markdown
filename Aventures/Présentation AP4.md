@@ -8,13 +8,13 @@ Categories:
 
 ***Il y a longtemps de cela, deux armées de génies s'affrontèrent sur les pentes de la montagne Pâle et le monde trembla sous le pouvoir de la magie utilisée à cette occasion. Aujourd'hui, les armes se réveillent et un puissant seigneur de guerre efrit se tient prêt à reprendre le combat là où il a cessé. Cette campagne inventive emmène les héros dans tous les coins des terres désertiques du Katapesh et plus loin encore, avec des séjours dans d'étranges demi-plans et même une visite à la célèbre Cité d'Airain !***
 
-Vous trouverez les aides de jeu relatives à cette campagne sur [cette page](./Aides de jeu AP4.md).
+Vous trouverez les aides de jeu relatives à cette campagne sur [[Aides de jeu AP4|cette page]].
 
 Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&m=14540&#post14540).
 
 ### Les livres de la campagne
 
-Le [Guide du Joueur](./../Golarion/Publications.md#AP4PG) de cette campagne a été publiée dans la gamme des Companions présentées sur la page des [livres](./../Golarion/Publications.md) relatifs à Golarion. Une partie du contenu de ce guide (le strict minimum pour pouvoir jouer la campagne) a été repris dans le [Guide du Joueur](./../Golarion/Aides de jeu.md#GUIDEDUJOUEUR) disponible dans les [aides de jeu](./../Golarion/Aides de jeu.md) pour Golarion.
+Le [[Golarion.Publications#AP4PG|Guide du Joueur]] de cette campagne a été publiée dans la gamme des Companions présentées sur la page des [[Golarion.Publications|livres]] relatifs à Golarion. Une partie du contenu de ce guide (le strict minimum pour pouvoir jouer la campagne) a été repris dans le [[Golarion.Aides de jeu#GUIDEDUJOUEUR|Guide du Joueur]] disponible dans les [[Golarion.Aides de jeu|aides de jeu]] pour Golarion.
 
 {s:BookStart}
 {s:BookTitle|AP4-1|Howl of the Carrion King/Le Hurlement du Roi Charognard}
@@ -34,7 +34,7 @@ Les cris de guerre retentissent ! Dans l'exotique nation du Katapesh, une contr�
 Pendant de très nombreuses années, la maison de la Bête s'est élevé comme une ombre sombre, sinistre et macabre, une forteresse abritant les mœurs dépravés des fidèles du dieu de la destruction. Aujourd'hui, un nouveau mal s'est enraciné dans la sombre citadelle et les hommes-bêtes du Roi Charognard menace de plonger la contrée dans une nouvelle ère de brutalité. Il faut porter un coup contre le seigneur de guerre meurtrier lui-même pour espérer renverser la vorace machine de guerre gnoll, mais cela signifie lancer l'assaut sur l'Antre de la Bête lui-même. Les PJ oseront-ils pénétrer dans les salles décrépites de cette forteresse maudite ? Et quels trésors sont cachés dans les profondeurs de ces ruines où même le Roi Charognard craint de s'aventurer ?  
   
 
-**Articles :** [Sarenrae](./../Golarion/Sarenrae.md), La région de la [montagne Pâle](./Golarion-montagne-Pâle.md)}
+**Articles :** [[Golarion.Sarenrae|Sarenrae]], La région de la [[Golarion.montagne Pâle|montagne Pâle]]}
 {s:BookTitle|AP4-3|The Jackal's Price/Le Prix du Chacal}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9021_120.jpeg|http://paizo.com/products/btpy87uv}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/256_Pathfinder_21_Le_Prix_du_chacal_36.jpg|https://www.black-book-editions.fr/produit.php?id=371}
@@ -43,7 +43,7 @@ Pendant de très nombreuses années, la maison de la Bête s'est élevé comme u
 Le brutal Roi Charognard est mort. Parmi ses trésors, les PJ mettent la main sur une mystérieuse carte magique qu'on dit être un portail magique vers plusieurs îles paradisiaques. Les héros doivent traverser le pays jusqu'à la ville de Katapesh pour obtenir de l'aide et percer les secrets de la carte magique et peut-être trouver un acquéreur intéressé. Malheureusement, les PJ ne sont pas les seuls à s'intéresser à la carte et, rapidement, ils vont avoir à faire face à un mystérieux groupe de génies violents et à l'un des seigneurs du crime les plus connus de Katapesh, un chef de clan métamorphe appelé le Père Chacal.  
   
 
-**Articles :** Vérités et légendes au sujet des génies, le marché de [Katapesh](./../Golarion/Katapesh.md)}
+**Articles :** Vérités et légendes au sujet des génies, le marché de [[Golarion.Katapesh|Katapesh]]}
 {s:BookTitle|AP4-4|The End of Eternity/La Fin de l'Éternité}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9022_120.jpeg|http://paizo.com/products/btpy87ux}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/258_Pathfinder_22_La_Fin_de_leternite_46.jpg|https://www.black-book-editions.fr/produit.php?id=381}
@@ -61,7 +61,7 @@ Le fabuleux paradis de Kakishon est caché au sein des fibres déchirées et de 
 Un monde de feu et de merveilles attend les PJ. Les chemins planaires emmènent parfois les voyageurs vers de bien curieuses destinations. Le trajet de retour des PJ est beaucoup plus difficile que prévu. En quittant le plan paradisiaque de Kakishon, il se retrouve au sein des richesses et des terreurs d'un vaste palais d'éfrit scellé par magie au cœur de l'incroyable Cité d'Airain. Dans cette somptueuse citadelle de flammes sculptées, les PJ entrevoient pour la première fois l'obsession dévorante de leur ennemi caché. Mais ces découvertes seront-elles suffisantes pour les aider à sauver leur monde mis en danger ? Et parviendront-ils à s'échapper d'une prison qui a retenu pendant de nombreux siècles certaines des créatures les plus puissantes de ce monde de feu éternel ?  
   
 
-**Articles :** La Cité d'Airain, [Rovagug](./../Golarion/Rovagug.md)}
+**Articles :** La Cité d'Airain, [[Golarion.Rovagug|Rovagug]]}
 {s:BookTitle|AP4-6|The Final Wish/Le Dernier Souhait}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9024_120.jpeg|http://paizo.com/products/btpy89a2}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/267_Pathfinder_24_Le_Dernier_souhait_66.jpg|https://www.black-book-editions.fr/produit.php?id=401}
@@ -76,7 +76,7 @@ La peur et la destruction s'étendent sur la nation alors que l'armée longtemps
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/159_Pathfinder_19.jpg|https://www.black-book-editions.fr/produit.php?id=121}
 {s:BookComment|**Coffret de la campagne complète** (en VF uniquement)  
 
-Ce coffret comprend : le [guide du joueur](./../Golarion/Publications.md#AP4PG) de l'Héritage de feu, les 6 volumes de la campagne, le supplément Pathfinder Univers intitulé le [guide de Katapesh](./../Golarion/Publications.md#GUIDETOKATAPESH) (qui décrit la région dans laquelle se déroule la campagne) et un poster surprise !
+Ce coffret comprend : le [[Golarion.Publications#AP4PG|guide du joueur]] de l'Héritage de feu, les 6 volumes de la campagne, le supplément Pathfinder Univers intitulé le [[Golarion.Publications#GUIDETOKATAPESH|guide de Katapesh]] (qui décrit la région dans laquelle se déroule la campagne) et un poster surprise !
   
   
 }

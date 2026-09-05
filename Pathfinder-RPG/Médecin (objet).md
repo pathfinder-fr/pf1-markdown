@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po
-<span class="Catégorie">**Catégorie** [Hébergement et services](./Hébergement et services.md)</span>
+<span class="Catégorie">**Catégorie** [[Hébergement et services]]</span>
 ---
-Un médecin est une personne formée aux soins non-magiques et à la médecine. Un médecin typique est un [expert](./Expert.md) de [niveau](./niveau.md) 3 avec trois rangs en [Premiers secours](./Premiers secours.md), le don [Talent](./Talent.md) (Premiers secours) et des rangs dans une autre compétence pratique comme [Connaissances](./Connaissances.md) (nature) ou [Connaissances](./Connaissances.md) (religion). Un médecin expérimenté est de niveau 5, a des rangs supplémentaires dans les compétences appropriées et est de 5 à 10 fois mieux payé, néanmoins, ces médecins sont très demandés et sont généralement employés à plein temps par la royauté. Un médecin a généralement un minimum de connaissances sur ce que permettent les soins magiques de la région et sur l’endroit où les trouver. Le prix est indiqué par jour.
+Un médecin est une personne formée aux soins non-magiques et à la médecine. Un médecin typique est un [[Expert]] de [[niveau]] 3 avec trois rangs en [[Premiers secours]], le don [[Talent]] (Premiers secours) et des rangs dans une autre compétence pratique comme [[Connaissances]] (nature) ou [[Connaissances]] (religion). Un médecin expérimenté est de niveau 5, a des rangs supplémentaires dans les compétences appropriées et est de 5 à 10 fois mieux payé, néanmoins, ces médecins sont très demandés et sont généralement employés à plein temps par la royauté. Un médecin a généralement un minimum de connaissances sur ce que permettent les soins magiques de la région et sur l’endroit où les trouver. Le prix est indiqué par jour.

@@ -9,68 +9,68 @@ LastModified: 2011-12-29 22:19
 
 ### Sorts de sorcière de niveau 0
 
-- ***[Étincelle](./Étincelle.md)*** **(APG)**. Met le feu à des objets inflammables.
-- ***[Putréfaction de l'eau et de la nourriture](./Putréfaction de leau et de la nourriture.md)*** **(APG)**. Rend l'eau et la nourriture immangeables.
+- ***[[Étincelle]]*** **(APG)**. Met le feu à des objets inflammables.
+- ***[[Putréfaction de leau et de la nourriture|Putréfaction de l'eau et de la nourriture]]*** **(APG)**. Rend l'eau et la nourriture immangeables.
 
 ### Sorts de sorcière de niveau 1
 
-- ***[Charmant cadeau](./charmant cadeau.md)*** **(APG)**. Le sujet accepte immédiatement un objet offert et l'utilise.
-- ***[Dissimuler la magie](./dissimuler la magie.md)*** **(APG)**. Cache la présence d'un sort à la <i>détection de la magie</i>.
-- ***[Lanterne dansante](./lanterne dansante.md)*** **(APG)**. Anime une lanterne qui suit le personnage.
-- ***[Mauvais présage](./mauvais présage.md)*** **(APG)**. La cible lance deux fois les dés pour les tests et les attaques et prend le résultat le moins bon.
+- ***[[Charmant cadeau]]*** **(APG)**. Le sujet accepte immédiatement un objet offert et l'utilise.
+- ***[[Dissimuler la magie]]*** **(APG)**. Cache la présence d'un sort à la <i>détection de la magie</i>.
+- ***[[Lanterne dansante]]*** **(APG)**. Anime une lanterne qui suit le personnage.
+- ***[[Mauvais présage]]*** **(APG)**. La cible lance deux fois les dés pour les tests et les attaques et prend le résultat le moins bon.
 
 ### Sorts de sorcière de niveau 2
 
-- ***[Festin de cendres](./Festin de cendres.md)*** **(APG)**. La cible souffre d'une faim insatiable.
-- ***[Langage caché](./Langage caché.md)*** **(APG)**. +10 aux tests de Bluff pour envoyer des messages secrets.
-- ***[Perception des indices](./Perception des indices.md)*** **(APG)**. +5 Perception et Psychologie 10 min/niveau.
-- ***[Planer](./Planer.md)*** **(APG)**. Le personnage ne reçoit pas de dégâts de chute, se déplace à 18 m/round pendant la chute.
-- ***[Purulence](./Purulence.md)*** **(APG)**. Donne au sujet une RM 12 + niveau du personnage contre les effets de soins.
-- ***[Regard brûlant](./Regard brûlant.md)*** **(APG)**. Inflige 1d6 points de dégâts de feu à une créature.
-- ***[Transmutation de potion en poison](./Transmutation de potion en poison.md)*** **(APG)**. Crache du poison sur une arme après avoir bu une potion.
-- ***[Vérole](./Vérole.md)*** **(APG)**. Le sujet est fiévreux et subit -4 Dex.
-- ***[Vomir une nuée](./Vomir une nuée.md)*** **(APG)**. Produit une nuée d'araignées qui se battent pour le personnage.
+- ***[[Festin de cendres]]*** **(APG)**. La cible souffre d'une faim insatiable.
+- ***[[Langage caché]]*** **(APG)**. +10 aux tests de Bluff pour envoyer des messages secrets.
+- ***[[Perception des indices]]*** **(APG)**. +5 Perception et Psychologie 10 min/niveau.
+- ***[[Planer]]*** **(APG)**. Le personnage ne reçoit pas de dégâts de chute, se déplace à 18 m/round pendant la chute.
+- ***[[Purulence]]*** **(APG)**. Donne au sujet une RM 12 + niveau du personnage contre les effets de soins.
+- ***[[Regard brûlant]]*** **(APG)**. Inflige 1d6 points de dégâts de feu à une créature.
+- ***[[Transmutation de potion en poison]]*** **(APG)**. Crache du poison sur une arme après avoir bu une potion.
+- ***[[Vérole]]*** **(APG)**. Le sujet est fiévreux et subit -4 Dex.
+- ***[[Vomir une nuée]]*** **(APG)**. Produit une nuée d'araignées qui se battent pour le personnage.
 
 ### Sorts de sorcière de niveau 3
 
-- ***[Coupe de poussière](./Coupe de poussière.md)*** **(APG)**. Déshydrate une créature.
-- ***[Cri strident](./Cri strident.md)*** **(APG)**. Les ennemis provoquent des attaques d'opportunité.
-- ***[Exilé par la nature](./Exilé par la nature.md)*** **(APG)**. Donne un malus de -10 aux tests de Survie.
-- ***[Frappe douloureuse](./Frappe douloureuse.md)*** **(APG)**. Inflige 1d6 points de dégâts non létaux 1 round/niveau.
-- ***[Guide](./Guide.md)*** **(APG)**. Révèle la distance approximative qui sépare le personnage de l'endroit où il a lancé ce sort.
-- ***[Lame du crépuscule](./Lame du crépuscule.md)*** **(APG)**. Couteau flottant qui attaque avec le personnage.
-- ***[Partage des sens](./Partage des sens.md)*** **(APG)**. Voit/entend/sent la même chose que le familier.
-- ***[Recherche de pensées](./Recherche de pensées.md)*** **(APG)**. Détecte les pensées des créatures intelligentes.
+- ***[[Coupe de poussière]]*** **(APG)**. Déshydrate une créature.
+- ***[[Cri strident]]*** **(APG)**. Les ennemis provoquent des attaques d'opportunité.
+- ***[[Exilé par la nature]]*** **(APG)**. Donne un malus de -10 aux tests de Survie.
+- ***[[Frappe douloureuse]]*** **(APG)**. Inflige 1d6 points de dégâts non létaux 1 round/niveau.
+- ***[[Guide]]*** **(APG)**. Révèle la distance approximative qui sépare le personnage de l'endroit où il a lancé ce sort.
+- ***[[Lame du crépuscule]]*** **(APG)**. Couteau flottant qui attaque avec le personnage.
+- ***[[Partage des sens]]*** **(APG)**. Voit/entend/sent la même chose que le familier.
+- ***[[Recherche de pensées]]*** **(APG)**. Détecte les pensées des créatures intelligentes.
 
 ### Sorts de sorcière de niveau 4
 
-- ***[Pleine lune](./Pleine lune.md)*** **(APG)**. Le sujet est enragé et confus.
-- ***[Poussière d'étoile](./Poussière détoile.md)*** **(APG)**. Silhouette la cible et émet de la lumière.
-- ***[Rancune](./Rancune.md)*** (F) **(APG)**. Inflige un sort de contact sur la créature qui attaque le personnage.
-- ***[Somnambulisme](./Somnambulisme.md)*** (M) **(APG)**. La créature se déplace en dormant.
-- ***[Triple aspect](./Triple aspect.md)*** (F) **(APG)**. Le personnage paraît plus jeune ou plus âgé.
+- ***[[Pleine lune]]*** **(APG)**. Le sujet est enragé et confus.
+- ***[[Poussière détoile|Poussière d'étoile]]*** **(APG)**. Silhouette la cible et émet de la lumière.
+- ***[[Rancune]]*** (F) **(APG)**. Inflige un sort de contact sur la créature qui attaque le personnage.
+- ***[[Somnambulisme]]*** (M) **(APG)**. La créature se déplace en dormant.
+- ***[[Triple aspect]]*** (F) **(APG)**. Le personnage paraît plus jeune ou plus âgé.
 
 ### Sorts de sorcière de niveau 5
 
-- ***[Bannir les faux-semblants](./Bannir les faux-semblants.md)*** **(APG)**. Dissipe une illusion touchée ou le changement de forme d'une créature.
-- ***[Frappe douloureuse de groupe](./Frappe douloureuse de groupe.md)*** **(APG)**. Comme <i>frappe douloureuse</i> mais affecte plusieurs créatures.
-- ***[Repos éternel](./Repos éternel.md)*** (M) **(APG)**. Impossible de ramener la créature morte à la vie.
-- ***[Suffocation](./Suffocation.md)*** **(APG)**. La cible suffoque rapidement.
+- ***[[Bannir les faux-semblants]]*** **(APG)**. Dissipe une illusion touchée ou le changement de forme d'une créature.
+- ***[[Frappe douloureuse de groupe]]*** **(APG)**. Comme <i>frappe douloureuse</i> mais affecte plusieurs créatures.
+- ***[[Repos éternel]]*** (M) **(APG)**. Impossible de ramener la créature morte à la vie.
+- ***[[Suffocation]]*** **(APG)**. La cible suffoque rapidement.
 
 ### Sorts de sorcière de niveau 6
 
-- ***[Bouclier involontaire](./Bouclier involontaire.md)*** (M) **(APG)**. La cible partage les blessures reçues par le lanceur de sorts.
-- ***[Manteau de rêves](./Manteau de rêves.md)*** **(APG)**. Les créatures vivantes situées dans un rayon de 1,50 m s'endorment.
-- ***[Peau de nuée](./Peau de nuée.md)*** **(APG)**. Transforme le corps du lanceur de sorts en une nuée capable d'attaquer.
-- ***[Purulence de groupe](./Purulence de groupe.md)*** **(APG)**. Comme <i>purulence </i>mais affecte plusieurs cibles.
+- ***[[Bouclier involontaire]]*** (M) **(APG)**. La cible partage les blessures reçues par le lanceur de sorts.
+- ***[[Manteau de rêves]]*** **(APG)**. Les créatures vivantes situées dans un rayon de 1,50 m s'endorment.
+- ***[[Peau de nuée]]*** **(APG)**. Transforme le corps du lanceur de sorts en une nuée capable d'attaquer.
+- ***[[Purulence de groupe]]*** **(APG)**. Comme <i>purulence </i>mais affecte plusieurs cibles.
 
 ### Sorts de sorcière de niveau 8
 
-- ***[Nuées d'orage](./Nuées dorage.md)*** **(APG)**. 1d8 dégâts/niveau (max 20d8) aux cibles.
+- ***[[Nuées dorage|Nuées d'orage]]*** **(APG)**. 1d8 dégâts/niveau (max 20d8) aux cibles.
 
 ### Sorts de sorcière de niveau 9
 
-- ***[Suffocation de groupe](./Suffocation de groupe.md)*** **(APG)**. Une créature/niveau suffoque.
+- ***[[Suffocation de groupe]]*** **(APG)**. Une créature/niveau suffoque.
 
 
 ### REDIRECTION POUR LES TALENTS DE ROUBLARDS

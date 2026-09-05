@@ -15,19 +15,19 @@ Categories:
 ---
 
 {s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[eau](./Créer un sort.md#EAU)<nowiki>]</nowiki> ;
-**Niveau** [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Prê](./Prêtre.md) 1, [Rôd](./Rôdeur.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#EAU|eau]]<nowiki>]</nowiki> ;
+**Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V,G](./composantes.md)  
+**Composantes** [[Composantes|V,G]]  
 
-**Portée**  [contact](./Présentation des sorts.md#PORTEE)  
+**Portée**  [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée consentante  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-La cible gagne un bonus de +1 à ses [jets d’attaque](./Valeurs de combat.md#JETDATTAQUE) et de [dégâts](./Valeurs de combat.md#DEGATS) si son adversaire et elle-même touchent l’eau. Si l’adversaire ou la cible touche le sol, la cible reçoit un malus de -4 à ses jets d’attaque et de dégâts.
+La cible gagne un bonus de +1 à ses [[Valeurs de combat#JETDATTAQUE|jets d’attaque]] et de [[Valeurs de combat#DEGATS|dégâts]] si son adversaire et elle-même touchent l’eau. Si l’adversaire ou la cible touche le sol, la cible reçoit un malus de -4 à ses jets d’attaque et de dégâts.

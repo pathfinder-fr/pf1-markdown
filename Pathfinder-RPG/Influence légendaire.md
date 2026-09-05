@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:UI}*Chaque légende vous accorde plus de pouvoir en échange d'une plus grande influence.*
 
-**Conditions.** Capacité de classe [pouvoir spirituel mineur](./Médium.md#ESPRIT)
+**Conditions.** Capacité de classe [[Médium#ESPRIT|pouvoir spirituel mineur]]
 
-**Avantages.** Le personnage sélectionne immédiatement un don (autre qu'un don de création d'objet) pour chaque esprit qu'il est capable de canaliser. Chaque fois qu'il fait une séance médiumnique pour canaliser un esprit, il peut autoriser l'esprit à prendre 1 point d'influence sur lui pour gagner le don d'Influence légendaire de cet esprit tant qu'il est canalisé. Le personnage peut utiliser ce don comme condition pour tout autre don offert par un pouvoir spirituel (comme la capacité champion légendaire du [champion](./Esprits (Médium).md#Champion_1)), mais pas pour d'autres dons.
+**Avantages.** Le personnage sélectionne immédiatement un don (autre qu'un don de création d'objet) pour chaque esprit qu'il est capable de canaliser. Chaque fois qu'il fait une séance médiumnique pour canaliser un esprit, il peut autoriser l'esprit à prendre 1 point d'influence sur lui pour gagner le don d'Influence légendaire de cet esprit tant qu'il est canalisé. Le personnage peut utiliser ce don comme condition pour tout autre don offert par un pouvoir spirituel (comme la capacité champion légendaire du [[Esprits (Médium)#Champion_1|champion]]), mais pas pour d'autres dons.

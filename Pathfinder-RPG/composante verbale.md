@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#COMPOSANTEVERBALE
 ---
 
->>> [Présentation des sorts#COMPOSANTEVERBALE](./Présentation des sorts.md#COMPOSANTEVERBALE)
+>>> [[Présentation des sorts#COMPOSANTEVERBALE]]

@@ -10,8 +10,8 @@ LastModified: 2026-08-02 09:25
 {s:pucem|Animal|Collines|Tempéré}
 {s:BDTexte|*Source : Universal Wilderness*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille MIN, N}
-{s:BDTexte|**Init** +2 ; **Sens** [Odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Animal|Animal]] de taille MIN, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Odorat]], [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 13 (Dex +2, naturel +1, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -23,8 +23,8 @@ LastModified: 2026-08-02 09:25
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 15, **Con** 10, **Int** 2, **Sag** 12, **Cha** 5}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6 (10 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Escalade](./Escalade.md) +10, [évasion](./Évasion.md) +5, [Discrétion](./Discrétion.md) +14 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +8, [Discrétion](./Discrétion.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Escalade]] +10, [[évasion]] +5, [[Discrétion]] +14 ; **Modificateurs raciaux** [[Acrobaties]] +8, [[Discrétion]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Collines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire}

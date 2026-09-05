@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 po ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces oiseaux de taille TP sont connus pour leur intelligence et jouent même entre eux dans la nature. Ils se nourrissent d’insectes et on les trouve dans des habitats étonnamment variés. Voir les statistiques du [corbeau](./Corbeau.md).
+Ces oiseaux de taille TP sont connus pour leur intelligence et jouent même entre eux dans la nature. Ils se nourrissent d’insectes et on les trouve dans des habitats étonnamment variés. Voir les statistiques du [[corbeau]].

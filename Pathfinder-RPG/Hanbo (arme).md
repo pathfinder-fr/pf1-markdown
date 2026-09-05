@@ -7,8 +7,8 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 1 po ; **Poids** 1 kg ; **Groupes** [armes de moine](./groupe darmes.md#Armesdemoine)
-**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** [moine](./Caractéristiques des armes.md#MOINE), [croc-en-jambe](./Caractéristiques des armes.md#CROCENJAMBE)
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+{s:cs}{s:AA}**Prix** 1 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]]
+**Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** [[Caractéristiques des armes#MOINE|moine]], [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
 Le hanbo est un bâton de moins d'un mètre de long, souvent sculpté pour ressembler à un bâton de marche.

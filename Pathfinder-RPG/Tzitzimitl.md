@@ -10,38 +10,38 @@ LastModified: 2023-05-30 20:09
 {s:pucem|Mort-vivant|Ciel|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p 267*}
 {s:BDTexte|**PX** 204 800}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille Gig, NM}
-{s:BDTexte|**Init** +9 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), *[vision lucide](./Vision lucide.md)*, *[vision magique](./Vision magique.md)* ; [Perception](./Perception.md) +31}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille Gig, NM}
+{s:BDTexte|**Init** +9 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), *[[vision lucide]]*, *[[vision magique]]* ; [[Perception]] +31}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 35, contact 11, pris au dépourvu 30 (Dex +5, naturelle +24, taille -4)}
-{s:BDTexte|**pv** 319 (22d8+220) ; [guérison accélérée](./Guérison accélérée (capacité).md) 15}
+{s:BDTexte|**pv** 319 (22d8+220) ; [[guérison accélérée (capacité)|guérison accélérée]] 15}
 {s:BDTexte|**Réf** +14, **Vig** +17, **Vol** +19}
-{s:BDTexte|**Capacités défensives** [résistance à la canalisation](./résistance à la canalisation.md) +4, de la lumière à l’ombre ; **Immunités** électricité, froid, [traits des morts-vivants](./type Mort-vivant.md) ; **[RD](./RD.md)** 15/Bien et contondant ; **[Résistances](./Résistance (capacité).md)** feu 15 ; **[RM](./RM.md)** 30}
+{s:BDTexte|**Capacités défensives** [[résistance à la canalisation]] +4, de la lumière à l’ombre ; **Immunités** électricité, froid, [[type Mort-vivant|traits des morts-vivants]] ; **[[RD]]** 15/Bien et contondant ; **[[Résistance (capacité)|Résistances]]** feu 15 ; **[[RM]]** 30}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c}), vol 18 m (12 {s:c}) (bonne)}
-{s:BDTexte|**Corps à corps** morsure, +26 (2d8+14 plus 3d6 électricité et [absorption d'énergie](./Absorption dénergie (capacité).md)) et 2 griffes, +27 (2d6+14/19–20 plus 3d6 électricité)}
+{s:BDTexte|**Corps à corps** morsure, +26 (2d8+14 plus 3d6 électricité et [[absorption dénergie (capacité)|absorption d'énergie]]) et 2 griffes, +27 (2d6+14/19–20 plus 3d6 électricité)}
 {s:BDTexte|**Distance** rayon oculaire, +17 contact (10d6 électricité et 10d6 force)}
 {s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 6 m (4 {s:c})}
-{s:BDTexte|**Attaques spéciales** éclipse, [absorption d'énergie](./absorption dénergie.md) (2 niveaux, [DD](./DD.md) 31)}
+{s:BDTexte|**Attaques spéciales** éclipse, [[absorption dénergie|absorption d'énergie]] (2 niveaux, [[DD]] 31)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 19 ; concentration +29)}
-{s:BDSorts|Constant — *[vision magique](./Vision magique.md)*, *[vision lucide](./Vision lucide.md)*, *[vol](./Vol.md)*}
-{s:BDSorts|À volonté — *[malédiction](./malédiction.md)* (DD 24), *[ténèbres profondes](./Ténèbres profondes.md)*}
-{s:BDSorts|3/jour — *[animation des morts](./Animation des morts.md)*, *[contagion](./Contagion.md)* (DD 24), *[téléportation suprême](./Téléportation suprême.md)*, *[rapidité](./Rapidité.md)*}
-{s:BDSorts|1/jour — *[création de mort-vivant](./Création de mort-vivant.md)*, *[animation suspendue](./Animation suspendue.md)* (DD 28), *[plainte d'outre-tombe](./Plainte doutre-tombe.md)* (DD 29)}
+{s:BDSorts|Constant — *[[vision magique]]*, *[[vision lucide]]*, *[[vol]]*}
+{s:BDSorts|À volonté — *[[malédiction]]* (DD 24), *[[ténèbres profondes]]*}
+{s:BDSorts|3/jour — *[[animation des morts]]*, *[[contagion]]* (DD 24), *[[téléportation suprême]]*, *[[rapidité]]*}
+{s:BDSorts|1/jour — *[[création de mort-vivant]]*, *[[animation suspendue]]* (DD 28), *[[plainte doutre-tombe|plainte d'outre-tombe]]* (DD 29)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 39, **Dex** 21, **Con** —, **Int** 20, **Sag** 23, **Cha** 30}
 {s:BDTexte|**BBA** +16, **BMO** +29, **DMD** 44}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Coup fabuleux](./Coup fabuleux.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (griffe), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +23, [Connaissances](./Connaissances.md) (nature) +27, [Connaissances](./Connaissances.md) (mystères) +28, [Connaissances](./Connaissances.md) (plans) +25, [Connaissances](./Connaissances.md) (religion) +30, [Perception](./Perception.md) +31, [Psychologie](./Psychologie.md) +31, [Survie](./Survie.md) +21, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +30, [Vol](./Vol.md) +35}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Attaque en puissance]], [[Attaques réflexes]], [[Coup fabuleux]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (griffe), [[Tir à bout portant]], [[Tir de précision]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +23, [[Connaissances]] (nature) +27, [[Connaissances]] (mystères) +28, [[Connaissances]] (plans) +25, [[Connaissances]] (religion) +30, [[Perception]] +31, [[Psychologie]] +31, [[Survie]] +21, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +30, [[Vol]] +35}
 {s:BDTexte|**Langues** abyssal, aklo, céleste, commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**De la lumière à l'ombre (Sur).** Par une [action immédiate](./Action immédiate.md) et jusqu’à trois fois par jour, le tzitzimitl peut convertir un effet d’énergie positive qui l’affecte en énergie négative. Il transforme ainsi tout l’effet de manière à ce qu’il affecte également toutes les autres créatures. Le tzitzimitl peut transformer l’énergie positive [canalisée](./canalisation.md) de la même manière, même si elle ne l’aurait pas blessé.}
-{s:BDTexte|**Éclipse (Sur).** Chaque fois qu’un tzitzimitl lance *[ténèbres profondes](./Ténèbres profondes.md)*, toutes les créatures situées dans la zone de ténèbres au moment de sa création reçoivent 8d6 points de dégâts de froid (Vigueur DD 31, 1/2 dégâts). Toutes les créatures recevant les dégâts de cet effet sont [chancelantes](./Chancelant.md) tant qu’elles restent dans la zone et pendant 1d4 [rounds](./round.md) après l’avoir quittée. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
-{s:BDTexte|**Rayon oculaire (Sur).** Par une [action simple](./Action simple.md), le tzitzimitl peut tirer un [rayon](./rayon.md) de force flamboyant avec ses yeux, à une distance de 30 mètres. Cette attaque de contact à distance inflige 10d6 points de dégâts de force et 10d6 points de dégâts d’électricité.}
+{s:BDTexte|**De la lumière à l'ombre (Sur).** Par une [[action immédiate]] et jusqu’à trois fois par jour, le tzitzimitl peut convertir un effet d’énergie positive qui l’affecte en énergie négative. Il transforme ainsi tout l’effet de manière à ce qu’il affecte également toutes les autres créatures. Le tzitzimitl peut transformer l’énergie positive [[canalisation|canalisée]] de la même manière, même si elle ne l’aurait pas blessé.}
+{s:BDTexte|**Éclipse (Sur).** Chaque fois qu’un tzitzimitl lance *[[ténèbres profondes]]*, toutes les créatures situées dans la zone de ténèbres au moment de sa création reçoivent 8d6 points de dégâts de froid (Vigueur DD 31, 1/2 dégâts). Toutes les créatures recevant les dégâts de cet effet sont [[chancelant|chancelantes]] tant qu’elles restent dans la zone et pendant 1d4 [[round|rounds]] après l’avoir quittée. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|**Rayon oculaire (Sur).** Par une [[action simple]], le tzitzimitl peut tirer un [[rayon]] de force flamboyant avec ses yeux, à une distance de 30 mètres. Cette attaque de contact à distance inflige 10d6 points de dégâts de force et 10d6 points de dégâts d’électricité.}
 </div>
 
 {s:ImageCentre|Bestiaire/Tzitzimitl.jpg|90%}

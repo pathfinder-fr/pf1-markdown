@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-De mémoire d’homme, les Vallons scintillants ont toujours été considérés comme un endroit mystérieux et donc à éviter. Un seul chemin, dont il vaut mieux ne pas s’écarter, traverse ces marais et relie la [forêt de Sanos](./Foret-de-Sanos.md) au village de Vide-Amer. Les légendes disent que les Vallons Scintillants se trouvent proche du Premier Monde des fées. Ainsi, on raconte que ceux qui s’y sont aventurés sont tombés dans des pièges de nixies ou ont été charmés par des nymphes. En tout cas, quelle qu’en soit la cause, on ne les a jamais revus.
+De mémoire d’homme, les Vallons scintillants ont toujours été considérés comme un endroit mystérieux et donc à éviter. Un seul chemin, dont il vaut mieux ne pas s’écarter, traverse ces marais et relie la [[Golarion.Foret-de-Sanos|forêt de Sanos]] au village de Vide-Amer. Les légendes disent que les Vallons Scintillants se trouvent proche du Premier Monde des fées. Ainsi, on raconte que ceux qui s’y sont aventurés sont tombés dans des pièges de nixies ou ont été charmés par des nymphes. En tout cas, quelle qu’en soit la cause, on ne les a jamais revus.

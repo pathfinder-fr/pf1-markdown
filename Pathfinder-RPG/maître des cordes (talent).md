@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#MAITREDESCORDES
 ---
 
->>> [Talents#MAITREDESCORDES](./Talents.md#MAITREDESCORDES)
+>>> [[Talents#MAITREDESCORDES]]

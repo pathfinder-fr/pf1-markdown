@@ -12,9 +12,9 @@ Categories:
 {s:cs}<div class="description"**Source :** Distant Shores</div>
 *Vous êtes toujours prêt à donner un coup de pouce à votre allié*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Condition.** [Esprit lié](./Esprit lié.md)
+**Condition.** [[Esprit lié]]
 
 **Avantage.** Quand vous utilisez l'action aider autrui pour donner un bonus au test de compétence d'un allié, le bonus passe à +4 au lieu de +2.
 

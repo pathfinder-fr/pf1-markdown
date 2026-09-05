@@ -12,51 +12,51 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Alch](./Alchimiste.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Magus](./Magus.md) 6, [Spi](./Spirite.md) 6
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (un bout de la créature dont le personnage compte prendre l’apparence)
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)
+{s:UM}**École** [[Transmutation]] ([[Branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Spirite|Spi]] 6
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, M]] (un bout de la créature dont le personnage compte prendre l’apparence)
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]
 **Cible** lanceur de sorts
-**Durée** 1 minute/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 ---
-Ce sort fonctionne comme *[anatomie morte-vivante II](./Anatomie morte-vivante II.md)* mais permet au personnage de prendre l’apparence d’un [mort-vivant](./type Mort-vivant.md) tangible de [taille Min](./taille Min.md) ou [TG](./taille TG.md). Si la forme choisie possède l’un des pouvoirs suivants, le personnage en dispose également : [aura surnaturelle](./Aura surnaturelle (capacité).md), [aura de terreur](./Terreur (capacité).md), [bond](./Bond (capacité).md), [constriction](./Constriction (capacité).md), creusement 9 m (6 {s:c}), [croc-en-jambe](./Croc-en-jambe (capacité).md), [écrasement](./écrasement.md), escalade 27 m (18 {s:c}), [étreinte](./Étreinte (capacité).md), [instinct](./Minotaure.md), [maladie](./Maladie (capacité).md), nage 27 m (18 {s:c}), [odorat](./Odorat (capacité).md), [pattes arrière](./Pattes arrière (capacité).md), [perception aveugle](./Perception aveugle (capacité).md) à 9 m (6 {s:c}), [piétinement](./Piétinement (capacité).md), [poison](./Poison (capacité).md), [propulsion](./Propulsion (capacité).md), [RD](./Réduction de dégâts (capacité).md) 5/–, [toile](./Toile (capacité).md), [vision à 360°](./Vision à 360° (capacité).md), [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./Vision nocturne (capacité).md) et [vol](./Vol (capacité).md) 27 m (18 {s:c}) (bonne manœuvrabilité).
+Ce sort fonctionne comme *[[anatomie morte-vivante II]]* mais permet au personnage de prendre l’apparence d’un [[type mort-vivant|mort-vivant]] tangible de [[taille Min]] ou [[taille TG|TG]]. Si la forme choisie possède l’un des pouvoirs suivants, le personnage en dispose également : [[Aura surnaturelle (capacité)|aura surnaturelle]], [[Terreur (capacité)|aura de terreur]], [[Bond (capacité)|bond]], [[Constriction (capacité)|constriction]], creusement 9 m (6 {s:c}), [[Croc-en-jambe (capacité)|croc-en-jambe]], [[écrasement]], escalade 27 m (18 {s:c}), [[étreinte (capacité)|étreinte]], [[minotaure|instinct]], [[maladie (capacité)|maladie]], nage 27 m (18 {s:c}), [[odorat (capacité)|odorat]], [[Pattes arrière (capacité)|pattes arrière]], [[perception aveugle (capacité)|perception aveugle]] à 9 m (6 {s:c}), [[Piétinement (capacité)|piétinement]], [[poison (capacité)|poison]], [[propulsion (capacité)|propulsion]], [[Réduction de dégâts (capacité)|RD]] 5/–, [[toile (capacité)|toile]], [[vision à 360° (capacité)|vision à 360°]], [[vision dans le noir]] à 18 m (12 {s:c}), [[vision nocturne (capacité)|vision nocturne]] et [[vol (capacité)|vol]] 27 m (18 {s:c}) (bonne manœuvrabilité).
 
-Si la créature est [immunisée](./Immunité.md) ou [résistante contre un type d’énergie](./résistance.md), le personnage gagne une [résistance](./résistance.md) de 20 contre ce type d’énergie. Si la forme est [vulnérable à un type d’énergie](./Vulnérabilités.md), le personnage le devient aussi. Sous cette forme, le personnage gagne un bonus de +8 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les [effets mentaux](./Registre.md), l’[étourdissement](./Étourdi.md), la maladie, le poison et le sommeil. Si la forme est [vulnérable](./Vulnérabilités.md) à une attaque (comme la lumière du soleil), le personnage le devient aussi.
-- *Mort-vivant Min.* Si le personnage prend la forme d’un [mort-vivant](./type Mort-vivant.md) [Min](./taille Min.md), il gagne un bonus de taille de +6 à la [Dextérité](./Dextérité.md), un malus de -4 à la [Force](./Force.md) et un bonus de +1 à l’armure naturelle.
-- *Mort-vivant TG.* Si le personnage prend la forme d’un [mort-vivant](./type Mort-vivant.md) [TG](./taille TG.md), il gagne un bonus de taille de +6 à la [Force](./Force.md), un malus de -4 à la [Dextérité](./Dextérité.md) et un bonus de +6 à l’armure naturelle.
+Si la créature est [[immunité|immunisée]] ou [[résistance|résistante contre un type d’énergie]], le personnage gagne une [[résistance]] de 20 contre ce type d’énergie. Si la forme est [[vulnérabilités|vulnérable à un type d’énergie]], le personnage le devient aussi. Sous cette forme, le personnage gagne un bonus de +8 aux [[jet de sauvegarde|jets de sauvegarde]] contre les [[registre|effets mentaux]], l’[[étourdi|étourdissement]], la maladie, le poison et le sommeil. Si la forme est [[vulnérabilités|vulnérable]] à une attaque (comme la lumière du soleil), le personnage le devient aussi.
+- *Mort-vivant Min.* Si le personnage prend la forme d’un [[type mort-vivant|mort-vivant]] [[taille Min|Min]], il gagne un bonus de taille de +6 à la [[Dextérité]], un malus de -4 à la [[Force]] et un bonus de +1 à l’armure naturelle.
+- *Mort-vivant TG.* Si le personnage prend la forme d’un [[type mort-vivant|mort-vivant]] [[taille TG|TG]], il gagne un bonus de taille de +6 à la [[Force]], un malus de -4 à la [[Dextérité]] et un bonus de +6 à l’armure naturelle.
 
 
 
 (((
 ## Anatomie morte-vivante II
-{s:UM}**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Alch](./Alchimiste.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Magus](./Magus.md) 5, [Spi](./Spirite.md) 5
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (un bout de la créature dont le personnage compte prendre l’apparence)
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)
+{s:UM}**École** [[Transmutation]] ([[Branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Spirite|Spi]] 5
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, M]] (un bout de la créature dont le personnage compte prendre l’apparence)
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]
 **Cible** lanceur de sorts
-**Durée** 1 minute/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 ---
-Ce sort fonctionne comme *[anatomie morte-vivante I](./Anatomie morte-vivante I.md)* mais permet au personnage de prendre l’apparence d’un [mort-vivant](./type Mort-vivant.md) tangible de [taille TP](./taille TP.md) ou [G](./taille G.md). Si la forme choisie possède l’un des pouvoirs suivants, le personnage en dispose également : [absorption de sang](./absorption de sang (capacité).md), [bond](./Bond.md), [croc-en-jambe](./Croc-en-jambe (capacité).md), escalade 18 m, [étreinte](./Étreinte.md), [imitation des sons](./Imitation de sons (capacité).md), [immobilité](./Immobilité (capacité).md), mimétisme, nage 18 m, [odorat](./odorat.md), [RD](./RD.md) 5/contondant, absence d'ombre (voir les *Particularités* de l'[archétype de vampire](./Vampire, archétype.md)), [vision dans le noir](./vision dans le noir.md) à 18 m, [vision nocturne](./vision nocturne.md) et vol 18 m (bonne manœuvrabilité).
+Ce sort fonctionne comme *[[anatomie morte-vivante I]]* mais permet au personnage de prendre l’apparence d’un [[type mort-vivant|mort-vivant]] tangible de [[taille TP]] ou [[taille G|G]]. Si la forme choisie possède l’un des pouvoirs suivants, le personnage en dispose également : [[absorption de sang (capacité)|absorption de sang]], [[bond]], [[croc-en-jambe (capacité)|croc-en-jambe]], escalade 18 m, [[étreinte]], [[imitation de sons (capacité)|imitation des sons]], [[immobilité (capacité)|immobilité]], mimétisme, nage 18 m, [[odorat]], [[RD]] 5/contondant, absence d'ombre (voir les *Particularités* de l'[[vampire, archétype|archétype de vampire]]), [[vision dans le noir]] à 18 m, [[vision nocturne]] et vol 18 m (bonne manœuvrabilité).
 
-Sous cette forme, il gagne un bonus de +4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les effets mentaux, l’[étourdissement](./Étourdi.md), la maladie, le poison et le sommeil. Si la forme est [vulnérable](./Vulnérabilités (capacité).md) à une attaque (comme la lumière du soleil), le personnage le devient aussi.
-- *Mort-vivant TP.* Si le personnage prend la forme d’un [mort-vivant](./type Mort-vivant.md) [TP](./taille TP.md), il gagne un bonus de taille de +4 à la [Dextérité](./Dextérité.md), un malus de -2 à la [Force](./Force.md) et un bonus de +1 à l’armure naturelle.
-- *Mort-vivant G.* Si le personnage prend la forme d’un [mort-vivant](./type Mort-vivant.md) [G](./taille G.md), il gagne un bonus de taille de +4 à la [Force](./Force.md), un malus de -2 à la [Dextérité](./Dextérité.md) et un bonus de +4 à l’armure naturelle.
+Sous cette forme, il gagne un bonus de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets mentaux, l’[[étourdi|étourdissement]], la maladie, le poison et le sommeil. Si la forme est [[vulnérabilités (capacité)|vulnérable]] à une attaque (comme la lumière du soleil), le personnage le devient aussi.
+- *Mort-vivant TP.* Si le personnage prend la forme d’un [[type mort-vivant|mort-vivant]] [[taille TP|TP]], il gagne un bonus de taille de +4 à la [[Dextérité]], un malus de -2 à la [[Force]] et un bonus de +1 à l’armure naturelle.
+- *Mort-vivant G.* Si le personnage prend la forme d’un [[type mort-vivant|mort-vivant]] [[taille G|G]], il gagne un bonus de taille de +4 à la [[Force]], un malus de -2 à la [[Dextérité]] et un bonus de +4 à l’armure naturelle.
 
 
 
 (((
 ## Anatomie morte-vivante I
-{s:UM}**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Alch](./Alchimiste.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [San](./Sanguin.md) 3, [Spi](./Spirite.md) 3
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (un bout de la créature dont le personnage compte prendre l’apparence)
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)
+{s:UM}**École** [[Transmutation]] ([[Branche métamorphose|métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3, [[Spirite|Spi]] 3
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, M]] (un bout de la créature dont le personnage compte prendre l’apparence)
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]
 **Cible** lanceur de sorts
-**Durée** 1 minute/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 ---
-Quand le personnage lance ce sort, il prend la forme de n’importe quel [mort-vivant](./type Mort-vivant.md) tangible [P](./taille P.md) ou [M](./taille M.md) à condition qu’il ait une forme vaguement humanoïde (comme une [goule](./Goule.md), un [squelette](./Squelette, archétype.md) ou un [zombi](./Zombi, archétype.md)). Il gagne une attaque de morsure (1d6 pour une forme [M](./taille M.md), 1d4 pour une [P](./taille P.md)), deux attaques de griffe ou de coup (1d6 pour une forme [M](./taille M.md), 1d4 pour une [P](./taille P.md)) et la [vision dans le noir](./vision dans le noir.md) à 18 mètres (12 {s:c}). Si la forme choisie possède l’un des pouvoirs suivants, le personnage en dispose également : escalade 9 m, vol 9 m (manœuvrabilité moyenne), nage 9 m, [vision nocturne](./vision nocturne.md) et [odorat](./odorat.md).
+Quand le personnage lance ce sort, il prend la forme de n’importe quel [[type mort-vivant|mort-vivant]] tangible [[taille P|P]] ou [[taille M|M]] à condition qu’il ait une forme vaguement humanoïde (comme une [[goule]], un [[squelette, archétype|squelette]] ou un [[zombi, archétype|zombi]]). Il gagne une attaque de morsure (1d6 pour une forme [[taille M|M]], 1d4 pour une [[taille P|P]]), deux attaques de griffe ou de coup (1d6 pour une forme [[taille M|M]], 1d4 pour une [[taille P|P]]) et la [[vision dans le noir]] à 18 mètres (12 {s:c}). Si la forme choisie possède l’un des pouvoirs suivants, le personnage en dispose également : escalade 9 m, vol 9 m (manœuvrabilité moyenne), nage 9 m, [[vision nocturne]] et [[odorat]].
 
-Sous cette forme le personnage est détecté comme une créature [morte-vivante](./type Mort-vivant.md) (avec *[détection des morts-vivants](./Détection des morts-vivants.md)* par exemple mais pas avec une magie qui révèle les vraies formes comme *[vision lucide](./Vision lucide.md)*). Il est considéré comme un [mort-vivant](./type Mort-vivant.md) en ce qui concerne la [canalisation d’énergie](./canalisation dénergie.md), les sorts de soins, de blessure mais pas les autres effets qui visent spécifiquement les [morts-vivants](./type Mort-vivant.md) ou réagissent différemment sur eux (comme *[lumière brûlante](./Lumière brûlante.md)*).
-- *Mort-vivant P.* Si le personnage prend la forme d’un [mort-vivant](./type Mort-vivant.md) [P](./taille P.md), il gagne un bonus de taille de +2 à la [Dextérité](./Dextérité.md) et de +1 à l’armure naturelle.
-- *Mort-vivant M.* Si le personnage prend la forme d’un [mort-vivant](./type Mort-vivant.md) [M](./taille M.md), il gagne un bonus de taille de +2 à la [Force](./Force.md) et de +2 à l’armure naturelle.
+Sous cette forme le personnage est détecté comme une créature [[type mort-vivant|morte-vivante]] (avec *[[détection des morts-vivants]]* par exemple mais pas avec une magie qui révèle les vraies formes comme *[[vision lucide]]*). Il est considéré comme un [[type mort-vivant|mort-vivant]] en ce qui concerne la [[canalisation dénergie|canalisation d’énergie]], les sorts de soins, de blessure mais pas les autres effets qui visent spécifiquement les [[type mort-vivant|morts-vivants]] ou réagissent différemment sur eux (comme *[[lumière brûlante]]*).
+- *Mort-vivant P.* Si le personnage prend la forme d’un [[type mort-vivant|mort-vivant]] [[taille P|P]], il gagne un bonus de taille de +2 à la [[Dextérité]] et de +1 à l’armure naturelle.
+- *Mort-vivant M.* Si le personnage prend la forme d’un [[type mort-vivant|mort-vivant]] [[taille M|M]], il gagne un bonus de taille de +2 à la [[Force]] et de +2 à l’armure naturelle.
 
 ))))))

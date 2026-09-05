@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 po ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Les lapins sont souvent élevés ou chassés pour leur viande et leur peau mais certaines personnes gardent ces mammifères espiègles comme animaux de compagnie. Bien qu’on le confonde souvent avec le lièvre, le lapin est complètement différent dans la mesure où il construit son foyer dans des terriers souterrains. Il est souvent plus petit que son cousin. Les lapins ont les mêmes statistiques que les [rats](./Rat.md).
+Les lapins sont souvent élevés ou chassés pour leur viande et leur peau mais certaines personnes gardent ces mammifères espiègles comme animaux de compagnie. Bien qu’on le confonde souvent avec le lièvre, le lapin est complètement différent dans la mesure où il construit son foyer dans des terriers souterrains. Il est souvent plus petit que son cousin. Les lapins ont les mêmes statistiques que les [[Rat|rats]].

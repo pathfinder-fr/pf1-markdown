@@ -9,14 +9,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [alchimiste](./Alchimiste.md) 2, [conjurateur](./Conjurateur.md) 2, [druide](./Druide.md) 2, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 2, [inquisiteur](./Inquisiteur.md) 2, [paladin](./Paladin.md) 2, [prêtre](./Prêtre.md) 2, [rôdeur](./Rôdeur.md) 1  
+**École** [[Abjuration]] ; **Niveau** [[alchimiste]] 2, [[conjurateur]] 2, [[druide]] 2, [[ensorceleur]]/[[magicien]] 2, [[inquisiteur]] 2, [[paladin]] 2, [[prêtre]] 2, [[rôdeur]] 1  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
 
-**Restriction de cible** *[choisi](./Choisi.md)*, *[personnel](./Personnel (mot de pouvoir).md)*
+**Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
-La cible d’un sort incluant cet effet bénéficie d’une [résistance](./Résistance (capacité).md) 10 contre un type d’énergie (acide, froid, électricité, feu ou son). Elle subit toujours les autres effets accompagnant parfois les dégâts d’énergie.
+La cible d’un sort incluant cet effet bénéficie d’une [[résistance (capacité)|résistance]] 10 contre un type d’énergie (acide, froid, électricité, feu ou son). Elle subit toujours les autres effets accompagnant parfois les dégâts d’énergie.
 
-**Augmentation.** La cible bénéficie d’une [résistance](./Résistance (capacité).md) 20 contre un type d’énergie.
+**Augmentation.** La cible bénéficie d’une [[résistance (capacité)|résistance]] 20 contre un type d’énergie.

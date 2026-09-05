@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Nuée calamiteuse#_1
 ---
 
->>> [Nuée calamiteuse#_1](./Nuée calamiteuse.md#_1)
+>>> [[Nuée calamiteuse#_1]]

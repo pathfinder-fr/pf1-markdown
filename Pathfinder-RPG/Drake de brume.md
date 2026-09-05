@@ -10,7 +10,7 @@ LastModified: 2021-04-05 14:08
 {s:pucem|Dragon|Collines|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 87*}
 - **1 600 PX**
-- [Dragon](./type Dragon.md) ([air](./sous-type Air.md)) de taille G, NM
+- [[type dragon|Dragon]] ([[sous-type air|air]]) de taille G, NM
 - **Init **+2 ; **Sens **odorat, vision dans le noir 18 m, vision malgré le brouillard, vision nocturne ; Perception +10
 (((Défense)))
 - **CA **19, contact 12, pris au dépourvu 16 (Dex +2, esquive +1, naturelle +7, taille -1)
@@ -25,8 +25,8 @@ LastModified: 2021-04-05 14:08
 (((Statistiques)))
 - **For **19, **Dex **15, **Con **16, **Int **9, **Sag **12, **Cha **10
 - **BBA **+6 ; **BMO **+11 ; **DMD **24
-- **Dons** [Attaque en vol](./Attaque en vol.md), [Esquive](./Esquive.md), [Vol stationnaire](./Vol stationnaire.md)
-- **Compétences **[Discrétion](./Discrétion.md) +7 (+15 dans la brume ou le brouillard), [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +10, [Survie](./Survie.md) +10, [Vol](./Vol.md) +9 ; **Modificateurs raciaux** +8 en Discrétion dans la brume ou le brouillard
+- **Dons** [[Attaque en vol]], [[Esquive]], [[Vol stationnaire]]
+- **Compétences **[[Discrétion]] +7 (+15 dans la brume ou le brouillard), [[Intimidation]] +9, [[Perception]] +10, [[Survie]] +10, [[Vol]] +9 ; **Modificateurs raciaux** +8 en Discrétion dans la brume ou le brouillard
 - **Langues **draconique
 - **Particularités **accélération soudaine, camouflage brumeux
 (((Écologie)))
@@ -40,7 +40,7 @@ LastModified: 2021-04-05 14:08
 - **Vision malgré le brouillard (Ext)**. Un drake de brume voit parfaitement à travers toute forme de brume, de brouillard ou de précipitations, naturels ou magiques.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [drakes](./Drake.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>
 *Les écailles grisâtres pommelées et les grandes ailes de ce dragon efflanqué pâlissent et changent de couleur pour se fondre dans la brume.*
 
 Les drakes de brume ne se montrent pas aussi agressifs que les autres car ils sont moins imposants qu’eux et possèdent une force physique moindre. Ils sont minces, avec un corps ophidien plus adapté aux frappes rapides et aux attaques éclairs qu’au combat rapproché.

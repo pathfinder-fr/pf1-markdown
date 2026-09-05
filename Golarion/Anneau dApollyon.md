@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Anneau dApollyon.md).***
+***Voir les [[Pathfinder-RPG.Anneau dApollyon|statistiques de cet artefact]].***
 
 Cet anneau ancien en os blanchi porte une étrange callosité sculptée représentant une tête de bélier à crocs.
 

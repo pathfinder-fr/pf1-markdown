@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le lien entre le personnage et l’eidolon l’aide à se concentrer. *
 
-**Condition.** Pouvoir de classe [protection d'allié](./Conjurateur.md#PROTECTIONDALLIE)
+**Condition.** Pouvoir de classe [[conjurateur#PROTECTIONDALLIE|protection d'allié]]
 
-**Avantage.** Quand le personnage est adjacent à son [eidolon](./eidolon.md), il reçoit un bonus de +4 aux tests de [Concentration](./concentration.md).
+**Avantage.** Quand le personnage est adjacent à son [[eidolon]], il reçoit un bonus de +4 aux tests de [[Concentration]].

@@ -14,18 +14,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Enchantement](./Enchantement.md)  <nowiki>[</nowiki>[émotion](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Enchantement]]  <nowiki>[</nowiki>[[registre|émotion]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature   
 
 **Durée** 1 heure/niveau  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-Le personnage inhibe la sensation de douleur de la cible. Les effets de douleur comme *[frappe douloureuse](./Frappe douloureuse.md) * et *[symbole de douleur](./Symbole de douleur.md) * n’affectent pas la cible tant que le sort n’est pas expiré. Ceci n’annule pas les dégâts physiques reçus ni les affaiblissements ou réductions de [caractéristiques](./Caractéristiques.md) causés par la douleur, mais le sort annule les malus à la douleur tant qu’il dure.
+Le personnage inhibe la sensation de douleur de la cible. Les effets de douleur comme *[[frappe douloureuse]] * et *[[symbole de douleur]] * n’affectent pas la cible tant que le sort n’est pas expiré. Ceci n’annule pas les dégâts physiques reçus ni les affaiblissements ou réductions de [[caractéristiques]] causés par la douleur, mais le sort annule les malus à la douleur tant qu’il dure.

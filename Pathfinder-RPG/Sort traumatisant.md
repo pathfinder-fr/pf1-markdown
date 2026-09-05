@@ -7,14 +7,14 @@ LastModified: 2017-12-14 20:31
 {s:AO}''Les créatures blessées par les sorts du personnage revivent
 leurs souffrances dans des cauchemars nocturnes.''
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[Dons#DONMETAMAGIE|métamagie]]
 
 **Avantage.** Un sort traumatisant laisse des souvenirs persistants
 de la douleur qu’il a provoquée. Quand une créature rate un jet
 de sauvegarde contre un sort traumatisant, elle doit réussir un
 jet de Volonté la prochaine fois qu’elle s’endort, contre un DD
 égal au DD du sort originel. Si elle échoue, elle est affectée par
-un *[cauchemar](./sort Cauchemar.md)*. À chaque fois qu’elle rate son jet de sauvegarde,
+un *[[sort cauchemar|cauchemar]]*. À chaque fois qu’elle rate son jet de sauvegarde,
 elle doit en faire un nouveau la nuit suivante ou être victime
 d’un nouveau cauchemar, bien que le DD diminue de 2 par nuit,
 après la première. Ce don de métamagie s’applique uniquement

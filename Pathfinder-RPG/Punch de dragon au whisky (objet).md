@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}**Prix** 10 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
-Selon la légende, l’inventeur de cet alcool sombre et âpre attaqua réellement un dragon à mains nues (et, de toute évidence, survécut pour transmettre sa recette). Les halfelins qui boivent quatre verres de punch de dragon au whisky en l’espace d’une heure reçoivent un malus de -4 à leurs jets de [Dextérité](./Dextérité.md), mais gagnent un bonus alchimique de +4 à leurs [jets de sauvegarde](./JDS.md) contre la terreur pendant les 10 prochaines minutes.
+Selon la légende, l’inventeur de cet alcool sombre et âpre attaqua réellement un dragon à mains nues (et, de toute évidence, survécut pour transmettre sa recette). Les halfelins qui boivent quatre verres de punch de dragon au whisky en l’espace d’une heure reçoivent un malus de -4 à leurs jets de [[Dextérité]], mais gagnent un bonus alchimique de +4 à leurs [[jds|jets de sauvegarde]] contre la terreur pendant les 10 prochaines minutes.

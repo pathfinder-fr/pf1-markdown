@@ -10,9 +10,9 @@ Categories:
 
 {s:mr}*Le personnage utilise sa magie innée pour créer des illusions mineures qui améliorent ses tentatives de duperie et de fourberie.*
 
-**Conditions.** [gnome](./Gnome.md), trait racial [magie gnome](./Gnome.md#MAGIEGNOME).
+**Conditions.** [[gnome]], trait racial [[gnome#MAGIEGNOME|magie gnome]].
 
-**Avantages.** Tant que le personnage n’a pas utilisé tous ses pouvoirs magiques quotidiens issus du trait racial magie gnome, il gagne un bonus racial de +2 aux tests de [Bluff](./Bluff.md), de [Déguisement](./Déguisement.md) et d’[Escamotage](./Escamotage.md). Au niveau 10, ces bonus
+**Avantages.** Tant que le personnage n’a pas utilisé tous ses pouvoirs magiques quotidiens issus du trait racial magie gnome, il gagne un bonus racial de +2 aux tests de [[Bluff]], de [[Déguisement]] et d’[[Escamotage]]. Au niveau 10, ces bonus
 passent à +4.
 
-**Spécial.** Ce don compte comme [Fourberie](./Fourberie.md) en ce qui concerne toutes les conditions.
+**Spécial.** Ce don compte comme [[Fourberie]] en ce qui concerne toutes les conditions.

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Vaillante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Vaillante](./Descriptions individuelles des propriétés spéciales des armes.md#Vaillante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Vaillante]]

@@ -11,9 +11,9 @@ Categories:
 
 {s:GC}*Grâce à vos créations architecturales très inspirées, votre nom devrait entrer dans les annales.*
 
-**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+**Catégorie.** [[Dons#DONHISTOIRE|histoire]]
 
-**Conditions.** 1 rang en [Connaissances](./Connaissances.md) (ingénierie) et la construction d’une structure valant au moins 5 000 po.
+**Conditions.** 1 rang en [[Connaissances]] (ingénierie) et la construction d’une structure valant au moins 5 000 po.
 
 **Avantages.** Quand vous supervisez la construction d’un projet ou que vous vous y attelez vous-même, vous réduisez le coût en matières premières de 10%. Vous gagnez un bonus de +2 en Connaissances (ingénierie). Si vous avez investi au moins dix rangs en Connaissances (ingénierie), ce bonus passe à +4.
 

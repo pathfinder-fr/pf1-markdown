@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Le personnage est capable discerner le meilleur chemin pour traverser les terrains rocheux.*
 
-**Conditions.** Trait racial [connaissance de la pierre](./Nain.md#CONNAISSANCEPIERRE), suivant de [Torag](./Torag (technique).md).
+**Conditions.** Trait racial [[Nain#CONNAISSANCEPIERRE|connaissance de la pierre]], suivant de [[Torag (technique)|Torag]].
 
-**Avantage.** Le personnage peut se déplacer sur n'importe quelle terrain rocheux non magique sans subir de dégâts, être ralenti à cause d'un [terrain difficile](./terrain difficile.md) ou souffrir d'autres handicaps que le terrain causerait normalement.
+**Avantage.** Le personnage peut se déplacer sur n'importe quelle terrain rocheux non magique sans subir de dégâts, être ralenti à cause d'un [[terrain difficile]] ou souffrir d'autres handicaps que le terrain causerait normalement.

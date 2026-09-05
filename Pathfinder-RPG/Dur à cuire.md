@@ -8,12 +8,12 @@ Categories:
 
 *Le personnage est particulièrement difficile à tuer. Ses blessures se stabilisent automatiquement quand il est grièvement blessé mais, en plus, même aux portes de la mort, il reste conscient et peut continuer de bouger.*
 
-**Condition.** [Endurance](./Endurance.md).
+**Condition.** [[Endurance]].
 
-**Avantage.** Lorsque les [points de vie](./pv.md) du personnage tombent en dessous de 0 mais qu’il n’est pas [mort](./Mort.md), il se [stabilise](./Stable.md) automatiquement. Il n’a pas besoin de faire de test de [Constitution](./Constitution.md) à chaque round pour ne pas perdre de points de vie supplémentaires. Il peut choisir d’être [hors de combat](./Hors de combat.md) plutôt que [mourant](./Mourant.md). Le joueur doit prendre cette décision dès que son personnage atteint un total de points de vie négatif (même si cela arrive en dehors de son [tour](./tour.md) de jeu). Si le personnage ne choisit pas d'être [hors de combat](./Hors de combat.md), il tombe aussitôt [inconscient](./Inconscient.md).
+**Avantage.** Lorsque les [[pv|points de vie]] du personnage tombent en dessous de 0 mais qu’il n’est pas [[mort]], il se [[stable|stabilise]] automatiquement. Il n’a pas besoin de faire de test de [[Constitution]] à chaque round pour ne pas perdre de points de vie supplémentaires. Il peut choisir d’être [[hors de combat]] plutôt que [[mourant]]. Le joueur doit prendre cette décision dès que son personnage atteint un total de points de vie négatif (même si cela arrive en dehors de son [[tour]] de jeu). Si le personnage ne choisit pas d'être [[hors de combat]], il tombe aussitôt [[inconscient]].
 
-Lorsqu’il utilise ce don, le personnage est [chancelant](./Chancelant.md). Effectuer une [action de mouvement](./Action de mouvement.md) n’aggrave pas ses blessures, mais s’il entreprend une [action simple](./Action simple.md) (ou toute autre action fatigante, y compris certaines [actions libres](./Action libre.md) comme lancer un sort à [incantation rapide](./Incantation rapide.md)), le personnage subit 1 point de dégâts aussitôt après avoir accompli son action. Le personnage meurt immédiatement si son total de points de vie négatif atteint ou dépasse sa valeur de [Constitution](./Constitution.md).
+Lorsqu’il utilise ce don, le personnage est [[chancelant]]. Effectuer une [[action de mouvement]] n’aggrave pas ses blessures, mais s’il entreprend une [[action simple]] (ou toute autre action fatigante, y compris certaines [[action libre|actions libres]] comme lancer un sort à [[incantation rapide]]), le personnage subit 1 point de dégâts aussitôt après avoir accompli son action. Le personnage meurt immédiatement si son total de points de vie négatif atteint ou dépasse sa valeur de [[Constitution]].
 
-**Normal.** Un personnage ne possédant pas ce don suit les règles habituelles : il est [mourant](./Mourant.md) et [inconscient](./Inconscient.md) lorsque son total de [points de vie](./pv.md) tombe en dessous de 0.
+**Normal.** Un personnage ne possédant pas ce don suit les règles habituelles : il est [[mourant]] et [[inconscient]] lorsque son total de [[pv|points de vie]] tombe en dessous de 0.
 
-(((Ce don possède une variante [Dur à cuire (alternatif)](./Dur à cuire (alternatif).md) pour utilisation avec les règles alternatives «&nbsp;[Blessures et vitalité](./Blessures et vitalité.md)&nbsp;» de l’*Art de la Guerre*)))
+(((Ce don possède une variante [[Dur à cuire (alternatif)]] pour utilisation avec les règles alternatives «&nbsp;[[Blessures et vitalité]]&nbsp;» de l’*Art de la Guerre*)))

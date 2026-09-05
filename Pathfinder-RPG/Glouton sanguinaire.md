@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Froid}
 {s:BDTexte|*Source : Bestiaire p.160*}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +7 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 13 (Dex +3, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 42 (5d8+20)}
@@ -27,15 +27,15 @@ Categories:
 {s:BDTexte|**Attaques spéciales** rage}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 17, **Con** 17, **Int** 2, **Sag** 12, **Cha** 10}
-{s:BDTexte|**BBA** +3, **BMO** +8, **DMD** 21 (25 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +12, [Perception](./Perception.md) +12}
+{s:BDTexte|**BBA** +3, **BMO** +8, **DMD** 21 (25 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Escalade]] +12, [[Perception]] +12}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts froides}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Rage (Ext).** Lorsqu'un glouton sanguinaire est blessé au combat, il se laisse gagner par la frénésie au cours de son prochain tour, griffant et mordant à tout va jusqu'à la mort de son adversaire. Il gagne un bonus de +4 en [Force](./Force.md) et en [Constitution](./Constitution.md) et un malus de -2 à la [CA](./CA.md). La créature ne peut pas décider d'elle même de mettre un terme à cette rage.}
+{s:BDTexte|**Rage (Ext).** Lorsqu'un glouton sanguinaire est blessé au combat, il se laisse gagner par la frénésie au cours de son prochain tour, griffant et mordant à tout va jusqu'à la mort de son adversaire. Il gagne un bonus de +4 en [[Force]] et en [[Constitution]] et un malus de -2 à la [[CA]]. La créature ne peut pas décider d'elle même de mettre un terme à cette rage.}
 </div>
 </td><td><div>*Cet horrible glouton de la taille d’un ours possède des mâchoires et des griffes immenses et puissantes, et des yeux noirs emplis de rage.*
 

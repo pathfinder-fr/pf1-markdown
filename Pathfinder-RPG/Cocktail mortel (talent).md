@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#COCKTAILMORTEL
 ---
 
->>> [Talents#COCKTAILMORTEL](./Talents.md#COCKTAILMORTEL)
+>>> [[Talents#COCKTAILMORTEL]]

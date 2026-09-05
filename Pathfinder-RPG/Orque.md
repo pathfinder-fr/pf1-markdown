@@ -14,9 +14,9 @@ Categories:
 {s:pucem|Humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.233}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|Orque, [homme d'arme](./Homme darme.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, CM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) -1}
+{s:BDTexte|Orque, [[homme darme|homme d'arme]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, CM}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] -1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 10, pris au dépourvu 13 (armure +3)}
 {s:BDTexte|**pv** 6 (1d10+1)}
@@ -30,8 +30,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 11, **Con** 12, **Int** 7, **Sag** 8, **Cha** 6}
 {s:BDTexte|**BBA** +1, **BMO** +4, **DMD** 14}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (cimeterre à deux mains)}
-{s:BDTexte|**Compétences** [Intimidation](./Intimidation.md) +2}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (cimeterre à deux mains)}
+{s:BDTexte|**Compétences** [[Intimidation]] +2}
 {s:BDTexte|**Langues** commun, orque}
 {s:BDTexte|**Particularités** armes familières}
 {s:BDSousTitre|Écologie}
@@ -47,29 +47,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Orque](./Orque.md) || 1/3
+| [[Orque]] || 1/3
 |-
-| [Sergent orque](./Sergent orque.md) || 2
+| [[Sergent orque]] || 2
 |-
-| [Mystique orque](./Mystique orque.md) || 2
+| [[Mystique orque]] || 2
 |-
-| [Brigand orque](./Brigand orque.md) || 3
+| [[Brigand orque]] || 3
 |-
-| [Tambour de guerre orque](./Tambour de guerre orque.md) || 3
+| [[Tambour de guerre orque]] || 3
 |-
-| [Lieutenant orque](./Lieutenant orque.md) || 4
+| [[Lieutenant orque]] || 4
 |-
-| [Éclaireur orque](./Éclaireur orque.md) || 5
+| [[Éclaireur orque]] || 5
 |-
-| [Chevaucheur de gorthek](./Chevaucheur de gorthek.md) || 6
+| [[Chevaucheur de gorthek]] || 6
 |-
-| [Seigneur de guerre orque (barbare)](./Seigneur de guerre orque (barbare).md) || 6
+| [[Seigneur de guerre orque (barbare)]] || 6
 |-
-| [Gorthek](./Gorthek.md) || 7
+| [[Gorthek]] || 7
 |-
-| [Sorcier docteur orque](./Sorcier docteur orque.md) || 8
+| [[Sorcier docteur orque]] || 8
 |-
-| [Seigneur de guerre orque (guerrier)](./Seigneur de guerre orque (guerrier).md) || 9
+| [[Seigneur de guerre orque (guerrier)]] || 9
 |}
 </div>''Cette créature sauvage ressemble à un humain en plus bestial, avec une
 peau entre le vert et le gris et des cheveux noirs et graisseux.''
@@ -107,10 +107,10 @@ supérieure font d’excellents stratèges et de bons chefs de tribus.
 Les orques ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classes. Leurs traits raciaux sont les suivants.
 - **+4 Force, -2 Intelligence, -2 Sagesse, -2 Charisme.** Les orques sont brutaux et sauvages.
 - **Apprentissage martial.** Les orques sont automatiquement formés au maniement des grandes haches et des cimeterres à deux mains. Ils traitent toutes les armes dont le nom comporte le mot "orque" comme des armes de guerre.
-- **Férocité.** Voir la section [férocité](./Férocité (capacité).md).
-- **Sensibilité à la lumière.** Voir la section [Sensibilité à la lumière](./Sensibilité à la lumière.md).
+- **Férocité.** Voir la section [[Férocité (capacité)|férocité]].
+- **Sensibilité à la lumière.** Voir la section [[Sensibilité à la lumière]].
 - **Vision dans le noir.** Les orques voient dans le noir jusqu'à 18 m (12 {s:c}).
-- **Langues.** Les orques parlent automatiquement le commun et l'orque. S'ils disposent d'une [Intelligence](./Intelligence.md) élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : commun des profondeurs, géant, gnoll, gobelin, nain.
+- **Langues.** Les orques parlent automatiquement le commun et l'orque. S'ils disposent d'une [[Intelligence]] élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : commun des profondeurs, géant, gnoll, gobelin, nain.
 
-{s:VoirAussiAvant}La page de la race [Orque](./orque (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Orque (race)|Orque]]{s:VoirAussiAprès}
 </div></td></tr></table>

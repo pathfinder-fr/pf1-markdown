@@ -10,9 +10,9 @@ Categories:
 
 {s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}<div class="BD">
 {s:BDTitre|Manteau en kimlé|{s:ISG}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 2 300 po ; **Poids** 7,5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Prix** 2 300 po ; **Poids** 7,5 kg
 (((Description)))
-{s:cs}Cette *[armure de cuir](./armure de cuir (armure).md) +1* est faite de [kimlé](./Gozreh (technique).md) et ressemble à un manteau léger et confortable avec une frange inférieure en lambeaux en forme d'algue. Le porteur d'un *manteau en kimlé* bénéficie d'un bonus de +5 aux tests de [Natation](./Natation.md). Une fois par jour, il peut respirer l'eau pendant 1 minute.
+{s:cs}Cette *[[armure de cuir (armure)|armure de cuir]] +1* est faite de [[Gozreh (technique)|kimlé]] et ressemble à un manteau léger et confortable avec une frange inférieure en lambeaux en forme d'algue. Le porteur d'un *manteau en kimlé* bénéficie d'un bonus de +5 aux tests de [[Natation]]. Une fois par jour, il peut respirer l'eau pendant 1 minute.
 (((Création)))
-**Conditions** [Création d'armes et armures magiques](./Création darmes et armures magiques.md), *[respiration aquatique](./Respiration aquatique.md)*, le créateur doit avoir 5 rangs en [Natation](./Natation.md) ; **Coût** 1 230 po
+**Conditions** [[Création darmes et armures magiques|Création d'armes et armures magiques]], *[[respiration aquatique]]*, le créateur doit avoir 5 rangs en [[Natation]] ; **Coût** 1 230 po
 </div>

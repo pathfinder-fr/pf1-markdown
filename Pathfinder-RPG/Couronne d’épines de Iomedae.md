@@ -6,7 +6,7 @@ Categories:
 - Objet mag artefact
 ---
 
-<div style="float:right">***Retour aux [Artefacts](./Artefacts.md).***</div>
+<div style="float:right">***Retour aux [[Artefacts]].***</div>
 <div class="BD">
 {s:BDTitre|Couronne d’épines de l’Héritière|}
 **Aura** invocation et évocation écrasantes ; **NLS** 21 ; **Emplacement** tête ; **Poids** 0,5 kg

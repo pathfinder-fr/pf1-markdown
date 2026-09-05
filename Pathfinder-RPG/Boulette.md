@@ -13,18 +13,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) ; **Niveau** [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1   
+**École** [[Enchantement]] ([[branche coercition|coercition]]) ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1   
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** un humanoïde  
 
-**Durée** [concentration](./Présentation des sorts.md#DUREE) + 2 [rounds](./round.md) ou jusqu’à déclenchement  
+**Durée** [[Présentation des sorts#DUREE|concentration]] + 2 [[round|rounds]] ou jusqu’à déclenchement  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-La cible reçoit un malus de -20 au prochain [jet d’attaque](./jet dattaque.md) ou [test](./test de compétence.md) nécessitant un jet de d20. Il doit s’agir d’une action que la cible entreprend volontairement à son tour. Ce sort n’affecte pas les créatures qui possèdent plus de 10 [DV](./../Ressources/DV.md).
+La cible reçoit un malus de -20 au prochain [[jet dattaque|jet d’attaque]] ou [[test de compétence|test]] nécessitant un jet de d20. Il doit s’agir d’une action que la cible entreprend volontairement à son tour. Ce sort n’affecte pas les créatures qui possèdent plus de 10 [[DV]].

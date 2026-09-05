@@ -11,13 +11,13 @@ Categories:
 
 <div class="BD">
 {s:APG}{s:BDTitre|Diadème de la lune|}
-**Aura** [Évocation](./Évocation.md) puissante ; **NLS** 15 ; **Emplacement** [front](./Objets merveilleux portés sur le front.md) ; **Prix** 20 000 po ; **Poids** —
+**Aura** [[Évocation]] puissante ; **NLS** 15 ; **Emplacement** [[Objets merveilleux portés sur le front|front]] ; **Prix** 20 000 po ; **Poids** —
 (((Description)))
-Ce mince diadème d’argent est généralement serti d’une pierre de lune ou gravé d’un croissant. Son porteur bénéficie de la [vision dans le noir](./Capacités spéciales.md#VISIONDANSLENOIR) à 18 mètres (12 {s:c}) (s’il ne l’avait pas déjà). Ses avantages supplémentaires ne servent qu’aux lanceurs de sorts profanes.
+Ce mince diadème d’argent est généralement serti d’une pierre de lune ou gravé d’un croissant. Son porteur bénéficie de la [[Capacités spéciales#VISIONDANSLENOIR|vision dans le noir]] à 18 mètres (12 {s:c}) (s’il ne l’avait pas déjà). Ses avantages supplémentaires ne servent qu’aux lanceurs de sorts profanes.
 
-Pendant la lune croissante, le personnage est considéré comme étant d’un [niveau de lanceur de sorts](./NLS.md) supérieur en ce qui concerne les tests de [niveau de lanceur de sorts](./NLS.md) et les effets de sorts. Pendant les trois nuits de pleine lune, l’augmentation est de deux [niveaux de lanceur de sorts](./NLS.md). Cependant, cette puissance à un prix. Pendant la lune décroissante, le personnage est considéré comme étant d’un [niveau de lanceur de sorts](./NLS.md) inférieur en ce qui concerne les tests de [niveau de lanceur de sorts](./NLS.md) et les effets de sorts. Pendant les trois nuits de nouvelle lune, la baisse est de deux [niveaux de lanceur de sorts](./NLS.md).
+Pendant la lune croissante, le personnage est considéré comme étant d’un [[NLS|niveau de lanceur de sorts]] supérieur en ce qui concerne les tests de [[NLS|niveau de lanceur de sorts]] et les effets de sorts. Pendant les trois nuits de pleine lune, l’augmentation est de deux [[NLS|niveaux de lanceur de sorts]]. Cependant, cette puissance à un prix. Pendant la lune décroissante, le personnage est considéré comme étant d’un [[NLS|niveau de lanceur de sorts]] inférieur en ce qui concerne les tests de [[NLS|niveau de lanceur de sorts]] et les effets de sorts. Pendant les trois nuits de nouvelle lune, la baisse est de deux [[NLS|niveaux de lanceur de sorts]].
 
-Si le personnage retire son diadème de la lune, il reçoit deux [niveaux négatifs](./niveau négatif.md) jusqu’à la prochaine pleine lune (ou jusqu’à ce qu’il remette le diadème). Il est impossible de restaurer ces niveaux à moins d’user d’un *[souhait limité](./Souhait limité.md)*, *[souhait](./Souhait.md)* ou *[miracle](./Miracle.md)*.
+Si le personnage retire son diadème de la lune, il reçoit deux [[niveau négatif|niveaux négatifs]] jusqu’à la prochaine pleine lune (ou jusqu’à ce qu’il remette le diadème). Il est impossible de restaurer ces niveaux à moins d’user d’un *[[souhait limité]]*, *[[souhait]]* ou *[[miracle]]*.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[vision dans le noir](./vision dans le noir.md)*, *[lumière](./Lumière.md)* ; **Coût**  10 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[vision dans le noir]]*, *[[lumière]]* ; **Coût**  10 000 po
 </div>

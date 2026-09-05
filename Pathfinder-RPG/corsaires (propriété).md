@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Corsaires
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Corsaires](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Corsaires)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Corsaires]]

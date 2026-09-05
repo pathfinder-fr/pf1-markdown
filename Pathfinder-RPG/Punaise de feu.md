@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.49}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille P, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] de taille P, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 12, contact 11, pris au dépourvu 12 (naturelle +1, taille +1)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -27,7 +27,7 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 11, **Con** 11, **Int** -, **Sag** 10, **Cha** 7}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 9 (17 contre le croc-en-jambe)}
-{s:BDTexte|**Compétences** [Vol](./Vol.md) -2}
+{s:BDTexte|**Compétences** [[Vol]] -2}
 {s:BDTexte|**Particularités** luminescence}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
@@ -42,13 +42,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Charançon géant](./Charançon géant.md) || 4
+| [[Charançon géant]] || 4
 |-
-| [Coléoptère goliath](./Coléoptère goliath.md) || 8
+| [[Coléoptère goliath]] || 8
 |-
-| [Coléoptère tranchoir](./Coléoptère tranchoir.md) || 4
+| [[Coléoptère tranchoir]] || 4
 |-
-| [Punaise de feu](./Punaise de feu.md) || 1/3
+| [[Punaise de feu]] || 1/3
 |}
 </div>''Ce coléoptère de la taille d’un chat possède une carapace brun terne garnie
 de deux taches luisantes de couleur vert-jaune.''
@@ -60,12 +60,12 @@ utilisent souvent des punaises de feu enfermées dans une cage
 comme source de lumière de longue durée.
 
 Il existe d’autres variétés de punaises de feu. Les deux variantes les plus répandues sont décrites ci-dessous.
-- **Scarabée-flash (FP 1/2).** Un scarabée-flash est une punaise de feu [évoluée](./archétypes simples.md#CREATUREEVOLUEE) qui peut créer un éclair de lumière brillante une fois par heure. Cet éclair se répand en un rayonnement de 3 m (2 {s:c}) et force toutes les créatures présentes dans la zone à effectuer un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 12 pour ne pas être [éblouies](./Ébloui.md) pendant 1d3 rounds. Ce [DD](./DD.md) dépend de la [Constitution](./Constitution.md).
+- **Scarabée-flash (FP 1/2).** Un scarabée-flash est une punaise de feu [[archétypes simples#CREATUREEVOLUEE|évoluée]] qui peut créer un éclair de lumière brillante une fois par heure. Cet éclair se répand en un rayonnement de 3 m (2 {s:c}) et force toutes les créatures présentes dans la zone à effectuer un jet de [[Vigueur]] de [[DD]] 12 pour ne pas être [[ébloui|éblouies]] pendant 1d3 rounds. Ce [[DD]] dépend de la [[Constitution]].
 
-- **Scarabée mineur (FP 1/2).** Un scarabée mineur est une punaise de feu sur laquelle on a appliqué l'archétype simple "[évolué](./archétypes simples.md#CREATUREEVOLUEE)". Il possède une vitesse de creusement de 6 m (4 {s:c}).
+- **Scarabée mineur (FP 1/2).** Un scarabée mineur est une punaise de feu sur laquelle on a appliqué l'archétype simple "[[archétypes simples#CREATUREEVOLUEE|évolué]]". Il possède une vitesse de creusement de 6 m (4 {s:c}).
 
 #### La punaise de feu comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), vol 6 m (4 {s:c}) (médiocre) ;  **Attaque** morsure (1d6) ; **Particularité** [vision dans le noir](./vision dans le noir.md) ; **DMD** croc-en-jambe +8; **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 12, [Con](./Constitution.md) 13, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 11, [Cha](./Charisme.md) 4 ; **CA** armure naturelle +6
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), vol 6 m (4 {s:c}) (médiocre) ;  **Attaque** morsure (1d6) ; **Particularité** [[vision dans le noir]] ; **DMD** croc-en-jambe +8; **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 12, [[Constitution|Con]] 13, [[Intelligence|Int]] –, [[Sagesse|Sag]] 11, [[Charisme|Cha]] 4 ; **CA** armure naturelle +6
 
-**Développement au niveau 4.** **Taille** M; **Attaque** morsure (1d8); **Attaque spéciale** [piétinement](./Piétinement.md) (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2
+**Développement au niveau 4.** **Taille** M; **Attaque** morsure (1d8); **Attaque spéciale** [[piétinement]] (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2
 </div></td></tr></table>

@@ -10,33 +10,33 @@ LastModified: 2026-04-25 17:41
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.35*}
 {s:BDTexte|**PX** 6400}
-{s:BDTexte|[Duergar](./Duergar.md) [roublard](./Roublard.md) 6/[maître des ombres](./Maître des ombres.md) 4}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([nain](./sous-type nain.md)) de taille M, LM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [Perception](./Perception.md) +16}
+{s:BDTexte|[[Duergar]] [[roublard]] 6/[[maître des ombres]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type nain|nain]]) de taille M, LM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}), [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 15, pris au dépourvu 17 (armure +5, Dex +3, esquive +1, naturelle +1, parade +1)}
 {s:BDTexte|**pv** 64 (10d8+16)}
 {s:BDTexte|**Réf** +11, **Vig** +5, **Vol** +7 ; +2 contre les sorts}
-{s:BDTexte|**Capacités défensives** [esquive instinctive supérieure](./Roublard.md#ESQUIVEINSTINCTIVESUPERIEURE), [esquive totale](./Roublard.md#ESQUIVETOTALE), [sens des pièges](./Roublard.md#SENSDESPIEGES) +2 ; **Immunité** fantasme, paralysie, poison}
+{s:BDTexte|**Capacités défensives** [[Roublard#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]], [[Roublard#ESQUIVETOTALE|esquive totale]], [[Roublard#SENSDESPIEGES|sens des pièges]] +2 ; **Immunité** fantasme, paralysie, poison}
 {s:BDTexte|**Faiblesses** sensible à la lumière}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** *épée courte +1*, +11/+6 (1d6+2/19-20)}
-{s:BDTexte|**Distance** *arbalète légère d’esclavagiste +1*, +11 (1d4+1 non létaux/19-20 plus [enchevêtrement](./Enchevêtré.md))}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +3d6}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 10 ; [concentration](./concentration.md) +7)}
-{s:BDSorts|1/jour — *[invisibilité](./Invisibilité.md)* (sur soi uniquement), *[peau en fer](./Peau en fer.md)*}
-{s:BDTexte|**Pouvoirs magiques de maître des ombres** ([NLS](./NLS.md) 4 ; [concentration](./concentration.md) +1)}
-{s:BDSorts|2/jour — *[ombres illusoires](./Maître des ombres.md#OMBRESILLUSOIRES)* (DD 8)}
-{s:BDSorts|1/jour — *[convocation d’ombre](./Maître des ombres.md#CONVOCATIONDOMBRE)* (DD 11)}
+{s:BDTexte|**Distance** *arbalète légère d’esclavagiste +1*, +11 (1d4+1 non létaux/19-20 plus [[enchevêtré|enchevêtrement]])}
+{s:BDTexte|**Attaques spéciales** [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +3d6}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 10 ; [[concentration]] +7)}
+{s:BDSorts|1/jour — *[[invisibilité]]* (sur soi uniquement), *[[peau en fer]]*}
+{s:BDTexte|**Pouvoirs magiques de maître des ombres** ([[NLS]] 4 ; [[concentration]] +1)}
+{s:BDSorts|2/jour — *[[maître des ombres#OMBRESILLUSOIRES|ombres illusoires]]* (DD 8)}
+{s:BDSorts|1/jour — *[[maître des ombres#CONVOCATIONDOMBRE|convocation d’ombre]]* (DD 11)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 17, **Con** 12, **Int** 12, **Sag** 16, **Cha** 4}
 {s:BDTexte|**BBA** +7, **BMO** +8, **DMD** 23 (27 contre la bousculade ou le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Maniement des armes exotiques](./Maniement dune arme exotique.md) (arbalète d’esclavagiste), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md), [Tir à bout portant](./Tir à bout portant.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +15 (+11 pour sauter), [Connaissances](./Connaissances.md) (exploration souterraine) +10, [Discrétion](./Discrétion.md) +15, [Escalade](./Escalade.md) +9, [Escamotage](./Escamotage.md) +15, [Évasion](./Évasion.md) +15, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +16, [Représentation](./Représentation.md) (danse) +2, [Sabotage](./Sabotage.md) +12, [Survie](./Survie.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Attaques réflexes]], [[Esquive]], [[Maniement dune arme exotique|Maniement des armes exotiques]] (arbalète d’esclavagiste), [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]], [[Tir à bout portant]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +15 (+11 pour sauter), [[Connaissances]] (exploration souterraine) +10, [[Discrétion]] +15, [[Escalade]] +9, [[Escamotage]] +15, [[Évasion]] +15, [[Perception]] +16, [[Psychologie]] +16, [[Représentation]] (danse) +2, [[Sabotage]] +12, [[Survie]] +4}
 {s:BDTexte|**Langues** commun, commun des profondeurs, nain}
-{s:BDTexte|**Particularités** [à peau de fer](./Duergar.md#TRAITSALTERNATIFS), [appel du compagnon d’ombre](./Maître des ombres.md#APPELDUCOMPAGNONDOMBRE), [discrétion totale](./Maître des ombres.md#DISCRETIONTOTALE), [lentement mais sûrement](./Duergar.md), [recherche des pièges](./Roublard.md#RECHERCHEDESPIEGES) +3, [stabilité](./Duergar.md), [talents de roublard](./Talents.md) ([botte secrète](./Talents.md#BOTTESECRETE), [debout](./Talents.md#DEBOUT), [discret et rapide](./Talents.md#DISCRETETRAPIDE), [roublard en finesse](./Talents.md#ROUBLARDENFINESSE)), [téléportation par les ombres](./Maître des ombres.md#TELEPORTATIONPARLESOMBRES) (12 m / 8 {s:c})}
-{s:BDTexte|**Équipement de combat** *[potions](./Potions magiques.md) de [soins modérés](./Soins modérés.md)* (2), [sacoches immobilisantes](./Sacoche immobilisante (objet).md) (2) ; **Équipement divers** *[chemise de mailles +1](./chemise de mailles (armure).md)*, *[arbalète légère d’esclavagiste +1](./arbalète légère desclavagiste (arme).md)* avec 10 [carreaux bolas](./carreaux bolas (arme).md), *[épée courte +1](./épée courte (arme).md)*, *[amulette d’armure naturelle +1](./Amulette darmure naturelle.md)*, *[cape de résistance +1](./Cape de résistance.md)*, *[anneau de protection +1](./Anneau de protection.md)*, [menottes de maître](./Menottes (objet).md) (2), [outils de cambrioleur de qualité supérieure](./Outils de cambrioleur (objet).md), 720 po}
+{s:BDTexte|**Particularités** [[Duergar#TRAITSALTERNATIFS|à peau de fer]], [[maître des ombres#APPELDUCOMPAGNONDOMBRE|appel du compagnon d’ombre]], [[maître des ombres#DISCRETIONTOTALE|discrétion totale]], [[Duergar|lentement mais sûrement]], [[Roublard#RECHERCHEDESPIEGES|recherche des pièges]] +3, [[Duergar|stabilité]], [[talents|talents de roublard]] ([[Talents#BOTTESECRETE|botte secrète]], [[Talents#DEBOUT|debout]], [[Talents#DISCRETETRAPIDE|discret et rapide]], [[Talents#ROUBLARDENFINESSE|roublard en finesse]]), [[maître des ombres#TELEPORTATIONPARLESOMBRES|téléportation par les ombres]] (12 m / 8 {s:c})}
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potions]] de [[soins modérés]]* (2), [[sacoche immobilisante (objet)|sacoches immobilisantes]] (2) ; **Équipement divers** *[[chemise de mailles (armure)|chemise de mailles +1]]*, *[[arbalète légère desclavagiste (arme)|arbalète légère d’esclavagiste +1]]* avec 10 [[carreaux bolas (arme)|carreaux bolas]], *[[épée courte (arme)|épée courte +1]]*, *[[amulette darmure naturelle|amulette d’armure naturelle +1]]*, *[[cape de résistance|cape de résistance +1]]*, *[[anneau de protection|anneau de protection +1]]*, [[menottes (objet)|menottes de maître]] (2), [[Outils de cambrioleur (objet)|outils de cambrioleur de qualité supérieure]], 720 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -44,31 +44,31 @@ LastModified: 2026-04-25 17:41
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Duergar](./Duergar.md) || 1/3
+| [[Duergar]] || 1/3
 |-
-| [Esclavagiste duergar](./Esclavagiste duergar.md) || 1/2
+| [[Esclavagiste duergar]] || 1/2
 |-
-| [Tireur d'élite duergar](./Tireur délite duergar.md) || 1/2
+| [[Tireur délite duergar|Tireur d'élite duergar]] || 1/2
 |-
-| [Bombardier duergar](./Bombardier duergar.md) || 1
+| [[Bombardier duergar]] || 1
 |-
-| [Enclume duergar](./Enclume duergar.md) || 1
+| [[Enclume duergar]] || 1
 |-
-| [Sergent duergar](./Sergent duergar.md) || 1
+| [[Sergent duergar]] || 1
 |-
-| [Scarabée crache-noir](./Scarabée crache-noir.md) || 3
+| [[Scarabée crache-noir]] || 3
 |-
-| [Lieutenant duergar](./Lieutenant duergar.md) || 5
+| [[Lieutenant duergar]] || 5
 |-
-| [Capitaine duergar](./Capitaine duergar.md) || 8
+| [[Capitaine duergar]] || 8
 |-
-| [Maître de corvée duergar](./Maître de corvée duergar.md) || 9
+| [[Maître de corvée duergar]] || 9
 |-
-| [Marteau duergar](./Marteau duergar.md) || 11
+| [[Marteau duergar]] || 11
 |-
-| [Grand prêtre duergar](./Grand prêtre duergar.md) || 12
+| [[Grand prêtre duergar]] || 12
 |-
-| [Scarabée juggernaut](./Scarabée juggernaut.md) || 14
+| [[Scarabée juggernaut]] || 14
 |-
 |}
 </div> Les roublards duergars sont avant tout chargés de capturer

@@ -4,7 +4,7 @@ Title: Campagne basé sur le Mythe de HP Lovecraft
 LastModified: 2012-11-22 13:41
 ---
 
-[^http://www.pathfinder-fr.org/Forum/yaf_topics190_Campagne-de-Yog-Sothoth.aspx|Topic de la campagne ds le forum]
+[Topic de la campagne ds le forum](http://www.pathfinder-fr.org/Forum/yaf_topics190_Campagne-de-Yog-Sothoth.aspx)
 
 ### Inspirations, idées en vracs
 J'aimerai donc créer une campagne de la taille d'une AP avec en toile de fond les éléments suivants (inspiration) :
@@ -28,7 +28,7 @@ Chaque chapitre  de la campagne sera basé sur une zone géographique :
 1. Mystère... (si si j'ai une idée)
 
 ### Quelques images inspiratrices
-[^http://digital-art-gallery.com/picture/787|Cité inquiétante][^http://digital-art-gallery.com/picture/787|Cité inquiétante][^http://digital-art-gallery.com/picture/4235|Maison de sorcière][^http://digital-art-gallery.com/picture/9100|Village lacuste][^http://digital-art-gallery.com/picture/147|Marais][^http://digital-art-gallery.com/picture/4482|chemin dans les marais][^http://digital-art-gallery.com/picture/6743|Village][^http://digital-art-gallery.com/picture/3401|Venu d'ailleurs ?][^http://digital-art-gallery.com/picture/11439|créature][^http://digital-art-gallery.com/picture/2545|créature 2][^http://digital-art-gallery.com/picture/6730|Sorcière][^http://digital-art-gallery.com/picture/1636|Goules][^http://digital-art-gallery.com/picture/4971|Carrion Hill]
+[Cité inquiétante](http://digital-art-gallery.com/picture/787)[Cité inquiétante](http://digital-art-gallery.com/picture/787)[Maison de sorcière](http://digital-art-gallery.com/picture/4235)[Village lacuste](http://digital-art-gallery.com/picture/9100)[Marais](http://digital-art-gallery.com/picture/147)[chemin dans les marais](http://digital-art-gallery.com/picture/4482)[Village](http://digital-art-gallery.com/picture/6743)[Venu d'ailleurs ?](http://digital-art-gallery.com/picture/3401)[créature](http://digital-art-gallery.com/picture/11439)[créature 2](http://digital-art-gallery.com/picture/2545)[Sorcière](http://digital-art-gallery.com/picture/6730)[Goules](http://digital-art-gallery.com/picture/1636)[Carrion Hill](http://digital-art-gallery.com/picture/4971)
 
 ### Introduction
 **Traits de campagne et sombres secrets**
@@ -67,7 +67,7 @@ Très librement inspiré des nouvelles de HP Lovecraft, des univers de Silent Hi
 Psychologie individuelle et collective. Peur, péché, lutte contre soi-même. Faire découvrir aux joueurs un aspect caché de leur personnage. Les joueurs devront accepter qu'ils ne maîtrisent pas complétement le passé de leur personnage. Découverte d'habitants, de créature et de divinités d'un autre monde (Hastur, Yog Sothoth, Shub Niggurath, etc.)
 
 **Synopsis** :{br}
-Les PJs découvrent qu'ils ont tous été les patients du docteur Sigmund Reud, un elfe occultiste et soigneur de maladies mentales qui habitait Dague, dans les royaumes fluviaux. A sa mort, ils sont convoqués et chacun reçoit [^{UP(Informations.campagneYogSothoth)}Lettre du Dr Sigmund Reud.pdf|une lettre] dans laquelle le professeur s’excuse du « mal » qu’il leur à fait. La lettre explique à chacun que leur mémoire a été altérée pour leur bien mais que leur rédemption, et leur guérison (ce qu’y sous-entend qu’ils ne sont pas guéris mais aussi qu'ils doivent se repentir) sera possible en allant au village de Waterfall près du bois de l'écho dans le nord-ouest des Royaumes fluviaux. La lettre reste silencieuse sur le pourquoi et le comment.{br}
+Les PJs découvrent qu'ils ont tous été les patients du docteur Sigmund Reud, un elfe occultiste et soigneur de maladies mentales qui habitait Dague, dans les royaumes fluviaux. A sa mort, ils sont convoqués et chacun reçoit [[{UP(Informations.campagneYogSothoth)}Lettre du Dr Sigmund Reud.pdf|une lettre]] dans laquelle le professeur s’excuse du « mal » qu’il leur à fait. La lettre explique à chacun que leur mémoire a été altérée pour leur bien mais que leur rédemption, et leur guérison (ce qu’y sous-entend qu’ils ne sont pas guéris mais aussi qu'ils doivent se repentir) sera possible en allant au village de Waterfall près du bois de l'écho dans le nord-ouest des Royaumes fluviaux. La lettre reste silencieuse sur le pourquoi et le comment.{br}
 En chemin, ils croisent une bohémienne varisienne qui leur prédit un funeste destin remplie de folie et de non-sense. Arrivée à Waterfall, ils découvrent un village exsangue dont les habitants ont tous été massacrés. Après avoir découvert par quelles créatures, les PJs découvrent que l'origine de ce massacre se trouve enfouie plus profondément dans le marais tout proche. Ils y croisent des créatures d'un autre monde, et arrive dans une cité cyclopéenne. Là commence leur cauchemar collectif issu de leur passé individuel. Leurs sombres secrets leur sont « révélés » de manière violente. Ils plongent dans des univers fantasmagoriques où ils devront lutter et accepter leur vraie personnalité. Réussiront-ils leur rédemption ? Si chacun accepte sa vérité, in fine, ils se libéreront de leur mémoire, de leur folie et du sanctuaire. En parallèle, ils découvrent de terribles indices sur un complot visant à détruire Golarion, ses habitants et ses Dieux. La piste mène en Ustalav.
 
 

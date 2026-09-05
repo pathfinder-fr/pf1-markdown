@@ -10,13 +10,13 @@ LastModified: 2016-05-02 13:56
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Création (Djezebel)*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Mort-vivant](./../Pathfinder-RPG/type Mort-vivant.md) ([intangible](./../Pathfinder-RPG/sous-type intangible.md)) de taille TG, LM}
-{s:BDTexte|**Init** +7 ; **Sens** [odorat](./../Pathfinder-RPG/odorat.md), [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +10}
+{s:BDTexte|[[Pathfinder-RPG.type Mort-vivant|Mort-vivant]] ([[Pathfinder-RPG.sous-type intangible|intangible]]) de taille TG, LM}
+{s:BDTexte|**Init** +7 ; **Sens** [[Pathfinder-RPG.odorat|odorat]], [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] ; [[Pathfinder-RPG.Perception|Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 18, pris au dépourvu 12 (Dex +2, parade +6)}
 {s:BDTexte|**pv** 47 (5d8+25)}
 {s:BDTexte|**Réf** +4, **Vig** +6, **Vol** +6}
-{s:BDTexte|**Capacités défensives** [intangible](./../Pathfinder-RPG/Intangible.md), [résistance à la canalisation](./../Pathfinder-RPG/résistance à la canalisation.md) +2 ; **Immunités** [traits des morts-vivants](./../Pathfinder-RPG/Traits des morts-vivants.md)}
+{s:BDTexte|**Capacités défensives** [[Pathfinder-RPG.intangible|intangible]], [[Pathfinder-RPG.résistance à la canalisation|résistance à la canalisation]] +2 ; **Immunités** [[Pathfinder-RPG.traits des morts-vivants|traits des morts-vivants]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 griffes +10 (2d4+5), morsure +10 (1d10+5)}
@@ -24,8 +24,8 @@ LastModified: 2016-05-02 13:56
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** -, **Dex** 16, **Con** -, **Int** 2, **Sag** 12, **Cha** 7}
 {s:BDTexte|**BBA** +3, **BMO** +6, **DMD** 21 }
-{s:BDTexte|**Dons** [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md),[Combat en aveugle](./../Pathfinder-RPG/Combat en aveugle.md), [Science de l'initiative](./../Pathfinder-RPG/Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./../Pathfinder-RPG/Discrétion.md) +14, [Escalade](./../Pathfinder-RPG/Escalade.md) +6, [Perception](./../Pathfinder-RPG/Perception.md) +5}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Attaque en finesse|Attaque en finesse]],[[Pathfinder-RPG.Combat en aveugle|Combat en aveugle]], [[Pathfinder-RPG.Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Discrétion|Discrétion]] +14, [[Pathfinder-RPG.Escalade|Escalade]] +6, [[Pathfinder-RPG.Perception|Perception]] +5}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérées ou chaudes ou ville}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-12)}

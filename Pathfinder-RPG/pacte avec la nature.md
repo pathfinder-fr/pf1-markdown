@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Druide#PACTEAVECLANATURE
 ---
 
->>> [Druide#PACTEAVECLANATURE](./Druide.md#PACTEAVECLANATURE)
+>>> [[Druide#PACTEAVECLANATURE]]

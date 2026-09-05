@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous pouvez dissimuler les sorts les plus puissants des manières les plus subtiles.*
 
-**Conditions.** [Dissimulation de sort](./Dissimulation de sort.md), [Fourberie](./Fourberie.md), 5 rangs en [Bluff](./Bluff.md), 5 rangs en [Déguisement](./Déguisement.md), 10 rangs en [Escamotage](./Escamotage.md), capacité à lancer des sorts de 3e niveau ou à utiliser un pouvoir magique de 3e niveau
+**Conditions.** [[Dissimulation de sort]], [[Fourberie]], 5 rangs en [[Bluff]], 5 rangs en [[Déguisement]], 10 rangs en [[Escamotage]], capacité à lancer des sorts de 3e niveau ou à utiliser un pouvoir magique de 3e niveau
 
-**Avantages.** Lorsque le personnage utilise [Dissimulation de sort](./Dissimulation de sort.md), les créatures ne bénéficient plus d'un bonus égal au niveau du sort ou du [pouvoir magique](./Pouvoirs magiques (capacité).md) sur leurs tests pour remarquer le sort dissimulé.
+**Avantages.** Lorsque le personnage utilise [[Dissimulation de sort]], les créatures ne bénéficient plus d'un bonus égal au niveau du sort ou du [[Pouvoirs magiques (capacité)|pouvoir magique]] sur leurs tests pour remarquer le sort dissimulé.
 
-**Normal.** Les créatures qui tentent de remarquer un sort caché avec [Dissimulation de sort](./Dissimulation de sort.md) obtiennent un bonus égal au niveau du sort ou du pouvoir magique à leurs tests d'[Art de la magie](./Art de la magie.md), de [Perception](./Perception.md) et de [Psychologie](./Psychologie.md).
+**Normal.** Les créatures qui tentent de remarquer un sort caché avec [[Dissimulation de sort]] obtiennent un bonus égal au niveau du sort ou du pouvoir magique à leurs tests d'[[Art de la magie]], de [[Perception]] et de [[Psychologie]].

@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Le personnage connaît les principes du duel magique et, quand il affronte un autre lanceur de sorts, il sait cacher la véritable nature de ses sorts jusqu’au dernier instant. *
 
-**Conditions.** 5 rangs en [Art de la magie](./Art de la magie.md), 5 rangs en [Bluff](./Bluff.md)
+**Conditions.** 5 rangs en [[Art de la magie]], 5 rangs en [[Bluff]]
 
-**Avantage.** Si un autre lanceur de sorts essaye de contrer l’incantation, il ajoute +4 au [DD](./DD.md) d’[Art de la magie](./Art de la magie.md) quand il essaye de déterminer son sort.
+**Avantage.** Si un autre lanceur de sorts essaye de contrer l’incantation, il ajoute +4 au [[DD]] d’[[Art de la magie]] quand il essaye de déterminer son sort.
 
-Comme le personnage a appris à masquer les éléments les plus reconnaissables de ses incantations, il gagne un bonus de +2 aux tests d’[Art de la magie](./Art de la magie.md) pour identifier et contrer le sort d’un adversaire s’il le connaît ou s’il figure dans son [grimoire](./Magicien.md#GRIMOIRE).
+Comme le personnage a appris à masquer les éléments les plus reconnaissables de ses incantations, il gagne un bonus de +2 aux tests d’[[Art de la magie]] pour identifier et contrer le sort d’un adversaire s’il le connaît ou s’il figure dans son [[magicien#GRIMOIRE|grimoire]].

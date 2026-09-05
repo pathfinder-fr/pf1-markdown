@@ -11,4 +11,4 @@ Categories:
 
 *Un chacal-garou se tapit quelque part dans votre arbre généalogique.*
 
-**Avantages.** Le personnage gagne un bonus de +4 sur les [jets de sauvegarde](./JDS.md) visant à résister aux sorts ou aux effets qui l'amèneraient à s'endormir. Il gagne également un bonus de +2 aux tests de [Perception](./Perception.md) basés sur l’audition.
+**Avantages.** Le personnage gagne un bonus de +4 sur les [[jds|jets de sauvegarde]] visant à résister aux sorts ou aux effets qui l'amèneraient à s'endormir. Il gagne également un bonus de +2 aux tests de [[Perception]] basés sur l’audition.

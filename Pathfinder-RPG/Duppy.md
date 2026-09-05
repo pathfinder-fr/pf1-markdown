@@ -13,17 +13,17 @@ Categories:
 <div class="BD">
 {s:BDtitre|Duppy|FP 7}
 {s:pucem|Mort-vivant|Ruines-Donjons|Tropical}
-{s:BDtexte|*Source : [Guide des chaînes p.43](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide des chaînes p.43]]*}
 {s:BDtexte|**PX** 3 200}
-{s:BDtexte|[Mort-vivant](./type Mort-vivant.md) ([intangible](./sous-type intangible.md)) de taille M, CM}
-{s:BDtexte|**Init** +10 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +14}
-{s:BDtexte|**Aura** [aura surnaturelle](./Aura surnaturelle (capacité).md) (9 m)}
+{s:BDtexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type intangible|intangible]]) de taille M, CM}
+{s:BDtexte|**Init** +10 ; **Sens** [[vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +14}
+{s:BDtexte|**Aura** [[Aura surnaturelle (capacité)|aura surnaturelle]] (9 m)}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 20, contact 20, pris au dépourvu 14 (Dex +6, parade +4)}
 {s:BDtexte|**pv** 76 (9d8+36)}
 {s:BDtexte|**Réf** +11, **Vig** +7, **Vol** +8}
-{s:BDtexte|**Capacités défensives** [résistance à la canalisation](./Résistance à la canalisation (capacité).md) +2, [intangible](./Intangible (capacité).md) ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants (capacité).md)}
-{s:BDtexte|**Faiblesses** vulnérabilité à la résurrection, [impuissant sous la lumière du soleil](./Impuissant sous la lumière du soleil (capacité).md)}
+{s:BDtexte|**Capacités défensives** [[Résistance à la canalisation (capacité)|résistance à la canalisation]] +2, [[Intangible (capacité)|intangible]] ; **Immunités** [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
+{s:BDtexte|**Faiblesses** vulnérabilité à la résurrection, [[Impuissant sous la lumière du soleil (capacité)|impuissant sous la lumière du soleil]]}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** vol 12 m (parfaite)}
 {s:BDtexte|**Corps à corps** contact intangible, +12 (2d8 énergie négative plus 1d6 diminution For)}
@@ -31,17 +31,17 @@ Categories:
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** —, **Dex** 22, **Con** —, **Int** 13, **Sag** 15, **Cha** 19}
 {s:BDtexte|**BBA** +6, **BMO** +12, **DMD** 26}
-{s:BDtexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Fente](./Fente.md), [Réflexes surhumains](./Réflexes surhumains.md), [S’avancer](./Savancer.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDtexte|**Compétences** [Discrétion](./Discrétion.md) +18, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +14, [Psychologie](./Psychologie.md) +14, [Vol](./Vol.md) +26}
+{s:BDtexte|**Dons** [[Attaque en vol]], [[Fente]], [[Réflexes surhumains]], [[Savancer|S’avancer]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDtexte|**Compétences** [[Discrétion]] +18, [[Intimidation]] +16, [[Perception]] +14, [[Psychologie]] +14, [[Vol]] +26}
 {s:BDtexte|**Langues** commun, polyglotte}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** littoraux chauds}
 {s:BDtexte|**Organisation sociale** solitaire, couple ou meute (3-8)}
 {s:BDtexte|**Trésor** aucun}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Diminution permanente de Force (Sur).** Une créature victime de l’attaque de coup du duppy doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 18 ou subir 1d6 points de [diminution permanente](./affaiblissement temporaire (capacité).md) de [Force](./Force.md). En cas d’attaque réussie, le duppy gagne 5 [points de vie temporaires](./points de vie temporaires.md). Le DD du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).}
-{s:BDtexte|**Molosses affamés (Mag).** Une fois par jour et par une [action simple](./Action simple.md), le duppy peut faire apparaître une meute de chiens intangibles pendant 1d4+3 [rounds](./round.md). Ces molosses affamés attaquent comme une seule et même entité, ont un bonus d’attaque de +11, infligent 2d6+3 points de dégâts s’ils touchent leur cible et réussissent un critique potentiel sur un 20 naturel. En dehors de cela, ce pouvoir fonctionne comme *[épée de force](./Épée de force.md)* ([NLS](./NLS.md) 7).}
-{s:BDtexte|**Vulnérabilité à la résurrection (Sur).** Si quelqu’un lance *[rappel à la vie](./Rappel à la vie.md)* ou un sort similaire sur le duppy, il le détruit ([Volonté](./Volonté.md), annule). Nul besoin de [composante matérielle](./composantes.md) pour lancer le sort ainsi.}
+{s:BDtexte|**Diminution permanente de Force (Sur).** Une créature victime de l’attaque de coup du duppy doit réussir un jet de [[Vigueur]] [[DD]] 18 ou subir 1d6 points de [[Affaiblissement temporaire (capacité)|diminution permanente]] de [[Force]]. En cas d’attaque réussie, le duppy gagne 5 [[points de vie temporaires]]. Le DD du jet de sauvegarde est basé sur le [[Charisme]].}
+{s:BDtexte|**Molosses affamés (Mag).** Une fois par jour et par une [[action simple]], le duppy peut faire apparaître une meute de chiens intangibles pendant 1d4+3 [[round|rounds]]. Ces molosses affamés attaquent comme une seule et même entité, ont un bonus d’attaque de +11, infligent 2d6+3 points de dégâts s’ils touchent leur cible et réussissent un critique potentiel sur un 20 naturel. En dehors de cela, ce pouvoir fonctionne comme *[[épée de force]]* ([[NLS]] 7).}
+{s:BDtexte|**Vulnérabilité à la résurrection (Sur).** Si quelqu’un lance *[[rappel à la vie]]* ou un sort similaire sur le duppy, il le détruit ([[Volonté]], annule). Nul besoin de [[composantes|composante matérielle]] pour lancer le sort ainsi.}
 </div>
 </td>
 <td>

@@ -10,8 +10,8 @@ LastModified: 2026-08-04 03:23
 {s:pucem|Créature artificielle}
 {s:BDTexte|*Source : Familiar Folio*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille P, N}
-{s:BDTexte|**Init** +2 ; **Sens** [Vision aveugle](./vision aveugle.md) à 9 m ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille P, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision aveugle]] à 9 m ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 12 (Dex +2, esquive +1, taille +2)}
 {s:BDTexte|**pv** 5 (1d10)}
@@ -24,7 +24,7 @@ LastModified: 2026-08-04 03:23
 {s:BDTexte|**For** 4, **Dex** 15, **Con** —, **Int** 3, **Sag** 14, **Cha** 5}
 {s:BDTexte|**BBA** +1, **BMO** +1, **DMD** 9}
 {s:BDTexte|**Languages** Commun (ne peut pas parler)}
-{s:BDTexte|**Compétences** [Vol](./Vol.md) +10}
+{s:BDTexte|**Compétences** [[Vol]] +10}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Tout}
 {s:BDTexte|**Organisation sociale** solitaire}
@@ -36,8 +36,8 @@ LastModified: 2026-08-04 03:23
 {s:BDSousTitre|Construction}
 {s:BDTexte|Un Wyrd Ioun est composé de petites pierres précieuses, de magnétites et de morceaux de granit, le tout recouvert de composants alchimiques d'une valeur équivalente à 500 po. Une pierre d'ioun fonctionnelle est également nécessaire lors de sa création, et elle devient la première pierre d'ioun à faire partie de son corps grâce à sa capacité d'affinité avec ces dernières.}
 {s:BDSousTitre|Conditions de création}
-{s:BDTexte|**Don** [Création de créatures artificielles](./Création de créatures artificielles.md)}
-{s:BDTexte|**Sorts** [Animation dobjets|Animation d'objets], [Mission](./Mission.md)}
+{s:BDTexte|**Don** [[Création de créatures artificielles]]}
+{s:BDTexte|**Sorts** [[Animation dobjets|Animation d'objets]], [[Mission]]}
 {s:BDTexte|**Compétence** Connaissances (mystères) DD 15}
 {s:BDTexte|**Coût** 1 000 po de pierres précieuses + 500 po de composants alchimiques + valeur de la pierre d'ioun}
 {s:BDTexte|**NLS** 5 ; **Prix** 1 500 po + valeur de la pierre d'ioun}

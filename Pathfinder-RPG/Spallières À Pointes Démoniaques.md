@@ -6,9 +6,9 @@ LastModified: 2024-06-01 16:49
 
 <div class="BD">
 {s:BDTitre|Spallières à pointes démoniaques|{s:AE}}
-**Aura** [Nécromancie](./Nécromancie.md) modérée ; **NLS** 7 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 14.350 po ; **Poids** 4 kg
+**Aura** [[Nécromancie]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 14.350 po ; **Poids** 4 kg
 (((Description)))
-Ces spallières de fer noir sont dotées de pointes crantées de différentes tailles. Elles fonctionnent comme des [pointes pour armure](./Pointes darmure (armure).md) +2 qui infligent également 1d2 points de dégâts de saignement sur une attaque de lutte ou de corps à corps réussie. Si elles sont portées avec des pointes pour armure ordinaires, augmentez les dégâts infligés par les pointes pour armure à 1d6 (P) ou 1d8 (M) et appliquez le plus important des deux bonus d’altération à l’attaque et aux dégâts, soit celui des pointes d’armure, soit celui des spallières à pointes démoniaques.
+Ces spallières de fer noir sont dotées de pointes crantées de différentes tailles. Elles fonctionnent comme des [[Pointes darmure (armure)|pointes pour armure]] +2 qui infligent également 1d2 points de dégâts de saignement sur une attaque de lutte ou de corps à corps réussie. Si elles sont portées avec des pointes pour armure ordinaires, augmentez les dégâts infligés par les pointes pour armure à 1d6 (P) ou 1d8 (M) et appliquez le plus important des deux bonus d’altération à l’attaque et aux dégâts, soit celui des pointes d’armure, soit celui des spallières à pointes démoniaques.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), *[saignement](./Saignement.md)*  ; **Coût** 7.175 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], *[[saignement]]*  ; **Coût** 7.175 po
 </div>

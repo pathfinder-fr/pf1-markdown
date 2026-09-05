@@ -11,14 +11,14 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Hyp](./Hypnotiseur.md) 1, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./contact.md)
+{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Hypnotiseur|Hyp]] 1, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[contact]]
 **Cibles** créature touchée
 **Durée** 1 heure/niveau (T)
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
 La cible devient incapable de dire la vérité. Les mensonges proférés n'ont besoin d'être ni convaincants ni cohérents entre eux, mais ils ne peuvent pas être vrais pour autant que la cible le sache. Cet effet s'étend à la communication non-verbale, comme le langage des signes ou les notes écrites. Le sort permet de parler en métaphores et à propos de personnages fictifs.
 
-Ce sort ne limite pas la capacité de la cible à dire des choses qui ne sont ni vraies ni fausses, comme poser des questions, donner des ordres, ou prononcer des composantes de sort verbales. Si la cible de ce sort est simultanément contrainte à dire la vérité (par exemple, si elle se trouve dans une *[zone de vérité](./Zone de vérité.md)*), elle ne peut dire que des choses qui ne sont ni vraies ni fausses.
+Ce sort ne limite pas la capacité de la cible à dire des choses qui ne sont ni vraies ni fausses, comme poser des questions, donner des ordres, ou prononcer des composantes de sort verbales. Si la cible de ce sort est simultanément contrainte à dire la vérité (par exemple, si elle se trouve dans une *[[zone de vérité]]*), elle ne peut dire que des choses qui ne sont ni vraies ni fausses.

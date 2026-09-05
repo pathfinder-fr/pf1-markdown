@@ -8,4 +8,4 @@ Categories:
 
 {s:UM}**Niveau** 1
 
-Un sort incluant ce méta mot ne requiert aucune [composante](./composante.md) gestuelle.
+Un sort incluant ce méta mot ne requiert aucune [[composante]] gestuelle.

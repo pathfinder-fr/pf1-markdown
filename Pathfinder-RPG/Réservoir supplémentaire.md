@@ -10,8 +10,8 @@ Categories:
 
 {s:mca} *Le réservoir d’énergie arcanique du personnage est plus important que celui des autres.*
 
-**Conditions.** Pouvoir de classe [réservoir arcanique](./Arcaniste.md#RESERVOIRARCANIQUE).
+**Conditions.** Pouvoir de classe [[arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]].
 
-**Avantage.** Le personnage gagne trois points de plus dans son [réservoir arcanique](./Arcaniste.md#RESERVOIRARCANIQUE) et le nombre maximum de points de son [réservoir arcanique](./Arcaniste.md#RESERVOIRARCANIQUE) augmente de ce même nombre.
+**Avantage.** Le personnage gagne trois points de plus dans son [[arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]] et le nombre maximum de points de son [[arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]] augmente de ce même nombre.
 
 **Spécial.** Le personnage peut prendre ce don plusieurs fois. Ses effets se cumulent.

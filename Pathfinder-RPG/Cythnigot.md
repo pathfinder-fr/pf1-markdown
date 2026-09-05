@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2* p.231}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [qlippoth](./sous-type qlippoth.md)) de taille TP, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [détection de la Loi](./Détection de la Loi.md), [détection de la magie](./Détection de la magie.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 cases) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type qlippoth|qlippoth]]) de taille TP, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[détection de la Loi]], [[détection de la magie]], [[vision dans le noir]] 18 m (12 cases) ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 13, pris au dépourvu 13 (Dex +1, naturelle +1, taille +2)}
 {s:BDTexte|**pv** 16 (3d10)}
@@ -25,14 +25,14 @@ Categories:
 {s:BDTexte|**Espace** 75 cm (1 case) ; **Allonge** 0 m (0 case)}
 {s:BDTexte|**Attaques spéciales** apparence horrible (3 m - 2 cases, DD 9)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6), concentration +4}
-{s:BDSorts|Constant — *[détection de la Loi](./Détection de la Loi.md)*, *[détection de la magie](./Détection de la magie.md)*, *[vol](./Vol.md)*}
-{s:BDSorts|1/jour — *[distorsion du bois](./Distorsion du bois.md)*, *[ramollissement de la terre et de la pierre](./Ramollissement de la terre et de la pierre.md)*}
-{s:BDSorts|1/semaine — *[communion](./Communion.md)* (six questions)}
+{s:BDSorts|Constant — *[[détection de la Loi]]*, *[[détection de la magie]]*, *[[vol]]*}
+{s:BDSorts|1/jour — *[[distorsion du bois]]*, *[[ramollissement de la terre et de la pierre]]*}
+{s:BDSorts|1/semaine — *[[communion]]* (six questions)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 12, **Con** 11, **Int** 11, **Sag** 8, **Cha** 7}
 {s:BDTexte|**BBA** +3, **BMO** +2 **DMD** 13 (21 contre croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +7 (+11 pour sauter), [Connaissances](./Connaissances.md) (plans) +6, [Connaissances](./Connaissances.md) (nature) +6, [Discrétion](./Discrétion.md) +15, [Perception](./Perception.md) +5, [Vol](./Vol.md) +15}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +7 (+11 pour sauter), [[Connaissances]] (plans) +6, [[Connaissances]] (nature) +6, [[Discrétion]] +15, [[Perception]] +5, [[Vol]] +15}
 {s:BDTexte|**Langues** abyssal ; télépathie (contact)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abysses)}
@@ -44,7 +44,7 @@ Categories:
 {s:BDTexte|**Spores (Sur).** Les créatures mordues par un cythnigot doivent réussir un jet de Vigueur de DD 11 pour ne pas être infectées par les étranges spores de la créature. Ces spores font sortir de la blessure des piquants qui se tortillent et d’hideuses touffes de poils pâles qui se faufilent autour des membres de la victime et les enveloppent. Les créatures affectées par ces spores sont enchevêtrées et peuvent tenter, par une action simple, un nouveau jet de Vigueur de DD 11 lors des rounds suivants pour arracher ces filaments et se défaire de l’état préjudiciable « enchevêtré ». Les effets des morsures de cythnigot ne se cumulent pas entre eux. Il s’agit d’un effet de maladie. Le DD du jet de sauvegarde dépend de la Constitution.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [qlippoths](./Qlippoth.md).***</li></ul>*Cette horrible créature à six pattes a une tête d’araignée. Une grande tige fibreuse sort de son dos avec, à son extrémité, une large gueule.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Qlippoth|qlippoths]].***</li></ul>*Cette horrible créature à six pattes a une tête d’araignée. Une grande tige fibreuse sort de son dos avec, à son extrémité, une large gueule.*
 
 Le cythnigot est un vil parasite fongique qui pousse et prospère
 dans les corps des petits animaux. Ce champignon transforme le
@@ -58,7 +58,7 @@ terminant en une paire de mâchoires acérées et étonnamment
 musclées. Un cythnigot sans corps hôte ressemble à un lycoperdon
 malodorant de la taille d’un poing humain.
 
-Les lanceurs de sorts d’alignement Chaotique Mauvais, de [NLS](./NLS.md) supérieur ou égal à 7 et possédant le don *[Familier supérieur](./Familier supérieur.md)* peuvent gagner un cythnigot comme familier. Pour ce faire, ils doivent déjà posséder un familier animal de
+Les lanceurs de sorts d’alignement Chaotique Mauvais, de [[NLS]] supérieur ou égal à 7 et possédant le don *[[Familier supérieur]]* peuvent gagner un cythnigot comme familier. Pour ce faire, ils doivent déjà posséder un familier animal de
 taille TP. En affectant celui-ci avec des spores, ils obtiennent un cythnigot qui devient un sbire très loyal (mais plutôt
 dégoûtant). Un cythnigot mesure à peu près 50 cm de long et pèse 5 kg.
 </div></td></tr></table>

@@ -14,26 +14,26 @@ Categories:
 {s:pucem|Créature magique|Forêt-jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p 283*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille TP, CM}
-{s:BDTexte|**Init** +2 ; **Sens** *[détection de la magie](./Détection de la magie.md)*, [vision dans le noir](./vision dans le noir.md) à 18m (12 {s:c}), [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille TP, CM}
+{s:BDTexte|**Init** +2 ; **Sens** *[[détection de la magie]]*, [[vision dans le noir]] à 18m (12 {s:c}), [[vision nocturne]], [[odorat]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 11 (2d10)}
 {s:BDTexte|**Réf** +5, **Vig** +3, **Vol** +1}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +6 (1d3-2 plus [saignement](./Saignement.md) 1) et 2 griffes, +6
+{s:BDTexte|**Corps à corps** morsure, +6 (1d3-2 plus [[saignement]] 1) et 2 griffes, +6
 (1d2-2)}
-{s:BDTexte|**Attaque spéciale** [saignement](./Saignement.md) 1}
+{s:BDTexte|**Attaque spéciale** [[saignement]] 1}
 {s:BDTexte|**Pouvoirs magiques** (NLS 1 ; Concentration -2)}
-{s:BDSorts|Constant — *[détection de la magie](./Détection de la magie.md)*, *[communication avec les animaux](./Communication avec les animaux.md)*}
+{s:BDSorts|Constant — *[[détection de la magie]]*, *[[communication avec les animaux]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 15, **Con** 10, **Int** 5, **Sag** 12, **Cha** 5}
-{s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 10 (14 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +12, [Escalade](./Escalade.md) +16, [Perception](./Perception.md) +5}
-{s:BDTexte|**Modificateurs raciaux** +6 en [Acrobaties](./Acrobaties.md), +6 en [Escalade](./Escalade.md)}
-{s:BDTexte|**Langues** aklo ; *[communication avec les animaux](./Communication avec les animaux.md)*}
+{s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 10 (14 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +12, [[Escalade]] +16, [[Perception]] +5}
+{s:BDTexte|**Modificateurs raciaux** +6 en [[Acrobaties]], +6 en [[Escalade]]}
+{s:BDTexte|**Langues** aklo ; *[[communication avec les animaux]]*}
 {s:BDTexte|**Particularités** contact étranger}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêt}
@@ -41,8 +41,8 @@ Categories:
 non-combattants)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Contact étranger (Ext).** Les attaques naturelles du zoog peuvent toucher n’importe quelle créature [intangible](./Intangible (capacité).md) comme s’il maniait des [armes spectrales](./spectrale (propriété).md).}
-{s:BDTexte|**Vision de la magie (Sur).** Les yeux du zoog émettent un [cône](./cône.md) de lumière normale de 4,50 mètres et augmentent la [luminosité](./Exploration.md) d’un niveau sur 4,50 mètres supplémentaires au-delà de cette zone. Tous les effets magiques dans cette zone émettent une faible lueur. Cette lueur ne révèle rien de la force ni de l’école de magie des effets. Le zoog peut étouffer ou raviver cette lumière par une [action rapide](./Action rapide.md).}
+{s:BDTexte|**Contact étranger (Ext).** Les attaques naturelles du zoog peuvent toucher n’importe quelle créature [[intangible (capacité)|intangible]] comme s’il maniait des [[spectrale (propriété)|armes spectrales]].}
+{s:BDTexte|**Vision de la magie (Sur).** Les yeux du zoog émettent un [[cône]] de lumière normale de 4,50 mètres et augmentent la [[exploration|luminosité]] d’un niveau sur 4,50 mètres supplémentaires au-delà de cette zone. Tous les effets magiques dans cette zone émettent une faible lueur. Cette lueur ne révèle rien de la force ni de l’école de magie des effets. Le zoog peut étouffer ou raviver cette lumière par une [[action rapide]].}
 </div>
 </td><td><div>
 *Ce capricieux amalgame de bêtes a des yeux lumineux, une queue de rat, des appendices simiens et de petits tentacules sortant de son museau de taupe.*

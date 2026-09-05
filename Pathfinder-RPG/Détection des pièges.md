@@ -14,16 +14,16 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Inq](./Inquisiteur.md) 2, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[école Divination|Divination]] ; **Niveau** [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)
+**Durée** 1 minute/[[niveau]]
 
-Le personnage acquiert une connaissance innée du mécanisme des pièges, ce qui lui permet de bénéficier d’un bonus d’intuition égal à la moitié de son [niveau de lanceur de sorts](./NLS.md) (+10 maximum) pour tout test de [Perception](./Perception.md) visant à trouver les pièges. Il a droit à un test pour remarquer tout piège situé à moins de trois mètres de lui, même s’il ne les cherche pas activement. Notez que *détection des pièges* ne confère pas la faculté de désamorcer les pièges ainsi découverts.
+Le personnage acquiert une connaissance innée du mécanisme des pièges, ce qui lui permet de bénéficier d’un bonus d’intuition égal à la moitié de son [[NLS|niveau de lanceur de sorts]] (+10 maximum) pour tout test de [[Perception]] visant à trouver les pièges. Il a droit à un test pour remarquer tout piège situé à moins de trois mètres de lui, même s’il ne les cherche pas activement. Notez que *détection des pièges* ne confère pas la faculté de désamorcer les pièges ainsi découverts.

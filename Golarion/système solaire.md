@@ -10,7 +10,7 @@ Onze planètes majeures composent le système solaire. Certaines d'entre elles p
 
 Nombreuses sont également les constellations que l'on peut apercevoir par une nuit claire.
 
-Certains esprits dérangés, adeptes des [Grands Anciens](./Grands Anciens.md) et des [Dieux Extérieurs](./Dieux Extérieurs.md) appellent "[Sombre Tapisserie](./Sombre Tapisserie.md)" le vide intersidéral situé entre les étoiles.
+Certains esprits dérangés, adeptes des [[Grands Anciens]] et des [[Dieux Extérieurs]] appellent "[[Sombre Tapisserie]]" le vide intersidéral situé entre les étoiles.
 
 ### Le soleil
 

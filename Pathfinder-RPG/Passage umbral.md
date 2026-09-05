@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISR}*Vos ombres dansent dans les ténèbres, vous transportant avec elles rapidement et silencieusement afin que vous puissiez échanger de place avec vos semblables.*
 
-**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** Pouvoir magique racial *[ténèbres](./Ténèbres.md)*
+**Conditions.** Pouvoir magique racial *[[ténèbres]]*
 
-**Avantages.** Lorsque le personnage et un allié qui possède le pouvoir magique racial *[ténèbres](./Ténèbres.md)* ainsi que ce don se trouvent tous deux dans une zone de [ténèbres](./Exploration.md#VISIONLUMIERE) à 6 mètres ou moins d'un objet qui émet des ténèbres grâce à un sort de *ténèbres*, il peut échanger de place avec cet allié par une [action rapide](./Action rapide.md). L'allié du personnage doit être consentant et doit dépenser une [action immédiate](./Action immédiate.md) pour résoudre l'échange.
+**Avantages.** Lorsque le personnage et un allié qui possède le pouvoir magique racial *[[ténèbres]]* ainsi que ce don se trouvent tous deux dans une zone de [[Exploration#VISIONLUMIERE|ténèbres]] à 6 mètres ou moins d'un objet qui émet des ténèbres grâce à un sort de *ténèbres*, il peut échanger de place avec cet allié par une [[action rapide]]. L'allié du personnage doit être consentant et doit dépenser une [[action immédiate]] pour résoudre l'échange.

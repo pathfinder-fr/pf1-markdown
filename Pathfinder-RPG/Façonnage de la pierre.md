@@ -13,17 +13,17 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[Terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 3, [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Occ](./Occultiste.md) 3, [Prê](./Prêtre.md) 3  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Terre]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (argile meuble)  
+**Composantes** [[composantes|V, G, M/FD]] (argile meuble)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
-**Cible** pierre ou objet en pierre touché, dans la limite de 0,3 m³ + 30 dm³/[niveau](./niveau.md)  
+**Cible** pierre ou objet en pierre touché, dans la limite de 0,3 m³ + 30 dm³/[[niveau]]  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
@@ -31,4 +31,4 @@ Ce sort permet d’altérer une masse rocheuse existante pour lui donner la form
 
 ### Mythique
 {s:CMy}
-La durée change et devient 1 round/niveau et instantanée (voir texte). Chaque round suivant celui de l’incantation du sort, le personnage peut dépenser une [action simple](./Action simple.md) pour façonner jusqu’à 0,15 m3 supplémentaire de pierre touchée. La pierre façonnée est dotée d’une durée instantanée (ce qui signifie qu’elle ne reprend pas sa forme initiale lorsque le sort prend fin).
+La durée change et devient 1 round/niveau et instantanée (voir texte). Chaque round suivant celui de l’incantation du sort, le personnage peut dépenser une [[action simple]] pour façonner jusqu’à 0,15 m3 supplémentaire de pierre touchée. La pierre façonnée est dotée d’une durée instantanée (ce qui signifie qu’elle ne reprend pas sa forme initiale lorsque le sort prend fin).

@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Isonade|FP 15}
 {s:pucem|Créature magique|Aquatique|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.157](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.157]]*}
 {s:BDTexte|**PX** 51 200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille Gig, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 36 m, [odorat surdéveloppé](./Odorat surdéveloppé (capacité).md) ; [Perception](./Perception.md) +28}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille Gig, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 36 m, [[Odorat surdéveloppé (capacité)|odorat surdéveloppé]] ; [[Perception]] +28}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 8, pris au dépourvu 26 (Dex +1, esquive +1, naturelle +20, taille -4)}
 {s:BDTexte|**pv** 230 (20d10+120)}
@@ -22,21 +22,21 @@ Categories:
 {s:BDTexte|**RM** 26}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** nage 30 m}
-{s:BDTexte|**Corps à corps** morsure, +29 (2d8+12 plus [étreinte](./Étreinte (capacité).md)) et 2 nageoires, +28 (2d8+12 plus [étreinte](./Étreinte (capacité).md)) et coup de queue, +23 (2d8+6 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** morsure, +29 (2d8+12 plus [[Étreinte (capacité)|étreinte]]) et 2 nageoires, +28 (2d8+12 plus [[Étreinte (capacité)|étreinte]]) et coup de queue, +23 (2d8+6 plus [[Étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Espace occupé** 6 m ; **Allonge** 6 m (9 m avec le coup de queue)}
-{s:BDTexte|**Attaques spéciales** [retournement de navires](./Retournement de navires (capacité).md), [engloutissement rapide](./Engloutissement rapide (capacité).md), crochets, [engloutissement](./Engloutissement (capacité).md) (3d6 dégâts contondants, CA 20, 23 pv)}
+{s:BDTexte|**Attaques spéciales** [[Retournement de navires (capacité)|retournement de navires]], [[Engloutissement rapide (capacité)|engloutissement rapide]], crochets, [[Engloutissement (capacité)|engloutissement]] (3d6 dégâts contondants, CA 20, 23 pv)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 34, **Dex** 13, **Con** 22, **Int** 13, **Sag** 20, **Cha** 9}
-{s:BDTexte|**BBA** +20 ; **BMO** +36 (+40 en [entraînement](./entraînement.md) et en [lutte](./lutte.md)) ; **DMD** 48 (50 contre l'[entraînement](./entraînement.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque éclair](./Attaque éclair.md), [Entraînement supérieur](./Entraînement supérieur.md), [Esquive](./Esquive.md), [Expertise du combat](./Expertise du combat.md), [Frappe décisive](./Frappe décisive.md), [Science de l'entraînement](./Science de lentraînement.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md) (Discrétion), [Volonté de fer](./Volonté de fer.md)<sup>S</sup>}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +18 (+28 en eaux profondes), [Natation](./Natation.md) +43, [Perception](./Perception.md) +28 ; **Modificateurs raciaux** +10 en Discrétion en eaux profondes}
+{s:BDTexte|**BBA** +20 ; **BMO** +36 (+40 en [[entraînement]] et en [[lutte]]) ; **DMD** 48 (50 contre l'[[entraînement]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque éclair]], [[Entraînement supérieur]], [[Esquive]], [[Expertise du combat]], [[Frappe décisive]], [[Science de lentraînement|Science de l'entraînement]], [[Science de la frappe décisive]], [[Souplesse du serpent]], [[Talent]] (Discrétion), [[Volonté de fer]]<sup>S</sup>}
+{s:BDTexte|**Compétences** [[Discrétion]] +18 (+28 en eaux profondes), [[Natation]] +43, [[Perception]] +28 ; **Modificateurs raciaux** +10 en Discrétion en eaux profondes}
 {s:BDTexte|**Langues** aquatique, commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous les océans}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Crochets (Ext).** Un isonade obtient un bonus de circonstances de +4 sur les tests de manœuvre offensive de [lutte](./lutte.md). Quand il utilise son don [Attaque éclair](./Attaque éclair.md), un isonade peut tenter une manœuvre offensive de lutte ou d’[entraînement](./entraînement.md) à la place de son attaque de corps à corps.}
+{s:BDTexte|**Crochets (Ext).** Un isonade obtient un bonus de circonstances de +4 sur les tests de manœuvre offensive de [[lutte]]. Quand il utilise son don [[Attaque éclair]], un isonade peut tenter une manœuvre offensive de lutte ou d’[[entraînement]] à la place de son attaque de corps à corps.}
 
 </div></td>
 <td><div>*Cette horreur massive ressemble à un requin protégé par une carapace de crabe. Sa queue, ses flancs et ses nageoires pectorales sont couverts de crochets acérés.*

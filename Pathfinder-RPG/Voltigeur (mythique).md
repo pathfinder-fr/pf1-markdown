@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *La grâce et la fluidité gestuelles du personnage sont incomparables.*
 
-**Condition.** [Voltigeur](./Voltigeur.md)
+**Condition.** [[Voltigeur]]
 
-**Avantage.** Le bonus aux tests d’[Acrobaties](./Acrobaties.md) et de [Vol](./Vol.md) conféré par [Voltigeur](./Voltigeur.md) augmente de +2. De plus, le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour considérer qu’il a obtenu un 20 naturel à l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.
+**Avantage.** Le bonus aux tests d’[[Acrobaties]] et de [[Vol]] conféré par [[Voltigeur]] augmente de +2. De plus, le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour considérer qu’il a obtenu un 20 naturel à l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.

@@ -12,4 +12,4 @@ Source initiale : Guide de la Plaie du Monde p.43
 
 Source à jour : Bestiaire 5 p.46
 
->>> [Bête pestiférée, archétype](./Bête pestiférée, archétype.md)
+>>> [[Bête pestiférée, archétype]]

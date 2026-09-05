@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Le personnage peut agilement se frayer un passage à travers tous les terrains, même les plus dangereux et les plus accidentés.*
 
-**Conditions.** [Aisance](./Aisance.md), [Déplacement acrobatique](./Déplacement acrobatique.md), [elfe](./Elfe.md).
+**Conditions.** [[Aisance]], [[Déplacement acrobatique]], [[elfe]].
 
-**Avantage.** Le personnage peut ignorer les effets des [terrains difficiles](./terrain difficile.md) dans les environnements naturels et fonctionner comme s’il s’agissait d’un terrain normal.
+**Avantage.** Le personnage peut ignorer les effets des [[terrain difficile|terrains difficiles]] dans les environnements naturels et fonctionner comme s’il s’agissait d’un terrain normal.

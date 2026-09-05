@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Le personnage maîtrise la magie du changement et, de ce fait, ses transmutations sont plus durables que la moyenne.*
 
-**Condition.** [École renforcée](./École renforcée.md) (Transmutation).
+**Condition.** [[École renforcée]] (Transmutation).
 
-**Avantage.** Le [DD](./DD.md) des tests de [NLS](./NLS.md) pour dissiper ou annuler une transmutation lancée par le personnage augmente de +2. De plus, même si le sort est annulé, ses effets persistent pendant 1 round de plus avant d’être dissipés.
+**Avantage.** Le [[DD]] des tests de [[NLS]] pour dissiper ou annuler une transmutation lancée par le personnage augmente de +2. De plus, même si le sort est annulé, ses effets persistent pendant 1 round de plus avant d’être dissipés.

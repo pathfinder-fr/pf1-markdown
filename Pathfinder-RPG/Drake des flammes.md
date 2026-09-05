@@ -14,14 +14,14 @@ Categories:
 {s:pucem|Dragon|Montagnes|Tempéré}
 - *Source : Bestiaire 2, p.115*
 - **PX** 1 600
-- [Dragon](./type Dragon.md) ([Feu](./sous-type Feu.md)) de taille G, CM
-- **Init** +5 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10
+- [[type Dragon|Dragon]] ([[sous-type Feu|Feu]]) de taille G, CM
+- **Init** +5 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10
 (((Défense)))
 - **CA** 18, contact 10, pris au dépourvu 17 (Dex +1, naturelle +8, taille –1)
 - **pv** 57 (6d12+18)
 - **Réf** +6, **Vig** +8, **Vol** +6
 - **Immunités** feu, paralysie, sommeil
-- **Vulnérabilités** [vulnérable](./Vulnérabilités (capacité).md) au froid
+- **Vulnérabilités** [[vulnérabilités (capacité)|vulnérable]] au froid
 (((Attaque)))
 - **VD** 6 m (4 {s:c}), vol 18 m (12 {s:c}) (moyenne)
 - **Corps à corps** morsure, +10 (2d6+5 plus 1d6 feu) et coup de queue, +5 (1d6+2)
@@ -30,8 +30,8 @@ Categories:
 (((Statistiques)))
 - **For** 21, **Dex** 13, **Con** 16, **Int** 9, **Sag** 12, **Cha** 10
 - **BBA** +6 ; **BMO** +12 ; **DMD** 23
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Discrétion](./Discrétion.md) +6, [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +10, [Survie](./Survie.md) +10, [Vol](./Vol.md) +8
+- **Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Discrétion]] +6, [[Intimidation]] +9, [[Perception]] +10, [[Survie]] +10, [[Vol]] +8
 - **Langues** draconique
 - **Particularités** accélération soudaine
 (((Écologie)))
@@ -46,10 +46,10 @@ Categories:
 
 {s:ImageCentre|Bestiaire/Drake des flammes.jpg|95%}
 
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [drakes](./Drake.md).***</li></ul>*Cette créature féroce ressemble à un dragon aux écailles rouges et jaunes mais ne possède que deux pattes.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>*Cette créature féroce ressemble à un dragon aux écailles rouges et jaunes mais ne possède que deux pattes.*
 
 Les drakes des flammes sont des cousins dégénérés des
-[dragons rouges](./Dragon rouge.md) : ils ont le tempérament enragé et brutal des
+[[dragon rouge|dragons rouges]] : ils ont le tempérament enragé et brutal des
 véritables dragons rouges, mais pas leurs facultés intellectuelles.
 Les drakes des flammes sont des brutes violentes qui terrorisent
 les régions où ils se sont établis. Ils exigent des tributs immenses

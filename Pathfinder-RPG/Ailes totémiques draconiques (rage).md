@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#AILESTOTEMIQUESDRACONIQUES
 ---
 
->>> [Pouvoirs de rage#AILESTOTEMIQUESDRACONIQUES](./Pouvoirs de rage.md#AILESTOTEMIQUESDRACONIQUES)
+>>> [[Pouvoirs de rage#AILESTOTEMIQUESDRACONIQUES]]

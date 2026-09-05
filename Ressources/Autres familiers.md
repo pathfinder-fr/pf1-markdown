@@ -8,8 +8,8 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Vers la liste des [familiers](./../Pathfinder-RPG/Familiers.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Vers la liste des [[Pathfinder-RPG.familiers|familiers]]</ul>
 <ul>La [preview](http://www.pathfinder-fr.org/Blog/post/Quatrieme-preview-pour-Ultimate-Magic.aspx) de l'ultimate magic donne également des informations similaires</ul>
 </div>
 

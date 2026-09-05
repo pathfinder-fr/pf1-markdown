@@ -11,44 +11,44 @@ Categories:
 {s:BDTitre|Créer une créature féerique}
 {s:BDTexte|*Source : Bestiaire 3* p.55}
 La « créature féerique » est un archétype hérité ou acquis que l’on peut ajouter à n’importe quelle créature vivante et tangible. La créature féerique conserve les caractéristiques et les pouvoirs spéciaux de la créature de base, à ces quelques exceptions près :
-- **FP.** +1 par rapport à celui de la créature de base, si celle-ci possède 9 [DV](./../Ressources/DV.md) ou moins ; +2 par rapport à la créature de base si celle-ci possède 10 [DV](./../Ressources/DV.md) ou plus.
+- **FP.** +1 par rapport à celui de la créature de base, si celle-ci possède 9 [[DV]] ou moins ; +2 par rapport à la créature de base si celle-ci possède 10 [[DV]] ou plus.
 - **Alignement.** Tous sauf Loyal.
-- **Type.** Le type de la créature change pour devenir [fée](./type Fée.md). Ne recalculez pas les [DV](./../Ressources/DV.md), le [BBA](./BBA.md) et les [jets de sauvegarde](./jet de sauvegarde.md).
-- **Sens.** Les créatures féeriques gagnent [vision nocturne](./vision nocturne.md).
+- **Type.** Le type de la créature change pour devenir [[type fée|fée]]. Ne recalculez pas les [[DV]], le [[BBA]] et les [[Jet de sauvegarde|jets de sauvegarde]].
+- **Sens.** Les créatures féeriques gagnent [[vision nocturne]].
 - **Classe d'armure.** Réduisez l’armure naturelle de la créature, si elle en a une, de 1 (0 au minimum).
-- **Capacités défensives.** Les créatures féeriques gagnent un bonus de +4 à leurs [jets de sauvegarde](./jet de sauvegarde.md) contre les effets mentaux, une [résistance](./Résistance (capacité).md) au froid et à l’électricité de 10 et une [RD](./RD.md) de 5/fer froid (si elles ont 11 [DV](./../Ressources/DV.md) ou moins) ou de 10/fer froid (si elles ont 12 [DV](./../Ressources/DV.md) ou plus).
+- **Capacités défensives.** Les créatures féeriques gagnent un bonus de +4 à leurs [[jet de sauvegarde|jets de sauvegarde]] contre les effets mentaux, une [[résistance (capacité)|résistance]] au froid et à l’électricité de 10 et une [[RD]] de 5/fer froid (si elles ont 11 [[DV]] ou moins) ou de 10/fer froid (si elles ont 12 [[DV]] ou plus).
 - **Vitesse de déplacement.** À moins que la créature de base ne vole mieux, les créatures féeriques volent à une vitesse égale à 1,5 fois la vitesse à terre de la créature de base (bonne manœuvrabilité), arrondie à l’inférieur au plus proche multiple de 1,50 mètre (1 {s:c}). Si la créature de base a déjà une vitesse de vol avec une bonne manœuvrabilité, sa manœuvrabilité devient parfaite.
-- **Pouvoirs spéciaux.** Les créatures féeriques gagnent l’une des capacités suivantes tous les 4 [DV](./../Ressources/DV.md).
+- **Pouvoirs spéciaux.** Les créatures féeriques gagnent l’une des capacités suivantes tous les 4 [[DV]].
   - *Absence de traces (Ext).* La créature féerique ne laisse aucune trace derrière elle dans les environnements naturels et l’on ne peut pas suivre sa piste. Elle peut décider de laisser une trace si elle le souhaite.
-  - *Camouflage (Ext).* La créature féerique peut utiliser sa compétence [Discrétion](./Discrétion.md) pour se cacher sur toutes sortes de terrain naturel, même si ce terrain n’offre pas d’[abri](./abri.md) ou de [camouflage](./camouflage.md). Elle reçoit un bonus racial de +4 à tous ses tests de [Discrétion](./Discrétion.md). Ce bonus ne se cumule pas avec les bonus raciaux de [Discrétion](./Discrétion.md) que possède la créature de base.
-  - *Changement de forme (Sur).* La créature féerique peut prendre une unique autre forme  : un spécimen normal de la créature de base ou une créature humanoïde n’ayant qu’une catégorie de taille de différence ou un animal n’ayant qu’une catégorie de taille de différence. Dans tous les cas, la créature féerique sous forme alternative apparaît toujours sous les traits du même individu. Le type de sort [métamorphose](./branche métamorphose.md) utilisé devrait être choisi en fonction de la forme alternative comme, par exemple, *[modification d’apparence](./Modification dapparence.md)* pour prendre une forme humanoïde. Cette capacité peut être choisie plusieurs fois, accordant une forme additionnelle à chaque fois.
+  - *Camouflage (Ext).* La créature féerique peut utiliser sa compétence [[Discrétion]] pour se cacher sur toutes sortes de terrain naturel, même si ce terrain n’offre pas d’[[abri]] ou de [[camouflage]]. Elle reçoit un bonus racial de +4 à tous ses tests de [[Discrétion]]. Ce bonus ne se cumule pas avec les bonus raciaux de [[Discrétion]] que possède la créature de base.
+  - *Changement de forme (Sur).* La créature féerique peut prendre une unique autre forme  : un spécimen normal de la créature de base ou une créature humanoïde n’ayant qu’une catégorie de taille de différence ou un animal n’ayant qu’une catégorie de taille de différence. Dans tous les cas, la créature féerique sous forme alternative apparaît toujours sous les traits du même individu. Le type de sort [[branche métamorphose|métamorphose]] utilisé devrait être choisi en fonction de la forme alternative comme, par exemple, *[[modification dapparence|modification d’apparence]]* pour prendre une forme humanoïde. Cette capacité peut être choisie plusieurs fois, accordant une forme additionnelle à chaque fois.
   - *Déplacement facilité (Ext).* La créature féerique peut se déplacer dans toutes sortes de broussailles (telles que les buissons épineux naturels, les bruyères, les zones broussailleuses et autres terrains similaires) à sa vitesse normale, sans recevoir de dégâts ni être gênée en quoi que ce soit. Les buissons, les bruyères et les zones broussailleuses ayant été magiquement manipulées pour gêner les déplacements affectent normalement la créature féerique. De manière optionnelle, cette capacité peut fonctionner pour un type de terrain différent comme les marécages, les zones rocheuses, la glace, etc., ce qui permet à la créature féerique de s’y déplacer normalement. Quel que soit le type de terrain choisi, cette capacité ne fonctionne que sur lui. Elle peut être choisie plusieurs fois, à chaque fois pour un type de terrain différent.
-  - *Disparition (Sur).* Par une [action rapide](./Action rapide.md), la créature féerique peut disparaître pendant 1 [round](./round.md) comme si elle était sous l’effet du sort *[invisibilité](./Invisibilité.md)*. Elle peut utiliser cette capacité 1 [round](./round.md) par jour par [dé de vie](./../Ressources/DV.md).
-  - *Esquive totale (Ext).* La créature féerique gagne [Esquive totale](./Rôdeur.md#ESQUIVETOTALE), comme la capacité de [rôdeur](./Rôdeur.md) du même nom.
-  - *Grand pas (Sur).* La créature féerique peut se téléporter à un maximum de 3 mètres (2 {s:c}) par [dé de vie](./../Ressources/DV.md) par une [action de mouvement](./Action de mouvement.md). Elle peut utiliser cette capacité une fois tous les 1d4 [rounds](./round.md).
-  - *Résistance à la magie (Ext).* La créature féerique gagne une [RM](./RM.md) de 11 + son FP, non-cumulable avec la [RM](./RM.md) que pourrait posséder la créature de base.
-  - *Résistance aux énergies (Ext).* La créature féerique gagne une [résistance](./Résistance (capacité).md) de 10 contre un type d’énergie ou augmente une [résistance](./Résistance (capacité).md) existante de 10. Une [résistance](./Résistance (capacité).md) augmentée au-delà de 30 devient une [immunité](./Immunité (capacité).md). Cette capacité peut être choisie plusieurs fois.
-- **Pouvoirs magiques.** Une créature féerique ayant une valeur d’[Intelligence](./Intelligence.md) ou de [Sagesse](./Sagesse.md) de 8 ou plus possède un nombre cumulable de pouvoirs magiques dépendant de ses [DV](./../Ressources/DV.md). Sauf indication contraire, ces pouvoirs ne s’utilisent qu’une fois par jour. Le [niveau de lanceur de sorts](./NLS.md) est égal au nombre de [DV](./../Ressources/DV.md) de la créature ou au [niveau de lanceur de sorts](./NLS.md) des pouvoirs magiques de la créature de base (le plus haut des deux). Voir le tableau des pouvoirs magiques ci-contre
-- **Caractéristiques.** La créature féerique gagne un bonus de [Dextérité](./Dextérité.md) de +4 et un bonus d’[Intelligence](./Intelligence.md) et de [Charisme](./Charisme.md) de +2. Elle reçoit un malus de [Force](./Force.md) de -2. Les créatures féeriques dérivant de créatures n’ayant pas de valeur d’[Intelligence](./Intelligence.md) reçoivent une [Intelligence](./Intelligence.md) de 3.
-- **Compétences.** Une créature féerique ayant des [dés de vie](./../Ressources/DV.md) raciaux gagne un nombre de points de [compétences](./Compétences.md) par ([DV|dé de vie égal]] à 6 + son modificateur d’[Intelligence](./Intelligence.md). Elle gagne [Acrobaties](./Acrobaties.md), [Bluff](./Bluff.md), [Discrétion](./Discrétion.md) et [Vol](./Vol.md) comme [compétences de classe](./compétences de classe.md).
+  - *Disparition (Sur).* Par une [[action rapide]], la créature féerique peut disparaître pendant 1 [[round]] comme si elle était sous l’effet du sort *[[invisibilité]]*. Elle peut utiliser cette capacité 1 [[round]] par jour par [[DV|dé de vie]].
+  - *Esquive totale (Ext).* La créature féerique gagne [[rôdeur#ESQUIVETOTALE|Esquive totale]], comme la capacité de [[rôdeur]] du même nom.
+  - *Grand pas (Sur).* La créature féerique peut se téléporter à un maximum de 3 mètres (2 {s:c}) par [[DV|dé de vie]] par une [[action de mouvement]]. Elle peut utiliser cette capacité une fois tous les 1d4 [[round|rounds]].
+  - *Résistance à la magie (Ext).* La créature féerique gagne une [[RM]] de 11 + son FP, non-cumulable avec la [[RM]] que pourrait posséder la créature de base.
+  - *Résistance aux énergies (Ext).* La créature féerique gagne une [[résistance (capacité)|résistance]] de 10 contre un type d’énergie ou augmente une [[résistance (capacité)|résistance]] existante de 10. Une [[résistance (capacité)|résistance]] augmentée au-delà de 30 devient une [[immunité (capacité)|immunité]]. Cette capacité peut être choisie plusieurs fois.
+- **Pouvoirs magiques.** Une créature féerique ayant une valeur d’[[Intelligence]] ou de [[Sagesse]] de 8 ou plus possède un nombre cumulable de pouvoirs magiques dépendant de ses [[DV]]. Sauf indication contraire, ces pouvoirs ne s’utilisent qu’une fois par jour. Le [[NLS|niveau de lanceur de sorts]] est égal au nombre de [[DV]] de la créature ou au [[NLS|niveau de lanceur de sorts]] des pouvoirs magiques de la créature de base (le plus haut des deux). Voir le tableau des pouvoirs magiques ci-contre
+- **Caractéristiques.** La créature féerique gagne un bonus de [[Dextérité]] de +4 et un bonus d’[[Intelligence]] et de [[Charisme]] de +2. Elle reçoit un malus de [[Force]] de -2. Les créatures féeriques dérivant de créatures n’ayant pas de valeur d’[[Intelligence]] reçoivent une [[Intelligence]] de 3.
+- **Compétences.** Une créature féerique ayant des [[DV|dés de vie]] raciaux gagne un nombre de points de [[compétences]] par ([DV|dé de vie égal]] à 6 + son modificateur d’[[Intelligence]]. Elle gagne [[Acrobaties]], [[Bluff]], [[Discrétion]] et [[Vol]] comme [[compétences de classe]].
 - **Langues.** Les créatures féeriques parlent le sylvestre et toutes les langues de la créature de base.
 </div></td>
-<td><div>Voir un exemple : le [crapaud féerique géant](./Crapaud féerique géant.md).
+<td><div>Voir un exemple : le [[crapaud féerique géant]].
 
 {| CLASS="tablo centre toutgauche"
 |- CLASS="titre"
 | DV || Pouvoirs magiques
 |- CLASS="premier"
-|/ 1-2 || *[Lueur féerique](./Lueur féerique.md)*, *[lumières dansantes](./Lumières dansantes.md)* 3/jour
-|/ 3-4 || *[Enchevêtrement](./Enchevêtrement.md)*, *[poussière scintillante](./Poussière scintillante.md)*
-|/ 5-6 || *[Sommeil profond](./Sommeil profond.md)*
-|/ 7-8 || *[Image accomplie](./Image accomplie.md)*
-|/ 9-10 || *[Confusion](./Confusion.md)*
-|/ 11-12 || *[Débilité](./Débilité.md)*
-|/ 13-14 || *[Double illusoire](./Double illusoire.md)*
-|/ 15-16 || *[Projection d’image](./Projection dimage.md)*
-|/ 17-18 || *[Danse irrésistible](./Danse irrésistible.md)*
-|/ 19-20 || *[Motif scintillant](./Motif scintillant.md)*
+|/ 1-2 || *[[Lueur féerique]]*, *[[lumières dansantes]]* 3/jour
+|/ 3-4 || *[[Enchevêtrement]]*, *[[poussière scintillante]]*
+|/ 5-6 || *[[Sommeil profond]]*
+|/ 7-8 || *[[Image accomplie]]*
+|/ 9-10 || *[[Confusion]]*
+|/ 11-12 || *[[Débilité]]*
+|/ 13-14 || *[[Double illusoire]]*
+|/ 15-16 || *[[projection dimage|Projection d’image]]*
+|/ 17-18 || *[[Danse irrésistible]]*
+|/ 19-20 || *[[Motif scintillant]]*
 |}
 
 Les créatures féeriques ressemblent aux créatures ordinaires dont elles dérivent mais ont des couleurs plus vives, des traits délicats et des ailes élégantes telles celles d’une pixie ou d’un esprit follet. Malgré leur apparence fragile, les créatures féeriques sont tout aussi résistantes que leurs parents non-créatures féeriques, même si elles sacrifient la puissance brute au profit de la grâce et de la capacité à voler. Elles ont une longue espérance de vie, sauf mort accidentelle, et montrent rarement des signes de vieillesse.

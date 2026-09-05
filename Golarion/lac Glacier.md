@@ -7,6 +7,6 @@ Categories:
 - Irrisen
 ---
 
-Le lac Glacier est une vaste étendue d'eau à moitié gelée située au cœur de l'[Irrisen](./Irrisen.md).
+Le lac Glacier est une vaste étendue d'eau à moitié gelée située au cœur de l'[[Irrisen]].
 
-Il est alimenté par deux rivières, l'une venant du sud et des [Monts Kodar](./Monts Kodar.md), l'autre venant de l'est et du [Royaume des Seigneurs de Mammouths](./Royaume-des-Seigneurs-de-Mammouths.md).
+Il est alimenté par deux rivières, l'une venant du sud et des [[Monts Kodar]], l'autre venant de l'est et du [[Royaume des Seigneurs de Mammouths]].

@@ -9,6 +9,6 @@ Categories:
 
 {s:cm}*L’homme-serpent peut renouveler ses pouvoirs magiques en dépensant de l’énergie magique.*
 
-**Conditions.** Lanceur de sorts profanes, [NLS](./NLS.md) 4, [homme-lézard](./Homme-lézard.md)
+**Conditions.** Lanceur de sorts profanes, [[NLS]] 4, [[homme-lézard]]
 
-**Avantages.** L’homme-serpent peut dépenser deux emplacements de sort profane ou deux sorts préparés pour lancer l’un de ses pouvoirs magiques raciaux. Le niveau de chaque sort dépensé doit être au moins égal au niveau de sort d’[ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) du pouvoir magique qu’il veut lancer.
+**Avantages.** L’homme-serpent peut dépenser deux emplacements de sort profane ou deux sorts préparés pour lancer l’un de ses pouvoirs magiques raciaux. Le niveau de chaque sort dépensé doit être au moins égal au niveau de sort d’[[ensorceleur]]/[[magicien]] du pouvoir magique qu’il veut lancer.

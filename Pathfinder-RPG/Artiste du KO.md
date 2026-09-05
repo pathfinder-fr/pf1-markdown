@@ -10,9 +10,9 @@ Categories:
 
 {s:uc}*Le personnage peut mettre des coups de poing dévastateurs.*
 
-**Conditions.** [Attaque sournoise](./Roublard.md#ATTAQUESOURNOISE), [Science du combat à mains nues](./Science du combat à mains nues.md)
+**Conditions.** [[roublard#ATTAQUESOURNOISE|Attaque sournoise]], [[Science du combat à mains nues]]
 
-**Avantage.** Quand le personnage fait une attaque non létale à mains nues et inflige des dégâts d’attaque sournoise à un adversaire qui a perdu son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md), il gagne un bonus de +1 au jet de dégâts pour chaque dé d’attaque sournoise qu’il lance.
+**Avantage.** Quand le personnage fait une attaque non létale à mains nues et inflige des dégâts d’attaque sournoise à un adversaire qui a perdu son bonus de [[Dextérité]] à la [[CA]], il gagne un bonus de +1 au jet de dégâts pour chaque dé d’attaque sournoise qu’il lance.
 
 {s:CMy}
 ### Version mythique
@@ -20,4 +20,4 @@ Categories:
 
 **Condition.** Artiste du KO
 
-**Avantage.** Lorsque le personnage effectue un coup à mains nues pour infliger des dégâts non-létaux et des dégâts d’[attaque sournoise](./attaque sournoise.md) à un adversaire, il remplace les d6 par des d8 lorsqu’il détermine les dégâts infligés par l’[attaque sournoise](./attaque sournoise.md).
+**Avantage.** Lorsque le personnage effectue un coup à mains nues pour infliger des dégâts non-létaux et des dégâts d’[[attaque sournoise]] à un adversaire, il remplace les d6 par des d8 lorsqu’il détermine les dégâts infligés par l’[[attaque sournoise]].

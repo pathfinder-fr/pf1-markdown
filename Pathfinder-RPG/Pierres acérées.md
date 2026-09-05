@@ -10,26 +10,26 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 4, [Dru](./Druide.md) 4  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Zone d'effet** 1 carré de 6 m de côté/[niveau](./niveau.md)  
+**Zone d'effet** 1 carré de 6 m de côté/[[niveau]]  
 
-**Durée** 1 heure/[niveau](./niveau.md) (T)  
+**Durée** 1 heure/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Au terme de l’incantation, le terrain choisi (sol rocailleux ou en pierre) se couvre de pointes hérissées et invisibles, qui blessent et ralentissent toutes les créatures qui tentent de traverser la [zone d’effet](./zone deffet.md). Toute personne qui pénètre à pied dans la zone affectée subit 1d8 points de dégâts à chaque fois qu’il parcourt 1,50 m et sa [vitesse de déplacement](./vitesse de déplacement.md) est réduite de moitié.
+Au terme de l’incantation, le terrain choisi (sol rocailleux ou en pierre) se couvre de pointes hérissées et invisibles, qui blessent et ralentissent toutes les créatures qui tentent de traverser la [[zone deffet|zone d’effet]]. Toute personne qui pénètre à pied dans la zone affectée subit 1d8 points de dégâts à chaque fois qu’il parcourt 1,50 m et sa [[vitesse de déplacement]] est réduite de moitié.
 
-Toute créature touchée par ce sort doit réussir un jet de [Réflexes](./Réflexes.md) ou être blessée aux pieds ou aux jambes, ce qui réduit sa [vitesse de déplacement](./vitesse de déplacement.md) de moitié pendant vingt-quatre heures, à moins qu’elle ne reçoive un sort de soins (qui lui permet également de récupérer ses points de vie de façon normale). Elle peut aussi être soignée par un compagnon mais il doit panser ses plaies (ce qui lui prend dix minutes) et réussir un test de [Premiers secours](./Premiers secours.md) contre le [DD](./DD.md) du sort.
+Toute créature touchée par ce sort doit réussir un jet de [[Réflexes]] ou être blessée aux pieds ou aux jambes, ce qui réduit sa [[vitesse de déplacement]] de moitié pendant vingt-quatre heures, à moins qu’elle ne reçoive un sort de soins (qui lui permet également de récupérer ses points de vie de façon normale). Elle peut aussi être soignée par un compagnon mais il doit panser ses plaies (ce qui lui prend dix minutes) et réussir un test de [[Premiers secours]] contre le [[DD]] du sort.
 
-Les pièges magiques tels que *pierres acérées* sont très difficiles à détecter. Seul un [roublard](./Roublard.md) peut y parvenir en faisant appel à sa compétence de [Perception](./Perception.md) ([DD](./DD.md) 25 + niveau du sort, soit 29 pour *pierres acérées*). On ne peut pas désamorcer des *pierres acérées* à l’aide de la compétence [Sabotage](./Sabotage.md).
+Les pièges magiques tels que *pierres acérées* sont très difficiles à détecter. Seul un [[roublard]] peut y parvenir en faisant appel à sa compétence de [[Perception]] ([[DD]] 25 + niveau du sort, soit 29 pour *pierres acérées*). On ne peut pas désamorcer des *pierres acérées* à l’aide de la compétence [[Sabotage]].
 
 ### Mythique
 {s:CMy}
-Les dégâts infligés s’élèvent à 2d6 points de dégâts perforants + 1 point de dégâts de saignement. Ajoutez le [grade](./Grade.md) du personnage au [DD](./DD.md) pour détecter le piège magique.
+Les dégâts infligés s’élèvent à 2d6 points de dégâts perforants + 1 point de dégâts de saignement. Ajoutez le [[grade]] du personnage au [[DD]] pour détecter le piège magique.

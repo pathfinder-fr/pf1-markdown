@@ -9,9 +9,9 @@ Categories:
 - Sort prêtre 4
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Bard](./Barde.md) 4, [Prê](./Prêtre.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, F/FD](./composantes.md) (une effigie en pierre ou en métal de l’ancêtre du personnage)
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[barde|Bard]] 4, [[prêtre|Prê]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, F/FD]] (une effigie en pierre ou en métal de l’ancêtre du personnage)
 **Portée** personnelle
 **Cible** une arme magique
 **Durée** 10 minutes/niveau
@@ -20,4 +20,4 @@ La manifestation fantomatique d’un des ancêtres du personnage apparaît devan
 
 Le personnage peut manipuler l’arme s’il connaît son maniement. L’arme ne peut être manipulée par personne d’autre et disparaît si elle est retirée des mains du personnage, ce qui met immédiatement fin au sort.
 
-Si le personnage invoque une arme avec la propriété [feu](./feu (propriété).md), [froid](./froid (propriété).md), [foudre](./foudre (propriété).md) ou [tonnerre](./tonnerre (propriété).md), les registres de feu, froid, électricité ou sonique (respectivement) sont ajoutés au descriptif du sort.
+Si le personnage invoque une arme avec la propriété [[feu (propriété)|feu]], [[froid (propriété)|froid]], [[foudre (propriété)|foudre]] ou [[tonnerre (propriété)|tonnerre]], les registres de feu, froid, électricité ou sonique (respectivement) sont ajoutés au descriptif du sort.

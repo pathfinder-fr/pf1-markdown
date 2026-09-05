@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Ruines-Donjons|Froid}
 {s:BDTexte|<i>Source : Bestiaire 2</i> p.293}
 {s:BDTexte|<b>PX</b> 6 400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille TG, N}
-{s:BDTexte|<b>Init</b> +6 ; <b>Sens</b> [vision aveugle](./vision aveugle.md) 36 m (24 {s:c}) ; [Perception](./Perception.md) +18}
+{s:BDTexte|[[type créature magique|Créature magique]] de taille TG, N}
+{s:BDTexte|<b>Init</b> +6 ; <b>Sens</b> [[vision aveugle]] 36 m (24 {s:c}) ; [[Perception]] +18}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 23, contact 11, pris au dépourvu 20 (Dex +2, esquive +1, naturelle +12, taille -2)}
 {s:BDTexte|<b>pv</b> 114 (12d10+48)}
@@ -30,19 +30,19 @@ Categories:
 {s:BDTexte|<b>Attaques spéciales</b> explosion}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 24, <b>Dex</b> 14, <b>Con</b> 18, <b>Int</b> 7, <b>Sag</b> 15, <b>Cha</b> 11}
-{s:BDTexte|<b>BBA</b> +12, <b>BMO</b> +21, <b>DMD</b> 34 (38 contre [croc-en-jambe](./croc-en-jambe.md)})
-{s:BDTexte|<b>Dons</b> [Attaque en vol](./Attaque en vol.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|<b>Compétences</b> [Perception](./Perception.md) +18, [Vol](./Vol.md) +7}
-{s:BDTexte|<b>Modificateurs raciaux</b> +4 en  [Perception](./Perception.md)}
+{s:BDTexte|<b>BBA</b> +12, <b>BMO</b> +21, <b>DMD</b> 34 (38 contre [[croc-en-jambe]]})
+{s:BDTexte|<b>Dons</b> [[Attaque en vol]], [[Esquive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|<b>Compétences</b> [[Perception]] +18, [[Vol]] +7}
+{s:BDTexte|<b>Modificateurs raciaux</b> +4 en  [[Perception]]}
 {s:BDTexte|<b>Langues</b> draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> déserts/collines/montagnes tempérés}
 {s:BDTexte|<b>Organisation sociale</b> solitaire, couple ou portée (3-6)}
 {s:BDTexte|<b>Trésor</b> fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|<b>Aveugle (Ext).</b> Un yrthak ne voit et ne perçoit ce qui l’entoure qu’à travers sa capacité de [vision aveugle](./vision aveugle.md) basée sur les mouvements et les bruits. Il est aveugle à tout ce qui se passe à plus de 36 mètres (24 {s:c}) de lui. Un yrthak sourd fonctionne comme s’il était aveugle, même contre les ennemis adjacents. Il peut tout de même d’attaquer les cibles qui se trouvent à côté de lui, mais celles-ci bénéficient d’un [camouflage](./camouflage.md) (20% de chances d’échec) à cause de sa vue réduite. Les yrthaks sont immunisés contre tous les effets et toutes les attaques dépendant de la vue, y compris les attaques de regard.}
-{s:BDTexte|<b>Explosion (Ext).</b> Par une [action simple](./Action simple.md), un yrthak peut diriger sa lance sonique vers le sol, un gros rocher, un mur de pierre ou un objet non magique similaire situé dans un rayon de 18 mètres (12 {s:c}) et ainsi créer une explosion. Cette attaque inflige 2d6 points de dégâts de type perforant à toutes les créatures situées dans un rayon de 3 mètres (2 {s:c}) autour du centre de l’effet.}
-{s:BDTexte|<b>Lance sonique (Ext).</b> Une fois par [round](./round.md), un yrthak peut concentrer de l’énergie sonique en un rayon de 18 mètres (12 {s:c}) qui inflige 8d6 points de dégâts de son à une cible.}
+{s:BDTexte|<b>Aveugle (Ext).</b> Un yrthak ne voit et ne perçoit ce qui l’entoure qu’à travers sa capacité de [[vision aveugle]] basée sur les mouvements et les bruits. Il est aveugle à tout ce qui se passe à plus de 36 mètres (24 {s:c}) de lui. Un yrthak sourd fonctionne comme s’il était aveugle, même contre les ennemis adjacents. Il peut tout de même d’attaquer les cibles qui se trouvent à côté de lui, mais celles-ci bénéficient d’un [[camouflage]] (20% de chances d’échec) à cause de sa vue réduite. Les yrthaks sont immunisés contre tous les effets et toutes les attaques dépendant de la vue, y compris les attaques de regard.}
+{s:BDTexte|<b>Explosion (Ext).</b> Par une [[action simple]], un yrthak peut diriger sa lance sonique vers le sol, un gros rocher, un mur de pierre ou un objet non magique similaire situé dans un rayon de 18 mètres (12 {s:c}) et ainsi créer une explosion. Cette attaque inflige 2d6 points de dégâts de type perforant à toutes les créatures situées dans un rayon de 3 mètres (2 {s:c}) autour du centre de l’effet.}
+{s:BDTexte|<b>Lance sonique (Ext).</b> Une fois par [[round]], un yrthak peut concentrer de l’énergie sonique en un rayon de 18 mètres (12 {s:c}) qui inflige 8d6 points de dégâts de son à une cible.}
 </div>
 </td><td><div>
 *Ce reptile volant possède de grandes ailes membraneuses et une crête de couleur vive sur sa tête étroite et ornée de cornes.*

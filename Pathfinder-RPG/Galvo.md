@@ -10,7 +10,7 @@ LastModified: 2017-01-19 21:25
 {s:pucem|Créature magique|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 109*}
 - **6 400 PX**
-- [Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille M, NM
+- [[type créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille M, NM
 - **Init **+4 ; Sens perception aveugle à 18 m, vision dans le noir à 18 m, vision nocturne ; Perception +10
 (((Défense)))
 - **CA **23, contact 15, pris au dépourvu 18 (Dex +4, esquive +1, naturelle +8)
@@ -25,8 +25,8 @@ LastModified: 2017-01-19 21:25
 (((Statistiques)))
 - **For **17, **Dex **19, **Con **16, **Int **7, **Sag** 12, **Cha **8
 - **BBA **+15 ; **BMO **+18 ; **DMD **33 (croc-en-jambe impossible)
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)
-- **Compétences **[Discrétion](./Discrétion.md) +15, [Natation](./Natation.md) +15, [Perception](./Perception.md) +10 
+- **Dons **[[Attaque en finesse]], [[Attaque en puissance]], [[Attaques réflexes]], [[Combat en aveugle]], [[Esquive]], [[Frappe décisive]], [[Tir à bout portant]], [[Tir de précision]]
+- **Compétences **[[Discrétion]] +15, [[Natation]] +15, [[Perception]] +10 
 - **Langues **aquatique (ne peut pas parler)
 - **Particularités **amphibie, compression, attaques diverses
 (((Écologie)))

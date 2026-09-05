@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#DESTRUCTIONDESORT
 ---
 
->>> [pouvoirs de rage#DESTRUCTIONDESORT](./Pouvoirs de rage.md#DESTRUCTIONDESORT)
+>>> [[pouvoirs de rage#DESTRUCTIONDESORT]]

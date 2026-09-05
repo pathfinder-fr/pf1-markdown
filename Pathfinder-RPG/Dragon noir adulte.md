@@ -12,9 +12,9 @@ Categories:
 {s:pucem|Dragon|Marais|Tropical}
 {s:BDTexte|*Source : Bestiaire p.100.*}
 {s:BDTexte|**PX** 12.800}
-{s:BDTexte|[Dragon](./type Dragon.md) ([Eau](./sous-type Eau.md)) de taille G, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [sens draconiques](./sens draconiques.md) ; [Perception](./Perception.md) +24}
-{s:BDTexte|**Aura** [présence terrifiante](./présence terrifiante (dragon).md) (54 m (36 {s:c}), DD 19)}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Eau|Eau]]) de taille G, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[sens draconiques]] ; [[Perception]] +24}
+{s:BDTexte|**Aura** [[présence terrifiante (dragon)|présence terrifiante]] (54 m (36 {s:c}), DD 19)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 10, pris au dépourvu 27 (Dex +1, naturelle +18, taille -1)}
 {s:BDTexte|**pv** 161 (14d12+70)}
@@ -24,21 +24,21 @@ Categories:
 {s:BDTexte|**VD** 18 m (12 {s:c}), nage 18 m (12 {s:c}), vol 60 m (40 {s:c}) (médiocre)}
 {s:BDTexte|**Corps à corps** morsure, +21 (2d6+10), 2 griffes, +20 (1d8+7), 2 ailes, +15 (1d6+3), queue, +15 (1d8+10)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c}) (3 m (2 {s:c}) pour la morsure)}
-{s:BDTexte|**Attaques spéciales** corruption de l'eau, souffle ([ligne](./ligne.md) de 24 m (16 {s:c}), DD 22, 12d6 acide)}
+{s:BDTexte|**Attaques spéciales** corruption de l'eau, souffle ([[ligne]] de 24 m (16 {s:c}), DD 22, 12d6 acide)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 14<sup>e</sup>)}
-{s:BDSorts|À volonté — *[ténèbres](./Ténèbres.md)* (18 m (12 {s:c}) de rayon)}
+{s:BDSorts|À volonté — *[[ténèbres]]* (18 m (12 {s:c}) de rayon)}
 {s:BDTexte|**Sorts connus** (NLS 3<sup>e</sup>)}
-{s:BDSorts|1<sup>er</sup> (6/jour) — *[alarme](./Alarme.md)*, *[armure de mage](./Armure de mage.md)*, *[brume de dissimulation](./Brume de dissimulation.md)*}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[message](./Message.md)*, *[réparation](./Réparation.md)*}
+{s:BDSorts|1<sup>er</sup> (6/jour) — *[[alarme]]*, *[[armure de mage]]*, *[[brume de dissimulation]]*}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[lecture de la magie]]*, *[[lumières dansantes]]*, *[[message]]*, *[[réparation]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 12, **Con** 21, **Int** 14, **Sag** 17, **Cha** 14}
-{s:BDTexte|**BBA** +14, **BMO** +22, **DMD** 33 (37 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Frappe décisive](./Frappe décisive.md), [Science de l'initiative](./Science de linitiative.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +19, [Connaissances](./Connaissances.md) (mystères) +19, [Discrétion](./Discrétion.md) +20, [Dressage](./Dressage.md) +16, [Intimidation](./Intimidation.md) +19, [Natation](./Natation.md) +32, [Perception](./Perception.md) +24, [Vol](./Vol.md) +12}
+{s:BDTexte|**BBA** +14, **BMO** +22, **DMD** 33 (37 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Frappe décisive]], [[Science de linitiative|Science de l'initiative]], [[Science de la frappe décisive]], [[Talent]] ([[Discrétion]]), [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +19, [[Connaissances]] (mystères) +19, [[Discrétion]] +20, [[Dressage]] +16, [[Intimidation]] +19, [[Natation]] +32, [[Perception]] +24, [[Vol]] +12}
 {s:BDTexte|**Langues** commun, draconique, géant}
 {s:BDTexte|**Particularités** communication avec les reptiles, déplacement facilité (marais), respiration aquatique}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons chromatiques](./dragon chromatique.md).***</li><li>***Voir la description des [dragons noirs](./Dragon noir.md).***</li></ul>*Les gouttes d’acide verdâtre qui s’écoulent des crocs de ce dragon cornu aux écailles noires sifflent dans l’air.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon chromatique|dragons chromatiques]].***</li><li>***Voir la description des [[Dragon noir|dragons noirs]].***</li></ul>*Les gouttes d’acide verdâtre qui s’écoulent des crocs de ce dragon cornu aux écailles noires sifflent dans l’air.*
 </div>
 
 {s:ImageDroite|Bestiaire/Dragon noir.jpg|90%}

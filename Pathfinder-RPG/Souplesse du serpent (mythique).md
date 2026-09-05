@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage a perfectionné son aptitude à se faufiler sur le champ de bataille en utilisant ses capacités de déplacement pour pousser son **Avantage.** *
 
-**Condition.** [Souplesse du serpent](./Souplesse du serpent.md)
+**Condition.** [[Souplesse du serpent]]
 
-**Avantage.** Lorsqu’il utilise [Souplesse du serpent](./Souplesse du serpent.md), le personnage gagne un bonus d’esquive de +6 à la CA à la place du bonus normal de +4. De plus, une fois par round lorsqu’une attaque d’opportunité provoquée par son déplacement le rate, il peut se déplacer de 1,50 mètre par une [action libre](./Action libre.md). Ce déplacement n’est pas compté dans la distance totale que le personnage parcourt durant le round en cours, mais il provoque tout de même des attaques d’opportunité.
+**Avantage.** Lorsqu’il utilise [[Souplesse du serpent]], le personnage gagne un bonus d’esquive de +6 à la CA à la place du bonus normal de +4. De plus, une fois par round lorsqu’une attaque d’opportunité provoquée par son déplacement le rate, il peut se déplacer de 1,50 mètre par une [[action libre]]. Ce déplacement n’est pas compté dans la distance totale que le personnage parcourt durant le round en cours, mais il provoque tout de même des attaques d’opportunité.

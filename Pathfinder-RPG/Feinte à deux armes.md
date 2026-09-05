@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage utilise une arme pour distraire son adversaire tandis qu’il franchit ses défenses avec l’autre. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 15, [Int](./Int.md) 13, [Expertise du combat](./Expertise du combat.md), [Combat à deux armes](./Combat à deux armes.md)
+**Conditions.** [[Dex]] 15, [[Int]] 13, [[Expertise du combat]], [[Combat à deux armes]]
 
-**Avantage.** Quand le personnage fait une attaque de corps à corps avec [Combat à deux armes](./Combat à deux armes.md), il peut échanger l’attaque de son arme principale pour faire une [feinte](./feinte.md) avec un test de [Bluff](./Bluff.md).
+**Avantage.** Quand le personnage fait une attaque de corps à corps avec [[Combat à deux armes]], il peut échanger l’attaque de son arme principale pour faire une [[feinte]] avec un test de [[Bluff]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut choisir ce don même s’il ne remplit pas les conditions requises au niveau des caractéristiques ([Intelligence](./Intelligence.md) 13). Il bénéficie du don tant qu’il lui reste au moins 1 point dans sa réserve d’endurance. Quand il utilise le [Combat à deux armes](./Combat à deux armes.md) pour effectuer une attaque au corps à corps, il peut dépenser 5 points d’endurance pour renoncer à une de ses attaques, n’importe laquelle (et non pas uniquement sa première attaque de la main directrice) pour tenter une [feinte](./feinte.md) avec un test de [Bluff](./Bluff.md). Cette feinte se produit avant la totalité des attaques du personnage, même s’il a sacrifié une attaque autre que la première.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut choisir ce don même s’il ne remplit pas les conditions requises au niveau des caractéristiques ([[Intelligence]] 13). Il bénéficie du don tant qu’il lui reste au moins 1 point dans sa réserve d’endurance. Quand il utilise le [[Combat à deux armes]] pour effectuer une attaque au corps à corps, il peut dépenser 5 points d’endurance pour renoncer à une de ses attaques, n’importe laquelle (et non pas uniquement sa première attaque de la main directrice) pour tenter une [[feinte]] avec un test de [[Bluff]]. Cette feinte se produit avant la totalité des attaques du personnage, même s’il a sacrifié une attaque autre que la première.

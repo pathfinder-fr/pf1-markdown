@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#BRISEURDESORTS
 ---
 
->>> [arcanes#BRISEURDESORTS](./arcanes.md#BRISEURDESORTS)
+>>> [[arcanes#BRISEURDESORTS]]

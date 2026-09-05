@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Cherche-cœur
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Cherche-cœur](./Descriptions individuelles des propriétés spéciales des armes.md#Cherche-cœur)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Cherche-cœur]]

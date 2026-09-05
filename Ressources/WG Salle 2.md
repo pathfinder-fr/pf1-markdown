@@ -6,8 +6,8 @@ Categories:
 - Weekly Grind
 ---
 
-<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=194982103879053) publiée avec l'autorisation de l'auteur Jason Bulmahn — [retour à l'index](./Weekly Grind.md)</p>
-La porte nord de la [Salle 1](./WG Salle 1.md) mène dans la première d'une série de salles qui constituent un sanctuaire maléfique au sein de ce donjon. Quand les PJ pénètrent dans cette pièce, lisez ou paraphrasez le texte suivant.
+<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=194982103879053) publiée avec l'autorisation de l'auteur Jason Bulmahn — [[Weekly Grind|retour à l'index]]</p>
+La porte nord de la [[WG Salle 1|Salle 1]] mène dans la première d'une série de salles qui constituent un sanctuaire maléfique au sein de ce donjon. Quand les PJ pénètrent dans cette pièce, lisez ou paraphrasez le texte suivant.
 
 <center><img src="http://www.pathfinder-fr.org/Wiki/public/upload/Illustrations/WeeklyGrind/wg2.jpg" /></center>
 

@@ -9,317 +9,317 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:MenuCompétences}''Le C désigne les [compétences de classe](./compétence de classe.md).
-Les caractéristiques marquées d'un astérisque (*) signifient que le [malus d’armure](./Format de description des compétences.md#MALUSDARMURE) s’applique à tous les tests de la compétence associée.''
+{s:MenuCompétences}''Le C désigne les [[compétence de classe|compétences de classe]].
+Les caractéristiques marquées d'un astérisque (*) signifient que le [[Format de description des compétences#MALUSDARMURE|malus d’armure]] s’applique à tous les tests de la compétence associée.''
 
 ### Classes de base
 {| CLASS="tablo centre"
 |+ Résumé des compétences
 |- CLASS="titre"
-| Compétence || [Barb](./Barbare.md) || [Bard](./Barde.md) || [Dru](./Druide.md) || [Ens](./Ensorceleur.md) || [Gue](./Guerrier.md) || [Magi](./Magicien.md) || [Moi](./Moine.md) || [Pal](./Paladin.md) || [Prê](./Prêtre.md) || [Rôd](./Rôdeur.md) || [Rou](./Roublard.md) || [Utilisable   
-sans formation](./Format de description des compétences.md#UTILISABLESANSFORMATION) || [Caractéristique](./Caractéristiques.md)
+| Compétence || [[Barbare|Barb]] || [[Barde|Bard]] || [[Druide|Dru]] || [[Ensorceleur|Ens]] || [[Guerrier|Gue]] || [[Magicien|Magi]] || [[Moine|Moi]] || [[Paladin|Pal]] || [[Prêtre|Prê]] || [[Rôdeur|Rôd]] || [[Roublard|Rou]] || [[Format de description des compétences#UTILISABLESANSFORMATION|Utilisable   
+sans formation]] || [[Caractéristiques|Caractéristique]]
 |- CLASS="premier"
-| [Acrobaties](./Acrobaties.md) || C || C || — || — || — || — || C || — || — || — || C || Oui || [Dex](./Dextérité.md)*
+| [[Acrobaties]] || C || C || — || — || — || — || C || — || — || — || C || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Art de la magie](./Art de la magie.md) || — || C || C || C || — || C || — || C || C || C || — || Non || [Int](./Intelligence.md)
+| [[Art de la magie]] || — || C || C || C || — || C || — || C || C || C || — || Non || [[Intelligence|Int]]
 |-
-| [Artisanat](./Artisanat.md) || C || C || C || C || C || C || C || C || C || C || C || Oui || [Int](./Intelligence.md)
+| [[Artisanat]] || C || C || C || C || C || C || C || C || C || C || C || Oui || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Bluff](./Bluff.md) || — || C || — || C  || — || — || — || — || — || — || C || Oui || [Cha](./Charisme.md)
+| [[Bluff]] || — || C || — || C  || — || — || — || — || — || — || C || Oui || [[Charisme|Cha]]
 |-
-| [Connaissances](./Connaissances.md) (exploration souterraine) || — || C || — || — || C || C || — || — || — || C || C || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (exploration souterraine) || — || C || — || — || C || C || — || — || — || C || C || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (folklore local) || — || C || — || — || — || C || — || — || — || — || C || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (folklore local) || — || C || — || — || — || C || — || — || — || — || C || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (géographie) || — || C || C || — || — || C || — || — || — || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (géographie) || — || C || C || — || — || C || — || — || — || C || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (histoire) || — || C || — || — || — || C || C || — || C || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (histoire) || — || C || — || — || — || C || C || — || C || — || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (ingénierie) || — || C || — || — || C || C || — || — || — || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (ingénierie) || — || C || — || — || C || C || — || — || — || — || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (mystères) || — || C || — || C || — || C || — || — || C || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (mystères) || — || C || — || C || — || C || — || — || C || — || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (nature) || C || C || C || — || — || C || — || — || — || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (nature) || C || C || C || — || — || C || — || — || — || C || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (noblesse) || — || C || — || — || — || C || — || C || C || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (noblesse) || — || C || — || — || — || C || — || C || C || — || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (plans) || — || C || — || — || — || C || — || — || C || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (plans) || — || C || — || — || — || C || — || — || C || — || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (religion) || — || C || — || — || — || C || C || C || C || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (religion) || — || C || — || — || — || C || C || C || C || — || — || Non || [[Intelligence|Int]]
 |-
-| [Déguisement](./Déguisement.md) || — || C || — || — || — || — || — || — || — || — || C || Oui || [Cha](./Charisme.md)
+| [[Déguisement]] || — || C || — || — || — || — || — || — || — || — || C || Oui || [[Charisme|Cha]]
 |- CLASS="alt"
-| [Diplomatie](./Diplomatie.md) || — || C || — || — || — || — || — || C || C || — || C || Oui || [Cha](./Charisme.md)
+| [[Diplomatie]] || — || C || — || — || — || — || — || C || C || — || C || Oui || [[Charisme|Cha]]
 |-
-| [Discrétion](./Discrétion.md) || — || C || — || — || — || — || C || — || — || C || C || Oui || [Dex](./Dextérité.md)*
+| [[Discrétion]] || — || C || — || — || — || — || C || — || — || C || C || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Dressage](./Dressage.md) || C || — || C || — || C || — || — || C || — || C || — || Non || [Cha](./Charisme.md)
+| [[Dressage]] || C || — || C || — || C || — || — || C || — || C || — || Non || [[Charisme|Cha]]
 |-
-| [Équitation](./Équitation.md) || C || — || C || — || C || — || C || C || — || C || — || Oui || [Dex](./Dextérité.md)*
+| [[Équitation]] || C || — || C || — || C || — || C || C || — || C || — || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Escalade](./Escalade.md) || C || C || C || — || C || — || C || — || — || C || C || Oui || [For](./Force.md)*
+| [[Escalade]] || C || C || C || — || C || — || C || — || — || C || C || Oui || [[Force|For]]*
 |-
-| [Escamotage](./Escamotage.md) || — || C || — || — || — || — || — || — || — || — || C || Non || [Dex](./Dextérité.md)*
+| [[Escamotage]] || — || C || — || — || — || — || — || — || — || — || C || Non || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Estimation](./Estimation.md) || — || C || — || C || — || C || — || — || C || — || C || Oui || [Int](./Intelligence.md)
+| [[Estimation]] || — || C || — || C || — || C || — || — || C || — || C || Oui || [[Intelligence|Int]]
 |-
-| [Évasion](./Évasion.md) || — || C || — || — || — || — || C || — || — || — || C || Oui || [Dex](./Dextérité.md)*
+| [[Évasion]] || — || C || — || — || — || — || C || — || — || — || C || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Intimidation](./Intimidation.md) || C || C || — || C || C || — || C || — || — || C || C || Oui || [Cha](./Charisme.md)
+| [[Intimidation]] || C || C || — || C || C || — || C || — || — || C || C || Oui || [[Charisme|Cha]]
 |-
-| [Linguistique](./Linguistique.md) || — || C || — || — || — || C || — || — || C || — || C || Non || [Int](./Intelligence.md)
+| [[Linguistique]] || — || C || — || — || — || C || — || — || C || — || C || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Natation](./Natation.md) || C || — || C || — || C || — || C || — || — || C || C || Oui || [For](./Force.md)*
+| [[Natation]] || C || — || C || — || C || — || C || — || — || C || C || Oui || [[Force|For]]*
 |-
-| [Perception](./Perception.md) || C || C || C || — || — || — || C || — || — || C || C || Oui || [Sag](./Sagesse.md)
+| [[Perception]] || C || C || C || — || — || — || C || — || — || C || C || Oui || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Premiers secours](./Premiers secours.md) || — || — || C || — || — || — || — || C || C || C || — || Oui || [Sag](./Sagesse.md)
+| [[Premiers secours]] || — || — || C || — || — || — || — || C || C || C || — || Oui || [[Sagesse|Sag]]
 |-
-| [Profession](./Profession.md) || — || C || C || C || C || C || C || C || C || C || C || Non || [Sag](./Sagesse.md)
+| [[Profession]] || — || C || C || C || C || C || C || C || C || C || C || Non || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Psychologie](./Psychologie.md) || — || C || — || — || — || — || C || — || C || — || C || Oui || [Sag](./Sagesse.md)
+| [[Psychologie]] || — || C || — || — || — || — || C || — || C || — || C || Oui || [[Sagesse|Sag]]
 |-
-| [Représentation](./Représentation.md) || — || C || — || — || — || — || C || — || — || — || C || Oui || [Cha](./Charisme.md)
+| [[Représentation]] || — || C || — || — || — || — || C || — || — || — || C || Oui || [[Charisme|Cha]]
 |- CLASS="alt"
-| [Sabotage](./Sabotage.md) || — || — || — || — || — || — || — || — || — || — || C || Non || [Dex](./Dextérité.md)*
+| [[Sabotage]] || — || — || — || — || — || — || — || — || — || — || C || Non || [[Dextérité|Dex]]*
 |-
-| [Survie](./Survie.md) || C || — || C || — || C || — || — || — || — || C || — || Oui || [Sag](./Sagesse.md)
+| [[Survie]] || C || — || C || — || C || — || — || — || — || C || — || Oui || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) || — || C || — || C || — || — || — || — || — || — || C || Non || [Cha](./Charisme.md)
+| [[Utilisation dObjets magiques|Utilisation d'objets magiques]] || — || C || — || C || — || — || — || — || — || — || C || Non || [[Charisme|Cha]]
 |-
-| [Vol](./Vol.md) || — || — || C || C || — || C || — || — || — || — || — || Oui || [Dex](./Dextérité.md)*
+| [[Vol]] || — || — || C || C || — || C || — || — || — || — || — || Oui || [[Dextérité|Dex]]*
 |}
 
 ### Classes supplémentaires
 {| CLASS="tablo centre"
 |+ Résumé des compétences
 |- CLASS="titre"
-| Compétence || [Alc](./Alchimiste.md) || [AntiPal](./Antipaladin.md) || [Che](./Chevalier.md) || [Con](./Conjurateur.md) || [Inq](./Inquisiteur.md) || [Magu](./Magus.md) || [Ora](./Oracle.md) || [Sor](./Sorcière.md) || [Nin](./Ninja.md) || [Pis](./Pistolier.md)  || [Sam](./Samouraï.md) || [Utilisable   
-sans formation](./Format de description des compétences.md#UTILISABLESANSFORMATION) || [Caractéristique](./Caractéristiques.md)
+| Compétence || [[Alchimiste|Alc]] || [[Antipaladin|AntiPal]] || [[Chevalier|Che]] || [[Conjurateur|Con]] || [[Inquisiteur|Inq]] || [[Magus|Magu]] || [[Oracle|Ora]] || [[Sorcière|Sor]] || [[Ninja|Nin]] || [[Pistolier|Pis]]  || [[Samouraï|Sam]] || [[Format de description des compétences#UTILISABLESANSFORMATION|Utilisable   
+sans formation]] || [[Caractéristiques|Caractéristique]]
 |- CLASS="premier"
-| [Acrobaties](./Acrobaties.md) || C || — || — || — || — || — || — || C || C || C || — || Oui || [Dex](./Dextérité.md)*
+| [[Acrobaties]] || C || — || — || — || — || — || — || C || C || C || — || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Art de la magie](./Art de la magie.md) || C || C || — || C || C || C || C || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Art de la magie]] || C || C || — || C || C || C || C || C || — || — || — || Non || [[Intelligence|Int]]
 |-
-| [Artisanat](./Artisanat.md) || C || C || C || C || C || C || C || C || C || C || C || Oui || [Int](./Intelligence.md)
+| [[Artisanat]] || C || C || C || C || C || C || C || C || C || C || C || Oui || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Bluff](./Bluff.md) || — || C || C || — || C || — || — || C || C || C || C || Oui || [Cha](./Charisme.md)
+| [[Bluff]] || — || C || C || — || C || — || — || C || C || C || C || Oui || [[Charisme|Cha]]
 |-
-| [Connaissances](./Connaissances.md) (exploration souterraine) || — || — || — || C || C || C || — || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (exploration souterraine) || — || — || — || C || C || C || — || C || — || — || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (folklore local) || — || — || — || C || — || — || — || C || C || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (folklore local) || — || — || — || C || — || — || — || C || C || C || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (géographie) || — || — || — || C || — || — || — || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (géographie) || — || — || — || C || — || — || — || C || — || — || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (histoire) || — || — || — || C || — || — || C || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (histoire) || — || — || — || C || — || — || C || C || — || — || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (ingénierie) || — || — || — || C || — || — || — || C || — || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (ingénierie) || — || — || — || C || — || — || — || C || — || C || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (mystères) || C || — || — || C || C || C || — || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (mystères) || C || — || — || C || C || C || — || C || — || — || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (nature) || C || — || — || C || C || — || — || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (nature) || C || — || — || C || C || — || — || C || — || — || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (noblesse) || — || — || — || C || — || — || — || C || C || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (noblesse) || — || — || — || C || — || — || — || C || C || — || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (plans) || — || — || — || C || C || C || C || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (plans) || — || — || — || C || C || C || C || C || — || — || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (religion) || — || C || — || C || C || — || C || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (religion) || — || C || — || C || C || — || C || C || — || — || — || Non || [[Intelligence|Int]]
 |-
-| [Déguisement](./Déguisement.md) || — || C || — || — || C || — || — || — || C || — || — || Oui || [Cha](./Charisme.md)
+| [[Déguisement]] || — || C || — || — || C || — || — || — || C || — || — || Oui || [[Charisme|Cha]]
 |- CLASS="alt"
-| [Diplomatie](./Diplomatie.md) || — || — || C || — || C || — || C || C || C || — || C || Oui || [Cha](./Charisme.md)
+| [[Diplomatie]] || — || — || C || — || C || — || C || C || C || — || C || Oui || [[Charisme|Cha]]
 |-
-| [Discrétion](./Discrétion.md) || — || C || — || — || C || — || — || — || C || — || — || Oui || [Dex](./Dextérité.md)*
+| [[Discrétion]] || — || C || — || — || C || — || — || — || C || — || — || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Dressage](./Dressage.md) || — || C || C || C || — || — || — || C || — || C || C || Non || [Cha](./Charisme.md)
+| [[Dressage]] || — || C || C || C || — || — || — || C || — || C || C || Non || [[Charisme|Cha]]
 |-
-| [Équitation](./Équitation.md) || — || C || C || C || C || C || — || C || — || C || C || Oui || [Dex](./Dextérité.md)*
+| [[Équitation]] || — || C || C || C || C || C || — || C || — || C || C || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Escalade](./Escalade.md) || — || — || C || — || C || C || — || C || C || C || C || Oui || [For](./Force.md)*
+| [[Escalade]] || — || — || C || — || C || C || — || C || C || C || C || Oui || [[Force|For]]*
 |-
-| [Escamotage](./Escamotage.md) || C || — || — || — || — || — || — || — || C || C || — || Non || [Dex](./Dextérité.md)*
+| [[Escamotage]] || C || — || — || — || — || — || — || — || C || C || — || Non || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Estimation](./Estimation.md) || C || — || — || — || — || — || — || C || C || — || — || Oui || [Int](./Intelligence.md)
+| [[Estimation]] || C || — || — || — || — || — || — || C || C || — || — || Oui || [[Intelligence|Int]]
 |-
-| [Évasion](./Évasion.md) || — || — || — || — || — || — || — || C || C || — || — || Oui || [Dex](./Dextérité.md)*
+| [[Évasion]] || — || — || — || — || — || — || — || C || C || — || — || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Intimidation](./Intimidation.md) || — || C || C || — || C || C || — || C || C || C || C || Oui || [Cha](./Charisme.md)
+| [[Intimidation]] || — || C || C || — || C || C || — || C || C || C || C || Oui || [[Charisme|Cha]]
 |-
-| [Linguistique](./Linguistique.md) || — || C || — || C || — || — || — || C || C || — || —  || Non || [Int](./Intelligence.md)
+| [[Linguistique]] || — || C || — || C || — || — || — || C || C || — || —  || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Natation](./Natation.md) || — || — || C || — || C || C || — || C || C || C || C || Oui || [For](./Force.md)*
+| [[Natation]] || — || — || C || — || C || C || — || C || C || C || C || Oui || [[Force|For]]*
 |-
-| [Perception](./Perception.md) || C || — || — || — || C || — || — || C || C || C || — || Oui || [Sag](./Sagesse.md)
+| [[Perception]] || C || — || — || — || C || — || — || C || C || C || — || Oui || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Premiers secours](./Premiers secours.md) || C || — || — || — || C || — || C || — || — || C || — || Oui || [Sag](./Sagesse.md)
+| [[Premiers secours]] || C || — || — || — || C || — || C || — || — || C || — || Oui || [[Sagesse|Sag]]
 |-
-| [Profession](./Profession.md) || C || C || C || C || C || C || C || C || C || C || C || Non || [Sag](./Sagesse.md)
+| [[Profession]] || C || C || C || C || C || C || C || C || C || C || C || Non || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Psychologie](./Psychologie.md) || — || C || C || — || C || — || C || C || C || — || C || Oui || [Sag](./Sagesse.md)
+| [[Psychologie]] || — || C || C || — || C || — || C || C || C || — || C || Oui || [[Sagesse|Sag]]
 |-
-| [Représentation](./Représentation.md) || — || — || — || — || — || — || — || C || C || — || — || Oui || [Cha](./Charisme.md)
+| [[Représentation]] || — || — || — || — || — || — || — || C || C || — || — || Oui || [[Charisme|Cha]]
 |- CLASS="alt"
-| [Sabotage](./Sabotage.md) || C || — || — || — || — || — || — || — || C || — || — || Non || [Dex](./Dextérité.md)*
+| [[Sabotage]] || C || — || — || — || — || — || — || — || C || — || — || Non || [[Dextérité|Dex]]*
 |-
-| [Survie](./Survie.md) || C || — || — || — || C || — || — || — || — || C || — || Oui || [Sag](./Sagesse.md)
+| [[Survie]] || C || — || — || — || C || — || — || — || — || C || — || Oui || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) || C || — || — || C || — || C || — || C || C || — || — || Non || [Cha](./Charisme.md)
+| [[Utilisation dObjets magiques|Utilisation d'objets magiques]] || C || — || — || C || — || C || — || C || C || — || — || Non || [[Charisme|Cha]]
 |-
-| [Vol](./Vol.md) || C || — || — || C || — || C || — || — || — || — || — || Oui || [Dex](./Dextérité.md)*
+| [[Vol]] || C || — || — || C || — || C || — || — || — || — || — || Oui || [[Dextérité|Dex]]*
 |}
 
 ### Classes hybrides
 {| CLASS="tablo centre"
 |+ Résumé des compétences
 |- CLASS="titre"
-| Compétence || [Arc](./Arcaniste.md) || [Bre](./Bretteur.md) || [Cham](./Chaman.md) || [Chas](./Chasseur.md) || [Enq](./Enquêteur.md) || [Lut](./Lutteur.md) || [PrêCo](./Prêtre combattant.md) || [San](./Sanguin.md) || [Sca](./Scalde.md) || [Tue](./Tueur.md) || [Utilisable   
-sans formation](./Format de description des compétences.md#UTILISABLESANSFORMATION) || [Caractéristique](./Caractéristiques.md)
+| Compétence || [[Arcaniste|Arc]] || [[Bretteur|Bre]] || [[Chaman|Cham]] || [[Chasseur|Chas]] || [[Enquêteur|Enq]] || [[Lutteur|Lut]] || [[Prêtre combattant|PrêCo]] || [[Sanguin|San]] || [[Scalde|Sca]] || [[Tueur|Tue]] || [[Format de description des compétences#UTILISABLESANSFORMATION|Utilisable   
+sans formation]] || [[Caractéristiques|Caractéristique]]
 |- CLASS="premier"
-| [Acrobaties](./Acrobaties.md) || — || C || — || — || C || C || — || C || C || C || Oui || [Dex](./Dextérité.md)*
+| [[Acrobaties]] || — || C || — || — || C || C || — || C || C || C || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Art de la magie](./Art de la magie.md) || C || — || C || C || C || — || C || C || C || — || Non || [Int](./Intelligence.md)
+| [[Art de la magie]] || C || — || C || C || C || — || C || C || C || — || Non || [[Intelligence|Int]]
 |-
-| [Artisanat](./Artisanat.md) || C || C || C || C || C || C || C || C || C || C || Oui || [Int](./Intelligence.md)
+| [[Artisanat]] || C || C || C || C || C || C || C || C || C || C || Oui || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Bluff](./Bluff.md) || — || C || — || — || C || — || — || — || C || C || Oui || [Cha](./Charisme.md)
+| [[Bluff]] || — || C || — || — || C || — || — || — || C || C || Oui || [[Charisme|Cha]]
 |-
-| [Connaissances](./Connaissances.md) (exploration souterraine) || C || — || — || C || C || C || — || — || C || C || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (exploration souterraine) || C || — || — || C || C || C || — || — || C || C || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (folklore local) || C || C || — || — || C || C || — || — || C || C || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (folklore local) || C || C || — || — || C || C || — || — || C || C || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (géographie) || C || — || — || C || C || — || — || — || C || C || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (géographie) || C || — || — || C || C || — || — || — || C || C || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (histoire) || C || — || — || — || C || — || — || — || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (histoire) || C || — || — || — || C || — || — || — || C || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (ingénierie) || C || — || — || — || C || — || C || — || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (ingénierie) || C || — || — || — || C || — || C || — || C || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (mystères) || C || — || — || — || C || — || — || C || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (mystères) || C || — || — || — || C || — || — || C || C || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (nature) || C || — || C || C || C || — || — || — || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (nature) || C || — || C || C || C || — || — || — || C || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (noblesse) || C || C || — || — || C || — || — || — || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (noblesse) || C || C || — || — || C || — || — || — || C || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (plans) || C || — || C || — || C || — || — || — || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (plans) || C || — || C || — || C || — || — || — || C || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (religion) || C || — || C || — || C || — || C || — || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (religion) || C || — || C || — || C || — || C || — || C || — || Non || [[Intelligence|Int]]
 |-
-| [Déguisement](./Déguisement.md) || — || — || — || — || C || — || — || — || — || C || Oui || [Cha](./Charisme.md)
+| [[Déguisement]] || — || — || — || — || C || — || — || — || — || C || Oui || [[Charisme|Cha]]
 |- CLASS="alt"
-| [Diplomatie](./Diplomatie.md) || — || C || C || — || C || — || C || — || C || — || Oui || [Cha](./Charisme.md)
+| [[Diplomatie]] || — || C || C || — || C || — || C || — || C || — || Oui || [[Charisme|Cha]]
 |-
-| [Discrétion](./Discrétion.md) || — || — || — || C || C || — || — || — || — || C || Oui || [Dex](./Dextérité.md)*
+| [[Discrétion]] || — || — || — || C || C || — || — || — || — || C || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Dressage](./Dressage.md) || — || — || C || C || — || C || C || C || C || — || Non || [Cha](./Charisme.md)
+| [[Dressage]] || — || — || C || C || — || C || C || C || C || — || Non || [[Charisme|Cha]]
 |-
-| [Équitation](./Équitation.md) || — || C || C || C || — || C || C || C || C || C || Oui || [Dex](./Dextérité.md)*
+| [[Équitation]] || — || C || C || C || — || C || C || C || C || C || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Escalade](./Escalade.md) || — || C || — || C || C || C || C || C || C || C || Oui || [For](./Force.md)*
+| [[Escalade]] || — || C || — || C || C || C || C || C || C || C || Oui || [[Force|For]]*
 |-
-| [Escamotage](./Escamotage.md) || — || C || — || — || C || — || — || — || — || — || Non || [Dex](./Dextérité.md)*
+| [[Escamotage]] || — || C || — || — || C || — || — || — || — || — || Non || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Estimation](./Estimation.md) || C || — || — || — || C || — || — || — || C || — || Oui || [Int](./Intelligence.md)
+| [[Estimation]] || C || — || — || — || C || — || — || — || C || — || Oui || [[Intelligence|Int]]
 |-
-| [Évasion](./Évasion.md) || — || C || — || — || C || C || — || — || C || — || Oui || [Dex](./Dextérité.md)*
+| [[Évasion]] || — || C || — || — || C || C || — || — || C || — || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Intimidation](./Intimidation.md) || — || C || — || C || C || C || C || C || C || C || Oui || [Cha](./Charisme.md)
+| [[Intimidation]] || — || C || — || C || C || C || C || C || C || C || Oui || [[Charisme|Cha]]
 |-
-| [Linguistique](./Linguistique.md) || C || — || — || — || C || — || — || — || C || — || Non || [Int](./Intelligence.md)
+| [[Linguistique]] || C || — || — || — || C || — || — || — || C || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Natation](./Natation.md) || — || C || — || C || — || C || C || C || C || C || Oui || [For](./Force.md)*
+| [[Natation]] || — || C || — || C || — || C || C || C || C || C || Oui || [[Force|For]]*
 |-
-| [Perception](./Perception.md) || — || C || — || C || C || C || — || C || C || C || Oui || [Sag](./Sagesse.md)
+| [[Perception]] || — || C || — || C || C || C || — || C || C || C || Oui || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Premiers secours](./Premiers secours.md) || — || — || C || — || C || — || C || — || — || C || Oui || [Sag](./Sagesse.md)
+| [[Premiers secours]] || — || — || C || — || C || — || C || — || — || C || Oui || [[Sagesse|Sag]]
 |-
-| [Profession](./Profession.md) || C || — || C || C || C || C || C || — || C || C || Non || [Sag](./Sagesse.md)
+| [[Profession]] || C || — || C || C || C || C || C || — || C || C || Non || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Psychologie](./Psychologie.md) || — || C || — || — || C || C || C || — || C || C || Oui || [Sag](./Sagesse.md)
+| [[Psychologie]] || — || C || — || — || C || C || C || — || C || C || Oui || [[Sagesse|Sag]]
 |-
-| [Représentation](./Représentation.md) || — || C || — || — || C || — || — || — || C || — || Oui || [Cha](./Charisme.md)
+| [[Représentation]] || — || C || — || — || C || — || — || — || C || — || Oui || [[Charisme|Cha]]
 |- CLASS="alt"
-| [Sabotage](./Sabotage.md) || — || — || — || — || C || — || — || — || — || — || Non || [Dex](./Dextérité.md)*
+| [[Sabotage]] || — || — || — || — || C || — || — || — || — || — || Non || [[Dextérité|Dex]]*
 |-
-| [Survie](./Survie.md) || — || — || C || C || — || — || C || C || — || C || Oui || [Sag](./Sagesse.md)
+| [[Survie]] || — || — || C || C || — || — || C || C || — || C || Oui || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) || C || — || — || — || C || — || — || — || C || — || Non || [Cha](./Charisme.md)
+| [[Utilisation dObjets magiques|Utilisation d'objets magiques]] || C || — || — || — || C || — || — || — || C || — || Non || [[Charisme|Cha]]
 |-
-| [Vol](./Vol.md) || C || — || C || — || — || — || — || — || — || — || Oui || [Dex](./Dextérité.md)*
+| [[Vol]] || C || — || C || — || — || — || — || — || — || — || Oui || [[Dextérité|Dex]]*
 |}
 
 ### Classes occultes et classes traduites par la communauté
 {| CLASS="tablo centre"
 |+ Résumé des compétences
 |- CLASS="titre"
-| Compétence || [Cin](./Cinétiste.md) || [Hyp](./Hypnotiseur.md) || [Méd](./Médium.md) || [Occ](./Occultiste.md) || [Psy](./Psychiste.md) || [Spi](./Spirite.md) || [ChasV](./Chasseur de vampire.md) || [Jus](./Justicier.md) || [Mét](./Métamorphe.md) || [Utilisable   
-sans formation](./Format de description des compétences.md#UTILISABLESANSFORMATION) || [Caractéristique](./Caractéristiques.md)
+| Compétence || [[Cinétiste|Cin]] || [[Hypnotiseur|Hyp]] || [[Médium|Méd]] || [[Occultiste|Occ]] || [[Psychiste|Psy]] || [[Spirite|Spi]] || [[Chasseur de vampire|ChasV]] || [[Justicier|Jus]] || [[Métamorphe|Mét]] || [[Format de description des compétences#UTILISABLESANSFORMATION|Utilisable   
+sans formation]] || [[Caractéristiques|Caractéristique]]
 |- CLASS="premier"
-| [Acrobaties](./Acrobaties.md) || C || — || — || — || — || — || — || C || C || Oui || [Dex](./Dextérité.md)*
+| [[Acrobaties]] || C || — || — || — || — || — || — || C || C || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Art de la magie](./Art de la magie.md) || — || C || C || C || C || C || C || — || — || Non || [Int](./Intelligence.md)
+| [[Art de la magie]] || — || C || C || C || C || C || C || — || — || Non || [[Intelligence|Int]]
 |-
-| [Artisanat](./Artisanat.md) || C || C || C || C || C || C || C || C || — || Oui || [Int](./Intelligence.md)
+| [[Artisanat]] || C || C || C || C || C || C || C || C || — || Oui || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Bluff](./Bluff.md) || — || C || C || — || C || C || C || C || — || Oui || [Cha](./Charisme.md)
+| [[Bluff]] || — || C || C || — || C || C || C || C || — || Oui || [[Charisme|Cha]]
 |-
-| [Connaissances](./Connaissances.md) (exploration souterraine) || — || C || — || — || C || C || — || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (exploration souterraine) || — || C || — || — || C || C || — || C || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (folklore local) || — || C || — || — || C || C || C || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (folklore local) || — || C || — || — || C || C || C || C || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (géographie) || — || — || — || — || C || C || C || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (géographie) || — || — || — || — || C || C || C || — || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (histoire) || — || C || — || C || C || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (histoire) || — || C || — || C || C || C || — || — || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (ingénierie) || — || — || — || C || C || C || — || C || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (ingénierie) || — || — || — || C || C || C || — || C || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (mystères) || — || C || C || C || C || C || C || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (mystères) || — || C || C || C || C || C || C || — || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (nature) || — || — || — || — || C || C || — || — || C || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (nature) || — || — || — || — || C || C || — || — || C || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (noblesse) || — || C || — || — || C || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (noblesse) || — || C || — || — || C || C || — || — || — || Non || [[Intelligence|Int]]
 |-
-| [Connaissances](./Connaissances.md) (plans) || — || — || C || C || C || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (plans) || — || — || C || C || C || C || — || — || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Connaissances](./Connaissances.md) (religion) || — || C || C || C || C || C || C || — || — || Non || [Int](./Intelligence.md)
+| [[Connaissances]] (religion) || — || C || C || C || C || C || C || — || — || Non || [[Intelligence|Int]]
 |-
-| [Déguisement](./Déguisement.md) || — || C || — || C || — || — || — || C || — || Oui || [Cha](./Charisme.md)
+| [[Déguisement]] || — || C || — || C || — || — || — || C || — || Oui || [[Charisme|Cha]]
 |- CLASS="alt"
-| [Diplomatie](./Diplomatie.md) || — || C || C || C || C || — || — || C || — || Oui || [Cha](./Charisme.md)
+| [[Diplomatie]] || — || C || C || C || C || — || — || C || — || Oui || [[Charisme|Cha]]
 |-
-| [Discrétion](./Discrétion.md) || C || C || — || — || — || — || C || C || C || Oui || [Dex](./Dextérité.md)*
+| [[Discrétion]] || C || C || — || — || — || — || C || C || C || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Dressage](./Dressage.md) || — || — || — || — || — || — || C || — || C || Non || [Cha](./Charisme.md)
+| [[Dressage]] || — || — || — || — || — || — || C || — || C || Non || [[Charisme|Cha]]
 |-
-| [Équitation](./Équitation.md) || — || — || — || — || — || — || C || C || C || Oui || [Dex](./Dextérité.md)*
+| [[Équitation]] || — || — || — || — || — || — || C || C || C || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Escalade](./Escalade.md) || — || — || — || — || — || — || C || C || C || Oui || [For](./Force.md)*
+| [[Escalade]] || — || — || — || — || — || — || C || C || C || Oui || [[Force|For]]*
 |-
-| [Escamotage](./Escamotage.md) || — || C || — || C || — || — || — || C || — || Non || [Dex](./Dextérité.md)*
+| [[Escamotage]] || — || C || — || C || — || — || — || C || — || Non || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Estimation](./Estimation.md) || — || C || — || C || — || — || — || C || — || Oui || [Int](./Intelligence.md)
+| [[Estimation]] || — || C || — || C || — || — || — || C || — || Oui || [[Intelligence|Int]]
 |-
-| [Évasion](./Évasion.md) || — || C || — || — || — || — || — || C || — || Oui || [Dex](./Dextérité.md)*
+| [[Évasion]] || — || C || — || — || — || — || — || C || — || Oui || [[Dextérité|Dex]]*
 |- CLASS="alt"
-| [Intimidation](./Intimidation.md) || C || C || C || — || C || C || C || C || — || Oui || [Cha](./Charisme.md)
+| [[Intimidation]] || C || C || C || — || C || C || C || C || — || Oui || [[Charisme|Cha]]
 |-
-| [Linguistique](./Linguistique.md) || — || C || C || C || C || C || — || — || — || Non || [Int](./Intelligence.md)
+| [[Linguistique]] || — || C || C || C || C || C || — || — || — || Non || [[Intelligence|Int]]
 |- CLASS="alt"
-| [Natation](./Natation.md) || — || — || — || — || — || — || C || C || C || Oui || [For](./Force.md)*
+| [[Natation]] || — || — || — || — || — || — || C || C || C || Oui || [[Force|For]]*
 |-
-| [Perception](./Perception.md) || C || C || C || C || C || — || C || C || C || Oui || [Sag](./Sagesse.md)
+| [[Perception]] || C || C || C || C || C || — || C || C || C || Oui || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Premiers secours](./Premiers secours.md) || C || — || C || — || — || C || C || — || — || Oui || [Sag](./Sagesse.md)
+| [[Premiers secours]] || C || — || C || — || — || C || C || — || — || Oui || [[Sagesse|Sag]]
 |-
-| [Profession](./Profession.md) || C || C || C || C || C || C || C || C || — || Non || [Sag](./Sagesse.md)
+| [[Profession]] || C || C || C || C || C || C || C || C || — || Non || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Psychologie](./Psychologie.md) || — || C || C || C || C || C || C || C || — || Oui || [Sag](./Sagesse.md)
+| [[Psychologie]] || — || C || C || C || C || C || C || C || — || Oui || [[Sagesse|Sag]]
 |-
-| [Représentation](./Représentation.md) || — || C || — || — || — || — || — || C || — || Oui || [Cha](./Charisme.md)
+| [[Représentation]] || — || C || — || — || — || — || — || C || — || Oui || [[Charisme|Cha]]
 |- CLASS="alt"
-| [Sabotage](./Sabotage.md) || — || — || — || C || — || — || — || C || — || Non || [Dex](./Dextérité.md)*
+| [[Sabotage]] || — || — || — || C || — || — || — || C || — || Non || [[Dextérité|Dex]]*
 |-
-| [Survie](./Survie.md) || — || — || — || — || — || — || C || C || C || Oui || [Sag](./Sagesse.md)
+| [[Survie]] || — || — || — || — || — || — || C || C || C || Oui || [[Sagesse|Sag]]
 |- CLASS="alt"
-| [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) || C || C || C || C || — || C || — || C || — || Non || [Cha](./Charisme.md)
+| [[Utilisation dObjets magiques|Utilisation d'objets magiques]] || C || C || C || C || — || C || — || C || — || Non || [[Charisme|Cha]]
 |-
-| [Vol](./Vol.md) || — || — || C || C || C || C || — || — || C || Oui || [Dex](./Dextérité.md)*
+| [[Vol]] || — || — || C || C || C || C || — || — || C || Oui || [[Dextérité|Dex]]*
 |}

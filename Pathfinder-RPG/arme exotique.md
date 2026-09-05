@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#ARMEEXOTIQUE
 ---
 
->>> [Caractéristiques des armes#ARMEEXOTIQUE](./Caractéristiques des armes.md#ARMEEXOTIQUE)
+>>> [[Caractéristiques des armes#ARMEEXOTIQUE]]

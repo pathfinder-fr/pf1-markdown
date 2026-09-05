@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Dragon#BALAYAGEQUEUE
 ---
 
->>> [Dragon#BALAYAGEQUEUE](./dragon.md#BALAYAGEQUEUE)
+>>> [[Dragon#BALAYAGEQUEUE]]

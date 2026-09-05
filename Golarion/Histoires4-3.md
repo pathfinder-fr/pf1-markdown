@@ -4,8 +4,8 @@ Title: Justice
 LastModified: 2010-10-08 11:40
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du troisième chapitre : "[Justice](http://paizo.com/pathfinder/tales/serial/v5748dyo5lbf7)" de la nouvelle "Certitudes" de Liane Merciel. Illustration de KyuShik Shin.*
 
 Le premier prisonnier du Brûleur était une femme enceinte ; vu son apparence, j'aurais pourtant cru qu'elle était bien au-delà de ses années fertiles. Elle avait au moins 50 ans, peut-être même dix ans de plus.

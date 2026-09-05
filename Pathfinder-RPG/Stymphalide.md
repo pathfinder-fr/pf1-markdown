@@ -14,32 +14,32 @@ Categories:
 {s:pucem|Créature magique|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 p.248*}
 {s:BDTexte|**PX** 4 800 }
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md)  +12}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision nocturne]] ; [[Perception]]  +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 11, pris au dépourvu 20 (Dex +2, naturelle +11, taille -1)}
-{s:BDTexte|**pv** 94 (9d10+45) ; [guérison accélérée](./guérison accélérée.md) 2}
+{s:BDTexte|**pv** 94 (9d10+45) ; [[guérison accélérée]] 2}
 {s:BDTexte|**Réf** +10, **Vig** +11, **Vol** +5}
 {s:BDTexte|**RD** 10/magique et adamantium ; **Immunités** feu}
 {s:BDTexte|**Faiblesse** vulnérabilité au son}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), vol 36 m (24 {s:c}) (médiocre)}
-{s:BDTexte|**Corps à corps** morsure, +14 (1d8+6 plus [saignement](./Saignement.md)) et 2 serres, +14 (1d6+6) et 2 ailes, +9 (1d6+3 plus [saignement](./Saignement.md))}
-{s:BDTexte|**À distance** 2 plumes tranchantes, +10 (2d6+6 plus [saignement](./Saignement.md))}
+{s:BDTexte|**Corps à corps** morsure, +14 (1d8+6 plus [[saignement]]) et 2 serres, +14 (1d6+6) et 2 ailes, +9 (1d6+3 plus [[saignement]])}
+{s:BDTexte|**À distance** 2 plumes tranchantes, +10 (2d6+6 plus [[saignement]])}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}) ; Allonge 1,5 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [saignement](./Saignement.md) (1d6), éblouissement, plumes tranchantes}
+{s:BDTexte|**Attaques spéciales** [[saignement]] (1d6), éblouissement, plumes tranchantes}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 15, **Con** 20, **Int** 2, **Sag** 15, **Cha** 17}
 {s:BDTexte|**BBA** +9 ; **BMO** +16 ; **DMD** 28}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Don pour les critiques](./Don pour les critiques.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Perception)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +12, [vol](./Vol.md) +4}
+{s:BDTexte|**Dons** [[Attaque en vol]], [[Don pour les critiques]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Talent]] (Perception)}
+{s:BDTexte|**Compétences** [[Perception]] +12, [[vol]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines ou plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou volée (3-9)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Éblouissement (Sur).** Par une [action simple](./Action simple.md), dans toute zone de luminosité normale ou plus vive, le stymphalide peut ébouriffer ses plumes métalliques de manière à [aveugler](./Aveuglé.md) toutes les créatures alentour. Toutes les créatures situées dans un rayon de 9 mètres doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 19 ou être aveuglées pendant 1d6 minutes. Les créatures peuvent se défendre contre cet effet comme qu’elles le feraient face à une [attaque de regard](./Regard (capacité).md). Il s’agit d’un effet visuel. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Plumes tranchantes (Ext).** Les plumes métalliques du stymphalide sont aussi tranchantes que des rasoirs. En plus de pouvoir infliger des dégâts tranchants avec ses ailes lors d’une attaque de corps à corps, le stymphalide peut battre des ailes pour projeter deux grandes plumes acérées sur une seule cible. Ces plumes tranchantes infligent 2d6 points de dégâts et provoquent un [saignement](./Saignement.md), avec un [facteur de portée](./facteur de portée.md) de 15 mètres. Le stymphalide peut utiliser cette attaque un nombre de fois par jour égal à son modificateur de [Constitution](./Constitution.md) (5 fois par jour pour la plupart des stymphalides).}
+{s:BDTexte|**Éblouissement (Sur).** Par une [[action simple]], dans toute zone de luminosité normale ou plus vive, le stymphalide peut ébouriffer ses plumes métalliques de manière à [[aveuglé|aveugler]] toutes les créatures alentour. Toutes les créatures situées dans un rayon de 9 mètres doivent réussir un jet de [[Vigueur]] [[DD]] 19 ou être aveuglées pendant 1d6 minutes. Les créatures peuvent se défendre contre cet effet comme qu’elles le feraient face à une [[regard (capacité)|attaque de regard]]. Il s’agit d’un effet visuel. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Plumes tranchantes (Ext).** Les plumes métalliques du stymphalide sont aussi tranchantes que des rasoirs. En plus de pouvoir infliger des dégâts tranchants avec ses ailes lors d’une attaque de corps à corps, le stymphalide peut battre des ailes pour projeter deux grandes plumes acérées sur une seule cible. Ces plumes tranchantes infligent 2d6 points de dégâts et provoquent un [[saignement]], avec un [[facteur de portée]] de 15 mètres. Le stymphalide peut utiliser cette attaque un nombre de fois par jour égal à son modificateur de [[Constitution]] (5 fois par jour pour la plupart des stymphalides).}
 
 </div>
 </td><td><div>*Cet oiseau imposant, semblable à un ibis, semble sculpté dans l’argent et le cuivre mais se déplace avec la souplesse d’une créature vivante.*

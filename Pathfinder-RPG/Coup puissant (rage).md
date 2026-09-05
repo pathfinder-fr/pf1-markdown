@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#COUPPUISSANT
 ---
 
->>> [pouvoirs de rage#COUPPUISSANT](./Pouvoirs de rage.md#COUPPUISSANT)
+>>> [[pouvoirs de rage#COUPPUISSANT]]

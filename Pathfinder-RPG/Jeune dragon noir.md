@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Dragon|Marais|Tropical}
 {s:BDTexte|*Source : Bestiaire p.100.*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Dragon](./type Dragon.md) ([Eau](./sous-type Eau.md)) de taille M, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [sens draconiques](./sens draconiques.md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Eau|Eau]]) de taille M, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[sens draconiques]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 12, pris au dépourvu 19 (Dex +2, naturelle +9)}
 {s:BDTexte|**pv** 76 (8d12+24)}
@@ -22,16 +22,16 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 18 m (12 {s:c}), nage 12 m (8 {s:c}), vol 45 m (30 {s:c}) (moyenne)}
 {s:BDTexte|**Corps à corps** morsure, +13 (1d8+6), 2 griffes, +12 (1d6+4), 2 ailes, +7 (1d4+2)}
-{s:BDTexte|**Attaques spéciales** souffle ([ligne](./ligne.md) de 18 m (12 {s:c}), DD 17, 6d6 acide)}
+{s:BDTexte|**Attaques spéciales** souffle ([[ligne]] de 18 m (12 {s:c}), DD 17, 6d6 acide)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 14, **Con** 17, **Int** 10, **Sag** 13, **Cha** 10}
-{s:BDTexte|**BBA** +8, **BMO** +12, **DMD** 24 (28 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +16, [Dressage](./Dressage.md) +8, [Intimidation](./Intimidation.md) +11, [Natation](./Natation.md) +23, [Perception](./Perception.md) +14, [Vol](./Vol.md) +13}
+{s:BDTexte|**BBA** +8, **BMO** +12, **DMD** 24 (28 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Discrétion]]), [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +16, [[Dressage]] +8, [[Intimidation]] +11, [[Natation]] +23, [[Perception]] +14, [[Vol]] +13}
 {s:BDTexte|**Langues** draconique}
-{s:BDTexte|**Particularités** communication avec les reptiles, déplacement facilité (marais), [respiration aquatique](./Respiration aquatique.md)}
+{s:BDTexte|**Particularités** communication avec les reptiles, déplacement facilité (marais), [[respiration aquatique]]}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons chromatiques](./dragon chromatique.md).***</li><li>***Voir la description des [dragons noirs](./Dragon noir.md).***</li></ul>*Les gouttes d’acide verdâtre qui s’écoulent des crocs de ce dragon cornu aux écailles noires sifflent dans l’air.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon chromatique|dragons chromatiques]].***</li><li>***Voir la description des [[Dragon noir|dragons noirs]].***</li></ul>*Les gouttes d’acide verdâtre qui s’écoulent des crocs de ce dragon cornu aux écailles noires sifflent dans l’air.*
 </div>
 
 {s:ImageDroite|Bestiaire/Dragon noir.jpg|90%}

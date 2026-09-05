@@ -10,6 +10,6 @@ Categories:
 
 {s:RSE}*Le personnage tire plus de puissance que les autres des objets magiques.*
 
-**Conditions.** 12 rangs en [Utilisation d’objets magiques](./UOM.md).
+**Conditions.** 12 rangs en [[UOM|Utilisation d’objets magiques]].
 
-**Avantage.** Si le personnage dépasse de 5 ou plus le [DD](./DD.md) exigé pour activer un [objet à fin d’incantation](./Règles relatives aux objets magiques.md#OBJETSAFINDINCANTATION) ou [à potentiel magique](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE) avec un test d’[Utilisation d’objets magiques](./UOM.md), il peut augmenter le [NLS](./NLS.md) de l’objet de 1 quand il détermine les effets du sort. S’il dépasse de 10 ou plus le DD exigé pour activer un objet magique à charges avec un test d’Utilisation d’objets magiques, il peut dépenser une charge de plus pour augmenter le NLS de 2. Il ne peut cependant pas faire passer le NLS d’un objet au-dessus de son propre NLS.
+**Avantage.** Si le personnage dépasse de 5 ou plus le [[DD]] exigé pour activer un [[Règles relatives aux objets magiques#OBJETSAFINDINCANTATION|objet à fin d’incantation]] ou [[Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|à potentiel magique]] avec un test d’[[UOM|Utilisation d’objets magiques]], il peut augmenter le [[NLS]] de l’objet de 1 quand il détermine les effets du sort. S’il dépasse de 10 ou plus le DD exigé pour activer un objet magique à charges avec un test d’Utilisation d’objets magiques, il peut dépenser une charge de plus pour augmenter le NLS de 2. Il ne peut cependant pas faire passer le NLS d’un objet au-dessus de son propre NLS.

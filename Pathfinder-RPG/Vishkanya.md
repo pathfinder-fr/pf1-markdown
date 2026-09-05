@@ -10,9 +10,9 @@ LastModified: 2017-07-02 20:26
 {s:pucem|Humanoïde|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.277*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|Vishkanya [ninja](./Ninja.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([Vishkanya](./sous-type vishkanya.md)) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|Vishkanya [[ninja]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type vishkanya|Vishkanya]]) de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 10 (Dex +3)}
 {s:BDTexte|**pv** 11 (1d8+3)}
@@ -21,22 +21,22 @@ LastModified: 2017-07-02 20:26
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** kukri, +1 (1d4+1/18-20 plus poison)}
 {s:BDTexte|**A distance** shuriken, +3 (1d2+1 plus poison)}
-{s:BDTexte|**Attaques spéciales** [poison](./poison.md) (DD 12), [attaque sournoise](./attaque sournoise.md) +1d6}
+{s:BDTexte|**Attaques spéciales** [[poison]] (DD 12), [[attaque sournoise]] +1d6}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 17, **Con** 14, **Int** 8, **Sag** 10, **Cha** 12}
 {s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 14}
-{s:BDTexte|**Dons** [Fourberie](./Fourberie.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +7, [Bluff](./Bluff.md) +7, [Déguisement](./Déguisement.md) +7, [Discrétion](./Discrétion.md) +9, [Évasion](./Évasion.md) +9, [Perception](./Perception.md) +6, [Psychologie](./Psychologie.md) +4}
-{s:BDTexte|**Modificateur racial** +2 en [Évasion](./Évasion.md), +2 en [Perception](./Perception.md), +2 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**Dons** [[Fourberie]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +7, [[Bluff]] +7, [[Déguisement]] +7, [[Discrétion]] +9, [[Évasion]] +9, [[Perception]] +6, [[Psychologie]] +4}
+{s:BDTexte|**Modificateur racial** +2 en [[Évasion]], +2 en [[Perception]], +2 en [[Discrétion]]}
 {s:BDTexte|**Langues** commun, vishkanyan}
-{s:BDTexte|**particularité** utilisation des [poisons](./Poisons.md), toxique}
+{s:BDTexte|**particularité** utilisation des [[poisons]], toxique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou escouade (3-8)}
 {s:BDTexte|**Trésor** équipement de PNJ (kukri, 10 shuriken, autre trésor)}
 {s:BDSousTitre|Pouvoirs Spéciaux}
-{s:BDTexte|**Toxique (Ext).** Chaque jour, un nombre de fois égal à son [modificateur de Constitution](./Caractéristiques.md#Déterminer_les_modificateurs_8) (minimum 1/jour), le vishkanya peut empoisonner une arme qu’il manie avec son sang ou sa salive toxiques (pour utiliser son sang, le vishkanya doit être blessé lorsqu’il fait appel à cette capacité). Cette application de poison est une [action rapide](./Action rapide.md).}
-{s:BDTexte|*Venin de vishkanya* : blessure ; *Jds* [Vigueur](./jet de sauvegarde.md) [DD](./DD.md) 10 + 1/2 [DV](./../Ressources/DV.md) du vishkanya + [modificateur de Constitution](./Caractéristiques.md#Déterminer_les_modificateurs_8) ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d2 [Dex](./Dextérité.md) ; *guérison* 1 réussite}
+{s:BDTexte|**Toxique (Ext).** Chaque jour, un nombre de fois égal à son [[Caractéristiques#Déterminer_les_modificateurs_8|modificateur de Constitution]] (minimum 1/jour), le vishkanya peut empoisonner une arme qu’il manie avec son sang ou sa salive toxiques (pour utiliser son sang, le vishkanya doit être blessé lorsqu’il fait appel à cette capacité). Cette application de poison est une [[action rapide]].}
+{s:BDTexte|*Venin de vishkanya* : blessure ; *Jds* [[jet de sauvegarde|Vigueur]] [[DD]] 10 + 1/2 [[DV]] du vishkanya + [[Caractéristiques#Déterminer_les_modificateurs_8|modificateur de Constitution]] ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] de 1d2 [[Dextérité|Dex]] ; *guérison* 1 réussite}
 {s:BDTexte|**Utilisation des poisons (Ext).** Les vishkanyas sont doués avec les poisons et ne s’empoisonnent jamais accidentellement lorsqu’ils utilisent ou appliquent du poison.}
 </div>
 </td><td><div>*Cette femme mince porte des vêtements amples et brandit une lame apparemment dangereuse. Ses yeux sont deux orbes d’un blanc pur.*
@@ -47,15 +47,15 @@ Si de nombreuses légendes racontent que le simple contact d’un vishkanya peut
 
 #### Personnages Vishkanyas
 Les vishkanyas se définissent par leurs niveaux de classe ; ils n’ont pas de dés de vie raciaux. Tous les vishkanyas possèdent les caractéristiques raciales suivantes :
-- +2 en [Dextérité](./Dextérité.md), +2 en [Charisme](./Charisme.md), -2 en [Sagesse](./Sagesse.md). Les vishkanyas sont gracieux et élégants mais souvent irrationnels.
-- **[Vision nocturne](./vision nocturne.md).** Les vishkanyas peuvent voir deux fois plus loin qu’un humain dans une faible luminosité.
-- **Sens aiguisés.** Les vishkanyas ont un bonus racial de +2 à leurs tests de [Perception](./Perception.md).
-- **Souplesse.** Le vishkanya gagne un bonus racial de +2 à ses tests d’[Évasion](./Évasion.md) et de [Discrétion](./Discrétion.md).
-- **Résistance au poison.** Le vishkanya a un bonus racial aux [jets de sauvegarde](./jet de sauvegarde.md) contre le poison égal à son nombre de [dés de vie](./../Ressources/DV.md).
+- +2 en [[Dextérité]], +2 en [[Charisme]], -2 en [[Sagesse]]. Les vishkanyas sont gracieux et élégants mais souvent irrationnels.
+- **[[Vision nocturne]].** Les vishkanyas peuvent voir deux fois plus loin qu’un humain dans une faible luminosité.
+- **Sens aiguisés.** Les vishkanyas ont un bonus racial de +2 à leurs tests de [[Perception]].
+- **Souplesse.** Le vishkanya gagne un bonus racial de +2 à ses tests d’[[Évasion]] et de [[Discrétion]].
+- **Résistance au poison.** Le vishkanya a un bonus racial aux [[jet de sauvegarde|jets de sauvegarde]] contre le poison égal à son nombre de [[DV|dés de vie]].
 - **Utilisation des poisons.** Voir plus haut.
 - **Toxique.** Voir plus haut.
 - **Apprentissages martial.** Les vishkanyas sont toujours formés au maniement des sarbacanes, des kukris et des shurikens.
-- **Langues.** Le vishkanya commence le jeu en parlant le commun et le vishkanyan. Les vishkanyas ayant un haut score d’[Intelligence](./Intelligence.md) peuvent choisir des langues bonus parmi celles-ci : aklo, draconique, elfique, gobelin, sylvestre et commun des profondeurs.
+- **Langues.** Le vishkanya commence le jeu en parlant le commun et le vishkanyan. Les vishkanyas ayant un haut score d’[[Intelligence]] peuvent choisir des langues bonus parmi celles-ci : aklo, draconique, elfique, gobelin, sylvestre et commun des profondeurs.
 
-{s:VoirAussiAvant}La page de la race [Vishkanya](./vishkanya (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Vishkanya (race)|Vishkanya]]{s:VoirAussiAprès}
 </div></td></tr></table>

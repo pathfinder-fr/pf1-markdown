@@ -6,7 +6,7 @@ Categories:
 - Blog des concepteurs
 ---
 
-<p class="description">Traduction d'un [article](http://paizo.com/paizo/blog/v5748dyo5lc12) de Jason Bulmahn paru sur le blog de Paizo — retour au [Blog des concepteurs](./Blog des concepteurs.md)</p>
+<p class="description">Traduction d'un [article](http://paizo.com/paizo/blog/v5748dyo5lc12) de Jason Bulmahn paru sur le blog de Paizo — retour au [[Blog des concepteurs]]</p>
 
 
 <div class="fright"><img src="http://www.pathfinder-fr.org/Media/gs/handler/getmediaobject.ashx?moid=762&dt=2&g=1"/></div>

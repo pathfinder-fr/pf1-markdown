@@ -14,19 +14,19 @@ RedirectTo: Dragon
 |- CLASS="titre"
 | Dragons chromatiques
 |- CLASS="premier"
-| [Dragon blanc](./Dragon blanc.md)
+| [[Dragon blanc]]
 |-
-| [Dragon bleu](./Dragon bleu.md)
+| [[Dragon bleu]]
 |-
-| [Dragon noir](./Dragon noir.md)
+| [[Dragon noir]]
 |-
-| [Dragon rouge](./Dragon rouge.md)
+| [[Dragon rouge]]
 |-
-| [Dragon vert](./Dragon vert.md)
+| [[Dragon vert]]
 |}
 </div></div><div class="description">**Source :** Bestiaire, p.94</div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons](./dragon.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dragon|dragons]].***</li></ul>
 
 Les véritables dragons se répartissent en deux grandes catégories : les chromatiques et les métalliques. Les dragons chromatiques, qui sont presque tous maléfiques, ne cherchent qu’à assouvir leur désir insatiable de nourriture, de trésor et de carnage. Les dragons métalliques, généralement bons, ont tendance à protéger les régions dont ils sont responsables.
 
->>> [Dragon](./dragon.md)
+>>> [[Dragon]]

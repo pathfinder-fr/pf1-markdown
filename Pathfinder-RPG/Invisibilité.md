@@ -20,64 +20,64 @@ Categories:
 - Sort spirite 2
 ---
 
-**École** [Illusion](./Illusion.md) ([hallucination](./branche hallucination.md)) ; **Niveau** [Alch](./Alchimiste.md) 2, [Apal](./Antipaladin.md) 2, [Bard](./Barde.md) 2, [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 2, [Spi](./Spirite.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M/FD](./composantes.md) (un cil préservé dans de la gomme arabique)
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE) ou [contact](./Présentation des sorts.md#PORTEE)
-**Cible** le jeteur de sorts ou 1 créature (ou 1 objet) ne pesant pas plus de 50 kg/[niveau](./niveau.md)
-**Durée** 1 minute/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif) ou oui (inoffensif, objet)
+**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Spirite|Spi]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M/FD]] (un cil préservé dans de la gomme arabique)
+**Portée** [[Présentation des sorts#PORTEE|personnelle]] ou [[Présentation des sorts#PORTEE|contact]]
+**Cible** le jeteur de sorts ou 1 créature (ou 1 objet) ne pesant pas plus de 50 kg/[[niveau]]
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif) ou oui (inoffensif, objet)
 ---
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#17) *Invisibilité* : Un personnage se voit-il lui-même quand il est invisible ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#17|→]] *Invisibilité* : Un personnage se voit-il lui-même quand il est invisible ?***
 
-Le <u>[sort](./Invisibilité.md)</u> ne va pas explicitement en faveur d’une interprétation parmi d’autres.
+Le <u>[[invisibilité|sort]]</u> ne va pas explicitement en faveur d’une interprétation parmi d’autres.
 
-Étant donné qu’être invisible n’impose pas de malus aux actions qui nécessitent que le personnage voit exactement ce qu’il fait (comme crocheter une serrure), on peut admettre qu’il peut se voir assez bien pour entreprendre de telles actions sans problème. Que cela signifie qu’il se voit comme s’il n’était pas invisible, comme une image spectrale, ou toute autre description dépend du MJ, tant que sa description n’handicape pas les actions du personnage.}La créature ou l’objet touché devient [invisible](./Invisible.md). Si le sort cible une créature qui transporte de l’équipement, celui-ci disparaît également. Si le lanceur du sort rend une autre créature [invisible](./Invisible.md), ni lui ni ses alliés ne peuvent la voir (à moins qu’ils puissent naturellement percevoir les créatures [invisibles](./Invisible.md) ou qu’ils utilisent de la magie pour se donner cette capacité).
+Étant donné qu’être invisible n’impose pas de malus aux actions qui nécessitent que le personnage voit exactement ce qu’il fait (comme crocheter une serrure), on peut admettre qu’il peut se voir assez bien pour entreprendre de telles actions sans problème. Que cela signifie qu’il se voit comme s’il n’était pas invisible, comme une image spectrale, ou toute autre description dépend du MJ, tant que sa description n’handicape pas les actions du personnage.}La créature ou l’objet touché devient [[invisible]]. Si le sort cible une créature qui transporte de l’équipement, celui-ci disparaît également. Si le lanceur du sort rend une autre créature [[invisible]], ni lui ni ses alliés ne peuvent la voir (à moins qu’ils puissent naturellement percevoir les créatures [[invisible|invisibles]] ou qu’ils utilisent de la magie pour se donner cette capacité).
 
-Les objets qu’une créature [invisible](./Invisible.md) lâche ou pose réapparaissent, alors que ceux qu’elle ramasse disparaissent si elle les camoufle dans ses vêtements ou dans un sac qu’elle transporte. Par contre, la lumière ne disparaît jamais, même si sa source peut devenir [invisible](./Invisible.md) (l’effet produit est donc celui d’une lumière sans source visible). Si une créature [invisible](./Invisible.md) porte un objet très grand, toute partie de celui-ci située à plus de 3 mètres/2 cases d’elle est visible.
+Les objets qu’une créature [[invisible]] lâche ou pose réapparaissent, alors que ceux qu’elle ramasse disparaissent si elle les camoufle dans ses vêtements ou dans un sac qu’elle transporte. Par contre, la lumière ne disparaît jamais, même si sa source peut devenir [[invisible]] (l’effet produit est donc celui d’une lumière sans source visible). Si une créature [[invisible]] porte un objet très grand, toute partie de celui-ci située à plus de 3 mètres/2 cases d’elle est visible.
 
-Une créature [invisible](./Invisible.md) n’est pas forcément silencieuse, et certaines situations peuvent la rendre facilement détectable (si elle nage ou marche dans une une flaque par exemple). Une créature [invisible](./Invisible.md) et immobile bénéficie d’un bonus de +40 aux tests de [Discrétion](./Discrétion.md). Ce bonus est réduit à +20 si la créature se déplace. Le sort d’*invisibilité* prend fin immédiatement si la créature affectée attaque un ennemi. Dans ce contexte, on considère également comme « attaque » tout sort qui cible directement un ennemi ou dont la [zone d’effet](./zone deffet.md) comprend au moins un ennemi, et on considère comme « ennemi » toute créature que le personnage [invisible](./Invisible.md) perçoit comme tel. Les actions dirigées contre des objets que personne n’utilise ou ne porte ne brisent pas le sort. Les actions qui causent du tort indirectement ne sont pas considérées comme des attaques non plus. Ainsi, un personnage [invisible](./Invisible.md) peut ouvrir une porte, parler, manger, gravir des escaliers, convoquer des monstres et leur ordonner d’attaquer ses adversaires, trancher les attaches d’un pont de corde alors que ses ennemis sont en train de le traverser, ouvrir une herse pour libérer des chiens de garde, etc. Par contre, s’il attaque directement, il réapparait immédiatement, lui et son équipement. Notez que les sorts qui affectent les alliés du personnage mais pas ses ennemis (comme *[bénédiction](./Bénédiction.md)* par exemple) ne sont pas considérés comme des attaques dans ce contexte, même si des adversaires du lanceur de sorts sont présents dans la zone d’effet.
+Une créature [[invisible]] n’est pas forcément silencieuse, et certaines situations peuvent la rendre facilement détectable (si elle nage ou marche dans une une flaque par exemple). Une créature [[invisible]] et immobile bénéficie d’un bonus de +40 aux tests de [[Discrétion]]. Ce bonus est réduit à +20 si la créature se déplace. Le sort d’*invisibilité* prend fin immédiatement si la créature affectée attaque un ennemi. Dans ce contexte, on considère également comme « attaque » tout sort qui cible directement un ennemi ou dont la [[zone deffet|zone d’effet]] comprend au moins un ennemi, et on considère comme « ennemi » toute créature que le personnage [[invisible]] perçoit comme tel. Les actions dirigées contre des objets que personne n’utilise ou ne porte ne brisent pas le sort. Les actions qui causent du tort indirectement ne sont pas considérées comme des attaques non plus. Ainsi, un personnage [[invisible]] peut ouvrir une porte, parler, manger, gravir des escaliers, convoquer des monstres et leur ordonner d’attaquer ses adversaires, trancher les attaches d’un pont de corde alors que ses ennemis sont en train de le traverser, ouvrir une herse pour libérer des chiens de garde, etc. Par contre, s’il attaque directement, il réapparait immédiatement, lui et son équipement. Notez que les sorts qui affectent les alliés du personnage mais pas ses ennemis (comme *[[bénédiction]]* par exemple) ne sont pas considérés comme des attaques dans ce contexte, même si des adversaires du lanceur de sorts sont présents dans la zone d’effet.
 
-Il est possible d’user de *[permanence](./Permanence.md)* sur un sort d’*invisibilité* affectant des objets.
+Il est possible d’user de *[[permanence]]* sur un sort d’*invisibilité* affectant des objets.
 
 ### Version mythique
-{s:CMy}La cible invisible ne peut être détectée par une [détection de la magie](./Détection de la magie.md) ou par d’autres sorts qui détectent les auras magiques. L’invisibilité ne peut être ignorée, révélée ou dissipée par des sorts de niveau 2 ou moins (comme [détection de l’invisibilité](./Détection de linvisibilité.md) ou [poussière scintillante](./Poussière scintillante.md)), mais une [vision lucide](./Vision lucide.md) ou de la [poudre d’apparition](./Poudre dapparition.md) révèlent la présence d’une créature invisible.
+{s:CMy}La cible invisible ne peut être détectée par une [[détection de la magie]] ou par d’autres sorts qui détectent les auras magiques. L’invisibilité ne peut être ignorée, révélée ou dissipée par des sorts de niveau 2 ou moins (comme [[détection de linvisibilité|détection de l’invisibilité]] ou [[poussière scintillante]]), mais une [[vision lucide]] ou de la [[poudre dapparition|poudre d’apparition]] révèlent la présence d’une créature invisible.
 
-**[Amplifié](./Amplifié.md) (3ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), la [vision aveugle](./vision aveugle.md), la [perception aveugle](./perception aveugle.md), l’[odorat](./odorat.md) et la [perception des vibrations](./Perception des vibrations.md) ne suffisent pas à détecter la présence de la créature invisible.
+**[[Amplifié]] (3ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], la [[vision aveugle]], la [[perception aveugle]], l’[[odorat]] et la [[perception des vibrations]] ne suffisent pas à détecter la présence de la créature invisible.
 
 
 
 ((({s:sortssimilaires|invisibilité}
-## [Disparition](./Disparition.md)
-{s:APG}**École** [Illusion](./Illusion.md) ([hallucination](./branche hallucination.md)) ;** Niveau** [Bard](./Barde.md) 1, [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+## [[Disparition]]
+{s:APG}**École** [[Illusion]] ([[branche hallucination|hallucination]]) ;** Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créature touchée
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (jusqu'à 5 [rounds](./round.md)) ([T](./Présentation des sorts.md#DUREE))
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Durée** 1 [[round]]/[[niveau]] (jusqu'à 5 [[round|rounds]]) ([[Présentation des sorts#DUREE|T]])
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 ---
-Ce sort fonctionne comme un sort d’*[invisibilité](./Invisibilité.md)* sauf que les effets ne durent que 1 [round](./round.md) par [niveau de lanceur de sorts](./NLS.md) (5 [rounds](./round.md) au maximum). Comme *[invisibilité](./Invisibilité.md)*, le sort se termine immédiatement quand le sujet attaque une créature.
+Ce sort fonctionne comme un sort d’*[[invisibilité]]* sauf que les effets ne durent que 1 [[round]] par [[NLS|niveau de lanceur de sorts]] (5 [[round|rounds]] au maximum). Comme *[[invisibilité]]*, le sort se termine immédiatement quand le sujet attaque une créature.
 
-## [Invisibilité suprême](./Invisibilité suprême.md)
-**École** [Illusion](./Illusion.md) ([hallucination](./branche hallucination.md)) ; **Niveau** [Alch](./Alchimiste.md) 4, [Apal](./Antipaladin.md) 4, [Bard](./Barde.md) 4, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 4, [Hyp](./Hypnotiseur.md) 4, [Inq](./Inquisiteur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Magus](./Magus.md) 4, [Méd](./Médium.md) 3, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 4, [Spi](./Spirite.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE) ou [contact](./Présentation des sorts.md#PORTEE)
+## [[Invisibilité suprême]]
+**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 4, [[Antipaladin|Apal]] 4, [[Barde|Bard]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
+**Portée** [[Présentation des sorts#PORTEE|personnelle]] ou [[Présentation des sorts#PORTEE|contact]]
 **Cible** le jeteur de sort ou la créature touchée
-**Durée** 1 round/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** 1 round/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort fonctionne comme *[invisibilité](./Invisibilité.md)* mais l’effet ne s’interrompt pas lorsque le sujet attaque un adversaire.
+Ce sort fonctionne comme *[[invisibilité]]* mais l’effet ne s’interrompt pas lorsque le sujet attaque un adversaire.
 
-## [Invisibilité de groupe](./Invisibilité de groupe.md)
-**École** [Illusion](./Illusion.md) ([hallucination](./branche hallucination.md)) ; **Niveau** [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 6, [Hyp](./Hypnotiseur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M/FD](./composantes.md) (un cil préservé dans de la gomme arabique)
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))
+## [[Invisibilité de groupe]]
+**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M/FD]] (un cil préservé dans de la gomme arabique)
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
 **Cibles** créatures distantes de 54 m/36 {s:c} ou moins les unes des autres
-**Durée** 1 minute/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ou oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Durée** 1 minute/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ou oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 ---
-Ce sort fonctionne comme *[invisibilité](./Invisibilité.md)*, si ce n’est que son effet se déplace avec le groupe et que le sort est brisé dès que l’un des membres du groupe attaque quelqu’un. Les créatures affectées ne se voient pas entre elles. Si l’une d’elles s’éloigne à plus de 54 mètres du membre du groupe le plus proche, elle redevient visible ; si cela se produit pour un groupe qui ne comporte que deux créatures invisibles, c’est celle qui s’éloigne de l’autre qui réapparait et si les deux créatures se déplacent, elles redeviennent toutes deux visibles dès que l’écart dépasse 54 mètres.
+Ce sort fonctionne comme *[[invisibilité]]*, si ce n’est que son effet se déplace avec le groupe et que le sort est brisé dès que l’un des membres du groupe attaque quelqu’un. Les créatures affectées ne se voient pas entre elles. Si l’une d’elles s’éloigne à plus de 54 mètres du membre du groupe le plus proche, elle redevient visible ; si cela se produit pour un groupe qui ne comporte que deux créatures invisibles, c’est celle qui s’éloigne de l’autre qui réapparait et si les deux créatures se déplacent, elles redeviennent toutes deux visibles dès que l’écart dépasse 54 mètres.
 )))

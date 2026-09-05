@@ -10,9 +10,9 @@ Categories:
 
 {s:um}*Le personnage peut rassembler de vastes armées de morts-vivants sous sa bannière. *
 
-**Conditions.** [École renforcée](./École renforcée.md) ([nécromancie](./Présentation des sorts.md#NECROMANCIE)), capacité à lancer *[animation des morts](./Animation des morts.md)* ou *[contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md)*
+**Conditions.** [[École renforcée]] ([[Présentation des sorts#NECROMANCIE|nécromancie]]), capacité à lancer *[[animation des morts]]* ou *[[contrôle mineur des morts-vivants]]*
 
-**Avantage.** Quand le personnage lance *[animation des morts](./Animation des morts.md)* ou utilise le don [Contrôle des morts-vivants](./Contrôle des morts-vivants.md), on considère qu’il possède quatre niveaux de plus qu’en réalité quand il détermine le nombre de [dés de vie](./../Ressources/DV.md) à animer. La durée du *[contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md)* est doublée.
+**Avantage.** Quand le personnage lance *[[animation des morts]]* ou utilise le don [[Contrôle des morts-vivants]], on considère qu’il possède quatre niveaux de plus qu’en réalité quand il détermine le nombre de [[DV|dés de vie]] à animer. La durée du *[[contrôle mineur des morts-vivants]]* est doublée.
 
 {s:CMy}
 ### Version mythique
@@ -20,4 +20,4 @@ Categories:
 
 **Condition.** Maître des morts-vivants
 
-**Avantage.** Lorsqu’il lance animation des morts ou utilise le don [Contrôle des morts-vivants](./Contrôle des morts-vivants.md), le personnage ajoute son [grade](./Grade.md) à son niveau de lanceur de sorts pour déterminer le nombre de dés de vie de morts-vivants animés. Cet effet se cumule avec le niveau de lanceur de sorts augmenté par le don Maître des morts-vivants. Lorsqu’il lance [animation des morts](./Animation des morts.md), la durée du sort est triplée au lieu d’être doublée.
+**Avantage.** Lorsqu’il lance animation des morts ou utilise le don [[Contrôle des morts-vivants]], le personnage ajoute son [[grade]] à son niveau de lanceur de sorts pour déterminer le nombre de dés de vie de morts-vivants animés. Cet effet se cumule avec le niveau de lanceur de sorts augmenté par le don Maître des morts-vivants. Lorsqu’il lance [[animation des morts]], la durée du sort est triplée au lieu d’être doublée.

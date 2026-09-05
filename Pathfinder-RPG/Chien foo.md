@@ -10,21 +10,21 @@ LastModified: 2021-02-22 00:04
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 3 p.56*}
 - **PX** 600
-- [Extérieur](./type Extérieur.md) ([animal altéré](./sous-type altéré.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, NB
-- **Init** +2 ; **Sens** [odorat](./Odorat (capacité).md), [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +8
+- [[type Extérieur|Extérieur]] ([[sous-type altéré|animal altéré]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]]) de taille M, NB
+- **Init** +2 ; **Sens** [[Odorat (capacité)|odorat]], [[vision dans le noir]] à 18 m (12 {s:c}), [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +8
 (((Défense)))
 - **CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)
 - **pv** 17 (2d10+6)
 - **Réf** +5, **Vig** +6, **Vol** +3
-- **Capacités défensives** défense de pierre 2/jour, protecteurs appariés ; [RD](./Réduction de dégâts (capacité).md) 5/contondant ; [Immunité](./Immunité (capacité).md) maladie, paralysie, poison, sommeil
+- **Capacités défensives** défense de pierre 2/jour, protecteurs appariés ; [[Réduction de dégâts (capacité)|RD]] 5/contondant ; [[Immunité (capacité)|Immunité]] maladie, paralysie, poison, sommeil
 (((Attaque)))
 - **VD** 12 m (8 {s:c})
 - **Corps à corps** morsure, +4 (1d6+4 plus croc-en-jambe)
 (((Caractéristiques)))
 - **For** 17, **Dex** 15, **Con** 17, **Int** 6, **Sag** 12, **Cha** 6
 - **BBA** +1 ; **BMO** +4 ; **DMD** 16 (20 contre le croc-en-jambe)
-- **Dons** [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +6 (+14 pour sauter), [Perception](./Perception.md) +8 ; **Modificateurs raciaux** +4 en [Acrobaties](./Acrobaties.md) pour sauter, +4 en [Survie](./Survie.md) pour suivre une piste olfactive
+- **Dons** [[Talent]] ([[Perception]]), [[Volonté de fer]]
+- **Compétences** [[Acrobaties]] +6 (+14 pour sauter), [[Perception]] +8 ; **Modificateurs raciaux** +4 en [[Acrobaties]] pour sauter, +4 en [[Survie]] pour suivre une piste olfactive
 - **Langues** céleste, commun
 - **Particularité** immobilité
 (((Écologie)))
@@ -34,7 +34,7 @@ LastModified: 2021-02-22 00:04
 
 </div>
 </td><td><div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature foo](./Créature foo, archétype.md).***</li></ul>''Il est impossible de confondre cette créature animale avec une simple
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature foo, archétype|Créature foo]].***</li></ul>''Il est impossible de confondre cette créature animale avec une simple
 bête : les traits de son visage sont d’une humanité surnaturelle.''
 
 Les créatures foo sont des esprits gardiens bienveillants originaires du Plan extérieur du Nirvana où elles passent leurs journées à gambader dans les étendues idylliques ou à aider les habitants du royaume, notamment les agathions, dans leur travail. Bien qu’elles viennent du Nirvana, on trouve souvent des créatures foo sur le Plan matériel puisqu’elles font partie des invocations préférées de nombreuses cultures et religions.

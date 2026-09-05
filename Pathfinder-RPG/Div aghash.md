@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Aghash
 ---
 
->>> [Aghash](./Aghash.md)
+>>> [[Aghash]]

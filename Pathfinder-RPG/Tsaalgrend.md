@@ -11,32 +11,32 @@ Categories:
 <div class="BD">
 {s:BDTitre|Tsaalgrend|FP 2}
 {s:pucem|Plante|Souterrain|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.261](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.261]]*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Plante](./type Plante.md) de taille P, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Plante|Plante]] de taille P, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 13, pris au dépourvu 12 (Dex +2, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 19 (3d8+6)}
 {s:BDTexte|**Réf** +3, **Vig** +5, **Vol** +1}
-{s:BDTexte|**Immunités** [traits des plantes](./Traits des plantes (capacité).md) ; **Résistances** acide 5, électricité 5}
-{s:BDTexte|**Faiblesses** [aveuglé par la lumière](./Aveuglé par la lumière (capacité).md), [vulnérabilité](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Immunités** [[Traits des plantes (capacité)|traits des plantes]] ; **Résistances** acide 5, électricité 5}
+{s:BDTexte|**Faiblesses** [[Aveuglé par la lumière (capacité)|aveuglé par la lumière]], [[Vulnérabilités (capacité)|vulnérabilité]] au feu}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 3 m, escalade 3 m, [vol](./Vol (capacité).md) 12 m (médiocre)}
-{s:BDTexte|**Corps à corps** morsure, +5 (1d4+2 plus [étreinte](./Étreinte (capacité).md)) et 2 lianes, +3 (1d4+1 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**VD** 3 m, escalade 3 m, [[Vol (capacité)|vol]] 12 m (médiocre)}
+{s:BDTexte|**Corps à corps** morsure, +5 (1d4+2 plus [[Étreinte (capacité)|étreinte]]) et 2 lianes, +3 (1d4+1 plus [[Étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Attaques spéciales** étreinte (M), spores}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 15, **Con** 15, **Int** 3, **Sag** 10, **Cha** 8}
-{s:BDTexte|**BBA** +2 ; **BMO** +3 ; **DMD** 15 (17 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +10, [Perception](./Perception.md) +4, [Vol](./Vol.md) +5}
+{s:BDTexte|**BBA** +2 ; **BMO** +3 ; **DMD** 15 (17 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en vol]], [[Attaques multiples]]}
+{s:BDTexte|**Compétences** [[Escalade]] +10, [[Perception]] +4, [[Vol]] +5}
 {s:BDTexte|**Langues** communication par les spores}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
 {s:BDTexte|**Organisation** solitaire, paire, groupe (3-6) ou grappe (7-20)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Spores (Ext).** Par une [action simple](./Action simple.md), le tsaalgrend peut lâcher un nuage de spores toxiques dans une [étendue](./étendue.md) d’un rayon de 3 mètres. Chaque créature vivante dans cette zone doit réussir un jet de [Vigueur](./Vigueur.md) DD 13, sans quoi elle est victime d’hallucinations si réalistes qu’elle est [paralysée](./Paralysé.md) par la peur pendant 1d4 rounds. Si une créature réussit son jet de sauvegarde contre cet effet, elle est immunisée contre les spores de ce tsaalgrend pendant les 24 prochaines heures. C’est un [effet mental](./Registre.md) de [terreur](./Registre.md) et de paralysie. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Spores (Ext).** Par une [[action simple]], le tsaalgrend peut lâcher un nuage de spores toxiques dans une [[étendue]] d’un rayon de 3 mètres. Chaque créature vivante dans cette zone doit réussir un jet de [[Vigueur]] DD 13, sans quoi elle est victime d’hallucinations si réalistes qu’elle est [[paralysé|paralysée]] par la peur pendant 1d4 rounds. Si une créature réussit son jet de sauvegarde contre cet effet, elle est immunisée contre les spores de ce tsaalgrend pendant les 24 prochaines heures. C’est un [[registre|effet mental]] de [[registre|terreur]] et de paralysie. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div></td>
 <td><div>*De curieuses poches de gaz translucides maintiennent ce bizarre amas de lianes pourpres épineuses et de moisissures dans les airs.*

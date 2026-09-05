@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE
 ---
 
->>> [Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE)
+>>> [[Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE]]

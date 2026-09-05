@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Champion Mythique#FRAPPEDUCHAMPION
 ---
 
->>> [Champion Mythique#FRAPPEDUCHAMPION](./Champion Mythique.md#FRAPPEDUCHAMPION)
+>>> [[Champion Mythique#FRAPPEDUCHAMPION]]

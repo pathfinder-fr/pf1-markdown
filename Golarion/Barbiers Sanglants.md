@@ -7,11 +7,11 @@ Categories:
 - Organisation
 ---
 
-{s:Organisation|Barbiers Sanglants|Bloody Barbers|-|-|[Absalom](./Absalom.md)|Inconnu|Voleurs|-|[Absalom](./Absalom.md)|-}Les Barbiers Sanglants sont une guilde de voleurs qui opèrent à [Absalom](./Absalom.md).
+{s:Organisation|Barbiers Sanglants|Bloody Barbers|-|-|[[Absalom]]|Inconnu|Voleurs|-|[[Absalom]]|-}Les Barbiers Sanglants sont une guilde de voleurs qui opèrent à [[Absalom]].
 
-Le groupe n'agit pas dans le district de la Cour de l'Ascendant où les voleurs gagnent plus à faire travailler pour les prêtres de [Norgorber](./Norgorber.md) sous le couvert du Masque Noir.
+Le groupe n'agit pas dans le district de la Cour de l'Ascendant où les voleurs gagnent plus à faire travailler pour les prêtres de [[Norgorber]] sous le couvert du Masque Noir.
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur les Barbiers Sanglants dans le supplément
-- [Pathfinder Chronicles: Guide to Absalom](./Publications.md#GUIDETOABSALOM)
+- [[Golarion.Publications#GUIDETOABSALOM|Pathfinder Chronicles: Guide to Absalom]]
 {s:VoirAussiAprès}

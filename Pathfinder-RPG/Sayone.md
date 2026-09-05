@@ -10,7 +10,7 @@ LastModified: 2017-04-11 11:12
 {s:pucem|Mort-vivant|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 236*}
 - **19 200 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille M, CM
+- [[type mort-vivant|Mort-vivant]] de taille M, CM
 - **Init **+5 ; **Sens** vision dans le noir 18 m, perception de la vie ; Perception +21
 (((Défense)))
 - **CA** 26, contact 16, pris au dépourvu 20 (Dex +5, esquive +1, naturelle +10)
@@ -23,12 +23,12 @@ LastModified: 2017-04-11 11:12
   - et 2 griffes, +18 (2d6+1 et saignement et paralysie)
 - **Attaques spéciales** saignement accéléré, absorption de sang (1d4 Con), cône de peur (18 m, DD 23), paralysie (1d4 rounds, DD 23), regard déséquilibrant
 - **Pouvoirs magiques** (**NLS **12 ; concentration +17)
-  - *3/jour* – [contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md) (DD 17), [domination](./Domination.md) (DD 20), [état gazeux](./État gazeux.md), [invisibilité](./Invisibilité.md), [nappe de brouillard](./Nappe de brouillard.md)
+  - *3/jour* – [[contrôle mineur des morts-vivants]] (DD 17), [[domination]] (DD 20), [[état gazeux]], [[invisibilité]], [[nappe de brouillard]]
 (((Statistiques)))
 - **For** 13, **Dex** 20, **Con **-, **Int** 11, **Sag** 12, **Cha** 21
 - **BBA **+12 ; **BMO **+13 ; **DMD** 29
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque éclair](./Attaque éclair.md), [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Souplesse du serpent](./Souplesse du serpent.md), [Volonté de fer](./Volonté de fer.md) 
-- **Compétences** [Bluff](./Bluff.md) +14, [Connaissances](./Connaissances.md) (noblesse) +8, [Déguisement](./Déguisement.md) +17, [Diplomatie](./Diplomatie.md) +14, [Discrétion](./Discrétion.md) +16, [Perception](./Perception.md) +21, [Psychologie](./Psychologie.md) +12 
+- **Dons** [[Arme de prédilection]] (griffe), [[Arme de prédilection]] (morsure), [[Attaque éclair]], [[Attaque en finesse]], [[Esquive]], [[Frappe décisive]], [[Réflexes surhumains]], [[Souplesse du serpent]], [[Volonté de fer]] 
+- **Compétences** [[Bluff]] +14, [[Connaissances]] (noblesse) +8, [[Déguisement]] +17, [[Diplomatie]] +14, [[Discrétion]] +16, [[Perception]] +21, [[Psychologie]] +12 
 - **Langues** abyssal, commun, infernal
 - **Particularités** création de rejetons, forme vivante
 (((Écologie)))

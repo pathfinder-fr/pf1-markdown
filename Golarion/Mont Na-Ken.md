@@ -7,4 +7,4 @@ Categories:
 - Osirion
 ---
 
-Ensemble montagneux d'[Osirion](./Osirion.md) situé non loin de la ville historique d'[An](./An.md).
+Ensemble montagneux d'[[Osirion]] situé non loin de la ville historique d'[[An]].

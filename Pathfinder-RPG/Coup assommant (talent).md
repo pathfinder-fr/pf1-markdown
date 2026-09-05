@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#COUPASSOMMANT
 ---
 
->>> [Talents#COUPASSOMMANT](./Talents.md#COUPASSOMMANT)
+>>> [[Talents#COUPASSOMMANT]]

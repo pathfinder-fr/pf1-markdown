@@ -9,4 +9,4 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire 5 p.318*
 
-Ce sous-type s’applique aux [profonds](./Profond.md) et créatures apparentées, comme les [hybrides profonds](./Hybride profond.md). Les créatures dotées de ce sous-type possèdent la [vision nocturne](./Vision nocturne (capacité).md).
+Ce sous-type s’applique aux [[Profond|profonds]] et créatures apparentées, comme les [[Hybride profond|hybrides profonds]]. Les créatures dotées de ce sous-type possèdent la [[Vision nocturne (capacité)|vision nocturne]].

@@ -15,22 +15,22 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Méd](./Médium.md) 1, [Psy](./Psychiste.md) 1, [San](./Sanguin.md) 1  
+**École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, F](./composantes.md) (petite réplique en bois d’une cible d’archerie)  
+**Composantes** [[composantes|V, F]] (petite réplique en bois d’une cible d’archerie)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
 **Durée** voir description
 
-Le personnage jetant ce sort sait intuitivement comment frapper pour que son attaque soit la plus efficace possible. Son prochain [jet d’attaque](./jet dattaque.md) (qui doit avoir lieu au plus tard le [round](./round.md) suivant l’incantation) gagne un bonus d’intuition de +20. De plus, il n’a aucune chance de manquer une cible [camouflée](./camouflage.md).
+Le personnage jetant ce sort sait intuitivement comment frapper pour que son attaque soit la plus efficace possible. Son prochain [[jet dattaque|jet d’attaque]] (qui doit avoir lieu au plus tard le [[round]] suivant l’incantation) gagne un bonus d’intuition de +20. De plus, il n’a aucune chance de manquer une cible [[camouflage|camouflée]].
 
 ### Mythique
 {s:CMy}
 L’attaque affectée ignore toutes les réductions des dégâts.
 
-**[Amplifié](./Amplifié.md) (2ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), il gagne un bonus d’intuition de +10 à sa deuxième attaque et un bonus d’intuition de +5 à sa troisième attaque effectuées pendant le round en cours. Le personnage peut effectuer la deuxième et la troisième attaque pendant son tour ou pendant celui d’une autre créature avant son prochain tour (comme lorsqu’il effectue une attaque d’opportunité).
+**[[Amplifié]] (2ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], il gagne un bonus d’intuition de +10 à sa deuxième attaque et un bonus d’intuition de +5 à sa troisième attaque effectuées pendant le round en cours. Le personnage peut effectuer la deuxième et la troisième attaque pendant son tour ou pendant celui d’une autre créature avant son prochain tour (comme lorsqu’il effectue une attaque d’opportunité).

@@ -14,23 +14,23 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.226}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, LM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, LM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 14 (Dex +1, naturelle +4)}
 {s:BDTexte|**pv** 26 (4d8+8)}
 {s:BDTexte|**Réf** +2, **Vig** +3, **Vol** +5}
-{s:BDTexte|**Capacités défensives** [traits des morts-vivants](./Traits des morts-vivants.md) }
+{s:BDTexte|**Capacités défensives** [[traits des morts-vivants]] }
 {s:BDTexte|**Faiblesses** vulnérabilité à la résurrection}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** coup +4 (1d4+1 et [absorption d'énergie](./Absorption dénergie (capacité).md))}
-{s:BDTexte|**Attaques spéciales** [absorption d'énergie](./Absorption dénergie (capacité).md) (1 niveau, DD 14), création de rejetons}
+{s:BDTexte|**Corps à corps** coup +4 (1d4+1 et [[absorption dénergie (capacité)|absorption d'énergie]])}
+{s:BDTexte|**Attaques spéciales** [[absorption dénergie (capacité)|absorption d'énergie]] (1 niveau, DD 14), création de rejetons}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 12, **Con** -, **Int** 11, **Sag** 13, **Cha** 15}
 {s:BDTexte|**BBA** +3, **BMO** +4, **DMD** 15}
-{s:BDTexte|**Dons** [Combat en aveugle](./Combat en aveugle.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (religion) +7, [Discrétion](./Discrétion.md) +16, [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +11 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +8}
+{s:BDTexte|**Dons** [[Combat en aveugle]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Connaissances]] (religion) +7, [[Discrétion]] +16, [[Intimidation]] +9, [[Perception]] +11 ; **Modificateurs raciaux** [[Discrétion]] +8}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** création de rejetons}
 {s:BDSousTitre|Écologie}
@@ -38,8 +38,8 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-6) ou meute (7-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Création de rejetons (Sur).** Lorsqu'un nécrophage tue un [humanoïde](./type Humanoïde.md), ce dernier devient lui-même un nécrophage au bout de 1d4 rounds. Les rejetons ainsi créés sont moins puissants que les nécrophages normaux : ils subissent un malus de -2 sur tous leurs jets et leurs tests utilisant un d20 et reçoivent 2 points de vie de moins par [DV](./../Ressources/DV.md). Les rejetons sont sous contrôle du nécrophage qui les a créés et restent ses esclaves jusqu'à ce que celui-ci meure. A ce moment là, les malus disparaissent et ils deviennent de véritables nécrophages libres d'agir à leur guise ; Ils ne possèdent aucune des capacités qu'ils avaient de leur vivant.}
-{s:BDTexte|**Vulnérabilité à la résurrection (Sur).** Lorsqu'un sort de *[rappel à la vie](./Rappel à la vie.md)* ou un sort similaire est lancé sur un nécrophage, ce dernier est détruit ([Volonté](./Volonté.md) annule) et le sort ne nécessite aucune [composante matérielle](./composante matérielle.md).}
+{s:BDTexte|**Création de rejetons (Sur).** Lorsqu'un nécrophage tue un [[type humanoïde|humanoïde]], ce dernier devient lui-même un nécrophage au bout de 1d4 rounds. Les rejetons ainsi créés sont moins puissants que les nécrophages normaux : ils subissent un malus de -2 sur tous leurs jets et leurs tests utilisant un d20 et reçoivent 2 points de vie de moins par [[DV]]. Les rejetons sont sous contrôle du nécrophage qui les a créés et restent ses esclaves jusqu'à ce que celui-ci meure. A ce moment là, les malus disparaissent et ils deviennent de véritables nécrophages libres d'agir à leur guise ; Ils ne possèdent aucune des capacités qu'ils avaient de leur vivant.}
+{s:BDTexte|**Vulnérabilité à la résurrection (Sur).** Lorsqu'un sort de *[[rappel à la vie]]* ou un sort similaire est lancé sur un nécrophage, ce dernier est détruit ([[Volonté]] annule) et le sort ne nécessite aucune [[composante matérielle]].}
 </div>
 </td><td><div>*La chair de ce cadavre ambulant est pourrie et putride et laisse apparaître les os ici et là. Une lueur rouge brille dans ses orbites.*
 

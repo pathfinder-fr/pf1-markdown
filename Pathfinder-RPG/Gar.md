@@ -14,21 +14,21 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 - *Source : Bestiaire 2* p.138
 - **PX** 400
-- [Animal](./type Animal.md) ([aquatique](./sous-type aquatique.md)) de taille M, N
-- **Init** +6 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6
+- [[type Animal|Animal]] ([[sous-type aquatique|aquatique]]) de taille M, N
+- **Init** +6 ; **Sens** [[vision nocturne]] ; [[Perception]] +6
 (((Défense)))
 - **CA** 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)
 - **pv** 13 (2d8+4)
 - **Réf** +5, **Vig** +5, **Vol** +1
 (((Attaque)))
 - **VD** nage 18 m (12 {s:c})
-- **Corps à corps** morsure, +3 (1d6+3 plus [étreinte](./Étreinte.md))
+- **Corps à corps** morsure, +3 (1d6+3 plus [[étreinte]])
 - **Espace** 1,50 m ; **Allonge** 1,50 m
 (((Caractéristiques)))
 - **For** 14, **Dex** 14, **Con** 15, **Int** 1, **Sag** 13, **Cha** 2
-- **BBA** +1, **BMO** +3 (+7 [lutte](./lutte.md)), **DMD** 15 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Perception](./Perception.md) +6, [Natation](./Natation.md) +10
+- **BBA** +1, **BMO** +3 (+7 [[lutte]]), **DMD** 15 ([[croc-en-jambe]] impossible)
+- **Dons** [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Perception]] +6, [[Natation]] +10
 (((Écologie)))
 - **Environnement** eaux douces tempérées
 - **Organisation sociale** solitaire, couple ou banc (3-6)
@@ -41,9 +41,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Gar](./Gar.md) || 1
+| [[Gar]] || 1
 |-
-| [Gar géant](./Gar géant.md) || 6
+| [[Gar géant]] || 6
 |}
 </div>*Ce long poisson élancé possède un corps musclé et des mâchoires garnies de dents acérées.*
 
@@ -51,7 +51,7 @@ Les gars (ou semionotiformes) sont des poissons prédateurs qui vivent dans les 
 
 #### Le gar comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** nage 18 m (12 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 14, Dex 14, Con 15, Int 1, Sag 13, Cha 2 ; **Particularités** [étreinte](./Étreinte.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** nage 18 m (12 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 14, Dex 14, Con 15, Int 1, Sag 13, Cha 2 ; **Particularités** [[étreinte]].
 
 **Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** morsure (1d8) ; **Caractéristiques** For +8, Dex -2, Con +4.
 

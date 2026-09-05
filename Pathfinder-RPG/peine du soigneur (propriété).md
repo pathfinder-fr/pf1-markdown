@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Peine du soigneur
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Peine du soigneur](./Descriptions individuelles des propriétés spéciales des armes.md#Peine du soigneur)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Peine du soigneur]]

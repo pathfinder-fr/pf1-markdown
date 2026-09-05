@@ -4,9 +4,9 @@ Title: Histoires de Grand-mère
 LastModified: 2023-05-12 19:28
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur le lore de Golarion pour Pathfinder 2](./LORE.md)
+• [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 <nav class="wiki-toc"></nav>
 

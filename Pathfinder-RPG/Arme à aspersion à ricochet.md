@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Les armes à aspersion du personnage sont particulièrement dangereuses, même quand il rate sa cible. *
 
-**Conditions.** [Dex](./Dex.md) 13, [Lancer improvisé](./Lancer improvisé.md)
+**Conditions.** [[Dex]] 13, [[Lancer improvisé]]
 
-**Avantage.** Quand l’[arme à aspersion](./arme à aspersion.md) du personnage rate sa cible et que le jet de direction indique qu’elle atterrit dans une case occupée par une créature, il peut faire un [Jet d’attaque](./jet dattaque.md) (avec un malus de -5) comme s’il avait lancé l’arme sur cette créature. Si l’attaque réussit, l’arme touche et la créature reçoit la totalité des dégâts d’aspersion. Les cases adjacentes reçoivent les dégâts d’aspersion habituels.
+**Avantage.** Quand l’[[arme à aspersion]] du personnage rate sa cible et que le jet de direction indique qu’elle atterrit dans une case occupée par une créature, il peut faire un [[Jet dattaque|Jet d’attaque]] (avec un malus de -5) comme s’il avait lancé l’arme sur cette créature. Si l’attaque réussit, l’arme touche et la créature reçoit la totalité des dégâts d’aspersion. Les cases adjacentes reçoivent les dégâts d’aspersion habituels.
 
 **Normal.** Une arme à aspersion qui rate sa cible inflige des dégâts d’aspersion dans la case où elle atterrit et dans les cases adjacentes.

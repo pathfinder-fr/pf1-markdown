@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *La puissance divine du personnage repousse les ennemis de sa foi.*
 
-**Condition.** [Interférence divine](./Interférence divine.md)
+**Condition.** [[Interférence divine]]
 
-**Avantage.** Lorsque le personnage utilise [Interférence divine](./Interférence divine.md), le malus au jet d’attaque de son adversaire est égal au double du niveau du sort sacrifié. Le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) au moment où il sacrifie le sort pour que le malus s’élève au triple du niveau du sort sacrifié.
+**Avantage.** Lorsque le personnage utilise [[Interférence divine]], le malus au jet d’attaque de son adversaire est égal au double du niveau du sort sacrifié. Le personnage peut dépenser une utilisation de [[pouvoir mythique]] au moment où il sacrifie le sort pour que le malus s’élève au triple du niveau du sort sacrifié.

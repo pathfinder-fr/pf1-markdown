@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Fée|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 136*}
 - **135 PX**
-- [Créature féerique](./type Fée.md) de taille TP, CN
+- [[Type fée|Créature féerique]] de taille TP, CN
 - **Init **+1 ; **Sens** vision nocturne ; Perception +4
 (((Défense)))
 - **CA** 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)
@@ -26,13 +26,13 @@ Categories:
 - **Espace** 0,75 m ; **Allonge** 0 m
 - **Attaque spéciale** vomi putride
 - **Pouvoirs magiques** (**NLS** 1 ; concentration -1)
-  - À volonté — *[prestidigitation](./Prestidigitation.md)*
-  - 3/jour — *[graisse](./Graisse.md)* (DD 9), *[manipulation à distance](./Manipulation à distance.md), [ouverture/fermeture](./Ouverturefermeture.md)*
+  - À volonté — *[[prestidigitation]]*
+  - 3/jour — *[[graisse]]* (DD 9), *[[manipulation à distance]], [[ouverturefermeture|ouverture/fermeture]]*
 (((Statistiques)))
 - **For** 3, **Dex** 13, **Con** 12, **Int** 10, **Sag** 11, **Cha** 6
 - **BBA **+0 ; **BMO **-1 ; **DMD** 5
-- **Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>S</sup>, [Talent](./Talent.md) (Discrétion)
-- **Compétences** [Discrétion](./Discrétion.md) +16, [Escalade](./Escalade.md) +13, [Escamotage](./Escamotage.md) +5, [Natation](./Natation.md) +5, [Perception](./Perception.md) +4, [Vol](./Vol.md) +1
+- **Dons** [[Attaque en finesse]]<sup>S</sup>, [[Talent]] (Discrétion)
+- **Compétences** [[Discrétion]] +16, [[Escalade]] +13, [[Escamotage]] +5, [[Natation]] +5, [[Perception]] +4, [[Vol]] +1
 - **Langues** commun des profondeurs
 - **Particularités** poux de gremlin
 (((Écologie)))
@@ -45,7 +45,7 @@ Categories:
 Traitez-la comme une attaque de contact à distance sans facteur de portée. Quiconque se fait toucher doit réussir un jet de Vigueur DD 11 pour ne pas être nauséeux pendant 1d4 rounds. Le DD du jet de sauvegarde est basé sur la Constitution.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [gremlins](./Gremlin.md).***</li></ul>*Cet humanoïde à l’apparence putride ressemble de manière troublante à un opossum à moitié mort de faim et rongé par la gale.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Gremlin|gremlins]].***</li></ul>*Cet humanoïde à l’apparence putride ressemble de manière troublante à un opossum à moitié mort de faim et rongé par la gale.*
 
 Les tristefripes sont des charognards urbains crasseux qui rôdent sous les corniches des bâtiments abandonnés, des tours d’horloge, des beffrois et des clochers. Dépenaillés et maladifs, ils sont sans cesse en train de muer à cause des petits parasites dont ils sont infestés. Grimpeurs agiles, les tristefripes sont également dotés d’amples volets de peau sous les bras qui leur permettent de planer sur de courtes distances. Les tristefripes méprisent les humains et ne s’en cachent pas,
 attaquant les ivrognes, déverrouillant les écuries, torturant les chiens de garde et dévissant les enseignes des devantures pour qu’elles tombent sur les gens. Cela ne les empêche pas de s’allier parfois avec des humains ou d’autres humanoïdes, même si ces collaborations sont toujours temporaires puisque les tristefripes sont sans cesse en train de comploter quelque trahison.

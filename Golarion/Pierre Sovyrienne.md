@@ -9,4 +9,4 @@ Categories:
 
 La Pierre Sovyrienne est en fait un énorme cristal à partir duquel le légendaire portail vers le royaume Soryvien fut créé.
 
-Bien que cette porte est connue de tous dans le [Kyonin](./Kyonin.md), elle est cachée quelque part dans [Iadara](./Iadara.md), capitale du pays des elfes. Très peu de personnes ont eu l'insigne honneur de pouvoir la voir.
+Bien que cette porte est connue de tous dans le [[Kyonin]], elle est cachée quelque part dans [[Iadara]], capitale du pays des elfes. Très peu de personnes ont eu l'insigne honneur de pouvoir la voir.

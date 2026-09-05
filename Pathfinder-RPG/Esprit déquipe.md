@@ -12,6 +12,6 @@ Categories:
 {s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:cm}''Le personnage voit en ses camarades une source
 d’inspiration, persuadé que l’entraînement qu’ils ont partagé et leur dévotion commune leur apporteront la victoire.''
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[Dons#DONCOMBAT|combat]], [[Dons#DONEQUIPE|équipe]]
 
-**Avantages.** Quand le personnage se trouve à 3 mètres ou moins d’un allié bénéficiant d’un sort ou d’un effet apportant un bonus de moral sur un jet de dé particulier, il peut appliquer ce bonus sur un de ses jets du type approprié, une fois pendant la période d’effet de ce bonus. Par exemple, si un allié possédant ce don bénéficie du sort *[héroïsme](./Héroïsme.md)*, une fois pendant la durée du sort, le personnage peut bénéficier d’un bonus de moral de +2 à un [jet de sauvegarde](./JDS.md) ou [d’attaque](./jet dattaque.md) ou à un test de compétence. Il ne peut utiliser ce don qu’une fois par round et une fois seulement par sort ou effet.
+**Avantages.** Quand le personnage se trouve à 3 mètres ou moins d’un allié bénéficiant d’un sort ou d’un effet apportant un bonus de moral sur un jet de dé particulier, il peut appliquer ce bonus sur un de ses jets du type approprié, une fois pendant la période d’effet de ce bonus. Par exemple, si un allié possédant ce don bénéficie du sort *[[héroïsme]]*, une fois pendant la durée du sort, le personnage peut bénéficier d’un bonus de moral de +2 à un [[jds|jet de sauvegarde]] ou [[jet dattaque|d’attaque]] ou à un test de compétence. Il ne peut utiliser ce don qu’une fois par round et une fois seulement par sort ou effet.

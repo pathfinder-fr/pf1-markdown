@@ -6,11 +6,11 @@ LastModified: 2024-07-05 23:01
 
 <div class="BD">
 {s:BDTitre|Manches à vêtements|{s:AE}}
-**Aura** [Illusion](./Illusion.md) faible ; **NLS** 1 ; **Emplacement** [poignets](./Objets merveilleux portés aux poignets.md) ; **Prix** 200 po ; **Poids** 0,5 kg
+**Aura** [[Illusion]] faible ; **NLS** 1 ; **Emplacement** [[Objets merveilleux portés aux poignets|poignets]] ; **Prix** 200 po ; **Poids** 0,5 kg
 (((Description)))
-{s:FAQ|***[→](./FAQ- Armes et équipement.md#6) Manches à vêtements : Les effets des manches à vêtements sont-ils d’illusion ou de transmutation ?***
+{s:FAQ|***[[FAQ- Armes et équipement#6|→]] Manches à vêtements : Les effets des manches à vêtements sont-ils d’illusion ou de transmutation ?***
 
-Les effets sont d’[illusion (hallucination)](./branche hallucination.md) comme les propriétés d’arme et d’armure *[mimétisme](./mimétisme (propriété).md)*. Cela signifie qu’<u>[elles](./Manches À Vêtements.md)</u> ne peuvent pas être dévoilées comme pourrait l’être une [chimère](./branche chimère.md), mais elles ne modifient pas physiquement les vêtements. La transformation ne change que l’apparence, incluant la texture, l’odeur, et les autres aspects sensoriels.}Ces manches en tissu translucide s’enfilent aisément sur les bras de leur porteur. Une fois enfilées, le porteur peut décider de transformer l'apparence de ses habits en un ensemble vestimentaire différent. Ces nouveaux vêtements lui vont parfaitement bien, restent toujours propres et en bon état, à moins que leur porteur n’en décide autrement. Lorsqu’il retire les manches, ses vêtements retrouvent leur forme d’origine.
+Les effets sont d’[[branche hallucination|illusion (hallucination)]] comme les propriétés d’arme et d’armure *[[mimétisme (propriété)|mimétisme]]*. Cela signifie qu’<u>[[manches à vêtements|elles]]</u> ne peuvent pas être dévoilées comme pourrait l’être une [[branche chimère|chimère]], mais elles ne modifient pas physiquement les vêtements. La transformation ne change que l’apparence, incluant la texture, l’odeur, et les autres aspects sensoriels.}Ces manches en tissu translucide s’enfilent aisément sur les bras de leur porteur. Une fois enfilées, le porteur peut décider de transformer l'apparence de ses habits en un ensemble vestimentaire différent. Ces nouveaux vêtements lui vont parfaitement bien, restent toujours propres et en bon état, à moins que leur porteur n’en décide autrement. Lorsqu’il retire les manches, ses vêtements retrouvent leur forme d’origine.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[déguisement](./Déguisement.md)* ; **Coût** 100 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[déguisement]]* ; **Coût** 100 po
 </div>

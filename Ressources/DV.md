@@ -6,8 +6,8 @@ LastModified: 2018-08-25 15:39
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Vers la [discussion] </ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Vers la [[discussion]] </ul>
 
 </div>
 
@@ -21,67 +21,67 @@ Les DV utilisés sont les suivants.
 |- CLASS="titre"
 | Classe || DV normal || DV de la variante
 |- CLASS="premier"
-| [Alchimiste](./../Pathfinder-RPG/Alchimiste.md)<sup>APG</sup> || d8 || d6
+| [[Pathfinder-RPG.Alchimiste|Alchimiste]]<sup>APG</sup> || d8 || d6
 |-
-| [Arcaniste](./../Pathfinder-RPG/Arcaniste.md)<sup>ACG</sup> || d6 || d4
+| [[Pathfinder-RPG.Arcaniste|Arcaniste]]<sup>ACG</sup> || d6 || d4
 |-
-| [Barbare](./../Pathfinder-RPG/Barbare.md) || d12 || d12
+| [[Pathfinder-RPG.Barbare|Barbare]] || d12 || d12
 |-
-| [Barde](./../Pathfinder-RPG/Barde.md) || d8 || d6
+| [[Pathfinder-RPG.Barde|Barde]] || d8 || d6
 |-
-| [Bretteur](./../Pathfinder-RPG/Bretteur.md)<sup>ACG</sup> || d10 || d10
+| [[Pathfinder-RPG.Bretteur|Bretteur]]<sup>ACG</sup> || d10 || d10
 |-
-| [Chaman](./../Pathfinder-RPG/Chaman.md)<sup>ACG</sup> || d8 || d6
+| [[Pathfinder-RPG.Chaman|Chaman]]<sup>ACG</sup> || d8 || d6
 |-
-| [Chasseur](./../Pathfinder-RPG/Chasseur.md)<sup>ACG</sup> || d8 || d8
+| [[Pathfinder-RPG.Chasseur|Chasseur]]<sup>ACG</sup> || d8 || d8
 |-
-| [Chevalier](./../Pathfinder-RPG/Chevalier.md)<sup>APG</sup> || d10 || d10
+| [[Pathfinder-RPG.Chevalier|Chevalier]]<sup>APG</sup> || d10 || d10
 |-
-| [Conjurateur](./../Pathfinder-RPG/Conjurateur.md)<sup>APG</sup> || d8 || d6
+| [[Pathfinder-RPG.Conjurateur|Conjurateur]]<sup>APG</sup> || d8 || d6
 |-
-| [Druide](./../Pathfinder-RPG/Druide.md) || d6 || d6
+| [[Pathfinder-RPG.Druide|Druide]] || d6 || d6
 |-
-| [Enquêteur](./../Pathfinder-RPG/Enquêteur.md)<sup>ACG</sup> || d8 || d6
+| [[Pathfinder-RPG.Enquêteur|Enquêteur]]<sup>ACG</sup> || d8 || d6
 |-
-| [Ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) || d6 || d4
+| [[Pathfinder-RPG.Ensorceleur|Ensorceleur]] || d6 || d4
 |-
-| [Guerrier](./../Pathfinder-RPG/Guerrier.md) || d10 || d10
+| [[Pathfinder-RPG.Guerrier|Guerrier]] || d10 || d10
 |-
-| [Inquisiteur](./../Pathfinder-RPG/Inquisiteur.md)<sup>APG</sup> || d8 || d8
+| [[Pathfinder-RPG.Inquisiteur|Inquisiteur]]<sup>APG</sup> || d8 || d8
 |-
-| [Lutteur](./../Pathfinder-RPG/Lutteur.md)<sup>ACG</sup> || d10 || d10
+| [[Pathfinder-RPG.Lutteur|Lutteur]]<sup>ACG</sup> || d10 || d10
 |-
-| [Magicien](./../Pathfinder-RPG/Magicien.md) || d6 || d4
+| [[Pathfinder-RPG.Magicien|Magicien]] || d6 || d4
 |-
-| [Magus](./../Pathfinder-RPG/Magus.md)<sup>UM</sup> || d8 || d6
+| [[Pathfinder-RPG.Magus|Magus]]<sup>UM</sup> || d8 || d6
 |-
-| [Moine](./../Pathfinder-RPG/Moine.md) || d8 || d8
+| [[Pathfinder-RPG.Moine|Moine]] || d8 || d8
 |-
-| [Ninja](./../Pathfinder-RPG/Ninja.md)<sup>UC</sup> || d8 || d6
+| [[Pathfinder-RPG.Ninja|Ninja]]<sup>UC</sup> || d8 || d6
 |-
-| [Oracle](./../Pathfinder-RPG/Oracle.md)<sup>APG</sup> || d8 || d6
+| [[Pathfinder-RPG.Oracle|Oracle]]<sup>APG</sup> || d8 || d6
 |-
-| [Paladin](./../Pathfinder-RPG/Paladin.md) || d10 || d10
+| [[Pathfinder-RPG.Paladin|Paladin]] || d10 || d10
 |-
-| [Pistolier](./../Pathfinder-RPG/Pistolier.md)<sup>UC</sup> || d10 || d8
+| [[Pathfinder-RPG.Pistolier|Pistolier]]<sup>UC</sup> || d10 || d8
 |-
-| [Prêtre](./../Pathfinder-RPG/Prêtre.md) || d8 || d8
+| [[Pathfinder-RPG.Prêtre|Prêtre]] || d8 || d8
 |-
-| [Prêtre combattant](./../Pathfinder-RPG/Prêtre combattant.md)<sup>ACG</sup> || d8 || d8
+| [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]]<sup>ACG</sup> || d8 || d8
 |-
-| [Rôdeur](./../Pathfinder-RPG/Rôdeur.md) || d10 || d8
+| [[Pathfinder-RPG.Rôdeur|Rôdeur]] || d10 || d8
 |-
-| [Roublard](./../Pathfinder-RPG/Roublard.md) || d8 || d6
+| [[Pathfinder-RPG.Roublard|Roublard]] || d8 || d6
 |-
-| [Samouraï](./../Pathfinder-RPG/Samouraï.md)<sup>UC</sup> || d10 || d10
+| [[Pathfinder-RPG.Samouraï|Samouraï]]<sup>UC</sup> || d10 || d10
 |-
-| [Sanguin](./../Pathfinder-RPG/Sanguin.md)<sup>ACG</sup> || d10 || d10
+| [[Pathfinder-RPG.Sanguin|Sanguin]]<sup>ACG</sup> || d10 || d10
 |-
-| [Scalde](./../Pathfinder-RPG/Scalde.md)<sup>ACG</sup> || d8 || d8
+| [[Pathfinder-RPG.Scalde|Scalde]]<sup>ACG</sup> || d8 || d8
 |-
-| [Sorcière](./../Pathfinder-RPG/Sorcière.md)<sup>APG</sup> || d6 || d4
+| [[Pathfinder-RPG.Sorcière|Sorcière]]<sup>APG</sup> || d6 || d4
 |-
-| [Tueur](./../Pathfinder-RPG/Tueur.md)<sup>ACG</sup> || d10 || d8
+| [[Pathfinder-RPG.Tueur|Tueur]]<sup>ACG</sup> || d10 || d8
 |}
 </center>
 

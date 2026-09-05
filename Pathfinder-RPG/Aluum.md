@@ -13,13 +13,13 @@ Categories:
 {s:pucem|Créature artificielle|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.16*}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille G, N}
-{s:BDTexte|**Init** +1 ; **Sens** , [vision dans le noir](./vision dans le noir.md)  18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** , [[vision dans le noir]]  18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 10, pris au dépourvu  24 (Dex +1, naturelle +15, -1 taille)}
 {s:BDTexte|**pv** 107 (14d10+30)}
 {s:BDTexte|**Réf** +5, **Vig** +4, **Vol** +4}
-{s:BDTexte|**RD** 10/adamantium ; **Immunités** magie, [créature artificielle](./type Créature artificielle.md)}
+{s:BDTexte|**RD** 10/adamantium ; **Immunités** magie, [[type Créature artificielle|créature artificielle]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 coups, +21 (2d10+8 plus paralysie)}
@@ -33,9 +33,9 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire ou escadron (3-4)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte| ** Cri de l’âme (Sur).** Tous les 1d4 [rounds](./round.md), par une action libre, l’âme prisonnière de l’aluum peut émettre une lamentation aiguë dans un cône de 4,50 mètres. Les créatures affectées reçoivent 10d6 points de dégâts sonores et sont [étourdies](./Étourdi.md) pendant 1 [round](./round.md). Un jet de [Volonté](./Volonté.md) [DD](./DD.md) 15 permet de réduire les dégâts de moitié et d’annuler l’étourdissement. C’est un effet sonore mental. Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Immunité contre la magie (Ext).** Les aluums sont immunisés contre la magie et les pouvoirs magiques qui autorisent une [Résistance à la magie](./RM.md). De plus, certains sorts et effets fonctionnent différemment sur eux. Toute attaque magique qui utilise de l’énergie négative (comme la canalisation d’énergie négative, blessures légères ou énergie négative) n’inflige pas de dégâts à l’aluum, mais augmente sa vitesse d’attaque et de déplacement comme s’il était sous l’effet d’un sort de *[rapidité](./Rapidité.md)* pendant 1d6 [rounds](./round.md). Les attaques magiques qui utilisent l’énergie positive ralentissent l’aluum comme le sort *[lenteur](./Lenteur.md)* pendant 1d6 [rounds](./round.md) et dissipent tout effet de rapidité actuellement actif sur lui. La possession rend l’aluum [confus](./Confus.md) pendant 1d6 [rounds](./round.md).}
-{s:BDTexte|**Paralysie (Sur).** Le contact de l’aluum paralyse pendant 1d4 minutes les créatures vivantes qui ratent un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 17. Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte| ** Cri de l’âme (Sur).** Tous les 1d4 [[round|rounds]], par une action libre, l’âme prisonnière de l’aluum peut émettre une lamentation aiguë dans un cône de 4,50 mètres. Les créatures affectées reçoivent 10d6 points de dégâts sonores et sont [[étourdi|étourdies]] pendant 1 [[round]]. Un jet de [[Volonté]] [[DD]] 15 permet de réduire les dégâts de moitié et d’annuler l’étourdissement. C’est un effet sonore mental. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].}
+{s:BDTexte|**Immunité contre la magie (Ext).** Les aluums sont immunisés contre la magie et les pouvoirs magiques qui autorisent une [[RM|Résistance à la magie]]. De plus, certains sorts et effets fonctionnent différemment sur eux. Toute attaque magique qui utilise de l’énergie négative (comme la canalisation d’énergie négative, blessures légères ou énergie négative) n’inflige pas de dégâts à l’aluum, mais augmente sa vitesse d’attaque et de déplacement comme s’il était sous l’effet d’un sort de *[[rapidité]]* pendant 1d6 [[round|rounds]]. Les attaques magiques qui utilisent l’énergie positive ralentissent l’aluum comme le sort *[[lenteur]]* pendant 1d6 [[round|rounds]] et dissipent tout effet de rapidité actuellement actif sur lui. La possession rend l’aluum [[confus]] pendant 1d6 [[round|rounds]].}
+{s:BDTexte|**Paralysie (Sur).** Le contact de l’aluum paralyse pendant 1d4 minutes les créatures vivantes qui ratent un jet de [[Vigueur]] [[DD]] 17. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].}
 </div>
 </td><td>{s:cs}<div>*Cette imposante silhouette humanoïde est faite de métal gravé de runes et de pierre polie. Ses yeux cristallins brillent d’une lumière bleue.*
 
@@ -46,6 +46,6 @@ Même si les maîtres du Pacte gardent jalousement le secret de la méthode de c
 
 **NLS** 13<sup>e</sup> ; **Prix** 80 000 po
 
-**Conditions requises** [Création de créatures artificielles](./Création de créatures artificielles.md), *[immobilisation de monstre](./Immobilisation de monstre.md)*, *[possession](./Possession.md)*, *[quête](./Quête.md)*, *[souhait limité](./Souhait limité.md)* ; niveau de lanceur de sorts du créateur 13 ; **Compétence** [Artisanat](./Artisanat.md) (fabrication d’armure ou d’arme) [DD](./DD.md) 18 ; **Prix** 40 000 po
+**Conditions requises** [[Création de créatures artificielles]], *[[immobilisation de monstre]]*, *[[possession]]*, *[[quête]]*, *[[souhait limité]]* ; niveau de lanceur de sorts du créateur 13 ; **Compétence** [[Artisanat]] (fabrication d’armure ou d’arme) [[DD]] 18 ; **Prix** 40 000 po
 
 </div></td></tr></table>

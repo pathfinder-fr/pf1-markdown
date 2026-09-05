@@ -13,18 +13,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[malédiction](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 3, [Inq](./Inquisiteur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Occ](./Occultiste.md) 4, [Prê](./Prêtre.md) 5, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4  
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
 
-**Temps d’incantation** 1 [round](./round.md)  
+**Temps d’incantation** 1 [[round]]  
 
-**Composantes** [V, G, M](./composantes.md) (plomb et platine en poudre pour une valeur de 250 po)  
+**Composantes** [[Composantes|V, G, M]] (plomb et platine en poudre pour une valeur de 250 po)  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Cible** une créature  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE); **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]; **Résistance à la magie** oui
 
-Le personnage perturbe la capacité de la cible à puiser dans les énergies magiques. Pendant toute la durée du sort, la cible est affectée par la [plaie magique](./Plaies.md) de [négation](./Description des plaies magiques.md). Les [tests](./../Golarion/Test.md) de dissipation pour se débarrasser de la plaie subissent un malus de -5 à cause des interférences entre le sort et les énergies magiques.
+Le personnage perturbe la capacité de la cible à puiser dans les énergies magiques. Pendant toute la durée du sort, la cible est affectée par la [[Plaies|plaie magique]] de [[Description des plaies magiques|négation]]. Les [[test|tests]] de dissipation pour se débarrasser de la plaie subissent un malus de -5 à cause des interférences entre le sort et les énergies magiques.

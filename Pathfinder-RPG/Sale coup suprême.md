@@ -13,11 +13,11 @@ Categories:
 
 *Votre entraînement dans une technique de sale coup la rend spécialement efficace.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** [Int](./Int.md) 13, [Expertise du combat](./Expertise du combat.md), [Sale coup supérieur](./Sale coup supérieur.md), [Science du sale coup](./Science du sale coup.md), [BBA](./BBA.md) +8
+**Condition.** [[Int]] 13, [[Expertise du combat]], [[Sale coup supérieur]], [[Science du sale coup]], [[BBA]] +8
 
-**Avantage.** Le personnage choisit un [état préjudiciable](./États préjudiciables.md) infligé par la manœuvre [sale coup](./sale coup.md) tel qu'[aveuglé](./Aveuglé.md) ou [enchevêtré](./Enchevêtré.md). La cible doit dépenser une [action complexe](./Action complexe.md) pour pouvoir se débarrasser de cet état préjudiciable.
+**Avantage.** Le personnage choisit un [[états préjudiciables|état préjudiciable]] infligé par la manœuvre [[sale coup]] tel qu'[[aveuglé]] ou [[enchevêtré]]. La cible doit dépenser une [[action complexe]] pour pouvoir se débarrasser de cet état préjudiciable.
 
 **Spécial.** Le personnage peut prendre ce don plusieurs fois. Chaque fois qu'il le prend, il s'applique à un état préjudiciable différent.
 

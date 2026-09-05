@@ -30,7 +30,7 @@ Les PJ ont souvent l'habitude de tuer un grand nombre d'ennemis, depuis les crue
 
 Souvent, néanmoins, les possessions des méchants manquent d'une petit quelque chose en plus qui attire ou intrigue les PJ, particulièrement lorsqu'un méchant est un acolyte anonyme ou tout autre mécréant qui se trouve sur le chemin des PJ.
 
-Cette liste de 30 objets peut rendre les possessions d'un méchant beaucoup plus intéressante et peut être utilisée avec le [Catalogue de l'aventurier mort](./KQ Le catalogue de laventurier mort.md) pour créer une liste d'objets indispensables dans laquelle les MJ pourrons puiser.
+Cette liste de 30 objets peut rendre les possessions d'un méchant beaucoup plus intéressante et peut être utilisée avec le [[KQ Le catalogue de laventurier mort|Catalogue de l'aventurier mort]] pour créer une liste d'objets indispensables dans laquelle les MJ pourrons puiser.
 
 **1.**  1 carte de la région que les PJ viennent juste d'explorer, complète avec toutes les portes secrètes et les pièges qu'ils auraient pu manquer.
 

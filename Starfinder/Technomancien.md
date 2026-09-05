@@ -6,7 +6,7 @@ LastModified: 2024-07-04 15:03
 
 *Pour les non initiés, la magie et la technologie n’ont aucun rapport, mais, contrairement à ce que pensent la plupart des gens, elles sont unies par un lien beaucoup plus étroit. Magie et technologie ne sont que des outils et quand on les combine en une seule discipline, la technomancie, elles peuvent être beaucoup plus puissantes qu’utilisées séparément. Vous vous servez de la technologie pour renforcer, maîtriser et manipuler la magie et vous usez de cette dernière pour amplifier, contrôler et modifier la technologie. Vous maîtrisez l’art de la manipulation de la structure fondamentale de l’univers et vous soumettez les lois de la science et de la nature à votre volonté. Votre technomancie, qui s’acquiert par l’étude scientifique et les expériences, vous permet de manipuler l’univers physique, de façonner des illusions, d’écarter le voile du temps et de l’espace et, si cela est nécessaire, d’atomiser vos adversaires.*
 
-<div class="fright">***Voir les [altérations magiques](./Altérations magiques.md) de technomancien.***  
+<div class="fright">***Voir les [[Altérations magiques]] de technomancien.***  
 
 ***Voir aussi la Liste des sorts de technomancien.***  
 
@@ -38,7 +38,7 @@ LastModified: 2024-07-04 15:03
 | +0
 | +0
 | +2
-| CLASS="gauche" | [cache de sorts](./Technomancien.md#CACHEDESORTS)
+| CLASS="gauche" | [[technomancien#CACHEDESORTS|cache de sorts]]
 | 2
 | -
 | -
@@ -51,7 +51,7 @@ LastModified: 2024-07-04 15:03
 | +0
 | +0
 | +3
-| CLASS="gauche" | [altération magique](./Technomancien.md#ALTERATIONMAGIQUE)
+| CLASS="gauche" | [[technomancien#ALTERATIONMAGIQUE|altération magique]]
 | 2
 | -
 | -
@@ -64,7 +64,7 @@ LastModified: 2024-07-04 15:03
 | +1
 | +1
 | +3
-| CLASS="gauche" | [magie renforcée](./Technomancien.md#MAGIERENFORCEE), [savoir-faire technologique +1](./Technomancien.md#SAVOIRFAIRETECHNOLOGIQUE), [spécialisation martiale](./Technomancien.md#SPECIALISATIONMARTIALE)
+| CLASS="gauche" | [[technomancien#MAGIERENFORCEE|magie renforcée]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +1]], [[technomancien#SPECIALISATIONMARTIALE|spécialisation martiale]]
 | 3
 | -
 | -
@@ -77,7 +77,7 @@ LastModified: 2024-07-04 15:03
 | +1
 | +1
 | +4
-| CLASS="gauche" | [](./.md)
+| CLASS="gauche" | [[]]
 | 3
 | 2
 | -
@@ -90,7 +90,7 @@ LastModified: 2024-07-04 15:03
 | +1
 | +1
 | +4
-| CLASS="gauche" | [altération magique](./Technomancien.md#ALTERATIONMAGIQUE)
+| CLASS="gauche" | [[technomancien#ALTERATIONMAGIQUE|altération magique]]
 | 4
 | 2
 | -
@@ -103,7 +103,7 @@ LastModified: 2024-07-04 15:03
 | +2
 | +2
 | +5
-| CLASS="gauche" | [cache amplifiée 1](./Technomancien.md#CACHEAMPLIFIEE), [savoir-faire technologique +2](./Technomancien.md#SAVOIRFAIRETECHNOLOGIQUE)
+| CLASS="gauche" | [[technomancien#CACHEAMPLIFIEE|cache amplifiée 1]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +2]]
 | 4
 | 3
 | -
@@ -116,7 +116,7 @@ LastModified: 2024-07-04 15:03
 | +2
 | +2
 | +5
-| CLASS="gauche" | [](./.md)
+| CLASS="gauche" | [[]]
 | 4
 | 3
 | 2
@@ -129,7 +129,7 @@ LastModified: 2024-07-04 15:03
 | +2
 | +2
 | +6
-| CLASS="gauche" | [altération magique](./Technomancien.md#ALTERATIONMAGIQUE)
+| CLASS="gauche" | [[technomancien#ALTERATIONMAGIQUE|altération magique]]
 | 4
 | 4
 | 2
@@ -142,7 +142,7 @@ LastModified: 2024-07-04 15:03
 | +3
 | +3
 | +6
-| CLASS="gauche" | [savoir-faire technologique +3](./Technomancien.md#SAVOIRFAIRETECHNOLOGIQUE)
+| CLASS="gauche" | [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +3]]
 | 5
 | 4
 | 3
@@ -155,7 +155,7 @@ LastModified: 2024-07-04 15:03
 | +3
 | +3
 | +7
-| CLASS="gauche" | [](./.md)
+| CLASS="gauche" | [[]]
 | 5
 | 4
 | 3
@@ -168,7 +168,7 @@ LastModified: 2024-07-04 15:03
 | +3
 | +3
 | +7
-| CLASS="gauche" | [altération magique](./Technomancien.md#ALTERATIONMAGIQUE)
+| CLASS="gauche" | [[technomancien#ALTERATIONMAGIQUE|altération magique]]
 | 5
 | 4
 | 4
@@ -181,7 +181,7 @@ LastModified: 2024-07-04 15:03
 | +4
 | +4
 | +8
-| CLASS="gauche" | [cache amplifiée 1](./Technomancien.md#CACHEAMPLIFIEE), [savoir-faire technologique +2](./Technomancien.md#SAVOIRFAIRETECHNOLOGIQUE)
+| CLASS="gauche" | [[technomancien#CACHEAMPLIFIEE|cache amplifiée 1]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +2]]
 | 5
 | 5
 | 4
@@ -194,7 +194,7 @@ LastModified: 2024-07-04 15:03
 | +4
 | +4
 | +8
-| CLASS="gauche" | [](./.md)
+| CLASS="gauche" | [[]]
 | 5
 | 5
 | 4
@@ -207,7 +207,7 @@ LastModified: 2024-07-04 15:03
 | +4
 | +4
 | +9
-| CLASS="gauche" | [altération magique](./Technomancien.md#ALTERATIONMAGIQUE)
+| CLASS="gauche" | [[technomancien#ALTERATIONMAGIQUE|altération magique]]
 | 5
 | 5
 | 4
@@ -220,7 +220,7 @@ LastModified: 2024-07-04 15:03
 | +5
 | +5
 | +9
-| CLASS="gauche" | [savoir-faire technologique +5](./Technomancien.md#SAVOIRFAIRETECHNOLOGIQUE)
+| CLASS="gauche" | [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +5]]
 | 5
 | 5
 | 5
@@ -233,7 +233,7 @@ LastModified: 2024-07-04 15:03
 | +5
 | +5
 | +10
-| CLASS="gauche" | [](./.md)
+| CLASS="gauche" | [[]]
 | 5
 | 5
 | 5
@@ -246,7 +246,7 @@ LastModified: 2024-07-04 15:03
 | +5
 | +5
 | +10
-| CLASS="gauche" | [altération magique](./Technomancien.md#ALTERATIONMAGIQUE)
+| CLASS="gauche" | [[technomancien#ALTERATIONMAGIQUE|altération magique]]
 | 5
 | 5
 | 5
@@ -260,7 +260,7 @@ LastModified: 2024-07-04 15:03
 | +6
 | +6
 | +11
-| CLASS="gauche" | [cache amplifiée 3](./Technomancien.md#CACHEAMPLIFIEE), [savoir-faire technologique +6](./Technomancien.md#SAVOIRFAIRETECHNOLOGIQUE)
+| CLASS="gauche" | [[technomancien#CACHEAMPLIFIEE|cache amplifiée 3]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +6]]
 | 5
 | 5
 | 5
@@ -273,7 +273,7 @@ LastModified: 2024-07-04 15:03
 | +6
 | +6
 | +11
-| CLASS="gauche" | [persévérance harmonisée](./Technomancien.md#PERSEVERANCEHARMONISEE)
+| CLASS="gauche" | [[technomancien#PERSEVERANCEHARMONISEE|persévérance harmonisée]]
 | 5
 | 5
 | 5
@@ -286,7 +286,7 @@ LastModified: 2024-07-04 15:03
 | +6
 | +6
 | +12
-| CLASS="gauche" | [fusion de sorts](./Technomancien.md#FUSIONDESORTS), [altération magique](./Technomancien.md#ALTERATIONMAGIQUE)
+| CLASS="gauche" | [[technomancien#FUSIONDESORTS|fusion de sorts]], [[technomancien#ALTERATIONMAGIQUE|altération magique]]
 | 5
 | 5
 | 5
@@ -648,7 +648,7 @@ Si votre cache de sorts est endommagée, elle récupère tous ses points de vie 
 
 {s:Reference|ALTERATIONMAGIQUE}
 #### Altération magique - Niveau 2
-Vous avez étudié avec soin les forces qui définissent la magie et vous pouvez les manipuler. Vous apprenez votre première [altération magique](./Altérations magiques.md) au niveau 2 et vous en apprenez une de plus tous les 3 niveaux suivants. Quand vous lancez un sort, vous ne pouvez utiliser qu’une seule [altération magique](./Altérations magiques.md) qui modifie ses attributs (tel que sort distant ou sort prolongé). Si une [altération magique](./Altérations magiques.md) autorise un jet de sauvegarde pour résister à ses effets, le DD est égal à 10 + la moitié de votre niveau de technomancien + votre modificateur d’Intelligence.
+Vous avez étudié avec soin les forces qui définissent la magie et vous pouvez les manipuler. Vous apprenez votre première [[Altérations magiques|altération magique]] au niveau 2 et vous en apprenez une de plus tous les 3 niveaux suivants. Quand vous lancez un sort, vous ne pouvez utiliser qu’une seule [[Altérations magiques|altération magique]] qui modifie ses attributs (tel que sort distant ou sort prolongé). Si une [[Altérations magiques|altération magique]] autorise un jet de sauvegarde pour résister à ses effets, le DD est égal à 10 + la moitié de votre niveau de technomancien + votre modificateur d’Intelligence.
 
 {s:Reference|MAGIERENFORCEE}
 #### Magie renforcée - Niveau 3

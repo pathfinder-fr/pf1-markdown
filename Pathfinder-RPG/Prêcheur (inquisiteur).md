@@ -10,13 +10,13 @@ convertir de nouveaux fidèles et se faire des alliés pleins d’espoir. Les pr
 
 #### Détermination (Ext)
 
-Au niveau 3, le prêcheur parle peu une fois sur le champ de bataille, mais chacun de ses mots traduit son pouvoir et son autorité. Une fois par jour, l’inquisiteur peut utiliser ce pouvoir pour créer l’un des effets suivants. Chacun nécessite une [action libre](./Action libre.md).
+Au niveau 3, le prêcheur parle peu une fois sur le champ de bataille, mais chacun de ses mots traduit son pouvoir et son autorité. Une fois par jour, l’inquisiteur peut utiliser ce pouvoir pour créer l’un des effets suivants. Chacun nécessite une [[action libre]].
 
-- *Agression.* Le prêcheur peut refaire un [jet d’attaque](./jet dattaque.md) avant d’en connaître le résultat. Il doit accepter le second jet, même s’il est pire que le premier.
+- *Agression.* Le prêcheur peut refaire un [[jet dattaque|jet d’attaque]] avant d’en connaître le résultat. Il doit accepter le second jet, même s’il est pire que le premier.
 
-- *Avertissement.* Quand un allié du prêcheur qui se trouve dans sa ligne de mire devrait se faire toucher par une attaque au corps à corps ou à distance, l’inquisiteur peut lui crier un avertissement. L’assaillant doit refaire son [jet d’attaque](./jet dattaque.md) et utiliser le résultat du second jet. Pour que ce pouvoir fonctionne, l’allié doit entendre le prêcheur et il ne doit pas être [sans défense](./Sans défense.md).
+- *Avertissement.* Quand un allié du prêcheur qui se trouve dans sa ligne de mire devrait se faire toucher par une attaque au corps à corps ou à distance, l’inquisiteur peut lui crier un avertissement. L’assaillant doit refaire son [[jet dattaque|jet d’attaque]] et utiliser le résultat du second jet. Pour que ce pouvoir fonctionne, l’allié doit entendre le prêcheur et il ne doit pas être [[sans défense]].
 
-- *Défense.* Quand l’inquisiteur devrait se faire toucher par une attaque au corps à corps ou à distance, il peut, par une [action immédiate](./Action immédiate.md), ajouter un bonus d’intuition de +4 à sa [CA](./CA.md) contre cette attaque. Si cette augmentation fait passer sa CA au-dessus du résultat du [jet d’attaque](./jet dattaque.md), cette dernière le rate.
+- *Défense.* Quand l’inquisiteur devrait se faire toucher par une attaque au corps à corps ou à distance, il peut, par une [[action immédiate]], ajouter un bonus d’intuition de +4 à sa [[CA]] contre cette attaque. Si cette augmentation fait passer sa CA au-dessus du résultat du [[jet dattaque|jet d’attaque]], cette dernière le rate.
 
 
-À chaque fois que le prêcheur a l’occasion de choisir un [don](./Dons.md) supplémentaire de [travail en équipe](./Dons.md#DONEQUIPE) (aux niveaux 3, 6, 9, 12, 15 et 18) il peut choisir de gagner une utilisation supplémentaire quotidienne de ce pouvoir à la place. Ce pouvoir remplace [tactique solitaire](./Inquisiteur.md#TACTIQUESOLITAIRE).
+À chaque fois que le prêcheur a l’occasion de choisir un [[Dons|don]] supplémentaire de [[Dons#DONEQUIPE|travail en équipe]] (aux niveaux 3, 6, 9, 12, 15 et 18) il peut choisir de gagner une utilisation supplémentaire quotidienne de ce pouvoir à la place. Ce pouvoir remplace [[inquisiteur#TACTIQUESOLITAIRE|tactique solitaire]].

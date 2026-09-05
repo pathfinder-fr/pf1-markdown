@@ -10,7 +10,7 @@ LastModified: 2017-04-18 17:52
 {s:pucem|Vase|Ruines-Donjons|Froid}
 {s:BDTexte|*Source : Bestiaire 4 page 100*}
 - **1 200 PX**
-- [Vase](./type Vase.md) ([eau](./sous-type Eau.md), [froid](./sous-type froid.md)) de taille G, N
+- [[type vase|Vase]] ([[sous-type eau|eau]], [[sous-type froid|froid]]) de taille G, N
 - **Init **-5 ; **Sens** perception aveugle à 18 m ; Perception -5
 (((Défense)))
 - **CA** 16, contact 12, pris au dépourvu 13 (Dex +3, naturelle +4, taille -1)
@@ -26,7 +26,7 @@ LastModified: 2017-04-18 17:52
 (((Statistiques)))
 - **For** 18, **Dex** 16, **Con** 20, **Int** —, **Sag** 1, **Cha** 1
 - **BBA **+3 ; **BMO **+8 ; **DMD** 13
-- **Compétences** [Natation](./Natation.md) +12
+- **Compétences** [[Natation]] +12
 - **Particularités** cristallin
 (((Écologie)))
 - **Environnement** froid

@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *L’affinité qu’a développée le personnage envers les animaux sauvages est si importante qu’il peut leur parler.*
 
-**Condition.** [Fraternité animale](./Fraternité animale.md)
+**Condition.** [[Fraternité animale]]
 
-**Avantage.** Le bonus aux tests de [Dressage](./Dressage.md) et d’[Équitation](./Équitation.md) conféré par [Fraternité animale](./Fraternité animale.md) augmente de +2. De plus, le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour parler avec les animaux comme s’il utilisait [communication avec les animaux](./Communication avec les animaux.md). Le niveau de lanceur de sorts de cet effet est égal au double de son [grade](./Grade.md).
+**Avantage.** Le bonus aux tests de [[Dressage]] et d’[[Équitation]] conféré par [[Fraternité animale]] augmente de +2. De plus, le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour parler avec les animaux comme s’il utilisait [[communication avec les animaux]]. Le niveau de lanceur de sorts de cet effet est égal au double de son [[grade]].

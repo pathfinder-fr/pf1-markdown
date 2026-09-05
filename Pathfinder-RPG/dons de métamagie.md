@@ -12,37 +12,37 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:MenuDons}{s:TableauDons}{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#25) Métamagie : Le sort est considéré comme étant de quel niveau dans le cadre des DD de concentration, du souvenir magique du magus, ou de la perle de thaumaturge ?***
+{s:MenuDons}{s:TableauDons}{s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#25|→]] Métamagie : Le sort est considéré comme étant de quel niveau dans le cadre des DD de concentration, du souvenir magique du magus, ou de la perle de thaumaturge ?***
 
 Le sort compte comme étant du niveau de l’emplacement nécessaire pour le lancer.
 
-Par exemple, un sort de *[mains brûlantes](./Mains brûlantes.md)* à [extension d’effet](./Extension deffet.md) utilise un emplacement de 3e niveau, et compte donc comme un sort de 3e niveau dans le cadre des tests de concentration, du [souvenir magique](./Magus.md#SOUVENIRMAGIQUE) du magus ou d’une *[perle de thaumaturge](./Perle de thaumaturge.md)*.
+Par exemple, un sort de *[[mains brûlantes]]* à [[Extension deffet|extension d’effet]] utilise un emplacement de 3e niveau, et compte donc comme un sort de 3e niveau dans le cadre des tests de concentration, du [[Magus#SOUVENIRMAGIQUE|souvenir magique]] du magus ou d’une *[[perle de thaumaturge]]*.
 
-En général, on utilise le niveau du sort (normal, moins élevé) ou le niveau de l’emplacement dépensé (plus élevé), suivant le plus désavantageux pour le lanceur de sorts. Les avantages du <u>[don de métamagie](./Dons.md#DONMETAMAGIE)</u> sont explicités dans la section Avantages du don, et un niveau d’emplacement de sort augmenté est un désavantage.
+En général, on utilise le niveau du sort (normal, moins élevé) ou le niveau de l’emplacement dépensé (plus élevé), suivant le plus désavantageux pour le lanceur de sorts. Les avantages du <u>[[Dons#DONMETAMAGIE|don de métamagie]]</u> sont explicités dans la section Avantages du don, et un niveau d’emplacement de sort augmenté est un désavantage.
 
-[Augmentation d’intensité](./Augmentation dintensité.md) est en fait le seul don de métamagie qui fait de l’utilisation d’un emplacement de niveau plus élevé un avantage plutôt qu’un désavantage.
+[[Augmentation dintensité|Augmentation d’intensité]] est en fait le seul don de métamagie qui fait de l’utilisation d’un emplacement de niveau plus élevé un avantage plutôt qu’un désavantage.
 ---
-***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#26) Métamagie : Puis-je utiliser un don de métamagie pour modifier un pouvoir magique ?***
+***[[FAQ- Manuel des joueurs (Dons et compétences)#26|→]] Métamagie : Puis-je utiliser un don de métamagie pour modifier un pouvoir magique ?***
 
-Non. Les <u>[dons de métamagie](./Dons.md#DONMETAMAGIE)</u> précisent qu’ils n’affectent que les sorts, et pas les [pouvoirs magiques](./Pouvoirs magiques (capacité).md). De même, les pouvoirs magiques n’ont pas d’emplacements de sort, donc il serait impossible d’ajuster l’emplacement de sort effectif d’un pouvoir magique.
+Non. Les <u>[[Dons#DONMETAMAGIE|dons de métamagie]]</u> précisent qu’ils n’affectent que les sorts, et pas les [[Pouvoirs magiques (capacité)|pouvoirs magiques]]. De même, les pouvoirs magiques n’ont pas d’emplacements de sort, donc il serait impossible d’ajuster l’emplacement de sort effectif d’un pouvoir magique.
 ---
-***[→](./FAQ- Manuel des joueurs (Équipement et objets magiques).md#26) Métamagie : Lorsque je lance un sort depuis un parchemin, une baguette, ou un bâton, puis-je appliquer un ou plusieurs dons de métamagie à ce sort ?***
+***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#26|→]] Métamagie : Lorsque je lance un sort depuis un parchemin, une baguette, ou un bâton, puis-je appliquer un ou plusieurs dons de métamagie à ce sort ?***
 
-Non. *(Retour à la <u>[règle](./Dons.md#DONMETAMAGIE)</u>)*}À mesure que les connaissances magiques d’un lanceur de sorts augmentent, il peut apprendre à jeter des sorts à l’aide de méthodes légèrement différentes de celles qu’on lui a enseignées. Préparer et lancer les sorts ainsi présente davantage de difficultés que les méthodes classiques, mais les dons de métamagie permettent de repousser ses limites. Les dons de métamagie n'affectent pas les pouvoirs magiques.
+Non. *(Retour à la <u>[[Dons#DONMETAMAGIE|règle]]</u>)*}À mesure que les connaissances magiques d’un lanceur de sorts augmentent, il peut apprendre à jeter des sorts à l’aide de méthodes légèrement différentes de celles qu’on lui a enseignées. Préparer et lancer les sorts ainsi présente davantage de difficultés que les méthodes classiques, mais les dons de métamagie permettent de repousser ses limites. Les dons de métamagie n'affectent pas les pouvoirs magiques.
 
-**Magiciens et pratiquants de la magie divine.** Les magiciens et les pratiquants de la magie divine doivent préparer leurs sorts à l’avance. C’est à ce moment qu’ils décident s’ils souhaitent les préparer en les modifiant grâce à des dons de métamagie (ce qui les oblige à utiliser des [emplacements de sorts](./emplacement de sort.md) de niveau supérieur).
+**Magiciens et pratiquants de la magie divine.** Les magiciens et les pratiquants de la magie divine doivent préparer leurs sorts à l’avance. C’est à ce moment qu’ils décident s’ils souhaitent les préparer en les modifiant grâce à des dons de métamagie (ce qui les oblige à utiliser des [[emplacement de sort|emplacements de sorts]] de niveau supérieur).
 
-**Bardes et ensorceleurs.** En revanche, les bardes et les ensorceleurs choisissent leurs sorts quand ils les jettent. Ils décident donc au dernier moment s’ils souhaitent augmenter la puissance de leur sort à l’aide d’un don de métamagie. Pour eux aussi, le sort requiert un [emplacement de niveau supérieur](./emplacement de sort.md). Comme le personnage ne prépare pas le sort à l’avance, il est obligé de rallonger le [temps d’incantation](./Présentation des sorts.md#TEMPSDINCANTATION) afin d’intégrer le don de métamagie au sort qu’il récite. Si le temps d’incantation normal du sort équivaut à une [action simple](./Action simple.md), un barde ou ensorceleur aura besoin d’une [action complexe](./Action complexe.md) pour le lancer en tant que sort de métamagie (ce qui ne correspond pas à un temps d’incantation d’un round entier). Les sorts modifiés par le don de métamagie [Incantation rapide](./Incantation rapide.md) représentent la seule exception à la règle et se lancent de la façon déterminée par ce don.
+**Bardes et ensorceleurs.** En revanche, les bardes et les ensorceleurs choisissent leurs sorts quand ils les jettent. Ils décident donc au dernier moment s’ils souhaitent augmenter la puissance de leur sort à l’aide d’un don de métamagie. Pour eux aussi, le sort requiert un [[emplacement de sort|emplacement de niveau supérieur]]. Comme le personnage ne prépare pas le sort à l’avance, il est obligé de rallonger le [[Présentation des sorts#TEMPSDINCANTATION|temps d’incantation]] afin d’intégrer le don de métamagie au sort qu’il récite. Si le temps d’incantation normal du sort équivaut à une [[action simple]], un barde ou ensorceleur aura besoin d’une [[action complexe]] pour le lancer en tant que sort de métamagie (ce qui ne correspond pas à un temps d’incantation d’un round entier). Les sorts modifiés par le don de métamagie [[Incantation rapide]] représentent la seule exception à la règle et se lancent de la façon déterminée par ce don.
 
-Pour les sorts à incantation plus longue, il faut rajouter une [action complexe](./Action complexe.md) au temps donné.
+Pour les sorts à incantation plus longue, il faut rajouter une [[action complexe]] au temps donné.
 
-**Sorts spontanés et dons de métamagie.** Les prêtres et les druides lançant spontanément des sorts de soins, de blessure ou de convocation d’alliés naturels peuvent également utiliser la métamagie. Le temps d’incantation augmente aussi dans ce cas. Si le temps d’incantation normal du sort est d’une [action simple](./Action simple.md), sa version métamagique nécessite une [action complexe](./Action complexe.md). Pour les sorts à incantation plus longue, il faut rajouter une [action complexe](./Action complexe.md) au temps indiqué. Les sorts modifiés par le don de métamagie [Incantation rapide](./Incantation rapide.md) représentent la seule exception à la règle et se lancent comme une [action rapide](./Action rapide.md).
+**Sorts spontanés et dons de métamagie.** Les prêtres et les druides lançant spontanément des sorts de soins, de blessure ou de convocation d’alliés naturels peuvent également utiliser la métamagie. Le temps d’incantation augmente aussi dans ce cas. Si le temps d’incantation normal du sort est d’une [[action simple]], sa version métamagique nécessite une [[action complexe]]. Pour les sorts à incantation plus longue, il faut rajouter une [[action complexe]] au temps indiqué. Les sorts modifiés par le don de métamagie [[Incantation rapide]] représentent la seule exception à la règle et se lancent comme une [[action rapide]].
 
-**Effet des dons de métamagie sur un sort.** Un sort de métamagie fonctionne selon son [niveau](./Niveau de sort.md) d’origine, bien qu'il soit préparé et lancé comme un sort de niveau supérieur. Le [jet de sauvegarde](./jet de sauvegarde.md) ne change pas à moins que la description du don n’indique le contraire.
+**Effet des dons de métamagie sur un sort.** Un sort de métamagie fonctionne selon son [[niveau de sort|niveau]] d’origine, bien qu'il soit préparé et lancé comme un sort de niveau supérieur. Le [[jet de sauvegarde]] ne change pas à moins que la description du don n’indique le contraire.
 
 Les changements indiqués fonctionnent uniquement sur les sorts jetés directement par le personnage. Il est impossible d’utiliser un don de métamagie sur un sort lancé via un parchemin, une baguette ou un autre objet magique.
 
-Les dons de métamagie qui dispensent de composantes n’empêchent pas les [attaques d’opportunité](./attaque dopportunité.md) provoquées par l’incantation d’un sort dans un [espace contrôlé](./espace contrôlé.md) par un adversaire. Cependant, un sort à incantation rapide (modifié par le don [Incantation rapide](./Incantation rapide.md)) ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md).
+Les dons de métamagie qui dispensent de composantes n’empêchent pas les [[attaque dopportunité|attaques d’opportunité]] provoquées par l’incantation d’un sort dans un [[espace contrôlé]] par un adversaire. Cependant, un sort à incantation rapide (modifié par le don [[Incantation rapide]]) ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]].
 
 Les dons de métamagie ne peuvent pas être utilisés pour tous les sorts. Consultez la description de chaque don pour connaître les sorts qu’il ne peut pas affecter.
 
@@ -50,7 +50,7 @@ Les dons de métamagie ne peuvent pas être utilisés pour tous les sorts. Consu
 
 **Objets magiques et dons de métamagie.** Avec le don de création d’objets idoine, on peut stocker un sort de métamagie dans une potion, un parchemin ou une baguette. La limite de niveau concernant les baguettes et les potions s’applique au niveau du sort après modification (après l’application du don de métamagie). Il n’est pas nécessaire d’avoir le don de métamagie correspondant pour activer un objet de ce type.
 
-**Contresorts et dons de métamagie.** Qu’un sort ait été modifié ou non par métamagie, il est toujours vulnérable aux contresorts, et reste lui-même un [contresort](./contresort.md) efficace.
+**Contresorts et dons de métamagie.** Qu’un sort ait été modifié ou non par métamagie, il est toujours vulnérable aux contresorts, et reste lui-même un [[contresort]] efficace.
 
 <center>
 {| CLASS="tablo toutgauche"
@@ -63,170 +63,170 @@ Les dons de métamagie ne peuvent pas être utilisés pour tous les sorts. Consu
 | WIDTH="10%" | Mod. niveau
 
 |- CLASS="premier donprincipal"
-| [Augmentation d'intensité](./Augmentation dintensité.md) || <sup>MJ</sup> || — || Le sort est considéré comme d'un niveau supérieur || Voir texte
+| [[Augmentation dintensité|Augmentation d'intensité]] || <sup>MJ</sup> || — || Le sort est considéré comme d'un niveau supérieur || Voir texte
 
 |- CLASS="premier alt donprincipal"
-| [Écho magique](./Écho magique.md) || <sup>AM</sup> || — || Possibilité de relancer le sort || +3
+| [[Écho magique]] || <sup>AM</sup> || — || Possibilité de relancer le sort || +3
 
 |- CLASS="premier donprincipal"
-| [Étreinte de l'ombre](./Étreinte de lombre.md) || <sup>MMI</sup> || [Sort ténébreux](./Sort ténébreux.md), [Sort umbral](./Sort umbral.md) || Les sorts du registre de l'obscurité enchevêtrent ceux qui se trouvent dans la zone d'effet du sort || +1
+| [[Étreinte de lombre|Étreinte de l'ombre]] || <sup>MMI</sup> || [[Sort ténébreux]], [[Sort umbral]] || Les sorts du registre de l'obscurité enchevêtrent ceux qui se trouvent dans la zone d'effet du sort || +1
 
 |- CLASS="premier alt donprincipal"
-| [Extension d'effet](./Extension deffet.md) || <sup>MJ</sup> || — || Augmente les variables des sorts de 50% || +2
+| [[Extension deffet|Extension d'effet]] || <sup>MJ</sup> || — || Augmente les variables des sorts de 50% || +2
 
 |- CLASS="premier donprincipal"
-| [Extension de durée](./Extension de durée.md) || <sup>MJ</sup> || — || Double la durée des sorts || +1
+| [[Extension de durée]] || <sup>MJ</sup> || — || Double la durée des sorts || +1
 
 |- CLASS="premier alt donprincipal"
-| [Extension de portée](./Extension de portée.md) || <sup>MJ</sup> || — || Double la portée des sorts || +1
+| [[Extension de portée]] || <sup>MJ</sup> || — || Double la portée des sorts || +1
 
 |- CLASS="premier donprincipal"
-| [Extension de zone d'effet](./Extension de zone deffet.md) || <sup>MJ</sup> || — || Double la zone d'effet des sorts || +3
+| [[Extension de zone deffet|Extension de zone d'effet]] || <sup>MJ</sup> || — || Double la zone d'effet des sorts || +3
 
 |- CLASS="premier alt donprincipal"
-| [Illusion menaçante](./Illusion menaçante.md) || <sup>MR</sup> || [École renforcée](./École renforcée.md) (illusion), [gnome](./Gnome.md) || Fait croire aux adversaires que les illusions du personnage sont de vraies menaces || +1
+| [[Illusion menaçante]] || <sup>MR</sup> || [[École renforcée]] (illusion), [[gnome]] || Fait croire aux adversaires que les illusions du personnage sont de vraies menaces || +1
 
 |- CLASS="premier donprincipal"
-| [Incantation rapide](./Incantation rapide.md) || <sup>MJ</sup> || — || Lance le sort par une action rapide || +4
+| [[Incantation rapide]] || <sup>MJ</sup> || — || Lance le sort par une action rapide || +4
 
 |- CLASS="premier alt donprincipal"
-| [Incantation silencieuse](./Incantation silencieuse.md) || <sup>MJ</sup> || — || Le sort n'a plus de composante verbale || +1
+| [[Incantation silencieuse]] || <sup>MJ</sup> || — || Le sort n'a plus de composante verbale || +1
 
 |- CLASS="premier donprincipal"
-| [Incantation statique](./Incantation statique.md) || <sup>MJ</sup> || — || Le sort n'a plus de composante gestuelle || +1
+| [[Incantation statique]] || <sup>MJ</sup> || — || Le sort n'a plus de composante gestuelle || +1
 
 |- CLASS="premier alt donprincipal"
-| [Quintessence des sorts](./Quintessence des sorts.md) || <sup>MJ</sup> || — || Les variables du sort sont au maximum || +3
+| [[Quintessence des sorts]] || <sup>MJ</sup> || — || Les variables du sort sont au maximum || +3
 
 |- CLASS="premier donprincipal"
-| [Sale coup magique](./Sale coup magique.md) || <sup>*DTT*</sup> || Capacité à lancer des sorts de niveau 1, alignement Chaotique Neutre, suivant de la [déesse-elfe aux trois visages](./../Golarion/Calistria.md) || Un sort d'enchantement peut appliquer les effets d'un sale coup || +1
+| [[Sale coup magique]] || <sup>*DTT*</sup> || Capacité à lancer des sorts de niveau 1, alignement Chaotique Neutre, suivant de la [[Golarion.Calistria|déesse-elfe aux trois visages]] || Un sort d'enchantement peut appliquer les effets d'un sale coup || +1
 
 |- CLASS="premier alt donprincipal"
-| [Sort à rebonds](./Sort à rebonds.md) || <sup>MJRA</sup> || — || Redirige un sort qui n'a pas d'effet sur la première cible || +1
+| [[Sort à rebonds]] || <sup>MJRA</sup> || — || Redirige un sort qui n'a pas d'effet sur la première cible || +1
 
 |- CLASS="premier donprincipal"
-| [Sort ascendant](./Sort ascendant.md) || <sup>CMy</sup> || — || Imite la version mythique d'un sort || +5
+| [[Sort ascendant]] || <sup>CMy</sup> || — || Imite la version mythique d'un sort || +5
 
 |- CLASS="premier alt donprincipal"
-| [Sort brûlant](./Sort brûlant.md) || <sup>AM</sup> || — || Les sorts du registre de l'acide et du feu infligent des dégâts supplémentaires || +2
+| [[Sort brûlant]] || <sup>AM</sup> || — || Les sorts du registre de l'acide et du feu infligent des dégâts supplémentaires || +2
 
 |- CLASS="premier donprincipal"
-| [Sort brusque](./Sort brusque.md) || <sup>*MTT*</sup> || [Dex](./Dex.md) 13 || Une vitesse de déplacement conférée par le sort augmente de +3m || +0
+| [[Sort brusque]] || <sup>*MTT*</sup> || [[Dex]] 13 || Une vitesse de déplacement conférée par le sort augmente de +3m || +0
 
 |- CLASS="premier alt donprincipal"
-| [Sort concentré](./Sort concentré.md) || <sup>MJRA</sup> || — || Augmente le DD des jets de sauvegarde d'une des cibles du sort || +1
+| [[Sort concentré]] || <sup>MJRA</sup> || — || Augmente le DD des jets de sauvegarde d'une des cibles du sort || +1
 
 |- CLASS="premier donprincipal"
-| [Sort éblouissant](./Sort éblouissant.md) || <sup>AM</sup> || — || Les sorts du registre du feu, de la lumière ou de l'électricité éblouissent leur cible || +1
+| [[Sort éblouissant]] || <sup>AM</sup> || — || Les sorts du registre du feu, de la lumière ou de l'électricité éblouissent leur cible || +1
 
 |- CLASS="premier alt donprincipal"
-| [Sort écoeurant](./Sort-écoeurant.md) || <sup>MJRA</sup> || — || Rend fiévreuses les créatures blessées || +2
+| [[Sort écoeurant]] || <sup>MJRA</sup> || — || Rend fiévreuses les créatures blessées || +2
 
 |- CLASS="premier donprincipal"
-| [Sort ectoplasmique](./Sort ectoplasmique.md) || <sup>MJRA</sup> || — || Les créatures intangibles ou éthérées subissent les pleins effets du sort || +1
+| [[Sort ectoplasmique]] || <sup>MJRA</sup> || — || Les créatures intangibles ou éthérées subissent les pleins effets du sort || +1
 
 |- CLASS="premier alt donprincipal"
-| [Sort élémentaire](./Sort élémentaire.md) || <sup>MJRA</sup> || — || Inflige des dégâts élémentaires au lieu des dégâts normaux du sort || +1
+| [[Sort élémentaire]] || <sup>MJRA</sup> || — || Inflige des dégâts élémentaires au lieu des dégâts normaux du sort || +1
 
 |- CLASS="premier donprincipal"
-| [Sort éloigné](./Sort éloigné.md) || <sup>MJRA</sup> || — || Augmente la portée d'un sort d'une ou de plusieurs catégories. || Voir texte
+| [[Sort éloigné]] || <sup>MJRA</sup> || — || Augmente la portée d'un sort d'une ou de plusieurs catégories. || Voir texte
 
 |- CLASS="premier alt donprincipal"
-| [Sort encourageant](./Sort encourageant.md) || <sup>*MTT*</sup> || [Cha](./Cha.md) 13, 6 rangs en [Diplomatie](./Diplomatie.md) || Tout bonus de moral conféré par le sort augmente de 1 || +1
+| [[Sort encourageant]] || <sup>*MTT*</sup> || [[Cha]] 13, 6 rangs en [[Diplomatie]] || Tout bonus de moral conféré par le sort augmente de 1 || +1
 
 |- CLASS="premier donprincipal"
-| [Sort étudié](./Sort étudié.md) || <sup>*UI*</sup> || — || Le sort utilise les Connaissances pour ignorer les résistances raciales || +2
+| [[Sort étudié]] || <sup>*UI*</sup> || — || Le sort utilise les Connaissances pour ignorer les résistances raciales || +2
 
 |- CLASS="premier alt donprincipal"
-| [Sort fugace](./Sort fugace.md) || <sup>*UI*</sup> || — || Termine le sort plus facilement || +0
+| [[Sort fugace]] || <sup>*UI*</sup> || — || Termine le sort plus facilement || +0
 
 |- CLASS="premier donprincipal"
-| [Sort furieux](./Sort furieux.md) || <sup>AO</sup> || — || Les sorts font plus de dégâts et se lancent même en rage. || +1
+| [[Sort furieux]] || <sup>AO</sup> || — || Les sorts font plus de dégâts et se lancent même en rage. || +1
 
 |- CLASS="premier alt donprincipal"
-| [Sort gelé](./Sort gelé.md) || <sup>AM</sup> || — || Les sorts du registre du froid enchevêtrent les créatures qu'ils blessent || +1
+| [[Sort gelé]] || <sup>AM</sup> || — || Les sorts du registre du froid enchevêtrent les créatures qu'ils blessent || +1
 
 |- CLASS="premier donprincipal"
-| [Sort hébétant](./Sort hébétant.md) || <sup>MJRA</sup> || — || Hébète les créatures blessées || +3
+| [[Sort hébétant]] || <sup>MJRA</sup> || — || Hébète les créatures blessées || +3
 
 |- CLASS="premier alt donprincipal"
-| [Sort intense](./Sort intense.md) || <sup>MJRA</sup> || — || Augmente le nombre maximum de dés de dégâts de 5 niveaux || +1
+| [[Sort intense]] || <sup>MJRA</sup> || — || Augmente le nombre maximum de dés de dégâts de 5 niveaux || +1
 
 |- CLASS="premier donprincipal"
-| [Sort intuitif](./Sort intuitif.md) || <sup>AO</sup> || — || Incantation sans composante intellectuelle || +1
+| [[Sort intuitif]] || <sup>AO</sup> || — || Incantation sans composante intellectuelle || +1
 
 |- CLASS="premier alt donprincipal"
-| [Sort logique](./Sort logique.md) || <sup>AO</sup> || — || Incantation sans composante émotionnelle || +1
+| [[Sort logique]] || <sup>AO</sup> || — || Incantation sans composante émotionnelle || +1
 
 |- CLASS="premier donprincipal"
-| [Sort marquant](./Sort marquant.md) || <sup>AO</sup> || — || Les sorts de terreur ou d'émotion donnent des malus contre les prochains sorts de même type || +1
+| [[Sort marquant]] || <sup>AO</sup> || — || Les sorts de terreur ou d'émotion donnent des malus contre les prochains sorts de même type || +1
 
 |- CLASS="premier alt donprincipal"
-| [Sort maudit](./Sort maudit.md) || <sup>MR</sup> || Deux [dons de métamagie](./Dons.md#DONMETAMAGIE), Trait racial [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7) || Le personnage combine les effets de ses sorts avec ceux de sa malédiction || +1
+| [[Sort maudit]] || <sup>MR</sup> || Deux [[dons#DONMETAMAGIE|dons de métamagie]], Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]] || Le personnage combine les effets de ses sorts avec ceux de sa malédiction || +1
 
 |- CLASS="premier donprincipal"
-| [Sort miséricordieux](./Sort miséricordieux.md) || <sup>MJRA</sup> || — || Le sort inflige des dégâts non létaux au lieu de dégâts létaux || +0
+| [[Sort miséricordieux]] || <sup>MJRA</sup> || — || Le sort inflige des dégâts non létaux au lieu de dégâts létaux || +0
 
 |- CLASS="premier alt donprincipal"
-| [Sort percutant](./Sort percutant.md) || <sup>AM</sup> || — || Les sorts du registre du son gagnent un effet débilitant || +2
+| [[Sort percutant]] || <sup>AM</sup> || — || Les sorts du registre du son gagnent un effet débilitant || +2
 
 |- CLASS="premier donprincipal"
-| [Sort persistant](./Sort persistant.md) || <sup>MJRA</sup> || — || Les créatures qui ont réussi un jet de sauvegarde contre le sort doivent en refaire un second || +2
+| [[Sort persistant]] || <sup>MJRA</sup> || — || Les créatures qui ont réussi un jet de sauvegarde contre le sort doivent en refaire un second || +2
 
 |- CLASS="premier alt donprincipal"
-| [Sort perturbateur](./Sort perturbateur.md) || <sup>MJRA</sup> || — || La cible du sort doit réussir un test de Concentration pour incanter au cours du round suivant || +1
+| [[Sort perturbateur]] || <sup>MJRA</sup> || — || La cible du sort doit réussir un test de Concentration pour incanter au cours du round suivant || +1
 
 |- CLASS="premier donprincipal"
-| [Sort renversant](./Sort renversant.md) || <sup>AM</sup> || — || Les sorts du registre de force renversent leur cible || +1
+| [[Sort renversant]] || <sup>AM</sup> || — || Les sorts du registre de force renversent leur cible || +1
 
 |- CLASS="premier alt donprincipal"
-| [Sort sélectif](./Sort sélectif.md) || <sup>MJRA</sup> || 10 rangs en [Art de la magie](./Art de la magie.md) || Exclut certaines cibles de la zone d'effet d'un sort || +1
+| [[Sort sélectif]] || <sup>MJRA</sup> || 10 rangs en [[Art de la magie]] || Exclut certaines cibles de la zone d'effet d'un sort || +1
 
 |- CLASS="premier donprincipal"
-| [Sort soutenu](./Sort soutenu.md) || <sup>MJRA</sup> || — || Un sort instantané à zone d'effet persiste pendant 1 round || +1
+| [[Sort soutenu]] || <sup>MJRA</sup> || — || Un sort instantané à zone d'effet persiste pendant 1 round || +1
 
 |- CLASS="premier alt donprincipal"
-| [Sort stylisé](./Sort stylisé.md) || <sup>*UI*</sup> || 5 rangs en [Bluff](./Bluff.md), 5 rangs en [Art de la magie](./Art de la magie.md) || Le sort est difficile à identifier et peut être confondu avec un autre || +1
+| [[Sort stylisé]] || <sup>*UI*</sup> || 5 rangs en [[Bluff]], 5 rangs en [[Art de la magie]] || Le sort est difficile à identifier et peut être confondu avec un autre || +1
 
 |- CLASS="premier donprincipal"
-| [Sort tenace](./Sort tenace.md) || <sup>*UI*</sup> || — || Le sort est difficile à dissiper et persiste pendant 1d4 rounds || +1
+| [[Sort tenace]] || <sup>*UI*</sup> || — || Le sort est difficile à dissiper et persiste pendant 1d4 rounds || +1
 
 |- CLASS="premier alt donprincipal"
-| [Sort ténébreux](./Sort ténébreux.md) || <sup>MMI</sup> || — || Les sorts lancés dans une zone moins éclairée sont plus puissants || +1/+0
+| [[Sort ténébreux]] || <sup>MMI</sup> || — || Les sorts lancés dans une zone moins éclairée sont plus puissants || +1/+0
 |- CLASS="donprérequis0"
-| &emsp;[Étreinte de l'ombre](./Étreinte de lombre.md) || <sup>MMI</sup> || Sort ténébreux, Sort umbral || Les sorts du registre de l'obscurité enchevêtrent ceux qui se trouvent dans la zone d'effet du sort || +1
+| &emsp;[[Étreinte de lombre|Étreinte de l'ombre]] || <sup>MMI</sup> || Sort ténébreux, Sort umbral || Les sorts du registre de l'obscurité enchevêtrent ceux qui se trouvent dans la zone d'effet du sort || +1
 |- CLASS="alt donprérequis0"
-| &emsp;[Sort umbral](./Sort umbral.md) || <sup>MMI</sup> || Sort ténébreux || La créature ou la zone ciblée irradie les ténèbres || +2
+| &emsp;[[Sort umbral]] || <sup>MMI</sup> || Sort ténébreux || La créature ou la zone ciblée irradie les ténèbres || +2
 |- CLASS="donprérequis1"
-| &emsp;&emsp;[Étreinte de l'ombre](./Étreinte de lombre.md) || <sup>MMI</sup> || Sort ténébreux, Sort umbral || Les sorts du registre de l'obscurité enchevêtrent ceux qui se trouvent dans la zone d'effet du sort || +1
+| &emsp;&emsp;[[Étreinte de lombre|Étreinte de l'ombre]] || <sup>MMI</sup> || Sort ténébreux, Sort umbral || Les sorts du registre de l'obscurité enchevêtrent ceux qui se trouvent dans la zone d'effet du sort || +1
 
 |- CLASS="premier donprincipal"
-| [Sort terrifiant](./Sort terrifiant.md) || <sup>AO</sup> || — || Les dégâts des sorts rendent secoué || +1
+| [[Sort terrifiant]] || <sup>AO</sup> || — || Les dégâts des sorts rendent secoué || +1
 
 |- CLASS="premier alt donprincipal"
-| [Sort thanatopique](./Sort thanatopique.md) || <sup>AM</sup> || 6 rangs en [Connaissances](./Connaissances.md) (religion), [École renforcée](./École renforcée.md) (Nécromancie) || Les sorts de mort, d'absorption d'énergie et de niveau négatif affectés fonctionnent sur les morts-vivants || +2
+| [[Sort thanatopique]] || <sup>AM</sup> || 6 rangs en [[Connaissances]] (religion), [[École renforcée]] (Nécromancie) || Les sorts de mort, d'absorption d'énergie et de niveau négatif affectés fonctionnent sur les morts-vivants || +2
 
 |- CLASS="premier donprincipal"
-| [Sort thrénodique](./Sort thrénodique.md) || <sup>AM</sup> || 6 rangs en [Connaissances](./Connaissances.md) (religion), [École renforcée](./École renforcée.md) (Nécromancie) || Change le sort mental pour qu'il affecte les morts-vivants et plus les vivants || +2
+| [[Sort thrénodique]] || <sup>AM</sup> || 6 rangs en [[Connaissances]] (religion), [[École renforcée]] (Nécromancie) || Change le sort mental pour qu'il affecte les morts-vivants et plus les vivants || +2
 
 |- CLASS="premier alt donprincipal"
-| [Sort tonitruant](./Sort tonitruant.md) || <sup>MJRA</sup> || — || Assourdit les créatures blessées || +2
+| [[Sort tonitruant]] || <sup>MJRA</sup> || — || Assourdit les créatures blessées || +2
 
 |- CLASS="premier donprincipal"
-| [Sort toxique](./Sort toxique.md) || <sup>*DTT*</sup> || 5 rangs en [Artisanat](./Artisanat.md) (poison), capacité à lancer des sorts de niveau 2, capacité de classe [utilisation du poison](./Ninja.md#UTILISATIONDUPOISON) || Utilise un poison comme composante matériel d'un sort pour en appliquer les effets à une des cibles || +1
+| [[Sort toxique]] || <sup>*DTT*</sup> || 5 rangs en [[Artisanat]] (poison), capacité à lancer des sorts de niveau 2, capacité de classe [[Ninja#UTILISATIONDUPOISON|utilisation du poison]] || Utilise un poison comme composante matériel d'un sort pour en appliquer les effets à une des cibles || +1
 
 |- CLASS="premier alt donprincipal"
-| [Sort transperçant](./Sort transperçant.md) || <sup>AM</sup> || — || Le sort affecté considère que la RM des créatures est réduite de 5 || +1
+| [[Sort transperçant]] || <sup>AM</sup> || — || Le sort affecté considère que la RM des créatures est réduite de 5 || +1
 
 |- CLASS="premier donprincipal"
-| [Sort traumatisant](./Sort traumatisant.md) || <sup>AO</sup> || — || Les sorts d'émotion ou de terreur provoquent des cauchemars || +2
+| [[Sort traumatisant]] || <sup>AO</sup> || — || Les sorts d'émotion ou de terreur provoquent des cauchemars || +2
 
 |- CLASS="premier alt donprincipal"
-| [Sort umbral](./Sort umbral.md) || <sup>MMI</sup> || [Sort ténébreux](./Sort ténébreux.md) || La créature ou la zone ciblée irradie les ténèbres || +2
+| [[Sort umbral]] || <sup>MMI</sup> || [[Sort ténébreux]] || La créature ou la zone ciblée irradie les ténèbres || +2
 |- CLASS="donprérequis0"
-| &emsp;[Étreinte de l'ombre](./Étreinte de lombre.md) || <sup>MMI</sup> || Sort ténébreux, Sort umbral || Les sorts du registre de l'obscurité enchevêtrent ceux qui se trouvent dans la zone d'effet du sort || +1
+| &emsp;[[Étreinte de lombre|Étreinte de l'ombre]] || <sup>MMI</sup> || Sort ténébreux, Sort umbral || Les sorts du registre de l'obscurité enchevêtrent ceux qui se trouvent dans la zone d'effet du sort || +1
 
 |- CLASS="premier donprincipal"
-| [Sort vaste](./Sort vaste.md) || <sup>*MTT*</sup> || [NLS](./NLS.md) 3 || Les cibles du sort peuvent être plus éloignées les unes des autres || +1
+| [[Sort vaste]] || <sup>*MTT*</sup> || [[NLS]] 3 || Les cibles du sort peuvent être plus éloignées les unes des autres || +1
 |}
 </center>

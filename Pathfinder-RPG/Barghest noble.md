@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.31*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md), [métamorphe](./sous-type métamorphe.md)) de taille G, LM}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]], [[sous-type métamorphe|métamorphe]]) de taille G, LM}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 11, pris au dépourvu 18 (Dex +2, naturelle +9, taille -1)}
 {s:BDTexte|**pv** 85 (9d10+36)}
@@ -25,18 +25,18 @@ Categories:
 {s:BDTexte|**VD** 12 m (8 c)}
 {s:BDTexte|**Corps à corps** morsure +14 (1d8+6), 2 griffes +14 (1d6+6)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9<sup>e</sup>)}
-{s:BDSorts|À volonté — *[clignotement](./Clignotement.md)*, *[détection faussée](./Détection faussée.md)*, *[sphère d'invisibilité](./Sphère dinvisibilité.md)*, *[lévitation](./Lévitation.md)*}
-{s:BDSorts|1/jour — *[agrandissement de groupe](./Agrandissement de groupe.md)*, *[charme-monstre](./Charme-monstre.md)* (DD 18), *[désespoir foudroyant](./Désespoir foudroyant.md)* (DD 18), *[force de taureau de groupe](./Force de taureau de groupe.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*}
+{s:BDSorts|À volonté — *[[clignotement]]*, *[[détection faussée]]*, *[[sphère dinvisibilité|sphère d'invisibilité]]*, *[[lévitation]]*}
+{s:BDSorts|1/jour — *[[agrandissement de groupe]]*, *[[charme-monstre]]* (DD 18), *[[désespoir foudroyant]]* (DD 18), *[[force de taureau de groupe]]*, *[[porte dimensionnelle]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 15, **Con** 19, **Int** 18, **Sag** 18, **Cha** 18}
 {s:BDTexte|**BBA** +9, **BMO** +16, **DMD** 28 (32 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +14, [Bluff](./Bluff.md) +16, [Diplomatie](./Diplomatie.md) +16, [Discrétion](./Discrétion.md) +10, [Escalade](./Escalade.md) +15, [Intimidation](./Intimidation.md) +16, [Natation](./Natation.md) +15, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +16, [Survie](./Survie.md) +16}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Magie de guerre]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +14, [[Bluff]] +16, [[Diplomatie]] +16, [[Discrétion]] +10, [[Escalade]] +15, [[Intimidation]] +16, [[Natation]] +15, [[Perception]] +16, [[Psychologie]] +16, [[Survie]] +16}
 {s:BDTexte|**Langues** commun, gobelin, infernal}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) ([gobelin](./Gobelin.md) ou [loup](./Loup.md), *[métamorphose](./métamorphose.md)*)}
+{s:BDTexte|**Particularités** [[changement de forme (Capacité)|changement de forme]] ([[gobelin]] ou [[loup]], *[[métamorphose]]*)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
-{s:BDTexte|**Organisation sociale** solitaire ou culte (1 + tribu de [gobelins](./Gobelin.md))}
+{s:BDTexte|**Organisation sociale** solitaire ou culte (1 + tribu de [[gobelin|gobelins]])}
 {s:BDTexte|**Trésor** standard}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -45,9 +45,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Barghest](./Barghest.md) || 4
+| [[Barghest]] || 4
 |-
-| [Barghest noble](./Barghest noble.md) || 7
+| [[Barghest noble]] || 7
 |}
 </div>*Ce monstre canin grogne et avance sur quatre pattes. Ses longs membres antérieurs ressemblent plus à des mains qu’à des pattes.*
 

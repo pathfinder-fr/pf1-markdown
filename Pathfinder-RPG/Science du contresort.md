@@ -8,9 +8,9 @@ Categories:
 
 *Le personnage sait contrer les sorts ennemis en utilisant des sorts proches.*
 
-**Avantage.** Lorsque le personnage tente de [contrer](./contresort.md) un [sort](./sort.md), il peut remplacer le sort d’origine par n’importe quel sort de la même [école](./Présentation des sorts.md#ECOLES) ayant au moins un [niveau de sort](./Niveau de sort.md) de plus.
+**Avantage.** Lorsque le personnage tente de [[contresort|contrer]] un [[sort]], il peut remplacer le sort d’origine par n’importe quel sort de la même [[Présentation des sorts#ECOLES|école]] ayant au moins un [[niveau de sort]] de plus.
 
-**Normal.** Un lanceur de sorts qui ne possède pas ce don ne peut contrer un sort qu’en utilisant exactement le même [sort](./sort.md) ou un [sort](./sort.md) indiquant qu’il peut être utilisé comme [contresort](./contresort.md).
+**Normal.** Un lanceur de sorts qui ne possède pas ce don ne peut contrer un sort qu’en utilisant exactement le même [[sort]] ou un [[sort]] indiquant qu’il peut être utilisé comme [[contresort]].
 
 {s:CMy}
 ### Version mythique

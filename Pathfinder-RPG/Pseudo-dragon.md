@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Dragon|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.244}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Dragon](./type Dragon.md) de taille TP, NB}
-{s:BDTexte|**Init** +2 ; **Sens** [perception aveugle](./perception aveugle.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Dragon|Dragon]] de taille TP, NB}
+{s:BDTexte|**Init** +2 ; **Sens** [[perception aveugle]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 14, pris au dépourvu 14 (Dex +2, naturelle +2, taille +2)}
 {s:BDTexte|**pv** 15 (2d12+2)}
@@ -27,16 +27,16 @@ Categories:
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0 (1,50 m (1 {s:c}) pour la queue)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 7, **Dex** 15, **Con** 13, **Int** 10, **Sag** 12, **Cha** 10}
-{s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 10 (14 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Diplomatie](./Diplomatie.md) +5, [Discrétion](./Discrétion.md) +19 (+23 dans les forêts), [Perception](./Perception.md) +6, [Psychologie](./Psychologie.md) +6, [Survie](./Survie.md) +6, [Vol](./Vol.md) +15 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 (devient +8 dans forêts)}
-{s:BDTexte|**Langues** draconique ; [télépathie](./Télépathie.md) (18 m (12 {s:c}))}
+{s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 10 (14 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Diplomatie]] +5, [[Discrétion]] +19 (+23 dans les forêts), [[Perception]] +6, [[Psychologie]] +6, [[Survie]] +6, [[Vol]] +15 ; **Modificateurs raciaux** [[Discrétion]] +4 (devient +8 dans forêts)}
+{s:BDTexte|**Langues** draconique ; [[télépathie]] (18 m (12 {s:c}))}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou couvée (3-5)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Poison (Ext)** Dard - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 14 ; *fréquence* 1/minute pendant 10 minutes ; *effet* sommeil pendant 1 minute ; *guérison* 1 réussite. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md) et inclut un bonus racial de +2.}
+{s:BDTexte|**Poison (Ext)** Dard - blessure ; *JS* [[Vigueur]] [[DD]] 14 ; *fréquence* 1/minute pendant 10 minutes ; *effet* sommeil pendant 1 minute ; *guérison* 1 réussite. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]] et inclut un bonus racial de +2.}
 </div>
 
 {s:ImageCentre|Bestiaire/Pseudodragon.jpg|45%}

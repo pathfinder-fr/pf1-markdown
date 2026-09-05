@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Ville du [Qadira](./Qadira.md) située à l'extrême est du [Désert de Ketz](./Désert de Ketz.md), au pied des [Montagnes Zho](./Montagnes Zho.md).
+Ville du [[Qadira]] située à l'extrême est du [[Désert de Ketz]], au pied des [[Montagnes Zho]].
 
 Elle est considérée comme sacrée pour la plupart des Qadirans qui viennent y rechercher assistance spirituelle et retraite mystique.

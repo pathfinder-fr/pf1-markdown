@@ -20,20 +20,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Bard](./Barde.md) 1, [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [San](./Sanguin.md) 1, [Spi](./Spirite.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Spirite|Spi]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 
-Ce sort confère un [bonus d’altération](./bonus daltération.md) qui augmente la vitesse terrestre de base du personnage de 9 m. Il n’affecte pas les autres modes de déplacement (creusement, escalade, nage ou vol), en revanche, il affecte la distance maximale que le personnage peut parcourir en sautant avec la compétence [Acrobaties](./Acrobaties.md).
+Ce sort confère un [[bonus daltération|bonus d’altération]] qui augmente la vitesse terrestre de base du personnage de 9 m. Il n’affecte pas les autres modes de déplacement (creusement, escalade, nage ou vol), en revanche, il affecte la distance maximale que le personnage peut parcourir en sautant avec la compétence [[Acrobaties]].
 
 ### Mythique
 {s:CMy}
-Le bonus de vitesse conféré par ce sort s’élève à 12 mètres. Ajoutez le [grade](./Grade.md) du personnage aux tests d’[Acrobaties](./Acrobaties.md) effectués pour éviter les attaques d’opportunité provoquées par le déplacement. Lorsque le déplacement du personnage provoque une attaque d’opportunité, ajoutez son [grade](./Grade.md) à sa [CA](./CA.md) contre cette attaque.
+Le bonus de vitesse conféré par ce sort s’élève à 12 mètres. Ajoutez le [[grade]] du personnage aux tests d’[[Acrobaties]] effectués pour éviter les attaques d’opportunité provoquées par le déplacement. Lorsque le déplacement du personnage provoque une attaque d’opportunité, ajoutez son [[grade]] à sa [[CA]] contre cette attaque.

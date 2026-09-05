@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4* p.132}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Animal](./type Animal.md) ([aquatique](./sous-type aquatique.md)) de taille TG, N}
-{s:BDTexte|**Init** +6 ; **Sens** odorat surdéveloppé, [vision nocturne](./vision nocturne.md), [perception aveugle](./perception aveugle.md) 9 m (6 {s:c}) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Animal|Animal]] ([[sous-type aquatique|aquatique]]) de taille TG, N}
+{s:BDTexte|**Init** +6 ; **Sens** odorat surdéveloppé, [[vision nocturne]], [[perception aveugle]] 9 m (6 {s:c}) ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 10, pris au dépourvu 17 (Dex +2, naturelle +9, taille -2)}
 {s:BDTexte|**pv** 42 (5d8+20)}
@@ -24,18 +24,18 @@ Categories:
 {s:BDTexte|**VD** nage 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +9 (2d8+10 et saignement)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [saignement](./Saignement.md) (1d6)}
+{s:BDTexte|**Attaques spéciales** [[saignement]] (1d6)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 14, **Con** 19, **Int** 1, **Sag** 16, **Cha** 4}
 {s:BDTexte|**BBA** +3, **BMO** +12, **DMD** 24 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Science de l'initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +15, [Perception](./Perception.md) +11}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Science de linitiative|Science de l'initiative]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Natation]] +15, [[Perception]] +11}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
 {s:BDTexte|**Organisation sociale** solitaire, couple, banc (3-6) ou meute (7-13)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Odorat surdéveloppé (Ext)** l'[odorat](./odorat.md) des requins leur permet de repérer les créatures à 54 m (36 {s:c}) sous l'eau et de sentir le sang dans l'eau jusqu'à 1,5 km.}
+{s:BDTexte|**Odorat surdéveloppé (Ext)** l'[[odorat]] des requins leur permet de repérer les créatures à 54 m (36 {s:c}) sous l'eau et de sentir le sang dans l'eau jusqu'à 1,5 km.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -44,13 +44,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Requin bouledogue](./Requin bouledogue.md) || 2
+| [[Requin bouledogue]] || 2
 |-
-| [Grand requin blanc](./Grand requin blanc.md) || 4
+| [[Grand requin blanc]] || 4
 |-
-| [Requin](./Requin.md) || 2
+| [[Requin]] || 2
 |-
-| [Requin sanguinaire](./Requin sanguinaire.md) || 9
+| [[Requin sanguinaire]] || 9
 |}
 </div>*Cet immense animal argenté est un spécimen majestueux dont la gigantesque gueule est garnie de plusieurs rangées de crocs triangulaires acérés.*
 
@@ -82,10 +82,10 @@ pour 2 500 kilogrammes.
 
 #### Le requin comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 0 m, nage 18 m (12 {s:c}); **CA** armure naturelle +4 ; **Attaque** Attaque morsure (1d4) ; **Caractéristiques** For 13, Dex 15, Con 15, Int 1, Sag 12, Cha 2 ; **Particularités** [odorat](./odorat.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 0 m, nage 18 m (12 {s:c}); **CA** armure naturelle +4 ; **Attaque** Attaque morsure (1d4) ; **Caractéristiques** For 13, Dex 15, Con 15, Int 1, Sag 12, Cha 2 ; **Particularités** [[odorat]].
 
-**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (1d6) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Particularités** [perception aveugle](./perception aveugle.md), [vision nocturne](./vision nocturne.md).
+**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (1d6) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Particularités** [[perception aveugle]], [[vision nocturne]].
 
 
-*<u>Note :</u> Dans certaines V.F. la particularité "[Perception aveugle](./perception aveugle.md)" (Blindsense) semble avoir été remplacée par "[Vision aveugle](./vision aveugle.md)" (Blindsight), alors qu'en V.O. il s'agit bien de "[Perception aveugle](./perception aveugle.md)" (Blindsense). Cela devrait avoir été corrigé depuis dans les dernières versions.*
+*<u>Note :</u> Dans certaines V.F. la particularité "[[Perception aveugle]]" (Blindsense) semble avoir été remplacée par "[[Vision aveugle]]" (Blindsight), alors qu'en V.O. il s'agit bien de "[[Perception aveugle]]" (Blindsense). Cela devrait avoir été corrigé depuis dans les dernières versions.*
 </div></td></tr></table>

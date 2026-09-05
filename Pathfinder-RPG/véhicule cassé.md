@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Véhicules en combat (véhicules)#CONDUITECASSE
 ---
 
->>> [Véhicules en combat (véhicules)#CONDUITECASSE](./Véhicules en combat (véhicules).md#CONDUITECASSE)
+>>> [[Véhicules en combat (véhicules)#CONDUITECASSE]]

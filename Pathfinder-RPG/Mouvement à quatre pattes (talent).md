@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#QUATREPATTES
 ---
 
->>> [Talents#QUATREPATTES](./Talents.md#QUATREPATTES)
+>>> [[Talents#QUATREPATTES]]

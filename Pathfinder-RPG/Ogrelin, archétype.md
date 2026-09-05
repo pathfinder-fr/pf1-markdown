@@ -16,9 +16,9 @@ Categories:
 créature de base). Un ogrelin conserve toutes les caractéristiques et les particularités de la créature de base à l’exception des indications suivantes :
 - **FP.** Comme la créature de base + 1 (minimum 1).
 - **Alignement.** Généralement Mauvais.
-- **Type.** Le sous-type de la créature devient [géant](./sous-type géant.md).
+- **Type.** Le sous-type de la créature devient [[sous-type géant|géant]].
 - **CA.** L’armure naturelle augmente de +3.
-- **Caractéristiques.** [For](./Force.md) +6, [Con](./Constitution.md) +4, [Int](./Intelligence.md) –2, [Cha](./Charisme.md) –2.
+- **Caractéristiques.** [[Force|For]] +6, [[Constitution|Con]] +4, [[Intelligence|Int]] –2, [[Charisme|Cha]] –2.
 - **Particularités et capacités défensives.** Un ogrelin gagne la capacité de vision nocturne. De plus, il reçoit deux difformités au choix, une positive et une négative.
 
 - **Difformités positives.** L’ogrelin gagne l’une de ces difformités, qui est déterminée aléatoirement.
@@ -39,7 +39,7 @@ créature de base). Un ogrelin conserve toutes les caractéristiques et les part
 </div>
 
 </td><td><div>
-Pour un exemple d'Ogrelin, voir [ogrelin humain](./Ogrelin Humain.md).
+Pour un exemple d'Ogrelin, voir [[ogrelin humain]].
 
 Un ogrelin (ou demi-ogre) est le produit d’une union malheureuse entre un ogre et un humanoïde, une créature affligée de terribles difformités causées par ses origines tragiques. Rejetés par leurs deux parents, les ogrelins ont tendance à former des petits groupes instables qui perdurent le plus souvent grâce à de nombreux croisements consanguins. Il existe des ogrelins de nature plutôt bienveillante, mais ils sont extrêmement rares.
 </div></td></tr></table>

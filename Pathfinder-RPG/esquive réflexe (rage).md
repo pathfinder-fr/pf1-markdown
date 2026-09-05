@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#ESQUIVEREFLEXE
 ---
 
->>> [Pouvoirs de rage#ESQUIVEREFLEXE](./Pouvoirs de rage.md#ESQUIVEREFLEXE)
+>>> [[Pouvoirs de rage#ESQUIVEREFLEXE]]

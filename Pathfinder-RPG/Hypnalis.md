@@ -10,7 +10,7 @@ LastModified: 2022-07-06 15:39
 {s:pucem|Extérieur|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 148*}
 - **1 600 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, N
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, N
 - **Init **+6 ; Sens vision dans le noir à 18 m ; Perception +11
 (((Défense)))
 - **CA **17, contact 12, pris au dépourvu 15 (Dex +2, naturelle +5)
@@ -23,8 +23,8 @@ LastModified: 2022-07-06 15:39
 (((Statistiques)))
 - **For **22, **Dex **15, **Con **16, **Int **7, **Sag** 13, **Cha **10
 - **BBA **+7 ; **BMO **+13 (+17 pour la lutte) ; **DMD** 25 (croc-en-jambe impossible)
-- **Dons **[Combat en aveugle](./Combat en aveugle.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Discrétion), [Coup dans l'ombre](./Coup dans lombre.md)
-- **Compétences **[Bluff](./Bluff.md) +10, [Discrétion](./Discrétion.md) +15, [Perception](./Perception.md) +11, [Psychologie](./Psychologie.md) +10, [Vol](./Vol.md) +10
+- **Dons **[[Combat en aveugle]], [[Science de linitiative|Science de l’initiative]], [[Talent]] (Discrétion), [[Coup dans lombre|Coup dans l'ombre]]
+- **Compétences **[[Bluff]] +10, [[Discrétion]] +15, [[Perception]] +11, [[Psychologie]] +10, [[Vol]] +10
 - **Langues **aklo
 - **Particularités **crochets spectraux, phase
 (((Écologie)))

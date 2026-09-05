@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#DEFFACONNABLE
 ---
 
->>> [Présentation des sorts#DEFFACONNABLE](./Présentation des sorts.md#DEFFACONNABLE)
+>>> [[Présentation des sorts#DEFFACONNABLE]]

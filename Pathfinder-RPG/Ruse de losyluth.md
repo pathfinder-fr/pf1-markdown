@@ -11,8 +11,8 @@ Categories:
 
 {s:RSE}*Le personnage a un talent particulier pour fausser les attaques d’un adversaire.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** 8 rangs en [Bluff](./Bluff.md), [Esquive](./Esquive.md)
+**Conditions.** 8 rangs en [[Bluff]], [[Esquive]]
 
-**Avantages.** Lorsque que le personnage se [bat sur la défensive](./combat sur la défensive.md) ou qu’il est en [défense totale](./défense totale.md), il peut choisir un adversaire et ajouter son bonus de [Charisme](./Charisme.md) à sa [CA](./CA.md), comme bonus d’esquive, contre les attaques de corps à corps de cet adversaire et ce, jusqu’à son prochain tour. Il ne peut pas utiliser ce don s’il ne voit pas l’adversaire choisi.
+**Avantages.** Lorsque que le personnage se [[combat sur la défensive|bat sur la défensive]] ou qu’il est en [[défense totale]], il peut choisir un adversaire et ajouter son bonus de [[Charisme]] à sa [[CA]], comme bonus d’esquive, contre les attaques de corps à corps de cet adversaire et ce, jusqu’à son prochain tour. Il ne peut pas utiliser ce don s’il ne voit pas l’adversaire choisi.

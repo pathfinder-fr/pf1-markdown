@@ -13,17 +13,17 @@ Categories:
 ---
 
 {s:UM}
-**École** [Nécromancie](./Nécromancie.md); **Niveau** [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Nécromancie]]; **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** cadavre touché  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non  
 

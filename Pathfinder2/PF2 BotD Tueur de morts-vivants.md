@@ -4,9 +4,9 @@ Title: Tueur de morts-vivants (archétype)
 LastModified: 2022-04-27 11:19
 ---
 
-{s:bodmenu}• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+{s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 Dans chaque lieu où des morts-vivants s’en prennent aux vivants, quelques individus courageux se donnent pour mission de détruire ces monstres. De nombreux aventuriers peuvent détruire les morts-vivants avec talent mais vous allez encore plus loin. Vous les étudiez, vous apprenez leurs faiblesses et vous maîtrisez les outils qui permettent de les éliminer rapidement et proprement. Un tueur de morts-vivants ne se contente pas de tuer des monstres ; il devient ce que même les monstres craignent. Être un bouclier, c’est bon pour les autres… vous devenez la lame qui frappe le mal en plein cœur. Vous pouvez identifier les types courants de morts-vivants d’un simple coup d’œil. Vous vous entraînez encore et encore à utiliser l’équipement spécialisé nécessaire pour détruire certains des morts-vivants plus complexes, comme les vampires ; vous étudiez leurs forces et leurs faiblesses et vous apprenez comment créer des caches sûres où planquer votre arsenal et vous cacher des morts-vivants.

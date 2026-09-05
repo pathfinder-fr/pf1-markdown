@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Bond (capacité)
 ---
 
->>> [Bond (capacité)](./Bond (capacité).md)
+>>> [[Bond (capacité)]]

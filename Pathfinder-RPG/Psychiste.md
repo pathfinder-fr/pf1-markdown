@@ -5,9 +5,9 @@ LastModified: 2024-10-03 15:36
 ---
 
 {s:Menuclassesoccultes}
-<div class="fright">***Voir aussi les [amplifications phréniques](./Amplifications phréniques.md).***
-***Voir aussi les [disciplines psychiques](./Disciplines psychiques.md).***
-***Voir aussi la [liste des sorts de psychiste](./Sorts de psychiste.md).***
+<div class="fright">***Voir aussi les [[Amplifications phréniques]].***
+***Voir aussi les [[Disciplines psychiques]].***
+***Voir aussi la [[Sorts de psychiste|liste des sorts de psychiste]].***
 {s:PM0|psychiste}**Voir les archétypes du psychiste**&emsp;
 <li ID="psychiste" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypepsychiste}</li>
 </div>{s:AO}*L’esprit de toutes les créatures douées de sensations recèle un pouvoir qui rivalise avec le plus formidable des artefacts magiques ou des sites sacrés. En accédant à ces stupéfiants trésors d’énergie mentale, le psychiste peut façonner le monde qui l’entoure, manipuler les esprits et ouvrir la voie menant vers d’autres plans. Aucun endroit n’est trop isolé et aucune idée trop secrète pour un psychiste capable de maîtriser tous les types de magie psychique. Les méthodes qui permettent aux psychistes de développer leurs pouvoirs mentaux sont nombreuses et les disciplines auxquelles ils adhèrent affectent leurs aptitudes.*
@@ -38,7 +38,7 @@ LastModified: 2024-10-03 15:36
 | +0
 | +0
 | +2
-| CLASS="gauche" | [Amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE), [astuces](./Psychiste.md#ASTUCES), [discipline psychique](./Psychiste.md#DISCIPLINEPSYCHIQUE), [pouvoir disciplinaire](./Psychiste.md#POUVOIRDISCIPLINAIRE), [réserve phrénique](./Psychiste.md#RESERVEPHRENIQUE), [sort disciplinaire](./Psychiste.md#SORTDISCIPLINAIRE)
+| CLASS="gauche" | [[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]], [[Psychiste#ASTUCES|astuces]], [[Psychiste#DISCIPLINEPSYCHIQUE|discipline psychique]], [[Psychiste#POUVOIRDISCIPLINAIRE|pouvoir disciplinaire]], [[Psychiste#RESERVEPHRENIQUE|réserve phrénique]], [[Psychiste#SORTDISCIPLINAIRE|sort disciplinaire]]
 | 3
 | -
 | -
@@ -54,7 +54,7 @@ LastModified: 2024-10-03 15:36
 | +0
 | +0
 | +3
-| CLASS="gauche" | [Détection de pensées](./Psychiste.md#DETECTIONDEPENSEES)
+| CLASS="gauche" | [[Psychiste#DETECTIONDEPENSEES|Détection de pensées]]
 | 4
 | -
 | -
@@ -70,7 +70,7 @@ LastModified: 2024-10-03 15:36
 | +1
 | +1
 | +3
-| CLASS="gauche" | [Amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE)
+| CLASS="gauche" | [[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]
 | 5
 | -
 | -
@@ -86,7 +86,7 @@ LastModified: 2024-10-03 15:36
 | +1
 | +1
 | +4
-| CLASS="gauche" | [Sort disciplinaire](./Psychiste.md#SORTDISCIPLINAIRE)
+| CLASS="gauche" | [[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]
 | 6
 | 3
 | -
@@ -102,7 +102,7 @@ LastModified: 2024-10-03 15:36
 | +1
 | +1
 | +4
-| CLASS="gauche" | [Pouvoir disciplinaire](./Psychiste.md#POUVOIRDISCIPLINAIRE)
+| CLASS="gauche" | [[Psychiste#POUVOIRDISCIPLINAIRE|Pouvoir disciplinaire]]
 | 6
 | 4
 | -
@@ -118,7 +118,7 @@ LastModified: 2024-10-03 15:36
 | +2
 | +2
 | +5
-| CLASS="gauche" | [Sort disciplinaire](./Psychiste.md#SORTDISCIPLINAIRE)
+| CLASS="gauche" | [[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]
 | 6
 | 5
 | 3
@@ -134,7 +134,7 @@ LastModified: 2024-10-03 15:36
 | +2
 | +2
 | +5
-| CLASS="gauche" | [Amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE)
+| CLASS="gauche" | [[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]
 | 6
 | 6
 | 4
@@ -150,7 +150,7 @@ LastModified: 2024-10-03 15:36
 | +2
 | +2
 | +6
-| CLASS="gauche" | [Sort disciplinaire](./Psychiste.md#SORTDISCIPLINAIRE)
+| CLASS="gauche" | [[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]
 | 6
 | 6
 | 5
@@ -166,7 +166,7 @@ LastModified: 2024-10-03 15:36
 | +3
 | +3
 | +6
-| CLASS="gauche" | [Lien télépathique](./Psychiste.md#LIENTELEPATHIQUE)
+| CLASS="gauche" | [[Psychiste#LIENTELEPATHIQUE|Lien télépathique]]
 | 6
 | 6
 | 6
@@ -182,7 +182,7 @@ LastModified: 2024-10-03 15:36
 | +3
 | +3
 | +7
-| CLASS="gauche" | [Sort disciplinaire](./Psychiste.md#SORTDISCIPLINAIRE)
+| CLASS="gauche" | [[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]
 | 6
 | 6
 | 6
@@ -198,7 +198,7 @@ LastModified: 2024-10-03 15:36
 | +3
 | +3
 | +7
-| CLASS="gauche" | [Amplification majeure](./Psychiste.md#AMPLIFICATIONSMAJEURES), [amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE)
+| CLASS="gauche" | [[Psychiste#AMPLIFICATIONSMAJEURES|Amplification majeure]], [[Psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]]
 | 6
 | 6
 | 6
@@ -214,7 +214,7 @@ LastModified: 2024-10-03 15:36
 | +4
 | +4
 | +8
-| CLASS="gauche" | [Sort disciplinaire](./Psychiste.md#SORTDISCIPLINAIRE)
+| CLASS="gauche" | [[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]
 | 6
 | 6
 | 6
@@ -230,7 +230,7 @@ LastModified: 2024-10-03 15:36
 | +4
 | +4
 | +8
-| CLASS="gauche" | [Pouvoir disciplinaire](./Psychiste.md#POUVOIRDISCIPLINAIRE)
+| CLASS="gauche" | [[Psychiste#POUVOIRDISCIPLINAIRE|Pouvoir disciplinaire]]
 | 6
 | 6
 | 6
@@ -246,7 +246,7 @@ LastModified: 2024-10-03 15:36
 | +4
 | +4
 | +9
-| CLASS="gauche" | [Sort disciplinaire](./Psychiste.md#SORTDISCIPLINAIRE)
+| CLASS="gauche" | [[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]
 | 6
 | 6
 | 6
@@ -262,7 +262,7 @@ LastModified: 2024-10-03 15:36
 | +5
 | +5
 | +9
-| CLASS="gauche" | [Amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE)
+| CLASS="gauche" | [[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]
 | 6
 | 6
 | 6
@@ -278,7 +278,7 @@ LastModified: 2024-10-03 15:36
 | +5
 | +5
 | +10
-| CLASS="gauche" | [Sort disciplinaire](./Psychiste.md#SORTDISCIPLINAIRE)
+| CLASS="gauche" | [[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]
 | 6
 | 6
 | 6
@@ -294,7 +294,7 @@ LastModified: 2024-10-03 15:36
 | +5
 | +5
 | +10
-| CLASS="gauche" | [Télépathie](./Psychiste.md#TELEPATHIE)
+| CLASS="gauche" | [[Psychiste#TELEPATHIE|Télépathie]]
 | 6
 | 6
 | 6
@@ -310,7 +310,7 @@ LastModified: 2024-10-03 15:36
 | +6
 | +6
 | +11
-| CLASS="gauche" | [Sort disciplinaire](./Psychiste.md#SORTDISCIPLINAIRE)
+| CLASS="gauche" | [[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]
 | 6
 | 6
 | 6
@@ -326,7 +326,7 @@ LastModified: 2024-10-03 15:36
 | +6
 | +6
 | +11
-| CLASS="gauche" | [Amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE)
+| CLASS="gauche" | [[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]
 | 6
 | 6
 | 6
@@ -342,7 +342,7 @@ LastModified: 2024-10-03 15:36
 | +6
 | +6
 | +12
-| CLASS="gauche" |  [Manipulation du soi](./Psychiste.md#MANIPULATIONDUSOI)
+| CLASS="gauche" |  [[Psychiste#MANIPULATIONDUSOI|Manipulation du soi]]
 | 6
 | 6
 | 6
@@ -363,9 +363,9 @@ LastModified: 2024-10-03 15:36
 **Argent de départ.** 2d6 x 10 po (moyenne 70 po).
 
 ### Compétences de classe
-Les compétences de classe du psychiste sont les suivantes : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (tous les domaines) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Intimidation](./Intimidation.md) (Cha),  [Linguistique](./Linguistique.md) (Int), [Perception](./Perception.md) (Sag), [Profession](./Profession.md) (Sag), [Psychologie](./Psychologie.md) (Sag) et [Vol](./Vol.md) (Dex).
+Les compétences de classe du psychiste sont les suivantes : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Bluff]] (Cha), [[Connaissances]] (tous les domaines) (Int), [[Diplomatie]] (Cha), [[Intimidation]] (Cha),  [[Linguistique]] (Int), [[Perception]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag) et [[Vol]] (Dex).
 
-**Points de compétence par niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 2 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
 Les aptitudes du psychiste sont décrites ci-dessous.
@@ -424,23 +424,23 @@ Le psychiste est formé au maniement de toutes les armes courantes mais pas au p
 |-
 | 20 || 9 || 5 || 5 || 4 || 4 || 4 || 3 || 3 || 3 || 3
 |}
-</div></div>Un psychiste peut lancer des sorts psychiques appartenant à la [liste des sorts du psychiste](./Sorts de psychiste.md). Il les lance sans avoir à les préparer à l’avance. Pour apprendre ou lancer un sort, un psychiste doit avoir une valeur d'[Intelligence](./Intelligence.md) au moins égale à 10 + le niveau du sort. Le [DD](./DD.md) des jets de sauvegarde contre ses sorts est égal à 10 + le niveau du sort + le modificateur d'[Intelligence](./Intelligence.md) du psychiste.
+</div></div>Un psychiste peut lancer des sorts psychiques appartenant à la [[Sorts de psychiste|liste des sorts du psychiste]]. Il les lance sans avoir à les préparer à l’avance. Pour apprendre ou lancer un sort, un psychiste doit avoir une valeur d'[[Intelligence]] au moins égale à 10 + le niveau du sort. Le [[DD]] des jets de sauvegarde contre ses sorts est égal à 10 + le niveau du sort + le modificateur d'[[Intelligence]] du psychiste.
 
-Comme les autres lanceurs de sorts, le psychiste ne peut lancer qu’un nombre de sorts donné de chaque niveau chaque jour. Son quota de sorts quotidiens est indiqué dans la Table "[Le Psychiste](./Psychiste.md#TABLEPSYCHISTE)". En plus de cela, il reçoit des sorts en bonus si sa valeur d'[Intelligence](./Intelligence.md) est suffisamment élevée (voir la Table "[Modificateurs de caractéristique et sorts en bonus](./Caractéristiques.md#TABLEAUCARACTERISTIQUES)").
+Comme les autres lanceurs de sorts, le psychiste ne peut lancer qu’un nombre de sorts donné de chaque niveau chaque jour. Son quota de sorts quotidiens est indiqué dans la Table "[[psychiste#TABLEPSYCHISTE|Le Psychiste]]". En plus de cela, il reçoit des sorts en bonus si sa valeur d'[[Intelligence]] est suffisamment élevée (voir la Table "[[caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
 
-Le répertoire de sorts d’un psychiste est très limité. Il commence sa carrière en connaissant seulement quatre sorts du niveau 0 et deux sorts de 1er niveau, tous choisis par le joueur. Lors de chaque passage de niveau, un psychiste apprend un ou plusieurs sorts supplémentaires, comme indiqué dans la Table "[Sorts connus par le psychiste](./Psychiste.md#SORTSCONNUSDUPSYCHISTE)" (contrairement au quota de sorts quotidiens, le nombre de sorts connus par un psychiste n’est pas modifié par son éventuel bonus d'[Intelligence](./Intelligence.md) : les nombres de cette table sont fixes).
+Le répertoire de sorts d’un psychiste est très limité. Il commence sa carrière en connaissant seulement quatre sorts du niveau 0 et deux sorts de 1er niveau, tous choisis par le joueur. Lors de chaque passage de niveau, un psychiste apprend un ou plusieurs sorts supplémentaires, comme indiqué dans la Table "[[psychiste#SORTSCONNUSDUPSYCHISTE|Sorts connus par le psychiste]]" (contrairement au quota de sorts quotidiens, le nombre de sorts connus par un psychiste n’est pas modifié par son éventuel bonus d'[[Intelligence]] : les nombres de cette table sont fixes).
 
 Lorsqu’il atteint le niveau 4, et tous les deux niveaux suivants, un psychiste peut choisir d’apprendre un nouveau sort à la place de l’un de ceux qu’il connaît déjà. Il oublie alors un sort au profit d’un autre. Le niveau du nouveau sort doit être identique à celui du sort oublié. Un psychiste ne peut remplacer qu’un seul sort à chaque fois, et doit choisir de le faire ou non au moment où il apprend de nouveaux sorts lors du passage de niveau.
 
-Contrairement à un [magicien](./Magicien.md) ou à un [prêtre](./Prêtre.md), un psychiste n’a pas besoin de préparer ses sorts à l’avance. Il peut lancer n’importe quel sort de son répertoire à n’importe quel moment, à condition de ne pas avoir épuisé son quota de sorts de ce niveau pour la journée.
+Contrairement à un [[magicien]] ou à un [[prêtre]], un psychiste n’a pas besoin de préparer ses sorts à l’avance. Il peut lancer n’importe quel sort de son répertoire à n’importe quel moment, à condition de ne pas avoir épuisé son quota de sorts de ce niveau pour la journée.
 
 {s:Reference|ASTUCES}
 #### Astuces
-Les psychistes apprennent un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqué dans la Table "[Sorts connus par le psychiste](./Psychiste.md#SORTSCONNUSDUPSYCHISTE)". Ces sorts sont lancés de la même manière que les autres mais ils ne réduisent pas le quota quotidien du psychiste et peuvent être utilisés indéfiniment.
+Les psychistes apprennent un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqué dans la Table "[[psychiste#SORTSCONNUSDUPSYCHISTE|Sorts connus par le psychiste]]". Ces sorts sont lancés de la même manière que les autres mais ils ne réduisent pas le quota quotidien du psychiste et peuvent être utilisés indéfiniment.
 
 {s:Reference|RESERVEPHRENIQUE}
 #### Réserve phrénique (Sur)
-Un psychiste dispose d’une réserve d’énergie mentale surnaturelle dans laquelle il puise pour modifier ses sorts psychiques au cours de leur incantation. Le nombre maximum de points que contient la réserve phrénique d’un psychiste est égal à la moitié de son niveau de psychiste + son modificateur de [Sagesse](./Sagesse.md) ou de [Charisme](./Charisme.md), selon la discipline psychique suivie par le personnage. Le psychiste récupère la totalité des points de sa réserve phrénique chaque matin s’il se repose ou médite pendant 8 heures ; ces heures de repos ou de méditation n’ont pas besoin d’être consécutives. Un psychiste peut également récupérer des points de sa réserve phrénique dans des circonstances particulières dictées par sa discipline psychique. Les éventuels points obtenus en excès du total maximum sont perdus.
+Un psychiste dispose d’une réserve d’énergie mentale surnaturelle dans laquelle il puise pour modifier ses sorts psychiques au cours de leur incantation. Le nombre maximum de points que contient la réserve phrénique d’un psychiste est égal à la moitié de son niveau de psychiste + son modificateur de [[Sagesse]] ou de [[Charisme]], selon la discipline psychique suivie par le personnage. Le psychiste récupère la totalité des points de sa réserve phrénique chaque matin s’il se repose ou médite pendant 8 heures ; ces heures de repos ou de méditation n’ont pas besoin d’être consécutives. Un psychiste peut également récupérer des points de sa réserve phrénique dans des circonstances particulières dictées par sa discipline psychique. Les éventuels points obtenus en excès du total maximum sont perdus.
 
 {s:Reference|AMPLIFICATIONPHRENIQUE}
 #### Amplification phrénique
@@ -448,21 +448,21 @@ Un psychiste développe des techniques particulières, appelées amplifications 
 
 Le sort en cours d’incantation est appelé sort lié. Le psychiste peut activer une seule amplification à chaque incantation et cette activation est incluse dans l’action effectuée pour lancer le sort. Il peut utiliser n’importe quelle amplification de son répertoire avec n’importe quel sort psychique. Certaines amplifications restreignent toutefois leur application à certains types de sorts. Un psychiste apprend une amplification phrénique au niveau 1 qu’il choisit dans la liste des améliorations phréniques. Au niveau 3 et tous les 4 niveaux par la suite, le psychiste apprend une nouvelle amplification phrénique. Il n’est pas possible de choisir plusieurs fois une même amplification phrénique. Le choix d’une amplification phrénique est définitif et il est impossible d’en changer. Le psychiste doit dépenser un ou plusieurs points de sa réserve phrénique pour activer ses amplifications.
 
-*Voir la [liste des amplifications phréniques](./Amplifications phréniques.md).*
+*Voir la [[Amplifications phréniques|liste des amplifications phréniques]].*
 
 {s:Reference|DISCIPLINEPSYCHIQUE}{s:Reference|POUVOIRDISCIPLINAIRE}{s:Reference|SORTDISCIPLINAIRE}
 #### Discipline psychique
 Chaque psychiste apprend et améliore ses pouvoirs mentaux par l’application d’une méthode particulière telle qu’un apprentissage rigoureux ou l’atteinte d’un état mental particulier.
 
-Ces méthodes sont appelées disciplines psychiques. Un psychiste ajoute des sorts supplémentaires à son répertoire de sorts connus en fonction de la discipline choisie dans la [liste des disciplines psychiques](./Disciplines psychiques.md). Le choix de la discipline doit être fait au niveau 1 et ne peut être changé par la suite. Chaque discipline psychique confère au psychiste un certain nombre de pouvoirs de discipline (aux niveaux 1, 5 et 13) etlui permet d’ajouter des sorts à son répertoire. De plus, la discipline détermine la valeur de caractéristique appliquée par le psychiste pour ses aptitudes de réserve et d’amplifications phréniques. Le [DD](./DD.md) des jets de sauvegarde contre un pouvoir de discipline psychique est égal à 10 + la moitié du niveau de psychiste + le modificateur d’[Intelligence](./Intelligence.md) du psychiste.
+Ces méthodes sont appelées disciplines psychiques. Un psychiste ajoute des sorts supplémentaires à son répertoire de sorts connus en fonction de la discipline choisie dans la [[Disciplines psychiques|liste des disciplines psychiques]]. Le choix de la discipline doit être fait au niveau 1 et ne peut être changé par la suite. Chaque discipline psychique confère au psychiste un certain nombre de pouvoirs de discipline (aux niveaux 1, 5 et 13) etlui permet d’ajouter des sorts à son répertoire. De plus, la discipline détermine la valeur de caractéristique appliquée par le psychiste pour ses aptitudes de réserve et d’amplifications phréniques. Le [[DD]] des jets de sauvegarde contre un pouvoir de discipline psychique est égal à 10 + la moitié du niveau de psychiste + le modificateur d’[[Intelligence]] du psychiste.
 
 Au niveau 1, un psychiste apprend un sort supplémentaire déterminé par sa discipline. Il apprend un autre sort supplémentaire au niveau 4 et tous les 2 niveaux par la suite, jusqu’au dernier sort au niveau 18. Ces sorts viennent en plus du nombre de ceux indiqués dans la Table 1-8. Les sorts appris par le biais d’une discipline ne peuvent être échangés contre des sorts différents au fur et à mesure que le personnage gagne des niveaux.
 
-*Voir la [liste des disciplines psychiques](./Disciplines psychiques.md).*
+*Voir la [[Disciplines psychiques|liste des disciplines psychiques]].*
 
 {s:Reference|DETECTIONDEPENSEES}
 #### Détection de pensées (Mag)
-Au niveau 2, un psychiste peut utiliser, une fois par jour, la [détection de pensées] sous forme de pouvoir magique. Il peut également dépenser un emplacement de sort inutilisé de niveau 1 ou supérieur pour lancer le sort détection de pensées. Le cas échéant, il utilise le niveau de l’emplacement de sort dépensé pour déterminer le [DD](./DD.md) du jet de Volonté. Quand
+Au niveau 2, un psychiste peut utiliser, une fois par jour, la [[détection de pensées]] sous forme de pouvoir magique. Il peut également dépenser un emplacement de sort inutilisé de niveau 1 ou supérieur pour lancer le sort détection de pensées. Le cas échéant, il utilise le niveau de l’emplacement de sort dépensé pour déterminer le [[DD]] du jet de Volonté. Quand
 un psychiste qui connaît déjà ce sort obtient cette aptitude, il peut apprendre un sort différent de niveau 1 à la place de détection de pensées.
 
 {s:Reference|LIENTELEPATHIQUE}
@@ -475,7 +475,7 @@ Par exemple, si le psychiste connaît Extension de durée, il peut utiliser un e
 #### Amplifications majeures
 Au niveau 11 et tous les 4 niveaux par la suite, un psychiste choisit l’une des amplifications majeures à la place d’une amplification phrénique.
 
-*Voir la [liste des amplifications majeures](./Amplifications phréniques.md#AMPLIFICATIONSMAJEURES).*
+*Voir la [[Amplifications phréniques#AMPLIFICATIONSMAJEURES|liste des amplifications majeures]].*
 
 {s:Reference|TELEPATHIE}
 #### Télépathie (Sur)
@@ -484,6 +484,6 @@ une langue et située à 30 mètres ou moins. Il est possible de communiquer ave
 
 {s:Reference|MANIPULATIONDUSOI}
 #### Manipulation du soi (Mag)
-Au niveau 20, le psychiste est affecté par l’un des sorts suivants sous forme de pouvoir magique constant : *[antidétection](./Antidétection.md)*, *[don des langues](./Don des langues.md)*, *[héroïsme](./Héroïsme.md)*, *[vision magique](./Vision magique.md)* ou *[vol](./sort Vol.md)*.
+Au niveau 20, le psychiste est affecté par l’un des sorts suivants sous forme de pouvoir magique constant : *[[antidétection]]*, *[[don des langues]]*, *[[héroïsme]]*, *[[vision magique]]* ou *[[sort vol|vol]]*.
 
 Le psychiste choisit ce pouvoir quand il atteint le niveau 20 et ne peut plus en changer par la suite. Quand il est sous l’effet de ce pouvoir magique et chaque fois qu’il lance un sort psychique, il peut lier à ce sort une amplification phrénique ou majeure de son répertoire dont le coût en point de réserve phrénique s’élève à 1 sans dépenser le moindre point. Cette amplification vient en plus de la limite maximale d’une amplification par sort.

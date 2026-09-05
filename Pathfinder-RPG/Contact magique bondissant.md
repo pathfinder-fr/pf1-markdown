@@ -10,6 +10,6 @@ Categories:
 
 {s:mca}*Le personnage peut étendre son allonge pour toucher des ennemis qui seraient normalement trop loin de lui.*
 
-**Conditions.** 6 [rangs](./rang.md) en [Art de la magie](./Art de la magie.md).
+**Conditions.** 6 [[rang|rangs]] en [[Art de la magie]].
 
-**Avantage.** Le personnage peut augmenter l’allonge des attaques de contact au corps à corps de ses sorts de 1,50 mètre jusqu’à la fin de son tour en recevant un malus de -2 à la [CA](./CA.md) jusqu’à son tour suivant. Il doit décider de l’utilisation de ce pouvoir avant de tenter la moindre attaque lors de son tour.
+**Avantage.** Le personnage peut augmenter l’allonge des attaques de contact au corps à corps de ses sorts de 1,50 mètre jusqu’à la fin de son tour en recevant un malus de -2 à la [[CA]] jusqu’à son tour suivant. Il doit décider de l’utilisation de ce pouvoir avant de tenter la moindre attaque lors de son tour.

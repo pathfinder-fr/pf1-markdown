@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#VIERENOUVELEE
 ---
 
->>> [Pouvoirs de rage#VIERENOUVELEE](./Pouvoirs de rage.md#VIERENOUVELEE)
+>>> [[Pouvoirs de rage#VIERENOUVELEE]]

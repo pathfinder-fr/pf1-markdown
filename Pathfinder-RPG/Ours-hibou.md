@@ -14,21 +14,21 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.236}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 10, pris au dépourvu 14 (Dex +1, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 47 (5d10+20)}
 {s:BDTexte|**Réf** +5, **Vig** +10, **Vol** +2}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** 2 griffes, +8 (1d6+4 et [étreinte](./Étreinte.md)), morsure, +8 (1d6+4)}
+{s:BDTexte|**Corps à corps** 2 griffes, +8 (1d6+4 et [[étreinte]]), morsure, +8 (1d6+4)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 12, **Con** 18, **Int** 2, **Sag** 12, **Cha** 10}
-{s:BDTexte|**BBA** +5, **BMO** +10 (+14 [lutte](./lutte.md)), **DMD** 21 (25 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +12}
+{s:BDTexte|**BBA** +5, **BMO** +10 (+14 [[lutte]]), **DMD** 21 (25 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Perception]] +12}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-8)}

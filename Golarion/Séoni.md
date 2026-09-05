@@ -21,9 +21,9 @@ Comme beaucoup d'autres choses, Séoni garde ses motivations secrètes ; on peut
 {s:BDTitre|Séoni|(niveau 1)}
 - Humaine (f) ensorceleuse 1
 - Humanoïde (humaine) de taille M, LN
-- **Divinité** [Pharasma](./Pharasma.md)
-- **Origine** [Varisie](./Varisie.md)
-- **Init** +2 ; **Sens** [Perception](./../Pathfinder-RPG/Perception.md) +3
+- **Divinité** [[Pharasma]]
+- **Origine** [[Varisie]]
+- **Init** +2 ; **Sens** [[Pathfinder-RPG.Perception|Perception]] +3
 (((Défense)))
 - **CA** 13, **contact** 13, **dépourvu** 10 (Dex +2, esquive +1)
 - **pv** 8
@@ -33,8 +33,8 @@ Comme beaucoup d'autres choses, Séoni garde ses motivations secrètes ; on peut
 - **Corps à corps** bâton +0 (1d6–1)
 - **Distance** dague +2 (1d4–1/19–20)
 - **Sorts connus** (NLS 1, concentration +4)
-  - 1e (4/jour) — *[armure de mage](./../Pathfinder-RPG/Armure de mage.md), [projectile magique](./../Pathfinder-RPG/Projectile magique.md)*
-  - 0 (à volonté) — *[aspersion acide](./../Pathfinder-RPG/Aspersion acide.md), [détection de la magie](./../Pathfinder-RPG/Détection de la magie.md), [illumination](./../Pathfinder-RPG/Illumination.md)* (DD 14), *[lecture de la magie](./../Pathfinder-RPG/Lecture de la magie.md)*
+  - 1e (4/jour) — *[[Pathfinder-RPG.armure de mage|armure de mage]], [[Pathfinder-RPG.projectile magique|projectile magique]]*
+  - 0 (à volonté) — *[[Pathfinder-RPG.aspersion acide|aspersion acide]], [[Pathfinder-RPG.détection de la magie|détection de la magie]], [[Pathfinder-RPG.illumination|illumination]]* (DD 14), *[[Pathfinder-RPG.lecture de la magie|lecture de la magie]]*
   - **Lignage** profane
 </div>
 </center>
@@ -44,8 +44,8 @@ Comme beaucoup d'autres choses, Séoni garde ses motivations secrètes ; on peut
 (((Caractéristiques)))
 - **For** 8, **Dex** 14, **Con** 12, **Int** 10, **Sag** 13, **Cha** 17
 - **BBA** +0 ; **BMO** –1 ; **DMD** 12
-- **Don** [Dispense de composantes matérielles](./../Pathfinder-RPG/Dispense de composantes matérielles.md), [École renforcée](./../Pathfinder-RPG/École renforcée.md) (invocation), [Esquive](./../Pathfinder-RPG/Esquive.md), [Vigilance](./../Pathfinder-RPG/Vigilance.md)
-- **Compétences** [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) +4, [Bluff](./../Pathfinder-RPG/Bluff.md) +7, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (plans) +4, [Escalade](./../Pathfinder-RPG/Escalade.md) +2, [Psychologie](./../Pathfinder-RPG/Psychologie.md) +3, [Perception](./../Pathfinder-RPG/Perception.md) +3
+- **Don** [[Pathfinder-RPG.Dispense de composantes matérielles|Dispense de composantes matérielles]], [[Pathfinder-RPG.École renforcée|École renforcée]] (invocation), [[Pathfinder-RPG.Esquive|Esquive]], [[Pathfinder-RPG.Vigilance|Vigilance]]
+- **Compétences** [[Pathfinder-RPG.Art de la magie|Art de la magie]] +4, [[Pathfinder-RPG.Bluff|Bluff]] +7, [[Pathfinder-RPG.Connaissances|Connaissances]] (plans) +4, [[Pathfinder-RPG.Escalade|Escalade]] +2, [[Pathfinder-RPG.Psychologie|Psychologie]] +3, [[Pathfinder-RPG.Perception|Perception]] +3
 - **Particularités** familier (scinques à queue bleue appelé Dragon)
 - **Langues** commun, varisien
 - **Équipement de combat** bâton fumigène, sacoche immobilisante ; **Autre équipement** dague, bâton, sac à dos, bâton lumineux (5), rations (4), 27 po

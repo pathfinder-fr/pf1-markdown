@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.238}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 14 (Dex +1, naturelle +4)}
 {s:BDTexte|**pv** 22 (3d8+9)}
@@ -28,15 +28,15 @@ Categories:
 {s:BDTexte|**Attaques spéciales** attirer (filament, 3 m (2 {s:c}))}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 12, **Con** 17, **Int** -, **Sag** 10, **Cha** 4}
-{s:BDTexte|**BBA** +2, **BMO** +5 (+9 pour attirer), **DMD** 16 (28 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +11}
+{s:BDTexte|**BBA** +2, **BMO** +5 (+9 pour attirer), **DMD** 16 (28 contre [[croc-en-jambe]])}
+{s:BDTexte|**Compétences** [[Escalade]] +11}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Attirer (Ext).** Les pêcheurs des grottes bénéficient d'un bonus racial de +4 aux tests de manoeuvre de combat relatifs à l'attaque spéciale "[Attirer](./Attirer.md)".}
-{s:BDTexte|**Filament (Ext).** Par une [Action simple](./Action simple.md), un pêcheur des grottes peut lancer un fin filament de soie gluante. Il s'agit d'une [attaque de contact à distance](./attaque de contact à distance.md) avec une portée de 18 m (12 {s:c}). Si le filament gluant touche une créature, il s'attache à elle. Cette dernière peut utiliser une [action simple](./Action simple.md) pour tenter d'arracher le filament en réussissant un test de [Force](./Force.md) de [DD](./DD.md) 20. Elle peut également essayer de s'en libérer avec un test d'[Évasion](./Évasion.md) de [DD](./DD.md) 25. Le filament à un [CA](./CA.md) de 14 ([CA](./CA.md) de contact de 12), 5 points de vie et une [RD](./RD.md) 15/tranchant. Si on y applique un liquide à haute teneur en alcool (ou une dose de *[solvant universel](./Solvant universel.md)*), l'adhésif se dissout et la créature touchée par le filament est libérée. Un pêcheur des grottes ne peut maintenir qu'un seul filament à la fois.}
+{s:BDTexte|**Attirer (Ext).** Les pêcheurs des grottes bénéficient d'un bonus racial de +4 aux tests de manoeuvre de combat relatifs à l'attaque spéciale "[[Attirer]]".}
+{s:BDTexte|**Filament (Ext).** Par une [[Action simple]], un pêcheur des grottes peut lancer un fin filament de soie gluante. Il s'agit d'une [[attaque de contact à distance]] avec une portée de 18 m (12 {s:c}). Si le filament gluant touche une créature, il s'attache à elle. Cette dernière peut utiliser une [[action simple]] pour tenter d'arracher le filament en réussissant un test de [[Force]] de [[DD]] 20. Elle peut également essayer de s'en libérer avec un test d'[[Évasion]] de [[DD]] 25. Le filament à un [[CA]] de 14 ([[CA]] de contact de 12), 5 points de vie et une [[RD]] 15/tranchant. Si on y applique un liquide à haute teneur en alcool (ou une dose de *[[solvant universel]]*), l'adhésif se dissout et la créature touchée par le filament est libérée. Un pêcheur des grottes ne peut maintenir qu'un seul filament à la fois.}
 </div>
 </td><td><div>''Cette sorte de crabe monstrueux de la taille d’un humain s’agrippe à la
 paroi de pierre et brandit d’énormes pinces devant lui.''

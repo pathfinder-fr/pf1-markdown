@@ -11,8 +11,8 @@ Categories:
 
 {s:uc}*Le personnage sait à quel point il est important de soigner les blessures quand le combat fait rage et administre les premiers soins à ses alliés à une telle vitesse que personne n’est laissé pour compte.*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Condition.** 5 rangs en [Premiers secours](./Premiers secours.md)
+**Condition.** 5 rangs en [[Premiers secours]]
 
-**Avantage.** Quand le personnage utilise [Premiers secours](./Premiers secours.md) pour apporter une aide d’urgence, soigner les blessures dues à une chausse-trappe ou guérir un [empoisonnement](./poison.md) chez un allié qui possède aussi ce don, il ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md) et peut [faire 10](./faire 10.md) au test. Contrairement aux autres dons de travail en équipe, les alliés [paralysés](./Paralysé.md), [étourdis](./Étourdi.md), [inconscients](./Inconscient.md) ou incapables d’agir sont pris en compte pour faire fonctionner le don.
+**Avantage.** Quand le personnage utilise [[Premiers secours]] pour apporter une aide d’urgence, soigner les blessures dues à une chausse-trappe ou guérir un [[poison|empoisonnement]] chez un allié qui possède aussi ce don, il ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]] et peut [[faire 10]] au test. Contrairement aux autres dons de travail en équipe, les alliés [[paralysé|paralysés]], [[étourdi|étourdis]], [[inconscient|inconscients]] ou incapables d’agir sont pris en compte pour faire fonctionner le don.

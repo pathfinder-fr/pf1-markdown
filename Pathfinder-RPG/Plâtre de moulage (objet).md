@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pa ; **Poids** 2,5 kg ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Cette poudre blanche et sèche se mélange avec de l’eau pour former une pâte qui se solidifie en l’espace d’une heure et crée un matériau solide. On peut l’utiliser pour mouler des empreintes de pas ou faire des sculptures, pour combler les trous ou les brèches d’un mur ou (si elle est appliquée par-dessus un bandage) pour créer un plâtre pour un os cassé. Le plâtre solidifié a une [solidité](./solidité.md) de 1 et 5 points de vie par tranche de 2,5 centimètres d’épaisseur. Un pot de plâtre de 2,5 kg peut couvrir une surface plane d’environ 1,50 mètre de côté sur une épaisseur de 2,5 centimètres, mouler cinq avant-bras ou jambes de taille M, un bras ou une jambe complets de taille M ou deux fois plus de membres pour une créature de taille P.
+Cette poudre blanche et sèche se mélange avec de l’eau pour former une pâte qui se solidifie en l’espace d’une heure et crée un matériau solide. On peut l’utiliser pour mouler des empreintes de pas ou faire des sculptures, pour combler les trous ou les brèches d’un mur ou (si elle est appliquée par-dessus un bandage) pour créer un plâtre pour un os cassé. Le plâtre solidifié a une [[solidité]] de 1 et 5 points de vie par tranche de 2,5 centimètres d’épaisseur. Un pot de plâtre de 2,5 kg peut couvrir une surface plane d’environ 1,50 mètre de côté sur une épaisseur de 2,5 centimètres, mouler cinq avant-bras ou jambes de taille M, un bras ou une jambe complets de taille M ou deux fois plus de membres pour une créature de taille P.

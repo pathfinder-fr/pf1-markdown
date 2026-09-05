@@ -12,14 +12,14 @@ Categories:
 
 {s:uc}*L’esprit du dragon se concentre dans le personnage avant d’en sortir dans un puissant rugissement. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 15, [Science du combat à mains nues](./Science du combat à mains nues.md), [École du dragon](./École du dragon.md), [Coup étourdissant](./Coup étourdissant.md), 8 rangs en [Acrobaties](./Acrobaties.md)
+**Conditions.** [[For]] 15, [[Science du combat à mains nues]], [[École du dragon]], [[Coup étourdissant]], 8 rangs en [[Acrobaties]]
 
-**Avantage.** Le personnage a droit à un [Coup étourdissant](./Coup étourdissant.md) de plus par jour. Quand il utilise l’[École du dragon](./École du dragon.md), il peut, par une [action simple](./Action simple.md), dépenser deux tentatives de [Coup étourdissant](./Coup étourdissant.md) pour pousser un rugissement tonitruant dans un [cône](./cône.md) de 4,50 m (3 {s:c}). Les créatures situées dans le cône subissent les dégâts de l’attaque à mains nues du personnage et sont [secouées](./Secoué.md) pendant 1d4 rounds. Jet de [Volonté](./Volonté.md), ([DD](./DD.md) 10 + 1/2 niveau de personnage + modificateur de [Sagesse](./Sagesse.md)) 1/2 dégâts et pas [secoué](./Secoué.md).
+**Avantage.** Le personnage a droit à un [[Coup étourdissant]] de plus par jour. Quand il utilise l’[[École du dragon]], il peut, par une [[action simple]], dépenser deux tentatives de [[Coup étourdissant]] pour pousser un rugissement tonitruant dans un [[cône]] de 4,50 m (3 {s:c}). Les créatures situées dans le cône subissent les dégâts de l’attaque à mains nues du personnage et sont [[secoué|secouées]] pendant 1d4 rounds. Jet de [[Volonté]], ([[DD]] 10 + 1/2 niveau de personnage + modificateur de [[Sagesse]]) 1/2 dégâts et pas [[secoué]].
 
-**Spécial.** Si le personnage sait utiliser le [Poing élémentaire](./Poing élémentaire.md), il peut dépenser une utilisation quotidienne pour infliger les dégâts du Poing élémentaire aux créatures situées dans le cône. Ces dégâts ne sont pas réduits de moitié, même en cas de [jet de sauvegarde](./jet de sauvegarde.md) réussi.
+**Spécial.** Si le personnage sait utiliser le [[Poing élémentaire]], il peut dépenser une utilisation quotidienne pour infliger les dégâts du Poing élémentaire aux créatures situées dans le cône. Ces dégâts ne sont pas réduits de moitié, même en cas de [[jet de sauvegarde]] réussi.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Au lieu de dépenser deux utilisations de [Coup étourdissant](./Coup étourdissant.md) pour pousser un rugissement tonitruant, le personnage peut dépenser une unique utilisation et 5 points d’endurance.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Au lieu de dépenser deux utilisations de [[Coup étourdissant]] pour pousser un rugissement tonitruant, le personnage peut dépenser une unique utilisation et 5 points d’endurance.

@@ -7,24 +7,24 @@ Categories:
 ---
 
 {s:MR}
-**Race.** [aquatiques](./aquatique (race).md).
+**Race.** [[aquatique (race)|aquatiques]].
 
 *Le couteau de mer est une arme à manche long et à lame courte. Il est conçu pour être porté à la cheville ou au pied du porteur, la lame vers le bas, pour prolonger sa jambe.*
 
 **Avantages.** Le couteau de mer peut être utilisé comme une arme de corps à corps légère lorsque le porteur nage, vole ou est à terre. Cela lui permet d’utiliser une arme à deux mains, ou de manier une arme à une main et de porter un bouclier, tout en effectuant des attaques au couteau de mer de sa main non-directrice. Les attaques portées avec un couteau de mer reçoivent un malus de circonstances de -2 aux jets d’attaque, en plus de tous les autres malus.
 
-Enfiler ou retirer un couteau de mer nécessite une [action complexe](./Action complexe.md).
+Enfiler ou retirer un couteau de mer nécessite une [[action complexe]].
 
 **Note.** Le porteur ne peut pas se servir de la jambe à laquelle est attaché le couteau de mer pour marcher ou pour courir.
 
 {| CLASS="tablo centre"
 |- CLASS="titre"
-| [Arme de guerre](./Caractéristiques des armes.md#ARMEDEGUERRE) || Prix || Dégâts (P) || Dégâts (M) || [Critique](./Tableau récapitulatif des armes.md#CRITIQUE) || [Facteur de portée](./Tableau récapitulatif des armes.md#FACTEURDEPORTEE) || Poids <sup>([1](./Tableau récapitulatif des armes.md#NOTE1))</sup> || [Type](./Tableau récapitulatif des armes.md#TYPE) <sup>([2](./Tableau récapitulatif des armes.md#NOTE2))</sup> || Spécial
+| [[Caractéristiques des armes#ARMEDEGUERRE|Arme de guerre]] || Prix || Dégâts (P) || Dégâts (M) || [[Tableau récapitulatif des armes#CRITIQUE|Critique]] || [[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]] || Poids <sup>([[Tableau récapitulatif des armes#NOTE1|1]])</sup> || [[Tableau récapitulatif des armes#TYPE|Type]] <sup>([[Tableau récapitulatif des armes#NOTE2|2]])</sup> || Spécial
 |- class="premier"
 | Couteau de mer || 8 po || 1d3 || 1d4 || 19-20/×2 || — || 0,5 kg || T || —
 |}
 
 {s:VoirAussiAvant}
-- [Race aquatiques](./aquatique (race).md)
-- [Manuel des races](./../Golarion/Publications.md#RECUEILRACES)
+- [[aquatique (race)|Race aquatiques]]
+- [[Publications#RECUEILRACES|Manuel des races]]
 {s:VoirAussiAprès}

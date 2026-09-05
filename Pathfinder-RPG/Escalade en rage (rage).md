@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#ESCALADEENRAGE
 ---
 
->>> [pouvoirs de rage#ESCALADEENRAGE](./Pouvoirs de rage.md#ESCALADEENRAGE)
+>>> [[pouvoirs de rage#ESCALADEENRAGE]]

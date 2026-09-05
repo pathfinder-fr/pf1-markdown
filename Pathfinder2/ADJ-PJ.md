@@ -10,11 +10,11 @@ LastModified: 2025-12-11 17:29
 <i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
 </div>
 <div class="contenumenuPF2">
-[Règles](./ADJ.md)
-[Personnages](./ADJ-PJ.md)
-[Pour les MJ](./ADJ-MJ.md)
-[FoundryVTT](./ADJ-FVTT.md)
-[Liens](./ADJ-Liens.md)
+[[ADJ|Règles]]
+[[ADJ-PJ|Personnages]]
+[[ADJ-MJ|Pour les MJ]]
+[[ADJ-FVTT|FoundryVTT]]
+[[ADJ-Liens|Liens]]
 </div>
 </div>
 <nav class="wiki-toc"></nav>
@@ -31,8 +31,8 @@ LastModified: 2025-12-11 17:29
 
 {s:ItemPF2|Feuille orientée paysage|Disponible en [version couleur](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/PF2CSv9.pdf) et en [version NB](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/PF2CSv9NB.pdf) ; par Dalvyn|/Wiki/public/Upload/ADJ/PF2/PF2CSv9.pdf|/Wiki/public/Upload/ADJ/PF2/PF2CSv9.jpg}
 
-{s:ItemPF2|Google Sheet|Google Sheet par FireAndStone, traduite par Pathfinder-FR : [lien](https://docs.google.com/spreadsheets/d/1NiAnhgtLXGFTt4P-u7YIb5MMDk9A1nB7rw_U~~aOdoI/edit?usp=sharing)  
-Voir **IMPORTANT** ci-dessus !|https://docs.google.com/spreadsheets/d/1NiAnhgtLXGFTt4P-u7YIb5MMDk9A1nB7rw_U~~aOdoI/edit|/Wiki/public/Upload/ADJ/PF2/GS-FireAndStone.jpg}
+{s:ItemPF2|Google Sheet|Google Sheet par FireAndStone, traduite par Pathfinder-FR : [lien](https://docs.google.com/spreadsheets/d/1NiAnhgtLXGFTt4P-u7YIb5MMDk9A1nB7rw_U%2D-aOdoI/edit?usp=sharing)  
+Voir **IMPORTANT** ci-dessus !|https://docs.google.com/spreadsheets/d/1NiAnhgtLXGFTt4P-u7YIb5MMDk9A1nB7rw_U--aOdoI/edit|/Wiki/public/Upload/ADJ/PF2/GS-FireAndStone.jpg}
 
 {s:ItemPF2|Google Sheet|Google Sheet par scientificbruno, traduite et étendue par eyrafr : [version jusqu'au niveau 10](https://docs.google.com/spreadsheets/d/1sB-hZhbl0BGWvl66Fat4e-3A3Wi_8LX4VxmexKeX5jo/edit) ou [version jusqu'au niveau 20](https://docs.google.com/spreadsheets/d/1bI9Gv4Q2FpOi7uK-PPAIunQhTjIZm194NFmp-eZakSc/edit)  
 Voir **IMPORTANT** ci-dessus !|https://docs.google.com/spreadsheets/d/1sB-hZhbl0BGWvl66Fat4e-3A3Wi_8LX4VxmexKeX5jo/edit|/Wiki/public/Upload/ADJ/PF2/GS-scientificbruno.jpg}
@@ -57,7 +57,7 @@ Version [PDF éditable](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2
 
 <div class="itemmenu">
 
-{s:ItemPF2|Feuille officielle|En [fichier PDF](.//Wiki/public/Upload/ADJ/PF2/PF2-Fillable-pdf.md) modifiable|/Wiki/public/Upload/ADJ/PF2/PF2 Fillable.pdf|/Wiki/public/Upload/ADJ/PF2/PF2 Fillable.jpg}
+{s:ItemPF2|Feuille officielle|En [[/Wiki/public/Upload/ADJ/PF2/PF2 Fillable.pdf|fichier PDF]] modifiable|/Wiki/public/Upload/ADJ/PF2/PF2 Fillable.pdf|/Wiki/public/Upload/ADJ/PF2/PF2 Fillable.jpg}
 
 {s:ItemPF2|Google Sheet|par Charon : [Lien](https://docs.google.com/spreadsheets/d/1-9Nr0Qi5CMQxj3Z3tAHXR8UmSisuFOOp9OsgIxh0sMs/edit)  
 Voir **IMPORTANT** ci-dessus |https://docs.google.com/spreadsheets/d/1-9Nr0Qi5CMQxj3Z3tAHXR8UmSisuFOOp9OsgIxh0sMs/edit|/Wiki/public/Upload/ADJ/PF2/GS-Charon.jpg}
@@ -68,16 +68,16 @@ Voir **IMPORTANT** ci-dessus !|https://docs.google.com/spreadsheets/d/1mlO-_Bl2w
 {s:ItemPF2|Feuille simplifiée|Google Sheet [lien](https://docs.google.com/spreadsheets/d/1Y5VqbDiDXxaX3MKRpiTdzGtPoJzrTTeF6NByvjHpEDE/edit) par scientificbruno  
 Voir **IMPORTANT** ci-dessus !|https://docs.google.com/spreadsheets/d/1Y5VqbDiDXxaX3MKRpiTdzGtPoJzrTTeF6NByvjHpEDE/edit|/Wiki/public/Upload/ADJ/PF2/GS-scientificbrunoENsimple.jpg}
 
-{s:ItemPF2|Feuille rétro|par BlueJay64 : [fichier PDF](.//Wiki/public/Upload/ADJ/PF2/Custom-Retro-Sheet-Ver2_4-pdf.md) modifiable|/Wiki/public/Upload/ADJ/PF2/Custom Retro Sheet Ver2_4.pdf|/Wiki/public/Upload/ADJ/PF2/Custom Retro Sheet Ver2_4.jpg}
+{s:ItemPF2|Feuille rétro|par BlueJay64 : [[/Wiki/public/Upload/ADJ/PF2/Custom Retro Sheet Ver2_4.pdf|fichier PDF]] modifiable|/Wiki/public/Upload/ADJ/PF2/Custom Retro Sheet Ver2_4.pdf|/Wiki/public/Upload/ADJ/PF2/Custom Retro Sheet Ver2_4.jpg}
 
 </div>
 
 ### Guides et sites pour la création de personnages
 
 <div class="itemmenu">
-{s:ItemPF2|Résumé des étapes|Par Enrique : [fichier PDF](.//Wiki/public/Upload/ADJ/PF2/creapersoPF2-pdf.md)|/Wiki/public/Upload/ADJ/PF2/creapersoPF2.pdf|/Wiki/public/Upload/ADJ/PF2/creapersoPF2.jpg}
+{s:ItemPF2|Résumé des étapes|Par Enrique : [[/Wiki/public/Upload/ADJ/PF2/creapersoPF2.pdf|fichier PDF]]|/Wiki/public/Upload/ADJ/PF2/creapersoPF2.pdf|/Wiki/public/Upload/ADJ/PF2/creapersoPF2.jpg}
 
-{s:ItemPF2|Ascendances|Résumé des ascendances par Mr.Fred : [fichier PDF](.//Wiki/public/Upload/ADJ/PF2/pf2e-ascendances-pdf.md)|/Wiki/public/Upload/ADJ/PF2/pf2e-ascendances.pdf|/Wiki/public/Upload/ADJ/PF2/pf2e-ascendances.jpg}
+{s:ItemPF2|Ascendances|Résumé des ascendances par Mr.Fred : [[/Wiki/public/Upload/ADJ/PF2/pf2e-ascendances.pdf|fichier PDF]]|/Wiki/public/Upload/ADJ/PF2/pf2e-ascendances.pdf|/Wiki/public/Upload/ADJ/PF2/pf2e-ascendances.jpg}
 
 {s:ItemPF2|Pathbuilder 2|[Site](https://pathbuilder2e.com/) de création et de gestion des PJ (aussi disponible en version app mobile)|https://pathbuilder2e.com/|/Wiki/public/Upload/ADJ/PF2/pathbuilder2.jpg}
 
@@ -87,16 +87,16 @@ Voir **IMPORTANT** ci-dessus !|https://docs.google.com/spreadsheets/d/1Y5VqbDiDX
 
 ### Personnages prétirés en français
 
-Merci à Azmanül pour avoir traduit et mis en page les prétirés suivants ! L'ensemble des personnages niveau 1 est téléchargeable [ici](.//Wiki/public/Upload/ADJ/PF2/Personnages-pré-tirés-niv1-PF2-zip.md). Pour les fiches individuelles :
-- [Amiri](./{UP}/ADJ/PF2/Amiri-niv1-pdf.md), barbare niveau 1
-- [Ezren](.//Wiki/public/Upload/ADJ/PF2/Ezren-niv1-pdf.md), magicien niveau 1
-- [Fumbus](.//Wiki/public/Upload/ADJ/PF2/Fumbus-niv1-pdf.md), alchimiste niveau 1
-- [Harsk](.//Wiki/public/Upload/ADJ/PF2/Harsk-niv1-pdf.md), rôdeur niveau 1
-- [Kyra](.//Wiki/public/Upload/ADJ/PF2/Kyra-niv1-pdf.md), prêtresse niveau 1
-- [Lem](./{UP}/ADJ/PF2/Lem-niv1-pdf.md), barde niveau 1
-- [Lini](.//Wiki/public/Upload/ADJ/PF2/Lini-niv1-pdf.md), druide niveau 1
-- [Mérisiel](.//Wiki/public/Upload/ADJ/PF2/Merisiel-niv1-pdf.md), roublarde niveau 1
-- [Sajan](.//Wiki/public/Upload/ADJ/PF2/Sajan-niv1-pdf.md), moine niveau 1
-- [Seelah](.//Wiki/public/Upload/ADJ/PF2/Seelah-niv1-pdf.md), championne niveau 1
-- [Séoni](.//Wiki/public/Upload/ADJ/PF2/Séoni-niv1-pdf.md), ensorceleuse niveau 1
-- [Valéros](.//Wiki/public/Upload/ADJ/PF2/Valeros-niv1-pdf.md), guerrier niveau 1
+Merci à Azmanül pour avoir traduit et mis en page les prétirés suivants ! L'ensemble des personnages niveau 1 est téléchargeable [[/Wiki/public/Upload/ADJ/PF2/Personnages pré-tirés niv1 PF2.zip|ici]]. Pour les fiches individuelles :
+- [[{UP}/ADJ/PF2/Amiri niv1.pdf|Amiri]], barbare niveau 1
+- [[/Wiki/public/Upload/ADJ/PF2/Ezren niv1.pdf|Ezren]], magicien niveau 1
+- [[/Wiki/public/Upload/ADJ/PF2/Fumbus niv1.pdf|Fumbus]], alchimiste niveau 1
+- [[/Wiki/public/Upload/ADJ/PF2/Harsk niv1.pdf|Harsk]], rôdeur niveau 1
+- [[/Wiki/public/Upload/ADJ/PF2/Kyra niv1.pdf|Kyra]], prêtresse niveau 1
+- [[{UP}/ADJ/PF2/Lem niv1.pdf|Lem]], barde niveau 1
+- [[/Wiki/public/Upload/ADJ/PF2/Lini niv1.pdf|Lini]], druide niveau 1
+- [[/Wiki/public/Upload/ADJ/PF2/Merisiel niv1.pdf|Mérisiel]], roublarde niveau 1
+- [[/Wiki/public/Upload/ADJ/PF2/Sajan niv1.pdf|Sajan]], moine niveau 1
+- [[/Wiki/public/Upload/ADJ/PF2/Seelah niv1.pdf|Seelah]], championne niveau 1
+- [[/Wiki/public/Upload/ADJ/PF2/Séoni niv1.pdf|Séoni]], ensorceleuse niveau 1
+- [[/Wiki/public/Upload/ADJ/PF2/Valeros niv1.pdf|Valéros]], guerrier niveau 1

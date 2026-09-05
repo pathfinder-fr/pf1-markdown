@@ -13,15 +13,15 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.254*}
 {s:BDTexte|**PX** 38 400}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille Gig, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +3}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille Gig, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 30, contact 6, pris au dépourvu 30 (naturelle +24, taille -4)}
 {s:BDTexte|**pv** 218 (19d10+114)}
 {s:BDTexte|**Réf** +11, **Vig** +12, **Vol** +14}
 {s:BDTexte|**Immunités** effets mentaux, poison, son ; **Résistances** acide 20 ; **RM** 25}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 6 m, [vol](./Vol (capacité).md) 15 m (bonne)}
+{s:BDTexte|**VD** 6 m, [[Vol (capacité)|vol]] 15 m (bonne)}
 {s:BDTexte|**Corps à corps** morsure, +25 (2d8+10) et 2 coups, +25 (2d6+10) et dard, +25 (2d6+10 plus poison)}
 {s:BDTexte|**Distance** cire collante, +15 contact (enchâssement)}
 {s:BDTexte|**Espace occupé** 6 m ; **Allonge** 6 m}
@@ -29,17 +29,17 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 30, **Dex** 11, **Con** 22, **Int** —, **Sag** 17, **Cha** 13}
 {s:BDTexte|**BBA** +19 ; **BMO** +33 ; **DMD** 43}
-{s:BDTexte|**Compétences** [Vol](./Vol.md) +2 ; **Modificateurs raciaux** +4 en Vol}
+{s:BDTexte|**Compétences** [[Vol]] +2 ; **Modificateurs raciaux** +4 en Vol}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation** solitaire, couple ou troupe (1 plus 6-15 soldats thriaesB3)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Consommation de mérope (Sur).** Trois fois par jour et par une [action simple](./Action simple.md), la bâtisseuse thriae peut consommer une dose de [mérope](./Thriae.md#MÉROPE_THRIAE_0). Ensuite, elle peut lancer sa cire avec une force dévastatrice pendant 1d4 [rounds](./round.md). Dès le round suivant la consommation de mérope, son attaque de cire collante inflige 6d6+8 points de dégâts en cas d’attaque réussie, en plus de l’effet d’enchâssement.}
-{s:BDTexte|**Enchâssement (Ext).** Une bâtisseuse thriae produit de grandes quantités de cire adhésive à séchage rapide. Si elle touche une créature avec sa cire collante, la victime doit réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 25, sans quoi elle se retrouve enchâssée dans une boule de cire. Si elle réussit son jet, elle est [enchevêtrée](./Enchevêtré.md) mais, en dehors de cela, elle peut agir normalement. En revanche, si elle est enchâssée, elle est [immobilisée](./Immobilisé.md) et incapable d’utiliser des sorts à composante verbale. Au premier round d’enchâssement, la victime peut tenter un test de [Force](./Force.md) [DD](./DD.md) 25 pour se dégager de la cire. Si elle échoue, elle est sans défense lors des [rounds](./round.md) suivants et ne peut plus tenter de se libérer. Si une créature frappe la boule de cire collante avec une attaque naturelle, elle doit réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 25 pour ne pas se retrouver engluée. Une créature engluée ne peut plus s’éloigner de la boule de cire ni utiliser le membre collé tant qu’elle ne s’est pas libérée mais, en dehors de cela, elle peut agir normalement. Si une créature frappe la boule de cire avec une arme manufacturée, elle doit réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 25, sans quoi son arme reste engluée. La cire collante a une solidité de 5, 100 points de vie et une vulnérabilité au feu. Le DD des [jets de sauvegarde](./JDS.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Poison (Ext).** Dard— blessure ; *JdS* Vig DD 25 ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d6 For plus [fiévreux](./Fiévreux.md) ; *guérison* 2 JdS consécutifs. Le DD du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Consommation de mérope (Sur).** Trois fois par jour et par une [[action simple]], la bâtisseuse thriae peut consommer une dose de [[Thriae#MÉROPE_THRIAE_0|mérope]]. Ensuite, elle peut lancer sa cire avec une force dévastatrice pendant 1d4 [[round|rounds]]. Dès le round suivant la consommation de mérope, son attaque de cire collante inflige 6d6+8 points de dégâts en cas d’attaque réussie, en plus de l’effet d’enchâssement.}
+{s:BDTexte|**Enchâssement (Ext).** Une bâtisseuse thriae produit de grandes quantités de cire adhésive à séchage rapide. Si elle touche une créature avec sa cire collante, la victime doit réussir un jet de [[Réflexes]] [[DD]] 25, sans quoi elle se retrouve enchâssée dans une boule de cire. Si elle réussit son jet, elle est [[enchevêtré|enchevêtrée]] mais, en dehors de cela, elle peut agir normalement. En revanche, si elle est enchâssée, elle est [[immobilisé|immobilisée]] et incapable d’utiliser des sorts à composante verbale. Au premier round d’enchâssement, la victime peut tenter un test de [[Force]] [[DD]] 25 pour se dégager de la cire. Si elle échoue, elle est sans défense lors des [[round|rounds]] suivants et ne peut plus tenter de se libérer. Si une créature frappe la boule de cire collante avec une attaque naturelle, elle doit réussir un jet de [[Réflexes]] [[DD]] 25 pour ne pas se retrouver engluée. Une créature engluée ne peut plus s’éloigner de la boule de cire ni utiliser le membre collé tant qu’elle ne s’est pas libérée mais, en dehors de cela, elle peut agir normalement. Si une créature frappe la boule de cire avec une arme manufacturée, elle doit réussir un jet de [[Réflexes]] [[DD]] 25, sans quoi son arme reste engluée. La cire collante a une solidité de 5, 100 points de vie et une vulnérabilité au feu. Le DD des [[jds|jets de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Poison (Ext).** Dard— blessure ; *JdS* Vig DD 25 ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d6 For plus [[fiévreux]] ; *guérison* 2 JdS consécutifs. Le DD du jet de sauvegarde est basé sur la [[Constitution]].}
 </div></td>
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [thriae](./Thriae.md).***</li></ul>*Un bourdonnement incessant accompagne cette immense créature mifemme mi-abeille aux ailes d’insecte.*
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Thriae]].***</li></ul>*Un bourdonnement incessant accompagne cette immense créature mifemme mi-abeille aux ailes d’insecte.*
 
 Les thriaes mêlent les caractéristiques physiques d’une belle humanoïde à celles d’une abeille géante. Dans l’ensemble, elles forment une race sage, érudite et spirituelle. Cependant, contrairement aux autres thriaes, les bâtisseuses ne sont ni des philosophes, ni des oracles, ce sont des ouvrières décérébrées dirigées par leur instinct. Mais malgré leur absence d’intelligence, ces énormes créatures sont dotées d’un sens de l’architecture et de la construction encore plus poussé que celui des abeilles et, en un sens, leurs instincts architecturaux surpassent même les plus grandes inspirations humaines. Les autres thriaes, en particulier les individus de haut rang, sont passées expertes dans l’art de diriger ces bâtisseuses et de les atteler aux travaux qui profiteront au mieux à la communauté. En période de paix, les bâtisseuses s’affairent à construire la ruche, à l’agrandir et à la rénover, tout en renforçant ses fortifications. Si leur ruche est menacée, elles se jettent sur leurs ennemis et les enchâssent dans les sécrétions de cire adhésive qu’elles utilisent d’ordinaire pour bâtir leur demeure. Si leurs ennemis se montrent particulièrement résistants, elles multiplient leurs attaques et recourent à leur vicieux venin.
 

@@ -6,4 +6,4 @@ LastModified: 2011-01-09 13:33
 
 {s:MenuTypes}*Source : Bestiaire* p.313
 
-Ces créatures n’ont pas de corps matériel. Elles sont immunisées contre les coups critiques et les dégâts de précision (comme ceux des attaques sournoises), à moins que les attaques en question ne soient portées à l’aide d’une arme *spectrale*. Les créatures du sous-type « intangible » ont la [particularité](./Intangible (capacité).md) du même nom.
+Ces créatures n’ont pas de corps matériel. Elles sont immunisées contre les coups critiques et les dégâts de précision (comme ceux des attaques sournoises), à moins que les attaques en question ne soient portées à l’aide d’une arme *spectrale*. Les créatures du sous-type « intangible » ont la [[Intangible (Capacité)|particularité]] du même nom.

@@ -8,13 +8,13 @@ Categories:
 - Src Codex monstrueux
 ---
 
-**Cette option est plus courante chez les [trolls](./Troll.md).**
+**Cette option est plus courante chez les [[Troll|trolls]].**
 
 <div class="BD">
 {s:BDTitre|Cape du roi troll|{s:CM}}
-**Aura** [Évocation](./Évocation.md) faible  ; **NLS** 5 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 9 000 po ; **Poids** 1 kg
+**Aura** [[Évocation]] faible  ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 9 000 po ; **Poids** 1 kg
 (((Description)))
-Cette longue cape est un patchwork de peaux de bêtes et d’humanoïdes grossièrement assemblées. Une pièce grossière de couleur jaune et en forme de couronne est cousue dans le dos tandis qu’une corde en chanvre nouée permet de fixer la cape autour du cou du porteur. Le porteur gagne un bonus de compétence de +5 aux tests d’[Intimidation](./Intimidation.md) ainsi que le pouvoir magique de *[mains brûlantes](./Mains brûlantes.md)* trois fois par jour.
+Cette longue cape est un patchwork de peaux de bêtes et d’humanoïdes grossièrement assemblées. Une pièce grossière de couleur jaune et en forme de couronne est cousue dans le dos tandis qu’une corde en chanvre nouée permet de fixer la cape autour du cou du porteur. Le porteur gagne un bonus de compétence de +5 aux tests d’[[Intimidation]] ainsi que le pouvoir magique de *[[mains brûlantes]]* trois fois par jour.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[frayeur](./Frayeur.md)*, *[mains brûlantes](./Mains brûlantes.md)*  ; **Coût** 4 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[frayeur]]*, *[[mains brûlantes]]*  ; **Coût** 4 500 po
 </div>

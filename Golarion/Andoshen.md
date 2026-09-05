@@ -7,6 +7,6 @@ Categories:
 - Géographie
 ---
 
-L'Andoshen est un fleuve du centre de l'[Andoran](./Andoran.md). Il traverse le pays depuis les contreforts de la chaîne des [Cinq Rois](./Cinq Rois.md) jusqu'à la [mer Intérieure](./mer Intérieure.md).
+L'Andoshen est un fleuve du centre de l'[[Andoran]]. Il traverse le pays depuis les contreforts de la chaîne des [[Cinq Rois]] jusqu'à la [[mer Intérieure]].
 
-Il traverse la cité d'[Almas](./Almas.md), capitale de l'[Andoran](./Andoran.md).
+Il traverse la cité d'[[Almas]], capitale de l'[[Andoran]].

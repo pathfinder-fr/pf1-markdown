@@ -8,4 +8,4 @@ Categories:
 RedirectTo: AP13-Idrian Vosner
 ---
 
->>> [AP13-Idrian Vosner](./AP13-Idrian Vosner.md)
+>>> [[AP13-Idrian Vosner]]

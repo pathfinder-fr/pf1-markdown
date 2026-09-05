@@ -11,30 +11,30 @@ Categories:
 <div class="BD">
 {s:BDTitre|Grand insecte tueur|FP 5}
 {s:pucem|Vermine|Désert|Tropical}
-{s:BDTexte|*Source : [Bestiaire 5 p.156](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.156]]*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Vermine|Vermine]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 14, pris au dépourvu 14 (Dex +4, naturelle +4)}
 {s:BDTexte|**pv** 52 (7d8+21)}
 {s:BDTexte|**Réf** +6, **Vig** +8, **Vol** +3}
 {s:BDTexte|**Immunités** effets mentaux}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 12 m, [vol](./Vol (capacité).md) 12 m (déplorable)}
+{s:BDTexte|**VD** 12 m, [[Vol (capacité)|vol]] 12 m (déplorable)}
 {s:BDTexte|**Corps à corps** morsure, +10 (1d6+5 plus poison) et 2 griffes, +10 (1d4+5)}
 {s:BDTexte|**Attaques spéciales** flot de poison, poison}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 19, **Con** 17, **Int** —, **Sag** 12, **Cha** 2}
-{s:BDTexte|**BBA** +5 ; **BMO** +10 ; **DMD** 24 (32 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +8, [Perception](./Perception.md) +5, [Vol](./Vol.md) -4 ; **Modificateurs raciaux** +4 en Discrétion, +4 en Perception}
+{s:BDTexte|**BBA** +5 ; **BMO** +10 ; **DMD** 24 (32 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +8, [[Perception]] +5, [[Vol]] -4 ; **Modificateurs raciaux** +4 en Discrétion, +4 en Perception}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** régions chaudes}
 {s:BDTexte|**Organisation** solitaire ou nid (2-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Flot de poison (Ext).** Par une [action simple](./Action simple.md) utilisable tous les 1d4 rounds, un insecte tueur peut cracher du poison sur une ligne de 4,50 mètres. Les créatures situées dans cette zone doivent chacune réussir un jet de [Réflexes](./Réflexes.md) DD 17 pour ne pas être exposées au poison de l’insecte tueur. Le DD du jet de sauvegarde est basé sur la Dextérité.}
-{s:BDTexte|**Poison (Ext).** Morsure — blessure : *JdS* [Vigueur](./Vigueur.md) DD 16 ; *fréquence* 1/ round pendant 4 rounds ; *effet* 1d4 [Dextérité](./Dextérité.md) ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Flot de poison (Ext).** Par une [[action simple]] utilisable tous les 1d4 rounds, un insecte tueur peut cracher du poison sur une ligne de 4,50 mètres. Les créatures situées dans cette zone doivent chacune réussir un jet de [[Réflexes]] DD 17 pour ne pas être exposées au poison de l’insecte tueur. Le DD du jet de sauvegarde est basé sur la Dextérité.}
+{s:BDTexte|**Poison (Ext).** Morsure — blessure : *JdS* [[Vigueur]] DD 16 ; *fréquence* 1/ round pendant 4 rounds ; *effet* 1d4 [[Dextérité]] ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -43,9 +43,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Grand insecte tueur](./Grand insecte tueur.md) || 5
+| [[Grand insecte tueur]] || 5
 |-
-| [Insecte tueur géant](./Insecte tueur géant.md) || 3
+| [[Insecte tueur géant]] || 3
 |}
 </div>*Cet énorme insecte est doté de longues mandibules, d’un lourd thorax bulbeux et d’yeux luisants qui lui donnent un air renfrogné.*
 

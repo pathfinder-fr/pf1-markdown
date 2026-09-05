@@ -9,6 +9,6 @@ Categories:
 
 {s:MR}*Le pouvoir coule dans les veines du drow, lui conférant de plus grands talents magiques.*
 
-**Conditions requises.** : [Drow](./Drow (race).md), capacité à utiliser les pouvoirs magiques drow.
+**Conditions requises.** : [[Drow (race)|Drow]], capacité à utiliser les pouvoirs magiques drow.
 
-**Avantage.** Le drow peut utiliser le pouvoir magique de *[détection de la magie](./Détection de la magie.md)* à volonté, et rajoute les pouvoirs magiques de *[feuille morte](./Feuille morte.md)* et de *[lévitation](./Lévitation.md)* à ceux qu’il peut utiliser une fois par jour. Son niveau de lanceur de sorts est égal à son niveau.
+**Avantage.** Le drow peut utiliser le pouvoir magique de *[[détection de la magie]]* à volonté, et rajoute les pouvoirs magiques de *[[feuille morte]]* et de *[[lévitation]]* à ceux qu’il peut utiliser une fois par jour. Son niveau de lanceur de sorts est égal à son niveau.

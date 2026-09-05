@@ -30,22 +30,22 @@ Il possède les caractéristiques suivantes :
 C’est une dimension faiblement éclairée qui borde le plan Matériel et coexiste avec lui. Elle chevauche ce plan comme le fait le plan Éthéré et les voyageurs planaires l’utilisent donc pour couvrir rapidement de grandes distances. Le plan de l’Ombre est également adjacent à d’autres plans. Si le personnage dispose du sort adapté, il peut se servir de ce plan pour visiter d’autres réalités. Le plan de l’Ombre est un monde en noir et blanc où la couleur semble avoir été drainée de tout le paysage. En dehors de cela, il ressemble fort au plan Matériel. En dépit du manque de sources lumineuses, ce plan abrite diverses plantes, animaux et humanoïdes.
 
 Le plan de l’Ombre possède les caractéristiques suivantes :
-- **Morphique magique.** Des sections du plan de l’Ombre se fondent constamment dans d’autres plans, il est donc pratiquement impossible de créer une carte précise de ce plan, malgré la présence de points de repère paysagers. De plus, certains sorts comme *[convocation d’ombres](./Convocation dombres.md)* et *[magie des ombres](./Magie des ombres.md)* permettent de
+- **Morphique magique.** Des sections du plan de l’Ombre se fondent constamment dans d’autres plans, il est donc pratiquement impossible de créer une carte précise de ce plan, malgré la présence de points de repère paysagers. De plus, certains sorts comme *[[convocation dombres|convocation d’ombres]]* et *[[magie des ombres]]* permettent de
 modifier la matière première du plan. L’utilité et la puissance de ces sorts quand on les lance dans ce plan en fait un atout pour les explorateurs comme pour les indigènes.
 - **Alignement légèrement Neutre**
-- **Magie améliorée.** Les sorts du [registre](./Registre.md) de l’ombre sont améliorés quand on les utilise dans le plan de l’Ombre. De plus, quelques sorts spécifiques voient leur puissance augmenter. Les sorts *[convocation d’ombres](./Convocation dombres.md)* et *[magie des ombres](./Magie des ombres.md)* ont 30% de la puissance du sort qu’ils imitent (au lieu de 20%). *[Convocation d’ombres suprême](./Convocation dombres suprême.md)* et *[magie des ombres suprême](./Magie des ombres suprême.md)* ont 70% de puissance (au lieu de 60%) et les *[reflets d’ombre](./Reflets dombre.md)* invoquent 90% de la puissance de l’original (au lieu de 80%). Même si le plan est très sombre de nature, les sorts qui produisent, utilisent ou manipulent les ténèbres ne sont pas affectés.
-- **Magie entravée.** Le plan de l’Ombre entrave les sorts du [registre](./Registre.md) de la lumière et ceux qui utilisent ou produisent de la lumière ou du feu. Les sorts qui produisent de la lumière voient leur efficacité diminuer car, dans ce plan, la portée de toutes les sources de lumière est divisée par deux.
+- **Magie améliorée.** Les sorts du [[registre]] de l’ombre sont améliorés quand on les utilise dans le plan de l’Ombre. De plus, quelques sorts spécifiques voient leur puissance augmenter. Les sorts *[[convocation dombres|convocation d’ombres]]* et *[[magie des ombres]]* ont 30% de la puissance du sort qu’ils imitent (au lieu de 20%). *[[Convocation dombres suprême|Convocation d’ombres suprême]]* et *[[magie des ombres suprême]]* ont 70% de puissance (au lieu de 60%) et les *[[reflets dombre|reflets d’ombre]]* invoquent 90% de la puissance de l’original (au lieu de 80%). Même si le plan est très sombre de nature, les sorts qui produisent, utilisent ou manipulent les ténèbres ne sont pas affectés.
+- **Magie entravée.** Le plan de l’Ombre entrave les sorts du [[registre]] de la lumière et ceux qui utilisent ou produisent de la lumière ou du feu. Les sorts qui produisent de la lumière voient leur efficacité diminuer car, dans ce plan, la portée de toutes les sources de lumière est divisée par deux.
 
 
 {s:Reference|PLANÉNERGIENÉGATIVE}
 ### Le plan de l’Énergie négative
-Pour un observateur, il y a très peu de choses à voir sur le plan de l’Énergie négative. C’est un endroit sombre et vide, un puits éternel où les voyageurs peuvent tomber sans fin, jusqu’à ce que le plan leur vole tout lumière et toute vie. Le plan de l’Énergie négative est le plus hostile des plans intérieurs, le plus intolérant et le plus indifférent à la vie. Seules les créatures immunisées contre l’[absorption d’énergie](./absorption dénergie.md) peuvent y survivre.
+Pour un observateur, il y a très peu de choses à voir sur le plan de l’Énergie négative. C’est un endroit sombre et vide, un puits éternel où les voyageurs peuvent tomber sans fin, jusqu’à ce que le plan leur vole tout lumière et toute vie. Le plan de l’Énergie négative est le plus hostile des plans intérieurs, le plus intolérant et le plus indifférent à la vie. Seules les créatures immunisées contre l’[[absorption dénergie|absorption d’énergie]] peuvent y survivre.
 
 Voici les caractéristiques du plan de l’Énergie négative :
 - **Gravité subjective**
 - **Dominante négative majeure.** Certaines zones du plan sont seulement à dominante négative mineure et sont souvent habitées.
-- **Magie améliorée.** Les sorts et pouvoirs magiques qui utilisent l’énergie négative sont améliorés. Les pouvoirs de classes qui l’utilisent également, comme la [canalisation](./canalisation.md) d’énergie négative, bénéficient d’un bonus de +4 au [DD](./DD.md) pour leur résister.
-- **Magie entravée.** Les sorts et pouvoirs magiques qui utilisent l’énergie positive (y compris les sorts de soin) sont entravés. Les personnages qui se trouvent sur ce plan reçoivent un malus de ‑10 aux [jets de sauvegarde](./JDS.md) destinés à se débarrasser des [niveaux négatifs](./niveau négatif.md) qui résultent d’une attaque qui [absorbe l’énergie](./absorption dénergie.md).
+- **Magie améliorée.** Les sorts et pouvoirs magiques qui utilisent l’énergie négative sont améliorés. Les pouvoirs de classes qui l’utilisent également, comme la [[canalisation]] d’énergie négative, bénéficient d’un bonus de +4 au [[DD]] pour leur résister.
+- **Magie entravée.** Les sorts et pouvoirs magiques qui utilisent l’énergie positive (y compris les sorts de soin) sont entravés. Les personnages qui se trouvent sur ce plan reçoivent un malus de ‑10 aux [[jds|jets de sauvegarde]] destinés à se débarrasser des [[niveau négatif|niveaux négatifs]] qui résultent d’une attaque qui [[absorption dénergie|absorbe l’énergie]].
 
 
 {s:Reference|PLANÉNERGIEPOSITIVE}
@@ -55,7 +55,7 @@ Ce plan n’a pas de surface solide et ressemble au plan de l’Air, lui aussi t
 Voici les caractéristiques du plan de l’Énergie positive :
 - **Gravité subjective**
 - **Dominante positive majeure.** Certaines zones du plan sont seulement à dominante positive mineure et sont souvent habitées.
-- **Magie améliorée.** Les sorts et pouvoirs magiques qui utilisent l’énergie positive sont améliorés. Les pouvoirs de classes qui l’utilisent également, comme la [canalisation d’énergie positive](./canalisation.md), bénéficient d’un bonus de +4 au [DD](./DD.md) pour leur résister.
+- **Magie améliorée.** Les sorts et pouvoirs magiques qui utilisent l’énergie positive sont améliorés. Les pouvoirs de classes qui l’utilisent également, comme la [[canalisation|canalisation d’énergie positive]], bénéficient d’un bonus de +4 au [[DD]] pour leur résister.
 - **Magie entravée.** Les sorts et pouvoirs magiques qui utilisent l’énergie négative (y compris les sorts de blessure) sont entravés.
 
 
@@ -120,7 +120,7 @@ Le plan Astral possède les caractéristiques suivantes :
 - **Gravité subjective**
 - **Intemporel.** L’âge, la faim, la soif, les afflictions (comme les maladies, les malédictions ou les poisons) et la guérison naturelle ne s’appliquent pas dans le plan Astral mais reprennent leur fonctionnement normal dès que le voyageur quitte ce plan.
 - **Alignement légèrement Neutre**
-- **Magie améliorée.** Dans le plan Astral, tous les sorts et pouvoirs magiques fonctionnent comme s’ils bénéficiaient du don [Incantation rapide](./Incantation rapide.md) ou [Pouvoir magique rapide](./Pouvoir magique rapide.md). Les sorts qui profitent déjà de ces dons ne sont pas affectés, pas plus que ceux issus d’objets magiques. Les sorts ainsi accélérés se préparent et se lancent sans modification de niveau. Comme avec le don, on ne peut lancer qu’un sort ou pouvoir magique rapide par round.
+- **Magie améliorée.** Dans le plan Astral, tous les sorts et pouvoirs magiques fonctionnent comme s’ils bénéficiaient du don [[Incantation rapide]] ou [[Pouvoir magique rapide]]. Les sorts qui profitent déjà de ces dons ne sont pas affectés, pas plus que ceux issus d’objets magiques. Les sorts ainsi accélérés se préparent et se lancent sans modification de niveau. Comme avec le don, on ne peut lancer qu’un sort ou pouvoir magique rapide par round.
 
 
 {s:Reference|ABADDON}
@@ -147,7 +147,7 @@ Voici les caractéristiques des Abysses:
 
 {s:Reference|ÉLYSÉE}
 ### L’Élysée (Chaotique Bon)
-Vaste étendue sauvage indomptée où se déchaînent les passions, l’Élysée est le plan du chaos bienveillant. La liberté et l’autonomie y abondent, personnifiées par les [azatas](./Azata.md), les indigènes de ce plan. La coopération désintéressée et la compétition farouche se heurtent toujours avec la violence d’une tempête rugissante mais ces conflits n’éclipsent jamais les nobles concepts de bravoure, de créativité et de bienveillance, libérés des règles et des lois.
+Vaste étendue sauvage indomptée où se déchaînent les passions, l’Élysée est le plan du chaos bienveillant. La liberté et l’autonomie y abondent, personnifiées par les [[Azata|azatas]], les indigènes de ce plan. La coopération désintéressée et la compétition farouche se heurtent toujours avec la violence d’une tempête rugissante mais ces conflits n’éclipsent jamais les nobles concepts de bravoure, de créativité et de bienveillance, libérés des règles et des lois.
 
 Voici les caractéristiques de l’Élysée :
 - **Morphique divine.** Les divinités qui possèdent un domaine en Élysée peuvent modifier le plan à volonté.
@@ -158,7 +158,7 @@ Voici les caractéristiques de l’Élysée :
 
 {s:Reference|PARADIS}
 ### Le Paradis (Loyal Bon)
-L’immense montagne du Paradis domine la sphère extérieure de toute sa hauteur. Ce royaume bien ordonné, fait d’honneur et de compassion, se divise en sept strates. Ses pentes sont couvertes de villes bien rangées et bien agencées et de vergers et de jardins cultivés. Les habitants du paradis, les [archons](./Archon.md), commencèrent leur vie en tant que mortels et considèrent le bien et la loi comme les deux moitiés indivisibles du même concept exalté. Ils luttent contre les perversions cosmiques que sont le chaos et le mal.
+L’immense montagne du Paradis domine la sphère extérieure de toute sa hauteur. Ce royaume bien ordonné, fait d’honneur et de compassion, se divise en sept strates. Ses pentes sont couvertes de villes bien rangées et bien agencées et de vergers et de jardins cultivés. Les habitants du paradis, les [[Archon|archons]], commencèrent leur vie en tant que mortels et considèrent le bien et la loi comme les deux moitiés indivisibles du même concept exalté. Ils luttent contre les perversions cosmiques que sont le chaos et le mal.
 
 Voici les caractéristiques du Paradis :
 - **Morphique divine.** Les divinités qui possèdent un domaine au Paradis peuvent modifier le plan à volonté.
@@ -169,7 +169,7 @@ Voici les caractéristiques du Paradis :
 
 {s:Reference|ENFERS}
 ### Les Enfers (Loyal Mauvais)
-Les neuf niveaux des Enfers forment un labyrinthe structuré de mal calculé où les tourments vont de pair avec la purification. Plan fait de cités de fer, d’étendues brûlantes, de glaciers gelés et de pics volcaniques sans fin, les Enfers se divisent en neuf strates imbriquées, chacune dirigée par un archidiable maléfique. La torture, l’angoisse et l’agonie sont choses inévitables aux Enfers mais elles sont appliquées de façon méthodique, pas par rancoeur ou caprice, et servent un plan d’ensemble délibéré, sous le regard attentif des rangs bien disciplinés des [diables](./Diable.md) inférieurs. Du premier au dernier, les niveaux des Enfers sont l’Avernus, Dis, l’Érébus, le Phlégethon, la Stygie, le Malbolge, le Cocyte, la Caina et le Nessus.
+Les neuf niveaux des Enfers forment un labyrinthe structuré de mal calculé où les tourments vont de pair avec la purification. Plan fait de cités de fer, d’étendues brûlantes, de glaciers gelés et de pics volcaniques sans fin, les Enfers se divisent en neuf strates imbriquées, chacune dirigée par un archidiable maléfique. La torture, l’angoisse et l’agonie sont choses inévitables aux Enfers mais elles sont appliquées de façon méthodique, pas par rancoeur ou caprice, et servent un plan d’ensemble délibéré, sous le regard attentif des rangs bien disciplinés des [[Diable|diables]] inférieurs. Du premier au dernier, les niveaux des Enfers sont l’Avernus, Dis, l’Érébus, le Phlégethon, la Stygie, le Malbolge, le Cocyte, la Caina et le Nessus.
 
 Voici les caractéristiques des Enfers :
 - **Morphique divine.** Les divinités qui possèdent un domaine dans les Abysses peuvent modifier le plan à volonté.
@@ -180,7 +180,7 @@ Voici les caractéristiques des Enfers :
 
 {s:Reference|LIMBES}
 ### Les Limbes (Chaotique Neutre)
-Ce vaste océan de chaos irrépressible et de potentiel inexploité entoure chaque plan extérieur et leur est adjacent. Ce sont les Limbes : belles, mortelles et infinies. Tous les autres plans naquirent de leurs profondeurs insondables et toute la création finira par retourner dans leurs entrailles anarchiques. Là où la mer des Limbes lèche les rives des autres plans, sa substance revêt une certaine stabilité et c’est là qu’il est le plus sûr de se déplacer, même si ces frontières sont tout de même bien dangereuses à cause des habitants des Limbes déformés par le chaos. Plus à l’intérieur du plan, les [protéens](./Protéen.md) cabriolent dans le désordre primitif, créant et détruisant la matière brute du chaos auquel ils s’abandonnent entièrement.
+Ce vaste océan de chaos irrépressible et de potentiel inexploité entoure chaque plan extérieur et leur est adjacent. Ce sont les Limbes : belles, mortelles et infinies. Tous les autres plans naquirent de leurs profondeurs insondables et toute la création finira par retourner dans leurs entrailles anarchiques. Là où la mer des Limbes lèche les rives des autres plans, sa substance revêt une certaine stabilité et c’est là qu’il est le plus sûr de se déplacer, même si ces frontières sont tout de même bien dangereuses à cause des habitants des Limbes déformés par le chaos. Plus à l’intérieur du plan, les [[protéen|protéens]] cabriolent dans le désordre primitif, créant et détruisant la matière brute du chaos auquel ils s’abandonnent entièrement.
 
 Voici les caractéristiques des Limbes :
 - **Gravité subjective et normale.** La gravité a de grandes chances d’être normale sur les rares îlots de stabilité des Limbes (c’est à dire dirigée vers le centre de la masse). Ailleurs, elle est subjective.
@@ -192,7 +192,7 @@ Voici les caractéristiques des Limbes :
 
 {s:Reference|NIRVANA}
 ### Le Nirvana (Neutre Bon)
-Le Nirvana est un paradis impartial qui existe entre les deux extrêmes que sont l’Élysée et le paradis. Ses montagnes époustouflantes, ses collines moutonnantes et ses profondes forêts correspondent à ce que les visiteurs attendent d’un paradis pastoral mais il contient également des mystères qui mènent vers l’illumination. Le Nirvana est un sanctuaire et un lieu de répit pour tous ceux qui cherchent la rédemption ou l’illumination. Les [agathions](./Agathion.md), les natifs du Nirvana, ont volontairement repoussé leur propre transcendance pour protéger les énigmes de leur plan tandis que des êtres célestes combattent les forces du mal à travers tous les plans.
+Le Nirvana est un paradis impartial qui existe entre les deux extrêmes que sont l’Élysée et le paradis. Ses montagnes époustouflantes, ses collines moutonnantes et ses profondes forêts correspondent à ce que les visiteurs attendent d’un paradis pastoral mais il contient également des mystères qui mènent vers l’illumination. Le Nirvana est un sanctuaire et un lieu de répit pour tous ceux qui cherchent la rédemption ou l’illumination. Les [[agathion|agathions]], les natifs du Nirvana, ont volontairement repoussé leur propre transcendance pour protéger les énigmes de leur plan tandis que des êtres célestes combattent les forces du mal à travers tous les plans.
 
 Voici les caractéristiques du Nirvana :
 - **Morphique divine.** Les divinités qui possèdent un domaine dans le Nirvana peuvent modifier le plan à volonté.
@@ -203,10 +203,10 @@ Voici les caractéristiques du Nirvana :
 
 {s:Reference|PURGATOIRE}
 ### Le Purgatoire (Neutre)
-Toutes les âmes passent par le Purgatoire où elles sont jugées avant d’être envoyées vers leur destination finale dans le Grand Au‑delà. Ses étendues sinistres sont pleines de cimetières et de terrains abandonnés, ainsi que de cours poussiéreuses où sont jugés les morts. Le Purgatoire est le foyer des [aéons](./Aéon.md), des créatures qui incarnent la nature duale de l’existence et qui sont toujours à la fois en guerre et en paix entre eux et contre leur propre personne.
+Toutes les âmes passent par le Purgatoire où elles sont jugées avant d’être envoyées vers leur destination finale dans le Grand Au‑delà. Ses étendues sinistres sont pleines de cimetières et de terrains abandonnés, ainsi que de cours poussiéreuses où sont jugés les morts. Le Purgatoire est le foyer des [[Aéon|aéons]], des créatures qui incarnent la nature duale de l’existence et qui sont toujours à la fois en guerre et en paix entre eux et contre leur propre personne.
 
 Voici les caractéristiques du Purgatoire :
-- **Intemporel.** L’âge, la faim, la soif, les afflictions (comme les [maladies](./maladie.md), les malédictions ou les [poisons](./poison.md)) et la guérison naturelle ne s’appliquent pas au Purgatoire mais reprennent leur fonctionnement normal dès que le voyageur quitte ce plan.
+- **Intemporel.** L’âge, la faim, la soif, les afflictions (comme les [[maladie|maladies]], les malédictions ou les [[poison|poisons]]) et la guérison naturelle ne s’appliquent pas au Purgatoire mais reprennent leur fonctionnement normal dès que le voyageur quitte ce plan.
 - **Morphique divine.** Les divinités qui possèdent un domaine dans le Purgatoire peuvent modifier le plan à volonté.
 - **Fort alignement Neutre**
 - **Magie améliorée.** Les sorts et pouvoirs magiques du registre de la mort ou issus des domaines de la Mort et du Repos sont améliorés.
@@ -214,7 +214,7 @@ Voici les caractéristiques du Purgatoire :
 
 {s:Reference|UTOPIE}
 ### L’Utopie (Loyal Neutre)
-L’Utopie est un bastion de l’ordre qui se dresse contre le chaos des Limbes et les innombrables légions démoniaques des Abysses. Grande ville de perfection éternelle, Utopie possède des rues et des bâtiments parangons de l’architecture et de l’esthétique, où tout est ordonné et rien ne se produit par hasard. Même si aucune race ne règne sur Utopie, les [axiomites](./Axiomite.md) et les [inévitables](./Inévitable.md) s’y installent et cherchent éternellement à étendre leur ville parfaite.
+L’Utopie est un bastion de l’ordre qui se dresse contre le chaos des Limbes et les innombrables légions démoniaques des Abysses. Grande ville de perfection éternelle, Utopie possède des rues et des bâtiments parangons de l’architecture et de l’esthétique, où tout est ordonné et rien ne se produit par hasard. Même si aucune race ne règne sur Utopie, les [[axiomite|axiomites]] et les [[inévitable|inévitables]] s’y installent et cherchent éternellement à étendre leur ville parfaite.
 
 Voici les caractéristiques de l’Utopie :
 - **Forme finie**

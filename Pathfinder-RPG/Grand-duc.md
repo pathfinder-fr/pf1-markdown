@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p. 51*}
 {s:BDTexte|**PX** 200 px}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +5 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 13 (Dex +2, naturelle +2, taille +1)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -26,9 +26,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 15, **Con** 13, **Int** 2, **Sag** 15, **Cha** 6}
 {s:BDTexte|**BBA** +0, **BMO** -2, **DMD** 10}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Perception](./Perception.md) +10, [Vol](./Vol.md) +8}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md), +4 en [Perception](./Perception.md), +4 en [Vol](./Vol.md)}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Perception]] +10, [[Vol]] +8}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Discrétion]], +4 en [[Perception]], +4 en [[Vol]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
@@ -42,11 +42,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Chouette](./Chouette.md) || 1/3
+| Familier, [[Chouette]] || 1/3
 |-
-| [Chouette géante](./Chouette géante.md) || 5
+| [[Chouette géante]] || 5
 |-
-| [Grand-duc](./Grand-duc.md) || 1/2
+| [[Grand-duc]] || 1/2
 |}
 </div>*Ce hibou aux plumes grises et blanches a des ailes duveteuses et une grosse tête qui le fait paraître plus grand que la plupart des hiboux.*
 
@@ -58,7 +58,7 @@ Vous pouvez appliquer l’archétype simple « jeune » pour obtenir un profil c
 
 #### Le Hibou comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 3 m (2 {s:c}), vol 24 m (16 {s:c}, moyenne); **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 serres (1d4) ; **Caractéristiques** For 10, Dex 15, Con 12, Int 2, Sag 14, Cha 6 ; **Particularités** [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 3 m (2 {s:c}), vol 24 m (16 {s:c}, moyenne); **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 serres (1d4) ; **Caractéristiques** For 10, Dex 15, Con 12, Int 2, Sag 14, Cha 6 ; **Particularités** [[vision nocturne]].
 
 **Développement au niveau 4.** **Caractéristiques** For +2, Con +2.
 

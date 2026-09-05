@@ -7,7 +7,7 @@ Categories:
 - Src Dieux et magie
 ---
 
-{s:GeM}**Prix** 25 po ; **Poids** — ; **Divinité associée** [Dieu de la nature](./../Golarion/Gozreh.md)
-<span class="Catégorie">**Catégorie** [Focalisateurs de canalisation](./Focalisateurs de canalisation.md)</span>
+{s:GeM}**Prix** 25 po ; **Poids** — ; **Divinité associée** [[Golarion.Gozreh|Dieu de la nature]]
+<span class="Catégorie">**Catégorie** [[Focalisateurs de canalisation]]</span>
 ---
-C’est une icône faite à la main représentant un personnage humain. Lorsqu’elle est activée et qu’une fleur est placée dans la niche, l’icône confère à son porteur un bonus de chance de +1 à sa [CA](./CA.md) pendant 1 heure, mais uniquement contre les attaques à distance.
+C’est une icône faite à la main représentant un personnage humain. Lorsqu’elle est activée et qu’une fleur est placée dans la niche, l’icône confère à son porteur un bonus de chance de +1 à sa [[CA]] pendant 1 heure, mais uniquement contre les attaques à distance.

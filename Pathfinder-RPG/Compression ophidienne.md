@@ -9,6 +9,6 @@ Categories:
 
 {s:cm}*L’homme-serpent peut se faufiler dans les espaces étroits grâce à ses écailles glissantes et à sa musculature très souple.*
 
-**Conditions.** [Homme-lézard](./Homme-lézard.md)
+**Conditions.** [[Homme-lézard]]
 
-**Avantages.** L’homme-serpent gagne le pouvoir universel de monstre de [compression](./Compression (capacité).md), qui lui permet de se faufiler dans les espaces faisant le quart de l’espace qu’il occupe sans avoir besoin de se serrer, et dans les espaces faisant le huitième de l’espace qu’il occupe en se serrant.
+**Avantages.** L’homme-serpent gagne le pouvoir universel de monstre de [[compression (capacité)|compression]], qui lui permet de se faufiler dans les espaces faisant le quart de l’espace qu’il occupe sans avoir besoin de se serrer, et dans les espaces faisant le huitième de l’espace qu’il occupe en se serrant.

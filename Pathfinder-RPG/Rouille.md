@@ -10,13 +10,13 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 4, [Occ](./Occultiste.md) 4  
+**École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 4, [[Occultiste|Occ]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** 1 objet ferreux non-magique (ou une partie seulement, jusqu’à 90 cm du point de contact) ou 1 créature ferreuse  
 
@@ -26,8 +26,8 @@ Categories:
 
 Le personnage peut faire rouiller le métal d’un simple contact. Tout métal ferrugineux (fer ou alliage à base de fer) qu’il touche s’oxyde immédiatement : il perd son tranchant, se troue en divers endroits et devient inutile. Si l’objet touché est particulièrement grand (par exemple une porte ou un mur de fer), le sort l’affecte seulement jusqu’à 90 cm du point de contact (tout le volume compris à moins d’un mètre de la main du personnage est détruit). Les métaux magiques sont immunisés contre rouille.
 
-On peut utiliser ce sort en combat. Pour cela, il suffit de réussir une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md) contre la créature choisie. Dans ce cas, rouille enlève automatiquement 1d6 points de [CA](./CA.md) à l’ armure métallique de la cible (dans la limite du nombre de points de [CA](./CA.md) fournis par l’armure).
+On peut utiliser ce sort en combat. Pour cela, il suffit de réussir une [[attaque de contact au corps à corps]] contre la créature choisie. Dans ce cas, rouille enlève automatiquement 1d6 points de [[CA]] à l’ armure métallique de la cible (dans la limite du nombre de points de [[CA]] fournis par l’armure).
 
-Il est plus difficile d’affecter l’arme d’un ennemi. Le personnage doit réussir une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md) contre l’arme. S’il touche, l’arme est instantanément détruite. Cette attaque provoque instantanément une [attaque d’opportunité](./attaque dopportunité.md). C’est le lanceur de sorts qui doit toucher l’arme, et non l’inverse.
+Il est plus difficile d’affecter l’arme d’un ennemi. Le personnage doit réussir une [[attaque de contact au corps à corps]] contre l’arme. S’il touche, l’arme est instantanément détruite. Cette attaque provoque instantanément une [[attaque dopportunité|attaque d’opportunité]]. C’est le lanceur de sorts qui doit toucher l’arme, et non l’inverse.
 
-*Rouille* inflige 3d6 points de dégâts, +1 par [niveau de lanceur de sorts](./NLS.md) (jusqu’à un maximum de +15) aux créatures ferreuses. Cette version du sort dure 1 [round](./round.md) par [niveau](./niveau.md) et le personnage peut tenter une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md) par [round](./round.md).
+*Rouille* inflige 3d6 points de dégâts, +1 par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de +15) aux créatures ferreuses. Cette version du sort dure 1 [[round]] par [[niveau]] et le personnage peut tenter une [[attaque de contact au corps à corps]] par [[round]].

@@ -10,7 +10,7 @@ LastModified: 2021-04-03 19:32
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 61*}
 - **4 800 PX**
-- [Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille G, LM
+- [[type extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type loi|Loi]], [[sous-type mal|Mal]]) de taille G, LM
 - **Init **+7 ; **Sens **détection de l’invisibilité, vision dans le noir 18 m, vision dans les ténèbres ; Perception +17
 - **Aura **aura pesante (3 m, DD 18)
 (((Défense)))
@@ -25,15 +25,15 @@ LastModified: 2021-04-03 19:32
 - **Espace **3 m ; **Allonge **3 m
 - **Attaques spéciales** noyade, poison
 - **Pouvoirs magiques** (**NLS **12 ; concentration +16)
-  - *Constant* — [détection de l’invisibilité](./Détection de linvisibilité.md), [respiration aquatique](./Respiration aquatique.md)
-  - *À volonté *— [contrôle de l’eau](./Contrôle de leau.md), [détection du mensonge](./Détection du mensonge.md), [malédiction de l’eau](./Malédiction de leau.md), [poussée hydraulique](./Poussée hydraulique.md), [téléportation suprême](./Téléportation suprême.md) (lui plus 25kg d’objets seulement)
-  - *3/jour* — [poison](./poison.md) (DD18), [protection contre le Bien](./Protection contre le Bien.md), [torrent hydraulique](./Torrent hydraulique.md)
+  - *Constant* — [[détection de linvisibilité|détection de l’invisibilité]], [[respiration aquatique]]
+  - *À volonté *— [[contrôle de leau|contrôle de l’eau]], [[détection du mensonge]], [[malédiction de leau|malédiction de l’eau]], [[poussée hydraulique]], [[téléportation suprême]] (lui plus 25kg d’objets seulement)
+  - *3/jour* — [[poison]] (DD18), [[protection contre le Bien]], [[torrent hydraulique]]
   - *1/jour* —  convocation (niveau 4, 1 diable de la noyade, 35%), liberté de mouvement 
 (((Statistiques)))
 - **For **20, **Dex **25, **Con **23, **Int **16, **Sag **20, **Cha **19
 - **BBA **+9 ; **BMO **+17 ; **DMD **33 (croc-en-jambe impossible)
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [Attaques réflexes](./Attaques réflexes.md), [Comme le vent](./Comme le vent.md), [Esquive](./Esquive.md), [Manoeuvres agiles](./Manoeuvres-agiles.md)
-- **Compétences **[Bluff](./Bluff.md) +16, [Connaissances](./Connaissances.md) (nature) +15, [Connaissances](./Connaissances.md) (plans) +15, [Diplomatie](./Diplomatie.md) +16, [Discrétion](./Discrétion.md) +15, [Intimidation](./Intimidation.md) +16, [Natation](./Natation.md) +25, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +17, [Vol](./Vol.md) +5
+- **Dons **[[Attaque en finesse]], [[Attaques réflexes]], [[Comme le vent]], [[Esquive]], [[Manoeuvres agiles]]
+- **Compétences **[[Bluff]] +16, [[Connaissances]] (nature) +15, [[Connaissances]] (plans) +15, [[Diplomatie]] +16, [[Discrétion]] +15, [[Intimidation]] +16, [[Natation]] +25, [[Perception]] +17, [[Psychologie]] +17, [[Vol]] +5
 - Langues céleste, commun, draconique, infernal ; télépathie 30 m
 (((Écologie)))
 - **Environnement **tous (Enfers)
@@ -46,7 +46,7 @@ LastModified: 2021-04-03 19:32
 2 JS consécutifs.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 ''Cette créature ophidienne a des ailes semblables à des nageoires, des cornes de bélier, quatre yeux et des bras qui se terminent par d’innombrables tentacules.
 ''
 Les diables de la noyade, sarglagons en infernal, sont très fiers d’être les gardiens des Enfers les plus à même de défendre les cours d’eau. Ils font partie des rares fiélons à parcourir les mers et les rivières du multivers pour soutenir l’application de complots infernaux à grande échelle. Même sur terre et dans les airs, ces diables se meuvent avec une souplesse envoûtante, comme s’ils nageaient. Un diable de la noyade pèse dans les trois cent kilos et mesure plus de quatre mètres cinquante de la tête à la queue.

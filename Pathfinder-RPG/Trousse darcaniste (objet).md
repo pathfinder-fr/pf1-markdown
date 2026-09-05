@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**Prix** 21 po ; **Poids** 17 kg<sup>[2](./Trousses déquipement.md#2)</sup>
-<span class="Catégorie">**Catégorie** [Trousses d'équipement](./Trousses déquipement.md)</span>
+{s:MCA}**Prix** 21 po ; **Poids** 17 kg<sup>[[Trousses déquipement#2|2]]</sup>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
 ---
-Cette trousse inclut un [sac à dos](./Sac à dos (objet).md), un [sac de couchage](./Sac de couchage (objet).md), une [bourse](./Bourse (objet).md), un [silex et une amorce](./Silex et amorce (objet).md), de l'[encre](./Encre (objet).md), une [plume à encre](./Plume à encre (objet).md), une [marmite en fer](./Marmite (objet).md), un [kit repas](./Kit repas (objet).md), un [savon](./Savon (objet).md), une [sacoche à composantes](./Sacoche à composantes (objet).md), des [torches](./Torche (objet).md) (10), des [rations de survie](./Rations de survie (objet).md) (5 jours) et une [outre](./Outre (objet).md). Elle ne contient pas de [grimoire](./Grimoire (objet).md) car l'[arcaniste](./Arcaniste.md) commence le jeu avec un grimoire et n'a pas besoin d'en acheter un.
+Cette trousse inclut un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], de l'[[Encre (objet)|encre]], une [[Plume à encre (objet)|plume à encre]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]]. Elle ne contient pas de [[Grimoire (objet)|grimoire]] car l'[[Arcaniste]] commence le jeu avec un grimoire et n'a pas besoin d'en acheter un.

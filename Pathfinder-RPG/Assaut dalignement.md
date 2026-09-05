@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) ; **Niveau** [inquisiteur](./Inquisiteur.md) 5, [paladin](./Paladin.md) 4, [prêtre](./Prêtre.md) 5  
+**École** [[Évocation]] ; **Niveau** [[inquisiteur]] 5, [[paladin]] 4, [[prêtre]] 5  
 
 **Durée** instantanée (voir la description)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir ci dessous) ; **Résistance à la magie** oui  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir ci dessous) ; **Résistance à la magie** oui  
 
-**Restriction de cible** *[explosion](./Explosion.md)*, *[cône](./Cône (mot de pouvoir).md)*, *[ligne](./Ligne (mot de pouvoir).md)*
+**Restriction de cible** *[[explosion]]*, *[[cône (mot de pouvoir)|cône]]*, *[[ligne (mot de pouvoir)|ligne]]*
 
-Quand le personnage lance un sort de mots incluant cet effet, il sélectionne un [alignement](./Alignement.md) : [Bon, Mauvais, Chaotique ou Loyal](./Alignement.md). Toutes les créatures de cet [alignement](./Alignement.md) subissent 1d8 points de dégâts par tranche de deux [niveaux de lanceur](./NLS.md) (maximum 8d8), et elles sont [chancelantes](./Chancelant.md) pendant 1 [round](./round.md) par [niveau de lanceur](./NLS.md) si elles ratent leur [jet de sauvegarde](./jet de sauvegarde.md). Les [extérieurs](./type Extérieur.md) de cet [alignement](./Alignement.md) subissent eux 1d6 points de dégâts par [niveau de lanceur](./NLS.md) (maximum 15d6).
+Quand le personnage lance un sort de mots incluant cet effet, il sélectionne un [[alignement]] : [[alignement|Bon, Mauvais, Chaotique ou Loyal]]. Toutes les créatures de cet [[alignement]] subissent 1d8 points de dégâts par tranche de deux [[NLS|niveaux de lanceur]] (maximum 8d8), et elles sont [[chancelant|chancelantes]] pendant 1 [[round]] par [[NLS|niveau de lanceur]] si elles ratent leur [[jet de sauvegarde]]. Les [[type extérieur|extérieurs]] de cet [[alignement]] subissent eux 1d6 points de dégâts par [[NLS|niveau de lanceur]] (maximum 15d6).

@@ -10,7 +10,7 @@ LastModified: 2017-01-08 17:20
 {s:pucem|Créature magique|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 98*}
 - 1 200 PX
-- [Créature magique](./type Créature magique.md) de taille G, N
+- [[type créature magique|Créature magique]] de taille G, N
 - **Init **+1 ; **Sens **vision dans le noir 18 m, vision nocturne, odorat ; Perception +10
 (((Défense)))
 - **CA **18, contact 10, pris au dépourvu 17 (Dex +1, naturelle +8, taille -1)
@@ -24,8 +24,8 @@ LastModified: 2017-01-08 17:20
 (((Statistiques)))
 - **For **19, **Dex **12, **Con **15, **Int **2, **Sag **13, **Cha** 10
 - **BBA **+6 ; **BMO **+10 ; **DMD **21 (croc-en-jambe impossible)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (griffe), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Natation](./Natation.md) +17, [Perception](./Perception.md) +10
+- **Dons **[[Arme de prédilection]] (griffe), [[Talent]] (Perception), [[Volonté de fer]]
+- **Compétences** [[Natation]] +17, [[Perception]] +10
 - **Particularités **retenir son souffle
 (((Écologie)))
 - **Environnement **côtes chaudes

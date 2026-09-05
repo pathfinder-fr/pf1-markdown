@@ -12,20 +12,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Enchantement](./Enchantement.md) ([charme](./branche charme.md)) <nowiki>[</nowiki>[langage, mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 2, [Inq](./Inquisiteur.md) 3, [Pal](./Paladin.md) 2  
+**École** [[Enchantement]] ([[Branche charme|charme]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 2  
 
-**Temps d’incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d’incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-La litanie du personnage est une fascinante diatribe pleine de grâce qui incite la cible à ne rien faire d'autre qu'écouter. La cible est [fascinée](./Fasciné.md). Comme d'habitude, une menace évidente annule la fascination, et un danger potentiel autorise un nouveau jet de sauvegarde.
+La litanie du personnage est une fascinante diatribe pleine de grâce qui incite la cible à ne rien faire d'autre qu'écouter. La cible est [[fasciné|fascinée]]. Comme d'habitude, une menace évidente annule la fascination, et un danger potentiel autorise un nouveau jet de sauvegarde.
 
 La cible affectée par ce sort ne peut pas bénéficier des effets d’un autre sort de litanie.

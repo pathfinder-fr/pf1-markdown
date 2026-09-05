@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Manœuvres offensives#REPOSITIONNEMENT
 ---
 
->>> [Manœuvres offensives#REPOSITIONNEMENT](./Manœuvres offensives.md#REPOSITIONNEMENT)
+>>> [[Manœuvres offensives#REPOSITIONNEMENT]]

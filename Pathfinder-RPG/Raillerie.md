@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*L’impact des remarques acerbes du personnage est inversement proportionnel à sa taille.*
 
-**Conditions.** [Cha](./Charisme.md) 13, [taille inférieure ou égale à P](./taille P.md).
+**Conditions.** [[Charisme|Cha]] 13, [[taille P|taille inférieure ou égale à P]].
 
-**Avantage.** Le personnage peut démoraliser des adversaires en utilisant la compétence de [Bluff](./Bluff.md) au lieu d’[Intimidation](./Intimidation.md) (voir la description d’Intimidation pour les détails) sans subir de pénalité au test due au fait qu’il est plus petit que sa cible.
+**Avantage.** Le personnage peut démoraliser des adversaires en utilisant la compétence de [[Bluff]] au lieu d’[[Intimidation]] (voir la description d’Intimidation pour les détails) sans subir de pénalité au test due au fait qu’il est plus petit que sa cible.

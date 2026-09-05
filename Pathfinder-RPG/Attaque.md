@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armures magiques#Attaque
 ---
 
->>> [Armures magiques#Attaque](./Armures magiques.md#Attaque)
+>>> [[Armures magiques#Attaque]]

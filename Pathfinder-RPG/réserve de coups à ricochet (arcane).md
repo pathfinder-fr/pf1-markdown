@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#RESERVEDECOUPSARICOCHET
 ---
 
->>> [arcanes#RESERVEDECOUPSARICOCHET](./arcanes.md#RESERVEDECOUPSARICOCHET)
+>>> [[arcanes#RESERVEDECOUPSARICOCHET]]

@@ -13,34 +13,34 @@ Categories:
 {s:pucem|Créature magique|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.55*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +18 ; **Sens** *[détection de l'invisibilité](./Détection de linvisibilité.md)*, [odorat](./Odorat (capacité).md), [vision nocturne](./Vision nocturne (capacité).md), [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +18 ; **Sens** *[[détection de linvisibilité|détection de l'invisibilité]]*, [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 24, pris au dépourvu 14 (Dex +10, esquive +1, naturelle +1, sainteté +4, taille -1)}
-{s:BDTexte|**pv** 76 (9d10+27) ; [guérison accélérée](./Guérison accélérée (capacité).md) 5}
+{s:BDTexte|**pv** 76 (9d10+27) ; [[Guérison accélérée (capacité)|guérison accélérée]] 5}
 {s:BDTexte|**Réf** +16, **Vig** +9, **Vol** +8}
 {s:BDTexte|**Capacités défensives** délivrance, esquive instinctive, grâce sacrée, vitesse surnaturelle}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 54 m}
 {s:BDTexte|**Corps à corps** bois, +12 (1d8+6)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 9 ; [concentration](./concentration.md) +13)}
-{s:BDSorts|Constant — *[communication avec les animaux](./Communication avec les animaux.md)*, *[détection de l'invisibilité](./Détection de linvisibilité.md)*}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 9 ; [[concentration]] +13)}
+{s:BDSorts|Constant — *[[communication avec les animaux]]*, *[[détection de linvisibilité|détection de l'invisibilité]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 31, **Con** 16, **Int** 11, **Sag** 20, **Cha** 19}
 {s:BDTexte|**BBA** +9 ; **BMO** +14 ; **DMD** 39 (43 contre les crocs-en-jambe)}
-{s:BDTexte|**Dons** [Comme l'éclair](./Comme léclair.md), [Comme le vent](./Comme le vent.md), [Course](./Course.md)<sup>S</sup>, [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +16 (+76 pour sauter), [Connaissances](./Connaissances.md) (religion) +5, [Discrétion](./Discrétion.md) +10, [Évasion](./Évasion.md) +21, [Perception](./Perception.md) +17, [Survie](./Survie.md) +8 ; **Modificateurs raciaux** +60 en Acrobaties pour sauter, +4 en Connaissances (religion), +10 en Évasion}
-{s:BDTexte|**Langues** sylvestre ; *[communication avec les animaux](./Communication avec les animaux.md)*}
+{s:BDTexte|**Dons** [[Comme léclair|Comme l'éclair]], [[Comme le vent]], [[Course]]<sup>S</sup>, [[Esquive]], [[Science de linitiative|Science de l'initiative]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +16 (+76 pour sauter), [[Connaissances]] (religion) +5, [[Discrétion]] +10, [[Évasion]] +21, [[Perception]] +17, [[Survie]] +8 ; **Modificateurs raciaux** +60 en Acrobaties pour sauter, +4 en Connaissances (religion), +10 en Évasion}
+{s:BDTexte|**Langues** sylvestre ; *[[communication avec les animaux]]*}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines, forêts ou plaines}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** fortuit (bois et fourrure)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Délivrance (Mag).** Chaque fois qu’un cérynitis est affecté par un sort ou un effet qu’une délivrance peut supprimer, il bénéficie instantanément des effets de la délivrance.}
-{s:BDTexte|**Esquive instinctive (Ext).** Ce pouvoir fonctionne comme l’aptitude de [roublard](./Roublard.md) du [même nom](./Roublard.md#ESQUIVEINSTINCTIVE).}
-{s:BDTexte|**Grâce sacrée (Ext).** Un cérynitis est béni par sa divinité tutélaire, ce qui lui permet de toujours agir lors du [round](./round.md) de surprise et lui confère un bonus de sainteté à la CA et à l’initiative égal à son bonus de [Charisme](./Charisme.md).}
-{s:BDTexte|**Vitesse surnaturelle (Ext).** Quand une créature effectue une attaque au corps à corps ou à distance contre un cérynitis, le cible avec un pouvoir ou l’inclut dans la zone d’effet d’un pouvoir, le cérynitis peut se déplacer d’une distance maximale égale à la moitié de sa vitesse de déplacement comme s’il avait préparé son action. S’il se déplace (quelle que soit la distance parcourue), il fait échouer toutes les attaques au corps à corps ou à distance ; s’il se déplace hors de la zone d’effet, il évite le pouvoir à l’origine de cette zone d’effet ; s’il se déplace hors de portée de l’effet qui le prend pour cible, il évite ce pouvoir. Après avoir utilisé ce pouvoir, un cérynitis ne peut plus l’utiliser pendant 1 [round](./round.md). Chaque utilisation de ce pouvoir est considérée comme une [action de mouvement](./Action de mouvement.md) lorsqu’il s’agit du déclenchement du don [Comme l’éclair](./Comme léclair.md). Un cérynitis ne peut pas utiliser sa vitesse surnaturelle pour éviter une attaque ou un pouvoir dont il n’est pas conscient. Il ne peut pas non plus utiliser ce pouvoir s’il est [immobilisé](./Immobilisé.md) ou si un cavalier le chevauche.}
+{s:BDTexte|**Esquive instinctive (Ext).** Ce pouvoir fonctionne comme l’aptitude de [[roublard]] du [[roublard#ESQUIVEINSTINCTIVE|même nom]].}
+{s:BDTexte|**Grâce sacrée (Ext).** Un cérynitis est béni par sa divinité tutélaire, ce qui lui permet de toujours agir lors du [[round]] de surprise et lui confère un bonus de sainteté à la CA et à l’initiative égal à son bonus de [[Charisme]].}
+{s:BDTexte|**Vitesse surnaturelle (Ext).** Quand une créature effectue une attaque au corps à corps ou à distance contre un cérynitis, le cible avec un pouvoir ou l’inclut dans la zone d’effet d’un pouvoir, le cérynitis peut se déplacer d’une distance maximale égale à la moitié de sa vitesse de déplacement comme s’il avait préparé son action. S’il se déplace (quelle que soit la distance parcourue), il fait échouer toutes les attaques au corps à corps ou à distance ; s’il se déplace hors de la zone d’effet, il évite le pouvoir à l’origine de cette zone d’effet ; s’il se déplace hors de portée de l’effet qui le prend pour cible, il évite ce pouvoir. Après avoir utilisé ce pouvoir, un cérynitis ne peut plus l’utiliser pendant 1 [[round]]. Chaque utilisation de ce pouvoir est considérée comme une [[action de mouvement]] lorsqu’il s’agit du déclenchement du don [[Comme léclair|Comme l’éclair]]. Un cérynitis ne peut pas utiliser sa vitesse surnaturelle pour éviter une attaque ou un pouvoir dont il n’est pas conscient. Il ne peut pas non plus utiliser ce pouvoir s’il est [[immobilisé]] ou si un cavalier le chevauche.}
 </div></td>
 <td><div>*Cette biche élancée et gracieuse possède de longs bois métalliques et une radieuse fourrure dorée.*
 

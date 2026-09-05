@@ -11,18 +11,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[son](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 2  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F/FD](./composantes.md) (un petit instrument de musique)  
+**Composantes** [[composantes|V, G, F/FD]] (un petit instrument de musique)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Zone d'effet** [étendue](./étendue.md) de 3 m (2 {s:c}) de rayon  
+**Zone d'effet** [[étendue]] de 3 m (2 {s:c}) de rayon  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Comme son nom l’indique, ce sort déclenche une véritable cacophonie dans la [zone d’effet](./zone deffet.md). Toutes les créatures touchées par cette agression auditive perdent 1d8 [points de vie](./points de vie.md) et doivent réussir un jet de [Vigueur](./Vigueur.md) sous peine d’être [étourdies](./Étourdi.md) pendant 1 [round](./round.md). Les créatures [sourdes](./Assourdi.md) sont insensibles à l’[étourdissement](./Étourdi.md), mais elles reçoivent tout de même les dégâts indiqués.
+Comme son nom l’indique, ce sort déclenche une véritable cacophonie dans la [[zone deffet|zone d’effet]]. Toutes les créatures touchées par cette agression auditive perdent 1d8 [[points de vie]] et doivent réussir un jet de [[Vigueur]] sous peine d’être [[étourdi|étourdies]] pendant 1 [[round]]. Les créatures [[assourdi|sourdes]] sont insensibles à l’[[étourdi|étourdissement]], mais elles reçoivent tout de même les dégâts indiqués.

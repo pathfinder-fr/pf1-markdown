@@ -13,31 +13,31 @@ Categories:
 <div class="BD">
 {s:BDtitre|Fléau des mers|FP 6}
 {s:pucem|Vase|Aquatique|Tropical}
-{s:BDtexte|*Source : [Guide des Chaînes p.45](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide des Chaînes p.45]]*}
 {s:BDtexte|**PX** 2 400}
-{s:BDtexte|[Vase](./type Vase.md) ([aquatique](./sous-type aquatique.md)) de taille G, N}
-{s:BDtexte|**Init** -2 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) 18 m ; [Perception](./Perception.md) -5}
+{s:BDtexte|[[type Vase|Vase]] ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDtexte|**Init** -2 ; **Sens** [[Vision aveugle (capacité)|vision aveugle]] 18 m ; [[Perception]] -5}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 7, contact 7, pris au dépourvu 7(Dex -2, taille –1)}
 {s:BDtexte|**pv** 76 (9d8+36)}
 {s:BDtexte|**Réf** +1, **Vig** +7, **Vol** -2}
-{s:BDtexte|**Capacités défensives** [amorphe](./Amorphe (capacité).md) ; **Immunités** acide, [traits des vases](./type Vase.md)}
+{s:BDtexte|**Capacités défensives** [[Amorphe (capacité)|amorphe]] ; **Immunités** acide, [[type Vase|traits des vases]]}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 3 m, escalade 3 m, nage 6 m}
-{s:BDtexte|**Corps à corps** 2 coups, +12 (1d6+7 plus 1d4 acide et [étreinte](./Étreinte (capacité).md))}
+{s:BDtexte|**Corps à corps** 2 coups, +12 (1d6+7 plus 1d4 acide et [[Étreinte (capacité)|étreinte]])}
 {s:BDtexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDtexte|**Attaques spéciales** jet acide, [constriction](./Constriction (capacité).md) (1d6+7 plus 1d4 acide), [enveloppement](./Enveloppement (capacité).md) (DD 21, 1d6 acide et paralysie)}
+{s:BDtexte|**Attaques spéciales** jet acide, [[Constriction (capacité)|constriction]] (1d6+7 plus 1d4 acide), [[Enveloppement (capacité)|enveloppement]] (DD 21, 1d6 acide et paralysie)}
 {s:BDsoustitre|Statistiques}
 {s:BDtexte|**For** 24, **Dex** 7, **Con** 18, **Int** —, **Sag** 1, **Cha** 1}
-{s:BDtexte|**BBA** +6 ; **BMO** +14 (+18 en [lutte](./lutte.md)) ; **DMD** 22 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDtexte|**Compétences** [Escalade](./Escalade.md) +15, [Natation](./Natation.md) +15}
-{s:BDtexte|**Particularités** [amphibie](./Amphibie (capacité).md)}
+{s:BDtexte|**BBA** +6 ; **BMO** +14 (+18 en [[lutte]]) ; **DMD** 22 ([[croc-en-jambe]] impossible)}
+{s:BDtexte|**Compétences** [[Escalade]] +15, [[Natation]] +15}
+{s:BDtexte|**Particularités** [[Amphibie (capacité)|amphibie]]}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** océans chauds}
 {s:BDtexte|**Organisation** solitaire, nuée (2-5) ou floraison (6-9)}
 {s:BDtexte|**Trésor** standard}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Jet d’acide (Ext).** Une fois tous les 1d4 [rounds](./round.md), le fléau des mers peut dépenser une [action simple](./Action simple.md) pour cracher un jet de jus acide sur une ligne de 9 mètres, infligeant 2d8 points de dégâts d’acide à toutes les créatures de la zone ([Réflexes](./Réflexes.md) [DD](./DD.md) 18, 1/2 dégâts). Le DD du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDtexte|**Jet d’acide (Ext).** Une fois tous les 1d4 [[round|rounds]], le fléau des mers peut dépenser une [[action simple]] pour cracher un jet de jus acide sur une ligne de 9 mètres, infligeant 2d8 points de dégâts d’acide à toutes les créatures de la zone ([[Réflexes]] [[DD]] 18, 1/2 dégâts). Le DD du jet de sauvegarde est basé sur la [[Constitution]].}
 </div>
 </td>
 <td>
@@ -49,9 +49,9 @@ Les marins aguerris de corvée de vigie la nuit guettent tout particulièrement 
 ### Variantes du fléau des mers
 La plupart des fléaux des mers résident sur la côte occidentale du continent sud, dans l’océan ouest, mais certaines espèces vivent ailleurs, en haute mer.
 
-**Fléau des eaux froides (FP +0).** Le fléau des eaux froides rôde dans les étendues océaniques du nord de la mer intérieure et de l’océan ouest où il représente une menace pour les navires marchands comme pour les bateaux de guerre. Il est [immunisé](./Immunité (capacité).md) contre les dégâts de froid et les créatures qui ratent leur jet de [Réflexes](./Réflexes.md) contre son jet d’acide sont également [chancelantes](./Chancelant.md) pendant 1 [round](./round.md).
+**Fléau des eaux froides (FP +0).** Le fléau des eaux froides rôde dans les étendues océaniques du nord de la mer intérieure et de l’océan ouest où il représente une menace pour les navires marchands comme pour les bateaux de guerre. Il est [[Immunité (capacité)|immunisé]] contre les dégâts de froid et les créatures qui ratent leur jet de [[Réflexes]] contre son jet d’acide sont également [[chancelant|chancelantes]] pendant 1 [[round]].
 
-**Fléau fumant (FP +1).** Le fléau fumant hante les eaux de l’océan à l'est du continent sud, drainant la vie des animaux marins sans méfiance comme celle des pêcheurs imprudents et des habitants des petits villages côtiers. Un fléau fumant possède des dés de vie supplémentaires et le pouvoir universel de monstre de [chaleur](./Chaleur (capacité).md). Il brûle tant d’énergie que l’eau se met à bouillir dans une étendue de 3 mètres de rayon autour de lui, infligeant 1d6 points de dégâts à toutes les créatures qui commencent leur tour immergées dans de telles eaux.
+**Fléau fumant (FP +1).** Le fléau fumant hante les eaux de l’océan à l'est du continent sud, drainant la vie des animaux marins sans méfiance comme celle des pêcheurs imprudents et des habitants des petits villages côtiers. Un fléau fumant possède des dés de vie supplémentaires et le pouvoir universel de monstre de [[Chaleur (capacité)|chaleur]]. Il brûle tant d’énergie que l’eau se met à bouillir dans une étendue de 3 mètres de rayon autour de lui, infligeant 1d6 points de dégâts à toutes les créatures qui commencent leur tour immergées dans de telles eaux.
 </div>
 </td>
 </tr>

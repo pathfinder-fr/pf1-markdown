@@ -10,16 +10,16 @@ Categories:
 ---
 
 {s:UC}
-**École** [Invocation](./Invocation.md) ([guérison](./branche guérison.md)) ; **Niveau** [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 5  
+**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
+**Durée** 1 [[round]]/[[niveau]]
 
-Ce sort fonctionne comme [lien de vie](./Lien de vie.md) mais le personnage transfère 3d6 points de vie par une [action rapide](./Action rapide.md).
+Ce sort fonctionne comme [[lien de vie]] mais le personnage transfère 3d6 points de vie par une [[action rapide]].

@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:WMH}*La conception chaotique et quelque peu aléatoire de vos armes raciales permet de les combiner facilement avec des illusions.*
 
-**Catégories :** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégories :** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions** [Int](./Int.md) 13, [Expertise du combat](./Expertise du combat.md), [Arme de prédilection gnome](./Arme de prédilection gnome.md), [Science de la feinte](./Science de la feinte.md), [BBA](./BBA.md) +1, Traits raciaux [armes familières](./Gnome.md#Traits_raciaux_standards_6) et [magie gnome](./Gnome.md#Traits_raciaux_standards_6)
+**Conditions** [[Int]] 13, [[Expertise du combat]], [[Arme de prédilection gnome]], [[Science de la feinte]], [[BBA]] +1, Traits raciaux [[Gnome#Traits_raciaux_standards_6|armes familières]] et [[Gnome#Traits_raciaux_standards_6|magie gnome]]
 
-**Avantage** Lorsque le personnage [feinte](./feinte.md) avec une arme de corps à corps dont le nom contient "gnome", il peut sacrifier un emplacement de sort, un sort de l'école de l'[illusion](./Illusion.md), ou un sort issu du trait racial [magie gnome](./Gnome.md#Traits_raciaux_standards_6) pour gagner un bonus au test de compétence pour feinter. Ce bonus est égal à 1 + le niveau du sort sacrifié. Si le personnage a sacrifié un sort de niveau 0, il ne peut plus sacrifier ce sort pendant 24 heures.
+**Avantage** Lorsque le personnage [[feinte]] avec une arme de corps à corps dont le nom contient "gnome", il peut sacrifier un emplacement de sort, un sort de l'école de l'[[Illusion]], ou un sort issu du trait racial [[Gnome#Traits_raciaux_standards_6|magie gnome]] pour gagner un bonus au test de compétence pour feinter. Ce bonus est égal à 1 + le niveau du sort sacrifié. Si le personnage a sacrifié un sort de niveau 0, il ne peut plus sacrifier ce sort pendant 24 heures.

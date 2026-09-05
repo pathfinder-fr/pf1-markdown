@@ -8,21 +8,21 @@ Categories:
 - Sort magicien 0
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[obscurité](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|obscurité]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un peu de suie)  
+**Composantes** [[Composantes|V, G, M]] (un peu de suie)  
 
 **Portée** contact  
 
 **Cible** créature ou objet touché  
 
-**Durée** 10 minutes/[niveau](./niveau.md) (T)  
+**Durée** 10 minutes/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
-Ce sort garde la créature ou l’objet touché légèrement dans l’ombre. La cible ne souffre pas d’[aveuglement](./Aveuglé.md) ni de malus provoqués par une lumière vive, comme ceux occasionnés par une sensibilité ou un aveuglement à la lumière.
+Ce sort garde la créature ou l’objet touché légèrement dans l’ombre. La cible ne souffre pas d’[[aveuglé|aveuglement]] ni de malus provoqués par une lumière vive, comme ceux occasionnés par une sensibilité ou un aveuglement à la lumière.
 
 Vous ne pouvez activer qu’un seul sort de *pénombre* à la fois. Si vous en lancez un nouveau alors que le précédent est encore actif, ce dernier se dissipe.
 
@@ -32,4 +32,4 @@ Le sort ci-dessous est différent des tours de magie habituels. Ils est rare. Le
 
 Ce tour de magie ne peut être utilisé dans le cadre du jeu organisé de la Pathfinder Society.  
 
-Le sort Pénombre a été modifié en un sort de plus haut niveau, [Pénombre protectrice](./Pénombre protectrice.md). La version de niveau 0 est similaire mais ne remplace cependant pas son équivalent de plus haut niveau.)))
+Le sort Pénombre a été modifié en un sort de plus haut niveau, [[Pénombre protectrice]]. La version de niveau 0 est similaire mais ne remplace cependant pas son équivalent de plus haut niveau.)))

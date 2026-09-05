@@ -11,32 +11,32 @@ Categories:
 <div class="BD">
 {s:BDTitre|Vase luxuriante|FP 6}
 {s:pucem|Vase|Plaines|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.277](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.277]]*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Vase](./type Vase.md) M, N}
-{s:BDTexte|**Init** -5 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) à 18 m, [perception des vibrations](./Perception des vibrations (capacité).md) à 18 m ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] M, N}
+{s:BDTexte|**Init** -5 ; **Sens** [[Vision aveugle (capacité)|vision aveugle]] à 18 m, [[Perception des vibrations (capacité)|perception des vibrations]] à 18 m ; [[Perception]] -5}
 {s:BDTexte|**Aura** animer (4,50 m, DD 20), aura de sommeil (9 m, DD 20)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 5, contact 5, pris au dépourvu 5 (-5 Dex)}
 {s:BDTexte|**pv** 85 (9d8+54)}
 {s:BDTexte|**Réf** -2, **Vig** +9, **Vol** -2}
-{s:BDTexte|**Capacités défensives** [division](./Division (capacité).md) ; **Immunités** acide, dégâts tranchants et perforants, effets mentaux, feu, vase}
+{s:BDTexte|**Capacités défensives** [[Division (capacité)|division]] ; **Immunités** acide, dégâts tranchants et perforants, effets mentaux, feu, vase}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m}
-{s:BDTexte|**Corps à corps** coup +9 (1d6+4 plus 1d6 acide et [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** coup +9 (1d6+4 plus 1d6 acide et [[Étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Attaques spéciales** acide, animer, étreinte (1d6+4 plus 1d6 acide)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 1, **Con** 22, **Int** –, **Sag** 1, **Cha** 1}
-{s:BDTexte|**BBA** +6 ; **BMO** +9 (+13 en [lutte](./lutte.md)); **DMD** 14 (croc-en-jambe impossible)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) -4 (+16 dans les forêts et les plaines) ; **Modificateurs raciaux** +0 Discrétion (+20 dans les forêts et les plaines)}
+{s:BDTexte|**BBA** +6 ; **BMO** +9 (+13 en [[lutte]]); **DMD** 14 (croc-en-jambe impossible)}
+{s:BDTexte|**Compétences** [[Discrétion]] -4 (+16 dans les forêts et les plaines) ; **Modificateurs raciaux** +0 Discrétion (+20 dans les forêts et les plaines)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou plaines tempérées}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Acide (Ext).** Une vase luxuriante sécrète un acide digestif qui dissout rapidement la chair comme le métal. À chaque fois que la vase blesse une créature, l’armure et l’équipement métallique de cette dernière subit les mêmes dégâts d’acide que leur propriétaire. Un jet de [Réflexes](./Réflexes.md) DD 21 empêche ces dégâts. Toute arme naturelle ou métallique qui touche une vase subit 1d6 points de dégâts à moins que son propriétaire ne réussisse un jet de Réflexes DD 21. Si une vase luxuriante reste en contact avec un objet métallique pendant un round entier, elle lui inflige 20 points de dégâts d’acide (sans jet de sauvegarde). Le DD du jet de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Animer (Mag).** Les sécrétions chimiques de la vase luxuriante donnent vie aux plantes voisines. Quand la vase se trouve dans une zone de végétation naturelle, toutes les cases situées dans un rayon de 4,50 mètres sont affectées par un sort d’*[enchevêtrement](./Enchevêtrement.md)*. La vase n’exerce aucun contrôle sur cet effet et, si quelqu’un le dissipe, il réapparaît au bout de 1d4 rounds. Le DD du jet de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Aura de sommeil (Sur).** Les sécrétions chimiques de la vase luxuriante ont un puissant effet soporifique sur toutes les créatures vivantes autres que les plantes qui l’approchent dans un rayon de 9 mètres. Toutes les créatures vivantes de la zone doivent réussir un jet de [Volonté](./Volonté.md) DD 21 ou s’endormir pendant un nombre de rounds égal au nombre de [DV](./../Ressources/DV.md) de la vase. Les créatures immunisées contre le poison sont également immunisées contre cet effet. Que la créature ait réussi son jet ou non, l’aura de cette vase ne l’affecte plus pendant 24 heures. C’est un effet de sommeil non-magique. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Acide (Ext).** Une vase luxuriante sécrète un acide digestif qui dissout rapidement la chair comme le métal. À chaque fois que la vase blesse une créature, l’armure et l’équipement métallique de cette dernière subit les mêmes dégâts d’acide que leur propriétaire. Un jet de [[Réflexes]] DD 21 empêche ces dégâts. Toute arme naturelle ou métallique qui touche une vase subit 1d6 points de dégâts à moins que son propriétaire ne réussisse un jet de Réflexes DD 21. Si une vase luxuriante reste en contact avec un objet métallique pendant un round entier, elle lui inflige 20 points de dégâts d’acide (sans jet de sauvegarde). Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Animer (Mag).** Les sécrétions chimiques de la vase luxuriante donnent vie aux plantes voisines. Quand la vase se trouve dans une zone de végétation naturelle, toutes les cases situées dans un rayon de 4,50 mètres sont affectées par un sort d’*[[enchevêtrement]]*. La vase n’exerce aucun contrôle sur cet effet et, si quelqu’un le dissipe, il réapparaît au bout de 1d4 rounds. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Aura de sommeil (Sur).** Les sécrétions chimiques de la vase luxuriante ont un puissant effet soporifique sur toutes les créatures vivantes autres que les plantes qui l’approchent dans un rayon de 9 mètres. Toutes les créatures vivantes de la zone doivent réussir un jet de [[Volonté]] DD 21 ou s’endormir pendant un nombre de rounds égal au nombre de [[DV]] de la vase. Les créatures immunisées contre le poison sont également immunisées contre cet effet. Que la créature ait réussi son jet ou non, l’aura de cette vase ne l’affecte plus pendant 24 heures. C’est un effet de sommeil non-magique. Le DD du jet de sauvegarde est basé sur la Constitution.}
 {s:BDTexte|**Division (Ext).** Les armes perforantes et tranchantes n’infligent aucun dégât à la vase luxuriante. En revanche, si l’arme aurait dû lui infliger plus de 10 points de dégâts en un seul coup (perforant ou tranchant), la vase se divise en deux créatures identiques, chacune ayant la moitié des points de vie de l’original (arrondi à l’inférieur). Les attaques tranchantes ou perforantes qui n’infligent pas 10 points de dégâts n’ont aucun effet. Les dégâts de plusieurs attaques tranchantes ou perforantes ne se cumulent pas. Une vase luxuriante qui possède 15 points de vie ou moins ne peut pas se diviser et meurt si elle tombe à 0 point de vie.}
 
 </div></td>

@@ -11,18 +11,18 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [Enchantement](./Enchantement.md) ([charme](./charme.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Bard](./Barde.md) 0, [Hyp](./Hypnotiseur.md) 0, [Psy](./Psychiste.md) 1  
+{s:APG}**École** [[Enchantement]] ([[charme]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 0, [[Hypnotiseur|Hyp]] 0, [[Psychiste|Psy]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature vivante  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage embrouille l'esprit de la cible qui a alors bien du mal à différencier ses amis de ses ennemis pendant une courte période. Quand il s'agit de déterminer si une créature est [prise en tenailles](./Pris en tenaille.md), la cible du sort est considérée comme l'alliée du personnage et non comme son ennemie. La cible n'entreprend pas d'autres actions hostiles contre les ennemis du personnage à cause du sort.
+Le personnage embrouille l'esprit de la cible qui a alors bien du mal à différencier ses amis de ses ennemis pendant une courte période. Quand il s'agit de déterminer si une créature est [[pris en tenaille|prise en tenailles]], la cible du sort est considérée comme l'alliée du personnage et non comme son ennemie. La cible n'entreprend pas d'autres actions hostiles contre les ennemis du personnage à cause du sort.

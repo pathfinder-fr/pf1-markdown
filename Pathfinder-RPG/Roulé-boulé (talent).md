@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ROULEBOULE
 ---
 
->>> [Talents#ROULEBOULE](./Talents.md#ROULEBOULE)
+>>> [[Talents#ROULEBOULE]]

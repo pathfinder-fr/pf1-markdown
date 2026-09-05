@@ -15,18 +15,18 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Con](./Conjurateur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Hyp](./Hypnotiseur.md) 5, [Méd](./Médium.md) 3, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 6, [Spi](./Spirite.md) 4  
+{s:AO}** École **[[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[conjurateur|Con]] 5, [[ensorceleur|Ens]]/[[magicien|Mag]] 6, [[hypnotiseur|Hyp]] 5, [[médium|Méd]] 3, [[Occultiste|Occ]] 4, [[psychiste|Psy]] 5, [[sorcière|Sor]] 6, [[spirite|Spi]] 4  
 
 **Temps d’incantation** 1 round  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [moyenne](./courte.md) (30 m + 3 m/niveau)  
+**Portée** [[courte|moyenne]] (30 m + 3 m/niveau)  
 
 **Cible** 1 créature  
 
 **Durée** 1 h/niveau (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Ce sort fonctionne comme *[possession spirituelle](./Possession spirituelle.md)* mais le personnage échange son esprit avec celui de sa cible. Cette dernière ne partage pas son corps avec le personnage, se retrouvant dans l’impossibilité d’agir, elle gagne le corps du personnage et le contrôle, comme si les deux protagonistes avaient chacun lancé *[possession spirituelle](./Possession spirituelle.md)* sur l’autre.
+Ce sort fonctionne comme *[[possession spirituelle]]* mais le personnage échange son esprit avec celui de sa cible. Cette dernière ne partage pas son corps avec le personnage, se retrouvant dans l’impossibilité d’agir, elle gagne le corps du personnage et le contrôle, comme si les deux protagonistes avaient chacun lancé *[[possession spirituelle]]* sur l’autre.

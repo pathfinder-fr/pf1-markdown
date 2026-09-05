@@ -10,8 +10,8 @@ Categories:
 
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:cm}*Quand l’animal auquel il est attaché se met à charger, l’orque profite de son élan pour porter sa propre attaque.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Chevaucheur de cornes](./Chevaucheur de cornes.md), [BBA](./BBA.md) +1
+**Conditions.** [[Chevaucheur de cornes]], [[BBA]] +1
 
-**Avantages.** Quand il est fixé à un [harnais à corne](./Harnais à corne (objet).md) et qu’il a préparé une action pour porter une attaque au corps à corps contre la cible que la créature chevauchée est en train de [charger](./charge.md), l’orque gagne le bonus d’attaque de la charge et son attaque inflige le double des dégâts (ou le triple, s’il manie une [lance d’arçon](./lance darçon (arme).md)). Cet avantage ne se cumule pas avec celui de la [Charge dévastatrice](./Charge dévastatrice.md).
+**Avantages.** Quand il est fixé à un [[Harnais à corne (objet)|harnais à corne]] et qu’il a préparé une action pour porter une attaque au corps à corps contre la cible que la créature chevauchée est en train de [[charge|charger]], l’orque gagne le bonus d’attaque de la charge et son attaque inflige le double des dégâts (ou le triple, s’il manie une [[lance darçon (arme)|lance d’arçon]]). Cet avantage ne se cumule pas avec celui de la [[Charge dévastatrice]].

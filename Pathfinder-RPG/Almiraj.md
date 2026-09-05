@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 8*}
 - **400 PX**
-- [Créature magique](./type Créature magique.md) de taille P, N
-- **Init **+2 ; **Sens **[odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4
+- [[type créature magique|Créature magique]] de taille P, N
+- **Init **+2 ; **Sens **[[odorat]], [[vision dans le noir]] 18 m, [[vision nocturne]] ; [[Perception]] +4
 (((Défense)))
 - **CA **13, contact 13, pris au dépourvu 11 (Dex +2, taille +1)
 - **pv **13 (2d10+2)
@@ -27,8 +27,8 @@ Categories:
 (((Statistiques)))
 - **For** 6, **Dex **15, **Con **12, **Int **5, **Sag **11, **Cha **6
 - **BBA **+2 ; **BMO **-1 ; **DMD** 11 (15 contre croc-en-jambe)
-- **Dons **[Attaque en finesse](./Attaque en finesse.md)
-- **Compétences **[Acrobaties](./Acrobaties.md) +6 (+14 pour sauter), [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** +8 en [Acrobaties](./Acrobaties.md) pour sauter, +4 en [Discrétion](./Discrétion.md), +4 en [Perception](./Perception.md)
+- **Dons **[[Attaque en finesse]]
+- **Compétences **[[Acrobaties]] +6 (+14 pour sauter), [[Discrétion]] +14, [[Perception]] +4 ; **Modificateurs raciaux** +8 en [[Acrobaties]] pour sauter, +4 en [[Discrétion]], +4 en [[Perception]]
 - **Langues **sylvestre (incapable de parler)
 - **Particularités **sensible aux maléfices
 (((Écologie)))

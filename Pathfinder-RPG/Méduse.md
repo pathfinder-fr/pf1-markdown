@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.211}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, LM}
-{s:BDTexte|**Init** +6 ; **Sens** vision à 360°, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, LM}
+{s:BDTexte|**Init** +6 ; **Sens** vision à 360°, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)}
 {s:BDTexte|**pv** 76 (8d10+32)}
@@ -24,12 +24,12 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** dague +10/+5 (1d4/19-20), morsure de serpent +5 (1d4 et poison)}
 {s:BDTexte|**Distance** arc long de maître +11/+6 (1d8/x3)}
-{s:BDTexte|**Attaques spéciales** [regard](./Regard.md) de pétrification}
+{s:BDTexte|**Attaques spéciales** [[regard]] de pétrification}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 15, **Con** 18, **Int** 12, **Sag** 13, **Cha** 15}
 {s:BDTexte|**BBA** +8, **BMO** +8, **DMD** 20}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l'initiative](./Science de linitiative.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +10, [Déguisement](./Déguisement.md) +10, [Discrétion](./Discrétion.md) +13, [Intimidation](./Intimidation.md) +13, [Perception](./Perception.md) +16 ; **Modificateurs raciaux** +4 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Science de linitiative|Science de l'initiative]], [[Tir à bout portant]], [[Tir de précision]]}
+{s:BDTexte|**Compétences** [[Bluff]] +10, [[Déguisement]] +10, [[Discrétion]] +13, [[Intimidation]] +13, [[Perception]] +16 ; **Modificateurs raciaux** +4 en [[Perception]]}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais tempérés et souterrain}
@@ -37,8 +37,8 @@ Categories:
 {s:BDTexte|**Trésor** double (arc long de maître avec 20 flèches, dagues, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Poison (Ext).** Morsure-blessure ; JS Vigueur DD18 ; *fréquence* 1/round pendant 6 rounds ; *effet* affaiblissement temporaire 1d3 For ; *guérison* 2 réussites consécutives. Le DD dépend de la Constitution.}
-{s:BDTexte|**Regard de pétrification (Sur).** [Pétrification](./Pétrifié.md) permanente, 9 m (6 {s:c}), Vigueur [DD](./DD.md)16 annule. Le DD dépend du Charisme.}
-{s:BDTexte|**Vision à 360° (Ext).** Les cheveux-serpents des méduses leur permettent de voir dans toutes les directions en même temps. Elles gagnent un bonus racial de +4 aux tests de [Perception](./Perception.md) et il est impossible de les [prendre en tenaille](./prise en tenaille.md).}
+{s:BDTexte|**Regard de pétrification (Sur).** [[Pétrifié|Pétrification]] permanente, 9 m (6 {s:c}), Vigueur [[DD]]16 annule. Le DD dépend du Charisme.}
+{s:BDTexte|**Vision à 360° (Ext).** Les cheveux-serpents des méduses leur permettent de voir dans toutes les directions en même temps. Elles gagnent un bonus racial de +4 aux tests de [[Perception]] et il est impossible de les [[prise en tenaille|prendre en tenaille]].}
 {s:ImageCentre|Bestiaire/Meduse.jpg|90%}
 
 </div>

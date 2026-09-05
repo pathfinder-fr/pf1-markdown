@@ -8,33 +8,33 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de stockage de sort mineur|}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 5 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 18 000 po ; **Poids** —
+**Aura** [[Évocation]] modérée ; **NLS** 5 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 18 000 po ; **Poids** —
 (((Description)))
-Un anneau de stockage de sorts mineurs contient jusqu’à trois niveaux de sorts ([magie profane](./Magie profane.md) ou [divine](./Magie divine.md), ou les deux) que son porteur peut lancer normalement. Le niveau de lanceur de sorts auquel un sort fait effet est le niveau minimal nécessaire pour pouvoir le jeter. L’utilisateur n’a pas besoin d’acquitter le prix des [composantes matérielles](./composante matérielle.md). Il n’encourt pas non plus de risque d’échec des sorts profanes s’il porte une armure (l’anneau lance le sort sans qu’il soit nécessaire d’effectuer le moindre geste). Le temps d’activation des pouvoirs de l’anneau est égal au temps d’incantation du sort stocké, avec un minimum de 1 [action simple](./Action simple.md).
+Un anneau de stockage de sorts mineurs contient jusqu’à trois niveaux de sorts ([[magie profane]] ou [[magie divine|divine]], ou les deux) que son porteur peut lancer normalement. Le niveau de lanceur de sorts auquel un sort fait effet est le niveau minimal nécessaire pour pouvoir le jeter. L’utilisateur n’a pas besoin d’acquitter le prix des [[composante matérielle|composantes matérielles]]. Il n’encourt pas non plus de risque d’échec des sorts profanes s’il porte une armure (l’anneau lance le sort sans qu’il soit nécessaire d’effectuer le moindre geste). Le temps d’activation des pouvoirs de l’anneau est égal au temps d’incantation du sort stocké, avec un minimum de 1 [[action simple]].
 
-Si l’anneau est déterminé aléatoirement, considérez qu’il s’agit d’un [parchemin](./Parchemins magiques.md) pour déterminer les sorts qu’il contient (voir la section sur les [parchemins](./Parchemins magiques.md)). Au cas où un jet de dé ferait dépasser la limite de contenance de l’anneau, ignorez-le et arrêtez-vous là. Tous les anneaux de stockages de sorts mineurs ne sont pas découverts intégralement chargés.
+Si l’anneau est déterminé aléatoirement, considérez qu’il s’agit d’un [[parchemins magiques|parchemin]] pour déterminer les sorts qu’il contient (voir la section sur les [[parchemins magiques|parchemins]]). Au cas où un jet de dé ferait dépasser la limite de contenance de l’anneau, ignorez-le et arrêtez-vous là. Tous les anneaux de stockages de sorts mineurs ne sont pas découverts intégralement chargés.
 
-N’importe quel lanceur de sorts peut placer les sorts de son choix dans l’anneau, du moment que le total ne dépasse pas trois niveaux de sort. Les sorts métamagiques occupent une place correspondant à leur niveau modifié par le [don de métamagie](./Dons.md#DONMETAMAGIE). Un lanceur de sorts peut utiliser un [parchemin](./Parchemins magiques.md) pour placer un sort dans un anneau de stockage de sorts mineurs.
+N’importe quel lanceur de sorts peut placer les sorts de son choix dans l’anneau, du moment que le total ne dépasse pas trois niveaux de sort. Les sorts métamagiques occupent une place correspondant à leur niveau modifié par le [[dons#DONMETAMAGIE|don de métamagie]]. Un lanceur de sorts peut utiliser un [[parchemins magiques|parchemin]] pour placer un sort dans un anneau de stockage de sorts mineurs.
 
 L’anneau indique magiquement à son porteur le nom des sorts qu’il contient.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[transfert de sorts](./Transfert de sorts.md)* ; **Coût** 9 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[transfert de sorts]]* ; **Coût** 9 000 po
 </div>
 
 <div class="BD">
 {s:BDTitre|Anneau de stockage de sort|}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 9 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 50 000 po ; **Poids** —
+**Aura** [[Évocation]] modérée ; **NLS** 9 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 50 000 po ; **Poids** —
 (((Description)))
 Comme un anneau de stockage de sort mineur, mais le nombre total de niveaux de sorts stockés est porté à 5.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[transfert de sorts](./Transfert de sorts.md)* ; **Coût** 25 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[transfert de sorts]]* ; **Coût** 25 000 po
 </div>
 
 <div class="BD">
 {s:BDTitre|Anneau de stockage de sort majeur|}
-**Aura** [Évocation](./Évocation.md) puissante ; **NLS** 17 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 200 000 po ; **Poids** —
+**Aura** [[Évocation]] puissante ; **NLS** 17 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 200 000 po ; **Poids** —
 (((Description)))
 Comme un anneau de stockage de sort mineur, mais le nombre total de niveaux de sorts stockés est porté à 10.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[transfert de sorts](./Transfert de sorts.md)* ; **Coût** 100 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[transfert de sorts]]* ; **Coût** 100 000 po
 </div>

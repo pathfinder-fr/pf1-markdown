@@ -12,9 +12,9 @@ Categories:
 
 *Vous pouvez cacher les auras magiques des poisons que vous transportez.*
 
-**Conditions** 5 rangs en [Bluff](./Bluff.md), 5 rangs en [Artisanat](./Artisanat.md) (poison), capacité à lancer *[antidétection](./Antidétection.md)*
+**Conditions** 5 rangs en [[Bluff]], 5 rangs en [[Artisanat]] (poison), capacité à lancer *[[antidétection]]*
 
-**Avantage** Chaque fois qu'une créature essaie de détecter magiquement un poison que le personnage transporte, la créature doit réussir un test de niveau de lanceur avec un [DD](./DD.md) égal à 10 + le niveau du personnage. En cas d'échec, ce sort ou cette capacité magique échoue à détecter le poison que le personnage possède pendant la durée du sort.
+**Avantage** Chaque fois qu'une créature essaie de détecter magiquement un poison que le personnage transporte, la créature doit réussir un test de niveau de lanceur avec un [[DD]] égal à 10 + le niveau du personnage. En cas d'échec, ce sort ou cette capacité magique échoue à détecter le poison que le personnage possède pendant la durée du sort.
 
 (((Unseen Poison
 

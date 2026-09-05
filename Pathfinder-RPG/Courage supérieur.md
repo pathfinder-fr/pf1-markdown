@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Votre courage vous protège de bien plus que la peur.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Cha](./Cha.md) 13, capacité de classe [courage](./Guerrier.md#COURAGE)
+**Conditions.** [[Cha]] 13, capacité de classe [[Guerrier#COURAGE|courage]]
 
-**Avantages.** Le personnage applique son bonus de [courage](./Guerrier.md#COURAGE) à tous les [effets mentaux](./Registre.md) plutôt que seulement aux effets de peur.
+**Avantages.** Le personnage applique son bonus de [[Guerrier#COURAGE|courage]] à tous les [[registre|effets mentaux]] plutôt que seulement aux effets de peur.

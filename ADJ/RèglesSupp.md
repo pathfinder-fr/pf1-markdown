@@ -12,9 +12,9 @@ LastModified: 2017-04-30 19:45
 PLAYTESTS
 
 {s:itemadj|PREVIEWAPG|(Advanced Player's Guide)  
-6 nouvelles classes|ADJ%2fPathfinder-RPG%2fAPGPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fAPGPlaytest.pdf|**(version 4.3)** Une traduction amateur de six nouvelles classes de base (alchimiste, chevalier, conjurateur, inquisiteur, oracle, sorcière) à paraître dans l'[Advanced Player's Guide](./../Golarion/Publications.md#Suppléments_de_règles_1), actuellement en playtest|fichier PDF|Dalvyn et Rectulo}
+6 nouvelles classes|ADJ%2fPathfinder-RPG%2fAPGPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fAPGPlaytest.pdf|**(version 4.3)** Une traduction amateur de six nouvelles classes de base (alchimiste, chevalier, conjurateur, inquisiteur, oracle, sorcière) à paraître dans l'[[Publications#Suppléments_de_règles_1|Advanced Player's Guide]], actuellement en playtest|fichier PDF|Dalvyn et Rectulo}
 {s:itemadj|PREVIEWBESTIAIRE|(Bestiaire)  
-plus de 30 monstres|ADJ%2fPathfinder-RPG%2fPreviewBestiaireMini.jpg|%2fADJ%2fPathfinder-RPG%2fPreviewBestiaire.pdf|Une traduction amateur des extraits du Bestiaire Pathfinder-RPG à paraître en français qui sont disponible gratuitement en VO sur le site de Paizo (voir [cette page](./../Golarion/Publications.md) pour plus d'informations sur le Bestiaire)|fichier PDF|Dalvyn}
+plus de 30 monstres|ADJ%2fPathfinder-RPG%2fPreviewBestiaireMini.jpg|%2fADJ%2fPathfinder-RPG%2fPreviewBestiaire.pdf|Une traduction amateur des extraits du Bestiaire Pathfinder-RPG à paraître en français qui sont disponible gratuitement en VO sur le site de Paizo (voir [[Publications|cette page]] pour plus d'informations sur le Bestiaire)|fichier PDF|Dalvyn}
 {s:itemadj|PREVIEWUM|(Ultimate Magic)  
 Playtest des règles|ADJ%2fPathfinder-RPG%2fUMPlaytestMini.jpg|%2fADJ%2fPathfinder-RPG%2fUM2Playtest.pdf|Une traduction amateur des règles en playtest pour l'Ultimate Magic, comme la nouvelle classe de base de magus et le système de magie par mots de pouvoir|fichier PDF|Dalvyn}
 {s:itemadj|PREVIEWUC|(Ultimate Combat)  

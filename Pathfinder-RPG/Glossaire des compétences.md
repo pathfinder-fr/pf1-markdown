@@ -15,80 +15,80 @@ Categories:
 ! Anglais !! Français
 |-
 | Acrobatics
-| CLASS="gauche" | [Acrobaties](./Acrobaties.md)
+| CLASS="gauche" | [[Acrobaties]]
 |-
 | Appraise
-| CLASS="gauche" | [Estimation](./Estimation.md)
+| CLASS="gauche" | [[Estimation]]
 |-
 | Bluff
-| CLASS="gauche" | [Bluff](./Bluff.md)
+| CLASS="gauche" | [[Bluff]]
 |-
 | Climb
-| CLASS="gauche" | [Escalade](./Escalade.md)
+| CLASS="gauche" | [[Escalade]]
 |-
 | Craft
-| CLASS="gauche" | [Artisanat](./Artisanat.md)
+| CLASS="gauche" | [[Artisanat]]
 |-
 | Diplomacy
-| CLASS="gauche" | [Diplomatie](./Diplomatie.md)
+| CLASS="gauche" | [[Diplomatie]]
 |-
 | Disable Device
-| CLASS="gauche" | [Sabotage](./Sabotage.md)
+| CLASS="gauche" | [[Sabotage]]
 |-
 | Disguise
-| CLASS="gauche" | [Déguisement](./Déguisement.md)
+| CLASS="gauche" | [[Déguisement]]
 |-
 | Escape Artist
-| CLASS="gauche" | [Évasion](./Évasion.md)
+| CLASS="gauche" | [[Évasion]]
 |-
 | Fly
-| CLASS="gauche" | [Vol](./Vol.md)
+| CLASS="gauche" | [[Vol]]
 |-
 | Handle animal
-| CLASS="gauche" | [Dressage](./Dressage.md)
+| CLASS="gauche" | [[Dressage]]
 |-
 | Heal
-| CLASS="gauche" | [Premiers secours](./Premiers secours.md)
+| CLASS="gauche" | [[Premiers secours]]
 |-
 | Intimidate
-| CLASS="gauche" | [Intimidation](./Intimidation.md)
+| CLASS="gauche" | [[Intimidation]]
 |-
 | Knowledge
-| CLASS="gauche" | [Connaissances](./Connaissances.md)
+| CLASS="gauche" | [[Connaissances]]
 |-
 | Linguistics
-| CLASS="gauche" | [Linguistique](./Linguistique.md)
+| CLASS="gauche" | [[Linguistique]]
 |-
 | Perception
-| CLASS="gauche" | [Perception](./Perception.md)
+| CLASS="gauche" | [[Perception]]
 |-
 | Perform
-| CLASS="gauche" | [Représentation](./Représentation.md)
+| CLASS="gauche" | [[Représentation]]
 |-
 | Profession
-| CLASS="gauche" | [Profession](./Profession.md)
+| CLASS="gauche" | [[Profession]]
 |-
 | Ride
-| CLASS="gauche" | [Équitation](./Équitation.md)
+| CLASS="gauche" | [[Équitation]]
 |-
 | Sense motive
-| CLASS="gauche" | [Psychologie](./Psychologie.md)
+| CLASS="gauche" | [[Psychologie]]
 |-
 | Sleight of Hand
-| CLASS="gauche" | [Escamotage](./Escamotage.md)
+| CLASS="gauche" | [[Escamotage]]
 |-
 | Spellcraft
-| CLASS="gauche" | [Art de la magie](./Art de la magie.md)
+| CLASS="gauche" | [[Art de la magie]]
 |-
 | Stealth
-| CLASS="gauche" | [Discrétion](./Discrétion.md)
+| CLASS="gauche" | [[Discrétion]]
 |-
 | Survival
-| CLASS="gauche" | [Survie](./Survie.md)
+| CLASS="gauche" | [[Survie]]
 |-
 | Swim
-| CLASS="gauche" | [Natation](./Natation.md)
+| CLASS="gauche" | [[Natation]]
 |-
 | Use Magic Device
-| CLASS="gauche" | [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md)
+| CLASS="gauche" | [[Utilisation dobjets magiques|Utilisation d'objets magiques]]
 |}

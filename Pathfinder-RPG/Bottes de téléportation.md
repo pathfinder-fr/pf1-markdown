@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bottes de téléportation|}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 9 ; **Emplacement** [pieds](./Objets merveilleux portés aux pieds.md) ; **Prix** 49 000 po ; **Poids** 0,5 kg
+**Aura** [[Invocation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 49 000 po ; **Poids** 0,5 kg
 (((Description)))
-Le porteur de ces bottes peut se téléporter jusqu’à trois fois par jour, comme s’il utilisait le sort *[téléportation](./téléportation.md)*.
+Le porteur de ces bottes peut se téléporter jusqu’à trois fois par jour, comme s’il utilisait le sort *[[téléportation]]*.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[téléportation](./téléportation.md)* ; **Coût** 24 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[téléportation]]* ; **Coût** 24 500 po
 </div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#ODORAT
 ---
 
->>> [pouvoirs de rage#ODORAT](./Pouvoirs de rage.md#ODORAT)
+>>> [[pouvoirs de rage#ODORAT]]

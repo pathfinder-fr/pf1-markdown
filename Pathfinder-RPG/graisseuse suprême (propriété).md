@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Graisseuse suprême
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Graisseuse suprême](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Graisseuse suprême)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Graisseuse suprême]]

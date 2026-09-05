@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po–500 po ; **Poids** 0,25 kg–2 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:AE}**Prix** 5 po–500 po ; **Poids** 0,25 kg–2 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 Il existe différentes formes de perruques, de l’austère chignon de juge aux hautes coiffures qu’arborent les nobles en passant par les simples boucles que portent les femmes au foyer qui perdent leurs cheveux. On peut acheter des perruques dans toutes les grandes villes ou les commander. Comme elles sont fabriquées à partir de vrais cheveux, les couleurs se limitent souvent aux couleurs de cheveux dominantes de la région mais on peut les teindre.

@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Senghor est une grande ville portuaire de la côte sud-ouest du [Mwangi](./Mwangi.md). Elle est située à l'extrémité de la péninsule appelée Terres de Kaava.
+Senghor est une grande ville portuaire de la côte sud-ouest du [[Mwangi]]. Elle est située à l'extrémité de la péninsule appelée Terres de Kaava.

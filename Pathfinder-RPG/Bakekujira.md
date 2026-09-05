@@ -14,14 +14,14 @@ Categories:
 {s:pucem|Mort-vivant|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 18*}
 - **102 400 PX**
-- [Mort-vivant](./type Mort-vivant.md) ([aquatique](./sous-type aquatique.md)) de taille C, NM
-- **Init **+4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +20
+- [[type mort-vivant|Mort-vivant]] ([[sous-type aquatique|aquatique]]) de taille C, NM
+- **Init **+4 ; **Sens** [[vision dans le noir]] 18 m ; [[Perception]] +20
 - **Aura** parasites morts-vivants (9 m, DD 28)
 (((Défense)))
 - **CA** 32, contact 2, pris au dépourvu 32 (naturelle +30, taille -8)
 - **pv** 262 (25d8+150)
 - **Réf **+10, **Vig **+14, **Vol **+14
-- **Capacités défensives** [résistance à la canalisation](./résistance à la canalisation.md) +4 ; **RD** 15/ contondant ; **Immunité** [traits des morts-vivants](./Traits des morts-vivants.md)
+- **Capacités défensives** [[résistance à la canalisation]] +4 ; **RD** 15/ contondant ; **Immunité** [[traits des morts-vivants]]
 (((Attaque)))
 - **VD** 4,50 m, nage 18 m
 - **Corps à corps** morsure, +27 (6d6+16/19-20) 
@@ -31,8 +31,8 @@ Categories:
 (((Statistiques)))
 - **For** 42, **Dex** 10, **Con** -, **Int** 2, **Sag** 11, **Cha** 23
 - **BBA **+18 ; **BMO **+42 (+46 bousculade) ; **DMD** 52 (54 contre bousculade, croc-en-jambe impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Bousculade supérieure](./Bousculade supérieure.md), [Coup fabuleux](./Coup fabuleux.md), [Critique étourdissant](./Critique étourdissant.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md), [Science des réflexes surhumains](./Science des réflexes surhumains.md), [Science du critique](./Science du critique.md) (morsure)
-- **Compétences** [Intimidation](./Intimidation.md) +16, [Natation](./Natation.md) +28, [Perception](./Perception.md) +20,
+- **Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaques réflexes]], [[Bousculade supérieure]], [[Coup fabuleux]], [[Critique étourdissant]], [[Critique ralentissant]], [[Don pour les critiques]], [[Réflexes surhumains]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]], [[Science des réflexes surhumains]], [[Science du critique]] (morsure)
+- **Compétences** [[Intimidation]] +16, [[Natation]] +28, [[Perception]] +20,
 (((Écologie)))
 - **Environnement** océans
 - **Organisation** solitaire
@@ -41,7 +41,7 @@ Categories:
 - **Appel du léviathan (Sur)**. La teneur du chant du bakekujira varie et peut aussi bien traduire des souvenirs mélancoliques qu’une haine dévorante. Il lui faut accomplir une action simple pour chanter. Toutes les créatures vivantes situées dans un rayon de 36 mètres autour du bakekujira doivent réussir un jet de Volonté DD 28 ou être fascinées ou effrayées (au choix du bakekujira) pendant 1 round. Une créature qui réussit son jet de sauvegarde est immunisée contre l’appel du léviathan de ce bakekujira pendant 24 heures. C’est un effet mental sonore. Le DD du jet de sauvegarde est basé sur le Charisme.
 - **Chant strident (Sur)**. Une fois tous les 1d4 rounds, le bakekujira peut, par une action simple, émettre un son à la résonance dévastatrice qui inflige 12d8 points de dégâts sonores à toutes les créatures situées dans un cône de 18 m (Vig DD 28, 1/2 dégâts). Le DD du jet de sauvegarde est basé sur le Charisme.
 - **Parasites morts-vivants (Sur)**. Un bakekujira est entouré d’une nuée de 9 mètres de rayon composée de poissons et d’oiseaux mortsvivants. Les créatures qui commencent leur tour dans la nuée doivent réussir un jet de Volonté DD 28 ou être nauséeuses pendant 1 round et recevoir 6d6 points dégâts. Les créatures capables de canaliser de l’énergie positive peuvent supprimer cette aura pendant 1 round en dépensant une utilisation de leur canalisation d’énergie. Le bakekujira a droit à un jet de sauvegarde contre cet effet. Le DD du jet de sauvegarde est égal à 10 + 1/2 NLS du canalisateur + modificateur de Charisme du canalisateur. L’énergie canalisée n’a pas d’autre effet. 
-- **Saut destructeur (Ext)**. Par une action complexe, le bakekujira qui se trouve dans l’eau peut faire une attaque de charge spéciale contre une créature située à la surface des flots. À la fin de la charge, la baleine saute hors de l’eau et retombe avec une force incroyable. Toutes les créatures de taille TG ou moins qui se trouvent alors dans l’emplacement qu’elle occupe doivent réussir un jet de Réflexes DD 28 ou recevoir 4d8+24 points de dégâts contondants. Elles sont projetées dans la case vide adjacente la plus proche du monstre. Un humanoïde tué par ce pouvoir se relève sous forme de [draugr](./Draugr.md) (Bestiaire 2 Pathfinder JdR p.119) 1d6 heures plus tard. Le bakekujira peut utiliser le pouvoir chavirer en conjonction avec celui-ci. Le DD du jet de sauvegarde est basé sur le Charisme.
+- **Saut destructeur (Ext)**. Par une action complexe, le bakekujira qui se trouve dans l’eau peut faire une attaque de charge spéciale contre une créature située à la surface des flots. À la fin de la charge, la baleine saute hors de l’eau et retombe avec une force incroyable. Toutes les créatures de taille TG ou moins qui se trouvent alors dans l’emplacement qu’elle occupe doivent réussir un jet de Réflexes DD 28 ou recevoir 4d8+24 points de dégâts contondants. Elles sont projetées dans la case vide adjacente la plus proche du monstre. Un humanoïde tué par ce pouvoir se relève sous forme de [[draugr]] (Bestiaire 2 Pathfinder JdR p.119) 1d6 heures plus tard. Le bakekujira peut utiliser le pouvoir chavirer en conjonction avec celui-ci. Le DD du jet de sauvegarde est basé sur le Charisme.
 
 
 

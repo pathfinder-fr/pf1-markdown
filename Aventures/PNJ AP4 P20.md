@@ -4,6 +4,6 @@ Title: PNJ AP4 P20
 LastModified: 2013-10-10 15:39
 ---
 
-- Fiche pour [^http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Blobog.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|Blobog]
+- Fiche pour [Blobog](http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Blobog.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1)
 
-retour vers [Aides de jeu AP4](./Aides de jeu AP4.md)
+retour vers [[Aides de jeu AP4]]

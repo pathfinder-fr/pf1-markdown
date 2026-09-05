@@ -11,34 +11,34 @@ Categories:
 <div class="BD">
 {s:BDTitre|Heikegani|FP 4}
 {s:pucem|Aberration|Aquatique|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.150](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.150]]*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille P, NM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 mètres ; [Perception](./Perception.md) +10}
-{s:BDTexte|**Aura** [aura surnaturelle](./Aura surnaturelle (capacité).md) (9 m, DD 14)}
+{s:BDTexte|[[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille P, NM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 mètres ; [[Perception]] +10}
+{s:BDTexte|**Aura** [[Aura surnaturelle (capacité)|aura surnaturelle]] (9 m, DD 14)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 12, pris au dépourvu 17 (Dex +1, naturelle +6, taille +1)}
 {s:BDTexte|**pv** 42 (5d8+20)}
 {s:BDTexte|**Réf** +2, **Vig** +5, **Vol** +6}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m, nage 6 m}
-{s:BDTexte|**Corps à corps** 2 griffes, +9 (1d3+4 plus [étreinte](./Étreinte (capacité).md)) ou dague, +8 (1d3+4/19-20) et griffe, +4 (1d3+2 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** 2 griffes, +9 (1d3+4 plus [[Étreinte (capacité)|étreinte]]) ou dague, +8 (1d3+4/19-20) et griffe, +4 (1d3+2 plus [[Étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Distance** dague, +5 (1d3+4/19-20)}
-{s:BDTexte|**Attaques spéciales** [constriction](./Constriction (capacité).md) (1d3+4), défi (2/jour), étreinte (Moyen), regard intimidant}
+{s:BDTexte|**Attaques spéciales** [[Constriction (capacité)|constriction]] (1d3+4), défi (2/jour), étreinte (Moyen), regard intimidant}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 13, **Con** 18, **Int** 9, **Sag** 14, **Cha** 7}
-{s:BDTexte|**BBA** +3 ; **BMO** +6 (+10 en [lutte](./lutte.md)) ; **DMD** 17 (25 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Arme de prédilection](./Arme de prédilection.md) (griffe), [Talent](./Talent.md) (Intimidation)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (noblesse) +4, [Intimidation](./Intimidation.md) +9, [Natation](./Natation.md) +18, [Perception](./Perception.md) +10}
+{s:BDTexte|**BBA** +3 ; **BMO** +6 (+10 en [[lutte]]) ; **DMD** 17 (25 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Arme de prédilection]] (griffe), [[Talent]] (Intimidation)}
+{s:BDTexte|**Compétences** [[Connaissances]] (noblesse) +4, [[Intimidation]] +9, [[Natation]] +18, [[Perception]] +10}
 {s:BDTexte|**Langues** commun (ne peut pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** toutes les côtes}
 {s:BDTexte|**Organisation** solitaire ou garde (3-7)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Défi (Sur).** Deux fois par jour, par une [action rapide](./Action rapide.md), un heikegani peut défier un ennemi. Le heikegani gagne alors un bonus de +4 à ses [jets de dégâts](./Valeurs de combat.md#DEGATS) contre cet ennemi et un malus de -2 à sa [CA](./CA.md) contre toutes les attaques sauf celles de l’ennemi défié, jusqu’à la fin du combat ou jusqu’à ce que cet ennemi ait perdu conscience. Le heikegani gagne aussi une [RD](./RD.md) 2/— contre les attaques portées par la cible de son défi.}
-{s:BDTexte|**Regard intimidant (Ext).** Par une [action complexe](./Action complexe.md), un heikegani peut se dresser sur ses pattes arrière afin d’exposer la semblance de visage qui se trouve sur sa carapace en claquant des pinces de manière menaçante. Le heikegani peut alors tenter un test d’[Intimidation](./Intimidation.md) pour démoraliser les ennemis qui se trouvent dans un rayon de 9 mètres et qui peuvent voir le visage, de la même manière que s’il utilisait le don [Démonstration](./Démonstration.md). Même s’il est plus petit que les créatures qu’il cible, le crabe ne subit pas de malus lors de ce test.}
-{s:BDTexte|**Réminiscences d’honneur (Sur).** Une fois par jour, quand un heikegani tente de faire un [jet de sauvegarde](./JDS.md) ou un test de [compétence](./Compétences.md), il peut faire appel à la détermination qui était sienne au cours de sa vie précédente afin de gagner un bonus de +4 pour ce jet de dé. Le heikegani doit décider s’il veut utiliser ce pouvoir avant de lancer le dé.}
+{s:BDTexte|**Défi (Sur).** Deux fois par jour, par une [[action rapide]], un heikegani peut défier un ennemi. Le heikegani gagne alors un bonus de +4 à ses [[Valeurs de combat#DEGATS|jets de dégâts]] contre cet ennemi et un malus de -2 à sa [[CA]] contre toutes les attaques sauf celles de l’ennemi défié, jusqu’à la fin du combat ou jusqu’à ce que cet ennemi ait perdu conscience. Le heikegani gagne aussi une [[RD]] 2/— contre les attaques portées par la cible de son défi.}
+{s:BDTexte|**Regard intimidant (Ext).** Par une [[action complexe]], un heikegani peut se dresser sur ses pattes arrière afin d’exposer la semblance de visage qui se trouve sur sa carapace en claquant des pinces de manière menaçante. Le heikegani peut alors tenter un test d’[[Intimidation]] pour démoraliser les ennemis qui se trouvent dans un rayon de 9 mètres et qui peuvent voir le visage, de la même manière que s’il utilisait le don [[Démonstration]]. Même s’il est plus petit que les créatures qu’il cible, le crabe ne subit pas de malus lors de ce test.}
+{s:BDTexte|**Réminiscences d’honneur (Sur).** Une fois par jour, quand un heikegani tente de faire un [[jds|jet de sauvegarde]] ou un test de [[Compétences|compétence]], il peut faire appel à la détermination qui était sienne au cours de sa vie précédente afin de gagner un bonus de +4 pour ce jet de dé. Le heikegani doit décider s’il veut utiliser ce pouvoir avant de lancer le dé.}
 
 </div></td>
 <td><div>*La carapace de ce grand crabe ressemble à un visage humain figé dans une grimace de fureur antédiluvienne.*

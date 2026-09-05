@@ -8,6 +8,6 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-Le monstre voit à travers la matière solide comme s’il portait un [anneau de rayons X](./Anneau de rayons X.md), mais c’est aussi épuisant pour lui que s’il utilisait un tel anneau.
+Le monstre voit à travers la matière solide comme s’il portait un [[anneau de rayons X]], mais c’est aussi épuisant pour lui que s’il utilisait un tel anneau.
 
 *Format :* vision à rayons X ; *Emplacement :* Sens.

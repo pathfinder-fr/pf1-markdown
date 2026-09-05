@@ -10,8 +10,8 @@ LastModified: 2017-01-21 14:16
 {s:pucem|Humanoïde|Ville|Tempéré}
 - *Source : Bestiaire 2* p.252   
 - **PX** 400
-- **[Humanoïde](./type Humanoïde.md)** ([skulk](./sous-type-skulk.md)) de taille M, CM
-- **Init** +6 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5
+- **[[Type Humanoïde|Humanoïde]]** ([[sous-type skulk|skulk]]) de taille M, CM
+- **Init** +6 ; **Sens** [[vision nocturne]] ; [[Perception]] +5
 (((Défense)))
 - **CA** 12, contact 12, pris au dépourvu 10 (Dex +2)
 - **pv** 16 (3d8+3)
@@ -20,12 +20,12 @@ LastModified: 2017-01-21 14:16
 - **VD** 9 m (6 {s:c})
 - **Corps à corps** épée courte, +2 (1d6/19–20)
 - **Distance** dague, +4 (1d4/19–20)
-- **Attaques spéciales** [attaque sournoise](./attaque sournoise.md) +1d6
+- **Attaques spéciales** [[attaque sournoise]] +1d6
 (((Statistiques)))
 - **For** 11, **Dex** 14, **Con** 13, **Int** 10, **Sag** 14, **Cha** 7
 - **BBA** +2 ; **BMO** +2 ; **DMD** 14
-- **Dons** [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))
-- **Compétences** [Discrétion](./Discrétion.md) +16, [Perception](./Perception.md) +5 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md)
+- **Dons** [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Discrétion]])
+- **Compétences** [[Discrétion]] +16, [[Perception]] +5 ; **Modificateurs raciaux** +8 en [[Discrétion]]
 - **Langues** commun, commun des profondeurs
 - **Particularités** peau de caméléon, piste camouflée
 (((Écologie)))

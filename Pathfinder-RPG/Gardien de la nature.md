@@ -22,43 +22,43 @@ Les gardiens de la nature sont généralement des druides ou des rôdeurs/druide
 | CLASS="gauche" | Sorts par jour
 |- CLASS="premier"
 | 1 || +0 || +0 || +1 || +1
-| CLASS="gauche" | [Lien avec le compagnon](./Gardien de la nature.md#LIENAVECLECOMPAGNON), [empathie naturelle](./Gardien de la nature.md#EMPATHIENATURELLE)
+| CLASS="gauche" | [[Gardien de la nature#LIENAVECLECOMPAGNON|Lien avec le compagnon]], [[Gardien de la nature#EMPATHIENATURELLE|empathie naturelle]]
 | CLASS="gauche" | -
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Harmonie mystique](./Gardien de la nature.md#HARMONIEMYSTIQUE), [déplacement aisé](./Gardien de la nature.md#DEPLACEMENTAISE)
+| CLASS="gauche" | [[Gardien de la nature#HARMONIEMYSTIQUE|Harmonie mystique]], [[Gardien de la nature#DEPLACEMENTAISE|déplacement aisé]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |-
 | 3 || +2 || +1 || +2 || +2
-| CLASS="gauche" | [Langage animal](./Gardien de la nature.md#LANGAGEANIMAL)
+| CLASS="gauche" | [[Gardien de la nature#LANGAGEANIMAL|Langage animal]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |- CLASS="alt"
 | 4 || +3 || +1 || +2 || +2
-| CLASS="gauche" | [Griffe d’argent](./Gardien de la nature.md#GRIFFEDARGENT)
+| CLASS="gauche" | [[Gardien de la nature#GRIFFEDARGENT|Griffe d’argent]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |-
 | 5 || +3 || +2 || +3 || +3
-| CLASS="gauche" | [Environnement de prédilection](./Gardien de la nature.md#ENVIRONNEMENTDEPREDILECTION), [survivant](./Gardien de la nature.md#SURVIVANT)
+| CLASS="gauche" | [[Gardien de la nature#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[Gardien de la nature#SURVIVANT|survivant]]
 | CLASS="gauche" | -
 |- CLASS="alt"
 | 6 || +4 || +2 || +3 || +3
-| CLASS="gauche" | [Forgebois](./Gardien de la nature.md#FORGEBOIS)
+| CLASS="gauche" | [[Gardien de la nature#FORGEBOIS|Forgebois]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |-
 | 7 || +5 || +2 || +4 || +4
-| CLASS="gauche" | [Inséparables](./Gardien de la nature.md#INSEPARABLES), [langage des plantes](./Gardien de la nature.md#LANGAGEDESPLANTES)
+| CLASS="gauche" | [[Gardien de la nature#INSEPARABLES|Inséparables]], [[Gardien de la nature#LANGAGEDESPLANTES|langage des plantes]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |- CLASS="alt"
 | 8 || +6 || +3 || +4 || +4
-| CLASS="gauche" | [Patte de fer](./Gardien de la nature.md#PATTEDEFER)
+| CLASS="gauche" | [[Gardien de la nature#PATTEDEFER|Patte de fer]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |-
 | 9 || +6 || +3 || +5 || +5
-| CLASS="gauche" | [Terres protégées](./Gardien de la nature.md#TERRESPROTEGEES)
+| CLASS="gauche" | [[Gardien de la nature#TERRESPROTEGEES|Terres protégées]]
 | CLASS="gauche" | -
 |- CLASS="alt"
 | 10 || +7 || +3 || +5 || +5
-| CLASS="gauche" | [Âme sœur](./Gardien de la nature.md#AMESOEUR), [environnement de prédilection](./Gardien de la nature.md#ENVIRONNEMENTDEPREDILECTION)
+| CLASS="gauche" | [[Gardien de la nature#AMESOEUR|Âme sœur]], [[Gardien de la nature#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |}
 </center>
@@ -75,17 +75,17 @@ Pour devenir un gardien de la nature, il faut satisfaire aux conditions suivante
 
 **Bonus de base à l’attaque.** +4.
 
-**Compétences.** 5 rangs en [Connaissances](./Connaissances.md) (géographie), 5 rangs en [Connaissances](./Connaissances.md) (nature), 5 rangs en [Dressage](./Dressage.md), 5 rangs en [Survie](./Survie.md).
+**Compétences.** 5 rangs en [[Connaissances]] (géographie), 5 rangs en [[Connaissances]] (nature), 5 rangs en [[Dressage]], 5 rangs en [[Survie]].
 
-**Spécial.** pouvoir de classe [compagnon animal](./compagnon animal.md)<sup>*</sup>, [environnement de prédilection](./Rôdeur.md#environnement de prédilection) et [empathie sauvage](./empathie sauvage.md).
+**Spécial.** pouvoir de classe [[compagnon animal]]<sup>*</sup>, [[Rôdeur#environnement de prédilection|environnement de prédilection]] et [[empathie sauvage]].
 
 **Sorts.** Capacité à lancer des sorts divins de niveau 2
 
-*<sup>*</sup> Le pouvoir de [monture fidèle](./Mystère de la nature.md#MONTUREFIDELE) de l’[oracle](./Oracle.md) compte comme compagnon animal en ce qui concerne les conditions requises par cette classe de prestige.*
+*<sup>*</sup> Le pouvoir de [[Mystère de la nature#MONTUREFIDELE|monture fidèle]] de l’[[oracle]] compte comme compagnon animal en ce qui concerne les conditions requises par cette classe de prestige.*
 ### Compétences de classe
-Voici les compétences de classe du gardien de la nature  : [Connaissances](./Connaissances.md) (géographie) (Int),  [Connaissances](./Connaissances.md) (nature) (Int), [Dressage](./Dressage.md) (Cha), [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Natation](./Natation.md) (For), [Perception](./Perception.md) (Sag), [Premiers secours](./Premiers secours.md) (Sag), [Psychologie](./Psychologie.md) (Sag), [Survie](./Survie.md) (Sag).
+Voici les compétences de classe du gardien de la nature  : [[Connaissances]] (géographie) (Int),  [[Connaissances]] (nature) (Int), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Natation]] (For), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Psychologie]] (Sag), [[Survie]] (Sag).
 
-**Nombre de rangs par niveau. ** 4 + modificateur d’[Intelligence](./Intelligence.md)
+**Nombre de rangs par niveau. ** 4 + modificateur d’[[Intelligence]]
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de prestige de gardien de la nature.
@@ -98,60 +98,60 @@ Aux niveaux indiqués, le personnage gagne de nouveaux sorts par jour comme s’
 
 {s:reference|LIENAVECLECOMPAGNON}
 #### Lien avec le compagnon (Ext)
-Au niveau 1, les niveaux de gardien de la nature se cumulent avec ceux de toute classe qui possède un [compagnon animal](./compagnon animal.md) pour déterminer les aptitudes de ce compagnon. Le gardien et son compagnon entretiennent un lien empathique, comme celui qui existe entre un [magicien](./Magicien.md) et son [familier](./familier.md). Au niveau 5, le compagnon animal du gardien gagne les mêmes avantages que le gardien quand il se trouve dans son [environnement de prédilection](./Gardien de la nature.md#ENVIRONNEMENTDEPREDILECTION).
+Au niveau 1, les niveaux de gardien de la nature se cumulent avec ceux de toute classe qui possède un [[compagnon animal]] pour déterminer les aptitudes de ce compagnon. Le gardien et son compagnon entretiennent un lien empathique, comme celui qui existe entre un [[magicien]] et son [[familier]]. Au niveau 5, le compagnon animal du gardien gagne les mêmes avantages que le gardien quand il se trouve dans son [[Gardien de la nature#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]].
 
 {s:reference|EMPATHIENATURELLE}
 #### Empathie naturelle (Ext)
-Les niveaux de gardien de la nature se cumulent avec ceux de toute classe qui accorde le pouvoir [empathie sauvage](./empathie sauvage.md) pour déterminer la puissance de ce dernier. Quand le gardien se trouve dans un [environnement de prédilection](./Gardien de la nature.md#ENVIRONNEMENTDEPREDILECTION), il ajoute son bonus d’environnement aux tests d’[empathie sauvage](./empathie sauvage.md). Il peut également utiliser l’empathie pour démoraliser un animal ou une créature magique, comme s’il se servait de l’[Intimidation](./Intimidation.md) au lieu de la [Diplomatie](./Diplomatie.md).
+Les niveaux de gardien de la nature se cumulent avec ceux de toute classe qui accorde le pouvoir [[empathie sauvage]] pour déterminer la puissance de ce dernier. Quand le gardien se trouve dans un [[Gardien de la nature#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]], il ajoute son bonus d’environnement aux tests d’[[empathie sauvage]]. Il peut également utiliser l’empathie pour démoraliser un animal ou une créature magique, comme s’il se servait de l’[[Intimidation]] au lieu de la [[Diplomatie]].
 
-Au niveau 4, le gardien de la nature n’a plus de malus quand il utilise l’[empathie sauvage](./empathie sauvage.md) pour influencer ou démoraliser une [créature magique](./type Créature magique.md). Au niveau 7, il peut l’utiliser sur la [vermine](./type Vermine.md) (sans [Intelligence](./Intelligence.md) ou avec une Intelligence de 1 ou 2) et au niveau 10 sur des [créatures végétales](./type Plante.md) (sans Intelligence ou avec une Intelligence de 1 ou 2).
+Au niveau 4, le gardien de la nature n’a plus de malus quand il utilise l’[[empathie sauvage]] pour influencer ou démoraliser une [[type Créature magique|créature magique]]. Au niveau 7, il peut l’utiliser sur la [[type Vermine|vermine]] (sans [[Intelligence]] ou avec une Intelligence de 1 ou 2) et au niveau 10 sur des [[type Plante|créatures végétales]] (sans Intelligence ou avec une Intelligence de 1 ou 2).
 
 {s:reference|HARMONIEMYSTIQUE}
 #### Harmonie mystique (Sur)
-Au niveau 2, le gardien de la nature gagne un bonus d’intuition à la [CA](./CA.md) égal à la moitié de son bonus d’environnement de prédilection quand il se trouve dans ce dernier. Il perd ce bonus s’il est [immobilisé](./Immobilisé.md) ou [sans défense](./Sans défense.md).
+Au niveau 2, le gardien de la nature gagne un bonus d’intuition à la [[CA]] égal à la moitié de son bonus d’environnement de prédilection quand il se trouve dans ce dernier. Il perd ce bonus s’il est [[immobilisé]] ou [[sans défense]].
 
 {s:reference|DEPLACEMENTAISE}
 #### Déplacement aisé (Ext)
-Au niveau 2, le gardien de la nature et son [compagnon animal](./compagnon animal.md) sont capables de se déplacer à leur [vitesse de base](./VD.md) malgré les difficultés naturelles de leur environnement de prédilection (dans un marais, des sables profonds, sur la glace, dans des pierriers, etc.). Ils ne subissent pas de malus et ne souffrent pas de la moindre gêne (en pratique, il s’agit du [déplacement facilité](./Druide.md#DEPLACEMENTFACILITE) appliqué aux embûches autres que végétales). En revanche, les terrains modifiés par magie pour gêner les mouvements les affectent toujours.
+Au niveau 2, le gardien de la nature et son [[compagnon animal]] sont capables de se déplacer à leur [[VD|vitesse de base]] malgré les difficultés naturelles de leur environnement de prédilection (dans un marais, des sables profonds, sur la glace, dans des pierriers, etc.). Ils ne subissent pas de malus et ne souffrent pas de la moindre gêne (en pratique, il s’agit du [[druide#DEPLACEMENTFACILITE|déplacement facilité]] appliqué aux embûches autres que végétales). En revanche, les terrains modifiés par magie pour gêner les mouvements les affectent toujours.
 
 {s:reference|LANGAGEANIMAL}
 #### Langage animal (Mag)
-Au niveau 3, le gardien de la nature peut [communiquer avec les animaux](./Communication avec les animaux.md) à volonté quand il se trouve dans son environnement de prédilection. Ailleurs, il ne peut le faire qu’une fois par jour. Son [niveau de lanceur de sorts](./NLS.md) est égal à son niveau de classe.
+Au niveau 3, le gardien de la nature peut [[communication avec les animaux|communiquer avec les animaux]] à volonté quand il se trouve dans son environnement de prédilection. Ailleurs, il ne peut le faire qu’une fois par jour. Son [[NLS|niveau de lanceur de sorts]] est égal à son niveau de classe.
 
 {s:reference|GRIFFEDARGENT}
 #### Griffe d’argent (Sur)
-Au niveau 4, le [compagnon animal](./compagnon animal.md) du gardien de la nature et toute créature invoquée à l’aide du sort  *[convocation d’alliés naturels](./Convocation dalliés naturels I.md)* gagne une [RD](./RD.md)/argent égale au niveau de classe du gardien. De plus, leurs armes naturelles sont considérées comme faites d’argent quand il s’agit de vaincre la [réduction de dégâts](./RD.md).
+Au niveau 4, le [[compagnon animal]] du gardien de la nature et toute créature invoquée à l’aide du sort  *[[convocation dalliés naturels I|convocation d’alliés naturels]]* gagne une [[RD]]/argent égale au niveau de classe du gardien. De plus, leurs armes naturelles sont considérées comme faites d’argent quand il s’agit de vaincre la [[RD|réduction de dégâts]].
 
 {s:reference|ENVIRONNEMENTDEPREDILECTION}
 #### Environnement de prédilection (Ext)
-Le gardien de la nature peut choisir un [environnement de prédilection](./Rôdeur.md#ENVIRONNEMENTDEPREDILECTION) aux niveaux 5 et 10. Ce pouvoir est identique à celui du [rôdeur](./Rôdeur.md) et se cumule avec.
+Le gardien de la nature peut choisir un [[RÔDEUR#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]] aux niveaux 5 et 10. Ce pouvoir est identique à celui du [[rôdeur]] et se cumule avec.
 
 {s:reference|SURVIVANT}
 #### Survivant (Ext)
-Au niveau 5, le gardien de la nature n’a plus de malus quand il utilise une arme ou un outil improvisé. Au niveau 10, il peut passer 1 minute à examiner et ajuster une arme ou un outil improvisé qu’il traite ensuite comme une arme ou un outil [de maître](./arme de maître.md).
+Au niveau 5, le gardien de la nature n’a plus de malus quand il utilise une arme ou un outil improvisé. Au niveau 10, il peut passer 1 minute à examiner et ajuster une arme ou un outil improvisé qu’il traite ensuite comme une arme ou un outil [[arme de maître|de maître]].
 
 {s:reference|FORGEBOIS}
 #### Forgebois (Mag)
-Au niveau 6, le gardien de la nature fabrique des objets de bois qu’il utilise avec un talent sans égal. Il peut utiliser *[façonnage du bois](./Façonnage du bois.md)* une fois par jour, comme un pouvoir magique doté d’un [niveau de lanceur de sorts](./NLS.md) égal à son niveau de gardien de la nature. Entre ses mains, les objets créés à l’aide de ce pouvoir sont considérés comme des objets de maître sous l’effet d’un sort de *[bois de fer](./Bois de fer.md)*. Entre les mains de quelqu’un d’autre, ce sont juste de banals objets de bois du type approprié. Si le gardien utilise ce pouvoir pour créer des armes ou des armures, il peut en faire des objets magiques comme s’il disposait du don [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md) (même s’ils ne sont seulement qu'en bois magique entre les mains de tout autre et en bois de fer uniquement entre les siennes).
+Au niveau 6, le gardien de la nature fabrique des objets de bois qu’il utilise avec un talent sans égal. Il peut utiliser *[[façonnage du bois]]* une fois par jour, comme un pouvoir magique doté d’un [[NLS|niveau de lanceur de sorts]] égal à son niveau de gardien de la nature. Entre ses mains, les objets créés à l’aide de ce pouvoir sont considérés comme des objets de maître sous l’effet d’un sort de *[[bois de fer]]*. Entre les mains de quelqu’un d’autre, ce sont juste de banals objets de bois du type approprié. Si le gardien utilise ce pouvoir pour créer des armes ou des armures, il peut en faire des objets magiques comme s’il disposait du don [[Création darmes et armures magiques|Création d’armes et d’armures magiques]] (même s’ils ne sont seulement qu'en bois magique entre les mains de tout autre et en bois de fer uniquement entre les siennes).
 
 {s:reference|INSEPARABLES}
 #### Inséparables (Sur)
-Au niveau 7, le gardien de la nature partage les effets de ses sorts de voyage (comme *[voyage par les arbres](./Voyage par les arbres.md)* et *[voie végétale](./Voie végétale.md)*), de [métamorphose](./métamorphose.md) et autres (y compris *[forme d’arbre](./Forme darbre.md)*) issus des [listes de sorts de rôdeur](./Liste des sorts de rôdeurs.md) et [de druide](./Liste des sorts de druides.md) avec son compagnon animal. Ce dernier compte alors comme une partie du gardien ou comme un objet qui ne pèse rien, selon ce qui s’avère le plus profitable au gardien.
+Au niveau 7, le gardien de la nature partage les effets de ses sorts de voyage (comme *[[voyage par les arbres]]* et *[[voie végétale]]*), de [[métamorphose]] et autres (y compris *[[forme darbre|forme d’arbre]]*) issus des [[liste des sorts de rôdeurs|listes de sorts de rôdeur]] et [[liste des sorts de druides|de druide]] avec son compagnon animal. Ce dernier compte alors comme une partie du gardien ou comme un objet qui ne pèse rien, selon ce qui s’avère le plus profitable au gardien.
 
 {s:reference|LANGAGEDESPLANTES}
 #### Langage des plantes (Mag)
-Au niveau 7, le gardien de la nature peut lancer *[communication avec les plantes](./Communication avec les plantes.md)* à volonté quand il se trouve dans son environnement de prédilection. Ailleurs, il peut l’utiliser une fois par jour comme un pouvoir magique. Son [niveau de lanceur de sorts](./NLS.md) est égal à son niveau de classe.
+Au niveau 7, le gardien de la nature peut lancer *[[communication avec les plantes]]* à volonté quand il se trouve dans son environnement de prédilection. Ailleurs, il peut l’utiliser une fois par jour comme un pouvoir magique. Son [[NLS|niveau de lanceur de sorts]] est égal à son niveau de classe.
 
 {s:reference|PATTEDEFER}
 #### Patte de fer (Sur)
-Au niveau 8, le compagnon animal du gardien de la nature et toute créature invoquée à l’aide du sort *[convocation d’alliés naturels](./Convocation dalliés naturels.md)* gagne une [RD](./RD.md)/[fer froid](./fer froid.md) égale au niveau de classe du gardien. De plus, leurs armes naturelles sont considérées comme faites de fer froid quand il s’agit de vaincre la [réduction de dégâts](./RD.md). Ce pouvoir ne se cumule pas avec celui de griffe d’argent. Le gardien doit décider de celui qui s’applique au moment où il convoque la créature. Il peut changer celui qui s’applique à son animal en priant et en méditant pendant une heure alors que son compagnon se trouve à moins de 30 mètres (20 cases).
+Au niveau 8, le compagnon animal du gardien de la nature et toute créature invoquée à l’aide du sort *[[convocation dalliés naturels|convocation d’alliés naturels]]* gagne une [[RD]]/[[fer froid]] égale au niveau de classe du gardien. De plus, leurs armes naturelles sont considérées comme faites de fer froid quand il s’agit de vaincre la [[RD|réduction de dégâts]]. Ce pouvoir ne se cumule pas avec celui de griffe d’argent. Le gardien doit décider de celui qui s’applique au moment où il convoque la créature. Il peut changer celui qui s’applique à son animal en priant et en méditant pendant une heure alors que son compagnon se trouve à moins de 30 mètres (20 cases).
 
 {s:reference|TERRESPROTEGEES}
 #### Terres protégées (Ext)
-Au niveau 9, le gardien de la nature peut placer une zone sous sa protection, ce qui lui permet de la considérer comme un environnement de prédilection ou d’améliorer ses bonus si c’est déjà le cas. Cette zone ne peut pas faire plus de 3 kilomètres carrés et le gardien doit passer 24 heures à l’étudier soigneusement. Cette période d’étude lui donne un bonus d’environnement de +2 dans la zone, qui se cumule avec tout bonus d’environnement de prédilection existant (par exemple, si le gardien protège des terres boisées, il ajoute son bonus de forêt comme environnement de prédilection). Dans cette zone protégée, il peut également désigner un [type de créature](./Types de créatures.md) comme étant son [ennemi juré](./ennemi juré.md). Il gagne alors un bonus d’ennemi juré de +2 contre cette créature. Ce bonus se cumule avec tout bonus d’ennemi juré déjà actif contre ce type de créature. Les alliés qui voient et entendent le gardien gagnent un bonus d’initiative égal à la moitié du bonus d’environnement de prédilection du gardien pour la zone concernée.
+Au niveau 9, le gardien de la nature peut placer une zone sous sa protection, ce qui lui permet de la considérer comme un environnement de prédilection ou d’améliorer ses bonus si c’est déjà le cas. Cette zone ne peut pas faire plus de 3 kilomètres carrés et le gardien doit passer 24 heures à l’étudier soigneusement. Cette période d’étude lui donne un bonus d’environnement de +2 dans la zone, qui se cumule avec tout bonus d’environnement de prédilection existant (par exemple, si le gardien protège des terres boisées, il ajoute son bonus de forêt comme environnement de prédilection). Dans cette zone protégée, il peut également désigner un [[Types de créatures|type de créature]] comme étant son [[ennemi juré]]. Il gagne alors un bonus d’ennemi juré de +2 contre cette créature. Ce bonus se cumule avec tout bonus d’ennemi juré déjà actif contre ce type de créature. Les alliés qui voient et entendent le gardien gagnent un bonus d’initiative égal à la moitié du bonus d’environnement de prédilection du gardien pour la zone concernée.
 
-Un gardien de la nature peut protéger un nombre de terres égal à son bonus de [Sagesse](./Sagesse.md) (1 au minimum). Quand il atteint le maximum, il peut en choisir de nouvelles en abandonnant les anciennes et en accomplissant le rituel nécessaire dans la nouvelle zone.
+Un gardien de la nature peut protéger un nombre de terres égal à son bonus de [[Sagesse]] (1 au minimum). Quand il atteint le maximum, il peut en choisir de nouvelles en abandonnant les anciennes et en accomplissant le rituel nécessaire dans la nouvelle zone.
 
 {s:reference|AMESOEUR}
 #### Âme sœur (Sur)
-Au niveau 10, le lien entre le gardien de la nature et son [compagnon animal](./compagnon animal.md) devient si fort qu’il transcende la distance et même la mort. Le pouvoir de dévotion du compagnon augmente jusqu’à un bonus de moral de +8 aux jets de [Volonté](./Volonté.md) contre les sorts et les effets d’[enchantement](./Enchantement.md). Le gardien peut lancer une *[scrutation](./scrutation.md)* sur son compagnon une fois par jour, comme à l’aide du sort du même nom, mais il n’a pas besoin de focalisateur, ni divin, ni autre. Il peut observer la zone où se trouve son compagnon ou voir par ses yeux. Si son compagnon meurt, il peut le rappeler à la vie, comme par le sort ''[du même nom](./Rappel à la vie.md), à l’aide d’un rituel de huit heures qui ne demande pas de composante matérielle. Le compagnon animal ne gagne pas de niveau négatif suite à cette épreuve.
+Au niveau 10, le lien entre le gardien de la nature et son [[compagnon animal]] devient si fort qu’il transcende la distance et même la mort. Le pouvoir de dévotion du compagnon augmente jusqu’à un bonus de moral de +8 aux jets de [[Volonté]] contre les sorts et les effets d’[[enchantement]]. Le gardien peut lancer une *[[scrutation]]* sur son compagnon une fois par jour, comme à l’aide du sort du même nom, mais il n’a pas besoin de focalisateur, ni divin, ni autre. Il peut observer la zone où se trouve son compagnon ou voir par ses yeux. Si son compagnon meurt, il peut le rappeler à la vie, comme par le sort ''[[rappel à la vie|du même nom]], à l’aide d’un rituel de huit heures qui ne demande pas de composante matérielle. Le compagnon animal ne gagne pas de niveau négatif suite à cette épreuve.

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 - *Source : Bestiaire 2, p.269*
 - **PX** 400
-- [Vermine](./type Vermine.md) de taille P, N
-- **Init** +0 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0
+- [[type Vermine|Vermine]] de taille P, N
+- **Init** +0 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0
 (((Défense)))
 - **CA** 16, contact 11, pris au dépourvu 16 (naturelle +5, taille +1)
 - **pv** 13 (2d8+4)
@@ -23,19 +23,19 @@ Categories:
 - **Immunités** effets mentaux
 (((Attaque)))
 - **VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c})
-- **Corps à corps** morsure, +2 (1d4 plus [étreinte](./Étreinte.md), [fixation](./Fixation (capacité).md) et maladie)
-- **Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1 Constitution)
+- **Corps à corps** morsure, +2 (1d4 plus [[étreinte]], [[fixation (capacité)|fixation]] et maladie)
+- **Attaques spéciales** [[absorption de sang (capacité)|absorption de sang]] (1 Constitution)
 (((Statistiques)))
 - **For** 11, **Dex** 10, **Con** 15, **Int** — , **Sag** 11, **Cha** 2
-- **BBA** +1 ; **BMO** +0 (+8 lutte) ; **DMD** 10 (22 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Compétences** [Discrétion](./Discrétion.md) +8, [Escalade](./Escalade.md) +8 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md)
+- **BBA** +1 ; **BMO** +0 (+8 lutte) ; **DMD** 10 (22 contre [[croc-en-jambe]])
+- **Compétences** [[Discrétion]] +8, [[Escalade]] +8 ; **Modificateurs raciaux** +4 en [[Discrétion]]
 (((Écologie)))
 - **Environnement** forêts tempérées
 - **Organisation sociale** solitaire, couple, groupe (3–6) ou nid (7–12)
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
-- **Étreinte (Ext).** Une tique géante peut agripper des cibles de n’importe quelle taille et possède un bonus racial de +8 aux tests de lutte (au lieu du bonus de +4 dont bénéficient la plupart des créatures possédant la capacité d’[étreinte](./Étreinte.md)).
-- **Maladie (Ext).** Mal rouge : Morsure — blessure ; *JdS* Vigueur DD 13 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d6 Force ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la Constitution.
+- **Étreinte (Ext).** Une tique géante peut agripper des cibles de n’importe quelle taille et possède un bonus racial de +8 aux tests de lutte (au lieu du bonus de +4 dont bénéficient la plupart des créatures possédant la capacité d’[[étreinte]]).
+- **Maladie (Ext).** Mal rouge : Morsure — blessure ; *JdS* Vigueur DD 13 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d6 Force ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la Constitution.
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -44,9 +44,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Nuée de tiques](./Nuée de tiques.md) || 9
+| [[Nuée de tiques]] || 9
 |-
-| [Tique géante](./Tique géante.md) || 1
+| [[Tique géante]] || 1
 |}
 </div>*Cette tique de la taille d’un chien a un horrible corps enflé et une tête mince garnie de mandibules crochues.*
 
@@ -61,7 +61,7 @@ comme des chiens, du bétail ou même des
 humanoïdes. Une tique géante absorbe
 le sang très rapidement
 mais, une fois qu’elle a
-infligé un [affaiblissement temporaire](./affaiblissement temporaire.md) de 6 points
+infligé un [[affaiblissement temporaire]] de 6 points
 de Constitution, elle
 se détache, rassasiée, et
 s’éloigne pour digérer.

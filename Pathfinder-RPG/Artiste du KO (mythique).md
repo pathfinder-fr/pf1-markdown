@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les coups de poings assommants du personnage sont véritablement dévastateurs.*
 
-**Condition.** [Artiste du KO](./Artiste du KO.md)
+**Condition.** [[Artiste du KO]]
 
-**Avantage.** Lorsque le personnage effectue un coup à mains nues pour infliger des dégâts non-létaux et des dégâts d’[attaque sournoise](./attaque sournoise.md) à un adversaire, il remplace les d6 par des d8 lorsqu’il détermine les dégâts infligés par l’[attaque sournoise](./attaque sournoise.md).
+**Avantage.** Lorsque le personnage effectue un coup à mains nues pour infliger des dégâts non-létaux et des dégâts d’[[attaque sournoise]] à un adversaire, il remplace les d6 par des d8 lorsqu’il détermine les dégâts infligés par l’[[attaque sournoise]].

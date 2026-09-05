@@ -9,12 +9,12 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:cm}**Cette option est plus courante chez les [gobelours](./Gobelours.md).**
+{s:cm}**Cette option est plus courante chez les [[gobelours]].**
 
 *Le personnage est si doué pour effrayer ses adversaires que ces derniers hésitent.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Force intimidante](./Force intimidante.md)
+**Conditions.** [[Force intimidante]]
 
-**Avantages.** Le personnage peut utiliser l’[Intimidation](./Intimidation.md) au lieu du [Bluff](./Bluff.md) pour tenter une [feinte](./feinte.md) contre une créature à portée d’allonge.
+**Avantages.** Le personnage peut utiliser l’[[Intimidation]] au lieu du [[Bluff]] pour tenter une [[feinte]] contre une créature à portée d’allonge.

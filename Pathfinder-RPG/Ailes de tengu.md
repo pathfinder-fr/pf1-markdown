@@ -9,7 +9,7 @@ Categories:
 
 {s:MR}*Le tengu se fait pousser des ailes qui lui permettent de voler.*
 
-**Conditions requises.** [Tengu](./Tengu (race).md), niveau 5.
+**Conditions requises.** [[tengu (race)|Tengu]], niveau 5.
 
 
-**Avantages.** Une fois par jour, le tengu peut se faire pousser une paire d’ailes de corbeau noir géant lui accordant une vitesse de vol de 9 mètres avec une manoeuvrabilité moyenne. En outre, ce pouvoir magique fonctionne comme [Forme bestiale I](./Forme bestiale I.md) (bien que le tengu ne bénéficie d’aucun des autres avantages du sort) avec un niveau de lanceur de sorts égal à son niveau.
+**Avantages.** Une fois par jour, le tengu peut se faire pousser une paire d’ailes de corbeau noir géant lui accordant une vitesse de vol de 9 mètres avec une manoeuvrabilité moyenne. En outre, ce pouvoir magique fonctionne comme [[Forme bestiale I]] (bien que le tengu ne bénéficie d’aucun des autres avantages du sort) avec un niveau de lanceur de sorts égal à son niveau.

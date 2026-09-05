@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [alchimiste](./Alchimiste.md) 6, [conjurateur](./Conjurateur.md) 6, [druide](./Druide.md) 6, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 6, [inquisiteur](./Inquisiteur.md) 6, [prêtre](./Prêtre.md) 6,   
+**École** [[Abjuration]] ; **Niveau** [[alchimiste]] 6, [[conjurateur]] 6, [[druide]] 6, [[ensorceleur]]/[[magicien]] 6, [[inquisiteur]] 6, [[prêtre]] 6,   
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
 
-**Restriction de cible** *[choisi](./Choisi.md)*, *[personnel](./Personnel (mot de pouvoir).md)*
+**Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
-La cible d’un sort incluant cet effet bénéficie d’une [immunité](./Immunité (capacité).md) contre un type d’énergie (acide, froid, électricité, feu ou son). Elle subit toujours les autres effets accompagnant parfois les dégâts magiques.
+La cible d’un sort incluant cet effet bénéficie d’une [[immunité (capacité)|immunité]] contre un type d’énergie (acide, froid, électricité, feu ou son). Elle subit toujours les autres effets accompagnant parfois les dégâts magiques.

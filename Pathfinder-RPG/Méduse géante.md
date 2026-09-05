@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Vermine|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.196*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Vermine](./type Vermine.md) ([aquatique](./sous-type aquatique.md)) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 11, pris au dépourvu 9 (Dex +2, taille -1)}
 {s:BDTexte|**pv** 94 (9d8+54)}
 {s:BDTexte|**Réf** +5, **Vig** +12, **Vol** +3}
-{s:BDTexte|**Capacités défensives** [amorphe](./Amorphe (capacité).md) ; **Immunités** effets mentaux ; **RD** 10/perforant ou tranchant }
+{s:BDTexte|**Capacités défensives** [[amorphe (capacité)|amorphe]] ; **Immunités** effets mentaux ; **RD** 10/perforant ou tranchant }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** nage 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** 4 tentacules, +9 (1d6+4 plus poison)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 15, **Con** 22, **Int** —, **Sag** 11, **Cha** 1}
-{s:BDTexte|**BBA** +6, **BMO** +11, **DMD** 23 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +12}
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md)}
+{s:BDTexte|**BBA** +6, **BMO** +11, **DMD** 23 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Compétences** [[Natation]] +12}
+{s:BDTexte|**Particularités** [[compression (capacité)|compression]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
 {s:BDTexte|**Organisation sociale** solitaire, groupe (2–5) ou nuée (6–12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Poison (Ext).** Tentacules — blessure ; *JdS* Vigueur DD 17 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 Con ; *guérison* 2 réussites consécutives. Le DD dépend de la Constitution.}
+{s:BDTexte|**Poison (Ext).** Tentacules — blessure ; *JdS* Vigueur DD 17 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d4 Con ; *guérison* 2 réussites consécutives. Le DD dépend de la Constitution.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -44,13 +44,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Méduse à tête de mort](./Méduse à tête de mort.md) || 1
+| [[Méduse à tête de mort]] || 1
 |-
-| [Méduse géante](./Méduse géante.md) || 7
+| [[Méduse géante]] || 7
 |-
-| [Méduse saphir](./Méduse saphir.md) || 11
+| [[Méduse saphir]] || 11
 |-
-| [Nuée de méduses](./Nuée de méduses.md) || 6
+| [[Nuée de méduses]] || 6
 |}
 </div>*Le chapeau de cette énorme méduse ambrée est aussi grand qu’un carrosse. En-dessous se tortillent de nombreux et dangereux tentacules.*
 

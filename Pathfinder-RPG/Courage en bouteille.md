@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Vous êtes très peu impressionnable lorsque vous êtes en état d'ébriété.*
 
-**Conditions.** Capacité de classe [courage](./Guerrier.md#COURAGE), suivant de [Cayden Cailéan](./Cayden Cailéan (technique).md).
+**Conditions.** Capacité de classe [[guerrier#COURAGE|courage]], suivant de [[Cayden Cailéan (technique)|Cayden Cailéan]].
 
-**Avantage.** Lorsque le personnage est alcoolisé, le bonus de sa capacité de classe [courage](./Guerrier.md#COURAGE) augmente de 2. Si cette augmentation amène le bonus total à +6 ou plus contre les effets de peur, le personnage devient immunisé à la peur à la place.
+**Avantage.** Lorsque le personnage est alcoolisé, le bonus de sa capacité de classe [[guerrier#COURAGE|courage]] augmente de 2. Si cette augmentation amène le bonus total à +6 ou plus contre les effets de peur, le personnage devient immunisé à la peur à la place.

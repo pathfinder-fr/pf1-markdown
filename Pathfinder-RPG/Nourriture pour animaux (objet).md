@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pc ; **Poids** 5 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Dans certaines régions, les [chevaux](./Cheval (objet).md), les [ânes](./Âne ou mulet (objet).md), les [mulets](./Âne ou mulet (objet).md) et les [poneys](./Cheval (objet).md) peuvent brouter pour se nourrir mais la nourriture pour animaux leur offre une alimentation plus sûre. Les [chiens de selle](./Chien (objet).md) et autres carnivores peuvent manger de la viande pour le même prix. À l’exception des chevaux, les autres créatures de taille G doivent manger deux fois plus par jour que les autres animaux. Les créatures de taille TG doivent manger quatre fois plus.
+Dans certaines régions, les [[Cheval (objet)|chevaux]], les [[Âne ou mulet (objet)|ânes]], les [[Âne ou mulet (objet)|mulets]] et les [[Cheval (objet)|poneys]] peuvent brouter pour se nourrir mais la nourriture pour animaux leur offre une alimentation plus sûre. Les [[Chien (objet)|chiens de selle]] et autres carnivores peuvent manger de la viande pour le même prix. À l’exception des chevaux, les autres créatures de taille G doivent manger deux fois plus par jour que les autres animaux. Les créatures de taille TG doivent manger quatre fois plus.

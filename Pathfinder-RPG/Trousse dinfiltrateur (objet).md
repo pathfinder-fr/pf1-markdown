@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:RSE}**Prix** 140 po ; **Poids** 7,5 kg
-<span class="Catégorie">**Catégorie** [Trousses d'équipement](./Trousses déquipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
 ---
-Cette trousse est bien utile aux Explorateurs qui doivent recourir à la ruse et à la duperie pour obtenir des informations. Elle contient des [chausse-trappes](./Chausse-trappes (objet).md), de la [craie](./Craie (objet).md), une [trousse de déguisement](./Trousse de déguisement (objet).md), une [corne acoustique](./Corne acoustique (objet).md), des [chaussures de fausses empreintes](./Chaussures de fausses empreintes (objet).md), un [passe-partout](./Passe-partout (objet).md) et un [fourreau de poignet](./Fourreau de poignet (objet).md). Les trousses destinées aux créatures de taille P pèsent 4,5 kilos.
+Cette trousse est bien utile aux Explorateurs qui doivent recourir à la ruse et à la duperie pour obtenir des informations. Elle contient des [[Chausse-trappes (objet)|chausse-trappes]], de la [[Craie (objet)|craie]], une [[Trousse de déguisement (objet)|trousse de déguisement]], une [[Corne acoustique (objet)|corne acoustique]], des [[Chaussures de fausses empreintes (objet)|chaussures de fausses empreintes]], un [[Passe-partout (objet)|passe-partout]] et un [[Fourreau de poignet (objet)|fourreau de poignet]]. Les trousses destinées aux créatures de taille P pèsent 4,5 kilos.

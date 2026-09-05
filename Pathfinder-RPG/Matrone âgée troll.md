@@ -13,9 +13,9 @@ Categories:
 {s:pucem|Humanoïde|Montagnes|Froid}
 {s:BDTexte|*Source : Codex monstrueux p.230*}
 {s:BDTexte|**XP** 9600}
-{s:BDTexte|[Troll](./Troll.md) [sorcière](./Sorcière.md) 10 (*Manuel des Joueurs, règles avancées* p. 65)}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[Troll]] [[sorcière]] 10 (*Manuel des Joueurs, règles avancées* p. 65)}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 11, pris au dépourvu 16 (+2 armure, +2 Dex, +5 naturelle, -1 taille)}
 {s:BDTexte|**pv** 200 (16 DV ; 6d8+10d6+138) ; régénération 5 (acide ou feu)}
@@ -24,25 +24,25 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +12 (1d8+4) et 2 griffes, +12 (1d6+4)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration.md) (2 griffes, 1d6+7)), [maléfices](./Sorcière.md#MALEFICE) ([agonie](./maléfices.md#Agonie) (10 rounds) [mauvais œil](./maléfices.md#Mauvaisœil) (-4, 6 rounds), [malchance](./maléfices.md#Malchance) (2 rounds), [poumon aquatique](./maléfices.md#Poumonaquatique), [ricanement](./maléfices.md#Ricanement), [sommeil](./maléfices.md#Sommeil) (10 rounds))}
-{s:BDTexte|**Sorts de sorcière préparés** ([NLS](./NLS.md) 10 ; [concentration](./concentration.md) +13)}
-{s:BDSorts|5e – *[colonne de feu](./Colonne de feu.md)* (DD 20), *[frappe douloureuse de groupe](./Frappe douloureuse de groupe.md)* (DD 18)}
-{s:BDSorts|4e – *[confusion](./Confusion.md)* (DD 17), *[énergie négative](./Énergie négative.md)*, *[mur de glace](./Mur de glace.md)* (DD 17)}
-{s:BDSorts|3e – *[boule de feu](./Boule de feu.md)* (2, DD 18), *[cri strident](./Cri strident.md)* (DD 16), *[rayon d’épuisement](./Rayon dépuisement.md)* (DD 16)}
-{s:BDSorts|2e – *[discours captivant](./Discours captivant.md)* (DD 15), *[force de taureau](./Force de taureau.md)*, *[idiotie](./Idiotie.md)*, *[regard brûlant](./Regard brûlant.md)* (DD 17), *[sphère de feu](./Sphère de feu.md)* (DD 17)}
-{s:BDSorts|1er – *[frayeur](./Frayeur.md)* (DD 14), *[mains brûlantes](./Mains brûlantes.md)* (DD 16), *[rapetissement](./Rapetissement.md)* (DD 14), *[rayon affaiblissant](./Rayon affaiblissant.md)* (DD 14)}
-{s:BDSorts|0 (à volonté) – *[détection de la magie](./Détection de la magie.md)*, *[fatigue](./Fatigue.md)* (DD 13), *[purification de la nourriture et de l’eau](./Purification de nourriture et deau.md)*, *[saignement](./Saignement.md)* (DD 13)}
-{s:BDTexte|**Patron** [éléments](./protecteurs.md#ELEMENTS)}
+{s:BDTexte|**Attaques spéciales** [[éventration]] (2 griffes, 1d6+7)), [[Sorcière#MALEFICE|maléfices]] ([[Maléfices#Agonie|agonie]] (10 rounds) [[Maléfices#Mauvaisœil|mauvais œil]] (-4, 6 rounds), [[Maléfices#Malchance|malchance]] (2 rounds), [[Maléfices#Poumonaquatique|poumon aquatique]], [[Maléfices#Ricanement|ricanement]], [[Maléfices#Sommeil|sommeil]] (10 rounds))}
+{s:BDTexte|**Sorts de sorcière préparés** ([[NLS]] 10 ; [[concentration]] +13)}
+{s:BDSorts|5e – *[[colonne de feu]]* (DD 20), *[[frappe douloureuse de groupe]]* (DD 18)}
+{s:BDSorts|4e – *[[confusion]]* (DD 17), *[[énergie négative]]*, *[[mur de glace]]* (DD 17)}
+{s:BDSorts|3e – *[[boule de feu]]* (2, DD 18), *[[cri strident]]* (DD 16), *[[rayon dépuisement|rayon d’épuisement]]* (DD 16)}
+{s:BDSorts|2e – *[[discours captivant]]* (DD 15), *[[force de taureau]]*, *[[idiotie]]*, *[[regard brûlant]]* (DD 17), *[[sphère de feu]]* (DD 17)}
+{s:BDSorts|1er – *[[frayeur]]* (DD 14), *[[mains brûlantes]]* (DD 16), *[[rapetissement]]* (DD 14), *[[rayon affaiblissant]]* (DD 14)}
+{s:BDSorts|0 (à volonté) – *[[détection de la magie]]*, *[[fatigue]]* (DD 13), *[[Purification de nourriture et deau|purification de la nourriture et de l’eau]]*, *[[saignement]]* (DD 13)}
+{s:BDTexte|**Patron** [[protecteurs#ELEMENTS|éléments]]}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|**Pendant le combat.** La matrone âgée troll attaque avec *[colonne de feu](./Colonne de feu.md)* ou *[frappe douloureuse de groupe](./Frappe douloureuse de groupe.md)*, puis elle adapte sa stratégie en fonction de ses adversaires, choisissant généralement les [maléfices](./Sorcière.md#MALEFICE) de [malchance](./maléfices.md#Malchance) ou de [mauvais œil](./maléfices.md#Mauvaisœil) et utilisant [Répartition des maléfices](./Répartition des maléfices.md) pour les appliquer aux deux ennemis que ces pouvoirs gêneront le plus.}
+{s:BDTexte|**Pendant le combat.** La matrone âgée troll attaque avec *[[colonne de feu]]* ou *[[frappe douloureuse de groupe]]*, puis elle adapte sa stratégie en fonction de ses adversaires, choisissant généralement les [[Sorcière#MALEFICE|maléfices]] de [[Maléfices#Malchance|malchance]] ou de [[Maléfices#Mauvaisœil|mauvais œil]] et utilisant [[Répartition des maléfices]] pour les appliquer aux deux ennemis que ces pouvoirs gêneront le plus.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 14, **Con** 27, **Int** 16, **Sag** 11, **Cha** 8}
 {s:BDTexte|**BBA** +9, **BMO** +14, **DMD** 26}
-{s:BDTexte|**Dons** [Création d’objets merveilleux](./Création dobjets merveilleux.md), [École élémentaire renforcée](./Élément supérieur.md) (feu), [Élément renforcé](./Élément renforcé.md) (feu), [Magie de guerre](./Magie de guerre.md), [Répartition des maléfices](./Répartition des maléfices.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science de l’initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +11, [Bluff](./Bluff.md) +7, [Connaissances](./Connaissances.md) (mystères) +14, [Connaissances](./Connaissances.md) (nature) +11, [Discrétion](./Discrétion.md) +8, [Intimidation](./Intimidation.md) +14, [Natation](./Natation.md) +9, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +8, [Survie](./Survie.md) +8}
+{s:BDTexte|**Dons** [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Élément supérieur|École élémentaire renforcée]] (feu), [[Élément renforcé]] (feu), [[Magie de guerre]], [[Répartition des maléfices]], [[Science de la volonté de fer]], [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +11, [[Bluff]] +7, [[Connaissances]] (mystères) +14, [[Connaissances]] (nature) +11, [[Discrétion]] +8, [[Intimidation]] +14, [[Natation]] +9, [[Perception]] +16, [[Psychologie]] +8, [[Survie]] +8}
 {s:BDTexte|**Langues** abyssal, géant, gobelin, orque}
-{s:BDTexte|**Particularités** [familier de la sorcière](./Sorcière.md#FAMILIER) ([chauve-souris](./Familiers.md))}
-{s:BDTexte|**Équipement de combat** *[poudre de disparition](./Poudre de disparition.md)* ; ** Équipement divers** *[bracelets d’armure +2](./Bracelets darmure.md)*, *[cape de résistance +1](./Cape de résistance.md)*, *[bandeau d’intelligence +4](./Bandeau dintelligence.md)*, 500 po}
+{s:BDTexte|**Particularités** [[Sorcière#FAMILIER|familier de la sorcière]] ([[Familiers|chauve-souris]])}
+{s:BDTexte|**Équipement de combat** *[[poudre de disparition]]* ; ** Équipement divers** *[[bracelets darmure|bracelets d’armure +2]]*, *[[cape de résistance|cape de résistance +1]]*, *[[bandeau dintelligence|bandeau d’intelligence +4]]*, 500 po}
 </div>
 
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -51,27 +51,27 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Troll des égouts](./Troll des égouts.md) || 2
+| [[Troll des égouts]] || 2
 |-
-| [Troll](./Troll.md) || 5
+| [[Troll]] || 5
 |-
-| [Acolyte troll](./Acolyte troll.md) || 6
+| [[Acolyte troll]] || 6
 |-
-| [Gardien troll](./Gardien troll.md) || 6
+| [[Gardien troll]] || 6
 |-
-| [Brute troll](./Brute troll.md) || 7
+| [[Brute troll]] || 7
 |-
-| [Étripeur troll](./Étripeur troll.md) || 8
+| [[Étripeur troll]] || 8
 |-
-| [Troll furieux](./Troll furieux.md) || 8
+| [[Troll furieux]] || 8
 |-
-| [Berserker troll](./Berserker troll.md) || 9
+| [[Berserker troll]] || 9
 |-
-| [Éventreur troll](./Éventreur troll.md) || 10
+| [[Éventreur troll]] || 10
 |-
-| [Matrone âgée troll](./Matrone âgée troll.md) || 10
+| [[Matrone âgée troll]] || 10
 |-
-| [Monarque troll](./Monarque troll.md) || 15
+| [[Monarque troll]] || 15
 |-
 |}
 </div>Mystérieuse et érudite, la matrone âgée étudie tous les jeunes trolls dans l’espoir d’y déceler un potentiel pour l’apprentissage de la magie.

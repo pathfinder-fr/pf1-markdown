@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#PROJECTILE
 ---
 
->>> [pouvoirs de rage#PROJECTILE](./Pouvoirs de rage.md#PROJECTILE)
+>>> [[pouvoirs de rage#PROJECTILE]]

@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}{s:UM}{s:UC}<div class="description">***Note.** Cette page est un regroupement <u>non-officiel</u> de dons qui agissent dans un même cadre. Référez-vous à [cette page](./Dons.md) pour trouver les distinctions officielles de chaque type de don.*</div>
+{s:APG}{s:UM}{s:UC}<div class="description">***Note.** Cette page est un regroupement <u>non-officiel</u> de dons qui agissent dans un même cadre. Référez-vous à [[Dons|cette page]] pour trouver les distinctions officielles de chaque type de don.*</div>
 
 <center>
 {| CLASS="tablo autoalt"
@@ -18,61 +18,61 @@ Categories:
 | CLASS="gauche" WIDTH="25%" | Conditions
 | CLASS="gauche" WIDTH="45%" | Avantages
 |- CLASS="premier"
-| [Maniement des boucliers](./Maniement des boucliers.md)
+| [[Maniement des boucliers]]
 | CLASS="gauche" | -
 | CLASS="gauche" | Pas de malus aux jets d'attaque lorsque le personnage utilise un bouclier
 |-
-| &emsp;[Art du bouclier](./Art du bouclier.md)*
-| CLASS="gauche" | [Maniement des boucliers](./Maniement des boucliers.md), [BBA](./BBA.md) +1
-| CLASS="gauche" | +1 à la [CA](./CA.md) quand le personnage utilise un bouclier
+| &emsp;[[Art du bouclier]]*
+| CLASS="gauche" | [[Maniement des boucliers]], [[BBA]] +1
+| CLASS="gauche" | +1 à la [[CA]] quand le personnage utilise un bouclier
 |-
-| &emsp;&emsp;[Art du bouclier supérieur](./Art du bouclier supérieur.md)*
-| CLASS="gauche" | [Art du bouclier](./Art du bouclier.md), [guerrier](./Guerrier.md) niv. 8
-| CLASS="gauche" | +1 à la [CA](./CA.md) quand le personnage utilise un bouclier
+| &emsp;&emsp;[[Art du bouclier supérieur]]*
+| CLASS="gauche" | [[Art du bouclier]], [[guerrier]] niv. 8
+| CLASS="gauche" | +1 à la [[CA]] quand le personnage utilise un bouclier
 |-
-| &emsp;&emsp;[Bouclier contre les projectiles](./Bouclier contre les projectiles.md)<sup>APG</sup>*
-| CLASS="gauche" | [Art du bouclier](./Art du bouclier.md), [Dex](./Dex.md) 13
+| &emsp;&emsp;[[Bouclier contre les projectiles]]<sup>APG</sup>*
+| CLASS="gauche" | [[Art du bouclier]], [[Dex]] 13
 | CLASS="gauche" | Parer une attaque à distance par round avec un bouclier
 |-
-| &emsp;&emsp;&emsp;[Bouclier contre les rayons](./Bouclier contre les rayons.md)<sup>APG</sup>*
-| CLASS="gauche" | [Bouclier contre les projectiles](./Bouclier contre les projectiles.md), [Briseur de sorts](./Briseur de sorts.md), [Dex](./Dex.md) 15
-| CLASS="gauche" | Parer un [attaque de contact à distance](./attaque de contact à distance.md) par round avec un bouclier
+| &emsp;&emsp;&emsp;[[Bouclier contre les rayons]]<sup>APG</sup>*
+| CLASS="gauche" | [[Bouclier contre les projectiles]], [[Briseur de sorts]], [[Dex]] 15
+| CLASS="gauche" | Parer un [[attaque de contact à distance]] par round avec un bouclier
 |-
-| &emsp;&emsp;[Bouclier protecteur](./Bouclier protecteur.md)*
-| CLASS="gauche" | [Art du bouclier](./Art du bouclier.md), [BBA](./BBA.md) +6
-| CLASS="gauche" | En [défense totale](./défense totale.md), fournit un [abri](./abri.md) à un allié
+| &emsp;&emsp;[[Bouclier protecteur]]*
+| CLASS="gauche" | [[Art du bouclier]], [[BBA]] +6
+| CLASS="gauche" | En [[défense totale]], fournit un [[abri]] à un allié
 |-
-| &emsp;&emsp;[Spécialisation au bouclier](./Spécialisation au bouclier.md)<sup>APG</sup>*
-| CLASS="gauche" | [Art du bouclier](./Art du bouclier.md), [guerrier](./Guerrier.md) niv. 4
-| CLASS="gauche" | Bonus de +2 à la [CA](./CA.md) contre les [coups critiques](./coup critique.md) avec un type de bouclier
+| &emsp;&emsp;[[Spécialisation au bouclier]]<sup>APG</sup>*
+| CLASS="gauche" | [[Art du bouclier]], [[guerrier]] niv. 4
+| CLASS="gauche" | Bonus de +2 à la [[CA]] contre les [[coup critique|coups critiques]] avec un type de bouclier
 |-
-| &emsp;&emsp;&emsp;[Spécialisation supérieure aux boucliers](./Spécialisation supérieure aux boucliers.md)<sup>APG</sup>*
-| CLASS="gauche" | [Art du bouclier supérieur](./Art du bouclier supérieur.md), [Spécialisation au bouclier](./Spécialisation au bouclier.md), [guerrier](./Guerrier.md) niv. 12
-| CLASS="gauche" | Bonus de +2 à la [CA](./CA.md) contre les [coups critiques](./coup critique.md) et annuler un coup critique par jour
+| &emsp;&emsp;&emsp;[[Spécialisation supérieure aux boucliers]]<sup>APG</sup>*
+| CLASS="gauche" | [[Art du bouclier supérieur]], [[Spécialisation au bouclier]], [[guerrier]] niv. 12
+| CLASS="gauche" | Bonus de +2 à la [[CA]] contre les [[coup critique|coups critiques]] et annuler un coup critique par jour
 |-
-| &emsp;[Bouclier salvateur](./Bouclier salvateur.md)*
-| CLASS="gauche" | [Maniement des boucliers](./Maniement des boucliers.md)
+| &emsp;[[Bouclier salvateur]]*
+| CLASS="gauche" | [[Maniement des boucliers]]
 | CLASS="gauche" | Octroyer un bonus de bouclier à un allié adjacent
 |-
-| &emsp;[Maniement du pavois](./Maniement du pavois.md)*
-| CLASS="gauche" | [Maniement des boucliers](./Maniement des boucliers.md)
+| &emsp;[[Maniement du pavois]]*
+| CLASS="gauche" | [[Maniement des boucliers]]
 | CLASS="gauche" | Pas de malus aux jets d'attaque tout en portant un pavois
 |-
-| &emsp;[Science du coup de bouclier](./Science du coup de bouclier.md)*
-| CLASS="gauche" | [Maniement des boucliers](./Maniement des boucliers.md)
+| &emsp;[[Science du coup de bouclier]]*
+| CLASS="gauche" | [[Maniement des boucliers]]
 | CLASS="gauche" | Conserve le bonus de bouclier, même en frappant avec
 |-
-| &emsp;&emsp;[Frappe du bouclier](./Frappe du bouclier.md)*
-| CLASS="gauche" | [Combat à deux armes](./Combat à deux armes.md), [BBA](./BBA.md) +6, [Science du coup de bouclier](./Science du coup de bouclier.md)
-| CLASS="gauche" | [Bousculade](./bousculade.md) gratuire lors d'un coup de bouclier
+| &emsp;&emsp;[[Frappe du bouclier]]*
+| CLASS="gauche" | [[Combat à deux armes]], [[BBA]] +6, [[Science du coup de bouclier]]
+| CLASS="gauche" | [[Bousculade]] gratuire lors d'un coup de bouclier
 |-
-| &emsp;&emsp;&emsp;[Maîtrise du bouclier](./Maîtrise du bouclier.md)*
-| CLASS="gauche" | [Frappe du bouclier](./Frappe du bouclier.md), [BBA](./BBA.md) +11
-| CLASS="gauche" | Pas de malus pour le [combat à deux armes](./Combat à deux armes.md) si le personnage attaque avec un bouclier
+| &emsp;&emsp;&emsp;[[Maîtrise du bouclier]]*
+| CLASS="gauche" | [[Frappe du bouclier]], [[BBA]] +11
+| CLASS="gauche" | Pas de malus pour le [[combat à deux armes]] si le personnage attaque avec un bouclier
 |-
-| &emsp;&emsp;&emsp;&emsp;[Coup de bouclier opportuniste](./Coup de bouclier opportuniste.md)<sup>APG</sup>*
-| CLASS="gauche" | [Maîtrise du bouclier](./Maîtrise du bouclier.md), [Combat à deux armes](./Combat à deux armes.md), [BBA](./BBA.md) +11
-| CLASS="gauche" | Attaque de bouclier gratuite après un [coup critique](./coup critique.md)
+| &emsp;&emsp;&emsp;&emsp;[[Coup de bouclier opportuniste]]<sup>APG</sup>*
+| CLASS="gauche" | [[Maîtrise du bouclier]], [[Combat à deux armes]], [[BBA]] +11
+| CLASS="gauche" | Attaque de bouclier gratuite après un [[coup critique]]
 |}
 </center>
 *Les dons marqués de <sup>APG</sup> proviennent du Manuel des Joueurs - Règles Avancées.*   

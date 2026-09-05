@@ -11,6 +11,6 @@ Categories:
 {s:AE}{s:UC}**Prix** 125 po ; **Poids** 22,5 kg
 **Bonus d'armure** +6 ; **Bonus de Dex maximal** +2 ; **Malus d'armure** -5
 **Risque d'échec des sorts profanes** 30% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
-<span class="Catégorie">**Catégorie** [Armures intermédiaires](./Tableau récapitulatif des armures.md#TABINTERMEDIAIRES) ([orientale](./Armes orientales.md))</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABINTERMEDIAIRES|Armures intermédiaires]] ([[armes orientales|orientale]])</span>
 ---
 Cette armure se compose de quatre plaques fixées par des bandoulières de cuir. Deux plaques rondes protègent le devant et l’arrière, tandis que deux plaques rectangulaires, plus petites, couvrent les flancs. L’armure à quatre miroirs se porte par-dessus une chemise de mailles pour offrir plus de protection. Elle est fournie avec un casque à pointes avec un capuchon en mailles.

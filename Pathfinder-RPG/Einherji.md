@@ -10,7 +10,7 @@ LastModified: 2017-02-28 14:41
 {s:pucem|Extérieur|Plaines|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 91*}
 - **9 600 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, CN
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, CN
 - **Init **+7 ; **Sens **vision dans le noir à 18 m, perception de la mort ; Perception +18
 (((Défense)))
 - **CA **24, contact 13, pris au dépourvu 21 (armure +7, bouclier +4, Dex +3)
@@ -23,15 +23,15 @@ LastModified: 2017-02-28 14:41
 - **À distance** hache de lancer de maître, +17 (1d6+4)
 - **Attaque spéciale** défi en combat singulier
 - **Pouvoirs magiques** (**NLS **10 ; concentration +10)
-  - *Constant* — [liberté de mouvement](./Liberté de mouvement.md), [perception de la mort](./Perception de la mort.md)
-  - *À volonté* — [rage](./Rage.md)
-  - *3/jour* — [puissance divine](./Puissance divine.md)
-  - *1/jour* — [festin des héros](./Festin des héros.md)
+  - *Constant* — [[liberté de mouvement]], [[perception de la mort]]
+  - *À volonté* — [[rage]]
+  - *3/jour* — [[puissance divine]]
+  - *1/jour* — [[festin des héros]]
 (((Statistiques)))
 - **For **19, **Dex **16, **Con **19, **Int **10, **Sag **14, **Cha **11
 - **BBA **+13 ; **BMO **+17 ; **DMD **30
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Immobiliser](./Immobiliser.md), [Riposte](./Riposte.md), [S’avancer](./Savancer.md), [Science de l’initiative](./Science de linitiative.md), [Science de la volonté de fer](./Science de la volonté de fer.md)<sup>S</sup>, [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Connaissances](./Connaissances.md) (ingénierie) +16, [Connaissances](./Connaissances.md) (plans) +16, [Équitation](./Équitation.md) +16, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +18, [Survie](./Survie.md) +18 
+- **Dons **[[Attaque en puissance]], [[Attaques réflexes]], [[Immobiliser]], [[Riposte]], [[savancer|S’avancer]], [[Science de linitiative|Science de l’initiative]], [[Science de la volonté de fer]]<sup>S</sup>, [[Volonté de fer]]
+- **Compétences **[[Connaissances]] (ingénierie) +16, [[Connaissances]] (plans) +16, [[Équitation]] +16, [[Intimidation]] +16, [[Perception]] +18, [[Survie]] +18 
 - **Langues** céleste, commun
 - **Particularités **entraînement au combat, assoiffé de combat
 (((Écologie)))

@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-<div class="fright">***Voir les [arcanes du magus](./arcanes.md).***
-***Voir aussi la [liste des sorts de magus](./Liste des sorts de magus.md).***
+<div class="fright">***Voir les [[Arcanes|arcanes du magus]].***
+***Voir aussi la [[Liste des sorts de magus]].***
 {s:PM0|magus}**Voir les archétypes du magus**&emsp;
 <li ID="magus" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypemagus}</li>
 </div>{s:um}*Il y a des gens qui passent leur vie à lire d’anciens ouvrages et des textes antiques pour obtenir des pouvoirs magiques et d’autres qui consacrent tout leur temps à améliorer leur maîtrise des armes pour devenir des maîtres inégalés. Le magus est un élève des deux philosophies qui fusionne les aptitudes magiques avec les prouesses martiales pour former un ensemble unique, une discipline qui lui permet d’utiliser les sorts et l’acier avec un effet dévastateur. Alors que son pouvoir augmente, le magus accède à une puissante magie qui lui permet d’unir encore plus pleinement ses talents et, au sommet de son art, il devient une véritable tornade d’acier et de magie, une force à laquelle peu d’ennemis osent s’opposer.*
@@ -39,7 +39,7 @@ Categories:
 | +0
 | +2
 | +2
-| CLASS="gauche" | [combat magique](./Magus.md#COMBATMAGIQUE), [réserve magique](./Magus.md#RESERVEMAGIQUE), [tours de magie](./Magus.md#TOURSMAGIE)
+| CLASS="gauche" | [[magus#COMBATMAGIQUE|combat magique]], [[magus#RESERVEMAGIQUE|réserve magique]], [[magus#TOURSMAGIE|tours de magie]]
 | 3
 | 1
 | -
@@ -53,7 +53,7 @@ Categories:
 | +0
 | +3
 | +3
-| CLASS="gauche" | [frappe magique](./Magus.md#FRAPPEMAGIQUE)
+| CLASS="gauche" | [[magus#FRAPPEMAGIQUE|frappe magique]]
 | 4
 | 2
 | -
@@ -67,7 +67,7 @@ Categories:
 | +1
 | +3
 | +3
-| CLASS="gauche" | [arcane du magus](./Magus.md#ARCANE)
+| CLASS="gauche" | [[magus#ARCANE|arcane du magus]]
 | 4
 | 3
 | -
@@ -81,7 +81,7 @@ Categories:
 | +1
 | +4
 | +4
-| CLASS="gauche" | [souvenir magique](./Magus.md#SOUVENIRMAGIQUE)
+| CLASS="gauche" | [[magus#SOUVENIRMAGIQUE|souvenir magique]]
 | 4
 | 3
 | 1
@@ -95,7 +95,7 @@ Categories:
 | +1
 | +4
 | +4
-| CLASS="gauche" | [don supplémentaire](./Magus.md#DONSUPPLEMENTAIRE)
+| CLASS="gauche" | [[magus#DONSUPPLEMENTAIRE|don supplémentaire]]
 | 4
 | 4
 | 2
@@ -109,7 +109,7 @@ Categories:
 | +2
 | +5
 | +5
-| CLASS="gauche" | [arcane du magus](./Magus.md#ARCANE)
+| CLASS="gauche" | [[magus#ARCANE|arcane du magus]]
 | 5
 | 4
 | 3
@@ -123,7 +123,7 @@ Categories:
 | +2
 | +5
 | +5
-| CLASS="gauche" | [armure intermédiaire](./Magus.md#ARMUREINTERMEDIAIRE), [réserve de connaissances](./Magus.md#RESERVEDECONNAISSANCES)
+| CLASS="gauche" | [[magus#ARMUREINTERMEDIAIRE|armure intermédiaire]], [[magus#RESERVEDECONNAISSANCES|réserve de connaissances]]
 | 5
 | 4
 | 3
@@ -137,7 +137,7 @@ Categories:
 | +2
 | +6
 | +6
-| CLASS="gauche" | [science du combat magique](./Magus.md#SCIENCEDUCOMBATMAGIQUE)
+| CLASS="gauche" | [[magus#SCIENCEDUCOMBATMAGIQUE|science du combat magique]]
 | 5
 | 4
 | 4
@@ -151,7 +151,7 @@ Categories:
 | +3
 | +6
 | +6
-| CLASS="gauche" | [arcane du magus](./Magus.md#ARCANE)
+| CLASS="gauche" | [[magus#ARCANE|arcane du magus]]
 | 5
 | 5
 | 4
@@ -165,7 +165,7 @@ Categories:
 | +3
 | +7
 | +7
-| CLASS="gauche" | [formation du combattant](./Magus.md#FORMATIONDUCOMBATTANT)
+| CLASS="gauche" | [[magus#FORMATIONDUCOMBATTANT|formation du combattant]]
 | 5
 | 5
 | 4
@@ -179,7 +179,7 @@ Categories:
 | +3
 | +7
 | +7
-| CLASS="gauche" | [don supplémentaire](./Magus.md#DONSUPPLEMENTAIRE), [science du souvenir magique](./Magus.md#SCIENCEDUSOUVENIRMAGIQUE)
+| CLASS="gauche" | [[magus#DONSUPPLEMENTAIRE|don supplémentaire]], [[magus#SCIENCEDUSOUVENIRMAGIQUE|science du souvenir magique]]
 | 5
 | 5
 | 4
@@ -193,7 +193,7 @@ Categories:
 | +4
 | +8
 | +8
-| CLASS="gauche" | [arcane du magus](./Magus.md#ARCANE)
+| CLASS="gauche" | [[magus#ARCANE|arcane du magus]]
 | 5
 | 5
 | 5
@@ -207,7 +207,7 @@ Categories:
 | +4
 | +8
 | +8
-| CLASS="gauche" | [armure lourde](./Magus.md#ARMURELOURDE)
+| CLASS="gauche" | [[magus#ARMURELOURDE|armure lourde]]
 | 5
 | 5
 | 5
@@ -221,7 +221,7 @@ Categories:
 | +4
 | +9
 | +9
-| CLASS="gauche" | [combat magique supérieur](./Magus.md#COMBATMAGIQUESUPERIEUR)
+| CLASS="gauche" | [[magus#COMBATMAGIQUESUPERIEUR|combat magique supérieur]]
 | 5
 | 5
 | 5
@@ -235,7 +235,7 @@ Categories:
 | +5
 | +9
 | +9
-| CLASS="gauche" | [arcane du magus](./Magus.md#ARCANE)
+| CLASS="gauche" | [[magus#ARCANE|arcane du magus]]
 | 5
 | 5
 | 5
@@ -249,7 +249,7 @@ Categories:
 | +5
 | +10
 | +10
-| CLASS="gauche" | [riposter](./Magus.md#RIPOSTER)
+| CLASS="gauche" | [[magus#RIPOSTER|riposter]]
 | 5
 | 5
 | 5
@@ -263,7 +263,7 @@ Categories:
 | +5
 | +10
 | +10
-| CLASS="gauche" | [don supplémentaire](./Magus.md#DONSUPPLEMENTAIRE)
+| CLASS="gauche" | [[magus#DONSUPPLEMENTAIRE|don supplémentaire]]
 | 5
 | 5
 | 5
@@ -277,7 +277,7 @@ Categories:
 | +6
 | +11
 | +11
-| CLASS="gauche" | [arcane du magus](./Magus.md#ARCANE)
+| CLASS="gauche" | [[magus#ARCANE|arcane du magus]]
 | 5
 | 5
 | 5
@@ -291,7 +291,7 @@ Categories:
 | +6
 | +11
 | +11
-| CLASS="gauche" | [accès aux sorts supérieurs](./Magus.md#ACCESAUXSORTSSUPERIEURS)
+| CLASS="gauche" | [[magus#ACCESAUXSORTSSUPERIEURS|accès aux sorts supérieurs]]
 | 5
 | 5
 | 5
@@ -305,7 +305,7 @@ Categories:
 | +6
 | +12
 | +12
-| CLASS="gauche" | [magus ultime](./Magus.md#MAGUSULTIME)
+| CLASS="gauche" | [[magus#MAGUSULTIME|magus ultime]]
 | 5
 | 5
 | 5
@@ -324,23 +324,23 @@ Categories:
 **Argent de départ.** 4d6 x 10 po (moyenne 140 po).
 
 ### Compétences de classe
-Les compétences de classe du magus sont les suivantes : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Connaissances](./Connaissances.md) (exploration souterraine) (Int), [Connaissances](./Connaissances.md) (mystères) (Int), [Connaissances](./Connaissances.md) (plans) (Int),  [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Intimidation](./Intimidation.md) (Cha), [Natation](./Natation.md) (For), [Profession](./Profession.md) (Sag), [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) (Cha) et [Vol](./Vol.md) (Dex).
+Les compétences de classe du magus sont les suivantes : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (exploration souterraine) (Int), [[Connaissances]] (mystères) (Int), [[Connaissances]] (plans) (Int),  [[Équitation]] (Dex), [[Escalade]] (For), [[Intimidation]] (Cha), [[Natation]] (For), [[Profession]] (Sag), [[Utilisation dobjets magiques|Utilisation d'objets magiques]] (Cha) et [[Vol]] (Dex).
 
-**Points de compétence par niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 2 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
 Voici les aptitudes de la classe de magus.
 
 #### Armes et armures
-Le magus est formé au maniement de toutes les armes courantes et de guerre. Il sait également comment porter une [armure légère](./Tableau récapitulatif des armures.md). Il peut lancer des sorts de magus alors qu’il porte une armure légère sans risque d’échec des sorts profanes, contrairement à d’habitude. Comme tous les autres lanceurs de sorts profanes, il court un [risque d’échec](./Caractéristiques des armures.md#RISQUEECHECPROFANE) s’il porte une armure intermédiaire, lourde ou un bouclier, à condition que le sort ait une [composante](./composante.md) gestuelle. Un magus multiclassé est toujours soumis au risque d’échec des sorts profanes pour tous les sorts qu’il lance grâce à une autre classe.
+Le magus est formé au maniement de toutes les armes courantes et de guerre. Il sait également comment porter une [[Tableau récapitulatif des armures|armure légère]]. Il peut lancer des sorts de magus alors qu’il porte une armure légère sans risque d’échec des sorts profanes, contrairement à d’habitude. Comme tous les autres lanceurs de sorts profanes, il court un [[Caractéristiques des armures#RISQUEECHECPROFANE|risque d’échec]] s’il porte une armure intermédiaire, lourde ou un bouclier, à condition que le sort ait une [[composante]] gestuelle. Un magus multiclassé est toujours soumis au risque d’échec des sorts profanes pour tous les sorts qu’il lance grâce à une autre classe.
 
 #### Sorts
-Un magus lance des sorts tiré de la [liste des sorts de magus](./Liste des sorts de magus.md). Il doit choisir ses sorts et les préparer à l'avance.
+Un magus lance des sorts tiré de la [[liste des sorts de magus]]. Il doit choisir ses sorts et les préparer à l'avance.
 
-Pour apprendre, préparer ou lancer un sort, le magus doit avoir une valeur d’[Intelligence](./Intelligence.md) de 10 + [niveau du sort](./niveau du sort.md). Le [degré de difficulté](./DD.md) du jet de sauvegarde opposé à un sort de magus est de 10 + niveau du sort + modificateur d’[Intelligence](./Intelligence.md) du magus.
+Pour apprendre, préparer ou lancer un sort, le magus doit avoir une valeur d’[[Intelligence]] de 10 + [[niveau du sort]]. Le [[DD|degré de difficulté]] du jet de sauvegarde opposé à un sort de magus est de 10 + niveau du sort + modificateur d’[[Intelligence]] du magus.
 
 Chaque jour, le magus ne peut lancer qu’un certain nombre de sorts de chaque niveau. Son nombre de sorts
-de base journalier est indiqué dans la table ci-dessus. Il reçoit en plus des sorts quotidiens supplémentaires s’il possède une grande [Intelligence](./Intelligence.md)
+de base journalier est indiqué dans la table ci-dessus. Il reçoit en plus des sorts quotidiens supplémentaires s’il possède une grande [[Intelligence]]
 
 Il n’y a pas de limite au nombre de sorts que le magus connaît. Il doit les choisir et les préparer à l’avance, en prenant 8 heures de sommeil et en étudiant son grimoire pendant 1 heure. Il décide des sorts à préparer pendant cette période d’étude.
 
@@ -348,20 +348,20 @@ Il n’y a pas de limite au nombre de sorts que le magus connaît. Il doit les c
 Chaque jour, pour préparer ses sorts, le magus doit étudier son grimoire. Il ne peut pas préparer un sort
 qui n’y figure pas, à part lecture de la magie que tous les magi peuvent lancer de mémoire.
 
-Un magus commence le jeu avec un grimoire contenant tous les sorts de niveau 0 et trois sorts de magus de niveau 1 de son choix. Le magus choisit également un nombre de sorts supplémentaires de niveau 1 égal à son modificateur d’[Intelligence](./Intelligence.md). À chaque fois qu’il gagne un niveau de magus, il apprend deux nouveaux sorts de magus de n’importe quel(s) niveau(x) qu’il est autorisé à lancer (en fonction de son nouveau niveau de magus) et les ajoute à son grimoire. À tout moment, il peut y ajouter des sorts trouvés dans d’autres grimoires.
+Un magus commence le jeu avec un grimoire contenant tous les sorts de niveau 0 et trois sorts de magus de niveau 1 de son choix. Le magus choisit également un nombre de sorts supplémentaires de niveau 1 égal à son modificateur d’[[Intelligence]]. À chaque fois qu’il gagne un niveau de magus, il apprend deux nouveaux sorts de magus de n’importe quel(s) niveau(x) qu’il est autorisé à lancer (en fonction de son nouveau niveau de magus) et les ajoute à son grimoire. À tout moment, il peut y ajouter des sorts trouvés dans d’autres grimoires.
 
-Un magus peut apprendre des sorts dans le grimoire d’un magicien et inversement. En revanche, les sorts appris doivent figurer sur la [liste des sorts de magus](./Liste des sorts de magus.md). Un [alchimiste](./Alchimiste.md) peut apprendre des formules en étudiant le grimoire d’un magus si les sorts choisis font partie de la liste des sorts de l’[alchimiste](./Alchimiste.md). Un magus ne peut pas apprendre de sorts auprès d’un alchimiste.
+Un magus peut apprendre des sorts dans le grimoire d’un magicien et inversement. En revanche, les sorts appris doivent figurer sur la [[liste des sorts de magus]]. Un [[alchimiste]] peut apprendre des formules en étudiant le grimoire d’un magus si les sorts choisis font partie de la liste des sorts de l’[[alchimiste]]. Un magus ne peut pas apprendre de sorts auprès d’un alchimiste.
 
 {s:Reference|RESERVEMAGIQUE}
 #### Réserve magique (Sur)
 Au niveau 1, le magus obtient un
 réservoir d’énergie mystique profane dans lequel il puise pour
 alimenter ses pouvoirs et améliorer ses armes. Cette réserve
-possède un nombre de points égal à 1/2 niveau du magus (avec un minimum de 1) + modificateur d’[Intelligence](./Intelligence.md). La réserve se régénère chaque jour, quand le magus prépare ses sorts.
+possède un nombre de points égal à 1/2 niveau du magus (avec un minimum de 1) + modificateur d’[[Intelligence]]. La réserve se régénère chaque jour, quand le magus prépare ses sorts.
 
-Au niveau 1, le magus peut dépenser 1 point de sa réserve par une [action rapide](./Action rapide.md) pour donner un bonus d’altération de +1 à l’arme qu’il tient, quelle qu’elle soit, pendant 1 minute. Ensuite, tous les quatre niveaux, ce bonus augmente de 1, avec un maximum de +5 au niveau 17. Ces bonus s’ajoutent à ceux de l’arme et se cumulent avec eux jusqu’à un maximum de +5. Ce pouvoir ne se cumule pas avec lui-même, même si on le lance à plusieurs reprises.
+Au niveau 1, le magus peut dépenser 1 point de sa réserve par une [[action rapide]] pour donner un bonus d’altération de +1 à l’arme qu’il tient, quelle qu’elle soit, pendant 1 minute. Ensuite, tous les quatre niveaux, ce bonus augmente de 1, avec un maximum de +5 au niveau 17. Ces bonus s’ajoutent à ceux de l’arme et se cumulent avec eux jusqu’à un maximum de +5. Ce pouvoir ne se cumule pas avec lui-même, même si on le lance à plusieurs reprises.
 
-Au niveau 5, le magus peut utiliser ces bonus pour ajouter l’une des propriétés suivantes à l’arme : *[acérée](./Armes magiques.md#Acérée)*, *[dansante](./Armes magiques.md#Dansante)*, *[de feu](./Armes magiques.md#Feu)*, *[de feu intense](./Armes magiques.md#Feuintense)*, *[de foudre](./Armes magiques.md#Foudre)*, *[de foudre intense](./Armes magiques.md#Foudreintense)*, *[de froid](./Armes magiques.md#Froid)*, *[de froid intense](./Armes magiques.md#Froidintense)*, *[de rapidité](./Armes magiques.md#Rapidité)* ou *[vorpale](./Armes magiques.md#Vorpale)*. L’ajout de telles propriétés consume une quantité de bonus égale au modificateur du [prix de base de ladite propriété](./Armes magiques.md). Ces propriétés s’ajoutent à celles que l’arme possède déjà mais les doubles ne se cumulent pas. Si l’arme n’est pas magique, il faut au moins lui ajouter un bonus d’altération de +1 avant de pouvoir lui donner la moindre propriété.
+Au niveau 5, le magus peut utiliser ces bonus pour ajouter l’une des propriétés suivantes à l’arme : *[[armes magiques#Acérée|acérée]]*, *[[armes magiques#Dansante|dansante]]*, *[[armes magiques#Feu|de feu]]*, *[[armes magiques#Feuintense|de feu intense]]*, *[[armes magiques#Foudre|de foudre]]*, *[[armes magiques#Foudreintense|de foudre intense]]*, *[[armes magiques#Froid|de froid]]*, *[[armes magiques#Froidintense|de froid intense]]*, *[[armes magiques#Rapidité|de rapidité]]* ou *[[armes magiques#Vorpale|vorpale]]*. L’ajout de telles propriétés consume une quantité de bonus égale au modificateur du [[armes magiques|prix de base de ladite propriété]]. Ces propriétés s’ajoutent à celles que l’arme possède déjà mais les doubles ne se cumulent pas. Si l’arme n’est pas magique, il faut au moins lui ajouter un bonus d’altération de +1 avant de pouvoir lui donner la moindre propriété.
 
 Le magus décide des bonus et propriétés au moment où il dépense son point de réserve magique et il ne peut plus en changer sans recourir à nouveau à ce pouvoir. Les bonus ne fonctionnent pas si ce n’est pas le magus qui utilise l’arme. Le magus ne peut améliorer ainsi qu’une arme à la fois. S’il utilise à nouveau ce pouvoir, la première version prend fin.
 
@@ -371,43 +371,43 @@ Un magus prépare chaque jour un certain nombre de tours de magie, ou sorts de n
 
 {s:Reference|COMBATMAGIQUE}
 #### Combat magique (Ext)
-{s:FAQ|***[→](./FAQ- lArt de la magie.md#17) Magus, Combat magique : Dans le cadre du combat magique, l'arme dans mon autre main peut-elle être une attaque à mains nues ou une arme naturelle ?***
+{s:FAQ|***[[FAQ- lArt de la magie#17|→]] Magus, Combat magique : Dans le cadre du combat magique, l'arme dans mon autre main peut-elle être une attaque à mains nues ou une arme naturelle ?***
 
-Oui, tant que l'arme est une arme de corps à corps légère ou à une main et qu'elle est associée à cette main. Par exemple, les attaques à mains nues, les griffes et les coups sont des des armes de corps à corps légères associées à une main, et peuvent donc être utilisées en <u>[combat magique](./Magus.md#COMBATMAGIQUE)</u>. Un coup de queue n'est pas associé à une main, et ne peut donc pas être utilisé en combat magique.
+Oui, tant que l'arme est une arme de corps à corps légère ou à une main et qu'elle est associée à cette main. Par exemple, les attaques à mains nues, les griffes et les coups sont des des armes de corps à corps légères associées à une main, et peuvent donc être utilisées en <u>[[Magus#COMBATMAGIQUE|combat magique]]</u>. Un coup de queue n'est pas associé à une main, et ne peut donc pas être utilisé en combat magique.
 ---
-***[→](./FAQ- lArt de la magie.md#18) Magus, Combat magique : Un magus peut-il utiliser le combat magique (page 10) avec des tours de magie ?***
+***[[FAQ- lArt de la magie#18|→]] Magus, Combat magique : Un magus peut-il utiliser le combat magique (page 10) avec des tours de magie ?***
 
-Oui. Il n'est pas limité aux sorts de 1er niveau ou plus. *(Retour à la <u>[capacité](./Magus.md#COMBATMAGIQUE)</u>)*
+Oui. Il n'est pas limité aux sorts de 1er niveau ou plus. *(Retour à la <u>[[Magus#COMBATMAGIQUE|capacité]]</u>)*
 ---
-***[→](./FAQ- lArt de la magie.md#19) Magus, Combat magique : Dans le cadre du combat magique, suis-je obligé d'utiliser l'arme dans mon autre main, ou puis-je utiliser d'autres formes d'armes (comme des pointes d'armure ou des morsures) tant que la main qui incante le sort reste libre ?***
+***[[FAQ- lArt de la magie#19|→]] Magus, Combat magique : Dans le cadre du combat magique, suis-je obligé d'utiliser l'arme dans mon autre main, ou puis-je utiliser d'autres formes d'armes (comme des pointes d'armure ou des morsures) tant que la main qui incante le sort reste libre ?***
 
-Le personnage doit spécifiquement utiliser l'arme de corps à corps légère ou à une main tenue dans son autre main. *(Retour à la <u>[capacité](./Magus.md#COMBATMAGIQUE)</u>)*
+Le personnage doit spécifiquement utiliser l'arme de corps à corps légère ou à une main tenue dans son autre main. *(Retour à la <u>[[Magus#COMBATMAGIQUE|capacité]]</u>)*
 ---
-***[→](./FAQ- lArt de la magie.md#20) Magus, Combat magique : Le combat magique compte-t-il comme une attaque à outrance dans le cadre de *rapidité* et d'autres effets ?***
+***[[FAQ- lArt de la magie#20|→]] Magus, Combat magique : Le combat magique compte-t-il comme une attaque à outrance dans le cadre de *rapidité* et d'autres effets ?***
 
 Oui.
 
-Mise à jour 9/9/2013 : Il s'agit d'une révision de la façon dont *[rapidité](./Rapidité.md)* interagit avec les effets qui simulent une attaque à outrance, même si la créature n'utilise pas explicitement l'action d'attaque à outrance (comme imposé par *rapidité*). La règle originale ne permettait pas à un personnage utilisant le <u>[combat magique](./Magus.md#COMBATMAGIQUE)</u> de porter l'attaque supplémentaire offerte par *rapidité*.
+Mise à jour 9/9/2013 : Il s'agit d'une révision de la façon dont *[[rapidité]]* interagit avec les effets qui simulent une attaque à outrance, même si la créature n'utilise pas explicitement l'action d'attaque à outrance (comme imposé par *rapidité*). La règle originale ne permettait pas à un personnage utilisant le <u>[[Magus#COMBATMAGIQUE|combat magique]]</u> de porter l'attaque supplémentaire offerte par *rapidité*.
 ---
-***[→](./FAQ- lArt de la magie.md#21) Magus, Combat magique : Lorsque j'utilise le combat magique, combien d'attaques d'arme puis-je porter ?***
+***[[FAQ- lArt de la magie#21|→]] Magus, Combat magique : Lorsque j'utilise le combat magique, combien d'attaques d'arme puis-je porter ?***
 
-Un personnage peut porter autant d'attaques d'arme qu'il aurait normalement pu s'il effectuait une attaque à outrance avec cette arme. Par exemple, si le personnage est un [magus](./Magus.md) de niveau 8 (BBA +6/+1), il peut porter deux attaques d'arme en utilisant le <u>[combat magique](./Magus.md#COMBATMAGIQUE)</u>.
+Un personnage peut porter autant d'attaques d'arme qu'il aurait normalement pu s'il effectuait une attaque à outrance avec cette arme. Par exemple, si le personnage est un [[magus]] de niveau 8 (BBA +6/+1), il peut porter deux attaques d'arme en utilisant le <u>[[Magus#COMBATMAGIQUE|combat magique]]</u>.
 
-Mise à jour 9/9/2013 : Il s'agit d'une révision de la façon dont *[rapidité](./Rapidité.md)* intéragit avec les effets qui simulent une attaque à outrance, même si la créature n'utilise pas explicitement l'action d'attaque à outrance (comme imposé par *rapidité*). La règle originale ne permettait pas à un personnage utilisant le [combat magique](./Magus.md#COMBATMAGIQUE) de porter l'attaque supplémentaire offerte par *rapidité*.
+Mise à jour 9/9/2013 : Il s'agit d'une révision de la façon dont *[[rapidité]]* intéragit avec les effets qui simulent une attaque à outrance, même si la créature n'utilise pas explicitement l'action d'attaque à outrance (comme imposé par *rapidité*). La règle originale ne permettait pas à un personnage utilisant le [[Magus#COMBATMAGIQUE|combat magique]] de porter l'attaque supplémentaire offerte par *rapidité*.
 ---
-***[→](./FAQ- lArt de la magie.md#22) Magus, Combat magique : Quels sorts puis-je lance dans le cadre du combat magique ?***
+***[[FAQ- lArt de la magie#22|→]] Magus, Combat magique : Quels sorts puis-je lance dans le cadre du combat magique ?***
 
 Le texte de la capacité pertinent ici est :
 
 « Lors d'une action complexe, il peut porter toutes les attaques autorisées avec son arme avec un malus de -2 et lancer tout sort de la liste de magus dont l'incantation n'excède pas une action simple (tout jet d'attaque inclus dans le sort subit également le malus de -2). »
 
-Le sort lancé dans le cadre du <u>[combat magique](./Magus.md#COMBATMAGIQUE)</u> doit être un sort de magus connu par le personnage, et doit être un sort de magus préparé dans l'un de ses emplacements de sort de magus.
+Le sort lancé dans le cadre du <u>[[Magus#COMBATMAGIQUE|combat magique]]</u> doit être un sort de magus connu par le personnage, et doit être un sort de magus préparé dans l'un de ses emplacements de sort de magus.
 
-(D'autres capacités de magus peuvent modifier les sorts éligibles dans le cadre du combat magique. Par exemple, l'arcane de magus [études diversifiées](./arcanes.md#ETUDESDIVERSIFIEES) indique explicitement que le magus peut utiliser le combat magique pour lancer des sorts de la classe de lanceur de sorts non-magus choisie.)}Au niveau 1, le magus apprend à lancer des sorts et à manier ses armes en même temps. Ceci fonctionne comme le combat à deux armes mais l’arme secondaire est en fait le sort en pleine incantation. Pour se servir de ce pouvoir, le magus doit avoir une main libre (même si le sort qu’il lance ne possède pas de composante gestuelle) et utiliser une arme [légère](./arme légère.md) ou [à une main](./arme à une main.md) de l’autre.
+(D'autres capacités de magus peuvent modifier les sorts éligibles dans le cadre du combat magique. Par exemple, l'arcane de magus [[Arcanes#ETUDESDIVERSIFIEES|études diversifiées]] indique explicitement que le magus peut utiliser le combat magique pour lancer des sorts de la classe de lanceur de sorts non-magus choisie.)}Au niveau 1, le magus apprend à lancer des sorts et à manier ses armes en même temps. Ceci fonctionne comme le combat à deux armes mais l’arme secondaire est en fait le sort en pleine incantation. Pour se servir de ce pouvoir, le magus doit avoir une main libre (même si le sort qu’il lance ne possède pas de composante gestuelle) et utiliser une arme [[arme légère|légère]] ou [[arme à une main|à une main]] de l’autre.
 
-Lors d’une [action complexe](./Action complexe.md), il peut porter toutes les attaques autorisées avec son arme avec un malus de -2 et lancer tout sort de la liste de magus dont l’incantation n’excède pas une [action simple](./Action simple.md) (tout jet d’attaque inclus dans le sort subit également le malus de -2).
+Lors d’une [[action complexe]], il peut porter toutes les attaques autorisées avec son arme avec un malus de -2 et lancer tout sort de la liste de magus dont l’incantation n’excède pas une [[action simple]] (tout jet d’attaque inclus dans le sort subit également le malus de -2).
 
-Si le magus lance le sort [sur la défensive](./Actions simples.md#LANCERSORT), il peut ajouter le malus de son choix aux [jets d’attaque](./jet dattaque.md) (sans dépasser une valeur égale à son bonus d'[Intelligence](./Intelligence.md)) et ajouter cette valeur à ses tests de [concentration](./concentration.md), sous forme de bonus de circonstance. Si le magus rate son test, il perd son sort mais ses attaques souffrent tout de même du malus.
+Si le magus lance le sort [[Actions simples#LANCERSORT|sur la défensive]], il peut ajouter le malus de son choix aux [[jet dattaque|jets d’attaque]] (sans dépasser une valeur égale à son bonus d'[[Intelligence]]) et ajouter cette valeur à ses tests de [[concentration]], sous forme de bonus de circonstance. Si le magus rate son test, il perd son sort mais ses attaques souffrent tout de même du malus.
 
 Le magus peut lancer le sort ou attaquer avec ses armes en premier comme il le souhaite mais, s’il porte plusieurs attaques, il ne peut pas intercaler le sort entre elles.
 
@@ -415,25 +415,25 @@ Le combat magique peut être utilisé avec les tours de magie du magus.
 
 {s:Reference|FRAPPEMAGIQUE}
 #### Frappe magique (Sur)
-{s:FAQ|***[→](./FAQ- lArt de la magie.md#23) Magus, Frappe magique : Si je lance un sort qui autorise plusieurs attaques de contact, puis-je délivrer tous ces contacts à travers mon arme ?***
+{s:FAQ|***[[FAQ- lArt de la magie#23|→]] Magus, Frappe magique : Si je lance un sort qui autorise plusieurs attaques de contact, puis-je délivrer tous ces contacts à travers mon arme ?***
 
-Oui. Par exemple, si un personnage lançait *[contact glacial](./Contact glacial.md)* (qui autorise plusieurs attaques de contact), il pourrait utiliser <u>[frappe magique](./Magus.md#FRAPPEMAGIQUE)</u> pour lancer et délivrer le sort à travers son arme, puis utiliser des attaques d'arme ultérieures pour délivrer les attaques de contact restantes du sort (au rythme d'une attaque de contact par attaque d'arme).
+Oui. Par exemple, si un personnage lançait *[[contact glacial]]* (qui autorise plusieurs attaques de contact), il pourrait utiliser <u>[[Magus#FRAPPEMAGIQUE|frappe magique]]</u> pour lancer et délivrer le sort à travers son arme, puis utiliser des attaques d'arme ultérieures pour délivrer les attaques de contact restantes du sort (au rythme d'une attaque de contact par attaque d'arme).
 
 Si le personnage peut porter plusieurs attaques par round avec cette arme (comme avec un BBA de +6 ou supérieur), il peut utiliser l'arme pour délivrer plusieurs attaques de contact du sort par round, tant qu'il lui reste des attaques de contact du sort à utiliser.
 
 Par exemple, si le personnage est un magus de niveau 8 (BBA +6/+1) et qu'il lance *contact glacial*, il peut utiliser jusqu'à 8 attaques de contact du sort. S'il porte deux attaques d'arme lors du même round, il peut délivrer deux attaques de contact du sort par round (une pour chaque attaque d'arme réussie).
 ---
-***[→](./FAQ- lArt de la magie.md#24) Magus, Frappe magique : Un magus peut-il utiliser frappe magique (page 10) pour lancer un sort de contact, se déplacer, puis porter une attaque au corps à corps avec une arme pour délivrer le sort de contact, tout ça dans le même round ?***
+***[[FAQ- lArt de la magie#24|→]] Magus, Frappe magique : Un magus peut-il utiliser frappe magique (page 10) pour lancer un sort de contact, se déplacer, puis porter une attaque au corps à corps avec une arme pour délivrer le sort de contact, tout ça dans le même round ?***
 
-Oui. À part délivrer le sort avec une arme de corps à corps au lieu d'une attaque de contact au corps à corps, la capacité <u>[frappe magique](./Magus.md#FRAPPEMAGIQUE)</u> ne modifie pas les règles relatives aux [sorts de contact en situation de combat](./Actions simples.md#LANCERSORT) (*Manuel des joueurs* p.185). Donc, comme quand on lance un sort de contact, un magus peut utiliser frappe magique pour lancer un sort de contact, s'approcher d'un ennemi, puis (par une action libre) porter une attaque au corps à corps avec son arme pour délivrer le sort.
+Oui. À part délivrer le sort avec une arme de corps à corps au lieu d'une attaque de contact au corps à corps, la capacité <u>[[Magus#FRAPPEMAGIQUE|frappe magique]]</u> ne modifie pas les règles relatives aux [[Actions simples#LANCERSORT|sorts de contact en situation de combat]] (*Manuel des joueurs* p.185). Donc, comme quand on lance un sort de contact, un magus peut utiliser frappe magique pour lancer un sort de contact, s'approcher d'un ennemi, puis (par une action libre) porter une attaque au corps à corps avec son arme pour délivrer le sort.
 
 Sur une note similaire, le fait que le magus touche l'arme qu'il tient ne compte pas comme « toucher quelqu'un ou quelque chose » dans le cadre du déchargement du sort. Un magus pourrait même utiliser la capacité frappe magique, rater son attaque au corps à corps pour délivrer le sort, être désarmé par un adversaire (ou lâcher l'arme volontairement, quelque soit la raison), et continuer de retenir la charge dans sa main, comme un lanceur de sorts normal. De plus, le magus désarmé pourrait prendre une arme (même celle qu'il a lâché) avec cette main sans décharger automatiquement le sort, puis essayer d'utiliser l'arme pour délivrer ce sort. Cependant, si le magus touche autre chose qu'une arme avec cette main (comme l'utiliser pour saisir une potion), le sort se décharge normalement.
 
 Concrètement, la frappe magique offre plus d'options au magus lorsqu'il s'agit de délivrer des sorts de contact ; elle n'est pas sensée lui rendre cette entreprise plus difficile.}Au niveau 2, quand un magus lance un sort de la liste de magus dont la portée est notée « contact », il peut appliquer le sort à l’aide de l’arme qu’il manie, lors d’une attaque de corps à corps.
 
-Au lieu de faire une attaque de contact au corps à corps gratuite comme le permet normalement le sort, il a droit à une attaque de corps à corps gratuite avec son arme (avec son [bonus de base à l’attaque](./BBA.md) maximal). Cela fait partie de l’incantation du sort. S’il réussit, cette attaque inflige également les dégâts habituels en plus d’appliquer les effets du sort.
+Au lieu de faire une attaque de contact au corps à corps gratuite comme le permet normalement le sort, il a droit à une attaque de corps à corps gratuite avec son arme (avec son [[BBA|bonus de base à l’attaque]] maximal). Cela fait partie de l’incantation du sort. S’il réussit, cette attaque inflige également les dégâts habituels en plus d’appliquer les effets du sort.
 
-Si le magus lance cette attaque alors qu’il utilise le combat magique, l’attaque de corps à corps subit les malus liés à l’utilisation de ce pouvoir. L’attaque bénéficie de la zone de critique possible de l’arme (20, 19-20 ou 18-20 et elle est affectée par les propriétés comme *[acérée](./acérée (propriété).md)* ou autres effets similaires). En revanche, le sort fait seulement des dégâts doublés en cas de coup critique, l’arme utilise son propre modificateur de [coup critique](./coup critique.md).
+Si le magus lance cette attaque alors qu’il utilise le combat magique, l’attaque de corps à corps subit les malus liés à l’utilisation de ce pouvoir. L’attaque bénéficie de la zone de critique possible de l’arme (20, 19-20 ou 18-20 et elle est affectée par les propriétés comme *[[acérée (propriété)|acérée]]* ou autres effets similaires). En revanche, le sort fait seulement des dégâts doublés en cas de coup critique, l’arme utilise son propre modificateur de [[coup critique]].
 
 {s:Reference|ARCANE}
 #### Arcanes du magus
@@ -441,60 +441,60 @@ Alors que le magus gagne des niveaux, il apprend des secrets liés à sa manièr
 
 À partir du niveau 3, il obtient un arcane du magus. Ensuite, il en gagne un nouveau tous les trois niveaux. Sauf indication contraire, le magus ne peut pas sélectionner le même arcane à plusieurs reprises. Les arcanes de magus qui affectent les sorts s’appliquent uniquement aux sorts de la liste de magus, à moins d’une indication contraire.
 
-*Voir la [liste des arcanes du magus](./arcanes.md).*
+*Voir la [[Arcanes|liste des arcanes du magus]].*
 
 {s:Reference|SOUVENIRMAGIQUE}
 #### Souvenir magique (Sur)
-Au niveau 4, le magus apprend à se servir de sa réserve magique pour se souvenir des sorts qu’il a déjà lancés. Par une [action rapide](./Action rapide.md), il peut se souvenir d’un sort de magus qu’il a déjà préparé et lancé dans la journée en dépensant un nombre de points de [réserve magique](./Magus.md#RESERVEMAGIQUE) égal au niveau du sort (minimum 1).
+Au niveau 4, le magus apprend à se servir de sa réserve magique pour se souvenir des sorts qu’il a déjà lancés. Par une [[action rapide]], il peut se souvenir d’un sort de magus qu’il a déjà préparé et lancé dans la journée en dépensant un nombre de points de [[magus#RESERVEMAGIQUE|réserve magique]] égal au niveau du sort (minimum 1).
 
 Ce sort est à nouveau considéré comme prêt, comme si le magus ne l’avait pas lancé.
 
 {s:Reference|DONSUPPLEMENTAIRE}
 #### Don supplémentaire
-Au niveau 5 et, par la suite, tous les six niveaux, le magus gagne un don supplémentaire en plus de ceux dus à la progression normale. Ils sont à choisir dans les listes de [dons de combat](./Dons.md#COMBAT), [de création d’objet](./Dons.md#CREATIONDOBJETS) ou de [métamagie](./Dons.md#METAMAGIE).
+Au niveau 5 et, par la suite, tous les six niveaux, le magus gagne un don supplémentaire en plus de ceux dus à la progression normale. Ils sont à choisir dans les listes de [[dons#COMBAT|dons de combat]], [[dons#CREATIONDOBJETS|de création d’objet]] ou de [[dons#METAMAGIE|métamagie]].
 
 Le magus doit remplir les conditions requises, comme d’habitude.
 
 {s:Reference|RESERVEDECONNAISSANCES}
 #### Réserve de connaissances (Sur)
-Au niveau 7, quand le magus prépare ses sorts, il peut dépenser 1 point de réserve magique ou plus, avec une limite égale à son bonus d’[Intelligence](./Intelligence.md). Pour chaque point dépensé, il peut choisir un sort de la liste du magus et faire comme s’il se trouvait dans son grimoire. Il peut donc le préparer pour la journée. S’il n’a pas lancé les sorts préparés ainsi avant la prochaine phase de préparation de sorts, il les perd. Il peut également relancer ces sorts à l’aide du pouvoir de souvenir magique mais seulement avant la prochaine phase de préparation de sorts.
+Au niveau 7, quand le magus prépare ses sorts, il peut dépenser 1 point de réserve magique ou plus, avec une limite égale à son bonus d’[[Intelligence]]. Pour chaque point dépensé, il peut choisir un sort de la liste du magus et faire comme s’il se trouvait dans son grimoire. Il peut donc le préparer pour la journée. S’il n’a pas lancé les sorts préparés ainsi avant la prochaine phase de préparation de sorts, il les perd. Il peut également relancer ces sorts à l’aide du pouvoir de souvenir magique mais seulement avant la prochaine phase de préparation de sorts.
 
 {s:Reference|ARMUREINTERMEDIAIRE}
 #### Armure intermédiaire (Ext)
-Au niveau 7, le magus se forme au port des armures intermédiaires. Il peut lancer des sorts de magus alors qu’il porte une armure intermédiaire sans [risque d’échec](./Caractéristiques des armures.md#RISQUEECHECPROFANE) des sorts profanes, contrairement à d’habitude. Comme tous les autres lanceurs de sorts profanes, il court un risque d’échec s’il porte une armure lourde ou un bouclier, à condition que le sort ait une composante gestuelle.
+Au niveau 7, le magus se forme au port des armures intermédiaires. Il peut lancer des sorts de magus alors qu’il porte une armure intermédiaire sans [[Caractéristiques des armures#RISQUEECHECPROFANE|risque d’échec]] des sorts profanes, contrairement à d’habitude. Comme tous les autres lanceurs de sorts profanes, il court un risque d’échec s’il porte une armure lourde ou un bouclier, à condition que le sort ait une composante gestuelle.
 
 {s:Reference|SCIENCEDUCOMBATMAGIQUE}
 #### Science du combat magique (Ext)
-Au niveau 8, le magus devient plus performant pour lancer des sorts et attaquer avec ses armes. Quand il utilise le pouvoir de combat magique, il reçoit un bonus de circonstance de +2 aux tests de [concentration](./concentration.md), en plus des bonus obtenus en choisissant de subir un malus au [jet d’attaque](./jet dattaque.md).
+Au niveau 8, le magus devient plus performant pour lancer des sorts et attaquer avec ses armes. Quand il utilise le pouvoir de combat magique, il reçoit un bonus de circonstance de +2 aux tests de [[concentration]], en plus des bonus obtenus en choisissant de subir un malus au [[jet dattaque|jet d’attaque]].
 
 {s:Reference|FORMATIONDUCOMBATTANT}
 #### Formation de combattant (Ext)
-À partir du niveau 10, le magus utilise 1/2 de son niveau comme niveau de [guerrier](./Guerrier.md) pour remplir les conditions requises pour un [don](./Dons.md). S’il a des niveaux de guerrier, ils se cumulent.
+À partir du niveau 10, le magus utilise 1/2 de son niveau comme niveau de [[guerrier]] pour remplir les conditions requises pour un [[dons|don]]. S’il a des niveaux de guerrier, ils se cumulent.
 
 {s:Reference|SCIENCEDUSOUVENIRMAGIQUE}
 #### Science du souvenir magique (Sur)
 Au niveau 11, le magus devient encore plus efficace quand il se souvient d’un sort en puisant dans sa réserve magique. Quand il utilise le souvenir magique, il dépense un nombre de points tirés de sa réserve magique égal à 1/2 niveau du sort (1 au minimum).
 
-De plus, au lieu de se souvenir d’un sort utilisé, le magus peut préparer un sort présent dans son grimoire par une [action rapide](./Action rapide.md). Ce sort doit être de même niveau que le sort utilisé. Pour cela, il dépense un nombre de points de réserve égal au niveau du sort (avec un minimum de 1). Le magus ne peut pas appliquer de [don de métamagie](./Dons.md#METAMAGIE) à un sort ainsi préparé. Le magus n’a pas besoin de se référer à son grimoire quand il prépare un sort de cette manière.
+De plus, au lieu de se souvenir d’un sort utilisé, le magus peut préparer un sort présent dans son grimoire par une [[action rapide]]. Ce sort doit être de même niveau que le sort utilisé. Pour cela, il dépense un nombre de points de réserve égal au niveau du sort (avec un minimum de 1). Le magus ne peut pas appliquer de [[dons#METAMAGIE|don de métamagie]] à un sort ainsi préparé. Le magus n’a pas besoin de se référer à son grimoire quand il prépare un sort de cette manière.
 
 {s:Reference|ARMURELOURDE}
 #### Armure lourde (Ext)
-Au niveau 13, le magus se forme au port des armures lourdes. Il peut lancer des sorts de magus alors qu’il porte une armure lourde sans risque d’échec des sorts profanes, contrairement à d’habitude. Comme tous les autres lanceurs de sorts profanes, il court un [risque d’échec](./Caractéristiques des armures.md#RISQUEECHECPROFANE) s’il porte un bouclier, à condition que le sort ait une composante gestuelle.
+Au niveau 13, le magus se forme au port des armures lourdes. Il peut lancer des sorts de magus alors qu’il porte une armure lourde sans risque d’échec des sorts profanes, contrairement à d’habitude. Comme tous les autres lanceurs de sorts profanes, il court un [[Caractéristiques des armures#RISQUEECHECPROFANE|risque d’échec]] s’il porte un bouclier, à condition que le sort ait une composante gestuelle.
 
 {s:Reference|COMBATMAGIQUESUPERIEUR}
 #### Combat magique supérieur (Ext)
-Au niveau 14, le magus parvient à lancer des sorts sans risque d’erreur tout en attaquant au corps à corps. À chaque fois qu’il se sert de ce pouvoir, son bonus au test de concentration est égal au double du malus qu’il choisit d’avoir aux [jets d’attaque](./jet dattaque.md).
+Au niveau 14, le magus parvient à lancer des sorts sans risque d’erreur tout en attaquant au corps à corps. À chaque fois qu’il se sert de ce pouvoir, son bonus au test de concentration est égal au double du malus qu’il choisit d’avoir aux [[jet dattaque|jets d’attaque]].
 
 {s:Reference|RIPOSTER}
 #### Riposter (Ext)
-À partir du niveau 16, quand un ennemi situé à portée du magus lance un sort sur la [défensive](./incantation sur la défensive.md), il provoque une [attaque d’opportunité](./attaque dopportunité.md) de la part du magus une fois le sort lancé. Cette attaque n’interrompt pas le sort.
+À partir du niveau 16, quand un ennemi situé à portée du magus lance un sort sur la [[incantation sur la défensive|défensive]], il provoque une [[attaque dopportunité|attaque d’opportunité]] de la part du magus une fois le sort lancé. Cette attaque n’interrompt pas le sort.
 
 {s:Reference|ACCESAUXSORTSSUPERIEURS}
 #### Accès aux sorts supérieur (Sur)
-Au niveau 19, le magus a accès à une liste de sorts plus développée. Il apprend quatorze sorts de magicien supplémentaires dans son grimoire, qu’il note comme des sorts de magus de même niveau. Pour chacun des niveaux suivants, il apprend deux [sorts de magicien](./Liste des sorts densorceleursmagiciens.md) qui ne figurent pas sur la liste du magus : niveaux 0, 1, 2, 3, 4, 5 et 6.
+Au niveau 19, le magus a accès à une liste de sorts plus développée. Il apprend quatorze sorts de magicien supplémentaires dans son grimoire, qu’il note comme des sorts de magus de même niveau. Pour chacun des niveaux suivants, il apprend deux [[Liste des sorts densorceleursmagiciens|sorts de magicien]] qui ne figurent pas sur la liste du magus : niveaux 0, 1, 2, 3, 4, 5 et 6.
 
 Il ignore les composantes gestuelles de ces sorts et les lance sans risque d’échec des sorts profanes.
 
 {s:Reference|MAGUSULTIME}
 #### Magus ultime (Sur)
-Au niveau 20, le magus devient un maître des sorts et du combat. À chaque fois qu’il utilise son pouvoir de combat magique, il peut se dispenser de faire un test de [concentration](./concentration.md) s’il lance un sort sur la [défensive](./incantation sur la défensive.md). Quand il se sert du combat magique et que ses sorts visent la même cible que ses attaques au corps à corps, il peut choisir d’augmenter le [DD](./DD.md) pour résister à ses sorts de +2, se donner un bonus de circonstance de +2 pour vaincre une éventuelle [résistance à la magie](./RM.md) ou s’attribuer un bonus de circonstance de +2 à tous les [jets d’attaque](./jet dattaque.md) contre la cible, le tout durant son tour.
+Au niveau 20, le magus devient un maître des sorts et du combat. À chaque fois qu’il utilise son pouvoir de combat magique, il peut se dispenser de faire un test de [[concentration]] s’il lance un sort sur la [[incantation sur la défensive|défensive]]. Quand il se sert du combat magique et que ses sorts visent la même cible que ses attaques au corps à corps, il peut choisir d’augmenter le [[DD]] pour résister à ses sorts de +2, se donner un bonus de circonstance de +2 pour vaincre une éventuelle [[RM|résistance à la magie]] ou s’attribuer un bonus de circonstance de +2 à tous les [[jet dattaque|jets d’attaque]] contre la cible, le tout durant son tour.

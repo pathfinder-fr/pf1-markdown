@@ -14,25 +14,25 @@ Categories:
 - Sort sorcière 1
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[langage, mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 1, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cible** 1 créature vivante
-**Durée** 1 [round](./round.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Durée** 1 [[round]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 ---
 Le lanceur de sorts donne un ordre à la cible et celle-ci y obéit fidèlement et aussi tôt que possible. Il peut choisir l’une des options suivantes.
 
-**Approche.** À son tour, le sujet se déplace vers le personnage pendant un [round](./round.md), aussi vite que possible et en empruntant le chemin le plus direct. Il ne fait rien d’autre que se déplacer, et, le cas échéant, ce mouvement peut provoquer des [attaques d’opportunité](./attaque dopportunité.md).
+**Approche.** À son tour, le sujet se déplace vers le personnage pendant un [[round]], aussi vite que possible et en empruntant le chemin le plus direct. Il ne fait rien d’autre que se déplacer, et, le cas échéant, ce mouvement peut provoquer des [[attaque dopportunité|attaques d’opportunité]].
 
-**Fuis.** À son tour, le sujet s’éloigne du personnage pendant un [round](./round.md), aussi vite que possible. Il ne fait rien d’autre que se déplacer et, le cas échéant, ce mouvement peut provoquer des [attaques d’opportunité](./attaque dopportunité.md).
+**Fuis.** À son tour, le sujet s’éloigne du personnage pendant un [[round]], aussi vite que possible. Il ne fait rien d’autre que se déplacer et, le cas échéant, ce mouvement peut provoquer des [[attaque dopportunité|attaques d’opportunité]].
 
-**Halte.** Le sujet ne bouge plus pendant 1 [round](./round.md). Il n’entreprend aucune action mais n’est pas [sans défense](./Sans défense.md) pour autant.
+**Halte.** Le sujet ne bouge plus pendant 1 [[round]]. Il n’entreprend aucune action mais n’est pas [[sans défense]] pour autant.
 
 **Lâche.** À son tour, le sujet lâche tout ce qu’il tient. Il ne peut ramasser aucun de ces objets avant son prochain tour.
 
-**Tombe.** À son tour, le sujet tombe au sol et reste [à terre](./À terre.md) pendant 1 [round](./round.md). Il peut agir selon ses désirs pendant qu’il est sur le sol mais subit alors les malus habituels.
+**Tombe.** À son tour, le sujet tombe au sol et reste [[à terre]] pendant 1 [[round]]. Il peut agir selon ses désirs pendant qu’il est sur le sol mais subit alors les malus habituels.
 
 Si le sujet est incapable d’obéir à l’ordre lorsque son tour arrive, le sort échoue.
 
@@ -42,14 +42,14 @@ Si le sujet est incapable d’obéir à l’ordre lorsque son tour arrive, le so
 
 
 ((({s:sortssimilaires|injonction}
-## [Injonction suprême](./Injonction suprême.md)
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[langage, mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 4, [Inq](./Inquisiteur.md) 5, [Méd](./Médium.md) 4, [Occ](./Occultiste.md) 5, [Prê](./Prêtre.md) 5, [Psy](./Psychiste.md) 5
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Cibles** 1 créature/[niveau](./niveau.md), distantes de moins de 9 m/6 {s:c} les unes des autres
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+## [[Injonction suprême]]
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
+**Cibles** 1 créature/[[niveau]], distantes de moins de 9 m/6 {s:c} les unes des autres
+**Durée** 1 [[round]]/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[injonction](./Injonction.md)*, si ce n’est qu’il permet d’affecter jusqu’à une créature par [niveau](./niveau.md) et que son effet persiste sur plusieurs [rounds](./round.md). Le personnage ne peut donner qu’un seul ordre, qui vaut pour toutes les cibles. Celles qui ratent leur [jet de sauvegarde](./Présentation des sorts.md#JETSDESAUVEGARDE) initial y obéissent dès que vient leur tour. Puis après, au début de chacun de leurs tours (à partir du second tour suivant l’incantation d’*injonction suprême* donc), les créatures affectées peuvent effectuer un nouveau jet de [Volonté](./Volonté.md) pour tenter de se libérer de l’[enchantement](./Enchantement.md).
+Ce sort fonctionne comme *[[injonction]]*, si ce n’est qu’il permet d’affecter jusqu’à une créature par [[niveau]] et que son effet persiste sur plusieurs [[round|rounds]]. Le personnage ne peut donner qu’un seul ordre, qui vaut pour toutes les cibles. Celles qui ratent leur [[Présentation des sorts#JETSDESAUVEGARDE|jet de sauvegarde]] initial y obéissent dès que vient leur tour. Puis après, au début de chacun de leurs tours (à partir du second tour suivant l’incantation d’*injonction suprême* donc), les créatures affectées peuvent effectuer un nouveau jet de [[Volonté]] pour tenter de se libérer de l’[[enchantement]].
 )))

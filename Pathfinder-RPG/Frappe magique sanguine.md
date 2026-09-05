@@ -11,12 +11,12 @@ Categories:
 
 {s:mca} *L’énergie magique guide les attaques dévastatrices du personnage.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Frappe magique](./Frappe magique.md), capacité à lancer des sorts profanes, pouvoir de classe [rage sanguine](./Sanguin.md#RAGESANGUINE).
+**Conditions.** [[Frappe magique]], capacité à lancer des sorts profanes, pouvoir de classe [[sanguin#RAGESANGUINE|rage sanguine]].
 
-**Avantage.** Lorsqu’il entre en [rage sanguine](./Sanguin.md#RAGESANGUINE), le personnage n’a pas besoin de dépenser d’[action rapide](./Action rapide.md) pour utiliser sa [Frappe magique](./Frappe magique.md) : elle est toujours active. Quand il utilise ce pouvoir avec [Frappe décisive](./Frappe décisive.md), [Science de la frappe décisive](./Science de la frappe décisive.md) ou [Frappe décisive supérieure](./Frappe décisive supérieure.md), le bonus aux jets de dégâts de [Frappe magique](./Frappe magique.md) est multiplié par le nombre de fois (deux, trois ou quatre) où le personnage lance les dés de dégâts pour l’un de ces dons.
+**Avantage.** Lorsqu’il entre en [[sanguin#RAGESANGUINE|rage sanguine]], le personnage n’a pas besoin de dépenser d’[[action rapide]] pour utiliser sa [[Frappe magique]] : elle est toujours active. Quand il utilise ce pouvoir avec [[Frappe décisive]], [[Science de la frappe décisive]] ou [[Frappe décisive supérieure]], le bonus aux jets de dégâts de [[Frappe magique]] est multiplié par le nombre de fois (deux, trois ou quatre) où le personnage lance les dés de dégâts pour l’un de ces dons.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage imprègne son arme avec [Frappe magique](./Frappe magique.md), il peut dépenser 5 points d’endurance pour augmenter ses dégâts de 1 pendant toute la durée de l’effet de Frappe magique.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage imprègne son arme avec [[Frappe magique]], il peut dépenser 5 points d’endurance pour augmenter ses dégâts de 1 pendant toute la durée de l’effet de Frappe magique.

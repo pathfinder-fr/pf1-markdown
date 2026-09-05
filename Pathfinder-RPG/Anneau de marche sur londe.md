@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de marche sur l’onde|}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 15.000 po ; **Poids** —
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 15.000 po ; **Poids** —
 (((Description)))
-Comme son nom l’indique, cet anneau souvent fait de corail ou de métal bleuté permet de bénéficier à volonté de l’effet du sort *[marche sur l’onde](./Marche sur londe.md)*.
+Comme son nom l’indique, cet anneau souvent fait de corail ou de métal bleuté permet de bénéficier à volonté de l’effet du sort *[[marche sur londe|marche sur l’onde]]*.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[marche sur l’onde](./Marche sur londe.md)* ; **Coût** 7 500 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[marche sur londe|marche sur l’onde]]* ; **Coût** 7 500 po
 </div>

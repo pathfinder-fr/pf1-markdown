@@ -17,7 +17,7 @@ Des conditions typiques sont : une classe de prestige et une classe simple (qui 
 Les avantages doivent également être très simples et assez réduits : ils se résument généralement à des avantages de RP : le personnage est connu et considéré comme une légende... et pour cause !
 Concrètement, ça lui donne accès à l'oreille des puissants, un rôle particulier dans le royaume, dans un ordre de chevalerie ou une organisation puissante.
 
-## Le Chevalier vert[anchor|#chevaliervert]
+## Le Chevalier vert<a id="chevaliervert"></a>
 Ce profil légendaire est d'inspiration purement arthurienne, le chevalier vert apparait dans un conte Arthurien ou il met à l'épreuve la détermination et le courage de Sire Gauvain, j'ai ajouté l'aspect "défenseur de la nature" pour l'associer plus facilement avec l'Ordre Druidique.
 ##### Conditions requises
 **Classes exercées :** Chevalier niveau 1+, Gardien de la nature niveau 1+{br}
@@ -28,7 +28,7 @@ Ce profil légendaire est d'inspiration purement arthurienne, le chevalier vert 
 - Le personnage est membre à part entière de l'Ordre Druidique, son niveau de confiance bénéfice d'un bonus de +1 par rapport à ses dés de vie ou à son niveau de sorts druidiques.{br}{br}
 - Le personnage peut abandonner l'Ordre de Chevaliers auquel il appartient pour devenir le Grand Maître de l'Ordre du Vieux Chêne, cet ordre regroupe tous les gardiens de la nature et tous les combattants protégeant la nature pour le compte de l'Ordre druidique ou par principe personnel. Pour un Grand Maître de l'Ordre du Vieux Chêne, le bonus de confiance passe à +2 et le bonus de sa bannière de chevalier est augmenté d'une catégorie.
 
-## Le maître de chasse[anchor|#maitredechasse]
+## Le maître de chasse<a id="maitredechasse"></a>
 Le Maître de chasse est le symbole vivant de l'esprit de prédateur des humains. Il s'agit d'un humain qui a été "possédé" par l'esprit du "Grand Chasseur" et qui depuis lors se consacre entièrement à la chasse et à la guerre, rejetant tout autre activité et toute amitié basée sur autre chose que les compagnons de chasse.{br}
 Pour les druides, cette possession est considérée comme "librement consentie" en raison du profil très particulier du personnage possédé, et ils le traitent comme un allié.{br}
 Le personnage du "maitre de chasse" est décrit comme un "monstre unique" dans le "legends & lore" d'AD&D1, ce profil devrait idéalement être réservé à un PNJ... mais j'en donne ici la description parce que tout personnage proche d'un druide de haut niveau a des chances de le rencontrer.{br}

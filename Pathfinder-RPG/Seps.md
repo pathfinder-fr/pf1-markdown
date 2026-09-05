@@ -10,7 +10,7 @@ LastModified: 2026-04-02 16:59
 {s:pucem|Créature magique|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 257*}
 - **12 800 PX**
-- [Créature magique](./type Créature magique.md) de taille TG, N
+- [[type créature magique|Créature magique]] de taille TG, N
 - **Init **+6 ; Sens vision dans le noir 18 m, vision nocturne, odorat ; Perception +17
 (((Défense)))
 - **CA **26, contact 10, pris au dépourvu 24 (Dex +2, naturelle +16, taille -2)
@@ -25,8 +25,8 @@ LastModified: 2026-04-02 16:59
 (((Statistiques)))
 - **For **30, **Dex **14, **Con **21, **Int **2, **Sag** 11, **Cha **11
 - **BBA **+14 ; **BMO **+26 ; **DMD **38 (croc-en-jambe impossible)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) (Discrétion), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Discrétion](./Discrétion.md) +11, [Perception](./Perception.md) +17
+- **Dons **[[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Talent]] (Discrétion), [[Talent]] (Perception), [[Volonté de fer]]
+- **Compétences **[[Discrétion]] +11, [[Perception]] +17
 - **Modificateurs raciaux** +4 en Perception, +4 en Discrétion
 - **Particularités **liquéfaction
 (((Écologie)))
@@ -45,9 +45,9 @@ LastModified: 2026-04-02 16:59
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Jeune seps](./Jeune seps.md) || 2
+| [[Jeune seps]] || 2
 |-
-| [Seps](./Seps.md) || 11
+| [[Seps]] || 11
 |}
 </div>
 *Ce serpent géant à la carapace épaisse est doté de grands crocs suintant d’un venin qui chuinte au contact du sol.*

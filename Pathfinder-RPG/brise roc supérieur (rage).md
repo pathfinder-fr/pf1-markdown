@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#BRISEROCSUPERIEUR
 ---
 
->>> [Pouvoirs de rage#BRISEROCSUPERIEUR](./Pouvoirs de rage.md#BRISEROCSUPERIEUR)
+>>> [[Pouvoirs de rage#BRISEROCSUPERIEUR]]

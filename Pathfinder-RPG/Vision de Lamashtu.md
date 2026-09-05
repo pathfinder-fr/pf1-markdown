@@ -11,34 +11,34 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:CCMI}**École** [Illusion](./Illusion.md) ([fantasme](./branche fantasme.md)) <nowiki>[</nowiki>[effet mental, Mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 7, [Inq](./Inquisiteur.md) 6, [Prê](./Prêtre.md) 7, [Sor](./Sorcière.md) 7
+{s:CCMI}**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|effet mental, Mal]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 7, [[Inquisiteur|Inq]] 6, [[Prêtre|Prê]] 7, [[Sorcière|Sor]] 7
 **Temps d’incantation** 10 minutes (voir texte)
-**Composantes** [V, G](./composantes.md)
+**Composantes** [[composantes|V, G]]
 **Portée** illimitée
 **Effet** une créature vivante
 **Durée** instantanée
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne exactement comme le sort *[cauchemar](./sort Cauchemar.md)*. En plus des effets du cauchemar, le personnage peut utiliser un second sort qui se déclenche à la fin de celui-ci. Ce deuxième sort doit être prêt et il faut le lancer immédiatement après la *vision de folie* (ce qui, en pratique, additionne la durée d’incantation des deux sorts). Ce deuxième sort « chevauche » le cauchemar et affecte la cible dès qu’elle se réveille de son sommeil agité. On peut transmettre n’importe quel sort avec le cauchemar tant qu’il ne dépasse pas le niveau 6, qu’il affecte une seule cible (la même que celle du cauchemar) et qu’il n’inflige pas de points de dégâts. On ne tient pas compte de la portée du deuxième sort quand il est lancé avec une *vision de folie* et même les attaques de contact sont considérées comme valables (il faut tout de même réussir l’attaque pour affecter la cible, même si cet acte se déroule dans le contexte du cauchemar de la victime). La cible a droit à un [jet de sauvegarde](./JDS.md) contre le deuxième sort si la description de celui-ci l’y autorise. Par exemple, un prêtre de la mère des monstres peut envoyer une *[malédiction](./sort Malédiction.md)* lors d’une *vision de folie* mais pas une *[barrière de lames](./Barrière de lames.md)* (qui affecte une zone), ni une *[destruction](./sort destruction.md)* (dont le niveau est trop haut) ni de *[blessure modérée](./Blessure modérée.md)* (qui inflige des dégâts).
+Ce sort fonctionne exactement comme le sort *[[sort Cauchemar|cauchemar]]*. En plus des effets du cauchemar, le personnage peut utiliser un second sort qui se déclenche à la fin de celui-ci. Ce deuxième sort doit être prêt et il faut le lancer immédiatement après la *vision de folie* (ce qui, en pratique, additionne la durée d’incantation des deux sorts). Ce deuxième sort « chevauche » le cauchemar et affecte la cible dès qu’elle se réveille de son sommeil agité. On peut transmettre n’importe quel sort avec le cauchemar tant qu’il ne dépasse pas le niveau 6, qu’il affecte une seule cible (la même que celle du cauchemar) et qu’il n’inflige pas de points de dégâts. On ne tient pas compte de la portée du deuxième sort quand il est lancé avec une *vision de folie* et même les attaques de contact sont considérées comme valables (il faut tout de même réussir l’attaque pour affecter la cible, même si cet acte se déroule dans le contexte du cauchemar de la victime). La cible a droit à un [[jds|jet de sauvegarde]] contre le deuxième sort si la description de celui-ci l’y autorise. Par exemple, un prêtre de la mère des monstres peut envoyer une *[[sort Malédiction|malédiction]]* lors d’une *vision de folie* mais pas une *[[barrière de lames]]* (qui affecte une zone), ni une *[[sort Destruction|destruction]]* (dont le niveau est trop haut) ni de *[[blessure modérée]]* (qui inflige des dégâts).
 
 
 
 (((
 ## Cauchemar
-{s:Desambi|Cauchemar est également le nom d'un [monstre](./Cauchemar.md).}
-**École** [Illusion](./Illusion.md) ([fantasme](./branche fantasme.md)) <nowiki>[</nowiki>[effet mental, Mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 5, [Bard](./Barde.md) 5, [Hyp](./Hypnotiseur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Méd](./Médium.md) 4, [Psy](./Psychiste.md) 5, [Spi](./Spirite.md) 5
+{s:Desambi|Cauchemar est également le nom d'un [[cauchemar|monstre]].}
+**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|effet mental, Mal]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 5, [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Psychiste|Psy]] 5, [[Spirite|Spi]] 5
 **Temps d'incantation** 10 minutes
-**Composantes** [V, G](./composantes.md)
-**Portée** [illimitée](./illimitée.md)
+**Composantes** [[composantes|V, G]]
+**Portée** [[illimitée]]
 **Cible** 1 créature vivante
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Durée** [[instantanée]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 ---
 Le lanceur de sort peut lancer à la créature de son choix, qu’il nomme ou désigne, une terrifiante vision.
 
-Le *cauchemar* empêche la cible d’atteindre la phase de sommeil réparateur et lui fait perdre 1d10 [points de vie](./points de vie.md). Quand la victime se réveille, elle n’est pas reposée et se retrouve dans l’incapacité de renouveler ses sorts profanes pendant vingt-quatre heures.
+Le *cauchemar* empêche la cible d’atteindre la phase de sommeil réparateur et lui fait perdre 1d10 [[points de vie]]. Quand la victime se réveille, elle n’est pas reposée et se retrouve dans l’incapacité de renouveler ses sorts profanes pendant vingt-quatre heures.
 
-Le [degré de difficulté](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de ce que le lanceur de sorts sait de sa victime et du lien physique dont il dispose (le cas échéant).
+Le [[DD|degré de difficulté]] du [[jet de sauvegarde]] dépend de ce que le lanceur de sorts sait de sa victime et du lien physique dont il dispose (le cas échéant).
 
 <table width="100%"><tr><td width="49%">
 {| CLASS="tablo centre autoalt"
@@ -71,19 +71,19 @@ jet de Volonté
 |}
 </td></tr></table>
 
-Si *[rejet du Mal](./Rejet du Mal.md)* est lancé sur la cible alors que le personnage lance *cauchemar*, celui-ci est automatiquement dissipé et le personnage est [étourdi](./Étourdi.md) pendant dix minutes par [niveau de lanceur de sorts](./NLS.md) de celui qui a incanté *[rejet du Mal](./Rejet du Mal.md)*.
+Si *[[rejet du Mal]]* est lancé sur la cible alors que le personnage lance *cauchemar*, celui-ci est automatiquement dissipé et le personnage est [[étourdi]] pendant dix minutes par [[NLS|niveau de lanceur de sorts]] de celui qui a incanté *[[rejet du Mal]]*.
 
-Si la cible du *cauchemar* est éveillée au moment de l’incantation, le personnage peut choisir de tout stopper (ce qui met un terme prématuré au sort) ou d’entrer en transe jusqu’à ce que le sujet s’assoupisse, après quoi le lanceur de sorts redevient alerte et peut achever l’incantation. Si le personnage est dérangé durant la transe, il doit effectuer un test de [Concentration](./concentration.md), comme s’il était en plein milieu d’une incantation, en cas d’échec le sort est perdu.
+Si la cible du *cauchemar* est éveillée au moment de l’incantation, le personnage peut choisir de tout stopper (ce qui met un terme prématuré au sort) ou d’entrer en transe jusqu’à ce que le sujet s’assoupisse, après quoi le lanceur de sorts redevient alerte et peut achever l’incantation. Si le personnage est dérangé durant la transe, il doit effectuer un test de [[Concentration]], comme s’il était en plein milieu d’une incantation, en cas d’échec le sort est perdu.
 
 Si le personnage choisit d’entrer en transe, il n’a plus conscience de ce qui l’entoure.
 
-Il se retrouve [sans défense](./Sans défense.md), tant physiquement que mentalement (il rate automatiquement ses jets de sauvegarde de [Réflexes](./Réflexes.md) et de [Volonté](./Volonté.md), par exemple).
+Il se retrouve [[sans défense]], tant physiquement que mentalement (il rate automatiquement ses jets de sauvegarde de [[Réflexes]] et de [[Volonté]], par exemple).
 
-Les créatures qui ne dorment pas (comme les [elfes](./Elfe.md), mais pas les [demi-elfes](./Demi-elfe.md)) ou ne rêvent jamais sont insensibles à *cauchemar*.
+Les créatures qui ne dorment pas (comme les [[elfe|elfes]], mais pas les [[demi-elfe|demi-elfes]]) ou ne rêvent jamais sont insensibles à *cauchemar*.
 
 ### Version mythique
 {s:CMy}
 Les dégâts infligés s’élèvent à 4d6 points et la cible est également secouée pendant 24 heures.
 
-**[Amplifié](./Amplifié.md) (6ème).** Le personnage peut incorporer un sort de type mental dans un [cauchemar](./Cauchemar.md) mythique. Le niveau maximum du sort intégré est égal à la moitié du [grade](./Grade.md) du personnage et le personnage doit dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour chaque niveau du sort intégré, en plus de celle nécessaire pour lancer [cauchemar](./Cauchemar.md) mythique. Le personnage choisit si le sort intégré affecte la créature immédiatement ou seulement au réveil. Le sort intégré affecte une créature seulement, même s’il affecte normalement plusieurs créatures ou une zone.
+**[[Amplifié]] (6ème).** Le personnage peut incorporer un sort de type mental dans un [[cauchemar]] mythique. Le niveau maximum du sort intégré est égal à la moitié du [[grade]] du personnage et le personnage doit dépenser une utilisation de [[pouvoir mythique]] pour chaque niveau du sort intégré, en plus de celle nécessaire pour lancer [[cauchemar]] mythique. Le personnage choisit si le sort intégré affecte la créature immédiatement ou seulement au réveil. Le sort intégré affecte une créature seulement, même s’il affecte normalement plusieurs créatures ou une zone.
 )))

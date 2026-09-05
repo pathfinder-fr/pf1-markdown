@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Sournoise
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Sournoise](./Descriptions individuelles des propriétés spéciales des armes.md#Sournoise)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Sournoise]]

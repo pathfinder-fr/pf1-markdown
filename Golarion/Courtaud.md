@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Courtaud est une petite ville située à l'ouest du comté de [Lozeri](./Lozeri.md) en [Ustalav](./Ustalav.md), à la lisière de la forêt de [Bois-frisson](./Bois-frisson.md).
+Courtaud est une petite ville située à l'ouest du comté de [[Lozeri]] en [[Ustalav]], à la lisière de la forêt de [[Bois-frisson]].
 
-Une rumeur circule dans ses rues indiquant qu'une bête nommée le Diable Gris s'est etablie dans la forêt de [Bois-frisson](./Bois-frisson.md) et qu'elle s'attaque à la population. Mais le conseil municipal de Courtaud ne semble pas y prêter attention.
+Une rumeur circule dans ses rues indiquant qu'une bête nommée le Diable Gris s'est etablie dans la forêt de [[Bois-frisson]] et qu'elle s'attaque à la population. Mais le conseil municipal de Courtaud ne semble pas y prêter attention.

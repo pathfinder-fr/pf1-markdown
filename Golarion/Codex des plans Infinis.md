@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Codex des plans infinis.md).***
+***Voir les [[Pathfinder-RPG.Codex des plans Infinis|statistiques de cet artefact]].***
 
 D’épaisses plaques d’obsidienne lient les très fines pages de plomb de ce livre, formant un énorme volume grêlé de marques et de cicatrices qui suggèrent qu’il est fantastiquement ancien.
 

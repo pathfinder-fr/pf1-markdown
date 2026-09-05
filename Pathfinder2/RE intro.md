@@ -104,12 +104,12 @@ Par exemple :
 "mois" : 12,
 "année" : 4694
 },
-"compagnons" : ["Kyra", "Mérisiel", "Ezren"]
+"compagnons" : [["Kyra", "Mérisiel", "Ezren"]]
 }</pre></nowiki>
 
 Tout comme les paires clefs/valeurs, les éléments d'une liste sont séparés par des virgules.
 
-Dans l'exemple de la torche, on peut voir le code <nowiki><code>"predicate": ["lit-torch"]</code></nowiki>. Même s'il n'y a qu'un seul élément cité dans la liste, il s'agit tout de même d'une liste. Et la rule element ne fonctionnerait pas si on supprimait les crochets, parce que le système s'attend à trouver à côté de la clef "predicate" une liste de conditions nécessaires à l'activation de la lumière. Même quand il n'y a qu'une seule condition, les crochets sont nécessaires.
+Dans l'exemple de la torche, on peut voir le code <nowiki><code>"predicate": [["lit-torch"]]</code></nowiki>. Même s'il n'y a qu'un seul élément cité dans la liste, il s'agit tout de même d'une liste. Et la rule element ne fonctionnerait pas si on supprimait les crochets, parce que le système s'attend à trouver à côté de la clef "predicate" une liste de conditions nécessaires à l'activation de la lumière. Même quand il n'y a qu'une seule condition, les crochets sont nécessaires.
 
 #### Différents types de valeurs
 
@@ -118,7 +118,7 @@ On a vu plus haut que le principe fondamental du format JSON était d'associer u
 - **Texte** : à placer entre guillemets (ou apostrophes) ; ex : <code>"nom": "Valéros"</code>
 - **Nombre** : à écrire directement ; ex : <code>"shadows": 0.2</code>
 - **Booléen** : true (vrai) ou false (faux) ; ex : <code>"critical": true</code>
-- **Liste** : à écrire entre crochets ; ex : <nowiki><code>"compagnons" : ["Kyra", "Mérisiel", "Ezren"]</code></nowiki>
+- **Liste** : à écrire entre crochets ; ex : <nowiki><code>"compagnons" : [["Kyra", "Mérisiel", "Ezren"]]</code></nowiki>
 - **Objet** : à écrire entre accolades ; ex : voir la date de naissance plus haut
 
 Le seul type qui n'a pas vraiment été abordé plus haut est celui des valeurs booléennes. Derrière ce mot peut-être un peu étrange se cache un concept assez simple : il n'existe que deux valeurs booléennes, qui sont vrai et faux. Le code <code>"critical": true</code> permet par exemple de préciser qu'une rule element ajoutant 1d6 aux dégâts ne s'applique que dans le cas d'une attaque critique.

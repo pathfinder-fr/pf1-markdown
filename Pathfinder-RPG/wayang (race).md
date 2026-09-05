@@ -4,23 +4,23 @@ Title: Les wayangs
 LastModified: 2025-06-27 16:13
 ---
 
-{s:menuracesextraordinaires}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Wayang.md) d'un wayang standard.***
+{s:menuracesextraordinaires}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [[Wayang|fiche de créature]] d'un wayang standard.***
 
 Les wayangs sont une race de petits humanoïdes surnaturels dont la lignée appartient au plan de l’Ombre. Ils sont extrêmement maigres, sont aussi petits que des pixies et ont la peau de la couleur des ténèbres profondes. Profondément spirituels, ils suivent une philosophie nommée « La Dissolution », qui enseigne qu’au moment de leur trépas, ils pourront peut-être à nouveau fusionner avec l’ombre. Ils n’hésitent pas à exprimer leurs croyances à travers des scarifications et une dépigmentation rituelles, marquant leur corps de points blancs en relief qui forment des spirales ornées et des motifs géométriques. Timides et insaisissables, ils vivent dans de petites tribus interdépendantes. Les wayangs s’associent rarement aux étrangers.
 
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Dextérité](./Dextérité.md), +2 [Intelligence](./Intelligence.md), -2 [Sagesse](./Sagesse.md).** Les wayangs sont agiles et malins, mais leur perception du monde est obscurcie par les ombres.
-- **Wayang.** Les wayangs sont des [humanoïdes](./type Humanoïde.md) de sous-type [wayang](./sous-type wayang.md).
-- **Taille P.** Les wayangs sont des créatures de [taille P](./taille P.md) qui reçoivent un bonus de taille de +1 à la [CA](./CA.md), un bonus de taille de +1 à leurs [jets d’attaque](./jet dattaque.md), un malus de -1 au [BMO](./BMO.md) et au [DMD](./DMD.md), et un bonus de taille de +4 à leurs tests de [Discrétion](./Discrétion.md).
-- **Vitesse lente.** Les wayangs ont une [vitesse de base](./VD.md) de 6 mètres.
-- **Vision dans le noir.** Les wayangs [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
-- **Ombre et lumière (Sur).** Une fois par jour, par une [action immédiate](./Action immédiate.md), le wayang peut traiter les effets d’énergie positive et d’énergie négative comme s’il était une créature morte-vivante, recevant des dégâts de l’énergie positive et soignant ses dégâts grâce à l’énergie négative. Cette capacité dure 1 minute une fois activée.
-- **Traqueur.** Les wayangs gagnent un bonus racial de +2 à leurs tests de [Discrétion](./Discrétion.md) et de [Perception](./Perception.md).
-- **Magie des ombres.** Les wayangs rajoutent +1 au [DD](./DD.md) de tous leurs [jets de sauvegarde](./JDS.md) contre les sorts de la branche de l’[ombre](./branche ombre.md) qu’ils lancent. Les wayangs ayant une valeur de [Charisme](./Charisme.md) de 11 ou plus gagnent également ces [pouvoirs magiques](./Pouvoirs magiques (capacité).md) : 1/jour – *[passage sans trace](./passage sans trace.md)*, *[son imaginaire](./Son imaginaire.md)* et *[ventriloquie](./Ventriloquie.md)*. Le [niveau de lanceur de sorts](./NLS.md) pour ces effets est égal au niveau de personnage du wayang. Le DD de ces sorts est égal à 10 + le niveau du sort + le modificateur de Charisme du wayang.
-- **Résistance à l’ombre.** Les wayangs reçoivent un bonus racial de +2 à leurs [jets de sauvegarde](./JDS.md) contre les sorts de la branche de l’[ombre](./branche ombre.md).
-- **Langues.** Les wayangs commencent le jeu en parlant le commun et le wayang. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi celles-ci : toutes les langues humaines, abyssal, aklo, draconique, gobelin, infernal, nagaji, samsaran et tengu.
+- **+2 [[Dextérité]], +2 [[Intelligence]], -2 [[Sagesse]].** Les wayangs sont agiles et malins, mais leur perception du monde est obscurcie par les ombres.
+- **Wayang.** Les wayangs sont des [[type Humanoïde|humanoïdes]] de sous-type [[sous-type wayang|wayang]].
+- **Taille P.** Les wayangs sont des créatures de [[taille P]] qui reçoivent un bonus de taille de +1 à la [[CA]], un bonus de taille de +1 à leurs [[jet dattaque|jets d’attaque]], un malus de -1 au [[BMO]] et au [[DMD]], et un bonus de taille de +4 à leurs tests de [[Discrétion]].
+- **Vitesse lente.** Les wayangs ont une [[VD|vitesse de base]] de 6 mètres.
+- **Vision dans le noir.** Les wayangs [[Vision dans le noir (capacité)|voient dans le noir]] à 18 mètres.
+- **Ombre et lumière (Sur).** Une fois par jour, par une [[action immédiate]], le wayang peut traiter les effets d’énergie positive et d’énergie négative comme s’il était une créature morte-vivante, recevant des dégâts de l’énergie positive et soignant ses dégâts grâce à l’énergie négative. Cette capacité dure 1 minute une fois activée.
+- **Traqueur.** Les wayangs gagnent un bonus racial de +2 à leurs tests de [[Discrétion]] et de [[Perception]].
+- **Magie des ombres.** Les wayangs rajoutent +1 au [[DD]] de tous leurs [[jds|jets de sauvegarde]] contre les sorts de la branche de l’[[branche ombre|ombre]] qu’ils lancent. Les wayangs ayant une valeur de [[Charisme]] de 11 ou plus gagnent également ces [[Pouvoirs magiques (capacité)|pouvoirs magiques]] : 1/jour – *[[passage sans trace]]*, *[[son imaginaire]]* et *[[ventriloquie]]*. Le [[NLS|niveau de lanceur de sorts]] pour ces effets est égal au niveau de personnage du wayang. Le DD de ces sorts est égal à 10 + le niveau du sort + le modificateur de Charisme du wayang.
+- **Résistance à l’ombre.** Les wayangs reçoivent un bonus racial de +2 à leurs [[jds|jets de sauvegarde]] contre les sorts de la branche de l’[[branche ombre|ombre]].
+- **Langues.** Les wayangs commencent le jeu en parlant le commun et le wayang. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues parmi celles-ci : toutes les langues humaines, abyssal, aklo, draconique, gobelin, infernal, nagaji, samsaran et tengu.
 
 </div>
 
@@ -29,14 +29,14 @@ Les wayangs sont une race de petits humanoïdes surnaturels dont la lignée appa
 {s:MR}Il est possible de choisir le trait racial suivant à la place des traits raciaux existants des wayangs. Consultez votre MJ avant de prendre cette nouvelle option.
 
 <u>*Remplace « magie des ombres » :*</u>
-- **Enfant de la Dissolution.**. Une fois par jour, le wayang peut changer d’apparence pour ressembler à une zone d’ombre mesurant un peu plus de 1,2 mètre. Il garde toujours sa forme physique et n’est pas intangible : seule son apparence change. Ce trait fonctionne comme *[invisibilité](./Invisibilité.md)*, à la seule différence qu’il ne dure qu’un round par niveau (maximum 5 rounds). Il s’agit d’une [capacité surnaturelle](./Capacités spéciales.md). Ce trait racial remplace magie des ombres.
+- **Enfant de la Dissolution.**. Une fois par jour, le wayang peut changer d’apparence pour ressembler à une zone d’ombre mesurant un peu plus de 1,2 mètre. Il garde toujours sa forme physique et n’est pas intangible : seule son apparence change. Ce trait fonctionne comme *[[invisibilité]]*, à la seule différence qu’il ne dure qu’un round par niveau (maximum 5 rounds). Il s’agit d’une [[Capacités spéciales|capacité surnaturelle]]. Ce trait racial remplace magie des ombres.
 
 <u>*Remplace « traqueur » :*</u>
-- {s:cs}{s:ISR}**Dans les ombres.** De nombreux wayangs jouent différents rôles inhabituels dans la société wayang. Ils bénéficient d'un bonus racial de +2 aux tests de deux compétences de leur choix parmi la liste suivante : [Artisanat](./Artisanat.md), [Bluff](./Bluff.md), [Escamotage](./Escamotage.md), [Estimation](./Estimation.md) et [Profession](./Profession.md). Ce trait racial remplace traqueur.
+- {s:cs}{s:ISR}**Dans les ombres.** De nombreux wayangs jouent différents rôles inhabituels dans la société wayang. Ils bénéficient d'un bonus racial de +2 aux tests de deux compétences de leur choix parmi la liste suivante : [[Artisanat]], [[Bluff]], [[Escamotage]], [[Estimation]] et [[Profession]]. Ce trait racial remplace traqueur.
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -45,15 +45,15 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-{s:MR}**[Barde](./Barde.md).** Le barde rajoute un sort connu de la liste des sorts d’[illusion](./Illusion.md) du [magicien](./Liste des sorts densorceleursmagiciens.md). Ce sort doit être inférieur d’au moins un niveau au plus haut niveau de sort que le barde peut lancer. Le sort est considéré comme étant d’un niveau supérieur, à moins qu’il n’appartienne également à la liste des sorts de barde.
+{s:MR}**[[Barde]].** Le barde rajoute un sort connu de la liste des sorts d’[[illusion]] du [[Liste des sorts densorceleursmagiciens|magicien]]. Ce sort doit être inférieur d’au moins un niveau au plus haut niveau de sort que le barde peut lancer. Le sort est considéré comme étant d’un niveau supérieur, à moins qu’il n’appartienne également à la liste des sorts de barde.
 
-{s:MR}**[Conjurateur](./Conjurateur.md).** Le conjurateur rajoute +1 [rang de compétence](./Compétences.md#ACQUERIR) à son [eidolon](./Conjurateur.md#EIDOLON).
+{s:MR}**[[Conjurateur]].** Le conjurateur rajoute +1 [[Compétences#ACQUERIR|rang de compétence]] à son [[Conjurateur#EIDOLON|eidolon]].
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}**[Ensorceleur](./Ensorceleur.md).** L'ensorceleur rajoute +1/2 points de dégâts à tous les sorts d’[illusion](./Illusion.md) de la branche de l’[ombre](./branche ombre.md) qu'il lance.
+{s:MR}**[[Ensorceleur]].** L'ensorceleur rajoute +1/2 points de dégâts à tous les sorts d’[[illusion]] de la branche de l’[[branche ombre|ombre]] qu'il lance.
 
-{s:MR}**[Oracle](./Oracle.md).** L'oracle rajoute un sort connu de la liste des sorts d’[illusion](./Illusion.md) du [magicien](./Liste des sorts densorceleursmagiciens.md). Ce sort doit être inférieur d’au moins un niveau au plus haut niveau de sort que l’oracle peut lancer. Le sort est considéré comme étant d’un niveau supérieur, à moins qu’il n’appartienne également à la liste des sorts d'oracle.
+{s:MR}**[[Oracle]].** L'oracle rajoute un sort connu de la liste des sorts d’[[illusion]] du [[Liste des sorts densorceleursmagiciens|magicien]]. Ce sort doit être inférieur d’au moins un niveau au plus haut niveau de sort que l’oracle peut lancer. Le sort est considéré comme étant d’un niveau supérieur, à moins qu’il n’appartienne également à la liste des sorts d'oracle.
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -69,26 +69,26 @@ Voici les options accessibles aux wayangs, d’autres races adaptées peuvent s�
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Touche d'ombre](./Touche dombre.md) || <sup>MR</sup> || [wayang](./wayang (race).md) || Dans l'ombre, le wayang peut utiliser sa vitesse de base en utilisant Discrétion sans subir de malus
+| [[Touche dombre|Touche d'ombre]] || <sup>MR</sup> || [[wayang (race)|wayang]] || Dans l'ombre, le wayang peut utiliser sa vitesse de base en utilisant Discrétion sans subir de malus
 
 |- CLASS="premier"
-| [Voile de mystère](./Voile de mystère.md) || <sup>*ISR*</sup> || 1 rangs en [Bluff](./Bluff.md) ; 1 rang en [Déguisement](./Déguisement.md) ; [kitsune](./kitsune (race).md), [samsaran](./samsaran (race).md), [tengu](./Tengu (race).md) ou [wayang](./wayang (race).md) || Contre les autres races humanoïdes, +2 aux jets de Volonté contre les effets mentaux et +3 aux tests de Bluff
+| [[Voile de mystère]] || <sup>*ISR*</sup> || 1 rangs en [[Bluff]] ; 1 rang en [[Déguisement]] ; [[Kitsune (race)|kitsune]], [[Samsaran (race)|samsaran]], [[Tengu (race)|tengu]] ou [[Wayang (race)|wayang]] || Contre les autres races humanoïdes, +2 aux jets de Volonté contre les effets mentaux et +3 aux tests de Bluff
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Marionnettiste des ombres (barde)](./Marionnettiste des ombres (barde).md) *(MR)*
+- [[Marionnettiste des ombres (barde)]] *(MR)*
 
 #### Équipement
-- [Ensemble de pochoirs d’ombre](./Ensemble de pochoirs dombre (objet).md) *(MR)*
+- [[Ensemble de pochoirs dombre (objet)|Ensemble de pochoirs d’ombre]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Sacoche de nuages d’ombre](./Sacoche de nuages dombre.md) *(MR)*
+- [[Sacoche de nuages dombre|Sacoche de nuages d’ombre]] *(MR)*
 
 #### Sorts
-- [Ancre d'ombre](./Ancre dombre.md) *(MR)*
+- [[Ancre dombre|Ancre d'ombre]] *(MR)*
 
 </td></tr></table>

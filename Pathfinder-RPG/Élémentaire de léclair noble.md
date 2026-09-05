@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Élémentaire de léclair#_4
 ---
 
->>> [Élémentaire de léclair#_4](./Élémentaire de léclair.md#_4)
+>>> [[Élémentaire de léclair#_4]]

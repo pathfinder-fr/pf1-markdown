@@ -12,12 +12,12 @@ Categories:
 {s:Menuarchétypepaladin}{s:mca}*Un guide saint pense que sa vocation sacrée consiste à débarrasser des bandits les routes qui relient les villes et à escorter les voyageurs pour les protéger jusqu’à destination. Il doit faire respecter la loi dans les contrées sauvages et aider les créatures incapables de se défendre contre les nombreux dangers de la région.*
 
 #### Compétences de classe
-[Connaissances](./Connaissances.md) (géographie) et [Survie](./Survie.md) sont des compétences de classe pour le guide saint.
+[[Connaissances]] (géographie) et [[Survie]] sont des compétences de classe pour le guide saint.
 
 #### Environnement de prédilection (Ext)
-Au niveau 3, un guide saint choisit un environnement de prédilection parmi ceux de la [table des environnements de prédilection du rôdeur](./Rôdeur.md#TABLEENVIRONNEMENTDEPREDILECTION). Cette aptitude fonctionne par ailleurs comme celle de rôdeur du même nom. Elle remplace la grâce obtenue au niveau 3.
+Au niveau 3, un guide saint choisit un environnement de prédilection parmi ceux de la [[rôdeur#TABLEENVIRONNEMENTDEPREDILECTION|table des environnements de prédilection du rôdeur]]. Cette aptitude fonctionne par ailleurs comme celle de rôdeur du même nom. Elle remplace la grâce obtenue au niveau 3.
 
 À chaque fois qu’un guide saint peut choisir une autre grâce, il peut, à la place choisir un autre environnement de prédilection et augmenter ses bonus pour ceux qu’ils possèdent déjà, exactement comme dans le cas du rôdeur.
 
 #### Don de travail en équipe (Ext)
-Au niveau 6, un guide saint gagne un don de travail en équipe en don supplémentaire. Il doit satisfaire les conditions requises par ce don. Par une [action simple](./Action simple.md), il peut dépenser une utilisation de l’aptitude [châtiment du mal](./Paladin.md#CHATIMENT DU MAL) pour conférer ce don à ses alliés situés à 9 mètres ou moins qui peuvent le voir et l’entendre. Les alliés continuent à utiliser ce don supplémentaire pendant 3 rounds plus 1 round par tranche de 2 niveaux possédés par le guide saint. Les alliés n’ont pas à satisfaire les conditions requises par ce don supplémentaire. Les créatures Mauvaises ne bénéficient pas des avantages de ce don de travail en équipe, même si le paladin les considère comme des alliées. Cette aptitude remplace la grâce obtenue au niveau 6.
+Au niveau 6, un guide saint gagne un don de travail en équipe en don supplémentaire. Il doit satisfaire les conditions requises par ce don. Par une [[action simple]], il peut dépenser une utilisation de l’aptitude [[paladin#CHATIMENT DU MAL|châtiment du mal]] pour conférer ce don à ses alliés situés à 9 mètres ou moins qui peuvent le voir et l’entendre. Les alliés continuent à utiliser ce don supplémentaire pendant 3 rounds plus 1 round par tranche de 2 niveaux possédés par le guide saint. Les alliés n’ont pas à satisfaire les conditions requises par ce don supplémentaire. Les créatures Mauvaises ne bénéficient pas des avantages de ce don de travail en équipe, même si le paladin les considère comme des alliées. Cette aptitude remplace la grâce obtenue au niveau 6.

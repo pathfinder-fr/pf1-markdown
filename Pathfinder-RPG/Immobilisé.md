@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Immobilisé
 ---
 
->>> [États préjudiciables#Immobilisé](./États préjudiciables.md#Immobilisé)
+>>> [[États préjudiciables#Immobilisé]]

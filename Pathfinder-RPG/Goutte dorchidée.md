@@ -8,13 +8,13 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (une goutte extrêmement diluée de nectar d’orchidée solaire d’une valeur de 500 po)
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (une goutte extrêmement diluée de nectar d’orchidée solaire d’une valeur de 500 po)
 **Portée** personnelle
 **Cible** le personnage
 **Durée** 1 heure/niveau
 
-Les alchimistes ont tenté pendant des siècles de reproduire l’incroyable exploit de l’inventeur de l’[élixir d’orchidée solaire](./Élixir dorchidée solaire.md). Même s’ils n’ont pas encore réussi à découvrir la formule exacte de l’élixir, leurs efforts n’ont pas été complètement vains. La formule pour créer une *goutte d’orchidée* est l’une des découvertes collatérales de leurs expériences. Cet extrait, distillé à partir d’une goutte extrêmement diluée du nectar d’une fleur d’orchidée solaire, peut transformer un mutagène d’alchimiste en un puissant tonifiant de soins.
+Les alchimistes ont tenté pendant des siècles de reproduire l’incroyable exploit de l’inventeur de l’[[Élixir dorchidée solaire|élixir d’orchidée solaire]]. Même s’ils n’ont pas encore réussi à découvrir la formule exacte de l’élixir, leurs efforts n’ont pas été complètement vains. La formule pour créer une *goutte d’orchidée* est l’une des découvertes collatérales de leurs expériences. Cet extrait, distillé à partir d’une goutte extrêmement diluée du nectar d’une fleur d’orchidée solaire, peut transformer un mutagène d’alchimiste en un puissant tonifiant de soins.
 
-Tant qu’il bénéficie des effets d’une *goutte d’orchidée*, le personnage récupère 2d10 points de vie s’il boit une dose de son mutagène. Pendant toute la durée du sort, il gagne un bonus alchimique de +2 aux [jets de sauvegarde](./JDS.md).
+Tant qu’il bénéficie des effets d’une *goutte d’orchidée*, le personnage récupère 2d10 points de vie s’il boit une dose de son mutagène. Pendant toute la durée du sort, il gagne un bonus alchimique de +2 aux [[jds|jets de sauvegarde]].

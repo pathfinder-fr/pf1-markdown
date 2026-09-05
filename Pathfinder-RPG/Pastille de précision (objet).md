@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:UI}**Prix** 330 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Les effets de cette pilule verte grisâtre dure pendant 5 minutes après sa consommation. Pendant cette durée, lorsque le personnage effectue une [attaque à outrance](./attaque à outrance.md), il peut accepter une [brûlure alchimique](./Outils alchimiques.md#BRULURE) afin d'appliquer son [bonus de base à l'attaque](./BBA.md) maximum à la place de son bonus d'attaque normal sur sa seconde attaque. Une pastille de précision n'accorde aucun avantage au delà de la deuxième attaque, et n'offre pas non plus de seconde attaque si le personnage n'en a pas déjà.
+Les effets de cette pilule verte grisâtre dure pendant 5 minutes après sa consommation. Pendant cette durée, lorsque le personnage effectue une [[attaque à outrance]], il peut accepter une [[Outils alchimiques#BRULURE|brûlure alchimique]] afin d'appliquer son [[BBA|bonus de base à l'attaque]] maximum à la place de son bonus d'attaque normal sur sa seconde attaque. Une pastille de précision n'accorde aucun avantage au delà de la deuxième attaque, et n'offre pas non plus de seconde attaque si le personnage n'en a pas déjà.

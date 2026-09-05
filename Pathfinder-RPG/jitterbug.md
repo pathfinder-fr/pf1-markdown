@@ -13,23 +13,23 @@ Categories:
 ---
 
 {s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}
-**École** [Illusion](./Illusion.md) ([chimère](./Présentation des sorts.md#CHIMERE)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki>;
-**Niveau** [Bard](./Barde.md) 1, [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Psy](./Psychiste.md) 2  
+**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki>;
+**Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,5 m + 1,5 m/2 [niveau](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveau](./niveau.md))  
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau]]) (5 {s:c} + 1 {s:c}/2 [[niveau]])  
 
 **Cible** une créature  
 
-**Durée** 1 round/[niveau](./niveau.md)  
+**Durée** 1 round/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-La cible du sort a l’impression d’être couverte d’insectes grouillants qui la piquent. Elle est incapable de rester tranquille et se trémousse sans cesse. Elle subit un malus de -4 à tous les tests de [Dextérité](./Dextérité.md) et tous les tests de compétence basés dessus. Elle est incapable de retarder une action, de préparer une action ou de se mettre en [défense totale](./défense totale.md).
+La cible du sort a l’impression d’être couverte d’insectes grouillants qui la piquent. Elle est incapable de rester tranquille et se trémousse sans cesse. Elle subit un malus de -4 à tous les tests de [[Dextérité]] et tous les tests de compétence basés dessus. Elle est incapable de retarder une action, de préparer une action ou de se mettre en [[défense totale]].
 
 ### Mythique
 {s:CMy}
-Une fois le sort lancé, à partir du 2ème round, la cible affectée doit réussir un jet de [Vigueur](./Vigueur.md) lors de son tour pour ne pas être nauséeuse pendant un round, comme si elle était distraite par une véritable nuée.
+Une fois le sort lancé, à partir du 2ème round, la cible affectée doit réussir un jet de [[Vigueur]] lors de son tour pour ne pas être nauséeuse pendant un round, comme si elle était distraite par une véritable nuée.

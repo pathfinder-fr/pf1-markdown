@@ -6,8 +6,8 @@ LastModified: 2013-08-26 13:18
 
 Dans Pathfinder-JdR, Croc-en-jambe peut désigner plusieurs choses :
 
-- [Une manœuvre de combat](./Manœuvres offensives.md#CROCENJAMBE)
+- [[Manœuvres offensives#CROCENJAMBE|Une manœuvre de combat]]
 
-- [Une capacité de monstres](./Croc-en-jambe (capacité).md)
+- [[Croc-en-jambe (capacité)|Une capacité de monstres]]
 
-Voir aussi : le Don [Science du croc-en-jambe](./Science du croc-en-jambe.md)
+Voir aussi : le Don [[Science du croc-en-jambe]]

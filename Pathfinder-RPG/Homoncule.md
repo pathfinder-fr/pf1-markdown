@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Créature artificielle|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire page 184*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille TP, même alignement que le créateur}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille TP, même alignement que le créateur}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 11 (2d10)}
 {s:BDTexte|**Réf** +4, **Vig** +0, **Vol** +1}
-{s:BDTexte|**Capacités défensives** [traits des créatures artificielles](./Traits des créatures artificielles.md) }
+{s:BDTexte|**Capacités défensives** [[traits des créatures artificielles]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), vol 15 m (10 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** 1 morsure, +3 (1d4-1 et poison)}
@@ -28,8 +28,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 15, **Con** -, **Int** 10, **Sag** 12, **Cha** 7}
 {s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 11}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +12, [Perception](./Perception.md) +3, [Vol](./Vol.md) +10}
+{s:BDTexte|**Dons** [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +12, [[Perception]] +3, [[Vol]] +10}
 {s:BDTexte|**Langues** commun (ne sait pas parler) ; lien télépathique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
@@ -37,7 +37,7 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Lien télépathique (Sur).** Les homoncules ne savent pas parler mais, lors de leur création, un lien s'établit entre eux et leur créateur. Un homoncule sait tout ce que son maître sait. Il peut rapporter tout ce qu'il voit et entend à son maître tant que celui-ci se trouve à moins de 450 m (300 {s:c}).}
-{s:BDTexte|**Poison (Ext).** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ; *fréquence* 1/minute pendant 60 minutes ; *effet* sommeil pendant 1 minute ; *guérison* 1 réussite. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md) et inclut d'un bonus racial de +2.}
+{s:BDTexte|**Poison (Ext).** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 13 ; *fréquence* 1/minute pendant 60 minutes ; *effet* sommeil pendant 1 minute ; *guérison* 1 réussite. Le [[DD]] dépend de la [[Constitution]] et inclut d'un bonus racial de +2.}
 </div>
 </td><td><div>*Cette créature vaguement humanoïde fait la taille d’un chat mais ressemble à un diablotin ailé doté de grandes dents.*
 
@@ -108,5 +108,5 @@ premier (celui qui a donné son sang).
 **NLS** 7<sup>e</sup> ; **Prix** 2 050 po
 
 
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[image miroir](./Image miroir.md)*, *[œil du mage](./Œil du mage.md)*, *[réparation](./Réparation.md)* ; **Compétence** [Artisanat](./Artisanat.md) (cuir) ou [Artisanat](./Artisanat.md) (sculpture) [DD](./DD.md) 12 ; **Coût** 1 050 po.
+**Conditions** [[Création de créatures artificielles]], *[[image miroir]]*, *[[œil du mage]]*, *[[réparation]]* ; **Compétence** [[Artisanat]] (cuir) ou [[Artisanat]] (sculpture) [[DD]] 12 ; **Coût** 1 050 po.
 </div></td></tr></table>

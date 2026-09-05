@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire 5 p.181*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 12 (Dex +3, naturelle +3, taille -1)}
 {s:BDTexte|**pv** 19 (3d8+6)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 16, **Con** 14, **Int** 2, **Sag** 11, **Cha** 9}
 {s:BDTexte|**BBA** +2 ; **BMO** +6 ; **DMD** 19}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) (Perception)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +9}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]], [[Talent]] (Perception)}
+{s:BDTexte|**Compétences** [[Perception]] +9}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines chaudes}
 {s:BDTexte|**Organisation** solitaire, paire, groupe (3-5) ou colonie (6-100)}
@@ -39,29 +39,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Archelon](./Archelon.md) || 5
+| [[Archelon]] || 5
 |-
-| [Arsinoithérium](./Arsinoithérium.md) || 7
+| [[Arsinoithérium]] || 7
 |-
-| [Baluchithérium](./Baluchithérium.md) || 8
+| [[Baluchithérium]] || 8
 |-
-| [Basilosaure](./Basilosaure.md) || 12
+| [[Basilosaure]] || 12
 |-
-| [Chalicothérium](./Chalicothérium.md) || 6
+| [[Chalicothérium]] || 6
 |-
-| [Glyptodonte](./Glyptodonte.md) || 6
+| [[Glyptodonte]] || 6
 |-
-| [Kaprosuchus](./Kaprosuchus.md) || 5
+| [[Kaprosuchus]] || 5
 |-
-| [Mégalania](./Mégalania.md) || 7
+| [[Mégalania]] || 7
 |-
-| [Mégalocéros](./Mégalocéros.md) || 4
+| [[Mégalocéros]] || 4
 |-
-| [Mégathérium](./Mégathérium.md) || 5
+| [[Mégathérium]] || 5
 |-
-| [Moa](./Moa.md) || 2
+| [[Moa]] || 2
 |-
-| [Uintathérium](./Uintathérium.md) || 7
+| [[Uintathérium]] || 7
 |}
 </div>*Cet oiseau incapable de voler est campé sur une paire de pattes musclées terminées par d’énormes serres. Il est presque deux fois plus grand qu’un homme.*
 
@@ -69,8 +69,8 @@ Les moas sont de gros oiseaux incapables de voler. Quand ils se tiennent debout 
 
 Un moa adulte peut peser jusqu’à 250 kilos.
 
-#### Le moa comme [compagnon animal](./liste des compagnons animaux.md)
-**Caractéristiques de départ :** **Taille** M ; **Vitesse** 9 m ; **CA** armure naturelle +1 ; **Attaque** 2 serres (1d3) ; **Caractéristiques** For 13, Dex 16, Con 12, Int 2, Sag 11, Cha 9 ; **Particularités** [vision nocturne](./Vision nocturne (capacité).md)
+#### Le moa comme [[Liste des compagnons animaux|compagnon animal]]
+**Caractéristiques de départ :** **Taille** M ; **Vitesse** 9 m ; **CA** armure naturelle +1 ; **Attaque** 2 serres (1d3) ; **Caractéristiques** For 13, Dex 16, Con 12, Int 2, Sag 11, Cha 9 ; **Particularités** [[Vision nocturne (capacité)|vision nocturne]]
 
 **Développement au niveau 7 :** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** 2 serres (1d4) ; **Caractéristiques** For +4, Con +2
 </div></td></tr></table>

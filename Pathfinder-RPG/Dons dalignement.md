@@ -7,7 +7,7 @@ Categories:
 - Src Pathfinder unchained
 ---
 
-{s:MenuDons}{s:PU}Si un personnage possède au moins 10 [DV](./../Ressources/DV.md), il a accès aux dons correspondant à son alignement. Il ne peut avoir qu’un seul don d’alignement à la fois mais, s’il change d’alignement, il peut échanger son ancien don d’alignement contre un autre dès qu’il gagne un niveau de personnage. La plupart des dons d’alignement ont une entrée baptisée Résidu qui représente le maigre avantage que le personnage conserve s’il ne possède plus l’alignement correspondant à son don, ce qui peut l’aider à retrouver son ancien alignement. De nombreux dons d’alignement permettent de stocker des affirmations en vue d’une utilisation ultérieure. Si le personnage change d’alignement et ne peut plus stocker les [affirmations](./Alignement unchained.md#Glissements_et_affirmations_2), il perd toutes celles qu’il avait en réserve.
+{s:MenuDons}{s:PU}Si un personnage possède au moins 10 [[DV]], il a accès aux dons correspondant à son alignement. Il ne peut avoir qu’un seul don d’alignement à la fois mais, s’il change d’alignement, il peut échanger son ancien don d’alignement contre un autre dès qu’il gagne un niveau de personnage. La plupart des dons d’alignement ont une entrée baptisée Résidu qui représente le maigre avantage que le personnage conserve s’il ne possède plus l’alignement correspondant à son don, ce qui peut l’aider à retrouver son ancien alignement. De nombreux dons d’alignement permettent de stocker des affirmations en vue d’une utilisation ultérieure. Si le personnage change d’alignement et ne peut plus stocker les [[Alignement unchained#Glissements_et_affirmations_2|affirmations]], il perd toutes celles qu’il avait en réserve.
 
 <center>
 {| CLASS="tablo toutgauche" WIDTH="100%"
@@ -19,30 +19,30 @@ Categories:
 | WIDTH="40%" | Avantages
 
 |- CLASS="premier donprincipal"
-| [Champion de l'anarchie](./Champion de lanarchie.md) || <sup>PU</sup> || 10 [DV](./../Ressources/DV.md), alignement Chaotique Neutre || Le personnage sème le chaos partout où il passe.
+| [[Champion de lanarchie|Champion de l'anarchie]] || <sup>PU</sup> || 10 [[DV]], alignement Chaotique Neutre || Le personnage sème le chaos partout où il passe.
 
 |- CLASS="premier alt donprincipal"
-| [Champion de l'équilibre](./Champion de léquilibre.md) || <sup>PU</sup> || 10 [DV](./../Ressources/DV.md), alignement Neutre || Le personnage s’efforce de maintenir l’équilibre dans le multivers.
+| [[Champion de léquilibre|Champion de l'équilibre]] || <sup>PU</sup> || 10 [[DV]], alignement Neutre || Le personnage s’efforce de maintenir l’équilibre dans le multivers.
 
 |- CLASS="premier donprincipal"
-| [Champion de la destruction](./Champion de la destruction.md) || <sup>PU</sup> || 10 [DV](./../Ressources/DV.md), alignement Chaotique Mauvais || Le personnage détruirait le monde s’il le pouvait.
+| [[Champion de la destruction]] || <sup>PU</sup> || 10 [[DV]], alignement Chaotique Mauvais || Le personnage détruirait le monde s’il le pouvait.
 
 |- CLASS="premier alt donprincipal"
-| [Champion de la liberté](./Champion de la liberté.md) || <sup>PU</sup> || 10 [DV](./../Ressources/DV.md), alignement Chaotique Bon || Le personnage pense que les créatures ont besoin de liberté pour prospérer.
+| [[Champion de la liberté]] || <sup>PU</sup> || 10 [[DV]], alignement Chaotique Bon || Le personnage pense que les créatures ont besoin de liberté pour prospérer.
 
 |- CLASS="premier donprincipal"
-| [Champion de la grâce](./Champion de la grâce.md) || <sup>PU</sup> || 10 [DV](./../Ressources/DV.md), alignement Neutre Bon || Le personnage a pour mission de faire le Bien.
+| [[Champion de la grâce]] || <sup>PU</sup> || 10 [[DV]], alignement Neutre Bon || Le personnage a pour mission de faire le Bien.
 
 |- CLASS="premier alt donprincipal"
-| [Champion de la malveillance](./Champion de la malveillance.md) || <sup>PU</sup> || 10 [DV](./../Ressources/DV.md), alignement Neutre Mauvais || Les choses se passeraient mieux si tout le monde obéissait au personnage.
+| [[Champion de la malveillance]] || <sup>PU</sup> || 10 [[DV]], alignement Neutre Mauvais || Les choses se passeraient mieux si tout le monde obéissait au personnage.
 
 |- CLASS="premier donprincipal"
-| [Champion de la vertu](./Champion de la vertu.md) || <sup>PU</sup> || 10 [DV](./../Ressources/DV.md), alignement Loyal Bon || Le personnage sait que le Bien doit être tempéré par l’ordre si l’on veut qu’il règne à long terme.
+| [[Champion de la vertu]] || <sup>PU</sup> || 10 [[DV]], alignement Loyal Bon || Le personnage sait que le Bien doit être tempéré par l’ordre si l’on veut qu’il règne à long terme.
 
 |- CLASS="premier alt donprincipal"
-| [Champion de la sérénité](./Champion de la sérénité.md) || <sup>PU</sup> || 10 [DV](./../Ressources/DV.md), alignement Loyal Neutre || Le personnage considère l’harmonie de la loi comme un idéal.
+| [[Champion de la sérénité]] || <sup>PU</sup> || 10 [[DV]], alignement Loyal Neutre || Le personnage considère l’harmonie de la loi comme un idéal.
 
 |- CLASS="premier donprincipal"
-| [Champion de la tyrannie](./Champion de la tyrannie.md) || <sup>PU</sup> || 10 [DV](./../Ressources/DV.md), alignement Loyal Mauvais || Le personnage doit soumettre les masses pour instaurer un ordre véritable.
+| [[Champion de la tyrannie]] || <sup>PU</sup> || 10 [[DV]], alignement Loyal Mauvais || Le personnage doit soumettre les masses pour instaurer un ordre véritable.
 |}
 </center>

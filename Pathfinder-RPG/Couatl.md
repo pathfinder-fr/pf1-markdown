@@ -13,39 +13,39 @@ Categories:
 {s:pucem|Extérieur|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire p.50*}
 {s:BDTexte|**PX** 9.600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)) de taille G, LB}
-{s:BDTexte|**Init** +7 ; **Sens** *[détection du Bien](./Détection du Bien.md)/[du Chaos](./Détection du Chaos.md)/[de la Loi](./Détection de la Loi.md)/[du Mal](./Détection du Mal.md)*, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +23}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type natif|natif]]) de taille G, LB}
+{s:BDTexte|**Init** +7 ; **Sens** *[[détection du Bien]]/[[détection du chaos|du Chaos]]/[[détection de la loi|de la Loi]]/[[détection du mal|du Mal]]*, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +23}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 13, pris au dépourvu 18 (Dex +3, esquive +1, naturelle +9, taille -1)}
 {s:BDTexte|**pv** 126 (12d10+60)}
 {s:BDTexte|**Réf** +13, **Vig** +9, **Vol** +14}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), vol 18 m (12 {s:c}) (bonne)}
-{s:BDTexte|**Corps à corps** morsure +16 (1d8+7 et [étreinte](./Étreinte.md) et poison)}
+{s:BDTexte|**Corps à corps** morsure +16 (1d8+7 et [[étreinte]] et poison)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (1d8+7)}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (1d8+7)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9<sup>e</sup>)}
-{s:BDSorts|Constant — *[détection de la Loi](./Détection de la Loi.md)*, *[détection du Bien](./Détection du Bien.md)*, *[détection du Chaos](./Détection du Chaos.md)*, *[détection du Mal](./Détection du Mal.md)*}
-{s:BDSorts|À volonté — *[changement de plan](./Changement de plan.md)* (DD 20), *[détection de pensées](./Détection de pensées.md)* (DD 15), *[forme éthérée](./Forme éthérée.md)* (NLS 16), *[invisibilité](./Invisibilité.md)*}
+{s:BDSorts|Constant — *[[détection de la Loi]]*, *[[détection du Bien]]*, *[[détection du Chaos]]*, *[[détection du Mal]]*}
+{s:BDSorts|À volonté — *[[changement de plan]]* (DD 20), *[[détection de pensées]]* (DD 15), *[[forme éthérée]]* (NLS 16), *[[invisibilité]]*}
 {s:BDTexte|**Sorts connus** (NLS 9<sup>e</sup>)}
-{s:BDSorts|4<sup>e</sup> (4/jour) — *[charme-monstre](./Charme-monstre.md)* (DD 17), *[liberté de mouvement](./Liberté de mouvement.md)*}
-{s:BDSorts|3<sup>e</sup> (7/jour) — *[cercle magique contre le Mal](./cercle magique contre le Mal.md)*, *[convocation de monstres III](./Convocation de monstres III.md)*, *[état gazeux](./État gazeux.md)*}
-{s:BDSorts|2<sup>e</sup> (7/jour) — *[rayon ardent](./Rayon ardent.md)*, *[silence](./Silence.md)* (DD 15), *[soins modérés](./Soins modérés.md)*, *[splendeur de l'aigle](./Splendeur de laigle.md)*}
-{s:BDSorts|1<sup>er</sup> (7/jour) — *[armure de mage](./Armure de mage.md)*, *[brume de dissimulation](./Brume de dissimulation.md)*, *[coup au but](./Coup au but.md)*, *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)*, *[protection contre le Chaos](./Protection contre le Chaos.md)*}
-{s:BDSorts|0 (à volonté) — *[brume de dissimulation](./Brume de dissimulation.md)*, *[destruction de mort-vivant](./Destruction de mort-vivant.md)*, *[hébétement](./Hébétement.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[lumière](./Lumière.md)*, *[rayon de givre](./Rayon de givre.md)*, *[résistance](./résistance.md)*, *[stabilisation](./Stabilisation.md)*}
+{s:BDSorts|4<sup>e</sup> (4/jour) — *[[charme-monstre]]* (DD 17), *[[liberté de mouvement]]*}
+{s:BDSorts|3<sup>e</sup> (7/jour) — *[[cercle magique contre le Mal]]*, *[[convocation de monstres III]]*, *[[état gazeux]]*}
+{s:BDSorts|2<sup>e</sup> (7/jour) — *[[rayon ardent]]*, *[[silence]]* (DD 15), *[[soins modérés]]*, *[[splendeur de laigle|splendeur de l'aigle]]*}
+{s:BDSorts|1<sup>er</sup> (7/jour) — *[[armure de mage]]*, *[[brume de dissimulation]]*, *[[coup au but]]*, *[[endurance aux énergies destructives]]*, *[[protection contre le Chaos]]*}
+{s:BDSorts|0 (à volonté) — *[[brume de dissimulation]]*, *[[destruction de mort-vivant]]*, *[[hébétement]]*, *[[lecture de la magie]]*, *[[lumière]]*, *[[rayon de givre]]*, *[[résistance]]*, *[[stabilisation]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 16, **Con** 20, **Int** 17, **Sag** 19, **Cha** 17}
 {s:BDTexte|**BBA** +12, **BMO** +18 (+22 pour la lutte), **DMD** 32 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Dispense de composantes matérielles](./Dispense de composantes matérielles.md)<sup>B</sup>, [Esquive](./Esquive.md), [Extension d'effet](./Extension deffet.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +18, [Art de la magie](./Art de la magie.md) +15, [Bluff](./Bluff.md) +9, [Connaissances](./Connaissances.md) (mystères) +9, [Connaissances](./Connaissances.md) (religion) +12, [Diplomatie](./Diplomatie.md) +18, [Perception](./Perception.md) +23, [Psychologie](./Psychologie.md) +15, [Survie](./Survie.md) +16, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +18, [Vol](./Vol.md) +20}
-{s:BDTexte|**Langues** céleste, commun, draconique ; [télépathie](./Télépathie.md) 20 cases}
+{s:BDTexte|**Dons** [[Dispense de composantes matérielles]]<sup>B</sup>, [[Esquive]], [[Extension deffet|Extension d'effet]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +18, [[Art de la magie]] +15, [[Bluff]] +9, [[Connaissances]] (mystères) +9, [[Connaissances]] (religion) +12, [[Diplomatie]] +18, [[Perception]] +23, [[Psychologie]] +15, [[Survie]] +16, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +18, [[Vol]] +20}
+{s:BDTexte|**Langues** céleste, commun, draconique ; [[télépathie]] 20 cases}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou vol (3-6)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 16 ; *fréquence* 1/minute pendant 10 minutes ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 points de [Force](./Force.md) ; *guérison* 2 réussites consécutives. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Sorts** les couatls lancent des sorts comme des [ensorceleurs](./Ensorceleur.md) de niveau 9 et peuvent utiliser les sorts de la liste des [prêtres](./Prêtre.md) en plus de ceux auxquels les [ensorceleurs](./Ensorceleur.md) ont accès.Lorsqu'ils lancent un sort divin, celui-ci fonctionne comme un sort profane, ce qui signifie que les couatls n'ont pas besoin de [focalisateur divin](./focalisateur divin.md) lors de l'incantation.}
+{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 16 ; *fréquence* 1/minute pendant 10 minutes ; *effet* [[affaiblissement temporaire]] 1d4 points de [[Force]] ; *guérison* 2 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
+{s:BDTexte|**Sorts** les couatls lancent des sorts comme des [[ensorceleur|ensorceleurs]] de niveau 9 et peuvent utiliser les sorts de la liste des [[prêtre|prêtres]] en plus de ceux auxquels les [[ensorceleur|ensorceleurs]] ont accès.Lorsqu'ils lancent un sort divin, celui-ci fonctionne comme un sort profane, ce qui signifie que les couatls n'ont pas besoin de [[focalisateur divin]] lors de l'incantation.}
 </div>
 </td><td><div>''Ce grand serpent possède des ailes multicolores et des yeux qui laissent
 transparaître une profonde compréhension des choses.''

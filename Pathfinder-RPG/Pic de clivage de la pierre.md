@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pic de clivage de la pierre|{s:CMy}}
-**Aura** [Évocation](./Évocation.md) faible  ; **NLS** 5 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 11 308 po ; **Poids** 3 kg
+**Aura** [[Évocation]] faible  ; **NLS** 5 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 11 308 po ; **Poids** 3 kg
 (((Description)))
-Lorsque ce *[pic de guerre lourd](./pic de guerre lourd (arme).md) +1* en [adamantium](./../Golarion/adamantium.md) sert à endommager des objets abandonnés, il inflige 2d6 points de dégâts supplémentaires. Si le porteur dépense une utilisation de [pouvoir mythique](./pouvoir mythique.md) quand il porte ce type d’attaque, le pic ignore la [solidité](./solidité.md) de l’objet et inflige 4d6 points de dégâts supplémentaires au lieu de 2d6.
+Lorsque ce *[[pic de guerre lourd (arme)|pic de guerre lourd]] +1* en [[adamantium]] sert à endommager des objets abandonnés, il inflige 2d6 points de dégâts supplémentaires. Si le porteur dépense une utilisation de [[pouvoir mythique]] quand il porte ce type d’attaque, le pic ignore la [[solidité]] de l’objet et inflige 4d6 points de dégâts supplémentaires au lieu de 2d6.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), [Artisan mythique](./Artisan mythique (mythique).md), *[fracassement](./Fracassement.md)* ; **Coût** 7 308 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], [[Artisan mythique (mythique)|Artisan mythique]], *[[fracassement]]* ; **Coût** 7 308 po
 </div>

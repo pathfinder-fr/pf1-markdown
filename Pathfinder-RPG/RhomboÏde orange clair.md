@@ -11,12 +11,12 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun, rhomboÏde orange clair|{s:RSE}}
-**Aura** [Nécromancie](./Nécromancie.md) puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 200 000 po (normale), 12 000 po (défectueuse), 1 800 po (ébréchée) ; **Poids** –
+**Aura** [[Nécromancie]] puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 200 000 po (normale), 12 000 po (défectueuse), 1 800 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** La pierre absorbe l’âme du personnage juste avant sa mort, comme un sort de *[possession](./Possession.md)*. En revanche, le personnage ne peut pas transférer son âme de la pierre, qui sert de réceptacle, au corps d’une autre créature et il est cliniquement mort. Tant que son âme est dans la pierre ioun, il perçoit toutes les forces vitales dans un rayon de 36 mètres, comme s’il était victime d’une *possession*. Dans les 12 heures qui suivent son décès, le personnage peut retourner dans son corps quand il le désire, à condition que celui-ci se trouve à 36 mètres ou moins de la pierre. Lorsqu’il regagne son corps, il est [inconscient](./Inconscient.md) et [mourant](./Mourant.md), avec un nombre de [points de vie](./pv.md) négatif égal à sa valeur de [Constitution](./Constitution.md) moins 1. S’il ne parvient pas à se [stabiliser](./Blessures et mort.md#STABLE) et que personne ne le soigne au bout d’un tour, il meurt et son âme ne retourne pas dans la pierre ioun. La *pierre ioun rhomboïde orange clair* absorbe l’âme une fois toutes les 24 heures seulement.
+- ***Normale.*** La pierre absorbe l’âme du personnage juste avant sa mort, comme un sort de *[[possession]]*. En revanche, le personnage ne peut pas transférer son âme de la pierre, qui sert de réceptacle, au corps d’une autre créature et il est cliniquement mort. Tant que son âme est dans la pierre ioun, il perçoit toutes les forces vitales dans un rayon de 36 mètres, comme s’il était victime d’une *possession*. Dans les 12 heures qui suivent son décès, le personnage peut retourner dans son corps quand il le désire, à condition que celui-ci se trouve à 36 mètres ou moins de la pierre. Lorsqu’il regagne son corps, il est [[inconscient]] et [[mourant]], avec un nombre de [[pv|points de vie]] négatif égal à sa valeur de [[Constitution]] moins 1. S’il ne parvient pas à se [[Blessures et mort#STABLE|stabiliser]] et que personne ne le soigne au bout d’un tour, il meurt et son âme ne retourne pas dans la pierre ioun. La *pierre ioun rhomboïde orange clair* absorbe l’âme une fois toutes les 24 heures seulement.
 
 
-- ***Défectueuse.*** Cette pierre fonctionne comme sa version intacte mais une seule fois. Après cela, elle est vidée et devient [gris terne](./Pierre gris terne.md).
+- ***Défectueuse.*** Cette pierre fonctionne comme sa version intacte mais une seule fois. Après cela, elle est vidée et devient [[Pierre gris terne|gris terne]].
 
 
 - ***Ébréchée.*** Si le personnage meurt alors qu’il utilise cette pierre ioun, celle-ci peut servir de composante matérielle supplémentaire pour le ramener à la vie, ce qui diminue le coût total du sort en composantes matérielles de 20%.
@@ -24,5 +24,5 @@ Categories:
 (((Pouvoir de résonance)))
 Une âme contenue dans la pierre peut y rester indéfiniment, tant que le *guide* reste sur le corps dont l’âme provient. Si le guide quitte le corps, le pouvoir de résonance disparaît jusqu’à ce que l’on repose le guide sur le corps.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[possession](./Possession.md)*, le créateur doit être de niveau 12 ; **Coût** 100 000 po (normale), 6 000 po (défectueuse), 900 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[possession]]*, le créateur doit être de niveau 12 ; **Coût** 100 000 po (normale), 6 000 po (défectueuse), 900 po (ébréchée)
 </div>

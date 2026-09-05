@@ -15,11 +15,11 @@ Categories:
 ---
 
 {s:racial|Tengu (race)|tengus|Illustrations/PNJ/Tengu.jpg}{s:MR}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Dru](./Druide.md) 1, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Prê](./Prêtre.md) 1, [Rôd](./Rôdeur.md) 1, [San](./Sanguin.md) 1  
+**École** [[Abjuration]] ; **Niveau** [[Druide|Dru]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** contact  
 
@@ -27,6 +27,6 @@ Categories:
 
 **Durée** 24 heures  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui
 
-Les plumes de la cible s’épaississent et s’ébouriffent pour la protéger contre le froid de l’hiver. La cible ne souffre pas d’être dans un [environnement froid](./Dangers naturels.md#FROID) et peut vivre confortablement dans des conditions allant jusqu’à -45 °C sans avoir besoin de faire de jets de [Vigueur](./Vigueur.md). L’équipement de la créature est également protégé. Ce sort ne fournit aucune protection contre les dégâts de froid ni contre les autres dangers environnementaux associés aux climats froids (comme glisser sur la [glace](./Dangers naturels.md#GLACE), être aveuglé par la neige, etc.) Lorsque le personnage [lance ce sort](./Lancer des sorts.md), il peut changer la couleur des plumes de la cible en blanc pour la durée du sort, lui accordant un bonus de circonstances de +4 à ses tests de [Discrétion](./Discrétion.md) pour se cacher dans la glace et dans la neige.
+Les plumes de la cible s’épaississent et s’ébouriffent pour la protéger contre le froid de l’hiver. La cible ne souffre pas d’être dans un [[Dangers naturels#FROID|environnement froid]] et peut vivre confortablement dans des conditions allant jusqu’à -45 °C sans avoir besoin de faire de jets de [[Vigueur]]. L’équipement de la créature est également protégé. Ce sort ne fournit aucune protection contre les dégâts de froid ni contre les autres dangers environnementaux associés aux climats froids (comme glisser sur la [[Dangers naturels#GLACE|glace]], être aveuglé par la neige, etc.) Lorsque le personnage [[Lancer des sorts|lance ce sort]], il peut changer la couleur des plumes de la cible en blanc pour la durée du sort, lui accordant un bonus de circonstances de +4 à ses tests de [[Discrétion]] pour se cacher dans la glace et dans la neige.

@@ -9,15 +9,15 @@ Categories:
 
 *Le personnage est habitué à lancer tout ce qui lui tombe sous la main.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Avantage.** Le personnage ne souffre d’aucun malus quand il utilise une [arme de jet](./arme de jet.md) [improvisée](./arme improvisée.md). Il reçoit un bonus de circonstances de +1 à ses jets d'attaque quand il utilise une [arme à aspersion](./arme à aspersion.md).
+**Avantage.** Le personnage ne souffre d’aucun malus quand il utilise une [[arme de jet]] [[arme improvisée|improvisée]]. Il reçoit un bonus de circonstances de +1 à ses jets d'attaque quand il utilise une [[arme à aspersion]].
 
-**Normal.** Le personnage subit un malus de -4 aux [jets d’attaque](./jet dattaque.md) avec une [arme improvisée](./arme improvisée.md).
+**Normal.** Le personnage subit un malus de -4 aux [[jet dattaque|jets d’attaque]] avec une [[arme improvisée]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Tant que le personnage a au moins un point dans sa réserve d’endurance, quand il utilise une arme de corps à corps comme [arme de jet](./arme de jet.md) pour effectuer une attaque à distance avec une arme improvisée, il applique la zone de critique potentiel et le multiplicateur de critique de l’arme au lieu du 20/×2 des armes improvisées. Il peut dépenser 2 points d’endurance pour augmenter le facteur de portée des attaques à l’arme de jet (y compris les armes à distance improvisées) de 3 mètres jusqu’au début de son prochain tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Tant que le personnage a au moins un point dans sa réserve d’endurance, quand il utilise une arme de corps à corps comme [[arme de jet]] pour effectuer une attaque à distance avec une arme improvisée, il applique la zone de critique potentiel et le multiplicateur de critique de l’arme au lieu du 20/×2 des armes improvisées. Il peut dépenser 2 points d’endurance pour augmenter le facteur de portée des attaques à l’arme de jet (y compris les armes à distance improvisées) de 3 mètres jusqu’au début de son prochain tour.
 
 {s:CMy}
 ### Version mythique

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Manœuvres offensives#DESARMEMENT
 ---
 
->>> [Manœuvres offensives#DESARMEMENT](./Manœuvres offensives.md#DESARMEMENT)
+>>> [[Manœuvres offensives#DESARMEMENT]]

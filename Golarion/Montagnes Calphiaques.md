@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Ces montagnes sont apparues lors du cataclysme qui entraîna la chute de l’Empire Thassilonien. Toute personne voulant en savoir plus sur le [Thassilon](./Thassilon.md) sait que ces montagnes renferment de nombreux objets de cet empire disparu.
+Ces montagnes sont apparues lors du cataclysme qui entraîna la chute de l’Empire Thassilonien. Toute personne voulant en savoir plus sur le [[Thassilon]] sait que ces montagnes renferment de nombreux objets de cet empire disparu.

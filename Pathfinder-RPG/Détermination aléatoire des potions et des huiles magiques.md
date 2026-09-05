@@ -47,19 +47,19 @@ Categories:
 |- CLASS="titre"
 | D100 || Potion ou huile commune || Prix(po)
 |- CLASS="premier"
-| 01-14 || *[signature magique](./Signature magique.md)* || 25
+| 01-14 || *[[signature magique]]* || 25
 |-
-| 15-28 || *[assistance divine](./Assistance divine.md)* || 25
+| 15-28 || *[[assistance divine]]* || 25
 |-
-| 29-44 || *[lumière](./Lumière.md)* || 25
+| 29-44 || *[[lumière]]* || 25
 |-
-| 45-58 || *[purification de nourriture et d’eau](./Purification de nourriture et deau.md)* || 25
+| 45-58 || *[[purification de nourriture et deau|purification de nourriture et d’eau]]* || 25
 |-
-| 59-72 || *[résistance](./résistance.md)* || 25
+| 59-72 || *[[résistance]]* || 25
 |-
-| 73-86 || *[stabilisation](./Stabilisation.md)* || 25
+| 73-86 || *[[stabilisation]]* || 25
 |-
-| 87-100 || *[stimulant](./Stimulant.md)* || 25
+| 87-100 || *[[stimulant]]* || 25
 |}
 
 {| CLASS="tablo centre autoalt" WIDTH="94%"
@@ -67,79 +67,79 @@ Categories:
 |- CLASS="titre"
 | D100 || Potion ou huile commune || Prix(po)
 |- CLASS="premier"
-| 01-04 || *[bénédiction d’arme](./Bénédiction darme.md)* || 50
+| 01-04 || *[[bénédiction darme|bénédiction d’arme]]* || 50
 |-
-| 05-14 || *[soins légers](./Soins légers.md)* || 50
+| 05-14 || *[[soins légers]]* || 50
 |-
-| 15-19 || *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)* || 50
+| 15-19 || *[[endurance aux énergies destructives]]* || 50
 |-
-| 20-27 || *[agrandissement](./Agrandissement.md)* || 50
+| 20-27 || *[[agrandissement]]* || 50
 |-
-| 28-33 || *[saut](./Saut.md)* || 50
+| 28-33 || *[[saut]]* || 50
 |-
-| 34-41 || *[armure de mage](./Armure de mage.md)* || 50
+| 34-41 || *[[armure de mage]]* || 50
 |-
-| 42-47 || *[morsure magique](./Morsure magique.md)* || 50
+| 42-47 || *[[morsure magique]]* || 50
 |-
-| 48-55 || *[arme magique](./Arme magique.md)* || 50
+| 48-55 || *[[arme magique]]* || 50
 |-
-| 56-60 || *[passage sans trace](./passage sans trace.md)* || 50
+| 56-60 || *[[passage sans trace]]* || 50
 |-
-| 61-64 || *[protection contre le Chaos](./Protection contre le Chaos.md)* || 50
+| 61-64 || *[[protection contre le Chaos]]* || 50
 |-
-| 65-68 || *[protection contre le Mal](./Protection contre le Mal.md)* || 50
+| 65-68 || *[[protection contre le Mal]]* || 50
 |-
-| 69-72 || *[protection contre le Bien](./Protection contre le Bien.md)* || 50
+| 69-72 || *[[protection contre le Bien]]* || 50
 |-
-| 73-76 || *[protection contre la Loi](./Protection contre la Loi.md)* || 50
+| 73-76 || *[[protection contre la Loi]]* || 50
 |-
-| 77-81 || *[rapetissement](./Rapetissement.md)* || 50
+| 77-81 || *[[rapetissement]]* || 50
 |-
-| 82-87 || *[regain d’assurance](./Regain dassurance.md)* || 50
+| 82-87 || *[[regain dassurance|regain d’assurance]]* || 50
 |-
-| 88-92 || *[sanctuaire](./Sanctuaire.md)* || 50
+| 88-92 || *[[sanctuaire]]* || 50
 |-
-| 93-100 || *[bouclier de la foi](./Bouclier de la foi.md)* || 50
+| 93-100 || *[[bouclier de la foi]]* || 50
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Potion ou huile hors du commun || Prix(po)
 |- CLASS="premier"
-| 01-04 || *[corde animée](./Corde animée.md)* || 50
+| 01-04 || *[[corde animée]]* || 50
 |-
-| 05-11 || *[charge de fourmi](./Charge de fourmi.md)* || 50
+| 05-11 || *[[charge de fourmi]]* || 50
 |-
-| 12-16 || *[manteau d’ombre](./Manteau dombre.md)* || 50
+| 12-16 || *[[manteau dombre|manteau d’ombre]]* || 50
 |-
-| 17-20 || *[effacement](./Effacement.md)* || 50
+| 17-20 || *[[effacement]]* || 50
 |-
-| 21-26 || *[démarche aérienne](./Démarche aérienne.md)* || 50
+| 21-26 || *[[démarche aérienne]]* || 50
 |-
-| 27-30 || *[baie nourricière](./Baie nourricière.md)* || 50
+| 27-30 || *[[baie nourricière]]* || 50
 |-
-| 31-34 || *[graisse](./Graisse.md)* || 50
+| 31-34 || *[[graisse]]* || 50
 |-
-| 35-41 || *[invisibilité pour les animaux](./Invisibilité pour les animaux.md)* || 50
+| 35-41 || *[[invisibilité pour les animaux]]* || 50
 |-
-| 42-49 || *[invisibilité pour les morts-vivants](./Invisibilité pour les morts-vivants.md)* || 50
+| 42-49 || *[[invisibilité pour les morts-vivants]]* || 50
 |-
-| 50-53 || *[verrouillage](./Verrouillage.md)* || 50
+| 50-53 || *[[verrouillage]]* || 50
 |-
-| 54-58 || *[revigorer](./Revigorer.md)* || 50
+| 54-58 || *[[revigorer]]* || 50
 |-
-| 59-64 || *[sens surdéveloppés](./Sens surdéveloppés.md)* || 50
+| 59-64 || *[[sens surdéveloppés]]* || 50
 |-
-| 65-68 || *[pierre magique](./Pierre magique.md)* || 50
+| 65-68 || *[[pierre magique]]* || 50
 |-
-| 69-75 || *[dissipation de la fièvre](./Dissipation de la fièvre.md)* || 50
+| 69-75 || *[[dissipation de la fièvre]]* || 50
 |-
-| 76-80 || *[sanctification de cadavre](./Sanctification de cadavre.md)* || 50
+| 76-80 || *[[sanctification de cadavre]]* || 50
 |-
-| 81-84 || *[gourdin magique](./Gourdin magique.md)* || 50
+| 81-84 || *[[gourdin magique]]* || 50
 |-
-| 85-92 || *[caresse de la mer](./Caresse de la mer.md)* || 50
+| 85-92 || *[[caresse de la mer]]* || 50
 |-
-| 93-100 || *[disparition](./Disparition.md)* || 50
+| 93-100 || *[[disparition]]* || 50
 |}
 
 {| CLASS="tablo centre autoalt" WIDTH="94%"
@@ -147,93 +147,93 @@ Categories:
 |- CLASS="titre"
 | D100 || Potion ou huile commune || Prix(po)
 |- CLASS="premier"
-| 01-04 || *[aide](./Aide.md)* || 300
+| 01-04 || *[[aide]]* || 300
 |-
-| 05-07 || *[arme alignée](./Arme alignée.md)* || 300
+| 05-07 || *[[arme alignée]]* || 300
 |-
-| 08-11 || *[peau d’écorce](./Peau décorce.md)* || 300
+| 08-11 || *[[peau décorce|peau d’écorce]]* || 300
 |-
-| 12-16 || *[endurance de l’ours](./Endurance de lours.md)* || 300
+| 12-16 || *[[endurance de lours|endurance de l’ours]]* || 300
 |-
-| 17-20 || *[flou](./Flou.md)* || 300
+| 17-20 || *[[flou]]* || 300
 |-
-| 21-25 || *[force de taureau](./Force de taureau.md)* || 300
+| 21-25 || *[[force de taureau]]* || 300
 |-
-| 26-30 || *[grâce féline](./Grâce féline.md)* || 300
+| 26-30 || *[[grâce féline]]* || 300
 |-
-| 31-37 || *[soins modérés](./Soins modérés.md)* || 300
+| 31-37 || *[[soins modérés]]* || 300
 |-
-| 38-41 || *[vision dans le noir](./vision dans le noir.md)* || 300
+| 38-41 || *[[vision dans le noir]]* || 300
 |-
-| 42-44 || *[ralentissement du poison](./Ralentissement du poison.md)* || 300
+| 42-44 || *[[ralentissement du poison]]* || 300
 |-
-| 45-49 || *[splendeur de l’aigle](./Splendeur de laigle.md)* || 300
+| 45-49 || *[[splendeur de laigle|splendeur de l’aigle]]* || 300
 |-
-| 50-54 || *[ruse du renard](./Ruse du renard.md)* || 300
+| 50-54 || *[[ruse du renard]]* || 300
 |-
-| 55-61 || *[invisibilité](./Invisibilité.md)* || 300
+| 55-61 || *[[invisibilité]]* || 300
 |-
-| 62-66 || *[lévitation](./Lévitation.md)* || 300
+| 62-66 || *[[lévitation]]* || 300
 |-
-| 67-71 || *[sagesse du hibou](./Sagesse du hibou.md)* || 300
+| 67-71 || *[[sagesse du hibou]]* || 300
 |-
-| 72-73 || *[protection contre les projectiles](./Protection contre les projectiles.md)* || 300
+| 72-73 || *[[protection contre les projectiles]]* || 300
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 74-76 || *[délivrance de la paralysie](./Délivrance de la paralysie.md)* || 300
+| 74-76 || *[[délivrance de la paralysie]]* || 300
 |-
-| 77-80 || *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, acide || 300
+| 77-80 || *[[résistance aux énergies destructives]]*, acide || 300
 |-
-| 81-84 || *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, froid || 300
+| 81-84 || *[[résistance aux énergies destructives]]*, froid || 300
 |-
-| 85-88 || *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, électricité || 300
+| 85-88 || *[[résistance aux énergies destructives]]*, électricité || 300
 |-
-| 89-92 || *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, feu || 300
+| 89-92 || *[[résistance aux énergies destructives]]*, feu || 300
 |-
-| 93-94 || *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, son || 300
+| 93-94 || *[[résistance aux énergies destructives]]*, son || 300
 |-
-| 95-98 || *[pattes d’araignée](./Pattes daraignée.md)* || 300
+| 95-98 || *[[pattes daraignée|pattes d’araignée]]* || 300
 |-
-| 99-100 || *[alignement indétectable](./Alignement indétectable.md)* || 300
+| 99-100 || *[[alignement indétectable]]* || 300
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Potion ou huile hors du commun || Prix(po)
 |- CLASS="premier"
-| 01-06 || *[barrière protectrice](./Barrière protectrice.md)* || 300
+| 01-06 || *[[barrière protectrice]]* || 300
 |-
-| 07-14 || *[sens aiguisés](./Sens aiguisés.md)* || 300
+| 07-14 || *[[sens aiguisés]]* || 300
 |-
-| 15-19 || *[verrou du mage](./Verrou du mage.md)* || 300
+| 15-19 || *[[verrou du mage]]* || 300
 |-
-| 20-24 || *[bouclier pare-balles](./Bouclier pare-balles.md)* || 300
+| 20-24 || *[[bouclier pare-balles]]* || 300
 |-
-| 25-30 || *[poigne sûre](./Poigne sûre.md)* || 300
+| 25-30 || *[[poigne sûre]]* || 300
 |-
-| 31-35 || *[flamme éternelle](./Flamme éternelle.md)* || 300
+| 31-35 || *[[flamme éternelle]]* || 300
 |-
-| 36-40 || *[résistance à la corruption](./Résistance à la corruption.md)* || 300
+| 36-40 || *[[résistance à la corruption]]* || 300
 |-
-| 41-48 || *[déguiser autrui](./Déguiser autrui.md)* || 300
+| 41-48 || *[[déguiser autrui]]* || 300
 |-
-| 49-56 || *[préservation des morts](./Préservation des morts.md)* || 300
+| 49-56 || *[[préservation des morts]]* || 300
 |-
-| 57-61 || *[réparation intégrale](./Réparation intégrale.md)* || 300
+| 57-61 || *[[réparation intégrale]]* || 300
 |-
-| 62-67 || *[dissimulation d’objet](./Dissimulation dobjet.md)* || 300
+| 62-67 || *[[dissimulation dobjet|dissimulation d’objet]]* || 300
 |-
-| 68-72 || *[rapetissement d’animal](./Rapetissement danimal.md)* || 300
+| 68-72 || *[[rapetissement danimal|rapetissement d’animal]]* || 300
 |-
-| 73-76 || *[corde enchantée](./Corde enchantée.md)* || 300
+| 73-76 || *[[corde enchantée]]* || 300
 |-
-| 77-82 || *[vague](./Vague.md)* || 300
+| 77-82 || *[[vague]]* || 300
 |-
-| 83-90 || *[rapport](./Rapport.md)* || 300
+| 83-90 || *[[rapport]]* || 300
 |-
-| 91-95 || *[distorsion du bois](./Distorsion du bois.md)* || 300
+| 91-95 || *[[distorsion du bois]]* || 300
 |-
-| 96-100 || *[façonnage du bois](./Façonnage du bois.md)* || 300
+| 96-100 || *[[façonnage du bois]]* || 300
 |}
 
 {| CLASS="tablo centre autoalt" WIDTH="94%"
@@ -241,79 +241,79 @@ Categories:
 |- CLASS="titre"
 | D100 || Potion ou huile commune || Prix(po)
 |- CLASS="premier"
-| 01-06 || *[soins importants](./Soins importants.md)* || 750
+| 01-06 || *[[soins importants]]* || 750
 |-
-| 07-10 || *[dissipation de la magie](./Dissipation de la magie.md)* || 750
+| 07-10 || *[[dissipation de la magie]]* || 750
 |-
-| 11-14 || *[déplacement](./Déplacement.md)* || 750
+| 11-14 || *[[déplacement]]* || 750
 |-
-| 15-20 || *[vol](./Vol.md)* || 750
+| 15-20 || *[[vol]]* || 750
 |-
-| 21-25 || *[état gazeux](./État gazeux.md)* || 750
+| 21-25 || *[[état gazeux]]* || 750
 |-
-| 26-29 || *[espoir](./Espoir.md)* || 750
+| 26-29 || *[[espoir]]* || 750
 |-
-| 30-35 || *[rapidité](./Rapidité.md)* || 750
+| 30-35 || *[[rapidité]]* || 750
 |-
-| 36-40 || *[héroïsme](./Héroïsme.md)* || 750
+| 36-40 || *[[héroïsme]]* || 750
 |-
-| 41-44 || *[affûtage](./Affûtage.md)* || 750
+| 41-44 || *[[affûtage]]* || 750
 |-
-| 45-48 || *[morsure magique suprême](./Morsure magique suprême.md)* || 750
+| 45-48 || *[[morsure magique suprême]]* || 750
 |-
-| 49-52 || *[panoplie magique](./Panoplie magique.md)* || 750
+| 49-52 || *[[panoplie magique]]* || 750
 |-
-| 53-57 || *[neutralisation du poison](./Neutralisation du poison.md)* || 750
+| 53-57 || *[[neutralisation du poison]]* || 750
 |-
-| 58-60 || *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*,  
+| 58-60 || *[[protection contre les énergies destructives]]*,  
 acide || 750
 |-
-| 61-63 || *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*,  
+| 61-63 || *[[protection contre les énergies destructives]]*,  
 froid || 750
 |-
-| 64-66 || *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*,  
+| 64-66 || *[[protection contre les énergies destructives]]*,  
 électricité || 750
 |-
-| 67-69 || *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*,  
+| 67-69 || *[[protection contre les énergies destructives]]*,  
 feu || 750
 |-
-| 70-71 || *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*,  
+| 70-71 || *[[protection contre les énergies destructives]]*,  
 son || 750
 |-
-| 72-74 || *[rage](./Rage.md)* || 750
+| 72-74 || *[[rage]]* || 750
 |-
-| 75-77 || *[guérison de la cécité/surdité](./Guérison de la cécitésurdité.md)* || 750
+| 75-77 || *[[guérison de la cécitésurdité|guérison de la cécité/surdité]]* || 750
 |-
-| 78-81 || *[délivrance des malédictions](./Délivrance des malédictions.md)* || 750
+| 78-81 || *[[délivrance des malédictions]]* || 750
 |-
-| 82-86 || *[guérison des maladies](./Guérison des maladies.md)* || 750
+| 82-86 || *[[guérison des maladies]]* || 750
 |-
-| 87-91 || *[don des langues](./Don des langues.md)* || 750
+| 87-91 || *[[don des langues]]* || 750
 |-
-| 92-96 || *[respiration aquatique](./Respiration aquatique.md)* || 750
+| 92-96 || *[[respiration aquatique]]* || 750
 |-
-| 97-100 || *[marche sur l’onde](./Marche sur londe.md)* || 750
+| 97-100 || *[[marche sur londe|marche sur l’onde]]* || 750
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Potion ou huile hors du commun || Prix(po)
 |- CLASS="premier"
-| 01-12 || *[creusement](./Creusement.md)* || 750
+| 01-12 || *[[creusement]]* || 750
 |-
-| 13-22 || *[innombrables yeux](./Innombrables yeux.md)* || 750
+| 13-22 || *[[innombrables yeux]]* || 750
 |-
-| 23-34 || *[lumière du jour](./Lumière du jour.md)* || 750
+| 23-34 || *[[lumière du jour]]* || 750
 |-
-| 35-49 || *[réservoir draconique](./Réservoir draconique.md)* || 750
+| 35-49 || *[[réservoir draconique]]* || 750
 |-
-| 50-58 || *[flèches enflammées](./Flèches enflammées.md)* || 750
+| 50-58 || *[[flèches enflammées]]* || 750
 |-
-| 59-67 || *[réduction d’objet](./Réduction dobjet.md)* || 750
+| 59-67 || *[[réduction dobjet|réduction d’objet]]* || 750
 |-
-| 68-77 || *[façonnage de la pierre](./Façonnage de la pierre.md)* || 750
+| 68-77 || *[[façonnage de la pierre]]* || 750
 |-
-| 78-87 || *[piège à feu](./Piège à feu.md)* || 775
+| 78-87 || *[[piège à feu]]* || 775
 |-
-| 88-100 || *[antidétection](./Antidétection.md)* || 800
+| 88-100 || *[[antidétection]]* || 800
 |}
 </td></tr></table>

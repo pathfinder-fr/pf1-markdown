@@ -14,14 +14,14 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-donjons|Tempéré}
 - *Source : Bestiaire 2, p.120*
 - **PX** 3 200
-- [Mort-vivant](./type Mort-vivant.md) de taille M, LM
-- **Init** +2 ; **Sens** [vision aveugle](./vision aveugle.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +16
+- [[type Mort-vivant|Mort-vivant]] de taille M, LM
+- **Init** +2 ; **Sens** [[vision aveugle]] 18 m (12 {s:c}) ; [[Perception]] +16
 - **Aura** présence effrayante (9 m (6 {s:c}), DD 19)
 (((Défense)))
 - **CA** 21, contact 11, pris au dépourvu 20 (armure +10, Dex +1)
 - **pv** 85 (10d8+40) ; guérison accélérée 5
 - **Réf** +5, **Vig** +7, **Vol** +12
-- **Capacités défensives** [résistance à la canalisation](./résistance à la canalisation.md) +4 ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) ; **RM** 18
+- **Capacités défensives** [[résistance à la canalisation]] +4 ; **Immunités** [[traits des morts-vivants]] ; **RM** 18
 (((Attaque)))
 - **VD** 9 m (6 {s:c}) (6 m (4 {s:c}) en armure)
 - **Corps à corps** épée longue *acérée* +1, +14/+9 (1d8+6/17–20 plus 1d6 froid)
@@ -29,8 +29,8 @@ Categories:
 (((Statistiques)))
 - **For** 20, **Dex** 14, **Con** — , **Int** 14, **Sag** 16, **Cha** 18
 - **BBA** +7 ; **BMO** +12 ; **DMD** 24
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (épée longue), [Attaque au galop](./Attaque au galop.md), [Combat monté](./Combat monté.md), [Piétinement](./Piétinement.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Art de la magie](./Art de la magie.md) +15, [Discrétion](./Discrétion.md) +10, [Dressage](./Dressage.md) +14, [Équitation](./Équitation.md) +7, [Intimidation](./Intimidation.md) +17, [Perception](./Perception.md) +16
+- **Dons** [[Arme de prédilection]] (épée longue), [[Attaque au galop]], [[Combat monté]], [[Piétinement]], [[Volonté de fer]]
+- **Compétences** [[Art de la magie]] +15, [[Discrétion]] +10, [[Dressage]] +14, [[Équitation]] +7, [[Intimidation]] +17, [[Perception]] +16
 - **Langues** commun, sylvestre
 (((Écologie)))
 - **Environnement** tous
@@ -38,8 +38,8 @@ Categories:
 - **Trésor** double (harnois +1, épée longue +1, autres trésors)
 (((Pouvoirs spéciaux)))
 - **Appel de la monture (Sur).** Par une action simple, un dullahan peut appeler un cheval de guerre lourd entraîné au combat (un destrier lourd) avec l’archétype simple de « créature fiélon ». Le cheval reste à son service jusqu’à ce qu’il soit tué ou que le dullahan le renvoie. Il ne peut avoir qu’un seul cheval à la fois.
-- **Appel de la mort (Sur).** Par une action simple utilisable une fois par jour, un dullahan peut appeler la mort sur une créature située dans un rayon de 18 mètres (12 {s:c}) (Vigueur DD 22, annule). Si le dullahan connaît et prononce le nom de la cible, celle-ci subit un malus de –2 au jet de sauvegarde. En cas d’échec du jet de sauvegarde, la cible devient [chancelante](./Chancelant.md) pendant 1d6 rounds. Pendant les prochaines 24 heures (ou jusqu’à ce que le dullhan soit tué), toutes les menaces de critique à l’encontre de la victime sont automatiquement confirmées. Enfin, la victime rate automatiquement tous les tests de Constitution pour se stabiliser lorsqu’elle est mourante. Il s’agit d’un effet mental de malédiction. Le DD du jet de sauvegarde dépend du Charisme.
-- **Lame glaciale (Sur).** Les dullahans sont formés au maniement de toutes les armes tranchantes courantes et de guerre. Lorsqu’ils manient une arme tranchante, elle inflige +1d6 points de dégâts de froid et acquiert la propriété spéciale d’arme [acérée](./acérée (propriété).md).
+- **Appel de la mort (Sur).** Par une action simple utilisable une fois par jour, un dullahan peut appeler la mort sur une créature située dans un rayon de 18 mètres (12 {s:c}) (Vigueur DD 22, annule). Si le dullahan connaît et prononce le nom de la cible, celle-ci subit un malus de –2 au jet de sauvegarde. En cas d’échec du jet de sauvegarde, la cible devient [[chancelant|chancelante]] pendant 1d6 rounds. Pendant les prochaines 24 heures (ou jusqu’à ce que le dullhan soit tué), toutes les menaces de critique à l’encontre de la victime sont automatiquement confirmées. Enfin, la victime rate automatiquement tous les tests de Constitution pour se stabiliser lorsqu’elle est mourante. Il s’agit d’un effet mental de malédiction. Le DD du jet de sauvegarde dépend du Charisme.
+- **Lame glaciale (Sur).** Les dullahans sont formés au maniement de toutes les armes tranchantes courantes et de guerre. Lorsqu’ils manient une arme tranchante, elle inflige +1d6 points de dégâts de froid et acquiert la propriété spéciale d’arme [[acérée (propriété)|acérée]].
 
 </div>
 </td><td><div>*Ce sinistre cavalier sans tête habillé de robes noires déchirées et d’une armure ternie projette une aura oppressante.*
@@ -61,7 +61,7 @@ mais bien un attelage entier constitué d’un carrosse tiré par six
 puissants chevaux d’ébène. Ces dangereux morts-vivants connus
 sous le nom de « conducteurs silencieux » ont un FP de 14,
 possèdent 20 DV et reçoivent l’archétype simple de « créature
-évoluée » et la capacité de lancer *[séquestration](./Séquestration.md)* sur les victimes
+évoluée » et la capacité de lancer *[[séquestration]]* sur les victimes
 de leur appel de la mort. Les âmes de ces victimes prennent
 alors place dans le carrosse du conducteur silencieux, où elles
 se languissent à jamais... ou, tout du moins, jusqu’à ce que le

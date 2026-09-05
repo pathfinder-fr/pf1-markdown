@@ -11,26 +11,26 @@ Categories:
 <div class="BD">
 {s:BDTitre|Étiainen|FP 1}
 {s:pucem|Extérieur|Ville|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.119](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (Contenu)|Bestiaire 5 p.119]]*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([intangible](./sous-type intangible.md), [natif](./sous-type natif.md)) de taille M, CN}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type intangible|intangible]], [[sous-type natif|natif]]) de taille M, CN}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, parade +2)}
 {s:BDTexte|**pv** 13 (2d10+2)}
 {s:BDTexte|**Réf** +2, **Vig** +4, **Vol** +3}
-{s:BDTexte|**Capacités défensives** [intangible](./Intangible (capacité).md)}
+{s:BDTexte|**Capacités défensives** [[Intangible (capacité)|intangible]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** contact intangible, +4 (1d6 plus perte de mémoire)}
 {s:BDTexte|**Attaques spéciales** perte de mémoire}
-{s:BDTexte|**Magie psychique** ([NLS](./NLS.md) 2 ; [concentration](./concentration.md) +4)}
-{s:BDSorts|15 EP — *[déguisement](./sort Déguisement.md)* (1 EP), *[déjà vu](./Déjà vu.md)* (1 EP), *[lien mental](./Lien mental.md)* (1 EP, DD 13), *[manipulation à distance](./Manipulation à distance.md)* (0 EP), *[ouverture/fermeture](./Ouverturefermeture.md)* (0 EP), *[son imaginaire](./Son imaginaire.md)* (0 EP), *[téléportation](./téléportation.md)* (sur lui-même uniquement, 5 EP)}
+{s:BDTexte|**Magie psychique** ([[NLS]] 2 ; [[concentration]] +4)}
+{s:BDSorts|15 EP — *[[sort Déguisement|déguisement]]* (1 EP), *[[déjà vu]]* (1 EP), *[[lien mental]]* (1 EP, DD 13), *[[manipulation à distance]]* (0 EP), *[[Ouverturefermeture|ouverture/fermeture]]* (0 EP), *[[son imaginaire]]* (0 EP), *[[téléportation]]* (sur lui-même uniquement, 5 EP)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** —, **Dex** 14, **Con** 12, **Int** 5, **Sag** 11, **Cha** 14}
 {s:BDTexte|**BBA** +2 ; **BMO** +6 ; **DMD** 18}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>S</sup>, [Talent](./Talent.md) (Discrétion)}
-{s:BDTexte|**Compétences** [Déguisement](./Déguisement.md) +7, [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +5 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>S</sup>, [[Talent]] (Discrétion)}
+{s:BDTexte|**Compétences** [[Déguisement]] +7, [[Discrétion]] +14, [[Perception]] +5 ; **Modificateurs raciaux** +4 en [[Discrétion]]}
 {s:BDTexte|**Langues** commun (ne peut pas parler)}
 {s:BDTexte|**Particularités** existence éphémère, imitation de visage}
 {s:BDSousTitre|Écologie}
@@ -39,8 +39,8 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Existence éphémère (Sur).** Un étiainen est un esprit d’énergie psychique qui se manifeste uniquement lorsqu’il lui reste 1 EP au moins. Dès qu’il a dépensé sa dernière EP, il se déphase et disparaît pendant 24 heures. Au moment de son retour, il réapparaît à 30 mètres ou moins de l’endroit où il s’est déphasé.}
-{s:BDTexte|**Imitation de visage (Sur).** Quand un étiainen utilise son pouvoir de *[déguisement](./sort Déguisement.md)*, il peut prendre l’apparence d’une créature de taille P ou M uniquement. Celle-ci doit être située dans son champ de vision au moment où il utilise ce pouvoir. L’étiainen reste [intangible](./Intangible (capacité).md) une fois déguisé, mais il peut paraître tangible.}
-{s:BDTexte|**Perte de mémoire (Sur).** Quand une créature est touchée par l’attaque de contact intangible d’un étiainen, elle doit réussir un jet de [Volonté](./Volonté.md) DD 13 pour ne pas que l’étiainen puisse éliminer 1 minute des souvenirs de la créature, comme si celle-ci avait été la cible d’un sort de *[modification de mémoire](./Modification de mémoire.md)*. Une créature qui réussit ce jet de sauvegarde ne peut plus être affectée par le pouvoir de perte de mémoire d’un même étiainen pendant 24 heures. Ce pouvoir est un [effet mental](./Registre.md). Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|**Imitation de visage (Sur).** Quand un étiainen utilise son pouvoir de *[[sort Déguisement|déguisement]]*, il peut prendre l’apparence d’une créature de taille P ou M uniquement. Celle-ci doit être située dans son champ de vision au moment où il utilise ce pouvoir. L’étiainen reste [[Intangible (capacité)|intangible]] une fois déguisé, mais il peut paraître tangible.}
+{s:BDTexte|**Perte de mémoire (Sur).** Quand une créature est touchée par l’attaque de contact intangible d’un étiainen, elle doit réussir un jet de [[Volonté]] DD 13 pour ne pas que l’étiainen puisse éliminer 1 minute des souvenirs de la créature, comme si celle-ci avait été la cible d’un sort de *[[modification de mémoire]]*. Une créature qui réussit ce jet de sauvegarde ne peut plus être affectée par le pouvoir de perte de mémoire d’un même étiainen pendant 24 heures. Ce pouvoir est un [[registre|effet mental]]. Le DD du jet de sauvegarde est basé sur le Charisme.}
 
 </div></td>
 <td><div>*Contre toute attente, ce tourbillon de brume de forme vaguement humanoïde semble solide.*

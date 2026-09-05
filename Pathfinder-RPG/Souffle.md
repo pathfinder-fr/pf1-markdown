@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Souffle (capacité)
 ---
 
->>> [Souffle (capacité)](./Souffle (capacité).md)
+>>> [[Souffle (capacité)]]

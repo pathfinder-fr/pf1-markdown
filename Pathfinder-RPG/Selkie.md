@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Aquatique|Froid}
 {s:BDTexte|*Source : Bestiaire 4* p.256}
 {s:BDTexte|**PX** 1600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md), [métamorphe](./sous-type métamorphe.md)) de taille M, CN}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m, [odorat](./odorat.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]], [[sous-type métamorphe|métamorphe]]) de taille M, CN}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] à 18 m, [[odorat]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 13, pris au dépourvu 15 (Dex +3, naturelle +5)}
 {s:BDTexte|**pv** 45 (6d10+12)}
@@ -26,10 +26,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 17, **Con** 14, **Int** 13, **Sag** 10, **Cha** 19}
 {s:BDTexte|**BBA** +6, **BMO** +10, **DMD** 23 (croc-en–jambe impossible)}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Fourberie](./Fourberie.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +12, [Déguisement](./Déguisement.md) +10, [Discrétion](./Discrétion.md) +10, [Natation](./Natation.md) +21, [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +4}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Fourberie]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure)}
+{s:BDTexte|**Compétences** [[Bluff]] +12, [[Déguisement]] +10, [[Discrétion]] +10, [[Natation]] +21, [[Perception]] +9, [[Psychologie]] +4}
 {s:BDTexte|**Langues** aquatique, commun}
-{s:BDTexte|**Particularités** changement de forme (humanoïde de taille M ou P ; *modification d’apparence*), écho raisonnable, [besoin d'eau](./Besoin deau (capacité).md)}
+{s:BDTexte|**Particularités** changement de forme (humanoïde de taille M ou P ; *modification d’apparence*), écho raisonnable, [[Besoin deau (capacité)|besoin d'eau]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans froids}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-14)}
@@ -38,16 +38,16 @@ Categories:
 {s:BDTexte|**Écho raisonnable (Sur).** Une selkie peut instinctivement modifier
 l’intonation de sa voix pour rendre le discours qu’elle prononce plus
 agréable à l’oreille de ceux qui la comprennent. Lorsqu’elle utilise sa
-compétence de [Bluff](./Bluff.md), la selkie décale le niveau de crédibilité de ses
+compétence de [[Bluff]], la selkie décale le niveau de crédibilité de ses
 mensonges d’un cran à son avantage dans le cadre des bonus ou des
 malus appliqués à ses tests}
 {s:BDTexte|**Secousses (Ext).** Lors d’un coup critique réussi avec son attaque de morsure,
 la selkie secoue violemment et automatiquement sa cible si elle est de
-taille G ou inférieure. Cette dernière doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 15
+taille G ou inférieure. Cette dernière doit réussir un jet de [[Vigueur]] [[DD]] 15
 pour ne pas être hébétée pendant 1 round. Même si ce jet de sauvegarde
 est réussi, la cible subit tout de même un malus de -2 aux jets d’attaque et
-aux tests de compétences pendant les 2 prochains rounds. Le [DD](./DD.md) du jet de
-sauvegarde est basé sur la [Constitution](./Constitution.md).}
+aux tests de compétences pendant les 2 prochains rounds. Le [[DD]] du jet de
+sauvegarde est basé sur la [[Constitution]].}
 </div>
 </td><td><div>''Le corps élancé de cette créature aquatique est couvert d’une fourrure
 grise aux poils courts. L’extrémité de ses mains palmées se termine par
@@ -84,4 +84,4 @@ terre ferme. La progéniture de ces couples ressemble à leur parent
 non-selkie tout en étant irrémédiablement attirée par la mer.
 
 
-*<u>Note :</u> Suite à une erreur dans certaines V.O. et V.F. la particularité "retenir son souffle" avait été mise à la place de "besoin d'eau". Alors que la particularité "retenir son souffle" ne peut s'appliquer que sur les créatures non-aquatiques (les créatures [aquatiques](./sous-type aquatique.md) n'en ont pas besoin puisqu'elles respirent sous l'eau). L'équivalent inverse pour les créatures aquatiques non-amphibies se nomme "besoin d'eau".*</div></td></tr></table>
+*<u>Note :</u> Suite à une erreur dans certaines V.O. et V.F. la particularité "retenir son souffle" avait été mise à la place de "besoin d'eau". Alors que la particularité "retenir son souffle" ne peut s'appliquer que sur les créatures non-aquatiques (les créatures [[sous-type aquatique|aquatiques]] n'en ont pas besoin puisqu'elles respirent sous l'eau). L'équivalent inverse pour les créatures aquatiques non-amphibies se nomme "besoin d'eau".*</div></td></tr></table>

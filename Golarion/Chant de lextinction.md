@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Chant de lextinction.md).***
+***Voir les [[Pathfinder-RPG.Chant de lextinction|statistiques de cet artefact]].***
 
 Telles des vers de terre, des images de ruine serpentent à la surface de cette boîte bleu-nuit, juste assez grande pour contenir un crâne humain.
 

@@ -6,7 +6,7 @@ Categories:
 - Géographie
 ---
 
-{s:MenuContinents}L'Avistan est l'un des deux continents principaux de Golarion. Il est délimité au sud par la [mer Intérieure](./mer Intérieure.md), à l'ouest par l'[océan Arcadien](./océan Arcadien.md) et la [mer de Vapeur](./mer-de-Vapeur.md), au nord par la [Couronne du Monde](./Couronne du monde.md) et à l'est par les [montagnes du Bout du Monde](./montagnes-du-Bout-du-Monde.md) qui le séparent du continent du [Casmaron](./Casmaron.md).
+{s:MenuContinents}L'Avistan est l'un des deux continents principaux de Golarion. Il est délimité au sud par la [[mer Intérieure]], à l'ouest par l'[[océan Arcadien]] et la [[mer de Vapeur]], au nord par la [[Couronne du Monde]] et à l'est par les [[montagnes du Bout du Monde]] qui le séparent du continent du [[Casmaron]].
 
 <table style="clear:right;">
 <tr style="vertical-align: top;">
@@ -61,31 +61,31 @@ Categories:
 <td class="presentation">
 Pour obtenir plus d'informations sur une des nations de l'Avistan, cliquez sur la carte ci-contre ou sur le nom d'une des nations.
 
-- L'[Andoran](./Andoran.md)
-- Le [Belkzen](./Belkzen.md)
-- Le [Brévoy](./Brévoy.md)
-- Le [Chéliax](./Chéliax.md)
-- Le [Dernier-Rempart](./Dernier-Rempart.md)
-- Le [Druma](./Druma.md)
-- Le [Galt](./Galt.md)
-- L'île d'[Herméa](./Herméa.md)
-- L'[Irrisen](./Irrisen.md)
-- L'[Isger](./Isger.md)
-- Le [Kyonin](./Kyonin.md)
-- Le [Mendev](./Mendev.md)
-- La [Molthune](./Molthune.md)
-- Le [Nidal](./Nidal.md)
-- Le [Nirmathas](./Nirmathas.md)
-- La [Numérie](./Numérie.md)
-- La [Plaie du monde](./Plaie du monde.md)
-- Le [Qadira](./Qadira.md)
-- Le [Razmiran](./Razmiran.md)
-- Les [Royaumes des Seigneurs des Mammouths](./Royaumes des Seigneurs des Mammouths.md)
-- Les [Royaumes fluviaux](./Royaumes fluviaux.md)
-- Le [Taldor](./Taldor.md)
-- Les [Terres des Rois des Linnorms](./Terres des Rois des Linnorms.md)
-- L'[Ustalav](./Ustalav.md)
-- La [Varisie](./Varisie.md)
+- L'[[Andoran]]
+- Le [[Belkzen]]
+- Le [[Brévoy]]
+- Le [[Chéliax]]
+- Le [[Dernier-Rempart]]
+- Le [[Druma]]
+- Le [[Galt]]
+- L'île d'[[Herméa]]
+- L'[[Irrisen]]
+- L'[[Isger]]
+- Le [[Kyonin]]
+- Le [[Mendev]]
+- La [[Molthune]]
+- Le [[Nidal]]
+- Le [[Nirmathas]]
+- La [[Numérie]]
+- La [[Plaie du monde]]
+- Le [[Qadira]]
+- Le [[Razmiran]]
+- Les [[Royaumes des Seigneurs des Mammouths]]
+- Les [[Royaumes fluviaux]]
+- Le [[Taldor]]
+- Les [[Terres des Rois des Linnorms]]
+- L'[[Ustalav]]
+- La [[Varisie]]
 </td>
 </tr>
 </table>

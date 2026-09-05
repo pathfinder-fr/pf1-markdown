@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Recroquevillé
 ---
 
->>> [États préjudiciables#Recroquevillé](./États préjudiciables.md#Recroquevillé)
+>>> [[États préjudiciables#Recroquevillé]]

@@ -9,7 +9,7 @@ LastModified: 2023-09-27 10:17
 <ul>Voir la [discussion](http://www.pathfinder-fr.org/Forum/yaf_postsm449481_-AdJ--La-perception.aspx#post449481)</ul>
 </div>
 
-Ceci est une aide de jeu pour simplifier les calculs de DD sur les jets de [++Pathfinder-RPG.Perception|Perception].
+Ceci est une aide de jeu pour simplifier les calculs de DD sur les jets de [[Pathfinder-RPG.Perception|Perception]].
 
 J'utilise les termes de :{br}
 - <u>source</u> elle représente la source du son, de l'odeur, du monstre ou autre chose que l'on essaye de détecter,{br}
@@ -137,7 +137,7 @@ Certaines actions peuvent être facilitées ou compliquées par l'environnement 
 - Un personnage ne vois rien lorsqu'il dort sauf si on lui envoie une lumière forte en plein visage.{br}
 - On ne peut rien voir dans le noir complet sauf pour certaines races et créatures.{br}
 - Les créatures aveugles ne peuvent utiliser la vue.{br}
-- Les règles gérant la perception de créatures invisibles se trouvent [ici](./Pathfinder-RPG-Capacit%C3%A9s%20sp%C3%A9ciales-ashx.md#INVISIBILITE)
+- Les règles gérant la perception de créatures invisibles se trouvent [[Pathfinder-RPG.Capacit%C3%A9s%20sp%C3%A9ciales.ashx#INVISIBILITE|ici]]
 
 ### Portée des tests visuels
 
@@ -185,7 +185,7 @@ Certaines actions peuvent être facilitées ou compliquées par l'environnement 
 
 |}
 
-Les lumières modifient les portées des tests visuels, veuillez regarder cette page de wiki pour en savoir plus : [La règle complémentaire sur la lumière](./../Pathfinder-RPG/Exploration.md#VISIONLUMIERE).{br}
+Les lumières modifient les portées des tests visuels, veuillez regarder cette page de wiki pour en savoir plus : [[Pathfinder-RPG.Exploration#VISIONLUMIERE|La règle complémentaire sur la lumière]].{br}
 
 
 ## Régles maisons
@@ -193,7 +193,7 @@ Les lumières modifient les portées des tests visuels, veuillez regarder cette 
 ### Faire 5
 
 Pour ne pas donner d'indications aux joueurs, le MJ peut souhaiter savoir si un PJ détecte quelque chose sans lui demander de faire un test de perception, ce qui lui mettrait sûrement la puce à l'oreille.{br}
-Pour rappel, le personnage à 3 options pour faire un test : utiliser son dé 20, utiliser la règle du "[++Pathfinder-RPG.Compétences#FAIRE10|faire 10]", utiliser la règle du "[++Pathfinder-RPG.Compétences.ashx#FAIRE10|faire 20]".{br}
+Pour rappel, le personnage à 3 options pour faire un test : utiliser son dé 20, utiliser la règle du "[[Pathfinder-RPG.Compétences#FAIRE10|faire 10]]", utiliser la règle du "[[Pathfinder-RPG.Compétences.ashx#FAIRE10|faire 20]]".{br}
 Ici nous considérons qu'il n'est pas attentif à ce qu'il fait et pour cause le joueur ne pense même pas à faire chercher son personnage. Le MJ peut donc considérer que le joueur aurait eu 5 à son lancer de dé soit la règle du "faire 5".{br}
 exemple :{br}
 - il y a un piège avec un DD de détection de 17,{br}
@@ -210,10 +210,10 @@ exemple :{br}
 
 
 ### Informations consultées
-<sub>[La compétence perception](./../Pathfinder-RPG/Perception.md){br}
-[Les pages sur le climat](./../Pathfinder-RPG/Climat.md){br}
-[Les aides de jeu pour les environnements extérieurs](./../Pathfinder-RPG/Milieu urbain.md){br}
-[Invisibilité](./Pathfinder-RPG-Capacit%C3%A9s%20sp%C3%A9ciales-ashx.md#INVISIBILITE){br}
+<sub>[[Pathfinder-RPG.Perception|La compétence perception]]{br}
+[[Pathfinder-RPG.Climat|Les pages sur le climat]]{br}
+[[Pathfinder-RPG.Milieu urbain|Les aides de jeu pour les environnements extérieurs]]{br}
+[[Pathfinder-RPG.Capacit%C3%A9s%20sp%C3%A9ciales.ashx#INVISIBILITE|Invisibilité]]{br}
 </sub>
 
 </center></div></div>

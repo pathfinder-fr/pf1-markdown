@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:RSE}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** —
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Ces cristaux au goût désagréable développés par alchimie diffusent de l’air respirable lorsqu’on les mâche. Une bourse de cristaux fournit de l’air pendant une minute. Il faut une [action simple](./Action simple.md) pour placer les cristaux dans sa bouche et une [action libre](./Action libre.md) par [round](./round.md) pour les mâcher. Si le personnage tente de parler alors qu’il mâche des cristaux d’air, l’effet prend fin immédiatement.
+Ces cristaux au goût désagréable développés par alchimie diffusent de l’air respirable lorsqu’on les mâche. Une bourse de cristaux fournit de l’air pendant une minute. Il faut une [[action simple]] pour placer les cristaux dans sa bouche et une [[action libre]] par [[round]] pour les mâcher. Si le personnage tente de parler alors qu’il mâche des cristaux d’air, l’effet prend fin immédiatement.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Dragon#ECRASEMENT
 ---
 
->>> [Dragon#ECRASEMENT](./dragon.md#ECRASEMENT)
+>>> [[Dragon#ECRASEMENT]]

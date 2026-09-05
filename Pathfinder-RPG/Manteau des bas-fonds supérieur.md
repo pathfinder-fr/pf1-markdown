@@ -10,13 +10,13 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Manteau des bas-fonds supérieur|{s:UI}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [torse](./Objets merveilleux portés sur le torse.md) ; **Prix** 37 500 po ; **Poids** 2,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 37 500 po ; **Poids** 2,5 kg
 (((Description)))
-{s:cs}Ce manteau fonctionne comme un *[manteau des bas-fonds](./Manteau des bas-fonds.md)*, sauf qu'il transforme le porteur en [cafard venimeux](./Cafard géant.md) comme avec *[forme de vermine II](./Forme de vermine II.md)*.
+{s:cs}Ce manteau fonctionne comme un *[[manteau des bas-fonds]]*, sauf qu'il transforme le porteur en [[Cafard géant|cafard venimeux]] comme avec *[[forme de vermine II]]*.
 
-Autrement, le porteur peut prendre la forme d'une nuée de cafards géants. Cette nuée de vermines Minuscules a un nombre de [points de vie](./pv.md) égal à celui du porteur, utilise les valeurs de caractéristiques mentales, les compétences et les jets de sauvegarde du porteur, et gagne un bonus de résistance de +2 aux [jets de sauvegarde](./JDS.md) contre les [effets mentaux](./Registre.md) au lieu d'être immunisé contre eux. La nuée possède par ailleurs les mêmes vitesses, classe d'armure, traits des nuées, dégâts de nuée, capacités de distraction et de maladie qu'une [nuée de rats](./Nuée de rats.md) typique (y compris les capacités ayant un [DD](./DD.md) de 12). Lorsqu'il est sous forme de nuée, le porteur ne peut utiliser aucune de ses capacités activables (extraordinaires, surnaturelles, magiques ou autre), lancer des sorts ou utiliser des objets, mais il peut mettre fin à l'effet par une [action simple](./Action simple.md).
+Autrement, le porteur peut prendre la forme d'une nuée de cafards géants. Cette nuée de vermines Minuscules a un nombre de [[pv|points de vie]] égal à celui du porteur, utilise les valeurs de caractéristiques mentales, les compétences et les jets de sauvegarde du porteur, et gagne un bonus de résistance de +2 aux [[jds|jets de sauvegarde]] contre les [[registre|effets mentaux]] au lieu d'être immunisé contre eux. La nuée possède par ailleurs les mêmes vitesses, classe d'armure, traits des nuées, dégâts de nuée, capacités de distraction et de maladie qu'une [[nuée de rats]] typique (y compris les capacités ayant un [[DD]] de 12). Lorsqu'il est sous forme de nuée, le porteur ne peut utiliser aucune de ses capacités activables (extraordinaires, surnaturelles, magiques ou autre), lancer des sorts ou utiliser des objets, mais il peut mettre fin à l'effet par une [[action simple]].
 
 L'une ou l'autre de ces transformations ne peut se produire que dans un environnement urbain. Le porteur peut rester transformé jusqu'à 9 minutes par jour. Cette durée n'a pas à être consécutive, mais doit être dépensée par tranche de 1 minute.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[forme de vermine II](./Forme de vermine II.md)* ; **Coût** 18 750 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[forme de vermine II]]* ; **Coût** 18 750 po
 </div>

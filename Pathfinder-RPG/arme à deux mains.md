@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#ARMEADEUXMAINS
 ---
 
->>> [Caractéristiques des armes#ARMEADEUXMAINS](./Caractéristiques des armes.md#ARMEADEUXMAINS)
+>>> [[Caractéristiques des armes#ARMEADEUXMAINS]]

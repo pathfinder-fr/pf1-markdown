@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Quand le personnage et son eidolon partagent leurs sens, leurs esprits combinés les dotent de pouvoirs d’observation exceptionnels. *
 
-**Condition.** [Sens liés](./Conjurateur.md#SENSLIES)
+**Condition.** [[conjurateur#SENSLIES|Sens liés]]
 
-**Avantage.** Quand le personnage partage ses sens avec son [eidolon](./eidolon.md), il gagne un bonus de compétence de +4 aux tests de [Perception](./Perception.md) tant que dure le pouvoir de sens liés.
+**Avantage.** Quand le personnage partage ses sens avec son [[eidolon]], il gagne un bonus de compétence de +4 aux tests de [[Perception]] tant que dure le pouvoir de sens liés.

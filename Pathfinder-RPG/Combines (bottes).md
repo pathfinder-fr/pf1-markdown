@@ -6,11 +6,11 @@ LastModified: 2017-03-13 21:14
 
 Pour utiliser ces combines, vous pouvez utiliser une paire de bottes ou n’importe quelle sorte de chaussures qui bénéficient de semelles dures. Ces combines peuvent être utilisées que ce soit avec des bottes normales ou des bottes magiques.
 
-- **coup de crampon** ([Science du combat à mains nues](./Science du combat à mains nues.md)) Lorsque vous réussissez un coup à mains nues contre un adversaire en portant une paire de bottes à crampons, la cible subit 1 point de [saignement](./Saignement.md). Le saignement peut être interrompu par un test réussi de [Premiers Secours](./Premiers secours.md) ou par des soins magiques. Les effets de cette combine se cumulent avec d'autres sources de saignement mais pas avec d'autres dégâts de saignements infligés par cette combine.
+- **coup de crampon** ([[Science du combat à mains nues]]) Lorsque vous réussissez un coup à mains nues contre un adversaire en portant une paire de bottes à crampons, la cible subit 1 point de [[saignement]]. Le saignement peut être interrompu par un test réussi de [[Premiers Secours]] ou par des soins magiques. Les effets de cette combine se cumulent avec d'autres sources de saignement mais pas avec d'autres dégâts de saignements infligés par cette combine.
 
-- **orteils écrasés.** ([Science du sale coup](./Science du sale coup.md))
+- **orteils écrasés.** ([[Science du sale coup]])
 
-- **changement de cap.** ([Attaques réflexes](./Attaques réflexes.md))
+- **changement de cap.** ([[Attaques réflexes]])
 
 
 (((Boot Tricks

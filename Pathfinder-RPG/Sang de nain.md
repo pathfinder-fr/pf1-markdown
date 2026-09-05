@@ -6,10 +6,10 @@ LastModified: 2015-11-20 01:04
 
 *L’oréade a du sang nain dans les veines.*
 
-**Conditions requises.** [Oréade](./Oréade (race).md).
+**Conditions requises.** [[Oréade (race)|Oréade]].
 
 **Avantages.** L’héritage nain de l’oréade se manifeste de
 deux manières. Tout d’abord, sa vitesse n’est jamais modifiée
 par l’armure ou l’encombrement, comme pour le trait racial
-[nain](./Nain.md) lentement mais sûrement. Ensuite, l’oréade gagne le
-trait racial [nain](./Nain.md) connaissance de la pierre.
+[[nain]] lentement mais sûrement. Ensuite, l’oréade gagne le
+trait racial [[nain]] connaissance de la pierre.

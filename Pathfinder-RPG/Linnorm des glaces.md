@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Dragon|Montagnes|Froid}
 {s:BDTexte|*Source : Bestiaire* p.200}
 {s:BDTexte|**PX** 102.400}
-{s:BDTexte|[Dragon](./type Dragon.md) de taille C, CM}
-{s:BDTexte|**Init** +10 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), vision lucide, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +26}
+{s:BDTexte|[[type Dragon|Dragon]] de taille C, CM}
+{s:BDTexte|**Init** +10 ; **Sens** [[odorat]], [[vision dans le noir]] 36 m (24 {s:c}), vision lucide, [[vision nocturne]] ; [[Perception]] +26}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 32, contact 8, pris au dépourvu 26 (Dex +6, naturelle +24, taille -8)}
 {s:BDTexte|**pv** 279 (18d12+162) ; régénération 10 (fer froid)}
@@ -23,28 +23,28 @@ Categories:
 {s:BDTexte|**Capacités défensives** liberté de mouvement ; **Immunités** effets mentaux, froid, malédictions, paralysie, poison, sommeil ; **RD** 15/fer froid ; **RM** 28 }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), escalade 12 m (8 {s:c}), nage 12 m (8 {s:c}), vol 30 m (20 {s:c}) (moyenne)}
-{s:BDTexte|**Corps à corps** morsure, +24 (3d8+14/19-20 et poison), 2 griffes, +24 (2d6+14), queue, +19 (3d6+7 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure, +24 (3d8+14/19-20 et poison), 2 griffes, +24 (2d6+14), queue, +19 (3d6+7 et [[étreinte]])}
 {s:BDTexte|**Espace** 9 m (6 {s:c}) ; **Allonge** 9 m (6 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (queue, 3d6+21), malédiction mortelle, souffle}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (queue, 3d6+21), malédiction mortelle, souffle}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 38, **Dex** 22, **Con** 29, **Int** 5, **Sag** 20, **Cha** 23}
-{s:BDTexte|**BBA** +18, **BMO** +40 (+44 [lutte](./lutte.md)), **DMD** 56 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science du critique](./Science du critique.md) (morsure)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +43, [Natation](./Natation.md) +22, [Perception](./Perception.md) +26, [Vol](./Vol.md) +19}
+{s:BDTexte|**BBA** +18, **BMO** +40 (+44 [[lutte]]), **DMD** 56 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Combat en aveugle]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science du critique]] (morsure)}
+{s:BDTexte|**Compétences** [[Escalade]] +43, [[Natation]] +22, [[Perception]] +26, [[Vol]] +19}
 {s:BDTexte|**Langues** aklo, draconique, sylvestre}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines et montagnes froides}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** triple}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Liberté de mouvement (Ext).** Cette capacité constante fonctionne comme le sort *[liberté de mouvement](./Liberté de mouvement.md)*. Ses effets ne peuvent pas être dissipés.}
-{s:BDTexte|**Malédiction mortelle (Sur).** Lorsqu'une créature tue un linnorm des glaces, la malédiction du froid s'abat sur elle. *Malédiction du froid* : *JS* [Volonté](./Volonté.md) [DD](./DD.md) 25 ; *effet* la créature devient [vulnérable](./Vulnérabilités (capacité).md) au froid. Le [DD](./DD.md) dépend du [Charisme](./Charisme.md).}
-{s:BDTexte|**Poison (Ext).** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 28 ; *fréquence* 1/round pendant 10 rounds ; *effet* 4d6 points de dégâts de froid et [diminution permanente](./diminution permanente.md) 1d6 [Con](./Constitution.md) ; *guérison* 3 réussites consécutives. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Souffle (Ext).** Par une [action simple](./Action simple.md) utilisable une fois touts les 1d4 rounds, un linnorm des glaces peut cracher un [cône](./cône.md) de mucus glacial et visqueux de 18 m (12 {s:c}) de longueur et infliger 18d8 points de dégâts de froid à toutes les créatures touchées ([Réflexes](./Réflexes.md) [DD](./DD.md) 28, 1/2 dégâts). Le mucus colle aux créatures touchées et le tour suivant, il durcit en une épaisse couche de glace. Les créatures qui ont subi des dégâts sont maintenues immobiles à moins qu'elles ne parviennent à se libérer de la glace avec un test de [Force](./Force.md) ou de [BMO](./BMO.md) contre un [DD](./DD.md) de 25. Sans cela, elles subissent 1d6 points de dégâts de froid chaque round où elles restent emprisonnées dans la glace. Un allié peut venir en aide à une créature immobilisée en arrachant la glace (cela prend 1d4 rounds) ou en infligeant au moins 20 points de dégâts de feu à la créature piégée. Sans intervention extérieure, la glace se brise au bout de 2d4 rounds. Les créatures du sous-type du [Feu](./sous-type Feu.md) ne peuvent pas être immobilisées par ce souffle. Si une créature volante dons la capacité à voler n'est pas surnaturelle vient à être immobilisée par ce souffle, elle tombe vers le sol. S'il s'agit d'une créature qui nage, elle remonte vers la surface à une vitesse de 18 m (12 {s:c}) par round. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Vision lucide (Ext).** Cette capacité constante fonctionne comme le sort de *[vision lucide](./Vision lucide.md)*.}
+{s:BDTexte|**Liberté de mouvement (Ext).** Cette capacité constante fonctionne comme le sort *[[liberté de mouvement]]*. Ses effets ne peuvent pas être dissipés.}
+{s:BDTexte|**Malédiction mortelle (Sur).** Lorsqu'une créature tue un linnorm des glaces, la malédiction du froid s'abat sur elle. *Malédiction du froid* : *JS* [[Volonté]] [[DD]] 25 ; *effet* la créature devient [[vulnérabilités (capacité)|vulnérable]] au froid. Le [[DD]] dépend du [[Charisme]].}
+{s:BDTexte|**Poison (Ext).** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 28 ; *fréquence* 1/round pendant 10 rounds ; *effet* 4d6 points de dégâts de froid et [[diminution permanente]] 1d6 [[Constitution|Con]] ; *guérison* 3 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
+{s:BDTexte|**Souffle (Ext).** Par une [[action simple]] utilisable une fois touts les 1d4 rounds, un linnorm des glaces peut cracher un [[cône]] de mucus glacial et visqueux de 18 m (12 {s:c}) de longueur et infliger 18d8 points de dégâts de froid à toutes les créatures touchées ([[Réflexes]] [[DD]] 28, 1/2 dégâts). Le mucus colle aux créatures touchées et le tour suivant, il durcit en une épaisse couche de glace. Les créatures qui ont subi des dégâts sont maintenues immobiles à moins qu'elles ne parviennent à se libérer de la glace avec un test de [[Force]] ou de [[BMO]] contre un [[DD]] de 25. Sans cela, elles subissent 1d6 points de dégâts de froid chaque round où elles restent emprisonnées dans la glace. Un allié peut venir en aide à une créature immobilisée en arrachant la glace (cela prend 1d4 rounds) ou en infligeant au moins 20 points de dégâts de feu à la créature piégée. Sans intervention extérieure, la glace se brise au bout de 2d4 rounds. Les créatures du sous-type du [[sous-type Feu|Feu]] ne peuvent pas être immobilisées par ce souffle. Si une créature volante dons la capacité à voler n'est pas surnaturelle vient à être immobilisée par ce souffle, elle tombe vers le sol. S'il s'agit d'une créature qui nage, elle remonte vers la surface à une vitesse de 18 m (12 {s:c}) par round. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|**Vision lucide (Ext).** Cette capacité constante fonctionne comme le sort de *[[vision lucide]]*.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [linnorms](./Linnorms.md).***</li></ul>*Lorsque ce gigantesque serpent monstrueux à tête de dragon se dresse, des blocs de neige et de glace glissent le long de ses flancs.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Linnorms]].***</li></ul>*Lorsque ce gigantesque serpent monstrueux à tête de dragon se dresse, des blocs de neige et de glace glissent le long de ses flancs.*
 
 Le linnorm des glaces vit dans les crevasses glacières ou au sommet
 des pics montagneux battus par les vents. Certaines histoires parlent

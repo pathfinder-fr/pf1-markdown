@@ -16,11 +16,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [abjuration](./Abjuration.md) ; **Niveau** [Apal](./Antipaladin.md) 2, [Bard](./Barde.md) 2, [Inq](./Inquisiteur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Pal](./Paladin.md) 2, [Psy](./Psychiste.md) 2, [Rôd](./Rôdeur.md) 2, [Sor](./Sorcière.md) 2
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (1 à 4 balles en adamantium, valant chacune 61 po)
+{s:MCA}**École** [[abjuration]] ; **Niveau** [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Paladin|Pal]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2, [[Sorcière|Sor]] 2
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (1 à 4 balles en adamantium, valant chacune 61 po)
 **Portée** personnelle
 **Cible** le lanceur de sorts
 **Durée** 10 minutes/niveau ou jusqu’à déchargement
 
-Le personnage lance plusieurs balles en adamantium en l’air, qui se mettent alors à planer près de lui et à le protéger en interceptant les attaques d’armes à feu qui le visent. Le nombre de balles protégeant le personnage est égal à la moitié de son niveau de lanceur (4 au maximum). Quand un adversaire tire sur lui avec une arme à feu, le personnage peut, par une [action immédiate](./Action immédiate.md), désigner une balle qui plane afin qu’elle tente de bloquer l’attaque, augmentant ainsi sa [CA](./CA.md) de 10 contre cette attaque. Ce faisant, la balle en adamantium est détruite, que l’attaque touche ou non. Ce sort est déchargé quand toutes les balles en adamantium affectées sont détruites ou arrachées au personnage. Chaque balle en adamantium a une CA de 24, 20 points de vie et une solidité de 20.
+Le personnage lance plusieurs balles en adamantium en l’air, qui se mettent alors à planer près de lui et à le protéger en interceptant les attaques d’armes à feu qui le visent. Le nombre de balles protégeant le personnage est égal à la moitié de son niveau de lanceur (4 au maximum). Quand un adversaire tire sur lui avec une arme à feu, le personnage peut, par une [[action immédiate]], désigner une balle qui plane afin qu’elle tente de bloquer l’attaque, augmentant ainsi sa [[CA]] de 10 contre cette attaque. Ce faisant, la balle en adamantium est détruite, que l’attaque touche ou non. Ce sort est déchargé quand toutes les balles en adamantium affectées sont détruites ou arrachées au personnage. Chaque balle en adamantium a une CA de 24, 20 points de vie et une solidité de 20.

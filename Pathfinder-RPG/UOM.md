@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Utilisation dObjets magiques
 ---
 
->>> [Utilisation dObjets magiques](./Utilisation dObjets Magiques.md)
+>>> [[Utilisation dObjets magiques]]

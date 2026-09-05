@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Rafale
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Rafale](./Descriptions individuelles des propriétés spéciales des armes.md#Rafale)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Rafale]]

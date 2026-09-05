@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-Quent est l'une des cités portuaires des [Entraves](./Entraves.md).
+Quent est l'une des cités portuaires des [[Entraves]].
 
-Il s'agit sans doute du port où l'on retrouve le plus de lieux de débauches de tout l'archipel. Cette profusion attire de nombreux navires et fait de la cité l'une des plus vivantes et des mieux informées des [Entraves](./Entraves.md).
+Il s'agit sans doute du port où l'on retrouve le plus de lieux de débauches de tout l'archipel. Cette profusion attire de nombreux navires et fait de la cité l'une des plus vivantes et des mieux informées des [[Entraves]].
 
 Il n'est pas rare d'y trouver, amarrée à ses quais, la *Chance du Jeu*, la corvette de la Capitaine Libre Tessa Bonvent.

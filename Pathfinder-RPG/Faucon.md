@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.136*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 17, **Con** 11, **Int** 2, **Sag** 14, **Cha** 7}
 {s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 9}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +14, [Vol](./Vol.md) +7 ; **Modificateurs raciaux** [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Perception]] +14, [[Vol]] +7 ; **Modificateurs raciaux** [[Perception]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
@@ -45,7 +45,7 @@ Vous pouvez créer un profil pour un faucon pèlerin en appliquant l’archétyp
 
 #### Le Faucon comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 3 m (2 {s:c}), vol 24 m (16 {s:c}, moyenne); **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 serres (1d4) ; **Caractéristiques** For 10, Dex 15, Con 12, Int 2, Sag 14, Cha 6 ; **Particularités** [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 3 m (2 {s:c}), vol 24 m (16 {s:c}, moyenne); **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 serres (1d4) ; **Caractéristiques** For 10, Dex 15, Con 12, Int 2, Sag 14, Cha 6 ; **Particularités** [[vision nocturne]].
 
 **Développement au niveau 4.** **Caractéristiques** For +2, Con +2.
 

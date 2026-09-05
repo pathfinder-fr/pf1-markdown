@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Ce mélange de farine, de lait en poudre, de natron, de sucre et de sel se conserve plusieurs mois dans une boîte hermétique. Lorsqu’il est mélangé à de l’eau (les œufs ne sont pas indispensables), il forme une pâte avec laquelle le personnage peut faire des biscuits (ou d’autres préparations rapides comme les pancakes, les gaufres, les scones ou les muffins) ou un gâteau. 0,5 kg de préparation à gâteau permet de faire une douzaine de biscuits.

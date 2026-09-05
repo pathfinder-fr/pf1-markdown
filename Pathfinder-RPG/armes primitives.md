@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Tableau récapitulatif des armes primitives#ARMESPRIMITIVES
 ---
 
->>> [Tableau récapitulatif des armes primitives#ARMESPRIMITIVES](./Tableau-récapitulatif-des-armes-primitives.md#ARMESPRIMITIVES)
+>>> [[Tableau récapitulatif des armes primitives#ARMESPRIMITIVES]]

@@ -7,24 +7,24 @@ Categories:
 - Sort hypnotiseur 1
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[lumière](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 1, [Hyp](./Hypnotiseur.md) 1  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 1, [[Hypnotiseur|Hyp]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
 
-**Zone d'effet** créatures et objets pris dans un [rayonnement](./rayonnement.md) de 1,50 m (1 {s:c}) de rayon  
+**Zone d'effet** créatures et objets pris dans un [[rayonnement]] de 1,50 m (1 {s:c}) de rayon  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Une lueur blafarde entoure les cibles, ce qui les rend plus visibles. Cette lumière éclaire autant qu’une bougie. Les créatures affectées subissent un malus de -20 aux tests de [Discrétion](./Discrétion.md) et ne peuvent bénéficier du [camouflage](./camouflage.md) normalement lié à l’obscurité (bien qu’un sort de *[ténèbres](./Ténèbres.md)* de 2e niveau ou plus fonctionne normalement) ou à des sorts tels que *[déplacement](./Déplacement.md)*, *[flou](./Flou.md)* ou *[invisibilité](./Invisibilité.md)*. La lumière est trop faible pour avoir un quelconque effet spécial sur les [morts-vivants](./type Mort-vivant.md) ou les créatures vivant dans le noir et vulnérables à la lumière. La *lueur féerique* peut être bleue, verte ou violette, ce choix étant effectué lors de l’incantation. Elle ne fait aucun mal aux objets ou créatures qu’elle entoure.
+Une lueur blafarde entoure les cibles, ce qui les rend plus visibles. Cette lumière éclaire autant qu’une bougie. Les créatures affectées subissent un malus de -20 aux tests de [[Discrétion]] et ne peuvent bénéficier du [[camouflage]] normalement lié à l’obscurité (bien qu’un sort de *[[ténèbres]]* de 2e niveau ou plus fonctionne normalement) ou à des sorts tels que *[[déplacement]]*, *[[flou]]* ou *[[invisibilité]]*. La lumière est trop faible pour avoir un quelconque effet spécial sur les [[type mort-vivant|morts-vivants]] ou les créatures vivant dans le noir et vulnérables à la lumière. La *lueur féerique* peut être bleue, verte ou violette, ce choix étant effectué lors de l’incantation. Elle ne fait aucun mal aux objets ou créatures qu’elle entoure.
 
 ### Mythique
 {s:CMy}
-Les créatures entourées par la lueur sont éblouies. Le sort entoure les illusions de type chimère situées dans le rayonnement et révèle leur véritable nature. Cet effet s’applique uniquement aux chimères dont le [niveau de lanceur de sorts](./NLS.md) est égal ou inférieur au [grade](./Grade.md) du personnage.
+Les créatures entourées par la lueur sont éblouies. Le sort entoure les illusions de type chimère situées dans le rayonnement et révèle leur véritable nature. Cet effet s’applique uniquement aux chimères dont le [[NLS|niveau de lanceur de sorts]] est égal ou inférieur au [[grade]] du personnage.
 
-**[Amplifié](./Amplifié.md) (2ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), chaque créature dans le rayonnement doit réussir un jet de [Vigueur](./Vigueur.md) pour ne pas être aveuglée pendant un round.
+**[[Amplifié]] (2ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], chaque créature dans le rayonnement doit réussir un jet de [[Vigueur]] pour ne pas être aveuglée pendant un round.

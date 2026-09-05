@@ -14,52 +14,52 @@ Traduit et publié en français par Black Book Editions sous le nom de [Guide de
 ### Dons
 Les dons marqués d'un astérisque (H) sont des dons d'histoire.
 <div class="article_3col">
-[Aperçu de l’Au-delà](./Aperçu de lAu-delà.md)<sup>H</sup>,
-[Champion](./Champion.md)<sup>H</sup>,
-[Chercheur de l’étrange](./Chercheur de létrange.md)<sup>H</sup>,
-[Cœur animal](./Cœur animal.md)<sup>H</sup>,
-[Constructeur de monuments](./Constructeur de monuments.md)<sup>H</sup>,
-[Constructeur de nation](./Constructeur de nation.md)<sup>H</sup>,
-[Damné](./Damné.md)<sup>H</sup>,
-[Forteresse](./Forteresse.md)<sup>H</sup>,
-[Fruit de la honte](./Fruit de la honte.md)<sup>H</sup>,
-[Grand amour](./Grand amour.md)<sup>H</sup>,
-[Grand œuvre](./Grand œuvre.md)<sup>H</sup>,
-[Guérisseur de combat](./Guérisseur de combat.md)<sup>H</sup>,
-[Héritage perdu](./Héritage perdu.md)<sup>H</sup>,
-[Justicier de la ville](./Justicier de la ville.md)<sup>H</sup>,
-[Libérateur](./Libérateur.md)<sup>H</sup>,
-[Maudit](./Maudit.md)<sup>H</sup>,
-[Némésis](./Némésis.md)<sup>H</sup>,
-[Passé oublié](./Passé oublié.md)<sup>H</sup>,
-[Prophète](./Prophète.md)<sup>H</sup>,
-[Rédemption](./Rédemption.md)<sup>H</sup>,
-[Refuser la mort (GC)](./Refuser la mort GC.md)<sup>H</sup>,
-[Renaissance](./Renaissance.md)<sup>H</sup>,
-[Sang innocent](./Sang innocent.md)<sup>H</sup>,
-[Souvenir](./Souvenir.md)<sup>H</sup>,
-[Tueur d’ennemis](./Tueur dennemis.md)<sup>H</sup>,
-[Voleur de légende](./Voleur de légende.md)<sup>H</sup>,
-[Zèle téméraire](./Zèle téméraire.md)<sup>H</sup>,
-[Vengeance](./Vengeance.md)<sup>H</sup>.
+[[Aperçu de lAu-delà|Aperçu de l’Au-delà]]<sup>H</sup>,
+[[Champion]]<sup>H</sup>,
+[[Chercheur de létrange|Chercheur de l’étrange]]<sup>H</sup>,
+[[Cœur animal]]<sup>H</sup>,
+[[Constructeur de monuments]]<sup>H</sup>,
+[[Constructeur de nation]]<sup>H</sup>,
+[[Damné]]<sup>H</sup>,
+[[Forteresse]]<sup>H</sup>,
+[[Fruit de la honte]]<sup>H</sup>,
+[[Grand amour]]<sup>H</sup>,
+[[Grand œuvre]]<sup>H</sup>,
+[[Guérisseur de combat]]<sup>H</sup>,
+[[Héritage perdu]]<sup>H</sup>,
+[[Justicier de la ville]]<sup>H</sup>,
+[[Libérateur]]<sup>H</sup>,
+[[Maudit]]<sup>H</sup>,
+[[Némésis]]<sup>H</sup>,
+[[Passé oublié]]<sup>H</sup>,
+[[Prophète]]<sup>H</sup>,
+[[Rédemption]]<sup>H</sup>,
+[[Refuser la mort GC|Refuser la mort (GC)]]<sup>H</sup>,
+[[Renaissance]]<sup>H</sup>,
+[[Sang innocent]]<sup>H</sup>,
+[[Souvenir]]<sup>H</sup>,
+[[Tueur dennemis|Tueur d’ennemis]]<sup>H</sup>,
+[[Voleur de légende]]<sup>H</sup>,
+[[Zèle téméraire]]<sup>H</sup>,
+[[Vengeance]]<sup>H</sup>.
 </div>
 
 
 ### Règles officielles
 <div class="article_3col">
-[L'historique du personnage](./Historique du personnage.md),
-[Générateur d'historique](./Générateur dhistorique.md),
-[Dons d'histoire](./Dons dhistoire.md),
-[Les intermèdes](./Intermèdes.md),
-[Les systèmes de campagne](./Systèmes de campagne.md),
-[Les royaumes et la guerre](./Royaumes et guerre.md),
-[Le combat de masse](./Combat de masse.md).
+[[Historique du personnage|L'historique du personnage]],
+[[Générateur dhistorique|Générateur d'historique]],
+[[Dons dhistoire|Dons d'histoire]],
+[[Intermèdes|Les intermèdes]],
+[[Systèmes de campagne|Les systèmes de campagne]],
+[[Royaumes et guerre|Les royaumes et la guerre]],
+[[Combat de masse|Le combat de masse]].
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Handicaps](./Handicaps.md).**
+**[[Handicaps]].**
 Amoureux transi,
 Attaché,
 Cupidité,
@@ -78,7 +78,7 @@ Vaniteux,
 Xénophobe,
 Zélé.
 
-**[Base (combat)](./Traits de combat.md).**
+**[[Traits de combat|Base (combat)]].**
 Agile pour esquiver,
 Aiguillon insaisissable,
 Anatomiste,
@@ -120,7 +120,7 @@ Tacticien,
 Téméraire,
 Tueur.
 
-**[Base (foi)](./Traits de foi.md).**
+**[[Traits de foi|Base (foi)]].**
 Absence de peur,
 Assujetti,
 Béni,
@@ -153,7 +153,7 @@ Présage,
 Réincarné,
 Toucher sacré.
 
-**[Base (magie)](./Traits de magie.md).**
+**[[Traits de magie|Base (magie)]].**
 Adepte de l'alchimie,
 Adepte doué,
 Apprenti réticent,
@@ -208,7 +208,7 @@ Transformation tenace,
 Utilisateur pragmatique,
 Vitesse désespérée.
 
-**[Base (social)](./Traits sociaux.md).**
+**[[Traits sociaux|Base (social)]].**
 Acrobate,
 Adopté,
 Agent de la vérité,
@@ -255,7 +255,7 @@ Talentueux,
 Tyran,
 Vie de labeur.
 
-**[Raciaux](./Traits de race.md).**
+**[[Traits de race|Raciaux]].**
 Apprenti raté (demi-elfe),
 Réflexes elfiques (demi-elfe),
 Brute (demi-orque),
@@ -277,7 +277,7 @@ Sang des dragons (lignage),
 Touché par la mort (lignage),
 Sang des fiélons (lignage).
 
-**[Régionaux](./Traits régionaux.md).**
+**[[Traits régionaux|Régionaux]].**
 Draveur (forêt),
 Enfant de la savane (plaines),
 Enfant de la toundra (toundra ou région froide),
@@ -290,7 +290,7 @@ Habitant des hautes terres (collines ou montagnes),
 Milicien vétéran (n’importe quelle ville ou village),
 Pirate des rivières (marécage ou rivière).
 
-**[Religieux](./Traits religieux.md).**
+**[[Traits religieux|Religieux]].**
 Buveur résistant (dieu des aventuriers),
 Chasseur de démon d’Asmodéus (dieu-diable des contrats),
 Colère dévastatrice (dieu de la destruction),

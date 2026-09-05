@@ -16,166 +16,166 @@ Categories:
 |- CLASS="titre"
 | D100 || Bâton intermédiaire inférieur || Prix(po)
 |- CLASS="premier"
-| 01-10 || [Bâton de soulagement béni](./Bâton de soulagement béni.md) || 7 200
+| 01-10 || [[Bâton de soulagement béni]] || 7 200
 |-
-| 11-20 || [Bâton des arcanes mineures](./Bâton des arcanes mineures.md) || 8 000
+| 11-20 || [[Bâton des arcanes mineures]] || 8 000
 |-
-| 21-30 || [Bâton d’astuces](./Bâton dastuces.md) || 8 800
+| 21-30 || [[Bâton dastuces|Bâton d’astuces]] || 8 800
 |-
-| 31-44 || [Bâton de l’éclaireur](./Bâton de léclaireur.md) || 9 600
+| 31-44 || [[Bâton de léclaireur|Bâton de l’éclaireur]] || 9 600
 |-
-| 45-54 || [Bâton des eidolons](./Bâton des eidolons.md) || 14 400
+| 45-54 || [[Bâton des eidolons]] || 14 400
 |-
-| 55-67 || [Bâton d’accompagnement](./Bâton daccompagnement.md) || 14 800
+| 55-67 || [[Bâton daccompagnement|Bâton d’accompagnement]] || 14 800
 |-
-| 68-84 || [Bâton d’entendement](./Bâton dentendement.md) || 16 000
+| 68-84 || [[Bâton dentendement|Bâton d’entendement]] || 16 000
 |-
-| 85-100 || [Bâton d’envoûtement](./Bâton denvoûtement.md) || 17 600
+| 85-100 || [[Bâton denvoûtement|Bâton d’envoûtement]] || 17 600
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Bâton intermédiaire supérieur || Prix(po)
 |- CLASS="premier"
-| 01-11 || [Bâton de feu](./Bâton de feu.md) || 18 950
+| 01-11 || [[Bâton de feu]] || 18 950
 |-
-| 12-21 || [Bâton de courage](./Bâton de courage.md) || 19 200
+| 12-21 || [[Bâton de courage]] || 19 200
 |-
-| 22-29 || [Bâton de dénigrement](./Bâton de dénigrement.md) || 20 000
+| 22-29 || [[Bâton de dénigrement]] || 20 000
 |-
-| 30-38 || [Bâton de festin et de famine](./Bâton de festin et de famine.md) || 20 800
+| 30-38 || [[Bâton de festin et de famine]] || 20 800
 |-
-| 39-49 || [Bâton de rigueur](./Bâton de rigueur.md) || 20 800
+| 39-49 || [[Bâton de rigueur]] || 20 800
 |-
-| 50-60 || [Bâton du grand essaim](./Bâton du grand essaim.md) || 22 800
+| 50-60 || [[Bâton du grand essaim]] || 22 800
 |-
-| 61-68 || [Bâton d’autorité](./Bâton dautorité.md) || 23 000
+| 61-68 || [[Bâton dautorité|Bâton d’autorité]] || 23 000
 |-
-| 69-81 || [Bâton de rayonnement](./Bâton de rayonnement.md) || 23 200
+| 69-81 || [[Bâton de rayonnement]] || 23 200
 |-
-| 82-92 || [Bâton d'altération de taille](./Bâton daltération de taille.md) || 26 150
+| 82-92 || [[Bâton daltération de taille|Bâton d'altération de taille]] || 26 150
 |-
-| 93-100 || [Bâton des voyages](./Bâton des voyages.md) || 27 200
+| 93-100 || [[Bâton des voyages]] || 27 200
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Bâton puissant inférieur || Prix(po)
 |- CLASS="premier"
-| 01-04 || [Bâton d’acide](./Bâton dacide.md) || 28 600
+| 01-04 || [[Bâton dacide|Bâton d’acide]] || 28 600
 |-
-| 05-08 || [Bâton des hurlements](./Bâton des hurlements.md) || 28 800
+| 05-08 || [[Bâton des hurlements]] || 28 800
 |-
-| 09-11 || [Bâton du Chaos](./Bâton du chaos.md) || 29 600
+| 09-11 || [[Bâton du Chaos]] || 29 600
 |-
-| 12-14 || [Bâton sacré](./Bâton sacré.md) || 29 600
+| 12-14 || [[Bâton sacré]] || 29 600
 |-
-| 15-17 || [Bâton de la Loi](./Bâton de la Loi.md) || 29 600
+| 15-17 || [[Bâton de la Loi]] || 29 600
 |-
-| 18-21 || [Bâton de guérison](./Bâton de guérison.md) || 29 600
+| 18-21 || [[Bâton de guérison]] || 29 600
 |-
-| 22-24 || [Bâton maudit](./Bâton maudit.md) || 29 600
+| 22-24 || [[Bâton maudit]] || 29 600
 |-
-| 25-28 || [Bâton du maître](./Bâton du maître.md) || 30 000
+| 25-28 || [[Bâton du maître]] || 30 000
 |-
-| 29-32 || [Bâton des araignées](./Bâton des araignées.md) || 30 200
+| 29-32 || [[Bâton des araignées]] || 30 200
 |-
-| 33-36 || [Bâton d’électricité](./Bâton délectricité.md) || 31 900
+| 33-36 || [[Bâton délectricité|Bâton d’électricité]] || 31 900
 |-
-| 37-39 || [Fléau de l’hérétique](./Fléau de lhérétique.md) || 32 000
+| 37-39 || [[Fléau de lhérétique|Fléau de l’hérétique]] || 32 000
 |-
-| 40-42 || [Bâton musical](./Bâton musical.md) || 32 000
+| 40-42 || [[Bâton musical]] || 32 000
 |-
-| 43-46 || [Bâton des âmes](./Bâton des âmes.md) || 32 800
+| 43-46 || [[Bâton des âmes]] || 32 800
 |-
-| 47-50 || [Bâton de toxines](./Bâton de toxines.md) || 34 200
+| 47-50 || [[Bâton de toxines]] || 34 200
 |-
-| 51-54 || [Bâton de discrétion](./Bâton de discrétion.md) || 36 800
+| 51-54 || [[Bâton de discrétion]] || 36 800
 |-
-| 55-58 || [Bâton du justicier](./Bâton du justicier.md) || 37 310
+| 55-58 || [[Bâton du justicier]] || 37 310
 |-
-| 59-62 || [Bâton des aspects](./Bâton des aspects.md) || 37 600
+| 59-62 || [[Bâton des aspects]] || 37 600
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 63-66 || [Bâton de rhétorique](./Bâton de rhétorique.md) || 39 600
+| 63-66 || [[Bâton de rhétorique]] || 39 600
 |-
-| 67-70 || [Bâton de givre](./Bâton de givre.md) || 41 400
+| 67-70 || [[Bâton de givre]] || 41 400
 |-
-| 71-74 || [Bâton de renforcement](./Bâton de renforcement.md) || 41 600
+| 71-74 || [[Bâton de renforcement]] || 41 600
 |-
-| 75-78 || [Bâton des malédictions](./Bâton des malédictions.md) || 43 500
+| 75-78 || [[Bâton des malédictions]] || 43 500
 |-
-| 79-85 || [Bâton de flamme noire](./Bâton de flamme noire.md) || 47 000
+| 79-85 || [[Bâton de flamme noire]] || 47 000
 |-
-| 86-89 || [Bâton des ricanements](./Bâton des ricanements.md) || 47 200
+| 86-89 || [[Bâton des ricanements]] || 47 200
 |-
-| 90-93 || [Bâton de représentation](./Bâton de représentation.md) || 48 800
+| 90-93 || [[Bâton de représentation]] || 48 800
 |-
-| 94-97 || [Bâton animé](./Bâton animé.md) || 49 800
+| 94-97 || [[Bâton animé]] || 49 800
 |-
-| 98-100 || [Bâton des révélations](./Bâton des révélations.md) || 51 008
+| 98-100 || [[Bâton des révélations]] || 51 008
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Bâton puissant supérieur || Prix(po)
 |- CLASS="premier"
-| 01-04 || [Bâton de clarté](./Bâton de clarté.md) || 51 500
+| 01-04 || [[Bâton de clarté]] || 51 500
 |-
-| 05-07 || [Bâton des obstacles](./Bâton des obstacles.md) || 51 600
+| 05-07 || [[Bâton des obstacles]] || 51 600
 |-
-| 08-10 || [Bâton de ciel et terre](./Bâton de ciel et terre.md) || 54 000
+| 08-10 || [[Bâton de ciel et terre]] || 54 000
 |-
-| 11-13 || [Bâton de déplacement](./Bâton de déplacement.md) || 54 400
+| 11-13 || [[Bâton de déplacement]] || 54 400
 |-
-| 14-16 || [Bâton des trésors](./Bâton des trésors.md) || 55 866
+| 14-16 || [[Bâton des trésors]] || 55 866
 |-
-| 17-19 || [Bâton des pièges](./Bâton des pièges.md) || 56 925
+| 17-19 || [[Bâton des pièges]] || 56 925
 |-
-| 20-22 || [Bâton des rayons](./Bâton des rayons.md) || 57 200
+| 20-22 || [[Bâton des rayons]] || 57 200
 |-
-| 23-25 || [Bâton de puissance en mithral](./Bâton de puissance en mithral.md) || 58 000
+| 23-25 || [[Bâton de puissance en mithral]] || 58 000
 |-
-| 26-29 || [Bâton de défense](./Bâton de défense.md) || 62 000
+| 26-29 || [[Bâton de défense]] || 62 000
 |-
-| 30-32 || [Bâton des plans](./Bâton des plans.md) || 63 960
+| 30-32 || [[Bâton des plans]] || 63 960
 |-
-| 33-35 || [Bâton des ombres affamées](./Bâton des ombres affamées.md) || 69 300
+| 33-35 || [[Bâton des ombres affamées]] || 69 300
 |-
-| 36-38 || [Bâton du dragon](./Bâton du dragon.md) || 81 000
+| 36-38 || [[Bâton du dragon]] || 81 000
 |-
-| 39-41 || [Bâton de sommeil](./Bâton de sommeil.md) || 81 766
+| 39-41 || [[Bâton de sommeil]] || 81 766
 |-
-| 42-46 || [Bâton d’abjuration](./Bâton dabjuration.md) || 82 000
+| 42-46 || [[Bâton dabjuration|Bâton d’abjuration]] || 82 000
 |-
-| 47-51 || [Bâton d'invocation](./Bâton dinvocation.md) || 82 000
+| 47-51 || [[Bâton dinvocation|Bâton d'invocation]] || 82 000
 |-
-| 52-56 || [Bâton de divination](./Bâton de divination.md) || 82 000
+| 52-56 || [[Bâton de divination]] || 82 000
 |-
-| 57-61 || [Bâton d’enchantement](./Bâton denchantement.md) || 82 000
+| 57-61 || [[Bâton denchantement|Bâton d’enchantement]] || 82 000
 |-
-| 62-66 || [Bâton d’évocation](./Bâton dévocation.md) || 82 000
+| 62-66 || [[Bâton dévocation|Bâton d’évocation]] || 82 000
 |-
-| 67-71 || [Bâton d’illusion](./Bâton dillusion.md) || 82 000
+| 67-71 || [[Bâton dillusion|Bâton d’illusion]] || 82 000
 |-
-| 72-76 || [Bâton de nécromancie](./Bâton de nécromancie.md) || 82 000
+| 72-76 || [[Bâton de nécromancie]] || 82 000
 |-
-| 77-81 || [Bâton de transmutation](./Bâton de transmutation.md) || 82 000
+| 77-81 || [[Bâton de transmutation]] || 82 000
 |-
-| 82-83 || [Bâton météo](./Bâton météo.md) || 84 066
+| 82-83 || [[Bâton météo]] || 84 066
 |-
-| 84-86 || [Bâton de pierre et terre](./Bâton de pierre et terre.md) || 85 800
+| 84-86 || [[Bâton de pierre et terre]] || 85 800
 |-
-| 87-88 || [Bâton de vision](./Bâton de vision.md) || 86 666
+| 87-88 || [[Bâton de vision]] || 86 666
 |-
-| 89-91 || [Bâton de la forêt profonde](./Bâton de la forêt profonde.md) || 100 400
+| 89-91 || [[Bâton de la forêt profonde]] || 100 400
 |-
-| 92-94 || [Bâton de vie](./Bâton de vie.md) || 109 400
+| 92-94 || [[Bâton de vie]] || 109 400
 |-
-| 95 || [Bâton aux cent mains](./Bâton aux cent mains.md) || 180 200
+| 95 || [[Bâton aux cent mains]] || 180 200
 |-
-| 96-98 || [Bâton de transport](./Bâton de transport.md) || 206 900
+| 96-98 || [[Bâton de transport]] || 206 900
 |-
-| 99 || [Bâton du hiérophante](./Bâton du hiérophante.md) || 220 000
+| 99 || [[Bâton du hiérophante]] || 220 000
 |-
-| 100 || [Bâton de surpuissance](./Bâton de surpuissance.md) || 235 000
+| 100 || [[Bâton de surpuissance]] || 235 000
 |}
 </td></tr></table>

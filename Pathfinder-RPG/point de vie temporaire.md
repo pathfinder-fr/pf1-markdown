@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Blessures et mort#PVTEMPORAIRES
 ---
 
->>> [Blessures et mort#PVTEMPORAIRES](./Blessures et mort.md#PVTEMPORAIRES)
+>>> [[Blessures et mort#PVTEMPORAIRES]]

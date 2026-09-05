@@ -17,7 +17,7 @@ C'est l'étoile autour de laquelle dansent toutes les autres.
 
 Lorsque les autres dieux créèrent le monde, la légende raconte que Desna était occupée à placer des étoiles dans les cieux, sans regarder les autres divinités qui façonnaient un monde plein de merveilles qu'elle pourrait explorer en compagnie de ses fidèles.
 Depuis ce jour, tous ceux qui cherchent les étoiles se retrouvent dans l'errance sans fin des mystères du ciel.
-Desna est en conflit avec [Lamashtu|Lamashtu] qui aurait fait disparaitre l'ancien mentor de la déesse des rêves, Curchanus, l'ancien dieu des bêtes, du voyage et de l'endurance.
+Desna est en conflit avec [[Lamashtu]] qui aurait fait disparaitre l'ancien mentor de la déesse des rêves, Curchanus, l'ancien dieu des bêtes, du voyage et de l'endurance.
 
 ### Apparence
 
@@ -40,7 +40,7 @@ Sa chance en fait la déesse favorite des joueurs et des voleurs.
 
 ### Temples
 
-Son culte a toujours été le plus fort dans les régions connues aujourd'hui comme la [Varisie](./Varisie.md) et l'[Ustalav](./Ustalav.md).
+Son culte a toujours été le plus fort dans les régions connues aujourd'hui comme la [[Varisie]] et l'[[Ustalav]].
 Leurs temples sont à l'air libre, ouverts sur le monde. La plupart possèdent un puits de lumière qui permet de voir le ciel, et des cartes astrologiques pour marquer les événements célestes importants.
 Desna possède quelques temples, mais elle préfère les sanctuaire sans surveillance, à la croisée des chemins et des lieux à la beauté isolée, comme les collines ou les péninsules.
 Ses temples peuvent servir d'observatoires célestes ou au moins avoir une chambre avec vue sur le ciel. Dans les zones rurales, ils ont souvent des offices pour les voyageurs.
@@ -55,11 +55,11 @@ Son texte saint est appelé les huit rouleaux.
 
 Il existe deux festivals majeur liés au culte de Desna.
 Le premier est le "rituel de la Poussière d'étoile", lors de la nuit la plus courte de l'année et la nuit la plus longue, lors d'une grande fête, au crépuscule on allume des feux de joie et lorsque ces derniers s'éteignent, les fidèles lancent du sable dans l'air.
-Le second est "le lâcher de Machaons", cette fête est liée à une légende. L'on dit que lors d'un affrontement entre [Lamashtu|Lamashtu] et Desna, la déesse des rêve serait tombée sur terre. Un enfant aveugle l'aurait soignée et Desna en récompense l'a transformé en papillon éternel. Ainsi l'église libère des Machaons le premier jour d'automne dans une foule. Une croyance dit que si l'un des papillons se pose sur l'épaule d'une personne, alors ce dernier est béni par la chance.
+Le second est "le lâcher de Machaons", cette fête est liée à une légende. L'on dit que lors d'un affrontement entre [[Lamashtu]] et Desna, la déesse des rêve serait tombée sur terre. Un enfant aveugle l'aurait soignée et Desna en récompense l'a transformé en papillon éternel. Ainsi l'église libère des Machaons le premier jour d'automne dans une foule. Une croyance dit que si l'un des papillons se pose sur l'épaule d'une personne, alors ce dernier est béni par la chance.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [second volume](./../Aventures/Présentation AP1.md#AP1-2) de la première campagne, [L'Éveil des Seigneurs des Runes](./../Aventures/Présentation AP1.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP1#AP1-2|second volume]] de la première campagne, [[Aventures.Présentation AP1|L'Éveil des Seigneurs des Runes]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

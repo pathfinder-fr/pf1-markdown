@@ -4,9 +4,9 @@ Title: Le couloir tombal
 LastModified: 2020-12-24 00:34
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 Les morts sans repos parcourent parfois le monde en tant que squelettes ou zombis, mais les nécromanciens sont aussi inventifs que maléfiques ! Ce piège consiste en plusieurs corps enterrés dans les murs de terre d'un passage étroit. Quand des créatures vivantes entrent dans ce tunnel large de 1 case (1,50 m) et long de 4 cases (6 m), les corps s'animent et tentent de les agripper en sortant leurs membres pourris des murs de terre et laissant apparaître leurs visages criblés de vers.
 

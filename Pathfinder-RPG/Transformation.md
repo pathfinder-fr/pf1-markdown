@@ -10,20 +10,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 4  
+**École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4  
 
 **Temps d'incantation** 1 heure  
 
-**Composantes** [V, G, M](./composantes.md) (une fiole de vif-argent d'une valeur de 1 000 po)  
+**Composantes** [[Composantes|V, G, M]] (une fiole de vif-argent d'une valeur de 1 000 po)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
-**Cible** [eidolon](./eidolon.md) du lanceur de sorts  
+**Cible** [[eidolon]] du lanceur de sorts  
 
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)  
+**Durée** [[présentation des sorts#DUREE|instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non
 
-L'[eidolon](./eidolon.md) change et se transforme. Ce sort permet au personnage de modifier l'une des [évolutions](./eidolon.md#EVOLUTIONS) précédentes de son [eidolon](./eidolon.md) et d'allouer ses points à une autre. Si le personnage possède également le pouvoir d'[aspect`](./Conjurateur.md#ASPECT) ou d'[aspect supérieur](./Conjurateur.md#ASPECTSUPERIEUR), il peut utiliser le sort pour changer les points utilisés pour ses propres modifications, y compris pour retrancher ou rajouter des points selon ce que ces aptitudes permettent.
+L'[[eidolon]] change et se transforme. Ce sort permet au personnage de modifier l'une des [[eidolon#EVOLUTIONS|évolutions]] précédentes de son [[eidolon]] et d'allouer ses points à une autre. Si le personnage possède également le pouvoir d'[[conjurateur#ASPECT|aspect`]] ou d'[[conjurateur#ASPECTSUPERIEUR|aspect supérieur]], il peut utiliser le sort pour changer les points utilisés pour ses propres modifications, y compris pour retrancher ou rajouter des points selon ce que ces aptitudes permettent.
 
-L'[eidolon](./eidolon.md) ne peut pas bénéficier de ce sort plus d'une fois par jour. Il ne permet pas non plus de changer la forme de base de l'[eidolon](./eidolon.md).
+L'[[eidolon]] ne peut pas bénéficier de ce sort plus d'une fois par jour. Il ne permet pas non plus de changer la forme de base de l'[[eidolon]].

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#RESERVEDECOUPS
 ---
 
->>> [arcanes#RESERVEDECOUPS](./arcanes.md#RESERVEDECOUPS)
+>>> [[arcanes#RESERVEDECOUPS]]

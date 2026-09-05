@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Blessures et mort#GUERISONNATURELLE
 ---
 
->>> [Blessures et mort#GUERISONNATURELLE](./Blessures et mort.md#GUERISONNATURELLE)
+>>> [[Blessures et mort#GUERISONNATURELLE]]

@@ -7,6 +7,6 @@ Categories:
 - Géographie
 ---
 
-Le Bois du Murmure tire son nom de la rivière qui circule en son sein. On y trouve aussi la ville de [Senara](./Senara.md).
+Le Bois du Murmure tire son nom de la rivière qui circule en son sein. On y trouve aussi la ville de [[Senara]].
 
-Cette forêt du centre-est du [Chéliax](./Chéliax.md) ne semble pas aussi douce que son nom pourrait le laisser entendre. On dit qu'une porte menant directement aux enfers y serait présente et constamment ouverte, ouvrant ainsi l'accès aux cohortes de diables et de démons qui circulent dans le pays.
+Cette forêt du centre-est du [[Chéliax]] ne semble pas aussi douce que son nom pourrait le laisser entendre. On dit qu'une porte menant directement aux enfers y serait présente et constamment ouverte, ouvrant ainsi l'accès aux cohortes de diables et de démons qui circulent dans le pays.

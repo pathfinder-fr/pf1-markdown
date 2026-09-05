@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Aptitudes de voie universelles Mythique
 ---
 
->>> [Aptitudes de voie universelles Mythique](./Aptitudes de voie universelles Mythique.md)
+>>> [[Aptitudes de voie universelles Mythique]]

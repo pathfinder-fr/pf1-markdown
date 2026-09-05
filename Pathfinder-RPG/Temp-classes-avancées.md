@@ -6,22 +6,22 @@ Categories:
 - Manuel des Classes avancées
 ---
 
-[Manuel des joueurs - Classes Avancées (Contenu)](./Manuel des joueurs - Classes avancées (Contenu).md)
+[[Manuel des joueurs - Classes Avancées (Contenu)]]
 <nav class="wiki-toc"></nav>
 ## Les classes
-intégration de la présentation des classes hybrides sur la page réservée aux [classes](./Classes.md) -> fait (rectulo)
+intégration de la présentation des classes hybrides sur la page réservée aux [[classes]] -> fait (rectulo)
 
 **À faire** Refaire le snippet s:menuclasses en n'y plaçant que les classes de base du Mdj, avec un lien vers les classes supplémentaires et un lien vers les classes hybrides en s'inspirant du snippet du menu des races
 
-[richesse de départ de chaque classe](./Pathfinder-RPG-Argent%20et%20richesse-ashx.md) -> **Fait**
+[[Pathfinder-RPG.Argent%20et%20richesse.ashx|richesse de départ de chaque classe]] -> **Fait**
 
 {s:Menuarchétypearcaniste}
-### [Arcaniste](./Arcaniste.md)
+### [[Arcaniste]]
 Page terminée : **à relire**
 
-- [Exploitations](./Exploitations.md) pages terminées : **relu** (Djezebel)
+- [[Exploitations]] pages terminées : **relu** (Djezebel)
 
-- redirection vers [réservoir arcanique](./réservoir arcanique.md) créée
+- redirection vers [[réservoir arcanique]] créée
 
 - archétypes : **relu** (Djezebel)
 
@@ -29,36 +29,36 @@ Page terminée : **à relire**
 
 {s:Menuarchétypebretteur}
 
-### [Bretteur](./Bretteur.md)
+### [[Bretteur]]
 Classe de base -> faire les liens
 - Les archétypes mis en forme : (blurpy **à relire**)
-- [Exploits (bretteur)](./Exploits (bretteur).md) ~~tableau à faire et ancres à ajouter (j'ai importé la page des exploits du pistolier comme base de travail et copié collé le texte des exploits du bretteur en deux colonnes)~~
+- [[Exploits (bretteur)]] ~~tableau à faire et ancres à ajouter (j'ai importé la page des exploits du pistolier comme base de travail et copié collé le texte des exploits du bretteur en deux colonnes)~~
 
 À relire
 
 **TERMINÉ**
 
 {s:Menuarchétypechaman}
-### [Chaman](./Chaman.md)
+### [[Chaman]]
 La page du chaman est mise en forme. Il faut faire les liens.
 
-- [Esprits (chaman)](./Esprits (chaman).md) (Il y aura les Esprits (Medium) dans Aventures Occultes )
+- [[Esprits (chaman)]] (Il y aura les Esprits (Medium) dans Aventures Occultes )
 ==>  mis en forme (blurpy). Mise en  page reprise et création des liens (rectulo)
 
 - snippet s:Menuespritschaman créé et inséré
 
-- [Esprit animal](./Esprit-animal.md) -> Voir si on peut consolider le texte avec les pages concernées du Magicien pour tout avoir sur la même page ?
+- [[Esprit animal]] -> Voir si on peut consolider le texte avec les pages concernées du Magicien pour tout avoir sur la même page ?
 
 - Les archétypes sont mis en forme :(blurpy **à relire**) et relus (rectulo)
 
-- [Liste des sorts de chaman](./Liste des sorts de chaman.md) descriptions terminées (Djezebel) 
+- [[Liste des sorts de chaman]] descriptions terminées (Djezebel) 
 
-- Pour chaque sort, il faut créer des catégories nouvelles *sort chaman 0, 1, 2 ...* et éditer chaque sort pour ajouter <nowiki>[Cham](./Chaman.md) 0</nowiki> et cocher la catégorie sort chaman du niveau correspondant. On en profite pour vérifier que les cases des sorts sont bien cochées car cela n'a pas été fait pour la sorcière ou l'inquisiteur. fait pour les sorts de chaman de niveau 0
+- Pour chaque sort, il faut créer des catégories nouvelles *sort chaman 0, 1, 2 ...* et éditer chaque sort pour ajouter <nowiki>[[Chaman|Cham]] 0</nowiki> et cocher la catégorie sort chaman du niveau correspondant. On en profite pour vérifier que les cases des sorts sont bien cochées car cela n'a pas été fait pour la sorcière ou l'inquisiteur. fait pour les sorts de chaman de niveau 0
 
 {s:Menuarchétypechasseur}
 
 
-### [Chasseur](./Chasseur.md)
+### [[Chasseur]]
 - La page est créée. Les tableaux de classe sont terminés
 - Les ancres sont créées (poulosis)
 - Mise en forme et liens terminés
@@ -68,17 +68,17 @@ La page du chaman est mise en forme. Il faut faire les liens.
 **TERMINÉ**
 
 {s:Menuarchétypeenquêteur}
-### [Enquêteur](./Enquêteur.md)
+### [[Enquêteur]]
 - La page est créée. **relue**
 - Le tableau de classe est rempli. **À relire**
 - archétypes mis en forme (blurpy) **relus et liens créés**
 
-- La page [Talents (enquêteur)](./Talents (enquêteur).md) est créée : reprise en s'inspirant de la page des ~~talents de roublard~~ exploits du bretteur avec les niveaux minimum d'obtention (blurpy **À relire**)
+- La page [[Talents (enquêteur)]] est créée : reprise en s'inspirant de la page des ~~talents de roublard~~ exploits du bretteur avec les niveaux minimum d'obtention (blurpy **À relire**)
 
-- la page de redirection [réserve dinspiration](./réserve dinspiration.md) est à créer
+- la page de redirection [[réserve dinspiration]] est à créer
 
 {s:Menuarchétypelutteur}
-### [Lutteur](./Lutteur.md)
+### [[Lutteur]]
 - La page est créée. 
 - Le tableau de classe est fait (blurpy : **à relire**)
 - ancres à créer
@@ -86,12 +86,12 @@ La page du chaman est mise en forme. Il faut faire les liens.
 - liens faits (blurpy : **à relire**)
 
 {s:Menuarchétypeprêtrecombattant}
-### [Prêtre combattant](./Prêtre combattant.md)
+### [[Prêtre combattant]]
 - Page créée (rectulo)
 - tableaux faits (JujuX62) à reprendre en utilisant la syntaxe du wiki
 - présentations et liens
 - ~~ancres à créer~~ ancres créées, reste à faire les liens
-- Création d'une page de regroupement des [Bénédictions](./Bénédictions.md) sur le même format que les domaines de prêtre. 
+- Création d'une page de regroupement des [[Bénédictions]] sur le même format que les domaines de prêtre. 
 - références aux divinités qui ne sont pas ogl retirées
 - ~~à créer un snippet s:Menubénédictions~~ Créé
 - bénédictions créées (JujuX62) et relues
@@ -102,17 +102,17 @@ La page du chaman est mise en forme. Il faut faire les liens.
 - Attention désambiguation à créer pour bénédiction de l'eau qui est également un sort
 
 {s:Menuarchétypesanguin}
-### [Sanguin](./Sanguin.md)
+### [[Sanguin]]
 - ~~tableaux à faire~~ (JujuX62 : à vérifier)
 - liens à créer : liens des sorts et dons de lignage créés (blurpy **à vérifier**)
 - ~~présentation de la page~~ (JujuX62 : à valider)
 
-- [Lignages (sanguin)](./Lignages (sanguin).md) pages crées, mis en forme (blurpy **à relire**)
-- [Liste des sorts de sanguin](./Liste des sorts de sanguin.md)
+- [[Lignages (sanguin)]] pages crées, mis en forme (blurpy **à relire**)
+- [[Liste des sorts de sanguin]]
 - Archétypes mis en forme (blurpy **à relire**)
 
 {s:Menuarchétypescalde}
-### [Scalde](./Scalde.md)
+### [[Scalde]]
 - La page est créée. 
 - Le tableau de classe est fait
 - ancres à créer
@@ -121,10 +121,10 @@ La page du chaman est mise en forme. Il faut faire les liens.
 - archétypes mis en forme (blurpy **à relire**) 
 
 {s:Menuarchétypetueur}
-### [Tueur](./Tueur.md)
-Attention l'ancienne page [tueur](./Tueur.md) qui était une page de redirection vers le pouvoir de classe 'tueur' de l'inquisiteur a été utilisée pour la classe. Nombre de liens vers cette page seront à reprendre.
+### [[Tueur]]
+Attention l'ancienne page [[tueur]] qui était une page de redirection vers le pouvoir de classe 'tueur' de l'inquisiteur a été utilisée pour la classe. Nombre de liens vers cette page seront à reprendre.
 
-- [Talents (tueur)](./Talents (tueur).md) 
+- [[Talents (tueur)]] 
 
 - tableau fait  (blurpy : **à relire**)
 - Liens du tableau créés  (blurpy : **à relire**)
@@ -141,100 +141,100 @@ Attention l'ancienne page [tueur](./Tueur.md) qui était une page de redirection
 Modifier les snippets des classes existantes pour intégrer les nouveaux archétypes et modifier les pages des classes concernées en intégrant la liste des archétypes dans le menu déroulant -> **terminé**
 
 #### Alchimiste
-Nouvelles [Découvertes](./découvertes.md) insérées
+Nouvelles [[Découvertes]] insérées
 
-[Chimiste inspiré (Alchimiste)](./Chimiste inspiré (Alchimiste).md)
+[[Chimiste inspiré (Alchimiste)]]
 
 #### Barbare
-Nouveaux [pouvoirs de rage](./Pouvoirs de rage.md) ont été insérés. Le tableau des pouvoirs de rage est à reprendre pour faire figurer les nouveaux pouvoirs de rage.
+Nouveaux [[pouvoirs de rage]] ont été insérés. Le tableau des pouvoirs de rage est à reprendre pour faire figurer les nouveaux pouvoirs de rage.
 
 #### Barde
-- [Danseur des flammes (barde)](./Danseur des flammes (barde).md)
-- [Voix de la nature (barde)](./Voix de la nature (barde).md)
+- [[Danseur des flammes (barde)]]
+- [[Voix de la nature (barde)]]
 
 #### Chevalier
-- Ordre de la bête -> **intégré à la page des [ordres](./Ordres.md) de chevalerie**
-- [Champion audacieux (chevalier)](./Champion audacieux (chevalier).md)
+- Ordre de la bête -> **intégré à la page des [[ordres]] de chevalerie**
+- [[Champion audacieux (chevalier)]]
 
 #### Druide
-- [Chuchoteur sauvage (druide)](./Chuchoteur sauvage (druide).md)
-- [Croc de la nature (druide)](./Croc de la nature (druide).md)
-- [Métamorphe sauvage (druide)](./Métamorphe sauvage (druide).md)
+- [[Chuchoteur sauvage (druide)]]
+- [[Croc de la nature (druide)]]
+- [[Métamorphe sauvage (druide)]]
 
 #### Ensorceleur
-- [Bagarreur étrange (ensorceleur)](./Bagarreur étrange (ensorceleur).md)
-- [Mage bâtard (ensorceleur)](./Mage bâtard (ensorceleur).md)
+- [[Bagarreur étrange (ensorceleur)]]
+- [[Mage bâtard (ensorceleur)]]
 
 #### Guerrier
-- [Guerrier mutagénique (guerrier)](./Guerrier mutagénique (guerrier).md)
-- [Maître martial (guerrier)](./Maître martial (guerrier).md)
+- [[Guerrier mutagénique (guerrier)]]
+- [[Maître martial (guerrier)]]
 
 #### Inquisiteur
-- [Exterminateur sacré (inquisiteur)](./Exterminateur sacré (inquisiteur).md)
-- [Maître chasseur sacré (inquisiteur)](./Maître chasseur sacré (inquisiteur).md)
+- [[Exterminateur sacré (inquisiteur)]]
+- [[Maître chasseur sacré (inquisiteur)]]
 
 #### Conjurateur
-- [Invocateur desprit (conjurateur)](./Invocateur desprit (conjurateur).md)
-- [Naturaliste (conjurateur)](./Naturaliste (conjurateur).md)
+- [[Invocateur desprit (conjurateur)]]
+- [[Naturaliste (conjurateur)]]
 
 #### Magicien
-- [Chuchoteur spirituel (magicien)](./Chuchoteur spirituel (magicien).md)
-- [Magicien exploiteur (magicien)](./Magicien exploiteur (magicien).md)
-- [Sage ésotérique (magicien)](./Sage ésotérique (magicien).md)
+- [[Chuchoteur spirituel (magicien)]]
+- [[Magicien exploiteur (magicien)]]
+- [[Sage ésotérique (magicien)]]
 
 #### Magus
-Nouveaux arcanes du magus insérés dans la page des [arcanes](./arcanes.md)
+Nouveaux arcanes du magus insérés dans la page des [[arcanes]]
 
-- [Rejeton étrange (magus)](./Rejeton étrange (magus).md)
+- [[Rejeton étrange (magus)]]
 
 #### Moine
-- [Chat sauvage (moine)](./Chat sauvage (moine).md)
-- [Maître des katas (moine)](./Maître des katas (moine).md)
+- [[Chat sauvage (moine)]]
+- [[Maître des katas (moine)]]
 
 #### Oracle
-- [Chercheur psychique (oracle)](./Chercheur psychique (oracle).md)
-- [Combattant intuitif (oracle)](./Combattant intuitif (oracle).md)
-- [Guide spirituel (oracle)](./Guide spirituel (oracle).md)
+- [[Chercheur psychique (oracle)]]
+- [[Combattant intuitif (oracle)]]
+- [[Guide spirituel (oracle)]]
 
 #### Paladin
-- [Champion du temple (paladin)](./Champion du temple (paladin).md)
-- [Guide saint (paladin)](./Guide saint (paladin).md)
+- [[Champion du temple (paladin)]]
+- [[Guide saint (paladin)]]
 
 #### Pistolier
-[Bravades](./Bravades.md) Une phrase a été ajoutée dans la page de classe de bretteur et de pistolier : Il peut également dépenser un des dons supplémentaires pour choisir une [bravade](./Bravades.md) utilisable lorsqu'il n'a plus de point d'audace/de panache et qui lui accorde des pouvoirs et lui permet de regagner de l'audace/du panache lorsqu'il n'en a plus.
+[[Bravades]] Une phrase a été ajoutée dans la page de classe de bretteur et de pistolier : Il peut également dépenser un des dons supplémentaires pour choisir une [[bravades|bravade]] utilisable lorsqu'il n'a plus de point d'audace/de panache et qui lui accorde des pouvoirs et lui permet de regagner de l'audace/du panache lorsqu'il n'en a plus.
 
-- [Arbalétrier délite (pistolier)](./Arbalétrier délite (pistolier).md)
+- [[Arbalétrier délite (pistolier)]]
 
 #### Prêtre
-- [Théurge ecclésiastique (prêtre)](./Théurge ecclésiastique (prêtre).md)
+- [[Théurge ecclésiastique (prêtre)]]
 
 #### Rôdeur
-- [Champion rebelle (rôdeur)](./Champion rebelle (rôdeur).md)
-- [Chasseur sauvage (rôdeur)](./Chasseur sauvage (rôdeur).md)
-- [Pisteur divin (rôdeur)](./Pisteur divin (rôdeur).md)
+- [[Champion rebelle (rôdeur)]]
+- [[Chasseur sauvage (rôdeur)]]
+- [[Pisteur divin (rôdeur)]]
 
 #### Roublard
-- [Chimiste clandestin (roublard)](./Chimiste clandestin (roublard).md)
-- [Mage charlatan (roublard)](./Mage charlatan (roublard).md)
+- [[Chimiste clandestin (roublard)]]
+- [[Mage charlatan (roublard)]]
 
 #### Sorcière
-- [Canalisatrice de maléfices (sorcière)](./Canalisatrice de maléfices (sorcière).md)
-- [Sorcière des montagnes (sorcière)](./Sorcière des montagnes (sorcière).md)
+- [[Canalisatrice de maléfices (sorcière)]]
+- [[Sorcière des montagnes (sorcière)]]
 
 **relecture terminée**
 
 ## Dons
 - Page de présentation -> Intégration des nouveaux dons d'école dans la liste existante des écoles faite + précisions sur l'audace et le panache incorporé aux pages des classes de bretteur, de pistolier et sur la partie conditions des dons
 
-- [Tableau récapitulatif des dons des classes avancées](./Tableau récapitulatif des dons des classes avancées.md) **à relire** et intégration des dons généraux dans les tableaux existants, les autres sont à intégrer dans les autres tableaux
+- [[Tableau récapitulatif des dons des classes avancées]] **à relire** et intégration des dons généraux dans les tableaux existants, les autres sont à intégrer dans les autres tableaux
 
-- [Dons des classes avancées](./Dons des classes avancées.md) **à relire** (ghaleon et poulosis)
+- [[Dons des classes avancées]] **à relire** (ghaleon et poulosis)
 
 ## Sorts
-Un lien utile : le [guide de création des sorts](http://www.pathfinder-fr.org/Wiki/Guide décriture des sorts.ashx)
+Un lien utile : le [guide de création des sorts](http://www.pathfinder-fr.org/Wiki/Guide%20d%C3%A9criture%20des%20sorts.ashx)
 
-- [temp-Liste des sorts](./temp-Liste-des-sorts.md) -> Mise en page terminée
-- [Temp-Sorts bruts MCA](./Temp-Sorts-bruts-MCA.md)
+- [[temp-Liste des sorts]] -> Mise en page terminée
+- [[Temp-Sorts bruts MCA]]
 
 - Liste des sorts à reprendre
 ==> Prêtre OK sur toutes les pages (Pages individuelles, page de sorts de Prêtre/niveau & classement alphabétique)
@@ -250,16 +250,16 @@ Un lien utile : le [guide de création des sorts](http://www.pathfinder-fr.org/W
 
 ## Équipement et objets magiques
 
-- [Equipement d'aventure](./Temp Equipementaventure MCA.md) > Intégrés
-- [Remèdes Outils et Armes alchimiques](./Temp Alchimique MCA.md) > Intégré(e)s
-- [Armures](./Temp objetsmagiques armures MCA.md) > Intégrées
-- [Armes](./Temp objetsmagiques armes MCA.md) > Intégrées
-- [Anneaux](./Temp objetsmagiques anneaux MCA.md) > Intégrés
-- [Sceptres](./Temp objetsmagiques sceptres MCA.md) > Intégrés
-- [Bâtons](./Temp objetsmagiques bâtons MCA.md) > Intégrés
-- [Objets merveilleux](./Temp objetsmagiques merveilleux MCA.md) > Intégrés
+- [[Temp Equipementaventure MCA|Equipement d'aventure]] > Intégrés
+- [[Temp Alchimique MCA|Remèdes Outils et Armes alchimiques]] > Intégré(e)s
+- [[Temp objetsmagiques armures MCA|Armures]] > Intégrées
+- [[Temp objetsmagiques armes MCA|Armes]] > Intégrées
+- [[Temp objetsmagiques anneaux MCA|Anneaux]] > Intégrés
+- [[Temp objetsmagiques sceptres MCA|Sceptres]] > Intégrés
+- [[Temp objetsmagiques bâtons MCA|Bâtons]] > Intégrés
+- [[Temp objetsmagiques merveilleux MCA|Objets merveilleux]] > Intégrés
 
-- [Temp page alternative des armures1](./Temp-page-alternative-des-armures1.md) et [Temp page alternative des armures2](./Temp page alternative des armures2.md)
+- [[Temp page alternative des armures1]] et [[Temp page alternative des armures2]]
 
 (Djezebel, Faust)
 ## Errata
@@ -267,9 +267,9 @@ Un errata a été édité par Paizo en juillet 2015. Il faudra l'intégrer. [htt
 
 
 ## Création de classes
-[Création dune classe](./Création dune classe.md) à relire
-[Création dun archétype](./Création dun archétype.md) à mettre en forme
-[Création dune classe de prestige](./Création-dune-classe-de-prestige.md) à mettre en forme
+[[Création dune classe]] à relire
+[[Création dun archétype]] à mettre en forme
+[[Création dune classe de prestige]] à mettre en forme
 
 ## Origine des classes avancées
 Cette partie est issue en réalité du supplément Advanced class origins
@@ -282,21 +282,21 @@ Les règles d'intégration au wiki seront précisées au cas par cas
 
 ### ARCHÉTYPE
 ~~**Fait :** Mettre à jour les snippets Menuarchétype.~~
-- [Adversaire des bêtes ulfe (lutteur)](./Adversaire des bêtes ulfe (lutteur).md) 266 
-- [Corsaire des Îles pirates](./Corsaire des Chaînes (bretteur).md) 258 
-- [Danseur démoniaque bekyar (scalde)](./Danseur démoniaque bekyar (scalde).md) 272 
-- [Déracineur (chasseur)](./Déracineur (chasseur).md) 263 
-- [Derviche tourneur (bretteur)](./Derviche tourneur (bretteur).md) 259
-- [Exécuteur sczarni (tueur)](./Exécuteur sczarni (tueur).md) 274 
-- [Harceleur-scarabée (chasseur)](./Harceleur-scarabée (chasseur).md) 263 
-- [Inspecteur de l'Université des Landes lugubres (enquêteur)](./Inspecteur de Lepidstadt (enquêteur).md) 265
-- [Lame de liberté (prêtre combattant)](./Lame de liberté (prêtre combattant).md) 268 
-- [Lame pure (tueur)](./Lame pure (tueur).md) 275 
-- [Renégat de la voie sinueuse (lutteur)](./Renégat de la voie sinueuse (lutteur).md) 267 
-- [Sage du crépuscule (arcaniste)](./Sage du crépuscule (arcaniste).md) 256 
-- [Scalde des dragons (scalde)](./Scalde des dragons (scalde).md) 273 
-- [Tambour de guerre des Terres des Féroces (scalde)](./Tambour de guerre de Belkzen (scalde).md) 273
-- [Zélote de la mante (prêtre combattant)](./Zélote de la mante (prêtre combattant).md) 268
+- [[Adversaire des bêtes ulfe (lutteur)]] 266 
+- [[Corsaire des Chaînes (bretteur)|Corsaire des Îles pirates]] 258 
+- [[Danseur démoniaque bekyar (scalde)]] 272 
+- [[Déracineur (chasseur)]] 263 
+- [[Derviche tourneur (bretteur)]] 259
+- [[Exécuteur sczarni (tueur)]] 274 
+- [[Harceleur-scarabée (chasseur)]] 263 
+- [[Inspecteur de Lepidstadt (enquêteur)|Inspecteur de l'Université des Landes lugubres (enquêteur)]] 265
+- [[Lame de liberté (prêtre combattant)]] 268 
+- [[Lame pure (tueur)]] 275 
+- [[Renégat de la voie sinueuse (lutteur)]] 267 
+- [[Sage du crépuscule (arcaniste)]] 256 
+- [[Scalde des dragons (scalde)]] 273 
+- [[Tambour de guerre de Belkzen (scalde)|Tambour de guerre des Terres des Féroces (scalde)]] 273
+- [[Zélote de la mante (prêtre combattant)]] 268
 
 ### TRAITS
 - Analytique Régional (Ustalav) 265 
@@ -304,7 +304,7 @@ Les règles d'intégration au wiki seront précisées au cas par cas
 - Audace du lion Régional (Taldor) 259 
 - Balafre de Lepidstadt Régional (Ustalav) 265 
 - Chaman des ombres Régional (Nidal) 261
-- Chantesprit shoanti Racial (humain [Shoanti]) 273 
+- Chantesprit shoanti Racial (humain [[Shoanti]]) 273 
 - Chasseur de cadavres nexien Régional (Nex) 257 
 - Cri de la charge bondissante Régional 263 (Royaume des seigneurs des mammouths) 
 - Décrypteur des cieux érutaki Régional (Couronne du monde) 261 
@@ -314,7 +314,7 @@ Les règles d'intégration au wiki seront précisées au cas par cas
 - Dévouement envers les Chevaliers infernaux Base (combat) 269 
 - Fléau des mers Régional (les Chaînes) 259 
 - Insurgé de Bois-Vorace Régional (Nirmathas) 263 
-- Maestro esclavagiste bekyar Racial (humain [Bekyar]) 273 
+- Maestro esclavagiste bekyar Racial (humain [[Bekyar]]) 273 
 - Sang de liche Régional (Belkzen) 271 
 - Traqueur de peaux-vertes Régional (Isger,  275 Royaumes fluviaux ou Varisie) 
 - Vagabond sauvage Régional (Étendue du Mwangi) 271 
@@ -322,47 +322,47 @@ Les règles d'intégration au wiki seront précisées au cas par cas
 
 ### Autres règles
 #### Bâtons magiques et objets merveilleux 278-279
-~~**Fait :** Mettre à jour les tableaux récapitulatifs concernés ([Bâtons magiques](./Bâtons magiques.md), [Objets merveilleux portés autour du cou](./Objets merveilleux portés autour du cou.md), [Objets merveilleux portés sur la tête](./Objets merveilleux portés sur la tête.md), [Objets merveilleux portés aux mains](./Objets merveilleux portés aux mains.md), [Armes magiques spécifiques](./Armes magiques spécifiques.md)).~~
+~~**Fait :** Mettre à jour les tableaux récapitulatifs concernés ([[Bâtons magiques]], [[Objets merveilleux portés autour du cou]], [[Objets merveilleux portés sur la tête]], [[Objets merveilleux portés aux mains]], [[Armes magiques spécifiques]]).~~
 
 #### Bénédictions Prêtre combattant 269
 ~~**Fait :** Mettre à jour le snippet Menubénédictions.~~
 
 #### Dons — 276-277
-~~**Fait :** Mettre à jour les pages [tableau récapitulatif des dons](./Tableau récapitulatif des dons.md) et [dons déquipe](./dons déquipe.md).~~
+~~**Fait :** Mettre à jour les pages [[tableau récapitulatif des dons]] et [[dons déquipe]].~~
 
 #### Esprit Chaman 260
 ~~**Fait :** Mettre à jour le snippet MenuEspritschaman.~~
 
 #### Exploitations d’arcaniste Arcaniste 257
-~~**Fait :** Mettre à jour la page [exploitations](./Exploitations.md), sans oublier le tableau en haut de page.~~
+~~**Fait :** Mettre à jour la page [[exploitations]], sans oublier le tableau en haut de page.~~
 (((<nowiki>
 {s:MCA}{s:Reference|EXPLOSIONSONORE}
 #### Explosion sonore (Sur).
-L’arcaniste peut produire une assourdissante explosion d’énergie sonore en dépensant 1 point de son [réservoir arcanique](./Arcaniste.md#EXPLOITATION) et en réussissant une attaque de contact à distance contre une cible située à 9 mètres ou moins. L’explosion inflige un nombre de points de dégâts sonores égal à 1d6 + le modificateur de [Charisme](./Charisme.md) de l’arcaniste, plus 1d6 points de dégâts sonores supplémentaires pour chaque tranche de 2 niveaux au-dessus du premier (jusqu’à un maximum de 10d6 au niveau 19). La cible est également [assourdie](./Assourdi.md) pendant 1 minute. Elle peut effectuer un jet de [Vigueur](./Vigueur.md) pour diminuer de moitié les dégâts et annuler la surdité.
+L’arcaniste peut produire une assourdissante explosion d’énergie sonore en dépensant 1 point de son [[arcaniste#EXPLOITATION|réservoir arcanique]] et en réussissant une attaque de contact à distance contre une cible située à 9 mètres ou moins. L’explosion inflige un nombre de points de dégâts sonores égal à 1d6 + le modificateur de [[Charisme]] de l’arcaniste, plus 1d6 points de dégâts sonores supplémentaires pour chaque tranche de 2 niveaux au-dessus du premier (jusqu’à un maximum de 10d6 au niveau 19). La cible est également [[assourdi|assourdie]] pendant 1 minute. Elle peut effectuer un jet de [[Vigueur]] pour diminuer de moitié les dégâts et annuler la surdité.
 
 {s:MCA}{s:Reference|METAMORPHEDELUNIVERSITE}
 #### Métamorphe de l'Université des sciences pragmatiques (Sur).
-L’arcaniste peut dépenser 1 point de son [réservoir arcanique](./Arcaniste.md#EXPLOITATION) pour lancer un sort tout en étant sous l’effet d’un sort de métamorphose. Ce pouvoir fonctionne comme le don [Incantation animale](./Incantation animale.md), sauf que l’arcaniste l’utilise pour lancer des sorts tout en étant sous l’effet d’un sort et non sous l’effet du pouvoir de [forme animale](./Forme animale.md).
+L’arcaniste peut dépenser 1 point de son [[arcaniste#EXPLOITATION|réservoir arcanique]] pour lancer un sort tout en étant sous l’effet d’un sort de métamorphose. Ce pouvoir fonctionne comme le don [[Incantation animale]], sauf que l’arcaniste l’utilise pour lancer des sorts tout en étant sous l’effet d’un sort et non sous l’effet du pouvoir de [[forme animale]].
 
 {s:MCA}{s:Reference|METAMORPHOSEALTEREE}
 #### Métamorphose altérée (Sur).
-Quand l’arcaniste est sous l’effet d’un sort du registre de la métamorphose qu’il a lui-même lancé, il peut dépenser 1 point de son [réservoir arcanique](./Arcaniste.md#EXPLOITATION) pour changer sa forme et adopter celle d’une autre créature autorisée par le sort. Ceci réduit de 1 le [niveau de lanceur de sorts](./NLS.md) du sort, ce qui le faire passer sous le niveau de lanceur de sorts minimum nécessaire pour le lancer le et réduit sa durée, le cas échéant. L’arcaniste doit posséder l’exploitation [métamorphose de l'Université des sciences pragmatiques](./Exploitations.md#METAMORPHEDELUNIVERSITE) avant de pouvoir choisir celle-ci.
+Quand l’arcaniste est sous l’effet d’un sort du registre de la métamorphose qu’il a lui-même lancé, il peut dépenser 1 point de son [[arcaniste#EXPLOITATION|réservoir arcanique]] pour changer sa forme et adopter celle d’une autre créature autorisée par le sort. Ceci réduit de 1 le [[NLS|niveau de lanceur de sorts]] du sort, ce qui le faire passer sous le niveau de lanceur de sorts minimum nécessaire pour le lancer le et réduit sa durée, le cas échéant. L’arcaniste doit posséder l’exploitation [[exploitations#METAMORPHEDELUNIVERSITE|métamorphose de l'Université des sciences pragmatiques]] avant de pouvoir choisir celle-ci.
 
 {s:MCA}{s:Reference|PIEGEURDILLUSIONS}
 #### Piégeur d’illusions du Monde féerique (Sur).
-L’arcaniste gagne un bonus de +2 aux jets de sauvegarde effectués contre les illusions. S’il parvient à réfuter une [illusion](./Illusion.md), il peut dépenser 1 point de son [réservoir arcanique](./Arcaniste.md#EXPLOITATION) pour tenter d’annuler ou de contrôler l’illusion. L’arcaniste effectue un test de niveau de lanceur de sorts comme s’il essayait de dissiper l’effet à l’aide d’une *[dissipation de la magie](./Dissipation de la magie.md)*. S’il réussit son test, il peut mettre fin à l’effet ou le modifier comme s’il était le lanceur du sort. Si la durée du sort dépend de la concentration, l’arcaniste doit rester concentré sur le nouvel effet ou celui-ci prend fin. L’arcaniste doit posséder l’exploitation [voleur de visages du Monde féerique](./Exploitations.md#VOLEURDEVISAGES) avant de pouvoir choisir celle-ci.
+L’arcaniste gagne un bonus de +2 aux jets de sauvegarde effectués contre les illusions. S’il parvient à réfuter une [[illusion]], il peut dépenser 1 point de son [[arcaniste#EXPLOITATION|réservoir arcanique]] pour tenter d’annuler ou de contrôler l’illusion. L’arcaniste effectue un test de niveau de lanceur de sorts comme s’il essayait de dissiper l’effet à l’aide d’une *[[dissipation de la magie]]*. S’il réussit son test, il peut mettre fin à l’effet ou le modifier comme s’il était le lanceur du sort. Si la durée du sort dépend de la concentration, l’arcaniste doit rester concentré sur le nouvel effet ou celui-ci prend fin. L’arcaniste doit posséder l’exploitation [[exploitations#VOLEURDEVISAGES|voleur de visages du Monde féerique]] avant de pouvoir choisir celle-ci.
 
 {s:MCA}{s:Reference|TROISIEMEOEIL}
 #### Troisième œil (Sur).
-L’arcaniste peut ouvrir son œil du seigneur de l’Arche une fois de plus chaque jour en dépensant 1 point de son [réservoir arcanique](./Arcaniste.md#EXPLOITATION). Il peut obtenir des utilisations supplémentaires mais chaque utilisation ultérieure l’oblige à dépenser un point de réservoir arcanique de plus : 2 points pour une deuxième utilisation supplémentaire, 3 points pour une troisième utilisation, etc. L’arcaniste doit posséder le don Œil du seigneur de l’Arche avant de pouvoir choisir cette exploitation.
+L’arcaniste peut ouvrir son œil du seigneur de l’Arche une fois de plus chaque jour en dépensant 1 point de son [[arcaniste#EXPLOITATION|réservoir arcanique]]. Il peut obtenir des utilisations supplémentaires mais chaque utilisation ultérieure l’oblige à dépenser un point de réservoir arcanique de plus : 2 points pour une deuxième utilisation supplémentaire, 3 points pour une troisième utilisation, etc. L’arcaniste doit posséder le don Œil du seigneur de l’Arche avant de pouvoir choisir cette exploitation.
 
 {s:MCA}{s:Reference|VOILEDOMBRE}
 #### Voile d’ombre de l'État serviteur de l'Ombre (Sur).
-En dépensant 1 point de son [réservoir arcanique](./Arcaniste.md#EXPLOITATION), un arcaniste peut s’entourer d’un voile d’ombre, ce qui réduit les chances de le repérer et de le frapper. L’arcaniste bénéficie d’un [camouflage](./camouflage.md) (20% de chances d’échec) et un bonus de +5 aux tests de [Discrétion](./Discrétion.md). Cet effet dure un nombre de [rounds](./round.md) égal à 1 + le bonus de [Charisme](./Charisme.md) de l’arcaniste.
+En dépensant 1 point de son [[arcaniste#EXPLOITATION|réservoir arcanique]], un arcaniste peut s’entourer d’un voile d’ombre, ce qui réduit les chances de le repérer et de le frapper. L’arcaniste bénéficie d’un [[camouflage]] (20% de chances d’échec) et un bonus de +5 aux tests de [[Discrétion]]. Cet effet dure un nombre de [[round|rounds]] égal à 1 + le bonus de [[Charisme]] de l’arcaniste.
 
 {s:MCA}{s:Reference|VOLEURDEVISAGES}
 #### Voleur de visages du Monde féerique (Sur).
-L’arcaniste peut dépenser 1 point de son [réservoir arcanique](./Arcaniste.md#EXPLOITATION) pour revêtir un déguisement illusoire semblable à celui d’un sort de *[déguisement](./sort Déguisement.md)*. S’il dépense 2 points de son réservoir arcanique au lieu d’un seul, la durée de l’effet s’élève à 10 minutes par niveau.
+L’arcaniste peut dépenser 1 point de son [[arcaniste#EXPLOITATION|réservoir arcanique]] pour revêtir un déguisement illusoire semblable à celui d’un sort de *[[sort déguisement|déguisement]]*. S’il dépense 2 points de son réservoir arcanique au lieu d’un seul, la durée de l’effet s’élève à 10 minutes par niveau.
 </nowiki>)))
 
 #### Lignages Sanguin 270-271
@@ -375,43 +375,43 @@ L’arcaniste peut dépenser 1 point de son [réservoir arcanique](./Arcaniste.m
 **Fait.**
 
 #### Sorts — 280-281
-~~**Fait :** Mettre à jour les listes de sorts des classes concernées ([Barde](./Liste des sorts de bardes.md), [Chaman](./Liste des sorts de chaman.md), [Druide](./Liste des sorts de druides.md), [Enquêteur](./Liste des formules dalchimiste.md), [Magicien](./Liste des sorts densorceleursmagiciens.md), [Magus](./Liste des sorts de magus.md), [Prêtre](./Liste des sorts de prêtres.md), [Rôdeur](./Liste des sorts de rôdeurs.md), [Sanguin](./Liste des sorts de sanguin.md) et [Sorcière](./Liste des sorts de sorcière.md)).~~
-~~**Fait :** Mettre à jour la [liste alphabétique des sorts](./Liste des sorts.md).~~
+~~**Fait :** Mettre à jour les listes de sorts des classes concernées ([[Liste des sorts de bardes|Barde]], [[liste des sorts de chaman|Chaman]], [[liste des sorts de druides|Druide]], [[liste des formules dalchimiste|Enquêteur]], [[Liste des sorts densorceleursmagiciens|Magicien]], [[Liste des sorts de magus|Magus]], [[liste des sorts de prêtres|Prêtre]], [[Liste des sorts de rôdeurs|Rôdeur]], [[Liste des sorts de sanguin|Sanguin]] et [[Liste des sorts de sorcière|Sorcière]]).~~
+~~**Fait :** Mettre à jour la [[Liste des sorts|liste alphabétique des sorts]].~~
 
 #### Talents d’enquêteur Enquêteur 265
-~~**Fait :** Mettre à jour la page [talents (enquêteur)](./Talents (enquêteur).md), sans oublier le tableau en haut de page.~~
+~~**Fait :** Mettre à jour la page [[talents (enquêteur)]], sans oublier le tableau en haut de page.~~
 (((<nowiki>
 {s:MCA}{s:Reference|INGENIERIEAPPLIQUEE}
 #### Ingénierie appliquée (Ext).
-L’enquêteur peut exploiter ses connaissances en ingénierie pour trouver des solutions aux problèmes qui nécessitent normalement un œil de lynx ou l’application de la force brute. Il peut dépenser une utilisation d’[inspiration](./Enquêteur.md#INSPIRATION) par une [action complexe](./Action complexe.md) pour étudier un objet ou une zone et effectuer un test de [Connaissances](./Connaissances.md) (ingénierie). Lors de son prochain tour, il peut remplacer un test de [Force](./Force.md) pour briser un objet ou un test de [Perception](./Perception.md) pour repérer des portes ou des compartiments dissimulés dans la zone examinée par le résultat de ce test de [Connaissances](./Connaissances.md) (ingénierie).
+L’enquêteur peut exploiter ses connaissances en ingénierie pour trouver des solutions aux problèmes qui nécessitent normalement un œil de lynx ou l’application de la force brute. Il peut dépenser une utilisation d’[[enquêteur#INSPIRATION|inspiration]] par une [[action complexe]] pour étudier un objet ou une zone et effectuer un test de [[Connaissances]] (ingénierie). Lors de son prochain tour, il peut remplacer un test de [[Force]] pour briser un objet ou un test de [[Perception]] pour repérer des portes ou des compartiments dissimulés dans la zone examinée par le résultat de ce test de [[Connaissances]] (ingénierie).
 
 {s:MCA}{s:Reference|EFFETDOMINO}
 #### Effet domino* (Ext).
-Quand un enquêteur utilise [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE), il monte ses adversaires les uns contre les autres pour préparer sa prochaine action. Quand il parvient à infliger des dégâts à un adversaire avec frappe étudiée, il peut, par une [action libre](./Action libre.md), appliquer les effets de [combat étudié](./Enquêteur.md#COMBATETUDIE) à un autre adversaire adjacent au premier. Un enquêteur doit avoir atteint le niveau 5 au moins avant de choisir ce talent.
+Quand un enquêteur utilise [[enquêteur#FRAPPEETUDIEE|frappe étudiée]], il monte ses adversaires les uns contre les autres pour préparer sa prochaine action. Quand il parvient à infliger des dégâts à un adversaire avec frappe étudiée, il peut, par une [[action libre]], appliquer les effets de [[enquêteur#COMBATETUDIE|combat étudié]] à un autre adversaire adjacent au premier. Un enquêteur doit avoir atteint le niveau 5 au moins avant de choisir ce talent.
 
 {s:MCA}{s:Reference|ETUDEPROLONGEE}
 #### Étude prolongée* (Ext).
-L’enquêteur peut étudier ses adversaires de manière prolongée. Les effets de son aptitude de [combat étudié](./Enquêteur.md#COMBATETUDIE) durent un nombre de [rounds](./round.md) égal à deux fois son modificateur d’[Intelligence](./Intelligence.md) (minimum 2) ou jusqu’à ce qu’il inflige des dégâts à l’aide d’une [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE). L’enquêteur doit avoir atteint le niveau 13 au moins avant de choisir ce talent.
+L’enquêteur peut étudier ses adversaires de manière prolongée. Les effets de son aptitude de [[enquêteur#COMBATETUDIE|combat étudié]] durent un nombre de [[round|rounds]] égal à deux fois son modificateur d’[[Intelligence]] (minimum 2) ou jusqu’à ce qu’il inflige des dégâts à l’aide d’une [[enquêteur#FRAPPEETUDIEE|frappe étudiée]]. L’enquêteur doit avoir atteint le niveau 13 au moins avant de choisir ce talent.
 
 {s:MCA}{s:Reference|COUPRALENTISSANT}
 #### Coup ralentissant* (Ext).
-Quand un enquêteur inflige des dégâts avec son aptitude de [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE), l’adversaire doit réussir un jet de [Vigueur](./Vigueur.md) ([DD](./DD.md) = 10 + la moitié du niveau d’enquêteur + son modificateur d’[Intelligence](./Intelligence.md)) pour ne pas être ralenti par ce coup. Les vitesses de déplacement d’un adversaire ralenti de la sorte sont diminuées de 1,50 mètre (jusqu’à un minimum de 1,50 mètre) tant que la créature n’est pas soignée grâce à l’application d’un sort qui permet de récupérer des points de vie ou un test de [Premiers secours](./Premiers secours.md) [DD](./DD.md) 15. Les effets de plusieurs coups ralentissants se cumulent jusqu’à un minimum de 1,50 mètre. Un enquêteur doit avoir atteint le niveau 7 au moins avant de choisir ce talent.
+Quand un enquêteur inflige des dégâts avec son aptitude de [[enquêteur#FRAPPEETUDIEE|frappe étudiée]], l’adversaire doit réussir un jet de [[Vigueur]] ([[DD]] = 10 + la moitié du niveau d’enquêteur + son modificateur d’[[Intelligence]]) pour ne pas être ralenti par ce coup. Les vitesses de déplacement d’un adversaire ralenti de la sorte sont diminuées de 1,50 mètre (jusqu’à un minimum de 1,50 mètre) tant que la créature n’est pas soignée grâce à l’application d’un sort qui permet de récupérer des points de vie ou un test de [[Premiers secours]] [[DD]] 15. Les effets de plusieurs coups ralentissants se cumulent jusqu’à un minimum de 1,50 mètre. Un enquêteur doit avoir atteint le niveau 7 au moins avant de choisir ce talent.
 
 {s:MCA}{s:Reference|FRAPPEOPPORTUNE}
 #### Frappe opportune* (Ext).
-Plus l’enquêteur étudie longuement son adversaire, plus importants seront les dégâts qu’il infligera avec sa [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE). Quand un enquêteur effectue une frappe étudiée, il inflige un nombre de points de dégâts supplémentaires égal au nombre de [rounds](./round.md) consécutifs pendant lesquels il a étudié sa cible avec son aptitude de [combat étudié](./Enquêteur.md#COMBATETUDIE).
+Plus l’enquêteur étudie longuement son adversaire, plus importants seront les dégâts qu’il infligera avec sa [[enquêteur#FRAPPEETUDIEE|frappe étudiée]]. Quand un enquêteur effectue une frappe étudiée, il inflige un nombre de points de dégâts supplémentaires égal au nombre de [[round|rounds]] consécutifs pendant lesquels il a étudié sa cible avec son aptitude de [[enquêteur#COMBATETUDIE|combat étudié]].
 </nowiki>)))
 
 #### Talents de tueur Tueur 275
-~~**Fait :** Mettre à jour la page [talents (tueur)](./Talents (tueur).md), sans oublier le tableau en haut de page.~~
+~~**Fait :** Mettre à jour la page [[talents (tueur)]], sans oublier le tableau en haut de page.~~
 (((<nowiki>
 {s:MCA}{s:Reference|ALLIEETUDIE}
 #### Allié étudié (Ext).
-Le tueur peut, par une [action de mouvement](./Action de mouvement.md), étudier un allié ou une créature amicale dans son champ de vision. Il gagne un bonus de +1 aux tests et aux [jets d’attaque](./jet dattaque.md) lorsqu’il effectue l’action [aider quelqu’un](./aider qqn.md) pour améliorer les tests de compétence de cet allié ou augmenter sa [CA](./CA.md). Ce bonus augmente au même rythme que celui de [cible étudiée](./Tueur.md#CIBLEETUDIEE) du tueur. Au niveau 7, un tueur peut étudier un allié par une [action de mouvement](./Action de mouvement.md) ou une [action rapide](./Action rapide.md). L’allié étudié d’un tueur est décompté du nombre de cibles étudiées qu’il peut avoir en même temps.
+Le tueur peut, par une [[action de mouvement]], étudier un allié ou une créature amicale dans son champ de vision. Il gagne un bonus de +1 aux tests et aux [[jet dattaque|jets d’attaque]] lorsqu’il effectue l’action [[aider qqn|aider quelqu’un]] pour améliorer les tests de compétence de cet allié ou augmenter sa [[CA]]. Ce bonus augmente au même rythme que celui de [[tueur#CIBLEETUDIEE|cible étudiée]] du tueur. Au niveau 7, un tueur peut étudier un allié par une [[action de mouvement]] ou une [[action rapide]]. L’allié étudié d’un tueur est décompté du nombre de cibles étudiées qu’il peut avoir en même temps.
 
 {s:MCA}{s:Reference|ANALYSEDUSANG}
 #### Analyse du sang (Ext).
-S’il peut voir une [cible étudiée](./Tueur.md#CIBLEETUDIEE), un tueur connait le nombre exact de points de vie actuels qu’elle possède. Ce talent fonctionne uniquement contre les cibles vivantes.
+S’il peut voir une [[tueur#CIBLEETUDIEE|cible étudiée]], un tueur connait le nombre exact de points de vie actuels qu’elle possède. Ce talent fonctionne uniquement contre les cibles vivantes.
 </nowiki>)))
 
 ## Intégration
@@ -441,7 +441,7 @@ requises par les dons.
 - Réflexions sur les talents : Faut-il faire une page par classe avec les talents et un renvoi vers les talents d'autres classes ou une page unique regroupant tous les talents en apportant une précision de ce qui est disponible pour chaque classe qui obtient des talents ?
 
 
-[Temp-Réflexions sur le snippet Menuclasses](./Temp-Réflexions-sur-le-snippet-Menuclasses.md)
+[[Temp-Réflexions sur le snippet Menuclasses]]
 
 {s:Menuclasses}
 {s:Menuclassessupplémentaires}

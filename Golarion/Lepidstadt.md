@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-Lepidstadt est la plus grande ville du comté de [Vieland](./Vieland.md) en [Ustalav](./Ustalav.md). Et en tant que telle, elle agit comme sa capitale depuis que le Conseil local s'y est installé.
+Lepidstadt est la plus grande ville du comté de [[Vieland]] en [[Ustalav]]. Et en tant que telle, elle agit comme sa capitale depuis que le Conseil local s'y est installé.
 
-Lepidstadt est située sur les rives de l'une des nombreuses rivières de l'[Ustalav](./Ustalav.md), à l'ouest des immenses et impassibles Montagnes des Défenses qui marquent la frontière avec la terre de [Belkzen](./Belkzen.md).
+Lepidstadt est située sur les rives de l'une des nombreuses rivières de l'[[Ustalav]], à l'ouest des immenses et impassibles Montagnes des Défenses qui marquent la frontière avec la terre de [[Belkzen]].
 
-[image|Carte de Lepidstadt|http://i37.servimg.com/u/f37/14/57/45/19/tumblr12.jpg]
+<img src="http://i37.servimg.com/u/f37/14/57/45/19/tumblr12.jpg" alt="Carte de Lepidstadt">

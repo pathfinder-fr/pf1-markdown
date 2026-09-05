@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Sansdéfense
 ---
 
->>> [États préjudiciables#Sansdéfense](./États préjudiciables.md#Sansdéfense)
+>>> [[États préjudiciables#Sansdéfense]]

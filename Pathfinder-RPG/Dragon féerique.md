@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Dragon|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 1*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Dragon](./type Dragon.md) de taille TP, CB}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Dragon|Dragon]] de taille TP, CB}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 16, pris au dépourvu 14 (Dex +3, esquive +1,naturelle +2, taille +2)}
 {s:BDTexte|**pv** 22 (3d12+3)}
@@ -27,22 +27,22 @@ Categories:
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDTexte|**Attaques spéciales** souffle}
 {s:BDTexte|**Pouvoirs magiques** (NLS 3)}
-{s:BDTexte|3/jour — *[invisibilité suprême](./Invisibilité suprême.md)* (personnel uniquement)}
+{s:BDTexte|3/jour — *[[invisibilité suprême]]* (personnel uniquement)}
 {s:BDTexte|**Sorts connus** (NLS 3)}
-{s:BDTexte|1<sup>er</sup> (6/jour) — *[graisse](./Graisse.md)* (DD 14), *[image silencieuse](./Image silencieuse.md)*, *[sommeil](./Sommeil.md)* (DD 14)}
-{s:BDTexte|0 (à volonté) — *[illumination](./Illumination.md)* (DD 13), *[lumières dansantes](./Lumières dansantes.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*, *[son imaginaire](./Son imaginaire.md)*}
+{s:BDTexte|1<sup>er</sup> (6/jour) — *[[graisse]]* (DD 14), *[[image silencieuse]]*, *[[sommeil]]* (DD 14)}
+{s:BDTexte|0 (à volonté) — *[[illumination]]* (DD 13), *[[lumières dansantes]]*, *[[manipulation à distance]]*, *[[ouverturefermeture|ouverture/fermeture]]*, *[[son imaginaire]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 9, **Dex** 17, **Con** 13, **Int** 16, **Sag** 14, **Cha** 16}
 {s:BDTexte|**BBA** +3, **BMO** +4, **DMD** 17}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Voltigeur](./Voltigeur.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8 (+0 pour le saut), [Bluff](./Bluff.md) +9, [Diplomatie](./Diplomatie.md) +9, [Discrétion](./Discrétion.md) +17, [Natation](./Natation.md) +17, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +8, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +9, [Vol](./Vol.md) +23}
-{s:BDTexte|**Langues** commun, draconique, elfique, sylvestre ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Esquive]], [[Voltigeur]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8 (+0 pour le saut), [[Bluff]] +9, [[Diplomatie]] +9, [[Discrétion]] +17, [[Natation]] +17, [[Perception]] +8, [[Psychologie]] +8, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +9, [[Vol]] +23}
+{s:BDTexte|**Langues** commun, draconique, elfique, sylvestre ; [[télépathie]] 30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes ou tempérées}
 {s:BDTexte|**Organisation sociale** solitaire ou clan (2-8)}
 {s:BDTexte|**Trésor** 550 po}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Souffle (Sur).** Ce [cône](./cône.md) de 1,50 m (1 {s:c}) rend euphorique pendant 1d6 rounds ([Vigueur](./Vigueur.md) [DD](./DD.md) 12 pour annuler). Les créatures affectées sont [chancelantes](./Chancelant.md), [fiévreuses](./Fiévreux.md) et immunisées contre les effets de peur tant qu'elles sont euphoriques. un dragon féerique peut utiliser son souffle tous les 1d4 rounds. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Souffle (Sur).** Ce [[cône]] de 1,50 m (1 {s:c}) rend euphorique pendant 1d6 rounds ([[Vigueur]] [[DD]] 12 pour annuler). Les créatures affectées sont [[chancelant|chancelantes]], [[fiévreux|fiévreuses]] et immunisées contre les effets de peur tant qu'elles sont euphoriques. un dragon féerique peut utiliser son souffle tous les 1d4 rounds. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 </div>
 </td><td><div>*Une paire d’ailes de papillon colorées jaillit du dos de ce petit dragon. Un sourire malicieux joue sur son museau tandis qu’il volète de-ci de-là avec une grâce incroyable.*
 
@@ -55,5 +55,5 @@ Quoiqu’il en soit, les dragons féeriques apprennent toujours des sorts qui le
 
 #### Le dragon féerique comme familier
 
-Il est difficile de contrôler un dragon féerique, mais il peut devenir un puissant familier. Les lanceurs de sorts qui souhaitent adopter un dragon féerique comme familier doivent disposer du don [Familier supérieur](./Familier supérieur.md) et leur alignement ne doit pas s’éloigner de Chaotique Bon de plus d’un degré. Le personnage doit être, au minimum, un lanceur de sorts profane de niveau 7.
+Il est difficile de contrôler un dragon féerique, mais il peut devenir un puissant familier. Les lanceurs de sorts qui souhaitent adopter un dragon féerique comme familier doivent disposer du don [[Familier supérieur]] et leur alignement ne doit pas s’éloigner de Chaotique Bon de plus d’un degré. Le personnage doit être, au minimum, un lanceur de sorts profane de niveau 7.
 </div></td></tr></table>

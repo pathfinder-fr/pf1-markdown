@@ -11,11 +11,11 @@ Categories:
 <div class="BD">
 {s:BDTitre|Reptoïde|FP 1/2}
 {s:pucem|Humanoïde|Ville|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.219](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.219]]*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Reptoïde](./Reptoïde-(race).md) [hypnotiseur](./Hypnotiseur.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([reptilien](./sous-type reptilien.md), [métamorphe](./sous-type métamorphe.md)) de taille M, LM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[Reptoïde (race)|Reptoïde]] [[hypnotiseur]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type reptilien|reptilien]], [[sous-type métamorphe|métamorphe]]) de taille M, LM}
+{s:BDTexte|**Init** +0 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 10, pris au dépourvu 11 (naturelle +1)}
 {s:BDTexte|**pv** 7 (1d8-1)}
@@ -24,14 +24,14 @@ Categories:
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** morsure, +1 (1d3+1) et 2 griffes, +1 (1d3+1)}
 {s:BDTexte|**Attaques spéciales** regard hypnotique, inductions d’hypnotiseur (4/jour, soutien psychosomatique), regard douloureux}
-{s:BDTexte|**Sorts d’hypnotiseur connus** ([NLS](./NLS.md) 1 ; [concentration](./concentration.md) +4)}
-{s:BDSorts|1er (2/jour) — *[hypnose](./Hypnose.md)* (DD 14), *[innocence](./Innocence.md)*}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[hébétement](./Hébétement.md)* (DD 13), *[message](./Message.md)*, *[prestidigitation](./Prestidigitation.md)*}
+{s:BDTexte|**Sorts d’hypnotiseur connus** ([[NLS]] 1 ; [[concentration]] +4)}
+{s:BDSorts|1er (2/jour) — *[[hypnose]]* (DD 14), *[[innocence]]*}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[hébétement]]* (DD 13), *[[message]]*, *[[prestidigitation]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 10, **Con** 8, **Int** 14, **Sag** 13, **Cha** 17}
 {s:BDTexte|**BBA** +0 ; **BMO** +1 ; **DMD** 11}
-{s:BDTexte|**Dons** [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +8, [Connaissances](./Connaissances.md) (folklore local, noblesse) +6, [Diplomatie](./Diplomatie.md) +7, [Linguistique](./Linguistique.md) +6, [Perception](./Perception.md) +5, [Psychologie](./Psychologie.md) +5, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +7}
+{s:BDTexte|**Dons** [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Bluff]] +8, [[Connaissances]] (folklore local, noblesse) +6, [[Diplomatie]] +7, [[Linguistique]] +6, [[Perception]] +5, [[Psychologie]] +5, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +7}
 {s:BDTexte|**Langues** commun, elfe, reptoïde}
 {s:BDTexte|**Particularités** changement de forme, menteur accompli, puissance mentale}
 {s:BDSousTitre|Écologie}
@@ -39,8 +39,8 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, paire ou cabale (3-8)}
 {s:BDTexte|**Trésor** équipement de PNJ}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Changement de forme (Sur).** Un reptoïde peut prendre l’apparence d’un individu [humanoïde](./type Humanoïde.md) unique de taille M. Le reptoïde prend toujours cette apparence spécifique quand il utilise ce pouvoir. Il obtient un bonus racial de +10 aux tests de [Déguisement](./Déguisement.md) pour se faire passer pour ce type d’humanoïde. Ce pouvoir fonctionne comme *[modification d’apparence](./Modification dapparence.md)*, sauf que le reptoïde n’ajuste pas ses valeurs de caractéristiques à son apparence. Un reptoïde peut choisir une nouvelle apparence humanoïde en passant une semaine à se préparer à ce changement, mais il ne pourra alors plus se transformer pour prendre la précédente forme.}
-{s:BDTexte|**Puissance mentale (Ext).** Les effets mentaux causés par un reptoïde peuvent affecter des créatures plus puissantes ou un plus grand nombre de créatures que la normale. La limite de [dés de vie](./../Ressources/DV.md) et le nombre total de dés de vie affectés par chaque [enchantement](./Enchantement.md) ou [illusion](./Illusion.md) qu’il lance sont augmentés de 1. En ce qui concerne les enchantements ou illusions qu’il lance et qui ciblent plus d’une créature, le nombre de créatures affectées augmente lui aussi de 1 (donc un sort qui cible une créature par niveau sera influencé par ce pouvoir, mais pas un sort qui ne cible qu’une seule créature). Les effets de ce pouvoir peuvent s’ajouter aux effets du pouvoir d’hypnotiseur [du même nom](./Hypnotiseur.md#PUISSANCEMENTALE).}
+{s:BDTexte|**Changement de forme (Sur).** Un reptoïde peut prendre l’apparence d’un individu [[type Humanoïde|humanoïde]] unique de taille M. Le reptoïde prend toujours cette apparence spécifique quand il utilise ce pouvoir. Il obtient un bonus racial de +10 aux tests de [[Déguisement]] pour se faire passer pour ce type d’humanoïde. Ce pouvoir fonctionne comme *[[modification dapparence|modification d’apparence]]*, sauf que le reptoïde n’ajuste pas ses valeurs de caractéristiques à son apparence. Un reptoïde peut choisir une nouvelle apparence humanoïde en passant une semaine à se préparer à ce changement, mais il ne pourra alors plus se transformer pour prendre la précédente forme.}
+{s:BDTexte|**Puissance mentale (Ext).** Les effets mentaux causés par un reptoïde peuvent affecter des créatures plus puissantes ou un plus grand nombre de créatures que la normale. La limite de [[DV|dés de vie]] et le nombre total de dés de vie affectés par chaque [[enchantement]] ou [[illusion]] qu’il lance sont augmentés de 1. En ce qui concerne les enchantements ou illusions qu’il lance et qui ciblent plus d’une créature, le nombre de créatures affectées augmente lui aussi de 1 (donc un sort qui cible une créature par niveau sera influencé par ce pouvoir, mais pas un sort qui ne cible qu’une seule créature). Les effets de ce pouvoir peuvent s’ajouter aux effets du pouvoir d’hypnotiseur [[Hypnotiseur#PUISSANCEMENTALE|du même nom]].}
 
 </div></td>
 <td><div>*Cet humanoïde émacié et couvert d’écailles a des yeux de reptile, un nez à peine visible et une large bouche dépourvue de lèvres et bardée de dents effilées.*
@@ -54,9 +54,9 @@ Les reptoïdes sont définis par leurs niveaux de classe. Ils n’ont pas de dé
 - **Vitesse normale.** Les reptoïdes ont une vitesse de base de 9 mètres.
 - **Vision nocturne (Ext).** Les reptoïdes peuvent voir deux fois plus loin que les humains dans une lumière faible.
 - **Écailles.** Quand il est sous sa forme naturelle, un reptoïde a un bonus d’armure naturelle de +1.
-- **Sang froid (Ext).** Les reptoïdes ont un bonus racial de +2 à leurs [jets de sauvegarde](./JDS.md) contre les [effets mentaux](./JDS.md) et les poisons.
+- **Sang froid (Ext).** Les reptoïdes ont un bonus racial de +2 à leurs [[jds|jets de sauvegarde]] contre les [[jds|effets mentaux]] et les poisons.
 - **Armes naturelles (Ext).** Quand il est sous sa forme naturelle, un reptoïde possède une attaque de morsure et deux attaques de griffes. Chacune de ces attaques cause 1d3 points de dégâts.
 - **Changement de forme (Sur).** Voir ci-dessus.
 - **Puissance mentale (Ext).** Voir ci-dessus.
-- **Langues.** Tous les reptoïdes commencent le jeu en parlant le commun et le reptoïde. Ceux d’entre eux qui possèdent une valeur d’[Intelligence](./Intelligence.md) élevée peuvent choisir n’importe quelle langue (à l’exception des langues secrètes, comme le druidique).
+- **Langues.** Tous les reptoïdes commencent le jeu en parlant le commun et le reptoïde. Ceux d’entre eux qui possèdent une valeur d’[[Intelligence]] élevée peuvent choisir n’importe quelle langue (à l’exception des langues secrètes, comme le druidique).
 </div></td></tr></table>

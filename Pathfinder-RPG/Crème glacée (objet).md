@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa ; **Poids** —
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Ce dessert exotique est fait de lait et de crème, souvent aromatisé aux fruits ou à la menthe. Étant donné qu’il fond très vite à température ambiante, il doit être aussi froid que la neige ou la glace ou conservé à basse température, comme dans un cellier froid ou au moyen de l’alchimie ou de la magie. Ces limitations en font un produit cher et, dans la plupart des territoires, on n’en trouve que lors de certaines saisons. Le prix est indiqué pour une grosse boule (1 coupe).

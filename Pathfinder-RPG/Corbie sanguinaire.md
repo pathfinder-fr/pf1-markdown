@@ -14,30 +14,30 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.52*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, NM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, NM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 11, pris au dépourvu 12 (Dex +1, naturelle +2)}
 {s:BDTexte|**pv** 15 (2d10+4)}
 {s:BDTexte|**Réf** +4, **Vig** +2, **Vol** +3}
-{s:BDTexte|**Capacité défensive** [férocité](./Férocité (capacité).md)}
+{s:BDTexte|**Capacité défensive** [[Férocité (capacité)|férocité]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 griffes, +3 (1d4+1)}
-{s:BDTexte|**Attaques spéciales** bondissement, [éventration](./Éventration (capacité).md) (2 griffes, 1d4+1)}
+{s:BDTexte|**Attaques spéciales** bondissement, [[éventration (capacité)|éventration]] (2 griffes, 1d4+1)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 12, **Con** 15, **Int** 7, **Sag** 10, **Cha** 8}
 {s:BDTexte|**BBA** +2, **BMO** +3, **DMD** 14}
-{s:BDTexte|**Dons**  [Combat en aveugle](./Combat en aveugle.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences**  [Acrobaties](./Acrobaties.md) +10, [Discrétion](./Discrétion.md) +8, [Escalade](./Escalade.md) +13, [Perception](./Perception.md) +6}
-{s:BDTexte|**Modificateurs raciaux**  +8 en [Acrobaties](./Acrobaties.md), +2 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons**  [[Combat en aveugle]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences**  [[Acrobaties]] +10, [[Discrétion]] +8, [[Escalade]] +13, [[Perception]] +6}
+{s:BDTexte|**Modificateurs raciaux**  +8 en [[Acrobaties]], +2 en [[Perception]]}
 {s:BDTexte|**Langue** commun des profondeurs}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous les souterrains}
-{s:BDTexte|**Organisation sociale** gang (2-5), troupeau de chasse (1-3 [tengus](./Tengu.md) [redoutables](./Archétypes.md#CREATUREEVOLUEE) et 5-10 corbies sanguinaires) ou colonie de freux (1-10 corbies redoutables et 10-50 corbies sanguinaires plus 1 [barbare](./Barbare.md) ou [guerrier](./Guerrier.md) de niveau 3 à 5 pour 10 adultes)}
+{s:BDTexte|**Organisation sociale** gang (2-5), troupeau de chasse (1-3 [[tengu|tengus]] [[Archétypes#CREATUREEVOLUEE|redoutables]] et 5-10 corbies sanguinaires) ou colonie de freux (1-10 corbies redoutables et 10-50 corbies sanguinaires plus 1 [[barbare]] ou [[guerrier]] de niveau 3 à 5 pour 10 adultes)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Bondissement (Ext).**Le corbie sanguinaire peut entreprendre une [attaque de bond](./Bond (capacité).md) en se jetant dans la bataille. Lorsque le corbie sanguinaire [charge](./charge.md), il peut faire un test d'[Acrobaties](./Acrobaties.md) [DD](./DD.md) 20 pour sauter dans les airs et atterrir près de ses ennemis. S'il réussit son test, il peut faire un [attaque à outrance](./attaque à outrance.md) (deux attaques de griffes plus une attaque d'[éventration](./Éventration (capacité).md) contre les ennemis à portée. S'il échoue, il peut quand même faire son attaque normale pour une charge.}
+{s:BDTexte|**Bondissement (Ext).**Le corbie sanguinaire peut entreprendre une [[Bond (capacité)|attaque de bond]] en se jetant dans la bataille. Lorsque le corbie sanguinaire [[charge]], il peut faire un test d'[[Acrobaties]] [[DD]] 20 pour sauter dans les airs et atterrir près de ses ennemis. S'il réussit son test, il peut faire un [[attaque à outrance]] (deux attaques de griffes plus une attaque d'[[éventration (capacité)|éventration]] contre les ennemis à portée. S'il échoue, il peut quand même faire son attaque normale pour une charge.}
 
 </div>
 
@@ -55,6 +55,6 @@ Les corbies sanguinaires sont non seulement de sauvages prédateurs, mais ils so
 Un corbie sanguinaire moyen mesure 1,50 mètre et pèse entre 60 et 75 kilos.
 
 #### Corbies redoutables
-Ces puissants corbies sont les rejeton des corbies sanguinaires et des [harpies](./Harpie.md). Il ont un [archétype évolué](./Archétypes.md#CREATUREEVOLUEE) et l'attaque spéciale suivante :
-- **Cri de funeste destin (Sur).** Une fois par jour, le corbie redoutable peut pousser un cri perça,t vers une cible située dans un rayon de 9 m (6 {s:c}). La cible doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 12 ou être [effrayée](./Effrayé.md) pendant 1d4 [rounds](./round.md). Il s'agit d'un effet mental sonore de terreur. Le [DD](./DD.md) du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).
+Ces puissants corbies sont les rejeton des corbies sanguinaires et des [[harpie|harpies]]. Il ont un [[Archétypes#CREATUREEVOLUEE|archétype évolué]] et l'attaque spéciale suivante :
+- **Cri de funeste destin (Sur).** Une fois par jour, le corbie redoutable peut pousser un cri perça,t vers une cible située dans un rayon de 9 m (6 {s:c}). La cible doit réussir un jet de [[Volonté]] [[DD]] 12 ou être [[effrayé|effrayée]] pendant 1d4 [[round|rounds]]. Il s'agit d'un effet mental sonore de terreur. Le [[DD]] du jet de sauvegarde est basé sur le [[Charisme]].
 </div></td></tr></table>

@@ -13,9 +13,9 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.23*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([archon](./sous-type archon.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md)) de taille P, LB}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4}
-{s:BDTexte|**Aura** [aura de menace](./sous-type archon.md) (DD 13)}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type archon|archon]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]]) de taille P, LB}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +4}
+{s:BDTexte|**Aura** [[sous-type archon|aura de menace]] (DD 13)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 15 (naturelle +4, taille +1 ; parade +2 contre le Mal)}
 {s:BDTexte|**pv** 13 (2d10+2)}
@@ -25,26 +25,26 @@ Categories:
 {s:BDTexte|**VD** vol 18 m (12 {s:c}) (parfaite)}
 {s:BDTexte|**Distance** 2 rayons lumineux, +3 (contact à distance, 1d6)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 3<sup>e</sup>)}
-{s:BDSorts|À volonté — *[aide](./Aide.md)*, *[détection du Mal](./Détection du Mal.md)*, *[flamme éternelle](./Flamme éternelle.md)*, *[téléportation suprême](./Téléportation suprême.md)* (lui-même et 25 kg d'objets uniquement)}
+{s:BDSorts|À volonté — *[[aide]]*, *[[détection du Mal]]*, *[[flamme éternelle]]*, *[[téléportation suprême]]* (lui-même et 25 kg d'objets uniquement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 11, **Con** 12, **Int** 6, **Sag** 11, **Cha** 10}
 {s:BDTexte|**BBA** +2, **BMO** -4, **DMD** 6}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +3, [Diplomatie](./Diplomatie.md) +5, [Perception](./Perception.md) +4, [Psychologie](./Psychologie.md) +5, [Vol](./Vol.md) +14}
-{s:BDTexte|**Langues** céleste, draconique, infernal ; [langage universel](./sous-type archon.md#LANGAGEUNIVERSEL)}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +3, [[Diplomatie]] +5, [[Perception]] +4, [[Psychologie]] +5, [[Vol]] +14}
+{s:BDTexte|**Langues** céleste, draconique, infernal ; [[sous-type archon#LANGAGEUNIVERSEL|langage universel]]}
 {s:BDTexte|**Particularités** gestalt}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Paradis)}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou escouade (3-6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Gestalt (Sur)** Par une action complexe, un groupe de 9 archons lumineux peut fusionner en une unique entité de taille G plus puissante que la somme des membres qui la composent. Ce gestalt ressemble à un tourbillon de lucioles dansantes et possède tous les pouvoirs et toutes les capacités d'un [élémentaire de l'air](./Élémentaire de lAir.md) de taille G ainsi que les suivantes : 2 rayons de lumière (2d6) ; RD 5/Mal et magie ; sous-type des [archons](./sous-type archon.md), du [Bien](./sous-type Bien.md) et de la [Loi](./sous-type Loi.md) ; [traits des archons](./sous-type archon.md) ([Aura de menace](./sous-type archon.md) [DD](./DD.md) 16). Les archons peuvent conserver cette forme pendant 2d4 rounds. Lorsque les archons lumineux qui composent le gestalt se séparent, les points de vie restant sont divisés en parts égales entre eux. Si le gestalt avait moins de 9 points de vie, certains des archons qui le composent meurent lors de la séparation.}
-{s:BDTexte|**Rayon de lumière (Ext)** Un archon lumineux peut lancer des rayons de lumière qui blessent ses ennemis. Ces rayons ont une portée maximale de 9 m (6 {s:c}). Cette attaque ignore toutes les [réductions de dégâts](./RD.md), quel que soit leur type.}
+{s:BDTexte|**Gestalt (Sur)** Par une action complexe, un groupe de 9 archons lumineux peut fusionner en une unique entité de taille G plus puissante que la somme des membres qui la composent. Ce gestalt ressemble à un tourbillon de lucioles dansantes et possède tous les pouvoirs et toutes les capacités d'un [[élémentaire de lair|élémentaire de l'air]] de taille G ainsi que les suivantes : 2 rayons de lumière (2d6) ; RD 5/Mal et magie ; sous-type des [[sous-type archon|archons]], du [[sous-type Bien|Bien]] et de la [[sous-type Loi|Loi]] ; [[sous-type archon|traits des archons]] ([[sous-type archon|Aura de menace]] [[DD]] 16). Les archons peuvent conserver cette forme pendant 2d4 rounds. Lorsque les archons lumineux qui composent le gestalt se séparent, les points de vie restant sont divisés en parts égales entre eux. Si le gestalt avait moins de 9 points de vie, certains des archons qui le composent meurent lors de la séparation.}
+{s:BDTexte|**Rayon de lumière (Ext)** Un archon lumineux peut lancer des rayons de lumière qui blessent ses ennemis. Ces rayons ont une portée maximale de 9 m (6 {s:c}). Cette attaque ignore toutes les [[RD|réductions de dégâts]], quel que soit leur type.}
 </div>
 
 {s:ImageDroite|Bestiaire/Archon_lumineux.jpg|90%}
 
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [archons](./Archon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[archon|archons]].***</li></ul>
 *Une lumière chaude et apaisante émane de cet orbe brillant qui se déplace en silence et avec une grâce surnaturelle.*
 
 Les archons lumineux sont des êtres amicaux et curieux toujours

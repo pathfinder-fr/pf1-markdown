@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Vermine|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 2* p.187}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Vermine](./type Vermine.md) ([aquatique](./sous-type aquatique.md)) de taille P, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille P, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 14 (Dex +1, naturelle +3, taille +1)}
 {s:BDTexte|**pv** 32 (5d8+10)}
@@ -27,7 +27,7 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 13, **Con** 14, **Int** —, **Sag** 12, **Cha** 5}
 {s:BDTexte|**BBA** +3, **BMO** +4, **DMD** 15 (23 contre croc-en-jambe)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5 (+13 en eaux peu profondes), [Natation](./Natation.md) +10 ; Modificateurs raciaux +8 Discrétion en eaux peu
+{s:BDTexte|**Compétences** [[Discrétion]] +5 (+13 en eaux peu profondes), [[Natation]] +10 ; Modificateurs raciaux +8 Discrétion en eaux peu
 profondes}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** milieu aquatique, climat tempéré ou chaud}

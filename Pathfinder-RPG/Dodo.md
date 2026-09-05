@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 p. 96*}
 {s:BDTexte|**PX** 100 px}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision nocturne]] ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 11, pris au dépourvu 11 (taille +1)}
 {s:BDTexte|**pv** 6 (1d8+2)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 11, **Con** 14, **Int** 2, **Sag** 9, **Cha** 6}
 {s:BDTexte|**BBA** +0, **BMO** -5, **DMD** 5}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +3}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Perception]] +3}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** îles chaudes ou tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou pelote (3-6)}
@@ -38,5 +38,5 @@ les îles tropicales isolées et vierges de prédateurs. Leur audace,
 conjuguée à leur maladresse, les pousse à se mettre dans
 des situations où ils deviennent des proies faciles.
 
-Les dodos peuvent servir de [familier](./Familiers.md) aux lanceurs de sort. Un familier dodo offre à son maître un bonus de +4 aux tests d'[initiative](./initiative.md).
+Les dodos peuvent servir de [[Familiers|familier]] aux lanceurs de sort. Un familier dodo offre à son maître un bonus de +4 aux tests d'[[initiative]].
 </div></td></tr></table>

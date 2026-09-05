@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [fiche de créature](./Changepeau.md) d'un changepeau standard.***
+{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [[Changepeau|fiche de créature]] d'un changepeau standard.***
 
 Bien qu'ils ne soient pas des lycanthropes à part entière, les changepeaux portent dans leur sang et leurs tendons la force de la bête, et peuvent déchaîner leur côté sauvage avec beaucoup d'efficacité. Ils n'affichent pas toujours leurs traits bestiaux, ce qui leur permet de se fondre facilement dans la société humaine. À ce jour, ils n'existent qu'en petit nombre dans la région de la mer Intérieure.
 
@@ -19,15 +19,15 @@ On croit communément que les changepeaux sont des lycanthropes hybrides ou bien
 {s:Reference|TRAITSSTANDARD}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Sagesse](./Sagesse.md), -2 [Intelligence](./Intelligence.md), +2 à une caractéristique physique sous forme bestiale.** Les changepeaux sont en harmonie avec l'ordre naturel et, pour eux, la passion est plus importante que la raison. Sous leur forme bestiale, ils gagnent un bonus racial de +2 à la [Force](./Force.md), la [Dextérité](./Dextérité.md) ou la [Constitution](./Constitution.md) (voir changement de forme). Les changepeaux d'un héritage particulier (voir ci-dessous) obtiennent différents modificateurs de caractéristique, comme indiqué.
-- **Métamorphe.** Les changepeaux sont des [humanoïdes](./type Humanoïde.md) de sous-type [changepeau](./sous-type changepeau.md) et [métamorphe](./sous-type métamorphe.md).
-- **Taille M.** Les changepeaux sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni malus ni bonus liés à la taille.
-- **Vitesse normale.** Les changepeaux ont une [vitesse de base](./VD.md) de 9 mètres.
-- **Vision nocturne.** Les changepeaux [voient deux fois plus loin](./Vision nocturne (capacité).md) que les humains à faible luminosité.
-- **Changement de forme.** Par une [action simple](./Action simple.md), un changepeau peut se métamorphoser pour prendre une apparence animale. Quand il est sous sa forme bestiale, le changepeau gagne un bonus racial de +2 de son choix parmi les caractéristiques suivantes : [Force](./Force.md), [Dextérité](./Dextérité.md) ou [Constitution](./Constitution.md). Tant qu'il conserve cette forme, il possède aussi des aspects bestiaux responsables d'un effet spécial. À chaque fois qu'un changepeau prend une apparence animale, il peut choisir de gagner deux attaques de [griffes](./Attaques naturelles (capacité).md) qui infligent 1d4 points de dégâts, une [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ou un bonus d'[armure naturelle](./CA.md) de +1. Ces avantages persistent jusqu'à ce qu'il reprenne sa forme humanoïde par une [action rapide](./Action rapide.md). S'il veut modifier l'un des avantages liés à sa forme bestiale, le changepeau doit d'abord repasser par son apparence humanoïde avant de reprendre sa forme bestiale modifiée. Différents héritages de changepeau (voir ci-dessous) permettent aux personnages changepeaux de choisir différents types d'aspects bestiaux.
-- **Compréhension animale.** Les changepeaux ont un bonus racial de +2 aux tests de [Dressage](./Dressage.md) et d'[empathie sauvage](./Druide.md#EMPATHIESAUVAGE). Les changepeaux d'un héritage spécifique (voir ci-dessous) gagnent un bonus à différents tests, comme indiqué.
-- **Pouvoir magique.** Un changepeau avec une valeur de [Sagesse](./Sagesse.md) de 11 ou plus peut utiliser *[communication avec les animaux](./Communication avec les animaux.md)* une fois par jour comme un [pouvoir magique](./Pouvoirs magiques (capacité).md).  Le [niveau de lanceur de sorts](./NLS.md) de ce pouvoir magique est égal au niveau de personnage du changepeau. Les changepeaux d'un héritage spécifique (voir ci-dessous) gagnent d'autres pouvoirs magiques.
-- **Langues.** Les changepeaux commencent le jeu en parlant le commun. Ceux qui possèdent une valeur d'[Intelligence](./Intelligence.md) élevée peuvent apprendre d'autres langues de leur choix (sauf les langues secrètes comme celle des [druides](./Druide.md##LANGUESSUPPLEMENTAIRES))..
+- **+2 [[Sagesse]], -2 [[Intelligence]], +2 à une caractéristique physique sous forme bestiale.** Les changepeaux sont en harmonie avec l'ordre naturel et, pour eux, la passion est plus importante que la raison. Sous leur forme bestiale, ils gagnent un bonus racial de +2 à la [[Force]], la [[Dextérité]] ou la [[Constitution]] (voir changement de forme). Les changepeaux d'un héritage particulier (voir ci-dessous) obtiennent différents modificateurs de caractéristique, comme indiqué.
+- **Métamorphe.** Les changepeaux sont des [[type Humanoïde|humanoïdes]] de sous-type [[sous-type changepeau|changepeau]] et [[sous-type métamorphe|métamorphe]].
+- **Taille M.** Les changepeaux sont des créatures de [[taille M]] qui ne reçoivent ni malus ni bonus liés à la taille.
+- **Vitesse normale.** Les changepeaux ont une [[VD|vitesse de base]] de 9 mètres.
+- **Vision nocturne.** Les changepeaux [[Vision nocturne (capacité)|voient deux fois plus loin]] que les humains à faible luminosité.
+- **Changement de forme.** Par une [[action simple]], un changepeau peut se métamorphoser pour prendre une apparence animale. Quand il est sous sa forme bestiale, le changepeau gagne un bonus racial de +2 de son choix parmi les caractéristiques suivantes : [[Force]], [[Dextérité]] ou [[Constitution]]. Tant qu'il conserve cette forme, il possède aussi des aspects bestiaux responsables d'un effet spécial. À chaque fois qu'un changepeau prend une apparence animale, il peut choisir de gagner deux attaques de [[Attaques naturelles (capacité)|griffes]] qui infligent 1d4 points de dégâts, une [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ou un bonus d'[[CA|armure naturelle]] de +1. Ces avantages persistent jusqu'à ce qu'il reprenne sa forme humanoïde par une [[action rapide]]. S'il veut modifier l'un des avantages liés à sa forme bestiale, le changepeau doit d'abord repasser par son apparence humanoïde avant de reprendre sa forme bestiale modifiée. Différents héritages de changepeau (voir ci-dessous) permettent aux personnages changepeaux de choisir différents types d'aspects bestiaux.
+- **Compréhension animale.** Les changepeaux ont un bonus racial de +2 aux tests de [[Dressage]] et d'[[Druide#EMPATHIESAUVAGE|empathie sauvage]]. Les changepeaux d'un héritage spécifique (voir ci-dessous) gagnent un bonus à différents tests, comme indiqué.
+- **Pouvoir magique.** Un changepeau avec une valeur de [[Sagesse]] de 11 ou plus peut utiliser *[[communication avec les animaux]]* une fois par jour comme un [[Pouvoirs magiques (capacité)|pouvoir magique]].  Le [[NLS|niveau de lanceur de sorts]] de ce pouvoir magique est égal au niveau de personnage du changepeau. Les changepeaux d'un héritage spécifique (voir ci-dessous) gagnent d'autres pouvoirs magiques.
+- **Langues.** Les changepeaux commencent le jeu en parlant le commun. Ceux qui possèdent une valeur d'[[Intelligence]] élevée peuvent apprendre d'autres langues de leur choix (sauf les langues secrètes comme celle des [[druide##LANGUESSUPPLEMENTAIRES|druides]])..
 
 </div>
 
@@ -36,7 +36,7 @@ On croit communément que les changepeaux sont des lycanthropes hybrides ou bien
 Il est possible de choisir les traits raciaux suivants à la place des traits raciaux existants des changepeaux. Consultez votre MJ avant de prendre ces options.
 
 <u>*Modifie « changement de forme » et « pouvoir magique » :*</u>
-- **Dresseur de bêtes.** La capacité à communiquer avec les animaux de certains changepeaux est plus puissante que leur capacité à se transformer. De tels changepeaux ne peuvent utiliser leur capacité changement de forme qu'une fois par jour pendant 1 minute par niveau, mais ils peuvent utiliser leur pouvoir magique *[communication avec les animaux](./Communication avec les animaux.md)* à volonté. Ce trait racial modifie changement de forme et pouvoir magique.
+- **Dresseur de bêtes.** La capacité à communiquer avec les animaux de certains changepeaux est plus puissante que leur capacité à se transformer. De tels changepeaux ne peuvent utiliser leur capacité changement de forme qu'une fois par jour pendant 1 minute par niveau, mais ils peuvent utiliser leur pouvoir magique *[[communication avec les animaux]]* à volonté. Ce trait racial modifie changement de forme et pouvoir magique.
 
 
 #### Héritages alternatifs
@@ -46,74 +46,74 @@ Il est possible de choisir les traits raciaux suivants à la place des traits ra
 | CLASS="gauche" | Aspects bestiaux alternatifs
 
 |- CLASS="premier"
-| Essence de [chauve-souris](./Chauve-souris.md)-garou (sang marqué) || +2 [Intelligence](./Intelligence.md), -2 [Sagesse](./Sagesse.md) (+2 [Dextérité](./Dextérité.md) sous forme bestiale) || [Vol](./Vol.md), [Perception](./Perception.md) la nuit || *[brume de dissimulation](./Brume de dissimulation.md)* 1/jour
-| CLASS="gauche" | • Attaque de [morsure](./Attaques naturelles (capacité).md) infligeant 1d6 points de dégâts.  
-• Bonus racial de +4 aux tests de [Perception](./Perception.md).  
-• [Odorat](./Odorat (capacité).md) à 9 mètres.  
-• Tous les dégâts de [chute](./chute.md) sont réduits comme si la chute était plus courte de 6 mètres.
+| Essence de [[chauve-souris]]-garou (sang marqué) || +2 [[Intelligence]], -2 [[Sagesse]] (+2 [[Dextérité]] sous forme bestiale) || [[Vol]], [[Perception]] la nuit || *[[brume de dissimulation]]* 1/jour
+| CLASS="gauche" | • Attaque de [[Attaques naturelles (capacité)|morsure]] infligeant 1d6 points de dégâts.  
+• Bonus racial de +4 aux tests de [[Perception]].  
+• [[Odorat (capacité)|Odorat]] à 9 mètres.  
+• Tous les dégâts de [[chute]] sont réduits comme si la chute était plus courte de 6 mètres.
 |-
 | COLSPAN="5" | Ces changepeaux sont généralement communautaires et s'en remettent volontiers à leurs supérieurs. Ils préfèrent vivre dans des zones à la végétation dense, comme les jungles ou les forêts. Ils ont souvent peu confiance en ceux qui ne font pas partie de leur clan proche.
 
 |- CLASS="premier alt"
-| Essence de [crocodile](./Crocodile.md)-garou (cœur écailleux) || +2 [Constitution](./Constitution.md), -2 [Sagesse](./Sagesse.md) (+2 [Force](./Force.md) sous forme bestiale) || [Discrétion](./Discrétion.md), [empathie sauvage](./Druide.md#EMPATHIESAUVAGE) || *[effroi](./Effroi.md)* 1/jour
-| CLASS="gauche" | • Attaque de [morsure](./Attaques naturelles (capacité).md) infligeant 1d6 points de dégâts.  
-• [Vision dans le noir](./vision dans le noir (capacité).md) à 18 mètres.  
-• [Vitesse de nage](./Natation.md#Spécial_2) de 9 mètres.  
-• [Férocité](./Férocité (capacité).md).
+| Essence de [[crocodile]]-garou (cœur écailleux) || +2 [[Constitution]], -2 [[Sagesse]] (+2 [[Force]] sous forme bestiale) || [[Discrétion]], [[Druide#EMPATHIESAUVAGE|empathie sauvage]] || *[[effroi]]* 1/jour
+| CLASS="gauche" | • Attaque de [[Attaques naturelles (capacité)|morsure]] infligeant 1d6 points de dégâts.  
+• [[Vision dans le noir (capacité)|Vision dans le noir]] à 18 mètres.  
+• [[Natation#Spécial_2|Vitesse de nage]] de 9 mètres.  
+• [[Férocité (capacité)|Férocité]].
 |- CLASS="alt"
 | COLSPAN="5" | On les trouve le plus souvent dans des régions telles que les Chaînes et les Terres humides. Ces changepeaux sont souvent brutaux et cruels.
 
 |- CLASS="premier"
-| Essence de [loup](./Loup.md)-garou (loup-sorcier) || +2 [Constitution](./Constitution.md), -2 [Intelligence](./Intelligence.md) (+2 [Sagesse](./Sagesse.md) sous forme bestiale) || [Perception](./Perception.md), [empathie sauvage](./Druide.md#EMPATHIESAUVAGE) || *[morsure magique](./Morsure magique.md)* 1/jour
-| CLASS="gauche" | • Attaque de [morsure](./Attaques naturelles (capacité).md) infligeant 1d6 points de dégâts.  
-• 2 attaques de [griffe](./Attaques naturelles (capacité).md) infligeant 1d4 points de dégâts.  
-• [Vision dans le noir](./vision dans le noir (capacité).md) à 18 mètres.  
-• Bonus racial de +2 à tous les [jets de sauvegarde](./JDS.md).
+| Essence de [[loup]]-garou (loup-sorcier) || +2 [[Constitution]], -2 [[Intelligence]] (+2 [[Sagesse]] sous forme bestiale) || [[Perception]], [[Druide#EMPATHIESAUVAGE|empathie sauvage]] || *[[morsure magique]]* 1/jour
+| CLASS="gauche" | • Attaque de [[Attaques naturelles (capacité)|morsure]] infligeant 1d6 points de dégâts.  
+• 2 attaques de [[Attaques naturelles (capacité)|griffe]] infligeant 1d4 points de dégâts.  
+• [[Vision dans le noir (capacité)|Vision dans le noir]] à 18 mètres.  
+• Bonus racial de +2 à tous les [[jds|jets de sauvegarde]].
 |-
 | COLSPAN="5" | Les loups-sorciers, qui constituent sans doute la race la plus répandue de changepeaux, préfèrent vivre avec d'autres membres de leur espèce.
 
 |- CLASS="premier alt"
-| Essence d'[ours](./Grizzly.md)-garou (né du froid) || +2 [Constitution](./Constitution.md), -2 [Charisme](./Charisme.md) (+2 [Sagesse](./Sagesse.md) sous forme bestiale) || [Escalade](./Escalade.md), [empathie animale](./Druide.md#EMPATHIEANIMALE) || *[apaisement des animaux](./Apaisement des animaux.md)* 1/jour
-| CLASS="gauche" | • Attaque de [morsure](./Attaques naturelles (capacité).md) infligeant 1d6 points de dégâts.  
-• 2 attaques de [griffe](./Attaques naturelles (capacité).md) infligeant 1d4 points de dégâts.  
-• [Vitesse d'escalade](./Escalade.md#Spécial_2) de 6 mètres.  
-• [Odorat](./Odorat (capacité).md) à 9 mètres.
+| Essence d'[[Grizzly|ours]]-garou (né du froid) || +2 [[Constitution]], -2 [[Charisme]] (+2 [[Sagesse]] sous forme bestiale) || [[Escalade]], [[Druide#EMPATHIEANIMALE|empathie animale]] || *[[apaisement des animaux]]* 1/jour
+| CLASS="gauche" | • Attaque de [[Attaques naturelles (capacité)|morsure]] infligeant 1d6 points de dégâts.  
+• 2 attaques de [[Attaques naturelles (capacité)|griffe]] infligeant 1d4 points de dégâts.  
+• [[Escalade#Spécial_2|Vitesse d'escalade]] de 6 mètres.  
+• [[Odorat (capacité)|Odorat]] à 9 mètres.
 |- CLASS="alt"
 | COLSPAN="5" | Connus et respectés comme les défenseurs de la nature dans de nombreuses régions des Terres des Rois linnorms, ces changepeaux préfèrent souvent vivre en marge.
 
 |- CLASS="premier"
-| Essence de [rat](./Rat.md)-garou (rôdeur nocturne) || +2 [Intelligence](./Intelligence.md), -2 [Force](./Force.md) (+2 [Dextérité](./Dextérité.md) sous forme bestiale) || [Dressage](./Dressage.md), [Discrétion](./Discrétion.md) en milieu urbain || *[communication avec les animaux](./Communication avec les animaux.md)* (rongeurs uniquement) 3/jour
-| CLASS="gauche" | • Attaque de [morsure](./Attaques naturelles (capacité).md) infligeant 1d6 points de dégâts.  
-• [Vitesse d'escalade](./Escalade.md#Spécial_2) de 9 mètres.  
-• [Distraction](./Distraction (capacité).md) (comme la règle universelle de monstre, mais avec une seule attaque naturelle par round, et rend [fiévreux](./Fiévreux.md) plutôt que [nauséeux](./Nauséeux.md)).  
-• [Odorat](./Odorat (capacité).md) à 9 mètres.
+| Essence de [[rat]]-garou (rôdeur nocturne) || +2 [[Intelligence]], -2 [[Force]] (+2 [[Dextérité]] sous forme bestiale) || [[Dressage]], [[Discrétion]] en milieu urbain || *[[communication avec les animaux]]* (rongeurs uniquement) 3/jour
+| CLASS="gauche" | • Attaque de [[Attaques naturelles (capacité)|morsure]] infligeant 1d6 points de dégâts.  
+• [[Escalade#Spécial_2|Vitesse d'escalade]] de 9 mètres.  
+• [[Distraction (capacité)|Distraction]] (comme la règle universelle de monstre, mais avec une seule attaque naturelle par round, et rend [[fiévreux]] plutôt que [[nauséeux]]).  
+• [[Odorat (capacité)|Odorat]] à 9 mètres.
 |-
 | COLSPAN="5" | Ces créatures, qui sont parmi les plus communes des changepeaux, préfèrent vivre dans les zones urbaines.
 
 |- CLASS="premier alt"
-| Essence de [requin](./Requin.md)-garou (meurtri par la mer) || +2 [Sagesse](./Sagesse.md), -2 [Intelligence](./Intelligence.md) (+2 [Constitution](./Constitution.md) sous forme bestiale) || [Natation](./Natation.md), [Perception](./Perception.md) || *[charme-animal](./Charme-animal.md)* (animaux aquatiques uniquement) 1/jour
+| Essence de [[requin]]-garou (meurtri par la mer) || +2 [[Sagesse]], -2 [[Intelligence]] (+2 [[Constitution]] sous forme bestiale) || [[Natation]], [[Perception]] || *[[charme-animal]]* (animaux aquatiques uniquement) 1/jour
 | CLASS="gauche" | • Respirer aussi bien dans l'eau que l'air.  
-• Attaque de [morsure](./Attaques naturelles (capacité).md) infligeant 1d6 points de dégâts.  
-• [Férocité](./Férocité (capacité).md).  
-• [Vitesse de nage](./Natation.md#Spécial_2) de 9 mètres.
+• Attaque de [[Attaques naturelles (capacité)|morsure]] infligeant 1d6 points de dégâts.  
+• [[Férocité (capacité)|Férocité]].  
+• [[Natation#Spécial_2|Vitesse de nage]] de 9 mètres.
 |- CLASS="alt"
 | COLSPAN="5" | Ces changepeaux inhabituels ont tendance à avoir une forte volonté et à s'exprimer rapidement. Ils servent souvent à bord des navires pirates, où leurs qualités sont très appréciées.
 
 |- CLASS="premier"
-| Essence de [sanglier](./Sanglier.md)-garou (engeance rageuse) || +2 [Force](./Force.md), -2 [Charisme](./Charisme.md) (+2 [Constitution](./Constitution.md) sous forme bestiale) || [Dressage](./Dressage.md), [Perception](./Perception.md) || *[communication avec les animaux](./Communication avec les animaux.md)* (cochons et sangliers uniquement) 3/jour
-| CLASS="gauche" | • Bonus racial de +3 mètres à la [vitesse de base](./VD.md).  
-• Attaque de [cornes](./Attaques naturelles (capacité).md) infligeant 1d6 points de dégâts.  
-• 2 attaques de [sabot](./Attaques naturelles (capacité).md) infligeant 1d4 points de dégâts.  
-• [Odorat](./Odorat (capacité).md) à 9 mètres.
+| Essence de [[sanglier]]-garou (engeance rageuse) || +2 [[Force]], -2 [[Charisme]] (+2 [[Constitution]] sous forme bestiale) || [[Dressage]], [[Perception]] || *[[communication avec les animaux]]* (cochons et sangliers uniquement) 3/jour
+| CLASS="gauche" | • Bonus racial de +3 mètres à la [[VD|vitesse de base]].  
+• Attaque de [[Attaques naturelles (capacité)|cornes]] infligeant 1d6 points de dégâts.  
+• 2 attaques de [[Attaques naturelles (capacité)|sabot]] infligeant 1d4 points de dégâts.  
+• [[Odorat (capacité)|Odorat]] à 9 mètres.
 |-
 | COLSPAN="5" | Ces changepeaux sont connus pour leur tempérament fougueux et leur entêtement, des caractéristiques qui leur ont valu d'être respectés dans les coins reculés du Garund, du Chéliax et de la Varisie en tant que combattants de la liberté.
 
 |- CLASS="premier alt"
-| Essence de [tigre](./Tigre.md)-garou || +2 [Dextérité](./Dextérité.md), -2 [Sagesse](./Sagesse.md) (+2 [Charisme](./Charisme.md) sous forme bestiale) || [Acrobaties](./Acrobaties.md), [Perception](./Perception.md) || *[saut](./Saut.md)* 1/jour
-| CLASS="gauche" | • Attaque de [morsure](./Attaques naturelles (capacité).md) infligeant 1d6 points de dégâts.  
-• 2 attaques de [griffe](./Attaques naturelles (capacité).md) infligeant 1d4 points de dégâts.  
-• Bonus racial de +3 mètres à la [vitesse de base](./VD.md).  
-• [Vision dans les ténèbres](./Vision dans les ténèbres (capacité).md).
+| Essence de [[tigre]]-garou || +2 [[Dextérité]], -2 [[Sagesse]] (+2 [[Charisme]] sous forme bestiale) || [[Acrobaties]], [[Perception]] || *[[saut]]* 1/jour
+| CLASS="gauche" | • Attaque de [[Attaques naturelles (capacité)|morsure]] infligeant 1d6 points de dégâts.  
+• 2 attaques de [[Attaques naturelles (capacité)|griffe]] infligeant 1d4 points de dégâts.  
+• Bonus racial de +3 mètres à la [[VD|vitesse de base]].  
+• [[Vision dans les ténèbres (capacité)|Vision dans les ténèbres]].
 |- CLASS="alt"
 | COLSPAN="5" | Plus fréquents dans le Vudra que dans la région de la mer Intérieure, ces changepeaux sont réputés pour leur inconstance.
 |}
@@ -123,8 +123,8 @@ Il est possible de choisir les traits raciaux suivants à la place des traits ra
 
 <table width="100%"><tr><td width="49%">
 #### Objets magiques
-- [Peau de lycanthrope (chauve-souris, crocodile, grizzly, tigre)](./Peau de lycanthrope.md) *(ISR)*
-- [Peau de lycanthrope (loup, rat, sanglier)](./Peau de lycanthrope.md) *(ISR)*
+- [[Peau de lycanthrope|Peau de lycanthrope (chauve-souris, crocodile, grizzly, tigre)]] *(ISR)*
+- [[Peau de lycanthrope|Peau de lycanthrope (loup, rat, sanglier)]] *(ISR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>

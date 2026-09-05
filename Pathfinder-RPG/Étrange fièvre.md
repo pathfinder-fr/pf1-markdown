@@ -9,18 +9,18 @@ Categories:
 - Sort sorcière 3
 ---
 
-{s:UM}**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[mal](./Registre.md), [maladie](./Registre.md), [malédiction](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3  
+{s:UM}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal]], [[registre|maladie]], [[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-La cible est atteinte de la [plaie magique](./Plaies.md) [étrange fièvre](./Description des plaies magiques.md).
+La cible est atteinte de la [[Plaies|plaie magique]] [[Description des plaies magiques|étrange fièvre]].

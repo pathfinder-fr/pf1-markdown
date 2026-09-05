@@ -14,29 +14,29 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 3 p.258*}
 {s:BDTexte|**PX** 1.228.800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille C, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision à 360°](./Vision à 360° (capacité).md), [vision dans le noir](./vision dans le noir.md) à 36 m (24 {s:c}),  *[vision lucide](./Vision lucide.md)* ; [Perception](./Perception.md) +35}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille C, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[Vision à 360° (capacité)|vision à 360°]], [[vision dans le noir]] à 36 m (24 {s:c}),  *[[vision lucide]]* ; [[Perception]] +35}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 42, contact 4, pris au dépourvu 40 (armure +8, Dex +2, naturelle +30, taille -8)}
 {s:BDTexte|**pv**  516 (24d10+384) ; régénération 10 (épique)}
 {s:BDTexte|**Réf** +12, **Vig** +30, **Vol** +18}
-{s:BDTexte|**Capacités défensives** *[renvoi des sorts](./Renvoi des sorts.md)* ; **RD** 20/épique et [Loi](./sous-type Loi.md) ; **Immunité** vieillissement, effets de mort, maladies, effets mentaux ; **RM** 35}
+{s:BDTexte|**Capacités défensives** *[[renvoi des sorts]]* ; **RD** 20/épique et [[sous-type Loi|Loi]] ; **Immunité** vieillissement, effets de mort, maladies, effets mentaux ; **RM** 35}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 18 m (12 {s:c}) ; *[marche dans les airs](./Marche dans les airs.md)*}
+{s:BDTexte|**VD** 18 m (12 {s:c}) ; *[[marche dans les airs]]*}
 {s:BDTexte|**Corps à corps** arme +3, +38/+33/+28/+23 (6d6+22 plus tourbillon centimane) ou coup, +35 (4d8+28 plus étourdissement)}
 {s:BDTexte|**À distance** rocher, +22/+17/+12/+7 (8d8+31/18-20)}
 {s:BDTexte|**Espace occupé** 9 m (6 {s:c}); **Allonge** 9 m (6 {s:c})}
 {s:BDTexte|**Attaque spéciale** lancer de rochers (60 m soit 40 {s:c}), frappe étourdissante}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 20 ; [concentration](./concentration.md) +27)}
-{s:BDTexte|**Constant** — *[marche dans les airs](./Marche dans les airs.md)*, *[renvoi des sorts](./Renvoi des sorts.md)*, *[vision lucide](./Vision lucide.md)*}
-{s:BDTexte|**À volonté** — *[annulation d’enchantement](./Annulation denchantement.md)*, *[communication à distance](./Communication à distance.md)*, *[dissipation suprême de la magie](./Dissipation suprême.md)*, *[éclair multiple](./Éclair multiple.md)* (DD 23), *[malédiction](./malédiction.md)* (DD 21), *[orientation](./Orientation.md)*}
-{s:BDTexte|**3/jour** — *[guérison suprême](./Guérison suprême.md)*, *[scrutation suprême](./Scrutation suprême.md)* (DD 24), *[suggestion de groupe](./Suggestion de groupe.md)* (DD 23)}
-{s:BDTexte|**1/jour** — *[domination universelle](./Domination universelle.md)* (DD 26), *[emprisonnement](./Emprisonnement.md)* (DD 26), *[immunité contre les sorts suprême](./Immunité contre les sorts suprême.md)*, *[tempête vengeresse](./Tempête vengeresse.md)* (DD 26)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 20 ; [[concentration]] +27)}
+{s:BDTexte|**Constant** — *[[marche dans les airs]]*, *[[renvoi des sorts]]*, *[[vision lucide]]*}
+{s:BDTexte|**À volonté** — *[[annulation denchantement|annulation d’enchantement]]*, *[[communication à distance]]*, *[[dissipation suprême|dissipation suprême de la magie]]*, *[[éclair multiple]]* (DD 23), *[[malédiction]]* (DD 21), *[[orientation]]*}
+{s:BDTexte|**3/jour** — *[[guérison suprême]]*, *[[scrutation suprême]]* (DD 24), *[[suggestion de groupe]]* (DD 23)}
+{s:BDTexte|**1/jour** — *[[domination universelle]]* (DD 26), *[[emprisonnement]]* (DD 26), *[[immunité contre les sorts suprême]]*, *[[tempête vengeresse]]* (DD 26)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 48, **Dex** 15, **Con** 43, **Int** 22, **Sag** 19, **Cha** 24}
 {s:BDTexte|**BBA** +24, **BMO** +51, **DMD** 71}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Don pour les critiques](./Don pour les critiques.md), [Enchaînement](./Enchaînement.md), [Expertise du combat](./Expertise du combat.md), [Frappe décisive](./Frappe décisive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Succession d’enchaînements](./Succession denchaînements.md), [Réflexes surhumains](./Réflexes surhumains.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +29 (+41 pour le saut), [Artisanat](./Artisanat.md) (au choix) +33, [Bluff](./Bluff.md) +34, [Connaissances](./Connaissances.md) (histoire) +30, [Connaissances](./Connaissances.md) (plans) +33, [Diplomatie](./Diplomatie.md) +31, [Escalade](./Escalade.md) +46, [Évasion](./Évasion.md) +29, [Intimidation](./Intimidation.md) +34, [Perception](./Perception.md) +35, [Psychologie](./Psychologie.md) +35, [Survie](./Survie.md) +28}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Don pour les critiques]], [[Enchaînement]], [[Expertise du combat]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Succession denchaînements|Succession d’enchaînements]], [[Réflexes surhumains]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +29 (+41 pour le saut), [[Artisanat]] (au choix) +33, [[Bluff]] +34, [[Connaissances]] (histoire) +30, [[Connaissances]] (plans) +33, [[Diplomatie]] +31, [[Escalade]] +46, [[Évasion]] +29, [[Intimidation]] +34, [[Perception]] +35, [[Psychologie]] +35, [[Survie]] +28}
 {s:BDTexte|**Langues** abyssal, céleste, commun ; télépathie à 90 m (60 {s:c})}
 {s:BDTexte|**Part** mains guerrières, saut planaire}
 {s:BDSousTitre|Écologie}
@@ -44,15 +44,15 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** triple (50-100 armes diverses, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Frappe étourdissante (Ext).** Par une [action simple](./Action simple.md), l’hécatonchire peut renoncer à toutes ses attaques armées pour porter un seul coup à une créature à portée. S’il touche sa cible, celle-ci reçoit des dégâts et doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 41 pour éviter d’être [étourdie](./Étourdi.md) pendant 1d6 rounds. Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Force](./Force.md).}
-{s:BDTexte|**Mains guerrières (Sur).** Toutes les armes que manie l’hécatonchire gagnent un bonus d’altération de +3 lorsque le titan les tient. Les attaques de l’hécatonchire sont traitées comme des attaques épiques et Mauvaises lorsqu’il s’agit de passer la réduction de dégâts. En outre, les multiples bras de l’hécatonchire lui permettent de bloquer efficacement les attaques et le font bénéficier d’un bonus d’armure de +8 à la [CA](./CA.md).}
-{s:BDTexte|**Saut planaire (Sur).** L’hécatonchire traverse les plans en défonçant physiquement les frontières planaires et en s’écrasant violemment sur le plan choisi. Une fois par an, par une [action complexe](./Action complexe.md), l’hécatonchire peut, lorsqu’il effectue un saut, bénéficier des effets d’un *[changement de plan](./Changement de plan.md)* vers n’importe quel autre plan (comme pour le sort du même nom). Il est le seul à pouvoir en bénéficier et peut emporter son équipement lorsqu’il voyage ainsi. Quand l’hécatonchire atteint son plan de destination, il tombe du ciel et s’écrase au sol, générant une explosion dévastatrice mêlant tonnerre et feu. Toutes les créatures situées dans un rayon de 90 mètres (60 {s:c}) autour du point d’impact (y compris le titan lui-même) reçoivent 20d6 points de dégâts contondants et 20d6 de dégâts soniques ([Réflexes](./Réflexes.md) [DD](./DD.md) 38, 1/2 dégâts). Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Tourbillon centimane (Ext).** L’hécatonchire porte plusieurs douzaines d’armes de différents types dans ses cent mains mais, lorsqu’il attaque au corps à corps, vous n’êtes pas forcé de résoudre chacune de ses attaques séparément. Au lieu de cela, lorsque le titan attaque avec ses armes, il lance ses jets d’attaque normalement (soit une attaque par une [action simple](./Action simple.md), soit quatre attaque pour une [action complexe](./Action complexe.md)) et touche toutes les créatures à portée pour lesquelles le résultat de son jet d’attaque excède la [CA](./CA.md). Si ces jets d’attaque donnent un [critique](./critique.md) possible, ce critique s’applique à une seule créature désignée par l’hécatonchire. L’hécatonchire peut choisir d’infliger des dégâts contondants, perforants ou tranchants par une [action libre](./Action libre.md) à chacun de ses coups.}
+{s:BDTexte|**Frappe étourdissante (Ext).** Par une [[action simple]], l’hécatonchire peut renoncer à toutes ses attaques armées pour porter un seul coup à une créature à portée. S’il touche sa cible, celle-ci reçoit des dégâts et doit réussir un jet de [[Vigueur]] [[DD]] 41 pour éviter d’être [[étourdi|étourdie]] pendant 1d6 rounds. Le [[DD]] du jet de sauvegarde est basé sur la [[Force]].}
+{s:BDTexte|**Mains guerrières (Sur).** Toutes les armes que manie l’hécatonchire gagnent un bonus d’altération de +3 lorsque le titan les tient. Les attaques de l’hécatonchire sont traitées comme des attaques épiques et Mauvaises lorsqu’il s’agit de passer la réduction de dégâts. En outre, les multiples bras de l’hécatonchire lui permettent de bloquer efficacement les attaques et le font bénéficier d’un bonus d’armure de +8 à la [[CA]].}
+{s:BDTexte|**Saut planaire (Sur).** L’hécatonchire traverse les plans en défonçant physiquement les frontières planaires et en s’écrasant violemment sur le plan choisi. Une fois par an, par une [[action complexe]], l’hécatonchire peut, lorsqu’il effectue un saut, bénéficier des effets d’un *[[changement de plan]]* vers n’importe quel autre plan (comme pour le sort du même nom). Il est le seul à pouvoir en bénéficier et peut emporter son équipement lorsqu’il voyage ainsi. Quand l’hécatonchire atteint son plan de destination, il tombe du ciel et s’écrase au sol, générant une explosion dévastatrice mêlant tonnerre et feu. Toutes les créatures situées dans un rayon de 90 mètres (60 {s:c}) autour du point d’impact (y compris le titan lui-même) reçoivent 20d6 points de dégâts contondants et 20d6 de dégâts soniques ([[Réflexes]] [[DD]] 38, 1/2 dégâts). Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].}
+{s:BDTexte|**Tourbillon centimane (Ext).** L’hécatonchire porte plusieurs douzaines d’armes de différents types dans ses cent mains mais, lorsqu’il attaque au corps à corps, vous n’êtes pas forcé de résoudre chacune de ses attaques séparément. Au lieu de cela, lorsque le titan attaque avec ses armes, il lance ses jets d’attaque normalement (soit une attaque par une [[action simple]], soit quatre attaque pour une [[action complexe]]) et touche toutes les créatures à portée pour lesquelles le résultat de son jet d’attaque excède la [[CA]]. Si ces jets d’attaque donnent un [[critique]] possible, ce critique s’applique à une seule créature désignée par l’hécatonchire. L’hécatonchire peut choisir d’infliger des dégâts contondants, perforants ou tranchants par une [[action libre]] à chacun de ses coups.}
 </div>
 
 {s:ImageCentre|Bestiaire/Titan hecatonchire01.jpg|90%}
 
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [titans](./Titan.md).***</li></ul>*Ce béhémoth ressemble à un gigantesque humanoïde avec cinquante têtes et deux fois plus de mains, chacune tenant une arme différente.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[titan|titans]].***</li></ul>*Ce béhémoth ressemble à un gigantesque humanoïde avec cinquante têtes et deux fois plus de mains, chacune tenant une arme différente.*
 
 Horribles abominations que les dieux ont bannies juste
 après les avoirs créées, les hécatonchires sont peut-être les

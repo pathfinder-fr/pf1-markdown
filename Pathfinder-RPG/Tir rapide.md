@@ -9,14 +9,14 @@ Categories:
 
 *Le personnage peut faire une attaque à distance supplémentaire.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 13, [Tir à bout portant](./Tir à bout portant.md).
+**Conditions.** [[Dextérité|Dex]] 13, [[Tir à bout portant]].
 
-**Avantage.** Lorsqu’il effectue une action d’[attaque à outrance](./attaque à outrance.md) avec une [arme à distance](./arme à distance.md), le personnage a droit à une attaque supplémentaire. Toutes les attaques du [round](./round.md) subissent un malus de -2.
+**Avantage.** Lorsqu’il effectue une action d’[[attaque à outrance]] avec une [[arme à distance]], le personnage a droit à une attaque supplémentaire. Toutes les attaques du [[round]] subissent un malus de -2.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Quand le personnage utilise ce don, il peut dépenser le nombre de points d’endurance qu’il désire, sans dépasser le nombre de tirs effectués avec ce don. Il réduit le malus d’une unique attaque à distance de Tir rapide de 2 par point dépensé.
 
 {s:CMy}

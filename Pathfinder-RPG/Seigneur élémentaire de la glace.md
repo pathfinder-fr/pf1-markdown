@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Élémentaire de la glace#_5
 ---
 
->>> [Élémentaire de la glace#_5](./Élémentaire de la glace.md#_5)
+>>> [[Élémentaire de la glace#_5]]

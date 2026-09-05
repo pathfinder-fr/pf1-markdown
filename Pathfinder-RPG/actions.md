@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#ACTION
 ---
 
->>> [Vocabulaire courant#ACTION](./Vocabulaire courant.md#ACTION)
+>>> [[Vocabulaire courant#ACTION]]

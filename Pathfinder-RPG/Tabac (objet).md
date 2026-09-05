@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 1 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Marché noir](./Marché noir.md)</span>
+<span class="Catégorie">**Catégorie** [[Marché noir]]</span>
 ---
-Ces feuilles écrasées et déchiquetées varient en couleur du rouge poivré au noir ; les utilisateurs peuvent soit les fumer, soit les mâcher. Les consommateurs de tabac éprouvent un certain calme et sont plus facilement capables de se débarrasser de la sensation de faim. Le tabac crée une [dépendance](./Drogues.md#DÉPENDANCE) ([Vigueur](./Vigueur.md) [DD](./DD.md) 10 pour résister) et les utilisateurs à long terme subissent des affaiblissements en [Constitution](./Constitution.md).
+Ces feuilles écrasées et déchiquetées varient en couleur du rouge poivré au noir ; les utilisateurs peuvent soit les fumer, soit les mâcher. Les consommateurs de tabac éprouvent un certain calme et sont plus facilement capables de se débarrasser de la sensation de faim. Le tabac crée une [[Drogues#DÉPENDANCE|dépendance]] ([[Vigueur]] [[DD]] 10 pour résister) et les utilisateurs à long terme subissent des affaiblissements en [[Constitution]].

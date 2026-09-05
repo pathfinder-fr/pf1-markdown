@@ -14,20 +14,20 @@ Categories:
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.187}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
 {s:BDTexte|**pv** 13 (2d8+4)}
 {s:BDTexte|**Réf** +5, **Vig** +5, **Vol** +1}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +3 (1d6+3 et [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** morsure, +3 (1d6+3 et [[croc-en-jambe]])}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 15, **Con** 15, **Int** 2, **Sag** 13, **Cha** 6}
-{s:BDTexte|**BBA** +1, **BMO** +3, **DMD** 15 (19 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +6 (+10 dans les hautes herbes), [Perception](./Perception.md) +8 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 dans les hautes herbes}
+{s:BDTexte|**BBA** +1, **BMO** +3, **DMD** 15 (19 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +6 (+10 dans les hautes herbes), [[Perception]] +8 ; **Modificateurs raciaux** [[Discrétion]] +4 dans les hautes herbes}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-12)}
@@ -40,9 +40,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Hyène](./Hyène.md) || 1
+| [[Hyène]] || 1
 |-
-| [Hyène sanguinaire](./Hyène sanguinaire.md) || 3
+| [[Hyène sanguinaire]] || 3
 |}
 </div>*Cette hyène est couverte d’une fourrure épaisse de couleur brune parsemée de rayures noires.*
 
@@ -58,7 +58,7 @@ elles attaquer leur ennemi de face pendant que les autres le
 contournent et l’assaillent par derrière.
 
 De nombreuses races d’humanoïdes
-sauvages, dont les [gnolls](./Gnoll.md), utilisent les hyènes
+sauvages, dont les [[Gnoll|gnolls]], utilisent les hyènes
 comme chiens de garde. Ces hyènes sont
 généralement équipées de bardes en cuir. Elles
 reçoivent un entraînement qui commence dès
@@ -67,7 +67,7 @@ vicieuses et agressives. Bon nombre d’entre
 elles sont des hyènes évoluées.
 
 #### La hyène comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d4 et [croc-en-jambe](./croc-en-jambe.md)) ; **Caractéristiques** For 10, Dex 17, Con 13, Int 2, Sag 13, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d4 et [[croc-en-jambe]]) ; **Caractéristiques** For 10, Dex 17, Con 13, Int 2, Sag 13, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Évolution au niveau 4.** **Taille** M ; **Attaque** morsure (1d6 et [croc-en-jambe](./croc-en-jambe.md)) ; **Caractéristiques** For +4, Dex -2, Con +2.
+**Évolution au niveau 4.** **Taille** M ; **Attaque** morsure (1d6 et [[croc-en-jambe]]) ; **Caractéristiques** For +4, Dex -2, Con +2.
 </div></td></tr></table>

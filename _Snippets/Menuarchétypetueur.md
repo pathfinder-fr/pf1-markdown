@@ -4,17 +4,17 @@
 
 <div class="presentation navmenudroite">
 ### Les archétypes de tueur
-&nbsp;Retour à la [classe](./../Pathfinder-RPG/Tueur.md).
-<ul style="margin-top:2px"><li>[Chasseur de primes](./../Pathfinder-RPG/Chasseur de primes (tueur).md) (MCA)</li>
-<li>[Coupe-jarret](./../Pathfinder-RPG/Coupe-jarret (tueur).md) (MCA)</li>
-<li>[Exécuteur des barons du crime](./../Pathfinder-RPG/Exécuteur sczarni (tueur).md) (MCA)</li>
-<li>[Gardien des tombes](./../Pathfinder-RPG/Gardien des tombes (tueur).md) (MCA)</li>
-<li>[Lame de velours](./../Pathfinder-RPG/Lame de velours (tueur).md) (*UI*)</li>
-<li>[Lame pure](./../Pathfinder-RPG/Lame pure (tueur).md) (MCA)</li>
-<li>[Libérateur](./../Pathfinder-RPG/Libérateur (tueur).md) (MCA)</li>
-<li>[Nettoyeur](./../Pathfinder-RPG/Nettoyeur (tueur).md) (MCA)</li>
-<li>[Tireur embusqué](./../Pathfinder-RPG/Tireur embusqué (tueur).md) (MCA)</li>
-<li>[Tueur en première ligne](./../Pathfinder-RPG/Tueur en première ligne (tueur).md) (MCA)</li>
-<li>[Tueur stygien](./../Pathfinder-RPG/Tueur stygien (tueur).md) (MCA)</li>
+&nbsp;Retour à la [[Tueur|classe]].
+<ul style="margin-top:2px"><li>[[Chasseur de primes (tueur)|Chasseur de primes]] (MCA)</li>
+<li>[[Coupe-jarret (tueur)|Coupe-jarret]] (MCA)</li>
+<li>[[Exécuteur sczarni (tueur)|Exécuteur des barons du crime]] (MCA)</li>
+<li>[[Gardien des tombes (tueur)|Gardien des tombes]] (MCA)</li>
+<li>[[Lame de velours (tueur)|Lame de velours]] (*UI*)</li>
+<li>[[Lame pure (tueur)|Lame pure]] (MCA)</li>
+<li>[[Libérateur (tueur)|Libérateur]] (MCA)</li>
+<li>[[Nettoyeur (tueur)|Nettoyeur]] (MCA)</li>
+<li>[[Tireur embusqué (tueur)|Tireur embusqué]] (MCA)</li>
+<li>[[Tueur en première ligne (tueur)|Tueur en première ligne]] (MCA)</li>
+<li>[[Tueur stygien (tueur)|Tueur stygien]] (MCA)</li>
 </ul>
 </div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#CAMOUFLAGE
 ---
 
->>> [Talents#CAMOUFLAGE](./Talents.md#CAMOUFLAGE)
+>>> [[Talents#CAMOUFLAGE]]

@@ -11,6 +11,6 @@ Categories:
 
 {s:apg}*Le personnage a le nez aussi fin que celui d’un prédateur sauvage.*
 
-**Conditions.** [Sag](./Sagesse.md) 13 ; [demi-orque](./Demi-orque.md) ou [orque](./Orque.md).
+**Conditions.** [[Sagesse|Sag]] 13 ; [[demi-orque]] ou [[orque]].
 
-**Avantage.** Le personnage gagne la capacité spéciale d’[odorat](./odorat.md).
+**Avantage.** Le personnage gagne la capacité spéciale d’[[odorat]].

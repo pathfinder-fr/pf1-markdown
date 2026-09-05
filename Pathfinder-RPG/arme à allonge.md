@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#ARMEAALLONGE
 ---
 
->>> [Caractéristiques des armes#ARMEAALLONGE](./Caractéristiques des armes.md#ARMEAALLONGE)
+>>> [[Caractéristiques des armes#ARMEAALLONGE]]

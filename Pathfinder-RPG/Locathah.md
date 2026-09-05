@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.188}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([aquatique](./sous-type aquatique.md)) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type aquatique|aquatique]]) de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 11, pris au dépourvu 12 (Dex +1, naturelle +2)}
 {s:BDTexte|**pv** 9 (2d8)}
@@ -25,8 +25,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 12, **Con** 10, **Int** 13, **Sag** 13, **Cha** 11}
 {s:BDTexte|**BBA** +1, **BMO** +1, **DMD** 12}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (pique)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md)  (un au choix) +6, [Natation](./Natation.md) +8, [Perception](./Perception.md) +3, [Survie](./Survie.md) +6}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (pique)}
+{s:BDTexte|**Compétences** [[Artisanat]]  (un au choix) +6, [[Natation]] +8, [[Perception]] +3, [[Survie]] +6}
 {s:BDTexte|**Langues** aquatique}
 {s:BDTexte|**Particularités** amphibie}
 {s:BDSousTitre|Écologie}

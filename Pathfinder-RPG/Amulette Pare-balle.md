@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Amulette pare-balle|{s:AE}}
-**Aura** [Abjuration](./Abjuration.md) faible ; **NLS** 5  ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 1.500 po (+1), 6.000 po (+2), 13.500 po (+3), 24.000 po (+4), 37.500 po (+5) ; **Poids** —
+**Aura** [[Abjuration]] faible ; **NLS** 5  ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 1.500 po (+1), 6.000 po (+2), 13.500 po (+3), 24.000 po (+4), 37.500 po (+5) ; **Poids** —
 (((Description)))
-Cette amulette est généralement fabriquée à partir des restes de balles utilisées que l’on arrange pour former un symbole sacré ou un trèfle. Elle donne un bonus de chance à la [CA](./CA.md) contre les armes à feu qui utilisent la [CA](./CA.md) au contact de leur cible.
+Cette amulette est généralement fabriquée à partir des restes de balles utilisées que l’on arrange pour former un symbole sacré ou un trèfle. Elle donne un bonus de chance à la [[CA]] contre les armes à feu qui utilisent la [[CA]] au contact de leur cible.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[faveur divine](./Faveur divine.md)*, le niveau de lanceur de sorts du créateur doit être au moins trois fois supérieur au bonus de l’amulette  ; **Coût** 750 po (+1), 3.000 po (+2), 6.750 po (+3), 12.000 po (+4), 18.750 po (+5)
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[faveur divine]]*, le niveau de lanceur de sorts du créateur doit être au moins trois fois supérieur au bonus de l’amulette  ; **Coût** 750 po (+1), 3.000 po (+2), 6.750 po (+3), 12.000 po (+4), 18.750 po (+5)
 </div>

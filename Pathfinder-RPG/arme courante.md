@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#ARMECOURANTE
 ---
 
->>> [Caractéristiques des armes#ARMECOURANTE](./Caractéristiques des armes.md#ARMECOURANTE)
+>>> [[Caractéristiques des armes#ARMECOURANTE]]

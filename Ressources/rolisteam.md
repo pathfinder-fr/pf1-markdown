@@ -4,12 +4,12 @@ Title: Introduction à la Table Virtuelle Rolisteam
 LastModified: 2010-08-23 20:46
 ---
 
-**Rolisteam** est l'évolution du logiciel [http://rolistik.free.fr/index.html|Rolistik] de Romain CAMPIONI. Il est en Français, libre de droit et a pour but, tout comme [^d20pro|d20Pro], de fournir une table virtuelle pour vos parties en ligne ou un support pour les tables réelle.
+**Rolisteam** est l'évolution du logiciel [Rolistik](http://rolistik.free.fr/index.html) de Romain CAMPIONI. Il est en Français, libre de droit et a pour but, tout comme [[d20pro]], de fournir une table virtuelle pour vos parties en ligne ou un support pour les tables réelle.
 
 
 ### Principes de base
 
-Rolisteam fonctionne sur une architecture client/serveur. Un joueur héberge la partie sur son ordinateur, et les autres joueurs n'ont plus qu'a s'y connecter via l'ip et le port adéquat. En choisissant a chaque fois, si vous voulez vous y connecter entant que joueur, ou MJ (Il va de soi qu'il n'y aura que un MJ par partie). N'étant pas sujet a licence payante, vous pouvez vous y connecter et l'utiliser sans limite aucune.[imageright||{UP(Pathfinder-RPG.rolisteam)}connexion.jpg]
+Rolisteam fonctionne sur une architecture client/serveur. Un joueur héberge la partie sur son ordinateur, et les autres joueurs n'ont plus qu'a s'y connecter via l'ip et le port adéquat. En choisissant a chaque fois, si vous voulez vous y connecter entant que joueur, ou MJ (Il va de soi qu'il n'y aura que un MJ par partie). N'étant pas sujet a licence payante, vous pouvez vous y connecter et l'utiliser sans limite aucune.<img src="{UP(Pathfinder-RPG.rolisteam)}connexion.jpg" class="imageright" alt="">
 
 
 ### Fonctionnalités
@@ -35,7 +35,7 @@ Qu'allez vous bien pouvoir faire de **Rolisteam**?
 L'interface est plutôt intuitive, et l'aide fournie avec l'application plutôt complète, mais voici un tour d'horizon rapide de l'utilisation de **Rolisteam**.
 La disposition des fenêtres est personnalisable, libre a vous d'en changer leur organisation.
 Nous avons ici l'interface coté MJ, elle est légèrement différente coté PJ.
-[imageauto||{UP(Pathfinder-RPG.rolisteam)}interface_num_lil.jpg]
+<img src="{UP(Pathfinder-RPG.rolisteam)}interface_num_lil.jpg" class="imageauto" alt="">
 
 - 1 Les outils de dessin, utiles pour... Dessiner mais aussi pour mettre ou enlever du brouillard de guerre,...
 - 2 Les outils pour la gestion des jetons PNJ, un compteur, un "variateur" de taille, une zone de texte pour les nommés, aussi que l'outil pour les déplacer, et changer leur statut (blesser, malade, mort,...)
@@ -48,8 +48,8 @@ Nous avons ici l'interface coté MJ, elle est légèrement différente coté PJ.
 
 ### En conclusion
 
-Certainement bien moins complet que des grands nom du genre comme [^d20pro|d20Pro], **Rolisteam** a le grand avantage d'être gratuit, open source, et en français !
-Vous ne pourrez pas vous passer de vos feuilles de personnage (au d'une autre application comme [^http://bonnarien.dyndns.org/programme/roleDD.php|RoleDD]) mais couplé avec un serveur de voix comme [^http://www.teamspeak.com/|TeamSpeak] pour ne citer que lui, cela vous permettra largement de jouer avec des joueurs a l'autre bout du monde...
+Certainement bien moins complet que des grands nom du genre comme [[d20pro]], **Rolisteam** a le grand avantage d'être gratuit, open source, et en français !
+Vous ne pourrez pas vous passer de vos feuilles de personnage (au d'une autre application comme [RoleDD](http://bonnarien.dyndns.org/programme/roleDD.php)) mais couplé avec un serveur de voix comme [TeamSpeak](http://www.teamspeak.com/) pour ne citer que lui, cela vous permettra largement de jouer avec des joueurs a l'autre bout du monde...
 **Rolisteam**, c'est simple, accessible, et pas cher...
 
 ### Quelques liens

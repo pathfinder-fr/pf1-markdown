@@ -11,15 +11,15 @@ Categories:
 
 {s:apg}*Le personnage sait comment parer les attaques à distance à l’aide de son bouclier.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 13, [Art du bouclier](./Art du bouclier.md).
+**Conditions.** [[Dextérité|Dex]] 13, [[Art du bouclier]].
 
-**Avantage.** Le personnage doit utiliser une rondache, un écu ou un pavois pour tirer parti de ce don. Une fois par round, lorsqu’il devrait normalement être touché par une attaque effectuée à l’aide d’une arme à distance (autre qu’un effet de sort, une attaque naturelle ou une attaque par un projectile de grande taille), il peut la parer et ainsi ne subir aucun dégât, comme s’il possédait le don [Parade de projectiles](./Parade de projectiles.md). Cela ne fonctionne pas si le personnage est [pris au dépourvu](./Pris au dépourvu.md) ou surpris par l’attaque.
+**Avantage.** Le personnage doit utiliser une rondache, un écu ou un pavois pour tirer parti de ce don. Une fois par round, lorsqu’il devrait normalement être touché par une attaque effectuée à l’aide d’une arme à distance (autre qu’un effet de sort, une attaque naturelle ou une attaque par un projectile de grande taille), il peut la parer et ainsi ne subir aucun dégât, comme s’il possédait le don [[Parade de projectiles]]. Cela ne fonctionne pas si le personnage est [[pris au dépourvu]] ou surpris par l’attaque.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Tant que le personnage possède au moins un point d’endurance dans sa réserve, il peut utiliser ce don avec une [targe](./targe (armure).md). Il peut dépenser 5 points d’endurance pour dévier un projectile alors qu’il est [pris au dépourvu](./Pris au dépourvu.md) mais il doit tout de même être conscient de l’attaque.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Tant que le personnage possède au moins un point d’endurance dans sa réserve, il peut utiliser ce don avec une [[targe (armure)|targe]]. Il peut dépenser 5 points d’endurance pour dévier un projectile alors qu’il est [[pris au dépourvu]] mais il doit tout de même être conscient de l’attaque.
 
 {s:CMy}
 ### Version mythique
@@ -27,4 +27,4 @@ Tant que le personnage possède au moins un point d’endurance dans sa réserve
 
 **Condition.** Bouclier contre les projectiles
 
-**Avantage.** Lorsqu’il utilise Bouclier contre les projectiles, le personnage peut, chaque round, parer un nombre d’attaques à distance supplémentaires égal à la moitié de son [grade](./Grade.md). Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) par une [action immédiate](./Action immédiate.md) pour parer un unique rayon produit par un sort ou un effet sous forme de rayon qui le prend pour cible.
+**Avantage.** Lorsqu’il utilise Bouclier contre les projectiles, le personnage peut, chaque round, parer un nombre d’attaques à distance supplémentaires égal à la moitié de son [[grade]]. Il peut dépenser une utilisation de [[pouvoir mythique]] par une [[action immédiate]] pour parer un unique rayon produit par un sort ou un effet sous forme de rayon qui le prend pour cible.

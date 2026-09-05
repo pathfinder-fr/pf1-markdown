@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Alignement#CB
 ---
 
->>> [Alignement#CB](./Alignement.md#CB)
+>>> [[Alignement#CB]]

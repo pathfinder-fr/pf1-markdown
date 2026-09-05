@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Suaire d'un mort|{s:RSE}}
-**Aura** [Nécromancie](./Nécromancie.md) faible ; **NLS** 5  ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 6.000 po ; **Poids** 0,5 kg
+**Aura** [[Nécromancie]] faible ; **NLS** 5  ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 6.000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette cape maculée de terre a été tissée d’ombre à partir du suaire d’un meurtrier condamné. Elle empêche les morts-vivants non intelligents de vous détecter, comme le sort *[invisibilité pour les morts-vivants](./Invisibilité pour les morts-vivants.md)*. Les morts-vivants intelligents vous perçoivent s’ils réussissent un [jet de sauvegarde](./jet de sauvegarde.md) de [Volonté](./Volonté.md) [DD](./DD.md) 11. La protection prend fin si vous touchez un mort-vivant, canalisez de l’énergie contre les morts-vivants ou attaquez tout type de créature. Une fois par jour par une [action simple](./Action simple.md), vous pouvez silencieusement appeler les ombres liées au suaire, vous rendant [invisible](./Invisible.md) pendant 5 minutes.
+Cette cape maculée de terre a été tissée d’ombre à partir du suaire d’un meurtrier condamné. Elle empêche les morts-vivants non intelligents de vous détecter, comme le sort *[[invisibilité pour les morts-vivants]]*. Les morts-vivants intelligents vous perçoivent s’ils réussissent un [[jet de sauvegarde]] de [[Volonté]] [[DD]] 11. La protection prend fin si vous touchez un mort-vivant, canalisez de l’énergie contre les morts-vivants ou attaquez tout type de créature. Une fois par jour par une [[action simple]], vous pouvez silencieusement appeler les ombres liées au suaire, vous rendant [[invisible]] pendant 5 minutes.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[invisibilité](./Invisibilité.md)*, *[invisibilité pour les morts-vivants](./Invisibilité pour les morts-vivants.md)* ; **Coût** 3.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[invisibilité]]*, *[[invisibilité pour les morts-vivants]]* ; **Coût** 3.000 po
 </div>

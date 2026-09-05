@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Shira
 ---
 
->>> [Shira](./Shira.md)
+>>> [[Shira]]

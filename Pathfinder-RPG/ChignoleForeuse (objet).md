@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pa ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Une chignole permet de percer des trous de 2,5 centimètres de diamètre dans la pierre, le bois ou le métal par une [action simple](./Action simple.md). Les matériaux plus durs abîment ou brisent la chignole plus rapidement. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 15 pour entendre le bruit d'une chignole.
+Une chignole permet de percer des trous de 2,5 centimètres de diamètre dans la pierre, le bois ou le métal par une [[action simple]]. Les matériaux plus durs abîment ou brisent la chignole plus rapidement. Il faut réussir un test de [[Perception]] [[DD]] 15 pour entendre le bruit d'une chignole.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBESRAPIDES
 ---
 
->>> [découvertes#BOMBESRAPIDES](./découvertes.md#BOMBESRAPIDES)
+>>> [[découvertes#BOMBESRAPIDES]]

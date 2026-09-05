@@ -28,15 +28,15 @@ Les suivants de sa religion ont des activités variées : prostituées, espions.
 
 ### Temples
 
-Cette religion se retrouve un peu partout mais elle est bien implantée à [Absalom](./Absalom.md), [Galt](./Galt.md), [Kyonin](./Kyonin.md), [Nex](./Nex.md), les [Royaumes Fluviaux](./Royaumes fluviaux.md), les [Entraves](./Entraves.md), [Taldor](./Taldor.md), et la [Varisie](./Varisie.md). Dans les royaumes humains, les temples abritent des prostituées sacrées et agissent comme un centre de rassemblement d'informations. Dans les terres elfiques, les temples ressemblent plus à des guildes de voleurs.
+Cette religion se retrouve un peu partout mais elle est bien implantée à [[Absalom]], [[Galt]], [[Kyonin]], [[Nex]], les [[Royaumes Fluviaux]], les [[Entraves]], [[Taldor]], et la [[Varisie]]. Dans les royaumes humains, les temples abritent des prostituées sacrées et agissent comme un centre de rassemblement d'informations. Dans les terres elfiques, les temples ressemblent plus à des guildes de voleurs.
 
 ### Textes sacrés
 
 Le livre du plaisir : Ce livre détaille les différentes passions sacralisées par la déesse sous l'aspect du feu inextinguible.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [cinquième volume](./../Aventures/Présentation AP3.md#AP3-5) de la troisième campagne, [Le Retour des Ténèbres](./../Aventures/Présentation AP3.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP3#AP3-5|cinquième volume]] de la troisième campagne, [[Aventures.Présentation AP3|Le Retour des Ténèbres]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

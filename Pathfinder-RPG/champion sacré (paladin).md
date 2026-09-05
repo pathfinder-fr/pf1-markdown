@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Paladin#CHAMPIONSACRE
 ---
 
->>> [Paladin#CHAMPIONSACRE](./Paladin.md#CHAMPIONSACRE)
+>>> [[Paladin#CHAMPIONSACRE]]

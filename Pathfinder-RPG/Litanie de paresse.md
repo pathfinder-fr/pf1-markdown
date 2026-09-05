@@ -12,20 +12,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Enchantement](./Enchantement.md) ([charme](./branche charme.md)) <nowiki>[</nowiki>[langage, mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 1, [Inq](./Inquisiteur.md) 1, [Pal](./Paladin.md) 1  
+**École** [[Enchantement]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1  
 
-**Temps d’incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d’incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage ralentit les réflexes défensifs de la cible avec un sermon contre les méfaits de la paresse. La cible ne peut pas faire d’[attaque d’opportunité](./attaque dopportunité.md) ni lancer de sorts sur la défensive.
+Le personnage ralentit les réflexes défensifs de la cible avec un sermon contre les méfaits de la paresse. La cible ne peut pas faire d’[[attaque dopportunité|attaque d’opportunité]] ni lancer de sorts sur la défensive.
 
 Quand il est sous l’effet de ce sort, il ne peut pas bénéficier des effets d’un autre sort de litanie.

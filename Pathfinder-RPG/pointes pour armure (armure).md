@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des armures#Pointespourarmure
 ---
 
->>> [Descriptions individuelles des armures#Pointespourarmure](./Descriptions individuelles des armures.md#Pointespourarmure)
+>>> [[Descriptions individuelles des armures#Pointespourarmure]]

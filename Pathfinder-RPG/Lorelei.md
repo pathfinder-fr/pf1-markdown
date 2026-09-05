@@ -10,7 +10,7 @@ LastModified: 2016-12-27 18:55
 {s:pucem|Aberration|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 177*}
 - 19 200 PX
-- [Aberration](./type Aberration.md) (aquatique) de taille G, NM
+- [[type aberration|Aberration]] (aquatique) de taille G, NM
 - **Init **+5 ; **Sens **vision dans le noir à 18 m ; Perception +24 
 (((Défense)))
 - **CA **27, contact 10, pris au dépourvu 26 (Dex +1, naturelle +17, taille -1)
@@ -23,13 +23,13 @@ LastModified: 2016-12-27 18:55
 - **Espace **3 m ; Allonge 4,50 m
 - **Attaques spéciales** complainte, poison, vortex
 - **Pouvoirs magiques** (**NLS** 12 ; concentration +17)
-  - *À volonté *– [communication avec les morts](./Communication avec les morts.md) (DD 18), [vent de murmure](./vent-de-murmure.md), [son imaginaire](./Son imaginaire.md) (DD 15), [ventriloquisme](./ventriloquisme.md) (DD 16)
-  - 3/jour – [contrôle de l’eau](./Contrôle de leau.md), [contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md) (DD 17), [nappe de brouillard](./Nappe de brouillard.md)
+  - *À volonté *– [[communication avec les morts]] (DD 18), [[vent de murmure]], [[son imaginaire]] (DD 15), [[ventriloquisme]] (DD 16)
+  - 3/jour – [[contrôle de leau|contrôle de l’eau]], [[contrôle mineur des morts-vivants]] (DD 17), [[nappe de brouillard]]
 (((Statistiques)))
 - **For **28, **Dex** 13, **Con **29, **Int **11, **Sag **16, **Cha **20
 - **BBA **+9 ; **BMO **+19 ; **DMD **30 (croc-en-jambe impossible)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (tentacule), [Attaque en puissance](./Attaque en puissance.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Discrétion), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md) 
-- **Compétences **[Bluff](./Bluff.md) +15, [Discrétion](./Discrétion.md) +18 (+26 dans des environnements rocailleux), [Escalade](./Escalade.md) +21, [Natation](./Natation.md) +21, [Perception](./Perception.md) +24, [Psychologie](./Psychologie.md) +15 ; **Modificateurs raciaux** +8 en Discrétion dans des environnements rocailleux
+- **Dons **[[Arme de prédilection]] (tentacule), [[Attaque en puissance]], [[science de linitiative|Science de l’initiative]], [[Talent]] (Discrétion), [[Talent]] (Perception), [[Volonté de fer]] 
+- **Compétences **[[Bluff]] +15, [[Discrétion]] +18 (+26 dans des environnements rocailleux), [[Escalade]] +21, [[Natation]] +21, [[Perception]] +24, [[Psychologie]] +15 ; **Modificateurs raciaux** +8 en Discrétion dans des environnements rocailleux
 - **Langues **aquatique, commun
 - **Particularités** besoin d’eau, immobilité
 (((Écologie)))

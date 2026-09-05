@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Macridi est située dans la partie sud du [Druma](./Druma.md).
+Macridi est située dans la partie sud du [[Druma]].
 
 Contrairement à ses consœurs du nord, la cité, bien qu'autant opulente et influente, n'a jamais exposé ses richesses sur ses murs.

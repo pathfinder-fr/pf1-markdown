@@ -10,7 +10,7 @@ LastModified: 2024-08-18 01:56
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 146*}
 - 51 200 PX
-- [Aberration](./type Aberration.md) de taille G, NM
+- [[type aberration|Aberration]] de taille G, NM
 - **Init **+12 ; **Sens **vision à 360°, vision dans le noir à 27 m, vision nocturne ; Perception +19
 (((Défense)))
 - **CA **32, contact 18, pris au dépourvu 23 (Dex +8, esquive +1, naturelle +14, taille -1)
@@ -24,14 +24,14 @@ LastModified: 2024-08-18 01:56
 - **Espace **3 m ; **Allonge **3 m
 - **Attaques spéciales** absorption de souvenirs, paume vibratoire (1/jour, DD 25), coup étourdissant (4/jour, DD 25)
 - **Pouvoirs magiques** (**NLS **15 ; concentration +24)
-  - *À volonté* — [clairvoyance/clairaudience](./Clairaudienceclairvoyance.md), [partage des souvenirs](./Partage des souvenirs.md)<sup>AM</sup>
-  - *5/jour* — [divination](./Divination.md)
-  - *3/jour* — [froide frappe de glace](./Froide frappe de glace.md)<sup>AM</sup>, [détonation discordante](./Détonation discordante.md)<sup>MdJ RA</sup>, [estoc sonore](./Estoc sonore.md)<sup>AM</sup>
+  - *À volonté* — [[clairaudienceclairvoyance|clairvoyance/clairaudience]], [[partage des souvenirs]]<sup>AM</sup>
+  - *5/jour* — [[divination]]
+  - *3/jour* — [[froide frappe de glace]]<sup>AM</sup>, [[détonation discordante]]<sup>MdJ RA</sup>, [[estoc sonore]]<sup>AM</sup>
 (((Statistiques)))
 - **For **18, **Dex **27, **Con **24, **Int **19, **Sag** 22, **Cha **29
 - **BBA **+14 ; **BMO **+19 ; **DMD **38
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (coup), [Attaques réflexes](./Attaques réflexes.md), [Comme le vent](./Comme le vent.md), [Coup étourdissant](./Coup étourdissant.md), [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Science de l’initiative](./Science de linitiative.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md) (Psychologie)
-- **Compétences **[Acrobaties](./Acrobaties.md) +23, [Art de la magie](./Art de la magie.md) +22, [Artisanat](./Artisanat.md) (au choix) +10, [Bluff](./Bluff.md) +21, [Connaissances](./Connaissances.md) (géographie, histoire) +10, [Connaissances](./Connaissances.md) (mystères, plans, religion) +12, [Diplomatie](./Diplomatie.md) +17, [Discrétion](./Discrétion.md) +15, [Intimidation](./Intimidation.md) +24, [Natation](./Natation.md) +8, [Perception](./Perception.md) +19, [Psychologie](./Psychologie.md) +17, [Survie](./Survie.md) +17, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +17 
+- **Dons **[[Arme de prédilection]] (coup), [[Attaques réflexes]], [[Comme le vent]], [[Coup étourdissant]], [[Esquive]], [[Magie de guerre]], [[science de linitiative|Science de l’initiative]], [[Science du combat à mains nues]], [[Souplesse du serpent]], [[Talent]] (Psychologie)
+- **Compétences **[[Acrobaties]] +23, [[Art de la magie]] +22, [[Artisanat]] (au choix) +10, [[Bluff]] +21, [[Connaissances]] (géographie, histoire) +10, [[Connaissances]] (mystères, plans, religion) +12, [[Diplomatie]] +17, [[Discrétion]] +15, [[Intimidation]] +24, [[Natation]] +8, [[Perception]] +19, [[Psychologie]] +17, [[Survie]] +17, [[utilisation dobjets magiques|Utilisation d’objets magiques]] +17 
 - **Langues **commun, commun des profondeurs ; télépathie à 18 m
 - **Particularités **sonde oculaire, pouvoirs de moine, transfert de souvenirs
 (((Écologie)))

@@ -10,7 +10,7 @@ LastModified: 2017-03-19 10:54
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 93*}
 - **153 600 PX**
-- [Créature féerique](./type Fée.md) de taille M, CN
+- [[type fée|Créature féerique]] de taille M, CN
 - **Init **+7 ; **Sens **vision nocturne ; Perception +28
 (((Défense)))
 - **CA **34, contact 15, pris au dépourvu 29 (armure +7, Dex +4, esquive +1, naturelle +12, parade contre le Mal ou la Loi +2)
@@ -24,15 +24,15 @@ LastModified: 2017-03-19 10:54
 - **À distance** arc long en bois de fer +3, +20/+20/+15 (1d8+3/x3 plus saignement)
 - **Attaques spéciales** saignement (1d6), ennemi juré (tous les humanoïdes +10), maîtrise du bois de fer
 - **Pouvoirs magiques **(**NLS **20 ; concentration +25)
-  - *Constant *— [communication avec les animaux](./Communication avec les animaux.md), [communication avec les plantes](./Communication avec les plantes.md), [flou](./Flou.md), [protection contre la Loi](./Protection contre la Loi.md), [protection contre le Mal](./Protection contre le Mal.md), [rapidité](./Rapidité.md) (soi-même uniquement)
-  - *À volonté* — [vent de murmures](./Vent de murmures.md)
-  - *3/jour *— [animation des plantes](./Animation des plantes.md), [bois de fer](./Bois de fer.md), [convocation d’alliés naturels VI](./Convocation dalliés naturels VI.md), convocation (niveau 6, 1d4+1 centaures ou 1 sylvanien 100%), [croissance végétale](./Croissance végétale.md), [tentacules noirs](./Tentacules noirs.md), [soins intensifs](./Soins intensifs.md), [rapidité](./Rapidité.md), [glissement de terrain](./Glissement de terrain.md), [convocation d’alliés naturels VI](./Convocation dalliés naturels VI.md), convocation (niveau 6, 1d4+1 centaures ou 1 sylvanien 100%), [voyage par les arbres](./Voyage par les arbres.md)
-  - *1/jour *— [doigt de mort](./Doigt de mort.md) (DD 23), [éloignement du métal et de la pierre](./Éloignement du métal et de la pierre.md), [convocation d’alliés naturels IX](./Convocation dalliés naturels IX.md)
+  - *Constant *— [[communication avec les animaux]], [[communication avec les plantes]], [[flou]], [[protection contre la Loi]], [[protection contre le Mal]], [[rapidité]] (soi-même uniquement)
+  - *À volonté* — [[vent de murmures]]
+  - *3/jour *— [[animation des plantes]], [[bois de fer]], [[convocation dalliés naturels VI|convocation d’alliés naturels VI]], convocation (niveau 6, 1d4+1 centaures ou 1 sylvanien 100%), [[croissance végétale]], [[tentacules noirs]], [[soins intensifs]], [[rapidité]], [[glissement de terrain]], [[convocation dalliés naturels VI|convocation d’alliés naturels VI]], convocation (niveau 6, 1d4+1 centaures ou 1 sylvanien 100%), [[voyage par les arbres]]
+  - *1/jour *— [[doigt de mort]] (DD 23), [[éloignement du métal et de la pierre]], [[convocation dalliés naturels IX|convocation d’alliés naturels IX]]
 (((Statistiques)))
 - **For **20, **Dex **25, **Con **28, **Int **19, **Sag **20, **Cha **21
 - **BBA **+10 ; **BMO **+15 ; **DMD **33
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (épée longue), [Arme de prédilection supérieure](./Arme de prédilection supérieure.md) (épée longue), [Attaque en puissance](./Attaque en puissance.md), [Briseur de sorts](./Briseur de sorts.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive](./Frappe décisive.md), [Perturbateur](./Perturbateur.md), [Robustesse](./Robustesse.md), [Spécialisation martiale](./Spécialisation martiale.md) (épée longue), [Spécialisation martiale supérieure](./Spécialisation martiale supérieure.md) (épée longue)
-- **Compétences **[Acrobaties](./Acrobaties.md) +19 (+35 pour sauter), [Art de la magie](./Art de la magie.md) +14, [Bluff](./Bluff.md) +18, [Connaissances](./Connaissances.md) (géographie) +17, [Connaissances](./Connaissances.md) (nature) +27, [Connaissances](./Connaissances.md) (noblesse) +9, [Diplomatie](./Diplomatie.md) +13, [Discrétion](./Discrétion.md) +29, [Dressage](./Dressage.md) +15, [Équitation](./Équitation.md) +16, [Escalade](./Escalade.md) +12, [Intimidation](./Intimidation.md) +25, [Natation](./Natation.md) +17, [Perception](./Perception.md) +28, [Premiers secours](./Premiers secours.md) +10, [Psychologie](./Psychologie.md) +18, [Représentation](./Représentation.md) (une au choix) +13, [Survie](./Survie.md) +15, [Vol](./Vol.md) +18 ; **Modificateurs raciaux** +16 en Acrobaties pour sauter
+- **Dons **[[Arme de prédilection]] (épée longue), [[Arme de prédilection supérieure]] (épée longue), [[Attaque en puissance]], [[Briseur de sorts]], [[Don pour les critiques]], [[Frappe décisive]], [[Perturbateur]], [[Robustesse]], [[Spécialisation martiale]] (épée longue), [[Spécialisation martiale supérieure]] (épée longue)
+- **Compétences **[[Acrobaties]] +19 (+35 pour sauter), [[Art de la magie]] +14, [[Bluff]] +18, [[Connaissances]] (géographie) +17, [[Connaissances]] (nature) +27, [[Connaissances]] (noblesse) +9, [[Diplomatie]] +13, [[Discrétion]] +29, [[Dressage]] +15, [[Équitation]] +16, [[Escalade]] +12, [[Intimidation]] +25, [[Natation]] +17, [[Perception]] +28, [[Premiers secours]] +10, [[Psychologie]] +18, [[Représentation]] (une au choix) +13, [[Survie]] +15, [[Vol]] +18 ; **Modificateurs raciaux** +16 en Acrobaties pour sauter
 - **Langues **commun, elfique, sylvestre, communication avec les animaux, communication avec les plantes
 - **Particularités **créature féerique guerrière
 (((Écologie)))

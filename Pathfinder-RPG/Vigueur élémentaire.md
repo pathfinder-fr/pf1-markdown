@@ -11,4 +11,4 @@ Categories:
 
 **Conditions.** Suivant d'un seigneur élémentaire
 
-**Avantage.** Lorsque le personnage utilise un effet de [métamorphose](./Présentation des sorts.md#METAMORPHOSE) pour prendre la forme d'un [élémentaire](./Élémentaire.md), il reçoit une bouffée d'énergie vitale. Le personnage obtient un nombre de [points de vie temporaires](./Blessures et mort.md#PVTEMPORAIRES) égal au [NLS](./NLS.md) de l'effet de métamorphose et il obtient un bonus de 3 m (2{s:c}) à sa vitesse de base.
+**Avantage.** Lorsque le personnage utilise un effet de [[Présentation des sorts#METAMORPHOSE|métamorphose]] pour prendre la forme d'un [[élémentaire]], il reçoit une bouffée d'énergie vitale. Le personnage obtient un nombre de [[Blessures et mort#PVTEMPORAIRES|points de vie temporaires]] égal au [[NLS]] de l'effet de métamorphose et il obtient un bonus de 3 m (2{s:c}) à sa vitesse de base.

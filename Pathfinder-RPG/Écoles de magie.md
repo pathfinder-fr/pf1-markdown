@@ -6,49 +6,49 @@ Categories:
 - Règle officielle
 ---
 
-{s:MenuClasses}{s:MenuÉcoles}Un magicien peut choisir de se spécialiser dans une [école de magie](./Écoles de magie.md) afin d’acquérir des sorts et des pouvoirs supplémentaires associés à cette école. Ce choix doit être fait au niveau 1 et ne peut être modifié par la suite. Si le magicien ne choisit aucune école, il reçoit les avantages liés à l’[école universelle](./Écoles de magie.md#ECOLEUNIVERSELLE).
+{s:MenuClasses}{s:MenuÉcoles}Un magicien peut choisir de se spécialiser dans une [[Écoles de magie|école de magie]] afin d’acquérir des sorts et des pouvoirs supplémentaires associés à cette école. Ce choix doit être fait au niveau 1 et ne peut être modifié par la suite. Si le magicien ne choisit aucune école, il reçoit les avantages liés à l’[[Écoles de magie#ECOLEUNIVERSELLE|école universelle]].
 
-Un magicien qui choisit de se spécialiser dans une des huit [écoles de magie](./Écoles de magie.md) standard doit sélectionner deux autres écoles qui deviennent ses écoles opposées et représentent les domaines de connaissances qu’il décide de sacrifier pour se concentrer sur son domaine de prédilection. Un magicien peut préparer un sort appartenant à une de ses écoles opposées mais il doit alors utiliser deux [emplacements de sort](./emplacement de sort.md) du même niveau.
+Un magicien qui choisit de se spécialiser dans une des huit [[Écoles de magie]] standard doit sélectionner deux autres écoles qui deviennent ses écoles opposées et représentent les domaines de connaissances qu’il décide de sacrifier pour se concentrer sur son domaine de prédilection. Un magicien peut préparer un sort appartenant à une de ses écoles opposées mais il doit alors utiliser deux [[emplacement de sort|emplacements de sort]] du même niveau.
 
-*Par exemple, un magicien dont une des écoles d’opposition est l’[Évocation](./Écoles de magie.md#EVOCATION) doit utiliser deux emplacements de sort de 3e niveau pour préparer une *[boule de feu](./Boule de feu.md)*. De plus, le spécialiste subit un malus de -4 à tous les tests de compétence pour [fabriquer un objet magique](./Création dobjets magiques.md) dont la création nécessite un sort appartenant à une de ses écoles d’opposition.*
+*Par exemple, un magicien dont une des écoles d’opposition est l’[[Écoles de magie#EVOCATION|Évocation]] doit utiliser deux emplacements de sort de 3e niveau pour préparer une *[[boule de feu]]*. De plus, le spécialiste subit un malus de -4 à tous les tests de compétence pour [[création dobjets magiques|fabriquer un objet magique]] dont la création nécessite un sort appartenant à une de ses écoles d’opposition.*
 
 Un magicien généraliste peut préparer des sorts de n’importe quelle école sans aucune restriction.
 
-Les magiciens spécialistes reçoivent un certain nombre de pouvoirs d’école dépendant de leur spécialité. Ils obtiennent également un [emplacement de sort](./emplacement de sort.md) supplémentaire pour chacun des niveaux de sorts auxquels ils ont accès (sauf le niveau 0). Chaque jour, le magicien peut utiliser cet emplacement supplémentaire pour préparer un sort appartenant à son école de spécialisation et figurant sur son [grimoire](./Magicien.md#GRIMOIRE). Le magicien peut choisir de préparer un sort modifié par un [don de métamagie](./Dons.md#DONMETAMAGIE) dans un de ces emplacements supplémentaires mais il devra alors utiliser un emplacement de niveau plus élevé. Les magiciens généralistes ne reçoivent pas d’emplacements de sort supplémentaires.
+Les magiciens spécialistes reçoivent un certain nombre de pouvoirs d’école dépendant de leur spécialité. Ils obtiennent également un [[emplacement de sort]] supplémentaire pour chacun des niveaux de sorts auxquels ils ont accès (sauf le niveau 0). Chaque jour, le magicien peut utiliser cet emplacement supplémentaire pour préparer un sort appartenant à son école de spécialisation et figurant sur son [[magicien#GRIMOIRE|grimoire]]. Le magicien peut choisir de préparer un sort modifié par un [[Dons#DONMETAMAGIE|don de métamagie]] dans un de ces emplacements supplémentaires mais il devra alors utiliser un emplacement de niveau plus élevé. Les magiciens généralistes ne reçoivent pas d’emplacements de sort supplémentaires.
 
 {s:Reference|ECOLESDEMAGIE}{s:Reference|CHAMPSDETUDESMAGIQUES}
 ### Liste des écoles de magie
-- [Abjuration](./Abjuration (école).md)
-- [Divination](./Divination (école).md)
-- [Enchantement](./Enchantement (école).md)
-- [Évocation](./Évocation (école).md)
-- [Illusion](./Illusion (école).md)
-- [Invocation](./Invocation (école).md)
-- [Nécromancie](./Nécromancie (école).md)
-- [Transmutation](./Transmutation (école).md)
-- [École universelle](./École universelle (école).md)
+- [[Abjuration (école)|Abjuration]]
+- [[Divination (école)|Divination]]
+- [[Enchantement (école)|Enchantement]]
+- [[Évocation (école)|Évocation]]
+- [[Illusion (école)|Illusion]]
+- [[Invocation (école)|Invocation]]
+- [[Nécromancie (école)|Nécromancie]]
+- [[Transmutation (école)|Transmutation]]
+- [[École universelle (école)|École universelle]]
 
 Chacune de ces écoles comprend des champs d'étude magiques qui leur sont propres.
 
 {s:Reference|ECOLESELEMENTAIRES}{s:APG}
 ### Liste des écoles de magie élémentaires
-<div style="float:right; margin:8px 6px 0px 10px">***Voir aussi la [liste des sorts d'élémentaliste](./Liste des sorts délémentaliste.md).***</div>Au lieu de se spécialiser dans l’une des huit écoles de magie standard, un magicien peut se focaliser sur l’étude d’une des quatre écoles de magie élémentaires. Comme les écoles ordinaires, ces nouvelles options octroient un certain nombre de pouvoirs d’école et un emplacement de sort en bonus pour chaque niveau de sorts auquel le magicien a accès (à partir du 1er niveau). Contrairement aux écoles ordinaires, une école élémentaire impose au magicien de choisir son élément opposé comme école d’opposition (l’Air contre la Terre, l’Eau contre le Feu). Le magicien ne doit pas choisir de seconde école d’opposition. Pour pouvoir préparer un sort appartenant à son école d’opposition, il doit utiliser deux emplacements de sort, conformément aux règles normales.
-- [Air](./Air (école).md)
-- [Eau](./Eau (école).md)
-- [Feu](./Feu (école).md)
-- [Terre](./Terre (école).md)
+<div style="float:right; margin:8px 6px 0px 10px">***Voir aussi la [[Liste des sorts délémentaliste|liste des sorts d'élémentaliste]].***</div>Au lieu de se spécialiser dans l’une des huit écoles de magie standard, un magicien peut se focaliser sur l’étude d’une des quatre écoles de magie élémentaires. Comme les écoles ordinaires, ces nouvelles options octroient un certain nombre de pouvoirs d’école et un emplacement de sort en bonus pour chaque niveau de sorts auquel le magicien a accès (à partir du 1er niveau). Contrairement aux écoles ordinaires, une école élémentaire impose au magicien de choisir son élément opposé comme école d’opposition (l’Air contre la Terre, l’Eau contre le Feu). Le magicien ne doit pas choisir de seconde école d’opposition. Pour pouvoir préparer un sort appartenant à son école d’opposition, il doit utiliser deux emplacements de sort, conformément aux règles normales.
+- [[Air (école)|Air]]
+- [[Eau (école)|Eau]]
+- [[Feu (école)|Feu]]
+- [[Terre (école)|Terre]]
 
 #### Les cinq éléments
 Dans certains pays, les érudits affirment que les choses matérielles se composent de cinq éléments et non de quatre : le feu, la terre, le métal, l’eau et le bois. Au lieu de s’opposer directement les uns aux autres, ils se contrent et se donnent naissance selon un motif en forme de roue : le bois est plus fort que la terre qui est plus forte que l’eau qui est plus forte que le feu qui est plus fort que le métal qui est plus fort que le bois. Certains magiciens se spécialisent dans les écoles du métal ou du bois, comme dans les quatre écoles de magie élémentaires. Comme les écoles ordinaires, les écoles élémentaires accordent des pouvoirs d’école et un emplacement de sort supplémentaire de chaque niveau accessible au magicien, à partir du 1. Cet emplacement supplémentaire doit obligatoirement servir à préparer un sort de l’école élémentaire choisie (voir la liste donnée plus loin).
 
 Contrairement aux écoles habituelles, c’est au magicien de choisir son école élémentaire d’opposition mais, pour un adepte de la théorie des cinq éléments, il faut choisir l’élément qui surpasse celui choisi (un élémentaliste du métal devra donc choisir le feu comme école d’opposition car le feu est plus fort que le métal). Il doit dépenser deux emplacements de sort pour préparer un sort de cette école, comme à l’accoutumée.
-- [Terre](./Terre (école).md)
-- [Feu](./Feu (école).md)
-- [Métal](./Métal (école).md)
-- [Eau](./Eau (école).md)
-- [Bois](./Bois (école).md)
+- [[Terre (école)|Terre]]
+- [[Feu (école)|Feu]]
+- [[Métal (école)|Métal]]
+- [[Eau (école)|Eau]]
+- [[Bois (école)|Bois]]
 
 #### Le néant
 <div class="description">*Source : Dragon Empire Primer.*  </div>
 Il est également une école de magie élémentaire liée aux quatre autres écoles élémentaires classiques, et pourtant différente : le Néant. Le magicien qui choisit de se spécialiser dans cette école choisit une des quatre écoles élémentaires classiques comme école d'opposition.
-- [Néant](./Néant (école).md)
+- [[Néant (école)|Néant]]

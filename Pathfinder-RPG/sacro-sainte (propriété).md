@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Sacro-sainte
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Sacro-sainte](./Descriptions individuelles des propriétés spéciales des armes.md#Sacro-sainte)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Sacro-sainte]]

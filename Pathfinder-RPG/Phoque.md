@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Phoque|FP 1/3}
 {s:pucem|Animal|Aquatique|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.121](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (Contenu)|Bestiaire 5 p.121]]*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +5 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 12 (Dex +1, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -25,9 +25,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 13, **Con** 11, **Int** 2, **Sag** 13, **Cha** 6}
 {s:BDTexte|**BBA** +0 ; **BMO** -1 ; **DMD** 10 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +8, [Perception](./Perception.md) +9 ; **Modificateurs raciaux** +4 en Perception}
-{s:BDTexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Natation]] +8, [[Perception]] +9 ; **Modificateurs raciaux** +4 en Perception}
+{s:BDTexte|**Particularités** [[Retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
 {s:BDTexte|**Organisation** solitaire, couple ou rookerie (3-24)}
@@ -36,5 +36,5 @@ Categories:
 </div></td>
 <td><div>*Mammifères aux poils soyeux, les phoques passent la majorité de leur vie en environnement aquatique.*
 
-Les phoques peuvent servir de [familier](./Familiers.md) aux lanceurs de sort. Un familier phoque offre à son maître un bonus de +3 aux tests de [Natation](./Natation.md).
+Les phoques peuvent servir de [[Familiers|familier]] aux lanceurs de sort. Un familier phoque offre à son maître un bonus de +3 aux tests de [[Natation]].
 </div></td></tr></table>

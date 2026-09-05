@@ -9,12 +9,12 @@ Categories:
 
 *Le personnage choisit une arme exotique, comme la chaîne cloutée ou le fouet. Il sait alors comment s’en servir au combat et sait comment utiliser ses aptitudes particulières.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Condition.** [Bonus de base à l’attaque](./BBA.md) de +1.
+**Condition.** [[BBA|Bonus de base à l’attaque]] de +1.
 
-**Avantage.** Lorsqu’il utilise l’[arme exotique](./arme exotique.md) choisie, le personnage fait ses [jets d’attaque](./jet dattaque.md) normalement.
+**Avantage.** Lorsqu’il utilise l’[[arme exotique]] choisie, le personnage fait ses [[jet dattaque|jets d’attaque]] normalement.
 
-**Normal.** Un personnage qui utilise une arme sans être formé à son maniement subit un malus de -4 aux [jets d’attaque](./jet dattaque.md).
+**Normal.** Un personnage qui utilise une arme sans être formé à son maniement subit un malus de -4 aux [[jet dattaque|jets d’attaque]].
 
-**Spécial.** Ce don peut être choisi plusieurs fois, mais ses effets ne se cumulent pas. Il s’applique à chaque fois à une nouvelle [arme exotique](./arme exotique.md).
+**Spécial.** Ce don peut être choisi plusieurs fois, mais ses effets ne se cumulent pas. Il s’applique à chaque fois à une nouvelle [[arme exotique]].

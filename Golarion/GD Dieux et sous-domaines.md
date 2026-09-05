@@ -6,7 +6,7 @@ Categories:
 - Golarion Day
 ---
 
-<p class="description">Traduction d'un article de James Jacobs paru sur le [site de Paizo](http://paizo.com/paizo/blog/v5748dyo5lbvp) — retour à la rubrique [Un jour sur Golarion](./JourGolarion.md).</p>
+<p class="description">Traduction d'un article de James Jacobs paru sur le [site de Paizo](http://paizo.com/paizo/blog/v5748dyo5lbvp) — retour à la rubrique [[JourGolarion|Un jour sur Golarion]].</p>
 L'Advanced Player's Guide (Manuel des joueurs — règles avancées) a introduit un nouveau concept pour les prêtres : les sous-domaines. Dans le *Guide du monde : la mer Intérieure* à paraître, nous présentons deux nouveaux domaines propres à Golarion, le domaine des écailleux et le domaine du néant. Malheureusement, il n'y avait pas assez de place pour présenter les quatre sous-domaines qui accompagnaient ces deux nouveaux domaines. Ils sont inclus dans cet article.
 
 Mais, tant qu'on parle des domaines et des sous-domaines, il y a un autre sujet que je voulais aborder : Pharasma. Il apparaît qu'une déesse de la mort qui n'est pas maléfique crée des problèmes dans le système des domaines, tout spécialement si elle est contre les morts-vivants (comme c'est le cas de Pharasma). En effet, des sorts pro-morts-vivants s'insinuent toujours dans les listes des sorts de domaine quand on commence à parler de la mort, des âmes etc. On peut simplement se résoudre à ne pas préparer les sorts qui créent des morts-vivants mais c'est décevant de voir les Pharasmites contraints de rester à l'écart de certaines options de sorts. Pour ceux qui voudraient une version du domaine de la mort et du sous-domaine des âmes plus favorables à Pharasma, en voici :

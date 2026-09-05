@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#ETUDESDIVERSIFIEES
 ---
 
->>> [arcanes#ETUDESDIVERSIFIEES](./arcanes.md#ETUDESDIVERSIFIEES)
+>>> [[arcanes#ETUDESDIVERSIFIEES]]

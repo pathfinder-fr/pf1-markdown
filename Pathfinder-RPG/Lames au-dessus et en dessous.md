@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:ISR}*Vous portez des attaques hautes lorsque vos alliés portent des attaques basses, empêchant votre adversaire d'esquiver tous les assauts en même temps.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONCOMBAT|combat]], [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [BBA](./BBA.md) +6
+**Conditions.** [[BBA]] +6
 
-**Avantages.** Quand le personnage et un allié qui possède ce don [menacent](./espace contrôlé.md) le même ennemi, on considère qu'ils prennent tous deux cet ennemi [en tenaille](./prise en tenaille.md), quelque soit leur position réelle. Pour bénéficier de cet avantage, le personnage et son allié doivent être d'une catégorie de [taille](./taille.md) différente, et la cible doit être de la même catégorie de taille que l'un d'entre eux.
+**Avantages.** Quand le personnage et un allié qui possède ce don [[espace contrôlé|menacent]] le même ennemi, on considère qu'ils prennent tous deux cet ennemi [[prise en tenaille|en tenaille]], quelque soit leur position réelle. Pour bénéficier de cet avantage, le personnage et son allié doivent être d'une catégorie de [[taille]] différente, et la cible doit être de la même catégorie de taille que l'un d'entre eux.

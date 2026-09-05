@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Quand le personnage charge, il le fait avec toute la puissance de sa foi. *
 
-**Condition.** [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS)
+**Condition.** [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]]
 
-**Avantage.** Quand le personnage réussit une attaque de [charge](./charge.md), il peut dépenser toutes les impositions des mains qui lui restent pour infliger des dégâts supplémentaires égaux à 1d6 par imposition dépensée + modificateur de [Charisme](./Charisme.md).
+**Avantage.** Quand le personnage réussit une attaque de [[charge]], il peut dépenser toutes les impositions des mains qui lui restent pour infliger des dégâts supplémentaires égaux à 1d6 par imposition dépensée + modificateur de [[Charisme]].
 
-Ces dégâts viennent de la puissance sacrée et ne sont pas soumis à la [réduction de dégâts](./RD.md), aux [immunités](./Immunité.md) contre les énergies, ni aux résistances.
+Ces dégâts viennent de la puissance sacrée et ne sont pas soumis à la [[RD|réduction de dégâts]], aux [[immunité|immunités]] contre les énergies, ni aux résistances.

@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage peut renvoyer une attaque contre son assaillant ou un autre ennemi adjacent. *
 
-**Conditions.** Cible insaisissable, [Expertise du combat](./Expertise du combat.md), [moine fluide](./Moine fluide (moine).md) 12
+**Conditions.** Cible insaisissable, [[Expertise du combat]], [[Moine fluide (moine)|moine fluide]] 12
 
-**Avantage.** Quand le personnage évite des dégâts grâce au pouvoir cible insaisissable, il peut dépenser une [action immédiate](./Action immédiate.md) et un point de [ki](./Moine.md#KI) pour renvoyer cette attaque à son adversaire ou un autre ennemi adjacent à eux deux. Cette attaque utilise le même [jet d’attaque](./jet dattaque.md) que l’originale mais vise la cible choisie par le personnage.
+**Avantage.** Quand le personnage évite des dégâts grâce au pouvoir cible insaisissable, il peut dépenser une [[action immédiate]] et un point de [[moine#KI|ki]] pour renvoyer cette attaque à son adversaire ou un autre ennemi adjacent à eux deux. Cette attaque utilise le même [[jet dattaque|jet d’attaque]] que l’originale mais vise la cible choisie par le personnage.

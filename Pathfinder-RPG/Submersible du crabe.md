@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Submersible du crabe|{s:AE}}
-**Aura** [Évocation](./Évocation.md) et [Transmutation](./Transmutation.md) puissantes ; **NLS** 19 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 90 000 po ; **Poids** 250 kg
+**Aura** [[Évocation]] et [[Transmutation]] puissantes ; **NLS** 19 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 90 000 po ; **Poids** 250 kg
 (((Description)))
-Cet objet a l’air d’un énorme tonneau en fer hermétiquement scellé, mais un petit loquet extrêmement difficile à trouver (test de [Perception](./Perception.md) de [DD](./DD.md) 20) ouvre un panneau (en réalité, une écoutille) à l’une de ses extrémités. Quiconque se glisse à l’intérieur en rampant se retrouve face à dix leviers dénués de la moindre inscription :
+Cet objet a l’air d’un énorme tonneau en fer hermétiquement scellé, mais un petit loquet extrêmement difficile à trouver (test de [[Perception]] de [[DD]] 20) ouvre un panneau (en réalité, une écoutille) à l’une de ses extrémités. Quiconque se glisse à l’intérieur en rampant se retrouve face à dix leviers dénués de la moindre inscription :
 
 {| CLASS="tablo centre autoalt"
 |- CLASS="titre"
@@ -39,7 +39,7 @@ Cet objet a l’air d’un énorme tonneau en fer hermétiquement scellé, mais 
 | CLASS="gauche" | Virage à droite/à gauche
 |-
 | 8
-| CLASS="gauche" | Ouvre/ferme les yeux (éclairant à l’aide du sort *[flamme éternelle](./Flamme éternelle.md)*)
+| CLASS="gauche" | Ouvre/ferme les yeux (éclairant à l’aide du sort *[[flamme éternelle]]*)
 |-
 | 9
 | CLASS="gauche" | Fait monter/descendre le submersible sous l’eau
@@ -50,7 +50,7 @@ Cet objet a l’air d’un énorme tonneau en fer hermétiquement scellé, mais 
 
 Le submersible a le profil suivant : **pv** 200 ; **solidité** 15 ; **VD** 6 m, nage 6 m ; **CA** 20 (-1 taille, +11 naturelle) ; **Att** 2 pinces (+12 corps à corps, 2d8) ; **BMO** +14 ; **DMD** 24
 
-Une [action complexe](./Action complexe.md) est nécessaire pour actionner un levier, et aucun levier ne peut être actionné plus d’une fois par round. Mais comme deux personnes de taille M peuvent se glisser dans le submersible, celui-ci a la possibilité de se déplacer et d’attaquer au cours d’un même round (il suffit de se répartir les commandes). Le submersible du crabe peut opérer jusqu’à une profondeur de trois cents mètres. Il contient suffisamment d’air pour que son équipage puisse respirer 1d4+1 heures durant (deux fois plus s’il n’y a qu’un seul personnage à l’intérieur). Quand tous ses appendices sont déployés, il ressemble à un homard géant.
+Une [[action complexe]] est nécessaire pour actionner un levier, et aucun levier ne peut être actionné plus d’une fois par round. Mais comme deux personnes de taille M peuvent se glisser dans le submersible, celui-ci a la possibilité de se déplacer et d’attaquer au cours d’un même round (il suffit de se répartir les commandes). Le submersible du crabe peut opérer jusqu’à une profondeur de trois cents mètres. Il contient suffisamment d’air pour que son équipage puisse respirer 1d4+1 heures durant (deux fois plus s’il n’y a qu’un seul personnage à l’intérieur). Quand tous ses appendices sont déployés, il ressemble à un homard géant.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[animation d’objets](./Animation dobjets.md)*, *[flamme éternelle](./Flamme éternelle.md)*, rang de 8 en [Connaissances](./Connaissances.md) (architecture et ingénierie) ; **Coût** 45 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[animation dobjets|animation d’objets]]*, *[[flamme éternelle]]*, rang de 8 en [[Connaissances]] (architecture et ingénierie) ; **Coût** 45 000 po
 </div>

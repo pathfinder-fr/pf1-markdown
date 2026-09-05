@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 15 po ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Un grimoire se compose de 100 pages de parchemin. Chaque sort prend une page par niveau de sort (1 page pour chaque sort de niveau 0). Un grimoire tout neuf ne contient aucun sort. Les [magiciens](./Magicien.md) commencent le jeu avec un grimoire contenant les sorts qu’ils connaissent.
+Un grimoire se compose de 100 pages de parchemin. Chaque sort prend une page par niveau de sort (1 page pour chaque sort de niveau 0). Un grimoire tout neuf ne contient aucun sort. Les [[magicien|magiciens]] commencent le jeu avec un grimoire contenant les sorts qu’ils connaissent.

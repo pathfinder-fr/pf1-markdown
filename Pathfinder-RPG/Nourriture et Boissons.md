@@ -17,133 +17,133 @@ Un gallon équivaut à 3,7 L.
 |- CLASS="titre"
 | Objet || Prix || Poids
 |- CLASS="premier"
-| [↓](./Nourriture et Boissons.md#Absinthe) [Absinthe (la bouteille)](./Absinthe (objet).md) || 30 po || 0,75 kg
+| [[Nourriture et boissons#Absinthe|↓]] [[Absinthe (objet)|Absinthe (la bouteille)]] || 30 po || 0,75 kg
 |-
-| [↓](./Nourriture et Boissons.md#Absinthe) [Absinthe (le verre)](./Absinthe (objet).md) || 3 po || —
+| [[Nourriture et boissons#Absinthe|↓]] [[Absinthe (objet)|Absinthe (le verre)]] || 3 po || —
 |-
-| [↓](./Nourriture et Boissons.md#Ale) [Ale (la chope)](./Ale (objet).md) || 4 pc || 0,5 kg
+| [[Nourriture et boissons#Ale|↓]] [[Ale (objet)|Ale (la chope)]] || 4 pc || 0,5 kg
 |-
-| [↓](./Nourriture et Boissons.md#Ale) [Ale (le gallon)](./Ale (objet).md) || 2 pa || 4 kg
+| [[Nourriture et boissons#Ale|↓]] [[Ale (objet)|Ale (le gallon)]] || 2 pa || 4 kg
 |-
-| [↓](./Nourriture et Boissons.md#Baijiu) [Baijiu (la bouteille)](./Baijiu (objet).md) || 10 po || 1 kg
+| [[Nourriture et boissons#Baijiu|↓]] [[Baijiu (objet)|Baijiu (la bouteille)]] || 10 po || 1 kg
 |-
-| [↓](./Nourriture et Boissons.md#Banquet) [Banquet (par personne)](./Banquet (objet).md) || 10 po || —
+| [[Nourriture et boissons#Banquet|↓]] [[Banquet (objet)|Banquet (par personne)]] || 10 po || —
 |-
-| [↓](./Nourriture et Boissons.md#Bière Pattefolle) [Bière Pattefolle (la chope)](./Bière Pattefolle (objet).md) || 4 pa || —
+| [[Nourriture et boissons#Bière Pattefolle|↓]] [[Bière Pattefolle (objet)|Bière Pattefolle (la chope)]] || 4 pa || —
 |-
-| [↓](./Nourriture et Boissons.md#Bière Pattefolle) [Bière Pattefolle (le gallon)](./Bière Pattefolle (objet).md) || 1 po || —
+| [[Nourriture et boissons#Bière Pattefolle|↓]] [[Bière Pattefolle (objet)|Bière Pattefolle (le gallon)]] || 1 po || —
 |-
-| [↓](./Nourriture et Boissons.md#Biscuit chinois) [Biscuit chinois](./Biscuit chinois (objet).md) || 1 pc || —
+| [[Nourriture et boissons#Biscuit chinois|↓]] [[Biscuit chinois (objet)|Biscuit chinois]] || 1 pc || —
 |-
-| [↓](./Nourriture et Boissons.md#Brune de nain) [Brune de nain (la chope)](./Brune de nain (objet).md) || 4 pc || 0,25 kg
+| [[Nourriture et boissons#Brune de nain|↓]] [[Brune de nain (objet)|Brune de nain (la chope)]] || 4 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Bufo) [Bufo (la jarre)](./Bufo (objet).md) || 1 po || 1 kg
+| [[Nourriture et boissons#Bufo|↓]] [[Bufo (objet)|Bufo (la jarre)]] || 1 po || 1 kg
 |-
-| [↓](./Nourriture et Boissons.md#Café) [Café (de la jungle, la tasse)](./Café (objet).md) || 3 pc || 0,25 kg
+| [[Nourriture et boissons#Café|↓]] [[Café (objet)|Café (de la jungle, la tasse)]] || 3 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Café) [Café (la tasse)](./Café (objet).md) || 1 pc || 0,25 kg
+| [[Nourriture et boissons#Café|↓]] [[Café (objet)|Café (la tasse)]] || 1 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Caium) [Caium (la gourde)](./Caium (objet).md) || 1 po || 1 kg
+| [[Nourriture et boissons#Caium|↓]] [[Caium (objet)|Caium (la gourde)]] || 1 po || 1 kg
 |-
-| [↓](./Nourriture et Boissons.md#Calvados) [Calvados (la chope)](./Calvados (objet).md) || 8 pc || 0,5 kg
+| [[Nourriture et boissons#Calvados|↓]] [[Calvados (objet)|Calvados (la chope)]] || 8 pc || 0,5 kg
 |-
-| [↓](./Nourriture et Boissons.md#Calvados) [Calvados (le gallon)](./Calvados (objet).md) || 4 pa || 4 kg
+| [[Nourriture et boissons#Calvados|↓]] [[Calvados (objet)|Calvados (le gallon)]] || 4 pa || 4 kg
 |-
-| [↓](./Nourriture et Boissons.md#Casse croûte) [Casse croûte (par jour)](./Casse croûte (objet).md) || 1 pc || 0,25 kg<sup>[1](./Nourriture et Boissons.md#1)</sup>
+| [[Nourriture et boissons#Casse croûte|↓]] [[Casse croûte (objet)|Casse croûte (par jour)]] || 1 pc || 0,25 kg<sup>[[Nourriture et boissons#1|1]]</sup>
 |-
-| [↓](./Nourriture et Boissons.md#Caviar) [Caviar](./Caviar (objet).md) || 50 po || —
+| [[Nourriture et boissons#Caviar|↓]] [[Caviar (objet)|Caviar]] || 50 po || —
 |-
-| [↓](./Nourriture et Boissons.md#Chocolat) [Chocolat (la barre)](./Chocolat (objet).md) || 5 po || 0,25 kg
+| [[Nourriture et boissons#Chocolat|↓]] [[Chocolat (objet)|Chocolat (la barre)]] || 5 po || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Coffret de cérémonie du thé) [Coffret de cérémonie du thé](./Coffret de cérémonie du thé (objet).md) || 25 po || 2,5 kg
+| [[Nourriture et boissons#Coffret de cérémonie du thé|↓]] [[Coffret de cérémonie du thé (objet)|Coffret de cérémonie du thé]] || 25 po || 2,5 kg
 |-
-| [↓](./Nourriture et Boissons.md#Crème glacée) [Crème glacée](./Crème glacée (objet).md) || 1 pa || —
+| [[Nourriture et boissons#Crème glacée|↓]] [[Crème glacée (objet)|Crème glacée]] || 1 pa || —
 |-
-| [↓](./Nourriture et Boissons.md#Fromage) [Fromage](./Fromage (objet).md) || 1 pa || 0,25 kg
+| [[Nourriture et boissons#Fromage|↓]] [[Fromage (objet)|Fromage]] || 1 pa || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Grog) [Grog (la chope)](./Grog (objet).md) || 2 pc || 0,25 kg
+| [[Nourriture et boissons#Grog|↓]] [[Grog (objet)|Grog (la chope)]] || 2 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Haggis) [Haggis](./Haggis (objet).md) || 1 pa || 0,75 kg
+| [[Nourriture et boissons#Haggis|↓]] [[Haggis (objet)|Haggis]] || 1 pa || 0,75 kg
 |-
-| [↓](./Nourriture et Boissons.md#Hydromel) [Hydromel (la chope)](./Hydromel (objet).md) || 5 pc || 0,25 kg
+| [[Nourriture et boissons#Hydromel|↓]] [[Hydromel (objet)|Hydromel (la chope)]] || 5 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Hydromel) [Hydromel (le gallon)](./Hydromel (objet).md) || 2 po || 4 kg
+| [[Nourriture et boissons#Hydromel|↓]] [[Hydromel (objet)|Hydromel (le gallon)]] || 2 po || 4 kg
 |-
-| [↓](./Nourriture et Boissons.md#Hydromel de linnorm) [Hydromel de linnorm (la chope)](./Hydromel de linnorm (objet).md) || 5 pc || 0,25 kg
+| [[Nourriture et boissons#Hydromel de linnorm|↓]] [[Hydromel de linnorm (objet)|Hydromel de linnorm (la chope)]] || 5 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Infusion du dieu ivre) [Infusion du dieu ivre (la chope)](./Infusion du dieu ivre (objet).md) || 5 pc || 0,25 kg
+| [[Nourriture et boissons#Infusion du dieu ivre|↓]] [[Infusion du dieu ivre (objet)|Infusion du dieu ivre (la chope)]] || 5 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Kahvè) [Kahvè (la tasse)](./Kahvè (objet).md) || 2 pc || 0,25 kg
+| [[Nourriture et boissons#Kahvè|↓]] [[Kahvè (objet)|Kahvè (la tasse)]] || 2 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Kumis) [Kumis (l'outre)](./Kumis (objet).md) || 5 pa || 0,75 kg
+| [[Nourriture et boissons#Kumis|↓]] [[Kumis (objet)|Kumis (l'outre)]] || 5 pa || 0,75 kg
 |-
-| [↓](./Nourriture et Boissons.md#Lait) [Lait](./Lait (objet).md) || 5 pc || 0,25 kg
+| [[Nourriture et boissons#Lait|↓]] [[Lait (objet)|Lait]] || 5 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Lait en poudre) [Lait en poudre](./Lait en poudre (objet).md) || 1 pa || 0,5 kg
+| [[Nourriture et boissons#Lait en poudre|↓]] [[Lait en poudre (objet)|Lait en poudre]] || 1 pa || 0,5 kg
 |-
-| [↓](./Nourriture et Boissons.md#Marinades gobelines) [Marinades gobelines (1 bocal)](./Marinades gobelines (objet).md) || 4 pa || 0,5 kg
+| [[Nourriture et boissons#Marinades gobelines|↓]] [[Marinades gobelines (objet)|Marinades gobelines (1 bocal)]] || 4 pa || 0,5 kg
 |-
-| [↓](./Nourriture et Boissons.md#Miel) [Miel (le pot)](./Miel (objet).md) || 1 po || 0,25 kg
+| [[Nourriture et boissons#Miel|↓]] [[Miel (objet)|Miel (le pot)]] || 1 po || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Pain) [Pain](./Pain (objet).md) || 2 pc || 0,25 kg
+| [[Nourriture et boissons#Pain|↓]] [[Pain (objet)|Pain]] || 2 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Préparation à gâteau) [Préparation à gâteau](./Préparation à gâteau (objet).md) || 1 pa || 0,5 kg
+| [[Nourriture et boissons#Préparation à gâteau|↓]] [[Préparation à gâteau (objet)|Préparation à gâteau]] || 1 pa || 0,5 kg
 |-
-| [↓](./Nourriture et Boissons.md#Pulque) [Pulque (la tasse)](./Pulque (objet).md) || 1 pa || 0,25 kg
+| [[Nourriture et boissons#Pulque|↓]] [[Pulque (objet)|Pulque (la tasse)]] || 1 pa || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Pulque) [Pulque (l'outre)](./Pulque (objet).md) || 4 pa || 1 kg
+| [[Nourriture et boissons#Pulque|↓]] [[Pulque (objet)|Pulque (l'outre)]] || 4 pa || 1 kg
 |-
-| [↓](./Nourriture et Boissons.md#Punch de dragon au whisky) [Punch de dragon au whisky (le verre)](./Punch de dragon au whisky (objet).md) || 10 po || —
+| [[Nourriture et boissons#Punch de dragon au whisky|↓]] [[Punch de dragon au whisky (objet)|Punch de dragon au whisky (le verre)]] || 10 po || —
 |-
-| [↓](./Nourriture et Boissons.md#Rations de survie) [Rations de survie (elfique)](./Rations de survie (objet).md) || 2 po || 0,5 kg<sup>[1](./Nourriture et Boissons.md#1)</sup>
+| [[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (elfique)]] || 2 po || 0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup>
 |-
-| [↓](./Nourriture et Boissons.md#Rations de survie) [Rations de survie (gnome)](./Rations de survie (objet).md) || 2 po || 0,5 kg<sup>[1](./Nourriture et Boissons.md#1)</sup>
+| [[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (gnome)]] || 2 po || 0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup>
 |-
-| [↓](./Nourriture et Boissons.md#Rations de survie) [Rations de survie (halfeline)](./Rations de survie (objet).md) || 2 po || 0,25 kg<sup>[1](./Nourriture et Boissons.md#1)</sup>
+| [[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (halfeline)]] || 2 po || 0,25 kg<sup>[[Nourriture et boissons#1|1]]</sup>
 |-
-| [↓](./Nourriture et Boissons.md#Rations de survie) [Rations de survie (naine)](./Rations de survie (objet).md) || 2 po || 0,75 kg<sup>[1](./Nourriture et Boissons.md#1)</sup>
+| [[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (naine)]] || 2 po || 0,75 kg<sup>[[Nourriture et boissons#1|1]]</sup>
 |-
-| [↓](./Nourriture et Boissons.md#Rations de survie) [Rations de survie (orque)](./Rations de survie (objet).md) || 1 po || 0,5 kg<sup>[1](./Nourriture et Boissons.md#1)</sup>
+| [[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (orque)]] || 1 po || 0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup>
 |-
-| [↓](./Nourriture et Boissons.md#Rations de survie) [Rations de survie (standard)](./Rations de survie (objet).md) || 5 pa || 0,5 kg<sup>[1](./Nourriture et Boissons.md#1)</sup>
+| [[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (standard)]] || 5 pa || 0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup>
 |-
-| [↓](./Nourriture et Boissons.md#Repas) [Repas (par jour, bon)](./Repas (objet).md) || 5 pa || —
+| [[Nourriture et boissons#Repas|↓]] [[Repas (objet)|Repas (par jour, bon)]] || 5 pa || —
 |-
-| [↓](./Nourriture et Boissons.md#Repas) [Repas (par jour, médiocre)](./Repas (objet).md) || 1 pa || —
+| [[Nourriture et boissons#Repas|↓]] [[Repas (objet)|Repas (par jour, médiocre)]] || 1 pa || —
 |-
-| [↓](./Nourriture et Boissons.md#Repas) [Repas (par jour, normal)](./Repas (objet).md) || 3 pa || —
+| [[Nourriture et boissons#Repas|↓]] [[Repas (objet)|Repas (par jour, normal)]] || 3 pa || —
 |-
-| [↓](./Nourriture et Boissons.md#Rhum) [Rhum (le gallon)](./Rhum (objet).md) || 1 pa || 4 kg
+| [[Nourriture et boissons#Rhum|↓]] [[Rhum (objet)|Rhum (le gallon)]] || 1 pa || 4 kg
 |-
-| [↓](./Nourriture et Boissons.md#Rhum) [Rhum (le verre)](./Rhum (objet).md) || 1 pc || 0,5 kg
+| [[Nourriture et boissons#Rhum|↓]] [[Rhum (objet)|Rhum (le verre)]] || 1 pc || 0,5 kg
 |-
-| [↓](./Nourriture et Boissons.md#Rhum du pauvre) [Rhum du pauvre (la tasse)](./Rhum du pauvre (objet).md) || 1 pa || 0,25 kg
+| [[Nourriture et boissons#Rhum du pauvre|↓]] [[Rhum du pauvre (objet)|Rhum du pauvre (la tasse)]] || 1 pa || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Sirop dérable) [Sirop d'érable (le pot)](./Sirop dérable (objet).md) || 1 po || 0,25 kg
+| [[Nourriture et boissons#Sirop dérable|↓]] [[Sirop dérable (objet)|Sirop d'érable (le pot)]] || 1 po || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Tepach) [Tepach (la tasse)](./Tepach (objet).md) || 5 pc || 0,25 kg
+| [[Nourriture et boissons#Tepach|↓]] [[Tepach (objet)|Tepach (la tasse)]] || 5 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Thé) [Thé (la tasse)](./Thé (objet).md) || 2 pc || 0,25 kg
+| [[Nourriture et boissons#Thé|↓]] [[Thé (objet)|Thé (la tasse)]] || 2 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Thé) [Thé (vert matcha, la tasse)](./Thé (objet).md) || 4 pc || 0,25 kg
+| [[Nourriture et boissons#Thé|↓]] [[Thé (objet)|Thé (vert matcha, la tasse)]] || 4 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Tonique médicinal de Lisken) [Tonique médicinal de Lisken (le verre)](./Tonique médicinal de Lisken (objet).md) || 10 po || —
+| [[Nourriture et boissons#Tonique médicinal de Lisken|↓]] [[Tonique médicinal de Lisken (objet)|Tonique médicinal de Lisken (le verre)]] || 10 po || —
 |-
-| [↓](./Nourriture et Boissons.md#Viande) [Viande (de ville)](./Viande (objet).md) || 1 pc || 0,25 kg
+| [[Nourriture et boissons#Viande|↓]] [[Viande (objet)|Viande (de ville)]] || 1 pc || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Viande) [Viande (standard)](./Viande (objet).md) || 3 pa || 0,25 kg
+| [[Nourriture et boissons#Viande|↓]] [[Viande (objet)|Viande (standard)]] || 3 pa || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Vin) [Vin (bon)](./Vin (objet).md) || 10 po || 0,75 kg
+| [[Nourriture et boissons#Vin|↓]] [[Vin (objet)|Vin (bon)]] || 10 po || 0,75 kg
 |-
-| [↓](./Nourriture et Boissons.md#Vin) [Vin (de table)](./Vin (objet).md) || 2 pa || 3 kg
+| [[Nourriture et boissons#Vin|↓]] [[Vin (objet)|Vin (de table)]] || 2 pa || 3 kg
 |-
-| [↓](./Nourriture et Boissons.md#Vin) [Vin (des mers)](./Vin (objet).md) || 15 po || 0,25 kg
+| [[Nourriture et boissons#Vin|↓]] [[Vin (objet)|Vin (des mers)]] || 15 po || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Whisky) [Whisky (le verre)](./Whisky (objet).md) || 1 pa || 0,25 kg
+| [[Nourriture et boissons#Whisky|↓]] [[Whisky (objet)|Whisky (le verre)]] || 1 pa || 0,25 kg
 |-
-| [↓](./Nourriture et Boissons.md#Whisky) [Whisky (Oldlaw, la bouteille)](./Whisky (objet).md) || 20 po || 0,5 kg
+| [[Nourriture et boissons#Whisky|↓]] [[Whisky (objet)|Whisky (Oldlaw, la bouteille)]] || 20 po || 0,5 kg
 |-
-| [↓](./Nourriture et Boissons.md#Yaourt) [Yaourt](./Yaourt (objet).md) || 1 pa || 0,25 kg
+| [[Nourriture et boissons#Yaourt|↓]] [[Yaourt (objet)|Yaourt]] || 1 pa || 0,25 kg
 |-
 |}
 </div>
@@ -181,7 +181,7 @@ Un banquet inclut différents plats, de bonnes boissons et des serveurs pour app
 #### Bière Pattefolle
 **Prix** 4 pa (la chope), 1 po (le gallon) ; **Poids** — (la chope), — (le gallon)
 ---
-La plupart des races trouvent cette bière pâle et mousseuse trop salée à leur goût, mais les halfelins considèrent que c’est un goût qu’il faut simplement apprendre à aimer. Le fait de boire trois verres ou plus de Pattefolle en l’espace d’une minute donne au halfelin un malus de -2 aux tests de [Perception](./Perception.md) et un bonus de +1 aux jets de [Réflexes](./Réflexes.md) et aux tests d’[Acrobaties](./Acrobaties.md) pendant 10 minutes.
+La plupart des races trouvent cette bière pâle et mousseuse trop salée à leur goût, mais les halfelins considèrent que c’est un goût qu’il faut simplement apprendre à aimer. Le fait de boire trois verres ou plus de Pattefolle en l’espace d’une minute donne au halfelin un malus de -2 aux tests de [[Perception]] et un bonus de +1 aux jets de [[Réflexes]] et aux tests d’[[Acrobaties]] pendant 10 minutes.
 
 
 {s:AE}{s:Reference|Biscuit chinois}
@@ -195,21 +195,21 @@ Ce biscuit est fait d’une pâte dure entortillée autour d’une petite bande 
 #### Brune de nain (la chope)
 **Prix** 4 pc ; **Poids** 0,25 kg
 ---
-Davantage considérée comme une famille de bières que comme une boisson unique, la brune de nain est connue sous différents noms dans les territoires humains. Les brunes de nain sont des bières brunes qui se caractérisent par leur léger goût de brûlé et leur mousse. On dit qu’elles sont aussi nourrissantes qu’un repas. La plupart des clans [nains](./Nain.md) utilisent une recette qui leur est propre et les querelles de familles sur la meilleure technique brassage peuvent remonter à des centaines d’années.
+Davantage considérée comme une famille de bières que comme une boisson unique, la brune de nain est connue sous différents noms dans les territoires humains. Les brunes de nain sont des bières brunes qui se caractérisent par leur léger goût de brûlé et leur mousse. On dit qu’elles sont aussi nourrissantes qu’un repas. La plupart des clans [[Nain|nains]] utilisent une recette qui leur est propre et les querelles de familles sur la meilleure technique brassage peuvent remonter à des centaines d’années.
 
 
 {s:AE}{s:Reference|Bufo}
 #### Bufo (la jarre)
 **Prix** 1 po ; **Poids** 1 kg
 ---
-Il s’agit de la boisson préférée des [gobelins](./Gobelin.md), des [bourbiérins](./Bourbiérin.md) et des autres humanoïdes primitifs. Elle se fabrique en plongeant une grenouille ou un crapaud venimeux (ou ses oeufs) dans une bière légère, ou en « écrémant » ces animaux de leur poison afin de le mélanger à la bière (ce qui permet de réutiliser l’animal encore et encore). Certaines tribus utilisent des jarres à large col dans lesquelles elles laissent l’animal mort comme une friandise croustillante à manger quand la boisson a été bue. Une créature saoulée au bufo est éblouie en plus de subir les effets normaux de l’intoxication.
+Il s’agit de la boisson préférée des [[Gobelin|gobelins]], des [[Bourbiérin|bourbiérins]] et des autres humanoïdes primitifs. Elle se fabrique en plongeant une grenouille ou un crapaud venimeux (ou ses oeufs) dans une bière légère, ou en « écrémant » ces animaux de leur poison afin de le mélanger à la bière (ce qui permet de réutiliser l’animal encore et encore). Certaines tribus utilisent des jarres à large col dans lesquelles elles laissent l’animal mort comme une friandise croustillante à manger quand la boisson a été bue. Une créature saoulée au bufo est éblouie en plus de subir les effets normaux de l’intoxication.
 
 
 {s:AE}{s:Reference|Café}
 #### Café
 **Prix** 1 pc (la tasse), 3 pc (de la jungle) ; **Poids** 0,25 kg (la tasse), 0,25 kg (de la jungle)
 ---
-On obtient cette boisson en versant de l’eau bouillante sur des grains de café écrasés et grillés. Deux tasses suffisent à faire passer le malus lié à la fatigue -2 à -1 pendant 1 heure. Pour préparer son propre café, il faut du café moulu (5 pc pour 0,5 kg de café en grains ou 8 pc pour 0,5 kg de café moulu) et de quoi le faire chauffer. Le personnage peut faire bouillir les grains dans un pot puis verser le liquide après avoir laissé les éléments solides se déposer ou filtrer la boisson à l’aide une passoire. Beaucoup de voyageurs préfèrent utiliser une [cafetière](./Cafetière (objet).md) pour son côté pratique.  
+On obtient cette boisson en versant de l’eau bouillante sur des grains de café écrasés et grillés. Deux tasses suffisent à faire passer le malus lié à la fatigue -2 à -1 pendant 1 heure. Pour préparer son propre café, il faut du café moulu (5 pc pour 0,5 kg de café en grains ou 8 pc pour 0,5 kg de café moulu) et de quoi le faire chauffer. Le personnage peut faire bouillir les grains dans un pot puis verser le liquide après avoir laissé les éléments solides se déposer ou filtrer la boisson à l’aide une passoire. Beaucoup de voyageurs préfèrent utiliser une [[Cafetière (objet)|cafetière]] pour son côté pratique.  
   
 *Café de la jungle.* Ce café préparé « à la façon de la jungle » a un goût de vin un peu acide, trop fort pour les palais non habitués.
 
@@ -230,16 +230,16 @@ Cette version plus forte du cidre brut est généralement fabriquée à partir d
 
 {s:AE}{s:Reference|Casse croûte}
 #### Casse croûte (par jour)
-**Prix** 1 pc ; **Poids** 0,25 kg<sup>[1](./Nourriture et Boissons.md#1)</sup>
+**Prix** 1 pc ; **Poids** 0,25 kg<sup>[[Nourriture et boissons#1|1]]</sup>
 ---
-Ce gâteau sec et dur est une invention [halfeline](./Halfelin.md) faite à partir de farine, d’eau et d’épices. Le casse-croûte se conserve pendant des mois sans se gâter, supporte bien le voyage et remplit l’estomac. Néanmoins, si quelqu’un ne mange que cela pendant une semaine, sans autres nutriments, il doit réussir un jet de [Vigueur](./Vigueur.md) tous les jours ([DD](./DD.md) 15 + 1 par jour) ou devenir [fiévreux](./Fiévreux.md). Les effets disparaissent une journée après consommation d’aliments plus nourrissants. Le prix est indiqué pour une journée de vivres.
+Ce gâteau sec et dur est une invention [[Halfelin|halfeline]] faite à partir de farine, d’eau et d’épices. Le casse-croûte se conserve pendant des mois sans se gâter, supporte bien le voyage et remplit l’estomac. Néanmoins, si quelqu’un ne mange que cela pendant une semaine, sans autres nutriments, il doit réussir un jet de [[Vigueur]] tous les jours ([[DD]] 15 + 1 par jour) ou devenir [[fiévreux]]. Les effets disparaissent une journée après consommation d’aliments plus nourrissants. Le prix est indiqué pour une journée de vivres.
 
 
 {s:AE}{s:Reference|Caviar}
 #### Caviar
 **Prix** 50 po ; **Poids** —
 ---
-Ces oeufs de poissons translucides et salés sont un mets raffiné. On les mange généralement sur des biscuits, des œufs à la coque, du pain, des pâtisseries ou des légumes. Le caviar se conserve mal et on en trouve rarement en dehors des régions côtières où les œufs sont récoltés. Les puristes considèrent les seuls œufs d’esturgeon comme du vrai caviar mais les autres en ont une définition plus large dans laquelle ils incluent les œufs de saumon, de truite et de corégone. Dans certains pays, les œufs de poissons exotiques plus gros et de créatures marines (comme le [chuul](./Chuul.md), le [gar géant](./Gar géant.md) et la [griffe du récif](./Griffe du récif.md)) sont consommés comme caviar mais à des prix bien plus élevés.
+Ces oeufs de poissons translucides et salés sont un mets raffiné. On les mange généralement sur des biscuits, des œufs à la coque, du pain, des pâtisseries ou des légumes. Le caviar se conserve mal et on en trouve rarement en dehors des régions côtières où les œufs sont récoltés. Les puristes considèrent les seuls œufs d’esturgeon comme du vrai caviar mais les autres en ont une définition plus large dans laquelle ils incluent les œufs de saumon, de truite et de corégone. Dans certains pays, les œufs de poissons exotiques plus gros et de créatures marines (comme le [[Chuul]], le [[Gar géant]] et la [[Griffe du récif]]) sont consommés comme caviar mais à des prix bien plus élevés.
 
 
 {s:AE}{s:Reference|Chocolat}
@@ -253,7 +253,7 @@ Cette friandise noire et amère peut être consommée sous forme solide ou fondu
 #### Coffret de cérémonie du thé
 **Prix** 25 po ; **Poids** 2,5 kg
 ---
-Ce coffret comprend un plateau, une [théière](./Théière (objet).md), un fouet, un bol pour mélanger le thé, quatre petites tasses et une boîte ornée dans laquelle ranger tous ces éléments. L’infusion du thé fait partie de la cérémonie traditionnelle du thé. Il faut réussir un test de [Connaissances](./Connaissances.md) (noblesse) [DD](./DD.md) 15 pour connaître les étapes de préparation et de dégustation de la cérémonie du thé.
+Ce coffret comprend un plateau, une [[Théière (objet)|théière]], un fouet, un bol pour mélanger le thé, quatre petites tasses et une boîte ornée dans laquelle ranger tous ces éléments. L’infusion du thé fait partie de la cérémonie traditionnelle du thé. Il faut réussir un test de [[Connaissances]] (noblesse) [[DD]] 15 pour connaître les étapes de préparation et de dégustation de la cérémonie du thé.
 
 
 {s:AE}{s:Reference|Crème glacée}
@@ -337,7 +337,7 @@ Cette poudre sèche se mélange à de l’eau pour donner du lait écrémé. On 
 #### Marinades gobelines (1 bocal)
 **Prix** 4 pa ; **Poids** 0,5 kg
 ---
-Les [gobelins](./Gobelin (race).md) font mariner tout ce qu’ils trouvent et les marinades peuvent être composées d’à peu près n’importe quoi. Leur seul point commun réside dans le fait qu’elles sont presque toutes comestibles. À la discrétion du [MJ](./MJ.md), un individu non-gobelin qui mange une marinade gobeline doit effectuer un [jet de sauvegarde](./JDS.md) de [Vigueur](./Vigueur.md) [DD](./DD.md) 10 pour éviter d’être [fiévreux](./Fiévreux.md) pendant 1 heure. Un bocal de marinades gobelines suffit pour nourrir un gobelin pendant une journée.
+Les [[Gobelin (race)|gobelins]] font mariner tout ce qu’ils trouvent et les marinades peuvent être composées d’à peu près n’importe quoi. Leur seul point commun réside dans le fait qu’elles sont presque toutes comestibles. À la discrétion du [[MJ]], un individu non-gobelin qui mange une marinade gobeline doit effectuer un [[jds|jet de sauvegarde]] de [[Vigueur]] [[DD]] 10 pour éviter d’être [[fiévreux]] pendant 1 heure. Un bocal de marinades gobelines suffit pour nourrir un gobelin pendant une journée.
 
 
 {s:AE}{s:Reference|Miel}
@@ -372,24 +372,24 @@ On obtient cet alcool nourrissant de la couleur du lait en faisant fermenter des
 #### Punch de dragon au whisky (le verre)
 **Prix** 10 po ; **Poids** —
 ---
-Selon la légende, l’inventeur de cet alcool sombre et âpre attaqua réellement un dragon à mains nues (et, de toute évidence, survécut pour transmettre sa recette). Les halfelins qui boivent quatre verres de punch de dragon au whisky en l’espace d’une heure reçoivent un malus de -4 à leurs jets de [Dextérité](./Dextérité.md), mais gagnent un bonus alchimique de +4 à leurs [jets de sauvegarde](./JDS.md) contre la terreur pendant les 10 prochaines minutes.
+Selon la légende, l’inventeur de cet alcool sombre et âpre attaqua réellement un dragon à mains nues (et, de toute évidence, survécut pour transmettre sa recette). Les halfelins qui boivent quatre verres de punch de dragon au whisky en l’espace d’une heure reçoivent un malus de -4 à leurs jets de [[Dextérité]], mais gagnent un bonus alchimique de +4 à leurs [[jds|jets de sauvegarde]] contre la terreur pendant les 10 prochaines minutes.
 
 
 {s:AE}{s:Reference|Rations de survie}
 #### Rations de survie
-**Prix** 5 pa (standard), 1 po (orque), 2 po (elfique), 2 po (gnome), 2 po (halfeline), 2 po (naine) ; **Poids** 0,5 kg (standard), 0,5 kg (orque), 0,5 kg (elfique), 0,5 kg (gnome), 0,25 kg (halfeline), 0,75 kg (naine)<sup>[1](./Nourriture et Boissons.md#1)</sup>
+**Prix** 5 pa (standard), 1 po (orque), 2 po (elfique), 2 po (gnome), 2 po (halfeline), 2 po (naine) ; **Poids** 0,5 kg (standard), 0,5 kg (orque), 0,5 kg (elfique), 0,5 kg (gnome), 0,25 kg (halfeline), 0,75 kg (naine)<sup>[[Nourriture et boissons#1|1]]</sup>
 ---
 Le prix est indiqué pour une journée de vivres. Cette nourriture insipide se compose généralement d’aliments durs, de bœuf séché et de fruits secs mais le contenu varie d’une région à l’autre et en fonction de la race qui la prépare. Tant que la nourriture reste au sec, elle peut se conserver pendant des mois sans se gâter.  
   
-*Rations de survie elfique*. Les [elfes](./Elfe.md) préfèrent le pain mou d’avoine mélangé avec d’autres graines, des baies et des noisettes et adouci de miel. Ils complètent ces rations avec des fruits secs et des fruits à coques. Si un elfe se nourrit uniquement de ces ration pendant au moins 1 semaine, il reçoit un bonus de +2 aux tests et aux [jets de sauvegarde](./JDS.md) bénéficiant du don [Endurance](./Endurance.md). Cet avantage dure jusqu’à ce qu’il fasse un repas contenant en autre chose que ces rations ou qu’il passe une journée complète sans manger.  
+*Rations de survie elfique*. Les [[Elfe|elfes]] préfèrent le pain mou d’avoine mélangé avec d’autres graines, des baies et des noisettes et adouci de miel. Ils complètent ces rations avec des fruits secs et des fruits à coques. Si un elfe se nourrit uniquement de ces ration pendant au moins 1 semaine, il reçoit un bonus de +2 aux tests et aux [[jds|jets de sauvegarde]] bénéficiant du don [[Endurance]]. Cet avantage dure jusqu’à ce qu’il fasse un repas contenant en autre chose que ces rations ou qu’il passe une journée complète sans manger.  
   
-*Rations de survie gnome*. On trouve presque n’importe quelle nourriture en conserve dans les rations de survie gnomes, qui sont prévues pour qu’un [gnome](./Gnome.md) en voyage n’ait pas à manger le même repas deux fois dans la même semaine. Si un gnome se nourrit uniquement de ces rations pendant au moins 1 semaine, on considère qu’il a un [dé de vie](./../Ressources/DV.md) de plus vis à vis des sorts et des capacités surnaturelles ayant des effets variables basés sur les dés de vie, comme *[couleurs dansantes](./Couleurs dansantes.md)* et *[sommeil](./Sommeil.md)*. Ceci n’augmente pas son [niveau de lanceur de sorts](./NLS.md), son niveau de personnage ni ses dés de vie de manière concrète. Cet avantage dure jusqu’à ce qu’il fasse un repas comprenant en autre chose que ces rations ou qu’il passe une journée complète sans manger.  
+*Rations de survie gnome*. On trouve presque n’importe quelle nourriture en conserve dans les rations de survie gnomes, qui sont prévues pour qu’un [[Gnome]] en voyage n’ait pas à manger le même repas deux fois dans la même semaine. Si un gnome se nourrit uniquement de ces rations pendant au moins 1 semaine, on considère qu’il a un [[DV|dé de vie]] de plus vis à vis des sorts et des capacités surnaturelles ayant des effets variables basés sur les dés de vie, comme *[[couleurs dansantes]]* et *[[sommeil]]*. Ceci n’augmente pas son [[NLS|niveau de lanceur de sorts]], son niveau de personnage ni ses dés de vie de manière concrète. Cet avantage dure jusqu’à ce qu’il fasse un repas comprenant en autre chose que ces rations ou qu’il passe une journée complète sans manger.  
   
-*Rations de survie halfeline*. Une journée de rations de survie halfelines représente plus que ce que mange normalement un aventurier [halfelin](./Halfelin.md) en une journée car un ventre plein renforce sa volonté. La nourriture de base inclut des fruits secs sucrés, du saucisson, du fromage sec et fort, du pain d’épice et un mélange de graines grillées, de fruits à coques et de mélasse. Si un halfelin se nourrit uniquement de ces rations pendant au moins une semaine, il fait passer le malus qu’impose l’état [secoué](./Secoué.md) de -2 à -1. Cet avantage dure jusqu’à ce qu’il fasse un repas comportant autre chose que ces rations ou qu’il passe une journée entière sans manger.  
+*Rations de survie halfeline*. Une journée de rations de survie halfelines représente plus que ce que mange normalement un aventurier [[Halfelin]] en une journée car un ventre plein renforce sa volonté. La nourriture de base inclut des fruits secs sucrés, du saucisson, du fromage sec et fort, du pain d’épice et un mélange de graines grillées, de fruits à coques et de mélasse. Si un halfelin se nourrit uniquement de ces rations pendant au moins une semaine, il fait passer le malus qu’impose l’état [[secoué]] de -2 à -1. Cet avantage dure jusqu’à ce qu’il fasse un repas comportant autre chose que ces rations ou qu’il passe une journée entière sans manger.  
   
-*Rations de survie naine*. Les rations de survie naines comprennent des saucisses fumées et de la viande salée que viennent compléter des biscuits secs et des légumes secs. Si un [nain](./Nain.md) se nourrit uniquement de ces rations pendant au moins une semaine, il peut faire un [footing](./Déplacements.md#LONGUEDISTANCE) ou entreprendre une [marche forcée](./Déplacements.md#LONGUEDISTANCE) pendant 1 heure de plus sans souffrir d’effets secondaires mais il ne peut pas faire les deux dans une même journée. Cet avantage dure jusqu’à ce qu’il fasse un repas comprenant autre chose que ces rations ou qu’il passe une journée complète sans manger.  
+*Rations de survie naine*. Les rations de survie naines comprennent des saucisses fumées et de la viande salée que viennent compléter des biscuits secs et des légumes secs. Si un [[Nain]] se nourrit uniquement de ces rations pendant au moins une semaine, il peut faire un [[Déplacements#LONGUEDISTANCE|footing]] ou entreprendre une [[Déplacements#LONGUEDISTANCE|marche forcée]] pendant 1 heure de plus sans souffrir d’effets secondaires mais il ne peut pas faire les deux dans une même journée. Cet avantage dure jusqu’à ce qu’il fasse un repas comprenant autre chose que ces rations ou qu’il passe une journée complète sans manger.  
   
-*Rations de survie orque*. Une ration de survie orque se compose généralement de pain noir épais, de petites saucisses aussi dures que le cuir qui doivent être mâchées lentement afin d’être attendries, de viande séchée d’origine incertaine et de poivrons piquants. Si un [demi-orque](./Demi-orque.md) se nourrit uniquement de ces rations pendant au moins une semaine, il rajoute +2 au [DD](./DD.md) pour résister à ses tests d’[Intimidation](./Intimidation.md). Cet avantage dure jusqu’à ce qu’il fasse un repas comportant autre chose que ces rations ou qu’il passe une journée entière sans manger.
+*Rations de survie orque*. Une ration de survie orque se compose généralement de pain noir épais, de petites saucisses aussi dures que le cuir qui doivent être mâchées lentement afin d’être attendries, de viande séchée d’origine incertaine et de poivrons piquants. Si un [[Demi-orque]] se nourrit uniquement de ces rations pendant au moins une semaine, il rajoute +2 au [[DD]] pour résister à ses tests d’[[Intimidation]]. Cet avantage dure jusqu’à ce qu’il fasse un repas comportant autre chose que ces rations ou qu’il passe une journée entière sans manger.
 
 
 {s:AE}{s:Reference|Repas}
@@ -438,14 +438,14 @@ Boisson populaire dans de nombreuses régions, le thé peut être vert ou noir, 
 #### Tonique médicinal de Lisken (le verre)
 **Prix** 10 po ; **Poids** —
 ---
-Ce léger sédatif est normalement utilisé contre les insomnies : il rend le buveur plus calme et silencieux, moins enclin à entreprendre des actions précipitées. Un verre de tonique inflige un malus de -4 aux [tests d’initiative](./initiative.md) du [halfelin](./Halfelin.md) pendant 10 minutes, mais lui donne un bonus alchimique de +2 à ses tests de [Discrétion](./Discrétion.md) pendant le même temps.
+Ce léger sédatif est normalement utilisé contre les insomnies : il rend le buveur plus calme et silencieux, moins enclin à entreprendre des actions précipitées. Un verre de tonique inflige un malus de -4 aux [[initiative|tests d’initiative]] du [[Halfelin]] pendant 10 minutes, mais lui donne un bonus alchimique de +2 à ses tests de [[Discrétion]] pendant le même temps.
 
 
 {s:AE}{s:Reference|Viande}
 #### Viande
 **Prix** 1 pc (de ville), 3 pa (standard) ; **Poids** 0,25 kg (de ville), 0,25 kg (standard)
 ---
-Cette pièce de viande suffit pour faire un repas. Dans la plupart des régions tempérées, il s’agit de chair de poisson (ou autres fruits de mer), de cochon (bacon, jambon ou porc), de mouton (agneau ou mouton), de poulet, de caille, de canard, d’oie, de chèvre, de lapin, de chevreuil (venaison), de vache (bœuf) ou de cheval. Dans les autres climats et cultures, il peut s’agir de viande d’élan, de phoque, de baleine, de morse, de caribou, de renne, de chien, de chat, d’alpaga, de serpent, de rat, de cochon d’Inde, de lézard, de grenouille ou d’insecte. Les auberges ayant beaucoup d’aventuriers parmi leurs clients peuvent proposer des viandes plus exotiques dans leurs menus, comme la chair de [basilic](./Basilic.md), de dinosaure, d’animaux sauvages, de [scorpions géants](./Scorpion géant.md), de [girallon](./Girallon.md), d’[hydre](./Hydre.md) ou de [lézard voltaïque](./Lézard voltaïque.md), qui coûte entre 1 et 100 po, par repas en fonction du danger que représente la créature et de sa rareté.  
+Cette pièce de viande suffit pour faire un repas. Dans la plupart des régions tempérées, il s’agit de chair de poisson (ou autres fruits de mer), de cochon (bacon, jambon ou porc), de mouton (agneau ou mouton), de poulet, de caille, de canard, d’oie, de chèvre, de lapin, de chevreuil (venaison), de vache (bœuf) ou de cheval. Dans les autres climats et cultures, il peut s’agir de viande d’élan, de phoque, de baleine, de morse, de caribou, de renne, de chien, de chat, d’alpaga, de serpent, de rat, de cochon d’Inde, de lézard, de grenouille ou d’insecte. Les auberges ayant beaucoup d’aventuriers parmi leurs clients peuvent proposer des viandes plus exotiques dans leurs menus, comme la chair de [[Basilic]], de dinosaure, d’animaux sauvages, de [[Scorpion géant|scorpions géants]], de [[Girallon]], d’[[Hydre]] ou de [[Lézard voltaïque]], qui coûte entre 1 et 100 po, par repas en fonction du danger que représente la créature et de sa rareté.  
   
 *Viande de ville.* Les vendeurs proposent généralement ces petits morceaux de viande cuite sur de petits bâtons en bois. La viande provient souvent de différents types de créatures (les rats et les pigeons étant les plus courants).
 

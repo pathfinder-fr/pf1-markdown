@@ -8,9 +8,9 @@ Categories:
 - Ville
 ---
 
-Bilt est l'une des villes les plus importantes des [Terres des Rois des Linnorms](./Terres des Rois des Linnorms.md).
+Bilt est l'une des villes les plus importantes des [[Terres des Rois des Linnorms]].
 
-La ville est construite sur une île de la [mer des Vapeurs](./mer-des-Vapeurs.md). Son chantier naval est très réputé pour la qualité de ses
-navires, seulement dépassé dans ce domaine par [Kalsgard](./Kalsgard.md).
+La ville est construite sur une île de la [[mer des Vapeurs]]. Son chantier naval est très réputé pour la qualité de ses
+navires, seulement dépassé dans ce domaine par [[Kalsgard]].
 
-Le royaume dont dépend Bildt est sous le contrôle de Ingimundr l'Indiscipliné, un guerrier féroce qui rêve que son peuple se remette à ravager les terres du sud, comme leurs ancêtres. Et bien que cette envie ne soit pas partagée par tous ses conseillers, la plupart des guerriers sous ses ordres souhaitent repartir en conquête, soit vers le sud, soit vers les terres de l'[Irrisen](./Irrisen.md) spoliées par la reine sorcière [Baba Yaga](./Baba Yaga.md).
+Le royaume dont dépend Bildt est sous le contrôle de Ingimundr l'Indiscipliné, un guerrier féroce qui rêve que son peuple se remette à ravager les terres du sud, comme leurs ancêtres. Et bien que cette envie ne soit pas partagée par tous ses conseillers, la plupart des guerriers sous ses ordres souhaitent repartir en conquête, soit vers le sud, soit vers les terres de l'[[Irrisen]] spoliées par la reine sorcière [[Baba Yaga]].

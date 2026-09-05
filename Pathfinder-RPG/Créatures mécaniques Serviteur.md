@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Serviteur mécanique
 ---
 
->>> [Serviteur mécanique](./Serviteur mécanique.md)
+>>> [[Serviteur mécanique]]

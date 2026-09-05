@@ -49,7 +49,7 @@ Par mesure de sécurité en cas de rébellion, une marque discrète en forme de 
 - **Compétences.** La créature momifiée gagne un bonus racial de +4 aux tests de Discrétion.
 
 </div>
-</td><td><div>Voir l'exemple : [Gynosphinx momifiée](./Gynosphinx momifiée.md)
+</td><td><div>Voir l'exemple : [[Gynosphinx momifiée]]
 
 Beaucoup de civilisations antiques momifient leurs morts et conservent leurs dépouilles au moyen de procédés d’embaumement funéraires longs et complexes. Alors que la grande majorité de ces dépouilles sont momifiées dans le seul but que le corps se conserve dans les tombes où elles reposent, d’autres sont momifiées à l’aide de magie pour se relever sous forme de créatures momifiées après leur mort. Ces créatures ressemblent beaucoup aux momies classiques :  elles ont un corps poussiéreux, desséché, flétri et entièrement enveloppé de bandelettes funéraires en lin, couvertes de hiéroglyphes, mais une lueur d’intelligence malveillante brille au fond de leurs yeux de mortes-vivantes.
 

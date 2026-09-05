@@ -8,7 +8,7 @@ Categories:
 ---
 
 {s:AE}**Prix** 8 pa (standard), 2.001 po (en mithral) ; **Poids** 2 kg (standard), 1 kg (en mithral)
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Cette solide marmite en fer de 20 centimètres de diamètre est pourvue d'un pied ,d'un couvercle et d'une poignée arrondie. Elle peut contenir suffisamment de ragoût pour un repas nourrissant un humain affamé.  
   

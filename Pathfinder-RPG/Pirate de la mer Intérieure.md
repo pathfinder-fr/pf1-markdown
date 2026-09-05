@@ -17,34 +17,34 @@ indispensables à bord d’un navire peuvent s’élever au rang de capitaine et
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1 || +0 || +1 || +0 || +0
-| CLASS="gauche" | [attaque sournoise](./Pirate de la mer Intérieure.md#ATTAQUESOURNOISE) +1d6
+| CLASS="gauche" | [[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +1d6
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Talent de pirate](./Pirate de la mer Intérieure.md#TALENTDEPIRATE)
+| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]
 |-
 | 3 || +2 || +2 || +1 || +1
-| CLASS="gauche" | [Talent de pirate](./Pirate de la mer Intérieure.md#TALENTDEPIRATE)
+| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]
 |- CLASS="alt"
 | 4 || +3 || +2 || +1 || +1
-| CLASS="gauche" | [attaque sournoise](./Pirate de la mer Intérieure.md#ATTAQUESOURNOISE) +2d6
+| CLASS="gauche" | [[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +2d6
 |-
 | 5 || +3 || +3 || +2 || +2
-| CLASS="gauche" | [Talent de pirate](./Pirate de la mer Intérieure.md#TALENTDEPIRATE)
+| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]
 |- CLASS="alt"
 | 6 || +4 || +3 || +2 || +2
-| CLASS="gauche" | [Talents de maître pirate](./Pirate de la mer Intérieure.md#TALENTDEMAÎTREPIRATE), [talent de pirate](./Pirate de la mer Intérieure.md#TALENTDEPIRATE)
+| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEMAÎTREPIRATE|Talents de maître pirate]], [[Pirate de la mer Intérieure#TALENTDEPIRATE|talent de pirate]]
 |-
 | 7 || +5 || +4 || +2 || +2
-| CLASS="gauche" | [attaque sournoise](./Pirate de la mer Intérieure.md#ATTAQUESOURNOISE) +3d6
+| CLASS="gauche" | [[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +3d6
 |- CLASS="alt"
 | 8 || +6 || +4 || +3 || +3
-| CLASS="gauche" | [Talent de pirate](./Pirate de la mer Intérieure.md#TALENTDEPIRATE)
+| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]
 |-
 | 9 || +6 || +5 || +3 || +3
-| CLASS="gauche" | [Talent de pirate](./Pirate de la mer Intérieure.md#TALENTDEPIRATE)
+| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]
 |- CLASS="alt"
 | 10 || +7 || +5 || +3 || +3
-| CLASS="gauche" | [attaque sournoise](./Pirate de la mer Intérieure.md#ATTAQUESOURNOISE) +4d6
+| CLASS="gauche" | [[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +4d6
 |}
 </center>
 
@@ -59,12 +59,12 @@ Pour devenir un pirate de la mer Intérieure, un personnage doit satisfaire aux 
 
 **Alignement.** N’importe quel alignement non Loyal.
 
-**Compétences.** 5 rangs en [Estimation](./Estimation.md), 5 rangs en [Natation](./Natation.md), 5 rangs en [Profession](./Profession.md) (marin).
+**Compétences.** 5 rangs en [[Estimation]], 5 rangs en [[Natation]], 5 rangs en [[Profession]] (marin).
 
 ### Compétences de classe
-Les compétences de classe du pirate de Haute mer sont les suivantes : [Connaissances](./Connaissances.md) (nature) (Int), [Escalade](./Escalade.md) (For), [Estimation](./Estimation.md) (Int), [Intimidation](./Intimidation.md) (Cha), [Natation](./Natation.md) (For) et [Profession](./Profession.md) (marin) (Sag).
+Les compétences de classe du pirate de Haute mer sont les suivantes : [[Connaissances]] (nature) (Int), [[Escalade]] (For), [[Estimation]] (Int), [[Intimidation]] (Cha), [[Natation]] (For) et [[Profession]] (marin) (Sag).
 
-**Nombre de rangs par niveau.** 6 + modificateur d’[Intelligence](./Intelligence.md).
+**Nombre de rangs par niveau.** 6 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de prestige de pirate de Haute mer.
@@ -84,23 +84,23 @@ Les talents indiqués par un astérisque ajoutent des effets à l’attaque sour
 - ***Blessure sournoise aux mains* (Ext)*** Le pirate de Haute mer peut affaiblir la main utilisée par un adversaire
 pour tenir une arme en la frappant par le biais d’une attaque sournoise. Quand il inflige des dégâts d’attaque sournoise à un adversaire, il est alors plus facile de le désarmer. Jusqu’à la fin du prochain tour du pirate, quiconque tente de désarmer
 cet adversaire bénéficie d’un bonus de +2 aux tentatives de désarmement.
-- ***Boisson gratuite (Ext)*** Cette aptitude présume que le pirate de Haute mer est admiré ou craint dans les tavernes qu’il fréquente. Il désigne une taverne par niveau de pirate de Haute mer qu’il possède. Les établissements désignés deviennent des « tavernes de prédilection ». Quand il se trouve dans l’une de ces tavernes, le pirate de Haute mer peut boire gratuitement. De plus, il bénéficie d’un bonus de circonstances de +2 aux tests de [Diplomatie](./Diplomatie.md) et d’[Intimidation](./Intimidation.md) quand il se trouve dans l’une de ses tavernes de prédilection.
+- ***Boisson gratuite (Ext)*** Cette aptitude présume que le pirate de Haute mer est admiré ou craint dans les tavernes qu’il fréquente. Il désigne une taverne par niveau de pirate de Haute mer qu’il possède. Les établissements désignés deviennent des « tavernes de prédilection ». Quand il se trouve dans l’une de ces tavernes, le pirate de Haute mer peut boire gratuitement. De plus, il bénéficie d’un bonus de circonstances de +2 aux tests de [[Diplomatie]] et d’[[Intimidation]] quand il se trouve dans l’une de ses tavernes de prédilection.
 - ***Duelliste classique (Ext)*** Le pirate de Haute mer bénéficie d’un bonus de compétence de +1 aux jets d’attaque effectués avec un sabre d’abordage, une rapière ou une épée courte.
-- ***Estimation rapide (Ext)*** Le pirate de Haute mer doit parfois subtiliser au plus vite les objets les plus précieux d’un trésor. Il [estime](./Estimation.md) un objet par une [action de mouvement](./Action de mouvement.md) et peut déterminer l’objet le plus précieux d’un trésor par une [action simple](./Action simple.md).
-- ***Gréeur du vent (Ext)*** Le pirate de Haute mer a appris l’art délicat qui consiste à tirer des bords. S’il réussit un test de Profession (marin) DD 15, il augmente la [vitesse de base](./VD.md) de son navire de 1,50 mètre pendant 1 heure.
-- ***Longue vue (Ext)*** Les pirates occupent à tour de rôle le poste de vigie. Un pirate de Haute mer avec ce talent réduit de moitié les éventuels malus de distance aux tests de [Perception](./Perception.md) quand il se situe à 3 mètres au moins au-dessus du sol ou au-dessus du pont d’un navire.
+- ***Estimation rapide (Ext)*** Le pirate de Haute mer doit parfois subtiliser au plus vite les objets les plus précieux d’un trésor. Il [[Estimation|estime]] un objet par une [[action de mouvement]] et peut déterminer l’objet le plus précieux d’un trésor par une [[action simple]].
+- ***Gréeur du vent (Ext)*** Le pirate de Haute mer a appris l’art délicat qui consiste à tirer des bords. S’il réussit un test de Profession (marin) DD 15, il augmente la [[VD|vitesse de base]] de son navire de 1,50 mètre pendant 1 heure.
+- ***Longue vue (Ext)*** Les pirates occupent à tour de rôle le poste de vigie. Un pirate de Haute mer avec ce talent réduit de moitié les éventuels malus de distance aux tests de [[Perception]] quand il se situe à 3 mètres au moins au-dessus du sol ou au-dessus du pont d’un navire.
 - ***Navigateur des tempêtes (Ext)*** Le pirate de Haute mer considère la violence des tempêtes comme d’une catégorie
 moindre en ce qui concerne la navigation et l’orientation (cet avantage se cumule avec le trait de personnage expert des
-ouragans et d’autres effets liés à la force du vent). Il peut effectuer un test d’[Acrobaties](./Acrobaties.md) pour se déplacer à sa vitesse normale sur des sols irréguliers et il ne subit aucun malus aux tests d’Acrobaties effectués sur des surfaces légèrement glissantes, légèrement instables ou très instables.
+ouragans et d’autres effets liés à la force du vent). Il peut effectuer un test d’[[Acrobaties]] pour se déplacer à sa vitesse normale sur des sols irréguliers et il ne subit aucun malus aux tests d’Acrobaties effectués sur des surfaces légèrement glissantes, légèrement instables ou très instables.
 - ***Prendre sa respiration (Ext)*** Le pirate de Haute mer peut retenir sa respiration pendant un nombre de rounds égal à trois fois son modificateur de Constitution avant de commencer à effectuer des tests de Constitution.
 - ***Singe des gréements (Ext)*** Certains pirates savent particulièrement bien grimper aux cordes et aux gréements.
-Cette aptitude confère au pirate de Haute mer un bonus de +2 aux tests d’[Escalade](./Escalade.md) quand il utilise une corde pour escalader une paroi. De plus, quand il utilise une corde de cette façon, il peut se déplacer à la moitié de sa vitesse (il peut se déplacer à sa vitesse normale s’il s’inflige un malus de -5).
+Cette aptitude confère au pirate de Haute mer un bonus de +2 aux tests d’[[Escalade]] quand il utilise une corde pour escalader une paroi. De plus, quand il utilise une corde de cette façon, il peut se déplacer à la moitié de sa vitesse (il peut se déplacer à sa vitesse normale s’il s’inflige un malus de -5).
 
 {s:Reference|TALENTDEMAÎTREPIRATE}{s:Reference|TALENTSDEMAÎTREPIRATE}
 #### Talents de maître pirate
 Aux niveaux 6, 8 et 9, un pirate de Haute mer peut choisir l’un des talents de maître pirate suivants à la place d’un talent de pirate.
-- ***Autorité à bord (Ext)*** Par une [action complexe](./Action complexe.md) une fois par jour, le pirate de Haute mer peut hurler des ordres à son équipage. Tous les alliés situés à 9 mètres ou moins de lui et qui peuvent l’entendre bénéficient d’un bonus de moral de +1 aux jets d’attaque ou à un test de compétence en particulier pendant 1 round par niveau de pirate de Haute mer. Le personnage précise quel bonus s’applique quand il utilise ce talent et ne peut pas en changer tant que dure le talent.
-- ***Balayage des pieds* (Ext)*** Le pirate de Haute mer a appris à balayer les jambes de son adversaire quand il chancelle à cause de la douleur infligée par ses attaques de précision. Si le pirate de Haute mer inflige des dégâts avec une attaque sournoise, il peut effectuer une attaque de [croc-en-jambe](./croc-en-jambe.md) contre l’adversaire blessé par une [action immédiate](./Action immédiate.md). Toutes les règles sur les attaques de croc-en-jambe s’appliquent et les dons comme [Science du croc-en-jambe](./Science du croc-en-jambe.md) modifient l’attaque comme à l’accoutumée.
-- ***Frappe intimidante (Ext)*** Si le pirate de Haute mer inflige des dégâts à un adversaire avec son attaque sournoise, il peut effectuer un test d’[Intimidation](./Intimidation.md) par une [action immédiate](./Action immédiate.md) pour le démoraliser.
-- ***Grimpeur sur la défensive (Ext)*** Le pirate de Haute mer ne perd pas son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) quand il escalade.
+- ***Autorité à bord (Ext)*** Par une [[action complexe]] une fois par jour, le pirate de Haute mer peut hurler des ordres à son équipage. Tous les alliés situés à 9 mètres ou moins de lui et qui peuvent l’entendre bénéficient d’un bonus de moral de +1 aux jets d’attaque ou à un test de compétence en particulier pendant 1 round par niveau de pirate de Haute mer. Le personnage précise quel bonus s’applique quand il utilise ce talent et ne peut pas en changer tant que dure le talent.
+- ***Balayage des pieds* (Ext)*** Le pirate de Haute mer a appris à balayer les jambes de son adversaire quand il chancelle à cause de la douleur infligée par ses attaques de précision. Si le pirate de Haute mer inflige des dégâts avec une attaque sournoise, il peut effectuer une attaque de [[croc-en-jambe]] contre l’adversaire blessé par une [[action immédiate]]. Toutes les règles sur les attaques de croc-en-jambe s’appliquent et les dons comme [[Science du croc-en-jambe]] modifient l’attaque comme à l’accoutumée.
+- ***Frappe intimidante (Ext)*** Si le pirate de Haute mer inflige des dégâts à un adversaire avec son attaque sournoise, il peut effectuer un test d’[[Intimidation]] par une [[action immédiate]] pour le démoraliser.
+- ***Grimpeur sur la défensive (Ext)*** Le pirate de Haute mer ne perd pas son bonus de [[Dextérité]] à la [[CA]] quand il escalade.
 - ***Rapidité soudaine (Ext)*** Le pirate de Haute mer a appris à améliorer la vitesse de son navire en situation d’urgence. S’il réussit un test de Profession (marin) DD 20, Il double la vitesse de base de son navire pendant 1 round. Il peut utiliser ce talent une seule fois par jour.

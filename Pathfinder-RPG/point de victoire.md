@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Combat de spectacle#POINTDEVICTOIRE
 ---
 
->>> [Combat de spectacle#POINTDEVICTOIRE](./Combat de spectacle.md#POINTDEVICTOIRE)
+>>> [[Combat de spectacle#POINTDEVICTOIRE]]

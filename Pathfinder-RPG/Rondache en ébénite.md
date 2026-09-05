@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Rondache en ébénite|{s:AE}}
-**Aura** aucune (non-magique) ; **NLS** — ; **Emplacement** [bouclier](./Boucliers magiques spécifiques.md) ; **Prix** 203 po ; **Poids** 1,25 kg
+**Aura** aucune (non-magique) ; **NLS** — ; **Emplacement** [[Boucliers magiques spécifiques|bouclier]] ; **Prix** 203 po ; **Poids** 1,25 kg
 (((Description)))
-Cette [rondache](./rondache (armure).md) [de maître](./armure de maître.md) en bois non magique est faite en [ébénite](./Matériaux spéciaux.md#EBENITE). Elle ne possède aucun bonus d’altération mais n’inflige aucun malus d’armure aux tests et ne pèse que 1,25 kg.
+Cette [[rondache (armure)|rondache]] [[armure de maître|de maître]] en bois non magique est faite en [[matériaux spéciaux#EBENITE|ébénite]]. Elle ne possède aucun bonus d’altération mais n’inflige aucun malus d’armure aux tests et ne pèse que 1,25 kg.
 (((Création)))
 **Conditions** — ; **Coût** 68 po
 </div>

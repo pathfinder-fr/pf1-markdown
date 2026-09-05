@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#RAGEFANTOME
 ---
 
->>> [Pouvoirs de rage#RAGEFANTOME](./Pouvoirs de rage.md#RAGEFANTOME)
+>>> [[Pouvoirs de rage#RAGEFANTOME]]

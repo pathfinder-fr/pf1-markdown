@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Anactoria est un petit village situé à l'intérieur des terres du comté de [Caliphas](./Caliphas.md) en [Ustalav](./Ustalav.md).
+Anactoria est un petit village situé à l'intérieur des terres du comté de [[Caliphas]] en [[Ustalav]].

@@ -9,32 +9,32 @@ LastModified: 2025-04-18 15:19
 <div class="wiki-row">
 <div class="wiki-col wiki-col-6">
 ### Kobold Quarterly
-- [Le crabe osseux](./KQ Crabe osseux.md) (FP 2)
-- [Le drake chandelle](./KQ Drake chandelle.md) (FP 1)
-- [Le drake rapide.](./KQ Drake rapide.md) (FP 2)
-- [Le linnorm du tombeau.](./KQ Linnorm du tombeau.md) (FP 23)
+- [[KQ Crabe osseux|Le crabe osseux]] (FP 2)
+- [[KQ Drake chandelle|Le drake chandelle]] (FP 1)
+- [[KQ Drake rapide|Le drake rapide.]] (FP 2)
+- [[KQ Linnorm du tombeau|Le linnorm du tombeau.]] (FP 23)
 
 ### Monstres convoqués
-- [Liste des statistiques de monstres convoqués](./Monstres convoqués.md)
+- [[Monstres convoqués|Liste des statistiques de monstres convoqués]]
 </div><div class="wiki-col wiki-col-6">
 
 
 
 ### Création des membres
 
-- [Vieux dragon rouge](./Vieux dragon rouge.md) (FP 17) Extrapolation du dragon rouge à l'age vieux.
+- [[Vieux dragon rouge]] (FP 17) Extrapolation du dragon rouge à l'age vieux.
 
-- [Dragon rouge grand dracosire](./Dragon rouge grand dracosire.md) (FP 22) Extrapolation du dragon rouge à l'age grand dracosire.
+- [[Dragon rouge grand dracosire]] (FP 22) Extrapolation du dragon rouge à l'age grand dracosire.
 
-- [Aashaq](./Aashaq.md) (FP 25) Grande dracosire rouge prêtresse de Dahak
+- [[Aashaq]] (FP 25) Grande dracosire rouge prêtresse de Dahak
 
-- [Gelée sanglante](./gelée sanglante.md) (FP 2)
+- [[Gelée sanglante]] (FP 2)
 
-- [Géant des landes](./géant des landes.md) (FP 4) : Un géant peu puissant formant de vastes communautés sédentaires.
+- [[Géant des landes]] (FP 4) : Un géant peu puissant formant de vastes communautés sédentaires.
 
-- [Marmouscule](./marmouscule.md)
+- [[Marmouscule]]
 
-- [Lycanthrope, Ornithorynque-garou](./Ornithorynque-garou.md) : créature à la nature mystique
+- [[Ornithorynque-garou|Lycanthrope, Ornithorynque-garou]] : créature à la nature mystique
 
 
 ### Nouvelles fées
@@ -47,10 +47,10 @@ Par [Faenil](http://www.pathfinder-fr.org/Forum/yaf_profile164_faenil.aspx). Voi
 | Nom || FP || Alignement || Allégeance || Niveau requis pour   
 servir de familier
 |- CLASS="premier"
-| [Fée sombre](./Fée sombre.md) || 2 || Chaotique mauvais || Cour invisible || 7
+| [[Fée sombre]] || 2 || Chaotique mauvais || Cour invisible || 7
 |- CLASS="alt"
-| [Fée des lumières](./Fée des lumières.md) || 2 || Chaotique bon || Cour visible || 7
+| [[Fée des lumières]] || 2 || Chaotique bon || Cour visible || 7
 |-
-| [Fée des ondées](./Fée des ondées.md) || 2 || Chaotique neutre || Cour visible || 7
+| [[Fée des ondées]] || 2 || Chaotique neutre || Cour visible || 7
 |}
 </div></div>

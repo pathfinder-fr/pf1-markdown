@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#SAUTEURBESTIAL
 ---
 
->>> [Pouvoirs de rage#SAUTEURBESTIAL](./Pouvoirs de rage.md#SAUTEURBESTIAL)
+>>> [[Pouvoirs de rage#SAUTEURBESTIAL]]

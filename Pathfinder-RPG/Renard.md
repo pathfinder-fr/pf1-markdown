@@ -10,8 +10,8 @@ LastModified: 2017-06-22 18:14
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Sources : Art de la Magie p.120 ; Bestiaire 3 p.117*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -22,9 +22,9 @@ LastModified: 2017-06-22 18:14
 {s:BDTexte|**Espace** 0,8 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 9, **Dex** 15, **Con** 13, **Int** 2, **Sag** 12, **Cha** 6}
-{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 9 (13 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +2 (+10 saut),[Discrétion](./Discrétion.md) +10, [Perception](./Perception.md) +8, [Survie](./Survie.md) +1 (+5 pour le pistage olfactif) ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4 lors d'un saut, [Survie](./Survie.md) +4 pour le pistage à l’odeur}
+{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 9 (13 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +2 (+10 saut),[[Discrétion]] +10, [[Perception]] +8, [[Survie]] +1 (+5 pour le pistage olfactif) ; **Modificateurs raciaux** [[Acrobaties]] +4 lors d'un saut, [[Survie]] +4 pour le pistage à l’odeur}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-12)}

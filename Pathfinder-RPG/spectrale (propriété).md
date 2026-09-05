@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Spectrale
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Spectrale](./Descriptions individuelles des propriétés spéciales des armes.md#Spectrale)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Spectrale]]

@@ -14,24 +14,24 @@ Categories:
 ---
 
 {s:UC}
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3  
+**École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (un morceau d'éponge imbibé de larmes)  
+**Composantes** [[Composantes|V, G, F]] (un morceau d'éponge imbibé de larmes)  
 
 **Portée** contact  
 
 **Cible** créature touchée  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ou jusqu'à épuisement  
+**Durée** 1 [[round]]/[[niveau]] ou jusqu'à épuisement  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-Le personnage utilise ce sort pour voler les soins d’une autre créature. Il doit réussir une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md) contre sa cible. Jusqu’à la fin du sort, dès que la cible est sujette à un sort ou un effet surnaturel qui rend des points de vie, elle reçoit seulement la moitié des soins (arrondi à l’inférieur) et le personnage reçoit l’autre moitié (aussi arrondie à l’inférieur). Pour bénéficier des soins, le personnage doit rester dans un rayon de 7,50 m (5 {s:c}) (plus 1,50 m (1 {s:c}) tous les 2 [niveaux](./NLS.md)) autour de sa cible. S’il sort de cette zone, le sort expire. Il expire également une fois que le personnage a absorbé 5 points de vie par [niveau de lanceur de sort](./NLS.md) (avec un maximum de 50 pv).
+Le personnage utilise ce sort pour voler les soins d’une autre créature. Il doit réussir une [[attaque de contact au corps à corps]] contre sa cible. Jusqu’à la fin du sort, dès que la cible est sujette à un sort ou un effet surnaturel qui rend des points de vie, elle reçoit seulement la moitié des soins (arrondi à l’inférieur) et le personnage reçoit l’autre moitié (aussi arrondie à l’inférieur). Pour bénéficier des soins, le personnage doit rester dans un rayon de 7,50 m (5 {s:c}) (plus 1,50 m (1 {s:c}) tous les 2 [[NLS|niveaux]]) autour de sa cible. S’il sort de cette zone, le sort expire. Il expire également une fois que le personnage a absorbé 5 points de vie par [[NLS|niveau de lanceur de sort]] (avec un maximum de 50 pv).
 
 ### Mythique
 {s:CMy}
 Au lieu de voler la moitié des soins reçus par la cible, le personnage vole la totalité. Le montant de points de vie absorbés avant que le sort expire s’élève à 10 points par niveau de lanceur de sorts (100 points maximum).
 
-**[Amplifié](./Amplifié.md) (3ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), la portée du sort change et devient courte (7,50 mètres + 1,50 mètre/2 niveaux). Si la cible possède le pouvoir de [guérison accélérée](./guérison accélérée.md) ou de [régénération](./Régénération.md), le personnage absorbe la moitié de sa [guérison accélérée](./guérison accélérée.md) ou de sa [régénération](./Régénération.md). Les points de vie soignés grâce à ces pouvoirs sont défalqués du montant maximum de soins que le personnage peut absorber avant que le sort expire.
+**[[Amplifié]] (3ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], la portée du sort change et devient courte (7,50 mètres + 1,50 mètre/2 niveaux). Si la cible possède le pouvoir de [[guérison accélérée]] ou de [[régénération]], le personnage absorbe la moitié de sa [[guérison accélérée]] ou de sa [[régénération]]. Les points de vie soignés grâce à ces pouvoirs sont défalqués du montant maximum de soins que le personnage peut absorber avant que le sort expire.

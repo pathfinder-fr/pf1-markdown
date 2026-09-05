@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Placement
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Placement](./Descriptions individuelles des propriétés spéciales des armes.md#Placement)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Placement]]

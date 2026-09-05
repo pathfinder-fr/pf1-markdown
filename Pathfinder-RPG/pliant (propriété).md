@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Pliant
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Pliant](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Pliant)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Pliant]]

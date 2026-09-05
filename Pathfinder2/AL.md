@@ -10,10 +10,10 @@ LastModified: 2025-07-17 11:56
 <i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
 </div>
 <div class="contenumenuPF2">
-[Campagnes](./AP.md)
-[Aventures longues](./AL.md)
-[Aventures courtes](./AC.md)
-[Aides de jeu](./ADJA.md)
+[[AP|Campagnes]]
+[[AL|Aventures longues]]
+[[AC|Aventures courtes]]
+[[ADJA|Aides de jeu]]
 </div>
 </div>
 
@@ -22,7 +22,7 @@ Un groupe de nouveaux aventuriers passant par le village appelé la Folie d'Étr
 
 C'est une aventure conçue pour des personnages de niveau 1. Elle raconte l'histoire d'un groupe d'étrangers qui s'unissent pour former un groupe d'aventuriers afin de sauver la Folie d'Étran d'un destin terrifiant et peut être utilisée comme une parfaite introduction pour une nouvelle campagne Pathfinder.
 
-**Aides de jeu** disponibles sur la [page des aides de jeu](./ADJA.md) pour les aventures.
+**Aides de jeu** disponibles sur la [[ADJA|page des aides de jeu]] pour les aventures.
 
 {s:illustration|https://cdn.paizo.com/image/product/catalog/PZO/PZO9557_180.jpeg|The Slithering (La rampante) *non humains de niveau 5 (fin 8)*}
 Dans la cité commerciale de Kibwe située au bord de l'Étendue mwangie, des innocents frappés par une terrible malédiction connue sous le nom de "la rampante" fondent en des vases maléfiques. Les héros se trouvent à l'épicentre de cette malédiction vaseuse et pourraient bien être les seuls capables d'aller chercher la magie ancienne nécessaire pour briser cette malédiction. Les héros vont traquer l'évolution de la rampante à travers les marchés hauts en couleurs et les autels religieux de Kibwe afin de découvrir son origine ainsi que le rôle que le maléfique consortium Aspis joue dans cette conspiration. Les mystères que les héros devront percer pourraient amener une nouvelle ère de prospérité et d'abondance pour Kibwe s'ils parviennent à survivre à la rampante !

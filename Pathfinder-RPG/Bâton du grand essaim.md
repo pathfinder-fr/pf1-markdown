@@ -8,11 +8,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bâton du grand essaim|}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 9 ; **Emplacement** aucun ([bâton](./Bâtons magiques.md)) ; **Prix** 22 800 po ; **Poids** 2,5 kg
+**Aura** [[Invocation]] modérée ; **NLS** 9 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 22 800 po ; **Poids** 2,5 kg
 (((Description)))
 Le bâton du grand essaim est taillé dans un bois sombre et noueux. Il est orné de taches noires naturelles, qui évoquent des insectes semblant ramper à sa surface. Il contient les sorts suivants :
-• *[fléau d’insectes](./Fléau dinsectes.md)* (3 charges)
-• *[nuée grouillante](./Nuée grouillante.md)* (1 charge)
+• *[[fléau dinsectes|fléau d’insectes]]* (3 charges)
+• *[[nuée grouillante]]* (1 charge)
 (((Création)))
-**Conditions** [Création de bâtons magiques](./Création de bâtons magiques.md), *[fléau d’insectes](./Fléau dinsectes.md)*, *[nuée grouillante](./Nuée grouillante.md)* ; **Coût** 11 400 po
+**Conditions** [[Création de bâtons magiques]], *[[fléau dinsectes|fléau d’insectes]]*, *[[nuée grouillante]]* ; **Coût** 11 400 po
 </div>

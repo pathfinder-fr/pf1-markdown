@@ -4,7 +4,7 @@ Title: Pistolier explosif
 LastModified: 2024-10-26 17:13
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le sujet de discussion***</div>
 
 <nav class="wiki-toc"></nav>

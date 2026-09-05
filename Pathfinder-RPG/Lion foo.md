@@ -10,23 +10,23 @@ LastModified: 2021-02-22 00:07
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 3 p.56*}
 {s:BDTexte|**PX** 1200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([animal altéré](./sous-type altéré.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md)) de taille G, NB}
-{s:BDTexte|**Init** +7 ; **Sens** [odorat](./Odorat (capacité).md), [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type altéré|animal altéré]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]]) de taille G, NB}
+{s:BDTexte|**Init** +7 ; **Sens** [[Odorat (capacité)|odorat]], [[vision dans le noir]] à 18 m (12 {s:c}), [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 12, pris au dépourvu 14 (Dex +3, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 42 (5d10+15)}
 {s:BDTexte|**Réf** +7, **Vig** +7, **Vol** +4}
-{s:BDTexte|**Capacités défensives** défense de pierre 5/jour, protecteurs appariés ; [RD](./Réduction de dégâts (capacité).md) 5/contondant ; [Immunité](./Immunité (capacité).md) maladie, paralysie, poison, sommeil}
+{s:BDTexte|**Capacités défensives** défense de pierre 5/jour, protecteurs appariés ; [[Réduction de dégâts (capacité)|RD]] 5/contondant ; [[Immunité (capacité)|Immunité]] maladie, paralysie, poison, sommeil}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** 2 griffes, +8 (1d4+6) et morsure, +8 (1d8+6 plus étreinte)}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}); Allonge 1,5 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond (capacité).md), [pattes arrière](./Pattes arrière (capacité).md) (2 griffes +8, 1d4+6)}
+{s:BDTexte|**Attaques spéciales** [[Bond (capacité)|bond]], [[Pattes arrière (capacité)|pattes arrière]] (2 griffes +8, 1d4+6)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 17, **Con** 17, **Int** 6, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +3 ; **BMO** +10 (+14 lutte) ; **DMD** 23 (27 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Course](./Course.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11 (+15 pour le saut), [Discrétion](./Discrétion.md) +8 (+16 dans les broussailles), [Perception](./Perception.md) +9 ; **Modificateurs raciaux** +4 en [Acrobaties](./Acrobaties.md), +4 en [Discrétion](./Discrétion.md) (+8 dans les broussailles), +4 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Course]], [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11 (+15 pour le saut), [[Discrétion]] +8 (+16 dans les broussailles), [[Perception]] +9 ; **Modificateurs raciaux** +4 en [[Acrobaties]], +4 en [[Discrétion]] (+8 dans les broussailles), +4 en [[Perception]]}
 {s:BDTexte|**Langues** céleste, commun}
 {s:BDTexte|**Particularité** immobilité}
 {s:BDSousTitre|Écologie}
@@ -36,7 +36,7 @@ LastModified: 2021-02-22 00:07
 
 </div>
 </td><td><div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature foo](./Créature foo, archétype.md).***</li></ul>''Il est impossible de confondre cette créature animale avec une simple
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature foo, archétype|Créature foo]].***</li></ul>''Il est impossible de confondre cette créature animale avec une simple
 bête : les traits de son visage sont d’une humanité surnaturelle.''
 
 Les créatures foo sont des esprits gardiens bienveillants originaires du Plan extérieur du Nirvana où elles passent leurs journées à gambader dans les étendues idylliques ou à aider les habitants du royaume, notamment les agathions, dans leur travail. Bien qu’elles viennent du Nirvana, on trouve souvent des créatures foo sur le Plan matériel puisqu’elles font partie des invocations préférées de nombreuses cultures et religions.

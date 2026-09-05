@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Seules les blessures les plus graves parviennent encore à arrêter le personnage.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 13, [Con](./Constitution.md) 17, [orque](./Orque.md) ou [demi-orque](./Demi-orque.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Initié du refus de mourir](./Initié du refus de mourir.md), [Maître du refus de mourir](./Maître du refus de mourir.md), [Peau de fer](./Peau de fer.md), [BBA](./BBA.md) +12
+**Conditions.** [[For]] 13, [[Constitution|Con]] 17, [[orque]] ou [[demi-orque]], [[Dur à cuire]], [[Endurance]], [[Initié du refus de mourir]], [[Maître du refus de mourir]], [[Peau de fer]], [[BBA]] +12
 
-**Avantage.** Quand une créature lance le dé pour confirmer un [coup critique](./coup critique.md) contre le personnage, il doit lancer le dé deux fois et conserver le pire résultat.
+**Avantage.** Quand une créature lance le dé pour confirmer un [[coup critique]] contre le personnage, il doit lancer le dé deux fois et conserver le pire résultat.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand une créature obtient un [critique potentiel](./coup critique.md) contre le personnage mais rate ses jets de confirmation, le personnage peut dépenser 5 points d’endurance pour effectuer une [attaque d’opportunité](./AO.md) contre elle.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand une créature obtient un [[coup critique|critique potentiel]] contre le personnage mais rate ses jets de confirmation, le personnage peut dépenser 5 points d’endurance pour effectuer une [[AO|attaque d’opportunité]] contre elle.

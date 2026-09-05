@@ -10,6 +10,6 @@ Categories:
 
 {s:mca}*Du fait de ses liens étroits avec un animal, le personnage peut ignorer les sorts offensifs s'ils ne sont pas capables d'affecter sa moitié sauvage.*
 
-**Conditions** Pouvoir de classe [compagnon animal](./compagnon animal.md) ou [monture](./Monture.md).
+**Conditions** Pouvoir de classe [[compagnon animal]] ou [[monture]].
 
 **Avantage.** Le personnage peut décider de ne pas être affecté par les sorts et les effets qui seraient incapable d'affecter à la fois les créatures de son type et les créatures de type animal.

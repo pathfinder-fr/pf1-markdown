@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun sphère turquoise|{s:RSE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 6 000 po (normale), 5 000 po (défectueuse), 200 po (ébréchée) ; **Poids** –
+**Aura** [[Transmutation]] modérée ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 6 000 po (normale), 5 000 po (défectueuse), 200 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** Cette pierre vous accorde un bonus de compétence de +5 sur les tests d’[Équitation](./Équitation.md). Tout cheval ou poney que vous montez gagne les bénéfices du don [Rapide](./Rapide.md).
+- ***Normale.*** Cette pierre vous accorde un bonus de compétence de +5 sur les tests d’[[Équitation]]. Tout cheval ou poney que vous montez gagne les bénéfices du don [[Rapide]].
 
 
-- ***Défectueuse.*** Cette pierre accorde un bonus de compétence de +5 aux tests d’[Équitation](./Équitation.md).
+- ***Défectueuse.*** Cette pierre accorde un bonus de compétence de +5 aux tests d’[[Équitation]].
 
 
-- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 aux tests d’[Équitation](./Équitation.md).
+- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 aux tests d’[[Équitation]].
 
 (((Pouvoir de résonance)))
-Bonus de compétence de +2 aux tests de [Dressage](./Dressage.md).
+Bonus de compétence de +2 aux tests de [[Dressage]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[charme-animal](./Charme-animal.md)*, *[grand pas](./Grand pas.md)*, le créateur doit être de niveau 12 ; **Coût** 3 000 po (normale), 2 500 po (défectueuse), 100 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[charme-animal]]*, *[[grand pas]]*, le créateur doit être de niveau 12 ; **Coût** 3 000 po (normale), 2 500 po (défectueuse), 100 po (ébréchée)
 </div>

@@ -11,18 +11,18 @@ LastModified: 2021-07-15 17:38
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Cernunnos](./Cernunnos.md) || 30
+| [[Cernunnos]] || 30
 |-
-| [Korada](./Korada.md) || 26
+| [[Korada]] || 26
 |-
-| [Vildéïs](./Vildéïs.md) || 28
+| [[Vildéïs]] || 28
 |}
-</div></div><div style="float:right">***Voir aussi les [traits des seigneurs empyréens](./Traits des seigneurs empyréens (capacité).md).***
-***Voir la description des [agathions](./Agathion.md).***
-***Voir la description des [anges](./Ange.md).***
-***Voir la description des [archons](./Archon.md).***
-***Voir la description des [azatas](./Azata.md).***</div><div class="description">**Source :** Bestiaire 4.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([agathion](./sous-type agathion.md)/[ange](./sous-type ange.md)/[archon](./sous-type archon.md)/[azata](./sous-type azata.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md))*
+</div></div><div style="float:right">***Voir aussi les [[Traits des seigneurs empyréens (capacité)|traits des seigneurs empyréens]].***
+***Voir la description des [[Agathion|agathions]].***
+***Voir la description des [[Ange|anges]].***
+***Voir la description des [[Archon|archons]].***
+***Voir la description des [[Azata|azatas]].***</div><div class="description">**Source :** Bestiaire 4.</div>
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type agathion|agathion]]/[[sous-type ange|ange]]/[[sous-type archon|archon]]/[[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]])*
 
 Les seigneurs empyréens sont l’incarnation des forces primales du Bien. Bien qu’ils ne soient pas aussi puissants que les dieux, ce sont d’anciens célestes aux pouvoirs légendaires.
 
@@ -34,7 +34,7 @@ Représentant les deux pôles de la bonté et le pivot sur lequel ils s’équil
 
 Malgré leur puissance, les seigneurs empyréens évitent généralement de s’impliquer directement dans les affaires des mortels et même de la plupart des célestes. Ils sont persuadés que ce sont les orchestrations diplomatiques et stratégiques subtiles de grande ampleur qui, en fin de compte, serviront les grands desseins du Bien. Même si leurs pouvoirs ne sont pas toujours à l’oeuvre de manière évidente, les seigneurs empyréens courtisent les adorateurs mortels qui partagent leurs vues et leurs idéaux et qu’on appelle souvent des fanatiques des mystères. Davantage que des objectifs généraux comme le bien ou l’ordre, les fanatiques des mystères concentrent leur attention sur les idéaux, les activités et les créatures que leurs protecteurs louent le plus ardemment ou chérissent ouvertement.
 
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Traits des seigneurs empyréens](./Traits des seigneurs empyréens (capacité).md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Traits des seigneurs empyréens (capacité)|Traits des seigneurs empyréens]].***</li></ul>
 
 ### Les autres seigneurs empyréens
 Bien que les trois seigneurs empyréens présentés là soient parmi les plus puissants, ils sont loin d’être les seuls célestes à porter ce titre. Parmi les races bienveillantes des cieux, on compte les grands dirigeants et ceux qui servent de brillants modèles aux autres célestes. Leur nature ou leurs actions déclenchent une transformation qui les métamorphose en seigneurs empyréens, en une version superlative de leur être de base.

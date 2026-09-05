@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pc (la chope), 2 po (le gallon) ; **Poids** 0,25 kg (la chope), 4 kg (le gallon)
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Cette boisson alcoolisée est fabriquée à partir de miel et d’eau fermentés. Elle peut être aromatisée aux épices, aux fruits ou au houblon.

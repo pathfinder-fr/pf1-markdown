@@ -8,8 +8,8 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 po (standard), 55 po (de maître) ; **Poids** 2,5 kg (standard), 2,5 kg (de maître)
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Ces outils spéciaux regroupent tout le nécessaire à la fabrication de n’importe quel objet. Sans eux, le personnage doit utiliser des outils improvisés (malus de -2 aux tests d’[Artisanat](./Artisanat.md)), en admettant qu’il puisse fabriquer son objet.  
+Ces outils spéciaux regroupent tout le nécessaire à la fabrication de n’importe quel objet. Sans eux, le personnage doit utiliser des outils improvisés (malus de -2 aux tests d’[[Artisanat]]), en admettant qu’il puisse fabriquer son objet.  
   
-*Outils de maître artisan.* Ces outils ont la même fonction que les outils d’artisan à la seule différence que ce sont les outils parfaits accordant un bonus de circonstances de +2 aux tests d’[Artisanat](./Artisanat.md).
+*Outils de maître artisan.* Ces outils ont la même fonction que les outils d’artisan à la seule différence que ce sont les outils parfaits accordant un bonus de circonstances de +2 aux tests d’[[Artisanat]].

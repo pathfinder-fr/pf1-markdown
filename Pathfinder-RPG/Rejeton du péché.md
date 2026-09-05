@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2 p.241*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Aberration](./type Aberration.md)  de taille M, NM}
-{s:BDTexte|**Init** +5 ; **Sens** perception du péché, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) , [vision nocturne](./vision nocturne.md) ;  [Perception](./Perception.md) +7}
+{s:BDTexte|[[type aberration|Aberration]]  de taille M, NM}
+{s:BDTexte|**Init** +5 ; **Sens** perception du péché, [[vision dans le noir]] 18 m (12 {s:c}) , [[vision nocturne]] ;  [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 12 (Dex +1, esquive +1, naturelle +2)}
 {s:BDTexte|**pv** 19 (3d8+6)}
@@ -28,8 +28,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 13, **Con** 14, **Int** 10, **Sag** 13, **Cha** 12}
 {s:BDTexte|**BBA** +2, **BMO** +3, **DMD** 15}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +7, [Intimidation](./Intimidation.md) +7, [Perception](./Perception.md) +7, [Survie](./Survie.md) +7}
+{s:BDTexte|**Dons** [[Esquive]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +7, [[Intimidation]] +7, [[Perception]] +7, [[Survie]] +7}
 {s:BDTexte|**Langues** aklo}
 {s:BDTexte|**Particularités** armes et armures}
 {s:BDSousTitre|Écologie}

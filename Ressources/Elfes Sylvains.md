@@ -8,7 +8,7 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Tom_sgr*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 </div>
 
 ### Présentation
@@ -17,7 +17,7 @@ Categories:
 
 **Description physique.** Les elfes sylvains sont généralement plus grands que les humains, mais aussi plus gracieux et plus fragiles (une apparence que leurs longues oreilles pointues accentuent). Ils possèdent de larges yeux en forme d’amande et de grandes pupilles de couleur vive. Les elfes sylvains se parent généralement d’habits qui rappellent la beauté de la nature..
 
-**Alignement et religion.** Les elfes sylvains se laissent guider par les émotions et les caprices mais ils accordent une grande importance à la nature. La plupart des elfes sylvains sont d’[alignement](./../Pathfinder-RPG/Alignement.md) [Chaotique Bon](./../Pathfinder-RPG/CB.md). Ils préfèrent les dieux qui partagent leur amour de la nature comme Gozreh ou Cernunnos
+**Alignement et religion.** Les elfes sylvains se laissent guider par les émotions et les caprices mais ils accordent une grande importance à la nature. La plupart des elfes sylvains sont d’[[Pathfinder-RPG.alignement|alignement]] [[Pathfinder-RPG.CB|Chaotique Bon]]. Ils préfèrent les dieux qui partagent leur amour de la nature comme Gozreh ou Cernunnos
 .
 
 
@@ -25,17 +25,17 @@ Categories:
 ### Traits raciaux
 <div class="presentation arrondi ombre espaceliste">
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
-- **+2 [Force](./../Pathfinder-RPG/Force.md), +2 [Dextérité](./../Pathfinder-RPG/Dextérité.md), -2 [Intelligence](./../Pathfinder-RPG/Intelligence.md).** Les elfes sylvains sont agiles et forts mais moins éduqués que leurs cousins elfes.
-- **Taille moyenne.** Les elfes sylvains sont des créatures de [taille M](./../Pathfinder-RPG/taille M.md), ce qui ne leur apporte aucun bonus ni malus de taille.
-- **Vitesse accélérée.** Les elfes sylvains possèdent une [vitesse de déplacement](./../Pathfinder-RPG/vitesse de déplacement.md) de base de 12 mètres (8 cases).
-- **[Vision nocturne](./../Pathfinder-RPG/vision nocturne.md).** Les elfes sylvains peuvent voir deux fois plus loin que les humains dans des conditions de faible éclairage.
-- **Immunités elfiques.** Les elfes sylvains sont immunisés aux effets de sommeil magique et bénéficient d’un bonus racial de +2 aux [jets de sauvegarde](./../Pathfinder-RPG/jet de sauvegarde.md) contre les sorts et les effets de type [enchantement](./../Pathfinder-RPG/Enchantement.md).
+- **+2 [[Pathfinder-RPG.Force|Force]], +2 [[Pathfinder-RPG.Dextérité|Dextérité]], -2 [[Pathfinder-RPG.Intelligence|Intelligence]].** Les elfes sylvains sont agiles et forts mais moins éduqués que leurs cousins elfes.
+- **Taille moyenne.** Les elfes sylvains sont des créatures de [[Pathfinder-RPG.taille M|taille M]], ce qui ne leur apporte aucun bonus ni malus de taille.
+- **Vitesse accélérée.** Les elfes sylvains possèdent une [[Pathfinder-RPG.vitesse de déplacement|vitesse de déplacement]] de base de 12 mètres (8 cases).
+- **[[Pathfinder-RPG.Vision nocturne|Vision nocturne]].** Les elfes sylvains peuvent voir deux fois plus loin que les humains dans des conditions de faible éclairage.
+- **Immunités elfiques.** Les elfes sylvains sont immunisés aux effets de sommeil magique et bénéficient d’un bonus racial de +2 aux [[Pathfinder-RPG.jet de sauvegarde|jets de sauvegarde]] contre les sorts et les effets de type [[Pathfinder-RPG.enchantement|enchantement]].
 - **Empathie sauvage.** Cette capacité fonctionne comme l'aptitude de druide du même nom si ce n'est que les elfes sylvains possèdent un bonus de +6 au test. Les elfes sylvains qui possèdent des niveaux de druide ajoutent ce bonus racial à leurs tests d'empathie sauvage.
 
 </div><div class="wiki-col wiki-col-6">
-- **Sens aiguisés.** Les elfes reçoivent un bonus racial de +2 aux tests de [Perception](./../Pathfinder-RPG/Perception.md).
+- **Sens aiguisés.** Les elfes reçoivent un bonus racial de +2 aux tests de [[Pathfinder-RPG.Perception|Perception]].
 - **Liés à la forêt** Les elfes sylvains gagnent un bonus d'esquive à la CA de +2 quand ils se trouvent dans la forêt.
-- **Langues supplémentaires.** Les elfes connaissent automatiquement le [commun](./../Pathfinder-RPG/Linguistique.md) et l’[elfe](./../Pathfinder-RPG/Linguistique.md). Les elfes possédant une [Intelligence](./../Pathfinder-RPG/Intelligence.md) élevée peuvent choisir d’[autres langues](./../Pathfinder-RPG/Linguistique.md) parmi la liste suivante : [céleste](./../Pathfinder-RPG/Linguistique.md), [draconien](./../Pathfinder-RPG/Linguistique.md), [gnoll](./../Pathfinder-RPG/Linguistique.md), [gnome](./../Pathfinder-RPG/Linguistique.md), [gobelin](./../Pathfinder-RPG/Linguistique.md), [orque](./../Pathfinder-RPG/Linguistique.md) et [sylvestre](./../Pathfinder-RPG/Linguistique.md).
+- **Langues supplémentaires.** Les elfes connaissent automatiquement le [[Pathfinder-RPG.Linguistique|commun]] et l’[[Pathfinder-RPG.Linguistique|elfe]]. Les elfes possédant une [[Pathfinder-RPG.Intelligence|Intelligence]] élevée peuvent choisir d’[[Pathfinder-RPG.Linguistique|autres langues]] parmi la liste suivante : [[Pathfinder-RPG.Linguistique|céleste]], [[Pathfinder-RPG.Linguistique|draconien]], [[Pathfinder-RPG.Linguistique|gnoll]], [[Pathfinder-RPG.Linguistique|gnome]], [[Pathfinder-RPG.Linguistique|gobelin]], [[Pathfinder-RPG.Linguistique|orque]] et [[Pathfinder-RPG.Linguistique|sylvestre]].
 
 </div></div>
 </div>

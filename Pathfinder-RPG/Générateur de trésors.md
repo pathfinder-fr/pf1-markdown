@@ -7,19 +7,19 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:MenuOpposition}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:AE}Le système suivant permet aux MJ de générer des trésors aléatoires pour récompenser leurs personnages-joueurs quand ils terminent une rencontre ou quand ils récupèrent des objets de valeur. La table "[Valeur du butin par rencontre](./Rencontres.md#TABLEVALEURBUTINPARRENCONTRE)" du Manuel des Joueurs donne la valeur totale du trésor lié à une rencontre tandis que ce système donne des indications sur le type de trésor découvert en fonction de la nature des monstres ou de la rencontre.
+{s:MenuOpposition}<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:AE}Le système suivant permet aux MJ de générer des trésors aléatoires pour récompenser leurs personnages-joueurs quand ils terminent une rencontre ou quand ils récupèrent des objets de valeur. La table "[[Rencontres#TABLEVALEURBUTINPARRENCONTRE|Valeur du butin par rencontre]]" du Manuel des Joueurs donne la valeur totale du trésor lié à une rencontre tandis que ce système donne des indications sur le type de trésor découvert en fonction de la nature des monstres ou de la rencontre.
 
-À noter que le trésor que génère ce système est parfois d’une valeur bien différente de celle donnée dans la table "[Valeur du butin par rencontre](./Rencontres.md#TABLEVALEURBUTINPARRENCONTRE)" du Manuel des Joueurs (et recopiée ici, sous l’appellation table "Valeur de trésor de chaque rencontre" pour plus de facilité). Certains jets de dés vont donner des trésors d’une valeur supérieure à la moyenne et d’autres d’une valeur inférieure. Au MJ de décider s’il accepte ou non ces écarts et d’ajuster ses jets pour donner des trésors d’une valeur plus régulière (en relançant les dés si besoin pour s’approcher de la valeur voulue).
+À noter que le trésor que génère ce système est parfois d’une valeur bien différente de celle donnée dans la table "[[Rencontres#TABLEVALEURBUTINPARRENCONTRE|Valeur du butin par rencontre]]" du Manuel des Joueurs (et recopiée ici, sous l’appellation table "Valeur de trésor de chaque rencontre" pour plus de facilité). Certains jets de dés vont donner des trésors d’une valeur supérieure à la moyenne et d’autres d’une valeur inférieure. Au MJ de décider s’il accepte ou non ces écarts et d’ajuster ses jets pour donner des trésors d’une valeur plus régulière (en relançant les dés si besoin pour s’approcher de la valeur voulue).
 
 ### Utiliser ce système
-Pour utiliser les règles de génération de trésor aléatoire, vous devez connaître le type général de votre rencontre et le niveau de trésor à assigner, qui dépend généralement du [FP](./FP.md). Ce [FP](./FP.md) détermine la valeur générale du trésor tandis que la nature des adversaires détermine son type.
+Pour utiliser les règles de génération de trésor aléatoire, vous devez connaître le type général de votre rencontre et le niveau de trésor à assigner, qui dépend généralement du [[FP]]. Ce [[FP]] détermine la valeur générale du trésor tandis que la nature des adversaires détermine son type.
 
 Suivez les deux étapes suivantes pour savoir quelle quantité de trésor donner aux personnages et pour déterminer le type d’objets dont il se compose.
 
 #### Première étape : Déterminer la valeur globale du trésor
-La première étape consiste à déterminer la quantité de trésor que vous pouvez allouer à la rencontre. Commencez par déterminer le [facteur de puissance](./FP.md) total de votre rencontre et l’échelle de progression de votre groupe. Reportez-vous à la table "Valeur de trésor de chaque rencontre" pour déterminer la valeur de base du trésor, en termes de pièces d’or. Si vous désirez donner à vos personnages-joueurs un trésor d’une valeur supérieure à celle indiquée, vous pouvez préparer un certain nombre de rencontres sans trésor à la clef, comme si vous mettiez leur valeur « de côté » pour l’utiliser plus tard, sous forme d’une récompense cumulée. Vous pouvez aussi décider que votre partie donnera des récompenses plus importantes et augmenter la valeur de tous les trésors de 50% ou plus.
+La première étape consiste à déterminer la quantité de trésor que vous pouvez allouer à la rencontre. Commencez par déterminer le [[FP|facteur de puissance]] total de votre rencontre et l’échelle de progression de votre groupe. Reportez-vous à la table "Valeur de trésor de chaque rencontre" pour déterminer la valeur de base du trésor, en termes de pièces d’or. Si vous désirez donner à vos personnages-joueurs un trésor d’une valeur supérieure à celle indiquée, vous pouvez préparer un certain nombre de rencontres sans trésor à la clef, comme si vous mettiez leur valeur « de côté » pour l’utiliser plus tard, sous forme d’une récompense cumulée. Vous pouvez aussi décider que votre partie donnera des récompenses plus importantes et augmenter la valeur de tous les trésors de 50% ou plus.
 
-Une fois que vous avez déterminé la valeur de base de votre trésor en fonction du [FP](./FP.md) de la rencontre, consultez la ligne « Trésor » du profil de chaque créature affrontée. Si le groupe d’ennemis se compose de plusieurs créatures différentes, prenez en compte la plus généreuse en matière de trésors. L’indication donnée sur cette ligne affecte la récompense comme suit :
+Une fois que vous avez déterminé la valeur de base de votre trésor en fonction du [[FP]] de la rencontre, consultez la ligne « Trésor » du profil de chaque créature affrontée. Si le groupe d’ennemis se compose de plusieurs créatures différentes, prenez en compte la plus généreuse en matière de trésors. L’indication donnée sur cette ligne affecte la récompense comme suit :
 - **Aucun.** D’ordinaire, cette créature ne possède pas le moindre trésor et, si les personnages l’affrontent, ils n’en gagneront aucun. Vous pouvez tout de même leur en donner un si la rencontre se déroule dans des circonstances particulières qui justifient sa présence. Vous pouvez aussi mettre la valeur du trésor qui aurait dû être associé à cette rencontre de côté, pour gonfler celui d’une prochaine rencontre.
 - **Fortuit.**  Cette créature n’a généralement pas de trésor. Réduisez la valeur de base du trésor de moitié (50%).
 - **Standard.**  La créature possède un trésor d’une valeur normale, à ne pas modifier.
@@ -128,7 +128,7 @@ rapide
 |-
 | — || 20 || 159 000
 |- CLASS="note"
-| COLSPAN="3" | *(1) Niveau de base pour les PNJ qui ont seulement des niveaux de [classe de PNJ](./Classes de PNJ.md).*
+| COLSPAN="3" | *(1) Niveau de base pour les PNJ qui ont seulement des niveaux de [[Classes de PNJ|classe de PNJ]].*
 |- CLASS="note"
 | COLSPAN="3" | *(2) Niveau héroïque pour les PNJ qui ont des niveaux de classe de PJ.*
 |}
@@ -240,49 +240,49 @@ Ce trésor se compose uniquement de pièces et de gemmes que l’on peut vendre 
 |- CLASS="titre"
 | Valeur(po) || Récompense
 |- CLASS="premier"
-| 10 || 1 *[gemme de grade 1](./Gemmes et bijoux.md#DETERMINATION)*
+| 10 || 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 1]]*
 |-
-| 15 || 2d6 × 10pc, 4d8 pa, 1 *[gemme de grade 1](./Gemmes et bijoux.md#DETERMINATION)*
+| 15 || 2d6 × 10pc, 4d8 pa, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 1]]*
 |-
-| 25 || 5d10 pa, 1d4 po, 2 *[gemmes de grade 1](./Gemmes et bijoux.md#DETERMINATION)*
+| 25 || 5d10 pa, 1d4 po, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 1]]*
 |-
-| 50 || 1 *[gemme de grade 2](./Gemmes et bijoux.md#DETERMINATION)*
+| 50 || 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 2]]*
 |-
-| 50 || 3d6 × 10 pa, 3d6 po, 3 *[gemmes de grade 1](./Gemmes et bijoux.md#DETERMINATION)*
+| 50 || 3d6 × 10 pa, 3d6 po, 3 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 1]]*
 |-
-| 75 || 1d4 × 10 pa, 1d4 po, 2 *[gemmes de grade 1](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 2](./Gemmes et bijoux.md#DETERMINATION)*
+| 75 || 1d4 × 10 pa, 1d4 po, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 1]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 2]]*
 |-
-| 100 || 1 *[gemme de grade 3](./Gemmes et bijoux.md#DETERMINATION)*
+| 100 || 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 3]]*
 |-
-| 100 || 3d8 × 10 pa, 4d8 po, 2 *[gemmes de grade 1](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 2](./Gemmes et bijoux.md#DETERMINATION)*
+| 100 || 3d8 × 10 pa, 4d8 po, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 1]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 2]]*
 |-
-| 150 || 1 *[gemme de grade 2](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 3](./Gemmes et bijoux.md#DETERMINATION)*
+| 150 || 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 2]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 3]]*
 |-
-| 200 || 3d6 × 10 pa, 2d4 × 10 po, 4 *[gemmes de grade 1](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 3](./Gemmes et bijoux.md#DETERMINATION)*
+| 200 || 3d6 × 10 pa, 2d4 × 10 po, 4 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 1]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 3]]*
 |-
-| 250 || 2d4 × 10 po, 2 *[gemmes de grade 2](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 3](./Gemmes et bijoux.md#DETERMINATION)*
+| 250 || 2d4 × 10 po, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 2]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 3]]*
 |-
-| 500 || 1 *[gemme de grade 4](./Gemmes et bijoux.md#DETERMINATION)*
+| 500 || 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 4]]*
 |-
-| 500 || 2d4 × 10 po, 2d4 pp, 2 *[gemmes de grade 2](./Gemmes et bijoux.md#DETERMINATION)*, 3 *[gemmes de grade 3](./Gemmes et bijoux.md#DETERMINATION)*
+| 500 || 2d4 × 10 po, 2d4 pp, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 2]]*, 3 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 3]]*
 |-
-| 750 || 2d4 × 10 po, 2 *[gemmes de grade 2](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 3](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 4](./Gemmes et bijoux.md#DETERMINATION)*
+| 750 || 2d4 × 10 po, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 2]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 3]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 4]]*
 |-
-| 1 000 || 1 *[gemme de grade 5](./Gemmes et bijoux.md#DETERMINATION)*
+| 1 000 || 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 5]]*
 |-
-| 1 000 || 3d6 × 10 po, 4d4 pp, 3 *[gemmes de grade 3](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 4](./Gemmes et bijoux.md#DETERMINATION)*
+| 1 000 || 3d6 × 10 po, 4d4 pp, 3 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 3]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 4]]*
 |-
-| 2 500 || 2d4 × 100 po, 2 *[gemmes de grade 4](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 5](./Gemmes et bijoux.md#DETERMINATION)*
+| 2 500 || 2d4 × 100 po, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 4]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 5]]*
 |-
-| 5 000 || 1 *[gemme de grade 6](./Gemmes et bijoux.md#DETERMINATION)*
+| 5 000 || 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 6]]*
 |-
-| 5 000 || 2d4 × 100 po, 2d4 × 10 pp, 2 *[gemmes de grade 4](./Gemmes et bijoux.md#DETERMINATION)*, 3 *[gemmes de grade 5](./Gemmes et bijoux.md#DETERMINATION)*
+| 5 000 || 2d4 × 100 po, 2d4 × 10 pp, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 4]]*, 3 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 5]]*
 |-
-| 10 000 || 5 *[gemmes de grade 5](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 6](./Gemmes et bijoux.md#DETERMINATION)*
+| 10 000 || 5 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 5]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 6]]*
 |-
-| 20 000 || 4d8 × 100 po, 6d10 × 10 pp, 3 *[gemmes de grade 6](./Gemmes et bijoux.md#DETERMINATION)*
+| 20 000 || 4d8 × 100 po, 6d10 × 10 pp, 3 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 6]]*
 |-
-| 50 000 || 4d4 × 10 pp, 10 *[gemmes de grade 3](./Gemmes et bijoux.md#DETERMINATION)*, 4 *[gemmes de grade 4](./Gemmes et bijoux.md#DETERMINATION)*, 6 *[gemmes de grade 5](./Gemmes et bijoux.md#DETERMINATION)*, 8 *[gemmes de grade 6](./Gemmes et bijoux.md#DETERMINATION)*
+| 50 000 || 4d4 × 10 pp, 10 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 3]]*, 4 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 4]]*, 6 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 5]]*, 8 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 6]]*
 |}
 </center>
 
@@ -295,49 +295,49 @@ Ce trésor se compose d’objets d’art qui se vendent généralement à leur p
 |- CLASS="titre"
 | Valeur(po) || Récompense
 |- CLASS="premier"
-| 50 || 1 *[objet d'art de grade 1](./Objets dArt.md#DETERMINATION)*
+| 50 || 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 1]]*
 |-
-| 100 || 1 *[objet d'art de grade 2](./Objets dArt.md#DETERMINATION)*
+| 100 || 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 2]]*
 |-
-| 100 || 2 *[objets d'art de grade 1](./Objets dArt.md#DETERMINATION)*
+| 100 || 2 *[[Objets dArt#DETERMINATION|objets d'art de grade 1]]*
 |-
-| 150 || 1 *[objet d'art de grade 1](./Objets dArt.md#DETERMINATION)*, 1 *[objet d'art de grade 2](./Objets dArt.md#DETERMINATION)*
+| 150 || 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 1]]*, 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 2]]*
 |-
-| 200 || 2 *[objets d'art de grade 2](./Objets dArt.md#DETERMINATION)*
+| 200 || 2 *[[Objets dArt#DETERMINATION|objets d'art de grade 2]]*
 |-
-| 250 || 3 *[objets d'art de grade 1](./Objets dArt.md#DETERMINATION)*, 1 *[objet d'art de grade 2](./Objets dArt.md#DETERMINATION)*
+| 250 || 3 *[[Objets dArt#DETERMINATION|objets d'art de grade 1]]*, 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 2]]*
 |-
-| 500 || 1 *[objet d'art de grade 3](./Objets dArt.md#DETERMINATION)*
+| 500 || 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 3]]*
 |-
-| 500 || 4 *[objets d'art de grade 1](./Objets dArt.md#DETERMINATION)*, 3 *[objets d'art de grade 2](./Objets dArt.md#DETERMINATION)*
+| 500 || 4 *[[Objets dArt#DETERMINATION|objets d'art de grade 1]]*, 3 *[[Objets dArt#DETERMINATION|objets d'art de grade 2]]*
 |-
-| 750 || 3 *[objets d'art de grade 1](./Objets dArt.md#DETERMINATION)*, 2 *[objets d'art de grade 2](./Objets dArt.md#DETERMINATION)*, 1 *[objet d'art de grade 3](./Objets dArt.md#DETERMINATION)*
+| 750 || 3 *[[Objets dArt#DETERMINATION|objets d'art de grade 1]]*, 2 *[[Objets dArt#DETERMINATION|objets d'art de grade 2]]*, 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 3]]*
 |-
-| 1 000 || 1 *[objet d'art de grade 4](./Objets dArt.md#DETERMINATION)*
+| 1 000 || 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 4]]*
 |-
-| 1 000 || 2 *[objets d'art de grade 3](./Objets dArt.md#DETERMINATION)*
+| 1 000 || 2 *[[Objets dArt#DETERMINATION|objets d'art de grade 3]]*
 |-
-| 1 500 || 1 *[objet d'art de grade 3](./Objets dArt.md#DETERMINATION)*, 1 *[objet d'art de grade 4](./Objets dArt.md#DETERMINATION)*
+| 1 500 || 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 3]]*, 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 4]]*
 |-
-| 2 000 || 2 *[objets d'art de grade 4](./Objets dArt.md#DETERMINATION)*
+| 2 000 || 2 *[[Objets dArt#DETERMINATION|objets d'art de grade 4]]*
 |-
-| 2 500 || 5 *[objets d'art de grade 2](./Objets dArt.md#DETERMINATION)*, 2 *[objets d'art de grade 3](./Objets dArt.md#DETERMINATION)*, 1 *[objet d'art de grade 4](./Objets dArt.md#DETERMINATION)*
+| 2 500 || 5 *[[Objets dArt#DETERMINATION|objets d'art de grade 2]]*, 2 *[[Objets dArt#DETERMINATION|objets d'art de grade 3]]*, 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 4]]*
 |-
-| 5 000 || 1 *[objet d'art de grade 5](./Objets dArt.md#DETERMINATION)*
+| 5 000 || 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 5]]*
 |-
-| 5 000 || 4 *[objets d'art de grade 3](./Objets dArt.md#DETERMINATION)*, 3 *[objets d'art de grade 4](./Objets dArt.md#DETERMINATION)*
+| 5 000 || 4 *[[Objets dArt#DETERMINATION|objets d'art de grade 3]]*, 3 *[[Objets dArt#DETERMINATION|objets d'art de grade 4]]*
 |-
-| 7 500 || 1 *[objet d'art de grade 3](./Objets dArt.md#DETERMINATION)*, 2 *[objets d'art de grade 4](./Objets dArt.md#DETERMINATION)*, 1 *[objet d'art de grade 5](./Objets dArt.md#DETERMINATION)*
+| 7 500 || 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 3]]*, 2 *[[Objets dArt#DETERMINATION|objets d'art de grade 4]]*, 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 5]]*
 |-
-| 10 000 || 1 *[objet d'art de grade 6](./Objets dArt.md#DETERMINATION)*
+| 10 000 || 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 6]]*
 |-
-| 10 000 || 5 *[objets d'art de grade 4](./Objets dArt.md#DETERMINATION)*, 1 *[objet d'art de grade 5](./Objets dArt.md#DETERMINATION)*
+| 10 000 || 5 *[[Objets dArt#DETERMINATION|objets d'art de grade 4]]*, 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 5]]*
 |-
-| 15 000 || 1 *[objet d'art de grade 5](./Objets dArt.md#DETERMINATION)*, 1 *[objet d'art de grade 6](./Objets dArt.md#DETERMINATION)*
+| 15 000 || 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 5]]*, 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 6]]*
 |-
-| 20 000 || 2 *[objets d'art de grade 5](./Objets dArt.md#DETERMINATION)*, 1 *[objet d'art de grade 6](./Objets dArt.md#DETERMINATION)*
+| 20 000 || 2 *[[Objets dArt#DETERMINATION|objets d'art de grade 5]]*, 1 *[[Objets dArt#DETERMINATION|objet d'art de grade 6]]*
 |-
-| 50 000 || 10 *[objets d'art de grade 3](./Objets dArt.md#DETERMINATION)*, 5 *[objets d'art de grade 4](./Objets dArt.md#DETERMINATION)*, 4 *[objets d'art de grade 5](./Objets dArt.md#DETERMINATION)*, 2 *[objets d'art de grade 6](./Objets dArt.md#DETERMINATION)*
+| 50 000 || 10 *[[Objets dArt#DETERMINATION|objets d'art de grade 3]]*, 5 *[[Objets dArt#DETERMINATION|objets d'art de grade 4]]*, 4 *[[Objets dArt#DETERMINATION|objets d'art de grade 5]]*, 2 *[[Objets dArt#DETERMINATION|objets d'art de grade 6]]*
 |}
 </center>
 
@@ -350,67 +350,67 @@ La nature exacte de chaque objet est à déterminer à l’aide des tables qui f
 |- CLASS="titre"
 | Valeur(po) || Récompense
 |- CLASS="premier"
-| 50 || 3d6 × 10 pa, 4d4 po, 1 *[parchemin faible inférieur](./Détermination aléatoire des parchemins magiques.md)*
+| 50 || 3d6 × 10 pa, 4d4 po, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible inférieur]]*
 |-
-| 50 || 2d4 × 10 pa, 2d4 po, 1 *[potion faible inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 50 || 2d4 × 10 pa, 2d4 po, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible inférieure]]*
 |-
-| 100 || 4d6 × 10 pa, 3d10 po, 1 *[potion faible inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin faible inférieur](./Détermination aléatoire des parchemins magiques.md)*
+| 100 || 4d6 × 10 pa, 3d10 po, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible inférieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible inférieur]]*
 |-
-| 150 || 2d4 × 10 pa, 6d6 po, 1 *[parchemin faible supérieur](./Détermination aléatoire des parchemins magiques.md)*
+| 150 || 2d4 × 10 pa, 6d6 po, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible supérieur]]*
 |-
-| 200 || 2d4 × 10 pa, 4d6 po, 1 *[potion faible supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin faible inférieur](./Détermination aléatoire des parchemins magiques.md)*
+| 200 || 2d4 × 10 pa, 4d6 po, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible supérieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible inférieur]]*
 |-
-| 250 || 3d6 × 10 pa, 3d6 po, 1d4 pp, 2 *[potions faibles inférieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin faible supérieur](./Détermination aléatoire des parchemins magiques.md)*
+| 250 || 3d6 × 10 pa, 3d6 po, 1d4 pp, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions faibles inférieures]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible supérieur]]*
 |-
-| 300 || 2d4 × 10 pa, 6d6 po, 1 *[potion faible supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin faible supérieur](./Détermination aléatoire des parchemins magiques.md)*
+| 300 || 2d4 × 10 pa, 6d6 po, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible supérieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible supérieur]]*
 |-
-| 400 || 1 *[potion faible supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins faibles supérieurs](./Détermination aléatoire des parchemins magiques.md)*
+| 400 || 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible supérieure]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins faibles supérieurs]]*
 |-
-| 500 || 2d4 × 10 po, 1d4 pp, 1 *[potion intermédiaire inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin faible supérieur](./Détermination aléatoire des parchemins magiques.md)*
+| 500 || 2d4 × 10 po, 1d4 pp, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible supérieur]]*
 |-
-| 500 || 2d4 × 10 po, 1d4pp, 2 *[potions faibles supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin faible supérieur](./Détermination aléatoire des parchemins magiques.md)*
+| 500 || 2d4 × 10 po, 1d4pp, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions faibles supérieures]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible supérieur]]*
 |-
-| 750 || 7d6 po, 1 *[parchemin faible supérieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette faible inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 750 || 7d6 po, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible supérieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible inférieure]]*
 |-
-| 1 000 || 4d4 × 10 po, 3d6 pp, 1 *[potion intermédiaire inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin intermédiaire inférieur](./Détermination aléatoire des parchemins magiques.md)*
+| 1 000 || 4d4 × 10 po, 3d6 pp, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin intermédiaire inférieur]]*
 |-
-| 1 000 || 2d4 × 10 po, 2d4 pp, 1 *[potion intermédiaire inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[baguette faible inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 1 000 || 2d4 × 10 po, 2d4 pp, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible inférieure]]*
 |-
-| 1 500 || 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 1 500 || 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*
 |-
-| 1 500 || 4d4 × 10 po, 3d6 pp, 1 *[potion intermédiaire supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin intermédiaire supérieur](./Détermination aléatoire des parchemins magiques.md)*
+| 1 500 || 4d4 × 10 po, 3d6 pp, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin intermédiaire supérieur]]*
 |-
-| 2 000 || 1 *[potion intermédiaire supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 2 000 || 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*
 |-
-| 2 000 || 2d4 × 10 po, 2d4 pp, 1 *[potion intermédiaire inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins intermédiaires supérieurs](./Détermination aléatoire des parchemins magiques.md)*
+| 2 000 || 2d4 × 10 po, 2d4 pp, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire inférieure]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins intermédiaires supérieurs]]*
 |-
-| 3 000 || 3d6 × 10 po, 4d4 pp, 1 *[potion intermédiaire supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin intermédiaire supérieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 3 000 || 3d6 × 10 po, 4d4 pp, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*
 |-
-| 4 000 || 3d6 × 10 po, 4d4 pp, 1 *[parchemin intermédiaire supérieur](./Détermination aléatoire des parchemins magiques.md)*, 2 *[baguettes faibles supérieures](./Détermination aléatoire des baguettes magiques.md)*
+| 4 000 || 3d6 × 10 po, 4d4 pp, 1 *[[Détermination aléatoire des parchemins magiques|parchemin intermédiaire supérieur]]*, 2 *[[Détermination aléatoire des baguettes magiques|baguettes faibles supérieures]]*
 |-
-| 5 000 || 2d4 × 10 po, 2d4 pp, 3 *[potions puissantes inférieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins intermédiaires supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 5 000 || 2d4 × 10 po, 2d4 pp, 3 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes inférieures]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins intermédiaires supérieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*
 |-
-| 7 500 || 2d6 pp, 1 *[parchemin puissant inférieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 7 500 || 2d6 pp, 1 *[[Détermination aléatoire des parchemins magiques|parchemin puissant inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*
 |-
-| 7 500 || 5d6 pp, 2 *[potions puissantes supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins puissants supérieurs](./Détermination aléatoire des parchemins magiques.md)*
+| 7 500 || 5d6 pp, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes supérieures]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins puissants supérieurs]]*
 |-
-| 10 000 || 1 *[baguette intermédiaire supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 10 000 || 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire supérieure]]*
 |-
-| 10 000 || 4d6 pp, 1 *[potion puissante supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin puissant supérieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 10 000 || 4d6 pp, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion puissante supérieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin puissant supérieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*
 |-
-| 15 000 || 1 *[baguette puissante inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 15 000 || 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante inférieure]]*
 |-
-| 15 000 || 9d10 pp, 3 *[potions puissantes supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins puissants inférieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 15 000 || 9d10 pp, 3 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes supérieures]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins puissants inférieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire supérieure]]*
 |-
-| 20 000 || 4d4 × 10 po, 2d4 × 10 pp, 2 *[potions puissantes supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin puissant supérieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette puissante inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 20 000 || 4d4 × 10 po, 2d4 × 10 pp, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes supérieures]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin puissant supérieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante inférieure]]*
 |-
-| 20 000 || 6d6 × 10 po, 3 *[potions puissantes inférieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[baguette puissante supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 20 000 || 6d6 × 10 po, 3 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes inférieures]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante supérieure]]*
 |-
-| 25 000 || 5 *[parchemins puissants supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 25 000 || 5 *[[Détermination aléatoire des parchemins magiques|parchemins puissants supérieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire supérieure]]*
 |-
-| 30 000 || 6d6 pp, 4 *[potions puissantes supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 3 *[parchemins puissants supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette puissante supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 30 000 || 6d6 pp, 4 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes supérieures]]*, 3 *[[Détermination aléatoire des parchemins magiques|parchemins puissants supérieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante supérieure]]*
 |-
-| 50 000 || 8d4 × 10 pp, 4 *[parchemins puissants supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 2 *[baguettes puissantes supérieures](./Détermination aléatoire des baguettes magiques.md)*
+| 50 000 || 8d4 × 10 pp, 4 *[[Détermination aléatoire des parchemins magiques|parchemins puissants supérieurs]]*, 2 *[[Détermination aléatoire des baguettes magiques|baguettes puissantes supérieures]]*
 |}
 </center>
 
@@ -423,61 +423,61 @@ La nature exacte de chaque objet est à déterminer à l’aide des tables du ch
 |- CLASS="titre"
 | Valeur(po) || Récompense
 |- CLASS="premier"
-| 200 || 1 armure légère ou 1 *[bouclier de maître](./Détermination aléatoire des armures et des boucliers.md)*
+| 200 || 1 armure légère ou 1 *[[Détermination aléatoire des armures et des boucliers|bouclier de maître]]*
 |-
-| 300 || 1 *[armure intermédiaire de maître](./Détermination aléatoire des armures et des boucliers.md)*
+| 300 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire de maître]]*
 |-
-| 350 || 1 *[arme de maître](./Détermination aléatoire des armes.md)*
+| 350 || 1 *[[Détermination aléatoire des armes|arme de maître]]*
 |-
-| 1 000 || 1 *[armure lourde de maître](./Détermination aléatoire des armures et des boucliers.md)*
+| 1 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure lourde de maître]]*
 |-
-| 1 500 || 1 *[armure faible inférieure](./Détermination aléatoire des armures et des boucliers.md)*
+| 1 500 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible inférieure]]*
 |-
-| 2 500 || 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*
+| 2 500 || 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*
 |-
-| 3 000 || 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*
+| 3 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*
 |-
-| 3 000 || 1 *[armure intermédiaire de maître](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[bouclier de maître](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*
+| 3 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire de maître]]*, 1 *[[Détermination aléatoire des armures et des boucliers|bouclier de maître]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*
 |-
-| 4 000 || 1 *[armure faible inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*
+| 4 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible inférieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*
 |-
-| 5 500 || 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*
+| 5 500 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*
 |-
-| 6 000 || 1 *[arme faible supérieure](./Détermination aléatoire des armes.md)*
+| 6 000 || 1 *[[Détermination aléatoire des armes|arme faible supérieure]]*
 |-
-| 7 500 || 1 *[armure faible inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible supérieure](./Détermination aléatoire des armes.md)*
+| 7 500 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible inférieure]]*, 1 *[[Détermination aléatoire des armes|arme faible supérieure]]*
 |-
-| 8 000 || 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 2 *[armes faibles inférieures](./Détermination aléatoire des armes.md)*
+| 8 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 2 *[[Détermination aléatoire des armes|armes faibles inférieures]]*
 |-
-| 9 000 || 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible supérieure](./Détermination aléatoire des armes.md)*
+| 9 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des armes|arme faible supérieure]]*
 |-
-| 10 000 || 1 *[armure intermédiaire inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*
+| 10 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*
 |-
-| 13 000 || 1 *[arme intermédiaire inférieure](./Détermination aléatoire des armes.md)*
+| 13 000 || 1 *[[Détermination aléatoire des armes|arme intermédiaire inférieure]]*
 |-
-| 13 000 || 1 *[armure intermédiaire inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*
+| 13 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*
 |-
-| 15 000 || 1 *[armure intermédiaire supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*
+| 15 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*
 |-
-| 20 000 || 1 *[armure intermédiaire inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire inférieure](./Détermination aléatoire des armes.md)*
+| 20 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire inférieure]]*
 |-
-| 25 000 || 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire supérieure](./Détermination aléatoire des armes.md)*
+| 25 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire supérieure]]*
 |-
-| 30 000 || 1 *[armure puissante inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, *[arme faible supérieure](./Détermination aléatoire des armes.md)*
+| 30 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure puissante inférieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, *[[Détermination aléatoire des armes|arme faible supérieure]]*
 |-
-| 30 000 || 1 *[armure intermédiaire inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire supérieure](./Détermination aléatoire des armes.md)*
+| 30 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire supérieure]]*
 |-
-| 35 000 || 1 *[armure puissante inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire inférieure](./Détermination aléatoire des armes.md)*
+| 35 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure puissante inférieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire inférieure]]*
 |-
-| 35 000 || 1 *[armure faible inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme puissante inférieure](./Détermination aléatoire des armes.md)*
+| 35 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible inférieure]]*, 1 *[[Détermination aléatoire des armes|arme puissante inférieure]]*
 |-
-| 40 000 || 1 *[armure puissante supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*
+| 40 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure puissante supérieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*
 |-
-| 50 000 || 1 *[armure puissante supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire inférieure](./Détermination aléatoire des armes.md)*
+| 50 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure puissante supérieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire inférieure]]*
 |-
-| 75 000 || 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme puissante supérieure](./Détermination aléatoire des armes.md)*
+| 75 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des armes|arme puissante supérieure]]*
 |-
-| 100 000 || 1 *[armure puissante supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme puissante supérieure](./Détermination aléatoire des armes.md)*
+| 100 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure puissante supérieure]]*, 1 *[[Détermination aléatoire des armes|arme puissante supérieure]]*
 |}
 </center>
 
@@ -490,57 +490,57 @@ Ce trésor se compose de tout l’équipement dont dispose habituellement une cr
 |- CLASS="titre"
 | Valeur(po) || Récompense
 |- CLASS="premier"
-| 50 || 2d4 × 10 pa, 2d4 po, 1 *[potion faible inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 50 || 2d4 × 10 pa, 2d4 po, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible inférieure]]*
 |-
-| 250 || 2d4 × 10 pa, 2d4 po, 1 *[bouclier](./Détermination aléatoire des armures et des boucliers.md)* ou 1 *[armure légère de maître](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[potion faible inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 250 || 2d4 × 10 pa, 2d4 po, 1 *[[Détermination aléatoire des armures et des boucliers|bouclier]]* ou 1 *[[Détermination aléatoire des armures et des boucliers|armure légère de maître]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible inférieure]]*
 |-
-| 350 || 2d4 × 10 pa, 2d4 po, 1 *[armure intermédiaire de maître](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[potion faible inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 350 || 2d4 × 10 pa, 2d4 po, 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire de maître]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible inférieure]]*
 |-
-| 400 || 2d4 × 10 pa, 2d4 po, 1 *[arme de maître](./Détermination aléatoire des armes.md)*, 1 *[potion faible inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 400 || 2d4 × 10 pa, 2d4 po, 1 *[[Détermination aléatoire des armes|arme de maître]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible inférieure]]*
 |-
-| 500 || 1 *[arme de maître](./Détermination aléatoire des armes.md)*, 1 *[potion faible supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 500 || 1 *[[Détermination aléatoire des armes|arme de maître]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible supérieure]]*
 |-
-| 750 || 6d6 po, 1 *[armure intermédiaire de maître](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme de maître](./Détermination aléatoire des armes.md)*, 2 *[potions faibles inférieures](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 750 || 6d6 po, 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire de maître]]*, 1 *[[Détermination aléatoire des armes|arme de maître]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions faibles inférieures]]*
 |-
-| 1 000 || 1 *[armure lourde de maître](./Détermination aléatoire des armures et des boucliers.md)*
+| 1 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure lourde de maître]]*
 |-
-| 1 500 || 1 *[armure lourde de maître](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme de maître](./Détermination aléatoire des armes.md)*, 1 *[potion faible supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 1 500 || 1 *[[Détermination aléatoire des armures et des boucliers|armure lourde de maître]]*, 1 *[[Détermination aléatoire des armes|arme de maître]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible supérieure]]*
 |-
-| 2 000 || 1 *[armure faible inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme de maître](./Détermination aléatoire des armes.md)*, 2 *[potions faibles supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 2 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible inférieure]]*, 1 *[[Détermination aléatoire des armes|arme de maître]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions faibles supérieures]]*
 |-
-| 3 000 || 1 *[armure intermédiaire de maître](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, 1 *[potion faible supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 3 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire de maître]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible supérieure]]*
 |-
-| 4 000 || 1 *[armure faible inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme de maître](./Détermination aléatoire des armes.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[potion faible supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 4 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible inférieure]]*, 1 *[[Détermination aléatoire des armes|arme de maître]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible supérieure]]*
 |-
-| 5 000 || 1 *[armure intermédiaire de maître](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[potion faible supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 5 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire de maître]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible supérieure]]*
 |-
-| 6 000 || 1 *[armure faible inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*
+| 6 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible inférieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*
 |-
-| 7 500 || 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, 1 *[anneau faible inférieur](./Détermination aléatoire des anneaux magiques.md)*
+| 7 500 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau faible inférieur]]*
 |-
-| 10 000 || 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, 1 *[anneau faible inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 3 *[potions faibles supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 10 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau faible inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 3 *[[Détermination aléatoire des potions et des huiles magiques|potions faibles supérieures]]*
 |-
-| 10 000 || 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible supérieure](./Détermination aléatoire des armes.md)*, 2 *[potions intermédiaires supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 10 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des armes|arme faible supérieure]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires supérieures]]*
 |-
-| 12 500 || 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, 1 *[objet merveilleux faible supérieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[potions intermédiaires supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 12 500 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible supérieur]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires supérieures]]*
 |-
-| 15 000 || 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible supérieure](./Détermination aléatoire des armes.md)*, 1 *[anneau faible supérieur](./Détermination aléatoire des anneaux magiques.md)*
+| 15 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des armes|arme faible supérieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau faible supérieur]]*
 |-
-| 20 000 || 1 *[armure intermédiaire inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible supérieure](./Détermination aléatoire des armes.md)*, 1 *[objet merveilleux faible supérieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[potions intermédiaires supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 20 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des armes|arme faible supérieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible supérieur]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires supérieures]]*
 |-
-| 25 000 || 1 *[armure intermédiaire inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire inférieure](./Détermination aléatoire des armes.md)*, 1 *[anneau faible inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[potions intermédiaires supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 25 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau faible inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires supérieures]]*
 |-
-| 30 000 || 1 *[armure intermédiaire inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire inférieure](./Détermination aléatoire des armes.md)*, 2 *[anneaux faibles inférieurs](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux faible supérieur](./Détermination aléatoire des objets merveilleux.md)*
+| 30 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire inférieure]]*, 2 *[[Détermination aléatoire des anneaux magiques|anneaux faibles inférieurs]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible supérieur]]*
 |-
-| 40 000 || 1 *[armure intermédiaire inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire inférieure](./Détermination aléatoire des armes.md)*, 1 *[anneau intermédiaire inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux faible supérieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[potions intermédiaires supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 40 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible supérieur]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires supérieures]]*
 |-
-| 50 000 || 1 *[armure intermédiaire supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire supérieure](./Détermination aléatoire des armes.md)*, 1 *[objet merveilleux intermédiaire inférieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[potions puissantes inférieures](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 50 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux intermédiaire inférieur]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes inférieures]]*
 |-
-| 60 000 || 1 *[armure intermédiaire supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire supérieure](./Détermination aléatoire des armes.md)*, 2 *[anneaux faibles supérieurs](./Détermination aléatoire des anneaux magiques.md)*, 2 *[objets merveilleux faibles supérieurs](./Détermination aléatoire des objets merveilleux.md)*
+| 60 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire supérieure]]*, 2 *[[Détermination aléatoire des anneaux magiques|anneaux faibles supérieurs]]*, 2 *[[Détermination aléatoire des objets merveilleux|objets merveilleux faibles supérieurs]]*
 |-
-| 75 000 || 1 *[armure puissante inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire supérieure](./Détermination aléatoire des armes.md)*, 1 *[anneau faible supérieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux intermédiaire supérieur](./Détermination aléatoire des objets merveilleux.md)*, 3 *[potions puissantes supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 75 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure puissante inférieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau faible supérieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux intermédiaire supérieur]]*, 3 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes supérieures]]*
 |-
-| 100 000 || 1 *[armure puissante inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme puissante inférieure](./Détermination aléatoire des armes.md)*, 1 *[anneau intermédiaire inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[anneau faible supérieur](./Détermination aléatoire des anneaux magiques.md)*, 2 *[objets merveilleux intermédiaires inférieurs](./Détermination aléatoire des objets merveilleux.md)*
+| 100 000 || 1 *[[Détermination aléatoire des armures et des boucliers|armure puissante inférieure]]*, 1 *[[Détermination aléatoire des armes|arme puissante inférieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau faible supérieur]]*, 2 *[[Détermination aléatoire des objets merveilleux|objets merveilleux intermédiaires inférieurs]]*
 |}
 </center>
 
@@ -553,61 +553,61 @@ Ce trésor se compose de tout l’équipement dont dispose habituellement une cr
 |- CLASS="titre"
 | Valeur(po) || Récompense
 |- CLASS="premier"
-| 50 || 2d4 × 10 pa, 2d4 po, 1 *[potion faible inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*
+| 50 || 2d4 × 10 pa, 2d4 po, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible inférieure]]*
 |-
-| 75 || 2d4 po, 1 *[potion faible inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin faible inférieur](./Détermination aléatoire des parchemins magiques.md)*
+| 75 || 2d4 po, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible inférieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible inférieur]]*
 |-
-| 100 || 1 *[potion faible inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins faibles inférieurs](./Détermination aléatoire des parchemins magiques.md)*
+| 100 || 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible inférieure]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins faibles inférieurs]]*
 |-
-| 150 || 1 *[parchemin faible inférieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[parchemin faible supérieur](./Détermination aléatoire des parchemins magiques.md)*
+| 150 || 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible inférieur]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible supérieur]]*
 |-
-| 200 || 2 *[potions faibles inférieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin faible supérieur](./Détermination aléatoire des parchemins magiques.md)*
+| 200 || 2 *[[Détermination aléatoire des potions et des huiles magiques|potions faibles inférieures]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible supérieur]]*
 |-
-| 250 || 2 *[parchemins faibles supérieurs](./Détermination aléatoire des parchemins magiques.md)*
+| 250 || 2 *[[Détermination aléatoire des parchemins magiques|parchemins faibles supérieurs]]*
 |-
-| 500 || 3 *[potions faibles inférieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 3 *[parchemins faibles supérieurs](./Détermination aléatoire des parchemins magiques.md)*
+| 500 || 3 *[[Détermination aléatoire des potions et des huiles magiques|potions faibles inférieures]]*, 3 *[[Détermination aléatoire des parchemins magiques|parchemins faibles supérieurs]]*
 |-
-| 750 || 1 *[potion faible supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[baguette faible inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 750 || 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible supérieure]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible inférieure]]*
 |-
-| 1 000 || 7d6 po, 3 *[parchemins faibles supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette faible inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 1 000 || 7d6 po, 3 *[[Détermination aléatoire des parchemins magiques|parchemins faibles supérieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible inférieure]]*
 |-
-| 1 500 || 3d6 × 10 po, 1 *[potion intermédiaire inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin intermédiaire inférieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette faible inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 1 500 || 3d6 × 10 po, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible inférieure]]*
 |-
-| 2 000 || 2d4 × 10 po, 1 *[arme de maître](./Détermination aléatoire des armes.md)*, 2 *[parchemins intermédiaires inférieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette faible inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 2 000 || 2d4 × 10 po, 1 *[[Détermination aléatoire des armes|arme de maître]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins intermédiaires inférieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible inférieure]]*
 |-
-| 2 500 || 2 *[potions intermédiaires supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 2 500 || 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires supérieures]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*
 |-
-| 3 000 || 1 *[potion intermédiaire supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins intermédiaires inférieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 3 000 || 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire supérieure]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins intermédiaires inférieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*
 |-
-| 4 000 || 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[potion intermédiaire supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 4 000 || 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*
 |-
-| 5 000 || 1 *[anneau faible inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[parchemins intermédiaires inférieurs](./Détermination aléatoire des parchemins magiques.md)*
+| 5 000 || 1 *[[Détermination aléatoire des anneaux magiques|anneau faible inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins intermédiaires inférieurs]]*
 |-
-| 6 000 || 1 *[anneau faible inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[potion intermédiaire supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 6 000 || 1 *[[Détermination aléatoire des anneaux magiques|anneau faible inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*
 |-
-| 7 500 || 2 *[potions intermédiaires supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin faible inférieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 7 500 || 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires supérieures]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*
 |-
-| 10 000 || 1 *[anneau faible inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 10 000 || 1 *[[Détermination aléatoire des anneaux magiques|anneau faible inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*
 |-
-| 12 500 || 1 *[anneau faible inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux faible supérieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[parchemins intermédiaires supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 2 *[baguettes faibles supérieures](./Détermination aléatoire des baguettes magiques.md)*
+| 12 500 || 1 *[[Détermination aléatoire des anneaux magiques|anneau faible inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible supérieur]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins intermédiaires supérieurs]]*, 2 *[[Détermination aléatoire des baguettes magiques|baguettes faibles supérieures]]*
 |-
-| 15 000 || 1 *[anneau faible inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[sceptre intermédiaire inférieur](./Détermination aléatoire des sceptres magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 15 000 || 1 *[[Détermination aléatoire des anneaux magiques|anneau faible inférieur]]*, 1 *[[Détermination aléatoire des sceptres magiques|sceptre intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*
 |-
-| 20 000 || 1 *[anneau faible supérieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux faible supérieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[potion intermédiaire supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins intermédiaires supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 20 000 || 1 *[[Détermination aléatoire des anneaux magiques|anneau faible supérieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible supérieur]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire supérieure]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins intermédiaires supérieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*
 |-
-| 25 000 || 1 *[anneau faible inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*, 1 *[baguette intermédiaire supérieure](./Détermination aléatoire des baguettes magiques.md)*, 1 *[objet merveilleux faible supérieur](./Détermination aléatoire des objets merveilleux.md)*
+| 25 000 || 1 *[[Détermination aléatoire des anneaux magiques|anneau faible inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible supérieur]]*
 |-
-| 30 000 || 1 *[anneau faible supérieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux intermédiaire inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[parchemin puissant inférieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 30 000 || 1 *[[Détermination aléatoire des anneaux magiques|anneau faible supérieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin puissant inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire supérieure]]*
 |-
-| 40 000 || 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, 1 *[bâton intermédiaire inférieur](./Détermination aléatoire des bâtons magiques.md)*, 1 *[sceptre intermédiaire supérieur](./Détermination aléatoire des sceptres magiques.md)*, 2 *[objets merveilleux faibles inférieurs](./Détermination aléatoire des objets merveilleux.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 40 000 || 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, 1 *[[Détermination aléatoire des bâtons magiques|bâton intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des sceptres magiques|sceptre intermédiaire supérieur]]*, 2 *[[Détermination aléatoire des objets merveilleux|objets merveilleux faibles inférieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*
 |-
-| 50 000 || 1 *[anneau faible supérieur](./Détermination aléatoire des anneaux magiques.md)*, 2 *[objets merveilleux intermédiaires inférieurs](./Détermination aléatoire des objets merveilleux.md)*, 1 *[potion puissante inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 3 *[parchemins intermédiaires supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette puissante inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 50 000 || 1 *[[Détermination aléatoire des anneaux magiques|anneau faible supérieur]]*, 2 *[[Détermination aléatoire des objets merveilleux|objets merveilleux intermédiaires inférieurs]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion puissante inférieure]]*, 3 *[[Détermination aléatoire des parchemins magiques|parchemins intermédiaires supérieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante inférieure]]*
 |-
-| 60 000 || 1 *[bâton intermédiaire inférieur](./Détermination aléatoire des bâtons magiques.md)*, 1 *[sceptre intermédiaire supérieur](./Détermination aléatoire des sceptres magiques.md)*, 1 *[objet merveilleux intermédiaire supérieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[potion intermédiaire supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins puissants inférieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 60 000 || 1 *[[Détermination aléatoire des bâtons magiques|bâton intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des sceptres magiques|sceptre intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire supérieure]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins puissants inférieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*
 |-
-| 75 000 || 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, 1 *[bâton intermédiaire supérieur](./Détermination aléatoire des bâtons magiques.md)*, 1 *[objet merveilleux intermédiaire supérieur](./Détermination aléatoire des objets merveilleux.md)*, 3 *[parchemins puissants supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette puissante supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 75 000 || 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, 1 *[[Détermination aléatoire des bâtons magiques|bâton intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux intermédiaire supérieur]]*, 3 *[[Détermination aléatoire des parchemins magiques|parchemins puissants supérieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante supérieure]]*
 |-
-| 100 000 || 1 *[anneau puissant supérieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[sceptre intermédiaire supérieur](./Détermination aléatoire des sceptres magiques.md)*, 1 *[bâton puissant inférieur](./Détermination aléatoire des bâtons magiques.md)*, 1 *[parchemin puissant inférieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 100 000 || 1 *[[Détermination aléatoire des anneaux magiques|anneau puissant supérieur]]*, 1 *[[Détermination aléatoire des sceptres magiques|sceptre intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des bâtons magiques|bâton puissant inférieur]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin puissant inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire supérieure]]*
 |}
 </center>
 
@@ -620,33 +620,33 @@ Ce trésor représente ce que l’on peut trouver dans l’antre d’une ou plus
 |- CLASS="titre"
 | Valeur(po) || Récompense
 |- CLASS="premier"
-| 500 || 4d4 × 100 pc, 3d6 × 10 pa, 2d4 × 10 po, 1 *[arme de maître](./Détermination aléatoire des armes.md)*, 1 *[potion faible inférieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin faible inférieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[gemme de grade 2](./Gemmes et bijoux.md#DETERMINATION)*
+| 500 || 4d4 × 100 pc, 3d6 × 10 pa, 2d4 × 10 po, 1 *[[Détermination aléatoire des armes|arme de maître]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible inférieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible inférieur]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 2]]*
 |-
-| 1 000 || 2d4 × 100 pc, 2d6 × 100 pa, 6d6 po, 1 *[potion faible supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin faible supérieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette faible inférieure](./Détermination aléatoire des baguettes magiques.md)*, 3 *[gemmes de grade 1](./Gemmes et bijoux.md#DETERMINATION)*
+| 1 000 || 2d4 × 100 pc, 2d6 × 100 pa, 6d6 po, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion faible supérieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin faible supérieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible inférieure]]*, 3 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 1]]*
 |-
-| 2 500 || 3d6 × 10 pa, 2d4 po, 1 *[armure lourde de maître](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme de maître](./Détermination aléatoire des armes.md)*, 2 *[potions intermédiaires inférieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins faibles supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[gemme de grade 2](./Gemmes et bijoux.md#DETERMINATION)*
+| 2 500 || 3d6 × 10 pa, 2d4 po, 1 *[[Détermination aléatoire des armures et des boucliers|armure lourde de maître]]*, 1 *[[Détermination aléatoire des armes|arme de maître]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires inférieures]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins faibles supérieurs]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 2]]*
 |-
-| 5 000 || 2d4 × 10 po, 4d6 pp, 1 *[arme de maître](./Détermination aléatoire des armes.md)*, 1 *[anneau faible inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[potion intermédiaire supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin intermédiaire inférieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 5 000 || 2d4 × 10 po, 4d6 pp, 1 *[[Détermination aléatoire des armes|arme de maître]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau faible inférieur]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*
 |-
-| 7 500 || 4d4 × 10 po, 6d6 pp, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[potions intermédiaires supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*, 2 *[gemmes de grade 3](./Gemmes et bijoux.md#DETERMINATION)*
+| 7 500 || 4d4 × 10 po, 6d6 pp, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires supérieures]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 3]]*
 |-
-| 10 000 || 4d8 × 10 po, 6d10 pp, 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[anneau faible inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[parchemin intermédiaire inférieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*, 1 *[gemme de grade 4](./Gemmes et bijoux.md#DETERMINATION)*
+| 10 000 || 4d8 × 10 po, 6d10 pp, 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau faible inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 4]]*
 |-
-| 15 000 || 4d4 × 10po, 4d4 × 10 pp, 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[potions intermédiaires supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins intermédiaires supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*, 1 *[gemme de grade 3](./Gemmes et bijoux.md#DETERMINATION)*
+| 15 000 || 4d4 × 10po, 4d4 × 10 pp, 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires supérieures]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins intermédiaires supérieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 3]]*
 |-
-| 20 000 || 2d4 × 10 pp, 1 *[anneau faible supérieur](./Détermination aléatoire des anneaux magiques.md)*, 2 *[objets merveilleux faibles inférieurs](./Détermination aléatoire des objets merveilleux.md)*, 2 *[potions intermédiaires supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins puissants inférieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 20 000 || 2d4 × 10 pp, 1 *[[Détermination aléatoire des anneaux magiques|anneau faible supérieur]]*, 2 *[[Détermination aléatoire des objets merveilleux|objets merveilleux faibles inférieurs]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires supérieures]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins puissants inférieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*
 |-
-| 25 000 || 6d10 × 10 po, 6d6 pp, 1 *[armure intermédiaire inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, 1 *[objet merveilleux faible supérieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[parchemins puissants inférieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*, 1 *[gemme de grade 4](./Gemmes et bijoux.md#DETERMINATION)*
+| 25 000 || 6d10 × 10 po, 6d6 pp, 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible supérieur]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins puissants inférieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 4]]*
 |-
-| 30 000 || 6d6 × 10 po, 2d4 × 10 pp, 1 *[arme faible supérieure](./Détermination aléatoire des armes.md)*, 1 *[objet merveilleux intermédiaire inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[baguette intermédiaire supérieure](./Détermination aléatoire des baguettes magiques.md)*, 3 *[gemmes de grade 3](./Gemmes et bijoux.md#DETERMINATION)*
+| 30 000 || 6d6 × 10 po, 2d4 × 10 pp, 1 *[[Détermination aléatoire des armes|arme faible supérieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire supérieure]]*, 3 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 3]]*
 |-
-| 40 000 || 4d4 × 10 po, 4d4 × 10 pp, 1 *[anneau intermédiaire inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[sceptre intermédiaire inférieur](./Détermination aléatoire des sceptres magiques.md)*, 2 *[potions puissantes supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 2 *[parchemins puissants inférieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette puissante inférieure](./Détermination aléatoire des baguettes magiques.md)*
+| 40 000 || 4d4 × 10 po, 4d4 × 10 pp, 1 *[[Détermination aléatoire des anneaux magiques|anneau intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des sceptres magiques|sceptre intermédiaire inférieur]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes supérieures]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins puissants inférieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante inférieure]]*
 |-
-| 50 000 || 4d4 × 10 pp, 1 *[armure intermédiaire supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[bâton intermédiaire inférieur](./Détermination aléatoire des bâtons magiques.md)*, 1 *[objet merveilleux intermédiaire inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[parchemin puissant supérieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*, 1 *[gemme de grade 5](./Gemmes et bijoux.md#DETERMINATION)*
+| 50 000 || 4d4 × 10 pp, 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des bâtons magiques|bâton intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin puissant supérieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 5]]*
 |-
-| 75 000 || 2d8 × 100 po, 4d4 × 10 pp, 1 *[arme faible supérieure](./Détermination aléatoire des armes.md)*, 1 *[anneau intermédiaire supérieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[bâton intermédiaire supérieur](./Détermination aléatoire des bâtons magiques.md)*, 3 *[potions puissantes supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin puissant supérieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette puissante inférieure](./Détermination aléatoire des baguettes magiques.md)*, 1 *[gemme de grade 5](./Gemmes et bijoux.md#DETERMINATION)*
+| 75 000 || 2d8 × 100 po, 4d4 × 10 pp, 1 *[[Détermination aléatoire des armes|arme faible supérieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des bâtons magiques|bâton intermédiaire supérieur]]*, 3 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes supérieures]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin puissant supérieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante inférieure]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 5]]*
 |-
-| 100 000 || 8d6 × 100 po, 4d4 × 10 pp, 1 *[anneau puissant inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux puissant inférieur](./Détermination aléatoire des objets merveilleux.md)*, 3 *[potions puissantes supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin puissant supérieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*, 2 *[gemmes de grade 5](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 6](./Gemmes et bijoux.md#DETERMINATION)*
+| 100 000 || 8d6 × 100 po, 4d4 × 10 pp, 1 *[[Détermination aléatoire des anneaux magiques|anneau puissant inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux puissant inférieur]]*, 3 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes supérieures]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin puissant supérieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 5]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 6]]*
 |}
 </center>
 
@@ -659,34 +659,34 @@ Ce trésor représente ce que l’on peut trouver dans les coffres de toute une 
 |- CLASS="titre"
 | Valeur(po) || Récompense
 |- CLASS="premier"
-| 5 000 || 4d4 × 1 000 pc, 6d6 × 100 pa, 2d4 × 100 po, 6d6 pp, 1 *[armure faible inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*, 5 *[gemmes de grade 3](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[objet d’art de grade 3](./Objets dArt.md#DETERMINATION)*
+| 5 000 || 4d4 × 1 000 pc, 6d6 × 100 pa, 2d4 × 100 po, 6d6 pp, 1 *[[Détermination aléatoire des armures et des boucliers|armure faible inférieure]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*, 5 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 3]]*, 1 *[[Objets dArt#DETERMINATION|objet d’art de grade 3]]*
 |-
-| 10 000 || 4d4 × 1 000 pc, 6d6 × 100 pa, 2d4 × 100 po, 6d6 pp, 1 *[amure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible inférieure](./Détermination aléatoire des armes.md)*, 1 *[objet merveilleux faible inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[parchemin intermédiaire supérieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[gemme de grade 4](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[objet d’art de grade 3](./Objets dArt.md#DETERMINATION)*
+| 10 000 || 4d4 × 1 000 pc, 6d6 × 100 pa, 2d4 × 100 po, 6d6 pp, 1 *[[Détermination aléatoire des armures et des boucliers|amure faible supérieure]]*, 1 *[[Détermination aléatoire des armes|arme faible inférieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible inférieur]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin intermédiaire supérieur]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 4]]*, 1 *[[Objets dArt#DETERMINATION|objet d’art de grade 3]]*
 |-
-| 15 000 || 2d4 × 1 000 pc, 6d4 × 100 pa, 3d6 × 10 po, 6d6 pp, 1 *[anneau faible supérieur](./Détermination aléatoire des anneaux magiques.md)*, 2 *[objets merveilleux faibles inférieurs](./Détermination aléatoire des objets merveilleux.md)*, 2 *[potions intermédiaires supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[baguette faible supérieure](./Détermination aléatoire des baguettes magiques.md)*, 1 *[gemme de grade 4](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[objet d’art de grade 3](./Objets dArt.md#DETERMINATION)*
+| 15 000 || 2d4 × 1 000 pc, 6d4 × 100 pa, 3d6 × 10 po, 6d6 pp, 1 *[[Détermination aléatoire des anneaux magiques|anneau faible supérieur]]*, 2 *[[Détermination aléatoire des objets merveilleux|objets merveilleux faibles inférieurs]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions intermédiaires supérieures]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette faible supérieure]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 4]]*, 1 *[[Objets dArt#DETERMINATION|objet d’art de grade 3]]*
 |-
-| 20 000 || 2d4 × 1 000 pc, 6d4 × 100 pa, 3d6 × 10 po, 6d6 pp, 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[sceptre intermédiaire inférieur](./Détermination aléatoire des sceptres magiques.md)*, 1 *[objet merveilleux faible supérieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[potions puissantes inférieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin intermédiaire supérieur](./Détermination aléatoire des parchemins magiques.md)*, 3 *[objets d’art de grade 3](./Objets dArt.md#DETERMINATION)*
+| 20 000 || 2d4 × 1 000 pc, 6d4 × 100 pa, 3d6 × 10 po, 6d6 pp, 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 1 *[[Détermination aléatoire des sceptres magiques|sceptre intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible supérieur]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes inférieures]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin intermédiaire supérieur]]*, 3 *[[Objets dArt#DETERMINATION|objets d’art de grade 3]]*
 |-
-| 25 000 || 2d4 × 1 000 pc, 6d4 × 100 pa, 3d6 × 10 po, 6d6 pp, 1 *[bâton intermédiaire inférieur](./Détermination aléatoire des bâtons magiques.md)*, 2 *[objets merveilleux faibles inférieurs](./Détermination aléatoire des objets merveilleux.md)*, 1 *[potion intermédiaire supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*, 2 *[gemmes de grade 2](./Gemmes et bijoux.md#DETERMINATION)*, 2 *[gemmes de grade 3](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 4](./Gemmes et bijoux.md#DETERMINATION)*
+| 25 000 || 2d4 × 1 000 pc, 6d4 × 100 pa, 3d6 × 10 po, 6d6 pp, 1 *[[Détermination aléatoire des bâtons magiques|bâton intermédiaire inférieur]]*, 2 *[[Détermination aléatoire des objets merveilleux|objets merveilleux faibles inférieurs]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 2]]*, 2 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 3]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 4]]*
 |-
-| 30 000 || 2d4 × 1 000 pc, 6d4 × 100 pa, 3d6 × 10 po, 6d6 pp, 1 *[armure intermédiaire inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme faible supérieure](./Détermination aléatoire des armes.md)*, 1 *[objet merveilleux intermédiaire inférieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[parchemins puissants inférieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[objet d’art de grade 4](./Objets dArt.md#DETERMINATION)*
+| 30 000 || 2d4 × 1 000 pc, 6d4 × 100 pa, 3d6 × 10 po, 6d6 pp, 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des armes|arme faible supérieure]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux intermédiaire inférieur]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins puissants inférieurs]]*, 1 *[[Objets dArt#DETERMINATION|objet d’art de grade 4]]*
 |-
-| 40 000 || 4d4 × 1 000 pc, 6d6 × 100 pa, 2d4 × 100 po, 6d6 pp, 1 *[arme intermédiaire inférieure](./Détermination aléatoire des armes.md)*, 1 *[sceptre intermédiaire supérieur](./Détermination aléatoire des sceptres magiques.md)*, 1 *[potion puissante supérieure](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin intermédiaire supérieur](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette intermédiaire inférieure](./Détermination aléatoire des baguettes magiques.md)*, 3 *[objets d’art de grade 3](./Objets dArt.md#DETERMINATION)*, 2 *[objets d’art de grade 4](./Objets dArt.md#DETERMINATION)*
+| 40 000 || 4d4 × 1 000 pc, 6d6 × 100 pa, 2d4 × 100 po, 6d6 pp, 1 *[[Détermination aléatoire des armes|arme intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des sceptres magiques|sceptre intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des potions et des huiles magiques|potion puissante supérieure]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire inférieure]]*, 3 *[[Objets dArt#DETERMINATION|objets d’art de grade 3]]*, 2 *[[Objets dArt#DETERMINATION|objets d’art de grade 4]]*
 |-
-| 50 000 || 4d4 × 10 000 pc, 6d6 × 1 000 pa, 4d4 × 100 po, 2d4 × 10 pp, 1 *[armure faible supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 2 *[armes faibles supérieures](./Détermination aléatoire des armes.md)*, 1 *[bâton intermédiaire supérieur](./Détermination aléatoire des bâtons magiques.md)*, 1 *[objet merveilleux faible supérieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[gemme de grade 5](./Gemmes et bijoux.md#DETERMINATION)*
+| 50 000 || 4d4 × 10 000 pc, 6d6 × 1 000 pa, 4d4 × 100 po, 2d4 × 10 pp, 1 *[[Détermination aléatoire des armures et des boucliers|armure faible supérieure]]*, 2 *[[Détermination aléatoire des armes|armes faibles supérieures]]*, 1 *[[Détermination aléatoire des bâtons magiques|bâton intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux faible supérieur]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 5]]*
 |-
-| 60 000 || 2d4 × 10 000 pc, 2d4 × 1 000 pa, 2d4 × 100 po, 2d4 × 10 pp, 1 *[arme intermédiaire supérieure](./Détermination aléatoire des armes.md)*, 1 *[sceptre intermédiaire supérieur](./Détermination aléatoire des sceptres magiques.md)*, 1 *[objet merveilleux intermédiaire inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[parchemin puissant supérieur](./Détermination aléatoire des parchemins magiques.md)*, 2 *[baguettes faibles supérieures](./Détermination aléatoire des baguettes magiques.md)*, 1 *[gemme de grade 4](./Gemmes et bijoux.md#DETERMINATION)*, 5 *[objets d’art de grade 2](./Objets dArt.md#DETERMINATION)*
+| 60 000 || 2d4 × 10 000 pc, 2d4 × 1 000 pa, 2d4 × 100 po, 2d4 × 10 pp, 1 *[[Détermination aléatoire des armes|arme intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des sceptres magiques|sceptre intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin puissant supérieur]]*, 2 *[[Détermination aléatoire des baguettes magiques|baguettes faibles supérieures]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 4]]*, 5 *[[Objets dArt#DETERMINATION|objets d’art de grade 2]]*
 |-
-| 75 000 || 2d4 × 10 000 pc, 2d4 × 1 000 pa, 2d4 × 100 po, 2d4 × 10 pp, 1 *[armure puissante inférieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[anneau intermédiaire supérieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[bâton intermédiaire inférieur](./Détermination aléatoire des bâtons magiques.md)*, 1 *[baguette intermédiaire supérieure](./Détermination aléatoire des baguettes magiques.md)*, 1 *[gemme de grade 6](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[objet d’art de grade 4](./Objets dArt.md#DETERMINATION)*
+| 75 000 || 2d4 × 10 000 pc, 2d4 × 1 000 pa, 2d4 × 100 po, 2d4 × 10 pp, 1 *[[Détermination aléatoire des armures et des boucliers|armure puissante inférieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des bâtons magiques|bâton intermédiaire inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette intermédiaire supérieure]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 6]]*, 1 *[[Objets dArt#DETERMINATION|objet d’art de grade 4]]*
 |-
-| 100 000 || 2d4 × 10 000 pc, 2d4 × 1 000 pa, 2d4 × 100 po, 2d4 × 10 pp, 1 *[arme intermédiaire inférieure](./Détermination aléatoire des armes.md)*, 1 *[anneau intermédiaire supérieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[sceptre puissant inférieur](./Détermination aléatoire des sceptres magiques.md)*, 1 *[objet merveilleux intermédiaire supérieur](./Détermination aléatoire des objets merveilleux.md)*, 2 *[potions puissantes supérieures](./Détermination aléatoire des potions et des huiles magiques.md)*, 1 *[parchemin intermédiaire inférieur](./Détermination aléatoire des parchemins magiques.md)*, 2 *[objets d’art de grade 4](./Objets dArt.md#DETERMINATION)*
+| 100 000 || 2d4 × 10 000 pc, 2d4 × 1 000 pa, 2d4 × 100 po, 2d4 × 10 pp, 1 *[[Détermination aléatoire des armes|arme intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau intermédiaire supérieur]]*, 1 *[[Détermination aléatoire des sceptres magiques|sceptre puissant inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux intermédiaire supérieur]]*, 2 *[[Détermination aléatoire des potions et des huiles magiques|potions puissantes supérieures]]*, 1 *[[Détermination aléatoire des parchemins magiques|parchemin intermédiaire inférieur]]*, 2 *[[Objets dArt#DETERMINATION|objets d’art de grade 4]]*
 |-
-| 125 000 || 4d4 × 10 000 pc, 6d6 × 1 000 pa, 4d4 × 100 po, 2d8 × 10 pp, 1 *[armure puissante supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[arme intermédiaire inférieure](./Détermination aléatoire des armes.md)*, 1 *[bâton puissant inférieur](./Détermination aléatoire des bâtons magiques.md)*, 2 *[parchemins puissants supérieurs](./Détermination aléatoire des parchemins magiques.md)*, 1 *[baguette puissante supérieure](./Détermination aléatoire des baguettes magiques.md)*, 1 *[gemme de grade 6](./Gemmes et bijoux.md#DETERMINATION)*, 3 *[objets d’art de grade 4](./Objets dArt.md#DETERMINATION)*
+| 125 000 || 4d4 × 10 000 pc, 6d6 × 1 000 pa, 4d4 × 100 po, 2d8 × 10 pp, 1 *[[Détermination aléatoire des armures et des boucliers|armure puissante supérieure]]*, 1 *[[Détermination aléatoire des armes|arme intermédiaire inférieure]]*, 1 *[[Détermination aléatoire des bâtons magiques|bâton puissant inférieur]]*, 2 *[[Détermination aléatoire des parchemins magiques|parchemins puissants supérieurs]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante supérieure]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 6]]*, 3 *[[Objets dArt#DETERMINATION|objets d’art de grade 4]]*
 |-
-| 150 000 || 4d4 × 10 000 pc, 6d6 × 1 000 pa, 4d4 × 100 po, 2d8 × 10 pp, 1 *[armure intermédiaire supérieure](./Détermination aléatoire des armures et des boucliers.md)*, 1 *[anneau puissant inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[objet merveilleux puissant supérieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[baguette puissante supérieure](./Détermination aléatoire des baguettes magiques.md)*
+| 150 000 || 4d4 × 10 000 pc, 6d6 × 1 000 pa, 4d4 × 100 po, 2d8 × 10 pp, 1 *[[Détermination aléatoire des armures et des boucliers|armure intermédiaire supérieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau puissant inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux puissant supérieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante supérieure]]*
 |-
-| 200 000 || 4d4 × 10 000 pc, 6d6 × 1 000 pa, 4d4 × 100 po, 2d8 × 10 pp, 1 *[arme puissante supérieure](./Détermination aléatoire des armes.md)*, 2 *[anneaux intermédiaires inférieurs](./Détermination aléatoire des anneaux magiques.md)*, 1 *[bâton puissant inférieur](./Détermination aléatoire des bâtons magiques.md)*, 1 *[objet merveilleux puissant inférieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[baguette puissante inférieure](./Détermination aléatoire des baguettes magiques.md)*, 3 *[gemmes de grade 5](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[gemme de grade 4](./Gemmes et bijoux.md#DETERMINATION)*
+| 200 000 || 4d4 × 10 000 pc, 6d6 × 1 000 pa, 4d4 × 100 po, 2d8 × 10 pp, 1 *[[Détermination aléatoire des armes|arme puissante supérieure]]*, 2 *[[Détermination aléatoire des anneaux magiques|anneaux intermédiaires inférieurs]]*, 1 *[[Détermination aléatoire des bâtons magiques|bâton puissant inférieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux puissant inférieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante inférieure]]*, 3 *[[Gemmes et bijoux#DETERMINATION|gemmes de grade 5]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 4]]*
 |-
-| 300 000 || 8d4 × 10 000 pc, 12d6 × 1 000 pa, 8d4 × 100 po, 2d8 × 10 pp, 1 *[arme puissante supérieure](./Détermination aléatoire des armes.md)*, 1 *[anneau puissant inférieur](./Détermination aléatoire des anneaux magiques.md)*, 1 *[bâton puissant supérieur](./Détermination aléatoire des bâtons magiques.md)*, 1 *[objet merveilleux puissant supérieur](./Détermination aléatoire des objets merveilleux.md)*, 1 *[baguette puissante supérieure](./Détermination aléatoire des baguettes magiques.md)*, 1 *[gemme de grade 6](./Gemmes et bijoux.md#DETERMINATION)*, 1 *[objet d’art de grade 6](./Objets dArt.md#DETERMINATION)*
+| 300 000 || 8d4 × 10 000 pc, 12d6 × 1 000 pa, 8d4 × 100 po, 2d8 × 10 pp, 1 *[[Détermination aléatoire des armes|arme puissante supérieure]]*, 1 *[[Détermination aléatoire des anneaux magiques|anneau puissant inférieur]]*, 1 *[[Détermination aléatoire des bâtons magiques|bâton puissant supérieur]]*, 1 *[[Détermination aléatoire des objets merveilleux|objet merveilleux puissant supérieur]]*, 1 *[[Détermination aléatoire des baguettes magiques|baguette puissante supérieure]]*, 1 *[[Gemmes et bijoux#DETERMINATION|gemme de grade 6]]*, 1 *[[Objets dArt#DETERMINATION|objet d’art de grade 6]]*
 |}
 </center>

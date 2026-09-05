@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Lézard de vase géant|FP 2}
 {s:pucem|Créature magique|Marais|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.168](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.168]]*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 13 (Dex +2, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 22 (3d10+6)}
@@ -26,16 +26,16 @@ Categories:
 {s:BDTexte|**Attaques spéciales** jet aveuglant}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 14, **Con** 15, **Int** 9, **Sag** 12, **Cha** 7}
-{s:BDTexte|**BBA** +3 ; **BMO** +7 ; **DMD** 19 (23 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Volonté de fer](./Volonté de fer.md), [Talent](./Talent.md) (Perception)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +6, [Natation](./Natation.md) +15, [Perception](./Perception.md) +10; Modificateurs raciaux +4 en Acrobaties, +4 en [Natation](./Natation.md)}
+{s:BDTexte|**BBA** +3 ; **BMO** +7 ; **DMD** 19 (23 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Volonté de fer]], [[Talent]] (Perception)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +6, [[Natation]] +15, [[Perception]] +10; Modificateurs raciaux +4 en Acrobaties, +4 en [[Natation]]}
 {s:BDTexte|**Langues** draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais tempérés}
 {s:BDTexte|**Organisation** solitaire, meute (3-7) ou nuée (8-17)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Jet aveuglant (Ext).** Un lézard de vase peut remplir sa gueule d’eau boueuse pour tirer un jet de vase concentré sur une ligne de 3 mètres. Une créature qui se trouve sur le trajet de ce jet doit réussir un jet de [Réflexes](./Réflexes.md) DD 13 ou se trouver [aveuglée](./Aveuglé.md) pendant 1d2 rounds. Un lézard de vase doit utiliser une [action de mouvement](./Action de mouvement.md) pour remplir à nouveau sa bouche d›eau boueuse avant de pouvoir réutiliser son jet aveuglant. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Jet aveuglant (Ext).** Un lézard de vase peut remplir sa gueule d’eau boueuse pour tirer un jet de vase concentré sur une ligne de 3 mètres. Une créature qui se trouve sur le trajet de ce jet doit réussir un jet de [[Réflexes]] DD 13 ou se trouver [[aveuglé|aveuglée]] pendant 1d2 rounds. Un lézard de vase doit utiliser une [[action de mouvement]] pour remplir à nouveau sa bouche d›eau boueuse avant de pouvoir réutiliser son jet aveuglant. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -44,9 +44,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Lézard de vase](./Lézard de vase.md) || 1/4
+| [[Lézard de vase]] || 1/4
 |-
-| [Lézard de vase géant](./Lézard de vase géant.md) || 2
+| [[Lézard de vase géant]] || 2
 |}
 </div>*Cet imposant lézard a une peau pâle et mouchetée. Les épines qui entourent son visage forment une collerette hérissée de pointes.*
 

@@ -13,22 +13,22 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Adhukaït](./Adhukaït.md) || 7
+| [[Adhukaït]] || 7
 |-
-| [Aghasura](./Aghasura.md) || 11
+| [[Aghasura]] || 11
 |-
-| [Asurendra](./Asurendra.md) || 20
+| [[Asurendra]] || 20
 |-
-| [Hishandura](./Hishandura.md) || 15
+| [[Hishandura]] || 15
 |-
-| [Japalisura](./Japalisura.md) || 12
+| [[Japalisura]] || 12
 |-
-| [Tripurasura](./Tripurasura.md) || 2
+| [[Tripurasura]] || 2
 |-
-| [Upasunda](./Upasunda.md) || 9
+| [[Upasunda]] || 9
 |}
 </div></div><div class="description">*Source : Bestiaire 3*</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([asura](./sous-type asura.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type asura|asura]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]])*
 
 Les asuras sont des êtres immortels dont les origines sont ancrées dans le rejet et la destruction. Ils sont l’incarnation d’un accident divin, des blasphèmes vivants nés des erreurs des dieux. Condamnés à une vie horrible à cause des ces épouvantables erreurs divines, les asuras cherchent à semer le doute parmi les mortels et à se venger des dieux responsables de leur existence maudite.
 

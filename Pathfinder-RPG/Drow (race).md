@@ -7,7 +7,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Drow.md) d'un drow standard.***
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [[Drow|fiche de créature]] d'un drow standard.***
 
 Cruels et malins, les drows sont le sombre reflet de la race des elfes. Aussi appelés les elfes noirs, ils vivent dans les profondeurs de la terre, dans des cités élaborées bâties dans la roche de grottes cyclopéennes. Les drows se manifestent rarement aux habitants de la surface : ils préfèrent rester des légendes tout en poursuivant leurs sinistres projets grâce à des intermédiaires et à des agents. Ils n’ont aucun amour pour d’autres personnes qu’eux-mêmes et sont doués pour manipuler les autres créatures. S’ils ne sont pas nés Mauvais, leur culture et leur société sont profondément empreintes de malice, et les non-conformistes ne survivent pas longtemps. Certaines histoires racontent que, lorsque toutes les conditions sont réunies, un elfe particulièrement haineux peut se transformer en drow, mais pour cela il faut que l’individu concerné éprouve une haine authentique.
 
@@ -27,19 +27,19 @@ Cruels et malins, les drows sont le sombre reflet de la race des elfes. Aussi ap
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 en [Dextérité](./Dextérité.md), +2 en [Charisme](./Charisme.md), -2 en [Constitution](./Constitution.md).** Les drows sont agiles et manipulateurs.
-- **Elfe.** Les drows sont des [humanoïdes](./type Humanoïde.md) de sous-type [elfe](./sous-type elfe.md).
-- **Taille M.** Les drows sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni bonus ni malus de taille.
-- **Vitesse normale.** Les drows ont une [vitesse de base](./VD.md) de 9 mètres.
-- **Vision dans le noir.** Les drows [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
-- **Immunités des drows.** Les drows sont immunisés aux effets magiques de sommeil et gagnent un bonus racial de +2 à leurs [jets de sauvegarde](./JDS.md) contre les sorts et effets d’[enchantement](./Enchantement.md).
-- **Sens aiguisés.** Les drows gagnent un bonus racial de +2 à leurs tests de [Perception](./Perception.md).
-- **Utilisation des poisons.** Les drows sont doués pour l’utilisation des [poisons](./Poisons.md) et ne risquent jamais de s’empoisonner par erreur.
-- **Résistance à la magie.** Les drows ont une [résistance à la magie](./Résistance à la magie (capacité).md) de 6 + leur niveau de personnage.
-- **Pouvoirs magiques.** Un drow peut lancer *[lueur féerique](./Lueur féerique.md)*, *[lumières dansantes](./Lumières dansantes.md)* et *[ténèbres](./Ténèbres.md)* comme des [pouvoirs magiques](./Pouvoirs magiques (capacité).md), chacun une fois par jour, en utilisant son niveau total de personnage comme [niveau de lanceur de sorts](./NLS.md).
-- **Aveuglé par la lumière.** La soudaine exposition à une [lumière vive](./Exploration.md#VISIONLUMIERE) aveugle les drows pendant 1 round ; lors des rounds qui suivent, ils sont [éblouis](./Ébloui.md) tant qu’ils restent dans la zone affectée.
-- **Apprentissage martial.** Les drows sont formés au maniement des [arbalètes de poing](./Arbalète de poing (arme).md), des [épées courtes](./épée courte (arme).md) et des [rapières](./rapière (arme).md).
-- **Langues.** Les drows commencent le jeu en parlant l’elfique et le commun des profondeurs. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi celles-ci : abyssal, aklo, aquatique, commun, draconique, gnome, gobelin ou langue signée des drows.
+- **+2 en [[Dextérité]], +2 en [[Charisme]], -2 en [[Constitution]].** Les drows sont agiles et manipulateurs.
+- **Elfe.** Les drows sont des [[type Humanoïde|humanoïdes]] de sous-type [[sous-type elfe|elfe]].
+- **Taille M.** Les drows sont des créatures de [[taille M]] qui ne reçoivent ni bonus ni malus de taille.
+- **Vitesse normale.** Les drows ont une [[VD|vitesse de base]] de 9 mètres.
+- **Vision dans le noir.** Les drows [[Vision dans le noir (capacité)|voient dans le noir]] à 18 mètres.
+- **Immunités des drows.** Les drows sont immunisés aux effets magiques de sommeil et gagnent un bonus racial de +2 à leurs [[jds|jets de sauvegarde]] contre les sorts et effets d’[[enchantement]].
+- **Sens aiguisés.** Les drows gagnent un bonus racial de +2 à leurs tests de [[Perception]].
+- **Utilisation des poisons.** Les drows sont doués pour l’utilisation des [[poisons]] et ne risquent jamais de s’empoisonner par erreur.
+- **Résistance à la magie.** Les drows ont une [[Résistance à la magie (capacité)|résistance à la magie]] de 6 + leur niveau de personnage.
+- **Pouvoirs magiques.** Un drow peut lancer *[[lueur féerique]]*, *[[lumières dansantes]]* et *[[ténèbres]]* comme des [[Pouvoirs magiques (capacité)|pouvoirs magiques]], chacun une fois par jour, en utilisant son niveau total de personnage comme [[NLS|niveau de lanceur de sorts]].
+- **Aveuglé par la lumière.** La soudaine exposition à une [[Exploration#VISIONLUMIERE|lumière vive]] aveugle les drows pendant 1 round ; lors des rounds qui suivent, ils sont [[ébloui|éblouis]] tant qu’ils restent dans la zone affectée.
+- **Apprentissage martial.** Les drows sont formés au maniement des [[arbalète de poing (arme)|arbalètes de poing]], des [[épée courte (arme)|épées courtes]] et des [[rapière (arme)|rapières]].
+- **Langues.** Les drows commencent le jeu en parlant l’elfique et le commun des profondeurs. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues parmi celles-ci : abyssal, aklo, aquatique, commun, draconique, gnome, gobelin ou langue signée des drows.
 
 </div>
 
@@ -48,29 +48,29 @@ Cruels et malins, les drows sont le sombre reflet de la race des elfes. Aussi ap
 {s:MR}Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux drows standard mais consultez d’abord votre MJ.
 
 <u>*Remplace « aveuglé par la lumière » et « vision dans le noir » :*</u>
-- **Infiltré de la surface.** Certains drows vivent près des territoires de la surface, que ce soit parce qu’ils servent une cause drow ou parce qu’ils ont été exilés. Ceux qui ont ce trait racial gagnent la [vision nocturne](./Vision nocturne (capacité).md), ce qui leur permet de voir deux fois plus loin que les humains dans les zones de [lumière faible](./Exploration.md#VISIONLUMIERE). Ce trait racial remplace ceux de vision dans le noir et aveuglé par la lumière.
+- **Infiltré de la surface.** Certains drows vivent près des territoires de la surface, que ce soit parce qu’ils servent une cause drow ou parce qu’ils ont été exilés. Ceux qui ont ce trait racial gagnent la [[Vision nocturne (capacité)|vision nocturne]], ce qui leur permet de voir deux fois plus loin que les humains dans les zones de [[Exploration#VISIONLUMIERE|lumière faible]]. Ce trait racial remplace ceux de vision dans le noir et aveuglé par la lumière.
 
 <u>*Remplace « immunités des drows » :*</u>
-- **Séducteur.** Certains drows jouissent d’une compréhension intime des plus sombres désirs tapis dans le coeur de chacun. Ceux qui ont ce trait racial rajoutent +1 au [DD](./DD.md) des [jets de sauvegarde](./JDS.md) des sorts et pouvoirs magiques d'[enchantement](./Enchantement.md). En outre, les drows ayant une valeur de [Charisme](./Charisme.md) de 15 ou plus peuvent utiliser *[charme-personne](./Charme-personne.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) une fois par jour ([niveau de lanceur de sorts](./NLS.md) égal au niveau de personnage du drow). Ce trait racial remplace les immunités des drows.
+- **Séducteur.** Certains drows jouissent d’une compréhension intime des plus sombres désirs tapis dans le coeur de chacun. Ceux qui ont ce trait racial rajoutent +1 au [[DD]] des [[jds|jets de sauvegarde]] des sorts et pouvoirs magiques d'[[enchantement]]. En outre, les drows ayant une valeur de [[Charisme]] de 15 ou plus peuvent utiliser *[[charme-personne]]* comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] une fois par jour ([[NLS|niveau de lanceur de sorts]] égal au niveau de personnage du drow). Ce trait racial remplace les immunités des drows.
 
 <u>*Remplace « immunités des drows », « sens aiguisés » et « utilisation des poisons » :*</u>
-- {s:cs}{s:ISR}**Entraînement défensif.** De nombreuses cités drows sont souvent assaillis par des attaques d'aberrations, ce qui incite les résidents à s'entraîner à se défendre contre elles. Ces drows bénéficient d'un bonus d'esquive de +4 à la [CA](./CA.md) contre les [aberrations](./type Aberration.md). Ce trait racial remplace immunités des drows, sens aiguisés et utilisation des poisons.
+- {s:cs}{s:ISR}**Entraînement défensif.** De nombreuses cités drows sont souvent assaillis par des attaques d'aberrations, ce qui incite les résidents à s'entraîner à se défendre contre elles. Ces drows bénéficient d'un bonus d'esquive de +4 à la [[CA]] contre les [[type Aberration|aberrations]]. Ce trait racial remplace immunités des drows, sens aiguisés et utilisation des poisons.
 
 <u>*Remplace « pouvoirs magiques » :*</u>
-- **Traqueur de l’Ombreterre.** Les territoires situés au-delà des cités drows, tunnels grossiers et autres grottes, sont traîtres à traverser. Les drows ayant ce trait racial peuvent parcourir ces [terrains difficiles](./terrain difficile.md) sans malus lorsqu’ils sont sous terre. En outre, les drows ayant une valeur de [Dextérité](./Dextérité.md) de 13 ou plus recoivent [Aisance](./Aisance.md) comme don supplémentaire. Ce trait racial remplace celui de pouvoirs magiques.
+- **Traqueur de l’Ombreterre.** Les territoires situés au-delà des cités drows, tunnels grossiers et autres grottes, sont traîtres à traverser. Les drows ayant ce trait racial peuvent parcourir ces [[terrain difficile|terrains difficiles]] sans malus lorsqu’ils sont sous terre. En outre, les drows ayant une valeur de [[Dextérité]] de 13 ou plus recoivent [[Aisance]] comme don supplémentaire. Ce trait racial remplace celui de pouvoirs magiques.
 
 <u>*Remplace « sens aiguisés » :*</u>
-- **Intriguant ambitieux.** La séduction et la trahison sont des outils nécessaires pour s’élever au sein de la société drow, même pour ceux qui ont des inclinations maritales. Les drows ayant ce trait racial peuvent ajouter [Bluff](./Bluff.md) ou [Diplomatie](./Diplomatie.md) à leur liste de compétences de classe, et gagnent un bonus de +2 aux tests de cette compétence. Ce trait racial remplace sens aiguisés.
+- **Intriguant ambitieux.** La séduction et la trahison sont des outils nécessaires pour s’élever au sein de la société drow, même pour ceux qui ont des inclinations maritales. Les drows ayant ce trait racial peuvent ajouter [[Bluff]] ou [[Diplomatie]] à leur liste de compétences de classe, et gagnent un bonus de +2 aux tests de cette compétence. Ce trait racial remplace sens aiguisés.
 
 <u>*Remplace « sens aiguisés » et « utilisation des poisons » :*</u>
-- **Engagement blasphématoire.** Depuis toujours, les drows frayent avec les démons. Certains entretiennent des liens solides avec ces créatures et peuvent invoquer d’anciennes et obscènes associations pour s’attirer la coopération démoniaque. Ceux qui ont ce trait racial gagnent un bonus de +2 à leurs tests de [Diplomatie](./Diplomatie.md) contre les créatures libres de sous-type [démon](./sous-type démon.md). De plus, les démons conjurés au moyen de tout sort de *convocation* reçoivent +2 [points de vie](./pv.md) par [dés de vie](./../Ressources/DV.md). Enfin, le coût des pots-de-vin ou offrandes faites pour tout sort d’*[allié majeur d’outreplan](./Allié majeur doutreplan.md)* que lancent ces drows pour convoquer un démon est réduit de 20 %. Ce trait racial remplace sens aiguisés et utilisation des poisons.
+- **Engagement blasphématoire.** Depuis toujours, les drows frayent avec les démons. Certains entretiennent des liens solides avec ces créatures et peuvent invoquer d’anciennes et obscènes associations pour s’attirer la coopération démoniaque. Ceux qui ont ce trait racial gagnent un bonus de +2 à leurs tests de [[Diplomatie]] contre les créatures libres de sous-type [[sous-type démon|démon]]. De plus, les démons conjurés au moyen de tout sort de *convocation* reçoivent +2 [[pv|points de vie]] par [[DV|dés de vie]]. Enfin, le coût des pots-de-vin ou offrandes faites pour tout sort d’*[[allié majeur doutreplan|allié majeur d’outreplan]]* que lancent ces drows pour convoquer un démon est réduit de 20 %. Ce trait racial remplace sens aiguisés et utilisation des poisons.
 
 <u>*Remplace « utilisation des poisons » :*</u>
-- **Rancune ancestrale.** La profonde hostilité qui oppose les drows aux nains et aux elfes remonte à très longtemps. Les drows ayant ce trait racial gagnent un bonus de +1 à leurs [jets d’attaque](./jet dattaque.md) contre les [humanoïdes](./type Humanoïde.md) de sous-type [nain](./sous-type nain.md) ou [elfe](./sous-type elfe.md) (à l’exception des drows) grâce à leur formation spéciale contre ces ennemis abhorrés. Ce trait racial remplace utilisation des poisons.
+- **Rancune ancestrale.** La profonde hostilité qui oppose les drows aux nains et aux elfes remonte à très longtemps. Les drows ayant ce trait racial gagnent un bonus de +1 à leurs [[jet dattaque|jets d’attaque]] contre les [[type Humanoïde|humanoïdes]] de sous-type [[sous-type nain|nain]] ou [[sous-type elfe|elfe]] (à l’exception des drows) grâce à leur formation spéciale contre ces ennemis abhorrés. Ce trait racial remplace utilisation des poisons.
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -79,21 +79,21 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-{s:MR}**[Alchimiste](./Alchimiste.md).** L’alchimiste rajoute +10 minutes à la durée de ses [mutagènes](./Alchimiste.md#MUTAGENES).
+{s:MR}**[[Alchimiste]].** L’alchimiste rajoute +10 minutes à la durée de ses [[alchimiste#MUTAGENES|mutagènes]].
 
-{s:MR}**[Antipaladin](./Antipaladin.md).** L’antipaladin peut infliger +1/4 de [cruautés](./Antipaladin.md#CRUAUTE) supplémentaires.
+{s:MR}**[[Antipaladin]].** L’antipaladin peut infliger +1/4 de [[Antipaladin#CRUAUTE|cruautés]] supplémentaires.
 
-{s:MR}**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur choisit un sort connu supplémentaire dans la liste de sorts de l’ensorceleur. Il doit être du [registre](./Registre.md) de la malédiction, du Mal ou de la douleur et être inférieur d’au moins un niveau au sort de plus haut niveau qu’il peut lancer.
+{s:MR}**[[Ensorceleur]].** L’ensorceleur choisit un sort connu supplémentaire dans la liste de sorts de l’ensorceleur. Il doit être du [[registre]] de la malédiction, du Mal ou de la douleur et être inférieur d’au moins un niveau au sort de plus haut niveau qu’il peut lancer.
 
-{s:MR}**[Guerrier](./Guerrier.md).** Le guerrier choisit la manoeuvre offensive [désarmement](./désarmement.md) ou [repositionnement](./repositionnement.md). Il rajoute +1/3 à son [BMO](./BMO.md) lorsqu’il effectue cette manoeuvre (bonus maximum de +4).
+{s:MR}**[[Guerrier]].** Le guerrier choisit la manoeuvre offensive [[désarmement]] ou [[repositionnement]]. Il rajoute +1/3 à son [[BMO]] lorsqu’il effectue cette manoeuvre (bonus maximum de +4).
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}**[Magicien](./Magicien.md).** Le magicien choisit un pouvoir de l’[école de magie](./Magicien.md#ECOLEDEMAGIE) accessible au niveau 1 et utilisable 3 fois par jour + modificateur d’[Intelligence](./Intelligence.md). Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}**[[Magicien]].** Le magicien choisit un pouvoir de l’[[Magicien#ECOLEDEMAGIE|école de magie]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur d’[[Intelligence]]. Il peut l’utiliser 1/2 fois de plus par jour.
 
-{s:MR}**[Prêtre](./Prêtre.md).** Le prêtre choisit un pouvoir de [domaine](./Prêtre.md#DOMAINES) accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [Sagesse](./Sagesse.md). Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}**[[Prêtre]].** Le prêtre choisit un pouvoir de [[Prêtre#DOMAINES|domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Sagesse]]. Il peut l’utiliser 1/2 fois de plus par jour.
 
-{s:MR}**[Roublard](./Roublard.md).** Le roublard ajoute un bonus de +1/2 à ses tests de [Bluff](./Bluff.md) pour [feinter](./feinte.md) et transmettre des messages secrets.
+{s:MR}**[[Roublard]].** Le roublard ajoute un bonus de +1/2 à ses tests de [[Bluff]] pour [[feinte|feinter]] et transmettre des messages secrets.
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -109,74 +109,74 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Démarche de l'araignée (drow)](./Démarche de laraignée (drow).md) || <sup>MR</sup> || [Drow](./Drow (race).md), [niveau](./niveau.md) 3 || le personnage peut utiliser *[pattes d'araignée](./Pattes daraignée.md)* une fois par jour
+| [[Démarche de laraignée (drow)|Démarche de l'araignée (drow)]] || <sup>MR</sup> || [[drow (race)|Drow]], [[niveau]] 3 || le personnage peut utiliser *[[pattes daraignée|pattes d'araignée]]* une fois par jour
 
 |- CLASS="premier"
-| [Frappe du fléau des anges](./Frappe du fléau des anges.md) || <sup>CM</sup> || [Châtiment canalisé](./Châtiment canalisé.md), lanceur de sorts divins de niveau 5, capacité de classe [canalisation d'énergie négative](./Antipaladin.md#CANALISATIONDENERGIENEGATIVE) || Améliore le châtiment sur les créatures Bonnes
+| [[Frappe du fléau des anges]] || <sup>CM</sup> || [[Châtiment canalisé]], lanceur de sorts divins de niveau 5, capacité de classe [[Antipaladin#CANALISATIONDENERGIENEGATIVE|canalisation d'énergie négative]] || Améliore le châtiment sur les créatures Bonnes
 
 |- CLASS="premier"
-| [Invocateur d'araignées](./Invocateur daraignées.md) || <sup>MR</sup> || [Drow](./Drow (race).md), capacité de lancer les sorts *[convocation de monstres](./Convocation de monstres.md)* ou *[convocation d’alliés naturels](./Convocation dalliés naturels.md)* || le lanceur peut convoquer des araignées
+| [[Invocateur daraignées|Invocateur d'araignées]] || <sup>MR</sup> || [[drow (race)|Drow]], capacité de lancer les sorts *[[convocation de monstres]]* ou *[[convocation dalliés naturels|convocation d’alliés naturels]]* || le lanceur peut convoquer des araignées
 
 |- CLASS="premier"
-| [Lanterne du sniper](./Lanterne du sniper.md) || <sup>CM</sup> || [Tir à bout portant](./Tir à bout portant.md), pouvoir magique racial *[lumières dansantes](./Lumières dansantes.md)* || Améliore *lumières dansantes* pour aider les attaques à distance
+| [[Lanterne du sniper]] || <sup>CM</sup> || [[Tir à bout portant]], pouvoir magique racial *[[lumières dansantes]]* || Améliore *lumières dansantes* pour aider les attaques à distance
 
 |- CLASS="premier"
-| [Linceul d'ombres](./Linceul dombres.md) || <sup>CM</sup> || [Attaques réflexes](./Attaques réflexes.md), pouvoir magique racial *[ténèbres](./Ténèbres.md)* || Créé une brume de ténèbres autour du personnage qui lui confère un camouflage
+| [[Linceul dombres|Linceul d'ombres]] || <sup>CM</sup> || [[Attaques réflexes]], pouvoir magique racial *[[ténèbres]]* || Créé une brume de ténèbres autour du personnage qui lui confère un camouflage
 
 |- CLASS="premier"
-| [Mage ténébreux](./Mage ténébreux.md) || <sup>MR</sup> || [Drow](./Drow (race).md), niveau 1 de lanceur de sorts || Les sorts des registres [ombre](./Créer un sort.md#OMBRE) et [ténèbres](./Créer un sort.md#TENEBRES) durent plus longtemps
+| [[Mage ténébreux]] || <sup>MR</sup> || [[drow (race)|Drow]], niveau 1 de lanceur de sorts || Les sorts des registres [[Créer un sort#OMBRE|ombre]] et [[Créer un sort#TENEBRES|ténèbres]] durent plus longtemps
 
 |- CLASS="premier"
-| [Noblesse drow](./Noblesse drow.md) || <sup>MR</sup> || [Drow](./Drow (race).md) || *[détection de la magie](./Détection de la magie.md)* à volonté, *[feuille morte](./Feuille morte.md)* et *[lévitation](./Lévitation.md)* une fois par jour
+| [[Noblesse drow]] || <sup>MR</sup> || [[drow (race)|Drow]] || *[[détection de la magie]]* à volonté, *[[feuille morte]]* et *[[lévitation]]* une fois par jour
 |-
-| &emsp;[Science de la noblesse drow](./Science de la noblesse drow.md) || <sup>MR</sup> || [Noblesse drow](./Noblesse drow.md), [Charisme](./Charisme.md) 13 || *[lumières dansantes](./Lumières dansantes.md)*, *[lueur féerique](./Lueur féerique.md)*, *[feuille morte](./Feuille morte.md)* et *[lévitation](./Lévitation.md)* et *[ténèbres profondes](./Ténèbres profondes.md)* deux fois par jour,
+| &emsp;[[Science de la noblesse drow]] || <sup>MR</sup> || [[Noblesse drow]], [[Charisme]] 13 || *[[lumières dansantes]]*, *[[lueur féerique]]*, *[[feuille morte]]* et *[[lévitation]]* et *[[ténèbres profondes]]* deux fois par jour,
 |-
-| &emsp;&emsp;[Noblesse drow supérieure](./Noblesse drow supérieure.md) || <sup>MR</sup> || [Science de la noblesse drow](./Science de la noblesse drow.md) || utilisation accrue des pouvoirs magiques
+| &emsp;&emsp;[[Noblesse drow supérieure]] || <sup>MR</sup> || [[Science de la noblesse drow]] || utilisation accrue des pouvoirs magiques
 |-
-| &emsp;&emsp;&emsp;[Fils de l’ombre](./Fils de lombre.md) || <sup>MR</sup> || [Noblesse drow supérieure](./Noblesse drow supérieure.md), [Sagesse](./Sagesse.md) 13 || acquisition d'un pouvoir magique parmi *[dissipation de la magie](./Dissipation de la magie.md)*, *[faveur divine](./Faveur divine.md)* ou *[suggestion](./Suggestion.md)* utilisable une fois par jour
+| &emsp;&emsp;&emsp;[[Fils de lombre|Fils de l’ombre]] || <sup>MR</sup> || [[Noblesse drow supérieure]], [[Sagesse]] 13 || acquisition d'un pouvoir magique parmi *[[dissipation de la magie]]*, *[[faveur divine]]* ou *[[suggestion]]* utilisable une fois par jour
 |-
-| &emsp;&emsp;&emsp;&emsp;[Fils de l’ombre supérieur](./Fils de lombre supérieur.md) || <sup>MR</sup> || [Fils de l’ombre](./Fils de lombre.md) || *[dissipation de la magie](./Dissipation de la magie.md)*, *[faveur divine](./Faveur divine.md)* et *[suggestion](./Suggestion.md)* une fois par jour
+| &emsp;&emsp;&emsp;&emsp;[[Fils de lombre supérieur|Fils de l’ombre supérieur]] || <sup>MR</sup> || [[Fils de lombre|Fils de l’ombre]] || *[[dissipation de la magie]]*, *[[faveur divine]]* et *[[suggestion]]* une fois par jour
 |-
-| &emsp;&emsp;&emsp;[Noble résistance à la magie](./Noble résistance à la magie.md) || <sup>MR</sup> || [Noblesse drow supérieure](./Noblesse drow supérieure.md), [niveau](./niveau.md) 13 || [Résistance à la magie](./résistance à la magie.md) 11+niveau du personnage
+| &emsp;&emsp;&emsp;[[Noble résistance à la magie]] || <sup>MR</sup> || [[Noblesse drow supérieure]], [[niveau]] 13 || [[Résistance à la magie]] 11+niveau du personnage
 
 |- CLASS="premier"
-| [Ténèbres dégoulinantes](./Ténèbres dégoulinantes.md) || <sup>*ISR*</sup> || [Drow](./Drow (race).md), pouvoir magique racial *[ténèbres](./Ténèbres.md)* || Gain d'un camouflage de 20 % lorsqu'adjacent à un allié avec ce don
+| [[Ténèbres dégoulinantes]] || <sup>*ISR*</sup> || [[Drow (race)|Drow]], pouvoir magique racial *[[ténèbres]]* || Gain d'un camouflage de 20 % lorsqu'adjacent à un allié avec ce don
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Apôtre démoniaque (prêtre)](./Apôtre démoniaque (prêtre).md) *(MR)*
-- [Tireur embusqué des cavernes (guerrier)](./Tireur embusqué des cavernes (guerrier).md) *(MR)*
+- [[Apôtre démoniaque (prêtre)]] *(MR)*
+- [[Tireur embusqué des cavernes (guerrier)]] *(MR)*
 
 #### Équipement
-- [Attire-araignée](./Attire-araignée (objet).md) *(CM)*
-- [Gecko](./Gecko de selle (objet).md) *(A&E, MR)*
-- [Gecko formée au combat](./Gecko de selle (objet).md) *(A&E, MR)*
-- [Graisse tue-lumière](./Graisse tue-lumière (objet).md) *(CM)*
-- [Chauve-souris sanguinaire](./Chauve-souris sanguinaire de selle (objet).md) *(A&E, MR)*
-- [Chauve-souris sanguinaire formée au combat](./Chauve-souris sanguinaire de selle (objet).md) *(A&E, MR)*
-- [Poche-araignée](./Poche-araignée (objet).md) *(MR)*
+- [[Attire-araignée (objet)|Attire-araignée]] *(CM)*
+- [[Gecko de selle (objet)|Gecko]] *(A&E, MR)*
+- [[Gecko de selle (objet)|Gecko formée au combat]] *(A&E, MR)*
+- [[Graisse tue-lumière (objet)|Graisse tue-lumière]] *(CM)*
+- [[Chauve-souris sanguinaire de selle (objet)|Chauve-souris sanguinaire]] *(A&E, MR)*
+- [[Chauve-souris sanguinaire de selle (objet)|Chauve-souris sanguinaire formée au combat]] *(A&E, MR)*
+- [[Poche-araignée (objet)|Poche-araignée]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Carreau du spéléologue](./Carreau du spéléologue.md) *(CM)*
-- [Gants d'extraction](./Gants dextraction.md) *(CM)*
-- [Lame obscure](./Lame Obscure.md) *(A&E, MR)*
-- [Sceptre des ombres](./Sceptre des ombres.md) *(A&E, MR)*
-- [Vêtements vivants](./Vêtements vivants.md) *(MR)*
+- [[Carreau du spéléologue]] *(CM)*
+- [[Gants dextraction|Gants d'extraction]] *(CM)*
+- [[Lame obscure]] *(A&E, MR)*
+- [[Sceptre des ombres]] *(A&E, MR)*
+- [[Vêtements vivants]] *(MR)*
 
 #### Options de classe
 - Découvertes d'alchimiste
-  - [Bombe de l’étoile noire](./découvertes.md#BOMBEDELETOILENOIRE)* *(CM)*
-  - [Bombe du néant](./découvertes.md#BOMBEDUNEANT)* *(CM)*
+  - [[Découvertes#BOMBEDELETOILENOIRE|Bombe de l’étoile noire]]* *(CM)*
+  - [[Découvertes#BOMBEDUNEANT|Bombe du néant]]* *(CM)*
 
 #### Sorts
-- [Nuage de toile](./Nuage de toile.md) *(MR)*
-- [Nuée distordante](./Nuée distordante.md) *(ISR)*
-- [Projectile de toile](./Projectile de toile.md) *(MR)*
-- [Régression ancestrale](./Régression ancestrale.md) *(MR)*
+- [[Nuage de toile]] *(MR)*
+- [[Nuée distordante]] *(ISR)*
+- [[Projectile de toile]] *(MR)*
+- [[Régression ancestrale]] *(MR)*
 
 </td></tr></table>
 

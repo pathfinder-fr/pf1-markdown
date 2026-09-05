@@ -13,11 +13,11 @@ Categories:
 
 *Le personnage peut battre ses adversaires à l’aide du pouvoir mystique qui circule dans ses armes.*
 
-**Catégorie.** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+**Catégorie.** [[dons#MAITRISEDOBJET|maîtrise d’objet]]
 
-**Conditions.** 2 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md), bonus de base de [Vigueur](./Vigueur.md) +3
+**Conditions.** 2 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]], bonus de base de [[Vigueur]] +3
 
-**Avantages.** Par une [action immédiate](./Action immédiate.md), lorsque le personnage manie une arme magique avec une propriété spéciale infligeant des dégâts supplémentaires d’acide, d’électricité, de feu, de froid ou de son au touché, il inflige 1d4 points de dégâts supplémentaires du même type d'énergie chaque fois qu'il touche sa cible avec pendant 1 [round](./round.md).
+**Avantages.** Par une [[action immédiate]], lorsque le personnage manie une arme magique avec une propriété spéciale infligeant des dégâts supplémentaires d’acide, d’électricité, de feu, de froid ou de son au touché, il inflige 1d4 points de dégâts supplémentaires du même type d'énergie chaque fois qu'il touche sa cible avec pendant 1 [[round]].
 
 (((Weapon Evoker Mastery (Item Mastery)
 

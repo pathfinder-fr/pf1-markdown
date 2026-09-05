@@ -14,26 +14,26 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.191}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille G, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille G, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 13, pris au dépourvu 16 (Dex +3, esquive +1, naturelle +7, taille -1)}
 {s:BDTexte|**pv** 67 (9d10+18)}
 {s:BDTexte|**Réf** +9, **Vig** +7, **Vol** +11}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 18 m (12 {s:c})}
-{s:BDTexte|**Corps à corps** *dague +1*, +13/+8 (1d4+4/19-20), contact, +7 (1d4 [diminution permanente](./diminution permanente.md) 1d4 [Sagesse](./Sagesse.md)), 2 griffes, +7 (1d4+2)}
+{s:BDTexte|**Corps à corps** *dague +1*, +13/+8 (1d4+4/19-20), contact, +7 (1d4 [[diminution permanente]] 1d4 [[Sagesse]]), 2 griffes, +7 (1d4+2)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDTexte|**Attaques spéciales** absorption de Sagesse}
 {s:BDTexte|**Sorts connus** (NLS 9<sup>e</sup>)}
-{s:BDSorts|À volonté — *[déguisement](./sort Déguisement.md)*, *[ventriloquie](./Ventriloquie.md)*}
-{s:BDSorts|3/jour — *[charme-monstre](./Charme-monstre.md)* (DD 15), *[image accomplie](./Image accomplie.md)* (DD 14), *[image miroir](./Image miroir.md)*, *[suggestion](./Suggestion.md)* (DD 14)}
-{s:BDSorts|1/jour — *[sommeil profond](./Sommeil profond.md)* (DD 14)}
+{s:BDSorts|À volonté — *[[sort déguisement|déguisement]]*, *[[ventriloquie]]*}
+{s:BDSorts|3/jour — *[[charme-monstre]]* (DD 15), *[[image accomplie]]* (DD 14), *[[image miroir]]*, *[[suggestion]]* (DD 14)}
+{s:BDSorts|1/jour — *[[sommeil profond]]* (DD 14)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 16, **Con** 14, **Int** 13, **Sag** 17, **Cha** 13}
-{s:BDTexte|**BBA** +9, **BMO** +14, **DMD** 28 (32 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque éclair](./Attaque éclair.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +9, [Connaissances](./Connaissances.md) (religion) +4, [Déguisement](./Déguisement.md) +6, [Diplomatie](./Diplomatie.md) +4, [Discrétion](./Discrétion.md) +15, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +15, [Survie](./Survie.md) +12 ; **Modificateurs raciaux** [Bluff](./Bluff.md) +4, [Discrétion](./Discrétion.md) +4}
+{s:BDTexte|**BBA** +9, **BMO** +14, **DMD** 28 (32 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque éclair]], [[Esquive]], [[Souplesse du serpent]], [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Bluff]] +9, [[Connaissances]] (religion) +4, [[Déguisement]] +6, [[Diplomatie]] +4, [[Discrétion]] +15, [[Intimidation]] +10, [[Perception]] +15, [[Survie]] +12 ; **Modificateurs raciaux** [[Bluff]] +4, [[Discrétion]] +4}
 {s:BDTexte|**Langues** abyssal, commun}
 {s:BDTexte|**Particularités** armes de taille inférieure}
 {s:BDSousTitre|Écologie}
@@ -41,8 +41,8 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou culte (3-12)}
 {s:BDTexte|**Trésor** double (*dague +1*, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Absorption de Sagesse (Sur).** Les lamies infligent une [diminution permanente](./diminution permanente.md) de 1d4 points de [Sagesse](./Sagesse.md) chaque fois qu'elles touchent un adversaire à l'aide de leur attaque de contact (contrairement aux autres attaque d'absorption, cette capacité ne permet pas à la lamie de se guérir). Les lamies tentent d'utiliser ce pouvoir assez tôt dans les rencontres pour rendre leurs adversaires plus vulnérables aux sorts de *[charme-monstre](./Charme-monstre.md)* et de *[suggestion](./Suggestion.md)*.}
-{s:BDTexte|**Armes de taille inférieure (Ext).** Même si les lamies sont des créatures de taille G, la partie supérieure de leur corps correspond aux dimensions d'un [humanoïde](./type Humanoïde.md) de taille M. Elles manient donc les armes comme si elles appartenaient à la catégorie de taille directement inférieure à la leur (taille M dans la plupart des cas).}
+{s:BDTexte|**Absorption de Sagesse (Sur).** Les lamies infligent une [[diminution permanente]] de 1d4 points de [[Sagesse]] chaque fois qu'elles touchent un adversaire à l'aide de leur attaque de contact (contrairement aux autres attaque d'absorption, cette capacité ne permet pas à la lamie de se guérir). Les lamies tentent d'utiliser ce pouvoir assez tôt dans les rencontres pour rendre leurs adversaires plus vulnérables aux sorts de *[[charme-monstre]]* et de *[[suggestion]]*.}
+{s:BDTexte|**Armes de taille inférieure (Ext).** Même si les lamies sont des créatures de taille G, la partie supérieure de leur corps correspond aux dimensions d'un [[type humanoïde|humanoïde]] de taille M. Elles manient donc les armes comme si elles appartenaient à la catégorie de taille directement inférieure à la leur (taille M dans la plupart des cas).}
 </div>
 </td><td><div>*Cette créature ressemble à une femme avenante aux yeux félins et aux dents acérées mais, sous la taille, elle a le corps d’un lion.*
 

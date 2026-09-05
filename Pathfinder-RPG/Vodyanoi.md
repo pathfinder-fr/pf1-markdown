@@ -10,8 +10,8 @@ LastModified: 2021-02-23 17:52
 {s:pucem|Humanoïde monstrueux|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.278*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([Aquatique](./sous-type aquatique.md)) de taille M, CN}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type Aquatique|Aquatique]]) de taille M, CN}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 15, pris au dépourvu 14 (Dex +4, esquive +1, naturelle +4)}
 {s:BDTexte|**pv** 51 (6d10+18)}
@@ -22,23 +22,23 @@ LastModified: 2021-02-23 17:52
 {s:BDTexte|**À distance** épieu, +10 (1d6+3)}
 {s:BDTexte|**Attaques spéciales** eaux asphyxiantes}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6 ; concentration +7)}
-{s:BDSorts|3/jour — *[contrôle de l’eau](./Contrôle de leau.md)*, *[graisse](./Graisse.md)* (DD 12), *[lumières dansantes](./Lumières dansantes.md)*,
-*[poussée hydraulique](./Poussée hydraulique.md)* (DD 12), *[respiration aquatique](./Respiration aquatique.md)*}
-{s:BDSorts|1/jour — *[guérison des maladies](./Guérison des maladies.md)*, *[neutralisation du poison](./Neutralisation du poison.md)*, *[orbe aqueux](./Orbe aqueux.md)* (DD 14)}
+{s:BDSorts|3/jour — *[[contrôle de leau|contrôle de l’eau]]*, *[[graisse]]* (DD 12), *[[lumières dansantes]]*,
+*[[poussée hydraulique]]* (DD 12), *[[respiration aquatique]]*}
+{s:BDSorts|1/jour — *[[guérison des maladies]]*, *[[neutralisation du poison]]*, *[[orbe aqueux]]* (DD 14)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 19, **Con** 17, **Int** 13, **Sag** 20, **Cha** 12}
 {s:BDTexte|**BBA** +6, **BMO** +9, **DMD** 24}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Premiers secours](./Premiers secours.md))}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (mystères) +3, [Connaissances](./Connaissances.md) (nature) +5, [Diplomatie](./Diplomatie.md) +3, [Natation](./Natation.md) +18, [Perception](./Perception.md) +14, [Premiers secours](./Premiers secours.md) +18, [Psychologie](./Psychologie.md) +11}
+{s:BDTexte|**Dons** [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Premiers secours]])}
+{s:BDTexte|**Compétences** [[Connaissances]] (mystères) +3, [[Connaissances]] (nature) +5, [[Diplomatie]] +3, [[Natation]] +18, [[Perception]] +14, [[Premiers secours]] +18, [[Psychologie]] +11}
 {s:BDTexte|**Modificateur racial** +4 en Premiers secours}
 {s:BDTexte|**Langues** aquatique, commun, sylvestre}
-{s:BDTexte|**particularité** [amphibie](./Amphibie (capacité).md)}
+{s:BDTexte|**particularité** [[amphibie (capacité)|amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** rivières et marais}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou famille (3-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs Spéciaux}
-{s:BDTexte|**Eaux asphyxiantes (Sur).** Une fois par jour, par une [action simple](./Action simple.md), le vodyanoi peut transformer l’eau qui l’entoure dans un [rayon](./rayon.md) de 9 mètres maximum en un liquide épais et visqueux qui fait que les créatures respirant sous l’eau dans cette zone, autres que les vodyanois, ont du mal à respirer. Le vodyanoi peut contrôler de minces courants d’eau respirable de manière à approvisionner jusqu’à 3 créatures en oxygène dans la zone d’effet : les vodyanois, eux, sont immunisés contre cet effet. Toutes les autres créatures présentes dans la zone d’eau asphyxiante doivent retenir leur souffle ou risquer l’étouffement. Lorsqu’une zone d’eau asphyxiante est créée, elle reste immobile et se maintient un nombre de minutes équivalent aux dés de vie du vodyanoi. L’eau gluante n’affecte aucunement la vitesse de nage ni la visibilité. Les créatures peuvent faire un test de [Perception](./Perception.md) de [DD](./DD.md) 20 pour détecter la différence entre l’eau asphyxiante et l’eau normale qui l’entoure.}
+{s:BDTexte|**Eaux asphyxiantes (Sur).** Une fois par jour, par une [[action simple]], le vodyanoi peut transformer l’eau qui l’entoure dans un [[rayon]] de 9 mètres maximum en un liquide épais et visqueux qui fait que les créatures respirant sous l’eau dans cette zone, autres que les vodyanois, ont du mal à respirer. Le vodyanoi peut contrôler de minces courants d’eau respirable de manière à approvisionner jusqu’à 3 créatures en oxygène dans la zone d’effet : les vodyanois, eux, sont immunisés contre cet effet. Toutes les autres créatures présentes dans la zone d’eau asphyxiante doivent retenir leur souffle ou risquer l’étouffement. Lorsqu’une zone d’eau asphyxiante est créée, elle reste immobile et se maintient un nombre de minutes équivalent aux dés de vie du vodyanoi. L’eau gluante n’affecte aucunement la vitesse de nage ni la visibilité. Les créatures peuvent faire un test de [[Perception]] de [[DD]] 20 pour détecter la différence entre l’eau asphyxiante et l’eau normale qui l’entoure.}
 </div>
 </td><td><div>*Cette salamandre humanoïde tient un bâton noueux dans une main. Les petits tentacules qui couvrent son menton ressemblent à une barbe d’ermite excentrique.*
 

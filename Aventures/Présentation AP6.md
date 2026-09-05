@@ -8,7 +8,7 @@ Categories:
 
 ***Les Terres Volées, une contrée sauvage et dangereuse, se trouvent dans la partie nord des Royaumes Fluviaux, des royaumes qui attendent d'être conquis ! Mais ceux qui vont devenir les dirigeants de ces nouvelles terres apprendront bien vite qu'il ne suffit pas de s'approprier un royaume pour le conserver. Les héros pourront-ils protéger leur territoire contre des ennemis jaloux et dangereux ?***
 
-Vous trouverez les aides de jeu relatives à cette campagne sur [cette page](./Aides de jeu AP6.md).
+Vous trouverez les aides de jeu relatives à cette campagne sur [[Aides de jeu AP6|cette page]].
 
 Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&m=14542&#post14542).
 
@@ -19,7 +19,7 @@ Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfind
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9000-6E_500.jpeg|http://paizo.com/products/btpy8dqh}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/204_Pathfinder__Le_Guide_du_Joueur_de_Kingmaker.jpg|https://www.black-book-editions.fr/produit.php?id=112}
 {s:BookComment|(livret de 16 p et pdf)
-Il s'agit d'un document PDF gratuit téléchargeable en suivant un des deux liens représentés par les images. Son contenu est également repris dans le Guide du Joueur disponible dans les [aides de jeu](./../Golarion/Aides de jeu.md) pour Golarion.}
+Il s'agit d'un document PDF gratuit téléchargeable en suivant un des deux liens représentés par les images. Son contenu est également repris dans le Guide du Joueur disponible dans les [[Golarion.Aides de jeu|aides de jeu]] pour Golarion.}
 {s:BookTitle|AP6-1|Stolen Land/Terres Volées}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9031_120.jpeg|http://paizo.com/products/btpy88wf}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/163_Pathfinder_31.jpg|https://www.black-book-editions.fr/produit.php?id=108}
@@ -28,7 +28,7 @@ Il s'agit d'un document PDF gratuit téléchargeable en suivant un des deux lien
 Pénétrez dans les Terres Volées, une contrée sauvage pour laquelle des nobles, des bandits et des bêtes s'entre-déchirent. C'est sur ces terres que le pays divisé du Brévoy a envoyé des émissaires chargés de prendre le contrôle de ces individus sans loi et des créatures mortelles qui en ont fait un lieu sauvage et honteux. Derrière la frontière escarpée s'étend un pays abritant des monstres voraces, des fées capricieuses, des locaux rusés et des bandits soumis aux ordres d'un seigneur que personne n'ose défier. Les PJ parviendront-ils à survivre aux Terres Volées, à écraser les dangers qui y sont tapis et à établir les fondements d'un nouveau royaume ? Ou ne seront-ils qu'un groupe de plus dans la liste de ceux qui se sont perdus à tout jamais dans ces étendues sauvages et voraces ?  
   
 
-**Articles :** le pays du [Brévoy](./../Golarion/Brévoy.md), des règles pour l'exploration et la conquête d'un nouveau royaume}
+**Articles :** le pays du [[Golarion.Brévoy|Brévoy]], des règles pour l'exploration et la conquête d'un nouveau royaume}
 {s:BookTitle|AP6-2|Rivers Run Red/Quand les rivières se teintent de rouge}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9032_120.jpeg|http://paizo.com/products/btpy88wg}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/211_Pathfinder_32_Quand_les_rivieres_se_teintent_de_ro.jpg|https://www.black-book-editions.fr/produit.php?id=110}
@@ -37,7 +37,7 @@ Pénétrez dans les Terres Volées, une contrée sauvage pour laquelle des noble
 Le coeur des Terres Volées a été exploré et les bandits qui y régnaient ont été dispersés. Ce royaume que de nombreuses personnes se sont déchiré est enfin ouvert aux pionniers et aux colons qui veulent s'en approprier. Avec le flot des nombreux voyageurs qui profitent de l'occasion, les PJ se retrouvent chargés de régenter un nouveau domaine. Ils doivent guider et protéger cette nation naissante qui tente tant bien que mal de croître près d'une frontière dangereuse. Mais les menaces qui pèsent sur ce nouveau pays sont bien plus dangereuses que de simples animaux sauvages et bandits, car les habitants monstrueux des collines et des forêts s'avancent pour terrasser tous ceux qui ont pénétré sur leur territoire; Les PJs peuvent-ils protéger ces terres qu'ils ont explorées et domptées avec tant de peine ? Ou leur histoire disparaîtra-t-elle sous les crocs des Terres Dérobées ?  
   
 
-**Articles :** règles pour gouverner des villes et des nations, le dieu [Érastil](./../Golarion/Érastil.md)}
+**Articles :** règles pour gouverner des villes et des nations, le dieu [[Golarion.Érastil|Érastil]]}
 {s:BookTitle|AP6-3|The Varnhold Vanishing/Les disparus de Varnhold}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9033_120.jpeg|http://paizo.com/products/btpy88wh}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/215_Pathfinder_33_Les_DIsparus_de_Varnhold.jpg|https://www.black-book-editions.fr/produit.php?id=126}
@@ -64,7 +64,7 @@ Les héros se sont emparés des Terres Volées après avoir vaincu des seigneurs
 La Guerre des rois fluviaux bat son plein à travers les Terres Volées, opposant les forces des héros à une alliance de barbares, de rois bandits et de créatures féeriques sinistres. Les Terres Volées ne peuvent avoir qu'un seul dirigeant et ce dirigeant doit prouver qu'il mérite ce poste sur le champ de bataille.  
   
 
-**Articles :** règles pour les combats de masse, la ville de Pitax, le dieu [Gorum](./../Golarion/Gorum.md)}
+**Articles :** règles pour les combats de masse, la ville de Pitax, le dieu [[Golarion.Gorum|Gorum]]}
 {s:BookTitle|AP6-6|Sound of a Thousand Screams/Un millier de hurlements}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9036_120.jpeg|http://paizo.com/products/btpy8b7x}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/244_Pathfinder_36.jpg|https://www.black-book-editions.fr/produit.php?id=144}

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Boomerang
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Boomerang](./Descriptions individuelles des propriétés spéciales des armes.md#Boomerang)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Boomerang]]

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#OPPORTUNISME
 ---
 
->>> [Talents#OPPORTUNISME](./Talents.md#OPPORTUNISME)
+>>> [[Talents#OPPORTUNISME]]

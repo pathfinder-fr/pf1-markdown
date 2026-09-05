@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.44*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille M, NM}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, NM}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)}
 {s:BDTexte|**pv** 30 (4d10+8)}
@@ -22,22 +22,22 @@ Categories:
 {s:BDTexte|**RD** 5/argent }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD**  12 m (8 {s:c}), vol  18 m (12 {s:c}) (bonne)}
-{s:BDTexte|**Corps à corps** morsure +7 (2d6+4 et morsure sinistre et [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** morsure +7 (2d6+4 et morsure sinistre et [[croc-en-jambe]])}
 {s:BDTexte|**Attaques spéciales** aboiement}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 15, **Con** 15, **Int** 6, **Sag** 14, **Cha** 10}
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 19 (23 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Vol](./Vol.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +9, [Survie](./Survie.md) +9, [Vol](./Vol.md) +16}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Vol]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +9, [[Perception]] +9, [[Survie]] +9, [[Vol]] +16}
 {s:BDTexte|**Langues** abyssal ou infernal (ne peut pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (6-11)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Aboiement (Sur)** Lorsqu'un chien hurleur aboie ou hurle, toutes les créatures autres que des [Extérieurs](./type Extérieur.md) mauvais situées dans une étendue de  90 m (60 {s:c}) doivent réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 12 pour ne pas être [paniquées](./Paniqué.md) pendant 2d4 rounds. Il s'agit d'un effet mental de son et de terreur. Quel que soit le résultat du [jet de sauvegarde](./jet de sauvegarde.md), les créatures soumises à cet effet sont immunisées contre les aboiements du chien hurleur pendant 24 heures. Le [DD](./DD.md) dépend du [Charisme](./Charisme.md).}
-{s:BDTexte|**Morsure sinistre (Sur)** Les morsures des chiens hurleurs ignorent les [réductions de dégâts](./RD.md) comme s'il s'agissait d'armes d'alignement Mauvais. De plus, les créatures d'alignement Bon mordues par un chien hurleur doivent réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 14 pour ne pas êtres [secouées](./Secoué.md) pendant 1 round. Si la victime mordue est déjà affectée par un effet de terreur (les conséquences de l'aboiement du chien hurleur par exemple), elle n'est pas seulement [secouée](./Secoué.md) mais totalement terrassée par la peur, incapable de faire quoi que ce soit si ce n'est se recroqueviller sur elle-même pendant 1 round. Il s'agit d'un effet mental de terreur. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Vol (Sur)** Les chiens hurleurs peuvent activer ou désactiver leur capacité de vol par une [action libre](./Action libre.md).}
+{s:BDTexte|**Aboiement (Sur)** Lorsqu'un chien hurleur aboie ou hurle, toutes les créatures autres que des [[type Extérieur|Extérieurs]] mauvais situées dans une étendue de  90 m (60 {s:c}) doivent réussir un jet de [[Volonté]] de [[DD]] 12 pour ne pas être [[paniqué|paniquées]] pendant 2d4 rounds. Il s'agit d'un effet mental de son et de terreur. Quel que soit le résultat du [[jet de sauvegarde]], les créatures soumises à cet effet sont immunisées contre les aboiements du chien hurleur pendant 24 heures. Le [[DD]] dépend du [[Charisme]].}
+{s:BDTexte|**Morsure sinistre (Sur)** Les morsures des chiens hurleurs ignorent les [[RD|réductions de dégâts]] comme s'il s'agissait d'armes d'alignement Mauvais. De plus, les créatures d'alignement Bon mordues par un chien hurleur doivent réussir un jet de [[Volonté]] de [[DD]] 14 pour ne pas êtres [[secoué|secouées]] pendant 1 round. Si la victime mordue est déjà affectée par un effet de terreur (les conséquences de l'aboiement du chien hurleur par exemple), elle n'est pas seulement [[secoué|secouée]] mais totalement terrassée par la peur, incapable de faire quoi que ce soit si ce n'est se recroqueviller sur elle-même pendant 1 round. Il s'agit d'un effet mental de terreur. Le [[DD]] dépend de la [[Constitution]].}
+{s:BDTexte|**Vol (Sur)** Les chiens hurleurs peuvent activer ou désactiver leur capacité de vol par une [[action libre]].}
 </div>
 </td><td><div>*Une étrange aura de menace et de cruauté semble émaner de ce chien émacié et complètement glabre.*
 

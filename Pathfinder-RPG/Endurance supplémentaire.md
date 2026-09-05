@@ -8,12 +8,12 @@ Categories:
 - Src Pathfinder unchained
 ---
 
-{s:Desambi|Ce don est prévu pour fonctionner avec le système de [réserve d’endurance](./Endurance et Astuces martiales.md#La_réserve_dendurance_0) introduit dans Pathfinder unchained, consultez votre MJ pour savoir s'il l'accepte.}{s:PU}*Le personnage repousse ses limites.*
+{s:Desambi|Ce don est prévu pour fonctionner avec le système de [[Endurance et Astuces martiales#La_réserve_dendurance_0|réserve d’endurance]] introduit dans Pathfinder unchained, consultez votre MJ pour savoir s'il l'accepte.}{s:PU}*Le personnage repousse ses limites.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Endurance combative](./Endurance combative.md), [BBA](./BBA.md) +5
+**Conditions.** [[Endurance combative]], [[BBA]] +5
 
-**Avantages.** La [réserve d’endurance](./Endurance et Astuces martiales.md#La_réserve_dendurance_0) du personnage augmente de 3 points.
+**Avantages.** La [[Endurance et Astuces martiales#La_réserve_dendurance_0|réserve d’endurance]] du personnage augmente de 3 points.
 
 **Spécial.** Le personnage peut choisir ce don jusqu’à trois fois, sa réserve d’endurance augmentant à chaque fois de 3 points.

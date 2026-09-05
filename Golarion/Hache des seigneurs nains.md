@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Hache des seigneurs nains.md).***
+***Voir les [[Pathfinder-RPG.Hache des seigneurs nains|statistiques de cet artefact]].***
 
 Le manche solide de cette hache de guerre naine est parcouru de veines d’argent scintillantes tandis que les faces de sa lame sont gravées d’images de gloires anciennes.
 

@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-La série de statues de Givecrâne est taillée dans la roche et représente des têtes gigantesques. Du haut de la montagne, toutes ces têtes fixent l’Ouest. Cependant elles restent un mystère total pour les érudits car on ne sait rien d’autre à leur sujet. Il faut dire qu’elles se situent sur le repaire d’[Arkrhyst](./Arkrhyst.md) un [dragon](./Dragons.md) blanc qui n’aime pas les visites.
+La série de statues de Givecrâne est taillée dans la roche et représente des têtes gigantesques. Du haut de la montagne, toutes ces têtes fixent l’Ouest. Cependant elles restent un mystère total pour les érudits car on ne sait rien d’autre à leur sujet. Il faut dire qu’elles se situent sur le repaire d’[[Arkrhyst]] un [[dragons|dragon]] blanc qui n’aime pas les visites.

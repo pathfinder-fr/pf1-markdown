@@ -13,11 +13,11 @@ Categories:
 
 *Le personnage peut utiliser certains objets magiques pour alimenter ses pouvoirs innés.*
 
-**Catégorie.** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+**Catégorie.** [[dons#MAITRISEDOBJET|maîtrise d’objet]]
 
-**Conditions.** 6 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md), bonus de base de [Vigueur](./Vigueur.md) +3
+**Conditions.** 6 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]], bonus de base de [[Vigueur]] +3
 
-**Avantages.** Le personnage peut se concentrer sur un objet associé à sa race pour utiliser un pouvoir magique racial qu'il possède sans dépenser aucune des utilisations quotidiennes de ce pouvoir magique. Un pouvoir magique racial correspond à tout pouvoir magique que le personnage a obtenu par le biais d’un trait racial, d’un don ou d’un trait dont sa race est une condition ou d’une option de classe ou d’un archétype qui n’est accessible qu’aux membres de sa race. Le personnage doit utiliser un objet dont l’un des sorts nécessaires à sa fabrication correspond à la même école et au même niveau que ceux du pouvoir magique qu'il souhaite utiliser. Le personnage peut utiliser ce don une fois par jour et une fois supplémentaire lorsque son bonus de base de [Vigueur](./Vigueur.md) atteint +9 et +12.
+**Avantages.** Le personnage peut se concentrer sur un objet associé à sa race pour utiliser un pouvoir magique racial qu'il possède sans dépenser aucune des utilisations quotidiennes de ce pouvoir magique. Un pouvoir magique racial correspond à tout pouvoir magique que le personnage a obtenu par le biais d’un trait racial, d’un don ou d’un trait dont sa race est une condition ou d’une option de classe ou d’un archétype qui n’est accessible qu’aux membres de sa race. Le personnage doit utiliser un objet dont l’un des sorts nécessaires à sa fabrication correspond à la même école et au même niveau que ceux du pouvoir magique qu'il souhaite utiliser. Le personnage peut utiliser ce don une fois par jour et une fois supplémentaire lorsque son bonus de base de [[Vigueur]] atteint +9 et +12.
 
 (((Racial Item Mastery (Item Mastery)
 

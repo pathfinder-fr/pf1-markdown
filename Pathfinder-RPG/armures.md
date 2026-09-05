@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Tableau récapitulatif des armures
 ---
 
->>> [Tableau récapitulatif des armures](./Tableau récapitulatif des armures.md)
+>>> [[Tableau récapitulatif des armures]]

@@ -13,10 +13,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Manchot|FP 1/3}
 {s:pucem|Animal|Aquatique|Froid}
-{s:BDTexte|*Source : [Bestiaire 5 p.121](./Bestiaire 5 (Contenu).md), Familiar Folio p.27*}
+{s:BDTexte|*Source : [[Bestiaire 5 (Contenu)|Bestiaire 5 p.121]], Familiar Folio p.27*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 10, pris au dépourvu 11 (Dex -1, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 9, **Dex** 8, **Con** 13, **Int** 2, **Sag** 12, **Cha** 7}
 {s:BDTexte|**BBA** +0 ; **BMO** -2 ; **DMD** 7}
-{s:BDTexte|**Dons** [Talent](./Talent.md) (Perception)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +7, [Perception](./Perception.md) +8}
-{s:BDTexte|**Particularités** [Retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**Dons** [[Talent]] (Perception)}
+{s:BDTexte|**Compétences** [[Natation]] +7, [[Perception]] +8}
+{s:BDTexte|**Particularités** [[Retenir son souffle (capacité)|Retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans froids}
 {s:BDTexte|**Organisation** solitaire, couple ou colonie (100-1000)}

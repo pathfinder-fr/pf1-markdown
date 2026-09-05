@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 25 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
 Ce tube de 30 centimètres de long porte des repères pour la température de congélation de l'eau de mer, d’une journée de printemps habituelle à la Ville au centre du monde, et la température d'ébullition de la glace fondue. Des températures bien inférieures au point de congélation ou supérieures au point d'ébullition cassent l'appareil.

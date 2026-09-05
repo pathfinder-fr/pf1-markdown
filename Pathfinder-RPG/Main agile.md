@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#MAINAGILE
 ---
 
->>> [Talents#MAINAGILE](./Talents.md#MAINAGILE)
+>>> [[Talents#MAINAGILE]]

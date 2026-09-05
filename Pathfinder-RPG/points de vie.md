@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#POINTSDEVIE
 ---
 
->>> [Vocabulaire courant#POINTSDEVIE](./Vocabulaire courant.md#POINTSDEVIE)
+>>> [[Vocabulaire courant#POINTSDEVIE]]

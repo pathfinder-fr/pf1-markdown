@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:racial|Samsaran (race)|samsarans|Illustrations/PNJ/Samsaran.jpg}{s:MR}
-**École** [Divination](./Divination.md) <nowiki>[</nowiki>[Bien](./Créer un sort.md#BIEN)<nowiki>]</nowiki> ; **Niveau** [Prê](./Prêtre.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Divination]] <nowiki>[</nowiki>[[Créer un sort#BIEN|Bien]]<nowiki>]</nowiki> ; **Niveau** [[prêtre|Prê]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./contact.md)  
+**Portée** [[contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts|annule]] ; **Résistance à la magie** oui (inoffensif)
 
-La cible traite l’une des [compétences](./Compétences.md) de son choix comme une compétence de classe.
+La cible traite l’une des [[Compétences]] de son choix comme une compétence de classe.

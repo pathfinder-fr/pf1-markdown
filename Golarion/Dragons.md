@@ -6,9 +6,9 @@ LastModified: 2016-08-09 11:45
 
 Les dragons sont des monstres assoiffés de sang, ne vous y trompez pas ! Meurtrières créatures, elles n'ont de cesse de détruire toutes les autres formes de vie avec leur appétit vorace et leurs penchants pour la cruauté. Filles des démons, moi, j'voul dis !
 
-*« Girondrr Balnar »* *(paysan du [Chéliax](./Chéliax.md))*
+*« Girondrr Balnar »* *(paysan du [[Chéliax]])*
 
-Il m'est arrivé de rencontrer un superbe dragon d'argent. J'étais encore jeune capitaine d'une unité de paladin au service de [Iomédae](./Iomédae.md). Nous venions d'apprendre l'invasion prochaine d'une armée de créatures mortes-vivantes sur une petite congrégation de fidèle à [Osirion](./Osirion.md). La bataille était perdue d'avance, nous étions submergés par le nombre et par la force de nos ennemis. Et c'est là qu'il est apparu. D'un souffle il changea l'issu de la bataille et nous permit de tailler en pièces les invocateurs démoniaques. Nous ne le revîmes jamais pour le remercier d'avoir sauvé nos vies.
+Il m'est arrivé de rencontrer un superbe dragon d'argent. J'étais encore jeune capitaine d'une unité de paladin au service de [[Iomédae]]. Nous venions d'apprendre l'invasion prochaine d'une armée de créatures mortes-vivantes sur une petite congrégation de fidèle à [[Osirion]]. La bataille était perdue d'avance, nous étions submergés par le nombre et par la force de nos ennemis. Et c'est là qu'il est apparu. D'un souffle il changea l'issu de la bataille et nous permit de tailler en pièces les invocateurs démoniaques. Nous ne le revîmes jamais pour le remercier d'avoir sauvé nos vies.
 
 *« Kalib Wazira »* *(premier commandant des sabres dansants)*
 
@@ -18,21 +18,21 @@ Il m'est arrivé de rencontrer un superbe dragon d'argent. J'étais encore jeune
 Si vous posiez la question à un dragon, et qu'il n'a plus suffisamment faim pour vous mangez en retour, vous seriez surpris d'apprendre qu'ils se considèrent comme la race la plus ancienne de Golarion, des mondes aux delà des plans et des mondes au-delà des étoiles.
 Car les dragons aiment à se sentir meilleurs que les autres. Et, si votre courage (ou votre stupidité) l'amuse et que vous apportez avec vous assez de mouton pour occuper son ventre pendant les huit longues journées que durerait son récit, vous auriez peut-être l'occasion d'entendre de sa bouche l'histoire des dragons. Enfin, leur version de l'histoire.
 
-"Au commencement étaient [Apsu](./Apsu.md) et **Tiamat**. [Apsu](./Apsu.md), le mâle, était l'eau douce, et Tiamat, son épouse, était le grand océan chaotique primitif. Ils enfantèrent les premiers dieux et leurs offrirent le ciel et l'enfer comme terrain de jeux. Créant le monde et piégeant les éléments, les dieux façonnèrent la terre puis se reposèrent.
+"Au commencement étaient [[Apsu]] et **Tiamat**. [[Apsu]], le mâle, était l'eau douce, et Tiamat, son épouse, était le grand océan chaotique primitif. Ils enfantèrent les premiers dieux et leurs offrirent le ciel et l'enfer comme terrain de jeux. Créant le monde et piégeant les éléments, les dieux façonnèrent la terre puis se reposèrent.
 
-Le premier d'entre eux, [Dahak](./Dahak.md), décida de s'approprier l'enfer, et dévasta le monde pour y faire naître la peur et assoir sa puissance sur les êtres inférieurs. Et quand de nouveaux dieux naquirent des phénomènes primordiaux, il s'empressa d'en faire ses jouets et les façonna à son image, créant les premiers dragons métalliques. Il les chassa ensuite comme des animaux. [Apsu](./Apsu.md) s'opposa alors à son fils dans un grand combat. Mais au moment du coup de grâce, **Tiamat** s'interposa pour sauver ses enfants. Malheureusement, ses actes permirent à [Dahak](./Dahak.md) de corrompre le cœur de certaines de ses créations, créant les dragons chromatiques. La guerre repris, encore plus dévastatrice. Finalement, **Tiamat** s'opposa à son compagnon et provoqua l'exode des métalliques  vers une terre promise. Pourchassés par [Dahak](./Dahak.md) et les chromatiques, ils s'installèrent finalement sur Golarion."
+Le premier d'entre eux, [[Dahak]], décida de s'approprier l'enfer, et dévasta le monde pour y faire naître la peur et assoir sa puissance sur les êtres inférieurs. Et quand de nouveaux dieux naquirent des phénomènes primordiaux, il s'empressa d'en faire ses jouets et les façonna à son image, créant les premiers dragons métalliques. Il les chassa ensuite comme des animaux. [[Apsu]] s'opposa alors à son fils dans un grand combat. Mais au moment du coup de grâce, **Tiamat** s'interposa pour sauver ses enfants. Malheureusement, ses actes permirent à [[Dahak]] de corrompre le cœur de certaines de ses créations, créant les dragons chromatiques. La guerre repris, encore plus dévastatrice. Finalement, **Tiamat** s'opposa à son compagnon et provoqua l'exode des métalliques  vers une terre promise. Pourchassés par [[Dahak]] et les chromatiques, ils s'installèrent finalement sur Golarion."
 
-Cette légende est racontée dans l'un des rares textes communs des deux catégories de dragon et qui se nomme *"Et je serai [Apsu](./Apsu.md)"*. La neuvième strophe, *"Et je mettrai fin à la mort"*, revêt une importance symbolique majeure pour l'engeance des dragons métalliques.
+Cette légende est racontée dans l'un des rares textes communs des deux catégories de dragon et qui se nomme *"Et je serai [[Apsu]]"*. La neuvième strophe, *"Et je mettrai fin à la mort"*, revêt une importance symbolique majeure pour l'engeance des dragons métalliques.
 
 
 ### Croyance et Religion
-Bien que les dragons reconnaissent l'existence des dieux et des déesses des mortels, ils se considèrent comme une race bien supérieure à ces pathétiques créatures et ne vouent de véritable culte qu'aux deux seuls véritables dieux, [Apsu](./Apsu.md) et [Dahak](./Dahak.md), le père des dragons et l'éternelle destruction.
+Bien que les dragons reconnaissent l'existence des dieux et des déesses des mortels, ils se considèrent comme une race bien supérieure à ces pathétiques créatures et ne vouent de véritable culte qu'aux deux seuls véritables dieux, [[Apsu]] et [[Dahak]], le père des dragons et l'éternelle destruction.
 
-[Apsu](./Apsu.md) est vénéré par la majorité des dragons, quelle que soit leur couleur, comme le père protecteur qui protège les dragons. Vivant dans l'Éternel Déambulatoire, un demi-plan personnel en permanence reliée physiquement sur Golarion, il prépare un plan pour vaincre définitivement [Dahak](./Dahak.md). [Apsu](./Apsu.md) ressemble à un dragon vieux et fatigué, mais il reste encore une force d'une puissance incommensurable.
+[[Apsu]] est vénéré par la majorité des dragons, quelle que soit leur couleur, comme le père protecteur qui protège les dragons. Vivant dans l'Éternel Déambulatoire, un demi-plan personnel en permanence reliée physiquement sur Golarion, il prépare un plan pour vaincre définitivement [[Dahak]]. [[Apsu]] ressemble à un dragon vieux et fatigué, mais il reste encore une force d'une puissance incommensurable.
 
-[Dahak](./Dahak.md) est maudit par tous les dragons, métalliques comme chromatiques. Seuls quelques rares dragons maléfiques osent l'approcher et le soutenir, en échange de pouvoirs de destruction phénoménaux. [Dahak](./Dahak.md) ressemble à une caricature de dragon, en pointe et en arrête osseuse. Sa gueule béante pourrait dévorer n'importe quel dragon en une seule bouchée.
+[[Dahak]] est maudit par tous les dragons, métalliques comme chromatiques. Seuls quelques rares dragons maléfiques osent l'approcher et le soutenir, en échange de pouvoirs de destruction phénoménaux. [[Dahak]] ressemble à une caricature de dragon, en pointe et en arrête osseuse. Sa gueule béante pourrait dévorer n'importe quel dragon en une seule bouchée.
 
-Les dragons partagent la croyance dans une fin du monde prochaine. Lors du dernier Vol, le monde sera détruit et les dragons dont la dépouille gît à la fin des dragons transformeront en flamme le monde. Quand la guerre sera finie, [Apsu](./Apsu.md) règnera sur les survivants et le monde appartiendra aux dragons, prêt pour une nouvelle vie.
+Les dragons partagent la croyance dans une fin du monde prochaine. Lors du dernier Vol, le monde sera détruit et les dragons dont la dépouille gît à la fin des dragons transformeront en flamme le monde. Quand la guerre sera finie, [[Apsu]] règnera sur les survivants et le monde appartiendra aux dragons, prêt pour une nouvelle vie.
 
 
 ### Langue
@@ -83,7 +83,7 @@ Liés aux vertus **du mal et de la destruction**, les dragons chromatiques sont 
 
 
 #### Les bizarreries
-**Les dragons gris** sont issus de l'ancien clan des dragons de platines maudits par [Dahak](./Dahak.md). Sans couleurs ni métal, ils sont parias dans les deux tribus de dragons. **Les abominations** sont issues d'un mélange malsain entre chromatiques et métalliques. **Les dragons célestes** sont une race draconienne du Tian Xia qui ne possède pas d'ailes et ne sont à priori pas liés aux dragons de Golarion.
+**Les dragons gris** sont issus de l'ancien clan des dragons de platines maudits par [[Dahak]]. Sans couleurs ni métal, ils sont parias dans les deux tribus de dragons. **Les abominations** sont issues d'un mélange malsain entre chromatiques et métalliques. **Les dragons célestes** sont une race draconienne du Tian Xia qui ne possède pas d'ailes et ne sont à priori pas liés aux dragons de Golarion.
 
 
 ### Curiosités
@@ -92,6 +92,6 @@ Les dragons cachent deux curiosités qui renseignent le néophyte sur une partie
 Les dragons sont aussi d'incroyable mathématicien, spécialisé dans la numérologie. Les érudits dragons sont littéralement obsédés par les nombres, en particulier les nombres de pouvoirs, comme le numéro dix qui porte chance, ou encore le chiffre sept qui correspond au corps des dragons. De nombreux érudits dragons travaillent sur des formules mathématiques très complexes pour tenter de mettre en évidence le nombre parfait, capable de modifier le destin de toute la race.
 
 {s:VoirAussiAvant}
-{s:VoirAussiElem|Plus d'informations sur l'histoire des dragons dans l'aide de jeu [Les dragons](./Aides de jeu.md#Rapports_déclaireurs_relatifs_à_certaines_créatures_2), voir la page sur [les aides de jeu pour Golarion](./Aides de jeu.md).}
-{s:VoirAussiElem|Plus d'informations sur les dragons dans le livre en VO, [Dragons Revisited](./Publications.md#DRAGONSREVISITED), voir la page sur [les publications sur le monde de Golarion](./Publications.md).}
+{s:VoirAussiElem|Plus d'informations sur l'histoire des dragons dans l'aide de jeu [[Golarion.Aides de jeu#Rapports_déclaireurs_relatifs_à_certaines_créatures_2|Les dragons]], voir la page sur [[Golarion.Aides de jeu|les aides de jeu pour Golarion]].}
+{s:VoirAussiElem|Plus d'informations sur les dragons dans le livre en VO, [[Golarion.Publications#DRAGONSREVISITED|Dragons Revisited]], voir la page sur [[Golarion.Publications|les publications sur le monde de Golarion]].}
 {s:VoirAussiAprès}

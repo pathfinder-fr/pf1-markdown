@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Plaines|Tempéré}
 {s:BDTexte|*Sources : Bestiaire 3 page 155, [blog Paizo](http://paizo.com/paizo/blog/v5748dyo5lcus?Misfit-LoveKamadan-CR-4)*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 12 cases, [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 12 cases, [[vision nocturne]], [[odorat]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 12, pris au dépourvu 14 (Dex +2, esquive +1, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 42 (5d10+15)}
@@ -24,13 +24,13 @@ Categories:
 {s:BDTexte|**VD** 12 m (8 cases)}
 {s:BDTexte|**Corps à corps** morsure, +7 (1d6+3) et 2 griffes, +7 (1d3+3) et serpents, +2 (1d4+1)}
 {s:BDTexte|**Espace** 3 m (2 cases) ; **Allonge** 1,5 m soit 1 case (3 m soit 2 cases avec serpents)}
-{s:BDTexte|**Attaques spéciales** souffle (cône de 6 cases, sommeil, [Vigueur](./Vigueur.md) [DD](./DD.md) 15 annule, utilisable tous les 1d4 rounds), [bond](./Bond.md)}
+{s:BDTexte|**Attaques spéciales** souffle (cône de 6 cases, sommeil, [[Vigueur]] [[DD]] 15 annule, utilisable tous les 1d4 rounds), [[bond]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 15, **Con** 16, **Int** 5, **Sag** 12, **Cha** 9}
-{s:BDTexte|**BBA** +5, **BMO** +9, **DMD** 22 (26 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +6 (+10 pour le saut), [Discrétion](./Discrétion.md) +6, [Perception](./Perception.md) +8}
-{s:BDTexte|**Modificateur racial** [Discrétion](./Discrétion.md) +4}
+{s:BDTexte|**BBA** +5, **BMO** +9, **DMD** 22 (26 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Esquive]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +6 (+10 pour le saut), [[Discrétion]] +6, [[Perception]] +8}
+{s:BDTexte|**Modificateur racial** [[Discrétion]] +4}
 {s:BDTexte|**Langues** aklo}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines chaudes ou tempérées}
@@ -38,7 +38,7 @@ Categories:
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
 {s:BDTexte|**Serpents (Ext)** Les serpents du kamadan attaquent simultanément : il s’agit toujours d’une attaque secondaire.}
-{s:BDTexte|**Souffle (Sur).** Le kamadan peut cracher un cône de gaz qui endort les créatures vivantes pendant 5 minutes ([Vigueur](./Vigueur.md) [DD](./DD.md) 15, annule). Les coups ou les blessures réveillent les créatures endormies mais pas le bruit normal. Il s’agit d’un effet de sommeil. Le DD du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Souffle (Sur).** Le kamadan peut cracher un cône de gaz qui endort les créatures vivantes pendant 5 minutes ([[Vigueur]] [[DD]] 15, annule). Les coups ou les blessures réveillent les créatures endormies mais pas le bruit normal. Il s’agit d’un effet de sommeil. Le DD du jet de sauvegarde est basé sur la [[Constitution]].}
 </div>
 
 {s:ImageCentre|Bestiaire/Kamadan.jpg|90%}

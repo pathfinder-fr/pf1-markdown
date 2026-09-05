@@ -10,11 +10,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Armure mange-pierre|{s:AMH}}
-**Auras** [Abjuration](./Abjuration.md) et [évocation](./Évocation.md) modérées ; **NLS** 10 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 8 950 po ; **Poids** 37,5 kg
+**Auras** [[Abjuration]] et [[évocation]] modérées ; **NLS** 10 ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Prix** 8 950 po ; **Poids** 37,5 kg
 (((Description)))
-{s:cs}Cette *[plate de pierre](./plate de pierre (armure).md) +1* arbore une tête de [gorgone](./Gorgone.md) cornue sur chaque spallière et le visage hurlant d'une [méduse](./Méduse.md) sur son plastron. Les premières *armures mange-pierre* trouvées dans la région de la mer Intérieure ont été apportées par des explorateurs du lointain Casmaron, accompagnées d'histoires sauvages d'une cité perdue détruite par une puissante méduse.
+{s:cs}Cette *[[plate de pierre (armure)|plate de pierre]] +1* arbore une tête de [[gorgone]] cornue sur chaque spallière et le visage hurlant d'une [[méduse]] sur son plastron. Les premières *armures mange-pierre* trouvées dans la région de la mer Intérieure ont été apportées par des explorateurs du lointain Casmaron, accompagnées d'histoires sauvages d'une cité perdue détruite par une puissante méduse.
 
-Chaque fois que le porteur d'une *armure mange-pierre* est soumis à un effet de pétrification, tel que celui causé par le sort *[pétrification](./Pétrification.md)*, l'effet est annulé et le bonus d'altération de l’*armure mange-pierre* augmente de 1 pendant 1 minute alors que l'armure devient plus épaisse et plus volumineuse, couvrant une plus grande partie du corps du porteur sans gêner ses mouvements.
+Chaque fois que le porteur d'une *armure mange-pierre* est soumis à un effet de pétrification, tel que celui causé par le sort *[[pétrification]]*, l'effet est annulé et le bonus d'altération de l’*armure mange-pierre* augmente de 1 pendant 1 minute alors que l'armure devient plus épaisse et plus volumineuse, couvrant une plus grande partie du corps du porteur sans gêner ses mouvements.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[transmutation de la pierre en chair](./Transmutation de la pierre en chair.md)* ; **Coût** 5 450 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[transmutation de la pierre en chair]]* ; **Coût** 5 450 po
 </div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Manœuvres offensives#RENVERSEMENT
 ---
 
->>> [Manœuvres offensives#RENVERSEMENT](./Manœuvres offensives.md#RENVERSEMENT)
+>>> [[Manœuvres offensives#RENVERSEMENT]]

@@ -13,30 +13,30 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 5 p.14*}
 {s:BDTexte|**PX** 6 400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, NM}
-{s:BDTexte|**Init** +3 ; **Sens** , [vision dans le noir](./vision dans le noir.md) 18 m (12  {s:c}), [vision nocturne](./vision nocturne.md), ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, NM}
+{s:BDTexte|**Init** +3 ; **Sens** , [[vision dans le noir]] 18 m (12  {s:c}), [[vision nocturne]], ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 12, pris au dépourvu 19(Dex +3, naturelle +10, taille -1)}
 {s:BDTexte|**pv** 114 (12d10+48)}
 {s:BDTexte|**Réf** +11, **Vig** +12, **Vol** +8}
-{s:BDTexte|**Capacité défensive** [férocité](./Férocité.md)}
+{s:BDTexte|**Capacité défensive** [[férocité]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), vol 18 m (12 {s:c}) (moyenne)}
-{s:BDTexte|**Corps à corps** morsure, +18 (2d6+7/19-20 plus [étreinte](./Étreinte.md)) et 2 griffes, +18 (1d6+7) et queue, +13 (1d8+3)}
-{s:BDTexte|**Attaques spéciales** claquement de mâchoires, [éventration](./Éventration.md) (2 griffes), 1d6+10)}
+{s:BDTexte|**Corps à corps** morsure, +18 (2d6+7/19-20 plus [[étreinte]]) et 2 griffes, +18 (1d6+7) et queue, +13 (1d8+3)}
+{s:BDTexte|**Attaques spéciales** claquement de mâchoires, [[éventration]] (2 griffes), 1d6+10)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,50 m (3 m avec les griffes)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 17, **Con** 18, **Int** 7, **Sag** 14, **Cha** 11}
 {s:BDTexte|**BBA** +12, **BMO** +20 (+24 en lutte), **DMD** 33}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) ([Perception](./Perception.md)), [Vol stationnaire](./Vol stationnaire.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +11, [Survie](./Survie.md) +9, [Vol](./Vol.md) +7 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) et [Survie](./Survie.md)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Science du critique]] (morsure), [[Talent]] ([[Perception]]), [[Vol stationnaire]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +9, [[Perception]] +11, [[Survie]] +9, [[Vol]] +7 ; **Modificateurs raciaux** +4 en [[Discrétion]] et [[Survie]]}
 {s:BDTexte|**Langues** commun (ne peut pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou ruines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|** Claquement de mâchoires (Ext).** Quand l’ahool parvient à utiliser son pouvoir d’[étreinte](./Étreinte.md) avec sa morsure ou à infliger des dégâts avec son attaque de morsure à une créature qu’elle étreint, cette créature subit un affaiblissement temporaire supplémentaire de 1d4 points de [Dextérité](./Dextérité.md). Ce sont des dégâts de précision.}
+{s:BDTexte|** Claquement de mâchoires (Ext).** Quand l’ahool parvient à utiliser son pouvoir d’[[étreinte]] avec sa morsure ou à infliger des dégâts avec son attaque de morsure à une créature qu’elle étreint, cette créature subit un affaiblissement temporaire supplémentaire de 1d4 points de [[Dextérité]]. Ce sont des dégâts de précision.}
 </div>
 </td><td><div>*Cette hideuse créature ressemble à la fois à une chauve-souris et à un singe, avec des ailes de cuir et des pattes arrières aux griffes acérées.*
 

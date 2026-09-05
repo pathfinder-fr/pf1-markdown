@@ -11,12 +11,12 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Pharasma|%2fPCUP%2fReligion-PNG%2fPharasma.png}{s:ISG}{s:GeM}**École** [Divination](./école divination.md) ; **Niveau** [Inq](./Inquisiteur.md) 2, [Prê](./Prêtre.md) 2, [Sor](./Sorcière.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+{s:divin|Pharasma|%2fPCUP%2fReligion-PNG%2fPharasma.png}{s:ISG}{s:GeM}**École** [[école Divination|Divination]] ; **Niveau** [[Inquisiteur|Inq]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cible** une créature humanoïde
-**Durée** 1d4 [rounds](./round.md)
+**Durée** 1d4 [[round|rounds]]
 **Jet de sauvegarde** Volonté, annule ; **Résistance à la magie** oui
 
-Le personnage montre à une créature les effets que sa vie a eus jusque là et ce à quoi elle peut s’attendre quand elle sera soumise au regard impartial de la déesse qui juge les défunts, à la fin de sa vie. Selon l’alignement de la créature et son degré d’adhésion à cette éthique, le personnage peut lui donner un bref aperçu de la récompense ou de la punition qui l’attend lorsqu’elle mourra, en lui montrant une image mentale du plan auquel elle est destinée dans le Grand Au-delà. Si la cible est d’alignement Bon, elle devra faire un [jet de sauvegarde](./jet de sauvegarde.md) pour ne pas être [fascinée](./Fasciné.md) pendant 1d4 rounds. Si elle est d’alignement Neutre, elle devra faire un jet de sauvegarde pour ne pas être en proie à la [confusion](./Confus.md) pendant 1d4 rounds. Si elle est d’alignement Mauvais, elle devra faire un jet de sauvegarde pour ne pas être [secouée](./Secoué.md) pendant 1d4 rounds.
+Le personnage montre à une créature les effets que sa vie a eus jusque là et ce à quoi elle peut s’attendre quand elle sera soumise au regard impartial de la déesse qui juge les défunts, à la fin de sa vie. Selon l’alignement de la créature et son degré d’adhésion à cette éthique, le personnage peut lui donner un bref aperçu de la récompense ou de la punition qui l’attend lorsqu’elle mourra, en lui montrant une image mentale du plan auquel elle est destinée dans le Grand Au-delà. Si la cible est d’alignement Bon, elle devra faire un [[jet de sauvegarde]] pour ne pas être [[fasciné|fascinée]] pendant 1d4 rounds. Si elle est d’alignement Neutre, elle devra faire un jet de sauvegarde pour ne pas être en proie à la [[confus|confusion]] pendant 1d4 rounds. Si elle est d’alignement Mauvais, elle devra faire un jet de sauvegarde pour ne pas être [[secoué|secouée]] pendant 1d4 rounds.

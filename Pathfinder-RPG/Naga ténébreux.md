@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.225*}
 {s:BDTexte|**PX** 4.800}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, LM}
-{s:BDTexte|**Init** +5 ; **Sens** détection des pensées, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +19}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, LM}
+{s:BDTexte|**Init** +5 ; **Sens** détection des pensées, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +19}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 15, pris au dépourvu 16 (Dex +5, esquive +1, naturelle +7, taille -1)}
 {s:BDTexte|**pv** 85 (10d8+40)}
@@ -26,25 +26,25 @@ Categories:
 {s:BDTexte|**Corps à corps** morsure, +8 (1d4+2), dard, +8 (2d4+2 et poison)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDTexte|**Sorts connus** (NLS 7<sup>e</sup>)}
-{s:BDSorts|3 (5/jour)—*[déplacement](./Déplacement.md)*, *[éclair](./Éclair.md)* (DD 16)}
-{s:BDSorts|2 (7/jour)—*[grâce féline](./Grâce féline.md)*, *[invisibilité](./Invisibilité.md)*, *[rayon ardent](./Rayon ardent.md)*}
-{s:BDSorts|1 (7/jour)—*[bouclier](./Bouclier.md)*, *[image silencieuse](./Image silencieuse.md)*, *[projectile magique](./Projectile magique.md)*, *[rayon affaiblissant](./Rayon affaiblissant.md)* (DD 14), *[repli expéditif](./Repli expéditif.md)*}
-{s:BDSorts|0 (à volonté)—*[détection de la magie](./Détection de la magie.md)*, *[hébétement](./Hébétement.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[lumière](./Lumière.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*, *[rayon de givre](./Rayon de givre.md)*}
+{s:BDSorts|3 (5/jour)—*[[déplacement]]*, *[[éclair]]* (DD 16)}
+{s:BDSorts|2 (7/jour)—*[[grâce féline]]*, *[[invisibilité]]*, *[[rayon ardent]]*}
+{s:BDSorts|1 (7/jour)—*[[bouclier]]*, *[[image silencieuse]]*, *[[projectile magique]]*, *[[rayon affaiblissant]]* (DD 14), *[[repli expéditif]]*}
+{s:BDSorts|0 (à volonté)—*[[détection de la magie]]*, *[[hébétement]]*, *[[lecture de la magie]]*, *[[lumière]]*, *[[manipulation à distance]]*, *[[ouverturefermeture|ouverture/fermeture]]*, *[[rayon de givre]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 21, **Con** 18, **Int** 16, **Sag** 15, **Cha** 17}
-{s:BDTexte|**BBA** +7, **BMO** +10, **DMD** 26 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Discret](./Discret.md), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md)<sup>B</sup>, [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +12, [Bluff](./Bluff.md) +13, [Connaissances](./Connaissances.md) (mystères) +13, [Déguisement](./Déguisement.md) +9, [Diplomatie](./Diplomatie.md) +9, [Discrétion](./Discrétion.md) +18, [Évasion](./Évasion.md) +13, [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +19, [Psychologie](./Psychologie.md) +10}
+{s:BDTexte|**BBA** +7, **BMO** +10, **DMD** 26 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Discret]], [[Dispense de composantes matérielles]]<sup>B</sup>, [[Esquive]], [[Magie de guerre]], [[Réflexes surhumains]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +12, [[Bluff]] +13, [[Connaissances]] (mystères) +13, [[Déguisement]] +9, [[Diplomatie]] +9, [[Discrétion]] +18, [[Évasion]] +13, [[Intimidation]] +12, [[Perception]] +19, [[Psychologie]] +10}
 {s:BDTexte|**Langues** commun, infernal}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
 {s:BDTexte|**Organisation sociale** solitaire ou nid (2-4)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Détection des pensées (Sur).** Ce pouvoir, que les nagas ténébreux peuvent utiliser de manière continue, est similaire au sort de *[détection de pensées](./Détection de pensées.md)* ([NLS](./NLS.md) 9 , [Volonté](./Volonté.md) [DD](./DD.md) 18 annule). Le [DD](./DD.md) dépend du [Charisme](./Charisme.md).}
-{s:BDTexte|**Poison (Ext).** Dard - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 19 ; *fréquence* 1 round ; *effet* sommeil pendant 1d4 minutes ; *guérison* 1 réussite.}
-{s:BDTexte|**Protection des pensées (Ext).** Les nagas ténébreux sont immunisés contre toutes les formes de lecture des pensées (comme le sort de *[détection de pensées](./Détection de pensées.md)*). Cette capacité leur donne également un bonus racial de +2 à tous les [jets de sauvegarde](./jet de sauvegarde.md) contre les effets de charme.}
-{s:BDTexte|**Sorts (Ext).** Les nagas ténébreux lancent des sorts comme des [ensorceleurs](./Ensorceleur.md) de niveau 7.}
+{s:BDTexte|**Détection des pensées (Sur).** Ce pouvoir, que les nagas ténébreux peuvent utiliser de manière continue, est similaire au sort de *[[détection de pensées]]* ([[NLS]] 9 , [[Volonté]] [[DD]] 18 annule). Le [[DD]] dépend du [[Charisme]].}
+{s:BDTexte|**Poison (Ext).** Dard - blessure ; *JS* [[Vigueur]] [[DD]] 19 ; *fréquence* 1 round ; *effet* sommeil pendant 1d4 minutes ; *guérison* 1 réussite.}
+{s:BDTexte|**Protection des pensées (Ext).** Les nagas ténébreux sont immunisés contre toutes les formes de lecture des pensées (comme le sort de *[[détection de pensées]]*). Cette capacité leur donne également un bonus racial de +2 à tous les [[jet de sauvegarde|jets de sauvegarde]] contre les effets de charme.}
+{s:BDTexte|**Sorts (Ext).** Les nagas ténébreux lancent des sorts comme des [[ensorceleur|ensorceleurs]] de niveau 7.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -53,17 +53,17 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Naga aquatique](./Naga aquatique.md) || 7
+| [[Naga aquatique]] || 7
 |-
-| [Naga corrupteur](./naga corrupteur.md) || 9
+| [[Naga corrupteur]] || 9
 |-
-| [Naga gardien](./Naga gardien.md) || 10
+| [[Naga gardien]] || 10
 |-
-| [Naga lunaire](./Naga lunaire.md) || 6
+| [[Naga lunaire]] || 6
 |-
-| [Naga royal](./Naga royal.md) || 11
+| [[Naga royal]] || 11
 |-
-| [Naga ténébreux](./Naga ténébreux.md) || 8
+| [[Naga ténébreux]] || 8
 |}
 </div>*Une tête humanoïde aux traits burinés se dresse au bout du corps puissant et sinueux de ce monstre serpentin.*
 

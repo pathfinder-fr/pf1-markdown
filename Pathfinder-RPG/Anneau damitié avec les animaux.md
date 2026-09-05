@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau d’amitié avec les animaux|}
-**Aura** [Enchantement](./Enchantement.md) faible ; **NLS** 3 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 10 800 po ; **Poids** —
+**Aura** [[Enchantement]] faible ; **NLS** 3 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 10 800 po ; **Poids** —
 (((Description)))
-Sur [commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE), cet anneau affecte l’animal désigné comme si le personnage venait de lancer le sort *[charme-animal](./Charme-animal.md)*.
+Sur [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|commande]], cet anneau affecte l’animal désigné comme si le personnage venait de lancer le sort *[[charme-animal]]*.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[charme-animal](./Charme-animal.md)* ; **Coût** 5 400 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[charme-animal]]* ; **Coût** 5 400 po
 </div>

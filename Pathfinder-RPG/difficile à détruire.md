@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Objets légendaires#DIFFICILEADETRUIRE
 ---
 
->>> [Objets légendaires#DIFFICILEADETRUIRE](./Objets légendaires.md#DIFFICILEADETRUIRE)
+>>> [[Objets légendaires#DIFFICILEADETRUIRE]]

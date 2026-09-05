@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-La cité d'Okéno, située sur une île au large de la côte est du [Katapesh](./Katapesh.md), est la seconde ville du pays par la taille. Elle est réputée pour ses marchés aux esclaves, appelés là-bas Foire à la Chair. Ces derniers sont vendus dans presque tous les pays de l'[Avistan](./Avistan.md) et du [Garund](./Garund.md).
+La cité d'Okéno, située sur une île au large de la côte est du [[Katapesh]], est la seconde ville du pays par la taille. Elle est réputée pour ses marchés aux esclaves, appelés là-bas Foire à la Chair. Ces derniers sont vendus dans presque tous les pays de l'[[Avistan]] et du [[Garund]].

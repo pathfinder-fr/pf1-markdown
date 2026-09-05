@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Charme de bonne santé|}
-**Aura** [Invocation](./Invocation.md) faible ; **NLS** 5 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 7 500 po ; **Poids** —
+**Aura** [[Invocation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 7 500 po ; **Poids** —
 (((Description)))
-Quiconque porte cette gemme bleutée pendue à une chaîne en argent est [immunisé](./immunisé.md) contre toutes les maladies, y compris celles d’origine magique.
+Quiconque porte cette gemme bleutée pendue à une chaîne en argent est [[immunisé]] contre toutes les maladies, y compris celles d’origine magique.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[guérison des maladies](./Guérison des maladies.md)* ; **Coût** 3 750 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[guérison des maladies]]* ; **Coût** 3 750 po
 </div>

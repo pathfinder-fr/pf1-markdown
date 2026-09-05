@@ -12,25 +12,25 @@ Categories:
 {s:BDTitre|Géant des landes|FP 4}
 {s:BDTexte|*Source : Faenil*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) ([géant](./../Pathfinder-RPG/sous-type géant.md), [extraplanaire](./../Pathfinder-RPG/sous-type extraplanaire.md)) de taille G, N}
-{s:BDTexte|**Init** 0 ; **Sens** [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +12}
+{s:BDTexte|[[pathfinder-RPG.type Humanoïde|Humanoïde]] ([[pathfinder-RPG.sous-type géant|géant]], [[pathfinder-RPG.sous-type extraplanaire|extraplanaire]]) de taille G, N}
+{s:BDTexte|**Init** 0 ; **Sens** [[pathfinder-RPG.vision nocturne|vision nocturne]] ; [[pathfinder-RPG.Perception|Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 9, pris au dépourvu 17 (armure +4, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 39 (6d8+12)}
 {s:BDTexte|**Réf** +2, **Vig** +7, **Vol** +5}
 {s:BDTexte|**Résistance** Froid 5}
-{s:BDTexte|**Capacité défensive** [réception de rochers](./../Pathfinder-RPG/Réception de rochers.md), Résistance adaptative}
+{s:BDTexte|**Capacité défensive** [[pathfinder-RPG.réception de rochers|réception de rochers]], Résistance adaptative}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}) (12 m (8 {s:c}) sans armure)}
 {s:BDTexte|**Corps à corps** Coutille, +7 (2d8+6) ou 2 coups, +7 (1d6+4) }
 {s:BDTexte|**Distance** Rocher, +5 (1d6+6)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c}) (6 m avec Coutille)}
-{s:BDTexte|**Attaque spéciale** [lancer de rochers](./../Pathfinder-RPG/Lancer de rochers.md) (27 m (18 {s:c}))}
+{s:BDTexte|**Attaque spéciale** [[pathfinder-RPG.lancer de rochers|lancer de rochers]] (27 m (18 {s:c}))}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 10, **Con** 15, **Int** 10, **Sag** 12, **Cha** 10}
 {s:BDTexte|**BBA** +4, **BMO** +9, **DMD** 19}
-{s:BDTexte|**Dons** [Talent](./../Pathfinder-RPG/Talent.md) ([Profession](./../Pathfinder-RPG/Profession.md) ou [Artisanat](./../Pathfinder-RPG/Artisanat.md) au choix) [Vigilance](./../Pathfinder-RPG/Vigilance.md), [Volonté de fer](./../Pathfinder-RPG/Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Perception](./../Pathfinder-RPG/Perception.md) +12, [Profession](./../Pathfinder-RPG/Profession.md) (au choix) +13, [Psychologie](./../Pathfinder-RPG/Psychologie.md) +3}
+{s:BDTexte|**Dons** [[pathfinder-RPG.Talent|Talent]] ([[pathfinder-RPG.Profession|Profession]] ou [[pathfinder-RPG.Artisanat|Artisanat]] au choix) [[pathfinder-RPG.Vigilance|Vigilance]], [[pathfinder-RPG.Volonté de fer|Volonté de fer]]}
+{s:BDTexte|**Compétences** [[pathfinder-RPG.Perception|Perception]] +12, [[pathfinder-RPG.Profession|Profession]] (au choix) +13, [[pathfinder-RPG.Psychologie|Psychologie]] +3}
 {s:BDTexte|**Langues** Commun, Géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Villes, villages, plaines froides ou tempérées (Jottunheim)}
@@ -46,5 +46,5 @@ Les géants des landes constituent une espèce pacifique que l'on ne rencontre g
 Un géant des landes mesure 3 mètres de hauteur et pèse à peu près 300 kg.
 </div></td></tr></table>
 
-Retour à la [grotte aux monstres](./Wiki ressources monstres.md) —
+Retour à la [[Wiki ressources monstres|grotte aux monstres]] —
 Discuter de cette créature [sur le forum](http://www.pathfinder-fr.org/Forum/yaf_postsm104781_Regles-maison.aspx#post104781)

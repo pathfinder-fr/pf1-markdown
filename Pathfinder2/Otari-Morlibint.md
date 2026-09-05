@@ -4,9 +4,9 @@ Title: Morlibint, vendeur de livres dans une petite ville
 LastModified: 2023-04-27 17:35
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur Otari](./OTARI.md)
+• [[OTARI|Retour à la page sur Otari]]
 
 <img src="Illustrations/Wiki/PF2/111120_MORLIBINT.jpg" class="fright" alt="">
 Histoires Étranges est l’une des échoppes les plus distinctives d’Otari : une tour de pierre à 3 étages qui domine un petit magasin de livres qui lui, n’a qu’un seul étage. L’échoppe sert de demeure et de lieu de travail au magicien Morlibint, un érudit qui aimer parler de théories magiques presque tout autant que d’œuvres de fiction palpitantes. Il insiste souvent sur le fait que l’imagination est la forme de magie la plus merveilleuse qui existe. Morlibint est un homme d’âge moyen avec de courts cheveux roux et un grimace permanente qui se transforme rapidement en sourire quand il se rend compte qu’il a affaire à un autre bibliophile.

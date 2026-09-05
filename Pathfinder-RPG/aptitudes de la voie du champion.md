@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Aptitudes de la voie du Champion Mythique
 ---
 
->>> [Aptitudes de la voie du Champion Mythique](./Aptitudes de la voie du Champion Mythique.md)
+>>> [[Aptitudes de la voie du Champion Mythique]]

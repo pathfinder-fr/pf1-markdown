@@ -11,9 +11,9 @@ Categories:
 {s:BDTitre|Mercenaire superstitieux|FP 1/2}
 {s:BDTexte|*Source : Manuel des PNJ de Pathfinder p.80*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Humain](./../Pathfinder-RPG/Humain.md) (m) [Guerrier](./../Pathfinder-RPG/Guerrier.md) 1}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [Perception](./../Pathfinder-RPG/Perception.md) +2}
+{s:BDTexte|[[Pathfinder-RPG.Humain|Humain]] (m) [[Pathfinder-RPG.Guerrier|Guerrier]] 1}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Pathfinder-RPG.Perception|Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 12, pris au dépourvu 18 (armure +6, Dex +6, bouclier +2) }
 {s:BDTexte|**pv** 14 (1d10+4)}
@@ -25,23 +25,23 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 17, **Dex** 14, **Con** 12, **Int** 8, **Sag** 13, **Cha** 10}
 {s:BDTexte|**BBA** +1, **BMO** +4, **DMD** 16}
-{s:BDTexte|**Dons** [Volonté de fer](./../Pathfinder-RPG/Volonté de fer.md), [Attaque en Puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Robustesse](./../Pathfinder-RPG/Robustesse.md)}
-{s:BDTexte|**Compétences** [Premiers secours](./../Pathfinder-RPG/Premiers secours.md) +2, [Perception](./../Pathfinder-RPG/Perception.md) +2, [Survie](./../Pathfinder-RPG/Survie.md) +5}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Volonté de fer|Volonté de fer]], [[Pathfinder-RPG.Attaque en Puissance|Attaque en Puissance]], [[Pathfinder-RPG.Robustesse|Robustesse]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Premiers secours|Premiers secours]] +2, [[Pathfinder-RPG.Perception|Perception]] +2, [[Pathfinder-RPG.Survie|Survie]] +5}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Equipement de combat}
-{s:BDTexte|Potion de [Soins légers](./../Pathfinder-RPG/Soins légers.md) (NLS 3)}
-{s:BDTexte|[Feu grégeois](./../Pathfinder-RPG/Feu grégeois (objet).md)}
-{s:BDTexte|[Eau bénite](./../Pathfinder-RPG/Eau bénite (objet).md)}
-{s:BDTexte|2 [Huile](./../Pathfinder-RPG/Huile (objet).md)}
-{s:BDTexte|[Trousse de premiers secours](./../Pathfinder-RPG/Trousse de premiers secours (objet).md) (2 usages)}
-{s:BDTexte|[Dague](./../Pathfinder-RPG/Tableau récapitulatif des armes.md#ARMESCOURANTESLEGERES) en [fer froid](./../Pathfinder-RPG/Matériaux spéciaux.md#FERFROID)}
-{s:BDTexte|[Epée longue](./../Pathfinder-RPG/Tableau récapitulatif des armes.md#ARMESDEGUERREUNEMAIN)}
-{s:BDTexte|[Arbalète lourde](./../Pathfinder-RPG/Tableau récapitulatif des armes.md#ARMESEXOTIQUESDISTANCE), 20 carreaux}
-{s:BDTexte|[cuirasse](./../Pathfinder-RPG/Tableau récapitulatif des armures.md#INTERMEDIAIRES)}
-{s:BDTexte|[Ecu (bois)](./../Pathfinder-RPG/Tableau récapitulatif des armures.md#BOUCLIERS)}
+{s:BDTexte|Potion de [[Pathfinder-RPG.Soins légers|Soins légers]] (NLS 3)}
+{s:BDTexte|[[Pathfinder-RPG.Feu grégeois (objet)|Feu grégeois]]}
+{s:BDTexte|[[Pathfinder-RPG.Eau bénite (objet)|Eau bénite]]}
+{s:BDTexte|2 [[Pathfinder-RPG.Huile (objet)|Huile]]}
+{s:BDTexte|[[Pathfinder-RPG.Trousse de premiers secours (objet)|Trousse de premiers secours]] (2 usages)}
+{s:BDTexte|[[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESCOURANTESLEGERES|Dague]] en [[Pathfinder-RPG.Matériaux spéciaux#FERFROID|fer froid]]}
+{s:BDTexte|[[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESDEGUERREUNEMAIN|Epée longue]]}
+{s:BDTexte|[[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESEXOTIQUESDISTANCE|Arbalète lourde]], 20 carreaux}
+{s:BDTexte|[[Pathfinder-RPG.Tableau récapitulatif des armures#INTERMEDIAIRES|cuirasse]]}
+{s:BDTexte|[[Pathfinder-RPG.Tableau récapitulatif des armures#BOUCLIERS|Ecu (bois)]]}
 {s:BDTexte|Sac de couchage}
 {s:BDTexte|Pierre à aiguiser}
-{s:BDTexte|2 [Silex et amorce](./../Pathfinder-RPG/Silex et amorce (objet).md)}
+{s:BDTexte|2 [[Pathfinder-RPG.Silex et amorce (objet)|Silex et amorce]]}
 {s:BDTexte|Symbole sacré en bois}
 {s:BDTexte|3 po}
 </div>

@@ -8,13 +8,13 @@ Categories:
 - Règles officielles
 ---
 
-L’attitude personnelle et la moralité d’une créature sont symbolisées par son alignement qui peut être : [loyal bon](./Alignement.md#LB), [neutre bon](./Alignement.md#NB), [chaotique bon](./Alignement.md#CB), [loyal neutre](./Alignement.md#LN), [neutre](./Alignement.md#N), [chaotique neutre](./Alignement.md#CN), [loyal mauvais](./Alignement.md#LM), [neutre mauvais](./Alignement.md#NM) ou [chaotique mauvais](./Alignement.md#CM).
+L’attitude personnelle et la moralité d’une créature sont symbolisées par son alignement qui peut être : [[Alignement#LB|loyal bon]], [[Alignement#NB|neutre bon]], [[Alignement#CB|chaotique bon]], [[Alignement#LN|loyal neutre]], [[Alignement#N|neutre]], [[Alignement#CN|chaotique neutre]], [[Alignement#LM|loyal mauvais]], [[Alignement#NM|neutre mauvais]] ou [[Alignement#CM|chaotique mauvais]].
 
 L’alignement est un outil qui permet de développer la personnalité du personnage, ce n’est pas un carcan destiné à le contraindre. Chaque alignement regroupe des caractères, voire des philosophies de vie, fort différents, ce qui veut dire que deux personnages de même alignement peuvent se comporter de manière très différente. Il est bien rare qu’un personnage se comporte toujours comme le voudrait son alignement.
 
-Toutes les créatures possèdent un alignement qui sert également à déterminer l’efficacité de certains [sorts](./sort.md) et [objets magiques](./Règles relatives aux objets magiques.md).
+Toutes les créatures possèdent un alignement qui sert également à déterminer l’efficacité de certains [[sort|sorts]] et [[Règles relatives aux objets magiques|objets magiques]].
 
-Les animaux et les créatures incapables d’émettre un jugement moral sont [neutres](./Alignement.md#N). Même les vipères et les tigres mangeurs d’hommes sont [neutres](./Alignement.md#N) car leur intelligence restreinte ne leur permet pas de faire la distinction entre le [Bien et le Mal](./Alignement.md#BIENMAL). Les chiens sont peut-être obéissants et les chats individualistes, mais ils n’ont pas les capacités morales nécessaires pour être [loyaux ou chaotiques](./Alignement.md#LOICHAOS).
+Les animaux et les créatures incapables d’émettre un jugement moral sont [[Alignement#N|neutres]]. Même les vipères et les tigres mangeurs d’hommes sont [[Alignement#N|neutres]] car leur intelligence restreinte ne leur permet pas de faire la distinction entre le [[Alignement#BIENMAL|Bien et le Mal]]. Les chiens sont peut-être obéissants et les chats individualistes, mais ils n’ont pas les capacités morales nécessaires pour être [[Alignement#LOICHAOS|loyaux ou chaotiques]].
 
 <div style="background-color: #fff; float: right; padding: 0 0 12px 12px"><nav class="wiki-toc"></nav></div>
 {s:Reference|BIENMAL}
@@ -40,25 +40,25 @@ Les gens Neutres vis à vis de la Loi et du Chaos sont naturellement respectueux
 {s:Reference|ETAPEALIGNEMENT}
 ### Les « étapes » d’alignements
 
-De temps à autre, les règles emploient le terme d’ « étapes » quand elles traitent des alignements. Dans ce cas, « étape » renvoie au nombre de différences entre deux alignements, comme montré dans le diagramme ci-dessous. Les « étapes » diagonales comptent pour deux. Par exemple, un personnage [Loyal Neutre](./Alignement.md#LN) est à une étape d’un personnage [Loyal Bon](./Alignement.md#LB), et à trois étapes d’un personnage [Chaotique Mauvais](./Alignement.md#CM). L’alignement d’un [prêtre](./Prêtre.md) doit se situer au maximum à une étape de celui de sa divinité.
+De temps à autre, les règles emploient le terme d’ « étapes » quand elles traitent des alignements. Dans ce cas, « étape » renvoie au nombre de différences entre deux alignements, comme montré dans le diagramme ci-dessous. Les « étapes » diagonales comptent pour deux. Par exemple, un personnage [[Alignement#LN|Loyal Neutre]] est à une étape d’un personnage [[Alignement#LB|Loyal Bon]], et à trois étapes d’un personnage [[Alignement#CM|Chaotique Mauvais]]. L’alignement d’un [[prêtre]] doit se situer au maximum à une étape de celui de sa divinité.
 
 <center>
 {| CLASS="tablo"
 |- CLASS="titre"
 |   || Loi || Neutre || Chaos
 |- CLASS="premier"
-| **Bien** || [Loyal bon](./LB.md) || [Neutre bon](./NB.md) || [Chaotique bon](./CB.md)
+| **Bien** || [[LB|Loyal bon]] || [[NB|Neutre bon]] || [[CB|Chaotique bon]]
 |-
-| **Neutre** || [Loyal neutre](./LN.md) || [Neutre](./N.md) || [Chaotique neutre](./CN.md)
+| **Neutre** || [[LN|Loyal neutre]] || [[N|Neutre]] || [[CN|Chaotique neutre]]
 |-
-| **Mal** || [Loyal mauvais](./LM.md) || [Neutre mauvais](./NM.md) || [Chaotique mauvais](./CM.md)
+| **Mal** || [[LM|Loyal mauvais]] || [[NM|Neutre mauvais]] || [[CM|Chaotique mauvais]]
 |}
 </center>
 
 ### Les neuf alignements
-Les diverses combinaisons entre le [Bien, le Mal](./Alignement.md#BIENMAL), et la [Loi et le Chaos](./Alignement.md#LOYALCHAOS) donnent naissance à neuf [alignements](./Alignement.md). La description de chacun représente l’adhérent type de cet alignement. N’oubliez pas toutefois que les individus peuvent s’écarter de la norme et qu’un personnage n’est pas contraint de respecter à la lettre les préceptes de son alignement. Utilisez les descriptions suivantes comme un guide, pas comme des règles strictes.
+Les diverses combinaisons entre le [[Alignement#BIENMAL|Bien, le Mal]], et la [[Alignement#LOYALCHAOS|Loi et le Chaos]] donnent naissance à neuf [[alignement|alignements]]. La description de chacun représente l’adhérent type de cet alignement. N’oubliez pas toutefois que les individus peuvent s’écarter de la norme et qu’un personnage n’est pas contraint de respecter à la lettre les préceptes de son alignement. Utilisez les descriptions suivantes comme un guide, pas comme des règles strictes.
 
-Les six premiers alignements, de [Loyal Bon](./LB.md) à [Chaotique Neutre](./CN.md), s’adressent généralement aux personnages. Les trois suivants, les alignements maléfiques, sont habituellement réservés aux monstres et autres ennemis des personnages. Avec l’accord du [MJ](./MJ.md), un joueur peut choisir un alignement Mauvais pour son personnage, bien que de tels personnages sont souvent sources de conflits et de disputes avec les membres du groupe Neutres ou Bons. Avant d’accepter un personnage Mauvais, il est conseillé au [MJ](./MJ.md) de réfléchir avec soin aux implications que cela aura dans sa campagne.
+Les six premiers alignements, de [[LB|Loyal Bon]] à [[CN|Chaotique Neutre]], s’adressent généralement aux personnages. Les trois suivants, les alignements maléfiques, sont habituellement réservés aux monstres et autres ennemis des personnages. Avec l’accord du [[MJ]], un joueur peut choisir un alignement Mauvais pour son personnage, bien que de tels personnages sont souvent sources de conflits et de disputes avec les membres du groupe Neutres ou Bons. Avant d’accepter un personnage Mauvais, il est conseillé au [[MJ]] de réfléchir avec soin aux implications que cela aura dans sa campagne.
 
 {s:Reference|LB}
 #### Loyal Bon
@@ -117,9 +117,9 @@ Le Loyal Neutre qui suit son propre code ne l’enfreint jamais délibérément 
 
 {s:Reference|N}
 #### Neutre
-Un personnage neutre fait ce qui lui semble une bonne idée. Il n’a pas vraiment de préférence lorsqu’il s’agit de choisir entre le [Bien et le Mal](./Alignement.md#BIENMAL) ou entre la [Loi et le Chaos](./Alignement.md#LOYALCHAOS) (c’est ainsi que le personnage Neutre est parfois qualifié de « Neutre absolu »). Dans la plupart des cas, la neutralité représente une absence de convictions plutôt qu’un véritable dévouement envers la neutralité. Le personnage aurait ainsi plutôt tendance à penser que le Bien vaut mieux que le Mal, car il préfère que ses voisins et ses dirigeants politiques se montrent bienveillants plutôt que malveillants. Cela étant, il ne se sent nullement obligé de défendre la cause du Bien, ni en pratique ni en théorie.
+Un personnage neutre fait ce qui lui semble une bonne idée. Il n’a pas vraiment de préférence lorsqu’il s’agit de choisir entre le [[Alignement#BIENMAL|Bien et le Mal]] ou entre la [[Alignement#LOYALCHAOS|Loi et le Chaos]] (c’est ainsi que le personnage Neutre est parfois qualifié de « Neutre absolu »). Dans la plupart des cas, la neutralité représente une absence de convictions plutôt qu’un véritable dévouement envers la neutralité. Le personnage aurait ainsi plutôt tendance à penser que le Bien vaut mieux que le Mal, car il préfère que ses voisins et ses dirigeants politiques se montrent bienveillants plutôt que malveillants. Cela étant, il ne se sent nullement obligé de défendre la cause du Bien, ni en pratique ni en théorie.
 
-En revanche, chez certains, la neutralité est un choix philosophique. Pour eux, [le Bien, le Mal](./Alignement.md#BIENMAL), [la Loi et le Chaos](./Alignement.md#LOYALCHAOS) sont partiaux et représentent un danger, comme tous les extrêmes. Ils prônent donc l’équilibre, qui leur paraît être le meilleur choix à long terme.
+En revanche, chez certains, la neutralité est un choix philosophique. Pour eux, [[Alignement#BIENMAL|le Bien, le Mal]], [[Alignement#LOYALCHAOS|la Loi et le Chaos]] sont partiaux et représentent un danger, comme tous les extrêmes. Ils prônent donc l’équilibre, qui leur paraît être le meilleur choix à long terme.
 
 Être Neutre permet d’agir naturellement en toute situation, sans se laisser guider par ses préjugés ou ses obligations.
 
@@ -145,7 +145,7 @@ Le personnage Chaotique Neutre chérit sa propre liberté et sa capacité à fai
 
 {s:Reference|LM}
 #### Loyal Mauvais
-Un individu Loyal Mauvais prend tout ce qu’il désire, dans les limites de son code de conduite sans se soucier de ceux à qui il peut faire du mal. Pour lui, les traditions, la loyauté et l’obéissance ont de l’importance, mais pas la liberté ni la dignité ou la vie. Il suit les règles existantes, mais ne montre ni pitié ni compassion. Il accepte la hiérarchie, et, même s’il préfère diriger, il est prêt à obéir. Il condamne les autres, non pas en fonction de leurs actes, mais en fonction de leur [race](./race.md), de leur religion, de leur nationalité ou de leur rang social. Il répugne à violer la Loi ou à trahir sa parole.
+Un individu Loyal Mauvais prend tout ce qu’il désire, dans les limites de son code de conduite sans se soucier de ceux à qui il peut faire du mal. Pour lui, les traditions, la loyauté et l’obéissance ont de l’importance, mais pas la liberté ni la dignité ou la vie. Il suit les règles existantes, mais ne montre ni pitié ni compassion. Il accepte la hiérarchie, et, même s’il préfère diriger, il est prêt à obéir. Il condamne les autres, non pas en fonction de leurs actes, mais en fonction de leur [[race]], de leur religion, de leur nationalité ou de leur rang social. Il répugne à violer la Loi ou à trahir sa parole.
 
 Cette répugnance lui vient en partie de sa nature et en partie de sa dépendance vis à vis l’ordre établi pour se protéger de ceux qui s’opposent à lui sur des questions d’ordre moral. Certains Loyaux Mauvais se fixent eux-mêmes des limites, telles que ne jamais tuer de sang-froid (ils chargent leurs sbires de le faire à leur place) ou ne pas maltraiter les enfants (sauf lorsqu’il est impossible de faire autrement). Ils pensent que ces règles de conduite les placent au-dessus des scélérats sans scrupules.
 
@@ -163,7 +163,7 @@ Un personnage Loyal Mauvais poussé à l’extrême se montre fanatique dans ses
 
 {s:Reference|NM}
 #### Neutre Mauvais
-Un individu Neutre Mauvais fait tout ce qu’il veut tant qu’il peut s’en tirer. Il ne pense tout simplement qu’à lui. Il se moque de tuer des gens par profit, pour le plaisir, ou parce que cela l’arrange. Il n’apprécie pas particulièrement l’ordre et pense que le respect de la Loi, d’un code de conduite ou des traditions ne le rendra pas meilleur ou plus noble. Il ne montre pas une nature agitée et n'est pas pour la recherche de conflits caractéristique des êtres [Chaotiques Mauvais](./CM.md).
+Un individu Neutre Mauvais fait tout ce qu’il veut tant qu’il peut s’en tirer. Il ne pense tout simplement qu’à lui. Il se moque de tuer des gens par profit, pour le plaisir, ou parce que cela l’arrange. Il n’apprécie pas particulièrement l’ordre et pense que le respect de la Loi, d’un code de conduite ou des traditions ne le rendra pas meilleur ou plus noble. Il ne montre pas une nature agitée et n'est pas pour la recherche de conflits caractéristique des êtres [[CM|Chaotiques Mauvais]].
 
 Certains individus Neutres Mauvais érigent le Mal en idéal et s’y dévouent corps et âme. La plupart du temps, ils se consacrent à un dieu ou à une société secrète maléfique.
 
@@ -192,13 +192,13 @@ Le personnage Chaotique Mauvais est entièrement guidé par sa colère et ses be
 Un personnage Chaotique Mauvais extrémiste aura tendance à s’entourer d’individus partageant sa façon de penser, non pas à cause d’un besoin quelconque de compagnie mais pour la familiarité qu’il trouve dans tout ce chaos et il se délecte d’être en parfait accord avec sa vraie nature aux côtés de ceux qui partagent son ravissement.
 
 ### Changer d’alignement
-L’alignement est une étiquette bien pratique qui permet de résumer l’attitude générale d’un [PNJ](./PNJ.md), d’une région, d’une religion, d’une organisation, d’un monstre ou même d’un objet magique.
+L’alignement est une étiquette bien pratique qui permet de résumer l’attitude générale d’un [[PNJ]], d’une région, d’une religion, d’une organisation, d’un monstre ou même d’un objet magique.
 
-Certaines [classes](./classe.md) donnent une liste des conséquences qui se répercutent sur les personnages qui n’adhèrent pas à un alignement spécifique. Certains sorts et objets magiques ont des effets différents en fonction de l’alignement de leur cible mais, en dehors de cela, il n’est pas nécessaire de s’inquiéter outre mesure si une personne ne se comporte pas tout à fait comme son alignement l’exige. C’est au [MJ](./MJ.md) de décider si quelque chose est en accord ou non avec l’alignement donné, en se basant sur la description donnée précédemment et sur sa propre interprétation : le [MJ](./MJ.md) doit uniquement veiller à être cohérent quand il décide de ce qui différencie un [Chaotique Neutre](./CN.md) d’un [Chaotique Mauvais](./CM.md). Il n’existe pas de mécanisme clair et défini pour mesurer un alignement, contrairement aux [points de vie](./point de vie.md), aux rangs de [compétence](./Compétences.md) ou à la [classe d’armure](./CA.md), c’est une notion que le [MJ](./MJ.md) est seul à contrôler.
+Certaines [[classe|classes]] donnent une liste des conséquences qui se répercutent sur les personnages qui n’adhèrent pas à un alignement spécifique. Certains sorts et objets magiques ont des effets différents en fonction de l’alignement de leur cible mais, en dehors de cela, il n’est pas nécessaire de s’inquiéter outre mesure si une personne ne se comporte pas tout à fait comme son alignement l’exige. C’est au [[MJ]] de décider si quelque chose est en accord ou non avec l’alignement donné, en se basant sur la description donnée précédemment et sur sa propre interprétation : le [[MJ]] doit uniquement veiller à être cohérent quand il décide de ce qui différencie un [[CN|Chaotique Neutre]] d’un [[CM|Chaotique Mauvais]]. Il n’existe pas de mécanisme clair et défini pour mesurer un alignement, contrairement aux [[point de vie|points de vie]], aux rangs de [[Compétences|compétence]] ou à la [[CA|classe d’armure]], c’est une notion que le [[MJ]] est seul à contrôler.
 
-Il vaut mieux laisser les joueurs jouer comme ils l’entendent. Si le personnage d’un joueur se comporte d’une manière que vous, [MJ](./MJ.md), trouvez en désaccord avec son alignement, dites-lui qu’il n’agit pas selon son alignement et expliquez-lui pourquoi. Mais faites-le de manière amicale. Si un personnage veut changer d’alignement, laissez-le faire. Dans la plupart des cas, cela n’entraîne qu’un changement de personnalité, voire aucun si le changement vise juste à adapter l’alignement afin que celui-ci représente mieux la manière dont le personnage se comporte. Dans certains cas, un changement d’alignement se répercute sur les pouvoirs du personnage (consultez la description des [classes](./classe.md)). Un sort de *[pénitence](./Pénitence.md)* peut être nécessaire pour rétablir un alignement malmené de façon involontaire ou par un changement de personnalité passager.
+Il vaut mieux laisser les joueurs jouer comme ils l’entendent. Si le personnage d’un joueur se comporte d’une manière que vous, [[MJ]], trouvez en désaccord avec son alignement, dites-lui qu’il n’agit pas selon son alignement et expliquez-lui pourquoi. Mais faites-le de manière amicale. Si un personnage veut changer d’alignement, laissez-le faire. Dans la plupart des cas, cela n’entraîne qu’un changement de personnalité, voire aucun si le changement vise juste à adapter l’alignement afin que celui-ci représente mieux la manière dont le personnage se comporte. Dans certains cas, un changement d’alignement se répercute sur les pouvoirs du personnage (consultez la description des [[classe|classes]]). Un sort de *[[pénitence]]* peut être nécessaire pour rétablir un alignement malmené de façon involontaire ou par un changement de personnalité passager.
 
-Les personnages qui changent souvent l’alignement de leur personnage devraient, en toute logique, jouer des [Chaotiques Neutres](./CN.md).
+Les personnages qui changent souvent l’alignement de leur personnage devraient, en toute logique, jouer des [[CN|Chaotiques Neutres]].
 
 {s:MenuGC}{s:GC}Avec le temps, il arrive qu’un personnage perde toutes ses illusions et s’engage sur la voie d’un nouvel alignement. Cette partie présente un système optionnel destiné à suivre l’évolution des changements incrémentiels apportés à l’alignement du personnage.
 
@@ -214,7 +214,7 @@ Techniquement, pour renforcer la position du personnage sur une section donnée 
 
 Un changement d’alignement forcé (avec, par exemple, un casque de changement d’alignement) change la position du personnage sur chaque axe d’alignement pour son opposé (1 devient 9, 2 devient 8, etc.) : un personnage parfaitement Neutre passerait aux extrêmes sur les deux axes d’alignement (1/1, 1/9, 9/1 ou 9/9). Contrairement aux changements d’alignement délibérés, un changement d’alignement forcé n’implique pas de malus de -1 pendant une semaine aux jets d’attaque, de sauvegarde et aux tests de compétences.
 
-L’utilisation d’un sort de *[pénitence](./Pénitence.md)* déplace la position du personnage sur l’axe d’alignement du nombre de point minimum requis pour que le personnage retrouve son ancien alignement. Par exemple, un paladin déchu utilisant *pénitence* pour redevenir Bon se place sur le 3 de l’axe Bon-Mauvais même s’il était à l’origine à 2 ou 1. Ce sort est un moyen d’inverser le pire résultat d’une imprudence, non de bénéficier d’un tampon de sécurité sur une section de l’axe d’alignement. Il pousse le personnage à s’enraciner dans les principes de son alignement restauré. L’utilisation de l’option « inversion magique d’un changement d’alignement » du sort de pénitence n’impose pas à la cible le malus normal du changement d’alignement aux jets d’attaques, de sauvegarde et aux tests de compétences mais l’acceptation de l’option « rédemption ou tentation » si.
+L’utilisation d’un sort de *[[pénitence]]* déplace la position du personnage sur l’axe d’alignement du nombre de point minimum requis pour que le personnage retrouve son ancien alignement. Par exemple, un paladin déchu utilisant *pénitence* pour redevenir Bon se place sur le 3 de l’axe Bon-Mauvais même s’il était à l’origine à 2 ou 1. Ce sort est un moyen d’inverser le pire résultat d’une imprudence, non de bénéficier d’un tampon de sécurité sur une section de l’axe d’alignement. Il pousse le personnage à s’enraciner dans les principes de son alignement restauré. L’utilisation de l’option « inversion magique d’un changement d’alignement » du sort de pénitence n’impose pas à la cible le malus normal du changement d’alignement aux jets d’attaques, de sauvegarde et aux tests de compétences mais l’acceptation de l’option « rédemption ou tentation » si.
 
 Un MJ qui souhaiterait mener une campagne plus réaliste ou donner plus de souplesse au changement d’alignement peut altérer la taille des sections d’alignement (où tout serait Neutre à l’exception du 1 et du 9), utiliser une échelle à plus de 9 points autorisant une graduation plus large pour la quantification des actes d’alignement ou créer des zones de transition, entre les sections d’alignement, permettant aux personnages de changer peu à peu d’alignement sans subir de malus.
 

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 50 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Armes alchimiques](./Armes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Armes alchimiques]]</span>
 ---
-Lorsqu’on enflamme ce bâton en bois de 30 centimètres, il se met à trembler et libère une poignée d’étincelles blanches diffusant la même lumière qu’une [torche](./Torche (objet).md). Un [round](./round.md) plus tard, il s’envole à une vitesse de 27 mètres pendant 1d6 rounds avant d’exploser dans une énorme gerbe de lumière et de bruit infligeant 2d6 points de dégâts de feu dans un rayon de 3 mètres ([Réflexes](./Réflexes.md) [DD](./DD.md) 15, 1/2 dégâts). Quiconque reçoit des dégâts de l’explosion est [aveuglé](./Aveuglé.md) ou [assourdi](./Assourdi.md) (50% de chances pour l’un comme pour l’autre) pendant 1 round. La fabrication de cet objet requiert un test d’[Artisanat](./Artisanat.md) (alchimie) DD 25.
+Lorsqu’on enflamme ce bâton en bois de 30 centimètres, il se met à trembler et libère une poignée d’étincelles blanches diffusant la même lumière qu’une [[Torche (objet)|torche]]. Un [[round]] plus tard, il s’envole à une vitesse de 27 mètres pendant 1d6 rounds avant d’exploser dans une énorme gerbe de lumière et de bruit infligeant 2d6 points de dégâts de feu dans un rayon de 3 mètres ([[Réflexes]] [[DD]] 15, 1/2 dégâts). Quiconque reçoit des dégâts de l’explosion est [[aveuglé]] ou [[assourdi]] (50% de chances pour l’un comme pour l’autre) pendant 1 round. La fabrication de cet objet requiert un test d’[[Artisanat]] (alchimie) DD 25.

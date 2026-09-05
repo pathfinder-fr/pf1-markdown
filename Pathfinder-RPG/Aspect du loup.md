@@ -10,16 +10,16 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Dru](./Druide.md) 5, [Rôd](./Rôdeur.md) 4  
+{s:APG}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Druide|Dru]] 5, [[Rôdeur|Rôd]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** le lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)
+**Durée** 1 minute/[[niveau]]
 
-Quand le personnage lance ce sort, il prend l'aspect d'un loup, y compris certaines de ses caractéristiques physiques. Il devient plus robuste, ses oreilles s'allongent et il lui pousse de la fourrure et des crocs acérés. Il gagne un bonus d'altération de +4 à la [Force](./Force.md) et à la [Dextérité](./Dextérité.md), le pouvoir [odorat](./odorat.md) et un bonus d'altération de +2 aux attaques de [croc-en-jambe](./croc-en-jambe.md). Il peut faire une manœuvre de [croc-en-jambe](./croc-en-jambe.md) par une [action rapide](./Action rapide.md). Cette manœuvre ne provoque pas d'[attaque d'opportunité](./attaque dopportunité.md).
+Quand le personnage lance ce sort, il prend l'aspect d'un loup, y compris certaines de ses caractéristiques physiques. Il devient plus robuste, ses oreilles s'allongent et il lui pousse de la fourrure et des crocs acérés. Il gagne un bonus d'altération de +4 à la [[Force]] et à la [[Dextérité]], le pouvoir [[odorat]] et un bonus d'altération de +2 aux attaques de [[croc-en-jambe]]. Il peut faire une manœuvre de [[croc-en-jambe]] par une [[action rapide]]. Cette manœuvre ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]].

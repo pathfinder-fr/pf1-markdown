@@ -11,33 +11,33 @@ Categories:
 <div class="BD">
 {s:BDTitre|Vukodlak|FP 3}
 {s:pucem|Mort-vivant|Forêt-Jungle|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.290](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.290]]*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille G, NM}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./Odorat (capacité).md), [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +10}
-{s:BDTexte|**Aura** [aura surnaturelle](./Aura surnaturelle (capacité).md)}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille G, NM}
+{s:BDTexte|**Init** +6 ; **Sens** [[Odorat (capacité)|odorat]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +10}
+{s:BDTexte|**Aura** [[Aura surnaturelle (capacité)|aura surnaturelle]]}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 13 (Dex +2, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 26 (4d8+8)}
 {s:BDTexte|**Réf** +3, **Vig** +3, **Vol** +5}
-{s:BDTexte|**RD** 5/argent ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants (capacité).md) ; **Résistances** électricité 5, froid 5}
+{s:BDTexte|**RD** 5/argent ; **Immunités** [[Traits des morts-vivants (capacité)|traits des morts-vivants]] ; **Résistances** électricité 5, froid 5}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m}
-{s:BDTexte|**Corps à corps** morsure, +7 (1d8+7 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** morsure, +7 (1d8+7 plus [[Étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,50 m}
-{s:BDTexte|**Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1d2 Constitution), regard terrifiant}
+{s:BDTexte|**Attaques spéciales** [[Absorption de sang (capacité)|absorption de sang]] (1d2 Constitution), regard terrifiant}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 15, **Con** —, **Int** 6, **Sag** 12, **Cha** 14}
-{s:BDTexte|**BBA** +3 ; **BMO** +9 (+13 en [lutte](./lutte.md)) ; **DMD** 21 (25 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./Course.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +8, [Intimidation](./Intimidation.md) +8, [Perception](./Perception.md) +10 ; **Modificateurs raciaux** +4 en Discrétion, +4 en Perception}
+{s:BDTexte|**BBA** +3 ; **BMO** +9 (+13 en [[lutte]]) ; **DMD** 21 (25 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +8, [[Intimidation]] +8, [[Perception]] +10 ; **Modificateurs raciaux** +4 en Discrétion, +4 en Perception}
 {s:BDTexte|**Langues** commun (incapable de parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terrestre}
 {s:BDTexte|**Organisation** solitaire, couple ou meute (3-11)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Regard terrifiant.** Cible [paralysée](./Paralysé.md) par la peur pendant 1 round, 9 mètres, [Volonté](./Volonté.md) DD 14 pour annuler. C’est un [effet mental](./Registre.md) de [terreur](./Registre.md). Si une créature réussit son jet de sauvegarde, elle est immunisée contre le [regard](./Regard (capacité).md) de ce vukodlak pendant 24 heures. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|**Regard terrifiant.** Cible [[paralysé|paralysée]] par la peur pendant 1 round, 9 mètres, [[Volonté]] DD 14 pour annuler. C’est un [[registre|effet mental]] de [[registre|terreur]]. Si une créature réussit son jet de sauvegarde, elle est immunisée contre le [[Regard (capacité)|regard]] de ce vukodlak pendant 24 heures. Le DD du jet de sauvegarde est basé sur le Charisme.}
 
 </div></td>
 <td><div>*Cette créature bestiale à la fourrure noire mêle les traits d’un loup et d’un cheval aux yeux rouges et au museau garni de crocs acérés.*

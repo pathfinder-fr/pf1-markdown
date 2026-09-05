@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Lorsqu’il attaque d’une position surélevée ou directement depuis les airs, le personnage atterrit sur ses ennemis en produisant un effet dévastateur.*
 
-**Condition.** [Mort venue du ciel](./Mort venue du ciel.md)
+**Condition.** [[Mort venue du ciel]]
 
-**Avantage.** Lorsque le personnage charge un adversaire depuis une position surélevée ou s’il vole, le multiplicateur de critique de son arme augmente de 2 (jusqu’à un maximum de ×6). Cet effet ne se cumule pas avec celui d’autres aptitudes qui augmentent par ailleurs le multiplicateur de critique d’une arme. Si l’attaque de charge touche au but, le personnage peut accomplir une [manœuvre offensive](./Manœuvre offensive.md) de [croc-en-jambe](./croc-en-jambe.md) contre la cible de la charge. Cette action est une [action libre](./Action libre.md) qui ne provoque aucune attaque d’opportunité.
+**Avantage.** Lorsque le personnage charge un adversaire depuis une position surélevée ou s’il vole, le multiplicateur de critique de son arme augmente de 2 (jusqu’à un maximum de ×6). Cet effet ne se cumule pas avec celui d’autres aptitudes qui augmentent par ailleurs le multiplicateur de critique d’une arme. Si l’attaque de charge touche au but, le personnage peut accomplir une [[manœuvre offensive]] de [[croc-en-jambe]] contre la cible de la charge. Cette action est une [[action libre]] qui ne provoque aucune attaque d’opportunité.

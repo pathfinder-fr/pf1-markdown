@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés p.62*}
 {s:BDTexte|**XP 2 400**}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md)) de taille M, LM}
-{s:BDTexte|**Init **+4 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18m, [vision dans les ténèbres](./Vision dans les ténèbres.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type loi|Loi]]) de taille M, LM}
+{s:BDTexte|**Init **+4 ; **Sens** [[vision dans le noir]] à 18m, [[vision dans les ténèbres]] ; [[Perception]] +11}
 (((Défense)))
 {s:BDTexte|**CA** 23, contact 15, pris au dépourvu 18 (Dex +4, esquive +1, naturelle +8)}
 {s:BDTexte|**Pv** 59 (7d10+21)}
@@ -29,12 +29,12 @@ Categories:
 {s:BDTexte|**Corps à corps** corsèque de maître, +12 (2d4+6) et 2 griffes, +11 (1d6+4)}
 {s:BDTexte|**Attaques spéciales** blessure infernale, souffle nocif, éventration (2 griffes, 1d6+1), convocation de diable}
 {s:BDTexte|**Pouvoirs magiques **(NLS 12)}
-{s:BDSorts|À volonté – [téléportation suprême](./Téléportation suprême.md) (personnelle plus 15kg d’objets uniquement)}
+{s:BDSorts|À volonté – [[téléportation suprême]] (personnelle plus 15kg d’objets uniquement)}
 (((Statistiques)))
 {s:BDTexte|**For** 18, **Dex** 19, **Con** 16, **Int** 10, **Sag** 12, **Cha** 11}
 {s:BDTexte|**BBA **+7 ; **BMO **+11 ; **DMD** 25}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +14, [Discrétion](./Discrétion.md) +14, [Évasion](./Évasion.md) +14, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +11, [Vol](./Vol.md) +14}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Esquive]], [[Souplesse du serpent]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +14, [[Discrétion]] +14, [[Évasion]] +14, [[Intimidation]] +10, [[Perception]] +11, [[Vol]] +14}
 {s:BDTexte|**Langues** céleste, draconique, infernal ; télépathie 30m}
 {s:BDTexte|**Particularités** maître lutteur, sens partagés}
 (((Écologie)))
@@ -58,13 +58,13 @@ Cette capacité est l’équivalent d’un sort de 3e niveau.}
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Diable de l'ost](./Diable de lost.md) (Magaav) || 6
+| [[Diable de lost|Diable de l'ost]] (Magaav) || 6
 |-
-| [Diable de l'ost majeur](./Diable de lost Majeur.md) (Magaav) || 6
+| [[Diable de lost Majeur|Diable de l'ost majeur]] (Magaav) || 6
 |-
-| [Diable de l'ost mineur](./Diable de lost mineur.md) (Gaav) || 3
+| [[Diable de lost mineur|Diable de l'ost mineur]] (Gaav) || 3
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 ''Des paires jumelles d’ailes de vautour galeuses et infectées de maux
 battent de concert, maintenant ce maigre fiélon rapace dans les airs.
 Des cornes tordues se dressent sur une tête ressemblant à un crâne
@@ -75,7 +75,7 @@ longue corsèque à trois pointes.''
 
 Tous les magaavs peuvent communiquer
 par télépathie avec tous les
-autres [gaavs](./Diable de lost mineur.md) et [magaavs](./Diable de lost Majeur.md) situés
+autres [[Diable de lost mineur|gaavs]] et [[Diable de lost Majeur|magaavs]] situés
 à moins de 30 mètres en simultané, permettant
 aux diables légionnaires majeurs de commander des
 essaims entiers. Bien que les magaavs se contredisent rarement

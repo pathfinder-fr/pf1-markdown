@@ -16,19 +16,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 3, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Occ](./Occultiste.md) 3, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 4  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature convoquée  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-Le personnage prend le contrôle d’une créature invoquée en détruisant le lien qui l’unit au lanceur de sorts qui l’a invoquée. Si la créature rate son jet de sauvegarde, le personnage peut lui donner des ordres comme si c’était lui qui l’avait invoquée. Le lanceur de sorts originel peut tenter d’en reprendre le contrôle par une [action simple](./Action simple.md) en faisant un test d’[Art de la magie](./Art de la magie.md) opposé à celui du personnage. Quand le sort du personnage se termine, l’invocateur
+Le personnage prend le contrôle d’une créature invoquée en détruisant le lien qui l’unit au lanceur de sorts qui l’a invoquée. Si la créature rate son jet de sauvegarde, le personnage peut lui donner des ordres comme si c’était lui qui l’avait invoquée. Le lanceur de sorts originel peut tenter d’en reprendre le contrôle par une [[action simple]] en faisant un test d’[[Art de la magie]] opposé à celui du personnage. Quand le sort du personnage se termine, l’invocateur
 originel reprend le contrôle. Si le sort de convocation se termine avant celui du personnage, la durée qui lui restait est perdue.

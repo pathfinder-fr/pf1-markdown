@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Contre-attaque
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Contre-attaque](./Descriptions individuelles des propriétés spéciales des armes.md#Contre-attaque)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Contre-attaque]]

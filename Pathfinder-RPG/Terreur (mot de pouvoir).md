@@ -9,10 +9,10 @@ Categories:
 ---
 
 {s:UM}
-**École** [nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[terreur](./Registre.md), [effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [barde](./Barde.md) 3, [inquisiteur](./Inquisiteur.md) 4, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 4, [sorcière](./Sorcière.md) 4  
+**École** [[nécromancie]] <nowiki>[</nowiki>[[registre|terreur]], [[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[barde]] 3, [[inquisiteur]] 4, [[ensorceleur]]/[[magicien]] 4, [[sorcière]] 4  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** Oui
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** Oui
 
-La victime de ce mot effet est [effrayée](./Effrayé.md) pour toute la durée du sort. Une cible qui réussit son [jet de sauvegarde](./jet de sauvegarde.md) est [secouée](./Secoué.md) pendant 1 [round](./round.md).
+La victime de ce mot effet est [[effrayé|effrayée]] pour toute la durée du sort. Une cible qui réussit son [[jet de sauvegarde]] est [[secoué|secouée]] pendant 1 [[round]].

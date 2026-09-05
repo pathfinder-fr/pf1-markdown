@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armes alchimiques#Feu grégeois
 ---
 
->>> [Armes alchimiques#Feu grégeois](./Armes alchimiques.md#Feu grégeois)
+>>> [[Armes alchimiques#Feu grégeois]]

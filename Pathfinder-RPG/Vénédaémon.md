@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés p.192*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, LM}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille M, LM}
 {s:BDTexte|**Init **+6 ; **Sens** vision dans le noir à 18m, vision magique ; Perception +12}
 (((Défense)))
 {s:BDTexte|**CA** 18, contact 12, pris au dépourvu 16 (Dex +2, naturelle +6)}
@@ -25,19 +25,19 @@ Categories:
 {s:BDTexte|**Corps à corps** 2 tentacules, +6 (1d6)}
 {s:BDTexte|**Attaques spéciales** écrasement magique de l’âme}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6 ; concentration +11)}
-{s:BDSorts|Permanent – [Vision magique](./Vision magique.md) }
-{s:BDSorts|3/jour - [porte dimensionnelle](./Porte dimensionnelle.md), [dissipation de la magie](./Dissipation de la magie.md), [lenteur](./Lenteur.md)}
-{s:BDSorts|1/jour - [convocation](./convocation.md) (niveau 3 [cacodaémon](./Cacodaémon.md), 75%)}
+{s:BDSorts|Permanent – [[Vision magique]] }
+{s:BDSorts|3/jour - [[porte dimensionnelle]], [[dissipation de la magie]], [[lenteur]]}
+{s:BDSorts|1/jour - [[convocation]] (niveau 3 [[cacodaémon]], 75%)}
 {s:BDTexte|**Sorts connus** (NLS 6 ; concentration +11)}
-{s:BDSorts|3e 4/jour - [immobilisation de personne](./Immobilisation de personne.md) (DD 18)}
-{s:BDSorts|2e 6/jour - [invisibilité](./Invisibilité.md) (DD 17), [rayon ardent](./Rayon ardent.md) (DD 17)}
-{s:BDSorts|1er 8/jour - [charme personne](./Charme-personne.md) (DD 16), [armure de mage](./Armure de mage.md), [projectile magique](./Projectile magique.md), [bouclier](./Bouclier.md)}
-{s:BDSorts|0 à volonté - [aspersion acide](./Aspersion acide.md), [signature magique](./Signature magique.md), [saignement](./Saignement.md) (DD 15), [manipulation à distance](./Manipulation à distance.md), [prestidigitation](./Prestidigitation.md), [rayon de givre](./Rayon de givre.md) (DD 15), [lecture de la magie](./Lecture de la magie.md)}
+{s:BDSorts|3e 4/jour - [[immobilisation de personne]] (DD 18)}
+{s:BDSorts|2e 6/jour - [[invisibilité]] (DD 17), [[rayon ardent]] (DD 17)}
+{s:BDSorts|1er 8/jour - [[Charme-personne|charme personne]] (DD 16), [[armure de mage]], [[projectile magique]], [[bouclier]]}
+{s:BDSorts|0 à volonté - [[aspersion acide]], [[signature magique]], [[saignement]] (DD 15), [[manipulation à distance]], [[prestidigitation]], [[rayon de givre]] (DD 15), [[lecture de la magie]]}
 (((Statistiques)))
 {s:BDTexte|**For** 11, **Dex** 15, **Con** 16, **Int** 22, **Sag** 16, **Cha** 21}
 {s:BDTexte|**BBA **+6 ; **BMO **+6 ; **DMD** 18}
-{s:BDTexte|**Dons** [Magie de guerre](./Magie de guerre.md), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [Science de l’initiative](./Science de linitiative.md), [Aptitude magique](./Aptitude magique.md) }
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +17, [Bluff](./Bluff.md) +14, [Connaissances](./Connaissances.md) (mystères) +15, [Connaissances](./Connaissances.md) (plans) +15, [Connaissances](./Connaissances.md) (religion) +12, [Déguisement](./Déguisement.md) +11, [Discrétion](./Discrétion.md) +11, [Intimidation](./Intimidation.md) +14, [Perception](./Perception.md) +12, [Psychologie](./Psychologie.md) +12, [Vol](./Vol.md) +11, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +16}
+{s:BDTexte|**Dons** [[Magie de guerre]], [[Dispense de composantes matérielles]], [[Science de linitiative|Science de l’initiative]], [[Aptitude magique]] }
+{s:BDTexte|**Compétences** [[Art de la magie]] +17, [[Bluff]] +14, [[Connaissances]] (mystères) +15, [[Connaissances]] (plans) +15, [[Connaissances]] (religion) +12, [[Déguisement]] +11, [[Discrétion]] +11, [[Intimidation]] +14, [[Perception]] +12, [[Psychologie]] +12, [[Vol]] +11, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +16}
 {s:BDTexte|**Langues** abyssal, céleste, commun, draconique, infernal, aquatique, igné ; télépathie 30m}
 (((Écologie)))
 {s:BDTexte|**Environnement** quelconque (Abaddon)}
@@ -53,7 +53,7 @@ nombre de Dés de Vie est au moins égal au niveau du sort qu’il
 veut lancer.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 ''Des robes de soie drapent la forme androgyne de ce daémon et ne révèlent
 que la silhouette du corps qu’elles dissimulent. Des tentacules
 terminés par des griffes sortent des manches, agrippant des baguettes

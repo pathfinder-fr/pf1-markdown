@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#MENSONGECONVAINCANT
 ---
 
->>> [Talents#MENSONGECONVAINCANT](./Talents.md#MENSONGECONVAINCANT)
+>>> [[Talents#MENSONGECONVAINCANT]]

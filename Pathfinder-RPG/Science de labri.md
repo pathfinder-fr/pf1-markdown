@@ -11,8 +11,8 @@ Categories:
 
 {s:mca} *La capacité des alliés du personnage à le protéger contre les dégâts s’étend aux attaques de zone.*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** [À l’abri](./À labri.md).
+**Conditions.** [[à labri|À l’abri]].
 
-**Avantage.** À chaque fois que le personnage utilise À l’abri, que son allié possède [esquive totale](./esquive totale.md) ou [esquive surnaturelle](./esquive surnaturelle.md) et que cet allié réussit son jet de sauvegarde, la moitié des dégâts que le personnage aurait dû recevoir sont transférés à son allié. (Ces dégâts ne sont pas réduits par l’[esquive totale](./esquive totale.md) ou l’[esquive surnaturelle](./esquive surnaturelle.md) de l’allié.)
+**Avantage.** À chaque fois que le personnage utilise À l’abri, que son allié possède [[esquive totale]] ou [[esquive surnaturelle]] et que cet allié réussit son jet de sauvegarde, la moitié des dégâts que le personnage aurait dû recevoir sont transférés à son allié. (Ces dégâts ne sont pas réduits par l’[[esquive totale]] ou l’[[esquive surnaturelle]] de l’allié.)

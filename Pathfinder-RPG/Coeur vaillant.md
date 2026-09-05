@@ -10,6 +10,6 @@ Categories:
 
 {s:mca}*Le personnage combat sa peur en chantant la mélodie qui résonne en son coeur.*
 
-**Conditions.** Pouvoir de classe [chant de rage](./Scalde.md#CHANTDERAGE).
+**Conditions.** Pouvoir de classe [[Scalde#CHANTDERAGE|chant de rage]].
 
-**Avantage.** Lorsqu’il maintient un chant de rage et qu’il rate un [jet de sauvegarde](./JDS.md) contre un effet de terreur, le personnage peut dépenser un [round](./round.md) de [représentation](./Représentation.md) pour relancer son jet par une [action immédiate](./Actions immédiates.md). Il doit garder le second résultat, même s’il est inférieur au premier.
+**Avantage.** Lorsqu’il maintient un chant de rage et qu’il rate un [[jds|jet de sauvegarde]] contre un effet de terreur, le personnage peut dépenser un [[round]] de [[représentation]] pour relancer son jet par une [[Actions immédiates|action immédiate]]. Il doit garder le second résultat, même s’il est inférieur au premier.

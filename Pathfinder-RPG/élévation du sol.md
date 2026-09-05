@@ -12,18 +12,18 @@ Categories:
 ---
 
 {s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[Terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 2, [Magus](./Magus.md) 2, [Prê](./Prêtre.md) 2, [Rôd](./Rôdeur.md) 2  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Magus]] 2, [[Prêtre|Prê]] 2, [[Rôdeur|Rôd]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./contact.md)  
+**Portée** [[contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-Ce sort permet à la cible de faire monter le sol sous ses pieds. Par une [action libre](./Action libre.md), elle peut provoquer une élévation de 1,50 mètre. Toutes les cases adjacentes sont alors traitées comme une [pente raide](./Aventures en extérieur.md#Collines_7) . L’élévation du sol empêche les ennemis placés en contrebas de prendre la cible du sort en tenaille. Si la cible se déplace après activation du sort, le sol reprend son altitude normale à la fin de son tour, sinon, il reste surélevé jusqu’à ce que la cible bouge ou utilise une action rapide pour le faire revenir à la normale. L’élévation du sol ne permet pas de surélever le sol de plus de 1,50 mètre.
+Ce sort permet à la cible de faire monter le sol sous ses pieds. Par une [[action libre]], elle peut provoquer une élévation de 1,50 mètre. Toutes les cases adjacentes sont alors traitées comme une [[Aventures en extérieur#Collines_7|pente raide]] . L’élévation du sol empêche les ennemis placés en contrebas de prendre la cible du sort en tenaille. Si la cible se déplace après activation du sort, le sol reprend son altitude normale à la fin de son tour, sinon, il reste surélevé jusqu’à ce que la cible bouge ou utilise une action rapide pour le faire revenir à la normale. L’élévation du sol ne permet pas de surélever le sol de plus de 1,50 mètre.

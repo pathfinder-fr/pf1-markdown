@@ -7,4 +7,4 @@ Categories:
 RedirectTo: résistance à la canalisation (capacité)
 ---
 
->>> [résistance à la canalisation (capacité)](./Résistance à la canalisation (capacité).md)
+>>> [[résistance à la canalisation (capacité)]]

@@ -14,22 +14,22 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[eau](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [San](./Sanguin.md) 1  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ;** Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature ou un objet  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Le personnage invoque un jet d'eau qui renverse et détrempe une créature ou une case. Le personnage peut utiliser ce sort pour [bousculer](./bousculade.md) une créature ou un objet. Le [BMO](./BMO.md) de cette [bousculade](./bousculade.md) est égal au [niveau de lanceur de sorts](./NLS.md) du personnage plus son modificateur d'[Intelligence](./Intelligence.md), de [Sagesse](./Sagesse.md) ou de [Charisme](./Charisme.md), selon celui qui est le plus élevé. Cette [bousculade](./bousculade.md) ne provoque pas d'[attaques d'opportunité](./attaque dopportunité.md). La *poussée hydraulique* éteint tout feu ordinaire sur une créature, un objet ou une unique case de 1,50 mètre (1 {s:c}) de côté. Il n'affecte pas les flammes magiques.
+Le personnage invoque un jet d'eau qui renverse et détrempe une créature ou une case. Le personnage peut utiliser ce sort pour [[bousculade|bousculer]] une créature ou un objet. Le [[BMO]] de cette [[bousculade]] est égal au [[NLS|niveau de lanceur de sorts]] du personnage plus son modificateur d'[[Intelligence]], de [[Sagesse]] ou de [[Charisme]], selon celui qui est le plus élevé. Cette [[bousculade]] ne provoque pas d'[[attaque dopportunité|attaques d'opportunité]]. La *poussée hydraulique* éteint tout feu ordinaire sur une créature, un objet ou une unique case de 1,50 mètre (1 {s:c}) de côté. Il n'affecte pas les flammes magiques.
 
 ### Mythique
 {s:CMy}
-L’eau est bouillante ou glaciale, ce qui inflige 1d6 points de dégâts de froid ou de feu par tranche de 2 niveaux de lanceur de sorts. Ajoutez le [grade](./Grade.md) du personnage à son BMO dans le cadre de ce sort.
+L’eau est bouillante ou glaciale, ce qui inflige 1d6 points de dégâts de froid ou de feu par tranche de 2 niveaux de lanceur de sorts. Ajoutez le [[grade]] du personnage à son BMO dans le cadre de ce sort.

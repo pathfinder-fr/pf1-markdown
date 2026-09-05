@@ -15,17 +15,17 @@ Categories:
 - Src Magic Tactics Toolbox
 ---
 
-{s:cs}{s:MTT}**École** [Divination](./Divination (école).md) ; **Niveau** [Bard](./Barde.md) 3, [Cham](./Chaman.md) 3, [Hyp](./Hypnotiseur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Méd](./Médium.md) 3, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 4
+{s:cs}{s:MTT}**École** [[Divination (école)|Divination]] ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 4
 **Temps d'incantation** 10 minutes
-**Composantes** [V, G, M/FD](./composantes.md) (un carré d'argent réfléchissant d'une valeur de 100 po)
-**Portée** [personnelle](./personnelle.md)
+**Composantes** [[composantes|V, G, M/FD]] (un carré d'argent réfléchissant d'une valeur de 100 po)
+**Portée** [[personnelle]]
 **Cibles** le lanceur de sorts
-**Durée** 1 minute/[niveau](./niveau.md)
+**Durée** 1 minute/[[niveau]]
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Le personnage essaie d'obtenir une esquisse d'un événement spécifique à partir des [annales akashiques](./Plans ésotériques.md#LESANNALESAKASHIQUES), le répertoire extraplanaire de toutes les expériences qui se sont déjà produites. Cela permet au personnage de tenter un test de compétence [Connaissance](./Connaissances.md) de son choix par 3 [niveaux de lanceur de sorts](./NLS.md) qu'il possède, chacun avec un bonus d'intuition de +10. Le personnage est considéré comme étant formé à toutes les compétences de [Connaissances](./Connaissances.md) utilisées pour ces tests, et il peut utiliser ce sort pour relancer un test de compétence de Connaissances qu'il a déjà échoué. Le MJ effectue les tests de Connaissances en secret, car les annales akashiques sont incroyablement éloignées et les impressions glanées dans le référentiel distant sont parfois faussées lorsqu'elles sont reçues. Sur un 1 naturel, la réponse obtenue est extrêmement inexacte.
+Le personnage essaie d'obtenir une esquisse d'un événement spécifique à partir des [[Plans ésotériques#LESANNALESAKASHIQUES|annales akashiques]], le répertoire extraplanaire de toutes les expériences qui se sont déjà produites. Cela permet au personnage de tenter un test de compétence [[Connaissances|Connaissance]] de son choix par 3 [[NLS|niveaux de lanceur de sorts]] qu'il possède, chacun avec un bonus d'intuition de +10. Le personnage est considéré comme étant formé à toutes les compétences de [[Connaissances]] utilisées pour ces tests, et il peut utiliser ce sort pour relancer un test de compétence de Connaissances qu'il a déjà échoué. Le MJ effectue les tests de Connaissances en secret, car les annales akashiques sont incroyablement éloignées et les impressions glanées dans le référentiel distant sont parfois faussées lorsqu'elles sont reçues. Sur un 1 naturel, la réponse obtenue est extrêmement inexacte.
 
-Ce sort fournit des conseils expérimentaux basés sur la capacité du personnage à comprendre les éclairs de perspicacité glanés dans les annales akashiques, plutôt que les parfaites connaissances disponibles pour ceux qui voyagent vers le plan du répertoire des connaissances. Si le personnage traîne, discute des réponses ou part faire autre chose, le sort prend fin. Une fois que le personnage a utilisé ce sort pour obtenir des informations sur un sujet ou un événement spécifique, il ne peut plus l'utiliser pour des tests de connaissances concernant ce sujet ou cet événement tant qu'il n'a pas gagné un [niveau de lanceur de sorts](./NLS.md).
+Ce sort fournit des conseils expérimentaux basés sur la capacité du personnage à comprendre les éclairs de perspicacité glanés dans les annales akashiques, plutôt que les parfaites connaissances disponibles pour ceux qui voyagent vers le plan du répertoire des connaissances. Si le personnage traîne, discute des réponses ou part faire autre chose, le sort prend fin. Une fois que le personnage a utilisé ce sort pour obtenir des informations sur un sujet ou un événement spécifique, il ne peut plus l'utiliser pour des tests de connaissances concernant ce sujet ou cet événement tant qu'il n'a pas gagné un [[nls|niveau de lanceur de sorts]].
 
 (((Akashic Communion
 Source Magic Tactics Toolbox pg. 16

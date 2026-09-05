@@ -10,12 +10,12 @@ Categories:
 - Sort magicien 2
 ---
 
-{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[air, feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 2, [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (piment trempé dans l'huile)
+{s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|air, feu]]<nowiki>]</nowiki> ; **Niveau** [[alchimiste|Alch]] 2, [[druide|Dru]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (piment trempé dans l'huile)
 **Portée** personnelle
 **Cible** le lanceur de sort
-**Durée** 1 [round](./round.md) + 1 [round](./round.md)/2 niveaux
-**Jet de sauvegarde** [Réflexes](./Réflexes.md), 1/2 dégâts ; **Résistance à la magie** oui
+**Durée** 1 [[round]] + 1 [[round]]/2 niveaux
+**Jet de sauvegarde** [[Réflexes]], 1/2 dégâts ; **Résistance à la magie** oui
 
-Ce sort provoque chez le personnage des crises d’éternuements puissants qui projettent de la morve enflammée susceptible de mettre le feu aux créatures, mais également de les renverser. Une fois ce sort lancé, le personnage doit éternuer chaque [round](./round.md) par une [action simple](./Action simple.md) – il ne peut effectuer aucune autre action simple, ni aucune [action complexe](./Action complexe.md), tant que dure ce sort. À chaque fois qu’il éternue, il produit un cône de feu et de vent long de 3 mètres. Toutes les créatures à l’intérieur de ce cône subissent 2d6 points de dégâts de feu ; un [jet de sauvegarde](./JDS.md) de [Réflexes](./Réflexes.md) diminue de moitié ces dégâts. Les créatures qui ratent leur jet de sauvegarde doivent immédiatement effectuer un jet de sauvegarde de [Vigueur](./Vigueur.md) pour ne pas être [renversées](./À terre.md) par la rafale de vent produite par l’éternuement.
+Ce sort provoque chez le personnage des crises d’éternuements puissants qui projettent de la morve enflammée susceptible de mettre le feu aux créatures, mais également de les renverser. Une fois ce sort lancé, le personnage doit éternuer chaque [[round]] par une [[action simple]] – il ne peut effectuer aucune autre action simple, ni aucune [[action complexe]], tant que dure ce sort. À chaque fois qu’il éternue, il produit un cône de feu et de vent long de 3 mètres. Toutes les créatures à l’intérieur de ce cône subissent 2d6 points de dégâts de feu ; un [[jds|jet de sauvegarde]] de [[Réflexes]] diminue de moitié ces dégâts. Les créatures qui ratent leur jet de sauvegarde doivent immédiatement effectuer un jet de sauvegarde de [[Vigueur]] pour ne pas être [[à terre|renversées]] par la rafale de vent produite par l’éternuement.

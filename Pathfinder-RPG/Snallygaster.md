@@ -10,7 +10,7 @@ LastModified: 2016-12-28 16:56
 {s:pucem|Aberration|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 263*}
 - 800 PX
-- [Aberration](./type Aberration.md) de taille M, CM
+- [[type aberration|Aberration]] de taille M, CM
 - **Init **+2 ; **Sens **vision dans le noir 18 m, odorat ; Perception +7
 (((Défense)))
 - **CA **15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)
@@ -23,8 +23,8 @@ LastModified: 2016-12-28 16:56
 (((Statistiques)))
 - **For** 17, **Dex **15, **Con **16, **Int **5, **Sag** 14, **Cha **9
 - **BBA **+3 ; **BMO** +6 (+10 en lutte) ; **DMD **18 (22 contre le croc-en-jambe)
-- **Dons **[Attaque en vol](./Attaque en vol.md), [Talent](./Talent.md) (Discrétion)
-- **Compétences **[Discrétion](./Discrétion.md) +9 (+13 en forêt), [Perception](./Perception.md) +7, [Vol](./Vol.md) +10
+- **Dons **[[Attaque en vol]], [[Talent]] (Discrétion)
+- **Compétences **[[Discrétion]] +9 (+13 en forêt), [[Perception]] +7, [[Vol]] +10
 - **Modificateurs **raciaux +4 en Discrétion dans les forêts
 - **Langues **aklo (ne sait pas parler)
 (((Écologie)))

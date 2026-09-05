@@ -11,12 +11,12 @@ Categories:
 
 {s:mca} *Le personnage déteste tellement un type particulier de créatures que son instinct de tueur s’est affiné.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Haine cinglante](./Haine cinglante.md), [attaque sournoise](./attaque sournoise.md) +3d6, pouvoir de classe [cible étudiée](./Tueur.md#CIBLEETUDIEE).
+**Conditions.** [[Haine cinglante]], [[attaque sournoise]] +3d6, pouvoir de classe [[tueur#CIBLEETUDIEE|cible étudiée]].
 
 **Avantage.** Quand le personnage réussit une attaque sournoise contre une créature qu’il a définie comme la cible de son don Haine cinglante, il lance des d8 plutôt que des d6 pour les dégâts de son attaque sournoise.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage réussit une [attaque sournoise](./attaque sournoise.md) contre une créature qui n’est pas la cible de sa [Haine cinglante](./Haine cinglante.md), il peut dépenser 5 points d’endurance pour considérer qu’elle est la cible de ce don lors de cette attaque.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage réussit une [[attaque sournoise]] contre une créature qui n’est pas la cible de sa [[Haine cinglante]], il peut dépenser 5 points d’endurance pour considérer qu’elle est la cible de ce don lors de cette attaque.

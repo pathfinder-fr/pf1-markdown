@@ -13,9 +13,9 @@ Categories:
 
 *L'inspiration du personnage fournit à ses alliés un plus grand renfort*
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
-**Condition.** [Cha](./Cha.md) 13, 6 rangs en [Diplomatie](./Diplomatie.md)
+**Condition.** [[Cha]] 13, 6 rangs en [[Diplomatie]]
 
 **Avantage.** Les bonus de moral accordés par un sort encourageant sont augmentés de 1. Un sort encourageant utilise un emplacement d’un niveau supérieur au niveau normal du sort.
 

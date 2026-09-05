@@ -8,6 +8,6 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-Jusqu’à trois fois par jour, quand la créature lance un sort, elle peut lancer sa [version mythique](./Sorts mythiques.md) (comme pour tous les sorts mythiques, elle doit dépenser pour cela une utilisation de [pouvoir mythique](./pouvoir mythique.md)).
+Jusqu’à trois fois par jour, quand la créature lance un sort, elle peut lancer sa [[Sorts mythiques|version mythique]] (comme pour tous les sorts mythiques, elle doit dépenser pour cela une utilisation de [[pouvoir mythique]]).
 
 *Format :* magie mythique 3/jour ; *Emplacement :* Attaques spéciales.

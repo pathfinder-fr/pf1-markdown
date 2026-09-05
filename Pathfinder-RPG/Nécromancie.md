@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#NECROMANCIE
 ---
 
->>> [Présentation des sorts#NECROMANCIE](./Présentation des sorts.md#NECROMANCIE)
+>>> [[Présentation des sorts#NECROMANCIE]]

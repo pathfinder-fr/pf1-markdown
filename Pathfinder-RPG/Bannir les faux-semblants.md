@@ -12,20 +12,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Inq](./Inquisiteur.md) 3, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5  
+**École** [[Abjuration]] ; **Niveau** [[Inquisiteur|Inq]] 3, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un clou de fer froid)  
+**Composantes** [[Composantes|V, G, M]] (un clou de fer froid)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature ou un objet  
 
-**Durée** [instantanée](./Présentation des sorts.md#DUREE) et 1 [round](./round.md)/[niveau](./niveau.md) ; voir texte  
+**Durée** [[présentation des sorts#DUREE|instantanée]] et 1 [[round]]/[[niveau]] ; voir texte  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Si le personnage réussit une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md), il peut dissiper une [Illusion](./Illusion.md) ou rendre sa forme naturelle à une créature. Ce sort fonctionne comme une *[dissipation de la magie](./Dissipation de la magie.md)* dirigée contre l'effet en question, hormis que le personnage reçoit un bonus d'altération de +2 au test de dissipation et qu'il peut seulement dissiper des [Illusions](./Illusion.md) ou des changements de forme créés par un effet surnaturel ou un sort. Si la créature touchée est affectée par plusieurs effets qui changent son apparence, le personnage peut en dissiper un par tranche de quatre [niveaux de lanceur de sorts](./NLS.md), à commencer par le sort qui possède le plus haut [niveau de lanceur de sorts](./NLS.md) et en terminant par celui qui possède le plus faible. Pour les pouvoirs surnaturels, le [niveau de lanceur de sorts](./NLS.md) est égal au nombre de DV de la créature. Une créature qui retrouve sa forme naturelle à cause d'un *bannir les faux-semblants* ne peut plus changer de forme pendant un nombre de [rounds](./round.md) égal au [niveau de lanceur de sorts](./NLS.md) du personnage.
+Si le personnage réussit une [[attaque de contact au corps à corps]], il peut dissiper une [[Illusion]] ou rendre sa forme naturelle à une créature. Ce sort fonctionne comme une *[[dissipation de la magie]]* dirigée contre l'effet en question, hormis que le personnage reçoit un bonus d'altération de +2 au test de dissipation et qu'il peut seulement dissiper des [[Illusion|Illusions]] ou des changements de forme créés par un effet surnaturel ou un sort. Si la créature touchée est affectée par plusieurs effets qui changent son apparence, le personnage peut en dissiper un par tranche de quatre [[NLS|niveaux de lanceur de sorts]], à commencer par le sort qui possède le plus haut [[NLS|niveau de lanceur de sorts]] et en terminant par celui qui possède le plus faible. Pour les pouvoirs surnaturels, le [[NLS|niveau de lanceur de sorts]] est égal au nombre de DV de la créature. Une créature qui retrouve sa forme naturelle à cause d'un *bannir les faux-semblants* ne peut plus changer de forme pendant un nombre de [[round|rounds]] égal au [[NLS|niveau de lanceur de sorts]] du personnage.
 
-*Bannir les faux-semblants* reste sans effets sur les changements d'apparence qui ne sont pas d'origine magique comme un *[déguisement](./Déguisement.md)* ou l'utilisation d'un pouvoir extraordinaire.
+*Bannir les faux-semblants* reste sans effets sur les changements d'apparence qui ne sont pas d'origine magique comme un *[[déguisement]]* ou l'utilisation d'un pouvoir extraordinaire.

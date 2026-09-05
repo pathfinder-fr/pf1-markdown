@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Enchevêtré
 ---
 
->>> [États préjudiciables#Enchevêtré](./États préjudiciables.md#Enchevêtré)
+>>> [[États préjudiciables#Enchevêtré]]

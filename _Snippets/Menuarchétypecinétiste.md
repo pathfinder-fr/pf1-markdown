@@ -4,11 +4,11 @@
 
 <div class="presentation navmenudroite">
 ### Les archétypes de cinétiste
-&nbsp;Retour à la [classe](./../Pathfinder-RPG/Cinétiste.md).
-<ul style="margin-top:2px"><li>[Âme invincible](./../Pathfinder-RPG/Âme invincible (Cinétiste).md) (AO)</li>
-<li>[Annihilateur élémentaire](./../Pathfinder-RPG/Annihilateur élémentaire (Cinétiste).md) (AO)</li>
-<li>[Ascète élémentaire](./../Pathfinder-RPG/Ascète élémentaire (Cinétiste).md) (AO)</li>
-<li>[Chirurgien cinétique](./../Pathfinder-RPG/Chirurgien cinétique (Cinétiste).md) (AO)</li>
-<li>[Cinétiste du sang](./../Pathfinder-RPG/Cinétiste du sang (Cinétiste).md) (AO)</li>
+&nbsp;Retour à la [[Cinétiste|classe]].
+<ul style="margin-top:2px"><li>[[Âme invincible (Cinétiste)|Âme invincible]] (AO)</li>
+<li>[[Annihilateur élémentaire (Cinétiste)|Annihilateur élémentaire]] (AO)</li>
+<li>[[Ascète élémentaire (Cinétiste)|Ascète élémentaire]] (AO)</li>
+<li>[[Chirurgien cinétique (Cinétiste)|Chirurgien cinétique]] (AO)</li>
+<li>[[Cinétiste du sang (Cinétiste)|Cinétiste du sang]] (AO)</li>
 </ul>
 </div>

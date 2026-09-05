@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#FORTEIMPRESSION
 ---
 
->>> [Talents#FORTEIMPRESSION](./Talents.md#FORTEIMPRESSION)
+>>> [[Talents#FORTEIMPRESSION]]

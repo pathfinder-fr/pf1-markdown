@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#LIGNEDEFFET
 ---
 
->>> [Présentation des sorts#LIGNEDEFFET](./Présentation des sorts.md#LIGNEDEFFET)
+>>> [[Présentation des sorts#LIGNEDEFFET]]

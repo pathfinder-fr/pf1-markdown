@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 1 pa ; **Poids** —
-<span class="Catégorie">**Catégorie** [Marché noir](./Marché noir.md)</span>
+<span class="Catégorie">**Catégorie** [[Marché noir]]</span>
 ---
 Ces clous de girofle blancs âcres servent de nourriture et de médicament et jouent un rôle dans de nombreux rituels de purification traditionnels. Il est bien établi que les vampires ne peuvent supporter la présence d'ail.

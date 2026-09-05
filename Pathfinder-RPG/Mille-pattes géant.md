@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.214}
 {s:BDTexte|**XP** 200}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -28,8 +28,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 9, **Dex** 15, **Con** 12, **Int** -, **Sag** 10, **Cha** 2}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 11 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Escalade](./Escalade.md) +10, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md), +4 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>B</sup>}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Escalade]] +10, [[Perception]] +4 ; **Modificateurs raciaux** +8 en [[Discrétion]], +4 en [[Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées, chaudes ou souterrain}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3-6)}
@@ -44,13 +44,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Mille-pattes à queue fouettante](./Mille-pattes à queue fouettante.md) || 3
+| [[Mille-pattes à queue fouettante]] || 3
 |-
-| [Mille-pattes géant](./Mille-pattes géant.md) || 1/2
+| [[Mille-pattes géant]] || 1/2
 |-
-| [Mille-pattes titanesque](./Mille-pattes titanesque.md) || 9
+| [[Mille-pattes titanesque]] || 9
 |-
-| [Nuée de mille-pattes](./Nuée de mille-pattes.md) || 4
+| [[Nuée de mille-pattes]] || 4
 |}
 </div>*Ce monstre allongé composé de plusieurs segments se tortille et tend ses mandibules venimeuses à la recherche de proie.*
 
@@ -68,8 +68,8 @@ sont plus petites, mais la plupart sont bien plus grandes.
 
 Vous pouvez représenter un large éventail d’espèces de mille-pattes
 géants à partir des caractéristiques données ci-dessus, en ajustant
-leur nombre de dés de vie et leur taille (adaptez la [Force](./Force.md), la [Dextérité](./Dextérité.md)
-et la [Constitution](./Constitution.md) en conséquence).
+leur nombre de dés de vie et leur taille (adaptez la [[Force]], la [[Dextérité]]
+et la [[Constitution]] en conséquence).
 
 Les variantes les plus courantes sont reprises dans la table ci-dessous :
 
@@ -113,7 +113,7 @@ Les variantes les plus courantes sont reprises dans la table ci-dessous :
 |}</center>
 
 #### Le Mille-pattes géant comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), escalade 6 m (4 {s:c}) ; **Attaque** morsure (1d4 plus poison) ; **Attaque spéciale** poison (*Fréquence* 1 round (6), *Effet* affaiblissement temporaire 1 [Dex](./Dextérité.md), *Guérison* 1 jet de sauvegarde, *DD* dépendant de la [Constitution](./Constitution.md)) ; **Particularité** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; **Caractéristiques** [For](./Force.md) 8, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 11, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 10, [Cha](./Charisme.md) 2 ; **CA** armure naturelle +2 ; **DMD** impossible de lui faire un [croc-en-jambe](./croc-en-jambe.md)
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), escalade 6 m (4 {s:c}) ; **Attaque** morsure (1d4 plus poison) ; **Attaque spéciale** poison (*Fréquence* 1 round (6), *Effet* affaiblissement temporaire 1 [[Dextérité|Dex]], *Guérison* 1 jet de sauvegarde, *DD* dépendant de la [[Constitution]]) ; **Particularité** [[vision dans le noir]] 18 m (12 {s:c}) ; **Caractéristiques** [[Force|For]] 8, [[Dextérité|Dex]] 17, [[Constitution|Con]] 11, [[Intelligence|Int]] –, [[Sagesse|Sag]] 10, [[Charisme|Cha]] 2 ; **CA** armure naturelle +2 ; **DMD** impossible de lui faire un [[croc-en-jambe]]
 
 **Développement au niveau 4.** **Taille** M ; **Attaque** morsure (1d6 plus poison) ; **Caractéristiques** For +4, Dex -2, Con +2
 </div></td></tr></table>

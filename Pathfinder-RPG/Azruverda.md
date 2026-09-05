@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 pages 26*}
 {s:BDTexte|**PX** 25 600}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille TG, CB}
-{s:BDTexte|**Init** +2 ; **Sens** [perception des vibrations](./Perception des vibrations.md) à 320 cases, [vision dans le noir](./vision dans le noir.md) à 12 cases ; [Perception](./Perception.md) +22}
+{s:BDTexte|[[type Aberration|Aberration]] de taille TG, CB}
+{s:BDTexte|**Init** +2 ; **Sens** [[perception des vibrations]] à 320 cases, [[vision dans le noir]] à 12 cases ; [[Perception]] +22}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 10, pris au dépourvu 23 (Dex +2, naturelle +15, taille -2)}
 {s:BDTexte|**PV** 168 (16d8+96)}
@@ -26,14 +26,14 @@ Categories:
 {s:BDTexte|**Corps à corps** 2 griffes, +21 (1d10+11) et morsure, +21 (2d6+11)}
 {s:BDTexte|**À distance** crachat d’acide +13 contact (10d6 acide)}
 {s:BDTexte|**Espace occupé** 4,50 m (3 {s:c}) ; Allonge 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** crachat d’acide, [éventration](./Éventration.md) (1d10+11)}
+{s:BDTexte|**Attaques spéciales** crachat d’acide, [[éventration]] (1d10+11)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 16 ; concentration +23)}
-{s:BDSorts|À volonté — *[Lueur féerique](./Lueur féerique.md)*, *[lumières dansantes](./Lumières dansantes.md)*}
-{s:BDSorts|3/jour — *[fléau d'insectes](./Fléau dinsectes.md)*, *[lumière du jour](./Lumière du jour.md)*, *[nuée grouillante](./Nuée grouillante.md)*, *[répulsif](./Répulsif.md)* (DD 21), *[vermine géante](./Vermine géante.md)*}
+{s:BDSorts|À volonté — *[[Lueur féerique]]*, *[[lumières dansantes]]*}
+{s:BDSorts|3/jour — *[[fléau dinsectes|fléau d'insectes]]*, *[[lumière du jour]]*, *[[nuée grouillante]]*, *[[répulsif]]* (DD 21), *[[vermine géante]]*}
 {s:BDTexte|**For** 32, **Dex** 15, **Con** 23, **Int** 14, **Sag** 16, **Cha** 25}
 {s:BDTexte|**BBA** +12, **BMO** +25 (+29 bousculade), **DMD** 37 (39 contre la bousculade, 45 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (crachat d’acide), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Bousculade supérieure](./Bousculade supérieure.md), [Coup fabuleux](./Coup fabuleux.md), [Science de la bousculade](./Science de la bousculade.md), [Tir à bout portant](./Tir à bout portant.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +15, [Connaissances](./Connaissances.md) (exploration souterraine) +12, [Connaissances](./Connaissances.md) (nature) +12, [Dressage](./Dressage.md) +17, [Escalade](./Escalade.md) +26, [Intimidation](./Intimidation.md) +26, [Perception](./Perception.md) +22, [Psychologie](./Psychologie.md) +13, [Survie](./Survie.md) +16}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (crachat d’acide), [[Attaque en puissance]], [[Attaques réflexes]], [[Bousculade supérieure]], [[Coup fabuleux]], [[Science de la bousculade]], [[Tir à bout portant]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +15, [[Connaissances]] (exploration souterraine) +12, [[Connaissances]] (nature) +12, [[Dressage]] +17, [[Escalade]] +26, [[Intimidation]] +26, [[Perception]] +22, [[Psychologie]] +13, [[Survie]] +16}
 {s:BDTexte|**Langues** aklo, commun, commun des profondeurs}
 {s:BDTexte|**Particularités** maître de la vermine}
 {s:BDSousTitre|Écologie}
@@ -42,7 +42,7 @@ Categories:
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Crachat d’acide (Ext).** Un azruverda peut cracher un jet d’acide sur une cible située à moins de 18 m par une attaque de contact à distance, infligeant 10d6 points de dégâts d’acide.}
-{s:BDTexte|**Maître de la vermine (Sur).** Un azruverda peut contrôler mentalement jusqu’à 32 DV (deux fois les dés de vie raciaux de l’azruverda) de vermine à la fois par combinaison de phéromones surnaturelles et de manipulation de la magie. L’azruverda doit voir la vermine pour pouvoir la contrôler, et celle-ci doit être dans un rayon de 36 m autour de lui. Il suffit d’une action simple pour tenter de contrôler la vermine : celle-ci peut résister avec un jet de [Volonté](./Volonté.md) de DD 25. Si la vermine rate son jet, l’azruverda peut lui donner un ordre mental simple tel que« bats-toi », « viens ici », « va là-bas » ou « tiens-toi tranquille » par une action rapide. Même si elle se compose de milliers d’entités individuelles, la vermine appartenant au sous-type nuée est aussi vulnérable à cette capacité. Un azruverda peut libérer une créature de son contrôle par une action libre. La vermine affectée par cette capacité agit normalement, à moins que l’azruverda ne la contrôle activement, mais n’attaque jamais son maître. Le DD du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).}
+{s:BDTexte|**Maître de la vermine (Sur).** Un azruverda peut contrôler mentalement jusqu’à 32 DV (deux fois les dés de vie raciaux de l’azruverda) de vermine à la fois par combinaison de phéromones surnaturelles et de manipulation de la magie. L’azruverda doit voir la vermine pour pouvoir la contrôler, et celle-ci doit être dans un rayon de 36 m autour de lui. Il suffit d’une action simple pour tenter de contrôler la vermine : celle-ci peut résister avec un jet de [[Volonté]] de DD 25. Si la vermine rate son jet, l’azruverda peut lui donner un ordre mental simple tel que« bats-toi », « viens ici », « va là-bas » ou « tiens-toi tranquille » par une action rapide. Même si elle se compose de milliers d’entités individuelles, la vermine appartenant au sous-type nuée est aussi vulnérable à cette capacité. Un azruverda peut libérer une créature de son contrôle par une action libre. La vermine affectée par cette capacité agit normalement, à moins que l’azruverda ne la contrôle activement, mais n’attaque jamais son maître. Le DD du jet de sauvegarde est basé sur le [[Charisme]].}
 
 
 </div>

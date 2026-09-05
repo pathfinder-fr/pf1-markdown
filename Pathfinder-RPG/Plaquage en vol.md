@@ -12,9 +12,9 @@ Categories:
 
 *Vous faites rapidement tomber à terre tout ennemi déséquilibré.*
 
-**Condition.** [Science de la bousculade](./Science de la bousculade.md)
+**Condition.** [[Science de la bousculade]]
 
-**Avantage.** Lorsque le personnage tente une manœuvre de [renversement](./renversement.md) contre un adversaire [pris au dépourvu](./Pris au dépourvu.md), s'il parvient à le mettre [à terre](./À terre.md), il peut aussi tomber [à terre](./À terre.md) et tenter une manœuvre de [lutte](./lutte.md) contre la créature par une [action libre](./Action libre.md). Procéder ainsi ne provoque pas d'[attaque d'opportunité](./AO.md) de la part de la cible.
+**Avantage.** Lorsque le personnage tente une manœuvre de [[renversement]] contre un adversaire [[pris au dépourvu]], s'il parvient à le mettre [[à terre]], il peut aussi tomber [[à terre]] et tenter une manœuvre de [[lutte]] contre la créature par une [[action libre]]. Procéder ainsi ne provoque pas d'[[AO|attaque d'opportunité]] de la part de la cible.
 
 (((Flying Tackle
 

@@ -12,18 +12,18 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [Illusion](./Illusion.md) ([fantasme](./fantasme.md)) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 2, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 2, [Spi](./Spirite.md) 2  
+{s:AO}**École** [[Illusion]] ([[fantasme]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 2, [[médium|Méd]] 2, [[occultiste|Occ]] 2, [[psychiste|Psy]] 2, [[spirite|Spi]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [moyenne](./courte.md) (30 m + 3 m/niveau)  
+**Portée** [[courte|moyenne]] (30 m + 3 m/niveau)  
 
 **Cible** 1 créature  
 
 **Durée** 1 minute/niveau  
 
-**Jet de sauvegarde** [Volonté annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; Résistance à la magie oui
+**Jet de sauvegarde** [[présentation des sorts#JETSDESAUVEGARDE|Volonté annule]] ; Résistance à la magie oui
 
-Le personnage entame un [duel psychique](./Duels psychiques.md) avec une créature. Ce duel se déroule dans un [paysage mental binaire](./Paysages mentaux.md#PAYSAGESMENTAUXBINAIRES) comprenant seulement deux esprits : le sien et celui de sa cible. Le sort se termine et les deux esprits retournent dans leur corps respectif si l’un des deux tombe au-dessous de 0 point de vie ou si les deux acceptent de mettre un terme au duel (une [action libre](./Action libre.md) qui peut s’effectuer en dehors de son tour). Même si c’est bien le personnage qui a lancé le sort, il doit réussir un jet de [Volonté](./Volonté.md) s’il veut fuir le duel alors que son adversaire refuse de le laisser partir. Il peut aussi quitter le duel via une *[porte sur un paysage mental](./Porte sur un paysage mental.md)* (ce sort étant l’un des rares que l’on puisse lancer dans un [paysage mental binaire](./Paysages mentaux.md#PAYSAGESMENTAUXBINAIRES)). Le [paysage mental binaire](./Paysages mentaux.md#PAYSAGESMENTAUXBINAIRES) est de toute évidence illusoire et son fonctionnement ne change pas si l’un des protagonistes perce l’illusion à jour.
+Le personnage entame un [[Duels Psychiques|duel psychique]] avec une créature. Ce duel se déroule dans un [[Paysages mentaux#PAYSAGESMENTAUXBINAIRES|paysage mental binaire]] comprenant seulement deux esprits : le sien et celui de sa cible. Le sort se termine et les deux esprits retournent dans leur corps respectif si l’un des deux tombe au-dessous de 0 point de vie ou si les deux acceptent de mettre un terme au duel (une [[action libre]] qui peut s’effectuer en dehors de son tour). Même si c’est bien le personnage qui a lancé le sort, il doit réussir un jet de [[Volonté]] s’il veut fuir le duel alors que son adversaire refuse de le laisser partir. Il peut aussi quitter le duel via une *[[porte sur un paysage mental]]* (ce sort étant l’un des rares que l’on puisse lancer dans un [[Paysages mentaux#PAYSAGESMENTAUXBINAIRES|paysage mental binaire]]). Le [[Paysages mentaux#PAYSAGESMENTAUXBINAIRES|paysage mental binaire]] est de toute évidence illusoire et son fonctionnement ne change pas si l’un des protagonistes perce l’illusion à jour.

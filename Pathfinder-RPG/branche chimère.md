@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#CHIMERE
 ---
 
->>> [Présentation des sorts#CHIMERE](./Présentation des sorts.md#CHIMERE)
+>>> [[Présentation des sorts#CHIMERE]]

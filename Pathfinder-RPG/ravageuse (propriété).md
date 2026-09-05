@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Ravageuse
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Ravageuse](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Ravageuse)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Ravageuse]]

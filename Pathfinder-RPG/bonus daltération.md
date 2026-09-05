@@ -7,4 +7,4 @@ Categories:
 RedirectTo: armes magiques#BONUSALTERATION
 ---
 
->>> [armes magiques#BONUSALTERATION](./Armes magiques.md#BONUSALTERATION)
+>>> [[armes magiques#BONUSALTERATION]]

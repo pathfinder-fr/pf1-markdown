@@ -6,4 +6,4 @@ Categories:
 - Campagne
 ---
 
-Page a supprimer . replacée par [++Pathfinder-RPG.Mouche géante démoniaque](./../Pathfinder-RPG/Mouche géante démoniaque.md)
+Page a supprimer . replacée par [[Pathfinder-RPG.Mouche géante démoniaque]]

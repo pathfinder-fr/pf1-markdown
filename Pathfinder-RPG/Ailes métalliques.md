@@ -8,6 +8,6 @@ Categories:
 
 {s:MR}*Les ailes de l’aasimar sont faites d’un métal scintillant.*
 
-**Conditions requises.** [Sang angélique](./Sang angélique.md), [Chair angélique](./Chair angélique.md), [Ailes d'ange](./Ailes dange.md), [aasimar](./Aasimar (race).md), personnage de niveau 11
+**Conditions requises.** [[Sang angélique]], [[Chair angélique]], [[Ailes dange|Ailes d'ange]], [[Aasimar (race)|aasimar]], personnage de niveau 11
 
 **Avantages.** L’aasimar gagne deux attaques d’aile. Ce sont des attaques naturelles secondaires infligeant 1d4 points de dégâts tranchants (ou 1d3 si l’aasimar est de taille P).

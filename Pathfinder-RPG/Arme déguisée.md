@@ -16,11 +16,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [illusion](./Illusion.md) ([hallucination](./hallucination.md)) ; **Niveau** [Bard](./Barde.md) 1, [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1  
+{s:MCA}**École** [[illusion]] ([[hallucination]]) ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
 
 **Temps d’incantation** 1 round  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** contact  
 
@@ -29,4 +29,4 @@ Categories:
 **Durée** 1 heure/niveau (T)
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Le personnage donne à une arme manufacturée l’apparence d’une autre arme manufacturée de même taille et d’encombrement relatif (légère, à une main ou à deux mains). Par exemple, il pourrait donner à une épée à deux mains de taille P l’apparence d’un bâton de taille P, d’un gourdin de taille M ou d’une dague de taille G. Il est même possible de lui donner l’apparence d’une arme improvisée. Le degré de changement d’apparence dépend du personnage. Il pourrait ajouter ou dissimuler une caractéristique mineure ou donner l’impression que l’arme est composée de différents matériaux (pierre, bois, adamantium, etc.). Ce sort n’offre aucune des capacités de la forme choisie et n’altère par les propriétés tactiles ou auditives de l’objet, non plus que la façon dont on le manie. Une créature qui interagit avec l’hallucination peut tenter un jet de [Volonté](./Volonté.md) pour remarquer qu’il s’agit d’une illusion.
+Le personnage donne à une arme manufacturée l’apparence d’une autre arme manufacturée de même taille et d’encombrement relatif (légère, à une main ou à deux mains). Par exemple, il pourrait donner à une épée à deux mains de taille P l’apparence d’un bâton de taille P, d’un gourdin de taille M ou d’une dague de taille G. Il est même possible de lui donner l’apparence d’une arme improvisée. Le degré de changement d’apparence dépend du personnage. Il pourrait ajouter ou dissimuler une caractéristique mineure ou donner l’impression que l’arme est composée de différents matériaux (pierre, bois, adamantium, etc.). Ce sort n’offre aucune des capacités de la forme choisie et n’altère par les propriétés tactiles ou auditives de l’objet, non plus que la façon dont on le manie. Une créature qui interagit avec l’hallucination peut tenter un jet de [[Volonté]] pour remarquer qu’il s’agit d’une illusion.

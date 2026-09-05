@@ -6,21 +6,21 @@ Categories:
 - Sort magicien 8
 ---
 
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8  
+**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 8  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (mercure, gomme arabique et fumée)  
+**Composantes** [[composantes|V, G, M/FD]] (mercure, gomme arabique et fumée)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** 1 créature ou 1 objet non magique (jusqu’à un cube de 3 m (2 {s:c}) de côté/[niveau](./niveau.md))  
+**Cible** 1 créature ou 1 objet non magique (jusqu’à un cube de 3 m (2 {s:c}) de côté/[[niveau]])  
 
 **Durée** voir description  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) (voir texte) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) (voir texte) ; **Résistance à la magie** oui (objet)
 
-Ce sort est semblable à *[métamorphose suprême](./Métamorphose suprême.md)*, si ce n’est qu’il permet de transformer un objet ou une créature. Ce sort permet d’effectuer toutes sortes de transformations, le personnage ne se limite pas à transformer des êtres vivants en autres êtres vivants. La durée du sort dépend de l’importance du changement séparant la forme résultante de la forme d’origine. On peut la déterminer en se référant aux indications suivantes :
+Ce sort est semblable à *[[métamorphose suprême]]*, si ce n’est qu’il permet de transformer un objet ou une créature. Ce sort permet d’effectuer toutes sortes de transformations, le personnage ne se limite pas à transformer des êtres vivants en autres êtres vivants. La durée du sort dépend de l’importance du changement séparant la forme résultante de la forme d’origine. On peut la déterminer en se référant aux indications suivantes :
 
 <center>
 {| CLASS="tablo"
@@ -36,7 +36,7 @@ facteur de durée*
 |- CLASS="alt"
 | Rapport direct (brindille et arbre, fourrure et animal ; etc.) || +2
 |-
-| [Intelligence](./Intelligence.md) égale ou inférieure || +2
+| [[Intelligence]] égale ou inférieure || +2
 |}
 </center>
 
@@ -47,24 +47,24 @@ facteur de durée*
 |- CLASS="titre"
 | Facteur de durée || Exemple de transformation || Durée
 |- CLASS="premier"
-| 0 || De caillou en [humain](./Humain.md) || 20 mn
+| 0 || De caillou en [[humain]] || 20 mn
 |- CLASS="alt"
-| 2 || De marionnette en [humain](./Humain.md) || 1 heure
+| 2 || De marionnette en [[humain]] || 1 heure
 |-
-| 4 || D’[humain](./Humain.md) en marionnette || 3 heures
+| 4 || D’[[humain]] en marionnette || 3 heures
 |- CLASS="alt"
-| 5 || De [lézard](./Lézard.md) en [manticore](./Manticore.md) || 12 heures
+| 5 || De [[lézard]] en [[manticore]] || 12 heures
 |-
 | 6 || De mouton en manteau de laine || 2 jours
 |- CLASS="alt"
-| 7 || De musaraigne en [manticore](./Manticore.md) || 1 semaine
+| 7 || De musaraigne en [[manticore]] || 1 semaine
 |-
-| 9+ || De [manticore](./Manticore.md) en musaraigne || Permanente
+| 9+ || De [[manticore]] en musaraigne || Permanente
 |}
 </center>
 
-Si la cible du sort n’a pas de valeur de caractéristique physique ([Force](./Force.md), [Dextérité](./Dextérité.md) ou [Constitution](./Constitution.md)), le sort lui attribue une valeur de 10 pour chaque caractéristique manquante. Si la cible n’a pas de valeur de caractéristique mentale ([Intelligence](./Intelligence.md), [Sagesse](./Sagesse.md) ou [Charisme](./Charisme.md)) le sort lui attribue une valeur de 5. Le sujet peut être tué par les dégâts qu’il subit sous sa nouvelle forme. *Métamorphose universelle* ne permet pas de rendre magique un objet qui ne l’est pas. Les objets magiques ne sont pas affectés par ce sort.
+Si la cible du sort n’a pas de valeur de caractéristique physique ([[Force]], [[Dextérité]] ou [[Constitution]]), le sort lui attribue une valeur de 10 pour chaque caractéristique manquante. Si la cible n’a pas de valeur de caractéristique mentale ([[Intelligence]], [[Sagesse]] ou [[Charisme]]) le sort lui attribue une valeur de 5. Le sujet peut être tué par les dégâts qu’il subit sous sa nouvelle forme. *Métamorphose universelle* ne permet pas de rendre magique un objet qui ne l’est pas. Les objets magiques ne sont pas affectés par ce sort.
 
-Ce sort ne peut pas non plus créer des substances ou matières précieuses (cuivre, argent, soie, or, platine, [mithral](./mithral.md), [adamantium](./../Golarion/adamantium.md) ou gemmes). Il ne permet pas davantage de dupliquer les effets du [fer froid](./fer froid.md) pour passer outre la [réduction des dégâts](./RD.md) de certaines créatures.
+Ce sort ne peut pas non plus créer des substances ou matières précieuses (cuivre, argent, soie, or, platine, [[mithral]], [[adamantium]] ou gemmes). Il ne permet pas davantage de dupliquer les effets du [[fer froid]] pour passer outre la [[RD|réduction des dégâts]] de certaines créatures.
 
-*Métamorphose universelle* peut reproduire les effets de *[métamorphose funeste](./Métamorphose funeste.md)*, *[métamorphose suprême](./Métamorphose suprême.md)*, *[pétrification](./Pétrification.md)*, *[transmutation de la boue en pierre](./Transmutation de la boue en pierre.md)*, *[transmutation du métal en bois](./Transmutation du métal en bois.md)*, *[transmutation de la pierre en boue](./Transmutation de la pierre en boue.md)* et de *[transmutation de la pierre en chair](./Transmutation de la pierre en chair.md)*.
+*Métamorphose universelle* peut reproduire les effets de *[[métamorphose funeste]]*, *[[métamorphose suprême]]*, *[[pétrification]]*, *[[transmutation de la boue en pierre]]*, *[[transmutation du métal en bois]]*, *[[transmutation de la pierre en boue]]* et de *[[transmutation de la pierre en chair]]*.

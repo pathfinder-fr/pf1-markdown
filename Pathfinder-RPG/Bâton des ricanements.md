@@ -11,16 +11,16 @@ Categories:
 
 <div class="BD">
 {s:APG}{s:BDTitre|Bâton des ricanements|}
-**Aura** Multiples modérées ; **NLS** 9 ; **Emplacement** aucun ([bâton](./Bâtons magiques.md)) ; **Prix** 56 700 po ; **Poids** 2,5 kg
+**Aura** Multiples modérées ; **NLS** 9 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 56 700 po ; **Poids** 2,5 kg
 (((Description)))
 Les épines qui garnissent ce bout de bois noueux le rendent difficile à manier pour les imprudents. Il permet de lancer les sorts suivants :
-• *[baiser du vampire](./Baiser du vampire.md)* (2 charges)
-• *[blessure modérée](./Blessure modérée.md)* (1 charge)
-• *[cécité/surdité](./Cécitésurdité.md)* (1 charge)
-• *[charme-personne](./Charme-personne.md)* (1 charge)
-• *[immobilisation de personne](./Immobilisation de personne.md)* (1 charge)
-• *[malédiction](./malédiction.md)* (2 charges)
-• *[métamorphose funeste](./Métamorphose funeste.md)* (2 charges)
+• *[[baiser du vampire]]* (2 charges)
+• *[[blessure modérée]]* (1 charge)
+• *[[cécitésurdité|cécité/surdité]]* (1 charge)
+• *[[charme-personne]]* (1 charge)
+• *[[immobilisation de personne]]* (1 charge)
+• *[[malédiction]]* (2 charges)
+• *[[métamorphose funeste]]* (2 charges)
 (((Création)))
-**Conditions** [Création de bâtons magiques](./Création de bâtons magiques.md), *[baiser du vampire](./Baiser du vampire.md)*, *[blessure modérée](./Blessure modérée.md)*, *[cécité/surdité](./Cécitésurdité.md)*, *[charme-personne](./Charme-personne.md)*, *[immobilisation de personne](./Immobilisation de personne.md)*, *[malédiction](./malédiction.md)*, *[métamorphose funeste](./Métamorphose funeste.md)* ; **Coût** 28 350 po
+**Conditions** [[Création de bâtons magiques]], *[[baiser du vampire]]*, *[[blessure modérée]]*, *[[cécitésurdité|cécité/surdité]]*, *[[charme-personne]]*, *[[immobilisation de personne]]*, *[[malédiction]]*, *[[métamorphose funeste]]* ; **Coût** 28 350 po
 </div>

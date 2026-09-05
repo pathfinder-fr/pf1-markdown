@@ -10,21 +10,21 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Frappenoire|FP 8}
-{s:BDTexte|*Source : [Manuel des PNJ p. 236](./Manuel des PNJ (Contenu).md)*}
+{s:BDTexte|*Source : [[Manuel des PNJ (contenu)|Manuel des PNJ p. 236]]*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Humain](./Humain.md) [guerrier](./Guerrier.md) 7/[maître des ombres](./Maître des ombres.md) 2}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md)) de taille M, CN}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[Humain]] [[Guerrier]] 7/[[Maître des ombres]] 2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]]) de taille M, CN}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 14, pris au dépourvu 17 (armure +5, Dex +2, esquive +1, naturelle +1, parade +1)}
 {s:BDTexte|**pv** 86 (7d10+2d8+34)}
 {s:BDTexte|**Réf** +8, **Vig** +9, **Vol** +4 ; +2 contre la peur}
-{s:BDTexte|**Capacités défensives** [courage +2](./Guerrier.md#COURAGE), [esquive instinctive](./Maître des ombres.md#ESQUIVEINSTINCTIVE), [esquive totale](./Maître des ombres.md#ESQUIVETOTALE)}
+{s:BDTexte|**Capacités défensives** [[Guerrier#COURAGE|courage +2]], [[Maître des ombres#ESQUIVEINSTINCTIVE|esquive instinctive]], [[Maître des ombres#ESQUIVETOTALE|esquive totale]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** *épée à deux mains +1*, +17/+12 (2d6+13/19–20)}
 {s:BDTexte|**Distance** arc court de maître, +11/+6 (1d6/×3)}
-{s:BDTexte|**Attaques spéciales** [entraînement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) (lames lourdes +1)}
+{s:BDTexte|**Attaques spéciales** [[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] (lames lourdes +1)}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Avant le combat.** Le maître des ombres boit sa *potion de force de taureau*. S’il sait où aura lieu le combat, il va reconnaître l’emplacement pour repérer les bonnes cachettes.}
 {s:BDTexte|**Pendant le combat.** Le maître des ombres boit sa *potion de flou*, puis se cache dans les ombres en attaquant avec son épée à deux mains les adversaires situés en périphérie du combat pour ne pas trop se rapprocher du coeur de la mêlée.}
@@ -32,10 +32,10 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 22, **Dex** 14, **Con** 14, **Int** 12, **Sag** 10, **Cha** 8}
 {s:BDTexte|**BBA** +8 ; **BMO** +14 ; **DMD** 28}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée à deux mains), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Perturbateur](./Perturbateur.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Souplesse du serpent](./Souplesse du serpent.md), [Spécialisation martiale](./Spécialisation martiale.md) (épée à deux mains)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +14, [Connaissances](./Connaissances.md) (folklore local, géographie, religion) +2, [Connaissances](./Connaissances.md) (mystères) +4, [Discrétion](./Discrétion.md) +14, [Dressage](./Dressage.md) +3, [Équitation](./Équitation.md) +6, [Escalade](./Escalade.md) +10, [Natation](./Natation.md) +10, [Perception](./Perception.md) +12, [Premiers secours](./Premiers secours.md) +1, [Représentation](./Représentation.md) (danse) +4}
-{s:BDTexte|**Particularités** [discrétion totale](./Maître des ombres.md#DISCRETIONTOTALE), [entraînement aux armures 2](./Guerrier.md#ENTRAINEMENTAUXARMURES)}
-{s:BDTexte|**Équipement de combat** *[potion](./Potions magiques.md) de [flou](./Flou.md)*, *[potion](./Potions magiques.md) de [force de taureau](./Force de taureau.md)*, *[potion](./Potions magiques.md) de [soins modérés](./Soins modérés.md)* ; **Équipement divers** *[chemise de mailles](./chemise de mailles (armure).md) +1*, [arc court](./Arc court (arme).md) [de maître](./arme de maître.md) avec 20 [flèches](./Flèches (arme).md), *[épée à deux mains](./épée à deux mains (arme).md) +1*, *[amulette d'armure naturelle +1](./Amulette darmure naturelle.md)*, *[anneau de protection +1](./Anneau de protection.md)*, *[cape de résistance +1](./Cape de résistance.md)*, 219 po}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée à deux mains), [[Attaque en puissance]], [[Attaques réflexes]], [[Esquive]], [[Frappe décisive]], [[Perturbateur]], [[Réflexes surhumains]], [[Robustesse]], [[Souplesse du serpent]], [[Spécialisation martiale]] (épée à deux mains)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +14, [[Connaissances]] (folklore local, géographie, religion) +2, [[Connaissances]] (mystères) +4, [[Discrétion]] +14, [[Dressage]] +3, [[Équitation]] +6, [[Escalade]] +10, [[Natation]] +10, [[Perception]] +12, [[Premiers secours]] +1, [[Représentation]] (danse) +4}
+{s:BDTexte|**Particularités** [[Maître des ombres#DISCRETIONTOTALE|discrétion totale]], [[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures 2]]}
+{s:BDTexte|**Équipement de combat** *[[Potions magiques|potion]] de [[flou]]*, *[[Potions magiques|potion]] de [[force de taureau]]*, *[[Potions magiques|potion]] de [[soins modérés]]* ; **Équipement divers** *[[chemise de mailles (armure)|chemise de mailles]] +1*, [[arc court (arme)|arc court]] [[arme de maître|de maître]] avec 20 [[Flèches (arme)|flèches]], *[[épée à deux mains (arme)|épée à deux mains]] +1*, *[[amulette darmure naturelle|amulette d'armure naturelle +1]]*, *[[anneau de protection|anneau de protection +1]]*, *[[cape de résistance|cape de résistance +1]]*, 219 po}
 </div></td>
 <td><div>Tels des cauchemars lancinants qui reposent dans les ombres, les frappenoires rôdent à la périphérie du champ de vision mais restent suffisamment près pour frapper à tout instant.
 

@@ -4,11 +4,11 @@ Title: Le Retour des Ténèbres
 LastModified: 2014-04-28 21:55
 ---
 
-Vous trouverez la présentation de cette campagne sur [cette page](./Présentation AP3.md).
+Vous trouverez la présentation de cette campagne sur [[Présentation AP3|cette page]].
 
 ### Aides de jeu générales
 
-[^http://paizo.com/forums/dmtz199d?Second-Darkness-Conversions-to-Pathfinder-RPG|Lien vers les conversions en Pathfinder des bestiaires de la campagne.] (VO)
+[Lien vers les conversions en Pathfinder des bestiaires de la campagne.](http://paizo.com/forums/dmtz199d?Second-Darkness-Conversions-to-Pathfinder-RPG) (VO)
 
 ### Aides de jeu pour Une Ombre dans le Ciel
 

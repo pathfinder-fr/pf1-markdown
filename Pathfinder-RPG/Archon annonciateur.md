@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 3 page 15*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([archon](./sous-type archon.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md)) de taille TP, LB}
-{s:BDTexte|**Init** +6 ; **Sens** *[détection du Mal](./Détection du Mal.md)*, [vision dans le noir](./vision dans le noir.md) à 12 cases, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type archon|archon]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]]) de taille TP, LB}
+{s:BDTexte|**Init** +6 ; **Sens** *[[détection du Mal]]*, [[vision dans le noir]] à 12 cases, [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 15, pris au dépourvu 13 (Dex +2, esquive +1, naturelle +1, taille +2)}
 {s:BDTexte|**pv** 16 (3d10)}
-{s:BDTexte|**Réf** +5, **Vig** +1, **Vol** +4 ; +4 contre le [poison](./poison.md)}
-{s:BDTexte|**RD** 5/Mal ; **Immunité** électricité, [pétrification](./Pétrification.md)}
+{s:BDTexte|**Réf** +5, **Vig** +1, **Vol** +4 ; +4 contre le [[poison]]}
+{s:BDTexte|**RD** 5/Mal ; **Immunité** électricité, [[pétrification]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 15 m (10 {s:c}) (parfaite)}
 {s:BDTexte|**Corps à corps** 3 lames, +4 (1d4-1)}
 {s:BDTexte|**Espace occupé** 75 cm (1 {s:c}) ; Allonge 0 m (0 {s:c})}
 {s:BDTexte|**Attaque spéciale** colère}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6 ; concentration +7)}
-{s:BDSorts|Constant — *[détection du Mal](./Détection du Mal.md)*}
-{s:BDSorts|À volonté — *[lumières dansantes](./Lumières dansantes.md)* (durée T)}
-{s:BDSorts|3/jour — *[protection contre le Mal](./Protection contre le Mal.md)*, *[soins légers](./Soins légers.md)*}
-{s:BDSorts|1/semaine — *[communion](./Communion.md)* (NLS 12, 6 questions)}
+{s:BDSorts|Constant — *[[détection du Mal]]*}
+{s:BDSorts|À volonté — *[[lumières dansantes]]* (durée T)}
+{s:BDSorts|3/jour — *[[protection contre le Mal]]*, *[[soins légers]]*}
+{s:BDSorts|1/semaine — *[[communion]]* (NLS 12, 6 questions)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 15, **Con** 11, **Int** 10, **Sag** 13, **Cha** 12}
 {s:BDTexte|**BBA** +3, **BMO** +3, **DMD** 12}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +6, [Connaissances](./Connaissances.md) (religion) +6, [Diplomatie](./Diplomatie.md) +7, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7, [Vol](./Vol.md) +20}
+{s:BDTexte|**Dons** [[Esquive]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +6, [[Connaissances]] (religion) +6, [[Diplomatie]] +7, [[Perception]] +7, [[Psychologie]] +7, [[Vol]] +20}
 {s:BDTexte|**Langues** céleste, draconique, infernal ; langage universel}
 {s:BDTexte|**Particularités** archon mineur, désassemblage}
 {s:BDSousTitre|Écologie}
@@ -44,11 +44,11 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Archon mineur (Ext).** Les archons annonciateurs ne possèdent pas les capacités aura de menace et téléportation des archons plus puissants.}
-{s:BDTexte|**Colère (Ext).** Une fois par minute, l’archon annonciateur peut émettre une décharge d’énergie infligeant 2d6 dégâts de force aux créatures adjacentes. Il faut réussir un jet de [Réflexes](./Réflexes.md) de DD 12 pour réduire les dégâts de moitié. L’annonciateur peut ignorer les cibles de son choix pour cette décharge, n’infligeant alors de dégâts qu’aux ennemis qu’il désigne. Le DD du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).}
+{s:BDTexte|**Colère (Ext).** Une fois par minute, l’archon annonciateur peut émettre une décharge d’énergie infligeant 2d6 dégâts de force aux créatures adjacentes. Il faut réussir un jet de [[Réflexes]] de DD 12 pour réduire les dégâts de moitié. L’annonciateur peut ignorer les cibles de son choix pour cette décharge, n’infligeant alors de dégâts qu’aux ennemis qu’il désigne. Le DD du jet de sauvegarde est basé sur le [[Charisme]].}
 {s:BDTexte|**Désassemblage (Sur).** En dépensant une action de mouvement, l’annonciateur peut désassembler tous ses composants. On considère alors qu’il est sous forme gazeuse, à la seule différence que l’archon conserve sa vitesse de vol maximale, ainsi que sa RD, et ne peut pas passer dans des trous dont le diamètre est inférieur à 2,5 cm. Il lui suffit de dépenser une action simple pour reprendre sa forme de planétaire.}
 {s:BDTexte|**Lames (Ext).** L’annonciateur peut faire jaillir des lames de son corps pour frapper l’ennemi, les utilisant comme des attaques naturelles primaires. Ces lames ont un bonus d’altération de +1 aux jets d’attaque et de dégâts, et elles sont considérées comme magiques et d’alignement Bon à chaque fois qu’il faut passer une réduction de dégâts.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [archons](./Archon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[archon|archons]].***</li></ul>
 *Ce planétaire miniature fend les airs en faisant jaillir, de temps en temps, de fines lames aiguisées. *
 
 Bien qu’ils fassent partie des
@@ -69,8 +69,8 @@ annonciateurs peuvent également
 qu’ils endossent avec enthousiasme,
 prenant la pleine responsabilité de guider
 l’âme de leur maître vers le salut. Un lanceur
-de sorts doit avoir le don [Familier supérieur](./Familier supérieur.md), un
-[alignement](./Alignement.md) Loyal Bon et un [niveau de lanceur de sorts](./NLS.md)
+de sorts doit avoir le don [[Familier supérieur]], un
+[[alignement]] Loyal Bon et un [[NLS|niveau de lanceur de sorts]]
 profanes de 7 ou plus pour posséder un familier annonciateur.
 L’annonciateur ressemble à une maquette mécanique
 tournoyante du système planétaire. Son soleil, ses lunes et ses

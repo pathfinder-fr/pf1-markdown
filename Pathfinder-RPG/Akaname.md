@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Aberration|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.15*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille P, N}
-{s:BDTexte|**Init** +2 ; **Sens** , [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Aberration|Aberration]] de taille P, N}
+{s:BDTexte|**Init** +2 ; **Sens** , [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 11 (Dex +2, taille +1)}
 {s:BDTexte|**pv** 13 (2d8+4)}
@@ -23,13 +23,13 @@ Categories:
 {s:BDTexte|**Faiblesse** sensible à la lumière}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 9 m}
-{s:BDTexte|**Corps à corps** langue, +4 (1d4+3 plus maladie et [distraction](./Distraction.md))}
+{s:BDTexte|**Corps à corps** langue, +4 (1d4+3 plus maladie et [[distraction]])}
 {s:BDTexte|**Attaques spéciales** distraction (DD 13)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 15, **Con** 15, **Int** 10, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 14}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (exploration souterraine) +5, [Discrétion](./Discrétion.md) +11, [Escalade](./Escalade.md) +10, [Évasion](./Évasion.md) +11, [Perception](./Perception.md) +6 ; **Modificteurs raciaux** +4 en [Évasion](./Évasion.md)}
+{s:BDTexte|**Dons** [[Attaque en puissance]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (exploration souterraine) +5, [[Discrétion]] +11, [[Escalade]] +10, [[Évasion]] +11, [[Perception]] +6 ; **Modificteurs raciaux** +4 en [[Évasion]]}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** expert en escalade}
 {s:BDSousTitre|Écologie}
@@ -37,9 +37,9 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou culte (3-6 plus 1 otyugh)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|** Maladie (Ext).** *Fièvre des marais* : Langue — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; effet affaiblissement temporaire 1d3 [Dex](./Dextérité.md) et 1d3 [Con](./Constitution.md) ; guérison 2 réussites consécutives. Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|** Maladie (Ext).** *Fièvre des marais* : Langue — blessure ; *JdS* [[Vigueur]] [[DD]] 13 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; effet affaiblissement temporaire 1d3 [[Dextérité|Dex]] et 1d3 [[Constitution|Con]] ; guérison 2 réussites consécutives. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].}
 {s:BDTexte|**Expert en escalade (Ext).** Un akaname peut escalader tous types
-de surfaces, même les plus glissantes ou les plus escarpées. Dans les faits, on considère que les akanames sont constamment sous l’effet d’une version naturelle du sort de *[pattes d’araignée](./Pattes daraignée.md)* avec une vitesse d’escalade de 9 mètres.}
+de surfaces, même les plus glissantes ou les plus escarpées. Dans les faits, on considère que les akanames sont constamment sous l’effet d’une version naturelle du sort de *[[pattes daraignée|pattes d’araignée]]* avec une vitesse d’escalade de 9 mètres.}
 </div>
 </td><td><div>*Cette petite créature filiforme a une peau verruqueuse brun-rouge et deux grands yeux noirs. Sa longue langue musculeuse traîne par terre derrière lui.*
 

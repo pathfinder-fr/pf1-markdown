@@ -11,8 +11,8 @@ Categories:
 
 {s:uc}*L’allié du personnage lui prête ses yeux et inversement.*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** 3 [rangs](./rang.md) en [Perception](./Perception.md)
+**Conditions.** 3 [[rang|rangs]] en [[Perception]]
 
-**Avantage.** Quand le personnage est [pris en tenaille](./Pris en tenaille.md) et adjacent à un allié qui possède ce don, il reçoit un bonus de circonstances de +2 à la [CA](./CA.md) contre les attaques venant des adversaires qui forment la tenaille.
+**Avantage.** Quand le personnage est [[pris en tenaille]] et adjacent à un allié qui possède ce don, il reçoit un bonus de circonstances de +2 à la [[CA]] contre les attaques venant des adversaires qui forment la tenaille.

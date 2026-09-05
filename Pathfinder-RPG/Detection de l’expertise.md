@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Détection de lexpertise
 ---
 
->>> [Pathfinder-RPG.Détection de lexpertise](./Détection de lexpertise.md)
+>>> [[Pathfinder-RPG.Détection de lexpertise]]

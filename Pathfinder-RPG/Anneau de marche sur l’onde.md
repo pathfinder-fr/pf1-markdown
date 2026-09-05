@@ -8,13 +8,13 @@ Categories:
 - Objet magique
 ---
 
-<div style="float:right">***Retour aux [anneaux magiques](./Anneaux magiques.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[anneaux magiques]].***</div><div class="BD">
 {s:BDTitre|Anneau de marche sur l’onde|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée; **NLS** 9 ; **Emplacement** anneau ; **Prix** 15 000 po ; **Poids** —
+**Aura** [[Transmutation]] modérée; **NLS** 9 ; **Emplacement** anneau ; **Prix** 15 000 po ; **Poids** —
 (((Description)))
-Cet anneau est souvent fait de corail ou de métal bleuté orné de vagues. Il permet au porteur d’utiliser en permanence les effets du sort [marche sur l’onde](./Marche sur londe.md).
+Cet anneau est souvent fait de corail ou de métal bleuté orné de vagues. Il permet au porteur d’utiliser en permanence les effets du sort [[marche sur londe|marche sur l’onde]].
 (((Fabrication)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), [marche sur l’onde](./Marche sur londe.md) ; **Coût** 7 500 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], [[marche sur londe|marche sur l’onde]] ; **Coût** 7 500 po
 </div>
 
 *Source : Armes et Équipements p172*

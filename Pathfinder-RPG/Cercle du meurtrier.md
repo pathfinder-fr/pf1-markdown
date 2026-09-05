@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Une fois que le personnage a lardé son adversaire de coups, il décrit des cercles autour de lui, comme un animal prêt à porter le coup de grâce.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [spectacle](./Dons.md#DONSPECTACLE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONSPECTACLE|spectacle]]
 
-**Conditions.** [Esquive](./Esquive.md), 4 rangs en [Acrobaties](./Acrobaties.md)
+**Conditions.** [[Esquive]], 4 rangs en [[Acrobaties]]
 
-**Avantage.** Quand le personnage passe une [action rapide](./Action rapide.md) à faire un test de combat de spectacle après un [coup critique](./coup critique.md) ou une [manœuvre offensive](./Manœuvre offensive.md) et qu’il est adjacent à la cible du critique ou de la manœuvre, il peut se placer dans n’importe quelle case adjacente à la cible, sans provoquer d’ [attaque d’opportunité](./attaque dopportunité.md). Pour cela, le chemin doit être dégagé jusqu’à la case et le personnage doit pouvoir l’atteindre par une [action de mouvement](./Action de mouvement.md). S’il termine ce mouvement dans une case autre que celle de départ, il gagne un bonus de +2 au test de combat de spectacle.
+**Avantage.** Quand le personnage passe une [[action rapide]] à faire un test de combat de spectacle après un [[coup critique]] ou une [[manœuvre offensive]] et qu’il est adjacent à la cible du critique ou de la manœuvre, il peut se placer dans n’importe quelle case adjacente à la cible, sans provoquer d’ [[attaque dopportunité|attaque d’opportunité]]. Pour cela, le chemin doit être dégagé jusqu’à la case et le personnage doit pouvoir l’atteindre par une [[action de mouvement]]. S’il termine ce mouvement dans une case autre que celle de départ, il gagne un bonus de +2 au test de combat de spectacle.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 2 points d’endurance pour utiliser ce don après avoir infligé des dégâts maximaux ou réussi une [feinte](./feinte.md) contre une créature. Il doit être adjacent à la créature.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 2 points d’endurance pour utiliser ce don après avoir infligé des dégâts maximaux ou réussi une [[feinte]] contre une créature. Il doit être adjacent à la créature.

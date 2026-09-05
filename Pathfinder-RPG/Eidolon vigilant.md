@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*L’eidolon du personnage est très observateur et le lien qu’il entretient avec lui augmente la vigilance de son maître. *
 
-**Condition.** [Eidolon](./eidolon.md)
+**Condition.** [[Eidolon]]
 
-**Avantage.** Tant que l’eidolon est à portée du personnage, ce dernier gagne un bonus de +4 aux tests de [Perception](./Perception.md). S’il possède 10 rangs ou plus dans cette compétence, le bonus passe à +8. Ce don ne fonctionne pas si l’eidolon est [sans défense](./Sans défense.md) ou [inconscient](./Inconscient.md).
+**Avantage.** Tant que l’eidolon est à portée du personnage, ce dernier gagne un bonus de +4 aux tests de [[Perception]]. S’il possède 10 rangs ou plus dans cette compétence, le bonus passe à +8. Ce don ne fonctionne pas si l’eidolon est [[sans défense]] ou [[inconscient]].

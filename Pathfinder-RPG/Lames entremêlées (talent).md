@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#LAMEENTREMELEES
 ---
 
->>> [Talents#LAMEENTREMELEES](./Talents.md#LAMEENTREMELEES)
+>>> [[Talents#LAMEENTREMELEES]]

@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vous êtes prêt à répondre à la plupart des actions de vos ennemis.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Tactique de la sentinelle](./Tactique de la sentinelle.md), [École de la sentinelle](./École de la sentinelle.md), [Tir de précision](./Tir de précision.md), [Tir rapide](./Tir rapide.md), [Arme de prédilection](./Arme de prédilection.md) avec l'arme choisie, [BBA](./BBA.md) +11
+**Conditions.** [[Tactique de la sentinelle]], [[École de la sentinelle]], [[Tir de précision]], [[Tir rapide]], [[Arme de prédilection]] avec l'arme choisie, [[BBA]] +11
 
-**Avantages.** Lorsqu'il utilise l'[École de la sentinelle](./École de la sentinelle.md), le personnage peut préparer jusqu'à 4 attaques à distance avec l'arme choisie par une [action complexe](./Action complexe.md), chacune avec sa propre condition de déclenchement. Il subit un malus de -2 aux [jets d'attaque](./jet dattaque.md) sur ces actions préparées.
+**Avantages.** Lorsqu'il utilise l'[[École de la sentinelle]], le personnage peut préparer jusqu'à 4 attaques à distance avec l'arme choisie par une [[action complexe]], chacune avec sa propre condition de déclenchement. Il subit un malus de -2 aux [[jet dattaque|jets d'attaque]] sur ces actions préparées.

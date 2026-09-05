@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 - *Source : Bestiaire 4* p.144
 - **PX** 1 600
-- [Animal](./type Animal.md) ([aquatique](./sous-type aquatique.md)) de taille TG, N
-- **Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +13
+- [[type Animal|Animal]] ([[sous-type aquatique|aquatique]]) de taille TG, N
+- **Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] +13
 (((Défense)))
 - **CA** 17, contact 9, pris au dépourvu 16 (armure +8, Dex +1, taille -2)
 - **pv** 63 (6d8+36)
 - **Réf** +6, **Vig** +10, **Vol** +3
-- **Capacités défensives** ancrage (voir [hippocampe géant](./Hippocampe géant.md))
+- **Capacités défensives** ancrage (voir [[hippocampe géant]])
 (((Attaque)))
 - **VD** nage 12 m (8 {s:c})
 - **Corps à corps** morsure, +10 (1d8+8 et saignement) et coup de queue, +5 (1d6+4 et étreinte)
@@ -29,8 +29,8 @@ Categories:
 (((Caractéristiques)))
 - **For** 26, **Dex** 12, **Con** 21, **Int** 1, **Sag** 12, **Cha** 7
 - **BBA** +4, **BMO** +14, **DMD** 25
-- **Dons** [Endurance](./Endurance.md), [Robustesse](./Robustesse.md), [Talent](./Talent.md) (Perception)
-- **Compétences** [Perception](./Perception.md) +13, [Natation](./Natation.md) +16
+- **Dons** [[Endurance]], [[Robustesse]], [[Talent]] (Perception)
+- **Compétences** [[Perception]] +13, [[Natation]] +16
 (((Écologie)))
 - **Environnement** océans
 - **Organisation sociale** solitaire, couple ou banc (3-8)
@@ -47,9 +47,9 @@ volonté.
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Hippocampe géant](./Hippocampe géant.md) || 3
+| [[Hippocampe géant]] || 3
 |-
-| [Hippocampe tueur](./Hippocampe tueur.md) || 5
+| [[Hippocampe tueur]] || 5
 |}
 </div>*Cette créature aquatique de la taille d’un éléphant ressemble au mélange d’un cheval et d’un poisson avec des yeux hagards et tournoyants.*
 

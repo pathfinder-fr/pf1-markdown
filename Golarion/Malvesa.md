@@ -7,4 +7,4 @@ Categories:
 - Géographie
 ---
 
-La Malvesa est une rivière du [Chéliax](./Chéliax.md), affluent de l'[Iseld](./Iseld.md) qu'elle rejoint dans le [Bois du Murmure](./Bois du Murmure.md) au niveau de [Senara](./Senara.md).
+La Malvesa est une rivière du [[Chéliax]], affluent de l'[[Iseld]] qu'elle rejoint dans le [[Bois du Murmure]] au niveau de [[Senara]].

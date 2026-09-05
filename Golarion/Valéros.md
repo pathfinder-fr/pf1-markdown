@@ -13,9 +13,9 @@ Pris tout à coup d'une envie soudaine et irrésistible pour une vie qui ne se l
 
 Valéros a bien changé au cours des années qui se sont écoulées depuis ce moment ; il n'est plus ce jeune homme aux grands yeux curieux qui ne s'intéressait qu'à la joie de l'exploration (et peut-être une jolie fille dégourdie ou deux à qui conter ses histoires). Apparemment, la vie des voyageurs est plus difficile que ce que les bardes racontent : Valéros, l'adulte, a des cicatrices qui le prouvent. Valéros, qui s'est découvert un talent pour le maniement de l'épée, a rapidement rejoint les rangs des mercenaires les plus rugueux et c'est ainsi qu'il a découvert les facettes les plus sales et les plus dures du combat. Personne ne pouvait nier qu'il était doué à l'épée (ou, plus précisément, avec deux épées) mais il ne restait jamais très longtemps avec le même groupe de mercenaires. Par exemple, il a travaillé comme garde pour le Consortium Aspis à une époque, mais cela s'est terminé lorsqu'une partie des colis dont il avait la garde a disparu (ce qui n'avait rien à voir avec le fait que les habitants locaux surexploités mouraient par manque de nourriture et n'avaient besoin que d'un petit peu plus pour pouvoir survivre à l'hiver). Puis il y a eu cette brève période pendant laquelle il a œuvré en tant que chasseur de primes et il a découvert qu'il était beaucoup plus facile de pourchasser les meurtriers échappés que de ramener les jeunes femmes qui ont fui un mariage sans amour. Puis, bien sûr, il y a eu ce terrible accident avec le groupe du Molesteur, au sujet duquel Valéros se contente de dire qu'il est sur et certain que leur chef a été écrasé par cet éboulement… sans quoi il n'aurait jamais osé toucher son épouse.
 
-Au final, après avoir travaillé comme homme de main pour des dizaines d'employeurs, Valéros a finalement réalisé que la seule manière dont il pourrait éviter d'être blâmé pour des choses qui n'étaient pas sa faute (du moins, pas vraiment) était de s'établir en tant qu'aventurier itinérant à son compte, en compagnie de ceux qui l'appréciaient à sa juste valeur et en écartant ceux qui ne le faisaient pas. Et si l'un ou l'autre de ces compagnons était une [ensorceleuse varisienne](./Séoni.md) ou une [roublarde elfe](./Mérisiel.md), c'était tant mieux.
+Au final, après avoir travaillé comme homme de main pour des dizaines d'employeurs, Valéros a finalement réalisé que la seule manière dont il pourrait éviter d'être blâmé pour des choses qui n'étaient pas sa faute (du moins, pas vraiment) était de s'établir en tant qu'aventurier itinérant à son compte, en compagnie de ceux qui l'appréciaient à sa juste valeur et en écartant ceux qui ne le faisaient pas. Et si l'un ou l'autre de ces compagnons était une [[Séoni|ensorceleuse varisienne]] ou une [[Mérisiel|roublarde elfe]], c'était tant mieux.
 
-Valéros le reconnaît : il n'est pas le meilleur lorsqu'il s'agit de suivre des ordres, mais c'est un combattant à deux lames extrêmement talentueux, qui gagne facilement sa place au sein de n'importe quel groupe grâce à la ténacité et au courage sans faille (certains parleraient plutôt de témérité) dont il fait preuve lorsqu'il se lance dans la bataille. Malgré sa réputation de bagarreur et de vaurien, Valéros a acquis de nombreuses connaissances ici et là au cours de ses voyages et il peut même lire (une chose que ses respectables parents n'ont jamais appris à faire). Ce fidèle de [Cayden Cailéan](./Cayden Cailéan.md), le seul dieu qui comprend réellement le besoin de liberté pour tout homme, adopte une approche calme et détachée vis-à-vis de la vie, de la richesse et des relations. Il apprécie les belles armes et le confort matériel mais le seul objet dont il ne se sépare jamais est la chope qui pend à sa ceinture (parce qu'on ne sait jamais quand quelqu'un pourrait vous offrir à boire).
+Valéros le reconnaît : il n'est pas le meilleur lorsqu'il s'agit de suivre des ordres, mais c'est un combattant à deux lames extrêmement talentueux, qui gagne facilement sa place au sein de n'importe quel groupe grâce à la ténacité et au courage sans faille (certains parleraient plutôt de témérité) dont il fait preuve lorsqu'il se lance dans la bataille. Malgré sa réputation de bagarreur et de vaurien, Valéros a acquis de nombreuses connaissances ici et là au cours de ses voyages et il peut même lire (une chose que ses respectables parents n'ont jamais appris à faire). Ce fidèle de [[Cayden Cailéan]], le seul dieu qui comprend réellement le besoin de liberté pour tout homme, adopte une approche calme et détachée vis-à-vis de la vie, de la richesse et des relations. Il apprécie les belles armes et le confort matériel mais le seul objet dont il ne se sépare jamais est la chope qui pend à sa ceinture (parce qu'on ne sait jamais quand quelqu'un pourrait vous offrir à boire).
 
 Cet homme au cœur noble est profondément loyal envers ceux qui parviennent à gagner son affection (un exploit en lui-même), mais il masque ces sentiments par un comportement blasé et grossier en faisant souvent remarquer qu'il n'y a rien de mieux qu'une "soirée passée à boire et en douce compagnie".
 
@@ -25,9 +25,9 @@ Cet homme au cœur noble est profondément loyal envers ceux qui parviennent à 
 {s:BDTitre|Valéros|(niveau 1)}
 - Humain (m) guerrier 1
 - Humanoïde (humain) de taille M, NB
-- **Divinité** [Cayden Cailéan](./Cayden Cailéan.md)
-- **Origine** [Andoran](./Andoran.md)
-- **Init** +6 ; **Sens** [Perception](./../Pathfinder-RPG/Perception.md) –1
+- **Divinité** [[Cayden Cailéan]]
+- **Origine** [[Andoran]]
+- **Init** +6 ; **Sens** [[Pathfinder-RPG.Perception|Perception]] –1
 (((Défense)))
 - **CA** 18, **contact** 12, **dépourvu** 16 (armure +6, Dex +2)
 - **pv** 12 (1d10+2)
@@ -45,8 +45,8 @@ Cet homme au cœur noble est profondément loyal envers ceux qui parviennent à 
 (((Caractéristiques)))
 - **For** 16, **Dex** 15, **Con** 12, **Int** 13, **Sag** 8, **Cha** 10
 - **BBA** +1 ; **BMO** +4 ; **DMD** 16
-- **Don** [Arme de prédilection](./../Pathfinder-RPG/Arme de prédilection.md) (épée longue), [Combat à deux armes](./../Pathfinder-RPG/Combat à deux armes.md), [Science de l'initiative](./../Pathfinder-RPG/Science de linitiative.md)
-- **Compétences** [Équitation](./../Pathfinder-RPG/Équitation.md) +1, [Escalade](./../Pathfinder-RPG/Escalade.md) +2, [Intimidation](./../Pathfinder-RPG/Intimidation.md) +4, [Natation](./../Pathfinder-RPG/Natation.md) +2, [Perception](./../Pathfinder-RPG/Perception.md) –1
+- **Don** [[Pathfinder-RPG.Arme de prédilection|Arme de prédilection]] (épée longue), [[Pathfinder-RPG.Combat à deux armes|Combat à deux armes]], [[Pathfinder-RPG.Science de linitiative|Science de l'initiative]]
+- **Compétences** [[Pathfinder-RPG.Équitation|Équitation]] +1, [[Pathfinder-RPG.Escalade|Escalade]] +2, [[Pathfinder-RPG.Intimidation|Intimidation]] +4, [[Pathfinder-RPG.Natation|Natation]] +2, [[Pathfinder-RPG.Perception|Perception]] –1
 - **Langues** commun, +1 langue
 - **Équipement de combat** feu grégeois, cotte de mailles, épée longue, épée courte, arc court, flèches (20 ; sac à dos, corde de soie, 1 po
 

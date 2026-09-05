@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Druide#FORMEANIMALE
 ---
 
->>> [Druide#FORMEANIMALE](./Druide.md#FORMEANIMALE)
+>>> [[Druide#FORMEANIMALE]]

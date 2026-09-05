@@ -8,7 +8,7 @@ Categories:
 ---
 
 {s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**Prix** 50 po ; **Poids** 7 kg ; **Groupes** —
-**Dégâts** 1d10 (P), 1d12 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** [allonge](./Caractéristiques des armes.md#ALLONGE)
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+**Dégâts** 1d10 (P), 1d12 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#ALLONGE|allonge]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
-Ces lames lourdes et ornementées sont montées sur une longue hampe ferrée pour augmenter leur allonge. On les trouve rarement chez les [nains](./Nain.md) qui vivent dans les tunnels, elles sont plus répandues chez les clans des montagnes qui affrontent souvent des géants.
+Ces lames lourdes et ornementées sont montées sur une longue hampe ferrée pour augmenter leur allonge. On les trouve rarement chez les [[Nain|nains]] qui vivent dans les tunnels, elles sont plus répandues chez les clans des montagnes qui affrontent souvent des géants.

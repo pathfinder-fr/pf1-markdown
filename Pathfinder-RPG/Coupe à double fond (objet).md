@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Le petit compartiment situé dans le fond de cette coupe est un endroit parfait pour cacher un petit objet ou une substance. Les modèles les plus traîtres sont dotés d'un loquet plus lourd qui s'ouvre quand on incline la coupe, libérant la substance cachée qui vient se mélanger au contenu de la coupe. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 15 pour repérer le compartiment caché d'une coupe vide.
+Le petit compartiment situé dans le fond de cette coupe est un endroit parfait pour cacher un petit objet ou une substance. Les modèles les plus traîtres sont dotés d'un loquet plus lourd qui s'ouvre quand on incline la coupe, libérant la substance cachée qui vient se mélanger au contenu de la coupe. Il faut réussir un test de [[Perception]] [[DD]] 15 pour repérer le compartiment caché d'une coupe vide.

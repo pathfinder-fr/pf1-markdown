@@ -10,7 +10,7 @@ LastModified: 2021-04-05 19:26
 {s:pucem|Créature artificielle|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 35*}
 - **76 800 PX**
-- [Créature artificielle](./type Créature artificielle.md) ([colosse](./sous-type colosse.md), [mythique](./sous-type mythique.md)) de taille Gig, N
+- [[type créature artificielle|Créature artificielle]] ([[sous-type colosse|colosse]], [[sous-type mythique|mythique]]) de taille Gig, N
 - **Init **+0 ; **Sens** vision à 360°, vision dans le noir 18 m, vision nocturne ; Perception +8
 - **Aura** antimagie sélective (6 m), surnaturelle (9 m)
 (((Défense)))
@@ -25,13 +25,13 @@ LastModified: 2021-04-05 19:26
 - **Espace** 6 m ; **Allonge** 6 m
 - **Attaques spéciales** constriction (2d12+16), pouvoir mythique (6/jour, montée en puissance +1d8), accélération mythique, coincé sous le pied 
 - **Pouvoirs magiques **(**NLS** 13 ; concentration +14)
-  - 3/jour —* [vagues de fatigue](./Vagues de fatigue.md)*
-  - 1/jour — *[cercle de mort](./Cercle de mort.md)* (DD 17)
+  - 3/jour —* [[vagues de fatigue]]*
+  - 1/jour — *[[cercle de mort]]* (DD 17)
 (((Statistiques)))
 - **For** 42, **Dex** 11, **Con **—, **Int** 3, **Sag** 10, **Cha** 7
 - **BBA **+16 ; **BMO **+36 ; **DMD** 46
-- **Dons** [Attaque en puissance](./Attaque en puissance.md)<sup>M</sup>, [Enchaînement](./Enchaînement.md)<sup>M</sup>, [Frappe décisive](./Frappe décisive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Robustesse](./Robustesse.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science du critique](./Science du critique.md)<sup>M</sup> (coup), [Succession d’enchaînements](./Succession denchaînements.md)
-- **Compétences** [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +8
+- **Dons** [[Attaque en puissance]]<sup>M</sup>, [[Enchaînement]]<sup>M</sup>, [[Frappe décisive]], [[Frappe décisive supérieure]], [[Robustesse]], [[Science de la frappe décisive]], [[Science du critique]]<sup>M</sup> (coup), [[Succession denchaînements|Succession d’enchaînements]]
+- **Compétences** [[Intimidation]] +9, [[Perception]] +8
 - **Langues** commun
 - **Particularités** création mythique, forme alternative, résilience mythique
 (((Écologie)))
@@ -40,10 +40,10 @@ LastModified: 2021-04-05 19:26
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
 - **Aura d’antimagie sélective (Sur)**. Cette zone n’affecte pas les sorts et les pouvoirs appartenant au registre de l’électricité ou infligeant des dégâts d’électricité ni les sorts et effets de nécromancie.
-- **Forme alternative (Ext)**. Par une action complexe, le colosse de chair peut se scinder en quatre créatures. Ces quatre créatures fonctionnent comme des [golems de chair](./Golem de chair.md) mais elles ne possèdent pas leur RD, leur pouvoir de fureur dévastatrice ni leur immunité à la magie. Elles gagnent en revanche une RD 5/épique, l’absorption d’électricité et une aura d’antimagie sélective (3 mètres). Divisez le total actuel de points de vie du colosse par 4 pour déterminer le nombre de points de vie de chaque créature engendrée par cette scission. Pour que ces créatures fusionnent de nouveau en une créature unique, il faut qu’elles soient toutes adjacentes les unes aux autres et qu’elles réalisent une action complexe. Quand cela se produit, additionnez les points de vie actuels des quatre créatures pour connaître le total de points de vie du colosse.
+- **Forme alternative (Ext)**. Par une action complexe, le colosse de chair peut se scinder en quatre créatures. Ces quatre créatures fonctionnent comme des [[golem de chair|golems de chair]] mais elles ne possèdent pas leur RD, leur pouvoir de fureur dévastatrice ni leur immunité à la magie. Elles gagnent en revanche une RD 5/épique, l’absorption d’électricité et une aura d’antimagie sélective (3 mètres). Divisez le total actuel de points de vie du colosse par 4 pour déterminer le nombre de points de vie de chaque créature engendrée par cette scission. Pour que ces créatures fusionnent de nouveau en une créature unique, il faut qu’elles soient toutes adjacentes les unes aux autres et qu’elles réalisent une action complexe. Quand cela se produit, additionnez les points de vie actuels des quatre créatures pour connaître le total de points de vie du colosse.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [colosses](./Colosse.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Colosse|colosses]].***</li></ul>
 *Cette énorme monstruosité ressemble à une montagne de cadavres humanoïdes encore frais, entassés de manière à former une sorte de silhouette humaine.*
 
 Un colosse de chair se compose de centaines de cadavres assemblés en une macabre créature mesurant dans les dix-huit mètres de haut pour un poids de soixante-quinze tonnes.
@@ -53,5 +53,5 @@ Pour créer un colosse de chair, il faut au moins 500 cadavres humanoïdes pour 
 
 
 **NLS** 12 ; **Prix** 120 000 po{br}
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), Artisan mythique de rang ou de grade mythique 6, *[animation des morts](./Animation des morts.md)*, *[préservation des morts](./Préservation des morts.md)*, *[souhait limité](./Souhait limité.md)*, *[zone d’antimagie](./Zone dantimagie.md)* ; **Compétence** [Premiers secours](./Premiers secours.md) DD 25 ; **Coût** 70 000 po
+**Conditions** [[Création de créatures artificielles]], Artisan mythique de rang ou de grade mythique 6, *[[animation des morts]]*, *[[préservation des morts]]*, *[[souhait limité]]*, *[[zone dantimagie|zone d’antimagie]]* ; **Compétence** [[Premiers secours]] DD 25 ; **Coût** 70 000 po
 </div></td></tr></table>

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.171*}
 {s:BDTexte|**PX** 4.800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +4 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 9, pris au dépourvu 20 (naturelle +11, taille -1)}
 {s:BDTexte|**pv** 100 (8d10+56)}
@@ -24,18 +24,18 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** corne, +14 (2d8+7), 2 sabots +9 (1d6+3)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [piétinement](./Piétinement.md) (2d8+10, DD 21), souffle ([cône](./cône.md) de 18 m (12 {s:c}), pétrification, Vigueur DD 21 annule)}
+{s:BDTexte|**Attaques spéciales** [[piétinement]] (2d8+10, DD 21), souffle ([[cône]] de 18 m (12 {s:c}), pétrification, Vigueur DD 21 annule)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 10, **Con** 24, **Int** 2, **Sag** 16, **Cha** 9}
 {s:BDTexte|**BBA** +8, **BMO** +16, **DMD** 26}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +17}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Perception]] +17}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérés, collines rocheuses et souterrain}
 {s:BDTexte|**Organisation sociale** solitaire, couple, groupe (3-4) ou troupeau (5-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Souffle (Sur).** Une gorgone peut utiliser son [souffle](./Souffle.md) tous les 1d4+1 rounds pour créer un [cône](./cône.md) de gaz vert de 18 m (12 {s:c}). Les créatures prises dans la zone peuvent effectuer un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 21 pour tenter de résister aux effets du gaz. Ceux qui échouent sont immédiatement pétrifiés. Cette pétrification est temporaire : chaque round, la créature pétrifiée peut effectuer un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 21 pour se libérer de cet effet, du moins tant qu'elle n'est pas prise une seconde fois dans la zone d'effet du souffle de la gorgone. Si une créature déjà pétrifiée est exposée à nouveau au souffle de la gorgone, la pétrification devient permanente et elle ne peut plus effectuer de jet de [Vigueur](./Vigueur.md) pour s'en libérer naturellement. Le [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) dépendent de la [constitution](./Constitution.md).}
+{s:BDTexte|**Souffle (Sur).** Une gorgone peut utiliser son [[souffle]] tous les 1d4+1 rounds pour créer un [[cône]] de gaz vert de 18 m (12 {s:c}). Les créatures prises dans la zone peuvent effectuer un jet de [[Vigueur]] de [[DD]] 21 pour tenter de résister aux effets du gaz. Ceux qui échouent sont immédiatement pétrifiés. Cette pétrification est temporaire : chaque round, la créature pétrifiée peut effectuer un jet de [[Vigueur]] de [[DD]] 21 pour se libérer de cet effet, du moins tant qu'elle n'est pas prise une seconde fois dans la zone d'effet du souffle de la gorgone. Si une créature déjà pétrifiée est exposée à nouveau au souffle de la gorgone, la pétrification devient permanente et elle ne peut plus effectuer de jet de [[Vigueur]] pour s'en libérer naturellement. Le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] dépendent de la [[constitution]].}
 </div>
 </td><td><div>*De minces filets de fumée verte jaillissent de la bouche de cette sorte de taureau fait de plaques de métal qui se chevauchent.*
 

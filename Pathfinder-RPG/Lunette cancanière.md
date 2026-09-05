@@ -11,10 +11,10 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Lunette cancanière|{s:RSE}}
-**Aura** [Divination](./école divination.md) faible  ; **NLS** 1 ; **Emplacement** [yeux](./Objets merveilleux portés sur les yeux.md) ; **Prix** 3 600 po ; **Poids** 500 g
+**Aura** [[école Divination|Divination]] faible  ; **NLS** 1 ; **Emplacement** [[Objets merveilleux portés sur les yeux|yeux]] ; **Prix** 3 600 po ; **Poids** 500 g
 (((Description)))
 <u>***Contenu issu d'un supplément 3.5***</u>
-Cette lunette d’opéra en argent, sertie de pierres précieuses, ressemble à une lunette ordinaire mais, lorsque le personnage regarde au travers, il bénéficie d’un bonus de compétence de +4 aux tests de [Perception](./Perception.md). Lorsqu’il lit sur les lèvres, il comprend toutes les langues parlées comme s’il bénéficiait d’un sort de *[compréhension des langages](./Compréhension des langages.md)*. Le personnage peut utiliser la lunette uniquement pour espionner les conversations dans sa ligne de mire et doit pouvoir voir les gens parler afin de lire sur les lèvres.
+Cette lunette d’opéra en argent, sertie de pierres précieuses, ressemble à une lunette ordinaire mais, lorsque le personnage regarde au travers, il bénéficie d’un bonus de compétence de +4 aux tests de [[Perception]]. Lorsqu’il lit sur les lèvres, il comprend toutes les langues parlées comme s’il bénéficiait d’un sort de *[[compréhension des langages]]*. Le personnage peut utiliser la lunette uniquement pour espionner les conversations dans sa ligne de mire et doit pouvoir voir les gens parler afin de lire sur les lèvres.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[compréhension des langages](./Compréhension des langages.md)*  ; **Coût** 1 800 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[compréhension des langages]]*  ; **Coût** 1 800 po
 </div>

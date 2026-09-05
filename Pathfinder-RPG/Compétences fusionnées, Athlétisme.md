@@ -8,11 +8,11 @@ Categories:
 
 {s:Menupathfinderunchained}{s:PU}*Le personnage est doué pour accomplir des prouesses physiques telles que des sauts, de l’escalade et de la natation. Pour soulever une charge, il faut effectuer un test de Force à la place d’un test d’Athlétisme.*
 
-**Caractéristique associée :** [Force](./Force.md) ; **Formation nécessaire :** Non ; **Malus d'armure :** Oui
+**Caractéristique associée :** [[Force]] ; **Formation nécessaire :** Non ; **Malus d'armure :** Oui
 
-**Fonctions.** [Escalader](./Compétences fusionnées, Athlétisme.md#ESCALADER), [nager](./Compétences fusionnées, Athlétisme.md#NAGER), [sauter](./Compétences fusionnées, Athlétisme.md#SAUTER), [stopper sa chute](./Compétences fusionnées, Athlétisme.md#STOPPERSACHUTE).
+**Fonctions.** [[Compétences fusionnées, Athlétisme#ESCALADER|Escalader]], [[Compétences fusionnées, Athlétisme#NAGER|nager]], [[Compétences fusionnées, Athlétisme#SAUTER|sauter]], [[Compétences fusionnées, Athlétisme#STOPPERSACHUTE|stopper sa chute]].
 
-**Compétences de base.** [Acrobaties](./Acrobaties.md) (pour sauter uniquement), [Escalade](./Escalade.md), [Natation](./Natation.md).
+**Compétences de base.** [[Acrobaties]] (pour sauter uniquement), [[Escalade]], [[Natation]].
 
 {s:Reference|ESCALADER}
 ### Escalader
@@ -34,9 +34,9 @@ deux murs perpendiculaires || -5
 |}
 </center></div></div>Le personnage peut utiliser l’Athlétisme pour progresser vers le haut, le bas ou les côtés le long d’une pente fortement inclinée ou d’une paroi (voire d’un plafond muni de prises). Il peut se déplacer au quart de sa vitesse mais peut décider d’évoluer à la moitié de sa vitesse de déplacement en acceptant un malus de -5. S’il rate son test de 1 à 4 points, il ne parvient pas à progresser. S’il rate son test de 5 points ou plus, il chute. Il est impossible d’escalader une surface parfaitement lisse et verticale (ou en dévers).
 
-Le personnage doit avoir les deux mains libres lors d’une escalade, mais il peut se tenir à un mur d’une main le temps de lancer un sort ou d’effectuer une autre action réalisable d’une seule main. Il est impossible d’utiliser un bouclier en pleine escalade et le personnage perd son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md). S’il subit des dégâts alors qu’il escalade une paroi, il doit réussir un test d’Athlétisme contre le [DD](./DD.md) de la paroi pour éviter de chuter.
+Le personnage doit avoir les deux mains libres lors d’une escalade, mais il peut se tenir à un mur d’une main le temps de lancer un sort ou d’effectuer une autre action réalisable d’une seule main. Il est impossible d’utiliser un bouclier en pleine escalade et le personnage perd son bonus de [[Dextérité]] à la [[CA]]. S’il subit des dégâts alors qu’il escalade une paroi, il doit réussir un test d’Athlétisme contre le [[DD]] de la paroi pour éviter de chuter.
 
-**Modificateurs d’escalade.** Les circonstances indiquées dans la table ci-dessous modifient le [DD](./DD.md) des tests d’Athlétisme. Ils se cumulent entre eux.
+**Modificateurs d’escalade.** Les circonstances indiquées dans la table ci-dessous modifient le [[DD]] des tests d’Athlétisme. Ils se cumulent entre eux.
 
 <center>
 {| CLASS="tablo autoalt"
@@ -69,9 +69,9 @@ Le personnage doit avoir les deux mains libres lors d’une escalade, mais il pe
 
 **Action.** Aucune. Chaque action de mouvement réalisée par le personnage nécessite un test d’Athlétisme distinct.
 
-**Créer ses propres prises.** Le personnage peut planter des pitons dans un mur pour que son [DD](./DD.md) de base s’élève à 15. Cela prend une minute par piton et il faut un piton tous les mètres cinquante. Un personnage muni d’une hachette ou d’un outil similaire peut tailler des prises dans un mur de glace.
+**Créer ses propres prises.** Le personnage peut planter des pitons dans un mur pour que son [[DD]] de base s’élève à 15. Cela prend une minute par piton et il faut un piton tous les mètres cinquante. Un personnage muni d’une hachette ou d’un outil similaire peut tailler des prises dans un mur de glace.
 
-**Vitesse d’escalade.** Une créature dotée d’une vitesse d’escalade bénéficie d’un bonus racial de +8 aux tests d’Athlétisme pour escalader. Voir la compétence [Escalade](./Escalade.md) pour plus d’informations sur les créatures dotées d’une vitesse d’escalade.
+**Vitesse d’escalade.** Une créature dotée d’une vitesse d’escalade bénéficie d’un bonus racial de +8 aux tests d’Athlétisme pour escalader. Voir la compétence [[Escalade]] pour plus d’informations sur les créatures dotées d’une vitesse d’escalade.
 
 **Aide à la montée ou à la descente.** Un personnage peut soulever quelqu’un (ou le faire descendre) à l’aide d’une corde pour que cette personne n’ait pas à effectuer de tests d’Athlétisme. Le personnage peut ainsi déplacer le double de sa charge maximale.
 
@@ -94,15 +94,15 @@ d’Athlétisme
 | | COLSPAN="2" | *(*) Il est impossible de faire 10 sur un test  
 d’Athlétisme pour nager dans des eaux très agitées.*
 |}
-</center></div></div>La réussite d’un test d’Athlétisme permet à un personnage dans l’eau de nager sur une distance égale à la moitié de sa vitesse de déplacement par une [action complexe](./Action complexe.md) ou à son quart par une [action de mouvement](./Action de mouvement.md). En cas d’échec de 4 points ou moins, il barbote sans parvenir à avancer. En cas d’échec de 5 points ou plus, il coule. Le personnage doit effectuer un test d’Athlétisme pour nager chaque [round](./round.md).
+</center></div></div>La réussite d’un test d’Athlétisme permet à un personnage dans l’eau de nager sur une distance égale à la moitié de sa vitesse de déplacement par une [[action complexe]] ou à son quart par une [[action de mouvement]]. En cas d’échec de 4 points ou moins, il barbote sans parvenir à avancer. En cas d’échec de 5 points ou plus, il coule. Le personnage doit effectuer un test d’Athlétisme pour nager chaque [[round]].
 
-**Action.** Une [action de mouvement](./Action de mouvement.md) pour nager au quart de la vitesse de déplacement ou une [action complexe](./Action complexe.md) pour nager à la moitié de la vitesse de déplacement.
+**Action.** Une [[action de mouvement]] pour nager au quart de la vitesse de déplacement ou une [[action complexe]] pour nager à la moitié de la vitesse de déplacement.
 
-**Retenir sa respiration.** Quand un personnage se trouve sous l’eau, il peut retenir sa respiration pendant un nombre de [rounds](./round.md) égal à deux fois sa valeur de [Constitution](./Constitution.md). S’il entreprend une [action simple](./Action simple.md) ou [complexe](./Action complexe.md), le temps pendant lequel il peut encore retenir sa respiration est réduit d’un round. Une fois arrivé au terme de cette durée, le personnage doit réussir un test de Constitution [DD](./DD.md) 10 chaque round, sinon, il commence à se noyer. Chaque round, le DD pour éviter la noyade augmente de 1. Vous pouvez consulter les règles complètes sur la [noyade](./Dangers naturels.md#NOYADE) pour plus d'informations.
+**Retenir sa respiration.** Quand un personnage se trouve sous l’eau, il peut retenir sa respiration pendant un nombre de [[round|rounds]] égal à deux fois sa valeur de [[Constitution]]. S’il entreprend une [[action simple]] ou [[action complexe|complexe]], le temps pendant lequel il peut encore retenir sa respiration est réduit d’un round. Une fois arrivé au terme de cette durée, le personnage doit réussir un test de Constitution [[DD]] 10 chaque round, sinon, il commence à se noyer. Chaque round, le DD pour éviter la noyade augmente de 1. Vous pouvez consulter les règles complètes sur la [[Dangers naturels#NOYADE|noyade]] pour plus d'informations.
 
-**Nager longtemps.** À la fin de chaque heure passée à nager, le personnage doit réussir un test d’Athlétisme [DD](./DD.md) 20 pour ne pas subir 1d6 points de [dégâts non-létaux](./Blessures et mort.md#NONLETAL).
+**Nager longtemps.** À la fin de chaque heure passée à nager, le personnage doit réussir un test d’Athlétisme [[DD]] 20 pour ne pas subir 1d6 points de [[Blessures et mort#NONLETAL|dégâts non-létaux]].
 
-**Vitesse de nage.** Une créature qui possède une vitesse de nage bénéficie d’un bonus racial de +8 aux tests d’Athlétisme pour nager. Voir la compétence [Natation](./Natation.md) pour plus d’informations sur les créatures qui possèdent une vitesse de nage.
+**Vitesse de nage.** Une créature qui possède une vitesse de nage bénéficie d’un bonus racial de +8 aux tests d’Athlétisme pour nager. Voir la compétence [[Natation]] pour plus d’informations sur les créatures qui possèdent une vitesse de nage.
 
 {s:Reference|SAUTER}
 ### Sauter
@@ -141,11 +141,11 @@ d’Athlétisme
 |-
 | Plus de 120 cm || +4 par 30 cm
 |}
-</center></div></div>Le personnage peut utilise la compétence d’Athlétisme pour sauter. Pour calculer le [DD](./DD.md), on divise la distance à traverser par 30 centimètres dans le cas d’un saut en longueur ou la hauteur à atteindre par 7,50 cm dans le cas d’un saut en hauteur.
+</center></div></div>Le personnage peut utilise la compétence d’Athlétisme pour sauter. Pour calculer le [[DD]], on divise la distance à traverser par 30 centimètres dans le cas d’un saut en longueur ou la hauteur à atteindre par 7,50 cm dans le cas d’un saut en hauteur.
 
-Le [DD](./DD.md) est doublé si le personnage ne dispose pas d’au moins 3 mètres d’élan. Si le personnage rate son test d’Athlétisme de 4 points ou moins lorsqu’il traverse un gouffre en sautant en longueur, il peut effectuer un jet de [Réflexes](./Réflexes.md) DD 20 pour se rattraper au bord de l’autre côté. Si le test échoue de 5 points ou plus, le personnage chute (ou tombe [à terre](./À terre.md) s’il tentait un saut en hauteur). Le DD pour sauter applique les mêmes modificateurs que ceux des tests d’[Acrobaties](./Compétences fusionnées, Acrobaties.md) qui se rapportent à la surface à partir de laquelle le personnage effectue le saut. Par exemple, le DD d’un personnage qui commence son saut sur une surface sableuse augmente de 2.
+Le [[DD]] est doublé si le personnage ne dispose pas d’au moins 3 mètres d’élan. Si le personnage rate son test d’Athlétisme de 4 points ou moins lorsqu’il traverse un gouffre en sautant en longueur, il peut effectuer un jet de [[Réflexes]] DD 20 pour se rattraper au bord de l’autre côté. Si le test échoue de 5 points ou plus, le personnage chute (ou tombe [[à terre]] s’il tentait un saut en hauteur). Le DD pour sauter applique les mêmes modificateurs que ceux des tests d’[[Compétences fusionnées, Acrobaties|Acrobaties]] qui se rapportent à la surface à partir de laquelle le personnage effectue le saut. Par exemple, le DD d’un personnage qui commence son saut sur une surface sableuse augmente de 2.
 
-Un saut ne permet pas de se déplacer au-delà de la distance maximale qu’il est possible de parcourir en un [round](./round.md).
+Un saut ne permet pas de se déplacer au-delà de la distance maximale qu’il est possible de parcourir en un [[round]].
 
 **Action.** Aucune.
 
@@ -155,8 +155,8 @@ Un saut ne permet pas de se déplacer au-delà de la distance maximale qu’il e
 
 {s:Reference|STOPPERSACHUTE}
 ### Stopper sa chute
-Le personnage peut arrêter sa chute en se retenant à un mur ou le long d’une pente. Le [DD](./DD.md) est égal à 20 + le DD du test pour escalader la paroi ou à 10 + le DD du test pour escalader la pente (voir [Escalader](./Compétences fusionnées, Athlétisme.md#ESCALADER)).
+Le personnage peut arrêter sa chute en se retenant à un mur ou le long d’une pente. Le [[DD]] est égal à 20 + le DD du test pour escalader la paroi ou à 10 + le DD du test pour escalader la pente (voir [[Compétences fusionnées, Athlétisme#ESCALADER|Escalader]]).
 
-Pour stopper la chute d’une autre personne qui tombe à proximité du personnage, il faut réussir une [attaque de contact](./attaque de contact.md) au corps à corps contre la personne qui tombe (qui peut décider de ne pas appliquer son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md)). En cas de réussite, le personnage peut alors effectuer un test d’Athlétisme contre un [DD](./DD.md) égal à 10 + le DD du test pour escalader la paroi. S’il réussit ce test, il arrive à rattraper la personne qui tombe. Cependant, si le poids de celle-ci et de son équipement est supérieur à la limite d’une charge lourde pour le personnage, celui-ci tombe également. Si le test d’Athlétisme échoue de 1 à 4 points, le personnage n’arrive pas à stopper la chute de la personne mais il conserve sa propre prise sur la surface. Si le test d’Athlétisme échoue de 5 points ou plus, non seulement le personnage n’arrive pas à interrompre la chute, mais il perd également pied et chute lui aussi.
+Pour stopper la chute d’une autre personne qui tombe à proximité du personnage, il faut réussir une [[attaque de contact]] au corps à corps contre la personne qui tombe (qui peut décider de ne pas appliquer son bonus de [[Dextérité]] à la [[CA]]). En cas de réussite, le personnage peut alors effectuer un test d’Athlétisme contre un [[DD]] égal à 10 + le DD du test pour escalader la paroi. S’il réussit ce test, il arrive à rattraper la personne qui tombe. Cependant, si le poids de celle-ci et de son équipement est supérieur à la limite d’une charge lourde pour le personnage, celui-ci tombe également. Si le test d’Athlétisme échoue de 1 à 4 points, le personnage n’arrive pas à stopper la chute de la personne mais il conserve sa propre prise sur la surface. Si le test d’Athlétisme échoue de 5 points ou plus, non seulement le personnage n’arrive pas à interrompre la chute, mais il perd également pied et chute lui aussi.
 
 **Action.** Aucune.

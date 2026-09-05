@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.117*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -26,10 +26,10 @@ Categories:
 {s:BDTexte|**Espace occupé** 75 cm (1/2 {s:c}) ; **Allonge** 0 m}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 16, **Con** 10, **Int** 2, **Sag** 13, **Cha** 5}
-{s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 7 (11 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Évasion](./Évasion.md) +4 [Natation](./Natation.md) +11}
-{s:BDTexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 7 (11 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Évasion]] +4 [[Natation]] +11}
+{s:BDTexte|**Particularités** [[retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** eaux}
 {s:BDTexte|**Organisation sociale** solitaire ou famille (2-16)}

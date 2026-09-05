@@ -9,6 +9,6 @@ Categories:
 
 {s:AE}**Prix** 4.000 po ; **Poids** 2 kg
 **Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×4 ; **Portée** 6 m (4 c) ; **Enrayement** 1 ; **Capacité** 6 ; **Type** C et P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes à feu évoluées](./Tableau récapitulatif des armes à feu.md#TABEVOLUEES) ; **Maniement** [arme à feu à une main](./Armes à feu.md#CATEGORIE)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes à feu#TABEVOLUEES|Armes à feu évoluées]] ; **Maniement** [[Armes à feu#CATEGORIE|arme à feu à une main]]</span>
 ---
-Le revolver est un [pistolet](./Pistolet (arme).md) avec un barillet rotatif à six chambres. Chaque chambre peut contenir une [cartouche en métal](./Cartouche en métal (arme).md) et, lorsqu’une cartouche est tirée, le cylindre tourne automatiquement (pas besoin d’avoir une main libre ou de faire une action), préparant la chambre suivante pour le prochain tir. Le revolver se charge avec des cartouches en métal. Il s’agit d’une [arme à feu évoluée](./Armes à feu.md#CATEGORIE).
+Le revolver est un [[pistolet (arme)|pistolet]] avec un barillet rotatif à six chambres. Chaque chambre peut contenir une [[Cartouche en métal (arme)|cartouche en métal]] et, lorsqu’une cartouche est tirée, le cylindre tourne automatiquement (pas besoin d’avoir une main libre ou de faire une action), préparant la chambre suivante pour le prochain tir. Le revolver se charge avec des cartouches en métal. Il s’agit d’une [[Armes à feu#CATEGORIE|arme à feu évoluée]].

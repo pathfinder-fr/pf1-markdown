@@ -12,6 +12,6 @@ Les shiras attirés par le Dami-Anaeshem sont souvent les membres les plus âgé
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur le Dami-Anaeshem et les shiras dans les suppléments
-- [The Jackal's Price/Le Prix du Chacal](./../Aventures/Présentation AP4.md#AP4-3), troisième volume de la campagne [Legacy of Fire/L'Héritage de Feu](./../Aventures/Présentation AP4.md)
-- [Pathfinder Roleplaying Game Bestiary 3](./../Pathfinder-RPG/Publications.md#BESTIARY3)
+- [[Aventures.Présentation AP4#AP4-3|The Jackal's Price/Le Prix du Chacal]], troisième volume de la campagne [[Aventures.Présentation AP4|Legacy of Fire/L'Héritage de Feu]]
+- [[Pathfinder-RPG.Publications#BESTIARY3|Pathfinder Roleplaying Game Bestiary 3]]
 {s:VoirAussiAprès}

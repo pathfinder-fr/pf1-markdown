@@ -11,20 +11,20 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 3, [Méd](./Médium.md) 3, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 3   
+{s:AO}**École** [[Abjuration]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 3, [[médium|Méd]] 3, [[Occultiste|Occ]] 2, [[psychiste|Psy]] 3   
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** 1 objet touché pesant moins de 5 kg  
 
-**Durée** [permanente](./permanente.md) jusqu’à déchargement (T)  
+**Durée** [[permanente]] jusqu’à déchargement (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** non
 
-Le personnage imprègne un objet d’énergie psychique. Le nodule explosif provoque une explosion mentale dès qu’une créature dotée d’un esprit touche l’objet, lui infligeant 6d6 points de dégâts et la rendant [chancelante](./États préjudiciables.md#Chancelant) pendant 1 minute. Un jet de sauvegarde réussi réduit les dégâts de moitié et annule le chancellement.  
+Le personnage imprègne un objet d’énergie psychique. Le nodule explosif provoque une explosion mentale dès qu’une créature dotée d’un esprit touche l’objet, lui infligeant 6d6 points de dégâts et la rendant [[États préjudiciables#Chancelant|chancelante]] pendant 1 minute. Un jet de sauvegarde réussi réduit les dégâts de moitié et annule le chancellement.  
 
-Les pièges magiques comme celui-ci sont difficiles à repérer et à désamorcer. Un personnage disposant du pouvoir de classe recherche de pièges peut utiliser [Sabotage](./Sabotage.md) pour désactiver le nodule explosif. Le [DD](./DD.md) des tests de [Perception](./Perception.md) pour repérer le nodule et de [Sabotage](./Sabotage.md) pour le désamorcer sont tous deux de 25 + niveau du sort. De plus, une créature disposant de l’extension de compétence occulte [lecture d'auras](./Extensions de compétences occultes.md#LECTUREDAURAS) a droit au même test de [Perception](./Perception.md) pour repérer le nodule.
+Les pièges magiques comme celui-ci sont difficiles à repérer et à désamorcer. Un personnage disposant du pouvoir de classe recherche de pièges peut utiliser [[Sabotage]] pour désactiver le nodule explosif. Le [[DD]] des tests de [[Perception]] pour repérer le nodule et de [[Sabotage]] pour le désamorcer sont tous deux de 25 + niveau du sort. De plus, une créature disposant de l’extension de compétence occulte [[Extensions de compétences occultes#LECTUREDAURAS|lecture d'auras]] a droit au même test de [[Perception]] pour repérer le nodule.

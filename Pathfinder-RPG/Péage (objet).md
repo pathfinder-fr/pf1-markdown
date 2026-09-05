@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pc
-<span class="Catégorie">**Catégorie** [Hébergement et services](./Hébergement et services.md)</span>
+<span class="Catégorie">**Catégorie** [[Hébergement et services]]</span>
 ---
 Les cités et les villes comptent souvent sur les droits de passage pour générer des revenus supplémentaires, pour privilégier les commerçants régionaux par rapport aux marchands itinérants, pour décourager le trafic trop important dans les zones encombrées ou pour couvrir les frais de construction et d’entretien des routes ou des ponts. Les droits de passage sur les ponts sont impopulaires car il est rare que les voyageurs puissent les contourner.

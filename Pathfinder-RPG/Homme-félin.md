@@ -15,8 +15,8 @@ Categories:
 {s:BDTexte|<i>Source : Bestiaire 3 p.149</i>}
 {s:BDTexte|<b>PX</b> 200}
 {s:BDTexte|Homme-félin, rôdeur 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([homme-félin](./sous-type homme-félin.md)) de taille M, NB}
-{s:BDTexte|<b>Init</b> +3 ; <b>Sens</b> [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type homme-félin|homme-félin]]) de taille M, NB}
+{s:BDTexte|<b>Init</b> +3 ; <b>Sens</b> [[vision nocturne]] ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 16, contact 13, pris au dépourvu 13 (armure +3, Dex +3)}
 {s:BDTexte|<b>pv</b> 12 (1d10+2)}
@@ -25,22 +25,22 @@ Categories:
 {s:BDTexte|<b>VD</b> 9 m (6 {s:c})}
 {s:BDTexte|<b>Corps à corps</b> épée longue, +3 (1d8+2/19-20)}
 {s:BDTexte|<b>À distance</b> arc long, +5 (1d8/×3)}
-{s:BDTexte|<b>Attaque spéciale</b> [ennemi juré](./ennemi juré.md) (créatures magiques +2)}
+{s:BDTexte|<b>Attaque spéciale</b> [[ennemi juré]] (créatures magiques +2)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 14, <b>Dex</b> 17, <b>Con</b> 12, <b>Int</b> 8, <b>Sag</b> 11, <b>Cha</b> 12}
 {s:BDTexte|<b>BBA</b> +1, <b>BMO</b> +3, <b>DMD</b> 16}
-{s:BDTexte|<b>Dons</b> [Arme de prédilection](./Arme de prédilection.md) (arc long)}
-{s:BDTexte|<b>Compétences</b> [Connaissances](./Connaissances.md) (nature) +3, [Discrétion](./Discrétion.md) +8, [Dressage](./Dressage.md) +5, [Escalade](./Escalade.md) +5, [Perception](./Perception.md) +2, [Survie](./Survie.md) +6}
-{s:BDTexte|<b>Modificateurs raciaux</b> [Discrétion](./Discrétion.md) +2, [Perception](./Perception.md) +2, [Survie](./Survie.md) +2}
+{s:BDTexte|<b>Dons</b> [[Arme de prédilection]] (arc long)}
+{s:BDTexte|<b>Compétences</b> [[Connaissances]] (nature) +3, [[Discrétion]] +8, [[Dressage]] +5, [[Escalade]] +5, [[Perception]] +2, [[Survie]] +6}
+{s:BDTexte|<b>Modificateurs raciaux</b> [[Discrétion]] +2, [[Perception]] +2, [[Survie]] +2}
 {s:BDTexte|<b>Langues</b> commun, félin}
-{s:BDTexte|<b>Particularités</b> [empathie sauvage](./empathie sauvage.md) +2, chance féline, pistage +1, sprinter}
+{s:BDTexte|<b>Particularités</b> [[empathie sauvage]] +2, chance féline, pistage +1, sprinter}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> forêts ou plaines tempérées ou chaudes, ou ville}
 {s:BDTexte|<b>Organisation</b> solitaire, couple, groupe (3-12 plus 1 meneur de niveau 3 et 1-4 guépards ou léopards) ou tribu (13-60 plus 50% de non-combattants, 1 sous-chef de niveau 3 pour 10 adultes, et 1 chef de niveau 6 plus 6-12 guépards ou léopards)}
 {s:BDTexte|<b>Trésor</b> équipement de PNJ (arc long avec 20 flèches, armure de cuir cloutée, épée longue, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|<b>Chance féline (Ext).</b> Une fois par jour, lorsque l’homme-félin fait un jet de [Réflexes](./Réflexes.md), il peut relancer ce jet et garder le meilleur résultat. Il doit décider d’utiliser cette capacité avant de faire son premier jet.}
-{s:BDTexte|<b>Sprinter (Ext).</b> L’homme-félin reçoit un bonus racial de 3 mètres (2 {s:c}) à sa vitesse de déplacement lorsqu’il [charge](./charge.md), court ou fait une [action de repli](./retraite (action).md).}
+{s:BDTexte|<b>Chance féline (Ext).</b> Une fois par jour, lorsque l’homme-félin fait un jet de [[Réflexes]], il peut relancer ce jet et garder le meilleur résultat. Il doit décider d’utiliser cette capacité avant de faire son premier jet.}
+{s:BDTexte|<b>Sprinter (Ext).</b> L’homme-félin reçoit un bonus racial de 3 mètres (2 {s:c}) à sa vitesse de déplacement lorsqu’il [[charge]], court ou fait une [[retraite (action)|action de repli]].}
 
 {s:ImageCentre|Bestiaire/Homme-félin_Catfolk02.jpg|90%}
 
@@ -79,8 +79,8 @@ Les hommes-félins n’ont pas de dés de vie raciaux : ils reçoivent leurs cap
 
 • **Sprinter.** Cf. ci-contre.
 
-• **Chasseur-né.** L’homme-félin reçoit un bonus racial de +2 aux tests de [Discrétion](./Discrétion.md), de [Perception](./Perception.md) et de [Survie](./Survie.md).
+• **Chasseur-né.** L’homme-félin reçoit un bonus racial de +2 aux tests de [[Discrétion]], de [[Perception]] et de [[Survie]].
 
-• **Langues.** Les hommes-félins parlent le commun et le félin. Un homme-félin ayant un score d’[Intelligence](./Intelligence.md) élevé peut choisir des langues supplémentaires parmi celles-ci : l’elfique, le gnoll, le gnome, le gobelin, le halfelin, l’orque et le sylvestre.
+• **Langues.** Les hommes-félins parlent le commun et le félin. Un homme-félin ayant un score d’[[Intelligence]] élevé peut choisir des langues supplémentaires parmi celles-ci : l’elfique, le gnoll, le gnome, le gobelin, le halfelin, l’orque et le sylvestre.
 
-{s:VoirAussiAvant}La page de la race [Homme-félin](./homme-félin (race).md){s:VoirAussiAprès}</div></td></tr></table>
+{s:VoirAussiAvant}La page de la race [[homme-félin (race)|Homme-félin]]{s:VoirAussiAprès}</div></td></tr></table>

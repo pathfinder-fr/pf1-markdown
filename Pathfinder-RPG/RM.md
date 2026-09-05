@@ -7,4 +7,4 @@ Categories:
 RedirectTo: résistance à la magie (capacité)
 ---
 
->>> [résistance à la magie (capacité)](./Résistance à la magie (capacité).md)
+>>> [[résistance à la magie (capacité)]]

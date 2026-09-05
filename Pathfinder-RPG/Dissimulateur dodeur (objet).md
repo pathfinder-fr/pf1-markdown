@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 20 po ; **Poids** 1 kg ; **DD d'Artisanat (alchimie)** 20
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Ce mélange d’épices, de graines, de musc et de réactifs alchimiques grossièrement moulu s’étale sur la peau et les vêtements pour couvrir l’odeur naturelle du personnage, augmentant le [DD](./DD.md) du pistage à l’odorat de +10 pendant 24 heures. Le personnage ayant toujours une odeur, les créatures ayant la capacité [odorat](./Odorat (capacité).md) peuvent quand même le repérer et le localiser s’il est enduit de dissimulateur, en revanche, elles ne peuvent pas identifier son odeur comme celle d’une personne unique. Il faut un [round](./round.md) complet pour se débarrasser du dissimulateur d’odeur.
+Ce mélange d’épices, de graines, de musc et de réactifs alchimiques grossièrement moulu s’étale sur la peau et les vêtements pour couvrir l’odeur naturelle du personnage, augmentant le [[DD]] du pistage à l’odorat de +10 pendant 24 heures. Le personnage ayant toujours une odeur, les créatures ayant la capacité [[Odorat (capacité)|odorat]] peuvent quand même le repérer et le localiser s’il est enduit de dissimulateur, en revanche, elles ne peuvent pas identifier son odeur comme celle d’une personne unique. Il faut un [[round]] complet pour se débarrasser du dissimulateur d’odeur.

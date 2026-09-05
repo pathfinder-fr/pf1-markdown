@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Extraplanaire}
 - *Source : Bestiaire 2 page 52*
 - **PX** 4800
-- [Mort-vivant](./type Mort-vivant.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, CM
-- **Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +14
+- [[type Mort-vivant|Mort-vivant]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, CM
+- **Init** +6 ; **Sens** [[vision dans le noir]] 18 m ; [[Perception]] +14
 (((Défense)))
 - **CA** 21, contact 13, pris au dépourvu 18 (Dex +2, esquive +1, naturelle +8)
 - **pv**85 (10d8+40)
@@ -28,8 +28,8 @@ Categories:
 (((Caractéristiques)))
 - **For** 13, **Dex** 15, **Con** -, **Int** 6, **Sag** 13, **Cha** 16
 - **BBA** +7 ; **BMO** +8 ; **DMD** 21 
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (coup), [Esquive](./Esquive.md), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md)
-- **Compétences** [Discrétion](./Discrétion.md) +10, [Intimidation](./Intimidation.md) +11, [Perception](./Perception.md) +14
+- **Dons** [[Arme de prédilection]] (coup), [[Esquive]], [[Robustesse]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]]
+- **Compétences** [[Discrétion]] +10, [[Intimidation]] +11, [[Perception]] +14
 - **Langues** commun
 (((Écologie)))
 - **Environnement** terre ferme (Plans Extérieurs du Mal)

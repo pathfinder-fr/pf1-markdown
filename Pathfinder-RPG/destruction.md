@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Manœuvres offensives#DESTRUCTION
 ---
 
->>> [Manœuvres offensives#DESTRUCTION](./Manœuvres offensives.md#DESTRUCTION)
+>>> [[Manœuvres offensives#DESTRUCTION]]

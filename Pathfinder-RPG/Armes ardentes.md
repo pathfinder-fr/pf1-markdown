@@ -9,12 +9,12 @@ Categories:
 
 *Un feu élémentaire brûle dans le corps de l’ifrit, faisant bouillir son sang et le rendant résistant aux flammes.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+**Catégorie** : [[Dons#DONCOMBAT|combat]]
 
-**Condition.** [Ifrit](./Ifrit (race).md).
+**Condition.** [[ifrit (race)|Ifrit]].
 
 **Avantage.** L’ifrit gagne un bonus de +2 à ses jets de sauvegarde contre les attaques de feu et les sorts du registre feu ou lumière. Par une action rapide, il peut rendre deux armes métalliques brûlantes pendant 1 round, infligeant 1 point de dégâts de feu supplémentaire sur une attaque réussie. Ceci ne se cumule pas avec les autres effets qui s’ajoutent aux dégâts de feu de l’arme, comme la propriété spéciale de feu.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise ce don pour chauffer à blanc une ou deux armes métalliques pendant 1 [round](./round.md), il peut dépenser 2 points d’endurance pour augmenter les dégâts de feu supplémentaire de 2 points et les cumuler avec les autres effets ajoutant des dégâts de feu à une arme (comme la propriété spéciale d’arme de *[feu](./feu (propriété).md)*).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise ce don pour chauffer à blanc une ou deux armes métalliques pendant 1 [[round]], il peut dépenser 2 points d’endurance pour augmenter les dégâts de feu supplémentaire de 2 points et les cumuler avec les autres effets ajoutant des dégâts de feu à une arme (comme la propriété spéciale d’arme de *[[feu (propriété)|feu]]*).

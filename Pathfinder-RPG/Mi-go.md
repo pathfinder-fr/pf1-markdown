@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Plante|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 188*}
 - 2 400 PX
-- [Plante](./type Plante.md) de taille M, NM
+- [[type plante|Plante]] de taille M, NM
 - **Init **+5 ; **Sens **vision aveugle à 9 m, vision nocturne ; Perception +12
 (((Défense)))
 - **CA **20, contact 16, pris au dépourvu 14 (Dex +5, esquive +1, naturelle +4)
 - **pv** 66 (7d8+35)
 - **Réf **+7, **Vig **+10, **Vol **+4
-- **RD **5/tranchant ; Immunités froid, [traits des plantes](./Traits des plantes.md) ; **Résistances **électricité 10, feu 10
+- **RD **5/tranchant ; Immunités froid, [[traits des plantes]] ; **Résistances **électricité 10, feu 10
 (((Attaque)))
 - **VD **9 m, vol 15 m (bonne)
 - **Corps à corps** 4 griffes, +10 (1d4+3 plus étreinte)
@@ -28,8 +28,8 @@ Categories:
 (((Statistiques)))
 - **For **16, **Dex **20, **Con **21, **Int **25, **Sag **14, **Cha **15
 - **BBA** +5 ; **BMO** +8 (+12 en lutte) ; **DMD** 24 (32 contre le croc-en-jambe)
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Fourberie](./Fourberie.md) 
-- **Compétences **[Art de la magie](./Art de la magie.md) +14, [Bluff](./Bluff.md) +18, [Connaissances](./Connaissances.md) (mystères, géographie) +14, [Déguisement](./Déguisement.md) +18, [Discrétion](./Discrétion.md) +15, [Perception](./Perception.md) +12, [Premiers secours](./Premiers secours.md) +9, [Sabotage](./Sabotage.md) +12, [Vol](./Vol.md) +9 ; **Modificateurs raciaux** +4 en [Bluff](./Bluff.md), +4 en [Déguisement](./Déguisement.md)
+- **Dons **[[Attaque en finesse]], [[Attaques réflexes]], [[Esquive]], [[Fourberie]] 
+- **Compétences **[[Art de la magie]] +14, [[Bluff]] +18, [[Connaissances]] (mystères, géographie) +14, [[Déguisement]] +18, [[Discrétion]] +15, [[Perception]] +12, [[Premiers secours]] +9, [[Sabotage]] +12, [[Vol]] +9 ; **Modificateurs raciaux** +4 en [[Bluff]], +4 en [[Déguisement]]
 - **Langues** aklo, commun, mi-go
 - **Particularités **création d’objet, ne respire pas, trompeur,vol stellaire
 (((Écologie)))

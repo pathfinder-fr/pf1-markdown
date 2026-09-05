@@ -5,98 +5,98 @@
 <div class="presentation navmenu">
 ### Accès rapide aux sections sur l'environnement
 <table><tr style="vertical-align: top; text-align: left"><td>
-<ul><li>{s:PM|DONJONS}[Les donjons](./../Pathfinder-RPG/Donjons.md)
+<ul><li>{s:PM|DONJONS}[[Donjons|Les donjons]]
 <ul ID="DONJONS" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[Les différents types de donjons](./../Pathfinder-RPG/Donjons.md#Les_différents_types_de_donjons_7)</li>
-<li>[Les murs](./../Pathfinder-RPG/Donjons.md#Les_murs_0)</li>
-<li>[Les sols](./../Pathfinder-RPG/Donjons.md#Les_sols_1)</li>
-<li>[Les portes](./../Pathfinder-RPG/Donjons.md#Les_portes_2)</li>
-<li>[Les murs, les portes et la détection des sorts](./../Pathfinder-RPG/Donjons.md#Les_murs_les_portes_et_la_détection_des_sorts_3)</li>
-<li>[Les escaliers](./../Pathfinder-RPG/Donjons.md#Les_escaliers_4)</li>
-<li>[Les éboulements](./../Pathfinder-RPG/Donjons.md#Les_éboulements_5)</li>
-<li>[Champignons, moisissures et limons](./../Pathfinder-RPG/Donjons.md#Champignons_moisissures_et_limons_6)</li>
+<li>[[Donjons#Les_différents_types_de_donjons_7|Les différents types de donjons]]</li>
+<li>[[Donjons#Les_murs_0|Les murs]]</li>
+<li>[[Donjons#Les_sols_1|Les sols]]</li>
+<li>[[Donjons#Les_portes_2|Les portes]]</li>
+<li>[[Donjons#Les_murs_les_portes_et_la_détection_des_sorts_3|Les murs, les portes et la détection des sorts]]</li>
+<li>[[Donjons#Les_escaliers_4|Les escaliers]]</li>
+<li>[[Donjons#Les_éboulements_5|Les éboulements]]</li>
+<li>[[Donjons#Champignons_moisissures_et_limons_6|Champignons, moisissures et limons]]</li>
 </ul></li>
-<li>{s:PM|PIEGES}[Les pièges](./../Pathfinder-RPG/Pièges.md)
+<li>{s:PM|PIEGES}[[Pièges|Les pièges]]
 <ul ID="PIEGES" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[Les différentes parties d'un piège](./../Pathfinder-RPG/Pièges.md#DESCRIPTION)</li>
-<li>[Éléments divers des pièges](./../Pathfinder-RPG/Pièges.md#DIVERS)</li>  
+<li>[[Pièges#DESCRIPTION|Les différentes parties d'un piège]]</li>
+<li>[[Pièges#DIVERS|Éléments divers des pièges]]</li>  
 
-<li>[Exemples de pièges](./../Pathfinder-RPG/Exemples de pièges.md)</li>
-<li>[Conception de pièges](./../Pathfinder-RPG/Conception de pièges.md)</li>
+<li>[[Exemples de pièges]]</li>
+<li>[[Conception de pièges]]</li>
 </ul></li>
-<li>{s:PM|EXTERIEUR}[Les aventures en extérieur](./../Pathfinder-RPG/Aventures en extérieur.md)
+<li>{s:PM|EXTERIEUR}[[Aventures en extérieur|Les aventures en extérieur]]
 <ul ID="EXTERIEUR" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[Se perdre](./../Pathfinder-RPG/Aventures en extérieur.md#Se_perdre_4)</li>
-<li>[Forêts](./../Pathfinder-RPG/Aventures en extérieur.md#Forêts_5)</li>
-<ul><li>[Les feux de forêt](./../Pathfinder-RPG/Aventures en extérieur.md#Les_feux_de_forêt_FP_G_0)</li>
+<li>[[Aventures en extérieur#Se_perdre_4|Se perdre]]</li>
+<li>[[Aventures en extérieur#Forêts_5|Forêts]]</li>
+<ul><li>[[Aventures en extérieur#Les_feux_de_forêt_FP_G_0|Les feux de forêt]]</li>
 </ul>
-<li>[Marécages](./../Pathfinder-RPG/Aventures en extérieur.md#Marécages_6)</li>
-<li>[Collines](./../Pathfinder-RPG/Aventures en extérieur.md#Collines_7)</li>
-<li>[Montagnes](./../Pathfinder-RPG/Aventures en extérieur.md#Montagnes_8)</li>
-<ul><li>[Avalanches](./../Pathfinder-RPG/Aventures en extérieur.md#Avalanches_FP_H_1)</li>
-<li>[Voyages en montagne](./../Pathfinder-RPG/Aventures en extérieur.md#Voyages_en_montagne_2)</li>
+<li>[[Aventures en extérieur#Marécages_6|Marécages]]</li>
+<li>[[Aventures en extérieur#Collines_7|Collines]]</li>
+<li>[[Aventures en extérieur#Montagnes_8|Montagnes]]</li>
+<ul><li>[[Aventures en extérieur#Avalanches_FP_H_1|Avalanches]]</li>
+<li>[[Aventures en extérieur#Voyages_en_montagne_2|Voyages en montagne]]</li>
 </ul>
-<li>[Déserts](./../Pathfinder-RPG/Aventures en extérieur.md#Déserts_9)</li>
-<ul><li>[Les tempêtes de sable](./../Pathfinder-RPG/Aventures en extérieur.md#Les_tempêtes_de_sable_3)</li>
+<li>[[Aventures en extérieur#Déserts_9|Déserts]]</li>
+<ul><li>[[Aventures en extérieur#Les_tempêtes_de_sable_3|Les tempêtes de sable]]</li>
 </ul>
-<li>[Plaines](./../Pathfinder-RPG/Aventures en extérieur.md#Plaines_10)</li>
+<li>[[Aventures en extérieur#Plaines_10|Plaines]]</li>
 </ul></li>
-<li>{s:PM|MILIEUAQUATIQUE}[Le milieu aquatique](./../Pathfinder-RPG/Milieu aquatique.md)
+<li>{s:PM|MILIEUAQUATIQUE}[[Milieu aquatique|Le milieu aquatique]]
 <ul ID="MILIEUAQUATIQUE" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[Combats sous-marins](./../Pathfinder-RPG/Milieu aquatique.md#Combats_sous-marins_0)</li>
-<li>[Inondations](./../Pathfinder-RPG/Milieu aquatique.md#Inondations_1)</li>
+<li>[[Milieu aquatique#Combats_sous-marins_0|Combats sous-marins]]</li>
+<li>[[Milieu aquatique#Inondations_1|Inondations]]</li>
 </ul></li>
 </ul>
 </td><td>
-<ul><li>{s:PM|MILIEUURBAIN}[Le milieu urbain](./../Pathfinder-RPG/Milieu urbain.md)
+<ul><li>{s:PM|MILIEUURBAIN}[[Milieu urbain|Le milieu urbain]]
 <ul ID="MILIEUURBAIN" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[Murs d'enceinte et portes](./../Pathfinder-RPG/Milieu urbain.md#Murs_denceinte_et_portes_0)</li>
-<li>[Gardes et soldats](./../Pathfinder-RPG/Milieu urbain.md#Gardes_et_soldats_1)</li>
-<li>[Machines de guerre](./../Pathfinder-RPG/Milieu urbain.md#Machines_de_guerre_2)</li>
-<li>[Les rues de la ville](./../Pathfinder-RPG/Milieu urbain.md#Les_rues_de_la_ville_3)</li>
-<li>[Au-dessus et en dessous des rues](./../Pathfinder-RPG/Milieu urbain.md#Au-dessus_et_en_dessous_des_rues_4)</li>
-<li>[Bâtiments](./../Pathfinder-RPG/Milieu urbain.md#Bâtiments_5)</li>
-<li>[Les lumières de la ville](./../Pathfinder-RPG/Milieu urbain.md#Les_lumières_de_la_ville_6)</li>
+<li>[[Milieu urbain#Murs_denceinte_et_portes_0|Murs d'enceinte et portes]]</li>
+<li>[[Milieu urbain#Gardes_et_soldats_1|Gardes et soldats]]</li>
+<li>[[Milieu urbain#Machines_de_guerre_2|Machines de guerre]]</li>
+<li>[[Milieu urbain#Les_rues_de_la_ville_3|Les rues de la ville]]</li>
+<li>[[Milieu urbain#Au-dessus_et_en_dessous_des_rues_4|Au-dessus et en dessous des rues]]</li>
+<li>[[Milieu urbain#Bâtiments_5|Bâtiments]]</li>
+<li>[[Milieu urbain#Les_lumières_de_la_ville_6|Les lumières de la ville]]</li>
 </ul></li>
-<li>{s:PM|CLIMAT}[Le climat](./../Pathfinder-RPG/Climat.md)
+<li>{s:PM|CLIMAT}[[Climat|Le climat]]
 <ul ID="CLIMAT" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[Pluie, neige, neige fondue et grêle](./../Pathfinder-RPG/Climat.md#Pluie_neige_neige_fondue_et_grêle_1)</li>
-<li>[Tempêtes](./../Pathfinder-RPG/Climat.md#Tempêtes_2)</li>
-<li>[Brouillard](./../Pathfinder-RPG/Climat.md#Brouillard_3)</li>
-<li>[Vents](./../Pathfinder-RPG/Climat.md#Vents_4)</li>
+<li>[[Climat#Pluie_neige_neige_fondue_et_grêle_1|Pluie, neige, neige fondue et grêle]]</li>
+<li>[[Climat#Tempêtes_2|Tempêtes]]</li>
+<li>[[Climat#Brouillard_3|Brouillard]]</li>
+<li>[[Climat#Vents_4|Vents]]</li>
 </ul></li>
-<li>{s:PM|PLANS}[Les plans](./../Pathfinder-RPG/Plans.md)
+<li>{s:PM|PLANS}[[Plans|Les plans]]
 <ul ID="PLANS" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[Qu'est-ce qu'un plan ?](./../Pathfinder-RPG/Plans.md#DÉFINITIONPLAN)</li>
-<li>[Caractéristiques des plans](./../Pathfinder-RPG/Plans.md#CARACTÉRISTIQUESPLANS)</li>
-<li>[Les plans du grand au-delà](./../Golarion/Grand Au-Delà.md)</li>
+<li>[[Plans#DÉFINITIONPLAN|Qu'est-ce qu'un plan ?]]</li>
+<li>[[Plans#CARACTÉRISTIQUESPLANS|Caractéristiques des plans]]</li>
+<li>[[Grand au-delà|Les plans du grand au-delà]]</li>
 </ul></li>
-<li>{s:PM|DANGNAT}[Les dangers naturels](./../Pathfinder-RPG/Dangers naturels.md)
+<li>{s:PM|DANGNAT}[[Dangers naturels|Les dangers naturels]]
 <ul ID="DANGNAT" CLASS="listecachée cadrebas" style="font-size:100%">
-<li>[L'acide](./../Pathfinder-RPG/Dangers naturels.md#ACIDE)</li>
-<li>[L'asphyxie](./../Pathfinder-RPG/Dangers naturels.md#ASPHYXIE)</li>
-<li>[La chaleur](./../Pathfinder-RPG/Dangers naturels.md#CHALEUR)</li>
-<li>[Les chutes](./../Pathfinder-RPG/Dangers naturels.md#CHUTES)</li>
-<li>[Les chutes d'objets](./../Pathfinder-RPG/Dangers naturels.md#CHUTESOBJETS)</li>
-<li>[L'eau](./../Pathfinder-RPG/Dangers naturels.md#EAU)</li>
-<li>[La faim et la soif](./../Pathfinder-RPG/Dangers naturels.md#FAIMSOIF)</li>
-<li>[La fumée](./../Pathfinder-RPG/Dangers naturels.md#FUMEE)</li>
-<li>[Le froid](./../Pathfinder-RPG/Dangers naturels.md#FROID)</li>
-<li>[La glace](./../Pathfinder-RPG/Dangers naturels.md#GLACE)</li>
-<li>[La lave](./../Pathfinder-RPG/Dangers naturels.md#LAVE)</li>
-<li>[La noyade](./../Pathfinder-RPG/Dangers naturels.md#NOYADE)</li>
-<li>[L'obscurité](./../Pathfinder-RPG/Dangers naturels.md#OBSCURITE)</li>
-<li>[Prendre feu](./../Pathfinder-RPG/Dangers naturels.md#PRENDREFEU)</li>
+<li>[[Dangers naturels#ACIDE|L'acide]]</li>
+<li>[[Dangers naturels#ASPHYXIE|L'asphyxie]]</li>
+<li>[[Dangers naturels#CHALEUR|La chaleur]]</li>
+<li>[[Dangers naturels#CHUTES|Les chutes]]</li>
+<li>[[Dangers naturels#CHUTESOBJETS|Les chutes d'objets]]</li>
+<li>[[Dangers naturels#EAU|L'eau]]</li>
+<li>[[Dangers naturels#FAIMSOIF|La faim et la soif]]</li>
+<li>[[Dangers naturels#FUMEE|La fumée]]</li>
+<li>[[Dangers naturels#FROID|Le froid]]</li>
+<li>[[Dangers naturels#GLACE|La glace]]</li>
+<li>[[Dangers naturels#LAVE|La lave]]</li>
+<li>[[Dangers naturels#NOYADE|La noyade]]</li>
+<li>[[Dangers naturels#OBSCURITE|L'obscurité]]</li>
+<li>[[Dangers naturels#PRENDREFEU|Prendre feu]]</li>
 </ul></li>
 </ul>
 </td><td>
-<ul><li>[Les aventures nautiques](./../Pathfinder-RPG/Aventures nautiques.md)</li>
-<li>[Les catastrophes](./../Pathfinder-RPG/Catastrophes.md)</li>
-<li>[Le coût de la vie](./../Pathfinder-RPG/Coût de la vie.md)</li>
-<li>[Les dangers inhabituels](./../Pathfinder-RPG/Dangers.md)</li>
+<ul><li>[[Aventures nautiques|Les aventures nautiques]]</li>
+<li>[[Catastrophes|Les catastrophes]]</li>
+<li>[[Coût de la vie|Le coût de la vie]]</li>
+<li>[[Dangers|Les dangers inhabituels]]</li>
 </ul>
 </td><td>
-<ul><li>[La magie primordiale](./../Pathfinder-RPG/Magie primordiale.md)</li>
-<li>[Les villes et communautés](./../Pathfinder-RPG/Villes.md)</li>
+<ul><li>[[Magie primordiale|La magie primordiale]]</li>
+<li>[[Villes|Les villes et communautés]]</li>
 </ul>
 </td></tr></table></div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#ARMEDEJET
 ---
 
->>> [Caractéristiques des armes#ARMEDEJET](./Caractéristiques des armes.md#ARMEDEJET)
+>>> [[Caractéristiques des armes#ARMEDEJET]]

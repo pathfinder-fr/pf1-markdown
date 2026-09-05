@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Fée|Ciel|Extraplanaire}
 {s:BDTexte|<i>Source : Bestiaire 2 p.161</i>}
 {s:BDTexte|<b>PX</b> 1600}
-{s:BDTexte|[Fée](./type Fée.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille P, NM}
-{s:BDTexte|<b>Init</b> +3 ; <b>Sens</b> [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Fée|Fée]] ([[sous-type extraplanaire|extraplanaire]]) de taille P, NM}
+{s:BDTexte|<b>Init</b> +3 ; <b>Sens</b> [[vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 18, contact 15, pris au dépourvu 14 (Dex +4, naturelle +3, taille +1)}
 {s:BDTexte|<b>pv</b> 44 (8d6+16)}
@@ -27,13 +27,13 @@ Categories:
 {s:BDTexte| ou dague +9 (1d3+1 / 19-20 plus poison)}
 {s:BDTexte|<b>Attaques spéciales</b> attaque sournoise +3d6}
 {s:BDTexte|<b>Pouvoirs magiques</b> (NLS 8 ; concentration +11)}
-{s:BDSorts|A volonté— <i>[illumination](./Illumination.md) (DD13), [lumière](./Lumière.md), [lumières dansantes](./Lumières dansantes.md), [manipulation à distance](./Manipulation à distance.md), [son imaginaire](./Son imaginaire.md) (DD 13)</i>}
-{s:BDSorts|3/jour— <i>[Cécité / Surdité](./Cécitésurdité.md) (DD16), [Lumière du Jour](./Lumière du jour.md)</i>}
+{s:BDSorts|A volonté— <i>[[illumination]] (DD13), [[lumière]], [[lumières dansantes]], [[manipulation à distance]], [[son imaginaire]] (DD 13)</i>}
+{s:BDSorts|3/jour— <i>[[CécitéSurdité|Cécité / Surdité]] (DD16), [[Lumière du Jour]]</i>}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 13, <b>Dex</b> 18, <b>Con</b> 15, <b>Int</b> 14, <b>Sag</b> 16, <b>Cha</b> 17}
 {s:BDTexte|<b>BBA</b> +4, <b>BMO</b> +4, <b>DMD</b> 18}
-{s:BDTexte|<b>Dons</b>[Attaque en finesse](./Attaque en finesse.md), [Attaque en vol](./Attaque en vol.md), [Science de l'initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|<b>Compétences</b> [Acrobaties](./Acrobaties.md) +15, [Connaissances (mystères)](./Connaissances.md) +10, [Connaissances (plans)](./Connaissances.md) +10, [Discrétion](./Discrétion.md) +19, [Évasion](./Évasion.md) +15, [Perception](./Perception.md) +16, [Survie](./Survie.md)  +11, [Vol](./Vol.md) +17,}
+{s:BDTexte|<b>Dons</b>[[Attaque en finesse]], [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]]}
+{s:BDTexte|<b>Compétences</b> [[Acrobaties]] +15, [[Connaissances|Connaissances (mystères)]] +10, [[Connaissances|Connaissances (plans)]] +10, [[Discrétion]] +19, [[Évasion]] +15, [[Perception]] +16, [[Survie]]  +11, [[Vol]] +17,}
 {s:BDTexte|<b>Langues</b> aklo, commun, sylvestre}
 {s:BDTexte|<b>Particularités</b> Portail de Lumière, rituel du portail, utilisations des poisons}
 {s:BDSousTitre|Écologie}

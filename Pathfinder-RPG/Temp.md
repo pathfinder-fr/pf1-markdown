@@ -7,60 +7,60 @@ LastModified: 2025-05-20 16:56
 ### Suppléments intégrés au site
 On ne parle ici que du contenu ogl, le "contenu technique" si vous préférez. Les abréviations sont listées dans l'ordre vo/vf qui se rapporte au bloc source associé.
 #### État terminé
-- [Armes et équipement](./Temp-Armes et équipement.md) ([Contenu](./Armes et équipement (Contenu).md)) UE/A&E terminé
-- *Armurerie de l'aventurier ([Contenu](./Armurerie de laventurier (Contenu).md)) AA/AA terminé*
-- [l'Art de la guerre](./Temp-Art-de-la-guerre.md) ([Contenu](./LArt de la guerre (Contenu).md)) UC/AG terminé
-- [l'Art de la magie](./Temp-Art-de-la-magie.md) ([Contenu](./LArt de la magie (Contenu).md)) UM/AM terminé
-- *[l'Art de l'intrigue](./Temp - Ultimate intrigue.md) ([Contenu](./LArt de lintrigue (Contenu).md)) UI/AI terminé*
-- [Aventures occultes](./Temp-aventures occultes.md) ([Contenu](./Aventures occultes (Contenu).md)) OA/AO terminé
-- Bestiaire ([Contenu](./Bestiaire (Contenu).md)) B1 terminé
-- Bestiaire 2 ([Contenu](./Bestiaire 2 (Contenu).md)) B2 terminé
-- Bestiaire 3 ([Contenu](./Bestiaire 3 (Contenu).md)) B3 terminé
-- Bestiaire 4 ([Contenu](./Bestiaire 4 (Contenu).md)) B4 terminé
-- Bestiaire 5 ([Contenu](./Bestiaire 5 (Contenu).md)) B5 terminé
-- [Cadre de campagne - la Mer Intérieure](./Temp-cadre de campagne.md) ([Contenu](./La Mer Intérieure (Contenu).md)) ISWG/CCMI terminé
-- *Dieux de la Mer Intérieure ([Contenu](./Dieux de la Mer intérieure (Contenu).md)) ISG/DMI terminé*
-- Dieux et magie ([Contenu](./Dieux et magie (Contenu).md)) G&M/D&M terminé
-- [Guide de campagne](./Temp-Guide de campagne.md) ([Contenu](./Guide de campagne (Contenu).md)) UC/GC terminé
-- [Guide du maître](./Temp-guide-du-maître.md) ([Contenu](./Guide du maître (Contenu).md)) GDM terminé
-- [Livre des damnés](./Temp-Bestiaire du Livre des damnés.md) ([Contenu](./Livre des damnés 1 (Contenu).md)) BD/LD terminé
-- [Magie de la Mer Intérieure](./Temp-Magie de la mer intérieure.md) ([Contenu](./Magie de la Mer Intérieure (Contenu).md)) ISM/MMI terminé
-- [Manuel des joueurs - Classes avancées](./Temp-classes-avancées.md) ([Contenu](./Manuel des joueurs - Classes avancées (Contenu).md)) ACG/MCA terminé 
-- Manuel des joueurs - Règles avancées ([Contenu](./Manuel des joueurs - Règles avancées (Contenu).md)) APG/MJRA terminé
-- [Manuel des races](./Temp-manuel-des-races.md) ([Contenu](./Manuel des races (Contenu).md)) ARG/MR terminé
-- *Manuel du maître d'armes ([Contenu](./Manuel du maître darmes (Contenu).md)) WMH/MMA terminé*
-- *Manuel du maître des armures ([Contenu](./Manuel du maître des armures (Contenu).md)) AMH/MMA terminé*
-- *Origines occultes ([Contenu](./Origines occultes (Contenu).md)) OO/OO terminé*
-- [Pathfinder unchained](./Temp-Pathfinder unchained.md) ([Contenu](./Pathfinder unchained (Contenu).md)) PU/PU terminé
-- [Pirates de la Mer Intérieure](./Temp - Pirates de la mer Intérieure.md) ([Contenu](./Pirates de la Mer Intérieure (Contenu).md)) PIS/PMI terminé
-- *Races de la mer Intérieure* ([Contenu](./Races de la mer Intérieure (Contenu).md)) ISR/RMI terminé
-- [Recueil de la Société des Éclaireurs](./Temp-Recueil de la Société des Éclaireurs.md) ([Contenu](./Recueil de la Société des Éclaireurs (Contenu).md)) -/RSE terminé
-- *Voies de prestige ([Contenu](./Voies de prestige (Contenu).md)) PP/VP terminé*
+- [[Temp-armes et équipement|Armes et équipement]] ([[Armes et équipement (Contenu)|Contenu]]) UE/A&E terminé
+- *Armurerie de l'aventurier ([[Armurerie de laventurier (Contenu)|Contenu]]) AA/AA terminé*
+- [[Temp-art-de-la-guerre|l'Art de la guerre]] ([[LArt de la guerre (Contenu)|Contenu]]) UC/AG terminé
+- [[Temp-art-de-la-magie|l'Art de la magie]] ([[LArt de la magie (Contenu)|Contenu]]) UM/AM terminé
+- *[[Temp - Ultimate intrigue|l'Art de l'intrigue]] ([[LArt de lintrigue (Contenu)|Contenu]]) UI/AI terminé*
+- [[Temp-aventures occultes|Aventures occultes]] ([[Aventures occultes (Contenu)|Contenu]]) OA/AO terminé
+- Bestiaire ([[Bestiaire (Contenu)|Contenu]]) B1 terminé
+- Bestiaire 2 ([[Bestiaire 2 (Contenu)|Contenu]]) B2 terminé
+- Bestiaire 3 ([[Bestiaire 3 (Contenu)|Contenu]]) B3 terminé
+- Bestiaire 4 ([[Bestiaire 4 (Contenu)|Contenu]]) B4 terminé
+- Bestiaire 5 ([[Bestiaire 5 (Contenu)|Contenu]]) B5 terminé
+- [[Temp-cadre de campagne|Cadre de campagne - la Mer Intérieure]] ([[La Mer Intérieure (Contenu)|Contenu]]) ISWG/CCMI terminé
+- *Dieux de la Mer Intérieure ([[Dieux de la Mer Intérieure (Contenu)|Contenu]]) ISG/DMI terminé*
+- Dieux et magie ([[Dieux et magie (Contenu)|Contenu]]) G&M/D&M terminé
+- [[Temp-Guide de campagne|Guide de campagne]] ([[Guide de campagne (Contenu)|Contenu]]) UC/GC terminé
+- [[Temp-guide-du-maître|Guide du maître]] ([[Guide du maître (Contenu)|Contenu]]) GDM terminé
+- [[Temp-Bestiaire du Livre des damnés|Livre des damnés]] ([[Livre des damnés 1 (Contenu)|Contenu]]) BD/LD terminé
+- [[Temp-Magie de la mer intérieure|Magie de la Mer Intérieure]] ([[Magie de la Mer Intérieure (Contenu)|Contenu]]) ISM/MMI terminé
+- [[Temp-classes-avancées|Manuel des joueurs - Classes avancées]] ([[Manuel des joueurs - Classes avancées (Contenu)|Contenu]]) ACG/MCA terminé 
+- Manuel des joueurs - Règles avancées ([[Manuel des joueurs - Règles avancées (Contenu)|Contenu]]) APG/MJRA terminé
+- [[Temp-manuel-des-races|Manuel des races]] ([[Manuel des races (Contenu)|Contenu]]) ARG/MR terminé
+- *Manuel du maître d'armes ([[Manuel du maître darmes (Contenu)|Contenu]]) WMH/MMA terminé*
+- *Manuel du maître des armures ([[Manuel du maître des armures (Contenu)|Contenu]]) AMH/MMA terminé*
+- *Origines occultes ([[Origines occultes (Contenu)|Contenu]]) OO/OO terminé*
+- [[Temp-Pathfinder unchained|Pathfinder unchained]] ([[Pathfinder unchained (Contenu)|Contenu]]) PU/PU terminé
+- [[Temp - Pirates de la mer Intérieure|Pirates de la Mer Intérieure]] ([[Pirates de la Mer Intérieure (Contenu)|Contenu]]) PIS/PMI terminé
+- *Races de la mer Intérieure* ([[Races de la mer Intérieure (Contenu)|Contenu]]) ISR/RMI terminé
+- [[Temp-Recueil de la Société des Éclaireurs|Recueil de la Société des Éclaireurs]] ([[Recueil de la Société des Éclaireurs (Contenu)|Contenu]]) -/RSE terminé
+- *Voies de prestige ([[Voies de prestige (Contenu)|Contenu]]) PP/VP terminé*
 
-- [Courts suppléments univers](./Courts suppléments univers (Contenu).md) -/CSU
-  - Cités de Golarion ([Contenu](./Courts suppléments univers (Contenu).md#1)), terminé
-  - Cités perdues de Golarion ([Contenu](./Courts suppléments univers (Contenu).md#2)), terminé
-  - Donjons de Golarion ([Contenu](./Courts suppléments univers (Contenu).md#3)), terminé
-  - Guide de Korvosa ([Contenu](./Courts suppléments univers (Contenu).md#4)), terminé
-  - Guide de la Plaie du monde ([Contenu](./Courts suppléments univers (Contenu).md#5)), terminé
-  - Guide des Chaînes ([Contenu](./Courts suppléments univers (Contenu).md#6)), terminé
-  - Guide des Royaumes fluviaux ([Contenu](./Courts suppléments univers (Contenu).md#7)), terminé
-  - Guide du Katapesh ([Contenu](./Courts suppléments univers (Contenu).md#8)), terminé
-  - Guide du Val de Sombrelune ([Contenu](./Courts suppléments univers (Contenu).md#9)), terminé
-  - Irrisen, Pays de l'hiver éternel ([Contenu](./Courts suppléments univers (Contenu).md#10)), terminé
-  - Navires de la mer Intérieure ([Contenu](./Courts suppléments univers (Contenu).md#11)), terminé
+- [[Courts suppléments univers (Contenu)|Courts suppléments univers]] -/CSU
+  - Cités de Golarion ([[Courts suppléments univers (Contenu)#1|Contenu]]), terminé
+  - Cités perdues de Golarion ([[Courts suppléments univers (Contenu)#2|Contenu]]), terminé
+  - Donjons de Golarion ([[Courts suppléments univers (Contenu)#3|Contenu]]), terminé
+  - Guide de Korvosa ([[Courts suppléments univers (Contenu)#4|Contenu]]), terminé
+  - Guide de la Plaie du monde ([[Courts suppléments univers (Contenu)#5|Contenu]]), terminé
+  - Guide des Chaînes ([[Courts suppléments univers (Contenu)#6|Contenu]]), terminé
+  - Guide des Royaumes fluviaux ([[Courts suppléments univers (Contenu)#7|Contenu]]), terminé
+  - Guide du Katapesh ([[Courts suppléments univers (Contenu)#8|Contenu]]), terminé
+  - Guide du Val de Sombrelune ([[Courts suppléments univers (Contenu)#9|Contenu]]), terminé
+  - Irrisen, Pays de l'hiver éternel ([[Courts suppléments univers (Contenu)#10|Contenu]]), terminé
+  - Navires de la mer Intérieure ([[Courts suppléments univers (Contenu)#11|Contenu]]), terminé
 
-- [FAQ de Paizo](./FAQ officielle.md), ouvrages intégrés terminés
+- [[FAQ officielle|FAQ de Paizo]], ouvrages intégrés terminés
 
 #### État en cours
-- *Boîte à tactiques magiques* ([Contenu](./Boîte à tactiques magiques (Contenu).md)) en cours (Undercov, Kubixcube, FaustMe)
+- *Boîte à tactiques magiques* ([[Boîte à tactiques magiques (Contenu)|Contenu]]) en cours (Undercov, Kubixcube, FaustMe)
 
-- [Artefacts mineurs](./artefacts mineurs.md) en pause (Littlechiki)
-- Bestiaire de la mer Intérieure ([Contenu](./Bestiaire de la mer Intérieure (Contenu).md)) BMI en pause
-- [Campagnes mythiques](./Temp-Campagnes mythiques.md) ([Contenu](./Campagnes mythiques (Contenu).md)) CMy en pause, presque terminé (dons mythiques à consolider)
-- [Codex monstrueux](./Temp-codex monstrueux.md) ([Contenu](./Codex monstrueux (Contenu).md)) CM en pause, presque terminé (monstres à intégrer)
-- *Livre des damnés 2* ([Contenu](./Livre des damnés 2 (Contenu).md)) BD en pause, presque terminé (divinités à intégrer)
-- [Manuel des PNJ](./Temp-Manuel des PNJ.md) ([Contenu](./Manuel des PNJ (Contenu).md)) MPNJ en pause, entamé (PNJs à intégrer)
+- [[Artefacts mineurs]] en pause (Littlechiki)
+- Bestiaire de la mer Intérieure ([[Bestiaire de la mer Intérieure (Contenu)|Contenu]]) BMI en pause
+- [[Temp-Campagnes mythiques|Campagnes mythiques]] ([[Campagnes mythiques (Contenu)|Contenu]]) CMy en pause, presque terminé (dons mythiques à consolider)
+- [[Temp-codex monstrueux|Codex monstrueux]] ([[Codex monstrueux (Contenu)|Contenu]]) CM en pause, presque terminé (monstres à intégrer)
+- *Livre des damnés 2* ([[Livre des damnés 2 (Contenu)|Contenu]]) BD en pause, presque terminé (divinités à intégrer)
+- [[Temp-Manuel des PNJ|Manuel des PNJ]] ([[Manuel des PNJ (Contenu)|Contenu]]) MPNJ en pause, entamé (PNJs à intégrer)
 
 #### Errata
 - [Armes et équipement](https://paizo.com/include/PZO1123-Errata-20160519-1.0.zip) (2nde impression) terminé
@@ -78,21 +78,21 @@ On ne parle ici que du contenu ogl, le "contenu technique" si vous préférez. L
 ### Travaux divers à partir de la vo
 Attention à respecter l'OGL et la PCUP.
 #### État en cours
-- [Heroes of the Street](./Temp - Heroes of the street.md) HotS 88% fini (Gilthorne)
+- [[Temp - Heroes of the street|Heroes of the Street]] HotS 88% fini (Gilthorne)
 
-- [Temp-Traits issus des suppléments](./Temp-traits issus des suppléments.md) en pause
+- [[Temp-Traits issus des suppléments]] en pause
 
 #### État à venir
-- [Animal Archive](./Temp-Animal Archive.md) (1 archétype de barbare intégré)
-- [Dirty Tactics Toolbox](./dons issus du Dirty Tactics Toolbox.md) DTT (dons intégrés)
-- [Ultimate Wilderness](./Temp - Ultimate wilderness.md) MTS pour Manuel des Terres Sauvages (Shifter/Métamorphe intégré)
-- [The world of the vampire hunter D](./Temp - The world of vampire hunter.md) (Vampire Hunter/Chasseur de vampire intégré)
-- [Wilderness Origins](./Temp - wilderness Origins.md) (1 archétype de métamorphe intégré)
+- [[Temp-Animal Archive|Animal Archive]] (1 archétype de barbare intégré)
+- [[dons issus du Dirty tactics toolbox|Dirty Tactics Toolbox]] DTT (dons intégrés)
+- [[Temp - Ultimate wilderness|Ultimate Wilderness]] MTS pour Manuel des Terres Sauvages (Shifter/Métamorphe intégré)
+- [[Temp - The world of vampire hunter|The world of the vampire hunter D]] (Vampire Hunter/Chasseur de vampire intégré)
+- [[Temp - wilderness Origins|Wilderness Origins]] (1 archétype de métamorphe intégré)
 
-- [Temp-Nouveaux archétypes](./Temp-Nouveaux archétypes.md)
-- [Temp-Nouvelles règles de convocation](./Temp-Nouvelles règles de convocation.md)
+- [[Temp-Nouveaux archétypes]]
+- [[Temp-Nouvelles règles de convocation]]
 
 ### Autres
-- [Temp-mainpage](./temp-MainPage.md) Page de test de la page d'accueil où l'on peut s'exercer
-- [Temp- Tests snippets](./Temp- Tests snippets.md) Page de tests pour les snippets.
-- [Temp- Seigneurs démons](./Temp- Seigneurs démons.md), [Temp- Cavaliers de lapocalypse](./Temp- Cavaliers de lapocalypse.md) profils techniques de diverses divinités.
+- [[Temp-mainpage]] Page de test de la page d'accueil où l'on peut s'exercer
+- [[Temp- Tests snippets]] Page de tests pour les snippets.
+- [[Temp- Seigneurs démons]], [[Temp- Cavaliers de lapocalypse]] profils techniques de diverses divinités.

@@ -16,28 +16,28 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Esipil](./Esipil.md) || 2
+| [[Esipil]] || 2
 |-
-| [Ichkoh](./Ichkoh.md) || 7
+| [[Ichkoh]] || 7
 |-
-| [Kimenhul](./Kimenhul.md) || 20
+| [[Kimenhul]] || 20
 |-
-| [Nucol](./Nucol.md) || 4
+| [[Nucol]] || 4
 |-
-| [Pakalchi](./Pakalchi.md) || 9
+| [[Pakalchi]] || 9
 |-
-| [Qolok](./Qolok.md) || 16
+| [[Qolok]] || 16
 |-
-| [Wihsaak](./Wihsaak.md) || 6
+| [[Wihsaak]] || 6
 |-
-| [Ximtal](./Ximtal.md) || 17
+| [[Ximtal]] || 17
 |-
-| [Zohanil](./Zohanil.md) || 10
+| [[Zohanil]] || 10
 |}
 </div></div><div class="description">**Source :** Bestiaire 2 p.10.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md), [sahkil](./sous-type sahkil.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]], [[sous-type sahkil|sahkil]])*
 
-Les [psychopompes](./../Golarion/Psychopompes.md) sont responsables du bon fonctionnement de l’un des processus fondamentaux du multivers : l’évolution des âmes mortelles. En effet, c’est grâce à ce cycle infini de vie, de mort et de renaissance que les forces qui animent les plans se calibrent et évoluent. Dans le cadre de ce processus, les psychopompes agissent en qualité d’accompagnateurs. Mais peu importe leur pouvoir ou l’influence qu’ils pourraient avoir, ils savent où se trouve leur place, leur devoir et partagent un secret : l’ordre des plans n’est pas parfait et, un jour lointain, il sera réduit à néant. Pour la plupart des psychopompes, cette dure vérité vient renforcer leur diligence et leur volonté de retarder le plus possible la détérioration du multivers. Pour d’autres, c’est un destin inévitable qui arrive à toute allure et stimule leur fibre nihiliste. Et pour les psychopompes les plus éhontés et égoïstes, c’est une raison pour se rebeller.
+Les [[Psychopompes]] sont responsables du bon fonctionnement de l’un des processus fondamentaux du multivers : l’évolution des âmes mortelles. En effet, c’est grâce à ce cycle infini de vie, de mort et de renaissance que les forces qui animent les plans se calibrent et évoluent. Dans le cadre de ce processus, les psychopompes agissent en qualité d’accompagnateurs. Mais peu importe leur pouvoir ou l’influence qu’ils pourraient avoir, ils savent où se trouve leur place, leur devoir et partagent un secret : l’ordre des plans n’est pas parfait et, un jour lointain, il sera réduit à néant. Pour la plupart des psychopompes, cette dure vérité vient renforcer leur diligence et leur volonté de retarder le plus possible la détérioration du multivers. Pour d’autres, c’est un destin inévitable qui arrive à toute allure et stimule leur fibre nihiliste. Et pour les psychopompes les plus éhontés et égoïstes, c’est une raison pour se rebeller.
 
 Ces psychopompes dissidents sont connus sous le nom de sahkils. Mécontents de n’être que de simples sous-fifres dans le cycle défaillant de vies sans intérêt, ces psychopompes ont déserté leur poste. Échappant aux restrictions de leur ancienne confrérie, ils se sont réfugiés dans les endroits inoccupés de la réalité et se sont réunis en majorité dans les brumes du plan Éthéré. C’est là, à l’endroit que les âmes nouvellement libérées de leur enveloppe traversent pour se diriger vers le jugement, que les rebelles du cycle de la mort se réorganisent. Embrassant la terreur qu’ils inspirent aux mortels, ils se verraient bien dans le rôle de tyrans. Ayant quitté le service des âmes, ils souhaitent maintenant devenir leurs terrifiants maîtres. Et les jours de la réalité ont beau être comptés, les sahkils ont décidé de profiter des éons qui leur restent pour diriger celle-ci.
 
@@ -47,9 +47,9 @@ Depuis le plan Éthéré, les sahkils observent. Ils glissent leurs fragiles cir
 
 Les sahkils les plus dangereux s’élèvent au-dessus de leurs congénères et se mettent à leur tête en tant que chefs de guerre cauchemardesques. Ces bourreaux sahkils forment de vastes royaumes déments dont seuls s’échappent des bruits torturés. Uniques, tant par leur apparence que leurs objectifs, ces demi-dieux rassemblent des légions de serviteurs sahkils et les unissent pour mener des campagnes contres des âmes vulnérables, des mondes mortels tout entiers, ou même des bourreaux rivaux. Indépendamment de leurs objectifs, les bourreaux sahkils font partie des membres les plus secrets de leur race, se dissimulant afin de préserver la terreur qu’inspire leur véritable visage ou, parfois, pour cacher au monde les êtres qu’ils étaient autrefois.
 
-Les sahkils, ces êtres insatiables qui se nourrissent de terreur, perturbent le fonctionnement du multivers. En conséquence, ils sont haïs par presque toutes les races célestes et loyales, qui s’opposent à leurs désirs égoïstes et les traquent comme des bêtes féroces et des brigands métaphysiques. Mais ce sont les psychopompes qui s’opposent le plus activement aux interférences des sahkils dans l’évolution des âmes, même s’ils font rarement preuve de rancœur envers les traîtres. Les [manasaputras](./Manasaputras.md) sont eux aussi violemment remontés contre les manigances des sahkils, car la prédation de ces créatures perturbe directement le développement des âmes mortelles. Cette situation aboutit souvent à des situations dans lesquels des manasaputras consciencieux ou leurs agents s’interposent pour défendre des esprits vulnérables ou mènent des expéditions pour libérer des âmes de valeur avant qu’elles ne soient détruites.
+Les sahkils, ces êtres insatiables qui se nourrissent de terreur, perturbent le fonctionnement du multivers. En conséquence, ils sont haïs par presque toutes les races célestes et loyales, qui s’opposent à leurs désirs égoïstes et les traquent comme des bêtes féroces et des brigands métaphysiques. Mais ce sont les psychopompes qui s’opposent le plus activement aux interférences des sahkils dans l’évolution des âmes, même s’ils font rarement preuve de rancœur envers les traîtres. Les [[manasaputras]] sont eux aussi violemment remontés contre les manigances des sahkils, car la prédation de ces créatures perturbe directement le développement des âmes mortelles. Cette situation aboutit souvent à des situations dans lesquels des manasaputras consciencieux ou leurs agents s’interposent pour défendre des esprits vulnérables ou mènent des expéditions pour libérer des âmes de valeur avant qu’elles ne soient détruites.
 
-Néanmoins, les sahkils ne sont pas sans alliés. Les [divs](./Div.md), qui mènent des campagnes pour répandre la malchance et la ruine parmi les mortels, respectent les motivations des sahkils et travaillent parfois de concert avec eux pour répandre la terreur. Tout aussi nihilistes, les [démons](./Démon.md) qui œuvrent à la fin de tout savourent les actions des sahkils qui détruisent les âmes mortelles et hâtent la fin des temps. Les [kytons](./Kyton.md) font eux aussi preuve d’une admiration distante pour les chefs-d'œuvre avant-gardistes de démence et de terreur que les sahkils tissent dans les esprits des mortels.
+Néanmoins, les sahkils ne sont pas sans alliés. Les [[Div|divs]], qui mènent des campagnes pour répandre la malchance et la ruine parmi les mortels, respectent les motivations des sahkils et travaillent parfois de concert avec eux pour répandre la terreur. Tout aussi nihilistes, les [[Démon|démons]] qui œuvrent à la fin de tout savourent les actions des sahkils qui détruisent les âmes mortelles et hâtent la fin des temps. Les [[Kyton|kytons]] font eux aussi preuve d’une admiration distante pour les chefs-d'œuvre avant-gardistes de démence et de terreur que les sahkils tissent dans les esprits des mortels.
 
 ### Les bourreaux sahkils
 Un groupe irascible de chefs de guerre quasi divins domine les légions des sahkils. Ce sont eux qui ont permis à leur race de franchir les étapes les plus importantes dans la poursuite de leurs objectifs et ils en ont profité pour amasser de la puissance et des fidèles grâce à la terreur qu’ils inspirent. Depuis les royaumes inférieurs du plan Éthéré, ces bourreaux sahkils fomentent de nouvelles horreurs à instiller dans les mondes et les esprits des mortels. Parmi les plus terrifiants bourreaux se trouvent :

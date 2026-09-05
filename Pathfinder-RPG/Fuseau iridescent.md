@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun fuseau irisée|{s:RSE}}
-**Aura**  ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 18 000 po (normale), 12 000 po (défectueuse), 500 po (ébréchée) ; **Poids** –
+**Aura**  ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 18 000 po (normale), 12 000 po (défectueuse), 500 po (ébréchée) ; **Poids** –
 (((Description)))
 - ***Normale.*** Permet au personnage de subsister sans air.
 
 
-- ***Défectueuse.*** Cette pierre alimente le porteur sans air, mais il est toujours [chancelant](./Chancelant.md).
+- ***Défectueuse.*** Cette pierre alimente le porteur sans air, mais il est toujours [[chancelant]].
 
 
-- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +4 aux jets de [Constitution](./Constitution.md) pour [retenir sa respiration](./Dangers naturels.md#NOYADE).
+- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +4 aux jets de [[Constitution]] pour [[Dangers naturels#NOYADE|retenir sa respiration]].
 
 (((Pouvoir de résonance)))
-*[Endurance aux énergies destructives](./Endurance aux énergies destructives.md)*, comme le sort, et ne subit que la moitié des dégâts dus à l’exposition au vide et à la pression sous-marine.
+*[[Endurance aux énergies destructives]]*, comme le sort, et ne subit que la moitié des dégâts dus à l’exposition au vide et à la pression sous-marine.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être de niveau 12 ; **Coût** 9 000 po (normale), 6 000 po (défectueuse), 250 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], le créateur doit être de niveau 12 ; **Coût** 9 000 po (normale), 6 000 po (défectueuse), 250 po (ébréchée)
 </div>

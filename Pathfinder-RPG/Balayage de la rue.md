@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Après avoir repoussé votre ennemi, vous pouvez rapidement le faire tomber au sol et le ralentir.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 15, [Attaque en puissance](./Attaque en puissance.md), [École de la rue](./École de la rue.md), [Science de la bousculade](./Science de la bousculade.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +6 ou [moine](./Moine.md) de niveau 5
+**Conditions.** [[For]] 15, [[Attaque en puissance]], [[École de la rue]], [[Science de la bousculade]], [[Science du combat à mains nues]], [[BBA]] +6 ou [[moine]] de niveau 5
 
-**Avantages.** Quand le personnage utilise l'[École de la rue](./École de la rue.md), la première fois à chaque [round](./round.md) qu'il inflige des dégâts avec une attaque à mains nues à un adversaire qu'il a bousculé grâce à École de la rue depuis le début de son tour précédent, cet adversaire doit réussir un jet de [Vigueur](./Vigueur.md) ([DD](./DD.md) = 10 + le [bonus de base à l'attaque](./BBA.md) du personnage) ou tomber [à terre](./À terre.md) et être [chancelant](./Chancelant.md) pendant 1 round.
+**Avantages.** Quand le personnage utilise l'[[École de la rue]], la première fois à chaque [[round]] qu'il inflige des dégâts avec une attaque à mains nues à un adversaire qu'il a bousculé grâce à École de la rue depuis le début de son tour précédent, cet adversaire doit réussir un jet de [[Vigueur]] ([[DD]] = 10 + le [[BBA|bonus de base à l'attaque]] du personnage) ou tomber [[à terre]] et être [[chancelant]] pendant 1 round.

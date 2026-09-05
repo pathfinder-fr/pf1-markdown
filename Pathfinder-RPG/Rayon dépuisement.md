@@ -14,24 +14,24 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 3  
+**École** [[Nécromancie]] ; **Niveau** [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une goutte de sueur)  
+**Composantes** [[composantes|V, G, M]] (une goutte de sueur)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Effet** [rayon](./rayon.md)  
+**Effet** [[rayon]]  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir description) ; **Résistance à la magie** oui
 
-Un rayon noir jaillit du doigt tendu du personnage qui doit réussir une ([attaque de contact à distance]) pour toucher sa cible.
+Un rayon noir jaillit du doigt tendu du personnage qui doit réussir une ([[attaque de contact à distance]]) pour toucher sa cible.
 
-Celle-ci est alors [épuisée](./Épuisé.md) jusqu’à la fin du sort. Si elle réussit un jet de [Vigueur](./Vigueur.md), elle est seulement [fatiguée](./Fatigué.md).
+Celle-ci est alors [[épuisé|épuisée]] jusqu’à la fin du sort. Si elle réussit un jet de [[Vigueur]], elle est seulement [[fatigué|fatiguée]].
 
-Un personnage déjà [fatigué](./Fatigué.md) devient [épuisé](./Épuisé.md).
+Un personnage déjà [[fatigué]] devient [[épuisé]].
 
-Ce sort n’a aucun effet sur les créatures qui sont déjà [épuisées](./Épuisé.md). Contrairement à la [fatigue](./Fatigué.md) et à l’[épuisement](./Épuisé.md) normaux, l’effet s’arrête au terme du sort.
+Ce sort n’a aucun effet sur les créatures qui sont déjà [[épuisé|épuisées]]. Contrairement à la [[fatigué|fatigue]] et à l’[[épuisé|épuisement]] normaux, l’effet s’arrête au terme du sort.

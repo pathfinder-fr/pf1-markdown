@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#DIFFICILEABERNER
 ---
 
->>> [Talents#DIFFICILEABERNER](./Talents.md#DIFFICILEABERNER)
+>>> [[Talents#DIFFICILEABERNER]]

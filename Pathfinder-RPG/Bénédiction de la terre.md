@@ -10,7 +10,7 @@ Categories:
 
 {s:Menubénédictions}{s:MCA}
 #### Frappe acide *(mineur)*
-Au niveau 1, le prêtre combattant peut toucher une arme pour la rendre acide. Pendant une minute, l’arme émet des fumerolles acides qui infligent 1d4 points de dégâts supplémentaires à chaque coup. Ces dégâts supplémentaires ne se cumulent pas avec ceux de la propriété spéciale d’*[arme corrosive](./corrosive (propriété).md)*.
+Au niveau 1, le prêtre combattant peut toucher une arme pour la rendre acide. Pendant une minute, l’arme émet des fumerolles acides qui infligent 1d4 points de dégâts supplémentaires à chaque coup. Ces dégâts supplémentaires ne se cumulent pas avec ceux de la propriété spéciale d’*[[corrosive (propriété)|arme corrosive]]*.
 
 #### Armure de terre *(majeur)*
-Au niveau 10, le prêtre combattant peut toucher un allié pour renforcer son armure ou ses habits. Pendant une minute, l’allié gagne une [RD](./RD.md) 1/—. Cette [RD](./RD.md) augmente de 1 tous les deux niveaux après le niveau 10 (pour un maximum de RD 5/— au niveau 18). Cette RD ne se cumule pas avec d’autres.
+Au niveau 10, le prêtre combattant peut toucher un allié pour renforcer son armure ou ses habits. Pendant une minute, l’allié gagne une [[RD]] 1/—. Cette [[RD]] augmente de 1 tous les deux niveaux après le niveau 10 (pour un maximum de RD 5/— au niveau 18). Cette RD ne se cumule pas avec d’autres.

@@ -15,50 +15,50 @@ Après avoir servi un temps dans les croisades, certaines personnes deviennent s
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1 || +1 || +0 || +1 || +0
-| CLASS="gauche" | [Allégeance mouvante](./Templier déchu.md#ALLEGEANCEMOUVANTE), [Croisé](./Templier déchu.md#CROISE) +1
+| CLASS="gauche" | [[Templier déchu#ALLEGEANCEMOUVANTE|Allégeance mouvante]], [[Templier déchu#CROISE|Croisé]] +1
 |-
 | 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [Combat déloyal](./Templier déchu.md#COMBATDELOYAL)
+| CLASS="gauche" | [[Templier déchu#COMBATDELOYAL|Combat déloyal]]
 |-
 | 3 || +3 || +1 || +2 || +1
-| CLASS="gauche" | [Attaque sournoise](./Templier déchu.md#ATTAQUESOURNOISE) +1d6
+| CLASS="gauche" | [[Templier déchu#ATTAQUESOURNOISE|Attaque sournoise]] +1d6
 |-
 | 4 || +4 || +1 || +2 || +1
-| CLASS="gauche" | [Croisé](./Templier déchu.md#CROISE) +2
+| CLASS="gauche" | [[Templier déchu#CROISE|Croisé]] +2
 |-
 | 5 || +5 || +2 || +3 || +2
-| CLASS="gauche" | [Vivre pour se battre plus tard](./Templier déchu.md#VIVREPOURSEBATTREPLUSTARD);[Voie des ténèbres/voie de la lumière](./Templier déchu.md#VOIEDELALUMIRE)
+| CLASS="gauche" | [[Templier déchu#VIVREPOURSEBATTREPLUSTARD|Vivre pour se battre plus tard]];[[Templier déchu#VOIEDELALUMIRE|Voie des ténèbres/voie de la lumière]]
 |-
 | 6 || +6 || +2 || +3 || +2
-| CLASS="gauche" | [Impitoyable](./Templier déchu.md#IMPOTOYABLE)
+| CLASS="gauche" | [[Templier déchu#IMPOTOYABLE|Impitoyable]]
 |-
 | 7 || +7 || +2 || +4 || +2
-| CLASS="gauche" | [Croisé](./Templier déchu.md#CROISE) +3
+| CLASS="gauche" | [[Templier déchu#CROISE|Croisé]] +3
 |-
 | 8 || +8 || +3 || +4 || +3
-| CLASS="gauche" | [Attaque sournoise](./Templier déchu.md#ATTAQUESOURNOISE) +2d6
+| CLASS="gauche" | [[Templier déchu#ATTAQUESOURNOISE|Attaque sournoise]] +2d6
 |-
 | 9 || +9 || +3 || +5 || +3
-| CLASS="gauche" | [Trait d’adieu](./Templier déchu.md#TRAITDADIEU)
+| CLASS="gauche" | [[Templier déchu#TRAITDADIEU|Trait d’adieu]]
 |-
 | 10 || +10 || +3 || +5 || +3
-| CLASS="gauche" | [Croisé](./Templier déchu.md#CROISE) +4, [Damnation/rédemption](./Templier déchu.md#REDEMPTION)
+| CLASS="gauche" | [[Templier déchu#CROISE|Croisé]] +4, [[Templier déchu#REDEMPTION|Damnation/rédemption]]
 |}
 **Dés de vie.** d10
 
 ### Conditions
 Pour devenir templier parjure, le personnage doit remplir les critères suivants.
 
-**Dons.** [Arme de prédilection](./Arme de prédilection.md) (n’importe quelle arme de
-guerre), [Combat monté](./Combat monté.md)
+**Dons.** [[Arme de prédilection]] (n’importe quelle arme de
+guerre), [[Combat monté]]
 
-**Compétences.** 5 rangs en [Bluff](./Bluff.md), 2 rangs en [Connaissances](./Connaissances.md) (noblesse et royauté), 5 rangs en [Équitation](./Équitation.md)
+**Compétences.** 5 rangs en [[Bluff]], 2 rangs en [[Connaissances]] (noblesse et royauté), 5 rangs en [[Équitation]]
 
 
 ### Compétences de la classe
-Voici les compétences de la classe de templier parjure (et la caractéristique associée à chacune) : [Artisanat](./Artisanat.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (folklore local) (Int), [Connaissances](./Connaissances.md) (noblesse et royauté) (Int), [Connaissances](./Connaissances.md) (plans) (Int), [Déguisement](./Déguisement.md) (Cha), [Diplomatie](./Diplomatie.md) (Cha), [Discrétion](./Discrétion.md) (Dex), [Dressage](./Dressage.md) (Cha), [Équitation](./Équitation.md) (Dex), [Estimation](./Estimation.md) (Int), [Évasion](./Évasion.md) (Dex), [Intimidation](./Intimidation.md) (Cha), [Linguistique](./Linguistique.md) (Int), [Psychologie](./Psychologie.md) (Sag),[Survie](./Survie.md) (Sag).
+Voici les compétences de la classe de templier parjure (et la caractéristique associée à chacune) : [[Artisanat]] (Int), [[Bluff]] (Cha), [[Connaissances]] (folklore local) (Int), [[Connaissances]] (noblesse et royauté) (Int), [[Connaissances]] (plans) (Int), [[Déguisement]] (Cha), [[Diplomatie]] (Cha), [[Discrétion]] (Dex), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Estimation]] (Int), [[Évasion]] (Dex), [[Intimidation]] (Cha), [[Linguistique]] (Int), [[Psychologie]] (Sag),[[Survie]] (Sag).
 
-**Points de compétence à chaque niveau**: 2 + modificateur d’[Intelligence](./Intelligence.md)
+**Points de compétence à chaque niveau**: 2 + modificateur d’[[Intelligence]]
 
 ### Caractéristiques de la classe
 Voici les particularités de la classe de prestige de templier parjure.
@@ -74,7 +74,7 @@ Au niveau 4, ces bonus passent à +2, au niveau 7 à +3 et au niveau 10 à +4.
 
 {s:Reference|ALLEGEANCEMOUVANTE}
 #### Allégeance mouvante(Ext)
-Le templier parjure possède un don particulier pour se ranger du côté des vainqueurs et il est passé maître dans l’art de changer de camp. Il peut disparaître et réapparaître ailleurs en s’affiliant à une nouvelle faction sans ternir sa réputation. Et même quand on le surprend en train de s’adonner à des actes illicites, il parvient toujours à éviter le blâme. Le templier bénéficie d’un bonus de +2 à tous les tests de [Bluff](./Bluff.md) et de [Déguisement](./Déguisement.md) et aux tests de [Linguistique](./Linguistique.md) destinés à créer des faux. Il ne souffre jamais du moindre malus au score de [Prestige](./Prestige.md) quand il se déplace beaucoup, se montre distant, cruel ou perd ses compagnons d’armes. Il remplace ses suivants en moitié moins de temps que la normale.
+Le templier parjure possède un don particulier pour se ranger du côté des vainqueurs et il est passé maître dans l’art de changer de camp. Il peut disparaître et réapparaître ailleurs en s’affiliant à une nouvelle faction sans ternir sa réputation. Et même quand on le surprend en train de s’adonner à des actes illicites, il parvient toujours à éviter le blâme. Le templier bénéficie d’un bonus de +2 à tous les tests de [[Bluff]] et de [[Déguisement]] et aux tests de [[Linguistique]] destinés à créer des faux. Il ne souffre jamais du moindre malus au score de [[Prestige]] quand il se déplace beaucoup, se montre distant, cruel ou perd ses compagnons d’armes. Il remplace ses suivants en moitié moins de temps que la normale.
 
 {s:Reference|COMBATDELOYAL}
 #### Combat déloyal (Ext)
@@ -99,16 +99,16 @@ Le templier double la durée de l’effet si les dégâts du critique sont multi
 
 {s:Reference|ATTAQUESOURNOISE}
 #### Attaque sournoise (Ext)
-Ce pouvoir est identique au [pouvoir de roublard](./Roublard.md#ATTAQUESOURNOISE) du même nom. Les dégâts supplémentaires augmentent de +1d6 au niveau 8. Les bonus aux dégâts s’ajoutent à toute attaque sournoise qui viendrait d’une autre classe.
+Ce pouvoir est identique au [[Roublard#ATTAQUESOURNOISE|pouvoir de roublard]] du même nom. Les dégâts supplémentaires augmentent de +1d6 au niveau 8. Les bonus aux dégâts s’ajoutent à toute attaque sournoise qui viendrait d’une autre classe.
 
 {s:Reference|VOIEDESTENEBRES}
 {s:Reference|VOIEDELALUMIRE}
 #### Voie des ténèbres/voie de la lumière (Sur)
 Alors que le templier évolue, il doit choisir à quel point il souhaite trahir son serment à Iomédae, et par là la loyauté et la bonté qu’elle incarne. S’il choisit la voie de la lumière, il ignore la composante Loyale ou Bonne de son alignement (au choix) quand il s’agit de déterminer les effets magiques basés sur l’alignement (comme réduire les dégâts de ténèbres maudites ou d’une arme impie, masquer son alignement lors d’une détection du Bien ou ignorer les effets d’un cercle de protection contre le Bien).  
 
-Il gagne aussi un bonus de circonstance de +2 aux tests de [Diplomatie](./Diplomatie.md) contre des créatures de sous-type Bon ou Loyal.   
+Il gagne aussi un bonus de circonstance de +2 aux tests de [[Diplomatie]] contre des créatures de sous-type Bon ou Loyal.   
 
-S’il choisit la voie des ténèbres, il fait de même mais en ce qui concerne les composantes Chaotiques ou Mauvaises de son alignement et son bonus de [Diplomatie](./Diplomatie.md) fonctionnera uniquement sur des créatures de sous-type Chaotique ou Mauvais.
+S’il choisit la voie des ténèbres, il fait de même mais en ce qui concerne les composantes Chaotiques ou Mauvaises de son alignement et son bonus de [[Diplomatie]] fonctionnera uniquement sur des créatures de sous-type Chaotique ou Mauvais.
 
 {s:Reference|VIVREPOURSEBATTREPLUSTARD}
 #### Vivre pour se battre plus tard (Ext)
@@ -125,4 +125,4 @@ Au niveau 9, le templier parjure peut utiliser l’action battre en retraite par
 {s:Reference|DAMNATION}
 {s:Reference|REDEMPTION}
 #### Damnation/rédemption (Sur)
-Au niveau 10, le templier parjure doit choisir définitivement quelle voie suivre. Il peut décider de masquer une seconde composante de son alignement contre les effets basés sur l’alignement, comme quand il choisit la voie des ténèbres/voie de la lumière. Il peut avoir choisi la voie des ténèbres au niveau 5 et opter pour la voie de la rédemption au niveau 10 (et inversement). Quand le templier parjure prend cette décision, il reçoit un compagnon d’armes planaire adapté à son alignement actuel, même s’il ne dispose pas du don [Prestige](./Prestige.md). Ce compagnon planaire lui apparaît et lui jure immédiatement fidélité. Si ce compagnon meurt, le templier devra attendre une semaine avant de pouvoir appeler un remplaçant. Si le templier disposait du don Prestige, il gagne un bonus de +1 à sa valeur de [Prestige](./Prestige.md). S’il remplace le compagnon qu’il possédait grâce au don par son compagnon d’armes planaire, le niveau maximum de ce dernier est égal au niveau de classe du templier -1 au lieu de -2.
+Au niveau 10, le templier parjure doit choisir définitivement quelle voie suivre. Il peut décider de masquer une seconde composante de son alignement contre les effets basés sur l’alignement, comme quand il choisit la voie des ténèbres/voie de la lumière. Il peut avoir choisi la voie des ténèbres au niveau 5 et opter pour la voie de la rédemption au niveau 10 (et inversement). Quand le templier parjure prend cette décision, il reçoit un compagnon d’armes planaire adapté à son alignement actuel, même s’il ne dispose pas du don [[Prestige]]. Ce compagnon planaire lui apparaît et lui jure immédiatement fidélité. Si ce compagnon meurt, le templier devra attendre une semaine avant de pouvoir appeler un remplaçant. Si le templier disposait du don Prestige, il gagne un bonus de +1 à sa valeur de [[Prestige]]. S’il remplace le compagnon qu’il possédait grâce au don par son compagnon d’armes planaire, le niveau maximum de ce dernier est égal au niveau de classe du templier -1 au lieu de -2.

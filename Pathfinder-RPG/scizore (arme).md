@@ -8,8 +8,8 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 20 po ; **Poids** 1,5 kg ; **Groupes** [armes de combat rapproché](./groupe darmes.md#Armesdecombatrapproché)
-**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** [spectacle](./Caractéristiques des armes.md#SPECTACLE)
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+{s:AE}{s:UC}**Prix** 20 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]
+**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** [[Caractéristiques des armes#SPECTACLE|spectacle]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
 ---
-Le scizore est un tube renforcé qui se fixe sur l’avant-bras et se termine par une lame semi-circulaire utilisée pour porter des coups dévastateurs. Le scizore donne un bonus de bouclier de +1 à la [CA](./CA.md) mais, si le personnage attaque avec la lame, il perd ce bonus pour le [round](./round.md) et reçoit un malus de -1 à ses [jets d’attaque](./jet dattaque.md) avec le scizore. Lorsqu’il porte un scizore, il ne peut pas utiliser la main qui le porte pour quoi que ce soit d’autre. Le scizore donne un bonus de +10 au [DMD](./DMD.md) contre le [désarmement](./désarmement.md). Il faut une [action complexe](./Action complexe.md) pour enfiler un scizore.
+Le scizore est un tube renforcé qui se fixe sur l’avant-bras et se termine par une lame semi-circulaire utilisée pour porter des coups dévastateurs. Le scizore donne un bonus de bouclier de +1 à la [[CA]] mais, si le personnage attaque avec la lame, il perd ce bonus pour le [[round]] et reçoit un malus de -1 à ses [[jet dattaque|jets d’attaque]] avec le scizore. Lorsqu’il porte un scizore, il ne peut pas utiliser la main qui le porte pour quoi que ce soit d’autre. Le scizore donne un bonus de +10 au [[DMD]] contre le [[désarmement]]. Il faut une [[action complexe]] pour enfiler un scizore.

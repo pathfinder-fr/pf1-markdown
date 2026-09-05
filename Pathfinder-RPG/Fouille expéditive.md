@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:UI}*Votre esprit méticuleux et aiguisé vous permet de fouiller minutieusement une zone.*
 
-**Conditions.** 3 rangs en [Perception](./Perception.md), capacité de classe [inspiration](./Enquêteur.md#INSPIRATION) ou [maître du savoir](./Barde.md#MAITREDUSAVOIR)
+**Conditions.** 3 rangs en [[Perception]], capacité de classe [[Enquêteur#INSPIRATION|inspiration]] ou [[Barde#MAITREDUSAVOIR|maître du savoir]]
 
-**Avantages.** Le personnage peut [faire 20](./faire 20.md) sur un test de [Perception](./Perception.md) en seulement 10 fois le temps normalement nécessaire, et obtient un bonus de +2 aux tests de Perception pour lesquels il fait 20.
+**Avantages.** Le personnage peut [[faire 20]] sur un test de [[Perception]] en seulement 10 fois le temps normalement nécessaire, et obtient un bonus de +2 aux tests de Perception pour lesquels il fait 20.
 
 **Normal.** Il faut 20 fois le temps normalement nécessaire pour pouvoir faire 20 sur un test de compétence.

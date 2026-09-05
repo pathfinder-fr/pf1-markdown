@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Munitions et équipement (Armes à feu)#CARTOUCHEENMETAL
 ---
 
->>> [Munitions et équipement (Armes à feu)#CARTOUCHEENMETAL](./Munitions-et-équipement-(Armes-à-feu).md#CARTOUCHEENMETAL)
+>>> [[Munitions et équipement (Armes à feu)#CARTOUCHEENMETAL]]

@@ -24,9 +24,9 @@ LastModified: 2019-01-29 16:49
 - **Aura de terreur (Sur)**. Toutes les créatures dans un rayon de 18 mètres qui voient ou entendent la créature cauchemardesque doivent réussir un jet de Volonté pour ne pas être secouées tant qu’elles demeurent à l’intérieur de l’aura. Que le jet de sauvegarde soit réussi ou non, une créature ne peut être à nouveau affectée par l’aura de terreur d’une même créature cauchemardesque pendant les 24 prochaines heures. C’est un effet mental de terreur.
 - **Terreurs nocturnes (Sur)**. Dès qu’une créature cauchemardesque parvient à pénétrer l’esprit d’une cible avec son pouvoir de songe ou de cauchemar, elle peut tenter de contrôler son rêve. Si la cible rate un jet de Volonté, elle reste endormie et piégée dans le monde des rêves avec la créature cauchemardesque. Par la suite, la créature cauchemardesque contrôle la totalité des aspects du rêve. À chaque heure qui suit, la cible peut effectuer un autre jet de sauvegarde pour tenter de se réveiller (elle y parvient automatiquement après 8 heures de sommeil ou si la créature cauchemardesque la libère). La cible piégée subit un affaiblissement temporaire de 1d4 points de Charisme pour chaque heure passée dans le rêve ; si elle subit un affaiblissement temporaire de Charisme, elle est également fatiguée et incapable de récupérer ses sorts profanes pour les 24 prochaines heures. La cible meurt si l’affaiblissement temporaire de Charisme infligé est supérieur à sa valeur actuelle de Charisme. 
 - **Pouvoirs magiques**. La créature cauchemardesque gagne les pouvoirs magiques suivants : 
-  - Constant – *[protection contre le Bien](./Protection contre le Bien.md) *; 
-  - 3/jour – *[cauchemar](./sort Cauchemar.md), [détection de pensées](./Détection de pensées.md), [songe](./Songe.md), [suggestion](./Suggestion.md)* ; 
-  - 1/jour – *[traversée des ombres](./Traversée des ombres.md)*. 
+  - Constant – *[[protection contre le Bien]] *; 
+  - 3/jour – *[[sort cauchemar|cauchemar]], [[détection de pensées]], [[songe]], [[suggestion]]* ; 
+  - 1/jour – *[[traversée des ombres]]*. 
 - **Valeurs de caractéristique**. +4 en Dex, +2 en Int, +4 en Cha. 
 - **Compétences**. La créature cauchemardesque gagne un bonus racial de +4 aux tests d’Intimidation et de Discrétion.
 
@@ -38,12 +38,12 @@ Attaques spéciales. Le seigneur cauchemardesque gagne plusieurs attaques spéci
 - **Esclave onirique (Sur)**. Au lieu de tuer une cible à l’aide de son pouvoir de terreurs nocturnes, le seigneur cauchemardesque peut, à la place, en faire son esclave grâce à un effet permanent de domination. Les affaiblissements temporaires de Charisme infligés à la créature esclave par les terreurs nocturnes disparaissent complètement.
 - **Magie cauchemardesque (Sur)**. Le seigneur cauchemardesque gagne un bonus de +4 aux DD de ses sorts et pouvoirs magiques des branches de phantasme et d’ombre.
 - **Pouvoirs magiques**. Le seigneur cauchemardesque gagne les pouvoirs magiques suivants : 
-  - 3/jour – *[changement de plan](./Changement de plan.md)* (depuis le plan Matériel vers la dimension des Rêves ou inversement), *[invisibilité](./Invisibilité.md)*, *[sommeil profond](./Sommeil profond.md)*,* [traversée des ombres](./Traversée des ombres.md)* ; 
-  - 1/jour – *[débilité](./Débilité.md)*, *[convocation d’ombres](./Convocation dombres.md), [magie des ombres](./Magie des ombres.md), [modification de mémoire](./Modification de mémoire.md)*.
+  - 3/jour – *[[changement de plan]]* (depuis le plan Matériel vers la dimension des Rêves ou inversement), *[[invisibilité]]*, *[[sommeil profond]]*,* [[traversée des ombres]]* ; 
+  - 1/jour – *[[débilité]]*, *[[convocation dombres|convocation d’ombres]], [[magie des ombres]], [[modification de mémoire]]*.
 **Valeurs de caractéristique**. +2 en Dex, +2 en Int, +2 en Cha.
 
 </div>
-</td><td><div>Voir aussi l'exemple [ettercap cauchemardesque](./Créature cauchemardesque.md)
+</td><td><div>Voir aussi l'exemple [[créature cauchemardesque|ettercap cauchemardesque]]
 
 Les créatures cauchemardesques ont un lien contre nature avec les régions les plus terrifiantes de la dimension des Rêves, ce qui leur permet de transformer les rêves d’autrui en cauchemars et de répandre la terreur sur le monde des vivants éveillés. Corrompues par leur puissance, elles deviennent malfaisantes et utilisent leurs pouvoirs pour tourmenter leurs ennemis et maltraiter les créatures inférieures. À terme, leur lien onirique corrompt leur aspect physique et les transforme en une étrange caricature de leur apparence initiale.
 

@@ -7,7 +7,7 @@ Categories:
 - Src Pathfinder unchained
 ---
 
-{s:PU}Au niveau 5, un [Moine unchained|moine unchained] apprend un nouveau type de frappe spécialisée. À chaque fois qu’il effectue un [déluge de coups](./Moine unchained.md#DELUGEDECOUPS), il peut décider que l’une de ses attaques à mains nues est une frappe spécialisée. Cette attaque est résolue normalement mais elle produit un effet supplémentaire en fonction du type de frappe choisi.
+{s:PU}Au niveau 5, un [[Moine unchained]] apprend un nouveau type de frappe spécialisée. À chaque fois qu’il effectue un [[Moine unchained#DELUGEDECOUPS|déluge de coups]], il peut décider que l’une de ses attaques à mains nues est une frappe spécialisée. Cette attaque est résolue normalement mais elle produit un effet supplémentaire en fonction du type de frappe choisi.
 
 Au niveau 9 et tous les 4 niveaux par la suite, un moine apprend une frappe spécialisée supplémentaire. Il doit choisir quelle frappe spécialisée il souhaite appliquer avant d’effectuer le jet d’attaque.
 
@@ -20,42 +20,42 @@ Le moine sélectionne ses frappes spécialisées parmi les suivantes.
 |- CLASS="titre"
 | Frappes spécialisées
 |- CLASS="premier"
-| [Blocage des pieds](./Frappes spécialisées.md#BLOCAGEDESPIEDS) || [Coup de pied tournoyant](./Frappes spécialisées.md#COUPDEPIEDTOURNOYANT) || [Coup du marteau](./Frappes spécialisées.md#COUPDUMARTEAU)
+| [[Frappes spécialisées#BLOCAGEDESPIEDS|Blocage des pieds]] || [[Frappes spécialisées#COUPDEPIEDTOURNOYANT|Coup de pied tournoyant]] || [[Frappes spécialisées#COUPDUMARTEAU|Coup du marteau]]
 |-
-| [Bousculade du pied](./Frappe-spécialisée-.md#BOUSCULADEDUPIED) || [Coup de poing fracassant](./Frappes spécialisées.md#COUPDEPOINGFRACASSANT) || [Fauchage du pied](./Frappes spécialisées.md#FAUCHAGEDUPIED)
+| [[Frappe spécialisée #BOUSCULADEDUPIED|Bousculade du pied]] || [[Frappes spécialisées#COUPDEPOINGFRACASSANT|Coup de poing fracassant]] || [[Frappes spécialisées#FAUCHAGEDUPIED|Fauchage du pied]]
 |-
-| [Coup de coude](./Frappes spécialisées.md#COUPDECOUDE) || [Coup de tête](./Frappes spécialisées.md#COUPDETETE) || [Pirouette défensive](./Frappes spécialisées.md#PIROUETTEDEFENSIVE)
+| [[Frappes spécialisées#COUPDECOUDE|Coup de coude]] || [[Frappes spécialisées#COUPDETETE|Coup de tête]] || [[Frappes spécialisées#PIROUETTEDEFENSIVE|Pirouette défensive]]
 |-
-| [Coup de pied sauté](./Frappes spécialisées.md#COUPDEPIEDSAUTE) || &emsp; || &emsp;
+| [[Frappes spécialisées#COUPDEPIEDSAUTE|Coup de pied sauté]] || &emsp; || &emsp;
 |}
 
 {s:reference|BLOCAGEDESPIEDS}
 #### Blocage des pieds
-Le moine marche sur le pied d’un adversaire, ce qui l’empêche de s’éloigner. Si l’attaque touche et que le moine termine son tour adjacent à cet adversaire, le déplacement de celui ci est limité. Jusqu’au début du prochain tour du moine, la cible de cette attaque peut se déplacer uniquement dans les emplacements adjacents au moine. Par ailleurs, elle peut tenter un [test de manœuvre offensive](./Manœuvres offensives.md) (contre le [DMD](./Manœuvres offensives.md#DMD) du moine) par une action simple pour se libérer. Cette frappe ne fonctionne pas contre des adversaires insensibles aux [crocs-en-jambe](./Manœuvres offensives.md#CROCENJAMBE). Le moine doit attaquer avec le pied pour effectuer cette frappe spécialisée.
+Le moine marche sur le pied d’un adversaire, ce qui l’empêche de s’éloigner. Si l’attaque touche et que le moine termine son tour adjacent à cet adversaire, le déplacement de celui ci est limité. Jusqu’au début du prochain tour du moine, la cible de cette attaque peut se déplacer uniquement dans les emplacements adjacents au moine. Par ailleurs, elle peut tenter un [[Manœuvres offensives|test de manœuvre offensive]] (contre le [[Manœuvres offensives#DMD|DMD]] du moine) par une action simple pour se libérer. Cette frappe ne fonctionne pas contre des adversaires insensibles aux [[Manœuvres offensives#CROCENJAMBE|crocs-en-jambe]]. Le moine doit attaquer avec le pied pour effectuer cette frappe spécialisée.
 
 {s:reference|BOUSCULADEDUPIED}
 #### Bousculade du pied
-Le moine tente de repousser son adversaire d’un violent coup de pied. Si l’attaque touche, le moine peut effectuer gratuitement un [test de manœuvre offensive](./Manœuvres offensives.md) contre lui (en appliquant le bonus de base à l’attaque de l’attaque utilisée pour frapper l’adversaire). Si le test est réussi, l’adversaire est repoussé de 3 mètres dans la direction directement opposée au moine. Cette distance augmente de 3 mètres pour chaque tranche de 5 points au-dessus du [DMD](./Manœuvres offensives.md#DMD) de l’adversaire, jusqu’à une distance maximale égale au bonus de [déplacement accéléré](./Moine unchained.md#DEPLACEMENTACCELERE) du moine. Ce déplacement ne provoque pas [d’attaques d’opportunité](./Valeurs de combat.md#Les_attaques_d’opportunité_7). Le déplacement de l’adversaire est bloqué par les autres créatures, les obstacles et les divers objets solides. La créature ne se retrouve pas [à terre](./États préjudiciables.md#À_terre_0) à cause de ce déplacement. Le moine doit attaquer avec le pied pour effectuer cette frappe spécialisée.
+Le moine tente de repousser son adversaire d’un violent coup de pied. Si l’attaque touche, le moine peut effectuer gratuitement un [[Manœuvres offensives|test de manœuvre offensive]] contre lui (en appliquant le bonus de base à l’attaque de l’attaque utilisée pour frapper l’adversaire). Si le test est réussi, l’adversaire est repoussé de 3 mètres dans la direction directement opposée au moine. Cette distance augmente de 3 mètres pour chaque tranche de 5 points au-dessus du [[Manœuvres offensives#DMD|DMD]] de l’adversaire, jusqu’à une distance maximale égale au bonus de [[Moine unchained#DEPLACEMENTACCELERE|déplacement accéléré]] du moine. Ce déplacement ne provoque pas [[Valeurs de combat#Les_attaques_d’opportunité_7|d’attaques d’opportunité]]. Le déplacement de l’adversaire est bloqué par les autres créatures, les obstacles et les divers objets solides. La créature ne se retrouve pas [[États préjudiciables#À_terre_0|à terre]] à cause de ce déplacement. Le moine doit attaquer avec le pied pour effectuer cette frappe spécialisée.
 
 {s:reference|COUPDECOUDE}
 #### Coup de coude
-Le moine enchaîne un violent coup de coude après un coup de poing. Si l’attaque de poing touche, le moine peut effectuer une attaque supplémentaire en appliquant le même bonus à l’attaque que celui du coup de poing, mais avec un malus de -5. Si cette deuxième attaque touche, elle inflige le montant normal de dégâts mais tous sont [non-létaux](./Blessures et mort.md#Dégâts_non_létaux_7). Le moine doit attaquer avec le poing pour effectuer cette frappe spécialisée.
+Le moine enchaîne un violent coup de coude après un coup de poing. Si l’attaque de poing touche, le moine peut effectuer une attaque supplémentaire en appliquant le même bonus à l’attaque que celui du coup de poing, mais avec un malus de -5. Si cette deuxième attaque touche, elle inflige le montant normal de dégâts mais tous sont [[Blessures et mort#Dégâts_non_létaux_7|non-létaux]]. Le moine doit attaquer avec le poing pour effectuer cette frappe spécialisée.
 
 {s:reference|COUPDEPIEDSAUTE}
 #### Coup de pied sauté
-D’un bond, le moine frappe un adversaire pied en avant. Avant l’attaque, le moine peut se déplacer d’une distance égale à son bonus de [déplacement accéléré](./Moine unchained.md#DEPLACEMENTACCELERE). Ce déplacement est effectué lors d’une attaque de [déluge de coups](./Moine unchained.md#DELUGEDECOUPS) et ne nécessite aucune action supplémentaire. À la fin de ce déplacement, le moine doit effectuer une attaque contre un adversaire adjacent. Le déplacement peut se produire entre deux attaques et provoque des [attaques d’opportunité](./Valeurs de combat.md#Les_attaques_d’opportunité_7) comme à l’accoutumée. L’attaque après le déplacement doit un être effectuée avec le pied.
+D’un bond, le moine frappe un adversaire pied en avant. Avant l’attaque, le moine peut se déplacer d’une distance égale à son bonus de [[Moine unchained#DEPLACEMENTACCELERE|déplacement accéléré]]. Ce déplacement est effectué lors d’une attaque de [[Moine unchained#DELUGEDECOUPS|déluge de coups]] et ne nécessite aucune action supplémentaire. À la fin de ce déplacement, le moine doit effectuer une attaque contre un adversaire adjacent. Le déplacement peut se produire entre deux attaques et provoque des [[Valeurs de combat#Les_attaques_d’opportunité_7|attaques d’opportunité]] comme à l’accoutumée. L’attaque après le déplacement doit un être effectuée avec le pied.
 
 {s:reference|COUPDEPIEDTOURNOYANT}
 #### Coup de pied tournoyant
-Le moine effectue une pirouette avant d’envoyer un coup de pied pour surprendre l’adversaire. Le moine effectue son attaque contre la CA de l’adversaire [pris au dépourvu](./États préjudiciables.md#Pris_au_dépourvu_27). Les créatures qui possèdent l’aptitude de classe [esquive instinctive](./Roublard.md#ESQUIVEINSTINCTIVE) ou un effet similaire ne peuvent être prises au dépourvu par cette frappe spécialisée. Le moine doit attaquer avec le pied pour effectuer cette frappe spécialisée.
+Le moine effectue une pirouette avant d’envoyer un coup de pied pour surprendre l’adversaire. Le moine effectue son attaque contre la CA de l’adversaire [[États préjudiciables#Pris_au_dépourvu_27|pris au dépourvu]]. Les créatures qui possèdent l’aptitude de classe [[Roublard#ESQUIVEINSTINCTIVE|esquive instinctive]] ou un effet similaire ne peuvent être prises au dépourvu par cette frappe spécialisée. Le moine doit attaquer avec le pied pour effectuer cette frappe spécialisée.
 
 {s:reference|COUPDEPOINGFRACASSANT}
 #### Coup de poing fracassant
-Le moine donne un violent coup de poing qui brise les défenses de l’adversaire. Si l’attaque touche, elle ignore les éventuelles [réductions de dégâts](./Réduction de dégâts (capacité).md) ou [solidités](./Exploration.md#SOLIDITE) de la cible. Le moine doit attaquer avec le poing pour effectuer cette frappe spécialisée.
+Le moine donne un violent coup de poing qui brise les défenses de l’adversaire. Si l’attaque touche, elle ignore les éventuelles [[Réduction de dégâts (capacité)|réductions de dégâts]] ou [[Exploration#SOLIDITE|solidités]] de la cible. Le moine doit attaquer avec le poing pour effectuer cette frappe spécialisée.
 
 {s:reference|COUPDETETE}
 #### Coup de tête
-Le moine frappe violemment sa tête contre celle de son ennemi pour le faire chanceler. Si l’attaque touche et que l’adversaire est plus petit que le moine ou de même taille, celui-ci peut effectuer gratuitement un [test de manœuvre offensive](./Manœuvres offensives.md) contre la cible de cette frappe (en appliquant le [bonus de base à l’attaque](./Vocabulaire courant.md#BONUSDEBASEALATTAQUE) de l’attaque utilisée pour mettre le coup de tête). Si le type de créature de l’ennemi est différent de celui du moine, celui-ci subit un malus de -8 au test. Si le test est réussi, la cible est [chancelante](./États préjudiciables.md#Chancelant_5) pendant 1 round. Les créatures dépourvues de tête facilement discernable ne sont pas affectées par cette frappe spécialisée (à l’appréciation du MJ). Le moine doit attaquer avec la tête pour effectuer cette frappe spécialisée.
+Le moine frappe violemment sa tête contre celle de son ennemi pour le faire chanceler. Si l’attaque touche et que l’adversaire est plus petit que le moine ou de même taille, celui-ci peut effectuer gratuitement un [[Manœuvres offensives|test de manœuvre offensive]] contre la cible de cette frappe (en appliquant le [[Vocabulaire courant#BONUSDEBASEALATTAQUE|bonus de base à l’attaque]] de l’attaque utilisée pour mettre le coup de tête). Si le type de créature de l’ennemi est différent de celui du moine, celui-ci subit un malus de -8 au test. Si le test est réussi, la cible est [[États préjudiciables#Chancelant_5|chancelante]] pendant 1 round. Les créatures dépourvues de tête facilement discernable ne sont pas affectées par cette frappe spécialisée (à l’appréciation du MJ). Le moine doit attaquer avec la tête pour effectuer cette frappe spécialisée.
 
 {s:reference|COUPDUMARTEAU}
 #### Coup du marteau
@@ -63,7 +63,7 @@ Le moine joint ses mains et frappe en baissant brusquement les deux bras comme s
 
 {s:reference|FAUCHAGEDUPIED}
 #### Fauchage du pied.
-Le moine tente de faucher son adversaire afin de le faire tomber. Si l’attaque touche, le moine peut effectuer une manoeuvre offensive de [crocs-en-jambe](./Manœuvres offensives.md#CROCENJAMBE) contre la cible de cette frappe (en appliquant le bonus de base à l’attaque de l’attaque utilisée pour la frapper). Cette tentative de [crocs-en-jambe](./Manœuvres offensives.md#CROCENJAMBE) ne provoque pas d’attaques d’opportunité. Le moine doit attaquer avec le pied pour utiliser cette frappe spécialisée.
+Le moine tente de faucher son adversaire afin de le faire tomber. Si l’attaque touche, le moine peut effectuer une manoeuvre offensive de [[Manœuvres offensives#CROCENJAMBE|crocs-en-jambe]] contre la cible de cette frappe (en appliquant le bonus de base à l’attaque de l’attaque utilisée pour la frapper). Cette tentative de [[Manœuvres offensives#CROCENJAMBE|crocs-en-jambe]] ne provoque pas d’attaques d’opportunité. Le moine doit attaquer avec le pied pour utiliser cette frappe spécialisée.
 
 {s:reference|PIROUETTEDEFENSIVE}
 #### Pirouette défensive

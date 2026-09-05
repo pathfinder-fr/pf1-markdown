@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 p.123*}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille TG, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] de taille TG, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 9, pris au dépourvu 16 (Dex +3, naturelle +8, taille -2)}
 {s:BDTexte|**pv** 85 (10d8+40)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDTexte|**Espace** 4,5 m (3 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 16, **Con** 19, **Int** —, **Sag** 11, **Cha** 10}
-{s:BDTexte|**BBA** +7, **BMO** +16 ; **DMD** 29 (37 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Compétence** [Vol](./Vol.md) +3}
+{s:BDTexte|**BBA** +7, **BMO** +16 ; **DMD** 29 (37 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Compétence** [[Vol]] +3}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** déserts chauds}
 {s:BDTexte|**Organisation sociale** solitaire ou nuage (2-12)}
@@ -41,9 +41,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Fourmilion adulte géant](./Fourmilion adulte géant.md) || 6
+| [[Fourmilion adulte géant]] || 6
 |-
-| [Fourmilion géant](./Fourmilion géant.md) || 5
+| [[Fourmilion géant]] || 5
 |}
 </div>*Cet insecte grêle, que quatre ailes fragiles maintiennent en l’air, fait claquer ses mandibules pour exprimer sa faim.*
 

@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*En se concentrant sur la magie et les sorts d’annulation, le personnage peut arracher les défenses magiques d’un ennemi à mains nues. *
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +11, *[dissipation de la magie](./Dissipation de la magie.md)*, [NLS](./NLS.md) 7
+**Conditions.** [[Science du combat à mains nues]], [[BBA]] +11, *[[dissipation de la magie]]*, [[NLS]] 7
 
-**Avantage.** Si le personnage a préparé *[dissipation de la magie](./Dissipation de la magie.md)* ou s’il peut le lancer spontanément, il peut dépenser une [action rapide](./Action rapide.md) pour le lancer de façon ciblée sur un adversaire qu’il vient de toucher à mains nues.
+**Avantage.** Si le personnage a préparé *[[dissipation de la magie]]* ou s’il peut le lancer spontanément, il peut dépenser une [[action rapide]] pour le lancer de façon ciblée sur un adversaire qu’il vient de toucher à mains nues.

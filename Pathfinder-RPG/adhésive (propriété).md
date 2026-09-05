@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Adhésive
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Adhésive](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Adhésive)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Adhésive]]

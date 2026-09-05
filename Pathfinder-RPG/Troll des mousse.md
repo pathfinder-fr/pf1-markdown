@@ -13,13 +13,13 @@ Categories:
 {s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 page 263*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md), [métamorphe](./sous-type métamorphe.md)) de [taille](./taille.md) G, CM}
-{s:BDTexte|**Init** +4 (+8 lorsqu’il escalade les arbres) ; **Sens** [vision dans le noir](./vision dans le noir.md) à 12 cases, [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]], [[sous-type métamorphe|métamorphe]]) de [[taille]] G, CM}
+{s:BDTexte|**Init** +4 (+8 lorsqu’il escalade les arbres) ; **Sens** [[vision dans le noir]] à 12 cases, [[vision nocturne]], [[odorat]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 11 (Dex +4, naturelle +2, taille -1)}
-{s:BDTexte|**pv** 30 (4d8+12) ; [régénération](./Régénération.md) 5 (feu)}
+{s:BDTexte|**pv** 30 (4d8+12) ; [[régénération]] 5 (feu)}
 {s:BDTexte|**Réf** +5, **Vig** +7, **Vol** +4}
-{s:BDTexte|**Faiblesses** peur du feu, [vulnérabilité au feu](./Vulnérabilités (capacité).md)}
+{s:BDTexte|**Faiblesses** peur du feu, [[vulnérabilités (capacité)|vulnérabilité au feu]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 3 m (2 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +5 (1d4+3), 2 griffes +5 (1d4+3)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 19, **Con** 16, **Int** 9, **Sag** 12, **Cha** 7}
 {s:BDTexte|**BBA** +3, **BMO** +8, **DMD** 22}
-{s:BDTexte|**Dons** [Force intimidante](./Force intimidante.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +7, [Discrétion](./Discrétion.md) +5 (+9 dans les feuillages) [Escalade](./Escalade.md) +11, [Intimidation](./Intimidation.md) +5, [Perception](./Perception.md) +5}
-{s:BDTexte|**Modificateurs raciaux** +2 en [Acrobaties](./Acrobaties.md), +4 en [Discrétion](./Discrétion.md) (+8 dans les feuillages)}
+{s:BDTexte|**Dons** [[Force intimidante]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +7, [[Discrétion]] +5 (+9 dans les feuillages) [[Escalade]] +11, [[Intimidation]] +5, [[Perception]] +5}
+{s:BDTexte|**Modificateurs raciaux** +2 en [[Acrobaties]], +4 en [[Discrétion]] (+8 dans les feuillages)}
 {s:BDTexte|**Langue** géant}
 {s:BDTexte|**Part** changement de forme (arbre moussu ; forme d’arbre), escalade des arbres}
 {s:BDSousTitre|Écologie}
@@ -37,8 +37,8 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, gang (2-3) ou troupe (4-8)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Peur du feu (Ext).** Le troll de mousse est [secoué](./Secoué.md) tant qu’il est dans un rayon de 9 m (6 {s:c}) d’un feu visible ou d’une flamme nue d’au moins la taille d’une torche.}
-{s:BDTexte|**Escalade des arbres (Ext).** Lorsqu’il grimpe aux arbres ou dans d’autres feuillages, la vitesse d’escalade du troll de mousse passe à 9 m (6 {s:c}). Si le troll de mousse tombe alors qu’il est en train d’escalader un arbre, il ignore les neuf premiers mètres de chute quand il s’agit de calculer le nombre total de points de dégâts de la chute. Lorsqu’il escalade un arbre, le troll de mousse gagne un bonus racial de +4 à ses tests d’[Initiative](./initiative.md).}
+{s:BDTexte|**Peur du feu (Ext).** Le troll de mousse est [[secoué]] tant qu’il est dans un rayon de 9 m (6 {s:c}) d’un feu visible ou d’une flamme nue d’au moins la taille d’une torche.}
+{s:BDTexte|**Escalade des arbres (Ext).** Lorsqu’il grimpe aux arbres ou dans d’autres feuillages, la vitesse d’escalade du troll de mousse passe à 9 m (6 {s:c}). Si le troll de mousse tombe alors qu’il est en train d’escalader un arbre, il ignore les neuf premiers mètres de chute quand il s’agit de calculer le nombre total de points de dégâts de la chute. Lorsqu’il escalade un arbre, le troll de mousse gagne un bonus racial de +4 à ses tests d’[[Initiative]].}
 
 </div>
 </td><td><div>

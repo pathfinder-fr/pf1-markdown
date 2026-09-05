@@ -15,28 +15,28 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Dosojin](./Dosojin.md) || 7
+| [[Dosojin]] || 7
 |-
-| [Dunagh](./Dunagh.md) || 4
+| [[Dunagh]] || 4
 |-
-| [Fukujin](./Fukujin.md) || 3
+| [[Fukujin]] || 3
 |-
-| [Jinushigami](./Jinushigami.md) || 20
+| [[Jinushigami]] || 20
 |-
-| [Kaminari](./Kaminari.md) || 17
+| [[Kaminari]] || 17
 |-
-| [Kodama](./Kodama.md) || 5
+| [[Kodama]] || 5
 |-
-| [Shikigami](./Shikigami.md) || 2
+| [[Shikigami]] || 2
 |-
-| [Suijin](./Suijin.md) || 14
+| [[Suijin]] || 14
 |-
-| [Toshigami](./Toshigami.md) || 15
+| [[Toshigami]] || 15
 |-
-| [Zuishin](./Zuishin.md) || 10
+| [[Zuishin]] || 10
 |}
 </div></div><div class="description">**Source :** Bestiaire 3 p.156.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([kami](./sous-type kami.md), [natif](./sous-type natif.md)).*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type kami|kami]], [[sous-type natif|natif]]).*
 
 Les kamis sont des esprits anciens et mystiques originaires d’un autre monde. Ils ont été créés par les dieux il y a des millénaires. Originellement conçus pour servir de gardiens des lieux naturels incapables de se protéger seuls, les kamis se sont révélés extrêmement adaptables. Ils évoluent en même temps que la nature de la réalité.
 

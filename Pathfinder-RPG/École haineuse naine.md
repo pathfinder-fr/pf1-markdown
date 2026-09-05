@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vous transformez votre haine en férocité.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions** [BBA](./BBA.md) +1, traits raciaux [entraînement défensif](./Nain.md#Traits_raciaux_standards_6) et [haine](./Nain.md#Traits_raciaux_standards_6), taille M
+**Conditions** [[BBA]] +1, traits raciaux [[Nain#Traits_raciaux_standards_6|entraînement défensif]] et [[Nain#Traits_raciaux_standards_6|haine]], taille M
 
-**Avantage** Le personnage applique le bonus du trait racial haine aux [jets d'attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) effectués contre les créatures des types ou sous-types appropriés et passe ce bonus à +2.
+**Avantage** Le personnage applique le bonus du trait racial haine aux [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] effectués contre les créatures des types ou sous-types appropriés et passe ce bonus à +2.

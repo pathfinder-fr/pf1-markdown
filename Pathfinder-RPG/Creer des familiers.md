@@ -4,14 +4,14 @@ Title: Créer des nouveaux familiers
 LastModified: 2026-08-02 05:06
 ---
 
-<div class="fright">***Retour au [Folio des Familiers](./Folio des Familiers.md).***
+<div class="fright">***Retour au [[Folio des Familiers]].***
 {s:cs}</div><div class="description">**Source :** Familiar Folio (FF).</div>
 
 Bien qu’il existe déjà de nombreux types de familiers, il arrive que les options disponibles ne correspondent pas exactement à l’idée que vous vous faites du compagnon magique de votre personnage. Avec l’accord de votre maître du jeu, vous pouvez toutefois réutiliser le profil d’un familier existant afin de représenter approximativement le familier idéal pour votre personnage.
 
 ## Méthode simple
 
-La manière la plus simple de concevoir un familier lorsqu’aucun profil n’existe encore pour la créature recherchée consiste à consulter la liste située sur la [Familiers|page des familiers] et à identifier l’animal qui s’en rapproche le plus. Vous pouvez alors simplement utiliser le profil de cet animal existant pour représenter le familier désiré. Cette méthode garantit que le familier demeure équilibré et vous évite, ainsi qu’au MJ, d’avoir à modifier les caractéristiques de l’animal.
+La manière la plus simple de concevoir un familier lorsqu’aucun profil n’existe encore pour la créature recherchée consiste à consulter la liste située sur la [[Familiers|page des familiers]] et à identifier l’animal qui s’en rapproche le plus. Vous pouvez alors simplement utiliser le profil de cet animal existant pour représenter le familier désiré. Cette méthode garantit que le familier demeure équilibré et vous évite, ainsi qu’au MJ, d’avoir à modifier les caractéristiques de l’animal.
 
 Lorsque vous créez un familier par approximation, le plus important est de comprendre que le profil d’un familier donné peut servir à représenter une grande variété d’autres créatures du même type, et pas uniquement l’espèce indiquée. Par exemple, le rat est un petit mammifère agile ; il est donc tout à fait raisonnable d’utiliser son profil pour représenter une souris, une musaraigne ou un autre petit mammifère comparable. À l’inverse, employer le profil d’une chauve-souris pour représenter un poisson volant serait probablement peu approprié, malgré certaines ressemblances. Dans ce cas, envisagez d’utiliser certaines des options de la méthode avancée afin d’apporter des modifications plus importantes à la créature.
 
@@ -27,7 +27,7 @@ Les joueurs qui envisagent de modifier un familier existant devraient considére
 
 Compétences : recalculer à rebours les rangs de compétence d’un familier, comme on le ferait avec d’autres créatures, est généralement assez simple, car les familiers possèdent rarement plus de 1 dé de vie et commencent rarement avec plus de 1 ou 2 rangs de compétence. Réaffecter ces rangs constitue donc un moyen facile de personnaliser le profil d’une créature afin qu’il corresponde mieux à l’image que vous avez de la personnalité de votre familier. Par exemple, pour créer un familier primate doué pour dérober de petits objets, vous pourriez partir du profil d’un singe et simplement transférer ses rangs de Perception vers Escamotage ou Discrétion.
 
-Dons : vous pouvez facilement remplacer les dons de départ d’un familier prédéfini par d’autres qui correspondent mieux à votre concept, comme les dons de familier de la page 18 de Pathfinder Player Companion: Animal Archive. Le [Folio des Familiers|Folio des Familiers] propose également de [Nouveaux dons ff|nouveaux dons liés aux familiers], ce qui offre de nombreuses possibilités de personnalisation et permet parfois d’ajouter des aptitudes ou des propriétés mystiques inhabituelles.
+Dons : vous pouvez facilement remplacer les dons de départ d’un familier prédéfini par d’autres qui correspondent mieux à votre concept, comme les dons de familier de la page 18 de Pathfinder Player Companion: Animal Archive. Le [[Folio des Familiers]] propose également de [[Nouveaux dons ff|nouveaux dons liés aux familiers]], ce qui offre de nombreuses possibilités de personnalisation et permet parfois d’ajouter des aptitudes ou des propriétés mystiques inhabituelles.
 
 Attaques : modifier les dés de dégâts des attaques d’une créature peut rapidement produire un familier trop faible ou trop puissant. En revanche, remplacer des attaques naturelles par d’autres types d’attaques naturelles est généralement sans grand risque. À l’aide de la table 3–1 de la page 302 du Bestiaire, vous pouvez aisément remplacer la morsure d’une chauve-souris par deux griffes ou une attaque de corne. En règle générale, vous devriez remplacer une attaque naturelle principale par une autre attaque naturelle principale, et les attaques secondaires par d’autres attaques secondaires.
 
@@ -42,75 +42,75 @@ Valeurs de caractéristique : modifier les valeurs de caractéristique d’une c
 |- CLASS="titre"
 | Familier de base || Nouveau Familier || Source || Page
 |- CLASS="premier"
-| [Araignée écarlate|Araignée écarlate] || Araignée des placards, araignée-sac jaune, insectes de très grande taille || Magie ultime || p.120
+| [[Araignée écarlate]] || Araignée des placards, araignée-sac jaune, insectes de très grande taille || Magie ultime || p.120
 |-
-| [Archéoptéryx|Archéoptéryx] || Opossum planeur, Jeholornis, autres oiseaux primitifs || Bestiaire 4 || p.96
+| [[Archéoptéryx]] || Opossum planeur, Jeholornis, autres oiseaux primitifs || Bestiaire 4 || p.96
 |-
-| [Belette|Belette] || Hermine, furet, vison, mangouste, stoat || Bestiaire || p.133
+| [[Belette]] || Hermine, furet, vison, mangouste, stoat || Bestiaire || p.133
 |-
-| [Chat|Chat] || Lynx, diable de Tasmanie || Bestiaire || p.131
+| [[Chat]] || Lynx, diable de Tasmanie || Bestiaire || p.131
 |-
-| [Chauve-souris|Chauve-souris] || Anurognathus, pinson, Jeholopterus, Onychonycteris || Bestiaire || p.131
+| [[Chauve-souris]] || Anurognathus, pinson, Jeholopterus, Onychonycteris || Bestiaire || p.131
 |-
-| [Chèvre|Chèvre] || Cerf, poudou, cerf-vampire || Bestiaire 3 || p.112
+| [[Chèvre]] || Cerf, poudou, cerf-vampire || Bestiaire 3 || p.112
 |-
-| [Cochon|Cochon] || Pécari, tapir || Bestiaire 3 || p.113
+| [[Cochon]] || Pécari, tapir || Bestiaire 3 || p.113
 |-
-| [Compsognathus|Compsognathus] || Erpetosuchus, mocassin d’eau, autres minuscules dinosaures venimeux || Bestiaire 2 || p.90
+| [[Compsognathus]] || Erpetosuchus, mocassin d’eau, autres minuscules dinosaures venimeux || Bestiaire 2 || p.90
 |-
-| [Corbeau|Corbeau] || Perruche*, perroquet*, toucan* || Bestiaire || p.133
+| [[Corbeau]] || Perruche*, perroquet*, toucan* || Bestiaire || p.133
 |-
-| [Crabe royal|Crabe royal] || Écrevisse, homard, autres crustacés || Magie ultime || p.119
+| [[Crabe royal]] || Écrevisse, homard, autres crustacés || Magie ultime || p.119
 |-
-| [Crapaud|Crapaud] || Grenouille, xénope, autres amphibiens || Bestiaire || p.133
+| [[Crapaud]] || Grenouille, xénope, autres amphibiens || Bestiaire || p.133
 |-
-| [Dodo|Dodo] || Moa buissonnier, grand pingouin || Bestiaire 4 || p.96
+| [[Dodo]] || Moa buissonnier, grand pingouin || Bestiaire 4 || p.96
 |-
-| [Écureuil|Écureuil] || Chinchilla, tamia, hamster || Animal Archive || p.31
+| [[Écureuil]] || Chinchilla, tamia, hamster || Animal Archive || p.31
 |-
-| [Écureuil volant|Écureuil volant] || Opossum planeur, phalanger volant || Bestiaire 3 || p.112
+| [[Écureuil volant]] || Opossum planeur, phalanger volant || Bestiaire 3 || p.112
 |-
-| [Faucon|Faucon] || Aigle, balbuzard pêcheur, faucon pèlerin, élanion perle || Bestiaire || p.131
+| [[Faucon]] || Aigle, balbuzard pêcheur, faucon pèlerin, élanion perle || Bestiaire || p.131
 |-
-| [Grive|Grive] || Merlebleu, cardinal, moineau, autres oiseaux minuscules || Magie ultime || p.120
+| [[Grive]] || Merlebleu, cardinal, moineau, autres oiseaux minuscules || Magie ultime || p.120
 |-
-| [Hérisson|Hérisson] || Porc-épic, tenrec || Magie ultime || p.119
+| [[Hérisson]] || Porc-épic, tenrec || Magie ultime || p.119
 |-
-| [Grand-duc|Hibou] || Tétras, engoulevent, autres rapaces nocturnes || Bestiaire || p.132
+| [[Grand-duc|Hibou]] || Tétras, engoulevent, autres rapaces nocturnes || Bestiaire || p.132
 |-
-| [Lapin|Lapin] || Lièvre, gerboise, viscache || Animal Archive || p.31
+| [[Lapin]] || Lièvre, gerboise, viscache || Animal Archive || p.31
 |-
-| [Lézard|Lézard] || Galago, salamandre, loris lent || Bestiaire || p.131
+| [[Lézard]] || Galago, salamandre, loris lent || Bestiaire || p.131
 |-
-| [Limace léopard|Limace léopard] || Ver || Folio des Familiers || p.30
+| [[Limace léopard]] || Ver || Folio des Familiers || p.30
 |-
-| [Loutre|Loutre] || Castor, grison, rat musqué || Bestiaire 3 || p.113
+| [[Loutre]] || Castor, grison, rat musqué || Bestiaire 3 || p.113
 |-
-| [Mille-pattes domestique|Mille-pattes domestique] || Mille-pattes, scarabée, autres insectes venimeux || Magie ultime || p.119
+| [[Mille-pattes domestique]] || Mille-pattes, scarabée, autres insectes venimeux || Magie ultime || p.119
 |-
-| [Mouffette|Mouffette] || Putois rayé || Bestiaire 3 || p.247
+| [[Mouffette]] || Putois rayé || Bestiaire 3 || p.247
 |-
-| [Pieuvre à anneaux bleus|Pieuvre à anneaux bleus] || Calmar, pieuvre, autres céphalopodes || Magie ultime || p.117
+| [[Pieuvre à anneaux bleus]] || Calmar, pieuvre, autres céphalopodes || Magie ultime || p.117
 |-
-| [Rat|Rat] || Cochon d’Inde, souris, musaraigne || Bestiaire || p.132
+| [[Rat]] || Cochon d’Inde, souris, musaraigne || Bestiaire || p.132
 |-
-| [Rat-âne|Rat-âne] || Oryctérope, fourmilier, castor, capybara || Magie ultime || p.117
+| [[Rat-âne]] || Oryctérope, fourmilier, castor, capybara || Magie ultime || p.117
 |-
-| [Raton laveur|Raton laveur] || Singe de cirque, coati, opossum, panda roux, ours malais || Bestiaire 3 || p.113
+| [[Raton laveur]] || Singe de cirque, coati, opossum, panda roux, ours malais || Bestiaire 3 || p.113
 |-
-| [Renard|Renard] || Coyote, dingo, chien de prairie, petit chien || Bestiaire 3 || p.112
+| [[Renard]] || Coyote, dingo, chien de prairie, petit chien || Bestiaire 3 || p.112
 |-
-| [Scorpion vert|Scorpion vert] || Scorpion empereur, insectes de très grande taille || Magie ultime || p.118
+| [[Scorpion vert]] || Scorpion empereur, insectes de très grande taille || Magie ultime || p.118
 |-
-| [Singe|Singe] || Chimpanzé, lémurien, tarsier, autres primates arboricoles || Bestiaire || p.132
+| [[Singe]] || Chimpanzé, lémurien, tarsier, autres primates arboricoles || Bestiaire || p.132
 |-
-| [Tatou|Tatou] || Chlamyphoridés, pangolin, tatou nain d’Argentine || Animal Archive || p.30
+| [[Tatou]] || Chlamyphoridés, pangolin, tatou nain d’Argentine || Animal Archive || p.30
 |-
-| [Tortue|Tortue] || Autruche, tortue terrestre || Magie ultime || p.120
+| [[Tortue]] || Autruche, tortue terrestre || Magie ultime || p.120
 |-
-| [Tuatara|Tuatara (Sphénodon)] || Dragon d’eau asiatique, [Caïman nain|caïman nain] || Bestiaire 4 || p.97
+| [[Tuatara|Tuatara (Sphénodon)]] || Dragon d’eau asiatique, [[Caïman nain]] || Bestiaire 4 || p.97
 |-
-| [Vipère|Vipère] || Krait marin || Bestiaire || p.133
+| [[Vipère]] || Krait marin || Bestiaire || p.133
 |- CLASS="note"
 | COLSPAN="4" | * Ces suggestions ne bénéficient pas de la capacité surnaturelle du familier corbeau lui permettant de parler une langue.
 |}

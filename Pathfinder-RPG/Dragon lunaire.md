@@ -36,13 +36,13 @@ Dragon, CN
 |- CLASS="titre"
 | Nom || &nbsp; || FP
 |- CLASS="premier"
-| [Jeune dragon lunaire](./Jeune dragon lunaire.md) || &nbsp; || 9
+| [[Jeune dragon lunaire]] || &nbsp; || 9
 |-
-| [Dragon lunaire adulte](./Dragon lunaire adulte.md) || &nbsp; || 13
+| [[Dragon lunaire adulte]] || &nbsp; || 13
 |-
-| [Dragon lunaire vénérable](./Dragon lunaire vénérable.md) || &nbsp; || 18
+| [[Dragon lunaire vénérable]] || &nbsp; || 18
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons sidéraux](./Dragon sidéral.md).***</li></ul>*Un halo scintillant entoure la tête couronnée d’une crête de ce majestueux dragon. Des reflets ondoient sur ses grandes ailes comme du tulle laiteux sous les rayons de la lune.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Un halo scintillant entoure la tête couronnée d’une crête de ce majestueux dragon. Des reflets ondoient sur ses grandes ailes comme du tulle laiteux sous les rayons de la lune.*
 
 Les dragons lunaires interagissent souvent avec les mortels et passent de longues heures à observer ce qui se passe sur les planètes qui les intéressent.
 

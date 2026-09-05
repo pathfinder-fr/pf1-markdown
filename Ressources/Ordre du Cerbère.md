@@ -399,23 +399,23 @@ L'Ordre peut aussi faire appel à des PNJ issus du manuel des PNJ. Pour ma part,
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire* p.220}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./../Pathfinder-RPG/type Extérieur.md) ([extraplanaire](./../Pathfinder-RPG/sous-type extraplanaire.md), [Feu](./../Pathfinder-RPG/sous-type Feu.md), [Loi](./../Pathfinder-RPG/sous-type Loi.md), [Mal](./../Pathfinder-RPG/sous-type Mal.md)) de taille M, LM}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./../Pathfinder-RPG/odorat.md), [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./../Pathfinder-RPG/Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 11, pris au dépourvu 15 (Dex +1, naturelle +5)}
 {s:BDTexte|**pv** 30 (4d10+8)}
 {s:BDTexte|**Réf** +5, **Vig** +6, **Vol** +1}
 {s:BDTexte|**Immunités** feu }
-{s:BDTexte|**Faiblesses** [vulnérabilité](./../Pathfinder-RPG/Vulnérabilités (capacité).md) au froid}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au froid}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** morsure +5 (1d8+1 et 1d6 feu)}
-{s:BDTexte|**Attaques spéciales** [souffle](./../Pathfinder-RPG/Souffle.md) ([cône](./../Pathfinder-RPG/cône.md) de 3 m (2 {s:c}), utilisable tous les 2d4 rounds, 2d6 feu, Réflexes DD 14, 1/2 dégâts)}
+{s:BDTexte|**Attaques spéciales** [[souffle]] ([[cône]] de 3 m (2 {s:c}), utilisable tous les 2d4 rounds, 2d6 feu, Réflexes DD 14, 1/2 dégâts)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 13, **Con** 15, **Int** 6, **Sag** 10, **Cha** 6}
-{s:BDTexte|**BBA** +4, **BMO** +5, **DMD** 16 (20 contre le [croc-en-jambe](./../Pathfinder-RPG/croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./../Pathfinder-RPG/Course.md), [Science de l'initiative](./../Pathfinder-RPG/Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +8, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +13, [Perception](./../Pathfinder-RPG/Perception.md) +7, [Survie](./../Pathfinder-RPG/Survie.md) +7 ; **Modificateurs raciaux** +5 en [Discrétion](./../Pathfinder-RPG/Discrétion.md)}
+{s:BDTexte|**BBA** +4, **BMO** +5, **DMD** 16 (20 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8, [[Discrétion]] +13, [[Perception]] +7, [[Survie]] +7 ; **Modificateurs raciaux** +5 en [[Discrétion]]}
 {s:BDTexte|**Langues** infernal (ne sait pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Enfer)}
@@ -428,8 +428,8 @@ L'Ordre peut aussi faire appel à des PNJ issus du manuel des PNJ. Pour ma part,
 {s:pucem|Animal|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.41*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./../Pathfinder-RPG/type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./../Pathfinder-RPG/odorat.md), [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 11, pris au dépourvu 9 (Dex +2, taille -1)}
 {s:BDTexte|**pv** 15 (2d8+6)}
@@ -440,16 +440,16 @@ L'Ordre peut aussi faire appel à des PNJ issus du manuel des PNJ. Pour ma part,
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 14, **Con** 17, **Int** 2, **Sag** 13, **Cha** 7}
-{s:BDTexte|**BBA** +1, **BMO** +5, **DMD** 17 (21 contre [croc-en-jambe](./../Pathfinder-RPG/croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./../Pathfinder-RPG/Course.md)<sup>B</sup>, [Endurance](./../Pathfinder-RPG/Endurance.md)}
-{s:BDTexte|**Compétences** [Perception](./../Pathfinder-RPG/Perception.md) +6}
+{s:BDTexte|**BBA** +1, **BMO** +5, **DMD** 17 (21 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]]<sup>B</sup>, [[Endurance]]}
+{s:BDTexte|**Compétences** [[Perception]] +6}
 {s:BDTexte|**Particularités** docile}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupeau (3-30)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Docile (Ext)** A moins d'avoir été entraînés pour le combat (voir la compétence [Dressage](./../Pathfinder-RPG/Dressage.md)), les chevaux considèrent leurs attaques de sabots comme des attaques secondaires.}
+{s:BDTexte|**Docile (Ext)** A moins d'avoir été entraînés pour le combat (voir la compétence [[Dressage]]), les chevaux considèrent leurs attaques de sabots comme des attaques secondaires.}
 </div>
 
 <div class="BD">
@@ -457,8 +457,8 @@ L'Ordre peut aussi faire appel à des PNJ issus du manuel des PNJ. Pour ma part,
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.44*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./../Pathfinder-RPG/type Extérieur.md) ([extraplanaire](./../Pathfinder-RPG/sous-type extraplanaire.md), [Mal](./../Pathfinder-RPG/sous-type Mal.md)) de taille M, NM}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./../Pathfinder-RPG/odorat.md), [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./../Pathfinder-RPG/Perception.md) +9}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, NM}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)}
 {s:BDTexte|**pv** 30 (4d10+8)}
@@ -466,22 +466,22 @@ L'Ordre peut aussi faire appel à des PNJ issus du manuel des PNJ. Pour ma part,
 {s:BDTexte|**RD** 5/argent }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD**  12 m (8 {s:c}), vol  18 m (12 {s:c}) (bonne)}
-{s:BDTexte|**Corps à corps** morsure +7 (2d6+4 et morsure sinistre et [croc-en-jambe](./../Pathfinder-RPG/croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** morsure +7 (2d6+4 et morsure sinistre et [[croc-en-jambe]])}
 {s:BDTexte|**Attaques spéciales** aboiement}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 15, **Con** 15, **Int** 6, **Sag** 14, **Cha** 10}
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 19 (23 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Science de l'initiative](./../Pathfinder-RPG/Science de linitiative.md), [Talent](./../Pathfinder-RPG/Talent.md) ([Vol](./../Pathfinder-RPG/Vol.md))}
-{s:BDTexte|**Compétences** [Discrétion](./../Pathfinder-RPG/Discrétion.md) +9, [Perception](./../Pathfinder-RPG/Perception.md) +9, [Survie](./../Pathfinder-RPG/Survie.md) +9, [Vol](./../Pathfinder-RPG/Vol.md) +16}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Vol]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +9, [[Perception]] +9, [[Survie]] +9, [[Vol]] +16}
 {s:BDTexte|**Langues** abyssal ou infernal (ne peut pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (6-11)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Aboiement (Sur)** Lorsqu'un chien hurleur aboie ou hurle, toutes les créatures autres que des [Extérieurs](./../Pathfinder-RPG/type Extérieur.md) mauvais situées dans une étendue de  90 m (60 {s:c}) doivent réussir un jet de [Volonté](./../Pathfinder-RPG/Volonté.md) de [DD](./../Pathfinder-RPG/DD.md) 12 pour ne pas être [paniquées](./../Pathfinder-RPG/Paniqué.md) pendant 2d4 rounds. Il s'agit d'un effet mental de son et de terreur, de son et mental. Quel que soit le résultat du [jet de sauvegarde](./../Pathfinder-RPG/jet de sauvegarde.md), les créatures soumises à cet effet sont immunisées contre les aboiements du chien hurleur pendant 24 heures. Le [DD](./../Pathfinder-RPG/DD.md) dépend du [Charisme](./../Pathfinder-RPG/Charisme.md).}
-{s:BDTexte|**Morsure sinistre (Sur)** Les morsures des chiens hurleurs ignorent les [réductions de dégâts](./../Pathfinder-RPG/RD.md) comme s'il s'agissait d'armes d'alignement Mauvais. De plus, les créatures d'alignement Bon mordues par un chien hurleur doivent réussir un jet de [Volonté](./../Pathfinder-RPG/Volonté.md) de [DD](./../Pathfinder-RPG/DD.md) 14 pour ne pas êtres [secouées](./../Pathfinder-RPG/Secoué.md) pendant 1 round. Si la victime mordue est déjà affectée par un effet de terreur (les conséquences de l'aboiement du chien hurleur par exemple), elle n'est pas seulement [secouée](./../Pathfinder-RPG/Secoué.md) mais totalement terrassée par la peur, incapable de faire quoi que ce soit si ce n'est se recroqueviller sur elle-même pendant 1 round. Il s'agit d'un effet mental de terreur. Le [DD](./../Pathfinder-RPG/DD.md) dépend de la [Constitution](./../Pathfinder-RPG/Constitution.md).}
-{s:BDTexte|**Vol (Sur)** Les chiens hurleurs peuvent activer ou désactiver leur capacité de vol par une [action libre](./../Pathfinder-RPG/Action libre.md).}
+{s:BDTexte|**Aboiement (Sur)** Lorsqu'un chien hurleur aboie ou hurle, toutes les créatures autres que des [[type Extérieur|Extérieurs]] mauvais situées dans une étendue de  90 m (60 {s:c}) doivent réussir un jet de [[Volonté]] de [[DD]] 12 pour ne pas être [[paniqué|paniquées]] pendant 2d4 rounds. Il s'agit d'un effet mental de son et de terreur, de son et mental. Quel que soit le résultat du [[jet de sauvegarde]], les créatures soumises à cet effet sont immunisées contre les aboiements du chien hurleur pendant 24 heures. Le [[DD]] dépend du [[Charisme]].}
+{s:BDTexte|**Morsure sinistre (Sur)** Les morsures des chiens hurleurs ignorent les [[RD|réductions de dégâts]] comme s'il s'agissait d'armes d'alignement Mauvais. De plus, les créatures d'alignement Bon mordues par un chien hurleur doivent réussir un jet de [[Volonté]] de [[DD]] 14 pour ne pas êtres [[secoué|secouées]] pendant 1 round. Si la victime mordue est déjà affectée par un effet de terreur (les conséquences de l'aboiement du chien hurleur par exemple), elle n'est pas seulement [[secoué|secouée]] mais totalement terrassée par la peur, incapable de faire quoi que ce soit si ce n'est se recroqueviller sur elle-même pendant 1 round. Il s'agit d'un effet mental de terreur. Le [[DD]] dépend de la [[Constitution]].}
+{s:BDTexte|**Vol (Sur)** Les chiens hurleurs peuvent activer ou désactiver leur capacité de vol par une [[action libre]].}
 </div>
 
 <div class="BD">
@@ -489,8 +489,8 @@ L'Ordre peut aussi faire appel à des PNJ issus du manuel des PNJ. Pour ma part,
 {s:pucem|Animal|Montagnes|Tempéré}
 {s:BDTexte|*Source : Bestiaire page 9*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Animal](./../Pathfinder-RPG/type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +10}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 13, pris au dépourvu 12 (Dex +2, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -501,8 +501,8 @@ L'Ordre peut aussi faire appel à des PNJ issus du manuel des PNJ. Pour ma part,
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 15, **Con** 12, **Int** 2, **Sag** 15, **Cha** 7}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 11}
-{s:BDTexte|**Dons** [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Perception](./../Pathfinder-RPG/Perception.md) +10, [Vol](./../Pathfinder-RPG/Vol.md) +8 ; **Modificateurs raciaux** [Perception](./../Pathfinder-RPG/Perception.md) +8}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Perception]] +10, [[Vol]] +8 ; **Modificateurs raciaux** [[Perception]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes tempérées}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}

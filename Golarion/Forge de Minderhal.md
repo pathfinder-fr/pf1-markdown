@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Cette forge se trouve dans les montagnes qui dominent l'[abysse de Storval](./Abysse de Storval.md). C’est un ancien temple dédié à [Minderhal](./Minderhal.md), le dieu forgeron des géants. Autrefois, l’immense feu de cette forge était entretenu avec les corps des hors-la-loi morts. De nos jours, il n’y a plus aucun feu qui vient apporter de la lumière et de la chaleur à la statue de [Minderhal](./Minderhal.md). Les géants eux-mêmes ne se rendent plus dans ce temple.
+Cette forge se trouve dans les montagnes qui dominent l'[[abysse de Storval]]. C’est un ancien temple dédié à [[Minderhal]], le dieu forgeron des géants. Autrefois, l’immense feu de cette forge était entretenu avec les corps des hors-la-loi morts. De nos jours, il n’y a plus aucun feu qui vient apporter de la lumière et de la chaleur à la statue de [[Minderhal]]. Les géants eux-mêmes ne se rendent plus dans ce temple.

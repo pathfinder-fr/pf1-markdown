@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 - *Source : Bestiaire 2* p.137
 - **PX** 2.400
-- [Extérieur](./type Extérieur.md) ([air](./sous-type Air.md), [élémentaire](./sous-type élémentaire.md), [Mal](./sous-type Mal.md)) de taille G, NM
-- **Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +11
+- [[type Extérieur|Extérieur]] ([[sous-type air|air]], [[sous-type élémentaire|élémentaire]], [[sous-type Mal|Mal]]) de taille G, NM
+- **Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +11
 (((Défense)))
 - **CA** 20, contact 14, pris au dépourvu 15 (Dex +5, naturelle +6, taille -1)
 - **pv** 68 (8d10+24)
@@ -30,8 +30,8 @@ Categories:
 (((Caractéristiques)))
 - **For** 14, **Dex** 21, **Con** 17, **Int** 6, **Sag** 11, **Cha** 10
 - **BBA** +8, **BMO** +11, **DMD** 26 (croc-en-jambe impossible)
-- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md), [Attaques réflexes](./Attaques réflexes.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +16, [Discrétion](./Discrétion.md) +16 [Perception](./Perception.md) +11, [Vol](./Vol.md) +22
+- **Dons** [[Attaque en finesse]], [[Attaque en vol]], [[Attaques multiples]], [[Attaques réflexes]]
+- **Compétences** [[Acrobaties]] +16, [[Discrétion]] +16 [[Perception]] +11, [[Vol]] +22
 - **Langues** aérien
 - **Particularités** forme de fumée
 (((Écologie)))
@@ -39,7 +39,7 @@ Categories:
 - **Organisation sociale** solitaire, couple ou groupe (3-4)
 - **Trésor** fortuit
 (((Capacités spéciales)))
-- **Forme de fumée (Sur).** Un fumigon peut passer de sa forme normale à une forme constituée uniquement de fumée (ou inversement) par une action rapide. Il peut passer jusqu’à 20 rounds par jour sous forme de fumée. Sous cette forme, le fumigon fonctionne comme s’il était affecté par un sort d’[état gazeux](./État gazeux.md) tout en conservant sa vitesse de vol naturelle de 15 mètres (10 {s:c}) (manoeuvrabilité parfaite).
+- **Forme de fumée (Sur).** Un fumigon peut passer de sa forme normale à une forme constituée uniquement de fumée (ou inversement) par une action rapide. Il peut passer jusqu’à 20 rounds par jour sous forme de fumée. Sous cette forme, le fumigon fonctionne comme s’il était affecté par un sort d’[[état gazeux]] tout en conservant sa vitesse de vol naturelle de 15 mètres (10 {s:c}) (manoeuvrabilité parfaite).
 - **Griffes de fumée (Ext).** Lorsqu’un fumigon utilise sa capacité de forme de fumée, il peut pénétrer dans l’espace occupé par une cible par une action simple qui ne provoque pas d’attaque d’opportunité. La cible doit réussir un jet de Vigueur contre un DD de 17 pour éviter d’inhaler une partie du fumigon. Une fois à l’intérieur de la victime, la fumée se solidifie en une griffe et l’attaque, ce qui lui inflige 3d4 points de dégâts par round par une action rapide. Si la cible se déplace, le fumigon peut choisir de se déplacer automatiquement en même temps qu’elle (ce mouvement ne réduit pas la distance de déplacement dont le fumigon dispose lors de son prochain round et ne provoque pas d’attaques d’opportunité contre le fumigon). Chaque round, la victime peut tenter un nouveau jet de Vigueur de DD 17 pour recracher le fumigon, ce qui met alors un terme aux attaques de la griffe de fumée et force le fumigon à gagner une case adjacente. Les créatures qui n’ont pas besoin de respirer pour vivre sont immunisées contre cette attaque. Le DD du jet de sauvegarde dépend de la Constitution.
 
 </div>

@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Kytons
 ---
 
->>> [Kytons](./Kytons.md)
+>>> [[Kytons]]

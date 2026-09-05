@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-Ollo est l'un des ports des [Entraves](./Entraves.md).
+Ollo est l'un des ports des [[Entraves]].
 
 Cette misérable cité fait constamment l'objet de raid de la part d'une créature qui vit dans la forêt de l'île.
 

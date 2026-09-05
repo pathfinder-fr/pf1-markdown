@@ -4,6 +4,6 @@ Title: Les monstres de Golarion
 LastModified: 2015-04-09 00:17
 ---
 
-Les [dragons](./Dragons.md) de Golarion
+Les [[dragons]] de Golarion
 
-Les [drows nobles](./drows.md) de Golarion
+Les [[drows|drows nobles]] de Golarion

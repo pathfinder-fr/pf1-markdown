@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage peut replacer son pavois en un clin d'œil afin de protéger un allié ou lui-même.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 15, [Art du bouclier](./Art du bouclier.md), [École du rempart mobile](./École du rempart mobile.md), [Maniement du pavois](./Maniement du pavois.md), [BBA](./BBA.md) +4
+**Conditions.** [[For]] 15, [[Art du bouclier]], [[École du rempart mobile]], [[Maniement du pavois]], [[BBA]] +4
 
-**Avantages.** Quand le personnage utilise un [pavois](./pavois.md), il ajoute la moitié de son bonus de bouclier à la [CA](./CA.md) (y compris son bonus d'altération) à sa CA au contact et subit seulement un malus de -1 aux [jets d’attaque](./jet dattaque.md) à cause de l'encombrement du bouclier. Quand le personnage utilise l'[École du rempart mobile](./École du rempart mobile.md), chaque fois qu'il utilise son [pavois](./pavois.md) pour bénéficier d'un [abri total](./abri total.md), il offre également un abri total aux alliés adjacents contre les attaques qui traversent le côté choisi.
+**Avantages.** Quand le personnage utilise un [[pavois]], il ajoute la moitié de son bonus de bouclier à la [[CA]] (y compris son bonus d'altération) à sa CA au contact et subit seulement un malus de -1 aux [[jet dattaque|jets d’attaque]] à cause de l'encombrement du bouclier. Quand le personnage utilise l'[[École du rempart mobile]], chaque fois qu'il utilise son [[pavois]] pour bénéficier d'un [[abri total]], il offre également un abri total aux alliés adjacents contre les attaques qui traversent le côté choisi.

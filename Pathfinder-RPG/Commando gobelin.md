@@ -13,14 +13,14 @@ Categories:
 {s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Codex monstrueux p.84*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Gobelin](./Gobelin.md) [guerrier](./Guerrier.md) 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille P, NM}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[Gobelin]] [[guerrier]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille P, NM}
+{s:BDTexte|**Init** +8 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 14, pris au dépourvu 17 (armure +6, Dex +3, taille +1)}
 {s:BDTexte|**pv** 24 (3d10+3)}
 {s:BDTexte|**Réf** +5, **Vig** +4, **Vol** +0 (+1 contre la terreur)}
-{s:BDTexte|**Capacités défensives** [courage](./Guerrier.md#COURAGE) +1}
+{s:BDTexte|**Capacités défensives** [[guerrier#COURAGE|courage]] +1}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** coupecheval de maître, +7 (1d8+1/×3)}
@@ -28,12 +28,12 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 18, **Con** 13, **Int** 10, **Sag** 8, **Cha** 10}
 {s:BDTexte|**BBA** +3 ; **BMO** +3 ; **DMD** 17}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (coupecheval), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +11, [Équitation](./Équitation.md) +4, [Intimidation](./Intimidation.md) +6, [Natation](./Natation.md) +8, [Perception](./Perception.md) +2}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md), +4 en [Équitation](./Équitation.md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (coupecheval), [[Attaque en puissance]], [[Attaques réflexes]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +11, [[Équitation]] +4, [[Intimidation]] +6, [[Natation]] +8, [[Perception]] +2}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Discrétion]], +4 en [[Équitation]]}
 {s:BDTexte|**Langues** gobelin}
-{s:BDTexte|**Particularités** [entraînement aux armure](./Guerrier.md#ENTRAINEMENTAUXARMURES) 1}
-{s:BDTexte|**Équipement de combat** *[flèches](./Flèches (arme).md) [enflammées +1](./enflammée (propriété).md)* (2), *[potion](./Potions magiques.md) de [soins modérés](./Soins modérés.md)* ; **Équipement divers** [cotte de mailles](./cotte de mailles (armure).md), [arc court composite de maître](./arc court composite (arme).md) avec [20 flèches](./Flèches (arme).md), [coupecheval de maître](./Coupecheval (arme).md), 80 po}
+{s:BDTexte|**Particularités** [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armure]] 1}
+{s:BDTexte|**Équipement de combat** *[[flèches (arme)|flèches]] [[enflammée (propriété)|enflammées +1]]* (2), *[[potions magiques|potion]] de [[soins modérés]]* ; **Équipement divers** [[cotte de mailles (armure)|cotte de mailles]], [[arc court composite (arme)|arc court composite de maître]] avec [[flèches (arme)|20 flèches]], [[coupecheval (arme)|coupecheval de maître]], 80 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -41,27 +41,27 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Gobelin](./Gobelin.md) || 1/3
+| [[Gobelin]] || 1/3
 |-
-| [Gobelin vicieux](./Gobelin vicieux.md) || 1
+| [[Gobelin vicieux]] || 1
 |-
-| [Pionnier gobelin](./Pionnier gobelin.md) || 1
+| [[Pionnier gobelin]] || 1
 |-
-| [Commando gobelin](./../Aventures/Commando gobelin.md) || 2
+| [[Commando gobelin]] || 2
 |-
-| [Gobelin mutant](./../Aventures/Gobelin mutant.md) || 3
+| [[Gobelin mutant]] || 3
 |-
-| [Pilote de vautour gobelin](./Pilote-de-vautour-gobelin.md) || 3
+| [[Pilote de vautour gobelin]] || 3
 |-
-| [Gobelin incendiaire](./Gobelin incendiaire.md) || 4
+| [[Gobelin incendiaire]] || 4
 |-
-| [Cavalier aguerri](./Cavalier aguerri.md) || 5
+| [[Cavalier aguerri]] || 5
 |-
-| [Parle-crapaud gobelin](./Parle-crapaud-gobelin.md) || 5
+| [[Parle-crapaud gobelin]] || 5
 |-
-| [Seigneur collant gobelin](./Seigneur-collant-gobelin.md) || 6
+| [[Seigneur collant gobelin]] || 6
 |-
-| [Chef gobelin](./Chef-gobelin.md) || 9
+| [[Chef gobelin]] || 9
 |-
 |}
 </div>Les combattants gobelins forment l’épine dorsale de chaque tribu où ils servent de chasseurs, de pillards et de seigneurs de guerre.

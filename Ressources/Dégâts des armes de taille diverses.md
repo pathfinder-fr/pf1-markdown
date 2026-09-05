@@ -49,18 +49,18 @@ Voici une petite table que j'ai réalisé pour mes propres besoins au départ de
 | Moine niveau 20 ||  1d8 || 1d10 || 2d6 || 2d8 || 2d10 || 4d8 || 6d8 || 8d8 || 12d8
 |}
 
-<sup>1</sup> Ces valeurs sont calculées sur base de la règle donnée sur la [faq Païzo](http://paizo.com/paizo/faq/v5748nruor1fm#v5748eaic9t5u). La valeur de 2d8 pourrait aussi être considérée comme correcte car elle provient de la règle concernant les [armes naturelles](./../Pathfinder-RPG/Attaques naturelles (capacité).md).
+<sup>1</sup> Ces valeurs sont calculées sur base de la règle donnée sur la [faq Païzo](http://paizo.com/paizo/faq/v5748nruor1fm#v5748eaic9t5u). La valeur de 2d8 pourrait aussi être considérée comme correcte car elle provient de la règle concernant les [[Pathfinder-RPG.Attaques naturelles (capacité)|armes naturelles]].
 
 ### Informations consultées
-<sub>[Les dégâts des armes](./../Pathfinder-RPG/Caractéristiques des armes.md#Taillearme){br}
-[Les armes naturelles](./../Pathfinder-RPG/Attaques naturelles (capacité).md){br}
+<sub>[[Pathfinder-RPG.Caractéristiques des armes#Taillearme|Les dégâts des armes]]{br}
+[[Pathfinder-RPG.Attaques naturelles (capacité)|Les armes naturelles]]{br}
 [La faq Païzo](http://paizo.com/paizo/faq/v5748nruor1fm#v5748eaic9t5u){br}
-~~[http://www.regles-donjons-dragons.com/Page1677.html|Les règles DD3.5]~~{br}
-[Le titan thanatotique](./../Pathfinder-RPG/Titan thanatotique.md){br}
-[Le géant des nuages](./../Pathfinder-RPG/Géant des nuages.md){br}
-[Le géant de la taïga](./../Pathfinder-RPG/Géant de la taïga.md){br}
-[Le géant des runes](./../Pathfinder-RPG/Géant des runes.md){br}
-[Le géant des tempêtes](./../Pathfinder-RPG/Géant des tempêtes.md){br}
+~~[Les règles DD3.5](http://www.regles-donjons-dragons.com/Page1677.html)~~{br}
+[[Pathfinder-RPG.titan thanatotique|Le titan thanatotique]]{br}
+[[Pathfinder-RPG.géant des nuages|Le géant des nuages]]{br}
+[[Pathfinder-RPG.géant de la taïga|Le géant de la taïga]]{br}
+[[Pathfinder-RPG.géant des runes|Le géant des runes]]{br}
+[[Pathfinder-RPG.géant des tempêtes|Le géant des tempêtes]]{br}
 </sub>
 
 </center></div></div>

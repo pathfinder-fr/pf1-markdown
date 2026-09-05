@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Vol radieux
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Vol radieux](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Vol radieux)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Vol radieux]]

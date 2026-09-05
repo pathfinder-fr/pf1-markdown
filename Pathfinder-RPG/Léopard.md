@@ -14,21 +14,21 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire p.140*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +4 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 11 (Dex +4, naturelle +1)}
 {s:BDTexte|**pv** 19 (3d8+6)}
 {s:BDTexte|**Réf** +7, **Vig** +5, **Vol** +2}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +6 (1d6+3 et [étreinte](./Étreinte.md)), 2 griffes, +6 (1d3+3)}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond.md), [pattes arrière](./Pattes arrière.md) (2 griffes +6, 1d3+3)}
+{s:BDTexte|**Corps à corps** morsure, +6 (1d6+3 et [[étreinte]]), 2 griffes, +6 (1d3+3)}
+{s:BDTexte|**Attaques spéciales** [[bond]], [[pattes arrière]] (2 griffes +6, 1d3+3)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 19, **Con** 15, **Int** 2, **Sag** 13, **Cha** 6}
-{s:BDTexte|**BBA** +2, **BMO** +5 (+9 pour la lutte), **DMD** 19 (23 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8, [Discrétion](./Discrétion.md) +11 (+15 dans les fourrés épais), [Escalade](./Escalade.md) +11, [Perception](./Perception.md) +5 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 dans les fourrés épais}
+{s:BDTexte|**BBA** +2, **BMO** +5 (+9 pour la lutte), **DMD** 19 (23 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8, [[Discrétion]] +11 (+15 dans les fourrés épais), [[Escalade]] +11, [[Perception]] +5 ; **Modificateurs raciaux** [[Discrétion]] +4 dans les fourrés épais}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** n'importe quelles forêts}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
@@ -41,11 +41,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Chat](./Chat.md) || 1/4
+| Familier, [[Chat]] || 1/4
 |-
-| [Guépard](./Guépard.md) || 2
+| [[Guépard]] || 2
 |-
-| [Léopard](./Léopard.md) || 2
+| [[Léopard]] || 2
 |}
 </div>''À chacun de ses pas, on peut voir les muscles d’acier de ce léopard glisser
 sous sa fourrure tachetée.''
@@ -81,7 +81,7 @@ prédateur.
 
 #### Le Léopard (jaguar, panthère, couguar) comme compagnon animal
 
-**Caractéristiques de départ** **Taille** P ; **Vitesse** 15 m (10 {s:c})  ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4 plus [Croc-en-jambe](./Croc-en-jambe (capacité).md)), 2 griffes (1d2) ; **Caractéristiques** For 12, Dex 21, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ** **Taille** P ; **Vitesse** 15 m (10 {s:c})  ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4 plus [[Croc-en-jambe (capacité)|Croc-en-jambe]]), 2 griffes (1d2) ; **Caractéristiques** For 12, Dex 21, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 4** : **Taille** M ; **Attaque** morsure (1d6 plus [Croc-en-jambe](./Croc-en-jambe (capacité).md)), 2 griffes (1d3) ; **Caractéristiques** For +4, Dex –2, Con +2 ; **Particularité** [sprint](./Guépard.md).
+**Développement au niveau 4** : **Taille** M ; **Attaque** morsure (1d6 plus [[Croc-en-jambe (capacité)|Croc-en-jambe]]), 2 griffes (1d3) ; **Caractéristiques** For +4, Dex –2, Con +2 ; **Particularité** [[Guépard|sprint]].
 </div></td></tr></table>

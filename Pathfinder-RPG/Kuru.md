@@ -13,33 +13,33 @@ Categories:
 <div class="BD">
 {s:BDtitre|Kuru|FP 1}
 {s:pucem|Humanoïde|Collines|Tempéré}
-{s:BDtexte|*Source : [Guide des Chaînes p.48](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide des Chaînes p.48]]*}
 {s:BDtexte|**PX** 200}
-{s:BDtexte|[Barbare](./Barbare.md) (m) 1}
-{s:BDtexte|[Humanoïde](./type Humanoïde.md) (kuru) de taille M, CM}
-{s:BDtexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) ; [Perception](./Perception.md) +6}
+{s:BDtexte|[[Barbare]] (m) 1}
+{s:BDtexte|[[type Humanoïde|Humanoïde]] (kuru) de taille M, CM}
+{s:BDtexte|**Init** +0 ; **Sens** [[vision dans le noir (capacité)|vision dans le noir]] ; [[Perception]] +6}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 12, contact 8, pris au dépourvu 12 (armure +4, rage -2)}
 {s:BDtexte|**pv** 16 (1d12+4)}
 {s:BDtexte|**Réf** +2, **Vig** +5, **Vol** +4}
-{s:BDtexte|**Faiblesses** [sensibilité à la lumière](./Sensibilité à la lumière (capacité).md)}
+{s:BDtexte|**Faiblesses** [[Sensibilité à la lumière (capacité)|sensibilité à la lumière]]}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 12 m}
 {s:BDtexte|**Corps à corps** gourdin, +5 (1d6+6) et morsure, +0 (1d6+2 plus vitalité cannibale)}
-{s:BDtexte|**Attaques spéciales** [rage](./Barbare.md#RAGE) (5 rounds/jour)}
+{s:BDtexte|**Attaques spéciales** [[Barbare#RAGE|rage]] (5 rounds/jour)}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 19, **Dex** 10, **Con** 16, **Int** 10, **Sag** 14, **Cha** 13}
 {s:BDtexte|**BBA** +1, **BMO** +3, **DMD** 13}
-{s:BDtexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDtexte|**Compétences** [Escalade](./Escalade.md) +5, [Intimidation](./Intimidation.md) +5, [Perception](./Perception.md) +6, [Survie](./Survie.md) +6}
-{s:BDtexte|**Particularités** courage sanglant, [déplacement accéléré](./Barbare.md#DEPLACEMENTACCELERE)}
+{s:BDtexte|**Dons** [[Réflexes surhumains]]}
+{s:BDtexte|**Compétences** [[Escalade]] +5, [[Intimidation]] +5, [[Perception]] +6, [[Survie]] +6}
+{s:BDtexte|**Particularités** courage sanglant, [[Barbare#DEPLACEMENTACCELERE|déplacement accéléré]]}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** littoraux}
-{s:BDtexte|**Organisation sociale** paire, gang (3-6), raid (7-15) ou tribu (16+ plus 33 % de non combattants, 1 [chaman](./Chaman.md) de niveau 3 pour 20 adultes et 1 chef de niveau 5 à 7)}
-{s:BDtexte|**Trésor** équipement de PNJ ([armure de peau](./armure de peau (armure).md), autres trésors)}
+{s:BDtexte|**Organisation sociale** paire, gang (3-6), raid (7-15) ou tribu (16+ plus 33 % de non combattants, 1 [[chaman]] de niveau 3 pour 20 adultes et 1 chef de niveau 5 à 7)}
+{s:BDtexte|**Trésor** équipement de PNJ ([[armure de peau (armure)|armure de peau]], autres trésors)}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Courage sanglant (Ext).** Une fois par jour, quand le kuru effectue un [jet de sauvegarde](./JDS.md) contre un effet de terreur, il peut lancer deux fois le dé et conserver le meilleur résultat. Il doit décider s’il utilise ce pouvoir ou non avant de lancer le dé.}
-{s:BDtexte|**Vitalité cannibale (Ext).** Quand un kuru touche une créature vivante avec son attaque de morsure, il gagne un [point de vie temporaire](./points de vie temporaires.md) en absorbant le sang de sa cible. Ce pouvoir n’a aucun effet sur les créatures privées de sang.}
+{s:BDtexte|**Courage sanglant (Ext).** Une fois par jour, quand le kuru effectue un [[jds|jet de sauvegarde]] contre un effet de terreur, il peut lancer deux fois le dé et conserver le meilleur résultat. Il doit décider s’il utilise ce pouvoir ou non avant de lancer le dé.}
+{s:BDtexte|**Vitalité cannibale (Ext).** Quand un kuru touche une créature vivante avec son attaque de morsure, il gagne un [[points de vie temporaires|point de vie temporaire]] en absorbant le sang de sa cible. Ce pouvoir n’a aucun effet sur les créatures privées de sang.}
 </div>
 </td>
 <td>
@@ -53,9 +53,9 @@ Les kurus se définissent par leur niveau de classe (ils n’ont pas de dés de 
 - **Dextérité +2, Constitution +2, Intelligence –2.** Le physique des kurus leur donne une rapidité et une robustesse hors du commun mais leur soif de sang obscurcit leur jugement.
 - **Vision nocturne.** Les kurus voient deux fois plus loin que les humains sous une faible lumière.
 - **Courage sanglant.** Voir ci-contre.
-- **Sensibilité à la lumière.** Consultez les [règles universelles des monstres](./Sensibilité à la lumière (capacité).md).
+- **Sensibilité à la lumière.** Consultez les [[Sensibilité à la lumière (capacité)|règles universelles des monstres]].
 - **Arme naturelle.** Les kurus possèdent une attaque naturelle de morsure infligeant 1d6 points de dégâts.
-- **Langage.** Un kuru débute le jeu en parlant le kuru. S’il dispose d’une valeur d’[Intelligence](./Intelligence.md) élevée, il peut choisir des langues supplémentaires parmi les suivantes : abyssal, commun, commun des profondeurs, polyglotte.
+- **Langage.** Un kuru débute le jeu en parlant le kuru. S’il dispose d’une valeur d’[[Intelligence]] élevée, il peut choisir des langues supplémentaires parmi les suivantes : abyssal, commun, commun des profondeurs, polyglotte.
 
 </div>
 </td>

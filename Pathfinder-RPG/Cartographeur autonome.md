@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Cartographeur autonome|{s:RSE}}
-**Aura** [Divination](./école divination.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 2.000 po ; **Poids** 250 g
+**Aura** [[école Divination|Divination]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 2.000 po ; **Poids** 250 g
 (((Description)))
-Sur un ordre, cet objet dessine les environs jusqu’aux limites de la vision normale, comme si elles étaient peintes par un artiste compétent mais sans talent exceptionnel. Il ne montre aucun détail que vous ne pouvez voir. Le cartographeur autonome crée des plans et des cartes qui tiennent sur des parchemins ou des rouleaux de 30 cm sur 120 contenus dans l’objet. Un second ordre efface le rouleau, vous permettant de l’utiliser à nouveau. Vous pouvez insérer ou extraire un rouleau par une [action complexe](./Action complexe.md).
+Sur un ordre, cet objet dessine les environs jusqu’aux limites de la vision normale, comme si elles étaient peintes par un artiste compétent mais sans talent exceptionnel. Il ne montre aucun détail que vous ne pouvez voir. Le cartographeur autonome crée des plans et des cartes qui tiennent sur des parchemins ou des rouleaux de 30 cm sur 120 contenus dans l’objet. Un second ordre efface le rouleau, vous permettant de l’utiliser à nouveau. Vous pouvez insérer ou extraire un rouleau par une [[action complexe]].
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[effacement](./Effacement.md)*, *[prestidigitation](./Prestidigitation.md)* ; **Coût** 1.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[effacement]]*, *[[prestidigitation]]* ; **Coût** 1.000 po
 </div>

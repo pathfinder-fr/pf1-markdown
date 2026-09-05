@@ -13,8 +13,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire*}
 {s:BDTexte|**PX** 600}
 {s:BDTexte|Humain, ornithorynque-garou naturel, rôdeur 2}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) ([humain](./../Pathfinder-RPG/sous-type humain.md), [métamorphe](./../Pathfinder-RPG/sous-type métamorphe.md)) de taille M, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ;[perception](./../Pathfinder-RPG/Perception.md) +6}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] ([[Pathfinder-RPG.sous-type humain|humain]], [[Pathfinder-RPG.sous-type métamorphe|métamorphe]]) de taille M, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Pathfinder-RPG.vision nocturne|vision nocturne]] ;[[Pathfinder-RPG.Perception|perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 13, pris au dépourvu 13 (armure +3, Dex +3)}
 {s:BDTexte|**pv** 14 (2d10+5)}
@@ -27,15 +27,15 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 16, **Con** 13, **Int** 8, **Sag** 15, **Cha** 11}
 {s:BDTexte|**BBA** +2, **BMO** +4, **DMD** 17}
-{s:BDTexte|**Dons** [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Robustesse](./../Pathfinder-RPG/Robustesse.md), [Attaque spéciale renforcée](./../Pathfinder-RPG/Attaque spéciale renforcée.md)}
-{s:BDTexte|**Compétences** [Escalade](./../Pathfinder-RPG/Escalade.md) +6, [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) +2, [Perception](./../Pathfinder-RPG/Perception.md) +6, [Natation](./../Pathfinder-RPG/Natation.md) +7, [Connaissances (nature) +3](./../Pathfinder-RPG/Connaissances.md), [Survie](./../Pathfinder-RPG/Survie.md) +7 (+8 pour pister), [Discrétion](./../Pathfinder-RPG/Discrétion.md) +7 }
-{s:BDTexte|**Modificateurs raciaux** +4 en [Perception](./../Pathfinder-RPG/Perception.md) sous l’eau}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]], [[Pathfinder-RPG.Robustesse|Robustesse]], [[Pathfinder-RPG.Attaque spéciale renforcée|Attaque spéciale renforcée]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Escalade|Escalade]] +6, [[Pathfinder-RPG.Diplomatie|Diplomatie]] +2, [[Pathfinder-RPG.Perception|Perception]] +6, [[Pathfinder-RPG.Natation|Natation]] +7, [[Pathfinder-RPG.Connaissances|Connaissances (nature) +3]], [[Pathfinder-RPG.Survie|Survie]] +7 (+8 pour pister), [[Pathfinder-RPG.Discrétion|Discrétion]] +7 }
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Pathfinder-RPG.Perception|Perception]] sous l’eau}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [pistage](./../Pathfinder-RPG/pistage.md), [empathie sauvage](./../Pathfinder-RPG/empathie sauvage.md), [changement de forme](./../Pathfinder-RPG/Changement de forme (capacité).md) (humain, hybride, et ornithorynque; *[métamorphose](./../Pathfinder-RPG/métamorphose.md)*), empathie ornithorique ([ornithorynques](./../Pathfinder-RPG/Ornithorynque.md) et [ornithorynques sanguinaires](./ornithorynque-sanguinaire.md))}
+{s:BDTexte|**Particularités** [[Pathfinder-RPG.pistage|pistage]], [[Pathfinder-RPG.empathie sauvage|empathie sauvage]], [[Pathfinder-RPG.changement de forme (capacité)|changement de forme]] (humain, hybride, et ornithorynque; *[[Pathfinder-RPG.métamorphose|métamorphose]]*), empathie ornithorique ([[ornithorynque|ornithorynques]] et [[ornithorynque sanguinaire|ornithorynques sanguinaires]])}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** rivières chaudes ou tempérées }
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-6)}
-{s:BDTexte|**Trésor** équipement de PNJ (arc court composite ([Force](./../Pathfinder-RPG/Force.md)+2) avec 20 flèches, armure de bois, lance, autres trésors)}
+{s:BDTexte|**Trésor** équipement de PNJ (arc court composite ([[Pathfinder-RPG.Force|Force]]+2) avec 20 flèches, armure de bois, lance, autres trésors)}
 </div>
 #### 
 <div class="BD">
@@ -43,8 +43,8 @@ Categories:
 {s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) ([humain](./../Pathfinder-RPG/sous-type humain.md), [métamorphe](./../Pathfinder-RPG/sous-type métamorphe.md)) de taille M, CM}
-{s:BDTexte|**Init** +3 ; **Sens** électrolocalisation à 9 m (sous l’eau), [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ;[perception](./../Pathfinder-RPG/Perception.md) +6 (+10 sous l'eau)}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] ([[Pathfinder-RPG.sous-type humain|humain]], [[Pathfinder-RPG.sous-type métamorphe|métamorphe]]) de taille M, CM}
+{s:BDTexte|**Init** +3 ; **Sens** électrolocalisation à 9 m (sous l’eau), [[Pathfinder-RPG.vision nocturne|vision nocturne]] ;[[Pathfinder-RPG.Perception|perception]] +6 (+10 sous l'eau)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 13, pris au dépourvu 15 (armure +3, Dex +3, naturelle +2)}
 {s:BDTexte|**pv** 16 (2d10+7)}
@@ -52,26 +52,26 @@ Categories:
 {s:BDTexte|**Capacités défensives** **RD** 10/argent }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 12 m (8 c) }
-{s:BDTexte|**Corps à corps** lance, +6 (1d8+6/19-20), aiguillons, +1 (1d4+1 plus [poison](./../Pathfinder-RPG/poison.md) et lycanthropie)}
+{s:BDTexte|**Corps à corps** lance, +6 (1d8+6/19-20), aiguillons, +1 (1d4+1 plus [[poison]] et lycanthropie)}
 {s:BDTexte|**Distance** arc court composite, +5 (1d6+2/20x3) ou lance, +5 (1d8+3/x3)}
 {s:BDTexte|**Attaques spéciales** ennemi juré (animaux +2)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 16, **Con** 15, **Int** 8, **Sag** 15, **Cha** 11}
 {s:BDTexte|**BBA** +2, **BMO** +5, **DMD** 18}
-{s:BDTexte|**Dons** [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Robustesse](./../Pathfinder-RPG/Robustesse.md), [Attaque spéciale renforcée](./../Pathfinder-RPG/Attaque spéciale renforcée.md)}
-{s:BDTexte|**Compétences** [Escalade](./../Pathfinder-RPG/Escalade.md) +7, [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) +2, [Perception](./../Pathfinder-RPG/Perception.md) +6, [Natation](./../Pathfinder-RPG/Natation.md) +16,[Connaissances (nature) +3](./../Pathfinder-RPG/Connaissances.md), [Survie](./../Pathfinder-RPG/Survie.md) +7 (+8 pour pister),  [Discrétion](./../Pathfinder-RPG/Discrétion.md) +7 }
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]], [[Pathfinder-RPG.Robustesse|Robustesse]], [[Pathfinder-RPG.Attaque spéciale renforcée|Attaque spéciale renforcée]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Escalade|Escalade]] +7, [[Pathfinder-RPG.Diplomatie|Diplomatie]] +2, [[Pathfinder-RPG.Perception|Perception]] +6, [[Pathfinder-RPG.Natation|Natation]] +16,[[Pathfinder-RPG.Connaissances|Connaissances (nature) +3]], [[Pathfinder-RPG.Survie|Survie]] +7 (+8 pour pister),  [[Pathfinder-RPG.Discrétion|Discrétion]] +7 }
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [pistage](./../Pathfinder-RPG/pistage.md), [empathie sauvage](./../Pathfinder-RPG/empathie sauvage.md), [changement de forme](./../Pathfinder-RPG/Changement de forme (capacité).md) (humain, hybride, et ornithorynque; *[métamorphose](./../Pathfinder-RPG/métamorphose.md)*), empathie ornithorique ([ornithorynques](./../Pathfinder-RPG/Ornithorynque.md) et [ornithorynques sanguinaires](./ornithorynque-sanguinaire.md))}
+{s:BDTexte|**Particularités** [[Pathfinder-RPG.pistage|pistage]], [[Pathfinder-RPG.empathie sauvage|empathie sauvage]], [[Pathfinder-RPG.changement de forme (capacité)|changement de forme]] (humain, hybride, et ornithorynque; *[[Pathfinder-RPG.métamorphose|métamorphose]]*), empathie ornithorique ([[ornithorynque|ornithorynques]] et [[ornithorynque sanguinaire|ornithorynques sanguinaires]])}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** rivières chaudes ou tempérées }
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-6)}
-{s:BDTexte|**Trésor** équipement de PNJ (arc court composite ([Force](./../Pathfinder-RPG/Force.md)+2) avec 20 flèches, armure de bois, lance, autres trésors)}
+{s:BDTexte|**Trésor** équipement de PNJ (arc court composite ([[Pathfinder-RPG.Force|Force]]+2) avec 20 flèches, armure de bois, lance, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Électrolocalisation (Ext).** Lorsqu’il est sous l’eau, l’ornithorynque peut
 percevoir les minuscules courants électriques qui déclenchent les
 réflexes musculaires. Cela lui permet de localiser les proies vivantes et
 de les distinguer des objets inanimés. Traitez son électrolocalisation
-comme *[perception de la vie](./../Pathfinder-RPG/Perception de la vie (capacité).md)*, avec une portée de 9 mètres mais ne
+comme *[[Pathfinder-RPG.perception de la vie (capacité)|perception de la vie]]*, avec une portée de 9 mètres mais ne
 fonctionnant que sous l’eau.}
 {s:BDTexte|**Poison (Sur).** Aiguillon — blessure ; *JdS* Vigueur DD 14 ; *fréquence* 1/round pendant 4 rounds ; *effet* 1d4 point de dégâts non létaux ; *guérison* 1 réussite.}
 {s:BDTexte|**Semi-aquatique (Ext).** L’ornithorynque-garou peut retenir sa respiration sous
@@ -83,24 +83,24 @@ l’eau pendant 10 minutes avant de devoir faire des tests de Constitution pour 
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Chauve-souris garou](./../Pathfinder-RPG/Chauve-souris garou.md) || 3
+| [[Chauve-souris garou]] || 3
 |-
-| [Crocodile garou](./../Pathfinder-RPG/Crocodile garou.md) || 3
+| [[Crocodile garou]] || 3
 |-
-| [Loup-garou](./../Pathfinder-RPG/Loup-garou.md) || 2
+| [[Loup-garou]] || 2
 |-
-| [Ours-garou](./../Pathfinder-RPG/Ours-garou.md) || 4
+| [[Ours-garou]] || 4
 |-
-| [Rat-garou](./../Pathfinder-RPG/Rat-garou.md) || 2
+| [[Rat-garou]] || 2
 |-
-| [Requin garou](./../Pathfinder-RPG/Requin garou.md) || 3
+| [[Requin garou]] || 3
 |-
-| [Sanglier-garou](./../Pathfinder-RPG/Sanglier-garou.md) || 2
+| [[Sanglier-garou]] || 2
 |-
-| [Tigre-garou](./../Pathfinder-RPG/Tigre-garou.md) || 4
+| [[Tigre-garou]] || 4
 |}
 </div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Lycanthrope](./../Pathfinder-RPG/Lycanthrope, archétype.md).***</li></ul>*Cette créature svelte et musclé possède le corps d’un homme mais sa fourrure et son visage allongé rappel celui d'un canard. *
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Lycanthrope, archétype|Lycanthrope]].***</li></ul>*Cette créature svelte et musclé possède le corps d’un homme mais sa fourrure et son visage allongé rappel celui d'un canard. *
 
 Sous forme humanoïde, les ornithorynque-garou ressemblent à des gens
 normaux, si ce n’est qu’ils ont tendance à paraître un peu plus

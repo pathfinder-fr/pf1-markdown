@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 4 kg ; **Groupes** [lances](./groupe darmes.md#Lances)
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** [réception](./Caractéristiques des armes.md#RECEPTION), voir texte
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+{s:AE}**Prix** 5 po ; **Poids** 4 kg ; **Groupes** [[Groupe darmes#Lances|lances]]
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** [[Caractéristiques des armes#RECEPTION|réception]], voir texte
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
-Cette lance est pourvue d’une barre d’arrêt qui protège le personnage contre les attaquants. S’il [prépare](./Actions modifiant linitiative.md#PREPARER) sa lance d’arrêt pour recevoir une [charge](./charge.md) et que son attaque réussit, il gagne un bonus de bouclier de +2 à la [CA](./CA.md) contre la créature qui charge jusqu’à son prochain tour.
+Cette lance est pourvue d’une barre d’arrêt qui protège le personnage contre les attaquants. S’il [[Actions modifiant linitiative#PREPARER|prépare]] sa lance d’arrêt pour recevoir une [[charge]] et que son attaque réussit, il gagne un bonus de bouclier de +2 à la [[CA]] contre la créature qui charge jusqu’à son prochain tour.

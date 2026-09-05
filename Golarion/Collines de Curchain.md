@@ -7,6 +7,6 @@ Categories:
 - Varisie
 ---
 
-Les collines de Curchain sont le terrain de chasse de tribus [shoantis](./Shoantis.md) qui vivent dans les collines herbeuse où broutent de grands troupeaux d’aurochs de manière pacifiques. On y trouve également des familles pionniers qui préfèrent qu’on les laisse tranquille.
+Les collines de Curchain sont le terrain de chasse de tribus [[shoantis]] qui vivent dans les collines herbeuse où broutent de grands troupeaux d’aurochs de manière pacifiques. On y trouve également des familles pionniers qui préfèrent qu’on les laisse tranquille.
 
 Les voyageurs qui passent par les collines de Curchain peuvent éprouver des difficultés à se repérer dans ce paysage tant les collines paraissent semblables les unes aux autres. Les superstitieux qui vivent par ici s’ils leurs ouvrent leur porte leur affirmeront qu’il n’y a rien de naturel là-dessous, sans qu’il ne sache s’expliquer pourquoi.

@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Kobold.md) d'un kobold standard.***
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [[Kobold|fiche de créature]] d'un kobold standard.***
 
 Les kobolds sont des faibles et des lâches qui bouillonnent d’une rancune sourde à l’égard du reste du monde, tout particulièrement envers les races qui semblent plus fortes, plus intelligentes ou supérieures à eux de quelque façon que ce soit. Ils revendiquent fièrement leur parenté avec les dragons, mais, derrière toutes leurs fanfaronnades, vivent la comparaison avec leurs glorieux cousins avec un profond sentiment d’impuissance. Bien qu’ils soient travailleurs, intelligents et doués d’un talent naturel pour les appareils mécaniques et l’exploitation minière, ils passent leur vie à nourrir leurs rancunes et leur haine plutôt que de tirer profit de leurs propres dons. En tactique, les kobolds se spécialisent dans les pièges et les embuscades, mais ils apprécient toute méthode leur permettant de blesser les autres sans se mettre en danger. Ils cherchent plus souvent à capturer qu’à tuer, libérant leur frustration sur des victimes sans défense qu’ils traînent jusqu’à leurs repaires oppressants.
 
@@ -30,15 +30,15 @@ Ils considèrent les nains et les elfes comme des rivaux mortels. Ils craignent 
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 en [Dextérité](./Dextérité.md), -4 en [Force](./Force.md), -2 en [Constitution](./Constitution.md).** Les kobolds sont rapides, mais faibles.
-- **Reptilien.** Les kobolds sont des [humanoïdes](./type Humanoïde.md) de sous-type [reptilien](./sous-type reptilien.md).
-- **Taille P.** Les kobolds sont des créatures de [taille P](./taille P.md) qui reçoivent un bonus de taille de +1 à la [CA](./CA.md), un bonus de taille de +1 à leurs [jets d’attaque](./jet dattaque.md), un malus de -1 au [BMO](./BMO.md) et au [DMD](./DMD.md), et un bonus de taille de +4 à leurs tests de [Discrétion](./Discrétion.md).
-- **Vitesse normale.** Les kobolds ont une [vitesse de base](./VD.md) de 9 mètres.
-- **Vision dans le noir.** Les kobolds [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
-- **Armure.** Les kobolds ont un bonus d’[armure naturelle](./CA.md) de +1.
-- **Ingénieux.** Les kobolds gagnent un bonus racial de +2 à leurs tests d’[Artisanat](./Artisanat.md) (pièges), de [Perception](./Perception.md) et de [Profession](./Profession.md) (mineur). [Artisanat](./Artisanat.md) (pièges) et [Discrétion](./Discrétion.md) sont toujours des compétences de classe pour le kobold.
-- **Sensible à la lumière.** Les kobolds sont [éblouis](./Ébloui.md) tant qu'ils se tiennent dans une zone de [lumière vive](./Exploration.md#VISIONLUMIERE).
-- **Langues.** Les kobolds commencent le jeu en parlant le draconique. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi cellesci : commun, commun des profondeurs, gnome et nain.
+- **+2 en [[Dextérité]], -4 en [[Force]], -2 en [[Constitution]].** Les kobolds sont rapides, mais faibles.
+- **Reptilien.** Les kobolds sont des [[type Humanoïde|humanoïdes]] de sous-type [[sous-type reptilien|reptilien]].
+- **Taille P.** Les kobolds sont des créatures de [[taille P]] qui reçoivent un bonus de taille de +1 à la [[CA]], un bonus de taille de +1 à leurs [[jet dattaque|jets d’attaque]], un malus de -1 au [[BMO]] et au [[DMD]], et un bonus de taille de +4 à leurs tests de [[Discrétion]].
+- **Vitesse normale.** Les kobolds ont une [[VD|vitesse de base]] de 9 mètres.
+- **Vision dans le noir.** Les kobolds [[Vision dans le noir (capacité)|voient dans le noir]] à 18 mètres.
+- **Armure.** Les kobolds ont un bonus d’[[CA|armure naturelle]] de +1.
+- **Ingénieux.** Les kobolds gagnent un bonus racial de +2 à leurs tests d’[[Artisanat]] (pièges), de [[Perception]] et de [[Profession]] (mineur). [[Artisanat]] (pièges) et [[Discrétion]] sont toujours des compétences de classe pour le kobold.
+- **Sensible à la lumière.** Les kobolds sont [[ébloui|éblouis]] tant qu'ils se tiennent dans une zone de [[Exploration#VISIONLUMIERE|lumière vive]].
+- **Langues.** Les kobolds commencent le jeu en parlant le draconique. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues parmi cellesci : commun, commun des profondeurs, gnome et nain.
 
 </div>
 
@@ -47,17 +47,17 @@ Ils considèrent les nains et les elfes comme des rivaux mortels. Ils craignent 
 {s:MR}Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux des kobolds standard mais consultez d’abord votre MJ.
 
 <u>*Remplace « armure » :*</u>
-- {s:cs}{s:ISR}**Affinité avec les dragons.** Les [ensorceleurs](./Ensorceleur.md) kobolds de [lignage draconique](./lignage Draconique.md) ou [kobold](./Lignage kobold.md) considèrent leur valeur de [Charisme](./Charisme.md) comme supérieure de 2 points dans le cadre de tous les sorts et capacités de classe d'ensorceleur. Ce trait racial remplace armure.
-- **Écailles de dragon.** Certains kobolds naissent avec des écailles d’une couleur si vive que leur lien à un genre de dragon chromatique semble indéniable. Que cette couleur soit simplement un défaut propre à un seul individu ou une caractéristique partagée par tous les membres d’une tribu, ces kobolds bénéficient d’une résistance qui les rend particulièrement aptes à travailler avec les dragons dont la couleur correspond à celle de leurs écailles. Les kobolds à écailles noires et à écailles vertes ayant ce trait racial gagnent une [résistance](./Résistance (capacité).md) à l’acide de 5. Les kobolds aux écailles bleues ayant ce trait racial gagnent une résistance à l’électricité de 5. Les kobolds à écailles rouges ayant ce trait racial gagnent une résistance au feu de 5. Les kobolds à écailles blanches ayant ce trait racial gagnent une résistance au froid de 5. Ce trait racial remplace celui d’armure.
+- {s:cs}{s:ISR}**Affinité avec les dragons.** Les [[Ensorceleur|ensorceleurs]] kobolds de [[Lignage Draconique]] ou [[Lignage Kobold|kobold]] considèrent leur valeur de [[Charisme]] comme supérieure de 2 points dans le cadre de tous les sorts et capacités de classe d'ensorceleur. Ce trait racial remplace armure.
+- **Écailles de dragon.** Certains kobolds naissent avec des écailles d’une couleur si vive que leur lien à un genre de dragon chromatique semble indéniable. Que cette couleur soit simplement un défaut propre à un seul individu ou une caractéristique partagée par tous les membres d’une tribu, ces kobolds bénéficient d’une résistance qui les rend particulièrement aptes à travailler avec les dragons dont la couleur correspond à celle de leurs écailles. Les kobolds à écailles noires et à écailles vertes ayant ce trait racial gagnent une [[Résistance (capacité)|résistance]] à l’acide de 5. Les kobolds aux écailles bleues ayant ce trait racial gagnent une résistance à l’électricité de 5. Les kobolds à écailles rouges ayant ce trait racial gagnent une résistance au feu de 5. Les kobolds à écailles blanches ayant ce trait racial gagnent une résistance au froid de 5. Ce trait racial remplace celui d’armure.
 
 <u>*Remplace « ingénieux » :*</u>
-- **Ailes de planeur.** Certains kobolds naissent avec des ailes qui, si elles sont trop faibles pour leur permettre de voler réellement, leur permettent de tomber très lentement et sans danger. Un kobold pourvu d’ailes peut utiliser celles-ci pour planer. Il peut faire un test de [Vol](./Vol.md) [DD](./DD.md) 15 pour [tomber](./chute.md) sans danger de n’importe quelle hauteur sans recevoir de dégâts, comme s’il utilisait *[feuille morte](./Feuille morte.md)*. Lorsqu’il ralentit ainsi sa chute, il peut faire un test de Vol supplémentaire DD 15 pour planer, se déplaçant latéralement de 1,5 mètre par tranche de 6 mètres de chute. Ce trait racial remplace ingénieux.
-- **Bouffon.** Certains kobolds ravalent leur fierté et survivent en rampant devant les puissants, en les apaisant et en les amusant. Ceux qui ont ce trait racial gagnent un bonus racial de +2 à leurs tests de [Diplomatie](./Diplomatie.md) et de [Représentation](./Représentation.md). Diplomatie et Représentation sont toujours des compétences de classe pour eux. Ce trait racial remplace ingénieux.
-- **Lien avec les bêtes.** Certains kobolds ont le don de dresser les animaux et les bêtes pour les aider sur et en dehors du champ de bataille. Ceux qui ont ce trait racial gagnent un bonus racial de +2 à leurs tests de [Dressage](./Dressage.md) et d’[Équitation](./Équitation.md). Dressage et Équitation sont toujours des compétences de classe pour eux. Ce trait racial remplace ingénieux.
+- **Ailes de planeur.** Certains kobolds naissent avec des ailes qui, si elles sont trop faibles pour leur permettre de voler réellement, leur permettent de tomber très lentement et sans danger. Un kobold pourvu d’ailes peut utiliser celles-ci pour planer. Il peut faire un test de [[Vol]] [[DD]] 15 pour [[chute|tomber]] sans danger de n’importe quelle hauteur sans recevoir de dégâts, comme s’il utilisait *[[feuille morte]]*. Lorsqu’il ralentit ainsi sa chute, il peut faire un test de Vol supplémentaire DD 15 pour planer, se déplaçant latéralement de 1,5 mètre par tranche de 6 mètres de chute. Ce trait racial remplace ingénieux.
+- **Bouffon.** Certains kobolds ravalent leur fierté et survivent en rampant devant les puissants, en les apaisant et en les amusant. Ceux qui ont ce trait racial gagnent un bonus racial de +2 à leurs tests de [[Diplomatie]] et de [[Représentation]]. Diplomatie et Représentation sont toujours des compétences de classe pour eux. Ce trait racial remplace ingénieux.
+- **Lien avec les bêtes.** Certains kobolds ont le don de dresser les animaux et les bêtes pour les aider sur et en dehors du champ de bataille. Ceux qui ont ce trait racial gagnent un bonus racial de +2 à leurs tests de [[Dressage]] et d’[[Équitation]]. Dressage et Équitation sont toujours des compétences de classe pour eux. Ce trait racial remplace ingénieux.
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -66,37 +66,37 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-{s:MR}**[Alchimiste](./Alchimiste.md).** L’alchimiste peut créer 1/2 [bombe](./Alchimiste.md#BOMBES) de plus par jour.
+{s:MR}**[[Alchimiste]].** L’alchimiste peut créer 1/2 [[Alchimiste#BOMBES|bombe]] de plus par jour.
 
-{s:MR}**[Barde](./Barde.md).** Le barde considère son niveau comme plus haut de 1/2 niveau quand il s’agit de déterminer les effets de la [représentation bardique`](./Barde.md#REPRESENTATIONBARDIQUE) de [fascination](./Représentations.md#FASCINATION).
+{s:MR}**[[Barde]].** Le barde considère son niveau comme plus haut de 1/2 niveau quand il s’agit de déterminer les effets de la [[Barde#REPRESENTATIONBARDIQUE|représentation bardique`]] de [[Représentations#FASCINATION|fascination]].
 
-{s:MR}**[Chevalier](./Chevalier.md).** Le chevalier rajoute 1,5 mètre (jusqu’à 4,5 mètres maximum) à la vitesse de sa [monture](./Chevalier.md#MONTURE) quand elle [charge](./charge.md) ou [bat en retraite](./battre en retraite.md).
+{s:MR}**[[Chevalier]].** Le chevalier rajoute 1,5 mètre (jusqu’à 4,5 mètres maximum) à la vitesse de sa [[Chevalier#MONTURE|monture]] quand elle [[charge]] ou [[battre en retraite|bat en retraite]].
 
-{s:MR}**[Conjurateur](./Conjurateur.md).** Le conjurateur rajoute +1/4 à son bonus de [protection d’allié](./Conjurateur.md#PROTECTIONDALLIE) (maximum de +2).
+{s:MR}**[[Conjurateur]].** Le conjurateur rajoute +1/4 à son bonus de [[Conjurateur#PROTECTIONDALLIE|protection d’allié]] (maximum de +2).
 
-{s:MR}**[Druide](./Druide.md).** Le druide rajoute +1/2 à son bonus d’[empathie sauvage](./Druide.md#EMPATHIESAUVAGE).
+{s:MR}**[[Druide]].** Le druide rajoute +1/2 à son bonus d’[[Druide#EMPATHIESAUVAGE|empathie sauvage]].
 
-{s:MR}**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur choisit des dégâts d’acide, de froid, d’électricité ou de feu. Il rajoute +1/2 point de dégâts de l’énergie choisie aux sorts infligeant des dégâts de cette énergie.
+{s:MR}**[[Ensorceleur]].** L’ensorceleur choisit des dégâts d’acide, de froid, d’électricité ou de feu. Il rajoute +1/2 point de dégâts de l’énergie choisie aux sorts infligeant des dégâts de cette énergie.
 
-{s:MR}**[Guerrier](./Guerrier.md).** Le guerrier rajoute +1/2 à ses jets de dégâts avec une attaque d’arme contre un adversaire qu’il [prend en tenaille](./prise en tenaille.md) ou qui est privé de son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md).
+{s:MR}**[[Guerrier]].** Le guerrier rajoute +1/2 à ses jets de dégâts avec une attaque d’arme contre un adversaire qu’il [[prise en tenaille|prend en tenaille]] ou qui est privé de son bonus de [[Dextérité]] à la [[CA]].
 
-{s:MR}**[Magus](./Magus.md).** La magus rajoute un bonus de +1/2 à ses tests de [concentration](./concentration.md) pour incanter sur la défensive.
+{s:MR}**[[Magus]].** La magus rajoute un bonus de +1/2 à ses tests de [[concentration]] pour incanter sur la défensive.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}**[Moine](./Moine.md).** Le moine rajoute +1/3 au bonus de [CA](./CA.md) de sa [capacité de classe](./Moine.md#BONUSCA).
+{s:MR}**[[Moine]].** Le moine rajoute +1/3 au bonus de [[CA]] de sa [[Moine#BONUSCA|capacité de classe]].
 
-{s:MR}**[Oracle](./Oracle.md).** L’oracle rajoute +1/4 au bonus d’armure ou d’armure naturelle que lui accordent les sorts d’oracle qu’il lance sur lui-même.
+{s:MR}**[[Oracle]].** L’oracle rajoute +1/4 au bonus d’armure ou d’armure naturelle que lui accordent les sorts d’oracle qu’il lance sur lui-même.
 
-{s:MR}**[Pistolier](./Pistolier.md).** Le pistolier rajoute +1/4 au bonus d’esquive à la CA que lui accorde la capacité de classe [dérobade](./Pistolier.md#DEROBADE) (maximum de +4).
+{s:MR}**[[Pistolier]].** Le pistolier rajoute +1/4 au bonus d’esquive à la CA que lui accorde la capacité de classe [[Pistolier#DEROBADE|dérobade]] (maximum de +4).
 
-{s:MR}**[Prêtre](./Prêtre.md).** Le prêtre rajoute +1 aux dégâts de [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) infligés aux créatures qui sont privées de leur bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) (qu’elles en aient un ou non).
+{s:MR}**[[Prêtre]].** Le prêtre rajoute +1 aux dégâts de [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] infligés aux créatures qui sont privées de leur bonus de [[Dextérité]] à la [[CA]] (qu’elles en aient un ou non).
 
-{s:MR}**[Rôdeur](./Rôdeur.md).** Le rôdeur choisit +1/4 d’adversaires lorsqu’il utilise [pacte du chasseur](./Rôdeur.md#PACTEDUCHASSEUR) pour accorder un bonus à ses alliés. Toutes les créatures choisies doivent être du même type.
+{s:MR}**[[Rôdeur]].** Le rôdeur choisit +1/4 d’adversaires lorsqu’il utilise [[Rôdeur#PACTEDUCHASSEUR|pacte du chasseur]] pour accorder un bonus à ses alliés. Toutes les créatures choisies doivent être du même type.
 
-{s:MR}**[Roublard](./Roublard.md).** Le roublard rajoute +1/2 au bonus à la [CA](./CA.md) de [sens des pièges](./Roublard.md#SENSDESPIEGES).
+{s:MR}**[[Roublard]].** Le roublard rajoute +1/2 au bonus à la [[CA]] de [[Roublard#SENSDESPIEGES|sens des pièges]].
 
-{s:MR}**[Sorcière](./Sorcière.md).** La sorcière rajoute +1,5 mètre à la portée à laquelle son [familier](./Sorcière.md#FAMILIERDELASORCIERE) lui fait bénéficier du don [Vigilance](./Vigilance.md) (maximum de +6 mètres).
+{s:MR}**[[Sorcière]].** La sorcière rajoute +1,5 mètre à la portée à laquelle son [[Sorcière#FAMILIERDELASORCIERE|familier]] lui fait bénéficier du don [[Vigilance]] (maximum de +6 mètres).
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -112,70 +112,70 @@ Voici les options accessibles aux kobolds, d’autres races adaptées peuvent s�
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Aspect draconique](./Aspect draconique.md) || <sup>MR</sup> || [Kobold](./Kobold (race).md) || Résistance 5 à un type d'énergie ou +1 à l'armure naturelle si possède déjà le trait écailles de dragon
+| [[Aspect draconique]] || <sup>MR</sup> || [[kobold (race)|Kobold]] || Résistance 5 à un type d'énergie ou +1 à l'armure naturelle si possède déjà le trait écailles de dragon
 |-
-| &emsp;[Magie draconique](./Magie draconique.md) || <sup>CM</sup> || [Aspect draconique](./Aspect draconique.md), [kobold](./Kobold (race).md) || Gain de nouveaux pouvoirs magiques en fonction de l'héritage draconique choisi
+| &emsp;[[Magie draconique]] || <sup>CM</sup> || [[Aspect draconique]], [[Kobold (race)|kobold]] || Gain de nouveaux pouvoirs magiques en fonction de l'héritage draconique choisi
 |-
-| &emsp;[Plané draconique](./Plané draconique.md) || <sup>MR</sup> || [Kobold](./Kobold (race).md), [Aspect draconique](./Aspect draconique.md) || +2 aux jets de sauvegarde contre le sommeil et la paralysie, gagne une paire d'ailes pour planer
+| &emsp;[[Plané draconique]] || <sup>MR</sup> || [[kobold (race)|Kobold]], [[Aspect draconique]] || +2 aux jets de sauvegarde contre le sommeil et la paralysie, gagne une paire d'ailes pour planer
 |-
-| &emsp;[Souffle draconique](./Souffle draconique.md) || <sup>MR</sup> || [Kobold](./Kobold (race).md), [Aspect draconique](./Aspect draconique.md) || +2 aux jets de sauvegarde contre le sommeil et la paralysie, gain d'une attaque de souffle draconique
+| &emsp;[[Souffle draconique]] || <sup>MR</sup> || [[kobold (race)|Kobold]], [[Aspect draconique]] || +2 aux jets de sauvegarde contre le sommeil et la paralysie, gain d'une attaque de souffle draconique
 |-
-| &emsp;&emsp;[Modèle draconique](./Modèle draconique.md) || <sup>MR</sup> || [Kobold](./Kobold (race).md), [Aspect draconique](./Aspect draconique.md), [Plané draconique](./Plané draconique.md), [Souffle draconique](./Souffle draconique.md), niveau 10 || +2 aux jets de sauvegarde contre le sommeil et la paralysie, améliore les attaques de souffle
+| &emsp;&emsp;[[Modèle draconique]] || <sup>MR</sup> || [[kobold (race)|Kobold]], [[Aspect draconique]], [[Plané draconique]], [[Souffle draconique]], niveau 10 || +2 aux jets de sauvegarde contre le sommeil et la paralysie, améliore les attaques de souffle
 
 |- CLASS="premier"
-| [Embusqueur kobold](./Embusqueur kobold.md) || <sup>MR</sup> || [Kobold](./Kobold (race).md), 4 rangs en [Discrétion](./Discrétion.md) || Déplacements discrets à vitesse normale sans malus, course et charge discrète avec moins de pénalité
+| [[Embusqueur kobold]] || <sup>MR</sup> || [[kobold (race)|Kobold]], 4 rangs en [[Discrétion]] || Déplacements discrets à vitesse normale sans malus, course et charge discrète avec moins de pénalité
 
 |- CLASS="premier"
-| [Groupe embusqué](./Groupe embusqué.md) || <sup>*ISR*</sup> || [BBA](./BBA.md) +1, [Kobold](./Kobold (race).md) || Si le personnage et son allié peuvent agir lors du round de surprise, ils peuvent effectuer une action simple et de mouvement
+| [[Groupe embusqué]] || <sup>*ISR*</sup> || [[BBA]] +1, [[kobold (race)|Kobold]] || Si le personnage et son allié peuvent agir lors du round de surprise, ils peuvent effectuer une action simple et de mouvement
 
 |- CLASS="premier"
-| [Monte de slurk](./Monte de slurk.md)* || <sup>CM</sup> || [Kobold](./Kobold (race).md) || Le personnage peut monter un slurk
+| [[Monte de slurk]]* || <sup>CM</sup> || [[Kobold (race)|Kobold]] || Le personnage peut monter un slurk
 
 |- CLASS="premier"
-| [Queue de terreur](./Queue de terreur.md) || <sup>MR</sup> || [Kobold](./Kobold (race).md), BBA+1 || Gain d'une attaque de queue, maniement des accessoires caudaux kobolds
+| [[Queue de terreur]] || <sup>MR</sup> || [[kobold (race)|Kobold]], BBA+1 || Gain d'une attaque de queue, maniement des accessoires caudaux kobolds
 
 |- CLASS="premier"
-| [Sniper kobold](./Sniper kobold.md) || <sup>MR</sup> || [Kobold](./Kobold (race).md), 1 rang en Discrétion || La pénalité au test de Discrétion des tirs embusqués est diminuée de moitié
+| [[Sniper kobold]] || <sup>MR</sup> || [[kobold (race)|Kobold]], 1 rang en Discrétion || La pénalité au test de Discrétion des tirs embusqués est diminuée de moitié
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Dragon jappeur (barde)](./Dragon jappeur (barde).md) *(CM)*
-- [Guérillero (pistolier)](./Guérillero (pistolier).md) *(MR)*
-- [Trappeur alchimique (alchimiste)](./Trappeur alchimique (alchimiste).md) *(CM)*
+- [[Dragon jappeur (barde)]] *(CM)*
+- [[Guérillero (pistolier)]] *(MR)*
+- [[Trappeur alchimique (alchimiste)]] *(CM)*
 
 #### Équipement
-- [Accessoires caudaux kobolds](./accessoires caudaux kobolds (arme).md) *(MR)*
-- [Charbon alchimique (cendres aveuglantes)](./Charbon alchimique (objet).md) *(MR)*
-- [Charbon alchimique (fumée asphyxiante)](./Charbon alchimique (objet).md) *(MR)*
-- [Sifflet des grottes](./Sifflet des grottes (objet).md) *(MR)*
+- [[accessoires caudaux kobolds (arme)|Accessoires caudaux kobolds]] *(MR)*
+- [[Charbon alchimique (objet)|Charbon alchimique (cendres aveuglantes)]] *(MR)*
+- [[Charbon alchimique (objet)|Charbon alchimique (fumée asphyxiante)]] *(MR)*
+- [[Sifflet des grottes (objet)|Sifflet des grottes]] *(MR)*
 
 #### Objets magiques
-- [Gants de décombres](./Gants de décombres.md) *(MR)*
-- [Levier à vibrations](./Levier à vibrations.md) *(ISR)*
-- [Sacoche du piégeur](./Sacoche du piégeur.md) *(MR)*
+- [[Gants de décombres]] *(MR)*
+- [[Levier à vibrations]] *(ISR)*
+- [[Sacoche du piégeur]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Options de classe
 - Compagnons animaux du druide
-  - [Python de selle](./liste des compagnons animaux.md#Pythondeselle) (aussi accessible aux [chevaliers](./Chevalier.md) kobolds) *(CM)*
-  - [Salamandre cavernicole](./liste des compagnons animaux.md#Salamandrecavernicole) (aussi accessible aux [chevaliers](./Chevalier.md) kobolds) *(CM)*
+  - [[Liste des compagnons animaux#Pythondeselle|Python de selle]] (aussi accessible aux [[Chevalier|chevaliers]] kobolds) *(CM)*
+  - [[Liste des compagnons animaux#Salamandrecavernicole|Salamandre cavernicole]] (aussi accessible aux [[Chevalier|chevaliers]] kobolds) *(CM)*
 - Lignages d'ensorceleur
-  - [Lignage Kobold](./Lignage kobold.md) *(MR)*
+  - [[Lignage Kobold]] *(MR)*
 - Pièges du rôdeur
-  - [Blaireau moisi et chute de rocher](./Exemples de pièges.md#Blaireaumoisietchutederocher) *(CM)*
-  - [Chute d'acide](./Exemples de pièges.md#Chutedacide) *(CM)*
-  - [Chute de bûche](./Exemples de pièges.md#Chutedebûche) *(CM)*
-  - [Fosse à fumier de dragon](./Exemples de pièges.md#Fosseàfumierdedragon) *(CM)*
-  - [Lance ophidienne](./Exemples de pièges.md#Lanceophidienne) *(CM)*
-  - [Piège de feu draconique](./Exemples de pièges.md#Piègedefeudraconique) *(CM)*
-  - [Piège de poussière collante](./Exemples de pièges.md#Piègedepoussièrecollante) *(CM)*
+  - [[Exemples de pièges#Blaireaumoisietchutederocher|Blaireau moisi et chute de rocher]] *(CM)*
+  - [[Exemples de pièges#Chutedacide|Chute d'acide]] *(CM)*
+  - [[Exemples de pièges#Chutedebûche|Chute de bûche]] *(CM)*
+  - [[Exemples de pièges#Fosseàfumierdedragon|Fosse à fumier de dragon]] *(CM)*
+  - [[Exemples de pièges#Lanceophidienne|Lance ophidienne]] *(CM)*
+  - [[Exemples de pièges#Piègedefeudraconique|Piège de feu draconique]] *(CM)*
+  - [[Exemples de pièges#Piègedepoussièrecollante|Piège de poussière collante]] *(CM)*
 
 #### Sorts
-- [Amélioration de piège](./Amélioration de piège.md) *(MR)*
-- [Creuser un passage](./Creuser un passage.md) *(ISR)*
+- [[Amélioration de piège]] *(MR)*
+- [[Creuser un passage]] *(ISR)*
 
 </td></tr></table>
 

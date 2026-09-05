@@ -13,78 +13,78 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Magus](./Magus.md) 5, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 4, [Spi](./Spirite.md) 5
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
 **Cible ou Cibles** voir texte
-**Durée** [concentration](./Présentation des sorts.md#DUREE) (jusqu’à 1 [round](./round.md)/[niveau](./niveau.md)) ou [instantanée](./instantanée.md) (voir texte)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE), voir texte) ; **Résistance à la magie** oui ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE), voir texte)
+**Durée** [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/[[niveau]]) ou [[instantanée]] (voir texte)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte)
 ---
-Cette incantation permet de déplacer des objets ou des créatures à distance, juste en se [concentrant](./concentration.md). Selon la version choisie, le sort génère une force graduelle, une violente poussée, ou permet d’exécuter des manœuvres de combat.
+Cette incantation permet de déplacer des objets ou des créatures à distance, juste en se [[concentration|concentrant]]. Selon la version choisie, le sort génère une force graduelle, une violente poussée, ou permet d’exécuter des manœuvres de combat.
 
-**Force graduelle.** Cette version du sort permet de déplacer un objet pesant jusqu’à 12,5 kg par [niveau de lanceur de sorts](./NLS.md) (jusqu’à un maximum de 187,5 kg au [niveau](./niveau.md) 15) et de lui faire parcourir un maximum de six mètres par [round](./round.md). Une créature peut annuler cet effet s’il vise l’un de ses objets en réussissant un jet de [Volonté](./Volonté.md) ou un [test de résistance à la magie](./test de résistance à la magie.md).
+**Force graduelle.** Cette version du sort permet de déplacer un objet pesant jusqu’à 12,5 kg par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 187,5 kg au [[niveau]] 15) et de lui faire parcourir un maximum de six mètres par [[round]]. Une créature peut annuler cet effet s’il vise l’un de ses objets en réussissant un jet de [[Volonté]] ou un [[test de résistance à la magie]].
 
-Cette version du sort dure 1 [round](./round.md) par [niveau de lanceur de sorts](./NLS.md) mais cesse prématurément si le personnage arrête de se [concentrer](./concentration.md). Il peut déplacer le poids horizontalement, verticalement ou en oblique mais il ne peut pas l’emmener au-delà des limites de portée du sort (sans quoi ce dernier s’achève instantanément). Si le lanceur de sorts cesse de se [concentrer](./concentration.md), volontairement ou non, l’objet s’immobilise ou tombe.
+Cette version du sort dure 1 [[round]] par [[NLS|niveau de lanceur de sorts]] mais cesse prématurément si le personnage arrête de se [[concentration|concentrer]]. Il peut déplacer le poids horizontalement, verticalement ou en oblique mais il ne peut pas l’emmener au-delà des limites de portée du sort (sans quoi ce dernier s’achève instantanément). Si le lanceur de sorts cesse de se [[concentration|concentrer]], volontairement ou non, l’objet s’immobilise ou tombe.
 
-Le personnage peut manipuler un objet par *télékinésie* comme s’il le tenait en main. Il peut donc abaisser un levier, tirer sur une corde, tourner une clef dans une serrure, etc. à condition, bien sûr, que la force requise entre dans les limites imposées par le sort. Le personnage peut également défaire des nœuds simples, mais une activité qui demande une telle dextérité nécessite un test d’[Intelligence](./Intelligence.md) [DD](./DD.md) 15.
+Le personnage peut manipuler un objet par *télékinésie* comme s’il le tenait en main. Il peut donc abaisser un levier, tirer sur une corde, tourner une clef dans une serrure, etc. à condition, bien sûr, que la force requise entre dans les limites imposées par le sort. Le personnage peut également défaire des nœuds simples, mais une activité qui demande une telle dextérité nécessite un test d’[[Intelligence]] [[DD]] 15.
 
-**Manœuvres de combat.** Une fois par [round](./round.md), on peut utiliser *télékinésie* pour exécuter une [bousculade](./bousculade.md), un [désarmement](./désarmement.md), une [lutte](./lutte.md) (ce qui inclut une immobilisation) ou un [croc-en-jambe](./croc-en-jambe.md). Ces actions sont résolues de façon normale mais elles ne provoquent pas d’[attaque d’opportunité](./attaque dopportunité.md). Le personnage utilise son [niveau de lanceur de sorts](./NLS.md) à la place de son [bonus de manœuvre offensive](./BMO.md) et y ajoute son bonus d’[Intelligence](./Intelligence.md) (dans le cas d’un [magicien](./Magicien.md)) ou de [Charisme](./Charisme.md) (dans le cas d’un [ensorceleur](./Ensorceleur.md)) à la place de son modificateur de [Force](./Force.md) ou de [Dextérité](./Dextérité.md). Nul [jet de sauvegarde](./jet de sauvegarde.md) n’est permis, mais la [résistance à la magie](./RM.md) s’applique normalement. Cette version du sort dure 1 [round](./round.md) par [niveau de lanceur de sorts](./NLS.md) mais elle prend fin si le personnage cesse de se [concentrer](./concentration.md).
+**Manœuvres de combat.** Une fois par [[round]], on peut utiliser *télékinésie* pour exécuter une [[bousculade]], un [[désarmement]], une [[lutte]] (ce qui inclut une immobilisation) ou un [[croc-en-jambe]]. Ces actions sont résolues de façon normale mais elles ne provoquent pas d’[[attaque dopportunité|attaque d’opportunité]]. Le personnage utilise son [[NLS|niveau de lanceur de sorts]] à la place de son [[BMO|bonus de manœuvre offensive]] et y ajoute son bonus d’[[Intelligence]] (dans le cas d’un [[magicien]]) ou de [[Charisme]] (dans le cas d’un [[ensorceleur]]) à la place de son modificateur de [[Force]] ou de [[Dextérité]]. Nul [[jet de sauvegarde]] n’est permis, mais la [[RM|résistance à la magie]] s’applique normalement. Cette version du sort dure 1 [[round]] par [[NLS|niveau de lanceur de sorts]] mais elle prend fin si le personnage cesse de se [[concentration|concentrer]].
 
-**Poussée subite.** Toute l’énergie du sort peut également être dépensée en un seul [round](./round.md), de manière à projeter un ou plusieurs objets ou créatures (quinze au maximum) qui doivent être distantes de moins de neuf mètres les unes des autres en direction d’une cible à une distance maximale de trois mètres par [niveau de lanceur de sorts](./NLS.md). Le personnage peut ainsi projeter un total de 12,5 kg par [niveau de lanceur de sorts](./NLS.md) (187,5 kg au [niveau](./niveau.md) 15).
+**Poussée subite.** Toute l’énergie du sort peut également être dépensée en un seul [[round]], de manière à projeter un ou plusieurs objets ou créatures (quinze au maximum) qui doivent être distantes de moins de neuf mètres les unes des autres en direction d’une cible à une distance maximale de trois mètres par [[NLS|niveau de lanceur de sorts]]. Le personnage peut ainsi projeter un total de 12,5 kg par [[NLS|niveau de lanceur de sorts]] (187,5 kg au [[niveau]] 15).
 
-Le personnage doit réussir un [jet d’attaque](./jet dattaque.md) pour toucher sa cible. Il en effectue un par créature ou projectile, en utilisant son [bonus de base à l’attaque](./BBA.md) + son modificateur d’[Intelligence](./Intelligence.md) (pour un [magicien](./Magicien.md)) ou de [Charisme](./Charisme.md) (pour un [ensorceleur](./Ensorceleur.md)). Les armes infligent des dégâts normaux (sans bonus de [Force](./Force.md), sachant que les flèches et les carreaux infligent les mêmes dégâts qu’une dague de leur taille quand ils sont utilisés ainsi). Les dégâts occasionnés par les autres objets vont de 1 point par tranche de 12,5 kg (pour un projectile peu solide) à 1d6 points tous les 12,5 kg (pour les objets plus denses). Les objets et les créatures qui ratent leur cible atterrissent dans une case adjacente à celle de leur cible.
+Le personnage doit réussir un [[jet dattaque|jet d’attaque]] pour toucher sa cible. Il en effectue un par créature ou projectile, en utilisant son [[BBA|bonus de base à l’attaque]] + son modificateur d’[[Intelligence]] (pour un [[magicien]]) ou de [[Charisme]] (pour un [[ensorceleur]]). Les armes infligent des dégâts normaux (sans bonus de [[Force]], sachant que les flèches et les carreaux infligent les mêmes dégâts qu’une dague de leur taille quand ils sont utilisés ainsi). Les dégâts occasionnés par les autres objets vont de 1 point par tranche de 12,5 kg (pour un projectile peu solide) à 1d6 points tous les 12,5 kg (pour les objets plus denses). Les objets et les créatures qui ratent leur cible atterrissent dans une case adjacente à celle de leur cible.
 
-Le personnage peut aussi lancer des créatures dont le poids le permet mais elles ont droit à un jet de [Volonté](./Volonté.md) et à un [test de résistance à la magie](./test de résistance à la magie.md) (tout comme celles auxquelles il voudrait arracher un objet tenu en main).
+Le personnage peut aussi lancer des créatures dont le poids le permet mais elles ont droit à un jet de [[Volonté]] et à un [[test de résistance à la magie]] (tout comme celles auxquelles il voudrait arracher un objet tenu en main).
 
 Si une créature est lancée contre un obstacle rigide, elle subit autant de dégâts que si elle venait d’effectuer une chute de trois mètres (1d6 points).
 
 ### Version mythique
 {s:CMy}
-La durée du sort change et passe à 1 round par niveau. Le personnage peut réaliser une [action de mouvement](./Action de mouvement.md) pour utiliser les effets de force graduelle ou de manœuvre offensive du sort.
+La durée du sort change et passe à 1 round par niveau. Le personnage peut réaliser une [[action de mouvement]] pour utiliser les effets de force graduelle ou de manœuvre offensive du sort.
 
-Lorsqu’il utilise la force graduelle, il peut déplacer un nombre maximum d’objets égal à son [grade](./Grade.md). Ces objets doivent se situer sur une même case et leur poids total ne doit pas dépasser la limite imposée par le sort. L’utilisation de l’effet de poussée subite met fin au sort, mais la restriction de poids s’élève à 25 kilogrammes par [niveau de lanceur de sorts](./NLS.md) (375 kilogrammes maximum).
+Lorsqu’il utilise la force graduelle, il peut déplacer un nombre maximum d’objets égal à son [[grade]]. Ces objets doivent se situer sur une même case et leur poids total ne doit pas dépasser la limite imposée par le sort. L’utilisation de l’effet de poussée subite met fin au sort, mais la restriction de poids s’élève à 25 kilogrammes par [[NLS|niveau de lanceur de sorts]] (375 kilogrammes maximum).
 
 
 
 ((({s:sortssimilaires|télékinésie}
-## [Manœuvre télékinétique](./Manœuvre-télékinétique.md)
-{s:AO}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Magus](./Magus.md) 4,
-[Psy](./Psychiste.md) 3, [Spi](./Spirite.md) 4
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)
+## [[Manœuvre télékinétique]]
+{s:AO}**École** [[Transmutation]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[magus]] 4,
+[[psychiste|Psy]] 3, [[spirite|Spi]] 4
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)
 **Cible** 1 créature
-**Durée** concentration (jusqu’à 1 [round](./round.md)/niveau)
+**Durée** concentration (jusqu’à 1 [[round]]/niveau)
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[télékinésie](./Télékinésie.md)* mais sert seulement à effectuer une manœuvre offensive de [bousculade](./Manœuvres offensives.md#BOUSCULADE), de [désarmement](./Manœuvres offensives.md#DESARMEMENT), d’[entraînement](./Manœuvres offensives.md#ENTRAINEMENT), de [lutte](./Manœuvres offensives.md#LUTTE) (y compris d’immobilisation), de [repositionnement](./Manœuvres offensives.md#REPOSITIONNEMENT), de [subtilisation](./Manœuvres offensives.md#SUBTILISATION) ou de [croc-en-jambe](./Manœuvres offensives.md#CROCENJAMBE).
+Ce sort fonctionne comme *[[télékinésie]]* mais sert seulement à effectuer une manœuvre offensive de [[Manœuvres offensives#BOUSCULADE|bousculade]], de [[Manœuvres offensives#DESARMEMENT|désarmement]], d’[[Manœuvres offensives#ENTRAINEMENT|entraînement]], de [[Manœuvres offensives#LUTTE|lutte]] (y compris d’immobilisation), de [[Manœuvres offensives#REPOSITIONNEMENT|repositionnement]], de [[Manœuvres offensives#SUBTILISATION|subtilisation]] ou de [[Manœuvres offensives#CROCENJAMBE|croc-en-jambe]].
 
-## [Télékinésie martiale](./Télékinésie martiale.md)
-{s:regional|Vudrani|Vudrains|vudrains}{s:cs}{s:ISR}**École** [Évocation](./Évocation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Magus](./Magus.md) 4, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 3, [Spi](./Spirite.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))
+## [[Télékinésie martiale]]
+{s:regional|Vudrani|Vudrains|vudrains}{s:cs}{s:ISR}**École** [[Évocation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 3, [[Spirite|Spi]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
 **Cible ou Cibles** voir texte
 **Durée** instantanée
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE), voir texte) ; **Résistance à la magie** oui ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE), voir texte)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte)
 ---
-Le personnage mêle le pouvoir de son esprit et de son corps pour exercer une force au-delà de sa portée. Ce sort fonctionne comme la version manœuvre offensive de *[télékinésie](./Télékinésie.md)*, excepté les précisions ci-dessus. Autrement, le personnage peut choisir d'infliger une [attaque à mains nues](./Actions simples.md#ATTAQUESAMAINSNUES) télékinétique avec ce sort, en utilisant ses propres dégâts d'attaque à mains nues et en appliquant le modificateur de sa caractéristique d'incantation aux dégâts à la place de son modificateur de [Force](./Force.md).
+Le personnage mêle le pouvoir de son esprit et de son corps pour exercer une force au-delà de sa portée. Ce sort fonctionne comme la version manœuvre offensive de *[[télékinésie]]*, excepté les précisions ci-dessus. Autrement, le personnage peut choisir d'infliger une [[Actions simples#ATTAQUESAMAINSNUES|attaque à mains nues]] télékinétique avec ce sort, en utilisant ses propres dégâts d'attaque à mains nues et en appliquant le modificateur de sa caractéristique d'incantation aux dégâts à la place de son modificateur de [[Force]].
 
-## [Estoc sonore](./Estoc sonore.md)
-{s:UM}**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[son](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Psy](./Psychiste.md) 5
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))
+## [[Estoc sonore]]
+{s:UM}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 5
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
 **Cible** voir texte
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE)) ou aucun (voir texte) ; **Résistance à la magie** oui ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE), voir texte)
+**Durée** [[instantanée]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ou aucun (voir texte) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]], voir texte)
 ---
-Le personnage produit une vague sonore qui emporte les créatures et les objets loin de lui, comme la version de poussée subite de la *[télékinésie](./Télékinésie.md)*. Le personnage peut repousser un objet ou une créature par [niveau](./niveau.md) de lanceur de sorts (15 au maximum). Les cibles s'envolent en ligne droite à l'opposé du personnage. Toutes les cibles repoussées doivent se trouver à moins de 3 mètres (2 {s:c}) les unes des autres. Le personnage peut repousser un total de 10 kilos par [niveau de lanceur de sorts](./NLS.md) (150 kilos au maximum au [niveau](./niveau.md) 15).
+Le personnage produit une vague sonore qui emporte les créatures et les objets loin de lui, comme la version de poussée subite de la *[[télékinésie]]*. Le personnage peut repousser un objet ou une créature par [[niveau]] de lanceur de sorts (15 au maximum). Les cibles s'envolent en ligne droite à l'opposé du personnage. Toutes les cibles repoussées doivent se trouver à moins de 3 mètres (2 {s:c}) les unes des autres. Le personnage peut repousser un total de 10 kilos par [[NLS|niveau de lanceur de sorts]] (150 kilos au maximum au [[niveau]] 15).
 
-Le personnage peut utiliser ce sort pour lancer un objet ou une créature vers une cible donnée. Pour toucher la cible, il doit réussir un [jet d'attaque](./jet dattaque.md) (une par créature ou objet lancé). Il utilise son [bonus de base à l'attaque](./BBA.md) + modificateur d'[intelligence](./Intelligence.md) (si c'est un [magicien](./Magicien.md)) ou de [charisme](./Charisme.md) (si c'est un [barde](./Barde.md) ou un [ensorceleur](./Ensorceleur.md)). Les [armes](./Tableau récapitulatif des armes.md) projetées infligent des dégâts ordinaires (sans bonus de [force](./Force.md)). Notez que les flèches ou les carreaux infligent les mêmes dégâts qu'une dague de leur taille si on les utilise ainsi. Les autres objets infligent entre 1 point de dégâts pour 10 kilos (pour les objets les moins dangereux) à 1d6 points pour 10 kilos (pour les objets durs et denses). Les objets et les créatures qui ratent leur cible atterrissent dans une case adjacente.
+Le personnage peut utiliser ce sort pour lancer un objet ou une créature vers une cible donnée. Pour toucher la cible, il doit réussir un [[jet dattaque|jet d'attaque]] (une par créature ou objet lancé). Il utilise son [[BBA|bonus de base à l'attaque]] + modificateur d'[[intelligence]] (si c'est un [[magicien]]) ou de [[charisme]] (si c'est un [[barde]] ou un [[ensorceleur]]). Les [[Tableau récapitulatif des armes|armes]] projetées infligent des dégâts ordinaires (sans bonus de [[force]]). Notez que les flèches ou les carreaux infligent les mêmes dégâts qu'une dague de leur taille si on les utilise ainsi. Les autres objets infligent entre 1 point de dégâts pour 10 kilos (pour les objets les moins dangereux) à 1d6 points pour 10 kilos (pour les objets durs et denses). Les objets et les créatures qui ratent leur cible atterrissent dans une case adjacente.
 
-Le personnage peut projeter une créature qui rentre dans les limites de poids accordées mais elle a droit à un [jet de sauvegarde](./jet de sauvegarde.md) pour annuler l'effet (et sa résistance à la magie fonctionne), tout comme pour les objets tenus.
+Le personnage peut projeter une créature qui rentre dans les limites de poids accordées mais elle a droit à un [[jet de sauvegarde]] pour annuler l'effet (et sa résistance à la magie fonctionne), tout comme pour les objets tenus.
 
 Si une créature est projetée contre une surface solide, elle reçoit les mêmes dégâts que si elle était tombée de 3 mètres (1d6).
 )))

@@ -4,8 +4,8 @@ Title: Quelque chose trouble la surface du marais
 LastModified: 2010-10-08 11:38
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du premier chapitre : "[Ripples in the Fen](http://paizo.com/pathfinder/tales/serial/v5748dyo5lbgk)" de la nouvelle "Le Gardien du Marais" d'Amber E. Scott. Illustration de KyuShik Shin.*
 
 Méfiez-vous des écailleux. Rhyn avait entendu cette expression dans la bouche de ses parents et des autres anciens du village pendant toute sa vie, et eux-mêmes l'avaient entendue dans la bouche de leurs parents, et ainsi de suite aussi loin que tous pouvaient se souvenir. Personne ne savait qui avait été le premier à dire cette expression mais Rhyn savait que cette personne avait dû vivre dans un marais, celui-ci ou un autre, car elle connaissait la leçon que les villageois de Crossfen enseignaient aujourd'hui à leurs enfants.

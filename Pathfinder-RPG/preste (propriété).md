@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Preste
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Preste](./Descriptions individuelles des propriétés spéciales des armes.md#Preste)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Preste]]

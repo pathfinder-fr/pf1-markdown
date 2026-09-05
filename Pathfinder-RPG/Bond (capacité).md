@@ -6,18 +6,18 @@ Categories:
 - Règle de monstres universelle
 ---
 
-{s:FAQ|***[→](./FAQ- Bestiaire.md#2) Bond : Si je possède cette capacité (page 300), puis-je faire des attaques itératives avec des armes dans le cadre de mon attaque à outrance ?***
+{s:FAQ|***[[FAQ- Bestiaire#2|→]] Bond : Si je possède cette capacité (page 300), puis-je faire des attaques itératives avec des armes dans le cadre de mon attaque à outrance ?***
 
-Toute séquence d'attaque au corps à corps que le personnage peut effectuer dans le cadre d'une [attaque à outrance](./attaque à outrance.md) est autorisée dans le cadre d'une attaque de charge-bond-à outrance. Par exemple, un [barbare](./Barbare.md) avec le pouvoir de rage [animal totem majeur](./Pouvoirs de rage.md#ANIMALTOTEMMAJEUR) obtient la règle de monstre universelle <u>[bond](./Bond (capacité).md)</u> et pourrait effectuer des attaques itératives avec des armes de corps à corps manufacturées dans le cadre de son attaque de charge-bond-à outrance.
+Toute séquence d'attaque au corps à corps que le personnage peut effectuer dans le cadre d'une [[attaque à outrance]] est autorisée dans le cadre d'une attaque de charge-bond-à outrance. Par exemple, un [[barbare]] avec le pouvoir de rage [[Pouvoirs de rage#ANIMALTOTEMMAJEUR|animal totem majeur]] obtient la règle de monstre universelle <u>[[Bond (capacité)|bond]]</u> et pourrait effectuer des attaques itératives avec des armes de corps à corps manufacturées dans le cadre de son attaque de charge-bond-à outrance.
 ---
-***[→](./FAQ- Bestiaire.md#3) Bond et *lenteur* : Si une créature dotée de bond souffre d'un effet de *lenteur*, peut-elle toujours effectuer une attaque à outrance grâce à bond ?***
+***[[FAQ- Bestiaire#3|→]] Bond et *lenteur* : Si une créature dotée de bond souffre d'un effet de *lenteur*, peut-elle toujours effectuer une attaque à outrance grâce à bond ?***
 
-Selon les règles écrites, <u>[bond](./Bond (capacité).md)</u> devrait autoriser son [attaque à outrance](./attaque à outrance.md) à la créature, malgré l'effet de *[lenteur](./Lenteur.md)*.
+Selon les règles écrites, <u>[[Bond (capacité)|bond]]</u> devrait autoriser son [[attaque à outrance]] à la créature, malgré l'effet de *[[lenteur]]*.
 (Cela fonctionne car il n'y a pas d'action de « charge partielle » en Pathfinder-JdR.)
 ---
-***[→](./FAQ- Bestiaire.md#4) Bond et *rapidité* : Si une créature dotée de bond bénéficie d'un effet de *rapidité*, et qu'elle charge, obtient-elle l'attaque supplémentaire de *rapidité* ?***
+***[[FAQ- Bestiaire#4|→]] Bond et *rapidité* : Si une créature dotée de bond bénéficie d'un effet de *rapidité*, et qu'elle charge, obtient-elle l'attaque supplémentaire de *rapidité* ?***
 
-Oui.*(Retour à la <u>[capacité](./Bond (capacité).md)</u>)*
-Mise à jour 9/9/2013 : Il s'agit d'une révision de la façon dont *[rapidité](./Rapidité.md)* intéragit avec les effets qui simulent une attaque à outrance, même si la créature n'utilise pas explicitement l'action d'attaque à outrance (comme imposé par *rapidité*). La règle originale insinuait que bond n'autorisait pas l'attaque supplémentaire offerte par *rapidité* parce que bond n'utilisait pas l'action d'attaque à outrance.}Lors d’une [charge](./charge.md), une créature possédant cette capacité peut réaliser une [attaque à outrance](./attaque à outrance.md) (y compris des attaques de pattes arrière si elle en dispose).
+Oui.*(Retour à la <u>[[Bond (capacité)|capacité]]</u>)*
+Mise à jour 9/9/2013 : Il s'agit d'une révision de la façon dont *[[rapidité]]* intéragit avec les effets qui simulent une attaque à outrance, même si la créature n'utilise pas explicitement l'action d'attaque à outrance (comme imposé par *rapidité*). La règle originale insinuait que bond n'autorisait pas l'attaque supplémentaire offerte par *rapidité* parce que bond n'utilisait pas l'action d'attaque à outrance.}Lors d’une [[charge]], une créature possédant cette capacité peut réaliser une [[attaque à outrance]] (y compris des attaques de pattes arrière si elle en dispose).
 
 *Format :* bond. *Emplacement :* Attaques spéciales.

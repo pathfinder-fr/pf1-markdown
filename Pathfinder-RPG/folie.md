@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Santé mentale
 ---
 
->>> [Santé mentale](./Santé mentale.md)
+>>> [[Santé mentale]]

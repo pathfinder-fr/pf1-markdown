@@ -9,14 +9,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [transmutation](./Transmutation.md) ; **Niveau** [alchimiste](./Alchimiste.md) 4, [barde](./Barde.md) 4, [conjurateur](./Conjurateur.md) 4, [magus](./Magus.md) 4, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 4  
+**École** [[transmutation]] ; **Niveau** [[alchimiste]] 4, [[barde]] 4, [[conjurateur]] 4, [[magus]] 4, [[ensorceleur]]/[[magicien]] 4  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
 
-**Restriction de cible** *[choisi](./Choisi.md)*
+**Restriction de cible** *[[choisi]]*
 
-La cible d’un sort incluant ce mot effet peut faire une [action simple](./Action simple.md) et une [action de mouvement](./Action de mouvement.md), ou une [action complexe](./Action complexe.md) immédiatement après que l’effet a été lancé (maximum une fois par [round](./round.md)). Elle passe son prochain tour mais tous les effets qui auraient dû avoir lieu à ce moment-là ou les effets de sort qui auraient dû expirer au tour suivant se déroulent normalement. La cible n’est pas [sans défense](./Sans défense.md) mais elle ne peut pas entreprendre d’action.
+La cible d’un sort incluant ce mot effet peut faire une [[action simple]] et une [[action de mouvement]], ou une [[action complexe]] immédiatement après que l’effet a été lancé (maximum une fois par [[round]]). Elle passe son prochain tour mais tous les effets qui auraient dû avoir lieu à ce moment-là ou les effets de sort qui auraient dû expirer au tour suivant se déroulent normalement. La cible n’est pas [[sans défense]] mais elle ne peut pas entreprendre d’action.
 
-**Augmentation.** Au lieu de passer son tour, la cible est [étourdie](./Étourdi.md) au prochain tour.
+**Augmentation.** Au lieu de passer son tour, la cible est [[étourdi|étourdie]] au prochain tour.

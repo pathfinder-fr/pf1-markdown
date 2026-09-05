@@ -14,76 +14,76 @@ Categories:
 {s:pucem|Extérieur|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.223}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([métamorphe](./sous-type métamorphe.md), [natif](./sous-type natif.md)), [rakshasa](./sous-type rakshasa.md)) de taille TP, LM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}),
-*[détection de la magie](./Détection de la magie.md)* ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]]), [[sous-type rakshasa|rakshasa]]) de taille TP, LM}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}),
+*[[détection de la magie]]* ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 15, pris au dépourvu 14 (Dex +3, naturelle +2, taille +2)}
 {s:BDTexte|**pv** 22 (3d10+6)}
 {s:BDTexte|**Réf** +6, **Vig** +3, **Vol** +4}
-{s:BDTexte|**[RD](./Réduction de dégâts (capacité).md)** 5/Bien ou perforant ; **[RM](./Résistance à la magie (capacité).md)** 17}
+{s:BDTexte|**[[Réduction de dégâts (capacité)|RD]]** 5/Bien ou perforant ; **[[Résistance à la magie (capacité)|RM]]** 17}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c}), nage 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +8 (1d4-2 plus poison)}
-{s:BDTexte|**Attaques spéciales** [détection de pensées](./Rakshasa.md) ([DD](./DD.md) 13)}
+{s:BDTexte|**Attaques spéciales** [[Rakshasa|détection de pensées]] ([[DD]] 13)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6 ; concentration +8)}
-{s:BDSorts|Constant — *[compréhension des langages](./Compréhension des langages.md)*}
-{s:BDSorts|1/jour — *[charme-personne](./Charme-personne.md)* ([DD](./DD.md) 13), *[suggestion](./Suggestion.md)* ([DD](./DD.md) 15)}
-{s:BDSorts|1/semaine — *[communion](./Communion.md)* (NLS 12, 6 questions)}
+{s:BDSorts|Constant — *[[compréhension des langages]]*}
+{s:BDSorts|1/jour — *[[charme-personne]]* ([[DD]] 13), *[[suggestion]]* ([[DD]] 15)}
+{s:BDSorts|1/semaine — *[[communion]]* (NLS 12, 6 questions)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 7, **Dex** 16, **Con** 15, **Int** 12, **Sag** 13, **Cha** 14}
 {s:BDTexte|**BBA** +3 ; **BMO** +4 ; **DMD** 12}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +12, [Déguisement](./Déguisement.md) +16, [Discrétion](./Discrétion.md) +17, [Escalade](./Escalade.md) +14, [Évasion](./Évasion.md) +6, [Natation](./Natation.md) +11, [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +9}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Bluff](./Bluff.md), +8 en [Déguisement](./Déguisement.md)}
-{s:BDTexte|**Langues** commun, infernal, commun des Profondeurs ; *[compréhension des langages](./Compréhension des langages.md)*}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md)
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Bluff]] +12, [[Déguisement]] +16, [[Discrétion]] +17, [[Escalade]] +14, [[Évasion]] +6, [[Natation]] +11, [[Perception]] +9, [[Psychologie]] +9}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Bluff]], +8 en [[Déguisement]]}
+{s:BDTexte|**Langues** commun, infernal, commun des Profondeurs ; *[[compréhension des langages]]*}
+{s:BDTexte|**Particularités** [[changement de forme (capacité)|changement de forme]]
 (tout objet vivant de taille TP) ; oeil du maître}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation** solitaire, couple ou groupe de bourreaux (3-10)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Changement de forme (Sur).** Par une [action complexe](./Action complexe.md), le
+{s:BDTexte|**Changement de forme (Sur).** Par une [[action complexe]], le
 raktavarna peut prendre la forme d’un objet qu’il tient en main,
 le plus souvent une lampe ornementale, une arme à une main
 ou un élément de trésor. Si le rakshasa demeure immobile
-sous cette forme, il peut tenter des tests de [Discrétion](./Discrétion.md),
+sous cette forme, il peut tenter des tests de [[Discrétion]],
 même lorsque quelqu’un l’observe. Il peut rester
 indéfiniment immobile sous sa forme d’objet
 mais retrouve sa véritable apparence à partir du
 moment où il entreprend une action, quelle qu’elle soit.}
 {s:BDTexte|**OEil du maître (Sur).** Le raktavarna peut désigner une seule créature
-comme son maître par une [action simple](./Action simple.md). Si le raktavarna est le
-[familier](./familier.md) d’un lanceur de sorts, ce dernier est automatiquement
-son maître : le raktavarna ne peut rien y changer. Par une [action complexe](./Action complexe.md)
+comme son maître par une [[action simple]]. Si le raktavarna est le
+[[familier]] d’un lanceur de sorts, ce dernier est automatiquement
+son maître : le raktavarna ne peut rien y changer. Par une [[action complexe]]
 , le maître du raktavarna peut observer le monde
 comme s’il voyait par les yeux du raktavarna. Le maître doit se
-concentrer pour maintenir ce lien chaque [round](./round.md). Le maître perd
-ses sens visuels pendant cette durée et utilise la [vision dans le noir](./vision dans le noir.md),
-la *[détection de la magie](./Détection de la magie.md)* et la vision normale du raktavarna
+concentrer pour maintenir ce lien chaque [[round]]. Le maître perd
+ses sens visuels pendant cette durée et utilise la [[vision dans le noir]],
+la *[[détection de la magie]]* et la vision normale du raktavarna
 pour observer le monde. Cette capacité n’a aucune limite de
 portée et fonctionne même au-delà des frontières planaires. Si le
 raktavarna est tué alors que son maître est en train d’utiliser cette
-capacité, le maître est [étourdi](./Étourdi.md) pendant 1d4 [round](./round.md)s (pas de [jet de sauvegarde](./jet de sauvegarde.md)).}
-{s:BDTexte|**Poison (Sur).** Morsure — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ;
-*fréquence* 1/[round](./round.md) pendant 6 [round](./round.md)s ; effet [affaiblissement temporaire](./affaiblissement temporaire.md)
-de 1d2 [Sagesse](./Sagesse.md) plus modification de mémoire ;
+capacité, le maître est [[étourdi]] pendant 1d4 [[round]]s (pas de [[jet de sauvegarde]]).}
+{s:BDTexte|**Poison (Sur).** Morsure — blessure ; *JdS* [[Vigueur]] [[DD]] 13 ;
+*fréquence* 1/[[round]] pendant 6 [[round]]s ; effet [[affaiblissement temporaire]]
+de 1d2 [[Sagesse]] plus modification de mémoire ;
 guérison 1 réussite. Chaque fois qu’une victime reçoit des
-dégâts de [Sagesse](./Sagesse.md) à cause de ce poison, l’effet de modification
+dégâts de [[Sagesse]] à cause de ce poison, l’effet de modification
 de mémoire fait que la victime oublie toutes les interactions
 qu’elle a eu avec le raktavarna au cours de la minute
 précédente, tant que le raktavarna n’est plus visible ou qu’il
-est sous forme d’objet. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé
-sur la [Constitution](./Constitution.md).}
+est sous forme d’objet. Le [[DD]] du [[jet de sauvegarde]] est basé
+sur la [[Constitution]].}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [rakshasas](./Rakshasa B3.md).***</li></ul>''Ce qui apparaît au premier abord comme une lame sertie de pierres
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Rakshasa B3|rakshasas]].***</li></ul>''Ce qui apparaît au premier abord comme une lame sertie de pierres
 précieuses se met à onduler et scintiller et se transforme en un immonde
 serpent aux yeux rouges.''
 
 Faits de fumée, de sang et d’or, les raktavarnas sont les moins
-puissants des [rakshasas](./Rakshasa.md) : ils ne sont pas nés d’humanoïdes
+puissants des [[Rakshasa|rakshasas]] : ils ne sont pas nés d’humanoïdes
 mais des âmes des rakshasas ayant lamentablement échoué
 au cours de leurs incarnations précédentes et qui sont
 revenus au monde à partir d’oeufs de serpent.

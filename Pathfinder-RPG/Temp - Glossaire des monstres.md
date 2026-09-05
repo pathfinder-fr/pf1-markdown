@@ -6443,7 +6443,7 @@ LastModified: 2020-06-27 19:15
 |-
 | class="gauche" | Herald, Tarrasque
 | class="gauche" | —
-| 25 || créature magique (spawn of Rovagug [see page 275]) || tous || — || —
+| 25 || créature magique (spawn of Rovagug [[see page 275]]) || tous || — || —
 |-
 | class="gauche" | Herald, Thais
 | class="gauche" | —

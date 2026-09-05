@@ -10,6 +10,6 @@ Categories:
 
 *Le personnage peut concentrer l’énergie qu’il canalise sur une cible unique.*
 
-**Conditions.** Pouvoir de classe [Canalisation d’énergie](./Prêtre.md#CANALISATION)
+**Conditions.** Pouvoir de classe [[Prêtre#CANALISATION|Canalisation d’énergie]]
 
-**Avantage.** Lorsque le personnage canalise de l’énergie, il peut projeter un rayon d’énergie depuis son symbole sacré au lieu de créer une vague d’énergie. Il doit réussir une [attaque de contact à distance](./attaque de contact à distance.md) pour toucher une cible non consentante ; la cible est alors normalement affectée par l’énergie canalisée et peut effectuer un [jet de sauvegarde](./jet de sauvegarde.md). Il n’y a pas besoin d’effectuer un jet d’attaque lorsque le rayon est dirigé sur une cible consentante. Le rayon a une portée de 9m (6c) par dés de [canalisation d’énergie](./Prêtre.md#CANALISATION), et son [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) augmente de +2.
+**Avantage.** Lorsque le personnage canalise de l’énergie, il peut projeter un rayon d’énergie depuis son symbole sacré au lieu de créer une vague d’énergie. Il doit réussir une [[attaque de contact à distance]] pour toucher une cible non consentante ; la cible est alors normalement affectée par l’énergie canalisée et peut effectuer un [[jet de sauvegarde]]. Il n’y a pas besoin d’effectuer un jet d’attaque lorsque le rayon est dirigé sur une cible consentante. Le rayon a une portée de 9m (6c) par dés de [[Prêtre#CANALISATION|canalisation d’énergie]], et son [[DD]] du [[jet de sauvegarde]] augmente de +2.

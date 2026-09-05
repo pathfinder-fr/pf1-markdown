@@ -9,11 +9,11 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Belthis Loumis, Tailleur|FP 1}
-{s:BDTexte|*Source : [Aides de jeu AP13|La Colère des Justes], p.40*}
+{s:BDTexte|*Source : [[Aides de jeu AP13|La Colère des Justes]], p.40*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|Humain (m) [expert](./../Pathfinder-RPG/Expert.md) 2}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [Perception](./../Pathfinder-RPG/Perception.md) +8}
+{s:BDTexte|Humain (m) [[Pathfinder-RPG.expert|expert]] 2}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Pathfinder-RPG.Perception|Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 10, contact 10, pris au dépourvu 10}
 {s:BDTexte|**pv** 9 (2d8)}
@@ -25,14 +25,14 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 9, **Dex** 10, **Con** 10, **Int** 11, **Sag** 13, **Cha** 12}
 {s:BDTexte|**BBA** +1, **BMO** +0, **DMD** 10}
-{s:BDTexte|**Dons** [Talent](./../Pathfinder-RPG/Talent.md) ([Artisanat](./../Pathfinder-RPG/Artisanat.md) - tailleur), [Vigilance](./../Pathfinder-RPG/Vigilance.md)}
-{s:BDTexte|**Compétences** [Bluff](./../Pathfinder-RPG/Bluff.md) +9, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (folklore local) +5, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (noblesse) +1, [Déguisement](./../Pathfinder-RPG/Déguisement.md) +6, [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) +7, [Estimation](./../Pathfinder-RPG/Estimation.md) +6, [Linguistique](./../Pathfinder-RPG/Linguistique.md) +6, [Perception](./../Pathfinder-RPG/Perception.md) +8, [Artisanat](./../Pathfinder-RPG/Artisanat.md) (tailleur) +10, [Psychologie](./../Pathfinder-RPG/Psychologie.md) +9}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Talent|Talent]] ([[Pathfinder-RPG.Artisanat|Artisanat]] - tailleur), [[Pathfinder-RPG.Vigilance|Vigilance]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Bluff|Bluff]] +9, [[Pathfinder-RPG.Connaissances|Connaissances]] (folklore local) +5, [[Pathfinder-RPG.Connaissances|Connaissances]] (noblesse) +1, [[Pathfinder-RPG.Déguisement|Déguisement]] +6, [[Pathfinder-RPG.Diplomatie|Diplomatie]] +7, [[Pathfinder-RPG.Estimation|Estimation]] +6, [[Pathfinder-RPG.Linguistique|Linguistique]] +6, [[Pathfinder-RPG.Perception|Perception]] +8, [[Pathfinder-RPG.Artisanat|Artisanat]] (tailleur) +10, [[Pathfinder-RPG.Psychologie|Psychologie]] +9}
 {s:BDTexte|**Langues** commun, gnome, halfelin, nain}
 {s:BDTexte|**Équipement de combat**  dague}
 {s:BDTexte|**Faveur** Belthis Loumis peut accorder une réduction de 10% sur les vêtements de luxe.}
 </div>
 </td><td><div>
-Belthis Loumis est propriétaire d'une boutique "Aux habits raffinés" avec son épouse [Nira Loumis](./Nira Loumis.md).
+Belthis Loumis est propriétaire d'une boutique "Aux habits raffinés" avec son épouse [[Nira Loumis]].
 Leur commerce fait à la fois office d’atelier de tailleur et de boutique de vêtements très à la mode.
 
 ### Trésor

@@ -10,4 +10,4 @@ RedirectTo: Cheval pestiféré
 
 **Source à jour :** Bestiaire 5 p.46
 </div>
->>> [Cheval pestiféré](./cheval pestiféré.md)
+>>> [[Cheval pestiféré]]

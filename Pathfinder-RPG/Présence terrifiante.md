@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présence terrifiante (capacité)
 ---
 
->>> [Présence terrifiante (capacité)](./Présence terrifiante (capacité).md)
+>>> [[Présence terrifiante (capacité)]]

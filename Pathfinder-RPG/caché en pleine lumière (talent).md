@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#CACHEENPLEINELUMIERE
 ---
 
->>> [Talents#CACHEENPLEINELUMIERE](./Talents.md#CACHEENPLEINELUMIERE)
+>>> [[Talents#CACHEENPLEINELUMIERE]]

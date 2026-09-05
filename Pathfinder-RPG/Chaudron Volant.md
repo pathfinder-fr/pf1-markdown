@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Chaudron volant|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 10 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 40.000 po  ; **Poids** 50 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 40.000 po  ; **Poids** 50 kg
 (((Description)))
-{s:Desambi|Le <u>Manuel des Joueurs - Règles Avancées</u> présente un objet identique nommé "Chaudron de vol".}Cette marmite de fer est assez grande pour que deux créatures humanoïdes de taille M puissent s’y installer confortablement. Sur commande, le chaudron peut s’envoler en transportant jusqu’à 250 kg comme s’il était affecté par un sort de *[vol supérieur](./Vol supérieur.md)*. Le chaudron se déplace en suivant les indications de celui qui a prononcé son mot de commande et peut transporter jusqu’au double de sa capacité de transport, mais cela réduit sa vitesse de déplacement à 9 mètres. Il est capable de faire du [vol stationnaire](./Vol stationnaire.md) sans avoir besoin d’effectuer un test de Vol. Le chaudron offre un abri partiel à toute personne située à l’intérieur. Il possède une solidité de 10 et 60 points de résistance.
+{s:Desambi|Le <u>Manuel des Joueurs - Règles Avancées</u> présente un objet identique nommé "Chaudron de vol".}Cette marmite de fer est assez grande pour que deux créatures humanoïdes de taille M puissent s’y installer confortablement. Sur commande, le chaudron peut s’envoler en transportant jusqu’à 250 kg comme s’il était affecté par un sort de *[[vol supérieur]]*. Le chaudron se déplace en suivant les indications de celui qui a prononcé son mot de commande et peut transporter jusqu’au double de sa capacité de transport, mais cela réduit sa vitesse de déplacement à 9 mètres. Il est capable de faire du [[vol stationnaire]] sans avoir besoin d’effectuer un test de Vol. Le chaudron offre un abri partiel à toute personne située à l’intérieur. Il possède une solidité de 10 et 60 points de résistance.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[vol supérieur](./Vol supérieur.md)* ; **Coût** 20.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[vol supérieur]]* ; **Coût** 20.000 po
 </div>

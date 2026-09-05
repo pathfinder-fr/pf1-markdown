@@ -7,13 +7,13 @@ Categories:
 - Géographie
 ---
 
-Les Monts Asphodèles forment la frontière occidentale entre l'[Andoran](./Andoran.md) et son rival [Chéliax](./Chéliax.md). Contrairement aux [montagnes des Cinq Rois](./montagnes-des-Cinq-Rois.md) au nord de l'Andoran, les Asphodèles ne sont pas une chaîne particulièrement haute, mais leurs plus hauts sommets sont connus pour atteindre plus de 2 700 mètres de haut. Les pentes escarpées des montagnes forment une frontière substantielle entre l'Andoran et le Chéliax, avec un seul passage praticable, la [croisée des Aspodèles](./croisée-des-Aspodèles.md), dominé par la ville fortifiée de [Falaise de Piren](./Falaise de Piren.md). Comme les montagnes riches en fer sont revendiquées par les deux nations voisines, l'Andoran maintient également une présence militaire dans la croisée des Aspodèles, bien que le reste des montagnes soit peu habité, infesté de monstres et ne soit pas connu pour détenir d'importantes richesses minérales.<sup>(1)</sup><sup>(2)</sup>
+Les Monts Asphodèles forment la frontière occidentale entre l'[[Andoran]] et son rival [[Chéliax]]. Contrairement aux [[montagnes des Cinq Rois]] au nord de l'Andoran, les Asphodèles ne sont pas une chaîne particulièrement haute, mais leurs plus hauts sommets sont connus pour atteindre plus de 2 700 mètres de haut. Les pentes escarpées des montagnes forment une frontière substantielle entre l'Andoran et le Chéliax, avec un seul passage praticable, la [[croisée des Aspodèles]], dominé par la ville fortifiée de [[Falaise de Piren]]. Comme les montagnes riches en fer sont revendiquées par les deux nations voisines, l'Andoran maintient également une présence militaire dans la croisée des Aspodèles, bien que le reste des montagnes soit peu habité, infesté de monstres et ne soit pas connu pour détenir d'importantes richesses minérales.<sup>(1)</sup><sup>(2)</sup>
 
-**Communautés.** [Falaise de Piren](./Falaise de Piren.md).
-**Points dintérêts.** [Cavernes de Pierrechandelle](./Cavernes de Pierrechandelle.md), [Chutes de cristal](./Chutes de cristal.md).
+**Communautés.** [[Falaise de Piren]].
+**Points dintérêts.** [[Cavernes de Pierrechandelle]], [[Chutes de cristal]].
 
 #### Histoire
-Les Monts Aspodèles ont été le théâtre d'une campagne militaire entière, appelée la campagne des Aspodèles, menée pendant les guerres expansionnistes du [Taldor](./Taldor.md). Après que la Quatrième Armée d'exploration eut nettoyé les plaines et créé la province taldorienne d'Andoran en 1707 AR, les tribus [kellides](./Kellides.md) locales vivant dans les monts Aspodèles continuèrent à résister aux envahisseurs pendant plus de 400 ans. Les attaques de ces nations montagnardes se sont poursuivies jusqu'en 2133 AR, lorsque la Septième Armée d'exploration a vaincu la plus puissante tribu kellide s'opposant au règne du Taldor, les [Isgeri](./Isger.md).<sup>(3)</sup>
+Les Monts Aspodèles ont été le théâtre d'une campagne militaire entière, appelée la campagne des Aspodèles, menée pendant les guerres expansionnistes du [[Taldor]]. Après que la Quatrième Armée d'exploration eut nettoyé les plaines et créé la province taldorienne d'Andoran en 1707 AR, les tribus [[kellides]] locales vivant dans les monts Aspodèles continuèrent à résister aux envahisseurs pendant plus de 400 ans. Les attaques de ces nations montagnardes se sont poursuivies jusqu'en 2133 AR, lorsque la Septième Armée d'exploration a vaincu la plus puissante tribu kellide s'opposant au règne du Taldor, les [[Isger|Isgeri]].<sup>(3)</sup>
 
 
 ### Références

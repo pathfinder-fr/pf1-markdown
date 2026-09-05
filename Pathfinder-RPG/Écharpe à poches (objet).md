@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 8 po ; **Poids** 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:AE}**Prix** 8 po ; **Poids** 0,25 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
-Le style complexe de cette écharpe dissimule les nombreuses petites poches situées sur l’une des faces. Elle accorde un bonus de +4 aux tests d’[Escamotage](./Escamotage.md) pour cacher des objets sur soi. Ce bonus ne se cumule pas avec les bonus qu’accordent les vêtements épais mais il se cumule avec les bonus accordés quand on essaye de dissimuler des petits objets.
+Le style complexe de cette écharpe dissimule les nombreuses petites poches situées sur l’une des faces. Elle accorde un bonus de +4 aux tests d’[[Escamotage]] pour cacher des objets sur soi. Ce bonus ne se cumule pas avec les bonus qu’accordent les vêtements épais mais il se cumule avec les bonus accordés quand on essaye de dissimuler des petits objets.

@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Les sorts de guérison du personnage sont plus puissants quand il a un jugement actif. *
 
-**Conditions.** [Jugement](./Inquisiteur.md#JUGEMENT)
+**Conditions.** [[Inquisiteur#JUGEMENT|Jugement]]
 
-**Avantage.** Si le personnage lance un sort de soins quand il a un jugement actif, sa cible récupère 1 [point de vie](./pv.md) de plus grâce au sort et 1 autre point de vie de plus par tranche de trois niveaux d’inquisiteur.
+**Avantage.** Si le personnage lance un sort de soins quand il a un jugement actif, sa cible récupère 1 [[pv|point de vie]] de plus grâce au sort et 1 autre point de vie de plus par tranche de trois niveaux d’inquisiteur.

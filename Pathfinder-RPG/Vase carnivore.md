@@ -14,30 +14,30 @@ Categories:
 {s:pucem|Vase|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.281}
 {s:BDTexte|**PX** 25 600}
-{s:BDTexte|[Vase](./type Vase.md) de taille C, N}
-{s:BDTexte|**Init** +0 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 36 m (24 {s:c}), [vision aveugle](./vision aveugle.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) –5}
+{s:BDTexte|[[type Vase|Vase]] de taille C, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[perception des vibrations]] 36 m (24 {s:c}), [[vision aveugle]] 18 m (12 {s:c}) ; [[Perception]] –5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 2, contact 2, pris au dépourvu 2 (taille –8)}
 {s:BDTexte|**pv** 184 (16d8+112)}
 {s:BDTexte|**Réf** +5, **Vig** +12, **Vol** +0}
-{s:BDTexte|**Capacités défensives** contrecoup, [division](./Division (capacité).md) (son ou tranchant, 32 pv) ; **Immunités** acide, [traits des vases](./type Vase.md) ; **RD** 10/– ; **Résistances** électricité 30, feu 30}
-{s:BDTexte|**Faiblesses** [vulnérable](./Vulnérabilités (capacité).md) au froid}
+{s:BDTexte|**Capacités défensives** contrecoup, [[division (capacité)|division]] (son ou tranchant, 32 pv) ; **Immunités** acide, [[type vase|traits des vases]] ; **RD** 10/– ; **Résistances** électricité 30, feu 30}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérable]] au froid}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c}), nage 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** coup, +17 (8d6+19 plus diminution permanente 1d4 Con et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** coup, +17 (8d6+19 plus diminution permanente 1d4 Con et [[étreinte]])}
 {s:BDTexte|**Espace** 9 m (6 {s:c}) ; **Allonge** 9 m (6 {s:c})}
-{s:BDTexte|**Attaques spéciales** absorption de chair, [constriction](./constriction.md) (8d6+19 plus [diminution permanente](./diminution permanente.md) 1d4 [Con](./Constitution.md))}
+{s:BDTexte|**Attaques spéciales** absorption de chair, [[constriction]] (8d6+19 plus [[diminution permanente]] 1d4 [[Constitution|Con]])}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 36, **Dex** 11, **Con** 24, **Int** -, **Sag** 1, **Cha** 1}
-{s:BDTexte|**BBA** +12 ; **BMO** +33 (+37 [lutte](./lutte.md)) ; **DMD** 43 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +21, [Natation](./Natation.md) +21}
+{s:BDTexte|**BBA** +12 ; **BMO** +33 (+37 [[lutte]]) ; **DMD** 43 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Compétences** [[Escalade]] +21, [[Natation]] +21}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Absorption de chair (Ext).** Les vases carnivores ne peuvent pas dévorer les matières végétales ou non organiques, mais elles consomment les chairs vivantes très rapidement (et très voracement) en infligeant des [diminutions permanentes](./diminution permanente.md) de [Constitution](./Constitution.md) aux créatures qu’elles frappent ou blessent à l’aide de leur capacité de [constriction](./constriction.md). Chaque fois que la vase carnivore inflige une [diminution permanente](./diminution permanente.md) de [Constitution](./Constitution.md) de cette manière, elle se soigne de 10 points de vie par point de [Constitution](./Constitution.md) retiré. Les points de vie qu’elle récupère au-delà de son maximum prennent la forme de points de vie temporaires. Dès que la vase carnivore atteint le seuil de 50 points de vie temporaires, elle les perd et se [divise](./Division (capacité).md) en deux par une [action immédiate](./Action immédiate.md).}
-{s:BDTexte|**Contrecoup (Ext).** Chaque fois qu’une vase carnivore subit des dégâts, elle réplique par réflexes avec une attaque de coup. Concrètement, cette capacité donne à la vase carnivore une [attaque d’opportunité](./attaque dopportunité.md) contre tout ennemi adjacent qui la blesse. Ces [attaques d’opportunité](./attaque dopportunité.md) ne sont pas prises en compte dans la limite d’[attaques d’opportunité](./attaque dopportunité.md) que la vase peut réaliser chaque [round](./round.md). Les attaques qui infligent des dégâts de son ou de type tranchant ne provoquent pas de contrecoups. Au lieu de cela, elle force la créature à se [diviser](./Division (capacité).md). Chaque fois qu’une vase carnivore subit des dégâts de froid, elle ne peut plus utiliser sa capacité de contrecoup avant la fin de son prochain tour.}
+{s:BDTexte|**Absorption de chair (Ext).** Les vases carnivores ne peuvent pas dévorer les matières végétales ou non organiques, mais elles consomment les chairs vivantes très rapidement (et très voracement) en infligeant des [[diminution permanente|diminutions permanentes]] de [[Constitution]] aux créatures qu’elles frappent ou blessent à l’aide de leur capacité de [[constriction]]. Chaque fois que la vase carnivore inflige une [[diminution permanente]] de [[Constitution]] de cette manière, elle se soigne de 10 points de vie par point de [[Constitution]] retiré. Les points de vie qu’elle récupère au-delà de son maximum prennent la forme de points de vie temporaires. Dès que la vase carnivore atteint le seuil de 50 points de vie temporaires, elle les perd et se [[division (capacité)|divise]] en deux par une [[action immédiate]].}
+{s:BDTexte|**Contrecoup (Ext).** Chaque fois qu’une vase carnivore subit des dégâts, elle réplique par réflexes avec une attaque de coup. Concrètement, cette capacité donne à la vase carnivore une [[attaque dopportunité|attaque d’opportunité]] contre tout ennemi adjacent qui la blesse. Ces [[attaque dopportunité|attaques d’opportunité]] ne sont pas prises en compte dans la limite d’[[attaque dopportunité|attaques d’opportunité]] que la vase peut réaliser chaque [[round]]. Les attaques qui infligent des dégâts de son ou de type tranchant ne provoquent pas de contrecoups. Au lieu de cela, elle force la créature à se [[division (capacité)|diviser]]. Chaque fois qu’une vase carnivore subit des dégâts de froid, elle ne peut plus utiliser sa capacité de contrecoup avant la fin de son prochain tour.}
 {s:BDTexte|**Vulnérable au froid (Ext).** Les dégâts de froid infligés aux vases carnivores sont augmentés de 50%.}
 </div>
 </td><td><div>

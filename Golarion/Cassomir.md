@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-{s:Nation|Taldor|%2fPCUP%2fNation-PNG%2fTaldor.png|L'Empire Décadent Agonisant|Neutre|Empire Bureaucratique Corrompu|Grand Princ Stavian III, Empereur du Taldor, Scion d'[Aroden](./Aroden.md), Doge d'[Andoran](./Andoran.md), Défenseur du [Galt](./Galt.md), Monarque Eternel du [Chéliax](./Chéliax.md), Primarque d'Honneur d'[Absalom](./Absalom.md), etc...|[Oppara](./Oppara.md) (109 280)|[Cassomir](./Cassomir.md) (32 430), [Maheto](./Maheto.md) (11 790), [Wispil](./Wispil.md) (8 670), [Yanmass](./Yanmass.md) (6 900), [Zimar](./Zimar.md) (17 540)|le Monastère des Sept Formes, Ridonport, la Brèche de Stavian|Presque exclusivement Humains|Commun, Kéléshite|[Abadar](./Abadar.md), [Aroden](./Aroden.md), [Cayden Cailéan](./Cayden Cailéan.md), [Shélyn](./Shélyn.md), [Sarenrae](./Sarenrae.md), [Norgorber](./Norgorber.md), [Calistria](./Calistria.md)}
+{s:Nation|Taldor|%2fPCUP%2fNation-PNG%2fTaldor.png|L'Empire Décadent Agonisant|Neutre|Empire Bureaucratique Corrompu|Grand Princ Stavian III, Empereur du Taldor, Scion d'[[Aroden]], Doge d'[[Andoran]], Défenseur du [[Galt]], Monarque Eternel du [[Chéliax]], Primarque d'Honneur d'[[Absalom]], etc...|[[Oppara]] (109 280)|[[Cassomir]] (32 430), [[Maheto]] (11 790), [[Wispil]] (8 670), [[Yanmass]] (6 900), [[Zimar]] (17 540)|le Monastère des Sept Formes, Ridonport, la Brèche de Stavian|Presque exclusivement Humains|Commun, Kéléshite|[[Abadar]], [[Aroden]], [[Cayden Cailéan]], [[Shélyn]], [[Sarenrae]], [[Norgorber]], [[Calistria]]}
 - Cassomir est le plus grand centre naval de l’empire, elle regorge de traditions et abrite des soldats et des marins ainsi qu’une classe sociale inférieure mais bourgeonnante composée de vagabonds et d’aventuriers qui parcourent les entrailles du Coffre de Cassomir, un réseau tristement célèbre qui se compose d’égouts et d’espaces sous les quais. La ville se situe à un emplacement stratégique, à l’embouchure du Sellen, ce qui lui permet de contrôler le trafic en direction du Galt, du Kyonin, du Mendev, des Royaumes fluviaux et au-delà. Elle surveille aussi l’Andoran, le pays voisin né du Taldor, au cas où cet arriviste déciderait d’envahir l’empire.
 
 - Même les gens qui ignorent tout de la marine et des bateaux comprennent tout de suite que Cassomir est une ville qui se consacre avant tout à la fabrication de navires. Les ports sont bordés de coques squelettiques en cours de fabrication et forment une ligne d’horizon irrégulière alors que le reste de la ville décrit un arc autour des quais. La ville, bourdonnante d’activités, est construite sur des terres arrachées au marais et sent toujours l’humidité.
@@ -48,6 +48,6 @@ Categories:
 
 {s:VoirAussiAvant}
 Vous pourrez trouver plus d'informations à propos de Cassomir dans les suppléments
-- [Pathfinder Univers: Cadre de Campagne La Mer Intérieure](./Publications.md#CAMPAIGNSETTING2).
+- [[Golarion.Publications#CAMPAIGNSETTING2|Pathfinder Univers: Cadre de Campagne La Mer Intérieure]].
 - [Pathfinder Univers: Cité de Golarion](http://www.black-book-editions.fr/produit.php?id=2235).
 {s:VoirAussiAprès}

@@ -5,9 +5,9 @@ LastModified: 2021-03-21 22:49
 ---
 
 <img src="Illustrations/Wiki/PF2/031921_DivineWarden.jpg" class="fright" alt="">
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 *À l'approche de la sortie du Bestiaire 3 de Pathfinder, le monstre suivant a été publié sur le blog de Paizo. Il s'agit d'une création de Chris Sims basée sur la transformation d'un mage automate en gardien divin (ces deux créatures étant présentées dans le Bestiaire 3) afin d'obtenir un serviteur mécanique de Brigh, déesse des automates et des inventions. Et tout ça pourrait bien coller avec Guns & Gears, à paraître plus tard cette année...*
 

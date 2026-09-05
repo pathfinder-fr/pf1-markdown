@@ -4,6 +4,6 @@ Title: Croc-en-jambe (Ext)
 LastModified: 2013-08-26 13:04
 ---
 
-Lorsqu’une créature disposant de cette capacité parvient à toucher un adversaire avec l’attaque indiquée, elle peut tenter d’effectuer un [croc-en-jambe](./croc-en-jambe.md) par une [action libre](./Action libre.md) qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md). En cas d’échec, l’adversaire ne peut pas retourner la manœuvre contre elle.
+Lorsqu’une créature disposant de cette capacité parvient à toucher un adversaire avec l’attaque indiquée, elle peut tenter d’effectuer un [[croc-en-jambe]] par une [[action libre]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]]. En cas d’échec, l’adversaire ne peut pas retourner la manœuvre contre elle.
 
 *Format :* croc-en-jambe (morsure). *Emplacement :* attaques individuelles.

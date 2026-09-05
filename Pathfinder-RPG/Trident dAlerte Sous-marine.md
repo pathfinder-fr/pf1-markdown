@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Trident d’alerte sous-marine|{s:AE}}
-**Aura** [Divination](./école divination.md) modérée ; **NLS** 7 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 10 115 po ; **Poids** 2 kg
+**Aura** [[école divination|Divination]] modérée ; **NLS** 7 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 10 115 po ; **Poids** 2 kg
 (((Description)))
-Cette arme permet à son possesseur de déterminer l’endroit où se trouvent les prédateurs marins hostiles et de connaître leur race, leur nombre et la profondeur à laquelle ils se trouvent, dans un rayon de 210 mètres. Pour obtenir ces informations, le personnage tenir le trident et le pointer devant lui. Il lui faut alors 1 [round](./round.md) pour sonder un hémisphère d’un rayon de 210 mètres. En dehors de cela, le trident se comporte comme un [trident](./trident (arme).md) +2.
+Cette arme permet à son possesseur de déterminer l’endroit où se trouvent les prédateurs marins hostiles et de connaître leur race, leur nombre et la profondeur à laquelle ils se trouvent, dans un rayon de 210 mètres. Pour obtenir ces informations, le personnage tenir le trident et le pointer devant lui. Il lui faut alors 1 [[round]] pour sonder un hémisphère d’un rayon de 210 mètres. En dehors de cela, le trident se comporte comme un [[Trident (arme)|trident]] +2.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[localisation de créature](./Localisation de créature.md)* ; **Coût** 5 215 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[localisation de créature]]* ; **Coût** 5 215 po
 </div>

@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 0,5 kg ; **Groupes** [armes de combat rapproché](./groupe darmes.md#Armesdecombatrapproché)
+{s:AE}**Prix** 5 po ; **Poids** 0,5 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]
 **Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
-Il s’agit d’un gantelet en cuir épais ou en métal avec des lames ou des pointes aux articulations, ce qui permet au personnage de poignarder ses adversaires en bénéficiant de la puissance d’un coup de poing. Le prix et le poids sont indiqués pour un seul gantelet. Une attaque avec un gantelet clouté est considérée comme une attaque armée. On ne peut pas [désarmer](./désarmement.md) un personnage équipé d’un gantelet à pointes.
+Il s’agit d’un gantelet en cuir épais ou en métal avec des lames ou des pointes aux articulations, ce qui permet au personnage de poignarder ses adversaires en bénéficiant de la puissance d’un coup de poing. Le prix et le poids sont indiqués pour un seul gantelet. Une attaque avec un gantelet clouté est considérée comme une attaque armée. On ne peut pas [[désarmement|désarmer]] un personnage équipé d’un gantelet à pointes.

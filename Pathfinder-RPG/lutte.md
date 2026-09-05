@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Manœuvres offensives#LUTTE
 ---
 
->>> [Manœuvres offensives#LUTTE](./Manœuvres offensives.md#LUTTE)
+>>> [[Manœuvres offensives#LUTTE]]

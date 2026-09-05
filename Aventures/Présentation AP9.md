@@ -6,7 +6,7 @@ LastModified: 2022-10-19 17:26
 
 ***Quand un secret datant vieux de plusieurs décennies est révélé, une propriétaire de taverne toute simple si ce n'est qu'elle s'est liée d'amitié avec les PJ se rend compte que, par sa naissance, elle possède le droit de diriger l'un des anciens Empires draconiques du Tian Xia, l'empire de Minkai. Mais l'actuel dirigeant de cet empire, le mystérieux Régent de Jade à la cruauté sans cesse croissante, n'a pas du tout l'intention d'abandonner le trône. Afin de sauver le Minkai d'un futur tyran, les PJ devront non seulement escorter leur amie de la Varisie jusqu'au Tian Xia et braver les horreurs gelées de la Couronne du Monde mais aussi l'aider à gagner la confiance et le support d'une nation au bord de l'anarchie.***
 
-Vous trouverez les aides de jeu relatives à cette campagne sur [cette page](./Aides de jeu AP9.md).
+Vous trouverez les aides de jeu relatives à cette campagne sur [[Aides de jeu AP9|cette page]].
 
 Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfinder-fr.org/Forum/yaf_postst1944_AP9-Jade-Regent-Le-regent-de-Jade.aspx).
 
@@ -35,7 +35,7 @@ Lorsque les gobelins Lèche-Grenouille du marais des souches salines prennent po
 Quand on découvre qu'Améiko Kaijitsu est la dernière descendante d'une famille destinée à gouverner l'Empire draconique de Minkai, elle et ses amis se joignent à une caravane varisienne et se dirigent vers les Royaumes des linnorms. C'est la première étape d'un long voyage jusqu'au Tian Xia. En arrivant dans la capitale de Kalsgard pour y embaucher un guide qui les aidera à traverser la dangereuse Couronne du Monde, les PJ apprennent que la famille d'Améiko est passée par là plusieurs années plus tôt et qu'ils ont abandonné à cet endroit une puissante épée qui pourrait bien renfermer d'autres indices quant à leur destinée commune. Mais l'épée a été dérobée et leur guide a disparu. Et les tentatives visant à retrouver l'une ou l'autre attirent bientôt l'attention des mystérieux assassins connus comme les Ombres gelées.  
   
 
-**Articles :** [Shélyn](./../Golarion/Shélyn.md)}
+**Articles :** [[Golarion.Shélyn|Shélyn]]}
 {s:BookTitle|AP9-3|The Hungry Storm/La tempête vorace}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9051_180.jpeg|http://paizo.com/products/btpy8kgv}
 {s:BookPic||}
@@ -63,7 +63,7 @@ Les PJ arrivent au Minka et découvrent un empire à genoux. Le Régent de Jade 
   
   
 
-**Articles :** [Irori](./../Golarion/Irori.md)}
+**Articles :** [[Golarion.Irori|Irori]]}
 {s:BookTitle|AP9-6|The Empty Throne/Le trône vide}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9054_180.jpeg|http://paizo.com/products/btpy8mh1}
 {s:BookPic||}

@@ -14,27 +14,27 @@ Categories:
 {s:pucem|Plante|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p174*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Plante](./type Plante.md) ([léchi](./sous-type léchi.md), [métamorphe](./sous-type métamorphe.md)) de taille P, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./Vision nocturne (capacité).md); [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Plante|Plante]] ([[sous-type léchi|léchi]], [[sous-type métamorphe|métamorphe]]) de taille P, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), [[Vision nocturne (capacité)|vision nocturne]]; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 11 (Dex +2, taille +1)}
 {s:BDTexte|**pv** 9 (1d8+5)}
 {s:BDTexte|**Réf** +2, **Vig** +4, **Vol** +0}
-{s:BDTexte|**[Immunités](./Immunité (capacité).md)** électricité, son, [traits des plantes](./Traits des plantes (capacité).md)}
+{s:BDTexte|**[[Immunité (capacité)|Immunités]]** électricité, son, [[Traits des plantes (capacité)|traits des plantes]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** coup, -1 (1d3-2 plus piège)}
 {s:BDTexte|**À distance** graines, +3 (1 plus piège)}
-{s:BDTexte|**Attaque spéciale** [attaque sournoise](./attaque sournoise.md) +1d6}
+{s:BDTexte|**Attaque spéciale** [[attaque sournoise]] +1d6}
 {s:BDTexte|**Pouvoirs magiques** (NLS 2 ; concentration +4)}
-{s:BDSorts|Constant — *[passage sans trace](./passage sans trace.md)*}
+{s:BDSorts|Constant — *[[passage sans trace]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 15, **Con** 14, **Int** 6, **Sag** 11, **Cha** 15}
 {s:BDTexte|**BBA** +0 ; **BMO** -3 ; **DMD** 9}
-{s:BDTexte|**Don** [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +6 (+10 dans les plaines et les broussailles), [Perception](./Perception.md) +4, [Survie](./Survie.md) +0 (+4 dans les plaines et les broussailles); **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) et en [Survie](./Survie.md) dans les plaines et les broussailles}
+{s:BDTexte|**Don** [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +6 (+10 dans les plaines et les broussailles), [[Perception]] +4, [[Survie]] +0 (+4 dans les plaines et les broussailles); **Modificateurs raciaux** +4 en [[Discrétion]] et en [[Survie]] dans les plaines et les broussailles}
 {s:BDTexte|**Langues** druidique, sylvestre ; langue des plantes (calebasses)}
-{s:BDTexte|**Part** [changement de forme](./Changement de forme (capacité).md) (calebasse de taille P ; forme d’arbre), petit souvenir, explosion verdoyante}
+{s:BDTexte|**Part** [[Changement de forme (capacité)|changement de forme]] (calebasse de taille P ; forme d’arbre), petit souvenir, explosion verdoyante}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines ou plaines}
 {s:BDTexte|**Organisation** solitaire ou plantation (2-16)}
@@ -43,11 +43,11 @@ Categories:
 {s:BDTexte|**Graines (Ext).** Le léchi calebasse peut projeter ses graines pour faire une attaque à distance. Si
 l’attaque touche sa cible, elle inflige 1 point de dégât (non modifié par la Force) et affecte la cible de la
 capacité de piège du léchi calebasse. Cette attaque a un facteur de portée de 3 mètres.}
-{s:BDTexte|**Petit souvenir (Sur).** Le léchi calebasse peut soulever le sommet de sa tête pour stocker un seul objet de taille I, tel une dague ou une potion, à l’intérieur. Lorsqu’il est dans la tête du léchi, l’objet est protégé par un sort d’*[antidétection](./Antidétection.md)*. En outre, au bout de 24 heures, l’objet est nettoyé et poli et, s’il était endommagé, réparé comme avec un sort de *[réparation](./Réparation.md)*. Ces deux effets de sort ont un niveau de lanceur de sorts égal à deux fois les dés de vie du léchi (NLS 2 pour la plupart des léchis calebasses).}
+{s:BDTexte|**Petit souvenir (Sur).** Le léchi calebasse peut soulever le sommet de sa tête pour stocker un seul objet de taille I, tel une dague ou une potion, à l’intérieur. Lorsqu’il est dans la tête du léchi, l’objet est protégé par un sort d’*[[antidétection]]*. En outre, au bout de 24 heures, l’objet est nettoyé et poli et, s’il était endommagé, réparé comme avec un sort de *[[réparation]]*. Ces deux effets de sort ont un niveau de lanceur de sorts égal à deux fois les dés de vie du léchi (NLS 2 pour la plupart des léchis calebasses).}
 {s:BDTexte|**Piège (Ext).** Les attaques de graines et de coup du léchi calebasse enchevêtrent la cible dans des vignes pendant 2d4 rounds à moins que la victime ne réussisse un jet de Réflexes DD 12. La cible peut essayer de se dégager avant la fin de l’effet en réussissant un test de Force de DD 12 par une action complexe. Le DD du jet de sauvegarde et du test de Force est basé sur la Constitution.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [léchis](./Léchi.md).***</li></ul>*Ce petit homme-plante se déplace sur des jambes semblables à des vignes enchevêtrées et a une tête de citrouille dans laquelle on a creusé des yeux et une bouche.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[léchi|léchis]].***</li></ul>*Ce petit homme-plante se déplace sur des jambes semblables à des vignes enchevêtrées et a une tête de citrouille dans laquelle on a creusé des yeux et une bouche.*
 
 Avec son enchevêtrement de plantes grimpantes feuillues en guise de membres et sa tête de citrouille taillée, le léchi
 calebasse a une apparence plutôt comique. Étroitement lié à la saison des moissons, il veille à la santé et à la viabilité des récoltes, en particulier des légumes et des graines. La superstition et l’amour des rituels sont profondément ancrés chez les léchis calebasses. Ils font de leur mieux pour reproduire à la perfection la moindre activité quotidienne couronnée de succès et changent des détails apparemment aléatoires lorsqu’ils reproduisent des tâches qui se sont soldées par un échec. Les léchis calebasses collectionnent des objets divers pour leur servir de porte-bonheur, qu’il s’agisse de pierres polies, de plumes d’oiseaux ou de pièces ternies. Excessivement crédules, les léchis calebasses croient presque tout ce leur disent ceux en qui ils ont confiance. Cela dit, même s’ils avouent
@@ -58,6 +58,6 @@ Les léchis calebasses poussent mieux dans les petits potagers ou dans les prair
 et de la bouche du léchi constitue une étape importante du rituel de croissance puisque, sans cela, le léchi calebasse ne peut ni voir ni parler. L’apparence et la nature exacte du léchi calebasse varient grandement d’un individu à l’autre.
 
 **NLS** 6 ; **Prix** 1 500 po
-**Conditions requises** [Connaissances](./Connaissances.md) (nature) 5 rangs, *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)*, *[croissance végétale](./Croissance végétale.md)*, *[enchevêtrement](./Enchevêtrement.md)*
-**Compétences** [Connaissances](./Connaissances.md) (nature) DD 13 ; **Coût** 750 po
+**Conditions requises** [[Connaissances]] (nature) 5 rangs, *[[Convocation dalliés naturels I|convocation d’alliés naturels I]]*, *[[croissance végétale]]*, *[[enchevêtrement]]*
+**Compétences** [[Connaissances]] (nature) DD 13 ; **Coût** 750 po
 </div></td></tr></table>

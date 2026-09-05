@@ -8,11 +8,11 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 </div>
 
 Cette règle a pour but de rendre possible des effets quelque peu sanglants et réalistes au cour de n'importe quelle bataille, et en ralentissant le moins possible le jeu.
-D'autres règles similaires ont été mises en place [ici](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&t=1906) et [là](http://www.pathfinder-fr.org/Wiki/Informations.RM Localisation des blessures.ashx). {br}
+D'autres règles similaires ont été mises en place [ici](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&t=1906) et [là](http://www.pathfinder-fr.org/Wiki/Informations.RM%20Localisation%20des%20blessures.ashx). {br}
 
 ### Les seuils critiques et jets de sauvegarde
 
@@ -31,7 +31,7 @@ La procédure est la suivante.
 Les effets critiques sont cumulatifs. Si une blessure est critique, on applique cet effet en plus de celui d'une blessure handicapante, profonde et légère.
 
 Cette règle remplace celle sur la mort par dégâts excessif.
-Si un personnage possède un [don de critique](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.AllPages.aspx?Cat=Pathfinder-RPG.Don critiques), il doit choisir à chaque fois s'il préfère appliquer le don critique qu'il connait ou la règle des critique réalistes, à moins de disposer de la [maîtrise des critiques](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Maîtrise du critique.ashx)
+Si un personnage possède un [don de critique](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.AllPages.aspx?Cat=Pathfinder-RPG.Don%20critiques), il doit choisir à chaque fois s'il préfère appliquer le don critique qu'il connait ou la règle des critique réalistes, à moins de disposer de la [maîtrise des critiques](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Ma%C3%AEtrise%20du%20critique.ashx)
 
 {| CLASS="tablo"
 |- CLASS="titre"

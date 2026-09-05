@@ -10,28 +10,28 @@ LastModified: 2016-11-19 10:56
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 166*}
 - 9 600 PX
-- [Plante](./type Plante.md) de taille TG, CN
-- **Init **+2 ; **Sens **vision dans le noir à 18 m, vision nocturne ; [Perception](./Perception.md) +22
+- [[type plante|Plante]] de taille TG, CN
+- **Init **+2 ; **Sens **vision dans le noir à 18 m, vision nocturne ; [[Perception]] +22
 - **Aura **de confusion (30 mètres, DD 21)
 (((Défense)))
 - **CA **24, contact 10, pris au dépourvu 22 (Dex +2, naturelle +14, taille -2)
 - **pv **127 (15d8+60)
 - **Réf **+9, **Vig **+12, **Vol **+9
-- **RD **10/tranchant ; **Immunités ** [traits des plantes](./Traits des plantes.md)
+- **RD **10/tranchant ; **Immunités ** [[traits des plantes]]
 (((Attaque)))
 - **VD **15 m, escalade 9 m
 - **Corps à corps** 2 coups, +17 (2d6+12)
 - **Espace **4,50 m ; Allonge 4,50 m
 - **Attaques spéciales** exhalaison enfumée
 - **Pouvoirs magiques** (**NLS **14 ; concentration +18)
-  - *Constant *– [communication avec les plantes](./Communication avec les plantes.md)
-  - *À volonté* – [invisibilité](./Invisibilité.md)
+  - *Constant *– [[communication avec les plantes]]
+  - *À volonté* – [[invisibilité]]
 (((Statistiques)))
 - **For **26, **Dex **15, **Con **17, **Int **12, **Sag **15, **Cha **18
 - **BBA **+11 ; **BMO **+21 ; **DMD **33
-- **Dons ** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences ** [Discrétion](./Discrétion.md) +18, [Escalade](./Escalade.md) +20, [Perception](./Perception.md) +22, [Psychologie](./Psychologie.md) +9, [Sabotage](./Sabotage.md) +11, [Survie](./Survie.md) +9 ; Modificateurs raciaux +8 en [Discrétion](./Discrétion.md), +8 en [Perception](./Perception.md)
-- **Langues** commun ; [communication avec les plantes](./Communication avec les plantes.md)
+- **Dons ** [[Attaque en puissance]], [[Attaques réflexes]], [[Dur à cuire]], [[Endurance]], [[Réflexes surhumains]], [[Robustesse]], [[Vigilance]], [[Volonté de fer]]
+- **Compétences ** [[Discrétion]] +18, [[Escalade]] +20, [[Perception]] +22, [[Psychologie]] +9, [[Sabotage]] +11, [[Survie]] +9 ; Modificateurs raciaux +8 en [[Discrétion]], +8 en [[Perception]]
+- **Langues** commun ; [[communication avec les plantes]]
 - **Particularités **fusion dans les arbres
 (((Écologie)))
 - **Environnement **forêts chaudes ou tempérées

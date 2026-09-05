@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Aussi appelé Champimarais, ce marécage occupe la rive sud du fleuve [Yondabakari](./Yondabakari.md) sur des kilomètres jusqu'à la côte. C'est un endroit aussi dangereux par sa population de [bourbiérins](./bourbiérins.md), de géants des marais et de traqueurs sans visages que par la nature hostile et les nombreux bourbiers qu'on y trouve.
+Aussi appelé Champimarais, ce marécage occupe la rive sud du fleuve [[Yondabakari]] sur des kilomètres jusqu'à la côte. C'est un endroit aussi dangereux par sa population de [[bourbiérins]], de géants des marais et de traqueurs sans visages que par la nature hostile et les nombreux bourbiers qu'on y trouve.

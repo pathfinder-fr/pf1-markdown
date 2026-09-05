@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#NOUVELLEVIGUEUR
 ---
 
->>> [pouvoirs de rage#NOUVELLEVIGUEUR](./Pouvoirs de rage.md#NOUVELLEVIGUEUR)
+>>> [[pouvoirs de rage#NOUVELLEVIGUEUR]]

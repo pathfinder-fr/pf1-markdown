@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 page 113*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Fée](./type Fée.md) de taille Min, CN}
-{s:BDTexte|**Init** +3 ; **Sens** [détection du Bien](./Détection du Bien.md), [détection du Mal](./Détection du Mal.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Fée|Fée]] de taille Min, CN}
+{s:BDTexte|**Init** +3 ; **Sens** [[détection du Bien]], [[détection du Mal]], [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 17, pris au dépourvu 14 (Dex +3, taille +4)}
 {s:BDTexte|**pv** 3 (1d6)}
@@ -26,15 +26,15 @@ Categories:
 {s:BDTexte|**Corps à corps** épée courte, +0 (1d2-4/19-20)}
 {s:BDTexte|**À distance** arc court, +7 (1d2-4/x3)}
 {s:BDTexte|**Espace occupé** 30 cm ; Allonge 0 m}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 5 ; concentration +5)}
-{s:BDTexte|**Constant** — *[détection du Bien](./Détection du Bien.md)*, *[détection du Mal](./Détection du Mal.md)*}
-{s:BDTexte|**À volonté** — *[hébétement](./Hébétement.md)* (DD 10), *[lumières dansantes](./Lumières dansantes.md)*}
-{s:BDTexte|**1/jour** — *[couleurs dansantes](./Couleurs dansantes.md)* (DD 11)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 5 ; concentration +5)}
+{s:BDTexte|**Constant** — *[[détection du Bien]]*, *[[détection du Mal]]*}
+{s:BDTexte|**À volonté** — *[[hébétement]]* (DD 10), *[[lumières dansantes]]*}
+{s:BDTexte|**1/jour** — *[[couleurs dansantes]]* (DD 11)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 17, **Con** 10, **Int**6, **Sag** 11, **Cha** 10}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 5}
-{s:BDTexte|**Don** [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +19, [Évasion](./Évasion.md) +15, [Perception](./Perception.md) +6, [Psychologie](./Psychologie.md) +6, [Vol](./Vol.md) +21 ; **Modificateurs raciaux** +8 en Évasion}
+{s:BDTexte|**Don** [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +19, [[Évasion]] +15, [[Perception]] +6, [[Psychologie]] +6, [[Vol]] +21 ; **Modificateurs raciaux** +8 en Évasion}
 {s:BDTexte|**Langues** commun, sylvestre}
 {s:BDTexte|**Part** lumineux}
 {s:BDSousTitre|Écologie}
@@ -42,7 +42,7 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, couple, troupe (3-6), bande (7-14) ou tribu (15-40)}
 {s:BDTexte|**Trésor** standard (épée courte, arc court avec 20 flèches, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Lumineux (Sur).** L’esprit follet rayonne d’une lumière naturelle égale à la lumière que produirait  une torche. Il peut contrôler la couleur  et l’intensité de sa lumière par une [action rapide](./Action rapide.md), pouvant la réduire à la lumière pâle  d’une chandelle, voire l’éteindre complètement s’il  le souhaite.}
+{s:BDTexte|**Lumineux (Sur).** L’esprit follet rayonne d’une lumière naturelle égale à la lumière que produirait  une torche. Il peut contrôler la couleur  et l’intensité de sa lumière par une [[action rapide]], pouvant la réduire à la lumière pâle  d’une chandelle, voire l’éteindre complètement s’il  le souhaite.}
 
 </div>
 

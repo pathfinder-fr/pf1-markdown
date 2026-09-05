@@ -11,20 +11,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Enchantement](./Enchantement.md) ([charme](./branche charme.md)) <nowiki>[</nowiki>[langage, mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 4, [Inq](./Inquisiteur.md) 6  
+**École** [[Enchantement]] ([[branche charme|charme]]) <nowiki>[</nowiki>[[registre|langage, mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 4, [[Inquisiteur|Inq]] 6  
 
-**Temps d’incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d’incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md) ou plus (voir plus bas)  
+**Durée** 1 [[round]] ou plus (voir plus bas)  
 
 **Jet de sauvegarde** non, voir texte ; **Résistance à la magie** oui
 
-Cette litanie est un sermon dément. La cible est [confuse](./Confus.md). Au début de chaque tour, elle doit faire un jet de [Volonté](./Volonté.md) contre l’effet de [confusion](./Confus.md) (même [DD](./DD.md) que le sort). Si elle rate son [jet de sauvegarde](./jet de sauvegarde.md), elle reste [confuse](./Confus.md). Si elle réussit le jet, l’effet prend fin.
+Cette litanie est un sermon dément. La cible est [[confus|confuse]]. Au début de chaque tour, elle doit faire un jet de [[Volonté]] contre l’effet de [[confus|confusion]] (même [[DD]] que le sort). Si elle rate son [[jet de sauvegarde]], elle reste [[confus|confuse]]. Si elle réussit le jet, l’effet prend fin.
 
 Quand il est sous l’effet de ce sort, il ne peut pas bénéficier des effets d’un autre sort de litanie.

@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Escaliers pour [géants](./géants.md) taillés dans les falaises, ces derniers sont néanmoins le passage le plus direct pour passer sur le [Plateau de Storval](./Plateau de Storval.md) depuis des milliers d’années. Des escaliers à taille humaine ont été ensuite taillés pour permettre le passage aux colons et aux explorateurs de toutes races.
+Escaliers pour [[géants]] taillés dans les falaises, ces derniers sont néanmoins le passage le plus direct pour passer sur le [[Plateau de Storval]] depuis des milliers d’années. Des escaliers à taille humaine ont été ensuite taillés pour permettre le passage aux colons et aux explorateurs de toutes races.

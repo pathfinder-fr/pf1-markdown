@@ -13,7 +13,7 @@ Categories:
 {s:BDTitre|Dragon sidéral temporel|}
 {s:pucem|Dragon|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 78*}
-- [Dragon](./type Dragon.md), N
+- [[type dragon|Dragon]], N
 (((Statistiques de base)))
 - **FP **7 ; **Taille **P ; **DV** 9d12
 - **VD** 15 m
@@ -38,13 +38,13 @@ Categories:
 |- CLASS="titre"
 | Nom || &nbsp; || FP
 |- CLASS="premier"
-| [Jeune dragon temporel](./Jeune dragon temporel.md) || &nbsp; || 11
+| [[Jeune dragon temporel]] || &nbsp; || 11
 |-
-| [Dragon temporel adulte](./Dragon temporel adulte.md) || &nbsp; || 15
+| [[Dragon temporel adulte]] || &nbsp; || 15
 |-
-| [Dragon temporel vénérable](./Dragon temporel vénérable.md) || &nbsp; || 20
+| [[Dragon temporel vénérable]] || &nbsp; || 20
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons sidéraux](./Dragon sidéral.md).***</li></ul>*Les écailles fissurées de ce dragon crépitent sous l’effet d’un pouvoir aussi patient que terrifiant. Certaines de ses cornes sont vieilles et fragiles tandis que d’autres sont neuves et immaculées.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Les écailles fissurées de ce dragon crépitent sous l’effet d’un pouvoir aussi patient que terrifiant. Certaines de ses cornes sont vieilles et fragiles tandis que d’autres sont neuves et immaculées.*
 
 Gardiens de l’Histoire, les dragons temporels sont les plus puissants de tous les dragons sidéraux. Ils veillent et attendent, protégeant l’univers contre tous ceux qui voudraient modifier l’ordre
 temporel.

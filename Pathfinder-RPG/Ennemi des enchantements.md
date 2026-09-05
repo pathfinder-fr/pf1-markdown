@@ -16,11 +16,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Alch](./Alchimiste.md) 4, [Hyp](./Hypnotiseur.md) 3, [Inq](./Inquisiteur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Occ](./Occultiste.md) 4, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, G](./composantes.md)</br>
+{s:MCA}**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[COMPOSANTES|V, G]]</br>
 **Portée** personnelle</br>
 **Cible** le lanceur de sorts</br>
-**Durée** 1 heure/[niveau](./niveau.md) (cf. texte)
+**Durée** 1 heure/[[niveau]] (cf. texte)
 
-Le personnage gagne un bonus de +4 aux [jets de sauvegarde](./JDS.md) contre les effets d’[enchantement](./Enchantement.md). S’il réussit un jet contre un effet d’[enchantement](./Enchantement.md), il identifie l’effet comme s’il avait réussi un test d’[Art de la magie](./Art de la magie.md). De plus, il peut décider d’agir comme s’il avait raté son jet : dans ce cas, il gagne un bonus de +20 aux tests de [Bluff](./Bluff.md) pour convaincre les autres qu’il a raté son jet et qu’il est sous les effets de l’[enchantement](./Enchantement.md). Une créature qui tente d’utiliser la magie pour détecter cette ruse ou pour faire dire la vérité au personnage doit réussir un test de lanceur de sorts ([DD](./DD.md) 15 + [niveau de lanceur du personnage](./NLS.md)).
+Le personnage gagne un bonus de +4 aux [[JDS|jets de sauvegarde]] contre les effets d’[[enchantement]]. S’il réussit un jet contre un effet d’[[enchantement]], il identifie l’effet comme s’il avait réussi un test d’[[Art de la magie]]. De plus, il peut décider d’agir comme s’il avait raté son jet : dans ce cas, il gagne un bonus de +20 aux tests de [[Bluff]] pour convaincre les autres qu’il a raté son jet et qu’il est sous les effets de l’[[enchantement]]. Une créature qui tente d’utiliser la magie pour détecter cette ruse ou pour faire dire la vérité au personnage doit réussir un test de lanceur de sorts ([[DD]] 15 + [[NLS|niveau de lanceur du personnage]]).

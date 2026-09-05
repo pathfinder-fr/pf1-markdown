@@ -13,31 +13,31 @@ Categories:
 <div class="BD">
 {s:BDtitre|Pirate draugr|FP 3}
 {s:pucem|Mort-vivant|Aquatique|Tempéré}
-{s:BDtexte|*Source : [Guide des Chaînes p.56](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide des Chaînes p.56]]*}
 {s:BDtexte|**PX** 800}
-{s:BDtexte|[Draugr](./Draugr.md) [roublard](./Roublard.md) 1}
-{s:BDtexte|[Mort-vivant](./type Mort-vivant.md) ([eau](./sous-type Eau.md)) de taille M, CM}
-{s:BDtexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +7}
+{s:BDtexte|[[Draugr]] [[roublard]] 1}
+{s:BDtexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type eau|eau]]) de taille M, CM}
+{s:BDtexte|**Init** +6 ; **Sens** [[vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +7}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 18, contact 12, pris au dépourvu 16 (armure +3, bouclier +1, Dex +2, naturelle +2)}
-{s:BDtexte|**pv** 22 (4 [DV](./../Ressources/DV.md) ; 3d8+1d8+5)}
+{s:BDtexte|**pv** 22 (4 [[DV]] ; 3d8+1d8+5)}
 {s:BDtexte|**Réf** +5, **Vig** +2, **Vol** +4}
-{s:BDtexte|**RD** 5/contondant ou tranchant ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants (capacité).md) ; **Résistances** feu 10}
+{s:BDtexte|**RD** 5/contondant ou tranchant ; **Immunités** [[Traits des morts-vivants (capacité)|traits des morts-vivants]] ; **Résistances** feu 10}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 9 m, nage 9 m}
-{s:BDtexte|**Corps à corps** falcata de maître, +9 (1d8+5/19-20/×3 plus nausée) ou coup, +7 (1d10+5 plus [nausée](./Draugr.md))}
-{s:BDtexte|**Attaques spéciales** [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +1d6}
+{s:BDtexte|**Corps à corps** falcata de maître, +9 (1d8+5/19-20/×3 plus nausée) ou coup, +7 (1d10+5 plus [[Draugr|nausée]])}
+{s:BDtexte|**Attaques spéciales** [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +1d6}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 21, **Dex** 14, **Con** —, **Int** 10, **Sag** 12, **Cha** 13}
 {s:BDtexte|**BBA** +2, **BMO** +7, **DMD** 19}
-{s:BDtexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (falcata), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDtexte|**Compétences** [Acrobaties](./Acrobaties.md) +8, [Discrétion](./Discrétion.md) +8, [Escalade](./Escalade.md) +10, [Natation](./Natation.md) +18, [Perception](./Perception.md) +7, [Profession](./Profession.md) (marin) +7}
+{s:BDtexte|**Dons** [[Arme de prédilection]] (falcata), [[Science de linitiative|Science de l’initiative]]}
+{s:BDtexte|**Compétences** [[Acrobaties]] +8, [[Discrétion]] +8, [[Escalade]] +10, [[Natation]] +18, [[Perception]] +7, [[Profession]] (marin) +7}
 {s:BDtexte|**Langues** commun (incapable de parler)}
-{s:BDtexte|**Particularités** [recherche de pièges +1](./Roublard.md#RECHERCHEDESPIEGES)}
+{s:BDtexte|**Particularités** [[Roublard#RECHERCHEDESPIEGES|recherche de pièges +1]]}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** océans ou littoraux}
 {s:BDtexte|**Organisation sociale** solitaire ou gang (2-5)}
-{s:BDtexte|**Trésor** équipement de PNJ ([armure de cuir cloutée](./armure de cuir cloutée (armure).md) [de maître](./armure de maître.md), [rondache en bois](./rondache (armure).md), [falcata](./falcata (arme).md) [de maître](./arme de maître.md), autres trésors)}
+{s:BDtexte|**Trésor** équipement de PNJ ([[armure de cuir cloutée (armure)|armure de cuir cloutée]] [[armure de maître|de maître]], [[rondache (armure)|rondache en bois]], [[falcata (arme)|falcata]] [[arme de maître|de maître]], autres trésors)}
 </div>
 </td>
 <td>
@@ -47,11 +47,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Capitaine draugr](./Capitaine draugr.md) || 4
+| [[Capitaine draugr]] || 4
 |-
-| [Capitaine fantôme](./Capitaine fantôme.md) || 7
+| [[Capitaine fantôme]] || 7
 |-
-| [Pirate draugr](./Pirate draugr.md) || 3
+| [[Pirate draugr]] || 3
 |}
 </div>
 Les brutes effrayantes que l’on appelle des draugrs hantent les eaux de la mer Intérieure et ceux qui forment les équipages des « navires fantômes » des Îles pirates sont réputés pour leur ruse et leur absence totale de pitié.

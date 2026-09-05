@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Manœuvres offensives#BMO
 ---
 
->>> [Manœuvres offensives#BMO](./Manœuvres offensives.md#BMO)
+>>> [[Manœuvres offensives#BMO]]

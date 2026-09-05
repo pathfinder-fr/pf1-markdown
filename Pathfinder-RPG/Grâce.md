@@ -7,4 +7,4 @@ Categories:
 RedirectTo: paladin#GRACEDIVINE
 ---
 
->>> [paladin#GRACEDIVINE](./Paladin.md#GRACEDIVINE)
+>>> [[paladin#GRACEDIVINE]]

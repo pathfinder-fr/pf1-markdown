@@ -14,13 +14,13 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 4, [Cham](./Chaman.md) 4, [Inq](./Inquisiteur.md) 4, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, G, M/FD](./composantes.md) (copeaux de racine de ginseng)</br>
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Chaman|Cham]] 4, [[Inquisiteur|Inq]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[COMPOSANTES|V, G, M/FD]] (copeaux de racine de ginseng)</br>
 **Portée** personnelle</br>
 **Cible** le lanceur de sorts</br>
-**Durée** 1 round/[niveau](./niveau.md) (T)
+**Durée** 1 round/[[niveau]] (T)
 
-Le personnage est rempli d’une vigueur persistante. Il bénéficie de [guérison accélérée](./guérison accélérée.md) 2 et il est immunisé contre les effets de saignement ainsi que contre les états [fiévreux](./Fiévreux.md) et [nauséeux](./Nauséeux.md). Quand il réussit un [jet de sauvegarde](./JDS.md) contre une [maladie](./maladie.md) ou un effet de [poison](./poison.md), cette [maladie](./maladie.md) ou cet effet de [poison](./poison.md) se termine (comme s’il avait réussi suffisamment de [jets de sauvegarde](./JDS.md) pour soigner cet effet).
+Le personnage est rempli d’une vigueur persistante. Il bénéficie de [[guérison accélérée]] 2 et il est immunisé contre les effets de saignement ainsi que contre les états [[fiévreux]] et [[nauséeux]]. Quand il réussit un [[JDS|jet de sauvegarde]] contre une [[maladie]] ou un effet de [[poison]], cette [[maladie]] ou cet effet de [[poison]] se termine (comme s’il avait réussi suffisamment de [[JDS|jets de sauvegarde]] pour soigner cet effet).
 
-Si le personnage rate un [jet de sauvegarde](./JDS.md) contre une [maladie](./maladie.md) ou un effet de [poison](./poison.md), il peut aussitôt révoquer ce sort pour refaire son jet avec un bonus de +4 : il doit conserver le résultat de ce second jet, même s’il est inférieur au premier.
+Si le personnage rate un [[JDS|jet de sauvegarde]] contre une [[maladie]] ou un effet de [[poison]], il peut aussitôt révoquer ce sort pour refaire son jet avec un bonus de +4 : il doit conserver le résultat de ce second jet, même s’il est inférieur au premier.

@@ -9,7 +9,7 @@ Title: Pélude
 {s:pucem|Dragon|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 206*}
 - **9 600 PX**
-- [Dragon](./type Dragon.md) de taille G, NM
+- [[type dragon|Dragon]] de taille G, NM
 - **Init **+5 ; **Sens **vision dans le noir à 18 m, vision nocturne ; Perception +16
 (((Défense)))
 - **CA **24, contact 10, pris au dépourvu 23 (Dex +1, naturelle +14, taille -1)
@@ -25,8 +25,8 @@ Title: Pélude
 (((Statistiques)))
 - **For **27, **Dex **12, **Con **21, **Int **6, **Sag **15, **Cha **12
 - **BBA **+11 ; **BMO **+20 (+22 en bousculade) ; **DMD **31 (33 contre la bousculade, 35 contre le croc-en-jambe)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Escalade](./Escalade.md) +12, [Intimidation](./Intimidation.md) +15, [Perception](./Perception.md) +16, [Discrétion](./Discrétion.md) +10, [Natation](./Natation.md) +30
+- **Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Science de linitiative|Science de l’initiative]], [[Science de la bousculade]], [[Vigueur surhumaine]], [[Volonté de fer]]
+- **Compétences **[[Escalade]] +12, [[Intimidation]] +15, [[Perception]] +16, [[Discrétion]] +10, [[Natation]] +30
 - **Langues **draconique
 (((Écologie)))
 - **Environnement **plaines ou marais tempérés

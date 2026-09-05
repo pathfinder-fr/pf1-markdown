@@ -18,13 +18,13 @@ De plus, chaque semaine, deux équipes d'individus travaillant chez Paizo tenten
 </td>
 <td width="10%">
 ### Ressources globales
-- [Annonce et introduction](./WG Annonce.md)
-- [Cadre de jeu et histoire du donjon](./WG Cadre.md)
+- [[WG Annonce|Annonce et introduction]]
+- [[WG Cadre|Cadre de jeu et histoire du donjon]]
 
 ### Compétition chez Paizo
-- [Points de victoire](./WG Points de victoire.md)
-- [Les groupes](./WG Groupes.md)
-- [Le mercenaire](./WG Mercenaire.md)
+- [[WG Points de victoire|Points de victoire]]
+- [[WG Groupes|Les groupes]]
+- [[WG Mercenaire|Le mercenaire]]
 
 ### Divers
 - [Licences et textes légaux](http://www.facebook.com/note.php?note_id=191102987600298)
@@ -39,47 +39,47 @@ De plus, chaque semaine, deux équipes d'individus travaillant chez Paizo tenten
 | CLASS="gauche" | Règles additionnelles
 |-
 | Salle 1 (Hall d'entrée)
-| [Description](./WG Salle 1.md) — [Battlemap](./{UP}/Illustrations/WeeklyGrind/salle1-jpg.md)
+| [[WG Salle 1|Description]] — [[{UP}/Illustrations/WeeklyGrind/salle1.jpg|Battlemap]]
 | CLASS="gauche" | *archétype "mort-vivant touché par les fiélons", règles sur la corruption*
 |-
 | Salle 2 (Premier sanctuaire)
-| [Description](./WG Salle 2.md) — [Battlemap](./{UP}/Illustrations/WeeklyGrind/salle2-jpg.md)
+| [[WG Salle 2|Description]] — [[{UP}/Illustrations/WeeklyGrind/salle2.jpg|Battlemap]]
 | CLASS="gauche" | *deux objets magiques*
 |-
 | Salle 3 (Salle de l'intendant)
-| [Description](./WG Salle 3.md) — [Battlemap](./{UP}/Illustrations/WeeklyGrind/salle3-jpg.md)
+| [[WG Salle 3|Description]] — [[{UP}/Illustrations/WeeklyGrind/salle3.jpg|Battlemap]]
 | CLASS="gauche" | &nbsp;
 |-
 | Salle 4 (Antichambre)
-| [Description](./WG Salle 4.md) — [Battlemap A](./{UP}/Illustrations/WeeklyGrind/salle4-jpg.md) — [Battlemap B](./{UP}/Illustrations/WeeklyGrind/salle4down-jpg.md)
+| [[WG Salle 4|Description]] — [[{UP}/Illustrations/WeeklyGrind/salle4.jpg|Battlemap A]] — [[{UP}/Illustrations/WeeklyGrind/salle4down.jpg|Battlemap B]]
 | CLASS="gauche" | *nouveau monstre FP 2 : gelée sanglante*
 |-
 | Salle 5 (Salle piégée)
-| [Description](./WG Salle 5.md) — [Battlemap](./{UP}/Illustrations/WeeklyGrind/salle5-jpg.md)
+| [[WG Salle 5|Description]] — [[{UP}/Illustrations/WeeklyGrind/salle5.jpg|Battlemap]]
 | CLASS="gauche" | *trois nouveaux pièges*
 |-
 | Salle 6 (Première salle de garde)
-| [Description](./WG Salle 6.md)— [Battlemap](./{UP}/Illustrations/WeeklyGrind/salle6-jpg.md)
+| [[WG Salle 6|Description]]— [[{UP}/Illustrations/WeeklyGrind/salle6.jpg|Battlemap]]
 | CLASS="gauche" | *un cultiste, un chef cultiste et une configuration tactiquement difficile*
 |-
 | Salle 7 (Salle de stockage)
-| [Description](./WG Salle 7.md)— [Battlemap](./{UP}/Illustrations/WeeklyGrind/salle7-jpg.md)
+| [[WG Salle 7|Description]]— [[{UP}/Illustrations/WeeklyGrind/salle7.jpg|Battlemap]]
 | CLASS="gauche" | &nbsp;
 |-
 | Salle 8 (Prison)
-| [Description](./WG Salle 8.md)— [Battlemap](./{UP}/Illustrations/WeeklyGrind/salle8-jpg.md)
+| [[WG Salle 8|Description]]— [[{UP}/Illustrations/WeeklyGrind/salle8.jpg|Battlemap]]
 | CLASS="gauche" | *un monstre, de nouveaux pouvoirs de rage*
 |-
 | Salle 9 (Fontaine sanglante)
-| [Description](./WG Salle 9.md)— [Battlemap](./{UP}/Illustrations/WeeklyGrind/salle9-jpg.md)
+| [[WG Salle 9|Description]]— [[{UP}/Illustrations/WeeklyGrind/salle9.jpg|Battlemap]]
 | CLASS="gauche" | *un monstre*
 |-
 | Salle 10 (Temple de l'Âme)
-| [Description](./WG Salle 10.md)— [Battlemap](./{UP}/Illustrations/WeeklyGrind/salle10-jpg.md)
+| [[WG Salle 10|Description]]— [[{UP}/Illustrations/WeeklyGrind/salle10.jpg|Battlemap]]
 | CLASS="gauche" | *un cultiste ensorceleur et un objet magique*
 |-
 | Salle 11 (?)
-| [Description](./WG Salle 11.md)
+| [[WG Salle 11|Description]]
 | CLASS="gauche" | *à venir*
 |}
 

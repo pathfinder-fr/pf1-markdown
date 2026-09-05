@@ -8,9 +8,9 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi les [représentations bardiques](./Représentations.md).***
-***Voir aussi les [chefs d'œuvre](./Chefs doeuvre.md).***
-***Voir aussi la [liste des sorts de barde](./Liste des sorts de bardes.md).***
+<div class="fright">***Voir aussi les [[Représentations|représentations bardiques]].***
+***Voir aussi les [[Chefs doeuvre|chefs d'œuvre]].***
+***Voir aussi la [[Liste des sorts de bardes|liste des sorts de barde]].***
 {s:PM0|barde}**Voir les archétypes du barde**&emsp;
 <li ID="barde" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypebarde}</li>
 </div>*Pour ceux qui sont capables de les découvrir, le monde contient des merveilles insoupçonnées et de nombreux mystères. C’est grâce à leur intelligence, leur habileté et leur magie que quelques individus rusés percent les secrets du monde tout en se formant aux arts de la persuasion, de la manipulation et de l’inspiration. Ces bardes, qui maîtrisent généralement une ou plusieurs formes d’expression artistique, possèdent des connaissances étonnamment variées et utilisent ce qu’ils apprennent pour se préparer aux dangers qui les menacent, eux et leurs alliés. Vifs d’esprit et passionnants, les bardes possèdent des compétences diversifiées qui peuvent les mener vers de nombreuses carrières : joueurs professionnels, touche-à-tout, érudits ou artistes, chefs charismatiques ou brigands, ou bien encore tout cela à la fois. Pour les bardes, chaque jour apporte son lot d’opportunités, d’aventures et de défis dont il n’est possible de tirer avantage qu’en prenant des risques, en élargissant ses connaissances et en se donnant à cent pour cent.*
@@ -38,7 +38,7 @@ Categories:
 | +2
 | +0
 | +2
-| CLASS="gauche" | [Contre-chant](./Représentations.md#CONTRE-CHANT), [distraction](./Représentations.md#DISTRACTION), [fascination](./Représentations.md#FASCINATION), [inspiration vaillante](./Représentations.md#INSPIRATIONVAILLANTE) +1, [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE), [savoir bardique](./Barde.md#SAVOIRBARDIQUE), [tours de magie](./Barde.md#TOURSDEMAGIE)
+| CLASS="gauche" | [[Représentations#CONTRE-CHANT|Contre-chant]], [[Représentations#DISTRACTION|distraction]], [[Représentations#FASCINATION|fascination]], [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] +1, [[barde#REPRESENTATIONBARDIQUE|représentation bardique]], [[barde#SAVOIRBARDIQUE|savoir bardique]], [[barde#TOURSDEMAGIE|tours de magie]]
 | 1
 | -
 | -
@@ -51,7 +51,7 @@ Categories:
 | +3
 | +0
 | +3
-| CLASS="gauche" | [Érudition](./Barde.md#ERUDITION), [versatilité artistique](./Barde.md#VERSATILITEARTISTIQUE)
+| CLASS="gauche" | [[barde#ERUDITION|Érudition]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]
 | 2
 | -
 | -
@@ -64,7 +64,7 @@ Categories:
 | +3
 | +1
 | +3
-| CLASS="gauche" | [Inspiration talentueuse](./Représentations.md#INSPIRATIONTALENTUEUSE) +2
+| CLASS="gauche" | [[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +2
 | 3
 | -
 | -
@@ -90,7 +90,7 @@ Categories:
 | +4
 | +1
 | +4
-| CLASS="gauche" | [Inspiration vaillante](./Représentations.md#INSPIRATIONVAILLANTE) +2, [maître du savoir](./Barde.md#MAITREDUSAVOIR) 1/jour
+| CLASS="gauche" | [[Représentations#INSPIRATIONVAILLANTE|Inspiration vaillante]] +2, [[barde#MAITREDUSAVOIR|maître du savoir]] 1/jour
 | 4
 | 2
 | -
@@ -103,7 +103,7 @@ Categories:
 | +5
 | +2
 | +5
-| CLASS="gauche" | [Suggestion](./Représentations.md#SUGGESTION), [versatilité artistique](./Barde.md#VERSATILITEARTISTIQUE)
+| CLASS="gauche" | [[Représentations#SUGGESTION|Suggestion]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]
 | 4
 | 3
 | -
@@ -116,7 +116,7 @@ Categories:
 | +5
 | +2
 | +5
-| CLASS="gauche" | [Inspiration talentueuse](./Représentations.md#INSPIRATIONTALENTUEUSE) +3
+| CLASS="gauche" | [[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +3
 | 4
 | 3
 | 1
@@ -129,7 +129,7 @@ Categories:
 | +6
 | +2
 | +6
-| CLASS="gauche" | [Chant funeste](./Représentations.md#CHANTFUNESTE)
+| CLASS="gauche" | [[Représentations#CHANTFUNESTE|Chant funeste]]
 | 4
 | 4
 | 2
@@ -142,7 +142,7 @@ Categories:
 | +6
 | +3
 | +6
-| CLASS="gauche" | [Inspiration glorieuse](./Représentations.md#INSPIRATIONGLORIEUSE)
+| CLASS="gauche" | [[Représentations#INSPIRATIONGLORIEUSE|Inspiration glorieuse]]
 | 5
 | 4
 | 3
@@ -155,7 +155,7 @@ Categories:
 | +7
 | +3
 | +7
-| CLASS="gauche" | [Touche-à-tout](./Barde.md#TOUCHE-A-TOUT), [versatilité artistique](./Barde.md#VERSATILITEARTISTIQUE)
+| CLASS="gauche" | [[barde#TOUCHE-A-TOUT|Touche-à-tout]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]
 | 5
 | 4
 | 3
@@ -168,7 +168,7 @@ Categories:
 | +7
 | +3
 | +7
-| CLASS="gauche" | [Inspiration talentueuse](./Représentations.md#INSPIRATIONTALENTUEUSE) +4, [inspiration vaillante](./Représentations.md#INSPIRATIONVAILLANTE) +3, [maître du savoir](./Barde.md#MAITREDUSAVOIR) 2/jour
+| CLASS="gauche" | [[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +4, [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] +3, [[barde#MAITREDUSAVOIR|maître du savoir]] 2/jour
 | 5
 | 4
 | 4
@@ -181,7 +181,7 @@ Categories:
 | +8
 | +4
 | +8
-| CLASS="gauche" | [Représentation apaisante](./Représentations.md#REPRESENTATIONAPAISANTE)
+| CLASS="gauche" | [[Représentations#REPRESENTATIONAPAISANTE|Représentation apaisante]]
 | 5
 | 5
 | 4
@@ -207,7 +207,7 @@ Categories:
 | +9
 | +4
 | +9
-| CLASS="gauche" | [Mélodie effrayante](./Représentations.md#MELODIEEFFRAYANTE), [versatilité artistique](./Barde.md#VERSATILITEARTISTIQUE)
+| CLASS="gauche" | [[Représentations#MELODIEEFFRAYANTE|Mélodie effrayante]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]
 | 5
 | 5
 | 4
@@ -220,7 +220,7 @@ Categories:
 | +9
 | +5
 | +9
-| CLASS="gauche" | [Inspiration héroïque](./Représentations.md#INSPIRATIONHEROIQUE), [inspiration talentueuse](./Représentations.md#INSPIRATIONTALENTUEUSE) +5
+| CLASS="gauche" | [[Représentations#INSPIRATIONHEROIQUE|Inspiration héroïque]], [[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] +5
 | 5
 | 5
 | 5
@@ -246,7 +246,7 @@ Categories:
 | +10
 | +5
 | +10
-| CLASS="gauche" | [Inspiration vaillante](./Représentations.md#INSPIRATIONVAILLANTE) +4, [maître du savoir](./Barde.md#MAITREDUSAVOIR) 3/jour
+| CLASS="gauche" | [[Représentations#INSPIRATIONVAILLANTE|Inspiration vaillante]] +4, [[barde#MAITREDUSAVOIR|maître du savoir]] 3/jour
 | 5
 | 5
 | 5
@@ -259,7 +259,7 @@ Categories:
 | +11
 | +6
 | +11
-| CLASS="gauche" | [Suggestion de groupe](./Représentations.md#SUGGESTIONDEGROUPE), [versatilité artistique](./Barde.md#VERSATILITEARTISTIQUE)
+| CLASS="gauche" | [[Représentations#SUGGESTIONDEGROUPE|Suggestion de groupe]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]
 | 5
 | 5
 | 5
@@ -272,7 +272,7 @@ Categories:
 | +11
 | +6
 | +11
-| CLASS="gauche" | [Inspiration talentueuse](./Représentations.md#INSPIRATIONTALENTUEUSE) +6
+| CLASS="gauche" | [[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +6
 | 5
 | 5
 | 5
@@ -285,7 +285,7 @@ Categories:
 | +12
 | +6
 | +12
-| CLASS="gauche" | [Représentation mortelle](./Représentations.md#REPRESENTATIONMORTELLE)
+| CLASS="gauche" | [[Représentations#REPRESENTATIONMORTELLE|Représentation mortelle]]
 | 5
 | 5
 | 5
@@ -353,22 +353,22 @@ Categories:
 **Argent de départ.** 3d6 x 10 po (moyenne 105 po).
 
 ### Compétences de classe
-Les compétences de classe du barde sont les suivantes : [Acrobaties](./Acrobaties.md) (Dex), [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (tous les domaines) (Int), [Déguisement](./Déguisement.md) (Cha), [Diplomatie](./Diplomatie.md) (Cha), [Discrétion](./Discrétion.md) (Dex), [Escalade](./Escalade.md) (For), [Escamotage](./Escamotage.md) (Dex), [Estimation](./Estimation.md) (Int), [Évasion](./Évasion.md) (Dex), [Intimidation](./Intimidation.md) (Cha), [Linguistique](./Linguistique.md) (Int), [Perception](./Perception.md) (Sag), [Profession](./Profession.md) (Sag), [Psychologie](./Psychologie.md) (Sag), [Représentation](./Représentation.md) (Cha) et [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) (Cha).
+Les compétences de classe du barde sont les suivantes : [[Acrobaties]] (Dex), [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Bluff]] (Cha), [[Connaissances]] (tous les domaines) (Int), [[Déguisement]] (Cha), [[Diplomatie]] (Cha), [[Discrétion]] (Dex), [[Escalade]] (For), [[Escamotage]] (Dex), [[Estimation]] (Int), [[Évasion]] (Dex), [[Intimidation]] (Cha), [[Linguistique]] (Int), [[Perception]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag), [[Représentation]] (Cha) et [[Utilisation dobjets magiques|Utilisation d’objets magiques]] (Cha).
 
-**Points de compétence par niveau.** 6 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 6 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
 Les aptitudes du barde sont décrites ci-dessous.
 
 #### Armes et armures
-Le barde est formé au maniement de toutes les [armes courantes](./arme courante.md) ainsi que de l’arc court, l’épée courte, l’épée longue, la matraque, la rapière, et du fouet. Il est également formé au port des [armures légères](./armure légère.md) et à l’utilisation des boucliers (à l’exception des pavois). Il peut porter une [armure légère](./armure légère.md) et utiliser un bouclier sans encourir de risque d’[échec des sorts](./échec des sorts.md). S’il porte une [armure intermédiaire](./armure intermédiaire.md) ou [lourde](./armure lourde.md), le risque d’[échec des sorts](./échec des sorts.md) s’applique normalement lorsque le sort lancé possède une composante gestuelle (comme pour les autres lanceurs de sorts profanes). Ces particularités ne concernent que les sorts de barde : les règles normales s’appliquent dans le cas des sorts qu’un barde [multiclassé](./multiclassé.md) reçoit grâce à d’autres classes.
+Le barde est formé au maniement de toutes les [[arme courante|armes courantes]] ainsi que de l’arc court, l’épée courte, l’épée longue, la matraque, la rapière, et du fouet. Il est également formé au port des [[armure légère|armures légères]] et à l’utilisation des boucliers (à l’exception des pavois). Il peut porter une [[armure légère]] et utiliser un bouclier sans encourir de risque d’[[échec des sorts]]. S’il porte une [[armure intermédiaire]] ou [[armure lourde|lourde]], le risque d’[[échec des sorts]] s’applique normalement lorsque le sort lancé possède une composante gestuelle (comme pour les autres lanceurs de sorts profanes). Ces particularités ne concernent que les sorts de barde : les règles normales s’appliquent dans le cas des sorts qu’un barde [[multiclassé]] reçoit grâce à d’autres classes.
 
 #### Sorts
-Un barde peut lancer des sorts profanes appartenant à la [liste des sorts de bardes](./Liste des sorts de bardes.md). Il peut lancer les sorts qu’il connaît sans devoir les préparer à l’avance. Tous les sorts qu’un barde lance s’accompagnent d’une composante verbale (qui peut prendre la forme d’une chanson, d’un poème ou d’un air de musique). Pour apprendre ou lancer un sort, le barde doit avoir une valeur de [Charisme](./Charisme.md) d’au moins 10 + le niveau du sort. Le [degré de difficulté](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) contre ses sorts vaut 10 + le [niveau du sort](./Niveau de sort.md) + le modificateur de [Charisme](./Charisme.md) du barde.
+Un barde peut lancer des sorts profanes appartenant à la [[liste des sorts de bardes]]. Il peut lancer les sorts qu’il connaît sans devoir les préparer à l’avance. Tous les sorts qu’un barde lance s’accompagnent d’une composante verbale (qui peut prendre la forme d’une chanson, d’un poème ou d’un air de musique). Pour apprendre ou lancer un sort, le barde doit avoir une valeur de [[Charisme]] d’au moins 10 + le niveau du sort. Le [[DD|degré de difficulté]] des [[jet de sauvegarde|jets de sauvegarde]] contre ses sorts vaut 10 + le [[niveau de sort|niveau du sort]] + le modificateur de [[Charisme]] du barde.
 
-Comme les autres lanceurs de sorts, le barde ne peut lancer qu’un certain nombre de sorts de chaque niveau chaque jour. Son quota de sorts quotidiens est indiqué sur la Table "[Le Barde](./Barde.md#TABLEBARDE)". En plus de cela, il reçoit des sorts en bonus chaque jour s’il possède un [Charisme](./Charisme.md) élevé (voir la Table "[Modificateurs de caractéristique et sorts en bonus](./Caractéristiques.md#TABLEAUCARACTERISTIQUES)").
+Comme les autres lanceurs de sorts, le barde ne peut lancer qu’un certain nombre de sorts de chaque niveau chaque jour. Son quota de sorts quotidiens est indiqué sur la Table "[[barde#TABLEBARDE|Le Barde]]". En plus de cela, il reçoit des sorts en bonus chaque jour s’il possède un [[Charisme]] élevé (voir la Table "[[Caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
 
-Le barde possède un répertoire de sorts très limité. Il commence sa carrière en connaissant seulement quatre sorts du niveau 0 et deux sorts du 1<sup>er</sup> niveau (il peut choisir ces sorts). Chaque fois qu’il gagne un niveau de barde, il reçoit un ou plusieurs nouveaux sorts, comme indiqué sur la Table "[Sorts connus par le barde](./Barde.md#TABLESORTSCONNUSBARDE)" (contrairement au quota de sorts quotidiens, le nombre de sorts connus par un barde n’est pas modifié par sa valeur de [Charisme](./Charisme.md) ; les chiffres de la Table "[Sorts connus par le barde](./Barde.md#TABLESORTSCONNUSBARDE)" sont fixes).
+Le barde possède un répertoire de sorts très limité. Il commence sa carrière en connaissant seulement quatre sorts du niveau 0 et deux sorts du 1<sup>er</sup> niveau (il peut choisir ces sorts). Chaque fois qu’il gagne un niveau de barde, il reçoit un ou plusieurs nouveaux sorts, comme indiqué sur la Table "[[barde#TABLESORTSCONNUSBARDE|Sorts connus par le barde]]" (contrairement au quota de sorts quotidiens, le nombre de sorts connus par un barde n’est pas modifié par sa valeur de [[Charisme]] ; les chiffres de la Table "[[barde#TABLESORTSCONNUSBARDE|Sorts connus par le barde]]" sont fixes).
 
 Lorsqu’il atteint le niveau 5, et tous les trois niveaux de barde suivants (aux niveaux 8, 11, etc.), le barde peut choisir d’apprendre un nouveau sort à la place de l’un de ceux qu’il connaît déjà. Le barde oublie alors un sort au profit d’un autre. Le niveau du nouveau sort doit être identique à celui du sort oublié, et il ne peut s’agir d’un sort appartenant au plus haut niveau de sorts accessible au barde. Un barde ne peut échanger qu’un seul sort à chaque fois, et doit choisir s’il procède à un échange au moment où il apprend de nouveaux sorts lors du passage de niveau.
 
@@ -376,51 +376,51 @@ Un barde n’a pas besoin de préparer ses sorts à l’avance. Il peut lancer n
 
 {s:Reference|SAVOIRBARDIQUE}
 #### Savoir bardique (Ext)
-Un barde ajoute la moitié de son niveau de classe (au minimum 1) à tous ses tests de [Connaissances](./Connaissances.md) et peut utiliser n’importe quelle compétence de [Connaissances](./Connaissances.md), même s’il n’a pas investi de points de compétence dans celle-ci.
+Un barde ajoute la moitié de son niveau de classe (au minimum 1) à tous ses tests de [[Connaissances]] et peut utiliser n’importe quelle compétence de [[Connaissances]], même s’il n’a pas investi de points de compétence dans celle-ci.
 
 {s:Reference|REPRESENTATIONBARDIQUE}
 #### Représentation bardique
 {s:ImageDroite|Illustrations/PNJ/Lem.jpg|35%}
-Un barde peut utiliser la compétence [Représentation](./Représentation.md) pour créer des effets magiques affectant ceux qui sont proches de lui, y compris lui-même s’il le désire. Chaque jour, il peut utiliser cette capacité pendant un nombre de rounds égal à 4 + son modificateur de [Charisme](./Charisme.md). Ce nombre augmente de +2 à chaque niveau de barde après le premier. Au fil des niveaux, le barde apprend à produire différents effets. Chaque round, il peut choisir celui qu’il désire utiliser.
+Un barde peut utiliser la compétence [[Représentation]] pour créer des effets magiques affectant ceux qui sont proches de lui, y compris lui-même s’il le désire. Chaque jour, il peut utiliser cette capacité pendant un nombre de rounds égal à 4 + son modificateur de [[Charisme]]. Ce nombre augmente de +2 à chaque niveau de barde après le premier. Au fil des niveaux, le barde apprend à produire différents effets. Chaque round, il peut choisir celui qu’il désire utiliser.
 
-Il faut utiliser une [action simple](./Action simple.md) pour activer un effet de représentation bardique mais, pour maintenir en place un effet déjà activé un round de plus, une [action libre](./Action libre.md) suffit. Pour passer à un autre effet, le barde doit arrêter le précédent et utiliser une [action simple](./Action simple.md) pour activer le nouvel effet. Un adversaire ne peut interrompre une représentation bardique mais l’effet se termine immédiatement si le barde est tué, [paralysé](./Paralysé.md), [étourdi](./Étourdi.md), s’il tombe [inconscient](./Inconscient.md) ou s’il lui est impossible, pour une raison ou pour une autre, de dévouer une [action libre](./Action libre.md) chaque round pour le maintenir. Un barde ne peut appliquer qu’un seul effet de représentation bardique à la fois.
+Il faut utiliser une [[action simple]] pour activer un effet de représentation bardique mais, pour maintenir en place un effet déjà activé un round de plus, une [[action libre]] suffit. Pour passer à un autre effet, le barde doit arrêter le précédent et utiliser une [[action simple]] pour activer le nouvel effet. Un adversaire ne peut interrompre une représentation bardique mais l’effet se termine immédiatement si le barde est tué, [[paralysé]], [[étourdi]], s’il tombe [[inconscient]] ou s’il lui est impossible, pour une raison ou pour une autre, de dévouer une [[action libre]] chaque round pour le maintenir. Un barde ne peut appliquer qu’un seul effet de représentation bardique à la fois.
 
-À partir du niveau 7, le barde n’a besoin que d’une [action de mouvement](./Action de mouvement.md) pour activer un effet de représentation bardique. À partir du niveau 13, une [action rapide](./Action rapide.md) suffit.
+À partir du niveau 7, le barde n’a besoin que d’une [[action de mouvement]] pour activer un effet de représentation bardique. À partir du niveau 13, une [[action rapide]] suffit.
 
 Chaque représentation bardique possède une composante sonore, une composante visuelle, ou les deux.
 
-Dans le cas de composantes sonores, les cibles doivent être capables d’entendre le barde et, dans la plupart des cas (voir les descriptions individuelles pour plus de précision) de comprendre le langage utilisé pour être affectées par la représentation. Un barde [sourd](./Assourdi.md) a 20% de chances d’échec lorsqu’il entreprend une représentation à composante sonore. En cas d’échec, la tentative est quand même décomptée de son quota journalier. Les créatures [sourdes](./Assourdi.md) ne peuvent pas être affectées par une représentation bardique à composante sonore.
+Dans le cas de composantes sonores, les cibles doivent être capables d’entendre le barde et, dans la plupart des cas (voir les descriptions individuelles pour plus de précision) de comprendre le langage utilisé pour être affectées par la représentation. Un barde [[assourdi|sourd]] a 20% de chances d’échec lorsqu’il entreprend une représentation à composante sonore. En cas d’échec, la tentative est quand même décomptée de son quota journalier. Les créatures [[assourdi|sourdes]] ne peuvent pas être affectées par une représentation bardique à composante sonore.
 
-Dans le cas de composantes visuelles, les cibles doivent disposer d’une ligne de mire jusqu’au barde pour être affectées par sa représentation. Un barde [aveugle](./Aveuglé.md) a 50% de chances d’échec lorsqu’il entreprend une représentation à composante visuelle. En cas d’échec, la tentative est quand même décomptée de son quota journalier. Les créatures [aveugles](./Aveuglé.md) ne peuvent pas être affectées par une représentation bardique à composante visuelle.
+Dans le cas de composantes visuelles, les cibles doivent disposer d’une ligne de mire jusqu’au barde pour être affectées par sa représentation. Un barde [[aveuglé|aveugle]] a 50% de chances d’échec lorsqu’il entreprend une représentation à composante visuelle. En cas d’échec, la tentative est quand même décomptée de son quota journalier. Les créatures [[aveuglé|aveugles]] ne peuvent pas être affectées par une représentation bardique à composante visuelle.
 
 {s:UM}**Les chefs d'œuvre.** Les bardes apportent des nouvelles du vaste monde, divertissent les rois, servent de diplomates culturels et transmettent une riche tradition orale aux gens du peuple comme aux nobles. Certains les appellent les touche-à-tout et disent qu’ils sont incapables de se spécialiser, mais c’est faux. Ils sont les spécialistes des histoires et les gardiens des légendes, versés dans les mythologies du monde entier. Leurs connaissances leur confèrent des pouvoirs mais leur puissance vient surtout de leur compréhension des subtilités de l’art : qu’il s’agisse de musique, de tragédie ou de comédie, les bardes comprennent le pouvoir et l’attrait des histoires, des chants et des danses. Ils puisent dans ce savoir pour générer des pouvoirs surnaturels qui contribueront à écrire leur propre légende.
 
-Cette partie présente les [chefs-d'œuvre](./Chefs doeuvre.md), une version spécialisée de la représentation bardique qui permet au barde de réaliser des exploits incroyables.
+Cette partie présente les [[Chefs doeuvre|chefs-d'œuvre]], une version spécialisée de la représentation bardique qui permet au barde de réaliser des exploits incroyables.
 
-*Voir la [liste des représentations bardiques](./Représentations.md).*
+*Voir la [[Représentations|liste des représentations bardiques]].*
 
 {s:Reference|TOURSDEMAGIE}
 #### Tours de magie
-Les bardes apprennent un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqué dans la Table "[Sorts connus par le barde](./Barde.md#TABLESORTSCONNUSBARDE)". Ces sorts sont lancés de la même manière que les autres mais ils ne nécessitent aucun [emplacement de sorts](./emplacement de sort.md) et peuvent être utilisés de manière illimitée.
+Les bardes apprennent un certain nombre de tours de magie (ou sorts de niveau 0) comme indiqué dans la Table "[[barde#TABLESORTSCONNUSBARDE|Sorts connus par le barde]]". Ces sorts sont lancés de la même manière que les autres mais ils ne nécessitent aucun [[emplacement de sort|emplacement de sorts]] et peuvent être utilisés de manière illimitée.
 
 {s:Reference|VERSATILITEARTISTIQUE}
 #### Versatilité artistique (Ext)
-Au niveau 2, un barde peut choisir une forme de la compétence [Représentation](./Représentation.md) et utiliser le modificateur correspondant à la place des modificateurs de certaines compétences auxquelles elles sont associées. Lorsque le barde choisit de faire cette substitution, il utilise son bonus total pour la compétence de [Représentation](./Représentation.md) (y compris son bonus de [compétence de classe](./Tableau récapitulatif des compétences.md)) au lieu de son bonus dans la compétence associée et ce, qu’il ait investi des points de compétence dans celle-ci ou non. Au niveau 6 et tous les quatre niveaux par la suite, le barde peut choisir une nouvelle forme de la compétence Représentation qu’il pourra également utiliser pour cette substitution.
+Au niveau 2, un barde peut choisir une forme de la compétence [[Représentation]] et utiliser le modificateur correspondant à la place des modificateurs de certaines compétences auxquelles elles sont associées. Lorsque le barde choisit de faire cette substitution, il utilise son bonus total pour la compétence de [[Représentation]] (y compris son bonus de [[Tableau récapitulatif des compétences|compétence de classe]]) au lieu de son bonus dans la compétence associée et ce, qu’il ait investi des points de compétence dans celle-ci ou non. Au niveau 6 et tous les quatre niveaux par la suite, le barde peut choisir une nouvelle forme de la compétence Représentation qu’il pourra également utiliser pour cette substitution.
 
-Les formes de Représentation et leurs compétences associées sont : chant ([Bluff](./Bluff.md), [Psychologie](./Psychologie.md)), danse ([Acrobaties](./Acrobaties.md), [Vol](./Vol.md)), déclamation ([Diplomatie](./Diplomatie.md), [Psychologie](./Psychologie.md)), farce ([Bluff](./Bluff.md), [Intimidation](./Intimidation.md)), instruments à clavier ([Diplomatie](./Diplomatie.md), [Intimidation](./Intimidation.md)), instruments à cordes ([Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md)), instruments à vent ([Diplomatie](./Diplomatie.md), [Dressage](./Dressage.md)), percussions ([Dressage](./Dressage.md), [Intimidation](./Intimidation.md)) et scène ([Bluff](./Bluff.md), [Déguisement](./Déguisement.md)).
+Les formes de Représentation et leurs compétences associées sont : chant ([[Bluff]], [[Psychologie]]), danse ([[Acrobaties]], [[Vol]]), déclamation ([[Diplomatie]], [[Psychologie]]), farce ([[Bluff]], [[Intimidation]]), instruments à clavier ([[Diplomatie]], [[Intimidation]]), instruments à cordes ([[Bluff]], [[Diplomatie]]), instruments à vent ([[Diplomatie]], [[Dressage]]), percussions ([[Dressage]], [[Intimidation]]) et scène ([[Bluff]], [[Déguisement]]).
 
 {s:Reference|ERUDITION}
 #### Érudition (Ext)
-Au niveau 2, le barde acquiert une certaine résistance aux représentations des autres bardes et aux effets de son en général. Il gagne un bonus de +4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les effets des représentations bardiques, les effets de son et les effets de langage.
+Au niveau 2, le barde acquiert une certaine résistance aux représentations des autres bardes et aux effets de son en général. Il gagne un bonus de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets des représentations bardiques, les effets de son et les effets de langage.
 
 {s:Reference|MAITREDUSAVOIR}
 #### Maître du savoir (Ext)
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 
-[→](./FAQ- Manuel des joueurs (Races et classes).md#4) Capacité de barde maître du savoir et faire 10 : Puis-je faire 10 sur les tests de Connaissances ? La compétence Connaissances ne dit pas que c’est impossible, mais si c’est vrai, la première moitié de la capacité de barde maître du savoir ne fait rien.**'
+[[FAQ- Manuel des joueurs (Races et classes)#4|→]] Capacité de barde maître du savoir et faire 10 : Puis-je faire 10 sur les tests de Connaissances ? La compétence Connaissances ne dit pas que c’est impossible, mais si c’est vrai, la première moitié de la capacité de barde maître du savoir ne fait rien.**'
 
-Oui, c’est possible. La capacité de barde <u>[maître du savoir](./Barde.md#MAITREDUSAVOIR)</u> devrait préciser à la fin de cette première phrase « , et ce même lorsqu'il est distrait ou menacé ».}Au niveau 5, le barde devient un maître érudit et peut « [faire 10](./Compétences.md#FAIRE10) » chaque fois qu’il doit réaliser un [test de compétence](./test de compétence.md) relatif à une catégorie de [Connaissances](./Connaissances.md) dans laquelle il a investi des points de compétence, et ce même lorsqu'il est distrait ou menacé. Le barde n’est pas obligé de « [faire 10](./Compétences.md#FAIRE10) » et peut choisir de lancer le dé normalement. De plus, une fois par jour, le barde peut « [faire 20](./Compétences.md#FAIRE10) » sur un test de [Connaissances](./Connaissances.md) en utilisant une [action simple](./Action simple.md). Tous les six niveaux de barde après le niveau 5, il peut utiliser cette capacité une fois de plus chaque jour, jusqu’à un maximum de trois utilisations quotidiennes au niveau 17.
+Oui, c’est possible. La capacité de barde <u>[[Barde#MAITREDUSAVOIR|maître du savoir]]</u> devrait préciser à la fin de cette première phrase « , et ce même lorsqu'il est distrait ou menacé ».}Au niveau 5, le barde devient un maître érudit et peut « [[Compétences#FAIRE10|faire 10]] » chaque fois qu’il doit réaliser un [[test de compétence]] relatif à une catégorie de [[Connaissances]] dans laquelle il a investi des points de compétence, et ce même lorsqu'il est distrait ou menacé. Le barde n’est pas obligé de « [[Compétences#FAIRE10|faire 10]] » et peut choisir de lancer le dé normalement. De plus, une fois par jour, le barde peut « [[Compétences#FAIRE10|faire 20]] » sur un test de [[Connaissances]] en utilisant une [[action simple]]. Tous les six niveaux de barde après le niveau 5, il peut utiliser cette capacité une fois de plus chaque jour, jusqu’à un maximum de trois utilisations quotidiennes au niveau 17.
 
 {s:Reference|TOUCHE-A-TOUT}
 #### Touche-à-tout (Ext)
-Au niveau 10, le barde peut utiliser n’importe quelle [compétence](./Tableau récapitulatif des compétences.md), même celles qui ne peuvent normalement pas être utilisées sans formation. Au niveau 16, toutes les [compétences](./Tableau récapitulatif des compétences.md) sont des compétences de classe pour le barde. Au niveau 19, le barde peut choisir de « [faire 10](./Compétences.md#FAIRE10) » chaque fois qu’il doit réaliser un [test de compétence](./test de compétence.md) et ce quelle que soit la [compétence](./Tableau récapitulatif des compétences.md), même s’il s’agit d’une [compétence](./Tableau récapitulatif des compétences.md) qui n’autorise normalement pas cette possibilité.
+Au niveau 10, le barde peut utiliser n’importe quelle [[Tableau récapitulatif des compétences|compétence]], même celles qui ne peuvent normalement pas être utilisées sans formation. Au niveau 16, toutes les [[Tableau récapitulatif des compétences|compétences]] sont des compétences de classe pour le barde. Au niveau 19, le barde peut choisir de « [[Compétences#FAIRE10|faire 10]] » chaque fois qu’il doit réaliser un [[test de compétence]] et ce quelle que soit la [[Tableau récapitulatif des compétences|compétence]], même s’il s’agit d’une [[Tableau récapitulatif des compétences|compétence]] qui n’autorise normalement pas cette possibilité.

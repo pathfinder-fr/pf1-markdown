@@ -13,41 +13,41 @@ Categories:
 {s:pucem|humanoïde monstrueux|collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p. 254}
 {s:BDTexte|**PX** 153 600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille TG, LN}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), *[détection des passages secrets](./Détection des passages secrets.md)*, [vision nocturne](./Vision nocturne (capacité).md) ; *[vision lucide](./Vision lucide.md)*; [Perception](./Perception.md) +37}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille TG, LN}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), *[[détection des passages secrets]]*, [[Vision nocturne (capacité)|vision nocturne]] ; *[[vision lucide]]*; [[Perception]] +37}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 33, contact 8, pris au dépourvu 33 (naturelle +25, Taille -2)}
-{s:BDTexte|**pv** 312 (25d10+175) ; [guérison accélérée 10](./Guérison accélérée (capacité).md)}
+{s:BDTexte|**pv** 312 (25d10+175) ; [[guérison accélérée (capacité)|guérison accélérée 10]]}
 {s:BDTexte|**Réf** +14, **Vig** +15, **Vol** +21}
-{s:BDTexte|**Capacité défensive** voile de mérope ; **[Immunités](./Immunité (capacité).md)** poison, son ; **[Résistance](./Résistance (capacité).md)** acide 20 ; **[RM](./Résistance à la magie (capacité).md)** 29}
+{s:BDTexte|**Capacité défensive** voile de mérope ; **[[Immunité (capacité)|Immunités]]** poison, son ; **[[Résistance (capacité)|Résistance]]** acide 20 ; **[[Résistance à la magie (capacité)|RM]]** 29}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), **vol** 15 m (10 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** masse d’armes légère axiomatique +2, +35/+30/+25/+20 (2d6+11/19-20) et dard, +27 (2d8+4/19-20 plus poison)}
 {s:BDTexte|**Espace occupé** 4.5 m (3 {s:c}); **Allonge** 4.5 m (3 {s:c})}
 {s:BDTexte|**Attaque spéciale** jet de mérope, engendrement de soldats}
 {s:BDTexte|**Pouvoirs magiques** (NLS 20 ; concentration +29)}
-{s:BDSorts|Constant — *[détection des passages secrets](./Détection des passages secrets.md)*, *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|À volonté — *[communication avec les morts](./Communication avec les morts.md)* (DD 22), *[guérison des maladies](./Guérison des maladies.md)* , *[détection de pensées](./Détection de pensées.md)* (DD 21), *[lumière du jour](./Lumière du jour.md)*, *[neutralisation du poison](./Neutralisation du poison.md)*, *[scrutation suprême](./Scrutation suprême.md)* (DD 26)}
-{s:BDSorts|3/jour — *[charme-monstre](./Charme-monstre.md)* (DD 23), *[lenteur](./Lenteur.md)* à [incantation rapide](./Incantation rapide.md) (DD 22), *[orientation](./Orientation.md)*, *[poison](./poison.md)* (DD 23), *[restauration](./Restauration.md)*, *[soins intensifs de groupe](./Soins intensifs de groupe.md)*, *[vermine géante](./Vermine géante.md)* (8 abeilles ou 6 guêpes)}
-{s:BDSorts|1/jour — *[prémonition](./Prémonition.md)*, *[guérison suprême de groupe](./Guérison suprême de groupe.md)*, *[régénération](./Régénération.md)*}
+{s:BDSorts|Constant — *[[détection des passages secrets]]*, *[[vision lucide]]*}
+{s:BDSorts|À volonté — *[[communication avec les morts]]* (DD 22), *[[guérison des maladies]]* , *[[détection de pensées]]* (DD 21), *[[lumière du jour]]*, *[[neutralisation du poison]]*, *[[scrutation suprême]]* (DD 26)}
+{s:BDSorts|3/jour — *[[charme-monstre]]* (DD 23), *[[lenteur]]* à [[incantation rapide]] (DD 22), *[[orientation]]*, *[[poison]]* (DD 23), *[[restauration]]*, *[[soins intensifs de groupe]]*, *[[vermine géante]]* (8 abeilles ou 6 guêpes)}
+{s:BDSorts|1/jour — *[[prémonition]]*, *[[guérison suprême de groupe]]*, *[[régénération]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 28, **Dex** 11, **Con** 25, **Int** 20, **Sag** 21, **Cha** 28}
 {s:BDTexte|**BBA** +25 ; **BMO** +36 ; **DMD** 46}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (masse d’armes légère), [Don pour les critiques](./Don pour les critiques.md), [Efficacité des sorts accrue](./Efficacité des sorts accrue.md), [Efficacité des sorts accrue supérieure](./Efficacité des sorts accrue supérieure.md), [Expertise du combat](./Expertise du combat.md), [Magie de guerre](./Magie de guerre.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (dard), [Science du critique](./Science du critique.md) (masse d’armes légère), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (*lenteur*), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +30, [Bluff](./Bluff.md) +34, [Connaissances](./Connaissances.md) (mystère) +30, [Connaissances](./Connaissances.md) (Religion) +30, [Diplomatie](./Diplomatie.md) +34, [Perception](./Perception.md) +37, [Psychologie](./Psychologie.md) +34, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +34, [Vol](./Vol.md) +28}
-{s:BDTexte|**Langues** commun, sylvestre, thriae, [télépathie](./Télépathie (capacité).md) à 90 m (60 {s:c})}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (masse d’armes légère), [[Don pour les critiques]], [[Efficacité des sorts accrue]], [[Efficacité des sorts accrue supérieure]], [[Expertise du combat]], [[Magie de guerre]], [[Science de la volonté de fer]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (dard), [[Science du critique]] (masse d’armes légère), [[Pouvoir magique rapide]] (*lenteur*), [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +30, [[Bluff]] +34, [[Connaissances]] (mystère) +30, [[Connaissances]] (Religion) +30, [[Diplomatie]] +34, [[Perception]] +37, [[Psychologie]] +34, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +34, [[Vol]] +28}
+{s:BDTexte|**Langues** commun, sylvestre, thriae, [[télépathie (capacité)|télépathie]] à 90 m (60 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire ou colonie (1 reine, 3 oracles, 11-20 soldats et 3-30 abeilles géantes)}
 {s:BDTexte|**Trésor** double (masse d’armes légère axiomatique +2, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Engendrement de soldats (Sur).** Trois fois par jour, par une [action simple](./Action simple.md), la reine thriae peut engendrer un nuage de guêpes de taille G fonctionnant comme quatre [nuées de guêpes](./Nuée de guêpes.md) distinctes (cf. Bestiaire, p. 179) qui occupent toutes les cases adjacentes à la reine thriae. Ces nuées ne font aucun mal aux thriae et se déplacent en même temps que la reine, ne pouvant pas quitter ses côtés. Les nuées durent jusqu’à ce qu’elles soient détruites ou 1 heure, après quoi elles meurent tout simplement.}
-{s:BDTexte|**Jet de mérope (Sur).** Par une [action simple](./Action simple.md), la reine thriae peut lancer un jet de mérope sur une ligne de 18 mètres (3 {s:c}) au moyen d’une glande située dans la partie inférieure de son corps. Une reine utilisant cette capacité peut contrôler le niveau de pureté de la mérope qu’elle envoie pour blesser ou soigner ceux qu’elle touche. Si la reine thriae choisit de blesser avec sa mérope, toutes les créatures située dans la zone d’effet reçoivent 20d8 points de dégâts d’acide ([Réflexes](./Réflexes.md) [DD](./DD.md) 29, 1/2 dégâts). Les créatures situées dans la zone d’effets sont également [chancelantes](./Chancelant.md) pendant 1d4 [rounds](./round.md) (ou pendant 1 [round](./round.md) en cas de jet de [Réflexes](./Réflexes.md) réussi). Si la reine thriae utilise cette capacité pour soigner, la mérope guérit toutes les créatures situées dans la zone d’effet de 10d8 points de dégâts. La reine thriae peut se servir de cette capacité une fois tous les 1d4 [rounds](./round.md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Poison (Ext).**Dard — blessure ; [JdS](./JDS.md) [Vigueur](./Vigueur.md) [DD](./DD.md) 29 ; *fréquence* 1/[round](./round.md) pendant 6 [rounds](./round.md) ; effet [affaiblissement temporaire](./affaiblissement temporaire.md) 1d6 Con plus [chancelant](./Chancelant.md) pendant 1 [round](./round.md) ; guérison 2 réussites consécutives.}
-{s:BDTexte|**Voile de mérope (Sur)**.La reine thriae est recouverte d’une fine couche de mérope. Ce voile agit comme une barrière magique contre les sorts lancés sur la reine, comme si elle était en permanence sous les effets d’un renvoi des sorts. Ce voile affecte un maximum de 8 niveaux de sorts : lorsque le voile renvoie un sort, il s’amincit d’un nombre de niveaux de sort égal au niveau du sort renvoyé. La reine le régénère au rythme de un niveau de sort par [round](./round.md). Un sort dépassant ce que le voile de mérope peut arrêter n’est pas renvoyé et réduit le voile de mérope à un score de 0. Les sorts qui échouent à passer la [résistance à la magie](./Résistance à la magie (capacité).md) de la reine ne réduisent pas l’efficacité du voile de mérope.}
+{s:BDTexte|**Engendrement de soldats (Sur).** Trois fois par jour, par une [[action simple]], la reine thriae peut engendrer un nuage de guêpes de taille G fonctionnant comme quatre [[Nuée de guêpes|nuées de guêpes]] distinctes (cf. Bestiaire, p. 179) qui occupent toutes les cases adjacentes à la reine thriae. Ces nuées ne font aucun mal aux thriae et se déplacent en même temps que la reine, ne pouvant pas quitter ses côtés. Les nuées durent jusqu’à ce qu’elles soient détruites ou 1 heure, après quoi elles meurent tout simplement.}
+{s:BDTexte|**Jet de mérope (Sur).** Par une [[action simple]], la reine thriae peut lancer un jet de mérope sur une ligne de 18 mètres (3 {s:c}) au moyen d’une glande située dans la partie inférieure de son corps. Une reine utilisant cette capacité peut contrôler le niveau de pureté de la mérope qu’elle envoie pour blesser ou soigner ceux qu’elle touche. Si la reine thriae choisit de blesser avec sa mérope, toutes les créatures située dans la zone d’effet reçoivent 20d8 points de dégâts d’acide ([[Réflexes]] [[DD]] 29, 1/2 dégâts). Les créatures situées dans la zone d’effets sont également [[chancelant|chancelantes]] pendant 1d4 [[round|rounds]] (ou pendant 1 [[round]] en cas de jet de [[Réflexes]] réussi). Si la reine thriae utilise cette capacité pour soigner, la mérope guérit toutes les créatures situées dans la zone d’effet de 10d8 points de dégâts. La reine thriae peut se servir de cette capacité une fois tous les 1d4 [[round|rounds]]. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Poison (Ext).**Dard — blessure ; [[JdS]] [[Vigueur]] [[DD]] 29 ; *fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; effet [[affaiblissement temporaire]] 1d6 Con plus [[chancelant]] pendant 1 [[round]] ; guérison 2 réussites consécutives.}
+{s:BDTexte|**Voile de mérope (Sur)**.La reine thriae est recouverte d’une fine couche de mérope. Ce voile agit comme une barrière magique contre les sorts lancés sur la reine, comme si elle était en permanence sous les effets d’un renvoi des sorts. Ce voile affecte un maximum de 8 niveaux de sorts : lorsque le voile renvoie un sort, il s’amincit d’un nombre de niveaux de sort égal au niveau du sort renvoyé. La reine le régénère au rythme de un niveau de sort par [[round]]. Un sort dépassant ce que le voile de mérope peut arrêter n’est pas renvoyé et réduit le voile de mérope à un score de 0. Les sorts qui échouent à passer la [[Résistance à la magie (capacité)|résistance à la magie]] de la reine ne réduisent pas l’efficacité du voile de mérope.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [thriae](./Thriae.md).***</li></ul>*Cette femme impressionnante aux formes bien dessinées a la peau violette, le corps inférieur d’un insecte, des antennes sur le front et des ailes d’abeille.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Thriae]].***</li></ul>*Cette femme impressionnante aux formes bien dessinées a la peau violette, le corps inférieur d’un insecte, des antennes sur le front et des ailes d’abeille.*
 
 Individus les plus puissants au sein des colonies thriae,
 les reines sont des voyantes divines, des dispensatrices de
@@ -128,23 +128,23 @@ de la société thriae. Si elles sont plus vulnérables à ce stade, les
 larves thriae restent une menace pour les intrus imprudents
 qui se retrouvent au milieu des nombreuses cellules de
 thriae encore non-écloses. Les créatures qui réussissent
-un test de [Perception](./Perception.md) ou de [Connaissances](./Connaissances.md) (nature) [DD](./DD.md) 15
+un test de [[Perception]] ou de [[Connaissances]] (nature) [[DD]] 15
 peuvent repérer les larves implantées dans les murs de cire
 de la ruche. Les larves thriae non-écloses peuvent détecter
 les perturbations en dehors de leurs cellules et en sortir pour
 se nourrir des intrus nutritifs. Toutes les créatures situées à
 moins de 1,50 mètre (1 {s:c}) d’une cellule de larve doivent réussir un
-jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 15 pour éviter d’être infestées. Une créature
-infestée de larves doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 15 par
-[round](./round.md) pour éviter de subir un [affaiblissement temporaire](./affaiblissement temporaire.md)
-de 1d2 points de [Constitution](./Constitution.md) et de s’endormir (les dégâts
-de [Constitution](./Constitution.md) supplémentaires qu’infligent les larves en
+jet de [[Réflexes]] [[DD]] 15 pour éviter d’être infestées. Une créature
+infestée de larves doit réussir un jet de [[Vigueur]] [[DD]] 15 par
+[[round]] pour éviter de subir un [[affaiblissement temporaire]]
+de 1d2 points de [[Constitution]] et de s’endormir (les dégâts
+de [[Constitution]] supplémentaires qu’infligent les larves en
 se nourrissant ne réveillent pas les victimes endormies). On
 peut détacher les larves se nourrissant d’une créature en les
 découpant avec une arme tranchante (ce qui requiert un test
-de [Premiers secours](./Premiers secours.md) de [DD](./DD.md) 20 et inflige 1d4 points de dégâts
+de [[Premiers secours]] de [[DD]] 20 et inflige 1d4 points de dégâts
 par larve détachée) ou en leur infligeant des dégâts de froid,
 ce qui inflige également la moitié des dégâts à la créature sur
-laquelle elles sont attachées. *[Guérison des maladies](./Guérison des maladies.md)* ou d’autres
+laquelle elles sont attachées. *[[Guérison des maladies]]* ou d’autres
 effets similaires tuent toutes les larves présentes sur l’hôte.
 </div></td></tr></table>

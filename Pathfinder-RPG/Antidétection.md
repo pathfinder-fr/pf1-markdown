@@ -19,29 +19,29 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Apal](./Antipaladin.md) 3, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Hyp](./Hypnotiseur.md) 3, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 3, [Rôd](./Rôdeur.md) 4, [Spi](./Spirite.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (poussière de diamant (50 po))
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Antipaladin|Apal]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 4, [[Spirite|Spi]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (poussière de diamant (50 po))
+**Portée** [[présentation des sorts#PORTEE|contact]]
 **Cible** créature ou objet touché
-**Durée** 1 heure/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Durée** 1 heure/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 ---
-La créature ou l’objet protégé par ce sort devient difficile à repérer à l’aide de sorts de [Divination](./école divination.md), comme *[clairvoyance/clairaudience](./Clairaudienceclairvoyance.md)*, *[localisation d’objet](./Localisation dobjet.md)* et autres détections. *Antidétection* protège de la même manière contre les *[boules de cristal](./Boule de cristal.md)*. Quiconque tente d’espionner la créature ou l’objet protégé doit réussir un test de [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) (1d20 + [niveau de lanceur de sorts](./niveau de lanceur de sorts.md)) contre un [DD](./DD.md) égal à 11 + [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) du personnage qui a lancé *antidétection*. Si ce dernier décide de bénéficier lui-même du sort (ou de protéger un objet en sa possession), le [DD](./DD.md) est égal à 15 + son [niveau de lanceur de sorts](./niveau de lanceur de sorts.md).
+La créature ou l’objet protégé par ce sort devient difficile à repérer à l’aide de sorts de [[école divination|Divination]], comme *[[Clairaudienceclairvoyance|clairvoyance/clairaudience]]*, *[[localisation dobjet|localisation d’objet]]* et autres détections. *Antidétection* protège de la même manière contre les *[[boule de cristal|boules de cristal]]*. Quiconque tente d’espionner la créature ou l’objet protégé doit réussir un test de [[niveau de lanceur de sorts]] (1d20 + [[niveau de lanceur de sorts]]) contre un [[DD]] égal à 11 + [[niveau de lanceur de sorts]] du personnage qui a lancé *antidétection*. Si ce dernier décide de bénéficier lui-même du sort (ou de protéger un objet en sa possession), le [[DD]] est égal à 15 + son [[niveau de lanceur de sorts]].
 
 Lorsqu’une créature bénéficie de l’effet d’*antidétection*, son équipement est protégé lui aussi.
 
 
 
 ((({s:sortssimilaires|Antidétection}
-## [Antidétection (partagé)](./Antidétection (partagé).md)
-{s:UC}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Apal](./Antipaladin.md) 4, [Hyp](./Hypnotiseur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, F/FD](./composantes.md) (25 po de poussière de diamant par cible)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+## [[Antidétection (partagé)]]
+{s:UC}**École** [[Abjuration]] ; **Niveau** [[Antipaladin|Apal]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, F/FD]] (25 po de poussière de diamant par cible)
+**Portée** [[présentation des sorts#PORTEE|contact]]
 **Cible** créatures ou objets touchés
-**Durée** 1 heure/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Durée** 1 heure/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 ---
-Ce sort fonctionne comme *[antidétection](./Antidétection.md)* mais la durée se divise entre les créatures ou les objets touchés, par portions de 1 heure.
+Ce sort fonctionne comme *[[antidétection]]* mais la durée se divise entre les créatures ou les objets touchés, par portions de 1 heure.
 )))

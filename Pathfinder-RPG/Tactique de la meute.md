@@ -9,6 +9,6 @@ Categories:
 
 {s:mca}*Le personnage a dressé son compagnon animal à combattre en appliquant ses tactiques.*
 
-**Condition.** [Int](./Int.md) 13, aptitude de classe de [compagnon animal](./Druide.md#PACTEAVECLANATURE).
+**Condition.** [[Int]] 13, aptitude de classe de [[druide#PACTEAVECLANATURE|compagnon animal]].
 
-**Avantage.** On considère que le [compagnon animal](./Druide.md#PACTEAVECLANATURE) du personnage possède l’ensemble des [dons de travail en équipe](./Dons.md#DONEQUIPE) connus de ce personnage lorsqu’il s’agit de déterminer si le personnage ou ses alliés bénéficient d’un bonus conféré par ce type de dons. Le compagnon animal du personnage ne bénéficie pas des bonus conférés par ces dons à moins qu’il ne les possède réellement. Le positionnement et les actions du personnage et de tous ses alliés doivent toujours remplir les conditions indiqués dans la description du don de travail en équipe afin qu’ils puissent bénéficier du bonus conféré par le don utilisé.
+**Avantage.** On considère que le [[druide#PACTEAVECLANATURE|compagnon animal]] du personnage possède l’ensemble des [[dons#DONEQUIPE|dons de travail en équipe]] connus de ce personnage lorsqu’il s’agit de déterminer si le personnage ou ses alliés bénéficient d’un bonus conféré par ce type de dons. Le compagnon animal du personnage ne bénéficie pas des bonus conférés par ces dons à moins qu’il ne les possède réellement. Le positionnement et les actions du personnage et de tous ses alliés doivent toujours remplir les conditions indiqués dans la description du don de travail en équipe afin qu’ils puissent bénéficier du bonus conféré par le don utilisé.

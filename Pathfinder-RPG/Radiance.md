@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) ; **Niveau** [barde](./Barde.md) 1, [druide](./Druide.md) 1, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 1, [inquisiteur](./Inquisiteur.md) 1, [magus](./Magus.md) 1, [prêtre](./Prêtre.md) 1, [sorcière](./Sorcière.md) 1  
+**École** [[Évocation]] ; **Niveau** [[barde]] 1, [[druide]] 1, [[ensorceleur]]/[[magicien]] 1, [[inquisiteur]] 1, [[magus]] 1, [[prêtre]] 1, [[sorcière]] 1  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
 
-**Restriction de cible** *[Explosion](./Explosion.md)* (émanation)
+**Restriction de cible** *[[Explosion]]* (émanation)
 
 La zone d’effet d’un sort incluant ce mot irradie autant de lumière qu’une torche pendant la durée du sort. Elle émet une lumière normale dans la zone d’effet du sort et augmente le niveau de luminosité d’un cran dans les 6 mètres (4 {s:c}) au-delà de cette zone.

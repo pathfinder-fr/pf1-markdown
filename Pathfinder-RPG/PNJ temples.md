@@ -14,9 +14,9 @@ Categories:
 {s:Reference|ACOLYTE}
 {s:BDTitre|Acolyte|FP 1/2}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|Humain [prêtre](./Prêtre.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, LN}
-{s:BDTexte|**Init** +0 ; **Sens** [Perception](./Perception.md) +2}
+{s:BDTexte|Humain [[prêtre]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, LN}
+{s:BDTexte|**Init** +0 ; **Sens** [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 10, pris au dépourvu 17 (armure +5, bouclier +2)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -29,17 +29,17 @@ Categories:
 {s:BDTexte|**Pouvoirs magiques de domaine**(NLS 1 ; Concentration +3)}
 {s:BDTexte|5/jour — repousser la mort, toucher de la loi}
 {s:BDTexte|**Sorts de prêtre préparés** (NLS 1 ; concentration +3)}
-{s:BDSorts|1<sup>er</sup> — *[bénédiction](./Bénédiction.md)*, *[injonction](./Injonction.md)* (DD 13), *[soins légers](./Soins légers.md) D*}
-{s:BDSorts|0 (à volonté) — *[assistance divine](./Assistance divine.md)*, *[résistance](./résistance.md)*, *[stimulant](./Stimulant.md)*}
+{s:BDSorts|1<sup>er</sup> — *[[bénédiction]]*, *[[injonction]]* (DD 13), *[[soins légers]] D*}
+{s:BDSorts|0 (à volonté) — *[[assistance divine]]*, *[[résistance]]*, *[[stimulant]]*}
 {s:BDTexte|**D** sort de domaine ; **Domaines** Guérison, Loi}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 10, **Con** 13, **Int** 10, **Sag** 15, **Cha** 14}
 {s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 11}
-{s:BDTexte|**Dons** [Canalisation sélective](./Canalisation sélective.md), [Canalisation supplémentaire](./Canalisation supplémentaire.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (religion) +4, [Diplomatie](./Diplomatie.md) +6, [Premiers secours](./Premiers secours.md) +8, [Psychologie](./Psychologie.md) +6}
+{s:BDTexte|**Dons** [[Canalisation sélective]], [[Canalisation supplémentaire]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (religion) +4, [[Diplomatie]] +6, [[Premiers secours]] +8, [[Psychologie]] +6}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Équipement de combat** parchemin de *[protection contre le Chaos](./Protection contre le Chaos.md)*, parchemin de *[sanctuaire](./Sanctuaire.md)* ; **Autre équipement** armure d’écailles, écu en bois, épieux (2), trousse de premiers secours, symbole sacré en argent}
-{s:BDTexte|**Faveur** Un acolyte peut traiter gratuitement les blessures d’un personnage ou lui donner un symbole sacrée en bois ou un pamphlet sacré (octroyant un bonus de circonstances de +2 aux tests de [Connaissances](./Connaissances.md) <nowiki>[</nowiki>religion<nowiki>]</nowiki> au sujet de la foi de l’acolyte). Il peut aussi créer de l’eau bénite pour les PJ avec une réduction de prix de 20%.}
+{s:BDTexte|**Équipement de combat** parchemin de *[[protection contre le Chaos]]*, parchemin de *[[sanctuaire]]* ; **Autre équipement** armure d’écailles, écu en bois, épieux (2), trousse de premiers secours, symbole sacré en argent}
+{s:BDTexte|**Faveur** Un acolyte peut traiter gratuitement les blessures d’un personnage ou lui donner un symbole sacrée en bois ou un pamphlet sacré (octroyant un bonus de circonstances de +2 aux tests de [[Connaissances]] <nowiki>[[</nowiki>religion<nowiki>]]</nowiki> au sujet de la foi de l’acolyte). Il peut aussi créer de l’eau bénite pour les PJ avec une réduction de prix de 20%.}
 </div></td>
 <td><div>
 Un acolyte est un prêtre novice. Il s’agit souvent d’un jeune à peine sorti du cloître, un peu gauche et rempli de zèle mais sans grande expérience dans la propagation de sa foi. On rencontre des acolytes dans les temples et les monastères à travers le monde. Leur enthousiasme et leur dévotion les incitent à prendre les armes pour défendre leur foi et leurs ouailles.
@@ -48,16 +48,16 @@ On peut facilement créer des acolytes de fois diverses en changeant simplement 
 du profil ci-dessus. Les acolytes d’alignement Mauvais peuvent par exemple posséder les domaines du Mal et de la Mort et canaliser de l’énergie négative. Un acolyte de la nature peut avoir les domaines Faune et Flore et porter une armure de cuir.
 
 Les acolytes peuvent être des hommes à tout faire ou des messagers pour un temple, des protecteurs pour des petits autels
-ou des chapelles en bord de route ou encore des assistants pour des prêtres plus expérimentés. Deux acolytes peuvent accompagner un [garde](./PNJ milices.md#GARDE) du temple (FP 3), un [pèlerin](./PNJ routes.md#PELERIN) (FP 4) ou un [médium](./PNJ devins.md#MEDIUM) (FP 5).
+ou des chapelles en bord de route ou encore des assistants pour des prêtres plus expérimentés. Deux acolytes peuvent accompagner un [[PNJ milices#GARDE|garde]] du temple (FP 3), un [[PNJ routes#PELERIN|pèlerin]] (FP 4) ou un [[PNJ devins#MEDIUM|médium]] (FP 5).
 </div></td></tr></table>
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:Reference|PRETRE}
 {s:BDTitre|Prêtre|FP 8}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|Humain [Prêtre](./Prêtre.md) 9}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, LN}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +8}
+{s:BDTexte|Humain [[Prêtre]] 9}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, LN}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 11, pris au dépourvu 25 (armure +11, bouclier +4, Dex +1)}
 {s:BDTexte|**pv** 70 (9d8+30)}
@@ -70,25 +70,25 @@ ou des chapelles en bord de route ou encore des assistants pour des prêtres plu
 {s:BDTexte|**Pouvoirs magiques de domaine** (NLS 9, concentration +13)}
 {s:BDTexte|7/jour — repousser la mort, toucher de la loi}
 {s:BDTexte|**sorts de prêtre préparés** (NLS 9, concentration +13)}
-{s:BDSorts|5<sup>e</sup> — *[force du colosse](./Force du colosse.md)*, *[souffle de vie](./Souffle de vie.md)* D}
-{s:BDSorts|4<sup>e</sup> — *[courroux de l’ordre](./Courroux de lordre.md)* D (DD 18), *[immunité contre les sorts](./Immunité contre les sorts.md)*, *[liberté de mouvement](./Liberté de mouvement.md)*, *[marche dans les airs](./Marche dans les airs.md)*}
-{s:BDSorts|3<sup>e</sup> — *[cercle magique contre le Chaos](./Cercle magique contre le Chaos.md)* D, *[dissipation de la magie](./Dissipation de la magie.md)*, *[lumière brûlante](./Lumière brûlante.md)* (DD 16), *[lumière du jour](./Lumière du jour.md)*, *[prière](./Prière.md)*}
-{s:BDSorts|2<sup>e</sup> — *[aide](./Aide.md)*, *[arme spirituelle](./Arme spirituelle.md)*, *[force de taureau](./Force de taureau.md)*, *[ralentissement du poison](./Ralentissement du poison.md)*, *[rapport](./Rapport.md)*, *[soins modérés](./Soins modérés.md)* D}
-{s:BDSorts|1<sup>er</sup> — *[bénédiction](./Bénédiction.md)*, *[bouclier de la foi](./Bouclier de la foi.md)*, *[détection du Chaos](./Détection du Chaos.md)*, *[faveur divine](./Faveur divine.md)* (2), *[protection contre le Chaos](./Protection contre le Chaos.md)* D}
-{s:BDSorts|0 (à volonté) — *[création d’eau](./Création deau.md)*, *[détection de la magie](./Détection de la magie.md)*, *[détection du poison](./Détection du poison.md)*, *[stabilisation](./Stabilisation.md)*}
+{s:BDSorts|5<sup>e</sup> — *[[force du colosse]]*, *[[souffle de vie]]* D}
+{s:BDSorts|4<sup>e</sup> — *[[courroux de lordre|courroux de l’ordre]]* D (DD 18), *[[immunité contre les sorts]]*, *[[liberté de mouvement]]*, *[[marche dans les airs]]*}
+{s:BDSorts|3<sup>e</sup> — *[[cercle magique contre le Chaos]]* D, *[[dissipation de la magie]]*, *[[lumière brûlante]]* (DD 16), *[[lumière du jour]]*, *[[prière]]*}
+{s:BDSorts|2<sup>e</sup> — *[[aide]]*, *[[arme spirituelle]]*, *[[force de taureau]]*, *[[ralentissement du poison]]*, *[[rapport]]*, *[[soins modérés]]* D}
+{s:BDSorts|1<sup>er</sup> — *[[bénédiction]]*, *[[bouclier de la foi]]*, *[[détection du Chaos]]*, *[[faveur divine]]* (2), *[[protection contre le Chaos]]* D}
+{s:BDSorts|0 (à volonté) — *[[création deau|création d’eau]]*, *[[détection de la magie]]*, *[[détection du poison]]*, *[[stabilisation]]*}
 {s:BDTexte|**D** sort de domaine ; **Domaines** Guérison, Loi}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 12, **Con** 14, **Int** 8, **Sag** 18, **Cha** 10}
 {s:BDTexte|**BBA** +6, **BMO** +8, **DMD** 19}
-{s:BDTexte|**Dons** [Art du bouclier](./Art du bouclier.md), [Canalisation supplémentaire](./Canalisation supplémentaire.md), [Création d’armes et armures magiques](./Création darmes et armures magiques.md), [Frappe décisive](./Frappe décisive.md), [Port des armures lourdes](./Port des armures lourdes.md), [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +11, [Connaissances](./Connaissances.md) (religion) +10, [Diplomatie](./Diplomatie.md) +5, [Perception](./Perception.md) +8, [Premiers secours](./Premiers secours.md) +10, [Psychologie](./Psychologie.md) +8}
+{s:BDTexte|**Dons** [[Art du bouclier]], [[Canalisation supplémentaire]], [[Création darmes et armures magiques|Création d’armes et armures magiques]], [[Frappe décisive]], [[Port des armures lourdes]], [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +11, [[Connaissances]] (religion) +10, [[Diplomatie]] +5, [[Perception]] +8, [[Premiers secours]] +10, [[Psychologie]] +8}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** bénédiction du guérisseur}
 {s:BDTexte|**Équipement** *écu en bois +2*, *harnois +2*, arbalète légère de maître avec 10 carreaux, dague, *morgenstern miséricordieux +1*, *cape de résistance +1*, trousse de premiers secours}
 {s:BDTexte|**Faveur** Un prêtre peut accompagner les PJ ou envoyer une patrouille de quatre gardes du temple pour les aider pendant 3 jours. Il peut aussi fabriquer des armes et armures magiques avec une réduction de 10% sur le prix.}
 </div>
 </td><td><div>
-Un prêtre est une autorité religieuse qui cherche à répandre sa foi par tous les moyens nécessaires, même en convertissant les impies à la pointe de l’épée s’il le faut. Il peut s’agir d’un croisé, d’un prêtre combattant ou d’un champion divin. Un prêtre peut conseiller un [noble](./PNJ nobles.md#NOBLE) (FP 10) ou voyager avec une escorte de douze [gardes](./PNJ milices.md#GARDE) du temple (FP 10).
+Un prêtre est une autorité religieuse qui cherche à répandre sa foi par tous les moyens nécessaires, même en convertissant les impies à la pointe de l’épée s’il le faut. Il peut s’agir d’un croisé, d’un prêtre combattant ou d’un champion divin. Un prêtre peut conseiller un [[PNJ nobles#NOBLE|noble]] (FP 10) ou voyager avec une escorte de douze [[PNJ milices#GARDE|gardes]] du temple (FP 10).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -96,9 +96,9 @@ Un prêtre est une autorité religieuse qui cherche à répandre sa foi par tous
 {s:Reference|HAUTPRETRE}
 {s:BDTitre|Haut prêtre|FP 12}
 {s:BDTexte|**PX** 19 200}
-{s:BDTexte|Humain [prêtre](./Prêtre.md) 13}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, LN}
-{s:BDTexte|**Init** +0 ; **Sens** [Perception](./Perception.md) +15}
+{s:BDTexte|Humain [[prêtre]] 13}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, LN}
+{s:BDTexte|**Init** +0 ; **Sens** [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 10, pris au dépourvu 15 (armure +3, bouclier +2)}
 {s:BDTexte|**pv** 90 (13d8+32)}
@@ -112,24 +112,24 @@ Un prêtre est une autorité religieuse qui cherche à répandre sa foi par tous
 {s:BDTexte|**Pouvoirs magiques de domaine** (NLS 13 ; Concentration +20)}
 {s:BDTexte|10/jour — toucher apaisant, parole inspirante (6 rounds)}
 {s:BDTexte|**sorts de prêtre préparés** (NLS 13 ; Concentration +20)}
-{s:BDSorts|7<sup>e</sup> — *[champ de force](./Champ de force.md)* D (DD 24), *[convocation de monstres VII](./Convocation de monstres VII.md)*, *[décret](./Décret.md)*(DD 24)}
-{s:BDSorts|6<sup>e</sup> — *[bannissement](./Bannissement.md)* (DD 23), *[festin des héros](./Festin des héros.md)* D, *[guérison suprême](./Guérison suprême.md)*, *[mot de rappel](./Mot de rappel.md)*}
-{s:BDSorts|5<sup>e</sup> — *[colonne de feu](./Colonne de feu.md)* (DD 22), *[convocation de monstres V](./Convocation de monstres V.md)*, *[lien télépathique](./Lien télépathique.md)* D, *[souffle de vie](./Souffle de vie.md)*, *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|4<sup>e</sup> — *[ancre dimensionnelle](./Ancre dimensionnelle.md)*, *[arme magique suprême](./Arme magique suprême.md)*, *[courroux de l’ordre](./Courroux de lordre.md)*(DD 21), *[détection du mensonge](./Détection du mensonge.md)* D, *[don des langues](./Don des langues.md)*, *[marche dans les airs](./Marche dans les airs.md)*}
-{s:BDSorts|3<sup>e</sup> — *[création de nourriture et d’eau](./Création de nourriture et deau.md)*, *[dissipation de la magie](./Dissipation de la magie.md)*, *[lumière brûlante](./Lumière brûlante.md)*, *[panoplie magique](./Panoplie magique.md)* D (2), *[prière](./Prière.md)*, *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*}
-{s:BDSorts|2<sup>e</sup> — *[aide](./Aide.md)*, *[apaisement des émotions](./Apaisement des émotions.md)* (DD 19), *[arme spirituelle](./Arme spirituelle.md)*, *[cacophonie](./Cacophonie.md)* (DD 19), *[discours captivant](./Discours captivant.md)* D (DD 19), *[immobilisation de personne](./Immobilisation de personne.md)* (DD 19), *[rapport](./Rapport.md)*}
-{s:BDSorts|1<sup>er</sup> — *[bouclier de la foi](./Bouclier de la foi.md)*, *[compréhension des langages](./Compréhension des langages.md)*, *[faveur divine](./Faveur divine.md)* D, *[injonction](./Injonction.md)* (DD 18), *[invisibilité pour les morts-vivants](./Invisibilité pour les morts-vivants.md)* (DD 18), *[protection contre le Chaos](./Protection contre le Chaos.md)*, *[sanctuaire](./Sanctuaire.md)* (DD 18)}
-{s:BDSorts|0 (à volonté) — *[assistance divine](./Assistance divine.md)*, *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[lumière](./Lumière.md)*}
+{s:BDSorts|7<sup>e</sup> — *[[champ de force]]* D (DD 24), *[[convocation de monstres VII]]*, *[[décret]]*(DD 24)}
+{s:BDSorts|6<sup>e</sup> — *[[bannissement]]* (DD 23), *[[festin des héros]]* D, *[[guérison suprême]]*, *[[mot de rappel]]*}
+{s:BDSorts|5<sup>e</sup> — *[[colonne de feu]]* (DD 22), *[[convocation de monstres V]]*, *[[lien télépathique]]* D, *[[souffle de vie]]*, *[[vision lucide]]*}
+{s:BDSorts|4<sup>e</sup> — *[[ancre dimensionnelle]]*, *[[arme magique suprême]]*, *[[courroux de lordre|courroux de l’ordre]]*(DD 21), *[[détection du mensonge]]* D, *[[don des langues]]*, *[[marche dans les airs]]*}
+{s:BDSorts|3<sup>e</sup> — *[[création de nourriture et deau|création de nourriture et d’eau]]*, *[[dissipation de la magie]]*, *[[lumière brûlante]]*, *[[panoplie magique]]* D (2), *[[prière]]*, *[[protection contre les énergies destructives]]*}
+{s:BDSorts|2<sup>e</sup> — *[[aide]]*, *[[apaisement des émotions]]* (DD 19), *[[arme spirituelle]]*, *[[cacophonie]]* (DD 19), *[[discours captivant]]* D (DD 19), *[[immobilisation de personne]]* (DD 19), *[[rapport]]*}
+{s:BDSorts|1<sup>er</sup> — *[[bouclier de la foi]]*, *[[compréhension des langages]]*, *[[faveur divine]]* D, *[[injonction]]* (DD 18), *[[invisibilité pour les morts-vivants]]* (DD 18), *[[protection contre le Chaos]]*, *[[sanctuaire]]* (DD 18)}
+{s:BDSorts|0 (à volonté) — *[[assistance divine]]*, *[[détection de la magie]]*, *[[lecture de la magie]]*, *[[lumière]]*}
 {s:BDTexte|**D** sort de domaine ; **Domaines** Communauté, Noblesse}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 10, **Con** 15, **Int** 12, **Sag** 24, **Cha** 14}
 {s:BDTexte|**BBA** +9, **BMO** +8, **DMD** 18}
-{s:BDTexte|**Dons** [Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md), [Canalisation sélective](./Canalisation sélective.md), [Création de baguettes magiques](./Création de baguettes magiques.md), [Création de sceptres magiques](./Création de sceptres magiques.md), [Création d’objets merveilleux](./Création dobjets merveilleux.md), [École renforcée](./École renforcée.md) (Invocation), [Efficacité des sorts accrue](./Efficacité des sorts accrue.md), [Prestige](./Prestige.md), [Renvoi des morts-vivants](./Renvoi des morts-vivants.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +16, [Connaissances](./Connaissances.md) (folklore local) +10, [Connaissances](./Connaissances.md) (mystères) +6, [Connaissances](./Connaissances.md) (noblesse) +10, [Connaissances](./Connaissances.md) (religion) +6, [Psychologie](./Psychologie.md) +5, [Diplomatie](./Diplomatie.md) +11, [Linguistique](./Linguistique.md) +10, [Perception](./Perception.md) +15, [Premiers secours](./Premiers secours.md) +11, [Psychologie](./Psychologie.md) +15}
+{s:BDTexte|**Dons** [[Amélioration des créatures convoquées]], [[Canalisation sélective]], [[Création de baguettes magiques]], [[Création de sceptres magiques]], [[Création dobjets merveilleux|Création d’objets merveilleux]], [[École renforcée]] (Invocation), [[Efficacité des sorts accrue]], [[Prestige]], [[Renvoi des morts-vivants]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +16, [[Connaissances]] (folklore local) +10, [[Connaissances]] (mystères) +6, [[Connaissances]] (noblesse) +10, [[Connaissances]] (religion) +6, [[Psychologie]] +5, [[Diplomatie]] +11, [[Linguistique]] +10, [[Perception]] +15, [[Premiers secours]] +11, [[Psychologie]] +15}
 {s:BDTexte|**Langues** aérien, aquatique, céleste, commun, igné, infernal, sylvestre, terreux}
 
 
-{s:BDTexte|**Équipement de combat** baguette de *[silence](./Silence.md)* (50 charges), baguette de *[splendeur de l’aigle](./Splendeur de laigle.md)* (50 charges), *[sceptre de métamagie](./Sceptre de métamagie.md) mineure* (extension de durée, incantation silencieuse) ; **Autre équipement** armure de cuir cloutée de maître, *targe +1*, arbalète légère avec 10 carreaux en fer froid, dague en fer froid, *bandeau d’inspiration +4*, *cape de résistance +3*, *ceinturon de constitution de l’ours +2*, encens de méditation, *[yeux de lynx](./Yeux de lynx (objet).md)*}
+{s:BDTexte|**Équipement de combat** baguette de *[[silence]]* (50 charges), baguette de *[[splendeur de laigle|splendeur de l’aigle]]* (50 charges), *[[sceptre de métamagie]] mineure* (extension de durée, incantation silencieuse) ; **Autre équipement** armure de cuir cloutée de maître, *targe +1*, arbalète légère avec 10 carreaux en fer froid, dague en fer froid, *bandeau d’inspiration +4*, *cape de résistance +3*, *ceinturon de constitution de l’ours +2*, encens de méditation, *[[Yeux de lynx (objet)|yeux de lynx]]*}
 {s:BDTexte|**Faveur** Un haut prêtre peut lancer des sorts gratuitement (à l’exception du prix des composantes matérielles) ou fabriquer un objet magique avec une réduction de 10% sur le prix. Il peut aussi arranger une entrevue avec un dirigeant.}
 </div></td>
 <td></td></tr></table>

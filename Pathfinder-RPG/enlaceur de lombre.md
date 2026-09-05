@@ -10,7 +10,7 @@ LastModified: 2021-02-11 23:39
 {s:pucem|Extérieur|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 42*}
 - **25 600 PX**
-- [Extérieur](./type Extérieur.md) (aberration [altérée](./sous-type altéré.md)) de taille G, CM
+- [[type extérieur|Extérieur]] (aberration [[sous-type altéré|altérée]]) de taille G, CM
 - **Init **+5 ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +24
 (((Défense)))
 - **CA** 27, contact 10, pris au dépourvu 26 (Dex +1, naturelle +17, taille -1)
@@ -27,8 +27,8 @@ LastModified: 2021-02-11 23:39
 (((Statistiques)))
 - **For** 34, **Dex** 13, **Con** 29, **Int** 13, **Sag** 16, **Cha** 12
 - **BBA **+9 ; **BMO **+22 ; **DMD** 33 (croc-en-jambe impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (filament), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) (Discrétion), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md) 
-- **Compétences** [Connaissances](./Connaissances.md) (exploration souterraine) +13, [Connaissances](./Connaissances.md) (religion) +13, [Discrétion](./Discrétion.md) +18 (+44 dans les environnements rocheux ou verglacés), [Escalade](./Escalade.md) +27, [Perception](./Perception.md) +24
+- **Dons** [[Arme de prédilection]] (filament), [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Talent]] (Discrétion), [[Talent]] (Perception), [[Volonté de fer]] 
+- **Compétences** [[Connaissances]] (exploration souterraine) +13, [[Connaissances]] (religion) +13, [[Discrétion]] +18 (+44 dans les environnements rocheux ou verglacés), [[Escalade]] +27, [[Perception]] +24
 - **Modificateurs** raciaux +26 en Discrétion dans les environnements rocheux ou verglacés)
 - **Langues** aklo, commun
 (((Écologie)))
@@ -40,12 +40,12 @@ LastModified: 2021-02-11 23:39
 
 </div>
 </td><td><div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype simple [Créature de l'ombre](./Archétypes.md#Créature_de_l’ombre_FP_+B_2).***</li>
-<li>***Voir l'archétype [Seigneur de l'ombre](./Seigneur de lombre, archétype.md).***</li></ul>*Cette horreur dotée de tentacules semble ne faire qu’un avec les ombres, tel un animal étrange et dangereux né des ténèbres.*
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype simple [[Archétypes#Créature_de_l’ombre_FP_+B_2|Créature de l'ombre]].***</li>
+<li>***Voir l'archétype [[Seigneur de lombre, archétype|Seigneur de l'ombre]].***</li></ul>*Cette horreur dotée de tentacules semble ne faire qu’un avec les ombres, tel un animal étrange et dangereux né des ténèbres.*
 
 Lorsqu’une créature du Plan matériel est piégée sur le plan de l’Ombre ou décide d’y rester, sa progéniture nait souvent avec des caractéristiques étranges en rapport avec la nouvelle dimension qu’elle occupe. Celles qui naissent là-bas deviennent d’étranges caricatures de leur espèce d’origine vivant sur le Plan matériel. Leur pigmentation devient noire comme le jais (ou au mieux gris foncé), leurs traits se font plus menaçants et leurs yeux tournent au blanc, au rouge terne, au vert sombre ou au violet. Les créatures de l’ombre sont aussi diversifiées que celles que l’on trouve sur le Plan matériel. Elles représentent un danger similaire mais possèdent aussi des défenses et des pouvoirs supplémentaires typiques des créatures véritablement natives de l’obscurité constante du Plan de l’ombre.
 
 Les créatures de l’ombre présentes sur le Plan matériel se reproduisent et forment des enclaves dans les sombres recoins du monde. Plus étrange encore, quand une écologie florissante de ces créatures forme une colonie sur le Plan matériel, elle semble produire un petit royaume de l’ombre perverti dans la zone occupée. Ainsi, ces régions sombrent toujours davantage dans l’obscurité. Les ombres deviennent plus épaisses, plus sombres et plus troublantes jusqu’à ce l’environnement et le paysage de la région concernée adoptent les caractéristiques du Plan de l’ombre. Au cours de ce processus de mutation, l’une des créatures de l’ombre les plus intelligentes de la région devient un seigneur de l’ombre : un terrifiant agent de l’ombre qui maîtrise des pouvoirs puissants et oeuvre pour étendre son domaine contre-nature.
 
-*<u>Note :</u> Dans certaines V.F. le sous-type "[altérée](./sous-type altéré.md)" (augmented) semble avoir été remplacée par "[évolué](./Archétypes.md#Créature_évoluée_FP_+B_1)" (Advanced Creature), alors qu'en V.O. il s'agit bien du "[sous-type altéré](./sous-type altéré.md)" (augmented). Cela devrait avoir été corrigé depuis dans les dernières versions.*
+*<u>Note :</u> Dans certaines V.F. le sous-type "[[sous-type altéré|altérée]]" (augmented) semble avoir été remplacée par "[[Archétypes#Créature_évoluée_FP_+B_1|évolué]]" (Advanced Creature), alors qu'en V.O. il s'agit bien du "[[sous-type altéré]]" (augmented). Cela devrait avoir été corrigé depuis dans les dernières versions.*
 </div></td></tr></table>

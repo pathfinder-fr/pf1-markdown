@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 10*}
 - **6 400 PX**
-- [Extérieure](./type Extérieur.md) ([azata](./sous-type azata.md), [Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, CM
+- [[type extérieur|Extérieure]] ([[sous-type azata|azata]], [[sous-type chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type mal|Mal]]) de taille G, CM
 - **Init **+3 ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +9
 (((Défense)))
 - **CA** 24, contact 12, pris au dépourvu 21 (Dex +3, naturelle +12, taille -1)
@@ -26,20 +26,20 @@ Categories:
   - ou contact torturant, +11 contact (2d6 plus affaiblissement temporaire 1d6 Dex et convulsions) 
   - et coup de queue, +6 (2d6+2 plus étreinte)
 - **Espace** 3 m ; **Allonge** 3 m
-- **Attaques spéciales** *[constriction](./constriction.md)* (2d6+5), *plainte d’agonie*(DD 18), *regard funeste*(DD 18), représentation bardique (21 rounds/jour) 
+- **Attaques spéciales** *[[constriction]]* (2d6+5), *plainte d’agonie*(DD 18), *regard funeste*(DD 18), représentation bardique (21 rounds/jour) 
 - **Pouvoirs magiques** (**NLS** 7 ; concentration +2)
-  - 3/jour— *[déblocage](./Déblocage.md), [lumière](./Lumière.md), [ténèbres](./Ténèbres.md), [terrain hallucinatoire](./Terrain hallucinatoire.md)* (DD 19)
-  - 1/jour— *[charme-personne](./Charme-personne.md)* (DD 16), *[communication avec les animaux](./Communication avec les animaux.md), [communication avec les plantes](./Communication avec les plantes.md)*
+  - 3/jour— *[[déblocage]], [[lumière]], [[ténèbres]], [[terrain hallucinatoire]]* (DD 19)
+  - 1/jour— *[[charme-personne]]* (DD 16), *[[communication avec les animaux]], [[communication avec les plantes]]*
 - ** Sorts de barde** connus (**NLS** 7, concentration +2)
-  - 3ème niveau (2/jour) — *[désespoir foudroyant](./Désespoir foudroyant.md)* (DD 18), *[terrible remords](./Terrible remords.md) *(DD 18)
-  - 2ème niveau (4/jour) — *[cécité/surdité](./Cécitésurdité.md) *(DD 17), *[hurlement perçant](./Hurlement perçant.md) *(DD 17)*, [rage](./Rage.md), [suggestion](./Suggestion.md) *(DD 17)
-  - 1er niveau (6/jour) — *[charme-personne](./Charme-personne.md) *(DD 16), *[confusion mineure](./Confusion mineure.md) *(DD 16), *[cri perçant](./Cri perçant.md) *(DD 16), *[fou rire](./Fou rire.md)* (DD 16),* [frayeur](./Frayeur.md)* (DD 16)
-  - 0 (à volonté) —* [détection de la magie](./Détection de la magie.md), [hébétement](./Hébétement.md) *(DD 15)*, [lecture de la magie](./Lecture de la magie.md), [lumières dansantes](./Lumières dansantes.md), [résistance](./résistance.md), [son imaginaire](./Son imaginaire.md) *(DD 15)
+  - 3ème niveau (2/jour) — *[[désespoir foudroyant]]* (DD 18), *[[terrible remords]] *(DD 18)
+  - 2ème niveau (4/jour) — *[[cécitésurdité|cécité/surdité]] *(DD 17), *[[hurlement perçant]] *(DD 17)*, [[rage]], [[suggestion]] *(DD 17)
+  - 1er niveau (6/jour) — *[[charme-personne]] *(DD 16), *[[confusion mineure]] *(DD 16), *[[cri perçant]] *(DD 16), *[[fou rire]]* (DD 16),* [[frayeur]]* (DD 16)
+  - 0 (à volonté) —* [[détection de la magie]], [[hébétement]] *(DD 15)*, [[lecture de la magie]], [[lumières dansantes]], [[résistance]], [[son imaginaire]] *(DD 15)
 (((Statistiques)))
 - **For** 20, **Dex** 17, **Con** 27, **Int** 14, **Sag** 8, **Cha** 21
 - **BBA **+7 ; **BMO **+13 (+17 lutte) ; **DMD** 26 (croc-en-jambe impossible)
-- **Dons** [Dur à cuire](./Dur à cuire.md)<sup>S</sup>, [Endurance](./Endurance.md)<sup>S</sup>, [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md)<sup>S</sup>, [Vigueur surhumaine](./Vigueur surhumaine.md)<sup>S</sup>, [Vol stationnaire](./Vol stationnaire.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Bluff](./Bluff.md) +15, [Connaissances](./Connaissances.md) (nature) +9, [Discrétion](./Discrétion.md) +9, [Intimidation](./Intimidation.md) +13, [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +9, [Représentation](./Représentation.md) (instruments à cordes) +17, [Survie](./Survie.md) +10, [Vol](./Vol.md) +11 ; **Modificateurs raciaux** +8 en Intimidation, +4 en Survie
+- **Dons** [[Dur à cuire]]<sup>S</sup>, [[Endurance]]<sup>S</sup>, [[Magie de guerre]], [[Réflexes surhumains]], [[Robustesse]]<sup>S</sup>, [[Vigueur surhumaine]]<sup>S</sup>, [[Vol stationnaire]], [[Volonté de fer]]
+- **Compétences** [[Bluff]] +15, [[Connaissances]] (nature) +9, [[Discrétion]] +9, [[Intimidation]] +13, [[Perception]] +9, [[Psychologie]] +9, [[Représentation]] (instruments à cordes) +17, [[Survie]] +10, [[Vol]] +11 ; **Modificateurs raciaux** +8 en Intimidation, +4 en Survie
 - **Langues** céleste, draconique, infernal ; langage universel
 (((Écologie)))
 - **Environnement** tous
@@ -51,7 +51,7 @@ Categories:
 
 </div>
 </td><td><div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Âme brisée](./Âme brisée, archétype.md).***</li></ul>*Cette créature était autrefois une magnifique céleste avec un torse de femme ailée et une queue de serpent en guise de jambes mais son corps est désormais couvert de sang et de cicatrices.*
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Âme brisée, archétype|Âme brisée]].***</li></ul>*Cette créature était autrefois une magnifique céleste avec un torse de femme ailée et une queue de serpent en guise de jambes mais son corps est désormais couvert de sang et de cicatrices.*
 
 L’âme brisée est l’incarnation du tourment et de la souffrance.
 Elle a subit des tortures repoussant les limites de ce que l’âme et le corps peuvent supporter pour finalement les dépasser. Ce faisant, elle a développé une résistance et une endurance extraordinaires et a appris à infliger une parcelle de son

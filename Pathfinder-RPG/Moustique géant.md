@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.203*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille M, N}
-{s:BDTexte|**Init** +7 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Vermine|Vermine]] de taille M, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 17, pris au dépourvu 12 (Dex +7, naturelle +2)}
 {s:BDTexte|**pv** 60 (8d8+24)}
@@ -23,18 +23,18 @@ Categories:
 {s:BDTexte|**Immunités** effets mentaux}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), vol 18 m (12 {s:c}) (bonne)}
-{s:BDTexte|**Corps à corps** morsure, +10 (1d8+6 plus [étreinte](./Étreinte.md), maladie et [saignement](./Saignement.md))}
-{s:BDTexte|**Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1d2 Constitution), [saignement](./Saignement.md) (2d4)}
+{s:BDTexte|**Corps à corps** morsure, +10 (1d8+6 plus [[étreinte]], maladie et [[saignement]])}
+{s:BDTexte|**Attaques spéciales** [[absorption de sang (capacité)|absorption de sang]] (1d2 Constitution), [[saignement]] (2d4)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 25, **Con** 17, **Int** —, **Sag** 13, **Cha** 6}
-{s:BDTexte|**BBA** +6, **BMO** +10 (+14 lutte), **DMD** 27 (35 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +9, [Vol](./Vol.md) +11 ; **Modificateurs raciaux** +8 en [Perception](./Perception.md)}
+{s:BDTexte|**BBA** +6, **BMO** +10 (+14 lutte), **DMD** 27 (35 contre [[croc-en-jambe]])}
+{s:BDTexte|**Compétences** [[Perception]] +9, [[Vol]] +11 ; **Modificateurs raciaux** +8 en [[Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marécages tempérés ou tropicaux}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou nuée (3–12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Maladie (Ext).** Malaria : Morsure — blessure ; *JdS* Vigueur DD 17 ; *incubation* 1d3 jours ; *fréquence* 1 jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d3 Con et 1d3 Sag ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|**Maladie (Ext).** Malaria : Morsure — blessure ; *JdS* Vigueur DD 17 ; *incubation* 1d3 jours ; *fréquence* 1 jour ; *effet* [[affaiblissement temporaire]] 1d3 Con et 1d3 Sag ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la Constitution.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -43,9 +43,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Moustique géant](./Moustique géant.md) || 6
+| [[Moustique géant]] || 6
 |-
-| [Nuée de moustiques](./Nuée de moustiques.md) || 3
+| [[Nuée de moustiques]] || 3
 |}
 </div>*Un ventre rouge et boursouflé pendouille sous ce gigantesque moustique qui bat frénétiquement des ailes.*
 

@@ -6,9 +6,9 @@ LastModified: 2024-06-02 18:21
 
 <div class="BD">
 {s:BDTitre|Gants de désamorçage des glyphes|{s:AE}}
-**Aura** [Abjuration](./Abjuration.md) modérée ; **NLS** 7 ; **Emplacement** [mains](./Objets merveilleux portés aux mains.md) ; **Prix** 9.000 po ; **Poids** —
+**Aura** [[Abjuration]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 9.000 po ; **Poids** —
 (((Description)))
-Ces gants de cuir marron foncé sont entièrement couverts de symboles magiques. Leur porteur gagne un bonus de compétence de +5 aux tests de [Sabotage](./Sabotage.md) pour désamorcer des pièges magiques. Une fois par jour, si le test effectué par le porteur pour désamorcer un glyphe, une rune ou un piège magique similaire, dépasse le [DD](./DD.md) de 10 ou plus, il peut changer la condition de déclenchement du piège au lieu de le désamorcer. La nouvelle condition doit être appropriée au piège magique, par exemple, un *[glyphe de garde](./Glyphe de garde.md)* ne peut être déclenché en fonction de la classe, des DV ou du niveau, même s’il est manipulé avec les gants.
+Ces gants de cuir marron foncé sont entièrement couverts de symboles magiques. Leur porteur gagne un bonus de compétence de +5 aux tests de [[Sabotage]] pour désamorcer des pièges magiques. Une fois par jour, si le test effectué par le porteur pour désamorcer un glyphe, une rune ou un piège magique similaire, dépasse le [[DD]] de 10 ou plus, il peut changer la condition de déclenchement du piège au lieu de le désamorcer. La nouvelle condition doit être appropriée au piège magique, par exemple, un *[[glyphe de garde]]* ne peut être déclenché en fonction de la classe, des DV ou du niveau, même s’il est manipulé avec les gants.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[détection des pièges](./Détection des pièges.md)*, *[dissipation de la magie](./Dissipation de la magie.md)*  ; **Coût** 4.500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[détection des pièges]]*, *[[dissipation de la magie]]*  ; **Coût** 4.500 po
 </div>

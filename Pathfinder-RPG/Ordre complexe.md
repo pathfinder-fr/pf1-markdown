@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental, langage](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [barde](./Barde.md) 3, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 3, [sorcière](./Sorcière.md) 4  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, langage]]<nowiki>]</nowiki> ; **Niveau** [[barde]] 3, [[ensorceleur]]/[[magicien]] 3, [[sorcière]] 4  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
 
-**Restrictions de cible** *[choisi](./Choisi.md)*
+**Restrictions de cible** *[[choisi]]*
 
-La cible d’un sort incluant cet effet doit suivre les instructions du lanceur. Ce dernier doit être capable de donner ses ordres en 1 [round](./round.md) et il doit être possible d’accomplir les actions dans la durée du sort. Les instructions ne peuvent inclure quelque chose qui est manifestement dangereux ou néfaste pour la cible, elles n’ont pas besoin de prendre toute la durée du sort et une fois qu’elles sont terminées, le sort contenant ce mot effet prend fin. Si les instructions ne sont pas achevées à l’expiration du sort, plus rien n’oblige la cible à finir.
+La cible d’un sort incluant cet effet doit suivre les instructions du lanceur. Ce dernier doit être capable de donner ses ordres en 1 [[round]] et il doit être possible d’accomplir les actions dans la durée du sort. Les instructions ne peuvent inclure quelque chose qui est manifestement dangereux ou néfaste pour la cible, elles n’ont pas besoin de prendre toute la durée du sort et une fois qu’elles sont terminées, le sort contenant ce mot effet prend fin. Si les instructions ne sont pas achevées à l’expiration du sort, plus rien n’oblige la cible à finir.

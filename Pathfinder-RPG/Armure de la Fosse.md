@@ -8,7 +8,7 @@ Categories:
 
 *Les traits fiélons du tieffelin prennent la forme d’une peau écailleuse qui le protège.*
 
-**Condition.** [Tieffelin](./Tieffelin (race).md).
+**Condition.** [[tieffelin (race)|Tieffelin]].
 
 **Avantage.** Le tieffelin gagne un bonus d’armure naturelle de +2.
 

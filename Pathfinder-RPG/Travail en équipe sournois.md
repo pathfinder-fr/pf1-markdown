@@ -12,8 +12,8 @@ Categories:
 
 {s:RSE}*Le personnage et ses alliés coordonnent leurs mouvements de manière à imposer un désavantage injuste à leur ennemi.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Expertise du combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md).
+**Conditions.** [[Expertise du combat]], [[Science du sale coup]].
 
-**Avantage.** Quand le personnage et un allié, possédant également ce don, menacent un même adversaire et que l’allié effectue une manœuvre de [sale coup](./sale coup.md) contre lui, le personnage peut dépenser une [action immédiate](./Action immédiate.md) pour augmenter d’un [round](./round.md) la durée de la condition néfaste appliquée.
+**Avantage.** Quand le personnage et un allié, possédant également ce don, menacent un même adversaire et que l’allié effectue une manœuvre de [[sale coup]] contre lui, le personnage peut dépenser une [[action immédiate]] pour augmenter d’un [[round]] la durée de la condition néfaste appliquée.

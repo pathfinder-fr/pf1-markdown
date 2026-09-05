@@ -12,23 +12,23 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 5, [Dru](./Druide.md) 7, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 7, [Sor](./Sorcière.md) 7  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Druide|Dru]] 7, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
 **Durée** 24 heures  
 
 
-Le personnage ignore les inconvénients liés à son [âge moyen, avancé et vénérable](./État civil et mensurations.md#AGE).
+Le personnage ignore les inconvénients liés à son [[état civil et mensurations#AGE|âge moyen, avancé et vénérable]].
 
-Il n’a pas l’air plus jeune et le sort ne l’empêche pas de mourir de vieillesse mais, tant qu’il fait effet, il ignore les malus de [force](./Force.md), de [dextérité](./Dextérité.md) et de [constitution](./Constitution.md) qui apparaissent avec l’[âge moyen, avancé et vénérable](./État civil et mensurations.md#AGE).
+Il n’a pas l’air plus jeune et le sort ne l’empêche pas de mourir de vieillesse mais, tant qu’il fait effet, il ignore les malus de [[force]], de [[dextérité]] et de [[constitution]] qui apparaissent avec l’[[état civil et mensurations#AGE|âge moyen, avancé et vénérable]].
 
-En revanche, il conserve les bonus d’[intelligence](./Intelligence.md), de [sagesse](./Sagesse.md) et de [charisme](./Charisme.md) liés, tant que le sort fait effet.
+En revanche, il conserve les bonus d’[[intelligence]], de [[sagesse]] et de [[charisme]] liés, tant que le sort fait effet.
 
-(((Ce sort fonctionne comme [résistance à l’âge mineure](./Résistance à lâge mineure.md) mais ignore les malus de [force](./Force.md), de [dextérité](./Dextérité.md) et de [constitution](./Constitution.md) liés à l'âge moyen, avancé et vénérable.)))
+(((Ce sort fonctionne comme [[résistance à lâge mineure|résistance à l’âge mineure]] mais ignore les malus de [[force]], de [[dextérité]] et de [[constitution]] liés à l'âge moyen, avancé et vénérable.)))

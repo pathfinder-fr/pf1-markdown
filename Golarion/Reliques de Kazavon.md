@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Reliques de Kazavon.md).***
+***Voir les [[Pathfinder-RPG.Reliques de Kazavon|statistiques de cet artefact]].***
 
 Taillées dans les os d’un ancien dragon, cet ensemble de reliques macabres inclut diverses armes et armures ainsi que les attributs du régime impitoyable d’un tyran.
 

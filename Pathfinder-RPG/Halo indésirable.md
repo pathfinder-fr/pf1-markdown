@@ -10,14 +10,14 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Sarenraé|%2fPCUP%2fReligion-PNG%2fSarenrae.png}{s:cs}{s:ISG}**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[lumière](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+{s:divin|Sarenraé|%2fPCUP%2fReligion-PNG%2fSarenrae.png}{s:cs}{s:ISG}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
 **Cibles** une créature non-Bonne
 **Durée** 1 minute/niveau
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Ce sort fait briller la cible comme si elle était entourée d'un halo de lumière. Ce halo diffuse une [lumière normale](./Exploration.md#VISIONLUMIERE) dans un rayon de 6 mètres autour de la créature, et augmente le niveau de luminosité d'une catégorie à 6 mètres supplémentaires. Ce halo empêche la créature de bénéficier d'un [camouflage](./camouflage.md) dans les ténèbres non magiques, et dans des conditions de luminosité faible ou inférieures, la lueur de la créature peut être vue même si elle n'est pas en ligne de mire directe.
+Ce sort fait briller la cible comme si elle était entourée d'un halo de lumière. Ce halo diffuse une [[Exploration#VISIONLUMIERE|lumière normale]] dans un rayon de 6 mètres autour de la créature, et augmente le niveau de luminosité d'une catégorie à 6 mètres supplémentaires. Ce halo empêche la créature de bénéficier d'un [[camouflage]] dans les ténèbres non magiques, et dans des conditions de luminosité faible ou inférieures, la lueur de la créature peut être vue même si elle n'est pas en ligne de mire directe.
 
 Si *halo indésirable* est introduit dans une zone de ténèbres magiques (ou vice versa), les effets des deux sorts sont temporairement annulés, de sorte que les conditions de luminosité qui prévalent normalement sont rétablies là où les zones d'effet se chevauchent.

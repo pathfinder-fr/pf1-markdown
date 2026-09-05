@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Prêtre#CANALISATIONDENERGIE
 ---
 
->>> [Prêtre#CANALISATIONDENERGIE](./Prêtre.md#CANALISATIONDENERGIE)
+>>> [[Prêtre#CANALISATIONDENERGIE]]

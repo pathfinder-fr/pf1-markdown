@@ -7,6 +7,6 @@ Categories:
 - Géographie
 ---
 
-Grande forêt située au centre du [Chéliax](./Chéliax.md), à l'ouest d'[Egorian](./Egorian.md), le Bois aux Tertres tirerait son nom du grand nombre de tombes des soi-disant tyrans de l'inter-règne (c'est-à-dire entre la mort d'[Aroden](./Aroden.md) et l'accession au trône de la Maison Thrune) qui y sont perdues au milieu de la végétation.
+Grande forêt située au centre du [[Chéliax]], à l'ouest d'[[Egorian]], le Bois aux Tertres tirerait son nom du grand nombre de tombes des soi-disant tyrans de l'inter-règne (c'est-à-dire entre la mort d'[[Aroden]] et l'accession au trône de la Maison Thrune) qui y sont perdues au milieu de la végétation.
 
-On dit aussi que la clef du [Chéliax](./Chéliax.md) serait cachée en son sein. Mais ce ne doit être que des racontars dus à la position centrale de la forêt par rapport au territoire et à sa proximité avec [Egorian](./Egorian.md).
+On dit aussi que la clef du [[Chéliax]] serait cachée en son sein. Mais ce ne doit être que des racontars dus à la position centrale de la forêt par rapport au territoire et à sa proximité avec [[Egorian]].

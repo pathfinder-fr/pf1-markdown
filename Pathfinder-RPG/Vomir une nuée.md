@@ -10,16 +10,16 @@ Categories:
 ---
 
 {s:APG}
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Alch](./Alchimiste.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [G](./composantes.md)  
+**Composantes** [[Composantes|G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
-**Effet** une [nuée d'araignées](./Nuée daraignées.md)  
+**Effet** une [[nuée daraignées|nuée d'araignées]]  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
+**Durée** 1 [[round]]/[[niveau]]
 
-Le personnage vomit une [nuée d'araignées](./Nuée daraignées.md) qui attaque toutes les créatures qui se trouvent dans la zone. La nuée apparaît dans une case adjacente au personnage mais si cette case ne contient pas de créature vivante, elle se dirige à sa vitesse normale dans une direction choisie par le lanceur de sorts. Ce dernier peut déplacer la nuée ou changer sa direction par une [action simple](./Action simple.md), en se concentrant sur elle, sinon la nuée continue d'avancer dans sa direction actuelle. Si le personnage possède au moins un [niveau de lanceur de sorts](./NLS.md) de 7, il peut vomir une [nuée de guêpes](./Nuée de guêpes.md). Enfin, si son [niveau de lanceur de sorts](./NLS.md) est de 13 au minimum, il peut vomir une [nuée de fourmis soldats](./Nuée de fourmis soldats.md).
+Le personnage vomit une [[nuée daraignées|nuée d'araignées]] qui attaque toutes les créatures qui se trouvent dans la zone. La nuée apparaît dans une case adjacente au personnage mais si cette case ne contient pas de créature vivante, elle se dirige à sa vitesse normale dans une direction choisie par le lanceur de sorts. Ce dernier peut déplacer la nuée ou changer sa direction par une [[action simple]], en se concentrant sur elle, sinon la nuée continue d'avancer dans sa direction actuelle. Si le personnage possède au moins un [[NLS|niveau de lanceur de sorts]] de 7, il peut vomir une [[nuée de guêpes]]. Enfin, si son [[NLS|niveau de lanceur de sorts]] est de 13 au minimum, il peut vomir une [[nuée de fourmis soldats]].

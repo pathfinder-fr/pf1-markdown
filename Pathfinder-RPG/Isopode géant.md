@@ -10,8 +10,8 @@ LastModified: 2026-08-02 10:54
 {s:pucem|Vermine|Aquatique}
 {s:BDTexte|*Source : Ultimate Wilderness*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Vermine](./type Vermine.md) (aquatique) de taille MIN, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir (capacité)|Vision dans le noir] à 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] (aquatique) de taille MIN, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir (capacité)|Vision dans le noir]] à 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 11, pris au dépourvu 14 (Dex -1, naturelle +3, taille +2)}
 {s:BDTexte|**pv** 6 (1d8+2)}
@@ -24,7 +24,7 @@ LastModified: 2026-08-02 10:54
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 5, **Dex** 9, **Con** 14, **Int** —, **Sag** 11, **Cha** 2}
 {s:BDTexte|**BBA** +0, **BMO** -3, **DMD** 4 (immunité au croc-en-jambe)}
-{s:BDTexte|**Compétences** [Nage](./nage.md) +5}
+{s:BDTexte|**Compétences** [[Nage]] +5}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Océan}
 {s:BDTexte|**Organisation sociale** solitaire, paire, ou banc (3-20)}

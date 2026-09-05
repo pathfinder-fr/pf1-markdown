@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous êtes connu pour être dangereux et redoutable.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Arme de prédilection](./Arme de prédilection.md), [Démonstration](./Démonstration.md), alignement non-Bon, talent social [grande renommée](./talents sociaux.md#GRANDERENOMMEE), maniement de l'arme choisie
+**Conditions.** [[Arme de prédilection]], [[Démonstration]], alignement non-Bon, talent social [[Talents sociaux#GRANDERENOMMEE|grande renommée]], maniement de l'arme choisie
 
-**Avantages.** La simple présence du personnage peut agir comme une [Démonstration](./Démonstration.md) rapide et efficace. Par une [action simple](./Action simple.md), le personnage utilise les avantages de Démonstration même s'il ne manie pas une arme pour laquelle il possède [Arme de prédilection](./Arme de prédilection.md). S'il manie une telle arme, il obtient un bonus de +2 sur le test d'[Intimidation](./Intimidation.md).
+**Avantages.** La simple présence du personnage peut agir comme une [[Démonstration]] rapide et efficace. Par une [[action simple]], le personnage utilise les avantages de Démonstration même s'il ne manie pas une arme pour laquelle il possède [[Arme de prédilection]]. S'il manie une telle arme, il obtient un bonus de +2 sur le test d'[[Intimidation]].

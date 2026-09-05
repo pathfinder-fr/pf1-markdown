@@ -6,7 +6,7 @@ LastModified: 2017-08-18 13:50
 
 {s:MenuGuide}Ces quelques pages regroupent diverses informations pour vous aider à créer du contenu pour le wiki Pathfinder-FR. Même si vous n'avez jamais touché un Wiki de votre vie, ces explications devraient suffire pour vous lancer : c'est vraiment beaucoup moins compliqué que ce qu'on pourrait penser.
 
-Le wiki n'est guère plus compliqué qu'un forum. Sur un forum, on peut écrire du texte normal et éventuellement le mettre en page en utilisant diverses "balises" telles que `[b]` pour du gras ou `[i]` pour de l'italique ou encore `[url]` pour ajouter un lien vers une page web. Le wiki utilise un principe tout à fait similaire, si ce n'est que les balises sont différentes et que les possibilités sont plus nombreuses.
+Le wiki n'est guère plus compliqué qu'un forum. Sur un forum, on peut écrire du texte normal et éventuellement le mettre en page en utilisant diverses "balises" telles que `[[b]]` pour du gras ou `[[i]]` pour de l'italique ou encore `[[url]]` pour ajouter un lien vers une page web. Le wiki utilise un principe tout à fait similaire, si ce n'est que les balises sont différentes et que les possibilités sont plus nombreuses.
 
 Ce petit guide se divise en plusieurs sections auxquelles vous pouvez accéder en suivant les liens suivants.
 
@@ -21,4 +21,4 @@ Ce petit guide se divise en plusieurs sections auxquelles vous pouvez accéder e
 
 
 <div class="chapeau">
-*Note des administrateurs : Les pages des wikis des parties doivent être toutes créées par les administrateurs du site. Vous pouvez faire votre demande de wiki [^http://www.pathfinder-fr.org/Forum/yaf_topics43_Recrutements-et-discussions-sur-les-parties.aspx|ici].*</div>
+*Note des administrateurs : Les pages des wikis des parties doivent être toutes créées par les administrateurs du site. Vous pouvez faire votre demande de wiki [ici](http://www.pathfinder-fr.org/Forum/yaf_topics43_Recrutements-et-discussions-sur-les-parties.aspx).*</div>

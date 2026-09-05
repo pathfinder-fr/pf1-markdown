@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Feuille-Rouge est un village du comté de [Varno](./Varno.md), à l'est de l'[Ustalav](./Ustalav.md).
+Feuille-Rouge est un village du comté de [[Varno]], à l'est de l'[[Ustalav]].

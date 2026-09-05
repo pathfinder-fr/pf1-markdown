@@ -13,20 +13,20 @@ Categories:
 Le chevalier étincelant possède les aptitudes de classe suivantes.
 
 #### Cavalier doué (Ext et Sur)
-Au [niveau](./niveau.md)  3, le chevalier étincelant ne tient plus compte de sa [pénalité d’armure](./Tableau récapitulatif des armures.md) lorsqu’il effectue un [test](./../Golarion/Test.md)  d’[Équitation](./Équitation.md). De plus, les montures qu’il chevauche bénéficient de sa capacité de [Grâce divine](./Paladin.md#GRACEDIVINE) et ajoutent donc son [bonus](./Caractéristiques.md#TABLEAUCARACTERISTIQUES) de [Charisme](./Charisme.md) (s’il en a un) à tous leurs [jets de sauvegarde](./jet de sauvegarde.md). Cette capacité remplace [Santé divine](./Paladin.md#SANTEDIVINE).
+Au [[niveau]]  3, le chevalier étincelant ne tient plus compte de sa [[Tableau récapitulatif des armures|pénalité d’armure]] lorsqu’il effectue un [[test]]  d’[[Équitation]]. De plus, les montures qu’il chevauche bénéficient de sa capacité de [[paladin#GRACEDIVINE|Grâce divine]] et ajoutent donc son [[caractéristiques#TABLEAUCARACTERISTIQUES|bonus]] de [[Charisme]] (s’il en a un) à tous leurs [[Jet de sauvegarde|jets de sauvegarde]]. Cette capacité remplace [[paladin#SANTEDIVINE|Santé divine]].
 
 #### Pacte divin (Sur)
-En atteignant le [niveau](./niveau.md)  5, le chevalier étincelant
-doit former un lien avec une [monture](./Paladin.md#PACTEDIVIN). À part cette restriction,
+En atteignant le [[niveau]]  5, le chevalier étincelant
+doit former un lien avec une [[paladin#PACTEDIVIN|monture]]. À part cette restriction,
 cette capacité fonctionne comme celle des paladins ordinaires.
 
 #### Charge du chevalier (Sur)
-Au [niveau](./niveau.md)  11, chaque fois que
-le chevalier étincelant est monté et [charge](./charge.md) un ennemi, son
-mouvement ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md), ni contre
-lui ni contre sa [monture](./Paladin.md#PACTEDIVIN). De plus, si sa cible est également la
-cible de son [châtiment du Mal](./Paladin.md#CHATIMENTDUMAL) et que l’attaque de [charge](./charge.md) touche,
-elle doit effectuer un [jet de Volonté](./jet de sauvegarde.md) pour ne pas être [paniquée](./Paniqué.md)
-pendant un nombre de rounds égal à la moitié du [niveau](./niveau.md)  du
-chevalier étincelant. Le [DD](./DD.md) de ce [jet de sauvegarde](./jet de sauvegarde.md) vaut 10 + la
-moitié du [niveau](./niveau.md) du chevalier étincelant + son [modificateur de charisme](./Caractéristiques.md#TABLEAUCARACTERISTIQUES). Cette capacité remplace [Aura de justice](./Paladin.md#AURADEJUSTICE).
+Au [[niveau]]  11, chaque fois que
+le chevalier étincelant est monté et [[charge]] un ennemi, son
+mouvement ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]], ni contre
+lui ni contre sa [[paladin#PACTEDIVIN|monture]]. De plus, si sa cible est également la
+cible de son [[paladin#CHATIMENTDUMAL|châtiment du Mal]] et que l’attaque de [[charge]] touche,
+elle doit effectuer un [[Jet de sauvegarde|jet de Volonté]] pour ne pas être [[paniqué|paniquée]]
+pendant un nombre de rounds égal à la moitié du [[niveau]]  du
+chevalier étincelant. Le [[DD]] de ce [[Jet de sauvegarde]] vaut 10 + la
+moitié du [[niveau]] du chevalier étincelant + son [[caractéristiques#TABLEAUCARACTERISTIQUES|modificateur de charisme]]. Cette capacité remplace [[paladin#AURADEJUSTICE|Aura de justice]].

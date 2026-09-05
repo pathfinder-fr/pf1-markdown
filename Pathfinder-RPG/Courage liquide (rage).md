@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#COURAGELIQUIDE
 ---
 
->>> [pouvoirs de rage#COURAGELIQUIDE](./Pouvoirs de rage.md#COURAGELIQUIDE)
+>>> [[pouvoirs de rage#COURAGELIQUIDE]]

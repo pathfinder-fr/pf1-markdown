@@ -11,20 +11,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Illusion](./Illusion.md) ([ombre](./branche ombre.md)) ; **Niveau** [Con](./Conjurateur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7  
+**École** [[Illusion]] ([[branche ombre|ombre]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
 
 **Temps d'incantation** 12 heures  
 
-**Composantes** [V, G, M](./composantes.md) (sculpture de glace représentant la cible et poudre de rubis (500 po par [DV](./../Ressources/DV.md) du simulacre))  
+**Composantes** [[composantes|V, G, M]] (sculpture de glace représentant la cible et poudre de rubis (500 po par [[DV]] du simulacre))  
 
 **Portée** 0 m  
 
 **Effet** 1 double  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Ce sort crée un *simulacre* illusoire de la créature choisie. Ce double est partiellement réel et formé à partir de neige ou de glace. Il ressemble à s’y méprendre à l’original mais il existe des différences: il n’a que la moitié des [niveaux](./niveau.md) ou [dés de vie](./../Ressources/DV.md) de la créature qu’il imite (ce qui inclut [points de vie](./points de vie.md), [dons](./Dons.md), [degrés de compétence](./degré de compétence.md) et [pouvoirs spéciaux](./Pouvoirs spéciaux.md)). Le lanceur de sorts ne peut pas créer le *simulacre* d’une créature qui a deux fois plus de [niveaux](./niveau.md) ou [dés de vie](./../Ressources/DV.md) que son [niveau de lanceur de sorts](./NLS.md). Le mage doit faire un test de [Déguisement](./Déguisement.md) au moment de l’incantation, afin de déterminer s’il crée un double fidèle. Une créature qui connaît l’original détecte la ruse si elle réussit un test de [Perception](./Perception.md) opposé au test de [Déguisement](./Déguisement.md) du lanceur de sorts ou un test de [Psychologie](./Psychologie.md) [DD](./DD.md) 20.
+Ce sort crée un *simulacre* illusoire de la créature choisie. Ce double est partiellement réel et formé à partir de neige ou de glace. Il ressemble à s’y méprendre à l’original mais il existe des différences: il n’a que la moitié des [[niveau|niveaux]] ou [[DV|dés de vie]] de la créature qu’il imite (ce qui inclut [[points de vie]], [[dons]], [[degré de compétence|degrés de compétence]] et [[pouvoirs spéciaux]]). Le lanceur de sorts ne peut pas créer le *simulacre* d’une créature qui a deux fois plus de [[niveau|niveaux]] ou [[DV|dés de vie]] que son [[NLS|niveau de lanceur de sorts]]. Le mage doit faire un test de [[Déguisement]] au moment de l’incantation, afin de déterminer s’il crée un double fidèle. Une créature qui connaît l’original détecte la ruse si elle réussit un test de [[Perception]] opposé au test de [[Déguisement]] du lanceur de sorts ou un test de [[Psychologie]] [[DD]] 20.
 
-Le *simulacre* est en permanence sous le contrôle de son créateur. Il n’existe aucun lien télépathique entre les deux ce qui implique que le personnage doit lui transmettre ses instructions autrement. Le double ne peut jamais devenir plus puissant (il ne peut pas gagner des [niveaux](./niveau.md) ni augmenter ses [caractéristiques](./Caractéristiques.md)). S’il est détruit, il se retransforme en neige et fond rapidement. S’il est seulement endommagé, on peut le remettre en état à condition de disposer d’un laboratoire de magie et de suivre un processus complexe qui exige au moins vingt-quatre heures, ainsi que 100 po par [point de vie](./pv.md) à restituer à la créature.
+Le *simulacre* est en permanence sous le contrôle de son créateur. Il n’existe aucun lien télépathique entre les deux ce qui implique que le personnage doit lui transmettre ses instructions autrement. Le double ne peut jamais devenir plus puissant (il ne peut pas gagner des [[niveau|niveaux]] ni augmenter ses [[caractéristiques]]). S’il est détruit, il se retransforme en neige et fond rapidement. S’il est seulement endommagé, on peut le remettre en état à condition de disposer d’un laboratoire de magie et de suivre un processus complexe qui exige au moins vingt-quatre heures, ainsi que 100 po par [[pv|point de vie]] à restituer à la créature.

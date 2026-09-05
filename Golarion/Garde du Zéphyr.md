@@ -7,7 +7,7 @@ Categories:
 - Organisation
 ---
 
-Alors que les [Maîtres du Pacte](./Maîtres du Pacte.md) ne quittent que très rarement l'intérieur des murs de leur palais, ils sont parfaitement informés de tout ce qui se passe au [Katapesh](./Katapesh.md) grace à leur réseau d'espion et par les patrouilles actives de la Garde du Zéphyr.
+Alors que les [[Maîtres du Pacte]] ne quittent que très rarement l'intérieur des murs de leur palais, ils sont parfaitement informés de tout ce qui se passe au [[Katapesh]] grace à leur réseau d'espion et par les patrouilles actives de la Garde du Zéphyr.
 
 La Garde du Zéphyr est composée de diverses groupes éthniques et races (principalement des humains, des demi-elfes et des demi-orques) réunies par leur expertise du combat et par la précision avec laquelle ils accomplissent leurs tâches.
 
@@ -15,5 +15,5 @@ Une patrouille de la Garde du Zéphyr est généralement composée de cinq solda
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur la Garde du Zéphyr dans le supplément
-- [Pathfinder Univers : Le Guide du Katapesh](./Publications.md#GUIDETOKATAPESH)
+- [[Golarion.Publications#GUIDETOKATAPESH|Pathfinder Univers : Le Guide du Katapesh]]
 {s:VoirAussiAprès}

@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Les créatures blessées par l'énergie négative du personnage deviennent vulnérables face au poison.*
 
-**Conditions.** [Canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) 3d6, suivant de [Norgorber](./Norgorber (technique).md).
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 3d6, suivant de [[Norgorber (technique)|Norgorber]].
 
-**Avantage.** Une fois par jour lorsque le personnage [canalise de l'énergie](./Prêtre.md#CANALISATIONDENERGIE) négative pour blesser les créatures vivantes, il peut infliger aux créatures qui ont raté leur [jet de sauvegarde](./JDS.md) contre sa canalisation un malus de -4 aux [jets de sauvegarde](./JDS.md) contre les effets de poison. Ce malus dure 1 minute.
+**Avantage.** Une fois par jour lorsque le personnage [[Prêtre#CANALISATIONDENERGIE|canalise de l'énergie]] négative pour blesser les créatures vivantes, il peut infliger aux créatures qui ont raté leur [[jds|jet de sauvegarde]] contre sa canalisation un malus de -4 aux [[jds|jets de sauvegarde]] contre les effets de poison. Ce malus dure 1 minute.

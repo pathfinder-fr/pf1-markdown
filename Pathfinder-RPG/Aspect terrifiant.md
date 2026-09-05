@@ -14,16 +14,16 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Dru](./Druide.md) 8, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8, [Prê](./Prêtre.md) 8, [Psy](./Psychiste.md) 8, [Sor](./Sorcière.md) 8  
+**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Druide|Dru]] 8, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (une peau de crapaud)  
+**Composantes** [[Composantes|V, G, F]] (une peau de crapaud)  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)
+**Durée** 1 minute/[[niveau]]
 
-Le personnage se transforme en une horrible version agrandie de sa personne. Il devient [G](./taille G.md) et revêt des traits qui terrifient ses ennemis. Il gagne les pouvoirs suivants : bonus de taille +6 [Force](./Force.md), bonus de taille +4 [Constitution](./Constitution.md), bonus d’armure naturelle +6, [RD](./RD.md) 10/magie et [résistance à la magie](./résistance à la magie.md) 10 + 1/2 [niveau de lanceur de sorts](./NLS.md). Le personnage émet aussi une aura de 9 m (6 {s:c}) de rayon qui [secoue](./Secoué.md) ses ennemis. À chaque fois qu’une créature [secouée](./Secoué.md) par l’aura touche le personnage avec une attaque de corps à corps, elle devient [effrayée](./Effrayé.md) pendant 1d4 [rounds](./round.md) mais, ensuite, l’aura ne l’affecte plus. L’aura est un [effet mental de peur](./Registre.md).
+Le personnage se transforme en une horrible version agrandie de sa personne. Il devient [[taille G|G]] et revêt des traits qui terrifient ses ennemis. Il gagne les pouvoirs suivants : bonus de taille +6 [[Force]], bonus de taille +4 [[Constitution]], bonus d’armure naturelle +6, [[RD]] 10/magie et [[résistance à la magie]] 10 + 1/2 [[NLS|niveau de lanceur de sorts]]. Le personnage émet aussi une aura de 9 m (6 {s:c}) de rayon qui [[secoué|secoue]] ses ennemis. À chaque fois qu’une créature [[secoué|secouée]] par l’aura touche le personnage avec une attaque de corps à corps, elle devient [[effrayé|effrayée]] pendant 1d4 [[round|rounds]] mais, ensuite, l’aura ne l’affecte plus. L’aura est un [[registre|effet mental de peur]].

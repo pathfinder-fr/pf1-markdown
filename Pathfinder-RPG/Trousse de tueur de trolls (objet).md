@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 30 po ; **Poids** 8,5 kg
-<span class="Catégorie">**Catégorie** [Trousses d'équipement](./Trousses déquipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
 ---
-Cette trousse comprend 1 fiole de [feu grégeois](./Feu grégeois (objet).md), 1 flasque d'[acide](./Acide (objet).md), des [torches](./Torche (objet).md) (10), un [allume-feu](./Allume-feu (objet).md) et 5 flasques d'[huile](./Huile (objet).md).
+Cette trousse comprend 1 fiole de [[Feu grégeois (objet)|feu grégeois]], 1 flasque d'[[Acide (objet)|acide]], des [[Torche (objet)|torches]] (10), un [[Allume-feu (objet)|allume-feu]] et 5 flasques d'[[Huile (objet)|huile]].

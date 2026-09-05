@@ -11,11 +11,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2  
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une bille en verre ou en métal et une boucle de parchemin tordue)  
+**Composantes** [[composantes|V, G, M]] (une bille en verre ou en métal et une boucle de parchemin tordue)  
 
 **Portée** contact  
 
@@ -25,7 +25,7 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Le personnage transforme un miroir en un portail menant à un espace extradimensionnel. Cet espace peut accueillir huit créatures de [taille](./taille.md) M. Les créatures qui entrent dans cet espace sont cachées et hors de portée des sorts (même des sorts de [divination](./Divination.md)) à moins que ces sorts ne fonctionnent à travers les plans. Si le miroir est couvert (par un drap ou s’il est placé face contre terre ou contre un mur), le portail devient inactif. Si le miroir est brisé ou déplacé de plus de 1,5 mètre par rapport à l’endroit où il se trouvait quand le personnage a lancé le sort, le sort se termine et toutes les créatures présentes dans l’espace extradimensionnel en sont expulsées (cf. plus bas) et sont [nauséeuses](./Nauséeux.md) pendant 1d6 rounds.
+Le personnage transforme un miroir en un portail menant à un espace extradimensionnel. Cet espace peut accueillir huit créatures de [[taille]] M. Les créatures qui entrent dans cet espace sont cachées et hors de portée des sorts (même des sorts de [[divination]]) à moins que ces sorts ne fonctionnent à travers les plans. Si le miroir est couvert (par un drap ou s’il est placé face contre terre ou contre un mur), le portail devient inactif. Si le miroir est brisé ou déplacé de plus de 1,5 mètre par rapport à l’endroit où il se trouvait quand le personnage a lancé le sort, le sort se termine et toutes les créatures présentes dans l’espace extradimensionnel en sont expulsées (cf. plus bas) et sont [[nauséeux|nauséeuses]] pendant 1d6 rounds.
 
 Il est impossible de lancer des sorts par cette interface dimensionnelle et les effets de zone ne peuvent pas la traverser. Ceux qui se trouvent dans l’espace dimensionnel peuvent voir et entendre l’autre côté comme s’ils regardaient par une fenêtre ouverte de la même taille que le miroir. Les créatures extérieures à l’espace extradimensionnel ne voient que ce qu’elles verraient normalement se refléter dans le miroir.
 

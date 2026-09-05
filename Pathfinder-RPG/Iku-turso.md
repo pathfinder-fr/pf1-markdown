@@ -13,33 +13,33 @@ Categories:
 {s:pucem|Aberration|Aquatique|Froid}
 {s:BDTexte|*Source : Bestiaire 3 page 152*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Aberration](./type Aberration.md),([aquatique](./sous-type aquatique.md)) de taille M, NM}
-{s:BDTexte|**Init** +7 ; **Sens** [perception aveugle](./perception aveugle.md) à 18m (12 {s:c}) ; [vision dans le noir](./vision dans le noir.md)  à 18m (12 {s:c}) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Aberration|Aberration]],([[sous-type Aquatique|aquatique]]) de taille M, NM}
+{s:BDTexte|**Init** +7 ; **Sens** [[perception aveugle]] à 18m (12 {s:c}) ; [[vision dans le noir]]  à 18m (12 {s:c}) ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 14, pris au dépourvu 17 (Dex +3, esquive +1, naturelle +7)}
 {s:BDTexte|**pv** 102 (12d8+48)}
 {s:BDTexte|**Réf** +9, **Vig** +8, **Vol** +11}
 {s:BDTexte|**Immunité ** maladie}
-{s:BDTexte|**Faiblesse ** [aveuglé par la lumière](./Aveuglé par la lumière.md)}
+{s:BDTexte|**Faiblesse ** [[aveuglé par la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), **nage** 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +16 (1d8+7 plus maladie) et 2 griffes, +16 (1d6+7)}
 {s:BDTexte|**Attaque spéciale** leurre de lumière}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 16, **Con** 19, **Int** 7, **Sag** 12, **Cha** 17}
-{s:BDTexte|**BBA** +9, **BMO** +16, **DMD** 30 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Don pour les critiques](./Don pour les critiques.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +12, [Natation](./Natation.md) +15, [Survie](./Survie.md) +12}
+{s:BDTexte|**BBA** +9, **BMO** +16, **DMD** 30 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Don pour les critiques]], [[Esquive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +14, [[Perception]] +12, [[Natation]] +15, [[Survie]] +12}
 {s:BDTexte|**Langues** aklo, aquatique, commun des profondeurs}
-{s:BDTexte|**Part** [amphibie](./Amphibie.md)}
+{s:BDTexte|**Part** [[amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** eaux ou souterrains, froids ou tempérés}
 {s:BDTexte|**Organisation** solitaire, couple ou cellule (3-8)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Leurre de lumière (Sur).** Par une action simple, l’ikuturso peut faire apparaître quelques petits points de lumière fonctionnant comme le sort lumières dansantes ([NLS](./NLS.md) égal au [DV](./../Ressources/DV.md) de l’iku-turso), hormis pour ce qui suit. Les créatures situées à moins de 30 mètres de l’une de ces lumières doivent réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 19 lorsqu’elles les voient ou être contraintes de s’en approcher en empruntant la voie la plus sûre et la plus directe. Une créature réussissant son jet est immunisée contre le leurre de lumière de cet iku-turso pendant 24 heures. Si une créature soumise à cet effet doit traverser un terrain dangereux pour atteindre les lumières, elle a droit à un autre jet de [Volonté](./Volonté.md) pour dissiper l’effet avant de s’engager sur le terrain dangereux. Cet effet se dissipe lorsque le personnage atteint la lumière ou reçoit des dégâts, quels qu’ils soient. Il s’agit d’un effet mental visuel de charme. Le [DD](./DD.md) du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).}
+{s:BDTexte|**Leurre de lumière (Sur).** Par une action simple, l’ikuturso peut faire apparaître quelques petits points de lumière fonctionnant comme le sort lumières dansantes ([[NLS]] égal au [[DV]] de l’iku-turso), hormis pour ce qui suit. Les créatures situées à moins de 30 mètres de l’une de ces lumières doivent réussir un jet de [[Volonté]] [[DD]] 19 lorsqu’elles les voient ou être contraintes de s’en approcher en empruntant la voie la plus sûre et la plus directe. Une créature réussissant son jet est immunisée contre le leurre de lumière de cet iku-turso pendant 24 heures. Si une créature soumise à cet effet doit traverser un terrain dangereux pour atteindre les lumières, elle a droit à un autre jet de [[Volonté]] pour dissiper l’effet avant de s’engager sur le terrain dangereux. Cet effet se dissipe lorsque le personnage atteint la lumière ou reçoit des dégâts, quels qu’ils soient. Il s’agit d’un effet mental visuel de charme. Le [[DD]] du jet de sauvegarde est basé sur le [[Charisme]].}
 {s:BDTexte|**Maladie (Sur).** La morsure de l’iku-turso transmet une maladie étrange et surnaturelle que l’on appelle le tursas. Cette maladie entraîne une croissance douloureuse d’écailles sur la peau de la victime, d’étranges hallucinations et transforme finalement la victime en iku-turso.}
-{s:BDTexte|**Tursas.** Morsure — blessure ; JdS [Vigueur](./Vigueur.md) [DD](./DD.md) 20 ; incubation 1 minute ; fréquence 1/jour ; effet affaiblissement temporaire de 1d3 points de [Sag](./Sag.md) et diminution permanente de 1d6 points de [Cha](./Cha.md) ; guérison 2 réussites consécutives. Tant que la victime souffre d’un affaiblissement de caractéristiques à cause du tursas, elle est capable de respirer sous l’eau. Une créature qui tombe à 0 [Charisme](./Charisme.md) à cause de cette maladie se transforme en iku-turso adulte et en pleine santé : elle oublie aussitôt tout de ses capacités et de sa vie d’avant et se met en quête de la communauté d’iku-tursos la plus proche afin de l’intégrer. On peut inverser la transformation avec un souhait ou un miracle. Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Tursas.** Morsure — blessure ; JdS [[Vigueur]] [[DD]] 20 ; incubation 1 minute ; fréquence 1/jour ; effet affaiblissement temporaire de 1d3 points de [[Sag]] et diminution permanente de 1d6 points de [[Cha]] ; guérison 2 réussites consécutives. Tant que la victime souffre d’un affaiblissement de caractéristiques à cause du tursas, elle est capable de respirer sous l’eau. Une créature qui tombe à 0 [[Charisme]] à cause de cette maladie se transforme en iku-turso adulte et en pleine santé : elle oublie aussitôt tout de ses capacités et de sa vie d’avant et se met en quête de la communauté d’iku-tursos la plus proche afin de l’intégrer. On peut inverser la transformation avec un souhait ou un miracle. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].}
 </div>
 </td><td><div>
 *Cette créature grotesque aux écailles émeraude ressemble à un croisement entre l’anguille, le poisson-vipère et un humanoïde griffu.*

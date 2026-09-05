@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#RAGESANSPEUR
 ---
 
->>> [pouvoirs de rage#RAGESANSPEUR](./Pouvoirs de rage.md#RAGESANSPEUR)
+>>> [[pouvoirs de rage#RAGESANSPEUR]]

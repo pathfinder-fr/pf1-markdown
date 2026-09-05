@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.142*}
 {s:BDTexte|**PX** 19 200}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille TG, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +22}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille TG, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] +22}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 9, pris au dépourvu 25 (armure +4, Dex +1, naturelle +13 taille -2)}
 {s:BDTexte|**pv** 195 (17d8+119)}
@@ -25,21 +25,21 @@ Categories:
 {s:BDTexte|**Corps à corps** corne, +18 (1d8+6) et massue de maître, +24/+19/+14 (3d8+19) ou corne, +23 (1d8+13) et 2 coups, +23 (2d6+13)}
 {s:BDTexte|**Distance** rocher, +12 (2d6+19)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,5 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [charge puissante](./Charge puissante (capacité).md) (corne, 4d8+24), [lancer de rochers](./Lancer de rochers (capacité).md) 36 m (24 {s:c})}
+{s:BDTexte|**Attaques spéciales** [[Charge puissante (capacité)|charge puissante]] (corne, 4d8+24), [[Lancer de rochers (capacité)|lancer de rochers]] 36 m (24 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 36, **Dex** 13, **Con** 25, **Int** 7, **Sag** 14, **Cha** 8}
 {s:BDTexte|**BBA** +12, **BMO** +27, **DMD** 38}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Critique fébrile](./Critique fébrile.md), [Don pour les critiques](./Don pour les critiques.md), [Dur à cuire](./Dur à cuire.md), [Enchaînement](./Enchaînement.md), [Endurance](./Endurance.md), [Science de la bousculade](./Science de la bousculade.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +22}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Critique fébrile]], [[Don pour les critiques]], [[Dur à cuire]], [[Enchaînement]], [[Endurance]], [[Science de la bousculade]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Perception]] +22}
 {s:BDTexte|**Langues** commun, cyclope, géant}
 {s:BDTexte|**Particularités** accès de brutalité}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous les climats tempérés ou tropicaux}
 {s:BDTexte|**Organisation sociale** solitaire, ccolonie (2-5) ou tribu (6-14)}
-{s:BDTexte|**Trésor** standard (armure de peau, massue de maître de [taille TG](./taille TG.md), autres trésors)}
+{s:BDTexte|**Trésor** standard (armure de peau, massue de maître de [[taille TG]], autres trésors)}
 {s:BDSousTitre|Pouvoirs Spéciaux}
 {s:BDTexte|**Accès de brutalité (Sur)**. Une fois par jour, par une action rapide, le grand cyclope peut avoir un accès de sauvage inspiration. Dans ce cas, il double la zone de critique possible de toutes ses armes, attaques naturelles et attaques de rochers jusqu’au début de son prochain tour. De plus, une fois par jour, lorsque
-son nombre de points de vie atteint 0 ou moins et qu’il est toujours conscient grâce à son don [Dur à cuire](./Dur à cuire.md), le grand
+son nombre de points de vie atteint 0 ou moins et qu’il est toujours conscient grâce à son don [[Dur à cuire]], le grand
 cyclope recharge ce pouvoir, ce qui lui permet de l’utiliser une seconde fois le même jour.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -48,11 +48,11 @@ cyclope recharge ce pouvoir, ce qui lui permet de l’utiliser une seconde fois 
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Cyclope](./Cyclope.md) || 5
+| [[Cyclope]] || 5
 |-
-| [Cyclope kabandha](./Cyclope kabandha.md) || 9
+| [[Cyclope kabandha]] || 9
 |-
-| [Grand cyclope](./Grand cyclope.md) || 12
+| [[Grand cyclope]] || 12
 |}
 </div>*Cet humanoïde difforme mais incroyablement musclé n’a qu’un seul oeil énorme et injecté de sang placé au milieu de son front surmonté d’une courte corne irrégulière.*
 

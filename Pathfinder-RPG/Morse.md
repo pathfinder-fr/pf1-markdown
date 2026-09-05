@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Froid}
 {s:BDTexte|*Source : Bestiaire 4 p.190*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 9, pris au dépourvu 17 (naturelle +8, taille -1)}
 {s:BDTexte|**pv** 30 (4d8+12)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 11, **Con** 16, **Int** 2, **Sag** 13, **Cha** 6}
 {s:BDTexte|**BBA** +3, **BMO** +9, **DMD** 19 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Endurance](./Endurance.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +17, [Perception](./Perception.md) +7}
-{s:BDTexte|<b>Particularités</b> [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Endurance]]}
+{s:BDTexte|**Compétences** [[Natation]] +17, [[Perception]] +7}
+{s:BDTexte|<b>Particularités</b> [[retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans froids}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupeau (3-24)}
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Morse](./Morse.md) || 3
+| [[Morse]] || 3
 |-
-| [Morse empereur](./Morse empereur.md) || 8
+| [[Morse empereur]] || 8
 |}
 </div>''Deux longues défenses dépassent de la gueule barbue de cette créature
 volumineuse. Elle se déplace maladroitement à l’aide de ses nageoires.''
@@ -77,7 +77,7 @@ guise de prestigieux trophées.
 
 #### Le morse comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 3 m (2 {s:c}), nage 12 m (8 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 12, Dex 13, Con 14, Int 2, Sag 13, Cha 6 ; **Particularités** [retenir son souffle](./Retenir son souffle (capacité).md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 3 m (2 {s:c}), nage 12 m (8 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 12, Dex 13, Con 14, Int 2, Sag 13, Cha 6 ; **Particularités** [[retenir son souffle (capacité)|retenir son souffle]], [[vision nocturne]].
 
 **Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +4 ; **Attaque** morsures(1d8); **Caractéristiques** For +8, Dex -2, Con +4.
 </div></td></tr></table>

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 8 po ; **Poids** 6 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces carnivores vifs et rusés sont difficiles à dresser mais font souvent d’excellents [familiers](./Familiers.md). Beaucoup de communautés humanoïdes considèrent ces canidés comme une menace pour la volaille de leurs fermes et certains utilisent des chiens pour les chasser pour le plaisir. Voir les statistiques du [renard](./Renard.md).
+Ces carnivores vifs et rusés sont difficiles à dresser mais font souvent d’excellents [[Familiers]]. Beaucoup de communautés humanoïdes considèrent ces canidés comme une menace pour la volaille de leurs fermes et certains utilisent des chiens pour les chasser pour le plaisir. Voir les statistiques du [[renard]].

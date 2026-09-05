@@ -11,26 +11,26 @@ LastModified: 2021-04-25 00:06
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Augure](./monstre Augure.md) || 2
+| [[monstre augure|Augure]] || 2
 |-
-| [Éphialtès](./Éphialtès.md) || 16
+| [[Éphialtès]] || 16
 |-
-| [Ermite](./Ermite.md) || 20
+| [[Ermite]] || 20
 |-
-| [Évangéliste](./Kyton.md) || 6
+| [[Kyton|Évangéliste]] || 6
 |-
-| [Interlocuteur](./Interlocuteur.md) || 12
+| [[Interlocuteur]] || 12
 |-
-| [Libitinarii](./Libitinarii.md) || 13
+| [[Libitinarii]] || 13
 |-
-| [Mégère](./Mégère.md) || 17
+| [[Mégère]] || 17
 |-
-| [Ostiarius](./Ostiarius.md) || 5
+| [[Ostiarius]] || 5
 |-
-| [Sacristain](./Sacristain.md) || 10
+| [[Sacristain]] || 10
 |}
 </div></div><div class="description">**Source :** Bestiaire 3 p.167.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [kyton](./sous-type kyton.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)).*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type kyton|kyton]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]).*
 
 Horriblement cruels et laids, les kytons sont des fiélons maléfiques qui se nourrissent de la peur et de la souffrance des mortels en usant de méthodes de torture surnaturelles. Leur apparence monstrueuse varie mais leurs dispositions pour l’amoralité et le stoïcisme sont universelles, les kytons ne se souciant nullement de la détresse dont ils s’abreuvent. Ces êtres se consacrent entièrement à leur propre métamorphose qu’ils atteignent au moyen d’horribles expériences d’automutilation et grâce à la puissance mystique qu’ils tirent de l’angoisse des mortels.
 
@@ -43,7 +43,7 @@ Les kytons ont pleinement accepté leurs chaînes et, cherchant à assouvir leur
 Les kytons ressentent un tel besoin de emplacer des parties d’eux-mêmes par celles de mortels plus forts qu’ils courent toujours le risque de s’attaquer à des créatures trop puissantes pour qu’ils arrivent à les tuer. C’est pour cela qu’ils se montrent pragmatiques et sans pitié en combat, étudiant toutes les issues potentielles d’une situation avant de passer à l’action. Ils savent que la force se trouve dans le nombre et agissent souvent en groupe pour attaquer ou piéger les mortels, traînant ces pauvres âmes jusqu’au plan de l’Ombre où ils les transforment en nouveaux kytons ou se partagent leur âme et leur corps afin de
 se le greffer et de s’en repaître.
 
-Les kytons du *Bestiaire Pathfinder JdR* sont d’un type spécifique (les autres kytons les appellent les « évangélistes ») : ils ont toutes les [caractéristiques](./caractéristique.md) listées dans le [sous-type kyton](./sous-type kyton.md) (*cf. p. 302*). Les kytons présentés ici ne sont qu’un échantillon des autres types de kytons connus. Il en existe bien plus sur le plan de l’Ombre.
+Les kytons du *Bestiaire Pathfinder JdR* sont d’un type spécifique (les autres kytons les appellent les « évangélistes ») : ils ont toutes les [[caractéristique|caractéristiques]] listées dans le [[sous-type kyton]] (*cf. p. 302*). Les kytons présentés ici ne sont qu’un échantillon des autres types de kytons connus. Il en existe bien plus sur le plan de l’Ombre.
 
 ### Kytons démagogues
 Les puissants dirigeants kytons, que l’on appelle les **démagogues**, sont dotés d’une force que les mortels peuvent à peine concevoir. Ils appartiennent à une structure similaire à celle des archidiables. Les kytons inférieurs voient ces seigneurs comme d’horribles souverains de leur race et, bien qu’il y ait sur le plan de l’Ombre de nombreuses zones isolées que les démagogues ne contrôlent pas, les kytons qui passent sur le territoire d’un démagogue savent qu’il doivent présenter leurs respects à ces seigneurs de la douleur.

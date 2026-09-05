@@ -10,9 +10,9 @@ Categories:
 
 {s:racial|Elfe|elfes|Illustrations/PNJ/Elfe.jpg}<div class="BD">
 {s:BDTitre|Gants elfiques|{s:MR}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 8 ; **Emplacement** [mains](./Objets merveilleux portés aux mains.md) ; **Prix** 7 500 po ; **Poids** —
+**Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 7 500 po ; **Poids** —
 (((Description)))
-Ces gants en cuir gris donnent un [bonus](./bonus.md) de compétence de +5 aux tests d’[Art de la magie](./Art de la magie.md) et de [Concentration](./concentration.md) pour lancer un sort [sur la défensive](./Lancer des sorts.md#INCANTATIONSURLADEFENSIVE). Il faut porter les deux gants pour que la magie fasse effet.
+Ces gants en cuir gris donnent un [[bonus]] de compétence de +5 aux tests d’[[Art de la magie]] et de [[Concentration]] pour lancer un sort [[Lancer des sorts#INCANTATIONSURLADEFENSIVE|sur la défensive]]. Il faut porter les deux gants pour que la magie fasse effet.
 (((Création)))
-**Conditions** [Magie de guerre](./Magie de guerre.md), [Création d’objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être un [elfe](./Elfe.md) ; **Coût** 3 500 po
+**Conditions** [[Magie de guerre]], [[Création dobjets merveilleux|Création d’objets merveilleux]], le créateur doit être un [[elfe]] ; **Coût** 3 500 po
 </div>

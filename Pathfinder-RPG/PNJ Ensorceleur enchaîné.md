@@ -13,11 +13,11 @@ Categories:
 <div class="BD">
 {s:BDtitre|Ensorceleur enchaîné|FP 5}
 {s:pucem|Humanoïde|Aquatique|Tropical}
-{s:BDtexte|*Source : [Guide des chaînes p.44](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide des chaînes p.44]]*}
 {s:BDtexte|**PX** 1 600}
-{s:BDtexte|[Humain](./Humain.md) [ensorceleur](./Ensorceleur.md) 6}
-{s:BDtexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md)) de taille M, CN}
-{s:BDtexte|**Init** +2 ; [Perception](./Perception.md) +1}
+{s:BDtexte|[[Humain]] [[ensorceleur]] 6}
+{s:BDtexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]]) de taille M, CN}
+{s:BDtexte|**Init** +2 ; [[Perception]] +1}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 13, contact 12, pris au dépourvu 11 (armure +1, Dex +2)}
 {s:BDtexte|**pv** 35 (6d6+12)}
@@ -26,25 +26,25 @@ Categories:
 {s:BDtexte|**VD** 9 m, nage 9 m}
 {s:BDtexte|**Corps à corps** dague de maître, +3 (1d4-1/19-20)}
 {s:BDtexte|**À distance** arbalète légère de maître, +6 (1d8/19-20)}
-{s:BDtexte|**Pouvoirs magiques de lignage** ([NLS](./NLS.md) 6 ; [concentration](./concentration.md) +10)}
+{s:BDtexte|**Pouvoirs magiques de lignage** ([[NLS]] 6 ; [[concentration]] +10)}
 {s:BDsorts|7/jour — toucher déshydratant}
-{s:BDtexte|**Sorts d’ensorceleur connus** ([NLS](./NLS.md) 6 ; [concentration](./concentration.md) +10)}
-{s:BDsorts|3e (4/jour) — *[boule de feu](./Boule de feu.md)* (DD 19)}
-{s:BDsorts|2e (6/jour) — *[bourrasque](./Bourrasque.md)* (DD 18), *[localisation d’objet](./Localisation dobjet.md)*, *[vague](./Vague.md)*}
-{s:BDsorts|1er (7/jour) — *[armure de mage](./Armure de mage.md)*, *[mains brûlantes](./Mains brûlantes.md)* (DD 17), *[modification des vents](./Modification des vents.md)*, *[poussée hydraulique](./Poussée hydraulique.md)*, *[projectile magique](./Projectile magique.md)*}
-{s:BDsorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[lumière](./Lumière.md)*, *[message](./Message.md)*, *[rayon de givre](./Rayon de givre.md)*, *[signature magique](./Signature magique.md)*}
-{s:BDsorts|**Lignage** [aquatique](./lignage aquatique.md)}
+{s:BDtexte|**Sorts d’ensorceleur connus** ([[NLS]] 6 ; [[concentration]] +10)}
+{s:BDsorts|3e (4/jour) — *[[boule de feu]]* (DD 19)}
+{s:BDsorts|2e (6/jour) — *[[bourrasque]]* (DD 18), *[[localisation dobjet|localisation d’objet]]*, *[[vague]]*}
+{s:BDsorts|1er (7/jour) — *[[armure de mage]]*, *[[mains brûlantes]]* (DD 17), *[[modification des vents]]*, *[[poussée hydraulique]]*, *[[projectile magique]]*}
+{s:BDsorts|0 (à volonté) — *[[détection de la magie]]*, *[[lecture de la magie]]*, *[[lumières dansantes]]*, *[[lumière]]*, *[[message]]*, *[[rayon de givre]]*, *[[signature magique]]*}
+{s:BDsorts|**Lignage** [[Lignage aquatique|aquatique]]}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 8, **Dex** 14, **Con** 12, **Int** 10, **Sag** 13, **Cha** 18}
 {s:BDtexte|**BBA** +3, **BMO** +2, **DMD** 14}
-{s:BDtexte|**Dons** [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [École renforcée](./École renforcée.md) (évocation), [École supérieure](./École supérieure.md) (évocation), [Frappe magique](./Frappe magique.md), [Magie de guerre](./Magie de guerre.md)}
-{s:BDtexte|**Compétences** [Art de la magie](./Art de la magie.md) +9, [Connaissances](./Connaissances.md) (mystères) +6, [Natation](./Natation.md) +13, [Profession](./Profession.md) (marin) +6, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +11}
+{s:BDtexte|**Dons** [[Dispense de composantes matérielles]], [[École renforcée]] (évocation), [[École supérieure]] (évocation), [[Frappe magique]], [[Magie de guerre]]}
+{s:BDtexte|**Compétences** [[Art de la magie]] +9, [[Connaissances]] (mystères) +6, [[Natation]] +13, [[Profession]] (marin) +6, [[Utilisation dObjets magiques|Utilisation d’objets magiques]] +11}
 {s:BDtexte|**Langues** commun}
-{s:BDtexte|**Particularités** [adaptation aquatique](./lignage aquatique.md), [arcanes de lignage](./Ensorceleur.md#LIGNAGE)}
+{s:BDtexte|**Particularités** [[Lignage aquatique|adaptation aquatique]], [[Ensorceleur#LIGNAGE|arcanes de lignage]]}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** océans ou littoraux}
 {s:BDtexte|**Organisation sociale** solitaire, couple ou unité (3-7)}
-{s:BDtexte|**Trésor** équipement de PNJ ([arbalète légère](./Arbalète légère (arme).md) [de maître](./arme de maître.md) avec 20 [carreaux](./Carreaux darbalète (arme).md), [dague](./dague (arme).md) [de maître](./arme de maître.md), *[bracelets d’armure +1](./Bracelets darmure.md)*, *[cape de résistance +1](./Cape de résistance.md)*, *[potions](./Potions magiques.md) de [soins légers](./Soins légers.md)* <nowiki>[</nowiki>2<nowiki>]</nowiki>, *[potion](./Potions magiques.md) d’[invisibilité](./Invisibilité.md)*, *[parchemin](./Parchemins magiques.md) de [détection faussée](./Détection faussée.md)*, *[parchemin](./Parchemins magiques.md) d’[antidétection](./Antidétection.md)*, *[parchemins](./Parchemins magiques.md) de [bouclier](./Bouclier.md)* <nowiki>[</nowiki>2<nowiki>]</nowiki>, *[baguette](./Baguettes magiques.md) de [toile d’araignée](./Toile daraignée.md)* <nowiki>[</nowiki>10 charges<nowiki>]</nowiki>, autres trésors)}
+{s:BDtexte|**Trésor** équipement de PNJ ([[arbalète légère (arme)|arbalète légère]] [[arme de maître|de maître]] avec 20 [[carreaux darbalète (arme)|carreaux]], [[dague (arme)|dague]] [[arme de maître|de maître]], *[[Bracelets darmure|bracelets d’armure +1]]*, *[[Cape de résistance|cape de résistance +1]]*, *[[Potions magiques|potions]] de [[soins légers]]* <nowiki>[[</nowiki>2<nowiki>]]</nowiki>, *[[Potions magiques|potion]] d’[[invisibilité]]*, *[[Parchemins magiques|parchemin]] de [[détection faussée]]*, *[[Parchemins magiques|parchemin]] d’[[antidétection]]*, *[[Parchemins magiques|parchemins]] de [[bouclier]]* <nowiki>[[</nowiki>2<nowiki>]]</nowiki>, *[[Baguettes magiques|baguette]] de [[toile daraignée|toile d’araignée]]* <nowiki>[[</nowiki>10 charges<nowiki>]]</nowiki>, autres trésors)}
 </div>
 </td>
 <td>

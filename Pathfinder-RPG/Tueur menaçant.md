@@ -10,8 +10,8 @@ Categories:
 
 {s:uc}*Le personnage est encore plus dangereux quand il se bat de concert avec ses alliés contre un seul adversaire. *
 
-**Condition.** [Tueur](./Inquisiteur.md#TUEUR)
+**Condition.** [[Inquisiteur#TUEUR|Tueur]]
 
-**Avantage.** Le personnage peut utiliser le pouvoir de classe [tueur](./Inquisiteur.md#TUEUR) pour imprégner son arme de la propriété *[menaçante](./menaçante (propriété).md)* au lieu de tueur. Il peut passer d’une propriété à l’autre par une [action rapide](./Action rapide.md). En dehors de cela, ce don fonctionne comme le pouvoir de classe tueur.
+**Avantage.** Le personnage peut utiliser le pouvoir de classe [[Inquisiteur#TUEUR|tueur]] pour imprégner son arme de la propriété *[[menaçante (propriété)|menaçante]]* au lieu de tueur. Il peut passer d’une propriété à l’autre par une [[action rapide]]. En dehors de cela, ce don fonctionne comme le pouvoir de classe tueur.
 
-**Spécial. ** Si le personnage possède le don [Double tueur](./Double tueur.md), il peut imprégner chacune de ses armes d’une propriété ou l’autre mais il ne peut pas mettre les deux sur une même arme.
+**Spécial. ** Si le personnage possède le don [[Double tueur]], il peut imprégner chacune de ses armes d’une propriété ou l’autre mais il ne peut pas mettre les deux sur une même arme.

@@ -5,12 +5,12 @@ LastModified: 2012-09-29 15:01
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [barde](./Barde.md) 5, [conjurateur](./Conjurateur.md) 6, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 5, [inquisiteur](./Inquisiteur.md) 6, [prêtre](./Prêtre.md) 5  
+**École** [[Abjuration]] ; **Niveau** [[barde]] 5, [[conjurateur]] 6, [[ensorceleur]]/[[magicien]] 5, [[inquisiteur]] 6, [[prêtre]] 5  
 
 **Durée** 1 minute par niveau  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])  
 
-**Restriction de cible** *[choisi](./Choisi.md)*
+**Restriction de cible** *[[choisi]]*
 
-La cible d’un sort incluant cet effet bénéficie d’une [résistance à la magie](./résistance à la magie.md) égale à 12 + le niveau du lanceur.
+La cible d’un sort incluant cet effet bénéficie d’une [[résistance à la magie]] égale à 12 + le niveau du lanceur.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Véhicules aquatiques (véhicules)#
 ---
 
->>> [Véhicules aquatiques (véhicules)#](./Véhicules aquatiques (véhicules).md#)
+>>> [[Véhicules aquatiques (véhicules)#]]

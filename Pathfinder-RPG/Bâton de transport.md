@@ -8,14 +8,14 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bâton de transport|}
-**Aura** Multiples puissantes ; **NLS** 17 ; **Emplacement** aucun ([bâton](./Bâtons magiques.md)) ; **Prix** 206 900 po ; **Poids** 2,5 kg
+**Aura** Multiples puissantes ; **NLS** 17 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 206 900 po ; **Poids** 2,5 kg
 (((Description)))
 L’utilisateur de ce puissant bâton peut faire appel aux sorts suivants :
-• *[passe-muraille](./Passe-muraille.md)* (1 charge)
-• *[porte de phase](./Porte de phase.md)* (2 charges)
-• *[porte dimensionnelle](./Porte dimensionnelle.md)* (1 charge)
-• *[projection astrale](./Projection astrale.md)* (2 charges)
-• *[téléportation suprême](./Téléportation suprême.md)* (2 charges)
+• *[[passe-muraille]]* (1 charge)
+• *[[porte de phase]]* (2 charges)
+• *[[porte dimensionnelle]]* (1 charge)
+• *[[projection astrale]]* (2 charges)
+• *[[téléportation suprême]]* (2 charges)
 (((Création)))
-**Conditions** [Création de bâtons magiques](./Création de bâtons magiques.md), *[passe-muraille](./Passe-muraille.md)*, *[porte de phase](./Porte de phase.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*, *[projection astrale](./Projection astrale.md)*, *[téléportation suprême](./Téléportation suprême.md)* ; **Coût** 115 950 po
+**Conditions** [[Création de bâtons magiques]], *[[passe-muraille]]*, *[[porte de phase]]*, *[[porte dimensionnelle]]*, *[[projection astrale]]*, *[[téléportation suprême]]* ; **Coût** 115 950 po
 </div>

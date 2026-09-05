@@ -7,25 +7,25 @@ Categories:
 ---
 
 {s:DieuTech|Zyphus|Zyphus,  
-Le Sombre Faucheur|%2fPCUP%2fReligion-PNG%2fZyphus.png|[Autres divinités](./Divinités.md#AUTRES)
+Le Sombre Faucheur|%2fPCUP%2fReligion-PNG%2fZyphus.png|[[Divinités#AUTRES|Autres divinités]]
 |Neutre Mauvais|Cimetières, mort accidentelle et tragédie
 |Victimes amères d'une tragédie ou d'une perte|Vautour
-|[Pic de guerre lourd](./pic de guerre lourd (arme).md)
-|[Destruction](./Domaine de la Destruction.md), [Flore](./Domaine de la Flore.md), [Guerre](./Domaine de la Guerre.md), [Mal](./Domaine du Mal.md), [Mort](./Domaine de la Mort.md)
-|[Catastrophe](./Domaine de la Destruction.md), [Daémons](./Domaine du Mal.md), [Épines](./Domaine de la Flore.md), [Meurtre](./Domaine de la Mort.md), [Morts-vivants](./Domaine de la Mort.md), [Pourriture](./Domaine de la Flore.md), [Sang](./Domaine de la Guerre.md)
-|—}{s:cs}{s:ISG}Zyphus est le dieu malin de la mort accidentelle. Ennemi acharné de la déesse [Pharasma](./Pharasma (technique).md), il est vénéré par de petits cultes dans tout Golarion. Ces groupes fomentent des tragédies et provoquent des accidents dans l'espoir de renforcer le pouvoir de leur dieu. Son symbole impie est un pic de guerre fabriqué à partir d'un crâne, d'une côte et d'un fémur humains.
+|[[Pic de guerre lourd (arme)|Pic de guerre lourd]]
+|[[Domaine de la Destruction|Destruction]], [[Domaine de la Flore|Flore]], [[Domaine de la Guerre|Guerre]], [[Domaine du Mal|Mal]], [[Domaine de la Mort|Mort]]
+|[[Domaine de la Destruction|Catastrophe]], [[Domaine du Mal|Daémons]], [[Domaine de la Flore|Épines]], [[Domaine de la Mort|Meurtre]], [[Domaine de la Mort|Morts-vivants]], [[Domaine de la Flore|Pourriture]], [[Domaine de la Guerre|Sang]]
+|—}{s:cs}{s:ISG}Zyphus est le dieu malin de la mort accidentelle. Ennemi acharné de la déesse [[Pharasma (technique)|Pharasma]], il est vénéré par de petits cultes dans tout Golarion. Ces groupes fomentent des tragédies et provoquent des accidents dans l'espoir de renforcer le pouvoir de leur dieu. Son symbole impie est un pic de guerre fabriqué à partir d'un crâne, d'une côte et d'un fémur humains.
 
 ### Règles uniques aux suivants
-**Lancement de sorts ([prêtre](./Prêtre.md)/[prêtre combattant](./Prêtre combattant.md)).**
-• *[Boulette](./Boulette.md)* peut être préparé comme un sort de 1er niveau.
-• *[Hébétement](./Hébétement.md)* peut être préparé comme une oraison.
-• *[Main spectrale](./Main spectrale.md)* peut être préparé comme un sort de 2e niveau.
-• *[Manipulation à distance](./Manipulation à distance.md)* peut être préparé comme une oraison.
+**Lancement de sorts ([[prêtre]]/[[prêtre combattant]]).**
+• *[[Boulette]]* peut être préparé comme un sort de 1er niveau.
+• *[[Hébétement]]* peut être préparé comme une oraison.
+• *[[Main spectrale]]* peut être préparé comme un sort de 2e niveau.
+• *[[Manipulation à distance]]* peut être préparé comme une oraison.
 
 **Convocations étendues.**
-• *[Convocation de monstres III](./Convocation de monstres III.md).* [Cacodaémon](./Cacodaémon.md)
-• *[Convocation de monstres IV](./Convocation de monstres IV.md).* [Lacridaémon](./Lacridaémon.md)
-• *[Convocation de monstres V](./Convocation de monstres V.md).* [Ceustodaémon](./Ceustodaémon.md)
+• *[[Convocation de monstres III]].* [[Cacodaémon]]
+• *[[Convocation de monstres IV]].* [[Lacridaémon]]
+• *[[Convocation de monstres V]].* [[Ceustodaémon]]
 
 ### Options de personnage thématiques
 *À VENIR*

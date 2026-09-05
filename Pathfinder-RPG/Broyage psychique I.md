@@ -8,60 +8,60 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Psy](./Psychiste.md) 5
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [G](./composantes.md)
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)
+{s:AO}** École **[[Nécromancie]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 5
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|G]]
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)
 **Cible** 1 créature
 **Durée** instantanée
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) et [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ;**Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] et [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ;**Résistance à la magie** oui
 ---
-Le personnage recourt à sa puissance psychique pour envahir l’esprit de sa cible et le déchirer, causant d’importants dégâts internes à son corps et son esprit. Si la cible réussit le premier jet de [Volonté](./Volonté.md), elle est [fiévreuse](./États préjudiciables.md#Fiévreux) pendant 1 round. Si elle le rate, elle doit faire un jet de [Vigueur](./Vigueur.md) (avec un bonus de circonstances de +4 si elle possède encore plus de la moitié de ses points de vie). Si elle rate aussi ce jet, elle tombe à –1 point de vie et agonise. Si elle le réussit, elle subit 3d6 points de dégâts +1 par niveau de lanceur de sorts mais ne peut pas tomber à moins de –1 point de vie. De plus, elle est [fiévreuse](./États préjudiciables.md#Fiévreux) pendant 1 round. Cette attaque n’a aucun effet sur les créatures dépourvues de valeur d’[Intelligence](./Intelligence.md).
+Le personnage recourt à sa puissance psychique pour envahir l’esprit de sa cible et le déchirer, causant d’importants dégâts internes à son corps et son esprit. Si la cible réussit le premier jet de [[Volonté]], elle est [[États préjudiciables#Fiévreux|fiévreuse]] pendant 1 round. Si elle le rate, elle doit faire un jet de [[Vigueur]] (avec un bonus de circonstances de +4 si elle possède encore plus de la moitié de ses points de vie). Si elle rate aussi ce jet, elle tombe à –1 point de vie et agonise. Si elle le réussit, elle subit 3d6 points de dégâts +1 par niveau de lanceur de sorts mais ne peut pas tomber à moins de –1 point de vie. De plus, elle est [[États préjudiciables#Fiévreux|fiévreuse]] pendant 1 round. Cette attaque n’a aucun effet sur les créatures dépourvues de valeur d’[[Intelligence]].
 
 
 
 ((({s:sortssimilaires|broyage psychique I}
-## [Broyage psychique II](./Broyage psychique II.md)
-{s:AO}** École **[Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Psy](./Psychiste.md) 6
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [G](./composantes.md)
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)
+## [[Broyage psychique II]]
+{s:AO}** École **[[Nécromancie]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 6
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|G]]
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)
 **Cible** 1 créature
 **Durée** instantanée
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) et [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ;**Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] et [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ;**Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[broyage psychique I](./Broyage psychique I.md)* mais si la cible réussit son jet de [Vigueur](./Vigueur.md), elle subit 5d6 points de dégâts +1 par niveau de lanceur de sorts. De plus, elle reçoit son bonus de circonstances de +4 au jet de [Vigueur](./Vigueur.md) uniquement si elle possède la totalité de ses points de vie, s’il lui en reste plus de la moitié le bonus est de +2 seulement. On peut lancer ce sort dans une version réduite.
+Ce sort fonctionne comme *[[broyage psychique I]]* mais si la cible réussit son jet de [[Vigueur]], elle subit 5d6 points de dégâts +1 par niveau de lanceur de sorts. De plus, elle reçoit son bonus de circonstances de +4 au jet de [[Vigueur]] uniquement si elle possède la totalité de ses points de vie, s’il lui en reste plus de la moitié le bonus est de +2 seulement. On peut lancer ce sort dans une version réduite.
 
-## [Broyage psychique III](./Broyage psychique III.md)
-{s:AO}** École **[Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Psy](./Psychiste.md) 7
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [G](./composantes.md)
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)
+## [[Broyage psychique III]]
+{s:AO}** École **[[Nécromancie]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 7
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|G]]
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)
 **Cible** 1 créature
 **Durée** instantanée
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) et [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ;**Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] et [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ;**Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[broyage psychique I](./Broyage psychique I.md)* mais si la cible réussit son jet de [Vigueur](./Vigueur.md), elle subit 7d6 points de dégâts +1 par niveau de lanceur de sorts et 1 point de dégâts par niveau de lanceur de sorts si elle réussit son jet de [Volonté](./Volonté.md). De plus, elle reçoit un bonus de circonstances de +2 au jet de [Vigueur](./Vigueur.md) uniquement si elle possède la totalité de ses points de vie, si elle a subi le moindre dégât, elle n’a pas de bonus. On peut lancer ce sort dans une version réduite.
+Ce sort fonctionne comme *[[broyage psychique I]]* mais si la cible réussit son jet de [[Vigueur]], elle subit 7d6 points de dégâts +1 par niveau de lanceur de sorts et 1 point de dégâts par niveau de lanceur de sorts si elle réussit son jet de [[Volonté]]. De plus, elle reçoit un bonus de circonstances de +2 au jet de [[Vigueur]] uniquement si elle possède la totalité de ses points de vie, si elle a subi le moindre dégât, elle n’a pas de bonus. On peut lancer ce sort dans une version réduite.
 
-## [Broyage psychique IV](./Broyage psychique IV.md)
-{s:AO}** École **[Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Psy](./Psychiste.md) 8
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [G](./composantes.md)
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)
+## [[Broyage psychique IV]]
+{s:AO}** École **[[Nécromancie]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 8
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|G]]
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)
 **Cible** 1 créature
 **Durée** instantanée
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) et [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ;**Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] et [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ;**Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[broyage psychique I](./Broyage psychique I.md)* mais la cible subit 9d6 points de dégâts +1 par niveau de lanceur de sorts si elle réussit son jet de [Volonté](./Volonté.md) ou de [Vigueur](./Vigueur.md). Elle ne reçoit aucun bonus lié à ses points de vie. S’il lui reste moins de la moitié de ses points de vie, elle n’a pas droit au moindre jet de [Vigueur](./Vigueur.md) pour résister au sort et agit comme si elle avait raté ce jet. On peut lancer ce sort dans une version réduite.
+Ce sort fonctionne comme *[[broyage psychique I]]* mais la cible subit 9d6 points de dégâts +1 par niveau de lanceur de sorts si elle réussit son jet de [[Volonté]] ou de [[Vigueur]]. Elle ne reçoit aucun bonus lié à ses points de vie. S’il lui reste moins de la moitié de ses points de vie, elle n’a pas droit au moindre jet de [[Vigueur]] pour résister au sort et agit comme si elle avait raté ce jet. On peut lancer ce sort dans une version réduite.
 
-## [Broyage psychique V](./Broyage psychique V.md)
-{s:AO}** École **[Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Psy](./Psychiste.md) 9
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [G](./composantes.md)
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)
+## [[Broyage psychique V]]
+{s:AO}** École **[[Nécromancie]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 9
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|G]]
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)
 **Cible** 1 créature
 **Durée** instantanée
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) et [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ;**Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] et [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ;**Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[broyage psychique IV](./Broyage psychique IV.md)* mais si la cible réussit son jet de [Vigueur](./Vigueur.md) ou de [Volonté](./Volonté.md), elle subit 11d6 points de dégâts +1 par niveau de lanceur de sorts. S’il lui reste moins de la moitié de ses points de vie, elle subit un malus de –2 au jet de [Volonté](./Volonté.md) pour résister au sort. On peut lancer ce sort dans une version réduite.
+Ce sort fonctionne comme *[[broyage psychique IV]]* mais si la cible réussit son jet de [[Vigueur]] ou de [[Volonté]], elle subit 11d6 points de dégâts +1 par niveau de lanceur de sorts. S’il lui reste moins de la moitié de ses points de vie, elle subit un malus de –2 au jet de [[Volonté]] pour résister au sort. On peut lancer ce sort dans une version réduite.
 )))

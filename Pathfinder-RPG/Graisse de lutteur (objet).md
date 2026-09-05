@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 5 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Quand le personnage l'applique sur son corps, cette huile pâle faite de graisse animale le rend plus difficile à saisir. Lorsqu'il est recouvert de cette graisse, il gagne un bonus de +4 au [DMD](./DMD.md) contre les manœuvres offensives de [lutte](./lutte.md). L'application de la graisse prend 1 minute et, une fois appliquée, ses effets durent 10 minutes. Le personnage ne peut pas porter d'armure s'il veut profiter des avantages de la graisse de lutteur. Elle est généralement vendue dans de petits pots en argile contenant cinq applications.
+Quand le personnage l'applique sur son corps, cette huile pâle faite de graisse animale le rend plus difficile à saisir. Lorsqu'il est recouvert de cette graisse, il gagne un bonus de +4 au [[DMD]] contre les manœuvres offensives de [[lutte]]. L'application de la graisse prend 1 minute et, une fois appliquée, ses effets durent 10 minutes. Le personnage ne peut pas porter d'armure s'il veut profiter des avantages de la graisse de lutteur. Elle est généralement vendue dans de petits pots en argile contenant cinq applications.

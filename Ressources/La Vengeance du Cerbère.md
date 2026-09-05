@@ -26,8 +26,8 @@ Il y a trois blocs de statistiques : le cavalier (le frère) accompagné d'un gr
 {s:BDTitre|Chien de chasse (hound)|FP 9}
 {s:pucem|Animal|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.42* modifié, compagnon animal de chasseur}
-{s:BDTexte|[Animal](./../Pathfinder-RPG/type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +4 ; **Sens** [odorat](./../Pathfinder-RPG/odorat.md), [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +7}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 14, pris au dépourvu 22 (Dex +4, naturelle +8, +4 armure)}
 {s:BDTexte|**pv** 85}
@@ -39,8 +39,8 @@ Il y a trois blocs de statistiques : le cavalier (le frère) accompagné d'un gr
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 18, **Con** 19, **Int** 2, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +6, **BMO** +12, **DMD** 28 (32 contre le croc-en-jambe et overrun)}
-{s:BDTexte|**Dons** [Talent](./../Pathfinder-RPG/Talent.md) ([Perception](./../Pathfinder-RPG/Perception.md)), Attaque en puissance (-2/+4), Tenaille supérieure, Volonté de fer, Attaque naturelle renforcée (morsure), Endurance, Arme de prédilection (morsure), Evasion, Combat monté, Odorat.}
-{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +8 (+16 pour sauter), [Perception](./../Pathfinder-RPG/Perception.md) +7, [Survie](./../Pathfinder-RPG/Survie.md) +1 (+5 pour pister à l'odorat), [Intimidation](./../Pathfinder-RPG/Intimidation.md) +0, [Discretion](./Discretion.md) +6 ; **Modificateurs raciaux** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +4 pour sauter, [Survie](./../Pathfinder-RPG/Survie.md) +4 pour pister à l'odorat; Attaquer, combat monté, Venir, Surveiller, Coucher, Défendre, Tirer}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]]), Attaque en puissance (-2/+4), Tenaille supérieure, Volonté de fer, Attaque naturelle renforcée (morsure), Endurance, Arme de prédilection (morsure), Evasion, Combat monté, Odorat.}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8 (+16 pour sauter), [[Perception]] +7, [[Survie]] +1 (+5 pour pister à l'odorat), [[Intimidation]] +0, [[Discretion]] +6 ; **Modificateurs raciaux** [[Acrobaties]] +4 pour sauter, [[Survie]] +4 pour pister à l'odorat; Attaquer, combat monté, Venir, Surveiller, Coucher, Défendre, Tirer}
 {s:BDSousTitre|Spécial : Lien du compagnon animal, Bousculade +4, multiattaques, il ignore les terrains difficiles sur des sols avec des zones encombrées (ronces, charbon ardents, ect.. sauf les terrains magiques et enchantés) }
 {s:BDTexte|**Trésor** Chemise de mailles, Amulet of mighty fists}
 </div>

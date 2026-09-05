@@ -8,7 +8,7 @@ Categories:
 
 {s:MenuCompétences}
 
-**Caractéristique associée** : [Dextérité](./Dextérité.md)
+**Caractéristique associée** : [[Dextérité]]
 
 **Formation nécessaire** : non
 
@@ -56,31 +56,31 @@ Les actions d’équitation classiques n’exigent pas de test de compétence. L
 |}
 </center>
 
-**Guider sa monture avec les genoux.** Le personnage sait guider sa monture à l’aide de ses seuls genoux, ce qui lui laisse les mains libres en cas de combat. Le test d’Équitation s’effectue au début de chaque tour de jeu. En cas d’échec, l’aventurier ne peut se servir que d’une main au cours du [round](./round.md), l’autre étant nécessaire pour contrôler sa monture. Utiliser cette option ne nécessite pas d’action.
+**Guider sa monture avec les genoux.** Le personnage sait guider sa monture à l’aide de ses seuls genoux, ce qui lui laisse les mains libres en cas de combat. Le test d’Équitation s’effectue au début de chaque tour de jeu. En cas d’échec, l’aventurier ne peut se servir que d’une main au cours du [[round]], l’autre étant nécessaire pour contrôler sa monture. Utiliser cette option ne nécessite pas d’action.
 
 **Rester en selle.** Quand le personnage est blessé ou quand sa monture se cabre ou s’affole, il peut tenter de réagir instantanément et éviter de tomber. Utiliser cette option ne nécessite pas d’action.
 
-**Combattre sur un destrier.** Le cavalier peut faire attaquer sa monture et, en plus, placer sa ou ses attaques normalement. Utiliser cette option est une [action libre](./Action libre.md).
+**Combattre sur un destrier.** Le cavalier peut faire attaquer sa monture et, en plus, placer sa ou ses attaques normalement. Utiliser cette option est une [[action libre]].
 
-**Utiliser sa monture pour s’abriter.** Le personnage peut sauter de selle et se cacher derrière sa monture, qui lui procure alors un abri. Il ne peut ni attaquer ni lancer de sorts lorsqu’il est dans cette position. S’il rate son test de compétence, il n’est pas considéré comme étant à l’abri. Utiliser cette option est une [action immédiate](./Action immédiate.md), mais une [action de mouvement](./Action de mouvement.md) est nécessaire pour se remettre en selle (ce qui ne requiert aucun test).
+**Utiliser sa monture pour s’abriter.** Le personnage peut sauter de selle et se cacher derrière sa monture, qui lui procure alors un abri. Il ne peut ni attaquer ni lancer de sorts lorsqu’il est dans cette position. S’il rate son test de compétence, il n’est pas considéré comme étant à l’abri. Utiliser cette option est une [[action immédiate]], mais une [[action de mouvement]] est nécessaire pour se remettre en selle (ce qui ne requiert aucun test).
 
 **Amortir sa chute.** Le personnage a appris à amortir sa chute si sa monture tombe ou se fait tuer sous lui. En cas de test de compétence raté, il subit 1d6 points de dégâts de chute et se retrouve à terre. Utiliser cette option ne nécessite pas d’action.
 
-**Sauter un obstacle.** Le personnage peut encourager sa monture à sauter un obstacle au cours de son déplacement. Si le test d'Équitation est réussi, faites un test en utilisant votre modificateur d'Équitation ou le modificateur de saut de la monture (le moins élevé des deux) pour déterminer la distance franchie par la créature. Si le personnage rate son test d’Équitation, il tombe lorsque sa monture quitte le sol et subit au moins 1d6 points de dégâts de chute. Utiliser cette option n’est pas une action mais fait partie d’une [action de mouvement](./Action de mouvement.md).
+**Sauter un obstacle.** Le personnage peut encourager sa monture à sauter un obstacle au cours de son déplacement. Si le test d'Équitation est réussi, faites un test en utilisant votre modificateur d'Équitation ou le modificateur de saut de la monture (le moins élevé des deux) pour déterminer la distance franchie par la créature. Si le personnage rate son test d’Équitation, il tombe lorsque sa monture quitte le sol et subit au moins 1d6 points de dégâts de chute. Utiliser cette option n’est pas une action mais fait partie d’une [[action de mouvement]].
 
-**Éperonner sa monture.** Le personnage peut inciter sa monture à aller plus vite en utilisant une [action de mouvement](./Action de mouvement.md). Un test d’Équitation réussi augmente la vitesse de la monture de 3 m pendant 1 round, mais celle-ci subit 1d3 point de dégâts. On peut utiliser cette option plusieurs rounds de suite, mais la monture devient [fatiguée](./Fatigué.md) après un nombre de rounds égal à sa valeur de [Constitution](./Constitution.md). Il n’est pas possible d’utiliser cette option lorsque la monture est [fatiguée](./Fatigué.md).
+**Éperonner sa monture.** Le personnage peut inciter sa monture à aller plus vite en utilisant une [[action de mouvement]]. Un test d’Équitation réussi augmente la vitesse de la monture de 3 m pendant 1 round, mais celle-ci subit 1d3 point de dégâts. On peut utiliser cette option plusieurs rounds de suite, mais la monture devient [[fatigué|fatiguée]] après un nombre de rounds égal à sa valeur de [[Constitution]]. Il n’est pas possible d’utiliser cette option lorsque la monture est [[fatigué|fatiguée]].
 
-**Contrôler sa monture au combat.** Lors d’une bataille, le personnage peut utiliser une [action de mouvement](./Action de mouvement.md) pour contrôler un poney, un cheval léger, un cheval lourd ou une autre monture qui n’est pas entraînée au combat. En cas d’échec au test de compétence, il ne peut rien faire d’autre de tout le round. Aucun test n’est nécessaire pour les chevaux ou poneys entraînés au combat.
+**Contrôler sa monture au combat.** Lors d’une bataille, le personnage peut utiliser une [[action de mouvement]] pour contrôler un poney, un cheval léger, un cheval lourd ou une autre monture qui n’est pas entraînée au combat. En cas d’échec au test de compétence, il ne peut rien faire d’autre de tout le round. Aucun test n’est nécessaire pour les chevaux ou poneys entraînés au combat.
 
-**Monter en selle ou descendre de selle rapidement.** Le personnage peut tenter de monter en selle ou de sauter au sol rapidement, pour autant que sa monture ne possède pas plus d’une [catégorie de taille](./catégorie de taille.md) de plus que lui. Si le personnage dispose encore d’une [action de mouvement](./Action de mouvement.md) pour ce round, un test de compétence réussi lui permet de réaliser ce mouvement par une [action libre](./Action libre.md). Si son test de compétence échoue, il utilise une [action de mouvement](./Action de mouvement.md) pour monter en selle ou descendre de selle. Il est impossible d’utiliser cette option si la monture possède plus d’une [catégorie de taille](./catégorie de taille.md) de plus que le personnage.
+**Monter en selle ou descendre de selle rapidement.** Le personnage peut tenter de monter en selle ou de sauter au sol rapidement, pour autant que sa monture ne possède pas plus d’une [[catégorie de taille]] de plus que lui. Si le personnage dispose encore d’une [[action de mouvement]] pour ce round, un test de compétence réussi lui permet de réaliser ce mouvement par une [[action libre]]. Si son test de compétence échoue, il utilise une [[action de mouvement]] pour monter en selle ou descendre de selle. Il est impossible d’utiliser cette option si la monture possède plus d’une [[catégorie de taille]] de plus que le personnage.
 
 ### Action
-**Variable.** Monter en selle ou descendre de selle est habituellement une [action de mouvement](./Action de mouvement.md). Les autres tests sont des actions de mouvement, des actions libres ou ne sont pas des actions, selon les cas.
+**Variable.** Monter en selle ou descendre de selle est habituellement une [[action de mouvement]]. Les autres tests sont des actions de mouvement, des actions libres ou ne sont pas des actions, selon les cas.
 
 ===Spécial=== Monter à cru (sans selle) entraîne un malus de -5 aux tests d’Équitation.
 
-Un personnage possédant le don [Fraternité animale](./Fraternité animale.md) obtient un bonus aux tests d’Équitation.
+Un personnage possédant le don [[Fraternité animale]] obtient un bonus aux tests d’Équitation.
 
-Si la monture du personnage est équipée d’une [selle de guerre](./Animaux, montures et leur équipement.md#Selle), il bénéficie d’un bonus de circonstances de +2 à tous les tests visant à déterminer s’il parvient à se maintenir en selle.
+Si la monture du personnage est équipée d’une [[Animaux, montures et leur équipement#Selle|selle de guerre]], il bénéficie d’un bonus de circonstances de +2 à tous les tests visant à déterminer s’il parvient à se maintenir en selle.
 
-Il est nécessaire de maîtriser la compétence Équitation pour pouvoir choisir les dons [Attaque au galop](./Attaque au galop.md), [Charge dévastatrice](./Charge dévastatrice.md), [Combat monté](./Combat monté.md), [Piétinement](./Piétinement.md) ou [Tir monté](./Tir monté.md).
+Il est nécessaire de maîtriser la compétence Équitation pour pouvoir choisir les dons [[Attaque au galop]], [[Charge dévastatrice]], [[Combat monté]], [[Piétinement]] ou [[Tir monté]].

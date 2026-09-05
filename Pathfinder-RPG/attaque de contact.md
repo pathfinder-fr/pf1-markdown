@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Valeurs de combat#ATTAQUESDECONTACT
 ---
 
->>> [Valeurs de combat#ATTAQUESDECONTACT](./Valeurs de combat.md#ATTAQUESDECONTACT)
+>>> [[Valeurs de combat#ATTAQUESDECONTACT]]

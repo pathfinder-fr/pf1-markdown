@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *La supériorité du personnage sur les entités élémentaires est pratiquement absolue.*
 
-**Condition.** [Canalisation sélective](./Canalisation sélective.md)
+**Condition.** [[Canalisation sélective]]
 
-**Avantage.** Lorsque le personnage utilise son aptitude de [canalisation d’énergie](./canalisation-d’énergie.md), les dégâts soignés ou infligés augmentent d’un montant égal à deux fois le nombre de cibles exclues de sa canalisation. Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour augmenter de la moitié de son grade le nombre de cibles exclues de sa canalisation.
+**Avantage.** Lorsque le personnage utilise son aptitude de [[canalisation d’énergie]], les dégâts soignés ou infligés augmentent d’un montant égal à deux fois le nombre de cibles exclues de sa canalisation. Il peut dépenser une utilisation de [[pouvoir mythique]] pour augmenter de la moitié de son grade le nombre de cibles exclues de sa canalisation.

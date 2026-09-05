@@ -9,42 +9,42 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Kénabres|}
-{s:BDTexte|*Source : [Aides de jeu AP13#CHUTEDEKENABRES|La Colère des Justes], p.349*}
-[Grande Ville](./../Pathfinder-RPG/Villes.md#Le_profil_d'une_communauté_1), LB
+{s:BDTexte|*Source : [[Aides de jeu AP13#CHUTEDEKENABRES|La Colère des Justes]], p.349*}
+[[Pathfinder-RPG.Villes#Le_profil_d'une_communauté_1|Grande Ville]], LB
 **Corruption** +0 ; **Criminalité** +1 ; **Economie** +3; **Loi** +4 ; **Folklore** +2 ; **Société** +3
 **Avantage de ville** :
-[Lieu Saint](./../Pathfinder-RPG/Villes.md#Les_avantages_de_la_ville_5),
-[Insulaire](./../Pathfinder-RPG/Villes.md#Les_avantages_de_la_ville_5),
-[Raciste (Tieffelins)](./../Pathfinder-RPG/Villes.md#Les_avantages_de_la_ville_5),
-[Emplacement stratégique](./../Pathfinder-RPG/Villes.md#Les_avantages_de_la_ville_5),
-[déchiré par la guerre](./../Pathfinder-RPG/Villes.md#Les_avantages_de_la_ville_5)
+[[Pathfinder-RPG.Villes#Les_avantages_de_la_ville_5|Lieu Saint]],
+[[Pathfinder-RPG.Villes#Les_avantages_de_la_ville_5|Insulaire]],
+[[Pathfinder-RPG.Villes#Les_avantages_de_la_ville_5|Raciste (Tieffelins)]],
+[[Pathfinder-RPG.Villes#Les_avantages_de_la_ville_5|Emplacement stratégique]],
+[[Pathfinder-RPG.Villes#Les_avantages_de_la_ville_5|déchiré par la guerre]]
 **Danger** +10
 (((Démographie)))
 **Gouvernement** : autocratie
 **Population** : 12330 (11714 humains, 370 halfelins, 123 demi-elfes, 123 autres)
 (((PNJ Importants)))
-**Prélat**, [Hulrun Shappok](./Kénabres-Hulrun-Shappok.md) : humain de grand age (m) inquisiteur de Iomédae 13, LN
-**Grand prêtre du Temple de Iomédae**, [Nestrin Alodae](./Kénabres-Nestrin-Alodae.md) : humain vénérable (m) prêtre de Iomédae 11, LB
-**Grand prêtre de la Cathédrale Saint Clydwell**, [Eterrius Sunnestier](./Kénabres-Eterrius-Sunnestier.md) : demi-elfe (m) prêtre de Iomédae 9, LB
-**Protecteur de la ville**, [Térendélev](./Kénabres-Térendélev.md) : dragon d'argent vénérable (f), LB
+**Prélat**, [[Kénabres-Hulrun Shappok|Hulrun Shappok]] : humain de grand age (m) inquisiteur de Iomédae 13, LN
+**Grand prêtre du Temple de Iomédae**, [[Kénabres-Nestrin Alodae|Nestrin Alodae]] : humain vénérable (m) prêtre de Iomédae 11, LB
+**Grand prêtre de la Cathédrale Saint Clydwell**, [[Kénabres-Eterrius Sunnestier|Eterrius Sunnestier]] : demi-elfe (m) prêtre de Iomédae 9, LB
+**Protecteur de la ville**, [[Kénabres-Térendélev|Térendélev]] : dragon d'argent vénérable (f), LB
 (((PNJ Secondaires)))
-[Hatherelm Arir](./Kénabres-Hatherelm-Arir.md), dramaturge de l'amphithéâtre d'Alodae : humain (m) noble 1 /barde 8, NB
-[Chun Dawei](./Kénabres-Chun-Dawei.md), capitaine des gardes du campement des croisés : humain (m) guerrier 7, LB
-[Kimroth Otai](./Kénabres-Kimroth-Otai.md), propriétaire du Coeur du Défenseur : humain agé (m) expert 2/guerrier 3, LB
-[Quednys Orlun](./Kénabres-Quednys-Orlun.md), propriétaire du Librairium de l'aile noire brisée : vieil humain (m) magicien 6, LB
-[Fenna](./Fenna.md), bibliothécaire du Librairium de l'aile noire brisée : humain (f) magicien 1, N
-[Caelda Halse](./Kénabres-Caelda-Halse.md), forgeron de la porte sud : aasimar (f) expert 3/guerrier 2, N
-[Crocis](./Kénabres-Crocis.md), jardinier du parc de Pierrevraie : demi-elfe (m) druide 5, N
-[Julanie Nalti](./Kénabres-Julanie-Nalti.md), responsable de la grue et des entrepôts : humain (f) expert 2/Guerrier 2, LN
-[Veserda la Chouette](./Kénabres-Veserda-la-Chouette.md), contact des adeptes de la flamme noire : humain (f) oracle 6 / adepte de la flamme noire 3, CM
-[Liotr Lamebuse](./Kénabres-Liotr-Lamebuse.md) humain (m), chef des chasseur de sorcières : inquisiteur de Iomédae 5, LN
-[Ciar Cobelen](./Kénabres-Ciar-Cobelen.md), commandant des Croisés de la Lumière éternelle : humain (m) paladin de Iomédae 10, LB
-[Miammir](./Kénabres-Miammir.md), savante des Croisés de l'Ordre de la lance enflammée : demi-elfe (f) magicien 7/paladin 3, LB
-[Ashus Striegher](./Kénabres-Ashus-Striegher.md), commandant des Croisés de l'Ordre de l'épée de l'Aube : humain(m) prêtre de Iomédae 9/paladin de iomédae 2, LB
-[Irabeth Tirabade](./AP13-Irabeth-Tirabade.md), capitaine des Croisés du Guet de l'Aigle : demi-orque (f) paladin de Iomédae 5, LB
-[Beltran Ravenken](./Kénabres-Beltran-Ravenken.md), porte-parole des Gardiens des failles : humain (f) barde 6/gardien des failles 3, N
-[Faxon](./Ap13-Faxon.md), chef du chapitre des Templiers du Labyrinthe d'Ivoire : tieffelin (m) sorcière 5, CM
-[Aigon Topaze](./Kénabres-Aigon-Topaze.md) propriétaire des Solutions Topaze : humain (m) magicien 1, CM
+[[Kénabres-Hatherelm Arir|Hatherelm Arir]], dramaturge de l'amphithéâtre d'Alodae : humain (m) noble 1 /barde 8, NB
+[[Kénabres-Chun Dawei|Chun Dawei]], capitaine des gardes du campement des croisés : humain (m) guerrier 7, LB
+[[Kénabres-Kimroth Otai|Kimroth Otai]], propriétaire du Coeur du Défenseur : humain agé (m) expert 2/guerrier 3, LB
+[[Kénabres-Quednys Orlun|Quednys Orlun]], propriétaire du Librairium de l'aile noire brisée : vieil humain (m) magicien 6, LB
+[[Fenna]], bibliothécaire du Librairium de l'aile noire brisée : humain (f) magicien 1, N
+[[Kénabres-Caelda Halse|Caelda Halse]], forgeron de la porte sud : aasimar (f) expert 3/guerrier 2, N
+[[Kénabres-Crocis|Crocis]], jardinier du parc de Pierrevraie : demi-elfe (m) druide 5, N
+[[Kénabres-Julanie Nalti|Julanie Nalti]], responsable de la grue et des entrepôts : humain (f) expert 2/Guerrier 2, LN
+[[Kénabres-Veserda la Chouette|Veserda la Chouette]], contact des adeptes de la flamme noire : humain (f) oracle 6 / adepte de la flamme noire 3, CM
+[[Kénabres-Liotr Lamebuse|Liotr Lamebuse]] humain (m), chef des chasseur de sorcières : inquisiteur de Iomédae 5, LN
+[[Kénabres-Ciar Cobelen|Ciar Cobelen]], commandant des Croisés de la Lumière éternelle : humain (m) paladin de Iomédae 10, LB
+[[Kénabres-Miammir|Miammir]], savante des Croisés de l'Ordre de la lance enflammée : demi-elfe (f) magicien 7/paladin 3, LB
+[[Kénabres-Ashus Striegher|Ashus Striegher]], commandant des Croisés de l'Ordre de l'épée de l'Aube : humain(m) prêtre de Iomédae 9/paladin de iomédae 2, LB
+[[AP13-Irabeth Tirabade|Irabeth Tirabade]], capitaine des Croisés du Guet de l'Aigle : demi-orque (f) paladin de Iomédae 5, LB
+[[Kénabres-Beltran Ravenken|Beltran Ravenken]], porte-parole des Gardiens des failles : humain (f) barde 6/gardien des failles 3, N
+[[AP13-Faxon|Faxon]], chef du chapitre des Templiers du Labyrinthe d'Ivoire : tieffelin (m) sorcière 5, CM
+[[Kénabres-Aigon Topaze|Aigon Topaze]] propriétaire des Solutions Topaze : humain (m) magicien 1, CM
 (((Place du marché)))
 **Valeur de base** 9600 po ; **Limite d'achat** 40000 po ; **Incantation** 7
 **Objets faibles** : 4d4
@@ -79,11 +79,11 @@ Les « sorcières » brûlées depuis sur le bûché étaient principalement des
 Les personnages élevés à Kénabres ont toujours vécu au milieu des préparatifs de guerre et sous la menace constante d'un assaut. Même les aventuriers les plus jeunes ont vu la ville grossir et changer durant leur courte vie et regardé une foule de croisés, toujours changeants, traverser leur bourgade. Vivre sous la menace constante des démons, ce n'est pas la même chose que de vivre dans un pays déchiré par la guerre : il est bien difficile de comprendre l'ennemi ou de se comparer à lui, et il est tout aussi malaisé d'analyser ses motivations et de les exploiter. Grandir sous l'ombre d'une telle menace, voilà qui teinte à coup sûr la tournure d'esprit d'un jeune aventurier.
 
 #### Rumeurs
-*[Aponavicius](./AP13-Aponavicius.md)*, la marilith qui règne sur Drezen depuis que ses armées l'ont prise. Elle lance fréquemment des assauts contre Kenabres.
-*[Areelu Vorlesh](./AP13-Areelu-Vorlesh.md)*, la sorcière responsable de l'ouverture de la Plaie du Monde. Il se murmure qu'elle serait vivante et attendrait son heure dans les profondeurs des abysses.
-*[Deskari](./Pathfinder-RPG-Deskari.md)*, le seigneur démon des gouffres, infections et insectes. Il est la force abyssale principalement responsable de l'ouverture de la Plaie du Monde.
-*[Minagho](./AP13-Minagho.md)*, une démone lilitu qui convertirait des croisés en démons.
-*[Staunton Vhane](./AP13-Staunton Vhane.md)*, un nain traitre à sa cause. Celui qui passait pour un paladin était en fait un anti-paladin qui quitta la ville suite à la révélation de son vrai visage.
+*[[AP13-Aponavicius|Aponavicius]]*, la marilith qui règne sur Drezen depuis que ses armées l'ont prise. Elle lance fréquemment des assauts contre Kenabres.
+*[[AP13-Areelu Vorlesh|Areelu Vorlesh]]*, la sorcière responsable de l'ouverture de la Plaie du Monde. Il se murmure qu'elle serait vivante et attendrait son heure dans les profondeurs des abysses.
+*[[Pathfinder-RPG.Deskari|Deskari]]*, le seigneur démon des gouffres, infections et insectes. Il est la force abyssale principalement responsable de l'ouverture de la Plaie du Monde.
+*[[AP13-Minagho|Minagho]]*, une démone lilitu qui convertirait des croisés en démons.
+*[[AP13-Staunton Vhane|Staunton Vhane]]*, un nain traitre à sa cause. Celui qui passait pour un paladin était en fait un anti-paladin qui quitta la ville suite à la révélation de son vrai visage.
 *Les templiers du labyrinthe d'ivoire*, des cultistes de Baphometh qui ont pour mission de corrompre les croisés.
 
 </div></td></tr></table>

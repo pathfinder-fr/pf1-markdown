@@ -9,6 +9,6 @@ Categories:
 
 {s:CM}*Les cordes vocales du personnage sont particulièrement résistantes, ce qui lui permet de coasser plus souvent.*
 
-**Conditions.** [Bourbiérin](./Bourbiérin.md), coassement terrifiant
+**Conditions.** [[Bourbiérin]], coassement terrifiant
 
 **Avantage.** Le personnage peut utiliser un coassement terrifiant de plus par heure. Si son temps de recharge est inférieur à une heure, il gagne une utilisation supplémentaire de ce pouvoir à chaque fois qu’il le recharge.

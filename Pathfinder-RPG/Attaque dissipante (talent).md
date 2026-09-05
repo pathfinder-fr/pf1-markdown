@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ATTAQUEDISSIPANTE
 ---
 
->>> [Talents#ATTAQUEDISSIPANTE](./Talents.md#ATTAQUEDISSIPANTE)
+>>> [[Talents#ATTAQUEDISSIPANTE]]

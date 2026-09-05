@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Arène#CHAMPION
 ---
 
->>> [Arène#CHAMPION](./Arène.md#CHAMPION)
+>>> [[Arène#CHAMPION]]

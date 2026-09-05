@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*Le personnage a pris tant de distance avec son héritage que même la magie ne le reconnaît plus.*
 
-**Conditions.** [Voie de l’exilé](./Voie de lexilé.md), [Visible et invisible](./Visible et invisible.md), personnage de niveau 11, [demi-elfe](./Demi-elfe.md).
+**Conditions.** [[Voie de lexilé|Voie de l’exilé]], [[Visible et invisible]], personnage de niveau 11, [[demi-elfe]].
 
-**Avantages.** Le personnage n’est pas considéré comme un humain ni comme un elfe vis-à-vis de tous les sorts et effets néfastes basés sur le type, comme une arme [tueuse](./tueuse (propriété).md) ou le pouvoir de classe de [rôdeur](./Rôdeur.md) [ennemi juré](./ennemi juré.md).
+**Avantages.** Le personnage n’est pas considéré comme un humain ni comme un elfe vis-à-vis de tous les sorts et effets néfastes basés sur le type, comme une arme [[tueuse (propriété)|tueuse]] ou le pouvoir de classe de [[rôdeur]] [[ennemi juré]].

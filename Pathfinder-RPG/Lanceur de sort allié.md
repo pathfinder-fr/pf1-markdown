@@ -11,8 +11,8 @@ Categories:
 
 {s:apg}*Le personnage sait comment percer les protections magiques des autres créatures avec l’aide d’un allié.*
 
-**Catégorie :** [équipe](./Dons.md#EQUIPE)
+**Catégorie :** [[Dons#EQUIPE|équipe]]
 
-**Conditions.** [NLS](./NLS.md) 1.
+**Conditions.** [[NLS]] 1.
 
-**Avantage.** Chaque fois que le personnage est adjacent à un allié possédant ce même don, il reçoit un bonus de compétences de +2 aux tests de [NLS](./NLS.md) effectués pour percer la [résistance à la magie](./RM.md) d’une cible. Si l’allié a préparé le même sort (ou s’il connaît ce sort et dispose d’un emplacement de sort adéquat pour le lancer spontanément), ce bonus passe à +4 et le personnage reçoit un bonus de +1 au NLS pour le calcul de toutes les variables qui en dépendent (comme la durée, la portée et l’effet).
+**Avantage.** Chaque fois que le personnage est adjacent à un allié possédant ce même don, il reçoit un bonus de compétences de +2 aux tests de [[NLS]] effectués pour percer la [[RM|résistance à la magie]] d’une cible. Si l’allié a préparé le même sort (ou s’il connaît ce sort et dispose d’un emplacement de sort adéquat pour le lancer spontanément), ce bonus passe à +4 et le personnage reçoit un bonus de +1 au NLS pour le calcul de toutes les variables qui en dépendent (comme la durée, la portée et l’effet).

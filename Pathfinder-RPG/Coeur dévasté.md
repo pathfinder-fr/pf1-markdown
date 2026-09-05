@@ -15,12 +15,12 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [nécromancie](./Nécromancie.md) <nowiki>[</nowiki>mort<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 3, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2, [Spi](./Spirite.md) 2
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
+{s:MCA}**École** [[nécromancie]] <nowiki>[[</nowiki>mort<nowiki>]]</nowiki> ; **Niveau** [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
 **Portée** contact
 **Cible** la créature touchée
 **Durée** instantanée
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Ce sort enveloppe la main du personnage d’une aura noire ondulante. Lorsqu’il lance son sort, il peut effectuer une attaque de contact au corps à corps qui inflige 2d6 points de dégâts d’énergie négative et qui fait [chanceler](./Chancelant.md) la cible pendant 1 round. Si l’attaque est un [coup critique](./coup critique.md), la cible est chancelante pendant 1 minute. Les créatures immunisées contre les dégâts de précision sont immunisées contre l’effet chancelant.
+Ce sort enveloppe la main du personnage d’une aura noire ondulante. Lorsqu’il lance son sort, il peut effectuer une attaque de contact au corps à corps qui inflige 2d6 points de dégâts d’énergie négative et qui fait [[chancelant|chanceler]] la cible pendant 1 round. Si l’attaque est un [[coup critique]], la cible est chancelante pendant 1 minute. Les créatures immunisées contre les dégâts de précision sont immunisées contre l’effet chancelant.

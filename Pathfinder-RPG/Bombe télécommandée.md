@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Le personnage peut déclencher ses bombes à retardement à grande distance. *
 
-**Condition.** [Découverte](./Alchimiste.md#DECOUVERTE) [bombe à retardement](./bombe à retardement (découverte).md)
+**Condition.** [[Alchimiste#DECOUVERTE|Découverte]] [[bombe à retardement (découverte)|bombe à retardement]]
 
-**Avantage.** Le délai maximal des bombes à retardement passe à un nombre de minutes égal au niveau du personnage. S’il a sa bombe à retardement en ligne de mire, il peut la faire exploser en avance sur l’instant prévu en réussissant un test d’[Intelligence](./Intelligence.md) [DD](./DD.md) 20.
+**Avantage.** Le délai maximal des bombes à retardement passe à un nombre de minutes égal au niveau du personnage. S’il a sa bombe à retardement en ligne de mire, il peut la faire exploser en avance sur l’instant prévu en réussissant un test d’[[Intelligence]] [[DD]] 20.
 
-Le [DD](./DD.md) augmente de +1 pour chaque tranche de 3 mètres (2 {s:c}) qui sépare le personnage de sa bombe.
+Le [[DD]] augmente de +1 pour chaque tranche de 3 mètres (2 {s:c}) qui sépare le personnage de sa bombe.

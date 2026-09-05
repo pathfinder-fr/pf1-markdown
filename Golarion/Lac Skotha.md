@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Ce lac est un lieu sacré pour les [géants](./géants.md) des collines de la région. En effet, l'île au centre du lac abriterait les esprits de leurs ancêtres. Lors d'une cérémonie funéraire, l'esprit du nouveau défunt les rejoindrait sur lîle. Ainsi, les [géants](./géants.md) n’aimant pas les visiteurs, peu de personnes ont exploré ce lac dont les fonds sont recouverts d’os de [géants](./géants.md).
+Ce lac est un lieu sacré pour les [[géants]] des collines de la région. En effet, l'île au centre du lac abriterait les esprits de leurs ancêtres. Lors d'une cérémonie funéraire, l'esprit du nouveau défunt les rejoindrait sur lîle. Ainsi, les [[géants]] n’aimant pas les visiteurs, peu de personnes ont exploré ce lac dont les fonds sont recouverts d’os de [[géants]].

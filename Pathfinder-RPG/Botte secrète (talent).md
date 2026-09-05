@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#BOTTESECRETE
 ---
 
->>> [Talents#BOTTESECRETE](./Talents.md#BOTTESECRETE)
+>>> [[Talents#BOTTESECRETE]]

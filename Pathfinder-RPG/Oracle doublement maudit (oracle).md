@@ -16,15 +16,15 @@ Categories:
 N’importe
 
 #### Malédiction d’oracle
-L’oracle doublement maudit doit choisir deux [malédictions](./Oracle.md#MALEDICTIONDELORACLE) au niveau 1. L’une d’elle (de son choix) ne s’accompagnera pas de modifications de pouvoirs au gré des niveaux. Par exemple, un [oracle](./Oracle.md) avec vision obscurcie n’aura jamais la [vision dans le noir](./vision dans le noir.md) à 18 mètres (12 {s:c}) ni la [perception aveugle](./perception aveugle.md), ni la [vision aveugle](./vision aveugle.md). L’autre [malédiction](./Oracle.md#MALEDICTIONDELORACLE) s’accompagne des avantages habituels.
+L’oracle doublement maudit doit choisir deux [[oracle#MALEDICTIONDELORACLE|malédictions]] au niveau 1. L’une d’elle (de son choix) ne s’accompagnera pas de modifications de pouvoirs au gré des niveaux. Par exemple, un [[oracle]] avec vision obscurcie n’aura jamais la [[vision dans le noir]] à 18 mètres (12 {s:c}) ni la [[perception aveugle]], ni la [[vision aveugle]]. L’autre [[oracle#MALEDICTIONDELORACLE|malédiction]] s’accompagne des avantages habituels.
 
 #### Compétences de classe
-L’oracle doublement maudit ne gagne pas de [compétences](./Compétences.md) de classe supplémentaires grâce à son [mystère](./mystères.md).
+L’oracle doublement maudit ne gagne pas de [[compétences]] de classe supplémentaires grâce à son [[mystères|mystère]].
 
 #### Sorts supplémentaires
-*[Mauvais présage](./mauvais présage.md)* (2), *[fardeau de l’oracle](./Fardeau de loracle.md)* (4), *[malédiction](./sort Malédiction.md)* (6). Ces sorts supplémentaires remplacent ceux accordés par le [mystère](./mystères.md) de l’oracle aux niveaux appropriés.
+*[[Mauvais présage]]* (2), *[[fardeau de loracle|fardeau de l’oracle]]* (4), *[[sort malédiction|malédiction]]* (6). Ces sorts supplémentaires remplacent ceux accordés par le [[mystères|mystère]] de l’oracle aux niveaux appropriés.
 
 #### Révélations.
-Un oracle doublement maudit obtient une nouvelle [révélation](./Oracle.md#REVELATION) aux niveaux 5 et 13, en plus des révélations normales des niveaux 3, 7 et autres. De plus, le personnage peut choisir l’une des révélations suivantes au lieu d’une révélation de [mystère](./mystères.md).
-- *Mauvaise fortune (Ext).* Au niveau 1, par une [action immédiate](./Action immédiate.md), il peut obliger une créature située dans les 9 mètres (6 {s:c}) à relancer un jet de d20 qu’elle vient de faire avant d’en connaître le résultat. La cible doit conserver le résultat du second jet, même s’il est pire que le premier. Une fois qu’une créature a été affectée par la mauvaise fortune de l’[oracle](./Oracle.md), elle ne peut plus en être victime pendant 1 jour.
-- *Fortune (Ext).* Au niveau 5, par une [action immédiate](./Action immédiate.md), l’[oracle](./Oracle.md) peut refaire un jet de d20 qu’il vient de faire avant d’en connaître le résultat. Il doit conserver le résultat du second jet, même s’il est pire que le premier. Il peut utiliser ce pouvoir une fois par jour au niveau 5 et ensuite une fois de plus tous les six niveaux.
+Un oracle doublement maudit obtient une nouvelle [[oracle#REVELATION|révélation]] aux niveaux 5 et 13, en plus des révélations normales des niveaux 3, 7 et autres. De plus, le personnage peut choisir l’une des révélations suivantes au lieu d’une révélation de [[mystères|mystère]].
+- *Mauvaise fortune (Ext).* Au niveau 1, par une [[action immédiate]], il peut obliger une créature située dans les 9 mètres (6 {s:c}) à relancer un jet de d20 qu’elle vient de faire avant d’en connaître le résultat. La cible doit conserver le résultat du second jet, même s’il est pire que le premier. Une fois qu’une créature a été affectée par la mauvaise fortune de l’[[oracle]], elle ne peut plus en être victime pendant 1 jour.
+- *Fortune (Ext).* Au niveau 5, par une [[action immédiate]], l’[[oracle]] peut refaire un jet de d20 qu’il vient de faire avant d’en connaître le résultat. Il doit conserver le résultat du second jet, même s’il est pire que le premier. Il peut utiliser ce pouvoir une fois par jour au niveau 5 et ensuite une fois de plus tous les six niveaux.

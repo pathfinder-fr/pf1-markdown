@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 - *Source : Bestiaire 2 page 53*
 - **PX** 4800
-- [Plante](./type Plante.md) de taille TG, N
-- **Init** +3 ; **Sens** vision à travers les chênes, [vision dans le noir](./vision dans le noir.md) 36 m, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +21
+- [[type Plante|Plante]] de taille TG, N
+- **Init** +3 ; **Sens** vision à travers les chênes, [[vision dans le noir]] 36 m, [[vision nocturne]] ; [[Perception]] +21
 (((Défense)))
 - **CA** 19, contact 7, pris au dépourvu 19 (Dex –1, naturelle +12, taille –2)
 - **pv** 95 (10d8+50)
@@ -28,9 +28,9 @@ Categories:
 (((Caractéristiques)))
 - **For** 29, **Dex** 8, **Con** 21, **Int** 12, **Sag** 15, **Cha** 12
 - **BBA** +7 ; **BMO** +18 ; **DMD** 27 (croc-en-jambe impossible) 
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Fente](./Fente.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) (Perception)
-- **Compétences** [Connaissances](./Connaissances.md) (nature) +11, [Discrétion](./Discrétion.md) +4 (+8 en forêt), [Perception](./Perception.md) +21 ;
-**Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) en forêt
+- **Dons** [[Attaque en puissance]], [[Attaques multiples]], [[Fente]], [[Science de linitiative|Science de l'initiative]], [[Talent]] (Perception)
+- **Compétences** [[Connaissances]] (nature) +11, [[Discrétion]] +4 (+8 en forêt), [[Perception]] +21 ;
+**Modificateurs raciaux** +4 en [[Discrétion]] en forêt
 - **Langues** commun, sylvestre
 (((Écologie)))
 - **Environnement** forêts tempérées
@@ -38,9 +38,9 @@ Categories:
 - **Trésor** standard
 (((Pouvoirs spéciaux)))
 - **Absorption de sorts (Sur).** Si la RM d’un boisvivant le protège contre un effet magique, le corps du boisvivant absorbe cette énergie magique dans une sorte de réserve. Il peut libérer cette énergie pour activer son aura de terreur. Tant que la créature possède une réserve d’énergie magique, sa RM décroît de 5. Le boisvivant ne peut stocker qu’un seul sort à la fois.
-- **Aura de terreur (Sur).** Un boisvivant possédant une réserve d’énergie magique peut activer son aura de terreur par une action simple. Cette aura s’étend sur un rayon de 3 mètres par niveau de sort de l’effet et persiste pendant 1 round (Volonté DD 20 annule). Les créatures qui ratent leur [jet de sauvegarde](./jet de sauvegarde.md) deviennent [paniquées](./États préjudiciables.md#Paniqué) pendant 1 minute. Le DD du [jet de sauvegarde](./jet de sauvegarde.md) dépend du Charisme et inclut un bonus racial de +4. 
+- **Aura de terreur (Sur).** Un boisvivant possédant une réserve d’énergie magique peut activer son aura de terreur par une action simple. Cette aura s’étend sur un rayon de 3 mètres par niveau de sort de l’effet et persiste pendant 1 round (Volonté DD 20 annule). Les créatures qui ratent leur [[jet de sauvegarde]] deviennent [[États préjudiciables#Paniqué|paniquées]] pendant 1 minute. Le DD du [[jet de sauvegarde]] dépend du Charisme et inclut un bonus racial de +4. 
 - **Racines (Ext). ** Un boisvivant possède des dizaines de longues racines, mais il ne peut attaquer qu’avec au plus trois d’entre elles au cours du round. S’il utilise sa capacité « attirer » pour amener une cible à portée de son attaque de morsure, il peut effectuer immédiatement (sans utiliser d’action) une attaque de morsure contre cette cible avec un bonus de +4 au jet d’attaque. 
-- **Vision à travers les chênes (Sur). ** Un boisvivant peut observer les alentours de n’importe quel chêne situé à 100 mètres ou moins comme s’il utilisait un sort de [clairaudience/clairvoyance](./Clairaudienceclairvoyance.md). Il peut utiliser cette capacité sur autant de chênes qu’il veut (pour autant qu’ils se trouvent dans la zone). Le boisvivant n’a pas besoin d’avoir une ligne de vision dégagée pour établir ce lien mais, s’il dispose d’une ligne de vision dégagée vers n’importe quel chêne (un seul suffit), alors, il ne peut pas être [pris en tenaille](./Pris en tenaille.md).
+- **Vision à travers les chênes (Sur). ** Un boisvivant peut observer les alentours de n’importe quel chêne situé à 100 mètres ou moins comme s’il utilisait un sort de [[Clairaudienceclairvoyance|clairaudience/clairvoyance]]. Il peut utiliser cette capacité sur autant de chênes qu’il veut (pour autant qu’ils se trouvent dans la zone). Le boisvivant n’a pas besoin d’avoir une ligne de vision dégagée pour établir ce lien mais, s’il dispose d’une ligne de vision dégagée vers n’importe quel chêne (un seul suffit), alors, il ne peut pas être [[pris en tenaille]].
 
 </div>
 </td><td><div>

@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Créature magique|Souterrain|Tempéré}
 - *Source : Bestiaire 2* p.253    
 - **PX** 600
-- [Créature magique](./type Créature magique.md) de taille M, N
-- **Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0
+- [[type Créature magique|Créature magique]] de taille M, N
+- **Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0
 (((Défense)))
 - **CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)
 - **pv** 17 (2d10+6)
@@ -26,9 +26,9 @@ Categories:
 - **Attaques spéciales** graisse ventrale, mucus dorsal
 (((Statistiques)))
 - **For** 15, **Dex** 14, **Con** 17, **Int** 3, **Sag** 10, **Cha** 10
-- **BBA** +2 ; **BMO** +4 ; **DMD** 16 (20 contre les [bousculades](./bousculade.md), la [lutte](./lutte.md), les [renversements](./renversement.md) et les [crocs-en-jambe](./croc-en-jambe.md))
-- **Dons** {s:Desambi|Étant donné le nombre de DV de cette créature, l'un de ses dons devrait être considéré comme un don supplémentaire. Cette erreur n'a pas été traitée par Paizo.}[Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md), [Science du renversement](./Science du renversement.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +16, [Escalade](./Escalade.md) +14, [Évasion](./Évasion.md) +6 ; **Modificateurs raciaux** +4 en [Évasion](./Évasion.md), + 10 en [Acrobaties](./Acrobaties.md)
+- **BBA** +2 ; **BMO** +4 ; **DMD** 16 (20 contre les [[bousculade|bousculades]], la [[lutte]], les [[renversement|renversements]] et les [[croc-en-jambe|crocs-en-jambe]])
+- **Dons** {s:Desambi|Étant donné le nombre de DV de cette créature, l'un de ses dons devrait être considéré comme un don supplémentaire. Cette erreur n'a pas été traitée par Paizo.}[[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]], [[Science du renversement]]
+- **Compétences** [[Acrobaties]] +16, [[Escalade]] +14, [[Évasion]] +6 ; **Modificateurs raciaux** +4 en [[Évasion]], + 10 en [[Acrobaties]]
 - **Langues** bourbiérin (incapable de parler)
 - **Particularités** posture stable
 (((Écologie)))

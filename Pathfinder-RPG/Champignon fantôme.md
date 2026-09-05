@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Plante|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.48*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Plante](./type Plante.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision aveugle](./vision aveugle.md) à 9 m (12 {s:c}) ; [vision nocturne](./vision nocturne.md) ; [Perception des vibrations](./Perception des vibrations.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Plante|Plante]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision aveugle]] à 9 m (12 {s:c}) ; [[vision nocturne]] ; [[Perception des vibrations]] à 18 m (12 {s:c}) ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 10, pris au dépourvu 15 (naturelle +5)}
 {s:BDTexte|**pv** 30 (4d8+12)}
 {s:BDTexte|**Réf** +1, **Vig** +7, **Vol** +1}
-{s:BDTexte|**Capacités défensives** chair fantomatique ; **Immunité** [traits des plantes](./Traits des plantes.md)}
+{s:BDTexte|**Capacités défensives** chair fantomatique ; **Immunité** [[traits des plantes]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +5 (1d6+3)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 10, **Con** 16, **Int** 2, **Sag** 11, **Cha** 9}
-{s:BDTexte|**BBA** +3, **BMO** +5, **DMD** 15 (17 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons**  [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences**  [Discrétion](./Discrétion.md) +7, [Escalade](./Escalade.md) +10, [Perception](./Perception.md) +10}
-{s:BDTexte|**Modificateur racial**  +4 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**BBA** +3, **BMO** +5, **DMD** 15 (17 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons**  [[Talent]] ([[Discrétion]]), [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences**  [[Discrétion]] +7, [[Escalade]] +10, [[Perception]] +10}
+{s:BDTexte|**Modificateur racial**  +4 en [[Discrétion]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrains}
 {s:BDTexte|**Organisation sociale** solitaire ou bosquet (2-5)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Chair fantomatique (Sur).** Par une [action de mouvement](./Action de mouvement.md), le champignon fantôme peut se rendre [invisible](./Invisible.md) comme s'il utilisait *[invisibilité suprême](./Invisibilité suprême.md)* ([NLS](./NLS.md) 4). Un instant après avoir attaqué sous couvert d'invisibilité, la créature apparaît brièvement comme une version semi-transparente d'elle-même. Ceci permet à tout observateur ayant le champignons dans sa ligne de mire de le localiser au moment de l'attaque (mais si la créature se déplace après avoir porté son attaque, ses adversaires devront la localiser à nouveau. Un adversaire peut préparer son action pour frapper le champignon au moment où il apparaît brièvement, auquel cas la créature ne sera que [camouflée](./camouflage.md), non [invisible](./Invisible.md) (20% de chances de rater). Le champignon peut se rendre complètement visible par une [action de mouvement](./Action de mouvement.md) même s'il reste normalement [invisible](./Invisible.md) tout le temps. S'il est tué lorsqu'il est [invisible](./Invisible.md), le champignon redevient visible 1d4 minutes plus tard.}
+{s:BDTexte|**Chair fantomatique (Sur).** Par une [[action de mouvement]], le champignon fantôme peut se rendre [[invisible]] comme s'il utilisait *[[invisibilité suprême]]* ([[NLS]] 4). Un instant après avoir attaqué sous couvert d'invisibilité, la créature apparaît brièvement comme une version semi-transparente d'elle-même. Ceci permet à tout observateur ayant le champignons dans sa ligne de mire de le localiser au moment de l'attaque (mais si la créature se déplace après avoir porté son attaque, ses adversaires devront la localiser à nouveau. Un adversaire peut préparer son action pour frapper le champignon au moment où il apparaît brièvement, auquel cas la créature ne sera que [[camouflage|camouflée]], non [[invisible]] (20% de chances de rater). Le champignon peut se rendre complètement visible par une [[action de mouvement]] même s'il reste normalement [[invisible]] tout le temps. S'il est tué lorsqu'il est [[invisible]], le champignon redevient visible 1d4 minutes plus tard.}
 
 </div>
 </td><td><div>

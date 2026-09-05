@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Charge puissante (capacité)
 ---
 
->>> [Charge puissante (capacité)](./Charge puissante (capacité).md)
+>>> [[Charge puissante (capacité)]]

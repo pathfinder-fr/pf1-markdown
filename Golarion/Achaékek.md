@@ -13,10 +13,10 @@ Terrible assassin, il n’est pas réellement un dieu mais plutôt une créature
 
 Il est difficile de connaître ses commanditaires et aucun dieu du panthéon n’avoue avoir eu recours à ses services. Paradoxalement, aucun ne fait rien pour l’anéantir.
 
-Parmi les fidèles du Dieu Mante on trouve les [Mantes Rouges](./Mantes Rouges.md) (Red Mantis), une célèbre organisation d’assassin.
+Parmi les fidèles du Dieu Mante on trouve les [[Mantes Rouges]] (Red Mantis), une célèbre organisation d’assassin.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Le [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Enfin, le [troisième volume](./../Aventures/Présentation AP2.md#AP2-3) de la seconde campagne contient un paragraphe qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Le [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Enfin, le [[Aventures.Présentation AP2#AP2-3|troisième volume]] de la seconde campagne contient un paragraphe qui détaille ce dieu.
 {s:VoirAussiAprès}

@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous pouvez lire le langage corporel de votre adversaire pour le jauger et obtenir un avantage en combat.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Arme en main](./Arme en main.md), [Prêt à tout](./Prêt à tout.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md), [BBA](./BBA.md) +13 ou [roublard](./Roublard.md) de niveau 13, 13 rangs en [Psychologie](./Psychologie.md)
+**Conditions.** [[Arme en main]], [[Prêt à tout]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]], [[BBA]] +13 ou [[roublard]] de niveau 13, 13 rangs en [[Psychologie]]
 
-**Avantages.** Lorsqu'il [prépare une action](./action préparée.md), le personnage n'a pas besoin de déclarer quelle action il fera, seulement la condition de cette action ainsi qu'un type d'action (simple, de mouvement, rapide ou libre). Si le personnage choisit une [action simple](./Action simple.md), il peut faire une [action de mouvement](./Action de mouvement.md) à la place lorsque son action préparée est déclenchée. Quand la condition se produit, le personnage choisit une action spécifique du type approprié et la résout normalement.
+**Avantages.** Lorsqu'il [[action préparée|prépare une action]], le personnage n'a pas besoin de déclarer quelle action il fera, seulement la condition de cette action ainsi qu'un type d'action (simple, de mouvement, rapide ou libre). Si le personnage choisit une [[action simple]], il peut faire une [[action de mouvement]] à la place lorsque son action préparée est déclenchée. Quand la condition se produit, le personnage choisit une action spécifique du type approprié et la résout normalement.

@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Corde de fer|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 4 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 750 po  ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 4 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 750 po  ; **Poids** 0,5 kg
 (((Description)))
 Lorsque l’une des extrémités de cette corde de chanvre de couleur grise est tenue en main et que le mot de commande est prononcé, le chanvre se transmute définitivement en fer compact. La corde ainsi transmutée n’est plus magique et possède la solidité et les points de résistance d’une barre de fer ordinaire épaisse de 2,5 cm. À sa création, la corde mesure 7,50 mètres et peut être coupée trois fois. On peut transformer séparément chaque morceau de corde en fer.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[corde animée](./Corde animée.md)* ; **Coût** 375 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[corde animée]]* ; **Coût** 375 po
 </div>

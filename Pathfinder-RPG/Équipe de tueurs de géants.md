@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:ISR}*Lorsqu'un géant tente d'attaquer votre allié, ce géant révèle involontairement une ouverture dans sa défense.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONCOMBAT|combat]], [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Dex](./Dextérité.md) 13, [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [BBA](./BBA.md) +4, trait racial entraînement défensif
+**Conditions.** [[Dextérité|Dex]] 13, [[Esquive]], [[Souplesse du serpent]], [[BBA]] +4, trait racial entraînement défensif
 
-**Avantages.** Lorsqu'un adversaire de sous-type [géant](./sous-type géant.md) que le personnage [menace](./espace contrôlé.md) rate une [attaque d'opportunité](./AO.md) contre un allié qui possède ce don, le personnage peut porter une attaque de corps à corps contre ce géant par une [action immédiate](./Action immédiate.md).
+**Avantages.** Lorsqu'un adversaire de sous-type [[sous-type géant|géant]] que le personnage [[espace contrôlé|menace]] rate une [[AO|attaque d'opportunité]] contre un allié qui possède ce don, le personnage peut porter une attaque de corps à corps contre ce géant par une [[action immédiate]].

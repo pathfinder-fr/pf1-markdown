@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Même si le personnage n’a rien de mythique, il joue un rôle déterminant dans le monde mythique supérieur.*
 
-**Condition.** Le personnage ne doit pas être [mythique](./mythique.md).
+**Condition.** Le personnage ne doit pas être [[mythique]].
 
-**Avantage.** Le personnage est considéré comme une créature [mythique](./mythique.md) lorsqu’il s’agit de déterminer si les sorts et les effets mythiques l’affectent. S’il devient mythique par la suite, il gagne un bonus de +1 à tous ses jets de sauvegarde effectués contre les effets et les sorts mythiques.
+**Avantage.** Le personnage est considéré comme une créature [[mythique]] lorsqu’il s’agit de déterminer si les sorts et les effets mythiques l’affectent. S’il devient mythique par la suite, il gagne un bonus de +1 à tous ses jets de sauvegarde effectués contre les effets et les sorts mythiques.

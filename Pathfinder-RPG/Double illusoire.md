@@ -16,26 +16,26 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Illusion](./Illusion.md) ([chimère](./Chimère.md), [hallucination](./hallucination.md)) ; **Niveau** [Alch](./Alchimiste.md) 6, [Bard](./Barde.md) 5, [Hyp](./Hypnotiseur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Magus](./Magus.md) 6, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 6, [Spi](./Spirite.md) 6  
+**École** [[Illusion]] ([[chimère]], [[hallucination]]) ; **Niveau** [[Alchimiste|Alch]] 6, [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 6, [[Spirite|Spi]] 6  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [G](./composantes.md)  
+**Composantes** [[composantes|G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible et zone d’effet** : le jeteur de sorts et 1 double illusoire  
 
-**Durée** 1 round/[niveau](./niveau.md) (T) et [concentration](./Présentation des sorts.md#DUREE) + 3 [rounds](./round.md) (voir description)  
+**Durée** 1 round/[[niveau]] (T) et [[Présentation des sorts#DUREE|concentration]] + 3 [[round|rounds]] (voir description)  
 
-**Jet de sauvegarde** aucun ou [Volonté](./Volonté.md), [dévoile](./Présentation des sorts.md#JETSDESAUVEGARDE) (en cas d’interaction) voir description ; **Résistance à la magie** non
+**Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) voir description ; **Résistance à la magie** non
 
-Double illusoire rend le lanceur de sort [invisible](./Invisible.md) (comme par le sort d’*[invisibilité suprême](./Invisibilité suprême.md)*, une [hallucination](./hallucination.md)) au moment même où un *double illusoire* de sa personne apparaît (comme par le sort d’*[image accomplie](./Image accomplie.md)*, une [chimère](./Chimère.md)). Une fois le sort lancé, le personnage et son sosie peuvent se déplacer librement. Le double apparaît dans les limites de portée du sort mais il se déplace ensuite en suivant les instructions du personnage (ce qui nécessite de la [concentration](./concentration.md) et ce, dès le round suivant l’incantation). Le personnage peut choisir de faire apparaître la [chimère](./Chimère.md) à l’endroit exact où il se trouve, de sorte que les témoins de la scène ne le voient pas disparaître au moment où une image apparaît. Le personnage et son sosie peuvent se déplacer dans des directions différentes. Le sosie avance à la même vitesse que le personnage ; il peut parler et gesticuler comme l’individu qu’il copie, mais il ne peut ni combattre ni lancer de sorts (rien ne l’empêche de faire semblant cependant).
+Double illusoire rend le lanceur de sort [[invisible]] (comme par le sort d’*[[invisibilité suprême]]*, une [[hallucination]]) au moment même où un *double illusoire* de sa personne apparaît (comme par le sort d’*[[image accomplie]]*, une [[chimère]]). Une fois le sort lancé, le personnage et son sosie peuvent se déplacer librement. Le double apparaît dans les limites de portée du sort mais il se déplace ensuite en suivant les instructions du personnage (ce qui nécessite de la [[concentration]] et ce, dès le round suivant l’incantation). Le personnage peut choisir de faire apparaître la [[chimère]] à l’endroit exact où il se trouve, de sorte que les témoins de la scène ne le voient pas disparaître au moment où une image apparaît. Le personnage et son sosie peuvent se déplacer dans des directions différentes. Le sosie avance à la même vitesse que le personnage ; il peut parler et gesticuler comme l’individu qu’il copie, mais il ne peut ni combattre ni lancer de sorts (rien ne l’empêche de faire semblant cependant).
 
-Le *double illusoire* persiste tant que le personnage se [concentre](./concentration.md) sur le sort et pendant 3 [rounds](./round.md) après cela. Lorsque le personnage cesse de se [concentrer](./concentration.md), le *double illusoire* poursuit ses activités jusqu’au terme du sort. L’*[invisibilité suprême](./Invisibilité suprême.md)*, elle, dure 1 [round](./round.md) par [niveau](./niveau.md), indépendamment de la [concentration](./concentration.md).
+Le *double illusoire* persiste tant que le personnage se [[concentration|concentre]] sur le sort et pendant 3 [[round|rounds]] après cela. Lorsque le personnage cesse de se [[concentration|concentrer]], le *double illusoire* poursuit ses activités jusqu’au terme du sort. L’*[[invisibilité suprême]]*, elle, dure 1 [[round]] par [[niveau]], indépendamment de la [[concentration]].
 
 ### Mythique
 {s:CMy}
-Le personnage crée un double illusoire par tranche de 5 [niveaux de lanceur de sorts](./NLS.md). Chacun apparaît dans l’emplacement occupé par le personnage ou dans une case inoccupée adjacente à la sienne. Lorsqu’il lance le sort, le personnage peut confier à chacun de ces doubles une tâche programmée simple sous forme d’ordre télépathique, comme « marche plein sud », « demande grâce » ou « suis ce troll ». Le personnage peut modifier ou complètement changer une unique tâche programmée et confiée à un double illusoire en y consacrant une [action rapide](./Action rapide.md), une [action de mouvement](./Action de mouvement.md) ou une [action simple](./Action simple.md) ; ceci requiert de la [concentration](./concentration.md).
+Le personnage crée un double illusoire par tranche de 5 [[NLS|niveaux de lanceur de sorts]]. Chacun apparaît dans l’emplacement occupé par le personnage ou dans une case inoccupée adjacente à la sienne. Lorsqu’il lance le sort, le personnage peut confier à chacun de ces doubles une tâche programmée simple sous forme d’ordre télépathique, comme « marche plein sud », « demande grâce » ou « suis ce troll ». Le personnage peut modifier ou complètement changer une unique tâche programmée et confiée à un double illusoire en y consacrant une [[action rapide]], une [[action de mouvement]] ou une [[action simple]] ; ceci requiert de la [[concentration]].
 
-**[Amplifié](./Amplifié.md) (4ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), ce sort lui confère également les avantages d’une [invisibilité](./Invisibilité.md) mythique amplifiée au lieu d’une invisibilité suprême.
+**[[Amplifié]] (4ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], ce sort lui confère également les avantages d’une [[invisibilité]] mythique amplifiée au lieu d’une invisibilité suprême.

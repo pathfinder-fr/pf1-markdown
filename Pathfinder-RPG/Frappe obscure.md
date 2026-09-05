@@ -13,10 +13,10 @@ Categories:
 
 **Catégorie.** Combat
 
-**Conditions.** [Fetchelin](./Fetchelin (race).md), [Combat en aveugle](./Combat en aveugle.md)
+**Conditions.** [[Fetchelin (race)|Fetchelin]], [[Combat en aveugle]]
 
 **Avantages.** Lorsqu’il est dans une zone de faible luminosité ou de ténèbres, le fetchelin gagne un bonus de +1 à ses jets d’attaque contre les ennemis qui sont également dans une zone de faible luminosité ou de ténèbres.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Tant que le personnage a au moins 1 point d’endurance dans sa réserve, il bénéficie du bonus conféré par ce don tant qu’il se trouve dans une zone faiblement éclairée ou plongée dans l’obscurité, même si ce n’est pas le cas de la créature qu’il attaque.

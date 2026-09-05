@@ -11,8 +11,8 @@ Categories:
 
 {s:uc}*Le personnage distrait une cible grâce à son bavardage amical pendant que son partenaire la dépouille.*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** 1 [rang](./rang.md) en [Bluff](./Bluff.md), 1 rang en [Escamotage](./Escamotage.md)
+**Conditions.** 1 [[rang]] en [[Bluff]], 1 rang en [[Escamotage]]
 
-**Avantage.** Quand un allié qui possède aussi ce don réussit un test de [Bluff](./Bluff.md) pour faire une [feinte](./feinte.md), le personnage peut dépenser une [action immédiate](./Action immédiate.md) pour faire un test d’[Escamotage](./Escamotage.md) et voler sa bourse, avec un bonus de +4 au test. Il doit être adjacent à la cible.
+**Avantage.** Quand un allié qui possède aussi ce don réussit un test de [[Bluff]] pour faire une [[feinte]], le personnage peut dépenser une [[action immédiate]] pour faire un test d’[[Escamotage]] et voler sa bourse, avec un bonus de +4 au test. Il doit être adjacent à la cible.

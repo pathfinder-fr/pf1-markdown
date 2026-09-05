@@ -13,8 +13,8 @@ Categories:
 {s:BDTexte|<i>Source : Bestiaire 4 p.168</i>}
 {s:BDTexte|<b>PX</b> 200}
 {s:BDTexte|kasatha (m) moine 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([kasatha](./sous-type kasatha.md)) de taille M, LN}
-{s:BDTexte|<b>Init</b> +3 ; <b>Sens</b> [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type kasatha|kasatha]]) de taille M, LN}
+{s:BDTexte|<b>Init</b> +3 ; <b>Sens</b> [[vision nocturne]] ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 18, contact 18, pris au dépourvu 13 (Dex +3, esquive +2, Sag +3)}
 {s:BDTexte|<b>pv</b> 10 (1d8+2)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 13, <b>Dex</b> 17, <b>Con</b> 12, <b>Int</b> 10, <b>Sag</b> 16, <b>Cha</b> 8}
 {s:BDTexte|<b>BBA</b> +0, <b>BMO</b> +1, <b>DMD</b> 19}
-{s:BDTexte|<b>Dons</b> [Attaque en finesse](./Attaque en finesse.md), [Attaques réflexes](./Attaques réflexes.md), [Coup étourdissant](./Coup étourdissant.md), [Science du combat à mains nues](./Science du combat à mains nues.md)}
-{s:BDTexte|<b>Compétences</b> [Acrobaties](./Acrobaties.md) +7, [Escalade](./Escalade.md) +5, [Évasion](./Évasion.md) +7, [Survie](./Survie.md) +4}
+{s:BDTexte|<b>Dons</b> [[Attaque en finesse]], [[Attaques réflexes]], [[Coup étourdissant]], [[Science du combat à mains nues]]}
+{s:BDTexte|<b>Compétences</b> [[Acrobaties]] +7, [[Escalade]] +5, [[Évasion]] +7, [[Survie]] +4}
 {s:BDTexte|<b>Langues</b> commun, kasatha}
 {s:BDTexte|<b>Particularités</b> bras multiples, coureur du désert, marcheur du désert, sauteur, traqueur}
 {s:BDSousTitre|Écologie}
@@ -39,7 +39,7 @@ Categories:
 {s:BDTexte|<b>Coureur du désert (Ext).</b> Le kasatha bénéficie d’un bonus racial de +4 aux tests de Constitution et aux jets de Vigueur effectués pour éviter la fatigue, l’épuisement et les divers effets néfastes engendrés par la course, la faim, la soif et les environnements chauds ou froids.}
 {s:BDTexte|<b>Marcheur du désert (Ext).</b> Le kasatha se déplace à sa vitesse normale, et non réduite, quand il traverse les terrains difficiles non-magiques du désert.}
 {s:BDTexte|<b>Sauteur (Ext).</b> On considère que le kasatha prend toujours son élan quand il effectue des tests d’Acrobaties pour sauter.}
-{s:BDTexte|<b>Traqueur (Ext).</b> [Perception](./Perception.md) et [Discrétion](./Discrétion.md) sont des compétences de classe pour les kasathas.}
+{s:BDTexte|<b>Traqueur (Ext).</b> [[Perception]] et [[Discrétion]] sont des compétences de classe pour les kasathas.}
 
 {s:ImageCentre|Bestiaire/Kasatha02.jpg|90%}
 

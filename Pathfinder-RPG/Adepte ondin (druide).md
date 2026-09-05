@@ -12,19 +12,19 @@ Categories:
 *L’adepte ondin se consacre à la préservation du savoir des premiers ondins et veille à ce que les liens anciens de son peuple avec la nature ne soient pas perturbés. Ils sont les gardiens des racines du peuple ondin et ses protecteurs.*
 
 #### Domaines
-L’adepte ondin qui choisit un domaine doit prendre celui de la [Communauté](./Domaine de la Communauté.md) ou de l’[Eau](./Domaine de lEau.md), ou n’importe quel sous-domaine de ces domaines.
+L’adepte ondin qui choisit un domaine doit prendre celui de la [[Domaine de la Communauté|Communauté]] ou de l’[[Domaine de lEau|Eau]], ou n’importe quel sous-domaine de ces domaines.
 
 #### Amphibie (Sur)
-Au niveau 2, l’adepte ondin gagne le sous-type [aquatique](./sous-type aquatique.md) et le pouvoir universel de monstre [amphibie](./Amphibie (capacité).md), ce qui lui permet de respirer aussi bien l’air que l’eau. Cette capacité remplace [déplacement facilité](./Druide.md#DEPLACEMENTFACILITE).
+Au niveau 2, l’adepte ondin gagne le sous-type [[sous-type aquatique|aquatique]] et le pouvoir universel de monstre [[amphibie (capacité)|amphibie]], ce qui lui permet de respirer aussi bien l’air que l’eau. Cette capacité remplace [[druide#DEPLACEMENTFACILITE|déplacement facilité]].
 
 #### Amélioration des créatures convoquées (Sur)
-Au niveau 3, toute créature de sous-type [eau](./sous-type Eau.md) que l’adepte ondin convoque avec *[convocation de monstres](./Convocation de monstres I.md)* ou *[convocation d’alliés naturels](./Convocation dalliés naturels I.md)* bénéficie des avantages du don [Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md). Ceci remplace [absence de traces](./Druide.md#ABSENCEDETRACES).
+Au niveau 3, toute créature de sous-type [[sous-type eau|eau]] que l’adepte ondin convoque avec *[[convocation de monstres I|convocation de monstres]]* ou *[[convocation dalliés naturels I|convocation d’alliés naturels]]* bénéficie des avantages du don [[Amélioration des créatures convoquées]]. Ceci remplace [[druide#ABSENCEDETRACES|absence de traces]].
 
 #### Résistance à l’appel de l’eau (Sur)
-Au niveau 4, l’adepte ondin gagne un bonus de +4 à ses [jets de sauvegarde](./JDS.md) contre les pouvoirs magiques et surnaturels des [extérieurs](./type Extérieur.md) de sous-type [aquatique](./sous-type aquatique.md) ou [eau](./sous-type Eau.md), des [fées](./type Fée.md) de sous-type [aquatique](./sous-type aquatique.md) ou [eau](./sous-type Eau.md), et contre les sorts et effets du registre [eau](./Registre.md). Cette capacité remplace [résistance à l’appel de la nature](./Druide.md#RESISTANCEALAPPELDELANATURE).
+Au niveau 4, l’adepte ondin gagne un bonus de +4 à ses [[jds|jets de sauvegarde]] contre les pouvoirs magiques et surnaturels des [[type extérieur|extérieurs]] de sous-type [[sous-type aquatique|aquatique]] ou [[sous-type eau|eau]], des [[type fée|fées]] de sous-type [[sous-type aquatique|aquatique]] ou [[sous-type eau|eau]], et contre les sorts et effets du registre [[registre|eau]]. Cette capacité remplace [[druide#RESISTANCEALAPPELDELANATURE|résistance à l’appel de la nature]].
 
 #### Forme animale (Sur)
-Au niveau 6, l’adepte ondin gagne la capacité à utiliser [forme animale](./Druide.md#FORMEANIMALE). Lorsqu’il prend la forme d’une créature de sous-type [aquatique](./sous-type aquatique.md) ou [eau](./sous-type Eau.md), le niveau de cette capacité est égal à son niveau de classe +1. Pour toutes les autres formes, le niveau effectif du druide pour cette capacité est égal à son niveau d’adepte ondin. En outre, cette capacité fonctionne comme [forme animale](./Druide.md#FORMEANIMALE) qu’elle remplace.
+Au niveau 6, l’adepte ondin gagne la capacité à utiliser [[druide#FORMEANIMALE|forme animale]]. Lorsqu’il prend la forme d’une créature de sous-type [[sous-type aquatique|aquatique]] ou [[sous-type eau|eau]], le niveau de cette capacité est égal à son niveau de classe +1. Pour toutes les autres formes, le niveau effectif du druide pour cette capacité est égal à son niveau d’adepte ondin. En outre, cette capacité fonctionne comme [[druide#FORMEANIMALE|forme animale]] qu’elle remplace.
 
 #### Communion avec les esprits de l’eau
-Au niveau 9, l’adepte ondin ajoute *[communion](./Communion.md)* à sa liste de sorts de druide. Il peut utiliser ce sort, qu’il vénère une divinité ou des forces élémentaires. Cette capacité remplace [immunité contre le venin](./Druide.md#IMMUNITECONTRELEVENIN).
+Au niveau 9, l’adepte ondin ajoute *[[communion]]* à sa liste de sorts de druide. Il peut utiliser ce sort, qu’il vénère une divinité ou des forces élémentaires. Cette capacité remplace [[druide#IMMUNITECONTRELEVENIN|immunité contre le venin]].

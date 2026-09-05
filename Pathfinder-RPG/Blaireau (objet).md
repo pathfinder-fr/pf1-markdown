@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 15 po ; **Poids** 10 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces féroces créatures fouisseuses sont rarement gardées comme animaux de compagnie. Voir les statistiques du [blaireau](./Blaireau.md).
+Ces féroces créatures fouisseuses sont rarement gardées comme animaux de compagnie. Voir les statistiques du [[blaireau]].

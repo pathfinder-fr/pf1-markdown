@@ -8,27 +8,27 @@ Categories:
 
 {s:MenuPathfinderunchained}{s:PU}*Le personnage en sait beaucoup sur le monde naturel et les créatures naturelles qu’il dresse à obéir à ses ordres.*
 
-**Caractéristique associée :** [Intelligence](./Intelligence.md) ; **Formation nécessaire :** Oui ; **Malus d'armure :** Non
+**Caractéristique associée :** [[Intelligence]] ; **Formation nécessaire :** Oui ; **Malus d'armure :** Non
 
-**Fonctions.** [Dresser un animal](./Compétences fusionnées, Nature.md#DRESSERUNANIMAL), [identifier un monstre](./Compétences fusionnées, Nature.md#IDENTIFIERUNMONSTRE) (aberration, animal, fée, humanoïde monstrueux, plante, vase, vermine), [se remémorer des connaissances](./Compétences fusionnées, Nature.md#SEREMEMORERDESCONNAISSANCES) (à propos des donjons, de la géographie ou de la nature).
+**Fonctions.** [[Compétences fusionnées, Nature#DRESSERUNANIMAL|Dresser un animal]], [[Compétences fusionnées, Nature#IDENTIFIERUNMONSTRE|identifier un monstre]] (aberration, animal, fée, humanoïde monstrueux, plante, vase, vermine), [[Compétences fusionnées, Nature#SEREMEMORERDESCONNAISSANCES|se remémorer des connaissances]] (à propos des donjons, de la géographie ou de la nature).
 
-**Compétences de base.** [Connaissances](./Connaissances.md) (exploration souterraine), [Connaissances](./Connaissances.md) (géographie), [Connaissances](./Connaissances.md) (nature), [Dressage](./Dressage.md).
+**Compétences de base.** [[Connaissances]] (exploration souterraine), [[Connaissances]] (géographie), [[Connaissances]] (nature), [[Dressage]].
 
 {s:Reference|DRESSERUNANIMAL}
 ### Dresser un animal
-Cette fonction de la compétence Nature fonctionne comme la compétence de base [Dressage](./Dressage.md). Elle se base toutefois sur l’[Intelligence](./Intelligence.md) à la place du [Charisme](./Charisme.md).
+Cette fonction de la compétence Nature fonctionne comme la compétence de base [[Dressage]]. Elle se base toutefois sur l’[[Intelligence]] à la place du [[Charisme]].
 
-**Action. Variable.** Il faut une [action de mouvement](./Action de mouvement.md) pour diriger un animal et une action complexe pour le « pousser. »
+**Action. Variable.** Il faut une [[action de mouvement]] pour diriger un animal et une action complexe pour le « pousser. »
 
 **Nouvelles tentatives.** Oui, sauf pour élever un animal.
 
 {s:Reference|IDENTIFIERUNMONSTRE}
 ### Identifier un monstre
-Un personnage peut utiliser la compétence Nature pour identifier les monstres de type aberration, animal, fée, humanoïde monstrueux, plante, vase et vermine. Voir l’encart [Identification des monstres](./Compétences fusionnées.md#IDENTIFIERDESMONSTRES).
+Un personnage peut utiliser la compétence Nature pour identifier les monstres de type aberration, animal, fée, humanoïde monstrueux, plante, vase et vermine. Voir l’encart [[Compétences fusionnées#IDENTIFIERDESMONSTRES|Identification des monstres]].
 
 {s:Reference|SEREMEMORERDESCONNAISSANCES}
 ### Se remémorer des connaissances
-Le personnage peut utiliser la compétence Nature pour se remémorer des informations à propos de la faune, de la flore, du climat, des saisons et de leur cycle, de la spéléologie et de l’environnement. Voir l’encart [Se remémorer des connaissances](./Compétences fusionnées.md#SEREMEMORERDESCONNAISSANCES) pour plus de détails. Utilisez les DD de la table suivante pour certaines tâches.
+Le personnage peut utiliser la compétence Nature pour se remémorer des informations à propos de la faune, de la flore, du climat, des saisons et de leur cycle, de la spéléologie et de l’environnement. Voir l’encart [[Compétences fusionnées#SEREMEMORERDESCONNAISSANCES|Se remémorer des connaissances]] pour plus de détails. Utilisez les DD de la table suivante pour certaines tâches.
 
 <center>
 {| CLASS="tablo autoalt"

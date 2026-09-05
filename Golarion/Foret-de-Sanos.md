@@ -5,4 +5,4 @@ LastModified: 2010-06-17 12:08
 RedirectTo: Forêt de Sanos
 ---
 
->>> [Forêt de Sanos](./Forêt de Sanos.md)
+>>> [[Forêt de Sanos]]

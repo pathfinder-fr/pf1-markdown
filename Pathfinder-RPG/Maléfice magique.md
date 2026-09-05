@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Le personnage peut transformer un sort de niveau 1 en maléfice. *
 
-**Condition.** [Maléfice majeur](./Sorcière.md#MALEFICEMAJEUR)
+**Condition.** [[Sorcière#MALEFICEMAJEUR|Maléfice majeur]]
 
-**Avantage.** Le personnage choisit un sort de niveau 1 dans la classe qui lui permet d’utiliser les maléfices majeurs. Il peut apprendre ce sort comme un maléfice et l’utiliser trois fois par jour. C’est un pouvoir magique. Il peut utiliser son niveau dans la classe qui lui accorde le maléfice comme [niveau de lanceur de sorts](./NLS.md) pour le maléfice magique. Ce dernier utilise le [DD](./DD.md) des maléfices et non celui du sort originel.
+**Avantage.** Le personnage choisit un sort de niveau 1 dans la classe qui lui permet d’utiliser les maléfices majeurs. Il peut apprendre ce sort comme un maléfice et l’utiliser trois fois par jour. C’est un pouvoir magique. Il peut utiliser son niveau dans la classe qui lui accorde le maléfice comme [[NLS|niveau de lanceur de sorts]] pour le maléfice magique. Ce dernier utilise le [[DD]] des maléfices et non celui du sort originel.
 
-Si le sort est un sort de contact et que le personnage rate sa cible, il ne peut plus la viser avec ce maléfice magique pendant 24 heures. Si le sort autorise un [jet de sauvegarde](./jet de sauvegarde.md) pour annuler ses effets ou les réduire et que la cible le réussit, elle ne peut plus être affectée par ce maléfice magique pendant 24 heures, même si elle se trouve dans sa [zone d’effet](./zone deffet.md).
+Si le sort est un sort de contact et que le personnage rate sa cible, il ne peut plus la viser avec ce maléfice magique pendant 24 heures. Si le sort autorise un [[jet de sauvegarde]] pour annuler ses effets ou les réduire et que la cible le réussit, elle ne peut plus être affectée par ce maléfice magique pendant 24 heures, même si elle se trouve dans sa [[zone deffet|zone d’effet]].

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.137*}
 {s:BDTexte|**PX** 65}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 3 (1d8-1)}
@@ -26,9 +26,9 @@ Categories:
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 15, **Con** 8, **Int** 1, **Sag** 12, **Cha** 2}
-{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6 (10 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +10 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +8}
+{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6 (10 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Discrétion]] +14, [[Escalade]] +10 ; **Modificateurs raciaux** [[Acrobaties]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** climat tempéré ou chaud}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou nid (3-8)}

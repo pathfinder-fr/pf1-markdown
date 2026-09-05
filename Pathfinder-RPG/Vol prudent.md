@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous vous déplacez avec aisance lorsque vous volez à vitesse réduite.*
 
-**Conditions.** [Voltigeur](./Voltigeur.md), 5 rangs en [Vol](./Vol.md)
+**Conditions.** [[Voltigeur]], 5 rangs en [[Vol]]
 
-**Avantages.** Quand le personnage effectue une [action de mouvement](./Action de mouvement.md) pour voler, même lorsqu'il se déplace à moins de la moitié de sa vitesse, il n'a pas besoin de réussir un test de [Vol](./Vol.md) pour continuer à voler. Lorsque le personnage se déplace à la moitié de sa vitesse durant un round, il bénéficie également d'un bonus de +2 aux tests d'[Acrobaties](./Acrobaties.md) pour éviter les [attaques d'opportunité](./AO.md) et d'un bonus de +2 à la [CA](./CA.md) contre les attaques d'opportunités provoquées par un mouvement.
+**Avantages.** Quand le personnage effectue une [[action de mouvement]] pour voler, même lorsqu'il se déplace à moins de la moitié de sa vitesse, il n'a pas besoin de réussir un test de [[Vol]] pour continuer à voler. Lorsque le personnage se déplace à la moitié de sa vitesse durant un round, il bénéficie également d'un bonus de +2 aux tests d'[[Acrobaties]] pour éviter les [[AO|attaques d'opportunité]] et d'un bonus de +2 à la [[CA]] contre les attaques d'opportunités provoquées par un mouvement.
 
-**Normal.** Le personnage doit réussir un test de [Vol](./Vol.md) pour continuer à voler sauf s'il se déplace à la moitié de sa vitesse ou plus.
+**Normal.** Le personnage doit réussir un test de [[Vol]] pour continuer à voler sauf s'il se déplace à la moitié de sa vitesse ou plus.

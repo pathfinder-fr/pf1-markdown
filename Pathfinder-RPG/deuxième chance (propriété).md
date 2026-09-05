@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Deuxième chance
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Deuxième chance](./Descriptions individuelles des propriétés spéciales des armes.md#Deuxième chance)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Deuxième chance]]

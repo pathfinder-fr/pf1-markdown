@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Riposte
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Riposte](./Descriptions individuelles des propriétés spéciales des armes.md#Riposte)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Riposte]]

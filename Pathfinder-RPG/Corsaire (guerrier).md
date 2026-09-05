@@ -15,11 +15,11 @@ une armure plus lourde que celles habituellement portées à bord d’un navire.
 Un corsaire connaît particulièrement bien les différentes armes appréciées des pirates. Quand il sélectionne un groupe d’armes grâce à son aptitude d’entraînement aux armes, il peut choisir le groupe d’armes de pirate. Dans ce groupe d’armes, on trouve l’arbalète, le sabre d’abordage, la dague, le crochet de pirate, la rapière et l’épée courte.
 
 #### Combat sur le pont (Ext)
-Un corsaire est habitué à combattre sur les ponts noirs de monde et l’affrontement contre plusieurs adversaires en même temps ne l’intimide pas. Au niveau 2, il obtient [Enchaînement](./Enchaînement.md) en don supplémentaire. Il peut utiliser ce don même s’il ne satisfait pas les conditions requises. Un corsaire ne subit pas le malus normal de -2 à sa CA quand il utilise Enchaînement. Cette aptitude remplace le don supplémentaire que le guerrier obtient au niveau 2.
+Un corsaire est habitué à combattre sur les ponts noirs de monde et l’affrontement contre plusieurs adversaires en même temps ne l’intimide pas. Au niveau 2, il obtient [[Enchaînement]] en don supplémentaire. Il peut utiliser ce don même s’il ne satisfait pas les conditions requises. Un corsaire ne subit pas le malus normal de -2 à sa CA quand il utilise Enchaînement. Cette aptitude remplace le don supplémentaire que le guerrier obtient au niveau 2.
 
 #### Pirate en armure (Ext)
 Un corsaire peut porter une armure plus lourde que celles habituellement portées à bord d’un navire. Au niveau 3, il réduit à 0 le malus d’armure aux tests de l’armure légère qu’il porte en ce qui concerne les tests d’Acrobaties et de Natation. Au niveau 7, il fait de même avec les armures intermédiaires, puis avec les armures lourdes au niveau 11. Cette aptitude remplace entraînement aux armures.
 
 #### Science du combat sur le pont (Ext)
-Au niveau 6, le corsaire obtient [Succession d’enchaînements](./Succession denchaînements.md) en don supplémentaire. Il peut utiliser ce don même s’il ne satisfait pas les conditions requises. Un corsaire ne subit pas le malus normal de -2 à sa CA quand il utilise Succession d’enchaînements. Cette aptitude remplace le don supplémentaire que le guerrier obtient au
+Au niveau 6, le corsaire obtient [[Succession denchaînements|Succession d’enchaînements]] en don supplémentaire. Il peut utiliser ce don même s’il ne satisfait pas les conditions requises. Un corsaire ne subit pas le malus normal de -2 à sa CA quand il utilise Succession d’enchaînements. Cette aptitude remplace le don supplémentaire que le guerrier obtient au
 niveau 6.

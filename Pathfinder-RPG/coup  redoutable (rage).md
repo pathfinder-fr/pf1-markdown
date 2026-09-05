@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#COUPREDOUTABLE
 ---
 
->>> [Pouvoirs de rage#COUPREDOUTABLE](./Pouvoirs de rage.md#COUPREDOUTABLE)
+>>> [[Pouvoirs de rage#COUPREDOUTABLE]]

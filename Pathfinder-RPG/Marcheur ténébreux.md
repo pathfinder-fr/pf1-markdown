@@ -14,31 +14,31 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.263*}
 {s:BDTexte|**PX** 76 800}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([extraplanaire](./sous-type extraplanaire.md), [ténébreux](./sous-type Ténébreux.md)) de taille TG, CM}
-{s:BDTexte|**Init** +2 ; **Sens** *[détection de la magie](./Détection de la magie.md)*, [perception à travers les ténèbres](./sous-type Ténébreux.md#PERCEVOIRATRAVERSLESTENEBRES), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +29}
-{s:BDTexte|**Aura** de [profanation](./sous-type Ténébreux.md#AURADEPROFANATION) 9 m (6 {s:c})}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type ténébreux|ténébreux]]) de taille TG, CM}
+{s:BDTexte|**Init** +2 ; **Sens** *[[détection de la magie]]*, [[sous-type ténébreux#PERCEVOIRATRAVERSLESTENEBRES|perception à travers les ténèbres]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +29}
+{s:BDTexte|**Aura** de [[sous-type ténébreux#AURADEPROFANATION|profanation]] 9 m (6 {s:c})}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 31, contact 10, pris au dépourvu 29 (Dex +2, naturelle +21, taille -2)}
 {s:BDTexte|**pv** 241 (21d8+147)}
 {s:BDTexte|**Réf** +11, **Vig** +14, **Vol** +19}
-{s:BDTexte|**Immunités** froid, [traits des morts-vivants](./Traits des morts-vivants.md) ; **RD** 15/Bien et argent ; **RM** 27}
-{s:BDTexte|**Faiblesses** [aversion pour la lumière](./sous-type Ténébreux.md#AVERSIONPOURLALUMIERE)}
+{s:BDTexte|**Immunités** froid, [[traits des morts-vivants]] ; **RD** 15/Bien et argent ; **RM** 27}
+{s:BDTexte|**Faiblesses** [[sous-type ténébreux#AVERSIONPOURLALUMIERE|aversion pour la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 griffes, +28 (3d6+15/19–20 plus 4d6 froid)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [canalisation d’énergie négative](./sous-type Ténébreux.md#CANALISATIONDENERGIE) (8d6, DD 29, 8/ jour), regard de terreur, destruction rapide}
+{s:BDTexte|**Attaques spéciales** [[sous-type ténébreux#CANALISATIONDENERGIE|canalisation d’énergie négative]] (8d6, DD 29, 8/ jour), regard de terreur, destruction rapide}
 {s:BDTexte|**Pouvoirs magiques** (NLS 16 ; concentration +21)}
-{s:BDSorts|Constant — *[détection de la magie](./Détection de la magie.md)*, *[marche dans les airs](./Marche dans les airs.md)*, *[morsure magique](./Morsure magique.md)*}
-{s:BDSorts|À volonté — *[contagion](./Contagion.md)* (DD 19), *[dissipation suprême](./Dissipation suprême.md)*, *[ténèbres maudites](./Ténèbres maudites.md)* (DD 19), *[ténèbres profondes](./Ténèbres profondes.md)*}
-{s:BDSorts|3/jour — *[confusion](./Confusion.md)* (DD 19), *[immobilisation de monstre](./Immobilisation de monstre.md)* (DD 20), *[invisibilité](./Invisibilité.md)*, *[rapidité](./Rapidité.md)*, *[ténèbres maudites](./Ténèbres maudites.md)* en incantation rapide (DD 19)}
-{s:BDSorts|1/jour — *[changement de plan](./Changement de plan.md)* (DD 22), *[cône de froid](./Cône de froid.md)* (DD 20), [convocation](./sous-type Ténébreux.md#CONVOCATION) (niveau 7, 4 [ombres supérieures](./Ombre supérieure.md)), *[doigt de mort](./Doigt de mort.md)* (DD 22)}
+{s:BDSorts|Constant — *[[détection de la magie]]*, *[[marche dans les airs]]*, *[[morsure magique]]*}
+{s:BDSorts|À volonté — *[[contagion]]* (DD 19), *[[dissipation suprême]]*, *[[ténèbres maudites]]* (DD 19), *[[ténèbres profondes]]*}
+{s:BDSorts|3/jour — *[[confusion]]* (DD 19), *[[immobilisation de monstre]]* (DD 20), *[[invisibilité]]*, *[[rapidité]]*, *[[ténèbres maudites]]* en incantation rapide (DD 19)}
+{s:BDSorts|1/jour — *[[changement de plan]]* (DD 22), *[[cône de froid]]* (DD 20), [[sous-type ténébreux#CONVOCATION|convocation]] (niveau 7, 4 [[ombre supérieure|ombres supérieures]]), *[[doigt de mort]]* (DD 22)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 35, **Dex** 14, **Con** —, **Int** 20, **Sag** 21, **Cha** 21}
 {s:BDTexte|**BBA** +15, **BMO** +29, **DMD** 41}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Contrôle des morts-vivants](./Contrôle des morts-vivants.md), [Destruction d’arme supérieure](./Destruction darme supérieure.md), [Expertise du combat](./Expertise du combat.md), [Frappe décisive](./Frappe décisive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (*[ténèbres maudites](./Ténèbres maudites.md)*), [Science de la destruction](./Science de la destruction.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science du critique](./Science du critique.md) (griffes), [Science du désarmement](./Science du désarmement.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +29, [Connaissances](./Connaissances.md) (mystères) +29, [Connaissances](./Connaissances.md) (plans) +26, [Connaissances](./Connaissances.md) (religion) +29, [Discrétion](./Discrétion.md) +18 (+26 dans les ténèbres), [Intimidation](./Intimidation.md) +29, [Natation](./Natation.md) +33, [Perception](./Perception.md) +29, [Psychologie](./Psychologie.md) +29 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md) dans la pénombre et les ténèbres}
-{s:BDTexte|**Langues** abyssal, commun, infernal ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Contrôle des morts-vivants]], [[Destruction darme supérieure|Destruction d’arme supérieure]], [[Expertise du combat]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Pouvoir magique rapide]] (*[[ténèbres maudites]]*), [[Science de la destruction]], [[Science de la frappe décisive]], [[Science du critique]] (griffes), [[Science du désarmement]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +29, [[Connaissances]] (mystères) +29, [[Connaissances]] (plans) +26, [[Connaissances]] (religion) +29, [[Discrétion]] +18 (+26 dans les ténèbres), [[Intimidation]] +29, [[Natation]] +33, [[Perception]] +29, [[Psychologie]] +29 ; **Modificateurs raciaux** +8 en [[Discrétion]] dans la pénombre et les ténèbres}
+{s:BDTexte|**Langues** abyssal, commun, infernal ; [[télépathie]] 30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Plan de l’Énergie négative)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3–4)}
@@ -48,7 +48,7 @@ Categories:
 {s:BDTexte|**Regard de terreur (Sur).** Se recroqueviller sur soi de terreur pendant 1 round, 9 mètres, Volonté DD 25 annule. Il s’agit d’un effet mental de terreur. Le DD du jet de sauvegarde dépend du Charisme.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [ténébreux](./Ténébreux.md).***</li></ul>*Ce géant d’un noir profond possède quelques traits démoniaques, dont une paire de grandes cornes de bélier. Ses bras se terminent par d’impressionnantes lames.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Ténébreux]].***</li></ul>*Ce géant d’un noir profond possède quelques traits démoniaques, dont une paire de grandes cornes de bélier. Ses bras se terminent par d’impressionnantes lames.*
 
 Parmi les ténébreux, ceux qu’on rencontre le plus souvent sont les
 marcheurs ténébreux. Ces puissants ennemis dirigent des armées

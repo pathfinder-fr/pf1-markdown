@@ -41,8 +41,8 @@ C'est pas le gars a cherché la bagarre, mais... Si vous avez l'air un peu bourg
 {s:pucem|Animal|Montagnes|Tempéré}
 {s:BDTexte|*Source : Bestiaire page 9*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Animal](./../Pathfinder-RPG/type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +2 ; *'Sens* ; [Perception](./../Pathfinder-RPG/Perception.md) +12}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +2 ; *'Sens* ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 14, pris au dépourvu 13 (Dex +3, naturelle +2, taille +1)}
 {s:BDTexte|**pv** 32 (5d8+10)}
@@ -53,7 +53,7 @@ C'est pas le gars a cherché la bagarre, mais... Si vous avez l'air un peu bourg
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex**16, **Con** 14, **Int** 2, **Sag** 14, **Cha** 6}
 {s:BDTexte|**BBA** +3, **BMO** +4, **DMD** 17}
-{s:BDTexte|**Dons** [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Perception](./../Pathfinder-RPG/Perception.md) +12, [Vol](./../Pathfinder-RPG/Vol.md) +11 ; **Modificateurs raciaux** [Perception](./../Pathfinder-RPG/Perception.md) +8}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Perception]] +12, [[Vol]] +11 ; **Modificateurs raciaux** [[Perception]] +8}
 - **Capacités spéciales:** lien, tranfert de sorts, esquive totale
 </div>

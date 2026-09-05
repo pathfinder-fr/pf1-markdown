@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage s’est entraîné à intégrer les déplacements magiques dans ses tactiques de combat.*
 
-**Conditions.** [Pas chassé](./Moine.md#PASCHASSE) ou *[porte dimensionnelle](./Porte dimensionnelle.md)*, [Agilité dimensionnelle](./Agilité dimensionnelle.md)
+**Conditions.** [[moine#PASCHASSE|Pas chassé]] ou *[[porte dimensionnelle]]*, [[Agilité dimensionnelle]]
 
-**Avantage.** Le personnage peut utiliser *pas chassé* ou lancer *[porte dimensionnelle](./Porte dimensionnelle.md)* lors d’une [charge](./charge.md) spéciale, ce qui lui permet de se téléporter pour doubler sa [vitesse actuelle](./VD.md) (sur une distance maximale délimitée par le sort ou le pouvoir de classe) et de faire une attaque de charge normale.
+**Avantage.** Le personnage peut utiliser *pas chassé* ou lancer *[[porte dimensionnelle]]* lors d’une [[charge]] spéciale, ce qui lui permet de se téléporter pour doubler sa [[VD|vitesse actuelle]] (sur une distance maximale délimitée par le sort ou le pouvoir de classe) et de faire une attaque de charge normale.

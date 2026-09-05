@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:UI}*Vous êtes doué pour vous déplacer rapidement dans les zones interdites des villes.*
 
-**Conditions.** [Débrouillardise](./Débrouillardise.md)
+**Conditions.** [[Débrouillardise]]
 
-**Avantages.** Le personnage ne considère pas la foule comme un [terrain difficile](./terrain difficile.md). Il obtient également un bonus de +2 aux tests d'[Acrobaties](./Acrobaties.md) pour se déplacer à travers les toits et dans les sections glissantes des ruelles et des égouts.
+**Avantages.** Le personnage ne considère pas la foule comme un [[terrain difficile]]. Il obtient également un bonus de +2 aux tests d'[[Acrobaties]] pour se déplacer à travers les toits et dans les sections glissantes des ruelles et des égouts.

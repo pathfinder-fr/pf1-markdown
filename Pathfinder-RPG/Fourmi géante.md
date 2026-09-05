@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.143*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Vermine|Vermine]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 10, pris au dépourvu 15 (naturelle +5)}
 {s:BDTexte|**pv** 18 (2d8+9)}
@@ -23,18 +23,18 @@ Categories:
 {s:BDTexte|**Immunités** effets mentaux }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c}), escalade 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +3 (1d6+2 et [étreinte](./Étreinte.md)), dard, +3 (1d4+2 et poison)}
+{s:BDTexte|**Corps à corps** morsure, +3 (1d6+2 et [[étreinte]]), dard, +3 (1d4+2 et poison)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 10, **Con** 17, **Int** -, **Sag** 13, **Cha** 11}
-{s:BDTexte|**BBA** +1, **BMO** +3 (+7 [lutte](./lutte.md)), **DMD** 13 (21 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md)<sup>B</sup>}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +10, [Perception](./Perception.md) +5, [Survie](./Survie.md) +5 ; **Modificateurs raciaux** [Perception](./Perception.md) +4, [Survie](./Survie.md) +4}
+{s:BDTexte|**BBA** +1, **BMO** +3 (+7 [[lutte]]), **DMD** 13 (21 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Robustesse]]<sup>B</sup>}
+{s:BDTexte|**Compétences** [[Escalade]] +10, [[Perception]] +5, [[Survie]] +5 ; **Modificateurs raciaux** [[Perception]] +4, [[Survie]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple, groupe (3-6) ou nid (7-18 plus 10-100 ouvrières, 2-8 mâles et 1 reine)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Poison (Ext).** Dard - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 14 ; *fréquence* 1/round pendant 4 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [For](./Force.md) ; *guérison* 1 réussite.}
+{s:BDTexte|**Poison (Ext).** Dard - blessure ; *JS* [[Vigueur]] [[DD]] 14 ; *fréquence* 1/round pendant 4 rounds ; *effet* [[affaiblissement temporaire]] 1d2 [[Force|For]] ; *guérison* 1 réussite.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -43,13 +43,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Fourmi chevalière](./Fourmi chevalière.md) || 4
+| [[Fourmi chevalière]] || 4
 |-
-| [Fourmi géante](./Fourmi géante.md) || 2
+| [[Fourmi géante]] || 2
 |-
-| [Fourmi mégapon](./Fourmi mégapon.md) || 6
+| [[Fourmi mégapon]] || 6
 |-
-| [Nuée de fourmis soldats](./Nuée de fourmis soldats.md) || 5
+| [[Nuée de fourmis soldats]] || 5
 |}
 </div>*Cette fourmi aux aguets a six pattes et est de la taille d’un poney. Elle fait claquer ses mandibules et du venin coule de son dard.*
 
@@ -78,8 +78,8 @@ mais sa vitesse tombe à
 vitesse d’escalade.
 
 #### La fourmi géante comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m (6 {s:c}), escalade 6 m (4 {s:c}); **Attaque** morsure (1d4 plus [étreinte](./Étreinte.md)); **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md); **DMD** croc-en-jambe +8; **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 12, [Con](./Constitution.md) 15, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 10; **CA** armure naturelle +2
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m (6 {s:c}), escalade 6 m (4 {s:c}); **Attaque** morsure (1d4 plus [[étreinte]]); **Particularités** [[odorat]], [[vision nocturne]]; **DMD** croc-en-jambe +8; **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 12, [[Constitution|Con]] 15, [[Intelligence|Int]] –, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 10; **CA** armure naturelle +2
 
 **Développement au niveau 4**
-**Taille** M; **Attaque** aiguillon (1d4 plus poison), morsure (1d6 plus étreinte); **Attaque spéciale** poison (*Fréquence* 1 round (4), *Effet* affaiblissement temporaire 1 [For](./Force.md), *Guérison* 1 jet de sauvegarde, *DD* dépendant de la [Constitution](./Constitution.md)); **Caractéristiques** For +4, Dex -2, Con +2
+**Taille** M; **Attaque** aiguillon (1d4 plus poison), morsure (1d6 plus étreinte); **Attaque spéciale** poison (*Fréquence* 1 round (4), *Effet* affaiblissement temporaire 1 [[Force|For]], *Guérison* 1 jet de sauvegarde, *DD* dépendant de la [[Constitution]]); **Caractéristiques** For +4, Dex -2, Con +2
 </div></td></tr></table>

@@ -13,18 +13,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md), [son](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Dru](./Druide.md) 2, [Hyp](./Hypnotiseur.md) 2, [Psy](./Psychiste.md) 2  
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]], [[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Psychiste|Psy]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cibles** [animaux](./type Animal.md) ou [créatures magiques](./type Créature magique.md) ayant 1 ou 2 en [Intelligence](./Intelligence.md)  
+**Cibles** [[type animal|animaux]] ou [[type créature magique|créatures magiques]] ayant 1 ou 2 en [[Intelligence]]  
 
-**Durée** [concentration](./Présentation des sorts.md#DUREE)  
+**Durée** [[Présentation des sorts#DUREE|concentration]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
-Les gestes hypnotiques du personnage et son chant scandé incitent les [animaux](./type Animal.md) et les [créatures magiques](./type Créature magique.md) à ne rien faire d’autre que le regarder. Seules les créatures ayant 1 ou 2 en [Intelligence](./Intelligence.md) peuvent être affectées. Le personnage [fascine](./Fasciné.md) un total de 2d6 [DV](./../Ressources/DV.md) de créatures, en commençant par les [animaux](./type Animal.md) les plus proches de lui.
+Les gestes hypnotiques du personnage et son chant scandé incitent les [[type animal|animaux]] et les [[type créature magique|créatures magiques]] à ne rien faire d’autre que le regarder. Seules les créatures ayant 1 ou 2 en [[Intelligence]] peuvent être affectées. Le personnage [[fasciné|fascine]] un total de 2d6 [[DV]] de créatures, en commençant par les [[type animal|animaux]] les plus proches de lui.

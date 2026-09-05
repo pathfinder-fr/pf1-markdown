@@ -10,4 +10,4 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire* p.313
 
-Les gobelinoïdes sont des humanoïdes sournois qui vivent de la chasse et de pillages. Ils parlent tous le gobelin et traitent [Discrétion](./Discrétion.md) comme une compétence de classe.
+Les gobelinoïdes sont des humanoïdes sournois qui vivent de la chasse et de pillages. Ils parlent tous le gobelin et traitent [[Discrétion]] comme une compétence de classe.

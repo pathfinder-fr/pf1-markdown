@@ -17,34 +17,34 @@ Categories:
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1 || +1 || +0 || +0 || +1
-| CLASS="gauche" | [Compétence supplémentaire](./Étudiant de la Guerre.md#COMPÉTENCESUPPLÉMENTAIRE), [Connaissance de l’ennemi](./Étudiant de la Guerre.md#CONNAISSANCEDELENNEMI) +1 (action de mouvement)
+| CLASS="gauche" | [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la guerre#CONNAISSANCEDELENNEMI|Connaissance de l’ennemi]] +1 (action de mouvement)
 |-
 | 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [Don de combat](./Étudiant de la Guerre.md#DONDECOMBAT), [L’esprit plus fort que le métal](./Étudiant de la Guerre.md#LESPRITPLUSFORTQUELEMÉTAL)
+| CLASS="gauche" | [[Étudiant de la guerre#DONDECOMBAT|Don de combat]], [[Étudiant de la guerre#LESPRITPLUSFORTQUELEMÉTAL|L’esprit plus fort que le métal]]
 |-
 | 3 || +3 || +1 || +1 || +2
-| CLASS="gauche" | [Anticipation](./Étudiant de la Guerre.md#ANTICIPATION) 1/jour, [Compétence supplémentaire](./Étudiant de la Guerre.md#COMPÉTENCESUPPLÉMENTAIRE)
+| CLASS="gauche" | [[Étudiant de la guerre#ANTICIPATION|Anticipation]] 1/jour, [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]]
 |-
 | 4 || +4 || +1 || +1 || +2
-| CLASS="gauche" | [Connaissance de l’ennemi](./Étudiant de la Guerre.md#CONNAISSANCEDELENNEMI) +2
+| CLASS="gauche" | [[Étudiant de la guerre#CONNAISSANCEDELENNEMI|Connaissance de l’ennemi]] +2
 |-
 | 5 || +5 || +2 || +2 || +3
-| CLASS="gauche" | [Compétence supplémentaire](./Étudiant de la Guerre.md#COMPÉTENCESUPPLÉMENTAIRE), [Don de combat](./Étudiant de la Guerre.md#DONDECOMBAT)
+| CLASS="gauche" | [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la guerre#DONDECOMBAT|Don de combat]]
 |-
 | 6 || +6 || +2 || +2 || +3
-| CLASS="gauche" | [Anticipation](./Étudiant de la Guerre.md#ANTICIPATION) 2/jour, [Coup éloquent](./Étudiant de la Guerre.md#COUPÉLOQUENT)
+| CLASS="gauche" | [[Étudiant de la guerre#ANTICIPATION|Anticipation]] 2/jour, [[Étudiant de la guerre#COUPÉLOQUENT|Coup éloquent]]
 |-
 | 7 || +7 || +2 || +2 || +4
-| CLASS="gauche" | [Compétence supplémentaire](./Étudiant de la Guerre.md#COMPÉTENCESUPPLÉMENTAIRE), [Connaissance de l’ennemi](./Étudiant de la Guerre.md#CONNAISSANCEDELENNEMI) +3 (action rapide)
+| CLASS="gauche" | [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la guerre#CONNAISSANCEDELENNEMI|Connaissance de l’ennemi]] +3 (action rapide)
 |-
 | 8 || +8 || +3 || +3 || +4
-| CLASS="gauche" | [Don de combat](./Étudiant de la Guerre.md#DONDECOMBAT)
+| CLASS="gauche" | [[Étudiant de la guerre#DONDECOMBAT|Don de combat]]
 |-
 | 9 || +9 || +3 || +3 || +5
-| CLASS="gauche" | [Anticipation](./Étudiant de la Guerre.md#ANTICIPATION) 3/jour, [Compétence supplémentaire](./Étudiant de la Guerre.md#COMPÉTENCESUPPLÉMENTAIRE), [Némésis](./Étudiant de la Guerre.md#NÉMÉSIS)
+| CLASS="gauche" | [[Étudiant de la guerre#ANTICIPATION|Anticipation]] 3/jour, [[Étudiant de la guerre#COMPÉTENCESUPPLÉMENTAIRE|Compétence supplémentaire]], [[Étudiant de la guerre#NÉMÉSIS|Némésis]]
 |-
 | 10 || +10 || +3 || +3 || +5
-| CLASS="gauche" | [Coup mortel](./Étudiant de la Guerre.md#COUPMORTEL)
+| CLASS="gauche" | [[Étudiant de la guerre#COUPMORTEL|Coup mortel]]
 |}
 
 **Dé de vie.** d10.
@@ -54,16 +54,16 @@ Pour devenir un Étudiant de la guerre, un personnage doit satisfaire aux condit
 
 **Bonus de Base à l’Attaque.** +5
 
-**Dons.** [Esquive](./Esquive.md), [Expertise du combat](./Expertise du combat.md), [Talent](./Talent.md) (pour n’importe quelle compétence de [Connaissances](./Connaissances.md)).
+**Dons.** [[Esquive]], [[Expertise du combat]], [[Talent]] (pour n’importe quelle compétence de [[Connaissances]]).
 
-**Compétences.** 4 rangs dans deux [Connaissances](./Connaissances.md) (au choix).
+**Compétences.** 4 rangs dans deux [[Connaissances]] (au choix).
 
 **Spécial.** Le personnage doit avoir réussi des tests de Connaissances contre cinq créatures différentes avant de les vaincre.
 
 ### Compétences de classe
-Voici les compétences de classe de l’Étudiant de la guerre : [Art de la Magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Sag), [Connaissances](./Connaissances.md) (toutes) (Int), [Dressage](./Dressage.md) (Cha), [Escalade](./Escalade.md) (For), [Linguistique](./Linguistique.md) (Int), [Natation](./Natation.md) (For), [Perception](./Perception.md) (Sag), [Profession](./Profession.md) (Sag), [Psychologie](./Psychologie.md) (Sag), [Sabotage](./Sabotage.md) (Dex) et [Survie](./Survie.md) (Sag).
+Voici les compétences de classe de l’Étudiant de la guerre : [[Art de la Magie]] (Int), [[Artisanat]] (Sag), [[Connaissances]] (toutes) (Int), [[Dressage]] (Cha), [[Escalade]] (For), [[Linguistique]] (Int), [[Natation]] (For), [[Perception]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag), [[Sabotage]] (Dex) et [[Survie]] (Sag).
 
-**Points de compétence par niveau.** 6 + bonus d’[Intelligence](./Intelligence.md)
+**Points de compétence par niveau.** 6 + bonus d’[[Intelligence]]
 
 ### Caractéristiques de la classe
 Voici les particularités et aptitudes de la classe de prestige d’Étudiant de la guerre.
@@ -76,39 +76,39 @@ Au niveau 1 et tous les niveaux impairs par la suite, un Étudiant de la guerre 
 #### Connaissance de l’ennemi (Ext)
 En prenant le temps d’étudier ses ennemis, l’étudiant de la guerre gagne une intuition pour connaître leurs faiblesses.
 
-Par une [action de mouvement](./Action de mouvement.md), il peut étudier un ennemi qu’il peut voir et faire un test de [Connaissances](./Connaissances.md) approprié au type de la créature ([DD](./DD.md) 10 + les [DV](./../Ressources/DV.md) de la cible). Le succès procure un bonus d’intuition de +1 contre son ennemi. Ce bonus d’intuition peut être appliqué à l’une des positions suivantes :
-- ***Position martiale.*** le bonus s'applique aux [jets d’attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) contre la cible ; Au niveau 4, on considère que l’Étudiant de la guerre dispose de [Don pour les critiques](./Don pour les critiques.md) lorsqu'il effectue des attaques contre l’ennemi étudié. S'il possède déjà ce don, le test pour confirmer le [coup critique](./coup critique.md) s'effectue avec un bonus de +6.
-- ***Position défensive.*** le bonus s'applique à la [CA](./CA.md) et aux [jets de sauvegarde](./JDS.md) contre les attaques de l'ennemi étudié. Au niveau 6, on considère que l’Étudiant de la guerre dispose du don [Souplesse du serpent](./Souplesse du serpent.md) lorsqu'il provoque des [attaques d’opportunité](./AO.md) de la part de l’ennemi étudié. S'il dispose déjà de ce don, le bonus qu'il obtient à la CA passe à +6.
-- ***Position tactique.*** le bonus s'applique au [BMO](./BMO.md) et au [DMD](./DMD.md) quand le personnage est à l’origine ou se défend contre des manœuvres de [bousculade](./bousculade.md), [croc-en-jambe](./croc-en-jambe.md), [désarmement](./désarmement.md), [lutte](./lutte.md) ou de [renversement](./renversement.md). Au niveau 8, l’étudiant ne provoque plus d’[attaque d’opportunité](./AO.md) de la part d’un ennemi étudié quand il tente une manœuvre de bousculade, croc-en-jambe, désarmement, lutte ou de renversement ; ceci n’affecte pas les attaques d’opportunité faites par une créature autre que l’ennemi étudié.
+Par une [[action de mouvement]], il peut étudier un ennemi qu’il peut voir et faire un test de [[Connaissances]] approprié au type de la créature ([[DD]] 10 + les [[DV]] de la cible). Le succès procure un bonus d’intuition de +1 contre son ennemi. Ce bonus d’intuition peut être appliqué à l’une des positions suivantes :
+- ***Position martiale.*** le bonus s'applique aux [[jet dattaque|jets d’attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] contre la cible ; Au niveau 4, on considère que l’Étudiant de la guerre dispose de [[Don pour les critiques]] lorsqu'il effectue des attaques contre l’ennemi étudié. S'il possède déjà ce don, le test pour confirmer le [[coup critique]] s'effectue avec un bonus de +6.
+- ***Position défensive.*** le bonus s'applique à la [[CA]] et aux [[jds|jets de sauvegarde]] contre les attaques de l'ennemi étudié. Au niveau 6, on considère que l’Étudiant de la guerre dispose du don [[Souplesse du serpent]] lorsqu'il provoque des [[AO|attaques d’opportunité]] de la part de l’ennemi étudié. S'il dispose déjà de ce don, le bonus qu'il obtient à la CA passe à +6.
+- ***Position tactique.*** le bonus s'applique au [[BMO]] et au [[DMD]] quand le personnage est à l’origine ou se défend contre des manœuvres de [[bousculade]], [[croc-en-jambe]], [[désarmement]], [[lutte]] ou de [[renversement]]. Au niveau 8, l’étudiant ne provoque plus d’[[AO|attaque d’opportunité]] de la part d’un ennemi étudié quand il tente une manœuvre de bousculade, croc-en-jambe, désarmement, lutte ou de renversement ; ceci n’affecte pas les attaques d’opportunité faites par une créature autre que l’ennemi étudié.
 
-Un Étudiant de la guerre peut changer de position par une [action de mouvement](./Action de mouvement.md). Le bonus dure une minute par niveau de classe ou jusqu’à ce que le personnage utilise cette capacité sur une autre cible.
+Un Étudiant de la guerre peut changer de position par une [[action de mouvement]]. Le bonus dure une minute par niveau de classe ou jusqu’à ce que le personnage utilise cette capacité sur une autre cible.
 
 Le bonus augmente pour atteindre +2 au niveau 4 et +3 au niveau 7.
 
-Au niveau 7, l’étudiant peut utiliser cette capacité par une [action rapide](./Action rapide.md) plutôt qu’une [action de mouvement](./Action de mouvement.md).
+Au niveau 7, l’étudiant peut utiliser cette capacité par une [[action rapide]] plutôt qu’une [[action de mouvement]].
 
 {s:Reference|DONDECOMBAT}
 #### Don de combat
-Aux niveaux 2, 5 et 8, un étudiant de la guerre gagne un [don de combat](./Dons.md#DONCOMBAT) supplémentaire.
+Aux niveaux 2, 5 et 8, un étudiant de la guerre gagne un [[Dons#DONCOMBAT|don de combat]] supplémentaire.
 
 {s:Reference|LESPRITPLUSFORTQUELEMÉTAL}
 #### L’esprit plus fort que le métal (Ext)
-Un étudiant de la guerre de niveau 2 est entraîné à prendre des coups de façon à ce que son armure ou son bouclier les dévie sans lui causer de dégâts. Quand il emploie une armure ou un bouclier, il peut utiliser son modificateur d’[Intelligence](./Intelligence.md) au lieu de son modificateur de [Dextérité](./Dextérité.md) pour déterminer sa [classe d’armure](./CA.md). Le bonus de Dextérité maximum normal de l’armure s’applique toujours (ce qui limite également la portion du bonus d’Intelligence du personnage qu'il peut appliquer à sa CA).
+Un étudiant de la guerre de niveau 2 est entraîné à prendre des coups de façon à ce que son armure ou son bouclier les dévie sans lui causer de dégâts. Quand il emploie une armure ou un bouclier, il peut utiliser son modificateur d’[[Intelligence]] au lieu de son modificateur de [[Dextérité]] pour déterminer sa [[CA|classe d’armure]]. Le bonus de Dextérité maximum normal de l’armure s’applique toujours (ce qui limite également la portion du bonus d’Intelligence du personnage qu'il peut appliquer à sa CA).
 
 {s:Reference|ANTICIPATION}
 #### Anticipation (Ext)
-Un étudiant de la guerre de niveau 3 peut anticiper les mouvements de son ennemi. Une fois par jour par une [action immédiate](./Action immédiate.md), il peut ignorer tout dégât ou effet dû à un sort ou une capacité contre lequel il a réussi un [jet de sauvegarde](./jet de sauvegarde.md), tel que l’effet d’enchevêtrement d’un sort de *[toile d'araignée](./Toile daraignée.md)* ou la moitié des dégâts du sort *[blessure légère](./Blessure légère.md)*. Cette capacité ne fonctionne pas contre les effets qui ne permettent pas de jet de sauvegarde (comme *[ténèbres](./Ténèbres.md)*, le [terrain difficile](./terrain difficile.md), etc.)
+Un étudiant de la guerre de niveau 3 peut anticiper les mouvements de son ennemi. Une fois par jour par une [[action immédiate]], il peut ignorer tout dégât ou effet dû à un sort ou une capacité contre lequel il a réussi un [[jet de sauvegarde]], tel que l’effet d’enchevêtrement d’un sort de *[[toile daraignée|toile d'araignée]]* ou la moitié des dégâts du sort *[[blessure légère]]*. Cette capacité ne fonctionne pas contre les effets qui ne permettent pas de jet de sauvegarde (comme *[[ténèbres]]*, le [[terrain difficile]], etc.)
 
 Cette capacité est utilisable une fois supplémentaire par jour au niveau 6 puis au niveau 9.
 
 {s:Reference|COUPÉLOQUENT}
 #### Coup éloquent (Ext)
-Au niveau 6, un Étudiant de la guerre peut porter ses coups en visant le point le plus faible dans la défense de l’ennemi étudié, ignorant jusqu’à 5 points de sa [réduction des dégâts](./RD.md). Ceci ne s’applique pas à la réduction de dégâts sans type (tel que RD 10/–). Cette capacité ne peut pas être utilisée contre des créatures qui sont immunisées aux [coups critiques](./coup critique.md) ou qui sont par ailleurs dépourvues de points faibles discernables. Cette capacité se cumule avec le don [Frappe puissante](./Frappe puissante.md).
+Au niveau 6, un Étudiant de la guerre peut porter ses coups en visant le point le plus faible dans la défense de l’ennemi étudié, ignorant jusqu’à 5 points de sa [[RD|réduction des dégâts]]. Ceci ne s’applique pas à la réduction de dégâts sans type (tel que RD 10/–). Cette capacité ne peut pas être utilisée contre des créatures qui sont immunisées aux [[coup critique|coups critiques]] ou qui sont par ailleurs dépourvues de points faibles discernables. Cette capacité se cumule avec le don [[Frappe puissante]].
 
 {s:Reference|NÉMÉSIS}
 #### Némésis (Sur)
-Au niveau 9, un Étudiant de la guerre peut se concentrer sur une arme qu'il tient en main par une [action rapide](./Action rapide.md), la rendant très efficace contre l'ennemi étudié. L’arme gagne la propriété *[tueuse](./tueuse (propriété).md)* contre la créature pendant 1 minute, ou jusqu’à ce que l’étudiant de la guerre utilise [connaissance de l’ennemi](./Étudiant de la Guerre.md#CONNAISSANCEDELENNEMI) sur un adversaire différent. Némésis est utilisable une fois par jour.
+Au niveau 9, un Étudiant de la guerre peut se concentrer sur une arme qu'il tient en main par une [[action rapide]], la rendant très efficace contre l'ennemi étudié. L’arme gagne la propriété *[[tueuse (propriété)|tueuse]]* contre la créature pendant 1 minute, ou jusqu’à ce que l’étudiant de la guerre utilise [[Étudiant de la guerre#CONNAISSANCEDELENNEMI|connaissance de l’ennemi]] sur un adversaire différent. Némésis est utilisable une fois par jour.
 
 {s:Reference|COUPMORTEL}
 #### Coup mortel (Sur)
-Au niveau 10, la conscience qu’a l’étudiant de son ennemi étudié lui permet de trouver des points faibles là où il ne devrait pas en exister. Un Étudiant de la guerre qui utilise sa capacité [connaissance de l’ennemi](./Étudiant de la Guerre.md#CONNAISSANCEDELENNEMI) et dépasse de 10 ou plus le [DD](./DD.md) du jet de [Connaissances](./Connaissances.md) peut ignorer la [réduction de dégâts](./RD.md) naturelle de la cible ainsi que son immunité aux [coups critiques](./coup critique.md) et aux [attaques sournoises](./attaque sournoise.md). Ceci ne s’applique pas aux immunités accordées par des sorts, des effets environnementaux ou de l’équipement.
+Au niveau 10, la conscience qu’a l’étudiant de son ennemi étudié lui permet de trouver des points faibles là où il ne devrait pas en exister. Un Étudiant de la guerre qui utilise sa capacité [[Étudiant de la guerre#CONNAISSANCEDELENNEMI|connaissance de l’ennemi]] et dépasse de 10 ou plus le [[DD]] du jet de [[Connaissances]] peut ignorer la [[RD|réduction de dégâts]] naturelle de la cible ainsi que son immunité aux [[coup critique|coups critiques]] et aux [[attaque sournoise|attaques sournoises]]. Ceci ne s’applique pas aux immunités accordées par des sorts, des effets environnementaux ou de l’équipement.

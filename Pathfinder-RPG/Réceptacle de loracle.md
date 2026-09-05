@@ -7,18 +7,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md); **Niveau** [Prê](./Prêtre.md) 4  
+**École** [[Transmutation]]; **Niveau** [[Prêtre|Prê]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
 **Durée** 1 minute/niveau  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-La cible gagne tout les avantages de [la malédiction de l’oracle](./Oracle.md#MALEDICTIONDELORACLE), sans aucun malus. Dans certains cas, ceci n’a aucun effet (par exemple un [guerrier](./Guerrier.md) qui reçoit la malédiction hanté ne peut pas lancer de sorts et les sorts connus supplémentaires ne lui servent donc à rien).
+La cible gagne tout les avantages de [[oracle#MALEDICTIONDELORACLE|la malédiction de l’oracle]], sans aucun malus. Dans certains cas, ceci n’a aucun effet (par exemple un [[guerrier]] qui reçoit la malédiction hanté ne peut pas lancer de sorts et les sorts connus supplémentaires ne lui servent donc à rien).

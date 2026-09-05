@@ -10,27 +10,27 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Inq](./Inquisiteur.md) 3, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (viande avariée)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+{s:APG}**École** [[Nécromancie]] ; **Niveau** [[Inquisiteur|Inq]] 3, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, M]] (viande avariée)
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cible** une créature vivante
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ou 1 [round](./round.md), voir texte
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Durée** 1 [[round]]/[[niveau]] ou 1 [[round]], voir texte
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 ---
-Des énergies nécrotiques s'insinuent dans la cible et bloquent ses capacités de guérison. Le sujet gagne une [résistance à la magie](./RM.md) de 12 + [niveau du lanceur de sorts](./NLS.md) contre les effets qui rendent des points de vie ou en accordent temporairement. De plus, tout soin apporté par un effet qui ignore la [résistance à la magie](./RM.md) (comme la [guérison accélérée](./guérison accélérée.md), la [régénération](./Régénération.md) et quelques sorts) sont réduits de moitié. Si la cible réussit un jet de [Vigueur](./Vigueur.md), *purulence* ne dure qu'un [round](./round.md).
+Des énergies nécrotiques s'insinuent dans la cible et bloquent ses capacités de guérison. Le sujet gagne une [[RM|résistance à la magie]] de 12 + [[NLS|niveau du lanceur de sorts]] contre les effets qui rendent des points de vie ou en accordent temporairement. De plus, tout soin apporté par un effet qui ignore la [[RM|résistance à la magie]] (comme la [[guérison accélérée]], la [[régénération]] et quelques sorts) sont réduits de moitié. Si la cible réussit un jet de [[Vigueur]], *purulence* ne dure qu'un [[round]].
 
 
 
 ((({s:sortssimilaires|purulence}
-## [Purulence de groupe](./Purulence de groupe.md)
-{s:APG}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Inq](./Inquisiteur.md) 6, [Sor](./Sorcière.md) 6
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (viande avariée)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Cible** une créature/[niveau](./niveau.md), qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ou 1 [round](./round.md), voir texte
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+## [[Purulence de groupe]]
+{s:APG}**École** [[Nécromancie]] ; **Niveau** [[Inquisiteur|Inq]] 6, [[Sorcière|Sor]] 6
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, M]] (viande avariée)
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
+**Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres
+**Durée** 1 [[round]]/[[niveau]] ou 1 [[round]], voir texte
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[purulence](./Purulence.md)* mais il affecte plusieurs créatures.
+Ce sort fonctionne comme *[[purulence]]* mais il affecte plusieurs créatures.
 )))

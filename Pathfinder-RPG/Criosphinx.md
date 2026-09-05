@@ -10,34 +10,34 @@ LastModified: 2021-04-11 10:46
 {s:pucem|Créature magique|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 p246*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 9, pris au dépourvu 20 (naturelle +11, taille -1)}
 {s:BDTexte|**pv** 85 (10d10+30)}
 {s:BDTexte|**Réf** +7, **Vig** +10, **Vol** +4}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 9 m (6 {s:c}), [vol](./Vol (capacité).md) 18 m (12 {s:c}) (médiocre)}
+{s:BDTexte|**VD** 9 m (6 {s:c}), [[Vol (capacité)|vol]] 18 m (12 {s:c}) (médiocre)}
 {s:BDTexte|**Corps à corps** 2 griffes, +15 (1d6+6) et corne, +16 (2d4+6/19-20)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
 {s:BDTexte|**Attaques spéciales** charge en piqué (corne, 4d4+12)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 10 ; concentration +10)}
-{s:BDSorts|Constant —*[communication avec les animaux](./Communication avec les animaux.md)*}
+{s:BDSorts|Constant —*[[communication avec les animaux]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 10, **Con** 17, **Int** 12, **Sag** 12, **Cha** 11}
 {s:BDTexte|**BBA** +10 ; **BMO** +17 ; **DMD** 27 (31 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (corne), [Attaque en puissance](./Attaque en puissance.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (corne), [Talent](./Talent.md) ([Intimidation](./Intimidation.md))}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +10, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +10, [Vol](./Vol.md) +1}
-{s:BDTexte|**Langues** commun, sphinx ; *[communication avec les animaux](./Communication avec les animaux.md)*}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (corne), [[Attaque en puissance]], [[Science de la bousculade]], [[Science du critique]] (corne), [[Talent]] ([[Intimidation]])}
+{s:BDTexte|**Compétences** [[Bluff]] +10, [[Intimidation]] +16, [[Perception]] +10, [[Vol]] +1}
+{s:BDTexte|**Langues** commun, sphinx ; *[[communication avec les animaux]]*}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines ou déserts chauds}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Charge en piqué (Ext).** Un criosphinx qui [charge](./charge.md) inflige 4d4+12 points de dégâts avec son attaque de corne. Un criosphinx en vol qui se laisse tomber d’au moins 6 mètres lorsqu’il charge inflige 6d4+18 points de dégâts.}
+{s:BDTexte|**Charge en piqué (Ext).** Un criosphinx qui [[charge]] inflige 4d4+12 points de dégâts avec son attaque de corne. Un criosphinx en vol qui se laisse tomber d’au moins 6 mètres lorsqu’il charge inflige 6d4+18 points de dégâts.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [sphinx](./../Golarion/Sphinx.md).***</li></ul>*Cette créature a des ailes d’oiseau, un corps de lion et une tête de bélier aux yeux emplis de tristesse et de sagesse.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Sphinx]].***</li></ul>*Cette créature a des ailes d’oiseau, un corps de lion et une tête de bélier aux yeux emplis de tristesse et de sagesse.*
 
 Peut-être les moins léonins de tous les sphinx, les criosphinx à tête de bélier n’ont pas l’intelligence des
 androsphinx et des gynosphinx mais sont tout de même plus futés que les hiéracosphinx. Comme ces derniers et comme les androsphinx, les criosphinx sont toujours des mâles. Lorsqu’un combat commence, le criosphinx baisse la tête pour

@@ -4,9 +4,9 @@ Title: Calendrier et célébrations de Golarion
 LastModified: 2022-10-31 11:10
 ---
 
-Les habitants de la région de la [mer Intérieure](./mer Intérieure.md) utilisent le calendrier dit "d'[Absalom](./Absalom.md)" qui fait correspondre le premier jour de l'an 1 (c'est-à-dire le 1er abadius de l'an 1) avec le jour de la création d'[Absalom](./Absalom.md). S'il est nécessaire de préciser qu'on utilise le calendrier d'Absalom, on fait suivre l'année des lettres CA (calendrier d'Absalom) ou AR (Absalom Reckoning).
+Les habitants de la région de la [[mer Intérieure]] utilisent le calendrier dit "d'[[Absalom]]" qui fait correspondre le premier jour de l'an 1 (c'est-à-dire le 1er abadius de l'an 1) avec le jour de la création d'[[Absalom]]. S'il est nécessaire de préciser qu'on utilise le calendrier d'Absalom, on fait suivre l'année des lettres CA (calendrier d'Absalom) ou AR (Absalom Reckoning).
 
-Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 28, 30 ou 31 jours (comme le calendrier usuel). Pour mieux coller aux cycles des planètes du [système solaire](./système solaire.md) de Golarion, certaines années sont bissextiles et comportent un jour de plus (placé à la fin du mois de calistril). Les jours sont groupés en semaines de 7 jours.
+Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 28, 30 ou 31 jours (comme le calendrier usuel). Pour mieux coller aux cycles des planètes du [[système solaire]] de Golarion, certaines années sont bissextiles et comportent un jour de plus (placé à la fin du mois de calistril). Les jours sont groupés en semaines de 7 jours.
 
 {| CLASS="tablo centre toutgauche"
 |+ JOURS DE LA SEMAINE
@@ -30,7 +30,7 @@ Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 
 | 7 || repos, religion || sunday (jour du soleil), solardi
 |}
 
-*Voir aussi la feuille du temps sur la page des [Aides de jeu](./Aides de jeu.md) pour Golarion.*
+*Voir aussi la feuille du temps sur la page des [[Aides de jeu]] pour Golarion.*
 
 ### Les mois de l'année
 
@@ -71,7 +71,7 @@ Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 
 </td><td style="width: 1%"></td><td style="width: 24%; text-align: center">
 {s:BlocDébut100|Calistril (février)}
 {s:BlocItem|1|}
-{s:BlocItem|2| [Fête de la bière](./Fête de la bière.md) (Merrymead)}
+{s:BlocItem|2| [[Fête de la bière]] (Merrymead)}
 {s:BlocItem|3|}
 {s:BlocItem|4|}
 {s:BlocItem|5|}
@@ -149,7 +149,7 @@ Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 
 {s:BlocItem|12|}
 {s:BlocItem|13|}
 {s:BlocItem|14|}
-{s:BlocItem|15|[Fête des taxes](./Fête des taxes.md) (Taxfest)}
+{s:BlocItem|15|[[Fête des taxes]] (Taxfest)}
 {s:BlocItem|16|}
 {s:BlocItem|17|}
 {s:BlocItem|18|}
@@ -239,7 +239,7 @@ Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 
 {s:BlocDébut100|Érastus (juillet)}
 {s:BlocItem|1|}
 {s:BlocItem|2|}
-{s:BlocItem|3|[Fête de l'Archer](./Fete de l Archer.md) (Archerfeast)}
+{s:BlocItem|3|[[Fete de l Archer|Fête de l'Archer]] (Archerfeast)}
 {s:BlocItem|4|}
 {s:BlocItem|5|}
 {s:BlocItem|6|}
@@ -327,7 +327,7 @@ Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 
 {s:BlocItem|18|}
 {s:BlocItem|19|}
 {s:BlocItem|20|}
-{s:BlocItem|21|[Festival du Machaon (Desna)](./Festival-de-Machahon-(Desna).md) (Équinoxe d'automne)}
+{s:BlocItem|21|[[Festival de Machahon (Desna)|Festival du Machaon (Desna)]] (Équinoxe d'automne)}
 {s:BlocItem|22|}
 {s:BlocItem|23|}
 {s:BlocItem|24|}
@@ -345,7 +345,7 @@ Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 
 {s:BlocItem|3|}
 {s:BlocItem|4|}
 {s:BlocItem|5|}
-{s:BlocItem|6|[Fête de l'Ascension (Iomédae)](./Fête de lAscension (Iomédae).md) (Ascendance Day)}
+{s:BlocItem|6|[[Fête de lAscension (Iomédae)|Fête de l'Ascension (Iomédae)]] (Ascendance Day)}
 {s:BlocItem|7|}
 {s:BlocItem|8|}
 {s:BlocItem|9|}
@@ -366,7 +366,7 @@ Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 
 {s:BlocItem|24|}
 {s:BlocItem|25|}
 {s:BlocItem|26|}
-{s:BlocItem|27| [Jestercap](./Jestercap.md) (fête du bouffon)}
+{s:BlocItem|27| [[Jestercap]] (fête du bouffon)}
 {s:BlocItem|28|}
 {s:BlocItem|29|}
 {s:BlocItem|30|}
@@ -391,12 +391,12 @@ Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 
 {s:BlocItem|15|}
 {s:BlocItem|16|}
 {s:BlocItem|17|}
-{s:BlocItem|18|[Fête de l’Évocation](./Fête de l’Évocation.md) (Evoking day)}
+{s:BlocItem|18|[[Fête de l’Évocation]] (Evoking day)}
 {s:BlocItem|19|}
 {s:BlocItem|20|}
 {s:BlocItem|21|}
 {s:BlocItem|22|}
-{s:BlocItem|23| [Fête des Sept Voiles](./Fête des Sept Voiles.md) (Seven Veils)}
+{s:BlocItem|23| [[Fête des Sept Voiles]] (Seven Veils)}
 {s:BlocItem|24|}
 {s:BlocItem|25|}
 {s:BlocItem|26|}
@@ -427,7 +427,7 @@ Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 
 {s:BlocItem|18|}
 {s:BlocItem|19|}
 {s:BlocItem|20|}
-{s:BlocItem|21|Solstice d'hiver - [Fête du Cristal](./Fête du Cristal.md) (Crystalhue Holiday)}
+{s:BlocItem|21|Solstice d'hiver - [[Fête du Cristal]] (Crystalhue Holiday)}
 {s:BlocItem|22|}
 {s:BlocItem|23|}
 {s:BlocItem|24|}
@@ -437,6 +437,6 @@ Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 
 {s:BlocItem|28|}
 {s:BlocItem|29|}
 {s:BlocItem|30|}
-{s:BlocItemSans|31|[Nuit Pâle](./Nuit Pâle.md) (Night of the Pale)}
+{s:BlocItemSans|31|[[Nuit Pâle]] (Night of the Pale)}
 {s:BlocFin}
 </td></tr></table>

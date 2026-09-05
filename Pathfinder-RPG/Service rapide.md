@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous pouvez rapidement profiter de votre charme.*
 
-**Conditions.** [Persuasion](./Persuasion.md)
+**Conditions.** [[Persuasion]]
 
-**Avantages.** Une fois par jour, le personnage peut réduire le temps nécessaire à un test de [Diplomatie](./Diplomatie.md) pour rassembler des informations à 4d10 minutes lorsqu'il utilise la Diplomatie pour rassembler des informations à nouveau au même endroit (que la précédente tentative soit un succès ou non).
+**Avantages.** Une fois par jour, le personnage peut réduire le temps nécessaire à un test de [[Diplomatie]] pour rassembler des informations à 4d10 minutes lorsqu'il utilise la Diplomatie pour rassembler des informations à nouveau au même endroit (que la précédente tentative soit un succès ou non).
 
-**Normal.** Il faut consacrer 1d4 heures pour rassembler des informations avec la compétence [Diplomatie](./Diplomatie.md).
+**Normal.** Il faut consacrer 1d4 heures pour rassembler des informations avec la compétence [[Diplomatie]].

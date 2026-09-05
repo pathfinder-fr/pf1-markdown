@@ -7,4 +7,4 @@ Categories:
 RedirectTo: type Vase
 ---
 
->>> [type Vase](./type Vase.md)
+>>> [[type Vase]]

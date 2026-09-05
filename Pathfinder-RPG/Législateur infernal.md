@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:BotD}*Vous pouvez conjurer instantanément un contrat infernal.*
 
-**Conditions.** Sous-type [diable](./sous-type diable.md)
+**Conditions.** Sous-type [[sous-type diable|diable]]
 
-**Avantage.** Par une [action complexe](./Action complexe.md), le personnage peut produire un contrat infernal. Pour bénéficier des avantages du contrat, une créature mortelle doit le signer de son nom et de son plein gré. Lorsqu'elle le fait, l'âme de ce mortel est vouée à l'Enfer. Tant que le contrat infernal reste en vigueur, la victime ne peut être ramenée à la vie après la mort, sauf par un *[miracle](./Miracle.md)* ou un *[souhait](./Souhait.md)*. Si le mortel est ramené à la vie, le personnage le ressent immédiatement et bénéficie des effets d'un sort de *[localisation suprême](./Localisation suprême.md)* ciblant la créature ressuscitée.
+**Avantage.** Par une [[action complexe]], le personnage peut produire un contrat infernal. Pour bénéficier des avantages du contrat, une créature mortelle doit le signer de son nom et de son plein gré. Lorsqu'elle le fait, l'âme de ce mortel est vouée à l'Enfer. Tant que le contrat infernal reste en vigueur, la victime ne peut être ramenée à la vie après la mort, sauf par un *[[miracle]]* ou un *[[souhait]]*. Si le mortel est ramené à la vie, le personnage le ressent immédiatement et bénéficie des effets d'un sort de *[[localisation suprême]]* ciblant la créature ressuscitée.

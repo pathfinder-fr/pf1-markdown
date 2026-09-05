@@ -10,13 +10,13 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Chapeau de haine|{s:AE}}
-**Aura** [Illusion](./Illusion.md) modérée; **NLS** 10 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Poids** —
+**Aura** [[Illusion]] modérée; **NLS** 10 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Poids** —
 (((Description)))
-Ce chapeau se comporte exactement comme un [couvre-chef de déguisement](./Couvre-chef de déguisement.md) jusqu’à ce que son propriétaire tente de l’utiliser pour se déguiser en présence d’une créature hostile. Le chapeau lui donne alors l’apparence de l’être que cette créature souhaite le plus blesser. Le chapeau ne donne jamais à son porteur l’apparence de quelqu’un que la créature hostile n’oserait pas attaquer si elle en avait l’opportunité (comme par exemple le très redouté grand prêtre du temple local).
+Ce chapeau se comporte exactement comme un [[couvre-chef de déguisement]] jusqu’à ce que son propriétaire tente de l’utiliser pour se déguiser en présence d’une créature hostile. Le chapeau lui donne alors l’apparence de l’être que cette créature souhaite le plus blesser. Le chapeau ne donne jamais à son porteur l’apparence de quelqu’un que la créature hostile n’oserait pas attaquer si elle en avait l’opportunité (comme par exemple le très redouté grand prêtre du temple local).
 Une fois que le chapeau a révélé ses véritables pouvoirs, il ne répond plus aux demandes de changement de déguisement de son propriétaire. Au lieu de cela, il lui donne automatiquement l’apparence de quelqu’un de connu et de méprisé par ceux qui le voient, en rajoutant quelques illusions pour lui donner un air perdu, blessé ou affaibli. Par exemple, dans un antre gobelin, le porteur du chapeau aura l’apparence du chef de la tribu, mais somnolent et vulnérable. Dans un village humain, il prendra l’apparence du tyran local, mais ivre et titubant. Dans une communauté maléfique, il pourra ressembler à un visiteur confus qui ferait une victime idéale pour toutes sortes de crimes.
 Il faut recourir à une magie capable de lever les malédictions pour se débarrasser du chapeau.
 (((Objet magique prévu)))
-[couvre-chef de déguisement](./Couvre-chef de déguisement.md)
+[[couvre-chef de déguisement]]
 </div>

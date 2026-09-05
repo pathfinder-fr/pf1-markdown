@@ -10,11 +10,11 @@ LastModified: 2025-03-25 10:08
 <i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
 </div>
 <div class="contenumenuPF2">
-[Règles](./ADJ.md)
-[Personnages](./ADJ-PJ.md)
-[Pour les MJ](./ADJ-MJ.md)
-[FoundryVTT](./ADJ-FVTT.md)
-[Liens](./ADJ-Liens.md)
+[[ADJ|Règles]]
+[[ADJ-PJ|Personnages]]
+[[ADJ-MJ|Pour les MJ]]
+[[ADJ-FVTT|FoundryVTT]]
+[[ADJ-Liens|Liens]]
 </div>
 </div>
 
@@ -48,7 +48,7 @@ LastModified: 2025-03-25 10:08
 
 <div class="itemmenu">
 
-{s:ItemPF2|PF2 remaster|Nouvelle terminologie pour PF2 remaster, extraites de Foundry par Cheps à partir de la traduction de fans disponible sur [^https://pf2e.pathfinder-fr.org/remaster-changes|https://pf2e.pathfinder-fr.org/remaster-changes]|https://pf2e.pathfinder-fr.org/remaster-changes|https://cdn.paizo.com/image/product/catalog/PZO/PZO12002.png}
+{s:ItemPF2|PF2 remaster|Nouvelle terminologie pour PF2 remaster, extraites de Foundry par Cheps à partir de la traduction de fans disponible sur [https://pf2e.pathfinder-fr.org/remaster-changes](https://pf2e.pathfinder-fr.org/remaster-changes)|https://pf2e.pathfinder-fr.org/remaster-changes|https://cdn.paizo.com/image/product/catalog/PZO/PZO12002.png}
 
 {s:ItemPF2|PF2e Cheat Sheet (VF)|Cheat sheet des actions et activités PF2 par PhoebusDF (en VF et en VO, plus d'information [ici](https://www.reddit.com/r/Pathfinder2e/comments/13b9ta7/fr_v17_pathfinder_2e_cheatsheet_pour_les_actions/) sur Reddit - lien vers Google Drive)|https://drive.google.com/drive/folders/1W6rgJrdMwK1IH04u6nsOhc2SrY8O1P-2|/wiki/public/Upload/Illustrations/Wiki/PF2/Img/vig pf2eCheatsheet.webp}
 
@@ -66,9 +66,9 @@ LastModified: 2025-03-25 10:08
 
 {s:ItemPF2|Activités d'exploration|Résumé des activités d'exploration par Mr.Fred : [PDF](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/resume_activites_v1.pdf) ou [PNG](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/resume_activites_v1_1920p.png) ou [PNG 4K](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/resume_activites_v1_4k.png)|/Wiki/public/Upload/ADJ/PF2/resume_activites_v1.pdf|/Wiki/public/Upload/ADJ/PF2/resume_activites_v1.jpg}
 
-{s:ItemPF2|Résumé des règles|Résumé introductif aux règles par Resorb : [Fichier PDF](.//Wiki/public/Upload/ADJ/PF2/PF2-initiation-règles-pdf.md)|/Wiki/public/Upload/ADJ/PF2/PF2 initiation règles.pdf|/Wiki/public/Upload/ADJ/PF2/PF2 initiation règles.jpg}
+{s:ItemPF2|Résumé des règles|Résumé introductif aux règles par Resorb : [[/Wiki/public/Upload/ADJ/PF2/PF2 initiation règles.pdf|Fichier PDF]]|/Wiki/public/Upload/ADJ/PF2/PF2 initiation règles.pdf|/Wiki/public/Upload/ADJ/PF2/PF2 initiation règles.jpg}
 
-{s:ItemPF2|Cartes de sorts|Cartes des sorts du Guide Avancé par Lirot : [primordial](.//Wiki/public/Upload/ADJ/PF2/Deck_Primordial_PAG-zip.md), [occulte](.//Wiki/public/Upload/ADJ/PF2/Deck_Occulte_PAG-zip.md), [divin](.//Wiki/public/Upload/ADJ/PF2/Deck_Divin_PAG-zip.md), [arcanique](.//Wiki/public/Upload/ADJ/PF2/Deck_Arcanique_PAG-zip.md), [sorts focalisés](.//Wiki/public/Upload/ADJ/PF2/Deck_Sorts_focalises_PAG-zip.md)|/Wiki/public/Upload/ADJ/PF2/Deck_Primordial_PAG.zip|/Wiki/public/Upload/ADJ/PF2/Deck_PAG_exemple.jpg}
+{s:ItemPF2|Cartes de sorts|Cartes des sorts du Guide Avancé par Lirot : [[/Wiki/public/Upload/ADJ/PF2/Deck_Primordial_PAG.zip|primordial]], [[/Wiki/public/Upload/ADJ/PF2/Deck_Occulte_PAG.zip|occulte]], [[/Wiki/public/Upload/ADJ/PF2/Deck_Divin_PAG.zip|divin]], [[/Wiki/public/Upload/ADJ/PF2/Deck_Arcanique_PAG.zip|arcanique]], [[/Wiki/public/Upload/ADJ/PF2/Deck_Sorts_focalises_PAG.zip|sorts focalisés]]|/Wiki/public/Upload/ADJ/PF2/Deck_Primordial_PAG.zip|/Wiki/public/Upload/ADJ/PF2/Deck_PAG_exemple.jpg}
 
 {s:ItemPF2NoImg|Détection|Aide de jeu pour la détection en PF2, par Stotorm (lien GoogleSheet)|https://docs.google.com/spreadsheets/d/1kyVxGOwhs41v644dAKHRhk2iNnidoRqxvEKSrAceg2E/edit?gid=92495254#gid=92495254}
 
@@ -84,7 +84,7 @@ LastModified: 2025-03-25 10:08
 
 {s:ItemPF2NoImg|Inventeur et pistoléro|Traduction du playtest de Guns & Gears|Pathfinder2.PlaytestGG.ashx}
 
-{s:ItemPF2NoImg|Preview Book of the Dead|[Jouer un mort-vivant](./PF2 BotD Jouer un mort-vivant.md) : [Fantôme](./PF2 BotD Fantôme.md) [Goule](./PF2 BotD Goule.md) [Liche](./PF2 BotD Liche.md) [Momie](./PF2 BotD Momie.md) [Vampire](./PF2 BotD Vampire.md) [Zombi](./PF2 BotD Zombi.md) (archétypes), [Squelette](./PF2 BotD Squelette.md) (ascendance) ; Archétypes pour vivants : [Gardien des âmes](./PF2 BotD Gardien des âmes.md), [Nécromancien sacré](./PF2 BotD Nécromancien sacré.md), [Tueur de morts-vivants](./PF2 BotD Tueur de morts-vivants.md)|Pathfinder2.PF2 BotD Jouer un mort-vivant.ashx}
+{s:ItemPF2NoImg|Preview Book of the Dead|[[PF2 BotD Jouer un mort-vivant|Jouer un mort-vivant]] : [[PF2 BotD Fantôme|Fantôme]] [[PF2 BotD Goule|Goule]] [[PF2 BotD Liche|Liche]] [[PF2 BotD Momie|Momie]] [[PF2 BotD Vampire|Vampire]] [[PF2 BotD Zombi|Zombi]] (archétypes), [[PF2 BotD Squelette|Squelette]] (ascendance) ; Archétypes pour vivants : [[PF2 BotD Gardien des âmes|Gardien des âmes]], [[PF2 BotD Nécromancien sacré|Nécromancien sacré]], [[PF2 BotD Tueur de morts-vivants|Tueur de morts-vivants]]|Pathfinder2.PF2 BotD Jouer un mort-vivant.ashx}
 
 {s:ItemPF2NoImg|Dark Archives|Quelques règles provenant des previews de Dark Archives (forgeron mental)|Pathfinder2.PF2 DA Forgeron mental.ashx}
 

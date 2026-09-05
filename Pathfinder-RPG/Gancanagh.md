@@ -13,37 +13,37 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 5 p.40*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([azata](./sous-type azata.md), [Bien](./sous-type Bien.md), [Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, CB}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]]) de taille M, CB}
+{s:BDTexte|**Init** +5 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 15, pris au dépourvu 12 (Dex +5, naturelle +2)}
 {s:BDTexte|**pv** 42 (5d10+15)}
 {s:BDTexte|**Réf** +9, **Vig** +4, **Vol** +5}
 {s:BDTexte|**RD** 5/fer froid et Mal ; **Immunités** électricité, pétrification ; **Résistances** feu 10, froid 10}
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) à la fumée}
+{s:BDTexte|**Faiblesses** [[Vulnérabilités (capacité)|vulnérabilité]] à la fumée}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m}
 {s:BDTexte|**Corps à corps** rapière en mithral +1, +11 (1d6+6/18-20)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 5 ; [concentration](./concentration.md) +10)}
-{s:BDSorts|À volonté — *[charme-personne](./Charme-personne.md)* (DD 16), *[image miroir](./Image miroir.md)*, *[suggestion](./Suggestion.md)* (DD 17)}
-{s:BDSorts|1/jour — *[espoir](./Espoir.md)*, *[soins modérés](./Soins modérés.md)*}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 5 ; [[concentration]] +10)}
+{s:BDSorts|À volonté — *[[charme-personne]]* (DD 16), *[[image miroir]]*, *[[suggestion]]* (DD 17)}
+{s:BDSorts|1/jour — *[[espoir]]*, *[[soins modérés]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 21, **Con** 16, **Int** 15, **Sag** 12, **Cha** 21}
 {s:BDTexte|**BBA** +5 ; **BMO** +6 ; **DMD** 21}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaques réflexes](./Attaques réflexes.md), Persuasif}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +13, [Connaissances](./Connaissances.md) (plans) +6, [Déguisement](./Déguisement.md) +13, [Diplomatie](./Diplomatie.md) +15, [Discrétion](./Discrétion.md) +9, [Intimidation](./Intimidation.md) +15, [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +7, [Représentation](./Représentation.md) (instruments à vent) +13, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +10}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Attaques réflexes]], Persuasif}
+{s:BDTexte|**Compétences** [[Bluff]] +13, [[Connaissances]] (plans) +6, [[Déguisement]] +13, [[Diplomatie]] +15, [[Discrétion]] +9, [[Intimidation]] +15, [[Perception]] +9, [[Psychologie]] +7, [[Représentation]] (instruments à vent) +13, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +10}
 {s:BDTexte|**Langues** céleste, infernal, sylvestre ; langage universel}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (humanoïde de taille P ou M ; *[modification d'apparence](./Modification dapparence.md)*), grâce du gancanagh, passion revigorante}
+{s:BDTexte|**Particularités** [[Changement de forme (capacité)|changement de forme]] (humanoïde de taille P ou M ; *[[modification dapparence|modification d'apparence]]*), grâce du gancanagh, passion revigorante}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Élysée)}
 {s:BDTexte|**Organisation** solitaire}
-{s:BDTexte|**Trésor** triple (*[rapière](./rapière (arme).md) +1 en [mithral](./mithral.md)*, autres trésors)}
+{s:BDTexte|**Trésor** triple (*[[rapière (arme)|rapière]] +1 en [[mithral]]*, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Grâce du gancanagh (Sur).** La grâce surnaturelle et les mouvements fluides d’un gancanagh lui permettent d’ajouter son modificateur de Dextérité au lieu de son modificateur de Force aux jets de dégâts infligés avec sa rapière.}
-{s:BDTexte|**Passion revigorante (Sur).** La passion d’un gancanagh est suffisamment puissante pour inciter une créature à se sublimer. Une créature qui accomplit un acte passionnel, tel un baiser, avec un gancanagh, bénéficie d’un bonus de compétence de +1 aux jets d’attaque, gagne 1 dé de vie temporaire (d10) et le nombre approprié de points de vie temporaires (en appliquant le modificateur de [Constitution](./Constitution.md) de la cible, le cas échéant) et ne subit pas les malus infligés par les [états préjudiciables](./États préjudiciables.md) [fatigué](./Fatigué.md) ou [épuisé](./Épuisé.md). Ces avantages persistent pendant 1 heure. À la fin de cette période, la créature doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 17 pour ne pas devenir [fatiguée](./Fatigué.md), ou [épuisée](./Épuisé.md) si elle était déjà [fatiguée](./Fatigué.md). C’est un [effet mental](./Registre.md#EFFETMENTAL). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
-{s:BDTexte|**Vulnérable à la fumée (Ext).** Les poumons d’un gancanagh ne tolèrent pas la fumée. Il subit un malus de -4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les effets de fumée ou de nuage, tels que le sort [nuage nauséabond](./Nuage nauséabond.md) ou la fumée d’une [pyrotechnie](./Pyrotechnie.md).}
+{s:BDTexte|**Passion revigorante (Sur).** La passion d’un gancanagh est suffisamment puissante pour inciter une créature à se sublimer. Une créature qui accomplit un acte passionnel, tel un baiser, avec un gancanagh, bénéficie d’un bonus de compétence de +1 aux jets d’attaque, gagne 1 dé de vie temporaire (d10) et le nombre approprié de points de vie temporaires (en appliquant le modificateur de [[Constitution]] de la cible, le cas échéant) et ne subit pas les malus infligés par les [[états préjudiciables]] [[fatigué]] ou [[épuisé]]. Ces avantages persistent pendant 1 heure. À la fin de cette période, la créature doit réussir un jet de [[Vigueur]] [[DD]] 17 pour ne pas devenir [[fatigué|fatiguée]], ou [[épuisé|épuisée]] si elle était déjà [[fatigué|fatiguée]]. C’est un [[registre#EFFETMENTAL|effet mental]]. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|**Vulnérable à la fumée (Ext).** Les poumons d’un gancanagh ne tolèrent pas la fumée. Il subit un malus de -4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets de fumée ou de nuage, tels que le sort [[nuage nauséabond]] ou la fumée d’une [[pyrotechnie]].}
 </div></td>
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [azatas](./Azata.md).***</li></ul>*Les oreilles en pointes et la grâce surnaturelle de cet homme incroyablement beau trahissent sa nature inhumaine.*
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[azata|azatas]].***</li></ul>*Les oreilles en pointes et la grâce surnaturelle de cet homme incroyablement beau trahissent sa nature inhumaine.*
 
 Azatas masculins d’une beauté radieuse surnaturelle, les gancanaghs sont les chevaliers errants de l’Élysée, mais surtout des soupirants invétérés qui séduisent mortels comme immortels. Les gancanaghs sont d’incorrigibles séducteurs, mais ils ont tendance à consacrer leur attention sur un seul homme ou une seule femme à la fois. Ils se lancent alors dans un jeu de séduction et de cour avec leur cible actuelle pour vivre une liaison brève mais sincère, avant qu’ils ne jettent leur dévolu imprévisible sur une autre créature.
 

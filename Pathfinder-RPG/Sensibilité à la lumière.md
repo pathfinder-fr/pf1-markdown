@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Sensibilité à la lumière (capacité)
 ---
 
->>> [Sensibilité à la lumière (capacité)](./Sensibilité à la lumière (capacité).md)
+>>> [[Sensibilité à la lumière (capacité)]]

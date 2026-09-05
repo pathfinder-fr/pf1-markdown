@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Illmarsh est une ville du sud du comté de [Versex](./Versex.md) en [Ustalav](./Ustalav.md), située sur les rives du lac d'[Encarthan](./Encarthan.md).
+Illmarsh est une ville du sud du comté de [[Versex]] en [[Ustalav]], située sur les rives du lac d'[[Encarthan]].
 
 On dit que beaucoup de ses habitants sont des fervents des Cultes Anciens.

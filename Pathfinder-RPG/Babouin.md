@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 2 p.222*}
 {s:BDTexte|**XP** 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, M}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) (12 cases) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Animal|Animal]] de taille P, M}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] (12 cases) ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 11 (Dex +2, parade +1)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -25,8 +25,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 15, **Con** 12, **Int** 2, **Sag** 12, **Cha** 5}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 12}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Escalade](./Escalade.md) +5}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Escalade]] +5}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts/plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-6)}

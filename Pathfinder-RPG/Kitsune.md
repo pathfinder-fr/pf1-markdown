@@ -15,8 +15,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4* p.169}
 {s:BDTexte|**PX** 200}
 {s:BDTexte|Kitsune (f) ensorceleur 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([kitsune](./sous-type kitsune.md), [métamorphe](./sous-type métamorphe.md)) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type Kitsune|kitsune]], [[sous-type métamorphe|métamorphe]]) de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA**  13, contact 13, pris au dépourvu 10 (Dex +2, esquive +1)}
 {s:BDTexte|**pv** 5 (1d6-1)}
@@ -25,18 +25,18 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, -1 (1d4-1) et bâton de maître, -5 (1d6-1)}
 {s:BDTexte|**Pouvoirs magiques de kitsune** (NLS 1 ; concentration +4)}
-{s:BDSorts|(3/jour) — *[Lumières dansantes](./Lumières dansantes.md)*}
+{s:BDSorts|(3/jour) — *[[Lumières dansantes]]*}
 {s:BDTexte|**Pouvoirs magiques de lignage** (NLS 1 ; concentration +4)}
 {s:BDSorts|(6/jour) — *Toucher rieur*}
 {s:BDTexte|**Sorts connus d’ensorceleur** (NLS 1 ; concentration +4)}
-{s:BDSorts|1<sup>er</sup> (2/jour) — *[charme-personne](./Charme-personne.md)* ([DD](./DD.md) 15), *[sommeil](./Sommeil.md)* ([DD](./DD.md) 17)}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[hébétement](./Hébétement.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[prestidigitation](./Prestidigitation.md)*}
-{s:BDTexte|**Lignage** [féerique](./lignage Féerique.md)}
+{s:BDSorts|1<sup>er</sup> (2/jour) — *[[charme-personne]]* ([[DD]] 15), *[[sommeil]]* ([[DD]] 17)}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[hébétement]]*, *[[lecture de la magie]]*, *[[prestidigitation]]*}
+{s:BDTexte|**Lignage** [[lignage Féerique|féerique]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 15, **Con** 8, **Int** 12, **Sag** 14, **Cha** 17}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 12}
-{s:BDTexte|**Dons** [Dispense de composantes](./Dispense de composantes matérielles.md), [Esquive](./Esquive.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +4, [Art de la magie](./Art de la magie.md) +5, [Bluff](./Bluff.md) +7, [Discrétion](./Discrétion.md) +3, [Perception](./Perception.md) +3}
+{s:BDTexte|**Dons** [[Dispense de composantes matérielles|Dispense de composantes]], [[Esquive]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +4, [[Art de la magie]] +5, [[Bluff]] +7, [[Discrétion]] +3, [[Perception]] +3}
 {s:BDTexte|**Langues** commun, elfe, sylvestre}
 {s:BDTexte|**Particularités** arcanes de lignage (+2 au DD des sorts de coercition), changement de forme, magie kitsune}
 {s:BDSousTitre|Écologie}
@@ -46,7 +46,7 @@ Categories:
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|<b>Changement de forme (Sur).</b> Le kitsune peut prendre l’apparence d’un unique être humain de même sexe que lui. Il prend toujours cette forme particulière lorsqu’il utilise ce pouvoir. Un kitsune sous forme humaine ne peut plus utiliser son attaque de morsure mais gagne un bonus racial de +10 aux tests de Déguisement pour paraître humain. Ce
 pouvoir fonctionne par ailleurs comme le sort de modification d’apparence, sauf que le kitsune ne modifie pas ses valeurs de caractéristique.}
-{s:BDTexte|<b>Magie kitsune (Ext/Mag).</b> Les kitsunes ajoutent 1 au DD des jets de sauvegarde des sorts d’enchantement qu’ils lancent. Ceux qui ont une valeur de Charisme de 11 ou plus gagnent le pouvoir magique suivant : 3/jour – *[Lumières dansantes](./Lumières dansantes.md)*.}</div>
+{s:BDTexte|<b>Magie kitsune (Ext/Mag).</b> Les kitsunes ajoutent 1 au DD des jets de sauvegarde des sorts d’enchantement qu’ils lancent. Ceux qui ont une valeur de Charisme de 11 ou plus gagnent le pouvoir magique suivant : 3/jour – *[[Lumières dansantes]]*.}</div>
 
 {s:ImageCentre|Bestiaire/Kitsune02.jpg|95%}
 
@@ -67,5 +67,5 @@ Les kitsunes se définissent par leurs niveaux de classe. Ils n’ont donc pas d
 - **Armes naturelles.** Sous sa forme naturelle, le kitsune possède une attaque de morsure qui inflige 1d4 points de dégâts.
 - **Langues.** Les kitsunes parlent le commun et le sylvestre. Un kitsune avec une valeur d’Intelligence suffisamment élevée peut choisir ses langues supplémentaires parmi les suivantes : n’importe quel dialecte humain, aklo, céleste, elfe, gnome et tengu.
 
-{s:VoirAussiAvant}La page de la race [Kitsune](./kitsune (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Kitsune (race)|Kitsune]]{s:VoirAussiAprès}
 </div></td></tr></table>

@@ -15,33 +15,33 @@ Categories:
 Un serviteur sacré possède les aptitudes de classe suivantes.
 
 #### Châtiment du Mal (Sur)
-Cette capacité fonctionne comme la [capacité de paladin](./Paladin.md#CHATIMENTDUMAL) mais le serviteur sacré peut l’utiliser une fois de plus par jour au [niveau](./niveau.md) 7 et tous les six niveaux par la suite (au lieu du niveau 4 et tous les trois niveaux par la suite).
+Cette capacité fonctionne comme la [[paladin#CHATIMENTDUMAL|capacité de paladin]] mais le serviteur sacré peut l’utiliser une fois de plus par jour au [[niveau]] 7 et tous les six niveaux par la suite (au lieu du niveau 4 et tous les trois niveaux par la suite).
 
 #### Sorts
-{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#42) Paladin, Serviteur sacré : L'archétype serviteur sacré (page 118) obtient un domaine. Est-ce que le serviteur sacré obtient tous les avantages de ce domaine, comme ses pouvoirs de domaine ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#42|→]] Paladin, Serviteur sacré : L'archétype serviteur sacré (page 118) obtient un domaine. Est-ce que le serviteur sacré obtient tous les avantages de ce domaine, comme ses pouvoirs de domaine ?***
 
 Oui.
-Sauf précision contraire, lorsqu'un personnage obtient un domaine de prêtre, ils bénéficient de tous les avantages associés à ce domaine : les pouvoirs accordés, l'accès aux sorts de domaine, ainsi qu'un emplacement de sort de domaine à chaque niveau de sort qu'il est capable de lancer. *(Retour à l'<u>[archétype](./Serviteur sacré (paladin).md)</u>)*}Au niveau 4, lorsqu’un serviteur sacré acquiert la capacité de lancer des sorts, il choisit également un [domaine](./Domaines.md) associé à sa divinité. Son niveau de [prêtre](./Prêtre.md) effectif pour ce domaine est égal à son niveau de paladin -3. De plus, il gagne un [emplacement de sort](./emplacement de sort.md) de domaine pour chaque niveau de sorts de paladin auquel il a accès. Chaque jour, il doit préparer un sort provenant de son domaine dans chacun de ces emplacements.
+Sauf précision contraire, lorsqu'un personnage obtient un domaine de prêtre, ils bénéficient de tous les avantages associés à ce domaine : les pouvoirs accordés, l'accès aux sorts de domaine, ainsi qu'un emplacement de sort de domaine à chaque niveau de sort qu'il est capable de lancer. *(Retour à l'<u>[[Serviteur sacré (paladin)|archétype]]</u>)*}Au niveau 4, lorsqu’un serviteur sacré acquiert la capacité de lancer des sorts, il choisit également un [[domaines|domaine]] associé à sa divinité. Son niveau de [[prêtre]] effectif pour ce domaine est égal à son niveau de paladin -3. De plus, il gagne un [[emplacement de sort]] de domaine pour chaque niveau de sorts de paladin auquel il a accès. Chaque jour, il doit préparer un sort provenant de son domaine dans chacun de ces emplacements.
 
 #### Pacte divin (Sur)
-Au [niveau](./niveau.md) 5, plutôt que de former un lien divin avec son arme ou sa monture, le serviteur sacré en tisse
+Au [[niveau]] 5, plutôt que de former un lien divin avec son arme ou sa monture, le serviteur sacré en tisse
 un avec son symbole sacré.
 
-Par une [action simple](./Action simple.md), il peut lier un esprit céleste à son symbole sacré pendant 1 minute par niveau de paladin. Lorsque cet esprit est appelé, il fait luire le symbole sacré comme une [torche](./Exploration.md#VISIONLUMIERE).
+Par une [[action simple]], il peut lier un esprit céleste à son symbole sacré pendant 1 minute par niveau de paladin. Lorsque cet esprit est appelé, il fait luire le symbole sacré comme une [[exploration#VISIONLUMIERE|torche]].
 
-Au [niveau](./niveau.md) 5, l’esprit offre un bonus. Pour chaque tranche de trois niveaux au-delà du niveau 5, il accorde un bonus supplémentaire.
+Au [[niveau]] 5, l’esprit offre un bonus. Pour chaque tranche de trois niveaux au-delà du niveau 5, il accorde un bonus supplémentaire.
 
-Le paladin peut utiliser ces bonus de diverses manières pour accroître ses capacités de [canalisation d’énergie positive](./Paladin.md#CANALISATIONDENERGIEPOSITIVE) et de lancement de [sorts](./Paladin.md#SORTS). Chaque bonus peut procurer l’une des améliorations suivantes : +1 [NLS](./NLS.md) aux sorts de paladin lancés, +1 au [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) nécessaire pour diviser par deux les dégâts d’une canalisation d’énergie lorsque celle-ci est utilisée pour blesser les morts-vivants, +1d6 à la [canalisation d’énergie positive](./Paladin.md#CANALISATIONDENERGIEPOSITIVE), +1 utilisation par jour de la capacité d’[imposition des mains](./Paladin.md#IMPOSITIONDESMAINS). Ces améliorations se cumulent entre elles et peuvent être choisies plus d’une fois. Les améliorations octroyées par l’esprit sont déterminées lorsque celui-ci est appelé et ne peuvent pas être modifiées avant qu’il soit à nouveau appelé.
+Le paladin peut utiliser ces bonus de diverses manières pour accroître ses capacités de [[paladin#CANALISATIONDENERGIEPOSITIVE|canalisation d’énergie positive]] et de lancement de [[paladin#SORTS|sorts]]. Chaque bonus peut procurer l’une des améliorations suivantes : +1 [[NLS]] aux sorts de paladin lancés, +1 au [[DD]] du [[jet de sauvegarde]] nécessaire pour diviser par deux les dégâts d’une canalisation d’énergie lorsque celle-ci est utilisée pour blesser les morts-vivants, +1d6 à la [[paladin#CANALISATIONDENERGIEPOSITIVE|canalisation d’énergie positive]], +1 utilisation par jour de la capacité d’[[paladin#IMPOSITIONDESMAINS|imposition des mains]]. Ces améliorations se cumulent entre elles et peuvent être choisies plus d’une fois. Les améliorations octroyées par l’esprit sont déterminées lorsque celui-ci est appelé et ne peuvent pas être modifiées avant qu’il soit à nouveau appelé.
 
 Si le serviteur sacré augmente son nombre d’impositions des mains quotidiennes, ce choix reste immuable jusqu’à la fin de la journée et, une fois utilisées, les impositions supplémentaires ne sont pas renouvelées (même s’il appelle une nouvelle fois l’esprit ce jour-là).
 
 L’esprit céleste n’offre aucune amélioration si le symbole sacré est entre les mains de qui que ce soit d’autre que le serviteur sacré, mais les avantages octroyés reprennent effet dès que le serviteur sacré récupère le symbole.
 
-Le serviteur sacré peut utiliser cette capacité une fois par jour au niveau 5 et une fois de plus par jour par tranche de 4 niveaux au-delà du niveau 5, jusqu’à un maximum de 4 fois par jour au [niveau](./niveau.md) 17.
+Le serviteur sacré peut utiliser cette capacité une fois par jour au niveau 5 et une fois de plus par jour par tranche de 4 niveaux au-delà du niveau 5, jusqu’à un maximum de 4 fois par jour au [[niveau]] 17.
 
-Si le symbole sacré est détruit alors qu’il est occupé par un esprit céleste, le serviteur sacré perd accès à cette capacité pendant 30 jours, ou jusqu’à ce qu’il gagne un niveau si cela se produit avant. Pendant cette période d’attente, il subit un malus de –1 aux [jets d’attaque](./jet dattaque.md) et [de dégâts](./jet de dégâts.md) par armes.
+Si le symbole sacré est détruit alors qu’il est occupé par un esprit céleste, le serviteur sacré perd accès à cette capacité pendant 30 jours, ou jusqu’à ce qu’il gagne un niveau si cela se produit avant. Pendant cette période d’attente, il subit un malus de –1 aux [[jet dattaque|jets d’attaque]] et [[jet de dégâts|de dégâts]] par armes.
 
 #### Appel d’un allié céleste (Mag)
-Au [niveau](./niveau.md) 8, un serviteur sacré peut demander de l’aide à sa divinité, sous la forme d’un puissant serviteur. Cette capacité lui permet de lancer *[allié d’outreplan](./Allié doutreplan.md)* une fois par mois en tant que pouvoir magique, sans avoir à payer ni le coût des composantes matérielles ni le serviteur (tant que la tâche est raisonnable). Au [niveau](./niveau.md)12, la capacité imite *[allié majeur d’outreplan](./Allié majeur doutreplan.md)* et, au niveau 16, *[allié suprême d’outreplan](./Allié suprême doutreplan.md)*.
+Au [[niveau]] 8, un serviteur sacré peut demander de l’aide à sa divinité, sous la forme d’un puissant serviteur. Cette capacité lui permet de lancer *[[allié doutreplan|allié d’outreplan]]* une fois par mois en tant que pouvoir magique, sans avoir à payer ni le coût des composantes matérielles ni le serviteur (tant que la tâche est raisonnable). Au [[niveau]]12, la capacité imite *[[allié majeur doutreplan|allié majeur d’outreplan]]* et, au niveau 16, *[[allié suprême doutreplan|allié suprême d’outreplan]]*.
 
-Le [NLS](./NLS.md) du serviteur sacré pour cet effet est égal à son [niveau](./niveau.md) de paladin. Cette capacité remplace [Aura de fermeté](./Paladin.md#AURADEFERMETE).
+Le [[NLS]] du serviteur sacré pour cet effet est égal à son [[niveau]] de paladin. Cette capacité remplace [[paladin#AURADEFERMETE|Aura de fermeté]].

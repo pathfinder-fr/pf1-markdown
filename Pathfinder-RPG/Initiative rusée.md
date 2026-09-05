@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Inquisiteur#INITIATIVERUSEE
 ---
 
->>> [Inquisiteur#INITIATIVERUSEE](./Inquisiteur.md#INITIATIVERUSEE)
+>>> [[Inquisiteur#INITIATIVERUSEE]]

@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:BotD}*Les chaînes sont l'héritage et le domaine d'un kyton.*
 
-**Conditions.** Sous-type [kyton](./sous-type kyton.md), 5 [DV](./../Ressources/DV.md) ou plus
+**Conditions.** Sous-type [[sous-type kyton|kyton]], 5 [[DV]] ou plus
 
-**Avantage.** Le personnage gagne le pouvoir spécial [danse des chaînes](./Kyton.md) du kyton, excepté qu'il ne peut contrôler que deux chaînes au maximum de cette façon. Cela lui confère deux attaques de chaîne, qui infligent des dégâts comme une [chaîne cloutée](./chaîne cloutée (arme).md) adaptée à sa taille. Si le personnage possède déjà la capacité danse des chaînes, il peut contrôler deux chaînes supplémentaires.
+**Avantage.** Le personnage gagne le pouvoir spécial [[Kyton|danse des chaînes]] du kyton, excepté qu'il ne peut contrôler que deux chaînes au maximum de cette façon. Cela lui confère deux attaques de chaîne, qui infligent des dégâts comme une [[Chaîne cloutée (arme)|chaîne cloutée]] adaptée à sa taille. Si le personnage possède déjà la capacité danse des chaînes, il peut contrôler deux chaînes supplémentaires.
 
-**Spécial.** À la discrétion du [MJ](./MJ.md), les [extérieurs](./type Extérieur.md) non-[kytons](./sous-type kyton.md) peuvent choisir ce don s'ils ont un lien thématique avec les chaînes (comme les [diables cornus](./Diable cornu.md) ou les serviteurs démoniaques de [La demoiselle enchaînée](./Shivaska-(technique).md)).
+**Spécial.** À la discrétion du [[MJ]], les [[type Extérieur|extérieurs]] non-[[sous-type kyton|kytons]] peuvent choisir ce don s'ils ont un lien thématique avec les chaînes (comme les [[Diable cornu|diables cornus]] ou les serviteurs démoniaques de [[Shivaska (technique)|La demoiselle enchaînée]]).

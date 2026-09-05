@@ -14,13 +14,13 @@ Categories:
 
 *Vos coups ne sont pas simplement mortels, mais également débilitant.*
 
-**Catégories.** [combat](./Dons.md#DONCOMBAT), [critique](./Dons.md#DONCRITIQUE)
+**Catégories.** [[dons#DONCOMBAT|combat]], [[dons#DONCRITIQUE|critique]]
 
-**Conditions.** [Int](./Int.md) 13, [Expertise du combat](./Expertise du combat.md), [Don pour les critiques](./Don pour les critiques.md), [Science du sale coup](./Science du sale coup.md), [BBA](./BBA.md) +11
+**Conditions.** [[Int]] 13, [[Expertise du combat]], [[Don pour les critiques]], [[Science du sale coup]], [[BBA]] +11
 
-**Avantage.** Lorsque le personnage confirme un [coup critique](./coup critique.md), il peut aussi affecter la cible comme s'il avait réussi une manœuvre de [sale coup](./sale coup.md). En procédant ainsi, le personnage n'affecte la cible d'une des conditions appliqués en cas de sale coup que durant 1 [round](./round.md) à moins de disposer d'autres dons ou de capacités qui lui permettent de disposer de davantage d'options de sale coup.
+**Avantage.** Lorsque le personnage confirme un [[coup critique]], il peut aussi affecter la cible comme s'il avait réussi une manœuvre de [[sale coup]]. En procédant ainsi, le personnage n'affecte la cible d'une des conditions appliqués en cas de sale coup que durant 1 [[round]] à moins de disposer d'autres dons ou de capacités qui lui permettent de disposer de davantage d'options de sale coup.
 
-**Spécial.** Le personnage peut appliquer les effets d'un unique don de critique à un coup critique à moins qu'il ne dispose du don [Maîtrise du critique](./Maîtrise du critique.md).
+**Spécial.** Le personnage peut appliquer les effets d'un unique don de critique à un coup critique à moins qu'il ne dispose du don [[Maîtrise du critique]].
 
 (((Dirty Critical Hit (Combat, Critical)
 

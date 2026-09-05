@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 pa–100 po ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:AE}**Prix** 2 pa–100 po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 L’endroit et l’envers de cette cape sont en tissus de couleurs différentes. On la porte comme vêtement à la mode, pour les représentations théâtrales ou pour changer rapidement d’apparence et se déguiser. Son prix varie en fonction de sa qualité, les capes les moins chères étant tout simplement en lin, les plus chères étant en soie ou bordées de fourrure.

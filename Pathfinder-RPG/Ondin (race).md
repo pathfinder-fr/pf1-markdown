@@ -4,7 +4,7 @@ Title: Les ondins
 LastModified: 2025-01-15 17:43
 ---
 
-{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Ondin.md) d'un ondin standard.***
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [[Ondin|fiche de créature]] d'un ondin standard.***
 
 Les ondins sont des humains qui descendent des créatures du plan de l’Eau. La puissance de leur descendance se remarque au premier regard puisque leur chair imite la couleur des lacs, des mers et des océans. Qu’ils aient du sang de marids ou de méphites de l’Eau, tous les ondins se définissent par rapport à leur ascendance. Ils voient leurs différences individuelles comme des dons et explorent au maximum les aspects surnaturels de leur héritage unique. Les ondins sont une race fière, qui n’exprime guère de peur apparente. S’ils sont faciles à vivre et un brin espiègles avec les leurs, ils font preuve d’un peu plus de réserve et de sérieux en compagnie des étrangers. Ils contrôlent parfaitement leurs émotions et peuvent passer du calme à la colère pour se calmer à nouveau en quelques minutes. S’il peut arriver que certains les trouvent imprévisibles, les ondins affichent simplement un comportement un peu plus mélodramatique que la plupart des autres races. Ils ne sont pas lunatiques et ne passent pas à la colère, à l’excitation ou à un autre état émotionnel sans raison. En tant qu’amis proches certains les trouvent excessivement possessifs, mais ils sont également très protecteurs avec ceux auxquels ils tiennent.
 
@@ -30,15 +30,15 @@ Les ondins s’entendent très bien avec les elfes et les gnomes. Ces races part
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 en [Dextérité](./Dextérité.md), +2 en [Sagesse](./Sagesse.md), -2 en [Force](./Force.md).** Les ondins sont agiles et perceptifs, mais ont tendance à s’adapter plutôt qu’à répondre à la force par la force.
-- **Extérieur natif.** Les ondins sont des [extérieurs](./type Extérieur.md) de sous-type [natif](./sous-type natif.md).
-- **Taille M.** Les ondins sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni bonus ni malus de taille.
-- **Vitesse normale.** Les ondins ont une [vitesse de base](./VD.md) 9 mètres sur la terre ferme, une [vitesse de nage](./Natation.md#Spécial_2) de 9 mètres, ils peuvent se déplacer dans l’eau sans faire de test de [Natation](./Natation.md) et traitent toujours Natation comme une compétence de classe.
-- **Vision dans le noir.** Les ondins [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
-- **Pouvoir magique.** Les ondins peuvent utiliser *[poussée hydraulique](./Poussée hydraulique.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) 1/jour ([niveau de lanceur de sorts](./NLS.md) égal au niveau de personnage de l’ondin).
-- **Résistance élémentaire.** Les ondins ont une [résistance](./Résistance (capacité).md) de 5 au froid.
-- **Affinité avec l’eau.** Les [ensorceleurs](./Ensorceleur.md) ondins de [lignage élémentaire (eau)](./lignage Élémentaire.md) considèrent leur score de [Charisme](./Charisme.md) comme supérieur de 2 points pour tous les sorts et pouvoirs magiques d’ensorceleur. Les [prêtres](./Prêtre.md) ondins du [domaine de l’Eau](./Domaine de lEau.md) lancent tous leurs sorts et pouvoirs de domaine à un niveau de lanceur de sorts augmenté de +1.
-- **Langues.** Les ondins commencent le jeu en parlant le commun et l’aquatique. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre de nouvelles langues parmi celles-ci : aérien, elfique, gnome, halfelin, igné, nain et terreux.
+- **+2 en [[Dextérité]], +2 en [[Sagesse]], -2 en [[Force]].** Les ondins sont agiles et perceptifs, mais ont tendance à s’adapter plutôt qu’à répondre à la force par la force.
+- **Extérieur natif.** Les ondins sont des [[type Extérieur|extérieurs]] de sous-type [[sous-type natif|natif]].
+- **Taille M.** Les ondins sont des créatures de [[taille M]] qui ne reçoivent ni bonus ni malus de taille.
+- **Vitesse normale.** Les ondins ont une [[VD|vitesse de base]] 9 mètres sur la terre ferme, une [[Natation#Spécial_2|vitesse de nage]] de 9 mètres, ils peuvent se déplacer dans l’eau sans faire de test de [[Natation]] et traitent toujours Natation comme une compétence de classe.
+- **Vision dans le noir.** Les ondins [[Vision dans le noir (capacité)|voient dans le noir]] à 18 mètres.
+- **Pouvoir magique.** Les ondins peuvent utiliser *[[poussée hydraulique]]* comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] 1/jour ([[NLS|niveau de lanceur de sorts]] égal au niveau de personnage de l’ondin).
+- **Résistance élémentaire.** Les ondins ont une [[Résistance (capacité)|résistance]] de 5 au froid.
+- **Affinité avec l’eau.** Les [[Ensorceleur|ensorceleurs]] ondins de [[Lignage Élémentaire|lignage élémentaire (eau)]] considèrent leur score de [[Charisme]] comme supérieur de 2 points pour tous les sorts et pouvoirs magiques d’ensorceleur. Les [[Prêtre|prêtres]] ondins du [[Domaine de lEau|domaine de l’Eau]] lancent tous leurs sorts et pouvoirs de domaine à un niveau de lanceur de sorts augmenté de +1.
+- **Langues.** Les ondins commencent le jeu en parlant le commun et l’aquatique. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent apprendre de nouvelles langues parmi celles-ci : aérien, elfique, gnome, halfelin, igné, nain et terreux.
 
 </div>
 
@@ -47,29 +47,29 @@ Les ondins s’entendent très bien avec les elfes et les gnomes. Ces races part
 {s:MR}Voici les options ouvertes à tous les ondins de la classe appropriée. Le bonus s’applique à chaque fois que le personnage le choisit, sauf indication contraire.
 
 <u>*Remplace « affinité avec l'eau » :*</u>
-- **Vitalité hydratée.** Un ondin ayant ce trait racial gagne [guérison accélérée 2](./Guérison accélérée (capacité).md) pendant 1 round lorsqu’il est complètement immergé dans un corps d’eau salée, d’eau douce ou d’eau saumâtre naturelle. Les eaux stagnantes, empoisonnées ou piégées (comme celle d’une fosse artificielle ou d’un *[sac sans fond](./Sac sans fond.md)*) n’activent pas cette capacité. L’ondin peut récupérer un maximum de 2 [points de vie](./pv.md) par niveau par jour grâce à cette capacité, après quoi elle cesse de fonctionner. Ce trait racial remplace affinité avec l’eau.
+- **Vitalité hydratée.** Un ondin ayant ce trait racial gagne [[Guérison accélérée (capacité)|guérison accélérée 2]] pendant 1 round lorsqu’il est complètement immergé dans un corps d’eau salée, d’eau douce ou d’eau saumâtre naturelle. Les eaux stagnantes, empoisonnées ou piégées (comme celle d’une fosse artificielle ou d’un *[[sac sans fond]]*) n’activent pas cette capacité. L’ondin peut récupérer un maximum de 2 [[pv|points de vie]] par niveau par jour grâce à cette capacité, après quoi elle cesse de fonctionner. Ce trait racial remplace affinité avec l’eau.
 
 <u>*Remplace « extérieur natif » et « langues » :*</u>
-- {s:cs}{s:ISR}**Presque humain.** Quelques ifrits, ondins, oréades, sulis et sylphes ont une apparence bien plus proche de celle de leurs ancêtres humains ; en fait, il peuvent même ne pas se rendre compte de leur véritable race. De tels descendants de génie paraissent humains, à l'exception de quelques caractéristiques mineures comme une couleur d'yeux inhabituelle, et comptent comme des [humanoïdes](./type Humanoïde.md) ([humain](./sous-type humain.md)) aussi bien que des [extérieurs](./type Extérieur.md) ([natif](./sous-type natif.md)) en toute circonstance (y compris pour les sorts qui affectent les humanoïdes comme *[charme-personne](./Charme-personne.md)* ou *[agrandissement](./Agrandissement.md)*). Ces descendants de génie ne savent pas automatiquement parler leur langue élémentaire associée (mais peuvent l'apprendre grâce à une valeur d'[Intelligence](./Intelligence.md) élevée). Ce trait racial remplace le type, le sous-type et les langues des descendants de génie.
+- {s:cs}{s:ISR}**Presque humain.** Quelques ifrits, ondins, oréades, sulis et sylphes ont une apparence bien plus proche de celle de leurs ancêtres humains ; en fait, il peuvent même ne pas se rendre compte de leur véritable race. De tels descendants de génie paraissent humains, à l'exception de quelques caractéristiques mineures comme une couleur d'yeux inhabituelle, et comptent comme des [[type Humanoïde|humanoïdes]] ([[sous-type humain|humain]]) aussi bien que des [[type Extérieur|extérieurs]] ([[sous-type natif|natif]]) en toute circonstance (y compris pour les sorts qui affectent les humanoïdes comme *[[charme-personne]]* ou *[[agrandissement]]*). Ces descendants de génie ne savent pas automatiquement parler leur langue élémentaire associée (mais peuvent l'apprendre grâce à une valeur d'[[Intelligence]] élevée). Ce trait racial remplace le type, le sous-type et les langues des descendants de génie.
 
 <u>*Remplace « pouvoir magique » :*</u>
-- **Amphibie.** Certains ondins naissent avec un lien permanent avec l’eau. Ceux qui ont ce trait racial gagnent le sous-type [aquatique](./sous-type aquatique.md) et la capacité spéciale [amphibie](./Amphibie (capacité).md). Ce trait racial remplace celui de pouvoir magique.
-- **Fascination néréide.** Certains ondins ont des origines remontant aux néréides ainsi qu’aux extérieurs. Une fois par jour par une [action simple](./Action simple.md), l’ondin peut générer une aura de 6 mètres de rayon qui fait que tous les humanoïdes à portée de l’aura sont [fascinés](./Fasciné.md) par lui pendant un nombre de rounds égal à 1/2 le niveau de personnage de l’ondin (minimum 1). Les cibles peuvent résister avec un jet de [Volonté](./Volonté.md) (DD 10 + 1/2 le niveau de l’ondin + son modificateur de [Charisme](./Charisme.md)). Il s’agit d’une [capacité surnaturelle](./Capacités spéciales.md). Ce trait racial remplace celui de pouvoir magique.
-- {s:cs}{s:ISR}**Magie des tritons.** Certains ondins, le plus souvent ceux originaires de Bordemer, descendent des tritons plutôt que des génies. Les ondins avec ce trait racial peuvent utiliser *[convocation d'alliés naturels I](./Convocation dalliés naturels I.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md), mais uniquement pour convoquer un [dauphin](./Dauphin.md). Ce trait racial remplace pouvoir magique.
-- **Souffle acide.** Les ondins dont l’ascendance extérieure remonte à un méphite de l’Eau peuvent manier l’acide comme une arme. Ceux-ci ont une [arme de souffle](./Souffle (capacité).md) leur permettant de cracher un cône de 1,5 mètre de long d’eau acide une fois par jour. Le souffle inflige 1d8 points de dégâts d’acide par tranche de 2 niveaux du personnage (maximum de 5d8). Un jet de [Réflexes](./Réflexes.md) ([DD](./DD.md) 10 + 1/2 le niveau de l’ondin + son modificateur de [Constitution](./Constitution.md)) permet de réduire les dégâts de moitié. Ce trait racial remplace celui de pouvoir magique.
-- ** Souffle de vase.** L’ascendance extérieure de certains ondins remonte aux méphites de vase. Ces ondins ont une [arme de souffle](./Souffle (capacité).md) leur permettant de cracher un cône de 1,5 mètre de long de mucus une fois par jour. Ce mucus inflige 1d4 points de dégâts d’acide par tranche de 2 niveaux du personnage (maximum de 5d4) et rend les créatures dans la zone [fiévreuses](./Fiévreux.md) pendant 3 rounds. Un jet de [Réflexes](./Réflexes.md) réussi (DD 10 + 1/2 le niveau de l’ondin + son modificateur de [Constitution](./Constitution.md)) permet de réduire les dégâts de moitié et d’annuler la fièvre. Ce trait racial remplace celui de pouvoir magique.
+- **Amphibie.** Certains ondins naissent avec un lien permanent avec l’eau. Ceux qui ont ce trait racial gagnent le sous-type [[sous-type aquatique|aquatique]] et la capacité spéciale [[Amphibie (capacité)|amphibie]]. Ce trait racial remplace celui de pouvoir magique.
+- **Fascination néréide.** Certains ondins ont des origines remontant aux néréides ainsi qu’aux extérieurs. Une fois par jour par une [[action simple]], l’ondin peut générer une aura de 6 mètres de rayon qui fait que tous les humanoïdes à portée de l’aura sont [[fasciné|fascinés]] par lui pendant un nombre de rounds égal à 1/2 le niveau de personnage de l’ondin (minimum 1). Les cibles peuvent résister avec un jet de [[Volonté]] (DD 10 + 1/2 le niveau de l’ondin + son modificateur de [[Charisme]]). Il s’agit d’une [[Capacités spéciales|capacité surnaturelle]]. Ce trait racial remplace celui de pouvoir magique.
+- {s:cs}{s:ISR}**Magie des tritons.** Certains ondins, le plus souvent ceux originaires de Bordemer, descendent des tritons plutôt que des génies. Les ondins avec ce trait racial peuvent utiliser *[[convocation dalliés naturels I|convocation d'alliés naturels I]]* comme un [[Pouvoirs magiques (capacité)|pouvoir magique]], mais uniquement pour convoquer un [[dauphin]]. Ce trait racial remplace pouvoir magique.
+- **Souffle acide.** Les ondins dont l’ascendance extérieure remonte à un méphite de l’Eau peuvent manier l’acide comme une arme. Ceux-ci ont une [[Souffle (capacité)|arme de souffle]] leur permettant de cracher un cône de 1,5 mètre de long d’eau acide une fois par jour. Le souffle inflige 1d8 points de dégâts d’acide par tranche de 2 niveaux du personnage (maximum de 5d8). Un jet de [[Réflexes]] ([[DD]] 10 + 1/2 le niveau de l’ondin + son modificateur de [[Constitution]]) permet de réduire les dégâts de moitié. Ce trait racial remplace celui de pouvoir magique.
+- ** Souffle de vase.** L’ascendance extérieure de certains ondins remonte aux méphites de vase. Ces ondins ont une [[Souffle (capacité)|arme de souffle]] leur permettant de cracher un cône de 1,5 mètre de long de mucus une fois par jour. Ce mucus inflige 1d4 points de dégâts d’acide par tranche de 2 niveaux du personnage (maximum de 5d4) et rend les créatures dans la zone [[fiévreux|fiévreuses]] pendant 3 rounds. Un jet de [[Réflexes]] réussi (DD 10 + 1/2 le niveau de l’ondin + son modificateur de [[Constitution]]) permet de réduire les dégâts de moitié et d’annuler la fièvre. Ce trait racial remplace celui de pouvoir magique.
 
 <u>*Remplace « résistance élémentaire » :*</u>
-- **Caméléon environnemental.** Certains ondins peuvent modifier leur couleur de peau pour se fondre dans les environnements sous-marins, mélangeant les bruns, les gris et les verts pour ressembler à du varech ou une autre plante marine naturelle. Par une [action simple](./Action simple.md), l’ondin ayant ce trait racial peut changer sa couleur de peau, gagnant un bonus de +4 à ses tests de [Discrétion](./Discrétion.md) dans les environnements sous-marins. Il peut reprendre sa couleur normale par une [action libre](./Action libre.md). Ce trait racial remplace résistance élémentaire.
-- **Peau-caméléon.** Certains ondins peuvent changer la couleur de leur peau pour lui donner une couleur plus humaine. Par une [action simple](./Action simple.md), l’ondin ayant ce trait racial peut changer sa couleur bleue naturelle pour prendre une couleur de peau humaine normale, et peut retrouver sa couleur naturelle par une [action libre](./Action libre.md). Ceci lui accorde un bonus racial de +4 à ses tests de [Déguisement](./Déguisement.md) pour paraître humain. Ce trait racial remplace résistance élémentaire.
-- **Perception de l’eau.** Les ondins ayant ce trait racial perçoivent les vibrations de l’eau, ce qui leur accorde la [perception aveugle](./Perception aveugle (capacité).md) à 9 mètres contre les créatures en contact avec la même étendue d’eau. Ce trait racial remplace résistance élémentaire.
+- **Caméléon environnemental.** Certains ondins peuvent modifier leur couleur de peau pour se fondre dans les environnements sous-marins, mélangeant les bruns, les gris et les verts pour ressembler à du varech ou une autre plante marine naturelle. Par une [[action simple]], l’ondin ayant ce trait racial peut changer sa couleur de peau, gagnant un bonus de +4 à ses tests de [[Discrétion]] dans les environnements sous-marins. Il peut reprendre sa couleur normale par une [[action libre]]. Ce trait racial remplace résistance élémentaire.
+- **Peau-caméléon.** Certains ondins peuvent changer la couleur de leur peau pour lui donner une couleur plus humaine. Par une [[action simple]], l’ondin ayant ce trait racial peut changer sa couleur bleue naturelle pour prendre une couleur de peau humaine normale, et peut retrouver sa couleur naturelle par une [[action libre]]. Ceci lui accorde un bonus racial de +4 à ses tests de [[Déguisement]] pour paraître humain. Ce trait racial remplace résistance élémentaire.
+- **Perception de l’eau.** Les ondins ayant ce trait racial perçoivent les vibrations de l’eau, ce qui leur accorde la [[Perception aveugle (capacité)|perception aveugle]] à 9 mètres contre les créatures en contact avec la même étendue d’eau. Ce trait racial remplace résistance élémentaire.
 
 <u>*Remplace « vision dans le noir » :*</u>
-- **Vision des profondeurs.** Certains ondins ont les yeux particulièrement adaptés aux profondeurs océaniques dépourvues de lumière, mais pas aux environnements remplis d’air. Ceux qui ont ce trait racial gagnent la [vision dans le noir](./vision dans le noir (capacité).md) à 36 mètres lorsqu'ils sont sous l’eau, mais n'ont aucune vision dans le noir en dehors. Ce trait racial remplace vision dans le noir.
+- **Vision des profondeurs.** Certains ondins ont les yeux particulièrement adaptés aux profondeurs océaniques dépourvues de lumière, mais pas aux environnements remplis d’air. Ceux qui ont ce trait racial gagnent la [[Vision dans le noir (capacité)|vision dans le noir]] à 36 mètres lorsqu'ils sont sous l’eau, mais n'ont aucune vision dans le noir en dehors. Ce trait racial remplace vision dans le noir.
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -78,21 +78,21 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-{s:MR}**[Barde](./Barde.md).** Le barde rajoute un bonus de +1 à ses tests de [Représentation](./Représentation.md) lorsqu’il utilise sa [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) de [contre-chant](./Représentations.md#CONTRE-CHANT) contre les créatures de sous-type [aquatique](./sous-type aquatique.md) ou [Eau](./sous-type Eau.md).
+{s:MR}**[[Barde]].** Le barde rajoute un bonus de +1 à ses tests de [[Représentation]] lorsqu’il utilise sa [[Barde#REPRESENTATIONBARDIQUE|représentation bardique]] de [[Représentations#CONTRE-CHANT|contre-chant]] contre les créatures de sous-type [[sous-type aquatique|aquatique]] ou [[sous-type Eau|Eau]].
 
-{s:MR}**[Conjurateur](./Conjurateur.md).** Si l’[eidolon](./Conjurateur.md#EIDOLON) du conjurateur a une forme de base aquatique, le conjurateur rajoute +1,5 mètre à la portée de sa capacité [lien vital](./Conjurateur.md#LIENVITAL).
+{s:MR}**[[Conjurateur]].** Si l’[[Conjurateur#EIDOLON|eidolon]] du conjurateur a une forme de base aquatique, le conjurateur rajoute +1,5 mètre à la portée de sa capacité [[Conjurateur#LIENVITAL|lien vital]].
 
-{s:MR}**[Druide](./Druide.md).** Le druide rajoute un bonus de +1 à ses tests d’[empathie sauvage](./Druide.md#EMPATHIESAUVAGE) pour influencer les [animaux](./type Animal.md) et les [créatures magiques](./type Créature magique.md) de sous-type [aquatique](./sous-type aquatique.md).
+{s:MR}**[[Druide]].** Le druide rajoute un bonus de +1 à ses tests d’[[Druide#EMPATHIESAUVAGE|empathie sauvage]] pour influencer les [[type Animal|animaux]] et les [[type Créature magique|créatures magiques]] de sous-type [[sous-type aquatique|aquatique]].
 
-{s:MR}**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur rajoute un bonus de +1 à ses tests de [niveau de lanceur de sorts](./NLS.md) pour lancer des sorts sous l’eau.
+{s:MR}**[[Ensorceleur]].** L’ensorceleur rajoute un bonus de +1 à ses tests de [[NLS|niveau de lanceur de sorts]] pour lancer des sorts sous l’eau.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}**[Magicien](./Magicien.md).** Le magicien rajoute à son grimoire un sort du [registre](./Registre.md) de l'eau choisi dans la [liste de sorts de druide](./Liste des sorts de druides.md), [de magicien](./Liste des sorts densorceleursmagiciens.md) ou [de prêtre](./Liste des sorts de prêtres.md). Ce sort doit être inférieur d’au moins un niveau au plus haut niveau de sort qu’il peut lancer, et est considéré comme supérieur d’un niveau à moins d’apparaître également sur la liste de sorts de magicien.
+{s:MR}**[[Magicien]].** Le magicien rajoute à son grimoire un sort du [[registre]] de l'eau choisi dans la [[Liste des sorts de druides|liste de sorts de druide]], [[Liste des sorts densorceleursmagiciens|de magicien]] ou [[Liste des sorts de prêtres|de prêtre]]. Ce sort doit être inférieur d’au moins un niveau au plus haut niveau de sort qu’il peut lancer, et est considéré comme supérieur d’un niveau à moins d’apparaître également sur la liste de sorts de magicien.
 
-{s:MR}**[Moine](./Moine.md).** Le moine rajoute +1 à son [DMD](./DMD.md) lorsqu’il résiste à une [lutte](./lutte.md) et peut faire 1/3 d’[attaques étourdissantes](./Moine.md#COUPETOURDISSANT) en plus par jour.
+{s:MR}**[[Moine]].** Le moine rajoute +1 à son [[DMD]] lorsqu’il résiste à une [[lutte]] et peut faire 1/3 d’[[Moine#COUPETOURDISSANT|attaques étourdissantes]] en plus par jour.
 
-{s:MR}**[Prêtre](./Prêtre.md).** Le prêtre rajoute un bonus de +1 à ses tests de [niveau de lanceur de sorts](./NLS.md) pour passer la [résistance à la magie](./Résistance à la magie (capacité).md) des créatures de sous-type [aquatique](./sous-type aquatique.md) ou [Eau](./sous-type Eau.md).
+{s:MR}**[[Prêtre]].** Le prêtre rajoute un bonus de +1 à ses tests de [[NLS|niveau de lanceur de sorts]] pour passer la [[Résistance à la magie (capacité)|résistance à la magie]] des créatures de sous-type [[sous-type aquatique|aquatique]] ou [[sous-type Eau|Eau]].
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -108,50 +108,50 @@ Voici les options accessibles aux ondins, d’autres races adaptées peuvent s�
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Ascendance aquatique](./Ascendance aquatique.md) || <sup>MR</sup> || [Ondin](./Ondin (race).md) || Gain du trait amphibien et aumgentation de la vitesse de nage
+| [[Ascendance aquatique]] || <sup>MR</sup> || [[ondin (race)|Ondin]] || Gain du trait amphibien et aumgentation de la vitesse de nage
 
 |- CLASS="premier"
-| [Flot des éléments](./Flot des éléments.md) || <sup>*ISR*</sup> || Capacité à lancer des sorts ; [ifrit](./Ifrit (race).md), [ondin](./Ondin (race).md), [oréade](./Oréade (race).md) ou [sylphe](./Sylphe (race).md) || Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don
+| [[Flot des éléments]] || <sup>*ISR*</sup> || Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]] || Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don
 
 |- CLASS="premier"
-| [Frappe élémentaire](./Frappe élémentaire.md) || <sup>*ISR*</sup> || [Ifrit](./Ifrit (race).md), [ondin](./Ondin (race).md), [oréade](./Oréade (race).md) ou [sylphe](./Sylphe (race).md) || Inflige +1 dégât de l'énergie liée à la race du personnage
+| [[Frappe élémentaire]] || <sup>*ISR*</sup> || [[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]] || Inflige +1 dégât de l'énergie liée à la race du personnage
 
 |- CLASS="premier"
-| [Mage de vapeur](./Mage de vapeur.md) || <sup>MR</sup> || [Ondin](./Ondin (race).md) || Lance des sorts de feu sous l'eau avec de la vapeur
+| [[Mage de vapeur]] || <sup>MR</sup> || [[ondin (race)|Ondin]] || Lance des sorts de feu sous l'eau avec de la vapeur
 
 |- CLASS="premier"
-| [Manœuvre hydraulique](./Manoeuvre hydraulique.md) || <sup>MR</sup> || [Ondin](./Ondin (race).md), pouvoir magique poussée hydraulique || Utilise la *poussée hydraulique* pour effectuer plus de manoeuvres
+| [[Manoeuvre hydraulique|Manœuvre hydraulique]] || <sup>MR</sup> || [[ondin (race)|Ondin]], pouvoir magique poussée hydraulique || Utilise la *poussée hydraulique* pour effectuer plus de manoeuvres
 
 |- CLASS="premier"
-| [Portail triton](./Portail triton.md) || <sup>MR</sup> || [Ondin](./Ondin (race).md), pouvoir magique de poussée hydraulique, niveau 5 || Convoque des alliés aquatiques avec les pouvoirs magiques raciaux
+| [[Portail triton]] || <sup>MR</sup> || [[ondin (race)|Ondin]], pouvoir magique de poussée hydraulique, niveau 5 || Convoque des alliés aquatiques avec les pouvoirs magiques raciaux
 
 |- CLASS="premier"
-| [Peau d'eau](./Peau deau.md) || <sup>MR</sup> || [Ondin](./Ondin (race).md) || Éteint les feux d'un simple contact
+| [[Peau deau|Peau d'eau]] || <sup>MR</sup> || [[ondin (race)|Ondin]] || Éteint les feux d'un simple contact
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Adepte ondin (druide)](./Adepte ondin (druide).md) *(MR)*
-- [Chanteur de l’eau (barde)](./Chanteur de leau (barde).md) *(MR)*
+- [[Adepte ondin (druide)]] *(MR)*
+- [[Chanteur de leau (barde)|Chanteur de l’eau (barde)]] *(MR)*
 
 #### Équipement
-- [Ceintures de chaîne](./Ceintures de chaîne (objet).md) *(MR)*
-- [Éponge à potion](./Éponge à potion (objet).md) *(MR)*
-- [Manche d’arme ondin](./Manche darme ondin (objet).md) *(MR)*
+- [[Ceintures de chaîne (objet)|Ceintures de chaîne]] *(MR)*
+- [[Éponge à potion (objet)|Éponge à potion]] *(MR)*
+- [[Manche darme ondin (objet)|Manche d’arme ondin]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Amulette en dent de requin](./Amulette en dent de requin.md) *(MR)*
-- [Châle de transfert vital](./Châle de Transfert Vital.md) *(MR)*
-- [Chaussons du triton](./Chaussons du triton.md) *(MR)*
+- [[Amulette en dent de requin]] *(MR)*
+- [[Châle de transfert vital]] *(MR)*
+- [[Chaussons du triton]] *(MR)*
 
 #### Sorts
-- [Appel des nixes](./Appel des nixes.md) *(MR)*
-- [Grâce des néréides](./Grâce des néréides.md) *(MR)*
-- [Maîtrise des marids](./Maîtrise des marids.md) *(MR)*
-- [Maîtrise élémentaire](./Maîtrise élémentaire.md) *(ISR)*
-- [Malédiction des ondins](./Malédiction des ondins.md) *(MR)*
+- [[Appel des nixes]] *(MR)*
+- [[Grâce des néréides]] *(MR)*
+- [[Maîtrise des marids]] *(MR)*
+- [[Maîtrise élémentaire]] *(ISR)*
+- [[Malédiction des ondins]] *(MR)*
 
 </td></tr></table>

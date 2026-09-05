@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Créature artificielle|Ciel|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 82*}
 - **76 800 PX**
-- [Créature artificielle](./type Créature artificielle.md) ([mécanique](./sous-type créature mécanique.md)) de taille TG, N
+- [[type créature artificielle|Créature artificielle]] ([[sous-type créature mécanique|mécanique]]) de taille TG, N
 - **Init **+8 ; **Sens** détection de l’invisibilité, vision dans le noir 18 m, vision nocturne ; Perception +8
 (((Défense)))
 - **CA** 34, contact 14, pris au dépourvu 28 (Dex +4, esquive +2, naturelle +20, taille -2)
 - **pv** 177 (25d10+40)
 - **Réf **+14, **Vig **+8, **Vol **+8
-- **RD** 15/adamantium ; **Immunité** [traits des créatures artificielles](./Traits des créatures artificielles.md); **Résistance** feu 20 ; **RM** 27
+- **RD** 15/adamantium ; **Immunité** [[traits des créatures artificielles]]; **Résistance** feu 20 ; **RM** 27
 - **Faiblesse** vulnérabilité à l’électricité
 (((Attaque)))
 - **VD** 18 m, nage 18 m, vol 30 m (moyenne)
@@ -33,8 +33,8 @@ Categories:
 (((Statistiques)))
 - **For** 34, **Dex** 19, **Con **—, **Int **—, **Sag** 11, **Cha** 1
 - **BBA** +25 ; **BMO** +39 ; **DMD** 55 (59 contre croc-en-jambe)
-- **Dons** [Réflexes surhumains](./Réflexes surhumains.md)<sup>S</sup>, [Science de l’initiative](./Science de linitiative.md)<sup>S</sup>
-- **Compétences** [Natation](./Natation.md) +20, [Perception](./Perception.md) +8, [Vol](./Vol.md) +8 ; **Modificateurs raciaux** +8 en Vol, +8 en Perception
+- **Dons** [[Réflexes surhumains]]<sup>S</sup>, [[Science de linitiative|Science de l’initiative]]<sup>S</sup>
+- **Compétences** [[Natation]] +20, [[Perception]] +8, [[Vol]] +8 ; **Modificateurs raciaux** +8 en Vol, +8 en Perception
 - **Particularités** création difficile, remontage efficace, réactivité
 (((Écologie)))
 - **Environnement** terre ferme
@@ -46,7 +46,7 @@ Categories:
 - **Remontage efficace (Ext)**. Construit pour accomplir de longues et dangereuses missions, le dragon mécanique fonctionne 3 jours par dé de vie à chaque fois qu’on le remonte.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [créatures mécaniques](./Créatures mécaniques.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Créatures mécaniques]].***</li></ul>
 *Ce chef d’oeuvre de métal luisant a beau être constitué de milliers de pièces métalliques, il plane dans les airs avec une grâce incroyable.*
 
 Les goliaths mécaniques possèdent une puissance brute supérieure mais le puissant souffle du dragon et sa capacité à voler en font un tueur plus gracieux et plus polyvalent. Son mécanisme de remontage est très complexe car la créature est conçue pour les vols et les missions de longue durée. Il est plus efficace que celui des autres créatures mécaniques en partie parce qu’il réutilise l’énergie née du mouvement de ses ailes et de la machinerie compliquée qui lui permet de souffler. De par sa construction, c’est l’une des créatures mécaniques les plus complexes et les plus subtiles. Ses nombreuses pièces mobiles sont renforcées par des supports et des ajouts en adamantium, ce qui fait de cette machine à tuer un brillant mélange de complexité et de terreur. Le châssis de base et les mécanismes internes des dragons mécaniques se modifient facilement et il existe donc de nombreuses variantes de ces créatures. Un dragon type mesure six mètres du bout du museau à la pointe de la queue pour un poids de soixante-quinze tonnes.
@@ -65,5 +65,5 @@ Voici quelques variantes de dragons mécaniques. Certains dragons cumulent plusi
 Le dragon mécanique est un véritable chef d’oeuvre de mécanique et il est très difficile à concevoir. Son créateur doit entamer la fabrication avec des pièces mécaniques d’une valeur de 25 000 po.
 
 **NLS** 18 ; **Prix** 300 000 po {br}
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[animation d’objets](./Animation dobjets.md), [quête](./Quête.md), [souhait limité](./Souhait limité.md) *; le créateur doit avoir un NLS de 18 au minimum ; **Compétence** [Artisanat](./Artisanat.md) (mécanique) DD 20 ; **Coût** 162 500 po
+**Conditions** [[Création de créatures artificielles]], *[[animation dobjets|animation d’objets]], [[quête]], [[souhait limité]] *; le créateur doit avoir un NLS de 18 au minimum ; **Compétence** [[Artisanat]] (mécanique) DD 20 ; **Coût** 162 500 po
 </div></td></tr></table>

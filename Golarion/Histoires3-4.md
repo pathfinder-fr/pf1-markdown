@@ -4,8 +4,8 @@ Title: Le prix de la vie
 LastModified: 2010-10-08 11:24
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du quatrième chapitre : "[Cost of Living](http://paizo.com/pathfinder/tales/serial/v5748dyo5lbdd)" de la nouvelle "Crimes de sang" par J.C. Hay.*
 
 Rares sont les choses que je déteste plus que ceux qui me trahissent. Une de ces choses, malheureusement, est d'être suspendue par les poignets. J'observai les environs. Les pièces faisaient visiblement partie du même bâtiment délabré où je m'étais trouvée ou, du moins, d'un bâtiment décoré dans le même style. Mes épaules étaient douloureuses ; c'était elles qui supportaient tout mon poids. Ils avaient lié mes bras dans mon dos puis m'avaient soulevée jusqu'à ce que mes pieds ne touchent presque plus le sol. C'était une protection efficace contre les tentatives d'évasion : sans support sur lequel prendre appui avec les pieds, c'était bien trop douloureux de tenter de défaire les nœuds. Arduga et Élias pendaient dans des positions similaires de part et d'autre de moi. C'était du moins le cas d'Élias. Arduga, avec ses nerfs et ses jointures mortes, ne ressentait sans doute pas l'inconfort qui accaparait ceux d'entre nous qui n'étaient pas encore morts.

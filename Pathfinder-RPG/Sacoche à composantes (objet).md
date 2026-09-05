@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-On considère qu’un lanceur de sorts ayant une sacoche à composantes a tous les [matériaux](./composantes.md) et [focalisateurs](./composantes.md) nécessaires pour lancer ses sorts, à l’exception des composantes ayant un coût spécifique, des focalisateurs divins et des focalisateurs qui ne rentrent pas dans une sacoche. La plupart des sacoches à composantes sont étanches et peuvent se porter en bandoulière ou à la ceinture.
+On considère qu’un lanceur de sorts ayant une sacoche à composantes a tous les [[composantes|matériaux]] et [[composantes|focalisateurs]] nécessaires pour lancer ses sorts, à l’exception des composantes ayant un coût spécifique, des focalisateurs divins et des focalisateurs qui ne rentrent pas dans une sacoche. La plupart des sacoches à composantes sont étanches et peuvent se porter en bandoulière ou à la ceinture.

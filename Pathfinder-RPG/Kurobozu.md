@@ -11,24 +11,24 @@ Categories:
 <div class="BD">
 {s:BDTitre|Kurobozu|FP 6}
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.163](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.163]]*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, LM}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, LM}
+{s:BDTexte|**Init** +8 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 20, pris au dépourvu 16 (Dex +4, moine +2, Sag +4)}
 {s:BDTexte|**pv** 76 (9d8+36)}
 {s:BDTexte|**Réf** +9, **Vig** +7, **Vol** +10}
-{s:BDTexte|**Capacités défensives** esquive totale ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants (capacité).md)}
+{s:BDTexte|**Capacités défensives** esquive totale ; **Immunités** [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m}
 {s:BDTexte|**Corps à corps** combat à mains nues, +12/+7 (1d8+5 plus fléau du sage) ou déluge de coups, +13/+13/+8 (1d8+5 plus fléau du sage)}
-{s:BDTexte|**Attaques spéciales** maladie, fléau du sage, vol de [souffle](./Souffle (capacité).md)}
+{s:BDTexte|**Attaques spéciales** maladie, fléau du sage, vol de [[Souffle (capacité)|souffle]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 18, **Con** —, **Int** 10, **Sag** 18, **Cha** 12}
-{s:BDTexte|**BBA** +6 ; **BMO** +11 ; **DMD** 34 (38 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (combat à mains nues), [Attaque en puissance](./Attaque en puissance.md), [Coup étourdissant](./Coup étourdissant.md)<sup>S</sup> , [Maîtrise du combat défensif](./Maîtrise du combat défensif.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science du combat à mains nues](./Science du combat à mains nues.md)<sup>S</sup>, [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +13, [Discrétion](./Discrétion.md) +16, [Escalade](./Escalade.md) +12, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +12}
+{s:BDTexte|**BBA** +6 ; **BMO** +11 ; **DMD** 34 (38 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (combat à mains nues), [[Attaque en puissance]], [[Coup étourdissant]]<sup>S</sup> , [[Maîtrise du combat défensif]], [[Réflexes surhumains]], [[Science du combat à mains nues]]<sup>S</sup>, [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +13, [[Discrétion]] +16, [[Escalade]] +12, [[Perception]] +16, [[Psychologie]] +12}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** écho de vie, fléau du sage}
 {s:BDSousTitre|Écologie}
@@ -36,10 +36,10 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, paire ou garde (3-5)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Écho de vie (Sur).** Un kurobozu conserve une certaine mesure de la discipline qu’il avait dans la vie. Il possède certaines caractéristiques de classe en commun avec les moines : l’[esquive totale](./Moine.md#ESQUIVETOTALE), le [bonus à la CA](./Moine.md#BONUSCA), le [coup étourdissant](./Moine.md#COUPETOURDISSANT) et le [déluge de coups](./Moine.md#DELUGEDECOUPS), et les dégâts qu’il inflige à mains nues sont équivalents à ceux donnés par un [moine](./Moine.md) d’un niveau égal au nombre de [dés de vie](./../Ressources/DV.md) du kurobozo. L’effet d’un coup étourdissant donné par un kurobozu dure 1 round de plus que la normale et un kurobozu remplace son modificateur de [Constitution](./Constitution.md) par son modificateur de [Sagesse](./Sagesse.md) au lieu de son modificateur de [Charisme](./Charisme.md).}
-{s:BDTexte|**Fléau du sage (Sur).** Toute cible frappée à mains nues par un kurobozu subit un [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d4 points de [Sagesse](./Sagesse.md) et perd une quantité égale de [ki](./Moine.md#RESERVEDEKI) ([Vigueur](./Vigueur.md) DD 18 annule les deux effets). Pour chaque dégât de Sagesse infligé par un kurobozu, il gagne 5 points de vie. Les points de vie qu’il reçoit et qui dépassent son maximum sont considérés comme des [points de vie temporaires](./points de vie temporaires.md) qui se dissipent au bout de 1 minute. Le DD du jet de sauvegarde est basé sur la Sagesse.}
-{s:BDTexte|**Maladie (Sur).** *Anoxie noire* : Vol de souffle — inhalation ; *jet de sauvegarde* [Vigueur](./Vigueur.md) DD 18 ; *incubation* 1 jour ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d3 [Constitution](./Constitution.md) et [épuisé](./Épuisé.md) ; *guérison* 2 réussites consécutives.}
-{s:BDTexte|**Vol de souffle (Sur).** Par une [action simple](./Action simple.md), un kurobozu peut voler le souffle d’une cible [étourdie](./Étourdi.md) ou [sans défense](./Sans défense.md) de la même manière que le sort *[suffocation](./Suffocation.md)*, sauf que la victime ne peut pas en mourir. Qu’elle réussisse ou non son [jet de sauvegarde](./JDS.md), la victime ne peut pas parler pendant 1 minute et son souffle dégage une odeur de charogne. Cette capacité expose aussi la victime à la maladie du kurobozu.}
+{s:BDTexte|**Écho de vie (Sur).** Un kurobozu conserve une certaine mesure de la discipline qu’il avait dans la vie. Il possède certaines caractéristiques de classe en commun avec les moines : l’[[Moine#ESQUIVETOTALE|esquive totale]], le [[Moine#BONUSCA|bonus à la CA]], le [[Moine#COUPETOURDISSANT|coup étourdissant]] et le [[Moine#DELUGEDECOUPS|déluge de coups]], et les dégâts qu’il inflige à mains nues sont équivalents à ceux donnés par un [[moine]] d’un niveau égal au nombre de [[DV|dés de vie]] du kurobozo. L’effet d’un coup étourdissant donné par un kurobozu dure 1 round de plus que la normale et un kurobozu remplace son modificateur de [[Constitution]] par son modificateur de [[Sagesse]] au lieu de son modificateur de [[Charisme]].}
+{s:BDTexte|**Fléau du sage (Sur).** Toute cible frappée à mains nues par un kurobozu subit un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d4 points de [[Sagesse]] et perd une quantité égale de [[Moine#RESERVEDEKI|ki]] ([[Vigueur]] DD 18 annule les deux effets). Pour chaque dégât de Sagesse infligé par un kurobozu, il gagne 5 points de vie. Les points de vie qu’il reçoit et qui dépassent son maximum sont considérés comme des [[points de vie temporaires]] qui se dissipent au bout de 1 minute. Le DD du jet de sauvegarde est basé sur la Sagesse.}
+{s:BDTexte|**Maladie (Sur).** *Anoxie noire* : Vol de souffle — inhalation ; *jet de sauvegarde* [[Vigueur]] DD 18 ; *incubation* 1 jour ; *fréquence* 1/jour ; *effet* [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3 [[Constitution]] et [[épuisé]] ; *guérison* 2 réussites consécutives.}
+{s:BDTexte|**Vol de souffle (Sur).** Par une [[action simple]], un kurobozu peut voler le souffle d’une cible [[étourdi|étourdie]] ou [[sans défense]] de la même manière que le sort *[[suffocation]]*, sauf que la victime ne peut pas en mourir. Qu’elle réussisse ou non son [[jds|jet de sauvegarde]], la victime ne peut pas parler pendant 1 minute et son souffle dégage une odeur de charogne. Cette capacité expose aussi la victime à la maladie du kurobozu.}
 
 </div></td>
 <td><div>*La bouche de ce moine émacié à la peau grisâtre est un puits de ténèbres sans fond.*

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Druide#MILLEVISAGES
 ---
 
->>> [Druide#MILLEVISAGES](./Druide.md#MILLEVISAGES)
+>>> [[Druide#MILLEVISAGES]]

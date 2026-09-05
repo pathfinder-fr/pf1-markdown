@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#DEGREDEDIFFICULTE
 ---
 
->>> [Vocabulaire courant#DEGREDEDIFFICULTE](./Vocabulaire courant.md#DEGREDEDIFFICULTE)
+>>> [[Vocabulaire courant#DEGREDEDIFFICULTE]]

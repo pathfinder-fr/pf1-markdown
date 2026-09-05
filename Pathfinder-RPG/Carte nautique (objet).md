@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:PMI}**Prix** 25 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Pour certains de leurs acquéreurs, les cartes nautiques s'avèrent plus précieuses que l'or. Ces cartes représentent les voies navigables, la profondeur des eaux, la hauteur et le contour des côtes, ainsi que les courants, les ports, les dangers pour la navigation, les récifs et les marées. Une carte nautique confère un bonus de circonstances de +4 aux tests de [Profession](./Profession.md) (marin) effectués pour s'orienter dans une zone décrite sur celle-ci.
+Pour certains de leurs acquéreurs, les cartes nautiques s'avèrent plus précieuses que l'or. Ces cartes représentent les voies navigables, la profondeur des eaux, la hauteur et le contour des côtes, ainsi que les courants, les ports, les dangers pour la navigation, les récifs et les marées. Une carte nautique confère un bonus de circonstances de +4 aux tests de [[Profession]] (marin) effectués pour s'orienter dans une zone décrite sur celle-ci.

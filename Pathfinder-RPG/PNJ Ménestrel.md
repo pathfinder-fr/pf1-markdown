@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Amuseurs publics#MENESTREL
 ---
 
->>> [Amuseurs publics#MENESTREL](./Amuseurs-publics.md#MENESTREL)
+>>> [[Amuseurs publics#MENESTREL]]

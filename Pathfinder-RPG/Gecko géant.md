@@ -10,8 +10,8 @@ LastModified: 2020-09-20 02:44
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|**Source** : Bestiaire 3 p.178}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
 {s:BDTexte|**pv** 11 (2d8+2)}
@@ -22,8 +22,8 @@ LastModified: 2020-09-20 02:44
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 15, **Con** 12, **Int** 2, **Sag** 14, **Cha** 7}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 14 (18 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +21, [Perception](./Perception.md) +6 ; **Modificateurs raciaux** [Escalade](./Escalade.md) +8}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Escalade]] +21, [[Perception]] +6 ; **Modificateurs raciaux** [[Escalade]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou montagnes chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-6)}
@@ -38,13 +38,13 @@ LastModified: 2020-09-20 02:44
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Caméléon géant](./Caméléon géant.md) || 3
+| [[Caméléon géant]] || 3
 |-
-| [Gecko géant](./Gecko géant.md) || 1
+| [[Gecko géant]] || 1
 |-
-| [Lézard à collerette géant](./Lézard à collerette géant.md) || 5
+| [[Lézard à collerette géant]] || 5
 |-
-| [Varan](./Varan.md) || 2
+| [[Varan]] || 2
 |}
 </div>*En plus de ses grands yeux globuleux lui permettant de repérer ses proies de loin, ce lézard surdimensionné aux écailles lisses a des pieds palmés écartés et une mâchoire aux dents pointues*
 
@@ -52,7 +52,7 @@ Ces lézards sont souvent dociles et prennent la fuite plutôt que d'attaquer de
 
 #### Le gecko géant comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m ; **Attaque** morsure (1d6) ; **Caractéristiques** For 11, Dex 15, Con 12, Int 2, Sag 14, Cha 7 ; **Particularités** expert en escalade, [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m ; **Attaque** morsure (1d6) ; **Caractéristiques** For 11, Dex 15, Con 12, Int 2, Sag 14, Cha 7 ; **Particularités** expert en escalade, [[vision nocturne]].
 
 **Développement au niveau 4.** **Taille** M **Vitesse** 12 m ; **CA** armure naturelle +2 ; **Attaque** morsure (2d4) ; **Caractéristiques** For +4, Dex -2, Con +2.
 

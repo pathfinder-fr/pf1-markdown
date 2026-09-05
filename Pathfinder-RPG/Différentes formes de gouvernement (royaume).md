@@ -7,7 +7,7 @@ Categories:
 - Src Guide de campagne
 ---
 
-{s:MenuGC}{s:GC}Les règles de construction de royaume partent du principe que votre gouvernement suit le modèle de la monarchie féodale, avec un gouvernement nommé à vie (qu’il soit nommé par lui-même ou par un monarque voisin) dont les membres transmettent leurs titres à leurs héritiers. En choisissant votre type de gouvernement, vous allez donner un peu de couleur et de vie à votre pays mais vous allez aussi influer sur ses [modificateurs de communauté](./Villes.md#Les_modificateurs_de_communauté_2). Voici les diverses possibilités.
+{s:MenuGC}{s:GC}Les règles de construction de royaume partent du principe que votre gouvernement suit le modèle de la monarchie féodale, avec un gouvernement nommé à vie (qu’il soit nommé par lui-même ou par un monarque voisin) dont les membres transmettent leurs titres à leurs héritiers. En choisissant votre type de gouvernement, vous allez donner un peu de couleur et de vie à votre pays mais vous allez aussi influer sur ses [[Villes#Les_modificateurs_de_communauté_2|modificateurs de communauté]]. Voici les diverses possibilités.
 - **Autocratie.** Une unique personne règne avec l’aval du peuple. Ce peut être un individu élu par le peuple, un héros très populaire qui a été appelé au pouvoir ou même un monarque héréditaire qui tient les rênes du pouvoir d’une main légère.
   - *Modificateurs :* aucun.
 

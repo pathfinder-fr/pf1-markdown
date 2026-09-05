@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Livre des damnés.md).***
+***Voir les [[Pathfinder-RPG.Livre des damnés|statistiques de cet artefact]].***
 
 Cet énorme volume dont la couverture est faite de lames d’acier, de chair humaine tendue et de cendres compressées, et composé de feuillets volants, de parchemins tannés et de manuscrits sanglants, est la référence première concernant les sujets et les maux indicibles pour lesquels il n’existe pas de nom.
 

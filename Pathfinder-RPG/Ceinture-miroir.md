@@ -9,13 +9,13 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Ceinture-miroir|{s:CMy}}
-**Aura** [Illusion](./Illusion.md) modérée ; **NLS** 6 ; **Emplacement** [taille](./Objets merveilleux portés à la taille.md) ; **Prix** 36 000 po ; **Poids** 1 kg
+**Aura** [[Illusion]] modérée ; **NLS** 6 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 36 000 po ; **Poids** 1 kg
 (((Description)))
-Cette large ceinture est faite de plaques en acier poli au fini étincelant. Elle accorde à son porteur un bonus d'altération de +2 en [Dextérité](./Dextérité.md). Considérez qu'il s'agit d'un bonus de caractéristique temporaire pendant les 24 premières heures où la ceinture est portée.
+Cette large ceinture est faite de plaques en acier poli au fini étincelant. Elle accorde à son porteur un bonus d'altération de +2 en [[Dextérité]]. Considérez qu'il s'agit d'un bonus de caractéristique temporaire pendant les 24 premières heures où la ceinture est portée.
 
-Trois fois par jour, le porteur peut utiliser *[image miroir](./Image miroir.md)* pour créer des doubles illusoires qui durent 6 minutes ou jusqu'à destruction. Ils fonctionnent comme les images que génère normalement le sort sauf que toutes les attaques à distance (y compris les sorts de contact à distance) qui touchent et détruisent une image sont renvoyés sur l'attaquant. Elles utilisent le [jet d'attaque](./jet dattaque.md) originel de l'attaquant pour savoir si elles touchent ou non.
+Trois fois par jour, le porteur peut utiliser *[[image miroir]]* pour créer des doubles illusoires qui durent 6 minutes ou jusqu'à destruction. Ils fonctionnent comme les images que génère normalement le sort sauf que toutes les attaques à distance (y compris les sorts de contact à distance) qui touchent et détruisent une image sont renvoyés sur l'attaquant. Elles utilisent le [[jet dattaque|jet d'attaque]] originel de l'attaquant pour savoir si elles touchent ou non.
 
-Si le porteur dépense une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour activer la ceinture, les *images miroirs* se reforment quand le porteur est touché. Cela fonctionne comme décrit ci-dessus à la seule différence que chaque fois qu'une attaque touche le porteur plutôt qu'une image, la ceinture crée une nouvelle image, dans la limite des huit images du sort. Contrairement à *image miroir*, l'effet ne se termine pas quand les images ont disparu. S'il n'y a plus d'images, la ceinture continue d'en créer de nouvelles pendant toute la durée de l'effet.
+Si le porteur dépense une utilisation de [[pouvoir mythique]] pour activer la ceinture, les *images miroirs* se reforment quand le porteur est touché. Cela fonctionne comme décrit ci-dessus à la seule différence que chaque fois qu'une attaque touche le porteur plutôt qu'une image, la ceinture crée une nouvelle image, dans la limite des huit images du sort. Contrairement à *image miroir*, l'effet ne se termine pas quand les images ont disparu. S'il n'y a plus d'images, la ceinture continue d'en créer de nouvelles pendant toute la durée de l'effet.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), [Artisan mythique](./Artisan mythique (mythique).md), *[grâce féline](./Grâce féline.md)*, *[image miroir](./Image miroir.md)* ; **Coût** 18 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], [[Artisan mythique (mythique)|Artisan mythique]], *[[grâce féline]]*, *[[image miroir]]* ; **Coût** 18 000 po
 </div>

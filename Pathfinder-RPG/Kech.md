@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 p.164*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 13, pris au dépourvu 13 (Dex +2, esquive +1, naturelle +3)}
 {s:BDTexte|**pv** 26 (4d10+4)}
@@ -24,19 +24,19 @@ Categories:
 {s:BDTexte|**VD** 12 m (8 {s:c}), escalade 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +5 (1d6+1) et 2 griffes, +5 (1d4+1)}
 {s:BDTexte|**A distance** arc long, +6 (1d8/×3)}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration (capacité).md) (2 griffes 1d4+1)}
+{s:BDTexte|**Attaques spéciales** [[Éventration (capacité)|éventration]] (2 griffes 1d4+1)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 4<sup>e</sup> ; concentration +4)}
-{s:BDSorts|*Constant* — [passage sans trace](./passage sans trace.md)}
+{s:BDSorts|*Constant* — [[passage sans trace]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 15, **Con** 12, **Int** 10, **Sag** 12, **Cha** 11}
 {s:BDTexte|**BBA** +4, **BMO** +5, **DMD** 18}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +6 (+10 pour le saut), [Discrétion](./Discrétion.md) +13 (+19 en forêt et en jungle), [Escalade](./Escalade.md) +16, [Perception](./Perception.md) +10}
-{s:BDTexte|**Modificateurs raciaux** +2 en [Perception](./Perception.md), +4 en [Discrétion](./Discrétion.md) (+10 en forêt et dans la jungle)}
+{s:BDTexte|**Dons** [[Esquive]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +6 (+10 pour le saut), [[Discrétion]] +13 (+19 en forêt et en jungle), [[Escalade]] +16, [[Perception]] +10}
+{s:BDTexte|**Modificateurs raciaux** +2 en [[Perception]], +4 en [[Discrétion]] (+10 en forêt et dans la jungle)}
 {s:BDTexte|**Langues** kech}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes}
-{s:BDTexte|**Organisation sociale** solitaire, couple ou tribu (3-36 plus 2-6 [gorilles sanguinaires](./Gorille sanguinaire.md))}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou tribu (3-36 plus 2-6 [[gorille sanguinaire|gorilles sanguinaires]])}
 {s:BDTexte|**Trésor** standard (arc long avec 20 flèches, autre trésor)}
 </div>
 </td><td><div>

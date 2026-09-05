@@ -10,6 +10,6 @@ Categories:
 
 {s:mca} *Le personnage est capable d’utiliser des sorts simples en puisant dans la majesté brute de la nature.*
 
-**Conditions.** 1 rang en [Connaissances](./Connaissances.md) (nature).
+**Conditions.** 1 rang en [[Connaissances]] (nature).
 
-**Avantage.** Le personnage gagne le pouvoir magique constant [repérage](./Repérage.md) et peut choisir une autre oraison de [druide](./Druide.md) qu’il peut lancer comme un [pouvoir magique](./pouvoir magique.md) une fois par jour. Son [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) pour ces deux pouvoirs magiques est égal à son niveau de personnage.
+**Avantage.** Le personnage gagne le pouvoir magique constant [[repérage]] et peut choisir une autre oraison de [[druide]] qu’il peut lancer comme un [[pouvoir magique]] une fois par jour. Son [[niveau de lanceur de sorts]] pour ces deux pouvoirs magiques est égal à son niveau de personnage.

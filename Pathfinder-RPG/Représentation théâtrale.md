@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage est un talentueux combattant, c’est aussi évident pour ses ennemis que pour les spectateurs. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** [Démonstration](./Démonstration.md)
+**Condition.** [[Démonstration]]
 
-**Avantage.** Quand le personnage dépense une [action rapide](./Action rapide.md) pour faire un test de [représentation](./Barde.md#REPRESENTATIONBARDIQUE), il dégage une aura qui émerveille les gens. Il gagne un bonus de +2 au test et un autre bonus de +2 aux [jets d’attaque](./jet dattaque.md) et aux tests de [manœuvre offensive](./Manœuvre offensive.md) jusqu’à la fin de son prochain tour.
+**Avantage.** Quand le personnage dépense une [[action rapide]] pour faire un test de [[barde#REPRESENTATIONBARDIQUE|représentation]], il dégage une aura qui émerveille les gens. Il gagne un bonus de +2 au test et un autre bonus de +2 aux [[jet dattaque|jets d’attaque]] et aux tests de [[manœuvre offensive]] jusqu’à la fin de son prochain tour.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise ce don, il peut dépenser 5 points d’endurance pour gagner en plus un bonus d’esquive de +2 à la [CA](./CA.md) jusqu’à la fin de son prochain tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise ce don, il peut dépenser 5 points d’endurance pour gagner en plus un bonus d’esquive de +2 à la [[CA]] jusqu’à la fin de son prochain tour.

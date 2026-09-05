@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 15 kg<sup>[1](./Équipement daventurier.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+{s:AE}**Prix** 1 po ; **Poids** 15 kg<sup>[[Équipement daventurier#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Ce lit de camp surélevé est fait de bois et de tissu. Il est particulièrement utile quand le sol est humide ou rocailleux. Il est assez grand pour accueillir un humain adulte mais se replie en un sac cylindrique de 1,20 mètre sur 23 centimètres.

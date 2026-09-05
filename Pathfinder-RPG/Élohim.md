@@ -10,7 +10,7 @@ LastModified: 2017-02-28 20:32
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 92*}
 - **819 200 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [mythique](./sous-type mythique.md)) de taille TG, N
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type mythique|mythique]]) de taille TG, N
 - **Init **+16M/-4, initiative double ; **Sens **vision aveugle à 18 m, vision dans le noir à 18 m, perception de la mort, vision nocturne, odorat ; Perception +34
 (((Défense)))
 - **CA **39, contact 20, pris au dépourvu 32 (Dex +6, esquive +1, intuition +5, naturelle +19, taille -2)
@@ -23,16 +23,16 @@ LastModified: 2017-02-28 20:32
 - **Espace **4,50 m ; **Allonge **4,50 m
 - **Attaques spéciales** souffle (cône de 18 m, 20d8 électricité, Réflexes DD 32 1/2 dégâts, utilisable tous les 1d4 rounds), constriction (2d8+10), magie mythique, pouvoir mythique (6/jour, montée en puissance +1d8)
 - **Pouvoirs magiques** (**NLS **23 ; concentration +30)
-- *Constant *— [communication avec les animaux](./Communication avec les animaux.md), [esprit impénétrable](./Esprit impénétrable.md), [perception de la mort](./Perception de la mort.md)
-- *À volonté* — [changement de forme](./Changement de forme.md), [charme-monstre](./Charme-monstre.md) (DD 21), [façonnage de la pierre](./Façonnage de la pierre.md), [métamorphose funeste](./Métamorphose funeste.md) (DD 22), [passage dans l’éther](./Passage dans léther.md), [repos éternel](./Repos éternel.md), [téléportation suprême](./Téléportation suprême.md) (soi-même plus 25 kg d’objets uniquement)
-- *5/jour* — [changement de plan](./Changement de plan.md) (DD 24), [contrôle du climat](./Contrôle du climat.md), [dissipation suprême](./Dissipation suprême.md), [guérison suprême](./Guérison suprême.md), [métamorphose suprême](./Métamorphose suprême.md), [terraformation](./Terraformation.md)
-- *3/jour* — [cercle de mort](./Cercle de mort.md) (DD 23), [désintégration](./Désintégration.md) (DD 23), [mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md) 
-- *1/jour* — [création de demi-plan](./Création de demi-plan.md), [disjonction](./Disjonction.md)
+- *Constant *— [[communication avec les animaux]], [[esprit impénétrable]], [[perception de la mort]]
+- *À volonté* — [[changement de forme]], [[charme-monstre]] (DD 21), [[façonnage de la pierre]], [[métamorphose funeste]] (DD 22), [[passage dans léther|passage dans l’éther]], [[repos éternel]], [[téléportation suprême]] (soi-même plus 25 kg d’objets uniquement)
+- *5/jour* — [[changement de plan]] (DD 24), [[contrôle du climat]], [[dissipation suprême]], [[guérison suprême]], [[métamorphose suprême]], [[terraformation]]
+- *3/jour* — [[cercle de mort]] (DD 23), [[désintégration]] (DD 23), [[mot de pouvoir étourdissant]] 
+- *1/jour* — [[création de demi-plan]], [[disjonction]]
 (((Statistiques)))
 - **For **24, **Dex **22, **Con** 32, **Int **25, **Sag **29, **Cha **25
 - **BBA **+22 ; **BMO **+31 (+35 pour la lutte) ; **DMD **53 (croc-en-jambe impossible)
-- **Dons **[Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Frappe décisive](./Frappe décisive.md), [Magie de guerre](./Magie de guerre.md), [Science de l’initiative](./Science de linitiative.md)<sup>M</sup>, [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de la vigueur surhumaine](./Science de la vigueur surhumaine.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Vigueur surhumaine](./Vigueur surhumaine.md)<sup>M</sup>, [Volonté de fer](./Volonté de fer.md)<sup>M</sup> 
-- **Compétences **[Art de la magie](./Art de la magie.md) +29, [Bluff](./Bluff.md) +32, [Connaissances](./Connaissances.md) (mystères, exploration souterraine, géographie, nature, plans) +32, [Discrétion](./Discrétion.md) +23, [Intimidation](./Intimidation.md) +29, [Natation](./Natation.md) +15, [Perception](./Perception.md) +34, [Premiers secours](./Premiers secours.md) +31, [Psychologie](./Psychologie.md) +34, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +29 
+- **Dons **[[Attaques réflexes]], [[Esquive]], [[Frappe décisive supérieure]], [[Frappe décisive]], [[Magie de guerre]], [[Science de linitiative|Science de l’initiative]]<sup>M</sup>, [[Science de la frappe décisive]], [[Science de la vigueur surhumaine]], [[Science de la volonté de fer]], [[Vigueur surhumaine]]<sup>M</sup>, [[Volonté de fer]]<sup>M</sup> 
+- **Compétences **[[Art de la magie]] +29, [[Bluff]] +32, [[Connaissances]] (mystères, exploration souterraine, géographie, nature, plans) +32, [[Discrétion]] +23, [[Intimidation]] +29, [[Natation]] +15, [[Perception]] +34, [[Premiers secours]] +31, [[Psychologie]] +34, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +29 
 - **Langues **communication avec les animaux, télépathie à 30 m 
 - **Particularités **compression, création de la vie, incantation naturelle, ne respire pas, amis des plantes
 (((Écologie)))

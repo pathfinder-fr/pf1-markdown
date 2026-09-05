@@ -9,11 +9,11 @@ Categories:
 - Sort druide 1
 ---
 
-{s:MCA}**École** [Enchantement](./Enchantement.md) ; **Niveau** [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1
-**Temps d’incantation** 1 [round](./round.md)
-**Composantes** [V, G, FD](./composantes.md)
+{s:MCA}**École** [[Enchantement]] ; **Niveau** [[chaman|Cham]] 1, [[druide|Dru]] 1
+**Temps d’incantation** 1 [[round]]
+**Composantes** [[Composantes|V, G, FD]]
 **Portée** 30 m
-**Effet** [étendue](./étendue.md) de 30 m de rayon centrée sur le personnage
-**Durée** 1 minute/[niveau](./niveau.md)
+**Effet** [[étendue]] de 30 m de rayon centrée sur le personnage
+**Durée** 1 minute/[[niveau]]
 
-Le personnage fait appel aux esprits de la nature associés à son [esprit](./Chaman.md#ESPRIT) (et non à son [esprit errant](./Chaman.md#ESPRITERRANT)) si c’est un chaman ou à son [domaine](./Druide.md#PACTEAVECLANATURE) si c’est un druide et attire leur attention sur sa position actuelle. Pendant toute la durée du sort, tous les sorts de sa liste de [magie des esprits](./Chaman.md#MAGIEDESESPRITS) ou de sa [liste de domaine](./Druide.md#PACTEAVECLANATURE) lancés à l’intérieur de la zone affectée voient leur [niveau de lanceur de sorts](./NLS.md) augmenté de 1 et tous les lanceurs de sorts qui lancent ces mêmes sorts bénéficient d’un bonus d’intuition de +4 à leurs [tests de concentration](./test de concentration.md).
+Le personnage fait appel aux esprits de la nature associés à son [[chaman#ESPRIT|esprit]] (et non à son [[chaman#ESPRITERRANT|esprit errant]]) si c’est un chaman ou à son [[druide#PACTEAVECLANATURE|domaine]] si c’est un druide et attire leur attention sur sa position actuelle. Pendant toute la durée du sort, tous les sorts de sa liste de [[chaman#MAGIEDESESPRITS|magie des esprits]] ou de sa [[druide#PACTEAVECLANATURE|liste de domaine]] lancés à l’intérieur de la zone affectée voient leur [[NLS|niveau de lanceur de sorts]] augmenté de 1 et tous les lanceurs de sorts qui lancent ces mêmes sorts bénéficient d’un bonus d’intuition de +4 à leurs [[test de concentration|tests de concentration]].

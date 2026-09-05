@@ -6,9 +6,9 @@ LastModified: 2024-06-03 17:00
 
 <div class="BD">
 {s:BDTitre|Cartouchière inépuisable|{s:AE}}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 9 ; **Emplacement** [torse](./Objets merveilleux portés sur le torse.md) ; **Prix** 1.500 po ; **Poids** 1 kg
+**Aura** [[Invocation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 1.500 po ; **Poids** 1 kg
 (((Description)))
-On dirait que les boucles cousues sur cette cartouchière peuvent contenir jusqu’à vingt [cartouches alchimiques](./Cartouche alchimique (arme).md) mais elles peuvent en réalité contenir jusque 60 cartouches grâce à une légère distorsion spatiale. De plus, il y a six poches de tailles diverses (en réalité des espaces extradimensionnels) capables de contenir des armes à feu et du matériel supplémentaires. Les quatre petites poches peuvent chacune contenir une arme à feu à une main, 500 g de munitions, une corne de poudre noire ou un objet de taille similaire. Les deux grandes poches peuvent chacune contenir une arme à feu à deux mains ou un objet de taille similaire. Il est aussi aisé de sortir un objet rangé dans la cartouchière que dans une bourse à munitions ou un holster. Le poids de la cartouchière reste le même, quel que soit le nombre d’objets rangés à l’intérieur.
+On dirait que les boucles cousues sur cette cartouchière peuvent contenir jusqu’à vingt [[Cartouche alchimique (arme)|cartouches alchimiques]] mais elles peuvent en réalité contenir jusque 60 cartouches grâce à une légère distorsion spatiale. De plus, il y a six poches de tailles diverses (en réalité des espaces extradimensionnels) capables de contenir des armes à feu et du matériel supplémentaires. Les quatre petites poches peuvent chacune contenir une arme à feu à une main, 500 g de munitions, une corne de poudre noire ou un objet de taille similaire. Les deux grandes poches peuvent chacune contenir une arme à feu à deux mains ou un objet de taille similaire. Il est aussi aisé de sortir un objet rangé dans la cartouchière que dans une bourse à munitions ou un holster. Le poids de la cartouchière reste le même, quel que soit le nombre d’objets rangés à l’intérieur.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[coffre secret](./Coffre secret.md)*  ; **Coût** 750 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[coffre secret]]*  ; **Coût** 750 po
 </div>

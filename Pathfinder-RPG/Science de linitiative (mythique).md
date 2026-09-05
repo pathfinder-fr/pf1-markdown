@@ -10,6 +10,6 @@ Categories:
 
 {s:cmy}*Le personnage engage le combat avec une rapidité et une assurance incroyables.*
 
-**Condition.** [Science de l’initiative](./Science de linitiative.md)
+**Condition.** [[Science de linitiative|Science de l’initiative]]
 
-**Avantage.** Le bonus aux tests d’initiative dont bénéficie le personnage grâce à [Science de l’initiative](./Science de linitiative.md) augmente d’un montant égal à son [grade](./Grade.md). De plus, au lieu de lancer le dé d’[initiative](./initiative.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour considérer que son jet est un 20 naturel.
+**Avantage.** Le bonus aux tests d’initiative dont bénéficie le personnage grâce à [[Science de linitiative|Science de l’initiative]] augmente d’un montant égal à son [[grade]]. De plus, au lieu de lancer le dé d’[[initiative]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour considérer que son jet est un 20 naturel.

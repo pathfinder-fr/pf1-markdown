@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Capacités spéciales#TYPES
 ---
 
->>> [Capacités spéciales#TYPES](./Capacités spéciales.md#TYPES)
+>>> [[Capacités spéciales#TYPES]]

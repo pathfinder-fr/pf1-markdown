@@ -10,7 +10,7 @@ Categories:
 Zon-Kuthon est l'abject dieu des tortures, de la souffrance et de la douleur. Il n'existe aucune créature plus mauvaise et plus horrible dans l'univers.
 
 ### Histoire
-Zon-Kuthon fut longtemps connu sous le nom de [Golarion.Dou-Bral|Dou-Bral], demi-dieu de la beauté, et demi-frère de [Golarion.Shélyn|Shélyn]. Après une terrible dispute, Dou-Bral décida de voyager à travers les plans. Là, dans le grand Au-delà, il rencontra une créature d'ombre pure qui s'infiltra dans son corps et prit possession de son âme. Quand Dou-Bral revint sur Golarion, ce fut avec la personnalité et l'apparence de Zon-Kuthon le Seigneur de Minuit. Accueilli en fils prodigue par son père [Golarion.Tron|Tron], Zon-Kuthon captura celui-ci, le tortura au-delà de toutes mesures, transfigurant son corps et son âme. Le Dieu-loup devint le [Golarion.Prince enchaîné|Prince enchainé], le terrible héraut de Zon-Kuthon.
+Zon-Kuthon fut longtemps connu sous le nom de [[Golarion.Dou-Bral|Dou-Bral]], demi-dieu de la beauté, et demi-frère de [[Golarion.Shélyn|Shélyn]]. Après une terrible dispute, Dou-Bral décida de voyager à travers les plans. Là, dans le grand Au-delà, il rencontra une créature d'ombre pure qui s'infiltra dans son corps et prit possession de son âme. Quand Dou-Bral revint sur Golarion, ce fut avec la personnalité et l'apparence de Zon-Kuthon le Seigneur de Minuit. Accueilli en fils prodigue par son père [[Golarion.Tron|Tron]], Zon-Kuthon captura celui-ci, le tortura au-delà de toutes mesures, transfigurant son corps et son âme. Le Dieu-loup devint le [[Golarion.Prince enchaîné|Prince enchainé]], le terrible héraut de Zon-Kuthon.
 
 
 Pour cet acte horrible, Zon-kuthon fut banni par les autres dieux sur le plan de l'ombre, jusqu'à ce qu'il fasse nuit en plein jour. Durant de nombreux siècles, le dieu de l'ombre pleura des larmes de rage et planifia sa vengeance. Quand la Pierre-étoile s'écrasa sur Golarion, Zon-Kuthon enfin libre, répandit des hordes de créatures d'ombres à l'assaut du monde.
@@ -35,15 +35,15 @@ Comme le culte est Loyal, au sein de ces obédiences, il y a une hiérarchie sé
 
 Les suivants de Zon-kuthon étant rarement les bienvenues dans une communauté, ils ont tendance à cacher leur croyance ainsi que leur lieu de culte. Cette clandestinité, ainsi que leur goût prononcé pour les ténèbres, les poussent à choisir des bâtiments désaffectés, des caves et autres ruines qu'ils transforment en salle de torture.
 
-Le [Nidal](./Nidal.md) est la nation qui possède le plus de fidèles du Seigneur de Minuit, ces dirigeants ayant passé un pacte de servitude durant l'âge des ténèbres.
+Le [[Nidal]] est la nation qui possède le plus de fidèles du Seigneur de Minuit, ces dirigeants ayant passé un pacte de servitude durant l'âge des ténèbres.
 
 ### Textes sacrés
 
 Les feuilles de l'ombre : Les tenants de la foi en Zon-kuthon sont inscrits en lettres de sang sur de la peau.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [cinquième volume](./../Aventures/Présentation AP2.md#AP2-5) de la seconde campagne, [La Malédiction du Trône Écarlate](./../Aventures/Présentation AP2.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP2#AP2-5|cinquième volume]] de la seconde campagne, [[Aventures.Présentation AP2|La Malédiction du Trône Écarlate]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

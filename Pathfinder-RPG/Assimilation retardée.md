@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ;** Niveau** [Alch](./Alchimiste.md) 5  
+**École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [G](./composantes.md)  
+**Composantes** [[Composantes|G]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 jour/[niveau](./niveau.md) (T) ou jusqu'à déchargement
+**Durée** 1 jour/[[niveau]] (T) ou jusqu'à déchargement
 
-Quand le personnage boit cet [extrait](./Alchimiste.md#EXTRAIT), il doit en consommer rapidement un autre de son choix, l'effet de ce dernier ne se manifestera pas avant une date ultérieure. Le personnage doit absorber le second extrait dans le [round](./round.md) qui suit la consommation d<nowiki>'</nowiki>*assimilation retardée* sans quoi il perdra les effets de cette dernière. L'[extrait](./Alchimiste.md#EXTRAITS) associé ne peut pas dépasser le [niveau](./Niveau de sort.md) 4 et le personnage doit payer tout prix exigé par cet [extrait](./Alchimiste.md#EXTRAITS) au moment où il le boit.
+Quand le personnage boit cet [[alchimiste#EXTRAIT|extrait]], il doit en consommer rapidement un autre de son choix, l'effet de ce dernier ne se manifestera pas avant une date ultérieure. Le personnage doit absorber le second extrait dans le [[round]] qui suit la consommation d<nowiki>'</nowiki>*assimilation retardée* sans quoi il perdra les effets de cette dernière. L'[[alchimiste#EXTRAITS|extrait]] associé ne peut pas dépasser le [[niveau de sort|niveau]] 4 et le personnage doit payer tout prix exigé par cet [[alchimiste#EXTRAITS|extrait]] au moment où il le boit.
 
-Pendant la durée d'effet d<nowiki>'</nowiki>*assimilation retardée*, le personnage peut déclencher l'effet de l'[extrait](./Alchimiste.md#EXTRTAITS) associé à tout moment, par une [action immédiate](./Action immédiate.md). Le personnage ne peut bénéficier que d'un seul effet d<nowiki>'</nowiki>*assimilation retardée* à la fois. S'il en consomme un deuxième, le premier se dissipe sans effet.
+Pendant la durée d'effet d<nowiki>'</nowiki>*assimilation retardée*, le personnage peut déclencher l'effet de l'[[alchimiste#EXTRTAITS|extrait]] associé à tout moment, par une [[action immédiate]]. Le personnage ne peut bénéficier que d'un seul effet d<nowiki>'</nowiki>*assimilation retardée* à la fois. S'il en consomme un deuxième, le premier se dissipe sans effet.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Déroulement dun combat#INITIATIVE
 ---
 
->>> [Déroulement dun combat#INITIATIVE](./Déroulement dun combat.md#INITIATIVE)
+>>> [[Déroulement dun combat#INITIATIVE]]

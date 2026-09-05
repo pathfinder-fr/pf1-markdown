@@ -10,8 +10,8 @@ LastModified: 2016-11-20 15:29
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 221*}
 - 400 PX
-- [Plante](./type Plante.md) de taille P, N
-- **Init **+3 ; **Sens **vision nocturne ; [Perception](./Perception.md) +5
+- [[type plante|Plante]] de taille P, N
+- **Init **+3 ; **Sens **vision nocturne ; [[Perception]] +5
 (((Défense)))
 - **CA **14, contact 14, pris au dépourvu 11 (Dex +3, taille +1)
 - **pv **15 (2d8+6)
@@ -24,15 +24,15 @@ LastModified: 2016-11-20 15:29
 (((Statistiques)))
 - **For **12, **Dex **16, **Con** 17, **Int **1, **Sag **13, **Cha **4
 - **BBA** +1 ; **BMO **+1 ; **DMD **14 (croc-en-jambe impossible)
-- **Dons **[Attaque en vol](./Attaque en vol.md)
-- **Compétences **[Perception](./Perception.md) +5, [Vol](./Vol.md) +9
+- **Dons **[[Attaque en vol]]
+- **Compétences **[[Perception]] +5, [[Vol]] +9
 (((Écologie)))
 - **Environnement **forêts chaudes et tempérées
 - **Organisation **solitaire ou bosquet (2-20)
 - **Trésor **aucun
 (((Pouvoirs spéciaux)))
-- **Graines (Ext)**. Une fois par jour, la raie manta feuillue peut planter une graine avec son dard dans le corps d’une victime sans défense. Par une action complexe, elle pique sa victime pour déposer une graine dans sa chair. Ce processus inflige 1 point de dégâts à la victime mais ne la soumet pas au poison de la raie manta feuillue. La graine germe à l’intérieur de la victime, qui est fiévreuse tant que la graine est dans son corps. Elle inflige un affaiblissement temporaire de 1d2 points de [Constitution](./Constitution.md) par jour où la graine se développe. Chaque jour, les dégâts peuvent être annulés grâce à un jet de [Vigueur](./Vigueur.md) DD 14 réussi. La graine se nourrit des chairs de la victime et se transforme en un arbre à raies manta feuillues lorsque la victime meurt suite aux dégâts de Constitution reçus. Il faut réussir un test de Premiers secours DD 20 par une action complexe pour parvenir à extraite la graine du corps d’une victime ; chaque tentative inflige un point de dégâts. L’immunité à la maladie ne protège pas contre l’implantation d’une graine de raie manta feuillue, mais les sorts de guérison des maladies, guérison suprême ou les autres effets similaires détruisent automatiquement les graines implantées. 
-- **Poison (Ext)**. Dard - blessure ; JdS [Vigueur](./Vigueur.md) DD 14 ; fréquence 1/round pendant 6 rounds ; effet 1d2 Dex ; guérison 1  réussite.
+- **Graines (Ext)**. Une fois par jour, la raie manta feuillue peut planter une graine avec son dard dans le corps d’une victime sans défense. Par une action complexe, elle pique sa victime pour déposer une graine dans sa chair. Ce processus inflige 1 point de dégâts à la victime mais ne la soumet pas au poison de la raie manta feuillue. La graine germe à l’intérieur de la victime, qui est fiévreuse tant que la graine est dans son corps. Elle inflige un affaiblissement temporaire de 1d2 points de [[Constitution]] par jour où la graine se développe. Chaque jour, les dégâts peuvent être annulés grâce à un jet de [[Vigueur]] DD 14 réussi. La graine se nourrit des chairs de la victime et se transforme en un arbre à raies manta feuillues lorsque la victime meurt suite aux dégâts de Constitution reçus. Il faut réussir un test de Premiers secours DD 20 par une action complexe pour parvenir à extraite la graine du corps d’une victime ; chaque tentative inflige un point de dégâts. L’immunité à la maladie ne protège pas contre l’implantation d’une graine de raie manta feuillue, mais les sorts de guérison des maladies, guérison suprême ou les autres effets similaires détruisent automatiquement les graines implantées. 
+- **Poison (Ext)**. Dard - blessure ; JdS [[Vigueur]] DD 14 ; fréquence 1/round pendant 6 rounds ; effet 1d2 Dex ; guérison 1  réussite.
 
 
 </div>

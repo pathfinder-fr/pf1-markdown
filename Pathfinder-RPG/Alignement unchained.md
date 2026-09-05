@@ -10,7 +10,7 @@ Categories:
 
 Le système alternatif suivant traite l’alignement comme un mécanisme de narration et vous permet de créer des défis à l’alignement, de noter ses fluctuations et de récompenser les personnages qui défendent leurs valeurs.
 
-Il vous faut une copie du diagramme de l’alignement donné dans la table "[Évolution de l'alignement](./Alignement unchained.md#EVOLUTIONDELALIGNEMENT)" pour chaque personnage de votre campagne. À vous de voir si ce sont les joueurs ou le MJ qui notent l’évolution de l’alignement. Vous avez deux manières d’utiliser ce système au départ. La première, la méthode d’alignement relatif, consiste à faire démarrer chaque personnage au point neutre sur les deux axes (ou aussi près de la neutralité que sa classe l’y autorise). Vous pouvez aussi utiliser la méthode d’alignement standard qui permet à chaque personnage de débuter le jeu avec l’alignement qu’il désire mais à la limite de la neutralité, ce qui l’oblige à travailler pour atteindre l’apogée de la morale qu’il a choisie. Voici les principes de base de chaque méthode.
+Il vous faut une copie du diagramme de l’alignement donné dans la table "[[Alignement unchained#EVOLUTIONDELALIGNEMENT|Évolution de l'alignement]]" pour chaque personnage de votre campagne. À vous de voir si ce sont les joueurs ou le MJ qui notent l’évolution de l’alignement. Vous avez deux manières d’utiliser ce système au départ. La première, la méthode d’alignement relatif, consiste à faire démarrer chaque personnage au point neutre sur les deux axes (ou aussi près de la neutralité que sa classe l’y autorise). Vous pouvez aussi utiliser la méthode d’alignement standard qui permet à chaque personnage de débuter le jeu avec l’alignement qu’il désire mais à la limite de la neutralité, ce qui l’oblige à travailler pour atteindre l’apogée de la morale qu’il a choisie. Voici les principes de base de chaque méthode.
 
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -53,13 +53,13 @@ Quand un personnage se trouve face à un défi ou un dilemme moral, utilisez sa 
 
 Au début d’une campagne, vous aurez sans doute de nombreux glissements d’alignement, au fur et à mesure que les personnages forgent leur morale. Plus tard, quand les caractéristiques morales des personnages commenceront à se figer, certains s’installeront à l’extrémité d’un ou deux axes d’alignement. Ils opteront alors pour un mode de conduite confortant leur alignement mais, comme ils sont déjà au bout de l’axe, cela n’entraînera aucun changement. Dans ce cas, ils recevront une ou deux affirmations (des petits avantages temporaires liés à l’alignement choisi) en fonction du nombre de crans selon lequel leur alignement aurait dû glisser. Un personnage peut dépenser une affirmation au cours des vingt-quatre heures suivant son acquisition, après cette période, elle est perdue. Nul besoin de dépenser une action pour utiliser une affirmation, mais le personnage doit être conscient. Voici les avantages que confèrent ces affirmations.
 
-**Chaotique.** Quand le personnage effectue un jet de [Réflexes](./Réflexes.md) ou de [Volonté](./Volonté.md), il peut dépenser une affirmation Chaotique pour lancer deux fois le dé et conserver le meilleur résultat. S’il possède déjà un pouvoir l’autorisant à lancer deux fois le dé et choisir le meilleur résultat, il peut dépenser son affirmation pour gagner un bonus de +2 aux deux jets.
+**Chaotique.** Quand le personnage effectue un jet de [[Réflexes]] ou de [[Volonté]], il peut dépenser une affirmation Chaotique pour lancer deux fois le dé et conserver le meilleur résultat. S’il possède déjà un pouvoir l’autorisant à lancer deux fois le dé et choisir le meilleur résultat, il peut dépenser son affirmation pour gagner un bonus de +2 aux deux jets.
 
-**Mauvais.** Le personnage peut dépenser une affirmation Mauvaise pour ajouter un bonus de +2 aux dégâts infligés ou aux soins prodigués à toutes les cibles lorsqu’il utilise un sort de blessure ou de [canalisation d’énergie négative](./Prêtre.md#CANALISATIONDENERGIE). Il peut à la place gagner un bonus de +4 à un unique [jet de dégâts](./Valeurs de combat.md#DEGATS) d’une arme effectué alors qu’il obéit à ses propres désirs.
+**Mauvais.** Le personnage peut dépenser une affirmation Mauvaise pour ajouter un bonus de +2 aux dégâts infligés ou aux soins prodigués à toutes les cibles lorsqu’il utilise un sort de blessure ou de [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie négative]]. Il peut à la place gagner un bonus de +4 à un unique [[Valeurs de combat#DEGATS|jet de dégâts]] d’une arme effectué alors qu’il obéit à ses propres désirs.
 
-**Bien.** Le personnage peut dépenser une Bonne affirmation pour gagner un bonus de +2 aux dégâts infligés ou aux soins prodigués à toutes les cibles lorsqu’il utilise un sort de soins ou de [canalisation d’énergie positive](./Prêtre.md#CANALISATIONDENERGIE). Il peut à la place infliger un malus de -4 à un unique [jet de dégâts](./Valeurs de combat.md#DEGATS) d’une arme effectué contre un de ses alliés ou contre un innocent.
+**Bien.** Le personnage peut dépenser une Bonne affirmation pour gagner un bonus de +2 aux dégâts infligés ou aux soins prodigués à toutes les cibles lorsqu’il utilise un sort de soins ou de [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie positive]]. Il peut à la place infliger un malus de -4 à un unique [[Valeurs de combat#DEGATS|jet de dégâts]] d’une arme effectué contre un de ses alliés ou contre un innocent.
 
-**Loyal.** Le personnage peut dépenser une affirmation Loyale pour gagner un bonus de +4 à la [CA](./CA.md) contre une unique attaque. Il doit utiliser cette affirmation avant le [jet d’attaque](./jet dattaque.md).
+**Loyal.** Le personnage peut dépenser une affirmation Loyale pour gagner un bonus de +4 à la [[CA]] contre une unique attaque. Il doit utiliser cette affirmation avant le [[jet dattaque|jet d’attaque]].
 
 Notez que les personnages Neutres ne gagnent pas d’affirmation car ils ont déjà l’avantage d’être à l’abri des sorts et effets basés sur l’alignement.
 
@@ -72,5 +72,5 @@ Les grandes batailles idéologiques impliquent des défis moraux, comme expliqu�
 
 ### Les dons d'alignement
 Quand les personnages s’engagent dans les grandes luttes cosmiques pour défendre leur alignement et leur morale, ils disposent de nouveaux outils capables de les aider à défendre leur philosophie.
-- Voir les [règles relatives aux dons d'alignement](./Dons.md#DONALIGNEMENT).
-- Voir la [liste des dons d'alignement](./Dons dalignement.md).
+- Voir les [[Dons#DONALIGNEMENT|règles relatives aux dons d'alignement]].
+- Voir la [[Dons dalignement|liste des dons d'alignement]].

@@ -12,7 +12,7 @@ LastModified: 2019-06-29 02:50
 **Catégorie** Matériel d'aventurier  
 
 
-Cette carte vous aide à naviguer dans une seule ville. Vous pouvez consulter la carte durant 1 minute pour gagner un bonus de +2 quand vous tentez un jet de [Connaissances](./Connaissances.md) (Folklore Local) pour identifier un endroit dans cette ville (et pour tenter des jets au dessus de 10 si vous n'êtes pas entraînés) ou quand vous tentez un jet de [Survie](./Survie.md) de DD 15 pour éviter de se perdre dans cette ville.
+Cette carte vous aide à naviguer dans une seule ville. Vous pouvez consulter la carte durant 1 minute pour gagner un bonus de +2 quand vous tentez un jet de [[Connaissances]] (Folklore Local) pour identifier un endroit dans cette ville (et pour tenter des jets au dessus de 10 si vous n'êtes pas entraînés) ou quand vous tentez un jet de [[Survie]] de DD 15 pour éviter de se perdre dans cette ville.
 
 
 

@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bille de poussière|{s:AE}}
-**Aura** [Invocation](./Invocation.md) faible ; **NLS** 5 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 196 po ; **Poids** 0,25 kg
+**Aura** [[Invocation]] faible ; **NLS** 5 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 196 po ; **Poids** 0,25 kg
 (((Description)))
-Quand cette [bille de fronde](./Billes de fronde (arme).md) +1 rugueuse et irrégulière touche sa cible, elle explose en un nuage de poussières asphyxiant qui emplit un cube de 1,50 mètre de côté et suit la cible pendant 1d6 [rounds](./round.md) avant de se disperser. Toute créature qui termine son tour dans le nuage doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 13 pour ne pas être [fiévreuse](./Fiévreux.md) et [aveugle](./Aveuglé.md) pendant 1 [round](./round.md).
+Quand cette [[Billes de fronde (arme)|bille de fronde]] +1 rugueuse et irrégulière touche sa cible, elle explose en un nuage de poussières asphyxiant qui emplit un cube de 1,50 mètre de côté et suit la cible pendant 1d6 [[round|rounds]] avant de se disperser. Toute créature qui termine son tour dans le nuage doit réussir un jet de [[Vigueur]] [[DD]] 13 pour ne pas être [[fiévreux|fiévreuse]] et [[aveuglé|aveugle]] pendant 1 [[round]].
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[nuage nauséabond](./Nuage nauséabond.md)* ; **Coût** 98 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[nuage nauséabond]]* ; **Coût** 98 po
 </div>

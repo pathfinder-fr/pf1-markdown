@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Paladin#PACTEDIVIN
 ---
 
->>> [Paladin#PACTEDIVIN](./Paladin.md#PACTEDIVIN)
+>>> [[Paladin#PACTEDIVIN]]

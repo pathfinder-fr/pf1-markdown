@@ -10,20 +10,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ;** Niveau** [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2  
+**École** [[Invocation]] ([[branche convocation|convocation]]) ;** Niveau** [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2  
 
-**Temps d'incantation** 1 [round](./round.md)  
+**Temps d'incantation** 1 [[round]]  
 
-**Composantes** [V, G, M](./composantes.md) (une pièce d'argent)  
+**Composantes** [[Composantes|V, G, M]] (une pièce d'argent)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** un [eidolon](./eidolon.md)  
+**Cible** un [[eidolon]]  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ;**Résistance à la magie** non
 
-Le personnage ouvre une faille entre les dimensions afin d'invoquer son [eidolon](./eidolon.md). Cela revient au même qu'une [invocation](./Conjurateur.md#EIDOLON) normale excepté que l'[eidolon](./eidolon.md) ne demeure avec lui que pendant la durée du sort. Quand l'[eidolon](./eidolon.md) est invoqué de cette manière, il ne peut pas toucher une créature protégée par une *[protection contre le mal](./Protection contre le Mal.md)* ou un effet similaire et la *[dissipation de la magie](./Dissipation de la magie.md)* permet de le renvoyer dans son [plan](./Plans.md) d'origine.
+Le personnage ouvre une faille entre les dimensions afin d'invoquer son [[eidolon]]. Cela revient au même qu'une [[conjurateur#EIDOLON|invocation]] normale excepté que l'[[eidolon]] ne demeure avec lui que pendant la durée du sort. Quand l'[[eidolon]] est invoqué de cette manière, il ne peut pas toucher une créature protégée par une *[[protection contre le mal]]* ou un effet similaire et la *[[dissipation de la magie]]* permet de le renvoyer dans son [[plans|plan]] d'origine.
 
-Ce sort n'a aucun effet si le personnage le lance alors que son [eidolon](./eidolon.md) est déjà présent sur son [plan](./Plans.md). Ce sort permet d'invoquer l'[eidolon](./eidolon.md) même s'il a été renvoyé dans son [plan](./Plans.md) natal en raison de dégâts importants.
+Ce sort n'a aucun effet si le personnage le lance alors que son [[eidolon]] est déjà présent sur son [[plans|plan]]. Ce sort permet d'invoquer l'[[eidolon]] même s'il a été renvoyé dans son [[plans|plan]] natal en raison de dégâts importants.

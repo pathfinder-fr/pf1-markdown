@@ -18,20 +18,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 3  
+**École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F/FD](./composantes.md) (une baguette de sourcier)  
+**Composantes** [[composantes|V, G, F/FD]] (une baguette de sourcier)  
 
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
 
-**Zone d'effet** cercle de 120 m de rayon + 12 m/[niveau](./niveau.md) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md)), centré sur le jeteur de sorts  
+**Zone d'effet** cercle de 120 m de rayon + 12 m/[[niveau]] (80 {s:c} + 8 {s:c}/[[niveau]]), centré sur le jeteur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Grâce à cette incantation, le personnage sent dans quelle direction se trouve un objet qu’il connaît bien ou qu’il visualise parfaitement. On peut lui demander de trouver un objet appartenant à une catégorie générale, auquel cas il indique le plus proche. Si l’on recherche un certain objet, il faut avoir son image mentale précise en tête au moment de l’incantation, sinon le sort échoue. Il est impossible de retrouver un objet précis sans avoir auparavant vu l’objet en question (directement, pas par le biais d’un sort de [Divination](./Divination.md)).
+Grâce à cette incantation, le personnage sent dans quelle direction se trouve un objet qu’il connaît bien ou qu’il visualise parfaitement. On peut lui demander de trouver un objet appartenant à une catégorie générale, auquel cas il indique le plus proche. Si l’on recherche un certain objet, il faut avoir son image mentale précise en tête au moment de l’incantation, sinon le sort échoue. Il est impossible de retrouver un objet précis sans avoir auparavant vu l’objet en question (directement, pas par le biais d’un sort de [[Divination]]).
 
-*Localisation d’objet* est bloqué par le plomb et ne permet pas de retrouver les êtres vivants ni les objets protégés à l’aide de *[métamorphose universelle](./Métamorphose universelle.md)* ou d’*[antidétection](./Antidétection.md)*.
+*Localisation d’objet* est bloqué par le plomb et ne permet pas de retrouver les êtres vivants ni les objets protégés à l’aide de *[[métamorphose universelle]]* ou d’*[[antidétection]]*.

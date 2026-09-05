@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#ECOLES
 ---
 
->>> [Présentation des sorts#ECOLES](./Présentation des sorts.md#ECOLES)
+>>> [[Présentation des sorts#ECOLES]]

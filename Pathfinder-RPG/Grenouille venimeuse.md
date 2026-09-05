@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Marais|Tropical}
 {s:BDTexte|*Source : Bestiaire p.174*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -25,16 +25,16 @@ Categories:
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 2, **Dex** 12, **Con** 11, **Int** 1, **Sag** 9, **Cha** 10}
-{s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 5 (9 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +5 (+1 pour sauter), [Discrétion](./Discrétion.md) +13, [Natation](./Natation.md) + 9, [Perception](./Perception.md) +3 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4 (+8 pour sauter), [Discrétion](./Discrétion.md) +4, [Natation](./Natation.md) dépend de sa [Dextérité](./Dextérité.md)}
-{s:BDTexte|**Particularité** [respiration aquatique](./Respiration aquatique (capacité).md)}
+{s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 5 (9 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +5 (+1 pour sauter), [[Discrétion]] +13, [[Natation]] + 9, [[Perception]] +3 ; **Modificateurs raciaux** [[Acrobaties]] +4 (+8 pour sauter), [[Discrétion]] +4, [[Natation]] dépend de sa [[Dextérité]]}
+{s:BDTexte|**Particularité** [[respiration aquatique (capacité)|respiration aquatique]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais chauds ou milieu aquatique}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou armée (3-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 10 ; *fréquence* 1/round pendant 6 rounds ; *effet* [Affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [Con](./Constitution.md) ; *guérison* 1 réussite.}
+{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 10 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[Affaiblissement temporaire]] 1d2 [[Constitution|Con]] ; *guérison* 1 réussite.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -43,13 +43,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Grenouille géante](./Grenouille géante.md) || 1
+| [[Grenouille géante]] || 1
 |-
-| [Grenouille goliath](./Grenouille goliath.md) || 3
+| [[Grenouille goliath]] || 3
 |-
-| [Grenouille venimeuse](./Grenouille venimeuse.md) || 1/2
+| [[Grenouille venimeuse]] || 1/2
 |-
-| [Père grenouille](./Père grenouille.md) || 5
+| [[Père grenouille]] || 5
 |}
 </div>''C’est une petite grenouille vert clair et rouge dont les pattes arrière sont
 garnies de bandes bleu électrique.''

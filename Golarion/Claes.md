@@ -7,9 +7,9 @@ Categories:
 - Ville
 ---
 
-{s:Communauté|Claes (ville)|[Andoran](./Andoran.md)|[Arthfell](./Arthfell.md)||||648 (petite bourgade)||}Le village de pêcheurs [andoran](./Andoran.md) de Claes est situé sur la côte de la [mer intérieure](./mer Intérieure.md), à un peu plus de 80 kilomètres au sud du delta du fleuve Andoshen. Il s'agit d'une ville humble, ses habitants vivent de l'abondante récolte de produits de la mer, en la complétant par une agriculture de subsistance. Lorsque des pirates ou des esclavagistes attaquent, les habitants de Claes se retirent dans une ancienne forteresse souterraine [Azlant](./Azlant.md) connue sous le nom de retraite de Claes ; la ruine est connue pour être assez profonde.<sup>(1)</sup><sup>(2)</sup>
+{s:Communauté|Claes (ville)|[[Andoran]]|[[Arthfell]]||||648 (petite bourgade)||}Le village de pêcheurs [[Andoran]] de Claes est situé sur la côte de la [[mer intérieure]], à un peu plus de 80 kilomètres au sud du delta du fleuve Andoshen. Il s'agit d'une ville humble, ses habitants vivent de l'abondante récolte de produits de la mer, en la complétant par une agriculture de subsistance. Lorsque des pirates ou des esclavagistes attaquent, les habitants de Claes se retirent dans une ancienne forteresse souterraine [[Azlant]] connue sous le nom de retraite de Claes ; la ruine est connue pour être assez profonde.<sup>(1)</sup><sup>(2)</sup>
 
-Le général Reginald Cormoth, commandant des [chevaliers de l'aigle](./Chevaliers de lAigle.md) andoran, est né à Claes.<sup>(3)</sup>
+Le général Reginald Cormoth, commandant des [[Chevaliers de laigle|chevaliers de l'aigle]] andoran, est né à Claes.<sup>(3)</sup>
 
 ### Références
 **1.** Hal Maclean, Colin Moulder-McComb, Jason Nelson, Jonathan Keith, et Hank Woon. dans *[Andoran, Spirit of Liberty](https://paizo.com/products/btpy8bc3)* en 2010, deuxième de couverture. Paizo inc. ; **VF** *[Recueil de la Société des Éclaieurs](https://www.black-book-editions.fr/produit.php?id=1587)* p.196

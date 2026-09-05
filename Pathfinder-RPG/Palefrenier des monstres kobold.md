@@ -13,26 +13,26 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Codex monstrueux p.168*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[kobold](./Kobold.md) [chevalier](./Chevalier.md) 2 (*Manuel des joueurs règles avancées* p. 32)}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([reptilien](./sous-type reptilien.md)) de taille P, LM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m (12 {s:c}); [Perception](./Perception.md) +2}
+{s:BDTexte|[[kobold]] [[chevalier]] 2 (*Manuel des joueurs règles avancées* p. 32)}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type reptilien|reptilien]]) de taille P, LM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m (12 {s:c}); [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 14, pris au dépourvu 19 (armure +5, bouclier +2, Dex +3, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 17 (2d10+2)}
 {s:BDTexte|**Réf** +3, **Vig** +3, **Vol** +0}
-{s:BDTexte|**Faiblesses** [sensible à la lumière](./Sensibilité à la lumière (capacité).md)}
+{s:BDTexte|**Faiblesses** [[Sensibilité à la lumière (capacité)|sensible à la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** lance d’arçon de maître, +4 (1d6/×3)}
-{s:BDTexte|**Attaques spéciales** [défi](./Chevalier.md#DEFI) (+2, +1, 1/jour)}
+{s:BDTexte|**Attaques spéciales** [[chevalier#DEFI|défi]] (+2, +1, 1/jour)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 16, **Con** 10, **Int** 8, **Sag** 10, **Cha** 13}
 {s:BDTexte|**BBA** +2 ; **BMO** +1 ; **DMD** 14}
-{s:BDTexte|**Dons** [Couple d’opportunistes](./Couple dopportunistes.md), [Monte de slurk](./Monte de slurk.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (fabrication de pièges) +1, [Dressage](./Dressage.md) +9, [Équitation](./Équitation.md) +4, [Intimidation](./Intimidation.md) +6, [Perception](./Perception.md) +2, [Profession](./Profession.md) (mineur) +2}
+{s:BDTexte|**Dons** [[Couple dopportunistes|Couple d’opportunistes]], [[Monte de slurk]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (fabrication de pièges) +1, [[Dressage]] +9, [[Équitation]] +4, [[Intimidation]] +6, [[Perception]] +2, [[Profession]] (mineur) +2}
 {s:BDTexte|**Langues** commun, draconique}
-{s:BDTexte|**Particularités** [ingénieux](./Kobold.md#INGENIEUX), [monture](./Chevalier.md#MONTURE) ([salamandre](./Salamandre.md) cavernicole ou [slurk](./Slurk.md)), [ordre du lion](./Ordres.md#LION) (appel du lion), [tacticien](./Chevalier.md#TACTICIEN) (1/jour, 4 rounds, action simple)}
-{s:BDTexte|**Équipement de combat** [glace liquide](./Glace liquide (objet).md), *[potion](./Potions magiques.md) de [soins légers](./Soins légers.md)* ; **Équipement divers** [armure d’écailles de maître](./armure décailles (armure).md), [écu d’acier de maître](./écu (armure).md), [lance d’arçon de maître](./lance darçon (arme).md), 10 po}
+{s:BDTexte|**Particularités** [[Kobold#INGENIEUX|ingénieux]], [[chevalier#MONTURE|monture]] ([[salamandre]] cavernicole ou [[slurk]]), [[Ordres#LION|ordre du lion]] (appel du lion), [[chevalier#TACTICIEN|tacticien]] (1/jour, 4 rounds, action simple)}
+{s:BDTexte|**Équipement de combat** [[glace liquide (objet)|glace liquide]], *[[potions magiques|potion]] de [[soins légers]]* ; **Équipement divers** [[armure décailles (armure)|armure d’écailles de maître]], [[écu (armure)|écu d’acier de maître]], [[lance darçon (arme)|lance d’arçon de maître]], 10 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -40,31 +40,31 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Kobold](./Kobold.md) || 1/4
+| [[Kobold]] || 1/4
 |-
-| [Mage des écailles kobold](./Mage des écailles kobold.md) || 1/2
+| [[Mage des écailles kobold]] || 1/2
 |-
-| [Sniper kobold](./monstre Sniper kobold.md) || 1/2
+| [[monstre Sniper kobold|Sniper kobold]] || 1/2
 |-
-| [Bombardier kobold](./Bombardier kobold.md) || 1
+| [[Bombardier kobold]] || 1
 |-
-| [Palefrenier des monstres kobold](./Palefrenier des monstres kobold.md) || 1
+| [[Palefrenier des monstres kobold]] || 1
 |-
-| [Escrimeur kobold](./Escrimeur kobold.md) || 3
+| [[Escrimeur kobold]] || 3
 |-
-| [Kyrane](./Kyrane.md) || 3
+| [[Kyrane]] || 3
 |-
-| [Maître trappeur kobold](./Maître trappeur kobold.md) || 4
+| [[Maître trappeur kobold]] || 4
 |-
-| [Mage rusé kobold](./Mage rusé kobold.md) || 5
+| [[Mage rusé kobold]] || 5
 |-
-| [Maître de guerre kobold](./Maître de guerre kobold.md) || 6
+| [[Maître de guerre kobold]] || 6
 |-
-| [Aboyeur kobold](./Aboyeur kobold.md) || 7
+| [[Aboyeur kobold]] || 7
 |-
-| [Parle-diable kobold](./Parle-diable kobold.md) || 7
+| [[Parle-diable kobold]] || 7
 |-
-| [Chef kobold](./Chef kobold.md) || 8
+| [[Chef kobold]] || 8
 |}
 </div>Les kobolds les plus téméraires aiment chevaucher des créatures étranges pour aller au combat.
 </div></td></tr></table>

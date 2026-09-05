@@ -9,6 +9,6 @@ Categories:
 
 {s:mca}*Le personnage maîtrise une plus grande variété de disciplines magiques que la plupart des autres mages.*
 
-**Conditions.** Aptitude de classe de [compréhensions des sorts](./Scalde.md#COMPREHENSIONDESSORTS).
+**Conditions.** Aptitude de classe de [[scalde#COMPREHENSIONDESSORTS|compréhensions des sorts]].
 
-**Avantage.** Quand le personnage utilise son aptitude de classe de [compréhensions des sorts](./Scalde.md#COMPREHENSIONDESSORTS), il peut choisir un sort de la [liste des druides](./Liste des sorts de druides.md) ou de celle [des sorcières](./Liste des sorts de sorcière.md).
+**Avantage.** Quand le personnage utilise son aptitude de classe de [[scalde#COMPREHENSIONDESSORTS|compréhensions des sorts]], il peut choisir un sort de la [[Liste des sorts de druides|liste des druides]] ou de celle [[Liste des sorts de sorcière|des sorcières]].

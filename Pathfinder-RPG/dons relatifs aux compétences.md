@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}{s:UM}{s:UC}<div class="description">***Note.** Cette page est un regroupement <u>non-officiel</u> de dons qui agissent dans un même cadre. Référez-vous à [cette page](./Dons.md) pour trouver les distinctions officielles de chaque type de don.*</div>
+{s:APG}{s:UM}{s:UC}<div class="description">***Note.** Cette page est un regroupement <u>non-officiel</u> de dons qui agissent dans un même cadre. Référez-vous à [[Dons|cette page]] pour trouver les distinctions officielles de chaque type de don.*</div>
 
 <center>
 {| CLASS="tablo autoalt"
@@ -22,93 +22,93 @@ Categories:
 | CLASS="gauche" | &emsp;
 | CLASS="gauche" | &emsp;
 |-
-| &emsp;[Maître alchimiste](./Maître alchimiste.md)<sup>APG</sup>
-| CLASS="gauche" | 5 [rangs](./rang.md) en [Artisanat](./Artisanat.md) (alchimie)
-| CLASS="gauche" | +2 aux tests d'[Artisanat](./Artisanat.md) (alchimie), permet de créer des [objets alchimiques](./Outils alchimiques.md) et des [poisons](./poison.md) plus rapidement
+| &emsp;[[Maître alchimiste]]<sup>APG</sup>
+| CLASS="gauche" | 5 [[rang|rangs]] en [[Artisanat]] (alchimie)
+| CLASS="gauche" | +2 aux tests d'[[Artisanat]] (alchimie), permet de créer des [[Outils alchimiques|objets alchimiques]] et des [[poison|poisons]] plus rapidement
 |- CLASS="premier"
 | Bonus à 2 compétences reliées
 | CLASS="gauche" | &emsp;
 | CLASS="gauche" | &emsp;
 |-
-| &emsp;[Aptitude magique](./Aptitude magique.md)
+| &emsp;[[Aptitude magique]]
 | CLASS="gauche" | -
-| CLASS="gauche" | +2 aux tests d'[Art de la magie](./Art de la magie.md) et d'[Utilisation d'objets magiques](./Utilisation dObjets Magiques.md)
+| CLASS="gauche" | +2 aux tests d'[[Art de la magie]] et d'[[Utilisation dobjets magiques|Utilisation d'objets magiques]]
 |-
-| &emsp;[Athlétisme](./Athlétisme.md)
+| &emsp;[[Athlétisme]]
 | CLASS="gauche" | -
-| CLASS="gauche" | +2 aux tests d'[Escalade](./Escalade.md) et de [Natation](./Natation.md)
+| CLASS="gauche" | +2 aux tests d'[[Escalade]] et de [[Natation]]
 |-
-| &emsp;[Autonome](./Autonome.md)
+| &emsp;[[Autonome]]
 | CLASS="gauche" | -
-| CLASS="gauche" | +2 aux tests de [Premiers secours](./Premiers secours.md) et de [Survie](./Survie.md)
+| CLASS="gauche" | +2 aux tests de [[Premiers secours]] et de [[Survie]]
 |-
-| &emsp;[Discret](./Discret.md)
+| &emsp;[[Discret]]
 | CLASS="gauche" | -
-| CLASS="gauche" | +2 aux tests de [Discrétion](./Discrétion.md) et d'[Évasion](./Évasion.md)
+| CLASS="gauche" | +2 aux tests de [[Discrétion]] et d'[[Évasion]]
 |-
-| &emsp;[Doigts de fée](./Doigts de fée.md)
+| &emsp;[[Doigts de fée]]
 | CLASS="gauche" | -
-| CLASS="gauche" | +2 aux tests de [Sabotage](./Sabotage.md) et d'[Escamotage](./Escamotage.md)
+| CLASS="gauche" | +2 aux tests de [[Sabotage]] et d'[[Escamotage]]
 |-
-| &emsp;[Fourberie](./Fourberie.md)
+| &emsp;[[Fourberie]]
 | CLASS="gauche" | -
-| CLASS="gauche" | +2 aux tests de [Bluff](./Bluff.md) et de [Déguisement](./Déguisement.md)
+| CLASS="gauche" | +2 aux tests de [[Bluff]] et de [[Déguisement]]
 |-
-| &emsp;[Fraternité animale](./Fraternité animale.md)
+| &emsp;[[Fraternité animale]]
 | CLASS="gauche" | -
-| CLASS="gauche" | +2 aux tests de [Dressage](./Dressage.md) et d'[Équitation](./Équitation.md)
+| CLASS="gauche" | +2 aux tests de [[Dressage]] et d'[[Équitation]]
 |-
-| &emsp;[Persuasion](./Persuasion.md)
+| &emsp;[[Persuasion]]
 | CLASS="gauche" | -
-| CLASS="gauche" | +2 aux tests de [Diplomatie](./Diplomatie.md) et d'[Intimidation](./Intimidation.md)
+| CLASS="gauche" | +2 aux tests de [[Diplomatie]] et d'[[Intimidation]]
 |-
-| &emsp;[Prodige](./Prodige.md)<sup>um</sup>
+| &emsp;[[Prodige]]<sup>um</sup>
 | CLASS="gauche" | -
-| CLASS="gauche" | Bonus de +2 à deux compétences d'[Artisanat](./Artisanat.md), de [Profession](./Profession.md) ou de [Représentation](./Représentation.md)
+| CLASS="gauche" | Bonus de +2 à deux compétences d'[[Artisanat]], de [[Profession]] ou de [[Représentation]]
 |-
-| &emsp;[Vigilance](./Vigilance.md)
+| &emsp;[[Vigilance]]
 | CLASS="gauche" | -
-| CLASS="gauche" | +2 aux tests de [Perception](./Perception.md) et de [Psychologie](./Psychologie.md)
+| CLASS="gauche" | +2 aux tests de [[Perception]] et de [[Psychologie]]
 |-
-| &emsp;&emsp;[Vigilance instinctive](./Vigilance instinctive.md)<sup>um</sup>
-| CLASS="gauche" | [Vigilance](./Vigilance.md)
-| CLASS="gauche" | Bonus de +1 aux tests de [Perception](./Perception.md) et de [Psychologie](./Psychologie.md) et de +2 aux [jets de sauvegarde](./JDS.md) contre les effets de sommeil et de charme
+| &emsp;&emsp;[[Vigilance instinctive]]<sup>um</sup>
+| CLASS="gauche" | [[Vigilance]]
+| CLASS="gauche" | Bonus de +1 aux tests de [[Perception]] et de [[Psychologie]] et de +2 aux [[JdS|jets de sauvegarde]] contre les effets de sommeil et de charme
 |-
-| &emsp;[Voix de la sibylle](./Voix de la sibylle.md)
-| CLASS="gauche" | [Cha](./Cha.md) 15
-| CLASS="gauche" | Bonus aux tests de [Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md) et [Représentation](./Représentation.md) (arts oratoires)
+| &emsp;[[Voix de la sibylle]]
+| CLASS="gauche" | [[Cha]] 15
+| CLASS="gauche" | Bonus aux tests de [[Bluff]], [[Diplomatie]] et [[Représentation]] (arts oratoires)
 |-
-| &emsp;[Voltigeur](./Voltigeur.md)
+| &emsp;[[Voltigeur]]
 | CLASS="gauche" | -
-| CLASS="gauche" | +2 aux tests d'[Acrobaties](./Acrobaties.md) et de [Vol](./Vol.md)
+| CLASS="gauche" | +2 aux tests d'[[Acrobaties]] et de [[Vol]]
 |- CLASS="premier"
 | Création sans magie
 | CLASS="gauche" | &emsp;
 | CLASS="gauche" | &emsp;
 |-
-| &emsp;[Maître artisan](./Maître artisan.md)
-| CLASS="gauche" | 5 [rangs](./rang.md) en [Artisanat](./Artisanat.md) ou [Profession](./Profession.md)
-| CLASS="gauche" | Le personnage n'a pas besoin d'être lanceur de sorts pour [créer des objets magiques](./Création dobjets magiques.md)
+| &emsp;[[Maître artisan]]
+| CLASS="gauche" | 5 [[rang|rangs]] en [[Artisanat]] ou [[Profession]]
+| CLASS="gauche" | Le personnage n'a pas besoin d'être lanceur de sorts pour [[Création dobjets magiques|créer des objets magiques]]
 |- CLASS="premier"
 | Enrager/Intimider
 | CLASS="gauche" | &emsp;
 | CLASS="gauche" | &emsp;
 |-
-| &emsp;[Antagoniste](./Antagoniste.md)
+| &emsp;[[Antagoniste]]
 | CLASS="gauche" | -
-| CLASS="gauche" | Utilise la [Diplomatie](./Diplomatie.md) ou l'[Intimidation](./Intimidation.md) pour exaspérer une créature.
+| CLASS="gauche" | Utilise la [[Diplomatie]] ou l'[[Intimidation]] pour exaspérer une créature.
 |-
-| &emsp;[Force intimidante](./Force intimidante.md)
+| &emsp;[[Force intimidante]]
 | CLASS="gauche" | -
-| CLASS="gauche" | Ajoute la [For](./For.md) aux tests d'[Intimidation](./Intimidation.md), en plus du [Cha](./Cha.md)
+| CLASS="gauche" | Ajoute la [[For]] aux tests d'[[Intimidation]], en plus du [[Cha]]
 |- CLASS="premier"
 | Talent
 | CLASS="gauche" | &emsp;
 | CLASS="gauche" | &emsp;
 |-
-| &emsp;[Talent](./Talent.md)
+| &emsp;[[Talent]]
 | CLASS="gauche" | -
-| CLASS="gauche" | +3 à une [compétence](./Compétences.md) (+6 pour 10 [rangs](./rang.md)
+| CLASS="gauche" | +3 à une [[compétences|compétence]] (+6 pour 10 [[rang|rangs]]
 |}
 </center>
 *Les dons marqués de <sup>APG</sup> proviennent du Manuel des Joueurs - Règles Avancées.*   

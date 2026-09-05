@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AO}**Prix** 15 po (médaillon), 250 po (montre à gousset) ; **Poids** 0,5 kg (médaillon), 0,5 kg (montre à gousset)
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Un médaillon d'hypnotiseur est une petite boîte ronde et métallique qui peut contenir un portrait ou un souvenir de petite taille et que l'on peut attacher à la ceinture ou porter en pendentif. Un médaillon d'hypnotiseur accroché au bout d'une chaînette métallique confère un bonus de circonstances de +2 aux tests de [Diplomatie](./Diplomatie.md) effectués en utilisant l'extension de compétence occulte [hypnose](./Extensions de compétences occultes.md#HYPNOSE). Certains médaillons d'hypnotiseur sont des montres à gousset. On les porte de la même façon, elles peuvent également contenir un portrait ou un souvenir, elles confèrent le même bonus aux tentatives d'hypnose mais font également office de montre.
+Un médaillon d'hypnotiseur est une petite boîte ronde et métallique qui peut contenir un portrait ou un souvenir de petite taille et que l'on peut attacher à la ceinture ou porter en pendentif. Un médaillon d'hypnotiseur accroché au bout d'une chaînette métallique confère un bonus de circonstances de +2 aux tests de [[Diplomatie]] effectués en utilisant l'extension de compétence occulte [[Extensions de compétences occultes#HYPNOSE|hypnose]]. Certains médaillons d'hypnotiseur sont des montres à gousset. On les porte de la même façon, elles peuvent également contenir un portrait ou un souvenir, elles confèrent le même bonus aux tentatives d'hypnose mais font également office de montre.

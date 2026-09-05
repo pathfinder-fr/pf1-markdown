@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 119*}
 - **800 PX**
-- [Créature artificielle](./type Créature artificielle.md) de taille M, N
+- [[type créature artificielle|Créature artificielle]] de taille M, N
 - **Init **-1 ; **Sens** vision dans le noir à 18 m, vision nocturne ; Perception +0
 (((Défense)))
 - **CA** 15, contact 9, pris au dépourvu 15 (Dex -1, naturelle +6)
 - **pv** 42 (4d10+20)
 - **Réf **+0, **Vig **+1, **Vol **+1
-- **Immunité** froid, [traits des créatures artificielles](./Traits des créatures artificielles.md), magie
+- **Immunité** froid, [[traits des créatures artificielles]], magie
 - **Faiblesse** vulnérabilité au feu
 (((Attaque)))
 - **VD** 9 m
@@ -40,7 +40,7 @@ Les attaques magiques infligeant des dégâts de feu ralentissent le golem de ci
 Les attaques magiques infligeant des dégâts de froid annulent tout effet de lenteur auquel de golem est sujet et le soignent d’1 point de vie par tranche de 3 points de dégâts que l’attaque devrait lui infliger. Si, après ces soins, le golem de cire dépasse son total normal de points de vie, les points de vie en trop s’ajoutent sous forme de points de vie temporaires. Le golem de cire n’a droit à aucun jet de sauvegarde contre les effets de froid.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [golems](./Golem.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Golem|golems]].***</li></ul>
 *Cette femme inquiétante et inexpressive a quelque chose de scintillant, comme si elle était recouverte d’un film d’huile.*
 
 Le golem de cire est la réplique exacte d’une personne donnée et il est entièrement composé de cire. Si les grands artistes s’enorgueillissent de leur capacité à tailler des sculptures de cire qui paraissent vivantes, les créateurs de golems de cire vont encore plus loin en donnant vraiment vie à leur oeuvre. Bien que leur silence et leur imperturbabilité les rendent inquiétants, les golems de cire bien construits affichent une ressemblance si frappante avec leurs modèles qu’ils en viennent à croire qu’ils sont réellement la personne en question. Il est possible de faire ressembler un golem de cire à n’importe quelle personne ou créature.
@@ -49,5 +49,5 @@ Le golem de cire est la réplique exacte d’une personne donnée et il est enti
 Pour construire un golem de cire, il faut un bloc de cire solide pesant au moins 500 kilogrammes.
 
 **NLS** 9 ; **Prix** 14 000 po{br}
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[animation d’objets](./Animation dobjets.md), [quête](./Quête.md), [souhait limité](./Souhait limité.md), [image silencieuse](./Image silencieuse.md)*, créateur NLS 9 ; **Compétences** [Artisanat](./Artisanat.md) (sculpture) DD 18 (DD 25 si le créateur veut que le golem ressemble à un individu d’une race donnée ; DD 30 si le créateur veut que le golem ressemble à un individu donné) ; **Coût** 7 000 po.
+**Conditions** [[Création de créatures artificielles]], *[[animation dobjets|animation d’objets]], [[quête]], [[souhait limité]], [[image silencieuse]]*, créateur NLS 9 ; **Compétences** [[Artisanat]] (sculpture) DD 18 (DD 25 si le créateur veut que le golem ressemble à un individu d’une race donnée ; DD 30 si le créateur veut que le golem ressemble à un individu donné) ; **Coût** 7 000 po.
 </div></td></tr></table>

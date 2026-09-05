@@ -10,9 +10,9 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Kamilo Dann|FP 3}
-{s:BDTexte|*Source : [Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes], p.81*}
-{s:BDTexte|[Humain](./../Pathfinder-RPG/Humain.md) [Guerrier](./../Pathfinder-RPG/Guerrier.md) 3}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, LB}
+{s:BDTexte|*Source : [[Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes]], p.81*}
+{s:BDTexte|[[Pathfinder-RPG.Humain|Humain]] [[Pathfinder-RPG.guerrier|Guerrier]] 3}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] de taille M, LB}
 {s:BDTexte|**Init **+2 ; **sens **Détection ‑1, Perception auditive ‑1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA **17, contact 12, pris au dépourvu 15 (+5 armure, +2 Dex)}
@@ -25,10 +25,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For **15, **Dex **14, **Con **12, **Int **10, **Sag **8, **Cha **13}
 {s:BDTexte|**Attaque de base** +3 ; **lutte **+5}
-{s:BDTexte|**Dons **[Arme de prédilection](./../Pathfinder-RPG/Arme de prédilection.md) (arc long), [Arme en main](./../Pathfinder-RPG/Arme en main.md), [Tir à bout portant](./../Pathfinder-RPG/Tir à bout portant.md), [Tir de précision](./../Pathfinder-RPG/Tir de précision.md), [Volonté de fer](./../Pathfinder-RPG/Volonté de fer.md)}
+{s:BDTexte|**Dons **[[Pathfinder-RPG.Arme de prédilection|Arme de prédilection]] (arc long), [[Pathfinder-RPG.Arme en main|Arme en main]], [[Pathfinder-RPG.Tir à bout portant|Tir à bout portant]], [[Pathfinder-RPG.Tir de précision|Tir de précision]], [[Pathfinder-RPG.Volonté de fer|Volonté de fer]]}
 {s:BDTexte|**Compétences **Dressage +7, Équitation +10, Intimidation +7}
 {s:BDTexte|**Langues **commun}
-{s:BDTexte|**Part** [courage](./../Pathfinder-RPG/Guerrier.md#COURAGE) +1, [entraînement aux armures](./../Pathfinder-RPG/Guerrier.md#ENTRAINEMENTAUXARMURES) 1}
+{s:BDTexte|**Part** [[Pathfinder-RPG.guerrier#COURAGE|courage]] +1, [[Pathfinder-RPG.guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] 1}
 {s:BDSousTitre|Équipement de combat}
 {s:BDTexte|potion de soins modérés}
 {s:BDTexte|cotte de mailles de maître}

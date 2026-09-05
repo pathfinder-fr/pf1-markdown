@@ -10,14 +10,14 @@ Categories:
 
 *Les coups critiques du personnage assourdissent ses adversaires.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [critique](./Dons.md#DONCRITIQUE)
+**Catégorie.** [[Dons#DONCOMBAT|combat]], [[Dons#DONCRITIQUE|critique]]
 
-**Conditions.** [Don pour les critiques](./Don pour les critiques.md), [BBA](./BBA.md) +13
+**Conditions.** [[Don pour les critiques]], [[BBA]] +13
 
-**Avantages.** Quand le personnage réussit un [coup critique](./coup critique.md), sa victime devient définitivement [sourde](./Assourdi.md). Un jet de [Vigueur](./Vigueur.md) réussi permet d’être [assourdi](./Assourdi.md) pendant seulement un [round](./round.md). Le [DD](./DD.md) du jet de [Vigueur](./Vigueur.md) est égal à 10 + [bonus de base à l’attaque](./BBA.md) du personnage. Ce don n’a aucun effet sur une créature déjà sourde. On peut soigner la surdité par un sort de *[guérison suprême](./Guérison suprême.md)*, *[régénération](./Régénération.md)*, *[guérison de la surdité](./Guérison de la cécitésurdité.md)* ou par un pouvoir similaire.
+**Avantages.** Quand le personnage réussit un [[coup critique]], sa victime devient définitivement [[assourdi|sourde]]. Un jet de [[Vigueur]] réussi permet d’être [[assourdi]] pendant seulement un [[round]]. Le [[DD]] du jet de [[Vigueur]] est égal à 10 + [[BBA|bonus de base à l’attaque]] du personnage. Ce don n’a aucun effet sur une créature déjà sourde. On peut soigner la surdité par un sort de *[[guérison suprême]]*, *[[régénération]]*, *[[guérison de la cécitésurdité|guérison de la surdité]]* ou par un pouvoir similaire.
 
-**Spécial.** Le personnage applique un seul effet de critique à chacun de ses [coups critiques](./coup critique.md), à moins qu’il dispose de la [Maîtrise du critique](./Maîtrise du critique.md).
+**Spécial.** Le personnage applique un seul effet de critique à chacun de ses [[coup critique|coups critiques]], à moins qu’il dispose de la [[Maîtrise du critique]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage confirme un [coup critique](./coup critique.md) et tente d’[assourdir](./Assourdi.md) son adversaire grâce à ce don, il peut dépenser jusqu’à 5 points d’endurance pour augmenter le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) d’un montant égal au nombre de points dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage confirme un [[coup critique]] et tente d’[[assourdi|assourdir]] son adversaire grâce à ce don, il peut dépenser jusqu’à 5 points d’endurance pour augmenter le [[DD]] du [[jds|jet de sauvegarde]] d’un montant égal au nombre de points dépensés.

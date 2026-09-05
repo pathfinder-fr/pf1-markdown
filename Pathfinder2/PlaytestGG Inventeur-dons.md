@@ -4,17 +4,17 @@ Title: L'inventeur (Playtest Guns & Gears) - dons de classe
 LastModified: 2021-01-19 14:53
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)   
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]   
 
-• [Retour à la page du playtest de Guns & Gears](./PlaytestGG.md)
+• [[PlaytestGG|Retour à la page du playtest de Guns & Gears]]
 
 À chaque fois que vous gagnez un don de d'inventeur, vous pouvez choisir un don parmi la liste suivante. Vous devez remplir les prérequis avant de pouvoir le prendre.
 
-• Voir la [présentation de la classe d'inventeur](./PlaytestGG Inventeur.md)  
+• Voir la [[PlaytestGG Inventeur|présentation de la classe d'inventeur]]  
 
-• Voir l'[évolution de l'inventeur](./PlaytestGG Inventeur-évolution.md)
+• Voir l'[[PlaytestGG Inventeur-évolution|évolution de l'inventeur]]
 
 ### Niveau 1
 <div class="blocPF2">

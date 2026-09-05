@@ -14,24 +14,24 @@ Categories:
 {s:pucem|Créature magique|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p. 144*}
 {s:BDTexte|**PX** 1 600 px}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, CN}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]], [[sous-type extraplanaire|extraplanaire]]) de taille M, CN}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 9, pris au dépourvu 16 (Dex -1, naturelle +7)}
 {s:BDTexte|**pv** 66 (7d10+28)}
 {s:BDTexte|**Réf** +4, **Vig** +11, **Vol** +5}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 18 m(12 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +11 (1d8+4) et 2 tentacules, +6 (1d4+2 plus [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** morsure, +11 (1d8+4) et 2 tentacules, +6 (1d4+2 plus [[croc-en-jambe]])}
 {s:BDTexte|**A distance** explosion aqueuse ,+7 contact (1d8 plus poussée)}
 {s:BDTexte|**Attaques spéciales** inondation mortelle, poussée (explosion aqueuse, 1,50 m/1 {s:c})}
 {s:BDTexte|**Pouvoirs magiques** (NLS 7 ; concentration +9}
-{s:BDSorts|A volonté — *[contrôle de l'eau](./Contrôle de leau.md)*}
+{s:BDSorts|A volonté — *[[contrôle de leau|contrôle de l'eau]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 8, **Con** 19, **Int** 12, **Sag** 13, **Cha** 15}
-{s:BDTexte|**BBA** +7, **BMO** +11, **DMD** 20 (24 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (explosion aqueuse), [Attaques réflexes](./Attaques réflexes.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (nature) +8, [Natation](./Natation.md) +22, [Survie](./Survie.md) +8}
+{s:BDTexte|**BBA** +7, **BMO** +11, **DMD** 20 (24 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (explosion aqueuse), [[Attaques réflexes]], [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (nature) +8, [[Natation]] +22, [[Survie]] +8}
 {s:BDTexte|**Langue** aquatique, sylvestre}
 {s:BDTexte|**Particularités** amphibie, champ de boue}
 {s:BDSousTitre|Écologie}
@@ -39,9 +39,9 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Champ de boue (Sur).** Par une action simple, lorsqu’il est sur le sable, la terre ou tout autre type de sol meuble, le grodair peut faire jaillir une étendue d’eau stagnante dans la zone qui l’entoure. Ainsi, dans un rayon de 4,50 mètres (3 {s:c}) autour du grodair, la terre est considérée comme un marais peu profond (voir la section "[Marécages](./Aventures en extérieur.md#Marécages_6)"). Cette eau demeure tant que le grodair reste dans un rayon de 4,50 mètres (3 {s:c}) et souhaite qu’elle se maintienne. Le marais disparaît à l’instant où le grodair est tué ou quitte la zone.}
+{s:BDTexte|**Champ de boue (Sur).** Par une action simple, lorsqu’il est sur le sable, la terre ou tout autre type de sol meuble, le grodair peut faire jaillir une étendue d’eau stagnante dans la zone qui l’entoure. Ainsi, dans un rayon de 4,50 mètres (3 {s:c}) autour du grodair, la terre est considérée comme un marais peu profond (voir la section "[[Aventures en extérieur#Marécages_6|Marécages]]"). Cette eau demeure tant que le grodair reste dans un rayon de 4,50 mètres (3 {s:c}) et souhaite qu’elle se maintienne. Le marais disparaît à l’instant où le grodair est tué ou quitte la zone.}
 {s:BDTexte|**Explosion aqueuse (Ext).** L’attaque à distance du grodair est un jet d’eau sous pression ayant une portée de 18 mètres (12 {s:c}), sans facteur de portée.}
-{s:BDTexte|**Inondation mortelle (Sur).** Lorsque le grodair se fait tuer, il explose aussitôt en un souffle d’eau pressurisée de 4,50 mètres (3 {s:c}) de rayon infligeant 5d6 points de dégâts contondants ([Réflexes](./Réflexes.md) [DD](./DD.md) 17, 1/2 dégâts). Après l’explosion, un test réussi de [Survie](./Survie.md) de [DD](./DD.md) 25 permet aux créatures de retrouver un amas d’organes étranges au milieu des restes. Cet amas fonctionne comme une *[carafe intarissable](./Carafe intarissable.md)* pendant 2d6 heures mais ne produit qu’un effet de « jet » ou de « fontaine ». Si le personnage rate ce test de 5 ou plus, l’amas provoque une explosion infligeant 2d6 points de dégâts supplémentaires à l’auteur de l’échec (pas de [jet de sauvegarde](./jet de sauvegarde.md)) les organes sont complètement détruits. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Inondation mortelle (Sur).** Lorsque le grodair se fait tuer, il explose aussitôt en un souffle d’eau pressurisée de 4,50 mètres (3 {s:c}) de rayon infligeant 5d6 points de dégâts contondants ([[Réflexes]] [[DD]] 17, 1/2 dégâts). Après l’explosion, un test réussi de [[Survie]] de [[DD]] 25 permet aux créatures de retrouver un amas d’organes étranges au milieu des restes. Cet amas fonctionne comme une *[[carafe intarissable]]* pendant 2d6 heures mais ne produit qu’un effet de « jet » ou de « fontaine ». Si le personnage rate ce test de 5 ou plus, l’amas provoque une explosion infligeant 2d6 points de dégâts supplémentaires à l’auteur de l’échec (pas de [[jet de sauvegarde]]) les organes sont complètement détruits. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 
 </div>
 </td><td><div>

@@ -14,9 +14,9 @@ Categories:
 {s:pucem|Extérieur|Marais|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.66*}
 {s:BDTexte|**PX** 12.800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([aquatique](./sous-type aquatique.md), [Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, CM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +23}
-{s:BDTexte|**Aura** [puanteur](./Puanteur.md) (DD 24, 10 rounds)}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type aquatique|aquatique]], [[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille G, CM}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +23}
+{s:BDTexte|**Aura** [[puanteur]] (DD 24, 10 rounds)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 9, pris au dépourvu 25 (naturelle +16, taille -1)}
 {s:BDTexte|**pv** 145 (10d10+90)}
@@ -24,30 +24,30 @@ Categories:
 {s:BDTexte|**Immunités** électricité, poison ; **RD** 10/Bien ; **Résistances** acide 10, feu 10, froid 10 ; **RM** 22 }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD**  9 m (6 {s:c}), nage  9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +17 (4d4+8 et [étreinte](./Étreinte.md)), 2 griffes +17 (1d8+8 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure +17 (4d4+8 et [[étreinte]]), 2 griffes +17 (1d8+8 et [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Attaques spéciales** nausées}
 {s:BDTexte|**Pouvoirs magiques** (NLS 13<sup>e</sup>)}
-{s:BDSorts|À volonté — *[marteau du Chaos](./Marteau du chaos.md)* (DD 18), *[téléportation suprême](./Téléportation suprême.md)* (lui-même et 25 kg d'objets uniquement), *[ténèbres maudites](./Ténèbres maudites.md)* (DD 18)}
-{s:BDSorts|3/jour — *[état gazeux](./État gazeux.md)*}
-{s:BDSorts|1/jour — *[blasphème](./Blasphème.md)* (DD 21), *[convocation](./convocation.md)* (niveau 4, 1 hezrou 35%)}
+{s:BDSorts|À volonté — *[[marteau du Chaos]]* (DD 18), *[[téléportation suprême]]* (lui-même et 25 kg d'objets uniquement), *[[ténèbres maudites]]* (DD 18)}
+{s:BDSorts|3/jour — *[[état gazeux]]*}
+{s:BDSorts|1/jour — *[[blasphème]]* (DD 21), *[[convocation]]* (niveau 4, 1 hezrou 35%)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 27, **Dex** 11, **Con** 29, **Int** 14, **Sag** 14, **Cha** 18}
 {s:BDTexte|**BBA** +10, **BMO** +19 (+23 pour la lutte), **DMD** 29}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Combat en aveugle](./Combat en aveugle.md), [Enchaînement](./Enchaînement.md), [Science de l'initiative](./Science de linitiative.md), [Succession d'enchaînements](./Succession denchaînements.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +15, [Connaissances](./Connaissances.md) (mystères) +15, [Discrétion](./Discrétion.md) +9, [Escalade](./Escalade.md) +21, [Évasion](./Évasion.md) +10, [Intimidation](./Intimidation.md) +14, [Natation](./Natation.md) +29, [Perception](./Perception.md) +23 ; **Modificateurs raciaux** [Perception](./Perception.md) +8}
-{s:BDTexte|**Langues** abyssal, céleste, draconique ; [télépathie](./Télépathie.md) 20 cases}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Combat en aveugle]], [[Enchaînement]], [[Science de linitiative|Science de l'initiative]], [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +15, [[Connaissances]] (mystères) +15, [[Discrétion]] +9, [[Escalade]] +21, [[Évasion]] +10, [[Intimidation]] +14, [[Natation]] +29, [[Perception]] +23 ; **Modificateurs raciaux** [[Perception]] +8}
+{s:BDTexte|**Langues** abyssal, céleste, draconique ; [[télépathie]] 20 cases}
+{s:BDTexte|**Particularités** [[amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais (Abysse)}
 {s:BDTexte|**Organisation sociale** solitaire ou bande (2-4)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Nausées (Ext).** Les vapeurs toxiques et les fluides nauséabonds qui suintent constamment du corps des hezrous sont tout spécialement dangereux pour les individus [agrippés](./Agrippé.md) par ces créatures. Chaque round, les victimes [agrippées](./Agrippé.md) par un hezrou doivent réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 24 pour ne pas devenir [nauséeuses](./Nauséeux.md). En cas d'échec, la victime reste [nauséeuse](./Nauséeux.md) jusqu'à ce qu'elle réussisse un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 24 ou jusqu'à ce qu'une minute se soit écoulée sans qu'elle ne soit [agrippée](./Agrippé.md) par le démon (l'état préjudiciable disparaît dès qu'une de ces deux conditions est remplie). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Nausées (Ext).** Les vapeurs toxiques et les fluides nauséabonds qui suintent constamment du corps des hezrous sont tout spécialement dangereux pour les individus [[agrippé|agrippés]] par ces créatures. Chaque round, les victimes [[agrippé|agrippées]] par un hezrou doivent réussir un jet de [[Vigueur]] de [[DD]] 24 pour ne pas devenir [[nauséeux|nauséeuses]]. En cas d'échec, la victime reste [[nauséeux|nauséeuse]] jusqu'à ce qu'elle réussisse un jet de [[Vigueur]] de [[DD]] 24 ou jusqu'à ce qu'une minute se soit écoulée sans qu'elle ne soit [[agrippé|agrippée]] par le démon (l'état préjudiciable disparaît dès qu'une de ces deux conditions est remplie). Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 
 {s:ImageCentre|Bestiaire/Hezrou.jpg|90%}
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 *Ce fiélon à la peau épaisse, écailleuse et humide possède des yeux reptiliens et voraces et une large gueule remplie de crocs acérés.*
 
 Les hezrous vivent dans les vastes marécages, marais et cours

@@ -10,7 +10,7 @@ LastModified: 2025-07-09 14:57
 {s:pucem|Extérieur|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 240*}
 - **2 400 PX**
-- [Extérieur](./type Extérieur.md) ([Eau](./sous-type Eau.md), [élémentaire](./sous-type élémentaire.md), [Terre](./sous-type Terre.md)) de taille M, N
+- [[type extérieur|Extérieur]] ([[sous-type eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type terre|Terre]]) de taille M, N
 - **Init** +7 ; **Sens** vision dans le noir à 18 m, perception des vibrations à 9 m ; Perception +13
 (((Défense)))
 - **CA** 19, contact 13, pris au dépourvu 16 (Dex +3, naturelle +6)
@@ -26,8 +26,8 @@ LastModified: 2025-07-09 14:57
 (((Statistiques)))
 - **For** 17, **Dex** 16, **Con** 14, **Int** 10, **Sag** 13, **Cha** 7
 - **BBA** +9 ; **BMO** +12 ; **DMD** 25 (croc-en-jambe impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (coup), [Attaques réflexes](./Attaques réflexes.md), [Fente](./Fente.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Discrétion)
-- **Compétences** [Acrobaties](./Acrobaties.md) +15, [Connaissances](./Connaissances.md) (plans) +6, [Discrétion](./Discrétion.md) +18, [Escalade](./Escalade.md) +9, [Évasion](./Évasion.md) +15, [Intimidation](./Intimidation.md) +10, [Natation](./Natation.md) +17, [Perception](./Perception.md) +13 
+- **Dons** [[Arme de prédilection]] (coup), [[Attaques réflexes]], [[Fente]], [[Science de linitiative|Science de l’initiative]], [[Talent]] (Discrétion)
+- **Compétences** [[Acrobaties]] +15, [[Connaissances]] (plans) +6, [[Discrétion]] +18, [[Escalade]] +9, [[Évasion]] +15, [[Intimidation]] +10, [[Natation]] +17, [[Perception]] +13 
 - **Langues** terreux
 - **Particularités** compression, immobilité (flaque de boue)
 (((Écologie)))

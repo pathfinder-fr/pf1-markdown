@@ -7,13 +7,13 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Cape empoisonnée|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 15 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 15 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Poids** 0,5 kg
 (((Description)))
-Cette cape est souvent faite de laine mais on trouve aussi des exemplaires en cuir. Un sort de *[détection du poison](./Détection du poison.md)* indique la présence de toxines dans le tissu. On ne risque rien à tenir la cape mais, si quelqu’un l’enfile, il subit un [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 4d6 points de [Constitution](./Constitution.md), à moins de réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 28.
+Cette cape est souvent faite de laine mais on trouve aussi des exemplaires en cuir. Un sort de *[[détection du poison]]* indique la présence de toxines dans le tissu. On ne risque rien à tenir la cape mais, si quelqu’un l’enfile, il subit un [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 4d6 points de [[Constitution]], à moins de réussir un jet de [[Vigueur]] [[DD]] 28.
 
-Une fois la cape empoisonnée enfilée, son porteur doit recourir à une *[délivrance des malédictions](./Délivrance des malédictions.md)* pour l’enlever, ce qui détruit la magie de la cape. Si on lance ensuite *[neutralisation du poison](./Neutralisation du poison.md)*, on peut ramener une victime tuée par la cape à la vie grâce à un sort de *[rappel à la vie](./Rappel à la vie.md)* ou de *[résurrection](./Résurrection.md)*.
+Une fois la cape empoisonnée enfilée, son porteur doit recourir à une *[[délivrance des malédictions]]* pour l’enlever, ce qui détruit la magie de la cape. Si on lance ensuite *[[neutralisation du poison]]*, on peut ramener une victime tuée par la cape à la vie grâce à un sort de *[[rappel à la vie]]* ou de *[[résurrection]]*.
 (((Objet magique prévu)))
-[cape de la chauve-souris](./Cape de la chauve-souris.md), [cape de déplacement majeure](./Cape de déplacement.md), [cape éthérée](./Cape éthérée.md), [cape de l’araignée](./Cape de laraignée.md), [cape de résistance +5](./Cape de résistance.md)
+[[cape de la chauve-souris]], [[cape de déplacement|cape de déplacement majeure]], [[cape éthérée]], [[cape de laraignée|cape de l’araignée]], [[cape de résistance|cape de résistance +5]]
 </div>

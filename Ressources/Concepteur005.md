@@ -4,7 +4,7 @@ Title: FAQ sur les animaux intelligents
 LastModified: 2011-03-29 20:54
 ---
 
-<p class="description">Traduction d'un [article](http://paizo.com/paizo/blog/v5748dyo5lc12) de Jason Bulmahn paru sur le blog de Paizo — retour au [Blog des concepteurs](./Blog des concepteurs.md)</p>
+<p class="description">Traduction d'un [article](http://paizo.com/paizo/blog/v5748dyo5lc12) de Jason Bulmahn paru sur le blog de Paizo — retour au [[Blog des concepteurs]]</p>
 
 
 C'est un sujet de FAQ plutôt rare mais que nous apercevons de temps en temps ici et là. Que se passe-t-il quand un animal voit son score d'Intelligence augmenter ? Cela peut se produire dans plusieurs situations, et il existe plusieurs pistes que le MJ peut suivre pour résoudre ce problème. Aujourd'hui, nous allons tenter de mettre cet imbroglio au clair et voir si nous pouvons obtenir quelques règles de base qui ont du sens.

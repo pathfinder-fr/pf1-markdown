@@ -8,21 +8,21 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:MenuMagie}{s:UM}Les [mots cibles](./Mots cibles.md) établissent la manière dont un sort détermine ses cibles. Certains [mots effets](./Mots effets.md) limitent le type de [mots cibles](./Mots cibles.md) pouvant être utilisés dans les sorts de mots qui les incluent. Un sort de mots ne contient qu’un seul [mots cibles|mot cible], qui comme tous les autres, se présente selon le format suivant.
+{s:MenuMagie}{s:UM}Les [[mots cibles]] établissent la manière dont un sort détermine ses cibles. Certains [[mots effets]] limitent le type de [[mots cibles]] pouvant être utilisés dans les sorts de mots qui les incluent. Un sort de mots ne contient qu’un seul [[mots cibles|mot cible]], qui comme tous les autres, se présente selon le format suivant.
 
-**Nom.** C’est le nom du [mots cibles|mot cible]. On l’utilise dans le titre complet du sort de mots.
+**Nom.** C’est le nom du [[mots cibles|mot cible]]. On l’utilise dans le titre complet du sort de mots.
 
-**Niveau.** Cette ligne donne le niveau minimum d’un sort de mots contenant ce [mots cibles|mot cible].
+**Niveau.** Cette ligne donne le niveau minimum d’un sort de mots contenant ce [[mots cibles|mot cible]].
 
-**Portée.** Cette ligne décrit la portée d’un sort de mots contenant ce [mots cibles|mot cible].
+**Portée.** Cette ligne décrit la portée d’un sort de mots contenant ce [[mots cibles|mot cible]].
 
-**Cible.** Ce paragraphe décrit comment un sort de mots utilisant ce [mots cibles|mot cible] détermine ses cibles ou sa zone d’effet. Ce peut être un choix de cibles par le lanceur ou la création d’une zone d’effet dans laquelle toutes les créatures sont automatiquement affectées par le sort. Cela peut également créer un effet qui n’a pas de cible spécifique et affecte simplement l’espace indiqué.
+**Cible.** Ce paragraphe décrit comment un sort de mots utilisant ce [[mots cibles|mot cible]] détermine ses cibles ou sa zone d’effet. Ce peut être un choix de cibles par le lanceur ou la création d’une zone d’effet dans laquelle toutes les créatures sont automatiquement affectées par le sort. Cela peut également créer un effet qui n’a pas de cible spécifique et affecte simplement l’espace indiqué.
 
-**Augmentation.** Si le [mots cibles|mot cible] peut être amélioré par le [méta mots|méta mot] augmentation, les effets sont donnés ici. Référez-vous à la section sur les [méta mots](./Méta mots.md) pour plus de détails.
+**Augmentation.** Si le [[mots cibles|mot cible]] peut être amélioré par le [[méta mots|méta mot]] augmentation, les effets sont donnés ici. Référez-vous à la section sur les [[méta mots]] pour plus de détails.
 
-- [Barrière](./../Golarion/Barrière.md)
-- [Choisi](./Choisi.md)
-- [Cône](./Cône (mot de pouvoir).md)
-- [Explosion](./Explosion.md)
-- [Ligne](./Ligne (mot de pouvoir).md)
-- [Personnel](./Personnel (mot de pouvoir).md)
+- [[Barrière]]
+- [[Choisi]]
+- [[Cône (mot de pouvoir)|Cône]]
+- [[Explosion]]
+- [[Ligne (mot de pouvoir)|Ligne]]
+- [[Personnel (mot de pouvoir)|Personnel]]

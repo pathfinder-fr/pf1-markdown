@@ -4,9 +4,9 @@ Title: Éleukas, garde courageux
 LastModified: 2023-04-27 17:35
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur Otari](./OTARI.md)
+• [[OTARI|Retour à la page sur Otari]]
 
 <img src="Illustrations/Wiki/PF2/012021_ELEUKAS.png" class="fright" alt="">
 Éleukas est l'un des quatre protagonistes principaux de l'histoire courte "Le voile des quatre silences" par Liane Merciel. Vous pouvez les intégrer dans vos campagnes et vous en servir en tant qu'alliés, rivaux ou même PJ de remplacement !

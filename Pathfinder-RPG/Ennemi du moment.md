@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Enchantement](./Enchantement.md) ;** Niveau** [Rôd](./Rôdeur.md) 3   
+**École** [[Enchantement]] ;** Niveau** [[Rôdeur|Rôd]] 3   
 
-**Temps d'incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d'incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** une créature autre qu'un [ennemi juré](./Rôdeur.md#ENNEMIJURE)  
+**Cible** une créature autre qu'un [[rôdeur#ENNEMIJURE|ennemi juré]]  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Grâce à ce sort, le personnage choisit de faire de sa cible son [ennemi juré](./Rôdeur.md#ENNEMIJURE) pour toute la durée du sort. Il choisit un type d'[ennemi juré](./Rôdeur.md#ENNEMIJURE) et, tant que le sort est actif, il considère sa cible comme un ennemi de ce type.
+Grâce à ce sort, le personnage choisit de faire de sa cible son [[rôdeur#ENNEMIJURE|ennemi juré]] pour toute la durée du sort. Il choisit un type d'[[rôdeur#ENNEMIJURE|ennemi juré]] et, tant que le sort est actif, il considère sa cible comme un ennemi de ce type.

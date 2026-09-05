@@ -19,7 +19,7 @@ On peut trouver de nombreuses écoles, organisations et sociétés vouées à l�
 **Société secrète.** Dans cette dernière catégorie se trouvent des groupes qui utilisent la magie pour soutenir l’aboutissement d’objectifs secrets.
 
 ### Adhésion à une école
-Pour adhérer à une école, un personnage doit régler le droit d’adhésion et passer avec succès un examen d’entrée en réussissant un test de compétence dont la nature dépend de l’école. L’adhésion à une école peut être tentée une fois tous les deux semestres (cette période varie en fonction des écoles). Dès qu’un personnage est accepté, il doit régler une dîme ou des frais de formation chaque mois pour pouvoir y rester jusqu’à ce que sa valeur de [Renommée](./../Pathfinder-RPG/Réputation et renommée.md#RENOMMÉE) soit suffisamment élevée pour intégrer les rangs du personnel de l’école. Les coûts, compétences et conditions d’acquisition des points de Renommée varient en fonction des écoles.
+Pour adhérer à une école, un personnage doit régler le droit d’adhésion et passer avec succès un examen d’entrée en réussissant un test de compétence dont la nature dépend de l’école. L’adhésion à une école peut être tentée une fois tous les deux semestres (cette période varie en fonction des écoles). Dès qu’un personnage est accepté, il doit régler une dîme ou des frais de formation chaque mois pour pouvoir y rester jusqu’à ce que sa valeur de [[Pathfinder-RPG.Réputation et renommée#RENOMMÉE|Renommée]] soit suffisamment élevée pour intégrer les rangs du personnel de l’école. Les coûts, compétences et conditions d’acquisition des points de Renommée varient en fonction des écoles.
 
 Les avantages qu’apporte l’adhésion à une école de magie sont similaires à ceux conférés par une faction, sauf qu’un personnage n’améliore pas sa réputation au sein d’une école en accomplissant des missions liées aux objectifs de l’institution. À la place, il effectue des tests de compétence régulièrement ou accomplit des tâches pour améliorer sa réputation au sein de l’école. Régulièrement, les écoles récompensent les initiatives « extrascolaires » telles que les recherches, les voyages et les aventures. Le cas échéant, ces activités sont indiquées dans les pages suivantes, mais le MJ devra les étoffer s’il souhaite les transformer en aventures.
 
@@ -53,12 +53,12 @@ En plus des récompenses spécifiques conférées par chaque école de magie, le
 **Transcription de sort.** Le personnage peut choisir un sort et le recopier dans son grimoire (pour les magus et les magiciens) ou l’apprendre à son familier (pour les sorcières). Le personnage doit dépenser 1 PP par niveau du sort choisi.
 
 **Incantation.** En dépensant le nombre de Points de Prestige indiqué, le personnage peut demander à ce que l’un des sorts suivants soit lancé pour lui (dans tous les cas, le NLS est le minimum possible).
-- **1 PP.** *[délivrance de la paralysie](./../Pathfinder-RPG/Délivrance de la paralysie.md)*, *[délivrance des malédictions](./../Pathfinder-RPG/Délivrance des malédictions.md)*, *[dissipation de la magie](./../Pathfinder-RPG/Dissipation de la magie.md)*, *[guérison de la cécité/surdité](./../Pathfinder-RPG/Guérison de la cécitésurdité.md)*, *[guérison des maladies](./../Pathfinder-RPG/Guérison des maladies.md)*, *[réparation intégrale](./../Pathfinder-RPG/Réparation intégrale.md)*, *[restauration partielle](./../Pathfinder-RPG/Restauration partielle.md)*, *[soins modérés](./../Pathfinder-RPG/Soins modérés.md)*
-- **2 PP.** *[annulation d’enchantement](./../Pathfinder-RPG/Annulation denchantement.md)*, *[dissipation suprême](./../Pathfinder-RPG/Dissipation suprême.md)*, *[neutralisation du poison](./../Pathfinder-RPG/Neutralisation du poison.md)*, *[pénitence](./../Pathfinder-RPG/Pénitence.md)* (8 PP pour rétablir les pouvoirs d’un prêtre ou d’un druide), *[restauration](./../Pathfinder-RPG/Restauration.md)* (4 PP pour éliminer des niveaux négatifs permanents), *[soins importants](./../Pathfinder-RPG/Soins importants.md)*
-- **3 PP.** *[guérison suprême](./../Pathfinder-RPG/Guérison suprême.md)*, *[régénération](./../Pathfinder-RPG/Régénération.md)*
-- **16 PP.** *[rappel à la vie](./../Pathfinder-RPG/Rappel à la vie.md)*, *[restauration suprême](./../Pathfinder-RPG/Restauration suprême.md)*
-- **32 PP.** *[résurrection](./../Pathfinder-RPG/Résurrection.md)*
-- **77 PP.** *[résurrection suprême](./../Pathfinder-RPG/Résurrection suprême.md)*
+- **1 PP.** *[[Pathfinder-RPG.délivrance de la paralysie|délivrance de la paralysie]]*, *[[Pathfinder-RPG.délivrance des malédictions|délivrance des malédictions]]*, *[[Pathfinder-RPG.dissipation de la magie|dissipation de la magie]]*, *[[Pathfinder-RPG.guérison de la cécitésurdité|guérison de la cécité/surdité]]*, *[[Pathfinder-RPG.guérison des maladies|guérison des maladies]]*, *[[Pathfinder-RPG.réparation intégrale|réparation intégrale]]*, *[[Pathfinder-RPG.restauration partielle|restauration partielle]]*, *[[Pathfinder-RPG.soins modérés|soins modérés]]*
+- **2 PP.** *[[Pathfinder-RPG.annulation denchantement|annulation d’enchantement]]*, *[[Pathfinder-RPG.dissipation suprême|dissipation suprême]]*, *[[Pathfinder-RPG.neutralisation du poison|neutralisation du poison]]*, *[[Pathfinder-RPG.pénitence|pénitence]]* (8 PP pour rétablir les pouvoirs d’un prêtre ou d’un druide), *[[Pathfinder-RPG.restauration|restauration]]* (4 PP pour éliminer des niveaux négatifs permanents), *[[Pathfinder-RPG.soins importants|soins importants]]*
+- **3 PP.** *[[Pathfinder-RPG.guérison suprême|guérison suprême]]*, *[[Pathfinder-RPG.régénération|régénération]]*
+- **16 PP.** *[[Pathfinder-RPG.rappel à la vie|rappel à la vie]]*, *[[Pathfinder-RPG.restauration suprême|restauration suprême]]*
+- **32 PP.** *[[Pathfinder-RPG.résurrection|résurrection]]*
+- **77 PP.** *[[Pathfinder-RPG.résurrection suprême|résurrection suprême]]*
 
 ### Les académies
 Les académies de magie se consacrent surtout aux recherches, à la théorie, à l’histoire et aux débats d’idées. Nombre de lanceurs de sorts adhèrent aux académies dans le but de renforcer leurs pouvoirs et de devenir de meilleurs aventuriers, tandis que d’autres le font pour préparer leur adhésion à une guilde, voire à une société secrète. Certains s’y rendent simplement pour le plaisir d’apprendre et ne désirent rien de plus que d’être promus professeurs et intégrer les équipes et les traditions de l’institution.
@@ -82,7 +82,7 @@ Les académies suivantes sont trois des institutions d’apprentissage de la mag
 <div class="BD">
 {s:BDTitre|Académie|}
 *Cette dangereuse école promeut l’étude de divers domaines magiques, en se consacrant plus particulièrement à l’invocation.*
-- **Localisation** [Korvosa](./Korvosa.md) ([Varisie](./Varisie.md))
+- **Localisation** [[Korvosa]] ([[Varisie]])
 
 (((Conditions)))
 - **Droit d’adhésion** aucun
@@ -114,7 +114,7 @@ Les académies suivantes sont trois des institutions d’apprentissage de la mag
 <div class="BD">
 {s:BDTitre|Arcanamirium|}
 *Cette école de magie profane est la plus grande et la plus respectée dans la région de la Mer Intérieure. Fondée par des seigneurs exilés de l’Arc du Nex, elle permet surtout de se consacrer à l’étude de la « magie pragmatique ».*
-- **Localisation** [Absalom](./Absalom.md)
+- **Localisation** [[Absalom]]
 
 (((Conditions)))
 - **Droit d’adhésion** 50 po
@@ -143,7 +143,7 @@ Les académies suivantes sont trois des institutions d’apprentissage de la mag
 <div class="BD">
 {s:BDTitre|Magaambya|}
 *Fondée par Vieux mage Jatembe, le légendaire magicien, cette institution est la plus ancienne académie toujours opérationnelle dans la région de la Mer Intérieure.*
-- **Localisation** [Nantambu](./Nantambu.md) ([étendue du Mwangi](./Mwangi.md))
+- **Localisation** [[Nantambu]] ([[Mwangi|étendue du Mwangi]])
 
 (((Conditions)))
 - **Droit d’adhésion** 50 po
@@ -185,7 +185,7 @@ Vous trouverez ci-dessous quelques-unes des guildes les plus prospères et les p
 <div class="BD">
 {s:BDTitre|Opéra de Kintargo|}
 *Cet opéra chélaxien à l’essor rapide accueille des étudiants étrangers et des « libres penseurs », d’où le développement de la sulfureuse réputation de cet établissement.*
-- **Localisation** [Kintargo](./Kintargo.md) ([Chéliax](./Chéliax.md))
+- **Localisation** [[Kintargo]] ([[Chéliax]])
 
 (((Conditions)))
 - **Droit d’adhésion** 500 po
@@ -210,7 +210,7 @@ Vous trouverez ci-dessous quelques-unes des guildes les plus prospères et les p
 <div class="BD">
 {s:BDTitre|Forges de chair d’Oenopion|}
 *Dans les laboratoires expérimentaux des Forges de chair d’OEnopion sont créés, par le biais de la magie et de l’alchimie, d’étranges soldats d’un genre nouveau.*
-- **Localisation** [OEnopion](./Oenopion.md) ([Nex](./Nex.md))
+- **Localisation** [[OEnopion]] ([[Nex]])
 
 (((Conditions)))
 - **Droit d’adhésion** 200 po
@@ -234,7 +234,7 @@ Vous trouverez ci-dessous quelques-unes des guildes les plus prospères et les p
 <div class="BD">
 {s:BDTitre|Guilde des empoisonneurs|}
 *La tristement célèbre guilde des empoisonneurs est l’une des plus puissantes de Dague avec, à sa tête, Tragshi l’herboriste.*
-- **Localisation** [Dague](./Dague.md) ([Royaumes fluviaux](./Royaumes fluviaux.md))
+- **Localisation** [[Dague]] ([[Royaumes fluviaux]])
 
 (((Conditions)))
 - **Droit d’adhésion** 500 po
@@ -258,7 +258,7 @@ Vous trouverez ci-dessous quelques-unes des guildes les plus prospères et les p
 <div class="BD">
 {s:BDTitre|Caverne blanche|}
 *La Caverne blanche est le meilleur collège pour bardes d’Absalom. C’est une guilde où l’on peut apprendre diverses façons d’utiliser la magie pour améliorer toutes sortes de spectacles.*
-- **Localisation** [Absalom](./Absalom.md)
+- **Localisation** [[Absalom]]
 
 (((Conditions)))
 - **Droit d’adhésion** 50 po
@@ -318,26 +318,26 @@ Chaque religion dispose de monastères disséminés dans toute la région de la 
 
 (((Récompenses)))
 - **Faveur divine.** En plus des récompenses standards disponibles pour tous les étudiants (voir l’encart de la page 27), chaque monastère propose une récompense particulière étroitement associée à sa religion. Les récompenses pour chacune des divinités principales de la région de la Mer Intérieure sont décrites ci-dessous.
-  - **[Abadar](./Abadar.md) (3 PP).** Le personnage éprouve la Bénédiction de la civilisation, un rituel qui améliore plusieurs compétences quand il se trouve dans une cité particulière. Le personnage choisit une communauté quand il obtient cette faveur. Il gagne un bonus de circonstances de +2 aux tests de Bluff, de Connaissances (folklore local) et de Diplomatie effectués dans cette cité. Il peut gagner cet avantage plusieurs fois en choisissant à chaque fois une cité différente.
-  - **[Asmodéus](./Asmodéus.md) (5 PP).** Le personnage bénéficie des services d’un esclave spécialisé de son choix. Cette faveur lui confère ainsi un compagnon d’armes temporaire pendant un nombre de jours égal à sa valeur de Renommée divisée par 5. Déterminez avec votre MJ le profil de ce compagnon d’armes temporaire.
-  - **[Calistria](./Calistria.md) (5 PP).** Le personnage éprouve le rituel des 100 piqûres, pendant lequel il se fait piquer par plusieurs guêpes sacrées pendant une heure, ce qui lui inflige un affaiblissement temporaire de 1d6 points de Constitution. Il choisit alors l’une des possibilités suivantes : l’Intimidation et la Discrétion deviennent des compétences de classe, il gagne le pouvoir magique de déguisement utilisable une fois par jour (niveau de lanceur de sorts = niveau du personnage) ou un bonus de résistance de +2 aux jets de sauvegarde contre le poison. Il peut subir ce rituel trois fois en choisissant à chaque fois un avantage différent.
-  - **[Cayden Cailéan](./Cayden Cailéan.md) (5 PP).** Le personnage éprouve l’épreuve de l’Enivrement, une débauche longue d’une semaine où il consomme de l’alcool et participe à des tournois athlétiques toujours plus humiliants. À la fin de cette épreuve, il obtient le titre de « frère de la bière » ou de « soeur de la bière » et Robustesse en don supplémentaire.
-  - **[Desna](./Desna.md) (2 PP).** En priant dans un lieu sacré pour Desna et en dormant ensuite dans ce site pendant une nuit de pleine lune, le personnage obtient la Grâce des sphères. À n’importe quel moment par la suite, quand il lance un d20, il peut décider de le relancer. Il doit conserver le résultat de ce deuxième jet. Une fois qu’il a utilisé sa Grâce des sphères, il doit renouveler le rituel (et dépenser 2 PP de plus) pour bénéficier à nouveau de cette faveur.
-  - **[Érastil](./Érastil.md) (5 PP).** La formation suivie par le personnage lui permet désormais d’effectuer d’incroyables tirs au but avec son arc. Quand il utilise un arc, il gagne le don Tir de loin. S’il possède déjà ce don, il gagne à la place un bonus de compétence de +2 aux jets d’attaque effectués avec n’importe quel arc et à une distance supérieure au premier facteur de portée.
-  - **[Gorum](./Gorum.md) (4 PP).** Le personnage reçoit la Vision de fer, lors de laquelle il perçoit le reflet de Gorum sur un objet en fer (probablement une armure ou une arme métallique). La prochaine fois où il lui reste moins de 0 point de vie, il récupère immédiatement 2d8+3 points de vie. Une fois soigné de la sorte, il peut dépenser 4 PP supplémentaires pour disposer à nouveau de ce pouvoir.
-  - **[Gozreh](./Gozreh.md) (6 PP).** Le personnage obtient la Bénédiction de la nature. Il choisit un type de terrain parmi la liste donnée dans la description de l’aptitude terrain de prédilection du rôdeur. Il gagne un bonus de circonstances de +2 aux tests de Connaissances (nature), de Perception et de Survie effectués sur ce type de terrain. Il peut choisir cette faveur plusieurs fois en l’appliquant à chaque fois à un type de terrain différent.
-  - **[Iomédae](./Iomédae.md) (5 PP).** Le personnage bénéficie de la Grâce de l’héritière à chaque fois qu’il porte un harnois, une épée longue et un bouclier. Cette faveur lui confère un bonus de sainteté de +2 aux jets de sauvegarde effectués contre les effets mentaux.
-  - **[Irori](./Irori.md) (4 PP).** Le personnage parvient à concentrer ses énergies internes. Une fois par jour, par une action rapide, cette concentration interne lui confère un bonus d’intuition de +1 à un jet d’attaque. S’il possède des points de ki (comme ceux conférés par des niveaux de moine), il gagne un point de ki supplémentaire et peut activer sa concentration interne plusieurs fois par jour, en dépensant à chaque fois 1 point de ki par une action rapide.
-  - **[Lamashtu](./Lamashtu.md) (3 PP).** Le personnage subit le douloureux Rituel des sept balafres pendant lequel il se couvre lui-même le corps de marques intimidantes. Il se spécialise en Intimidation et gagne un bonus de +1 au DD des jets de sauvegarde effectués contre les effets de terreur qu’il crée.
-  - **[Néthys](./Néthys.md) (2 PP).** Le personnage a appris les formules secrètes du contrôle magique. Il gagne un bonus de +2 aux tests de concentration.
-  - **[Norgorber](./Norgorber.md) (5 PP).** La formation suivie par le personnage lui confère une aptitude d’utilisation des poisons identique à celle de la classe de prestige d’assassin.
-  - **[Pharasma](./Pharasma.md) (5 PP).** Une fois par semaine, le personnage peut supplier les psychopompes – des esprits qui soutiennent l’escorte des âmes vers le Cimetière – pour qu’ils marquent de manière surnaturelle le corps d’une créature morte il y a 10 minutes ou moins. Si une créature est ramenée à la vie dans les 24 heures suivantes, il ne subit pas le niveau négatif normalement infligé quand il revient à la vie.
-  - **[Rovagug](./Rovagug.md) (4 PP).** Le personnage sait particulièrement bien asséner des coups dévastateurs et gagne un bonus de malfaisance de +2 aux jets effectués pour confirmer les coups critiques. Quand il frappe un objet pour l’endommager avec une arme à deux mains, il ignore les 2 premiers points de solidité possédés par cet objet.
-  - **[Sarenrae](./Sarenrae.md) (7 PP).** Le personnage gagne le pouvoir magique de soins légers (niveau de lanceur de sorts égal à son niveau de personnage) utilisable un nombre de fois par jour égal à sa valeur de Renommée divisée par 10.
-  - **[Shélyn](./Shélyn.md) (7 PP).** Le personnage gagne le pouvoir magique de splendeur de l’aigle (niveau de lanceur de sorts égal à son niveau de personnage) utilisable une fois par jour.
-  - **[Torag](./Torag.md) (3 PP).** Le personnage peut accéder à une forge sacrée dans le monastère. Il gagne un bonus de sainteté de +5 aux tests d’Artisanat et d’Art de la magie effectués quand il forge une arme ou une armure métallique (magique ou non) sur ce lieu de travail. Le temps de fabrication de l’objet est réduit de moitié.
-  - **[Urgathoa](./Urgathoa.md) (5 PP).** Le personnage éprouve le Rituel des murmures blafards et gagne le pouvoir spécial d’affinité avec l’énergie négative. L’énergie positive et négative l’affecte comme s’il était un mort-vivant.
-  - **[Zon-Kuthon](./Zon-Kuthon.md) (4 PP).** Le personnage éprouve l’Étreinte des ombres, un rituel de servitude douloureux long d’une semaine pendant lequel il se fait torturer. Il gagne un bonus de malfaisance de +2 aux tests basés sur le Charisme effectués dans des lieux faiblement éclairés.
+  - **[[Abadar]] (3 PP).** Le personnage éprouve la Bénédiction de la civilisation, un rituel qui améliore plusieurs compétences quand il se trouve dans une cité particulière. Le personnage choisit une communauté quand il obtient cette faveur. Il gagne un bonus de circonstances de +2 aux tests de Bluff, de Connaissances (folklore local) et de Diplomatie effectués dans cette cité. Il peut gagner cet avantage plusieurs fois en choisissant à chaque fois une cité différente.
+  - **[[Asmodéus]] (5 PP).** Le personnage bénéficie des services d’un esclave spécialisé de son choix. Cette faveur lui confère ainsi un compagnon d’armes temporaire pendant un nombre de jours égal à sa valeur de Renommée divisée par 5. Déterminez avec votre MJ le profil de ce compagnon d’armes temporaire.
+  - **[[Calistria]] (5 PP).** Le personnage éprouve le rituel des 100 piqûres, pendant lequel il se fait piquer par plusieurs guêpes sacrées pendant une heure, ce qui lui inflige un affaiblissement temporaire de 1d6 points de Constitution. Il choisit alors l’une des possibilités suivantes : l’Intimidation et la Discrétion deviennent des compétences de classe, il gagne le pouvoir magique de déguisement utilisable une fois par jour (niveau de lanceur de sorts = niveau du personnage) ou un bonus de résistance de +2 aux jets de sauvegarde contre le poison. Il peut subir ce rituel trois fois en choisissant à chaque fois un avantage différent.
+  - **[[Cayden Cailéan]] (5 PP).** Le personnage éprouve l’épreuve de l’Enivrement, une débauche longue d’une semaine où il consomme de l’alcool et participe à des tournois athlétiques toujours plus humiliants. À la fin de cette épreuve, il obtient le titre de « frère de la bière » ou de « soeur de la bière » et Robustesse en don supplémentaire.
+  - **[[Desna]] (2 PP).** En priant dans un lieu sacré pour Desna et en dormant ensuite dans ce site pendant une nuit de pleine lune, le personnage obtient la Grâce des sphères. À n’importe quel moment par la suite, quand il lance un d20, il peut décider de le relancer. Il doit conserver le résultat de ce deuxième jet. Une fois qu’il a utilisé sa Grâce des sphères, il doit renouveler le rituel (et dépenser 2 PP de plus) pour bénéficier à nouveau de cette faveur.
+  - **[[Érastil]] (5 PP).** La formation suivie par le personnage lui permet désormais d’effectuer d’incroyables tirs au but avec son arc. Quand il utilise un arc, il gagne le don Tir de loin. S’il possède déjà ce don, il gagne à la place un bonus de compétence de +2 aux jets d’attaque effectués avec n’importe quel arc et à une distance supérieure au premier facteur de portée.
+  - **[[Gorum]] (4 PP).** Le personnage reçoit la Vision de fer, lors de laquelle il perçoit le reflet de Gorum sur un objet en fer (probablement une armure ou une arme métallique). La prochaine fois où il lui reste moins de 0 point de vie, il récupère immédiatement 2d8+3 points de vie. Une fois soigné de la sorte, il peut dépenser 4 PP supplémentaires pour disposer à nouveau de ce pouvoir.
+  - **[[Gozreh]] (6 PP).** Le personnage obtient la Bénédiction de la nature. Il choisit un type de terrain parmi la liste donnée dans la description de l’aptitude terrain de prédilection du rôdeur. Il gagne un bonus de circonstances de +2 aux tests de Connaissances (nature), de Perception et de Survie effectués sur ce type de terrain. Il peut choisir cette faveur plusieurs fois en l’appliquant à chaque fois à un type de terrain différent.
+  - **[[Iomédae]] (5 PP).** Le personnage bénéficie de la Grâce de l’héritière à chaque fois qu’il porte un harnois, une épée longue et un bouclier. Cette faveur lui confère un bonus de sainteté de +2 aux jets de sauvegarde effectués contre les effets mentaux.
+  - **[[Irori]] (4 PP).** Le personnage parvient à concentrer ses énergies internes. Une fois par jour, par une action rapide, cette concentration interne lui confère un bonus d’intuition de +1 à un jet d’attaque. S’il possède des points de ki (comme ceux conférés par des niveaux de moine), il gagne un point de ki supplémentaire et peut activer sa concentration interne plusieurs fois par jour, en dépensant à chaque fois 1 point de ki par une action rapide.
+  - **[[Lamashtu]] (3 PP).** Le personnage subit le douloureux Rituel des sept balafres pendant lequel il se couvre lui-même le corps de marques intimidantes. Il se spécialise en Intimidation et gagne un bonus de +1 au DD des jets de sauvegarde effectués contre les effets de terreur qu’il crée.
+  - **[[Néthys]] (2 PP).** Le personnage a appris les formules secrètes du contrôle magique. Il gagne un bonus de +2 aux tests de concentration.
+  - **[[Norgorber]] (5 PP).** La formation suivie par le personnage lui confère une aptitude d’utilisation des poisons identique à celle de la classe de prestige d’assassin.
+  - **[[Pharasma]] (5 PP).** Une fois par semaine, le personnage peut supplier les psychopompes – des esprits qui soutiennent l’escorte des âmes vers le Cimetière – pour qu’ils marquent de manière surnaturelle le corps d’une créature morte il y a 10 minutes ou moins. Si une créature est ramenée à la vie dans les 24 heures suivantes, il ne subit pas le niveau négatif normalement infligé quand il revient à la vie.
+  - **[[Rovagug]] (4 PP).** Le personnage sait particulièrement bien asséner des coups dévastateurs et gagne un bonus de malfaisance de +2 aux jets effectués pour confirmer les coups critiques. Quand il frappe un objet pour l’endommager avec une arme à deux mains, il ignore les 2 premiers points de solidité possédés par cet objet.
+  - **[[Sarenrae]] (7 PP).** Le personnage gagne le pouvoir magique de soins légers (niveau de lanceur de sorts égal à son niveau de personnage) utilisable un nombre de fois par jour égal à sa valeur de Renommée divisée par 10.
+  - **[[Shélyn]] (7 PP).** Le personnage gagne le pouvoir magique de splendeur de l’aigle (niveau de lanceur de sorts égal à son niveau de personnage) utilisable une fois par jour.
+  - **[[Torag]] (3 PP).** Le personnage peut accéder à une forge sacrée dans le monastère. Il gagne un bonus de sainteté de +5 aux tests d’Artisanat et d’Art de la magie effectués quand il forge une arme ou une armure métallique (magique ou non) sur ce lieu de travail. Le temps de fabrication de l’objet est réduit de moitié.
+  - **[[Urgathoa]] (5 PP).** Le personnage éprouve le Rituel des murmures blafards et gagne le pouvoir spécial d’affinité avec l’énergie négative. L’énergie positive et négative l’affecte comme s’il était un mort-vivant.
+  - **[[Zon-Kuthon]] (4 PP).** Le personnage éprouve l’Étreinte des ombres, un rituel de servitude douloureux long d’une semaine pendant lequel il se fait torturer. Il gagne un bonus de malfaisance de +2 aux tests basés sur le Charisme effectués dans des lieux faiblement éclairés.
 
 </div></div>
 
@@ -348,7 +348,7 @@ Les sociétés secrètes sont des groupes qui dissimulent leurs objectifs, et m�
 <div class="BD">
 {s:BDTitre|Citadelle Enferac|}
 *La citadelle Enferac est la forteresse des chevaliers infernaux de l’ordre du Portail. C’est l’un des principaux sites où se forment les Chevaliers infernaux lanceurs de sorts (appelés signifers) issus de tous les ordres.*
-- **Localisation** [montagnes de Ménador](./Ménador.md) ([Chéliax](./Chéliax.md))
+- **Localisation** [[Ménador|montagnes de Ménador]] ([[Chéliax]])
 
 (((Conditions)))
 - **Droit d’adhésion** 300 po
@@ -373,7 +373,7 @@ Les sociétés secrètes sont des groupes qui dissimulent leurs objectifs, et m�
 <div class="BD">
 {s:BDTitre|Société du tourment|}
 *Basée dans la ville de Galdurie, la Société du tourment utilise l’Académie du crépuscule comme une sorte de « façade » qui dissimule sa véritable fonction : le décryptage des mystères que contiennent les cartes du tourment, l’outil traditionnel des diseuses de bonne aventure varisiennes. La Société du tourment estime que ces mystères, s’ils sont décryptés, peuvent révéler les véritables secrets de la réalité.*
-- **Localisation** [Galduria](./Galduria.md) ([Varisie](./Varisie.md))
+- **Localisation** [[Galduria]] ([[Varisie]])
 
 (((Conditions)))
 - **Droit d’adhésion** 100 po, les candidats doivent posséder un jeu du tourment
@@ -404,7 +404,7 @@ Les sociétés secrètes sont des groupes qui dissimulent leurs objectifs, et m�
 <div class="BD">
 {s:BDTitre|Citadelle écarlate|}
 *La citadelle Écarlate sert de quartier général aux assassins des Mantes rouges, des tueurs redoutables et mystérieux qui vouent un culte au dieu mante Achaekek.*
-- **Localisation** [île de Médiogalti](./Médiogalti.md)
+- **Localisation** [[Médiogalti|île de Médiogalti]]
 
 (((Conditions)))
 - **Droit d’adhésion** 500 po
@@ -423,6 +423,6 @@ Les sociétés secrètes sont des groupes qui dissimulent leurs objectifs, et m�
 - **Agent écarlate (20 Renommée).** Le personnage a accès aux bâtisses périphériques de la bibliothèque Sarzari (seule la Maîtresse de sang peut accéder aux bâtisses centrales ou ceux à qui elle autorise temporairement l’accès). Il peut dépenser 1 PP pour gagner un bonus de circonstances de +10 à un test de Connaissances en consacrant une journée de recherches là-bas.
 - **Rejeton écarlate (50 Renommée).** Le personnage est un membre de haut rang et grandement respecté de la citadelle Écarlate. Il n’a plus à verser ses frais de formation et gagne à la place ce même montant en pièces d’or en guise de salaire.
 - **Assassin prodige (1 PP).** Le personnage considère les niveaux dans la classe de prestige d’assassin des Mantes rouges comme des niveaux de classe de prédilection.
-- **Magie des Mantes (2 PP).** Le personnage ajoute l’un des sorts suivants qui ne fait pas déjà partie des listes de sorts de ses classes à la liste de sorts de l’une de ses classes : *[brume sanglante](./../Pathfinder-RPG/Brume sanglante.md)*, *[fléau d’insectes](./../Pathfinder-RPG/Fléau dinsectes.md)*, *[forme de vermine I](./../Pathfinder-RPG/Forme de vermine I.md)*, *[forme de vermine II](./../Pathfinder-RPG/Forme de vermine II.md)*, *[griffes sanglantes](./../Pathfinder-RPG/Griffes sanglantes.md)*, *[mort rampante](./../Pathfinder-RPG/Mort rampante.md)*, *[nuée grouillante](./../Pathfinder-RPG/Nuée grouillante.md)*, *[pattes d’araignée](./../Pathfinder-RPG/Pattes daraignée.md)*, *[peau de nuée](./../Pathfinder-RPG/Peau de nuée.md)*, *[vermine géante](./../Pathfinder-RPG/Vermine géante.md)*, *[vomir une nuée](./../Pathfinder-RPG/Vomir une nuée.md)*. Si le personnage paye le double du prix en Points de Prestige, il peut inscrire automatiquement ce sort dans son grimoire, apprendre le sort à son familier (dans le cas d’une sorcière) ou apprendre le sort à la place d’un sort de même niveau qu’il connaît déjà (dans le cas d’un lanceur de sorts spontanés).
+- **Magie des Mantes (2 PP).** Le personnage ajoute l’un des sorts suivants qui ne fait pas déjà partie des listes de sorts de ses classes à la liste de sorts de l’une de ses classes : *[[Pathfinder-RPG.Brume sanglante|brume sanglante]]*, *[[Pathfinder-RPG.Fléau dinsectes|fléau d’insectes]]*, *[[Pathfinder-RPG.Forme de vermine I|forme de vermine I]]*, *[[Pathfinder-RPG.Forme de vermine II|forme de vermine II]]*, *[[Pathfinder-RPG.Griffes sanglantes|griffes sanglantes]]*, *[[Pathfinder-RPG.Mort rampante|mort rampante]]*, *[[Pathfinder-RPG.Nuée grouillante|nuée grouillante]]*, *[[Pathfinder-RPG.Pattes daraignée|pattes d’araignée]]*, *[[Pathfinder-RPG.Peau de nuée|peau de nuée]]*, *[[Pathfinder-RPG.Vermine géante|vermine géante]]*, *[[Pathfinder-RPG.Vomir une nuée|vomir une nuée]]*. Si le personnage paye le double du prix en Points de Prestige, il peut inscrire automatiquement ce sort dans son grimoire, apprendre le sort à son familier (dans le cas d’une sorcière) ou apprendre le sort à la place d’un sort de même niveau qu’il connaît déjà (dans le cas d’un lanceur de sorts spontanés).
 
 </div></div>

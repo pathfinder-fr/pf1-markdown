@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Elidir est la capitale de l'[Isger](./Isger.md).
+Elidir est la capitale de l'[[Isger]].

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#COMPOSANTEGESTUELLE
 ---
 
->>> [Présentation des sorts#COMPOSANTEGESTUELLE](./Présentation des sorts.md#COMPOSANTEGESTUELLE)
+>>> [[Présentation des sorts#COMPOSANTEGESTUELLE]]

@@ -9,8 +9,8 @@ Categories:
 
 {s:AO}*Le personnage sait manier ses énergies mentales de manière à amplifier leurs effets.*
 
-**Conditions.** Pouvoir de classe [amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE).
+**Conditions.** Pouvoir de classe [[psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]].
 
-**Avantage.** Le personnage gagne une [amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE) supplémentaire, mais pas une majeure.
+**Avantage.** Le personnage gagne une [[psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]] supplémentaire, mais pas une majeure.
 
-**Spécial.** Le personnage peut choisir ce don à plusieurs reprises, gagnant à chaque fois une [amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE) de plus.
+**Spécial.** Le personnage peut choisir ce don à plusieurs reprises, gagnant à chaque fois une [[psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]] de plus.

@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le pouvoir mythique du personnage perce les défenses de ses ennemis.*
 
-**Condition.** [Efficacité des sorts accrue](./Efficacité des sorts accrue.md)
+**Condition.** [[Efficacité des sorts accrue]]
 
-**Avantage.** Le personnage ajoute la moitié de son [grade](./Grade.md) aux tests de niveau de lanceur de sorts effectués pour ignorer la résistance à la magie. S’il possède [Efficacité des sorts accrue supérieure](./Efficacité des sorts accrue supérieure.md), il ajoute à la place son [grade](./Grade.md) complet.
+**Avantage.** Le personnage ajoute la moitié de son [[grade]] aux tests de niveau de lanceur de sorts effectués pour ignorer la résistance à la magie. S’il possède [[Efficacité des sorts accrue supérieure]], il ajoute à la place son [[grade]] complet.

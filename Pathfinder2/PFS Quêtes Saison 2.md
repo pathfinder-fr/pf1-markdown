@@ -4,11 +4,11 @@ Title: Quêtes PFS 'Série 2' pour Pathfinder 2
 LastModified: 2025-08-25 12:13
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page PFS pour Pathfinder 2](./PFS.md)
+• [[PFS|Retour à la page PFS pour Pathfinder 2]]
 
-Les quêtes PFS sont des aventures courtes conçues pour être jouées en 2 à 3 heures. Elles rapportent 2 XP, 2 points de réputation et 4 jours de Downtime. Elles continuent la [première série](./PFS Quêtes Saison 1.md) publiée entre 2019 et 2020 sous un format plus moderne.  
+Les quêtes PFS sont des aventures courtes conçues pour être jouées en 2 à 3 heures. Elles rapportent 2 XP, 2 points de réputation et 4 jours de Downtime. Elles continuent la [[PFS Quêtes Saison 1|première série]] publiée entre 2019 et 2020 sous un format plus moderne.  
   
 
 <u>Note</u>: les scénarios sont disponibles le <u>*dernier mercredi du mois indiqué*</u>. De plus les images des couvertures divergent parfois entre celles du site de Paizo et la couverture finale du pdf

@@ -13,6 +13,6 @@ Categories:
 
 **Condition.** Posséder une vitesse de vol.
 
-**Avantage.** Une fois par round, une créature possédant ce don peut virer de 180 degrés par une [action libre](./Action libre.md) sans avoir à réussir un test de [Vol](./Vol.md). Ce virage ne réduit pas non plus la distance que la créature peut parcourir.
+**Avantage.** Une fois par round, une créature possédant ce don peut virer de 180 degrés par une [[action libre]] sans avoir à réussir un test de [[Vol]]. Ce virage ne réduit pas non plus la distance que la créature peut parcourir.
 
-**Normal.** Une créature en vol peut tourner d’au plus 90 degrés en réussissant un test de [Vol](./Vol.md) de [DD](./DD.md) 15 et en dépensant 1,5 m (1 {s:c}) de mouvement. Elle peut virer d’au plus 180 degrés en réussissant un test de [Vol](./Vol.md) de [DD](./DD.md) 20 et en dépensant 3 m (2 {s:c}) de mouvement.
+**Normal.** Une créature en vol peut tourner d’au plus 90 degrés en réussissant un test de [[Vol]] de [[DD]] 15 et en dépensant 1,5 m (1 {s:c}) de mouvement. Elle peut virer d’au plus 180 degrés en réussissant un test de [[Vol]] de [[DD]] 20 et en dépensant 3 m (2 {s:c}) de mouvement.

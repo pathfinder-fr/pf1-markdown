@@ -18,17 +18,17 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[lumière](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 3, [Cham](./Chaman.md) 3, [Dru](./Druide.md) 3, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Occ](./Occultiste.md) 3, [Pal](./Paladin.md) 3, [Prê](./Prêtre.md) 3  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** objet touché  
 
-**Durée** 10 minutes/[niveau](./niveau.md) (T)  
+**Durée** 10 minutes/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
@@ -38,8 +38,8 @@ Si le sort est lancé sur un petit objet recouvert d’un cache opaque, les effe
 
 *Lumière du jour* cesse temporairement de faire effet au contact d’une zone de ténèbres magiques, mais ces dernières sont également réprimées dans la zone d’effet du sort. Les conditions d’éclairage en vigueur redeviennent donc celles qui régnaient avant l’arrivée des ténèbres magiques.
 
-*Lumière du jour* contre et dissipe tout sort d’obscurité de niveau égal ou inférieur, tel que *[ténèbres](./Ténèbres.md)*.
+*Lumière du jour* contre et dissipe tout sort d’obscurité de niveau égal ou inférieur, tel que *[[ténèbres]]*.
 
 ### Mythique
 {s:CMy}
-Dans le rayon de 18 mètres supplémentaires, la luminosité augmente pour correspondre à celle produite par une lumière normale, quelles que soient les conditions de luminosité actuelles. Les créatures qui subissent des malus en cas d’exposition à une lumière vive voient ces malus doubler tant qu’elles se trouvent dans la zone de lumière vive produite par le sort. Toutes les autres créatures dans la zone de lumière vive gagnent un bonus de circonstances de +2 aux tests de [Perception](./Perception.md) et aux jets de sauvegarde pour résister à la terreur.
+Dans le rayon de 18 mètres supplémentaires, la luminosité augmente pour correspondre à celle produite par une lumière normale, quelles que soient les conditions de luminosité actuelles. Les créatures qui subissent des malus en cas d’exposition à une lumière vive voient ces malus doubler tant qu’elles se trouvent dans la zone de lumière vive produite par le sort. Toutes les autres créatures dans la zone de lumière vive gagnent un bonus de circonstances de +2 aux tests de [[Perception]] et aux jets de sauvegarde pour résister à la terreur.

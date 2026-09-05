@@ -11,11 +11,11 @@ Categories:
 <div class="BD">
 {s:BDTitre|Orang-pendak|FP 1/2}
 {s:pucem|Humanoïde|Forêt-Jungle|Tropical}
-{s:BDTexte|*Source : [Bestiaire 5 p.197](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.197]]*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Orang-pendak](./Orang-pendak-(race).md) [guerrier](./Guerrier.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([sasquatch](./sous-type sasquatch.md)) de taille P, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[Orang-pendak (race)|Orang-pendak]] [[guerrier]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type sasquatch|sasquatch]]) de taille P, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 11 (Dex +2, taille +1)}
 {s:BDTexte|**pv** 11 (1d10+1)}
@@ -28,19 +28,19 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 14, **Con** 13, **Int** 6, **Sag** 12, **Cha** 10}
 {s:BDTexte|**BBA** +1 ; **BMO** +3 ; **DMD** 15}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Talent](./Talent.md) (Discrétion)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +9 (+13 en forêt), [Dressage](./Dressage.md) +4 (+8 avec les singes), [Escalade](./Escalade.md) +7 (+11 en forêt) ; **Modificateurs raciaux** +4 Discrétion en forêt, +4 Dressage avec les singes, +4 Escalade en forêt}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Talent]] (Discrétion)}
+{s:BDTexte|**Compétences** [[Discrétion]] +9 (+13 en forêt), [[Dressage]] +4 (+8 avec les singes), [[Escalade]] +7 (+11 en forêt) ; **Modificateurs raciaux** +4 Discrétion en forêt, +4 Dressage avec les singes, +4 Escalade en forêt}
 {s:BDTexte|**Langues** sasquatch}
 {s:BDTexte|**Particularités** arpenteur des forêts, sur ses deux pieds, empathie simienne}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes}
-{s:BDTexte|**Organisation** solitaire, paire, famille (3-7), ou tribu (8-30 plus 8-30 non-combattants, 1 chef <nowiki>[</nowiki>[chasseur](./Chasseur.md) ou [rôdeur](./Rôdeur.md) de niveau 3 à 5<nowiki>]</nowiki>, 1 chaman <nowiki>[</nowiki>[druide](./Druide.md) ou [chaman](./Chaman.md) de niveau 3 à 5<nowiki>]</nowiki> et 1d4 [gorilles](./Gorille.md) ou 1 [nuée de singes](./Nuée de singes.md))}
-{s:BDTexte|**Trésor** équipement de PNJ ([lance](./lance (arme).md), 2 [bolas](./bolas (arme).md), autre trésor)}
+{s:BDTexte|**Organisation** solitaire, paire, famille (3-7), ou tribu (8-30 plus 8-30 non-combattants, 1 chef <nowiki>[</nowiki>[[chasseur]] ou [[rôdeur]] de niveau 3 à 5<nowiki>]</nowiki>, 1 chaman <nowiki>[</nowiki>[[druide]] ou [[chaman]] de niveau 3 à 5<nowiki>]</nowiki> et 1d4 [[Gorille|gorilles]] ou 1 [[nuée de singes]])}
+{s:BDTexte|**Trésor** équipement de PNJ ([[lance (arme)|lance]], 2 [[bolas (arme)|bolas]], autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Arpenteur des forêts (Ext).** Les orangs-pendaks gagnent un bonus de +4 pour les tests de [Discrétion](./Discrétion.md) et d’[Escalade](./Escalade.md) en forêt ou dans les jungles.}
-{s:BDTexte|**Empathie simienne (Ext).** Les orangs-pendaks obtiennent un bonus racial de +4 pour les tests de [Dressage](./Dressage.md) et d’[empathie sauvage](./Druide.md#EMPATHIESAUVAGE) avec les singes.}
-{s:BDTexte|**Mettre en pièces (Ext).** Le torse et les bras des orangs-pendaks sont puissants et ces créatures gagnent un bonus racial de +2 pour tous les tests de [Force](./Force.md) réalisés dans le but de briser ou faire éclater un objet. Ce bonus s’applique aussi sur les tests de manœuvres offensives de [destruction](./destruction.md) visant à briser quelque chose avec leur attaque à mains nues.}
-{s:BDTexte|**Sur ses deux pieds (Ext).** Les orangs-pendaks sont très nerveux dès qu’ils montent sur un autre animal ou sont sur un véhicule. Dans ces cas-là, ils subissent un malus de -2 à leurs tests de [caractéristique](./Caractéristiques.md), [jets d'attaque](./jet dattaque.md), [jets de dégâts](./Valeurs de combat.md#DEGATS), [jets de sauvegarde](./JDS.md) et tests de [compétence](./Compétences.md).}
+{s:BDTexte|**Arpenteur des forêts (Ext).** Les orangs-pendaks gagnent un bonus de +4 pour les tests de [[Discrétion]] et d’[[Escalade]] en forêt ou dans les jungles.}
+{s:BDTexte|**Empathie simienne (Ext).** Les orangs-pendaks obtiennent un bonus racial de +4 pour les tests de [[Dressage]] et d’[[Druide#EMPATHIESAUVAGE|empathie sauvage]] avec les singes.}
+{s:BDTexte|**Mettre en pièces (Ext).** Le torse et les bras des orangs-pendaks sont puissants et ces créatures gagnent un bonus racial de +2 pour tous les tests de [[Force]] réalisés dans le but de briser ou faire éclater un objet. Ce bonus s’applique aussi sur les tests de manœuvres offensives de [[destruction]] visant à briser quelque chose avec leur attaque à mains nues.}
+{s:BDTexte|**Sur ses deux pieds (Ext).** Les orangs-pendaks sont très nerveux dès qu’ils montent sur un autre animal ou sont sur un véhicule. Dans ces cas-là, ils subissent un malus de -2 à leurs tests de [[Caractéristiques|caractéristique]], [[jet dattaque|jets d'attaque]], [[Valeurs de combat#DEGATS|jets de dégâts]], [[jds|jets de sauvegarde]] et tests de [[Compétences|compétence]].}
 
 </div></td>
 <td><div>*Cet humanoïde au large torse et aux bras musclés est recouvert de poils de couleur brun-orangé.*
@@ -54,11 +54,11 @@ Un orang-pendak adulte mesure entre 90 et 150 cm et pèse jusqu’à 75 kilos. L
 ### Personnages orangs-pendaks
 Les orangs-pendaks sont définis par leurs niveaux de classe ; ils n’ont pas de dés de vie raciaux. Tous les orangs-pendaks ont les traits raciaux suivants :
 - **+2 en Force, +2 en Sagesse, -2 en Intelligence.** Les orangs-pendaks sont forts et intuitifs, mais pas particulièrement intelligents.
-- **Petit.** Les orangs-pendaks sont des créatures de taille P et gagnent : un bonus de taille de +1 à leur [CA](./CA.md) ; un bonus de taille de +1 à leurs [jets d’attaque](./jet dattaque.md) ; un malus de -1 à leurs tests de manœuvres offensives et à leur [DMD](./DMD.md) ; un bonus de taille de +4 à leurs tests de [Discrétion](./Discrétion.md).
+- **Petit.** Les orangs-pendaks sont des créatures de taille P et gagnent : un bonus de taille de +1 à leur [[CA]] ; un bonus de taille de +1 à leurs [[jet dattaque|jets d’attaque]] ; un malus de -1 à leurs tests de manœuvres offensives et à leur [[DMD]] ; un bonus de taille de +4 à leurs tests de [[Discrétion]].
 - **Arpenteur des forêts.** Voir ci-dessus.
 - **Vision nocturne.** Les orangs-pandaks peuvent voir deux fois plus loin que les humains dans des conditions de faible luminosité.
 - **Sur ses deux pieds.** Voir ci-dessus.
 - **Empathie simienne.** Voir ci-dessus.
 - **Mettre en pièces.** Voir ci-dessus.
-- **Langues.** Les orangs-pendaks commencent le jeu en parlant sasquatch. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent choisir d’apprendre des langues parmi la liste suivante : aklo, commun, draconique, gobelin, grippli, sylvestre, vanaran et vishkanyan.
+- **Langues.** Les orangs-pendaks commencent le jeu en parlant sasquatch. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent choisir d’apprendre des langues parmi la liste suivante : aklo, commun, draconique, gobelin, grippli, sylvestre, vanaran et vishkanyan.
 </div></td></tr></table>

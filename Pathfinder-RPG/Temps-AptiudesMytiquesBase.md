@@ -11,25 +11,25 @@ Chaque PJ mythique gagne plusieurs aptitudes de base partagées par tous les per
 |- CLASS="titre"
 | Grade mythique || Valeur de  carac. || Don  mythique || Aptitudes mythiques  de base
 |- CLASS="premier"
-| 1er || — || 1er || [Difficile à tuer](./Temps-AptiudesMytiquesBase.md#DifficileTuer), [Pouvoir mythique](./Temps-AptiudesMytiquesBase.md#PouvoirMythique), [montée en puissance](./Temps-AptiudesMytiquesBase.md#MonteeEnPuissanceMythique) (+1d6)
+| 1er || — || 1er || [[Temps-AptiudesMytiquesBase#DifficileTuer|Difficile à tuer]], [[Temps-AptiudesMytiquesBase#PouvoirMythique|Pouvoir mythique]], [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d6)
 |-
-| 2ème || 1er || — || [Excellente initiative](./Temps-AptiudesMytiquesBase.md#ExcellenteInitiative)
+| 2ème || 1er || — || [[Temps-AptiudesMytiquesBase#ExcellenteInitiative|Excellente initiative]]
 |-
-| 3ème || — || 2ème || [Rétablissement](./Temps-AptiudesMytiquesBase.md#Retablissement)
+| 3ème || — || 2ème || [[Temps-AptiudesMytiquesBase#Retablissement|Rétablissement]]
 |-
-| 4ème || 2ème || — || [montée en puissance](./Temps-AptiudesMytiquesBase.md#MonteeEnPuissanceMythique) (+1d8)
+| 4ème || 2ème || — || [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d8)
 |-
-| 5ème || — || 3ème || [Jets de sauvegarde mythiques](./Temps-AptiudesMytiquesBase.md#JDSMythique)
+| 5ème || — || 3ème || [[Temps-AptiudesMytiquesBase#JDSMythique|Jets de sauvegarde mythiques]]
 |-
-| 6ème || 3ème || — || [Force de volonté](./Temps-AptiudesMytiquesBase.md#ForceVolonté)
+| 6ème || 3ème || — || [[Temps-AptiudesMytiquesBase#ForceVolonté|Force de volonté]]
 |-
-| 7ème || — || 4ème || [montée en puissance](./Temps-AptiudesMytiquesBase.md#MonteeEnPuissanceMythique) (+1d10)
+| 7ème || — || 4ème || [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d10)
 |-
-| 8ème || 4ème || — || [Indomptable](./Temps-AptiudesMytiquesBase.md#Indomptable)
+| 8ème || 4ème || — || [[Temps-AptiudesMytiquesBase#Indomptable|Indomptable]]
 |-
-| 9ème || — || 5ème || [Immortel](./Temps-AptiudesMytiquesBase.md#Immortel)
+| 9ème || — || 5ème || [[Temps-AptiudesMytiquesBase#Immortel|Immortel]]
 |-
-| 10ème || 5ème || — || [Héros légendaire](./Temps-AptiudesMytiquesBase.md#HeroLegendaire), [montée en puissance](./Temps-AptiudesMytiquesBase.md#MonteeEnPuissanceMythique) (+1d12)
+| 10ème || 5ème || — || [[Temps-AptiudesMytiquesBase#HeroLegendaire|Héros légendaire]], [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d12)
 |-
 |}
 

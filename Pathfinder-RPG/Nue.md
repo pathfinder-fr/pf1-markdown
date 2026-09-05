@@ -14,27 +14,27 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 page 202*}
 {s:BDTexte|**PX** 9.600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, NM}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, NM}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 15, pris au dépourvu 18 (Dex +5, esquive +1, naturelle +9, taille -1)}
 {s:BDTexte|**pv** 126 (12d10+60)}
 {s:BDTexte|**Réf** +13, **Vig** +13, **Vol** +7}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +17 (2d6+6 plus [absorption d’énergie](./absorption dénergie.md))
+{s:BDTexte|**Corps à corps** morsure, +17 (2d6+6 plus [[absorption dénergie|absorption d’énergie]])
 et morsure, +17 (1d4+6 plus poison) et 2 griffes, +17 (1d6+6)}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}); **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [absorption d’énergie](./absorption dénergie.md) (2 niveaux, [DD](./DD.md) 16), [bond](./Bond.md)}
+{s:BDTexte|**Attaques spéciales** [[absorption dénergie|absorption d’énergie]] (2 niveaux, [[DD]] 16), [[bond]]}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12; concentration +12)}
-{s:BDSorts|3/jour — *[contagion](./Contagion.md)* ([DD](./DD.md) 14), *[immobilisation de personne](./Immobilisation de personne.md)* ([DD](./DD.md) 13)}
-{s:BDSorts|1/jour — *[cauchemar](./Cauchemar.md)* ([DD](./DD.md) 15), *[cri](./Cri.md)* ([DD](./DD.md) 14), *[vagues de fatigue](./Vagues de fatigue.md)* }
+{s:BDSorts|3/jour — *[[contagion]]* ([[DD]] 14), *[[immobilisation de personne]]* ([[DD]] 13)}
+{s:BDSorts|1/jour — *[[cauchemar]]* ([[DD]] 15), *[[cri]]* ([[DD]] 14), *[[vagues de fatigue]]* }
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 21, **Con** 20, **Int** 7, **Sag** 17, **Cha** 10}
-{s:BDTexte|**BBA** +12 ; **BMO** +19 ; **DMD** 35 (39 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons**  [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md),
-[Science de l'initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +11, [Escalade](./Escalade.md) +13, [Perception](./Perception.md) +10}
+{s:BDTexte|**BBA** +12 ; **BMO** +19 ; **DMD** 35 (39 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons**  [[Attaques réflexes]], [[Esquive]], [[Magie de guerre]],
+[[Science de linitiative|Science de l'initiative]], [[Souplesse du serpent]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +11, [[Escalade]] +13, [[Perception]] +10}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Part** forme de nuage}
 {s:BDSousTitre|Écologie}
@@ -45,13 +45,13 @@ et morsure, +17 (1d4+6 plus poison) et 2 griffes, +17 (1d6+6)}
 {s:BDTexte|**Forme de nuage (Sur).** Le nue
 peut se transformer pour prendre la forme d’un nuage noir de 3 mètres de rayon
 ou reprendre sa forme normale par une
-[action simple](./Action simple.md). Un nue sous forme de nuage est considéré
-comme étant sous les effets du sort *[état gazeux](./État gazeux.md)*, à la
-seule différence qu’il gêne la vision comme une *[nappe de brouillard](./Nappe de brouillard.md)*.}
-{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [Vigueur](./Vigueur.md)
-[DD](./DD.md) 21 ; *fréquence* 1/[round](./round.md) pendant 6 [round](./round.md)s ;
-*effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 [Force](./Force.md) ;
-*guérison* 2 réussites consécutives. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+[[action simple]]. Un nue sous forme de nuage est considéré
+comme étant sous les effets du sort *[[état gazeux]]*, à la
+seule différence qu’il gêne la vision comme une *[[nappe de brouillard]]*.}
+{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [[Vigueur]]
+[[DD]] 21 ; *fréquence* 1/[[round]] pendant 6 [[round]]s ;
+*effet* [[affaiblissement temporaire]] 1d4 [[Force]] ;
+*guérison* 2 réussites consécutives. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 </div>
 </td><td><div>
 ''Se matérialisant à partir d’un nuage noir nocif, cette bête a une tête de

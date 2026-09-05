@@ -6,12 +6,12 @@ LastModified: 2017-12-14 20:33
 
 {s:AO}*Le regard douloureux du personnage écorche ses adversaires.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Hypnotiseur](./Hypnotiseur.md) de niveau 11, pouvoir de
-classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX).
+**Conditions.** [[Hypnotiseur]] de niveau 11, pouvoir de
+classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]].
 
-**Avantage.** Quand le personnage utilise son [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX),
+**Avantage.** Quand le personnage utilise son [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]],
 sa cible doit réussir un jet de Volonté (DD = 10 + 1/2 niveau
-d’[hypnotiseur](./Hypnotiseur.md) + modificateur de [Charisme](./Charisme.md)), sans quoi la douleur
-le rend [fiévreux](./Fiévreux.md) pendant 1 round.
+d’[[hypnotiseur]] + modificateur de [[Charisme]]), sans quoi la douleur
+le rend [[fiévreux]] pendant 1 round.

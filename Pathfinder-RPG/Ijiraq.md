@@ -10,7 +10,7 @@ LastModified: 2017-03-19 11:42
 {s:pucem|Fée|Forêt-Jungle|Froid}
 {s:BDTexte|*Source : Bestiaire 4 page 150*}
 - **6 400 PX**
-- [Fée](./type Fée.md) (métamorphe) de taille M, CN
+- [[type fée|Fée]] (métamorphe) de taille M, CN
 - **Init **+2 ; **Sens **vision nocturne ; Perception +21
 (((Défense)))
 - **CA **25, contact 13, pris au dépourvu 22 (Dex +2, esquive +1, naturelle +12)
@@ -22,14 +22,14 @@ LastModified: 2017-03-19 11:42
 - **Distance **javeline, +9 (1d6+3)
 - **Attaque spéciale** regard déconcertant
 - **Pouvoirs magiques** (**NLS **14 ; concentration +20)
-  - *À volonté* – [porte dimensionnelle](./Porte dimensionnelle.md), [terrain hallucinatoire](./Terrain hallucinatoire.md) (DD 20), [vol](./Vol.md)
-  - *3/jour* – [contrôle des vents](./Contrôle des vents.md), [convocation d’alliés naturels IV](./Convocation dalliés naturels IV.md), [métamorphose funeste](./Métamorphose funeste.md) (DD 21), [soins intensifs](./Soins intensifs.md) (DD 20), [tempête de grêle](./Tempête de grêle.md) (DD 20), [tempête de neige](./Tempête de neige.md) (DD 19)
+  - *À volonté* – [[porte dimensionnelle]], [[terrain hallucinatoire]] (DD 20), [[vol]]
+  - *3/jour* – [[contrôle des vents]], [[convocation dalliés naturels IV|convocation d’alliés naturels IV]], [[métamorphose funeste]] (DD 21), [[soins intensifs]] (DD 20), [[tempête de grêle]] (DD 20), [[tempête de neige]] (DD 19)
 (((Statistiques)))
 - **For **16, **Dex **15, **Con **18, **Int **15, **Sag **19, **Cha **22
 - **BBA **+7 ; **BMO **+10 ; **DMD **23
-- **Dons **[Aisance](./Aisance.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Déplacement acrobatique](./Déplacement acrobatique.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Souplesse du serpent](./Souplesse du serpent.md)
-- **Compétences **[Connaissances](./Connaissances.md) (mystères) +16, [Connaissances](./Connaissances.md) (nature) +19, [Discrétion](./Discrétion.md) +19, [Dressage](./Dressage.md) +20, [Évasion](./Évasion.md) +19, [Intimidation](./Intimidation.md) +20, [Perception](./Perception.md) +21, [Survie](./Survie.md) +18 
-- **Particularités **caché en pleine lumière, changement de forme ([Elan](./Elan.md), forme bestiale II)
+- **Dons **[[Aisance]], [[Attaques réflexes]], [[Combat en aveugle]], [[Déplacement acrobatique]], [[Esquive]], [[Réflexes surhumains]], [[Souplesse du serpent]]
+- **Compétences **[[Connaissances]] (mystères) +16, [[Connaissances]] (nature) +19, [[Discrétion]] +19, [[Dressage]] +20, [[Évasion]] +19, [[Intimidation]] +20, [[Perception]] +21, [[Survie]] +18 
+- **Particularités **caché en pleine lumière, changement de forme ([[Elan]], forme bestiale II)
 (((Écologie)))
 - **Environnement **plaines ou forêts froides
 - **Organisation **solitaire

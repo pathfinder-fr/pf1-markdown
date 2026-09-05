@@ -61,12 +61,12 @@ Categories:
 **Dé de vie.** d10.
 
 ### Compétences de classe
-Les compétences de l'homme d'arme (et la caractéristique dont chacune dépend) sont : [Artisanat](./Artisanat.md) (Int), [Dressage](./Dressage.md) (Cha), [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Intimidation](./Intimidation.md) (Cha), [Natation](./Natation.md) (For), [Profession](./Profession.md) (Sag).
+Les compétences de l'homme d'arme (et la caractéristique dont chacune dépend) sont : [[Artisanat]] (Int), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Intimidation]] (Cha), [[Natation]] (For), [[Profession]] (Sag).
 
-**Points de compétence à chaque niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence à chaque niveau.** 2 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de la classe
 Voici les particularités et aptitudes de la classe de PNJ de l'homme d'arme.
 
 #### Armes et armures
-L'homme d'arme est formé au maniement de toutes les [armes courantes](./arme courante.md), de toutes les [armes de guerre](./arme de guerre.md), des boucliers, ainsi qu’au port de tous les types d’armures.
+L'homme d'arme est formé au maniement de toutes les [[arme courante|armes courantes]], de toutes les [[arme de guerre|armes de guerre]], des boucliers, ainsi qu’au port de tous les types d’armures.

@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) ([effet mental](./effet mental.md)) ;** Niveau** [Bard](./Barde.md) 4  
+**École** [[Enchantement]] ([[coercition]]) ([[effet mental]]) ;** Niveau** [[Barde|Bard]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Pour lancer ce sort, le personnage doit être en train de donner une [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE). Il y met immédiatement un terme avec un geste théâtral qui permet à une créature située dans la zone d'effet de la [représentation](./Barde.md#REPRESENTATIONBARDIQUE) de faire une [action de mouvement](./Action de mouvement.md) ou une [action simple](./Action simple.md) de son choix.
+Pour lancer ce sort, le personnage doit être en train de donner une [[barde#REPRESENTATIONBARDIQUE|représentation bardique]]. Il y met immédiatement un terme avec un geste théâtral qui permet à une créature située dans la zone d'effet de la [[barde#REPRESENTATIONBARDIQUE|représentation]] de faire une [[action de mouvement]] ou une [[action simple]] de son choix.

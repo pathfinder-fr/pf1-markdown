@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Les soufflets sont pratiques pour démarrer les feux, accordant un bonus de circonstances de +1 aux tests de [Survie](./Survie.md) pour démarrer ou entretenir un feu.
+Les soufflets sont pratiques pour démarrer les feux, accordant un bonus de circonstances de +1 aux tests de [[Survie]] pour démarrer ou entretenir un feu.

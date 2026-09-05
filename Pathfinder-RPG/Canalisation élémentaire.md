@@ -8,11 +8,11 @@ Categories:
 
 *Le personnage choisit un sous-type élémentaire comme l’air, l’eau, le feu ou la terre. Il peut canaliser l’énergie divine pour blesser ou soigner les extérieurs de ce sous-type.*
 
-**Conditions.** Capacité de [classe](./classe.md) permettant de [canaliser de l’énergie](./canalisation.md).
+**Conditions.** Capacité de [[classe]] permettant de [[canalisation|canaliser de l’énergie]].
 
-**Avantage.** L’énergie canalisée par le personnage soigne ou blesse les [extérieurs](./type Extérieur.md) du [sous-type](./Sous-types de créatures.md) choisi au lieu de fonctionner comme à l’accoutumée. Le personnage doit choisir s’il souhaite utiliser ce don ou non à chaque fois qu’il [canalise de l’énergie](./canalisation.md). S’il choisit de soigner ou de blesser une créature du [sous-type](./Sous-types de créatures.md) en question, cette énergie n’aura aucun effet sur les autres créatures. La quantité de dégâts soignés ou infligés et le [DD](./DD.md) à battre pour réduire les dégâts de moitié ne change pas.
+**Avantage.** L’énergie canalisée par le personnage soigne ou blesse les [[type Extérieur|extérieurs]] du [[Sous-types de créatures|sous-type]] choisi au lieu de fonctionner comme à l’accoutumée. Le personnage doit choisir s’il souhaite utiliser ce don ou non à chaque fois qu’il [[canalisation|canalise de l’énergie]]. S’il choisit de soigner ou de blesser une créature du [[Sous-types de créatures|sous-type]] en question, cette énergie n’aura aucun effet sur les autres créatures. La quantité de dégâts soignés ou infligés et le [[DD]] à battre pour réduire les dégâts de moitié ne change pas.
 
-**Spécial.** Le personnage peut sélectionner ce don à plusieurs reprises mais ses effets ne se cumulent pas. À chaque fois que le personnage choisit ce don, il s’applique à un nouveau [sous-type](./Sous-types de créatures.md) élémentaire. Le personnage doit décider du [sous-type](./Sous-types de créatures.md) affecté à chaque fois qu’il lance le sort.
+**Spécial.** Le personnage peut sélectionner ce don à plusieurs reprises mais ses effets ne se cumulent pas. À chaque fois que le personnage choisit ce don, il s’applique à un nouveau [[Sous-types de créatures|sous-type]] élémentaire. Le personnage doit décider du [[Sous-types de créatures|sous-type]] affecté à chaque fois qu’il lance le sort.
 
 {s:CMy}
 ### Version mythique
@@ -20,4 +20,4 @@ Categories:
 
 **Condition.** Canalisation élémentaire
 
-**Avantage.** La Canalisation élémentaire du personnage affecte n’importe quel sous-type d’élémentaires, et pas seulement ceux choisis lorsqu’il a sélectionné le don. Avant chaque utilisation de Canalisation élémentaire, il doit choisir un sous-type d’élémentaires. Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il utilise Canalisation élémentaire pour choisir un deuxième sous-type d’élémentaires qu’il peut affecter avec ce don.
+**Avantage.** La Canalisation élémentaire du personnage affecte n’importe quel sous-type d’élémentaires, et pas seulement ceux choisis lorsqu’il a sélectionné le don. Avant chaque utilisation de Canalisation élémentaire, il doit choisir un sous-type d’élémentaires. Il peut dépenser une utilisation de [[pouvoir mythique]] lorsqu’il utilise Canalisation élémentaire pour choisir un deuxième sous-type d’élémentaires qu’il peut affecter avec ce don.

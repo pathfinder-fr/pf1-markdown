@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armée#SOLDATMONTE
 ---
 
->>> [Armée#SOLDATMONTE](./Armée.md#SOLDATMONTE)
+>>> [[Armée#SOLDATMONTE]]

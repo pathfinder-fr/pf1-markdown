@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2-20 po ; **Poids** 75 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces animaux de bétail sont élevés pour leur fourrure, leur viande et leur peau, et vivent dans pratiquement toutes les régions civilisées. Ils sont particulièrement recherchés dans les environnements froids où leur laine et leur peau peut servir à fabriquer des vêtements résistants et hautement isolants. Les moutons ont les mêmes statistiques que les chèvres. Voir les statistiques de la [chèvre](./Chèvre.md).
+Ces animaux de bétail sont élevés pour leur fourrure, leur viande et leur peau, et vivent dans pratiquement toutes les régions civilisées. Ils sont particulièrement recherchés dans les environnements froids où leur laine et leur peau peut servir à fabriquer des vêtements résistants et hautement isolants. Les moutons ont les mêmes statistiques que les chèvres. Voir les statistiques de la [[chèvre]].

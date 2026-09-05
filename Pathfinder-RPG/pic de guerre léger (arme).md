@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 4 po ; **Poids** 1,5 kg ; **Groupes** [haches](./groupe darmes.md#Haches)
+{s:AE}**Prix** 4 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Haches|haches]]
 **Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×4 ; **Portée** — ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
 Cette arme, dérivée de la pioche, est pourvue d'une tête avec une pointe légèrement incurvée pour percer les armures et d'un contrepoids semblable à un marteau.

@@ -10,9 +10,9 @@ Categories:
 
 {s:Menubénédictions}{s:MCA}
 #### Frappe de tempête *(mineur)*
-Au niveau 1, le prêtre combattant peut toucher une arme pour la doter du pouvoir des tempêtes. Pendant une minute, elle est parcourue d’étincelles bleues et jaunes et inflige 1d4 points de dégâts supplémentaires d’électricité à chaque coup. Ces dégâts supplémentaires ne se cumulent pas avec les propriétés spéciales d’arme de [foudre](./foudre (propriété).md) et
-de [foudre intense](./foudre intense (propriété).md).
+Au niveau 1, le prêtre combattant peut toucher une arme pour la doter du pouvoir des tempêtes. Pendant une minute, elle est parcourue d’étincelles bleues et jaunes et inflige 1d4 points de dégâts supplémentaires d’électricité à chaque coup. Ces dégâts supplémentaires ne se cumulent pas avec les propriétés spéciales d’arme de [[foudre (propriété)|foudre]] et
+de [[foudre intense (propriété)|foudre intense]].
 
 #### Barrière de vent *(majeur)*
-Au niveau 10, le prêtre combattant peut s’entourer d’une barrière de vents tournoyants pendant 1 minute. Elle fonctionne comme un *[mur de vent](./Mur de vent.md)* le long de toutes les arêtes de la case du prêtre, le protège avec *[feuille morte](./Feuille morte.md)*
+Au niveau 10, le prêtre combattant peut s’entourer d’une barrière de vents tournoyants pendant 1 minute. Elle fonctionne comme un *[[mur de vent]]* le long de toutes les arêtes de la case du prêtre, le protège avec *[[feuille morte]]*
 et n’interfère pas avec ses attaques à distance.

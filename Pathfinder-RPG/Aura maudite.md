@@ -9,26 +9,26 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[Mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Prê](./Prêtre.md) 8  
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[prêtre|Prê]] 8  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (un petit reliquaire (500 po))  
+**Composantes** [[COMPOSANTES|V, G, F]] (un petit reliquaire (500 po))  
 
 **Portée** 6 m (4 {s:c})  
 
-**Cibles** 1 créature/[niveau](./niveau.md) dans un rayonnement de 6 m (4 {s:c}) de rayon à partir du [prêtre](./Prêtre.md)  
+**Cibles** 1 créature/[[niveau]] dans un rayonnement de 6 m (4 {s:c}) de rayon à partir du [[prêtre]]  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** voir description ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** voir description ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Une aura de ténèbres entoure les cibles du sort. Elle les protège des attaques, leur accorde une résistance supplémentaire contre les sorts lancés par les créatures d’[alignement](./Alignement.md) Bon, et affaiblit ces dernières quand elles osent frapper les individus protégés. Ce sort a quatre effets distincts :
+Une aura de ténèbres entoure les cibles du sort. Elle les protège des attaques, leur accorde une résistance supplémentaire contre les sorts lancés par les créatures d’[[alignement]] Bon, et affaiblit ces dernières quand elles osent frapper les individus protégés. Ce sort a quatre effets distincts :
 
-Premièrement, les cibles bénéficient d’un bonus de parade de +4 à la [CA](./CA.md) et d’un bonus de résistance de +4 aux [jets de sauvegarde](./jet de sauvegarde.md). A l’inverse de ce qui se produit avec *[protection contre le Bien](./Protection contre le Bien.md)*, ces bonus s’appliquent contre toutes les attaques, et pas seulement contre celles provenant de créatures Bonnes.
+Premièrement, les cibles bénéficient d’un bonus de parade de +4 à la [[CA]] et d’un bonus de résistance de +4 aux [[jet de sauvegarde|jets de sauvegarde]]. A l’inverse de ce qui se produit avec *[[protection contre le Bien]]*, ces bonus s’appliquent contre toutes les attaques, et pas seulement contre celles provenant de créatures Bonnes.
 
-Deuxièmement, les créatures protégées obtiennent une [résistance à la magie](./RM.md) de 25 contre les sorts du [Bien](./Registre.md) ou jetés par des créatures d’[alignement](./Alignement.md) Bon.
+Deuxièmement, les créatures protégées obtiennent une [[RM|résistance à la magie]] de 25 contre les sorts du [[registre|Bien]] ou jetés par des créatures d’[[alignement]] Bon.
 
-Troisièmement, le sort bloque les tentatives de *[possession](./Possession.md)* ou d'influence [mentale](./Registre.md), de la même façon que *[protection contre le Bien](./Protection contre le Bien.md)*.
+Troisièmement, le sort bloque les tentatives de *[[possession]]* ou d'influence [[registre|mentale]], de la même façon que *[[protection contre le Bien]]*.
 
-Enfin, quand une créature Bonne réussit à toucher l’un des bénéficiaires du sort au corps à corps, elle risque de subir un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d6 points de [Force](./Force.md) (annulé par un jet de [Vigueur](./Vigueur.md)).
+Enfin, quand une créature Bonne réussit à toucher l’un des bénéficiaires du sort au corps à corps, elle risque de subir un [[affaiblissement temporaire]] de 1d6 points de [[Force]] (annulé par un jet de [[Vigueur]]).

@@ -15,13 +15,13 @@ Les vases sont des créatures généralement dénuées d'intelligence, amorphes 
 - Dés de vie : d8.
 - BBA égal aux 3/4 du nombre de DV (progression moyenne).
 - Jets de sauvegarde forts : aucun.
-- Points de compétence par DV : 2 + leur modificateur d'Intelligence (au minimum 1). Cependant, la plupart des vases sont dénuées d'[Intelligence](./Intelligence.md) et ne gagnent donc aucun point de compétence et aucun don. Les vases ne possèdent aucune compétence de classe.
+- Points de compétence par DV : 2 + leur modificateur d'Intelligence (au minimum 1). Cependant, la plupart des vases sont dénuées d'[[Intelligence]] et ne gagnent donc aucun point de compétence et aucun don. Les vases ne possèdent aucune compétence de classe.
 
 {s:Reference|VASETRAITS}
 ### Traits
 Les vases possèdent les traits suivants (sauf mention contraire dans leur profil).
-- Dénuées d'Intelligence : pas de valeur d'[Intelligence](./Intelligence.md) et immunité contre tous les effets mentaux (charmes, coercition, fantasmes, mirages et effets de moral). Les vases qui possèdent une valeur d'Intelligence perdent ce trait.
-- Aveugles (mais possédant la particularité de [vision aveugle](./vision aveugle.md)) et immunisés contre les attaques de regard, les effets visuels, les illusions et les autres formes d'attaques basées sur la vision.
+- Dénuées d'Intelligence : pas de valeur d'[[Intelligence]] et immunité contre tous les effets mentaux (charmes, coercition, fantasmes, mirages et effets de moral). Les vases qui possèdent une valeur d'Intelligence perdent ce trait.
+- Aveugles (mais possédant la particularité de [[vision aveugle]]) et immunisés contre les attaques de regard, les effets visuels, les illusions et les autres formes d'attaques basées sur la vision.
 - Immunité contre le poison, les effets de sommeil, la paralysie, la métamorphose et l'étourdissement.
 - Certaines vases peuvent infliger des dégâts d'acide aux objets.
 - Ne subissent pas les coups critiques et ne peuvent pas être prises en tenaille. Ne reçoivent pas de dégâts supplémentaires en cas d'attaque de précision (comme les attaques sournoises).

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: paralysie (capacité)
 ---
 
->>> [paralysie (capacité)](./Paralysie (capacité).md)
+>>> [[paralysie (capacité)]]

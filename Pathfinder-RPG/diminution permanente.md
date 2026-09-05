@@ -7,4 +7,4 @@ Categories:
 RedirectTo: affaiblissement temporaire (capacité)
 ---
 
->>> [affaiblissement temporaire (capacité)](./affaiblissement temporaire (capacité).md)
+>>> [[affaiblissement temporaire (capacité)]]

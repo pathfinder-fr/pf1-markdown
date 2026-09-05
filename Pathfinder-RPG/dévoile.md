@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#DEVOILE
 ---
 
->>> [Présentation des sorts#DEVOILE](./Présentation des sorts.md#DEVOILE)
+>>> [[Présentation des sorts#DEVOILE]]

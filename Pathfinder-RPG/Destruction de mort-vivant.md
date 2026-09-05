@@ -11,18 +11,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Inq](./Inquisiteur.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Magus](./Magus.md) 0  
+**École** [[Nécromancie]] ; **Niveau** [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Effet** [rayon](./rayon.md)  
+**Effet** [[rayon]]  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Ce sort crée un rayon d’énergie positive. Le personnage doit réussir une [attaque de contact à distance](./attaque de contact à distance.md) pour atteindre le [mort-vivant](./type Mort-vivant.md). Si l’attaque touche, le [mort-vivant](./type Mort-vivant.md) subit 1d6 points de dégâts.
+Ce sort crée un rayon d’énergie positive. Le personnage doit réussir une [[attaque de contact à distance]] pour atteindre le [[type mort-vivant|mort-vivant]]. Si l’attaque touche, le [[type mort-vivant|mort-vivant]] subit 1d6 points de dégâts.

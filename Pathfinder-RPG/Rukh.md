@@ -10,7 +10,7 @@ LastModified: 2020-09-17 00:50
 {s:pucem|Créature magique|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 231*}
 - **9 600 PX**
-- [Créature magique](./type Créature magique.md) de taille Gig, N
+- [[type créature magique|Créature magique]] de taille Gig, N
 - **Init **+2 ; **Sens **vision nocturne ; Perception +32
 (((Défense)))
 - **CA **23, contact 8, pris au dépourvu 21 (Dex +2, naturelle +15, taille -4)
@@ -24,8 +24,8 @@ LastModified: 2020-09-17 00:50
 (((Statistiques)))
 - **For **34, **Dex **15, **Con** 20, **Int **2, **Sag **13, **Cha **11
 - **BBA **+14 ; **BMO **+30 (+34 en lutte) ; **DMD **38
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (morsure), [Arme de prédilection](./Arme de prédilection.md) (serre), [Attaque en vol](./Attaque en vol.md), [Capture](./Capture.md), [Talent](./Talent.md) (Perception), [Virage sur l’aile](./Virage sur laile.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Perception](./Perception.md) +32, [Vol](./Vol.md) -4 ;
+- **Dons **[[Arme de prédilection]] (morsure), [[Arme de prédilection]] (serre), [[Attaque en vol]], [[Capture]], [[Talent]] (Perception), [[virage sur laile|Virage sur l’aile]], [[Volonté de fer]]
+- **Compétences **[[Perception]] +32, [[Vol]] -4 ;
 - **Modificateurs raciaux** +8 en Perception
 (((Écologie)))
 - **Environnement **déserts ou montagnes chaudes
@@ -39,7 +39,7 @@ LastModified: 2020-09-17 00:50
 {s:pucem|Créature magique|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 231*}
 - **800 PX**
-- [Créature magique](./type Créature magique.md) de taille G, N
+- [[type créature magique|Créature magique]] de taille G, N
 - **Init **+2 ; **Sens **vision nocturne ; Perception +17
 (((Défense)))
 - **CA** 15, contact 11, pris au dépourvu 13 (Dex +2, naturelle +4, taille -1)
@@ -52,8 +52,8 @@ LastModified: 2020-09-17 00:50
 (((Statistiques)))
 - **For **14, **Dex **15, **Con **14, **Int **2, **Sag **13, **Cha **11
 - **BBA** +5 ; **BMO **+8 ; **DMD **20
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en vol](./Attaque en vol.md), [Capture](./Capture.md)
-- **Compétences **[Perception](./Perception.md) +17, [Vol](./Vol.md) -4 ; Modificateurs raciaux +8 en Perception
+- **Dons **[[Arme de prédilection]] (morsure), [[Attaque en vol]], [[Capture]]
+- **Compétences **[[Perception]] +17, [[Vol]] -4 ; Modificateurs raciaux +8 en Perception
 (((Écologie)))
 - **Environnement **déserts ou montagnes chaudes
 - **Organisation** couple ou volée (3d4)

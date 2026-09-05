@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Les morts qui marchent répondent à l’appel du personnage. *
 
-**Conditions.** [École renforcée](./École renforcée.md) ([nécromancie](./Présentation des sorts.md#NECROMANCIE)), capacité à lancer *[convocation de monstres](./Convocation de monstres I.md)*
+**Conditions.** [[École renforcée]] ([[Présentation des sorts#NECROMANCIE|nécromancie]]), capacité à lancer *[[convocation de monstres I|convocation de monstres]]*
 
-**Avantage.** Le personnage ajoute « [squelette humain](./Squelette humain.md) » à la liste de créatures qu’il peut invoquer avec *[convocation de monstres I](./Convocation de monstres I.md)* et « [squelette humain champion](./Champion squelette.md) » à celle des créatures qu’il convoque avec [convocation de monstres III](./Convocation de monstres III.md).
+**Avantage.** Le personnage ajoute « [[squelette humain]] » à la liste de créatures qu’il peut invoquer avec *[[convocation de monstres I]]* et « [[champion squelette|squelette humain champion]] » à celle des créatures qu’il convoque avec [[convocation de monstres III]].
 
-Une fois par jour, quand il lance convocation de monstres, il peut convoquer une [version squelettique](./Squelette, archétype.md) de l’une des créatures présentes dans la liste associée au sort (on applique l’archétype squelette à la créature).
+Une fois par jour, quand il lance convocation de monstres, il peut convoquer une [[squelette, archétype|version squelettique]] de l’une des créatures présentes dans la liste associée au sort (on applique l’archétype squelette à la créature).

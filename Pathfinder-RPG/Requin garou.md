@@ -13,8 +13,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4* p.182}
 {s:BDTexte|**PX** 800}
 {s:BDTexte|Requin garou naturel, humain guerrier 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md), [métamorphe](./sous-type métamorphe.md)) de taille M, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 11, pris au dépourvu 10 (Dex +1)}
 {s:BDTexte|**pv** 33 (3d10+12)}
@@ -26,10 +26,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 12, **Con** 14, **Int** 8, **Sag** 15, **Cha** 8}
 {s:BDTexte|**BBA** +3, **BMO** +6, **DMD** 17}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (trident), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Robustesse](./Robustesse.md), [Succession d’enchaînements](./Succession denchaînements.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +10, [Survie](./Survie.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (trident), [[Attaque en puissance]], [[Enchaînement]], [[Robustesse]], [[Succession denchaînements|Succession d’enchaînements]]}
+{s:BDTexte|**Compétences** [[Natation]] +10, [[Survie]] +8}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (humain, hybride et requin ; *[métamorphose](./métamorphose.md)*), empathie lycanthropique [requins](./Requin.md) et [requins sanguinaires](./Requin sanguinaire.md)), entraînement aux armures 1}
+{s:BDTexte|**Particularités** [[changement de forme (capacité)|changement de forme]] (humain, hybride et requin ; *[[métamorphose]]*), empathie lycanthropique [[requin|requins]] et [[requin sanguinaire|requins sanguinaires]]), entraînement aux armures 1}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans et littoraux}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou frisson (3-6)}
@@ -41,8 +41,8 @@ Categories:
 {s:pucem|Humanoïde|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4* p.182}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md), [métamorphe](./sous-type métamorphe.md)) de taille M, CM}
-{s:BDTexte|**Init** +1 ; **Sens**, [Odorat surdéveloppé](./Odorat surdéveloppé (capacité).md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, CM}
+{s:BDTexte|**Init** +1 ; **Sens**, [[Odorat surdéveloppé (capacité)|Odorat surdéveloppé]], [[vision nocturne]] ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 16 ((Dex +1, naturelle +6)}
 {s:BDTexte|**pv** 36 (3d10+15)}
@@ -54,16 +54,16 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 12, **Con** 16, **Int** 8, **Sag** 15, **Cha** 8}
 {s:BDTexte|**BBA** +3, **BMO** +7, **DMD** 18}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (trident), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Robustesse](./Robustesse.md), [Succession d’enchaînements](./Succession denchaînements.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +19, [Survie](./Survie.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (trident), [[Attaque en puissance]], [[Enchaînement]], [[Robustesse]], [[Succession denchaînements|Succession d’enchaînements]]}
+{s:BDTexte|**Compétences** [[Natation]] +19, [[Survie]] +8}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (humain, hybride et requin ; *[métamorphose](./métamorphose.md)*), empathie lycanthropique [requins](./Requin.md) et [requins sanguinaires](./Requin sanguinaire.md)), entraînement aux armures 1, [respiration aquatique](./Respiration aquatique.md)}
+{s:BDTexte|**Particularités** [[changement de forme (capacité)|changement de forme]] (humain, hybride et requin ; *[[métamorphose]]*), empathie lycanthropique [[requin|requins]] et [[requin sanguinaire|requins sanguinaires]]), entraînement aux armures 1, [[respiration aquatique]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans et littoraux}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou frisson (3-6)}
 {s:BDTexte|**Trésor** équipement de PNJ (trident de maître, autre trésor)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Odorat surdéveloppé (Ext)** l'[odorat](./odorat.md) du requin garou lui permet de repérer les créatures à 54 m (36 {s:c}) sous l'eau et de sentir le sang dans l'eau jusqu'à 1,5 km.}
+{s:BDTexte|**Odorat surdéveloppé (Ext)** l'[[odorat]] du requin garou lui permet de repérer les créatures à 54 m (36 {s:c}) sous l'eau et de sentir le sang dans l'eau jusqu'à 1,5 km.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -72,24 +72,24 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Chauve-souris garou](./Chauve-souris garou.md) || 3
+| [[Chauve-souris garou]] || 3
 |-
-| [Crocodile garou](./Crocodile garou.md) || 3
+| [[Crocodile garou]] || 3
 |-
-| [Loup-garou](./Loup-garou.md) || 2
+| [[Loup-garou]] || 2
 |-
-| [Ours-garou](./Ours-garou.md) || 4
+| [[Ours-garou]] || 4
 |-
-| [Rat-garou](./Rat-garou.md) || 2
+| [[Rat-garou]] || 2
 |-
-| [Requin garou](./Requin garou.md) || 3
+| [[Requin garou]] || 3
 |-
-| [Sanglier-garou](./Sanglier-garou.md) || 2
+| [[Sanglier-garou]] || 2
 |-
-| [Tigre-garou](./Tigre-garou.md) || 4
+| [[Tigre-garou]] || 4
 |}
 </div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Lycanthrope](./Lycanthrope, archétype.md).***</li></ul>''Cette créature musculeuse a le corps d’un humain mais une tête de
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Lycanthrope, archétype|Lycanthrope]].***</li></ul>''Cette créature musculeuse a le corps d’un humain mais une tête de
 requin féroce aux yeux entièrement noirs et aux crocs extrêmement
 acérés.''
 

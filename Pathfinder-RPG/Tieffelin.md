@@ -14,8 +14,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire* p.272}
 {s:BDTexte|**PX** 200}
 {s:BDTexte|Tieffelin, roublard 1}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)) de taille M, NM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) (12 cases) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type natif|natif]]) de taille M, NM}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] (12 cases) ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 13, pris au dépourvu 13 (armure +3, Dex +3)}
 {s:BDTexte|**pv** 10 (1d8+2)}
@@ -25,22 +25,22 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** épée courte +3 (1d6+1/19-20)}
 {s:BDTexte|**Distance** arbalète légère +3 (1d8/19-20)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./attaque sournoise.md) +1d6}
+{s:BDTexte|**Attaques spéciales** [[attaque sournoise]] +1d6}
 {s:BDTexte|**Pouvoirs magiques** (NLS 1)}
-{s:BDSorts|1/jour—*[ténèbres](./Ténèbres.md)*}
+{s:BDSorts|1/jour—*[[ténèbres]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 17, **Con** 14, **Int** 12, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 14}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +6, [Bluff](./Bluff.md) +4, [Discrétion](./Discrétion.md) +8, [Escamotage](./Escamotage.md) +6, [Évasion](./Évasion.md) +6, [Intimidation](./Intimidation.md) +2, [Perception](./Perception.md) +5, [Psychologie](./Psychologie.md) +5, [Sabotage](./Sabotage.md) +6 ; **Modificateurs raciaux** [Bluff](./Bluff.md) +2, [Discrétion](./Discrétion.md) +2}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +6, [[Bluff]] +4, [[Discrétion]] +8, [[Escamotage]] +6, [[Évasion]] +6, [[Intimidation]] +2, [[Perception]] +5, [[Psychologie]] +5, [[Sabotage]] +6 ; **Modificateurs raciaux** [[Bluff]] +2, [[Discrétion]] +2}
 {s:BDTexte|**Langues** abyssal, commun, infernal}
-{s:BDTexte|**Particularités** magie des fiélons, [recherche des pièges](./recherche des pièges.md)}
+{s:BDTexte|**Particularités** magie des fiélons, [[recherche des pièges]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou bande (3-5)}
 {s:BDTexte|**Trésor** équipement de PNJ (armure de cuir cloutée, épée courte, arbalète légère avec 20 carreaux)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Magie des fiélons (Ext)** Toutes les aptitudes de classe d'[ensorceleurs](./Ensorceleur.md) dont disposent les tieffelins de [lignage abyssal](./lignage Abyssal.md) ou [infernal](./lignage Infernal.md) fonctionnent comme s'ils avaient un [Charisme](./Charisme.md) supérieur de 2 points à leur valeur réelle.}
+{s:BDTexte|**Magie des fiélons (Ext)** Toutes les aptitudes de classe d'[[ensorceleur|ensorceleurs]] dont disposent les tieffelins de [[lignage abyssal]] ou [[lignage infernal|infernal]] fonctionnent comme s'ils avaient un [[Charisme]] supérieur de 2 points à leur valeur réelle.}
 </div>
 
 {s:ImageCentre|Bestiaire/Tieffelin-EmilKovkorin.jpg|95%}
@@ -71,5 +71,5 @@ au froid, à l’électricité et au feu de 5 points.
 - **Vision dans le noir.** Les tieffelins peuvent voir dans le noir jusqu’à 18 mètres.
 - **Langues.** Les tieffelins parlent automatiquement le commun et une langue au choix parmi l’abyssal et l’infernal. S’ils disposent d’une Intelligence élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : abyssal, draconique, elfe, gnome, gobelin, halfelin , infernal, nain et orque.
 
-{s:VoirAussiAvant}La page de la race [Tieffelin](./Tieffelin (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Tieffelin (race)|Tieffelin]]{s:VoirAussiAprès}
 </div></td></tr></table>

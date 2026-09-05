@@ -11,22 +11,22 @@ Categories:
 ---
 
 {s:APG}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[maladie](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|maladie]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (feuilles d'une plante toxique)  
+**Composantes** [[Composantes|V, G, M]] (feuilles d'une plante toxique)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage inflige une douloureuse urticaire à la créature visée. Cette dernière est [fiévreuse](./Fiévreux.md) et subit un malus de -4 à la [Dextérité](./Dextérité.md) (ce malus ne peut pas faire tomber la [Dextérité](./Dextérité.md) en dessous de 0). La cible peut utiliser une [action de mouvement](./Action de mouvement.md) pour se gratter furieusement et se débarrasser de la condition [fiévreux](./Fiévreux.md) (mais pas du malus de [Dextérité](./Dextérité.md)) jusqu'au début de son prochain tour.
+Le personnage inflige une douloureuse urticaire à la créature visée. Cette dernière est [[fiévreux|fiévreuse]] et subit un malus de -4 à la [[Dextérité]] (ce malus ne peut pas faire tomber la [[Dextérité]] en dessous de 0). La cible peut utiliser une [[action de mouvement]] pour se gratter furieusement et se débarrasser de la condition [[fiévreux]] (mais pas du malus de [[Dextérité]]) jusqu'au début de son prochain tour.
 
 ### Mythique
 {s:CMy}
-Le malus à la [Dextérité](./Dextérité.md) s’élève à -6. La cible subit 1 point de dégâts de saignement chaque round. Si elle passe une [action de mouvement](./Action de mouvement.md) à se gratter, les dégâts de saignement augmentent de 1 point chaque round. Si le saignement est interrompu, il reprend en cas de grattement, à raison de 1 point de saignement par round.
+Le malus à la [[Dextérité]] s’élève à -6. La cible subit 1 point de dégâts de saignement chaque round. Si elle passe une [[action de mouvement]] à se gratter, les dégâts de saignement augmentent de 1 point chaque round. Si le saignement est interrompu, il reprend en cas de grattement, à raison de 1 point de saignement par round.

@@ -13,16 +13,16 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Annihilateur](./Annihilateur.md) || 16
+| [[Annihilateur]] || 16
 |-
-| [Machiniste](./Machiniste.md) || 4
+| [[Machiniste]] || 4
 |-
-| [Myrmidon](./Myrmidon.md) || 11
+| [[Myrmidon]] || 11
 |-
-| [Terraformeur](./Terraformeur.md) || 7
+| [[Terraformeur]] || 7
 |}
 </div></div><div class="description">**Source :** Bestiaire 5 p.221.</div>
-*Types/Sous-types associés : [Créature artificielle](./type Créature artificielle.md) ([robot](./sous-type Robot.md)).*
+*Types/Sous-types associés : [[type Créature artificielle|Créature artificielle]] ([[sous-type Robot|robot]]).*
 
 
 Les créatures artificielles que l’on appelle robots sont le fruit d’une technologie, d’une ingénierie et d’une science de pointe. La majorité des gens se réfère aux robots sous les termes d’« automates » ou d’« hommes de métal », dans la mesure où leur véritable nomenclature n’est connue que par un petit nombre de gens. À la différence de la plupart des créatures artificielles, les robots sont capables de pensées indépendantes. Cela dit, ils doivent quand même obéir au programme qui leur a été implanté au moment de leur création. Tout robot dont le créateur a codé en dur des limites dans sa programmation ne pourra jamais être véritablement autonome.

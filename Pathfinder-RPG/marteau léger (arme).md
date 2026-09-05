@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 po ; **Poids** 2 kg ; **Groupes** [armes de jet](./groupe darmes.md#Armesdejet), [marteaux](./groupe darmes.md#Marteaux)
+{s:AE}**Prix** 1 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]], [[Groupe darmes#Marteaux|marteaux]]
 **Dégâts** 1d3 (P), 1d4 (M) ; **Critique** ×2 ; **Portée** 6 m (4 c) ; **Type** C ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
-Version plus légère du [marteau de guerre](./marteau de guerre (arme).md), cette arme est généralement pourvue d’une tête de métal poli avec une face pour frapper.
+Version plus légère du [[marteau de guerre (arme)|marteau de guerre]], cette arme est généralement pourvue d’une tête de métal poli avec une face pour frapper.

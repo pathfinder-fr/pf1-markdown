@@ -5,7 +5,7 @@ LastModified: 2012-07-26 19:51
 ---
 
 <div class="BD">
-Traduction d'un post de Deidre Tiriel paru sur le [blog de Paizo](./^http://paizo-com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/carrionCrown/statsForFatherGrimburrowInCarrionCrown.md).
+Traduction d'un post de Deidre Tiriel paru sur le [blog de Paizo](http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/carrionCrown/statsForFatherGrimburrowInCarrionCrown).
 
 {s:BDTitre|Père Vauran Grimburrow|}
 - Humain d’âge vénérable, prêtre de Pharasma 7

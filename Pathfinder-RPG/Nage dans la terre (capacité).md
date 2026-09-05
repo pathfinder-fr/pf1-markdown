@@ -6,6 +6,6 @@ Categories:
 - Règle de monstres universelle
 ---
 
-Lorsque la créature se déplace par creusement, elle peut traverser la pierre, la poussière et quasiment n’importe quelle autre type de sol à l’exception du métal aussi facilement qu’un poisson peut se faufiler dans l’eau. Si la créature est protégée contre les dégâts de feu, elle peut même traverser de la lave. La créature ne laisse ni tunnel ni trou sur son sillage. Elle ne crée pas non plus de vibration ni d’autre signe de sa présence. Un sort de *[glissement de terrain](./Glissement de terrain.md)* lancé sur la zone où la créature se trouve la repousse de 9 mètres (6 cases) et l’[étourdit](./Étourdi.md) pendant 1 round à moins qu’elle ne réussisse un [jet de Vigueur](./jet de sauvegarde.md) contre un DD de 15.
+Lorsque la créature se déplace par creusement, elle peut traverser la pierre, la poussière et quasiment n’importe quelle autre type de sol à l’exception du métal aussi facilement qu’un poisson peut se faufiler dans l’eau. Si la créature est protégée contre les dégâts de feu, elle peut même traverser de la lave. La créature ne laisse ni tunnel ni trou sur son sillage. Elle ne crée pas non plus de vibration ni d’autre signe de sa présence. Un sort de *[[glissement de terrain]]* lancé sur la zone où la créature se trouve la repousse de 9 mètres (6 cases) et l’[[étourdi|étourdit]] pendant 1 round à moins qu’elle ne réussisse un [[jet de sauvegarde|jet de Vigueur]] contre un DD de 15.
 
 *Format :* nage dans la terre. *Emplacement :* VD.

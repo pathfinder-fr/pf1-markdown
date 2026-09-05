@@ -14,27 +14,27 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[obscurité](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 3, [Cham](./Chaman.md) 3, [Inq](./Inquisiteur.md) 3, [Occ](./Occultiste.md) 3, [Prê](./Prêtre.md) 3  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|obscurité]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 3, [[Chaman|Cham]] 3, [[Inquisiteur|Inq]] 3, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, M/FD](./composantes.md) (fourrure de chauve-souris et morceau de charbon)  
+**Composantes** [[composantes|V, M/FD]] (fourrure de chauve-souris et morceau de charbon)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** objet touché  
 
-**Durée** 10 minutes/[niveau](./niveau.md) (T)  
+**Durée** 10 minutes/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-L’objet enchanté par ce sort génère une zone de ténèbres absolue de dix-huit mètres de rayon. La [luminosité](./Exploration.md#Vision_et_lumière_2) de la zone baisse alors de deux niveaux : de lumière vive à faible lumière, la lumière normale se mue en obscurité ou les zones de faible lumière ou d’obscurité sont envahies de ténèbres surnaturelles. Les créatures vulnérables ou sensibles à la lumière ne subissent pas de dégâts si elles sont exposées à une lumière normale. Toutes les créatures situées dans une zone de lumière faible bénéficient d’un [camouflage](./camouflage.md) (20 % de chances de les rater) tandis que celles qui se trouvent dans l’obscurité bénéficient d’un [camouflage total](./camouflage.md) (50% de chances de les rater). Les sources d’éclairage normales (bougies, torches, lanternes, etc.) ne permettent pas d’augmenter la luminosité d’une zone affectée par ce sort. Les sources de lumières magiques augmentent la luminosité de la zone uniquement si elles proviennent d’un sort de niveau supérieur aux *ténèbres profondes*. De plus les créatures dotées de la [vision dans le noir](./vision dans le noir.md) ne peuvent les percer.
+L’objet enchanté par ce sort génère une zone de ténèbres absolue de dix-huit mètres de rayon. La [[Exploration#Vision_et_lumière_2|luminosité]] de la zone baisse alors de deux niveaux : de lumière vive à faible lumière, la lumière normale se mue en obscurité ou les zones de faible lumière ou d’obscurité sont envahies de ténèbres surnaturelles. Les créatures vulnérables ou sensibles à la lumière ne subissent pas de dégâts si elles sont exposées à une lumière normale. Toutes les créatures situées dans une zone de lumière faible bénéficient d’un [[camouflage]] (20 % de chances de les rater) tandis que celles qui se trouvent dans l’obscurité bénéficient d’un [[camouflage|camouflage total]] (50% de chances de les rater). Les sources d’éclairage normales (bougies, torches, lanternes, etc.) ne permettent pas d’augmenter la luminosité d’une zone affectée par ce sort. Les sources de lumières magiques augmentent la luminosité de la zone uniquement si elles proviennent d’un sort de niveau supérieur aux *ténèbres profondes*. De plus les créatures dotées de la [[vision dans le noir]] ne peuvent les percer.
 
 
 Si le sort est lancé sur un petit objet recouvert d’un cache opaque, les effets de *ténèbres* sont bloqués tant que le cache reste en place.
 
-Ce sort ne se cumule pas avec lui-même. *Ténèbres profondes* contre et dissipe tout sort de [lumière](./Registre.md) de niveau égal ou inférieur.
+Ce sort ne se cumule pas avec lui-même. *Ténèbres profondes* contre et dissipe tout sort de [[registre|lumière]] de niveau égal ou inférieur.
 
-(((Ce sort est semblable à *[ténèbres](./Ténèbres.md)*, si ce n’est que l’objet touché au moment de l’incantation libère une zone d’obscurité absolue dans un rayon de dix-huit mètres et qu’il diminue la luminosité de deux crans. Une vive lumière se transforme en faible lumière et la lumière normale se mue en obscurité. Les zones de faible lumière ou d’obscurité sont envahies de ténèbres surnaturelles. Cela fonctionne comme des *[ténèbres](./Exploration.md#Vision_et_lumière_2)* mais même les créatures dotées de la [vision dans le noir](./vision dans le noir.md) ne peuvent les percer.
+(((Ce sort est semblable à *[[ténèbres]]*, si ce n’est que l’objet touché au moment de l’incantation libère une zone d’obscurité absolue dans un rayon de dix-huit mètres et qu’il diminue la luminosité de deux crans. Une vive lumière se transforme en faible lumière et la lumière normale se mue en obscurité. Les zones de faible lumière ou d’obscurité sont envahies de ténèbres surnaturelles. Cela fonctionne comme des *[[Exploration#Vision_et_lumière_2|ténèbres]]* mais même les créatures dotées de la [[vision dans le noir]] ne peuvent les percer.
 
-Ce sort ne se cumule pas avec lui-même. *Ténèbres profondes* contre et dissipe tout sort de [lumière](./Registre.md) de niveau égal ou inférieur.)))
+Ce sort ne se cumule pas avec lui-même. *Ténèbres profondes* contre et dissipe tout sort de [[registre|lumière]] de niveau égal ou inférieur.)))

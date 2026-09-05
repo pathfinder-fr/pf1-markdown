@@ -15,10 +15,10 @@ Categories:
 Un enragé invulnérable possède les aptitudes suivantes :
 
 #### Invulnérabilité (Ext)
-Au [niveau](./niveau.md) 2, le personnage gagne une [RD](./RD.md)/- égale à la moitié de son [niveau](./niveau.md) de [barbare](./Barbare.md). Cette réduction des dégâts est doublée contre les dommages non létaux. Cette aptitude remplace [esquive instinctive](./Barbare.md#ESQUIVEINSTINCTIVE), [esquive instinctive supérieure](./Barbare.md#ESQUIVEINSTINCTIVESUPERIEURE) et [réduction de dégâts](./Barbare.md#REDUCTIONDEGATS).
+Au [[niveau]] 2, le personnage gagne une [[RD]]/- égale à la moitié de son [[niveau]] de [[barbare]]. Cette réduction des dégâts est doublée contre les dommages non létaux. Cette aptitude remplace [[BARBARE#ESQUIVEINSTINCTIVE|esquive instinctive]], [[BARBARE#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]] et [[BARBARE#REDUCTIONDEGATS|réduction de dégâts]].
 
 #### Endurance extrême (Ext)
-Au niveau 3, l’invulnérable enragé est immunisé aux effets du chaud ou du froid naturel (choisir l’un ou l’autre) comme s’il était sous l’influence du sort *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)*. De plus, il gagne un point de [résistance](./résistance.md) au feu ou au froid par tranche de trois niveaux au-delà du niveau 3. Cette aptitude remplace [sens des pièges](./Barbare.md#SENSDESPIEGES).
+Au niveau 3, l’invulnérable enragé est immunisé aux effets du chaud ou du froid naturel (choisir l’un ou l’autre) comme s’il était sous l’influence du sort *[[endurance aux énergies destructives]]*. De plus, il gagne un point de [[résistance]] au feu ou au froid par tranche de trois niveaux au-delà du niveau 3. Cette aptitude remplace [[BARBARE#SENSDESPIEGES|sens des pièges]].
 
 #### Pouvoirs de rage
-Les pouvoirs suivants complètent l’archétype de l’invulnérable enragé : [férocité inspirée](./Férocité inspirée (rage).md), [imprudente désinvolture](./Imprudente désinvolture (rage).md), [nouvelle vigueur](./Nouvelle vigueur (rage).md), [vie préservée](./Vie préservée (rage).md), [viens m'attraper](./Viens mattraper (rage).md).
+Les pouvoirs suivants complètent l’archétype de l’invulnérable enragé : [[férocité inspirée (rage)|férocité inspirée]], [[imprudente désinvolture (rage)|imprudente désinvolture]], [[nouvelle vigueur (rage)|nouvelle vigueur]], [[vie préservée (rage)|vie préservée]], [[viens mattraper (rage)|viens m'attraper]].

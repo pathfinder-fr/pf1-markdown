@@ -6,17 +6,17 @@ LastModified: 2018-06-04 18:21
 
 Paizo publie régulièrement des scénarios gratuits. Cela se produit au moins annuellement, à l'occasion du "Free RPG Day" (une journée pendant laquelle les magasins de jeu de rôle des USA distribuent des packs cadeaux à leurs visiteurs) notamment. Lorsque c'est possible, Pathfinder-FR s'allie avec Black Book Editions (les traducteurs de Pathfinder en français) pour vous proposer une traduction gratuite de ces scénarios. Voici quelques liens pour trouver vos premières aventures gratuites…
 
-Notez que, si vous êtes à la recherche d'aventures gratuites, jetez également un coup d'œil du côté des [aventures créées par les fans](./Aventures de fans.md), qui sont également d'excellente qualité !
+Notez que, si vous êtes à la recherche d'aventures gratuites, jetez également un coup d'œil du côté des [[Aventures de fans|aventures créées par les fans]], qui sont également d'excellente qualité !
 
 {s:BookStart}
 {s:BookTitle|D0|Hollow's Last Hope - Le dernier espoir de Nid du faucon}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9500_180.jpeg|http://paizo.com/products/btpy82r0?GameMastery-Module-D0-Hollows-Last-Hope}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/67_D0_Le_Dernier_espoir_de_NidduFaucon.jpg|https://www.black-book-editions.fr/contenu/file/57_gm_d0_dernier_espoir.zip}
-{s:BookComment|La première aventure gratuite pour le Free RPG Day 2007, aux règles 3.5 mais dans le monde de Golarion. Pour des personnages de niveau 1. Peut servir de prélude au scénario D1. Voir aussi les [aides de jeu](http://www.pathfinder-fr.org/Wiki/Aventures.Aides de jeu modules.ashx#SOMBRELUNE) pour les modules du Val de Sombrelune.}
+{s:BookComment|La première aventure gratuite pour le Free RPG Day 2007, aux règles 3.5 mais dans le monde de Golarion. Pour des personnages de niveau 1. Peut servir de prélude au scénario D1. Voir aussi les [aides de jeu](http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20modules.ashx#SOMBRELUNE) pour les modules du Val de Sombrelune.}
 {s:BookTitle|D1p5|Revenge of the Kobold King}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9500-2_180.jpeg|http://paizo.com/products/btpy83w1?Pathfinder-Module-D15-Revenge-of-the-Kobold-King}
 {s:BookPic||}
-{s:BookComment|Aventure gratuite du Free RPG Day 2008, aux règles Pathfinder (comme les suivantes) ; elle se déroule dans le même coin que les aventures D0 et D1. Pour personnages de niveau 5. Cette aventure n'est pas disponible gratuitement en français : elle est incluse dans la compilation "Le Recueil du Val de Sombrelune". Voir aussi les [aides de jeu](http://www.pathfinder-fr.org/Wiki/Aventures.Aides de jeu modules.ashx#SOMBRELUNE) pour les modules du Val de Sombrelune.}
+{s:BookComment|Aventure gratuite du Free RPG Day 2008, aux règles Pathfinder (comme les suivantes) ; elle se déroule dans le même coin que les aventures D0 et D1. Pour personnages de niveau 5. Cette aventure n'est pas disponible gratuitement en français : elle est incluse dans la compilation "Le Recueil du Val de Sombrelune". Voir aussi les [aides de jeu](http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20modules.ashx#SOMBRELUNE) pour les modules du Val de Sombrelune.}
 {s:BookTitle|FALLENFORTRESS|Master of the Fallen Fortress}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9500-4_180.jpeg|http://paizo.com/products/btpy8ey4?Pathfinder-Module-Master-of-the-Fallen-Fortress}
 {s:BookPic||}
@@ -24,7 +24,7 @@ Notez que, si vous êtes à la recherche d'aventures gratuites, jetez également
 {s:BookTitle|GOB|We Be Goblins ! Nous, Gobelins !}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9500-5_180.jpeg|http://paizo.com/products/btpy8j5w?Pathfinder-Module-We-Be-Goblins}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/223_Free&#95;_Nous_gobelins_.jpg|https://www.black-book-editions.fr/produit.php?id=113}
-{s:BookComment|Aventure gratuite pour le Free RPG Day 2011. Une aventure délirante pour des personnages gobelins de niveau 1 (des prétirés sont fournis). Voir aussi les [aides de jeu](http://www.pathfinder-fr.org/Wiki/Aventures.Aides de jeu modules.ashx#Aides_de_jeu_pour_les_autres_scénarios_3) pour ce module (dont deux prétirés) et le scénario supplémentaire [Nous Gobelins 2](http://www.pathfinder-fr.org/wiki/Aventures.Aventures de fans.ashx#NG2).}
+{s:BookComment|Aventure gratuite pour le Free RPG Day 2011. Une aventure délirante pour des personnages gobelins de niveau 1 (des prétirés sont fournis). Voir aussi les [aides de jeu](http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20modules.ashx#Aides_de_jeu_pour_les_autres_sc%C3%A9narios_3) pour ce module (dont deux prétirés) et le scénario supplémentaire [Nous Gobelins 2](http://www.pathfinder-fr.org/wiki/Aventures.Aventures%20de%20fans.ashx#NG2).}
 {s:BookTitle|SCARLETSUN|Dawn of the Scarlet Sun — L'Aube écarlate}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9500-6_180.jpeg|http://paizo.com/products/btpy8rgh?Pathfinder-Module-Dawn-of-the-Scarlet-Sun}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/276_Free&#95;_LAube_ecarlate.jpg|https://www.black-book-editions.fr/produit.php?id=249}
@@ -32,7 +32,7 @@ Notez que, si vous êtes à la recherche d'aventures gratuites, jetez également
 {s:BookTitle|GOB|We Be Goblins too ! Nous, Gobelins 2 !}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9500-7_180.jpeg|http://paizo.com/products/btpy8xc3?Pathfinder-Module-We-Be-Goblins-Too}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/302_Free_&#95;Nous_gobelins_&#95;2.jpg|https://www.black-book-editions.fr/produit.php?id=426}
-{s:BookComment|Aventure gratuite pour le Free RPG Day 2013. Une aventure délirante pour des personnages gobelins de niveau 3 (des prétirés sont fournis). Voir aussi les [aides de jeu](http://www.pathfinder-fr.org/Wiki/Aventures.Aides de jeu modules.ashx#Aides_de_jeu_pour_les_autres_scénarios_3) pour ce module (dont deux prétirés) et le scénario supplémentaire [Nous Gobelins 2](http://www.pathfinder-fr.org/wiki/Aventures.Aventures de fans.ashx#NG2).}
+{s:BookComment|Aventure gratuite pour le Free RPG Day 2013. Une aventure délirante pour des personnages gobelins de niveau 3 (des prétirés sont fournis). Voir aussi les [aides de jeu](http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20modules.ashx#Aides_de_jeu_pour_les_autres_sc%C3%A9narios_3) pour ce module (dont deux prétirés) et le scénario supplémentaire [Nous Gobelins 2](http://www.pathfinder-fr.org/wiki/Aventures.Aventures%20de%20fans.ashx#NG2).}
 {s:BookTitle|RISEFROMSANDS|Risen from the Sands — Surgi des sables}
 {s:BookPic|http://static2.paizo.com/image/product/catalog/PZO/PZO9500-8.jpg|http://paizo.com/products/btpy959k?Pathfinder-Module-Risen-from-the-Sands}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/335_Free_&#95;Surgi_des_sables.jpg|https://www.black-book-editions.fr/produit.php?id=1612}

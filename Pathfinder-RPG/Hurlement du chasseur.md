@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[émotion, effet mental, peur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Rôd](./Rôdeur.md) 1  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|émotion, effet mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Rôdeur|Rôd]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** 6 m (4 {s:c})   
 
 **Cible** émanation de 6 m (4 {s:c}) de rayon  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
-D'un seul hurlement primitif, le personnage terrifie ses adversaires. Pendant toute la durée du sort, il considère les créatures affectées comme ses [ennemis jurés](./Rôdeur.md#ENNEMIJURE), gagnant ainsi un bonus de +2 aux jets d'attaque, de dégâts et aux tests de [Bluff](./Bluff.md), de [Connaissances](./Connaissances.md), de [Perception](./Perception.md), de [Psychologie](./Psychologie.md) et de [Survie](./Survie.md) lancés contre elles. Si l'une des créatures est déjà un [ennemi juré](./Rôdeur.md#ENNEMIJURE) du personnage, elle est [secouée](./Secoué.md). C'est un [effet mental](./effet mental.md) de [peur](./Registre.md).
+D'un seul hurlement primitif, le personnage terrifie ses adversaires. Pendant toute la durée du sort, il considère les créatures affectées comme ses [[rôdeur#ENNEMIJURE|ennemis jurés]], gagnant ainsi un bonus de +2 aux jets d'attaque, de dégâts et aux tests de [[Bluff]], de [[Connaissances]], de [[Perception]], de [[Psychologie]] et de [[Survie]] lancés contre elles. Si l'une des créatures est déjà un [[rôdeur#ENNEMIJURE|ennemi juré]] du personnage, elle est [[secoué|secouée]]. C'est un [[effet mental]] de [[registre|peur]].

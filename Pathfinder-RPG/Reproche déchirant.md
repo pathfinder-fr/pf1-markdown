@@ -15,19 +15,19 @@ Categories:
 ---
 
 {s:racial|Hobgobelin (race)|hobgobelins|Illustrations/PNJ/Hobgobelin.jpg}{s:MR}
-**École** [Illusion](./Illusion.md) ([fantasme](./branche fantasme.md)) <nowiki>[</nowiki>[douleur](./Registre.md), [émotion](./Registre.md), [effet mental](./Registre.md)<nowiki>]</nowiki> ;
-**Niveau** [Apal](./Antipaladin.md) 2, [Hyp](./Hypnotiseur.md) 3, [Inq](./Inquisiteur.md) 3, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3  
+**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|douleur]], [[registre|émotion]], [[registre|effet mental]]<nowiki>]</nowiki> ;
+**Niveau** [[Antipaladin|Apal]] 2, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [courte](./Présentation des sorts.md#PORTEE) (7,5 m + 1,5 m/2 niveau)  
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,5 m + 1,5 m/2 niveau)  
 
 **Cible** une créature vivante  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-D’un mot ou d’un geste, le lanceur de sorts suscite une telle appréhension chez sa cible quant au fait de l’attaquer que cela la plonge dans un état de détresse mentale et de douleur. Chaque fois que la cible attaque le lanceur de sorts, lui lance un sort offensif ou entreprend une autre action qui le blesserait, elle reçoit 2d6 points de [dégâts non létaux](./Blessures et mort.md#NONLETAL).
+D’un mot ou d’un geste, le lanceur de sorts suscite une telle appréhension chez sa cible quant au fait de l’attaquer que cela la plonge dans un état de détresse mentale et de douleur. Chaque fois que la cible attaque le lanceur de sorts, lui lance un sort offensif ou entreprend une autre action qui le blesserait, elle reçoit 2d6 points de [[Blessures et mort#NONLETAL|dégâts non létaux]].

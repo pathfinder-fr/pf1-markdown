@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISR}*Vous pouvez combiner des fragments de mythes concernant des monstres en une histoire cohérente.*
 
-**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** 1 rang en [Connaissances](./Connaissances.md) (n'importe), [elfe](./Elfe.md)
+**Conditions.** 1 rang en [[Connaissances]] (n'importe), [[elfe]]
 
-**Avantages.** Lorsque le personnage effectue un test de [Connaissances](./Connaissances.md) pour identifier un monstre, il bénéficie d'un bonus de circonstances cumulatif de +2 à son test pour chaque allié dans un rayon de 9 mètres qui possède ce don et a investi des rangs dans la compétence de Connaissances appropriée à l'identification de ce monstre (maximum +10).
+**Avantages.** Lorsque le personnage effectue un test de [[Connaissances]] pour identifier un monstre, il bénéficie d'un bonus de circonstances cumulatif de +2 à son test pour chaque allié dans un rayon de 9 mètres qui possède ce don et a investi des rangs dans la compétence de Connaissances appropriée à l'identification de ce monstre (maximum +10).

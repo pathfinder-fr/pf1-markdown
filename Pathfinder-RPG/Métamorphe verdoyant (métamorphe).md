@@ -13,7 +13,7 @@ LastModified: 2020-04-02 14:03
 Voici les aptitudes de classe du métamorphe verdoyant.
 
 #### Communication avec les plantes (Mag)
-Au niveau 1 le métamorphe verdoyant gagne la capacité d’utiliser *[communication avec les plantes](./Communication avec les plantes.md)* comme un pouvoir magique un nombre de fois par jour égal à 3 plus son modificateur de Charisme.
+Au niveau 1 le métamorphe verdoyant gagne la capacité d’utiliser *[[communication avec les plantes]]* comme un pouvoir magique un nombre de fois par jour égal à 3 plus son modificateur de Charisme.
 
 Ce pouvoir remplace empathie sauvage.
 
@@ -25,13 +25,13 @@ Au niveau 5, le métamorphe verdoyant gagne un bonus d’amélioration de +2 à 
 Ce pouvoir remplace les aspects du métamorphe ainsi que toutes leurs améliorations.
 
 #### Armure de la nature (Ext)
-Au niveau 2, le métamorphe verdoyant gagne un bonus d’armure naturelle de +2 à sa [CA](./CA.md) quand il ne porte pas d’armure ou une armure légère ou intermédiaire non métallique et tant qu’il ne porte pas plus qu'une [charge légère](./Poids transportable.md). Ce bonus passe augmente de 1 au niveau 4 et tous les 4 niveaux suivants (pour un maximum de +7 au niveau 20).
+Au niveau 2, le métamorphe verdoyant gagne un bonus d’armure naturelle de +2 à sa [[CA]] quand il ne porte pas d’armure ou une armure légère ou intermédiaire non métallique et tant qu’il ne porte pas plus qu'une [[Poids transportable|charge légère]]. Ce bonus passe augmente de 1 au niveau 4 et tous les 4 niveaux suivants (pour un maximum de +7 au niveau 20).
 
 Ce pouvoir remplace instinct défensif.
 
 #### Forme végétale (Sur)
-Au niveau 6, le métamorphe verdoyant peut changer de forme (comme avec le sort *[forme végétale I](./Forme végétale I.md)* ). Le métamorphe verdoyant peut maintenir cette capacité un nombre de rounds par jour égal à son niveau de métamorphe verdoyant.
+Au niveau 6, le métamorphe verdoyant peut changer de forme (comme avec le sort *[[forme végétale I]]* ). Le métamorphe verdoyant peut maintenir cette capacité un nombre de rounds par jour égal à son niveau de métamorphe verdoyant.
 
-Au niveau 12, cette capacité fonctionne comme *[forme végétale II](./Forme végétale II.md)* et, au niveau 18, comme *[forme végétale III](./Forme végétale III.md)*.
+Au niveau 12, cette capacité fonctionne comme *[[forme végétale II]]* et, au niveau 18, comme *[[forme végétale III]]*.
 
 Cette capacité modifie forme animale et remplace aspect chimérique et aspect chimérique supérieur.

@@ -8,14 +8,14 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:cm}**Cette option est plus courante chez les [géants du froid](./Géant du froid.md).**
+{s:cm}**Cette option est plus courante chez les [[Géant du froid|géants du froid]].**
 
 *Le personnage a appris à contrer les défenses que les races courtaudes ont mises en place contre la sienne.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** [Sous-type géant](./sous-type géant.md)
+**Condition.** [[Sous-type géant]]
 
-**Avantage.** Le personnage gagne un bonus de +2 aux [jets d’attaque](./jet dattaque.md) au corps à corps contre les [nains](./Nain.md) et les [gnomes](./Gnome.md).
+**Avantage.** Le personnage gagne un bonus de +2 aux [[jet dattaque|jets d’attaque]] au corps à corps contre les [[Nain|nains]] et les [[Gnome|gnomes]].
 
 **Spécial.** Le personnage peut choisir ce don à deux reprises. Ses effets se cumulent.

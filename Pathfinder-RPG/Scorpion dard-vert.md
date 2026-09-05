@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Vermine|Désert|Tropical}
 - *Source : Art de la Magie p.120, Source : Bestiaire 4 p.238*
 - **PX** 100
-- [Vermine](./type Vermine.md) de taille TP, N
-- **Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +4
+- [[Type Vermine|Vermine]] de taille TP, N
+- **Init** +3 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +4
 (((Défense)))
 - **CA** 18, contact 15, pris au dépourvu 15 (Dex +3, naturelle +3, taille +2)
 - **pv** 4 (1d8)
@@ -27,16 +27,16 @@ Categories:
 - **Attaques spéciales** poison
 (((Statistiques)))
 - **For** 3, **Dex** 16, **Con** 10, **Int** — , **Sag** 10, **Cha** 2
-- **BBA** +0 ; **BMO** +1 ; **DMD** 7 (19 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>
-- **Compétences** [Discrétion](./Discrétion.md) +15, [Escalade](./Escalade.md) +7, [Perception](./Perception.md) +4 ;
-- **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md), +4 en [Escalade](./Escalade.md), +4 en [Perception](./Perception.md)
+- **BBA** +0 ; **BMO** +1 ; **DMD** 7 (19 contre [[croc-en-jambe]])
+- **Dons** [[Attaque en finesse]]<sup>B</sup>
+- **Compétences** [[Discrétion]] +15, [[Escalade]] +7, [[Perception]] +4 ;
+- **Modificateurs raciaux** +4 en [[Discrétion]], +4 en [[Escalade]], +4 en [[Perception]]
 (((Écologie)))
 - **Environnement** déserts, forêts, plaines, souterrains chauds ou tempérés
 - **Organisation sociale** solitaire ou colonie (3-12)
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
-  - **Poison** (Ext). Dard — blessure ; JS [Vigueur](./Vigueur.md) DD 10 ; fréquence 1/round pendant 6 rounds ; effet [fiévreux](./Fiévreux.md) 1 round ; guérison 1 JS.
+  - **Poison** (Ext). Dard — blessure ; JS [[Vigueur]] DD 10 ; fréquence 1/round pendant 6 rounds ; effet [[fiévreux]] 1 round ; guérison 1 JS.
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -45,19 +45,19 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Scorpion dard-vert](./Scorpion dard-vert.md) || 1/4
+| [[Scorpion dard-vert]] || 1/4
 |-
-| [Scorpion des cavernes](./Scorpion des cavernes.md) || 1
+| [[Scorpion des cavernes]] || 1
 |-
-| [Scorpion empereur géant](./Scorpion empereur géant.md) || 11
+| [[Scorpion empereur géant]] || 11
 |-
-| [Scorpion fantomatique](./Scorpion fantomatique.md) || 1/2
+| [[Scorpion fantomatique]] || 1/2
 |-
-| [Scorpion géant](./Scorpion géant.md) || 3
+| [[Scorpion géant]] || 3
 |-
-| [Scorpion noir](./Scorpion noir.md) || 15
+| [[Scorpion noir]] || 15
 |-
-| [Scorpion piégeur](./Scorpion piégeur.md) || 8
+| [[Scorpion piégeur]] || 8
 |}
 </div>*Les pinces de ce scorpion semblent trop petites pour blesser des créatures plus grandes qu’un insecte, mais son dard semble tout de même dangereux.*
 

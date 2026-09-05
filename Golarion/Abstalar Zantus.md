@@ -11,9 +11,9 @@ Categories:
 {s:BDTitre|Père Abstalar Zantus|FP 3}
 {s:BDTexte|*Source : [Paizo (communauté)](https://paizo.com/people/FrAbstalarZantus)*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|Humain [Prêtre](./../Pathfinder-RPG/Prêtre.md) de [Desna](./Desna.md) 4}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, CB}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./../Pathfinder-RPG/Perception.md) +4}
+{s:BDTexte|Humain [[Pathfinder-RPG.Prêtre|Prêtre]] de [[Desna]] 4}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] de taille M, CB}
+{s:BDTexte|**Init** +1 ; **Sens** [[Pathfinder-RPG.Perception|Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 14 (armure +4, Dex +1)}
 {s:BDTexte|**pv** 25 (4d8+4)}
@@ -22,22 +22,22 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** lamétoile de maître, +5 (1d4-1/x3)}
 {s:BDTexte|**A distance** lamétoile de maître, +5 (1d4-1/x3)}
-{s:BDTexte|**Attaque spéciale** [canalisation d’énergie positive](./../Pathfinder-RPG/Prêtre.md#CANALISATIONDENERGIE) (7/jour, DD 14, 2d6)}
+{s:BDTexte|**Attaque spéciale** [[Pathfinder-RPG.prêtre#CANALISATIONDENERGIE|canalisation d’énergie positive]] (7/jour, DD 14, 2d6)}
 {s:BDTexte|**Pouvoirs magiques de domaine**(NLS 4 ; Concentration +8)}
-{s:BDTexte|7/jour — [coup de chance](./../Pathfinder-RPG/Domaine de la Chance.md), [toucher du bien (+2)](./../Pathfinder-RPG/Domaine du Bien.md)}
+{s:BDTexte|7/jour — [[Pathfinder-RPG.Domaine de la chance|coup de chance]], [[Pathfinder-RPG.Domaine du bien|toucher du bien (+2)]]}
 {s:BDTexte|**Sorts de prêtre préparés** (NLS 4 ; concentration +8)}
-{s:BDSorts|2<sup>e</sup> — *[aide](./../Pathfinder-RPG/Aide.md)* D, *[arme spirituelle](./../Pathfinder-RPG/Arme spirituelle.md)*, *[immobilisation de personne](./../Pathfinder-RPG/Immobilisation de personne.md)* (DD 16), *[restauration partielle](./../Pathfinder-RPG/Restauration partielle.md)*}
-{s:BDSorts|1<sup>er</sup> — *[bénédiction](./../Pathfinder-RPG/Bénédiction.md)*, *[bouclier de la foi](./../Pathfinder-RPG/Bouclier de la foi.md)*, *[injonction](./../Pathfinder-RPG/Injonction.md)* (DD 15), *[protection contre le mal](./../Pathfinder-RPG/Protection contre le Mal.md)* D, *[sanctuaire](./../Pathfinder-RPG/Sanctuaire.md)* (DD 15)}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./../Pathfinder-RPG/Détection de la magie.md)*, *[lumière](./../Pathfinder-RPG/Lumière.md)*, *[réparation](./../Pathfinder-RPG/Réparation.md)*, *[stabilisation](./../Pathfinder-RPG/Stabilisation.md)*}
+{s:BDSorts|2<sup>e</sup> — *[[Pathfinder-RPG.aide|aide]]* D, *[[Pathfinder-RPG.arme spirituelle|arme spirituelle]]*, *[[Pathfinder-RPG.immobilisation de personne|immobilisation de personne]]* (DD 16), *[[Pathfinder-RPG.restauration partielle|restauration partielle]]*}
+{s:BDSorts|1<sup>er</sup> — *[[Pathfinder-RPG.bénédiction|bénédiction]]*, *[[Pathfinder-RPG.bouclier de la foi|bouclier de la foi]]*, *[[Pathfinder-RPG.injonction|injonction]]* (DD 15), *[[Pathfinder-RPG.protection contre le mal|protection contre le mal]]* D, *[[Pathfinder-RPG.sanctuaire|sanctuaire]]* (DD 15)}
+{s:BDSorts|0 (à volonté) — *[[Pathfinder-RPG.détection de la magie|détection de la magie]]*, *[[Pathfinder-RPG.lumière|lumière]]*, *[[Pathfinder-RPG.réparation|réparation]]*, *[[Pathfinder-RPG.stabilisation|stabilisation]]*}
 {s:BDTexte|**D** sort de domaine ; **Domaines** Bien, Chance}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 12, **Con** 13, **Int** 10, **Sag** 18, **Cha** 14}
 {s:BDTexte|**BBA** +3, **BMO** +2, **DMD** 13}
-{s:BDTexte|**Dons** [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md), [Canalisation supplémentaire](./../Pathfinder-RPG/Canalisation supplémentaire.md), [Préparation de potions](./../Pathfinder-RPG/Préparation de potions.md),}
-{s:BDTexte|**Compétences** [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) +7, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (religion) +7, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (mystères) +4, [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) +9, [Premiers secours](./../Pathfinder-RPG/Premiers secours.md) +10}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Attaque en finesse|Attaque en finesse]], [[Pathfinder-RPG.Canalisation supplémentaire|Canalisation supplémentaire]], [[Pathfinder-RPG.Préparation de potions|Préparation de potions]],}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Art de la magie|Art de la magie]] +7, [[Pathfinder-RPG.Connaissances|Connaissances]] (religion) +7, [[Pathfinder-RPG.Connaissances|Connaissances]] (mystères) +4, [[Pathfinder-RPG.Diplomatie|Diplomatie]] +9, [[Pathfinder-RPG.Premiers secours|Premiers secours]] +10}
 {s:BDTexte|**Langues** commun, varisien}
 {s:BDTexte|**Particularités** bénédiction du guérisseur}
-{s:BDTexte|**Équipement** *parchemin de [soins légers](./../Pathfinder-RPG/Soins légers.md)* (2), *parchemin de [guérison des maladies](./../Pathfinder-RPG/Guérison des maladies.md)* (2), *armure de cuir cloutée +1*, *lamétoile de maître*, trousse de premiers secours, sacoche à composantes, symbole sacré de Desna, 21PO}
+{s:BDTexte|**Équipement** *parchemin de [[Pathfinder-RPG.soins légers|soins légers]]* (2), *parchemin de [[Pathfinder-RPG.guérison des maladies|guérison des maladies]]* (2), *armure de cuir cloutée +1*, *lamétoile de maître*, trousse de premiers secours, sacoche à composantes, symbole sacré de Desna, 21PO}
 </div>
 
 </td><td><div>

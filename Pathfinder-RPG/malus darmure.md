@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armures#MALUSARMURE
 ---
 
->>> [Caractéristiques des armures#MALUSARMURE](./Caractéristiques des armures.md#MALUSARMURE)
+>>> [[Caractéristiques des armures#MALUSARMURE]]

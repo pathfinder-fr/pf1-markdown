@@ -14,7 +14,7 @@ peuvent devenir des êtres vivants, des participants
 actifs des histoires paranormales.
 
 
-[Les esprits des lieux](./Les esprits des lieux.md){br}
-[Nouvelles règles sur les apparitions](./Nouvelles règles sur les apparitions.md){br}
-[Les lignes telluriques](./Les lignes telluriques.md) {br}
-[Paysages mentaux](./Paysages mentaux.md){br}
+[[Les esprits des lieux]]{br}
+[[Nouvelles règles sur les apparitions]]{br}
+[[Les lignes telluriques]] {br}
+[[Paysages mentaux]]{br}

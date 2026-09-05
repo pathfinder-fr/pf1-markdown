@@ -10,7 +10,7 @@ LastModified: 2017-01-19 21:04
 {s:pucem|Aberration|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 151*}
 - 600 PX
-- [Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille TP, LM
+- [[type aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille TP, LM
 - **Init **+6 ; **Sens **vision dans le noir à 18 m ; Perception +8
 (((Défense)))
 - **CA **17, contact 14, pris au dépourvu 15 (Dex +2, naturelle +3, taille +2)
@@ -24,8 +24,8 @@ LastModified: 2017-01-19 21:04
 (((Statistiques)))
 - **For **15, **Dex** 15, **Con **11, **Int **12, **Sag **13, **Cha **8
 - **BBA **+3 ; **BMO **+3 (+7 en lutte) ; **DMD **15 (croc-en-jambe impossible)
-- **Dons ** [S’avancer](./Savancer.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences **[Bluff](./Bluff.md) +3, [Déguisement](./Déguisement.md) +3, [Discrétion](./Discrétion.md) +17, [Escalade](./Escalade.md) +10, [Natation](./Natation.md) +17, [Perception](./Perception.md) +8
+- **Dons ** [[savancer|S’avancer]], [[science de linitiative|Science de l’initiative]]
+- **Compétences **[[Bluff]] +3, [[Déguisement]] +3, [[Discrétion]] +17, [[Escalade]] +10, [[Natation]] +17, [[Perception]] +8
 - **Langues **aklo, aquatique ; télépathie à 9 m
 - **Particularités **amphibie
 (((Écologie)))

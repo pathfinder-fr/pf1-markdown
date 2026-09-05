@@ -10,7 +10,7 @@ LastModified: 2020-06-19 18:54
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 22*}
 - **600 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille P, NM
+- [[type mort-vivant|Mort-vivant]] de taille P, NM
 - **Init **+2 ; **Sens **vision dans le noir 18 m, détection des morts-vivants ; Perception +7
 (((Défense)))
 - **CA **14, contact 13, pris au dépourvu 12 (Dex +2, naturelle +1, taille +1)
@@ -22,8 +22,8 @@ LastModified: 2020-06-19 18:54
 - **Corps à corps** morsure, +6 (1d4) et 2 griffes, +6 (1d4 et étreinte)
 - **Attaques spéciales** constriction (1d4), possession corporelle, enveloppement, étreinte (taille M)
 - **Pouvoirs magiques** (**NLS** 3 ; concentration +4)
-  - *Permanent* – [détection des morts-vivants](./Détection des morts-vivants.md)
-  - *1/jour* – [contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md) (DD 13)
+  - *Permanent* – [[détection des morts-vivants]]
+  - *1/jour* – [[contrôle mineur des morts-vivants]] (DD 13)
 (((Statistiques)))
 - **For **10, **Dex **15, **Con **-, **Int **6, **Sag **10, **Cha **13
 - **BBA **+3 ; **BMO **+4 (+8 en lutte) ; **DMD **14 (croc-en-jambe impossible)

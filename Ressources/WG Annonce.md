@@ -6,7 +6,7 @@ Categories:
 - Weekly Grind
 ---
 
-<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=188686457841951) publiée avec l'autorisation de l'auteur — [retour à l'index](./Weekly Grind.md)</p>
+<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=188686457841951) publiée avec l'autorisation de l'auteur — [[Weekly Grind|retour à l'index]]</p>
 Salut tout le monde !
 
 <img class="fright" src="/Wiki/public/upload/Illustrations/Autres/wgtab.jpg"/>Au milieu de l'année passée, j'ai lancé un défi sur ma page Facebook afin d'obtenir plus de fans. Pour chaque tranche de 100 nouveaux fans arrivant pendant la durée du concours, j'avais promis l'équivalent de 1 000 nouveaux mots d'articles. À la fin du concours, le total dû était de 5 000 mots de nouveautés pour les fans de ma page. J'avais l'intention d'écrire tout cela et de le poster avant la fin de l'année mais, comme vous pouvez le deviner en regardant la date, cela ne s'est pas tout à fait déroulé comme prévu. C'est difficile de travailler gratuitement quand on croule sous le boulot pour Paizo avec de nombreuses dates-limites concernant d'épais volumes. Et, pour tout cela, je vous présente mes excuses. Mais n'ayez aucune crainte : je vous le revaudrai ! Cela fait maintenant un moment que je réfléchis au type de contenu que je pourrais créer. Je cherchais quelque chose d'amusant tant pour vous que pour moi. J'ai même commencé à suivre certaines pistes avant de les abandonner (la moitié d'un article sur l'ajout d'une apocalypse de morts-vivants dans un monde de campagne se trouve sur mon disque dur) mais, au final, une même idée me revenait constamment à l'esprit.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#DEFEMANATION
 ---
 
->>> [Présentation des sorts#DEFEMANATION](./Présentation des sorts.md#DEFEMANATION)
+>>> [[Présentation des sorts#DEFEMANATION]]

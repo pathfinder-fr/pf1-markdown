@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.146*}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([Terre](./sous-type Terre.md)) de taille M, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type Terre|Terre]]) de taille M, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 14 (Dex +2, naturelle +4)}
 {s:BDTexte|**pv** 42 (5d10+15)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 14, **Con** 16, **Int** 6, **Sag** 11, **Cha** 7}
 {s:BDTexte|**BBA** +5, **BMO** +7, **DMD** 19}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Vol](./Vol.md)), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +11 (+17 dans un décor de pierre), [Perception](./Perception.md) +5, [Vol](./Vol.md) +12 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +2 (+6 dans un décor de pierre)}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Vol]]), [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +11 (+17 dans un décor de pierre), [[Perception]] +5, [[Vol]] +12 ; **Modificateurs raciaux** [[Discrétion]] +2 (+6 dans un décor de pierre)}
 {s:BDTexte|**Langues** commun, terreux}
 {s:BDTexte|**Particularités** immobilité}
 {s:BDSousTitre|Écologie}
@@ -36,7 +36,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou vol (3-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|capacités spéciales}
-{s:BDTexte|**Immobilité (Ext).** Les gargouilles peuvent se tenir parfaitement immobiles, au point de ressembler à des statues. Lorsqu'elles utilisent cette capacité, elles peuvent "[faire 20](./Compétences.md#FAIRE10)" sur leur test de [Discrétion](./Discrétion.md) pour se faire passer pour des statues de pierre aux yeux de tous ceux qui les voient.}
+{s:BDTexte|**Immobilité (Ext).** Les gargouilles peuvent se tenir parfaitement immobiles, au point de ressembler à des statues. Lorsqu'elles utilisent cette capacité, elles peuvent "[[compétences#FAIRE10|faire 20]]" sur leur test de [[Discrétion]] pour se faire passer pour des statues de pierre aux yeux de tous ceux qui les voient.}
 </div>
 </td><td><div>*Ce sinistre humanoïde accroupi ressemble à une statue de pierre gris foncé représentant un démon ailé et cornu.*
 

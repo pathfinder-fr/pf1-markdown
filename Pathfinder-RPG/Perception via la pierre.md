@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Le personnage peut sentir les mouvements via la terre et les pierres qui l’entourent.*
 
-**Conditions.** [Connaissance supérieure de la pierre](./Connaissance supérieure de la pierre.md), [Perception](./Perception.md) 10 rangs.
+**Conditions.** [[Connaissance supérieure de la pierre]], [[Perception]] 10 rangs.
 
-**Avantage.** Le personnage gagne la capacité de [perception des vibrations](./Perception des vibrations.md) sur une portée de 3 mètres (2 cases).
+**Avantage.** Le personnage gagne la capacité de [[perception des vibrations]] sur une portée de 3 mètres (2 cases).

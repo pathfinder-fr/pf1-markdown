@@ -7,7 +7,7 @@ Categories:
 - Varisie
 ---
 
-Le fleuve Jeggare prend sa source dans les [Monts de l’esprit](./Monts-de-l-esprit.md) et se jette dans la baie du conquérant au pied de la ville de [Korvosa](./Korvosa.md) dont certains bâtiments sont construits sur les rives mêmes du fleuve. Ce fleuve doit son nom à Montlarion Jeggare (4331-4417), riche explorateur qui mena une expédition pour remonter le fleuve jusqu’à sa source. Il dépensa toute sa fortune pour nourrir les premiers colons de [Korvosa](./Korvosa.md) et pour bâtir les premiers bâtiments de la ville. Ainsi de nombreux édifices de [Korvosa](./Korvosa.md) portent le nom de Jeggare ou le représentent. On trouve parmi eux :
+Le fleuve Jeggare prend sa source dans les [[Golarion.Monts-de-l-esprit|Monts de l’esprit]] et se jette dans la baie du conquérant au pied de la ville de [[Korvosa]] dont certains bâtiments sont construits sur les rives mêmes du fleuve. Ce fleuve doit son nom à Montlarion Jeggare (4331-4417), riche explorateur qui mena une expédition pour remonter le fleuve jusqu’à sa source. Il dépensa toute sa fortune pour nourrir les premiers colons de [[Korvosa]] et pour bâtir les premiers bâtiments de la ville. Ainsi de nombreux édifices de [[Korvosa]] portent le nom de Jeggare ou le représentent. On trouve parmi eux :
 - la taverne « La cruche de Jeggare »,
 - la corniche de la citadelle de Vraid et le plus vieux pont qui mène à l’île d’Endrin portent son nom,
 - de nombreuses statues représentent Montlarion,

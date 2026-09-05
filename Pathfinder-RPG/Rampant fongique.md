@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|<i>Source : Bestiaire 2 p.238</i>}
 {s:BDTexte|<b>PX</b> 800}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille P, N}
-{s:BDTexte|<b>Init</b> +9 ; <b>Sens</b> [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Aberration|Aberration]] de taille P, N}
+{s:BDTexte|<b>Init</b> +9 ; <b>Sens</b> [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 16, contact 16, pris au dépourvu 11 (Dex +5, taille +1)}
 {s:BDTexte|<b>pv</b> 26 (4d8+8)}
@@ -26,12 +26,12 @@ Categories:
 {s:BDTexte|<b>VD</b> 6 m (4 {s:c}), escalade 12 m (8 {s:c})}
 {s:BDTexte|<b>Corps à corps</b> morsure +6 (1d6+2 poison)}
 {s:BDTexte| et 2 griffes +6 (1d4+2)}
-{s:BDTexte|<b>Attaques spéciales</b> [bond](./Bond.md)}
+{s:BDTexte|<b>Attaques spéciales</b> [[bond]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 14, <b>Dex</b> 20, <b>Con</b> 15, <b>Int</b> 2, <b>Sag</b> 13, <b>Cha</b> 7}
-{s:BDTexte|<b>BBA</b> +3, <b>BMO</b> +4, <b>DMD</b> 19 (27 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|<b>Dons</b> [S'avancer](./Savancer.md), [Sciences de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|<b>Compétences</b> [Acrobaties](./Acrobaties.md) +10 (+14 pour sauter), [Escalade](./Escalade.md) +10 , [Perception](./Perception.md) +6 ; <b>Modificateurs raciaux</b> +14 en Acrobaties pour sauter}
+{s:BDTexte|<b>BBA</b> +3, <b>BMO</b> +4, <b>DMD</b> 19 (27 contre le [[croc-en-jambe]])}
+{s:BDTexte|<b>Dons</b> [[Savancer|S'avancer]], [[Science de linitiative|Sciences de l'initiative]]}
+{s:BDTexte|<b>Compétences</b> [[Acrobaties]] +10 (+14 pour sauter), [[Escalade]] +10 , [[Perception]] +6 ; <b>Modificateurs raciaux</b> +14 en Acrobaties pour sauter}
 
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> sous terre}

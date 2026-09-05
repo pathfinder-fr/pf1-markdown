@@ -10,13 +10,13 @@ LastModified: 2021-02-23 17:43
 {s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.263}
 {s:BDTexte|**XP** 800}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md), [métamorphe](./sous-type métamorphe.md)) de taille G, CM}
-{s:BDTexte|**Init** +4 (+8 lorsqu'il escalade dans les arbres) ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]], [[sous-type métamorphe|métamorphe]]) de taille G, CM}
+{s:BDTexte|**Init** +4 (+8 lorsqu'il escalade dans les arbres) ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 11 (Dex +4, naturelle +2, taille -1)}
-{s:BDTexte|**pv** 30 (4d8+12) ; [régénération](./Régénération (capacité).md) 5 (feu)}
+{s:BDTexte|**pv** 30 (4d8+12) ; [[régénération (capacité)|régénération]] 5 (feu)}
 {s:BDTexte|**Réf** +5, **Vig** +7, **Vol** +4}
-{s:BDTexte|**Faiblesses** peur du feu, [vulnérable](./Vulnérabilités.md) au feu}
+{s:BDTexte|**Faiblesses** peur du feu, [[vulnérabilités|vulnérable]] au feu}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 3 m (2 {s:c})}
 {s:BDTexte|**Corps à corps** morsure +5 (1d4+3), 2 griffes +5 (1d4+3)}
@@ -24,18 +24,18 @@ LastModified: 2021-02-23 17:43
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 19, **Con** 16, **Int** 9, **Sag** 12, **Cha** 7}
 {s:BDTexte|**BBA** +3, **BMO** +7, **DMD** 21}
-{s:BDTexte|**Dons** [Force intimidante](./Force intimidante.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +7, [Escalade](./Escalade.md) +11, [Intimidation](./Intimidation.md) +5, [Perception](./Perception.md) +5, [Discrétion](./Discrétion.md) +5 (+9 dans les feuillages)}
+{s:BDTexte|**Dons** [[Force intimidante]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +7, [[Escalade]] +11, [[Intimidation]] +5, [[Perception]] +5, [[Discrétion]] +5 (+9 dans les feuillages)}
 {s:BDTexte|**Modificateurs raciaux** +2 en Acrobaties, +4 en Discrétion (+8 dans les feuillages)}
 {s:BDTexte|**Langues** géant}
-{s:BDTexte|**Particularités** changement de forme (arbre moussu ; *[forme d’arbre](./Forme darbre.md)*), escalade des arbres}
+{s:BDTexte|**Particularités** changement de forme (arbre moussu ; *[[forme darbre|forme d’arbre]]*), escalade des arbres}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts froides ou tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, gang (2-3) ou troupe (4-8)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Peur du feu (Ext).** Le troll de mousse est [secoué](./Secoué.md) tant qu’il est dans un [rayon](./rayon.md) de 9 m d’un feu visible ou d’une flamme nue d’au moins la taille d’une torche.}
-{s:BDTexte|**Escalade des arbres (Ext).** Lorsqu’il grimpe aux arbres ou dans d’autres feuillages, la vitesse d’escalade du troll de mousse passe à 9 m. Si le troll de mousse tombe alors qu’il est en train d’escalader un arbre, il ignore les neuf premiers mètres de [chute](./Acrobaties.md#SAUTER) quand il s’agit de calculer le nombre total de [points de dégâts de la chute](./Dangers naturels.md#Les_chutes_3). Lorsqu’il escalade un arbre, le troll de mousse gagne un bonus racial de +4 à ses tests d’Initiative.}
+{s:BDTexte|**Peur du feu (Ext).** Le troll de mousse est [[secoué]] tant qu’il est dans un [[rayon]] de 9 m d’un feu visible ou d’une flamme nue d’au moins la taille d’une torche.}
+{s:BDTexte|**Escalade des arbres (Ext).** Lorsqu’il grimpe aux arbres ou dans d’autres feuillages, la vitesse d’escalade du troll de mousse passe à 9 m. Si le troll de mousse tombe alors qu’il est en train d’escalader un arbre, il ignore les neuf premiers mètres de [[Acrobaties#SAUTER|chute]] quand il s’agit de calculer le nombre total de [[Dangers naturels#Les_chutes_3|points de dégâts de la chute]]. Lorsqu’il escalade un arbre, le troll de mousse gagne un bonus racial de +4 à ses tests d’Initiative.}
 </div>
 </td><td><div>*Cet humanoïde grand et maigre à la peau couleur de mousse a un museau allongé et pourvu de dents. Il est recouvert de feuilles.*
 

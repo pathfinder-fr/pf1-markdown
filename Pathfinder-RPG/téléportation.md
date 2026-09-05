@@ -16,15 +16,15 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) ; **Niveau** [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Magus](./Magus.md) 5, [Méd](./Médium.md) 4, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5, [Spi](./Spirite.md) 5
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V](./composantes.md)
-**Portée** [personnelle](./personnelle.md) et [contact](./contact.md)
+**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Magus]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V]]
+**Portée** [[personnelle]] et [[contact]]
 **Cible** le jeteur de sorts et les créatures consentantes ou objets qu’il touche
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** aucun ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** non ou oui ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** [[instantanée]]
+**Jet de sauvegarde** aucun ou [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** non ou oui ([[présentation des sorts#JETSDESAUVEGARDE|objet]])
 ---
-Ce sort transporte instantanément le personnage sur les lieux de son choix. La distance maximale ainsi parcourue est égale à 150 km par [niveau de lanceur de sorts](./NLS.md) mais le personnage ne peut pas se rendre dans un autre plan d’existence. Il peut emporter des objets à concurrence de sa [charge maximale](./charge maximale.md) et peut aussi emmener une créature consentante de [taille M](./taille M.md) ou inférieure (qui transporte un poids inférieur à sa [charge maximale](./charge maximale.md)) par tranche de trois [niveaux de lanceur de sorts](./NLS.md). Une créature de [taille G](./taille G.md) compte comme deux créatures de [taille M](./taille M.md), une créature de [taille TG](./taille TG.md) vaut quatre créatures de [taille M](./taille M.md), etc. Toutes les créatures transportées doivent être en contact les unes avec les autres, et l’une d’elles au moins doit toucher le lanceur de sorts. Comme tous les sorts dont la portée est [personnelle](./personnelle.md), le lanceur de sorts n’a pas besoin d’effectuer de [jet de sauvegarde](./jet de sauvegarde.md) ou de [test de résistance à la magie](./test de résistance à la magie.md). Seuls les objets tenus ou utilisés par quelqu’un d’autre nécessitent un tel jet.
+Ce sort transporte instantanément le personnage sur les lieux de son choix. La distance maximale ainsi parcourue est égale à 150 km par [[NLS|niveau de lanceur de sorts]] mais le personnage ne peut pas se rendre dans un autre plan d’existence. Il peut emporter des objets à concurrence de sa [[charge maximale]] et peut aussi emmener une créature consentante de [[taille M]] ou inférieure (qui transporte un poids inférieur à sa [[charge maximale]]) par tranche de trois [[NLS|niveaux de lanceur de sorts]]. Une créature de [[taille G]] compte comme deux créatures de [[taille M]], une créature de [[taille TG]] vaut quatre créatures de [[taille M]], etc. Toutes les créatures transportées doivent être en contact les unes avec les autres, et l’une d’elles au moins doit toucher le lanceur de sorts. Comme tous les sorts dont la portée est [[personnelle]], le lanceur de sorts n’a pas besoin d’effectuer de [[jet de sauvegarde]] ou de [[test de résistance à la magie]]. Seuls les objets tenus ou utilisés par quelqu’un d’autre nécessitent un tel jet.
 
 Le personnage doit avoir une idée exacte de l’endroit où il va réapparaître. Plus le personnage a une image mentale précise de sa destination, plus il a de chances que le sort fonctionne convenablement. Il peut être difficile, voire impossible, de se rendre dans certaines zones balayées par de violentes énergies physiques ou magiques.
 
@@ -60,62 +60,62 @@ Afin de voir comment le sort se comporte, jetez 1d100 et référez-vous à la ta
 
 
 ((({s:sortssimilaires|téléportation}
-## [Téléportation par cristal de glace](./Téléportation par cristal de glace.md)
-{s:UM}**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) <nowiki>[</nowiki>[froid](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Sor](./Sorcière.md) 6
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V](./composantes.md)
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))
+## [[Téléportation par cristal de glace]]
+{s:UM}**École** [[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Sorcière|Sor]] 6
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V]]
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
 **Cible** une créature
-**Durée** 1d4 [rounds](./round.md) ou instantanée
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Durée** 1d4 [[round|rounds]] ou instantanée
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[téléportation](./téléportation.md)* mais sert à emmener le personnage ou une autre créature dans un endroit sûr de son choix (la cible peut emporter des objets avec elle tant que leur poids ne dépasse pas sa [charge lourde](./Poids transportable.md)). Le personnage envoie la cible vers une destination très familière uniquement. La cible est tout d’abord piégée dans la glace ([solidité](./solidité.md) 0, 3 [points de vie](./pv.md) par tranche de 2,5 centimètres d’épaisseur, 1 centimètre d’épaisseur par [niveau de lanceur de sorts](./NLS.md)) pendant 1d4 [rounds](./round.md). Pendant cette période, elle est [paralysée](./Paralysé.md), consciente mais incapable d’entreprendre la moindre action physique et commence à s’estomper alors que la téléportation fait effet. Au bout de ces 1d4 [rounds](./round.md), la cible est téléportée à un endroit spécifique. Les points de vie de la glace tombent à 0 et elle fond rapidement. Si quelqu’un détruit la glace avant que la cible ne soit téléportée, le sort se termine et la téléportation n’a pas lieu.
+Ce sort fonctionne comme *[[téléportation]]* mais sert à emmener le personnage ou une autre créature dans un endroit sûr de son choix (la cible peut emporter des objets avec elle tant que leur poids ne dépasse pas sa [[Poids transportable|charge lourde]]). Le personnage envoie la cible vers une destination très familière uniquement. La cible est tout d’abord piégée dans la glace ([[solidité]] 0, 3 [[pv|points de vie]] par tranche de 2,5 centimètres d’épaisseur, 1 centimètre d’épaisseur par [[NLS|niveau de lanceur de sorts]]) pendant 1d4 [[round|rounds]]. Pendant cette période, elle est [[paralysé|paralysée]], consciente mais incapable d’entreprendre la moindre action physique et commence à s’estomper alors que la téléportation fait effet. Au bout de ces 1d4 [[round|rounds]], la cible est téléportée à un endroit spécifique. Les points de vie de la glace tombent à 0 et elle fond rapidement. Si quelqu’un détruit la glace avant que la cible ne soit téléportée, le sort se termine et la téléportation n’a pas lieu.
 
-## [Téléportation perfide](./Téléportation perfide.md)
-{s:UI}**École**  [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) <nowiki>[</nowiki>[ruse](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Con](./Conjurateur.md) 6, [ConU](./conjurateur unchained.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Magus](./Magus.md) 6, [Occ](./Occultiste.md) 6, [Psy](./Psychiste.md) 6, [Sor](./Sorcière.md) 6, [Spi](./Spirite.md) 6
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V](./composantes.md)
-**Portée** [personnelle](./personnelle.md) et [contact](./contact.md)
+## [[Téléportation perfide]]
+{s:UI}**École**  [[Invocation]] ([[branche téléportation|téléportation]]) <nowiki>[</nowiki>[[registre|ruse]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V]]
+**Portée** [[personnelle]] et [[contact]]
 **Cible** le jeteur de sorts et les créatures consentantes ou objets qu’il touche
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** aucun ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** non ou oui ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** [[instantanée]]
+**Jet de sauvegarde** aucun ou [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** non ou oui ([[présentation des sorts#JETSDESAUVEGARDE|objet]])
 ---
-Ce sort fonctionne comme *[téléportation](./téléportation.md)* excepté que le personnage peut sciemment faire en sorte que certaines créatures se déplaçant avec lui subissent un incident ou atterrissent à un autre endroit spécifique visualisé en même temps que la destination originale, ou les deux.
+Ce sort fonctionne comme *[[téléportation]]* excepté que le personnage peut sciemment faire en sorte que certaines créatures se déplaçant avec lui subissent un incident ou atterrissent à un autre endroit spécifique visualisé en même temps que la destination originale, ou les deux.
 
-Toute tentative visant à identifier *téléportation perfide* avec un test de compétence l'identifie à tort comme *[téléportation](./téléportation.md)* (voir le registre de la [ruse](./Registre.md)).
+Toute tentative visant à identifier *téléportation perfide* avec un test de compétence l'identifie à tort comme *[[téléportation]]* (voir le registre de la [[registre|ruse]]).
 
-## [Téléportation suprême](./Téléportation suprême.md)
-**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)); **Niveau** [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7, [Sor](./Sorcière.md) 7
-**Temps d'incantation**  1 [action simple](./Action simple.md)
-**Composantes** [V](./composantes.md)
-**Portée** [personnelle](./personnelle.md) et [contact](./contact.md)
+## [[Téléportation suprême]]
+**École** [[Invocation]] ([[branche téléportation|téléportation]]); **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7
+**Temps d'incantation**  1 [[action simple]]
+**Composantes** [[composantes|V]]
+**Portée** [[personnelle]] et [[contact]]
 **Cible** le jeteur de sorts et les créatures consentantes ou objets qu’il touche
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** aucun ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** non ou oui ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** [[instantanée]]
+**Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** non ou oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]])
 ---
-Ce sort ressemble à *[téléportation](./téléportation.md)*, si ce n’est qu’il n’a pas de limite de portée et que le personnage arrive toujours sur l’objectif. De plus, il n’a pas besoin de connaître sa destination, même s’il doit tout de même disposer d’une description fiable de l’endroit. Dans le cas contraire (ou si on l’a trompé), il disparaît et réapparaît aussitôt à son lieu de départ. *Téléportation suprême* ne permet pas de se déplacer entre les plans.
+Ce sort ressemble à *[[téléportation]]*, si ce n’est qu’il n’a pas de limite de portée et que le personnage arrive toujours sur l’objectif. De plus, il n’a pas besoin de connaître sa destination, même s’il doit tout de même disposer d’une description fiable de l’endroit. Dans le cas contraire (ou si on l’a trompé), il disparaît et réapparaît aussitôt à son lieu de départ. *Téléportation suprême* ne permet pas de se déplacer entre les plans.
 
-## [Téléportation d'objet](./Téléportation dobjet.md)
-**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7, [Sor](./Sorcière.md) 7
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
-**Cible** 1 objet touché, dans la limite de 25 kg/[niveau](./niveau.md) et 0,1 m³/[niveau](./niveau.md)
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE))
+## [[Téléportation dobjet|Téléportation d'objet]]
+**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
+**Cible** 1 objet touché, dans la limite de 25 kg/[[niveau]] et 0,1 m³/[[niveau]]
+**Durée** [[instantanée]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]])
 ---
-Ce sort est semblable à *[téléportation](./téléportation.md)*, si ce n’est qu’il transporte un objet au lieu d’un personnage. Les créatures et les forces magiques (telles que la bille créée par *[boule de feu à retardement](./Boule de feu à retardement.md)*) ne peuvent pas être téléportées de la sorte.
+Ce sort est semblable à *[[téléportation]]*, si ce n’est qu’il transporte un objet au lieu d’un personnage. Les créatures et les forces magiques (telles que la bille créée par *[[boule de feu à retardement]]*) ne peuvent pas être téléportées de la sorte.
 
-Si le lanceur de sorts le souhaite, il peut envoyer l’objet dans le plan Éthéré. Dans ce cas, l’endroit que l’objet occupait dans le plan Matériel dégage une légère aura magique jusqu’à ce qu’il revienne. Une *[dissipation de la magie](./Dissipation de la magie.md)* réussie qui cible ce point bien précis ramène l’objet du plan Éthéré.
+Si le lanceur de sorts le souhaite, il peut envoyer l’objet dans le plan Éthéré. Dans ce cas, l’endroit que l’objet occupait dans le plan Matériel dégage une légère aura magique jusqu’à ce qu’il revienne. Une *[[dissipation de la magie]]* réussie qui cible ce point bien précis ramène l’objet du plan Éthéré.
 
-## [Téléportation interplanétaire](./Téléportation interplanétaire.md)
-{s:UM}**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 9, [Prê](./Prêtre.md) 9, [Psy](./Psychiste.md) 9
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V](./composantes.md)
-**Portée** [personnelle](./personnelle.md) et [contact](./contact.md)
+## [[Téléportation interplanétaire]]
+{s:UM}**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V]]
+**Portée** [[personnelle]] et [[contact]]
 **Cible** lanceur de sorts et objets touchés ou créatures consentantes
 **Durée** instantanée
-**Jet de sauvegarde** non et [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** non et oui ([objet](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** non et [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** non et oui ([[Présentation des sorts#JETSDESAUVEGARDE|objet]])
 ---
-Ce sort fonctionne comme *[téléportation](./téléportation.md)* mais il n’a absolument aucune limite de portée. Le personnage n’a pas besoin d’avoir déjà vu sa destination mais il doit avoir une idée assez précise du monde sur lequel il veut se rendre. « La troisième planète en partant du soleil » est une destination acceptable mais pas « un monde habitable près de cette étoile brillante. » Si le personnage a un endroit précis de la planète en tête, il y atterrit sans risque d’erreur, sinon, il arrive dans un lieu qui ne met pas immédiatement sa vie en danger. S’il n’y a pas de zone d’arrivée sûre dans le monde (si quelqu’un essaye de se rendre sur le soleil sans prendre les précautions adéquates par exemple), le sort échoue.
+Ce sort fonctionne comme *[[téléportation]]* mais il n’a absolument aucune limite de portée. Le personnage n’a pas besoin d’avoir déjà vu sa destination mais il doit avoir une idée assez précise du monde sur lequel il veut se rendre. « La troisième planète en partant du soleil » est une destination acceptable mais pas « un monde habitable près de cette étoile brillante. » Si le personnage a un endroit précis de la planète en tête, il y atterrit sans risque d’erreur, sinon, il arrive dans un lieu qui ne met pas immédiatement sa vie en danger. S’il n’y a pas de zone d’arrivée sûre dans le monde (si quelqu’un essaye de se rendre sur le soleil sans prendre les précautions adéquates par exemple), le sort échoue.
 )))

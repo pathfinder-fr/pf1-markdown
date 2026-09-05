@@ -14,9 +14,9 @@ Categories:
 {s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.162*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|Gobelin, [homme d'arme](./Homme darme.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille P, NM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) -1}
+{s:BDTexte|Gobelin, [[homme darme|homme d'arme]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille P, NM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] -1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 13, pris au dépourvu 14 (armure +2, bouclier +1, Dex +2, taille +1)}
 {s:BDTexte|**pv** 6 (1d10+1)}
@@ -28,12 +28,12 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 15, **Con** 12, **Int** 10, **Sag** 9, **Cha** 6}
 {s:BDTexte|**BBA** +1, **BMO** +0, **DMD** 12}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Équitation](./Équitation.md) +10, [Natation](./Natation.md) +4 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4, [Équitation](./Équitation.md) +4}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Équitation]] +10, [[Natation]] +4 ; **Modificateurs raciaux** [[Discrétion]] +4, [[Équitation]] +4}
 {s:BDTexte|**Langues** gobelin}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts/plaines tempérés (régions côtières surtout)}
-{s:BDTexte|**Organisation sociale** bande (4-9), groupe de combat (10-16 avec de [chiens gobelins](./Chien gobelin.md) comme montures) ou tribu (17+ plus 100% non combattants ; 1 sergent de niveau 3 par 20 adultes ; 1 ou 2 lieutenants de niveau 4 ou 5 ; 1 chef de niveau 6-8 ; et 10-40 [chiens gobelin](./Chien gobelin.md), [loups](./Loup.md) ou [worgs](./Worg.md))}
+{s:BDTexte|**Organisation sociale** bande (4-9), groupe de combat (10-16 avec de [[chien gobelin|chiens gobelins]] comme montures) ou tribu (17+ plus 100% non combattants ; 1 sergent de niveau 3 par 20 adultes ; 1 ou 2 lieutenants de niveau 4 ou 5 ; 1 chef de niveau 6-8 ; et 10-40 [[chien gobelin|chiens gobelin]], [[loup|loups]] ou [[worg|worgs]])}
 {s:BDTexte|**Trésor** équipement de PNJ (arc court avec 20 flèches, armure de cuir, épée courte, rondache de bois, autres trésors)}
 </div>
 
@@ -46,27 +46,27 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Gobelin](./Gobelin.md) || 1/3
+| [[Gobelin]] || 1/3
 |-
-| [Gobelin vicieux](./Gobelin vicieux.md) || 1
+| [[Gobelin vicieux]] || 1
 |-
-| [Pionnier gobelin](./Pionnier gobelin.md) || 1
+| [[Pionnier gobelin]] || 1
 |-
-| [Commando gobelin](./../Aventures/Commando gobelin.md) || 2
+| [[Commando gobelin]] || 2
 |-
-| [Gobelin mutant](./../Aventures/Gobelin mutant.md) || 3
+| [[Gobelin mutant]] || 3
 |-
-| [Pilote de vautour gobelin](./Pilote-de-vautour-gobelin.md) || 3
+| [[Pilote de vautour gobelin]] || 3
 |-
-| [Gobelin incendiaire](./Gobelin incendiaire.md) || 4
+| [[Gobelin incendiaire]] || 4
 |-
-| [Cavalier aguerri](./Cavalier aguerri.md) || 5
+| [[Cavalier aguerri]] || 5
 |-
-| [Parle-crapaud gobelin](./Parle-crapaud-gobelin.md) || 5
+| [[Parle-crapaud gobelin]] || 5
 |-
-| [Seigneur collant gobelin](./Seigneur-collant-gobelin.md) || 6
+| [[Seigneur collant gobelin]] || 6
 |-
-| [Chef gobelin](./Chef-gobelin.md) || 9
+| [[Chef gobelin]] || 9
 |-
 |}
 </div>*La large tête disgracieuse de cet humanoïde d’à peine un mètre semble totalement disproportionnée par rapport à son corps maigrelet.*
@@ -108,15 +108,15 @@ autres types de nourriture, à l’exception des légumes peut-être.
 Les gobelins ne possèdent pas de dé de vie raciaux et progressent en acquérant des niveaux de classe. Leurs traits raciaux sont les suivants :
 - **-2 Force, +4 Dextérité, -2 Charisme.** Les gobelins sont rapides mais faibles et peu agréables à côtoyer.  
 
-- **Compétents.** Bonus racial de +4 aux tests de [Discrétion](./Discrétion.md) et d'[Équitation](./Équitation.md).  
+- **Compétents.** Bonus racial de +4 aux tests de [[Discrétion]] et d'[[Équitation]].  
 
-- **Petite taille.** Les gobelins sont des créatures de taille P. Ils gagnent donc un bonus de taille de +1 à la [CA](./CA.md), un bonus de taille de +1 aux [jets d'attaque](./jet dattaque.md), un malus de -1 au [BMO](./BMO.md) et au [DMD](./DMD.md) et une bonus de taille de +4 aux tests de [Discrétion](./Discrétion.md).  
+- **Petite taille.** Les gobelins sont des créatures de taille P. Ils gagnent donc un bonus de taille de +1 à la [[CA]], un bonus de taille de +1 aux [[jet dattaque|jets d'attaque]], un malus de -1 au [[BMO]] et au [[DMD]] et une bonus de taille de +4 aux tests de [[Discrétion]].  
 
 - **Rapidité.** malgré leur taille, les gobelins sont rapides. Leur vitesse de déplacement de base est de 9 m (6 {s:c}).  
 
 - **Vision dans le noir.** Les gobelins peuvent voir dans le noir jusqu'à 18 m (12 {s:c}).  
 
-- **Langues.** Les gobelins parlent automatiquement le gobelin. S'ils ont une [Intelligence](./Intelligence.md) élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : commun, draconique, gnoll, gnome, halfelin, nain, orque.
+- **Langues.** Les gobelins parlent automatiquement le gobelin. S'ils ont une [[Intelligence]] élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : commun, draconique, gnoll, gnome, halfelin, nain, orque.
 
-{s:VoirAussiAvant}La page de la race [Gobelin](./Gobelin (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Gobelin (race)|Gobelin]]{s:VoirAussiAprès}
 </div></td></tr></table>

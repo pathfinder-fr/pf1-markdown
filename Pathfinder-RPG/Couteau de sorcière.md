@@ -10,9 +10,9 @@ Categories:
 
 {s:um}*Le personnage renforce la puissance de ses sorts de sorcière en utilisant un couteau cérémoniel lors des incantations.*
 
-**Condition.** [Sorcière](./Sorcière.md)
+**Condition.** [[Sorcière]]
 
-**Avantage.** Chaque jour, quand le personnage prépare ses sorts, il peut choisir une dague magique ou de maître et la transformer en couteau de [Sorcière](./Sorcière.md) qui lui sert de focalisateur supplémentaire pour ses sorts de protecteur. Elle rajoute +1 au [DD](./DD.md) de ses sorts de protecteur.
+**Avantage.** Chaque jour, quand le personnage prépare ses sorts, il peut choisir une dague magique ou de maître et la transformer en couteau de [[Sorcière]] qui lui sert de focalisateur supplémentaire pour ses sorts de protecteur. Elle rajoute +1 au [[DD]] de ses sorts de protecteur.
 
 {s:CMy}
 ### Version mythique
@@ -20,4 +20,4 @@ Categories:
 
 **Condition.** Couteau de sorcière
 
-**Avantage.** Le personnage peut utiliser son couteau de sorcière comme un focaliseur supplémentaire pour tous ses sorts de [sorcière](./Sorcière.md) et pas seulement ses sorts de protecteur, en augmentant leur DD de 1. Ce bonus se cumule avec celui appliqué aux sorts de protecteur et conféré par Couteau de sorcière, ce qui octroie un bonus total de +2 au DD des sorts de protecteur. De plus, la main qui tient le couteau de sorcière est toujours considérée comme étant libre lorsqu’il s’agit de déterminer s’il peut lancer des sorts et effectuer des attaques de contact.
+**Avantage.** Le personnage peut utiliser son couteau de sorcière comme un focaliseur supplémentaire pour tous ses sorts de [[sorcière]] et pas seulement ses sorts de protecteur, en augmentant leur DD de 1. Ce bonus se cumule avec celui appliqué aux sorts de protecteur et conféré par Couteau de sorcière, ce qui octroie un bonus total de +2 au DD des sorts de protecteur. De plus, la main qui tient le couteau de sorcière est toujours considérée comme étant libre lorsqu’il s’agit de déterminer s’il peut lancer des sorts et effectuer des attaques de contact.

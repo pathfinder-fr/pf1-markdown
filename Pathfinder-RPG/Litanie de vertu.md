@@ -11,20 +11,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[bien, langage](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 3, [Pal](./Paladin.md) 2  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|bien, langage]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 2  
 
-**Temps d’incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d’incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage récite une litanie pour jeter l’anathème sur une créature [Mauvaise](./Alignement.md) et la rendre plus sensible aux attaques des créatures [Bonnes](./Alignement.md). Si la cible est [Mauvaise](./Alignement.md), les créatures avec une aura Bonne (grâce à un pouvoir de classe ou à leur sous-type) infligent le double de dégâts à chaque attaque. Si la cible est aussi de [sous-type Mauvais](./sous-type Mal.md), les attaques des créatures douées d’une aura Bonne les [éblouissent](./Ébloui.md) pendant 1d4 [rounds](./round.md). Si le sort vise une créature autre que [Mauvaise](./Alignement.md) (ou qui n’est pas de [sous-type Mauvais](./sous-type Mal.md)), il n’a pas d’effet, il est gaspillé.
+Le personnage récite une litanie pour jeter l’anathème sur une créature [[alignement|Mauvaise]] et la rendre plus sensible aux attaques des créatures [[alignement|Bonnes]]. Si la cible est [[alignement|Mauvaise]], les créatures avec une aura Bonne (grâce à un pouvoir de classe ou à leur sous-type) infligent le double de dégâts à chaque attaque. Si la cible est aussi de [[sous-type Mal|sous-type Mauvais]], les attaques des créatures douées d’une aura Bonne les [[ébloui|éblouissent]] pendant 1d4 [[round|rounds]]. Si le sort vise une créature autre que [[alignement|Mauvaise]] (ou qui n’est pas de [[sous-type Mal|sous-type Mauvais]]), il n’a pas d’effet, il est gaspillé.
 
 La cible affectée par ce sort ne peut pas bénéficier des effets d’un autre sort de litanie.

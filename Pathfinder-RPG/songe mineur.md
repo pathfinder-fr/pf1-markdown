@@ -15,24 +15,24 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**École** [Illusion](./Illusion.md) ([chimère](./Présentation des sorts.md#CHIMERE)) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki>; **Niveau** [Alch](./Alchimiste.md) 2, [Bard](./Barde.md) 3, [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Méd](./Médium.md) 2, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 2
+{s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**École** [[Illusion]] ([[Présentation des sorts#CHIMERE|chimère]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki>; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 2
 **Temps d'incantation** 1 minute
-**Composantes** [V, G](./composantes.md)
+**Composantes** [[composantes|V, G]]
 **Portée** illimitée
 **Cible** lanceur de sorts ou gnome touché
 **Durée** voir texte
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[songe](./Songe.md)* à quelques différences près. Le messager doit être le lanceur de sorts ou le gnome touché. Le message ne doit pas dépasser 20 mots. Si le destinataire du message ne dort pas au moment où le personnage lance le sort, ce dernier échoue automatiquement.
+Ce sort fonctionne comme *[[songe]]* à quelques différences près. Le messager doit être le lanceur de sorts ou le gnome touché. Le message ne doit pas dépasser 20 mots. Si le destinataire du message ne dort pas au moment où le personnage lance le sort, ce dernier échoue automatiquement.
 
 
 
 (((
 ## Songe
-**École** [Illusion](./Illusion.md) ([fantasme](./branche fantasme.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 5, [Bard](./Barde.md) 5, [Hyp](./Hypnotiseur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Méd](./Médium.md) 3, [Psy](./Psychiste.md) 4, [Spi](./Spirite.md) 5
+**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 5, [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 3, [[Psychiste|Psy]] 4, [[Spirite|Spi]] 5
 **Temps d'incantation** 1 minute
-**Composantes** [V, G](./composantes.md)
-**Portée** [illimitée](./illimitée.md)
+**Composantes** [[composantes|V, G]]
+**Portée** [[illimitée]]
 **Cible** créature vivante touchée
 **Durée** voir description
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
@@ -45,9 +45,9 @@ Si le destinataire n’est pas endormi au début du sort, le messager a le choix
 
 Les créatures qui ne dorment ni ne rêvent jamais ne peuvent pas être contactées à l’aide de songe.
 
-Tant que le messager est en transe, il n’est pas conscient du monde qui l’entoure. Il est [sans défense](./Sans défense.md), tant physiquement que mentalement (il rate automatiquement tous ses [jets de sauvegarde](./jet de sauvegarde.md), par exemple).
+Tant que le messager est en transe, il n’est pas conscient du monde qui l’entoure. Il est [[sans défense]], tant physiquement que mentalement (il rate automatiquement tous ses [[jet de sauvegarde|jets de sauvegarde]], par exemple).
 
 ### Version mythique
 {s:CMy}
-Le personnage ou son messager peut obtenir des informations de la part du rêveur contacté, en lui posant des questions, comme si le personnage utilisait [communication avec les morts](./Communication avec les morts.md) pour parler avec un cadavre. Un rêveur non-consentant peut tenter de résister à cet interrogatoire en réussissant un jet de [Volonté](./Volonté.md) (identique à [communication avec les morts](./Communication avec les morts.md) en utilisant le [DD](./DD.md) qu’aurait le songe s’il autorisait un jet de sauvegarde). Toutefois, les réponses à ces questions sont généralement brèves et énigmatiques.
+Le personnage ou son messager peut obtenir des informations de la part du rêveur contacté, en lui posant des questions, comme si le personnage utilisait [[communication avec les morts]] pour parler avec un cadavre. Un rêveur non-consentant peut tenter de résister à cet interrogatoire en réussissant un jet de [[Volonté]] (identique à [[communication avec les morts]] en utilisant le [[DD]] qu’aurait le songe s’il autorisait un jet de sauvegarde). Toutefois, les réponses à ces questions sont généralement brèves et énigmatiques.
 )))

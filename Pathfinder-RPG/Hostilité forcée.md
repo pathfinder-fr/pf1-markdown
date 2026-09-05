@@ -19,13 +19,13 @@ Categories:
 ---
 
 {s:UC}
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki>; **Niveau** [Bard](./Barde.md) 1, [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Méd](./Médium.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [Rôd](./Rôdeur.md) 1, [Sor](./Sorcière.md) 1</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, G, M](./composantes.md) (une goutte du sang du lanceur de sorts)</br>
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki>; **Niveau** [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Médium|Méd]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 1</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[Composantes|V, G, M]] (une goutte du sang du lanceur de sorts)</br>
 **Portée** personnelle</br>
 **Cible** lanceur de sorts</br>
-**Durée** 1 round/[niveau](./niveau.md)</br>
+**Durée** 1 round/[[niveau]]</br>
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** voir texte
 
 Quand une créature, qui se trouve dans le champ de vision du personnage et qui le menace, attaque un de ses alliés, il peut, par une action immédiate, l’obliger à l’attaquer à la place. Pour obliger une créature à l’attaquer, le personnage doit d’abord vaincre une éventuelle résistance à la magie et la créature a ensuite droit à un jet de Volonté pour ignorer le personnage.</br>
-Si un [conjurateur](./Conjurateur.md) utilise ce sort, il peut choisir d’obliger la cible à attaquer son eidolon.
+Si un [[conjurateur]] utilise ce sort, il peut choisir d’obliger la cible à attaquer son eidolon.

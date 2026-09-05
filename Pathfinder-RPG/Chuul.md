@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Aberration|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.46*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille G, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +19}
+{s:BDTexte|[[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille G, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +19}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 12, pris au dépourvu 19 (Dex +3, naturelle +10, taille -1)}
 {s:BDTexte|**pv** 85 (10d8+40)}
@@ -22,22 +22,22 @@ Categories:
 {s:BDTexte|**Immunités** poison }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** 2 griffes +14 (2d6+7 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** 2 griffes +14 (2d6+7 et [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (2d6+7), tentacules paralysants}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (2d6+7), tentacules paralysants}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 16, **Con** 18, **Int** 10, **Sag** 14, **Cha** 5}
 {s:BDTexte|**BBA** +7, **BMO** +15 (+19 pour la lutte), **DMD** 28 (32 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Science de l'initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (nature) +8, [Discrétion](./Discrétion.md) +9, [Natation](./Natation.md) +28, [Perception](./Perception.md) +19, [Psychologie](./Psychologie.md) +9}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Attaques réflexes]], [[Combat en aveugle]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (nature) +8, [[Discrétion]] +9, [[Natation]] +28, [[Perception]] +19, [[Psychologie]] +9}
 {s:BDTexte|**Langues** commun (parfois commun des profondeurs pour les variantes souterraines)}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md)}
+{s:BDTexte|**Particularités** [[amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais tempérés}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-6)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Tentacules paralysants (Ext)** Lorsqu'un Chuul a [agrippé](./Agrippé.md) une victime dans une de ses pinces, il peut la mettre dans ses tentacules par une [action de mouvement](./Action de mouvement.md). Les tentacules agrippent la victime avec la même force que la pince mais elles n'infligent aucun dégât. Au lieu de cela, elles secrètent une substance paralysante. Une créature agrippée par les tentacules doit réussir un jet de [Vigueur](./Vigueur.md) de DD 19 chaque round lors du tour du chuul sous peine de se retrouver [paralysée](./Paralysé.md) durant 6 rounds. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md). Qu'elle soit paralysée ou non, tant que la victime reste agrippée par les tentacules, elle subit automatiquement 1d8+7 points de dégâts chaque round à cause des mandibules du chuul.}
+{s:BDTexte|**Tentacules paralysants (Ext)** Lorsqu'un Chuul a [[agrippé]] une victime dans une de ses pinces, il peut la mettre dans ses tentacules par une [[action de mouvement]]. Les tentacules agrippent la victime avec la même force que la pince mais elles n'infligent aucun dégât. Au lieu de cela, elles secrètent une substance paralysante. Une créature agrippée par les tentacules doit réussir un jet de [[Vigueur]] de DD 19 chaque round lors du tour du chuul sous peine de se retrouver [[paralysé|paralysée]] durant 6 rounds. Le [[DD]] dépend de la [[Constitution]]. Qu'elle soit paralysée ou non, tant que la victime reste agrippée par les tentacules, elle subit automatiquement 1d8+7 points de dégâts chaque round à cause des mandibules du chuul.}
 </div>
 </td><td><div>*Cette écrevisse monstrueuse à la carapace épaisse a deux petits yeux brillants et une gueule remplie de tentacules qui se tortillent.*
 

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#VIEPRESERVEE
 ---
 
->>> [pouvoirs de rage#VIEPRESERVEE](./Pouvoirs de rage.md#VIEPRESERVEE)
+>>> [[pouvoirs de rage#VIEPRESERVEE]]

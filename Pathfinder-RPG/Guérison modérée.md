@@ -9,14 +9,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [invocation](./Invocation.md) ([guérison](./branche guérison.md)) ; **Niveau** [alchimiste](./Alchimiste.md) 2, [barde](./Barde.md) 2, [prêtre](./Prêtre.md) 2, [druide](./Druide.md) 3, [inquisiteur](./Inquisiteur.md) 2, [paladin](./Paladin.md) 3, [rôdeur](./Rôdeur.md) 3, [sorcière](./Sorcière.md) 2  
+**École** [[invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[alchimiste]] 2, [[barde]] 2, [[prêtre]] 2, [[druide]] 3, [[inquisiteur]] 2, [[paladin]] 3, [[rôdeur]] 3, [[sorcière]] 2  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ou [Volonté](./Volonté.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui (inoffensif)  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (inoffensif) ou [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui (inoffensif)  
 
-**Restriction de cible** *[personnel](./Personnel (mot de pouvoir).md)*, *[choisi](./Choisi.md)*
+**Restriction de cible** *[[Personnel (mot de pouvoir)|personnel]]*, *[[choisi]]*
 
-La cible d’un sort incluant cet effet est guérie de 2d6 points de dégâts + 1 point par [niveau de lanceur](./NLS.md) (maximum +10). Les [morts-vivants](./type Mort-vivant.md) subissent des dégâts au lieu d’être soignés mais peuvent faire un jet de [Volonté](./Volonté.md) pour réduire ces dégâts de moitié. La [résistance à la magie](./résistance à la magie.md) fonctionne normalement.  
+La cible d’un sort incluant cet effet est guérie de 2d6 points de dégâts + 1 point par [[NLS|niveau de lanceur]] (maximum +10). Les [[type Mort-vivant|morts-vivants]] subissent des dégâts au lieu d’être soignés mais peuvent faire un jet de [[Volonté]] pour réduire ces dégâts de moitié. La [[résistance à la magie]] fonctionne normalement.  
 
-:**Augmentation :** La cible est guérie de 2d8 points de dégâts + 1 point par [niveau de lanceur](./NLS.md) (maximum +10).
+:**Augmentation :** La cible est guérie de 2d8 points de dégâts + 1 point par [[NLS|niveau de lanceur]] (maximum +10).

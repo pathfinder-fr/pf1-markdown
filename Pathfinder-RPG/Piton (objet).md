@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Un piton est une [pointe en fer](./Pointe en fer (objet).md) avec une boucle ou un anneau à un bout, permettant d'y attacher une corde.
+Un piton est une [[Pointe en fer (objet)|pointe en fer]] avec une boucle ou un anneau à un bout, permettant d'y attacher une corde.

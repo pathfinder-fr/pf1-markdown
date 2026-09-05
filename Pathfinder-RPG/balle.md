@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Munitions et équipement (Armes à feu)#BALLE
 ---
 
->>> [Munitions et équipement (Armes à feu)#BALLE](./Munitions-et-équipement-(Armes-à-feu).md#BALLE)
+>>> [[Munitions et équipement (Armes à feu)#BALLE]]

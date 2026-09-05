@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Montagnes|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p 215}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille M, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille M, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 14 (Dex +3, naturelle +4)}
 {s:BDTexte|**pv** 42 (5d10+15)}
@@ -27,17 +27,17 @@ Categories:
 {s:BDTexte|**Attaques spéciales** critique horrible, marque de l'ombre}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 16, **Con** 17, **Int** 11, **Sag** 14, **Cha** 12}
-{s:BDTexte|**BBA** +5, **BMO** +8, **DMD** 21 (25 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (bois), [Attaque en vol](./Attaque en vol.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +10, [Vol](./Vol.md) +12}
+{s:BDTexte|**BBA** +5, **BMO** +8, **DMD** 21 (25 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (bois), [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +9, [[Perception]] +10, [[Vol]] +12}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou vol (3-9)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Critique horrible (Ext)** L’attaque de bois (cornes) d’un péryton possède une zone de critique possible de 18–20. Si un péryton tue un ennemi humanoïde par un [coup critique](./Actions simples.md#COUPCRITIQUE), il peut arracher le cœur de sa victime avec ses dents de loup par une [action libre](./Action libre.md). Toutes les créatures qui observent cet horrible événement doivent réussir un [jet de Vigueur](./jet de sauvegarde.md) de [DD](./DD.md) 13 pour ne pas être [secouées](./Secoué.md) pendant 1 [round](./round.md). Il s’agit d’un [effet mental](./effet mental.md) de [terreur](./Terreur (capacité).md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend du [Charisme](./Charisme.md).}
-{s:BDTexte|**Marque de l'ombre (Sur)** Par une [action libre](./Action libre.md), un péryton peut effectuer une attaque de contact à distance en volant au-dessus d’une cible humanoïde (la portée maximale de cette attaque est de 90 mètres (60 {s:c}). Si l’attaque réussit, l’ombre du péryton se transforme pour ressembler à l’ombre de la créature visée. Une fois que le péryton a établi ce lien avec la victime choisie, il gagne un bonus de moral de +2 aux jets d’attaque et de dégâts effectués contre cette cible et chaque fois que le péryton touche cette cible avec une attaque, la victime doit réussir un [jet de Volonté](./jet de sauvegarde.md) de [DD](./DD.md) 13 pour ne pas être [effrayée](./Effrayé.md) pendant 1 [round](./round.md). Il s’agit d’un [effet mental](./effet mental.md) de [terreur](./Terreur (capacité).md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend du [Charisme](./Charisme.md).}
+{s:BDTexte|**Critique horrible (Ext)** L’attaque de bois (cornes) d’un péryton possède une zone de critique possible de 18–20. Si un péryton tue un ennemi humanoïde par un [[Actions simples#COUPCRITIQUE|coup critique]], il peut arracher le cœur de sa victime avec ses dents de loup par une [[action libre]]. Toutes les créatures qui observent cet horrible événement doivent réussir un [[jet de sauvegarde|jet de Vigueur]] de [[DD]] 13 pour ne pas être [[secoué|secouées]] pendant 1 [[round]]. Il s’agit d’un [[effet mental]] de [[terreur (capacité)|terreur]]. Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].}
+{s:BDTexte|**Marque de l'ombre (Sur)** Par une [[action libre]], un péryton peut effectuer une attaque de contact à distance en volant au-dessus d’une cible humanoïde (la portée maximale de cette attaque est de 90 mètres (60 {s:c}). Si l’attaque réussit, l’ombre du péryton se transforme pour ressembler à l’ombre de la créature visée. Une fois que le péryton a établi ce lien avec la victime choisie, il gagne un bonus de moral de +2 aux jets d’attaque et de dégâts effectués contre cette cible et chaque fois que le péryton touche cette cible avec une attaque, la victime doit réussir un [[jet de sauvegarde|jet de Volonté]] de [[DD]] 13 pour ne pas être [[effrayé|effrayée]] pendant 1 [[round]]. Il s’agit d’un [[effet mental]] de [[terreur (capacité)|terreur]]. Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].}
 </div>
 </td><td><div>*Cette créature a un corps de cerf, des ailes et des serres de faucons et une tête de loup qui bave et dont le front est orné de dangereux bois de cerf.*
 

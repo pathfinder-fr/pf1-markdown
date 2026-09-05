@@ -14,11 +14,11 @@ Categories:
 
 *Vos attaques confiantes font vaciller vos ennemis et les rend incapables de récupérer leur calme.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [panache](./Dons.md#DONPANACHE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONPANACHE|panache]]
 
-**Conditions.** [Int](./Int.md) 13; capacité de classe [panache](./panache.md) ou [Bretteur amateur](./Bretteur amateur.md); [Expertise du combat](./Expertise du combat.md); [Science du sale coup](./Science du sale coup.md)
+**Conditions.** [[Int]] 13; capacité de classe [[panache]] ou [[Bretteur amateur]]; [[Expertise du combat]]; [[Science du sale coup]]
 
-**Avantage.** Lorsque le personnage effectue une manœuvre de [sale coup](./sale coup.md) et que'il dépense 1 point de [panache](./panache.md), si la manœuvre réussit, la cible doit réussir un jet de [Volonté](./Volonté.md) ([DD](./DD.md) = 10 + la moitié du niveau du personnage + son modificateur de [Charisme](./Charisme.md)) pour réussir à se débarrasser de l'état imposée par le sale coup.
+**Avantage.** Lorsque le personnage effectue une manœuvre de [[sale coup]] et que'il dépense 1 point de [[panache]], si la manœuvre réussit, la cible doit réussir un jet de [[Volonté]] ([[DD]] = 10 + la moitié du niveau du personnage + son modificateur de [[Charisme]]) pour réussir à se débarrasser de l'état imposée par le sale coup.
 
 (((Dastardly Trick (Combat, Panache)
 

@@ -8,53 +8,53 @@ LastModified: 2016-08-10 15:33
 {| CLASS="tablo col1centre"
 |+ Propriétés spéciales d’arme
 |- CLASS="titre"
-| Propriété spéciale d’arme +1 || Prix de base<sup>[1](./.md#ARMC1)</sup>
+| Propriété spéciale d’arme +1 || Prix de base<sup>[[#ARMC1|1]]</sup>
 |- CLASS="premier"
-| [Projectile fantôme](./Temp objetsmagiques armes MCA.md#Projectile) || +2 000 po
+| [[Temp objetsmagiques armes MCA#Projectile|Projectile fantôme]] || +2 000 po
 |- CLASS="alt"
-| [Préhensile](./Temp objetsmagiques armes MCA.md#Préhensile) || +2 500 po
+| [[Temp objetsmagiques armes MCA#Préhensile|Préhensile]] || +2 500 po
 |-
-| [Chante-sang](./Temp objetsmagiques armes MCA.md#Chante-sang) || bonus +1
+| [[Temp objetsmagiques armes MCA#Chante-sang|Chante-sang]] || bonus +1
 |- CLASS="alt"
-| [De diversion](./Temp objetsmagiques armes MCA.md#Diversion) || bonus +1
+| [[Temp objetsmagiques armes MCA#Diversion|De diversion]] || bonus +1
 |-
-| [De riposte](./Temp objetsmagiques armes MCA.md#Riposte) || bonus +1
+| [[Temp objetsmagiques armes MCA#Riposte|De riposte]] || bonus +1
 |- CLASS="alt"
-| [Déconcertante](./Temp objetsmagiques armes MCA.md#Déconcertante) || bonus +1
+| [[Temp objetsmagiques armes MCA#Déconcertante|Déconcertante]] || bonus +1
 |-
-| [Flamboyante](./Temp objetsmagiques armes MCA.md#Flamboyante) || bonus +1
+| [[Temp objetsmagiques armes MCA#Flamboyante|Flamboyante]] || bonus +1
 |- CLASS="alt"
-| [Fortuite](./Temp objetsmagiques armes MCA.md#Fortuite) || bonus +1
+| [[Temp objetsmagiques armes MCA#Fortuite|Fortuite]] || bonus +1
 |-
-| [Inspirée](./Temp objetsmagiques armes MCA.md#Inspirée) || bonus +1
+| [[Temp objetsmagiques armes MCA#Inspirée|Inspirée]] || bonus +1
 |- CLASS="alt"
-| [Querelleuse](./Temp objetsmagiques armes MCA.md#Querelleuse) || bonus +1
+| [[Temp objetsmagiques armes MCA#Querelleuse|Querelleuse]] || bonus +1
 |-
-| [Sacrée](./Temp objetsmagiques armes MCA.md#Sacrée) || bonus +1
+| [[Temp objetsmagiques armes MCA#Sacrée|Sacrée]] || bonus +1
 |- CLASS="alt"
-| [Traque-esprits](./Temp objetsmagiques armes MCA.md#Traque-esprits) || bonus +1
+| [[Temp objetsmagiques armes MCA#Traque-esprits|Traque-esprits]] || bonus +1
 |-
-| [Traque-sang](./Temp objetsmagiques armes MCA.md#Traque-sang) || bonus +1
+| [[Temp objetsmagiques armes MCA#Traque-sang|Traque-sang]] || bonus +1
 |- CLASS="alt"
-| [Voleuse de destin](./Temp objetsmagiques armes MCA.md#Voleuse de destin) || bonus +1
+| [[Temp objetsmagiques armes MCA#Voleuse de destin|Voleuse de destin]] || bonus +1
 |- CLASS="titre"
-| Propriété spéciale d’arme +2 || Prix de base<sup>[1](./.md#ARMC1)</sup>
+| Propriété spéciale d’arme +2 || Prix de base<sup>[[#ARMC1|1]]</sup>
 |- CLASS="premier alt"
-| [D'exclusion](./Temp objetsmagiques armes MCA.md#D’exclusion) || +3 750 po
+| [[Temp objetsmagiques armes MCA#D’exclusion|D'exclusion]] || +3 750 po
 |-
-| [Sournoise](./Temp objetsmagiques armes MCA.md#Sournoise) || +5 000 po
+| [[Temp objetsmagiques armes MCA#Sournoise|Sournoise]] || +5 000 po
 |- CLASS="alt"
-| [De diversion supérieure](./Temp objetsmagiques armes MCA.md#De diversion supérieure) || bonus +2
+| [[Temp objetsmagiques armes MCA#De diversion supérieure|De diversion supérieure]] || bonus +2
 |- CLASS="titre"
-| Propriété spéciale d’arme +3 || Prix de base<sup>[1](./.md#ARMC1)</sup>
+| Propriété spéciale d’arme +3 || Prix de base<sup>[[#ARMC1|1]]</sup>
 |- CLASS="premier alt"
-| [Épuisante](./Temp objetsmagiques armes MCA.md#Épuisante) || bonus +3
+| [[Temp objetsmagiques armes MCA#Épuisante|Épuisante]] || bonus +3
 |-
-| [Flamboyante supérieure](./Temp objetsmagiques armes MCA.md#Flamboyante supérieure) || bonus +3
+| [[Temp objetsmagiques armes MCA#Flamboyante supérieure|Flamboyante supérieure]] || bonus +3
 |- CLASS="alt titre"
-| Propriété spéciale d’arme +5 || Prix de base<sup>[1](./.md#ARMC1)</sup>
+| Propriété spéciale d’arme +5 || Prix de base<sup>[[#ARMC1|1]]</sup>
 |- CLASS="premier"
-| [Volante](./Temp objetsmagiques armes MCA.md#Volante) || bonus +5
+| [[Temp objetsmagiques armes MCA#Volante|Volante]] || bonus +5
 |- CLASS="note"
 | COLSPAN=5 | {s:Reference|ARMC1} (1) Ajoutez le bonus d’altération de l’arme pour déterminer le prix total.
 |}
@@ -72,7 +72,7 @@ LastModified: 2016-08-10 15:33
 {s:BDTitre|Chante-sang|{s:mca}}
 **Emplacement** aucun **NLS** 6 **Poids** —   
 
-**Aura** [transmutation](./Transmutation.md) modérée
+**Aura** [[transmutation]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
 de corps à corps tranchantes ou perforantes. Lorsque le personnage
@@ -89,7 +89,7 @@ un bourdonnement à peine audible qui se mue en un cri perçant de
 triomphe quand elle confirme un coup critique.
 (((Fabrication)))
 **Coût** bonus +1
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), affûtage, le créateur doit
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], affûtage, le créateur doit
 posséder le pouvoir de classe chant de rage, **Prix** Bonus +1
 </div>
 
@@ -100,7 +100,7 @@ posséder le pouvoir de classe chant de rage, **Prix** Bonus +1
 **Prix** +3 750 po
 **Emplacement** aucun **NLS** 1 **Poids** —  
 
-**Aura** [nécromancie](./Nécromancie.md) faible
+**Aura** [[nécromancie]] faible
 (((Description)))
 Quand un personnage maniant une arme d’exclusion blesse une créature
 avec cette arme, il peut décider de ne pas affecter cette créature
@@ -111,7 +111,7 @@ de l’arme d’exclusion. Si le personnage qui manie une arme d’exclusion
 touche une créature dépassant ce nombre limite, il ne peut plus
 exclure la cible qu’il exclut depuis le plus longtemps.
 (((Fabrication)))**Coût** 1 875 po
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), Canalisation sélective, sanctuaire
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], Canalisation sélective, sanctuaire
 </div>
 
 {s:Reference|Diversion}
@@ -121,7 +121,7 @@ exclure la cible qu’il exclut depuis le plus longtemps.
 Bonus+1
 **Emplacement** aucun **NLS** 5 **Poids** —  
 
-**Aura** [enchantement](./Enchantement.md) faible
+**Aura** [[enchantement]] faible
 (((Description)))
 Les armes possédant cette propriété spéciale affectent les adversaires
 touchés, qui ont alors du mal à contrôler leur magie. Chaque fois
@@ -133,7 +133,7 @@ cette manière, cette créature ne peut plus être affectée par les effets
 de diversion pendant 24 heures, même si elle peut être affectée par
 un effet de diversion supérieure.
 (((Fabrication)))**Coût** bonus +1
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), scrupuleAG
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], scrupuleAG
 </div>
 
 
@@ -144,7 +144,7 @@ un effet de diversion supérieure.
 Bonus +2
 **Emplacement** aucun **NLS** 8 **Poids** —  
 
-**Aura** [enchantement](./Enchantement.md) modérée
+**Aura** [[enchantement]] modérée
 (((Description)))
 Les armes possédant cette propriété spéciale affectent les adversaires
 touchés, qui ont alors énormément de mal à contrôler leur magie.
@@ -160,7 +160,7 @@ diversion, les deux effets ne se cumulent pas : l’effet de diversion se
 termine et la créature est affectée par l’effet de l’arme de diversion
 supérieure à la place.
 (((Fabrication)))**Coût** bonus +2
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [scrupule](./Scrupule.md)<sup>AG</sup>
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[scrupule]]<sup>AG</sup>
 </div>
 
 
@@ -177,7 +177,7 @@ Si le personnage qui manie une arme de riposte utilise l’exploit parade
 et riposte opportune, le bonus d’altération de l’arme est augmenté de
 4 (jusqu’à un maximum de +5).
 (((Fabrication)))**Coût** bonus +1
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [espoir](./Espoir.md), le créateur doit
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[espoir]], le créateur doit
 posséder l’exploit parade et riposte opportune
 </div>
 
@@ -189,7 +189,7 @@ posséder l’exploit parade et riposte opportune
 Bonus +1
 **Emplacement** aucun **NLS** 5 **Poids** —  
 
-**Aura** [transmutation](./Transmutation.md) faible
+**Aura** [[transmutation]] faible
 (((Description)))
 Quand le personnage confirme un coup critique avec une arme
 déconcertante, il peut dépenser 1 point de panache pour tenter
@@ -201,7 +201,7 @@ pas d’attaque d’opportunité. Le personnage ne peut pas utiliser le
 panache gagné par la confirmation d’un coup critique pour activer
 ce pouvoir.
 (((Fabrication)))**Coût** bonus +1
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [splendeur de l’aigle](./splendeur-de-l’aigle.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[splendeur de l’aigle]]
 </div>
 
 
@@ -212,7 +212,7 @@ ce pouvoir.
 Bonus +3
 **Emplacement** aucun **NLS** 12 **Poids** —  
 
-**Aura** [nécromancie](./Nécromancie.md) forte
+**Aura** [[nécromancie]] forte
 (((Description)))
 Cette propriété ne peut être appliquée qu’aux armes de corps à corps.
 Une arme épuisante peut provoquer une grande fatigue chez les adversaires.
@@ -223,7 +223,7 @@ un état d’épuisement. Les adversaires déjà épuisés ne souffrent pas
 d’effets supplémentaires et les créatures immunisées contre les effets
 d’épuisement ou les coups critiques ne sont pas affectées.
 (((Fabrication)))**Coût** bonus +3
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), rayon d’épuisement
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], rayon d’épuisement
 </div>
 
 
@@ -233,7 +233,7 @@ d’épuisement ou les coups critiques ne sont pas affectées.
 **Prix** Bonus+1
 **Emplacement** aucun **NLS** 8 **Poids** —  
 
-**Aura** [transmutation](./Transmutation.md) modérée
+**Aura** [[transmutation]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
 perforantes légères ou à une main. Une arme flamboyante a son
@@ -247,7 +247,7 @@ pour relancer un jet d’attaque effectué avec cette arme mais
 ayant échoué à cause d’un 1 naturel. Quand le personnage fait cela, il
 doit garder le second résultat, même c’est aussi un échec.
 (((Fabrication)))**Coût** bonus +1
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [héroïsme](./Héroïsme.md), le créateur doit
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[héroïsme]], le créateur doit
 être un utilisateur de panache
 </div>
 
@@ -259,7 +259,7 @@ doit garder le second résultat, même c’est aussi un échec.
 Bonus +3
 **Emplacement** aucun **NLS** 5 **Poids** —  
 
-**Aura** [abjuration](./Abjuration.md) et [divination](./Divination.md) faibles
+**Aura** [[abjuration]] et [[divination]] faibles
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
 perforantes légères ou à une main. Une arme flamboyante supérieure
@@ -267,7 +267,7 @@ est pratiquement identique à une arme flamboyante, mais son réservoir
 contient 3 points de panache. Une arme ne peut pas avoir cette
 propriété spéciale en plus de la propriété spéciale flamboyante.
 (((Fabrication)))**Coût** bonus +3
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [héroïsme suprême](./Héroïsme suprême.md), le créateur
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[héroïsme suprême]], le créateur
 doit être un utilisateur de panache
 </div>
 
@@ -279,7 +279,7 @@ doit être un utilisateur de panache
 Bonus+1
 **Emplacement** aucun **NLS** 8 **Poids** —  
 
-**Aura** [transmutation](./Transmutation.md) modérée
+**Aura** [[transmutation]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
 de corps à corps. Une arme fortuite permet au personnage d’effectuer
@@ -288,7 +288,7 @@ un personnage qui manie une arme fortuite touche avec une attaque
 d’opportunité, il peut en effectuer une seconde avec cette arme contre
 le même ennemi, avec un malus de -5.
 (((Fabrication)))**Coût** bonus +1
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [rapidité](./Rapidité.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[rapidité]]
 </div>
 
 
@@ -299,7 +299,7 @@ le même ennemi, avec un malus de -5.
 Bonus +1
 **Emplacement** aucun **NLS** 7 **Poids** —  
 
-**Aura** [enchantement](./Enchantement.md) modéré
+**Aura** [[enchantement]] modéré
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
 courantes, aux arbalètes de poing, aux rapières, aux arcs courts, aux
@@ -314,7 +314,7 @@ mais, en plus d’ajouter le résultat de son jet d’inspiration à son jet
 d’attaque, l’enquêteur ajoute deux fois le résultat de son jet d’inspiration
 au jet de dégâts.
 (((Fabrication)))**Coût** bonus +1
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [espoir](./Espoir.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[espoir]]
 </div>
 
 
@@ -325,7 +325,7 @@ au jet de dégâts.
 +2 500 po
 **Emplacement** aucun **NLS** 7 **Poids** —  
 
-**Aura** [enchantement](./Enchantement.md) modérée
+**Aura** [[enchantement]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux fouets.
 Un fouet préhensile peut, par une action rapide, être fixé à un objet
@@ -336,7 +336,7 @@ bretteur augmente l’allonge du fouet préhensile à 6 mètres pour une
 seule attaque et peut l’utiliser avec son pouvoir de frappe précise
 même s’il ne s’agit pas d’une arme perforante légère ou à une main.
 (((Fabrication)))**Coût** 1 250 po
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [corde enchantée](./Corde enchantée.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[corde enchantée]]
 </div>
 
 
@@ -347,7 +347,7 @@ même s’il ne s’agit pas d’une arme perforante légère ou à une main.
 +2 000 po
 **Emplacement** aucun **NLS** 7 **Poids** —  
 
-**Aura** [transmutation](./Transmutation.md) modérée
+**Aura** [[transmutation]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux munitions.
 Une munition possédant cette propriété spéciale d’arme se dissout
@@ -357,7 +357,7 @@ L’arme inflige les dégâts normaux mais ne laisse derrière elle aucune
 trace visible d’acte criminel.
 Le prix est indiqué pour 50 munitions fantômes.
 (((Fabrication)))**Coût** 1 000 po
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [désintégration](./Désintégration.md), [réparation](./Réparation.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[désintégration]], [[réparation]]
 intégrale
 </div>
 
@@ -369,15 +369,15 @@ intégrale
 Bonus +1
 **Emplacement** aucun **NLS** 7 **Poids** —  
 
-**Aura** [enchantement](./Enchantement.md) modérée
+**Aura** [[enchantement]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux coups de
 poings, aux cestes, aux matraques ou aux armes contondantes
 légères. Celui qui manie cette arme gagne un bonus d’altération aux
 tests de manoeuvre offensive égal au bonus d’altération de l’arme.
 (((Fabrication)))**Coût** bonus +1
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md),
-[assistance divine](./Assistance divine.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[Science du croc-en-jambe]],
+[[assistance divine]]
 </div>
 
 
@@ -388,7 +388,7 @@ tests de manoeuvre offensive égal au bonus d’altération de l’arme.
 Bonus +1
 **Emplacement** aucun **NLS** 16 **Poids** —  
 
-**Aura** [transmutation](./Transmutation.md) forte
+**Aura** [[transmutation]] forte
 (((Description)))
 Une arme sacrée est remplie d’énergie divine et fonctionne comme
 un symbole sacré. Quand elle est maniée par une créature qui lance
@@ -401,7 +401,7 @@ ou l’arme d’un allié situé dans la zone de l’énergie canalisée et lui
 octroyer les avantages de l’une de ses bénédictions mineures pour le
 coût d’une utilisation de cette bénédiction.
 (((Fabrication)))**Coût** bonus +1
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [transfert de sorts](./Transfert de sorts.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[transfert de sorts]]
 </div>
 
 
@@ -412,7 +412,7 @@ coût d’une utilisation de cette bénédiction.
 +5 000 po
 **Emplacement** aucun **NLS** 7 **Poids** —   
 
-**Aura** [nécromancie](./Nécromancie.md) modérée
+**Aura** [[nécromancie]] modérée
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux
 armes de corps à corps. Une fois par jour par une action libre, le
@@ -427,7 +427,7 @@ tour du personnage. Si ce dernier est un roublard ou un tueur avec
 le talent surprise du chasseur, il peut utiliser ce talent une fois de
 plus par jour.
 (((Fabrication)))**Coût** 2 500 po
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [anathème](./Anathème.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[anathème]]
 </div>
 
 
@@ -438,7 +438,7 @@ plus par jour.
 Bonus +1
 **Emplacement** aucun **NLS** 8 **Poids** —   
 
-**Aura** [invocation](./Invocation.md) modérée
+**Aura** [[invocation]] modérée
 (((Description)))
 Une arme traque-esprits excelle contre les ennemis possédant le
 pouvoir de classe esprit ou mystère (mais elle n’a aucun effet contre
@@ -484,7 +484,7 @@ les esprits suivants.
 |}
 </centre>
 (((Fabrication)))**Coût** bonus +1
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [convocation d’alliés naturels I](./Convocation dalliés naturels I.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[convocation dalliés naturels I|convocation d’alliés naturels I]]
 </div>
 
 
@@ -495,7 +495,7 @@ les esprits suivants.
 Bonus +1
 **Emplacement** aucun **NLS** 8 **Poids** —   
 
-**Aura** [invocation](./Invocation.md) modérée
+**Aura** [[invocation]] modérée
 (((Description)))
 Une arme traque-sang excelle contre les ennemis possédant le pouvoir
 de classe lignage. Contre un ennemi désigné, le bonus d’altération
@@ -540,7 +540,7 @@ suivants.
 | 96-100 || Tous
 |}
 (((Fabrication)))**Coût** bonus +1
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [convocation de monstres I](./Convocation de monstres I.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[convocation de monstres I]]
 </div>
 
 
@@ -551,7 +551,7 @@ suivants.
 Bonus +5
 **Emplacement** aucun **NLS** 16 **Poids** —  
 
-**Aura** [transmutation](./Transmutation.md) forte
+**Aura** [[transmutation]] forte
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
 de corps à corps. Une arme volante fonctionne comme une arme
@@ -570,7 +570,7 @@ ou, si le personnage n’a aucune main de libre, retombe à ses pieds.
 Si l’arme ne peut pas revenir à son porteur au bout de 4 rounds, elle
 tombe au sol, inerte.
 (((Fabrication)))**Coût** bonus +5
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [animation d’objets](./Animation dobjets.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[animation dobjets|animation d’objets]]
 </div>
 
 
@@ -581,7 +581,7 @@ tombe au sol, inerte.
 Bonus +1
 **Emplacement** aucun **NLS** 5 **Poids** —  
 
-**Aura** [nécromancie](./Nécromancie.md) faible
+**Aura** [[nécromancie]] faible
 (((Description)))
 Cette propriété spéciale d’arme ne peut être appliquée qu’aux armes
 de corps à corps. Quand une arme voleuse de destin touche une
@@ -597,7 +597,7 @@ qui n’a ni audace ni panache ou auquel il ne reste aucun point
 d’audace ou de panache, il ne dépense pas d’action et sa tentative
 échoue.
 (((Fabrication)))**Coût** 2 000 po
-**Conditions** [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [baiser du vampire](./Baiser du vampire.md)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[baiser du vampire]]
 </div>
 
 
@@ -611,14 +611,14 @@ d’audace ou de panache, il ne dépense pas d’action et sa tentative
 |- CLASS="titre"
 | Armes spéciales mineures intermédiaires || Prix
 |- CLASS="premier"
-| [Rapière du bretteur](./Rapière du bretteur.md) || 7 320 po
+| [[Rapière du bretteur]] || 7 320 po
 |- CLASS="alt"
-| [Lame du bourreau](./Lame du bourreau.md) || 13 850 po
+| [[Lame du bourreau]] || 13 850 po
 |- CLASS="titre"
 | Armes spéciales supérieures intermédiaires || Prix
 |- CLASS="premier alt"
-| [Rapière de déplacement tactique](./Rapière de déplacement tactique.md) || 30 320 po
+| [[Rapière de déplacement tactique]] || 30 320 po
 |-
-| [Fil du duelliste](./Fil du duelliste.md) || 35 320 po
+| [[Fil du duelliste]] || 35 320 po
 |}
 </center>

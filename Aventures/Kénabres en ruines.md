@@ -6,42 +6,42 @@ Categories:
 - Campagne
 ---
 
-Voir aussi : [Kénabres avant destruction](./Kénabres.md)
+Voir aussi : [[Kénabres|Kénabres avant destruction]]
 
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Ruines de Kénabres|}
-{s:BDTexte|*Source : [Aides de jeu AP13#CHAMPSDERUINES|La Colère des Justes], p.74*}
-[Grande Ville](./../Pathfinder-RPG/Villes.md#Le_profil_d’une_communauté_1), LB
+{s:BDTexte|*Source : [[Aides de jeu AP13#CHAMPSDERUINES|La Colère des Justes]], p.74*}
+[[Pathfinder-RPG.Villes#Le_profil_d’une_communauté_1|Grande Ville]], LB
 **Corruption** +2 ; **Criminalité** -3 ; **Economie** -3; **Loi** +6 ; **Folklore** +2 ; **Société** -3
 **Avantage de ville** :
-[déchiré par la guerre](./../Pathfinder-RPG/Villes.md#AVANTAGES),
-[Emplacement stratégique](./../Pathfinder-RPG/Villes.md#AVANTAGES),
-[Insulaire](./../Pathfinder-RPG/Villes.md#AVANTAGES),
-[Tenace](./../Pathfinder-RPG/Villes.md#AVANTAGES),
-[Raciste (Tieffelins)](./../Pathfinder-RPG/Villes.md#AVANTAGES)
-**Inconvénient de ville** : [Dévastée](./../Pathfinder-RPG/Villes.md#INCONVENIENTS)
+[[Pathfinder-RPG.Villes#AVANTAGES|déchiré par la guerre]],
+[[Pathfinder-RPG.Villes#AVANTAGES|Emplacement stratégique]],
+[[Pathfinder-RPG.Villes#AVANTAGES|Insulaire]],
+[[Pathfinder-RPG.Villes#AVANTAGES|Tenace]],
+[[Pathfinder-RPG.Villes#AVANTAGES|Raciste (Tieffelins)]]
+**Inconvénient de ville** : [[Pathfinder-RPG.Villes#INCONVENIENTS|Dévastée]]
 **Danger** +20\
 (((Démographie)))
 **Gouvernement** : seigneur (reine Galfrey)
 **Population** : 6520 (6061 humains, 312 halfelins, 66 demi-elfes, 81 autres)
 (((PNJ Importants)))
-**Reine** [Galfrey](./AP13-Galfrey.md) : humain (f) paladin de Iomédae 15, LB
-**Capitaine** [Irabeth Tirabade](./AP13-Irabeth-Tirabade.md) : demi-orc (f) paladin de Iomédae 5, LB
-**Maître** [Quednys Orlun](./Kénabres-Quednys-Orlun.md) : vieil humain (m) magicien 6, LB
-[Kimroth Otai](./Kénabres-Kimroth-Otai.md), propriétaire du Cœur du Défenseur : humain agé (m) expert 2/guerrier 3, LB
+**Reine** [[AP13-Galfrey|Galfrey]] : humain (f) paladin de Iomédae 15, LB
+**Capitaine** [[AP13-Irabeth Tirabade|Irabeth Tirabade]] : demi-orc (f) paladin de Iomédae 5, LB
+**Maître** [[Kénabres-Quednys Orlun|Quednys Orlun]] : vieil humain (m) magicien 6, LB
+[[Kénabres-Kimroth Otai|Kimroth Otai]], propriétaire du Cœur du Défenseur : humain agé (m) expert 2/guerrier 3, LB
 (((Place du marché)))
 **Valeur de base** 4400 po ; **Limite d'achat** 10000 po ; **Incantation** 4
 **Objets faibles** :
-[Hallebarde](./../Pathfinder-RPG/Tableau récapitulatif des armes.md#ARMESDEGUERREDEUXMAINS) +1
-[Anneau de résistance au feu mineur](./../Pathfinder-RPG/Anneau de résistance aux énergies destructives.md)
-[Anneau de subsistance](./../Pathfinder-RPG/Anneau de subsistance.md)
-[Parchemin](./../Pathfinder-RPG/Parchemins magiques.md) de [rappel à la vie](./../Pathfinder-RPG/Rappel à la vie.md) (NLS 9)
-[Parchemin](./../Pathfinder-RPG/Parchemins magiques.md) de [restauration](./../Pathfinder-RPG/Restauration.md) (NLS 3)
+[[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESDEGUERREDEUXMAINS|Hallebarde]] +1
+[[Pathfinder-RPG.Anneau de résistance aux énergies destructives|Anneau de résistance au feu mineur]]
+[[Pathfinder-RPG.Anneau de subsistance|Anneau de subsistance]]
+[[Pathfinder-RPG.Parchemins magiques|Parchemin]] de [[Pathfinder-RPG.rappel à la vie|rappel à la vie]] (NLS 9)
+[[Pathfinder-RPG.Parchemins magiques|Parchemin]] de [[Pathfinder-RPG.restauration|restauration]] (NLS 3)
 **Objets intermédiaires** :
-[Sceptre de méta-magie mineure de quintessence de sorts](./../Pathfinder-RPG/Sceptre de métamagie.md#Quintessence)
-[Pierre porte bonheur](./../Pathfinder-RPG/Pierre porte-bonheur.md)
-[Baguette](./../Pathfinder-RPG/Baguettes magiques.md) de [soins importants](./../Pathfinder-RPG/Soins importants.md) (NLS 5; 48 charges)
+[[Pathfinder-RPG.Sceptre de métamagie#Quintessence|Sceptre de méta-magie mineure de quintessence de sorts]]
+[[Pathfinder-RPG.Pierre porte-bonheur|Pierre porte bonheur]]
+[[Pathfinder-RPG.Baguettes magiques|Baguette]] de [[Pathfinder-RPG.soins importants|soins importants]] (NLS 5; 48 charges)
 (((Remarques)))
 **Dévastée.** L'assaut démoniaque sur Kénabres a dévasté la cité. la moitié de la population (y compris la totalité de ses chefs les plus puissants) ont péri et nombre de ses bâtiments, notamment la cathédrale de Saint Clydwell et l'Ecu) ont été détruits. Economie -6, Société  -4, danger +10, réduction de la valeur de base et de la limite d'achat de 60%, réduction de l'incantation de 3 niveaux, disponibilité des objets magiques réduite à celle d'un village.
 (((Lieux Notables)))
@@ -63,29 +63,29 @@ Garnison Grise (P, p. 54)
 |- CLASS="titre"
 | d100 || Rencontre || FP moyen
 |- CLASS="premier"
-| 01-20 || 2d4 [rats sanguinaires](./../Pathfinder-RPG/Rat sanguinaire.md) || 2
+| 01-20 || 2d4 [[Pathfinder-RPG.Rat sanguinaire|rats sanguinaires]] || 2
 |-
-| 21-35 || 1d6 [vautours fiélons](./Vautour fiélon.md) || 2
+| 21-35 || 1d6 [[Vautour Fiélon|vautours fiélons]] || 2
 |-
-| 36-45 || 1d6 [pillards Tieffelins](./../Pathfinder-RPG/Tieffelin.md) || 2
+| 36-45 || 1d6 [[Pathfinder-RPG.Tieffelin|pillards Tieffelins]] || 2
 |-
-| 46-55 || 1 [hurleur](./../Pathfinder-RPG/Hurleur.md) || 3
+| 46-55 || 1 [[Pathfinder-RPG.Hurleur|hurleur]] || 3
 |-
-| 56-65 || 1d6 [fanatiques de Baphomet](./Fanatique de Baphomet.md) || 4
+| 56-65 || 1d6 [[Fanatique de Baphomet|fanatiques de Baphomet]] || 4
 |-
-| 66-70 || 1d4 [mouches géantes démoniaques](./../Pathfinder-RPG/Mouche géante démoniaque.md) || 4
+| 66-70 || 1d4 [[Pathfinder-RPG.mouche géante démoniaque|mouches géantes démoniaques]] || 4
 |-
 | 71-75 || 1d4 [[++Pathfinder-RPG.Dretch|dretchs] || 4
 |-
-| 76-80 || 1d3 [abrikandilus](./../Pathfinder-RPG/Abrikandilu.md) || 5
+| 76-80 || 1d3 [[Pathfinder-RPG.abrikandilu|abrikandilus]] || 5
 |-
 | 81-100 || rencontre particulière || -
 |}
 
-- **Boutique assiégée (FP 3)** : [Belthis Loumis](./Belthis Loumis.md), [Nira Loumis](./Nira Loumis.md), [Abrikandilu](./../Pathfinder-RPG/Abrikandilu.md)
-- **Croisés déments (FP 4)** :  [6 Chevaliers déments](./Mercenaire superstitieux.md), [Klarah](./../Pathfinder-RPG/PNJ tavernes.md#SERVEUSE)
-- **Rituels de la Rue (FP 4)** :   [3 fanatiques de Deskari](./Fanatique de Deskari.md) (Vieilles Kénabres) ou  [3 fanatiques de Baphomet](./Fanatique de Baphomet.md) (Périphérie)
-- **Survivants tourmentés (FP 4)** :  [4 Villageois](./../Pathfinder-RPG/PNJ villageois.md#IDIOTDUVILLAGE), [2 Quasits](./../Pathfinder-RPG/Quasit.md)
+- **Boutique assiégée (FP 3)** : [[Belthis Loumis]], [[Nira Loumis]], [[Pathfinder-RPG.Abrikandilu|Abrikandilu]]
+- **Croisés déments (FP 4)** :  [[Mercenaire superstitieux|6 Chevaliers déments]], [[Pathfinder-RPG.PNJ Tavernes#SERVEUSE|Klarah]]
+- **Rituels de la Rue (FP 4)** :   [[Fanatique de Deskari|3 fanatiques de Deskari]] (Vieilles Kénabres) ou  [[Fanatique de Baphomet|3 fanatiques de Baphomet]] (Périphérie)
+- **Survivants tourmentés (FP 4)** :  [[Pathfinder-RPG.PNJ villageois#IDIOTDUVILLAGE|4 Villageois]], [[Pathfinder-RPG.Quasit|2 Quasits]]
 
 
 {| CLASS="tablo centre"
@@ -94,11 +94,11 @@ Garnison Grise (P, p. 54)
 | d20 || Rumeurs || Véracité
 |- CLASS="premier"
 | 1
-| CLASS="gauche" | Le seigneur [Hulrun](./Kénabres-Hulrun-Shappok.md) a été tué durant l'assaut et les démons l'exposent comme un trophée
+| CLASS="gauche" | Le seigneur [[Kénabres-Hulrun Shappok|Hulrun]] a été tué durant l'assaut et les démons l'exposent comme un trophée
 | vrai
 |-
 | 2
-| CLASS="gauche" | le [roi des tempêtes](./AP13-Khorramzadeh.md) a tué [Térendelév](./Kénabres-Térendelév.md) puis a ordonné à ses séides de transporter son cadavre dans la Plaie du Monde
+| CLASS="gauche" | le [[AP13-Khorramzadeh|roi des tempêtes]] a tué [[Kénabres-Térendelév|Térendelév]] puis a ordonné à ses séides de transporter son cadavre dans la Plaie du Monde
 | vrai
 |-
 | 3
@@ -118,11 +118,11 @@ Garnison Grise (P, p. 54)
 faux
 |-
 | 7
-| CLASS="gauche" | Les [taupes](./Pathfinder-RPG-batard.md) sortent des égouts. Ils kidnappent des survivants pour les dévorer
+| CLASS="gauche" | Les [[Pathfinder-RPG.batard|taupes]] sortent des égouts. Ils kidnappent des survivants pour les dévorer
 | faux
 |-
 | 8
-| CLASS="gauche" | La reine [Galfrey](./AP13-Galfrey.md) a révélé sa véritable forme de succube et s'est enfuie versla Plaie du Monde. C'est elle qui nous a trahi
+| CLASS="gauche" | La reine [[AP13-Galfrey|Galfrey]] a révélé sa véritable forme de succube et s'est enfuie versla Plaie du Monde. C'est elle qui nous a trahi
 | faux
 |-
 | 9
@@ -134,11 +134,11 @@ faux
 | faux
 |-
 | 11
-| CLASS="gauche" | [Deskari](./Pathfinder-RPG-Deskari.md) en personne a participé à l'assaut lancé sur la cité
+| CLASS="gauche" | [[Pathfinder-RPG.Deskari|Deskari]] en personne a participé à l'assaut lancé sur la cité
 | faux
 |-
 | 12
-| CLASS="gauche" | La sorcière [Areelu Vorlesh](./AP13-Areelu-Vorlesh.md) a l'intention de venir très bientôt dans la cité pour la revendiquer en guise de trophée
+| CLASS="gauche" | La sorcière [[AP13-Areelu Vorlesh|Areelu Vorlesh]] a l'intention de venir très bientôt dans la cité pour la revendiquer en guise de trophée
 | vrai
 |-
 | 13

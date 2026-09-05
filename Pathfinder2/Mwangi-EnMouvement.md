@@ -4,9 +4,9 @@ Title: En mouvement
 LastModified: 2021-07-20 08:59
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur le lore de Golarion pour Pathfinder 2](./LORE.md)
+• [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 Perchée à son poste d’observation dans un des hauts arbres, Nkayah bâilla. Quand il s’agissait de surveiller une zone et de protéger des voyageurs, c’était toujours plus excitant lorsque cela se faisait en mouvement. Quand elle était en mouvement, elle devait rester prudente et attentive, s’abriter sans bruit derrière les arbres ou grimper dans la canopée de la jungle pour garder un champ de vision sur les étrangers et les visiteurs qui traversaient les terres ékujaes. Elle adorait s’adonner à cette poursuite silencieuse tout en jaugeant les intentions des étrangers. Pendant plus d’un siècle et demi, Nkayah s’était assurée que les voyageurs ne présentaient aucun danger pour les Ékujaes et qu’ils ne libéraient pas l’une des nombreuses entités maléfiques emprisonnées au cœur de la jungle, volontairement ou pas.
 

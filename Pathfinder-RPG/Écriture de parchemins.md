@@ -9,10 +9,10 @@ Categories:
 
 *Le personnage fabrique des parchemins magiques.*
 
-**Catégorie.** [création d’objets](./Dons.md#CREATION)
+**Catégorie.** [[Dons#CREATION|création d’objets]]
 
-**Condition.** [Niveau](./niveau.md) 1 de lanceur de sorts.
+**Condition.** [[Niveau]] 1 de lanceur de sorts.
 
-**Avantage.** Le personnage peut se servir de tout [sort](./sort.md) connu pour écrire un [parchemin](./Création dobjets magiques.md#PARCHEMINS), ce qui lui prend deux heures pour un parchemin dont le prix de base est de 250 po ou moins, ou un jour par tranche de 1000 po du prix de base. Le personnage doit acheter les matières premières nécessaires pour la moitié du prix de base.
+**Avantage.** Le personnage peut se servir de tout [[sort]] connu pour écrire un [[Création dobjets magiques#PARCHEMINS|parchemin]], ce qui lui prend deux heures pour un parchemin dont le prix de base est de 250 po ou moins, ou un jour par tranche de 1000 po du prix de base. Le personnage doit acheter les matières premières nécessaires pour la moitié du prix de base.
 
-Consultez les règles de création des objets magiques [ici](./Création dobjets magiques.md#PARCHEMINS) pour plus d’informations.
+Consultez les règles de création des objets magiques [[Création dobjets magiques#PARCHEMINS|ici]] pour plus d’informations.

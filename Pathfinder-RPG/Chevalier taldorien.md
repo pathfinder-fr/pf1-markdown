@@ -12,6 +12,6 @@ Categories:
 
 *Un noble de l'Empire décadent a nommé le personnage chevalier. Il bénéficie désormais des droits et des privilèges que lui accorde ce statut.*
 
-**Conditions.** [BBA](./BBA.md) +6, [Port des armures lourdes](./Port des armures lourdes.md), maniement d’une arme de guerre
+**Conditions.** [[BBA]] +6, [[Port des armures lourdes]], maniement d’une arme de guerre
 
-**Avantages.** Un compagnon d’armes sert le personnage comme si ce dernier avait choisit le don [Prestige](./Prestige.md) ; ce compagnon d’armes est un [homme d’armes](./Homme darme.md), un [expert](./Expert.md) ou [homme du peuple](./Homme du peuple.md) [humain](./Humain.md) ou [halfelin](./Halfelin.md) qui possède le don [Écuyer de l'Empire décadent](./Écuyer taldorien.md). Si son écuyer est à 3 mètres ou moins de lui, le personnage bénéficie d’un bonus de +2 aux tests d’[initiative](./initiative.md) et un bonus d’esquive de +1 à la [CA](./CA.md).
+**Avantages.** Un compagnon d’armes sert le personnage comme si ce dernier avait choisit le don [[Prestige]] ; ce compagnon d’armes est un [[Homme darme|homme d’armes]], un [[Expert]] ou [[Homme du peuple]] [[humain]] ou [[halfelin]] qui possède le don [[Écuyer taldorien|Écuyer de l'Empire décadent]]. Si son écuyer est à 3 mètres ou moins de lui, le personnage bénéficie d’un bonus de +2 aux tests d’[[initiative]] et un bonus d’esquive de +1 à la [[CA]].

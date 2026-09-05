@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage désarçonne ses adversaires grâce à sa force impressionnante.*
 
-**Condition.** [Désarçonner](./Désarçonner.md)
+**Condition.** [[Désarçonner]]
 
-**Avantage.** Lorsque le personnage parvient à bousculer un adversaire et à le désarçonner grâce au don [Désarçonner](./Désarçonner.md), son adversaire subit 1d6 points de dégâts de chute par tranche de 2 grades du personnage. Les objets ou les aptitudes qui réduisent les dégâts de chute, tel qu’un test d’[Acrobaties](./Acrobaties.md) réussi, peuvent réduire les dégâts infligés par l’impact.
+**Avantage.** Lorsque le personnage parvient à bousculer un adversaire et à le désarçonner grâce au don [[Désarçonner]], son adversaire subit 1d6 points de dégâts de chute par tranche de 2 grades du personnage. Les objets ou les aptitudes qui réduisent les dégâts de chute, tel qu’un test d’[[Acrobaties]] réussi, peuvent réduire les dégâts infligés par l’impact.

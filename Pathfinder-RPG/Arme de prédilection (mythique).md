@@ -12,8 +12,8 @@ Categories:
 {s:cmy}
 *Le personnage sait parfaitement manipuler une arme particulière.*
 
-**Condition.** [Arme de prédilection](./Arme de prédilection.md)
+**Condition.** [[Arme de prédilection]]
 
-**Avantage.** Le personnage double les bonus aux jets d’attaque conférés par [Arme de prédilection](./Arme de prédilection.md) et [Arme de prédilection supérieure](./Arme de prédilection supérieure.md). Par une action rapide, le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour gagner un bonus aux jets d’attaque avec l’arme sélectionnée égal à la moitié de son [grade](./Grade.md), jusqu’à la fin de son tour.
+**Avantage.** Le personnage double les bonus aux jets d’attaque conférés par [[Arme de prédilection]] et [[Arme de prédilection supérieure]]. Par une action rapide, le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour gagner un bonus aux jets d’attaque avec l’arme sélectionnée égal à la moitié de son [[grade]], jusqu’à la fin de son tour.
 
-**Spécial.** Si le personnage a choisi plusieurs fois le don [Arme de prédilection](./Arme de prédilection.md) non-mythique, il doit choisir à chaque fois lequel il améliore avec [Arme de prédilection (mythique)](./Arme de prédilection (mythique).md). Il peut choisir ce don mythique plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un don d’[Arme de prédilection](./Arme de prédilection.md) non-mythique différent.
+**Spécial.** Si le personnage a choisi plusieurs fois le don [[Arme de prédilection]] non-mythique, il doit choisir à chaque fois lequel il améliore avec [[Arme de prédilection (mythique)]]. Il peut choisir ce don mythique plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un don d’[[Arme de prédilection]] non-mythique différent.

@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage dissuade rapidement ses adversaires par son impressionnante maîtrise martiale.*
 
-**Condition.** [Démonstration](./Démonstration.md)
+**Condition.** [[Démonstration]]
 
-**Avantage.** En manipulant une arme pour laquelle il possède le don [Arme de prédilection](./Arme de prédilection.md), le personnage peut utiliser le don [Démonstration](./Démonstration.md) par une [action simple](./Action simple.md) en subissant un malus de -5 au test d’[Intimidation](./Intimidation.md), par une action de mouvement avec un malus de -10, ou par une [action rapide](./Action rapide.md) avec un malus de -20. Le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour effrayer au lieu de simplement secouer les créatures affectées par la [Démonstration](./Démonstration.md).
+**Avantage.** En manipulant une arme pour laquelle il possède le don [[Arme de prédilection]], le personnage peut utiliser le don [[Démonstration]] par une [[action simple]] en subissant un malus de -5 au test d’[[Intimidation]], par une action de mouvement avec un malus de -10, ou par une [[action rapide]] avec un malus de -20. Le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour effrayer au lieu de simplement secouer les créatures affectées par la [[Démonstration]].

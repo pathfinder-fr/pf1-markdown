@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Serre-tête de persuasion|}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 4 500 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 4 500 po ; **Poids** —
 (((Description)))
-Ce serre-tête en argent confère à son porteur un bonus de compétence de +3 aux tests associés au [Charisme](./Charisme.md).
+Ce serre-tête en argent confère à son porteur un bonus de compétence de +3 aux tests associés au [[Charisme]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[charme-personne](./Charme-personne.md)* ; **Coût** 2 250 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[charme-personne]]* ; **Coût** 2 250 po
 </div>

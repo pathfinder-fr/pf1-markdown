@@ -8,7 +8,7 @@ Categories:
 
 *Le personnage sait se débrouiller dans la nature et soigner ses plaies.*
 
-**Avantage.** Le personnage obtient un bonus de +2 sur tous ses [tests](./../Golarion/Test.md) de [Premiers secours](./Premiers secours.md) et de [Survie](./Survie.md). Si le personnage a 10 [rangs](./rang.md) ou plus dans l’une de ces compétences, le bonus ajouté à cette compétence augmente à +4.
+**Avantage.** Le personnage obtient un bonus de +2 sur tous ses [[test|tests]] de [[Premiers secours]] et de [[Survie]]. Si le personnage a 10 [[rang|rangs]] ou plus dans l’une de ces compétences, le bonus ajouté à cette compétence augmente à +4.
 
 {s:CMy}
 ### Version mythique
@@ -16,4 +16,4 @@ Categories:
 
 **Condition.** Autonome
 
-**Avantage.** Le bonus aux tests de [Premiers secours](./Premiers secours.md) et de [Survie](./Survie.md) conféré par [Autonome](./Autonome.md) augmente de +2. De plus, le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour considérer qu’il obtient un 20 naturel lorsqu’il effectue l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.
+**Avantage.** Le bonus aux tests de [[Premiers secours]] et de [[Survie]] conféré par [[Autonome]] augmente de +2. De plus, le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour considérer qu’il obtient un 20 naturel lorsqu’il effectue l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.

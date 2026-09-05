@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Alchimiste#MUTAGENEPERSISTANT
 ---
 
->>> [Alchimiste#MUTAGENEPERSISTANT](./Alchimiste.md#MUTAGENEPERSISTANT)
+>>> [[Alchimiste#MUTAGENEPERSISTANT]]

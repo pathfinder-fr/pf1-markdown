@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-La Croisée des Collines est plus un lieu de rassemblement permanent pour les suites des [Royaumes des Seigneurs des Mammouths](./Royaumes des Seigneurs des Mammouths.md).
+La Croisée des Collines est plus un lieu de rassemblement permanent pour les suites des [[Royaumes des Seigneurs des Mammouths]].
 
 La Croisée des Collines est située dans l'une des plus larges passes des Montagnes des Défenses, une vallée profonde qui n'est jamais gelée durant l'année alors que les montagnes environnantes subissent d'effroyables orages de grêle et de neige.
 

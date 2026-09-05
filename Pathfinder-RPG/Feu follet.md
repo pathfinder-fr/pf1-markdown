@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Aberration|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.141*}
 {s:BDTexte|**XP** 2.400}
-{s:BDTexte|[Aberration](./type Aberration.md) ([Air](./sous-type Air.md)) de taille P, CM}
-{s:BDTexte|**Init** +13 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Aberration|Aberration]] ([[sous-type Air|Air]]) de taille P, CM}
+{s:BDTexte|**Init** +13 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 26, pris au dépourvu 16 (Dex +9, esquive +1, parade +5, taille +1)}
 {s:BDTexte|**pv** 40 (9d8)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 29, **Con** 10, **Int** 15, **Sag** 16, **Cha** 14}
 {s:BDTexte|**BBA** +6, **BMO** +0, **DMD** 24}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Combat en aveugle](./Combat en aveugle.md), [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +21, [Bluff](./Bluff.md) +11, [Discrétion](./Discrétion.md) +25, [Évasion](./Évasion.md) +21, [Perception](./Perception.md) +17, [Vol](./Vol.md) +31}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Combat en aveugle]], [[Esquive]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +21, [[Bluff]] +11, [[Discrétion]] +25, [[Évasion]] +21, [[Perception]] +17, [[Vol]] +31}
 {s:BDTexte|**Langues** aklo, commun}
 {s:BDTexte|**Particularités** absorption des peurs}
 {s:BDSousTitre|Écologie}
@@ -35,9 +35,9 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou chapelet (3-4)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Absorption des peurs (Sur).** Chaque fois qu'un feu follet se trouve à 4,50 m (3 {s:c}) ou moins d'une créature mourante ou soumise à un effet de terreur, il bénéficie d'une [guérison accélérée](./guérison accélérée.md) de 5 points.}
-{s:BDTexte|**Immunité à la magie (Ext)** Les feux-follets sont immunisés contre tous les sorts et les pouvoirs magiques contre lesquels s'applique la [résistance à la magie](./RM.md), à l'exception des sorts de *[dédale](./Dédale.md)* et de *[projectile magique](./Projectile magique.md)*.}
-{s:BDTexte|**Invisibilité naturelle (Ext).** Par une [action de mouvement](./Action de mouvement.md), un feu follet peut cesser d'émettre de la lumière et ainsi devenir [invisible](./Invisible.md) (comme par le sort *[invisibilité](./Invisibilité.md)*).}
+{s:BDTexte|**Absorption des peurs (Sur).** Chaque fois qu'un feu follet se trouve à 4,50 m (3 {s:c}) ou moins d'une créature mourante ou soumise à un effet de terreur, il bénéficie d'une [[guérison accélérée]] de 5 points.}
+{s:BDTexte|**Immunité à la magie (Ext)** Les feux-follets sont immunisés contre tous les sorts et les pouvoirs magiques contre lesquels s'applique la [[RM|résistance à la magie]], à l'exception des sorts de *[[dédale]]* et de *[[projectile magique]]*.}
+{s:BDTexte|**Invisibilité naturelle (Ext).** Par une [[action de mouvement]], un feu follet peut cesser d'émettre de la lumière et ainsi devenir [[invisible]] (comme par le sort *[[invisibilité]]*).}
 </div>
 </td><td><div>''Ce globe de lumière douce vacille gentiment dans les airs. On peut déceler
 en son sein l’image diffuse d’une sorte de crâne.''

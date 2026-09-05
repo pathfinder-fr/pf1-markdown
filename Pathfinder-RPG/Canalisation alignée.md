@@ -8,11 +8,11 @@ Categories:
 
 *Le personnage choisit le Bien, le Chaos, la Loi ou le Mal. Il peut canaliser l’énergie divine pour affecter les extérieurs de ce sous-type.*
 
-**Conditions.** Capacité de [classe](./classe.md) permettant de [canaliser de l’énergie](./canalisation.md).
+**Conditions.** Capacité de [[classe]] permettant de [[canalisation|canaliser de l’énergie]].
 
-**Avantage.** L’énergie canalisée par le personnage soigne ou blesse les [extérieurs](./type Extérieur.md) du [sous-type](./Sous-types de créatures.md) choisi au lieu de fonctionner comme à l’accoutumée. Le personnage doit choisir s’il souhaite utiliser ce don ou non à chaque fois qu’il canalise de l’énergie. S’il choisit de soigner ou de blesser une créature de l’[alignement](./Alignement.md) en question, cette énergie n’aura aucun effet sur les autres créatures. La quantité de dégâts soignés ou infligés et le [DD](./DD.md) à battre pour réduire les dégâts de moitié ne changent pas.
+**Avantage.** L’énergie canalisée par le personnage soigne ou blesse les [[type Extérieur|extérieurs]] du [[Sous-types de créatures|sous-type]] choisi au lieu de fonctionner comme à l’accoutumée. Le personnage doit choisir s’il souhaite utiliser ce don ou non à chaque fois qu’il canalise de l’énergie. S’il choisit de soigner ou de blesser une créature de l’[[alignement]] en question, cette énergie n’aura aucun effet sur les autres créatures. La quantité de dégâts soignés ou infligés et le [[DD]] à battre pour réduire les dégâts de moitié ne changent pas.
 
-**Spécial.** Le personnage peut sélectionner ce don à plusieurs reprises mais ses effets ne se cumulent pas. À chaque fois que le personnage choisit ce don, celui-ci s’applique à un nouvel [alignement](./Alignement.md). Le personnage doit décider alors le type d’[alignement](./Alignement.md) affecté à chaque fois qu’il canalise de l’énergie.
+**Spécial.** Le personnage peut sélectionner ce don à plusieurs reprises mais ses effets ne se cumulent pas. À chaque fois que le personnage choisit ce don, celui-ci s’applique à un nouvel [[alignement]]. Le personnage doit décider alors le type d’[[alignement]] affecté à chaque fois qu’il canalise de l’énergie.
 
 {s:CMy}
 ### Version mythique
@@ -20,4 +20,4 @@ Categories:
 
 **Condition.** Canalisation alignée
 
-**Avantage.** L’énergie canalisée par le personnage affecte toutes les créatures de l’alignement désigné lorsqu’il a choisi Canalisation alignée (et pas uniquement les extérieurs et les créatures avec l’alignement en sous-type), mais les soins ou les blessures sont deux fois moins efficaces contre ces cibles supplémentaires. Par ailleurs, le personnage peut dépenser deux utilisations de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il utilise Canalisation alignée pour considérer que la totalité des cibles de l’alignement choisi avait le sous-type d’alignement correspondant.
+**Avantage.** L’énergie canalisée par le personnage affecte toutes les créatures de l’alignement désigné lorsqu’il a choisi Canalisation alignée (et pas uniquement les extérieurs et les créatures avec l’alignement en sous-type), mais les soins ou les blessures sont deux fois moins efficaces contre ces cibles supplémentaires. Par ailleurs, le personnage peut dépenser deux utilisations de [[pouvoir mythique]] lorsqu’il utilise Canalisation alignée pour considérer que la totalité des cibles de l’alignement choisi avait le sous-type d’alignement correspondant.

@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Vollute#_1
 ---
 
->>> [Vollute#_1](./Vollute.md#_1)
+>>> [[Vollute#_1]]

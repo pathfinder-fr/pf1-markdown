@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#RACINEDEWY
 ---
 
->>> [Matériaux spéciaux#RACINEDEWY](./Matériaux spéciaux.md#RACINEDEWY)
+>>> [[Matériaux spéciaux#RACINEDEWY]]

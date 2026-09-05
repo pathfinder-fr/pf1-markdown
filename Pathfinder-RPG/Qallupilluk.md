@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde Monstrueux|Aquatique|Froid}
 {s:BDTexte|*Source : Bestiaire 4* p.219}
 {s:BDTexte|**PX** 3200}
-{s:BDTexte|[Humanoïde Monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille M, LM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Humanoïde Monstrueux|Humanoïde Monstrueux]] ([[sous-type aquatique|aquatique]]) de taille M, LM}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] à 18 m ; [[Perception]] +13}
 {s:BDTexte|**Aura** odeur miellée (4,50 m)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 12, pris au dépourvu 17 (Dex +2, naturelle +7)}
@@ -26,14 +26,14 @@ Categories:
 {s:BDTexte|**Distance** javeline, +10 (1d6+4)}
 {s:BDTexte|**Attaques spéciales** malédiction de la peau écailleuse}
 {s:BDTexte|**Pouvoirs magiques** (NLS 8 ; concentration +10)}
-{s:BDSorts|À volonté — *[respiration aquatique](./Respiration aquatique.md)*}
-{s:BDSorts|3/jour — *[charme-animal](./Charme-animal.md)* (DD 13), *[charme-personne](./Charme-personne.md)* (DD 13), *[métal gelé](./Métal gelé.md)* (DD 14), *[tempête de neige](./Tempête de neige.md)*}
-{s:BDSorts|1/jour — *[communion avec la nature](./Communion avec la nature.md)*, *[divination](./Divination.md)*}
+{s:BDSorts|À volonté — *[[respiration aquatique]]*}
+{s:BDSorts|3/jour — *[[charme-animal]]* (DD 13), *[[charme-personne]]* (DD 13), *[[métal gelé]]* (DD 14), *[[tempête de neige]]*}
+{s:BDSorts|1/jour — *[[communion avec la nature]]*, *[[divination]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 14, **Con** 19, **Int** 13, **Sag** 15, **Cha** 14}
 {s:BDTexte|**BBA** +8, **BMO** +13 (+17 en lutte), **DMD** 25}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md),  [Combat en aveugle](./Combat en aveugle.md), [Immobiliser](./Immobiliser.md), [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md)  (nature) +9, [Discrétion](./Discrétion.md) +13, [Natation](./Natation.md) +23, [Perception](./Perception.md) +13, [Survie](./Survie.md) +13}
+{s:BDTexte|**Dons** [[Attaques réflexes]],  [[Combat en aveugle]], [[Immobiliser]], [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Connaissances]]  (nature) +9, [[Discrétion]] +13, [[Natation]] +23, [[Perception]] +13, [[Survie]] +13}
 {s:BDTexte|**Langues** aklo, aquatique, commun, géant}
 {s:BDTexte|**Particularités** amphibie}
 {s:BDSousTitre|Écologie}
@@ -50,15 +50,15 @@ mentaux.}
 {s:BDTexte|**Malédiction de la peau écailleuse (Sur).** Si une qallupilluk agrippe un
 humanoïde de taille M ou P en situation de lutte, celui-ci commence
 à se transformer en monstre aquatique. Au début du troisième round
-consécutif de lutte, la cible agrippée doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 18
-chaque round pour ne pas se transformer en [grindylow](./Grindylow.md), en [griffe du récif](./Griffe du récif.md), en [merrow](./Merrow.md) ou
-en [scrag](./Troll.md). Une fois complètement transformée, la créature devient l’esclave dévoué de la qallupilluk à
+consécutif de lutte, la cible agrippée doit réussir un jet de [[Vigueur]] [[DD]] 18
+chaque round pour ne pas se transformer en [[grindylow]], en [[griffe du récif]], en [[merrow]] ou
+en [[troll|scrag]]. Une fois complètement transformée, la créature devient l’esclave dévoué de la qallupilluk à
 l’origine de sa transformation. Si la qallupilluk est tuée, la créature n’est
 plus esclave mais reste transformée. La transformation prend fin au bout
 d’une heure ou si la victime est tuée. Une qallupilluk peut rendre cette
 transformation permanente en accomplissant un rituel de dix minutes
 qui lui inflige 30 points de dégâts. C’est un effet de malédiction et de
-métamorphose. Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+métamorphose. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].}
 
 </div></td><td><div>''La peau disgracieuse, les cheveux noirs et emmêlés, et les vêtements en
 haillons de cette horrible femme sont gorgé d’eau glacé, mais elle dégage

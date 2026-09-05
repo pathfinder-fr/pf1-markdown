@@ -13,17 +13,17 @@ Categories:
 {s:Menuarchétypearcaniste}{s:MCA}*Tous les arcanistes ne pratiquent pas l’introspection pour découvrir les connaissances magiques les plus secrètes. Certains observent leur environnement, se lient aux créatures extraplanaires et négocient leurs secrets, leurs pouvoirs et leurs faveurs.*
 
 #### Sorts planaires
-Un occultiste ajoute tous les sorts *[allié d’outreplan](./Allié doutreplan.md)* à sa liste de sorts (en remplaçant le niveau de prêtre par son niveau d’arcaniste) et considère *[changement de plan](./Changement de plan.md)* comme un sort d’arcaniste de niveau 5.
+Un occultiste ajoute tous les sorts *[[allié doutreplan|allié d’outreplan]]* à sa liste de sorts (en remplaçant le niveau de prêtre par son niveau d’arcaniste) et considère *[[changement de plan]]* comme un sort d’arcaniste de niveau 5.
 
 #### Maîtrise des convocations (Mag)
-Un occultiste peut dépenser 1 point de son [réservoir arcanique](./réservoir arcanique.md) pour lancer *[convocation de monstres](./Convocation de monstres.md)* I. Il peut lancer ce sort par une [action simple](./Action simple.md) et les créatures convoquées demeurent pendant 1 minute par niveau (au lieu de 1 round par niveau). Au niveau 3 et tous les 2 niveaux par la suite, la puissance de cette aptitude augmente d’un niveau de sort, ce qui permet à l’occultiste de convoquer des créatures plus dangereuses (le maximum correspond à *[convocation de monstres](./Convocation de monstres.md)* IX au niveau 17), en dépensant un point supplémentaire de son réservoir arcanique par niveau de sort.
+Un occultiste peut dépenser 1 point de son [[réservoir arcanique]] pour lancer *[[convocation de monstres]]* I. Il peut lancer ce sort par une [[action simple]] et les créatures convoquées demeurent pendant 1 minute par niveau (au lieu de 1 round par niveau). Au niveau 3 et tous les 2 niveaux par la suite, la puissance de cette aptitude augmente d’un niveau de sort, ce qui permet à l’occultiste de convoquer des créatures plus dangereuses (le maximum correspond à *[[convocation de monstres]]* IX au niveau 17), en dépensant un point supplémentaire de son réservoir arcanique par niveau de sort.
 
 Un occultiste ne peut pas maintenir actif plus d’une convocation de monstres de cette façon en même temps. Si cette aptitude est de nouveau utilisée, la convocation de monstres en cours prend fin immédiatement.
 
 Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 1.
 
 #### Contact planaire (Mag)
-Au niveau 7, un occultiste peut lancer *[augure](./Augure.md)* une fois par jour et *[contact avec les plans](./Contact avec les plans.md)* une fois par semaine, son niveau de lanceur de sorts étant égal à son niveau d’arcaniste. Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 7.
+Au niveau 7, un occultiste peut lancer *[[augure]]* une fois par jour et *[[contact avec les plans]]* une fois par semaine, son niveau de lanceur de sorts étant égal à son niveau d’arcaniste. Cette aptitude remplace l’exploitation d’arcaniste obtenue au niveau 7.
 
 #### Invocateur parfait
 Au niveau 20, un occultiste peut utiliser sa maîtrise des convocations sans dépenser de points de son réservoir arcanique et les créatures convoquées demeurent jusqu’à ce qu’elles soient renvoyées. Cette aptitude remplace suprématie magique.

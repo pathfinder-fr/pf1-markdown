@@ -13,27 +13,27 @@ Categories:
 {s:pucem|Créature magique|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.262}
 {s:BDTexte|**PX** 4.800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +21}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +21}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 10, pris au dépourvu 20 (Dex +1, naturelle +11, taille -1)}
 {s:BDTexte|**pv** 102 (12d10+36)}
 {s:BDTexte|**Réf** +9, **Vig** +11, **Vol** +10}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 12 m (8 {s:c}), [vol](./Vol (capacité).md) 18 m (12 {s:c}) (médiocre)}
+{s:BDTexte|**VD** 12 m (8 {s:c}), [[Vol (capacité)|vol]] 18 m (12 {s:c}) (médiocre)}
 {s:BDTexte|**Corps à corps** 2 griffes +17 (2d6+6/19-20)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond.md), [pattes arrière](./Pattes arrière.md) (2 griffes +17, 2d6+6)}
+{s:BDTexte|**Attaques spéciales** [[bond]], [[pattes arrière]] (2 griffes +17, 2d6+6)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12)}
-{s:BDSorts|Constant—*[compréhension des langages](./Compréhension des langages.md)*, *[détection de l'invisibilité](./Détection de linvisibilité.md)*, *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*}
-{s:BDSorts|3/jour—*[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*}
-{s:BDSorts|1/jour—*[délivrance des malédictions](./Délivrance des malédictions.md)*, *[dissipation de la magie](./Dissipation de la magie.md)*, *[localisation d'objet](./Localisation dobjet.md)*, *[mythes et légendes](./Mythes et légendes.md)*}
-{s:BDSorts|1/semaine—un parmi les sorts suivants: *[symbole d'étourdissement](./Symbole détourdissement.md)* (DD 21), *[symbole de douleur](./Symbole de douleur.md)* (DD 19), *[symbole de persuasion](./Symbole de persuasion.md)* (DD 20), *[symbole de sommeil](./Symbole de sommeil.md)* (DD 19), *[symbole de terreur](./Symbole de terreur.md)* (DD 20); tous les symboles persistent pendant un maximum d'une semaine.}
+{s:BDSorts|Constant—*[[compréhension des langages]]*, *[[détection de linvisibilité|détection de l'invisibilité]]*, *[[détection de la magie]]*, *[[lecture de la magie]]*}
+{s:BDSorts|3/jour—*[[clairaudienceclairvoyance|clairaudience/clairvoyance]]*}
+{s:BDSorts|1/jour—*[[délivrance des malédictions]]*, *[[dissipation de la magie]]*, *[[localisation dobjet|localisation d'objet]]*, *[[mythes et légendes]]*}
+{s:BDSorts|1/semaine—un parmi les sorts suivants: *[[symbole détourdissement|symbole d'étourdissement]]* (DD 21), *[[symbole de douleur]]* (DD 19), *[[symbole de persuasion]]* (DD 20), *[[symbole de sommeil]]* (DD 19), *[[symbole de terreur]]* (DD 20); tous les symboles persistent pendant un maximum d'une semaine.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 13, **Con** 16, **Int** 18, **Sag** 19, **Cha** 19}
 {s:BDTexte|**BBA** +12, **BMO** +19, **DMD** 30 (34 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Magie de guerre](./Magie de guerre.md), [Science de l'initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (griffe), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +12, [Bluff](./Bluff.md) +14, [Connaissances](./Connaissances.md) (deux au choix) +6, [Diplomatie](./Diplomatie.md) +14, [Intimidation](./Intimidation.md) +14, [Perception](./Perception.md) +21, [Psychologie](./Psychologie.md) +19, [Vol](./Vol.md) +7}
+{s:BDTexte|**Dons** [[Magie de guerre]], [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (griffe), [[Vigilance]], [[Volonté de fer]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +12, [[Bluff]] +14, [[Connaissances]] (deux au choix) +6, [[Diplomatie]] +14, [[Intimidation]] +14, [[Perception]] +21, [[Psychologie]] +19, [[Vol]] +7}
 {s:BDTexte|**Langues** commun, draconique, Sphinx}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** déserts et collines, climat chaud}
@@ -41,15 +41,15 @@ Categories:
 {s:BDTexte|**Trésor** double}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [sphinx](./../Golarion/Sphinx.md).***</li></ul>''Cette créature possède le corps d’un lion, les ailes d’un faucon et la tête et
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Sphinx]].***</li></ul>''Cette créature possède le corps d’un lion, les ailes d’un faucon et la tête et
 le torse d’une magnifique humaine.''
 
-Il existe de très nombreuses espèces de [sphinx](./Sphinx B3.md). Celle que certains
+Il existe de très nombreuses espèces de [[Sphinx B3|sphinx]]. Celle que certains
 érudits désigne sous le nom de « gynosphinx » (un nom que beaucoup
 de sphinx considèrent comme une insulte) correspond à des
 créature sages et majestueuses qui se montrent toutefois terrifiantes
 lorsqu’elles sont en colère. Ces sphinx, moins attachés aux valeurs
-morales que leurs équivalents mâles (les « [androsphinx](./Androsphinx.md) », des créatures
+morales que leurs équivalents mâles (les « [[androsphinx]] », des créatures
 tout à fait différentes de celle présentée ici), prennent chacune
 de leurs décisions avec soin et méthode et revendiquent
 fièrement leur logique et leur impartialité. Les espèces

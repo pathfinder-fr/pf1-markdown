@@ -10,7 +10,7 @@ LastModified: 2017-05-25 17:07
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 108*}
 - **3 200 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille M, NM
+- [[type mort-vivant|Mort-vivant]] de taille M, NM
 - **Init **+6 ; **Sens** vision dans le noir à 18 m, détection du mal ; Perception +13
 (((Défense)))
 - **CA** 20, contact 13, pris au dépourvu 17 (Dex +2, esquive +1, naturelle +7)
@@ -25,14 +25,14 @@ LastModified: 2017-05-25 17:07
 - **Espace** 1,50 m ; **Allonge** 1,50 m (3 m avec la morsure)
 - **Attaque spéciale** absorption de sang (1d2 Con), cône de peur (9 m, DD 16)
 - **Pouvoirs magiques** (**NLS **7 ; concentration +9)
-  - *Constant *— [détection du mal](./Détection du Mal.md)
-  - *À volonté *— [invisibilité](./Invisibilité.md)
-  - *1/jour* — [déguisement](./Déguisement.md)
+  - *Constant *— [[détection du mal]]
+  - *À volonté *— [[invisibilité]]
+  - *1/jour* — [[déguisement]]
 (((Statistiques)))
 - **For** 16, **Dex** 15, **Con** —, **Int** 9, **Sag** 12, **Cha** 18
 - **BBA **+6 ; **BMO **+9 (+13 pour la lutte) ; **DMD** 22
-- **Dons** [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Discrétion](./Discrétion.md) +14, [Intimidation](./Intimidation.md) +14, [Perception](./Perception.md) +13
+- **Dons** [[Attaques réflexes]], [[Esquive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]]
+- **Compétences** [[Discrétion]] +14, [[Intimidation]] +14, [[Perception]] +13
 - **Langues** commun
 (((Écologie)))
 - **Environnement** terrestre

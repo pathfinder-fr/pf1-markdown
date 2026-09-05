@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 10 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Ce petit miroir de poche fait environ 30 centimètres de large. Contrairement à beaucoup de miroirs de meilleure facture, celui-ci est fabriqué en acier poli et il est suffisamment solide pour que le personnage le fasse tomber sans risquer de le casser.

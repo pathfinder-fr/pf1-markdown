@@ -15,22 +15,22 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Akvan](./Akvan.md) || 20
+| [[Akvan]] || 20
 |-
-| [Aghash](./Aghash.md) || 4
+| [[Aghash]] || 4
 |-
-| [Doru](./Doru.md)  || 2
+| [[Doru]]  || 2
 |-
-| [Ghawwas](./Ghawwas.md) || 10
+| [[Ghawwas]] || 10
 |-
-| [Païraka](./Païraka.md)  || 7
+| [[Païraka]]  || 7
 |-
-| [Sépide](./Sépide.md)  || 14
+| [[Sépide]]  || 14
 |-
-| [Shira](./Shira.md) || 12
+| [[Shira]] || 12
 |}
 </div></div><div class="description">**Source :** Bestiaire 3 p.85.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([div](./sous-type div.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type div|div]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])*
 
 Les démons existent pour détruire, les diables aspirent à corrompre et à contrôler et les daémons veulent la mort de toute chose, mais les êtres abjects que l’on connaît sous le nom de divs s’acharnent, eux, à ruiner et à ravager tout ce que créent les mortels. Les divs descendent de génies corrompus exilés dans les profondeurs maudites des Abaddon et vouent une haine ancestrale aux mortels. Ils font tout leur possible pour, non seulement détruire toutes les formes de vie, mais aussi pour les tourmenter. Patients et vicieux, les divs cherchent à ravager tout ce qui est joie et beauté, condamnant leurs victimes à une existence emplie de frustrations et de souffrances avant de les faire succomber à une mort lente et douloureuse.
 

@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 1 pa ; **Poids** 2,5 kg<sup>[1](./Équipement daventurier.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+{s:AE}**Prix** 1 pa ; **Poids** 2,5 kg<sup>[[Équipement daventurier#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ce sac se compose de deux draps de laine cousus ensemble au niveau des pieds et sur un côté pour former un sac de couchage. Certains sont pourvus de courroies en tissus sur le côté ouvert, que le personnage peut resserrer pour dormir. On peut l'enrouler et l'attacher pour y ranger des objets ou pour le transporter. La plupart des gens utilisent une [couverture](./Couverture (objet).md) en plus du sac de couchage pour se tenir au chaud ou pour se faire un coussin.
+Ce sac se compose de deux draps de laine cousus ensemble au niveau des pieds et sur un côté pour former un sac de couchage. Certains sont pourvus de courroies en tissus sur le côté ouvert, que le personnage peut resserrer pour dormir. On peut l'enrouler et l'attacher pour y ranger des objets ou pour le transporter. La plupart des gens utilisent une [[Couverture (objet)|couverture]] en plus du sac de couchage pour se tenir au chaud ou pour se faire un coussin.

@@ -11,8 +11,8 @@ Categories:
 
 {s:uc}*Pour écraser son ennemi, le personnage concentre toute sa rage dans un puissant coup.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Rage](./Barbare.md#RAGE), [Frappe décisive](./Frappe décisive.md), [BBA](./BBA.md) +6
+**Conditions.** [[Barbare#RAGE|Rage]], [[Frappe décisive]], [[BBA]] +6
 
-**Avantage.** Quand le personnage est enragé et qu’il utilise la [Frappe décisive](./Frappe décisive.md), il n’est pas obligé de lancer les dés de dégâts, il peut infliger le maximum de dégâts possible mais dans ce cas, sa rage se termine et il est [fatigué](./Fatigué.md) (même si, normalement, il ne devrait pas).
+**Avantage.** Quand le personnage est enragé et qu’il utilise la [[Frappe décisive]], il n’est pas obligé de lancer les dés de dégâts, il peut infliger le maximum de dégâts possible mais dans ce cas, sa rage se termine et il est [[fatigué]] (même si, normalement, il ne devrait pas).

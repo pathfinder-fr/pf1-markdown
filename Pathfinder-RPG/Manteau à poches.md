@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Manteau à poches|{s:RSE}}
-**Aura** [Invocation](./Invocation.md) modérée  ; **NLS** 9 ; **Emplacement** [torse](./Objets merveilleux portés sur le torse.md) ; **Prix** 2.500 po ; **Poids** 3,5 kg
+**Aura** [[Invocation]] modérée  ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 2.500 po ; **Poids** 3,5 kg
 (((Description)))
-Ce manteau de laine noir et gris comporte une dizaine de poches sur le devant et encore plus sur la doublure. Grâce à une magie interdimensionnelle, tout ce que l’on glisse dans une poche se retrouve immédiatement dans une autre, déterminée au hasard. Un personnage qui porte ce manteau gagne un bonus de circonstances de +5 aux tests d’[Escamotage](./Escamotage.md) pour cacher de petits objets sur sa personne. En revanche, s’il place un objet dans une poche, il lui faut une [action simple](./Action simple.md) pour le récupérer (au lieu d’une [action de mouvement](./Action de mouvement.md)).
+Ce manteau de laine noir et gris comporte une dizaine de poches sur le devant et encore plus sur la doublure. Grâce à une magie interdimensionnelle, tout ce que l’on glisse dans une poche se retrouve immédiatement dans une autre, déterminée au hasard. Un personnage qui porte ce manteau gagne un bonus de circonstances de +5 aux tests d’[[Escamotage]] pour cacher de petits objets sur sa personne. En revanche, s’il place un objet dans une poche, il lui faut une [[action simple]] pour le récupérer (au lieu d’une [[action de mouvement]]).
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[coffre secret](./Coffre secret.md)* ; **Coût** 1.250 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[coffre secret]]* ; **Coût** 1.250 po
 </div>

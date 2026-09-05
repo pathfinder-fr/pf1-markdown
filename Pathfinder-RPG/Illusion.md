@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#ILLUSION
 ---
 
->>> [Présentation des sorts#ILLUSION](./Présentation des sorts.md#ILLUSION)
+>>> [[Présentation des sorts#ILLUSION]]

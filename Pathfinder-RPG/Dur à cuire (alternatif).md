@@ -10,6 +10,6 @@ Categories:
 
 {s:UC}*Le personnage tient bon et ne s’arrête pas, même quand ses points de blessure sont en dessous de son seuil de blessure.*
 
-**Avantage**. Quand les points de blessure du personnage sont en dessous de son seuil de blessure, le personnage n’a pas besoin de réussir un test de [Constitution](./Constitution.md) [DD](./DD.md) 10 pour rester conscient.
+**Avantage**. Quand les points de blessure du personnage sont en dessous de son seuil de blessure, le personnage n’a pas besoin de réussir un test de [[Constitution]] [[DD]] 10 pour rester conscient.
 
-(((Ce don est une version modifiée du don [Dur à cuire](./Dur à cuire.md) pour utilisation avec les règles alternatives «&nbsp;[Blessures et vitalité](./Blessures et vitalité.md)&nbsp;» de l’*Art de la Guerre*)))
+(((Ce don est une version modifiée du don [[Dur à cuire]] pour utilisation avec les règles alternatives «&nbsp;[[Blessures et vitalité]]&nbsp;» de l’*Art de la Guerre*)))

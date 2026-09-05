@@ -12,7 +12,7 @@ Une autre utilisation possible est de servir de support visuel pour une table r�
 d20pro fonctionne sur le principe du client-serveur : un joueur, généralement le MJ, ouvre une session à laquelle les joueurs vont devoir se connecter pour pouvoir jouer.
 
 D'un point de vue license, il existe deux situations : Judge et Player.
-[imageright||{UP}/d20pro/splash.jpg]
+<img src="{UP}/d20pro/splash.jpg" class="imageright" alt="">
 
 La version Player est gratuite, illimitée dans le temps, et permet de se connecter pour jouer à n'importe quel serveur où il reste des places.
 
@@ -26,7 +26,7 @@ Par exemple, je possède d20pro avec 3 emplacements et je fait jouer 4 joueurs c
 
 
 
-Actuellement il n'y a pas de limite au nombre de joueurs connectés sur une partie, en dehors de la bande passante du joueur qui a le serveur.[imageright||{UP}/d20pro/connect.jpg]
+Actuellement il n'y a pas de limite au nombre de joueurs connectés sur une partie, en dehors de la bande passante du joueur qui a le serveur.<img src="{UP}/d20pro/connect.jpg" class="imageright" alt="">
 
 
 La principale différence entre Judge et Player est que la première offre tous les outils pour gérer une partie : import de cartes, gestion des personnages, des effets, des attaques, validation des tirages de dés, brouillard de guerre.... la seconde ne comporte que les options nécessaires pour jouer (déplacer son personnage, lancer des dés, faire des tests ou des attaques...).
@@ -54,7 +54,7 @@ Le programme ne propose que des outils pour simplifier la vie des joueurs et du 
 ### Interface
 
 L'interface du MJ diffère sensiblement de celle du joueur car elle propose beaucoup plus d'options.
-[imageauto||{UP}/d20pro/mainjudgeok.jpg]
+<img src="{UP}/d20pro/mainjudgeok.jpg" class="imageauto" alt="">
 
 C'est grâce à ces options que le MJ va pouvoir importer les cartes, les personnages (PJ et PNJ), rentrer les stats et gérer ce qui s'affiche effectivement sur l'écran des joueurs.
 
@@ -92,7 +92,7 @@ Notez qu'il est possible de déplacer toutes ces fenêtres, de les fermer et d'e
 
 ### Editeur de Créatures
 
-[imageauto||{UP}/d20pro/editelo.jpg]
+<img src="{UP}/d20pro/editelo.jpg" class="imageauto" alt="">
 
 En sélectionnant une créature (en bibliothèque ou sur la zone de jeu) et en tapant "E", on ouvre une fenêtre reprenant les principales données de la feuille de personnage.
 Cette feuille est divisée en onglets : General, Attacks, Feats, Skills...
@@ -103,9 +103,9 @@ Il est possible aussi de laisser le logiciel calculer automatiquement le BBA en 
 
 
 
-[imageleft||{UP}/d20pro/attelo.jpg]
+<img src="{UP}/d20pro/attelo.jpg" class="imageleft" alt="">
 
-L'onglet Attacks est certainement le plus important pour faciliter la vie du MJ. Ici, il est possible d'enregistrer les attaques classiques du personnage ou de la créature. Tous les cas de figure sont possible et il est rare de ne pas pouvoir réussir à programmer ce que l'on souhaite.[imageright||{UP}/d20pro/selectelo.jpg]
+L'onglet Attacks est certainement le plus important pour faciliter la vie du MJ. Ici, il est possible d'enregistrer les attaques classiques du personnage ou de la créature. Tous les cas de figure sont possible et il est rare de ne pas pouvoir réussir à programmer ce que l'on souhaite.<img src="{UP}/d20pro/selectelo.jpg" class="imageright" alt="">
 
 Le jeu prend en compte le BBA, les attaques multiples, les armes à une ou deux mains, les types de dégâts, la classe d'armure visée (bien pratique pour entrer les attaques magiques qui sont basées sur des attaques de contact)... tout se fait à l'aide de menus déroulants, c'est une véritable réussite.
 
@@ -120,7 +120,7 @@ Enfin, l'onglet Skill est lui aussi très pratique car il permet aux joueurs de 
 
 
 
-[imageauto||{UP}/d20pro/skillelo.jpg]
+<img src="{UP}/d20pro/skillelo.jpg" class="imageauto" alt="">
 
 
 Les autres onglets me semblent moins utiles. Ils regroupent les descriptions, les dons et un gestionnaire d'effets assez complexe à utiliser.
@@ -135,13 +135,13 @@ Le plus gros défaut actuel de d20pro est de ne pas autoriser les joueurs à mod
 ### Organisation du jeu
 
 Le système découpe le jeu en deux modes : le mode Exploration et le mode Combat.
-[imageright||{UP}/d20pro/init.jpg]
+<img src="{UP}/d20pro/init.jpg" class="imageright" alt="">
 
 Dans le premier mode, chacun peut se déplacer à sa guise et le temps n'est pas quantifié : visite d'une salle, d'une ville, déplacement dans la campagne...
 
 Dans le second, le jeu bascule sur une gestion par round et commence par un jet d'Initiative automatique pour toutes les créatures impliquées dans le combat qui se prépare. Le MJ décide de passer d'un mode à l'autre à l'aide du bouton situé en haut de son écran. Une petite alerte sonore retentit chez tous les joueurs...
 
-Comme expliqué plus haut, le MJ peut modifier l'initiative proposée avant de la valider. Chaque joueur ne peut alors déplacer son personnage que lorsque c'est son tour.[imageauto||{UP}/d20pro/fight.jpg]
+Comme expliqué plus haut, le MJ peut modifier l'initiative proposée avant de la valider. Chaque joueur ne peut alors déplacer son personnage que lorsque c'est son tour.<img src="{UP}/d20pro/fight.jpg" class="imageauto" alt="">
 
 
 Sur l'image, le combat vient de commencer : c'est au tour du brigand de jouer, son token est entouré de flèches.
@@ -149,11 +149,11 @@ Sur l'image, le combat vient de commencer : c'est au tour du brigand de jouer, s
 Les déplacements se font à la souris, et chaque déplacement est comptabilisé de manière très lisible (sur la carte principale et dans le chat).
 Le feeling global est assez proche de ce qu'on peut trouver autour d'une table avec une battlemap en carton et des figurines.
 
-[imageleft||{UP}/d20pro/atkbrig.jpg]
+<img src="{UP}/d20pro/atkbrig.jpg" class="imageleft" alt="">
 Le brigand décide d'attaquer Theodric avec son arc court. Le MJ commence par appuyer sur la touche "A" pour afficher la liste des attaques disponibles.
 
 Puis détermine sa cible à l'aide du viseur.
-[imageright||{UP}/d20pro/targ.jpg]
+<img src="{UP}/d20pro/targ.jpg" class="imageright" alt="">
 
 
 
@@ -168,7 +168,7 @@ Notez que le programme ne vérifie aucunement les portées, les types d'armes ou
 
 Enfin, une fois la cible déterminée, les jets de dés sont réalisés automatiquement en fonction des paramètres programmés.
 
-[imageleft||{UP}/d20pro/resol.jpg]
+<img src="{UP}/d20pro/resol.jpg" class="imageleft" alt="">
 
 La fenêtre de résolution apparaît chez le MJ uniquement et à chaque attaque portée. Elle lui permet de vérifier le résultat, de l'ajuster si besoin et de le valider à l'aide des 4 petits boutons situés en bas de la fenêtre.
 Dans l'ordre, de gauche à droite, chaque bouton détermine un résultat d'attaque :

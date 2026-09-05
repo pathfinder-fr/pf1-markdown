@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4, p.167*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Humanoïde Monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille G, CM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Humanoïde Monstrueux|Humanoïde Monstrueux]] ([[sous-type aquatique|aquatique]]) de taille G, CM}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] à 18 m ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 9, pris au dépourvu 19 (naturelle +10, taille -1)}
 {s:BDTexte|**pv**76 (8d10+32)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 10, **Con** 16, **Int** 6, **Sag** 10, **Cha** 7}
 {s:BDTexte|**BBA** +8, **BMO** +15 (+19 en lutte), **DMD** 25}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Frappe décisive](./Frappe décisive.md), [Science du critique](./Science du critique.md) (griffe)}
-{s:BDTexte|**Compétences** [Intimidation](./Intimidation.md) +9, [Natation](./Natation.md) +21, [Perception](./Perception.md) +11}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Frappe décisive]], [[Science du critique]] (griffe)}
+{s:BDTexte|**Compétences** [[Intimidation]] +9, [[Natation]] +21, [[Perception]] +11}
 {s:BDTexte|**Langues** aquatique}
 {s:BDTexte|**Particularités** besoin d’eau}
 {s:BDSousTitre|Écologie}
@@ -37,7 +37,7 @@ Categories:
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|<b>Besoin d’eau (Ext).</b> Le karkinoï peut survivre
 hors de l’eau pendant une heure par
-point de [Constitution](./Constitution.md). Une fois cette
+point de [[Constitution]]. Une fois cette
 durée écoulée, il court le risque de
 s’asphyxier comme s’il se noyait.}
 {s:BDTexte|<b>Glissement de côté (Ext).</b> Lorsqu’il effectue un pas

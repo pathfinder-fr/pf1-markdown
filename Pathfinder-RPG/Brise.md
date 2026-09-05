@@ -8,21 +8,21 @@ Categories:
 - Sort magicien 0
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[air](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un éventail miniature)  
+**Composantes** [[Composantes|V, G, M]] (un éventail miniature)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature ou un objet  
 
 **Durée** 1 heure (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
-Vous créez un vent léger qui souffle sur la cible, dans la direction de votre choix. La *brise* accorde à son bénéficiaire un bonus de +2 aux [jets de sauvegarde](./JDS.md) effectués dans les environnements très chauds, contre les attaques de souffle, les nuages et les gaz (comme *[brume mortelle](./Brume mortelle.md)*, *[nuage nauséabond](./Nuage nauséabond.md)* et les [poisons](./Poisons.md) inhalés). Ce sort ne fonctionne pas sans air ou sous l’eau.
+Vous créez un vent léger qui souffle sur la cible, dans la direction de votre choix. La *brise* accorde à son bénéficiaire un bonus de +2 aux [[JdS|jets de sauvegarde]] effectués dans les environnements très chauds, contre les attaques de souffle, les nuages et les gaz (comme *[[brume mortelle]]*, *[[nuage nauséabond]]* et les [[poisons]] inhalés). Ce sort ne fonctionne pas sans air ou sous l’eau.
 
 Vous ne pouvez activer qu’un seul sort de *brise* à la fois. Si vous en lancez un nouveau alors que le précédent est encore actif, ce dernier se dissipe.
 

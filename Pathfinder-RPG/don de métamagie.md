@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Dons#DONMETAMAGIE
 ---
 
->>> [Dons#DONMETAMAGIE](./Dons.md#DONMETAMAGIE)
+>>> [[Dons#DONMETAMAGIE]]

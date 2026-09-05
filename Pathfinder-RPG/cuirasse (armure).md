@@ -10,6 +10,6 @@ Categories:
 {s:AE}**Prix** 200 po ; **Poids** 15 kg
 **Bonus d'armure** +6 ; **Bonus de Dex maximal** +3 ; **Malus d'armure** -4
 **Risque d'échec des sorts profanes** 25% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
-<span class="Catégorie">**Catégorie** [Armures intermédiaires](./Tableau récapitulatif des armures.md#TABINTERMEDIAIRES)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABINTERMEDIAIRES|Armures intermédiaires]]</span>
 ---
-La cuirasse protège le torse du porteur d’une unique pièce de métal sculpté, similaire à la pièce principale d’un [harnois](./harnois (armure).md). Malgré sa solidité, son manque de flexibilité et son dos ouvert en font une armure inférieure aux armures de métal complètes mais elle constitue quand même une amélioration par rapport à la plupart des armures non-métalliques.
+La cuirasse protège le torse du porteur d’une unique pièce de métal sculpté, similaire à la pièce principale d’un [[harnois (armure)|harnois]]. Malgré sa solidité, son manque de flexibilité et son dos ouvert en font une armure inférieure aux armures de métal complètes mais elle constitue quand même une amélioration par rapport à la plupart des armures non-métalliques.

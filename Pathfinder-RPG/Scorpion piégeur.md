@@ -10,8 +10,8 @@ LastModified: 2022-06-10 21:49
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 - *Source : Bestiaire 3* p. 231
 - **PX** 4 800
-- [Vermine](./type Vermine.md) de taille TG, N
-- **Init** +2 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +6
+- [[Type Vermine|Vermine]] de taille TG, N
+- **Init** +2 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +6
 (((Défense)))
 - **CA** 21, contact 10, pris au dépourvu 19 (Dex +2, naturelle +11, taille -2)
 - **pv** 95 (10d8+50)
@@ -19,15 +19,15 @@ LastModified: 2022-06-10 21:49
 - **Immunités** effets mentaux
 (((Attaque)))
 - **VD** 15 m
-- **Corps à corps** 2 pinces, +13 (1d8+8 plus [étreinte](./Étreinte.md)) et dard, +13 (1d8+8 plus poison)
+- **Corps à corps** 2 pinces, +13 (1d8+8 plus [[étreinte]]) et dard, +13 (1d8+8 plus poison)
 - **Espace** 4,5 m (3 {s:c}); **Allonge** 4,5 m (3 {s:c})
-- **Attaques spéciales** [constriction](./constriction.md) (1d8+), attaque soudaine
+- **Attaques spéciales** [[constriction]] (1d8+), attaque soudaine
 (((Statistiques)))
 - **For** 27, **Dex** 15, **Con** 20, **Int** — , **Sag** 14, **Cha** 2
-- **BBA** +7 ; **BMO** +17 (+21 pour la lutte); **DMD** 29 (41 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Don** [Talent](./Talent.md) (Discrétion) ;
-- **Compétences** [Discrétion](./Discrétion.md) +5 (+13 en forêt), [Perception](./Perception.md) +6 ;
-- **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md) (+16 en forêt), +6 en[Perception](./Perception.md)
+- **BBA** +7 ; **BMO** +17 (+21 pour la lutte); **DMD** 29 (41 contre [[croc-en-jambe]])
+- **Don** [[Talent]] (Discrétion) ;
+- **Compétences** [[Discrétion]] +5 (+13 en forêt), [[Perception]] +6 ;
+- **Modificateurs raciaux** +8 en [[Discrétion]] (+16 en forêt), +6 en[[Perception]]
 (((Écologie)))
 - **Environnement** forêts tempérées
 - **Organisation sociale** solitaire ou nid (2-5)
@@ -43,19 +43,19 @@ LastModified: 2022-06-10 21:49
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Scorpion dard-vert](./Scorpion dard-vert.md) || 1/4
+| [[Scorpion dard-vert]] || 1/4
 |-
-| [Scorpion des cavernes](./Scorpion des cavernes.md) || 1
+| [[Scorpion des cavernes]] || 1
 |-
-| [Scorpion empereur géant](./Scorpion empereur géant.md) || 11
+| [[Scorpion empereur géant]] || 11
 |-
-| [Scorpion fantomatique](./Scorpion fantomatique.md) || 1/2
+| [[Scorpion fantomatique]] || 1/2
 |-
-| [Scorpion géant](./Scorpion géant.md) || 3
+| [[Scorpion géant]] || 3
 |-
-| [Scorpion noir](./Scorpion noir.md) || 15
+| [[Scorpion noir]] || 15
 |-
-| [Scorpion piégeur](./Scorpion piégeur.md) || 8
+| [[Scorpion piégeur]] || 8
 |}
 </div>*D’épaisses couches de mousse et autres débris de la forêt pendent de la carapace vert foncé de cet énorme scorpion.*
 

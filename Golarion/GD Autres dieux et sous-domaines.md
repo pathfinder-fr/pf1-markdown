@@ -4,25 +4,25 @@ Title: Des sous-domaines pour tous !
 LastModified: 2011-02-17 12:53
 ---
 
-<p class="description">Traduction d'un article de James Jacobs paru sur le [site de Paizo](http://paizo.com/paizo/blog/v5748dyo5lbvp) — retour à la rubrique [Un jour sur Golarion](./JourGolarion.md).</p>
-L'Advanced Player's Guide (Manuel des joueurs — règles avancées) a introduit un nouveau concept pour les prêtres : les sous-domaines. On trouve dans ce livre des listes de sous-domaines pour les 20 divinités principales. C'est très bien, tant qu'on se cantonne à celles-là, mais que se passe-t-il si on vénère [Besmara](./Besmara.md) ? Ou Zura ? Ou le Prince Perdu ? Ou Ymen ?
+<p class="description">Traduction d'un article de James Jacobs paru sur le [site de Paizo](http://paizo.com/paizo/blog/v5748dyo5lbvp) — retour à la rubrique [[JourGolarion|Un jour sur Golarion]].</p>
+L'Advanced Player's Guide (Manuel des joueurs — règles avancées) a introduit un nouveau concept pour les prêtres : les sous-domaines. On trouve dans ce livre des listes de sous-domaines pour les 20 divinités principales. C'est très bien, tant qu'on se cantonne à celles-là, mais que se passe-t-il si on vénère [[Golarion.Besmara|Besmara]] ? Ou Zura ? Ou le Prince Perdu ? Ou Ymen ?
 
 Cet article répond à ces questions. Ci-dessous se trouve une liste des sous-domaines disponibles à toutes les autres divinités qui sont mentionnées dans le Guide du monde : la mer Intérieure. Les érudits de Golarion les plus observateurs noteront qu'il existe encore plus de divinités que celles citées ci-dessous mais, pour ne pas avoir un article kilométrique, on se limite ici aux divinités qui sont citées dans le Guide du monde : la mer Intérieure.
 
 <table class="page espace-col deuxcol"><tr><td>
 ### Les autres divinités
-- **[Achaékek](./Achaékek.md)** : Sang, Diables, Meurtre, Supercherie, Tactique, Voleurs
-- **[Apsu](./Apsu.md)** : Archon, Commerce, Construction, Dragons, Exploration, Labeur
-- **[Besmara](./Besmara.md)** : Océans, Protéens, Supercherie, Tactique, Tempêtes, Voleurs
-- **[Dahak](./Dahak.md)** : Catastrophe, Démons, Dragons, Rage, Supercherie, Voleurs
-- **[Ghlaunder](./Ghlaunder.md)** : Catastrophe, Démons, Nuages, Poil, Rage, Vents
-- **[Groétus](./Groétus.md)** : Catastrophe, Étoiles, Insanité, Nuit, Perte, Protéens
-- **[Gyronna](./Golarion-Gyronna.md)** : Cauchemars, Démons, Insanité, Rage
-- **[Hanspur](./Golarion-Hanspur.md)** : Commerce, Exploration, Meurtre, Protéens
-- **[Kurgess](./Kurgess.md)** : Agathions, Commerce, Destin, Famille, Foyer, Résolution
-- **[Milani](./Milani.md)** : Azatas, Défense, Liberté, Pureté, Restauration, Révolution
-- **[Sivanah](./Sivanah.md)** : Glyphes, Insanité, Mémoire, Pensée, Protéens, Supercherie
-- **[Zyphus](./Zyphus.md)** : Catastrophe, Daémons, Meurtre, Morts-vivants, Pourriture, Sang
+- **[[Golarion.Achaékek|Achaékek]]** : Sang, Diables, Meurtre, Supercherie, Tactique, Voleurs
+- **[[Golarion.Apsu|Apsu]]** : Archon, Commerce, Construction, Dragons, Exploration, Labeur
+- **[[Golarion.Besmara|Besmara]]** : Océans, Protéens, Supercherie, Tactique, Tempêtes, Voleurs
+- **[[Golarion.Dahak|Dahak]]** : Catastrophe, Démons, Dragons, Rage, Supercherie, Voleurs
+- **[[Golarion.Ghlaunder|Ghlaunder]]** : Catastrophe, Démons, Nuages, Poil, Rage, Vents
+- **[[Golarion.Groétus|Groétus]]** : Catastrophe, Étoiles, Insanité, Nuit, Perte, Protéens
+- **[[Golarion.Gyronna|Gyronna]]** : Cauchemars, Démons, Insanité, Rage
+- **[[Golarion.Hanspur|Hanspur]]** : Commerce, Exploration, Meurtre, Protéens
+- **[[Golarion.Kurgess|Kurgess]]** : Agathions, Commerce, Destin, Famille, Foyer, Résolution
+- **[[Golarion.Milani|Milani]]** : Azatas, Défense, Liberté, Pureté, Restauration, Révolution
+- **[[Golarion.Sivanah|Sivanah]]** : Glyphes, Insanité, Mémoire, Pensée, Protéens, Supercherie
+- **[[Golarion.Zyphus|Zyphus]]** : Catastrophe, Daémons, Meurtre, Morts-vivants, Pourriture, Sang
 
 ### Les dieux déchus, faux ou oubliés
 - **Aroden** : Aucun

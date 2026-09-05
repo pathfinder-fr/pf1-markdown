@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Valeurs de combat#CA
 ---
 
->>> [Valeurs de combat#CA](./Valeurs de combat.md#CA)
+>>> [[Valeurs de combat#CA]]

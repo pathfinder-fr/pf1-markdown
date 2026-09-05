@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 - *Source : Bestiaire 2 page 51*
 - **PX** 600
-- [Animal](./type Animal.md) de taille M, N
-- **Init** +6 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10 
+- [[type Animal|Animal]] de taille M, N
+- **Init** +6 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +10 
 (((Défense)))
 - **CA** 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)
 - **pv**22 (3d8+9)
@@ -27,8 +27,8 @@ Categories:
 (((Caractéristiques)))
 - **For** 14, **Dex** 15, **Con** 17, **Int** 2, **Sag** 12, **Cha** 9
 - **BBA** +2 ; **BMO** +4 ; **DMD** 16 (20 contre croc-en-jambe)
-- **Dons** [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Perception)
-- **Compétences** [Évasion](./Évasion.md) +6, [Perception](./Perception.md) +10 ; **Modificateurs raciaux** +4 en [Évasion](./Évasion.md)
+- **Dons** [[Science de linitiative|Science de l’initiative]], [[Talent]] (Perception)
+- **Compétences** [[Évasion]] +6, [[Perception]] +10 ; **Modificateurs raciaux** +4 en [[Évasion]]
 (((Écologie)))
 - **Environnement** forêts tempérées
 - **Organisation sociale** solitaire, couple ou clan (3–5)
@@ -41,16 +41,16 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Blaireau](./Blaireau.md) || 1/2
+| [[Blaireau]] || 1/2
 |-
-| [Blaireau sanguinaire](./Blaireau sanguinaire.md) || 2
+| [[Blaireau sanguinaire]] || 2
 |}
 </div>*Ce blaireau gigantesque grogne et gratte le sol avec des griffes semblables à des pelles. On peut deviner les muscles épais qui se cachent sous sa fourrure zébrée et hirsute.*
 
 Le blaireau sanguinaire est un prédateur implacable, violent et très protecteur de son territoire. Il passe la plupart de son temps à chasser, tuer et dévorer toute une série de proies faciles comme des lapins, des cerfs et parfois du bétail. Les blaireaux sanguinaires n’hésitent pas à attaquer des créatures plus grandes qu’eux. Leur comportement est caractérisé par une ténacité légendaire qui a incité de nombreuses races, telles que les gnomes vivant dans les forêts, à les considérer avec honneur et respect. Les blaireaux sanguinaires vivent dans des terriers profonds qu’ils ont creusés avec leurs griffes monstrueuses. Contrairement aux blaireaux ordinaires, les griffes des blaireaux sanguinaires leur permettent de creuser la roche. Les blaireaux sanguinaires n’ont guère de patience face aux distractions et aux interruptions. Dès qu’elles sont confrontées à un obstacle, ces créatures qui ne connaissent absolument pas la peur passent brutalement à l’attaque et, si elles sont blessées, elles se laissent gagner par une frénésie meurtrière. Les blaireaux sanguinaires mesurent 1,20 mètre de hauteur aux épaules et pèsent 250 kg.
 
 #### Le blaireau sanguinaire comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 12 m ; **CA** armure naturelle +2 ; **Attaque** morsure (1d4), 2 griffes (1d3) ; **Caractéristiques** For 10, Dex 17, Con 15, Int 2, Sag 12, Cha 10 ; **Attaque spéciale** [rage](./Rage.md) (comme un [barbare](./Barbare.md), 6 rounds par jour) ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 12 m ; **CA** armure naturelle +2 ; **Attaque** morsure (1d4), 2 griffes (1d3) ; **Caractéristiques** For 10, Dex 17, Con 15, Int 2, Sag 12, Cha 10 ; **Attaque spéciale** [[rage]] (comme un [[barbare]], 6 rounds par jour) ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4.** **Taille** M ** ; **CA** ; **Attaque** Attaque morsure (1d6), 2 griffes (1d4) ; **Caractéristiques''' For +4, Dex -2, Con +2.
 </div></td></tr></table>

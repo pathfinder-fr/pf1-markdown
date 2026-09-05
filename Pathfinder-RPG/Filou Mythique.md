@@ -13,7 +13,7 @@ Categories:
 
 **Classes.** Les membres de toutes les classes qui comptent sur leurs compétences font de bons filous, tout comme ceux qui engagent très souvent le combat à distance ou appliquent des méthodes magiques de subterfuge. L’alchimiste, le barde et le roublard possèdent tous un certain nombre d’aptitudes particulièrement adaptées à la voie du filou. Les pistoliers, les moines et les rôdeurs tireront aussi avantage de certaines options proposées par cette voie.
 
-**Bonus en points de vie.** À chaque fois que le personnage acquiert un [grade](./Grade.md) de filou, il gagne 4 points de vie supplémentaires. Ces points de vie s’ajoutent au total maximum du personnage et n’affectent pas son nombre total de dés de vie ou ses autres caractéristiques.
+**Bonus en points de vie.** À chaque fois que le personnage acquiert un [[grade]] de filou, il gagne 4 points de vie supplémentaires. Ces points de vie s’ajoutent au total maximum du personnage et n’affectent pas son nombre total de dés de vie ou ses autres caractéristiques.
 
 ### Caractéristiques du filou
 <div style="float:right; background-color: #fff; padding: 0 0 8px 16px">
@@ -23,42 +23,42 @@ Categories:
 |- CLASS="titre"
 | Grade || Caractéristiques de la voie
 |- CLASS="premier"
-| 1 || [Attaque du filou](./Filou Mythique.md#ATTAQUEDUFILOU), [aptitude de voie](./Filou Mythique.md#APTITUDEDEVOIE)
+| 1 || [[Filou Mythique#ATTAQUEDUFILOU|Attaque du filou]], [[Filou Mythique#APTITUDEDEVOIE|aptitude de voie]]
 |-
-| 2 || [Aptitude de voie](./Filou Mythique.md#APTITUDEDEVOIE)
+| 2 || [[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 3 || [Aptitude de voie](./Filou Mythique.md#APTITUDEDEVOIE)
+| 3 || [[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 4 || [Aptitude de voie](./Filou Mythique.md#APTITUDEDEVOIE)
+| 4 || [[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 5 || [Aptitude de voie](./Filou Mythique.md#APTITUDEDEVOIE)
+| 5 || [[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 6 || [Aptitude de voie](./Filou Mythique.md#APTITUDEDEVOIE)
+| 6 || [[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 7 || [Aptitude de voie](./Filou Mythique.md#APTITUDEDEVOIE)
+| 7 || [[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 8 || [Aptitude de voie](./Filou Mythique.md#APTITUDEDEVOIE)
+| 8 || [[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 9 || [Aptitude de voie](./Filou Mythique.md#APTITUDEDEVOIE)
+| 9 || [[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]
 |-
-| 10 || [Aptitude de voie](./Filou Mythique.md#APTITUDEDEVOIE), [filou suprême](./Filou Mythique.md#FILOUSUPREME)
+| 10 || [[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]], [[Filou Mythique#FILOUSUPREME|filou suprême]]
 |-
 |}
-</div></div>Au fur et à mesure que le filou monte en [grades](./grades.md), il obtient les aptitudes suivantes :
+</div></div>Au fur et à mesure que le filou monte en [[grades]], il obtient les aptitudes suivantes :
 
 {s:Reference|ATTAQUEDUFILOU}
 #### Attaque du filou
 Choisissez l’une des aptitudes suivantes. Ce choix est définitif.
-- ***Charge effrénée (Ext).*** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour se déplacer d’une distance égale à sa vitesse de déplacement. N’importe quand pendant ce déplacement, il peut effectuer une unique attaque au corps à corps ou à distance en appliquant son bonus d’attaque le plus élevé et en ajoutant son [grade](./Grade.md) au [jet d’attaque](./jet dattaque.md). Cette attaque vient en plus de celles effectuées au cours du même [round](./round.md). Les dégâts infligés par cette attaque ignorent toutes les [réductions de dégâts](./RD.md).
+- ***Charge effrénée (Ext).*** Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour se déplacer d’une distance égale à sa vitesse de déplacement. N’importe quand pendant ce déplacement, il peut effectuer une unique attaque au corps à corps ou à distance en appliquant son bonus d’attaque le plus élevé et en ajoutant son [[grade]] au [[jet dattaque|jet d’attaque]]. Cette attaque vient en plus de celles effectuées au cours du même [[round]]. Les dégâts infligés par cette attaque ignorent toutes les [[RD|réductions de dégâts]].
 
-- ***Frappe surprise (Ext).*** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour effectuer une attaque à distance ou au corps à corps contre une cible située à 9 mètres ou moins, en plus des autres attaques réalisées au cours de même [round](./round.md). Lorsque le personnage effectue une frappe surprise, on considère que la cible est [prise au dépourvu](./Pris au dépourvu.md), quels que soient les pouvoirs ou aptitudes de classe qu’elle possède, et le personnage ajoute son [grade](./Grade.md) au [jet d’attaque](./jet dattaque.md). Les dégâts infligés par cette attaque ignorent toutes les [réductions de dégâts](./RD.md).
+- ***Frappe surprise (Ext).*** Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour effectuer une attaque à distance ou au corps à corps contre une cible située à 9 mètres ou moins, en plus des autres attaques réalisées au cours de même [[round]]. Lorsque le personnage effectue une frappe surprise, on considère que la cible est [[pris au dépourvu|prise au dépourvu]], quels que soient les pouvoirs ou aptitudes de classe qu’elle possède, et le personnage ajoute son [[grade]] au [[jet dattaque|jet d’attaque]]. Les dégâts infligés par cette attaque ignorent toutes les [[RD|réductions de dégâts]].
 
-- ***Lancer fatal (Ext).*** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour dégainer et effectuer une attaque à distance avec une [arme de jet](./arme de jet.md) ou un [objet alchimique](./Armes alchimiques.md). Cette attaque ne provoque pas d’[attaque d’opportunité](./AO.md). Lorsque le personnage effectue un lancer fatal, lancez deux fois le [jet d’attaque](./jet dattaque.md), conservez le meilleur résultat et ajoutez-y le [grade](./Grade.md) du personnage. Si l’attaque rate, l’arme ou l’objet alchimique atterrit dans une case adjacente à la cible, quelle que soit la distance qui la sépare du tireur.
+- ***Lancer fatal (Ext).*** Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour dégainer et effectuer une attaque à distance avec une [[arme de jet]] ou un [[Armes alchimiques|objet alchimique]]. Cette attaque ne provoque pas d’[[AO|attaque d’opportunité]]. Lorsque le personnage effectue un lancer fatal, lancez deux fois le [[jet dattaque|jet d’attaque]], conservez le meilleur résultat et ajoutez-y le [[grade]] du personnage. Si l’attaque rate, l’arme ou l’objet alchimique atterrit dans une case adjacente à la cible, quelle que soit la distance qui la sépare du tireur.
 
 {s:Reference|APTITUDEDEVOIE}
 #### Aptitude de voie
-Au 1<sup>er</sup> [grade](./Grade.md) et tous les grades par la suite, choisissez une nouvelle [aptitude de voie](./aptitude de voie.md) parmi la liste des [aptitudes de voie du filou](./Aptitudes de la voie du Filou Mythique.md) ou parmi la liste des [aptitudes de voie universelles](./Aptitudes de voie universelles Mythique.md). Ce choix est définitif. Sauf indication contraire, chaque aptitude ne peut être choisie qu’une seule fois. Certaines aptitudes s’accompagnent de conditions requises, comme la possession d’une aptitude de classe spécifique ou d’un grade mythique minimum. Le personnage doit remplir les conditions requises avant de pouvoir choisir ces aptitudes.
+Au 1<sup>er</sup> [[grade]] et tous les grades par la suite, choisissez une nouvelle [[aptitude de voie]] parmi la liste des [[Aptitudes de la voie du Filou Mythique|aptitudes de voie du filou]] ou parmi la liste des [[Aptitudes de voie universelles Mythique|aptitudes de voie universelles]]. Ce choix est définitif. Sauf indication contraire, chaque aptitude ne peut être choisie qu’une seule fois. Certaines aptitudes s’accompagnent de conditions requises, comme la possession d’une aptitude de classe spécifique ou d’un grade mythique minimum. Le personnage doit remplir les conditions requises avant de pouvoir choisir ces aptitudes.
 
 {s:Reference|FILOUSUPREME}
 #### Filou suprême (Sur)
-Au 10<sup>ème</sup> [grade](./Grade.md), à chaque fois que le personnage effectue un [jet d’attaque](./jet dattaque.md) contre un adversaire [non-mythique](./non-mythique.md), on considère que celui-ci est [pris au dépourvu](./Pris au dépourvu.md), même s’il possède des aptitudes qui l’en empêchent. Une fois par [round](./round.md), il récupère une utilisation de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il obtient un 20 naturel lors d’un test de compétence opposé contre un adversaire [mythique](./mythique.md).
+Au 10<sup>ème</sup> [[grade]], à chaque fois que le personnage effectue un [[jet dattaque|jet d’attaque]] contre un adversaire [[non-mythique]], on considère que celui-ci est [[pris au dépourvu]], même s’il possède des aptitudes qui l’en empêchent. Une fois par [[round]], il récupère une utilisation de [[pouvoir mythique]] lorsqu’il obtient un 20 naturel lors d’un test de compétence opposé contre un adversaire [[mythique]].

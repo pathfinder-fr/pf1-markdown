@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Lance de joute|{s:AE}}
-**Aura** [Évocation](./Évocation.md) faible ; **NLS** 5 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 4 310 po ; **Poids** 5 kg
+**Aura** [[Évocation]] faible ; **NLS** 5 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 4 310 po ; **Poids** 5 kg
 (((Description)))
-Cette *[lance d'arçon](./lance darçon (arme).md) +1* ornementée croule sous les rubans et les faveurs, ce qui permet à son propriétaire de désarçonner plus facilement ses adversaires. S'il parvient à toucher un ennemi monté avec la *lance de joute*, cet ennemi est obligé de réussir un test d'[Équitation](./Équitation.md) DD 10 + dégâts infligés pour ne pas vider les étriers. La *lance de joute* est utilisée pour empêcher un ennemi de profiter des avantages offerts par sa monture mais elle est considérée comme une forme de tricherie honteuse dans les tournois.
+Cette *[[lance darçon (arme)|lance d'arçon]] +1* ornementée croule sous les rubans et les faveurs, ce qui permet à son propriétaire de désarçonner plus facilement ses adversaires. S'il parvient à toucher un ennemi monté avec la *lance de joute*, cet ennemi est obligé de réussir un test d'[[Équitation]] DD 10 + dégâts infligés pour ne pas vider les étriers. La *lance de joute* est utilisée pour empêcher un ennemi de profiter des avantages offerts par sa monture mais elle est considérée comme une forme de tricherie honteuse dans les tournois.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[force de taureau](./Force de taureau.md)* ; **Coût** 2 105 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[force de taureau]]* ; **Coût** 2 105 po
 </div>

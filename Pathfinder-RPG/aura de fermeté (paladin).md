@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Paladin#AURADEFERMETE
 ---
 
->>> [Paladin#AURADEFERMETE](./Paladin.md#AURADEFERMETE)
+>>> [[Paladin#AURADEFERMETE]]

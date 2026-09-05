@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Hachenoire.md).***
+***Voir les [[Pathfinder-RPG.Hachenoire|statistiques de cet artefact]].***
 
 De l’acide toxique suinte de la lame d’obsidienne de cette gigantesque hache noire dont la forme est aussi cruelle et sauvage que si des griffes obscènes l’avait arrachée à de une roche empoisonnée.
 

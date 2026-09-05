@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#FAIRELEMUR
 ---
 
->>> [Talents#FAIRELEMUR](./Talents.md#FAIRELEMUR)
+>>> [[Talents#FAIRELEMUR]]

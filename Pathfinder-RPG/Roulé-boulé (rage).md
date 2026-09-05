@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#ROULEBOULE
 ---
 
->>> [pouvoirs de rage#ROULEBOULE](./Pouvoirs de rage.md#ROULEBOULE)
+>>> [[pouvoirs de rage#ROULEBOULE]]

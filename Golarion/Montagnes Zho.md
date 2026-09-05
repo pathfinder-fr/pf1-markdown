@@ -7,4 +7,4 @@ Categories:
 - Qadira
 ---
 
-Large et longue chaîne de montagnes qui partage le [Qadira](./Qadira.md) en deux. Elle s'étend du nord-est au centre-ouest du pays.
+Large et longue chaîne de montagnes qui partage le [[Qadira]] en deux. Elle s'étend du nord-est au centre-ouest du pays.

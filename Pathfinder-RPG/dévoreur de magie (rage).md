@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#DEVOREURDEMAGIE
 ---
 
->>> [Pouvoirs de rage#DEVOREURDEMAGIE](./Pouvoirs de rage.md#DEVOREURDEMAGIE)
+>>> [[Pouvoirs de rage#DEVOREURDEMAGIE]]

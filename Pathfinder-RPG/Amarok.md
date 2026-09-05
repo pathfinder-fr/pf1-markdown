@@ -13,32 +13,32 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Froid}
 {s:BDTexte|*Source : Bestiaire 5 p.17*}
 {s:BDTexte|**PX** 19 200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille TG, LN}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision dans les ténèbres](./Vision dans les ténèbres.md), *[vision lucide](./Vision lucide.md)*, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +28}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille TG, LN}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[Vision dans les ténèbres]], *[[vision lucide]]*, [[vision nocturne]] ; [[Perception]] +28}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 13, pris au dépourvu 23 (Dex +5, naturelle +15, taille -2)}
 {s:BDTexte|**pv** 172 (15d10+90)}
 {s:BDTexte|**Réf** +14, **Vig** +15, **Vol** +13}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +23 (4d6+15/19-20 plus [étreinte](./Étreinte.md) et [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** morsure, +23 (4d6+15/19-20 plus [[étreinte]] et [[croc-en-jambe]])}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [étreinte](./Étreinte.md), [croc-en-jambe](./croc-en-jambe.md), morsure de l’âme}
+{s:BDTexte|**Attaques spéciales** [[étreinte]], [[croc-en-jambe]], morsure de l’âme}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12<sup>e</sup>) ; concentration +15)}
-{s:BDSorts|Constant — *[détection du mensonge](./Détection du mensonge.md)*, *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|3/jour — *[délivrance des malédictions](./Délivrance des malédictions.md)*}
+{s:BDSorts|Constant — *[[détection du mensonge]]*, *[[vision lucide]]*}
+{s:BDSorts|3/jour — *[[délivrance des malédictions]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 30, **Dex** 21, **Con** 22, **Int** 15, **Sag** 23, **Cha** 16}
-{s:BDTexte|**BBA** +15, **BMO** +27 (+35 en [lutte](./lutte.md)), **DMD** 42 (44 contre la [lutte](./lutte.md), 46 contre les [crocs-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Lutte supérieure](./Lutte supérieure.md), [Science du critique](./Science du critique.md) (morsure), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de la lutte](./Science de la lutte.md), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +19, [Perception](./Perception.md) +28, [Psychologie](./Psychologie.md) +25, [Survie](./Survie.md) +21 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md)}
-{s:BDTexte|**Langues** commun, sylvestre ; *[communication avec les animaux](./Communication avec les animaux.md)*}
+{s:BDTexte|**BBA** +15, **BMO** +27 (+35 en [[lutte]]), **DMD** 42 (44 contre la [[lutte]], 46 contre les [[croc-en-jambe|crocs-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Enchaînement]], [[Frappe décisive]], [[Lutte supérieure]], [[Science du critique]] (morsure), [[Science de la frappe décisive]], [[Science de la lutte]], [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +19, [[Perception]] +28, [[Psychologie]] +25, [[Survie]] +21 ; **Modificateurs raciaux** +4 en [[Discrétion]]}
+{s:BDTexte|**Langues** commun, sylvestre ; *[[communication avec les animaux]]*}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts et toundras froides}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|** Morsure de l’âme (Sur).** Par une action simple, un amarok peut mordre directement l’âme d’une créature située dans son champ de vision. Une sombre image de la créature mordue apparaît à côté de l’amarok et celui-ci effectue son attaque de morsure comme si la créature était à portée de son allonge. Une morsure de l’âme inflige le même montant de dégâts qu’une attaque de morsure normale et elle ignore la solidité et la réduction des dégâts. Si son attaque de morsure est réussie, l’amarok peut tenter une [étreinte](./Étreinte.md) et un [croc-en-jambe](./croc-en-jambe.md) contre la cible. Quand un amarok effectue une [étreinte](./Étreinte.md) contre une créature de cette façon, cette créature ne se déplace pas, mais l’amarok lutte visiblement avec l’image sombre et la créature réelle semble lutter contre un adversaire invisible. Ce pouvoir ne fonctionne pas contre les créatures dénuées d’âme (comme la plupart des [créatures artificielles](./type Créature artificielle.md)) ou dont le corps et l’âme forment un tout (comme les [extérieurs](./type Extérieur.md)).}
+{s:BDTexte|** Morsure de l’âme (Sur).** Par une action simple, un amarok peut mordre directement l’âme d’une créature située dans son champ de vision. Une sombre image de la créature mordue apparaît à côté de l’amarok et celui-ci effectue son attaque de morsure comme si la créature était à portée de son allonge. Une morsure de l’âme inflige le même montant de dégâts qu’une attaque de morsure normale et elle ignore la solidité et la réduction des dégâts. Si son attaque de morsure est réussie, l’amarok peut tenter une [[étreinte]] et un [[croc-en-jambe]] contre la cible. Quand un amarok effectue une [[étreinte]] contre une créature de cette façon, cette créature ne se déplace pas, mais l’amarok lutte visiblement avec l’image sombre et la créature réelle semble lutter contre un adversaire invisible. Ce pouvoir ne fonctionne pas contre les créatures dénuées d’âme (comme la plupart des [[Type Créature artificielle|créatures artificielles]]) ou dont le corps et l’âme forment un tout (comme les [[Type Extérieur|extérieurs]]).}
 </div>
 </td><td><div>*Les yeux de cet énorme loup noir luisent d’une intelligence sournoise et ses crocs sont aussi brillants que la lumière d’une lune froide.*
 

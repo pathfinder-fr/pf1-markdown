@@ -11,7 +11,7 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun fuseau blanc perlé|{s:RSE}}
-**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 20 000 po (normale), 18 000 po (défectueuse), 3 400 po (ébréchée) ; **Poids** –
+**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 20 000 po (normale), 18 000 po (défectueuse), 3 400 po (ébréchée) ; **Poids** –
 (((Description)))
 - ***Normale.*** Régénère 1 points de dégâts toutes les 10 minutes.
 
@@ -22,7 +22,7 @@ Categories:
 - ***Ébréchée.*** Régénère 1 point de dégâts par heure.
 
 (((Pouvoir de résonance)))
-Bonus sacré de +1 aux [jets sauvegarde](./JDS.md) contre les effets de mort et les attaques qui s’appuient sur l’énergie négative.
+Bonus sacré de +1 aux [[jds|jets sauvegarde]] contre les effets de mort et les attaques qui s’appuient sur l’énergie négative.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être de niveau 12 ; **Coût** 10 000 po (normale), 9 000 po (défectueuse), 1 700 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], le créateur doit être de niveau 12 ; **Coût** 10 000 po (normale), 9 000 po (défectueuse), 1 700 po (ébréchée)
 </div>

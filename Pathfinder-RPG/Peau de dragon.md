@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#PEAUDEDRAGON
 ---
 
->>> [Matériaux spéciaux#PEAUDEDRAGON](./Matériaux spéciaux.md#PEAUDEDRAGON)
+>>> [[Matériaux spéciaux#PEAUDEDRAGON]]

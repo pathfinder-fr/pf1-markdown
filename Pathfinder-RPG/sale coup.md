@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Manœuvres offensives#SALECOUP
 ---
 
->>> [Manœuvres offensives#SALECOUP](./Manœuvres offensives.md#SALECOUP)
+>>> [[Manœuvres offensives#SALECOUP]]

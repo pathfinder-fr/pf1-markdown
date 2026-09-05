@@ -12,6 +12,6 @@ Categories:
 
 **Conditions.** Capacité à lancer des sorts.
 
-**Avantage.** Quand le personnage prend ce don, il choisit un type de créatures ou un sous-type d’humanoïde dans le tableau des [Ennemis jurés](./ennemi juré.md) du [rôdeur](./Rôdeur.md). Quand des créatures du type choisi tentent un jet de sauvegarde contre les sorts du personnage, le [DD](./DD.md) est augmenté d’un point. Si le personnage possède également le pouvoir de classe [ennemi juré](./ennemi juré.md) et que le type choisi fait déjà partie de ses ennemis jurés, le [DD](./DD.md) des jets de sauvegarde de ces créatures est augmenté de 2 points.
+**Avantage.** Quand le personnage prend ce don, il choisit un type de créatures ou un sous-type d’humanoïde dans le tableau des [[ennemi juré|Ennemis jurés]] du [[rôdeur]]. Quand des créatures du type choisi tentent un jet de sauvegarde contre les sorts du personnage, le [[DD]] est augmenté d’un point. Si le personnage possède également le pouvoir de classe [[ennemi juré]] et que le type choisi fait déjà partie de ses ennemis jurés, le [[DD]] des jets de sauvegarde de ces créatures est augmenté de 2 points.
 
 **Spécial.** Le personnage peut prendre ce don plusieurs fois, l’appliquant à chaque fois à un type de créatures différent.

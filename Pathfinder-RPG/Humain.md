@@ -40,18 +40,18 @@ En tant qu’individus, beaucoup d’humains, voire la majorité, sont ravis de 
 
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
-<div class="presentation arrondi ombre espaceliste">{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#17) Humain : Pour un humain avec une Intelligence basse, le nombre minimum de rangs de compétence par niveau est de 1 ou 2 ?***
+<div class="presentation arrondi ombre espaceliste">{s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#17|→]] Humain : Pour un humain avec une Intelligence basse, le nombre minimum de rangs de compétence par niveau est de 1 ou 2 ?***
 
-C’est 1, mais le personnage ajoute son rang bonus d’<u>[humain](./Humain.md)</u> ensuite, donc il termine avec 2 rangs au total.
+C’est 1, mais le personnage ajoute son rang bonus d’<u>[[Humain]]</u> ensuite, donc il termine avec 2 rangs au total.
 Par exemple, un humain guerrier 1 avec Int 6 devrait commencer avec 2 rangs, ajouter le -2 de son malus d’Int (pour un total de 0 rangs), appliquer la règle du « minimum 1 » (pour un total ajusté de 1 rang), puis ajouter 1 rang d’humain (pour un total de 2 rangs).
 
 Autrement dit, un humain devrait toujours terminer avec plus de rangs de compétence qu’un autre personnage équivalent d’une race différente.}
-- **+2 à une valeur de caractéristique.** Lors de leur création, les humains gagnent un bonus de +2 à la valeur de [caractéristique](./Caractéristiques.md) de leur choix, afin de représenter leur diversité.
-- **Taille M.** Les humains sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni malus ni bonus liés à la taille.
-- **Vitesse normale.** Les humains ont une [vitesse de base](./VD.md) de 9 mètres.
-- **Don supplémentaire.** Les humains choisissent un [don](./Dons.md) supplémentaire au niveau 1.
-- **Compétent.** Les humains gagnent un [rang de compétence](./Compétences.md#ACQUERIR) supplémentaire au niveau 1 et un de plus à chaque fois qu’ils prennent un niveau.
-- **Langues.** Les humains commencent le jeu en parlant le commun et leur langue ethnique. Les humains dont la langue ethnique est le commun (ou le taldorien, dans les cas des cheliaxiens ou des taldoriens) ne recoivent pas de langue ethnique supplémentaire. Ceux qui possèdent une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues de leur choix (sauf les langues secrètes comme celle des [druides](./Druide.md#LANGUESSUPPLEMENTAIRES)).
+- **+2 à une valeur de caractéristique.** Lors de leur création, les humains gagnent un bonus de +2 à la valeur de [[Caractéristiques|caractéristique]] de leur choix, afin de représenter leur diversité.
+- **Taille M.** Les humains sont des créatures de [[taille M]] qui ne reçoivent ni malus ni bonus liés à la taille.
+- **Vitesse normale.** Les humains ont une [[VD|vitesse de base]] de 9 mètres.
+- **Don supplémentaire.** Les humains choisissent un [[Dons|don]] supplémentaire au niveau 1.
+- **Compétent.** Les humains gagnent un [[Compétences#ACQUERIR|rang de compétence]] supplémentaire au niveau 1 et un de plus à chaque fois qu’ils prennent un niveau.
+- **Langues.** Les humains commencent le jeu en parlant le commun et leur langue ethnique. Les humains dont la langue ethnique est le commun (ou le taldorien, dans les cas des cheliaxiens ou des taldoriens) ne recoivent pas de langue ethnique supplémentaire. Ceux qui possèdent une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues de leur choix (sauf les langues secrètes comme celle des [[Druide#LANGUESSUPPLEMENTAIRES|druides]]).
 
 </div>
 
@@ -60,39 +60,39 @@ Autrement dit, un humain devrait toujours terminer avec plus de rangs de compét
 Les humains ont des caractéristiques variées et une grande faculté d’adaptation. Les règles suivantes reflètent cette flexibilité et conviennent à n’importe quel personnage humain. Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux humains standard mais consultez d’abord votre MJ.
 
 <u>*Remplace « +2 à une valeur de caractéristique », « compétent » et « don supplémentaire » :*</u>
-- **Double talent.** Certains humains possèdent un don inné pour optimiser leurs capacités naturelles. Ils choisissent deux [caractéristiques](./caractéristique.md) et gagnent un bonus racial de +2 pour chacune. Ce trait remplace le bonus racial de +2 à une caractéristique, le don supplémentaire et le trait compétent.
+- **Double talent.** Certains humains possèdent un don inné pour optimiser leurs capacités naturelles. Ils choisissent deux [[caractéristique|caractéristiques]] et gagnent un bonus racial de +2 pour chacune. Ce trait remplace le bonus racial de +2 à une caractéristique, le don supplémentaire et le trait compétent.
 
 <u>*Remplace « compétent » :*</u>
-- {s:cs}{s:ISR}**Assidu.** Les humains sont connus dans la mer Intérieure pour leur dynamisme et leur éthique du travail. Les humains avec ce trait racial bénéficient d'un bonus racial de +2 aux tests de [concentration](./concentration.md) ainsi qu'aux tests d'une compétence d'[Artisanat](./Artisanat.md) ou de [Profession](./Profession.md) au choix. Ce trait racial remplace compétent.
-- {s:cs}{s:ISR}**Attachement social.** Certaines sociétés humaines fonctionnent sur des réseaux complexes de faveurs et de loyautés que leurs membres les plus rusés peuvent exploiter avec une certaine aisance. Ces humains bénéficient d'un bonus racial de +2 aux tests de [Diplomatie](./Diplomatie.md) ainsi qu'à tous les tests de compétence visant à recruter des membres et des équipes pour une organisation. Ils bénéficient également d'un bonus racial de +1 à leur valeur de prestige (s'ils obtiennent le don [Prestige](./Prestige.md)). Ce trait racial remplace compétent.
-- {s:cs}{s:ISR}**Chasseur expérimenté.** Les membres de certaines cultures humaines sont entraînés très jeunes à trouver et suivre les pistes du gibier tout en cachant les preuves de leur propre passage. Ces humains bénéficient d'un bonus racial de +2 aux tests de [Discrétion](./Discrétion.md) et de [Survie](./Survie.md), qui deviennent des compétences de classe pour eux. Ce trait racial remplace compétent.
-- **Cœur des bas-fonds.** Les humains qui survivent dans les bas-fonds des grandes villes sont vifs et rusés. Ils gagnent un bonus racial de +2 aux tests d’[Escamotage](./Escamotage.md) et de [Discrétion](./Discrétion.md), ainsi qu'un bonus racial de +4 aux tests de [Survie](./Survie.md) en milieu urbain et souterrain. De plus, quand ils font un [jet de sauvegarde](./JDS.md) contre une [maladie](./Maladies.md), ils lancent deux fois le dé et conservent le meilleur résultat. Ce trait racial remplace compétent.
-- **Cœur des étendues sauvages.** Les humains nés dans la nature apprennent à la dure que seuls les forts survivent. Ils gagnent un bonus racial égal à la moitié de leur niveau de personnage aux tests de [Survie](./Survie.md) et un bonus racial de +5 aux tests de [Constitution](./Constitution.md) pour se [stabiliser](./Blessures et mort.md#STABLE) quand ils sont [mourants](./Mourant.md). Ils ajoutent la moitié de leur niveau à leur valeur de Constitution quand ils déterminent le montant de points de vie négatifs qui permet de les [tuer](./Mort.md). Ce trait racial remplace compétent.
-- **Cœur des montagnes.** Les humains nés dans les montagnes savent gérer les hauteurs et les précipices. Ils gagnent un bonus racial de +2 aux tests d’[Escalade](./Escalade.md) ainsi qu'aux tests d’[Acrobaties](./Acrobaties.md) pour se déplacer sur une surface étroite ou inégale. De plus, on considère qu’ils sont [acclimatés à l’altitude](./Aventures en extérieur.md#ALTITUDE). Ce trait racial remplace compétent.
-- **Cœur de la mer.** La mer attire toujours les humains nés près d’elle. Ils gagnent un bonus racial de +2 aux tests de [Profession](./Profession.md) (marin) et de [Natation](./Natation.md) et considèrent toujours ces deux compétences comme des compétences de classe. Ils oeuvent [retenir leur souffle](./Dangers naturels.md#ASPHYXIE) deux fois plus longtemps que la normale et, s’ils sont lanceurs de sorts, bénéficient d'un bonus racial de +4 aux tests de [concentration](./concentration.md) pour lancer des sorts [sous l’eau](./Milieu aquatique.md). Ce trait racial remplace compétent.
-- **Cœur des neiges.** Les humains nés sous les climats glacés considèrent le [froid](./Dangers naturels.md#FROID) comme une catégorie moins sévère qu’en réalité. Ils gagnent un bonus racial de +2 aux jets de [Vigueur](./Vigueur.md) contre les effets liés au climat froid, aux tests et aux jets de sauvegarde pour éviter de glisser et de tomber, ainsi qu'au [DMD](./DMD.md) contre les manoeuvres de [croc-en-jambe](./croc-en-jambe.md). Ce bonus s’applique aux tests d’[Acrobaties](./Acrobaties.md) et d’[Escalade](./Escalade.md) sur un terrain glissant. Ce trait racial remplace compétent.
-- **Cœur des plaines.** Les humains nés dans les zones rurales sont habitués à travailler dur. Ils gagnent un bonus racial égal à la moitié de leur niveau de personnage dans une compétence d’[Artisanat](./Artisanat.md) ou de [Profession](./Profession.md). Une fois par jour, ils peuvent ignorer un effet qui devrait les [fatiguer](./Fatigué.md) ou les [épuiser](./Épuisé.md). Ce trait racial remplace compétent.
-- **Cœur des rues.** Les humains qui vivent dans les villes très peuplées savent utiliser la foule. Ils gagnent un bonus racial de +1 aux jets de [Réflexes](./Réflexes.md) et un bonus d’esquive de +1 à la [CA](./CA.md) quand ils sont adjacents à deux alliés ou plus. Ils ne considèrent pas la foule comme un [terrain difficile](./terrain difficile.md). Ce trait racial remplace compétent.
-- **Cœur du soleil.** Les humains nés sous un climat tropical considèrent la [chaleur](./Dangers naturels.md#CHALEUR) comme une catégorie moins sévère qu’en réalité. Ils gagnent un bonus racial de +2 aux jets de [Vigueur](./Vigueur.md) contre les effets liés au climat chaud et contre les pouvoirs de [poison](./Poison (capacité).md) et de [distraction](./Distraction (capacité).md) des [nuées](./sous-type nuée.md) et des [vermines](./type Vermine.md). Ce trait racial remplace compétent.
-- {s:cs}{s:ISR}**Éducation générale.** Les humains élevés par des enseignants compétents s'appuient sur les vastes connaissances acquises au cours de siècles de civilisation. Ils considèrent toutes les compétences de [Connaissances](./Connaissances.md) comme des compétences de classe, et bénéficient d'un bonus racial de +1 aux tests de compétence de chaque compétence de Connaissances ajoutée comme compétence de classe par leurs niveaux de classe. Ce trait racial remplace compétent.
-- {s:cs}{s:ISR}**Grand voyageur.** Les humains maintiennent les plus grandes routes commerciales entre Golarion et les civilisations les plus éloigner, ce qui leur permet d'être confrontés à énormément de cultures. Les humains avec ce trait racial bénéficient d'un bonus racial de +2 aux tests de [Survie](./Survie.md) pour éviter de se perdre, aux tests de [Connaissances](./Connaissances.md) (folklore local) et aux tests de [Connaissances](./Connaissances.md) (géographie). Chaque fois que ces humains investissent un rang en [Linguistique](./Linguistique.md), ils apprennent deux langues plutôt qu'une seule. Ce trait racial remplace compétent.
-- {s:cs}{s:ISR}**Innovant.** Les humains ont façonné le visage de Golarion grâce à leur nature inventive. Les humains avec ce trait racial bénéficient d'un bonus racial de +2 aux tests d'[Art de la magie](./Art de la magie.md) et de [Connaissances](./Connaissances.md) (mystères) pour rechercher des sorts de façon indépendante, pour créer des objets magiques qu'ils n'ont jamais vu auparavant, et pour identifier les effets magiques uniques. Ils bénéficient également d'un bonus racial de +2 aux tests de compétence basés sur le [Charisme](./Charisme.md) pour convaincre les autres d'adopter une nouvelle idéologie ou de faire avancer la cause du progrès et des découvertes. Ce trait racial remplace compétent.
-- **Langue dorée.** Les humains sont doués pour manipuler les gens avec subtilité et mettre même leurs pires ennemis à l’aise. Ceux qui possèdent ce trait gagnent un bonus de +2 aux tests de [Diplomatie](./Diplomatie.md) et de [Bluff](./Bluff.md). De plus, quand ils usent de Diplomatie pour modifier l’attitude d’une créature, ils peuvent la faire évoluer de trois crans au lieu de deux. Ce trait remplace compétent.
-- {s:cs}{s:ISR}**Mémoire institutionnelle.** Les humains s'appuient sur leurs institutions pour se souvenir du passé lointain et pour préserver leurs propres mémoires dans un avenir lointain. Ils bénéficient d'un bonus racial de +4 aux tests de [Connaissances](./Connaissances.md) visant à répondre aux questions sur les organisations, les guildes ou les religions dont ils font partie, et ils peuvent effectuer de tels tests de compétence sans formation. Ce trait racial remplace compétent.
+- {s:cs}{s:ISR}**Assidu.** Les humains sont connus dans la mer Intérieure pour leur dynamisme et leur éthique du travail. Les humains avec ce trait racial bénéficient d'un bonus racial de +2 aux tests de [[concentration]] ainsi qu'aux tests d'une compétence d'[[Artisanat]] ou de [[Profession]] au choix. Ce trait racial remplace compétent.
+- {s:cs}{s:ISR}**Attachement social.** Certaines sociétés humaines fonctionnent sur des réseaux complexes de faveurs et de loyautés que leurs membres les plus rusés peuvent exploiter avec une certaine aisance. Ces humains bénéficient d'un bonus racial de +2 aux tests de [[Diplomatie]] ainsi qu'à tous les tests de compétence visant à recruter des membres et des équipes pour une organisation. Ils bénéficient également d'un bonus racial de +1 à leur valeur de prestige (s'ils obtiennent le don [[Prestige]]). Ce trait racial remplace compétent.
+- {s:cs}{s:ISR}**Chasseur expérimenté.** Les membres de certaines cultures humaines sont entraînés très jeunes à trouver et suivre les pistes du gibier tout en cachant les preuves de leur propre passage. Ces humains bénéficient d'un bonus racial de +2 aux tests de [[Discrétion]] et de [[Survie]], qui deviennent des compétences de classe pour eux. Ce trait racial remplace compétent.
+- **Cœur des bas-fonds.** Les humains qui survivent dans les bas-fonds des grandes villes sont vifs et rusés. Ils gagnent un bonus racial de +2 aux tests d’[[Escamotage]] et de [[Discrétion]], ainsi qu'un bonus racial de +4 aux tests de [[Survie]] en milieu urbain et souterrain. De plus, quand ils font un [[jds|jet de sauvegarde]] contre une [[Maladies|maladie]], ils lancent deux fois le dé et conservent le meilleur résultat. Ce trait racial remplace compétent.
+- **Cœur des étendues sauvages.** Les humains nés dans la nature apprennent à la dure que seuls les forts survivent. Ils gagnent un bonus racial égal à la moitié de leur niveau de personnage aux tests de [[Survie]] et un bonus racial de +5 aux tests de [[Constitution]] pour se [[Blessures et mort#STABLE|stabiliser]] quand ils sont [[mourant|mourants]]. Ils ajoutent la moitié de leur niveau à leur valeur de Constitution quand ils déterminent le montant de points de vie négatifs qui permet de les [[mort|tuer]]. Ce trait racial remplace compétent.
+- **Cœur des montagnes.** Les humains nés dans les montagnes savent gérer les hauteurs et les précipices. Ils gagnent un bonus racial de +2 aux tests d’[[Escalade]] ainsi qu'aux tests d’[[Acrobaties]] pour se déplacer sur une surface étroite ou inégale. De plus, on considère qu’ils sont [[Aventures en extérieur#ALTITUDE|acclimatés à l’altitude]]. Ce trait racial remplace compétent.
+- **Cœur de la mer.** La mer attire toujours les humains nés près d’elle. Ils gagnent un bonus racial de +2 aux tests de [[Profession]] (marin) et de [[Natation]] et considèrent toujours ces deux compétences comme des compétences de classe. Ils oeuvent [[Dangers naturels#ASPHYXIE|retenir leur souffle]] deux fois plus longtemps que la normale et, s’ils sont lanceurs de sorts, bénéficient d'un bonus racial de +4 aux tests de [[concentration]] pour lancer des sorts [[Milieu aquatique|sous l’eau]]. Ce trait racial remplace compétent.
+- **Cœur des neiges.** Les humains nés sous les climats glacés considèrent le [[Dangers naturels#FROID|froid]] comme une catégorie moins sévère qu’en réalité. Ils gagnent un bonus racial de +2 aux jets de [[Vigueur]] contre les effets liés au climat froid, aux tests et aux jets de sauvegarde pour éviter de glisser et de tomber, ainsi qu'au [[DMD]] contre les manoeuvres de [[croc-en-jambe]]. Ce bonus s’applique aux tests d’[[Acrobaties]] et d’[[Escalade]] sur un terrain glissant. Ce trait racial remplace compétent.
+- **Cœur des plaines.** Les humains nés dans les zones rurales sont habitués à travailler dur. Ils gagnent un bonus racial égal à la moitié de leur niveau de personnage dans une compétence d’[[Artisanat]] ou de [[Profession]]. Une fois par jour, ils peuvent ignorer un effet qui devrait les [[fatigué|fatiguer]] ou les [[épuisé|épuiser]]. Ce trait racial remplace compétent.
+- **Cœur des rues.** Les humains qui vivent dans les villes très peuplées savent utiliser la foule. Ils gagnent un bonus racial de +1 aux jets de [[Réflexes]] et un bonus d’esquive de +1 à la [[CA]] quand ils sont adjacents à deux alliés ou plus. Ils ne considèrent pas la foule comme un [[terrain difficile]]. Ce trait racial remplace compétent.
+- **Cœur du soleil.** Les humains nés sous un climat tropical considèrent la [[Dangers naturels#CHALEUR|chaleur]] comme une catégorie moins sévère qu’en réalité. Ils gagnent un bonus racial de +2 aux jets de [[Vigueur]] contre les effets liés au climat chaud et contre les pouvoirs de [[Poison (capacité)|poison]] et de [[Distraction (capacité)|distraction]] des [[sous-type nuée|nuées]] et des [[type Vermine|vermines]]. Ce trait racial remplace compétent.
+- {s:cs}{s:ISR}**Éducation générale.** Les humains élevés par des enseignants compétents s'appuient sur les vastes connaissances acquises au cours de siècles de civilisation. Ils considèrent toutes les compétences de [[Connaissances]] comme des compétences de classe, et bénéficient d'un bonus racial de +1 aux tests de compétence de chaque compétence de Connaissances ajoutée comme compétence de classe par leurs niveaux de classe. Ce trait racial remplace compétent.
+- {s:cs}{s:ISR}**Grand voyageur.** Les humains maintiennent les plus grandes routes commerciales entre Golarion et les civilisations les plus éloigner, ce qui leur permet d'être confrontés à énormément de cultures. Les humains avec ce trait racial bénéficient d'un bonus racial de +2 aux tests de [[Survie]] pour éviter de se perdre, aux tests de [[Connaissances]] (folklore local) et aux tests de [[Connaissances]] (géographie). Chaque fois que ces humains investissent un rang en [[Linguistique]], ils apprennent deux langues plutôt qu'une seule. Ce trait racial remplace compétent.
+- {s:cs}{s:ISR}**Innovant.** Les humains ont façonné le visage de Golarion grâce à leur nature inventive. Les humains avec ce trait racial bénéficient d'un bonus racial de +2 aux tests d'[[Art de la magie]] et de [[Connaissances]] (mystères) pour rechercher des sorts de façon indépendante, pour créer des objets magiques qu'ils n'ont jamais vu auparavant, et pour identifier les effets magiques uniques. Ils bénéficient également d'un bonus racial de +2 aux tests de compétence basés sur le [[Charisme]] pour convaincre les autres d'adopter une nouvelle idéologie ou de faire avancer la cause du progrès et des découvertes. Ce trait racial remplace compétent.
+- **Langue dorée.** Les humains sont doués pour manipuler les gens avec subtilité et mettre même leurs pires ennemis à l’aise. Ceux qui possèdent ce trait gagnent un bonus de +2 aux tests de [[Diplomatie]] et de [[Bluff]]. De plus, quand ils usent de Diplomatie pour modifier l’attitude d’une créature, ils peuvent la faire évoluer de trois crans au lieu de deux. Ce trait remplace compétent.
+- {s:cs}{s:ISR}**Mémoire institutionnelle.** Les humains s'appuient sur leurs institutions pour se souvenir du passé lointain et pour préserver leurs propres mémoires dans un avenir lointain. Ils bénéficient d'un bonus racial de +4 aux tests de [[Connaissances]] visant à répondre aux questions sur les organisations, les guildes ou les religions dont ils font partie, et ils peuvent effectuer de tels tests de compétence sans formation. Ce trait racial remplace compétent.
 
 <u>*Remplace « don supplémentaire » :*</u>
-- **À l’affût du talent.** Les humains ont une bonne intuition quand il s’agit de repérer un potentiel caché. Ils gagnent un bonus racial de +2 aux tests de [Psychologie](./Psychologie.md). De plus, s’ils acquièrent un [compagnon animal](./Compagnons animaux.md), une [monture](./Chevalier.md#MONTURE) liée, un [compagnon d’armes](./Prestige.md) ou un [familier](./Familiers.md), cette créature gagne un bonus de +2 à une valeur de caractéristique choisie par le personnage. Ce trait racial remplace le don supplémentaire de niveau 1.
-- {s:cs}{s:ISR}**Destin mortel.** Certains humains bâtissent des nations qui nient l'importance des dieux et de la magie divine, et ceux élevés à éviter l'influence divine (principalement la population de Bachuan, du Druma, du Rahadoum ou de Touvette) développent des techniques pour contrecarrer la magie divine. Ils bénéficient d'un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) contre les sorts et pouvoirs magiques [divins](./Magie divine.md), ainsi que les sorts et pouvoirs magiques des [aéons](./Aéon.md), des [psychopompes](./../Golarion/Psychopompes.md) et des [extérieurs](./type Extérieur.md) avec un sous-type d'alignement. Ce trait racial remplace le don supplémentaire des humains.
-- **Études spécialisées.** Tous les humains sont compétents, mais certains se spécialisent plutôt que de se diversifier. Aux niveaux 1, 8 et 16, ils reçoivent [Talent](./Talent.md) dans une compétence de leur choix, comme don supplémentaire. Ce trait racial remplace le don supplémentaire de niveau 1.
+- **À l’affût du talent.** Les humains ont une bonne intuition quand il s’agit de repérer un potentiel caché. Ils gagnent un bonus racial de +2 aux tests de [[Psychologie]]. De plus, s’ils acquièrent un [[Compagnons animaux|compagnon animal]], une [[Chevalier#MONTURE|monture]] liée, un [[Prestige|compagnon d’armes]] ou un [[familiers|familier]], cette créature gagne un bonus de +2 à une valeur de caractéristique choisie par le personnage. Ce trait racial remplace le don supplémentaire de niveau 1.
+- {s:cs}{s:ISR}**Destin mortel.** Certains humains bâtissent des nations qui nient l'importance des dieux et de la magie divine, et ceux élevés à éviter l'influence divine (principalement la population de Bachuan, du Druma, du Rahadoum ou de Touvette) développent des techniques pour contrecarrer la magie divine. Ils bénéficient d'un bonus racial de +2 aux [[jds|jets de sauvegarde]] contre les sorts et pouvoirs magiques [[Magie divine|divins]], ainsi que les sorts et pouvoirs magiques des [[Aéon|aéons]], des [[Psychopompes]] et des [[type Extérieur|extérieurs]] avec un sous-type d'alignement. Ce trait racial remplace le don supplémentaire des humains.
+- **Études spécialisées.** Tous les humains sont compétents, mais certains se spécialisent plutôt que de se diversifier. Aux niveaux 1, 8 et 16, ils reçoivent [[Talent]] dans une compétence de leur choix, comme don supplémentaire. Ce trait racial remplace le don supplémentaire de niveau 1.
 - **Héritage mixte.** Souvent, il faut plusieurs caractéristiques pour définir une civilisation humaine. Un humain qui possède ce trait a droit à un deuxième trait racial « cœur de. ». Ce trait remplace le don supplémentaire de niveau 1.
-- **Héroïque.** Certains humains sont des héros nés. Dans les campagnes qui utilisent le système de [points héroïques](./Points héroïques.md), ils gagnent 2 points héroïques au lieu de 1 à chaque fois qu’ils montent d’un niveau. S’ils prennent le don [Étoffe des héros](./Étoffe des héros.md), ils gagnent 3 points héroïques par niveau au lieu de 2. Ce trait remplace le don supplémentaire de niveau 1.
-- {s:cs}{s:ISR}**Lucidité.** Les humains élevés dans des traditions monastiques ou des communautés qui encouragent la pleine conscience semblent écarter de nombreux dangers plus facilement que les autres humains. Ils bénéfciient d'un bonus racial de +1 aux [jets de sauvegarde](./JDS.md) et aux tests de [concentration](./concentration.md). Ce trait racial remplace le don supplémentaire des humains.
-- {s:cs}{s:ISR}**Magie imparable.** Les humains issus de civilisations fondées sur une forme de magie avancée, comme le Geb ou le Nex, sont éduqués à diverses méthodes pour atteindre leurs objectifs magiques. Ils bénéficient d'un bonus racial de +2 aux tests de [niveau de lanceur de sorts](./NLS.md) pour vaincre la [résistance à la magie](./RM.md). Ce trait racial remplace le don supplémentaire des humains.
-- **Parents adoptifs.** Il arrive que des enfants humains abandonnés se fassent adopter par une autre race. Choisissez une race humanoïde qui ne soit pas de sous-type [humain](./sous-type humain.md). Quand le personnage commence le jeu, il parle les [langues](./Linguistique.md) de cette race et possède son trait racial armes familières (le cas échéant). Si la race choisie ne possède pas ce trait, le personnage gagne [Talent](./Talent.md) ou [Arme de prédilection](./Arme de prédilection.md) comme don supplémentaire, en fonction de ce qui convient le mieux à la race adoptive. Ce trait racial remplace le don supplémentaire de niveau 1.
-- {s:cs}{s:ISR}**Tradition militaire.** Plusieurs cultures humaines élèvent leurs enfants (ou ceux d'une certaine classe sociale) à servir l'armée ou à se défendre par la force. Ils sont formés au maniement d'une à deux [arme(s) de guerre](./arme de guerre.md) ou [exotique(s)](./arme exotique.md) appropriée(s) à leur culture. Ce trait racial remplace le don supplémentaire des humains.
+- **Héroïque.** Certains humains sont des héros nés. Dans les campagnes qui utilisent le système de [[points héroïques]], ils gagnent 2 points héroïques au lieu de 1 à chaque fois qu’ils montent d’un niveau. S’ils prennent le don [[Étoffe des héros]], ils gagnent 3 points héroïques par niveau au lieu de 2. Ce trait remplace le don supplémentaire de niveau 1.
+- {s:cs}{s:ISR}**Lucidité.** Les humains élevés dans des traditions monastiques ou des communautés qui encouragent la pleine conscience semblent écarter de nombreux dangers plus facilement que les autres humains. Ils bénéfciient d'un bonus racial de +1 aux [[jds|jets de sauvegarde]] et aux tests de [[concentration]]. Ce trait racial remplace le don supplémentaire des humains.
+- {s:cs}{s:ISR}**Magie imparable.** Les humains issus de civilisations fondées sur une forme de magie avancée, comme le Geb ou le Nex, sont éduqués à diverses méthodes pour atteindre leurs objectifs magiques. Ils bénéficient d'un bonus racial de +2 aux tests de [[NLS|niveau de lanceur de sorts]] pour vaincre la [[RM|résistance à la magie]]. Ce trait racial remplace le don supplémentaire des humains.
+- **Parents adoptifs.** Il arrive que des enfants humains abandonnés se fassent adopter par une autre race. Choisissez une race humanoïde qui ne soit pas de sous-type [[sous-type humain|humain]]. Quand le personnage commence le jeu, il parle les [[Linguistique|langues]] de cette race et possède son trait racial armes familières (le cas échéant). Si la race choisie ne possède pas ce trait, le personnage gagne [[Talent]] ou [[Arme de prédilection]] comme don supplémentaire, en fonction de ce qui convient le mieux à la race adoptive. Ce trait racial remplace le don supplémentaire de niveau 1.
+- {s:cs}{s:ISR}**Tradition militaire.** Plusieurs cultures humaines élèvent leurs enfants (ou ceux d'une certaine classe sociale) à servir l'armée ou à se défendre par la force. Ils sont formés au maniement d'une à deux [[arme de guerre|arme(s) de guerre]] ou [[arme exotique|exotique(s)]] appropriée(s) à leur culture. Ce trait racial remplace le don supplémentaire des humains.
 
 <u>*Remplace « langues » :*</u>
-- {s:cs}{s:ISR}**Tribal.** De nombreux humains se rassemblent naturellement en cliques et en tribus, et ces humains travaillent exceptionnellement bien avec ceux qu'ils considèrent comme des membres de leur tribu. Ces humains bénéficient d'un bouns racial de +2 aux [jets d'attaque](./jet dattaque.md) et aux tests de [compétence](./Compétences.md) lorsqu'ils utilisent l'action [aider quelqu'un](./aider qqn.md) au profit d'un humain de la même éthnie. Les humains avec ce trait racial doivent être issus d'une éthnie qui possède sa propre langue distincte du commun, et ils commencent le jeu en ne parlant que cette langue ; une valeur d'[Intelligence](./Intelligence.md) élevée ne leur permet d'apprendre d'autres langues que dans cette liste réduite : commun, géant, gobelin et halfelin. Ce trait racial modifie la langue de départ et les langues supplémentaires des humains.
+- {s:cs}{s:ISR}**Tribal.** De nombreux humains se rassemblent naturellement en cliques et en tribus, et ces humains travaillent exceptionnellement bien avec ceux qu'ils considèrent comme des membres de leur tribu. Ces humains bénéficient d'un bouns racial de +2 aux [[jet dattaque|jets d'attaque]] et aux tests de [[Compétences|compétence]] lorsqu'ils utilisent l'action [[aider qqn|aider quelqu'un]] au profit d'un humain de la même éthnie. Les humains avec ce trait racial doivent être issus d'une éthnie qui possède sa propre langue distincte du commun, et ils commencent le jeu en ne parlant que cette langue ; une valeur d'[[Intelligence]] élevée ne leur permet d'apprendre d'autres langues que dans cette liste réduite : commun, géant, gobelin et halfelin. Ce trait racial modifie la langue de départ et les langues supplémentaires des humains.
 
 #### Sous-types raciaux
 Vous pouvez combiner plusieurs traits raciaux alternatifs pour créer une sous-race humaine ou une variante raciale, comme suit.
@@ -105,7 +105,7 @@ Vous pouvez combiner plusieurs traits raciaux alternatifs pour créer une sous-r
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -118,96 +118,96 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:AO}**Les humains occultes.** Sans véritables traditions sur lesquelles baser leur compréhension de l’occulte, les humains dotés de talents psychiques rejoignent souvent des cultes étranges pour développer leur don. D’autres se plongent seuls dans l’étude, rassemblant des écrits à la véracité discutable sur divers sujets occultes. Un grand nombre d’humains sont fascinés par le thème occulte même s’ils ne s’avèrent pas particulièrement sensibles aux phénomènes psychiques et ils peuvent rapidement respecter et suivre quiconque maîtrise même le plus simple des pouvoirs de magie psychique.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[Alchimiste](./Alchimiste.md).** Ajouter une formule d’[extrait](./Alchimiste.md#EXTRAITS) issue de la [liste des formules d’alchimiste](./Liste des formules dalchimiste.md) au livre de formules du personnage. Cette formule doit être d’au moins un niveau de moins que la formule la plus puissante qu’il connaît.
+{s:MR}{s:APG}**[[Alchimiste]].** Ajouter une formule d’[[alchimiste#EXTRAITS|extrait]] issue de la [[liste des formules dalchimiste|liste des formules d’alchimiste]] au livre de formules du personnage. Cette formule doit être d’au moins un niveau de moins que la formule la plus puissante qu’il connaît.
 Certains les considèrent parfois comme des excentriques ou des amateurs touchant à des arts dangereux, mais les aptitudes pratiques des alchimistes humains leur permettent toujours de trouver un emploi parfois à bonne distance de leur employeur.
 
-{s:MCA}**[Arcaniste](./Arcaniste.md).** Ajout d’un sort de la [liste de l’arcaniste](./Liste des sorts densorceleursmagiciens.md) au grimoire de l’arcaniste. Ce sort doit être d’au moins un niveau de moins que le sort de plus haut niveau de l’arcaniste.
+{s:MCA}**[[Arcaniste]].** Ajout d’un sort de la [[Liste des sorts densorceleursmagiciens|liste de l’arcaniste]] au grimoire de l’arcaniste. Ce sort doit être d’au moins un niveau de moins que le sort de plus haut niveau de l’arcaniste.
 
-{s:MR}{s:APG}**[Barbare](./Barbare.md).** Ajouter un bonus de +1/2 au bonus de [sens des pièges](./Barbare.md#SENSDESPIEGES) et +1/3 au bonus donné par le pouvoir de rage [Superstition](./Pouvoirs de rage.md#SUPERSTITION).
-Des jungles torrides aux steppes désertiques, les [barbares](./Barbare.md) évitent la société « civilisée » et gagnent l’estime des autres grâce à leur robustesse, leur assurance sans faille et leurs prouesses impressionnantes. Mais, même dans ces cultures brutales, l’inventivité de la race humaine fait des merveilles : elle  pousse les [barbares](./Barbare.md) humains à créer et à apprendre à manipuler toute une variété d’armes et de styles de combat peut-être primitifs mais néanmoins dangereux.
+{s:MR}{s:APG}**[[Barbare]].** Ajouter un bonus de +1/2 au bonus de [[barbare#SENSDESPIEGES|sens des pièges]] et +1/3 au bonus donné par le pouvoir de rage [[Pouvoirs de rage#SUPERSTITION|Superstition]].
+Des jungles torrides aux steppes désertiques, les [[barbare|barbares]] évitent la société « civilisée » et gagnent l’estime des autres grâce à leur robustesse, leur assurance sans faille et leurs prouesses impressionnantes. Mais, même dans ces cultures brutales, l’inventivité de la race humaine fait des merveilles : elle  pousse les [[barbare|barbares]] humains à créer et à apprendre à manipuler toute une variété d’armes et de styles de combat peut-être primitifs mais néanmoins dangereux.
 
-{s:MR}{s:APG}**[Barde](./Barde.md).** Le barde apprend un sort de [la liste de bardes](./Liste des sorts de bardes.md) de plus. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Barde]].** Le barde apprend un sort de [[liste des sorts de bardes|la liste de bardes]] de plus. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
 Les bardes humains possèdent un vaste éventail de talents artistiques qu’ils expriment de manière plutôt libre. Ils sont souvent extrêmement curieux et collectionnent les histoires et les récits afin de forger leur propre légende tout en racontant les aventures des autres.
 
-{s:MCA}**[Bretteur](./Bretteur.md).** Augmente le total des points de [panache](./Bretteur.md#PANACHE) du bretteur de 1/4.
+{s:MCA}**[[Bretteur]].** Augmente le total des points de [[bretteur#PANACHE|panache]] du bretteur de 1/4.
 
-{s:MCA}**[Chaman](./Chaman.md).** Ajout d’un sort de la [liste de prêtre](./Liste des sorts de prêtres.md) ne se trouvant pas sur la liste du chaman à la liste des sorts connus de celui-ci. Ce sort doit être d’au moins un niveau de moins que le sort de plus haut niveau qu’il connaît.
+{s:MCA}**[[Chaman]].** Ajout d’un sort de la [[Liste des sorts de prêtres|liste de prêtre]] ne se trouvant pas sur la liste du chaman à la liste des sorts connus de celui-ci. Ce sort doit être d’au moins un niveau de moins que le sort de plus haut niveau qu’il connaît.
 
-{s:MCA}**[Chasseur](./Chasseur.md).** Le [compagnon animal](./compagnon animal.md) gagne 1 [rang de compétence](./Compétences.md#ACQUERIR). Si le chasseur le remplace, le nouveau compagnon bénéficie aussi de ce bonus.
+{s:MCA}**[[Chasseur]].** Le [[compagnon animal]] gagne 1 [[Compétences#ACQUERIR|rang de compétence]]. Si le chasseur le remplace, le nouveau compagnon bénéficie aussi de ce bonus.
 
-{s:MR}{s:APG}**[Chevalier](./Chevalier.md).** Ajouter +1/4 au bonus de [bannière](./Chevalier.md#BANNIERE) du chevalier.
+{s:MR}{s:APG}**[[Chevalier]].** Ajouter +1/4 au bonus de [[Chevalier#BANNIERE|bannière]] du chevalier.
 Les humains constituent la majeure partie de la plupart des ordres de chevalerie. Ils combinent les bonnes manières de l’aristocratie avec la dévotion au service de leur seigneur et de leur idéal chevaleresque afin d’obtenir l’estime des gens du peuple et des nobles.
 
-{s:AO}**[Cinétiste](./Cinétiste.md).** Le personnage acquiert 1/6 du don [Talent sauvage supplémentaire](./Talent sauvage supplémentaire.md).
+{s:AO}**[[Cinétiste]].** Le personnage acquiert 1/6 du don [[Talent sauvage supplémentaire]].
 
-{s:MR}{s:APG}**[Conjurateur](./Conjurateur.md).** Ajouter +1 [point de vie](./pv.md) ou +1 [rang de compétence](./Compétences.md#ACQUERIR) à l’[eidolon](./Conjurateur.md#EIDOLON) du conjurateur.
-Les conjurateurs humains façonnent la vie et dirigent d’une simple parole des créatures terrifiantes. Ils laissent libre cours aux pouvoirs de la création. Les [eidolons](./eidolon.md) qu’ils contrôlent peuvent prendre des formes très variées. Ils incarnent souvent les espoirs les plus profonds ou les cauchemars les plus sombres de leur maître.
+{s:MR}{s:APG}**[[Conjurateur]].** Ajouter +1 [[pv|point de vie]] ou +1 [[Compétences#ACQUERIR|rang de compétence]] à l’[[Conjurateur#EIDOLON|eidolon]] du conjurateur.
+Les conjurateurs humains façonnent la vie et dirigent d’une simple parole des créatures terrifiantes. Ils laissent libre cours aux pouvoirs de la création. Les [[eidolon|eidolons]] qu’ils contrôlent peuvent prendre des formes très variées. Ils incarnent souvent les espoirs les plus profonds ou les cauchemars les plus sombres de leur maître.
 
-{s:MR}{s:APG}**[Druide](./Druide.md).** Ajouter +1/2 aux tests de [Diplomatie](./Diplomatie.md) et d’[Intimidation](./Intimidation.md) visant à modifier l’attitude d’une créature.
+{s:MR}{s:APG}**[[Druide]].** Ajouter +1/2 aux tests de [[Diplomatie]] et d’[[Intimidation]] visant à modifier l’attitude d’une créature.
 De nombreux humains considèrent le druidisme comme un « culte ancien »,  aussi éternel et vaste que le monde lui-même. Certains voient les druides comme de simples ermites dégénérés qui s’opposent au progrès mais ceux-ci suscitent bien souvent un certain sentiment de respect, de méfiance et de crainte.
 
-{s:MCA}**[Enquêteur](./Enquêteur.md).** L’enquêteur ajoute la formule d’un extrait issu de la [liste de l’enquêteur](./Liste des formules dalchimiste.md) à son livre de formules. Elle doit être d’au moins un niveau de moins que la formule de plus haut niveau qu’il connaît.
+{s:MCA}**[[Enquêteur]].** L’enquêteur ajoute la formule d’un extrait issu de la [[liste des formules dalchimiste|liste de l’enquêteur]] à son livre de formules. Elle doit être d’au moins un niveau de moins que la formule de plus haut niveau qu’il connaît.
 
-{s:MR}{s:APG}**[Ensorceleur](./Ensorceleur.md).** Ajouter un sort connu issu de la [liste des sorts d’ensorceleur](./Liste des sorts densorceleursmagiciens.md). Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Ensorceleur]].** Ajouter un sort connu issu de la [[Liste des sorts densorceleursmagiciens|liste des sorts d’ensorceleur]]. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
 Grâce aux nombreux mélanges qu’on retrouve dans leurs arbres généalogiques, on trouve fréquemment des pouvoirs magiques latents chez les humains. Les ensorceleurs, qui sont considérés tantôt comme des aberrations, tantôt comme des merveilles de la nature, ne doivent bien souvent leur survie qu’à leur force de caractère.
 
-{s:MR}{s:APG}**[Guerrier](./Guerrier.md).** Ajouter +1 au [DMD](./DMD.md) du guerrier contre deux [manœuvres offensives](./Manœuvres offensives.md) choisies par le personnage.
+{s:MR}{s:APG}**[[Guerrier]].** Ajouter +1 au [[DMD]] du guerrier contre deux [[manœuvres offensives]] choisies par le personnage.
 On retrouve des guerriers humains dans toutes les professions, des voyageurs aux soldats en passant par les bretteurs et les boxeurs, mais aucun d’entre eux n’est à prendre à la légère.
 
-{s:AO}**[Hypnotiseur](./Hypnotiseur.md).** Le personnage augmente de 1/3 point son bonus d’[ego imposant](./Hypnotiseur.md#EGOIMPOSANT) (jusqu’à une augmentation maximale de +2).
+{s:AO}**[[Hypnotiseur]].** Le personnage augmente de 1/3 point son bonus d’[[hypnotiseur#EGOIMPOSANT|ego imposant]] (jusqu’à une augmentation maximale de +2).
 
-{s:MR}{s:APG}**[Inquisiteur](./Inquisiteur.md).** Ajouter un sort connu issu de la [liste de sorts d’inquisiteur](./Liste des sorts dinquisiteur.md). Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
-Si les humains peuvent avoir la foi et faire confiance, ils sont tout aussi susceptibles de faire preuve de paranoïa et de suspicion. Des ordres entiers d’[inquisiteurs](./Inquisiteur.md) quasiment tous humains sont devenus célèbres (pour le meilleur ou pour le pire) en réalisant des « purges » contre des créatures dangereuses ou en s’entêtant à mener des chasses aux sorcières.
+{s:MR}{s:APG}**[[Inquisiteur]].** Ajouter un sort connu issu de la [[liste des sorts dinquisiteur|liste de sorts d’inquisiteur]]. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
+Si les humains peuvent avoir la foi et faire confiance, ils sont tout aussi susceptibles de faire preuve de paranoïa et de suspicion. Des ordres entiers d’[[inquisiteur|inquisiteurs]] quasiment tous humains sont devenus célèbres (pour le meilleur ou pour le pire) en réalisant des « purges » contre des créatures dangereuses ou en s’entêtant à mener des chasses aux sorcières.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:cs}{s:UI}**[Justicier](./Justicier.md).** Augmente de +1/2 au bonus de [Déguisement](./Déguisement.md) de la capacité [apparence transparente](./Justicier.md#APPARENCETRANSPARENTE).
+{s:cs}{s:UI}**[[Justicier]].** Augmente de +1/2 au bonus de [[Déguisement]] de la capacité [[Justicier#APPARENCETRANSPARENTE|apparence transparente]].
 
-{s:MCA}**[Lutteur](./Lutteur.md).** Ajoute 1 au [DMD](./DMD.md) du lutteur pour résister à deux [manœuvres offensives](./Manœuvres offensives.md) de son choix.
+{s:MCA}**[[Lutteur]].** Ajoute 1 au [[DMD]] du lutteur pour résister à deux [[manœuvres offensives]] de son choix.
 
-{s:MR}{s:APG}**[Magicien](./Magicien.md).** Ajouter un sort issu de la [liste des sorts de magicien](./Liste des sorts densorceleursmagiciens.md) au [grimoire](./Magicien.md#GRIMOIRE) du magicien. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Magicien]].** Ajouter un sort issu de la [[liste des sorts densorceleursmagiciens|liste des sorts de magicien]] au [[magicien#GRIMOIRE|grimoire]] du magicien. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
 De nombreux humains désirent percer les secrets de la création et ont soif de pouvoir et de connaissances, ce qui pousse les magiciens humains à s’intéresser tant aux anciens mystères qu’aux nouvelles innovations en matière de magie. Les humains excellent tant dans l’apprentissage de chacune des écoles de sorts que dans l’étude globale de la magie.
 
-{s:MR}**[Magus](./Magus.md).** Le magus ajoute 1/4 de point à sa [réserve magique](./Magus.md#RESERVEMAGIQUE).
+{s:MR}**[[Magus]].** Le magus ajoute 1/4 de point à sa [[Magus#RESERVEMAGIQUE|réserve magique]].
 
-{s:AO}**[Médium](./Médium.md).** Quand il acquiert un [tabou](./Médium.md#TABOU), le médium peut utiliser l’[accès de puissance spirituelle](./Médium.md#ACCÈSDEPUISSANCESPIRITUELLE) sans subir d’[influence](./Médium.md#ESPRIT) 1/4 fois de plus par jour.
+{s:AO}**[[Médium]].** Quand il acquiert un [[médium#TABOU|tabou]], le médium peut utiliser l’[[médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle]] sans subir d’[[médium#ESPRIT|influence]] 1/4 fois de plus par jour.
 
-{s:MR}{s:APG}**[Moine](./Moine.md).** Ajouter +1/4 à la [réserve de ki](./Moine.md#RESERVEDEKI) du moine.
+{s:MR}{s:APG}**[[Moine]].** Ajouter +1/4 à la [[Moine#RESERVEDEKI|réserve de ki]] du moine.
 Les moines humains, qui recherchent la paix et la discipline parfaite, se tiennent souvent à l’écart de la société. Beaucoup les admirent mais seuls les plus dévoués possèdent assez de lucidité d’esprit et de sang froid pour maîtriser leurs techniques.
 
-{s:AO}**[Occultiste](./Occultiste.md).** Le personnage gagne 1/6 d’un nouveau [pouvoir de focalisation](./Occultiste.md#POUVOIRSDEFOCALISATION).
+{s:AO}**[[Occultiste]].** Le personnage gagne 1/6 d’un nouveau [[occultiste#POUVOIRSDEFOCALISATION|pouvoir de focalisation]].
 
-{s:MR}{s:APG}**[Oracle](./Oracle.md).** L’oracle apprend un [sort d’oracle](./Liste des sorts de prêtres.md) de plus. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Oracle]].** L’oracle apprend un [[liste des sorts de prêtres|sort d’oracle]] de plus. Ce sort doit être d’au moins un niveau de moins que le plus puissant qu’il connaît.
 Les oracles humains utilisent diverses méthodes religieuses pour faire connaître la nature de leur mystère et le regard qu’ils portent sur le monde. Pour accomplir leur art, ils font parfois appel à des agents choisis en fonction de vérités mystérieuses.
 
-{s:MR}{s:APG}**[Paladin](./Paladin.md).** Ajouter +1 à la [résistance](./Résistance (capacité).md) aux énergies du [paladin](./Paladin.md) pour un type d’énergie (maximum +10).
-Les humains qui aspirent à des idéaux héroïques, ceux qui désirent défendre leurs pairs de manière noble et ceux qui sont simplement exaltés par les valeurs de l’honneur et de la justice se tournent souvent vers la classe de [paladin](./Paladin.md). Bien qu’il s’agisse d’une voie difficile, qui se termine souvent par un sacrifice de soi, les [paladins](./Paladin.md) humains chargent toujours en première ligne lors de quasiment toutes les croisades à l’encontre des forces du mal.
+{s:MR}{s:APG}**[[Paladin]].** Ajouter +1 à la [[Résistance (capacité)|résistance]] aux énergies du [[paladin]] pour un type d’énergie (maximum +10).
+Les humains qui aspirent à des idéaux héroïques, ceux qui désirent défendre leurs pairs de manière noble et ceux qui sont simplement exaltés par les valeurs de l’honneur et de la justice se tournent souvent vers la classe de [[paladin]]. Bien qu’il s’agisse d’une voie difficile, qui se termine souvent par un sacrifice de soi, les [[paladin|paladins]] humains chargent toujours en première ligne lors de quasiment toutes les croisades à l’encontre des forces du mal.
 
-{s:MR}**[Pistolier](./Pistolier.md).** Le pistolier gagne 1/4 de point d’[audace](./Pistolier.md#AUDACE) de plus.
+{s:MR}**[[Pistolier]].** Le pistolier gagne 1/4 de point d’[[Pistolier#AUDACE|audace]] de plus.
 
-{s:MR}{s:APG}**[Prêtre](./Prêtre.md).** Ajouter +1 aux tests de [NLS](./NLS.md) visant à percer la [résistance à la magie](./RM.md) des [Extérieurs](./type Extérieur.md).
-Les humains croient facilement en des idéaux qui les dépassent et se rassemblent en des religions de toutes tailles. Ils développent souvent des connexions personnelles avec les [divinités](./../Golarion/Religions et philosophies.md) et incarnent les traits et les puissances qu’ils idéalisent.
+{s:MR}{s:APG}**[[Prêtre]].** Ajouter +1 aux tests de [[NLS]] visant à percer la [[RM|résistance à la magie]] des [[type extérieur|Extérieurs]].
+Les humains croient facilement en des idéaux qui les dépassent et se rassemblent en des religions de toutes tailles. Ils développent souvent des connexions personnelles avec les [[Golarion.religions et philosophies|divinités]] et incarnent les traits et les puissances qu’ils idéalisent.
 
-{s:MCA}**[Prêtre combattant](./Prêtre combattant.md).** Ajout de 1/6 d’un nouveau [don de combat](./Dons.md#DONCOMBAT) supplémentaire.
+{s:MCA}**[[Prêtre combattant]].** Ajout de 1/6 d’un nouveau [[Dons#DONCOMBAT|don de combat]] supplémentaire.
 
-{s:AO}**[Psychiste](./Psychiste.md).** Le personnage ajoute un sort de la [liste de sort de psychiste](./Sorts de psychiste.md) à son répertoire de sorts connus. Ce sort doit être au minimum, d’un niveau de moins que le niveau de sort de psychiste le plus élevé qu’il est capable de lancer.
+{s:AO}**[[Psychiste]].** Le personnage ajoute un sort de la [[Sorts de psychiste|liste de sort de psychiste]] à son répertoire de sorts connus. Ce sort doit être au minimum, d’un niveau de moins que le niveau de sort de psychiste le plus élevé qu’il est capable de lancer.
 
-{s:MR}{s:APG}**[Rôdeur](./Rôdeur.md).** Ajouter +1 [point de vie](./pv.md) ou +1 [rang de compétence](./Compétences.md#ACQUERIR) au [compagnon animal](./Compagnons animaux.md) du rôdeur. S’il change de compagnon, le nouveau bénéficie aussi de ces points supplémentaires.
-Les humains se donnent pour défi de vaincre toutes sortes de proies, ce qui conduit bon nombre d’entre eux à devenir des chasseurs expérimentés et des traqueurs de bêtes ou d’autres cibles encore plus dangereuses. Avec le temps, de nombreux [rôdeurs](./Rôdeur.md) humains en viennent à préférer la compagnie des animaux à celle des autres humains.
+{s:MR}{s:APG}**[[Rôdeur]].** Ajouter +1 [[pv|point de vie]] ou +1 [[Compétences#ACQUERIR|rang de compétence]] au [[compagnons animaux|compagnon animal]] du rôdeur. S’il change de compagnon, le nouveau bénéficie aussi de ces points supplémentaires.
+Les humains se donnent pour défi de vaincre toutes sortes de proies, ce qui conduit bon nombre d’entre eux à devenir des chasseurs expérimentés et des traqueurs de bêtes ou d’autres cibles encore plus dangereuses. Avec le temps, de nombreux [[rôdeur|rôdeurs]] humains en viennent à préférer la compagnie des animaux à celle des autres humains.
 
-{s:MR}{s:APG}**[Roublard](./Roublard.md).** L’humain obtient +1/6 d’un nouveau [talent](./Talents.md).
+{s:MR}{s:APG}**[[Roublard]].** L’humain obtient +1/6 d’un nouveau [[talents|talent]].
 Les roublards humains, à l’ambition souvent démesurée, viennent à bout de tous les obstacles pour obtenir ce qu’ils désirent. Qu’il s’agisse d’assassins sans scrupules ou de gentlemen cambrioleurs, rares sont ceux qui peuvent résister aux charmes et aux mensonges de ces roublards bien déterminés.
 
-{s:MCA}**[Sanguin](./Sanguin.md).** Augmente le nombre de rounds de [rage sanguine](./Sanguin.md#RAGESANGUINE) quotidiens de 1.
+{s:MCA}**[[Sanguin]].** Augmente le nombre de rounds de [[Sanguin#RAGESANGUINE|rage sanguine]] quotidiens de 1.
 
-{s:MCA}**[Scalde](./Scalde.md).** Ajout d’un sort de la [liste de scalde](./Liste des sorts de bardes.md) aux sorts connus de celui-ci. Ce sort doit être d’au moins un niveau de moins que le sort de plus niveau qu’il connaît.
+{s:MCA}**[[Scalde]].** Ajout d’un sort de la [[Liste des sorts de bardes|liste de scalde]] aux sorts connus de celui-ci. Ce sort doit être d’au moins un niveau de moins que le sort de plus niveau qu’il connaît.
 
-{s:MR}{s:APG}**[Sorcière](./Sorcière.md).** Ajouter un sort issu de la [liste des sorts de sorcière](./Liste des sorts de sorcière.md) au [familier](./Familiers.md) de la sorcière. Ce sort ne peut pas appartenir au plus haut niveau de sorts auquel la sorcière a accès. Si la sorcière vient à remplacer son familier, le nouveau familier connaît ces sorts en bonus.
+{s:MR}{s:APG}**[[Sorcière]].** Ajouter un sort issu de la [[liste des sorts de sorcière]] au [[familiers|familier]] de la sorcière. Ce sort ne peut pas appartenir au plus haut niveau de sorts auquel la sorcière a accès. Si la sorcière vient à remplacer son familier, le nouveau familier connaît ces sorts en bonus.
 Le désir de contrôle des humains sur le monde qui les entoure peut parfois les mener sur des voies mystérieuses et potentiellement dangereuses, comme celle de la sorcière recluse.
 
-{s:AO}**[Spirite](./Spirite.md).** Le personnage octroie un [rang de compétence](./Compétences.md#ACQUERIR) ou un [point de vie](./pv.md) à son [fantôme](./Fantômes (Spirite).md).
+{s:AO}**[[Spirite]].** Le personnage octroie un [[Compétences#ACQUERIR|rang de compétence]] ou un [[pv|point de vie]] à son [[Fantômes (Spirite)|fantôme]].
 
-{s:MCA}**[Tueur](./Tueur.md).** Ajout de 1/6 d’un nouveau [talent de tueur](./Talents (tueur).md).
+{s:MCA}**[[Tueur]].** Ajout de 1/6 d’un nouveau [[Talents (tueur)|talent de tueur]].
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -223,151 +223,151 @@ Voici les options accessibles aux humains, d’autres races adaptées peuvent s�
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Apprentissage rapide](./Apprentissage rapide.md) || <sup>MR</sup> || [Int](./Int.md) 13, [humain](./Humain.md) || +1 point de vie et +1 point de compétence à chaque montée de niveau dans la classe de prédilection
+| [[Apprentissage rapide]] || <sup>MR</sup> || [[Int]] 13, [[humain]] || +1 point de vie et +1 point de compétence à chaque montée de niveau dans la classe de prédilection
 |-
-| &emsp;[Improvisation](./Improvisation.md) || <sup>MR</sup> || [Int](./Int.md) 13, [Apprentissage rapide](./Apprentissage rapide.md), [humain](./Humain.md) || +2 aux tests de compétence sans rangs, les compétences qui nécessitent une formation peuvent être utilisés sans
+| &emsp;[[Improvisation]] || <sup>MR</sup> || [[Int]] 13, [[Apprentissage rapide]], [[humain]] || +2 aux tests de compétence sans rangs, les compétences qui nécessitent une formation peuvent être utilisés sans
 |-
-| &emsp;&emsp;[Science de l'improvisation](./Science de limprovisation.md) || <sup>MR</sup> || [Int](./Int.md) 13, [Apprentissage rapide](./Apprentissage rapide.md), [Improvisation](./Improvisation.md), [humain](./Humain.md) || Les pénalités de non-formation sont divisées par deux, les bonus d'Improvisation passe à +4
+| &emsp;&emsp;[[Science de limprovisation|Science de l'improvisation]] || <sup>MR</sup> || [[Int]] 13, [[Apprentissage rapide]], [[Improvisation]], [[humain]] || Les pénalités de non-formation sont divisées par deux, les bonus d'Improvisation passe à +4
 
 |- CLASS="premier"
-| [Barrage de styles](./Barrage de styles.md) || <sup>*ISR*</sup> || [BBA](./BBA.md) +1, [humain](./Humain.md) || Les alliés adjacents différents avec ce don obtiennent un bonus cumulatif de +1 (maximum +4) aux manœuvres offensives
+| [[Barrage de styles]] || <sup>*ISR*</sup> || [[BBA]] +1, [[humain]] || Les alliés adjacents différents avec ce don obtiennent un bonus cumulatif de +1 (maximum +4) aux manœuvres offensives
 
 |- CLASS="premier"
-| [Chance insolente](./Chance insolente.md) || <sup>MR</sup> || [Humain](./Humain.md) || 1 fois par jour, relance un 1 naturel
+| [[Chance insolente]] || <sup>MR</sup> || [[Humain]] || 1 fois par jour, relance un 1 naturel
 |-
-| &emsp;[Chance inexplicable](./Chance inexplicable.md) || <sup>MR</sup> || [Chance insolente](./Chance insolente.md), [humain](./Humain.md) || 1 fois par jour, +8 avant de faire un jet ou +4 après
+| &emsp;[[Chance inexplicable]] || <sup>MR</sup> || [[Chance insolente]], [[humain]] || 1 fois par jour, +8 avant de faire un jet ou +4 après
 |-
-| &emsp;&emsp;[Transmettre sa chance](./Transmettre sa chance.md) || <sup>MR</sup> || [Chance insolente](./Chance insolente.md), [Chance inexplicable](./Chance inexplicable.md), [humain](./Humain.md) || Gain d'une utilisation supplémentaire de Chance insolente, utilise Chance inexplicable au profit d'un allié
+| &emsp;&emsp;[[Transmettre sa chance]] || <sup>MR</sup> || [[Chance insolente]], [[Chance inexplicable]], [[humain]] || Gain d'une utilisation supplémentaire de Chance insolente, utilise Chance inexplicable au profit d'un allié
 
 |- CLASS="premier"
-| [Convergence magique élevée](./Convergence magique élevée.md) || <sup>*ISR*</sup> || N'importe quel [don de métamagie](./Dons.md#DONMETAMAGIE), 7 rangs en [Art de la magie](./Art de la magie.md), capacité à lancer des sorts de 2e niveau, [humain](./Humain.md) (garundi) || Applique spontanément des dons de métamagie sans dépenser d'emplacements de sorts supérieurs ou augmenter le temps d'incantation si des alliés se préparent à lancer le même sort
+| [[Convergence magique élevée]] || <sup>*ISR*</sup> || N'importe quel [[Dons#DONMETAMAGIE|don de métamagie]], 7 rangs en [[Art de la magie]], capacité à lancer des sorts de 2e niveau, [[humain]] (garundi) || Applique spontanément des dons de métamagie sans dépenser d'emplacements de sorts supérieurs ou augmenter le temps d'incantation si des alliés se préparent à lancer le même sort
 
 |- CLASS="premier"
-| [Critiques divers](./Critiques divers.md)* || <sup>MR</sup> || [Guerrier](./Guerrier.md) de niveau 11, [humain](./Humain.md) || 1 fois par jour, gagne un don de critique
+| [[Critiques divers]]* || <sup>MR</sup> || [[Guerrier]] de niveau 11, [[humain]] || 1 fois par jour, gagne un don de critique
 
 |- CLASS="premier"
-| [Curiosité intrépide](./Curiosité intrépide.md) || <sup>MR</sup> || [Cha](./Cha.md) 13, [humain](./Humain.md) || +1 aux jets de sauvegarde contre les effets d'émotion, nouveaux jets pour réduire un effet de peur d'un cran
+| [[Curiosité intrépide]] || <sup>MR</sup> || [[Cha]] 13, [[humain]] || +1 aux jets de sauvegarde contre les effets d'émotion, nouveaux jets pour réduire un effet de peur d'un cran
 |-
-| &emsp;[Assurance intimidante](./Assurance intimidante.md) || <sup>MR</sup> || [Cha](./Cha.md) 13, [Curiosité intrépide](./Curiosité intrépide.md), 5 rangs en [Intimidation](./Intimidation.md), [humain](./Humain.md) || +1 aux jets de sauvegarde contre les effets d'émotion, test d'Intimidation gratuit sur un critique confirmé
+| &emsp;[[Assurance intimidante]] || <sup>MR</sup> || [[Cha]] 13, [[Curiosité intrépide]], 5 rangs en [[Intimidation]], [[humain]] || +1 aux jets de sauvegarde contre les effets d'émotion, test d'Intimidation gratuit sur un critique confirmé
 |-
-| &emsp;[Destin intrépide](./Destin intrépide.md) || <sup>MR</sup> || [Cha](./Cha.md) 13, [Curiosité intrépide](./Curiosité intrépide.md), 10 rangs en [Intimidation](./Intimidation.md), [humain](./Humain.md) || +1 aux jets de sauvegarde contre les effets d'émotion, relance un 1 naturel 1 fois par jour et peut faire un test d'Intimidation gratuit si le nouveau jet est une réussite
+| &emsp;[[Destin intrépide]] || <sup>MR</sup> || [[Cha]] 13, [[Curiosité intrépide]], 10 rangs en [[Intimidation]], [[humain]] || +1 aux jets de sauvegarde contre les effets d'émotion, relance un 1 naturel 1 fois par jour et peut faire un test d'Intimidation gratuit si le nouveau jet est une réussite
 
 |- CLASS="premier"
-| [Éclectisme](./Éclectisme.md) || <sup>MJRA</sup> || [Humain](./Humain.md) || Gagne une classe de prédilection de plus
+| [[Éclectisme]] || <sup>MJRA</sup> || [[Humain]] || Gagne une classe de prédilection de plus
 
 |- CLASS="premier"
-| [Esprit unique](./Esprit unique.md) || <sup>*ISR*</sup> || [Vigilance](./Vigilance.md), 3 rangs en [Psychologie](./Psychologie.md), [humain](./Humain.md) (vudrain) || Évite les malus dus à l'état pris au dépourvu, aveuglé ou en combattant des ennemis invisibles si adjacent à un allié avec ce don
+| [[Esprit unique]] || <sup>*ISR*</sup> || [[Vigilance]], 3 rangs en [[Psychologie]], [[humain]] (vudrain) || Évite les malus dus à l'état pris au dépourvu, aveuglé ou en combattant des ennemis invisibles si adjacent à un allié avec ce don
 
 |- CLASS="premier"
-| [Grand veneur](./Grand veneur.md) || <sup>MR</sup> || 1 rang en [Dressage](./Dressage.md); capacité de classe [compagnon animal](./Chasseur.md#COMPAGNONANIMAL), [pacte divin (destrier)](./Paladin.md#PACTEDIVIN), ou [monture](./Chevalier.md#MONTURE); [humain](./Humain.md) || +2 aux tests de Dressage et de Connaissances (nature) avec l'animal choisi, augmente le niveau de 1 pour déterminer les capacités du compagnon animal
+| [[Grand veneur]] || <sup>MR</sup> || 1 rang en [[Dressage]]; capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]], [[Paladin#PACTEDIVIN|pacte divin (destrier)]], ou [[Chevalier#MONTURE|monture]]; [[humain]] || +2 aux tests de Dressage et de Connaissances (nature) avec l'animal choisi, augmente le niveau de 1 pour déterminer les capacités du compagnon animal
 
 |- CLASS="premier"
-| [Héritage racial](./Héritage racial.md) || <sup>MJRA</sup> || [Humain](./Humain.md) || Fonctionne comme un humain et un membre d’une autre race
+| [[Héritage racial]] || <sup>MJRA</sup> || [[Humain]] || Fonctionne comme un humain et un membre d’une autre race
 
 |- CLASS="premier"
-| [Lien du quah](./Lien du quah.md) || <sup>*ISR*</sup> || [Totem spirituel](./Totem spirituel.md), [humain](./Humain.md) (shoanti) || Double les avantages du don Totem spirituel lorsqu'un allié du même quah se trouve à 9 mètres ou moins
+| [[Lien du quah]] || <sup>*ISR*</sup> || [[Totem spirituel]], [[humain]] (shoanti) || Double les avantages du don Totem spirituel lorsqu'un allié du même quah se trouve à 9 mètres ou moins
 
 |- CLASS="premier"
-| [Loyal jusqu'à la mort](./Loyal jusquà la mort.md) || <sup>*ISR*</sup> || [Humain](./Humain.md) (tianais) || Devient la cible d'une attaque dirigée vers un allié adjacent qui possède ce don
+| [[Loyal jusquà la mort|Loyal jusqu'à la mort]] || <sup>*ISR*</sup> || [[Humain]] (tianais) || Devient la cible d'une attaque dirigée vers un allié adjacent qui possède ce don
 
 |- CLASS="premier"
-| [Opportuniste sans scrupule](./Opportuniste sans scrupule.md) || <sup>*ISR*</sup> || [Humain](./Humain.md) (chélaxien) || L'attaque d'opportunité réussie d'un allié qui possède ce don confère un bonus de +2 aux attaques contre le même ennemi pendant 1 round
+| [[Opportuniste sans scrupule]] || <sup>*ISR*</sup> || [[Humain]] (chélaxien) || L'attaque d'opportunité réussie d'un allié qui possède ce don confère un bonus de +2 aux attaques contre le même ennemi pendant 1 round
 
 |- CLASS="premier"
-| [Polyvalence martiale](./Polyvalence martiale.md)* || <sup>MR</sup> || [Guerrier](./Guerrier.md) de niveau 4, [humain](./Humain.md) || Un unique don de combat peut être appliqué à toutes les armes du même groupe
+| [[Polyvalence martiale]]* || <sup>MR</sup> || [[Guerrier]] de niveau 4, [[humain]] || Un unique don de combat peut être appliqué à toutes les armes du même groupe
 |-
-| &emsp;[Maîtrise martiale](./Maîtrise martiale.md)* || <sup>MR</sup> || Polyvalence martiale, [guerrier](./Guerrier.md) de niveau 16, [humain](./Humain.md) || Les dons de combat peuvent être appliqués à toutes les armes du même groupe
+| &emsp;[[Maîtrise martiale]]* || <sup>MR</sup> || Polyvalence martiale, [[guerrier]] de niveau 16, [[humain]] || Les dons de combat peuvent être appliqués à toutes les armes du même groupe
 
 |- CLASS="premier"
-| [Poursuite de la gloire](./Poursuite de la gloire.md) || <sup>*ISR*</sup> || [Humain](./Humain.md) (ulfe) || Bonus de moral de +2 aux attaques dans le cadre d'une charge en étant adjacent à un allié avec ce don
+| [[Poursuite de la gloire]] || <sup>*ISR*</sup> || [[Humain]] (ulfe) || Bonus de moral de +2 aux attaques dans le cadre d'une charge en étant adjacent à un allié avec ce don
 
 |- CLASS="premier"
-| [Rejeton de l'empire perdu](./Rejeton de lempire perdu.md) || <sup>*ISR*</sup> || [Humain](./Humain.md) (chélaxien ou taldorien) || Bonus de compétence de +2 à un jet d'attaque, un jet de sauvegarde, un test de compétence ou un test de caractéristique lorsqu'adjacent à un allié avec ce don
+| [[Rejeton de lempire perdu|Rejeton de l'empire perdu]] || <sup>*ISR*</sup> || [[Humain]] (chélaxien ou taldorien) || Bonus de compétence de +2 à un jet d'attaque, un jet de sauvegarde, un test de compétence ou un test de caractéristique lorsqu'adjacent à un allié avec ce don
 
 |- CLASS="premier"
-| [Rivalité amicale](./Rivalité amicale.md) || <sup>*ISR*</sup> || [Humain](./Humain.md) (taldorien) || Bonus de moral de +2 aux attaques de corps à corps lorsque le personnage est seul à menacer un ennemi et qu'un allié avec ce don est seul à en menacer un autre
+| [[Rivalité amicale]] || <sup>*ISR*</sup> || [[Humain]] (taldorien) || Bonus de moral de +2 aux attaques de corps à corps lorsque le personnage est seul à menacer un ennemi et qu'un allié avec ce don est seul à en menacer un autre
 
 |- CLASS="premier"
-| [Ruse diplomatique](./Ruse diplomatique.md) || <sup>*ISR*</sup> || 3 rangs en [Diplomatie](./Diplomatie.md), [humain](./Humain.md) (kéléshite) || Effectue une action libre dans le cadre d'un test d'initiative
+| [[Ruse diplomatique]] || <sup>*ISR*</sup> || 3 rangs en [[Diplomatie]], [[humain]] (kéléshite) || Effectue une action libre dans le cadre d'un test d'initiative
 
 |- CLASS="premier"
-| [Style juju](./Style juju.md) || <sup>*ISR*</sup> || 3 rangs en [Connaissances](./Connaissances.md) (religion), [humain](./Humain.md) (mwangi) || Lance des sorts de contact à 4,5 mètres s'ils ciblent un allié mwangi avec ce don
+| [[Style juju]] || <sup>*ISR*</sup> || 3 rangs en [[Connaissances]] (religion), [[humain]] (mwangi) || Lance des sorts de contact à 4,5 mètres s'ils ciblent un allié mwangi avec ce don
 
 |- CLASS="premier"
-| [Succès éclatant](./Succès éclatant.md) || <sup>MR</sup> || [Humain](./Humain.md) || +2 sur un unique jet après avoir confirmé un coup critique ou avoir obtenu un 20 naturel sur un jet de sauvegarde
+| [[Succès éclatant]] || <sup>MR</sup> || [[Humain]] || +2 sur un unique jet après avoir confirmé un coup critique ou avoir obtenu un 20 naturel sur un jet de sauvegarde
 
 |- CLASS="premier"
-| [Triangulation](./Triangulation.md) || <sup>*ISR*</sup> || [Combat en aveugle](./Combat en aveugle.md), [Maîtrise du combat en aveugle](./Maîtrise du combat en aveugle.md), [Science du combat en aveugle](./Science du combat en aveugle.md), 15 rangs en [Perception](./Perception.md), [humain](./Humain.md) (kéllide) || Localise automatiquement les créatures invisibles et relancer les chances de rater dues à un camouflage lorsqu'un allié avec ce don se trouve à 9 mètres ou moins
+| [[Triangulation]] || <sup>*ISR*</sup> || [[Combat en aveugle]], [[Maîtrise du combat en aveugle]], [[Science du combat en aveugle]], 15 rangs en [[Perception]], [[humain]] (kéllide) || Localise automatiquement les créatures invisibles et relancer les chances de rater dues à un camouflage lorsqu'un allié avec ce don se trouve à 9 mètres ou moins
 
 |- CLASS="premier"
-| [Troupe mortelle](./Troupe mortelle.md) || <sup>*ISR*</sup> || 3 rangs en [Représentation](./Représentation.md) (comédie) ou en [Représentation](./Représentation.md) (danse), [humain](./Humain.md) (varisien) || +4 sur certaines manœuvres offensives et compétences contre les adversaires menacés par un allié avec ce don
+| [[Troupe mortelle]] || <sup>*ISR*</sup> || 3 rangs en [[Représentation]] (comédie) ou en [[Représentation]] (danse), [[humain]] (varisien) || +4 sur certaines manœuvres offensives et compétences contre les adversaires menacés par un allié avec ce don
 
 |- CLASS="premier"
-| [Volonté héroïque](./Volonté héroïque.md) || <sup>MR</sup> || [Volonté de fer](./Volonté de fer.md), bonus de base de [Volonté](./Volonté.md) +4, [humain](./Humain.md) || Nouveau jet de Volonté 1 fois par jour pour se libérer d'un effet néfaste
+| [[Volonté héroïque]] || <sup>MR</sup> || [[Volonté de fer]], bonus de base de [[Volonté]] +4, [[humain]] || Nouveau jet de Volonté 1 fois par jour pour se libérer d'un effet néfaste
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Boucanier (pistolier)](./Boucanier (pistolier).md) *(MR)*
-- [Enfant sauvage (druide)](./Enfant sauvage (druide).md) *(MR)*
-- [Vagabond (moine)](./Vagabond (moine).md) *(MR)*
+- [[Boucanier (pistolier)]] *(MR)*
+- [[Enfant sauvage (druide)]] *(MR)*
+- [[Vagabond (moine)]] *(MR)*
 
 #### Équipement
-- [Fouet de dressage](./Fouet de dressage (objet).md) *(MR)*
-- [Harnachement de dressage](./Harnachement de dressage (objet).md) *(MR)*
+- [[Fouet de dressage (objet)|Fouet de dressage]] *(MR)*
+- [[Harnachement de dressage (objet)|Harnachement de dressage]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Baudrier de stabilité magique](./Baudrier de stabilité magique.md) (garundi) *(ISR)*
-- [Bracelets aux runes brisées](./Bracelets aux runes brisées.md) (shoanti) *(ISR)*
-- [Cape d'été et d'hiver](./Cape dété et dhiver.md) (triaxien) *(ISR)*
-- [Ceinture d'action impossible](./Ceinture daction impossible.md) (vudrain) *(ISR)*
-- [Ceinture de subsistance](./Ceinture de Subsistance.md) *(A&E, MR)*
-- [Coiffe du traducteur](./Coiffe du traducteur.md) *(ISR)*
-- [Contrat impérieux](./Contrat impérieux.md) (chélaxien) *(ISR)*
-- [Cotte sacrée](./Cotte sacrée.md) (varisien) *(ISR)*
-- [Cotte sacrée supérieure](./Cotte sacrée supérieure.md) (varisien) *(ISR)*
-- [Coupe-écailles](./Coupe-écailles.md) (azlant) *(ISR)*
-- [Couronne de conquérant](./Couronne de Conquérant.md) *(A&E, MR)*
-- [Couronne des épées](./Couronne des Épées.md) *(A&E, MR)*
-- [Croc du rôdeur](./Croc du rôdeur.md) (shoanti) *(ISR)*
-- [Écharpe des histoires glorieuses](./Écharpe des histoires glorieuses.md) (varisien) *(ISR)*
-- [Fers à cheval de la fureur du désert](./Fers à cheval de la fureur du désert.md) (kéléshite) *(ISR)*
-- [Fermoir d'agent](./Fermoir dagent.md) (taldorien) *(ISR)*
-- [Fléau des boucliers](./Fléau des boucliers.md) (ulfe) *(ISR)*
-- [Fleuret du gentleman](./Fleuret du gentleman.md) (taldorien) *(ISR)*
-- [Foudre de Storval](./Foudre de Storval.md) (shoanti) *(ISR)*
-- [Lame du véritable guerrier](./Lame du véritable guerrier.md) (kellide) *(ISR)*
-- [Longue-vue d'exploration](./Longue-vue dexploration.md) *(ISR)*
-- [Mambele du chasseur](./Mambele du chasseur.md) (mwangi) *(ISR)*
-- [Onguent de vision secrète](./Onguent de vision secrète.md) (ulfe) *(ISR)*
-- [Sceptre de résolution inébranlable](./Sceptre de résolution inébranlable.md) *(A&E, MR)*
-- [Tambour impétueux](./Tambour impétueux.md) (kellide) *(ISR)*
+- [[Baudrier de stabilité magique]] (garundi) *(ISR)*
+- [[Bracelets aux runes brisées]] (shoanti) *(ISR)*
+- [[Cape dété et dhiver|Cape d'été et d'hiver]] (triaxien) *(ISR)*
+- [[Ceinture daction impossible|Ceinture d'action impossible]] (vudrain) *(ISR)*
+- [[Ceinture de subsistance]] *(A&E, MR)*
+- [[Coiffe du traducteur]] *(ISR)*
+- [[Contrat impérieux]] (chélaxien) *(ISR)*
+- [[Cotte sacrée]] (varisien) *(ISR)*
+- [[Cotte sacrée supérieure]] (varisien) *(ISR)*
+- [[Coupe-écailles]] (azlant) *(ISR)*
+- [[Couronne de conquérant]] *(A&E, MR)*
+- [[Couronne des épées]] *(A&E, MR)*
+- [[Croc du rôdeur]] (shoanti) *(ISR)*
+- [[Écharpe des histoires glorieuses]] (varisien) *(ISR)*
+- [[Fers à cheval de la fureur du désert]] (kéléshite) *(ISR)*
+- [[Fermoir dagent|Fermoir d'agent]] (taldorien) *(ISR)*
+- [[Fléau des boucliers]] (ulfe) *(ISR)*
+- [[Fleuret du gentleman]] (taldorien) *(ISR)*
+- [[Foudre de Storval]] (shoanti) *(ISR)*
+- [[Lame du véritable guerrier]] (kellide) *(ISR)*
+- [[Longue-vue dexploration|Longue-vue d'exploration]] *(ISR)*
+- [[Mambele du chasseur]] (mwangi) *(ISR)*
+- [[Onguent de vision secrète]] (ulfe) *(ISR)*
+- [[Sceptre de résolution inébranlable]] *(A&E, MR)*
+- [[Tambour impétueux]] (kellide) *(ISR)*
 
 #### Sorts
-- [Accorder une intuition](./accorder une intuition.md) *(MR)*
-- [Adaptation culturelle](./Adaptation culturelle.md) (taldorien) *(MR)*
-- [Air autoritaire](./Air autoritaire.md) (taldorien) *(ISR)*
-- [Arc brûlant](./Arc brûlant.md) (kéléshite) *(MR)*
-- [Baroud des champions](./Baroud des champions.md) (shoanti) *(ISR)*
-- [Convocation d'alliés géants I](./Convocation dalliés géants I.md) (kellide) *(ISR)*
-- [Convocation d'alliés géants II](./Convocation dalliés géants II.md) (kellide) *(ISR)*
-- [Convocation d'alliés géants III](./Convocation dalliés géants III.md) (kellide) *(ISR)*
-- [Convocation de créature totémique](./Convocation de créature totémique.md) (shotani) *(MR)*
-- [Convocation de kamis](./Convocation de kamis.md) (tianais) *(ISR)*
-- [Damnation de la mémoire](./Damnation de la mémoire.md) (garundi) *(ISR)*
-- [Façonnage de la neige](./Façonnage de la neige.md) (ulfe) *(MR)*
-- [Lamentation des derniers jours d'été](./Lamentation des derniers jours dété.md) (ulfe) *(ISR)*
-- [Malédiction du vieux loup de mer](./malédiction du vieux loup de mer.md) *(MR)*
-- [Manteau des guerriers magiques](./Manteau des guerriers magiques.md) (mwangi) *(ISR)*
-- [Pierre de suppression](./Pierre de suppression.md) (azlant) *(ISR)*
-- [Silence respectueux](./Silence respectueux.md) (chélaxien) *(ISR)*
-- [Sphère de protection](./Sphère de protection.md) (garundi) *(MR)*
-- [Tâche noire](./Tâche noire.md) *(MR)*
-- [Tapisserie de fables](./Tapisserie de fables.md) (varisien) *(ISR)*
-- [Télékinésie martiale](./Télékinésie martiale.md) (vudrain) *(ISR)*
-- [Vélocité du zéphyr](./Vélocité du zéphyr.md) (kéléshite) *(ISR)*
+- [[Accorder une intuition]] *(MR)*
+- [[Adaptation culturelle]] (taldorien) *(MR)*
+- [[Air autoritaire]] (taldorien) *(ISR)*
+- [[Arc brûlant]] (kéléshite) *(MR)*
+- [[Baroud des champions]] (shoanti) *(ISR)*
+- [[Convocation dalliés géants I|Convocation d'alliés géants I]] (kellide) *(ISR)*
+- [[Convocation dalliés géants II|Convocation d'alliés géants II]] (kellide) *(ISR)*
+- [[Convocation dalliés géants III|Convocation d'alliés géants III]] (kellide) *(ISR)*
+- [[Convocation de créature totémique]] (shotani) *(MR)*
+- [[Convocation de kamis]] (tianais) *(ISR)*
+- [[Damnation de la mémoire]] (garundi) *(ISR)*
+- [[Façonnage de la neige]] (ulfe) *(MR)*
+- [[Lamentation des derniers jours dété|Lamentation des derniers jours d'été]] (ulfe) *(ISR)*
+- [[Malédiction du vieux loup de mer]] *(MR)*
+- [[Manteau des guerriers magiques]] (mwangi) *(ISR)*
+- [[Pierre de suppression]] (azlant) *(ISR)*
+- [[Silence respectueux]] (chélaxien) *(ISR)*
+- [[Sphère de protection]] (garundi) *(MR)*
+- [[Tâche noire]] *(MR)*
+- [[Tapisserie de fables]] (varisien) *(ISR)*
+- [[Télékinésie martiale]] (vudrain) *(ISR)*
+- [[Vélocité du zéphyr]] (kéléshite) *(ISR)*
 
 </td></tr></table>

@@ -11,9 +11,9 @@ Categories:
 
 {s:MMI}*Le personnage intègre l’ombre dans ses sorts, ce qui augmente leur efficacité, mais également leur vulnérabilité à la lumière.*
 
-**Catégorie** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie** [[dons#DONMETAMAGIE|métamagie]]
 
-**Avantage** Quand le personnage lance un sort ténébreux dans l’obscurité ou une zone faiblement éclairée, son [niveau de lanceur de sorts](./NLS.md) effectif et le [DD](./DD.md) des jets de sauvegarde associés augmentent de 1. Les tests de *[dissipation](./Dissipation de la magie.md)* effectués pour dissiper un sort ténébreux dans l’obscurité ou une zone faiblement éclairée subissent un malus de -2.
+**Avantage** Quand le personnage lance un sort ténébreux dans l’obscurité ou une zone faiblement éclairée, son [[NLS|niveau de lanceur de sorts]] effectif et le [[DD]] des jets de sauvegarde associés augmentent de 1. Les tests de *[[dissipation de la magie|dissipation]]* effectués pour dissiper un sort ténébreux dans l’obscurité ou une zone faiblement éclairée subissent un malus de -2.
 
 L’incantation d’un sort ténébreux dans une zone de lumière vive est difficile et nécessite un test de concentration (DD 15 + deux fois le niveau de sort effectif du sort ténébreux). Les tentatives pour dissiper un sort ténébreux dans une zone de lumière vive bénéficient d’un bonus de +4 au test de dissipation. Le personnage ne peut pas utiliser ce don sur les sorts du registre de la lumière.
 

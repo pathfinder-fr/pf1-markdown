@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Vermine|Désert|Tropical}
 - *Source : Bestiaire 2* p.254
 - **PX** 400
-- **[Vermine](./type Vermine.md)** de taille P, N
-- **Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4
+- **[[type Vermine|Vermine]]** de taille P, N
+- **Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4
 (((Défense)))
 - **CA** 14, contact 13, pris au dépourvu 12 (Dex +2, naturelle +1, taille +1)
 - **pv** 13 (2d8+4)
@@ -23,11 +23,11 @@ Categories:
 (((Attaque)))
 - **VD** 15 m (10 {s:c}), escalade 9 m (6 {s:c})
 - **Corps à corps** morsure, +3 (1d6+1) et 2 pinces, +3 (1d3+1)
-- **Attaques spéciales** [éventration](./Éventration.md) (2 pinces, 1d3+1)
+- **Attaques spéciales** [[éventration]] (2 pinces, 1d3+1)
 (((Statistiques)))
 - **For** 12, **Dex** 15, **Con** 15, **Int** — , **Sag** 11, **Cha** 2
-- **BBA** +1 ; **BMO** +1 ; **DMD** 13 (25 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Compétences** [Discrétion](./Discrétion.md) +10, [Escalade](./Escalade.md) +9, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** +4 en  [Discrétion](./Discrétion.md), +4 en [Perception](./Perception.md)
+- **BBA** +1 ; **BMO** +1 ; **DMD** 13 (25 contre [[croc-en-jambe]])
+- **Compétences** [[Discrétion]] +10, [[Escalade]] +9, [[Perception]] +4 ; **Modificateurs raciaux** +4 en  [[Discrétion]], +4 en [[Perception]]
 (((Écologie)))
 - **Environnement** déserts chauds
 - **Organisation sociale** solitaire, couple ou colonie (3–6)
@@ -40,9 +40,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Solifuge albinos des cavernes](./Solifuge albinos des cavernes.md) || 4
+| [[Solifuge albinos des cavernes]] || 4
 |-
-| [Solifuge géant](./Solifuge géant.md) || 1
+| [[Solifuge géant]] || 1
 |}
 </div>*Cette créature brun clair ressemble à une araignée à dix pattes. Ses mâchoires hypertrophiées s’agitent lentement en-dessous de ses yeux perçants.*
 

@@ -12,36 +12,36 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 8, [Dru](./Druide.md) 8, [Prê](./Prêtre.md) 8, [Psy](./Psychiste.md) 8  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 8, [[Druide|Dru]] 8, [[Prêtre|Prê]] 8, [[Psychiste|Psy]] 8  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))  
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])  
 
 **Zone d'effet** étendue de 24 m de rayon (F)  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
-Au terme de l’incantation, une secousse violente mais extrêmement localisée ébranle la croûte terrestre. Elle renverse les créatures, fait effondrer des bâtiments, ouvre des failles dans le sol, provoque encore bien d’autres dégâts. Elle dure 1 [round](./round.md), pendant lequel les créatures qui se trouvent sur la terre ferme ne peuvent plus combattre ni se déplacer. Les lanceurs de sorts qui tentent de faire appel à leur magie doivent réussir un test de [Concentration](./concentration.md) [DD](./DD.md) 20 + [niveau du sort](./niveau du sort.md), sinon, leur sort est perdu. Le *tremblement de terre* affecte toutes les structures et les créatures de la zone touchée. L’effet exact dépend de l’endroit où le personnage lance le sort:
+Au terme de l’incantation, une secousse violente mais extrêmement localisée ébranle la croûte terrestre. Elle renverse les créatures, fait effondrer des bâtiments, ouvre des failles dans le sol, provoque encore bien d’autres dégâts. Elle dure 1 [[round]], pendant lequel les créatures qui se trouvent sur la terre ferme ne peuvent plus combattre ni se déplacer. Les lanceurs de sorts qui tentent de faire appel à leur magie doivent réussir un test de [[Concentration]] [[DD]] 20 + [[niveau du sort]], sinon, leur sort est perdu. Le *tremblement de terre* affecte toutes les structures et les créatures de la zone touchée. L’effet exact dépend de l’endroit où le personnage lance le sort:
 
-*Caverne, grotte, ou tunnel.* Le plafond s’effondre et inflige 8d6 points de dégâts aux créatures prises dessous (réduits de moitié en cas de jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 15). Un *tremblement de terre* lancé sur la voûte d’une caverne haute de plafond menace tous les individus situés sous ce plafond, même ceux qui se trouvent en dehors de la zone d’effet.
+*Caverne, grotte, ou tunnel.* Le plafond s’effondre et inflige 8d6 points de dégâts aux créatures prises dessous (réduits de moitié en cas de jet de [[Réflexes]] [[DD]] 15). Un *tremblement de terre* lancé sur la voûte d’une caverne haute de plafond menace tous les individus situés sous ce plafond, même ceux qui se trouvent en dehors de la zone d’effet.
 
-*Falaise.* Une falaise s’effondre et provoque un glissement de terrain qui avance à l’horizontale sur une distance égale à sa hauteur de chute. Les créatures qui se trouvent sur le chemin du glissement de terrain subissent 8d6 points de dégâts (réduits de moitié en cas de jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 15) et se retrouvent coincées sous les décombres (voir ci-dessous).
+*Falaise.* Une falaise s’effondre et provoque un glissement de terrain qui avance à l’horizontale sur une distance égale à sa hauteur de chute. Les créatures qui se trouvent sur le chemin du glissement de terrain subissent 8d6 points de dégâts (réduits de moitié en cas de jet de [[Réflexes]] [[DD]] 15) et se retrouvent coincées sous les décombres (voir ci-dessous).
 
-*Terrain dégagé.* Toutes les créatures debout doivent réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 15 ou perdre l’équilibre. Des fissures s’ouvrent dans le sol et toute créature qui se trouve sur la terre ferme a 25 % de chances de tomber dans l’une d’elles (sauf si elle réussit un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 20). Les fissures se referment à la fin du sort. Toutes les créatures tombées dans les fissures sont considérées comme enterrées sous une avalanche, sans air (voir [ici](./Aventures en extérieur.md#AVALANCHES)).
+*Terrain dégagé.* Toutes les créatures debout doivent réussir un jet de [[Réflexes]] [[DD]] 15 ou perdre l’équilibre. Des fissures s’ouvrent dans le sol et toute créature qui se trouve sur la terre ferme a 25 % de chances de tomber dans l’une d’elles (sauf si elle réussit un jet de [[Réflexes]] [[DD]] 20). Les fissures se referment à la fin du sort. Toutes les créatures tombées dans les fissures sont considérées comme enterrées sous une avalanche, sans air (voir [[aventures en extérieur#AVALANCHES|ici]]).
 
-*Bâtiment.* La plupart des structures et des bâtiments situés sur un terrain dégagé s’effondrent et subissent 100 points de dégâts, ce qui suffit pour raser un bâtiment de bois ou de maçonnerie, mais pas un édifice renforcé en pierre. La [solidité](./solidité.md) ne réduit pas ces dégâts et ils ne sont pas divisés par deux, comme c’est généralement le cas pour les dégâts infligés aux objets. Les créatures prises dans l’effondrement subissent 8d6 points de dégâts contondants (réduits de moitié en cas de jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 15) et sont immobilisées sous les gravats (voir ci-dessous).
+*Bâtiment.* La plupart des structures et des bâtiments situés sur un terrain dégagé s’effondrent et subissent 100 points de dégâts, ce qui suffit pour raser un bâtiment de bois ou de maçonnerie, mais pas un édifice renforcé en pierre. La [[solidité]] ne réduit pas ces dégâts et ils ne sont pas divisés par deux, comme c’est généralement le cas pour les dégâts infligés aux objets. Les créatures prises dans l’effondrement subissent 8d6 points de dégâts contondants (réduits de moitié en cas de jet de [[Réflexes]] [[DD]] 15) et sont immobilisées sous les gravats (voir ci-dessous).
 
-*Lac, marais ou cours d’eau.* Des fissures s’ouvrent au fond et toute l’eau s’échappe, laissant un sol boueux. Dans un marais, la boue se transforme en sables mouvants et toute créature qui rate un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 15 s’y enfonce. À la fin de la durée indiquée, le reste du cours d’eau ou du plan d’eau envahit brusquement la zone asséchée et risque de noyer les créatures prises dans la boue.
+*Lac, marais ou cours d’eau.* Des fissures s’ouvrent au fond et toute l’eau s’échappe, laissant un sol boueux. Dans un marais, la boue se transforme en sables mouvants et toute créature qui rate un jet de [[Réflexes]] [[DD]] 15 s’y enfonce. À la fin de la durée indiquée, le reste du cours d’eau ou du plan d’eau envahit brusquement la zone asséchée et risque de noyer les créatures prises dans la boue.
 
-*Immobilisé sous les gravats.* Toute créature prise au piège sous les décombres subit 1d6 points de dégâts non-létaux par minute d’immobilisation. Si elle sombre dans l’[inconscience](./Inconscient.md), elle doit faire un test de [Constitution](./Constitution.md) [DD](./DD.md) 15 ou subir 1d6 points de dégâts létaux par minute, jusqu’à ce qu’elle soit libérée ou qu’elle meure.
+*Immobilisé sous les gravats.* Toute créature prise au piège sous les décombres subit 1d6 points de dégâts non-létaux par minute d’immobilisation. Si elle sombre dans l’[[inconscient|inconscience]], elle doit faire un test de [[Constitution]] [[DD]] 15 ou subir 1d6 points de dégâts létaux par minute, jusqu’à ce qu’elle soit libérée ou qu’elle meure.
 
 ### Mythique
 {s:CMy}
-Les dégâts infligés aux structures sont augmentés de 10 points de dégâts par [grade](./Grade.md). Les dégâts infligés par les effondrements et les glissements de terrain s’élèvent à 10d8 points. Les dégâts infligés aux créatures coincées sous les éboulis s’élèvent à 1d10 points par minute. Ajoutez le grade du personnage au [DD](./DD.md) des tests de [concentration](./concentration.md) et de [Constitution](./Constitution.md) effectués à cause de ce sort.
+Les dégâts infligés aux structures sont augmentés de 10 points de dégâts par [[grade]]. Les dégâts infligés par les effondrements et les glissements de terrain s’élèvent à 10d8 points. Les dégâts infligés aux créatures coincées sous les éboulis s’élèvent à 1d10 points par minute. Ajoutez le grade du personnage au [[DD]] des tests de [[concentration]] et de [[Constitution]] effectués à cause de ce sort.
 
-**[Amplifié](./Amplifié.md) (8ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), le sort dure un round de plus et le rayon de l’étendue augmente de 6 mètres. À chaque round d’activité du sort, le personnage peut, pendant son tour, dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour prolonger sa durée d’un round et augmenter son rayon de 6 mètres supplémentaires.
+**[[Amplifié]] (8ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], le sort dure un round de plus et le rayon de l’étendue augmente de 6 mètres. À chaque round d’activité du sort, le personnage peut, pendant son tour, dépenser une utilisation de [[pouvoir mythique]] pour prolonger sa durée d’un round et augmenter son rayon de 6 mètres supplémentaires.

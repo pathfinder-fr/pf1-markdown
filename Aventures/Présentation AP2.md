@@ -4,9 +4,9 @@ Title: La Malédiction du Trône Écarlate
 LastModified: 2017-10-02 16:42
 ---
 
-***Le roi Éodred, le souverain régnant sur [Korvosa](./+Golarion-Korvosa.md), vient de mourir. Suite à l'annonce de sa mort et l'accession au trône de sa très jeune épouse Iléosa, des émeutes vont agir la ville. Quelque chose vient de se réveiller sous Korvosa et une ombre surgie d'un passé que presque tous croyaient enterré plane sur la ville.***
+***Le roi Éodred, le souverain régnant sur [[+Golarion.Korvosa|Korvosa]], vient de mourir. Suite à l'annonce de sa mort et l'accession au trône de sa très jeune épouse Iléosa, des émeutes vont agir la ville. Quelque chose vient de se réveiller sous Korvosa et une ombre surgie d'un passé que presque tous croyaient enterré plane sur la ville.***
 
-Vous trouverez les aides de jeu relatives à cette campagne sur [cette page](./Aides de jeu AP2.md).
+Vous trouverez les aides de jeu relatives à cette campagne sur [[Aides de jeu AP2|cette page]].
 
 Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&m=14538&#post14538).
 
@@ -16,7 +16,7 @@ Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfind
 {s:BookTitle|AP2PG|Player's Guide/Guide du Joueur}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9000-2S_120.jpeg|http://paizo.com/products/btpy8bdb}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/92_Pathfinder__Le_Guide_du_Joueur_de_La_Malediction_d.jpg|https://www.black-book-editions.fr/produit.php?id=41}
-{s:BookComment|Il s'agit d'un document PDF gratuit téléchargeable en suivant un des deux liens présentés ci-contre (les images). Son contenu est également repris dans le Guide du Joueur disponible dans les [aides de jeu](./../Golarion/Aides de jeu.md) pour Golarion.}
+{s:BookComment|Il s'agit d'un document PDF gratuit téléchargeable en suivant un des deux liens présentés ci-contre (les images). Son contenu est également repris dans le Guide du Joueur disponible dans les [[Golarion.Aides de jeu|aides de jeu]] pour Golarion.}
 {s:BookTitle|AP2-1|Edge of Anarchy/Au bord de l'anarchie}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9007_120.jpeg|http://paizo.com/products/btpy81xw}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/72_Pathfinder_7_Au_bord_de_lanarchie.jpg|https://www.black-book-editions.fr/produit.php?id=42}
@@ -34,7 +34,7 @@ Ce volume de Pathfinder™ inaugure la nouvelle campagne Paizo, La Malédiction 
 * Six nouveaux monstres par Nicolas Logue et Mike MacArtor.  
   
 
-**Articles :** Les cartes Harrow/jeu du Tourment, les [Varisiens](./../Golarion/Varisiens.md)}
+**Articles :** Les cartes Harrow/jeu du Tourment, les [[Golarion.Varisiens|Varisiens]]}
 {s:BookTitle|AP2-2|Seven Days to the Grave/Sept jours pour mourir}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9008_120.jpeg|http://paizo.com/products/btpy82qy}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/91_Pathfinder_8_Sept_jours_pour_mourir.jpg|https://www.black-book-editions.fr/produit.php?id=43}
@@ -60,7 +60,7 @@ Ce volume de Pathfinder™ contient :
 * Six nouveaux monstres par F. Wesley Schneider.  
   
 
-**Articles :** Les épidémies, [Abadar](./../Golarion/Abadar.md)}
+**Articles :** Les épidémies, [[Golarion.Abadar|Abadar]]}
 {s:BookTitle|AP2-3|Escape from Old Korvosa/Il faut fuir !}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9009_120.jpeg|http://paizo.com/products/btpy82t5}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/98_Pathfinder_9_Il_faut_fuir_.jpg|https://www.black-book-editions.fr/produit.php?id=51}
@@ -88,7 +88,7 @@ Ce volume de Pathfinder™ contient :
   * Cinq nouveaux monstres, par Brian Cortijo, Joshua J. Frost, James Jacobs, et Richard Pett.   
   
 
-**Articles :** Les rakshasas, les [Mantes rouges](./../Golarion/Mantes Rouges.md)}
+**Articles :** Les rakshasas, les [[Golarion.Mantes rouges|Mantes rouges]]}
 {s:BookTitle|AP2-4|A History of Ashes/Histoire de Cendres}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9010_120.jpeg|http://paizo.com/products/btpy82u9}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/105_Pathfinder_10_Histoire_de_Cendres.jpg|https://www.black-book-editions.fr/produit.php?id=52}
@@ -111,7 +111,7 @@ Ce volume de Pathfinder™ contient :
  * Cinq nouveaux monstres de Michael Kortes et J.D. Wiker.   
   
 
-**Articles :** Les [Terres Cendres](./../Golarion/Terres cendrées.md), les [Shoantis](./../Golarion/Shoantis.md)}
+**Articles :** Les [[Golarion.Terres Cendrées|Terres Cendres]], les [[Golarion.Shoantis|Shoantis]]}
 {s:BookTitle|AP2-5|Skeletons of Scarwall/Les Squelettes de Balafre}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9011_120.jpeg|http://paizo.com/products/btpy83yw}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/108_Pathfinder_11_Les_Squelettes_de_Balafre.jpg|https://www.black-book-editions.fr/produit.php?id=73}
@@ -136,7 +136,7 @@ Ce volume de Pathfinder™ contient :
 * Cinq nouveaux monstres de Greg Vaughan et Sean K Reynolds.   
   
 
-**Articles :** Le [Belkzen](./../Golarion/Belkzen.md), [Zon-Kuthon](./../Golarion/Zon-Kuthon.md)}
+**Articles :** Le [[Golarion.Belkzen|Belkzen]], [[Golarion.Zon-Kuthon|Zon-Kuthon]]}
 {s:BookTitle|AP2-6|Crown of Fangs/La Couronne de Crocs}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9012_120.jpeg|http://paizo.com/products/btpy84el}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_small/123_Pathfinder_12_La_Couronne_de_Croc.jpg|https://www.black-book-editions.fr/produit.php?id=74}

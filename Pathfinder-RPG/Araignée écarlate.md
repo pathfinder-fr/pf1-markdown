@@ -15,8 +15,8 @@ Categories:
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Art de la Magie page 117, Bestiaire 4 page 15*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille TP, N}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] de taille TP, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 17, pris au dépourvu 13 (Dex +5, naturelle +1, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -30,14 +30,14 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 21, **Con** 10, **Int** -, **Sag** 10, **Cha** 2}
 {s:BDTexte|**BBA** +0, **BMO** +3, **DMD** 9 (21 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +13, [Discrétion](./Discrétion.md) +17, [Escalade](./Escalade.md) +21, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +8, [Discrétion](./Discrétion.md) +4,[Escalade](./Escalade.md) +8, [Perception](./Perception.md) +4 }
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>B</sup>}
+{s:BDTexte|**Compétences** [[Acrobaties]] +13, [[Discrétion]] +17, [[Escalade]] +21, [[Perception]] +4 ; **Modificateurs raciaux** [[Acrobaties]] +8, [[Discrétion]] +4,[[Escalade]] +8, [[Perception]] +4 }
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3-8)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 10 ; *fréquence* 1/round pendant 4 rounds ; *effets* 1 [For](./Force.md) ; *guérison* 1 JS réussi}
+{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JS* [[Vigueur]] [[DD]] 10 ; *fréquence* 1/round pendant 4 rounds ; *effets* 1 [[Force|For]] ; *guérison* 1 JS réussi}
 </div>
 </td><td><div>*Cette araignée rouge vif possède huit pattes noires et souples et peut se déplacer extrêmement rapidement malgré sa taille.*
 
@@ -45,7 +45,7 @@ Les araignées écarlates sont de petits arachnides au corps rouge vif et aux pa
 
 On peut les trouver dans n’importe quel environnement, mais elles préfèrent les régions où elles peuvent chasser de gros insectes et de petits mammifères.
 
-Un lanceur de sorts qui fait d’une araignée écarlate son familier gagne un bonus de +3 aux tests d’[Escalade](./Escalade.md) tant que le familier reste à 1,5 kilomètres ou moins de lui ; un familier araignée écarlate perd le trait dénué d’intelligence et possède une valeur d’Intelligence appropriée au niveau de son maître.
+Un lanceur de sorts qui fait d’une araignée écarlate son familier gagne un bonus de +3 aux tests d’[[Escalade]] tant que le familier reste à 1,5 kilomètres ou moins de lui ; un familier araignée écarlate perd le trait dénué d’intelligence et possède une valeur d’Intelligence appropriée au niveau de son maître.
 
 
 *<u>Note :</u> il semblerait que dans les premières V.O. et V.F. du Bestiaire 4, la vitesse d'escalade de cette créature ait été oubliée, alors qu'elle est bien présente dans la version V.O. et V.F. de l'Art de la Magie (Ultimate Magic). Cela devrait être corrigé dans les dernières versions.*

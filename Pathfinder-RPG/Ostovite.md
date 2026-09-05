@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Ostovite|FP 1}
 {s:pucem|Créature magique|Ruines-Donjons|Extraplanaire}
-{s:BDTexte|*Source : [Bestiaire 5 p.198](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.198]]*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille TP, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type extraplanaire|extraplanaire]]) de taille TP, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)}
 {s:BDTexte|**pv** 11 (2d10)}
@@ -28,15 +28,15 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 4, **Dex** 16, **Con** 10, **Int** 3, **Sag** 11, **Cha** 9}
 {s:BDTexte|**BBA** +2 ; **BMO** +3 ; **DMD** 10}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +4, [Discrétion](./Discrétion.md) +15}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Perception]] +4, [[Discrétion]] +15}
 {s:BDTexte|**Langues** abyssal (incapable de parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abysses)}
 {s:BDTexte|**Organisation** solitaire, paire ou nid (3-6)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Char d’os (Sur).** Un ostovite qui se retrouve face à un cadavre qui avait 2 [dés de vie](./../Ressources/DV.md) ou moins pendant sa vie (sans tenir compte des dés de vie obtenus grâce aux niveaux de classe) et qui contient un squelette peut passer 1 heure à extraire les os, les assouplir et recréer autour de lui un exosquelette, version déformée et squelettique de la créature originale. Ce « char d’os » se comporte comme si le cadavre avait été ranimé et avait gagné l’archétype [squelette](./Squelette, archétype.md), mais il gagne le type [créature artificielle](./type Créature artificielle.md) au lieu de [mort-vivant](./type Mort-vivant.md) et ne possède pas de volonté propre : il agit et attaque selon les désirs de l’ostovite qui se trouve en son cœur. Un ostovite ne peut pas utiliser ses propres attaques quand il se trouve au cœur de son char d’os et les dégâts qui sont subis par ce dernier n’affectent pas l’ostovite tant que le char d’os n’a pas été réduit à 0 point de vie. À ce moment, le squelette s’effrite et l’ostovite peut attaquer et être attaqué normalement. Plusieurs ostovites peuvent combiner leur capacité à animer les squelettes de créatures plus grandes qu’eux tant qu’ils se trouvent tous au cœur du même char d’os - chaque ostovite qui participe à l’animation de ce squelette permet d’augmenter de 2 le maximum de dés de vie du cadavre à animer.}
+{s:BDTexte|**Char d’os (Sur).** Un ostovite qui se retrouve face à un cadavre qui avait 2 [[DV|dés de vie]] ou moins pendant sa vie (sans tenir compte des dés de vie obtenus grâce aux niveaux de classe) et qui contient un squelette peut passer 1 heure à extraire les os, les assouplir et recréer autour de lui un exosquelette, version déformée et squelettique de la créature originale. Ce « char d’os » se comporte comme si le cadavre avait été ranimé et avait gagné l’archétype [[Squelette, archétype|squelette]], mais il gagne le type [[type Créature artificielle|créature artificielle]] au lieu de [[type Mort-vivant|mort-vivant]] et ne possède pas de volonté propre : il agit et attaque selon les désirs de l’ostovite qui se trouve en son cœur. Un ostovite ne peut pas utiliser ses propres attaques quand il se trouve au cœur de son char d’os et les dégâts qui sont subis par ce dernier n’affectent pas l’ostovite tant que le char d’os n’a pas été réduit à 0 point de vie. À ce moment, le squelette s’effrite et l’ostovite peut attaquer et être attaqué normalement. Plusieurs ostovites peuvent combiner leur capacité à animer les squelettes de créatures plus grandes qu’eux tant qu’ils se trouvent tous au cœur du même char d’os - chaque ostovite qui participe à l’animation de ce squelette permet d’augmenter de 2 le maximum de dés de vie du cadavre à animer.}
 
 </div></td>
 <td><div>*Cette minuscule créature trottinante ressemble à un insecte composé d’arêtes de poisson, avec une tête couverte d’yeux rouges brillants.*

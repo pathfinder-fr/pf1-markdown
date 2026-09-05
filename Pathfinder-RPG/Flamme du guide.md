@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Flamme du guide|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 20 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] puissante ; **NLS** 20 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 0,5 kg
 (((Description)))
-Ce charme ressemble à un planétaire fait de petits orbes qui gravitent librement autour d’une flamme de la taille d’une bougie. L’objet fonctionne comme une [pierre ioun](./Pierre ioun.md). La flamme se perche immobile au-dessus de sa tête tandis que les petits orbes décrivent des ellipses autour d’elle. Une fois la flamme activée, elle donne à son propriétaire un bonus d’armure naturelle de +4, l’immunité contre le feu, le sous-type feu et une vulnérabilité au froid. Quand son propriétaire se trouve à moins de 4,5 kilomètres de la [lentille céleste](./Lentille céleste.md), il peut contrôler sa trajectoire horizontale mais ne peut pas l’arrêter ni modifier sa hauteur par rapport à sa position originelle, à 30 mètres du sol.
+Ce charme ressemble à un planétaire fait de petits orbes qui gravitent librement autour d’une flamme de la taille d’une bougie. L’objet fonctionne comme une [[pierre ioun]]. La flamme se perche immobile au-dessus de sa tête tandis que les petits orbes décrivent des ellipses autour d’elle. Une fois la flamme activée, elle donne à son propriétaire un bonus d’armure naturelle de +4, l’immunité contre le feu, le sous-type feu et une vulnérabilité au froid. Quand son propriétaire se trouve à moins de 4,5 kilomètres de la [[lentille céleste]], il peut contrôler sa trajectoire horizontale mais ne peut pas l’arrêter ni modifier sa hauteur par rapport à sa position originelle, à 30 mètres du sol.
 (((Destruction)))
-Pour détruire cet artefact, il faut le tenir pendant 3 [rounds](./round.md) sous le rayon de la [lentille céleste](./Lentille céleste.md), poussée au maximum de sa puissance.
+Pour détruire cet artefact, il faut le tenir pendant 3 [[round|rounds]] sous le rayon de la [[lentille céleste]], poussée au maximum de sa puissance.
 </div>

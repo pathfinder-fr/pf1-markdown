@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Lien spirituel
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Lien spirituel](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Lien spirituel)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Lien spirituel]]

@@ -4,15 +4,15 @@ Title: Playtest "Guns & gears"
 LastModified: 2021-01-11 22:52
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 Ce qui suit est une traduction des règles de Playtest pour le livre *"Guns & Gears"* introduisant les classes de pistoléro et d'inventeur. La version originale est disponible gratuitement sur le site de Paizo.
 
-Le [pistoléro](./PlaytestGG Pistoléro.md) est une classe pour les joueurs qui aiment réaliser des coups spéciaux avec une arme unique qui leur est propre. Experts dans l’utilisation des arbalètes et des armes à feu, les pistoléros peuvent réaliser de puissants tirs spéciaux, des tirs de précision ou s’avancer au corps à corps avec une épée dans une main et un pistolet dans l’autre.
+Le [[PlaytestGG Pistoléro|pistoléro]] est une classe pour les joueurs qui aiment réaliser des coups spéciaux avec une arme unique qui leur est propre. Experts dans l’utilisation des arbalètes et des armes à feu, les pistoléros peuvent réaliser de puissants tirs spéciaux, des tirs de précision ou s’avancer au corps à corps avec une épée dans une main et un pistolet dans l’autre.
 
-L’[inventeur](./PlaytestGG Inventeur.md) est pour les joueurs qui veulent combiner leurs capacités mentales avec des gadgets technologiques inhabituels. Chaque inventeur possède une innovation spéciale qui représente le summum de leurs talents d’artisan : une puissante armure, une arme inhabituelle, ou même un compagnon mécanique qui les accompagne dans leurs aventures !
+L’[[PlaytestGG Inventeur|inventeur]] est pour les joueurs qui veulent combiner leurs capacités mentales avec des gadgets technologiques inhabituels. Chaque inventeur possède une innovation spéciale qui représente le summum de leurs talents d’artisan : une puissante armure, une arme inhabituelle, ou même un compagnon mécanique qui les accompagne dans leurs aventures !
 
 <center>
 <img src="ADJ/PF2/010520_GGSocialBanner600.jpg" class="center" alt="">

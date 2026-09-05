@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés p.184*}
 {s:BDTexte|XP 102 400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md)) de taille G, NM}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille G, NM}
 {s:BDTexte|**Init **+11 ; **Sens** vision dans le noir à 18m, vision lucide ; Perception +27}
 {s:BDTexte|**Aura ** présence terrifiante (18 m, DD 27)}
 (((Défense)))
@@ -27,15 +27,15 @@ Categories:
 {s:BDTexte|**Espace** 3 m ; **Allonge** 3 m}
 {s:BDTexte|**Attaques spéciales** absorption de peur, constriction (2d6+5), éventration (2d6+7)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 20 ; concentration +26)}
-{s:BDSorts|Permanent - [perception de la mort](./Perception de la mort.md), [vision lucide](./Vision lucide.md)}
-{s:BDSorts|À volonté – [téléportation suprême](./Téléportation suprême.md) (personnel plus 25 kg d’équipement maximum), [image prédéterminée](./Image prédéterminée.md) (DD 21)}
-{s:BDSorts|3/jour - [convocation d’ombres suprême](./Convocation dombres suprême.md) accélérée (DD23), [magie des ombres suprême](./Magie des ombres suprême.md)'' (DD24), [mirage](./mirage.md), [cauchemar](./Cauchemar.md) (DD21), [image permanente](./Image permanente.md) (DD22), [assassin imaginaire](./Assassin imaginaire.md) (DD20)}
-{s:BDSorts|1/jour - [double illusoire](./Double illusoire.md), [symbole de terreur](./Symbole de terreur.md) (DD21), [ennemi subconscient](./Ennemi subconscient.md) (DD25), ''[convocation](./convocation.md) (niveau 8 : 1 [témerdaémon](./Témerdaémon.md) ou 1d3 [suspiridaémon](./Suspiridaémon.md), 50%)}
+{s:BDSorts|Permanent - [[perception de la mort]], [[vision lucide]]}
+{s:BDSorts|À volonté – [[téléportation suprême]] (personnel plus 25 kg d’équipement maximum), [[image prédéterminée]] (DD 21)}
+{s:BDSorts|3/jour - [[convocation dombres suprême|convocation d’ombres suprême]] accélérée (DD23), [[magie des ombres suprême]]'' (DD24), [[mirage]], [[cauchemar]] (DD21), [[image permanente]] (DD22), [[assassin imaginaire]] (DD20)}
+{s:BDSorts|1/jour - [[double illusoire]], [[symbole de terreur]] (DD21), [[ennemi subconscient]] (DD25), ''[[convocation]] (niveau 8 : 1 [[témerdaémon]] ou 1d3 [[suspiridaémon]], 50%)}
 (((Statistiques)))
 {s:BDTexte|**For** 20, **Dex** 25, **Con** 23, **Int** 19, **Sag** 18, **Cha** 22}
 {s:BDTexte|**BBA **+23 ; **BMO **+29 (+33 en lutte); **DMD** 47}
-{s:BDTexte|**Dons** [Magie de guerre](./Magie de guerre.md), [Fourberie](./Fourberie.md), [Esquive](./Esquive.md), [Efficacité des sorts accrue supérieure](./Efficacité des sorts accrue supérieure.md), [Science du critique](./Science du critique.md) (morsure), [Science de l’initiative](./Science de linitiative.md), [Force intimidante](./Force intimidante.md), [Attaque en puissance](./Attaque en puissance.md), [Volonté de fer](./Volonté de fer.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (convocation d’ombre suprême), [Efficacité des sorts accrue](./Efficacité des sorts accrue.md), [Frappe décisive](./Frappe décisive.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +30, [Bluff](./Bluff.md) +36, [Déguisement](./Déguisement.md) +36, [Intimidation](./Intimidation.md) +37, [Connaissances](./Connaissances.md) (plans) +30, [Évasion](./Évasion.md) +30, [Discrétion](./Discrétion.md) +30,  [Perception](./Perception.md) +30, [Psychologie](./Psychologie.md) +30, [Vol](./Vol.md) +35}
+{s:BDTexte|**Dons** [[Magie de guerre]], [[Fourberie]], [[Esquive]], [[Efficacité des sorts accrue supérieure]], [[Science du critique]] (morsure), [[Science de linitiative|Science de l’initiative]], [[Force intimidante]], [[Attaque en puissance]], [[Volonté de fer]], [[Pouvoir magique rapide]] (convocation d’ombre suprême), [[Efficacité des sorts accrue]], [[Frappe décisive]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +30, [[Bluff]] +36, [[Déguisement]] +36, [[Intimidation]] +37, [[Connaissances]] (plans) +30, [[Évasion]] +30, [[Discrétion]] +30,  [[Perception]] +30, [[Psychologie]] +30, [[Vol]] +35}
 {s:BDTexte|**Langues** abyssal, céleste, commun, draconique, infernal; télépathie 30m}
 {s:BDTexte|**Particularités ** compression, horreur tangible}
 (((Écologie)))
@@ -65,7 +65,7 @@ des ombres suprême, le sort lancé ne produit que 80% de ses effets
 ou n’a que 80% de chances de réussir, au lieu de 60%.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 ''On ne perçoit pas grand-chose de ce fiélon car son corps est entouré
 d’un linceul d’illusions et de fantasmagories atroces en perpétuel
 changement. Sous son voile scintillant, sa peau est noire et luisante,

@@ -10,7 +10,7 @@ Categories:
 
 {s:MenuClassesDePrestige}{s:cs}{s:RSE}''L’empire de l'Est se fonde sur les génies, qui bâtissent de hautes tours et de somptueux palais pour l’empereur dans l’espoir qu’un futur dirigeant libèrera leurs semblables. Mais tous les mages de la Porte de l'Est ne voient pas les génies comme des créatures à soumettre et à asservir. Plutôt que comme des esclaves potentiels, ces daivrat (« frères des génies ») les traitent comme de puissants alliés, de sages conseillers et des compagnons d’armes. Bien que peu de personnes soient assez folles pour envisager de libérer les esclaves de l’empereur, tous les daivrat se considèrent comme des soldats, des serviteurs ou des cousins des génies.
 
-Il existe divers types de génies, si semblables que la plupart des gens ne peuvent pas faire la différence mais les daivrat savent distinguer un djinn d’un jann et un [demi-jann](./Demi-jann, archétype.md) d’un [suli](./suli (race).md)-jann. Les daivrat sont exclusivement des habitants de la Porte de l'Est car, de toutes régions du monde, c’est le seul pays qui traite traditionnellement avec les génies. Les génies d’alignement Bon et Neutre accueillent les daivrat en amis et même les odieux éfrits savent qu’ils peuvent compter sur leurs « amis » daivrat, parfois au détriment de ces derniers.''
+Il existe divers types de génies, si semblables que la plupart des gens ne peuvent pas faire la différence mais les daivrat savent distinguer un djinn d’un jann et un [[Demi-jann, archétype|demi-jann]] d’un [[Suli (race)|suli]]-jann. Les daivrat sont exclusivement des habitants de la Porte de l'Est car, de toutes régions du monde, c’est le seul pays qui traite traditionnellement avec les génies. Les génies d’alignement Bon et Neutre accueillent les daivrat en amis et même les odieux éfrits savent qu’ils peuvent compter sur leurs « amis » daivrat, parfois au détriment de ces derniers.''
 
 {| CLASS="tablo centre autoalt"
 |+ Le Daivrat
@@ -21,43 +21,43 @@ Il existe divers types de génies, si semblables que la plupart des gens ne peuv
 
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [École élémentaire](./Daivrat.md#ECOLEELEMENTAIRE), [langue des génies](./Daivrat.md#LANGUEDESGENIES)
+| CLASS="gauche" | [[Daivrat#ECOLEELEMENTAIRE|École élémentaire]], [[Daivrat#LANGUEDESGENIES|langue des génies]]
 | CLASS="gauche" | —
 |-
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Quête de sort](./Daivrat.md#QUETEDESORT) (niveau 3)
+| CLASS="gauche" | [[Daivrat#QUETEDESORT|Quête de sort]] (niveau 3)
 | CLASS="gauche" | +1 niveau de classe de lancement de sorts existante
 |-
 | 3 || +1 || +1 || +2 || +2
-| CLASS="gauche" |  [Ami des génies](./Daivrat.md#AMIDESGENIES) (+2)
+| CLASS="gauche" |  [[Daivrat#AMIDESGENIES|Ami des génies]] (+2)
 | CLASS="gauche" | +1 niveau de classe de lancement de sorts existante
 |-
 | 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [Harmonisation élémentaire](./Daivrat.md#HARMONISATIONELEMENTAIRE)
+| CLASS="gauche" | [[Daivrat#HARMONISATIONELEMENTAIRE|Harmonisation élémentaire]]
 | CLASS="gauche" | +1 niveau de classe de lancement de sorts existante
 |-
 | 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [Quête de sort](./Daivrat.md#QUETEDESORT) (niveau 6)
+| CLASS="gauche" | [[Daivrat#QUETEDESORT|Quête de sort]] (niveau 6)
 | CLASS="gauche" | +1 niveau de classe de lancement de sorts existante
 |-
 | 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [Familier zhyen](./Daivrat.md#FAMILIERZHYEN)
+| CLASS="gauche" | [[Daivrat#FAMILIERZHYEN|Familier zhyen]]
 | CLASS="gauche" | +1 niveau de classe de lancement de sorts existante
 |-
 | 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [École élémentaire supérieure](./Daivrat.md#ECOLEELEMENTAIRESUPERIEURE)
+| CLASS="gauche" | [[Daivrat#ECOLEELEMENTAIRESUPERIEURE|École élémentaire supérieure]]
 | CLASS="gauche" | +1 niveau de classe de lancement de sorts existante
 |-
 | 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [Quête de sort](./Daivrat.md#QUETEDESORT) (niveau 8)
+| CLASS="gauche" | [[Daivrat#QUETEDESORT|Quête de sort]] (niveau 8)
 | CLASS="gauche" | +1 niveau de classe de lancement de sorts existante
 |-
 | 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [Ami des génies](./Daivrat.md#AMIDESGENIES) (+4)
+| CLASS="gauche" | [[Daivrat#AMIDESGENIES|Ami des génies]] (+4)
 | CLASS="gauche" | +1 niveau de classe de lancement de sorts existante
 |-
 | 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [Génie](./Daivrat.md#GENIE)
+| CLASS="gauche" | [[Daivrat#GENIE|Génie]]
 | CLASS="gauche" | +1 niveau de classe de lancement de sorts existante
 |}
 
@@ -68,9 +68,9 @@ Il existe divers types de génies, si semblables que la plupart des gens ne peuv
 ### Conditions
 Afin de se qualifier pour devenir daivrat, le personnage doit remplir les critères suivants.
 
-**Compétences.** 5 rangs en [Art de la magie](./Art de la magie.md), 7 rangs en [Connaissances](./Connaissances.md) (mystères), 7 rangs en [Connaissances](./Connaissances.md) (plans).
+**Compétences.** 5 rangs en [[Art de la magie]], 7 rangs en [[Connaissances]] (mystères), 7 rangs en [[Connaissances]] (plans).
 
-**Dons.** [École renforcée](./École renforcée.md) (invocation).
+**Dons.** [[École renforcée]] (invocation).
 
 **Lancement de sorts.** Capacité à lancer des sorts de niveau 3.
 
@@ -79,9 +79,9 @@ Afin de se qualifier pour devenir daivrat, le personnage doit remplir les critè
 **Spécial.** Le personnage doit avoir établi un contact pacifique avec un véritable génie (djinn, éfrit, marid ou shaitan).
 
 ### Compétences de classe
-Voici les compétences de classe du daivrat, ainsi que la caractéristique associée à chacune : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (mystères) (Int), [Connaissances](./Connaissances.md) (plans) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Estimation](./Estimation.md) (Int), [Linguistique](./Linguistique.md) (Int), [Utilisation d’objets magiques](./UOM.md) (Cha).
+Voici les compétences de classe du daivrat, ainsi que la caractéristique associée à chacune : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Bluff]] (Cha), [[Connaissances]] (mystères) (Int), [[Connaissances]] (plans) (Int), [[Diplomatie]] (Cha), [[Estimation]] (Int), [[Linguistique]] (Int), [[UOM|Utilisation d’objets magiques]] (Cha).
 
-**Points de compétence par niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 2 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de la classe
 Voici toutes les caractéristiques de la classe de prestige de daivrat.
@@ -94,17 +94,17 @@ Aux niveaux indiqués, le daivrat gagne de nouveaux sorts par jour, comme s’il
 
 {s:Reference|ECOLEELEMENTAIRE}
 #### École élémentaire (Sur)
-Au niveau 1, le daivrat gagne une certaine affinité avec les puissances élémentaires. Il choisit l’un des registres suivants : acide, air, froid, terre, électricité, feu ou eau. Lorsqu’il lance un sort de ce registre, on considère que le daivrat possède le don [École renforcée](./École renforcée.md) pour ce sort. École élémentaire ne se cumule pas avec le don École renforcée ni avec le don [École supérieure](./École supérieure.md).
+Au niveau 1, le daivrat gagne une certaine affinité avec les puissances élémentaires. Il choisit l’un des registres suivants : acide, air, froid, terre, électricité, feu ou eau. Lorsqu’il lance un sort de ce registre, on considère que le daivrat possède le don [[École renforcée]] pour ce sort. École élémentaire ne se cumule pas avec le don École renforcée ni avec le don [[École supérieure]].
 
 {s:Reference|LANGUEDESGENIES}
 #### Langue des génies
-Le daivrat est très doué pour communiquer avec les génies et leurs semblables. Il gagne un bonus de +2 aux tests basés sur le [Charisme](./Charisme.md) pour influencer les génies et leurs alliés et un bonus de +4 aux tests de [Connaissances](./Connaissances.md) en ce qui concerne les génies.
+Le daivrat est très doué pour communiquer avec les génies et leurs semblables. Il gagne un bonus de +2 aux tests basés sur le [[Charisme]] pour influencer les génies et leurs alliés et un bonus de +4 aux tests de [[Connaissances]] en ce qui concerne les génies.
 
 {s:Reference|QUETEDESORT}
 #### Quête de sort (Sur)
 Une fois par jour, quand le daivrat prépare ses sorts (ou ses emplacements de sorts si c’est un lanceur de sorts spontanés), il peut invoquer un génie mineur afin qu’il lui trouve un sort inhabituel. Le daivrat choisit un sort qu’il ne connaît pas, comme un sort d’une école qui lui est interdite ou tiré de la liste de sorts d’une autre classe, et envoie le génie chercher l’énergie magique correspondant au sort en question. Le génie revient au bout de 10 minutes et présente l’énergie magique correspondante au daivrat.
 
-Si le daivrat lance ses sorts comme un [magicien](./Magicien.md), il peut préparer le sort récupéré pendant les prochaines 24 heures comme s’il était issu de son propre grimoire. S’il lance le sort comme un [ensorceleur](./Ensorceleur.md), il peut lancer le sort récupéré pendant les prochaines 24 heures comme s’il le connaissait.
+Si le daivrat lance ses sorts comme un [[magicien]], il peut préparer le sort récupéré pendant les prochaines 24 heures comme s’il était issu de son propre grimoire. S’il lance le sort comme un [[ensorceleur]], il peut lancer le sort récupéré pendant les prochaines 24 heures comme s’il le connaissait.
 
 Au niveau 2, le génie peut récupérer n’importe quel sort de niveau 3 ou moins. Au niveau 5, il peut récupérer n’importe quel sort de niveau 6 ou moins. Au niveau 8, il peut récupérer n’importe quel sort de niveau 8 ou moins. Le génie est une créature intangible et n’a donc pas d’autres pouvoirs ni capacités (il ne peut pas servir d’éclaireur, de messager, etc.) et disparaît une fois qu’il a remis le sort.
 
@@ -112,20 +112,20 @@ Le daivrat a plus de mal à préparer et à lancer un sort récupéré qu’un s
 
 {s:Reference|AMIDESGENIES}
 #### Ami des génies (Sur)
-Au niveau 3, le daivrat gagne un bonus de +2 à son [niveau de lanceur de sorts](./NLS.md) quand il invoque des génies. Au niveau 9, ce bonus passe à +4.
+Au niveau 3, le daivrat gagne un bonus de +2 à son [[NLS|niveau de lanceur de sorts]] quand il invoque des génies. Au niveau 9, ce bonus passe à +4.
 
 {s:Reference|HARMONISATIONELEMENTAIRE}
 #### Harmonisation élémentaire (Ext)
-Au niveau 4, le daivrat gagne [résistance](./Résistance (capacité).md) aux énergies 5 contre l’acide, le froid, l’électricité ou le feu.
+Au niveau 4, le daivrat gagne [[Résistance (capacité)|résistance]] aux énergies 5 contre l’acide, le froid, l’électricité ou le feu.
 
 {s:Reference|FAMILIERZHYEN}
 #### Familier zhyen
-Au niveau 6, le daivrat peut choisir un [zhyen](./Zhyen.md) comme familier. Le zhyen remplace son précédent familier, comme si le personnage avait le don [Familier supérieur](./Familier supérieur.md).
+Au niveau 6, le daivrat peut choisir un [[Zhyen]] comme familier. Le zhyen remplace son précédent familier, comme si le personnage avait le don [[Familier supérieur]].
 
 {s:Reference|ECOLEELEMENTAIRESUPERIEURE}
 #### École élémentaire supérieure (Sur)
-Au niveau 7, le lien du daivrat avec l’élément qu’il a choisi s’intensifie. Quand il lance des sorts du registre choisi pour sa capacité école élémentaire, on considère que le daivrat possède le don [École supérieure](./École supérieure.md). École élémentaire supérieure ne se cumule pas avec le don [École renforcée](./École renforcée.md) ni avec le don École supérieure.
+Au niveau 7, le lien du daivrat avec l’élément qu’il a choisi s’intensifie. Quand il lance des sorts du registre choisi pour sa capacité école élémentaire, on considère que le daivrat possède le don [[École supérieure]]. École élémentaire supérieure ne se cumule pas avec le don [[École renforcée]] ni avec le don École supérieure.
 
 {s:Reference|GENIE}
 #### Génie (Ext)
-Au niveau 10, le daivrat change de type et devient un [Extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)). Il gagne une [résistance](./Résistance (capacité).md) 5 contre l’acide, le froid, l’électricité et le feu, une résistance 10 contre le type d’énergie choisi pour sa capacité [harmonisation élémentaire](./Daivrat.md#HARMONISATIONELEMENTAIRE) et une [réduction de dégâts](./RD.md) 5/—.
+Au niveau 10, le daivrat change de type et devient un [[type Extérieur|Extérieur]] ([[sous-type Natif|natif]]). Il gagne une [[Résistance (capacité)|résistance]] 5 contre l’acide, le froid, l’électricité et le feu, une résistance 10 contre le type d’énergie choisi pour sa capacité [[Daivrat#HARMONISATIONELEMENTAIRE|harmonisation élémentaire]] et une [[RD|réduction de dégâts]] 5/—.

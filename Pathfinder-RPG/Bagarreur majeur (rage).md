@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#BAGARREURMAJEUR
 ---
 
->>> [pouvoirs de rage#BAGARREURMAJEUR](./Pouvoirs de rage.md#BAGARREURMAJEUR)
+>>> [[pouvoirs de rage#BAGARREURMAJEUR]]

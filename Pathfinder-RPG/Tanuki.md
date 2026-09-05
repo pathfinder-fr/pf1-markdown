@@ -14,9 +14,9 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.250}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([métamorphe](./sous-type métamorphe.md)) de taille M, CN}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}),
-*[détection du poison](./Détection du poison.md)* ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type métamorphe|métamorphe]]) de taille M, CN}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]], [[vision dans le noir]] 18 m (12 {s:c}),
+*[[détection du poison]]* ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 14 (Dex +3, naturelle +3, bouclier +1)}
 {s:BDTexte|**pv** 47 (5d10+20)}
@@ -26,35 +26,35 @@ Categories:
 {s:BDTexte|**Corps à corps** bâton de maître, +7 (1d6+2) et bâton de maître, +7 (1d6+1) et coup, +2 (1d6+1)}
 {s:BDTexte|**A distance** fronde, +8 (1d4+2)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 7 ; concentration +11)}
-{s:BDSorts|Constant — *[détection du poison](./Détection du poison.md)*}
-{s:BDSorts|À volonté — *[purification de la nourriture et de l’eau](./Purification de nourriture et deau.md)*}
-{s:BDSorts|3/jour — *[pierre magique](./Pierre magique.md)*, *[création majeure](./Création majeure.md)* (jusqu’à 30 dm³)}
-{s:BDSorts|1/jour — *[création de nourriture et d’eau](./Création de nourriture et deau.md)*,
-*[réduction d’objet](./Réduction dobjet.md)*, *[voile](./Voile.md)* (personnelle uniquement)}
+{s:BDSorts|Constant — *[[détection du poison]]*}
+{s:BDSorts|À volonté — *[[Purification de nourriture et deau|purification de la nourriture et de l’eau]]*}
+{s:BDSorts|3/jour — *[[pierre magique]]*, *[[création majeure]]* (jusqu’à 30 dm³)}
+{s:BDSorts|1/jour — *[[création de nourriture et deau|création de nourriture et d’eau]]*,
+*[[réduction dobjet|réduction d’objet]]*, *[[voile]]* (personnelle uniquement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 17, **Con** 18, **Int** 13, **Sag** 14, **Cha** 19}
 {s:BDTexte|**BBA** +5, **BMO** +7, **DMD** 20}
-{s:BDTexte|**Dons** [Combat à deux armes](./Combat à deux armes.md), [Arme de prédilection](./Arme de prédilection.md) (bâton),
-[Défense à deux armes](./Défense à deux armes.md)}
-{s:BDTexte|**Compétences**[Art de la magie](./Art de la magie.md) +4, [Bluff](./Bluff.md) +7, [Connaissances](./Connaissances.md)(nature) +5,
-[Diplomatie](./Diplomatie.md) +6, [Discrétion](./Discrétion.md) +10, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +4, [Représentation](./Représentation.md) (percussions) +8}
+{s:BDTexte|**Dons** [[Combat à deux armes]], [[Arme de prédilection]] (bâton),
+[[Défense à deux armes]]}
+{s:BDTexte|**Compétences**[[Art de la magie]] +4, [[Bluff]] +7, [[Connaissances]](nature) +5,
+[[Diplomatie]] +6, [[Discrétion]] +10, [[Perception]] +8, [[Psychologie]] +4, [[Représentation]] (percussions) +8}
 {s:BDTexte|**Langue** commun, tanuki}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (raton laveur ; [forme bestiale II](./Forme bestiale II.md)), affinité avec le saké}
+{s:BDTexte|**Particularités** [[changement de forme (capacité)|changement de forme]] (raton laveur ; [[forme bestiale II]]), affinité avec le saké}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou villes tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou rassemblement (3-8)}
 {s:BDTexte|**Trésor** standard (bâton de maître, 4 gorgées de saké dans une
 gourde, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Affinité avec le saké (Sur).** Par une [action rapide](./Action rapide.md), le tanuki
+{s:BDTexte|**Affinité avec le saké (Sur).** Par une [[action rapide]], le tanuki
 peut avaler une gorgée de saké de la gourde qu’il transporte
 toujours avec lui. Ainsi, il bénéficie des effets de l’un
-des sorts suivants (NLS 7) : *[faveur divine](./Faveur divine.md)*, *[rage](./Rage.md)*, *[rapidité](./Rapidité.md)*
-ou *[simulacre de vie](./Simulacre de vie.md)*. Des tanukis plus rares peuvent
+des sorts suivants (NLS 7) : *[[faveur divine]]*, *[[rage]]*, *[[rapidité]]*
+ou *[[simulacre de vie]]*. Des tanukis plus rares peuvent
 bénéficier d’effets de sorts supplémentaires, au choix
 du MJ. Chaque fois qu’un tanuki prend une gorgée de
 saké, il devient un peu plus ivre et reçoit un malus de -1 à
-la CA et aux jets de [Réflexes](./Réflexes.md) pendant 1 minute. Ces malus
+la CA et aux jets de [[Réflexes]] pendant 1 minute. Ces malus
 se cumulent.}
 </div>
 </td><td><div>''Ce petit humanoïde grassouillet, ressemblant à un raton laveur, tient un

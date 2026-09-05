@@ -10,8 +10,8 @@ LastModified: 2021-02-22 00:03
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.118*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Fée](./type Fée.md) de taille M, CB}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Fée|Fée]] de taille M, CB}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 13, pris au dépourvu  13(Dex +3, naturelle +3)}
 {s:BDTexte|**pv**  13 (3d6+3)}
@@ -23,13 +23,13 @@ LastModified: 2021-02-22 00:03
 {s:BDTexte|**Distance** arc court, +4 (1d6/×3)}
 {s:BDTexte|**Attaque spéciale** flûte de pan}
 {s:BDTexte|**Pouvoirs magiques** ((NLS 3 ; concentration +6))}
-{s:BDSorts|À volonté — *[son imaginaire](./Son imaginaire.md)*(DD13)}
-{s:BDSorts|1/jour — *[fou rire](./Fou rire.md)* (DD 15), *[sommeil](./Sommeil.md)* (DD 14)}
+{s:BDSorts|À volonté — *[[son imaginaire]]*(DD13)}
+{s:BDSorts|1/jour — *[[fou rire]]* (DD 15), *[[sommeil]]* (DD 14)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 16, **Con** 13, **Int** 11, **Sag** 14, **Cha** 17}
 {s:BDTexte|**BBA** +1, **BMO** +3, **DMD** 16}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Tir à bout portant](./Tir à bout portant.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8, [Bluff](./Bluff.md) +9, [Discrétion](./Discrétion.md) +9, [Psychologie](./Psychologie.md) +7, [Représentation](./Représentation.md) (instruments à vent) +11, [Survie](./Survie.md) +4 }
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Tir à bout portant]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8, [[Bluff]] +9, [[Discrétion]] +9, [[Psychologie]] +7, [[Représentation]] (instruments à vent) +11, [[Survie]] +4 }
 {s:BDTexte|**Langues** commun, sylvestre}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}

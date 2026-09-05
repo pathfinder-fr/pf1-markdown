@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Mort-Vivant|Aquatique|Tempéré}
 - *Source : Bestiaire 2, p.119*
 - **PX** 600
-- [Mort-vivant](./type Mort-vivant.md) ([Eau](./sous-type Eau.md)) de taille M, CM
-- **Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [Perception](./Perception.md) +6
+- [[type Mort-vivant|Mort-vivant]] ([[sous-type Eau|Eau]]) de taille M, CM
+- **Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[Perception]] +6
 (((Défense)))
 - **CA** 14, contact 10, pris au dépourvu 14 (armure +2, naturelle +2)
 - **pv** 19 (3d8+6)
 - **Réf** +1, **Vig** +2, **Vol** +3
-- **Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) ; **RD** 5/contondant ou tranchant ; **Résistances** feu 10
+- **Immunités** [[traits des morts-vivants]] ; **RD** 5/contondant ou tranchant ; **Résistances** feu 10
 (((Attaque)))
 - **VD** 9 m (6 {s:c}), nage 9 m (6 {s:c})
 - **Corps à corps** grande hache, +5 (1d12+4/×3 plus nausées) ou coup, +5 (1d10+4 plus nausées)
 (((Statistiques)))
 - **For** 17, **Dex** 10, **Con** — , **Int** 8, **Sag** 10, **Cha** 13
 - **BBA** +2 ; **BMO** +5 ; **DMD** 15
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Robustesse](./Robustesse.md)
-- **Compétences** [Discrétion](./Discrétion.md) +6, [Escalade](./Escalade.md) +9, [Natation](./Natation.md) +11, [Perception](./Perception.md) +6
+- **Dons** [[Attaque en puissance]], [[Robustesse]]
+- **Compétences** [[Discrétion]] +6, [[Escalade]] +9, [[Natation]] +11, [[Perception]] +6
 - **Langues** commun (incapable de parler)
 (((Écologie)))
 - **Environnement** régions côtières
 - **Organisation sociale** solitaire ou équipage (2–8)
 - **Trésor** standard (grande hache, armure de cuir, autres trésors)
 (((Pouvoirs spéciaux)))
-- **Nausées (Sur).** Toute créature blessée par un draugr doit réussir un jet de Vigueur de DD 12 pour ne pas être [nauséeuse](./Nauséeux.md) pendant 1 round. Le DD du jet de sauvegarde dépend du Charisme.
+- **Nausées (Sur).** Toute créature blessée par un draugr doit réussir un jet de Vigueur de DD 12 pour ne pas être [[nauséeux|nauséeuse]] pendant 1 round. Le DD du jet de sauvegarde dépend du Charisme.
 
 </div>
 </td><td><div>*Ce corps animé incrusté de coquillages ressemble à un zombi, à ceci près qu’il est recouvert d’eau qui dégouline et qu’il en émane une puanteur atroce.*
@@ -70,9 +70,9 @@ Un capitaine draugr est un draugr modifié par l’archétype
 simple « créature évoluée ». En plus de cela, la plupart des
 capitaines draugrs possèdent des niveaux de classe, généralement
 de barbares, guerriers ou roublards. Les capitaines draugrs
-peuvent aussi utiliser *[brume de dissimulation](./Brume de dissimulation.md)* en tant que pouvoir
+peuvent aussi utiliser *[[brume de dissimulation]]* en tant que pouvoir
 magique (NLS 5, concentration +8) trois fois par jour et, au lieu
-d’entraîner des nausées, chacune de leur attaque inflige 1 [niveau négatif](./niveau négatif.md). Un capitaine draugr peut même infliger un [niveau négatif](./niveau négatif.md) en attaquant avec une arme manufacturée (mais s’il gagne
+d’entraîner des nausées, chacune de leur attaque inflige 1 [[niveau négatif]]. Un capitaine draugr peut même infliger un [[niveau négatif]] en attaquant avec une arme manufacturée (mais s’il gagne
 plusieurs attaques avec la même arme, il ne peut infliger qu’un
 seul niveau négatif par round).
 </div></td></tr></table>

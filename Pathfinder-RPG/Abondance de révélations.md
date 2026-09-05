@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Le personnage peut sonder les profondeurs de son mystère pour utiliser ses révélations plus souvent. *
 
-**Condition.** Pouvoir de classe [mystère](./Oracle.md#MYSTERE)
+**Condition.** Pouvoir de classe [[Oracle#MYSTERE|mystère]]
 
-**Avantage.** Le personnage choisit une [révélation](./Oracle.md#REVELATION) dont le nombre d’utilisations quotidiennes est limité. Il peut l’utiliser une fois de plus par jour.
+**Avantage.** Le personnage choisit une [[Oracle#REVELATION|révélation]] dont le nombre d’utilisations quotidiennes est limité. Il peut l’utiliser une fois de plus par jour.
 
 **Spécial.** Le personnage peut choisir ce don à plusieurs reprises. Ses effets ne se cumulent pas, ils s’appliquent à chaque fois à une nouvelle révélation.

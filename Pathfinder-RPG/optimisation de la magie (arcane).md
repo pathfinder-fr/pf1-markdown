@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Arcanes#OPTIMISATIONDELAMAGIE
 ---
 
->>> [Arcanes#OPTIMISATIONDELAMAGIE](./arcanes.md#OPTIMISATIONDELAMAGIE)
+>>> [[Arcanes#OPTIMISATIONDELAMAGIE]]

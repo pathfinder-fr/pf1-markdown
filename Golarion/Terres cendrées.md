@@ -7,15 +7,15 @@ Categories:
 - Varisie
 ---
 
-Les Terres Cendres sont une région inhospitalière du [plateau de Storval] en [Varisie]. Malgré sa mauvaise réputation, celle d'être stérile et désolée, elle n'abrite pas seulement des barbares shoantis. Elle constitue un véritable écosystème.
+Les Terres Cendres sont une région inhospitalière du [[plateau de Storval]] en [[Varisie]]. Malgré sa mauvaise réputation, celle d'être stérile et désolée, elle n'abrite pas seulement des barbares shoantis. Elle constitue un véritable écosystème.
 
 ### L'histoire des Terres Cendres
 Ancien récif corallien, les Terres Cendres sont devenues après un cataclysme une terre aux activités volcaniques et magmatiques importantes. Des cendres et des scories balaient son sol, formant parfois des tempêtes de braise.
 
 ### La géographie des Terres Cendres
-Elles se situent au sud du [plateau de Storval]. Délimitées au nord par le [Kazaron] et les [montagnes de Kodar](./Monts Kodar.md), à l'ouest par les [monts de la Wyverne], à l'est par les [Esprit|monts de l'Esprit] (d'où coule la [Yondabakari]) et au sud par les [falaises de Storval].
+Elles se situent au sud du [[plateau de Storval]]. Délimitées au nord par le [[Kazaron]] et les [[monts Kodar|montagnes de Kodar]], à l'ouest par les [[monts de la Wyverne]], à l'est par les [[Esprit|monts de l'Esprit]] (d'où coule la [[Yondabakari]]) et au sud par les [[falaises de Storval]].
 La majeure partie des Terres Cendres est constituée de terrain rocailleux, de formations rocheuses étranges et de canyons. Le vent omniprésent et capricieux y a sculpté le paysage.
-Côté flore, les buissons, les racines et les plantes grasses sont les rares variétés que l'on peut rencontrer, ainsi que quelques arbres aux propriétés étranges. ([Arbre-fiole], [lotra], [pavot ambré], [racine de galt], [tonneau de basilique])
+Côté flore, les buissons, les racines et les plantes grasses sont les rares variétés que l'on peut rencontrer, ainsi que quelques arbres aux propriétés étranges. ([[Arbre-fiole]], [[lotra]], [[pavot ambré]], [[racine de galt]], [[tonneau de basilique]])
 
 
 ### La géologie des Terres Cendres
@@ -30,8 +30,8 @@ La sécheresse y déclenche parfois de grands incendies.
 
 ### Les habitants des Terres Cendres
 Malgré la rudesse de ces terres on pourra y rencontrer :
-- Des gargouilles : les [Ailes Cendrées] ou Ashwings,
-- Des orques venant de la Forteresse de [Belkzen] et d'[Urglin],
+- Des gargouilles : les [[Ailes Cendrées]] ou Ashwings,
+- Des orques venant de la Forteresse de [[Belkzen]] et d'[[Urglin]],
 - Les tribus shoanties,
 - Quelques varisiens.
 
@@ -40,5 +40,5 @@ De nombreuses espèces ont du s'adapter à ce milieu hostile : l'akyrak, l'ankhe
 
 
 {s:VoirAussiAvant}
-- Plus d'informations sur la Terres Cendres dans le [++Aventures.Présentation AP2#AP2-4|quatrième volume] de la campagne [++Aventures.Présentation AP2|La Malédiction du Trône Écarlate].
+- Plus d'informations sur la Terres Cendres dans le [[Aventures.Présentation AP2#AP2-4|quatrième volume]] de la campagne [[Aventures.Présentation AP2|La Malédiction du Trône Écarlate]].
 {s:VoirAussiAprès}

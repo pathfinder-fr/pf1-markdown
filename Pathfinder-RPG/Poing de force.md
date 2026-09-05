@@ -14,21 +14,21 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Psy](./Psychiste.md) 3, [San](./Sanguin.md) 3, [Spi](./Spirite.md) 3  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Spirite|Spi]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [partielle](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] ; **Résistance à la magie** oui
 
-Ce sort charge les mains du personnage de force télékinétique. Par une [attaque de contact](./Valeurs de combat.md#ATTAQUESDECONTACT) réussie, le personnage inflige 1d4 dégâts de force par [niveau](./niveau.md) (10d4 au maximum) et repousse la cible en ligne droite sur 1,50 mètre par tranche de deux [niveaux de lanceur de sorts](./NLS.md). La distance sur laquelle la cible est repoussée est réduite pour chaque catégorie de [taille](./taille.md) au-dessus de M (-1,50 mètre pour une créature G, -3 pour une T, -4,50 pour une Gig et -6 pour une Col), avec un minimum de 0 mètre. Un jet de [Vigueur](./Vigueur.md) réussi annule le mouvement mais pas les dégâts.
+Ce sort charge les mains du personnage de force télékinétique. Par une [[Valeurs de combat#ATTAQUESDECONTACT|attaque de contact]] réussie, le personnage inflige 1d4 dégâts de force par [[niveau]] (10d4 au maximum) et repousse la cible en ligne droite sur 1,50 mètre par tranche de deux [[NLS|niveaux de lanceur de sorts]]. La distance sur laquelle la cible est repoussée est réduite pour chaque catégorie de [[taille]] au-dessus de M (-1,50 mètre pour une créature G, -3 pour une T, -4,50 pour une Gig et -6 pour une Col), avec un minimum de 0 mètre. Un jet de [[Vigueur]] réussi annule le mouvement mais pas les dégâts.
 
 ### Mythique
 {s:CMy}

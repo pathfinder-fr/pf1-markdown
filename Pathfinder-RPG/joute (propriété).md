@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Joute
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Joute](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Joute)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Joute]]

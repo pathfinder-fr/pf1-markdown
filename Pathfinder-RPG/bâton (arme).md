@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** — ; **Poids** 2 kg ; **Groupes** [armes de moine](./groupe darmes.md#Armesdemoine), [armes doubles](./groupe darmes.md#Armesdoubles)
-**Dégâts** 1d4/1d4 (P), 1d6/1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** [double](./Caractéristiques des armes.md#DOUBLE), [moine](./Caractéristiques des armes.md#MOINE)
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+{s:AE}**Prix** — ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]], [[Groupe darmes#Armesdoubles|armes doubles]]
+**Dégâts** 1d4/1d4 (P), 1d6/1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** [[Caractéristiques des armes#DOUBLE|double]], [[Caractéristiques des armes#MOINE|moine]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
 Le bâton est une simple pièce de bois d’environ 1,50 mètre de long. En combat, on le manie en tenant une extrémité d’une main et en plaçant l’autre main à un quart plus haut, ce qui permet de bloquer les coups et d’effectuer des frappes rapides.

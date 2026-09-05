@@ -10,4 +10,4 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire 3* p.304
 
-Ce sous-type s’applique aux êtres [humanoïdes](./type Humanoïde.md) que l’on appelle les sasquatchs, ainsi qu’aux créatures qui leur sont apparentées.
+Ce sous-type s’applique aux êtres [[type humanoïde|humanoïdes]] que l’on appelle les sasquatchs, ainsi qu’aux créatures qui leur sont apparentées.

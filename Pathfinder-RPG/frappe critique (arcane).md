@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#FRAPPECRITIQUE
 ---
 
->>> [arcanes#FRAPPECRITIQUE](./arcanes.md#FRAPPECRITIQUE)
+>>> [[arcanes#FRAPPECRITIQUE]]

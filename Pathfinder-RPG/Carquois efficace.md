@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Carquois efficace|{s:AE}}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 1 800 po ; **Poids** 1 kg
+**Aura** [[Invocation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 1 800 po ; **Poids** 1 kg
 (((Description)))
 Ce carquois d’aspect banal semble pouvoir contenir vingt flèches. En l’examinant avec attention, on s’aperçoit qu’il est constitué de trois parties distinctes, chacune étant pourvue d’un espace non dimensionnel offrant de grandes possibilités de rangement. Le plus petit peut accueillir jusqu’à soixante objets de la taille et de la forme d’une flèche. Plus profond, le compartiment suivant peut contenir un total de dix-huit objets de la taille et de la forme d’une javeline. Enfin, le plus grand est prévu pour ranger jusqu’à six objets de la taille et de la forme d’un arc (bâtons, lances et autres armes similaires entrent dans cette catégorie). Une fois le carquois rempli, son possesseur peut y récupérer un objet de son choix comme s’il s’agissait d’un carquois ou d'un fourreau ordinaire. Un carquois efficace a le même poids vide ou rempli.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[coffre secret](./Coffre secret.md)* ; **Coût** 900 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[coffre secret]]* ; **Coût** 900 po
 </div>

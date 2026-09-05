@@ -17,34 +17,34 @@ Categories:
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Détection du Chaos](./Champion dIrori.md#DETECTIONDUCHAOS), [artiste martial](./Champion dIrori.md#ARTISTEMARTIAL), [châtiment du Chaos](./Champion dIrori.md#CHATIMENTDUCHAOS)
+| CLASS="gauche" | [[Champion dIrori#DETECTIONDUCHAOS|Détection du Chaos]], [[Champion dIrori#ARTISTEMARTIAL|artiste martial]], [[Champion dIrori#CHATIMENTDUCHAOS|châtiment du Chaos]]
 |- CLASS="alt"
 | 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [Réserve de ki](./Champion dIrori.md#RESERVEDEKI), [poursuite du savoir](./Champion dIrori.md#POURSUITEDUSAVOIR)
+| CLASS="gauche" | [[Champion dIrori#RESERVEDEKI|Réserve de ki]], [[Champion dIrori#POURSUITEDUSAVOIR|poursuite du savoir]]
 |-
 | 3 || +3 || +2 || +2 || +2
-| CLASS="gauche" | [Châtiment généralisé](./Champion dIrori.md#CHATIMENTGENERALISE) (une cible)
+| CLASS="gauche" | [[Champion dIrori#CHATIMENTGENERALISE|Châtiment généralisé]] (une cible)
 |- CLASS="alt"
 | 4 || +4 || +2 || +2 || +2
-| CLASS="gauche" | [Défense vaillante](./Champion dIrori.md#DEFENSEVAILLANTE)
+| CLASS="gauche" | [[Champion dIrori#DEFENSEVAILLANTE|Défense vaillante]]
 |-
 | 5 || +5 || +3 || +3 || +3
-| CLASS="gauche" | [Protéger les faibles](./Champion dIrori.md#PROTEGERLESFAIBLES)
+| CLASS="gauche" | [[Champion dIrori#PROTEGERLESFAIBLES|Protéger les faibles]]
 |- CLASS="alt"
 | 6 || +6 || +3 || +3 || +3
-| CLASS="gauche" | [Maîtrise des compétences](./Champion dIrori.md#MAITRISEDESCOMPETENCES), [Châtiment généralisé](./Champion dIrori.md#CHATIMENTGENERALISE) (plusieurs cibles)
+| CLASS="gauche" | [[Champion dIrori#MAITRISEDESCOMPETENCES|Maîtrise des compétences]], [[Champion dIrori#CHATIMENTGENERALISE|Châtiment généralisé]] (plusieurs cibles)
 |-
 | 7 || +7 || +4 || +4 || +4
-| CLASS="gauche" | [Ouverture parfaite](./Champion dIrori.md#OUVERTUREPARFAITE)
+| CLASS="gauche" | [[Champion dIrori#OUVERTUREPARFAITE|Ouverture parfaite]]
 |- CLASS="alt"
 | 8 || +8 || +4 || +4 || +4
-| CLASS="gauche" | [Un seul doigt](./Champion dIrori.md#UNSEULDOIGT)
+| CLASS="gauche" | [[Champion dIrori#UNSEULDOIGT|Un seul doigt]]
 |-
 | 9 || +9 || +5 || +5 || +5
-| CLASS="gauche" | [Frappe parfaite](./Champion dIrori.md#FRAPPEPARFAITE)
+| CLASS="gauche" | [[Champion dIrori#FRAPPEPARFAITE|Frappe parfaite]]
 |- CLASS="alt"
 | 10 || +10 || +5 || +5 || +5
-| CLASS="gauche" | [Châtiment tourbillonnant](./Champion dIrori.md#CHATIMENTTOURBILLONNANT)
+| CLASS="gauche" | [[Champion dIrori#CHATIMENTTOURBILLONNANT|Châtiment tourbillonnant]]
 |}
 </center>
 
@@ -55,16 +55,16 @@ Pour pouvoir devenir champion de la perfection, le personnage doit satisfaire au
 
 **Alignement.** Loyal Bon.
 
-**Compétences.** 5 rangs en [Connaissances](./Connaissances.md) (religion), un total de 5 rangs en [Linguistique](./Linguistique.md) ou dans d'autres compétences de [Connaissances](./Connaissances.md).
+**Compétences.** 5 rangs en [[Connaissances]] (religion), un total de 5 rangs en [[Linguistique]] ou dans d'autres compétences de [[Connaissances]].
 
-**Divinité.** Doit prier le [dieu du savoir](./../Golarion/Irori.md).
+**Divinité.** Doit prier le [[Golarion.Irori|dieu du savoir]].
 
-**Spécial.** Capacités de classe [châtiment du Mal](./Paladin.md#CHATIMENTDUMAL) et [sérénité](./Moine.md#SERENITE).
+**Spécial.** Capacités de classe [[Paladin#CHATIMENTDUMAL|châtiment du Mal]] et [[Moine#SERENITE|sérénité]].
 
 ### Compétences de classe
-Voici les compétences de classe du champion de la perfection : [Acrobaties](./Acrobaties.md) (Dex), [Art de la magie](./Art de la magie.md) (Int), [Connaissances](./Connaissances.md) (toutes) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Évasion](./Évasion.md) (Dex), [Perception](./Perception.md) (Sag), [Premiers secours](./Premiers secours.md) (Sag), [Psychologie](./Psychologie.md) (Sag).
+Voici les compétences de classe du champion de la perfection : [[Acrobaties]] (Dex), [[Art de la magie]] (Int), [[Connaissances]] (toutes) (Int), [[Diplomatie]] (Cha), [[Évasion]] (Dex), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Psychologie]] (Sag).
 
-**Rangs de compétence par niveau.** 4 + modificateur d'[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de champion de la perfection.
@@ -73,57 +73,57 @@ Le champion de la perfection ne gagne aucune formation supplémentaire au port d
 
 {s:reference|DETECTIONDUCHAOS}
 #### Détection du Chaos (Mag)
-Cette capacité fonctionne comme la capacité de [détection du Mal](./Paladin.md#DETECTIONDUMAL) du [paladin](./Paladin.md), mais détecte le Chaos au lieu du Mal.
+Cette capacité fonctionne comme la capacité de [[paladin#DETECTIONDUMAL|détection du Mal]] du [[paladin]], mais détecte le Chaos au lieu du Mal.
 
 {s:reference|ARTISTEMARTIAL}
 #### Artiste martial (Ext)
-Le niveau de classe d'un champion de la perfection du personnage se cumule avec son niveau de [moine](./Moine.md) pour déterminer les effets de ses capacités de classe [bonus à la CA](./Moine.md#BONUSCA), [déluge de coups](./Moine.md#DELUGEDECOUPS), [coup étourdissant](./Moine.md#COUPETOURDISSANT) et [combat à mains nues](./Moine.md#COMBATAMAINSNUES).
+Le niveau de classe d'un champion de la perfection du personnage se cumule avec son niveau de [[moine]] pour déterminer les effets de ses capacités de classe [[Moine#BONUSCA|bonus à la CA]], [[Moine#DELUGEDECOUPS|déluge de coups]], [[moine#COUPETOURDISSANT|coup étourdissant]] et [[moine#COMBATAMAINSNUES|combat à mains nues]].
 
 {s:reference|CHATIMENTDUCHAOS}
 #### Châtiment du Chaos (Sur)
-Au niveau 1, un champion de la perfection obtient une utilisation supplémentaire de sa capacité de paladin [châtiment du Mal](./Paladin.md#CHATIMENTDUMAL). De plus, il peut utiliser cette capacité pour châtier le Chaos au lieu du Mal, ce qui affecte les créatures d'alignement Chaotique et inflige 2 points de dégâts par niveau de classe sur sa première attaque réussie contre les [extérieurs](./type Extérieur.md) avec le sous-type [Chaos](./sous-type Chaos.md), les [aberrations](./type Aberration.md) chaotiques et les [fées](./type Fée.md). Le niveau du champion de la perfection se cumule avec son niveau de [paladin](./Paladin.md) pour déterminer les dégâts qu'inflige le paladin du dieu du savoir aux cibles de son châtiment. Le champion de la perfection ne peut pas bénéficier des effets d'un châtiment du Mal et d'un châtiment du Chaos en même temps, en utiliser un met immédiatement fin à l'ancien effet. Au niveau 8, un champion de la perfection obtient une utilisation supplémentaire de sa capacité châtiment du Mal.
+Au niveau 1, un champion de la perfection obtient une utilisation supplémentaire de sa capacité de paladin [[Paladin#CHATIMENTDUMAL|châtiment du Mal]]. De plus, il peut utiliser cette capacité pour châtier le Chaos au lieu du Mal, ce qui affecte les créatures d'alignement Chaotique et inflige 2 points de dégâts par niveau de classe sur sa première attaque réussie contre les [[type extérieur|extérieurs]] avec le sous-type [[sous-type Chaos|Chaos]], les [[type Aberration|aberrations]] chaotiques et les [[type fée|fées]]. Le niveau du champion de la perfection se cumule avec son niveau de [[paladin]] pour déterminer les dégâts qu'inflige le paladin du dieu du savoir aux cibles de son châtiment. Le champion de la perfection ne peut pas bénéficier des effets d'un châtiment du Mal et d'un châtiment du Chaos en même temps, en utiliser un met immédiatement fin à l'ancien effet. Au niveau 8, un champion de la perfection obtient une utilisation supplémentaire de sa capacité châtiment du Mal.
 
 {s:reference|RESERVEDEKI}
 #### Réserve de ki (Sur)
-Au niveau 2, un champion de la perfection obtient une réserve de ki égale à la moitié de son niveau de classe + son modificateur de [Sagesse](./Sagesse.md); elle fonctionne exactement comme la [capacité de moine](./Moine.md#RESERVEDEKI) du même nom, et les  niveaux dans cette classe se cumulent avec les niveaux dans d'autres classes qui confèrent une réserve de ki. En plus des utilisations normales de cette réserve de ki, le champion de la perfection peut dépenser 2 points de ki pour déclencher son [imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) (s'il possède cette capacité) ou son [châtiment du Mal](./Paladin.md#CHATIMENTDUMAL). Son niveau de classe se cumule avec son niveau de [paladin](./Paladin.md) pour déterminer les effets de ces capacités.
+Au niveau 2, un champion de la perfection obtient une réserve de ki égale à la moitié de son niveau de classe + son modificateur de [[Sagesse]]; elle fonctionne exactement comme la [[Moine#RESERVEDEKI|capacité de moine]] du même nom, et les  niveaux dans cette classe se cumulent avec les niveaux dans d'autres classes qui confèrent une réserve de ki. En plus des utilisations normales de cette réserve de ki, le champion de la perfection peut dépenser 2 points de ki pour déclencher son [[Paladin#IMPOSITIONDESMAINS|imposition des mains]] (s'il possède cette capacité) ou son [[Paladin#CHATIMENTDUMAL|châtiment du Mal]]. Son niveau de classe se cumule avec son niveau de [[paladin]] pour déterminer les effets de ces capacités.
 
 {s:reference|POURSUITEDUSAVOIR}
 #### Poursuite du savoir (Ext)
-Au niveau 2, le champion de la perfection ajoute la moitié de son niveau de classe à tous ses tests de [Connaissances](./Connaissances.md), et peut faire des tests de Connaissances même sans formation.
+Au niveau 2, le champion de la perfection ajoute la moitié de son niveau de classe à tous ses tests de [[Connaissances]], et peut faire des tests de Connaissances même sans formation.
 
 {s:reference|CHATIMENTGENERALISE}
 #### Châtiment généralisé (Ext)
-Au niveau 3, par une [action simple](./Action simple.md), un champion de la perfection peut réaliser une unique attaque à mains nues tout en utilisant sa capacité [châtiment du Mal](./Paladin.md#CHATIMENTDUMAL) ou [châtiment du Chaos](./Champion dIrori.md#CHATIMENTDUCHAOS). Si l'attaque touche, il peut faire une autre attaque avec le même bonus contre une créature mauvaise ou chaotique adjacente à la première cible et qui est aussi à portée d'allonge. Il obtient les avantages du châtiment du Mal ou du châtiment du Chaos (celui qu'il a utilisé) contre cette créature jusqu'à son prochain tour, sauf pour les dégâts supplémentaires sur la première attaque. Cela ne coûte pas d'utilisation supplémentaire de châtiment du Mal ou châtiment du Chaos.
+Au niveau 3, par une [[action simple]], un champion de la perfection peut réaliser une unique attaque à mains nues tout en utilisant sa capacité [[paladin#CHATIMENTDUMAL|châtiment du Mal]] ou [[Champion dIrori#CHATIMENTDUCHAOS|châtiment du Chaos]]. Si l'attaque touche, il peut faire une autre attaque avec le même bonus contre une créature mauvaise ou chaotique adjacente à la première cible et qui est aussi à portée d'allonge. Il obtient les avantages du châtiment du Mal ou du châtiment du Chaos (celui qu'il a utilisé) contre cette créature jusqu'à son prochain tour, sauf pour les dégâts supplémentaires sur la première attaque. Cela ne coûte pas d'utilisation supplémentaire de châtiment du Mal ou châtiment du Chaos.
 
-Au niveau 6, un champion de la perfection peut utiliser cette capacité pour attaquer autant d'adversaires qu'il le souhaite, tant qu'il sont dans sa zone contrôlée et qu'ils sont adjacents à la cible précédente. Cette capacité fonctionne comme les dons [Enchaînement](./Enchaînement.md) et [Succession d'enchaînements](./Succession denchaînements.md) mais elle ne se cumule pas avec eux et n'impose pas de malus à la [CA](./CA.md).
+Au niveau 6, un champion de la perfection peut utiliser cette capacité pour attaquer autant d'adversaires qu'il le souhaite, tant qu'il sont dans sa zone contrôlée et qu'ils sont adjacents à la cible précédente. Cette capacité fonctionne comme les dons [[Enchaînement]] et [[Succession denchaînements|Succession d'enchaînements]] mais elle ne se cumule pas avec eux et n'impose pas de malus à la [[CA]].
 
 {s:reference|DEFENSEVAILLANTE}
 #### Défense vaillante (Sur)
-Au niveau 4, un champion de la perfection obtient un bonus de sainteté égal à la moitié de son niveau de classe aux [jets d'attaque](./jet dattaque.md) et à la [CA](./CA.md) quand il est adjacent à plus d'un ennemi. Il n'obtient pas ce bonus si un allié lui est adjacent.
+Au niveau 4, un champion de la perfection obtient un bonus de sainteté égal à la moitié de son niveau de classe aux [[jet dattaque|jets d'attaque]] et à la [[CA]] quand il est adjacent à plus d'un ennemi. Il n'obtient pas ce bonus si un allié lui est adjacent.
 
 {s:reference|PROTEGERLESFAIBLES}
 #### Protéger les faibles (Sur)
-Au niveau 5, une fois par [round](./round.md) et par une [action immédiate](./Action immédiate.md), un champion de la perfection peut protéger un nombre d'alliés adjacents égal à son modificateur de [Sagesse](./Sagesse.md) contre un effet de [cône](./cône.md), d'[étendue](./étendue.md), de [ligne](./ligne.md) ou de [rayonnement](./rayonnement.md) qui autorise un jet de [Réflexes](./Réflexes.md) et qui affecte le champion de la perfection et tous ses alliés. Le champion de la perfection doit renoncer à son propre [jet de sauvegarde](./JDS.md) mais ses alliés adjacents obtiennent un [abri amélioré](./Modificateurs de combat.md#Abri amélioré) contre l'effet, ce qui leur octroie un bonus de +4 au jet de Réflexes ainsi que l'[esquive surnaturelle](./Moine.md#ESQUIVESURNATURELLE) contre l'effet.
+Au niveau 5, une fois par [[round]] et par une [[action immédiate]], un champion de la perfection peut protéger un nombre d'alliés adjacents égal à son modificateur de [[Sagesse]] contre un effet de [[cône]], d'[[étendue]], de [[ligne]] ou de [[rayonnement]] qui autorise un jet de [[Réflexes]] et qui affecte le champion de la perfection et tous ses alliés. Le champion de la perfection doit renoncer à son propre [[jds|jet de sauvegarde]] mais ses alliés adjacents obtiennent un [[Modificateurs de combat#Abri amélioré|abri amélioré]] contre l'effet, ce qui leur octroie un bonus de +4 au jet de Réflexes ainsi que l'[[moine#ESQUIVESURNATURELLE|esquive surnaturelle]] contre l'effet.
 
 {s:reference|MAITRISEDESCOMPETENCES}
 #### Maîtrise des compétences
-Au niveau 6, un champion de la perfection s'est perfectionné dans plusieurs de ses compétences. Cette capacité fonctionne comme le [talent de maître du roublard](./Talents.md#MAITRISECOMPETENCES) du même nom.
+Au niveau 6, un champion de la perfection s'est perfectionné dans plusieurs de ses compétences. Cette capacité fonctionne comme le [[Talents#MAITRISECOMPETENCES|talent de maître du roublard]] du même nom.
 
 {s:reference|OUVERTUREPARFAITE}
 #### Ouverture parfaite (Ext)
-Au niveau 7, une fois par [round](./round.md), un champion de la perfection peut faire une [attaque d'opportunité](./AO.md) contre un ennemi qu'il menace lorsque cet ennemi confirme un [coup critique](./coup critique.md) contre lui ou un allié. Le champion de la perfection peut faire cette attaque d'opportunité même s'il devrait être tué ou rendu incapable d'agir par le coup critique. Le champion de la perfection portera son coup après avoir subi les dégâts du coup critique mais avant de tomber inconscient ou de mourir. Si l'attaque d'opportunité du champion de la perfection touche, il s'agit automatiquement d'un critique potentiel.
+Au niveau 7, une fois par [[round]], un champion de la perfection peut faire une [[AO|attaque d'opportunité]] contre un ennemi qu'il menace lorsque cet ennemi confirme un [[coup critique]] contre lui ou un allié. Le champion de la perfection peut faire cette attaque d'opportunité même s'il devrait être tué ou rendu incapable d'agir par le coup critique. Le champion de la perfection portera son coup après avoir subi les dégâts du coup critique mais avant de tomber inconscient ou de mourir. Si l'attaque d'opportunité du champion de la perfection touche, il s'agit automatiquement d'un critique potentiel.
 
 {s:reference|UNSEULDOIGT}
 #### Un seul doigt (Sur)
-Au niveau 8, par une [action simple](./Action simple.md), un champion de la perfection peut traiter une unique attaque à mains nues comme une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md).
+Au niveau 8, par une [[action simple]], un champion de la perfection peut traiter une unique attaque à mains nues comme une [[attaque de contact au corps à corps]].
 
 {s:reference|FRAPPEPARFAITE}
 #### Frappe parfaite (Sur)
-Au niveau 9, un champion de la perfection peut dépenser 1 point de ki par une [action rapide](./Action rapide.md) pour perfectionner la prochaine attaque à mains nues qu'il fera avant la fin de son tour. Le champion de la perfection lance deux fois son [jet d'attaque](./jet dattaque.md) et son [jet de dégâts](./Valeurs de combat.md#DEGATS) et choisit quel résultat conserver.
+Au niveau 9, un champion de la perfection peut dépenser 1 point de ki par une [[action rapide]] pour perfectionner la prochaine attaque à mains nues qu'il fera avant la fin de son tour. Le champion de la perfection lance deux fois son [[jet dattaque|jet d'attaque]] et son [[Valeurs de combat#DEGATS|jet de dégâts]] et choisit quel résultat conserver.
 
 {s:reference|CHATIMENTTOURBILLONNANT}
 #### Châtiment tourbillonnant (Ext)
-Au niveau 10, par une [action complexe](./Action complexe.md), un champion de la perfection peut porter une unique attaque à mains nues contre toutes les créatures qui sont à sa portée comme s'il possédait le don [Attaque en rotation](./Attaque en rotation.md) (mais il ne peut l'utiliser qu'avec des attaques à mains nues). Il peut également activer son [châtiment du Mal](./Paladin.md#CHATIMENTDUMAL) ou son [châtiment du Chaos](./Champion dIrori.md#CHATIMENTDUCHAOS) pendant cette action, ce qui lui confère les avantages de cette capacité contre toutes les créatures qu'il attaque pendant un nombre de [rounds](./round.md) égal à son modificateur de [Sagesse](./Sagesse.md).
+Au niveau 10, par une [[action complexe]], un champion de la perfection peut porter une unique attaque à mains nues contre toutes les créatures qui sont à sa portée comme s'il possédait le don [[Attaque en rotation]] (mais il ne peut l'utiliser qu'avec des attaques à mains nues). Il peut également activer son [[Paladin#CHATIMENTDUMAL|châtiment du Mal]] ou son [[Champion dIrori#CHATIMENTDUCHAOS|châtiment du Chaos]] pendant cette action, ce qui lui confère les avantages de cette capacité contre toutes les créatures qu'il attaque pendant un nombre de [[round|rounds]] égal à son modificateur de [[Sagesse]].
 
 ### Code de conduite
-Le champion de la perfection adhère à la Loi et au Bien comme tout autre paladin, en se comportant avec honneur et en protégeant les innocents. Il perd toutes ses capacités de classe s'il commet un acte mauvais de son propre gré. Le champion de la perfection doit éviter toute implication ou participation qui le distrairait de sa poursuite de la perfection, et il ne peut pas endetter quelqu'un ou faire un prêt à quelqu'un d'autre – même s'il est fortement encouragé de donner gratuitement à ceux dans le besoin. Il rejette tout suivant potentiel quel qu'il soit et ne doit pas recruter (et doit mettre fin à un tel service, s'il en bénéficie déjà) de [compagnon d'arme](./Prestige.md), de suivant, de [compagnon animal](./Compagnons animaux.md), de [familier](./Familiers.md), de monture spéciale ou tout autre créature similaire.
+Le champion de la perfection adhère à la Loi et au Bien comme tout autre paladin, en se comportant avec honneur et en protégeant les innocents. Il perd toutes ses capacités de classe s'il commet un acte mauvais de son propre gré. Le champion de la perfection doit éviter toute implication ou participation qui le distrairait de sa poursuite de la perfection, et il ne peut pas endetter quelqu'un ou faire un prêt à quelqu'un d'autre – même s'il est fortement encouragé de donner gratuitement à ceux dans le besoin. Il rejette tout suivant potentiel quel qu'il soit et ne doit pas recruter (et doit mettre fin à un tel service, s'il en bénéficie déjà) de [[Prestige|compagnon d'arme]], de suivant, de [[compagnons animaux|compagnon animal]], de [[familiers|familier]], de monture spéciale ou tout autre créature similaire.

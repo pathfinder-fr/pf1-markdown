@@ -5,4 +5,4 @@ LastModified: 2010-06-25 14:31
 RedirectTo: Pathfinder-RPG.rang
 ---
 
->>> [Pathfinder-RPG.rang](./rang.md)
+>>> [[Pathfinder-RPG.rang]]

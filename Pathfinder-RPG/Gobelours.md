@@ -15,8 +15,8 @@ Categories:
 {s:pucem|Humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.163, Codex Monstrueux p.90*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille M, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille M, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 16 (armure +2, bouclier +1, Dex +1, naturelle +3)}
 {s:BDTexte|**pv** 16 (3d8+3)}
@@ -28,17 +28,17 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 13, **Con** 13, **Int** 10, **Sag** 10, **Cha** 9}
 {s:BDTexte|**BBA** +2, **BMO** +5, **DMD** 16}
-{s:BDTexte|**Dons** [Force intimidante](./Force intimidante.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Intimidation](./Intimidation.md) +7, [Perception](./Perception.md) +8 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4, [Intimidation](./Intimidation.md) +4}
+{s:BDTexte|**Dons** [[Force intimidante]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Intimidation]] +7, [[Perception]] +8 ; **Modificateurs raciaux** [[Discrétion]] +4, [[Intimidation]] +4}
 {s:BDTexte|**Langues** commun, gobelin}
 {s:BDTexte|**Particularités** traqueur}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes tempérées}
-{s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-6) ou groupe de combat (7-12 et 2 [hommes d'armes](./Homme darme.md) de niveau 1 et 1 chef de niveau 3-5)}
+{s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-6) ou groupe de combat (7-12 et 2 [[homme darme|hommes d'armes]] de niveau 1 et 1 chef de niveau 3-5)}
 {s:BDTexte|**Trésor** équipement de PNJ (armure de cuir, rondache en bois, morgenstern, 3 javelines, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
 {s:Reference|TRAQUEUR}
-{s:BDTexte|**Traqueur (Ext).** [Discrétion](./Discrétion.md) et [Perception](./Perception.md) sont des compétences de classe pour tous les gobelours.}
+{s:BDTexte|**Traqueur (Ext).** [[Discrétion]] et [[Perception]] sont des compétences de classe pour tous les gobelours.}
 </div>
 
 {s:ImageDroite|Bestiaire/Gobelours_Bruthazmus.jpg|90%}
@@ -49,34 +49,34 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Gobelours](./Gobelours.md) || 2
+| [[Gobelours]] || 2
 |-
-| [Grincedent gobelours](./Grincedent gobelours.md) || 4
+| [[Grincedent gobelours]] || 4
 |-
-| [Traqueur gobelours](./Traqueur gobelours.md) || 5
+| [[Traqueur gobelours]] || 5
 |-
-| [Fanatique gobelours](./Fanatique gobelours.md) || 7
+| [[Fanatique gobelours]] || 7
 |-
-| [Dévoreur gobelours](./Dévoreur gobelours.md) || 8
+| [[Dévoreur gobelours]] || 8
 |-
-| [Rôdeur gobelours](./Rôdeur gobelours.md) || 8
+| [[Rôdeur gobelours]] || 8
 |-
-| [Spectre terrifiant](./Spectre terrifiant.md) || 8
+| [[Spectre terrifiant]] || 8
 |-
-| [Gobelours adepte de l'embuscade](./Gobelours adepte de lembuscade.md) || 10
+| [[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]] || 10
 |-
-| [Ombre discrète gobelours](./Ombre discrète gobelours.md) || 10
+| [[Ombre discrète gobelours]] || 10
 |-
-| [Mage du sang gobelours](./Mage du sang gobelours.md) || 11
+| [[Mage du sang gobelours]] || 11
 |-
-| [Tyran gobelours](./Tyran gobelours.md) || 13
+| [[Tyran gobelours]] || 13
 |}
 </div>*Cette créature à la fourrure sombre brandit un morgenstern à piques. Ses yeux laiteux brillent d’excitation à l’idée de tuer.*
 
-Les gobelours sont les plus grands des gobelinoïdes : ces lourdes brutes mesurent au moins une tête de plus que la plupart des humains. Solitaires, ils préfèrent vivre et tuer seuls plutôt que de se retrouver avec d’autres individus de leur espèce. Malgré tout, on rencontre parfois des petits groupes de gobelours qui travaillent ensemble ou ont rejoint une tribu de gobelins ou de [hobgobelins](./Hobgobelin.md) pour tenir le rôle de gardes
+Les gobelours sont les plus grands des gobelinoïdes : ces lourdes brutes mesurent au moins une tête de plus que la plupart des humains. Solitaires, ils préfèrent vivre et tuer seuls plutôt que de se retrouver avec d’autres individus de leur espèce. Malgré tout, on rencontre parfois des petits groupes de gobelours qui travaillent ensemble ou ont rejoint une tribu de gobelins ou de [[Hobgobelin|hobgobelins]] pour tenir le rôle de gardes
 d’élite ou de bourreaux.
 
-Les gobelours ne forment pas de grands clans comme les [gobelins](./gobelins.md) ni de grandes nations comme les [hobgobelins](./Hobgobelin.md). Ils préfèrent les groupes plus petits au sein desquels ils peuvent pratiquer leurs activités préférées (le meurtre et la torture) de manière plus intime. Leurs proies de prédilection sont les humains. Bon nombre d’entre eux considèrent la chair humaine comme la base de leur alimentation. Ils se parent souvent de décorations macabres composées d’oreilles ou de doigts.
+Les gobelours ne forment pas de grands clans comme les [[gobelins]] ni de grandes nations comme les [[Hobgobelin|hobgobelins]]. Ils préfèrent les groupes plus petits au sein desquels ils peuvent pratiquer leurs activités préférées (le meurtre et la torture) de manière plus intime. Leurs proies de prédilection sont les humains. Bon nombre d’entre eux considèrent la chair humaine comme la base de leur alimentation. Ils se parent souvent de décorations macabres composées d’oreilles ou de doigts.
 
 Les gobelours qui s’intéressent à la religion préfèrent les divinités tournées vers le meurtre et la violence, parmi lesquelles certains seigneurs démons figurent en bonne place.
 
@@ -84,10 +84,10 @@ Un gobelours moyen mesure 2,10 mètres et pèse 200 kg.
 
 #### La nature du Mal chez les gobelinoïdes
 
-Malgré les similarités superficielles que les [gobelins](./Gobelin (race).md), les [hobgobelins](./Hobgobelin (race).md) et les gobelours partagent, ces races représentent des aspects différents du Mal. Les [hobgobelins](./Hobgobelin (race).md) sont disciplinés et méthodiques : ils forment de vastes armées, des troupes de guerre et des nations despotiques.
-Les [gobelins](./Gobelin (race).md) correspondent au Mal primaire : ils visent seulement à se montrer cruels et méchants chaque fois qu’ils le peuvent, que ce soit envers d’autres créatures de leur espèce ou envers leurs voisins.
+Malgré les similarités superficielles que les [[Gobelin (race)|gobelins]], les [[Hobgobelin (race)|hobgobelins]] et les gobelours partagent, ces races représentent des aspects différents du Mal. Les [[Hobgobelin (race)|hobgobelins]] sont disciplinés et méthodiques : ils forment de vastes armées, des troupes de guerre et des nations despotiques.
+Les [[Gobelin (race)|gobelins]] correspondent au Mal primaire : ils visent seulement à se montrer cruels et méchants chaque fois qu’ils le peuvent, que ce soit envers d’autres créatures de leur espèce ou envers leurs voisins.
 
-Mais le Mal que les gobelours incarnent est peut-être le plus terrifiant de tous, car ils recherchent activement à infliger douleurs et souffrances de la manière la plus destructrice possible. Lorsqu’un [hobgobelin](./Hobgobelin (race).md) tue une victime, c’est pour suivre la tradition ou les ordres. Lorsqu’un [gobelin](./Gobelin (race).md) tue une victime, c’est pour s’amuser. Mais lorsque c’est un gobelours qui tient la lame, celui-ci attend le moment où il est certain de causer le plus de douleur et de souffrance pour tuer sa victime. Pour un gobelours, le véritable but du meurtre n’est pas tant de tuer la victime que d’accabler ceux qui la considèrent comme un être cher.
+Mais le Mal que les gobelours incarnent est peut-être le plus terrifiant de tous, car ils recherchent activement à infliger douleurs et souffrances de la manière la plus destructrice possible. Lorsqu’un [[Hobgobelin (race)|hobgobelin]] tue une victime, c’est pour suivre la tradition ou les ordres. Lorsqu’un [[Gobelin (race)|gobelin]] tue une victime, c’est pour s’amuser. Mais lorsque c’est un gobelours qui tient la lame, celui-ci attend le moment où il est certain de causer le plus de douleur et de souffrance pour tuer sa victime. Pour un gobelours, le véritable but du meurtre n’est pas tant de tuer la victime que d’accabler ceux qui la considèrent comme un être cher.
 </div></td></tr></table>
 
 {s:cm}
@@ -112,7 +112,7 @@ On pourrait croire que dans une telle société, la place d’agent de la cabale
 
 {s:CM}
 ### Nouvelles règles raciales
-Les règles suivantes présentent un archétype, des dons, un sort et des objets magiques spécialement conçus pour les gobelours et les [wikkawaks](./Wikkawak.md).
+Les règles suivantes présentent un archétype, des dons, un sort et des objets magiques spécialement conçus pour les gobelours et les [[Wikkawak|wikkawaks]].
 #### Dons
 Voici quelques dons très appréciés des gobelours.
 <center>
@@ -125,39 +125,39 @@ Voici quelques dons très appréciés des gobelours.
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Beuglement terrifiant](./Beuglement terrifiant.md) || <sup>CM</sup> || [Force intimidante](./Force intimidante.md) || Démoralisation gratuite pendant le round de surprise
+| [[Beuglement terrifiant]] || <sup>CM</sup> || [[Force intimidante]] || Démoralisation gratuite pendant le round de surprise
 
 |- CLASS="premier"
-| [Blessant](./Blessant.md) || <sup>CM</sup> || [For](./For.md) 13, [Attaque en puissance](./Attaque en puissance.md) || Attaque au corps à corps gratuite après un test d'Intimidation réussit
+| [[Blessant]] || <sup>CM</sup> || [[For]] 13, [[Attaque en puissance]] || Attaque au corps à corps gratuite après un test d'Intimidation réussit
 |-
-| &emsp;[Rallonge](./Rallonge.md) || <sup>CM</sup> || [For](./For.md) 13, [Blessant](./Blessant.md), [Attaque en puissance](./Attaque en puissance.md) || Inflige moins de dégâts afin de prolonger la durée d'un effet de peur
+| &emsp;[[Rallonge]] || <sup>CM</sup> || [[For]] 13, [[Blessant]], [[Attaque en puissance]] || Inflige moins de dégâts afin de prolonger la durée d'un effet de peur
 
 |- CLASS="premier"
-| [Coup déstabilisant (CM)](./Coup déstabilisant (CM).md) || <sup>CM</sup> || [For](./For.md) 13, [Attaque en puissance](./Attaque en puissance.md), [Frappe décisive](./Frappe décisive.md), [BBA](./BBA.md) +8 || Utilise la Frappe décivise pour rendre un adversaire chancelant
+| [[Coup déstabilisant (CM)]] || <sup>CM</sup> || [[For]] 13, [[Attaque en puissance]], [[Frappe décisive]], [[BBA]] +8 || Utilise la Frappe décivise pour rendre un adversaire chancelant
 
 |- CLASS="premier"
-| [Guérillero](./Guérillero.md) || <sup>CM</sup> || [Dex](./Dex.md) 13, [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md) || Agrippe et renverse les adversaires surpris
+| [[Guérillero]] || <sup>CM</sup> || [[Dex]] 13, [[Science de la lutte]], [[Science du combat à mains nues]] || Agrippe et renverse les adversaires surpris
 
 |- CLASS="premier"
-| [Menace viscérale](./Menace viscérale.md) || <sup>CM</sup> || [Force intimidante](./Force intimidante.md) || Utilise l'Intimidation plutôt que le Bluff pour feinter
+| [[Menace viscérale]] || <sup>CM</sup> || [[Force intimidante]] || Utilise l'Intimidation plutôt que le Bluff pour feinter
 
 |- CLASS="premier"
-| [Strangulation (CM)](./Strangulation (CM).md) || <sup>CM</sup> || [Maniement d'une arme exotique](./Maniement dune arme exotique.md) (lasso), [Arme de prédilection](./Arme de prédilection.md) (lasso) || Étrangle les ennemis avec un lasso, les empêchant de parler
+| [[Strangulation (CM)]] || <sup>CM</sup> || [[Maniement dune arme exotique|Maniement d'une arme exotique]] (lasso), [[Arme de prédilection]] (lasso) || Étrangle les ennemis avec un lasso, les empêchant de parler
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes
 Seuls les gobelours les plus vicieux et les plus sanguinaires endossent le rôle d’antipaladin. Ils profitent alors de leurs vils pouvoirs pour causer autant de terreur que possible.
-- [Semeur de peur (antipaladin)](./Semeur de peur (antipaladin).md)
+- [[Semeur de peur (antipaladin)]]
 
 #### Objets magiques
 Toutes les créatures sont à même d’utiliser les objets magiques merveilleux suivants mais ils sont particulièrement populaires chez les gobelours.
-- [Élixir d'oppression](./Élixir doppression.md)
-- [Poussière d'horreur](./Poussière dhorreur.md)
+- [[Élixir doppression|Élixir d'oppression]]
+- [[Poussière dhorreur|Poussière d'horreur]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Sorts
 Les lanceurs de sorts gobelours séparent leur proie de ses alliés.
-- ***[Isoler](./Isoler.md)*** *(CM)* ([Apal 3](./Antipaladin.md), [Apal 3](./Barde.md), [Hyp 3](./Hypnotiseur.md), [Inq 3](./Inquisiteur.md), [Ens](./Ensorceleur.md)/[Mag 3](./Magicien.md), [Psy 3](./Psychiste.md), [Sor 3](./Sorcière.md)). La cible devient invisible et silencieuse mais seulement vis-à-vis de ses alliés.
+- ***[[Isoler]]*** *(CM)* ([[Antipaladin|Apal 3]], [[Barde|Apal 3]], [[Hypnotiseur|Hyp 3]], [[Inquisiteur|Inq 3]], [[Ensorceleur|Ens]]/[[Magicien|Mag 3]], [[Psychiste|Psy 3]], [[Sorcière|Sor 3]]). La cible devient invisible et silencieuse mais seulement vis-à-vis de ses alliés.
 
 </div></div>

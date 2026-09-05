@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage sait se retourner rapidement afin de forcer les coups les plus dévastateurs à frapper les parties les plus épaisses de son armure.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 13, [Dex](./Dex.md) 13, [École du fer rapide](./École du fer rapide.md), formation au port des armures intermédiaires
+**Conditions.** [[For]] 13, [[Dex]] 13, [[École du fer rapide]], formation au port des armures intermédiaires
 
-**Avantages.** Une fois par jour, quand le personnage utilise l'[École du fer rapide](./École du fer rapide.md) et qu'il est touché par une attaque d'arme, une attaque à mains nues ou une attaque naturelle, il peut traiter tous les dés de dégâts autres que les dégâts de base de l'arme (ce qui inclut les dés supplémentaires d'[attaque sournoise](./Roublard.md#ATTAQUESOURNOISE), de [coup critique](./coup critique.md), de propriétés spéciales d'arme magique, et de [Frappe décisive](./Frappe décisive.md)) comme s'ils avaient donné un 1. Le personnage peut utiliser cette capacité une seconde fois par jour lorsque son [BBA](./BBA.md) atteint +8 et une troisième fois lorsqu'il atteint +16.
+**Avantages.** Une fois par jour, quand le personnage utilise l'[[École du fer rapide]] et qu'il est touché par une attaque d'arme, une attaque à mains nues ou une attaque naturelle, il peut traiter tous les dés de dégâts autres que les dégâts de base de l'arme (ce qui inclut les dés supplémentaires d'[[roublard#ATTAQUESOURNOISE|attaque sournoise]], de [[coup critique]], de propriétés spéciales d'arme magique, et de [[Frappe décisive]]) comme s'ils avaient donné un 1. Le personnage peut utiliser cette capacité une seconde fois par jour lorsque son [[BBA]] atteint +8 et une troisième fois lorsqu'il atteint +16.

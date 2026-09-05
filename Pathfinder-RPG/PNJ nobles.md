@@ -14,9 +14,9 @@ Categories:
 {s:Reference|HERITIERNOBLE}
 {s:BDTitre|Héritier noble|FP 2}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|Humain [noble](./Noble.md) 4}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +3}
+{s:BDTexte|Humain [[noble]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 16 (armure +4, bouclier +2, Dex +1)}
 {s:BDTexte|**pv** 20 (4d8+2)}
@@ -28,18 +28,18 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 12, **Con** 11, **Int** 10, **Sag** 8, **Cha** 13}
 {s:BDTexte|**BBA** +3, **BMO** +3, **DMD** 14}
-{s:BDTexte|**Dons** [Attaque au galop](./Attaque au galop.md), [Combat monté](./Combat monté.md), [Piétinement](./Piétinement.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +5, [Connaissances](./Connaissances.md) (folklore local) +4, [Connaissances](./Connaissances.md) (histoire) +4, [Connaissances](./Connaissances.md) (noblesse) +5, [Diplomatie](./Diplomatie.md) +8, [Équitation](./Équitation.md) +6, [Intimidation](./Intimidation.md) +8, [Linguistique](./Linguistique.md) +5, [Perception](./Perception.md) +3, [Psychologie](./Psychologie.md) +3, [Représentation](./Représentation.md) (danse) +5}
+{s:BDTexte|**Dons** [[Attaque au galop]], [[Combat monté]], [[Piétinement]]}
+{s:BDTexte|**Compétences** [[Bluff]] +5, [[Connaissances]] (folklore local) +4, [[Connaissances]] (histoire) +4, [[Connaissances]] (noblesse) +5, [[Diplomatie]] +8, [[Équitation]] +6, [[Intimidation]] +8, [[Linguistique]] +5, [[Perception]] +3, [[Psychologie]] +3, [[Représentation]] (danse) +5}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Équipement de combat** potion d’*[invisibilité](./Invisibilité.md)*; **Autre équipement** chemise de mailles de maître, écu en acier de maître, arc court avec 20 flèches, dague, épée longue de maître, lance d’arçon de maître, habits de noble, cheval léger (entraîné au combat) avec selle de guerre et barde de cuir cloutée, 32 po}
-{s:BDTexte|**Faveur** Un héritier noble pourrait dévoiler une rumeur particulièrement juteuse circulant à la cour et ainsi octroyer un bonus de +5 à un test de [Connaissances](./Connaissances.md) (noblesse) ou de [Diplomatie](./Diplomatie.md) pour y obtenir des informations. Il pourrait aussi arranger une entrevue avec un noble, un prince ou une princesse.}
+{s:BDTexte|**Équipement de combat** potion d’*[[invisibilité]]*; **Autre équipement** chemise de mailles de maître, écu en acier de maître, arc court avec 20 flèches, dague, épée longue de maître, lance d’arçon de maître, habits de noble, cheval léger (entraîné au combat) avec selle de guerre et barde de cuir cloutée, 32 po}
+{s:BDTexte|**Faveur** Un héritier noble pourrait dévoiler une rumeur particulièrement juteuse circulant à la cour et ainsi octroyer un bonus de +5 à un test de [[Connaissances]] (noblesse) ou de [[Diplomatie]] pour y obtenir des informations. Il pourrait aussi arranger une entrevue avec un noble, un prince ou une princesse.}
 </div></td>
 <td><div>
 Les héritiers nobles sont les descendants fiers et hautains des aristocrates, des êtres emplis de la vigueur de la jeunesse et du sentiment de supériorité propre à ceux qui sont nés dans un manoir. Ils ont reçu une bonne éducation et connaissent les bonnes manières, même s’ils ne les pratiquent généralement que lorsqu’ils sont en présence d’autres individus biens nés. Ils éprouvent du mépris à l’égard des gens du peuple et des vagabonds, un sentiment réciproque que ces derniers éprouvent aussi envers ces fiers paons qui se pavanent dans leurs beaux atours.
 
 Les héritiers nobles utilisés comme fonctionnaires mineurs à la cour ou sycophantes peuvent dévoiler les rumeurs et les intrigues du palais. On peut aussi les utiliser comme écuyers expérimentés qui n’ont pas encore été nommés chevaliers ou comme soldats montés issus de l’aristocratie.
 
-Un héritier noble peut commander une lance de quatre [soldats montés](./PNJ armées.md#SOLDATMONTE) (FP 9). Une [princesse](./PNJ royautés.md#PRINCESSE) peut être suivie partout par deux héritiers nobles (FP 7). Trois héritiers peuvent former l’entourage d’un [chevalier](./PNJ nobles.md#CHEVALIER) (FP 8). Huit héritiers peuvent constituer un gang de débauchés mené par un [noble](./PNJ nobles.md#NOBLE) (FP 10).
+Un héritier noble peut commander une lance de quatre [[PNJ armées#SOLDATMONTE|soldats montés]] (FP 9). Une [[PNJ royautés#PRINCESSE|princesse]] peut être suivie partout par deux héritiers nobles (FP 7). Trois héritiers peuvent former l’entourage d’un [[PNJ nobles#CHEVALIER|chevalier]] (FP 8). Huit héritiers peuvent constituer un gang de débauchés mené par un [[PNJ nobles#NOBLE|noble]] (FP 10).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -47,9 +47,9 @@ Un héritier noble peut commander une lance de quatre [soldats montés](./PNJ ar
 {s:Reference|CHEVALIER}
 {s:BDTitre|Chevalier|FP 7}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|Humain [noble](./Noble.md) 2 / [paladin](./Paladin.md) 6}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, LB}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +5}
+{s:BDTexte|Humain [[noble]] 2 / [[paladin]] 6}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, LB}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception]] +5}
 {s:BDTexte|**Aura** courage (3 m)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 11, pris au dépourvu 22  (armure +10, bouclier +2, Dex +1)}
@@ -62,23 +62,23 @@ Un héritier noble peut commander une lance de quatre [soldats montés](./PNJ ar
 {s:BDTexte|**A distance** dague, +8 (1d4+4/19–20)}
 {s:BDTexte|**Attaque spéciale** canalisation d’énergie positive (DD 15, 3d6), châtiment du Mal 2/jour (+2 attaque et CA, +6 dégâts)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6 ; Concentration +5)}
-{s:BDTexte|À volonté — *[détection du Mal](./Détection du Mal.md)*}
+{s:BDTexte|À volonté — *[[détection du Mal]]*}
 {s:BDTexte|**sorts de paladin préparés** (NLS 3 ; concentration +5)}
-{s:BDSorts|1<sup>er</sup> — *[faveur divine](./Faveur divine.md)*, *[soins légers](./Soins légers.md)*}
+{s:BDSorts|1<sup>er</sup> — *[[faveur divine]]*, *[[soins légers]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 12, **Con** 14, **Int** 10, **Sag** 8, **Cha** 14}
 {s:BDTexte|**BBA** +7, **BMO** +11, **DMD** 22}
-{s:BDTexte|**Dons** [Attaque au galop](./Attaque au galop.md), [Attaque en puissance](./Attaque en puissance.md), [Combat monté](./Combat monté.md), [Désarçonner](./Désarçonner.md), [Science de la bousculade](./Science de la bousculade.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (histoire) +5, [Connaissances](./Connaissances.md) (noblesse) +5, [Diplomatie](./Diplomatie.md) +10, [Dressage](./Dressage.md) +8, [Équitation](./Équitation.md) +6, [Linguistique](./Linguistique.md) +5, [Perception](./Perception.md) +5, [Premiers secours](./Premiers secours.md) +5, [Psychologie](./Psychologie.md) +5}
+{s:BDTexte|**Dons** [[Attaque au galop]], [[Attaque en puissance]], [[Combat monté]], [[Désarçonner]], [[Science de la bousculade]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (histoire) +5, [[Connaissances]] (noblesse) +5, [[Diplomatie]] +10, [[Dressage]] +8, [[Équitation]] +6, [[Linguistique]] +5, [[Perception]] +5, [[Premiers secours]] +5, [[Psychologie]] +5}
 {s:BDTexte|**Langues** céleste, commun, sylvestre}
 {s:BDTexte|**Particularités** aura du Bien, grâces (fatigué, secoué), imposition des mains (3d6, 5/jour), pacte divin (cheval lourd)}
 {s:BDTexte|**Équipement** écu en acier de maître, *harnois +1*, dague, *épée longue +1*, lance d’arçon de maître, symbole sacré en argent, cheval lourd (entraîné au combat) avec barde de chemise de mailles et selle de guerre, 420 po}
-{s:BDTexte|**Faveur** Un chevalier peut se porter garant pour un PJ et lui permettre, grâce à son excellente réputation, d’éviter une punition ou de l’amoindrir. Le chevalier peut aussi permettre à un PJ de participer à un tournoi ou à une réunion avec son seigneur et lui octroyer un bonus de +5 sur un unique test de [Diplomatie](./Diplomatie.md).}
+{s:BDTexte|**Faveur** Un chevalier peut se porter garant pour un PJ et lui permettre, grâce à son excellente réputation, d’éviter une punition ou de l’amoindrir. Le chevalier peut aussi permettre à un PJ de participer à un tournoi ou à une réunion avec son seigneur et lui octroyer un bonus de +5 sur un unique test de [[Diplomatie]].}
 </div>
 </td><td><div>
 Les chevaliers sont de nobles combattants au port altier et au lignage remarquable qui servent humblement leur seigneur. Un véritable chevalier a l’esprit miséricordieux et généreux mais se tient toujours prêt à brandir sa lance au service de la justice et à prendre les armes pour protéger les innocents.
 
-Les chevaliers peuvent également servir de représentants locaux pour un seigneur, de juges ou de commandants d’une forteresse. On les rencontre généralement avec leur [écuyer](./PNJ croisés.md#ECUYER), occupés à escorter deux [pèlerins](./PNJ routes.md#PELERIN) (FP 8), à protéger deux [nobles](./PNJ nobles.md#NOBLE) (FP 11) ou à mener une lance de quatre [soldats montés](./PNJ armées.md#SOLDATMONTE) (FP 10).
+Les chevaliers peuvent également servir de représentants locaux pour un seigneur, de juges ou de commandants d’une forteresse. On les rencontre généralement avec leur [[PNJ croisés#ECUYER|écuyer]], occupés à escorter deux [[PNJ routes#PELERIN|pèlerins]] (FP 8), à protéger deux [[PNJ nobles#NOBLE|nobles]] (FP 11) ou à mener une lance de quatre [[PNJ armées#SOLDATMONTE|soldats montés]] (FP 10).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -86,9 +86,9 @@ Les chevaliers peuvent également servir de représentants locaux pour un seigne
 {s:Reference|NOBLE}
 {s:BDTitre|Noble|FP 8}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|Humain [noble](./Noble.md) 10}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [Perception](./Perception.md) +5}
+{s:BDTexte|Humain [[noble]] 10}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Perception]] +5}
 {s:BDTexte|**Aura** bravoure (3 m), fermeté (3 m), justice (3 m)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 13, pris au dépourvu 16 (armure +5, bouclier +1, Dex +2, esquive +1)}
@@ -102,11 +102,11 @@ Les chevaliers peuvent également servir de représentants locaux pour un seigne
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 14, **Con** 12, **Int** 10, **Sag** 10, **Cha** 13}
 {s:BDTexte|**BBA** +7, **BMO** +6, **DMD** 19}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Persuasion](./Persuasion.md), [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md) (Diplomatie)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +16, [Connaissances](./Connaissances.md) (folklore local) +4, [Connaissances](./Connaissances.md) (histoire) +4, [Connaissances](./Connaissances.md) (noblesse) +10, [Déguisement](./Déguisement.md) +10, [Diplomatie](./Diplomatie.md) +27, [Équitation](./Équitation.md) +6, [Intimidation](./Intimidation.md) +10, [Linguistique](./Linguistique.md) +6, [Perception](./Perception.md) +5, [Psychologie](./Psychologie.md) +10, [Représentation](./Représentation.md) (chant) +10, [Représentation](./Représentation.md) (cordes) +10, [Représentation](./Représentation.md) (danse) +10}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Esquive]], [[Frappe décisive]], [[Persuasion]], [[Souplesse du serpent]], [[Talent]] (Diplomatie)}
+{s:BDTexte|**Compétences** [[Bluff]] +16, [[Connaissances]] (folklore local) +4, [[Connaissances]] (histoire) +4, [[Connaissances]] (noblesse) +10, [[Déguisement]] +10, [[Diplomatie]] +27, [[Équitation]] +6, [[Intimidation]] +10, [[Linguistique]] +6, [[Perception]] +5, [[Psychologie]] +10, [[Représentation]] (chant) +10, [[Représentation]] (cordes) +10, [[Représentation]] (danse) +10}
 {s:BDTexte|**Langues** commun, elfique, gnome, halfelin}
-{s:BDTexte|**Équipement de combat** potion de *[soins légers](./Soins légers.md)*, potion d’*[invisibilité](./Invisibilité.md)* ; **Autre équipement** *chemise de maille de mimétisme +1*, targe de maître, *arc long +1* avec 20 flèches, dague en argent, rapière de maître, *cape de résistance +1*, *serre-tête de persuasion*, 17 po}
-{s:BDTexte|**Faveur** Un noble peut prêter des habits de noble ou une toilette royale (voire même en faire cadeau s’il est suffisamment impressionné) ou effectuer un test de [Diplomatie](./Diplomatie.md) au lieu des PJ.}
+{s:BDTexte|**Équipement de combat** potion de *[[soins légers]]*, potion d’*[[invisibilité]]* ; **Autre équipement** *chemise de maille de mimétisme +1*, targe de maître, *arc long +1* avec 20 flèches, dague en argent, rapière de maître, *cape de résistance +1*, *serre-tête de persuasion*, 17 po}
+{s:BDTexte|**Faveur** Un noble peut prêter des habits de noble ou une toilette royale (voire même en faire cadeau s’il est suffisamment impressionné) ou effectuer un test de [[Diplomatie]] au lieu des PJ.}
 </div></td>
 <td><div>
 Il s’agit d’un individu possédant un titre de noblesse et appartenant à une maison noble (une branche mineure de la famille ou le siège central de celle-ci). Un noble peut aussi être un membre de la famille royale qui n’a sans doute aucune chance de monter sur le trône mais qui possède tout de même une position sociale élevée.
@@ -115,5 +115,5 @@ Tous les nobles, qu’ils soient barons, comtes, ducs ou marquis, sont formés a
 
 Les nobles peuvent faire office de diplomates, de courtisans royaux, de chambellans ou de sénéchaux d’un château royal et même d’espions.
 
-Un noble est souvent accompagné d’un garde du corps [chevalier](./PNJ nobles.md#CHEVALIER) et de trois [héritiers nobles](./PNJ nobles.md#HERITIERNOBLE) venant parader à la cour (FP 10). Un noble peut escorter deux [princesses](./PNJ royautés.md#PRINCESSE) déguisées (FP 10) et deux nobles peuvent assister au concert d’un [barde célèbre](./PNJ amuseurs publiques.md#BARDECELEBRE) (FP 12). Un noble en voyage peut être accompagné d’un [mage de combat](./PNJ aventuriers.md#MAGEDECOMBAT) ou d’un [ménestrel](./PNJ amuseurs publiques.md#MENESTREL) (FP 9) ou encore de deux gardes du corps [capitaines de la garde](./PNJ milices.md#CAPITAINEDELAGARDE) (FP 10).
+Un noble est souvent accompagné d’un garde du corps [[PNJ nobles#CHEVALIER|chevalier]] et de trois [[PNJ nobles#HERITIERNOBLE|héritiers nobles]] venant parader à la cour (FP 10). Un noble peut escorter deux [[PNJ royautés#PRINCESSE|princesses]] déguisées (FP 10) et deux nobles peuvent assister au concert d’un [[PNJ amuseurs publiques#BARDECELEBRE|barde célèbre]] (FP 12). Un noble en voyage peut être accompagné d’un [[PNJ aventuriers#MAGEDECOMBAT|mage de combat]] ou d’un [[PNJ amuseurs publiques#MENESTREL|ménestrel]] (FP 9) ou encore de deux gardes du corps [[PNJ milices#CAPITAINEDELAGARDE|capitaines de la garde]] (FP 10).
 </div></td></tr></table>

@@ -14,18 +14,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[froid](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Magus](./Magus.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Magus]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-L’[attaque de contact](./Valeurs de combat.md#ATTAQUESDECONTACT) du personnage inflige 1d6 points de dégâts de froid [non létaux](./Blessures et mort.md#NONLETAL) +1 par [niveau](./niveau.md) et la cible est [fatiguée](./Fatigué.md). Cette condition se dissipe quand la cible a guéri les points de dégâts. Ce sort ne peut pas [épuiser](./Épuisé.md) une créature, même si elle est déjà [fatiguée](./Fatigué.md). Le personnage peut utiliser cette [attaque de contact](./Valeurs de combat.md#ATTAQUESDECONTACT) une fois par [niveau](./niveau.md).
+L’[[Valeurs de combat#ATTAQUESDECONTACT|attaque de contact]] du personnage inflige 1d6 points de dégâts de froid [[Blessures et mort#NONLETAL|non létaux]] +1 par [[niveau]] et la cible est [[fatigué|fatiguée]]. Cette condition se dissipe quand la cible a guéri les points de dégâts. Ce sort ne peut pas [[épuisé|épuiser]] une créature, même si elle est déjà [[fatigué|fatiguée]]. Le personnage peut utiliser cette [[Valeurs de combat#ATTAQUESDECONTACT|attaque de contact]] une fois par [[niveau]].

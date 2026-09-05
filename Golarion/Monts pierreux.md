@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Comme presque toutes les montagnes de [Varisie](./Varisie.md), les Monts pierreux présentent de nombreux dangers, comme par exemple des [manticores](./manticores.md) ou des tribus de [harpies](./harpies.md).
+Comme presque toutes les montagnes de [[Varisie]], les Monts pierreux présentent de nombreux dangers, comme par exemple des [[manticores]] ou des tribus de [[harpies]].

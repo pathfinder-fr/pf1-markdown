@@ -9,13 +9,13 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [druide](./Druide.md) 2, [inquisiteur](./Inquisiteur.md) 2, [magus](./Magus.md) 1, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 1, [sorcière](./Sorcière.md) 1  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 2, [[inquisiteur]] 2, [[magus]] 1, [[ensorceleur]]/[[magicien]] 1, [[sorcière]] 1  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; '''Résistance
+**Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; '''Résistance
 à la magie''' Oui
 
-Ce mot effet inflige 1d4 points de dégâts de feu par [niveau de lanceur](./NLS.md) (maximum 5d4). Si le sort n’a qu’une seule cible, il nécessite un jet d’[attaque de contact au corps à corps ou de contact à distance](./Valeurs de combat.md#ATTAQUESDECONTACT) mais n’autorise aucun [jet de sauvegarde](./jet de sauvegarde.md).
+Ce mot effet inflige 1d4 points de dégâts de feu par [[NLS|niveau de lanceur]] (maximum 5d4). Si le sort n’a qu’une seule cible, il nécessite un jet d’[[Valeurs de combat#ATTAQUESDECONTACT|attaque de contact au corps à corps ou de contact à distance]] mais n’autorise aucun [[jet de sauvegarde]].
 
-**Augmentation.** Ce sort inflige 1d6 points de dégâts de feu par [niveau de lanceur](./NLS.md), maximum 5d6. Augmenter ce mot effet améliore son niveau de 1.
+**Augmentation.** Ce sort inflige 1d6 points de dégâts de feu par [[NLS|niveau de lanceur]], maximum 5d6. Augmenter ce mot effet améliore son niveau de 1.

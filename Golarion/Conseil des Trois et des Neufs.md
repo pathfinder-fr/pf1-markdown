@@ -7,31 +7,31 @@ Categories:
 - Organisation
 ---
 
-{s:Organisation|Conseil des Trois et des Neuf|Council of Three and Nine|-|Gouvernement du [Nex](./Nex.md)|Le palais Bandeshar à [Quantium](./Quantium.md)|Aucun|Douze administrateurs|Conseil de deux-tiers|National ([Nex](./Nex.md))|-}Le Conseil des Trois et des Neuf est l'organe gouvernemental du [Nex](./Nex.md). Jusqu'en 576 AR, la terre du [Nex](./Nex.md) était dirigée par le puissant archimage [Nex](./Nex.md), qui permettait l'équilibre entre les diverses factions politiques du pays. Cette année là, l'archimage disparut et les différentes organisations politiques du [Nex](./Nex.md) commencèrent à se combattre les unes les autres. La constitution du Conseil des Trois et des Neuf fut une tentative pour ramener une paix relative entre les divers partis politique car les luttes intestines ne pouvaient continuer, surtout du fait que le pays était en guerre contre son voisin du [Geb](./Geb.md).
+{s:Organisation|Conseil des Trois et des Neuf|Council of Three and Nine|-|Gouvernement du [[Nex]]|Le palais Bandeshar à [[Quantium]]|Aucun|Douze administrateurs|Conseil de deux-tiers|National ([[Nex]])|-}Le Conseil des Trois et des Neuf est l'organe gouvernemental du [[Nex]]. Jusqu'en 576 AR, la terre du [[Nex]] était dirigée par le puissant archimage [[Nex]], qui permettait l'équilibre entre les diverses factions politiques du pays. Cette année là, l'archimage disparut et les différentes organisations politiques du [[Nex]] commencèrent à se combattre les unes les autres. La constitution du Conseil des Trois et des Neuf fut une tentative pour ramener une paix relative entre les divers partis politique car les luttes intestines ne pouvaient continuer, surtout du fait que le pays était en guerre contre son voisin du [[Geb]].
 
-Le Conseil des Trois et des Neuf se regroupe dans le palais Bandeshar à [Quantium](./Quantium.md). Il s'agit de l'un des palais que Nex possédait avant sa disparition.
+Le Conseil des Trois et des Neuf se regroupe dans le palais Bandeshar à [[Quantium]]. Il s'agit de l'un des palais que Nex possédait avant sa disparition.
 
 #### Les Trois
 Actuellement, le conseil est dirigé par les Trois plutôt que par les Neuf. Un accord entre deux membres parmi les Trois suffit à bloquer toute proposition acceptée par les Neuf. Par contraste avec les Neuf, la composition des Trois n'a plus évolué depuis plus d'un siècle.
 
 Les membres des Trois sont:
-- Agrellus Kisk, dirigeant des [Archi-Seigneurs du Nex](./Archi-seigneurs du Nex.md)
+- Agrellus Kisk, dirigeant des [[Archi-Seigneurs du Nex]]
 - Iranez au Globe, un puissante sorcière
 - L'Architecte Doyen Oblosk, châtelain du palais de Bandeshar
 
 #### Les Neuf
 Il existe une compétition effroyable pour obtenir une place parmi les Neuf. Pour cette raison, les membres des Neuf changent régulièrement. Actuellement les Neuf sont :
-- Borume, maître alchimiste et représentant de la cité d'[Oenopion](./Oenopion.md)
-- Dunn Palovar, forgeur de chair et représentant de la cité d'[Ecanus](./Ecanus.md)
-- Maître Phade, dont certanis croient qu'il dirige les assassins de [Quantium](./Quantium.md)
-- Gen Hendrikan, haut-prêtre du seigneur démon [Abraxas](./Abraxas.md)
+- Borume, maître alchimiste et représentant de la cité d'[[Oenopion]]
+- Dunn Palovar, forgeur de chair et représentant de la cité d'[[Ecanus]]
+- Maître Phade, dont certanis croient qu'il dirige les assassins de [[Quantium]]
+- Gen Hendrikan, haut-prêtre du seigneur démon [[Abraxas]]
 - Elemion, représentant mutant des tribus des territoires
-- le haut-prêtre de [Néthys](./Néthys.md)
-- le haut-prêtre de [Pharasma](./Pharasma.md)
+- le haut-prêtre de [[Néthys]]
+- le haut-prêtre de [[Pharasma]]
 - un représentant de la guilde des marchands
 - un politicien appartenant à l'une des nombreuses autres factions (ce poste change constamment)
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur le Conseil des Trois et des Neuf dans le supplément
-- [Cadre de campagne : la mer Intérieure](./Publications.md#CAMPAIGNSETTING2).
+- [[Publications#CAMPAIGNSETTING2|Cadre de campagne : la mer Intérieure]].
 {s:VoirAussiAprès}

@@ -8,11 +8,11 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:Menuclassessupplémentaires}{s:um}Un [eidolon](./eidolon.md) peut ressembler à presque tout ce que son conjurateur désire. Les modèles d’eidolon sont des exemples préétablis des formes de base et de leurs évolutions, des guides de construction pour obtenir un eidolon avec une apparence ou un thème spécifique.
+{s:Menuclassessupplémentaires}{s:um}Un [[eidolon]] peut ressembler à presque tout ce que son conjurateur désire. Les modèles d’eidolon sont des exemples préétablis des formes de base et de leurs évolutions, des guides de construction pour obtenir un eidolon avec une apparence ou un thème spécifique.
 
-L’utilisation d’un modèle ne change pas le type de l’eidolon et ne lui donne pas de pouvoirs spéciaux inaccessibles aux autres classes, c’est juste un raccourci pour aider les joueurs et les [MJ](./MJ.md) à créer un eidolon avec un aspect spécifique. Chaque modèle indique le nombre de points d’évolution requis pour terminer la construction de l’eidolon. En général, un modèle nécessite la majorité des points d’évolution de le conjurateur et seul l’eidolon des plus puissants ressemblera donc vraiment à la créature prévue. Pour un conjurateur de bas niveau, certaines caractéristiques (comme les têtes supplémentaires d’une hydre) ne seront que des ajouts cosmétiques jusqu’à ce qu’il gagne des points d’évolution à dépenser.
+L’utilisation d’un modèle ne change pas le type de l’eidolon et ne lui donne pas de pouvoirs spéciaux inaccessibles aux autres classes, c’est juste un raccourci pour aider les joueurs et les [[MJ]] à créer un eidolon avec un aspect spécifique. Chaque modèle indique le nombre de points d’évolution requis pour terminer la construction de l’eidolon. En général, un modèle nécessite la majorité des points d’évolution de le conjurateur et seul l’eidolon des plus puissants ressemblera donc vraiment à la créature prévue. Pour un conjurateur de bas niveau, certaines caractéristiques (comme les têtes supplémentaires d’une hydre) ne seront que des ajouts cosmétiques jusqu’à ce qu’il gagne des points d’évolution à dépenser.
 
-La **forme de base** indique la [forme de base](./eidolon.md#PROFILSDEDEPART) recommandée pour ce modèle. Les **évolutions primaires** dressent une liste des évolutions à choisir quand le conjurateur commence à construire un eidolon sur ce modèle. Les **évolutions secondaires** indiquent les autres évolutions nécessaires pour terminer le modèle avec les formes et les capacités requises.
+La **forme de base** indique la [[Eidolon#PROFILSDEDEPART|forme de base]] recommandée pour ce modèle. Les **évolutions primaires** dressent une liste des évolutions à choisir quand le conjurateur commence à construire un eidolon sur ce modèle. Les **évolutions secondaires** indiquent les autres évolutions nécessaires pour terminer le modèle avec les formes et les capacités requises.
 
 <table width="100%"><tr><td width="49%">
 <div class="BD">

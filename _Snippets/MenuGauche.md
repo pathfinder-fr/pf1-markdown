@@ -3,94 +3,94 @@
 ---
 
 ## Navigation
-- [Accueil du site](./../ADJ/MainPage.md)
+- [[MainPage|Accueil du site]]
 - <a href="https://t.co/euqukfofhL?amp=1">Serveur Discord</a> <a href="https://t.co/euqukfofhL?amp=1"><img src="/images/Pathfinder/logos/discord_icon.png" style="height:12px"/></a>
-- [Partenaires](./../Liens.md)
+- [[Liens|Partenaires]]
 
-[<h4 class="light arrow">Wiki Pathfinder-RPG</h4>](./../Pathfinder-RPG/MainPage.md)
+[[Pathfinder-RPG.MainPage|<h4 class="light arrow">Wiki Pathfinder-RPG</h4>]]
 <p style="font-size: 80%; font-style: italic; padding-top : 0">Tout sur les règles officielles de Pathfinder.</p>
 <table width="100%">
 <tr style="vertical-align: top">
 <td width="50%">
 <ul>
-<li>[Accueil](./../Pathfinder-RPG/MainPage.md)</li>
-<li>[Bestiaire](./../Pathfinder-RPG/Liste alphabétique des monstres.md)</li>
-<li>[FAQ](./../Pathfinder-RPG/FAQ.md)</li>
+<li>[[Pathfinder-RPG.MainPage|Accueil]]</li>
+<li>[[Pathfinder-RPG.Liste alphabétique des monstres|Bestiaire]]</li>
+<li>[[Pathfinder-RPG.FAQ|FAQ]]</li>
 </ul>
 </td>
 <td width="50%">
 <ul>
-<li>[Aides de jeu](./../Pathfinder-RPG/Aides de jeu.md)</li>
-<li>[Livres](./../Pathfinder-RPG/Publications.md)</li>
-<li>[Glossaires](./../Pathfinder-RPG/Glossaire.md)</li>
+<li>[[Pathfinder-RPG.Aides de jeu|Aides de jeu]]</li>
+<li>[[Pathfinder-RPG.Publications|Livres]]</li>
+<li>[[Pathfinder-RPG.Glossaire|Glossaires]]</li>
 </ul>
 </td>
 </tr>
 </table>
-[<h4 class="light arrow">Wiki Pathfinder 2</h4>](./../Pathfinder2/MainPage.md)
+[[Pathfinder2.MainPage|<h4 class="light arrow">Wiki Pathfinder 2</h4>]]
 <p style="font-size: 80%; font-style: italic; padding-top : 0">Ressources pour la version 2 de Pathfinder.</p>
 <table width="100%">
 <tr style="vertical-align: top">
 <td width="50%">
 <ul>
-<li>[Accueil](./../Pathfinder2/MainPage.md)</li>
-<li>[Campagnes](./../Pathfinder2/AP.md)</li>
-<li>[Autres sorties](./../Pathfinder2/Publications.md)</li>
+<li>[[Pathfinder2.MainPage|Accueil]]</li>
+<li>[[Pathfinder2.AP|Campagnes]]</li>
+<li>[[Pathfinder2.Publications|Autres sorties]]</li>
 </ul>
 </td>
 <td width="50%">
 <ul>
-<li>[Aides de jeu](./../Pathfinder2/ADJ.md)</li>
-<li>[PF Society](./../Pathfinder2/PFS.md)</li>
-<li>[Créations](./../Pathfinder2/FAN.md)</li>
+<li>[[Pathfinder2.ADJ|Aides de jeu]]</li>
+<li>[[Pathfinder2.PFS|PF Society]]</li>
+<li>[[Pathfinder2.FAN|Créations]]</li>
 </ul>
 </td>
 </tr>
 </table>
-[<h4 class="light arrow">Wiki Golarion</h4>](./../Golarion/MainPage.md)
+[[Golarion.MainPage|<h4 class="light arrow">Wiki Golarion</h4>]]
 <p style="font-size: 80%; font-style: italic">Tout sur le monde de Golarion.</p>
 <table width="100%">
 <tr style="vertical-align: top">
 <td width="50%">
 <ul>
-<li>[Accueil](./../Golarion/MainPage.md)</li>
-<li>[Wayfinder](./../Golarion/Wayfinder.md)</li>
-<li>[Dieux](./../Golarion/Religions et philosophies.md)</li>
+<li>[[Golarion.MainPage|Accueil]]</li>
+<li>[[Golarion.Wayfinder|Wayfinder]]</li>
+<li>[[Golarion.religions et philosophies|Dieux]]</li>
 </ul>
 </td>
 <td width="50%">
 <ul>
-<li>[Aides de jeu](./../Golarion/Aides de jeu.md)</li>
-<li>[Livres](./../Golarion/Publications.md)</li>
-<li>[Romans](./../Golarion/Romans.md)</li>
+<li>[[Golarion.Aides de jeu|Aides de jeu]]</li>
+<li>[[Golarion.Publications|Livres]]</li>
+<li>[[Golarion.Romans|Romans]]</li>
 </ul>
 </td>
 </tr>
 </table>
 <ul>
-<li>[Un jour sur Golarion](./../Golarion/JourGolarion.md)</li>
+<li>[[Golarion.JourGolarion|Un jour sur Golarion]]</li>
 </ul>
-[<h4 class="light arrow">Wiki Ressources</h4>](./../Ressources/MainPage.md)
+[[Ressources.MainPage|<h4 class="light arrow">Wiki Ressources</h4>]]
 <p style="font-size: 80%; font-style: italic">Aides informatiques, règles maison…</p>
 <ul>
-<li>[Accueil](./../Ressources/MainPage.md)</li>
+<li>[[Ressources.MainPage|Accueil]]</li>
 </ul>
-[<h4 class="light arrow">Wiki Aventures</h4>](./../Aventures/MainPage.md)
+[[Aventures.MainPage|<h4 class="light arrow">Wiki Aventures</h4>]]
 <p style="font-size: 80%; font-style: italic">Aides de jeu et outils pour les MJ.</p>
 <table width="100%">
 <tr style="vertical-align: top">
 <td width="50%">
 <ul>
-<li>[Accueil](./../Aventures/MainPage.md)</li>
-<li>[Campagnes](./../Aventures/Campagnes.md)</li>
-<li>[Modules](./../Aventures/Présentation modules.md)</li>
+<li>[[Aventures.MainPage|Accueil]]</li>
+<li>[[Aventures.Campagnes|Campagnes]]</li>
+<li>[[Aventures.Présentation Modules|Modules]]</li>
 </ul>
 </td>
 <td width="50%">
 <ul>
-<li>[PF Society](./../Aventures/Présentation Pathfinder Society.md)</li>
-<li>[Aventures](./../Aventures/Aventures de fans.md)</li>
-<li>[PNJ](./../Aventures/Liste PNJ.md)</li>
+<li>[[Aventures.Présentation Pathfinder Society|PF Society]]</li>
+<li>[[Aventures.Aventures de fans|Aventures]]</li>
+<li>[[Aventures.Liste PNJ|PNJ]]</li>
 </ul>
 </td>
 </tr>
@@ -100,31 +100,31 @@
 <tr style="vertical-align: top">
 <td width="50%">
 <ul>
-<li>[Accueil](./../Starfinder/MainPage.md)</li>
+<li>[[Starfinder.MainPage|Accueil]]</li>
 </ul>
 </td>
 <td width="50%">
 <ul>
-<li>[Aides de jeu](./../Starfinder/ADJ.md)</li>
+<li>[[Starfinder.ADJ|Aides de jeu]]</li>
 </ul>
 </td>
 </tr>
 </table>
 <h4 class="light arrow">Wiki Parties en ligne</h4>
 <ul>
-<li>[Ressources (parties en ligne)](./Parties-MainPage.md)</li>
+<li>[[Parties.MainPage|Ressources (parties en ligne)]]</li>
 <!~~<li>Mini-wikis des parties en ligne :</li>~~>
 </ul>
 
 ## Aides et guides
-- [++Création|Guide de création]
-- [Sources/Projets d'intégrations](./../Pathfinder-RPG/Temp.md)
+- [[Création|Guide de création]]
+- [[Pathfinder-RPG.Temp|Sources/Projets d'intégrations]]
 
 ## Outils des Wikis
-- [Créer une nouvelle page](./Edit-aspx.md)
-- [Catégories](./Category-aspx.md)
-- [Gestion fichiers](./Upload-aspx.md)
-- [Administration wiki](./Admin-aspx.md)
+- [[Edit.aspx|Créer une nouvelle page]]
+- [[Category.aspx|Catégories]]
+- [[Upload.aspx|Gestion fichiers]]
+- [[Admin.aspx|Administration wiki]]
 
 ## Cette page
 - <a href="/Wiki/History.aspx?Page={PAGENAME}">Historique</a>

@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le talent du personnage en matière d’armes de jet est impressionnant, quel que soit ce qu’il lance.*
 
-**Condition.** [Lancer improvisé](./Lancer improvisé.md)
+**Condition.** [[Lancer improvisé]]
 
-**Avantage.** Le personnage gagne un bonus de +2 aux jets d’attaque et de dégâts effectués en utilisant une arme à aspersion ou une arme de jet improvisée. Ce bonus se cumule avec celui du don [Lancer improvisé](./Lancer improvisé.md) [non-mythique](./non-mythique.md). S’il rate son attaque en lançant une arme à aspersion, celle-ci atterrit toujours dans une case adjacente à la cible, quel que soit le nombre de facteurs de portée qui séparent le personnage de sa cible.
+**Avantage.** Le personnage gagne un bonus de +2 aux jets d’attaque et de dégâts effectués en utilisant une arme à aspersion ou une arme de jet improvisée. Ce bonus se cumule avec celui du don [[Lancer improvisé]] [[non-mythique]]. S’il rate son attaque en lançant une arme à aspersion, celle-ci atterrit toujours dans une case adjacente à la cible, quel que soit le nombre de facteurs de portée qui séparent le personnage de sa cible.

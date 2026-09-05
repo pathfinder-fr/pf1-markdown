@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Dons#DONEQUIPE
 ---
 
->>> [Dons#DONEQUIPE](./Dons.md#DONEQUIPE)
+>>> [[Dons#DONEQUIPE]]

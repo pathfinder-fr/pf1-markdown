@@ -10,7 +10,7 @@ LastModified: 2017-01-18 22:41
 {s:pucem|Créature magique|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 262*}
 - **25 600 PX**
-- [Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille G, CN
+- [[type créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille G, CN
 - **Init **+2 ; Sens vision dans le noir 18 m, vision nocturne ; Perception +17
 - **Aura **cacophonie (30 m, DD 22)
 (((Défense)))
@@ -25,14 +25,14 @@ LastModified: 2017-01-18 22:41
 - **Espace **3 m ; Allonge 1,50 m
 - **Attaques spéciales** regard déséquilibrant, piétinement (1d10+15, DD 28)
 - **Pouvoirs magiques** (**NLS **16 ; concentration +19)
-  - *À volonté* – [fracassement](./Fracassement.md) (DD 16)
-  - *3/jour* – [charme-monstre](./Charme-monstre.md) (DD 18), [confusion](./Confusion.md) à incantation rapide (DD 18)
-  - *1/jour* – [malédiction](./malédiction.md) (DD 18, attaque de contact à distance, 9 m)
+  - *À volonté* – [[fracassement]] (DD 16)
+  - *3/jour* – [[charme-monstre]] (DD 18), [[confusion]] à incantation rapide (DD 18)
+  - *1/jour* – [[malédiction]] (DD 18, attaque de contact à distance, 9 m)
 (((Statistiques)))
 - **For** 30, **Dex **15, **Con** 22, **Int **11, **Sag **16, **Cha **19
 - **BBA **+16 ; **BMO **+27 ; **DMD **39 (47 contre le croc-en-jambe)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Combat en aveugle](./Combat en aveugle.md), [Critique assourdissant](./Critique assourdissant.md), [Don pour les critiques](./Don pour les critiques.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (confusion), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) (Perception), [Tir à bout portant](./Tir à bout portant.md)
-- **Compétences **[Bluff](./Bluff.md) +12, [Discrétion](./Discrétion.md) +17 (+21 dans l’eau), [Natation](./Natation.md) +18, [Perception](./Perception.md) +17
+- **Dons **[[Attaque en puissance]], [[Combat en aveugle]], [[Critique assourdissant]], [[Don pour les critiques]], [[Pouvoir magique rapide]] (confusion), [[Science du critique]] (morsure), [[Talent]] (Perception), [[Tir à bout portant]]
+- **Compétences **[[Bluff]] +12, [[Discrétion]] +17 (+21 dans l’eau), [[Natation]] +18, [[Perception]] +17
 - **Modificateurs raciaux **+4 en Discrétion dans l’eau
 - **Langues **aklo ; don des langues
 - **Particularités **têtes factices, besoin d’eau

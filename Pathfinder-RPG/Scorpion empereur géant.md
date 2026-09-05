@@ -10,7 +10,7 @@ LastModified: 2020-09-21 18:15
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 238*}
 - **12 800 PX**
-- [vermine](./type Vermine.md) de taille Gig, N
+- [[type vermine|vermine]] de taille Gig, N
 - **Init **+1 ; **Sens** vision dans le noir 18 m, perception des vibrations 18 m ; Perception +5
 (((Défense)))
 - **CA** 24, contact 7, pris au dépourvu 23 (Dex +1, naturelle +17, taille -4)
@@ -25,7 +25,7 @@ LastModified: 2020-09-21 18:15
 (((Statistiques)))
 - **For** 33, **Dex** 13, **Con** 20, **Int** -, **Sag** 12, **Cha** 2
 - **BBA **+11 ; **BMO **+26 (+30 en lutte) ; **DMD** 37 (49 contre le croc-en-jambe)
-- **Compétences** [Discrétion](./Discrétion.md) -3 (+1 dans le désert), [Escalade](./Escalade.md) +15, [Perception](./Perception.md) +5
+- **Compétences** [[Discrétion]] -3 (+1 dans le désert), [[Escalade]] +15, [[Perception]] +5
 - **Modificateurs raciaux** +8 en Discrétion (+12 dans le désert), +4 en Escalade, +4 en Perception
 (((Écologie)))
 - **Environnement** déserts chauds
@@ -43,19 +43,19 @@ Le scorpion empereur géant est un prédateur embusqué qui s’enfouit sous ter
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Scorpion dard-vert](./Scorpion dard-vert.md) || 1/4
+| [[Scorpion dard-vert]] || 1/4
 |-
-| [Scorpion des cavernes](./Scorpion des cavernes.md) || 1
+| [[Scorpion des cavernes]] || 1
 |-
-| [Scorpion empereur géant](./Scorpion empereur géant.md) || 11
+| [[Scorpion empereur géant]] || 11
 |-
-| [Scorpion fantomatique](./Scorpion fantomatique.md) || 1/2
+| [[Scorpion fantomatique]] || 1/2
 |-
-| [Scorpion géant](./Scorpion géant.md) || 3
+| [[Scorpion géant]] || 3
 |-
-| [Scorpion noir](./Scorpion noir.md) || 15
+| [[Scorpion noir]] || 15
 |-
-| [Scorpion piégeur](./Scorpion piégeur.md) || 8
+| [[Scorpion piégeur]] || 8
 |}
 </div>*Ce scorpion imposant surgit du sable en faisant claquer ses pinces géantes et en agitant sa queue terminée par un dard d’un air menaçant.*
 

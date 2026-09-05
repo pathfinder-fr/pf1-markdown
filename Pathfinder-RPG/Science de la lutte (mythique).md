@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les mouvements de lutte du personnage sont difficiles à contrer.*
 
-**Condition.** [Science de la lutte](./Science de la lutte.md)
+**Condition.** [[Science de la lutte]]
 
-**Avantage.** Le personnage gagne un bonus égal à la moitié de son [grade](./Grade.md) aux tests de [manœuvre offensive](./Manœuvre offensive.md) de lutte et ce même bonus est ajouté à son DMD lorsqu’un adversaire tente de lutter contre lui. Ces bonus se cumulent avec ceux conférés par la version [non-mythique](./non-mythique.md) de [Science de la lutte](./Science de la lutte.md). De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui tente de lutter contre lui, à moins qu’elle possède également ce don.
+**Avantage.** Le personnage gagne un bonus égal à la moitié de son [[grade]] aux tests de [[manœuvre offensive]] de lutte et ce même bonus est ajouté à son DMD lorsqu’un adversaire tente de lutter contre lui. Ces bonus se cumulent avec ceux conférés par la version [[non-mythique]] de [[Science de la lutte]]. De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui tente de lutter contre lui, à moins qu’elle possède également ce don.

@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2* p.230}
 {s:BDTexte|**PX** 19.200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [qlippoth](./sous-type qlippoth.md)) de taille G, CM}
-{s:BDTexte|**Init** +4 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 cases) ; [Perception](./Perception.md) +18}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type qlippoth|qlippoth]]) de taille G, CM}
+{s:BDTexte|**Init** +4 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 cases) ; [[Perception]] +18}
 {s:BDTexte|**Aura** de malchance (9 m)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 27, contact 13, pris au dépourvu 23 (Dex +4, naturelle +14, taille –1)}
@@ -27,15 +27,15 @@ Categories:
 {s:BDTexte|**Espace** 3 m (2 cases) ; **Allonge** 1,50 m (1 case) (3 m pour les coups et les tentacules (2 cases))}
 {s:BDTexte|**Attaques spéciales** apparence horrible (DD 20)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12), concentration +16}
-{s:BDSorts|Constant — *[marche dans les airs](./Marche dans les airs.md)*, *[vision magique](./Vision magique.md)*}
-{s:BDSorts|A volonté — *[marteau du Chaos](./Marteau du chaos.md)* (DD 18), *[ténèbres](./Ténèbres.md)*}
-{s:BDSorts|3/jour — *[confusion](./Confusion.md)* (DD 18), *[dissipation de la magie](./Dissipation de la magie.md)*, *[protection contre la Loi](./Protection contre la Loi.md)*, *[ténèbres](./Ténèbres.md)* en [incantation rapide](./Incantation rapide.md)}
-{s:BDSorts|1/jour — *[changement de plan](./Changement de plan.md)* (DD 21)}
+{s:BDSorts|Constant — *[[marche dans les airs]]*, *[[vision magique]]*}
+{s:BDSorts|A volonté — *[[marteau du Chaos]]* (DD 18), *[[ténèbres]]*}
+{s:BDSorts|3/jour — *[[confusion]]* (DD 18), *[[dissipation de la magie]]*, *[[protection contre la Loi]]*, *[[ténèbres]]* en [[incantation rapide]]}
+{s:BDSorts|1/jour — *[[changement de plan]]* (DD 21)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 18, **Con** 24, **Int** 13, **Sag** 17, **Cha** 19}
 {s:BDTexte|**BBA** +12, **BMO** +21, **DMD** 35 (39 contre croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Combat en aveugle](./Combat en aveugle.md), [Frappe décisive](./Frappe décisive.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (ténèbres), [Réflexes surhumains](./Réflexes surhumains.md), [Science du critique](./Science du critique.md) (coup)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +19 (+23 pour sauter), [Connaissances](./Connaissances.md) (plans) +16, [Discrétion](./Discrétion.md) +15, [Évasion](./Évasion.md) +19, [Intimidation](./Intimidation.md) +19, [Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +18}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Combat en aveugle]], [[Frappe décisive]], [[Pouvoir magique rapide]] (ténèbres), [[Réflexes surhumains]], [[Science du critique]] (coup)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +19 (+23 pour sauter), [[Connaissances]] (plans) +16, [[Discrétion]] +15, [[Évasion]] +19, [[Intimidation]] +19, [[Perception]] +18, [[Psychologie]] +18}
 {s:BDTexte|**Langues** abyssal ; télépathie 30 m}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abysses)}
@@ -48,7 +48,7 @@ Categories:
 {s:BDTexte|**Vulnérable à la lumière (Ext).** Un chernobue situé dans une zone de lumière vive subit un affaiblissement temporaire de 1 point de Constitution par minute passée dans cette zone.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [qlippoths](./Qlippoth.md).***</li></ul>*Cette masse huileuse de tiges ornées de gueules et de tentacules agités possède un unique et énorme œil hideux et des mâchoires acérées à la place du ventre.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Qlippoth|qlippoths]].***</li></ul>*Cette masse huileuse de tiges ornées de gueules et de tentacules agités possède un unique et énorme œil hideux et des mâchoires acérées à la place du ventre.*
 
 Le chernobue est la preuve vivante de la vile fécondité
 des Abysses : une créature

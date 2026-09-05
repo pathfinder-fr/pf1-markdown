@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-[^http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fKingMap1.jpg|Carte Terres Dérobées]
+[Carte Terres Dérobées](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fKingMap1.jpg)
 
 <div class="presentation arrondi ombre">
 ''Au sud du Rostland, les collines vallonées et les forêts verdoyantes forment une contrée qui est longtemps restée sauvage malgré les nombreuses tentatives des colons venus du nord ou du sud désireux de se l'approprier et d'y amener la civilisation. C'est le Taldor qui s'est montré le plus ambitieux dans ses tentatives de colonisation de ce royaume mais même cette grande nation n'est pas parvenues à dompter les terres sauvages qui forment une large bande verte entre le Brévoy et le cœur des Royaumes Fluviaux. Cette région porte le nom de Terres Dérobées, car certains considèrent cette étendue sauvage comme un territoire volé (puis ensuite perdu) par d'aucuns. Elle est restée à l'abandon pendant des décennies depuis la dernière tentative de colonisation, et il se dit que le moment de la prochaine tentative pourrait approcher à grands pas.
@@ -17,7 +17,7 @@ Mais, avant que les Terres Dérobées ne puissent être conquises, elles doivent
 
 --- **Extrait des "Royaumes Perdus" de l'historien taldan Gustav Devarr.**</div>
 
-Les Terres Dérobées recouvrent une large superficie d'à peu près 100 000 km2 située entre le [Brévoy](./Brévoy.md) (ou, plus exactement, la partie sud du [Brévoy](./Brévoy.md), le [Rostland](./Rostland.md)) au nord et le reste des [Royaumes Fluviaux](./Royaumes fluviaux.md) au sud.
+Les Terres Dérobées recouvrent une large superficie d'à peu près 100 000 km2 située entre le [[Brévoy]] (ou, plus exactement, la partie sud du [[Brévoy]], le [[Rostland]]) au nord et le reste des [[Royaumes Fluviaux]] au sud.
 
 C'est un vaste territoire qui n'est que peu connu : vu la sauvagerie et la dangerosité de ses habitants, humanoïdes ou monstrueux, peu nombreux sont les explorateurs et les cartographes qui ont eu le courage de s'y aventurer. Et ceux qui sont parvenus à récolter des informations précises et à les ramener vers la civilisation sont encore bien plus rares.
 
@@ -38,13 +38,13 @@ Derrière les Marches de Narl, à l'ouest, on trouve de vastes marécages parsem
 #### L'extrême ouest : les Hautes Terres de Glénébon
 La géographie de la région de Glénébon est marquée par des collines arides battues par des vents forts, sur lesquelles une végétation entêtée et très parsemée s'accroche avec peine. Les sommets rocailleux n'offrent aucun abri contre la violence des souffles et les vallées ne sont que poussière et caillasse. C'est seulement grâce aux pluies relativement régulières que la région ne s'est pas encore transformée en véritable terre aride. Vu les faibles ressources naturelles de l'endroit, on ne trouve dans cette région guère plus que des coléoptères (de taille normale ou géants), des serpents, des rongeurs et des loups affamés, mais parfois, certaines créatures monstrueuses comme de terribles manticores viennent s'adjoindre aux habitants locaux.
 
-Cette région, ayant une frontière commune avec la [Numérie](./Numérie.md) à l’ouest, est également proche du royaume fluvial de [Pitax](./Pitax.md) au sud. Certains prétendent d'ailleurs que la région de Glénébon serait sous la coupe des bandits de [Pitax](./Pitax.md), mais ces derniers n'ont pas vraiment agi en tant que maîtres de l'endroit.
+Cette région, ayant une frontière commune avec la [[Numérie]] à l’ouest, est également proche du royaume fluvial de [[Pitax]] au sud. Certains prétendent d'ailleurs que la région de Glénébon serait sous la coupe des bandits de [[Pitax]], mais ces derniers n'ont pas vraiment agi en tant que maîtres de l'endroit.
 
 **Le mont Branthlend.** Le mont Branthlend, qu'on appelle également le pic des Promesses Brisées, se détache d'un tapis de montagnes relativement basses et couvertes de forêts. C'est le pic le plus haut de la région mais il se distingue surtout par le fait que son sommet ressemble à un promontoire de pierre blanche quasiment dénuée de toute végétation. La forme particulière de l'apex de cette montagne, qui évoque un point de vue qui domine tous les environs, a donné naissance à de nombreuses légendes chez les barbares numériens.
 
 #### L'est : Les Hautes Terres de Nomen
-Les Hautes Terres de Nomen forment la frontière est des Terres Dérobées. On y trouve une chaîne de montagnes d'altitude modérée qui soulignent la frontière avec les steppes casmaroniennes de l'ancien royaume de l'[Iobarie](./Iobarie.md) à l'est.
+Les Hautes Terres de Nomen forment la frontière est des Terres Dérobées. On y trouve une chaîne de montagnes d'altitude modérée qui soulignent la frontière avec les steppes casmaroniennes de l'ancien royaume de l'[[Iobarie]] à l'est.
 
-**Le Dunsward.** Autour de ces montagnes (et au sud-est de la ville de [Restov](./Restov.md)) s'étend le Dunsward, de vastes plaines herbeuses qu'on dit habitées par de nombreuses tribus de centaures ainsi que par des barbares descendant en ligne droite des ruines de l'[Iobarie](./Iobarie.md).
+**Le Dunsward.** Autour de ces montagnes (et au sud-est de la ville de [[Restov]]) s'étend le Dunsward, de vastes plaines herbeuses qu'on dit habitées par de nombreuses tribus de centaures ainsi que par des barbares descendant en ligne droite des ruines de l'[[Iobarie]].
 
 **Les Tors de Lévenie.** Les monts qui marquent la frontière est des Terres Dérobées semblent comme surgir des plaines herbeuses qui les entourent, du moins du côté ouest, où ils forment des falaises escarpées. Du côté est, la pente qui mène vers leur sommet est plus douce. Selon les rumeurs, ces massifs rocheux renfermeraient de nombreuses crevasses, grottes et cavernes ainsi qu'un vaste réseau de galeries souterraines. Certaines légendes parlent de salles antiques renfermant des trésors oubliés par l'histoire et gardés par d'anciens vigiles de pierre, parfois même par des dragons.

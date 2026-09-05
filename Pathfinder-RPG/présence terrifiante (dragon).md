@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Dragon#PRESENCETERRIFIANTE
 ---
 
->>> [Dragon#PRESENCETERRIFIANTE](./dragon.md#PRESENCETERRIFIANTE)
+>>> [[Dragon#PRESENCETERRIFIANTE]]

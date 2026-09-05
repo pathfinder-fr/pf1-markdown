@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#RESISTANCEALENERGIEMAJEUR
 ---
 
->>> [pouvoirs de rage#RESISTANCEALENERGIEMAJEUR](./Pouvoirs de rage.md#RESISTANCEALENERGIEMAJEUR)
+>>> [[pouvoirs de rage#RESISTANCEALENERGIEMAJEUR]]

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Transperçante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Transperçante](./Descriptions individuelles des propriétés spéciales des armes.md#Transperçante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Transperçante]]

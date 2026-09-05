@@ -11,11 +11,11 @@ Categories:
 
 {s:divin|Zon-Kuthon|%2fPCUP%2fReligion-PNG%2fZon-Kuthon.png}<div class="BD">
 {s:BDTitre|Masque de chair tranchante|{s:ISG}{s:GeM}}
-**Aura** [Abjuration](./Abjuration.md) faible ; **NLS** 3 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 3 000 po ; **Poids** 0,5 kg
+**Aura** [[Abjuration]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 3 000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce masque de cuir noir est incrusté d’éclats d’os et de métal et on y a fait des boutonnières pour les yeux, la bouche et les narines. Il se lace par l’arrière à l’aide de longues bandes et couvre entièrement le visage, ne laissant apparaître que les oreilles et l’arrière de la tête. Lorsque le personnage le porte, il bénéficie d’un bonus de résistance de +2 aux jets de [Vigueur](./Vigueur.md).
+Ce masque de cuir noir est incrusté d’éclats d’os et de métal et on y a fait des boutonnières pour les yeux, la bouche et les narines. Il se lace par l’arrière à l’aide de longues bandes et couvre entièrement le visage, ne laissant apparaître que les oreilles et l’arrière de la tête. Lorsque le personnage le porte, il bénéficie d’un bonus de résistance de +2 aux jets de [[Vigueur]].
 
-Si le personnage est un suivant de [Zon-Kuthon](./Zon-Kuthon (technique).md), il peut, une fois par jour et après avoir prononcé un mot de commande, frapper une cible située à une distance maximale de 30 mètres avec une épée de force invisible, lui infligeant 2d4+2 points de dégâts de force. Par une [action libre](./Action libre.md), il peut demander au masque de se détacher, de prendre la forme d’une casquette de cuir posée sur sa tête, ou de se cacher dans sa chemise ou sous son casque.
+Si le personnage est un suivant de [[Zon-Kuthon (technique)|Zon-Kuthon]], il peut, une fois par jour et après avoir prononcé un mot de commande, frapper une cible située à une distance maximale de 30 mètres avec une épée de force invisible, lui infligeant 2d4+2 points de dégâts de force. Par une [[action libre]], il peut demander au masque de se détacher, de prendre la forme d’une casquette de cuir posée sur sa tête, ou de se cacher dans sa chemise ou sous son casque.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[corde animée](./Corde animée.md)*, *[projectile magique](./Projectile magique.md)*, *[résistance](./sort Résistance.md)* ; **Coût** 1 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[corde animée]]*, *[[projectile magique]]*, *[[sort Résistance|résistance]]* ; **Coût** 1 500 po
 </div>

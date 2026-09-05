@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Charge étanche
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Charge étanche](./Descriptions individuelles des propriétés spéciales des armes.md#Charge étanche)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Charge étanche]]

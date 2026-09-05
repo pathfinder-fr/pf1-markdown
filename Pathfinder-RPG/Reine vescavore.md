@@ -10,12 +10,12 @@ LastModified: 2021-01-06 22:16
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 {s:BDTexte|*Source : La colère des justes p.554*}
 {s:BDTexte|**PX** 6 400 px}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Extraplanaire](./sous-type extraplanaire.md), [Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md)) de taille G, CM}
-{s:BDTexte|**Init** +3; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 c) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Extraplanaire|Extraplanaire]], [[sous-type chaos|Chaos]], [[sous-type mal|Mal]]) de taille G, CM}
+{s:BDTexte|**Init** +3; **Sens** [[vision dans le noir]] à 18 m (12 c) ; [[Perception]] +17}
 {s:BDTexte|**Aura** chaotique (3 m), bourdonnement (4,50 m, DD 20)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 13, pris au dépourvu 18 (Dex +3, esquive +1, naturelle +9, taille -1)}
-{s:BDTexte|**pv** 114 (12d10+48), [guérison accéléré](./Guérison accélérée (capacité).md) 2}
+{s:BDTexte|**pv** 114 (12d10+48), [[Guérison accélérée (capacité)|guérison accéléré]] 2}
 {s:BDTexte|**Réf** +11, **Vig** +8, **Vol** +10}
 {s:BDTexte|**Immunité** acide, poison}
 {s:BDTexte|**Résistance** feu 10, électricité 10}
@@ -29,17 +29,17 @@ LastModified: 2021-01-06 22:16
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 16, **Con** 18, **Int** 11, **Sag** 4, **Cha** 13}
 {s:BDTexte|**BBA** +12, **BMO** +16, **DMD** 30}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Combat en aveugle](./Combat en aveugle.md), [Esquive](./Esquive.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +12, [Connaissances](./Connaissances.md) (exploration souterraine) +10, [Connaissances](./Connaissances.md) (plan) +10, [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +12, [Perception](./Perception.md) +17, [Survie](./Survie.md) +15, [Vol](./Vol.md) +21}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaque en vol]], [[Combat en aveugle]], [[Esquive]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +12, [[Connaissances]] (exploration souterraine) +10, [[Connaissances]] (plan) +10, [[Discrétion]] +14, [[Escalade]] +12, [[Perception]] +17, [[Survie]] +15, [[Vol]] +21}
 {s:BDTexte|**Modificateurs raciaux** +8 en perception}
 {s:BDTexte|**Langue** abyssal}
 {s:BDTexte|**Part** compression, mère de la nuées}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abysses)}
-{s:BDTexte|**Organisation sociale** solitaire, ruche (1 reine et 2-20 [nuées de vescavores](./Nuée de vescavores.md))}
+{s:BDTexte|**Organisation sociale** solitaire, ruche (1 reine et 2-20 [[nuée de vescavores|nuées de vescavores]])}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Aura de Bourdonnement (Sur).** Tout comme les membres de leur ruche, les reines vescavores braillent sans cesse le chant des Abysses. Les créatures situées à 4,50 mètres ou moins d'une riene vescavore doivent réussir un jet de volonté DD 20 pour ne pas être [confuses](./États préjudiciables.md#confus) pendant 1 round. C'est un effet mental de coercition et d'aliénation mentale. Une créature qui réussit son jet de sauvegarde ne peut pas être affectée par le bourdonnement pendant les prochaines 24 heures. Le DD du jet de sauvegarde est basé sur la constitution.}
+{s:BDTexte|**Aura de Bourdonnement (Sur).** Tout comme les membres de leur ruche, les reines vescavores braillent sans cesse le chant des Abysses. Les créatures situées à 4,50 mètres ou moins d'une riene vescavore doivent réussir un jet de volonté DD 20 pour ne pas être [[États préjudiciables#confus|confuses]] pendant 1 round. C'est un effet mental de coercition et d'aliénation mentale. Une créature qui réussit son jet de sauvegarde ne peut pas être affectée par le bourdonnement pendant les prochaines 24 heures. Le DD du jet de sauvegarde est basé sur la constitution.}
 {s:BDTexte|**Aura chaotique (Sur).** Une reine vescavore est une incarnation du Chaos. Son aura est une source d'énergies anarchiques qui confère, à elle, et aux nuées de vescavores située à 3 mètres ou moins d'elle, une guérison accéléré de 2. Une reine vescavore peut activer ou désactiver ce pouvoir par une action libre.}
 {s:BDTexte|**Crachat d'acide (Ext).** Par une action simple, une reine vescavore peut cracher de l'acide sur un adversaire situé à 9 mètres ou moins. Si elle réussit une attaque de contact à distance, elle projette une masse visqueuse et acide qui inflige à la cible 5d6 points de dégâts d'acide. De plus, le crachat d'une reine vescavore contient certaines de ses phéromones. Une cible qui subit des dégâts suite à cette attaque devient une sorte de balise pour les nuées de vescavores alentours. Elle subit un malus de -8 aux tests de discrétion effectués contre la reine et les nuées de vescavores qu'elle contrôle et risque d'êtres prise pour cible par la nuée.}
 {s:BDTexte|**Mère des nuéees (Sur).** Une reine vescavore peut mentalement contrôler jusqu'à 20 DV de nuées de vescavores en combinant ses phéromones surnaturelles à certaines manipulation magiques. Pour contrôler une nuée de vescavore, la reine doit pouvoir la voir et doit être situé à 36 mètres ou moins d'elle. La tentative de contrôle d'une nuée de vescavores nécessite une action simple et la nuée peut résister en réussissant un jet de volonté (DD 17). Si la nuée rate son jet de sauvegarde, le reine vescavore peut donner, par une action rapide, un simple ordre mental comme "combattez", "venez ici", "allez là bas", ou "ne bougez plus". Les nuées de vescavores affectées par ce pouvoir agissent normalement à moins que la reine vescavore décide de les contrôler activement. Cependant elle n'attaquent jamais la reine. Le DD du jet de sauvegarde est basé sur le Charisme. De plus une reine vescavore est immunisée aux aux attaques de nuées et aux pouvoirs spéciaux surnaturels d'une nuée de vescavore. Une reine vescavore peut arrêter de contrôler une nuée de vescavores par une action libre. Si une reine vescavore est tuée, toutes les nuées de vescavores sous son contrôle se dispersent.}
@@ -47,7 +47,7 @@ LastModified: 2021-01-06 22:16
 </td><td><div>
 *Couverte d'une carapace noire dotée d'une brillance proche de celle de l'huile, cette créature à l'aspect de vermine possède des ailles membraneuses couleur d'obsidienne et des crocs pointus dégoulinants d'acide*
 
-Voir aussi : [nuée de vescavores](./Nuée de vescavores.md)
+Voir aussi : [[nuée de vescavores]]
 
 Imposante vermine à l'aspect terrifiant, une reine vescavore est une créature particulièrement hideuse, ses ailes d'insectes et son corps boursouflé étant les éléments les plus inoffensifs de son anatomie. Non seulement sa morsure est plus dangereuse que celle de ses rejetons, mais sa gueule crache également de l'acide sur ses adversaires. Ses bras ne sont pas dotés de mains, mais de griffes en forme de lames de faux capables de déchirer les chaires et de transporter les armures. Une reine vescavore fait environ 3 mètres de long de la tête à la queue pour un poids approximatif de 250 kilogrammes qui augmente lorsqu'elle porte une couvée.
 </div>

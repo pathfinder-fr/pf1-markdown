@@ -7,10 +7,10 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:cm}**Cette option est plus courante chez les [géants du froid](./Géant du froid.md).**
+{s:cm}**Cette option est plus courante chez les [[Géant du froid|géants du froid]].**
 
 *Le personnage transfère le froid de son corps au rocher qu’il lance.*
 
-**Conditions.** [Né du froid](./Né du froid.md), [géant du froid](./Géant du froid.md)
+**Conditions.** [[Né du froid]], [[géant du froid]]
 
 **Avantage.** Le personnage gèle tous les objets qu’il jette via son pouvoir lancer de rocher, ces projectiles infligeant alors 1d6 points de dégâts supplémentaires de froid.

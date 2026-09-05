@@ -8,7 +8,7 @@ Categories:
 
 {s:MenuCompétences}
 
-**Caractéristique associée** : [Sagesse](./Sagesse.md)
+**Caractéristique associée** : [[Sagesse]]
 
 **Formation nécessaire** : non
 
@@ -16,7 +16,7 @@ Categories:
 
 ### Test de compétence
 
-Un test de Psychologie réussi permet de ne pas se faire bluffer (voir la compétence de [Bluff](./Bluff.md)). Il est également possible d’utiliser cette compétence pour sentir quand quelque chose de louche se prépare ou pour déterminer si quelqu’un est digne de confiance.
+Un test de Psychologie réussi permet de ne pas se faire bluffer (voir la compétence de [[Bluff]]). Il est également possible d’utiliser cette compétence pour sentir quand quelque chose de louche se prépare ou pour déterminer si quelqu’un est digne de confiance.
 
 <center>
 {| CLASS="tablo"
@@ -38,9 +38,9 @@ Un test de Psychologie réussi permet de ne pas se faire bluffer (voir la compé
 
 **Pressentiment.** En analysant une situation, le personnage est capable de sentir que quelque chose cloche. Il peut par exemple éprouver une sensation de malaise lorsqu’il discute avec un imposteur, ou bien au contraire sentir que quelqu’un est digne de confiance.
 
-**Perception d’enchantement.** Le personnage se rend compte que le comportement d’un individu qu’il observe est influencé par un effet d’enchantement, même si la victime n’a pas elle-même conscience de son état. Le [DD](./DD.md) habituel est de 25, mais si la cible est dominée (voir le sort *[domination](./Domination.md)*), le [DD](./DD.md) n’est que de 15 car son éventail d’activités est relativement réduit.
+**Perception d’enchantement.** Le personnage se rend compte que le comportement d’un individu qu’il observe est influencé par un effet d’enchantement, même si la victime n’a pas elle-même conscience de son état. Le [[DD]] habituel est de 25, mais si la cible est dominée (voir le sort *[[domination]]*), le [[DD]] n’est que de 15 car son éventail d’activités est relativement réduit.
 
-**Intercepter un message secret.** La compétence de Psychologie peut permettre de se rendre compte que deux personnes mêlent un message secret à une conversation anodine en utilisant la compétence de [Bluff](./Bluff.md). Dans ce cas, le test de Psychologie est opposé au test de Bluff de la personne qui émet le message. Le test de Psychologie du personnage subit un malus de -2 pour chacune des informations relatives au message qui lui manque. Si le test est réussi de 4 points ou moins, le personnage sait qu’un message a été transmis, mais en ignore la teneur. S’il est réussi de 5 points ou plus, le personnage comprend le message. En cas d’échec de 4 points ou moins, le personnage ne perçoit aucune communication secrète. Et enfin, en cas d’échec de 5 points ou plus, il déduit des informations erronées.
+**Intercepter un message secret.** La compétence de Psychologie peut permettre de se rendre compte que deux personnes mêlent un message secret à une conversation anodine en utilisant la compétence de [[Bluff]]. Dans ce cas, le test de Psychologie est opposé au test de Bluff de la personne qui émet le message. Le test de Psychologie du personnage subit un malus de -2 pour chacune des informations relatives au message qui lui manque. Si le test est réussi de 4 points ou moins, le personnage sait qu’un message a été transmis, mais en ignore la teneur. S’il est réussi de 5 points ou plus, le personnage comprend le message. En cas d’échec de 4 points ou moins, le personnage ne perçoit aucune communication secrète. Et enfin, en cas d’échec de 5 points ou plus, il déduit des informations erronées.
 
 ### Action
 
@@ -48,10 +48,10 @@ Il faut au moins une minute pour tenter d’obtenir la moindre information à l�
 
 ### Nouvelles tentatives
 
-Non, mais chaque tentative de [Bluff](./Bluff.md) dont on fait l’objet permet un test de Psychologie.
+Non, mais chaque tentative de [[Bluff]] dont on fait l’objet permet un test de Psychologie.
 
 ### Spécial
 
-Les [rôdeurs](./Rôdeur.md) gagnent un bonus aux tests de Psychologie contre leurs [ennemis jurés](./ennemi juré.md).
+Les [[rôdeur|rôdeurs]] gagnent un bonus aux tests de Psychologie contre leurs [[ennemi juré|ennemis jurés]].
 
-Un personnage possédant le don [Vigilance](./Vigilance.md) obtient un bonus aux tests de Psychologie.
+Un personnage possédant le don [[Vigilance]] obtient un bonus aux tests de Psychologie.

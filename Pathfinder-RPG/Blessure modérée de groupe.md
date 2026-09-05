@@ -13,22 +13,22 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Cham](./Chaman.md) 6, [Inq](./Inquisiteur.md) 6, [Occ](./Occultiste.md) 6, [Prê](./Prêtre.md) 6, [Sor](./Sorcière.md) 7  
+**École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 6, [[Inquisiteur|Inq]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cibles** 1 créature/[niveau](./niveau.md), distantes de moins de 9 m les unes des autres  
+**Cibles** 1 créature/[[niveau]], distantes de moins de 9 m les unes des autres  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-De l’[énergie négative](./Énergie négative.md) part dans toutes les directions depuis le point d’origine, infligeant 2d8 points de dégâts, +1 par [niveau de lanceur de sorts](./NLS.md) (jusqu’à un maximum de +30), à toutes les créatures vivantes situées alentour.
+De l’[[énergie négative]] part dans toutes les directions depuis le point d’origine, infligeant 2d8 points de dégâts, +1 par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de +30), à toutes les créatures vivantes situées alentour.
 
-De la même manière que les autres sorts de blessure, *blessure modérée de groupe* soigne les [morts-vivants](./type Mort-vivant.md) situés dans la zone. Un [prêtre](./Prêtre.md) capable de lancer les sorts de blessure de façon spontanée peut en faire de même à l’égard des sorts de blessure de groupe.
+De la même manière que les autres sorts de blessure, *blessure modérée de groupe* soigne les [[type mort-vivant|morts-vivants]] situés dans la zone. Un [[prêtre]] capable de lancer les sorts de blessure de façon spontanée peut en faire de même à l’égard des sorts de blessure de groupe.
 
-(((Ce sort est similaire à *[blessure légère de groupe](./Blessure légère de groupe.md)*, sauf qu’il fait perdre 2d8 points de vie, +1 par [niveau de lanceur de sorts](./NLS.md) (jusqu’à un maximum de +30).)))
+(((Ce sort est similaire à *[[blessure légère de groupe]]*, sauf qu’il fait perdre 2d8 points de vie, +1 par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de +30).)))

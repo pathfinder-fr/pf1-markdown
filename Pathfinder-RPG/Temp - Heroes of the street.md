@@ -7,19 +7,19 @@ LastModified: 2021-12-31 04:47
 <nav class="wiki-toc"></nav>
 
 ### SORTS
-- ***[Amant de la forge](./Amant de la forge.md)*** Permet de retrouver le chemin d'un atelier ou de son foyer
-- ***[Bénédiction de liberté](./Bénédiction de la liberté.md)*** +1 sur un jet contre un sort/piège affectant le mouvement
-- ***[Cape des secrets](./Cape des secrets.md)*** Créé une bulle qui filtre les paroles prononcées à l'intérieur 
-- ***[Coffret secret](./Coffret secret.md)*** Crée un petit coffret caché dans le plan Éthéré
-- ***[Foule illusoire](./Foule illusoire.md)*** Fait apparaître une foule illusoire
-- ***[Forme inoffensive](./Forme inoffensive.md)*** Transforme un animal en animal inoffensif
-- ***[Marque de paix](./Marque de paix.md)*** Créé une zone qui protège de certains sorts
-- ***[Mur d’horlogerie](./Mur d’horlogerie.md)*** Fait surgir un mur fait de rouages et d'engrenages
-- ***[Oreilles de la cité](./Oreilles de la cité.md)*** Fait revivre des scènes du passé d'une ville
-- ***[Parler le patois local](./Parler le patois local.md)*** Permet de parler le patois local
-- ***[Saison des récoltes](./Saison des récoltes.md)*** Fait croître une plante qui produit de la nourriture comestible
-- ***[Tirs de pièces](./Tir de pièce.md)*** Permet d'utiliser des pièces de monnaie comme des munitions
-- ***[Visualisation de Cadenas](./Visualisation de Cadenas.md)*** Permet d'évaluer le cadenas d'une porte/coffre
+- ***[[Amant de la forge]]*** Permet de retrouver le chemin d'un atelier ou de son foyer
+- ***[[Bénédiction de la liberté|Bénédiction de liberté]]*** +1 sur un jet contre un sort/piège affectant le mouvement
+- ***[[Cape des secrets]]*** Créé une bulle qui filtre les paroles prononcées à l'intérieur 
+- ***[[Coffret secret]]*** Crée un petit coffret caché dans le plan Éthéré
+- ***[[Foule illusoire]]*** Fait apparaître une foule illusoire
+- ***[[Forme inoffensive]]*** Transforme un animal en animal inoffensif
+- ***[[Marque de paix]]*** Créé une zone qui protège de certains sorts
+- ***[[Mur d’horlogerie]]*** Fait surgir un mur fait de rouages et d'engrenages
+- ***[[Oreilles de la cité]]*** Fait revivre des scènes du passé d'une ville
+- ***[[Parler le patois local]]*** Permet de parler le patois local
+- ***[[Saison des récoltes]]*** Fait croître une plante qui produit de la nourriture comestible
+- ***[[Tir de pièce|Tirs de pièces]]*** Permet d'utiliser des pièces de monnaie comme des munitions
+- ***[[Visualisation de Cadenas]]*** Permet d'évaluer le cadenas d'une porte/coffre
 
 Sorts traduits et mis en forme par Gilthorne, relus par rectulo
 À intégrer dans les listes des sorts des classes, dans les listes des sorts par ordre alphabétique
@@ -36,40 +36,40 @@ Sorts traduits et mis en forme par Gilthorne, relus par rectulo
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Armes immondes](./Armes immondes.md)* || HotS || [Connaissances](./Connaissances.md) (Exploration souterraine) 1 rang, [Connaissances](./Connaissances.md) (Nature) 1 rang || Vous pouvez transmettre la fièvre des marais avec votre arme en l'enduisant de saletés
+| [[Armes immondes]]* || HotS || [[Connaissances]] (Exploration souterraine) 1 rang, [[Connaissances]] (Nature) 1 rang || Vous pouvez transmettre la fièvre des marais avec votre arme en l'enduisant de saletés
 
 |- CLASS="premier"
-| [Aveuglement immonde](./Aveuglement immonde.md)* || HotS || [Lancer improvisé](./Lancer improvisé.md) || Vous utilisez la saleté pour aveugler vos adversaires
+| [[Aveuglement immonde]]* || HotS || [[Lancer improvisé]] || Vous utilisez la saleté pour aveugler vos adversaires
 
 |- CLASS="premier"
-| [Coupeur de gorge](./Coupeur de gorge.md)* || HotS || [BBA](./BBA.md)+1 || Vous pouvez infliger un coup de grâce aux créatures inconscientes,clouée ou immobilisée
+| [[Coupeur de gorge]]* || HotS || [[BBA]]+1 || Vous pouvez infliger un coup de grâce aux créatures inconscientes,clouée ou immobilisée
 
 |- CLASS="premier"
-| [Dératiseur](./Dératiseur.md)* || HotS || [Connaissances](./Connaissances.md) (Exploration souterraine) 1 rang, [BBA](./BBA.md)+1 || Vous savez vous défendre contre les créatures très petites et les nuées
+| [[Dératiseur]]* || HotS || [[Connaissances]] (Exploration souterraine) 1 rang, [[BBA]]+1 || Vous savez vous défendre contre les créatures très petites et les nuées
 
 |- CLASS="premier"
-| [Dispositifs subtils](./Dispositifs subtils.md) || HotS || [Discret](./Discret.md) || Vous savez camoufler l'utilisation des objets magiques que vous manipulez
+| [[Dispositifs subtils]] || HotS || [[Discret]] || Vous savez camoufler l'utilisation des objets magiques que vous manipulez
 
 |- CLASS="premier"
-| [Funambule](./Funambule.md) || HotS || [Dex](./Dex.md) 13 || Votre équilibre vous permet d'éviter les chutes et de vous concentrer sur le combat
+| [[Funambule]] || HotS || [[Dex]] 13 || Votre équilibre vous permet d'éviter les chutes et de vous concentrer sur le combat
 
 |- CLASS="premier"
-| [Glaneur de détritus](./Glaneur de détritus.md) || HotS || — || Votre exposition régulière aux immondes et infortunés résidus propres aux égouts et souterrains urbains vous a fait développer une résistance aux effets de telles conditions
+| [[Glaneur de détritus]] || HotS || — || Votre exposition régulière aux immondes et infortunés résidus propres aux égouts et souterrains urbains vous a fait développer une résistance aux effets de telles conditions
 
 
 |- CLASS="premier"
-| [Lanceur rusé](./Lanceur rusé.md) || HotS || [Fourberie](./Fourberie.md), capacité à lancer des sorts de niveau 1 || Vous pouvez dissimuler vos sorts aux observateurs alentour
+| [[Lanceur rusé]] || HotS || [[Fourberie]], capacité à lancer des sorts de niveau 1 || Vous pouvez dissimuler vos sorts aux observateurs alentour
 
 |- CLASS="premier"
-| [Contacts avec la pègre](./Contacts avec la pègre.md)  || HotS || — || Vous pouvez vous aider de vos relations avec le monde souterrain quand vous êtes en milieu urbain ou souterrain.
+| [[Contacts avec la pègre]]  || HotS || — || Vous pouvez vous aider de vos relations avec le monde souterrain quand vous êtes en milieu urbain ou souterrain.
 
 |-
-| &emsp; [Émissaire de Guilde](./Émissaire de Guilde.md) || HotS || [Prestige](./Prestige.md) ou [Contacts avec la pègre](./Contacts avec la pègre.md) || Votre place dans le monde de la pègre vous permet de trouver des contacts dans les villes pour obtenir des objets, des services et des informations
+| &emsp; [[Émissaire de Guilde]] || HotS || [[Prestige]] ou [[Contacts avec la pègre]] || Votre place dans le monde de la pègre vous permet de trouver des contacts dans les villes pour obtenir des objets, des services et des informations
 
 |}
 </center>
 
-- (les règles concernant les contacts se trouvent dans le guide de campagne. J'ai repris la terminologie consacrée). Les règles concernant les [contacts](./contacts.md) sont sur le wiki
+- (les règles concernant les contacts se trouvent dans le guide de campagne. J'ai repris la terminologie consacrée). Les règles concernant les [[contacts]] sont sur le wiki
 
 
 ### TRAITS
@@ -88,36 +88,36 @@ Merci de déterminer la nature du trait (base, race, religieux, régionaux). Pou
 
 - ***(((Good Folk))) Bonté du peuple.*** La confiance que les individus vous prête tend à être plus profonde que la confiance en d'autres personnes. Vous obtenez un +bonus de 2 sur vos tests de Charisme et ceux basés sur le Charisme avec des créatures qui ont une attitude amicale ou serviable envers vous.
 
-- ***(((Lost Origins))) Origines perdues.*** Vous êtes éloigné de votre héritage et faites de votre mieux pour en apprendre plus pour retrouver la trace de votre famille ou savoir ses origines. [Connaissances](./Connaissances.md) (folklore local) est toujours une compétence de classe pour vous et vous pouvez toujours faire 10 sur vos jets de [Connaissances](./Connaissances.md) (folklore local), même si le stress ou les distractions devraient vous en empêcher.
+- ***(((Lost Origins))) Origines perdues.*** Vous êtes éloigné de votre héritage et faites de votre mieux pour en apprendre plus pour retrouver la trace de votre famille ou savoir ses origines. [[Connaissances]] (folklore local) est toujours une compétence de classe pour vous et vous pouvez toujours faire 10 sur vos jets de [[Connaissances]] (folklore local), même si le stress ou les distractions devraient vous en empêcher.
 
-- ***(((Street Wary))) Méfiance des rues.*** Vous avez appris à faire attention à vous dans les rues et vous connaissez les signes d'une intention hostiles. [Psychologie](./Psychologie.md) et toujours une compétence de classe pour vous, et vous gagnez un bonus de +2 sur vos jets de [psychologie](./Psychologie.md) pour avoir un ressentiment.
+- ***(((Street Wary))) Méfiance des rues.*** Vous avez appris à faire attention à vous dans les rues et vous connaissez les signes d'une intention hostiles. [[Psychologie]] et toujours une compétence de classe pour vous, et vous gagnez un bonus de +2 sur vos jets de [[psychologie]] pour avoir un ressentiment.
 
-- ***(((Wiscrani Ear))) Oreille des Wiscrani.*** Vous avez une oreille perçante pour les mouvements de voleurs et monstres. Vous pouvez toujours [faire 10](./faire 10.md) sur vos jets de [Perception](./Perception.md), même si le stress ou les distractions vous en empêcherait normalement. 
+- ***(((Wiscrani Ear))) Oreille des Wiscrani.*** Vous avez une oreille perçante pour les mouvements de voleurs et monstres. Vous pouvez toujours [[faire 10]] sur vos jets de [[Perception]], même si le stress ou les distractions vous en empêcherait normalement. 
 
 ##### BASE
 
 *SOCIAL*
 - ***(((Cutting Condescension))) Condescendance coupante.*** Les miliciens de la garde vous ont appris à faire obtempérer ceux qui se placent en travers de votre chemin. Vous obtenez un bonus de +2 sur sur vos tests d'Intimidation pour forcer une créature à agir amicalement envers vous et vous pouvez tenter de tels tests en moitié moins de temps que la normale.
 
-- ***(((Mock Gladiator))) Imitation du gladiateur.*** Vous avez appris comment enflammer une foule en assistant aux faux combats de gladiateurs de Magnimar. Choisissez une arme. Vous ne subissez aucune pénalité à vos jets d'attaque lorsque vous souhaitez infliger des dégâts non létaux avec cette arme. Une fois par jour, si vous réussissez un coup critique avec cette arme, vous pouvez tenter par une action immédiate un jet d'[Intimidation](./Intimidation.md) pour démoraliser la cible.
+- ***(((Mock Gladiator))) Imitation du gladiateur.*** Vous avez appris comment enflammer une foule en assistant aux faux combats de gladiateurs de Magnimar. Choisissez une arme. Vous ne subissez aucune pénalité à vos jets d'attaque lorsque vous souhaitez infliger des dégâts non létaux avec cette arme. Une fois par jour, si vous réussissez un coup critique avec cette arme, vous pouvez tenter par une action immédiate un jet d'[[Intimidation]] pour démoraliser la cible.
 
-- ***(((Practiced disruptor))) Perturbateur expérimenté.*** Vous êtes expérimentés à faire face à des lanceurs de sorts. Vous pouvez faire des jets de [connaissances](./Connaissances.md) (arcane) si vous n'y êtes pas entraînés; si vous avez des rangs dans cette compétence, vous gagnez à la place un bonus de +1 sur ces jets. Le DD de concentration pour lancer un sort sur la défensive dans votre zone de menace augmente de 1.
+- ***(((Practiced disruptor))) Perturbateur expérimenté.*** Vous êtes expérimentés à faire face à des lanceurs de sorts. Vous pouvez faire des jets de [[connaissances]] (arcane) si vous n'y êtes pas entraînés; si vous avez des rangs dans cette compétence, vous gagnez à la place un bonus de +1 sur ces jets. Le DD de concentration pour lancer un sort sur la défensive dans votre zone de menace augmente de 1.
 
-- ***(((Seafaring reputation))) Réputation de marin.*** La célébrité d'un groupe de marins vous aide à convaincre des marins à coopérer. Vous gagnez un bonus de +1 sur vos jets de [diplomatie](./Diplomatie.md) et d'[intimidation](./Intimidation.md) contre des marins et les résidents d'Absalom.
+- ***(((Seafaring reputation))) Réputation de marin.*** La célébrité d'un groupe de marins vous aide à convaincre des marins à coopérer. Vous gagnez un bonus de +1 sur vos jets de [[diplomatie]] et d'[[intimidation]] contre des marins et les résidents d'Absalom.
 
-- ***(((Vigilant spycatcher))) Éclaireur vigilant.*** Des parents parano ou un formateur militaire vous a appris à rester vigilant pour des espions. Si vous faîtes moins de 10 sur un jet de [Perception](./Perception.md) pour voir à travers un déguisement, déterminez le résultat comme si vous aviez fait 10.
+- ***(((Vigilant spycatcher))) Éclaireur vigilant.*** Des parents parano ou un formateur militaire vous a appris à rester vigilant pour des espions. Si vous faîtes moins de 10 sur un jet de [[Perception]] pour voir à travers un déguisement, déterminez le résultat comme si vous aviez fait 10.
 
 *FOI*
-- ***(((Urban acolyte))) Acolyte urbain.*** Grandir dans une cité a élargi votre philosophie, et aidé à interpréter la volonté divine de votre bienfaiteur d'une manière inédite. Vous gagnez [connaissances](./Connaissances.md) (folklore local) en compétence de classe. Additionnellement, vous pouvez choisir un de ces sous-domaines en utilisant les règles standard des sous-domaines tant que votre dieu vous donne l'accès à ce sous-domaine: Codification, Compétition, Droits, Duels, Épidémie, Espionnage, Fortifications, Industrie, Plaie, Révolte, Renseignement.
+- ***(((Urban acolyte))) Acolyte urbain.*** Grandir dans une cité a élargi votre philosophie, et aidé à interpréter la volonté divine de votre bienfaiteur d'une manière inédite. Vous gagnez [[connaissances]] (folklore local) en compétence de classe. Additionnellement, vous pouvez choisir un de ces sous-domaines en utilisant les règles standard des sous-domaines tant que votre dieu vous donne l'accès à ce sous-domaine: Codification, Compétition, Droits, Duels, Épidémie, Espionnage, Fortifications, Industrie, Plaie, Révolte, Renseignement.
 
 ### Sous-domaines
 <table class="page espace-col troiscol"><tr style="vertical-align: top"><td>
 <div class="presentation arrondi">
 ### (Force)Sous-domaine de la Compétition
-**Exploit athlétique (Sur).** *(remplace pic de force)* Avec une [action rapide](./Action rapide.md), vous gagnez le pouvoir de surmonter les obstacles physiques avec facilité. Jusqu'au début de votre prochain tour, vous divisez votre malus d'armure par 2 quand vous tentez un jet d'[Acrobaties](./Acrobaties.md), d'[Évasion](./Évasion.md), d'[Escalade](./Escalade.md) ou de [Natation](./Natation.md), et vous gagnez un bonus égal à 1/2 de votre niveau de [prêtre](./Prêtre.md) (minimum +1) sur ces jets.  
+**Exploit athlétique (Sur).** *(remplace pic de force)* Avec une [[action rapide]], vous gagnez le pouvoir de surmonter les obstacles physiques avec facilité. Jusqu'au début de votre prochain tour, vous divisez votre malus d'armure par 2 quand vous tentez un jet d'[[Acrobaties]], d'[[Évasion]], d'[[Escalade]] ou de [[Natation]], et vous gagnez un bonus égal à 1/2 de votre niveau de [[prêtre]] (minimum +1) sur ces jets.  
 
 
-**Sorts de ce sous-domaine:** 1er- [saut](./Saut.md) // 3ème- [Aspect animal supérieur](./Aspect animal supérieur.md) // 6ème- [Héroïsme suprême](./Héroïsme suprême.md)  
+**Sorts de ce sous-domaine:** 1er- [[saut]] // 3ème- [[Aspect animal supérieur]] // 6ème- [[Héroïsme suprême]]  
 
 
 **Dieux de ce sous-domaine:** Dieu des aventuriers // Dieu du savoir // l'Homme fort // la reine du festival // le Puissant
@@ -125,9 +125,9 @@ Merci de déterminer la nature du trait (base, race, religieux, régionaux). Pou
 </td><td>
 <div class="presentation arrondi">
 ### (Guerre)Sous-domaine des Duels
-**Défi divin (Sur).** *(remplace rage de combat)* En une [action rapide](./Action rapide.md), vous pouvez défier un ennemi visible à moins de 9m(6 {s:c}) de vous, gagnant un bonus de +1 à votre [CA](./CA.md) contre les attaques de cette créature et un bonus égal à 1/2 de votre niveau de [prêtre](./Prêtre.md) sur vos jets de [Bluff](./Bluff.md) pour faire une feinte contre lui. Ces bonus durent pour un nombre de rounds égal à 1/2 de votre niveau de [prêtre](./Prêtre.md). Vous pouvez utiliser ce pouvoir un nombre de fois par jour égal à 3 + votre modificateur de [Sagesse](./Sagesse.md).
+**Défi divin (Sur).** *(remplace rage de combat)* En une [[action rapide]], vous pouvez défier un ennemi visible à moins de 9m(6 {s:c}) de vous, gagnant un bonus de +1 à votre [[CA]] contre les attaques de cette créature et un bonus égal à 1/2 de votre niveau de [[prêtre]] sur vos jets de [[Bluff]] pour faire une feinte contre lui. Ces bonus durent pour un nombre de rounds égal à 1/2 de votre niveau de [[prêtre]]. Vous pouvez utiliser ce pouvoir un nombre de fois par jour égal à 3 + votre modificateur de [[Sagesse]].
 
-**Sorts de ce sous-domaine:** 2ème- [Arme protectrice](./Arme protectrice.md) // 5ème- [Danse des cent coupures](./Danse des cent coupures.md) // 8ème- [Danse des mille coupures](./Danse des mille coupures.md)
+**Sorts de ce sous-domaine:** 2ème- [[Arme protectrice]] // 5ème- [[Danse des cent coupures]] // 8ème- [[Danse des mille coupures]]
 
 **Dieux de ce sous-domaine:** la Reine Pirate // la Calamité // Dieu de la Guerre // Déesse de la Bravoure
 </div>
@@ -135,9 +135,9 @@ Merci de déterminer la nature du trait (base, race, religieux, régionaux). Pou
 </td><td>
 <div class="presentation arrondi">
 ### (Protection)Sous-domaine des Fortifications
-**Murs de protection(Mag).** *(remplace toucher de résistance)* En tant qu'[action simple](./Action simple.md), vous pouvez toucher un allié pour invoquer un barrage volant en pierre, lui conférant les bonus d'un [abri partiel](./abri partiel.md) pour un round plus un round tous les 6 niveaux de [prêtre](./Prêtre.md) vous possédez. Cette aptitude ne donne pas assez d'abri à l'allié pour tenter un jet de [Discrétion](./Discrétion.md) ou éviter des attaques d'opportunité. Si l'allié bénéficie de n'importe quelle forme d'abri contre une attaque, les bonus à la [CA](./CA.md) et sur les jets de [Réflexes](./Réflexes.md) augmente de 1. Vous pouvez utiliser ce pouvoir un nombre de fois par jour égal à 3 + votre modificateur de [Sagesse](./Sagesse.md).
+**Murs de protection(Mag).** *(remplace toucher de résistance)* En tant qu'[[action simple]], vous pouvez toucher un allié pour invoquer un barrage volant en pierre, lui conférant les bonus d'un [[abri partiel]] pour un round plus un round tous les 6 niveaux de [[prêtre]] vous possédez. Cette aptitude ne donne pas assez d'abri à l'allié pour tenter un jet de [[Discrétion]] ou éviter des attaques d'opportunité. Si l'allié bénéficie de n'importe quelle forme d'abri contre une attaque, les bonus à la [[CA]] et sur les jets de [[Réflexes]] augmente de 1. Vous pouvez utiliser ce pouvoir un nombre de fois par jour égal à 3 + votre modificateur de [[Sagesse]].
 
-**Sorts de ce sous-domaine:** 1er- [Verrouillage](./Verrouillage.md) // 5ème- [Mur de pierre](./Mur de pierre.md) // 9ème- [Mur prismatique](./Mur prismatique.md)
+**Sorts de ce sous-domaine:** 1er- [[Verrouillage]] // 5ème- [[Mur de pierre]] // 9ème- [[Mur prismatique]]
 
 **Dieux de ce sous-domaine:** Dieu de la Civilisation // Le Rempart Doré(Arqueros) // Dieu-nain des Artisans
 </div>
@@ -146,9 +146,9 @@ Merci de déterminer la nature du trait (base, race, religieux, régionaux). Pou
 <tr style="vertical-align: top"><td>
 <div class="presentation arrondi">
 ### (Communauté)Sous-domaine de l'Education
-**Moment d'éducation(Sur).** *(remplace unité)* Au niveau 8, quand vous ou un allié à moins de 6{s:c}/9m fait un 1 naturel ou un 20 naturel sur un jet d'attaque, de capacité, de compétence ou un jet de sauvegarde, en une action rapide, vous pouvez octroyer aux alliés à moins de 6{s:c}/9m des visions spéciales qui les aident à passer des challenges similaires. Une fois pendant la prochaine minute, toute créature affectée peut choisir de relancer et prendre le meilleur résultat avant de faire un jet d'attaque, de capacité, de compétence ou un jet de sauvegarde. Vous pouvez utiliser cette capacité une fois par jour au niveau 8, et une fois de plus par jour tous les 4 niveaux de [prêtre](./Prêtre.md) après le lvl 8.
+**Moment d'éducation(Sur).** *(remplace unité)* Au niveau 8, quand vous ou un allié à moins de 6{s:c}/9m fait un 1 naturel ou un 20 naturel sur un jet d'attaque, de capacité, de compétence ou un jet de sauvegarde, en une action rapide, vous pouvez octroyer aux alliés à moins de 6{s:c}/9m des visions spéciales qui les aident à passer des challenges similaires. Une fois pendant la prochaine minute, toute créature affectée peut choisir de relancer et prendre le meilleur résultat avant de faire un jet d'attaque, de capacité, de compétence ou un jet de sauvegarde. Vous pouvez utiliser cette capacité une fois par jour au niveau 8, et une fois de plus par jour tous les 4 niveaux de [[prêtre]] après le lvl 8.
 
-**Sorts de ce sous-domaine:** 1er- [Connaître son ennemi](./Connaître son ennemi.md) // 2ème- [Ruse du renard](./Ruse du renard.md) // 6ème- [Lien des esprits combatifs](./Lien des esprits combatifs.md) // 8ème- [Cercle de clarté](./Cercle de clarté.md)
+**Sorts de ce sous-domaine:** 1er- [[Connaître son ennemi]] // 2ème- [[Ruse du renard]] // 6ème- [[Lien des esprits combatifs]] // 8ème- [[Cercle de clarté]]
 
 **Dieux de ce sous-domaine:** Maître de l'Incantation Finale // Grand-mère corbeau(Andolette) // Mère des Mémoires(Bergelmir) // Inventeur tempéré(Bharnarol) // Le Loinvoyant(Elion) // Le Vieux Borgne // Coeur Parlant(Eritrice) // Le Maître des Maîtres // l'Oeil qui voit tout // la Demoiselle ibis(Sheï) // Le Visage des Flammes(Svarozic)
 </div>
@@ -156,9 +156,9 @@ Merci de déterminer la nature du trait (base, race, religieux, régionaux). Pou
 </td><td>
 <div class="presentation arrondi">
 ### (Connaissance)Sous-domaine de l'Apprentissage
-**Moment d'éducation(Sur).** *(remplace observation à distance)* Au niveau 8, quand vous ou un allié à moins de 6{s:c}/9m fait un 1 naturel ou un 20 naturel sur un jet d'attaque, de capacité, de compétence ou un jet de sauvegarde, en une action rapide, vous pouvez octroyer aux alliés à moins de 6{s:c}/9m des visions spéciales qui les aident à passer des challenges similaires. Une fois pendant la prochaine minute, toute créature affectée peut choisir de relancer et prendre le meilleur résultat avant de faire un jet d'attaque, de capacité, de compétence ou un jet de sauvegarde. Vous pouvez utiliser cette capacité une fois par jour au niveau 8, et une fois de plus par jour tous les 4 niveaux de [prêtre](./Prêtre.md) après le lvl 8.
+**Moment d'éducation(Sur).** *(remplace observation à distance)* Au niveau 8, quand vous ou un allié à moins de 6{s:c}/9m fait un 1 naturel ou un 20 naturel sur un jet d'attaque, de capacité, de compétence ou un jet de sauvegarde, en une action rapide, vous pouvez octroyer aux alliés à moins de 6{s:c}/9m des visions spéciales qui les aident à passer des challenges similaires. Une fois pendant la prochaine minute, toute créature affectée peut choisir de relancer et prendre le meilleur résultat avant de faire un jet d'attaque, de capacité, de compétence ou un jet de sauvegarde. Vous pouvez utiliser cette capacité une fois par jour au niveau 8, et une fois de plus par jour tous les 4 niveaux de [[prêtre]] après le lvl 8.
 
-**Sorts de ce sous-domaine:** 1er- [Connaître son ennemi](./Connaître son ennemi.md) // 2ème- [Ruse du renard](./Ruse du renard.md) // 6ème- [Lien des esprits combatifs](./Lien des esprits combatifs.md) // 8ème- [Cercle de clarté](./Cercle de clarté.md)
+**Sorts de ce sous-domaine:** 1er- [[Connaître son ennemi]] // 2ème- [[Ruse du renard]] // 6ème- [[Lien des esprits combatifs]] // 8ème- [[Cercle de clarté]]
 
 **Dieux de ce sous-domaine:** Maître de l'Incantation Finale // Grand-mère corbeau(Andolette) // Mère des Mémoires(Bergelmir) // Inventeur tempéré(Bharnarol) // Le Loinvoyant(Elion) // Le Vieux Borgne // Coeur Parlant(Eritrice) // Le Maître des Maîtres // l'Oeil qui voit tout // la Demoiselle ibis(Sheï) // Le Visage des Flammes(Svarozic)
 </div>
@@ -166,9 +166,9 @@ Merci de déterminer la nature du trait (base, race, religieux, régionaux). Pou
 </td><td>
 <div class="presentation arrondi">
 ### (Connaissance)Sous-domaine du Renseignement
-**Couverture approfondie(Sur).** *(remplace gardien du savoir)* Quand vous préparez vos sorts, vous pouvez choisir une fausse identité, que ce soit une vraie personne ou une personne fictionnelle. Vous pouvez assumer que le déguisement de votre fausse identité en moitié moins de temps que la normalité. Quand vous être ciblé par un sort qui pourrait compromettre votre déguisement choisi (comme détection du mal, détection de pensées, zone de vérité), en une action rapide vous pouvez forcer la créature utilisant le sort d'essayer de faire un jet de Volonte (DD= 10+ 1/2 de votre niveau de [prêtre](./Prêtre.md)+ votre mod de [Sagesse](./Sagesse.md)). Si la créature rate, elle gagne de fausses informations en rapport avec votre fausse identité. Vous pouvez utiliser ce pouvoir de fausses informations un nombre de fois par jour égal à 3 + votre modificateur de [Sagesse](./Sagesse.md).
+**Couverture approfondie(Sur).** *(remplace gardien du savoir)* Quand vous préparez vos sorts, vous pouvez choisir une fausse identité, que ce soit une vraie personne ou une personne fictionnelle. Vous pouvez assumer que le déguisement de votre fausse identité en moitié moins de temps que la normalité. Quand vous être ciblé par un sort qui pourrait compromettre votre déguisement choisi (comme détection du mal, détection de pensées, zone de vérité), en une action rapide vous pouvez forcer la créature utilisant le sort d'essayer de faire un jet de Volonte (DD= 10+ 1/2 de votre niveau de [[prêtre]]+ votre mod de [[Sagesse]]). Si la créature rate, elle gagne de fausses informations en rapport avec votre fausse identité. Vous pouvez utiliser ce pouvoir de fausses informations un nombre de fois par jour égal à 3 + votre modificateur de [[Sagesse]].
 
-**Sorts de ce sous-domaine:** 2ème- [Interaction anonyme](./Interaction anonyme.md) // 4ème- [Zone de silence](./Zone de silence.md) // 8ème- [Esprit impénétrable](./Esprit impénétrable.md)
+**Sorts de ce sous-domaine:** 2ème- [[Interaction anonyme]] // 4ème- [[Zone de silence]] // 8ème- [[Esprit impénétrable]]
 
 **Dieux de ce sous-domaine:** Le Forgeron Sombre // Reine de Dis(Erecura) // Dame des Ailes d'Ebon (Kelinahat) // Dieu du Meurtre
 </div>
@@ -176,9 +176,9 @@ Merci de déterminer la nature du trait (base, race, religieux, régionaux). Pou
 </td></tr><tr style="vertical-align: top"><td>
 <div class="presentation arrondi">
 ### (Duperie)Sous-domaine de l'Espionnage
-**Couverture approfondie(Sur).** *(remplace Double)* Quand vous préparez vos sorts, vous pouvez choisir une fausse identité, que ce soit une vraie personne ou une personne fictionnelle. Vous pouvez assumer que le déguisement de votre fausse identité en moitié moins de temps que la normalité. Quand vous être ciblé par un sort qui pourrait compromettre votre déguisement choisi (comme détection du mal, détection de pensées, zone de vérité), en une action rapide vous pouvez forcer la créature utilisant le sort d'essayer de faire un jet de Volonte (DD= 10+ 1/2 de votre niveau de [prêtre](./Prêtre.md)+ votre mod de [Sagesse](./Sagesse.md)). Si la créature rate, elle gagne de fausses informations en rapport avec votre fausse identité. Vous pouvez utiliser ce pouvoir de fausses informations un nombre de fois par jour égal à 3+ votre modificateur de [Sagesse](./Sagesse.md).
+**Couverture approfondie(Sur).** *(remplace Double)* Quand vous préparez vos sorts, vous pouvez choisir une fausse identité, que ce soit une vraie personne ou une personne fictionnelle. Vous pouvez assumer que le déguisement de votre fausse identité en moitié moins de temps que la normalité. Quand vous être ciblé par un sort qui pourrait compromettre votre déguisement choisi (comme détection du mal, détection de pensées, zone de vérité), en une action rapide vous pouvez forcer la créature utilisant le sort d'essayer de faire un jet de Volonte (DD= 10+ 1/2 de votre niveau de [[prêtre]]+ votre mod de [[Sagesse]]). Si la créature rate, elle gagne de fausses informations en rapport avec votre fausse identité. Vous pouvez utiliser ce pouvoir de fausses informations un nombre de fois par jour égal à 3+ votre modificateur de [[Sagesse]].
 
-**Sorts de ce sous-domaine:** 2ème- [Interaction anonyme](./Interaction anonyme.md) // 4ème- [Zone de silence](./Zone de silence.md) // 8ème- [Esprit impénétrable](./Esprit impénétrable.md)
+**Sorts de ce sous-domaine:** 2ème- [[Interaction anonyme]] // 4ème- [[Zone de silence]] // 8ème- [[Esprit impénétrable]]
 
 **Dieux de ce sous-domaine:** Le Forgeron Sombre // Reine de Dis(Erecura) // Dame des Ailes d'Ebon (Kelinahat) // Dieu du Meurtre
 </div>
@@ -186,11 +186,11 @@ Merci de déterminer la nature du trait (base, race, religieux, régionaux). Pou
 </td><td>
 <div class="presentation arrondi">
 ### (Artisanat)Sous-domaine de l'industrie
-**Aura d'efficacité(Sur).** *(remplace Armes dansantes)* Au niveau 8, vous pouvez émettre une aura de 6{s:c}/9m qui octroie à vos alliés un bonus de +4 sur tous les jets de sauvegarde contre les effets qui infligent la fatigue et l'épuisement. Toute arme maniée par vos alliés obtient un bonus à la [solidité](./solidité.md) égal à la moitié de votre niveau de [prêtre](./Prêtre.md), et les attaques de vos alliés contre des ennemis dans cette aura ignorent un même montant de solidité. Vous pouvez utiliser cette aura un nombre de rounds par jour égal à votre niveau de prêtre.
+**Aura d'efficacité(Sur).** *(remplace Armes dansantes)* Au niveau 8, vous pouvez émettre une aura de 6{s:c}/9m qui octroie à vos alliés un bonus de +4 sur tous les jets de sauvegarde contre les effets qui infligent la fatigue et l'épuisement. Toute arme maniée par vos alliés obtient un bonus à la [[solidité]] égal à la moitié de votre niveau de [[prêtre]], et les attaques de vos alliés contre des ennemis dans cette aura ignorent un même montant de solidité. Vous pouvez utiliser cette aura un nombre de rounds par jour égal à votre niveau de prêtre.
 
 Ces rounds n'ont pas besoin d'être consécutifs.
 
-**Sorts de ce sous-domaine:** 1er- [Chance de l'artisan](./Chance de lartisan.md) // 7ème- [Manoir somptueux](./Manoir somptueux.md) // 9ème- [Phalange de bois](./Phalange de bois.md)
+**Sorts de ce sous-domaine:** 1er- [[Chance de lartisan|Chance de l'artisan]] // 7ème- [[Manoir somptueux]] // 9ème- [[Phalange de bois]]
 
 **Dieux de ce sous-domaine:** Le murmure au sein du Bronze (Brigh) // Dame des renards (Daikitsu) // Le Père de la Création
 </div>
@@ -198,9 +198,9 @@ Ces rounds n'ont pas besoin d'être consécutifs.
 </td><td>
 <div class="presentation arrondi">
 ### (Loi)Sous-domaine du droit
-**Interdiction(Sur).** *(remplace Toucher de la Loi)* Avec une [action simple](./Action simple.md), vous pouvez commander une créature à moins de 6{s:c}/9m de s'abstenir de faire une action particulière (incluant celles référencées dans le sort [action interdite](./Action interdite.md)). Si la créature performe l'action nommée avant le début de votre prochain tour, elle prend 1d6 points de dégâts + 1 point tous les 2 niveaux de prêtre que vous possédez et l'effet se termine. C'est un effet dépendant du langage. Vous pouvez utiliser ce pouvoir un nombre de fois par jour égal à 3 + votre modificateur de [Sagesse](./Sagesse.md).
+**Interdiction(Sur).** *(remplace Toucher de la Loi)* Avec une [[action simple]], vous pouvez commander une créature à moins de 6{s:c}/9m de s'abstenir de faire une action particulière (incluant celles référencées dans le sort [[action interdite]]). Si la créature performe l'action nommée avant le début de votre prochain tour, elle prend 1d6 points de dégâts + 1 point tous les 2 niveaux de prêtre que vous possédez et l'effet se termine. C'est un effet dépendant du langage. Vous pouvez utiliser ce pouvoir un nombre de fois par jour égal à 3 + votre modificateur de [[Sagesse]].
 
-**Sorts de ce sous-domaine:** 1er- [action interdite](./Action interdite.md) // 5ème [Action interdite supérieure](./Action interdite supérieure.md) // 9ème- [Immobilisation de monstre de groupe](./Immobilisation de monstre de groupe.md)
+**Sorts de ce sous-domaine:** 1er- [[action interdite]] // 5ème [[Action interdite supérieure]] // 9ème- [[Immobilisation de monstre de groupe]]
 
 **Dieux de ce sous-domaine:** Dieu de la Civilisation // Dieu-Diable des Contrats // Le Premier Roi(Dispater) // La Déesse des Runes // L'aîné des Divinités(Winlas)
 </div>
@@ -209,11 +209,11 @@ Ces rounds n'ont pas besoin d'être consécutifs.
 <tr style="vertical-align: top"><td>
 <div class="presentation arrondi">
 ### (Runes)Sous-domaine de la codification
-**Interdiction(Sur).** *(remplace Rune détonante)* Avec une [action simple](./Action simple.md), vous pouvez commander une créature à moins de 6{s:c}/9m de s'abstenir de faire une action particulière (incluant celles référencées dans le sort [action interdite](./Action interdite.md)). Si la créature performe l'action nommée avant le début de votre prochain tour, elle prend 1d6 points de dégâts + 1 point tous les 2 niveaux de prêtre que vous possédez et l'effet se termine. C'est un effet dépendant du langage. Vous pouvez utiliser ce pouvoir un nombre de fois par jour égal à 3 + votre modificateur de [Sagesse](./Sagesse.md).
+**Interdiction(Sur).** *(remplace Rune détonante)* Avec une [[action simple]], vous pouvez commander une créature à moins de 6{s:c}/9m de s'abstenir de faire une action particulière (incluant celles référencées dans le sort [[action interdite]]). Si la créature performe l'action nommée avant le début de votre prochain tour, elle prend 1d6 points de dégâts + 1 point tous les 2 niveaux de prêtre que vous possédez et l'effet se termine. C'est un effet dépendant du langage. Vous pouvez utiliser ce pouvoir un nombre de fois par jour égal à 3 + votre modificateur de [[Sagesse]].
 
 Si vous avez le pouvoir de domaine "Rune de sort", vous pouvez attacher un effet de sort à l'interdiction comme si c'était le pouvoir de "Rune de sort"; le sort fait effet si la créature fait l'action nommée. Le sort doit être au moins un niveau plus bas que votre plus haut niveau de sort de prêtre que vous pouvez lancer, et cela doit cibler une ou plusieurs créatures. Indépendamment du nombre de cibles le sort peut normalement affecter, cela affecte seulement la créature qui déclenche la rune. Attacher un sort de cette façon augmente la durée de l'interdiction par un nombre de rounds égal au niveau du sort ou jusqu'au déchargement.
 
-**Sorts de ce sous-domaine:** 1er- [action interdite](./Action interdite.md) // 5ème [Action interdite supérieure](./Action interdite supérieure.md) // 9ème- [Immobilisation de monstre de groupe](./Immobilisation de monstre de groupe.md)
+**Sorts de ce sous-domaine:** 1er- [[action interdite]] // 5ème [[Action interdite supérieure]] // 9ème- [[Immobilisation de monstre de groupe]]
 
 **Dieux de ce sous-domaine:** Dieu de la Civilisation // Dieu-Diable des Contrats // Le Premier Roi(Dispater) // La Déesse des Runes // L'aîné des Divinités(Winlas)
 </div>
@@ -221,9 +221,9 @@ Si vous avez le pouvoir de domaine "Rune de sort", vous pouvez attacher un effet
 </td><td>
 <div class="presentation arrondi">
 ### (Mort)Sous-domaine de l'épidémie
-**Toucher de Virulence(Sur).** *(remplace Étreinte de la Mort)* En tant qu'action simple, vous pouvez toucher une créature malade et exacerber sa condition. Si elle rate un jet de Vigueur (DD= 10 + 1/2 de votre niveau de prêtre + votre mod de [sagesse](./Sagesse.md)), la créature prend des dégâts comme si elle avait raté son jet de Vigueur contre la maladie et tout temps restant avant l'incubation de la maladie prend fin. Vous pouvez utiliser ce pouvoir une fois par jour au niveau 8, plus une fois par jour au niveau 14 et 20.
+**Toucher de Virulence(Sur).** *(remplace Étreinte de la Mort)* En tant qu'action simple, vous pouvez toucher une créature malade et exacerber sa condition. Si elle rate un jet de Vigueur (DD= 10 + 1/2 de votre niveau de prêtre + votre mod de [[sagesse]]), la créature prend des dégâts comme si elle avait raté son jet de Vigueur contre la maladie et tout temps restant avant l'incubation de la maladie prend fin. Vous pouvez utiliser ce pouvoir une fois par jour au niveau 8, plus une fois par jour au niveau 14 et 20.
 
-**Sorts de ce sous-domaine:** 1er- [Rayon de fièvre](./Rayon de fièvre.md) // 3ème-[Contagion](./Contagion.md) // 6ème- [Tempête de peste](./Tempête de peste.md) // 8ème- [Flétrissure](./Flétrissure.md)
+**Sorts de ce sous-domaine:** 1er- [[Rayon de fièvre]] // 3ème-[[Contagion]] // 6ème- [[Tempête de peste]] // 8ème- [[Flétrissure]]
 
 **Dieux de ce sous-domaine:** Le prince des Locustes(Apollyon) // Prince de la Chaleur Intense(Cyth-V’sug) // Le Roi Diaphane(Ghlaunder) // Déesse-Liche des Maladies
 </div>
@@ -231,9 +231,9 @@ Si vous avez le pouvoir de domaine "Rune de sort", vous pouvez attacher un effet
 </td><td>
 <div class="presentation arrondi">
 ### (Mal)Sous-domaine des plaies
-**Toucher de Virulence(Sur).** *(remplace Toucher maléfique)* En tant qu'action simple, vous pouvez toucher une créature malade et exacerber sa condition. Si elle rate un jet de Vigueur (DD= 10 + 1/2 de votre niveau de prêtre + votre mod de [sagesse](./Sagesse.md)), la créature prend des dégâts comme si elle avait raté son jet de Vigueur contre la maladie et tout temps restant avant l'incubation de la maladie prend fin. Vous pouvez utiliser ce pouvoir une fois par jour au niveau 8, plus une fois par jour au niveau 14 et 20.
+**Toucher de Virulence(Sur).** *(remplace Toucher maléfique)* En tant qu'action simple, vous pouvez toucher une créature malade et exacerber sa condition. Si elle rate un jet de Vigueur (DD= 10 + 1/2 de votre niveau de prêtre + votre mod de [[sagesse]]), la créature prend des dégâts comme si elle avait raté son jet de Vigueur contre la maladie et tout temps restant avant l'incubation de la maladie prend fin. Vous pouvez utiliser ce pouvoir une fois par jour au niveau 8, plus une fois par jour au niveau 14 et 20.
 
-**Sorts de ce sous-domaine:** 1er- [Rayon de fièvre](./Rayon de fièvre.md) // 3ème-[Contagion](./Contagion.md) // 6ème- [Tempête de peste](./Tempête de peste.md) // 8ème- [Flétrissure](./Flétrissure.md)
+**Sorts de ce sous-domaine:** 1er- [[Rayon de fièvre]] // 3ème-[[Contagion]] // 6ème- [[Tempête de peste]] // 8ème- [[Flétrissure]]
 
 **Dieux de ce sous-domaine:** Le prince des Locustes(Apollyon) // Prince de la Chaleur Intense(Cyth-V’sug) // Le Roi Diaphane(Ghlaunder) // Déesse-Liche des Maladies
 </div>
@@ -241,11 +241,11 @@ Si vous avez le pouvoir de domaine "Rune de sort", vous pouvez attacher un effet
 </td></tr><tr style="vertical-align: top"><td>
 <div class="presentation arrondi">
 ### (Chaos)Sous-domaine de la révolte
-**Aura de Chahuts(Sur).** *(remplace Lame du Chaos)* Au niveau 8, vous pouvez émettre une aura de chaos et de conflit sur un rayon de 6{s:c}/9m pour un round par niveau de [prêtre](./Prêtre.md). Les ennemis dans cette aura subissent un malus de -4 sur leurs jets de concentration et sont traités comme en train d'expérimenter de vigoureux mouvements (concentration DD= 10+ niveau du sort) quand ils tentent de lancer un sort. Cette pénalité augmente de 1 tous les 2 niveaux de prêtre après le niveau 8. C'est un effet affectant l'esprit.
+**Aura de Chahuts(Sur).** *(remplace Lame du Chaos)* Au niveau 8, vous pouvez émettre une aura de chaos et de conflit sur un rayon de 6{s:c}/9m pour un round par niveau de [[prêtre]]. Les ennemis dans cette aura subissent un malus de -4 sur leurs jets de concentration et sont traités comme en train d'expérimenter de vigoureux mouvements (concentration DD= 10+ niveau du sort) quand ils tentent de lancer un sort. Cette pénalité augmente de 1 tous les 2 niveaux de prêtre après le niveau 8. C'est un effet affectant l'esprit.
 
 Ces rounds n'ont pas besoin d'être consécutifs.
 
-**Sorts de ce sous-domaine:** 4ème- [Confusion](./Confusion.md) // 7ème- [Chant de discorde](./Chant de discorde.md) // 9ème- [Symbole de lutte](./Symbole de lutte.md)
+**Sorts de ce sous-domaine:** 4ème- [[Confusion]] // 7ème- [[Chant de discorde]] // 9ème- [[Symbole de lutte]]
 
 **Dieux de ce sous-domaine:** La Mère des Monstres // Celle qui Fleurit sans Cesse
 </div>
@@ -253,35 +253,35 @@ Ces rounds n'ont pas besoin d'être consécutifs.
 </td></tr></table>
 
 #### OBJETS/EQUIPEMENT
-- ***[Accessoires de mode](./Accessoires de mode.md)***
-- ***[Botte à talon creux](./Botte à talon creux.md)***
-- ***[Carte de la ville](./Carte de la ville.md)***
-- ***[Kit de la sentinelle](./Kit de la sentinelle.md)***
-- ***[Kit de l'agent infiltré](./Kit de l agent infiltré.md)***
-- ***[Kit d'espion](./Kit d espion.md)***
-- ***[Kit du contre-espion](./Kit du contre-espion.md)***
-- ***[Kit du déguisement de statue](./Kit du déguisement de statue.md)***
-- ***[Kit du rat d’hôtel](./Kit du rat d hotel.md)***
-- ***[Livre de cryptographie](./Livre de cryptographie.md)***
-- ***[Wagon à faux fond](./Wagon à faux fond.md)***
+- ***[[Accessoires de mode]]***
+- ***[[Botte à talon creux]]***
+- ***[[Carte de la ville]]***
+- ***[[Kit de la sentinelle]]***
+- ***[[Kit de l agent infiltré|Kit de l'agent infiltré]]***
+- ***[[Kit d espion|Kit d'espion]]***
+- ***[[Kit du contre-espion]]***
+- ***[[Kit du déguisement de statue]]***
+- ***[[Kit du rat d hotel|Kit du rat d’hôtel]]***
+- ***[[Livre de cryptographie]]***
+- ***[[Wagon à faux fond]]***
 
 #### Objets magiques
 
-- ***[Anneau du Surveillant de maintenance](./Anneau du Surveillant de maintenance.md)***
-- ***[Arbalète d'ancrage](./Arbalète d ancrage.md)***
-- ***[Cartouchière du Pickpocket](./Cartouchière du Pickpocket.md)***
-- ***[Écharpe effilochée](./Écharpe effilochée.md)***
-- ***[Manteau de dagues](./Manteau de dagues.md)***
-- ***[Monocle du Marqueur](./Monocle du Marqueur.md)***
-- ***[Plastron d'émissaire](./Plastron d émissaire.md)***
-- ***[Robes de l'ascète](./Robes de l ascète.md)***
-- ***[Sandales de combat](./Sandales de combat.md)***
+- ***[[Anneau du Surveillant de maintenance]]***
+- ***[[Arbalète d ancrage|Arbalète d'ancrage]]***
+- ***[[Cartouchière du Pickpocket]]***
+- ***[[Écharpe effilochée]]***
+- ***[[Manteau de dagues]]***
+- ***[[Monocle du Marqueur]]***
+- ***[[Plastron d émissaire|Plastron d'émissaire]]***
+- ***[[Robes de l ascète|Robes de l'ascète]]***
+- ***[[Sandales de combat]]***
 
 
 ### Archétypes de classe
 - **Alley Witch (Witch)** Sorcière des rues ? (à vérifier) /Faust:pareil
 - **Busker (Bard)** Musicien ambulant/  Musicien de rue ? (à vérifier) /Faust:Musicien des rues
-- **Constable (Cavalier)** [Gendarme (chevalier)](./Gendarme (chevalier).md)
+- **Constable (Cavalier)** [[Gendarme (chevalier)]]
 - **Dark Lurker (Rogue)** Rodeur des villes ? Rodeur de la nuit? Rodeur Nocturne ? (à vérifier) /Faust:Rôdeur obscur
 - **Eldritch Archer (Magus)** Archer occulte déjà traduit (cf Archetypes Magus)
 - **Lamplighter (Investigator)** Eclaireur? (à vérifier) /Faust:Allumeur de réverbères/Lampiste (historique)
@@ -305,9 +305,9 @@ Ces rounds n'ont pas besoin d'être consécutifs.
 
 
 ### Traits Alternatifs de Race
-- *Elf - Illustrious Urbanite* **Illustre urbain**: Les elfes de la ville ont une capacité remarquable à combiner harmonieusement la magie avec leur environnement. Ils gagnent [École renforcée](./École renforcée.md) avec les sorts d'[Invocation](./Invocation.md), d'[Illusion](./Illusion.md) ou de [Transmutation](./Transmutation.md) en tant que don supplémentaire. Quand ils lancent des sorts de cette école, les elfes peuvent choisir de laisser tout bâtiment ou structure intact qui serait normalement affecté par le sort. Ce trait racial remplace Sens aiguisés.
+- *Elf - Illustrious Urbanite* **Illustre urbain**: Les elfes de la ville ont une capacité remarquable à combiner harmonieusement la magie avec leur environnement. Ils gagnent [[École renforcée]] avec les sorts d'[[Invocation]], d'[[Illusion]] ou de [[Transmutation]] en tant que don supplémentaire. Quand ils lancent des sorts de cette école, les elfes peuvent choisir de laisser tout bâtiment ou structure intact qui serait normalement affecté par le sort. Ce trait racial remplace Sens aiguisés.
 
-- *Dwarf - Industrious Urbanite* **Industrieux urbain**: Les nains qui se sont adaptés aux attentes de leurs villes font le double de la progression normale aux jets d'[Artisanat](./Artisanat.md) pour créer des objets non magiques et gagnent un bonus de +4 sur les jets de [Profession](./Profession.md) pour gagner de l'argent. Ce trait racial remplace Haine.
+- *Dwarf - Industrious Urbanite* **Industrieux urbain**: Les nains qui se sont adaptés aux attentes de leurs villes font le double de la progression normale aux jets d'[[Artisanat]] pour créer des objets non magiques et gagnent un bonus de +4 sur les jets de [[Profession]] pour gagner de l'argent. Ce trait racial remplace Haine.
 
 {s:Desambi|Le trait racial remplacé par ce trait-ci est une erreur qui n'a jamais été traitée par Paizo, n'hésitez pas à remplacer le trait racial Adaptabilité plutôt.}
 - *Half-Elf - Inspire Imitation* **Inspirer l'imitation**: Chaque fois qu'un demi-elfe réussit un test de compétence, il peut inspirer les imitateurs par une action rapide. Tout allié à moins de 6c/9m qui est témoin de la réussite du test de compétence et tente le même test de compétence dans la minute qui suit gagne un +2 sur le test comme si grâce à l'action Aider quelqu’un. Ce trait racial remplace Compétent.
@@ -321,10 +321,10 @@ Ces rounds n'ont pas besoin d'être consécutifs.
 - *Halfling - Underfoot Dodger* **Petit éludeur**: Les halfelins citadins ne traitent pas les cases de foule comme du terrain difficile et ils gagnent un bonus de +5 aux tests d'acrobatie pour se déplacer à travers les espaces de plus grands ennemis. Ce trait racial remplace Sans peur et Armes familières.
 
 ### Mystère d'oracle
-[Mystère des rues](./Mystère des rues.md) (HOTS)
+[[Mystère des rues]] (HOTS)
 
 
 ### Esprit du chaman
-[Esprit des Taudis](./Esprit des Taudis.md) (HOTS)
+[[Esprit des Taudis]] (HOTS)
 
 ### Archetypes

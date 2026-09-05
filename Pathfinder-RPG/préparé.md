@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions modifiant linitiative#PREPARER
 ---
 
->>> [Actions modifiant linitiative#PREPARER](./Actions modifiant linitiative.md#PREPARER)
+>>> [[Actions modifiant linitiative#PREPARER]]

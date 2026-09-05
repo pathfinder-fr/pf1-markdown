@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vous effectuer de rapides mouvements de défense.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Int](./Int.md) 13, [Fente](./Fente.md), [Louvoyage du fonceur](./Louvoyage du fonceur.md), [École du fonceur](./École du fonceur.md); [Expertise du combat](./Expertise du combat.md) ou capacité de classe [ruse du lutteur](./Lutteur.md#RUSEDULUTTEUR); [Arme de prédilection](./Arme de prédilection.md) avec l'arme choisie
+**Conditions.** [[Int]] 13, [[Fente]], [[Louvoyage du fonceur]], [[École du fonceur]]; [[Expertise du combat]] ou capacité de classe [[lutteur#RUSEDULUTTEUR|ruse du lutteur]]; [[Arme de prédilection]] avec l'arme choisie
 
-**Avantages.** Lorsqu'il utilise l'[École du fonceur](./École du fonceur.md), le personnage peut se déplacer de 1,50 mètre supplémentaire lors d'un [pas de placement](./Pas de placement.md).
+**Avantages.** Lorsqu'il utilise l'[[École du fonceur]], le personnage peut se déplacer de 1,50 mètre supplémentaire lors d'un [[pas de placement]].

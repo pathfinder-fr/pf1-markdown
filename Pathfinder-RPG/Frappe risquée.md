@@ -13,10 +13,10 @@ Categories:
 
 **Catégorie.** combat
 
-**Conditions.** [halfelin](./Halfelin.md), [BBA](./BBA.md)+1
+**Conditions.** [[halfelin]], [[BBA]]+1
 
-**Avantages.** Le personnage peut choisir de recevoir un malus de -1 à la [CA](./CA.md) pour bénéficier d’un bonus de +2 aux jets de dégâts contre les créatures de deux catégories de [taille](./taille.md) de plus que lui ou plus. Quand son [BBA](./BBA.md) passe à +4 et, par la suite, tous les quatre niveaux, le malus augmente de -1 et ces dégâts supplémentaires augmentent de 2. Ces dégâts supplémentaires sont multipliés en cas de [coup critique](./coup critique.md). Le personnage peut utiliser ce don seulement quand il annonce qu’il fait une attaque (à outrance ou non) avec une arme de corps à corps. Cet effet se prolonge jusqu’à son prochain tour.
+**Avantages.** Le personnage peut choisir de recevoir un malus de -1 à la [[CA]] pour bénéficier d’un bonus de +2 aux jets de dégâts contre les créatures de deux catégories de [[taille]] de plus que lui ou plus. Quand son [[BBA]] passe à +4 et, par la suite, tous les quatre niveaux, le malus augmente de -1 et ces dégâts supplémentaires augmentent de 2. Ces dégâts supplémentaires sont multipliés en cas de [[coup critique]]. Le personnage peut utiliser ce don seulement quand il annonce qu’il fait une attaque (à outrance ou non) avec une arme de corps à corps. Cet effet se prolonge jusqu’à son prochain tour.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise ce don, il peut dépenser 5 points d’endurance pour bénéficier du bonus aux [jets de dégâts](./Valeurs de combat.md#DEGATS) contre des créatures d’une ou plusieurs catégories de taille de plus que lui. Cet avantage se dissipe dès que le personnage cesse d’utiliser ce don ou au bout d’une minute, selon ce qui se produit en premier.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise ce don, il peut dépenser 5 points d’endurance pour bénéficier du bonus aux [[Valeurs de combat#DEGATS|jets de dégâts]] contre des créatures d’une ou plusieurs catégories de taille de plus que lui. Cet avantage se dissipe dès que le personnage cesse d’utiliser ce don ou au bout d’une minute, selon ce qui se produit en premier.

@@ -13,39 +13,39 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.275}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([obscurien](./sous-type obscur.md)) de taille M, CN}
-{s:BDTexte|**Init** +4 ; **Sens** vision dans les ténèbres ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type obscur|obscurien]]) de taille M, CN}
+{s:BDTexte|**Init** +4 ; **Sens** vision dans les ténèbres ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 14, pris au dépourvu 14 (armure +2, Dex +4, naturelle +2)}
 {s:BDTexte|**pv** 39 (6d8+12)}
 {s:BDTexte|**Réf** +9, **Vig** +4, **Vol** +2}
-{s:BDTexte|**Faiblesses** [aveuglé par la lumière](./Aveuglé par la lumière.md)}
+{s:BDTexte|**Faiblesses** [[aveuglé par la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 épées courtes +6/+6 (1d6+2 et poison/19-20)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./attaque sournoise.md) (+3d6), dernier sursaut}
+{s:BDTexte|**Attaques spéciales** [[attaque sournoise]] (+3d6), dernier sursaut}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6)}
-{s:BDSorts|À volonté—*[détection de la magie](./Détection de la magie.md)*, *[nappe de brouillard](./Nappe de brouillard.md)*, *[ténèbres profondes](./Ténèbres profondes.md)*}
+{s:BDSorts|À volonté—*[[détection de la magie]]*, *[[nappe de brouillard]]*, *[[ténèbres profondes]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 18, **Con** 14, **Int** 9, **Sag** 11, **Cha** 13}
 {s:BDTexte|**BBA** +4, **BMO** +6, **DMD** 20}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Combat à deux armes](./Combat à deux armes.md), [Double frappe](./Double frappe.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +8, [Escalade](./Escalade.md) +10, [Escamotage](./Escamotage.md) +5, [Perception](./Perception.md) +8 ; **Modificateurs raciaux** [Escalade](./Escalade.md) +4, [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Combat à deux armes]], [[Double frappe]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +8, [[Escalade]] +10, [[Escamotage]] +5, [[Perception]] +8 ; **Modificateurs raciaux** [[Escalade]] +4, [[Discrétion]] +4, [[Perception]] +4}
 {s:BDTexte|**Langues** commun des profondeurs, obscur}
 {s:BDTexte|**Particularités** usage des poisons}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
 {s:BDTexte|**Organisation sociale** solitaire, bande (1 traqueur obscur et 2-5 fureteurs obscurs) ou clan (20-80 fureteurs obscurs et 1 traqueur obscur pour 20 fureteurs obscurs)}
-{s:BDTexte|**Trésor** équipement de PNJ (armure de cuir, épée courte <nowiki>[2]</nowiki>, essence d'ombre <nowiki>[</nowiki>6<nowiki>]</nowiki>, autres trésors)}
+{s:BDTexte|**Trésor** équipement de PNJ (armure de cuir, épée courte <nowiki>[[2]]</nowiki>, essence d'ombre <nowiki>[[</nowiki>6<nowiki>]]</nowiki>, autres trésors)}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Dernier sursaut (Sur)** Lorsqu'un traqueur obscur est tué, son corps s'embrase en une soudaine explosion de flammes blanches qui agit comme une *[boule de feu](./Boule de feu.md)* et inflige 3d6 points de dégâts de feu à toutes les créatures dans un rayon de 6 m (4 {s:c}). Un jet de [Réflexes](./Réflexes.md) de DD 15 permet de réduire ces dégâts par moitié. L'équipement et les possessions du traqueur ne sont pas affectés par cette explosion. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Utilisation du Poison (Ext)** Les traqueurs obscurs sont des maîtres dans l'utilisation du poison et ils ne risquent jamais de s'empoisonner eux-mêmes par accident. Comme les [fureteurs obscurs](./Fureteur obscur.md), ils enduisent généralement leurs armes de traînée noire et emportent six doses avec eux. *traînée noire* blessure ; *JS* Vigueur DD 15 ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d2 For ; *guérison* 1 réussite. Le [DD](./DD.md) du poison dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Vision dans les ténèbres (Sur)** Les traqueurs obscurs voient parfaitement bien dans les ténèbres de toutes sortes, y compris celles créées par le sort de *[ténèbres profondes](./Ténèbres profondes.md)*.}
+{s:BDTexte|**Dernier sursaut (Sur)** Lorsqu'un traqueur obscur est tué, son corps s'embrase en une soudaine explosion de flammes blanches qui agit comme une *[[boule de feu]]* et inflige 3d6 points de dégâts de feu à toutes les créatures dans un rayon de 6 m (4 {s:c}). Un jet de [[Réflexes]] de DD 15 permet de réduire ces dégâts par moitié. L'équipement et les possessions du traqueur ne sont pas affectés par cette explosion. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|**Utilisation du Poison (Ext)** Les traqueurs obscurs sont des maîtres dans l'utilisation du poison et ils ne risquent jamais de s'empoisonner eux-mêmes par accident. Comme les [[fureteur obscur|fureteurs obscurs]], ils enduisent généralement leurs armes de traînée noire et emportent six doses avec eux. *traînée noire* blessure ; *JS* Vigueur DD 15 ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d2 For ; *guérison* 1 réussite. Le [[DD]] du poison dépend de la [[Constitution]].}
+{s:BDTexte|**Vision dans les ténèbres (Sur)** Les traqueurs obscurs voient parfaitement bien dans les ténèbres de toutes sortes, y compris celles créées par le sort de *[[ténèbres profondes]]*.}
 
 {s:ImageCentre|Bestiaire/Traqueur_obscur.jpg|90%}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [obscuriens](./obscurien.md).***</li></ul>''Le foulard noir qui couvre la visage de cet humanoïde élancé laisse
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[obscurien|obscuriens]].***</li></ul>''Le foulard noir qui couvre la visage de cet humanoïde élancé laisse
 seulement apparaître un front pâle et des yeux noirs et sans âme.''
 
 Les étranges et mystérieux traqueurs obscurs sont les dirigeants

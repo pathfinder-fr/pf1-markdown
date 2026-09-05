@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Chaîne de montagnes dominant le [lac Skotha](./Lac Skotha.md), les Grinçantes constituent un témoignage unique de l’ancien empire qui existait avant l’arrivé des humains. Cependant, peu d’aventuriers osent explorer cette zone car plusieurs tribus de [géants](./géants.md) y vivent.
+Chaîne de montagnes dominant le [[lac Skotha]], les Grinçantes constituent un témoignage unique de l’ancien empire qui existait avant l’arrivé des humains. Cependant, peu d’aventuriers osent explorer cette zone car plusieurs tribus de [[géants]] y vivent.

@@ -22,7 +22,7 @@ Plusieurs types de règles apparaissent à la fois dans les profils des monstres
 
 Starfinder utilise une panoplie d’actions différente de celle de Pathfinder. Si les règles de Starfinder contiennent déjà des indications à propos d’un type d’action donné, utilisez-les. Pour les autres capacités, référez-vous aux ajustements suivants.
 - Actions libres. La plupart des capacités qui nécessitent une action libre en Pathfinder utilisent plutôt une action rapide à Starfinder. Les actions Pathfinder qui doivent être utilisables un nombre illimité de fois à Starfinder, quant à elles, nécessiteront une action libre.
-- Action complexe. Les actions complexes de Pathfinder restent des actions complexes <nowiki>[NdT : full actions]</nowiki> à Starfinder.
+- Action complexe. Les actions complexes de Pathfinder restent des actions complexes <nowiki>[[NdT : full actions]]</nowiki> à Starfinder.
 - Action immédiate. Les actions immédiates de Pathfinder qui sont utilisées par un personnage lorsque ce n’est pas son tour utilisent la réaction de ce personnage à Starfinder. Celles qui prennent place lors du tour du personnage utilisent son action rapide. Si un personnage utilise une capacité en une action rapide, il ne peut pas utiliser sa réaction pour la même capacité avant le début de son prochain tour et inversement.
 
 #### Types de bonus
@@ -137,7 +137,7 @@ Accroissez les points de vie de la créature à convertir de 25%. Toutes les cap
 
 Vous pourriez choisir de donner à un monstre converti une épée plasma, un pistolet laser ou une autre arme Starfinder (voir le Livre de base de Starfinder, dans la section Équipement et trésor). Dans ce cas-là, vous devrez également faire les deux choses suivantes. Tout d’abord, ignorez les attaques additionnelles dont le monstre pourrait bénéficier sur la base d’un BBA élevé. À la place, il pourra alors porter une seule attaque avec sa nouvelle arme, en utilisant son bonus d’attaque le plus élevé ou bien encore deux attaques en utilisant une action complexe (avec un malus de -4 à son bonus d’attaque le plus élevé pour chacune des deux attaques). Ensuite, ajoutez le FP du monstre aux dégâts infligés par l’arme (en plus de son bonus de Force pour les attaques de corps à corps, bien sûr) pour représenter sa spécialisation dans le maniement de cette arme.
 
-Au lieu de cela, vous pouvez utiliser les attaques du monstre Pathfinder telles qu’elles sont citées sans modifier quoi que ce soit, ce qui lui donnera un nombre plus élevé d’attaques mais elles infligeront moins de dégâts. Cela fonctionne alors comme la capacité attaques multiples que certains monstres Starfinder possèdent, que ces attaques soient portées à l’aide d’armes manufacturées ou naturelles. Le monstre peut toujours choisir d’utiliser une action complexe pour porter deux attaques avec son bonus d’attaque le plus élevé – 4. Un monstre converti qui utilise l’attaque à outrance de Starfinder ne peut pas effectuer un déplacement stratégique <nowiki>[NdT : guarded step]</nowiki> au cours du même round.
+Au lieu de cela, vous pouvez utiliser les attaques du monstre Pathfinder telles qu’elles sont citées sans modifier quoi que ce soit, ce qui lui donnera un nombre plus élevé d’attaques mais elles infligeront moins de dégâts. Cela fonctionne alors comme la capacité attaques multiples que certains monstres Starfinder possèdent, que ces attaques soient portées à l’aide d’armes manufacturées ou naturelles. Le monstre peut toujours choisir d’utiliser une action complexe pour porter deux attaques avec son bonus d’attaque le plus élevé – 4. Un monstre converti qui utilise l’attaque à outrance de Starfinder ne peut pas effectuer un déplacement stratégique <nowiki>[[NdT : guarded step]]</nowiki> au cours du même round.
 
 :: Par exemple, les attaques d’une harpie (Bestiaire Pathfinder) sont décrites par « Corps à corps morgenstern, +8/+3 (1d8+1) et 2 griffes, +3 (1d6). » La harpie pourrait attaquer normalement et porter deux attaques de morgenstern (à +8 et à +3) plus deux attaques de griffes (à +3 chacune). Dans ce cas-là, les attaques qui touchent vont infliger la quantité de dégâts indiquée dans sa description Pathfinder. À la place, la harpie pourrait ne porter qu’une attaque de morgenstern (à +8) ou deux attaques de morgenstern à +4 chacune. Mais dans ce cas-là, chaque attaque qui touchera infligera 1d8+5 points de dégâts.
 
@@ -147,7 +147,7 @@ Au lieu de cela, vous pouvez utiliser les attaques du monstre Pathfinder telles 
 
 ##### Sorts et pouvoirs magiques
 
-Si un monstre Pathfinder peut lancer des sorts ou utiliser des pouvoirs magiques portant le même nom qu’un sort Starfinder, utilisez les règles du sort Starfinder. Dans les autres cas, utilisez le sort Pathfinder tel qu’il est décrit. Cependant, si vous voulez que votre monstre converti se fonde mieux dans le monde de Starfinder, vous pouvez prendre le temps de remplacer ces sorts par des sorts Starfinder similaires. Par exemple, vous pourriez remplacer boule de feu par explosion <nowiki>[NdT : explosive blast]</nowiki>. Soyez conscient que cela prend plus de temps et nécessite plus d’efforts.
+Si un monstre Pathfinder peut lancer des sorts ou utiliser des pouvoirs magiques portant le même nom qu’un sort Starfinder, utilisez les règles du sort Starfinder. Dans les autres cas, utilisez le sort Pathfinder tel qu’il est décrit. Cependant, si vous voulez que votre monstre converti se fonde mieux dans le monde de Starfinder, vous pouvez prendre le temps de remplacer ces sorts par des sorts Starfinder similaires. Par exemple, vous pourriez remplacer boule de feu par explosion <nowiki>[[NdT : explosive blast]]</nowiki>. Soyez conscient que cela prend plus de temps et nécessite plus d’efforts.
 
 ##### Caractéristiques
 
@@ -293,7 +293,7 @@ Les boucliers ne sont guère utilisés à Starfinder, de sorte que la formation 
 
 ### Formation au maniement des armes et spécialisation
 
-Les armes à distance jouent un rôle important à Starfinder, et la plupart des classes converties devraient avoir un certain niveau de familiarité avec elles. Une classe Pathfinder octroyant le maniement des armes simples devrait permettre le maniement des armes de corps à corps simples et des petites armes à feu à Starfinder. Une classe Pathfinder octroyant le maniement des armes de guerre devrait permettre le maniement des armes de corps à corps avancées et des fusils <nowiki>[NdT : longarms]</nowiki> à Starfinder ; de plus, si cette classe a un BBA égal à son niveau et possède des capacités de classe qui augmentent la précision ou les dégâts des armes, sa conversion devrait également permettre le maniement des armes lourdes.
+Les armes à distance jouent un rôle important à Starfinder, et la plupart des classes converties devraient avoir un certain niveau de familiarité avec elles. Une classe Pathfinder octroyant le maniement des armes simples devrait permettre le maniement des armes de corps à corps simples et des petites armes à feu à Starfinder. Une classe Pathfinder octroyant le maniement des armes de guerre devrait permettre le maniement des armes de corps à corps avancées et des fusils <nowiki>[[NdT : longarms]]</nowiki> à Starfinder ; de plus, si cette classe a un BBA égal à son niveau et possède des capacités de classe qui augmentent la précision ou les dégâts des armes, sa conversion devrait également permettre le maniement des armes lourdes.
 
 Dans le cas des classes présentant des restrictions strictes sur les types d’armes utilisables (comme les druides et les magiciens), vous devrez élaborer une liste similaire de manière à donner à ces personnages la capacité de manier uniquement certains types de petites armes à feu. Si la classe octroie déjà le maniement des armes à feu (comme le pistolier), vous pouvez envisager de lui permettre le maniement des fusils de sniper (ou un autre type particulier d’armes à distance).
 
@@ -356,7 +356,7 @@ Le familier converti devrait suivre toutes les règles normales des familiers (n
 
 Un moine Pathfinder éprouvera des difficultés pour égaler les dégâts infligés par les autres classes à haut niveau.
 
-Une manière de convertir un tel personnage consiste à faire en sorte que les attaques à mains nues du moine converti infligent autant de dégâts que l’arme de corps à corps à une main d’un agent possédant un objet dont le niveau ne dépasse pas celui du moine. De plus, les attaques à mains nues infligent des dégâts supplémentaires égaux à ceux de la capacité de classe botte de combat <nowiki>[NdT : trick attack]</nowiki> d’un agent de même niveau que le moine. Contrairement à l’agent, le moine n’a pas besoin de réussir un test de compétence pour infliger ces dégâts supplémentaires, mais il ne peut les appliquer qu’à ses attaques à mains nues. Le moine est formé à l’utilisation des attaques à mains nues et reçoit donc le don Spécialisation martiale correspondant au niveau 3.
+Une manière de convertir un tel personnage consiste à faire en sorte que les attaques à mains nues du moine converti infligent autant de dégâts que l’arme de corps à corps à une main d’un agent possédant un objet dont le niveau ne dépasse pas celui du moine. De plus, les attaques à mains nues infligent des dégâts supplémentaires égaux à ceux de la capacité de classe botte de combat <nowiki>[[NdT : trick attack]]</nowiki> d’un agent de même niveau que le moine. Contrairement à l’agent, le moine n’a pas besoin de réussir un test de compétence pour infliger ces dégâts supplémentaires, mais il ne peut les appliquer qu’à ses attaques à mains nues. Le moine est formé à l’utilisation des attaques à mains nues et reçoit donc le don Spécialisation martiale correspondant au niveau 3.
 
 
 ## Conversion des races de base de Pathfinder
@@ -390,7 +390,7 @@ Une manière de convertir un tel personnage consiste à faire en sorte que les a
 
 **Sens affûtés.** Les elfes reçoivent un bonus racial de +2 aux tests de Perception.
 
-**Vision nocturne.** Les elfes peuvent voir dans les zones de lumière faible comme s’il s’agissait de lumière normale. Voir les règles sur [la vision et la lumière](./../Starfinder/Sens.md#Vision_et_lumière_13) dans le livre de base de Starfinder.
+**Vision nocturne.** Les elfes peuvent voir dans les zones de lumière faible comme s’il s’agissait de lumière normale. Voir les règles sur [[Starfinder.Sens#Vision_et_lumière_13|la vision et la lumière]] dans le livre de base de Starfinder.
 
 
 ### Gnome
@@ -401,13 +401,13 @@ Une manière de convertir un tel personnage consiste à faire en sorte que les a
 
 **Curieux.** Les gnomes reçoivent un bonus racial de +2 aux tests de Culture.
 
-**Dimorphisme.** Les gnomes féeriques gagnent +2 en Charisme, alors que les fades <nowiki>[NdT : bleachling]</nowiki> reçoivent +2 en Intelligence.
+**Dimorphisme.** Les gnomes féeriques gagnent +2 en Charisme, alors que les fades <nowiki>[[NdT : bleachling]]</nowiki> reçoivent +2 en Intelligence.
 
 **Espoir éternel.** Les gnomes reçoivent un bonus racial de +2 aux jets de sauvegarde contre les effets de terreur et de désespoir. Une fois par jour, après avoir obtenu un 1 sur un d20, ils peuvent relancer et utiliser le second résultat.
 
-**Magie gnome.** Les gnomes acquièrent les pouvoirs magiques suivants : 1/jour – lumières dansantes, son imaginaire, et sort-jeton <nowiki>[NdT : token spell]</nowiki>. Le niveau de lanceur de sort pour calculer leurs effets est égal au niveau de personnage du gnome. De plus, les gnomes reçoivent un bonus racial de +2 aux jets de sauvegarde contre les sorts et effets d’illusion.
+**Magie gnome.** Les gnomes acquièrent les pouvoirs magiques suivants : 1/jour – lumières dansantes, son imaginaire, et sort-jeton <nowiki>[[NdT : token spell]]</nowiki>. Le niveau de lanceur de sort pour calculer leurs effets est égal au niveau de personnage du gnome. De plus, les gnomes reçoivent un bonus racial de +2 aux jets de sauvegarde contre les sorts et effets d’illusion.
 
-**Vision nocturne.** Les gnomes peuvent voir dans les zones de lumière faible comme s’il s’agissait de lumière normale. Voir les règles sur [la vision et la lumière](./../Starfinder/Sens.md#Vision_et_lumière_13) dans le livre de base de Starfinder.
+**Vision nocturne.** Les gnomes peuvent voir dans les zones de lumière faible comme s’il s’agissait de lumière normale. Voir les règles sur [[Starfinder.Sens#Vision_et_lumière_13|la vision et la lumière]] dans le livre de base de Starfinder.
 
 
 ### Demi-elfe
@@ -422,7 +422,7 @@ Une manière de convertir un tel personnage consiste à faire en sorte que les a
 
 **Sens affûtés.** Les demi-elfes reçoivent un bonus racial de +2 aux tests de Perception.
 
-**Vision nocturne.** Les demi-elfes peuvent voir dans les zones de lumière faible comme s’il s’agissait de lumière normale. Voir les règles sur [la vision et la lumière](./../Starfinder/Sens.md#Vision_et_lumière_13) dans le livre de base de Starfinder.
+**Vision nocturne.** Les demi-elfes peuvent voir dans les zones de lumière faible comme s’il s’agissait de lumière normale. Voir les règles sur [[Starfinder.Sens#Vision_et_lumière_13|la vision et la lumière]] dans le livre de base de Starfinder.
 
 
 ### Demi-orque

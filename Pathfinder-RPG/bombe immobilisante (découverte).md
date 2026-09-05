@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEIMMOBILISANTE
 ---
 
->>> [découvertes#BOMBEIMMOBILISANTE](./découvertes.md#BOMBEIMMOBILISANTE)
+>>> [[découvertes#BOMBEIMMOBILISANTE]]

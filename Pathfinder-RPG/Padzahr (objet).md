@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 80 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
 ---
-Une fois ingéré, ce liquide cristallin accélère le processus naturel de guérison des [affaiblissements](./affaiblissement temporaire (capacité).md) de [Constitution](./Constitution.md). Il suffit de se reposer pendant 1 heure après avoir bu une fiole pour guérir de 1 point d'affaiblissement de Constitution, comme si le personnage avait bénéficié d’une nuit de repos complète. L’ingestion de plusieurs dose dans la même heure n’accélère pas le rythme de la guérison. Le personnage doit prendre chaque dose une par une, espacées par une heure de repos, pour qu’elles aient un effet. Le padzahr ne fait plus effet après 4 doses dans la même journée.
+Une fois ingéré, ce liquide cristallin accélère le processus naturel de guérison des [[Affaiblissement temporaire (capacité)|affaiblissements]] de [[Constitution]]. Il suffit de se reposer pendant 1 heure après avoir bu une fiole pour guérir de 1 point d'affaiblissement de Constitution, comme si le personnage avait bénéficié d’une nuit de repos complète. L’ingestion de plusieurs dose dans la même heure n’accélère pas le rythme de la guérison. Le personnage doit prendre chaque dose une par une, espacées par une heure de repos, pour qu’elles aient un effet. Le padzahr ne fait plus effet après 4 doses dans la même journée.

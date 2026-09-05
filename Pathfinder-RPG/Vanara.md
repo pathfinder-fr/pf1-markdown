@@ -10,22 +10,22 @@ LastModified: 2017-07-02 20:26
 {s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.271*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Moine](./Moine.md) vanara 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) (vanara) de taille M, LB}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[Moine]] vanara 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (vanara) de taille M, LB}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 17, pris au dépourvu 13 (Dex +3, esquive +1, Sag +3)}
 {s:BDTexte|**pv** 9 (1d8+1)}
 {s:BDTexte|**Réf** +5, **Vig** +2, **Vol** +5}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** bâton, +1 (1d6+1) ou [déluge de coups](./déluge de coups.md), +0/+0 (1d6+1)}
-{s:BDTexte|**Attaques spéciales** [déluge de coups](./déluge de coups.md), [coup étourdissant](./Coup étourdissant.md) (1/jour, [DD](./DD.md) 13)}
+{s:BDTexte|**Corps à corps** bâton, +1 (1d6+1) ou [[déluge de coups]], +0/+0 (1d6+1)}
+{s:BDTexte|**Attaques spéciales** [[déluge de coups]], [[coup étourdissant]] (1/jour, [[DD]] 13)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 16, **Con** 10, **Int** 12, **Sag** 17, **Cha** 6}
 {s:BDTexte|**BBA** +0, **BMO** +1, **DMD** 18}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md)<sup>c</sup>, [Coup étourdissant](./Coup étourdissant.md)<sup>c</sup>, [Esquive](./Esquive.md), [Science du combat à mains nues](./Science du combat à mains nues.md)<sup>c</sup>}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +9, [Discrétion](./Discrétion.md) +9, [Escalade](./Escalade.md) +13, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7}
+{s:BDTexte|**Dons** [[Attaques réflexes]]<sup>c</sup>, [[Coup étourdissant]]<sup>c</sup>, [[Esquive]], [[Science du combat à mains nues]]<sup>c</sup>}
+{s:BDTexte|**Compétences** [[Acrobaties]] +9, [[Discrétion]] +9, [[Escalade]] +13, [[Perception]] +7, [[Psychologie]] +7}
 {s:BDTexte|**Modificateurs raciaux** +2 en Acrobaties, +2 en Discrétion}
 {s:BDTexte|**Langue** commun, sylvestre, vanaran}
 {s:BDTexte|**Particularité** queue préhensile}
@@ -34,7 +34,7 @@ LastModified: 2017-07-02 20:26
 {s:BDTexte|**Organisation sociale** solitaire, couple, groupe (3-6) ou communauté (7-100)}
 {s:BDTexte|**Trésor** équipement de PNJ (bâton)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Queue préhensile (Ext).** Tous les vanaras sont pourvus d’une longue queue flexible qui leur permet de tenir des objets. Ils ne peuvent pas tenir d’armes avec leur queue mais elle leur permet de récupérer de petits objets qu’ils portent sur eux par une [action rapide](./Action rapide.md).}
+{s:BDTexte|**Queue préhensile (Ext).** Tous les vanaras sont pourvus d’une longue queue flexible qui leur permet de tenir des objets. Ils ne peuvent pas tenir d’armes avec leur queue mais elle leur permet de récupérer de petits objets qu’ils portent sur eux par une [[action rapide]].}
 </div>
 
 {s:ImageCentre|Bestiaire/Vanara.jpg|90%}
@@ -54,5 +54,5 @@ Les vanaras se définissent par leurs niveaux de classe ; ils n’ont pas de dé
 - **Queue préhensile.** Voir plus haut.
 - **Langues.** Le vanara commence le jeu en parlant le commun et le vanaran. Les vanaras ayant un haut score d’Intelligence peuvent choisir des langues supplémentaires parmi celles-ci : aklo, céleste, elfique, gnome, gobelin et sylvestre.
 
-{s:VoirAussiAvant}La page de la race [Vanara](./vanara (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Vanara (race)|Vanara]]{s:VoirAussiAprès}
 </div></td></tr></table>

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
 ---
-Ce tabac peut être utilisé pour annuler les effets de la nausée. Si le personnage en prend avant d’être exposé à un effet qui le rendrait [nauséeux](./Nauséeux.md) et lui autorise un [jet de sauvegarde](./JDS.md), il peut faire deux jets contre l’effet et garder le meilleur résultat. Une seule dose apporte cet avantage pendant 1 heure.
+Ce tabac peut être utilisé pour annuler les effets de la nausée. Si le personnage en prend avant d’être exposé à un effet qui le rendrait [[nauséeux]] et lui autorise un [[jds|jet de sauvegarde]], il peut faire deux jets contre l’effet et garder le meilleur résultat. Une seule dose apporte cet avantage pendant 1 heure.

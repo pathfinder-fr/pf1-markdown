@@ -14,7 +14,7 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4 page 111*}
 - **200 PX**
 - Gathelain ensorceleur 1
-- [Créature féerique](./type Fée.md) de taille P, CN
+- [[type fée|Créature féerique]] de taille P, CN
 - **Init** +3 ; **Sens **vision nocturne ; Perception -1
 (((Défense)))
 - **CA** 17, contact 15, pris au dépourvu 13 (Dex +3, esquive +1, naturelle +2, taille +1)
@@ -24,18 +24,18 @@ Categories:
 - **VD **9 m, vol 12 m (médiocre)
 - **Corps à corps** lance, +2 (1d6+1/x3)
 - **Pouvoirs magiques de gathelain** (**NLS **1 ; concentration +4)
-  - *1/jour* — [enchevêtrement](./Enchevêtrement.md), [démarche aérienne](./Démarche aérienne.md)
+  - *1/jour* — [[enchevêtrement]], [[démarche aérienne]]
   - **Pouvoirs magiques de lignage** (**NLS **1 ; concentration +4)
-  - *6/jour* — [toucher rieur](./lignage Féerique.md#Pouvoirs_de_lignage_2)
+  - *6/jour* — [[lignage féerique#Pouvoirs_de_lignage_2|toucher rieur]]
 - **Sorts d’ensorceleur connus** (**NLS **1 ; concentration +4)
-  - *Niveau 1 (4/jour)* — [couleurs dansantes](./Couleurs dansantes.md) (DD 14), [projectile magique](./Projectile magique.md)
-  - *Niveau 0 (à volonté)* — [lumières dansantes](./Lumières dansantes.md), [hébétement](./Hébétement.md) (DD 15), [son imaginaire](./Son imaginaire.md) (DD 13), [rayon de givre](./Rayon de givre.md)
+  - *Niveau 1 (4/jour)* — [[couleurs dansantes]] (DD 14), [[projectile magique]]
+  - *Niveau 0 (à volonté)* — [[lumières dansantes]], [[hébétement]] (DD 15), [[son imaginaire]] (DD 13), [[rayon de givre]]
 - **Lignage **féerique
 (((Statistiques)))
 - **For** 12, **Dex **16, **Con **11, **Int** 10, **Sag **8, **Cha** 17
 - **BBA **+0 ; **BMO** +0 ; **DMD **14
-- **Dons **[Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [Esquive](./Esquive.md)
-- **Compétences **[Art de la magie](./Art de la magie.md) +4, [Connaissances](./Connaissances.md) (mystères) +4, [Vol](./Vol.md) +1
+- **Dons **[[Dispense de composantes matérielles]], [[Esquive]]
+- **Compétences **[[Art de la magie]] +4, [[Connaissances]] (mystères) +4, [[Vol]] +1
 - **Langues **commun, sylvestre
 - **Particularités** arcanes de lignage (+2 au DD pour les sorts de coercition)
 (((Écologie)))

@@ -7,10 +7,10 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi les [domaines de prêtre](./Domaines.md).***
-***Voir aussi les [variantes de canalisation](./Variantes de canalisation.md).***
-***Voir aussi la [liste des sorts de prêtre](./Liste des sorts de prêtres.md).***
-***Voir aussi les [religions et philosophies](./../Golarion/Religions et philosophies.md) de Golarion.***
+<div class="fright">***Voir aussi les [[Domaines|domaines de prêtre]].***
+***Voir aussi les [[variantes de canalisation]].***
+***Voir aussi la [[Liste des sorts de prêtres|liste des sorts de prêtre]].***
+***Voir aussi les [[Golarion.Religions et philosophies|religions et philosophies]] de Golarion.***
 {s:PM0|prêtre}**Voir les archétypes du prêtre**&emsp;
 <li ID="prêtre" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeprêtre}</li>
 </div>*La foi et les miracles divins suscitent des vocations. Les prêtres, ces êtres appelés à servir des puissances qui dépassent l’entendement de la plupart des mortels, en prêchent les merveilles et satisfont les besoins spirituels de leur peuple. Ce ne sont cependant pas de simples faiseurs de sermons mais bel et bien des émissaires divins qui accomplissent la volonté des dieux à la force de leur bras et grâce à la magie divine. Ces prêtres sont dévoués aux doctrines des religions et des philosophies qui les inspirent et œuvrent à faire connaître leur foi et à accroître son influence. Même s’ils possèdent des pouvoirs similaires, on retrouve autant de différences entre les prêtres qu’entre les divinités qu’ils servent : certains offrent soins et pardon, d’autres la justice, la loi et la liberté, et d’autres encore corrompent et incitent des conflits. Les prêtres agissent de bien des manières mais tous ceux qui empruntent ce chemin marchent aux côtés des alliés les plus puissants qui soient : ils sont les bras armés des dieux eux-mêmes.*
@@ -42,7 +42,7 @@ Categories:
 | +0
 | +2
 | +2
-| CLASS="gauche" | [Aura](./Prêtre.md#AURA), [canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) 1d6, [domaines](./Prêtre.md#DOMAINES), [oraisons](./Prêtre.md#ORAISONS), [incantation spontanée](./Prêtre.md#INCANTATIONSPONTANEE)
+| CLASS="gauche" | [[prêtre#AURA|Aura]], [[prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] 1d6, [[prêtre#DOMAINES|domaines]], [[prêtre#ORAISONS|oraisons]], [[prêtre#INCANTATIONSPONTANEE|incantation spontanée]]
 | 3
 | 1+1
 | -
@@ -76,7 +76,7 @@ Categories:
 | +1
 | +3
 | +3
-| CLASS="gauche" | [Canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) 2d6
+| CLASS="gauche" | [[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 2d6
 | 4
 | 2+1
 | 1+1
@@ -110,7 +110,7 @@ Categories:
 | +1
 | +4
 | +4
-| CLASS="gauche" | [Canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) 3d6
+| CLASS="gauche" | [[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 3d6
 | 4
 | 3+1
 | 2+1
@@ -144,7 +144,7 @@ Categories:
 | +2
 | +5
 | +5
-| CLASS="gauche" | [Canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) 4d6
+| CLASS="gauche" | [[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 4d6
 | 4
 | 4+1
 | 3+1
@@ -178,7 +178,7 @@ Categories:
 | +3
 | +6
 | +6
-| CLASS="gauche" | [Canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) 5d6
+| CLASS="gauche" | [[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 5d6
 | 4
 | 4+1
 | 4+1
@@ -212,7 +212,7 @@ Categories:
 | +3
 | +7
 | +7
-| CLASS="gauche" | [Canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) 6d6
+| CLASS="gauche" | [[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 6d6
 | 4
 | 4+1
 | 4+1
@@ -246,7 +246,7 @@ Categories:
 | +4
 | +8
 | +8
-| CLASS="gauche" | [Canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) 7d6
+| CLASS="gauche" | [[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 7d6
 | 4
 | 4+1
 | 4+1
@@ -280,7 +280,7 @@ Categories:
 | +5
 | +9
 | +9
-| CLASS="gauche" | [Canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) 8d6
+| CLASS="gauche" | [[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 8d6
 | 4
 | 4+1
 | 4+1
@@ -314,7 +314,7 @@ Categories:
 | +5
 | +10
 | +10
-| CLASS="gauche" | [Canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) 9d6
+| CLASS="gauche" | [[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 9d6
 | 4
 | 4+1
 | 4+1
@@ -348,7 +348,7 @@ Categories:
 | +6
 | +11
 | +11
-| CLASS="gauche" | [Canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) 10d6
+| CLASS="gauche" | [[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 10d6
 | 4
 | 4+1
 | 4+1
@@ -382,100 +382,100 @@ Categories:
 
 Comme toutes ces capacités dépendent de leur foi, les prêtres doivent se vouer au culte d’une source divine. La grande majorité des prêtres vénèrent un dieu mais certains d’entre eux se tournent vers un concept divin qui n’est pas associé à une divinité spécifique, comme le combat, la mort, la justice ou la connaissance (discutez-en avec votre MJ si vous préférez opter pour ce choix plutôt que de choisir un dieu.)
 
-**Alignement.** L’[alignement](./Alignement.md) du prêtre peut différer d’au plus une catégorie par rapport à celui de son dieu, soit selon l’axe Loi-Chaos soit selon l’axe Bien-Mal.
+**Alignement.** L’[[alignement]] du prêtre peut différer d’au plus une catégorie par rapport à celui de son dieu, soit selon l’axe Loi-Chaos soit selon l’axe Bien-Mal.
 
 **Dés de vie.** d8.
 
 **Argent de départ.** 4d6 x 10 po (moyenne 140 po).
 
 ### Compétences de classe
-Les compétences de classe du prêtre sont les suivantes : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Connaissances](./Connaissances.md) (histoire) (Int), [Connaissances](./Connaissances.md) (mystères) (Int), [Connaissances](./Connaissances.md) (noblesse) (Int), [Connaissances](./Connaissances.md) (plans) (Int), [Connaissances](./Connaissances.md) (religion) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Estimation](./Estimation.md) (Int), [Linguistique](./Linguistique.md) (Int), [Premiers secours](./Premiers secours.md) (Sag), [Profession](./Profession.md) (Sag) et [Psychologie](./Psychologie.md) (Sag).
+Les compétences de classe du prêtre sont les suivantes : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (histoire) (Int), [[Connaissances]] (mystères) (Int), [[Connaissances]] (noblesse) (Int), [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Estimation]] (Int), [[Linguistique]] (Int), [[Premiers secours]] (Sag), [[Profession]] (Sag) et [[Psychologie]] (Sag).
 
-**Points de compétence par niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 2 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
 Les aptitudes du prêtre sont décrites ci-dessous.
 
 {s:ImageDroite|Illustrations/PNJ/Kyra.jpg|35%}
 #### Armes et armures
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#31) Prêtre : Un prêtre dont la divinité a pour arme de prédilection l'épée bâtarde reçoit-il gratuitement le maniement d'une arme de guerre ou exotique avec cette épée ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#31|→]] Prêtre : Un prêtre dont la divinité a pour arme de prédilection l'épée bâtarde reçoit-il gratuitement le maniement d'une arme de guerre ou exotique avec cette épée ?***
 
-Puisque l'[épée bâtarde](./épée bâtarde (arme).md) est listée comme étant une arme exotique, le <u>[prêtre](./Prêtre.md#Armes_et_armures_0)</u> reçoit [Maniement d'une arme exotique](./Maniement dune arme exotique.md) avec cette arme, ce qui lui permet de la manier à une main.}Le prêtre est formé au maniement de toutes les [armes courantes](./arme courante.md), ainsi qu’au port des [armures légères](./armure légère.md) et [intermédiaires](./armure intermédiaire.md) et à l’utilisation des boucliers (à l’exception des pavois). Il est également formé au maniement de l’arme de prédilection de son dieu.
+Puisque l'[[Épée bâtarde (arme)|épée bâtarde]] est listée comme étant une arme exotique, le <u>[[Prêtre#Armes_et_armures_0|prêtre]]</u> reçoit [[Maniement dune arme exotique|Maniement d'une arme exotique]] avec cette arme, ce qui lui permet de la manier à une main.}Le prêtre est formé au maniement de toutes les [[arme courante|armes courantes]], ainsi qu’au port des [[armure légère|armures légères]] et [[armure intermédiaire|intermédiaires]] et à l’utilisation des boucliers (à l’exception des pavois). Il est également formé au maniement de l’arme de prédilection de son dieu.
 
 {s:Reference|AURA}
 #### Aura (Ext)
-Le prêtre d’un dieu Chaotique, Mauvais, Bon ou Loyal possède une aura particulièrement puissante correspondant à l’alignement de la [divinité](./Divinités.md) (voir le sort de *[détection du Mal](./Détection.md)* pour plus de détails).
+Le prêtre d’un dieu Chaotique, Mauvais, Bon ou Loyal possède une aura particulièrement puissante correspondant à l’alignement de la [[Divinités|divinité]] (voir le sort de *[[détection|détection du Mal]]* pour plus de détails).
 
 {s:Reference|SORTS}
 #### Sorts
-Le prêtre peut lancer des sorts divins figurant sur la [liste des sorts de prêtres](./Liste des sorts de prêtres.md). Son alignement peut cependant l’empêcher de lancer certains sorts opposés à sa morale ou à son éthique (voir « [Sorts du Bien, du Chaos, de la Loi et du Mal](./Prêtre.md#SORTSDUBIENDUCHAOSDELALOIETDUMAL) », plus bas). Le prêtre doit choisir et préparer ses sorts à l’avance.
+Le prêtre peut lancer des sorts divins figurant sur la [[liste des sorts de prêtres]]. Son alignement peut cependant l’empêcher de lancer certains sorts opposés à sa morale ou à son éthique (voir « [[prêtre#SORTSDUBIENDUCHAOSDELALOIETDUMAL|Sorts du Bien, du Chaos, de la Loi et du Mal]] », plus bas). Le prêtre doit choisir et préparer ses sorts à l’avance.
 
-Pour préparer ou lancer un sort, un prêtre doit avoir une valeur de [Sagesse](./Sagesse.md) supérieure ou égale à 10 + le [niveau du sort](./Niveau de sort.md). Le [degré de difficulté](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) contre un sort de prêtre vaut 10 + le [niveau du sort](./Niveau de sort.md) + le modificateur de [Sagesse](./Sagesse.md) du prêtre.
+Pour préparer ou lancer un sort, un prêtre doit avoir une valeur de [[Sagesse]] supérieure ou égale à 10 + le [[niveau de sort|niveau du sort]]. Le [[DD|degré de difficulté]] des [[jet de sauvegarde|jets de sauvegarde]] contre un sort de prêtre vaut 10 + le [[niveau de sort|niveau du sort]] + le modificateur de [[Sagesse]] du prêtre.
 
-Comme les autres lanceurs de sorts, le prêtre ne peut jeter qu’un certain nombre de sorts de chaque niveau chaque jour. Son quota quotidien de sorts est indiqué sur la Table "[Le Prêtre](./Prêtre.md#TABLEPRETRE)". En plus de cela, il reçoit des sorts en bonus chaque jour s’il possède une valeur de [Sagesse](./Sagesse.md) élevée (voir la Table "[Modificateurs de caractéristique et sorts en bonus](./Caractéristiques.md#TABLEAUCARACTERISTIQUES)").
+Comme les autres lanceurs de sorts, le prêtre ne peut jeter qu’un certain nombre de sorts de chaque niveau chaque jour. Son quota quotidien de sorts est indiqué sur la Table "[[prêtre#TABLEPRETRE|Le Prêtre]]". En plus de cela, il reçoit des sorts en bonus chaque jour s’il possède une valeur de [[Sagesse]] élevée (voir la Table "[[Caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
 
-Le prêtre reçoit ses sorts grâce à la prière ou à la méditation : chaque prêtre doit choisir un moment de la journée où il passera quotidiennement une heure à se recueillir ou à prier afin de renouveler son quota journalier de sorts. Le prêtre peut préparer et lancer n’importe quel sort figurant sur la [liste des sorts de prêtres](./Liste des sorts de prêtres.md) et appartenant à un niveau de sorts auquel il a accès. Il doit cependant choisir quels sorts préparer au cours de sa méditation quotidienne.
+Le prêtre reçoit ses sorts grâce à la prière ou à la méditation : chaque prêtre doit choisir un moment de la journée où il passera quotidiennement une heure à se recueillir ou à prier afin de renouveler son quota journalier de sorts. Le prêtre peut préparer et lancer n’importe quel sort figurant sur la [[liste des sorts de prêtres]] et appartenant à un niveau de sorts auquel il a accès. Il doit cependant choisir quels sorts préparer au cours de sa méditation quotidienne.
 
 {s:Reference|CANALISATIONDENERGIE}
 #### Canalisation d’énergie (Sur)
 Quel que soit son alignement, le prêtre peut libérer une vague d’énergie en canalisant la puissance de sa foi à travers son symbole sacré (ou maudit). Selon le type d’énergie canalisée et les créatures affectées, il peut utiliser cette capacité pour blesser ou pour soigner.
 
-Un prêtre d’alignement Bon (ou qui vénère une [divinité](./Divinités.md) Bonne) canalise de l’énergie positive et peut blesser les [morts-vivants](./type Mort-vivant.md) ou soigner les vivants. Un prêtre d’alignement Mauvais (ou qui vénère une divinité Mauvaise) canalise de l’énergie négative et peut blesser les vivants ou soigner les [morts-vivants](./type Mort-vivant.md). Un prêtre Neutre qui vénère une divinité Neutre (ou qui ne sert aucun dieu) doit choisir entre énergie positive et énergie négative. Ce choix, une fois fait, ne peut plus être modifié. Cette décision détermine également le type de sorts que le prêtre peut lancer spontanément (voir « [Incantation spontanée](./Prêtre.md#INCANTATIONSPONTANEE) »).
+Un prêtre d’alignement Bon (ou qui vénère une [[Divinités|divinité]] Bonne) canalise de l’énergie positive et peut blesser les [[type Mort-vivant|morts-vivants]] ou soigner les vivants. Un prêtre d’alignement Mauvais (ou qui vénère une divinité Mauvaise) canalise de l’énergie négative et peut blesser les vivants ou soigner les [[type Mort-vivant|morts-vivants]]. Un prêtre Neutre qui vénère une divinité Neutre (ou qui ne sert aucun dieu) doit choisir entre énergie positive et énergie négative. Ce choix, une fois fait, ne peut plus être modifié. Cette décision détermine également le type de sorts que le prêtre peut lancer spontanément (voir « [[prêtre#INCANTATIONSPONTANEE|Incantation spontanée]] »).
 
-L’énergie canalisée crée un [rayonnement](./rayonnement.md) qui affecte toutes les créatures d’un type donné (soit vivants, soit [morts-vivants](./type Mort-vivant.md)) dans un rayon de 9 m (6 cases) autour du prêtre. La quantité de dégâts infligés ou de points de vie soignés est égale à 1d6 points plus 1d6 points par tranche de deux niveaux de prêtre au-delà du premier (2d6 au niveau 3, 3d6 au niveau 5 et ainsi de suite). Les créatures qui sont blessées par l’énergie canalisée bénéficient d’un jet de [Volonté](./Volonté.md) pour diminuer les dégâts de moitié. Le [DD](./DD.md) de ce [jet de sauvegarde](./jet de sauvegarde.md) vaut 10 + la moitié du niveau du prêtre + le modificateur de [Charisme](./Charisme.md) du prêtre. Les créatures qui sont soignées par l’énergie canalisée ne peuvent dépasser leur nombre maximal de points de vie : les points de vie excédentaires sont perdus. Chaque jour, le prêtre peut canaliser l’énergie un nombre de fois égal à 3 + son modificateur de [Charisme](./Charisme.md). Cela requiert une [action simple](./Action simple.md) qui ne provoque pas d’[attaque d’opportunité](./AO.md). Le prêtre peut choisir que cet effet l’affecte également ou pas. Il doit être capable de brandir son symbole sacré pour utiliser ce pouvoir.
+L’énergie canalisée crée un [[rayonnement]] qui affecte toutes les créatures d’un type donné (soit vivants, soit [[type Mort-vivant|morts-vivants]]) dans un rayon de 9 m (6 cases) autour du prêtre. La quantité de dégâts infligés ou de points de vie soignés est égale à 1d6 points plus 1d6 points par tranche de deux niveaux de prêtre au-delà du premier (2d6 au niveau 3, 3d6 au niveau 5 et ainsi de suite). Les créatures qui sont blessées par l’énergie canalisée bénéficient d’un jet de [[Volonté]] pour diminuer les dégâts de moitié. Le [[DD]] de ce [[jet de sauvegarde]] vaut 10 + la moitié du niveau du prêtre + le modificateur de [[Charisme]] du prêtre. Les créatures qui sont soignées par l’énergie canalisée ne peuvent dépasser leur nombre maximal de points de vie : les points de vie excédentaires sont perdus. Chaque jour, le prêtre peut canaliser l’énergie un nombre de fois égal à 3 + son modificateur de [[Charisme]]. Cela requiert une [[action simple]] qui ne provoque pas d’[[AO|attaque d’opportunité]]. Le prêtre peut choisir que cet effet l’affecte également ou pas. Il doit être capable de brandir son symbole sacré pour utiliser ce pouvoir.
 
-{s:um}**Les variantes de canalisation.** La canalisation d’énergie positive ou négative est un pouvoir iconique des prêtres, qu’ils s’en servent pour soigner, pour blesser, pour intimider les morts-vivants ou pour les renvoyer. Pourtant, étant donné l’immense variété des [divinités](./Divinités.md) et des thèmes qui leur sont associés, il semble normal que certaines dotent leurs serviteurs mortels de pouvoirs de canalisation qui reflètent leurs centres d’intérêt. Cette catégorie fournit des exemples de pouvoirs de canalisation alternatifs basés sur la nature d’une divinité. Par exemple, un dieu du feu accordera des pouvoirs de canalisation d’énergie négative qui infligeront des dégâts de feu à la place d’une partie des dégâts de canalisation classique ou de leur totalité.
+{s:um}**Les variantes de canalisation.** La canalisation d’énergie positive ou négative est un pouvoir iconique des prêtres, qu’ils s’en servent pour soigner, pour blesser, pour intimider les morts-vivants ou pour les renvoyer. Pourtant, étant donné l’immense variété des [[Divinités]] et des thèmes qui leur sont associés, il semble normal que certaines dotent leurs serviteurs mortels de pouvoirs de canalisation qui reflètent leurs centres d’intérêt. Cette catégorie fournit des exemples de pouvoirs de canalisation alternatifs basés sur la nature d’une divinité. Par exemple, un dieu du feu accordera des pouvoirs de canalisation d’énergie négative qui infligeront des dégâts de feu à la place d’une partie des dégâts de canalisation classique ou de leur totalité.
 
-Quand un joueur crée un personnage prêtre, il doit décider s’il utilise la forme standard de canalisation d’énergie ou une variante basée sur un des thèmes associés à sa divinité. Une fois qu’il a fait ce choix, il ne peut plus revenir dessus. Les canalisations alternatives possèdent la même zone d’effet, les mêmes [DD](./DD.md) et le même nombre d’utilisations quotidiennes que les autres canalisations d’énergie et suivent les mêmes règles. Les dons et les pouvoirs qui modifient ou représentent une alternative à la canalisation d’énergie (comme [Contrôle des morts-vivants](./Contrôle des morts-vivants.md) ou [Renvoi des morts-vivants](./Renvoi des morts-vivants.md)) fonctionnent normalement, même avec une variante.
+Quand un joueur crée un personnage prêtre, il doit décider s’il utilise la forme standard de canalisation d’énergie ou une variante basée sur un des thèmes associés à sa divinité. Une fois qu’il a fait ce choix, il ne peut plus revenir dessus. Les canalisations alternatives possèdent la même zone d’effet, les mêmes [[DD]] et le même nombre d’utilisations quotidiennes que les autres canalisations d’énergie et suivent les mêmes règles. Les dons et les pouvoirs qui modifient ou représentent une alternative à la canalisation d’énergie (comme [[Contrôle des morts-vivants]] ou [[Renvoi des morts-vivants]]) fonctionnent normalement, même avec une variante.
 
-*Voir la [liste des variantes de canalisation](./Variantes de canalisation.md).*
+*Voir la [[Variantes de canalisation|liste des variantes de canalisation]].*
 
 {s:Reference|DOMAINES}
 #### Domaines
-L’alignement du prêtre, ses capacités magiques, ses valeurs et la manière dont les autres le perçoivent dépendent de son dieu. Le prêtre peut choisir deux domaines parmi ceux qui sont associés à sa [divinité](./Divinités.md). Il ne peut sélectionner un domaine lié à un alignement (Bien, Chaos, Loi ou Mal) que s’il correspond à son propre alignement. Si le prêtre ne sert pas un dieu, il peut quand même choisir deux domaines représentant ses penchants spirituels et ses capacités (sous réserve d’accord du MJ), la restriction sur les alignements reste d’application.
+L’alignement du prêtre, ses capacités magiques, ses valeurs et la manière dont les autres le perçoivent dépendent de son dieu. Le prêtre peut choisir deux domaines parmi ceux qui sont associés à sa [[Divinités|divinité]]. Il ne peut sélectionner un domaine lié à un alignement (Bien, Chaos, Loi ou Mal) que s’il correspond à son propre alignement. Si le prêtre ne sert pas un dieu, il peut quand même choisir deux domaines représentant ses penchants spirituels et ses capacités (sous réserve d’accord du MJ), la restriction sur les alignements reste d’application.
 
-Chaque domaine offre un certain nombre de pouvoirs de domaine dépendant du niveau du prêtre ainsi que plusieurs sorts en bonus. Le prêtre gagne un emplacement de sort de domaine pour chaque niveau de sort auquel il a accès (sauf le niveau 0). Chaque jour, le prêtre peut utiliser cet emplacement pour préparer un sort provenant de ses domaines. Si ce sort de domaine ne figure pas sur la [liste des sorts de prêtres](./Liste des sorts de prêtres.md), le prêtre ne peut le préparer que dans un emplacement de sort de domaine. Les sorts de domaine ne peuvent pas être utilisés pour les [incantations spontanées](./Prêtre.md#INCANTATIONSPONTANEE).
+Chaque domaine offre un certain nombre de pouvoirs de domaine dépendant du niveau du prêtre ainsi que plusieurs sorts en bonus. Le prêtre gagne un emplacement de sort de domaine pour chaque niveau de sort auquel il a accès (sauf le niveau 0). Chaque jour, le prêtre peut utiliser cet emplacement pour préparer un sort provenant de ses domaines. Si ce sort de domaine ne figure pas sur la [[liste des sorts de prêtres]], le prêtre ne peut le préparer que dans un emplacement de sort de domaine. Les sorts de domaine ne peuvent pas être utilisés pour les [[prêtre#INCANTATIONSPONTANEE|incantations spontanées]].
 
-Le prêtre reçoit également les pouvoirs indiqués dans chacun de ses domaines s’il a atteint un niveau suffisant. Sauf indication contraire, il suffit d’une [action simple](./Action simple.md) pour activer un pouvoir de domaine.
+Le prêtre reçoit également les pouvoirs indiqués dans chacun de ses domaines s’il a atteint un niveau suffisant. Sauf indication contraire, il suffit d’une [[action simple]] pour activer un pouvoir de domaine.
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#46) Sous-domaines : Les druides, les inquisiteurs et les autres classes qui ont accès à des domaines peuvent-ils prendre les sous-domaines listés dans la section du MRA portée sur le prêtre ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#46|→]] Sous-domaines : Les druides, les inquisiteurs et les autres classes qui ont accès à des domaines peuvent-ils prendre les sous-domaines listés dans la section du MRA portée sur le prêtre ?***
 
-Oui, tant qu'ils suivent les règles relatives aux <u>[sous-domaines](./Domaines.md#SOUSDOMAINES)</u> présentées à la page 124. Un personnage qui n'a pas de divinité tutélaire (comme certains druides ou paladins) peut choisir un unique sous-domaine associé à un domaine accessible pour sa classe.
+Oui, tant qu'ils suivent les règles relatives aux <u>[[Domaines#SOUSDOMAINES|sous-domaines]]</u> présentées à la page 124. Un personnage qui n'a pas de divinité tutélaire (comme certains druides ou paladins) peut choisir un unique sous-domaine associé à un domaine accessible pour sa classe.
 ---
-***[→](./FAQ- Manuel des joueurs - Règles avancées.md#47) Prêtre, Sous-domaines Extérieurs : Comment suis-je censé utiliser le sort de domaine *contrat intermédiaire* offert par ces sous-domaines ?***
+***[[FAQ- Manuel des joueurs - Règles avancées#47|→]] Prêtre, Sous-domaines Extérieurs : Comment suis-je censé utiliser le sort de domaine *contrat intermédiaire* offert par ces sous-domaines ?***
 
-Il s'agit d'une erreur, dans le sens où il y a une incompatibilité d'alignement entre les <u>[sous-domaines](./Domaines.md#SOUSDOMAINES)</u> Extérieurs et les sorts *cercle magique* nécessaires au lien de leur type d'extérieur respectif. Par exemple, un prêtre chaotique avec le sous-domaine Protéens (Chaos) aurait besoin de lancer un *[cercle magique contre le Chaos](./Cercle magique contre le Chaos.md)* <nowiki>[</nowiki>Loi<nowiki>]</nowiki> pour lier un protéen chaotique, mais son alignement chaotique l'empêche de le faire (voir la section [Sorts du Bien, du Chaos, de la Loi et du Mal](./Prêtre.md#SORTSDUBIENDUCHAOSDELALOIETDUMAL) dans le *Manuel des joueurs*).
-La solution est d'autoriser l'utilisation du sort de domaine *[contrat intermédiaire](./Contrat intermédiaire.md)* sans avoir besoin du sort *cercle magique*. (si le prêtre souhaitait créer un diagramme d'appel pour améliorer ses chances, il pourrait solliciter l'aide d'un autre lanceur de sorts pour incanter le *cercle magique* nécessaire.)
-Ce texte sera modifié dans une future impression du *Manuel des joueurs - Règles avancées*.}{s:APG}**Les sous-domaines.** Chaque domaine se décline en sous-domaines associés. Ils remplacent un des pouvoirs accordés par la [divinité](./Divinités.md) ainsi qu’un certain nombre de sorts dans la liste du prêtre. Un prêtre qui choisit un sous-domaine particulier doit avoir accès à son domaine associé et au sous-domaine choisit grâce à sa divinité et ne peut pas choisir le domaine qui lui est associé comme autre domaine (en pratique, le sous-domaine remplace le domaine qui lui est associé). On considère que les sous-domaines ont les mêmes effets et les mêmes prérequis que les domaines auxquels ils sont associés. Si un sous-domaine est associé à deux domaines, le prêtre ne peut sélectionner que l’un des deux domaines. Les [druides](./Druide.md) peuvent également choisir des sous-domaines (à l’exception de celui du [Métal](./Domaine de la Terre.md#Sous-domaines_0)), de même que les [inquisiteur](./Inquisiteur.md) (si leur divinité le leur permet).
+Il s'agit d'une erreur, dans le sens où il y a une incompatibilité d'alignement entre les <u>[[Domaines#SOUSDOMAINES|sous-domaines]]</u> Extérieurs et les sorts *cercle magique* nécessaires au lien de leur type d'extérieur respectif. Par exemple, un prêtre chaotique avec le sous-domaine Protéens (Chaos) aurait besoin de lancer un *[[cercle magique contre le Chaos]]* <nowiki>[[</nowiki>Loi<nowiki>]]</nowiki> pour lier un protéen chaotique, mais son alignement chaotique l'empêche de le faire (voir la section [[Prêtre#SORTSDUBIENDUCHAOSDELALOIETDUMAL|Sorts du Bien, du Chaos, de la Loi et du Mal]] dans le *Manuel des joueurs*).
+La solution est d'autoriser l'utilisation du sort de domaine *[[contrat intermédiaire]]* sans avoir besoin du sort *cercle magique*. (si le prêtre souhaitait créer un diagramme d'appel pour améliorer ses chances, il pourrait solliciter l'aide d'un autre lanceur de sorts pour incanter le *cercle magique* nécessaire.)
+Ce texte sera modifié dans une future impression du *Manuel des joueurs - Règles avancées*.}{s:APG}**Les sous-domaines.** Chaque domaine se décline en sous-domaines associés. Ils remplacent un des pouvoirs accordés par la [[Divinités|divinité]] ainsi qu’un certain nombre de sorts dans la liste du prêtre. Un prêtre qui choisit un sous-domaine particulier doit avoir accès à son domaine associé et au sous-domaine choisit grâce à sa divinité et ne peut pas choisir le domaine qui lui est associé comme autre domaine (en pratique, le sous-domaine remplace le domaine qui lui est associé). On considère que les sous-domaines ont les mêmes effets et les mêmes prérequis que les domaines auxquels ils sont associés. Si un sous-domaine est associé à deux domaines, le prêtre ne peut sélectionner que l’un des deux domaines. Les [[Druide|druides]] peuvent également choisir des sous-domaines (à l’exception de celui du [[Domaine de la Terre#Sous-domaines_0|Métal]]), de même que les [[Inquisiteur]] (si leur divinité le leur permet).
 
-Si un pouvoir de domaine nécessite un [jet de sauvegarde](./JDS.md), le [DD](./DD.md) sera égal à 10 + la moitié du niveau de prêtre + le modificateur de [Sagesse](./Sagesse.md) du prêtre.
+Si un pouvoir de domaine nécessite un [[jds|jet de sauvegarde]], le [[DD]] sera égal à 10 + la moitié du niveau de prêtre + le modificateur de [[Sagesse]] du prêtre.
 
-*Voir la [liste des domaines](./Domaines.md) et [des sous-domaines](./Domaines.md#SOUSDOMAINES).*
+*Voir la [[Domaines|liste des domaines]] et [[Domaines#SOUSDOMAINES|des sous-domaines]].*
 
 {s:Reference|ORAISONS}
 #### Oraisons
-Les prêtres peuvent préparer un certain nombre d’oraisons (ou sorts de niveau 0) chaque jour, comme indiqué sur la Table "[Le Prêtre](./Prêtre.md#TABLEPRETRE)" sous la mention « Sorts par jour ». Il jette ces sorts comme les autres mais ils ne sont pas dépensés lorsqu’ils sont lancés et peuvent être utilisés à nouveau.
+Les prêtres peuvent préparer un certain nombre d’oraisons (ou sorts de niveau 0) chaque jour, comme indiqué sur la Table "[[prêtre#TABLEPRETRE|Le Prêtre]]" sous la mention « Sorts par jour ». Il jette ces sorts comme les autres mais ils ne sont pas dépensés lorsqu’ils sont lancés et peuvent être utilisés à nouveau.
 
 {s:ImageDroite|Illustrations/PNJ/Lazzero.jpg|35%}
 {s:Reference|INCANTATIONSPONTANEE}
 #### Incantation spontanée
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#16) Incantation spontanée et classes multiples : Puis-je spontanément lancer un sort d’une de mes classes en utilisant les emplacements de sorts d’une autre classe ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#16|→]] Incantation spontanée et classes multiples : Puis-je spontanément lancer un sort d’une de mes classes en utilisant les emplacements de sorts d’une autre classe ?***
 
-Non. Cela n’est possible que si le personnage possède une capacité de classe qui le permet explicitement, comme [sorts combinés](./Théurge mystique.md#SORTSCOMBINES). Cette règle s’applique même si les deux classes partagent une même liste de sorts ou si une des classes permet au personnage de convertir spontanément les emplacements de sorts de cette classe en certains sorts de la liste de cette classe, comme pour le <u>[druide](./Druide.md)</u> et le <u>[prêtre](./Prêtre.md)</u>.}Un prêtre Bon (ou un prêtre Neutre vénérant un dieu Bon) peut canaliser l’énergie réservée pour un sort afin de la transformer spontanément en un sort de soin. Le prêtre peut sacrifier n’importe quel sort préparé (à l’exception des [oraisons](./Prêtre.md#ORAISONS) et des sorts de domaine) pour pouvoir lancer un sort de soins de niveau égal ou inférieur (un sort de soins est un sort dont le nom comporte le mot « soins »).
+Non. Cela n’est possible que si le personnage possède une capacité de classe qui le permet explicitement, comme [[Théurge mystique#SORTSCOMBINES|sorts combinés]]. Cette règle s’applique même si les deux classes partagent une même liste de sorts ou si une des classes permet au personnage de convertir spontanément les emplacements de sorts de cette classe en certains sorts de la liste de cette classe, comme pour le <u>[[druide]]</u> et le <u>[[prêtre]]</u>.}Un prêtre Bon (ou un prêtre Neutre vénérant un dieu Bon) peut canaliser l’énergie réservée pour un sort afin de la transformer spontanément en un sort de soin. Le prêtre peut sacrifier n’importe quel sort préparé (à l’exception des [[prêtre#ORAISONS|oraisons]] et des sorts de domaine) pour pouvoir lancer un sort de soins de niveau égal ou inférieur (un sort de soins est un sort dont le nom comporte le mot « soins »).
 
 Un prêtre Mauvais (ou un prêtre Neutre vénérant un dieu Mauvais) ne peut pas convertir les sorts qu’il a préparés en sorts de soins mais il peut les transformer en sorts de blessure (un sort de blessure est un sort dont le nom comporte le mot « blessure »).
 
-Un prêtre Neutre dont la [divinité](./Divinités.md) est Neutre peut convertir les sorts qu’il a préparés en sorts de soins ou de blessure (selon le choix du joueur). Une fois que ce choix a été effectué, il ne peut plus être modifié. Cette décision indique également si l’énergie canalisée par le prêtre est positive ou négative (voir « [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) » plus haut).
+Un prêtre Neutre dont la [[Divinités|divinité]] est Neutre peut convertir les sorts qu’il a préparés en sorts de soins ou de blessure (selon le choix du joueur). Une fois que ce choix a été effectué, il ne peut plus être modifié. Cette décision indique également si l’énergie canalisée par le prêtre est positive ou négative (voir « [[prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] » plus haut).
 
 {s:Reference|SORTSDUBIENDUCHAOSDELALOIETDUMAL}
 #### Sorts du Bien, du Chaos, de la Loi et du Mal
-Un prêtre ne peut pas lancer de sorts dont l’alignement est opposé au sien ou à celui de son dieu (s’il en sert un). L’alignement d’un sort est indiqué dans sa description par les [registres](./Registre.md) Bien, Chaos, Loi et Mal.
+Un prêtre ne peut pas lancer de sorts dont l’alignement est opposé au sien ou à celui de son dieu (s’il en sert un). L’alignement d’un sort est indiqué dans sa description par les [[registre|registres]] Bien, Chaos, Loi et Mal.
 
 {s:Reference|LANGUESSUPPLEMENTAIRES}
 #### Langues supplémentaires
 
-Les options suivantes viennent s’ajouter à la liste des [langues](./Linguistique.md) que la race du personnage lui permet d’apprendre : céleste, abyssal, infernal (respectivement, les langages des [Extérieurs](./type Extérieur.md) d’alignement Bon, Chaotique-Mauvais et Loyal-Mauvais).
+Les options suivantes viennent s’ajouter à la liste des [[linguistique|langues]] que la race du personnage lui permet d’apprendre : céleste, abyssal, infernal (respectivement, les langages des [[type Extérieur|Extérieurs]] d’alignement Bon, Chaotique-Mauvais et Loyal-Mauvais).
 
 {s:Reference|DECHU}
 ### Prêtres déchus
-Un prêtre qui bafoue ouvertement le code de conduite imposé par son dieu perd tous ses sorts et toutes ses capacités de classe, à l’exception de la formation au maniement des armes courantes, à l’utilisation des boucliers et au port d’armures. Il ne peut plus gagner de niveau de prêtre de ce dieu tant qu’il n’a pas fait acte de contrition (voir le sort *[pénitence](./Pénitence.md)*).
+Un prêtre qui bafoue ouvertement le code de conduite imposé par son dieu perd tous ses sorts et toutes ses capacités de classe, à l’exception de la formation au maniement des armes courantes, à l’utilisation des boucliers et au port d’armures. Il ne peut plus gagner de niveau de prêtre de ce dieu tant qu’il n’a pas fait acte de contrition (voir le sort *[[pénitence]]*).

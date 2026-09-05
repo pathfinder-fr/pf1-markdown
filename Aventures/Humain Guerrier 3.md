@@ -21,7 +21,7 @@ LastModified: 2016-07-20 21:18
 (((Caractéristiques)))
 - **For** 17, **Dex** 13, **Con** 14, **Int** 10, **Sag** 12, **Cha** 8
 - **BBA **+3, **BMO **+6, **DMD** 17
-- **Dons** arme de prédilection (épée bâtarde), [Athlétisme](./../Pathfinder-RPG/Athlétisme.md), [Maniement dune arme exotique (épée bâtarde)](./../Pathfinder-RPG/Maniement dune arme exotique.md),  Attaque en puissance
+- **Dons** arme de prédilection (épée bâtarde), [[Pathfinder-RPG.Athlétisme|Athlétisme]], [[Pathfinder-RPG.Maniement dune arme exotique|Maniement dune arme exotique (épée bâtarde)]],  Attaque en puissance
 - **Compétences** Escalade +6, Natation +6, Intimidation +5
 - **Langues** commun, gobelin
 - **Particulier** (voir guerrier)

@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Le village de Sturnidae est situé dans le comté de [Barstoi](./Barstoi.md) en [Ustalav](./Ustalav.md).
+Le village de Sturnidae est situé dans le comté de [[Barstoi]] en [[Ustalav]].
 
 A proximité du village se trouve un territoire désert connu sous le nom des Sillons (the Furrows).

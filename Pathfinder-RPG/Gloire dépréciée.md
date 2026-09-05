@@ -15,9 +15,9 @@ Categories:
 ---
 
 {s:CMy}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[malédiction](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Méd](./Médium.md) 1, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 1, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
 **Composantes** V, G  
 
@@ -27,7 +27,7 @@ Categories:
 
 **Durée** 1 minute/niveau  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), annule ; **Résistance à la magie** oui  
+**Jet de sauvegarde** [[Volonté]], annule ; **Résistance à la magie** oui  
 
 
-La créature ciblée voit la dépense de [pouvoir mythique](./pouvoir mythique.md) pour toutes ses [aptitudes de voie](./aptitudes de voie.md), [dons](./Dons.md), [sorts](./Sorts.md) et autres effets augmenter de 1 utilisation.
+La créature ciblée voit la dépense de [[pouvoir mythique]] pour toutes ses [[aptitudes de voie]], [[dons]], [[sorts]] et autres effets augmenter de 1 utilisation.

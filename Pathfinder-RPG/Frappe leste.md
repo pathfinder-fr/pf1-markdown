@@ -13,10 +13,10 @@ Categories:
 
 **Catégorie.** combat
 
-**Conditions.** [homme-félin](./homme-félin (race).md), [Dex](./Dextérité.md) 13, [BBA](./BBA.md)+1, trait racial sprinter
+**Conditions.** [[homme-félin (race)|homme-félin]], [[Dextérité|Dex]] 13, [[BBA]]+1, trait racial sprinter
 
-**Avantages.** L’homme-félin ne reçoit pas de malus de -2 à la [CA](./CA.md) quand il utilise le don [Enchaînement](./Enchaînement.md), le don [Fente](./Fente.md) ou quand il charge.
+**Avantages.** L’homme-félin ne reçoit pas de malus de -2 à la [[CA]] quand il utilise le don [[Enchaînement]], le don [[Fente]] ou quand il charge.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise le don [Enchaînement](./Enchaînement.md) ou [Fente](./Fente.md), ou quand il [charge](./charge.md), il peut dépenser 5 points d’endurance pour gagner un bonus d’esquive de +2 à la [CA](./CA.md). Ce bonus persiste jusqu’au début de son prochain tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise le don [[Enchaînement]] ou [[Fente]], ou quand il [[charge]], il peut dépenser 5 points d’endurance pour gagner un bonus d’esquive de +2 à la [[CA]]. Ce bonus persiste jusqu’au début de son prochain tour.

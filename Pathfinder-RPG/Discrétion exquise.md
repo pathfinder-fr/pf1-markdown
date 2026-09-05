@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:UI}*Vous savez vous déplacer silencieusement même en portant certaines formes d'armure.*
 
-**Conditions.** [Dex](./Dex.md) 15, [Discrétion prudente](./Discrétion prudente.md), 6 rangs en [Discrétion](./Discrétion.md)
+**Conditions.** [[Dex]] 15, [[Discrétion prudente]], 6 rangs en [[Discrétion]]
 
-**Avantages.** Le personnage n'applique pas le [malus d'armure](./malus darmure.md) infligé par les armures légères et intermédiaires aux tests de Discrétion, peu importe la vitesse à laquelle il se déplace. Il est toujours impossible d'utiliser la Discrétion en [courant](./courir.md) ou en [chargeant](./charger.md).
+**Avantages.** Le personnage n'applique pas le [[malus darmure|malus d'armure]] infligé par les armures légères et intermédiaires aux tests de Discrétion, peu importe la vitesse à laquelle il se déplace. Il est toujours impossible d'utiliser la Discrétion en [[courir|courant]] ou en [[charger|chargeant]].

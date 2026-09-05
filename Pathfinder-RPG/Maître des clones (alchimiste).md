@@ -13,20 +13,20 @@ Categories:
 Il possède les aptitudes de classe suivantes.
 
 #### Bombe
-La bombe du maître des clones inflige des dégâts d’un dé de moins que la normale (une bombe ordinaire inflige des d4, les bombes assourdissantes des d3, etc.) En dehors de cela, ce pouvoir remplace le pouvoir standard de [bombes](./Alchimiste.md#BOMBES) de l’alchimiste et fonctionne de la même manière.
+La bombe du maître des clones inflige des dégâts d’un dé de moins que la normale (une bombe ordinaire inflige des d4, les bombes assourdissantes des d3, etc.) En dehors de cela, ce pouvoir remplace le pouvoir standard de [[Alchimiste#BOMBES|bombes]] de l’alchimiste et fonctionne de la même manière.
 
 #### Simulacre inférieur
-Au niveau 7, le maître des clones ajoute *[simulacre mineur](./Simulacre mineur.md)* à son livre de formules de niveau 3.
+Au niveau 7, le maître des clones ajoute *[[simulacre mineur]]* à son livre de formules de niveau 3.
 
 #### Renaissance
-Au niveau 8, le maître des clones peut préparer un clone de sa personne qui s’éveille s’il se fait tuer. La création coûte 5 000 po, demande une semaine de travail et trois de plus pour arriver à maturité. Si l’alchimiste meurt, le clone s’éveille comme si le personnage avait utilisé le sort *[clone](./Clone.md)* sur sa personne. Il ne peut avoir qu’une copie inerte de sa personne à la fois. Les clones inutilisés du maître ne décomposent pas. Ce pouvoir remplace la [résistance aux poisons](./Alchimiste.md#RESISTPOISON) +6 et l’[immunité aux poisons](./Alchimiste.md#IMMUNITEAUPOISON).
+Au niveau 8, le maître des clones peut préparer un clone de sa personne qui s’éveille s’il se fait tuer. La création coûte 5 000 po, demande une semaine de travail et trois de plus pour arriver à maturité. Si l’alchimiste meurt, le clone s’éveille comme si le personnage avait utilisé le sort *[[clone]]* sur sa personne. Il ne peut avoir qu’une copie inerte de sa personne à la fois. Les clones inutilisés du maître ne décomposent pas. Ce pouvoir remplace la [[Alchimiste#RESISTPOISON|résistance aux poisons]] +6 et l’[[Alchimiste#IMMUNITEAUPOISON|immunité aux poisons]].
 
 
 #### Simulacre
-Au niveau 13, le maître des clones ajoute *[simulacre](./Simulacre.md)* à son livre de formules comme extrait de niveau 5.
+Au niveau 13, le maître des clones ajoute *[[simulacre]]* à son livre de formules comme extrait de niveau 5.
 
 #### Clone
-Au niveau 16, le maître des clones ajoute *[clone](./Clone.md)* à son livre de formules comme extrait de niveau 6.
+Au niveau 16, le maître des clones ajoute *[[clone]]* à son livre de formules comme extrait de niveau 6.
 
 #### Découvertes
-Les découvertes suivantes viennent compléter l’archétype du maître des clones : [jumeau parasite](./découvertes.md#JUMEAUPARASITE), [préservation des organes](./découvertes.md#PRESERVATIONDESORGANES) et [simulacre alchimique](./découvertes.md#SIMULACREALCHIMIQUE), [simulacre de doppelganger](./découvertes.md#SIMULACREDEDOPPELGANGER).
+Les découvertes suivantes viennent compléter l’archétype du maître des clones : [[Découvertes#JUMEAUPARASITE|jumeau parasite]], [[Découvertes#PRESERVATIONDESORGANES|préservation des organes]] et [[Découvertes#SIMULACREALCHIMIQUE|simulacre alchimique]], [[Découvertes#SIMULACREDEDOPPELGANGER|simulacre de doppelganger]].

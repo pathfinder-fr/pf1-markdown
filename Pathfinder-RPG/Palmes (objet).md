@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 1 pa ; **Poids** 2,5 kg<sup>[1](./Outils de compétences.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+{s:cs}{s:AA}**Prix** 1 pa ; **Poids** 2,5 kg<sup>[[Outils de compétences#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Les palmes ajoutent 3 m à la vitesse de nage du personnage mais réduisent sa vitesse de base à 1,5 m. Enfiler ou retirer des palmes nécessite 5 [rounds](./round.md) complets.
+Les palmes ajoutent 3 m à la vitesse de nage du personnage mais réduisent sa vitesse de base à 1,5 m. Enfiler ou retirer des palmes nécessite 5 [[round|rounds]] complets.

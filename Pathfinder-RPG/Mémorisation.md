@@ -4,22 +4,22 @@ Title: Mémorisation
 LastModified: 2018-12-02 20:44
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Mag](./Magicien.md) 4  
+**École** [[Transmutation]] ; **Niveau** [[magicien|Mag]] 4  
 
 **Temps d'incantation** 10 minutes  
 
-**Composantes** [V, G, M](./composantes.md) (un bout de ficelle et de l’encre à base de seiche et de sang de dragon noir)[, F](./composantes.md) (une plaque d’ivoire (50 po))  
+**Composantes** [[composantes|V, G, M]] (un bout de ficelle et de l’encre à base de seiche et de sang de dragon noir)[[composantes|, F]] (une plaque d’ivoire (50 po))  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** [instantanée](./instantanée.md)
+**Durée** [[instantanée]]
 
 Cette incantation permet de préparer des sorts supplémentaires ou de les conserver en mémoire. Les deux effets possibles de ce sort sont :
 
-**Préparation.** Le personnage peut préparer trois niveaux de sorts supplémentaires. Un tour de magie (sort du niveau 0) compte pour un demi-niveau de sort. Le [magicien](./Magicien.md) prépare et lance ces sorts normalement.
+**Préparation.** Le personnage peut préparer trois niveaux de sorts supplémentaires. Un tour de magie (sort du niveau 0) compte pour un demi-niveau de sort. Le [[magicien]] prépare et lance ces sorts normalement.
 
-**Conservation en mémoire.** Le personnage garde en tête le sort qu’il a jeté 1 [round](./round.md) avant de lancer *mémorisation*. Le sort en question (qui doit être au maximum du 3e niveau) réapparaît aussitôt dans son esprit.
+**Conservation en mémoire.** Le personnage garde en tête le sort qu’il a jeté 1 [[round]] avant de lancer *mémorisation*. Le sort en question (qui doit être au maximum du 3e niveau) réapparaît aussitôt dans son esprit.
 
 Quel que soit l’effet choisi, le ou les sorts affectés par *mémorisation* disparaissent de l’esprit du personnage au bout de vingt-quatre heures s’ils n’ont pas été lancés d’ici-là.

@@ -12,46 +12,46 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2 p.174*}
 {s:BDTexte|**PX** 307.200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [inévitable](./sous-type Inévitable.md), [Loi](./sous-type Loi.md)) de taille TG, LN}
-{s:BDTexte|**Init** +5 ; **Sens** [détection de la magie](./Détection de la magie.md), [détection du Chaos](./Détection du Chaos.md), [vision dans le noir](./vision dans le noir.md) 18 m, [vision lucide](./Vision lucide.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +34}
-{s:BDTexte|**Aura** [bouclier de la Loi](./Bouclier de la Loi.md) (DD 23)}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type inévitable|inévitable]], [[sous-type Loi|Loi]]) de taille TG, LN}
+{s:BDTexte|**Init** +5 ; **Sens** [[détection de la magie]], [[détection du Chaos]], [[vision dans le noir]] 18 m, [[vision lucide]], [[vision nocturne]] ; [[Perception]] +34}
+{s:BDTexte|**Aura** [[bouclier de la Loi]] (DD 23)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 36, contact 18, pris au dépourvu 35 (Dex +1, intuition +5, naturelle +18, parade +4, taille –2)}
-{s:BDTexte|**pv** 337 (22d10+216) ; [régénération](./Régénération.md) 10 (Chaos)}
+{s:BDTexte|**pv** 337 (22d10+216) ; [[régénération]] 10 (Chaos)}
 {s:BDTexte|**Réf** +12, **Vig** +25, **Vol** +22}
 {s:BDTexte|**Capacités défensives** *fabriqué* ; *RD* 15/Chaos ; *Immunités sorts d’énergie* ; *RM* 31}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 18 m (parfaite)}
-{s:BDTexte|**Corps à corps** *lance sanglante +2*, +32/+27/+22/+17 (3d6+17/x3 plus 1 [saignement](./Saignement.md)) et *épée longue sanglante +2*, +32 (3d6+12/19– 20 plus 1 saignement) et *morgenstern sanglant +2*, +32 (3d6+12 plus 1 saignement) ou *4 coups*, +30 (2d8+10)}
+{s:BDTexte|**Corps à corps** *lance sanglante +2*, +32/+27/+22/+17 (3d6+17/x3 plus 1 [[saignement]]) et *épée longue sanglante +2*, +32 (3d6+12/19– 20 plus 1 saignement) et *morgenstern sanglant +2*, +32 (3d6+12 plus 1 saignement) ou *4 coups*, +30 (2d8+10)}
 {s:BDTexte|**Distance** *2 traits d’énergie*, +21 (10d6 énergie)}
 {s:BDTexte|**Espace**  4,50 m (3c) ; **Allonge** 4,50 m (3c)}
 {s:BDTexte|**Attaques spéciales** armes sanglantes, maîtrise du combat à plusieurs armes, prédiction parfaite, réflexes intuitifs}
 {s:BDTexte|**Pouvoirs magiques** (NLS 22, concentration +27)}
-{s:BDSorts|Constant — *[bouclier de la Loi](./Bouclier de la Loi.md)* (DD 23), *[détection de la magie](./Détection de la magie.md)*, *[détection du Chaos](./Détection du Chaos.md)*, *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|À volonté — *[communication à distance](./Communication à distance.md)*, *[dissipation de la magie](./Dissipation de la magie.md)*, *[téléportation suprême](./Téléportation suprême.md)* (personnel et 25 kg d’objets uniquement)}
-{s:BDSorts|3/jour — *[ancre dimensionnelle](./Ancre dimensionnelle.md)* (DD 19), *[changement de plan](./Changement de plan.md)* (DD20), *[décret](./Décret.md)* (DD 22), *[désintégration](./Désintégration.md)* (DD21), *[mur de force](./Mur de force.md)*, *[renvoi](./Renvoi.md)* (DD20), *[scrutation suprême](./Scrutation suprême.md)* (DD 22), *[verrou dimensionnel](./Verrou dimensionnel.md)* (DD 23)}
-{s:BDSorts|1/jour — *[emprisonnement](./Emprisonnement.md)* (DD 24)}
+{s:BDSorts|Constant — *[[bouclier de la Loi]]* (DD 23), *[[détection de la magie]]*, *[[détection du Chaos]]*, *[[vision lucide]]*}
+{s:BDSorts|À volonté — *[[communication à distance]]*, *[[dissipation de la magie]]*, *[[téléportation suprême]]* (personnel et 25 kg d’objets uniquement)}
+{s:BDSorts|3/jour — *[[ancre dimensionnelle]]* (DD 19), *[[changement de plan]]* (DD20), *[[décret]]* (DD 22), *[[désintégration]]* (DD21), *[[mur de force]]*, *[[renvoi]]* (DD20), *[[scrutation suprême]]* (DD 22), *[[verrou dimensionnel]]* (DD 23)}
+{s:BDSorts|1/jour — *[[emprisonnement]]* (DD 24)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 31, **Dex** 13, **Con** 26, **Int** 14, **Sag** 21, **Cha** 20}
-{s:BDTexte|**BBA** +22, **BMO** +34, **DMD** 50 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Bousculade supérieure](./Bousculade supérieure.md), [Combat en aveugle](./Combat en aveugle.md), [Expertise du combat](./Expertise du combat.md), [Frappe décisive](./Frappe décisive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md),  [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Science du désarmement](./Science du désarmement.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8 (+12 pour sauter), [Art de la magie](./Art de la magie.md) +24, [Connaissances](./Connaissances.md) (mystères) +24, [Connaissances](./Connaissances.md) (plans) +27, [Intimidation](./Intimidation.md) +30, [Perception](./Perception.md) +34, [Psychologie](./Psychologie.md) +30, [Vol](./Vol.md) +30 ; **Modificateurs raciaux** +4 [Perception](./Perception.md)}
-{s:BDTexte|**Langues** [langage universel](./langage-universel.md)}
+{s:BDTexte|**BBA** +22, **BMO** +34, **DMD** 50 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Bousculade supérieure]], [[Combat en aveugle]], [[Expertise du combat]], [[Frappe décisive]], [[Frappe décisive supérieure]],  [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Science du désarmement]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8 (+12 pour sauter), [[Art de la magie]] +24, [[Connaissances]] (mystères) +24, [[Connaissances]] (plans) +27, [[Intimidation]] +30, [[Perception]] +34, [[Psychologie]] +30, [[Vol]] +30 ; **Modificateurs raciaux** +4 [[Perception]]}
+{s:BDTexte|**Langues** [[langage universel]]}
 {s:BDTexte|**Particularités** prédiction parfaite}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** double (*épée longue +2*, *lance +2*, *morgenstern +2*, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Armes sanglantes (Sur).**Toutes les armes maniées par un lhaksharut acquièrent la propriété spéciale d’arme [sanglante](./sanglante (propriété).md) tant qu’elles restent dans les mains du lhaksharut.}
-{s:BDTexte|**Immunité contre les sorts d’énergie (Ext).**Un lhaksharut est immunisé contre tous les sorts et pouvoirs magiques qui possède un descripteur parmi acide, électricité, feu, froid et son et qui peuvent être bloqués par la [résistance à la magie](./résistance à la magie.md).}
+{s:BDTexte|**Armes sanglantes (Sur).**Toutes les armes maniées par un lhaksharut acquièrent la propriété spéciale d’arme [[sanglante (propriété)|sanglante]] tant qu’elles restent dans les mains du lhaksharut.}
+{s:BDTexte|**Immunité contre les sorts d’énergie (Ext).**Un lhaksharut est immunisé contre tous les sorts et pouvoirs magiques qui possède un descripteur parmi acide, électricité, feu, froid et son et qui peuvent être bloqués par la [[résistance à la magie]].}
 {s:BDTexte|**Maîtrise du combat à plusieurs armes (Ext).**Un lhaksharut peut combattre avec plusieurs armes sans que cela ne lui inflige de pénalités aux jets d’attaque.}
-{s:BDTexte|**Prédiction parfaite (Sur).**Un lhaksharut gagne un bonus d’intuition à la [CA](./CA.md) égal à son bonus de [Sagesse](./Sagesse.md).}
-{s:BDTexte|**Réflexes intuitifs (Ext).**Un lhaksharut utilise son modificateur de [Sagesse](./Sagesse.md) au lieu de celui de [Dextérité](./Dextérité.md) pour déterminer combien d’[attaques d’opportunité](./attaque dopportunité.md) supplémentaires le don d’[Attaques réflexes](./Attaques réflexes.md) lui octroie. La plupart des lhaksharuts gagnent 5 [attaques d’opportunité](./attaque dopportunité.md) supplémentaires grâce à ce don.}
+{s:BDTexte|**Prédiction parfaite (Sur).**Un lhaksharut gagne un bonus d’intuition à la [[CA]] égal à son bonus de [[Sagesse]].}
+{s:BDTexte|**Réflexes intuitifs (Ext).**Un lhaksharut utilise son modificateur de [[Sagesse]] au lieu de celui de [[Dextérité]] pour déterminer combien d’[[attaque dopportunité|attaques d’opportunité]] supplémentaires le don d’[[Attaques réflexes]] lui octroie. La plupart des lhaksharuts gagnent 5 [[attaque dopportunité|attaques d’opportunité]] supplémentaires grâce à ce don.}
 {s:BDTexte|**Trait d’énergie (Sur).**  Un lhaksharut peut tirer des traits d’énergie élémentaires à partir de deux de ses six bras (il ne tient jamais d’armes dans ces deux bras). Ces attaques possèdent un facteur de portée de 30 mètres et infligent 10d6 points de dégâts d’énergie (le type est choisi par l’inévitable au moment où chaque trait est tiré : acide, électricité, feu ou froid). Il peut lancer deux traits d’énergie par une action simple et ne peut pas attaquer avec ces mains lorsqu’il effectue des attaques par armes ou des attaques de coup à l’aide de ses autres membres.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [inévitables](./Inévitable.md).***</li></ul>*Cette créature à six bras semble être faite de pierre. En-dessous de son torse, son corps est formé d’un ensemble d’anneaux de métal qui pivotent.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Inévitable|inévitables]].***</li></ul>*Cette créature à six bras semble être faite de pierre. En-dessous de son torse, son corps est formé d’un ensemble d’anneaux de métal qui pivotent.*
 
 Les lhaksharuts se présentent généralement sous la forme de créatures artificielles dotées de six bras et composées d’un mélange de pierre et de métaux. Au lieu de jambes humaines, ils possèdent une orbe complexe faites d’anneaux tourbillonnant ressemblant un peu à un planétaire. C’est cette machinerie en rotation constante qui leur permet de voler. Les lhaksharuts possèdent d’immenses ailes de métal, mais leur utilité se réduit à assurer une certaine stabilité en vol. Ces créatures artificielles possèdent quatre bras se terminant par des mains articulées généralement utilisées pour tenir des armes. Les deux bras inférieurs, quant à eux, tiennent des sphères de métal enflammé que les lhaksharuts utilisent pour créer des traits d’énergie élémentaire qu’ils peuvent projeter sur de longues distances pour blesser leurs ennemis.
 
@@ -66,7 +66,7 @@ un lien entre deux plans pour qu’il autorise l’existence d’un portail, au 
 insistent pour obtenir des garanties que les alliés en question rempliront bien leur part du marché une fois qu’ils auront eu ce qu’ils désiraient.
 
 Au combat, un lhaksharut tire parti de sa vitesse et de sa mobilité pour se rapprocher de ses cibles. Il considère les groupes comme des machines imparfaites et sait que la meilleure manière de les vaincre est de perturber leur fonctionnement en s’attaquant à leurs points faibles. Si c’est nécessaire, il s’occupe des créatures qui semblent capables de le blesser directement, mais l’inévitable préfère éliminer tout d’abord les soigneurs, les éclaireurs et les porteurs de bouclier avant de s’attaquer aux combattants et aux lanceurs de sorts puissants. Il est impossible d’inciter un lhaksharut à changer de tactique en utilisant la moquerie ou l’appât du gain : l’inévitable est complètement dénué d’émotions et ne se préoccupe que de l’efficacité de son plan de bataille. Il combat également
-sans se préoccuper de sa propre survie, confiant dans le fait que sa [régénération](./Régénération.md) pourra le ramener à la vie ou qu’un autre inévitable sera créé pour prendre sa place.
+sans se préoccuper de sa propre survie, confiant dans le fait que sa [[régénération]] pourra le ramener à la vie ou qu’un autre inévitable sera créé pour prendre sa place.
 
 Quand les lhaksharuts ne s’intéressent pas à une menace à la sacro-sainte division des plans et qu’ils ne sont pas en danger immédiat, ils peuvent être de conversation agréable. Quand aucune mission ne les requiert, ils peuvent tout aussi bien passer leur temps à flotter dans le vide qu’à protéger une place-forte. Les lhaksharuts savent que les domaines dont ils ont la charge sont bien trop vastes pour pouvoir être surveillés efficacement. C’est pour cela
 que certains d’entre eux se créent un réseau d’informateurs capables de patrouiller dans de nombreux plans et prêts à informer l’inévitable de toute possibilité de brèche. Les créatures artificielles n’ont aucun besoin des trésors qu’ils récupèrent sur ceux qu’ils combattent. Elles s’en servent parfois pour payer des informations pouvant les mener à une infraction planaire. Tous ceux qui pourraient être des informateurs précieux sont traités de manière respectueuse et peuvent même apprendre de nombreuses choses au sujet des plans et tirer parti des vastes connaissances des lhaksharuts en la matière, du moins tant que les questions ne s’approchent pas trop du domaine dangereux de la combinaison des plans.

@@ -7,6 +7,6 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-La créature peut lancer des sorts de la [liste de sorts de l’ensorceleur/magicien](./Liste des sorts densorceleursmagiciens.md). Choisissez un nombre de sorts comptabilisant un nombre total de niveaux de sorts égal au [FP](./FP.md)×2 de la créature. Ce pouvoir n’autorise pas les sorts ayant un niveau supérieur à 1 + FP/2 de la créature. Les sorts de niveau 0 comptent comme un 1/2 niveau de sort dans ce total. La créature peut lancer chacun de ces sorts une fois par jour. Son [niveau de lanceur de sorts](./NLS.md) est égal à ses [dés de vie](./../Ressources/DV.md) et elle utilise son modificateur le plus élevé (entre l’[Intelligence](./Intelligence.md) et le [Charisme](./Charisme.md)) pour déterminer le [DD](./DD.md) de ses sorts.
+La créature peut lancer des sorts de la [[Liste des sorts densorceleursmagiciens|liste de sorts de l’ensorceleur/magicien]]. Choisissez un nombre de sorts comptabilisant un nombre total de niveaux de sorts égal au [[FP]]×2 de la créature. Ce pouvoir n’autorise pas les sorts ayant un niveau supérieur à 1 + FP/2 de la créature. Les sorts de niveau 0 comptent comme un 1/2 niveau de sort dans ce total. La créature peut lancer chacun de ces sorts une fois par jour. Son [[NLS|niveau de lanceur de sorts]] est égal à ses [[DV|dés de vie]] et elle utilise son modificateur le plus élevé (entre l’[[Intelligence]] et le [[Charisme]]) pour déterminer le [[DD]] de ses sorts.
 
 *Format :* incantation profane simple ; *Emplacement :* Attaques spéciales.

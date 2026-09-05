@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 pc ; **Poids** 2,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Cette cruche toute simple en argile a une poignée et un col ouvert avec un bec verseur. Elle peut contenir jusqu'à 2,25 litres de liquide. Le poids est indiqué pour une cruche remplie d'eau, de vin ou de bière, vide, elle pèse environ 0,25 kg.

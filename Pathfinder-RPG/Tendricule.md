@@ -14,23 +14,23 @@ Categories:
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 - *Source : Bestiaire 2, p.260*
 - **PX** 2 400
-- [Plante](./type Plante.md) de taille TG, N
-- **Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7
+- [[type Plante|Plante]] de taille TG, N
+- **Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +7
 (((Défense)))
 - **CA** 19, contact 7, pris au dépourvu 19 (Dex –1, naturelle +12, taille –2)
-- **pv** 76 (9d8+36) ; [régénération](./Régénération (capacité).md) 10 (contondant ou feu)
+- **pv** 76 (9d8+36) ; [[régénération (capacité)|régénération]] 10 (contondant ou feu)
 - **Réf** +4, **Vig** +10, **Vol** +4
-- **Immunités** acide, [traits des plantes](./type Plante.md)
+- **Immunités** acide, [[type plante|traits des plantes]]
 (((Attaque)))
 - **VD** 6 m (4 {s:c})
-- **Corps à corps** morsure, +11 (2d6+7 plus [étreinte](./Étreinte.md)) et 2 tentacules, +6 (1d6+3 plus [étreinte](./Étreinte.md))
+- **Corps à corps** morsure, +11 (2d6+7 plus [[étreinte]]) et 2 tentacules, +6 (1d6+3 plus [[étreinte]])
 - **Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})
-- **Attaques spéciales** [engloutissement](./Engloutissement.md) (2d6 acide plus paralysie, CA 15, 7 pv), [paralysie](./paralysie.md) (3d6 rounds, DD 18)
+- **Attaques spéciales** [[engloutissement]] (2d6 acide plus paralysie, CA 15, 7 pv), [[paralysie]] (3d6 rounds, DD 18)
 (((Statistiques)))
 - **For** 24, **Dex** 9, **Con** 18, **Int** 3, **Sag** 8, **Cha** 3
-- **BBA** +6 ; **BMO** +15 (+19 lutte) ; **DMD** 24 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Discrétion](./Discrétion.md) +1 (+9 dans les fourrés), [Perception](./Perception.md) +7 ; **Modificateurs raciaux** +8 [Discrétion](./Discrétion.md) dans les fourrés
+- **BBA** +6 ; **BMO** +15 (+19 lutte) ; **DMD** 24 ([[croc-en-jambe]] impossible)
+- **Dons** [[Attaque en puissance]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Discrétion]]), [[Volonté de fer]]
+- **Compétences** [[Discrétion]] +1 (+9 dans les fourrés), [[Perception]] +7 ; **Modificateurs raciaux** +8 [[Discrétion]] dans les fourrés
 - **Langues** sylvestre (incapable de parler)
 (((Écologie)))
 - **Environnement** forêts tempérées ou chaudes

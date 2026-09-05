@@ -9,6 +9,6 @@ Categories:
 
 {s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**Prix** 60 po ; **Poids** 6 kg ; **Groupes** —
 **Dégâts** 1d8 (P), 1d10 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** voir texte
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
 ---
-Cette lourde hache d’armes ressemble à une [hache d’armes naine](./Hache darmes naine (arme).md) ordinaire, mais ses lames sont recourbées de part et d’autre, comme les ailes d’un papillon mortel. La hache donne un bonus de +1 aux [jets d’attaque](./jet dattaque.md) qui suivent le premier quand le personnage utilise [Enchaînement](./Enchaînement.md) ou [Succession d’enchaînements](./Succession denchaînements.md).
+Cette lourde hache d’armes ressemble à une [[hache darmes naine (arme)|hache d’armes naine]] ordinaire, mais ses lames sont recourbées de part et d’autre, comme les ailes d’un papillon mortel. La hache donne un bonus de +1 aux [[jet dattaque|jets d’attaque]] qui suivent le premier quand le personnage utilise [[Enchaînement]] ou [[Succession denchaînements|Succession d’enchaînements]].

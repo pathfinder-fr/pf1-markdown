@@ -9,8 +9,8 @@ Categories:
 
 {s:AO}*Le personnage peut utiliser ses inductions d’hypnotiseur plus souvent que les autres.*
 
-**Conditions.** Pouvoir de classe [induction d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR)
+**Conditions.** Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]]
 
-**Avantage.** Le personnage a droit à deux [inductions d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR) quotidiennes de plus.
+**Avantage.** Le personnage a droit à deux [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|inductions d’hypnotiseur]] quotidiennes de plus.
 
 **Spécial.** Le personnage peut choisir ce don à plusieurs reprises, ses effets se cumulent.

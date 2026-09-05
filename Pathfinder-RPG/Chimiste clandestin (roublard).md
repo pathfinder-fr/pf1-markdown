@@ -13,10 +13,10 @@ Categories:
 {s:Menuarchétyperoublard}{s:mca}*Les chimistes clandestins occupent les entrailles fétides et pourrissantes du monde alchimique. Ils n’arrivent pas à la cheville des véritables alchimistes mais leurs potions et leurs substances alchimiques ne sont pas moins retorses et dangereuses pour autant.*
 
 #### Armes chimiques (Ext)
-Au niveau 2, un chimiste clandestin est capable de prendre un objet alchimique en main comme s’il dégainait une arme. Il ajoute son modificateur d’[Intelligence](./Intelligence.md) aux dégâts infligés par les armes à aspersion, y compris aux dégâts d’aspersion. Il ajoute la moitié de son niveau aux tests d’[Artisanat](./Artisanat.md) (alchimie). Cette aptitude remplace esquive totale.
+Au niveau 2, un chimiste clandestin est capable de prendre un objet alchimique en main comme s’il dégainait une arme. Il ajoute son modificateur d’[[Intelligence]] aux dégâts infligés par les armes à aspersion, y compris aux dégâts d’aspersion. Il ajoute la moitié de son niveau aux tests d’[[Artisanat]] (alchimie). Cette aptitude remplace esquive totale.
 
 #### Armes à aspersion précises (Ext)
-Au niveau 4, un chimiste clandestin peut infliger des dégâts d’[attaque sournoise](./attaque sournoise.md) avec des armes à aspersion. L’attaque doit être la première du round, elle doit respecter les règles qui autorisent l’application des dégâts d’attaque sournoise (contre une cible prise au dépourvue par exemple) et doit être dirigée contre une créature et non une case. Cette aptitude remplace le talent de roublard obtenu au niveau 4.
+Au niveau 4, un chimiste clandestin peut infliger des dégâts d’[[attaque sournoise]] avec des armes à aspersion. L’attaque doit être la première du round, elle doit respecter les règles qui autorisent l’application des dégâts d’attaque sournoise (contre une cible prise au dépourvue par exemple) et doit être dirigée contre une créature et non une case. Cette aptitude remplace le talent de roublard obtenu au niveau 4.
 
 #### Découverte (Sur)
 Au niveau 10, un chimiste clandestin peut choisir d’une des découvertes d’alchimiste suivantes à la place d’un talent de roublard : chair écoeurante, dilution, guérison spontanée, momification, poison collant, poison concentré, potion améliorée, potion prolongée, préservation des organes, transformation de poison. Il remplace le niveau d’alchimiste par son niveau de roublard pour déterminer les effets de ses découvertes et le niveau nécessaire pour les choisir. Cette aptitude remplace talents de maître roublard.

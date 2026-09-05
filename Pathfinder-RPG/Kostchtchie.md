@@ -13,7 +13,7 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4 page 244 et Livre des Damnés page 87*}
 {s:BDTexte|Seigneur démon (m) du froid, des géants et de la vengeance}
 - **2 457 600 PX**
-- [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [froid](./sous-type froid.md), [Mal](./sous-type Mal.md)) de taille TG, CM 
+- [[type extérieur|Extérieur]] ([[sous-type chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type froid|froid]], [[sous-type mal|Mal]]) de taille TG, CM 
 - **Init **+6 ; Sens détection de la Loi, détection du Bien, vision dans le noir 18 m, vision lucide ; Perception +52
 - **Aura **aura maudite (DD 26), présence terrifiante (36 m, DD 33)
 (((Défense)))
@@ -29,16 +29,16 @@ Categories:
 - **Espace **4,50 m ; **Allonge **4,50 m
 - **Attaques spéciales **agripper son ennemi, coup percutant, ennemis jurés (géants +4, humains +4, voir plus bas), frappe vengeresse, gifle puissante, lancer de rochers (180 m)
 - **Pouvoirs magiques** (**NLS **26 ; concentration +34)
-  - *Constant *— [aura maudite](./Aura maudite.md) (DD 26), [détection de la Loi](./Détection de la Loi.md), [détection du Bien](./Détection du Bien.md), [liberté de mouvement](./Liberté de mouvement.md), [marche dans les airs](./Marche dans les airs.md), [vision lucide](./Vision lucide.md) 
-  - *À volonté* — [agrandissement](./Agrandissement.md)*, [blasphème](./Blasphème.md)* (DD 25), [changement de forme](./Changement de forme.md), [cône de froid](./Cône de froid.md)* (DD 23), [dissipation suprême](./Dissipation suprême.md), [profanation](./Profanation.md)*, [projection astrale](./Projection astrale.md), [sanctification maléfique](./Sanctification maléfique.md), [télékinésie](./Télékinésie.md)* (DD 23), [téléportation suprême](./Téléportation suprême.md), [ténèbres maudites](./Ténèbres maudites.md)* (DD 22) 
-  - *3/jour*— convocation de démons, [mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md), [rayon polaire](./Rayon polaire.md)*, [symbole d’étourdissement](./Symbole détourdissement.md) (DD 25)
-  - *1/jour*— [arrêt du temps](./Arrêt du temps.md)*, [nuit polaire](./Nuit polaire.md) (DD 27), [prison de glace de groupe](./Prison de glace de groupe.md) (DD 27)
+  - *Constant *— [[aura maudite]] (DD 26), [[détection de la Loi]], [[détection du Bien]], [[liberté de mouvement]], [[marche dans les airs]], [[vision lucide]] 
+  - *À volonté* — [[agrandissement]]*, [[blasphème]]* (DD 25), [[changement de forme]], [[cône de froid]]* (DD 23), [[dissipation suprême]], [[profanation]]*, [[projection astrale]], [[sanctification maléfique]], [[télékinésie]]* (DD 23), [[téléportation suprême]], [[ténèbres maudites]]* (DD 22) 
+  - *3/jour*— convocation de démons, [[mot de pouvoir étourdissant]], [[rayon polaire]]*, [[symbole détourdissement|symbole d’étourdissement]] (DD 25)
+  - *1/jour*— [[arrêt du temps]]*, [[nuit polaire]] (DD 27), [[prison de glace de groupe]] (DD 27)
 (*) Kostchtchie peut utiliser les versions mythiques de ces sorts quand il se trouve dans son royaume.
 (((Statistiques)))
 - **For **48, **Dex **23, **Con **38, **Int **25, **Sag **30, **Cha **27
 - **BBA **+31 ; **BMO **+52 (+54 bousculade, +56 destruction d’arme, +56 lutte) ; **DMD **86 (88 contre bousculade et destruction d’arme)
-- **Dons **[Arme en main](./Arme en main.md), [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [Création de créatures artificielles](./Création de créatures artificielles.md), [Création d’objets merveilleux](./Création dobjets merveilleux.md), [Critique ralentissant](./Critique ralentissant.md), [Destruction d’arme supérieure](./Destruction darme supérieure.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive](./Frappe décisive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la destruction](./Science de la destruction.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science du critique](./Science du critique.md) (marteau de guerre), [Surprise](./Surprise.md)
-- **Compétences **[Art de la magie](./Art de la magie.md) +41, [Bluff](./Bluff.md) +42, [Connaissances](./Connaissances.md) (folklore local) +41, [Connaissances](./Connaissances.md) (ingénierie) +38, [Connaissances](./Connaissances.md) (mystères) +41, [Connaissances](./Connaissances.md) (plans) +41, [Connaissances](./Connaissances.md) (religion) +38, [Discrétion](./Discrétion.md) +32, [Escalade](./Escalade.md) +58, [Intimidation](./Intimidation.md) +42, [Perception](./Perception.md) +52, [Psychologie](./Psychologie.md) +44, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +39 ; Modificateurs raciaux +8 en Perception
+- **Dons **[[Arme en main]], [[Attaque en puissance]], [[Coup fabuleux]], [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[Création de créatures artificielles]], [[Création dobjets merveilleux|Création d’objets merveilleux]], [[Critique ralentissant]], [[Destruction darme supérieure|Destruction d’arme supérieure]], [[Don pour les critiques]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Science de la bousculade]], [[Science de la destruction]], [[Science de la frappe décisive]], [[Science du critique]] (marteau de guerre), [[Surprise]]
+- **Compétences **[[Art de la magie]] +41, [[Bluff]] +42, [[Connaissances]] (folklore local) +41, [[Connaissances]] (ingénierie) +38, [[Connaissances]] (mystères) +41, [[Connaissances]] (plans) +41, [[Connaissances]] (religion) +38, [[Discrétion]] +32, [[Escalade]] +58, [[Intimidation]] +42, [[Perception]] +52, [[Psychologie]] +44, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +39 ; Modificateurs raciaux +8 en Perception
 - **Langues **abyssal, céleste, commun, draconique, géant ; télépathie 90 m
 - **Particularités **traits des seigneurs démons
 (((Écologie)))
@@ -81,11 +81,11 @@ de ce sort, le personnage peut lancer le sort cône de froid
 pouvoir est équivalent à un sort de niveau 9.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs démons](./Seigneurs démons.md).***</li></ul>*Cet immense géant aux jambes tordues a tissé des crânes humains dans sa barbe et brandit un gigantesque marteau de guerre.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs démons]].***</li></ul>*Cet immense géant aux jambes tordues a tissé des crânes humains dans sa barbe et brandit un gigantesque marteau de guerre.*
 
 Kostchtchie (prononcer koch-TIC-ti-kaï) ressemble à un gigantesque géant du froid difforme, aux jambes tordues, doté de petits yeux blancs et d’une épaisse barbe hirsute ornée de dizaines de crânes, trophées représentant les rois et les prêtres mortels de religions ennemies tués de sa main. La légende dit que ces crânes sont hantés par le fantôme de leur propriétaire et que Kostchtchie peut communier avec eux pour puiser dans leur sagesse. Toutefois, si la légende dit vrai, Kostchtchie s’adresse à ces pauvres âmes uniquement lorsqu’il désire les tourmenter et se moquer d’elles.
 
-Kostchtchie ne se déplace jamais sans son impressionnant marteau, une arme en adamantium d’une taille prodigieuse que même le plus fort des géants du froid aurait bien du mal à manier. Le [seigneur démon](./Seigneurs démons.md) est connu comme le Froid immortel.
+Kostchtchie ne se déplace jamais sans son impressionnant marteau, une arme en adamantium d’une taille prodigieuse que même le plus fort des géants du froid aurait bien du mal à manier. Le [[Seigneurs démons|seigneur démon]] est connu comme le Froid immortel.
 
 Il réside dans une immense forteresse abyssale, creusée au coeur d’une haute montagne sise dans un royaume gelé fait de pics déchiquetés et d’immenses glaciers, infesté d’innombrables horreurs glaciales. Kostchtchie mesure neuf mètres.
 

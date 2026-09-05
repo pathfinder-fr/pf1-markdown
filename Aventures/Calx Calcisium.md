@@ -6,7 +6,7 @@ Categories:
 - PNJ
 ---
 
-Calx est un humain âgé de 43 ans. Il a de longs cheveux blancs tombant sur ses épaules, des yeux gris vitreux mais un visage particulièrement jeune. Depuis son plus jeune age, il consacre sa vie à l'étude de la non-vie. Alors qu'il était adolescent il fut violé par un soldat du [Chéliax](./../Golarion/Chéliax.md) lors d'une attaque contre [Andoran](./../Golarion/Andoran.md). Il en a gardé une rancœur et une haine des vivants. Ainsi il espère un jour déclencher un conflit entre [[++Golarion.Andoran|Andoran] et ses voisins afin de construire une armée de morts et conquérir ses terres ni plus, ni moins.
+Calx est un humain âgé de 43 ans. Il a de longs cheveux blancs tombant sur ses épaules, des yeux gris vitreux mais un visage particulièrement jeune. Depuis son plus jeune age, il consacre sa vie à l'étude de la non-vie. Alors qu'il était adolescent il fut violé par un soldat du [[Golarion.Chéliax|Chéliax]] lors d'une attaque contre [[Golarion.Andoran|Andoran]]. Il en a gardé une rancœur et une haine des vivants. Ainsi il espère un jour déclencher un conflit entre [[++Golarion.Andoran|Andoran] et ses voisins afin de construire une armée de morts et conquérir ses terres ni plus, ni moins.
 
 <div class="BD">
 {s:BDTitre|Calx Calcisium|FP 3}

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.200*}
 {s:BDTexte|**XP** 6 400}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille C, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] de taille C, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 2, pris au dépourvu 21 (naturelle +19, taille -8)}
 {s:BDTexte|**pv** 135 (10d8+90)}
@@ -25,18 +25,18 @@ Categories:
 {s:BDTexte|**VD** 18 m (12 {s:c}), escalade 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +15 (4d6+24 plus poison)}
 {s:BDTexte|**Espace** 9 m (6 {s:c}) ; **Allonge** 9 m (6 {s:c})}
-{s:BDTexte|**Attaques spéciales** [piétinement](./Piétinement (capacité).md) (6d6+24, DD 31)}
+{s:BDTexte|**Attaques spéciales** [[Piétinement (capacité)|piétinement]] (6d6+24, DD 31)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 43, **Dex** 11, **Con** 29, **Int** —, **Sag** 10, **Cha** 2}
-{s:BDTexte|**BBA** +7, **BMO** +31, **DMD** 41 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) -8, [Escalade](./Escalade.md) +24, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md), +4 en [Perception](./Perception.md)}
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md)}
+{s:BDTexte|**BBA** +7, **BMO** +31, **DMD** 41 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Compétences** [[Discrétion]] -8, [[Escalade]] +24, [[Perception]] +4 ; **Modificateurs raciaux** +8 en [[Discrétion]], +4 en [[Perception]]}
+{s:BDTexte|**Particularités** [[compression (capacité)|compression]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées, chaudes ou sous terre}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3-6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* Vigueur DD 24 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d6 Dex ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* Vigueur DD 24 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d6 Dex ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde dépend de la Constitution.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -45,13 +45,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Mille-pattes à queue fouettante](./Mille-pattes à queue fouettante.md) || 3
+| [[Mille-pattes à queue fouettante]] || 3
 |-
-| [Mille-pattes géant](./Mille-pattes géant.md) || 1/2
+| [[Mille-pattes géant]] || 1/2
 |-
-| [Mille-pattes titanesque](./Mille-pattes titanesque.md) || 9
+| [[Mille-pattes titanesque]] || 9
 |-
-| [Nuée de mille-pattes](./Nuée de mille-pattes.md) || 4
+| [[Nuée de mille-pattes]] || 4
 |}
 </div>*Cette monstruosité segmentée qui se tortille semble infiniment longue. Elle s’avance en faisant claquer ses grandes mandibules dès qu’elle repère une proie.*
 

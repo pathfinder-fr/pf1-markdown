@@ -14,7 +14,7 @@ Categories:
 {s:pucem|Fée|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 7*}
 - ** 200 PX**
-- [Fée](./type Fée.md) ([aquatique](./sous-type aquatique.md)) de taille Min, CN
+- [[type Fée|Fée]] ([[sous-type aquatique|aquatique]]) de taille Min, CN
 - **Init **+1 ; **Sens** vision nocturne ; Perception +4
 (((Défense)))
 - **CA** 15, contact 15, pris au dépourvu 14 (Dex +1, taille +4)
@@ -30,8 +30,8 @@ Categories:
 (((Statistiques)))
 - **For** 4, **Dex** 13, **Con** 14, **Int** 4, **Sag** 11, **Cha** 11
 - **BBA **+0 ; **BMO **-3 ; **DMD** 4 (8 contre croc-en-jambe)
-- **Dons** [Talent](./Talent.md) (Discrétion)
-- **Compétences** [Discrétion](./Discrétion.md) +20, [Évasion](./Évasion.md) +5, [Natation](./Natation.md) +5, [Perception](./Perception.md) +4
+- **Dons** [[Talent]] (Discrétion)
+- **Compétences** [[Discrétion]] +20, [[Évasion]] +5, [[Natation]] +5, [[Perception]] +4
 - **Langues** aklo
 - **Particularités** amphibie
 (((Écologie)))

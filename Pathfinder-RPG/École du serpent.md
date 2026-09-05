@@ -12,14 +12,14 @@ Categories:
 
 {s:uc}*Le personnage observe les mouvements de son ennemi avant de traverser ses défenses.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), 1 [rang](./rang.md) en [Acrobaties](./Acrobaties.md), 3 rangs en [Psychologie](./Psychologie.md)
+**Conditions.** [[Science du combat à mains nues]], 1 [[rang]] en [[Acrobaties]], 3 rangs en [[Psychologie]]
 
-**Avantage.** Le personnage gagne un bonus de +2 aux tests de [Psychologie](./Psychologie.md) et peut infliger des dégâts perforants avec ses attaques à mains nues. Quand il utilise l’École du serpent et qu’un adversaire l’attaque en mêlée ou à distance, il peut dépenser une [action immédiate](./Action immédiate.md) pour faire un test de [Psychologie](./Psychologie.md) et substituer le résultat du test à sa [CA](./CA.md) ou sa [CA](./CA.md) au contact contre cette attaque. Pour cela, il doit être conscient de l’attaque et ne pas être [pris au dépourvu](./Pris au dépourvu.md).
+**Avantage.** Le personnage gagne un bonus de +2 aux tests de [[Psychologie]] et peut infliger des dégâts perforants avec ses attaques à mains nues. Quand il utilise l’École du serpent et qu’un adversaire l’attaque en mêlée ou à distance, il peut dépenser une [[action immédiate]] pour faire un test de [[Psychologie]] et substituer le résultat du test à sa [[CA]] ou sa [[CA]] au contact contre cette attaque. Pour cela, il doit être conscient de l’attaque et ne pas être [[pris au dépourvu]].
 
 **Normal.** Une attaque à mains nues inflige des dégâts contondants.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage est victime d’une attaque à distance ou au corps à corps, il peut dépenser 5 points d’endurance pour tenter le test de [Psychologie](./Psychologie.md) en dépensant une de ses [attaques d’opportunité](./AO.md) du [round](./round.md) au lieu d’une [action immédiate](./Action immédiate.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage est victime d’une attaque à distance ou au corps à corps, il peut dépenser 5 points d’endurance pour tenter le test de [[Psychologie]] en dépensant une de ses [[AO|attaques d’opportunité]] du [[round]] au lieu d’une [[action immédiate]].

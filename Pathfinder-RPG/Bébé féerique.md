@@ -12,4 +12,4 @@ Categories:
 
 **Conditions**. Don uniquement disponible au niveau 1.
 
-**Avantages**. L’étrange lien qui unit le personnage aux fées et au Monde féérique l’imprègne de vie et, quand il reçoit des soins magiques, il guérit de 2 points de vie supplémentaires par dé lancé. Il gagne un bonus de +2 à tous les [jets de sauvegarde](./JDS.md) contre les effets de mort. Malheureusement, il reçoit aussi 1 point de dégâts supplémentaire de la part des armes en [fer froid](./Matériaux spéciaux.md#FERFROID) (même s’il peut les manier sans véritable gêne).
+**Avantages**. L’étrange lien qui unit le personnage aux fées et au Monde féérique l’imprègne de vie et, quand il reçoit des soins magiques, il guérit de 2 points de vie supplémentaires par dé lancé. Il gagne un bonus de +2 à tous les [[jds|jets de sauvegarde]] contre les effets de mort. Malheureusement, il reçoit aussi 1 point de dégâts supplémentaire de la part des armes en [[Matériaux spéciaux#FERFROID|fer froid]] (même s’il peut les manier sans véritable gêne).

@@ -13,9 +13,9 @@ Categories:
 {s:pucem|humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Codex monstrueux p.120*}
 {s:BDTexte|**PX** 3200}
-{s:BDTexte|[Hobgobelin](./Hobgobelin.md) [alchimiste](./Alchimiste.md) (grenadier) 8 (*Manuel des joueurs règles avancées* p. 26, cet ouvrage p. 116)}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille M, LM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m (12 {s:c}); [Perception](./Perception.md) +16}
+{s:BDTexte|[[Hobgobelin]] [[alchimiste]] (grenadier) 8 (*Manuel des joueurs règles avancées* p. 26, cet ouvrage p. 116)}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille M, LM}
+{s:BDTexte|**Init** +4 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m (12 {s:c}); [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 14, pris au dépourvu 14 (armure +4, Dex +4)}
 {s:BDTexte|**pv** 71 (8d8+32)}
@@ -24,23 +24,23 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** épée courte de maître, +8/+3 (1d6+1/19-20)}
 {s:BDTexte|**Distance** bombe, +12/+7 (4d6+2 feu)}
-{s:BDTexte|**Attaques spéciales** [arme alchimique](./Grenadier (alchimiste).md) (action rapide), [bombe](./Alchimiste.md#BOMBES) 14/jour (4d6+2 feu, DD 16), [explosion maîtrisée](./Grenadier (alchimiste).md)}
-{s:BDTexte|**Extraits d’alchimiste** préparés ([NLS](./NLS.md) 8)}
-{s:BDSorts|3e — *[rapidité](./Rapidité.md)*, *[vol](./Vol.md)*}
-{s:BDSorts|2e — *[grâce féline](./Grâce féline.md)*, *[invisibilité](./Invisibilité.md)*, *[peau d’écorce](./Peau décorce.md)*, *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, *[simulacre de vie](./Simulacre de vie.md)*}
-{s:BDSorts|1er — *[bouclier](./Bouclier.md)*, *[coup au but](./Coup au but.md)* (2), *[œil du bombardier](./Œil du mitrailleur.md)*, *[repli expéditif](./Repli expéditif.md)*}
+{s:BDTexte|**Attaques spéciales** [[Grenadier (alchimiste)|arme alchimique]] (action rapide), [[Alchimiste#BOMBES|bombe]] 14/jour (4d6+2 feu, DD 16), [[Grenadier (alchimiste)|explosion maîtrisée]]}
+{s:BDTexte|**Extraits d’alchimiste** préparés ([[NLS]] 8)}
+{s:BDSorts|3e — *[[rapidité]]*, *[[vol]]*}
+{s:BDSorts|2e — *[[grâce féline]]*, *[[invisibilité]]*, *[[peau décorce|peau d’écorce]]*, *[[résistance aux énergies destructives]]*, *[[simulacre de vie]]*}
+{s:BDSorts|1er — *[[bouclier]]*, *[[coup au but]]* (2), *[[Œil du mitrailleur|œil du bombardier]]*, *[[repli expéditif]]*}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|**Pendant le combat.** Le bombardier lance des [bombes](./Alchimiste.md#BOMBES) sur ses ennemis ou opte pour une [explosion maîtrisée](./Grenadier (alchimiste).md) si ses ennemis sont regroupés. Il utilise un [accélérateur instable](./Accélérateur instable (objet).md) de concert avec les [bombes](./Alchimiste.md#BOMBES) qui ont le plus de chances de toucher leur cible. Il réserve ses objets alchimiques pour alimenter son pouvoir d’[arme alchimique](./Grenadier (alchimiste).md) s’il se retrouve coincé au corps à corps. Dans ce cas, il boit son [mutagène](./Alchimiste.md#MUTAGENES) avant d’attaquer.}
+{s:BDTexte|**Pendant le combat.** Le bombardier lance des [[Alchimiste#BOMBES|bombes]] sur ses ennemis ou opte pour une [[Grenadier (alchimiste)|explosion maîtrisée]] si ses ennemis sont regroupés. Il utilise un [[Accélérateur instable (objet)|accélérateur instable]] de concert avec les [[Alchimiste#BOMBES|bombes]] qui ont le plus de chances de toucher leur cible. Il réserve ses objets alchimiques pour alimenter son pouvoir d’[[Grenadier (alchimiste)|arme alchimique]] s’il se retrouve coincé au corps à corps. Dans ce cas, il boit son [[Alchimiste#MUTAGENES|mutagène]] avant d’attaquer.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 18, **Con** 16, **Int** 14, **Sag** 10, **Cha** 8}
 {s:BDTexte|**BBA** +6 ; **BMO** +7 ; **DMD** 21}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (bombe), [Lancer improvisé](./Lancer improvisé.md), [Robustesse](./Robustesse.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +13, [Artisanat](./Artisanat.md) (alchimie) +15, [Connaissances](./Connaissances.md) (ingénierie) +8, [Connaissances](./Connaissances.md) (mystères) +11, [Connaissances](./Connaissances.md) (nature) +11, [Perception](./Perception.md) +16, [Premiers secours](./Premiers secours.md) +7, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +6}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (bombe), [[Lancer improvisé]], [[Robustesse]], [[Tir à bout portant]], [[Tir de précision]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +13, [[Artisanat]] (alchimie) +15, [[Connaissances]] (ingénierie) +8, [[Connaissances]] (mystères) +11, [[Connaissances]] (nature) +11, [[Perception]] +16, [[Premiers secours]] +7, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +6}
 {s:BDTexte|**Langues** aklo, commun, gobelin, sylvestre}
-{s:BDTexte|**Particularités** [alchimie](./Alchimiste.md#ALCHIMIE) (alchimie +8, identification de potions), [alchimie rapide](./Alchimiste.md#ALCHIMIERAPIDE), [découvertes](./Alchimiste.md#DECOUVERTES) ([bombe assourdissante](./découvertes.md#BOMBEASSOURDISSANTE) (4d4+2 sonores plus [surdité](./surdité.md)), [bombe de précision](./découvertes.md#BOMBEDEPRECISION) (2 cases), [bombe fumigène](./découvertes.md#BOMBEFUMIGENE), [bombe puante](./découvertes.md#BOMBEPUANTE), [bombes rapides](./découvertes.md#BOMBESRAPIDES)), [mutagène](./Alchimiste.md#MUTAGENES) (+4/-2, +2 naturelle, 80 minutes), traits raciaux alternatifs}
-{s:BDTexte|**Équipement de combat** *[baguette](./Baguettes magiques.md) de [soins légers](./Soins légers.md)* (40 charges), [acides](./Acide (objet).md) (3) [feux grégeois](./Feu grégeois (objet).md) (4), [bâtons fumigènes](./Bâton fumigène (objet).md) (2), [sacoches immobilisantes](./Sacoche immobilisante (objet).md) (2), [accélérateurs instables](./Accélérateur instable (objet).md) (3) ; **Équipement divers** *[armure de cuir +2](./armure de cuir (armure).md)*, [chistera](./Chistera (objet).md), [épée courte de maître](./épée courte (arme).md), *[yeux de lynx](./Yeux de lynx (objet).md)*, 30 po}
+{s:BDTexte|**Particularités** [[Alchimiste#ALCHIMIE|alchimie]] (alchimie +8, identification de potions), [[Alchimiste#ALCHIMIERAPIDE|alchimie rapide]], [[Alchimiste#DECOUVERTES|découvertes]] ([[Découvertes#BOMBEASSOURDISSANTE|bombe assourdissante]] (4d4+2 sonores plus [[surdité]]), [[Découvertes#BOMBEDEPRECISION|bombe de précision]] (2 cases), [[Découvertes#BOMBEFUMIGENE|bombe fumigène]], [[Découvertes#BOMBEPUANTE|bombe puante]], [[Découvertes#BOMBESRAPIDES|bombes rapides]]), [[Alchimiste#MUTAGENES|mutagène]] (+4/-2, +2 naturelle, 80 minutes), traits raciaux alternatifs}
+{s:BDTexte|**Équipement de combat** *[[baguettes magiques|baguette]] de [[soins légers]]* (40 charges), [[acide (objet)|acides]] (3) [[Feu grégeois (objet)|feux grégeois]] (4), [[bâton fumigène (objet)|bâtons fumigènes]] (2), [[sacoche immobilisante (objet)|sacoches immobilisantes]] (2), [[Accélérateur instable (objet)|accélérateurs instables]] (3) ; **Équipement divers** *[[armure de cuir (armure)|armure de cuir +2]]*, [[Chistera (objet)|chistera]], [[épée courte (arme)|épée courte de maître]], *[[Yeux de lynx (objet)|yeux de lynx]]*, 30 po}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Traits raciaux alternatifs (Ext).** Le bombardier possède le trait racial ingénieur au lieu de furtif, ce qui lui donne un bonus de +2 aux tests d’[Artisanat](./Artisanat.md) (alchimie) et de [Connaissances](./Connaissances.md) (ingénierie). Il utilise aussi l’option de classe de prédilection alternative des hobgobelins pour ses niveaux d’alchimiste, ce qui lui permet d’utiliser son pouvoir de [bombe](./Alchimiste.md#BOMBES) quatre fois de plus par jour. Ces options raciales se trouvent dans le *Manuel des races Pathfinder JdR*}
+{s:BDTexte|**Traits raciaux alternatifs (Ext).** Le bombardier possède le trait racial ingénieur au lieu de furtif, ce qui lui donne un bonus de +2 aux tests d’[[Artisanat]] (alchimie) et de [[Connaissances]] (ingénierie). Il utilise aussi l’option de classe de prédilection alternative des hobgobelins pour ses niveaux d’alchimiste, ce qui lui permet d’utiliser son pouvoir de [[Alchimiste#BOMBES|bombe]] quatre fois de plus par jour. Ces options raciales se trouvent dans le *Manuel des races Pathfinder JdR*}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -49,25 +49,25 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Hobgobelin](./Hobgobelin.md) || 1/2
+| [[Hobgobelin]] || 1/2
 |-
-| [Yzobu](./Yzobu.md) || 1
+| [[Yzobu]] || 1
 |-
-| [Sergent hobgobelin](./Sergent hobgobelin.md) || 2
+| [[Sergent hobgobelin]] || 2
 |-
-| [Zélote des batailles hobgobelin](./Zélote des batailles hobgobelin.md) || 2
+| [[Zélote des batailles hobgobelin]] || 2
 |-
-| [Lieutenant hobgobelin](./../Aventures/Lieutenant hobgobelin.md) || 4
+| [[Lieutenant hobgobelin]] || 4
 |-
-| [Précurseur hobgobelin](./Précurseur hobgobelin.md) || 6
+| [[Précurseur hobgobelin]] || 6
 |-
-| [Bombardier hobgobelin](./Bombardier hobgobelin.md) || 7
+| [[Bombardier hobgobelin]] || 7
 |-
-| [Prêtre guerrier hobgobelin](./Prêtre guerrier hobgobelin.md) || 8
+| [[Prêtre guerrier hobgobelin]] || 8
 |-
-| [Parangon hobgobelin](./Parangon hobgobelin.md) || 10
+| [[Parangon hobgobelin]] || 10
 |-
-| [Commandant hobgobelin](./Commandant hobgobelin.md) || 12
+| [[Commandant hobgobelin]] || 12
 |-
 |}
 </div>Les hobgobelins qui possèdent une valeur d’intelligence élevée ou ressentent une attirance certaine pour la destruction, les flammes et les expériences deviennent souvent bombardiers militaires.

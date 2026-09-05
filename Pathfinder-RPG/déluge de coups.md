@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Moine#DELUGEDECOUPS
 ---
 
->>> [Moine#DELUGEDECOUPS](./Moine.md#DELUGEDECOUPS)
+>>> [[Moine#DELUGEDECOUPS]]

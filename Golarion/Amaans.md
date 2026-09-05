@@ -7,8 +7,8 @@ Categories:
 - Ustalav
 ---
 
-Le comté d'Amaans fait partie des treize que comptent l'[Ustalav](./Ustalav.md). La chaîne des [montagnes Affamées](./montagnes Affamées.md) domine le sud du territoire, le reste étant occupé par de nombreuses vallées embrumées.
+Le comté d'Amaans fait partie des treize que comptent l'[[Ustalav]]. La chaîne des [[montagnes Affamées]] domine le sud du territoire, le reste étant occupé par de nombreuses vallées embrumées.
 
-Amaans est relativement peu peuplé, comparé à d'autres comtés tels que [Canterwall](./Canterwall.md) ou [Caliphas](./Caliphas.md). La plupart de ses habitants se sont regroupés à proximité de la frontière avec le plus civilisé comté d'[Ardeal](./Ardeal.md) ou autour du [lac Kavapesta](./lac Kavapesta.md). Les principaux centres de population du comté sont [Kavapesta](./Kavapesta.md) et la [Passe de Sen](./Passe de Sen.md) (Sen's Pass).
+Amaans est relativement peu peuplé, comparé à d'autres comtés tels que [[Canterwall]] ou [[Caliphas]]. La plupart de ses habitants se sont regroupés à proximité de la frontière avec le plus civilisé comté d'[[Ardeal]] ou autour du [[lac Kavapesta]]. Les principaux centres de population du comté sont [[Kavapesta]] et la [[Passe de Sen]] (Sen's Pass).
 
 Le dirigeant du comté d'Amaans, le Comte Lucinea Galdana, est aussi rude et sauvage que sa terre mais aussi réputé pour être un chasseur émérite.

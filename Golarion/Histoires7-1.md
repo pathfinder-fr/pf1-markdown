@@ -4,8 +4,8 @@ Title: Retrouvailles
 LastModified: 2010-11-04 22:01
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du premier chapitre : "[http://paizo.com/pathfinder/tales/serial/v5748dyo5lbk0](http://paizo.com/pathfinder/tales/serial/v5748dyo5lbk0)" de la nouvelle "Le Seigneur Pénitent" de Richard Lee Byers. Illustration de Colby Stevenson.*
 
 Séfu étudia la fille élancée qui traînait des pieds, revêtue d'une robe noire cachant ses formes et, lorsqu'il fut certain de lui, il fit une grimace.

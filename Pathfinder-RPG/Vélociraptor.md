@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 p.65*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +7 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 12 (Dex +3, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 22 (3d8+9)}
@@ -24,12 +24,12 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +6 (1d4+1) et 2 griffes, +6 (1d6+1/19-20)}
-{s:BDTexte|**Attaques spéciales** [charge bondissante](./Bond.md)}
+{s:BDTexte|**Attaques spéciales** [[Bond|charge bondissante]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 17, **Con** 17, **Int** 2, **Sag** 14, **Cha** 14}
 {s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 15}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+23 pour le saut), [Discrétion](./Discrétion.md) +15, [Perception](./Perception.md) +10 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4 (+16 pour sauter), [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10 (+23 pour le saut), [[Discrétion]] +15, [[Perception]] +10 ; **Modificateurs raciaux** [[Acrobaties]] +4 (+16 pour sauter), [[Discrétion]] +4, [[Perception]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-12)}
@@ -40,7 +40,7 @@ charge, ce qui lui permet d’ignorer les malus liés au terrain difficile
 lors d’une charge. Quand il charge ainsi, il inflige le double de dégâts
 avec ses griffes.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>''Ce petit dinosaure élancé fait claquer ses vicieuses mâchoires. Ses pattes
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>''Ce petit dinosaure élancé fait claquer ses vicieuses mâchoires. Ses pattes
 se terminent par de larges griffes, parfaites pour éventrer une proie.''
 
 Cousin du deinonychus mais de taille plus modeste, le vélociraptor
@@ -52,7 +52,7 @@ mesure cinquante centimètres de haut pour deux mètres vingt
 de long et une quinzaine de kilos.
 
 #### Le vélociraptor comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 18 m (12 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** 2 serres (1d6), morsure (1d4) ; **Caractéristiques** For 11, Dex 17, Con 17, Int 2, Sag 12, Cha 14 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 18 m (12 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** 2 serres (1d6), morsure (1d4) ; **Caractéristiques** For 11, Dex 17, Con 17, Int 2, Sag 12, Cha 14 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Évolution au niveau 7.** **Taille** M ; **CA** armure naturelle +2 ; **Attaque** 2 serres (1d8), morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Attaque spéciale** [bond](./Bond.md).
+**Évolution au niveau 7.** **Taille** M ; **CA** armure naturelle +2 ; **Attaque** 2 serres (1d8), morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Attaque spéciale** [[bond]].
 </div></td></tr></table>

@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Fée|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 134*}
 - **200 PX**
-- [Créature féerique](./type Fée.md) ([aquatique](./sous-type aquatique.md)) de taille TP, N
+- [[type fée|Créature féerique]] ([[sous-type aquatique|aquatique]]) de taille TP, N
 - **Init **+5 ; **Sens** vision dans le noir à 18 m, vision nocturne ; Perception +4
 (((Défense)))
 - **CA** 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)
@@ -25,13 +25,13 @@ Categories:
 - **Espace** 0,75 m ; **Allonge** 0 m
 - **Attaque spéciale** égarement
 - **Pouvoirs magiques** (**NLS** 1 ; concentration +2)
-  - À volonté — *[prestidigitation](./Prestidigitation.md), [ventriloquie](./Ventriloquie.md)* (DD 12)
-  - 1/jour — *[effroi](./Effroi.md)* (DD 13)
+  - À volonté — *[[prestidigitation]], [[ventriloquie]]* (DD 12)
+  - 1/jour — *[[effroi]]* (DD 13)
 (((Statistiques)))
 - **For** 9, **Dex** 13, **Con** 12, **Int** 8, **Sag** 11, **Cha** 12
 - **BBA **+0 ; **BMO **-1 ; **DMD** 8
-- **Dons** [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Déguisement](./Déguisement.md) +5, [Discrétion](./Discrétion.md) +13, [Escamotage](./Escamotage.md) +7, [Natation](./Natation.md) +11, [Perception](./Perception.md) +4, [Sabotage](./Sabotage.md) +3, [Vol](./Vol.md) +5
+- **Dons** [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Déguisement]] +5, [[Discrétion]] +13, [[Escamotage]] +7, [[Natation]] +11, [[Perception]] +4, [[Sabotage]] +3, [[Vol]] +5
 - ** Modificateurs raciaux **+2 en Sabotage, +2 en Escamotage
 - **Langues** commun, sylvestre
 - **Particularités** amphibie
@@ -45,7 +45,7 @@ Il arrive, à l’occasion, que l’haniver remplace des objets qu’il a volés
 
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [gremlins](./Gremlin.md).***</li></ul>*Cette étrange petite créature humanoïde est pourvue d’ailes semblables à des nageoires, a la peau d’un jaune curieux et de tous petits yeux noirs brillant de malice.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Gremlin|gremlins]].***</li></ul>*Cette étrange petite créature humanoïde est pourvue d’ailes semblables à des nageoires, a la peau d’un jaune curieux et de tous petits yeux noirs brillant de malice.*
 
 Les gremlins hanivers hantent les histoires des marins et des communautés de pêcheurs, qui apparaissent surtout comme des paraboles destinées à effrayer les vilains enfants qui désobéissent à leurs parents. Il existe un millier de ces contes, qui sont toujours une variation autour d’un thème commun : les gremlins émergent de la mer en battant des ailes, surprennent les vilains pêcheurs ou les jeunes désobéissants et filent avec leurs colifichets. Mais comme c’est rarement le cas avec ce genre de contes, ces histoires sont très proches de la vérité, qu’importe leur dimension  comique ou improbable.
 

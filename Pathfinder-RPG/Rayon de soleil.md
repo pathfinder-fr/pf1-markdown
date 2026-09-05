@@ -10,30 +10,30 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[lumière](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 7, [Dru](./Druide.md) 7  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|lumière]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
 **Portée** 18 m  
 
 **Zone d'effet** ligne partant du jeteur de sorts  
 
-**Durée** 1 round/ [niveau](./niveau.md) ou jusqu’à épuisement  
+**Durée** 1 round/ [[niveau]] ou jusqu’à épuisement  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) et [Réflexes](./Réflexes.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] et [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** oui
 
-Tant que ce sort fait effet, le personnage peut émettre un [rayon](./rayon.md) de lumière éblouissante à chaque round (au prix d’une [action simple](./Action simple.md)). Il peut donner naissance à un [rayon](./rayon.md) tous les trois [niveaux de lanceur de sorts](./NLS.md) (jusqu’à un maximum de six au [niveau](./niveau.md) 18). Le sort s’achève au terme de la durée indiquée ou dès qu’il a lancé tous ses [rayons](./rayon.md).
+Tant que ce sort fait effet, le personnage peut émettre un [[rayon]] de lumière éblouissante à chaque round (au prix d’une [[action simple]]). Il peut donner naissance à un [[rayon]] tous les trois [[NLS|niveaux de lanceur de sorts]] (jusqu’à un maximum de six au [[niveau]] 18). Le sort s’achève au terme de la durée indiquée ou dès qu’il a lancé tous ses [[rayon|rayons]].
 
-Toutes les créatures touchées par le *rayon de soleil* sont [aveuglées](./Aveuglé.md) et subissent 4d6 points de dégâts. Un jet de [Réflexes](./Réflexes.md) réussi permet d’annuler la [cécité](./Aveuglé.md) permanente et de réduire les dégâts de moitié. Les créatures [sensibles à la lumière](./Sensibilité à la lumière (capacité).md) subissent le double de dégâts.
+Toutes les créatures touchées par le *rayon de soleil* sont [[aveuglé|aveuglées]] et subissent 4d6 points de dégâts. Un jet de [[Réflexes]] réussi permet d’annuler la [[aveuglé|cécité]] permanente et de réduire les dégâts de moitié. Les créatures [[sensibilité à la lumière (capacité)|sensibles à la lumière]] subissent le double de dégâts.
 
-Les [morts-vivants](./type Mort-vivant.md) reçoivent 1d6 points de dégâts par [niveau de lanceur de sorts](./NLS.md) (jusqu’à un maximum de 20d6). Un jet de [Réflexes](./Réflexes.md) réussi réduit ces dégâts de moitié. De plus, le [rayon](./rayon.md) détruit les [morts-vivants](./type Mort-vivant.md) vulnérables au soleil (comme les [vampires](./Vampire.md)) s’ils ratent leur [jet de sauvegarde](./jet de sauvegarde.md).
+Les [[type mort-vivant|morts-vivants]] reçoivent 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 20d6). Un jet de [[Réflexes]] réussi réduit ces dégâts de moitié. De plus, le [[rayon]] détruit les [[type mort-vivant|morts-vivants]] vulnérables au soleil (comme les [[vampire|vampires]]) s’ils ratent leur [[jet de sauvegarde]].
 
-La lumière ultraviolette générée par ce sort affecte les moisissures, [vases](./type Vase.md), limons, thallophytes et autres créatures apparentées comme s’il s’agissait de [morts-vivants](./type Mort-vivant.md).
+La lumière ultraviolette générée par ce sort affecte les moisissures, [[type vase|vases]], limons, thallophytes et autres créatures apparentées comme s’il s’agissait de [[type mort-vivant|morts-vivants]].
 
 ### Mythique
 {s:CMy}
-Le personnage peut émettre un rayon par tranche de 2 [niveaux de lanceur de sorts](./NLS.md) au lieu d’un rayon par tranche de 3 niveaux. Les dégâts infligés s’élèvent à 4d8 points de dégâts. Ceux infligés aux morts-vivants, aux moisissures, vases, limons, thallophytes et autres créatures apparentées s’élèvent à 1d8 points de dégâts par [niveau de lanceur de sorts](./NLS.md) (20d8 maximum). Les créatures qui réussissent leur jet de sauvegarde contre un rayon sont éblouies pendant une minute.
+Le personnage peut émettre un rayon par tranche de 2 [[NLS|niveaux de lanceur de sorts]] au lieu d’un rayon par tranche de 3 niveaux. Les dégâts infligés s’élèvent à 4d8 points de dégâts. Ceux infligés aux morts-vivants, aux moisissures, vases, limons, thallophytes et autres créatures apparentées s’élèvent à 1d8 points de dégâts par [[NLS|niveau de lanceur de sorts]] (20d8 maximum). Les créatures qui réussissent leur jet de sauvegarde contre un rayon sont éblouies pendant une minute.
 
-**[Amplifié](./Amplifié.md) (9ème).** Si le personnage dépense trois utilisations de [pouvoir mythique](./pouvoir mythique.md), le premier rayon crée possède une durée d’un round par tranche de 2 [niveaux de lanceur de sorts](./NLS.md) et inflige le montant maximum de dégâts lors du round où il est lancé. Les créatures dans la trajectoire du rayon peuvent effectuer un jet de sauvegarde pour éviter d’être aveuglées, mais pas pour éviter les dégâts infligés par le sort.
+**[[Amplifié]] (9ème).** Si le personnage dépense trois utilisations de [[pouvoir mythique]], le premier rayon crée possède une durée d’un round par tranche de 2 [[NLS|niveaux de lanceur de sorts]] et inflige le montant maximum de dégâts lors du round où il est lancé. Les créatures dans la trajectoire du rayon peuvent effectuer un jet de sauvegarde pour éviter d’être aveuglées, mais pas pour éviter les dégâts infligés par le sort.

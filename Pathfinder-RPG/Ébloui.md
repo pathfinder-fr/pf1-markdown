@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Ébloui
 ---
 
->>> [États préjudiciables#Ébloui](./États préjudiciables.md#Ébloui)
+>>> [[États préjudiciables#Ébloui]]

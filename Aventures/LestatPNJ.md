@@ -57,8 +57,8 @@ LastModified: 2013-07-12 01:35
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.83*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./../Pathfinder-RPG/type Extérieur.md) ([diable](./../Pathfinder-RPG/sous-type diable.md), [extraplanaire](./../Pathfinder-RPG/sous-type extraplanaire.md), [Loi](./../Pathfinder-RPG/sous-type Loi.md), [Mal](./../Pathfinder-RPG/sous-type Mal.md)) de taille TP, LM}
-{s:BDTexte|**Init** +3 ; **Sens** *[détection de la magie](./../Pathfinder-RPG/Détection de la magie.md)*, *[détection du Bien](./../Pathfinder-RPG/Détection du Bien.md)*, [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}), [vision dans les ténèbres](./../Pathfinder-RPG/sous-type diable.md#VISIONTENEBRES) ; [Perception](./../Pathfinder-RPG/Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille TP, LM}
+{s:BDTexte|**Init** +3 ; **Sens** *[[détection de la magie]]*, *[[détection du Bien]]*, [[vision dans le noir]] 18 m (12 {s:c}), [[sous-type diable#VISIONTENEBRES|vision dans les ténèbres]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 16, pris au dépourvu 13 (Dex +3, esquive +1, naturelle +1, taille +2)}
 {s:BDTexte|**Pv** 20 (1/2 du maître) ; guérison accélérée 2}
@@ -69,20 +69,20 @@ LastModified: 2013-07-12 01:35
 {s:BDTexte|**Corps à corps** dard, +9 (1d4 et poison)}
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6<sup>e</sup>)}
-{s:BDSorts|Constant — *[détection de la magie](./../Pathfinder-RPG/Détection de la magie.md)*, *[détection du Bien](./../Pathfinder-RPG/Détection du Bien.md)*}
-{s:BDSorts|À volonté — *[invisibilité](./../Pathfinder-RPG/Invisibilité.md)* (sur lui-même uniquement)}
-{s:BDSorts|1/jour — *[augure](./../Pathfinder-RPG/Augure.md)*, *[suggestion](./../Pathfinder-RPG/Suggestion.md)* (DD 15)}
-{s:BDSorts|1/semaine — *[communion](./../Pathfinder-RPG/Communion.md)* (6 questions, NLS 12<sup>e</sup>)}
+{s:BDSorts|Constant — *[[détection de la magie]]*, *[[détection du Bien]]*}
+{s:BDSorts|À volonté — *[[invisibilité]]* (sur lui-même uniquement)}
+{s:BDSorts|1/jour — *[[augure]]*, *[[suggestion]]* (DD 15)}
+{s:BDSorts|1/semaine — *[[communion]]* (6 questions, NLS 12<sup>e</sup>)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 17, **Con** 10, **Int** 13, **Sag** 12, **Cha** 14}
 {s:BDTexte|**BBA** +6, **BMO** +4, **DMD** 18}
-{s:BDTexte|**Dons** [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md), [Esquive](./../Pathfinder-RPG/Esquive.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +9, [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) +7, [Bluff](./../Pathfinder-RPG/Bluff.md) +8, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (mystères) +7, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (plans) +7, [Perception](./../Pathfinder-RPG/Perception.md) +7, [Vol](./../Pathfinder-RPG/Vol.md) +21}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Esquive]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +9, [[Art de la magie]] +7, [[Bluff]] +8, [[Connaissances]] (mystères) +7, [[Connaissances]] (plans) +7, [[Perception]] +7, [[Vol]] +21}
 {s:BDTexte|**Langues** commun, infernal}
-{s:BDTexte|**Particularités** [changement de forme](./../Pathfinder-RPG/Changement de forme (capacité).md) ([sanglier](./../Pathfinder-RPG/Sanglier.md), [araignée géante](./../Pathfinder-RPG/Araignée géante.md), [rat](./../Pathfinder-RPG/Rat.md) ou [corbeau](./../Pathfinder-RPG/Corbeau.md), *[forme bestiale I](./../Pathfinder-RPG/Forme bestiale I.md)*)}
+{s:BDTexte|**Particularités** [[changement de forme (Capacité)|changement de forme]] ([[sanglier]], [[araignée géante]], [[rat]] ou [[corbeau]], *[[forme bestiale I]]*)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Enfer)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou vol (3-10)}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Poison (Ext)** Dard - blessure ; *JS* [Vigueur](./../Pathfinder-RPG/Vigueur.md) [DD](./../Pathfinder-RPG/DD.md) 13 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./../Pathfinder-RPG/affaiblissement temporaire.md) 1d2 [Dex](./../Pathfinder-RPG/Dextérité.md) ; *guérison* 1 réussite. Le [DD](./../Pathfinder-RPG/DD.md) dépend de la [Constitution](./../Pathfinder-RPG/Constitution.md) et bénéficie d'un bonus racial de +2.}
+{s:BDTexte|**Poison (Ext)** Dard - blessure ; *JS* [[Vigueur]] [[DD]] 13 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d2 [[Dextérité|Dex]] ; *guérison* 1 réussite. Le [[DD]] dépend de la [[Constitution]] et bénéficie d'un bonus racial de +2.}
 </div>

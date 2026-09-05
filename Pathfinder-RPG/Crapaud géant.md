@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Animal|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.69*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 10, pris au dépourvu 13 (Dex +1, naturelle +4, taille –1)}
 {s:BDTexte|**pv** 22 (3d8+9)}
@@ -21,15 +21,15 @@ Categories:
 {s:BDTexte|**Capacités défensives** peau empoisonnée}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 4,50 m (3 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +5 (1d6+6 plus [étreinte](./Étreinte.md) )}
+{s:BDTexte|**Corps à corps** morsure, +5 (1d6+6 plus [[étreinte]] )}
 {s:BDTexte|**Espace** 3 m ; **Allonge** 3 m}
-{s:BDTexte|**Attaques spéciales** [engloutissement](./Engloutissement.md) (1d4 contondant, CA 12, 2 pv)}
+{s:BDTexte|**Attaques spéciales** [[engloutissement]] (1d4 contondant, CA 12, 2 pv)}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 19, **Dex** 13, **Con** 16, **Int** 1, **Sag** 8, **Cha** 6}
 {s:BDTexte|**BBA** +2, **BMO** +7 (+11 lutte), **DMD** 18 (22 contre croc-en-jambe)}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Talent](./Talent.md) (Perception)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +5 (+9 pour sauter), [Discrétion](./Discrétion.md) +5, [Natation](./Natation.md) +12, [Perception](./Perception.md) +8 ;  **Modificateurs raciaux** +4 en Acrobaties (+8 pour sauter), +4 en Discrétion}
-{s:BDTexte|**Particularité** [respiration aquatique](./Respiration aquatique (capacité).md)}
+{s:BDTexte|**Dons** [[Réflexes surhumains]], [[Talent]] (Perception)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +5 (+9 pour sauter), [[Discrétion]] +5, [[Natation]] +12, [[Perception]] +8 ;  **Modificateurs raciaux** +4 en Acrobaties (+8 pour sauter), +4 en Discrétion}
+{s:BDTexte|**Particularité** [[respiration aquatique (capacité)|respiration aquatique]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts/plaines/marais tempérés}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou frai (3–12)}
@@ -43,11 +43,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Crapaud](./Crapaud.md) || 1/8
+| Familier, [[Crapaud]] || 1/8
 |-
-| [Crapaud des glaciers](./Crapaud des glaciers.md) || 6
+| [[Crapaud des glaciers]] || 6
 |-
-| [Crapaud géant](./Crapaud géant.md) || 2
+| [[Crapaud géant]] || 2
 |}
 </div>*De grosses verrues parsèment la peau de ce crapaud brun de la taille d’un cheval. Sa gorge se boursoufle et ondule comme s’il était sur le point de coasser.*
 
@@ -69,9 +69,9 @@ niveau 4.
 
 #### Le crapaud géant comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m (6 {s:c}), nage 9 m (6 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 15, Dex 13, Con 16, Int 1, Sag 9, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md), [respiration aquatique](./Respiration aquatique (capacité).md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m (6 {s:c}), nage 9 m (6 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 15, Dex 13, Con 16, Int 1, Sag 9, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]], [[respiration aquatique (capacité)|respiration aquatique]].
 
-**Évolution au niveau 4.** **Caractéristiques** For +1, Dex +2 ; **Particularités** [engloutissement](./Engloutissement.md), peau
+**Évolution au niveau 4.** **Caractéristiques** For +1, Dex +2 ; **Particularités** [[engloutissement]], peau
 empoisonnée.
 </center>
 </div></td></tr></table>

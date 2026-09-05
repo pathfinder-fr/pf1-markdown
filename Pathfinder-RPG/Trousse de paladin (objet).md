@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 11 po ; **Poids** 15 kg<sup>[2](./Trousses déquipement.md#2)</sup>
-<span class="Catégorie">**Catégorie** [Trousses d'équipement](./Trousses déquipement.md)</span>
+{s:AE}**Prix** 11 po ; **Poids** 15 kg<sup>[[Trousses déquipement#2|2]]</sup>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
 ---
-Cette trousse comprend un [sac à dos](./Sac à dos (objet).md), un [sac de couchage](./Sac de couchage (objet).md), une [bourse](./Bourse (objet).md), un [texte sacré bon marché](./Texte sacré (objet).md), un [silex et une amorce](./Silex et amorce (objet).md), une [marmite en fer](./Marmite (objet).md), un [savon](./Savon (objet).md), des [torches](./Torche (objet).md) (10), des [rations de survie](./Rations de survie (objet).md) (5 jours), une [outre](./Outre (objet).md) et un [symbole sacré en bois](./Symbole sacré (objet).md).
+Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Texte sacré (objet)|texte sacré bon marché]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Marmite (objet)|marmite en fer]], un [[Savon (objet)|savon]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours), une [[Outre (objet)|outre]] et un [[Symbole sacré (objet)|symbole sacré en bois]].

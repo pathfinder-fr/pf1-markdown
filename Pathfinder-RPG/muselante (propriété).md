@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Muselante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Muselante](./Descriptions individuelles des propriétés spéciales des armes.md#Muselante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Muselante]]

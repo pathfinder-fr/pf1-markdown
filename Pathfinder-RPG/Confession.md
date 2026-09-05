@@ -12,18 +12,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) (dépend du langage, [effet mental](./effet mental.md)) ;** Niveau** [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Psy](./Psychiste.md) 2  
+**École** [[Enchantement]] ([[coercition]]) (dépend du langage, [[effet mental]]) ;** Niveau** [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Psychiste|Psy]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; voir texte ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; voir texte ; **Résistance à la magie** oui
 
-Le personnage pose à la cible une seule question. À sa prochaine action, cette dernière doit y répondre honnêtement dans la langue où la question lui a été posée ou subir 1d6 points de dégâts par tranche de deux [niveaux de lanceur de sorts](./NLS.md) (maximum 5d6) et être [fiévreuse](./Fiévreux.md) pendant 2d4 rounds. Un jet de [Volonté](./Volonté.md) réussi [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) l'effet de [fièvre](./Fiévreux.md) et réduit les dégâts de moitié. Une créature incapable de répondre reçoit quand même des dégâts.
+Le personnage pose à la cible une seule question. À sa prochaine action, cette dernière doit y répondre honnêtement dans la langue où la question lui a été posée ou subir 1d6 points de dégâts par tranche de deux [[NLS|niveaux de lanceur de sorts]] (maximum 5d6) et être [[fiévreux|fiévreuse]] pendant 2d4 rounds. Un jet de [[Volonté]] réussi [[Présentation des sorts#JETSDESAUVEGARDE|annule]] l'effet de [[fiévreux|fièvre]] et réduit les dégâts de moitié. Une créature incapable de répondre reçoit quand même des dégâts.

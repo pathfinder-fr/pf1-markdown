@@ -13,13 +13,13 @@ Droskar est une divinité mineure naine très peu vénérée par les races de la
 Son symbole est une arche de pierre sous laquelle brûle un foyer.
 
 ### Histoire
-Il fut à l’origine l’un des plus grands apprentis forgerons de [Torag](./Torag.md), mais on découvrit un jour qu’il se servait d'esclave pour inventer de nouveaux travaux. Il a donc été maudit par le Père de la Création : il ne pourrait plus jamais créer une œuvre originale et serait chassé du panthéon.
+Il fut à l’origine l’un des plus grands apprentis forgerons de [[Torag]], mais on découvrit un jour qu’il se servait d'esclave pour inventer de nouveaux travaux. Il a donc été maudit par le Père de la Création : il ne pourrait plus jamais créer une œuvre originale et serait chassé du panthéon.
 Rejeté, il partit à la recherche de fidèles, promettant le salut en échange d’un travail sans relâche ou en les rendant ses esclaves. Cependant aucun d’entre eux ne put lui permettre de retrouver sa créativité.
 
 ### Clergé
-Le nombre de ses fidèles à la surface de [Golarion](./Golarion.md) a décliné au fil des millénaires. Mais c’est dans les profondeurs que ses enseignements se sont répandus. Droskar est la religion majeure des [Duergars](./../Ressources/Duergars.md) des [Terres Sombres](./Terres-Sombres.md) (Darklands). L’essor du dogme de Droskar a aussi permis l’apparition d’un nouveau monstre mort-vivant, associé à un labeur sans fin, le [rejeton des forges](./rejeton-des-forges.md) (forge spruned) (qui apparait dans le D1 : La couronne du roi kobold).
+Le nombre de ses fidèles à la surface de [[Golarion]] a décliné au fil des millénaires. Mais c’est dans les profondeurs que ses enseignements se sont répandus. Droskar est la religion majeure des [[Duergars]] des [[Terres Sombres]] (Darklands). L’essor du dogme de Droskar a aussi permis l’apparition d’un nouveau monstre mort-vivant, associé à un labeur sans fin, le [[rejeton des forges]] (forge spruned) (qui apparait dans le D1 : La couronne du roi kobold).
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Le [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Le [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
 {s:VoirAussiAprès}

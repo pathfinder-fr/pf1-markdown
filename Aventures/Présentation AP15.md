@@ -56,7 +56,7 @@ Les héros de Numérie doivent se rendre dans un canyon connu sous le nom de Pla
 La capitale Pluie-d'Etoiles de la Numérie s'étend à l'ombre de la ruine la plus tristement connue de la région, le Mont d'Argent. En ces lieux, les sadiques membres de la Ligue technique et le Souverain Noir dominent la région et contrôlent l'accès à des incroyables mais dangereuses merveilles technologiques, y compris le mystérieux Mont d'Argent lui-même. Quelque part au plus profond de ce vaisseau en ruine, le plus grand des Dieux de Fer accroit son pouvoir. Pourtant, avant que les héros de Numérie puissent s'y opposer, ils doivent d'abord vaincre tour à tour la Ligue Technique et le Souverain Noir, car ils contrôlent l'accès au site légendaire. Les indices récoltés à partir d'un ancien oracle androide et les merveilles technologiques réunies à partir des ruines étranges en Numérie permettront-ils aux héros de l'emporter ? Ou vont-ils devenir tout simplement les dernières étoiles montantes à être écrasées sous la botte de métal de la Ligue Technique ?  
   
 
-**Articles :** article sur la capitale Pluie-d'Etoiles, le culte de [Zyphus](./../Golarion/Zyphus.md)}
+**Articles :** article sur la capitale Pluie-d'Etoiles, le culte de [[Golarion.Zyphus|Zyphus]]}
 {s:BookTitle|AP15-6|The Divinity Drive/Le dessein d'un dieu}
 {s:BookPic|http://static3.paizo.com/image/product/catalog/PZO/PZO9090_500.jpeg|http://paizo.com/products/btpy95bw?Pathfinder-Adventure-Path-90-The-Divinity-Drive}
 {s:BookPic||}

@@ -15,13 +15,13 @@ esprit, sans mettre en danger leur intégrité physique.''
 
 
 #### Domination de l’esprit sur la matière (Ext)
-Une âme invincible applique son modificateur de [Charisme](./Charisme.md), et non
-celui de [Constitution](./Constitution.md), pour déterminer les dégâts qu’il inflige
-avec les [talents sauvages](./Cinétiste.md#TALENTSSAUVAGES), le DD des talents sauvages basés sur la
+Une âme invincible applique son modificateur de [[Charisme]], et non
+celui de [[Constitution]], pour déterminer les dégâts qu’il inflige
+avec les [[Cinétiste#TALENTSSAUVAGES|talents sauvages]], le DD des talents sauvages basés sur la
 Constitution, la durée des talents sauvages si celle-ci est basée sur la
 Constitution, son bonus aux tests de concentration quand il utilise
 des talents sauvages et les autres effets basés sur la Constitution
-de l’ensemble de ses talents sauvages. Il ajoute [Bluff](./Bluff.md) et [Diplomatie](./Diplomatie.md)
+de l’ensemble de ses talents sauvages. Il ajoute [[Bluff]] et [[Diplomatie]]
 à la liste de compétences de classe de cinétiste. Cette aptitude
 modifie la liste des compétences de classe du cinétiste et la valeur
 de caractéristique primordiale des talents sauvages.
@@ -31,26 +31,26 @@ de caractéristique primordiale des talents sauvages.
 L’esprit d’une âme invincible est suffisamment robuste pour protéger son corps du stress imposé
 par la canalisation des éléments. Toutefois, comparé aux autres
 cinétistes, il ne peut pas repousser autant ses limites. Il ne peut
-pas choisir d’accepter des [brûlures](./Cinétiste.md#BRÛLURE) mais il peut utiliser les talents
+pas choisir d’accepter des [[Cinétiste#BRÛLURE|brûlures]] mais il peut utiliser les talents
 sauvages avec un coût en brûlure s’il peut réduire ce coût à 0
-point grâce à des aptitudes telles que [l’accumulation d’énergie](./Cinétiste.md#ACCUMULATIONDEPOUVOIR) ou
-[spécialiste des injections](./Cinétiste.md#SPÉCIALISTEDESINJECTIONS). S’il se retrouve dans une situation où il
-est obligé d’accepter des [brûlures](./Cinétiste.md#BRÛLURE) contre sa volonté (s’il rate un test
+point grâce à des aptitudes telles que [[Cinétiste#ACCUMULATIONDEPOUVOIR|l’accumulation d’énergie]] ou
+[[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]]. S’il se retrouve dans une situation où il
+est obligé d’accepter des [[Cinétiste#BRÛLURE|brûlures]] contre sa volonté (s’il rate un test
 de concentration, par exemple), il subit un niveau négatif au lieu
 des brûlures. Ce niveau négatif ne peut pas le tuer ni être supprimé
-par le biais d’une [restauration](./Restauration.md) ou d’une [restauration suprême](./Restauration suprême.md), mais il
+par le biais d’une [[restauration]] ou d’une [[restauration suprême]], mais il
 disparaît automatiquement au bout de 24 heures. Au niveau 6, une
 fois par jour, il peut réduire d’un point le coût de brûlures total
 d’un talent sauvage. Il peut utiliser cette aptitude une fois de plus
 par jour au niveau 10 et tous les 4 niveaux par la suite. Cette aptitude
-modifie celle de [brûlure](./Cinétiste.md#BRÛLURE) et remplace celle de [réserve interne](./Cinétiste.md#RÉSERVEINTERNE).
+modifie celle de [[Cinétiste#BRÛLURE|brûlure]] et remplace celle de [[Cinétiste#RÉSERVEINTERNE|réserve interne]].
 
 
 #### Puissance écrasante (Ext)
 Une âme invincible de niveau 3 bénéficie d’un bonus de +1 aux jets d’attaque et de dégâts effectués
-avec ses [explosions cinétiques](./Cinétiste.md#EXPLOSIONCINÉTIQUE). Le bonus aux dégâts ne s’applique
-pas dans le cas d’une [arme cinétique](./talents sauvages.md#ARMECINÉTIQUE), d’un [fouet cinétique](./talents sauvages.md#FOUETCINÉTIQUE) ou autres
+avec ses [[Cinétiste#EXPLOSIONCINÉTIQUE|explosions cinétiques]]. Le bonus aux dégâts ne s’applique
+pas dans le cas d’une [[Talents sauvages#ARMECINÉTIQUE|arme cinétique]], d’un [[Talents sauvages#FOUETCINÉTIQUE|fouet cinétique]] ou autres
 injections qui n’appliquent pas le bonus aux dégâts conférés par
-le [bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTÉLÉMENTAIRE). Ce bonus augmente de +1 au
+le [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|bouillonnement élémentaire]]. Ce bonus augmente de +1 au
 niveau 6 et tous les 3 niveaux par la suite. Cette aptitude remplace
-celle de [bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTÉLÉMENTAIRE).
+celle de [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|bouillonnement élémentaire]].

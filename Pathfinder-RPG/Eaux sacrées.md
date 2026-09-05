@@ -9,7 +9,7 @@ Source : The world of vampire hunter
 
 *Vous pouvez créer une eau bénite qui brûle avec l'intensité de votre haine des morts-vivants.*
 
-**Avantage.** Vous pouvez lancer bénédiction de l'eau un nombre de fois égal à votre Modificateur de Sagesse avec un Niveau de lanceur égal au total de vos [Dés de Vie](./../Ressources/DV.md). Si vous avez 8 DV ou plus, l'eau bénite lancée que vous créez avec cette aptitude est plus puissante, infligeant 4d4 points de dégâts contre les morts-vivants et les Extérieurs Mauvais qui sont atteints par un tir direct. Su vous avez 16 DV ou plus, les dégâts atteignent 8d4 points de dégâts contre les morts-vivants et les Extérieurs Mauvais qui sont atteints par un tir direct. Les créatures qui y sont vulnérables et qui sont atteintes par des dégâts d'aspersion prennent toujours 1 point de dégâts seulement quel que soit votre nombre de DV.
+**Avantage.** Vous pouvez lancer bénédiction de l'eau un nombre de fois égal à votre Modificateur de Sagesse avec un Niveau de lanceur égal au total de vos [[DV|Dés de Vie]]. Si vous avez 8 DV ou plus, l'eau bénite lancée que vous créez avec cette aptitude est plus puissante, infligeant 4d4 points de dégâts contre les morts-vivants et les Extérieurs Mauvais qui sont atteints par un tir direct. Su vous avez 16 DV ou plus, les dégâts atteignent 8d4 points de dégâts contre les morts-vivants et les Extérieurs Mauvais qui sont atteints par un tir direct. Les créatures qui y sont vulnérables et qui sont atteintes par des dégâts d'aspersion prennent toujours 1 point de dégâts seulement quel que soit votre nombre de DV.
 
 L'eau bénite que vous créez n'infligent les dégâts augmentés que si vous la lancez (pas lorsque vous arrosez une créature avec.
 

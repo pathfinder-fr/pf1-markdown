@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Découvertes#FAMILIERTUMEUR
 ---
 
->>> [Découvertes#FAMILIERTUMEUR](./découvertes.md#FAMILIERTUMEUR)
+>>> [[Découvertes#FAMILIERTUMEUR]]

@@ -10,7 +10,7 @@ LastModified: 2025-06-20 16:42
 {s:pucem|Aberration|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 126*}
 9 830 400 PX
-- [Aberration](./type Aberration.md) ([Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md), [Grand Ancien](./sous-type Grand Ancien.md)) de taille C, CM
+- [[type aberration|Aberration]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type Grand ancien|Grand Ancien]]) de taille C, CM
 - **Init** +15 ; Sens vision dans le noir à 18 m, vision lucide ; Perception +52
 - **Aura** présence indicible (90 m, DD 40)
 (((Défense)))
@@ -24,15 +24,15 @@ LastModified: 2025-06-20 16:42
 - **Espace **12 m ; Allonge 12 m
 - **Attaque spéciale** enchaînement griffu, constriction (3d6+23), rêves déments, pouvoir mythique (10/jour, montée en puissance +1d12), coups puissants (tentacule), tentacules, piétinement (2d8+30, DD 51)
 - **Pouvoirs magiques** (**NLS** 30 ; concentration +42)
-  - *Constant* — *[liberté de mouvement](./Liberté de mouvement.md)*, *[vision lucide](./Vision lucide.md)*
-  - *À volonté* — *[aliénation mentale](./Aliénation mentale.md)* (DD 29), *[cauchemar](./sort Cauchemar.md)*<sup>M</sup> (DD 29), *[communication à distance](./Communication à distance.md)*<sup>M</sup>, *[contrôle du climat](./Contrôle du climat.md)*<sup>M</sup>, *[dissipation suprême](./Dissipation suprême.md)*, *[projection astrale](./Projection astrale.md)*, *[songe](./Songe.md)*<sup>M</sup>, *[téléportation suprême](./Téléportation suprême.md)*
-  - *3/jour* — *[aversion](./Aversion.md)* (DD 30), *[débilité](./Débilité.md)* à incantation rapide (DD 27), *[ennemi subconscient](./Ennemi subconscient.md)* (DD 31), *[exigence](./Exigence.md)* (DD 30), *[portail](./Portail.md)*
-  - *1/jour* — *[convocation](./convocation.md)* (niveau 9, 2d4 [larves stellaires de Cthulhu](./Larve stellaire de Cthulhu.md) 100%), *[implosion](./Implosion.md)* (DD 31), *[souhait](./Souhait.md)*<sup>M</sup>, *[symbole d’aliénation mentale](./Symbole daliénation mentale.md)* (DD 26)
+  - *Constant* — *[[liberté de mouvement]]*, *[[vision lucide]]*
+  - *À volonté* — *[[aliénation mentale]]* (DD 29), *[[sort Cauchemar|cauchemar]]*<sup>M</sup> (DD 29), *[[communication à distance]]*<sup>M</sup>, *[[contrôle du climat]]*<sup>M</sup>, *[[dissipation suprême]]*, *[[projection astrale]]*, *[[songe]]*<sup>M</sup>, *[[téléportation suprême]]*
+  - *3/jour* — *[[aversion]]* (DD 30), *[[débilité]]* à incantation rapide (DD 27), *[[ennemi subconscient]]* (DD 31), *[[exigence]]* (DD 30), *[[portail]]*
+  - *1/jour* — *[[convocation]]* (niveau 9, 2d4 [[Larve stellaire de Cthulhu|larves stellaires de Cthulhu]] 100%), *[[implosion]]* (DD 31), *[[souhait]]*<sup>M</sup>, *[[Symbole daliénation mentale|symbole d’aliénation mentale]]* (DD 26)
 (((Statistiques)))
 - **For **56, **Dex **21, **Con **45, **Int **31, **Sag **36, **Cha **34
 - **BBA **+27 ; **BMO **+58 (+60 pour la bousculade, +62 pour la lutte ou la destruction d’arme) ; DMD 97 (99 contre la bousculade ou la destruction d’arme)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (*cauchemar*), [Attaques réflexes](./Attaques réflexes.md), [Coup fabuleux](./Coup fabuleux.md), [Création d’objets merveilleux](./Création dobjets merveilleux.md), [Critique ralentissant](./Critique ralentissant.md), [Destruction d’arme supérieure](./Destruction darme supérieure.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Frappe décisive](./Frappe décisive.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (débilité), [Science de la bousculade](./Science de la bousculade.md), [Science de la destruction](./Science de la destruction.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science du critique](./Science du critique.md) (griffe), [Science du critique](./Science du critique.md) (tentacule), [Vol stationnaire](./Vol stationnaire.md)
-- **Compétences **[Art de la magie](./Art de la magie.md) +49, [Connaissances](./Connaissances.md) (exploration souterraine, ingénierie, géographie, histoire, nature, plans, religion) +46, [Connaissances](./Connaissances.md) (mystères) +49, [Natation](./Natation.md) +70, [Perception](./Perception.md) +52, [Psychologie](./Psychologie.md) +49, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +48, [Vol](./Vol.md) +36 
+- **Dons **[[Attaque en puissance]], [[Attaque en vol]], [[Attaque spéciale renforcée]] (*cauchemar*), [[Attaques réflexes]], [[Coup fabuleux]], [[création dobjets merveilleux|Création d’objets merveilleux]], [[Critique ralentissant]], [[destruction darme supérieure|Destruction d’arme supérieure]], [[Don pour les critiques]], [[Frappe décisive supérieure]], [[Frappe décisive]], [[Pouvoir magique rapide]] (débilité), [[Science de la bousculade]], [[Science de la destruction]], [[Science de la frappe décisive]], [[Science du critique]] (griffe), [[Science du critique]] (tentacule), [[Vol stationnaire]]
+- **Compétences **[[Art de la magie]] +49, [[Connaissances]] (exploration souterraine, ingénierie, géographie, histoire, nature, plans, religion) +46, [[Connaissances]] (mystères) +49, [[Natation]] +70, [[Perception]] +52, [[Psychologie]] +49, [[utilisation dobjets magiques|Utilisation d’objets magiques]] +48, [[Vol]] +36 
 - **Langues **aklo ; télépathie à 90 m
 - **Particularités **compression, vol stellaire supérieur, intuition d’outre-monde
 (((Écologie)))
@@ -49,7 +49,7 @@ LastModified: 2025-06-20 16:42
 - **Vol stellaire supérieur (Sur)**. Cthulhu peut survivre dans le vide spatial et le traverser en volant à une vitesse exceptionnelle. Bien que le temps exact varie d’un trajet à l’autre, un voyage au sein du système solaire lui prend normalement 2d6 heures tandis qu’un voyage audelà de ce système lui prend normalement 2d6 jours (ou plus, selon décision du MJ).
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Grands Anciens](./../Golarion/Grands Anciens.md).***</li></ul>*Cette gigantesque impossibilité, qui n’est ni pieuvre ni dragon ni un géant mais quelque chose de bien pire, doit sûrement annoncer la fin des temps.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Grands Anciens]].***</li></ul>*Cette gigantesque impossibilité, qui n’est ni pieuvre ni dragon ni un géant mais quelque chose de bien pire, doit sûrement annoncer la fin des temps.*
 
 Connu par certains sous le nom du Rêveur des Profondeurs, le
 grand Cthulhu est le plus puissant des Grands Anciens. Il est souvent
@@ -74,7 +74,7 @@ des flots et les portes de son tombeau s’ouvrent sur le
 monde, offrant à Cthulhu une mobilité limitée avant qu’il
 ne doive retourner dans sa tombe.
 
-*Voir aussi : [Larve stellaire de Cthulhu](./Larve stellaire de Cthulhu.md)*
+*Voir aussi : [[Larve stellaire de Cthulhu]]*
 
 #### Le Culte de Cthulhu
 

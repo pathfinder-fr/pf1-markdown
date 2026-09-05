@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage sait tirer profit de la fragilité de ses armes et laisse des fragments dans les blessures qu’il inflige.*
 
-**Conditions.** [BBA](./BBA.md) +1, maniement de l’arme utilisée, arme faite de matériaux primitifs
+**Conditions.** [[BBA]] +1, maniement de l’arme utilisée, arme faite de matériaux primitifs
 
-**Avantage.** Quand le personnage utilise une arme de corps à corps ou de jet [fragile](./fragile.md) ou similaire et qu’il touche un adversaire, il peut briser son arme pour infliger 1d4 points de [saignement](./Saignement.md) à l’ennemi.
+**Avantage.** Quand le personnage utilise une arme de corps à corps ou de jet [[fragile]] ou similaire et qu’il touche un adversaire, il peut briser son arme pour infliger 1d4 points de [[saignement]] à l’ennemi.

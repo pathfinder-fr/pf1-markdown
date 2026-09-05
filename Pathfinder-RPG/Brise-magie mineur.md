@@ -4,13 +4,13 @@ Title: Brise-magie mineur
 LastModified: 2025-07-17 18:16
 ---
 
-{s:MCA}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** moyenne (30 m + 3m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+{s:MCA}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** moyenne (30 m + 3m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
 **Cible** une créature
-**Durée** 1 [round](./round.md)/niveau
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Durée** 1 [[round]]/niveau
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
 Le personnage crée un souffle d’énergie discordant qui perturbe la magie disponible de la cible à chaque round au début de son tour.
 
@@ -18,7 +18,7 @@ Si la cible prépare ses sorts, elle doit choisir l’un de ses sorts préparés
 
 Si la cible est un lanceur de sorts spontanés, elle perd l’un de ses emplacements de sorts de niveau 3. Si la cible n’a pas d’emplacements de sorts de niveau 3, elle perd un emplacement de sort de niveau 2 (ou un emplacement de sort de niveau 1 si elle n’a pas d’emplacement de sort de niveau 2).
 
-Il n'y a pas de [jet de sauvegarde](./JDS.md) au lancement du sort, mais la cible peut effectuer un jet de [Volonté](./Volonté.md) à chaque round au début de son tour.
+Il n'y a pas de [[jds|jet de sauvegarde]] au lancement du sort, mais la cible peut effectuer un jet de [[Volonté]] à chaque round au début de son tour.
 
 Si la cible possède plus d’une classe de lanceur de sorts, le personnage choisit au hasard laquelle il affecte. Ce sort n’a aucun effet sur les pouvoirs magiques.
 

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Substances et objets spéciaux#Pierreàtonnerre
 ---
 
->>> [Substances et objets spéciaux#Pierreàtonnerre](./Substances-et-objets-spéciaux.md#Pierreàtonnerre)
+>>> [[Substances et objets spéciaux#Pierreàtonnerre]]

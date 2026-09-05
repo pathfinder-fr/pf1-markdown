@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage peut utiliser son bouclier contre les dangers qui menacent ses alliés.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [Attaques réflexes](./Attaques réflexes.md), [Garde du corps](./Garde du corps.md), maniement des [rondaches](./rondache (armure).md) ou des [écus](./écu (armure).md)
+**Conditions.** [[Attaques réflexes]], [[Garde du corps]], maniement des [[rondache (armure)|rondaches]] ou des [[écu (armure)|écus]]
 
-**Avantages.** Quand le personnage utilise cette école et qu'un allié adjacent doit faire un jet de [Réflexes](./Réflexes.md), le personnage peut utiliser une [attaque d'opportunité](./AO.md) pour tenter d'améliorer le jet de Réflexes de son allié grâce à l'action [aider quelqu’un](./aider qqn.md). Ce dernier obtient un bonus de +2 à tous les jets de [Réflexes](./Réflexes.md) jusqu'au début du prochain tour du personnage tant qu'il lui est adjacent.
+**Avantages.** Quand le personnage utilise cette école et qu'un allié adjacent doit faire un jet de [[Réflexes]], le personnage peut utiliser une [[AO|attaque d'opportunité]] pour tenter d'améliorer le jet de Réflexes de son allié grâce à l'action [[aider qqn|aider quelqu’un]]. Ce dernier obtient un bonus de +2 à tous les jets de [[Réflexes]] jusqu'au début du prochain tour du personnage tant qu'il lui est adjacent.

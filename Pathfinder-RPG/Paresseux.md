@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 p.97*}
 {s:BDTexte|**PX** 65}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** -2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** -2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 10, pris au dépourvu 11 (Dex -2, naturelle +1, taille +2)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -26,10 +26,10 @@ Categories:
 {s:BDTexte|**Espace occupé** 75 cm (1/2 {s:c}) ; **Allonge** 0 m}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 5, **Dex** 7, **Con** 12, **Int** 2, **Sag** 12, **Cha** 7}
-{s:BDTexte|**BBA** +0, **BMO** -4, **DMD** 3 (7 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +17, [Escalade](./Escalade.md) +10, [Natation](./Natation.md) +2}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Escalade](./Escalade.md), +4 en [Discrétion](./Discrétion.md), +4 en [Natation](./Natation.md)}
+{s:BDTexte|**BBA** +0, **BMO** -4, **DMD** 3 (7 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +17, [[Escalade]] +10, [[Natation]] +2}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Escalade]], +4 en [[Discrétion]], +4 en [[Natation]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}

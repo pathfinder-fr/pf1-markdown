@@ -36,4 +36,4 @@ Si un personnage possède, d’une manière ou d’une autre, le même don plus 
 
 **Spécial :** des faits inhabituels supplémentaires à propos du don.
 
-[Tableau des dons|Tableau des dons]
+[[Tableau des dons]]

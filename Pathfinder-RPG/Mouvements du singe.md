@@ -12,14 +12,14 @@ Categories:
 
 {s:uc}*Le personnage s’agite autour de ses ennemis. Il se déplace et frappe de manière erratique. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Sag](./Sag.md) 13, [Science du combat à mains nues](./Science du combat à mains nues.md), [École du singe](./École du singe.md), 8 rangs en [Acrobaties](./Acrobaties.md), 8 rangs en [Escalade](./Escalade.md)
+**Conditions.** [[Sag]] 13, [[Science du combat à mains nues]], [[École du singe]], 8 rangs en [[Acrobaties]], 8 rangs en [[Escalade]]
 
-**Avantage.** Quand le personnage utilise l’[École du singe](./École du singe.md), il ajoute son bonus de [Sagesse](./Sagesse.md) à ses tests d’[Escalade](./Escalade.md). Il grimpe et rampe à la moitié de sa [vitesse de base](./VD.md), il peut faire un pas de 1,50 m (1 {s:c}) en sautant, en rampant ou en grimpant et il conserve son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) quand il grimpe. De plus, tant qu’il utilise cette école et qu’il fait deux attaques à mains nues ou plus contre un adversaire au cours du même tour, il peut dépenser une [action rapide](./Action rapide.md) pour faire un pas de 1,50 m (1 {s:c}), même s’il a déjà bougé lors de ce round.
+**Avantage.** Quand le personnage utilise l’[[École du singe]], il ajoute son bonus de [[Sagesse]] à ses tests d’[[Escalade]]. Il grimpe et rampe à la moitié de sa [[VD|vitesse de base]], il peut faire un pas de 1,50 m (1 {s:c}) en sautant, en rampant ou en grimpant et il conserve son bonus de [[Dextérité]] à la [[CA]] quand il grimpe. De plus, tant qu’il utilise cette école et qu’il fait deux attaques à mains nues ou plus contre un adversaire au cours du même tour, il peut dépenser une [[action rapide]] pour faire un pas de 1,50 m (1 {s:c}), même s’il a déjà bougé lors de ce round.
 
-**Normal.** Le personnage grimpe au quart de sa vitesse et perd alors son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) Il peut faire un pas de 1,50 m (1 {s:c}) en utilisant un de ses modes de déplacement normaux uniquement et il ne peut pas le faire s’il s’est déjà déplacé lors du round.
+**Normal.** Le personnage grimpe au quart de sa vitesse et perd alors son bonus de [[Dextérité]] à la [[CA]] Il peut faire un pas de 1,50 m (1 {s:c}) en utilisant un de ses modes de déplacement normaux uniquement et il ne peut pas le faire s’il s’est déjà déplacé lors du round.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Au début de son tour, le personnage peut dépenser 5 points d’endurance pour acquérir une vitesse d’escalade égale à sa vitesse de déplacement de base jusqu’au début de son prochain tour.

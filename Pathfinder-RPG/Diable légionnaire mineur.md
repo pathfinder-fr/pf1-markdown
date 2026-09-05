@@ -7,7 +7,7 @@ Categories:
 RedirectTo: Diable de lost mineur
 ---
 
-Dans le Bestiaire 4 p.60, le Magaav est apparu sous le nom de [Diable de l'ost](./Diable de lost.md).\
+Dans le Bestiaire 4 p.60, le Magaav est apparu sous le nom de [[Diable de lost|Diable de l'ost]].\
 Renommé "Diable légionnaire" dans le livre des damnés, le terme initial a été conservé car plus proche du nom anglais "Host Devil".
 
->>> [Diable de lost mineur](./Diable de lost mineur.md)
+>>> [[Diable de lost mineur]]

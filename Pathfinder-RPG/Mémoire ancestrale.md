@@ -11,15 +11,15 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:CCMI}**École** [Divination](./école divination.md) ; **Niveau** [Alch](./Alchimiste.md) 5, [Cham](./Chaman.md) 5, [Dru](./Druide.md) 4, [Prê](./Prêtre.md) 5
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
+{s:CCMI}**École** [[école divination|Divination]] ; **Niveau** [[alchimiste|Alch]] 5, [[Chaman|Cham]] 5, [[druide|Dru]] 4, [[prêtre|Prê]] 5
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
 **Portée** personnelle
 **Cible** lanceur de sorts
-**Durée** 1 [round](./round.md)/niveau
+**Durée** 1 [[round]]/niveau
 
-Quand le personnage lance ce sort, il ouvre son esprit aux nombreuses expériences de ses ancêtres dans l’espoir d’apprendre quelque chose de pertinent sur sa situation actuelle. Les chances de trouver un souvenir utile sont de 70% + [niveau de lanceur de sorts](./NLS.md).
+Quand le personnage lance ce sort, il ouvre son esprit aux nombreuses expériences de ses ancêtres dans l’espoir d’apprendre quelque chose de pertinent sur sa situation actuelle. Les chances de trouver un souvenir utile sont de 70% + [[NLS|niveau de lanceur de sorts]].
 
-En cas d’échec, le personnage gagne seulement un bonus d’intuition de +5 aux tests de compétence basés sur l’[Intelligence](./Intelligence.md) pour la durée du sort. En cas de réussite, il gagne non seulement le bonus mais découvre aussi que l’un de ses ancêtres a rencontré le même problème ou s’est trouvé dans la même situation. Dans ce cas, le [MJ](./MJ.md) lui donne des informations spécifiques pour l’aider à surmonter la difficulté.
+En cas d’échec, le personnage gagne seulement un bonus d’intuition de +5 aux tests de compétence basés sur l’[[Intelligence]] pour la durée du sort. En cas de réussite, il gagne non seulement le bonus mais découvre aussi que l’un de ses ancêtres a rencontré le même problème ou s’est trouvé dans la même situation. Dans ce cas, le [[MJ]] lui donne des informations spécifiques pour l’aider à surmonter la difficulté.
 
-Par exemple, si le personnage rencontre un [golem d’argile](./Golem dargile.md) dans un profond complexe souterrain et se rend compte que ses armes magiques et ses sorts ne sont d’aucune utilité, il peut lancer souvenir ancestral et se « souvenir » des armes et des sorts qui fonctionnent contre ce type de créature.
+Par exemple, si le personnage rencontre un [[Golem dargile|golem d’argile]] dans un profond complexe souterrain et se rend compte que ses armes magiques et ses sorts ne sont d’aucune utilité, il peut lancer souvenir ancestral et se « souvenir » des armes et des sorts qui fonctionnent contre ce type de créature.

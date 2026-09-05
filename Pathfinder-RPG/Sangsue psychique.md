@@ -15,12 +15,12 @@ Categories:
 - Src Occult Origins
 ---
 
-{s:cs}{s:OO}**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[émotion, effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Hyp](./Hypnotiseur.md) 2, [Magus](./Magus.md) 3, [Méd](./Médium.md) 3, [Psy](./Psychiste.md) 2, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 2, [Spi](./Spirite.md) 2
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [G](./composantes.md)
-**Portée** [courte](./courte.md) (7,50m + 1,50m/2 niveaux)
+{s:cs}{s:OO}**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion, effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Hypnotiseur|Hyp]] 2, [[Magus]] 3, [[Médium|Méd]] 3, [[Psychiste|Psy]] 2, [[Sanguin|San]] 3, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|G]]
+**Portée** [[courte]] (7,50m + 1,50m/2 niveaux)
 **Cible** une créature vivante
-**Durée** 1 minute/[niveau](./niveau.md) (T)
-**Jet de sauvegarde** [Volonté, partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Durée** 1 minute/[[niveau]] (T)
+**Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|Volonté, partiel]] ; **Résistance à la magie** oui
 
-La cible est victime d'un sentiment d'ennui et de léthargie, elle devient [fatiguée](./Fatigué.md) pendant la durée du sort. Tant que la cible est fatiguée et qu'elle reste dans la portée du sort, le personnage bénéficie d’un bonus d'altération de +2 à ses valeurs de [Force](./Force.md) et de [Dextérité](./Dextérité.md). Si la cible réussit le [jet de sauvegarde](./JDS.md), elle n'est fatiguée que pendant 1d4 [rounds](./round.md) et le personnage ne reçoit aucun bonus. Ce sort n'a aucun effet s'il cible une créature déjà fatiguée.
+La cible est victime d'un sentiment d'ennui et de léthargie, elle devient [[fatigué|fatiguée]] pendant la durée du sort. Tant que la cible est fatiguée et qu'elle reste dans la portée du sort, le personnage bénéficie d’un bonus d'altération de +2 à ses valeurs de [[Force]] et de [[Dextérité]]. Si la cible réussit le [[jds|jet de sauvegarde]], elle n'est fatiguée que pendant 1d4 [[round|rounds]] et le personnage ne reçoit aucun bonus. Ce sort n'a aucun effet s'il cible une créature déjà fatiguée.

@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Le petit village de Chastel est situé au sud du comté de [Lozeri](./Lozeri.md) en [Ustalav](./Ustalav.md), à la lisière de la forêt de [Bois-frisson](./Bois-frisson.md).
+Le petit village de Chastel est situé au sud du comté de [[Lozeri]] en [[Ustalav]], à la lisière de la forêt de [[Bois-frisson]].

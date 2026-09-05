@@ -15,7 +15,7 @@ Les  découvertes  suivantes  viennent  compléter l’archétype :
 
 Bombe  acide,  bombe soleil, infusion, mutagène imprégné, mutagène sauvage, vase en bouteille.
 
-Voir les [découvertes](./découvertes.md) de l'alchimiste.
+Voir les [[découvertes]] de l'alchimiste.
 
 ### Mutagène  expérimental  (Sur).
 Au  niveau  2,  un  chercheur  sait   comment   créer   un   mutagène   expérimental dont  les  autres  peuvent  bénéficier,  même  si  l’effet est moins important   que   celui   d’un   mutagène   normal.

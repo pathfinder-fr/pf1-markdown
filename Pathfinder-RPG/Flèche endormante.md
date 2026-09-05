@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Flèche endormante|{s:AE}}
-**Aura** [Enchantement](./Enchantement.md) faible ; **NLS** 5 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 132 po ; **Poids** 50 g
+**Aura** [[Enchantement]] faible ; **NLS** 5 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 132 po ; **Poids** 50 g
 (((Description)))
-Cette étrange [flèche](./Flèches (arme).md) +1 est totalement blanche. Si elle touche sa cible, au lieu d’infliger des dégâts, elle explose dans une petite décharge d’énergie magique qui inflige des points de dégâts [non-létaux](./Blessures et mort.md#NONLETAL) (correspondant aux points de dégâts létaux qu’elle aurait dû occasionner) et force la créature touchée à faire un jet de [Volonté](./Volonté.md) [DD](./DD.md) 11. Si elle échoue, elle tombe [endormie](./Sans défense.md).
+Cette étrange [[Flèches (arme)|flèche]] +1 est totalement blanche. Si elle touche sa cible, au lieu d’infliger des dégâts, elle explose dans une petite décharge d’énergie magique qui inflige des points de dégâts [[blessures et mort#NONLETAL|non-létaux]] (correspondant aux points de dégâts létaux qu’elle aurait dû occasionner) et force la créature touchée à faire un jet de [[Volonté]] [[DD]] 11. Si elle échoue, elle tombe [[sans défense|endormie]].
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[sommeil](./Sommeil.md)* ; **Coût** 70 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[sommeil]]* ; **Coût** 70 po
 </div>

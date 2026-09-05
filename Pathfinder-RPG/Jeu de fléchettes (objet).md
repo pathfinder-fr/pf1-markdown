@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pa ; **Poids** 5 kg
-<span class="Catégorie">**Catégorie** [Jeux](./Jeux.md)</span>
+<span class="Catégorie">**Catégorie** [[Jeux]]</span>
 ---
 Ce jeu comprend une cible multicolore et six fléchettes à pointe en cuivre. La cible se compose généralement d’un revêtement en bois tendre ou en liège sur un support en bois dur.

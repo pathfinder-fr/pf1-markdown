@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-Capitale d'[Herméa](./Herméa.md), cette petite cité est située sur la côte sud de l'île occupée par la nation fondée par Mengkare, le dragon d'or.
+Capitale d'[[Herméa]], cette petite cité est située sur la côte sud de l'île occupée par la nation fondée par Mengkare, le dragon d'or.
 
-Elle est occupée par les plus brillants esprits que compte la race humaine en [Golarion](./Géographie.md), invités par Mengkare à participer à son expérience utopique.
+Elle est occupée par les plus brillants esprits que compte la race humaine en [[Golarion.géographie|Golarion]], invités par Mengkare à participer à son expérience utopique.
 
 La principale curiosité de cette ville est le mur de grès rouge qui sépare les docks du port de commerce du reste de la ville.

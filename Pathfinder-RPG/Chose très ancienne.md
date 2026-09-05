@@ -10,7 +10,7 @@ LastModified: 2017-01-19 21:00
 {s:pucem|Aberration|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 32*}
 - 1 600 PX
-- [Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille M, LN
+- [[type aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille M, LN
 - **Init **+2 ; Sens vision à 360°, vision dans le noir à 18 m ; Perception +13
 (((Défense)))
 - **CA **18, contact 12, pris au dépourvu 16 (Dex +2, naturelle +6)
@@ -24,8 +24,8 @@ LastModified: 2017-01-19 21:00
 (((Statistiques)))
 - **For **15, **Dex **14, **Con **19, **Int **20, **Sag **16, **Cha **17
 - **BBA **+5 ; **BMO **+7 (+11 pour la lutte) ; **DMD **19 (croc-en-jambe impossible)
-- **Dons **[Expertise du combat](./Expertise du combat.md), [Attaques réflexes](./Attaques réflexes.md), [Endurance](./Endurance.md), [Vigueur surhumaine](./Vigueur surhumaine.md)
-- **Compétences **[Art de la magie](./Art de la magie.md) +15, [Connaissances](./Connaissances.md) (mystères) +12, [Natation](./Natation.md) +20, [Perception](./Perception.md) +13, [Premiers secours](./Premiers secours.md) +10, [Sabotage](./Sabotage.md) +9, [Survie](./Survie.md) +13, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +10, [Vol](./Vol.md) +4 
+- **Dons **[[Expertise du combat]], [[Attaques réflexes]], [[Endurance]], [[Vigueur surhumaine]]
+- **Compétences **[[Art de la magie]] +15, [[Connaissances]] (mystères) +12, [[Natation]] +20, [[Perception]] +13, [[Premiers secours]] +10, [[Sabotage]] +9, [[Survie]] +13, [[utilisation dobjets magiques|Utilisation d’objets magiques]] +10, [[Vol]] +4 
 - **Langues **chose très ancienne
 - **Particularités **amphibie, hibernation, vol stellaire limité, ne respire pas
 (((Écologie)))

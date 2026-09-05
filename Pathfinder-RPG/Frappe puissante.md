@@ -9,15 +9,15 @@ Categories:
 
 *Les attaques du personnage traversent la défense de certaines créatures. Le personnage doit choisir une arme pour laquelle il dispose déjà du don Arme de prédilection.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Arme de prédilection](./Arme de prédilection.md), [bonus de base à l’attaque](./BBA.md) +1, [guerrier](./Guerrier.md) de niveau 12, maniement de l’arme choisie.
+**Conditions.** [[Arme de prédilection]], [[BBA|bonus de base à l’attaque]] +1, [[guerrier]] de niveau 12, maniement de l’arme choisie.
 
-**Avantage.** Les attaques du personnage utilisant une des armes choisies pour Arme de prédilection ignorent jusqu’à 5 points de [réduction de dégâts](./RD.md). Ce don ne s'applique pas aux RD non typées (telles que RD 10/-).
+**Avantage.** Les attaques du personnage utilisant une des armes choisies pour Arme de prédilection ignorent jusqu’à 5 points de [[RD|réduction de dégâts]]. Ce don ne s'applique pas aux RD non typées (telles que RD 10/-).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise les armes choisies pour infliger des dégâts à une créature dotée d’une [réduction de dégâts](./RD.md), il peut dépenser 5 points d’endurance pour que tous les alliés (lui excepté) situés dans un rayon de 9 mètres autour d’elle ignorent 5 points de RD pendant 1 [round](./round.md). Ce pouvoir n’affecte pas les créatures dotées d’une réduction de dégâts sans type (comme une RD 10/—). Cet effet ne se cumule pas avec l’effet normal de la Frappe puissante mais permet au personnage de l’appliquer à ses autres armes pour toute sa durée.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise les armes choisies pour infliger des dégâts à une créature dotée d’une [[RD|réduction de dégâts]], il peut dépenser 5 points d’endurance pour que tous les alliés (lui excepté) situés dans un rayon de 9 mètres autour d’elle ignorent 5 points de RD pendant 1 [[round]]. Ce pouvoir n’affecte pas les créatures dotées d’une réduction de dégâts sans type (comme une RD 10/—). Cet effet ne se cumule pas avec l’effet normal de la Frappe puissante mais permet au personnage de l’appliquer à ses autres armes pour toute sa durée.
 
 {s:CMy}
 ### Version mythique
@@ -25,4 +25,4 @@ Quand le personnage utilise les armes choisies pour infliger des dégâts à une
 
 **Condition.** Frappe puissante
 
-**Avantage.** Lorsqu’il utilise Frappe puissante ou [Frappe puissante supérieure](./Frappe puissante supérieure.md), le personnage peut ignorer un point supplémentaire de réduction des dégâts pour chaque tranche de trois [grades](./grades.md) possédés. De plus, les effets s’appliquent aux réductions de dégâts dénuées de type (telle que RD 10/- par exemple).
+**Avantage.** Lorsqu’il utilise Frappe puissante ou [[Frappe puissante supérieure]], le personnage peut ignorer un point supplémentaire de réduction des dégâts pour chaque tranche de trois [[grades]] possédés. De plus, les effets s’appliquent aux réductions de dégâts dénuées de type (telle que RD 10/- par exemple).

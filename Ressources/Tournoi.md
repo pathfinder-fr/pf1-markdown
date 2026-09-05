@@ -353,4 +353,4 @@ Dans tous les cas, la demoiselle mouillée devra sortir avec l'aide du PJ qui lu
 
 *Merci à Delthos, Darkeyes777 et les créateurs de Kingmaker (5ième opus).*
 
-N'hésitez pas à poster des idées d'autres épreuves [http://www.pathfinder-fr.org/Forum/yaf_postsm499593_Tournoi.aspx#post499593|ici]
+N'hésitez pas à poster des idées d'autres épreuves [ici](http://www.pathfinder-fr.org/Forum/yaf_postsm499593_Tournoi.aspx#post499593)

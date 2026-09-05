@@ -4,7 +4,7 @@ Title: Aides de jeu Le Crâne du Serpent
 LastModified: 2010-12-11 20:10
 ---
 
-Vous trouverez la présentation de cette campagne sur [cette page](./Présentation AP7.md).
+Vous trouverez la présentation de cette campagne sur [[Présentation AP7|cette page]].
 
 ### Aides pour Des âmes pour le Coutelas des Contrebandiers/Souls for Smugglers' Shiv
 

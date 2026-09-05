@@ -11,14 +11,14 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 2, [Bard](./Barde.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Sor](./Sorcière.md) 2
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2
 **Temps d'incantation** 1 minute
-**Composantes** [V, G, M](./composantes.md) (une potion à tatouer, des encres spéciales d’une valeur de 500 po)
+**Composantes** [[composantes|V, G, M]] (une potion à tatouer, des encres spéciales d’une valeur de 500 po)
 **Portée** une potion
 **Effet** un tatouage de sort
 **Durée** instantanée
-**Jet de sauvegarde** [aucun](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** non
 
 Quand il lance ce sort, le personnage verse des encres de tatouage spéciales dans une potion de son choix. Une fois le sort potion de tatouage lancé, la potion se met à bouillonner et à pétiller. Si personne ne la boit en l’espace d’une minute après l’incantation du sort, elle est détruite et disparaît en vapeur.
 
-Quand une potion sous l’effet de ce sort est ingurgitée, les effets de la potion ne s’activent pas. À la place, la potion se transforme en un [tatouage de sort](./Tatouage de sort.md) sur la poitrine (emplacement de tatouage) du buveur de la potion. Si le buveur possède déjà un tatouage magique sur cet emplacement, la potion de tatouage ne produit aucun effet. Une fois la potion transformée en un tatouage de sort, elle reste telle quelle en permanence jusqu’à ce qu’elle soit utilisée en tant que tatouage de sort.
+Quand une potion sous l’effet de ce sort est ingurgitée, les effets de la potion ne s’activent pas. À la place, la potion se transforme en un [[tatouage de sort]] sur la poitrine (emplacement de tatouage) du buveur de la potion. Si le buveur possède déjà un tatouage magique sur cet emplacement, la potion de tatouage ne produit aucun effet. Une fois la potion transformée en un tatouage de sort, elle reste telle quelle en permanence jusqu’à ce qu’elle soit utilisée en tant que tatouage de sort.

@@ -18,48 +18,48 @@ Categories:
 - Sort sorcière 2
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 2, [Bard](./Barde.md) 2, [Cham](./Chaman.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 3, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, F/FD](./composantes.md) (un petit bout de fer bien droit)
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
-**Cible** 1 [humanoïde](./type Humanoïde.md)
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE)) (voir texte)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 3, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, F/FD]] (un petit bout de fer bien droit)
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
+**Cible** 1 [[type humanoïde|humanoïde]]
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]]) (voir texte)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 ---
-La cible du sort se fige et se retrouve [paralysée](./Paralysé.md). Elle reste consciente de ce qui se passe autour d’elle et peut respirer normalement mais ne peut entreprendre aucune action, pas même parler. Chaque [round](./round.md), lors de son tour, elle peut effectuer un nouveau [jet de sauvegarde](./Présentation des sorts.md#JETSDESAUVEGARDE) pour tenter de mettre fin à l’effet. Il s’agit d’une [action complexe](./Action complexe.md) qui ne provoque pas d’[attaques d’opportunité](./attaque dopportunité.md). Si une créature ailée se retrouve [paralysée](./Paralysé.md), elle ne peut plus battre des ailes et tombe. Un nageur [paralysé](./Paralysé.md) ne peut plus bouger et risque de se noyer.
+La cible du sort se fige et se retrouve [[paralysé|paralysée]]. Elle reste consciente de ce qui se passe autour d’elle et peut respirer normalement mais ne peut entreprendre aucune action, pas même parler. Chaque [[round]], lors de son tour, elle peut effectuer un nouveau [[Présentation des sorts#JETSDESAUVEGARDE|jet de sauvegarde]] pour tenter de mettre fin à l’effet. Il s’agit d’une [[action complexe]] qui ne provoque pas d’[[attaque dopportunité|attaques d’opportunité]]. Si une créature ailée se retrouve [[paralysé|paralysée]], elle ne peut plus battre des ailes et tombe. Un nageur [[paralysé]] ne peut plus bouger et risque de se noyer.
 
 
 
 ((({s:sortssimilaires|immobilisation de personne}
-## [Immobilisation d'animal](./Immobilisation danimal.md)
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 2, [Hyp](./Hypnotiseur.md) 2, [Psy](./Psychiste.md) 2, [Rôd](./Rôdeur.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+## [[Immobilisation danimal|Immobilisation d'animal]]
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
 **Cible** 1 animal
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE)) (voir texte)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]]) (voir texte)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[immobilisation de personne](./Immobilisation de personne.md)*, si ce n’est qu’il affecte un animal.
+Ce sort fonctionne comme *[[immobilisation de personne]]*, si ce n’est qu’il affecte un animal.
 
-## [Immobilisation de monstre](./Immobilisation de monstre.md)
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 4, [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 5, [Hyp](./Hypnotiseur.md) 4, [Inq](./Inquisiteur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Méd](./Médium.md) 4, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M/FD](./composantes.md) (un bâtonnet ou une barre de métal résistant, à peine aussi long qu’un clou)
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+## [[Immobilisation de monstre]]
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Hypnotiseur|Hyp]] 4, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M/FD]] (un bâtonnet ou une barre de métal résistant, à peine aussi long qu’un clou)
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
 **Cible** 1 créature vivante
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE)) (voir texte)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
-<hr>Ce sort fonctionne comme *[immobilisation de personne](./Immobilisation de personne.md)*, si ce n’est qu’il affecte n’importe quelle créature vivante ratant son jet de [Volonté](./Volonté.md).
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]]) (voir texte)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
+<hr>Ce sort fonctionne comme *[[immobilisation de personne]]*, si ce n’est qu’il affecte n’importe quelle créature vivante ratant son jet de [[Volonté]].
 
-## [Immobilisation de monstre de groupe](./Immobilisation de monstre de groupe.md)
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 9, [Psy](./Psychiste.md) 9, [Sor](./Sorcière.md) 9
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M/FD](./composantes.md) (un bâtonnet ou une barre de métal résistant, à peine aussi long qu’un clou)
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+## [[Immobilisation de monstre de groupe]]
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M/FD]] (un bâtonnet ou une barre de métal résistant, à peine aussi long qu’un clou)
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
 **Cible** 1 ou plusieurs créatures, distantes de moins de 9 m/6 {s:c} les unes des autres
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE)) (voir texte)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]]) (voir texte)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[immobilisation de monstre](./Immobilisation de monstre.md)*, si ce n’est qu’il affecte un groupe de créatures vivantes et immobilise toutes celles qui ratent leur jet de [Volonté](./Volonté.md).
+Ce sort fonctionne comme *[[immobilisation de monstre]]*, si ce n’est qu’il affecte un groupe de créatures vivantes et immobilise toutes celles qui ratent leur jet de [[Volonté]].
 )))

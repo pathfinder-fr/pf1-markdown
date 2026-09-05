@@ -10,8 +10,8 @@ LastModified: 2015-12-03 00:07
 {s:pucem|Créature magique|Collines|Tempéré}
 - *Source : Bestiaire 2* p.251                
 - **PX** 1 600
-- [Créature magique](./type Créature magique.md) de taille M, CN
-- **Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +15
+- [[Type Créature magique|Créature magique]] de taille M, CN
+- **Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +15
 (((Défense)))
 - **CA** 18, contact 14, pris au dépourvu 14 (Dex +3, esquive +1, naturelle +4)
 - **pv** 52 (8d10+8)
@@ -20,14 +20,14 @@ LastModified: 2015-12-03 00:07
 (((Attaque)))
 - **VD** 9 m (6 {s:c}), vol 18 m (12 {s:c}) (bonne)
 - **Corps à corps** 2 serres, +11 (1d6)
-- **Attaques spéciales** [attaque sournoise](./attaque sournoise.md) +2d6, chant des sirènes, représentation bardique
+- **Attaques spéciales** [[attaque sournoise]] +2d6, chant des sirènes, représentation bardique
 - **Pouvoirs magiques** (NLS 7 ; concentration +12)
-  - 3/jour — *[charme-personne](./Charme-personne.md)* (DD 16), *[cri](./Cri.md)* (DD 19), *[frayeur](./Frayeur.md)* (DD 16), *[sommeil profond](./Sommeil profond.md)* (DD 18)
+  - 3/jour — *[[charme-personne]]* (DD 16), *[[cri]]* (DD 19), *[[frayeur]]* (DD 16), *[[sommeil profond]]* (DD 18)
 (((Statistiques)))
 - **For** 10, **Dex** 17, **Con** 12, **Int** 14, **Sag** 19, **Cha** 21
 - **BBA** +8 ; **BMO** +8 ; **DMD** 22
-- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaque en vol](./Attaque en vol.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md)
-- **Compétences** [Connaissances](./Connaissances.md) (histoire) +10, [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +15, [Représentation](./Représentation.md) (chant) +13, [Vol](./Vol.md) +7
+- **Dons** [[Attaque en finesse]], [[Attaque en vol]], [[Esquive]], [[Réflexes surhumains]]
+- **Compétences** [[Connaissances]] (histoire) +10, [[Discrétion]] +14, [[Perception]] +15, [[Représentation]] (chant) +13, [[Vol]] +7
 - **Langues** aérien, commun
 (((Écologie)))
 - **Environnement** collines tempérées ou chaudes
@@ -35,11 +35,11 @@ LastModified: 2015-12-03 00:07
 - **Trésor** standard
 (((Pouvoirs spéciaux)))
   - **Chant des sirènes (Sur)**. Quand une sirène chante, toutes les créatures situées dans une étendue de 90 mètres de rayon (à l’exception des sirènes) doivent réussir un jet de Volonté de DD 19 pour ne pas être captivées (voir ci-dessous). Les effets dépendent du chant choisi par la sirène et persistent tant que celle-ci chante et même 1 round de plus après la fin du chant. Les créatures qui réussissent leur jet de sauvegarde ne peuvent plus être affectées par les chants (de tous types) de la sirène pendant 1 heure. Il s’agit d’un effet mental de son. Le DD du jet de sauvegarde dépend du Charisme. Les créatures captivées se comportent de l’une des quatre manières suivantes, selon le choix de la sirène au moment où elle s’est mise à chanter.
-• <u>Captivé</u>. Cela fonctionne comme le chant captivant de la [harpie](./Harpie.md).
+• <u>Captivé</u>. Cela fonctionne comme le chant captivant de la [[harpie]].
 • <u>Ensommeillé</u>. La victime tombe immédiatement endormie et devient concrètement sans défense. Tant que la sirène continue à chanter, aucun bruit ne peut réveiller la victime (toutefois, si elle est frappée ou blessée, elle se réveille). La victime continue de dormir pendant 1d4 minutes après la fin du chant mais elle peut alors être réveillée par des bruits forts en plus des autres méthodes.
 • <u>Fasciné</u>. Les créatures affectées sont fascinées.
 • <u>Obsédé</u>. Une victime obsédée prend la défense de la sirène et fait tout ce qu’elle peut pour empêcher qu’il ne lui arrive du mal (elle peut aller jusqu’à attaquer ses anciens alliés pour défendre la sirène). La victime n’est pas contrôlée par la sirène, mais elle la considère comme une alliée vénérée. Il s’agit d’un effet de charme.
-  - **Représentation bardique (Sur)**. Une sirène dispose d’une capacité de représentation bardique similaire à celle d’un barde de niveau 4 (9 rounds/jour) et peut utiliser les pouvoirs de [contre-chant](./Repr%c3%a9sentations-ashx.md#CONTRE-CHANT), de [distraction](./Repr%c3%a9sentations-ashx.md#DISTRACTION), de [fascination](./Repr%c3%a9sentations-ashx.md#FASCINATION), d’[inspiration talentueuse](./Repr%c3%a9sentations-ashx.md#INSPIRATIONTALENTUEUSE) et d’[inspiration vaillante](./Repr%c3%a9sentations-ashx.md#INSPIRATIONVAILLANTE). Si elle dispose de niveaux de barde, ceux-ci se cumulent avec cette capacité.
+  - **Représentation bardique (Sur)**. Une sirène dispose d’une capacité de représentation bardique similaire à celle d’un barde de niveau 4 (9 rounds/jour) et peut utiliser les pouvoirs de [[Repr%c3%a9sentations.ashx#CONTRE-CHANT|contre-chant]], de [[Repr%c3%a9sentations.ashx#DISTRACTION|distraction]], de [[Repr%c3%a9sentations.ashx#FASCINATION|fascination]], d’[[Repr%c3%a9sentations.ashx#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] et d’[[Repr%c3%a9sentations.ashx#INSPIRATIONVAILLANTE|inspiration vaillante]]. Si elle dispose de niveaux de barde, ceux-ci se cumulent avec cette capacité.
 
 </div>
 <td><div>*Cette créature au corps de faucon et à la tête d’une femme magnifique aux longs cheveux brillants.*

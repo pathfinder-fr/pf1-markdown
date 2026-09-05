@@ -36,7 +36,7 @@ Il y a quelque 200 ans de cela, un prêtre de Sarenrae a attaqué un groupe de v
 
 Le prêtre a scellé la salle et a inscrit sur l’écoutille le sort de contrainte le plus puissant dont il disposait. Et c’est ainsi que, jusqu’aujourd’hui, le vrock est resté emprisonné dans cet endroit. En ouvrant l’écoutille (ce qui nécessite un test de Force de DD 25), on brise le sort et on libère le vrock, qui tente immédiatement de s’échapper. Cependant, sa colère a grandit durant toutes ces années, et il s’acharnera sur les pauvres personnages joueurs qui l’ont libéré. Il fuira en se téléportant sitôt qu’il se sentira vraiment menacé.
 
-[imageleft|(Méphite de vapeur par Vicki Hood)|http://mimir.net/mephits/steam.jpg]
+<img src="http://mimir.net/mephits/steam.jpg" class="imageleft" alt="(Méphite de vapeur par Vicki Hood)">
 </td><td>
 ### Les méphites
 Le vrock est un spécimen tout à fait normal pour son espèce. Les deux méphites de vapeur sont décrits ci-dessous. L’un d’eux est un barde et l’autre, un ensorceleur.

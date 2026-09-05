@@ -187,6 +187,6 @@ Les annonces PsD sur notre serveur Discord sont publiées dans le canal #recrute
 Les deux principales tables de jeu virtuel utilisées par les maître de jeu sont Foundry et Roll20.
 Dans les deux cas, ce sont des plateformes gratuites pour les joueurs. Vous aurez besoin d'un ordinateur, d'un micro. les conversations audio se déroulent sur Discord, il vous faudra donc installer Discord et rejoindre notre serveur
 
-Pour **Roll20** il faudra créer un compte sur [Roll20](https://app.roll20.net/) puis attendre le lien d'invitation à la partie de votre Maître de Jeu, pour pouvoir accéder à la partie et remplir votre fiche de personnage.
+Pour **Roll20** il faudra créer un compte sur [Roll20](https://app.roll20.net) puis attendre le lien d'invitation à la partie de votre Maître de Jeu, pour pouvoir accéder à la partie et remplir votre fiche de personnage.
 
 Pour **Foundry VTT** il faudra créer un compte sur [TheForge](https://eu.forge-vtt.com/) (si le serveur du Maître de Jeu et hébergé sur TheForge) puis attendre le lien d'invitation à la partie de votre Maître de Jeu. Pour pouvoir accéder à la partie, le MJ vous donnera également un identifiant et un mot de passe pour accéder à la partie en elle-même ensuite vous pourrez remplir votre fiche de personnage.

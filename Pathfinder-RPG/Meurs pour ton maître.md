@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Le familier tumeur du personnage est prêt à tout pour lui sauver la vie. *
 
-**Condition.** [Découverte](./découvertes.md) d’alchimiste familier tumeur
+**Condition.** [[découvertes|Découverte]] d’alchimiste familier tumeur
 
-**Avantage.** Si le familier tumeur est attaché au personnage et que ce dernier doit tomber à 0 [point de vie](./pv.md) ou moins à cause de dégâts reçus en combat (de la part d’une arme ou d’une autre forme de coup, pas à cause d’un sort ou d’un pouvoir spécial), le familier se jette sur la trajectoire de l’attaque par une [action immédiate](./Action immédiate.md). S’il réussit un jet de [Réflexes](./Réflexes.md) ([DD](./DD.md) = dégâts infligés) il reçoit tous les dégâts de l’attaque, s’il le rate il en prend la moitié et le personnage reçoit le reste.
+**Avantage.** Si le familier tumeur est attaché au personnage et que ce dernier doit tomber à 0 [[pv|point de vie]] ou moins à cause de dégâts reçus en combat (de la part d’une arme ou d’une autre forme de coup, pas à cause d’un sort ou d’un pouvoir spécial), le familier se jette sur la trajectoire de l’attaque par une [[action immédiate]]. S’il réussit un jet de [[Réflexes]] ([[DD]] = dégâts infligés) il reçoit tous les dégâts de l’attaque, s’il le rate il en prend la moitié et le personnage reçoit le reste.
 
-Pour se servir de ce pouvoir, le familier doit être conscient de l’attaque et capable de réagir. Il ne peut le faire qu’une fois par jour. S’il ne dispose pas de son bonus de Dextérité à la CA, il ne peut pas s’en servir. Comme ce pouvoir ne revient pas à faire un jet de [Réflexes](./Réflexes.md) pour éviter la moitié des dégâts, l’[esquive surnaturelle](./Moine.md#ESQUIVESURNATURELLE) ne s’applique pas au [jet de sauvegarde](./jet de sauvegarde.md).
+Pour se servir de ce pouvoir, le familier doit être conscient de l’attaque et capable de réagir. Il ne peut le faire qu’une fois par jour. S’il ne dispose pas de son bonus de Dextérité à la CA, il ne peut pas s’en servir. Comme ce pouvoir ne revient pas à faire un jet de [[Réflexes]] pour éviter la moitié des dégâts, l’[[moine#ESQUIVESURNATURELLE|esquive surnaturelle]] ne s’applique pas au [[jet de sauvegarde]].

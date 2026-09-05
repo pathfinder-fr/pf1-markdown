@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}{s:MR}**Prix** 150 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 20
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Le tonique infectieux accroît l’efficacité d’une attaque infectieuse dont la maladie est transmise à une créature par contact physique, comme la [fièvre des marais](./Maladies.md#FIEVREDESMARRAIS) des [rats sanguinaires](./Rat sanguinaire.md). La prochaine fois qu’une créature doit faire un [jet de sauvegarde](./JDS.md) contre le [DD](./DD.md) de sauvegarde de la maladie du buveur, le [DD](./DD.md) de l’infection initiale augmente de +2. Le tonique dure 10 minutes ou jusqu’au prochain jet de sauvegarde que la créature doit faire contre les DD de la maladie du buveur (situation qui se présente la première).
+Le tonique infectieux accroît l’efficacité d’une attaque infectieuse dont la maladie est transmise à une créature par contact physique, comme la [[Maladies#FIEVREDESMARRAIS|fièvre des marais]] des [[Rat sanguinaire|rats sanguinaires]]. La prochaine fois qu’une créature doit faire un [[jds|jet de sauvegarde]] contre le [[DD]] de sauvegarde de la maladie du buveur, le [[DD]] de l’infection initiale augmente de +2. Le tonique dure 10 minutes ou jusqu’au prochain jet de sauvegarde que la créature doit faire contre les DD de la maladie du buveur (situation qui se présente la première).

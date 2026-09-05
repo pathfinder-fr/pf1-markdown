@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Aptitudes de la voie du Filou Mythique
 ---
 
->>> [Aptitudes de la voie du Filou Mythique](./Aptitudes de la voie du Filou Mythique.md)
+>>> [[Aptitudes de la voie du Filou Mythique]]

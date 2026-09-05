@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Arc du Borgne|{s:CMy}}
-**Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 15 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 38 000 po ; **Poids** 2,5 kg
+**Aura** [[Transmutation]] puissante ; **NLS** 15 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 38 000 po ; **Poids** 2,5 kg
 (((Description)))
-{s:cs}Cet arc doré est un *[arc long composite](./arc long composite (arme).md) (+6 For) à [longue portée](./longue portée (propriété).md) à [munitions inépuisables](./munitions inépuisables (propriété).md) +1* qui crée une flèche dorée à chaque fois que son porteur le dégaine. S’il dépense une utilisation de [pouvoir mythique](./pouvoir mythique.md), le porteur de l’arc fait une unique attaque et applique le résultat à tous les ennemis situés dans un rayon de 18 mètres de lui. Il ne fait qu’un seul [jet de dégâts](./Valeurs de combat.md#DEGATS) et l’applique à tous les ennemis touchés. Si l’attaque est un [critique potentiel](./coup critique.md), le porteur ne choisit qu’un seul ennemi parmi ceux qu’il a touchés et tente de le confirmer contre lui.
+{s:cs}Cet arc doré est un *[[arc long composite (arme)|arc long composite]] (+6 For) à [[longue portée (propriété)|longue portée]] à [[munitions inépuisables (propriété)|munitions inépuisables]] +1* qui crée une flèche dorée à chaque fois que son porteur le dégaine. S’il dépense une utilisation de [[pouvoir mythique]], le porteur de l’arc fait une unique attaque et applique le résultat à tous les ennemis situés dans un rayon de 18 mètres de lui. Il ne fait qu’un seul [[Valeurs de combat#DEGATS|jet de dégâts]] et l’applique à tous les ennemis touchés. Si l’attaque est un [[coup critique|critique potentiel]], le porteur ne choisit qu’un seul ennemi parmi ceux qu’il a touchés et tente de le confirmer contre lui.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), [Artisan mythique](./Artisan mythique (mythique).md), *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*, *[rapidité](./Rapidité.md)* ; **Coût** 19 500 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], [[Artisan mythique (mythique)|Artisan mythique]], *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]*, *[[rapidité]]* ; **Coût** 19 500 po
 </div>

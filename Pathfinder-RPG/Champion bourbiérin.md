@@ -13,9 +13,9 @@ Categories:
 {s:pucem|Humanoïde|Marais|Tempéré}
 {s:BDTexte|*Source : Codex monstrueux p.10*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Bourbiérin](./Bourbiérin.md) [guerrier](./Guerrier.md) 5}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) (bourbiérin) de taille M, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[Bourbiérin]] [[guerrier]] 5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (bourbiérin) de taille M, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 11, pris au dépourvu 21 (armure +6, bouclier +2, Dex +1, naturelle +3)}
 {s:BDTexte|**pv** 72 (8 DV ; 3d8+5d10+32)}
@@ -30,11 +30,11 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 13, **Con** 16, **Int** 8, **Sag** 13, **Cha** 8}
 {s:BDTexte|**BBA** +7 ; **BMO** +12 ; **DMD** 23}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (terbutje), [Attaque en puissance](./Attaque en puissance.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Spécialisation martiale](./Spécialisation martiale.md) (terbutje)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +2 (+18 pour sauter), [Discrétion](./Discrétion.md) +0 (+8 dans les marais), [Escalade](./Escalade.md) +6, [Intimidation](./Intimidation.md) +6, [Natation](./Natation.md) +10, [Perception](./Perception.md) +5, [Survie](./Survie.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (terbutje), [[Attaque en puissance]], [[Frappe décisive]], [[Réflexes surhumains]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Spécialisation martiale]] (terbutje)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +2 (+18 pour sauter), [[Discrétion]] +0 (+8 dans les marais), [[Escalade]] +6, [[Intimidation]] +6, [[Natation]] +10, [[Perception]] +5, [[Survie]] +8}
 {s:BDTexte|**Langues** bourbiérin}
-{s:BDTexte|**Particularités** [entraînement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES) 1, [retenir son souffle](./Retenir son souffle (capacité).md), déplacement facilité (marais)}
-{s:BDTexte|**Équipement de combat** *potion de [force de taureau](./Force de taureau.md)*, *potion de [soins importants](./Soins importants.md)* ; **Équipement divers** *[armure d’écailles](./armure décailles (armure).md) en [peau de dragon noir](./Matériaux spéciaux.md#PEAUDEDRAGON) +1*, [écu en bois](./écu (armure).md) [de maître](./armure de maître.md), *[terbutje](./terbutje (arme).md) +1*, [javelines](./javeline (arme).md) [de maître](./arme de maître.md) (2), 282 po}
+{s:BDTexte|**Particularités** [[Guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] 1, [[retenir son souffle (capacité)|retenir son souffle]], déplacement facilité (marais)}
+{s:BDTexte|**Équipement de combat** *potion de [[force de taureau]]*, *potion de [[soins importants]]* ; **Équipement divers** *[[armure décailles (armure)|armure d’écailles]] en [[Matériaux spéciaux#PEAUDEDRAGON|peau de dragon noir]] +1*, [[écu (armure)|écu en bois]] [[armure de maître|de maître]], *[[terbutje (arme)|terbutje]] +1*, [[javeline (arme)|javelines]] [[arme de maître|de maître]] (2), 282 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -42,29 +42,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Bourbiérin](./Bourbiérin.md) || 2
+| [[Bourbiérin]] || 2
 |-
-| [Bourbiérin balafré](./Bourbiérin balafré.md) || 6
+| [[Bourbiérin balafré]] || 6
 |-
-| [Bourbiérin sauvage](./Bourbiérin sauvage.md) || 4
+| [[Bourbiérin sauvage]] || 4
 |-
-| [Brute bourbiérine](./Brute bourbiérine.md) || 3
+| [[Brute bourbiérine]] || 3
 |-
-| [Champion bourbiérin](./Champion bourbiérin.md) || 7
+| [[Champion bourbiérin]] || 7
 |-
-| [Chasseur bourbiérin](./Chasseur bourbiérin.md) || 5
+| [[Chasseur bourbiérin]] || 5
 |-
-| [Grandcoasseur bourbiérin](./Grandcoasseur bourbiérin.md) || 3
+| [[Grandcoasseur bourbiérin]] || 3
 |-
-| [Guerrier abyssal bourbiérin](./Guerrier abyssal bourbiérin.md) || 8
+| [[Guerrier abyssal bourbiérin]] || 8
 |-
-| [Oracle du marais bourbiérin](./Oracle du marais bourbiérin.md) || 4
+| [[Oracle du marais bourbiérin]] || 4
 |-
-| [Prêtre-roi bourbiérin](./Prêtre-roi bourbiérin.md) || 11
+| [[Prêtre-roi bourbiérin]] || 11
 |-
-| [Prophète bourbiérin](./Prophète bourbiérin.md) || 5
+| [[Prophète bourbiérin]] || 5
 |-
-| [Traqueur bourbiérin](./Traqueur bourbiérin.md) || 9
+| [[Traqueur bourbiérin]] || 9
 |}
 </div>La plupart des champions bourbiérins négligent la tactique au profit du chaos. Dans les tribus déficientes en magie, les champions ont un statut à peine inférieur à celui des prêtres-rois.
 </div></td></tr></table>

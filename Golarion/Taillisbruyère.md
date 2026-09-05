@@ -7,6 +7,6 @@ Categories:
 - Kyonin
 ---
 
-Faisant anciennement partie de la [forêt de Firéani](./forêt de Firéani.md), cette zone située au sud du [Kyonin](./Kyonin.md) est devenu un marécage nauséabond peuplé de créatures démoniaques et de fées maléfiques.
+Faisant anciennement partie de la [[forêt de Firéani]], cette zone située au sud du [[Kyonin]] est devenu un marécage nauséabond peuplé de créatures démoniaques et de fées maléfiques.
 
-Cette malédiction des lieux est due à l'installation du seigneur démon Arrache-Arbres (Treerazer) à cet endroit lorsqu'il fut repoussé par les elfes à leur retour sur [Golarion](./Golarion.md).
+Cette malédiction des lieux est due à l'installation du seigneur démon Arrache-Arbres (Treerazer) à cet endroit lorsqu'il fut repoussé par les elfes à leur retour sur [[Golarion]].

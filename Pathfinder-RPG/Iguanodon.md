@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Marais|Tropical}
 {s:BDTexte|*Source : Bestiaire 3* p.83}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Animal](./type Animal.md) de taille TG, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 10, pris au dépourvu 17 (Dex +2, naturelle +9, taille -2)}
 {s:BDTexte|**pv** 76 (9d8+36)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDTexte|**Attaque spéciale** pouces pointus}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 27, **Dex** 14, **Con** 19, **Int** 2, **Sag** 12, **Cha** 7}
-{s:BDTexte|**BBA** +6 ; **BMO** +16 ; **DMD** 28 (32 contre le [croc-en-jambe](./Manœuvres offensives.md#CROCENJAMBE))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en puissance](./Attaque en puissance.md), [Course](./Course.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +12}
+{s:BDTexte|**BBA** +6 ; **BMO** +16 ; **DMD** 28 (32 contre le [[Manœuvres offensives#CROCENJAMBE|croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Attaque en puissance]], [[Course]], [[Talent]] ([[Discrétion]]), [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +4, [[Perception]] +12}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes ou marécages}
 {s:BDTexte|**Organisation** solitaire, couple ou meute (3-6)}
@@ -37,7 +37,7 @@ Categories:
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Pouces pointus (Ext).** Les pouces pointus de l’iguanodon peuvent infliger de graves blessures : ils infligent le triple des dégâts sur un coup critique réussi.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>*Ce dinosaure semble aussi à l’aise sur deux pattes que sur quatre. Ses membres antérieurs arborent tous deux un pouce pointu et menaçant.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>*Ce dinosaure semble aussi à l’aise sur deux pattes que sur quatre. Ses membres antérieurs arborent tous deux un pouce pointu et menaçant.*
 
 Les iguanodons sont de grands dinosaures herbivores vivant dans les marécages et les forêts où ils peuvent
 profiter de l’abondante végétation. L’iguanodon est capable de se déplacer sur deux pattes comme sur quatre, passant rapidement d’un mode de déplacement à l’autre s’il doit traverser des feuillages denses ou atteindre de délicieuses bouchées suspendues dans les voûtes feuillues.  

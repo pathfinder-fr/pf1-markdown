@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Fouisseuse
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Fouisseuse](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Fouisseuse)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Fouisseuse]]

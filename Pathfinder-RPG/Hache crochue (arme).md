@@ -8,8 +8,8 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 20 po ; **Poids** 3,5 kg ; **Groupes** [haches](./groupe darmes.md#Haches)
-**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** [croc-en-jambe](./Caractéristiques des armes.md#CROCENJAMBE), [désarmement](./Caractéristiques des armes.md#DESARMEMENT), [spectacle](./Caractéristiques des armes.md#SPECTACLE)
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+{s:AE}{s:UC}**Prix** 20 po ; **Poids** 3,5 kg ; **Groupes** [[Groupe darmes#Haches|haches]]
+**Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#SPECTACLE|spectacle]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
 ---
-Le bout crochu de la lame de cette hache peut être utilisé pour [désarmer](./désarmement.md) des ennemis ou pour les [déséquilibrer](./croc-en-jambe.md). La hache crochue peut être utilisée comme une [arme de guerre](./arme de guerre.md) (auquel cas elle fonctionne comme une [hache d’armes](./Hache darmes (arme).md)).
+Le bout crochu de la lame de cette hache peut être utilisé pour [[Désarmement|désarmer]] des ennemis ou pour les [[Croc-en-jambe|déséquilibrer]]. La hache crochue peut être utilisée comme une [[arme de guerre]] (auquel cas elle fonctionne comme une [[hache darmes (arme)|hache d’armes]]).

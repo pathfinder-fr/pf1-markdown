@@ -4,8 +4,8 @@ Title: La clef de la Dame d'argent
 LastModified: 2010-11-03 22:23
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du quatrième chapitre : "[http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lbjb](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lbjb)" de la nouvelle "Le secret de la Rose et du Gant" de Kevin Andrew Murphy. Illustration de KyuShik Shin.*
 
 La roue des mois était revenue au début et, avec le mois d'Abadius, Abadar, le Maître du Premier Coffre-fort, avait fait ce qu'il faisait toujours : il avait informé poliment mais fermement les esprits des morts que la Nuit du Pal était terminée.

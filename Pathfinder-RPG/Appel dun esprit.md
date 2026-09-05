@@ -11,13 +11,13 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École **[Invocation](./Invocation (école).md) ; **Niveau** [Cham](./Chaman.md) 5, [Méd](./Médium.md) 3, [Prê](./Prêtre.md) 5, [Spi](./Spirite.md) 5{br}
+{s:AO}**École **[[Invocation (école)|Invocation]] ; **Niveau** [[chaman|Cham]] 5, [[médium|Méd]] 3, [[prêtre|Prê]] 5, [[spirite|Spi]] 5{br}
 **Temps d’incantation** 10 minutes{br}
-**Composantes** [V, G](./composantes.md){br}
+**Composantes** [[composantes|V, G]]{br}
 **Portée ** 3m{br}
 **Effet** appelle l’esprit d’une unique créature humanoïde décédée{br}
-**Durée **[concentration](./Présentation des sorts.md#La_durée_20){br}
-**Jet de sauvegarde** [Volonté annule](./Présentation des sorts.md#Jets_de_sauvegarde_9);** Résistance à la magie** non
+**Durée **[[Présentation des sorts#La_durée_20|concentration]]{br}
+**Jet de sauvegarde** [[Présentation des sorts#Jets_de_sauvegarde_9|Volonté annule]];** Résistance à la magie** non
 
 Le personnage tente de pousser l’esprit d’un individu donné à se manifester depuis la tombe. Il faut prononcer son nom pour lui demander de se montrer. Un esprit non consentant peut refuser l’invocation à condition de réussir un jet de Volonté. Si l’esprit choisi refuse d’apparaître, un autre doué d’intentions malveillantes prend presque toujours sa place, bien décidé à duper le personnage. La difficulté du jet de sauvegarde dépend de la quantité de connaissances que le personnage possède au sujet de l’esprit et des éventuels liens physiques qu’il possède avec elle.
 
@@ -54,4 +54,4 @@ Quand le personnage réussit à appeler un esprit, ce dernier se manifeste sous 
 
 L’esprit n’est pas un mort-vivant et il n’est pas lié à son invocateur. Que le personnage ait réussi à invoquer le bon esprit ou ait appelé un usurpateur, l’esprit peut refuser de répondre à ses questions ou tenter de le duper avec Bluff. Quoi qu’il en soit, l’esprit ne peut parler que de ce qu’il connaissait de son vivant, il ignore tout des événements qui se sont produits après sa mort. Un esprit maléfique peut profiter de ses capacités physiques limitées pour générer un terrible spectacle afin d’effrayer son invocateur.
 
-Le personnage doit se concentrer pour maintenir le sort, par une [action simple](./Action simple.md), afin de poser des questions, au rythme d’une par [round](./round.md). Il peut poser une question par niveau de lanceur de sorts. L’esprit répond à chacune au cours du même round. Quand le sort se termine, la silhouette ectoplasmique de l’esprit se dissipe et l’âme retourne à la tombe. Le sort ne peut pas appeler les esprits de créatures actuellement mortes-vivantes.
+Le personnage doit se concentrer pour maintenir le sort, par une [[action simple]], afin de poser des questions, au rythme d’une par [[round]]. Il peut poser une question par niveau de lanceur de sorts. L’esprit répond à chacune au cours du même round. Quand le sort se termine, la silhouette ectoplasmique de l’esprit se dissipe et l’âme retourne à la tombe. Le sort ne peut pas appeler les esprits de créatures actuellement mortes-vivantes.

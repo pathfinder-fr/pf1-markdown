@@ -11,21 +11,21 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[air](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 5, [Dru](./Druide.md) 5, [Occ](./Occultiste.md) 5  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|air]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5, [[Occultiste|Occ]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** 12 m (8 {s:c})/[niveau](./niveau.md)  
+**Portée** 12 m (8 {s:c})/[[niveau]]  
 
-**Zone d'effet** cylindre de 12 m (8 {s:c}) de rayon/[niveau](./niveau.md) et de 12 m de haut  
+**Zone d'effet** cylindre de 12 m (8 {s:c}) de rayon/[[niveau]] et de 12 m de haut  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
-Cette incantation permet de prendre le contrôle du vent dans la [zone d’effet](./zone deffet.md). Le personnage peut modifier la vitesse de celui-ci, ainsi que la direction dans laquelle il souffle. Une fois ces changements apportés, ceux-ci se maintiennent jusqu’à ce que les effets du sort ne cessent, à moins que le lanceur de sorts veuille les modifier de nouveau, ce qu’il peut faire sur simple [concentration](./concentration.md). Il est possible de créer une zone d’accalmie faisant jusqu’à vingt-quatre mètres de diamètre au centre de la zone d’effet, mais également de limiter l’effet du sort à une zone circulaire se conformant aux limites de portée.
+Cette incantation permet de prendre le contrôle du vent dans la [[zone deffet|zone d’effet]]. Le personnage peut modifier la vitesse de celui-ci, ainsi que la direction dans laquelle il souffle. Une fois ces changements apportés, ceux-ci se maintiennent jusqu’à ce que les effets du sort ne cessent, à moins que le lanceur de sorts veuille les modifier de nouveau, ce qu’il peut faire sur simple [[concentration]]. Il est possible de créer une zone d’accalmie faisant jusqu’à vingt-quatre mètres de diamètre au centre de la zone d’effet, mais également de limiter l’effet du sort à une zone circulaire se conformant aux limites de portée.
 
 **Direction du vent.** Le jeteur de sorts peut choisir entre l’une des quatre options suivantes :
 - Une brise naissant du centre de l’effet et soufflant dans toutes les directions avec une force égale.
@@ -33,7 +33,7 @@ Cette incantation permet de prendre le contrôle du vent dans la [zone d’effet
 - Des vents tourbillonnants, se mouvant autour du centre dans le sens des aiguilles d’une montre ou le sens contraire.
 - Une rafale de vent soufflant dans une direction choisie et balayant la zone.
 
-**Force du vent.** Le personnage à la possibilité augmenter ou diminuer la force du vent d’un cran tous les trois [niveaux de lanceur de sorts](./NLS.md). Les créatures se trouvant dans la zone concernée doivent réussir un jet de [Vigueur](./Vigueur.md) par [round](./round.md) si elles ne veulent pas subir les effets du vent. Se référer au Chapitre "[Les Vents](./Vents.md)" pour de plus amples détails.
+**Force du vent.** Le personnage à la possibilité augmenter ou diminuer la force du vent d’un cran tous les trois [[NLS|niveaux de lanceur de sorts]]. Les créatures se trouvant dans la zone concernée doivent réussir un jet de [[Vigueur]] par [[round]] si elles ne veulent pas subir les effets du vent. Se référer au Chapitre "[[Vents|Les Vents]]" pour de plus amples détails.
 - Un vent important (30 km/h) rend la navigation à voile périlleuse.
 - S’il est violent (50 km/h), navires et bâtiments reçoivent de légers dégâts.
 - Une tempête (80 km/h) empêche la plupart des créatures de voler, déracine les petits arbres, démolit les bâtiments en bois léger, arrache les toits et met les navires en péril.

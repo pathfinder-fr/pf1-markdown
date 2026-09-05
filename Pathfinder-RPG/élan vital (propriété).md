@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Élan vital
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Élan vital](./Descriptions individuelles des propriétés spéciales des armes.md#Élan vital)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Élan vital]]

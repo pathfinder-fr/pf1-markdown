@@ -10,7 +10,7 @@ Categories:
 
 {s:apg}*Le personnage peut partager ses sorts avec ceux qui lui sont liés par magie.*
 
-**Conditions.** [Art de la magie](./Art de la magie.md) 10 rangs, capacité d’acquérir un [compagnon animal](./compagnon animal.md), un [eidolon](./eidolon.md), un [familier](./familier.md) ou une [monture spéciale](./Monture.md).
+**Conditions.** [[Art de la magie]] 10 rangs, capacité d’acquérir un [[compagnon animal]], un [[eidolon]], un [[familier]] ou une [[monture|monture spéciale]].
 
 **Avantage.** Chaque fois que le personnage lance un sort non instantané (mais pas un pouvoir magique) sur lui-même, il peut également affecter une créature liée (comme un compagnon animal, un eidolon, un familier ou une monture spéciale). La créature doit se trouver à au plus 1,50 m (1 case) du personnage lors de l’incantation pour bénéficier du sort. La durée du sort est divisée par deux pour le personnage et la créature liée (par exemple, un sort durant normalement 1 heure ne fera effet que pendant 30 minutes pour le personnage et pour la créature liée).
 

@@ -8,7 +8,7 @@ Categories:
 
 {s:MenuCompétences}
 
-**Caractéristique associée** : [Sagesse](./Sagesse.md)
+**Caractéristique associée** : [[Sagesse]]
 
 **Formation nécessaire** : non
 
@@ -86,7 +86,7 @@ Divers modificateurs s’appliquent au test de Survie, comme indiqué dans la ta
 | Par trois créatures faisant partie du groupe pisté
 | -1
 |- CLASS="alt"
-| COLSPAN="2" | **Taille des créatures traquées**<sup>[1](./Survie.md#NOTE1)</sup>
+| COLSPAN="2" | **Taille des créatures traquées**<sup>[[Survie#NOTE1|1]]</sup>
 |-
 | &emsp;Infime (I)
 | +8
@@ -124,7 +124,7 @@ Divers modificateurs s’appliquent au test de Survie, comme indiqué dans la ta
 | Chute de neige depuis que la piste a été laissée
 | +10
 |-
-| COLSPAN="2" | **Mauvaise visibilité**<sup>[2](./Survie.md#NOTE2)</sup>
+| COLSPAN="2" | **Mauvaise visibilité**<sup>[[Survie#NOTE2|2]]</sup>
 |  |
 |- CLASS="alt"
 | &emsp;Ciel nocturne couvert ou nuit sans lune
@@ -147,18 +147,18 @@ Divers modificateurs s’appliquent au test de Survie, comme indiqué dans la ta
 
 ### Action
 
-Variable. Un test de Survie peut représenter une durée allant de plusieurs heures à une journée d’activité. Un test de Survie destiné à trouver une piste nécessite toujours au moins une [action complexe](./Action complexe.md), peut-être bien plus.
+Variable. Un test de Survie peut représenter une durée allant de plusieurs heures à une journée d’activité. Un test de Survie destiné à trouver une piste nécessite toujours au moins une [[action complexe]], peut-être bien plus.
 
 ### Nouvelles tentatives
 
-Variable. Pour se débrouiller dans les contrées sauvages ou obtenir le bonus aux jets de [Vigueur](./Vigueur.md) (comme indiqué dans la première table de la page 107), le personnage effectue un test de Survie toutes les vingt-quatre heures et le résultat s’applique chaque fois jusqu’au test suivant. Pour ne pas se perdre ou pour repérer les dangers naturels, le personnage effectue un test chaque fois que nécessaire, mais chacun de ces tests ne peut être tenté qu’une seule fois. Lorsqu’il s’agit de trouver une piste et que le test échoue, le personnage doit poursuivre sa recherche pendant une heure (dans la nature) ou dix minutes (en intérieur) avant de pouvoir tenter un nouveau test.
+Variable. Pour se débrouiller dans les contrées sauvages ou obtenir le bonus aux jets de [[Vigueur]] (comme indiqué dans la première table de la page 107), le personnage effectue un test de Survie toutes les vingt-quatre heures et le résultat s’applique chaque fois jusqu’au test suivant. Pour ne pas se perdre ou pour repérer les dangers naturels, le personnage effectue un test chaque fois que nécessaire, mais chacun de ces tests ne peut être tenté qu’une seule fois. Lorsqu’il s’agit de trouver une piste et que le test échoue, le personnage doit poursuivre sa recherche pendant une heure (dans la nature) ou dix minutes (en intérieur) avant de pouvoir tenter un nouveau test.
 
 ### Spécial
 
 Toute personne possédant une formation (un rang non-nul) dans la compétence de Survie peut déterminer la direction du nord sans devoir faire de test.
 
-Les [rôdeurs](./Rôdeur.md) bénéficient d’un bonus à leurs tests de Survie visant à trouver ou à suivre les traces laissées par leurs [ennemis jurés](./ennemi juré.md).
+Les [[rôdeur|rôdeurs]] bénéficient d’un bonus à leurs tests de Survie visant à trouver ou à suivre les traces laissées par leurs [[ennemi juré|ennemis jurés]].
 
-Un personnage possédant le don [Autonome](./Autonome.md) obtient un bonus aux tests de Survie.
+Un personnage possédant le don [[Autonome]] obtient un bonus aux tests de Survie.
 
-[Retour vers les Compétences](./Compétences.md)
+[[Compétences|Retour vers les Compétences]]

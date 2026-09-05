@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Le livre des damnés page 64*}
 {s:BDTexte|**XP** 3 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md)) de taille G, LM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18m, [vision dans les ténèbres](./Vision dans les ténèbres.md) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]]) de taille G, LM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] à 18m, [[vision dans les ténèbres]] ; [[Perception]] +16}
 (((Défense)))
 {s:BDTexte|**CA** 22, contact 12, pris au dépourvu 19 (Dex +3, naturelle +10, taille -1)}
 {s:BDTexte|**Pv** 84 (8d10+40)}
@@ -31,13 +31,13 @@ Categories:
 {s:BDTexte|**À distance** trident de maître, +10 (2d6+7) ou filet, attaque de contact à distance +10 (enchevêtrement)  Espace 3m ; Allonge 3m}
 {s:BDTexte|**Attaques spéciales** coup implacable, convocation de diable, piétinement (1d8+7, DD 19)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12)}
-{s:BDSorts|À volonté – [téléportation suprême](./Téléportation suprême.md) (personnelle plus 15 kg d’objets uniquement)}
+{s:BDSorts|À volonté – [[téléportation suprême]] (personnelle plus 15 kg d’objets uniquement)}
 (((Statistiques)))
 {s:BDTexte|**For** 20, **Dex** 17, **Con** 19, **Int** 14, **Sag** 16, **Cha** 15}
 {s:BDTexte|**BBA** +8 ; **BMO** +14 ; **DMD** 27}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +14 (saut +18), [Artisanat](./Artisanat.md) (armes) +9, [Bluff](./Bluff.md) +13, [Connaissances](./Connaissances.md) (exploration souterraine) +9, [Connaissances](./Connaissances.md) (ingénierie) +9, [Connaissances](./Connaissances.md) (plans) +13, [Discrétion](./Discrétion.md) +12, [Escalade](./Escalade.md) +17, [Intimidation](./Intimidation.md) +13, [Perception](./Perception.md) +16}
-{s:BDTexte|**Modificateurs raciaux** Les lévalochs ont un bonus racial de +2 à leurs tests de [Discrétion](./Discrétion.md) et de [Perception](./Perception.md). Le bonus de [Discrétion](./Discrétion.md) passe à +8 lorsque le lévaloch est dissimulé parmi des objets ou des débris métalliques.}{s:BDTexte|**Langues** céleste, draconique, infernal ; télépathie 20m}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Robustesse]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +14 (saut +18), [[Artisanat]] (armes) +9, [[Bluff]] +13, [[Connaissances]] (exploration souterraine) +9, [[Connaissances]] (ingénierie) +9, [[Connaissances]] (plans) +13, [[Discrétion]] +12, [[Escalade]] +17, [[Intimidation]] +13, [[Perception]] +16}
+{s:BDTexte|**Modificateurs raciaux** Les lévalochs ont un bonus racial de +2 à leurs tests de [[Discrétion]] et de [[Perception]]. Le bonus de [[Discrétion]] passe à +8 lorsque le lévaloch est dissimulé parmi des objets ou des débris métalliques.}{s:BDTexte|**Langues** céleste, draconique, infernal ; télépathie 20m}
 {s:BDTexte|**Particularités** marcheur des Enfers, phalange, stabilité}
 (((Écologie)))
 {s:BDTexte|**Environnement** Enfers}
@@ -52,7 +52,7 @@ Categories:
 {s:BDTexte|**Convocation de diable (Mag)** Une fois par jour, un lévaloch peut tenter d’invoquer 1d4 lémures ou 1 diable barbu avec 40% de chance de réussite. Cette capacité est l’équivalent d’un sort de 4e niveau.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 ''Cuirassé comme un chevalier infernal chevauchant une monture
 monstrueuse, ce fiélon de fer et de clous file sur six lourdes jambes de
 scarabée en forme de lames. Son corps ne semble être rien moins que

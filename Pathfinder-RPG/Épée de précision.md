@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Épée de précision|{s:AE}}
-**Aura** [Illusion](./Illusion.md) modérée ; **NLS** 7 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 22 310 po ; **Poids** 1 kg
+**Aura** [[Illusion]] modérée ; **NLS** 7 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 22 310 po ; **Poids** 1 kg
 (((Description)))
-Cette épée courte +1 possède une lame fine et gris terne qui confère à son utilisateur un bonus de +4 aux [jets d’attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) des [attaques sournoises](./attaque sournoise.md).
+Cette épée courte +1 possède une lame fine et gris terne qui confère à son utilisateur un bonus de +4 aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] des [[attaque sournoise|attaques sournoises]].
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[flou](./Flou.md)* ; **Coût** 11 310 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[flou]]* ; **Coût** 11 310 po
 </div>

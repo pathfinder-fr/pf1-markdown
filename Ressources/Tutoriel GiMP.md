@@ -15,11 +15,11 @@ Il s‘agit plutôt ici de montrer comment créer rapidement un donjon à l’an
 
 Je n’utilise que le programme open-source Gimp. Il existe pour quasiment toutes les plateformes et possède par défaut tous les outils nécessaires en restant relativement léger.
 
-Donc avant toute chose, il faut télécharger et installer la dernière version 2.6.x du programme en allant sur la [http://www.gimp.org/downloads/|page officielle] ou sur [http://jeanlouis.hamel.perso.neuf.fr/GIMP26/index.html|ce site] qui vous permettra de l'avoir en français.
+Donc avant toute chose, il faut télécharger et installer la dernière version 2.6.x du programme en allant sur la [page officielle](http://www.gimp.org/downloads/) ou sur [ce site](http://jeanlouis.hamel.perso.neuf.fr/GIMP26/index.html) qui vous permettra de l'avoir en français.
 
 Au démarrage, le programme affiche une fenêtre classique. Notez que j'utilise la version OSX mais les menus sur Windows et Linux sont strictement les mêmes.
 
-[imageauto||{UP}/tutogimp/image1.jpg]
+<img src="{UP}/tutogimp/image1.jpg" class="imageauto" alt="">
 
 
 Pour ce tutorial, je vous propose de créer un donjon à l’ancienne : un enchainement de salles carrées avec quadrillage réglementaire et quelques éléments de décor pour agrémenter l’ensemble.
@@ -39,20 +39,20 @@ Pour cela, on utilise le menu *Fichier->Nouveau* ou le raccourci *CTRL-N*
 
 Une fenêtre s’ouvre et permet de paramétrer les propriétés de l’image. La plus évidente, c’est la taille. Je pars en général du principe que chaque case du donjon fera 100 pixels de côté en 72 ppp. Cela donne une bonne souplesse pour l’importation dans les logiciels de table virtuel et une qualité suffisante pour l’impression au format classique de 25mm par case.
 
-[imageauto||{UP}/tutogimp/image2.jpg]
+<img src="{UP}/tutogimp/image2.jpg" class="imageauto" alt="">
 
 On peut évidemment augmenter la résolution pour avoir une meilleure qualité mais attention, le poids du fichier de travail va énormément augmenter au fur et à mesure de l’ajout des calques. Il y a donc un compromis à trouver...
 
 Le donjon que nous allons créer mesurera 12 cases de côté, donc cela donne un fichier de 1200*1200.
 
-[imageauto||{UP}/tutogimp/image3.jpg]
+<img src="{UP}/tutogimp/image3.jpg" class="imageauto" alt="">
 
 
 Dans les **Options Avancées**, attention à bien régler la zone *Remplir Avec* en mode **Transparence**.
 
 En validant, une nouvelle image, vide, est créé dans la fenêtre principale. Elle est remplie d’un damier gris, ce qui représente un calque entièrement transparent.
 
-[imageauto||{UP}/tutogimp/image4.jpg]
+<img src="{UP}/tutogimp/image4.jpg" class="imageauto" alt="">
 
 
 
@@ -64,11 +64,11 @@ Pour notre usage, il est intéressant d’avoir à l’écran la Boite à Outils
 Ces fenêtres sont dockables, peuvent êtres regroupées, superposées, déplacées sur l’écran...
 
 
-[imageleft||{UP}/tutogimp/image5.jpg]
+<img src="{UP}/tutogimp/image5.jpg" class="imageleft" alt="">
 
 J’ai ainsi regroupé ici, dans une fenêtre unique les Calques, les Motifs et d’autres petites choses utiles de temps en temps. Le paramétrage est facilité par les petits boutons configurer cet Onglet (entouré en rouge) présent sur chaque fenêtre.
 
-[imageauto||{UP}/tutogimp/image6.jpg]
+<img src="{UP}/tutogimp/image6.jpg" class="imageauto" alt="">
 
 
 Voila, revenons à la fenêtre Calques.
@@ -101,7 +101,7 @@ Ouvrir la fenêtre Motifs.
 
 Aller chercher dans les Motifs proposés par défaut celui qui s’appelle **Slate**. Je l’ai entouré en rouge sur cette image.
 
-[imageauto||{UP}/tutogimp/image7.jpg]
+<img src="{UP}/tutogimp/image7.jpg" class="imageauto" alt="">
 
 Ensuite, dans le menu *Edition -> Remplir avec un Motif (CTRL+;)*
 
@@ -109,7 +109,7 @@ Magique... tout le calque se rempli avec le motif Slate.
 
 
 
-[imageauto||{UP}/tutogimp/image8.jpg]
+<img src="{UP}/tutogimp/image8.jpg" class="imageauto" alt="">
 
 
 Pour l’instant, le rendu semble peut-être trop régulier et mérite peut-être d’être retouché.
@@ -117,7 +117,7 @@ Pour l’instant, le rendu semble peut-être trop régulier et mérite peut-êtr
 Pour cela, j’utilise un filtre appelé Piquer qui mélange les pixels avec leurs voisins et donne un aspect plus naturel à la texture.
 Le filtre est accessible dans le menu *Filtres->Bruit->Piquer*
 
-[imageauto||{UP}/tutogimp/image9.jpg]
+<img src="{UP}/tutogimp/image9.jpg" class="imageauto" alt="">
 
 Je lui donne des valeurs assez élevées pour donner à la roche un aspect granitique mais là, c’est vraiment à chacun de faire selon son goût et l’effet recherché.
 
@@ -141,12 +141,12 @@ Il est temps de commencer à tracer quelques murs.
 
 Pour cela, dans la Boite à Outils, j’utilise l’outil **Pinceau** (touche de raccourci : *P*) avec une brosse Circle de taille 17 tel qu’indiqué ici...
 
-[imageauto||{UP}/tutogimp/image10.jpg]
+<img src="{UP}/tutogimp/image10.jpg" class="imageauto" alt="">
 
 Mais avant d’esquisser le moindre bout de mur, il est important de créer d'abord un nouveau calque. Pour cela, allez dans le menu *Calques->Nouveau Calque*.
 Une fenêtre apparait avec quelques options.
 
-[imageauto||{UP}/tutogimp/image11.jpg]
+<img src="{UP}/tutogimp/image11.jpg" class="imageauto" alt="">
 
 Dans cette fenêtre, le plus important est de s’assurer que la couleur de remplissage est bien **Transparence**.
 Dans la zone *Nom du Calque*, taper **Murs**, afin de se rappeler plus tard ce que contient ce calque.
@@ -174,7 +174,7 @@ En quelques minutes, la structure du donjon est tracée...
 Entraînez vous à tracer différentes formes et à prendre en main l’outil Pinceau avec la touche *Shift* qui est d’une efficacité redoutable pour ce genre de cartes.
 Vous verrez d’ailleurs que la grille n’est pas restrictive et qu’il est possible d’aller poser des points entre les intersections pour, par exemple, gérer des murs obliques.
 
-[imageauto||{UP}/tutogimp/image13.jpg]
+<img src="{UP}/tutogimp/image13.jpg" class="imageauto" alt="">
 
 
 
@@ -200,7 +200,7 @@ Cliquer n’importe où **DANS** le donjon.
 
 Si tout va bien, un chemin pointillé blanc apparait tel que sur l’image.
 
-[imageauto||{UP}/tutogimp/image14.jpg]
+<img src="{UP}/tutogimp/image14.jpg" class="imageauto" alt="">
 
 Ce pointillé représente une sélection. Schématiquement, ici, la zone à l’intérieur des murs est sélectionnée et il est possible de travailler dessus uniquement, sans impacter ce qu’il y a en dehors.
 
@@ -212,7 +212,7 @@ Un canal est un calque composé de deux couleurs : noir et blanc.
 
 Superposé à un autre calque, il le découpe pour ne laisser, au final, que la zone blanche.
 
-[imageauto||{UP}/tutogimp/image15.jpg]
+<img src="{UP}/tutogimp/image15.jpg" class="imageauto" alt="">
 
 
 Renommez le canal en l’appelant **Donjon** (simplement en double-cliquant sur son nom par défaut dans la fenêtre). Un canal reste sauvegardé dans le fichier, au même titre qu’un calque, et il est bon de les identifier correctement pour ne pas se mélanger quand on a plusieurs masques qui viennent s’ajouter.
@@ -237,7 +237,7 @@ Maintenant, découpons le calque selon le tracé des murs...
 Cliquez <u>avec le bouton droit de la souris</u> sur le calque Sol Donjon et choisissez le menu *Ajouter un Masque de Calque*.
 
 
-[imageauto||{UP}/tutogimp/image16.jpg]
+<img src="{UP}/tutogimp/image16.jpg" class="imageauto" alt="">
 
 Dans le menu qui s’affiche, cochez l’option **Canal**, assurez vous que c’est bien le masque **Donjon** qui est défini, puis cliquez sur **Ajouter**.
 
@@ -250,13 +250,13 @@ Toutes les zones noires du masque sont converties en zones transparentes, laissa
 
 Dernière petite retouche, pour terminer ce premier chapitre, ouvrez le menu *Couleurs->Luminosité Contraste* et réglez la luminosité à +90 et le contraste à +10 puis validez.
 
-[imageauto||{UP}/tutogimp/image17.jpg]
+<img src="{UP}/tutogimp/image17.jpg" class="imageauto" alt="">
 
 Enfin, <u>sélectionnez le calque d’Arrière Plan</u> et, de la même manière, modifiez la luminosité (-80) et le contraste (+20)
 
-[imageauto||{UP}/tutogimp/donjon1.jpg]
+<img src="{UP}/tutogimp/donjon1.jpg" class="imageauto" alt="">
 
 
 Voila le résultat, il peut encore être amélioré mais ces petites techniques permettent déjà d’avoir une bonne base de travail pour la suite, qui consistera à ajouter la déco, les effets de lumière et, bien entendu, un quadrillage...
 
-Etape suivante : [Quadrillages et Ombres Portées](./Tutoriel GiMP2.md)
+Etape suivante : [[Tutoriel GiMP2|Quadrillages et Ombres Portées]]

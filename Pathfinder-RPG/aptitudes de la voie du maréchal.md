@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Aptitudes de la voie du Maréchal Mythique
 ---
 
->>> [Aptitudes de la voie du Maréchal Mythique](./Aptitudes de la voie du Maréchal Mythique.md)
+>>> [[Aptitudes de la voie du Maréchal Mythique]]

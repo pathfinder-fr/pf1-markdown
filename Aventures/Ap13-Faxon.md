@@ -9,67 +9,67 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Faxon|FP 4}
-{s:BDTexte|*Source : [Aides de jeu AP13#CHAMPSDERUINES|La Colère des Justes], p.49*}
+{s:BDTexte|*Source : [[Aides de jeu AP13#CHAMPSDERUINES|La Colère des Justes]], p.49*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Tieffelin](./../Pathfinder-RPG/Tieffelin.md) (m) [Sorcière](./../Pathfinder-RPG/Sorcière.md) 5}
-{s:BDTexte|[Extérieur](./../Pathfinder-RPG/type Extérieur.md) (natif) de taille M, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18m ; [Perception](./../Pathfinder-RPG/Perception.md) +5}
+{s:BDTexte|[[Pathfinder-RPG.Tieffelin|Tieffelin]] (m) [[Pathfinder-RPG.Sorcière|Sorcière]] 5}
+{s:BDTexte|[[Pathfinder-RPG.type Extérieur|Extérieur]] (natif) de taille M, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18m ; [[Pathfinder-RPG.Perception|Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 11 (armure +1, Dex +3, esquive +1) }
 {s:BDTexte|**pv** 30(5d6+10)}
 {s:BDTexte|**Réf** +5, **Vig** +3, **Vol** +5}
-{s:BDTexte|**résistance** [électricité](./../Pathfinder-RPG/Résistance (capacité).md) 5, [feu](./../Pathfinder-RPG/Résistance (capacité).md) 5, [froid](./../Pathfinder-RPG/Résistance (capacité).md) 5}
+{s:BDTexte|**résistance** [[Pathfinder-RPG.résistance (capacité)|électricité]] 5, [[Pathfinder-RPG.résistance (capacité)|feu]] 5, [[Pathfinder-RPG.résistance (capacité)|froid]] 5}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** Morgenstern, +1 (1d8-1)}
 {s:BDTexte|**Distance** Arbalète lourde, +6 (1d10+1/19-20)}
-{s:BDTexte|**Maléfices** [Déguisement](./../Pathfinder-RPG/maléfices.md#Déguisement) (5 heures), [Malchance](./../Pathfinder-RPG/maléfices.md#Malchance) (pire de deux jets, 1 round), [mauvais œil](./../Pathfinder-RPG/maléfices.md#Mauvaisœil) (-2, 7 rounds)}
-{s:BDTexte|**Protecteur** [Animaux](./../Pathfinder-RPG/protecteurs.md)}
+{s:BDTexte|**Maléfices** [[Pathfinder-RPG.Maléfices#Déguisement|Déguisement]] (5 heures), [[Pathfinder-RPG.Maléfices#Malchance|Malchance]] (pire de deux jets, 1 round), [[Pathfinder-RPG.Maléfices#Mauvaisœil|mauvais œil]] (-2, 7 rounds)}
+{s:BDTexte|**Protecteur** [[Pathfinder-RPG.protecteurs|Animaux]]}
 {s:BDTexte|**Puvoirs magiques** (NLS 4; concentration +5)}
-{s:BDSorts| 1/jour : [ténèbres](./../Pathfinder-RPG/Ténèbres.md)}
+{s:BDSorts| 1/jour : [[Pathfinder-RPG.ténèbres|ténèbres]]}
 {s:BDTexte|**Sorts de sorcière** (NLS 5; concentration +9)}
 {s:BDSorts|3<sup>e</sup>}
-{s:BDSorts|[Baiser du vampire](./../Pathfinder-RPG/Baiser du vampire.md) : +5, 2d6}
-{s:BDSorts|[Malédiction](./../Pathfinder-RPG/sort Malédiction.md) (DD vol 17)}
+{s:BDSorts|[[Pathfinder-RPG.Baiser du vampire|Baiser du vampire]] : +5, 2d6}
+{s:BDSorts|[[Pathfinder-RPG.sort Malédiction|Malédiction]] (DD vol 17)}
 {s:BDSorts|2<sup>e</sup>}
-{s:BDSorts|[Cecité-surdité](./../Pathfinder-RPG/Cécitésurdité.md) (DD vig 17) : cible [sourde](./../Pathfinder-RPG/Assourdi.md) ou [aveugle](./../Pathfinder-RPG/Aveuglé.md)}
-{s:BDSorts|[Nappe de brouillard](./../Pathfinder-RPG/Nappe de brouillard.md)}
-{s:BDSorts|[Regard Brûlant](./../Pathfinder-RPG/Regard brûlant.md) (DD vig 17) : 1d6 feu par round, (ref 17 pour stopper}
+{s:BDSorts|[[Pathfinder-RPG.Cécitésurdité|Cecité-surdité]] (DD vig 17) : cible [[Pathfinder-RPG.assourdi|sourde]] ou [[Pathfinder-RPG.aveuglé|aveugle]]}
+{s:BDSorts|[[Pathfinder-RPG.Nappe de brouillard|Nappe de brouillard]]}
+{s:BDSorts|[[Pathfinder-RPG.Regard Brûlant|Regard Brûlant]] (DD vig 17) : 1d6 feu par round, (ref 17 pour stopper}
 {s:BDSorts|1<sup>er</sup>}
-{s:BDSorts|[Blessure légère](./../Pathfinder-RPG/Blessure légère.md) (DD vol 15, 1/2) : 1d8+5}
-{s:BDSorts|[Charme-personne](./../Pathfinder-RPG/Charme-personne.md) (DD vol 15)}
-{s:BDSorts|[Injonction](./../Pathfinder-RPG/Injonction.md) (DD 15)}
-{s:BDSorts|[Mains brûlantes](./../Pathfinder-RPG/Mains brûlantes.md) (DD ref 15, 1/2) : cône 4.4m, 5d4 feu}
+{s:BDSorts|[[Pathfinder-RPG.Blessure légère|Blessure légère]] (DD vol 15, 1/2) : 1d8+5}
+{s:BDSorts|[[Pathfinder-RPG.Charme-personne|Charme-personne]] (DD vol 15)}
+{s:BDSorts|[[Pathfinder-RPG.Injonction|Injonction]] (DD 15)}
+{s:BDSorts|[[Pathfinder-RPG.mains brûlantes|Mains brûlantes]] (DD ref 15, 1/2) : cône 4.4m, 5d4 feu}
 {s:BDSorts|0 — à volonté}
-{s:BDSorts|[Assistance divine](./../Pathfinder-RPG/Assistance divine.md) : +1 sur un jet}
-{s:BDSorts|[étincelles](./../Pathfinder-RPG/Étincelles.md) }
-{s:BDSorts|[Lumières dansantes](./../Pathfinder-RPG/Lumières dansantes.md)}
-{s:BDSorts|[Résistance](./../Pathfinder-RPG/sort Résistance.md) : +1 JS, 1 minute}
+{s:BDSorts|[[Pathfinder-RPG.Assistance divine|Assistance divine]] : +1 sur un jet}
+{s:BDSorts|[[Pathfinder-RPG.étincelles|étincelles]] }
+{s:BDSorts|[[Pathfinder-RPG.Lumières dansantes|Lumières dansantes]]}
+{s:BDSorts|[[Pathfinder-RPG.sort Résistance|Résistance]] : +1 JS, 1 minute}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 8, **Dex** 16, **Con** 13, **Int** 18, **Sag** 10, **Cha** 10}
 {s:BDTexte|**BBA** +2, **BMO** +1, **DMD** 15}
-{s:BDTexte|**Dons** [Esquive](./../Pathfinder-RPG/Esquive.md), [Expertise du combat](./../Pathfinder-RPG/Expertise du combat.md), [Magie de guerre](./../Pathfinder-RPG/Magie de guerre.md)}
-{s:BDTexte|**Compétences** [Bluff](./../Pathfinder-RPG/Bluff.md) +7, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (mystères) +12, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (plans) +12, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +10, [Déguisement](./../Pathfinder-RPG/Déguisement.md) +5, [Perception](./../Pathfinder-RPG/Perception.md) +5}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Esquive|Esquive]], [[Pathfinder-RPG.Expertise du combat|Expertise du combat]], [[Pathfinder-RPG.Magie de guerre|Magie de guerre]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Bluff|Bluff]] +7, [[Pathfinder-RPG.Connaissances|Connaissances]] (mystères) +12, [[Pathfinder-RPG.Connaissances|Connaissances]] (plans) +12, [[Pathfinder-RPG.Discrétion|Discrétion]] +10, [[Pathfinder-RPG.Déguisement|Déguisement]] +5, [[Pathfinder-RPG.Perception|Perception]] +5}
 {s:BDTexte|**Langues** commun, abyssal, alko, commun des profondeurs, draconique, hallit, infernal}
-{s:BDTexte|**Part** [Famillier](./../Pathfinder-RPG/Familiers.md) ([Nox](./Nox.md), [magie des fielons](./../Pathfinder-RPG/Tieffelin (race).md#Traits_raciaux_standards_6))}
+{s:BDTexte|**Part** [[Pathfinder-RPG.familiers|Famillier]] ([[Nox]], [[Pathfinder-RPG.Tieffelin (race)#Traits_raciaux_standards_6|magie des fielons]])}
 {s:BDSousTitre|Equipement de combat}
-{s:BDTexte|[Baguette](./../Pathfinder-RPG/Baguettes magiques.md) de [Soins modérés](./../Pathfinder-RPG/Soins modérés.md) (NLS 3), 9 charges : 2d8+3}
-{s:BDTexte|[Morgenstern](./../Pathfinder-RPG/Tableau récapitulatif des armes.md#ARMESCOURANTESUNEMAIN)}
-{s:BDTexte|[Arbalète lourde](./../Pathfinder-RPG/Tableau récapitulatif des armes.md#ARMESCOURANTESDISTANCE), 12 carreaux +1}
-{s:BDTexte|[Bracelet d'armure +1](./../Pathfinder-RPG/Bracelets darmure.md)}
-{s:BDTexte|[Cape de résistance +1](./../Pathfinder-RPG/Cape de résistance.md)}
+{s:BDTexte|[[Pathfinder-RPG.Baguettes magiques|Baguette]] de [[Pathfinder-RPG.Soins modérés|Soins modérés]] (NLS 3), 9 charges : 2d8+3}
+{s:BDTexte|[[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESCOURANTESUNEMAIN|Morgenstern]]}
+{s:BDTexte|[[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESCOURANTESDISTANCE|Arbalète lourde]], 12 carreaux +1}
+{s:BDTexte|[[Pathfinder-RPG.Bracelets darmure|Bracelet d'armure +1]]}
+{s:BDTexte|[[Pathfinder-RPG.Cape de résistance|Cape de résistance +1]]}
 {s:BDTexte|clé de la porte et clé du coffret en N4}
 {s:BDTexte|29po}
 </div>
 </td><td><div class="BD">
-*Le chef actuel des Templiers de [Kénabres](./Kénabres.md) est un sorcier tieffelin nommé Faxon.*
+*Le chef actuel des Templiers de [[Kénabres]] est un sorcier tieffelin nommé Faxon.*
 
 Cela ne fait toutefois pas longtemps qu'il occupe cette position, car il a tout simplement pris la place de son supérieur après avoir découvert que celui-ci détournait l'argent du culte pour satisfaire son addiction au sang de démon. Après avoir dénoncé son supérieur, Faxon a été promu au rang de chef temporaire des Templiers de Kénabres: un rôle qu'il n'a joué seulement quelques semaines avant la chute de la cité.
 ### Tactique
 **Pendant le combat**
-Fxon ouvre les hostilités en lançant [Cecité-surdité](./../Pathfinder-RPG/Cécitésurdité.md) sur l'un des ennemis qu'il pense être un soigneur.
-Puis il lance [Malédiction](./../Pathfinder-RPG/sort Malédiction.md) sur l'adversaire portant l'armure la plus lourde afin de réduire sa valeur de force de 6 points.
-Il enchaîne ensuite avec des sorts et maléfices offensifs, et lance [Baiser du vampire](./../Pathfinder-RPG/Baiser du vampire.md) lorsqu'il lui reste moins de 20 points de vie.
+Fxon ouvre les hostilités en lançant [[Pathfinder-RPG.Cécitésurdité|Cecité-surdité]] sur l'un des ennemis qu'il pense être un soigneur.
+Puis il lance [[Pathfinder-RPG.sort Malédiction|Malédiction]] sur l'adversaire portant l'armure la plus lourde afin de réduire sa valeur de force de 6 points.
+Il enchaîne ensuite avec des sorts et maléfices offensifs, et lance [[Pathfinder-RPG.Baiser du vampire|Baiser du vampire]] lorsqu'il lui reste moins de 20 points de vie.
 
 **Moral**
 Faxon combat jusqu'à la mort.
@@ -78,13 +78,13 @@ Faxon combat jusqu'à la mort.
 Le coffre en bois est verrouillé (Sabotage DD 30, ou clé de Faxon) :
 - 2310 pc, 759 pa, 122 po, 11 pp
 - 5 symboles sacré de Iomédae (25 po chacun)
-- [Épée longue](./../Pathfinder-RPG/Tableau récapitulatif des armes.md#ARMESDEGUERREUNEMAIN) de [maître (+1 toucher)](./../Pathfinder-RPG/Armes de maître.md)
-- 2 [cimeterres](./../Pathfinder-RPG/Tableau récapitulatif des armes.md#ARMESDEGUERREUNEMAIN) de [maître (+1 toucher)](./../Pathfinder-RPG/Armes de maître.md)
+- [[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESDEGUERREUNEMAIN|Épée longue]] de [[Pathfinder-RPG.Armes de maître|maître (+1 toucher)]]
+- 2 [[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESDEGUERREUNEMAIN|cimeterres]] de [[Pathfinder-RPG.Armes de maître|maître (+1 toucher)]]
 - ustensiles de cuisine et argenterie (450 po)
-- [Baguette](./../Pathfinder-RPG/Baguettes magiques.md) de [bénédiction d'arme](./../Pathfinder-RPG/Bénédiction darme.md) (18 charges)
-- [phylactère du croyant](./../Pathfinder-RPG/Phylactère du croyant.md) cassé.
+- [[Pathfinder-RPG.Baguettes magiques|Baguette]] de [[Pathfinder-RPG.Bénédiction darme|bénédiction d'arme]] (18 charges)
+- [[Pathfinder-RPG.Phylactère du croyant|phylactère du croyant]] cassé.
 - Liasse de documents sur les activité des fanatiques.
-- [Lettre à Faxon](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=/ADJ/Aventures/AP13-Lettre à Faxon.pdf)
+- [Lettre à Faxon](http://www.pathfinder-fr.org/wiki/GetFile.aspx?File=/ADJ/Aventures/AP13-Lettre%20%C3%A0%20Faxon.pdf)
 
 
 </div></td></tr></table>

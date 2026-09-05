@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 4 pc ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
 Ces oiseaux de taille Min ont souvent des plumes claires et produisent des chants agréables. De façon plus pragmatique, ils sont souvent utilisés dans les mines pour déterminer la qualité de l’air, puisque leur petit corps est plus sensible à ce genre de détails, leurs avertissements offrent aux humanoïdes une chance de s’échapper avant de succomber au danger.

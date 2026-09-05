@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Manaket est un port du [Rahadoum](./Rahadoum.md) situé sur la côte nord et ouvre une porte au pays vers la [mer Intérieure](./mer Intérieure.md).
+Manaket est un port du [[Rahadoum]] situé sur la côte nord et ouvre une porte au pays vers la [[mer Intérieure]].
 
-Les jardins luxueux qui faisaient la gloire de la ville sont maintenant menacés par l'avancée du désert. En vue de les protéger et d'éviter leur disparition complète, les mages de l'université profane, l'Occularium, ont commencé à construire un ensemble de tranchées mobiles et de murs avec l'aide d'ingénieurs venus d'[Alkenastre](./Alkenastre.md).
+Les jardins luxueux qui faisaient la gloire de la ville sont maintenant menacés par l'avancée du désert. En vue de les protéger et d'éviter leur disparition complète, les mages de l'université profane, l'Occularium, ont commencé à construire un ensemble de tranchées mobiles et de murs avec l'aide d'ingénieurs venus d'[[Alkenastre]].

@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Divination](./école divination.md) <nowiki>[</nowiki>[Bien, Chaos, Loi ou Mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 2, [Occ](./Occultiste.md) 3  
+**École** [[école divination|Divination]] <nowiki>[</nowiki>[[registre|Bien, Chaos, Loi ou Mal]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 10 minutes/[niveau](./niveau.md) (T)
+**Durée** 10 minutes/[[niveau]] (T)
 
-Le personnage choisit un type d'[alignement](./Alignement.md) (chaotique, Mauvais, Bon ou loyal) et se retrouve capable de suivre la trace laissée par une puissante aura de cet [alignement](./Alignement.md) (voir *[détection du mal](./Détection du Mal.md)*). Ce sort fonctionne comme le pouvoir spécial d'[odorat](./odorat.md) quand il s'agit de suivre une piste sauf que le personnage suit les marques que l'aura laisse au sol et non une odeur, il n'a donc pas de bonus au test de [Perception](./Perception.md). Au [niveau](./niveau.md) 10, le personnage peut également suivre la piste d'une créature à l'aura modérée.
+Le personnage choisit un type d'[[alignement]] (chaotique, Mauvais, Bon ou loyal) et se retrouve capable de suivre la trace laissée par une puissante aura de cet [[alignement]] (voir *[[détection du mal]]*). Ce sort fonctionne comme le pouvoir spécial d'[[odorat]] quand il s'agit de suivre une piste sauf que le personnage suit les marques que l'aura laisse au sol et non une odeur, il n'a donc pas de bonus au test de [[Perception]]. Au [[niveau]] 10, le personnage peut également suivre la piste d'une créature à l'aura modérée.
 
-Quand le personnage utilise ce sort pour traquer un [alignement](./Alignement.md) donné, le sort gagne le descripteur de l'[alignement](./Alignement.md) opposé. Par exemple, *traquer l'aura* utilisé pour pister le Mal est un sort avec le descripteur Bon.
+Quand le personnage utilise ce sort pour traquer un [[alignement]] donné, le sort gagne le descripteur de l'[[alignement]] opposé. Par exemple, *traquer l'aura* utilisé pour pister le Mal est un sort avec le descripteur Bon.

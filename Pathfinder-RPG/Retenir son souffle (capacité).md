@@ -6,6 +6,6 @@ Categories:
 - Règle de monstres universelle
 ---
 
-La créature peut retenir son souffle pendant un nombre de minutes égal à 6 fois sa valeur de [Constitution](./Constitution.md) avant de risquer de se noyer.
+La créature peut retenir son souffle pendant un nombre de minutes égal à 6 fois sa valeur de [[Constitution]] avant de risquer de se noyer.
 
 *Format* : retenir son souffle. *Emplacement* : Particularités.

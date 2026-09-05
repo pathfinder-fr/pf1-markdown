@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Duelliste#PARADE
 ---
 
->>> [Duelliste#PARADE](./Duelliste.md#PARADE)
+>>> [[Duelliste#PARADE]]

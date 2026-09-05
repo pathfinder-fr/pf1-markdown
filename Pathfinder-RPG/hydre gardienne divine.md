@@ -10,7 +10,7 @@ LastModified: 2020-09-19 15:49
 {s:pucem|Créature magique|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 130*}
 - **600 PX**
-- [Créature magique](./type Créature magique.md) ([air](./sous-type Air.md), [eau](./sous-type Eau.md)) de taille TG, N
+- [[type créature magique|Créature magique]] ([[sous-type air|air]], [[sous-type eau|eau]]) de taille TG, N
 - **Init **+5 ; **Sens** odorat, vision dans le noir 18 m, vision nocturne ; Perception +16
 (((Défense)))
 - **CA** 15, contact 9, pris au dépourvu 14 (Dex +1, naturelle +6, taille -2)
@@ -23,14 +23,14 @@ LastModified: 2020-09-19 15:49
 - **Espace** 4,50 m ; **Allonge** 3 m
 - **Attaque spéciale** bond
 - **Pouvoirs magiques** (**NLS** 5 ; concentration +6)
-  - À volonté — *[porte dimensionnelle](./Porte dimensionnelle.md)* (au sein du sol sacré seulement)
-  - 3/jour— *[alarme](./Alarme.md), [déblocage](./Déblocage.md)*
-  - 1/jour— *[augure](./Augure.md), [clairaudience/clairvoyance](./Clairaudienceclairvoyance.md), [verrou dimensionnel](./Verrou dimensionnel.md), [verrouillage](./Verrouillage.md)*
+  - À volonté — *[[porte dimensionnelle]]* (au sein du sol sacré seulement)
+  - 3/jour— *[[alarme]], [[déblocage]]*
+  - 1/jour— *[[augure]], [[clairaudienceclairvoyance|clairaudience/clairvoyance]], [[verrou dimensionnel]], [[verrouillage]]*
 (((Statistiques)))
 - **For** 17, **Dex** 12, **Con** 18, **Int** 6, **Sag** 15, **Cha** 13
 - **BBA **+5 ; **BMO **+10 ; **DMD** 21 (croc-en-jambe impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaques réflexes](./Attaques réflexes.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Natation](./Natation.md) +11, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +7, [Vol](./Vol.md) +9 ;
+- **Dons** [[Arme de prédilection]] (morsure), [[Attaques réflexes]], [[Volonté de fer]]
+- **Compétences** [[Natation]] +11, [[Perception]] +16, [[Psychologie]] +7, [[Vol]] +9 ;
 - **Modificateurs raciaux** +7 en Perception, +5 en Psychologie
 - **Langues** draconique
 - **Particularités** existence bénie, régénération de têtes, sol sacré, traits des hydres, vivacité divine
@@ -42,7 +42,7 @@ LastModified: 2020-09-19 15:49
 
 </div>
 </td><td><div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Gardien divin](./Gardien divin, archétype.md).***</li></ul>*Cette hydre majestueuse possède une tête plus grosse que les quatre autres et dégage une aura d’autorité et de danger.*
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Gardien divin, archétype|Gardien divin]].***</li></ul>*Cette hydre majestueuse possède une tête plus grosse que les quatre autres et dégage une aura d’autorité et de danger.*
 
 Un gardien divin est une créature que les dieux ont choisie pour veiller sur un site sacré. Jouissant (ou souffrant diraient certains) du don de vie éternelle, le gardien divin passe des siècles au service de son dieu, à protéger inlassablement le site qui lui a été confié contre tous ceux qui voudraient le profaner.
 
@@ -50,5 +50,5 @@ En général, ces gardiens ont une allure plus majestueuse que celle de leurs fr
 
 La plupart des gardiens divins ont choisi de servir leur dieu pour l’éternité mais quelques-uns ont reçu ce devoir comme punition pour avoir causé du tort aux fidèles du dieu ou l’ont accepté comme pénitence pour se racheter d’un grand péché. Quelles que soient les raisons de sa création, le gardien divin est lié au dieu qui lui donne ses pouvoirs et aux serviteurs de ce dieu. Un prêtre ou un paladin dévoué à la divinité qui a créé le gardien peut lui donner des ordres. Cela ne lui donne pas un pouvoir absolu sur le gardien mais ce dernier répond favorablement à ses requêtes. Par exemple, un prêtre peut demander au gardien de ne pas attaquer ses compagnons ou de les aider à défendre le site sacré contre des assaillants. Un prêtre ou un paladin dévoué au même dieu que le gardien doit réussir un test de Charisme opposé au sien pour le convaincre de faire quelque chose qu’il ne ferait pas d’ordinaire. Il est impossible de lui ordonner de quitter le site sacré ou d’aller à l’encontre des préceptes de son dieu.
 
-L’hydre gardienne divine présentée ici est conçue à partir de l’[hydre](./Hydre.md) du Bestiaire Pathfinder JdR. Consultez la page 186 du Bestiaire pour connaître les traits des hydres et leur pouvoir de régénération de têtes. Cette hydre est le gardien divin du dieu de la nature et du climat, ce qui lui donne les sous-types air et eau.
+L’hydre gardienne divine présentée ici est conçue à partir de l’[[hydre]] du Bestiaire Pathfinder JdR. Consultez la page 186 du Bestiaire pour connaître les traits des hydres et leur pouvoir de régénération de têtes. Cette hydre est le gardien divin du dieu de la nature et du climat, ce qui lui donne les sous-types air et eau.
 </div></td></tr></table>

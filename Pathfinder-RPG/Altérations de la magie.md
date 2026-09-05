@@ -45,30 +45,30 @@ minimum de tous les sorts de niveau 2 ou plus.*
 |}
 </center></div></div>Quand un personnage gagne des niveaux de lanceur de sorts selon les règles de magie normales, l’efficacité de ses sorts peut brusquement basculer, nécessitant une réévaluation constante de l’utilité de chacun d’eux. Les règles de la magie limitée ont pour objectif d’adapter plus étroitement la puissance des sorts à leur niveau et de réduire la montée en puissance des lanceurs de sorts.
 
-Avec les règles de la magie limitée, tous les sorts sont lancés au niveau minimum de lanceur de sorts et avec la valeur minimale de la caractéristique associée. Le niveau de lanceur de sorts minimum d’un sort est fixé à 2 × niveau du sort - 1 et ne change pas en fonction des niveaux de classe. Le niveau d’un sort peut varier en fonction de la classe, ainsi différentes classes peuvent imposer différents [niveaux de lanceur de sorts](./NLS.md) minimum pour un même sort. La valeur minimale de la caractéristique associée aux sorts est fixée à 10 + niveau du sort, ce qui implique que le [DD](./DD.md) de sauvegarde pour chaque sort (10 + niveau du sort + modificateur de caractéristique du lanceur de sorts) est lui aussi constant. Pour plus de facilité, ces valeurs sont indiquées ci-contre dans la table "Magie limitée" ci-contre. La colonne NLS (9) indique le niveau de lanceur de sorts minimum pour les utilisateurs de magie capables de lancer des sorts de niveau 9, comme les prêtres, les druides et les magiciens. La colonne NLS (6) concerne les utilisateurs de magie capables de lancer des sorts de niveau 6, comme les bardes. La colonne NLS (4) concerne les utilisateurs de magie capables de lancer des sorts de niveau 4, comme les paladins et les rôdeurs. Si la progression d’incantation d’une classe diffère de ces niveaux de lanceur minimum, elle l’emporte toujours sur les indications de cette table.
+Avec les règles de la magie limitée, tous les sorts sont lancés au niveau minimum de lanceur de sorts et avec la valeur minimale de la caractéristique associée. Le niveau de lanceur de sorts minimum d’un sort est fixé à 2 × niveau du sort - 1 et ne change pas en fonction des niveaux de classe. Le niveau d’un sort peut varier en fonction de la classe, ainsi différentes classes peuvent imposer différents [[NLS|niveaux de lanceur de sorts]] minimum pour un même sort. La valeur minimale de la caractéristique associée aux sorts est fixée à 10 + niveau du sort, ce qui implique que le [[DD]] de sauvegarde pour chaque sort (10 + niveau du sort + modificateur de caractéristique du lanceur de sorts) est lui aussi constant. Pour plus de facilité, ces valeurs sont indiquées ci-contre dans la table "Magie limitée" ci-contre. La colonne NLS (9) indique le niveau de lanceur de sorts minimum pour les utilisateurs de magie capables de lancer des sorts de niveau 9, comme les prêtres, les druides et les magiciens. La colonne NLS (6) concerne les utilisateurs de magie capables de lancer des sorts de niveau 6, comme les bardes. La colonne NLS (4) concerne les utilisateurs de magie capables de lancer des sorts de niveau 4, comme les paladins et les rôdeurs. Si la progression d’incantation d’une classe diffère de ces niveaux de lanceur minimum, elle l’emporte toujours sur les indications de cette table.
 
 #### Les objets magiques
-Les sorts des objets magiques répondent aux mêmes règles que ci-dessus, ce qui signifie qu’une *[boule de feu](./Boule de feu.md)* lancée avec une [baguette](./Baguettes magiques.md) créée par un [ensorceleur](./Ensorceleur.md) ou un [magicien](./Magicien.md) possède le même [DD](./DD.md) des [jets de sauvegarde](./JDS.md) et inflige le même nombre de dés de dégâts qu’une *boule de feu* lancée par n’importe quel ensorceleur ou magicien. Quand vous calculez le coût ou le prix de base d’un objet magique, utilisez toujours le [NLS](./NLS.md) minimum tel que défini par ce système (même si le créateur de l’objet devrait normalement avoir un niveau de lanceur de sorts supérieur). Les potions et les parchemins s’alignent toujours par défaut sur le niveau des sorts indiqué pour les prêtres, les druides ou les magiciens quand il s’agit de déterminer leur prix de base.
+Les sorts des objets magiques répondent aux mêmes règles que ci-dessus, ce qui signifie qu’une *[[boule de feu]]* lancée avec une [[baguettes magiques|baguette]] créée par un [[ensorceleur]] ou un [[magicien]] possède le même [[DD]] des [[jds|jets de sauvegarde]] et inflige le même nombre de dés de dégâts qu’une *boule de feu* lancée par n’importe quel ensorceleur ou magicien. Quand vous calculez le coût ou le prix de base d’un objet magique, utilisez toujours le [[NLS]] minimum tel que défini par ce système (même si le créateur de l’objet devrait normalement avoir un niveau de lanceur de sorts supérieur). Les potions et les parchemins s’alignent toujours par défaut sur le niveau des sorts indiqué pour les prêtres, les druides ou les magiciens quand il s’agit de déterminer leur prix de base.
 
 #### L’augmentation d’intensité
-Avec ce système, il est toujours possible d’améliorer les sorts grâce à l’[Augmentation d’intensité](./Augmentation dintensité.md). Un sort dont l’intensité est augmentée utilise le [NLS](./NLS.md) minimum après augmentation de son niveau. Par exemple, une *[boule de feu](./Boule de feu.md)* dont l’intensité est augmentée au niveau 5 aura un [DD](./DD.md) de 17 et infligera 9d6 points de dégâts, comme un *[cône de froid](./Cône de froid.md)* qui utilise le même emplacement.
+Avec ce système, il est toujours possible d’améliorer les sorts grâce à l’[[Augmentation dintensité|Augmentation d’intensité]]. Un sort dont l’intensité est augmentée utilise le [[NLS]] minimum après augmentation de son niveau. Par exemple, une *[[boule de feu]]* dont l’intensité est augmentée au niveau 5 aura un [[DD]] de 17 et infligera 9d6 points de dégâts, comme un *[[cône de froid]]* qui utilise le même emplacement.
 
 #### Autres considérations
-Il peut falloir un certain temps pour s’habituer à la magie limitée. Elle réduit fortement la puissance de la plupart des lanceurs de sorts mais peut accélérer le jeu puisqu’il faut moins de temps pour chercher le niveau de lanceur des monstres, des [PNJ](./PNJ.md) et des objets magiques. La magie limitée peut également encourager les lanceurs de sorts plus équilibrés, surtout si vous utilisez le système d’achat pour générer les valeurs de caractéristique car ceux qui se concentrent uniquement sur leurs attributs d’incantation sont moins avantagés.
+Il peut falloir un certain temps pour s’habituer à la magie limitée. Elle réduit fortement la puissance de la plupart des lanceurs de sorts mais peut accélérer le jeu puisqu’il faut moins de temps pour chercher le niveau de lanceur des monstres, des [[PNJ]] et des objets magiques. La magie limitée peut également encourager les lanceurs de sorts plus équilibrés, surtout si vous utilisez le système d’achat pour générer les valeurs de caractéristique car ceux qui se concentrent uniquement sur leurs attributs d’incantation sont moins avantagés.
 
-En utilisant ce système, si une classe permet au personnage de disposer d’un sort alors qu’il est d’un niveau inférieur par rapport à celui auquel il en disposerait avec une autre classe, les effets de ce sort sont plus faibles. L’*[héroïsme](./Héroïsme.md)* du [barde](./Barde.md) n’est pas aussi puissant que celui du [magicien](./Magicien.md). Cela dit, les classes dont la progression des sorts est plus lente (comme c’est le cas pour le barde, le [paladin](./Paladin.md) et le [rôdeur](./Rôdeur.md)) offrent d’autres pouvoirs qui les rendent malgré tout attractives même si la magie limitée affaiblit la puissance globale des sorts.
+En utilisant ce système, si une classe permet au personnage de disposer d’un sort alors qu’il est d’un niveau inférieur par rapport à celui auquel il en disposerait avec une autre classe, les effets de ce sort sont plus faibles. L’*[[héroïsme]]* du [[barde]] n’est pas aussi puissant que celui du [[magicien]]. Cela dit, les classes dont la progression des sorts est plus lente (comme c’est le cas pour le barde, le [[paladin]] et le [[rôdeur]]) offrent d’autres pouvoirs qui les rendent malgré tout attractives même si la magie limitée affaiblit la puissance globale des sorts.
 
-N’hésitez pas à modifier d’autres règles pour justifier un système qui présente des [DD](./DD.md) moyens inférieurs. Par exemple, les dons [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md) et [Réflexes surhumains](./Réflexes surhumains.md) pourraient n’apporter qu’un bonus de +1 aux [jets de sauvegarde](./JDS.md) comme les dons [École renforcée](./École renforcée.md) et [École supérieure](./École supérieure.md) pourraient limiter l’augmentation du [DD](./DD.md) des sorts à 2.
+N’hésitez pas à modifier d’autres règles pour justifier un système qui présente des [[DD]] moyens inférieurs. Par exemple, les dons [[Vigueur surhumaine]], [[Volonté de fer]] et [[Réflexes surhumains]] pourraient n’apporter qu’un bonus de +1 aux [[jds|jets de sauvegarde]] comme les dons [[École renforcée]] et [[École supérieure]] pourraient limiter l’augmentation du [[DD]] des sorts à 2.
 
-**Avec les composantes ésotériques.** Ce système fonctionne particulièrement bien avec le système des [composantes de sort ésotériques](./Composantes matérielles ésotériques.md). La combinaison de ces deux systèmes réduit la puissance globale des incantations au sein de votre campagne mais les personnages qui sont prêts à investir de l’argent pour augmenter la puissance de leurs sorts pourront ponctuellement renforcer la puissance de leur magie.
+**Avec les composantes ésotériques.** Ce système fonctionne particulièrement bien avec le système des [[Composantes matérielles ésotériques|composantes de sort ésotériques]]. La combinaison de ces deux systèmes réduit la puissance globale des incantations au sein de votre campagne mais les personnages qui sont prêts à investir de l’argent pour augmenter la puissance de leurs sorts pourront ponctuellement renforcer la puissance de leur magie.
 
 {s:Reference|MAGIESAUVAGE}
 ### La magie sauvage
-De nombreux lanceurs de sorts conçoivent l’utilisation de la magie comme une forme de science, mais il n’est pas toujours évident d’en prévoir les effets. La magie sauvage et incontrôlée se manifeste parfois brusquement, tel un effet secondaire de l’incantation ou de l’expérimentation magique. Elle peut intervenir dans toutes les situations où la magie est susceptible de générer des effets aléatoires et chaotiques. Quand un personnage lance un sort ou entreprend une action pouvant déclencher un pic de magie sauvage (voir plus bas, Application de la magie sauvage), lancez un dé et consultez la table "[Pic de magie sauvage](./Altérations de la magie.md#PICDEMAGIESAUVAGE)".
+De nombreux lanceurs de sorts conçoivent l’utilisation de la magie comme une forme de science, mais il n’est pas toujours évident d’en prévoir les effets. La magie sauvage et incontrôlée se manifeste parfois brusquement, tel un effet secondaire de l’incantation ou de l’expérimentation magique. Elle peut intervenir dans toutes les situations où la magie est susceptible de générer des effets aléatoires et chaotiques. Quand un personnage lance un sort ou entreprend une action pouvant déclencher un pic de magie sauvage (voir plus bas, Application de la magie sauvage), lancez un dé et consultez la table "[[Altérations de la magie#PICDEMAGIESAUVAGE|Pic de magie sauvage]]".
 
 Lancez un dé pour déterminer l’effet du pic avant que le sort ne soit lancé mais appliquez l’effet une fois le sort lancé, à moins que cet effet n’altère le sort en lui-même de quelque manière que ce soit (en modifiant, par exemple, le niveau effectif de lanceur de sorts). Dans la table, toute référence au sort ou au niveau de sort s’applique au sort lancé, au pouvoir surnaturel utilisé ou à l’effet de l’objet magique activé. De même, toute référence au lanceur de sorts s’applique au personnage à l’origine du pic. Si un effet nécessite un niveau de lanceur de sorts, utilisez alors le niveau total de personnage du lanceur de sorts.
 
-Si l’effet du pic de magie sauvage obtenu d’après la table est impossible à appliquer en raison de la nature du sort ou de l’effet, lancez alors un dé sur la table "[Effets de pic universels](./Altérations de la magie.md#EFFETSDEPICUNIVERSELS)". Un effet de pic de magie sauvage ne donne droit à aucun [jet de sauvegarde](./JDS.md), même s’il reproduit un sort qui autorise normalement un jet de sauvegarde, et tout effet qui fixe normalement une limite au nombre de dés de vie qu’il peut affecter ignore cette limite. Plus les résultats obtenus sur la table sont élevés, plus ils sont susceptibles d’être bénéfiques : le [MJ](./MJ.md) peut donc appliquer un bonus ou un malus au test quand une action devrait normalement altérer la manière dont les avantages du pic de magie sauvage se manifestent.
+Si l’effet du pic de magie sauvage obtenu d’après la table est impossible à appliquer en raison de la nature du sort ou de l’effet, lancez alors un dé sur la table "[[Altérations de la magie#EFFETSDEPICUNIVERSELS|Effets de pic universels]]". Un effet de pic de magie sauvage ne donne droit à aucun [[jds|jet de sauvegarde]], même s’il reproduit un sort qui autorise normalement un jet de sauvegarde, et tout effet qui fixe normalement une limite au nombre de dés de vie qu’il peut affecter ignore cette limite. Plus les résultats obtenus sur la table sont élevés, plus ils sont susceptibles d’être bénéfiques : le [[MJ]] peut donc appliquer un bonus ou un malus au test quand une action devrait normalement altérer la manière dont les avantages du pic de magie sauvage se manifestent.
 
 #### Application de la magie sauvage
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
@@ -90,13 +90,13 @@ temporaires qui durent 1 heure mais ne se
 cumulent avec aucun autre point de vie temporaire.
 |}
 </center></div></div>Les règles concernant le moment où utiliser la magie sauvage sont délibérément floues pour laisser une marge de manœuvre au MJ, mais voici quelques idées d’utilisation, présentées de la plus simple à la plus complexe.
-- **Concentration ratée.** Quand un lanceur rate un [test de concentration](./test de concentration.md) et perd son sort, une partie de l’énergie magique est libérée sous forme d’un pic de magie sauvage.
+- **Concentration ratée.** Quand un lanceur rate un [[test de concentration]] et perd son sort, une partie de l’énergie magique est libérée sous forme d’un pic de magie sauvage.
 
-- **Contresort et dissipation.** Quand un sort ou un effet magique est soumis à une [dissipation](./Dissipation de la magie.md) ou à un [contresort](./contresort.md), il déclenche un pic de magie sauvage sur le lanceur de sorts ou la cible.
+- **Contresort et dissipation.** Quand un sort ou un effet magique est soumis à une [[dissipation de la magie|dissipation]] ou à un [[contresort]], il déclenche un pic de magie sauvage sur le lanceur de sorts ou la cible.
 
 - **Zones de magie sauvage.** Certains endroits sont magiquement instables. Quand une créature lance un sort, utilise un pouvoir magique ou active un objet magique dans ce genre d’endroits, elle provoque un pic de magie sauvage.
 
-- **Incantation stimulée.** Un lanceur de sorts peut tenter d’utiliser l’un de ses [dons de métamagie](./Dons.md#DONMETAMAGIE) sur un sort qu’il lance sans dépenser d’emplacement de sort de niveau supérieur, sans préparer le sort à un niveau supérieur (s’il s’agit d’un lanceur de sorts préparés) ou sans augmenter le temps d’incantation (s’il s’agit d’un lanceur de sorts spontanés). Le personnage doit alors effectuer un test de [niveau de lanceur de sorts](./NLS.md) contre un [DD](./DD.md) égal à 10 + niveau du sort + 5 par niveau de sort supplémentaire que le don de métamagie engendre. S’il réussit, son sort profite des avantages du don de métamagie et le lanceur provoque un pic de magie sauvage. S’il échoue, il lance quand même un dé sur la Table 4-4 mais soustrait sa marge d’échec au résultat.
+- **Incantation stimulée.** Un lanceur de sorts peut tenter d’utiliser l’un de ses [[Dons#DONMETAMAGIE|dons de métamagie]] sur un sort qu’il lance sans dépenser d’emplacement de sort de niveau supérieur, sans préparer le sort à un niveau supérieur (s’il s’agit d’un lanceur de sorts préparés) ou sans augmenter le temps d’incantation (s’il s’agit d’un lanceur de sorts spontanés). Le personnage doit alors effectuer un test de [[NLS|niveau de lanceur de sorts]] contre un [[DD]] égal à 10 + niveau du sort + 5 par niveau de sort supplémentaire que le don de métamagie engendre. S’il réussit, son sort profite des avantages du don de métamagie et le lanceur provoque un pic de magie sauvage. S’il échoue, il lance quand même un dé sur la Table 4-4 mais soustrait sa marge d’échec au résultat.
 
 <table width="100%"><tr><td width="50%">
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="96%"
@@ -106,71 +106,71 @@ cumulent avec aucun autre point de vie temporaire.
 |- CLASS="premier"
 | 01-02 || Le lanceur de sorts subit 1d6 points de dégâts par niveau du sort lancé.
 |-
-| 03-04 || Le lanceur de sorts est affecté par un sort de *[lenteur](./Lenteur.md)* pendant 5 [rounds](./round.md).
+| 03-04 || Le lanceur de sorts est affecté par un sort de *[[lenteur]]* pendant 5 [[round|rounds]].
 |-
 | 05 || Le sort prend effet en un point aléatoire de sa zone de portée.
 |-
-| 06 || Le lanceur de sorts est [confus](./Confus.md) pendant 1 [round](./round.md) (comme avec une *[confusion](./Confusion.md)*).
+| 06 || Le lanceur de sorts est [[confus]] pendant 1 [[round]] (comme avec une *[[confusion]]*).
 |-
-| 07 || Le lanceur de sorts subit 1 point de saignement en [Constitution](./Constitution.md).
+| 07 || Le lanceur de sorts subit 1 point de saignement en [[Constitution]].
 |-
 | 08 || Le lanceur de sorts subit 1 point de saignement dans la caractéristique associée à son aptitude d’incantation (déterminez cette caractéristique aléatoirement si la créature n’est pas un lanceur de sorts).
 |-
-| 09-10 || Le lanceur de sorts est hébété pendant 1 round (comme avec un *[hébétement de monstre](./Hébétement de monstre.md)*)
+| 09-10 || Le lanceur de sorts est hébété pendant 1 round (comme avec un *[[hébétement de monstre]]*)
 |-
 | 11-12 || Le sort inflige 1,5 fois les dégâts normaux.
 |-
 | 13 || Le lanceur de sorts subit 1d4 points de dégâts de saignement.
 |-
-| 14 || Le lanceur de sorts s’endort pendant 1 minute (comme avec un sort de *[sommeil](./Sommeil.md)*).
+| 14 || Le lanceur de sorts s’endort pendant 1 minute (comme avec un sort de *[[sommeil]]*).
 |-
 | 15-16 || Pendant 1 minute, le lanceur de sorts ne peut plus incanter ni se concentrer sur des sorts.
 |-
-| 17 || Le lanceur de sorts est affecté par un *[rapetissement](./Rapetissement.md)* pendant 1 [round](./round.md).
+| 17 || Le lanceur de sorts est affecté par un *[[rapetissement]]* pendant 1 [[round]].
 |-
-| 18-19 || Le lanceur de sorts est [fiévreux](./Fiévreux.md) pendant 5 [rounds](./round.md).
+| 18-19 || Le lanceur de sorts est [[fiévreux]] pendant 5 [[round|rounds]].
 |-
-| 20 || Une *[zone de vérité](./Zone de vérité.md)* apparaît, centrée sur le lanceur de sorts.
+| 20 || Une *[[zone de vérité]]* apparaît, centrée sur le lanceur de sorts.
 |-
 | 21-29 || Le lanceur de sorts est affecté comme s’il était la cible de son sort.
 |-
-| 30-32 || Toutes les cibles du sort sont affectées par une *[restauration partielle](./Restauration partielle.md)*.
+| 30-32 || Toutes les cibles du sort sont affectées par une *[[restauration partielle]]*.
 |-
 | 33-38 || Toutes les cibles du sort sont soignées de 1d8+1 points de dégâts. Il s’agit d’un effet d’énergie positive.
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="96%"
-| 39-43 || La zone d’effet ou les cibles du sort sont affectées par un sort de *[silence](./Silence.md)* pendant 3 [rounds](./round.md).
+| 39-43 || La zone d’effet ou les cibles du sort sont affectées par un sort de *[[silence]]* pendant 3 [[round|rounds]].
 |-
-| 44-50 || Toutes les cibles du sort sont [invisibles](./Invisible.md) pendant 1 [round](./round.md) (comme avec une *[invisibilité](./Invisibilité.md)*).
+| 44-50 || Toutes les cibles du sort sont [[invisible|invisibles]] pendant 1 [[round]] (comme avec une *[[invisibilité]]*).
 |-
-| 51-58 || La zone d’effet du sort est remplie d’une *[lumière du jour](./Lumière du jour.md)*.
+| 51-58 || La zone d’effet du sort est remplie d’une *[[lumière du jour]]*.
 |-
-| 59-64 || Un sort de *[fracassement](./Fracassement.md)* affecte un zone de 1,5 mètre de rayon centrée sur chacune des cibles du sort (ou sur la zone d’effet du sort).
+| 59-64 || Un sort de *[[fracassement]]* affecte un zone de 1,5 mètre de rayon centrée sur chacune des cibles du sort (ou sur la zone d’effet du sort).
 |-
-| 65-71 || La zone d’effet du sort est recouverte de *[graisse](./Graisse.md)*.
+| 65-71 || La zone d’effet du sort est recouverte de *[[graisse]]*.
 |-
-| 72-74 || Un arbre ou un animal aléatoire, ciblé par le sort ou se trouvant dans la zone d’effet du sort, est affecté par un sort d’*[éveil](./Éveil.md)*.
+| 72-74 || Un arbre ou un animal aléatoire, ciblé par le sort ou se trouvant dans la zone d’effet du sort, est affecté par un sort d’*[[éveil]]*.
 |-
-| 75-78 || Un instrument apparaît sur une case adjacente à chaque cible (comme avec une *[convocation d’instrument](./Convocation dinstrument.md)*).
+| 75-78 || Un instrument apparaît sur une case adjacente à chaque cible (comme avec une *[[convocation dinstrument|convocation d’instrument]]*).
 |-
-| 79-80 || Toutes les portes dans un rayon de 30 mètres du lanceur de sorts sont affectées par un sort de *[déblocage](./Déblocage.md)*.
+| 79-80 || Toutes les portes dans un rayon de 30 mètres du lanceur de sorts sont affectées par un sort de *[[déblocage]]*.
 |-
 | 81-83 || Le lanceur de sorts se téléporte vers une case de son choix située à côté de la cible du sort ou dans la zone d’effet du sort.
 |-
-| 84-86 || Le prochain sort qui prend pour cible le lanceur de sorts est renvoyé, comme avec un *[renvoi des sorts](./Renvoi des sorts.md)*.
+| 84-86 || Le prochain sort qui prend pour cible le lanceur de sorts est renvoyé, comme avec un *[[renvoi des sorts]]*.
 |-
 | 87-90 || Le lanceur de sorts gagne 2d6 points de vie temporaires qui durent 1 heure mais ne se cumulent avec aucun autre point de vie temporaire.
 |-
-| 91-92 || Une créature aléatoire issue de la liste du sort *[convocation de monstres I](./Convocation de monstres I.md)* apparaît sur une case adjacente au lanceur de sorts. Elle est sous le contrôle du lanceur de sorts.
+| 91-92 || Une créature aléatoire issue de la liste du sort *[[convocation de monstres I]]* apparaît sur une case adjacente au lanceur de sorts. Elle est sous le contrôle du lanceur de sorts.
 |-
-| 93-95 || Le lanceur de sorts est affecté par un *[don des langues](./Don des langues.md)* pendant 10 minutes.
+| 93-95 || Le lanceur de sorts est affecté par un *[[don des langues]]* pendant 10 minutes.
 |-
-| 96-97 || Le lanceur de sorts est affecté par une *[rapidité](./Rapidité.md)* pendant 5 [rounds](./round.md).
+| 96-97 || Le lanceur de sorts est affecté par une *[[rapidité]]* pendant 5 [[round|rounds]].
 |-
-| 98 || Le sort bénéficie d’une [Extension de durée](./Extension de durée.md).
+| 98 || Le sort bénéficie d’une [[Extension de durée]].
 |-
-| 99 || Le sort bénéficie d’une [Quintessence des sorts](./Quintessence des sorts.md).
+| 99 || Le sort bénéficie d’une [[Quintessence des sorts]].
 |-
 | 100 || L’emplacement de sort utilisé pour lancer le sort n’est pas dépensé.
 |}
@@ -183,36 +183,36 @@ D’après les règles de base, un lanceur de sorts est assez passif quand il r�
 #### Les sorts sur-cadencés
 Lorsqu’ils utilisent la variante des sorts sur-cadencés, les lanceurs de sorts pleins d’assurance peuvent tenter d’investir davantage de puissance dans leurs sorts quand ils les lancent. L’opération n’est pas sans risque : en s’écartant du point d’équilibre, la formule d’incantation normale risque de provoquer l’effondrement du sort et de son énergie magique.
 
-Par une [action rapide](./Action rapide.md) au moment de l’incantation, le lanceur de sorts peut tenter d’augmenter le [DD](./DD.md) du sort ou son propre [niveau de lanceur de sorts](./NLS.md). Il doit effectuer un test d’[Art de la magie](./Art de la magie.md) contre un [DD](./DD.md) égal à 15 + le niveau du sort + le niveau de lanceur de sorts minimum du sort déterminé par sa classe. S’il réussit, il peut augmenter son propre niveau de lanceur de sorts ou le DD du sort de 2. S’il échoue, le sort n’est pas lancé et son lanceur perd le sort préparé ou l’emplacement de sort utilisé. S’il rate son test d’Art de la magie de 5 points ou plus, il subit également un incident, similaire à un [incident de parchemin](./Parchemins magiques.md#INCIDENT).
+Par une [[action rapide]] au moment de l’incantation, le lanceur de sorts peut tenter d’augmenter le [[DD]] du sort ou son propre [[NLS|niveau de lanceur de sorts]]. Il doit effectuer un test d’[[Art de la magie]] contre un [[DD]] égal à 15 + le niveau du sort + le niveau de lanceur de sorts minimum du sort déterminé par sa classe. S’il réussit, il peut augmenter son propre niveau de lanceur de sorts ou le DD du sort de 2. S’il échoue, le sort n’est pas lancé et son lanceur perd le sort préparé ou l’emplacement de sort utilisé. S’il rate son test d’Art de la magie de 5 points ou plus, il subit également un incident, similaire à un [[Parchemins magiques#INCIDENT|incident de parchemin]].
 
-**Avec la magie limitée.** Si vous utilisez les règles de la [magie limitée](./Altérations de la magie.md#MAGIELIMITEE), permettez à la place au lanceur de sorts de profiter des avantages normaux de son niveau normal de lanceur de sorts et de ses valeurs de caractéristique plutôt que d’augmenter le niveau de lanceur de sorts ou le DD de 2.
+**Avec la magie limitée.** Si vous utilisez les règles de la [[Altérations de la magie#MAGIELIMITEE|magie limitée]], permettez à la place au lanceur de sorts de profiter des avantages normaux de son niveau normal de lanceur de sorts et de ses valeurs de caractéristique plutôt que d’augmenter le niveau de lanceur de sorts ou le DD de 2.
 
-**Avec les échecs critiques magiques.** Appliquez les résultats d’un [échec critique magique](./Altérations de la magie.md#ECHECCRITIQUEMAGIQUE) plutôt que ceux d’un incident.
+**Avec les échecs critiques magiques.** Appliquez les résultats d’un [[Altérations de la magie#ECHECCRITIQUEMAGIQUE|échec critique magique]] plutôt que ceux d’un incident.
 
 #### Le jet d’attaque magique
-{s:Desambi|Le DD des jets d'attaque magique ne respecte pas les probabilités de réussite des jets de sauvegarde classiques. Sans réponse de Paizo, veillez à utiliser la formule « DD = 12 + bonus de sauvegarde de la cible » pour conserver une cohérence mathématique. Cette erreur est répétée dans le paragraphe d'exemple ci-dessous.}Quand il lance un sort ou utilise un effet magique qui autorise un [jet de sauvegarde](./JDS.md), le lanceur effectue un jet d’attaque magique. Il lance 1d20 auquel il ajoute un bonus égal à son modificateur de caractéristique d’incantation plus le niveau du sort. Tous les bonus qui devraient normalement rendre le sort plus difficile à éviter (comme, par exemple, le don [École renforcée](./École renforcée.md)) s’appliquent également. Le [DD](./DD.md) de ce jet est égal à 11 + le bonus de sauvegarde approprié de la cible. Si le lanceur de sorts réussit, traitez le sort ou l’effet comme si la cible avait raté son jet de sauvegarde. Tout comme un [jet d’attaque](./jet dattaque.md) ordinaire, un 1 naturel correspond à un échec automatique tandis qu’un 20 naturel est une réussite automatique. Cette règle ne change pas les chances de réussite, elle permet simplement aux lanceurs de sorts de lancer les dés.
+{s:Desambi|Le DD des jets d'attaque magique ne respecte pas les probabilités de réussite des jets de sauvegarde classiques. Sans réponse de Paizo, veillez à utiliser la formule « DD = 12 + bonus de sauvegarde de la cible » pour conserver une cohérence mathématique. Cette erreur est répétée dans le paragraphe d'exemple ci-dessous.}Quand il lance un sort ou utilise un effet magique qui autorise un [[jds|jet de sauvegarde]], le lanceur effectue un jet d’attaque magique. Il lance 1d20 auquel il ajoute un bonus égal à son modificateur de caractéristique d’incantation plus le niveau du sort. Tous les bonus qui devraient normalement rendre le sort plus difficile à éviter (comme, par exemple, le don [[École renforcée]]) s’appliquent également. Le [[DD]] de ce jet est égal à 11 + le bonus de sauvegarde approprié de la cible. Si le lanceur de sorts réussit, traitez le sort ou l’effet comme si la cible avait raté son jet de sauvegarde. Tout comme un [[jet dattaque|jet d’attaque]] ordinaire, un 1 naturel correspond à un échec automatique tandis qu’un 20 naturel est une réussite automatique. Cette règle ne change pas les chances de réussite, elle permet simplement aux lanceurs de sorts de lancer les dés.
 
-Par exemple, un [magicien](./Magicien.md) ayant une valeur d’[Intelligence](./Intelligence.md) de 18 lance un sort de *[charme-personne](./Charme-personne.md)* sur un gardien orque. En principe, l’orque devrait faire un jet de [Volonté](./Volonté.md) [DD](./DD.md) 15 (10 + 1 car c’est un sort de niveau 1 + 4 pour le modificateur d’Intelligence du magicien). Comme le modificateur de Volonté de l’orque est de -1, il doit faire 16 au dé pour réussir et a donc 80% de chances de rater son jet. Si l’on s’appuie sur les règles du jet d’attaque magique, plutôt que de faire faire un jet de Volonté à l’orque, le magicien effectue un jet d’attaque magique avec un bonus de +5 (le DD du sort égal à 15, -10) contre un DD de 10 (11 -1 du modificateur de Volonté de l’orque). Le magicien doit faire au moins 5 pour réussir et a toujours 80% de chances d’affecter sa cible.
+Par exemple, un [[magicien]] ayant une valeur d’[[Intelligence]] de 18 lance un sort de *[[charme-personne]]* sur un gardien orque. En principe, l’orque devrait faire un jet de [[Volonté]] [[DD]] 15 (10 + 1 car c’est un sort de niveau 1 + 4 pour le modificateur d’Intelligence du magicien). Comme le modificateur de Volonté de l’orque est de -1, il doit faire 16 au dé pour réussir et a donc 80% de chances de rater son jet. Si l’on s’appuie sur les règles du jet d’attaque magique, plutôt que de faire faire un jet de Volonté à l’orque, le magicien effectue un jet d’attaque magique avec un bonus de +5 (le DD du sort égal à 15, -10) contre un DD de 10 (11 -1 du modificateur de Volonté de l’orque). Le magicien doit faire au moins 5 pour réussir et a toujours 80% de chances d’affecter sa cible.
 
-Cette variante place davantage de dés entre les mains des joueurs. N’hésitez pas à jouer les [PNJ](./PNJ.md) lanceurs de sorts en appliquant les règles de base afin que les joueurs aient la pleine responsabilité de leurs [jets de sauvegarde](./JDS.md). Il est généralement plus facile pour les joueurs de noter le bonus de leur jet d’attaque magique pour chaque niveau.
+Cette variante place davantage de dés entre les mains des joueurs. N’hésitez pas à jouer les [[PNJ]] lanceurs de sorts en appliquant les règles de base afin que les joueurs aient la pleine responsabilité de leurs [[jds|jets de sauvegarde]]. Il est généralement plus facile pour les joueurs de noter le bonus de leur jet d’attaque magique pour chaque niveau.
 
 **Variante accélérée.** En principe, le lanceur de sorts effectue un jet d’attaque magique indépendant pour chaque cible. Un MJ qui préfère accélérer le rythme de jeu (quitte à le rendre plus sujet aux extrêmes et à l’éloigner davantage des règles de base) peut, au lieu de cela, ne demander qu’un seul jet de dé qu’il applique aux défenses de toutes les cibles.
 
 #### Les coups critiques magiques
-Les sorts qui nécessitent un [jet d’attaque](./jet dattaque.md) suivent les règles normales des [coups critiques](./coup critique.md). Grâce à cette variante, les sorts qui autorisent un [jet de sauvegarde](./JDS.md) profitent du même avantage. Si une créature fait un 1 naturel à son jet de sauvegarde, le sort peut infliger un coup critique. La créature effectue alors un deuxième jet de sauvegarde et, si elle le rate à nouveau, le coup critique est confirmé : tous les effets numériques du sort sont doublés. Pour les sorts n’ayant pas d’effet numérique direct, comme *[charme-personne](./Charme-personne.md)*, la durée est doublée. Les sorts qui nécessitent un jet d’attaque et un jet de sauvegarde (comme *[rayon affaiblissant](./Rayon affaiblissant.md)*) ne peuvent infliger un coup critique que sur le résultat du jet de confirmation de l’attaque.
+Les sorts qui nécessitent un [[jet dattaque|jet d’attaque]] suivent les règles normales des [[coup critique|coups critiques]]. Grâce à cette variante, les sorts qui autorisent un [[jds|jet de sauvegarde]] profitent du même avantage. Si une créature fait un 1 naturel à son jet de sauvegarde, le sort peut infliger un coup critique. La créature effectue alors un deuxième jet de sauvegarde et, si elle le rate à nouveau, le coup critique est confirmé : tous les effets numériques du sort sont doublés. Pour les sorts n’ayant pas d’effet numérique direct, comme *[[charme-personne]]*, la durée est doublée. Les sorts qui nécessitent un jet d’attaque et un jet de sauvegarde (comme *[[rayon affaiblissant]]*) ne peuvent infliger un coup critique que sur le résultat du jet de confirmation de l’attaque.
 
-On encourage les [MJ](./MJ.md) à doubler d’autres effets quand la situation paraît appropriée. Un sort d’*[empoisonnement](./Empoisonnement.md)* pourrait, par exemple, affliger la cible de deux doses de poison sur un critique plutôt que de doubler les effets du sort.
+On encourage les [[MJ]] à doubler d’autres effets quand la situation paraît appropriée. Un sort d’*[[empoisonnement]]* pourrait, par exemple, affliger la cible de deux doses de poison sur un critique plutôt que de doubler les effets du sort.
 
 **Avec les jets d’attaque magique.** Cette règle se combine très bien avec celle du jet d’attaque magique. Si le lanceur fait un 20 naturel sur un jet d’attaque magique, il peut infliger un coup critique. Il doit alors effectuer un deuxième jet d’attaque pour confirmer le coup critique. Évitez la variante accélérée du jet d’attaque magique si vous utilisez également la règle des coups critiques magiques ou arrangez-vous au moins pour confirmer chaque coup critique séparément.
 
 **Avec les échecs critiques magiques.** Ce système a été conçu pour être utilisé en conjonction avec la variante des échecs critiques magiques, bien qu’il soit possible d’utiliser ces deux règles séparément.
 
 #### Les échecs critiques magiques
-Les sorts sont soumis à un risque d’échec automatique, tout comme n’importe quelle autre attaque. En principe, ce risque survient quand la cible obtient un 20 naturel sur son [jet de sauvegarde](./JDS.md). Il se peut néanmoins que vous souhaitiez donner un caractère plus dramatique aux « échecs critiques ». Si un ennemi réussit un second jet de sauvegarde, alors le sort est effectivement considéré comme un échec critique, donnant lieu à un accident similaire à un [incident de parchemin](./Parchemins magiques.md#INCIDENT). Lancez 1d10 et consultez la table "Échecs critiques magiques" ci-dessous. Le lanceur de sorts ne peut être soumis qu’à un seul échec critique par lancement de sort. Si plus d’une cible fait un 20 naturel, seule la première cible fait un second jet de sauvegarde pour confirmer l’échec critique.
+Les sorts sont soumis à un risque d’échec automatique, tout comme n’importe quelle autre attaque. En principe, ce risque survient quand la cible obtient un 20 naturel sur son [[jds|jet de sauvegarde]]. Il se peut néanmoins que vous souhaitiez donner un caractère plus dramatique aux « échecs critiques ». Si un ennemi réussit un second jet de sauvegarde, alors le sort est effectivement considéré comme un échec critique, donnant lieu à un accident similaire à un [[Parchemins magiques#INCIDENT|incident de parchemin]]. Lancez 1d10 et consultez la table "Échecs critiques magiques" ci-dessous. Le lanceur de sorts ne peut être soumis qu’à un seul échec critique par lancement de sort. Si plus d’une cible fait un 20 naturel, seule la première cible fait un second jet de sauvegarde pour confirmer l’échec critique.
 
 **Avec le jeu de cartes des échecs critiques.** Si vous utilisez le [Jeu de cartes des échecs critiques Pathfinder](https://www.black-book-editions.fr/produit.php?id=617) lors de vos parties, tirez une carte d’échec critique et appliquez le résultat Magique au lieu de lancer les dés sur la table des échecs critiques. Vous pouvez utiliser les cartes des échecs critiques pour les échecs critiques magiques, même si vous ne vous en servez pas pour les autres types d’échecs critiques.
 
-**Avec la magie sauvage.** Vous pouvez consulter la table "[Pic de magie sauvage](./Altérations de la magie.md#MAGIESAUVAGE)" au lieu de la table "Échecs critiques magiques". Si vous utilisez cette table, lancez 1d20 au lieu de 1d100.
+**Avec la magie sauvage.** Vous pouvez consulter la table "[[Altérations de la magie#MAGIESAUVAGE|Pic de magie sauvage]]" au lieu de la table "Échecs critiques magiques". Si vous utilisez cette table, lancez 1d20 au lieu de 1d100.
 
 **Avec les jets d’attaque magique.** Quand vous utilisez la variante du jet d’attaque magique, un échec critique peut survenir si vous faites un 1 naturel au jet d’attaque. Effectuez un second jet d’attaque : s’il est à nouveau raté, le sort est un échec critique.
 
@@ -235,9 +235,9 @@ Les sorts sont soumis à un risque d’échec automatique, tout comme n’import
 |-
 | 7 || L’effet du sort est retardé, ne s’activant qu’à un moment donné au cours des 1d12 prochaines heures. Le sort est lancé dans la direction générale de la cible originale, jusqu’à sa portée maximale si la cible s’est déplacée.
 |-
-| 8 || Le lanceur de sorts ne peut pas incanter ni se concentrer sur des sorts pendant 1 [round](./round.md).
+| 8 || Le lanceur de sorts ne peut pas incanter ni se concentrer sur des sorts pendant 1 [[round]].
 |-
-| 9 || Le lanceur de sorts est [hébété](./Hébété.md) pendant 1 [round](./round.md).
+| 9 || Le lanceur de sorts est [[hébété]] pendant 1 [[round]].
 |-
-| 10 || Le lanceur de sorts subit un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1 point de [Constitution](./Constitution.md).
+| 10 || Le lanceur de sorts subit un [[affaiblissement temporaire]] de 1 point de [[Constitution]].
 |}

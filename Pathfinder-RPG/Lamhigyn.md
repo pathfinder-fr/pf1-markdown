@@ -11,31 +11,31 @@ Categories:
 <div class="BD">
 {s:BDTitre|Lamhigyn|FP 3}
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
-{s:BDTexte|*Source : [Bestiaire 5 p.164](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.164]]*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md)) de taille P, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision dans les ténèbres](./Vision dans les ténèbres (capacité).md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille P, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision dans les ténèbres (capacité)|vision dans les ténèbres]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 13 (Dex +2, naturelle +2, taille +1)}
 {s:BDTexte|**pv** 32 (5d10+5)}
 {s:BDTexte|**Réf** +6, **Vig** +5, **Vol** +2}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 3 m, [vol](./Vol (capacité).md) 18 m (bonne)}
-{s:BDTexte|**Corps à corps** dard, +10 (1d3+4 plus poison) et 2 ailes, +5 (1d3+2 plus [étreinte](./Étreinte (capacité).md))}
-{s:BDTexte|**Attaques spéciales** [constriction](./Constriction (capacité).md) (1d3+1), poison, ailes enveloppantes}
+{s:BDTexte|**VD** 3 m, [[Vol (capacité)|vol]] 18 m (bonne)}
+{s:BDTexte|**Corps à corps** dard, +10 (1d3+4 plus poison) et 2 ailes, +5 (1d3+2 plus [[Étreinte (capacité)|étreinte]])}
+{s:BDTexte|**Attaques spéciales** [[Constriction (capacité)|constriction]] (1d3+1), poison, ailes enveloppantes}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 15, **Con** 13, **Int** 5, **Sag** 12, **Cha** 8}
-{s:BDTexte|**BBA** +5 ; **BMO** +8 (+12 en [lutte](./lutte.md)) ; **DMD** 20 (24 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Science de l'initiative](./Science de linitiative.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +9, [Vol](./Vol.md) +16}
+{s:BDTexte|**BBA** +5 ; **BMO** +8 (+12 en [[lutte]]) ; **DMD** 20 (24 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +14, [[Perception]] +9, [[Vol]] +16}
 {s:BDTexte|**Langues** abyssal}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abysses)}
 {s:BDTexte|**Organisation** solitaire, paire, poignée (3-9) ou ruche (10-30)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Ailes enveloppantes (Ext).** Quand un lamhigyn utilise ses ailes pour [étreindre](./Étreinte (capacité).md) son adversaire, il les enroule autour de la tête de ce dernier, qui devient alors [aveuglé](./Aveuglé.md) tant que le lamhigyn [lutte](./lutte.md) avec lui. Cette capacité n’a pas d’effet sur les créatures qui n’ont pas d’organe sensoriel au niveau de la tête.}
-{s:BDTexte|**Poison (Ext).** Dard — blessure ; *JdS* [Vigueur](./Vigueur.md) DD 13 ; *fréquence* 1/round pendant 4 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d4 [Sagesse](./Sagesse.md) ; *guérison* 2 réussites consécutives.}
+{s:BDTexte|**Ailes enveloppantes (Ext).** Quand un lamhigyn utilise ses ailes pour [[étreinte (capacité)|étreindre]] son adversaire, il les enroule autour de la tête de ce dernier, qui devient alors [[aveuglé]] tant que le lamhigyn [[lutte]] avec lui. Cette capacité n’a pas d’effet sur les créatures qui n’ont pas d’organe sensoriel au niveau de la tête.}
+{s:BDTexte|**Poison (Ext).** Dard — blessure ; *JdS* [[Vigueur]] DD 13 ; *fréquence* 1/round pendant 4 rounds ; *effet* [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d4 [[Sagesse]] ; *guérison* 2 réussites consécutives.}
 
 </div></td>
 <td><div>*Cette petite créature à trois yeux a des ailes déchiquetées striées de rouge et une queue barbelée menaçante.*

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEDIMMOLATION
 ---
 
->>> [découvertes#BOMBEDIMMOLATION](./découvertes.md#BOMBEDIMMOLATION)
+>>> [[découvertes#BOMBEDIMMOLATION]]

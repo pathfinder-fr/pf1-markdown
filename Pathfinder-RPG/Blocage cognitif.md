@@ -10,20 +10,20 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 2, [Méd](./Médium.md) 2, [Psy](./Psychiste.md) 3  
+{s:AO}**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[hypnotiseur|Hyp]] 2, [[médium|Méd]] 2, [[psychiste|Psy]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
-**Portée** [courte](./Présentation des sorts.md#La_portée_18) (7,50 m + 1,50 m/2 niveaux)  
+**Portée** [[Présentation des sorts#La_portée_18|courte]] (7,50 m + 1,50 m/2 niveaux)  
 
 **Cible** 1 créature  
 
-**Durée** 1 round/[niveau](./niveau.md) (T)  
+**Durée** 1 round/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage crée un blocage mental dans l’esprit de sa cible, entravant son processus d’incantation mentale et l’obligeant à ajouter une [composante intellectuelle](./La magie psychique.md#COMPOSANTEINTELLECTUELLE) à ses sorts et pouvoirs magiques. Cela vient en plus des autres composantes du sort et ne remplace pas la [composante verbale](./composantes.md). Les pouvoirs magiques exigent cette [composante intellectuelle](./La magie psychique.md#COMPOSANTEINTELLECTUELLE), alors même qu’ils ne demandent habituellement pas de composante.
+Le personnage crée un blocage mental dans l’esprit de sa cible, entravant son processus d’incantation mentale et l’obligeant à ajouter une [[La magie psychique#COMPOSANTEINTELLECTUELLE|composante intellectuelle]] à ses sorts et pouvoirs magiques. Cela vient en plus des autres composantes du sort et ne remplace pas la [[composantes|composante verbale]]. Les pouvoirs magiques exigent cette [[La magie psychique#COMPOSANTEINTELLECTUELLE|composante intellectuelle]], alors même qu’ils ne demandent habituellement pas de composante.
 
-Comme d’habitude, la [composante intellectuelle](./La magie psychique.md#COMPOSANTEINTELLECTUELLE) augmente le [DD](./DD.md) d’un éventuel test de concentration de la cible de 10, à moins qu’elle ne dépense une action de mouvement pour concentrer son esprit sur la composante intellectuelle.
+Comme d’habitude, la [[La magie psychique#COMPOSANTEINTELLECTUELLE|composante intellectuelle]] augmente le [[DD]] d’un éventuel test de concentration de la cible de 10, à moins qu’elle ne dépense une action de mouvement pour concentrer son esprit sur la composante intellectuelle.

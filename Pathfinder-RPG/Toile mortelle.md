@@ -14,27 +14,27 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.260*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille G, N}
-{s:BDTexte|**Init** +6 ; **Sens**  [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille G, N}
+{s:BDTexte|**Init** +6 ; **Sens**  [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +15}
 {s:BDTexte|**Aura** infestation (1,50 m (1 {s:c}), 1d6 plus poison)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 11, pris au dépourvu 17 (Dex +2, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 71 (11d8+22)}
 {s:BDTexte|**Réf** +5, **Vig** +5, **Vol** +8}
-{s:BDTexte|**Immunités** [traits des morts-vivants](./Traits des morts-vivants.md)}
+{s:BDTexte|**Immunités** [[traits des morts-vivants]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +15 (2d8+12)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaque spéciale** [toile](./Toile.md) (à distance +9, [DD](./DD.md) 15, 11 pv)}
+{s:BDTexte|**Attaque spéciale** [[toile]] (à distance +9, [[DD]] 15, 11 pv)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 14, **Con** -, **Int** 7, **Sag** 13, **Cha** 15}
-{s:BDTexte|**BBA** +8 ; **BMO** +17 ; **DMD** 29 (41 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md),
-[Frappe décisive](./Frappe décisive.md), [Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +16 , [Escalade](./Escalade.md) +16, [Perception](./Perception.md) +15}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md)}
-{s:BDTexte|**Particularités** [Compression](./Compression (capacité).md)}
+{s:BDTexte|**BBA** +8 ; **BMO** +17 ; **DMD** 29 (41 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Enchaînement]],
+[[Frappe décisive]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +16 , [[Escalade]] +16, [[Perception]] +15}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Discrétion]]}
+{s:BDTexte|**Particularités** [[Compression (capacité)|Compression]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou nid (3-8)}
@@ -44,19 +44,19 @@ Categories:
 infestée d’araignées venimeuses qui nichent dans son
 exosquelette, dans un rayon de 1,50 mètre. Toutes les
 créatures situées dans la zone infestée reçoivent 1d6 points
-de dégâts à la fin de chaque [round](./round.md) passé dedans. Une
-créature recevant ces dégâts doit réussir un jet de [Vigueur](./Vigueur.md)
-[DD](./DD.md) 17 ou être nauséeuse pendant 1 [round](./round.md). De plus,
+de dégâts à la fin de chaque [[round]] passé dedans. Une
+créature recevant ces dégâts doit réussir un jet de [[Vigueur]]
+[[DD]] 17 ou être nauséeuse pendant 1 [[round]]. De plus,
 les créatures blessées par l’infestation sont également
 empoisonnées. Toute attaque à zone d’effet infligeant
 10 points de dégâts ou plus à une toile mortelle détruit
 l’infestation d’araignées, annulant son aura pendant 3
-[round](./round.md)s, après quoi, une nouvelle nuée d’araignées sort
-du corps mort-vivant pour renouveler l’infestation. Le [DD](./DD.md)
-du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
-{s:BDTexte|**Poison (Ext).** Infestation — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 17 ;
-*fréquence* 1/[round](./round.md) pendant 6 [round](./round.md)s ; *effets* 1d4 dégâts de
-[Force](./Force.md) ; *guérison* 2 réussites consécutives. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
+[[round]]s, après quoi, une nouvelle nuée d’araignées sort
+du corps mort-vivant pour renouveler l’infestation. Le [[DD]]
+du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
+{s:BDTexte|**Poison (Ext).** Infestation — blessure ; *JdS* [[Vigueur]] [[DD]] 17 ;
+*fréquence* 1/[[round]] pendant 6 [[round]]s ; *effets* 1d4 dégâts de
+[[Force]] ; *guérison* 2 réussites consécutives. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
 </div>
 </td><td><div>
 ''Cette enveloppe d’araignée géante animée semble remplie de milliers

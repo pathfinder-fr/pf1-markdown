@@ -14,23 +14,23 @@ Categories:
 {s:pucem|Aberration|Ciel|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 22*}
 - 600 PX
-- [Aberration](./type Aberration.md) de taille G, N
-- **Init **+0 ; **Sens **[perception aveugle](./perception aveugle.md) 36 m, [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +12
+- [[type aberration|Aberration]] de taille G, N
+- **Init **+0 ; **Sens **[[perception aveugle]] 36 m, [[vision dans le noir]] 18 m ; [[Perception]] +12
 (((Défense)))
 - **CA **17, contact 9, pris au dépourvu 17 (naturelle +8, taille -1)
-- **pv **66 (7d8+35) ; [régénération](./Régénération.md) 2 (acide)
+- **pv **66 (7d8+35) ; [[régénération]] 2 (acide)
 - **Réf **+2, **Vig **+7, **Vol **+9
-- **Capacités défensives** [créature informe](./Créature informe (capacité).md)
+- **Capacités défensives** [[créature informe (capacité)|créature informe]]
 (((Attaque)))
 - **VD **0 m, vol 9 m (bonne)
-- **Corps à corps** 2 coups, +9 (1d6+4 plus [étreinte](./Étreinte.md))
+- **Corps à corps** 2 coups, +9 (1d6+4 plus [[étreinte]])
 - **Espace **3 m ; **Allonge** 3 m
-- ** Attaques spéciales** [constriction](./constriction.md) (1d6+4), [enveloppement](./Enveloppement (capacité).md) (DD 17, 1d6 acide et paralysie)
+- ** Attaques spéciales** [[constriction]] (1d6+4), [[enveloppement (capacité)|enveloppement]] (DD 17, 1d6 acide et paralysie)
 (((Statistiques)))
 - **For** 19, **Dex **11, **Con **20, **Int **12, **Sag** 14, **Cha **11
 - **BBA **+5 ; **BMO **+10 (+14 lutte) ; **DMD **20 (croc-en-jambe impossible)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (coup), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Volonté de fer](./Volonté de fer.md) 
-- **Compétences **[Discrétion](./Discrétion.md) +6, [Dressage](./Dressage.md) +7, [Évasion](./Évasion.md) +10, [Perception](./Perception.md) +12, [Vol](./Vol.md) +12
+- **Dons **[[Arme de prédilection]] (coup), [[Attaque en puissance]], [[Attaques réflexes]], [[Volonté de fer]] 
+- **Compétences **[[Discrétion]] +6, [[Dressage]] +7, [[Évasion]] +10, [[Perception]] +12, [[Vol]] +12
 - **Langues **bréthédien ; télépathie 30 m
 - **Particularités** adaptation, fusionnement
 (((Écologie)))

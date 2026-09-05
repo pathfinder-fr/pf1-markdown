@@ -9,14 +9,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [Invocation](./Invocation.md) ([création](./branche création.md)) ; **Niveau** [druide](./Druide.md) 3, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 3, [magus](./Magus.md) 3, [sorcière](./Sorcière.md) 3  
+**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[druide]] 3, [[ensorceleur]]/[[magicien]] 3, [[magus]] 3, [[sorcière]] 3  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
 
-**Restrictions de cible** *[explosion](./Explosion.md)* (émanation)
+**Restrictions de cible** *[[explosion]]* (émanation)
 
-Ce mot effet déclenche de lourdes chutes de neige dans la zone d’effet. Il fournit le même [camouflage](./camouflage.md) que la *[nappe de brouillard](./Nappe de brouillard (mot de pouvoir).md)*, mais le vent ne le dissipe pas. De plus, le terrain devient difficile pendant toute la durée de l’effet et il est très glissant pour tout ce qui se rapporte aux tests d’[Acrobaties](./Acrobaties.md) et d’[Escalade](./Escalade.md).
+Ce mot effet déclenche de lourdes chutes de neige dans la zone d’effet. Il fournit le même [[camouflage]] que la *[[nappe de brouillard (mot de pouvoir)|nappe de brouillard]]*, mais le vent ne le dissipe pas. De plus, le terrain devient difficile pendant toute la durée de l’effet et il est très glissant pour tout ce qui se rapporte aux tests d’[[Acrobaties]] et d’[[Escalade]].
 
-**Augmentation.** Chaque créature dans la zone subit 2d6 points de dégâts de froid à chaque [round](./round.md) à la fin de son tour. Augmenter ce mot effet améliore son niveau de 1.
+**Augmentation.** Chaque créature dans la zone subit 2d6 points de dégâts de froid à chaque [[round]] à la fin de son tour. Augmenter ce mot effet améliore son niveau de 1.

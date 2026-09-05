@@ -8,6 +8,6 @@ Categories:
 - Taldor
 ---
 
-Fleuve servant de frontière au [Taldor](./Taldor.md) et au [Qadira](./Qadira.md).
+Fleuve servant de frontière au [[Taldor]] et au [[Qadira]].
 
-Il a été traversé à de nombreuses reprises par les armées qadiranes de l'Empire du [Kélesh](./Kélesh.md) lors de la grande guerre qui vit s'affronter les deux nations.
+Il a été traversé à de nombreuses reprises par les armées qadiranes de l'Empire du [[Kélesh]] lors de la grande guerre qui vit s'affronter les deux nations.

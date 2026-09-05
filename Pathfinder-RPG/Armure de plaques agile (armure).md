@@ -10,6 +10,6 @@ Categories:
 {s:AE}**Prix** 850 po ; **Poids** 27,5 kg
 **Bonus d'armure** +8 ; **Bonus de Dex maximal** 0 ; **Malus d'armure** -7
 **Risque d'échec des sorts profanes** 40% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
-<span class="Catégorie">**Catégorie** [Armures lourdes](./Tableau récapitulatif des armures.md#TABLOURDES)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABLOURDES|Armures lourdes]]</span>
 ---
-Cette [armure de plaques](./armure de plaques (armure).md) est fabriquée dans un style spécialement conçu pour donner plus d’aisance lors de certaines activités physiques. Le [malus d’armure](./malus darmure.md) aux tests d’[Escalade](./Escalade.md) et aux tests de [saut](./Acrobaties.md#SAUTER) n’est que de -4 (les versions [de maître](./armure de maître.md) et en [mithral](./Matériaux spéciaux.md#MITHRAL) de cette armure réduisent ce malus et le malus normal). En outre, contrairement à la plupart des armures lourdes, le porteur peut quand même [courir](./courir.md) à quatre fois sa vitesse au lieu de trois fois sa [vitesse](./VD.md).
+Cette [[armure de plaques (armure)|armure de plaques]] est fabriquée dans un style spécialement conçu pour donner plus d’aisance lors de certaines activités physiques. Le [[malus darmure|malus d’armure]] aux tests d’[[Escalade]] et aux tests de [[Acrobaties#SAUTER|saut]] n’est que de -4 (les versions [[armure de maître|de maître]] et en [[Matériaux spéciaux#MITHRAL|mithral]] de cette armure réduisent ce malus et le malus normal). En outre, contrairement à la plupart des armures lourdes, le porteur peut quand même [[courir]] à quatre fois sa vitesse au lieu de trois fois sa [[VD|vitesse]].

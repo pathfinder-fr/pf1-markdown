@@ -13,23 +13,23 @@ Categories:
 {s:pucem|Plante|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.271}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Plante](./type Plante.md) de taille G, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Plante|Plante]] de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 9, pris au dépourvu 19 (naturelle +10, taille -1)}
 {s:BDTexte|**pv** 67 (9d8+27)}
 {s:BDTexte|**Réf** +5, **Vig** +9, **Vol** +5}
-{s:BDTexte|**Capacités défensives** [traits des plantes](./Traits des plantes.md) ; **Immunités** électricité ; **Résistances** feu 10 }
+{s:BDTexte|**Capacités défensives** [[traits des plantes]] ; **Immunités** électricité ; **Résistances** feu 10 }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), nage 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** 2 coups +11 (2d6+5 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** 2 coups +11 (2d6+5 et [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (2d6+7)}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (2d6+7)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 10, **Con** 17, **Int** 7, **Sag** 10, **Cha** 9}
 {s:BDTexte|**BBA** +6, **BMO** +12 (+16 pour la lutte), **DMD** 22}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (coup), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Réflexes surhumains](./Réflexes surhumains.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +8 (+16 dans les forêts/marais), [Natation](./Natation.md) +13, [Perception](./Perception.md) +11 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 (+12 dans les forêts/marais), [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (coup), [[Attaque en puissance]], [[Enchaînement]], [[Réflexes surhumains]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +8 (+16 dans les forêts/marais), [[Natation]] +13, [[Perception]] +11 ; **Modificateurs raciaux** [[Discrétion]] +4 (+12 dans les forêts/marais), [[Perception]] +4}
 {s:BDTexte|**Langues** commun, sylvestre (ne peut pas parler)}
 {s:BDTexte|**Particularités** renforcement par l'électricité}
 {s:BDSousTitre|Écologie}
@@ -37,7 +37,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Renforcement par l'électricité (Ext)** Les tertres errants ne sont jamais blessés par les dégâts électriques. De plus, chaque attaque électrique utilisée contre eux augmente leur [Constitution](./Constitution.md) de 1d4 points de manière temporaire. ce bonus temporaire disparaît au rythme de 1 point par heure.}
+{s:BDTexte|**Renforcement par l'électricité (Ext)** Les tertres errants ne sont jamais blessés par les dégâts électriques. De plus, chaque attaque électrique utilisée contre eux augmente leur [[Constitution]] de 1d4 points de manière temporaire. ce bonus temporaire disparaît au rythme de 1 point par heure.}
 </div>
 </td><td><div>''Cet amas de plantes et de mucus gluant qui se dresse sur deux sortes de
 troncs d’arbre émet une odeur d’humus et de putréfaction.''

@@ -9,12 +9,12 @@ Categories:
 
 *Le personnage sait se servir des pavois.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Condition.** [Maniement des boucliers](./Maniement des boucliers.md).
+**Condition.** [[Maniement des boucliers]].
 
-**Avantage.** Lorsque le personnage utilise un pavois, le malus d’armure du bouclier s’applique alors uniquement aux [compétences](./Compétences.md) basées sur la [Force](./Force.md) et la [Dextérité](./Dextérité.md).
+**Avantage.** Lorsque le personnage utilise un pavois, le malus d’armure du bouclier s’applique alors uniquement aux [[compétences]] basées sur la [[Force]] et la [[Dextérité]].
 
-**Normal.** Le malus d’armure aux tests qu’impose un bouclier au port duquel on n’est pas formé s’applique aux [jets d’attaque](./jet dattaque.md) et à tous les [tests de caractéristique](./../Golarion/Test.md) ou [de compétence](./test de compétence.md) qui demandent de se déplacer, y compris aux tests d’[Équitation](./Équitation.md).
+**Normal.** Le malus d’armure aux tests qu’impose un bouclier au port duquel on n’est pas formé s’applique aux [[jet dattaque|jets d’attaque]] et à tous les [[test|tests de caractéristique]] ou [[test de compétence|de compétence]] qui demandent de se déplacer, y compris aux tests d’[[Équitation]].
 
-**Spécial.** Les [guerriers](./Guerrier.md) gagnent automatiquement Maniement du pavois en tant que don supplémentaire. Ils n’ont pas besoin de le choisir.
+**Spécial.** Les [[guerrier|guerriers]] gagnent automatiquement Maniement du pavois en tant que don supplémentaire. Ils n’ont pas besoin de le choisir.

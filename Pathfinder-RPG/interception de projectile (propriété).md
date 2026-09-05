@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Interception de projectile
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Interception de projectile](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Interception de projectile)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Interception de projectile]]

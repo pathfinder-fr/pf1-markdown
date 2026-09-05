@@ -14,7 +14,7 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 33*}
 - **1 600 PX**
-- [Créature artificielle](./type Créature artificielle.md) de taille G, N
+- [[type créature artificielle|Créature artificielle]] de taille G, N
 - **Init **+0 ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +0
 (((Défense)))
 - **CA** 16, contact 9, pris au dépourvu 16 (naturelle +7, taille -1)
@@ -59,5 +59,5 @@ Une chose de peaux recousues créé avec des composants prélevés sur des créa
 Le corps d’une chose de peaux recousues est fabriqué à partir de morceaux de cuir et de tissu d’une valeur minimale de 500 po.
 
 **NLS** 8 ; **Prix** 6 500 po
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), créateur NLS 10 au moins ; **Compétence** [Artisanat](./Artisanat.md) (travail du cuir) ; **Coût** 3 500 po.
+**Conditions** [[Création de créatures artificielles]], créateur NLS 10 au moins ; **Compétence** [[Artisanat]] (travail du cuir) ; **Coût** 3 500 po.
 </div></td></tr></table>

@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *La précision dont fait preuve le personnage lorsqu’il tire à bout portant est sans pareil.*
 
-**Condition.** [Tir à bout portant](./Tir à bout portant.md)
+**Condition.** [[Tir à bout portant]]
 
-**Avantage.** Le bonus aux jets d’attaque et de dégâts conféré par [Tir à bout portant](./Tir à bout portant.md) s’élève désormais à +2. Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour gagner un bonus supplémentaire sur ces jets égal à son [grade](./Grade.md).
+**Avantage.** Le bonus aux jets d’attaque et de dégâts conféré par [[Tir à bout portant]] s’élève désormais à +2. Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour gagner un bonus supplémentaire sur ces jets égal à son [[grade]].

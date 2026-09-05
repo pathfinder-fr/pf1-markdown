@@ -11,18 +11,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Inq](./Inquisiteur.md) 5, [Prê](./Prêtre.md) 5, [Spi](./Spirite.md) 5  
+**École** [[Transmutation]] ; **Niveau** [[Inquisiteur|Inq]] 5, [[Prêtre|Prê]] 5, [[Spirite|Spi]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[COMPOSANTES|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** 1 arme de corps à corps  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) (voir description) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) (voir description) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
-Cette [transmutation](./Transmutation.md) rend une arme de corps à corps particulièrement destructrice pour les [morts-vivants](./type Mort-vivant.md). Tout [mort-vivant](./type Mort-vivant.md) doté d'un nombre de [DV](./../Ressources/DV.md) inférieur ou égal au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) du [prêtre](./Prêtre.md) doit réussir un jet de [Volonté](./Volonté.md) ou être détruit s’il est touché par cette arme au combat. La [résistance à la magie](./RM.md) ne s’applique pas contre l’effet de destruction.
+Cette [[transmutation]] rend une arme de corps à corps particulièrement destructrice pour les [[type mort-vivant|morts-vivants]]. Tout [[type mort-vivant|mort-vivant]] doté d'un nombre de [[DV]] inférieur ou égal au [[niveau de lanceur de sorts]] du [[prêtre]] doit réussir un jet de [[Volonté]] ou être détruit s’il est touché par cette arme au combat. La [[RM|résistance à la magie]] ne s’applique pas contre l’effet de destruction.

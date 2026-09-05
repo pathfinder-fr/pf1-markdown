@@ -7,9 +7,9 @@ LastModified: 2019-09-01 18:46
 *Vous êtes une ombre. Vous vous déplacez rapidement, frappez soudainement et vous savez toujours comment vous en sortir. Vous êtes un professionnel aguerri et vous accomplissez toujours vos contrats, que ce soit une mission de repérage derrière les lignes ennemies, la traque d’un criminel, le vol et le recel d’objets ou l’assassinat d’un personnage important. En tant qu’agent, vous maîtrisez un grand éventail de disciplines et de spécialités et vous préférez utiliser votre rapidité, votre mobilité et votre sagacité plutôt que des armes lourdes. Vous excellez dans l’art de la surprise, que ce soit pour abattre une cible à distance à partir d’un abri ou pour frapper un ennemi qui vous tourne le dos. Vous pouvez défendre une juste cause mais cela ne vous pose aucun problème d’avoir recours à des techniques déloyales. Atteindre votre objectif est tout ce qui importe.*
 
 
-<div class="fright">***Voir aussi les [exploits d'agent](./exploits dagent.md).***  
+<div class="fright">***Voir aussi les [[exploits dagent|exploits d'agent]].***  
 
-***Voir aussi les [spécialisations d'agent](./spécialisations dagent.md).***'  
+***Voir aussi les [[spécialisations dagent|spécialisations d'agent]].***'  
 
 </ul></div>
   
@@ -31,140 +31,140 @@ LastModified: 2019-09-01 18:46
 | +2
 | +0
 | +2
-| CLASS="gauche" | [Avantage de l'agent](./AGENT.md#AVANTAGEDELAGENT) +1, [Spécialisation](./AGENT.md#SPECIALISATION), [Feinte offensive](./AGENT.md#FEINTEOFFENSIVE) +1d4
+| CLASS="gauche" | [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +1, [[Agent#SPECIALISATION|Spécialisation]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +1d4
 |- CLASS="alt"
 | 2
 | +1
 | +3
 | +0
 | +3
-| CLASS="gauche" | [Esquive instinctive](./AGENT.md#ESQUIVEINSTINCTIVE), [Exploit d'agent](./AGENT.md#EXPLOITDAGENT)
+| CLASS="gauche" | [[Agent#ESQUIVEINSTINCTIVE|Esquive instinctive]], [[Agent#EXPLOITDAGENT|Exploit d'agent]]
 |-
 | 3
 | +2
 | +3
 | +1
 | +3
-| CLASS="gauche" | [Avantage de l'agent](./AGENT.md#AVANTAGEDELAGENT) +2, [Déplacement rapide](./AGENT.md#DEPLACEMENTRAPIDE) (+3m), [Feinte offensive](./AGENT.md#FEINTEOFFENSIVE) +1d8, [Spécialisation martiale](./AGENT.md#SPECIALISATIONMARTIALE)
+| CLASS="gauche" | [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +2, [[Agent#DEPLACEMENTRAPIDE|Déplacement rapide]] (+3m), [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +1d8, [[Agent#SPECIALISATIONMARTIALE|Spécialisation martiale]]
 |- CLASS="alt"
 | 4
 | +3
 | +4
 | +1
 | +4
-| CLASS="gauche" | [Exploit d'agent](./AGENT.md#EXPLOITDAGENT), [Séquelle handicapante](./AGENT.md#SEQUELLEHANDICAPANTE)
+| CLASS="gauche" | [[Agent#EXPLOITDAGENT|Exploit d'agent]], [[Agent#SEQUELLEHANDICAPANTE|Séquelle handicapante]]
 |-
 | 5
 | +3
 | +4
 | +1
 | +4
-| CLASS="gauche" | [Exploit de spécialisation](./AGENT.md#EXPLOITDESPECIALISATION), [Feinte offensive](./AGENT.md#FEINTEOFFENSIVE) +3d8
+| CLASS="gauche" | [[Agent#EXPLOITDESPECIALISATION|Exploit de spécialisation]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +3d8
 |- CLASS="alt"
 | 6
 | +4
 | +5
 | +2
 | +5
-| CLASS="gauche" | [Exploit d'agent](./AGENT.md#EXPLOITDAGENT)
+| CLASS="gauche" | [[Agent#EXPLOITDAGENT|Exploit d'agent]]
 |-
 | 7
 | +5
 | +5
 | +2
 | +5
-| CLASS="gauche" | [Avantage de l'agent](./AGENT.md#AVANTAGEDELAGENT) +3, [Maîtrise de spécialisation](./AGENT.md#MAITRISEDESPECIALISATION), [Feinte offensive](./AGENT.md#FEINTEOFFENSIVE) +4d8, agilité surhumaine
+| CLASS="gauche" | [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +3, [[Agent#MAITRISEDESPECIALISATION|Maîtrise de spécialisation]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +4d8, agilité surhumaine
 |- CLASS="alt"
 | 8
 | +6
 | +6
 | +2
 | +6
-| CLASS="gauche" | [Exploit d'agent](./AGENT.md#EXPLOITDAGENT), [Triple attaque](./AGENT.md#TRIPLEATTAQUE)
+| CLASS="gauche" | [[Agent#EXPLOITDAGENT|Exploit d'agent]], [[Agent#TRIPLEATTAQUE|Triple attaque]]
 |-
 | 9
 | +6
 | +6
 | +3
 | +6
-| CLASS="gauche" | [Déplacement rapide](./AGENT.md#DEPLACEMENTRAPIDE) (+6m), [Feinte offensive](./AGENT.md#FEINTEOFFENSIVE) +5d8
+| CLASS="gauche" | [[Agent#DEPLACEMENTRAPIDE|Déplacement rapide]] (+6m), [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +5d8
 |- CLASS="alt"
 | 10
 | +7
 | +7
 | +3
 | +7
-| CLASS="gauche" | [Exploit d'agent](./AGENT.md#EXPLOITDAGENT)
+| CLASS="gauche" | [[Agent#EXPLOITDAGENT|Exploit d'agent]]
 |-
 | 11
 | +8
 | +7
 | +3
 | +7
-| CLASS="gauche" | [Avantage de l'agent](./AGENT.md#AVANTAGEDELAGENT) +4, [Pouvoir de spécialisation](./AGENT.md#POUVOIRDESPECIALISATION), [Feinte offensive](./AGENT.md#FEINTEOFFENSIVE) +6d8
+| CLASS="gauche" | [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +4, [[Agent#POUVOIRDESPECIALISATION|Pouvoir de spécialisation]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +6d8
 |- CLASS="alt"
 | 12
 | +9
 | +8
 | +4
 | +8
-| CLASS="gauche" | [Exploit d'agent](./AGENT.md#EXPLOITDAGENT)
+| CLASS="gauche" | [[Agent#EXPLOITDAGENT|Exploit d'agent]]
 |-
 | 13
 | +9
 | +8
 | +4
 | +8
-| CLASS="gauche" | [Quadruple attaque](./AGENT.md#QUADRUPLEATTAQUE), [Feinte offensive](./AGENT.md#FEINTEOFFENSIVE) +7d8
+| CLASS="gauche" | [[Agent#QUADRUPLEATTAQUE|Quadruple attaque]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +7d8
 |- CLASS="alt"
 | 14
 | +10
 | +9
 | +4
 | +9
-| CLASS="gauche" | [Exploit d'agent](./AGENT.md#EXPLOITDAGENT)
+| CLASS="gauche" | [[Agent#EXPLOITDAGENT|Exploit d'agent]]
 |-
 | 15
 | +11
 | +9
 | +5
 | +9
-| CLASS="gauche" | [Avantage de l'agent](./AGENT.md#AVANTAGEDELAGENT) +5, [Déplacement rapide](./AGENT.md#DEPLACEMENTRAPIDE) (+9m), [Feinte offensive](./AGENT.md#FEINTEOFFENSIVE) +8d8
+| CLASS="gauche" | [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +5, [[Agent#DEPLACEMENTRAPIDE|Déplacement rapide]] (+9m), [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +8d8
 |- CLASS="alt"
 | 16
 | +12
 | +10
 | +5
 | +10
-| CLASS="gauche" | [Exploit d'agent](./AGENT.md#EXPLOITDAGENT)
+| CLASS="gauche" | [[Agent#EXPLOITDAGENT|Exploit d'agent]]
 |-
 | 17
 | +12
 | +10
 | +5
 | +10
-| CLASS="gauche" | [Double handicap](./AGENT.md#DOUBLEHANDICAP) [Feinte offensive](./AGENT.md#FEINTEOFFENSIVE) +9d8
+| CLASS="gauche" | [[Agent#DOUBLEHANDICAP|Double handicap]] [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +9d8
 |- CLASS="alt"
 | 18
 | +13
 | +11
 | +6
 | +11
-| CLASS="gauche" | [Exploit d'agent](./AGENT.md#EXPLOITDAGENT)
+| CLASS="gauche" | [[Agent#EXPLOITDAGENT|Exploit d'agent]]
 |-
 | 19
 | +14
 | +11
 | +6
 | +11
-| CLASS="gauche" | [Avantage de l'agent](./AGENT.md#AVANTAGEDELAGENT) +6, [Feinte offensive](./AGENT.md#FEINTEOFFENSIVE) +10d8
+| CLASS="gauche" | [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +6, [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +10d8
 |- CLASS="alt"
 | 20
 | +15
 | +12
 | +6
 | +12
-| CLASS="gauche" | [Exploit d'agent](./AGENT.md#EXPLOITDAGENT), [Agent suprême](./AGENT.md#AGENTSUPREME)
+| CLASS="gauche" | [[Agent#EXPLOITDAGENT|Exploit d'agent]], [[Agent#AGENTSUPREME|Agent suprême]]
 |}
 </center>
 
@@ -196,16 +196,16 @@ Vos divers entraînements en tant qu’agent vous octroient un bonus d’intuiti
 
 {s:Reference|SPECIALISATION}
 #### Spécialisation - Niveau 1
-Votre [spécialisation](./spécialisations dagent.md) représente votre principal domaine de prédilection. Dès le niveau 1 de la classe d’agent, choisissez une [spécialisation](./spécialisations dagent.md).
+Votre [[spécialisations dagent|spécialisation]] représente votre principal domaine de prédilection. Dès le niveau 1 de la classe d’agent, choisissez une [[spécialisations dagent|spécialisation]].
 
-Une fois que vous avez fait votre choix, vous ne pouvez en changer. Votre [spécialisation](./spécialisations dagent.md) vous octroie le don de Talent pour les compétences qui lui sont associées et vous gagnez un rang gratuit de compétence dans chacune de ces compétences à chaque niveau d’agent (cela ne vous autorise pas à excéder le nombre maximum de rangs dans une même compétence).
+Une fois que vous avez fait votre choix, vous ne pouvez en changer. Votre [[spécialisations dagent|spécialisation]] vous octroie le don de Talent pour les compétences qui lui sont associées et vous gagnez un rang gratuit de compétence dans chacune de ces compétences à chaque niveau d’agent (cela ne vous autorise pas à excéder le nombre maximum de rangs dans une même compétence).
 
 {s:Reference|EXPLOITDESPECIALISATION}
-- **Exploit de spécialisation - Niveau 5 :** Vous gagnez l’[exploit](./exploits dagent.md) indiqué pour votre [spécialisation](./spécialisations dagent.md) en tant qu’[exploit d’agent](./exploits dagent.md) bonus même si vous n’avez pas les prérequis nécessaires.
+- **Exploit de spécialisation - Niveau 5 :** Vous gagnez l’[[exploits dagent|exploit]] indiqué pour votre [[spécialisations dagent|spécialisation]] en tant qu’[[exploits dagent|exploit d’agent]] bonus même si vous n’avez pas les prérequis nécessaires.
 {s:Reference|MAITRISEDESPECIALISATION}
 - **Maîtrise de spécialisation - Niveau 7 :** Vous êtes tellement à l’aise avec certaines compétences que vous pouvez les utiliser efficacement même dans les pires conditions. Quand vous tentez un test avec une compétence pour laquelle vous bénéficiez du don de Talent, vous pouvez faire 10 même si le stress et les distractions vous en empêcheraient normalement.
 {s:Reference|POUVOIRDESPECIALISATION}
-- **Pouvoir de spécialisation - Niveau 11 :** Vous gagnez un pouvoir spécial en fonction de la [spécialisation](./spécialisations dagent.md) que vous avez choisie au niveau 1.
+- **Pouvoir de spécialisation - Niveau 11 :** Vous gagnez un pouvoir spécial en fonction de la [[spécialisations dagent|spécialisation]] que vous avez choisie au niveau 1.
 
 {s:Reference|FEINTEOFFENSIVE}
 #### Feinte offensive (Ext) - Niveau 1
@@ -217,7 +217,7 @@ Si vous réussissez un jet de Réflexes contre un effet qui, normalement, ne ser
 
 {s:Reference|EXPLOITDAGENT}
 #### Exploit d'agent - Niveau 2
-En gagnant de l’expérience, vous apprenez des techniques spéciales appelées des [exploits d’agent](./exploits dagent.md). Vous obtenez le premier au niveau 2 et vous en apprenez un de plus, tous les 2 niveaux suivants. Si un [exploit d’agent](./exploits dagent.md) autorise un jet de sauvegarde pour résister à ses effets, le DD est égal à 10 + la moitié de votre niveau d’agent + votre modificateur de Dextérité. S’il nécessite qu’un ennemi tente un test de compétence, le DD est égal à 10 + 1,5 × votre niveau d’agent + votre modificateur de Dextérité. Vous ne pouvez apprendre le même exploit plus d’une fois à moins que le contraire ne soit indiqué.
+En gagnant de l’expérience, vous apprenez des techniques spéciales appelées des [[exploits dagent|exploits d’agent]]. Vous obtenez le premier au niveau 2 et vous en apprenez un de plus, tous les 2 niveaux suivants. Si un [[exploits dagent|exploit d’agent]] autorise un jet de sauvegarde pour résister à ses effets, le DD est égal à 10 + la moitié de votre niveau d’agent + votre modificateur de Dextérité. S’il nécessite qu’un ennemi tente un test de compétence, le DD est égal à 10 + 1,5 × votre niveau d’agent + votre modificateur de Dextérité. Vous ne pouvez apprendre le même exploit plus d’une fois à moins que le contraire ne soit indiqué.
 
 {s:Reference|DEPLACEMENTRAPIDE}
 #### Déplacement rapide (Ext) - Niveau 3
@@ -249,4 +249,4 @@ Quand vous touchez un ennemi avec une feinte offensive, il subit deux des effets
 
 {s:Reference|AGENTSUPREME}
 #### Agent suprême (Ext) - Niveau 20
-À chaque fois que vous tentez un test avec une des compétences associées à votre [spécialisation](./spécialisations dagent.md), vous pouvez lancer deux fois le dé et prendre le meilleur résultat. Une fois par jour, en tant qu’action de mouvement, vous pouvez échanger temporairement un de vos exploits contre un autre exploit du même niveau ou inférieur. Cet échange dure 24 heures. Si l’exploit que vous échangez est un prérequis pour d’autres pouvoirs, vous ne pouvez plus utiliser ces dernières pendant toute la durée de l’échange.
+À chaque fois que vous tentez un test avec une des compétences associées à votre [[spécialisations dagent|spécialisation]], vous pouvez lancer deux fois le dé et prendre le meilleur résultat. Une fois par jour, en tant qu’action de mouvement, vous pouvez échanger temporairement un de vos exploits contre un autre exploit du même niveau ou inférieur. Cet échange dure 24 heures. Si l’exploit que vous échangez est un prérequis pour d’autres pouvoirs, vous ne pouvez plus utiliser ces dernières pendant toute la durée de l’échange.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Glossaire Mythique#RANGMYTHIQUE
 ---
 
->>> [Glossaire Mythique#RANGMYTHIQUE](./Glossaire Mythique.md#RANGMYTHIQUE)
+>>> [[Glossaire Mythique#RANGMYTHIQUE]]

@@ -14,31 +14,31 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Aquatique|Froid}
 - *Source : Bestiaire 2, p.59*
 - **PX** 3 200
-- [Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille P, CN
-- **Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}) ; [Perception](./Perception.md) +13
+- [[type humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille P, CN
+- **Init** +2 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}) ; [[Perception]] +13
 (((Défense)))
 - **CA** 20, contact 13, pris au dépourvu 18 (Dex +2, naturelle +7, taille +1)
 - **pv** 85 (9d10+36)
 - **Réf** +10, **Vig** +7, **Vol** +7
-- **Capacités défensives** [férocité](./Férocité (capacité).md) ; **Immunités** froid, poison
+- **Capacités défensives** [[férocité (capacité)|férocité]] ; **Immunités** froid, poison
 (((Attaque)))
 - **VD** 6 m (4 {s:c}), nage 18 m (12 {s:c})
 - **Corps à corps** morsure, +13 (1d6+3 plus 1d6 froid) et 4 griffes, +14 (1d4+3)
 - **Attaques spéciales** bile noire
 (((Statistiques)))
 - **For** 16, **Dex** 15, **Con** 19, **Int** 11, **Sag** 12, **Cha** 8
-- **BBA** +9 ; **BMO** +11 (+19 contre [bousculade](./bousculade.md) et [croc-en-jambe](./croc-en-jambe.md)) ; **DMD** 23
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en puissance](./Attaque en puissance.md), [Expertise du combat](./Expertise du combat.md)<sup>S</sup>, [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md)
-- **Compétences** [Connaissances](./Connaissances.md) (religion) +4, [Discrétion](./Discrétion.md) +18, [Intimidation](./Intimidation.md) +6, [Natation](./Natation.md) +18, [Perception](./Perception.md) +13, [Survie](./Survie.md) +10
+- **BBA** +9 ; **BMO** +11 (+19 contre [[bousculade]] et [[croc-en-jambe]]) ; **DMD** 23
+- **Dons** [[Arme de prédilection]] (griffe), [[Attaque en puissance]], [[Expertise du combat]]<sup>S</sup>, [[Réflexes surhumains]], [[Science de la bousculade]], [[Science du croc-en-jambe]]
+- **Compétences** [[Connaissances]] (religion) +4, [[Discrétion]] +18, [[Intimidation]] +6, [[Natation]] +18, [[Perception]] +13, [[Survie]] +10
 - **Langues** aklo, commun des profondeurs
-- **Particularités** [amphibie](./Amphibie.md), écrasant, vigueur accrue dans le froid
+- **Particularités** [[amphibie]], écrasant, vigueur accrue dans le froid
 (((Écologie)))
 - **Environnement** milieu aquatique froid ou sous terre
 - **Organisation sociale** solitaire, couple, bande (3–5) ou tribu (6–14)
 - **Trésor** standard
 (((Pouvoirs spéciaux)))
-- **Bile noire (Sur).** Le corps d’un charda sécrète une bile noire et glaciale. Cette bile noire et surnaturellement froide est la source des dégâts supplémentaires de froid infligés par la morsure du charda. Par une action simple, le charda peut cracher toute sa réserve de bile via un [souffle](./Souffle (capacité).md) prenant la forme d’une [ligne](./ligne.md) de 18 mètres (12 {s:c}) ou d’un [cône](./cône.md) de 9 mètres (6 {s:c}). Toutes les créatures situées dans cette zone subissent 8d6 points de dégâts de froid (Réflexes DD 18, 1/2 dégâts). Un charda peut utiliser son souffle une fois tous les 1d4 rounds. Pendant que sa réserve de bile noire se reconstitue, la morsure du charda n’inflige pas de dégâts supplémentaires de froid. Le DD du jet de sauvegarde dépend de la Constitution.
-- **Écrasant (Ext).** Un charda bénéficie d’un bonus racial de +8 aux tentatives de [bousculade](./bousculade.md) et de [croc-en-jambe](./croc-en-jambe.md).
+- **Bile noire (Sur).** Le corps d’un charda sécrète une bile noire et glaciale. Cette bile noire et surnaturellement froide est la source des dégâts supplémentaires de froid infligés par la morsure du charda. Par une action simple, le charda peut cracher toute sa réserve de bile via un [[souffle (capacité)|souffle]] prenant la forme d’une [[ligne]] de 18 mètres (12 {s:c}) ou d’un [[cône]] de 9 mètres (6 {s:c}). Toutes les créatures situées dans cette zone subissent 8d6 points de dégâts de froid (Réflexes DD 18, 1/2 dégâts). Un charda peut utiliser son souffle une fois tous les 1d4 rounds. Pendant que sa réserve de bile noire se reconstitue, la morsure du charda n’inflige pas de dégâts supplémentaires de froid. Le DD du jet de sauvegarde dépend de la Constitution.
+- **Écrasant (Ext).** Un charda bénéficie d’un bonus racial de +8 aux tentatives de [[bousculade]] et de [[croc-en-jambe]].
 - **Vigueur accrue dans le froid (Ext).** Quand un charda se trouve dans un environnement froid, il devient plus violent et obtient un bonus racial de +1 aux jets d’attaque et aux jets de dégâts.
 
 </div>

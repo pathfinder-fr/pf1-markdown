@@ -13,23 +13,23 @@ Categories:
 {s:pucem|humanoïde monstrueux|souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4* p. 106}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille P, LN}
-{s:BDTexte|**Init** +0 (+4 avec esprit de ruche) ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [perception aveugle](./perception aveugle.md) à 9 m, esprit de ruche ; [Perception](./Perception.md) +7 (+11 avec esprit de ruche)}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille P, LN}
+{s:BDTexte|**Init** +0 (+4 avec esprit de ruche) ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), [[perception aveugle]] à 9 m, esprit de ruche ; [[Perception]] +7 (+11 avec esprit de ruche)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 12, contact 11, pris au dépourvu 12 (Taille +1, naturelle +1)}
 {s:BDTexte|**pv** 6 (1d10+1)}
 {s:BDTexte|**Réf** +2, **Vig** +1, **Vol** +2}
-{s:BDTexte|**[Résistance](./Résistance (capacité).md)** son 10}
+{s:BDTexte|**[[Résistance (capacité)|Résistance]]** son 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), creusement 3 m (2 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +3 (1d6+1)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 10, **Con** 13, **Int** 10, **Sag** 10, **Cha** 9}
 {s:BDTexte|**BBA** +1 ; **BMO** +1 ; **DMD** 11 (15 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Talent](./Talent.md) (Profession (mineur))}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (ingénierie) +4, [Escalade](./Escalade.md) +5, [Intimidation](./Intimidation.md) +8, [Perception](./Perception.md) +4 (+8 avec esprit de ruche), [Profession](./Profession.md) (mineur) +7}
+{s:BDTexte|**Dons** [[Talent]] (Profession (mineur))}
+{s:BDTexte|**Compétences** [[Connaissances]] (ingénierie) +4, [[Escalade]] +5, [[Intimidation]] +8, [[Perception]] +4 (+8 avec esprit de ruche), [[Profession]] (mineur) +7}
 {s:BDTexte|**Langues** commun ; télépathie à 18 m}
-{s:BDTexte|**Particularités** assistant compétent, [traits des formiens](./Traits des formiens (capacité).md), porteur exceptionnel}
+{s:BDTexte|**Particularités** assistant compétent, [[Traits des formiens (capacité)|traits des formiens]], porteur exceptionnel}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terrestre ou souterrain, chaud ou tempéré}
 {s:BDTexte|**Organisation sociale** solitaire, équipe d’ouvriers (6-12 plus 1 contremaître), groupe (3-15 plus 5-8 guerrières et 1 contremaître)}
@@ -49,10 +49,10 @@ racial de +5 en Force quand ils calculent les
 effets de leur encombrement.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [formiens](./Formiens.md).***</li></ul>''Cette petite créature ressemblant à un centaure porte une énorme poche
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Formiens]].***</li></ul>''Cette petite créature ressemblant à un centaure porte une énorme poche
 sur son dos caparaçonné.''
 
-Ces [formiens](./Formiens.md) de la caste la plus basse sont un peu plus grands
+Ces [[formiens]] de la caste la plus basse sont un peu plus grands
 qu’un gros chien et leurs petites mandibules sont plus adaptées à
 couper les feuilles et arracher les fruits des plantes grimpantes que
 pour tailler dans la chair. Néanmoins, beaucoup d’humanoïdes

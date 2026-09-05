@@ -4,7 +4,7 @@ Title: Aides de jeu pour le masque de la momie
 LastModified: 2016-06-11 20:11
 ---
 
-Vous trouverez la présentation de cette campagne sur [cette page](./Présentation AP14.md).
+Vous trouverez la présentation de cette campagne sur [[Présentation AP14|cette page]].
 
 <nav class="wiki-toc"></nav>
 

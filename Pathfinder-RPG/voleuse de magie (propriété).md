@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Voleuse de magie
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Voleuse de magie](./Descriptions individuelles des propriétés spéciales des armes.md#Voleuse de magie)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Voleuse de magie]]

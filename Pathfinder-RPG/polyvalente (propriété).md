@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Polyvalente
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Polyvalente](./Descriptions individuelles des propriétés spéciales des armes.md#Polyvalente)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Polyvalente]]

@@ -16,25 +16,25 @@ Categories:
 |- CLASS="titre"
 | Objet || Prix || Passage (1,5 km)
 |- CLASS="premier"
-| [↓](./Moyens de transport.md#Char) [Char (intermédiaire)](./Char (objet).md) || 75 po || 2 cp
+| [[Moyens de transport#Char|↓]] [[Char (objet)|Char (intermédiaire)]] || 75 po || 2 cp
 |-
-| [↓](./Moyens de transport.md#Char) [Char (léger)](./Char (objet).md) || 50 po || 2 cp
+| [[Moyens de transport#Char|↓]] [[Char (objet)|Char (léger)]] || 50 po || 2 cp
 |-
-| [↓](./Moyens de transport.md#Char) [Char (lourd)](./Char (objet).md) || 100 po || 3 cp
+| [[Moyens de transport#Char|↓]] [[Char (objet)|Char (lourd)]] || 100 po || 3 cp
 |-
-| [↓](./Moyens de transport.md#Chariot) [Chariot (intermédiaire)](./Chariot (objet).md) || 100 po || 2 cp
+| [[Moyens de transport#Chariot|↓]] [[Chariot (objet)|Chariot (intermédiaire)]] || 100 po || 2 cp
 |-
-| [↓](./Moyens de transport.md#Chariot) [Chariot (léger)](./Chariot (objet).md) || 50 po || 2 cp
+| [[Moyens de transport#Chariot|↓]] [[Chariot (objet)|Chariot (léger)]] || 50 po || 2 cp
 |-
-| [↓](./Moyens de transport.md#Chariot) [Chariot (lourd)](./Chariot (objet).md) || 200 po || 2 cp
+| [[Moyens de transport#Chariot|↓]] [[Chariot (objet)|Chariot (lourd)]] || 200 po || 2 cp
 |-
-| [↓](./Moyens de transport.md#Charrette) [Charrette](./Charrette (objet).md) || 15 po || 1 cp
+| [[Moyens de transport#Charrette|↓]] [[Charrette (objet)|Charrette]] || 15 po || 1 cp
 |-
-| [↓](./Moyens de transport.md#Diligence) [Diligence](./Diligence (objet).md) || 100 po || 3 cp
+| [[Moyens de transport#Diligence|↓]] [[Diligence (objet)|Diligence]] || 100 po || 3 cp
 |-
-| [↓](./Moyens de transport.md#Traîneau) [Traîneau](./Traîneau (objet).md) || 100 po || 2 cp
+| [[Moyens de transport#Traîneau|↓]] [[Traîneau (objet)|Traîneau]] || 100 po || 2 cp
 |-
-| [↓](./Moyens de transport.md#Traîneau à chiens) [Traîneau à chiens](./Traîneau à chiens (objet).md) || 20 po || 3 cp
+| [[Moyens de transport#Traîneau à chiens|↓]] [[Traîneau à chiens (objet)|Traîneau à chiens]] || 20 po || 3 cp
 |}
 </td><td width="50%" style="vertical-align:top; border-left:solid 1px #002564; padding-left:10px">
 {| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
@@ -42,23 +42,23 @@ Categories:
 |- CLASS="titre"
 | Objet || Prix || Passage (1,5 km)
 |- CLASS="premier"
-| [↓](./Moyens de transport.md#Bateau à voiles) [Bateau à voiles](./Bateau à voiles (objet).md) || 10.000 po || 2 pa
+| [[Moyens de transport#Bateau à voiles|↓]] [[Bateau à voiles (objet)|Bateau à voiles]] || 10.000 po || 2 pa
 |-
-| [↓](./Moyens de transport.md#Bateau de guerre) [Bateau de guerre](./Bateau de guerre (objet).md) || 25.000 po || 2 pa
+| [[Moyens de transport#Bateau de guerre|↓]] [[Bateau de guerre (objet)|Bateau de guerre]] || 25.000 po || 2 pa
 |-
-| [↓](./Moyens de transport.md#Canot) [Canot](./Canot (objet).md) || 500 po || 2 cp
+| [[Moyens de transport#Canot|↓]] [[Canot (objet)|Canot]] || 500 po || 2 cp
 |-
-| [↓](./Moyens de transport.md#Chaloupe) [Chaloupe](./Chaloupe (objet).md) || 50 po || 2 cp
+| [[Moyens de transport#Chaloupe|↓]] [[Chaloupe (objet)|Chaloupe]] || 50 po || 2 cp
 |-
-| [↓](./Moyens de transport.md#Drakkar) [Drakkar](./Drakkar (objet).md) || 10.000 po || 5 cp
+| [[Moyens de transport#Drakkar|↓]] [[Drakkar (objet)|Drakkar]] || 10.000 po || 5 cp
 |-
-| [↓](./Moyens de transport.md#Galère) [Galère](./Galère (objet).md) || 30.000 po || 1 pa
+| [[Moyens de transport#Galère|↓]] [[Galère (objet)|Galère]] || 30.000 po || 1 pa
 |-
-| [↓](./Moyens de transport.md#Jonque) [Jonque](./Jonque (objet).md) || 15.000 po || 1 pa
+| [[Moyens de transport#Jonque|↓]] [[Jonque (objet)|Jonque]] || 15.000 po || 1 pa
 |-
-| [↓](./Moyens de transport.md#Quillard) [Quillard](./Quillard (objet).md) || 3.000 po || 1 pa
+| [[Moyens de transport#Quillard|↓]] [[Quillard (objet)|Quillard]] || 3.000 po || 1 pa
 |-
-| [↓](./Moyens de transport.md#Radeau) [Radeau](./Radeau (objet).md) || — || 1 cp
+| [[Moyens de transport#Radeau|↓]] [[Radeau (objet)|Radeau]] || — || 1 cp
 |}
 </td></tr></table>
 
@@ -103,7 +103,7 @@ Ce véhicule à deux roues est tiré par un cheval ou un autre animal de bât et
 #### Traîneau
 **Prix** 100 po ; **Passage (1,5 km)** 2 cp
 ---
-Ce chariot est généralement pourvu de patins, ce qui en fait un moyen de transport idéal sur la glace et la neige. En général, il faut deux [chevaux](./Cheval (objet).md) (ou d’autres bêtes de somme) pour le tirer. Le traîneau est livré avec un harnais permettant de le tracter.
+Ce chariot est généralement pourvu de patins, ce qui en fait un moyen de transport idéal sur la glace et la neige. En général, il faut deux [[Cheval (objet)|chevaux]] (ou d’autres bêtes de somme) pour le tirer. Le traîneau est livré avec un harnais permettant de le tracter.
 
 
 {s:AE}{s:Reference|Traîneau à chiens}

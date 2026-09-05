@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Découvertes#BOMBEARETARDEMENT
 ---
 
->>> [Découvertes#BOMBEARETARDEMENT](./découvertes.md#BOMBEARETARDEMENT)
+>>> [[Découvertes#BOMBEARETARDEMENT]]

@@ -10,10 +10,10 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) ; **Niveau** [Bard](./Barde.md) 3, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Hyp](./Hypnotiseur.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, F](./composantes.md) (un objet tenu ne pesant pas plus de 2.5 kg/niveau)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+{s:cs}{s:UI}**École**  [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Hypnotiseur|Hyp]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, F]] (un objet tenu ne pesant pas plus de 2.5 kg/niveau)
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cibles** un objet ne pesant pas plus de 2.5 kg/niveau
 **Durée** instantanée
 **Jet de sauvegarde** Volonté, annule (objet) ; **Résistance à la magie** oui (objet)
@@ -34,5 +34,5 @@ L'objet ciblé et l'objet utilisé comme focalisateur pour ce sort échangent im
 |-
 | L'objet ciblé a une plus grande valeur en po que l'objet utilisé comme focalisateur || -2
 |-
-| L'objet ciblé est lié à son propriétaire, comme un [objet fétiche](./Magicien.md#PACTEMAGIQUE) || -2
+| L'objet ciblé est lié à son propriétaire, comme un [[Magicien#PACTEMAGIQUE|objet fétiche]] || -2
 |}

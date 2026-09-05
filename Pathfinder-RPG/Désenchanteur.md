@@ -13,37 +13,37 @@ Categories:
 {s:BDTitre|Désenchanteur|FP 3}
 {s:BDTexte|*Source : Bestiaire 3* p.78}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +3 ; **Sens** *[détection de la magie](./Détection de la magie.md)*, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +3 ; **Sens** *[[détection de la magie]]*, [[vision dans le noir]] 18 m (12 {s:c}), [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 12 (Dex +3, naturelle +3, taille -1)}
 {s:BDTexte|**pv** 30 (4d10+8)}
 {s:BDTexte|**Réf** +7, **Vig** +6, **Vol** +4}
-{s:BDTexte|**[RD](./Réduction de dégâts (capacité).md)** 5/magique}
-{s:BDTexte|**Faiblesse** [vulnérabilité](./Vulnérabilités (capacité).md) à la dissipation de la magie}
+{s:BDTexte|**[[Réduction de dégâts (capacité)|RD]]** 5/magique}
+{s:BDTexte|**Faiblesse** [[Vulnérabilités (capacité)|vulnérabilité]] à la dissipation de la magie}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
 {s:BDTexte|**Corps à corps** 2 sabots, +2 (1d6+2) et trompe, +7 contact (désenchantement)}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}); **Allonge** 1,50 m (1 {s:c}) (3 m (2 {s:c}) avec la trompe)}
 {s:BDTexte|**Attaque spéciale** rayon de puissance}
 {s:BDTexte|**Pouvoirs magiques** (NLS 4 ; concentration +3)}
-{s:BDSorts|Constant — *[détection de la magie](./Détection de la magie.md)*}
-{s:BDSorts|3/jour — *[arme magique](./Arme magique.md)*}
-{s:BDSorts|1/jour — *[porte dimensionnelle](./Porte dimensionnelle.md)*}
+{s:BDSorts|Constant — *[[détection de la magie]]*}
+{s:BDSorts|3/jour — *[[arme magique]]*}
+{s:BDSorts|1/jour — *[[porte dimensionnelle]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 17, **Con** 14, **Int** 5, **Sag** 12, **Cha** 8}
 {s:BDTexte|**BBA** +4 ; **BMO** +9 ; **DMD** 22 (26 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Évasion](./Évasion.md) +5, [Perception](./Perception.md) +9}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Évasion]] +5, [[Perception]] +9}
 {s:BDTexte|**Langue** aucune}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terres chaudes}
 {s:BDTexte|**Organisation** solitaire, couple ou famille (2 adultes et 1-2 agneaux avec l’archétype de jeune créature)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Désenchantement (Ext).** Le désenchanteur peut utiliser sa trompe pour effectuer une [attaque de contact](./Valeurs de combat.md#ATTAQUESDECONTACT) au corps à corps contre l’objet magique que porte, tient ou transporte une créature dans le but d’en absorber la magie. Le désenchanteur fait un test de lanceur de sorts (+4) opposé au [jet de Vigueur](./Valeurs de combat.md#JETDESAUVEGARDE) de la cible. S’il réussit son test, le désenchanteur absorbe la magie de l’objet qui devient alors non-magique. Afin de savoir quel objet magique de la cible est affecté, reportez-vous à la [table "Objets affectés par les attaques magiques"](./Présentation des sorts.md#TABLEOBJETSAFFECTESPARLESATTAQUEMAGIQUE) (même si le désenchanteur n’utilise jamais cette capacité sur un bandeau ou des accessoires de tête similaires, à moins d’avoir d’abord essayé de porter l’objet). Les désenchanteurs peuvent aussi viser des objets spécifiques visibles, auquel cas ils ciblent généralement les objets les plus en évidence. Les artefacts sont immunisés contre cette capacité. Le désenchantement ne fonctionne que contre les objets que le désenchanteur peut toucher, et même un tissu fin suffit à protéger un objet.}
-{s:BDTexte|**Rayon de puissance (Sur).** Une fois par jour, le désenchanteur peut libérer un rayonnement d’énergie magique brute formant un cône de 6 m (4 {s:c}) partant de sa trompe. Les créatures situées dans ce cône reçoivent 4d6 points de dégâts ([Réflexes](./Valeurs de combat.md#JETDESAUVEGARDE) DD 14, [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE)). Les créatures immunisées aux effets magiques autorisant un jet de sauvegarde (comme les golems) sont immunisées à cette capacité. Le DD du jet de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Vulnérabilité à la magie (Ext).** Un désenchanteur ciblé par un sort de *[dissipation de la magie](./Dissipation de la magie.md)* reçoit 1d6 points de dégâts par niveau de lanceur de sorts (maximum 10d6 ; [Vigueur](./Valeurs de combat.md#JETDESAUVEGARDE), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE)). *[Dissipation suprême](./Dissipation suprême.md)* fonctionne de manière similaire (maximum 20d6 dégâts ; [Vigueur](./Valeurs de combat.md#JETDESAUVEGARDE), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE)).}
+{s:BDTexte|**Désenchantement (Ext).** Le désenchanteur peut utiliser sa trompe pour effectuer une [[Valeurs de combat#ATTAQUESDECONTACT|attaque de contact]] au corps à corps contre l’objet magique que porte, tient ou transporte une créature dans le but d’en absorber la magie. Le désenchanteur fait un test de lanceur de sorts (+4) opposé au [[Valeurs de combat#JETDESAUVEGARDE|jet de Vigueur]] de la cible. S’il réussit son test, le désenchanteur absorbe la magie de l’objet qui devient alors non-magique. Afin de savoir quel objet magique de la cible est affecté, reportez-vous à la [[Présentation des sorts#TABLEOBJETSAFFECTESPARLESATTAQUEMAGIQUE|table "Objets affectés par les attaques magiques"]] (même si le désenchanteur n’utilise jamais cette capacité sur un bandeau ou des accessoires de tête similaires, à moins d’avoir d’abord essayé de porter l’objet). Les désenchanteurs peuvent aussi viser des objets spécifiques visibles, auquel cas ils ciblent généralement les objets les plus en évidence. Les artefacts sont immunisés contre cette capacité. Le désenchantement ne fonctionne que contre les objets que le désenchanteur peut toucher, et même un tissu fin suffit à protéger un objet.}
+{s:BDTexte|**Rayon de puissance (Sur).** Une fois par jour, le désenchanteur peut libérer un rayonnement d’énergie magique brute formant un cône de 6 m (4 {s:c}) partant de sa trompe. Les créatures situées dans ce cône reçoivent 4d6 points de dégâts ([[Valeurs de combat#JETDESAUVEGARDE|Réflexes]] DD 14, [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]]). Les créatures immunisées aux effets magiques autorisant un jet de sauvegarde (comme les golems) sont immunisées à cette capacité. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Vulnérabilité à la magie (Ext).** Un désenchanteur ciblé par un sort de *[[dissipation de la magie]]* reçoit 1d6 points de dégâts par niveau de lanceur de sorts (maximum 10d6 ; [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]]). *[[Dissipation suprême]]* fonctionne de manière similaire (maximum 20d6 dégâts ; [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]]).}
 </div>
 </td><td><div>
 *Cette créature à fourrure bleue est pourvue d’une courte trompe et d’un corps de chameau. L’air qui l’entoure semble scintiller d’énergie magique.*

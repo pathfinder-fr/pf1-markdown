@@ -10,7 +10,7 @@ LastModified: 2016-12-01 21:40
 {s:pucem|Aberration|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 29*}
 - 400 PX
-- [Aberration](./type Aberration.md) de taille P, NM
+- [[type aberration|Aberration]] de taille P, NM
 - **Init **+1 ; **Sens **vision dans le noir à 18 m, perception du péché ; Perception +4
 (((Défense)))
 - **CA **14, contact 12, pris au dépourvu 13 (Dex +1, naturelle +2, taille +1)
@@ -23,8 +23,8 @@ LastModified: 2016-12-01 21:40
 (((Statistiques)))
 - **For **12, **Dex **13, **Con **15, **Int **6, **Sag **11, **Cha **12
 - **BBA **+1 ; **BMO **+1 ; **DMD **12
-- **Dons **[Réflexes surhumains](./Réflexes surhumains.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +5, [Discrétion](./Discrétion.md) +9, [Évasion](./Évasion.md) +5, [Perception](./Perception.md) +4
+- **Dons **[[Réflexes surhumains]]
+- **Compétences** [[Acrobaties]] +5, [[Discrétion]] +9, [[Évasion]] +5, [[Perception]] +4
 - **Langues **aklo
 (((Écologie)))
 - **Environnement **ruines

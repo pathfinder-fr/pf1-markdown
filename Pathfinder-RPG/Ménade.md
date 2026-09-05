@@ -12,25 +12,25 @@ Categories:
 {s:pucem|Humanoïde Monstrueux|Forêt-jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 p.183*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Humanoïde Monstrueux](./type Humanoïde monstrueux.md) de taille M, CM}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Humanoïde Monstrueux|Humanoïde Monstrueux]] de taille M, CM}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] à 18 m ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 15, pris au dépourvu 15 (Dex +4, esquive +1, naturelle +5)}
 {s:BDTexte|**pv** 94 (9d10+45)}
 {s:BDTexte|**Réf** +10, **Vig** +8, **Vol** +9 ; +4 contre les effets mentaux}
-{s:BDTexte|**Capacités défensives** *[apaisement des émotions](./Apaisement des émotions.md)* ; **Résistances** feu 10 ; **RM** 19}
+{s:BDTexte|**Capacités défensives** *[[apaisement des émotions]]* ; **Résistances** feu 10 ; **RM** 19}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +13 (1d6+4 plus poison) et 2 griffes, +13 (1d4+4/19-20 plus poison)}
 {s:BDTexte|**Attaques spéciales** danse contagieuse, poison}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12 ; concentration +17)}
-{s:BDSorts|À volonté — *[ordre assassin](./Ordre assassin.md)* ([DD](./DD.md) 16), *[panacée universelle](./Panacée universelle.md)*, *[rage](./Rage.md)*}
-{s:BDSorts|3/jour — *[baiser du vampire](./Baiser du vampire.md)*, *[charme-monstre](./Charme-monstre.md)* (DD 19), *[folle hallucination](./Folle hallucination.md)* (DD 17), *[force de taureau](./Force de taureau.md)*}
+{s:BDSorts|À volonté — *[[ordre assassin]]* ([[DD]] 16), *[[panacée universelle]]*, *[[rage]]*}
+{s:BDSorts|3/jour — *[[baiser du vampire]]*, *[[charme-monstre]]* (DD 19), *[[folle hallucination]]* (DD 17), *[[force de taureau]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 18, **Con** 20, **Int** 13, **Sag** 16, **Cha** 21}
 {s:BDTexte|**BBA** +9, **BMO** +13, **DMD** 28}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Esquive](./Esquive.md), [Persuasion](./Persuasion.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (griffe)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +14, [Déguisement](./Déguisement.md) +11, [Diplomatie](./Diplomatie.md) +13, [Intimidation](./Intimidation.md) +19, [Perception](./Perception.md) +15, [Psychologie](./Psychologie.md) +9}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Esquive]], [[Persuasion]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (griffe)}
+{s:BDTexte|**Compétences** [[Bluff]] +14, [[Déguisement]] +11, [[Diplomatie]] +13, [[Intimidation]] +19, [[Perception]] +15, [[Psychologie]] +9}
 {s:BDTexte|**Langues** commun, sylvestre}
 {s:BDTexte|**Particularités** festin dément}
 {s:BDSousTitre|Écologie}
@@ -40,7 +40,7 @@ Categories:
 {s:BDSousTitre|POUVOIRS MAGIQUES}
 {s:BDTexte|**Danse contagieuse (Sur).** Les créatures situées à 18 mètres
 ou moins d’une ménade en train de danser doivent réussir
-un jet de [Volonté](./Volonté.md) [DD](./DD.md) 19 pour ne pas être victimes d’une
+un jet de [[Volonté]] [[DD]] 19 pour ne pas être victimes d’une
 confusion pendant une heure. Pour chaque tranche de
 quatre créatures affectées par ce pouvoir, la ménade gagne
 1d10 points de vie temporaires et sa valeur de Charisme
@@ -48,14 +48,14 @@ augmente de 1 ; ces avantages prennent fin si les créatures
 affectées ne subissent plus l’effet de la danse.}
 {s:BDTexte|**Festin dément (Sur).** Par une action complexe, la ménade peut créer un
 festin surnaturel. Les créatures qui mangent la nourriture de ce festin
-gagnent un bonus de +2 à leur valeur de [Force](./Force.md) et de [Constitution](./Constitution.md), 1d8
+gagnent un bonus de +2 à leur valeur de [[Force]] et de [[Constitution]], 1d8
 points de vie temporaires et un bonus de moral de +4 à leur jets de
 sauvegarde contre la terreur pendant 12 heures. Les créatures affectées
-subissent également un malus de -4 aux jets de [Volonté](./Volonté.md) (ce malus ne
+subissent également un malus de -4 aux jets de [[Volonté]] (ce malus ne
 s’appliquent pas aux jets de sauvegarde contre la terreur) et auront
 tendance à se laisser aller à la débauche, aux excès et à la violence.}
-{s:BDTexte|**Poison (Ext).** Morsure – blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 19 ; *fréquence* 1/round
-pendant 6 rounds ; *effet* 1d3 [Con](./Constitution.md) ; guérison 2 réussites consécutives}
+{s:BDTexte|**Poison (Ext).** Morsure – blessure ; *JdS* [[Vigueur]] [[DD]] 19 ; *fréquence* 1/round
+pendant 6 rounds ; *effet* 1d3 [[Constitution|Con]] ; guérison 2 réussites consécutives}
 </div>
 </td><td><div>''Le corps de cette femme à l’aspect sauvage est maculé de sang. Son
 sourire mauvais révèle des dents pointues et au fond de ses yeux se tapit

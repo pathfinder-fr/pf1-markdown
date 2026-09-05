@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#PROJECTILEEXPLOSIF
 ---
 
->>> [découvertes#PROJECTILEEXPLOSIF](./découvertes.md#PROJECTILEEXPLOSIF)
+>>> [[découvertes#PROJECTILEEXPLOSIF]]

@@ -12,21 +12,21 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [San](./Sanguin.md) 2  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sanguin|San]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Effet** un ou plusieurs [rayons](./rayon.md)  
+**Effet** un ou plusieurs [[rayon|rayons]]  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Le mage frappe ses ennemis de rayons brûlants. Il peut en tirer un, plus un tous les quatre [niveaux](./niveau.md) au-delà du [niveau](./niveau.md) 3 (pour un maximum de trois rayons au [niveau](./niveau.md) 11). Il faut effectuer une [attaque de contact à distance](./attaque de contact à distance.md) pour chaque [rayon](./rayon.md). Chacun inflige 4d6 points de dégâts de feu. On les tire simultanément sur une ou plusieurs cibles, mais tous doivent viser des sujets situés à 9 m ou moins les uns des autres.
+Le mage frappe ses ennemis de rayons brûlants. Il peut en tirer un, plus un tous les quatre [[niveau|niveaux]] au-delà du [[niveau]] 3 (pour un maximum de trois rayons au [[niveau]] 11). Il faut effectuer une [[attaque de contact à distance]] pour chaque [[rayon]]. Chacun inflige 4d6 points de dégâts de feu. On les tire simultanément sur une ou plusieurs cibles, mais tous doivent viser des sujets situés à 9 m ou moins les uns des autres.
 
 ### Mythique
 {s:CMy}

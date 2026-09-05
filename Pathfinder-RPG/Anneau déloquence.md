@@ -9,10 +9,10 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau d'éloquence|{s:mca}}
-**Aura** [Divination](./école divination.md) faible ; **NLS** 3 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 3 500 po ; **Poids** —
+**Aura** [[école divination|Divination]] faible ; **NLS** 3 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 3 500 po ; **Poids** —
 (((Description)))
-L’intérieur de cet anneau en argent de belle facture est gravé de symboles représentant l’alphabet de quatre langues. Le personnage gagne la capacité à parler et à comprendre les quatre langues dont l’alphabet est inscrit sur l’anneau. Normalement, ces langues sont le commun, l’elfique, le gnome et le nain. Il arrive, moins souvent, que ces anneaux soient harmonisés au commun des profondeurs, au géant, au gobelin et à l’orque, comme il existe sûrement des anneaux avec d’autres ensembles de langues. Le personnage conserve sa capacité à parler ces langues même s’il prend une forme normalement incapable de les parler (comme la [forme animale](./Forme animale.md) loup du druide).
-L’anneau permet également au personnage de trouver plus facilement les mots qu’il faut pour s’exprimer, lui accordant un bonus de compétence de +2 aux tests de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md), d’[Intimidation](./Intimidation.md) et de [Représentation](./Représentation.md) (déclamation). Si le personnage est assourdi et tente de lancer un sort à composante verbale, le risque d’échec du sort est réduit à 10%.
+L’intérieur de cet anneau en argent de belle facture est gravé de symboles représentant l’alphabet de quatre langues. Le personnage gagne la capacité à parler et à comprendre les quatre langues dont l’alphabet est inscrit sur l’anneau. Normalement, ces langues sont le commun, l’elfique, le gnome et le nain. Il arrive, moins souvent, que ces anneaux soient harmonisés au commun des profondeurs, au géant, au gobelin et à l’orque, comme il existe sûrement des anneaux avec d’autres ensembles de langues. Le personnage conserve sa capacité à parler ces langues même s’il prend une forme normalement incapable de les parler (comme la [[forme animale]] loup du druide).
+L’anneau permet également au personnage de trouver plus facilement les mots qu’il faut pour s’exprimer, lui accordant un bonus de compétence de +2 aux tests de [[Bluff]], de [[Diplomatie]], d’[[Intimidation]] et de [[Représentation]] (déclamation). Si le personnage est assourdi et tente de lancer un sort à composante verbale, le risque d’échec du sort est réduit à 10%.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[compréhension des langages](./Compréhension des langages.md)* ; **Coût** 1 750 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[compréhension des langages]]* ; **Coût** 1 750 po
 </div>

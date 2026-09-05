@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 100 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Ce fourreau en cuir orné est couvert de lignes et de colonnes d'inscriptions magiques et de formules profanes, ainsi que de déclencheurs et réactifs de sorts communs. Le fait de se référer à ces notations pratiques accorde un bonus de circonstances de +2 aux tests d'[Art de la magie](./Art de la magie.md) que fait le personnage pour apprendre un sort à partir d'un grimoire ou d'un parchemin, pour préparer un sort à partir d'un grimoire emprunté, pour identifier les propriétés d'un objet magique en utilisant la *[détection de la magie](./Détection de la magie.md)* ou pour déchiffrer un parchemin.
+Ce fourreau en cuir orné est couvert de lignes et de colonnes d'inscriptions magiques et de formules profanes, ainsi que de déclencheurs et réactifs de sorts communs. Le fait de se référer à ces notations pratiques accorde un bonus de circonstances de +2 aux tests d'[[Art de la magie]] que fait le personnage pour apprendre un sort à partir d'un grimoire ou d'un parchemin, pour préparer un sort à partir d'un grimoire emprunté, pour identifier les propriétés d'un objet magique en utilisant la *[[détection de la magie]]* ou pour déchiffrer un parchemin.

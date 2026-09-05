@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#FAUXAMI
 ---
 
->>> [Talents#FAUXAMI](./Talents.md#FAUXAMI)
+>>> [[Talents#FAUXAMI]]

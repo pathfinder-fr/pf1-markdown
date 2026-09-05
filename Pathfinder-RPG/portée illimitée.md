@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#PORTEE
 ---
 
->>> [Présentation des sorts#PORTEE](./Présentation des sorts.md#PORTEE)
+>>> [[Présentation des sorts#PORTEE]]

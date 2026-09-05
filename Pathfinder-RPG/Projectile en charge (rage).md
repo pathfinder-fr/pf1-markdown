@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#PROJECTILEENCHARGE
 ---
 
->>> [pouvoirs de rage#PROJECTILEENCHARGE](./Pouvoirs de rage.md#PROJECTILEENCHARGE)
+>>> [[pouvoirs de rage#PROJECTILEENCHARGE]]

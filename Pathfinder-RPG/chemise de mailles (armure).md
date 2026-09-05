@@ -10,6 +10,6 @@ Categories:
 {s:AE}**Prix** 100 po ; **Poids** 12,5 kg
 **Bonus d'armure** +4 ; **Bonus de Dex maximal** +4 ; **Malus d'armure** -2
 **Risque d'échec des sorts profanes** 20% ; **Vitesse** 9 m/6 m (6 c/4 c)
-<span class="Catégorie">**Catégorie** [Armures légères](./Tableau récapitulatif des armures.md#TABLEGERES)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABLEGERES|Armures légères]]</span>
 ---
 Couvrant le torse, cette chemise est composée de milliers d’anneaux de métal entrecroisés.

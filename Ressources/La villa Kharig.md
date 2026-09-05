@@ -27,13 +27,13 @@ Il a créé de nombreux serviteurs (homoncules, objets animés, golems) pour son
 ### L'Aile des Invités
 
 Carte simplifiée :
-[imageauto||http://img15.hostingpics.net/pics/458329DTransmut21a.png]
+<img src="http://img15.hostingpics.net/pics/458329DTransmut21a.png" class="imageauto" alt="">
 
 
 Carte détaillée :
 
 
-[^http://img15.hostingpics.net/pics/566759VK14final1.png|Cliquez ici]
+[Cliquez ici](http://img15.hostingpics.net/pics/566759VK14final1.png)
 
 
 
@@ -43,18 +43,18 @@ Autrefois, ces pièces servaient à vendre potions, poudres, matériel d'alchimi
 
 
 #### **2. L'Atrium. **
-L'entré est au sud, après un couloir de 4,5m , on débouche sur une pièce éclairée par une [Lampe animée](./Lampe thassilonienne animée (fanmade).md) dans un coin, les autres torches s'allument dès qu'elles perçoivent une présence (Discrétion DD 18 si un joueur veut ne pas l'allumer).  Au milieu de cette pièce, une immense colonne de terre et de rochers de 6x6m a semble-t-il perforé le plafond bien qu'aucun débris ne soit trouvable au sol. Les murs autour sont faits de grès propre, tout comme le sol dont les dalles sont étrangement bien entretenues. Sur la droite en entrant on peut remarquer un autel avec une statuette en or d'une femme serpent avec une pièce étrange au lieu du visage et six ailes. Un jet de Connaissance Religion (DD 25) indique qu'il s'agit de la déesse Lissala. Il y a des runes gravées sur l'autel autour de la statuette. Toute tentative de prendre celle-ci déclenche un piège de métamorphose funeste (Blaireau, Crapaud, Ecureuil volant, Lézard, Rat ou Tortue). Un jet de Vigueur DD 20 annule, Volonté DD 20 partiel (transformé, mais capacités ext. sur gardées).
+L'entré est au sud, après un couloir de 4,5m , on débouche sur une pièce éclairée par une [[Lampe thassilonienne animée (fanmade)|Lampe animée]] dans un coin, les autres torches s'allument dès qu'elles perçoivent une présence (Discrétion DD 18 si un joueur veut ne pas l'allumer).  Au milieu de cette pièce, une immense colonne de terre et de rochers de 6x6m a semble-t-il perforé le plafond bien qu'aucun débris ne soit trouvable au sol. Les murs autour sont faits de grès propre, tout comme le sol dont les dalles sont étrangement bien entretenues. Sur la droite en entrant on peut remarquer un autel avec une statuette en or d'une femme serpent avec une pièce étrange au lieu du visage et six ailes. Un jet de Connaissance Religion (DD 25) indique qu'il s'agit de la déesse Lissala. Il y a des runes gravées sur l'autel autour de la statuette. Toute tentative de prendre celle-ci déclenche un piège de métamorphose funeste (Blaireau, Crapaud, Ecureuil volant, Lézard, Rat ou Tortue). Un jet de Vigueur DD 20 annule, Volonté DD 20 partiel (transformé, mais capacités ext. sur gardées).
 Sur la gauche, il y a un râtelier en bois vermoulu et un peu plus haut un lit de jour en bois qui s'écroulera si quiconque tente de s'y installer.{br}
 Le piédestal à l'opposé ne comporte rien de spécial.
 Les portes en bois qui donnent accès aux chambres sont fragiles et peuvent se briser au moindre contacte trop brusque. Les rideaux au nord sont en lambeaux.
 
-Un [Balai animé](./Balai animé (fanmade).md) passe de temps à autres quand il n'est pas dans la cuisine (salle 6).
+Un [[Balai animé (fanmade)|Balai animé]] passe de temps à autres quand il n'est pas dans la cuisine (salle 6).
 A l'origine, il s'agissait de la pièce d'entré principale : au centre se trouvait l'impluvium (bassin recevant les eaux de pluies). Lors du cataclysme, la terre s'est engouffrée par cette ouverture. Les serviteurs de la villa ont agit selon leurs ordres : garder le sol propre. Ainsi, ils ont retiré toute la terre gênante. Celui qui était responsable de l'eau s'est fait par contre écrasé et n'a pas pu communiquer qu'il fallait retirer la terre du bassin, créant ainsi cette immense structure centrale.{br}
 A la vue des PJ, la lanterne qui est au coin sud s'anime et vient vers les PJ. Elle a une bouche magique et a été enchantée pour dire les discours de bienvenue, décrire les pièces et avertir de certains endroits à ne pas franchir en thassilonien.
 Elle ne pourra suivre qu'un seul PJ et demandera à ce qu'ils restent groupés.  Elle se défendra si on l'attaque ou préviendra des serviteurs si les PJ entrent dans des zones défendues aux invités.
 
-Si les PJ détériorent de manière involontaire du matériel, un [Colibri mécanique](./Colibri mécanique(fanmade).md) viendra et réparera ce qui est cassé en touchant du bec l'objet et le réparant de manière instantanée et restera dans la pièce au cas où il soit nécessaire d'intervenir à nouveau. Le [Balai animé](./Balai animé (fanmade).md) pourra également nettoyer les débris.
-Si les PJ détériorent de manière volontaire les alentours, des serviteurs de garde ([Garde animé](./Gorille métallique(fanmade).md) ) viendront repousser vers la sortie les invités : ils n'ont cependant pas la notion que la sortie est "bloquée"  et par conséquent considéreront leur volonté de rester comme une intrusion légitime à attaquer.{br}
+Si les PJ détériorent de manière involontaire du matériel, un [[Colibri mécanique(fanmade)|Colibri mécanique]] viendra et réparera ce qui est cassé en touchant du bec l'objet et le réparant de manière instantanée et restera dans la pièce au cas où il soit nécessaire d'intervenir à nouveau. Le [[Balai animé (fanmade)|Balai animé]] pourra également nettoyer les débris.
+Si les PJ détériorent de manière volontaire les alentours, des serviteurs de garde ([[Gorille métallique(fanmade)|Garde animé]] ) viendront repousser vers la sortie les invités : ils n'ont cependant pas la notion que la sortie est "bloquée"  et par conséquent considéreront leur volonté de rester comme une intrusion légitime à attaquer.{br}
 Si les PJ réussissent un jet de Perception 20, ils pourront remarquer qu'à la base de la colonne de terre, il y a une sorte de poisson métallique pris dans la terre immobile. {br}
 A l'origine, il s'agissait de l'homoncule qui nettoyait l'impluvium mais celui-ci a été écrasé par la terre et ne fonctionne plus. Il est assez aplati, mais peut être vendu comme objet d'art pour 100po.
 Les colibris, gorilles et poisson possèdent tous une pièce ronde métallique agissant comme une clef pour débloquer le corridor (en 12){br}
@@ -64,7 +64,7 @@ Les colibris, gorilles et poisson possèdent tous une pièce ronde métallique a
 Ces quatre pièces sont toutes identiques : il y a un grand lit au cadre sculpté de motifs floraux à la couverture de laine autrefois sans doute agréable, elle est desséchée et rugueuse.
 Il y a également une armoire en bois, une petite vasque en porcelaine avec un miroir, un tabouret et un brasier.
 
-A l'entré d'un PJ, le [Brasier animé](./Brasier animé(fanmade).md) se met à bouger : les quatre pieds déplacent la structure dans la chambre. Il demande "Qui êtes-vous ? Que faites-vous là ?" en thassilonien.
+A l'entré d'un PJ, le [[Brasier animé(fanmade)|Brasier animé]] se met à bouger : les quatre pieds déplacent la structure dans la chambre. Il demande "Qui êtes-vous ? Que faites-vous là ?" en thassilonien.
 Un teste de Diplomatie, Bluff ou Intimidation (DD 15, ou 20 si aucun PJ ne comprend le thassilonien) vous assurera la coopération du brasier ! Une réussite de plus de 5 le rendra même chaleureux et il pourra donner quelques informations. En cas d'échec, il se donne pour mission de repousser hors de la chambre l'invité quite à le combattre. {br}
 
 
@@ -90,7 +90,7 @@ En entrant dans cette salle, les PJ doivent faire un jet de Volonté (DD 16) ou 
 
 #### **6 Cuisine secondaire.**
 Cette salle regroupe des vases, quelques tables et des aliments séchés, des sacs contenant de la terre (autrefois fruits secs), des jarres vides, un plateau en métal finement ouvragé (50po).
-Tout est très propre grâce au [Balai animé](./Balai animé (fanmade).md). {br}
+Tout est très propre grâce au [[Balai animé (fanmade)|Balai animé]]. {br}
 
 
 #### **7a. Salle de détente**
@@ -156,7 +156,7 @@ Pour éviter les odeurs, tout ce qui touche le sol des latrines (dans le trou) s
 
 #### **12. Corridor**
 Ce passage permet l'accès aux ailes privées des serviteurs, du Maître et de la Dame.
-Il est gardé par un [golem de bois](./../Pathfinder-RPG/Golem de bois.md) qui dans un premier temps ordonne de partir aux intrus sauf si le maître des lieux leur permet de passer. Dans un second temps, il indique qu'ils ont 5 secondes pour quitter les lieux auquel cas il attaquera. Passé ce délai, il attaque. Si les PJ sortent du couloir, il cesse le combat, se régénère et reprend sa ronde. {br}
+Il est gardé par un [[Pathfinder-RPG.Golem de bois|golem de bois]] qui dans un premier temps ordonne de partir aux intrus sauf si le maître des lieux leur permet de passer. Dans un second temps, il indique qu'ils ont 5 secondes pour quitter les lieux auquel cas il attaquera. Passé ce délai, il attaque. Si les PJ sortent du couloir, il cesse le combat, se régénère et reprend sa ronde. {br}
 La porte des serviteurs est en bois épais (ouverte).{br}
 La porte du Maître est en métal doré (fermée non verrouillée). {br}
 La porte de la Dame est  en fer, fermée et verrouillée. (Force DD 28, Sabotage DD 20).
@@ -166,49 +166,49 @@ La Lampe animée ne suit plus les aventuriers à partir de là, les ayant préve
 
 
 **Les rencontres (résumé) :**{br}
-1x [Lampe animée](./Lampe thassilonienne animée (fanmade).md){br}
-1x [Balai animé](./Balai animé (fanmade).md){br}
-2x [Garde animé](./Gorille métallique(fanmade).md){br}
-3x [Colibri mécanique](./Colibri mécanique(fanmade).md){br}
-4x [Brasier animé](./Brasier animé(fanmade).md){br}
+1x [[Lampe thassilonienne animée (fanmade)|Lampe animée]]{br}
+1x [[Balai animé (fanmade)|Balai animé]]{br}
+2x [[Gorille métallique(fanmade)|Garde animé]]{br}
+3x [[Colibri mécanique(fanmade)|Colibri mécanique]]{br}
+4x [[Brasier animé(fanmade)|Brasier animé]]{br}
 
 
 
 
 ===L'Aile des Serviteurs==={br}
 <center>
-[imageauto||http://img11.hostingpics.net/pics/959771Plan2a1.png]
+<img src="http://img11.hostingpics.net/pics/959771Plan2a1.png" class="imageauto" alt="">
 </center>
 
 Carte détaillée :
-[^http://img11.hostingpics.net/pics/230417DunVK21i.png|Cliquez ici]
+[Cliquez ici](http://img11.hostingpics.net/pics/230417DunVK21i.png)
 
 #### **1. La Galerie**
-Après avoir passé les lourdes portes métalliques, les joueurs arrivent dans un couloir qui ne comporte aucune source lumineuse. De la terre et de a roche forment des murs ça et là dévoilant une colonne de grès joliment travaillée. Une de ces colonnes est d'ailleurs en travers du passage et demande un teste d'[Évasion](./../Pathfinder-RPG/Évasion.md) (DD 15) pour passer. Le sol est cependant bien entretenu.
+Après avoir passé les lourdes portes métalliques, les joueurs arrivent dans un couloir qui ne comporte aucune source lumineuse. De la terre et de a roche forment des murs ça et là dévoilant une colonne de grès joliment travaillée. Une de ces colonnes est d'ailleurs en travers du passage et demande un teste d'[[Pathfinder-RPG.Évasion|Évasion]] (DD 15) pour passer. Le sol est cependant bien entretenu.
 
 
 A l'origine la galerie donnait sur les jardins, mais lors du cataclysme, elle a été totalement dévastée. Les serviteurs mécaniques ont cependant tout fait pour poursuivre leur travail : nettoyer, dépoussiérer, réparer, laissant cette zone accessible.{br}
 La porte au fond s'ouvrira avec la clef trouvée sur un serviteur, utilisée pour venir dans cette pièce.
 
 #### **2.Vestibule**
-A l'arrivée des aventuriers, la salle s'illumine : les torches murales s'enflamment et les brasiers s'activent, faisant flamboyer leurs braises.  Les murs sont de grès, sans fioriture hors mis un bas relief dans le fond de la salle représentant un homme en robe de haute stature (Kharig), les fenêtres sont obstruées par de la terre, et quatre [Caryatides](./../Pathfinder-RPG/Caryatide.md) sont aux angles de la pièce.
+A l'arrivée des aventuriers, la salle s'illumine : les torches murales s'enflamment et les brasiers s'activent, faisant flamboyer leurs braises.  Les murs sont de grès, sans fioriture hors mis un bas relief dans le fond de la salle représentant un homme en robe de haute stature (Kharig), les fenêtres sont obstruées par de la terre, et quatre [[Pathfinder-RPG.Caryatide|Caryatides]] sont aux angles de la pièce.
 
 
 Les deux portes sur les côtés sont en bois et fermées.{br}
 Tout irait pour le mieux si l'un des brasiers n'avait quelques défauts et, au lieu de créer une chaleur agréable, ne cause une fumée pour le moins étouffante au bout de 1d3 round d'activation. La zone enfumée augmente à chaque round d'une case dans tous les sens. {br}
 Pour arrêter cela il est possible d'attaquer le brasero (Solidité 5, PV 30), soit de dissiper la magie.
-Malheureusement, toute tentative de toucher au brasier déclenchera l'hostilité des [Caryatides](./../Pathfinder-RPG/Caryatide.md) qui attaqueront les intrus.
+Malheureusement, toute tentative de toucher au brasier déclenchera l'hostilité des [[Pathfinder-RPG.Caryatide|Caryatides]] qui attaqueront les intrus.
 
 
 En ce qui concerne les portes, elles sont sensées s'ouvrir quand on s'approche et se fermer quand on s'éloigne. Cependant,  celle du sud a également un mécanisme défaillant : elle s'ouvre lorsqu'on s'en éloigne et se ferme quand on est proche ! La priorité, bien sûr, est à la créature la plus proche (donc porte fermée si on a un personnage près et un autre loin).{br}
-Pour aller dans la salle suivante, il faut soit utiliser la [Force](./Pathfinder-RPG-Caractéristiques-ashx.md#La_Force_For_1) (DD 20) pour briser le bois épais (ce qui déclenche l'hostilité des caryatides si elles n'ont pas été déclenchées), soit [saboter](./../Pathfinder-RPG/Sabotage.md) le mécanisme (DD 12).{br}
+Pour aller dans la salle suivante, il faut soit utiliser la [[Pathfinder-RPG.Caractéristiques.ashx#La_Force_For_1|Force]] (DD 20) pour briser le bois épais (ce qui déclenche l'hostilité des caryatides si elles n'ont pas été déclenchées), soit [[Pathfinder-RPG.Sabotage|saboter]] le mécanisme (DD 12).{br}
 Le bas-relief, comme la représentation de Kharig du tablinum, lui permet de voir et d'entendre ce qu'il se passe. {br}
 
 #### **3.Sas**
 Cette petite pièce étroite sent le renfermé et on peut voir des champignons pousser sur les murs. Elle comporte deux portes et un escalier.
 
 
-L'escalier est protégé magiquement, si celui qui veut l'emprunter ne dit pas le mot de passe, les marches s'inclinent et l'escalier devient toboggan. En réussissant un teste d'[Escalade](./../Pathfinder-RPG/Escalade.md) (DD 20) le personnage peut s'aider du pilier central de l'escalier et de la paroi pour grimper.{br}
+L'escalier est protégé magiquement, si celui qui veut l'emprunter ne dit pas le mot de passe, les marches s'inclinent et l'escalier devient toboggan. En réussissant un teste d'[[Pathfinder-RPG.Escalade|Escalade]] (DD 20) le personnage peut s'aider du pilier central de l'escalier et de la paroi pour grimper.{br}
 Le mot de passe est le nom de sa bien-aimée : Léora. {br}
 Son nom peut apparaître lors d'une discussion avec le brasero de l'aile des invités ou en indication de la lampe animée lorsqu'ils demandent des précisions sur la femme peinte sur la porte qui mène au corridor de l'Aile de la Dame.
 
@@ -218,16 +218,16 @@ Pour la prendre, il faut pouvoir être intangible ou demander l'assistance d'une
 
 #### **4.Ancienne réserve**
 La porte est fermée à clef. {br}
-Un teste de [Sabotage](./../Pathfinder-RPG/Sabotage.md) (DD 20), de [Force](./Pathfinder-RPG-Caractéristiques-ashx.md#La_Force_For_1) (DD 18) ou la récupération de la clef intangible de la salle précédente permet d'ouvrir la salle de la réserve.
+Un teste de [[Pathfinder-RPG.Sabotage|Sabotage]] (DD 20), de [[Pathfinder-RPG.Caractéristiques.ashx#La_Force_For_1|Force]] (DD 18) ou la récupération de la clef intangible de la salle précédente permet d'ouvrir la salle de la réserve.
 
 
 Lorsque la porte s'ouvre, on ne perçoit que l'obscurité de la salle. Il n'y a pas de bruit, juste un amas grouillant sur les différentes tables qui se déplace rapidement en direction des aventuriers.
 
 
-Il s'agit en réalité d'une [nuée de fourmis soldats](./../Pathfinder-RPG/Nuée de fourmis soldats.md). Une partie de la colonie a élue domicile dans la réserve, n'en sortant jamais puisque dune part la nourriture est ici abondante : la corne d'abondance offre l'opulence une fois par jour, et de jarres (une de vin une autre d'eau) sont toujours pleines ; et d'autres part, les champignons à l'extérieur de la salle ont tendance à les repousser.
+Il s'agit en réalité d'une [[Pathfinder-RPG.Nuée de fourmis soldats|nuée de fourmis soldats]]. Une partie de la colonie a élue domicile dans la réserve, n'en sortant jamais puisque dune part la nourriture est ici abondante : la corne d'abondance offre l'opulence une fois par jour, et de jarres (une de vin une autre d'eau) sont toujours pleines ; et d'autres part, les champignons à l'extérieur de la salle ont tendance à les repousser.
 
 
-Un jet d'[Intelligence](./Pathfinder-RPG-Caractéristiques-ashx.md#LIntelligence_Int_4)  (DD 15) permet de le savoir et en cas d'application du champignon sur un personnage, les fourmis accrochées s'en iront. {br}
+Un jet d'[[Pathfinder-RPG.Caractéristiques.ashx#LIntelligence_Int_4|Intelligence]]  (DD 15) permet de le savoir et en cas d'application du champignon sur un personnage, les fourmis accrochées s'en iront. {br}
 Si le combat se déroule dans le sas, seule une partie des fourmis attaqueront et les dégâts ainsi que les points de vie seront réduits de moitié. {br}
 
 #### **5.Cuisine principale**
@@ -242,7 +242,7 @@ La marmite souhaite que les aventurier les aide à se libérer du joug de Kharig
 Le rouleau à pâtisserie, lui, souhaite au contraire que toute intrusion soit punie, comme leur maître l'exige, afin de retrouver sa véritable forme, car s'il suit bien les instructions, leur maître leur a promis de leur rendre leur apparence.
 
 
-Un teste de [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) (DD 28 ) permet de l'adoucir un peu : il demandera alors que les aventuriers partent. Dans le cas contraire un combat éclatera dans un grand fracas de poêles, casseroles, couteaux, planche à découper, louches, cuillères et piques à rôtir.{br}
+Un teste de [[Pathfinder-RPG.Diplomatie|Diplomatie]] (DD 28 ) permet de l'adoucir un peu : il demandera alors que les aventuriers partent. Dans le cas contraire un combat éclatera dans un grand fracas de poêles, casseroles, couteaux, planche à découper, louches, cuillères et piques à rôtir.{br}
 
 
 Le combat dure 5 rounds et oppose les ustensiles rebelles aux ustensiles loyaux.  {br}
@@ -267,7 +267,7 @@ Evolution possible en fonction de la participation des joueurs : {br}
 #### **6.Salle de démonstration**
 *Cette salle comporte quatre piédestaux sur lesquels sont posés des bustes à tête d'animal. Le mur du fond est totalement détruit, des blocs de pierre et de la terre bloque une partie de la salle. Un des quatre bustes est d'ailleurs au le sol.*
 
-En [fouillant](./../Pathfinder-RPG/Perception.md) dans les débris (DD 20) on peut également trouver une épée qui parle par télépathie lorsqu'on la tient.
+En [[Pathfinder-RPG.Perception|fouillant]] dans les débris (DD 20) on peut également trouver une épée qui parle par télépathie lorsqu'on la tient.
 
 
 Les bustes discutent allègrement et feront des commentaires sur les aventuriers critiquant leur équipement, leurs cheveux, tout signe distinctif et même leur façon de combattre. {br}
@@ -286,7 +286,7 @@ Dans tous les cas, cette épée parlante est une option pour pimenter le reste d
 
 Les bustes ignorent l'identité réelle de l'épée, sauf le hibou. Mettre une bouche magique sur le hibou permet de savoir que l'épée a été créée par Kharig et qu'il n'a nullement enfermé une âme dedans. {br}
 
-Le fait de s'approcher de la réserve fait coulisser la porte dans le sol. Deux [gardiens tombaux](./Pathfinder-RPG-Gardien-tombal-ashx.md) de 12,5 cm de haut se mettent alors à crier *"Nous allons vous détruire !*" .  Ce qui peut sembler ridicule vu leur taille.{br}
+Le fait de s'approcher de la réserve fait coulisser la porte dans le sol. Deux [[Pathfinder-RPG.Gardien tombal.ashx|gardiens tombaux]] de 12,5 cm de haut se mettent alors à crier *"Nous allons vous détruire !*" .  Ce qui peut sembler ridicule vu leur taille.{br}
 Cependant, lorsqu'ils entrent dans la salle de démonstration, ils reprennent leur taille de 2m de haut. {br}
 
 #### **7.Atelier de réparation**
@@ -298,7 +298,7 @@ Le bac est enchanté de manière à ce que tout objet plongé dedans redevienne 
 
 
 L'autel dans le fond permet de réparer en trois minutes seulement tout objet posé dessus (y compris le buste du hibou par exemple).
-Il avait été fabriqué par des Nains et dérobé à ceux-ci. Le [prêtre de Torag](./Madinn Minegarde.md) qui avait été capturé avec sa création a été suspendu aux chaînes murales, contraint de la voir pervertie, utilisée et souillée par les esclaves de Kharig. {br}
+Il avait été fabriqué par des Nains et dérobé à ceux-ci. Le [[Madinn Minegarde|prêtre de Torag]] qui avait été capturé avec sa création a été suspendu aux chaînes murales, contraint de la voir pervertie, utilisée et souillée par les esclaves de Kharig. {br}
 Son fantôme erre encore et il apparaîtra à ceux qui entrent.
 
 
@@ -312,9 +312,9 @@ Le prêtre fantôme pourra proposer son aide pour enchanter les armes si on lui 
 L'autel récupère 10 PV par round grâce à son sort de réparation (une dissipation de la magie bloque pendant 1d4 round la réparation).
 
 
-A 30 PV, l'autel libère 5 [Élémentaire de terre](./../Pathfinder-RPG/Élémentaire de la Terre.md) de taille P. {br}
-A 15 PV, l'autel libère 3 [Élémentaire de terre](./../Pathfinder-RPG/Élémentaire de la Terre.md) de taille M{br}
-A 5 PV, l'autel libère 1 [Élémentaire de terre](./../Pathfinder-RPG/Élémentaire de la Terre.md) de taille G.{br}
+A 30 PV, l'autel libère 5 [[Pathfinder-RPG.Élémentaire de la Terre|Élémentaire de terre]] de taille P. {br}
+A 15 PV, l'autel libère 3 [[Pathfinder-RPG.Élémentaire de la Terre|Élémentaire de terre]] de taille M{br}
+A 5 PV, l'autel libère 1 [[Pathfinder-RPG.Élémentaire de la Terre|Élémentaire de terre]] de taille G.{br}
 
 #### **8.Réserve de ressources**
 Il y a un sort de réduction de taille sur toute la réserve qui réduit les créatures et leur équipement à 1/16ieme. {br}
@@ -326,7 +326,7 @@ Divers métaux sous forme de poussière et quelques gemmes (250po)  peuvent êtr
 Pour y accéder, les aventuriers peuvent passer par plusieurs pistes (cf image). Ils commenceront soit en 1, 2 ou 3 puis pourront évoluer jusqu'à l'objectif.{br}
 
 <center>
-[imageauto||http://img11.hostingpics.net/pics/436892Salle282.png]
+<img src="http://img11.hostingpics.net/pics/436892Salle282.png" class="imageauto" alt="">
 </center>
 
 <center>
@@ -377,7 +377,7 @@ Pour y accéder, les aventuriers peuvent passer par plusieurs pistes (cf image).
 Une fois arrivés en haut, il est possible d'ouvrir le coffret (de 10x20cm), de prendre la poudre et redescendre ou pousser le coffret pour qu'il fasse un chemin à emprunter.{br}
 
 #### **9. Couloir du 1er étage**
-Ce couloir est gardé par un [golem de glace](./../Pathfinder-RPG/golem de glace.md) qui est sur un socle au milieu.
+Ce couloir est gardé par un [[Pathfinder-RPG.golem de glace|golem de glace]] qui est sur un socle au milieu.
 
 C'est un immense amas de glace cristalline qui renferme une clef bien visible au niveau de sa poitrine. Il s'anime en voyant les aventuriers et les attaque sans poser de question.
 
@@ -421,7 +421,7 @@ Un teste d'Art de la Magie (DD 20) permet de savoir qu'il s'agit d'une homoncule
 Cette salle est divisée en deux partie : une par l'accès au couloir (11a) qui n'a pas de sort de miniaturisation et, séparé par une vitre, l'autre partie (11b) de la salle avec le sort de miniaturisation dont l'accès peut être soit un trou de souris de la première partie, soit le mur ébréché de la salle 10.
 
 
-Deux [homoncules](./../Pathfinder-RPG/Homoncule.md) sont présentes et attendent des ordres. A l'origine, elles s'occupaient des animaux derrière la vitre mais n'ont plus reçu d'ordre depuis un moment et patientent donc ici. Elles ne sont pas hostiles mais risquent de le devenir si les aventuriers vont dans la salle suivante.{br}
+Deux [[Pathfinder-RPG.Homoncule|homoncules]] sont présentes et attendent des ordres. A l'origine, elles s'occupaient des animaux derrière la vitre mais n'ont plus reçu d'ordre depuis un moment et patientent donc ici. Elles ne sont pas hostiles mais risquent de le devenir si les aventuriers vont dans la salle suivante.{br}
 
 La partie 11a est un sas qui permet de voir à travers la vitre ce qu'il se passe. Un trou de souris permet aux serviteurs miniaturisés de passer de l'autre  côté. {br}
 En touchant une rune sur le mur, la cible est miniaturisée quelques  secondes (le temps de passer par le trou). {br}
@@ -432,7 +432,7 @@ Cette partie de la salle servait à contenir les différents animaux miniaturis�
 Les cercles sont des sortes de prisons qui infligent 1d6 points de dégât à toute créature vivante qui souhaite en sortir. Les homoncules mécaniques n'étaient donc pas touchées et pouvaient aller et venir pour prendre des substances que l'on retrouve dans des potions encore utilisées de nos jours !
 
 
-Actuellement, les cercles sont vides... enfin... presque ! L'âme d'un [chat](./Chat fantôme géant(fanmade).md) particulièrement attaché à la vie (il parait qu'ils en ont neuf, visiblement, il en voulait une dixième),  revient sous la forme de fantôme et s'attaquera à toute créature qui osera troubler son repos !{br}
+Actuellement, les cercles sont vides... enfin... presque ! L'âme d'un [[Chat fantôme géant(fanmade)|chat]] particulièrement attaché à la vie (il parait qu'ils en ont neuf, visiblement, il en voulait une dixième),  revient sous la forme de fantôme et s'attaquera à toute créature qui osera troubler son repos !{br}
 
 
 #### **12.Atelier de déconstruction**
@@ -450,7 +450,7 @@ Il y a une chance sur 1d6 pour que  les composants du sorts soient restitués su
 
 
 Le marteau du maladroit. Un superbe marteau enchanté repose sur l'autel. La hampe est de corne, la tête de pierre et le tout gravé de runes. {br}
-Ce marteau était à l'origine utilisé pour détruire de lourds objets et bénéficie de l'amélioration magique "[Ancrage dimensionnel](./../Pathfinder-RPG/ancrage dimensionnel (propriété).md)".
+Ce marteau était à l'origine utilisé pour détruire de lourds objets et bénéficie de l'amélioration magique "[[Pathfinder-RPG.ancrage dimensionnel (propriété)|Ancrage dimensionnel]]".
 
 
 Malheureusement, à force de passer des siècles sur un autel de destruction, il a finit par être également porteur d'une grande "Maladresse" : le porteur perd en effet 1d6+4 point de dextérité et risque de tomber s'il se déplace plus qu'à la moitié de sa vitesse de base. {br}
@@ -468,7 +468,7 @@ Sur la table une paire de lunettes aux verres orangés dégage de la magie : il 
 
 Le plus intéressant toutefois, reste un livre ouvert sur le bureau, la couverture est dorée, finement travaillée, les pages sont encore intactes. Le livre est assurément magique. {br}
 Quiconque tente de le lire doit réussir un jet de Volonté DD 15 s'il ne souhaite pas "entrer dans l'histoire". {br}
-L'histoire en question peut être choisie [ici](./Histoires de héros.md) (initialement c'est d'Or et de Lave) .{br}
+L'histoire en question peut être choisie [[Ressources.Histoires de héros|ici]] (initialement c'est d'Or et de Lave) .{br}
 Si les personnages viennent à mourir dans l'histoire réapparaissent en dehors du livre à 1 point de vie non létal et ne peuvent plus rentrer à nouveau : le personnage du livre est mort.{br}
 
 
@@ -483,24 +483,24 @@ Dans le coffre il y a de petits vases avec gravé dessus des symboles d'animaux 
 
 <div class="BD">
 {s:BDTitre|Khariguette}
-- **Type** inhalation ou ingestion; **Dépendance** modérée, **[Vigueur](./Pathfinder-RPG-Valeurs-de-combat-ashx.md#JETDESAUVEGARDE)** [DD](./Pathfinder-RPG-Vocabulaire-courant-ashx.md#DEGREDEDIFFICULTE) 16
+- **Type** inhalation ou ingestion; **Dépendance** modérée, **[[Pathfinder-RPG.Valeurs de combat.ashx#JETDESAUVEGARDE|Vigueur]]** [[Pathfinder-RPG.Vocabulaire courant.ashx#DEGREDEDIFFICULTE|DD]] 16
 - **Prix** 1000 po
 - **Effet** 1 heure ; bonus alchimique de +4 à une caractéristique. 
-- **Dégâts** 1D2 points d’[affaiblissement temporaire](./../Pathfinder-RPG/affaiblissement temporaire (capacité).md) de [Constitution](./Pathfinder-RPG-Caractéristiques-ashx.md#CONSTITUTION) (pour les bonus de Force, Con ou Dex) ou [Sagesse](./Pathfinder-RPG-Caractéristiques-ashx.md#SAGESSE) (pour les bonus d'Int, Sag ou Cha)
+- **Dégâts** 1D2 points d’[[Pathfinder-RPG.affaiblissement temporaire (capacité)|affaiblissement temporaire]] de [[Pathfinder-RPG.Caractéristiques.ashx#CONSTITUTION|Constitution]] (pour les bonus de Force, Con ou Dex) ou [[Pathfinder-RPG.Caractéristiques.ashx#SAGESSE|Sagesse]] (pour les bonus d'Int, Sag ou Cha)
 </div>
 
 
-(cf [drogues et dépendance](./Pathfinder-RPG-Drogues-ashx.md)){br}
+(cf [[Pathfinder-RPG.Drogues.ashx|drogues et dépendance]]){br}
 
 
 #### **15.Salle de la sentinelle**
-Cette salle a en son fond une estrade à trois marches sur laquelle se tient un [soldat mécanique](./Pathfinder-RPG-Créatures-mécaniques-Soldat-ashx.md) avec une hallebarde brillante.
+Cette salle a en son fond une estrade à trois marches sur laquelle se tient un [[Pathfinder-RPG.Créatures mécaniques Soldat.ashx|soldat mécanique]] avec une hallebarde brillante.
 
 
 A l'arrivée des intrus, il se met en garde et attaque en lançant un "Vous n'avez rien à faire ici !"{br}
 
 
-Cette création est cependant défaillante : sa "[fuite aérienne](./../Pathfinder-RPG/Fuite aérienne.md)" ne s'active plus correctement. {br}
+Cette création est cependant défaillante : sa "[[Pathfinder-RPG.Fuite aérienne|fuite aérienne]]" ne s'active plus correctement. {br}
 Tous les rounds, on lance 1d6 afin de savoir s'il est intangible ou non. {br}
 En dessous de 20 PV, il devient très instable et se met à bourdonner. A chaque action le teste devra être fait.
 
@@ -518,11 +518,11 @@ Les personnages libres peuvent déterrer leurs amis. Un personnage qui déblaye 
 
 ===L'Aile de la Dame ==={br}
 
-[imageauto||http://img15.hostingpics.net/pics/992479Plan4m.png]
+<img src="http://img15.hostingpics.net/pics/992479Plan4m.png" class="imageauto" alt="">
 
 
 
-[^http://img15.hostingpics.net/pics/343521DunVK43.png|Carte détaillée]
+[Carte détaillée](http://img15.hostingpics.net/pics/343521DunVK43.png)
 
 
 
@@ -534,7 +534,7 @@ L'Aile de la Dame est en réalité dans un demi-plan : c'est pour cela que l'arc
 
 #### 1. Le couloir
 L'ambiance de ce couloir est raffinée : des tapisseries sur les murs, un long tapis sur la partie principale, une grande porte à double battants sur la droite (vers 5), un rideau à gauche qui dissimule un escalier menant à l'étage supérieur et plus loin le couloir se rétrécit pour donner sur deux portes latérales (vers 3 et 4)  et une au fond (2). {br}
-Mais avant que les aventuriers n'aient eu le temps de contempler les lieux, deux [armures métalliques](./../Pathfinder-RPG/Créatures mécaniques Soldat.md) s'animent et les attaquent en arguant qu'ils ne sont pas autorisés à rendre visite à la Dame.{br}
+Mais avant que les aventuriers n'aient eu le temps de contempler les lieux, deux [[Pathfinder-RPG.Créatures mécaniques Soldat|armures métalliques]] s'animent et les attaquent en arguant qu'ils ne sont pas autorisés à rendre visite à la Dame.{br}
 
 Au fond du couloir, près de la porte du fond, il y a un cadre qui comporte une roue en bois divisée en quatre segments sur lesquels sont gravés différentes images : un arbre fleuri avec un oiseau, un arbre feuillu avec le soleil, un arbre avec des feuilles qui tombent et un arbre dépourvu de feuille.{br}
 Il s'agit là en réalité du mécanisme qui permet au jardin de changer de saison lorsqu'on le tourne (le segment du haut donne la saison).
@@ -543,26 +543,26 @@ Il s'agit là en réalité du mécanisme qui permet au jardin de changer de sais
 #### 2. Le jardin
 D'une douceur et d'une beauté inégalée. Quelle que soit la saison choisie, le jardin garde une température agréable.
 Le jardin se trouve sur un demi-plan (ce qui permet de  voir un joli ciel bleu alors que normalement on est sous terre) : changer la saison "fige" le plan en cours et n'anime que celui qui est sélectionné. Si un aventurier se trouve dans le jardin en hiver tandis qu'un autre change la saison : l'aventurier dans le jardin disparaîtrait des yeux de ses compagnons. Il se retrouvé figé dans le temps, pour lui plus rien ne bouge et il n'a plus conscience du temps qui passe.
-Le jardin est constitué de plusieurs endroits : [http://img15.hostingpics.net/pics/563746Salle42.png|un jardin avec des statues], un jardin potager et médicinal, un grand parc avec différents arbres, arbustes, et animaux, un lac au pied d'une cascade et une forêt en bordure.{br}
+Le jardin est constitué de plusieurs endroits : [un jardin avec des statues](http://img15.hostingpics.net/pics/563746Salle42.png), un jardin potager et médicinal, un grand parc avec différents arbres, arbustes, et animaux, un lac au pied d'une cascade et une forêt en bordure.{br}
 
 <u>L'été :</u> c'est la saison qui est mise par défaut. La chaleur y est plus forte que pour les autres saisons tout en restant agréable avec une petite brise qui souffle de temps en temps. C'est une période agréable à l'ombre et idéale pour bronzer.
 Malheureusement, puisque dix mille ans se sont écoulés bel et bien dans ce lieu, l'herbe y est sèche et jaunie, les potagers ne sont plus que terre, les animaux sont morts depuis bien longtemps et le lac n'est plus qu'une marre de boue. {br}
-Le jardin des statues comprend une statue de basilic et six statues d'humains (dont celle de Kharig) dans des poses nobles. Parmi celles-ci, il y en a une qui est en réalité un des [Ennemis de Kharig](./Ennemis de Kharig(fanmade).md) pétrifié. {br}
+Le jardin des statues comprend une statue de basilic et six statues d'humains (dont celle de Kharig) dans des poses nobles. Parmi celles-ci, il y en a une qui est en réalité un des [[Ennemis de Kharig(fanmade)|Ennemis de Kharig]] pétrifié. {br}
 Les aventuriers peuvent utiliser une sort de pierre en chair pour faire des rencontres !
 
 
-<u>L'automne :</u>  Les arbres perdent leurs feuilles, dans le parc, des jardins [topiaires](./Animaux-topiaires(fanmade).md) en forme d'animaux de 2 mètres de haut. Ils s'animent et attaquent les aventuriers car ils sont là pour protéger Léora et n'obéissent qu'à elle ou Kharig.{br}
-Le jardin des statues comporte à peu près les mêmes représentations d'hommes et de femmes dans des positions songeuses (un jet de Perception DD 20-1 par visite de saison différente) permet de remarquer qu'il n'y a qu'une statue humanoïde qui diffère des autres dans les différentes saisons .  Il y a également la statue d'une [sirène](./../Pathfinder-RPG/Sirène.md).
+<u>L'automne :</u>  Les arbres perdent leurs feuilles, dans le parc, des jardins [[Animaux topiaires(fanmade)|topiaires]] en forme d'animaux de 2 mètres de haut. Ils s'animent et attaquent les aventuriers car ils sont là pour protéger Léora et n'obéissent qu'à elle ou Kharig.{br}
+Le jardin des statues comporte à peu près les mêmes représentations d'hommes et de femmes dans des positions songeuses (un jet de Perception DD 20-1 par visite de saison différente) permet de remarquer qu'il n'y a qu'une statue humanoïde qui diffère des autres dans les différentes saisons .  Il y a également la statue d'une [[Pathfinder-RPG.Sirène|sirène]].
 
 
 <u>L'hiver :</u>  Le sol est enneigé, tout est blanc et gris. De temps à autres de petits flocons tombent. On peut suivre les traces de lapins et d'animaux mais lorsqu'on les trouve, quelle surprise de voir qu'ils sont en réalité faits de glace et animés. {br}
 Le lapin est le moins peureux et se laisse volontiers caresser, voire prendre si le teste de Dressage (DD 20) est réussi.
 En allant vers le parc, les aventuriers pourront rencontrer des  cerfs de glace et même un pégase de glace.{br}
-Parmi les statues de pierre, certaines sont magnifiques, la plus impressionnante est sans doute celle d'un [dragon (jeune)](./Pathfinder-RPG-dragon%20blanc.md) d'1m70 de hauteur, les ailes déployées qui semble être en train de cracher. Il y a également six statues d'hommes et femmes dans des positions mélancoliques.
+Parmi les statues de pierre, certaines sont magnifiques, la plus impressionnante est sans doute celle d'un [[Pathfinder-RPG.dragon%20blanc|dragon (jeune)]] d'1m70 de hauteur, les ailes déployées qui semble être en train de cracher. Il y a également six statues d'hommes et femmes dans des positions mélancoliques.
 
 
 <u>Le printemps :</u>  Dans le parc les arbres sont en fleur et  des animaux adorables gambadent joyeusement : lapins, biches, oiseaux au chant mélodieux et même un pégase ! {br}
-Dans le jardin des statues on retrouve les six humanoïdes dans des positions dansantes ou joyeuses et une [créature](./../Pathfinder-RPG/Hiéracosphinx.md) ressemblant à un lion à tête de faucon avec des ailes.
+Dans le jardin des statues on retrouve les six humanoïdes dans des positions dansantes ou joyeuses et une [[Pathfinder-RPG.hiéracosphinx|créature]] ressemblant à un lion à tête de faucon avec des ailes.
 Dans la forêt, il est possible d'apercevoir une licorne, un dragon-féérique, et d'autres créatures comme des dryades, faunes, lutins, nymphes, pixies, satyres etc...
 #### 3. La salle de détente
 Cette salle comporte un petit salon, une table avec des chaises, une bibliothèque ainsi qu'une cheminée avec sur son manteau une statuette miniature de Kharig. {br}
@@ -584,7 +584,7 @@ Bon appétit ! {br}
 #### 5.La salle de bal
 Cette grande salle de 9x12m contient miroirs, lustre et instruments de musique (clavecin, mandoline, harpe et tambour). Il y a également un grand tableau d'une danseuse qui regarde les aventuriers arriver (le personnage est animé, il est possible de lui parler ).{br}
 
-Quand les aventuriers arrivent, les [instruments](./Instruments-de-musique-animés(fanmade).md) se mettent à jouer un air fort désagréable. Ils ne sont en réalité plus en rythme. Pour les arrêter, il faut soit les affronter, soit faire taire le tambour qui donne le rythme (en le détruisant, en jouant dessus (représentation DD 15) , ou en l'immobilisant (DMD 15). Dans tous les cas, dès que le tambour arrête de jouer, les autres instruments arrêtent aussi. {br}
+Quand les aventuriers arrivent, les [[Instruments de musique animés(fanmade)|instruments]] se mettent à jouer un air fort désagréable. Ils ne sont en réalité plus en rythme. Pour les arrêter, il faut soit les affronter, soit faire taire le tambour qui donne le rythme (en le détruisant, en jouant dessus (représentation DD 15) , ou en l'immobilisant (DMD 15). Dans tous les cas, dès que le tambour arrête de jouer, les autres instruments arrêtent aussi. {br}
 
 La danseuse se nomme Loranne Suzcia : elle a été peinte par un artiste thassilonnien et animée par Kharig. Elle conserve les souvenirs de danse et peut enseigner certains pas. Elle enseignait parfois à Léora, c'était pour cette raison qu'elle avait été créée, mais cela fait un très long moment qu'elle ne l'a pas vue. {br}
 
@@ -631,7 +631,7 @@ Il tient une conversation agréable et parle la langue de celui qu'il a en face.
 - Il a assisté à certaines disputes entre Kharig et Léora, le sujet étant principalement son sentiment d'être délaissée ou isolée. 
 
 
-L'une des armoires est une [garde robe du corps](./Garde-robe-du-corps(fanmade).md) et empêchera qu'on fasse du mal à Léora.
+L'une des armoires est une [[Garde robe du corps(fanmade)|garde robe du corps]] et empêchera qu'on fasse du mal à Léora.
 #### 9a. La salle de bain
 Une pièce au sol de mosaïque avec un paravent , un baquet, deux seaux (l'un ayant de l'eau froide, l'autre de l'eau chaude), des linges propres pour se sécher et du savon.
 
@@ -670,13 +670,13 @@ Que s'est-il réellement passé ? ... C'est un secret que Kharig détient... dan
 ===L'Aile du Maître ==={br}
 
 Carte simplifiée :
-[imageauto|| http://img15.hostingpics.net/pics/560439Plan3.png]
+<img src="http://img15.hostingpics.net/pics/560439Plan3.png" class="imageauto" alt="">
 
 
 Cartes détaillées :
 
-[^http://img15.hostingpics.net/pics/758744DunVK31i.png|Premier étage]
-[^http://img15.hostingpics.net/pics/929047DunVK32i.png|Sous sol]
+[Premier étage](http://img15.hostingpics.net/pics/758744DunVK31i.png)
+[Sous sol](http://img15.hostingpics.net/pics/929047DunVK32i.png)
 
 
 *Plus on découvre Kharig, plus on s'aperçoit qu'il était dérangé. Cet hôte si aimable avait une pièce dédiée au meurtre de ses invités. Ce marchand de créatures artificielles était également un créateur de drogues. Cet amant passionné était obsédé au point de réaliser différentes versions de sa bien-aimée.  Que s'est-il réellement passé ? Peut-être les réponses se trouveront ici dans ce demi-plan relié à celui de la Dame. *
@@ -901,11 +901,11 @@ Les étagères contiennent des éléments visqueux, étranges : des yeux, des vi
 
 La table d'alchimie continent des fioles avec des poudres qui furent autrefois des liquides.
 
-Toutes les créatures dans les cuves sont mortes... sauf le chat. En réalité c'est une des  [expériences](./Expérience de Kharig (fanmade).md) les plus instables de Kharig qui cherchera simplement à tuer et s'enfuir.
+Toutes les créatures dans les cuves sont mortes... sauf le chat. En réalité c'est une des  [[Expérience de Kharig (fanmade)|expériences]] les plus instables de Kharig qui cherchera simplement à tuer et s'enfuir.
 
 
 
 
-''N'hésitez pas à laisser des commentaires sur le sujet : [http://www.pathfinder-fr.org/Forum/yaf_postst12411_Donjon---La-villa-de-Kharig.aspx#post516781|Ici]
+''N'hésitez pas à laisser des commentaires sur le sujet : [Ici](http://www.pathfinder-fr.org/Forum/yaf_postst12411_Donjon---La-villa-de-Kharig.aspx#post516781)
 
 Djezebel, Guyde, Probe)''

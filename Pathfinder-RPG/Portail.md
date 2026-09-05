@@ -11,17 +11,17 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([appel](./appel.md) ou [création](./../Création.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 9, [Prê](./Prêtre.md) 9, [Psy](./Psychiste.md) 9  
+**École** [[Invocation]] ([[appel]] ou [[création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (voir description)  
+**Composantes** [[composantes|V, G, M]] (voir description)  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Effet** voir description  
 
-**Durée** instantanée ou [concentration](./Présentation des sorts.md#DUREE) (jusqu’à 1 [round](./round.md)/[niveau](./niveau.md) ; voir description)  
+**Durée** instantanée ou [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/[[niveau]] ; voir description)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
@@ -33,16 +33,16 @@ Ce *portail* prend la forme d’un cerceau ou cercle de 1,50 m à 6 m de diamèt
 
 Le *portail* a deux faces : un recto et un verso. Le recto ouvre sur le plan choisi, mais pas le verso. Si une créature traverse le *portail* par cette face, il ne se passe rien.
 
-**Voyage interplanaire.** Si on utilise un *portail* pour voyager entre les plans, il fonctionne comme un *[changement de plan](./Changement de plan.md)*, si ce n’est qu’il s’ouvre exactement à l’endroit choisi par le personnage. Les dieux et autres entités qui règnent sur un plan peuvent empêcher que l’on ouvre un *portail* dans leur domaine. Les voyageurs n’ont pas besoin de tenir la main du lanceur de sorts, il leur suffit de franchir le *portail* pour être emmenés à destination. On ne peut pas utiliser de *portail* pour se rendre en un autre point du plan où l’on se trouve, ce sort fonctionne uniquement pour les voyages interplanaires.
+**Voyage interplanaire.** Si on utilise un *portail* pour voyager entre les plans, il fonctionne comme un *[[changement de plan]]*, si ce n’est qu’il s’ouvre exactement à l’endroit choisi par le personnage. Les dieux et autres entités qui règnent sur un plan peuvent empêcher que l’on ouvre un *portail* dans leur domaine. Les voyageurs n’ont pas besoin de tenir la main du lanceur de sorts, il leur suffit de franchir le *portail* pour être emmenés à destination. On ne peut pas utiliser de *portail* pour se rendre en un autre point du plan où l’on se trouve, ce sort fonctionne uniquement pour les voyages interplanaires.
 
-Le jeteur de sorts maintient le *portail* ouvert pendant un temps limité (1 [round](./round.md) par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md)) à condition de rester entièrement [concentré](./concentration.md). S’il est [déconcentré](./concentration.md), le sort se termine aussitôt.
+Le jeteur de sorts maintient le *portail* ouvert pendant un temps limité (1 [[round]] par [[niveau de lanceur de sorts]]) à condition de rester entièrement [[concentration|concentré]]. S’il est [[concentration|déconcentré]], le sort se termine aussitôt.
 
 **Appel de créatures.** Un *portail* permet aussi de convoquer une entité extraplanaire. Il suffit que le personnage nomme l’entité ou le type de créature qu’il souhaite appeler pour que le *portail* s’ouvre à côté de cette dernière et l’aspire, qu’elle le veuille ou non. Les dieux et les entités uniques ne sont pas forcés de répondre à cet appel, même si rien ne les en empêche. Cette version du sort génère un *portail* restant ouvert assez longtemps pour permettre aux créatures appelées d’arriver. Cette utilisation du sort présente un coût en offrandes et en encens rares de 10 000 po. Ce prix vient s’ajouter à toute autre dépense à faire pour appeler la créature voulue.
 
-Si le jeteur de sorts décide de faire appel à un type d’entités plutôt qu’à un être particulier, il peut appeler une créature unique ou plusieurs, mais leur total de [DV](./../Ressources/DV.md) ne peut pas dépasser le double du [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) du personnage. Dans le cas où l’entité convoquée est seule, le personnage la dirige uniquement si ses [DV](./../Ressources/DV.md) ne dépasse pas son [niveau de lanceur de sorts](./niveau de lanceur de sorts.md). Le personnage ne peut pas contrôler une entité dont les [DV](./../Ressources/DV.md) dépasse son [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) et il ne peut jamais contrôler de divinités ou d’individus uniques. Une entité libre agit à sa guise et il est donc très dangereux d’y faire appel. Une créature incontrôlée peut retourner dans son plan d’origine quand elle le souhaite.
+Si le jeteur de sorts décide de faire appel à un type d’entités plutôt qu’à un être particulier, il peut appeler une créature unique ou plusieurs, mais leur total de [[DV]] ne peut pas dépasser le double du [[niveau de lanceur de sorts]] du personnage. Dans le cas où l’entité convoquée est seule, le personnage la dirige uniquement si ses [[DV]] ne dépasse pas son [[niveau de lanceur de sorts]]. Le personnage ne peut pas contrôler une entité dont les [[DV]] dépasse son [[niveau de lanceur de sorts]] et il ne peut jamais contrôler de divinités ou d’individus uniques. Une entité libre agit à sa guise et il est donc très dangereux d’y faire appel. Une créature incontrôlée peut retourner dans son plan d’origine quand elle le souhaite.
 
-Si le personnage souhaite demander un service plus complexe ou plus long, il doit offrir quelque chose à la créature appelée. La tâche requise doit être raisonnable vis à vis de la récompense proposée (reportez-vous à *[allié d’outreplan](./Allié doutreplan.md)*). Certaines créatures insistent pour se faire payer en « nature », ce qui peut entraîner des complications s’il faut leur livrer des victimes qu’elles pourront dévorer à leur aise. Dès que la créature a accompli sa mission, elle apparaît devant le personnage qui doit aussitôt régler sa dette. Cela fait, l’entité est libre de retourner dans son plan d’origine.
+Si le personnage souhaite demander un service plus complexe ou plus long, il doit offrir quelque chose à la créature appelée. La tâche requise doit être raisonnable vis à vis de la récompense proposée (reportez-vous à *[[allié doutreplan|allié d’outreplan]]*). Certaines créatures insistent pour se faire payer en « nature », ce qui peut entraîner des complications s’il faut leur livrer des victimes qu’elles pourront dévorer à leur aise. Dès que la créature a accompli sa mission, elle apparaît devant le personnage qui doit aussitôt régler sa dette. Cela fait, l’entité est libre de retourner dans son plan d’origine.
 
 Si le lanceur de sorts ne tient pas sa promesse, il peut au mieux s’attendre à devoir rendre un service à la créature ou au maître de cette dernière. Au pire, il risque de se faire attaquer.
 
-Note. Lorsqu’on utilise ce sort pour convoquer une créature [Bonne](./sous-type Bien.md), [Chaotique](./sous-type Chaos.md), [Loyale](./sous-type Loi.md), [Mauvaise](./sous-type Mal.md), d'[air](./sous-type Air.md), d’[eau](./sous-type Eau.md), de [feu](./sous-type Feu.md) ou de [terre](./sous-type Terre.md), il est automatiquement considéré comme un sort du même type.
+Note. Lorsqu’on utilise ce sort pour convoquer une créature [[sous-type Bien|Bonne]], [[sous-type chaos|Chaotique]], [[Sous-type loi|Loyale]], [[sous-type mal|Mauvaise]], d'[[sous-type Air|air]], d’[[sous-type Eau|eau]], de [[sous-type Feu|feu]] ou de [[sous-type Terre|terre]], il est automatiquement considéré comme un sort du même type.

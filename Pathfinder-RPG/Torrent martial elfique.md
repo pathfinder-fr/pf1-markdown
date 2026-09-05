@@ -8,9 +8,9 @@ LastModified: 2020-09-30 09:08
 
 *Vous contrez rapidement les attaques ennemies*
 
-**Conditions.** Int 13, [Entraînement guerrier elfique](./Entraînement guerrier elfique.md), [Concentration martiale elfique](./Concentration martiale elfique.md), [École martiale elfique](./École martiale elfique.md), [Attaque en finesse](./Attaque en finesse.md), BBA +10, Trait racial d'armes familières
+**Conditions.** Int 13, [[Entraînement guerrier elfique]], [[Concentration martiale elfique]], [[École martiale elfique]], [[Attaque en finesse]], BBA +10, Trait racial d'armes familières
 
-**Avantages.** Quand vous utilisez [École martiale elfique](./École martiale elfique.md), tout ennemi qui porte une attaque contre vous et vous rate alors que vous combattez sur la défensive, êtes en position de défense totale ou utilisez le don [Expertise du combat](./Expertise du combat.md) provoque une attaque d'opportunité de votre part. même si vous avez [Attaques réflexes](./Attaques réflexes.md), vous ne pouvez utiliser ce don qu'une fois par round.
+**Avantages.** Quand vous utilisez [[École martiale elfique]], tout ennemi qui porte une attaque contre vous et vous rate alors que vous combattez sur la défensive, êtes en position de défense totale ou utilisez le don [[Expertise du combat]] provoque une attaque d'opportunité de votre part. même si vous avez [[Attaques réflexes]], vous ne pouvez utiliser ce don qu'une fois par round.
 
 (((You rapidly counter enemy attacks.
 Prerequisite(s): Int 13, Elven Battle Focus, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +10, weapon familiarity racial trait.

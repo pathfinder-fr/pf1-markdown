@@ -6,7 +6,7 @@ Categories:
 - Géographie
 ---
 
-L'empire du Minkai est situé sur le continent du [Tian Xia](./Tian Xia.md), à l'extrême est du [Casmaron](./Casmaron.md).
+L'empire du Minkai est situé sur le continent du [[Tian Xia]], à l'extrême est du [[Casmaron]].
 
 Il fut fondé en 3619 AR après la victoire des armées du Minkai contre les forces du Shogunate Teikoku à la bataille des Huit Ponts trois ans auparavant. Comme l'ancienne capitale, Uddo, fut rasée lors de cette longue bataille, une nouvelle capitale fut établie en la ville de Kasai, qui est encore le siège du gouvernement de l'empereur Shigure.
 

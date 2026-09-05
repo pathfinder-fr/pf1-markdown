@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Chasuble de druide|}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 10 ; **Emplacement** [corps](./Objets merveilleux portés sur le corps.md) ; **Prix** 3 750 po ; **Poids** —
+**Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 3 750 po ; **Poids** —
 (((Description)))
-Cette chasuble légère est portée par-dessus l’armure ou les vêtements normaux. Le plus souvent, elle est verte et décorée de motifs végétaux et animaliers. Si la personne qui la porte possède l’aptitude de classe de [forme animale](./Druide.md#FORMEANIMALE), la robe lui permet d’y faire appel une fois de plus par jour.
+Cette chasuble légère est portée par-dessus l’armure ou les vêtements normaux. Le plus souvent, elle est verte et décorée de motifs végétaux et animaliers. Si la personne qui la porte possède l’aptitude de classe de [[druide#FORMEANIMALE|forme animale]], la robe lui permet d’y faire appel une fois de plus par jour.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), soit *[métamorphose](./métamorphose.md)*, soit la capacité de classe [forme animale](./Druide.md#FORMEANIMALE) ; **Coût** 1 875 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], soit *[[métamorphose]]*, soit la capacité de classe [[druide#FORMEANIMALE|forme animale]] ; **Coût** 1 875 po
 </div>

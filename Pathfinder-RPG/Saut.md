@@ -16,18 +16,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Psy](./Psychiste.md) 1, [Rôd](./Rôdeur.md) 1, [San](./Sanguin.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une patte arrière de sauterelle)  
+**Composantes** [[composantes|V, G, M]] (une patte arrière de sauterelle)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
-Le sujet bénéficie d’un [bonus d’altération](./bonus daltération.md) de +10 aux tests d’[Acrobaties](./Acrobaties.md) pour sauter en hauteur ou en longueur. Ce [bonus d’altération](./bonus daltération.md) passe à +20 pour un lanceur de sorts de [niveau](./niveau.md) 5 et à +30 (le maximum) pour un lanceur de sorts de [niveau](./niveau.md) 9.
+Le sujet bénéficie d’un [[bonus daltération|bonus d’altération]] de +10 aux tests d’[[Acrobaties]] pour sauter en hauteur ou en longueur. Ce [[bonus daltération|bonus d’altération]] passe à +20 pour un lanceur de sorts de [[niveau]] 5 et à +30 (le maximum) pour un lanceur de sorts de [[niveau]] 9.

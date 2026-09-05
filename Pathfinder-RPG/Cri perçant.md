@@ -16,25 +16,25 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[sonore](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 1, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Méd](./Médium.md) 1, [Psy](./Psychiste.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|sonore]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
 **Durée** instantanée ; voir texte  
 
-**Jet de sauvegarde** [vigueur](./Vigueur.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
 
-Le personnage pousse un cri retentissant, inaudible sauf par une cible. Elle est [hébétée](./Hébété.md) pendant 1 [round](./round.md) et reçoit 1d6 points de dégâts sonores par tranche de deux [niveaux de lanceur de sorts](./NLS.md) (5d6 au maximum). Un
-[jet de sauvegarde](./jet de sauvegarde.md) réussi annule l’[hébétement](./Hébété.md) et réduit les dégâts de moitié.
+Le personnage pousse un cri retentissant, inaudible sauf par une cible. Elle est [[hébété|hébétée]] pendant 1 [[round]] et reçoit 1d6 points de dégâts sonores par tranche de deux [[NLS|niveaux de lanceur de sorts]] (5d6 au maximum). Un
+[[jet de sauvegarde]] réussi annule l’[[hébété|hébétement]] et réduit les dégâts de moitié.
 
 ### Mythique
 {s:CMy}
-Les dégâts infligés s’élèvent à 1d8 points de dégâts de son par tranche de 2 niveaux de lanceur de sorts (5d8 maximum) et l’hébétement des créatures situées dans la zone d’effet dure un nombre de rounds égal au [grade](./Grade.md) du personnage.
+Les dégâts infligés s’élèvent à 1d8 points de dégâts de son par tranche de 2 niveaux de lanceur de sorts (5d8 maximum) et l’hébétement des créatures situées dans la zone d’effet dure un nombre de rounds égal au [[grade]] du personnage.
 
-**[Amplifié](./Amplifié.md) (3ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), le sort affecte un cône de 9 mètres au lieu d’une seule cible.
+**[[Amplifié]] (3ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], le sort affecte un cône de 9 mètres au lieu d’une seule cible.

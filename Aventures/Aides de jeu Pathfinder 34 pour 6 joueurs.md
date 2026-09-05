@@ -9,7 +9,7 @@ LastModified: 2013-10-21 00:02
 
 **Avertissement de l’auteur originel Shane ”General Chaos” Majewski : **
 "Ce document est basé sur les excellentes conversions pour 6 joueurs d’Alexeter sur les forums Paizo, disponibles à ces adresses :
-1:[^http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKigmakerStolenLanDDhapter1For6PCs|Les Terres Volées pour 6] et part 2:[^http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKingmakerRiversRunReDDhapter2For6PCs|Quand les Rivières se Teintent de Rouge pour 6]
+1:[Les Terres Volées pour 6](http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKigmakerStolenLanDDhapter1For6PCs) et part 2:[Quand les Rivières se Teintent de Rouge pour 6](http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKingmakerRiversRunReDDhapter2For6PCs)
 
 Pour paraphraser et citer, je suis parti du principe d’allouer 50% de PX et de trésor en plus pour compenser l’augmentation du nombre de joueurs. Tout cela en ajoutant des monstres, des Dés de vie supplémentaires, des niveaux et autres idées. "
 
@@ -288,7 +288,7 @@ Ref +8, Vig +12, Vol +7
 COMBAT
 VD 6m., Natation 9m.
 Corps à corps trident de maître +13/+8 (1d8+5), hachette de maître +12/+7 (1d6+2/×3), langue +7 (langue collante +2)
-Distance sarbacane +7 (1d2 plus poison [venin de grenouille Rayon-de-soleil; DD 10; 1/rd. pendantfor 6 rd.; 1d2 Con, 1 jet])
+Distance sarbacane +7 (1d2 plus poison [[venin de grenouille Rayon-de-soleil; DD 10; 1/rd. pendantfor 6 rd.; 1d2 Con, 1 jet]])
 Attaques spéciales ennemi juré (humain +4, animal +2), croassement terrifiant (DD 12)
 Sorts de rôdeur préparés (NLS 3 ; concentration +1)
 Niveau 1 – Communication avec les animaux, enchvêtrement (DD 13

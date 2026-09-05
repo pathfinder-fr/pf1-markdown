@@ -9,6 +9,6 @@ Categories:
 
 {s:ccmi}*Le personnage a été si longtemps exposé aux énergies nécromantiques qu’il leur résiste en partie. *
 
-**Conditions**. [Con](./Constitution.md) 15
+**Conditions**. [[Constitution|Con]] 15
 
-**Avantages**. Le personnage gagne un bonus de +2 aux [jets de sauvegarde](./JDS.md) pour résister aux sorts et aux effets qui utilisent l’énergie négative, infligent des niveaux négatifs, absorbent l’énergie ou imposent un malus de caractéristique. De plus, les dégâts provoqués par les sorts de blessure le soignent comme s’il était mort-vivant, mais les sorts de soin lui infligent des dégâts.
+**Avantages**. Le personnage gagne un bonus de +2 aux [[jds|jets de sauvegarde]] pour résister aux sorts et aux effets qui utilisent l’énergie négative, infligent des niveaux négatifs, absorbent l’énergie ou imposent un malus de caractéristique. De plus, les dégâts provoqués par les sorts de blessure le soignent comme s’il était mort-vivant, mais les sorts de soin lui infligent des dégâts.

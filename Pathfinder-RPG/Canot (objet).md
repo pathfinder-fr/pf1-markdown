@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 500 po ; **Passage (1,5 km)** 2 cp
-<span class="Catégorie">**Catégorie** [Moyens de transport](./Moyens de transport.md)</span>
+<span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
 ---
 Les canots équipent généralement le pont des grands navires. Ils permettent de transporter les passagers et les marchandises.

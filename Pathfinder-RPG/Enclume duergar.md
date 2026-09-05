@@ -13,30 +13,30 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.37*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Duergar](./Duergar.md) [moine](./Moine.md) 2}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([nain](./sous-type nain.md)) de taille M, LM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [Perception](./Perception.md) +7}
+{s:BDTexte|[[Duergar]] [[moine]] 2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type nain|nain]]) de taille M, LM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}), [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 12 (Dex +2, esquive +1, Sag +2)}
 {s:BDTexte|**pv** 18 (2d8+6)}
 {s:BDTexte|**Réf** +5, **Vig** +5, **Vol** +5 ; +2 contre les sorts}
-{s:BDTexte|**Capacités défensives** [esquive totale](./Moine.md#ESQUIVETOTALE) ; **Immunité** fantasme, paralysie, poison}
+{s:BDTexte|**Capacités défensives** [[Moine#ESQUIVETOTALE|esquive totale]] ; **Immunité** fantasme, paralysie, poison}
 {s:BDTexte|**Faiblesses** sensible à la lumière}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** mains nues, +3 (1d6+2) ou déluge de coups à mains nues, +2/+2 (1d6+2)}
 {s:BDTexte|**Distance** shuriken, +3 (1d2+2)}
-{s:BDTexte|**Attaques spéciales** [déluge de coups](./Moine.md#DELUGEDECOUPS), [poing étourdissant](./Moine.md#COUPETOURDISSANT) (2/jour, DD 13)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 1 ; [concentration](./concentration.md) –2)}
-{s:BDSorts|1/jour — *[invisibilité](./Invisibilité.md)* (sur soi uniquement), *[peau en fer](./Peau en fer.md)*}
+{s:BDTexte|**Attaques spéciales** [[Moine#DELUGEDECOUPS|déluge de coups]], [[Moine#COUPETOURDISSANT|poing étourdissant]] (2/jour, DD 13)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 1 ; [[concentration]] –2)}
+{s:BDSorts|1/jour — *[[invisibilité]]* (sur soi uniquement), *[[peau en fer]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 15, **Con** 14, **Int** 10, **Sag** 15, **Cha** 4}
 {s:BDTexte|**BBA** +1, **BMO** +3, **DMD** 18 (22 contre la bousculade ou le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Flexibilité innée](./Flexibilité innée.md), [Poing étourdissant](./Moine.md#COUPETOURDISSANT), [Science du combat à mains nues](./Science du combat à mains nues.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +7, [Discrétion](./Discrétion.md) +7, [Évasion](./Évasion.md) +7, [Perception](./Perception.md) +7}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Esquive]], [[Flexibilité innée]], [[Moine#COUPETOURDISSANT|Poing étourdissant]], [[Science du combat à mains nues]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +7, [[Discrétion]] +7, [[Évasion]] +7, [[Perception]] +7}
 {s:BDTexte|**Langues** commun, commun des profondeurs, nain}
-{s:BDTexte|**Particularités** [lentement mais sûrement](./Duergar.md), [stabilité](./Duergar.md)}
-{s:BDTexte|**Équipement de combat** *[potion](./Potions magiques.md) de [soins légers](./Soins légers.md)*, *[potions](./Potions magiques.md) d’[invisibilité](./Invisibilité.md)* (2), [pierres-tonnerres](./Pierre tonnerre (objet).md) (4) ; **Équipement divers** [shurikens](./Shurikens (arme).md) (10), 7 po}
+{s:BDTexte|**Particularités** [[Duergar|lentement mais sûrement]], [[Duergar|stabilité]]}
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potion]] de [[soins légers]]*, *[[potions magiques|potions]] d’[[invisibilité]]* (2), [[pierre tonnerre (objet)|pierres-tonnerres]] (4) ; **Équipement divers** [[shurikens (arme)|shurikens]] (10), 7 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -44,31 +44,31 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Duergar](./Duergar.md) || 1/3
+| [[Duergar]] || 1/3
 |-
-| [Esclavagiste duergar](./Esclavagiste duergar.md) || 1/2
+| [[Esclavagiste duergar]] || 1/2
 |-
-| [Tireur d'élite duergar](./Tireur délite duergar.md) || 1/2
+| [[Tireur délite duergar|Tireur d'élite duergar]] || 1/2
 |-
-| [Bombardier duergar](./Bombardier duergar.md) || 1
+| [[Bombardier duergar]] || 1
 |-
-| [Enclume duergar](./Enclume duergar.md) || 1
+| [[Enclume duergar]] || 1
 |-
-| [Sergent duergar](./Sergent duergar.md) || 1
+| [[Sergent duergar]] || 1
 |-
-| [Scarabée crache-noir](./Scarabée crache-noir.md) || 3
+| [[Scarabée crache-noir]] || 3
 |-
-| [Lieutenant duergar](./Lieutenant duergar.md) || 5
+| [[Lieutenant duergar]] || 5
 |-
-| [Capitaine duergar](./Capitaine duergar.md) || 8
+| [[Capitaine duergar]] || 8
 |-
-| [Maître de corvée duergar](./Maître de corvée duergar.md) || 9
+| [[Maître de corvée duergar]] || 9
 |-
-| [Marteau duergar](./Marteau duergar.md) || 11
+| [[Marteau duergar]] || 11
 |-
-| [Grand prêtre duergar](./Grand prêtre duergar.md) || 12
+| [[Grand prêtre duergar]] || 12
 |-
-| [Scarabée juggernaut](./Scarabée juggernaut.md) || 14
+| [[Scarabée juggernaut]] || 14
 |-
 |}
 </div> Ces guerriers mystiques purgent la société duergar de

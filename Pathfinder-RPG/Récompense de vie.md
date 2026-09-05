@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Quand le personnage utilise l’imposition des mains, il guérit également. *
 
-**Condition.** [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS)
+**Condition.** [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]]
 
-**Avantage.** À chaque fois que le personnage utilise son imposition pour soigner une cible autre que lui, il guérit d’un nombre de [points de vie](./pv.md) égal à son bonus de [Charisme](./Charisme.md).
+**Avantage.** À chaque fois que le personnage utilise son imposition pour soigner une cible autre que lui, il guérit d’un nombre de [[pv|points de vie]] égal à son bonus de [[Charisme]].
 
-Ce don n’a aucun effet si le personnage utilise l’imposition pour blesser des [morts-vivants](./type Mort-vivant.md).
+Ce don n’a aucun effet si le personnage utilise l’imposition pour blesser des [[type mort-vivant|morts-vivants]].

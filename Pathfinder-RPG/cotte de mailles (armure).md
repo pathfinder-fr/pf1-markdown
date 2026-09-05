@@ -10,6 +10,6 @@ Categories:
 {s:AE}**Prix** 150 po ; **Poids** 20 kg
 **Bonus d'armure** +6 ; **Bonus de Dex maximal** +2 ; **Malus d'armure** -5
 **Risque d'échec des sorts profanes** 30% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
-<span class="Catégorie">**Catégorie** [Armures intermédiaires](./Tableau récapitulatif des armures.md#TABINTERMEDIAIRES)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABINTERMEDIAIRES|Armures intermédiaires]]</span>
 ---
-Contrairement à la [chemise de mailles](./chemise de mailles (armure).md), qui ne couvre que la poitrine, la cotte de mailles protège son propriétaire avec un réseau complet de maillons recouvrant le torse et les bras et descendant en-dessous de la taille. De multiples pièces interconnectées offrent une protection supplémentaire pour les zones vitales. L’armure inclut des [gantelets](./Gantelet (arme).md).
+Contrairement à la [[chemise de mailles (armure)|chemise de mailles]], qui ne couvre que la poitrine, la cotte de mailles protège son propriétaire avec un réseau complet de maillons recouvrant le torse et les bras et descendant en-dessous de la taille. De multiples pièces interconnectées offrent une protection supplémentaire pour les zones vitales. L’armure inclut des [[gantelet (arme)|gantelets]].

@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.185}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m, [[vision nocturne]] ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 10, pris au dépourvu 17 (Dex +1, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 57 (6d10+24)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 12, **Con** 18, **Int** 11, **Sag** 14, **Cha** 17}
 {s:BDTexte|**BBA** +6, **BMO** +12, **DMD** 23 (27 contre croc-en-jambe)}
-{s:BDTexte|**Dons** [Science de linitiative|Science de l’initiative], [Talent] (Bluff), [Talent](./Talent.md) (Discrétion)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +12, [Discrétion](./Discrétion.md) +9, [Escalade](./Escalade.md) +13}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l’initiative]], [[Talent]] (Bluff), [[Talent]] (Discrétion)}
+{s:BDTexte|**Compétences** [[Bluff]] +12, [[Discrétion]] +9, [[Escalade]] +13}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** imitation de sons (voix)}
 {s:BDSousTitre|Écologie}

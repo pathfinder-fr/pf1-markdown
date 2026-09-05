@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Main miraculeuse|}
-**Aura** Multiples faibles ; **NLS** 5 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 8 000 po ; **Poids** 1 kg
+**Aura** Multiples faibles ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 8 000 po ; **Poids** 1 kg
 (((Description)))
-Cette main humaine momifiée est fixée à une lanière de cuir permettant de l’attacher autour du cou (elle utilise l’espace d’un collier magique). Si un [anneau magique](./Anneaux magiques.md) est glissé à l’un des doigts de la main, le possesseur de cette dernière bénéficie de ses pouvoirs comme s’il le portait lui-même, et l’anneau vient en plus des deux auxquels il a normalement droit. La main ne peut porter qu’un seul anneau à la fois. De plus, la main miraculeuse permet à son porteur de lancer *[détection de l’invisibilité](./Détection de linvisibilité.md)* et *[lumière du jour](./Lumière du jour.md)* (1 fois par jour chacun).
+Cette main humaine momifiée est fixée à une lanière de cuir permettant de l’attacher autour du cou (elle utilise l’espace d’un collier magique). Si un [[anneaux magiques|anneau magique]] est glissé à l’un des doigts de la main, le possesseur de cette dernière bénéficie de ses pouvoirs comme s’il le portait lui-même, et l’anneau vient en plus des deux auxquels il a normalement droit. La main ne peut porter qu’un seul anneau à la fois. De plus, la main miraculeuse permet à son porteur de lancer *[[détection de linvisibilité|détection de l’invisibilité]]* et *[[lumière du jour]]* (1 fois par jour chacun).
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[animation des morts](./Animation des morts.md)*, *[détection de l’invisibilité](./Détection de linvisibilité.md)*, *[lumière du jour](./Lumière du jour.md)* ; **Coût** 4 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[animation des morts]]*, *[[détection de linvisibilité|détection de l’invisibilité]]*, *[[lumière du jour]]* ; **Coût** 4 000 po
 </div>

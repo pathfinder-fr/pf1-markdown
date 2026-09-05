@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Dragon|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 70*}
 **6 400 PX**
-- [Dragon](./type Dragon.md) de taille G, NM
+- [[type dragon|Dragon]] de taille G, NM
 - **Init **+2 ; Sens sens draconiques, vision dans les ténèbres ; Perception +14
 (((Défense)))
 - **CA **22, contact 11, pris au dépourvu 20 (Dex +2, naturelle +11, taille -1)
@@ -30,15 +30,15 @@ Categories:
 - **Pouvoirs magiques** (**NLS **10 ; concentration +13)
   - *À volonté* — rayon affaiblissant (DD 14)
 - **Sorts d’ensorceleur** connus (**NLS **1 ; concentration +4)
-  - *1er (4/jour)* — [hypnose](./Hypnose.md) (DD 15), [armure de mage](./Armure de mage.md)
-  - *0 (à volonté)* — [détection de la magie](./Détection de la magie.md), [lecture de la magie](./Lecture de la magie.md), [manipulation à distance](./Manipulation à distance.md), [message](./Message.md)
+  - *1er (4/jour)* — [[hypnose]] (DD 15), [[armure de mage]]
+  - *0 (à volonté)* — [[détection de la magie]], [[lecture de la magie]], [[manipulation à distance]], [[message]]
 (((Statistiques)))
 - **For **21, **Dex **14, **Con **17, **Int **16, **Sag **13, **Cha **16
 - **BBA **+10 ; **BMO **+16 ; **DMD **28 (32 contre croc-en-jambe)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md), [Virage sur l’aile](./Virage sur laile.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Acrobaties](./Acrobaties.md) +12, [Art de la magie](./Art de la magie.md) +11, [Bluff](./Bluff.md) +16, [Connaissances](./Connaissances.md) (mystères, plans) +13, [Diplomatie](./Diplomatie.md) +13, [Discrétion](./Discrétion.md) +11, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +14, [Psychologie](./Psychologie.md) +14, [Survie](./Survie.md) +8, [Vol](./Vol.md) +19 
+- **Dons **[[Arme de prédilection]] (morsure), [[Attaque en vol]], [[Attaques multiples]], [[virage sur laile|Virage sur l’aile]], [[Volonté de fer]]
+- **Compétences **[[Acrobaties]] +12, [[Art de la magie]] +11, [[Bluff]] +16, [[Connaissances]] (mystères, plans) +13, [[Diplomatie]] +13, [[Discrétion]] +11, [[Intimidation]] +16, [[Perception]] +14, [[Psychologie]] +14, [[Survie]] +8, [[Vol]] +19 
 - **Langues **abyssal, aklo, draconique, infernal
 - **Particularités **agile, ne respire pas, vol stellaire
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons sidéraux](./Dragon sidéral.md).***</li><li>***Voir la description des [dragons du néant](./Dragon du néant.md).***</li></ul>*Les cornes et les écailles d’ébène de ce dragon sont mouchetées d’une substance luisant d’une étrange lumière verte. Un ciel nocturne semble se ref léter dans les plis de ses ailes.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li><li>***Voir la description des [[dragon du néant|dragons du néant]].***</li></ul>*Les cornes et les écailles d’ébène de ce dragon sont mouchetées d’une substance luisant d’une étrange lumière verte. Un ciel nocturne semble se ref léter dans les plis de ses ailes.*
 </div></td></tr></table>

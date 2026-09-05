@@ -12,27 +12,27 @@ Categories:
 
 **(Source: Heroes of the street)**
 
-**Ecole** [Invocation](./Invocation.md) ([Création](./../Création.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Prê](./Prêtre.md) 5  
+**Ecole** [[Invocation]] ([[Création]]) ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[prêtre|Prê]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V,G](./composantes.md)  
+**Composantes** [[composantes|V,G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Effet** Un mur de mécanismes en bronze dont la zone d'effet est de 1,5 m/[niveau](./niveau.md) (1{s:c}/[niveau](./niveau.md))  
+**Effet** Un mur de mécanismes en bronze dont la zone d'effet est de 1,5 m/[[niveau]] (1{s:c}/[[niveau]])  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) (1/2) ou [Réflexes](./Réflexes.md) (annule), voir texte ; **Résistance à la magie** Oui
+**Jet de sauvegarde** [[Réflexes]] (1/2) ou [[Réflexes]] (annule), voir texte ; **Résistance à la magie** Oui
 
-Un mur immobile et vertical constitué d'engrenages et de rouages tournants surgit. Toute créature passant à travers le mur subit 1d6 points de dégâts perçants et tranchants par tranche de 2 [niveaux de lanceurs de sorts](./NLS.md) (maximum 10d6); un jet de [Réflexes](./Réflexes.md) réussi réduit les dégâts de moitié.
+Un mur immobile et vertical constitué d'engrenages et de rouages tournants surgit. Toute créature passant à travers le mur subit 1d6 points de dégâts perçants et tranchants par tranche de 2 [[NLS|niveaux de lanceurs de sorts]] (maximum 10d6); un jet de [[Réflexes]] réussi réduit les dégâts de moitié.
 
 Le mur ne peut pas être invoqué pour qu'il occupe le même espace qu'une créature ou celui d'un autre objet. Il doit toujours être appliqué sur un sol plat, même si vous pouvez en arranger des parties pour qu'il s'adapte à l'espace disponible.
 
-Un *Mur d’horlogerie* procure un abri (+4 bonus à la [CA](./CA.md), +2 bonus aux jets de [Réflexes](./Réflexes.md)) contre les attaques qui franchissent le mur.
+Un *Mur d’horlogerie* procure un abri (+4 bonus à la [[CA]], +2 bonus aux jets de [[Réflexes]]) contre les attaques qui franchissent le mur.
 
-Un *Mur d’horlogerie* fait 2,5 cm d'épaisseur tous les 4 [Niveaux de lanceur de sorts](./NLS.md). Vous pouvez doubler la zone occupée par le mur en divisant par 2 son épaisseur. Toutes les cases du mur ont 30 pv par tranche de 2,5 cm d'épaisseur et une [solidité](./solidité.md) de 9.
+Un *Mur d’horlogerie* fait 2,5 cm d'épaisseur tous les 4 [[NLS|Niveaux de lanceur de sorts]]. Vous pouvez doubler la zone occupée par le mur en divisant par 2 son épaisseur. Toutes les cases du mur ont 30 pv par tranche de 2,5 cm d'épaisseur et une [[solidité]] de 9.
 
-Une partie du mur qui est amenée à 0 pv est ébréchée. Si une créature tente de briser le mur avec une seule attaque, le [DD](./DD.md) pour le jet de [Force](./Force.md) est de 25 + 2 par tranche de 2,5 cm d'épaisseur. Si un attaquant fait un 20 naturel à son jet d'attaque (et seulement un 20 naturel, sans égard pour la zone de critique de l'arme) et confirme le critique (même si le mur est autrement immunisé aux jets critiques), cette section du mur est [cassée](./Brisé.md). Si elle est déjà cassée, cette section du mur est détruite à la place.
+Une partie du mur qui est amenée à 0 pv est ébréchée. Si une créature tente de briser le mur avec une seule attaque, le [[DD]] pour le jet de [[Force]] est de 25 + 2 par tranche de 2,5 cm d'épaisseur. Si un attaquant fait un 20 naturel à son jet d'attaque (et seulement un 20 naturel, sans égard pour la zone de critique de l'arme) et confirme le critique (même si le mur est autrement immunisé aux jets critiques), cette section du mur est [[brisé|cassée]]. Si elle est déjà cassée, cette section du mur est détruite à la place.
 
 Le bronze créé par ce sort n'est pas adapté pour la création d'autres objets (même pendant la durée limitée du sort) et ne peut pas être vendu.
 

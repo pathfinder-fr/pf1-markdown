@@ -10,7 +10,7 @@ LastModified: 2021-04-10 11:28
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 212*}
 - **1 600 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [psychopompe](./sous-type psychopompe.md)) de taille M, N
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type psychopompe|psychopompe]]) de taille M, N
 - **Init **+7 ; **Sens** vision dans le noir à 18 m, vision nocturne, perception spirituelle ; Perception +11
 - **Aura **d’apaisement des émotions (9 m, DD 17)
 (((Défense)))
@@ -23,13 +23,13 @@ LastModified: 2021-04-10 11:28
 - **Corps à corps** 2 coups, +6 (1d8)
 - **Attaques spéciales** baiser de la mort, domination du condamné
 - **Pouvoirs magiques** (**NLS **6 ; concentration +10)
-  - *À volonté* – [communication avec les morts](./Communication avec les morts.md), [invisibilité](./Invisibilité.md) (sur elle-même uniquement), [lumières dansantes](./Lumières dansantes.md), [perception de la mort](./Perception de la mort.md), [téléportation suprême](./Téléportation suprême.md) (elle-même plus 25 kg d’objets seulement)
-  - *3/jour* – [image accomplie](./Image accomplie.md) (DD 20)
+  - *À volonté* – [[communication avec les morts]], [[invisibilité]] (sur elle-même uniquement), [[lumières dansantes]], [[perception de la mort]], [[téléportation suprême]] (elle-même plus 25 kg d’objets seulement)
+  - *3/jour* – [[image accomplie]] (DD 20)
 (((Statistiques)))
 - **For **10, **Dex **17, **Con **16, **Int **13, **Sag **14, **Cha **19
 - **BBA** +6 ; **BMO **+6 ; **DMD **19
-- **Dons **[Expertise du combat](./Expertise du combat.md), [Science de l’initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Connaissances](./Connaissances.md) (plans) +10, [Connaissances](./Connaissances.md) (religion) +10, [Diplomatie](./Diplomatie.md) +13, [Discrétion](./Discrétion.md) +12, [Perception](./Perception.md) +11, [Premiers secours](./Premiers secours.md) +8, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +10 
+- **Dons **[[Expertise du combat]], [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]]
+- **Compétences **[[Connaissances]] (plans) +10, [[Connaissances]] (religion) +10, [[Diplomatie]] +13, [[Discrétion]] +12, [[Perception]] +11, [[Premiers secours]] +8, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +10 
 - **Langues **abyssal, céleste, commun, infernal ; don des langues, télépathie à 30 m
 - **Particularités **contact spectral
 (((Écologie)))
@@ -42,7 +42,7 @@ LastModified: 2021-04-10 11:28
 - **Domination du condamné (Sur).** Par une action simple, la catrina peut obliger un humanoïde situé à 9 mètres ou moins à effectuer un jet de Volonté DD 17 s’il ne veut pas être affecté par un effet similaire à celui produit par le sort domination. Ce pouvoir fonctionne exactement comme ce sort, mais la catrina peut seulement ordonner à la créature affectée de se rapprocher d’elle et de l’embrasser. Cette action n’est pas considérée comme un acte suicidaire ou contre-nature. Les dégâts subis par la cible (autres que ceux infligés par la catrina) mettent immédiatement fin à cet effet.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [psychopompes](./../Golarion/Psychopompes.md).***</li></ul>*Avec ses longs cheveux bouclés, sa robe de danseuse et son bouquet de fleurs, cette femme demeure séduisante, malgré son absence de chair.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Psychopompes]].***</li></ul>*Avec ses longs cheveux bouclés, sa robe de danseuse et son bouquet de fleurs, cette femme demeure séduisante, malgré son absence de chair.*
 
 Les catrinas accueillent les morts dans l’après-vie et font leur possible pour atténuer le choc et la terreur vécus par les mortels qui n’acceptent pas leur mort ou continuent de pleurer sur leur sort. Les catrinas n’adhèrent pas aux thèmes et aux couleurs funéraires que portent la plupart des autres psychopompes. À la place, elles portent des robes aux teintes festives et s’entourent de lumière et de couleurs pour dissiper en partie la tristesse de la mort. Toutefois, elles ne camouflent pas leur corps squelettique, quelles que soient les dorures dont elles se parent au moment de leur intervention, car elles ne cherchent pas à dissimuler la finalité de la mort.
 

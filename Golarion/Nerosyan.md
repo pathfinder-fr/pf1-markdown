@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Capitale de l'état croisé du [Mendev](./Mendev.md), Nerosyan est surtout dévolue à servir de fortification défensive contre les intrusions des hordes démoniaques venues de la [Plaie du Monde](./Plaie du monde.md).
+Capitale de l'état croisé du [[Mendev]], Nerosyan est surtout dévolue à servir de fortification défensive contre les intrusions des hordes démoniaques venues de la [[Plaie du Monde]].

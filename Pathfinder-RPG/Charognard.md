@@ -6,6 +6,6 @@ LastModified: 2015-10-27 20:45
 
 {s:MR}*Comme beaucoup de charognards, le tengu peut digérer des aliments qui rendraient malades des créatures plus fragiles.*
 
-**Conditions requises.** [Tengu](./Tengu (race).md).
+**Conditions requises.** [[tengu (race)|Tengu]].
 
-**Avantages.** Le tengu gagne un bonus racial de +2 à ses jets de sauvegarde contre les maladies et les poisons ingérés (mais pas contre les autres poisons). Il reçoit un bonus de +2 à ses tests de [Survie](./Survie.md) pour trouver de la nourriture pour lui même (et uniquement pour lui-même).
+**Avantages.** Le tengu gagne un bonus racial de +2 à ses jets de sauvegarde contre les maladies et les poisons ingérés (mais pas contre les autres poisons). Il reçoit un bonus de +2 à ses tests de [[Pathfinder-RPG.Survie|Survie]] pour trouver de la nourriture pour lui même (et uniquement pour lui-même).

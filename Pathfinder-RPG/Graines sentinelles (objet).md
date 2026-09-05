@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:UI}**Prix** 7 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Les graines sentinelles sont de petites perles en verre ovoïdes et creuses dont un côté est plat. Une sacoche spécialement conçue, contenant assez de graines pour couvrir huit cases de 1,5 m de côté, permet à l’utilisateur de répartir équitablement ces graines sur n’importe quelle surface dure, plate et majoritairement plane. Lorsqu’on marche dessus, les perles de verre se brise avec un bruit sec et audible ([Perception](./Perception.md) [DD](./DD.md) 10), avertissant de la présence d’intrus potentiels. Bien qu’elles soient faciles à remarquer en pleine lumière (Perception DD 10), les graines sentinelles sont plus difficiles à voir dans la pénombre et les ténèbres (Perception DD 20).
+Les graines sentinelles sont de petites perles en verre ovoïdes et creuses dont un côté est plat. Une sacoche spécialement conçue, contenant assez de graines pour couvrir huit cases de 1,5 m de côté, permet à l’utilisateur de répartir équitablement ces graines sur n’importe quelle surface dure, plate et majoritairement plane. Lorsqu’on marche dessus, les perles de verre se brise avec un bruit sec et audible ([[Perception]] [[DD]] 10), avertissant de la présence d’intrus potentiels. Bien qu’elles soient faciles à remarquer en pleine lumière (Perception DD 10), les graines sentinelles sont plus difficiles à voir dans la pénombre et les ténèbres (Perception DD 20).

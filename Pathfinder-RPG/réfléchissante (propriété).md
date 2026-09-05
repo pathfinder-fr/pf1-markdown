@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Réfléchissante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Réfléchissante](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Réfléchissante)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Réfléchissante]]

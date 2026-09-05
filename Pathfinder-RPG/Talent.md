@@ -8,9 +8,9 @@ Categories:
 
 *Le personnage choisit une compétence pour laquelle il sera particulièrement doué.*
 
-**Avantage.** Le personnage bénéficie d’un bonus de +3 à tous les tests concernant la [compétence](./Compétences.md) choisie. Si le personnage a 10 [rangs](./rang.md) ou plus dans l’une de ces [compétences](./Compétences.md), le bonus ajouté à cette [compétence](./Compétences.md) passe à +6.
+**Avantage.** Le personnage bénéficie d’un bonus de +3 à tous les tests concernant la [[compétences|compétence]] choisie. Si le personnage a 10 [[rang|rangs]] ou plus dans l’une de ces [[compétences]], le bonus ajouté à cette [[compétences|compétence]] passe à +6.
 
-**Spécial.** Ce [don](./Dons.md) peut être choisi plusieurs fois, mais ses effets ne se cumulent pas. Il s’applique à chaque fois à une nouvelle [compétence](./Compétences.md).
+**Spécial.** Ce [[dons|don]] peut être choisi plusieurs fois, mais ses effets ne se cumulent pas. Il s’applique à chaque fois à une nouvelle [[compétences|compétence]].
 
 {s:CMy}
 ### Version mythique
@@ -20,4 +20,4 @@ Categories:
 
 **Avantage.** Le personnage peut toujours faire 10 ou 20 aux tests de la compétence concernée par le don Talent, même s’il est menacé ou ne peut pas prendre son temps.
 
-**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un don de Talent [non-mythique](./non-mythique.md) différent.
+**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas mais chaque fois qu’il sélectionne ce don, il applique son effet à un don de Talent [[non-mythique]] différent.

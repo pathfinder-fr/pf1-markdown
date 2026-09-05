@@ -12,45 +12,45 @@ LastModified: 2021-04-01 22:43
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDtexte|*Source : Campagnes mythiques p.205*}
 {s:BDtexte|**PX** 102 400}
-{s:BDtexte|[Liche](./Liche, archétype.md) [humaine](./Humain.md), [prêtre](./Prêtre.md) du [dieu-diable des contrats](./../Golarion/Asmodéus.md) 13}
-{s:BDtexte|[Mort-vivant](./type Mort-vivant.md) ([humanoïde altéré](./sous-type altéré.md), [humain](./sous-type humain.md), [mythique](./sous-type mythique.md)) de taille M, LM}
-{s:BDtexte|**Init** +13<sup>M</sup> ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, perception des sorts ; [Perception](./Perception.md) +29}
-{s:BDtexte|**Aura** [terreur](./Terreur (capacité).md) (18 m, DD 28)}
+{s:BDtexte|[[Liche, archétype|Liche]] [[Humain|humaine]], [[Prêtre]] du [[Golarion.Asmodéus|dieu-diable des contrats]] 13}
+{s:BDtexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type Altéré|humanoïde altéré]], [[sous-type humain|humain]], [[sous-type mythique|mythique]]) de taille M, LM}
+{s:BDtexte|**Init** +13<sup>M</sup> ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, perception des sorts ; [[Perception]] +29}
+{s:BDtexte|**Aura** [[Terreur (capacité)|terreur]] (18 m, DD 28)}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 36, contact 14, pris au dépourvu 34 (+7 armure, +2 Dex, +15 naturelle, +2 parade)}
 {s:BDtexte|**pv** 209 (13d8+147)}
 {s:BDtexte|**Réf** +9, **Vig** +16, **Vol** +21}
-{s:BDtexte|**Capacités défensives** paralysie insidieuse, [résistance à la canalisation](./Résistance à la canalisation (capacité).md) +8 ; **RD** 15/contondant et [épique](./RDépique.md) et magique ; **Immunités** froid, électricité, [traits des morts-vivants](./Traits des morts-vivants (capacité).md) ; **RM** 32}
+{s:BDtexte|**Capacités défensives** paralysie insidieuse, [[Résistance à la canalisation (capacité)|résistance à la canalisation]] +8 ; **RD** 15/contondant et [[RDépique|épique]] et magique ; **Immunités** froid, électricité, [[Traits des morts-vivants (capacité)|traits des morts-vivants]] ; **RM** 32}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 9 m}
 {s:BDtexte|**Corps à corps** masse d’armes lourde +1, +9/+4 (1d8) et contact, +3 (1d8+6 plus contact paralysant)}
-{s:BDtexte|**Attaques spéciales** [canalisation d’énergie négative](./Prêtre.md#CANALISATIONDENERGIE) (10/jour DD 23, 7d6), contact paralysant (DD 28), [faux maléfique](./Domaine du Mal.md) (6 rounds, 2/ jour), [main de l’acolyte](./Domaine de la Magie.md) (11/jour), [pouvoir mythique](./Pouvoir mythique (capacité).md) (7/jour, [montée en puissance](./Montée en puissance (capacité).md) +1d10), [sort inspiré](./Hiérophante Mythique.md#MONTEEENPUISSANCEDIVINE), sorts mythiques (2/jour)}
-{s:BDtexte|**Sorts de prêtres préparés** ([NLS](./NLS.md) 13 ; [concentration](./concentration.md) +21)}
-{s:BDsorts|7e — *[blasphème](./Blasphème.md)*<sup>D</sup> (DD 25), *[destruction](./sort destruction.md)* (DD 27), *[forme éthérée](./Forme éthérée.md)*}
-{s:BDsorts|6e — *[barrière de lames](./Barrière de lames.md)*<sup>M</sup> (DD 24), *[mise à mal](./Mise à mal.md)*<sup>M</sup> (2, DD 26), *[zone d’antimagie](./Zone dantimagie.md)*<sup>D</sup>}
-{s:BDsorts|5e — *[colonne de feu](./Colonne de feu.md)*<sup>M</sup> (DD 23), *[rejet du Bien](./Rejet du Bien.md)*<sup>D</sup>, *[exécution](./Exécution.md)* (2, DD 25), *[injonction suprême](./Injonction suprême.md)* (DD 23)}
-{s:BDsorts|4e — *[empoisonnement](./Empoisonnement.md)* (DD 24), *[immunité contre les sorts](./Immunité contre les sorts.md)*, *[liberté de mouvement](./Liberté de mouvement.md)*, *[marteau du Chaos](./Marteau du chaos.md)*<sup>M</sup> (DD 22), *[ténèbres maudites](./Ténèbres maudites.md)*<sup>D</sup>, *[ténèbres maudites](./Ténèbres maudites.md)*<sup>D, M</sup> (2, DD 22)}
-{s:BDsorts|3e — *[contagion](./Contagion.md)*<sup>M</sup> (DD 23), *[dissipation de la magie](./Dissipation de la magie.md)*<sup>D</sup>, *[fusion dans la pierre](./Fusion dans la pierre.md)*, *[malédiction](./sort Malédiction.md)* (2, DD 23), *[négation de l’invisibilité](./Négation de linvisibilité.md)*, *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*}
-{s:BDsorts|2e — *[apaisement des émotions](./Apaisement des émotions.md)* (DD 20), *[arme alignée](./Arme alignée.md)*<sup>D</sup> (Mal uniquement), *[arme spirituelle](./Arme spirituelle.md)*<sup>M</sup>, *[immobilisation de personne](./Immobilisation de personne.md)* (DD 20), *[profanation](./Profanation.md)*, *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, *[ténèbres](./Ténèbres.md)*}
-{s:BDsorts|1er — *[bouclier entropique](./Bouclier entropique.md)*, *[brume de dissimulation](./Brume de dissimulation.md)* (2), *[frayeur](./Frayeur.md)* (DD 21), *[identification](./Identification.md)*, *[imprécation](./Imprécation.md)* (DD 19), *[perception de la mort](./Perception de la mort.md)*}
-{s:BDsorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[purification de nourriture et d'eau](./Purification de nourriture et deau.md)*, *[saignement](./sort Saignement.md)* (DD 20)}
-{s:BDsorts|**D** [sort de domaine](./Prêtre.md#DOMAINES) ; **Domaines** [Mal](./Domaine du Mal.md), [Magie](./Domaine de la Magie.md) ; **M** [sort mythique](./Sorts mythiques.md)}
+{s:BDtexte|**Attaques spéciales** [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie négative]] (10/jour DD 23, 7d6), contact paralysant (DD 28), [[Domaine du Mal|faux maléfique]] (6 rounds, 2/ jour), [[Domaine de la Magie|main de l’acolyte]] (11/jour), [[Pouvoir mythique (capacité)|pouvoir mythique]] (7/jour, [[Montée en puissance (capacité)|montée en puissance]] +1d10), [[Hiérophante mythique#MONTEEENPUISSANCEDIVINE|sort inspiré]], sorts mythiques (2/jour)}
+{s:BDtexte|**Sorts de prêtres préparés** ([[NLS]] 13 ; [[concentration]] +21)}
+{s:BDsorts|7e — *[[blasphème]]*<sup>D</sup> (DD 25), *[[sort destruction|destruction]]* (DD 27), *[[forme éthérée]]*}
+{s:BDsorts|6e — *[[barrière de lames]]*<sup>M</sup> (DD 24), *[[mise à mal]]*<sup>M</sup> (2, DD 26), *[[zone dantimagie|zone d’antimagie]]*<sup>D</sup>}
+{s:BDsorts|5e — *[[colonne de feu]]*<sup>M</sup> (DD 23), *[[rejet du Bien]]*<sup>D</sup>, *[[exécution]]* (2, DD 25), *[[injonction suprême]]* (DD 23)}
+{s:BDsorts|4e — *[[empoisonnement]]* (DD 24), *[[immunité contre les sorts]]*, *[[liberté de mouvement]]*, *[[marteau du Chaos]]*<sup>M</sup> (DD 22), *[[ténèbres maudites]]*<sup>D</sup>, *[[ténèbres maudites]]*<sup>D, M</sup> (2, DD 22)}
+{s:BDsorts|3e — *[[contagion]]*<sup>M</sup> (DD 23), *[[dissipation de la magie]]*<sup>D</sup>, *[[fusion dans la pierre]]*, *[[sort malédiction|malédiction]]* (2, DD 23), *[[négation de linvisibilité|négation de l’invisibilité]]*, *[[protection contre les énergies destructives]]*}
+{s:BDsorts|2e — *[[apaisement des émotions]]* (DD 20), *[[arme alignée]]*<sup>D</sup> (Mal uniquement), *[[arme spirituelle]]*<sup>M</sup>, *[[immobilisation de personne]]* (DD 20), *[[profanation]]*, *[[résistance aux énergies destructives]]*, *[[ténèbres]]*}
+{s:BDsorts|1er — *[[bouclier entropique]]*, *[[brume de dissimulation]]* (2), *[[frayeur]]* (DD 21), *[[identification]]*, *[[imprécation]]* (DD 19), *[[perception de la mort]]*}
+{s:BDsorts|0 (à volonté) — *[[détection de la magie]]*, *[[lecture de la magie]]*, *[[purification de nourriture et deau|purification de nourriture et d'eau]]*, *[[sort saignement|saignement]]* (DD 20)}
+{s:BDsorts|**D** [[Prêtre#DOMAINES|sort de domaine]] ; **Domaines** [[Domaine du Mal|Mal]], [[Domaine de la Magie|Magie]] ; **M** [[Sorts mythiques|sort mythique]]}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 8, **Dex** 14, **Con** —, **Int** 15, **Sag** 26, **Cha** 20}
 {s:BDtexte|**BBA** +9, **BMO** +8, **DMD** 22}
-{s:BDtexte|**Dons** [Canalisation supplémentaire](./Canalisation supplémentaire.md), [Connaissances magiques mythiques](./Connaissances magiques mythiques (mythique).md)<sup>S</sup>, [Création d’objets merveilleux](./Création dobjets merveilleux.md), [École renforcée](./École renforcée.md) (nécromancie)<sup>M</sup>, [Magie de guerre](./Magie de guerre.md), [Robustesse](./Robustesse.md)<sup>M</sup>, [Science de l’initiative](./Science de linitiative.md)<sup>M</sup>, [Science de la canalisation](./Science de la canalisation.md)<sup>M</sup>, [Volonté de fer](./Volonté de fer.md)}
-{s:BDtexte|**Compétences** [Art de la magie](./Art de la magie.md) +26, [Connaissances](./Connaissances.md) (religion) +18, [Discrétion](./Discrétion.md) +9, [Intimidation](./Intimidation.md) +18, [Perception](./Perception.md) +29, [Premiers secours](./Premiers secours.md) +16, [Psychologie](./Psychologie.md) +27 ; **Modificateurs raciaux** +8 en Perception, +8 en Psychologie, +8 en Art de la magie, +8 en Discrétion}
+{s:BDtexte|**Dons** [[Canalisation supplémentaire]], [[Connaissances magiques mythiques (mythique)|Connaissances magiques mythiques]]<sup>S</sup>, [[Création dobjets merveilleux|Création d’objets merveilleux]], [[École renforcée]] (nécromancie)<sup>M</sup>, [[Magie de guerre]], [[Robustesse]]<sup>M</sup>, [[Science de linitiative|Science de l’initiative]]<sup>M</sup>, [[Science de la canalisation]]<sup>M</sup>, [[Volonté de fer]]}
+{s:BDtexte|**Compétences** [[Art de la magie]] +26, [[Connaissances]] (religion) +18, [[Discrétion]] +9, [[Intimidation]] +18, [[Perception]] +29, [[Premiers secours]] +16, [[Psychologie]] +27 ; **Modificateurs raciaux** +8 en Perception, +8 en Psychologie, +8 en Art de la magie, +8 en Discrétion}
 {s:BDtexte|**Langues** abyssal, commun}
 {s:BDtexte|**Particularités** phylactère mythique, reconstruction}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** tous}
 {s:BDtexte|**Organisation sociale** solitaire}
-{s:BDtexte|**Trésor** équipement de PNJ (potions d’*[invisibilité](./Invisibilité.md)* <nowiki>[</nowiki>2<nowiki>]</nowiki>, *[chemise de mailles](./chemise de mailles (armure).md) +3*, *[masse d’armes lourde](./masse darmes lourde (arme).md) +1*, *[amulette d’armure naturelle +3](./Amulette darmure naturelle.md)*, *[ceinturon de dextérité du chat +2](./Ceinturon de dextérité du chat.md)*, *[cape de résistance +3](./Cape de résistance.md)*, *[bandeau de prouesse mentale +4](./Bandeau de prouesse mentale.md)* <nowiki>[</nowiki>Sag, Cha<nowiki>]</nowiki>, *[anneau de protection +2](./Anneau de protection.md)*, autre trésor)}
+{s:BDtexte|**Trésor** équipement de PNJ (potions d’*[[invisibilité]]* <nowiki>[[</nowiki>2<nowiki>]]</nowiki>, *[[chemise de mailles (armure)|chemise de mailles]] +3*, *[[masse darmes lourde (arme)|masse d’armes lourde]] +1*, *[[Amulette darmure naturelle|amulette d’armure naturelle +3]]*, *[[Ceinturon de dextérité du chat|ceinturon de dextérité du chat +2]]*, *[[Cape de résistance|cape de résistance +3]]*, *[[Bandeau de prouesse mentale|bandeau de prouesse mentale +4]]* <nowiki>[[</nowiki>Sag, Cha<nowiki>]]</nowiki>, *[[Anneau de protection|anneau de protection +2]]*, autre trésor)}
 </div>
 </td>
 <td>
 <div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Liche](./Liche, archétype.md).***</li><li>***Voir l'archétype [Liche mythique](./Liche mythique, archétype.md).***</li></ul>*Cet humain mort-vivant en armure manie une masse d’armes lourde et porte les attributs d’un adorateur du diable.*
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Liche, archétype|Liche]].***</li><li>***Voir l'archétype [[Liche mythique, archétype|Liche mythique]].***</li></ul>*Cet humain mort-vivant en armure manie une masse d’armes lourde et porte les attributs d’un adorateur du diable.*
 
 
 La liche mythique est un lanceur de sorts mort-vivant qui a renoncé à ses aptitudes de voie mythique en échange de pouvoirs qui préservent son existence et améliorent sa puissance surnaturelle.

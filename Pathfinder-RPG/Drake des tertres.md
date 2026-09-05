@@ -10,7 +10,7 @@ LastModified: 2021-04-05 14:08
 {s:pucem|Dragon|Collines|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 89*}
 - ** 3 200 PX**
-- [Dragon](./type Dragon.md) de taille G, LM
+- [[type dragon|Dragon]] de taille G, LM
 - **Init **+1 ; **Sens **vision dans le noir 18 m, vision nocturne ; Perception +11
 (((Défense)))
 - **CA **20, contact 10, pris au dépourvu 19 (Dex +1, naturelle +10, taille -1)
@@ -26,8 +26,8 @@ LastModified: 2021-04-05 14:08
 (((Statistiques)))
 - **For **22, **Dex **12, **Con **19,** Int** 10, **Sag **11, **Cha **15
 - **BBA **+8 ; **BMO **+15 ; **DMD **26
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Frappe décisive](./Frappe décisive.md), [Virage sur l’aile](./Virage sur laile.md)
-- **Compétences **[Art de la magie](./Art de la magie.md) +10, [Escalade](./Escalade.md) +20, [Connaissances](./Connaissances.md) (mystères) +10, [Connaissances](./Connaissances.md) (religion) +10, [Perception](./Perception.md) +11, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +13, [Vol](./Vol.md) +10,
+- **Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Frappe décisive]], [[Virage sur laile|Virage sur l’aile]]
+- **Compétences **[[Art de la magie]] +10, [[Escalade]] +20, [[Connaissances]] (mystères) +10, [[Connaissances]] (religion) +10, [[Perception]] +11, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +13, [[Vol]] +10,
 - **Langues **draconique
 - **Particularités** accélération soudaine
 (((Écologie)))
@@ -42,7 +42,7 @@ sauvegarde ainsi qu’aux tests de compétence et de caractéristique pendant 1d
 Tant que les poussières restent collées sur une créature, les effets d’invocation (guérison) qui l’affectent sont réduits de moitié. C’est un effet de malédiction. Le DD du jet de sauvegarde est basé sur la Constitution.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [drakes](./Drake.md).***</li></ul>*Cette créature reptilienne efflanquée est couverte de longues piques sur le torse, les pattes et même sur sa tête de chauve-souris. Elle possède deux larges ailes.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>*Cette créature reptilienne efflanquée est couverte de longues piques sur le torse, les pattes et même sur sa tête de chauve-souris. Elle possède deux larges ailes.*
 
 Les sages pensent que les drakes des tertres doivent leur silhouette eff lanquée et leurs ailes miteuses aux siècles passés dans des terres ravagées par la magie et des zones désolées et maudites. Ils affirment que la souillure des lieux s’est infiltrée dans leur chair, dans leurs os et dans chaque couvée et que cette déliquescence s’est ainsi transmise de génération en génération. Pourtant, même si les drakes des tertres ont une apparence quelque peu f létrie, ils sont aussi forts et aussi féroces que les autres drakes.
 

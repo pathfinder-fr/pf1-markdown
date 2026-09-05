@@ -7,4 +7,4 @@ Categories:
 - Qadira
 ---
 
-Rivière du Sud du [Qadira](./Qadira.md). La Meraz traverse le [Désert de Meraz](./Désert de Meraz.md) duquel elle tient son nom. Affluent du fleuve [Maharav](./Maharav.md), elle coule au nord de [Dimayen](./Dimayen.md).
+Rivière du Sud du [[Qadira]]. La Meraz traverse le [[Désert de Meraz]] duquel elle tient son nom. Affluent du fleuve [[Maharav]], elle coule au nord de [[Dimayen]].

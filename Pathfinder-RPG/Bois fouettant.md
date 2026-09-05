@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#BOISFOUETTANT
 ---
 
->>> [Matériaux spéciaux#BOISFOUETTANT](./Matériaux spéciaux.md#BOISFOUETTANT)
+>>> [[Matériaux spéciaux#BOISFOUETTANT]]

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions simples#ATTAQUECORPSACORPS
 ---
 
->>> [Actions simples#ATTAQUECORPSACORPS](./Actions simples.md#ATTAQUECORPSACORPS)
+>>> [[Actions simples#ATTAQUECORPSACORPS]]

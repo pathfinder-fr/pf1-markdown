@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Créature artificielle|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.221*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille TP, N (mais voir plus bas)}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille TP, N (mais voir plus bas)}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 13 (Dex +2, naturelle +1, taille +2)}
 {s:BDTexte|**pv** 19 (3d10+3)}
@@ -24,13 +24,13 @@ Categories:
 {s:BDTexte|**Corps à corps** dague, +3 (1d2-2/19-20)}
 {s:BDTexte|**Espace** 75 cm ; **Allonge**}
 {s:BDTexte|**Pouvoirs magiques** (NLS 3 ; concentration +2)}
-{s:BDSorts|3/jour — *[lumière](./Lumière.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[Ouverture/fermeture](./Ouverturefermeture.md)*, *[prestidigitation](./Prestidigitation.md)*}
-{s:BDSorts|1/jour — *[lévitation](./Lévitation.md)*, un pouvoir de plus en fonction de l’alignement}
+{s:BDSorts|3/jour — *[[lumière]]*, *[[manipulation à distance]]*, *[[Ouverturefermeture|Ouverture/fermeture]]*, *[[prestidigitation]]*}
+{s:BDSorts|1/jour — *[[lévitation]]*, un pouvoir de plus en fonction de l’alignement}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 7, **Dex** 14, **Con** —, **Int** 11, **Sag** 10, **Cha** 9}
 {s:BDTexte|**BBA** +3, **BMO** +3, **DMD** 11}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +13, [Perception](./Perception.md) +3}
+{s:BDTexte|**Dons** [[Robustesse]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +13, [[Perception]] +3}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** focalisateur d’âme, variante selon l’alignement}
 {s:BDSousTitre|Écologie}
@@ -42,15 +42,15 @@ Categories:
 {s:BDTexte|**Sensibilité aux effets mentaux (Ext).** L’état affaibli de l’âme des poupées des âmes les rend susceptibles aux effets mentaux malgré le fait qu’il s’agisse de créatures artificielles.}
 {s:BDTexte|**Variante selon l’alignement (Ext).** Les poupées des âmes ont au moins une composante Neutre dans leur alignement, mais elles peuvent être Bonnes, Chaotiques, Loyales ou Mauvaises. Selon leur alignement, elles possèdent un pouvoir magique utilisable une fois par jour, comme indiqué ci-dessous.
 
-• Chaotique Neutre : *[rage](./Rage.md)*
+• Chaotique Neutre : *[[rage]]*
 
-• Loyal Neutre : *[suggestion](./Suggestion.md)* (DD 12)
+• Loyal Neutre : *[[suggestion]]* (DD 12)
 
-• Neutre Bon : *[héroïsme](./Héroïsme.md)*
+• Neutre Bon : *[[héroïsme]]*
 
-• Neutre Mauvais : *[blessure grave](./Blessure grave.md)* (DD 12)
+• Neutre Mauvais : *[[blessure grave]]* (DD 12)
 
-• Neutre vrai : *[sommeil profond](./Sommeil profond.md)* (DD 12)}
+• Neutre vrai : *[[sommeil profond]]* (DD 12)}
 </div>
 </td><td><div>*Quand cette poupée prend vie et se met à bouger avec grâce, on peut voir ses yeux de verre briller de curiosité.*
 
@@ -66,6 +66,6 @@ n’empêche pas celle-ci de poursuivre son voyage vers l’après-vie. Le proc�
 
 **NLS** 7<sup>e</sup> ; **Prix** 4 300 po
 
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[création mineure](./Création mineure.md)*, *[mission](./Mission.md)*, *[possession](./Possession.md)* et *[simulacre de vie](./Simulacre de vie.md)*, l’âme d’une créature vivante qui doit mourir ou être tuée au cours du processus de création ; **Compétences** [Artisanat](./Artisanat.md) (sculpture) DD 20 ; **Coût** 2 300 po.
+**Conditions** [[Création de créatures artificielles]], *[[création mineure]]*, *[[mission]]*, *[[possession]]* et *[[simulacre de vie]]*, l’âme d’une créature vivante qui doit mourir ou être tuée au cours du processus de création ; **Compétences** [[Artisanat]] (sculpture) DD 20 ; **Coût** 2 300 po.
 </center>
 </div></td></tr></table>

@@ -10,11 +10,11 @@ LastModified: 2026-03-24 21:26
 <i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
 </div>
 <div class="contenumenuPF2">
-[Règles](./ADJ.md)
-[Personnages](./ADJ-PJ.md)
-[Pour les MJ](./ADJ-MJ.md)
-[FoundryVTT](./ADJ-FVTT.md)
-[Liens](./ADJ-Liens.md)
+[[ADJ|Règles]]
+[[ADJ-PJ|Personnages]]
+[[ADJ-MJ|Pour les MJ]]
+[[ADJ-FVTT|FoundryVTT]]
+[[ADJ-Liens|Liens]]
 </div>
 </div>
 
@@ -40,7 +40,7 @@ LastModified: 2026-03-24 21:26
 
 - Gabarits pour les effets de zone utilisables avec Roll20 par Elmios : [Fichier Zip](https://www.pathfinder-fr.org/Wiki/public/Upload/ADJ/PF2/GabaritsRoll20.zip)
 
-- Table de rencontres aléatoire au Mwangi par Jason Tondro (développeur Pathfinder et Starfinder) : [Lien](./rencontresKaava.md)
+- Table de rencontres aléatoire au Mwangi par Jason Tondro (développeur Pathfinder et Starfinder) : [[rencontresKaava|Lien]]
 
 
 ### Conversion de Pathfinder 1 vers Pathfinder 2
@@ -57,21 +57,21 @@ Quelques ressources disponibles :
 
 - Serveur Discord *A Series of Dice-Based Events* qui regroupe plusieurs fans anglophones qui s'attachent à la conversion en PF2 des campagnes et aventures PF1 (principalement les officielles) : [https://discord.gg/eEHAyHW](https://discord.gg/eEHAyHW)
 
-- Sur Pathfinder Infinite, on peut trouver quelques compilations reprenant le travail de conversion des fans du serveur Discord A Series of Dice-Based Events (la plupart du temps en "pay what you want") : [https://www.pathfinderinfinite.com/browse.php?filters=100112_100116_0_0_0_0&src=fid100116|Pathfinder Infinite]
+- Sur Pathfinder Infinite, on peut trouver quelques compilations reprenant le travail de conversion des fans du serveur Discord A Series of Dice-Based Events (la plupart du temps en "pay what you want") : [Pathfinder Infinite](https://www.pathfinderinfinite.com/browse.php?filters=100112_100116_0_0_0_0&src=fid100116)
 
-- Quelques conseils et une aide à la conversion des DD et sommes de monnaie en ligne : [https://pf2easy.com/index.php?id=9675&name=Converting%20Adventures%20from%201st%20Edition|Aide à la conversion sur Pf2easy]
+- Quelques conseils et une aide à la conversion des DD et sommes de monnaie en ligne : [Aide à la conversion sur Pf2easy](https://pf2easy.com/index.php?id=9675&name=Converting%20Adventures%20from%201st%20Edition)
 
 ### Boîte à outils du MJ
 
 **Ressources provenant du blog de Paizo :**
-- [Le couloir tombal](./CouloirTombal.md) (Piège 4)
-- [Perdu dans le labyrinthe](./PerduLabyrinthe.md)
-- [Kobold en approche !](./KoboldsEnApproche.md) (Rencontre modérée 4)
-- [Les masques des gardiens des secrets](./MasquesGardiensSecrets.md) (Objet 3)
-- [Urok, infiltrateur kobold](./UrokInfiltrateurKobold.md) (PNJ 9)
-- [Chéa, étudiante du déploiement des vents](./CheaDeploiementVents.md) (PNJ 9)
-- [L'élixir miraculeux de Phinelli](./Phinelli.md) (Rencontre difficile 3)
-- [Gardien divin de Brigh](./GardienDivin.md) (Créature 10 - monstre bonus pour le Bestiaire 3)
+- [[CouloirTombal|Le couloir tombal]] (Piège 4)
+- [[PerduLabyrinthe|Perdu dans le labyrinthe]]
+- [[KoboldsEnApproche|Kobold en approche !]] (Rencontre modérée 4)
+- [[MasquesGardiensSecrets|Les masques des gardiens des secrets]] (Objet 3)
+- [[UrokInfiltrateurKobold|Urok, infiltrateur kobold]] (PNJ 9)
+- [[CheaDeploiementVents|Chéa, étudiante du déploiement des vents]] (PNJ 9)
+- [[Phinelli|L'élixir miraculeux de Phinelli]] (Rencontre difficile 3)
+- [[GardienDivin|Gardien divin de Brigh]] (Créature 10 - monstre bonus pour le Bestiaire 3)
 
 **Autres ressources :**
-- [Feu-follet révisé](./BetterWillOWisp.md) (Créature 6 - par <nowiki>@Rulelord2e</nowiki> sur Reddit/Pathfinder 2
+- [[BetterWillOWisp|Feu-follet révisé]] (Créature 6 - par <nowiki>@Rulelord2e</nowiki> sur Reddit/Pathfinder 2

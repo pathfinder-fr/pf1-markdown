@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Branche de vie|{s:AE}}
-**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 15 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 1 kg
+**Aura** [[Invocation]] puissante ; **NLS** 15 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 1 kg
 (((Description)))
-Cette branche verdoyante émet une lueur vert pâle apaisante. Elle a été délicatement prélevée sur le premier arbre de Golarion et vibre d’énergie. Elle regorge de vie éternelle mais elle a besoin de temps pour transférer sa magie. Elle peut lancer *[guérison suprême](./Guérison suprême.md)* à volonté mais cela lui demande une heure. Une fois par jour, elle peut lancer *[résurrection](./Résurrection.md)* mais cela lui prend une journée entière.
+Cette branche verdoyante émet une lueur vert pâle apaisante. Elle a été délicatement prélevée sur le premier arbre de Golarion et vibre d’énergie. Elle regorge de vie éternelle mais elle a besoin de temps pour transférer sa magie. Elle peut lancer *[[guérison suprême]]* à volonté mais cela lui demande une heure. Une fois par jour, elle peut lancer *[[résurrection]]* mais cela lui prend une journée entière.
 
 La branche sert uniquement ceux qu’elle juge dignes. Elle disparaîtra au bout de 1d4 jours si elle reste en possession d’une créature autre que Bonne. Elle disparaîtra aussi, mais au bout de 2d8 jours, si elle se retrouve en possession d’une créature Bonne qui s’est associée à des créatures d’un autre alignement.
 (((Destruction)))

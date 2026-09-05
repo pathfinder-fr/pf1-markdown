@@ -10,8 +10,8 @@ LastModified: 2020-09-17 19:25
 {s:pucem|Animal|Plaines|Tempéré}
 {s:BDTexte|*Source : Kingmaker - Terres volées p.78*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 11, pris au dépourvu 11 (Dex +2, naturelle +2, taille -1)}
 {s:BDTexte|**pv** 25 (3d8+12)}
@@ -22,9 +22,9 @@ LastModified: 2020-09-17 19:25
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1.5 m (1 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 15, **Con** 18, **Int** 2, **Sag** 15, **Cha** 6}
-{s:BDTexte|**BBA** +2, **BMO** +6, **DMD** 18 (22 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./Course.md), [Endurance](./Endurance.md), [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +11, [Perception](./Perception.md) +8}
+{s:BDTexte|**BBA** +2, **BMO** +6, **DMD** 18 (22 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]], [[Endurance]], [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Natation]] +11, [[Perception]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines froides ou tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou troupeau (3-50)}
@@ -36,23 +36,23 @@ LastModified: 2020-09-17 19:25
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Antilope](./Antilope.md) || 1/2
+| [[Antilope]] || 1/2
 |-
-| [Auroch](./Auroch.md) || 2
+| [[Auroch]] || 2
 |-
-| [Bélier](./Bélier.md) || 1
+| [[Bélier]] || 1
 |-
-| [Bison](./Bison.md) || 4
+| [[Bison]] || 4
 |-
-| [Cerf](./Cerf.md) || 1
+| [[Cerf]] || 1
 |-
-| [Dromadaire](./Dromadaire.md) || 1
+| [[Dromadaire]] || 1
 |-
-| [Élan](./Élan.md) || 1
+| [[Élan]] || 1
 |-
-| [Élan des rivières](./Élan des rivières.md) || 2
+| [[Élan des rivières]] || 2
 |-
-| [Girafe](./Girafe.md) || 3
+| [[Girafe]] || 3
 |}
 </div>''Au garrot, cette bête majestueuse est aussi haute qu’un homme et sa
 tête est couronnée de bois à la fière ramure.''

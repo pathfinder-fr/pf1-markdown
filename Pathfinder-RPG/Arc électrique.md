@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[Électricité](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, G, M](./composantes.md) (fourrure et deux figurines de verre)</br>
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))</br>
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|Électricité]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[Composantes|V, G, M]] (fourrure et deux figurines de verre)</br>
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])</br>
 **Cible**  deux créatures ou objets distants de moins de 18 m (12 {s:c})</br>
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)</br>
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) pour [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui (voir texte)
+**Durée** [[présentation des sorts#DUREE|instantanée]]</br>
+**Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui (voir texte)
 
-Le personnage génère un arc électrique entre deux cibles. Cet arc inflige 1d6 points de dégâts d’électricité par [niveau de lanceur de sorts](./NLS.md) (15d6 au maximum) aux deux cibles et à toute créature qui se trouve entre. Le sort échoue s’il n’y a pas de ligne d’effet entre les deux cibles. L’*arc électrique* enflamme les combustibles et abîme les objets qui se trouvent sur son chemin. Il peut faire fondre les métaux avec un point de fusion très bas comme le plomb, l’or, le cuivre, l’argent ou le bronze.
+Le personnage génère un arc électrique entre deux cibles. Cet arc inflige 1d6 points de dégâts d’électricité par [[NLS|niveau de lanceur de sorts]] (15d6 au maximum) aux deux cibles et à toute créature qui se trouve entre. Le sort échoue s’il n’y a pas de ligne d’effet entre les deux cibles. L’*arc électrique* enflamme les combustibles et abîme les objets qui se trouvent sur son chemin. Il peut faire fondre les métaux avec un point de fusion très bas comme le plomb, l’or, le cuivre, l’argent ou le bronze.
 
 ### Mythique
 {s:CMy}
-Les dégâts infligés s’élèvent à 1d8 points de dégâts d’électricité par [niveau de lanceur de sorts](./NLS.md) (15d8 maximum). Une cible qui rate son jet de sauvegarde est aveuglée pendant un round par l’éclat soudain produit par le sort et assourdie par le fracas du tonnerre pendant 1d4 rounds.
+Les dégâts infligés s’élèvent à 1d8 points de dégâts d’électricité par [[NLS|niveau de lanceur de sorts]] (15d8 maximum). Une cible qui rate son jet de sauvegarde est aveuglée pendant un round par l’éclat soudain produit par le sort et assourdie par le fracas du tonnerre pendant 1d4 rounds.
 
-**[Amplifié](./Amplifié.md) (6ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), la distance entre les deux cibles peut être égale ou inférieure à 36 mètres, l’éclair peut effectuer un unique virage de 90 degrés pour relier les cibles et les dégâts électriques ignorent les résistances et les immunités à l’électricité.
+**[[Amplifié]] (6ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], la distance entre les deux cibles peut être égale ou inférieure à 36 mètres, l’éclair peut effectuer un unique virage de 90 degrés pour relier les cibles et les dégâts électriques ignorent les résistances et les immunités à l’électricité.

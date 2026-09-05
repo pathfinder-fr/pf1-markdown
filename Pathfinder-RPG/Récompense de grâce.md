@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Quand le personnage fait une imposition des mains, il est parcouru de vagues d’énergie divine qui lui accordent une grâce. *
 
-**Condition.** [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS)
+**Condition.** [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]]
 
-**Avantage.** À chaque fois que le personnage fait une [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS), il gagne un bonus sacré de +1 à tous les [jets d’attaque](./jet dattaque.md) pendant 1 round.
+**Avantage.** À chaque fois que le personnage fait une [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]], il gagne un bonus sacré de +1 à tous les [[jet dattaque|jets d’attaque]] pendant 1 round.

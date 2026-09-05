@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés p.178*}
 - XP 12 800
-- [Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, NM
+- [[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille M, NM
 - **Init **+9 ; **Sens** vision dans le noir à 18m, détection du bien, détection des pensées ; Perception +20
 (((Défense)))
 - **CA** 25, contact 16, pris au dépourvu 19 (Dex +5, esquive +1, naturelle +9)
@@ -26,16 +26,16 @@ Categories:
 - 2 griffes, +19 (1d6+4)
 - **Attaques spéciales** objet de désir, baiser débilitant
 - **Pouvoirs magiques** (NLS 14 ; concentration +20)
-  - Permanent - *[détection du Bien](./Détection du Bien.md)*, *[détection de pensées](./Détection de pensées.md)*, *[don des langues](./Don des langues.md)*
-  - À volonté – *[téléportation suprême](./Téléportation suprême.md)* (personnel plus 25 kg d’équipement
-maximum), *[mise à mort](./Mise à mort.md)* (DD 18), *[désir anormal](./Désir anormal.md)* (Voir l'art de la magie) (DD 18)
-  - 3/jour - *[profanation](./Profanation.md)*, *[désespoir foudroyant](./Désespoir foudroyant.md)* accéléré (DD20), *[énergie négative](./Énergie négative.md)*, *[suggestion](./Suggestion.md)* (DD19)
-  - 1/jour - *[modification de mémoire](./Modification de mémoire.md)* (DD20), *[mépris absolu](./Mépris absolu.md)* (Voir l'art de la magie) (DD 20), *[convocation](./convocation.md) (niveau 4 : 1d3 [ceustodaémon](./Ceustodaémon.md), 35%) *
+  - Permanent - *[[détection du Bien]]*, *[[détection de pensées]]*, *[[don des langues]]*
+  - À volonté – *[[téléportation suprême]]* (personnel plus 25 kg d’équipement
+maximum), *[[mise à mort]]* (DD 18), *[[désir anormal]]* (Voir l'art de la magie) (DD 18)
+  - 3/jour - *[[profanation]]*, *[[désespoir foudroyant]]* accéléré (DD20), *[[énergie négative]]*, *[[suggestion]]* (DD19)
+  - 1/jour - *[[modification de mémoire]]* (DD20), *[[mépris absolu]]* (Voir l'art de la magie) (DD 20), *[[convocation]] (niveau 4 : 1d3 [[ceustodaémon]], 35%) *
 (((Statistiques)))
 - **For** 18, **Dex** 21, **Con** 21, **Int** 19, **Sag** 16, **Cha** 22
 - **BBA **+14 ; **BMO **+19; **DMD** 34
-- **Dons** [Manoeuvres agiles](./Manoeuvres-agiles.md), [Fourberie](./Fourberie.md), [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (désespoir foudroyant), [Attaque en finesse](./Attaque en finesse.md), [Talent](./Talent.md) (Bluff)
-- **Compétences** [Bluff](./Bluff.md) +33, [Diplomatie](./Diplomatie.md) +23, [Déguisement](./Déguisement.md) +24, [Intimidation](./Intimidation.md) +23, [Connaissances](./Connaissances.md) (folklore local) +21, [Connaissances](./Connaissances.md) (plans) +21, [Escamotage](./Escamotage.md) +22, [Discrétion](./Discrétion.md) +22,  [Perception](./Perception.md) +20, [Psychologie](./Psychologie.md) +20
+- **Dons** [[Manoeuvres agiles]], [[Fourberie]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Pouvoir magique rapide]] (désespoir foudroyant), [[Attaque en finesse]], [[Talent]] (Bluff)
+- **Compétences** [[Bluff]] +33, [[Diplomatie]] +23, [[Déguisement]] +24, [[Intimidation]] +23, [[Connaissances]] (folklore local) +21, [[Connaissances]] (plans) +21, [[Escamotage]] +22, [[Discrétion]] +22,  [[Perception]] +20, [[Psychologie]] +20
 - **Langues** abyssal, draconique, infernal; télépathie 30m ; don des langues
 (((Écologie)))
 - **Environnement** quelconque (Abaddon)
@@ -46,7 +46,7 @@ maximum), *[mise à mort](./Mise à mort.md)* (DD 18), *[désir anormal](./Dési
 - **Baiser débilitant (Sur)**Un érodaémon peut grâce à son baiser plonger un mortel dans un état d’obsession. Il doit agripper une créature non consentante avant d’utiliser ce pouvoir. Quand le fiélon embrasse la cible, celle-ci doit réussir un jet de Volonté DD 23 ou éprouver une obsession pour l’érodaémon, de laquelle ce dernier se nourrit. Pour chaque round où elle se trouve à plus de 10 mètres du fiélon, elle doit faire un nouveau jet de Volonté DD 23. En cas d’échec, la douleur aiguë de son absence inflige une diminution permanente de 1 point de Charisme. Réussir le jet de sauvegarde deux fois d’affilée met un terme aux effets de ce pouvoir, tout comme les sorts du type dissipation de la magie et annulation d’enchantement. Le DD du jet de sauvegarde est basé sur le Charisme.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 ''Ce fiélon apparaît sous les traits d’une mince demi-elfe aux longs
 cheveux portant une paire de fines cornes noires de bélier. Elle porte
 une tenue légère et sa peau teintée de bleu est couverte d’un entrelacs

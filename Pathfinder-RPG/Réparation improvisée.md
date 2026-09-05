@@ -16,18 +16,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 1, [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (une goutte de résine)  
+**Composantes** [[Composantes|V, G, F]] (une goutte de résine)  
 
 **Portée** contact  
 
-**Cible** un objet brisé d'un maximum de 1 kg/[niveau](./niveau.md)  
+**Cible** un objet brisé d'un maximum de 1 kg/[[niveau]]  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), [objet](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), [objet](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], [[Présentation des sorts#JETSDESAUVEGARDE|objet]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], [[Présentation des sorts#JETSDESAUVEGARDE|objet]])
 
-Quand le personnage lance ce sort, une force spectrale vient consolider une arme et la débarrasse de la condition [brisée](./Brisé.md) pour une courte période. Tant que l’objet [brisé](./Brisé.md) se trouve sous cette forme, il ne souffre pas de sa condition et on le considère comme intact. En revanche, il ne récupère pas de points de vie et, s’il subit des dégâts supplémentaires, il risque de se faire détruire.
+Quand le personnage lance ce sort, une force spectrale vient consolider une arme et la débarrasse de la condition [[brisé|brisée]] pour une courte période. Tant que l’objet [[brisé]] se trouve sous cette forme, il ne souffre pas de sa condition et on le considère comme intact. En revanche, il ne récupère pas de points de vie et, s’il subit des dégâts supplémentaires, il risque de se faire détruire.

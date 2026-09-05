@@ -12,21 +12,21 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Dru](./Druide.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
 **Durée** 24 heures  
 
 
-Le personnage ignore les inconvénients liés à son [âge moyen](./État civil et mensurations.md#AGE).
+Le personnage ignore les inconvénients liés à son [[état civil et mensurations#AGE|âge moyen]].
 
-Il n’a pas l’air plus jeune et le sort ne l’empêche pas de mourir de vieillesse mais, tant qu’il fait effet, il ignore les malus de -1 à la [force](./Force.md), la [dextérité](./Dextérité.md) et la [constitution](./Constitution.md) qui apparaissent avec l’âge moyen.
+Il n’a pas l’air plus jeune et le sort ne l’empêche pas de mourir de vieillesse mais, tant qu’il fait effet, il ignore les malus de -1 à la [[force]], la [[dextérité]] et la [[constitution]] qui apparaissent avec l’âge moyen.
 
-En revanche il conserve les bonus d’[intelligence](./Intelligence.md), de [sagesse](./Sagesse.md) et de [charisme](./Charisme.md) liés, tant que le sort fait effet. Les malus supplémentaires qui viennent avec l’âge avancé et vénérable s’appliquent en totalité.
+En revanche il conserve les bonus d’[[intelligence]], de [[sagesse]] et de [[charisme]] liés, tant que le sort fait effet. Les malus supplémentaires qui viennent avec l’âge avancé et vénérable s’appliquent en totalité.

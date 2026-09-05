@@ -9,13 +9,13 @@ LastModified: 2021-02-27 02:57
 
 <div class="BD">
 {s:BDTitre|Monocle du Marqueur{s:HotS}}
-**Auras** : [Divination](./Divination.md) faible   ; **NLS** : 3  ; **Prix** : 5600 po
+**Auras** : [[Divination]] faible   ; **NLS** : 3  ; **Prix** : 5600 po
 (((Caractéristiques)))
-Un anneau en or massif entoure cette lentille, en verre convexe, complexe. Trois fois par jour en tant qu'[action simple](./Action simple.md), le porteur peut tenter un jet d'estimation contre une créature à 12{s:c}/18m (DD= 10 + nombre de DV de la cible + mod de [Sagesse](./Sagesse.md) de la cible). Avec un jet réussi, le porteur sait exactement le montant d'argent que la créature porte, ainsi que le nombre d'objets de valeur (avec un prix supérieur à 20po) la cible porte (bien qu'elle ne sache pas quels objets et leurs valeurs exactes).
+Un anneau en or massif entoure cette lentille, en verre convexe, complexe. Trois fois par jour en tant qu'[[action simple]], le porteur peut tenter un jet d'estimation contre une créature à 12{s:c}/18m (DD= 10 + nombre de DV de la cible + mod de [[Sagesse]] de la cible). Avec un jet réussi, le porteur sait exactement le montant d'argent que la créature porte, ainsi que le nombre d'objets de valeur (avec un prix supérieur à 20po) la cible porte (bien qu'elle ne sache pas quels objets et leurs valeurs exactes).
 
-En plus, une fois par jour, le porteur d'un Monocle du Marqueur peut marquer une créature avec une attaque de contact au corps à corps, permettant à jusqu'à 3 alliés à moins de 6{s:c}/9m de traquer la créature pendant 30 minutes, comme si les alliés du porteur avaient le pouvoir d'[odorat](./odorat.md).
+En plus, une fois par jour, le porteur d'un Monocle du Marqueur peut marquer une créature avec une attaque de contact au corps à corps, permettant à jusqu'à 3 alliés à moins de 6{s:c}/9m de traquer la créature pendant 30 minutes, comme si les alliés du porteur avaient le pouvoir d'[[odorat]].
 
 (((Création)))
-[Création d’objets merveilleux](./Création dobjets merveilleux.md); [Localisaiton d'objet](./Localisation dobjet.md); [Piste olfactive](./Piste olfactive.md);
+[[Création dobjets merveilleux|Création d’objets merveilleux]]; [[Localisation dobjet|Localisaiton d'objet]]; [[Piste olfactive]];
 **Prix** : 2800 po
 </div>

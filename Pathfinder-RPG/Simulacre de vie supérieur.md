@@ -19,18 +19,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Alch](./Alchimiste.md) 4, [Cham](./Chaman.md) 4, [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Méd](./Médium.md) 3, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 4, [San](./Sanguin.md) 4, [Sor](./Sorcière.md) 4, [Spi](./Spirite.md) 4  
+**École** [[Nécromancie]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Chaman|Cham]] 4, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une goutte de sang)  
+**Composantes** [[composantes|V, G, M]] (une goutte de sang)  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** 1 heure/[niveau](./niveau.md) ou jusqu’à utilisation (voir description)
+**Durée** 1 heure/[[niveau]] ou jusqu’à utilisation (voir description)
 
-Le personnage manipule les pouvoirs de la mort pour échapper à cette dernière dans une certaine mesure. Tant que ce sort fait effet, il gagne un nombre de [points de vie temporaires](./points de vie temporaires.md) égal à 2d10 +1 par [niveau de lanceur de sorts](./NLS.md) (+20 maximum). Les effets de ce sort ne se cumulent pas avec ceux de *[simulacre de vie](./Simulacre de vie.md)*.
+Le personnage manipule les pouvoirs de la mort pour échapper à cette dernière dans une certaine mesure. Tant que ce sort fait effet, il gagne un nombre de [[points de vie temporaires]] égal à 2d10 +1 par [[NLS|niveau de lanceur de sorts]] (+20 maximum). Les effets de ce sort ne se cumulent pas avec ceux de *[[simulacre de vie]]*.
 
-(((Ce sort fonctionne comme *[simulacre de vie](./Simulacre de vie.md)* mais le personnage gagne un nombre de points de vie temporaires égal à 2d10 + 1 point de vie par [niveau de lanceur de sorts](./NLS.md) (+20 au maximum). Les effets de ce sort ne se cumulent pas avec ceux de *[simulacre de vie](./Simulacre de vie.md)*.)))
+(((Ce sort fonctionne comme *[[simulacre de vie]]* mais le personnage gagne un nombre de points de vie temporaires égal à 2d10 + 1 point de vie par [[NLS|niveau de lanceur de sorts]] (+20 au maximum). Les effets de ce sort ne se cumulent pas avec ceux de *[[simulacre de vie]]*.)))

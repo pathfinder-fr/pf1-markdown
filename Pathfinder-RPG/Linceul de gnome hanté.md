@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Les illusions du personnage s’étendent au point que les gens ont du mal à déterminer où il se trouve. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Cha](./Cha.md) 13, magie gnome (trait racial), [Gnome hanté](./Gnome hanté.md), [Assaut de gnome hanté](./Assaut de gnome hanté.md), 6 [rangs](./rang.md) en [Connaissances](./Connaissances.md) (mystères)
+**Conditions.** [[Cha]] 13, magie gnome (trait racial), [[Gnome hanté]], [[Assaut de gnome hanté]], 6 [[rang|rangs]] en [[Connaissances]] (mystères)
 
-**Avantage.** Le personnage gagne une nouvelle utilisation indépendante de pouvoir de gnome, comme celle d’[Assaut de gnome hanté](./Assaut de gnome hanté.md). De plus, tant qu’il est sous l’effet de l’[aspect de fée hantée](./Aspect de fée hantée.md), il bénéficie d’un [camouflage](./camouflage.md) (20% de chances de rater) contre un adversaire jusqu’à ce que ce dernier parvienne à lui infliger des dégâts.
+**Avantage.** Le personnage gagne une nouvelle utilisation indépendante de pouvoir de gnome, comme celle d’[[Assaut de gnome hanté]]. De plus, tant qu’il est sous l’effet de l’[[aspect de fée hantée]], il bénéficie d’un [[camouflage]] (20% de chances de rater) contre un adversaire jusqu’à ce que ce dernier parvienne à lui infliger des dégâts.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand une créature rate le personnage à cause des chances de rater dues au Linceul de gnome hanté, le personnage peut dépenser 5 points d’endurance pour lui imposer un malus de –2 aux [jets d’attaque](./jet dattaque.md) effectués contre lui jusqu’à ce qu’elle parvienne à lui infliger des dégâts. Ce pouvoir ne se cumule pas avec lui-même.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand une créature rate le personnage à cause des chances de rater dues au Linceul de gnome hanté, le personnage peut dépenser 5 points d’endurance pour lui imposer un malus de –2 aux [[jet dattaque|jets d’attaque]] effectués contre lui jusqu’à ce qu’elle parvienne à lui infliger des dégâts. Ce pouvoir ne se cumule pas avec lui-même.

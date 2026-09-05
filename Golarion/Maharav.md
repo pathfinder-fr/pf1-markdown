@@ -7,4 +7,4 @@ Categories:
 - Qadira
 ---
 
-Fleuve du Sud du [Qadira](./Qadira.md). Il prend sa source au pied des [Montagnes Zho](./Montagnes Zho.md) et se jette dans la [Mer intérieure](./mer Intérieure.md) au creux de la baie formée par la péninsule de [Sedeq](./Sedeq.md). il a pour affluent la [Meraz](./Meraz.md).
+Fleuve du Sud du [[Qadira]]. Il prend sa source au pied des [[Montagnes Zho]] et se jette dans la [[Mer intérieure]] au creux de la baie formée par la péninsule de [[Sedeq]]. il a pour affluent la [[Meraz]].

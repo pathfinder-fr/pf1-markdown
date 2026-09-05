@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pc ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-La craie broyée, la farine et les autres matériaux en poudre sont très prisés par les aventuriers puisqu'ils permettent de repérer les créatures invisibles. Pour jeter un sac de poudre sur une case, il faut faire une attaque contre une [CA](./CA.md) de 5, qui révèle momentanément la position éventuelle d'une créature [invisible](./Invisible.md). Une méthode bien plus efficace consiste à répandre de la poudre sur une surface (ce qui prend une [action complexe](./Action complexe.md)) et de chercher des empreintes de pas.
+La craie broyée, la farine et les autres matériaux en poudre sont très prisés par les aventuriers puisqu'ils permettent de repérer les créatures invisibles. Pour jeter un sac de poudre sur une case, il faut faire une attaque contre une [[CA]] de 5, qui révèle momentanément la position éventuelle d'une créature [[invisible]]. Une méthode bien plus efficace consiste à répandre de la poudre sur une surface (ce qui prend une [[action complexe]]) et de chercher des empreintes de pas.

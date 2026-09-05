@@ -10,17 +10,17 @@ LastModified: 2026-05-07 12:01
 |- CLASS="titre"
 | Sceptres intermédiaires de faible puissance || Prix
 |- CLASS="premier"
-| [Sceptre de maléfices saisissants](./Temp objetsmagiques sceptres MCA.md#Saisissants) || 3 000 po
+| [[Temp objetsmagiques sceptres MCA#Saisissants|Sceptre de maléfices saisissants]] || 3 000 po
 |- CLASS="alt"
-| [Sceptre de maléfices interminables](./Temp objetsmagiques armures MCA.md#Interminables) || 3 000 po
+| [[Temp objetsmagiques armures MCA#Interminables|Sceptre de maléfices interminables]] || 3 000 po
 |-
-| [Sceptre de puissants maléfices](./Temp objetsmagiques armures MCA.md#Puissants) || 9 000 po
+| [[Temp objetsmagiques armures MCA#Puissants|Sceptre de puissants maléfices]] || 9 000 po
 |- CLASS="alt"
-| [Sceptre de maléfices voraces](./Temp objetsmagiques armures MCA.md#Voraces) || 9 000 po
+| [[Temp objetsmagiques armures MCA#Voraces|Sceptre de maléfices voraces]] || 9 000 po
 |- CLASS="titre"
 | Sceptres majeurs de faible puissance || Prix
 |- CLASS="premier alt"
-| [Sceptre de maléfices soudains](./Temp objetsmagiques armures MCA.md#Soudains) || 35 000 po
+| [[Temp objetsmagiques armures MCA#Soudains|Sceptre de maléfices soudains]] || 35 000 po
 |}
 </center>
 
@@ -40,7 +40,7 @@ le réussit (comme mauvais oeil), a toujours une durée de 1 round
 contre une cible qui réussit son jet, même s’il est rallongé par ce
 sceptre.
 (((Fabrication))) **Coût** 1 500 po
-**Conditions**[Création de sceptres magiques](./Création de sceptres magiques.md), [Extension de durée](./Extension de durée.md), le créateur doit
+**Conditions**[[Création de sceptres magiques]], [[Extension de durée]], le créateur doit
 posséder le pouvoir de classe maléfice
 </div>
 
@@ -60,7 +60,7 @@ du sceptre pour doubler la portée de son
 maléfice, à partir du moment où cette
 portée se mesure en mètres.
 (((Fabrication))) **Coût** 1 500 po
-**Conditions**[Création de sceptres magiques](./Création de sceptres magiques.md), [Sort à allonge](./Sort-à-allonge.md), le créateur doit posséder
+**Conditions**[[Création de sceptres magiques]], [[Sort à allonge]], le créateur doit posséder
 le pouvoir de classe maléfice
 </div>
 
@@ -76,7 +76,7 @@ maléfice (mais pas un maléfice majeur ni un grand maléfice), il peut
 utiliser le pouvoir du sceptre pour activer le maléfice par une action
 rapide plutôt que par une action simple.
 (((Fabrication))) **Coût** 17 500 po
-**Conditions**[Création de sceptres magiques](./Création de sceptres magiques.md), [Incantation rapide](./Incantation rapide.md), le créateur doit
+**Conditions**[[Création de sceptres magiques]], [[Incantation rapide]], le créateur doit
 posséder le pouvoir de classe maléfice
 </div>
 
@@ -95,7 +95,7 @@ Le maléfice doit normalement viser
 une seule créature dans un rayon minimal
 de 9 mètres.
 (((Fabrication))) **Coût** 4 500 po
-**Conditions**[Création de sceptres magiques](./Création de sceptres magiques.md), [Répartition des maléfices](./Répartition des maléfices.md), le créateur
+**Conditions**[[Création de sceptres magiques]], [[Répartition des maléfices]], le créateur
 doit posséder le pouvoir de classe maléfice
 </div>
 
@@ -113,6 +113,6 @@ maléfice doit soigner ou infliger directement les dégâts, ou il doit
 soumettre la cible à quelque forme d’attaque ou d’aura infligeant
 des dégâts.
 (((Fabrication))) **Coût** 4 500 po
-**Conditions**[Création de sceptres magiques](./Création de sceptres magiques.md), [Quintessence des sorts](./Quintessence des sorts.md), le créateur
+**Conditions**[[Création de sceptres magiques]], [[Quintessence des sorts]], le créateur
 doit posséder le pouvoir de classe maléfice
 </div>

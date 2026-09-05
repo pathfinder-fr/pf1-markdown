@@ -4,127 +4,127 @@ Title: Familier supérieur
 LastModified: 2026-07-06 17:41
 ---
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#18) Familiers supérieurs : Il y a plusieurs façons pour les personnages autres que les lanceurs de sorts profanes pour obtenir des familiers, et certaines de ces options offrent même Familier supérieur comme don supplémentaire, mais techniquement chaque option de Familier supérieur nécessite un certain niveau de lanceur de sorts profanes pour être sélectionnée. Cela signifie-t-il que les personnages non-profanes avec Familier supérieur ont une capacité inutile ? Comment ça fonctionne ? Si ça fonctionne, puis-je prendre un Familier supérieur comme une sorte de familier alternatif ou de familier temporaire comme le pantin des âmes de l’occultiste ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#18|→]] Familiers supérieurs : Il y a plusieurs façons pour les personnages autres que les lanceurs de sorts profanes pour obtenir des familiers, et certaines de ces options offrent même Familier supérieur comme don supplémentaire, mais techniquement chaque option de Familier supérieur nécessite un certain niveau de lanceur de sorts profanes pour être sélectionnée. Cela signifie-t-il que les personnages non-profanes avec Familier supérieur ont une capacité inutile ? Comment ça fonctionne ? Si ça fonctionne, puis-je prendre un Familier supérieur comme une sorte de familier alternatif ou de familier temporaire comme le pantin des âmes de l’occultiste ?***
 
-La description de <u>[Familier supérieur](./Familier supérieur.md)</u> a été écrite quand seuls les lanceurs de sorts profanes pouvaient obtenir des [familiers](./Familiers.md), et n'était pas suffisamment préparée aux futurs développements. À cette fin, pour savoir quels familiers supérieurs lui sont disponibles, un personnage peut toujours remplacer son « niveau de lanceur de sorts profanes » par le niveau effectif de magicien qu’il utilise afin de déterminer les capacités de son familier. En général, un personnage peut prendre des Familiers supérieurs dans le cadre de familiers alternatifs offerts par des classes comme l’[esprit animal](./Chaman.md#ESPRITANIMAL) du chaman, avec quelques exceptions : D’abord, les familiers temporaires comme le [pantin des âmes](./Écoles instrumentales.md#NECROMANCIEFOCALISATION) de l’occultiste ne peuvent pas devenir des familiers supérieurs grâce au don Familier supérieur. Ensuite, les [familiers tumeurs](./découvertes.md#FAMILIERTUMEUR), puisqu’ils sont des morceaux de chair avec la forme d’un animal, ne peuvent pas devenir des familiers supérieurs. Dans les autres cas, on traite Familier supérieur comme s’il s’agissait d’un archétype pour déterminer s’il se cumule avec d’autres options de familier : puisque les deux choses qu’il modifie par rapport à un familier normal sont sa capacité à parler aux animaux de son espèce et son changement de type, un personnage ne peut pas faire d’un familier qui change le type de la créature ou modifie/supprime sa capacité à parler aux animaux de son espèce un Familier supérieur.}*Ce don permet au personnage d’acquérir un puissant familier mais seulement quand il a la possibilité d’acquérir un nouveau familier ordinaire.*
+La description de <u>[[Familier supérieur]]</u> a été écrite quand seuls les lanceurs de sorts profanes pouvaient obtenir des [[Familiers]], et n'était pas suffisamment préparée aux futurs développements. À cette fin, pour savoir quels familiers supérieurs lui sont disponibles, un personnage peut toujours remplacer son « niveau de lanceur de sorts profanes » par le niveau effectif de magicien qu’il utilise afin de déterminer les capacités de son familier. En général, un personnage peut prendre des Familiers supérieurs dans le cadre de familiers alternatifs offerts par des classes comme l’[[Chaman#ESPRITANIMAL|esprit animal]] du chaman, avec quelques exceptions : D’abord, les familiers temporaires comme le [[Écoles instrumentales#NECROMANCIEFOCALISATION|pantin des âmes]] de l’occultiste ne peuvent pas devenir des familiers supérieurs grâce au don Familier supérieur. Ensuite, les [[Découvertes#FAMILIERTUMEUR|familiers tumeurs]], puisqu’ils sont des morceaux de chair avec la forme d’un animal, ne peuvent pas devenir des familiers supérieurs. Dans les autres cas, on traite Familier supérieur comme s’il s’agissait d’un archétype pour déterminer s’il se cumule avec d’autres options de familier : puisque les deux choses qu’il modifie par rapport à un familier normal sont sa capacité à parler aux animaux de son espèce et son changement de type, un personnage ne peut pas faire d’un familier qui change le type de la créature ou modifie/supprime sa capacité à parler aux animaux de son espèce un Familier supérieur.}*Ce don permet au personnage d’acquérir un puissant familier mais seulement quand il a la possibilité d’acquérir un nouveau familier ordinaire.*
 
-**Conditions.** Capacité à acquérir un nouveau [familier](./familier.md), [alignement](./Alignement.md) compatible, [niveau](./niveau.md) suffisant (voir plus bas).
+**Conditions.** Capacité à acquérir un nouveau [[familier]], [[alignement]] compatible, [[niveau]] suffisant (voir plus bas).
 
-**Avantage.** Quand le personnage choisit un nouveau [familier](./familier.md), il peut choisir l’une des créatures indiquées ci-après. Il peut choisir un familier dont l’[alignement](./Alignement.md) ne diffère pas du sien de plus d’un cran sur chaque axe (de Loyal à Chaotique et de Bon à Mauvais).
+**Avantage.** Quand le personnage choisit un nouveau [[familier]], il peut choisir l’une des créatures indiquées ci-après. Il peut choisir un familier dont l’[[alignement]] ne diffère pas du sien de plus d’un cran sur chaque axe (de Loyal à Chaotique et de Bon à Mauvais).
 
-Les familiers supérieurs obéissent aux règles des [familiers](./familier.md) ordinaires à deux exceptions près : si le type de la créature n’est pas « [animal](./type Animal.md) » il ne change pas et les familiers supérieurs ne gagnent pas la capacité à parler avec d’autres créatures de leur espèce (bien que beaucoup possèdent une capacité innée à communiquer).
+Les familiers supérieurs obéissent aux règles des [[familier|familiers]] ordinaires à deux exceptions près : si le type de la créature n’est pas « [[type animal|animal]] » il ne change pas et les familiers supérieurs ne gagnent pas la capacité à parler avec d’autres créatures de leur espèce (bien que beaucoup possèdent une capacité innée à communiquer).
 
 {| CLASS="tablo centre autoalt"
 |- CLASS="titre"
 | Familier || Alignement || NLS Profane
 |- CLASS="premier"
-| [Aéon, Paraclétus](./Paraclétus.md)<sup>*AM, B2*</sup> || Neutre || 7
+| [[Paraclétus|Aéon, Paraclétus]]<sup>*AM, B2*</sup> || Neutre || 7
 |-
-| [Agathion, Silvanshie](./Silvanshie.md)<sup>*AM, B2*</sup> || Neutre Bon || 7
+| [[Silvanshie|Agathion, Silvanshie]]<sup>*AM, B2*</sup> || Neutre Bon || 7
 |-
-| [Aigle](./Aigle.md) [céleste](./archétypes simples.md#CREATURECELESTE)<sup>*AM*</sup> || Neutre Bon<sup>1</sup> || 3
+| [[Aigle]] [[archétypes simples#CREATURECELESTE|céleste]]<sup>*AM*</sup> || Neutre Bon<sup>1</sup> || 3
 |-
-| [Ange, Cassisien](./Cassisien.md)<sup>*AM, B2*</sup> || Neutre Bon || 7
+| [[Cassisien|Ange, Cassisien]]<sup>*AM, B2*</sup> || Neutre Bon || 7
 |-
-| [Archon, Annonciateur](./Archon annonciateur.md)<sup>*B3*</sup> || Loyal bon || 7
+| [[Archon Annonciateur|Archon, Annonciateur]]<sup>*B3*</sup> || Loyal bon || 7
 |-
-| [Asura, Tripurasura](./Tripurasura.md)<sup>*B3*</sup> || Loyal Mauvais || 7
+| [[Tripurasura|Asura, Tripurasura]]<sup>*B3*</sup> || Loyal Mauvais || 7
 |-
-| [Azata, Lyrakien](./Lyrakien.md)<sup>*AM, B2*</sup> || Chaotique Bon || 7
+| [[Lyrakien|Azata, Lyrakien]]<sup>*AM, B2*</sup> || Chaotique Bon || 7
 |-
-| [Chouette](./Chouette.md) [inflexible](./archétypes simples.md#CREATUREINFLEXIBLE)<sup>*AM*</sup> || Loyal Neutre<sup>1</sup> || 3
+| [[Chouette]] [[archétypes simples#CREATUREINFLEXIBLE|inflexible]]<sup>*AM*</sup> || Loyal Neutre<sup>1</sup> || 3
 |-
-| [Créature artificielle, Familier mécanique](./Familier mécanique.md)<sup>*B5*</sup> || N'importe || 7
+| [[Familier mécanique|Créature artificielle, Familier mécanique]]<sup>*B5*</sup> || N'importe || 7
 |-
-| [Créature artificielle, Homoncule](./Homoncule.md)<sup>*AM*</sup> || N’importe<sup>2</sup> || 7
+| [[Homoncule|Créature artificielle, Homoncule]]<sup>*AM*</sup> || N’importe<sup>2</sup> || 7
 |-
-| [Créature artificielle, Poupée des âmes](./Poupée des âmes.md)<sup>*B2*</sup> || N’importe<sup>2</sup> || 7
+| [[Poupée des âmes|Créature artificielle, Poupée des âmes]]<sup>*B2*</sup> || N’importe<sup>2</sup> || 7
 |-
-| [Créature magique, Almiraj](./Almiraj.md)<sup>*B4*</sup> || N’importe || 5
+| [[Almiraj|Créature magique, Almiraj]]<sup>*B4*</sup> || N’importe || 5
 |-
-| [Créature magique, Chuspiki](./Chuspiki.md)<sup>*B5*</sup> || Chaotique || 7
+| [[Chuspiki|Créature magique, Chuspiki]]<sup>*B5*</sup> || Chaotique || 7
 |-
-| [Créature magique, Escarboucle](./Escarboucle.md)<sup>*B3 V.O.*</sup> || N’importe || 5
+| [[Escarboucle|Créature magique, Escarboucle]]<sup>*B3 V.O.*</sup> || N’importe || 5
 |-
-| [Créature magique, Kudagitsune](./Renard serpentin.md)<sup>*B4*</sup> || Neutre || 7
+| [[Renard serpentin|Créature magique, Kudagitsune]]<sup>*B4*</sup> || Neutre || 7
 |-
-| [Créature magique, Ratelin](./Ratelin.md)<sup>*B4*</sup> || Chaotique Mauvais || 7
+| [[Ratelin|Créature magique, Ratelin]]<sup>*B4*</sup> || Chaotique Mauvais || 7
 |-
-| [Créature magique, Strige](./Strige.md)<sup>*AM*</sup> || Neutre || 5
+| [[Strige|Créature magique, Strige]]<sup>*AM*</sup> || Neutre || 5
 |-
-| [Créature magique, Taupe cérébrale](./Taupe cérébrale.md)<sup>*B5*</sup> || Jusqu'à un cran de Neutre || 5
+| [[Taupe cérébrale|Créature magique, Taupe cérébrale]]<sup>*B5*</sup> || Jusqu'à un cran de Neutre || 5
 |-
-| [Créature magique, Xiao](./Xiao.md)<sup>*B5*</sup> || N'importe || 7
+| [[Xiao|Créature magique, Xiao]]<sup>*B5*</sup> || N'importe || 7
 |-
-| [Créature magique, Zoog](./Zoog.md)<sup>*B3*</sup> || Chaotique Neutre || 5
+| [[Zoog|Créature magique, Zoog]]<sup>*B3*</sup> || Chaotique Neutre || 5
 |-
-| [Daémon, Cacodaémon](./Cacodaémon.md) || Neutre Mauvais || 7
+| [[Cacodaémon|Daémon, Cacodaémon]] || Neutre Mauvais || 7
 |-
-| [Démon, Quasit](./Quasit.md)<sup>*AM*</sup> || Chaotique Mauvais || 7
+| [[Quasit|Démon, Quasit]]<sup>*AM*</sup> || Chaotique Mauvais || 7
 |-
-| [Diable, Diablotin](./Diablotin.md)<sup>*AM*</sup> || Loyal Mauvais || 7
+| [[Diablotin|Diable, Diablotin]]<sup>*AM*</sup> || Loyal Mauvais || 7
 |-
-| [Div, Doru](./Div doru.md)<sup>*B3*</sup> || Neutre Mauvais || 7
+| [[Div Doru|Div, Doru]]<sup>*B3*</sup> || Neutre Mauvais || 7
 |-
-| [Dragon, Dragon Féerique](./Dragon féerique.md) || Chaotique Bon || 7
+| [[Dragon féerique|Dragon, Dragon Féerique]] || Chaotique Bon || 7
 |-
-| [Dragon (drake), Drake d'ombre](./Drake dombre.md)<sup>*B4*</sup> || Mauvais || 7
+| [[Drake dombre|Dragon (drake), Drake d'ombre]]<sup>*B4*</sup> || Mauvais || 7
 |-
-| [Dragon (linnorm), Nycar](./Nycar.md)<sup>*B4*</sup> || Chaotique Neutre || 7
+| [[Nycar|Dragon (linnorm), Nycar]]<sup>*B4*</sup> || Chaotique Neutre || 7
 |-
-| [Dragon, Pseudo-dragon](./Pseudo-dragon.md)<sup>*AM, B2*</sup> || Neutre Bon || 7
+| [[Pseudo-dragon|Dragon, Pseudo-dragon]]<sup>*AM, B2*</sup> || Neutre Bon || 7
 |-
-| [Élémentaire, Élémentaire de taille P](./Élémentaire.md) (n’importe quel type)<sup>*AM*</sup> || Neutre || 5
+| [[Élémentaire|Élémentaire, Élémentaire de taille P]] (n’importe quel type)<sup>*AM*</sup> || Neutre || 5
 |-
-| [Élémentaire, Méphite](./Méphite.md) (n’importe quel type)<sup>*AM*</sup> || Neutre || 7
+| [[Méphite|Élémentaire, Méphite]] (n’importe quel type)<sup>*AM*</sup> || Neutre || 7
 |-
-| [Élémentaire, Vollute](./Vollute.md) (n’importe quel type)<sup>*B5*</sup> || Voir texte || 7
+| [[Vollute|Élémentaire, Vollute]] (n’importe quel type)<sup>*B5*</sup> || Voir texte || 7
 |-
-| [Fée, Esprit follet](./Esprit follet.md)<sup>*B3*</sup> || Chaotique Neutre || 5
+| [[Esprit follet|Fée, Esprit follet]]<sup>*B3*</sup> || Chaotique Neutre || 5
 |-
-| [Fée, Esprit follet liminal](./Esprit follet liminal.md)<sup>*B5*</sup> || Chaotique || 7
+| [[Esprit follet liminal|Fée, Esprit follet liminal]]<sup>*B5*</sup> || Chaotique || 7
 |-
-| [Fée, Lutin](./Lutin.md)<sup>*AM, B2*</sup> || Neutre strict || 5
+| [[Lutin|Fée, Lutin]]<sup>*AM, B2*</sup> || Neutre strict || 5
 |-
-| [Fée, Pooka](./Pooka.md)<sup>*B4*</sup> || Chaotique Neutre || 7
+| [[Pooka|Fée, Pooka]]<sup>*B4*</sup> || Chaotique Neutre || 7
 |-
-| [Gremlin, Haniver](./Haniver.md)<sup>*B4*</sup> || Neutre || 5
+| [[Haniver|Gremlin, Haniver]]<sup>*B4*</sup> || Neutre || 5
 |-
-| [Gremlin, Nuglub](./Nuglub.md)<sup>*AM*</sup> || Chaotique Mauvais || 7
+| [[Nuglub|Gremlin, Nuglub]]<sup>*AM*</sup> || Chaotique Mauvais || 7
 |-
-| [Gremlin, Tristefripe](./Tristefripe.md)<sup>*B4*</sup> || Chaotique Neutre || 3
+| [[Tristefripe|Gremlin, Tristefripe]]<sup>*B4*</sup> || Chaotique Neutre || 3
 |-
-| [Inévitable, Arbitre](./Arbitre.md)<sup>*AM, B2*</sup> || Loyal Neutre || 7
+| [[Arbitre|Inévitable, Arbitre]]<sup>*AM, B2*</sup> || Loyal Neutre || 7
 |-
-| [Kami, Shikigami](./Shikigami.md)<sup>*B3*</sup> || Loyal Neutre || 7
+| [[Shikigami|Kami, Shikigami]]<sup>*B3*</sup> || Loyal Neutre || 7
 |-
-| [Kyton, Augure](./Kyton augure.md)<sup>*B3*</sup> || Loyal Mauvais || 7
+| [[Kyton augure|Kyton, Augure]]<sup>*B3*</sup> || Loyal Mauvais || 7
 |-
-| [Mort-vivant, Décapité](./Décapité.md)<sup>*B4*</sup> || Neutre Mauvais<sup>2</sup> || 3
+| [[Décapité|Mort-vivant, Décapité]]<sup>*B4*</sup> || Neutre Mauvais<sup>2</sup> || 3
 |-
-| [Mort-vivant, Isitoq](./Isitoq.md)<sup>*B4*</sup> || Neutre Mauvais<sup>2</sup> || 5
+| [[Isitoq|Mort-vivant, Isitoq]]<sup>*B4*</sup> || Neutre Mauvais<sup>2</sup> || 5
 |-
-| [Mort-vivant, Main rampante](./Main rampante.md)<sup>*B2*</sup> || Neutre Mauvais<sup>3</sup> || 3
+| [[Main rampante|Mort-vivant, Main rampante]]<sup>*B2*</sup> || Neutre Mauvais<sup>3</sup> || 3
 |-
-| [Oni, Esprit](./Esprit Oni.md)<sup>*B3*</sup> || Loyal Mauvais || 7
+| [[Esprit Oni|Oni, Esprit]]<sup>*B3*</sup> || Loyal Mauvais || 7
 |-
-| [Protéen, Ver du néant](./Ver du néant.md)<sup>*AM, B2*</sup> || Chaotique Neutre || 7
+| [[Ver du néant|Protéen, Ver du néant]]<sup>*AM, B2*</sup> || Chaotique Neutre || 7
 |-
-| [Psychopompe, Nosoï](./Nosoï.md)<sup>*B4*</sup> || Neutre strict || 7
+| [[Nosoï|Psychopompe, Nosoï]]<sup>*B4*</sup> || Neutre strict || 7
 |-
-| [Qlippoth, Cythnigot](./Cythnigot.md)<sup>*AM, B2*</sup> || Chaotique Mauvais || 7
+| [[Cythnigot|Qlippoth, Cythnigot]]<sup>*AM, B2*</sup> || Chaotique Mauvais || 7
 |-
-| [Rakshasa, Raktavarna](./Raktavarna.md)<sup>*B3*</sup> || Loyal Mauvais || 7
+| [[Raktavarna|Rakshasa, Raktavarna]]<sup>*B3*</sup> || Loyal Mauvais || 7
 |-
-| [Rat sanguinaire](./Rat sanguinaire.md)<sup>*AM*</sup> || Neutre || 3
+| [[Rat sanguinaire]]<sup>*AM*</sup> || Neutre || 3
 |-
-| [Shakil, Esipil](./Esipil.md)<sup>*B5*</sup> || Neutre Mauvais || 7
+| [[Esipil|Shakil, Esipil]]<sup>*B5*</sup> || Neutre Mauvais || 7
 |-
-| [Singe](./Singe.md) [entropique](./archétypes simples.md#CREATUREENTROPIQUE)<sup>*AM*</sup> || Chaotique Neutre<sup>1</sup> || 3
+| [[Singe]] [[archétypes simples#CREATUREENTROPIQUE|entropique]]<sup>*AM*</sup> || Chaotique Neutre<sup>1</sup> || 3
 |-
-| [Vipère](./Vipère.md) [fiélone](./archétypes simples.md#CREATUREFIELON)<sup>*AM*</sup> || Neutre Mauvais<sup>1</sup> || 3
+| [[Vipère]] [[archétypes simples#CREATUREFIELON|fiélone]]<sup>*AM*</sup> || Neutre Mauvais<sup>1</sup> || 3
 |- CLASS="note"
-| COLSPAN="3" | *(1) Ou un autre animal [céleste](./archétypes simples.md#CREATURECELESTE), [entropique](./archétypes simples.md#CREATUREENTROPIQUE), [fiélon](./archétypes simples.md#CREATUREFIELON) ou [inflexible](./archétypes simples.md#CREATUREINFLEXIBLE) de la liste des familiers ordinaires.*
+| COLSPAN="3" | *(1) Ou un autre animal [[archétypes simples#CREATURECELESTE|céleste]], [[archétypes simples#CREATUREENTROPIQUE|entropique]], [[archétypes simples#CREATUREFIELON|fiélon]] ou [[archétypes simples#CREATUREINFLEXIBLE|inflexible]] de la liste des familiers ordinaires.*
 |- CLASS="note"
 | COLSPAN="3" | *(2) Le maître doit tout d’abord le fabriquer.*
 |- CLASS="note"
@@ -137,4 +137,4 @@ Les familiers supérieurs obéissent aux règles des [familiers](./familier.md) 
 
 **Condition.** Familier supérieur
 
-**Avantage.** Pour chaque tranche de trois [grades](./Grade.md) du personnage, son familier gagne un bonus de +2 à une valeur de caractéristique de son choix. Ce bonus se cumule avec les autres. Le familier ajoute le [grade](./Grade.md) du personnage à son bonus d’armure naturelle et à sa résistance à la magie (le cas échéant).
+**Avantage.** Pour chaque tranche de trois [[grade|grades]] du personnage, son familier gagne un bonus de +2 à une valeur de caractéristique de son choix. Ce bonus se cumule avec les autres. Le familier ajoute le [[grade]] du personnage à son bonus d’armure naturelle et à sa résistance à la magie (le cas échéant).

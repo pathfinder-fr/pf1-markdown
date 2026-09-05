@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Gants de nage et d’escalade|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [mains](./Objets merveilleux portés aux mains.md) ; **Prix** 6 250 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 6 250 po ; **Poids** —
 (((Description)))
-Ces gants légers d’aspect anodin confèrent un bonus de compétence de +5 aux tests d’[Escalade](./Escalade.md) et de [Natation](./Natation.md). Les deux gants doivent être portés pour que la magie fasse effet.
+Ces gants légers d’aspect anodin confèrent un bonus de compétence de +5 aux tests d’[[Escalade]] et de [[Natation]]. Les deux gants doivent être portés pour que la magie fasse effet.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[force de taureau](./Force de taureau.md)*, *[grâce féline](./Grâce féline.md)* ; **Coût** 3 125 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[force de taureau]]*, *[[grâce féline]]* ; **Coût** 3 125 po
 </div>

@@ -7,6 +7,6 @@ Categories:
 - Src Bestiaire 5
 ---
 
-Les vases sont immunisées contre les [coups critiques](./coup critique.md), la [prise en tenaille](./prendre en tenaille.md), les dégâts de précision, les [effets mentaux](./Registre.md) ([charmes](./branche charme.md), [coercitions](./branche coercition.md), effets sur le moral, [mirages](./branche mirage.md) et [fantasmes](./branche fantasme.md)), la [paralysie](./Paralysé.md), le [poison](./Poisons.md), la [métamorphose](./branche métamorphose.md), le sommeil, l’[étourdissement](./Étourdi.md) et les effets visuels.
+Les vases sont immunisées contre les [[coup critique|coups critiques]], la [[prendre en tenaille|prise en tenaille]], les dégâts de précision, les [[registre|effets mentaux]] ([[branche charme|charmes]], [[branche coercition|coercitions]], effets sur le moral, [[branche mirage|mirages]] et [[branche fantasme|fantasmes]]), la [[paralysé|paralysie]], le [[Poisons|poison]], la [[branche métamorphose|métamorphose]], le sommeil, l’[[étourdi|étourdissement]] et les effets visuels.
 
 *Format :* traits des vases ; *Emplacement :* immunités.

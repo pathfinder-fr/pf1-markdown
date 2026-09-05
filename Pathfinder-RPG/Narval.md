@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Froid}
 {s:BDTexte|*Source : Bestiaire 5 p.43*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) à 36 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[Vision aveugle (capacité)|vision aveugle]] à 36 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 13 (Dex +3, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 30 (4d8+12)}
@@ -27,23 +27,23 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 17, **Con** 14, **Int** 2, **Sag** 15, **Cha** 6}
 {s:BDTexte|**BBA** +3 ; **BMO** +9 ; **DMD** 22 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md), [Talent](./Talent.md) (Natation)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +20, [Perception](./Perception.md) +12 ; **Modificateurs raciaux** +4 en Perception}
-{s:BDTexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**Dons** [[Robustesse]], [[Talent]] (Natation)}
+{s:BDTexte|**Compétences** [[Natation]] +20, [[Perception]] +12 ; **Modificateurs raciaux** +4 en Perception}
+{s:BDTexte|**Particularités** [[Retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans froids}
 {s:BDTexte|**Organisation** solitaire, couple ou banc (3-18)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Défense (Ext).** Quand le narval charge, il peut effectuer une unique attaque de corne avec sa défense au lieu de porter son attaque de morsure habituelle. S’il touche sa cible, elle subit 2d6+14 points de dégâts, avec un multiplicateur de critique de ×3.}
-{s:BDTexte|**Retenir son souffle (Ext).** Le narval est un expert en plongée qui peut retenir son souffle pendant un nombre de minutes égal à 2 fois sa valeur de [Constitution](./Constitution.md).}
+{s:BDTexte|**Retenir son souffle (Ext).** Le narval est un expert en plongée qui peut retenir son souffle pendant un nombre de minutes égal à 2 fois sa valeur de [[Constitution]].}
 </div></td>
 <td><div>*Cette petite baleine n’a pas de nageoire dorsale et présente une peau pâle et mouchetée, mais sa caractéristique la plus marquante reste l’unique corne située au milieu du museau.*
 
 Le narval est un chasseur habile des eaux arctiques, connu pour plonger beaucoup plus profond que d’autres cétacés bien plus gros que lui, que ce soit en eaux libres ou sous d’épaisses couches de glace. Le mâle possède une unique défense longue de 2 mètres placée juste au-dessus de sa bouche et s’en sert pour impressionner les femelles pendant de la saison de reproduction en livrant des duels flamboyants contre ses rivaux. En cas de besoin, il utilise sa défense pour briser une couche de glace ou même pour se défendre, bien qu’il préfère la fuite au combat. Cet animal mesure dans les 4,20 mètres de long (sans compter la défense) et pèse 1 600 kilos.
 
-#### Le narval comme [compagnon animal](./liste des compagnons animaux.md)
-**Caractéristiques de départ :** **Taille** M ; **Vitesse** nage 24 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 11, Dex 19, Con 10, Int 2, Sag 14, Cha 6 ; **Particularités** [retenir son souffle](./Retenir son souffle (capacité).md), [vision nocturne](./Vision nocturne (capacité).md)
+#### Le narval comme [[Liste des compagnons animaux|compagnon animal]]
+**Caractéristiques de départ :** **Taille** M ; **Vitesse** nage 24 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 11, Dex 19, Con 10, Int 2, Sag 14, Cha 6 ; **Particularités** [[Retenir son souffle (capacité)|retenir son souffle]], [[Vision nocturne (capacité)|vision nocturne]]
 
-**Développement au niveau 7 :** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** [vision aveugle](./Vision aveugle (capacité).md) 36 m, défense
+**Développement au niveau 7 :** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** [[Vision aveugle (capacité)|vision aveugle]] 36 m, défense
 </div></td></tr></table>

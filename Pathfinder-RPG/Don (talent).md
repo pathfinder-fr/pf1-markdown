@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#DONROUBLARD
 ---
 
->>> [Talents#DONROUBLARD](./Talents.md#DONROUBLARD)
+>>> [[Talents#DONROUBLARD]]

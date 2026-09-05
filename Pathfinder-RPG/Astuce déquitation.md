@@ -11,12 +11,12 @@ Categories:
 
 {s:apg}*Le personnage ne se contente pas de simplement contrôler sa monture au combat ; il a érigé cela en art !*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Équitation](./Équitation.md) 9 rangs, [Combat monté](./Combat monté.md).
+**Conditions.** [[Équitation]] 9 rangs, [[Combat monté]].
 
-**Avantage.** Lorsque le personnage porte une [armure légère](./armure légère.md) ou aucune armure, il n’a pas besoin de réaliser de test pour toutes les tâches citées dans la description de la compétence d’[Équitation](./Équitation.md) dont le [DD](./DD.md) est inférieur ou égal à 15. Il ne subit pas la pénalité de -5 lorsqu’il monte sans selle. Il peut effectuer un test pour annuler une attaque portée contre sa monture (voir [Combat monté](./Combat monté.md)) deux fois par round au lieu d’une seule fois.
+**Avantage.** Lorsque le personnage porte une [[armure légère]] ou aucune armure, il n’a pas besoin de réaliser de test pour toutes les tâches citées dans la description de la compétence d’[[Équitation]] dont le [[DD]] est inférieur ou égal à 15. Il ne subit pas la pénalité de -5 lorsqu’il monte sans selle. Il peut effectuer un test pour annuler une attaque portée contre sa monture (voir [[Combat monté]]) deux fois par round au lieu d’une seule fois.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Tant que le personnage a encore un point d’endurance dans sa réserve, il bénéficie des effets de ce don quand il porte une armure intermédiaire.

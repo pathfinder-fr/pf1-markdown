@@ -7,6 +7,6 @@ Categories:
 - Règle universelle de monstres
 ---
 
-Une fois par [round](./round.md), quand une créature est touchée par une attaque de corps à corps ou à distance, elle peut tenter une attaque au corps à corps en utilisant son meilleur bonus d’attaque. Si le résultat de son attaque est supérieur à celui de l’attaque dont elle est victime, cette attaque ne l’affecte pas (comme si son adversaire l’avait ratée).
+Une fois par [[round]], quand une créature est touchée par une attaque de corps à corps ou à distance, elle peut tenter une attaque au corps à corps en utilisant son meilleur bonus d’attaque. Si le résultat de son attaque est supérieur à celui de l’attaque dont elle est victime, cette attaque ne l’affecte pas (comme si son adversaire l’avait ratée).
 
 *Format :* blocage des attaques ; *Emplacement :* Capacités défensives.

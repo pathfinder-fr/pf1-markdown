@@ -12,26 +12,26 @@ Categories:
 ---
 
 {s:racial|Ifrit (race)|ifrits|Illustrations/PNJ/Ifrit.jpg}{s:MR}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Créer un sort.md#FEU)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [San](./Sanguin.md) 3  
+**École** [[Évocation]] <nowiki>[</nowiki>[[créer un sort#FEU|feu]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [6 m (4 {s:c})](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|6 m (4 {s:c})]]  
 
-**Effet** [ligne de 6 m (4 {s:c})](./Présentation des sorts.md#LIGNEDEFFET)  
+**Effet** [[Présentation des sorts#LIGNEDEFFET|ligne de 6 m (4 {s:c})]]  
 
-**Durée** concentration, jusqu'à 1 [round](./round.md)/[niveau](./niveau.md) ; voir description  
+**Durée** concentration, jusqu'à 1 [[round]]/[[niveau]] ; voir description  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-Une violente onde de feu jaillit de la main du lanceur de sorts, infligeant 2d6 points de [dégâts](./Dégâts.md) de feu à toutes les créatures prises dans la zone. À chaque [round](./round.md) où le lanceur [se concentre](./Lancer des sorts.md#CONCENTRATION) sur le sort, il peut choisir d’affecter une nouvelle zone.
+Une violente onde de feu jaillit de la main du lanceur de sorts, infligeant 2d6 points de [[dégâts]] de feu à toutes les créatures prises dans la zone. À chaque [[round]] où le lanceur [[Lancer des sorts#CONCENTRATION|se concentre]] sur le sort, il peut choisir d’affecter une nouvelle zone.
 
-*Onde de feu* met le feu aux combustibles et endommage les objets présents dans la zone. Il peut faire fondre les métaux ayant un faible point de fusion comme le plomb, l’or, le cuivre, l’argent et le bronze. Si les dégâts causés à un obstacle brisent ou traversent celui-ci, l’onde de feu peut se poursuivre au-delà de cet obstacle si la [zone d’effet](./Présentation des sorts.md#ZONEDEFFET) l’autorise ; sinon, elle s’arrête à l’obstacle comme le ferait n’importe quel effet de sort.
+*Onde de feu* met le feu aux combustibles et endommage les objets présents dans la zone. Il peut faire fondre les métaux ayant un faible point de fusion comme le plomb, l’or, le cuivre, l’argent et le bronze. Si les dégâts causés à un obstacle brisent ou traversent celui-ci, l’onde de feu peut se poursuivre au-delà de cet obstacle si la [[Présentation des sorts#ZONEDEFFET|zone d’effet]] l’autorise ; sinon, elle s’arrête à l’obstacle comme le ferait n’importe quel effet de sort.
 
 ### Mythique
 {s:CMy}
 Les dégâts infligés s’élèvent à 2d10 points de dégâts de feu. Les créatures qui ratent leur jet de sauvegarde prennent également feu. La ligne de feu persistante exerce une pression sur toutes les créatures ; la zone d’effet du sort est donc considérée comme un terrain difficile.
 
-**[Amplifié](./Amplifié.md) (4ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), il crée une deuxième ligne de feu qui jaillit de son autre main. Si les lignes se superposent, les créatures situées dans la zone de chevauchement doivent effectuer deux jets de sauvegarde et conserver le pire mais elles ne subissent pas les dégâts infligés par ces deux lignes à la fois. Le personnage peut éteindre l’une ou l’autre des lignes de feu par une [action libre](./Action libre.md) pendant son tour, mais dès qu’il étouffe une ligne, il doit à nouveau lancer onde de feu mythique pour la recréer.
+**[[Amplifié]] (4ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], il crée une deuxième ligne de feu qui jaillit de son autre main. Si les lignes se superposent, les créatures situées dans la zone de chevauchement doivent effectuer deux jets de sauvegarde et conserver le pire mais elles ne subissent pas les dégâts infligés par ces deux lignes à la fois. Le personnage peut éteindre l’une ou l’autre des lignes de feu par une [[action libre]] pendant son tour, mais dès qu’il étouffe une ligne, il doit à nouveau lancer onde de feu mythique pour la recréer.

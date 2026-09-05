@@ -4,11 +4,11 @@ Title: Activités de temps libre dans la Bibliothèque de la Fleur de l'Aube
 LastModified: 2023-04-27 17:33
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur Otari](./OTARI.md)
+• [[OTARI|Retour à la page sur Otari]]
 
-Les aventuriers ne passent pas toutes leurs journées dans des cryptes envahies par les moisissures ou dans des marécages dangereux. Quand les héros ont besoin d'un break, ils peuvent passer leur temps libre dans une ville amicale comme Otari. La campagne [Le Donjon des Abominations](./AP28.md) présente plusieurs nouvelles options utilisables pendant le temps libre pour les personnages qui se sont liés d'amitié avec certains des individus notables de la ville. Voici quelques activités de temps libre que les héros peuvent entreprendre le plus grand temple d'Otari, la Bibliothèque de la Fleur de l'Aube.
+Les aventuriers ne passent pas toutes leurs journées dans des cryptes envahies par les moisissures ou dans des marécages dangereux. Quand les héros ont besoin d'un break, ils peuvent passer leur temps libre dans une ville amicale comme Otari. La campagne [[AP28|Le Donjon des Abominations]] présente plusieurs nouvelles options utilisables pendant le temps libre pour les personnages qui se sont liés d'amitié avec certains des individus notables de la ville. Voici quelques activités de temps libre que les héros peuvent entreprendre le plus grand temple d'Otari, la Bibliothèque de la Fleur de l'Aube.
 
 La Bibliothèque de la Fleur de l'Aube est construite sur une plateforme située à l'ouest de la ville, de sorte que son dôme et ses minarets brillent de mille feux lorsque les rayons du soleil levant viennent les frapper. Le bâtiment est avant tout un temple à la déesse solaire Sarenrae mais il contient également des autels à Cayden Cailéan (le dieu ivre des héros), Érastil (le dieu de la chasse et de la communauté) et à Gozreh (la divinité du vent et de la mer). Mais la majeure partie de l'édifice est occupée par des monceaux de livres : la Bibliothèque de la Fleur de l'Aube renferme un nombre incroyable de volumes et les connaissances qui s'y trouvent sont accessibles à tous.
 

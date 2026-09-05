@@ -13,30 +13,30 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Illusion](./Illusion.md) ([mirage](./mirage.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Psy](./Psychiste.md) 1, [San](./Sanguin.md) 1  
+**École** [[Illusion]] ([[mirage]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (poudre ou sable coloré rouge, jaune et bleu)  
+**Composantes** [[composantes|V, G, M]] (poudre ou sable coloré rouge, jaune et bleu)  
 
 **Portée** 4,50 m (3 {s:c})  
 
-**Zone d'effet** [rayonnement](./rayonnement.md) en forme de cône  
+**Zone d'effet** [[rayonnement]] en forme de cône  
 
-**Durée** [instantanée](./instantanée.md) (voir description)  
+**Durée** [[instantanée]] (voir description)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 
 Un cône de couleurs vives et tourbillonnantes jaillit de la main tendue du personnage, provoquant étourdissement, cécité temporaire ou perte de connaissance chez les créatures affectées. Le sort affecte chaque cible en fonction de ses DV :
 
 
-- **Jusqu’à 2 [DV](./../Ressources/DV.md).** [Perte de connaissance](./Inconscient.md), [cécité](./Aveuglé.md) et [étourdissement](./Étourdi.md) durant 2d4 [rounds](./round.md), puis [cécité](./Aveuglé.md) et [étourdissement](./Étourdi.md) durant 1d4 [rounds](./round.md) puis [étourdissement](./Étourdi.md) durant 1 [round](./round.md) (seules les créatures vivantes peuvent [perdre connaissance](./Inconscient.md)).
-- **3 ou 4 [DV](./../Ressources/DV.md).** [Cécité](./Aveuglé.md) et [étourdissement](./Étourdi.md) durant 1d4 [rounds](./round.md), puis [étourdissement](./Étourdi.md) durant 1 [round](./round.md).
-- **5 [DV](./../Ressources/DV.md) ou plus.** [Étourdissement](./Étourdi.md) durant 1 [round](./round.md).
+- **Jusqu’à 2 [[DV]].** [[inconscient|Perte de connaissance]], [[aveuglé|cécité]] et [[étourdi|étourdissement]] durant 2d4 [[round|rounds]], puis [[aveuglé|cécité]] et [[étourdi|étourdissement]] durant 1d4 [[round|rounds]] puis [[étourdi|étourdissement]] durant 1 [[round]] (seules les créatures vivantes peuvent [[inconscient|perdre connaissance]]).
+- **3 ou 4 [[DV]].** [[aveuglé|Cécité]] et [[étourdi|étourdissement]] durant 1d4 [[round|rounds]], puis [[étourdi|étourdissement]] durant 1 [[round]].
+- **5 [[DV]] ou plus.** [[étourdi|Étourdissement]] durant 1 [[round]].
 
 Les êtres dépourvus de vision ne sont pas affectés par *couleurs dansantes*.
 
 ### Mythique
 {s:CMy}
-La portée du sort s’élève à 9 mètres. Ajoutez la moitié du [grade](./Grade.md) du personnage aux catégories de DV pour déterminer ses effets sur les créatures (au 3ème [grade](./Grade.md), une créature avec 3 DV ou moins est inconsciente, aveuglée et étourdie ; une autre avec 4 ou 5 DV est aveuglée et étourdie et une autre avec 6 DV ou plus est étourdie). Les créatures qui réussissent leur jet de sauvegarde sont éblouies pendant une minute.
+La portée du sort s’élève à 9 mètres. Ajoutez la moitié du [[grade]] du personnage aux catégories de DV pour déterminer ses effets sur les créatures (au 3ème [[grade]], une créature avec 3 DV ou moins est inconsciente, aveuglée et étourdie ; une autre avec 4 ou 5 DV est aveuglée et étourdie et une autre avec 6 DV ou plus est étourdie). Les créatures qui réussissent leur jet de sauvegarde sont éblouies pendant une minute.

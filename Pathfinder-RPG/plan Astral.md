@@ -5,4 +5,4 @@ LastModified: 2010-07-20 15:51
 RedirectTo: Pathfinder-RPG.Plans
 ---
 
->>> [Pathfinder-RPG.Plans](./Plans.md)
+>>> [[Pathfinder-RPG.Plans]]

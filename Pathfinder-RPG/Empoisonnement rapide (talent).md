@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#EMPOISONNEMENTRAPIDE
 ---
 
->>> [Talents#EMPOISONNEMENTRAPIDE](./Talents.md#EMPOISONNEMENTRAPIDE)
+>>> [[Talents#EMPOISONNEMENTRAPIDE]]

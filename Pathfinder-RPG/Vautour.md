@@ -10,21 +10,21 @@ LastModified: 2020-09-22 16:45
 {s:pucem|Animal|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire 3, p.276*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md), [odorat](./Odorat (capacité).md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]], [[odorat (capacité)|odorat]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 12 (Dex +1, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 6 (1d8+2)}
-{s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +1 ; +4 contre les [maladies](./Maladies.md)}
+{s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +1 ; +4 contre les [[maladies]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c}), vol 15 m (10 {s:c}) (moyenne)}
 {s:BDTexte|**Corps à corps** morsure, +2 (1d6+1)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 13, **Con** 14, **Int** 2, **Sag** 13, **Cha** 7}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 11}
-{s:BDTexte|**Dons** [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +9, [Vol](./Vol.md) +7}
-{s:BDTexte|**Modificateur racial** +8 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Perception]] +9, [[Vol]] +7}
+{s:BDTexte|**Modificateur racial** +8 en [[Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines ou plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou volée (3-24)}
@@ -37,9 +37,9 @@ LastModified: 2020-09-22 16:45
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Vautour](./Vautour.md) || 1/2
+| [[Vautour]] || 1/2
 |-
-| [Vautour géant](./Vautour géant.md) || 4
+| [[Vautour géant]] || 4
 |}
 </div>*Ce vautour aux plumes foncées a la tête et le cou nus. Son long bec crochu est couvert de croûtes de charognes.*
 
@@ -48,7 +48,7 @@ Bien qu’apparentés aux rapaces et autres oiseaux de proie, les vautours se no
 Malgré leur régime surtout composé de charogne, les vautours préfèrent les corps fraîchement morts à la chair faisandée. Certains chassent même les petites créatures lorsque la nourriture se fait rare.
 
 #### Le Vautour comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 3 m (2 {s:c}), vol 24 m (16 {s:c}, moyenne); **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 serres (1d4) ; **Caractéristiques** For 10, Dex 15, Con 12, Int 2, Sag 14, Cha 6 ; **Particularités** [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 3 m (2 {s:c}), vol 24 m (16 {s:c}, moyenne); **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 serres (1d4) ; **Caractéristiques** For 10, Dex 15, Con 12, Int 2, Sag 14, Cha 6 ; **Particularités** [[vision nocturne]].
 
 **Développement au niveau 4.** **Caractéristiques** For +2, Con +2.
 

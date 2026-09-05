@@ -13,55 +13,55 @@ Categories:
 <div class="BD">
 {s:BDTitre|Créer une créature diabolique|FP +1}
 {s:BDTexte|*Source : Bestiaire 4 page 44*}
-« Créature diabolique » est un archétype acquis que l’on peut ajouter à n’importe quelle créature possédant 5 [DV](./../Ressources/DV.md) ou plus et dotée de valeurs d’[Intelligence](./Intelligence.md), de [Sagesse](./Sagesse.md) et de [Charisme](./Charisme.md) de 3 ou plus. Nous l’appellerons ensuite créature de base. Elle conserve ses statistiques et ses pouvoirs spéciaux, à l’exception des éléments suivants.
+« Créature diabolique » est un archétype acquis que l’on peut ajouter à n’importe quelle créature possédant 5 [[DV]] ou plus et dotée de valeurs d’[[Intelligence]], de [[Sagesse]] et de [[Charisme]] de 3 ou plus. Nous l’appellerons ensuite créature de base. Elle conserve ses statistiques et ses pouvoirs spéciaux, à l’exception des éléments suivants.
 
 - ** FP.** Comme la créature de base +1.
 - **Alignement.** Mauvais. Une créature diabolique émet la même aura de Mal qu’un extérieur Mauvais.
-- **Sens.** Une créature diabolique gagne la [vision dans le noir](./vision dans le noir.md) jusqu’à 18 mètres (12 {s:c}) et la [vision dans les ténèbres](./Vision dans les ténèbres.md).
-- **CA.** La [CA](./CA.md) naturelle augmente de +4.
+- **Sens.** Une créature diabolique gagne la [[vision dans le noir]] jusqu’à 18 mètres (12 {s:c}) et la [[vision dans les ténèbres]].
+- **CA.** La [[CA]] naturelle augmente de +4.
 - ** Capacités défensives**. La créature diabolique gagne un bonus de +4 aux jets de sauvegarde contre les poisons, une résistance au feu de 30 et une régénération 5/(sorts et armes du Bien).
 - **Faiblesse.** La créature diabolique acquiert la faiblesse suivante. 
   - *Sous contrat*. La créature a signé un contrat pour prodiguer ses services en échange de cet archétype. Le diable doit révéler sa nature de créature des Enfers quand il propose le contrat et il ne peut pas en cacher les détails, de quelque manière que se soit. La créature doit accepter le marché de son plein gré (sans coercition magique). En général, la créature doit accomplir une ou plusieurs tâches pour le diable, en échange de quoi elle reçoit les capacités liées à cet archétype, que ce soit de suite, après un laps de temps défini ou une fois une mission accomplie.
-Le contrat comprend toujours une clause stipulant que l’âme du signataire est condamnée aux Enfers à sa mort, la damnation étant mise au crédit du diable signataire qui devient propriétaire de l’âme. Quand la créature meurt, son âme est automatiquement emprisonnée dans une gemme qui apparaît aux Enfers, parmi les biens du diable. Si le diable est mort quand la créature trépasse, l’âme est détruite et il est impossible de la ramener à la vie, à moins d’un *[miracle](./Miracle.md)* ou d’un *[souhait](./Souhait.md)*. Si la créature n’arrive pas à s’acquitter de sa tâche dans le temps imparti, son âme est damnée mais le diable n’est pas obligé de lui donner les pouvoirs promis. La plupart des contrats précisent aussi que le diable, ses agents et ses alliés ne tenteront pas de tuer la créature. Cela ne la protège pas contre les autres diables mais lui offre une certaine protection contre une traîtrise de la part du signataire infernal. Il est tout aussi dangereux que difficile de briser un contrat passé avec un diable. De plus, tant que le contrat est valide, si le signataire se fait tuer, personne ne peut le ramener à la vie à moins d’utiliser un souhait ou un miracle. Si une créature diabolique est ramenée à la vie, le diable propriétaire de son contrat apprend immédiatement le nom et la situation géographique (comme avec *[localisation suprême](./Localisation suprême.md)*) de l’auteur de cette résurrection.
-- **Attaques spéciales**. La créature gagne le pouvoir universel de monstre de [convocation](./Convocation (capacité).md), ce qui lui permet d’invoquer un diable une fois par jour, avec 100% de chances de réussite. Le diable reste à ses côtés pendant 1 heure. C’est le [niveau de lanceur de sorts](./NLS.md) ou le nombre de DV de la créature qui détermine le type de diable qu’elle peut invoquer et le niveau de sort effectif du pouvoir, selon la table suivante.
+Le contrat comprend toujours une clause stipulant que l’âme du signataire est condamnée aux Enfers à sa mort, la damnation étant mise au crédit du diable signataire qui devient propriétaire de l’âme. Quand la créature meurt, son âme est automatiquement emprisonnée dans une gemme qui apparaît aux Enfers, parmi les biens du diable. Si le diable est mort quand la créature trépasse, l’âme est détruite et il est impossible de la ramener à la vie, à moins d’un *[[miracle]]* ou d’un *[[souhait]]*. Si la créature n’arrive pas à s’acquitter de sa tâche dans le temps imparti, son âme est damnée mais le diable n’est pas obligé de lui donner les pouvoirs promis. La plupart des contrats précisent aussi que le diable, ses agents et ses alliés ne tenteront pas de tuer la créature. Cela ne la protège pas contre les autres diables mais lui offre une certaine protection contre une traîtrise de la part du signataire infernal. Il est tout aussi dangereux que difficile de briser un contrat passé avec un diable. De plus, tant que le contrat est valide, si le signataire se fait tuer, personne ne peut le ramener à la vie à moins d’utiliser un souhait ou un miracle. Si une créature diabolique est ramenée à la vie, le diable propriétaire de son contrat apprend immédiatement le nom et la situation géographique (comme avec *[[localisation suprême]]*) de l’auteur de cette résurrection.
+- **Attaques spéciales**. La créature gagne le pouvoir universel de monstre de [[convocation (capacité)|convocation]], ce qui lui permet d’invoquer un diable une fois par jour, avec 100% de chances de réussite. Le diable reste à ses côtés pendant 1 heure. C’est le [[NLS|niveau de lanceur de sorts]] ou le nombre de DV de la créature qui détermine le type de diable qu’elle peut invoquer et le niveau de sort effectif du pouvoir, selon la table suivante.
 
 {| CLASS="tablo"
 |- CLASS="titre"
 | Niveau de lanceur de sorts || Diable || Niveau du sort
 |- CLASS="premier"
-| 3 || [Lémure](./Lémure.md) || 2
+| 3 || [[Lémure]] || 2
 |-
-| 9 || [Diable barbu](./Diable barbu.md) || 5
+| 9 || [[Diable barbu]] || 5
 |-
-| 11 || [Érinye](./Érinye.md) || 6
+| 11 || [[Érinye]] || 6
 |-
-| 13 || [Diable osseux](./Diable osseux.md) || 7
+| 13 || [[Diable osseux]] || 7
 |-
-| 15 || [Diable barbelé](./Diable barbelé.md) || 8
+| 15 || [[Diable barbelé]] || 8
 |-
-| 17 || [Diable des glaces](./Diable des glaces.md) || 9
+| 17 || [[Diable des glaces]] || 9
 |-
 |}
 
 
 **Pouvoirs magiques**. La créature obtient les pouvoirs suivants en fonction du type de diable auquel elle est liée. Pour ces pouvoirs, la créature utilise ses dés de vie ou son niveau de lanceur de sorts (le plus élevé des deux) comme niveau de lanceur de sort. Le DD des éventuels jets de sauvegarde est basé sur l’Intelligence, la Sagesse ou le Charisme de la créature (la plus élevée des trois).
 
-- *Accusateur *: 3/jour — *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md), [invisibilité](./Invisibilité.md)* (sur soi uniquement), *[nuée grouillante](./Nuée grouillante.md)*
-- *Barbelé *: 3/jour — *[immobilisation de monstre](./Immobilisation de monstre.md)*
-- *Barbu* : 3/jour — *[porte dimensionnelle](./Porte dimensionnelle.md), [rage](./Rage.md)*
-- *Cornu* : 3/jour — *[boule de feu](./Boule de feu.md), [rejet du Bien](./Rejet du Bien.md)*
-- *De la noyade* : 3/jour — *[poussée hydraulique](./Poussée hydraulique.md), [respiration aquatique](./Respiration aquatique.md)*
-- * De l’ost* : 3/jour — *[porte dimensionnelle](./Porte dimensionnelle.md), [vol](./Vol.md)*
-- *Des contrats* : 3/jour — *[détection de pensées](./Détection de pensées.md), [localisation de créature](./Localisation de créature.md), [malédiction](./malédiction.md)*
-- *Des glaces* : 3/jour — *[cône de froid](./Cône de froid.md), [tempête de grêle](./Tempête de grêle.md) *
-- *Diablotin* : 3/jour — *[invisibilité](./Invisibilité.md)* (sur soi uniquement), *[métamorphose](./métamorphose.md)* (sur soi uniquement, dans la même catégorie de taille que la créature de base)
-- *Diantrefosse* : 3/jour — *[boule de feu](./Boule de feu.md)* à incantation rapide, *[invisibilité](./Invisibilité.md)* ; 1/jour— *[blasphème](./Blasphème.md)*
-- *Érinyes* : 3/jour — *[ténèbres maudites](./Ténèbres maudites.md), [terreur](./Terreur.md)* (cible unique)
-- *Immolateur* : 3/jour — *[bouclier de feu](./Bouclier de feu.md), [boule de feu](./Boule de feu.md)*
-- *Osseux* : 3/jour — *[invisibilité](./Invisibilité.md)* (sur soi uniquement), *[vol](./Vol.md)*
-- *Trompeur* : 3/jour — *[charme-monstre](./Charme-monstre.md)*
-- *Vestale* : 3/jour — *[tentacules noirs](./Tentacules noirs.md)* ; 1/jour — *[vision lucide](./Vision lucide.md)*
-- *Némésis* : 3/jour — *[invisibilité](./Invisibilité.md), [rayon ardent](./Rayon ardent.md)* ; 1/jour — *[blasphème](./Blasphème.md)*
+- *Accusateur *: 3/jour — *[[clairaudienceclairvoyance|clairaudience/clairvoyance]], [[invisibilité]]* (sur soi uniquement), *[[nuée grouillante]]*
+- *Barbelé *: 3/jour — *[[immobilisation de monstre]]*
+- *Barbu* : 3/jour — *[[porte dimensionnelle]], [[rage]]*
+- *Cornu* : 3/jour — *[[boule de feu]], [[rejet du Bien]]*
+- *De la noyade* : 3/jour — *[[poussée hydraulique]], [[respiration aquatique]]*
+- * De l’ost* : 3/jour — *[[porte dimensionnelle]], [[vol]]*
+- *Des contrats* : 3/jour — *[[détection de pensées]], [[localisation de créature]], [[malédiction]]*
+- *Des glaces* : 3/jour — *[[cône de froid]], [[tempête de grêle]] *
+- *Diablotin* : 3/jour — *[[invisibilité]]* (sur soi uniquement), *[[métamorphose]]* (sur soi uniquement, dans la même catégorie de taille que la créature de base)
+- *Diantrefosse* : 3/jour — *[[boule de feu]]* à incantation rapide, *[[invisibilité]]* ; 1/jour— *[[blasphème]]*
+- *Érinyes* : 3/jour — *[[ténèbres maudites]], [[terreur]]* (cible unique)
+- *Immolateur* : 3/jour — *[[bouclier de feu]], [[boule de feu]]*
+- *Osseux* : 3/jour — *[[invisibilité]]* (sur soi uniquement), *[[vol]]*
+- *Trompeur* : 3/jour — *[[charme-monstre]]*
+- *Vestale* : 3/jour — *[[tentacules noirs]]* ; 1/jour — *[[vision lucide]]*
+- *Némésis* : 3/jour — *[[invisibilité]], [[rayon ardent]]* ; 1/jour — *[[blasphème]]*
 
 - **Caractéristiques.** Ajustez les caractéristiques de la créature en fonction du type de diable auquel elle est liée.
 
@@ -95,5 +95,5 @@ Le contrat comprend toujours une clause stipulant que l’âme du signataire est
 </td><td><div>
 Une créature diabolique a conclu un pacte avec un diable. Elle lui a promis son âme et un service en échange d’une puissance infernale. La nature de ce service dépend du type de diable concerné et de ses motivations mais il sert toujours les intérêts des Enfers.
 
-Voir aussi [ensorceleuse diabolique](./ensorceleuse diabolique.md)
+Voir aussi [[ensorceleuse diabolique]]
 </div></td></tr></table>

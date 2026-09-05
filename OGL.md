@@ -4,7 +4,7 @@ Title: Licence OGL
 LastModified: 2009-12-23 13:25
 ---
 
-La Licence OGL (ou Open Game License) a été introduite par Wizards of the Coast en 2000 et permet de publier, d'utiliser et même de modifier une certaine partie des règles de la version 3 du jeu de rôle le plus connu au monde. Les textes publiés sous cette licence peuvent également être déclarés comme "Open Content", c'est-à-dire comme contenu lui aussi re-publiable, ré-utilisable et re-modifiable. C'est le cas de tout ce qui est règles pour Pathfinder-RPG et c'est grâce à cela que le [wiki Pathfinder-RPG](./Pathfinder-RPG/MainPage.md) peut exister.
+La Licence OGL (ou Open Game License) a été introduite par Wizards of the Coast en 2000 et permet de publier, d'utiliser et même de modifier une certaine partie des règles de la version 3 du jeu de rôle le plus connu au monde. Les textes publiés sous cette licence peuvent également être déclarés comme "Open Content", c'est-à-dire comme contenu lui aussi re-publiable, ré-utilisable et re-modifiable. C'est le cas de tout ce qui est règles pour Pathfinder-RPG et c'est grâce à cela que le [[Pathfinder-RPG.MainPage|wiki Pathfinder-RPG]] peut exister.
 
 ### OPEN GAME LICENSE Version 1.0a
 

@@ -13,12 +13,12 @@ Categories:
 
 **Catégorie.** Combat
 
-**Conditions.** [humain](./Humain.md), [Guerrier](./Guerrier.md) de niveau 4.
+**Conditions.** [[humain]], [[Guerrier]] de niveau 4.
 
-**Avantages.** Le personnage choisit un don de combat qui s’applique à une arme spécifique seulement (comme [Arme de prédilection](./Arme de prédilection.md)) et peut à présent l’utiliser avec toutes les armes du même [groupe](./Guerrier.md#groupedarmes))).
+**Avantages.** Le personnage choisit un don de combat qui s’applique à une arme spécifique seulement (comme [[Arme de prédilection]]) et peut à présent l’utiliser avec toutes les armes du même [[Guerrier#groupedarmes|groupe]])).
 
 **Spécial.** Le personnage peut choisir ce don à plusieurs reprises, il s’applique à chaque fois à un don différent.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 2 points d’endurance au début de son tour pour appliquer les effets du don choisi à une arme appartenant à un autre [groupe d’armes](./groupe darmes.md). Il profite de cet avantage jusqu’au début de son prochain tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 2 points d’endurance au début de son tour pour appliquer les effets du don choisi à une arme appartenant à un autre [[Groupe darmes|groupe d’armes]]. Il profite de cet avantage jusqu’au début de son prochain tour.

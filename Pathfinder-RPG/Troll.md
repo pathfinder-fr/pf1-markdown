@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Humanoïde|Montagnes|Froid}
 {s:BDTexte|*Source : Bestiaire* p.277}
 {s:BDTexte|**XP** 1.600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, CM}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 11, pris au dépourvu 14 (Dex +2, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 63 (6d8+36) ; régénération 5 (acide ou feu)}
@@ -23,12 +23,12 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure +8 (1d8+5), 2 griffes +8 (1d6+5)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration.md) (2 griffes, 1d6+7)}
+{s:BDTexte|**Attaques spéciales** [[éventration]] (2 griffes, 1d6+7)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 14, **Con** 23, **Int** 6, **Sag** 9, **Cha** 6}
 {s:BDTexte|**BBA** +4, **BMO** +10, **DMD** 22}
-{s:BDTexte|**Dons** [Force intimidante](./Force intimidante.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Force intimidante]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Intimidation]] +9, [[Perception]] +8}
 {s:BDTexte|**Langues** géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes froides}
@@ -44,27 +44,27 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Troll des égouts](./Troll des égouts.md) || 2
+| [[Troll des égouts]] || 2
 |-
-| [Troll](./Troll.md) || 5
+| [[Troll]] || 5
 |-
-| [Acolyte troll](./Acolyte troll.md) || 6
+| [[Acolyte troll]] || 6
 |-
-| [Gardien troll](./Gardien troll.md) || 6
+| [[Gardien troll]] || 6
 |-
-| [Brute troll](./Brute troll.md) || 7
+| [[Brute troll]] || 7
 |-
-| [Étripeur troll](./Étripeur troll.md) || 8
+| [[Étripeur troll]] || 8
 |-
-| [Troll furieux](./Troll furieux.md) || 8
+| [[Troll furieux]] || 8
 |-
-| [Berserker troll](./Berserker troll.md) || 9
+| [[Berserker troll]] || 9
 |-
-| [Éventreur troll](./Éventreur troll.md) || 10
+| [[Éventreur troll]] || 10
 |-
-| [Matrone âgée troll](./Matrone âgée troll.md) || 10
+| [[Matrone âgée troll]] || 10
 |-
-| [Monarque troll](./Monarque troll.md) || 15
+| [[Monarque troll]] || 15
 |-
 |}
 </div>''Cette grande créature a la peau verte et rugueuse, des mains griffues et un
@@ -164,40 +164,40 @@ Les trolls peuvent choisir les dons suivants.
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Éventration à deux](./Éventration à deux.md)* || <sup>CM</sup> || Pouvoir [éventration](./Éventration (capacité).md), [troll](./Troll.md) || Utilise l'éventration beaucoup plus facilement
+| [[Éventration à deux]]* || <sup>CM</sup> || Pouvoir [[éventration (capacité)|éventration]], [[troll]] || Utilise l'éventration beaucoup plus facilement
 
 |- CLASS="premier"
-| [Éventration supérieure](./Éventration supérieure.md)* || <sup>CM</sup> || Attaque de morsure, pouvoir [éventration](./Éventration (capacité).md), [troll](./Troll.md) || Inflige des dégâts supplémentaire avec l'éventration pendant une morsure
+| [[Éventration supérieure]]* || <sup>CM</sup> || Attaque de morsure, pouvoir [[éventration (capacité)|éventration]], [[troll]] || Inflige des dégâts supplémentaire avec l'éventration pendant une morsure
 
 |- CLASS="premier"
-| [Morsure suprême](./Morsure suprême.md)* || <sup>CM</sup> || [BBA](./BBA.md) +6, attaque de morsure, pouvoir [éventration](./Éventration (capacité).md), [troll](./Troll.md) || Augmente la zone de critique de l'attaque de morsure en éventrant la cible
+| [[Morsure suprême]]* || <sup>CM</sup> || [[BBA]] +6, attaque de morsure, pouvoir [[éventration (capacité)|éventration]], [[troll]] || Augmente la zone de critique de l'attaque de morsure en éventrant la cible
 
 |- CLASS="premier"
-| [Régénération musculaire](./Régénération musculaire.md) || <sup>CM</sup> || [Attaque en puissance](./Attaque en puissance.md), pouvoir [régénération](./Régénération (capacité).md), [troll](./Troll.md) || Transfert la puissance de régénération à la force physique
+| [[Régénération musculaire]] || <sup>CM</sup> || [[Attaque en puissance]], pouvoir [[régénération (capacité)|régénération]], [[troll]] || Transfert la puissance de régénération à la force physique
 
 |- CLASS="premier"
-| [Régénération rageuse](./Régénération rageuse.md) || <sup>CM</sup> || Capacité de classe [rage](./Barbare.md#RAGE), pouvoir [régénération](./Régénération (capacité).md), [troll](./Troll.md) || Empêche la régénération de s'arrêter pendant une rage
+| [[Régénération rageuse]] || <sup>CM</sup> || Capacité de classe [[Barbare#RAGE|rage]], pouvoir [[régénération (capacité)|régénération]], [[troll]] || Empêche la régénération de s'arrêter pendant une rage
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes
 Voici les archétypes auxquels les trolls ont accès.
-- [Troll furieux (druide)](./Troll furieux (druide).md)
+- [[Troll furieux (druide)]]
 
 #### Équipement
 Les équipements suivants sont prévus pour les trolls mais il est possible de fabriquer des objets similaires pour les autres créatures à griffes avec des altérations mineures.
-- [Griffes de troll barbelées](./Griffes de troll barbelées (objet).md)
+- [[Griffes de troll barbelées (objet)|Griffes de troll barbelées]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Objets magiques
 Ces objets magiques sont spécifiques aux trolls :
-- [Cape du roi troll](./Cape du roi troll.md)
-- [Gantelets d'éventration](./Gantelets déventration.md)
+- [[Cape du roi troll]]
+- [[Gantelets déventration|Gantelets d'éventration]]
 
 
 #### Sorts
 Les sorts suivants sont presque exclusivement utilisés par les trolls.
-- ***[Épreuve de l'acide et du feu](./Épreuve de lacide et du feu.md)*** *(CM)* ([Cham 3](./Chaman.md), [Ens](./Ensorceleur.md)/[Mag 3](./Magicien.md), [Magus 3](./Magus.md), [Prê 3](./Prêtre.md), [San 3](./Sanguin.md), [Sor 3](./Sorcière.md)). Couvre la cible d'un acide brûlant.
-- ***[Transfert de régénération](./Transfert de régénération.md)*** *(CM)* ([Cham 3](./Chaman.md), [Dru 3](./Druide.md), [Prê 3](./Prêtre.md), [Psy 3](./Psychiste.md), [Sor 3](./Sorcière.md)). Transfert la régénération naturelle du personnage à un allié.
+- ***[[Épreuve de lacide et du feu|Épreuve de l'acide et du feu]]*** *(CM)* ([[Chaman|Cham 3]], [[Ensorceleur|Ens]]/[[Magicien|Mag 3]], [[Magus|Magus 3]], [[Prêtre|Prê 3]], [[Sanguin|San 3]], [[Sorcière|Sor 3]]). Couvre la cible d'un acide brûlant.
+- ***[[Transfert de régénération]]*** *(CM)* ([[Chaman|Cham 3]], [[Druide|Dru 3]], [[Prêtre|Prê 3]], [[Psychiste|Psy 3]], [[Sorcière|Sor 3]]). Transfert la régénération naturelle du personnage à un allié.
 
 </div></div>

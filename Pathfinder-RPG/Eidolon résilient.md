@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Le lien entre le personnage et l’eidolon est si fort que ce dernier reste avec son maître pendant une courte période après qu’il tombe inconscient ou mort. *
 
-**Condition.** [eidolon](./eidolon.md)
+**Condition.** [[eidolon]]
 
-**Avantage.** Si le personnage tombe [inconscient](./Inconscient.md), s’endort ou se fait tuer, son eidolon reste un nombre de rounds égal à son niveau de [conjurateur](./Conjurateur.md) avant d’être banni. Si le personnage reprend conscience avant la fin de cette période, l’[eidolon](./eidolon.md) ne disparaît pas, sinon, il est banni normalement.
+**Avantage.** Si le personnage tombe [[inconscient]], s’endort ou se fait tuer, son eidolon reste un nombre de rounds égal à son niveau de [[conjurateur]] avant d’être banni. Si le personnage reprend conscience avant la fin de cette période, l’[[eidolon]] ne disparaît pas, sinon, il est banni normalement.
 
-**Normal.** L’eidolon est immédiatement banni si son conjurateur est [inconscient](./Inconscient.md), endormi ou [tué](./Mort.md).
+**Normal.** L’eidolon est immédiatement banni si son conjurateur est [[inconscient]], endormi ou [[mort|tué]].

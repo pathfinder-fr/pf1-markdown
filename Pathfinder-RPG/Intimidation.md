@@ -8,7 +8,7 @@ Categories:
 
 {s:MenuCompétences}
 
-**Caractéristique associée** : [Charisme](./Charisme.md)
+**Caractéristique associée** : [[Charisme]]
 
 **Formation nécessaire** : non
 
@@ -16,14 +16,14 @@ Categories:
 
 ### Test de compétence
 
-Le personnage peut utiliser la compétence d’Intimidation pour forcer un adversaire à se montrer amical envers lui pendant 1d6 × 10 minutes en réussissant un test dont le [DD](./DD.md) vaut 10 + le nombre de [DV](./../Ressources/DV.md) de la cible + le modificateur de [Sagesse](./Sagesse.md) de la cible. En cas de réussite, la cible donne au personnage l’information qu’il désire, lui rend des services (tant que cela ne la met pas en danger) ou lui apporte une aide limitée. Au terme de cette période, la cible adopte une attitude inamicale envers le personnage et peut même le dénoncer aux autorités locales. En cas de test raté de 5 points ou plus, la cible tente de tromper le personnage ou de lui mettre des bâtons dans les roues d’une manière ou d’une autre.
+Le personnage peut utiliser la compétence d’Intimidation pour forcer un adversaire à se montrer amical envers lui pendant 1d6 × 10 minutes en réussissant un test dont le [[DD]] vaut 10 + le nombre de [[DV]] de la cible + le modificateur de [[Sagesse]] de la cible. En cas de réussite, la cible donne au personnage l’information qu’il désire, lui rend des services (tant que cela ne la met pas en danger) ou lui apporte une aide limitée. Au terme de cette période, la cible adopte une attitude inamicale envers le personnage et peut même le dénoncer aux autorités locales. En cas de test raté de 5 points ou plus, la cible tente de tromper le personnage ou de lui mettre des bâtons dans les roues d’une manière ou d’une autre.
 
-**Démoraliser un adversaire.** La compétence Intimidation peut aussi servir en plein combat pour rendre un adversaire [secoué](./Secoué.md). Dans ce cas, le [DD](./DD.md) du test est de 10 + le nombre de [DV](./../Ressources/DV.md) de la cible + le modificateur de [Sagesse](./Sagesse.md) de la cible. En cas de réussite, la cible est [secouée](./Secoué.md) pendant 1 round. Cette durée augmente de +1 round par tranche de 5 points entre le résultat et le [DD](./DD.md) du test. Seul un adversaire situé à 9 m (6 cases) ou moins du personnage et qui peut le voir et l’entendre clairement peut être affecté.
+**Démoraliser un adversaire.** La compétence Intimidation peut aussi servir en plein combat pour rendre un adversaire [[secoué]]. Dans ce cas, le [[DD]] du test est de 10 + le nombre de [[DV]] de la cible + le modificateur de [[Sagesse]] de la cible. En cas de réussite, la cible est [[secoué|secouée]] pendant 1 round. Cette durée augmente de +1 round par tranche de 5 points entre le résultat et le [[DD]] du test. Seul un adversaire situé à 9 m (6 cases) ou moins du personnage et qui peut le voir et l’entendre clairement peut être affecté.
 
 Démoraliser la même créature ne fait qu'étendre la durée de l'effet ; cela ne crée pas une condition de peur plus forte.
 ### Action
 
-Modifier l’attitude de quelqu’un prend une minute de discussion. Démoraliser un adversaire en combat nécessite une [action simple](./Action simple.md).
+Modifier l’attitude de quelqu’un prend une minute de discussion. Démoraliser un adversaire en combat nécessite une [[action simple]].
 
 ### Nouvelles tentatives
 
@@ -33,6 +33,6 @@ Il est possible d’intimider un adversaire donné plusieurs fois mais le DD aug
 
 Si le personnage est plus grand que sa cible, il obtient un bonus de +4. Inversement, s’il est plus petit, il subit un malus de -4 aux tests d’Intimidation.
 
-Un personnage possédant le don [Persuasion](./Persuasion.md) obtient un bonus aux tests d’Intimidation.
+Un personnage possédant le don [[Persuasion]] obtient un bonus aux tests d’Intimidation.
 
-Les [demi-orques](./Demi-orque.md) bénéficient d’un bonus racial de +2 aux tests d’Intimidation.
+Les [[demi-orque|demi-orques]] bénéficient d’un bonus racial de +2 aux tests d’Intimidation.

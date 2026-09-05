@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Cornes de Naraga.md).***
+***Voir les [[Pathfinder-RPG.Cornes de Naraga|statistiques de cet artefact]].***
 
 Ce casque intimidant est surmonté d’une paire de grandes cornes de dragon, enchâssées dans un heaume impérieux de cuivre abîmé et gravé de sceaux.
 

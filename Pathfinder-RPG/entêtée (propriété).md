@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Entêtée
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Entêtée](./Descriptions individuelles des propriétés spéciales des armes.md#Entêtée)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Entêtée]]

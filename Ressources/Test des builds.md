@@ -8,7 +8,7 @@ LastModified: 2014-08-15 03:32
 
 ## Introduction
 
-Les tests sont effectués contre [++Pathfinder-RPG.Créer un monstre.ashx|des monstres de FP équivalent au niveau du personnage], sur une durée de 10 rounds.
+Les tests sont effectués contre [[Pathfinder-RPG.Créer un monstre.ashx|des monstres de FP équivalent au niveau du personnage]], sur une durée de 10 rounds.
 
 Les conditions des combats lors des tests sont optimales :
 - arme déjà en main
@@ -21,7 +21,7 @@ Les conditions des combats lors des tests sont optimales :
 
 ## Légende des tableaux
 
-- Build : [Builds|Build] testé
+- Build : [[Builds|Build]] testé
 - Nb rounds : nombre de rounds nécessaire en moyenne pour tuer le monstre.
 - DPR : Dégâts moyens effectués par round
 - PV : points de vie moyens du personnage à ce niveau (points de vie maximum au niveau 1, puis moyenne haute à chaque niveau : 1d6=4, 1d8=5, 1d10=6, 1d12=7)

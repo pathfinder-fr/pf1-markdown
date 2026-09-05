@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Rukh#Jeune rukh
 ---
 
->>> [Rukh#Jeune rukh](./Rukh.md#Jeune rukh)
+>>> [[Rukh#Jeune rukh]]

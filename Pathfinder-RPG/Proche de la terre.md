@@ -12,6 +12,6 @@ Categories:
 
 {s:apg}*Le personnage sait parler aux animaux enfouisseurs.*
 
-**Conditions. **[Cha](./Charisme.md) 13, [gnome](./Gnome.md), trait racial Magie gnome.
+**Conditions. **[[charisme|Cha]] 13, [[gnome]], trait racial Magie gnome.
 
-**Avantage.** Le personnage peut utiliser *[communication avec les animaux](./Communication avec les animaux.md) *en tant que pouvoir magique à volonté, mais seulement pour communiquer avec les animaux enfouisseurs tels que les taupes, les géomyidés et autres animaux similaires. Il reste capable d’utiliser sa capacité gnome de *communication avec les animaux* une fois par jour pour communiquer avec n’importe quel animal.
+**Avantage.** Le personnage peut utiliser *[[communication avec les animaux]] *en tant que pouvoir magique à volonté, mais seulement pour communiquer avec les animaux enfouisseurs tels que les taupes, les géomyidés et autres animaux similaires. Il reste capable d’utiliser sa capacité gnome de *communication avec les animaux* une fois par jour pour communiquer avec n’importe quel animal.

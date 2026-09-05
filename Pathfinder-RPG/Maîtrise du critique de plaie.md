@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage contrôle le type de plaie infligée par ses coups critiques. *
 
-**Conditions.** [Critique de plaie](./Critique de plaie.md), lanceur de sorts de niveau 9
+**Conditions.** [[Critique de plaie]], lanceur de sorts de niveau 9
 
-**Avantage.** Quand le personnage applique une plaie à l’aide du don [Critique de plaie](./Critique de plaie.md) ou [Critique de plaie supérieur](./Critique de plaie supérieur.md), il peut choisir le type de [plaie magique](./Plaies.md) qu’il applique au lieu de la déterminer au hasard.
+**Avantage.** Quand le personnage applique une plaie à l’aide du don [[Critique de plaie]] ou [[Critique de plaie supérieur]], il peut choisir le type de [[plaies|plaie magique]] qu’il applique au lieu de la déterminer au hasard.

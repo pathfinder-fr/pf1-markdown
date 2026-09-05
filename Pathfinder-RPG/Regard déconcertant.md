@@ -14,13 +14,13 @@ Categories:
 
 *Le regard douloureux du personnage déconcerte sa cible, lui faisant oublier son environnement*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [regard](./Dons.md#DONREGARD)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONREGARD|regard]]
 
-**Conditions.** [Hypnotiseur](./Hypnotiseur.md) de niveau 5, capacité de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX)
+**Conditions.** [[Hypnotiseur]] de niveau 5, capacité de classe [[Hypnotiseur#REGARDDOULOUREUX|regard douloureux]]
 
-**Avantage.** Lorsque le personnage déclenche son regard douloureux, la cible doit réussir un jet de [Volonté](./Volonté.md) ([DD](./DD.md) 10 + 1/2 niveau d’[hypnotiseur](./Hypnotiseur.md) + modificateur de [Charisme](./Charisme.md) du personnage) ou subir une pénalité de -6 aux tests de [Sabotage](./Sabotage.md) et de [Perception](./Perception.md) ainsi qu'une pénalité de -2 aux jets de [Réflexes](./Réflexes.md) pendant 1 minute.
+**Avantage.** Lorsque le personnage déclenche son regard douloureux, la cible doit réussir un jet de [[Volonté]] ([[DD]] 10 + 1/2 niveau d’[[hypnotiseur]] + modificateur de [[Charisme]] du personnage) ou subir une pénalité de -6 aux tests de [[Sabotage]] et de [[Perception]] ainsi qu'une pénalité de -2 aux jets de [[Réflexes]] pendant 1 minute.
 
-Si la cible possède la capacité [sens des pièges](./Roublard.md#RECHERCHEDESPIEGES) ou [recherche des pièges](./Roublard.md#SENSDESPIEGES) et rate son [jet de sauvegarde](./jet de sauvegarde.md), elle perd aussi le bénéfice de cette capacité (ou de ces capacités) pendant 1 minute.
+Si la cible possède la capacité [[Roublard#RECHERCHEDESPIEGES|sens des pièges]] ou [[Roublard#SENSDESPIEGES|recherche des pièges]] et rate son [[jet de sauvegarde]], elle perd aussi le bénéfice de cette capacité (ou de ces capacités) pendant 1 minute.
 
 (((Disconcerting stare (combat, stare)
 

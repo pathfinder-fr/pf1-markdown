@@ -10,7 +10,7 @@ Categories:
 
 {s:Menubénédictions}{s:MCA}
 #### Frappe enflammée *(mineur)*
-Au niveau 1, le prêtre combattant peut toucher une arme pour lui accorder la gloire des flammes. Pendant une minute, l’arme luit d’un rouge ardent et inflige 1d4 points de dégâts de feu en plus à chaque coup. Ces dégâts supplémentaires ne se cumulent pas avec ceux d’une arme de *[feu](./feu (propriété).md)* ou de *[feu intense](./feu intense (propriété).md)*.
+Au niveau 1, le prêtre combattant peut toucher une arme pour lui accorder la gloire des flammes. Pendant une minute, l’arme luit d’un rouge ardent et inflige 1d4 points de dégâts de feu en plus à chaque coup. Ces dégâts supplémentaires ne se cumulent pas avec ceux d’une arme de *[[feu (propriété)|feu]]* ou de *[[feu intense (propriété)|feu intense]]*.
 
 #### Armure de flammes *(majeur)*
-Au niveau 10, le prêtre combattant peut toucher un allié pour l’envelopper de flammes qui fonctionnent comme un *[bouclier de feu](./Bouclier de feu.md)* (chaud uniquement) pendant une minute.
+Au niveau 10, le prêtre combattant peut toucher un allié pour l’envelopper de flammes qui fonctionnent comme un *[[bouclier de feu]]* (chaud uniquement) pendant une minute.

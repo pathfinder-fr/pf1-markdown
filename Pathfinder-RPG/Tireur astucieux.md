@@ -11,8 +11,8 @@ Categories:
 
 *La visée fantastique du personnage permet de mettre hors jeu son adversaire sans le blesser.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 13, [Viser](./Viser.md), [BBA](./BBA.md) +1
+**Conditions.** [[Dextérité|Dex]] 13, [[Viser]], [[BBA]] +1
 
-**Avantages.** Le personnage gagne un bonus de +2 au [manoeuvre de combat](./Manœuvres offensives.md) à distance. Lorsqu’il tente une telle manoeuvre, le personnage peut s’abstenir de faire des dégâts à sa cible sans qu’aucune pénalité au jet de manoeuvre ne soit appliquée.
+**Avantages.** Le personnage gagne un bonus de +2 au [[Manœuvres offensives|manoeuvre de combat]] à distance. Lorsqu’il tente une telle manoeuvre, le personnage peut s’abstenir de faire des dégâts à sa cible sans qu’aucune pénalité au jet de manoeuvre ne soit appliquée.

@@ -10,52 +10,52 @@ LastModified: 2025-01-28 13:48
 {s:pucem|Extérieur|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.225}
 {s:BDTexte|**PX** 307 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([métamorphe](./sous-type métamorphe.md), [natif](./sous-type natif.md), [rakshasa](./sous-type rakshasa.md)) de taille M, LM}
-{s:BDTexte|**Init** +13 ; **Sens** vision à 360°; [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +31}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]], [[sous-type rakshasa|rakshasa]]) de taille M, LM}
+{s:BDTexte|**Init** +13 ; **Sens** vision à 360°; [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +31}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 37, contact 27, pris au dépourvu 27 (Dex +9, esquive +1, naturelle +13, parade +4)}
 {s:BDTexte|**pv** 310 (20d10+200)}
 {s:BDTexte|**Réf** +21, **Vig** +16, **Vol** +28}
-{s:BDTexte|**[RD](./Réduction de dégâts (capacité).md)** 20/Bien et perforant ; **[RM](./Résistance à la magie (capacité).md)** 35}
+{s:BDTexte|**[[Réduction de dégâts (capacité)|RD]]** 20/Bien et perforant ; **[[Résistance à la magie (capacité)|RM]]** 35}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), Vol 9 m (6 {s:c})(bonne)}
 {s:BDTexte|**Corps à corps** cimeterre à deux mains +3, +31/+26/+21/+16 (2d4+15/15-20) et 4 morsures, +23 (1d6+4)}
-{s:BDTexte|**Attaques spéciales** [détection de pensées](./Détection de pensées.md) (DD 29), initiative extraordinaire}
+{s:BDTexte|**Attaques spéciales** [[détection de pensées]] (DD 29), initiative extraordinaire}
 {s:BDTexte|**Pouvoirs magiques** (NLS 18 ; concentration +27)}
-{s:BDSorts|Constant — *[compréhension des langages](./Compréhension des langages.md)* , *[don des langues](./Don des langues.md)*}
-{s:BDSorts|À volonté — *[Clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*}
-{s:BDSorts|1/jour — *[domination universelle](./Domination universelle.md)* (DD 28)}
+{s:BDSorts|Constant — *[[compréhension des langages]]* , *[[don des langues]]*}
+{s:BDSorts|À volonté — *[[Clairaudienceclairvoyance|Clairaudience/clairvoyance]]*}
+{s:BDSorts|1/jour — *[[domination universelle]]* (DD 28)}
 {s:BDTexte|**Sorts connus** (NLS 18 ; concentration +27)}
-{s:BDSorts|9ème (4/jour) — *[ennemi subconscient](./Ennemi subconscient.md)* (DD 28)}
-{s:BDSorts|8ème (6/jour) — *[esprit impénétrable](./Esprit impénétrable.md)* , *[magie des ombres suprême](./Magie des ombres suprême.md)*}
-{s:BDSorts|7ème (7/jour) — *[Convocation d'ombres suprême](./Convocation dombres suprême.md)* , *[invisibilité de groupe](./Invisibilité de groupe.md)* , *[renvoi des sorts](./Renvoi des sorts.md)*}
-{s:BDSorts|6ème (7/jour) — *[dissipation suprême](./Dissipation suprême.md)* , *[suggestion de groupe](./Suggestion de groupe.md)* (DD 25) , *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|5ème (8/jour) — *[brume mentale](./Brume mentale.md)* (DD 24) , *[débilité](./Débilité.md)* (DD 24) , *[métamorphose funeste](./Métamorphose funeste.md)* (DD 24), *[téléportation](./téléportation.md)*}
-{s:BDSorts|4ème (8/jour) — *[charme-monstre](./Charme-monstre.md)* (DD 23) , *[Globe d'invulnérabilité partielle](./Globe dinvulnérabilité partielle.md)* , *[porte dimensionnelle](./Porte dimensionnelle.md)* , *[scrutation](./scrutation.md)* }
-{s:BDSorts|3ème (8/jour) — *[antidétection](./Antidétection.md)* , *[baiser du vampire](./Baiser du vampire.md)* (DD 22) , *[dissipation de la magie](./Dissipation de la magie.md)* , *[suggestion](./Suggestion.md)* (DD 22)}
-{s:BDSorts|2ème (8/jour) — *[détection de l’invisibilité](./Détection de linvisibilité.md)* , *[déblocage](./Déblocage.md)* , *[détection faussée](./Détection faussée.md)* (DD 21) , *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)* , *[ténèbres](./Ténèbres.md)*}
-{s:BDSorts|1er (9/jour) — *[armure de mage](./Armure de mage.md)* , *[charme-personne](./Charme-personne.md)* (DD 20) , *[identification](./Identification.md)* , *[projectile magique](./Projectile magique.md)* , *[ventriloquie](./Ventriloquie.md)* (DD 20)}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)* , *[hébétement](./Hébétement.md)* (DD 19), *[lecture de la magie](./Lecture de la magie.md)* , *[manipulation à distance](./Manipulation à distance.md)* , *[message](./Message.md)* , *[prestidigitation](./Prestidigitation.md)* , *[saignement](./Saignement.md)* (DD 19) , *[signature magique](./Signature magique.md)* , *[son imaginaire](./Son imaginaire.md)* (DD 14)}
+{s:BDSorts|9ème (4/jour) — *[[ennemi subconscient]]* (DD 28)}
+{s:BDSorts|8ème (6/jour) — *[[esprit impénétrable]]* , *[[magie des ombres suprême]]*}
+{s:BDSorts|7ème (7/jour) — *[[Convocation dombres suprême|Convocation d'ombres suprême]]* , *[[invisibilité de groupe]]* , *[[renvoi des sorts]]*}
+{s:BDSorts|6ème (7/jour) — *[[dissipation suprême]]* , *[[suggestion de groupe]]* (DD 25) , *[[vision lucide]]*}
+{s:BDSorts|5ème (8/jour) — *[[brume mentale]]* (DD 24) , *[[débilité]]* (DD 24) , *[[métamorphose funeste]]* (DD 24), *[[téléportation]]*}
+{s:BDSorts|4ème (8/jour) — *[[charme-monstre]]* (DD 23) , *[[Globe dinvulnérabilité partielle|Globe d'invulnérabilité partielle]]* , *[[porte dimensionnelle]]* , *[[scrutation]]* }
+{s:BDSorts|3ème (8/jour) — *[[antidétection]]* , *[[baiser du vampire]]* (DD 22) , *[[dissipation de la magie]]* , *[[suggestion]]* (DD 22)}
+{s:BDSorts|2ème (8/jour) — *[[détection de linvisibilité|détection de l’invisibilité]]* , *[[déblocage]]* , *[[détection faussée]]* (DD 21) , *[[résistance aux énergies destructives]]* , *[[ténèbres]]*}
+{s:BDSorts|1er (9/jour) — *[[armure de mage]]* , *[[charme-personne]]* (DD 20) , *[[identification]]* , *[[projectile magique]]* , *[[ventriloquie]]* (DD 20)}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]* , *[[hébétement]]* (DD 19), *[[lecture de la magie]]* , *[[manipulation à distance]]* , *[[message]]* , *[[prestidigitation]]* , *[[saignement]]* (DD 19) , *[[signature magique]]* , *[[son imaginaire]]* (DD 14)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 27, **Dex** 28, **Con** 30, **Int** 25, **Sag** 22, **Cha** 29}
 {s:BDTexte|**BBA** +20 ; **BMO** +28 ; **DMD** 52}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md) , [Esquive](./Esquive.md) , [Incantation silencieuse](./Incantation silencieuse.md) , [Incantation statique](./Incantation statique.md) , [Incantation rapide](./Incantation rapide.md) , [Magie de guerre](./Magie de guerre.md) , [Science de l’initiative](./Science de linitiative.md) , [Science du critique](./Science du critique.md)(cimeterre à deux mains) , [Souplesse du serpent](./Souplesse du serpent.md) , [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +27 (+31 pour le saut), [Art de la magie](./Art de la magie.md) +25, [Bluff](./Bluff.md) +35, [Connaissances](./Connaissances.md) (mystères, histoire, noblesse, religion) +25, [Déguisement](./Déguisement.md) +30, [Diplomatie](./Diplomatie.md) +30, [Discrétion](./Discrétion.md) +30, [Estimation](./Estimation.md) +25, [Intimidation](./Intimidation.md) +30, [Perception](./Perception.md) +31, [Psychologie](./Psychologie.md) +27, [Vol](./Vol.md) +31}
-{s:BDTexte| **Modificateurs raciaux** +4 en [Bluff](./Bluff.md), +8 en [Déguisement](./Déguisement.md), +4 en [Perception](./Perception.md)}
-{s:BDTexte|**Langues** abyssal, commun, infernal, commun des profondeurs; *[compréhension des langages](./Compréhension des langages.md)* , *[don des langues](./Don des langues.md)*}
-{s:BDTexte|**Particularités** changement de forme ([tout humanoïde](./type Humanoïde.md) ; *[modification d'apparence](./Modification dapparence.md)*)}
+{s:BDTexte|**Dons** [[Attaques réflexes]] , [[Esquive]] , [[Incantation silencieuse]] , [[Incantation statique]] , [[Incantation rapide]] , [[Magie de guerre]] , [[Science de linitiative|Science de l’initiative]] , [[Science du critique]](cimeterre à deux mains) , [[Souplesse du serpent]] , [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +27 (+31 pour le saut), [[Art de la magie]] +25, [[Bluff]] +35, [[Connaissances]] (mystères, histoire, noblesse, religion) +25, [[Déguisement]] +30, [[Diplomatie]] +30, [[Discrétion]] +30, [[Estimation]] +25, [[Intimidation]] +30, [[Perception]] +31, [[Psychologie]] +27, [[Vol]] +31}
+{s:BDTexte| **Modificateurs raciaux** +4 en [[Bluff]], +8 en [[Déguisement]], +4 en [[Perception]]}
+{s:BDTexte|**Langues** abyssal, commun, infernal, commun des profondeurs; *[[compréhension des langages]]* , *[[don des langues]]*}
+{s:BDTexte|**Particularités** changement de forme ([[type humanoïde|tout humanoïde]] ; *[[modification dapparence|modification d'apparence]]*)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** double (cimeterre à deux mains +3, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Initiative extraordinaire (Sur)** Lorsqu’une rencontre débute, le maharadjah lance deux fois son initiative. Il agit normalement à chaque round quand vient sa plus haute valeur d’initiative. Quand vient la plus basse, il peut effectuer une action simple.}
-{s:BDTexte|**Sorts.** Le maharadjah peut lancer des sorts profanes comme un [ensorceleur](./Ensorceleur.md) de niveau 18.}
+{s:BDTexte|**Sorts.** Le maharadjah peut lancer des sorts profanes comme un [[Ensorceleur]] de niveau 18.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [rakshasas](./Rakshasa B3.md).***</li></ul>*Impeccablement habillé et paré de bijoux exotiques, ce fiélon tient un sabre ciselé dans ses mains aux paumes inversées.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Rakshasa B3|rakshasas]].***</li></ul>*Impeccablement habillé et paré de bijoux exotiques, ce fiélon tient un sabre ciselé dans ses mains aux paumes inversées.*
 
-Tous les [rakshasas](./Rakshasa.md) aspirent au pouvoir, mais il en est pour lesquels cette soif est plus qu’une obsession : c’est un droit inné. Il existe beaucoup de légendes rakshasas sur les maharadjahs (ces rakshasas que leurs déprédations et leurs actes de cruauté ont élevé au-dessus de leurs semblables et qui leur ont permis de se réincarner comme la personnification de tous les mythes, contes et récits initiatiques mettant en scène ces fiélons à tête bestiale). Jouissant du respect et de la déférence de leurs inférieurs, les maharadjahs n’inspirent une émotion tous les rakshasas, une émotion que bien peu de créatures leur font ressentir : la peur.
+Tous les [[Rakshasa|rakshasas]] aspirent au pouvoir, mais il en est pour lesquels cette soif est plus qu’une obsession : c’est un droit inné. Il existe beaucoup de légendes rakshasas sur les maharadjahs (ces rakshasas que leurs déprédations et leurs actes de cruauté ont élevé au-dessus de leurs semblables et qui leur ont permis de se réincarner comme la personnification de tous les mythes, contes et récits initiatiques mettant en scène ces fiélons à tête bestiale). Jouissant du respect et de la déférence de leurs inférieurs, les maharadjahs n’inspirent une émotion tous les rakshasas, une émotion que bien peu de créatures leur font ressentir : la peur.
 
 Le rakshasa maharadjah ne vient au monde qu’après qu’un rakshasa de pouvoir et d’influence a passé plusieurs vies comme membre de la samrata, plus haute caste du système sociospirituel des rakshasas. Lorsqu’un rakshasa accède au statut de maharadjah, ses semblables l’apprennent et affluent de partout pour le servir, même lorsqu’il s’agit d’un jeune maharadjah (dont ils essaient de s’attirer les bonnes grâces dès son plus jeune âge). La naissance d’un maharadjah indique qu’un changement majeur se prépare : le maharadjah est là pour accomplir quelque terrible destinée, fonder une nation durable de rakshasas, vivre une ascension divine ou défaire un puissant ennemi pour diriger son domaine qu’il divise souvent en vastes territoires confiés à ses lieutenants et à ses serviteurs tout en conservant suffisamment de place pour s’étendre. Il est extrêmement rare de voir plus de quelques maharadjahs par siècle.
 

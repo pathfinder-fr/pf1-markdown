@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#RAGEELEMENTAIREMINEUR
 ---
 
->>> [pouvoirs de rage#RAGEELEMENTAIREMINEUR](./Pouvoirs de rage.md#RAGEELEMENTAIREMINEUR)
+>>> [[pouvoirs de rage#RAGEELEMENTAIREMINEUR]]

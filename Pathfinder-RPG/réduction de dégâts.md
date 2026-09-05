@@ -7,4 +7,4 @@ Categories:
 RedirectTo: réduction de dégâts (capacité)
 ---
 
->>> [réduction de dégâts (capacité)](./Réduction de dégâts (capacité).md)
+>>> [[réduction de dégâts (capacité)]]

@@ -10,7 +10,7 @@ LastModified: 2021-04-10 11:29
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 22*}
 - **25 600 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [psychopompe](./sous-type psychopompe.md)) de taille M, N
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type psychopompe|psychopompe]]) de taille M, N
 - **Init **+8 ; Sens vision dans le noir à 18 m, vision nocturne, perception spirituelle ; Perception +28
 (((Défense)))
 - **CA **28, contact 13, pris au dépourvu 25 (armure +8, bouclier +2, Dex +3, naturelle +5)
@@ -23,20 +23,20 @@ LastModified: 2021-04-10 11:29
 - **Espace **1,50 m ; **Allonge **1,50 m (3 m avec les bandelettes)
 - **Attaques spéciales** bandelettes
 - ** Pouvoirs magiques** (**NLS **12 ; concentration +15)
-  - *À volonté* – [détection des morts-vivants](./Détection des morts-vivants.md), [pierres commères](./Pierres commères.md)
-  - *5/jour* – [communication avec les morts](./Communication avec les morts.md)
-  - *3/jour* – convocation (niveau 7, 1d4 [tarentules géantes](./Tarentule géante.md), 75% ou 1d4 [nuées d’araignées](./Nuée daraignées.md) 100%)
+  - *À volonté* – [[détection des morts-vivants]], [[pierres commères]]
+  - *5/jour* – [[communication avec les morts]]
+  - *3/jour* – convocation (niveau 7, 1d4 [[tarentule géante|tarentules géantes]], 75% ou 1d4 [[nuée daraignées|nuées d’araignées]] 100%)
 - **Sorts d’inquisiteur** connus (**NLS **12 ; concentration +15)
-  - *Niveau 4* (3) – [divination](./Divination.md), [immunité contre les sorts](./Immunité contre les sorts.md), [liberté de mouvement](./Liberté de mouvement.md), [soins intensifs](./Soins intensifs.md)
-  - *Niveau 3* (5) – [ancre dimensionnelle](./Ancre dimensionnelle.md), [biographie du sang](./Biographie du sang.md) (DD 16), [dissipation de la magie](./Dissipation de la magie.md), [immobilisation de morts-vivants](./Immobilisation de morts-vivants.md) (DD 16)
-  - * Niveau 2 *(6) – [confession](./Confession.md) (DD 15), [détection de l’invisibilité](./Détection de linvisibilité.md), [détection de pensées](./Détection de pensées.md) (DD 15), [immobilisation de personne](./Immobilisation de personne.md) (DD 15), [invisibilité](./Invisibilité.md)
-  - *Niveau 1* (6) – [colère](./Colère.md), [compréhension des langages](./Compréhension des langages.md), [imprécation](./Imprécation.md) (DD 14), [injonction](./Injonction.md) (DD 14), [repli expéditif](./Repli expéditif.md), [sanctuaire](./Sanctuaire.md) (DD 14)
-  - *Niveau 0* – [destruction de mort-vivant](./Destruction de mort-vivant.md), [détection de la magie](./Détection de la magie.md), [inspection](./Inspection.md), [lecture de la magie](./Lecture de la magie.md), [saignement](./Saignement.md) (DD 13), [stabilisation](./Stabilisation.md)
+  - *Niveau 4* (3) – [[divination]], [[immunité contre les sorts]], [[liberté de mouvement]], [[soins intensifs]]
+  - *Niveau 3* (5) – [[ancre dimensionnelle]], [[biographie du sang]] (DD 16), [[dissipation de la magie]], [[immobilisation de morts-vivants]] (DD 16)
+  - * Niveau 2 *(6) – [[confession]] (DD 15), [[détection de linvisibilité|détection de l’invisibilité]], [[détection de pensées]] (DD 15), [[immobilisation de personne]] (DD 15), [[invisibilité]]
+  - *Niveau 1* (6) – [[colère]], [[compréhension des langages]], [[imprécation]] (DD 14), [[injonction]] (DD 14), [[repli expéditif]], [[sanctuaire]] (DD 14)
+  - *Niveau 0* – [[destruction de mort-vivant]], [[détection de la magie]], [[inspection]], [[lecture de la magie]], [[saignement]] (DD 13), [[stabilisation]]
 (((Statistiques)))
 - **For **22, **Dex **19, **Con **18, **Int** 13, **Sag **17, **Cha **16
 - **BBA** +18 ; **BMO** +24 (+28 en lutte) ; **DMD **38
-- **Dons **[Attaques réflexes](./Attaques réflexes.md), [Avance et frappe](./Avance et frappe.md), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md)<sup>S</sup>, [Expertise du combat](./Expertise du combat.md), [Parade de projectiles](./Parade de projectiles.md)<sup>S</sup>, [Persuasion](./Persuasion.md), [Poursuite](./Poursuite.md), [S’avancer](./Savancer.md), [Science de l’initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Bluff](./Bluff.md) +15, [Connaissances](./Connaissances.md) (plans) +13, [Déguisement](./Déguisement.md) +15, [Diplomatie](./Diplomatie.md) +25, [Discrétion](./Discrétion.md) +22, [Escalade](./Escalade.md) +11, [Escamotage](./Escamotage.md) +10, [Intimidation](./Intimidation.md) +17, [Natation](./Natation.md) +6, [Perception](./Perception.md) +28, [Psychologie](./Psychologie.md) +25, [Survie](./Survie.md) +15
+- **Dons **[[Attaques réflexes]], [[Avance et frappe]], [[Dispense de composantes matérielles]]<sup>S</sup>, [[Expertise du combat]], [[Parade de projectiles]]<sup>S</sup>, [[Persuasion]], [[Poursuite]], [[savancer|S’avancer]], [[Science de linitiative|Science de l’initiative]], [[Vigilance]], [[Volonté de fer]]
+- **Compétences** [[Bluff]] +15, [[Connaissances]] (plans) +13, [[Déguisement]] +15, [[Diplomatie]] +25, [[Discrétion]] +22, [[Escalade]] +11, [[Escamotage]] +10, [[Intimidation]] +17, [[Natation]] +6, [[Perception]] +28, [[Psychologie]] +25, [[Survie]] +15
 - **Langues **abyssal, céleste, infernal ; communication avec les animaux (y compris les vermines), don des langues
 - **Particularités **changement de forme (animal ou humanoïde), contact spectral
 (((Écologie)))
@@ -49,7 +49,7 @@ LastModified: 2021-04-10 11:29
 - **Vision à travers les araignées (Sur)**. La morrigna peut voir au travers des yeux d’une nuée d’araignées qu’elle a invoquée comme si celle-ci était le capteur d’un sort d’oeil de mage. Elle n’a pas besoin de se concentrer pour utiliser ce pouvoir.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [psychopompes](./../Golarion/Psychopompes.md).***</li></ul>*Cette belle femme a le visage masqué et porte une robe entièrement faite de soie d’araignée. Des fétiches magiques ornent ses vêtements et son bâton.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Psychopompes]].***</li></ul>*Cette belle femme a le visage masqué et porte une robe entièrement faite de soie d’araignée. Des fétiches magiques ornent ses vêtements et son bâton.*
 
 
 Les morrignas sont les enquêtrices, les chasseuses de primes et les assassins du Purgatoire. Elles pourchassent ceux qui bafouent le cycle naturel de la mort et du jugement. Elles mesurent entre 2,10 et 2,40 mètres et pèsent entre 100 et 125 kilogrammes.

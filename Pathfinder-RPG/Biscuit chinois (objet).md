@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pc ; **Poids** —
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Ce biscuit est fait d’une pâte dure entortillée autour d’une petite bande de papier sur lequel est inscrite une maxime énigmatique.

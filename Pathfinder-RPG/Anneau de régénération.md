@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de régénération|}
-**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 15 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 90 000 po ; **Poids** —
+**Aura** [[Invocation]] puissante ; **NLS** 15 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 90 000 po ; **Poids** —
 (((Description)))
-Cet anneau en or blanc est généralement serti d’un gros saphir vert. Il permet à son porteur de guérir, chaque round, 1 point de dégâts normaux et 1 point de dégâts non-létaux. De plus, il est [immunisé](./immunisé.md) à la perte de point de vie due au [saignement](./Saignement.md). Si le personnage perd un membre ou un organe alors qu’il porte l’anneau, son membre repousse (ou son organe se reconstitue) comme s’il bénéficiait du sort *[régénération](./Régénération.md)*. À noter que le personnage ne peut récupérer que les points de vie (ou les membres) perdus alors qu’il portait l’anneau.
+Cet anneau en or blanc est généralement serti d’un gros saphir vert. Il permet à son porteur de guérir, chaque round, 1 point de dégâts normaux et 1 point de dégâts non-létaux. De plus, il est [[immunisé]] à la perte de point de vie due au [[saignement]]. Si le personnage perd un membre ou un organe alors qu’il porte l’anneau, son membre repousse (ou son organe se reconstitue) comme s’il bénéficiait du sort *[[régénération]]*. À noter que le personnage ne peut récupérer que les points de vie (ou les membres) perdus alors qu’il portait l’anneau.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[régénération](./Régénération.md)* ; **Coût** 45 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[régénération]]* ; **Coût** 45 000 po
 </div>

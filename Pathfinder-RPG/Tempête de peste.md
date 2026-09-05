@@ -13,26 +13,26 @@ Categories:
 ---
 
 {s:UM}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[mal, maladie](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Prê](./Prêtre.md) 6, [Sor](./Sorcière.md) 6  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal, maladie]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 6  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Effet** un nuage de 6 m (4 {s:c}) de rayon et 6 m (4 {s:c}) de haut  
 
-**Durée** 1 minute/[niveau](./niveau.md) et instantanée (voir texte)  
+**Durée** 1 minute/[[niveau]] et instantanée (voir texte)  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
-Le personnage crée un ignoble nuage gris, semblable à une *[nappe de brouillard](./Nappe de brouillard.md)* parfois zébrée d’éclairs d’un vert maladif à l’odeur écœurante. Les créatures situées dans la zone doivent réussir un [jet de sauvegarde](./jet de sauvegarde.md) ou contracter l’une des [maladies](./Maladies.md) suivantes : la bouille-crâne, la diantrespasme, la fièvre des marais, la fièvre gloussante, la lèpre, le mal aveuglant, le mal rouge, la mort vaseuse, la peste bubonique, la peste infernale ou la tremblante.
+Le personnage crée un ignoble nuage gris, semblable à une *[[nappe de brouillard]]* parfois zébrée d’éclairs d’un vert maladif à l’odeur écœurante. Les créatures situées dans la zone doivent réussir un [[jet de sauvegarde]] ou contracter l’une des [[maladies]] suivantes : la bouille-crâne, la diantrespasme, la fièvre des marais, la fièvre gloussante, la lèpre, le mal aveuglant, le mal rouge, la mort vaseuse, la peste bubonique, la peste infernale ou la tremblante.
 
-C’est le personnage qui choisit la [maladie](./Maladies.md) au moment de l’incantation et elle s’applique à toutes les cibles qui ratent le [jet de sauvegarde](./jet de sauvegarde.md). La [maladie](./Maladies.md) se déclare immédiatement, sans période d’incubation, comme un effet instantané. Pour déterminer les effets de la [maladie](./Maladies.md), consultez la fréquence indiquée. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est augmenté de +2. Pour toute information supplémentaire, la section "[Les maladies](./Maladies.md)".
+C’est le personnage qui choisit la [[maladies|maladie]] au moment de l’incantation et elle s’applique à toutes les cibles qui ratent le [[jet de sauvegarde]]. La [[maladies|maladie]] se déclare immédiatement, sans période d’incubation, comme un effet instantané. Pour déterminer les effets de la [[maladies|maladie]], consultez la fréquence indiquée. Le [[DD]] du [[jet de sauvegarde]] est augmenté de +2. Pour toute information supplémentaire, la section "[[maladies|Les maladies]]".
 
-Contrairement à la *[nappe de brouillard](./Nappe de brouillard.md)*, la *tempête de peste* s’éloigne du personnage à une vitesse de 3 mètres (2 {s:c}) par [round](./round.md), en roulant sur le paysage.
+Contrairement à la *[[nappe de brouillard]]*, la *tempête de peste* s’éloigne du personnage à une vitesse de 3 mètres (2 {s:c}) par [[round]], en roulant sur le paysage.
 
-L’étendue de la zone du sort se détermine à chaque [round](./round.md) en fonction de son nouveau point d’origine qui s’éloigne à chaque fois de 3 mètres (2 {s:c}) depuis son point de départ.
+L’étendue de la zone du sort se détermine à chaque [[round]] en fonction de son nouveau point d’origine qui s’éloigne à chaque fois de 3 mètres (2 {s:c}) depuis son point de départ.
 
 Comme les vapeurs sont plus lourdes que l’air, elles s’enfoncent dans les creux du terrain et descendent même dans les terriers ou les trous. Le nuage ne peut pas entrer dans les liquides et il est impossible de lancer ce sort sous l’eau.

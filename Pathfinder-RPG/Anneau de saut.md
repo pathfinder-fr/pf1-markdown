@@ -8,18 +8,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de saut|}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 2 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 2 500 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 2 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 2 500 po ; **Poids** —
 (((Description)))
-Cet anneau permet à son porteur d’effectuer de grands bonds en lui conférant un bonus de compétence de +5 aux tests d’[Acrobaties](./Acrobaties.md) pour faire des sauts en hauteur ou en longueur.
+Cet anneau permet à son porteur d’effectuer de grands bonds en lui conférant un bonus de compétence de +5 aux tests d’[[Acrobaties]] pour faire des sauts en hauteur ou en longueur.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), 5 rangs en [Acrobaties](./Acrobaties.md) ; **Coût** 1 250 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], 5 rangs en [[Acrobaties]] ; **Coût** 1 250 po
 </div>
 
 <div class="BD">
 {s:BDTitre|Anneau de saut supérieur|}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 10 000 po ; **Poids** —
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 10 000 po ; **Poids** —
 (((Description)))
-Comme l’*anneau de saut*, mais il confère un bonus de compétence de +10 aux tests d’[Acrobaties](./Acrobaties.md) pour faire des sauts en hauteur ou en longueur.
+Comme l’*anneau de saut*, mais il confère un bonus de compétence de +10 aux tests d’[[Acrobaties]] pour faire des sauts en hauteur ou en longueur.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), 10 rangs en [Acrobaties](./Acrobaties.md) ; **Coût** 5 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], 10 rangs en [[Acrobaties]] ; **Coût** 5 000 po
 </div>

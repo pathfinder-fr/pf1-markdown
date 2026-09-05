@@ -4,12 +4,12 @@ Title: Otari, port de l'île de Kortos
 LastModified: 2025-01-08 21:04
 ---
 
-• [Retour à la page sur le lore et le monde de Golarion pour Pathfinder 2](./LORE.md)  
+• [[LORE|Retour à la page sur le lore et le monde de Golarion pour Pathfinder 2]]  
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]
 
 
-Otari est la "ville de départ" utilisée dans la boîte d'initiation pour Pathfinder 2 ainsi que dans les scénarios du recueil Troubles à Otari et dans la campagne [AP28|Le Donjon des Abominations]. Plusieurs articles permettant d'étoffer la ville ont été publiés sur le blog de Paizo. Leur traduction est disponible ci-dessous.
+Otari est la "ville de départ" utilisée dans la boîte d'initiation pour Pathfinder 2 ainsi que dans les scénarios du recueil Troubles à Otari et dans la campagne [[AP28|Le Donjon des Abominations]]. Plusieurs articles permettant d'étoffer la ville ont été publiés sur le blog de Paizo. Leur traduction est disponible ci-dessous.
 
 <div class="itemmenu">
 {s:ItemPF2|L'histoire d'Otari|Un aperçu de l'histoire d'Otari présentée par Oseph Menhémès|/Wiki/Pathfinder2.Otari-Histoire.ashx|/Wiki/public/Upload/Illustrations/Wiki/PF2/110420_Otari.jpg}

@@ -14,7 +14,7 @@ Sont listés ci-après les sites avec lesquels Pathfinder-FR collabore et entret
 
 ### Ludocortex
 
-<center><a href="http://www.ludocortex.com">[image||{UP}/Bannieres/ludocortex.gif]</a></center>
+<center><a href="http://www.ludocortex.com"><img src="{UP}/Bannieres/ludocortex.gif" alt=""></a></center>
 
 ### Necromancers of the Northwest
 
@@ -28,4 +28,4 @@ Sont listés ci-après les sites avec lesquels Pathfinder-FR collabore et entret
 
 <div class="presentation navmenu" style="text-align: center; margin: 0 0 8px 8px">
 **Vous voulez ajouter un lien vers Pathfinder-FR sur votre site ?**   
- Cliquez [ici](./Bannieres.md) pour accéder à diverses bannières et au code HTML que vous pouvez simplement copier/coller chez vous !</div>
+ Cliquez [[Bannieres|ici]] pour accéder à diverses bannières et au code HTML que vous pouvez simplement copier/coller chez vous !</div>

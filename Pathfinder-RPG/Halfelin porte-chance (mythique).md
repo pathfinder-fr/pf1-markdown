@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage partage sa chance mythique avec son entourage.*
 
-**Condition.** [Halfelin porte-chance](./Halfelin porte-chance.md)
+**Condition.** [[Halfelin porte-chance]]
 
-**Avantage.** Lorsqu’il utilise [Halfelin porte-chance](./Halfelin porte-chance.md), le personnage ajoute son grade en bonus au jet de sauvegarde. Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) lorsqu’un allié utilise son jet de sauvegarde mais souffre toujours d’un effet néfaste après avoir réussi le jet. Dans ce cas, cet allié ne subit aucun effet néfaste après avoir réussi son jet de sauvegarde.
+**Avantage.** Lorsqu’il utilise [[Halfelin porte-chance]], le personnage ajoute son grade en bonus au jet de sauvegarde. Il peut dépenser une utilisation de [[pouvoir mythique]] lorsqu’un allié utilise son jet de sauvegarde mais souffre toujours d’un effet néfaste après avoir réussi le jet. Dans ce cas, cet allié ne subit aucun effet néfaste après avoir réussi son jet de sauvegarde.

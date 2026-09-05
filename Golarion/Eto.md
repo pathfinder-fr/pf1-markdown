@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Ville d'[Osirion](./Osirion.md) situé aux pieds des [Piliers du Soleil](./Piliers du Soleil.md).
+Ville d'[[Osirion]] situé aux pieds des [[Piliers du Soleil]].
 
-Elle doit sa richesse à sa position stratégique au milieu des routes commerciales entre [Sothis](./Sothis.md) et [Shiman-Sekh](./Shiman-Sekh.md) et la [Thuvie](./Thuvie.md). Elle sert aussi de camp de base à tout aventurier et chasseur de trésors qui souhaite explorer le centre de l'[Osirion](./Osirion.md).
+Elle doit sa richesse à sa position stratégique au milieu des routes commerciales entre [[Sothis]] et [[Shiman-Sekh]] et la [[Thuvie]]. Elle sert aussi de camp de base à tout aventurier et chasseur de trésors qui souhaite explorer le centre de l'[[Osirion]].

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Archétypes#CREATURECELESTE
 ---
 
->>> [Archétypes#CREATURECELESTE](./Archétypes.md#CREATURECELESTE)
+>>> [[Archétypes#CREATURECELESTE]]

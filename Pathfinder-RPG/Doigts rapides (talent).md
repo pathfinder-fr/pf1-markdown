@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#DOIGTSRAPIDES
 ---
 
->>> [Talents#DOIGTSRAPIDES](./Talents.md#DOIGTSRAPIDES)
+>>> [[Talents#DOIGTSRAPIDES]]

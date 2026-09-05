@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Hyp](./Hypnotiseur.md) 3, [Sor](./Sorcière.md) 4  
+**École** [[Abjuration]] ; **Niveau** [[Hypnotiseur|Hyp]] 3, [[Sorcière|Sor]] 4  
 
 **Temps d'incantation** 1 round  
 
-**Composantes** [V, G, M](./composantes.md) (encres rares d'une valeur de 250 po)  
+**Composantes** [[Composantes|V, G, M]] (encres rares d'une valeur de 250 po)  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 heure/[niveau](./niveau.md) (T) ou jusqu'à déchargement
+**Durée** 1 heure/[[niveau]] (T) ou jusqu'à déchargement
 
-Le personnage choisit un unique sort de portée « contact » de [niveau](./Niveau de sort.md) 4 ou moins qui possède une durée d'incantation d'une [action simple](./Action simple.md) ou moins. Lors de l'incantation de *rancune*, il lance le sort associé et le lie à un sceau défensif sous forme de tatouage, de marque de naissance ou de pustule quelque part sur son corps. La prochaine attaque de corps à corps ou manœuvre offensive qui le touche déclenche le sort stocké. Le personnage n'a pas besoin de faire une [attaque de contact](./attaque de contact.md) pour affecter sa cible mais en dehors de ceci, on considère le sort exactement comme si le personnage l'avait lancé normalement. Si la créature qui attaque n'est pas une cible valide pour le sort stocké, il est perdu.
+Le personnage choisit un unique sort de portée « contact » de [[niveau de sort|niveau]] 4 ou moins qui possède une durée d'incantation d'une [[action simple]] ou moins. Lors de l'incantation de *rancune*, il lance le sort associé et le lie à un sceau défensif sous forme de tatouage, de marque de naissance ou de pustule quelque part sur son corps. La prochaine attaque de corps à corps ou manœuvre offensive qui le touche déclenche le sort stocké. Le personnage n'a pas besoin de faire une [[attaque de contact]] pour affecter sa cible mais en dehors de ceci, on considère le sort exactement comme si le personnage l'avait lancé normalement. Si la créature qui attaque n'est pas une cible valide pour le sort stocké, il est perdu.
 
 Le personnage ne peut activer qu'un sort de *rancune* à la fois, s'il le lance une seconde fois, les effets du premier se dissipent.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#CHARMEUR
 ---
 
->>> [Talents#CHARMEUR](./Talents.md#CHARMEUR)
+>>> [[Talents#CHARMEUR]]

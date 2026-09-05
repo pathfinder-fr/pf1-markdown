@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#ENCHANTEMENT
 ---
 
->>> [Présentation des sorts#ENCHANTEMENT](./Présentation des sorts.md#ENCHANTEMENT)
+>>> [[Présentation des sorts#ENCHANTEMENT]]

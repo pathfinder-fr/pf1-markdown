@@ -7,4 +7,4 @@ Categories:
 RedirectTo: matériaux spéciaux#BOISVERT
 ---
 
->>> [matériaux spéciaux#BOISVERT](./Matériaux spéciaux.md#BOISVERT)
+>>> [[matériaux spéciaux#BOISVERT]]

@@ -8,27 +8,27 @@ Categories:
 
 {s:MenuPathfinderunchained}{s:PU}*Les sens du personnage lui permettent de repérer certains détails, le préviennent des dangers imminents et lui indiquent quand les gens lui mentent ou se comportent de manière suspecte.*
 
-**Caractéristique associée :** [Sagesse](./Sagesse.md) ; **Formation nécessaire :** Non ; **Malus d'armure :** Non
+**Caractéristique associée :** [[Sagesse]] ; **Formation nécessaire :** Non ; **Malus d'armure :** Non
 
-**Fonctions.** [Avoir un pressentiment](./Compétences fusionnées, Perception.md#AVOIRUNPRESSENTIMENT), [détecter la présence de créatures et autres détails](./Compétences fusionnées, Perception.md#DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS), [détecter les mensonges](./Compétences fusionnées, Perception.md#DETECTERLESMENSONGES), [fouiller](./Compétences fusionnées, Perception.md#FOUILLER), [intercepter un message secret](./Compétences fusionnées, Perception.md#INTERCEPTERUNMESSAGESECRET), [percevoir un enchantement](./Compétences fusionnées, Perception.md#PERCEVOIRUNENCHANTEMENT).
+**Fonctions.** [[Compétences fusionnées, Perception#AVOIRUNPRESSENTIMENT|Avoir un pressentiment]], [[Compétences fusionnées, Perception#DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS|détecter la présence de créatures et autres détails]], [[Compétences fusionnées, Perception#DETECTERLESMENSONGES|détecter les mensonges]], [[Compétences fusionnées, Perception#FOUILLER|fouiller]], [[Compétences fusionnées, Perception#INTERCEPTERUNMESSAGESECRET|intercepter un message secret]], [[Compétences fusionnées, Perception#PERCEVOIRUNENCHANTEMENT|percevoir un enchantement]].
 
-**Compétences de base.** [Perception](./Perception.md), [Psychologie](./Psychologie.md).
+**Compétences de base.** [[Perception]], [[Psychologie]].
 
 {s:Reference|AVOIRUNPRESSENTIMENT}
 ### Avoir un pressentiment
-Le personnage peut analyser de manière instinctive une situation sociale en réussissant un test de Perception [DD](./DD.md) 20. Il peut ainsi sentir que quelque chose ne va pas ou éprouver une sensation de malaise lorsqu’il interagit avec un imposteur, ou bien sentir que quelqu’un est digne de confiance. Il n’obtient pas pour autant d’informations détaillées. Utilisez la fonction [détecter les mensonges](./Compétences fusionnées, Perception.md#DETECTERLESMENSONGES) quand le personnage tente de déterminer si une affirmation particulière est un mensonge.
+Le personnage peut analyser de manière instinctive une situation sociale en réussissant un test de Perception [[DD]] 20. Il peut ainsi sentir que quelque chose ne va pas ou éprouver une sensation de malaise lorsqu’il interagit avec un imposteur, ou bien sentir que quelqu’un est digne de confiance. Il n’obtient pas pour autant d’informations détaillées. Utilisez la fonction [[Compétences fusionnées, Perception#DETECTERLESMENSONGES|détecter les mensonges]] quand le personnage tente de déterminer si une affirmation particulière est un mensonge.
 
 **Action.** Une minute.
 
 {s:Reference|DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS}
 ### Détecter la présence de créatures et autres détails
-Le personnage peut détecter la présence d’une créature qui utilise la compétence de [Discrétion](./Compétences fusionnées, Discrétion.md) s’il réussit un test de Perception opposé. Le personnage peut repérer certains détails de son environnement par le biais des cinq sens. Utilisez la fonction [fouiller](./Compétences fusionnées, Perception.md#FOUILLER) de la compétence de Perception pour trouver des objets cachés, des pièges, des portes secrètes et d’autres éléments que l’on détecte seulement en y consacrant du temps.
+Le personnage peut détecter la présence d’une créature qui utilise la compétence de [[Compétences fusionnées, Discrétion|Discrétion]] s’il réussit un test de Perception opposé. Le personnage peut repérer certains détails de son environnement par le biais des cinq sens. Utilisez la fonction [[Compétences fusionnées, Perception#FOUILLER|fouiller]] de la compétence de Perception pour trouver des objets cachés, des pièges, des portes secrètes et d’autres éléments que l’on détecte seulement en y consacrant du temps.
 
 **Action.** Aucune. La plupart des tests de Perception s’effectuent en réaction à un stimulus observable.
 
 **Nouvelles tentatives.** Oui.
 
-**Conditions.** Les conditions favorables, défavorables et exécrables dépendent du sens employé. Une [lumière vive](./Exploration.md#VISIONLUMIERE) peut constituer une condition favorable pour les tests liés à la vue alors qu’une [lumière faible](./Exploration.md#VISIONLUMIERE), comme celle produite par une [torche](./Torche (objet).md) ou la lune, est une condition défavorable. Des bruits de fond peuvent augmenter le [DD](./DD.md) d’un test basé sur l’ouïe et un mélange d’odeurs peut augmenter ceux basés sur l’odorat. Un test lié à la vue effectué à la lueur d’une [bougie](./Bougie (objet).md), le rugissement d’un dragon noyant tout autre bruit ou une puanteur écrasante couvrant une odeur plus subtile, voilà autant d’exemples de conditions exécrables.
+**Conditions.** Les conditions favorables, défavorables et exécrables dépendent du sens employé. Une [[Exploration#VISIONLUMIERE|lumière vive]] peut constituer une condition favorable pour les tests liés à la vue alors qu’une [[Exploration#VISIONLUMIERE|lumière faible]], comme celle produite par une [[Torche (objet)|torche]] ou la lune, est une condition défavorable. Des bruits de fond peuvent augmenter le [[DD]] d’un test basé sur l’ouïe et un mélange d’odeurs peut augmenter ceux basés sur l’odorat. Un test lié à la vue effectué à la lueur d’une [[Bougie (objet)|bougie]], le rugissement d’un dragon noyant tout autre bruit ou une puanteur écrasante couvrant une odeur plus subtile, voilà autant d’exemples de conditions exécrables.
 
 <center>
 {| CLASS="tablo autoalt"
@@ -65,7 +65,7 @@ Le personnage peut détecter la présence d’une créature qui utilise la comp�
 |}
 </center>
 
-On applique les modificateurs indiqués dans la table suivante sur le [DD](./DD.md) des tests de Perception effectués pour détecter (et pour [fouiller](./Compétences fusionnées, Perception.md#FOUILLER)).
+On applique les modificateurs indiqués dans la table suivante sur le [[DD]] des tests de Perception effectués pour détecter (et pour [[Compétences fusionnées, Perception#FOUILLER|fouiller]]).
 
 <center>
 {| CLASS="tablo autoalt"
@@ -94,7 +94,7 @@ On applique les modificateurs indiqués dans la table suivante sur le [DD](./DD.
 
 {s:Reference|DETECTERLESMENSONGES}
 ### Détecter les mensonges
-Grâce à la réussite d’un test de Perception opposé, un personnage peut savoir si une créature lui ment. Voir la fonction [mentir](./Compétences fusionnées, Influence.md#MENTIR) de la compétence d’Influence.
+Grâce à la réussite d’un test de Perception opposé, un personnage peut savoir si une créature lui ment. Voir la fonction [[Compétences fusionnées, Influence#MENTIR|mentir]] de la compétence d’Influence.
 
 **Action.** Aucune.
 
@@ -119,15 +119,15 @@ moyennement bien conçue || 20
 | Trouver un piège || Variable en fonction  
 du piège
 |}
-</center></div></div>Le personnage peut fouiller minutieusement une zone à la recherche de pièges et de portes secrètes, entre autres. On applique les mêmes modificateurs au [DD](./DD.md) de ces tests de Perception qu’à la fonction [détecter la présence de créatures et autres détails](./Compétences fusionnées, Perception.md#DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS).
+</center></div></div>Le personnage peut fouiller minutieusement une zone à la recherche de pièges et de portes secrètes, entre autres. On applique les mêmes modificateurs au [[DD]] de ces tests de Perception qu’à la fonction [[Compétences fusionnées, Perception#DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS|détecter la présence de créatures et autres détails]].
 
-**Action.** [Action de mouvement](./Action de mouvement.md). Chacune de ces actions permet au personnage de fouiller une zone de 3 mètres de côté.
+**Action.** [[Action de mouvement]]. Chacune de ces actions permet au personnage de fouiller une zone de 3 mètres de côté.
 
 **Nouvelles tentatives.** Oui.
 
 {s:ClearRight}{s:Reference|INTERCEPTERUNMESSAGESECRET}
 ### Intercepter un message secret
-Le personnage peut utiliser la compétence de Perception pour se rendre compte qu’une personne [transmet un message secret](./Compétences fusionnées, Influence.md#TRANSMETTREUNMESSAGESECRET) à l’aide de la compétence d’[Influence](./Compétences fusionnées, Influence.md). Le test de Perception du personnage est opposé au test d’Influence de la personne qui formule le message. Le personnage subit un malus de -2 au test pour chaque information relative au message dont il ne dispose pas. Si le test est réussi de 4 points ou moins, le personnage sait qu’un message a été transmis mais en ignore la teneur. S’il est réussi de 5 points ou plus, le personnage comprend le message. En cas d’échec de 4 points ou moins, le personnage ne perçoit aucune communication secrète. Enfin, en cas d’échec de 5 points ou plus, il déduit des informations erronées. Voir la fonction [transmettre un message secret](./Compétences fusionnées, Influence.md#TRANSMETTREUNMESSAGESECRET) de la compétence d’[Influence](./Compétences fusionnées, Influence.md), pour savoir comment transmettre un message secret.
+Le personnage peut utiliser la compétence de Perception pour se rendre compte qu’une personne [[Compétences fusionnées, Influence#TRANSMETTREUNMESSAGESECRET|transmet un message secret]] à l’aide de la compétence d’[[Compétences fusionnées, Influence|Influence]]. Le test de Perception du personnage est opposé au test d’Influence de la personne qui formule le message. Le personnage subit un malus de -2 au test pour chaque information relative au message dont il ne dispose pas. Si le test est réussi de 4 points ou moins, le personnage sait qu’un message a été transmis mais en ignore la teneur. S’il est réussi de 5 points ou plus, le personnage comprend le message. En cas d’échec de 4 points ou moins, le personnage ne perçoit aucune communication secrète. Enfin, en cas d’échec de 5 points ou plus, il déduit des informations erronées. Voir la fonction [[Compétences fusionnées, Influence#TRANSMETTREUNMESSAGESECRET|transmettre un message secret]] de la compétence d’[[Compétences fusionnées, Influence|Influence]], pour savoir comment transmettre un message secret.
 
 **Action.** Aucune. Cette fonction s’utilise pendant le temps passé à essayer d’intercepter le message.
 
@@ -135,6 +135,6 @@ Le personnage peut utiliser la compétence de Perception pour se rendre compte q
 
 {s:Reference|PERCEVOIRUNENCHANTEMENT}
 ### Percevoir un enchantement
-Le personnage se rend compte que le comportement de l’individu qu’il observe est influencé par un effet d’[enchantement](./Enchantement.md) s’il réussit un test de Perception [DD](./DD.md) 25 ([DD](./DD.md) 15 s’il est dominé).
+Le personnage se rend compte que le comportement de l’individu qu’il observe est influencé par un effet d’[[enchantement]] s’il réussit un test de Perception [[DD]] 25 ([[DD]] 15 s’il est dominé).
 
 **Action.** Une minute.

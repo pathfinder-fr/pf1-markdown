@@ -4,7 +4,7 @@ Title: Saint
 LastModified: 2020-06-02 10:37
 ---
 
-<div class="fright">***Voir aussi la [Liste des prodiges du saint](./Liste des prodiges du saint.md).***  
+<div class="fright">***Voir aussi la [[Liste des prodiges du saint]].***  
 
 </div>
 
@@ -36,7 +36,7 @@ LastModified: 2020-06-02 10:37
 | +0
 | +2
 | +2
-| CLASS="gauche" | [Sorts](./Saint.md#SORTS), [oraisons](./Saint.md#ORAISONS), [aura](./Saint.md#AURA), [stigmata](./Saint.md#STIGMATA), [prodige](./Saint.md#PRODIGE)
+| CLASS="gauche" | [[Saint#SORTS|Sorts]], [[Saint#ORAISONS|oraisons]], [[Saint#AURA|aura]], [[Saint#STIGMATA|stigmata]], [[Saint#PRODIGE|prodige]]
 | 2
 | -
 | -
@@ -68,7 +68,7 @@ LastModified: 2020-06-02 10:37
 | +1
 | +3
 | +3
-| CLASS="centre" | [Prodige](./Saint.md#PRODIGE)
+| CLASS="centre" | [[Saint#PRODIGE|Prodige]]
 | 4
 | -
 | -
@@ -100,7 +100,7 @@ LastModified: 2020-06-02 10:37
 | +1
 | +4
 | +4
-| CLASS="centre" | [Prodige](./Saint.md#PRODIGE)
+| CLASS="centre" | [[Saint#PRODIGE|Prodige]]
 | 4
 | 3
 | -
@@ -132,7 +132,7 @@ LastModified: 2020-06-02 10:37
 | +2
 | +5
 | +5
-| CLASS="centre" | [Prodige](./Saint.md#PRODIGE)
+| CLASS="centre" | [[Saint#PRODIGE|Prodige]]
 | 4
 | 4
 | 3
@@ -164,7 +164,7 @@ LastModified: 2020-06-02 10:37
 | +3
 | +6
 | +6
-| CLASS="centre" | [Prodige](./Saint.md#PRODIGE)
+| CLASS="centre" | [[Saint#PRODIGE|Prodige]]
 | 4
 | 4
 | 4
@@ -196,7 +196,7 @@ LastModified: 2020-06-02 10:37
 | +3
 | +7
 | +7
-| CLASS="centre" | [Prodige](./Saint.md#PRODIGE)
+| CLASS="centre" | [[Saint#PRODIGE|Prodige]]
 | 4
 | 4
 | 4
@@ -228,7 +228,7 @@ LastModified: 2020-06-02 10:37
 | +4
 | +8
 | +8
-| CLASS="centre" | [Prodige](./Saint.md#PRODIGE)
+| CLASS="centre" | [[Saint#PRODIGE|Prodige]]
 | 4
 | 4
 | 4
@@ -260,7 +260,7 @@ LastModified: 2020-06-02 10:37
 | +5
 | +9
 | +9
-| CLASS="centre" | [Prodige](./Saint.md#PRODIGE)
+| CLASS="centre" | [[Saint#PRODIGE|Prodige]]
 | 4
 | 4
 | 4
@@ -292,7 +292,7 @@ LastModified: 2020-06-02 10:37
 | +5
 | +10
 | +10
-| CLASS="centre" | [Prodige](./Saint.md#PRODIGE)
+| CLASS="centre" | [[Saint#PRODIGE|Prodige]]
 | 4
 | 4
 | 4
@@ -324,7 +324,7 @@ LastModified: 2020-06-02 10:37
 | +6
 | +11
 | +11
-| CLASS="centre" | [Prodige](./Saint.md#PRODIGE)
+| CLASS="centre" | [[Saint#PRODIGE|Prodige]]
 | 4
 | 4
 | 4
@@ -340,7 +340,7 @@ LastModified: 2020-06-02 10:37
 | +6
 | +12
 | +12
-| CLASS="centre" | [Véritable saint](./Saint.md#VERITABLE SAINT)
+| CLASS="centre" | [[Saint#VERITABLE SAINT|Véritable saint]]
 | 4
 | 4
 | 4
@@ -428,7 +428,7 @@ Au niveau 1, le saint choisit un des types de stigmatas suivants ; ce choix ne p
 
 Le saint est capable d’accomplir d’étranges miracles, difficilement explicables même par les plus mystiques, appelés prodiges. Au niveau 1, puis à tous les niveaux impairs, il obtient un nouveau prodige.
 
-La liste complète se trouve ici : [Liste des prodiges du saint](./Liste des prodiges du saint.md).
+La liste complète se trouve ici : [[Liste des prodiges du saint]].
 
 {s:Reference|VERITABLE SAINT}
 #### Véritable Saint (Ext

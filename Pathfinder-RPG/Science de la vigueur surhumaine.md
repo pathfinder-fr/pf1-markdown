@@ -8,6 +8,6 @@ Categories:
 
 *Le personnage peut puiser dans ses réserves intérieures pour résister aux maladies, aux poisons et autres effets néfastes.*
 
-**Condition.** [Vigueur surhumaine](./Vigueur surhumaine.md).
+**Condition.** [[Vigueur surhumaine]].
 
-**Avantage.** Une fois par jour, le personnage peut relancer un jet de [Vigueur](./Vigueur.md). Il doit décider de le faire avant que le résultat du premier jet soit connu et doit accepter le second résultat, même s’il est pire que le premier.
+**Avantage.** Une fois par jour, le personnage peut relancer un jet de [[Vigueur]]. Il doit décider de le faire avant que le résultat du premier jet soit connu et doit accepter le second résultat, même s’il est pire que le premier.

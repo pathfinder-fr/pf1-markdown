@@ -14,23 +14,23 @@ Categories:
 {s:pucem|Aberration|Aquatique|Tempéré}
 - *Source : Bestiaire 2, p.60*
 - **PX** 25 600
-- [Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md) de taille Gig, CN
-- **Init** +3 ; **Sens** [vision aveugle](./vision aveugle.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}) ; [Perception](./Perception.md) +23
+- [[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]] de taille Gig, CN
+- **Init** +3 ; **Sens** [[vision aveugle]] 18 m (12 {s:c}), [[vision dans le noir]] 36 m (24 {s:c}) ; [[Perception]] +23
 (((Défense)))
 - **CA** 28, contact 5, pris au dépourvu 28 (Dex –1, naturelle +23, taille –4)
-- **pv** 184 (16d8+112) ; [guérison accélérée](./guérison accélérée.md) 10
+- **pv** 184 (16d8+112) ; [[guérison accélérée]] 10
 - **Réf** +6, **Vig** +12, **Vol** +14
 - **Immunités** acide ; **Résistances** froid 20
 (((Attaque)))
 - **VD** 6 m (4 {s:c}), nage 15 m (10 {s:c})
-- **Corps à corps** morsure, +20 (2d8+12/19–20 plus [étreinte](./Étreinte.md)) et 2 griffes, +20 (2d6+12)
+- **Corps à corps** morsure, +20 (2d8+12/19–20 plus [[étreinte]]) et 2 griffes, +20 (2d6+12)
 - **Espace** 6 m (4 {s:c}) ; Allonge 6 m (4 {s:c})
-- **Attaques spéciales** [engloutissement](./Engloutissement.md) (6d6 contondant plus 6d6 acide, CA 21, 18 pv), [engloutissement rapide](./Engloutissement rapide (capacité).md), griffes coupantes, vortex
+- **Attaques spéciales** [[engloutissement]] (6d6 contondant plus 6d6 acide, CA 21, 18 pv), [[engloutissement rapide (capacité)|engloutissement rapide]], griffes coupantes, vortex
 (((Statistiques)))
 - **For** 34, **Dex** 9, **Con** 25, **Int** 4, **Sag** 19, **Cha** 6
-- **BBA** +12 ; **BMO** +28 (+32 lutte) ; **DMD** 37 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure)
-- **Compétences** [Perception](./Perception.md) +23, [Natation](./Natation.md) +20
+- **BBA** +12 ; **BMO** +28 (+32 lutte) ; **DMD** 37 ([[croc-en-jambe]] impossible)
+- **Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure)
+- **Compétences** [[Perception]] +23, [[Natation]] +20
 - **Langues** aquatique
 (((Écologie)))
 - **Environnement** océans
@@ -38,15 +38,15 @@ Categories:
 - **Trésor** standard
 (((Pouvoirs spéciaux)))
 - **Griffes coupantes (Ext).** Les griffes d’un charybde sont particulièrement dangereuses lorsqu’elles sont utilisées contre des objets. Elles ignorent les 10 premiers points de solidité.
-- **Vortex (Sur).** Un chadybde peut créer un tourbillon par une action simple utilisable à volonté. Cette capacité fonctionne comme l’attaque spéciale de [tourbillon](./Tourbillon (capacité).md) mais elle ne peut être utilisée que sous l’eau et le tourbillon ne peut pas quitter l’eau. Un jet de Réflexes de DD 25 permet d’éviter d’être emporté par le tourbillon du charybde. Le tourbillon en lui-même mesure 6 mètres de diamètre (4 {s:c}), s’étend sur une profondeur de 36 mètres (24 {s:c}) et inflige 2d6+12 points de dégâts par round. Le DD du jet de sauvegarde dépend de la Constitution.
+- **Vortex (Sur).** Un chadybde peut créer un tourbillon par une action simple utilisable à volonté. Cette capacité fonctionne comme l’attaque spéciale de [[tourbillon (capacité)|tourbillon]] mais elle ne peut être utilisée que sous l’eau et le tourbillon ne peut pas quitter l’eau. Un jet de Réflexes de DD 25 permet d’éviter d’être emporté par le tourbillon du charybde. Le tourbillon en lui-même mesure 6 mètres de diamètre (4 {s:c}), s’étend sur une profondeur de 36 mètres (24 {s:c}) et inflige 2d6+12 points de dégâts par round. Le DD du jet de sauvegarde dépend de la Constitution.
 
 </div>
 </td><td><div>*Cet énorme monstre épineux au dos recouvert de plaques de chitine et au ventre protégé par d’épais replis graisseux jaillit, l’air affamé, au centre du tourbillon.*
 
 Les récits des marins évoquent de nombreuses
 créatures tapies dans les profondeurs de
-l’océan, des terribles [krakens](./Kraken.md) aux magnifiques
-[sirènes](./Sirène.md). Mais rares sont celles qui sont aussi étranges et aussi
+l’océan, des terribles [[kraken|krakens]] aux magnifiques
+[[sirène|sirènes]]. Mais rares sont celles qui sont aussi étranges et aussi
 craintes que le sinistre charybde, un être qui n’existe que pour
 capturer les vaisseaux, les briser comme une coquille de noix
 puis se repaître des pauvres marins qui en sont prisonniers.

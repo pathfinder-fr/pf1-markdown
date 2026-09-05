@@ -10,9 +10,9 @@ Categories:
 
 {s:uc}*Le personnage a si bien saisi le fonctionnement acoustique des structures artificielles qu’il en profite pour améliorer ses représentations bardiques. *
 
-**Conditions.** [Représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE), 5 rangs en [Connaissances](./Connaissances.md) (ingénierie)
+**Conditions.** [[barde#REPRESENTATIONBARDIQUE|Représentation bardique]], 5 rangs en [[Connaissances]] (ingénierie)
 
-**Avantage.** Quand le personnage se trouve dans une structure artificielle, il peut dépenser une [action libre](./Action libre.md) pour faire un test de [Connaissances](./Connaissances.md) (ingénierie) [DD](./DD.md) 15 au début de sa représentation bardique. S’il réussit, il a droit à l’un des avantages suivants.
+**Avantage.** Quand le personnage se trouve dans une structure artificielle, il peut dépenser une [[action libre]] pour faire un test de [[Connaissances]] (ingénierie) [[DD]] 15 au début de sa représentation bardique. S’il réussit, il a droit à l’un des avantages suivants.
 - *Harmonisation.* Le personnage profite de la réverbération acoustique pour augmenter le DD de ses effets de représentation bardique de +1.
 - *Réverbération.* Quand le personnage termine sa représentation, l’effet se poursuit 1 round de plus, quelle que soit la raison pour laquelle il a cessé la représentation. Cela ne lui permet pas d’avoir plusieurs représentations bardiques actives à la fois.
 

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.218}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 11, pris au dépourvu 12 (Dex +1, naturelle +2)}
 {s:BDTexte|**pv** 22 (3d8+9)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 12, **Con** 16, **Int** 2, **Sag** 13, **Cha** 5}
 {s:BDTexte|**BBA** +2, **BMO** +5, **DMD** 16 (20 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (coup de queue), [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +7, '[Perception](./Perception.md) +6}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (coup de queue), [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Escalade]] +7, '[[Perception]] +6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou plaines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-6)}

@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Ville du nord-est d'[Osirion](./Osirion.md).
+Ville du nord-est d'[[Osirion]].
 
-Elle a été construite autour de l'Oasis d'Or (Golden Oasis), la plus importante source d'eau du désert de la côté nord du [Garund](./Garund.md). D'histoire très ancienne, la ville a prospéré grâce à la présence de l'oasis et a sa proximité des routes commerciales vers la [Thuvie](./Thuvie.md).
+Elle a été construite autour de l'Oasis d'Or (Golden Oasis), la plus importante source d'eau du désert de la côté nord du [[Garund]]. D'histoire très ancienne, la ville a prospéré grâce à la présence de l'oasis et a sa proximité des routes commerciales vers la [[Thuvie]].

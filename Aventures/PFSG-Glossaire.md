@@ -36,4 +36,4 @@ LastModified: 2013-08-23 21:21
 
 {s:Reference|VANITES} **Vanités** (Vanities). Les vanités sont des aspects pittoresques qui peuvent être utilisés par les joueurs pour personnaliser leurs personnages. Les vanités n'ont, en général, que des effets mineurs sur le jeu. Quand ils en ont, ces effets concernent plutôt des bonus pour des actions non offensives. Un personnage peut posséder autant de vanités qu'il le désire, mais chaque vanité coute un certain nombre de points de prestige.
 
-[Aventures.PFSG|Retour vers l'accueil du guide PFS]
+[[Aventures.PFSG|Retour vers l'accueil du guide PFS]]

@@ -9,10 +9,10 @@ Categories:
 
 *Le personnage distille son énergie canalisée dans un écran de force qui entoure son arme pendant une période limitée.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions requises.** Capacité à lancer au moins un sort de force, pouvoir de classe [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE).
+**Conditions requises.** Capacité à lancer au moins un sort de force, pouvoir de classe [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]].
 
-**Avantage.** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) pour accorder un bonus aux jets de dégâts de ses attaques armées égal au nombre de dés de sa [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE). Ces dégâts supplémentaires sont des dégâts de force. Ce pouvoir dure le temps des trois prochaines attaques armées du personnage ou jusqu’à la fin du combat (ce qui arrive en premier).
+**Avantage.** Par une [[action rapide]], le personnage peut dépenser une utilisation de [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] pour accorder un bonus aux jets de dégâts de ses attaques armées égal au nombre de dés de sa [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]]. Ces dégâts supplémentaires sont des dégâts de force. Ce pouvoir dure le temps des trois prochaines attaques armées du personnage ou jusqu’à la fin du combat (ce qui arrive en premier).
 
 {s:Desambi|ce don initialement nommé Canalisation de force a été renommé en raison du fait que la version française utilise déjà ce nom pour un don racial des aasimars}

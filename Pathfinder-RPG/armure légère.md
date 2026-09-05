@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Tableau récapitulatif des armures#LEGERES
 ---
 
->>> [Tableau récapitulatif des armures#LEGERES](./Tableau récapitulatif des armures.md#LEGERES)
+>>> [[Tableau récapitulatif des armures#LEGERES]]

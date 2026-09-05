@@ -5,11 +5,11 @@ LastModified: 2016-12-25 12:37
 ---
 
 ## Guide des contributeurs de l'Eclaireur
-[^http://www.mediafire.com/view/71522qti4oz67fs/LECLAIREUR_MODE_DEMPLOI.pdf|Guide des contributeurs de l'Eclaireur]
-[https://www.facebook.com/WebzineLeclaireur?ref=ts&fref=ts|l'Eclaireur sur Facebook]
+[Guide des contributeurs de l'Eclaireur](http://www.mediafire.com/view/71522qti4oz67fs/LECLAIREUR_MODE_DEMPLOI.pdf)
+[l'Eclaireur sur Facebook](https://www.facebook.com/WebzineLeclaireur?ref=ts&fref=ts)
 
 ## Anciens Numéros
-[^http://eclaireur.olympe.in/|N1 L'hivers Arrive - N2 C'est la fête]
+[N1 L'hivers Arrive - N2 C'est la fête](http://eclaireur.olympe.in/)
 
 ## Travaux en cours: LES DEMONS
 

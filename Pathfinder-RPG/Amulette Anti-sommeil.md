@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Amulette anti-sommeil|{s:AE}}
-**Aura** [Invocation](./Invocation.md) faible ; **NLS** 2 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 8.000 po ; **Poids** 0,5 kg
+**Aura** [[Invocation]] faible ; **NLS** 2 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 8.000 po ; **Poids** 0,5 kg
 (((Description)))
-Taillée en forme de soleil et souvent gravée d’un œil ouvert, cette amulette protège son porteur contre le besoin de sommeil. Il n’a plus besoin de dormir mais il doit rester au calme pendant la période de temps nécessaire à la récupération des sorts et des diverses aptitudes qui exigent du repos (pendant cette période, le porteur peut toutefois accomplir des activités peu contraignantes, telles que la lecture ou la garde). Une fois que le porteur a utilisé le pouvoir de cette amulette pendant un total de sept nuits, son pouvoir disparaît pendant une journée et le porteur est [épuisé](./États préjudiciables.md#Épuisé) pendant cette même période. S’il retire l’amulette après avoir utilisé son pouvoir, il est [épuisé](./États préjudiciables.md#Épuisé) pendant 4 heures pour chaque nuit de sommeil évitée.
+Taillée en forme de soleil et souvent gravée d’un œil ouvert, cette amulette protège son porteur contre le besoin de sommeil. Il n’a plus besoin de dormir mais il doit rester au calme pendant la période de temps nécessaire à la récupération des sorts et des diverses aptitudes qui exigent du repos (pendant cette période, le porteur peut toutefois accomplir des activités peu contraignantes, telles que la lecture ou la garde). Une fois que le porteur a utilisé le pouvoir de cette amulette pendant un total de sept nuits, son pouvoir disparaît pendant une journée et le porteur est [[États préjudiciables#Épuisé|épuisé]] pendant cette même période. S’il retire l’amulette après avoir utilisé son pouvoir, il est [[États préjudiciables#Épuisé|épuisé]] pendant 4 heures pour chaque nuit de sommeil évitée.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[restauration partielle](./Restauration partielle.md)*  ; **Coût** 4.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[restauration partielle]]*  ; **Coût** 4.000 po
 </div>

@@ -14,4 +14,4 @@ Dans le Bestiaire 3, il est appelé Wécufe (p280).
 Dans Le hurlement du Roi Charognard il redevient un Huécuva.
 
 
->>> [Wécufe](./Wécufe.md)
+>>> [[Wécufe]]

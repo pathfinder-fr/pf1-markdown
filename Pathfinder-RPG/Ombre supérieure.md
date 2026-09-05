@@ -9,20 +9,20 @@ Categories:
 ---
 
 {s:Desambi|Ombre supérieure est également le nom   
-d'une [propriété d'armures magiques](./ombre supérieure (propriété).md).}
+d'une [[ombre supérieure (propriété)|propriété d'armures magiques]].}
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Ombre supérieure|FP 8}
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.231}
 {s:BDTexte|**PX** 4.800}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([intangible](./sous-type intangible.md)) de taille M, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type intangible|intangible]]) de taille M, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 18, pris au dépourvu 12 (Dex +5, esquive +1, parade +2)}
 {s:BDTexte|**pv** 58 (9d8+18)}
 {s:BDTexte|**Réf** +8, **Vig** +5, **Vol** +7}
-{s:BDTexte|**Capacités défensives** [intangible](./Intangible.md), [résistance à la canalisation](./résistance à la canalisation.md) +2 ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) }
+{s:BDTexte|**Capacités défensives** [[intangible]], [[résistance à la canalisation]] +2 ; **Immunités** [[traits des morts-vivants]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 12 m (8 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** toucher intangible +11 (affaiblissement temporaire de Force)}
@@ -30,15 +30,15 @@ d'une [propriété d'armures magiques](./ombre supérieure (propriété).md).}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** -, **Dex** 20, **Con** -, **Int** 6, **Sag** 12, **Cha** 15}
 {s:BDTexte|**BBA** +6, **BMO** +11, **DMD** 24}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md) ([Perception](./Perception.md), [Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +20 (+24 sous une lumière faible, +16 sous une lumière forte), [Perception](./Perception.md) +13, [Vol](./Vol.md) +15 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 sous une lumière faible (-4 sous une lumière forte)}
+{s:BDTexte|**Dons** [[Attaque en vol]], [[Esquive]], [[Souplesse du serpent]], [[Talent]] ([[Perception]], [[Discrétion]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +20 (+24 sous une lumière faible, +16 sous une lumière forte), [[Perception]] +13, [[Vol]] +15 ; **Modificateurs raciaux** [[Discrétion]] +4 sous une lumière faible (-4 sous une lumière forte)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Affaiblissement temporaire de Force (Sur).** Le toucher d'une ombre supérieure inflige aux créatures vivantes un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d8 points de [Force](./Force.md). Il s'agit d'un effet d'énergie négative. La victime meurt si l'[affaiblissement temporaire](./affaiblissement temporaire.md) de [Force](./Force.md) est supérieur ou égal à sa valeur de [Force](./Force.md).}
-{s:BDTexte|**Création de rejetons (Sur).** Les [humanoïdes](./type Humanoïde.md) tués par la capacité d'[affaiblissement temporaire](./affaiblissement temporaire.md) de Force d'une ombre supérieure deviennent des ombres supérieures soumises au contrôle de leur meutrier après 1d4 rounds.}
+{s:BDTexte|**Affaiblissement temporaire de Force (Sur).** Le toucher d'une ombre supérieure inflige aux créatures vivantes un [[affaiblissement temporaire]] de 1d8 points de [[Force]]. Il s'agit d'un effet d'énergie négative. La victime meurt si l'[[affaiblissement temporaire]] de [[Force]] est supérieur ou égal à sa valeur de [[Force]].}
+{s:BDTexte|**Création de rejetons (Sur).** Les [[type humanoïde|humanoïdes]] tués par la capacité d'[[affaiblissement temporaire]] de Force d'une ombre supérieure deviennent des ombres supérieures soumises au contrôle de leur meutrier après 1d4 rounds.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -47,9 +47,9 @@ d'une [propriété d'armures magiques](./ombre supérieure (propriété).md).}
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Ombre](./Ombre.md) || 3
+| [[Ombre]] || 3
 |-
-| [Ombre supérieure](./Ombre supérieure.md) || 8
+| [[Ombre supérieure]] || 8
 |}
 </div>''Cette silhouette d’ombre vacille et se déplace avec grâce mais par à-coups,
 comme si elle était produite par des flammes invisibles.''

@@ -13,23 +13,23 @@ Categories:
 {s:pucem|Vermine|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.53*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Vermine](./type Vermine.md) ([aquatique](./sous-type aquatique.md)) de taille TG, N}
-{s:BDTexte|**Init**+2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille TG, N}
+{s:BDTexte|**Init**+2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 10, pris au dépourvu 18 (Dex +2, naturelle +10, taille -2)}
 {s:BDTexte|**pv** 84 (8d8+48)}
 {s:BDTexte|**Réf** +4, **Vig** +12, **Vol** +3}
-{s:BDTexte|**[Immunité](./Immunité (capacité).md)** effets mentaux}
+{s:BDTexte|**[[Immunité (capacité)|Immunité]]** effets mentaux}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** 2 pinces, +13 (1d8+9 plus étreinte)}
 {s:BDTexte|**Espace occupé** 4,50 m (3 {s:c}); Allonge 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [Constriction](./Constriction (capacité).md) (1d8+9), pince fulgurante}
+{s:BDTexte|**Attaques spéciales** [[Constriction (capacité)|Constriction]] (1d8+9), pince fulgurante}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 29, **Dex** 14, **Con** 22, **Int** —, **Sag** 12, **Cha** 2}
 {s:BDTexte|**BBA** +6 ; **BMO** +17 (+21 lutte) ; **DMD** 29 (41 contre le croc-en-jambe)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +17, [Perception](./Perception.md) +5 ; **Modificateur racial** [Perception](./Perception.md) +4}
-{s:BDTexte|**Particularité** [besoin d’eau](./Besoin deau (capacité).md)}
+{s:BDTexte|**Compétences** [[Natation]] +17, [[Perception]] +5 ; **Modificateur racial** [[Perception]] +4}
+{s:BDTexte|**Particularité** [[besoin deau (capacité)|besoin d’eau]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** eau}
 {s:BDTexte|**Organisation** solitaire ou colonie (2-8)}
@@ -43,15 +43,15 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Crabe royal](./Crabe royal.md) || 1/4
+| Familier, [[Crabe royal]] || 1/4
 |-
-| [Crabe géant](./Crabe géant.md) || 2
+| [[Crabe géant]] || 2
 |-
-| [Crabe mangeur de requins](./Crabe mangeur de requins.md) || 7
+| [[Crabe mangeur de requins]] || 7
 |-
-| [Crabe naufrageur](./Crabe naufrageur.md) || 13
+| [[Crabe naufrageur]] || 13
 |-
-| [Nuée de crabes](./Nuée de crabes.md) || 4
+| [[Nuée de crabes]] || 4
 |}
 </div>*Ce crabe épineux aux longues pattes domine son environnement. Il agite ses pinces rapides et puissantes dans toutes les directions, impatient de trouver une proie.*
 

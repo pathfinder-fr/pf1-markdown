@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 2 po ; **Poids** 0,5 kg ; **Groupes** [armes de combat rapproché](./groupe darmes.md#Armesdecombatrapproché)
+{s:AE}**Prix** 2 po ; **Poids** 0,5 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]]
 **Dégâts** 1d2 (P), 1d3 (M) ; **Critique** ×2 ; **Portée** — ; **Type** C ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
-Ce gant de métal permet d’infliger des dégâts létaux plutôt que des dégâts [non létaux](./Blessures et mort.md#NONLETAL) avec des [attaques à mains nues](./mains nues (arme).md). Sinon, un coup porté avec un gantelet est considéré comme une attaque à mains nues. Le prix et le poids sont donnés pour un seul gantelet. Les [armures intermédiaires](./armure intermédiaire.md) et [lourdes](./armure lourde.md) (à l’exception des [cuirasses](./cuirasse (armure).md)) sont livrées avec des gantelets. L’adversaire ne peut pas dépenser une action de [désarmement](./désarmement.md) pour priver un personnage de ses gantelets.
+Ce gant de métal permet d’infliger des dégâts létaux plutôt que des dégâts [[Blessures et mort#NONLETAL|non létaux]] avec des [[mains nues (arme)|attaques à mains nues]]. Sinon, un coup porté avec un gantelet est considéré comme une attaque à mains nues. Le prix et le poids sont donnés pour un seul gantelet. Les [[armure intermédiaire|armures intermédiaires]] et [[armure lourde|lourdes]] (à l’exception des [[cuirasse (armure)|cuirasses]]) sont livrées avec des gantelets. L’adversaire ne peut pas dépenser une action de [[désarmement]] pour priver un personnage de ses gantelets.

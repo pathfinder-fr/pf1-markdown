@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Cri en bouteille|{s:MCA}}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 900 po ; **Poids** 0,25 kg
+**Aura** [[Évocation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 900 po ; **Poids** 0,25 kg
 (((Description)))
-Cette bouteille en verre fumé est scellée de cire et de résine. Quand la bouteille est ouverte ou brisée, un cri perçant en émerge dans un rayonnement de 6 mètres de rayon. Toutes les [représentations bardiques](./représentation bardique.md) à composante audible se terminent aussitôt. Tout lanceur de sort qui se concentre sur un sort ou en lance un doit réussir un test de concentration ([DD](./DD.md) 15 + niveau du sort) pour ne pas perdre son sort. En outre, le cri dissipe les sorts de *[silence](./Silence.md)* qui se superposent à sa zone d’effet. La bouteille peut être projetée comme une arme à aspersion ou ouverte manuellement. Si la bouteille est ouverte, son rayonnement est centrée sur la case de celui qui l’a ouverte.
+Cette bouteille en verre fumé est scellée de cire et de résine. Quand la bouteille est ouverte ou brisée, un cri perçant en émerge dans un rayonnement de 6 mètres de rayon. Toutes les [[représentation bardique|représentations bardiques]] à composante audible se terminent aussitôt. Tout lanceur de sort qui se concentre sur un sort ou en lance un doit réussir un test de concentration ([[DD]] 15 + niveau du sort) pour ne pas perdre son sort. En outre, le cri dissipe les sorts de *[[silence]]* qui se superposent à sa zone d’effet. La bouteille peut être projetée comme une arme à aspersion ou ouverte manuellement. Si la bouteille est ouverte, son rayonnement est centrée sur la case de celui qui l’a ouverte.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[cri](./Cri.md)* ; **Coût** 450 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[cri]]* ; **Coût** 450 po
 </div>

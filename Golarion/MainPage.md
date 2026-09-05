@@ -11,43 +11,43 @@ LastModified: 2025-03-20 15:55
 ### Les habitants de Golarion
 Un monde n'est rien sans ses habitants. La population de Golarion est variée : on y trouve des races et des ethnies diverses, des styles de vie et des cultures haut en couleur, ainsi que des croyances et des groupes des personnes de toutes sortes.
 
-- Les [Golarion.races|races]
-- Les [++Pathfinder-RPG.Classes|classes]
-- Les [Golarion.personnages emblématiques|personnages emblématiques]
-- Les [Golarion.créatures|créatures] monstrueuses
-- Les [Golarion.organisations|organisations]
-- Les [Golarion.religions et philosophies|religions et philosophies]
-- Le [Golarion.calendrier|calendrier] et les fêtes de Golarion
+- Les [[Golarion.races|races]]
+- Les [[Pathfinder-RPG.Classes|classes]]
+- Les [[Golarion.personnages emblématiques|personnages emblématiques]]
+- Les [[Golarion.créatures|créatures]] monstrueuses
+- Les [[Golarion.organisations|organisations]]
+- Les [[Golarion.religions et philosophies|religions et philosophies]]
+- Le [[Golarion.calendrier|calendrier]] et les fêtes de Golarion
 
 
 ### Le monde de Golarion
 <p class="description">Pour connaître Golarion, il ne suffit pas d'étudier ses habitants. Le présent de Golarion dépend également de son passé et de sa structure géographique au sens large : pas seulement la planète de Golarion mais aussi les autres planètes de son système solaire et même les autres plans.</p>
-- La [géographie](./Géographie.md) (ou cliquez directement sur la carte ci-dessous)
-- L'[histoire](./Histoire.md)
-- Les [langues de Golarion](./langues de Golarion.md)
-- Le [système solaire](./système solaire.md)
-- Le [Grand Au-Delà](./Grand Au-Delà.md), la cosmologie
-- Les [Artefacts légendaires](./Artefacts légendaires.md)
-- La [Magie de la Mer Intérieure](./Magie de la Mer Intérieure.md)
+- La [[géographie]] (ou cliquez directement sur la carte ci-dessous)
+- L'[[histoire]]
+- Les [[langues de Golarion]]
+- Le [[système solaire]]
+- Le [[Grand Au-Delà]], la cosmologie
+- Les [[Artefacts légendaires]]
+- La [[Magie de la Mer Intérieure]]
 
 </td></tr><table>
 <table class="page espace-col troiscol">
 <tr>
 <td>
 ### Découvrir Golarion
-- [Découvrir Golarion en 10 points](./Découvrir Golarion en 10 points.md)
-- Un bref [aperçu] de Golarion
+- [[Découvrir Golarion en 10 points]]
+- Un bref [[aperçu]] de Golarion
 
 </td><td>
 ### Vivre Golarion
-- [Aides de jeu](./Aides de jeu.md) sur Golarion
-- [Wayfinder](./Wayfinder.md), le magazine des fans
-- [Un jour sur Golarion](./JourGolarion.md)
+- [[Golarion.Aides de jeu|Aides de jeu]] sur Golarion
+- [[Golarion.Wayfinder|Wayfinder]], le magazine des fans
+- [[Golarion.JourGolarion|Un jour sur Golarion]]
 
 </td><td>
 ### Publications officielles
-- [Livres](./Publications.md) sur Golarion
-- Les [romans](./Romans.md) de Golarion
+- [[Golarion.Publications|Livres]] sur Golarion
+- Les [[Golarion.Romans|romans]] de Golarion
 
 </td></tr></table>
 
@@ -99,8 +99,8 @@ Un monde n'est rien sans ses habitants. La population de Golarion est variée : 
 </MAP></center>
 
 {s:VoirAussiAvant}
-- Plus d'informations générales au sujet de Golarion dans le [Aides de jeu#GUIDEDUJOUEUR|Guide du joueur] téléchargeable gratuitement sur la page des [aides de jeu]
-- Golarion est décrite de manière générale dans le [Publications#CAMPAIGNSETTING|Campaign Setting] (non paru en français), le [Publications#GAZETTEER|Gazetteer/Atlas] et le [Cadre de campagne : la mer Intérieure](./Publications.md#CAMPAIGNSETTING2), voir la page des [Publications].
+- Plus d'informations générales au sujet de Golarion dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[aides de jeu]]
+- Golarion est décrite de manière générale dans le [[Publications#CAMPAIGNSETTING|Campaign Setting]] (non paru en français), le [[Publications#GAZETTEER|Gazetteer/Atlas]] et le [[Publications#CAMPAIGNSETTING2|Cadre de campagne : la mer Intérieure]], voir la page des [[Publications]].
 {s:VoirAussiAprès}
 
 ## Dernières mises à jour

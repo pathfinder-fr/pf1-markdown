@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Le personnage peut renvoyer à ses ennemis les sorts qu’ils lui lancent.*
 
-**Conditions.** [Art de la magie](./Art de la magie.md) 15 rangs, [Science du contresort](./Science du contresort.md).
+**Conditions.** [[Art de la magie]] 15 rangs, [[Science du contresort]].
 
-**Avantage.** Chaque fois que le personnage parvient à [contrer un sort](./contresort.md), celui-ci retourne vers celui qui l’a lancé. Cela fonctionne exactement comme le sort *[renvoi des sorts](./Renvoi des sorts.md)*.
+**Avantage.** Chaque fois que le personnage parvient à [[contresort|contrer un sort]], celui-ci retourne vers celui qui l’a lancé. Cela fonctionne exactement comme le sort *[[renvoi des sorts]]*.

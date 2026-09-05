@@ -15,22 +15,22 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 5, [Hyp](./Hypnotiseur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5, [Spi](./Spirite.md) 5  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Effet** brouillard occupant une étendue de 6 m (4 {s:c}) de rayon et de 6 m de haut  
 
-**Durée** 30 minutes et 2d6 [rounds](./round.md) (voir description)  
+**Durée** 30 minutes et 2d6 [[round|rounds]] (voir description)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Ce sort génère une nappe de brouillard affaiblissant la résistance mentale de ceux qui y entrent. Les créatures prises dans la [zone d’effet](./zone deffet.md) subissent un malus d’aptitude de -10 aux tests de [Sagesse](./Sagesse.md) et aux jets de [Volonté](./Volonté.md) (si elles réussissent leur [jet de sauvegarde](./jet de sauvegarde.md), elles ne sont pas affectées, même si elles restent dans la brume). Les créatures sont affectées tant qu’elles restent dans la [zone d’effet](./zone deffet.md), et durant 2d6 [rounds](./round.md) après en être sorties. Le brouillard est stationnaire et persiste durant trente minutes (à moins que le vent le disperse).
+Ce sort génère une nappe de brouillard affaiblissant la résistance mentale de ceux qui y entrent. Les créatures prises dans la [[zone deffet|zone d’effet]] subissent un malus d’aptitude de -10 aux tests de [[Sagesse]] et aux jets de [[Volonté]] (si elles réussissent leur [[jet de sauvegarde]], elles ne sont pas affectées, même si elles restent dans la brume). Les créatures sont affectées tant qu’elles restent dans la [[zone deffet|zone d’effet]], et durant 2d6 [[round|rounds]] après en être sorties. Le brouillard est stationnaire et persiste durant trente minutes (à moins que le vent le disperse).
 
-Un vent modéré (au moins 15 km/h) disperse la brume en 4 [rounds](./round.md) ; un vent important (au moins 30 km/h) la disperse en 1 [round](./round.md).
+Un vent modéré (au moins 15 km/h) disperse la brume en 4 [[round|rounds]] ; un vent important (au moins 30 km/h) la disperse en 1 [[round]].
 
 Cette brume est suffisamment fine pour ne pas constituer un obstacle à la vision.

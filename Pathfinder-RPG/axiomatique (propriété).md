@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Axiomatique
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Axiomatique](./Descriptions individuelles des propriétés spéciales des armes.md#Axiomatique)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Axiomatique]]

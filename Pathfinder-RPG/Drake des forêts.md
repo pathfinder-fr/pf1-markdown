@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Dragon|Forêt-jungle|Tempéré}
 - *Source : Bestiaire 2, p.116*
 - **PX** 1 200
-- [Dragon](./type Dragon.md) ([Terre](./sous-type Terre.md)) de taille G, LM
-- **Init** +6 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11
+- [[type Dragon|Dragon]] ([[sous-type Terre|Terre]]) de taille G, LM
+- **Init** +6 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +11
 (((Défense)))
 - **CA** 17, contact 11, pris au dépourvu 15 (Dex +2, naturelle +6, taille –1)
 - **pv** 42 (5d12+10)
@@ -29,8 +29,8 @@ Categories:
 (((Statistiques)))
 - **For** 19, **Dex** 14, **Con** 14, **Int** 9, **Sag** 11, **Cha** 12
 - **BBA** +5 ; **BMO** +10 ; **DMD** 22
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md))
-- **Compétences** [Discrétion](./Discrétion.md) +6, [Intimidation](./Intimidation.md) +9, [Natation](./Natation.md) +20, [Perception](./Perception.md) +11, [Vol](./Vol.md) +8
+- **Dons** [[Attaque en puissance]], [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Perception]])
+- **Compétences** [[Discrétion]] +6, [[Intimidation]] +9, [[Natation]] +20, [[Perception]] +11, [[Vol]] +8
 - **Langues** draconique
 - **Particularités** accélération soudaine, adaptation aquatique
 (((Écologie)))
@@ -40,12 +40,12 @@ Categories:
 (((Pouvoirs spéciaux)))
 - **Accélération soudaine (Ext).** Par une action rapide utilisable trois fois par jour, un drake des forêts peut puiser dans son héritage draconique pour obtenir un sursaut de force et de vitesse afin de pouvoir accomplir une action de mouvement supplémentaire au cours du round où il utilise cette capacité.
 - **Adaptation aquatique (Ext).** Un drake des forêts peut respirer sous l’eau sans limite de temps et peut même y utiliser son attaque de souffle et ses autres capacités. Le nuage acide créé par son souffle se dissipe après 1 round lorsqu’il est utilisé sous l’eau.
-- **Nuage acide (Sur).** Par une action simple, un drake des forêts peut cracher une boule d’acide qui explose au contact et forme un nuage. Cette attaque a une portée de 18 mètres (12 {s:c}) et inflige 4d6 points de dégâts d’acide (Réflexes DD 14, 1/2 dégâts) à toutes les créatures situées dans une zone de 3 mètres de rayon. Le nuage persiste pendant 1d4 rounds après sa création et fonctionne comme une *[brume de dissimulation](./Brume de dissimulation.md)* de 3 mètres de rayon (sans causer de dégâts additionnels) mais un vent fort peut le disperser en un seul round. Après avoir utilisé cette attaque, le drake des forêts doit attendre 1d6 rounds avant de pouvoir à nouveau faire appel à cette capacité. Le DD du jet de sauvegarde dépend de la Constitution.
+- **Nuage acide (Sur).** Par une action simple, un drake des forêts peut cracher une boule d’acide qui explose au contact et forme un nuage. Cette attaque a une portée de 18 mètres (12 {s:c}) et inflige 4d6 points de dégâts d’acide (Réflexes DD 14, 1/2 dégâts) à toutes les créatures situées dans une zone de 3 mètres de rayon. Le nuage persiste pendant 1d4 rounds après sa création et fonctionne comme une *[[brume de dissimulation]]* de 3 mètres de rayon (sans causer de dégâts additionnels) mais un vent fort peut le disperser en un seul round. Après avoir utilisé cette attaque, le drake des forêts doit attendre 1d6 rounds avant de pouvoir à nouveau faire appel à cette capacité. Le DD du jet de sauvegarde dépend de la Constitution.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [drakes](./Drake.md).***</li></ul>*Ce dragon aux écailles vertes a deux jambes puissantes et une paire de grandes ailes membraneuses. Une longue pointe garnit sa queue flexible.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>*Ce dragon aux écailles vertes a deux jambes puissantes et une paire de grandes ailes membraneuses. Une longue pointe garnit sa queue flexible.*
 
-Les drakes des forêts sont des cousins dégénérés des [dragons verts](./Dragon vert.md) : ils ont le caractère rusé et cruel des véritables dragons
+Les drakes des forêts sont des cousins dégénérés des [[dragon vert|dragons verts]] : ils ont le caractère rusé et cruel des véritables dragons
 verts, mais pas leurs facultés intellectuelles. Comme la majorité
 des drakes, les drakes des forêts sont des brutes violentes qui
 sillonnent les profondeurs des forêts à la recherche de leurs proies

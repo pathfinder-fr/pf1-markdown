@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.175*}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 15 (Dex +2, naturelle +6, taille -1)}
 {s:BDTexte|**pv** 42 (5d10+15)}
@@ -24,12 +24,12 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 24 m (16 {s:c}) (moyenne)}
 {s:BDTexte|**Corps à corps** morsure, +8 (1d6+3), 2 serres, +7 (1d6+3)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond.md), [pattes arrière](./Pattes arrière.md) (2 griffes, +7, 1d4+3)}
+{s:BDTexte|**Attaques spéciales** [[bond]], [[pattes arrière]] (2 griffes, +7, 1d4+3)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 15, **Con** 16, **Int** 5, **Sag** 13, **Cha** 8}
-{s:BDTexte|**BBA** +5, **BMO** +9, **DMD** 21 (25 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Perception](./Perception.md) +12, [Vol](./Vol.md) +6 ; **Modificateurs raciaux** [Acrobaties](./Acrobaties.md) +4, [Perception](./Perception.md) +4}
+{s:BDTexte|**BBA** +5, **BMO** +9, **DMD** 21 (25 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Perception]] +12, [[Vol]] +6 ; **Modificateurs raciaux** [[Acrobaties]] +4, [[Perception]] +4}
 {s:BDTexte|**Langues** commun (ne sait pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines tempérées}
@@ -91,14 +91,14 @@ parties (voire même en gagnant son amitié).
 Avant qu’un griffon ne puisse être monté au combat, il doit
 s’entraîner à porter le poids de son cavalier. Pour ce faire, le
 griffon doit avant tout faire preuve d’une attitude serviable envers
-l’entraîneur (ce qui peut nécessiter un test de [Diplomatie](./Diplomatie.md), de [Dressage](./Dressage.md)
-ou d’[Intimidation](./Intimidation.md)). Après cela, 6 semaines d’entraînement et un
-test de [Dressage](./Dressage.md) réussi contre un DD de 20 suffisent à faire en sorte
+l’entraîneur (ce qui peut nécessiter un test de [[Diplomatie]], de [[Dressage]]
+ou d’[[Intimidation]]). Après cela, 6 semaines d’entraînement et un
+test de [[Dressage]] réussi contre un DD de 20 suffisent à faire en sorte
 que la créature se sente à l’aise malgré la charge supplémentaire.
 
 Grâce à leur intelligence, on peut considérer que les griffons
 entraînés connaissent tous les tours cités dans la description de la
-compétence de [Dressage](./Dressage.md) et qu’ils sont même capables de répondre à
+compétence de [[Dressage]] et qu’ils sont même capables de répondre à
 d’autres demandes simples exprimées en commun.
 
 Une charge inférieure à 150 kg est considérée comme légère

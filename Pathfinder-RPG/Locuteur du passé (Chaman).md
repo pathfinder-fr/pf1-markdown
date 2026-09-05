@@ -14,11 +14,11 @@ Categories:
 {s:mca}*Un locuteur du passé est un chaman au rôle particulier car il est la voix des esprits issus de l’histoire de son peuple. Un locuteur du passé est souvent le porte-parole des ancêtres d’un groupe spécifique, la voix de l’expérience et une puissante ressource qui permet au passé d’aider le présent.*
 
 #### Mystères du passé
-Un locuteur du passé gagne [Linguistique](./Linguistique.md), [Connaissances](./Connaissances.md) (histoire), [Connaissances](./Connaissances.md) (folklore local), [Perception](./Perception.md) et [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) en tant que compétences de classe.
+Un locuteur du passé gagne [[Linguistique]], [[Connaissances]] (histoire), [[Connaissances]] (folklore local), [[Perception]] et [[Utilisation dobjets magiques|Utilisation d’objets magiques]] en tant que compétences de classe.
 
-Il ajoute également les sorts des mystères d’oracle [des ancêtres](./Mystère des ancêtres.md) et [du temps](./Mystère du temps.md) à sa liste de sorts de classe (leur niveau correspond à celui des sorts des prêtres). Cette aptitude remplace le familier du chaman.
+Il ajoute également les sorts des mystères d’oracle [[Mystère des ancêtres|des ancêtres]] et [[Mystère du temps|du temps]] à sa liste de sorts de classe (leur niveau correspond à celui des sorts des prêtres). Cette aptitude remplace le familier du chaman.
 
 Le locuteur du passé doit choisir le moment où il doit passer une heure chaque jour en contemplation apaisée pour récupérer ses emplacements de sorts quotidiens, mais il n’a pas besoin de communier avec un familier pendant cette période. Étant donné qu’il n’a pas de familier, il ne gagne pas l’aptitude d’esprit familier conféré par les esprits avec lesquels il pactise.
 
 #### Révélations du passé
-Aux niveaux 4, 6, 12, 14 et 20, le locuteur du passé peut choisir une révélation des mystères [des ancêtres](./Mystère des ancêtres.md) ou [du temps](./Mystère du temps.md). Il remplace le niveau d’oracle par son niveau de chaman et applique son modificateur de [Sagesse](./Sagesse.md) à la place du modificateur de Charisme dans le cadre de ces révélations. Cette aptitude remplace esprit errant et maléfice errant.
+Aux niveaux 4, 6, 12, 14 et 20, le locuteur du passé peut choisir une révélation des mystères [[Mystère des ancêtres|des ancêtres]] ou [[Mystère du temps|du temps]]. Il remplace le niveau d’oracle par son niveau de chaman et applique son modificateur de [[Sagesse]] à la place du modificateur de Charisme dans le cadre de ces révélations. Cette aptitude remplace esprit errant et maléfice errant.

@@ -25,9 +25,9 @@ Chaque secteur a sa couleur pour vous permettre de vous orienter entre les parti
 {s:pucem|humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.181}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|Hobgobelin [guerrier](./../Pathfinder-RPG/Guerrier.md) 1 / [ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) 4}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) ([gobelinoïde](./../Pathfinder-RPG/sous-type gobelinoïde.md)) de taille M, LM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./../Pathfinder-RPG/Perception.md) +0}
+{s:BDTexte|Hobgobelin [[guerrier]] 1 / [[ensorceleur]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille M, LM}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 15 (armure +4, protection +1)}
 {s:BDTexte|**pv** 33 (5DV; 4d6+1d10+14)}
@@ -46,7 +46,7 @@ Chaque secteur a sa couleur pour vous permettre de vous orienter entre les parti
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 11, **Con** 15, **Int** 14, **Sag** 10, **Cha** 14}
 {s:BDTexte|**BBA** +3, **BMO** +6, **DMD** 17}
-{s:BDTexte|**Dons** [Arme de prédilection](./../Pathfinder-RPG/Arme de prédilection.md) (hache de lancer), Entrainement arcanique aux armures, Dispense de composants, Volonté de fer, Sorcerous bloodstrike (1/jour), Chasseur de mage (+1 contre les lanceurs de sorts, +2 arts de la magie pour identifier les sorts)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (hache de lancer), Entrainement arcanique aux armures, Dispense de composants, Volonté de fer, Sorcerous bloodstrike (1/jour), Chasseur de mage (+1 contre les lanceurs de sorts, +2 arts de la magie pour identifier les sorts)}
 {s:BDTexte|**Compétences**Diplomatie +6, Dressage +10, Arts de la magie +10, Survie +6, Nage +7, Utilisation d'objet magique +10}
 {s:BDTexte|**Langues** commun, gobelin, géant, infernal, }
 {s:BDSousTitre|Écologie}

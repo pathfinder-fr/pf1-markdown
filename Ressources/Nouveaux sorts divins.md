@@ -8,7 +8,7 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 </div>
 
 Ce n'est pas nouveau, à la liste initiale des sorts du manuel du joueur s'ajoutent ceux provenant de nouveaux suppléments et d'anciennes éditions.

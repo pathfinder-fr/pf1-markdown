@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEACIDE
 ---
 
->>> [découvertes#BOMBEACIDE](./découvertes.md#BOMBEACIDE)
+>>> [[découvertes#BOMBEACIDE]]

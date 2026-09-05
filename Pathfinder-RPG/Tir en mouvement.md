@@ -10,22 +10,22 @@ Categories:
 
 *Le personnage peut se déplacer, tirer et se déplacer à nouveau avant même que son ennemi puisse réagir.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 13, [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Tir à bout portant](./Tir à bout portant.md), [bonus de base à l’attaque](./BBA.md) de +4.
+**Conditions.** [[Dextérité|Dex]] 13, [[Esquive]], [[Souplesse du serpent]], [[Tir à bout portant]], [[BBA|bonus de base à l’attaque]] de +4.
 
-**Avantage.** Au prix d'une [action complexe](./Action complexe.md), le personnage peut effectuer une unique attaque à l'aide d'une [arme à distance](./arme à distance.md) et peut se déplacer avant et après son attaque, du moment que la distance totale parcourue pendant le [round](./round.md) ne dépasse pas sa [vitesse de déplacement](./vitesse de déplacement.md).
+**Avantage.** Au prix d'une [[action complexe]], le personnage peut effectuer une unique attaque à l'aide d'une [[arme à distance]] et peut se déplacer avant et après son attaque, du moment que la distance totale parcourue pendant le [[round]] ne dépasse pas sa [[vitesse de déplacement]].
 
-**Normal.** Le personnage ne peut pas se déplacer avant et après une attaque avec une [arme à distance](./arme à distance.md).
+**Normal.** Le personnage ne peut pas se déplacer avant et après une attaque avec une [[arme à distance]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance pour utiliser ce don par une [action simple](./Action simple.md) au lieu d’une [action complexe](./Action complexe.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance pour utiliser ce don par une [[action simple]] au lieu d’une [[action complexe]].
 
 {s:CMy}
 ### Version mythique
 *Le personnage peut facilement décocher deux tirs tout en se déplaçant rapidement sur le champ de bataille.*
 
-**Condition.** Tir en mouvement, [BBA](./BBA.md) +6
+**Condition.** Tir en mouvement, [[BBA]] +6
 
-**Avantage.** Lorsqu’il utilise Tir en mouvement, le personnage peut effectuer deux attaques à distance au lieu d’une seule, à n’importe quel moment lors de son déplacement, en appliquant son bonus de base à l’attaque ([BBA](./BBA.md)) le plus élevé.
+**Avantage.** Lorsqu’il utilise Tir en mouvement, le personnage peut effectuer deux attaques à distance au lieu d’une seule, à n’importe quel moment lors de son déplacement, en appliquant son bonus de base à l’attaque ([[BBA]]) le plus élevé.

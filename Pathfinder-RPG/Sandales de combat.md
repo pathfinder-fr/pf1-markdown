@@ -9,11 +9,11 @@ LastModified: 2020-03-10 18:45
 
 <div class="BD">
 {s:BDTitre|Sandales de combat{s:HotS}}
-**Auras** : [Transmutation](./Transmutation.md) moyenne   ; **NLS** : 9  ; **Prix** : 18,000 po
+**Auras** : [[Transmutation]] moyenne   ; **NLS** : 9  ; **Prix** : 18,000 po
 (((Caractéristiques)))
 Des lanières en cuir marron travaillé remontent le dos et autour de la semelle de cet ensemble de chaussures robuste. Le porteur d'une paire de sandales de combat peut charger à travers les cases des alliés sans difficulté, et les alliés adjacents au porteur ne donnent pas de bonus de couverture aux ennemis que le porteur attaque avec des armes de contact ou à distance.
 
 (((Création)))
-[Création d’objets merveilleux](./Création dobjets merveilleux.md); [Repli expéditif](./Repli expéditif.md); [Liberté de mouvement](./Liberté de mouvement.md); [Coup au but](./Coup au but.md)
+[[Création dobjets merveilleux|Création d’objets merveilleux]]; [[Repli expéditif]]; [[Liberté de mouvement]]; [[Coup au but]]
 **Prix** : 9,000 po
 </div>

@@ -142,7 +142,7 @@ La paladine qui bloquait le ver dans un champ de stase le temps que vous fuyez v
 
 <u>**Fins possibles**</u>:
 
--La paladine a succombé, elle vous a emporté, vous, le monstre et tous les villageois, dans une [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Explosion%20de%20lumi%C3%A8re.ashx|explosion de lumière].
+-La paladine a succombé, elle vous a emporté, vous, le monstre et tous les villageois, dans une [explosion de lumière](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Explosion%20de%20lumi%C3%A8re.ashx).
 
 -Le monstre a été tué, la paladine vous donne une armure céleste qu'elle crée à partir des écailles du monstre et vous retournez tranquillement dans votre monde.
 

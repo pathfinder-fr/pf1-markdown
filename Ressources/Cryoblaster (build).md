@@ -4,8 +4,8 @@ Title: Cryomancien
 LastModified: 2021-07-19 01:27
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
-***Voir le [<nowiki>http://www.pathfinder-fr.org/Forum/posts/t13708~~Build~~Le-cryomancien|sujet de discussion</nowiki>]***</div>
+<div class="fright">***Retour aux [[builds]].***</br>
+***Voir le [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t13708~~Build~~Le-cryomancien|sujet de discussion</nowiki>]]***</div>
 
 <nav class="wiki-toc"></nav>
 
@@ -33,7 +33,7 @@ La force n'a aucun intérêt, si ce n'est porter l'équipement sans être ralent
 
 ##### 2.2 Race
 
-[++Pathfinder-RPG.Humain.ashx|Humain] pour le bonus flottant de +2 dans une caractéristique, qu'on attribue à l'intelligence, et le don bonus car le build est gourmand en dons.
+[[Pathfinder-RPG.Humain.ashx|Humain]] pour le bonus flottant de +2 dans une caractéristique, qu'on attribue à l'intelligence, et le don bonus car le build est gourmand en dons.
 
 ##### 2.3 Exemple de répartition (20 points)
 
@@ -52,9 +52,9 @@ Note : on peut librement échanger les scores de la dextérité, la constitution
 
 #### 3. Plan de carrière
 
-[Magicien](./../Pathfinder-RPG/Magicien.md) [++Pathfinder-RPG.Évocation (école).ashx|évocateur], champ d'étude magique mélange.</br>
+[[Pathfinder-RPG.Magicien|Magicien]] [[Pathfinder-RPG.Évocation (école).ashx|évocateur]], champ d'étude magique mélange.</br>
 Parmi les écoles d'opposition, on choisira généralement enchantement et nécromancie, plus limitées que invocation, transmutation ou abjuration.</br>
-Pour booster les dégâts, on peut prendre un unique niveau d'[ensorceleur](./Pathfinder-RPG-Ensorceleur-ashx.md) (éventuellement [sang mêlé](./Pathfinder-RPG-Sang-mêlé-(ensorceleur)-ashx.md)) [lignage draconique d'argent](./Pathfinder-RPG-lignage-Draconique-ashx.md) et/ou [orque](http://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/orc-bloodline). Il est préférable de le prendre le plus tôt possible, ce qui permet en plus de faire coïncider l'obtention du don [++Pathfinder-RPG.Sort de prédilection.ashx|sort de prédilection] avec le choix de notre sort définitif de [++Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique] (boule de feu ou burning arc).
+Pour booster les dégâts, on peut prendre un unique niveau d'[[Pathfinder-RPG.Ensorceleur.ashx|ensorceleur]] (éventuellement [[Pathfinder-RPG.Sang mêlé (ensorceleur).ashx|sang mêlé]]) [[Pathfinder-RPG.lignage Draconique.ashx|lignage draconique d'argent]] et/ou [orque](http://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/orc-bloodline). Il est préférable de le prendre le plus tôt possible, ce qui permet en plus de faire coïncider l'obtention du don [[Pathfinder-RPG.Sort de prédilection.ashx|sort de prédilection]] avec le choix de notre sort définitif de [[Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique]] (boule de feu ou burning arc).
 
 ##### 3.1 Bonus de classe de prédilection
 
@@ -63,7 +63,7 @@ Au choix.
 ##### 3.2 Traits
 
 Don pour la magie (magicien) afin de ne pas perdre de NLS (valable uniquement si on prend le niveau d'ensorceleur).</br>
-[http://www.d20pfsrd.com/traits/regional-traits/metamagic-master|Wayang spellhunter] (boule de feu ou burning arc si on veut profiter rapidement du trait, serpent de feu si on veut en profiter à haut niveau).
+[Wayang spellhunter](http://www.d20pfsrd.com/traits/regional-traits/metamagic-master) (boule de feu ou burning arc si on veut profiter rapidement du trait, serpent de feu si on veut en profiter à haut niveau).
 
 ##### 3.3 Capacités de classe et dons
 
@@ -74,31 +74,31 @@ Don pour la magie (magicien) afin de ne pas perdre de NLS (valable uniquement si
 
 - <u>La perfection magique</u>
 
-Trois [++Pathfinder-RPG.dons de métamagie.ashx|dons de métamagie], [++Pathfinder-RPG.Perfection magique.ashx|perfection magique]
+Trois [[Pathfinder-RPG.dons de métamagie.ashx|dons de métamagie]], [[Pathfinder-RPG.Perfection magique.ashx|perfection magique]]
 
-Ce build s'appuie énormément sur les métamagies, il n'est donc pas difficile d'obtenir les trois dons prérequis à [++Pathfinder-RPG.Perfection magique.ashx|perfection magique].
+Ce build s'appuie énormément sur les métamagies, il n'est donc pas difficile d'obtenir les trois dons prérequis à [[Pathfinder-RPG.Perfection magique.ashx|perfection magique]].
 
-En revanche, ce build étant gourmand en dons, il nécessite de préparer la montée en puissance en prenant certains dons trop tôt pour qu'ils soient utiles... Mais c'est malheureusement une nécessité. C'est le cas par exemple de [++Pathfinder-RPG.Sort gelé.ashx|sort gelé].
+En revanche, ce build étant gourmand en dons, il nécessite de préparer la montée en puissance en prenant certains dons trop tôt pour qu'ils soient utiles... Mais c'est malheureusement une nécessité. C'est le cas par exemple de [[Pathfinder-RPG.Sort gelé.ashx|sort gelé]].
 
-Au contraire, d'autres dons arrivent un peu tard, comme [++Pathfinder-RPG.Extension deffet.ashx|métamagie : extension d'effet].
+Au contraire, d'autres dons arrivent un peu tard, comme [[Pathfinder-RPG.Extension deffet.ashx|métamagie : extension d'effet]].
 
-Ces problèmes sont moins présents dans la version burning arc à bas niveau, le seul choix à faire étant l'ordre entre [++Pathfinder-RPG.Extension deffet.ashx|métamagie : extension d'effet] et [++Pathfinder-RPG.Sort intense.ashx|métamagie : sort intense] aux niveaux 9 et 11 : passer directement au niveau 9 à un gros boost des dégâts (10d6+20+4 x1.5, en moyenne 88.5 de dégâts) au prix d'une métamagie un peu plus chère, ou rester sur une progression des dégâts plus lente (11d6+22+4, en moyenne 64.5 de dégâts) mais pour une métamagie moins chère. Quoi qu'il en soit, au niveau 11, en combinant les deux, on se retrouve avec des dégâts énormes (13d6+26+5 x1.5, en moyenne 114.75).
+Ces problèmes sont moins présents dans la version burning arc à bas niveau, le seul choix à faire étant l'ordre entre [[Pathfinder-RPG.Extension deffet.ashx|métamagie : extension d'effet]] et [[Pathfinder-RPG.Sort intense.ashx|métamagie : sort intense]] aux niveaux 9 et 11 : passer directement au niveau 9 à un gros boost des dégâts (10d6+20+4 x1.5, en moyenne 88.5 de dégâts) au prix d'une métamagie un peu plus chère, ou rester sur une progression des dégâts plus lente (11d6+22+4, en moyenne 64.5 de dégâts) mais pour une métamagie moins chère. Quoi qu'il en soit, au niveau 11, en combinant les deux, on se retrouve avec des dégâts énormes (13d6+26+5 x1.5, en moyenne 114.75).
 
 - <u>Améliorer le blast</u>
 
-[++Pathfinder-RPG.École renforcée.ashx|École renforcée], [++Pathfinder-RPG.Sort de prédilection.ashx|Sort de prédilection], [++Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique]
+[[Pathfinder-RPG.École renforcée.ashx|École renforcée]], [[Pathfinder-RPG.Sort de prédilection.ashx|Sort de prédilection]], [[Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique]]
 
-Pourquoi [++Pathfinder-RPG.Sort de prédilection.ashx|sort de prédilection] et non [++Pathfinder-RPG.Spécialisation magique supérieure.ashx|spécialisation magique supérieure] ?</br>
+Pourquoi [[Pathfinder-RPG.Sort de prédilection.ashx|sort de prédilection]] et non [[Pathfinder-RPG.Spécialisation magique supérieure.ashx|spécialisation magique supérieure]] ?</br>
 - spécialisation magique supérieure arrive tard (accès aux sorts de niveau 5, donc magicien de niveau 9, donc minimum personnage de niveau 9, ou de niveau 11 si on a pris le dip d'ensorceleur qui décale les niveaux vu qu'il n'y a pas de dons au niveau 10).</br>
 - spécialisation magique supérieure demande une action complexe pour incanter boule de feu spontanément si on lui adjoint une métamagie, ores on le fera systématiquement vu qu'on peut le faire gratuitement via Wayang spell hunter.</br>
 
 - <u>Passer la résistance à la magie (RM)</u>
 
-[++Pathfinder-RPG.Sort transperçant.ashx|Métamagie : sort transperçant], [++Pathfinder-RPG.Efficacité des sorts accrue.ashx|efficacité des sorts accrue], [++Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|efficacité des sorts accrue supérieure]
+[[Pathfinder-RPG.Sort transperçant.ashx|Métamagie : sort transperçant]], [[Pathfinder-RPG.Efficacité des sorts accrue.ashx|efficacité des sorts accrue]], [[Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|efficacité des sorts accrue supérieure]]
 
 La plupart des sorts de dégâts autorisent les créatures à bénéficier de leur RM. Celle-ci est généralement égale à leur FP+11. Un lanceur de sorts perce naturellement la RM avec 1d20 + son niveau de lanceur de sorts. Il passe donc la RM d'un monstre dont le FP est égal à son niveau (rencontre normale) sur 11+, et un monstre dont le FP est égal à son niveau +3 (rencontre très difficile) sur 14+. Il y a trop de risques de voir son sort être totalement inefficace pour ne pas tenter d'y remédier.
 
-Contre ces monstres, il y a donc deux solutions : utiliser des sorts qui n'autorisent pas la RM (généralement des sorts de contrôle), ou améliorer les capacités à percer la magie. Puisqu'on attend de ce personnage de faire des dégâts, il faut forcément une solution pour le deuxième cas. Le plus efficace, mais le plus coûteux, est la [++Pathfinder-RPG.Sort transperçant.ashx|métamagie : sort transperçant]. Elle nécessite un emplacement de sort d'un niveau de plus, mais offre un +5 pour passer la RM. C'est une capacité à activer, il vaut donc mieux savoir si son adversaire dispose d'une RM ou non avant de lancer tout sort. [++Pathfinder-RPG.Efficacité des sorts accrue.ashx|Efficacité des sorts accrue] et [++Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|efficacité des sorts accrue supérieure] sont des avantages passifs qui ont l'avantage de ne pas coûter d'emplacement de sort supérieur, et de ne pas demander à savoir si l'adversaire dispose d'une RM ou non. Par contre, ils n'offrent chacun qu'un bonus de +2 (cumulable).
+Contre ces monstres, il y a donc deux solutions : utiliser des sorts qui n'autorisent pas la RM (généralement des sorts de contrôle), ou améliorer les capacités à percer la magie. Puisqu'on attend de ce personnage de faire des dégâts, il faut forcément une solution pour le deuxième cas. Le plus efficace, mais le plus coûteux, est la [[Pathfinder-RPG.Sort transperçant.ashx|métamagie : sort transperçant]]. Elle nécessite un emplacement de sort d'un niveau de plus, mais offre un +5 pour passer la RM. C'est une capacité à activer, il vaut donc mieux savoir si son adversaire dispose d'une RM ou non avant de lancer tout sort. [[Pathfinder-RPG.Efficacité des sorts accrue.ashx|Efficacité des sorts accrue]] et [[Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|efficacité des sorts accrue supérieure]] sont des avantages passifs qui ont l'avantage de ne pas coûter d'emplacement de sort supérieur, et de ne pas demander à savoir si l'adversaire dispose d'une RM ou non. Par contre, ils n'offrent chacun qu'un bonus de +2 (cumulable).
 
 - <u>Familier supérieur</u>
 
@@ -108,64 +108,64 @@ Le familier supérieur est excellent évidemment, mais le build étant gourmand 
 
 Certains sorts dépendent du niveau de lanceur de sort et méritent d'être mémorisés. D'autres au contraire sont peu dépendant du niveau du lanceur de sort et n'ont pas de DD, et sont plus intéressants en consommables (baguette si on pense les utiliser très souvent, parchemin s'ils ont un usage occasionnel, potion s'ils ont un usage occasionnel et qu'on pense pouvoir en faire profiter un compagnon).
 
-**3.4.0 [++Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#0|Sorts de niveau 0]**
+**3.4.0 [[Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#0|Sorts de niveau 0]]**
 
-Note : le niveau d'ensorceleur apporte 3 sorts de niveau 0. On lui réserve les sorts non dépendant du NLS, comme [++Pathfinder-RPG.Prestidigitation.ashx|prestidigitation], et on réserve au magicien les sorts dépendant du NLS, comme [++Pathfinder-RPG.Lumière.ashx|lumière].
+Note : le niveau d'ensorceleur apporte 3 sorts de niveau 0. On lui réserve les sorts non dépendant du NLS, comme [[Pathfinder-RPG.Prestidigitation.ashx|prestidigitation]], et on réserve au magicien les sorts dépendant du NLS, comme [[Pathfinder-RPG.Lumière.ashx|lumière]].
 
-**3.4.1 [++Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#1|Sorts de niveau 1]**
+**3.4.1 [[Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#1|Sorts de niveau 1]]**
 
-- [++Pathfinder-RPG.Mains brûlantes.ashx|Mains brûlantes] est suffisant pour le blast.</br>
-- [++Pathfinder-RPG.Agrandissement.ashx|Agrandissement] en consommable.</br>
-- [++Pathfinder-RPG.Armure de mage.ashx|Armure de mage] en consommable à bas niveau, puis en sort quand la durée devient intéressante.</br>
-- [++Pathfinder-RPG.Brume de dissimulation.ashx|Brume de dissimulation] en consommable.</br>
-- [++Pathfinder-RPG.Compréhension des langages.ashx|Compréhension des langages] en consommable.</br>
-- [++Pathfinder-RPG.Couleurs dansantes.ashx|Couleurs dansantes] pour du contrôle à bas niveau.</br>
-- [++Pathfinder-RPG.Cri perçant.ashx|Cri perçant] pour du contrôle à bas niveau.</br>
-- [++Pathfinder-RPG.Détection des passages secrets.ashx|Détection des passages secrets] en consommable.</br>
-- [++Pathfinder-RPG.Graisse.ashx|Graisse] pour du contrôle à bas niveau.</br>
-- [++Pathfinder-RPG.Guérison diabolique.ashx|Guérison infernale] en consommable, plus efficace qu'une baguette de soins légers, et utilisable en baguette et parchemin par un lanceur de sorts profanes.</br>
-- [++Pathfinder-RPG.Identification.ashx|Identification].</br>
-- [++Pathfinder-RPG.Image silencieuse.ashx|Image silencieuse] en sort d'ensorceleur, ou en consommable.</br>
-- [++Pathfinder-RPG.Protection contre le mal.ashx|Protection contre le mal] en consommable.</br>
+- [[Pathfinder-RPG.Mains brûlantes.ashx|Mains brûlantes]] est suffisant pour le blast.</br>
+- [[Pathfinder-RPG.Agrandissement.ashx|Agrandissement]] en consommable.</br>
+- [[Pathfinder-RPG.Armure de mage.ashx|Armure de mage]] en consommable à bas niveau, puis en sort quand la durée devient intéressante.</br>
+- [[Pathfinder-RPG.Brume de dissimulation.ashx|Brume de dissimulation]] en consommable.</br>
+- [[Pathfinder-RPG.Compréhension des langages.ashx|Compréhension des langages]] en consommable.</br>
+- [[Pathfinder-RPG.Couleurs dansantes.ashx|Couleurs dansantes]] pour du contrôle à bas niveau.</br>
+- [[Pathfinder-RPG.Cri perçant.ashx|Cri perçant]] pour du contrôle à bas niveau.</br>
+- [[Pathfinder-RPG.Détection des passages secrets.ashx|Détection des passages secrets]] en consommable.</br>
+- [[Pathfinder-RPG.Graisse.ashx|Graisse]] pour du contrôle à bas niveau.</br>
+- [[Pathfinder-RPG.Guérison diabolique.ashx|Guérison infernale]] en consommable, plus efficace qu'une baguette de soins légers, et utilisable en baguette et parchemin par un lanceur de sorts profanes.</br>
+- [[Pathfinder-RPG.Identification.ashx|Identification]].</br>
+- [[Pathfinder-RPG.Image silencieuse.ashx|Image silencieuse]] en sort d'ensorceleur, ou en consommable.</br>
+- [[Pathfinder-RPG.Protection contre le mal.ashx|Protection contre le mal]] en consommable.</br>
 
-Note : le niveau d'ensorceleur apporte 1 sort de niveau 1, qu'on pourra utiliser 4 fois par jour (avec 12 de charisme). Là aussi, On lui réserve un sort peu dépendant du NLS, mais qu'on pourra fréquemment utiliser à tout niveau, comme [++Pathfinder-RPG.Armure de mage.ashx|armure de mage] ou [++Pathfinder-RPG.Image silencieuse.ashx|image silencieuse].
+Note : le niveau d'ensorceleur apporte 1 sort de niveau 1, qu'on pourra utiliser 4 fois par jour (avec 12 de charisme). Là aussi, On lui réserve un sort peu dépendant du NLS, mais qu'on pourra fréquemment utiliser à tout niveau, comme [[Pathfinder-RPG.Armure de mage.ashx|armure de mage]] ou [[Pathfinder-RPG.Image silencieuse.ashx|image silencieuse]].
 
-**3.4.2 [++Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#2|Sorts de niveau 2]**
+**3.4.2 [[Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#2|Sorts de niveau 2]]**
 
-- [http://www.d20pfsrd.com/magic/all-spells/b/burning-arc|Burning arc] est suffisant pour le blast (s'il n'est pas autorisé par le MJ, on garde mains brulantes).</br>
-- [++Pathfinder-RPG.Sphère de feu.ashx|Sphère de feu] est un très bon blast (en moyenne 16 de dégâts + 1/2 niveau de magicien) pour les combats longs puisqu'elle ne demande qu'une action de mouvement pour être manipulée au court du combat, laissant libre place à l'action simple pour incanter d'autres sorts. A lancer au premier round afin de multiplier les dégâts infligés aux adversaires, et à incanter éventuellement deux fois pour manipuler deux sphères simultanément au prix de nos deux actions de mouvement.
-- [++Pathfinder-RPG.Appel des pierres.ashx|Appel des pierres] en consommable.
-- [++Pathfinder-RPG.Création de fosse.ashx|Création de fosse].
-- [++Pathfinder-RPG.Détection de pensées.ashx|Détection de pensées].
-- [++Pathfinder-RPG.Flou.ashx|Flou] en consommable.
-- [++Pathfinder-RPG.Image miroir.ashx|Image miroir] en consommable à bas niveau, puis en sort à partir du niveau 6, voire 9.
-- [++Pathfinder-RPG.Invisibilité.ashx|Invisibilité].
-- [++Pathfinder-RPG.Modification dapparence.ashx|Modification d'apparence] en consommable.
-- [++Pathfinder-RPG.Poussière scintillante.ashx|Poussière scintillante].
-- [++Pathfinder-RPG.Résistance aux énergies destructives.ashx|Résistance aux énergies destructives] en consommable à bas niveau, puis en sort quand la durée devient intéressante.
-- [++Pathfinder-RPG.Toile daraignée.ashx|Toile d'araignée].
+- [Burning arc](http://www.d20pfsrd.com/magic/all-spells/b/burning-arc) est suffisant pour le blast (s'il n'est pas autorisé par le MJ, on garde mains brulantes).</br>
+- [[Pathfinder-RPG.Sphère de feu.ashx|Sphère de feu]] est un très bon blast (en moyenne 16 de dégâts + 1/2 niveau de magicien) pour les combats longs puisqu'elle ne demande qu'une action de mouvement pour être manipulée au court du combat, laissant libre place à l'action simple pour incanter d'autres sorts. A lancer au premier round afin de multiplier les dégâts infligés aux adversaires, et à incanter éventuellement deux fois pour manipuler deux sphères simultanément au prix de nos deux actions de mouvement.
+- [[Pathfinder-RPG.Appel des pierres.ashx|Appel des pierres]] en consommable.
+- [[Pathfinder-RPG.Création de fosse.ashx|Création de fosse]].
+- [[Pathfinder-RPG.Détection de pensées.ashx|Détection de pensées]].
+- [[Pathfinder-RPG.Flou.ashx|Flou]] en consommable.
+- [[Pathfinder-RPG.Image miroir.ashx|Image miroir]] en consommable à bas niveau, puis en sort à partir du niveau 6, voire 9.
+- [[Pathfinder-RPG.Invisibilité.ashx|Invisibilité]].
+- [[Pathfinder-RPG.Modification dapparence.ashx|Modification d'apparence]] en consommable.
+- [[Pathfinder-RPG.Poussière scintillante.ashx|Poussière scintillante]].
+- [[Pathfinder-RPG.Résistance aux énergies destructives.ashx|Résistance aux énergies destructives]] en consommable à bas niveau, puis en sort quand la durée devient intéressante.
+- [[Pathfinder-RPG.Toile daraignée.ashx|Toile d'araignée]].
 
-**3.4.3 [++Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#3|Sorts de niveau 3]**
+**3.4.3 [[Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#3|Sorts de niveau 3]]**
 
-[++Pathfinder-RPG.Boule de feu.ashx.ashx|Boule de feu] est le blast de prédilection du cryomancien.
+[[Pathfinder-RPG.Boule de feu.ashx.ashx|Boule de feu]] est le blast de prédilection du cryomancien.
 
-**3.4.4 [++Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#4|Sorts de niveau 4]**
+**3.4.4 [[Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#4|Sorts de niveau 4]]**
 
-[++Pathfinder-RPG.Boule de foudre.ashx|Boule de foudre] a la même utilisation que sphère de feu.
+[[Pathfinder-RPG.Boule de foudre.ashx|Boule de foudre]] a la même utilisation que sphère de feu.
 
-**3.4.5 [++Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#5|Sorts de niveau 5]**
+**3.4.5 [[Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#5|Sorts de niveau 5]]**
 
-- [++Pathfinder-RPG.Cône de froid.ashx|Cône de froid] en sort pour du blast multicible.
+- [[Pathfinder-RPG.Cône de froid.ashx|Cône de froid]] en sort pour du blast multicible.
 
-**3.4.6 [++Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#6|Sorts de niveau 6]**
+**3.4.6 [[Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#6|Sorts de niveau 6]]**
 
-- [++Pathfinder-RPG.Éclair multiple.ashx|Éclair multiple] en sort pour du blast multicible, et sans mettre en danger les compagnons.
+- [[Pathfinder-RPG.Éclair multiple.ashx|Éclair multiple]] en sort pour du blast multicible, et sans mettre en danger les compagnons.
 
-**3.4.7 [++Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#7|Sorts de niveau 7]**
+**3.4.7 [[Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#7|Sorts de niveau 7]]**
 
-**3.4.8 [++Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#8|Sorts de niveau 8]**
+**3.4.8 [[Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#8|Sorts de niveau 8]]**
 
-**3.4.9 [++Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#9|Sorts de niveau 9]**
+**3.4.9 [[Pathfinder-RPG.Liste des sorts densorceleursmagiciens.ashx#9|Sorts de niveau 9]]**
 
 
 
@@ -173,8 +173,8 @@ Note : le niveau d'ensorceleur apporte 1 sort de niveau 1, qu'on pourra utiliser
 
 En dehors des équipements classiques indispensables à tout magicien (bandeau d'intelligence, cape de résistance, sceptres de métamagie...), voici quelques objets plus spécifiques au cryomancien.
 
-- [http://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/r-z/robe-voidfrost|Voidfrost Robe] : cette robe augmente le NLS de 1 pour les sorts de froid pour pas trop cher, et ça, c'est toujours bon à prendre.
-- [++Pathfinder-RPG.Pierre ioun.ashx|Pierre Ioun Orange] : plus chère que l'objet magique précédent, mais valable pour tous les sorts.
+- [Voidfrost Robe](http://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/r-z/robe-voidfrost) : cette robe augmente le NLS de 1 pour les sorts de froid pour pas trop cher, et ça, c'est toujours bon à prendre.
+- [[Pathfinder-RPG.Pierre ioun.ashx|Pierre Ioun Orange]] : plus chère que l'objet magique précédent, mais valable pour tous les sorts.
 
 ### Évolution proposée
 
@@ -185,45 +185,45 @@ En dehors des équipements classiques indispensables à tout magicien (bandeau d
 |- CLASS="titre"
 | Niveau || Classe || BBA || NLS || Capacités de classe, dons
 |- CLASS="premier"
-| 01 || [Magicien](./../Pathfinder-RPG/Magicien.md) 1 || +0 || 1 || [++Pathfinder-RPG.École renforcée.ashx|École renforcée] (évocation), [++Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique] : [++Pathfinder-RPG.Mains brûlantes.ashx|mains brûlantes]
+| 01 || [[Pathfinder-RPG.Magicien|Magicien]] 1 || +0 || 1 || [[Pathfinder-RPG.École renforcée.ashx|École renforcée]] (évocation), [[Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique]] : [[Pathfinder-RPG.Mains brûlantes.ashx|mains brûlantes]]
 |-
-| 02 || [Ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) 1 || +1 || 2 || &nbsp;
+| 02 || [[Pathfinder-RPG.Ensorceleur|Ensorceleur]] 1 || +1 || 2 || &nbsp;
 |-
-| 03 || [Magicien](./../Pathfinder-RPG/Magicien.md) 2 || +1 || 3 || [++Pathfinder-RPG.Sort intense.ashx|Métamagie : sort intense]
+| 03 || [[Pathfinder-RPG.Magicien|Magicien]] 2 || +1 || 3 || [[Pathfinder-RPG.Sort intense.ashx|Métamagie : sort intense]]
 |-
-| 04 || [Magicien](./../Pathfinder-RPG/Magicien.md) 3 || +2 || 4 || &nbsp;
+| 04 || [[Pathfinder-RPG.Magicien|Magicien]] 3 || +2 || 4 || &nbsp;
 |-
-| 05 || [Magicien](./../Pathfinder-RPG/Magicien.md) 4 || +2 || 5 || [++Pathfinder-RPG.Augmentation dintensité.ashx|Métamagie : augmentation d'intensité]
+| 05 || [[Pathfinder-RPG.Magicien|Magicien]] 4 || +2 || 5 || [[Pathfinder-RPG.Augmentation dintensité.ashx|Métamagie : augmentation d'intensité]]
 |-
-| 06 || [Magicien](./../Pathfinder-RPG/Magicien.md) 5 || +2 || 6 || [++Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|Don supplémentaire] : [++Pathfinder-RPG.Sort gelé.ashx|métamagie : sort gelé]
+| 06 || [[Pathfinder-RPG.Magicien|Magicien]] 5 || +2 || 6 || [[Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Sort gelé.ashx|métamagie : sort gelé]]
 |-
-| 07 || [Magicien](./../Pathfinder-RPG/Magicien.md) 6 || +3 || 7 || [++Pathfinder-RPG.Sort de prédilection.ashx|Sort de prédilection] : [++Pathfinder-RPG.Boule de feu.ashx|boule de feu] ; changement de [++Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique] : [++Pathfinder-RPG.Mains brûlantes.ashx|mains brûlantes] pour [++Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique] : [++Pathfinder-RPG.Boule de feu.ashx|boule de feu]
+| 07 || [[Pathfinder-RPG.Magicien|Magicien]] 6 || +3 || 7 || [[Pathfinder-RPG.Sort de prédilection.ashx|Sort de prédilection]] : [[Pathfinder-RPG.Boule de feu.ashx|boule de feu]] ; changement de [[Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique]] : [[Pathfinder-RPG.Mains brûlantes.ashx|mains brûlantes]] pour [[Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique]] : [[Pathfinder-RPG.Boule de feu.ashx|boule de feu]]
 |-
-| 08 || [Magicien](./../Pathfinder-RPG/Magicien.md) 7 || +3 || 8 ||  &nbsp;
+| 08 || [[Pathfinder-RPG.Magicien|Magicien]] 7 || +3 || 8 ||  &nbsp;
 |-
-| 09 || [Magicien](./../Pathfinder-RPG/Magicien.md) 8 || +4 || 9 || [++Pathfinder-RPG.Sort transperçant.ashx|Métamagie : sort transperçant] ou [++Pathfinder-RPG.Efficacité des sorts accrue.ashx|efficacité des sorts accrue]
+| 09 || [[Pathfinder-RPG.Magicien|Magicien]] 8 || +4 || 9 || [[Pathfinder-RPG.Sort transperçant.ashx|Métamagie : sort transperçant]] ou [[Pathfinder-RPG.Efficacité des sorts accrue.ashx|efficacité des sorts accrue]]
 |-
-| 10 || [Magicien](./../Pathfinder-RPG/Magicien.md) 9 || +4 || 10 || &nbsp;
+| 10 || [[Pathfinder-RPG.Magicien|Magicien]] 9 || +4 || 10 || &nbsp;
 |-
-| 11 || [Magicien](./../Pathfinder-RPG/Magicien.md) 10 || +5 || 11 || [++Pathfinder-RPG.Sort sélectif.ashx|Métamagie : sort sélectif] ; [++Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|don supplémentaire] : [++Pathfinder-RPG.Extension deffet.ashx|métamagie : extension d'effet]
+| 11 || [[Pathfinder-RPG.Magicien|Magicien]] 10 || +5 || 11 || [[Pathfinder-RPG.Sort sélectif.ashx|Métamagie : sort sélectif]] ; [[Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|don supplémentaire]] : [[Pathfinder-RPG.Extension deffet.ashx|métamagie : extension d'effet]]
 |-
-| 12 || [Magicien](./../Pathfinder-RPG/Magicien.md) 11 || +5 || 12 || &nbsp;
+| 12 || [[Pathfinder-RPG.Magicien|Magicien]] 11 || +5 || 12 || &nbsp;
 |-
-| 13 || [Magicien](./../Pathfinder-RPG/Magicien.md) 12 || +6 || 13 || [++Pathfinder-RPG.Incantation rapide.ashx|Métamagie  : incantation rapide]
+| 13 || [[Pathfinder-RPG.Magicien|Magicien]] 12 || +6 || 13 || [[Pathfinder-RPG.Incantation rapide.ashx|Métamagie  : incantation rapide]]
 |-
-| 14 || [Magicien](./../Pathfinder-RPG/Magicien.md) 13 || +6 || 14 || &nbsp;
+| 14 || [[Pathfinder-RPG.Magicien|Magicien]] 13 || +6 || 14 || &nbsp;
 |-
-| 15 || [Magicien](./../Pathfinder-RPG/Magicien.md) 14 || +7 || 15 || [++Pathfinder-RPG.Perfection magique.ashx|Perfection magique] : [++Pathfinder-RPG.Boule de feu.ashx|boule de feu]
+| 15 || [[Pathfinder-RPG.Magicien|Magicien]] 14 || +7 || 15 || [[Pathfinder-RPG.Perfection magique.ashx|Perfection magique]] : [[Pathfinder-RPG.Boule de feu.ashx|boule de feu]]
 |-
-| 16 || [Magicien](./../Pathfinder-RPG/Magicien.md) 15 || +7 || 16 || [++Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|Don supplémentaire] : [++Pathfinder-RPG.Efficacité des sorts accrue.ashx|Efficacité des sorts accrue] ou [++Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|efficacité des sorts accrue supérieure]
+| 16 || [[Pathfinder-RPG.Magicien|Magicien]] 15 || +7 || 16 || [[Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Efficacité des sorts accrue.ashx|Efficacité des sorts accrue]] ou [[Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|efficacité des sorts accrue supérieure]]
 |-
-| 17 || [Magicien](./../Pathfinder-RPG/Magicien.md) 16 || +8 || 17 || [++Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|Efficacité des sorts accrue supérieure] ou [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don] au choix
+| 17 || [[Pathfinder-RPG.Magicien|Magicien]] 16 || +8 || 17 || [[Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|Efficacité des sorts accrue supérieure]] ou [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]] au choix
 |-
-| 18 || [Magicien](./../Pathfinder-RPG/Magicien.md) 17 || +8 || 18 || &nbsp;
+| 18 || [[Pathfinder-RPG.Magicien|Magicien]] 17 || +8 || 18 || &nbsp;
 |-
-| 19 || [Magicien](./../Pathfinder-RPG/Magicien.md) 18 || +9 || 19 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don] au choix
+| 19 || [[Pathfinder-RPG.Magicien|Magicien]] 18 || +9 || 19 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]] au choix
 |-
-| 20 || [Magicien](./../Pathfinder-RPG/Magicien.md) 19 || +9 || 20 || &nbsp;
+| 20 || [[Pathfinder-RPG.Magicien|Magicien]] 19 || +9 || 20 || &nbsp;
 |}
 
 #### Spécialisation magique : burning arc
@@ -233,43 +233,43 @@ En dehors des équipements classiques indispensables à tout magicien (bandeau d
 |- CLASS="titre"
 | Niveau || Classe || BBA || NLS || Capacités de classe, dons
 |- CLASS="premier"
-| 01 || [Magicien](./../Pathfinder-RPG/Magicien.md) 1 || +0 || 1 || [++Pathfinder-RPG.École renforcée.ashx|École renforcée] (évocation), [++Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique] : [++Pathfinder-RPG.Mains brûlantes.ashx|mains brûlantes]
+| 01 || [[Pathfinder-RPG.Magicien|Magicien]] 1 || +0 || 1 || [[Pathfinder-RPG.École renforcée.ashx|École renforcée]] (évocation), [[Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique]] : [[Pathfinder-RPG.Mains brûlantes.ashx|mains brûlantes]]
 |-
-| 02 || [Ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) 1 || +1 || 2 || &nbsp;
+| 02 || [[Pathfinder-RPG.Ensorceleur|Ensorceleur]] 1 || +1 || 2 || &nbsp;
 |-
-| 03 || [Magicien](./../Pathfinder-RPG/Magicien.md) 2 || +1 || 3 || [++Pathfinder-RPG.Augmentation dintensité.ashx|Métamagie : augmentation d'intensité]
+| 03 || [[Pathfinder-RPG.Magicien|Magicien]] 2 || +1 || 3 || [[Pathfinder-RPG.Augmentation dintensité.ashx|Métamagie : augmentation d'intensité]]
 |-
-| 04 || [Magicien](./../Pathfinder-RPG/Magicien.md) 3 || +2 || 4 || &nbsp;
+| 04 || [[Pathfinder-RPG.Magicien|Magicien]] 3 || +2 || 4 || &nbsp;
 |-
-| 05 || [Magicien](./../Pathfinder-RPG/Magicien.md) 4 || +2 || 5 || Changement de [++Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique] : [++Pathfinder-RPG.Mains brûlantes.ashx|mains brûlantes] pour [++Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique] : [http://www.d20pfsrd.com/magic/all-spells/b/burning-arc|burning arc] ; [++Pathfinder-RPG.Sort de prédilection.ashx|Sort de prédilection] : [http://www.d20pfsrd.com/magic/all-spells/b/burning-arc|burning arc]
+| 05 || [[Pathfinder-RPG.Magicien|Magicien]] 4 || +2 || 5 || Changement de [[Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique]] : [[Pathfinder-RPG.Mains brûlantes.ashx|mains brûlantes]] pour [[Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique]] : [burning arc](http://www.d20pfsrd.com/magic/all-spells/b/burning-arc) ; [[Pathfinder-RPG.Sort de prédilection.ashx|Sort de prédilection]] : [burning arc](http://www.d20pfsrd.com/magic/all-spells/b/burning-arc)
 |-
-| 06 || [Magicien](./../Pathfinder-RPG/Magicien.md) 5 || +2 || 6 || [++Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|Don supplémentaire] : [++Pathfinder-RPG.Sort gelé.ashx|métamagie : sort gelé]
+| 06 || [[Pathfinder-RPG.Magicien|Magicien]] 5 || +2 || 6 || [[Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Sort gelé.ashx|métamagie : sort gelé]]
 |-
-| 07 || [Magicien](./../Pathfinder-RPG/Magicien.md) 6 || +3 || 7 || [++Pathfinder-RPG.Sort transperçant.ashx|Métamagie : sort transperçant] ou [++Pathfinder-RPG.Efficacité des sorts accrue.ashx|efficacité des sorts accrue]
+| 07 || [[Pathfinder-RPG.Magicien|Magicien]] 6 || +3 || 7 || [[Pathfinder-RPG.Sort transperçant.ashx|Métamagie : sort transperçant]] ou [[Pathfinder-RPG.Efficacité des sorts accrue.ashx|efficacité des sorts accrue]]
 |-
-| 08 || [Magicien](./../Pathfinder-RPG/Magicien.md) 7 || +3 || 8 ||  &nbsp;
+| 08 || [[Pathfinder-RPG.Magicien|Magicien]] 7 || +3 || 8 ||  &nbsp;
 |-
-| 09 || [Magicien](./../Pathfinder-RPG/Magicien.md) 8 || +4 || 9 || [++Pathfinder-RPG.Extension deffet.ashx|Métamagie : extension d'effet] ou [++Pathfinder-RPG.Sort intense.ashx|métamagie : sort intense]
+| 09 || [[Pathfinder-RPG.Magicien|Magicien]] 8 || +4 || 9 || [[Pathfinder-RPG.Extension deffet.ashx|Métamagie : extension d'effet]] ou [[Pathfinder-RPG.Sort intense.ashx|métamagie : sort intense]]
 |-
-| 10 || [Magicien](./../Pathfinder-RPG/Magicien.md) 9 || +4 || 10 || &nbsp;
+| 10 || [[Pathfinder-RPG.Magicien|Magicien]] 9 || +4 || 10 || &nbsp;
 |-
-| 11 || [Magicien](./../Pathfinder-RPG/Magicien.md) 10 || +5 || 11 || [++Pathfinder-RPG.Efficacité des sorts accrue.ashx|Efficacité des sorts accrue] ou [++Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|efficacité des sorts accrue supérieure] ; [++Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|don supplémentaire] : [++Pathfinder-RPG.Sort intense.ashx|métamagie : sort intense] ou [++Pathfinder-RPG.Extension deffet.ashx|métamagie : extension d'effet]
+| 11 || [[Pathfinder-RPG.Magicien|Magicien]] 10 || +5 || 11 || [[Pathfinder-RPG.Efficacité des sorts accrue.ashx|Efficacité des sorts accrue]] ou [[Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|efficacité des sorts accrue supérieure]] ; [[Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|don supplémentaire]] : [[Pathfinder-RPG.Sort intense.ashx|métamagie : sort intense]] ou [[Pathfinder-RPG.Extension deffet.ashx|métamagie : extension d'effet]]
 |-
-| 12 || [Magicien](./../Pathfinder-RPG/Magicien.md) 11 || +5 || 12 || &nbsp;
+| 12 || [[Pathfinder-RPG.Magicien|Magicien]] 11 || +5 || 12 || &nbsp;
 |-
-| 13 || [Magicien](./../Pathfinder-RPG/Magicien.md) 12 || +6 || 13 || [++Pathfinder-RPG.Incantation rapide.ashx|Métamagie : incantation rapide]
+| 13 || [[Pathfinder-RPG.Magicien|Magicien]] 12 || +6 || 13 || [[Pathfinder-RPG.Incantation rapide.ashx|Métamagie : incantation rapide]]
 |-
-| 14 || [Magicien](./../Pathfinder-RPG/Magicien.md) 13 || +6 || 14 || &nbsp;
+| 14 || [[Pathfinder-RPG.Magicien|Magicien]] 13 || +6 || 14 || &nbsp;
 |-
-| 15 || [Magicien](./../Pathfinder-RPG/Magicien.md) 14 || +7 || 15 || [++Pathfinder-RPG.Perfection magique.ashx|Perfection magique] : [http://www.d20pfsrd.com/magic/all-spells/b/burning-arc|burning arc] ; changement de [++Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique] : [http://www.d20pfsrd.com/magic/all-spells/b/burning-arc|burning arc] pour [++Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique] : [++Pathfinder-RPG.Serpent de feu.ashx|serpent de feu]
+| 15 || [[Pathfinder-RPG.Magicien|Magicien]] 14 || +7 || 15 || [[Pathfinder-RPG.Perfection magique.ashx|Perfection magique]] : [burning arc](http://www.d20pfsrd.com/magic/all-spells/b/burning-arc) ; changement de [[Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique]] : [burning arc](http://www.d20pfsrd.com/magic/all-spells/b/burning-arc) pour [[Pathfinder-RPG.Spécialisation magique.ashx|spécialisation magique]] : [[Pathfinder-RPG.Serpent de feu.ashx|serpent de feu]]
 |-
-| 16 || [Magicien](./../Pathfinder-RPG/Magicien.md) 15 || +7 || 16 || [++Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|Efficacité des sorts accrue supérieure] ou [++Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|Don supplémentaire] : [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don] au choix
+| 16 || [[Pathfinder-RPG.Magicien|Magicien]] 15 || +7 || 16 || [[Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|Efficacité des sorts accrue supérieure]] ou [[Pathfinder-RPG.magicien.ashx#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]] au choix
 |-
-| 17 || [Magicien](./../Pathfinder-RPG/Magicien.md) 16 || +8 || 17 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don] au choix
+| 17 || [[Pathfinder-RPG.Magicien|Magicien]] 16 || +8 || 17 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]] au choix
 |-
-| 18 || [Magicien](./../Pathfinder-RPG/Magicien.md) 17 || +8 || 18 || &nbsp;
+| 18 || [[Pathfinder-RPG.Magicien|Magicien]] 17 || +8 || 18 || &nbsp;
 |-
-| 19 || [Magicien](./../Pathfinder-RPG/Magicien.md) 18 || +9 || 19 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don] au choix
+| 19 || [[Pathfinder-RPG.Magicien|Magicien]] 18 || +9 || 19 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]] au choix
 |-
-| 20 || [Magicien](./../Pathfinder-RPG/Magicien.md) 19 || +9 || 20 || &nbsp;
+| 20 || [[Pathfinder-RPG.Magicien|Magicien]] 19 || +9 || 20 || &nbsp;
 |}

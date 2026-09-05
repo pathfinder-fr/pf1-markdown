@@ -6,17 +6,17 @@ Categories:
 - Contenu supplémentaire
 ---
 
-*Retour à la page des [artefacts](./Artefacts.md)*.
+*Retour à la page des [[artefacts]]*.
 
-- [Fontaine argentale (artefact mineur)](./Fontaine argentale.md) relue
-- [Coeur d'automate (artefact mineur)](./Coeur dautomate.md)
-- [Pendentif azur|Pendentif azur (artefact mineur)]
-- [Cloche de miséricorde|Cloche de miséricorde (artefact mineur)]
-- [Spirale cubique|Spirale cubique (artefact mineur)]
-- [Coupe du savoir interdit|Coupe du savoir interdit (artefact mineur)]
-- [Grimoire sombre|Grimoire sombre (artefact mineur)]
-- [Sceau du dragon|Sceau du dragon (artefact mineur)]
-- [Œil de la terre|Œil de la terre (artefact mineur)]
-- [Signe de lAncien|Signe de l'Ancien (artefact mineur)]
-- [Ailes flottantes|Ailes flottantes (artefact mineur)]
-- [Harpe de lespoir nocturne|Harpe de l'espoir nocturne (artefact mineur)] nouveau
+- [[Fontaine argentale|Fontaine argentale (artefact mineur)]] relue
+- [[Coeur dautomate|Coeur d'automate (artefact mineur)]]
+- [[Pendentif azur|Pendentif azur (artefact mineur)]]
+- [[Cloche de miséricorde|Cloche de miséricorde (artefact mineur)]]
+- [[Spirale cubique|Spirale cubique (artefact mineur)]]
+- [[Coupe du savoir interdit|Coupe du savoir interdit (artefact mineur)]]
+- [[Grimoire sombre|Grimoire sombre (artefact mineur)]]
+- [[Sceau du dragon|Sceau du dragon (artefact mineur)]]
+- [[Œil de la terre|Œil de la terre (artefact mineur)]]
+- [[Signe de lAncien|Signe de l'Ancien (artefact mineur)]]
+- [[Ailes flottantes|Ailes flottantes (artefact mineur)]]
+- [[Harpe de lespoir nocturne|Harpe de l'espoir nocturne (artefact mineur)]] nouveau

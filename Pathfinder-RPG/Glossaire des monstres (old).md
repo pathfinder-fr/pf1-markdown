@@ -15,19 +15,19 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 ! Anglais !! Français !! Règles !! Livre !! FP
 |-
 | CLASS="gauche" | Aasimar
-| CLASS="gauche" | [Aasimar](./Aasimar.md)
+| CLASS="gauche" | [[Aasimar]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Abaia
-| CLASS="gauche" | [Abaia](./Abaia.md)
+| CLASS="gauche" | [[Abaia]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Aboleth
-| CLASS="gauche" | [Aboleth](./Aboleth.md)
+| CLASS="gauche" | [[Aboleth]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
@@ -39,103 +39,103 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 30
 |-
 | CLASS="gauche" | Achaierai
-| CLASS="gauche" | [Achaïéraï](./Achaïéraï.md)
+| CLASS="gauche" | [[Achaïéraï]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #28
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Adaro
-| CLASS="gauche" | [Adaro](./Adaro.md)
+| CLASS="gauche" | [[Adaro]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #38
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Adherer
-| CLASS="gauche" | [Glutineux](./Glutineux.md)
+| CLASS="gauche" | [[Glutineux]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Misfit Monsters Redeemed
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Adlet
-| CLASS="gauche" | [Adlet](./Adlet.md)
+| CLASS="gauche" | [[Adlet]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Aeon, Akhana
-| CLASS="gauche" | [Aéon](./Aéon.md), [Akhana](./Akhana.md)
+| CLASS="gauche" | [[Aéon]], [[Akhana]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Aeon, Bythos
-| CLASS="gauche" | [Aéon](./Aéon.md), [Bythos](./Bythos.md)
+| CLASS="gauche" | [[Aéon]], [[Bythos]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Aeon, Paracletus
-| CLASS="gauche" | [Aéon](./Aéon.md), [Paraclétus](./Paraclétus.md)
+| CLASS="gauche" | [[Aéon]], [[Paraclétus]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Aeon, Pleroma
-| CLASS="gauche" | [Aéon](./Aéon.md), [Pléroma](./Pléroma.md)
+| CLASS="gauche" | [[Aéon]], [[Pléroma]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Aeon, Theletos
-| CLASS="gauche" | [Aéon](./Aéon.md), [Thélétos](./Thélétos.md)
+| CLASS="gauche" | [[Aéon]], [[Thélétos]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Agathion, Avoral
-| CLASS="gauche" | [Agathion](./Agathion.md) (ou Guardinal), [Avoral](./Avoral.md)
+| CLASS="gauche" | [[Agathion]] (ou Guardinal), [[Avoral]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / Andoran, Spirit of Liberty
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Agathion, Cetaceal
-| CLASS="gauche" | [Agathion](./Agathion.md) (ou Guardinal), [Cétacéal](./Cétacéal.md)
+| CLASS="gauche" | [[Agathion]] (ou Guardinal), [[Cétacéal]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Agathion, Draconal
-| CLASS="gauche" | [Agathion](./Agathion.md) (ou Guardinal), [Draconal](./Draconal.md)
+| CLASS="gauche" | [[Agathion]] (ou Guardinal), [[Draconal]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Agathion, Leonal
-| CLASS="gauche" | [Agathion](./Agathion.md) (ou Guardinal), [Léonal](./Léonal.md)
+| CLASS="gauche" | [[Agathion]] (ou Guardinal), [[Léonal]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Agathion, Silvanshee
-| CLASS="gauche" | [Agathion](./Agathion.md) (ou Guardinal), [Silvanshie](./Silvanshie.md)
+| CLASS="gauche" | [[Agathion]] (ou Guardinal), [[Silvanshie]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Agathion, Vulpinal
-| CLASS="gauche" | [Agathion](./Agathion.md) (ou Guardinal), [Vulpinal](./Vulpinal.md)
+| CLASS="gauche" | [[Agathion]] (ou Guardinal), [[Vulpinal]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #28 /The Great Beyond (3E)
 | CLASS="gauche" | 6 (8 dans PF #28, 9 en 3E)
 |-
 | CLASS="gauche" | Ahriman
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #24
 | CLASS="gauche" | 22
 |-
 | CLASS="gauche" | Ahuizotl
-| CLASS="gauche" | [Ahuizolt](./Ahuizolt.md)
+| CLASS="gauche" | [[Ahuizolt]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #34
 | CLASS="gauche" | 6
@@ -147,241 +147,241 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Akata
-| CLASS="gauche" | [Akata](./Akata.md)
+| CLASS="gauche" | [[Akata]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #14 (3E)
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Akhlut
-| CLASS="gauche" | [Akhlut](./Akhlut.md)
+| CLASS="gauche" | [[Akhlut]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Allip
-| CLASS="gauche" | [Aallip](./Aallip.md)
+| CLASS="gauche" | [[Aallip]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / Bestiary 3 / Bestiary Supplement
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Almiraj
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Alpluachra
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Alraune
-| CLASS="gauche" | [Alraune](./Alraune.md)
+| CLASS="gauche" | [[Alraune]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Aluum
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | Guide to Katapesh (Dark Markets)
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Amoeba, Giant
-| CLASS="gauche" | [Amibe géante](./Amibe géante.md)
+| CLASS="gauche" | [[Amibe géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Amoeba Swarm
-| CLASS="gauche" | Nuée,[d'amibes](./Nuée damibes.md)
+| CLASS="gauche" | Nuée,[[Nuée damibes|d'amibes]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Amphisbaena
-| CLASS="gauche" | [Amphisbène](./Amphisbène.md)
+| CLASS="gauche" | [[Amphisbène]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Angazhani (high girallon)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Heart of the Jungle
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Angel, Astral Deva
-| CLASS="gauche" | [Ange](./Ange.md), [Déva astral](./Déva astral.md)
+| CLASS="gauche" | [[Ange]], [[Déva astral]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Angel, Cassisian
-| CLASS="gauche" | [Ange](./Ange.md), [Cassisien](./Cassisien.md)
+| CLASS="gauche" | [[Ange]], [[Cassisien]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Angel, Monadic Deva
-| CLASS="gauche" | [Ange](./Ange.md), [Déva monadique](./Déva monadique.md)
+| CLASS="gauche" | [[Ange]], [[Déva monadique]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Angel, Movanic Deva
-| CLASS="gauche" | [Ange](./Ange.md), [Déva movanique](./Déva movanique.md)
+| CLASS="gauche" | [[Ange]], [[Déva movanique]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Angel, Planetar
-| CLASS="gauche" | [Ange](./Ange.md), [Planétar](./Planétar.md)
+| CLASS="gauche" | [[Ange]], [[Planétar]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Angel, Solar
-| CLASS="gauche" | [Ange](./Ange.md), [Solar](./Solar.md)
+| CLASS="gauche" | [[Ange]], [[Solar]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 23
 |-
 | CLASS="gauche" | Animal lord, Cat lord
-| CLASS="gauche" | [Seigneur animal](./Seigneur-animal.md), Exemple [Seigneur félin](./Seigneur félin.md)
+| CLASS="gauche" | [[Seigneur animal]], Exemple [[Seigneur félin]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Animate Dream
-| CLASS="gauche" | [Rêve animé](./Rêve animé.md)
+| CLASS="gauche" | [[Rêve animé]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Animated Object
-| CLASS="gauche" | [Objet animé](./Objet animé.md)
+| CLASS="gauche" | [[Objet animé]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Ankheg
-| CLASS="gauche" | [Ankheg](./Ankheg.md)
+| CLASS="gauche" | [[Ankheg]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Ankou
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4 / PF #36
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Annis Hag
-| CLASS="gauche" | Guenaude, [Guenaude annis](./Guenaude annis.md)
+| CLASS="gauche" | Guenaude, [[Guenaude annis]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Bestiary Supplement
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Ant, Giant
-| CLASS="gauche" | Fourmi, [Fourmi géante](./Fourmi géante.md)
+| CLASS="gauche" | Fourmi, [[Fourmi géante]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Ant Lion, Giant
-| CLASS="gauche" | [Fourmilion géant](./Fourmilion géant.md)
+| CLASS="gauche" | [[Fourmilion géant]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Bestiary Supplement
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Ant Lion, Giant Adult
-| CLASS="gauche" | [Fourmilion géant](./Fourmilion géant.md), [Fourmilion adulte géant](./Fourmilion adulte géant.md)
+| CLASS="gauche" | [[Fourmilion géant]], [[Fourmilion adulte géant]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Aoandon
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Ape, Gorilla
-| CLASS="gauche" | [Gorille](./Gorille.md)
+| CLASS="gauche" | [[Gorille]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Ape, Dire
-| CLASS="gauche" | [Gorille](./Gorille.md), [Gorille sanguinaire](./Gorille sanguinaire.md) (ou Gigantopithèque)
+| CLASS="gauche" | [[Gorille]], [[Gorille sanguinaire]] (ou Gigantopithèque)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Apocalypse Locust
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6 (MR 3)
 |-
 | CLASS="gauche" | Aranea
-| CLASS="gauche" | [Aranéa](./Aranéa.md)
+| CLASS="gauche" | [[Aranéa]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Arcanaton
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | J3 Crucible of Chaos
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Arcanotheign
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #41
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Archon, Harbinger
-| CLASS="gauche" | [Archon](./Archon.md) (ou Archange), [Archon annonciateur](./Archon annonciateur.md)
+| CLASS="gauche" | [[Archon]] (ou Archange), [[Archon annonciateur]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Archon, Hound
-| CLASS="gauche" | [Archon](./Archon.md) (ou Archange), [Archon canin](./Archon canin.md)
+| CLASS="gauche" | [[Archon]] (ou Archange), [[Archon canin]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Archon, Lantern
-| CLASS="gauche" | [Archon](./Archon.md) (ou Archange), [Archon lumineux](./Archon lumineux.md)
+| CLASS="gauche" | [[Archon]] (ou Archange), [[Archon lumineux]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Archon, Legion
-| CLASS="gauche" | [Archon](./Archon.md) (ou Archange), [Archon légionnaire](./Archon légionnaire.md)
+| CLASS="gauche" | [[Archon]] (ou Archange), [[Archon légionnaire]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Archon, Shield
-| CLASS="gauche" | [Archon](./Archon.md) (ou Archange), [Archon bouclier](./Archon bouclier.md)
+| CLASS="gauche" | [[Archon]] (ou Archange), [[Archon bouclier]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Archon, Star
-| CLASS="gauche" | [Archon](./Archon.md) (ou Archange), [Archon étoile](./Archon étoile.md)
+| CLASS="gauche" | [[Archon]] (ou Archange), [[Archon étoile]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 19
 |-
 | CLASS="gauche" | Archon, Trumpet
-| CLASS="gauche" | [Archon](./Archon.md) (ou Archange), [Archon messager](./Archon messager.md)
+| CLASS="gauche" | [[Archon]] (ou Archange), [[Archon messager]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 14
@@ -393,157 +393,157 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Argus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 13 (MR 6)
 |-
 | CLASS="gauche" | Army Ant Swarm
-| CLASS="gauche" | Nuée, [de fourmis soldats](./Nuée de fourmis soldats.md)
+| CLASS="gauche" | Nuée, [[Nuée de fourmis soldats|de fourmis soldats]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Ascomoid
-| CLASS="gauche" | [Ascomoïde](./Ascomoïde.md)
+| CLASS="gauche" | [[Ascomoïde]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Bestiary Supplement
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Aspidochelone
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#27
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Assassin Vine
-| CLASS="gauche" | [Liane meurtrière](./Liane meurtrière.md)
+| CLASS="gauche" | [[Liane meurtrière]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Astral Leviathan
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Asura, Adhukait
-| CLASS="gauche" | [Asura](./Asura.md), [Adhukaït](./Adhukaït.md)
+| CLASS="gauche" | [[Asura]], [[Adhukaït]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF#28
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Asura, Aghasura
-| CLASS="gauche" | [Asura](./Asura.md), [Aghasura](./Aghasura.md)
+| CLASS="gauche" | [[Asura]], [[Aghasura]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Asura, Asurendra
-| CLASS="gauche" | [Asura](./Asura.md), [Asurendra](./Asurendra.md)
+| CLASS="gauche" | [[Asura]], [[Asurendra]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Asura, Tripurasura
-| CLASS="gauche" | [Asura](./Asura.md), [Tripurasura](./Tripurasura.md)
+| CLASS="gauche" | [[Asura]], [[Tripurasura]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Asura, Upasunda
-| CLASS="gauche" | [Asura](./Asura.md), [Upasunda](./Upasunda.md)
+| CLASS="gauche" | [[Asura]], [[Upasunda]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Athach
-| CLASS="gauche" | [Athach](./Athach.md)
+| CLASS="gauche" | [[Athach]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Atomie
-| CLASS="gauche" | [Atomie](./Atomie.md)
+| CLASS="gauche" | [[Atomie]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Attic Whisperer
-| CLASS="gauche" | [Chuchoteur du Grenier](./Chuchoteur du grenier.md)
+| CLASS="gauche" | [[Chuchoteur du Grenier]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #01 (3E)
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Aurumvorax
-| CLASS="gauche" | [Aurumvorax](./Aurumvorax.md)
+| CLASS="gauche" | [[Aurumvorax]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Axe Beak
-| CLASS="gauche" | [Fer de hache](./Fer de hache.md) (ou [Andalgalornis](./Bec-de-hache.md))
+| CLASS="gauche" | [[Fer de hache]] (ou [[Bec-de-hache|Andalgalornis]])
 | Path
 | CLASS="gauche" | Bestiary 3 / Bestiary Supplement
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Axiomite
-| CLASS="gauche" | [Axiomite](./Axiomite.md)
+| CLASS="gauche" | [[Axiomite]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / The Great Beyond (3E)
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Azata, Bralani
-| CLASS="gauche" | [Azata](./Azata.md) (ou Éladrin), [Bralani](./Bralani.md)
+| CLASS="gauche" | [[Azata]] (ou Éladrin), [[Bralani]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Azata, Brijidine
-| CLASS="gauche" | [Azata](./Azata.md) (ou Éladrin), [Brijidine](./Brijidine.md)
+| CLASS="gauche" | [[Azata]] (ou Éladrin), [[Brijidine]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Azata, Ghaele
-| CLASS="gauche" | [Azata](./Azata.md) (ou Éladrin), [Ghaéle](./Ghaéle.md)
+| CLASS="gauche" | [[Azata]] (ou Éladrin), [[Ghaéle]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Azata, Lillend
-| CLASS="gauche" | [Azata](./Azata.md) (ou Éladrin), [Lillende](./Lillende.md)
+| CLASS="gauche" | [[Azata]] (ou Éladrin), [[Lillende]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Azata, Lyrakien
-| CLASS="gauche" | [Azata](./Azata.md) (ou Éladrin), [Lyrakien](./Lyrakien.md)
+| CLASS="gauche" | [[Azata]] (ou Éladrin), [[Lyrakien]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Azer
-| CLASS="gauche" | [Azer](./Azer.md)
+| CLASS="gauche" | [[Azer]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Azi, Gandareva
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #24
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Azi, Sruvara
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #24
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Azi, Zahhak
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #24
 | CLASS="gauche" | 19
@@ -555,127 +555,127 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Azruverda
-| CLASS="gauche" | [Azruverda](./Azruverda.md)
+| CLASS="gauche" | [[Azruverda]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Badger
-| CLASS="gauche" | [Blaireau](./Blaireau.md)
+| CLASS="gauche" | [[Blaireau]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Badger, Dire
-| CLASS="gauche" | [Blaireau sanguinaire](./Blaireau sanguinaire.md)
+| CLASS="gauche" | [[Blaireau sanguinaire]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Bakekujira
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Baku
-| CLASS="gauche" | [Baku](./Baku.md)
+| CLASS="gauche" | [[Baku]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Bandersnatch
-| CLASS="gauche" | [Bandersnatch](./Bandersnatch.md)
+| CLASS="gauche" | [[Bandersnatch]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Banshee
-| CLASS="gauche" | [Banshie](./Banshie.md)
+| CLASS="gauche" | [[Banshie]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #17 (3E)
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Baobhan sith
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #32
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Baregara
-| CLASS="gauche" | [Barégare](./Barégare.md)
+| CLASS="gauche" | [[Barégare]]
 | Path
 | CLASS="gauche" | Bestiary 3 / PF #42
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Barghest
-| CLASS="gauche" | [Barghest](./Barghest.md)
+| CLASS="gauche" | [[Barghest]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Barghest, Greater
-| CLASS="gauche" | [Barghest noble](./Barghest noble.md)
+| CLASS="gauche" | [[Barghest noble]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Barometz
-| CLASS="gauche" | [Barometz](./Barometz.md)
+| CLASS="gauche" | [[Barometz]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Basidirond
-| CLASS="gauche" | [Basidirond](./Basidirond.md)
+| CLASS="gauche" | [[Basidirond]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Basileus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#29
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Basilisk
-| CLASS="gauche" | [Basilic](./Basilic.md)
+| CLASS="gauche" | [[Basilic]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Bat, Dire
-| CLASS="gauche" | Chauve-souris, [Chauve-souris sanguinaire](./Chauve-souris sanguinaire.md)
+| CLASS="gauche" | Chauve-souris, [[Chauve-souris sanguinaire]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Bat, Mobat
-| CLASS="gauche" | Chauve-souris, [Mobat](./Mobat.md)
+| CLASS="gauche" | Chauve-souris, [[Mobat]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Bat, Skaveling
-| CLASS="gauche" | Chauve-souris, [Skaveling](./Skaveling.md)
+| CLASS="gauche" | Chauve-souris, [[Skaveling]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Baykok
-| CLASS="gauche" | [Baykok](./Baykok.md)
+| CLASS="gauche" | [[Baykok]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Bear, Dire
-| CLASS="gauche" | Ours, [Ours sanguinaire](./Ours sanguinaire.md) (ou Arctodus)
+| CLASS="gauche" | Ours, [[Ours sanguinaire]] (ou Arctodus)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Bear, Grizzly
-| CLASS="gauche" | Ours, [Grizzly](./Grizzly.md)
+| CLASS="gauche" | Ours, [[Grizzly]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
@@ -687,127 +687,127 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Bebilith
-| CLASS="gauche" | [Bébilith](./Bébilith.md)
+| CLASS="gauche" | [[Bébilith]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Bee, Giant
-| CLASS="gauche" | [Abeille géante](./Abeille géante.md)
+| CLASS="gauche" | [[Abeille géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Bee, Giant Queen
-| CLASS="gauche" | [Abeille reine géante](./Abeille reine géante.md)
+| CLASS="gauche" | [[Abeille reine géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Beetle, Fire
-| CLASS="gauche" | Coléoptère, [Punaise de feu](./Punaise de feu.md)
+| CLASS="gauche" | Coléoptère, [[Punaise de feu]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Beetle, Giant Stag
-| CLASS="gauche" | Coléoptère, [Charançon géant](./Charançon géant.md)
+| CLASS="gauche" | Coléoptère, [[Charançon géant]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Beetle, Goliath Stag
-| CLASS="gauche" | Coléoptère, [Coléoptère goliath](./Coléoptère goliath.md)
+| CLASS="gauche" | Coléoptère, [[Coléoptère goliath]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Beetle, Slicer
-| CLASS="gauche" | Coléoptère, [Coléoptère tranchoir](./Coléoptère tranchoir.md)
+| CLASS="gauche" | Coléoptère, [[Coléoptère tranchoir]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Beheaded
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Behemoth, Ravener
-| CLASS="gauche" | [Béhémoth](./Béhémoth.md)
+| CLASS="gauche" | [[Béhémoth]]
 | Path
 | CLASS="gauche" | PF#30
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Behemoth, Tempest
-| CLASS="gauche" | [Béhémoth](./Béhémoth.md), [Béhémoth des tempêtes](./Béhémoth des tempêtes.md)
+| CLASS="gauche" | [[Béhémoth]], [[Béhémoth des tempêtes]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 22
 |-
 | CLASS="gauche" | Behemoth, Thalassic
-| CLASS="gauche" | [Béhémoth](./Béhémoth.md), [Béhémoth thalassique](./Béhémoth thalassique.md)
+| CLASS="gauche" | [[Béhémoth]], [[Béhémoth thalassique]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Behemoth, Thunder
-| CLASS="gauche" | [Béhémoth](./Béhémoth.md), [Béhémoth du tonnerre](./Béhémoth du tonnerre.md)
+| CLASS="gauche" | [[Béhémoth]], [[Béhémoth du tonnerre]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Behir
-| CLASS="gauche" | [Béhir](./Béhir.md)
+| CLASS="gauche" | [[Béhir]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Belker
-| CLASS="gauche" | [Fumigon](./Fumigon.md)
+| CLASS="gauche" | [[Fumigon]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Berbalang
-| CLASS="gauche" | [Berbalang](./Berbalang.md)
+| CLASS="gauche" | [[Berbalang]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Bhole
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Bhuta
-| CLASS="gauche" | [Bhuta](./Bhuta.md)
+| CLASS="gauche" | [[Bhuta]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Biloko
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #38
 | CLASS="gauche" | 0.5
 |-
 | CLASS="gauche" | Black Jinni
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #23
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Black Pudding
-| CLASS="gauche" | [Pouding noir](./Pouding noir.md)
+| CLASS="gauche" | [[Pouding noir]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Black-Blooded
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #18
 | CLASS="gauche" | T+1
@@ -819,91 +819,91 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Blindheim
-| CLASS="gauche" | [Aveugleur](./Aveugleur.md)
+| CLASS="gauche" | [[Aveugleur]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Blink Dog
-| CLASS="gauche" | [Chien esquiveur](./Chien esquiveur.md)
+| CLASS="gauche" | [[Chien esquiveur]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Blodeuwedd
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #33
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Blood Hag
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Bloodhaze Mosquito Swarm
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #38
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Bloodless Vessel
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | E2 Blood of Dragonscar
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Boar
-| CLASS="gauche" | [Sanglier](./Sanglier.md)
+| CLASS="gauche" | [[Sanglier]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Boar, Dire
-| CLASS="gauche" | [Sanglier sanguinaire](./Sanglier sanguinaire.md) (ou Daeodon)
+| CLASS="gauche" | [[Sanglier sanguinaire]] (ou Daeodon)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Bodak
-| CLASS="gauche" | [Bodak](./Bodak.md)
+| CLASS="gauche" | [[Bodak]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Bodythief
-| CLASS="gauche" | [Voleur de corps](./Voleur de corps.md)
+| CLASS="gauche" | [[Voleur de corps]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Bodythief, Pod-Spawned Creature
-| CLASS="gauche" | [Créature de la cosse](./Voleur de corps.md)
+| CLASS="gauche" | [[Voleur de corps|Créature de la cosse]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | T (0 to -2)
 |-
 | CLASS="gauche" | Bog strider
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #34
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Bogeyman
-| CLASS="gauche" | [Croquemitaine](./Croquemitaine.md)
+| CLASS="gauche" | [[Croquemitaine]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Boggard
-| CLASS="gauche" | [Bourbiérin](./Bourbiérin.md)
+| CLASS="gauche" | [[Bourbiérin]]
 | Path
 | CLASS="gauche" | Bestiaire 1 / PF #02 (3E)
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Boilborn
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
@@ -915,37 +915,37 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Botfly swarm
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Heart of the Jungle
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Brain Ooze
-| CLASS="gauche" | Vase, [Vase cérébrale](./Vase cérébrale.md)
+| CLASS="gauche" | Vase, [[Vase cérébrale]]
 | Path
 | CLASS="gauche" | Bestiaire 3 3
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Brethedan
-| CLASS="gauche" | [Bréthédien](./Bréthédien.md)
+| CLASS="gauche" | [[Bréthédien]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Broken Soul
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | T+2
 |-
 | CLASS="gauche" | Broken Soul, Lillend
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Brownie
-| CLASS="gauche" | [Lutin](./Lutin.md)
+| CLASS="gauche" | [[Lutin]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
@@ -957,49 +957,49 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Bugbear
-| CLASS="gauche" | [Gobelours](./Gobelours.md)
+| CLASS="gauche" | [[Gobelours]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Buggane
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Bulette
-| CLASS="gauche" | [Bulette](./Bulette.md)
+| CLASS="gauche" | [[Bulette]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Bunyip
-| CLASS="gauche" | [Bunyip](./Bunyip.md)
+| CLASS="gauche" | [[Bunyip]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Buraq
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #20
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Calathgar
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #34
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Calikang
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#29
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Camulatz
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #39
 | CLASS="gauche" | 9
@@ -1011,13 +1011,13 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Carnivorous Blob
-| CLASS="gauche" | Vase, [Vase carnivore](./Vase carnivore.md)
+| CLASS="gauche" | Vase, [[Vase carnivore]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Carnivorous Crystal
-| CLASS="gauche" | [Cristal carnivore](./Cristal carnivore.md)
+| CLASS="gauche" | [[Cristal carnivore]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 11
@@ -1029,43 +1029,43 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Caryatid Column
-| CLASS="gauche" | [Caryatide](./Caryatide.md)
+| CLASS="gauche" | [[Caryatide]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Bestiary Supplement
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Cat, Cheetah
-| CLASS="gauche" | Félin, [Guépard](./Guépard.md)
+| CLASS="gauche" | Félin, [[Guépard]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Cat, Leopard
-| CLASS="gauche" | Félin, [Léopard](./Léopard.md)
+| CLASS="gauche" | Félin, [[Léopard]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Catfolk
-| CLASS="gauche" | [Homme-félin](./Homme-félin.md) (ou Huline)
+| CLASS="gauche" | [[Homme-félin]] (ou Huline)
 | Path
 | CLASS="gauche" | Bestiaire 3 / Inner Sea Bestiary 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Catoplebas
-| CLASS="gauche" | [Catoblépas](./Catoblépas.md)
+| CLASS="gauche" | [[Catoblépas]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Caulborn
-| CLASS="gauche" | [Caulborne](./Caulborne.md)
+| CLASS="gauche" | [[Caulborne]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / City of Strangers
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Cave Fisher
-| CLASS="gauche" | [Pêcheur des grottes](./Pêcheur des grottes.md)
+| CLASS="gauche" | [[Pêcheur des grottes]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
@@ -1083,67 +1083,67 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Cecaelia
-| CLASS="gauche" | [Cécaëlia](./Cécaëlia.md)
+| CLASS="gauche" | [[Cécaëlia]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Centaur
-| CLASS="gauche" | [Centaure](./Centaure.md)
+| CLASS="gauche" | [[Centaure]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Centipede, Giant
-| CLASS="gauche" | Mille-pattes, [Mille-pattes géant](./Mille-pattes géant.md)
+| CLASS="gauche" | Mille-pattes, [[Mille-pattes géant]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Centipede, Giant Whiptail
-| CLASS="gauche" | Mille-pattes, [Mille-pattes à queue fouettante](./Mille-pattes à queue fouettante.md)
+| CLASS="gauche" | Mille-pattes, [[Mille-pattes à queue fouettante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Centipede, Swarm
-| CLASS="gauche" | Nuée, [de mille-pattes](./Nuée de mille-pattes.md)
+| CLASS="gauche" | Nuée, [[Nuée de mille-pattes|de mille-pattes]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Centipede, Titan
-| CLASS="gauche" | Mille-pattes, [Mille-pattes titanesque](./Mille-pattes titanesque.md)
+| CLASS="gauche" | Mille-pattes, [[Mille-pattes titanesque]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Cephalophore
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Ceratioidi
-| CLASS="gauche" | [Cératioïde](./Cératioïde.md)
+| CLASS="gauche" | [[Cératioïde]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF#32
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Cerberi
-| CLASS="gauche" | [Cerbère](./Cerbère.md)
+| CLASS="gauche" | [[Cerbère]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF#28
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Cerberi, Malbogian
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #28
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Cerebric Fungus
-| CLASS="gauche" | [Champignon cérébré](./Champignon cérébré.md)
+| CLASS="gauche" | [[Champignon cérébré]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
@@ -1155,67 +1155,67 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Chaneque
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1 / MR 1
 |-
 | CLASS="gauche" | Changeling
-| CLASS="gauche" | [Changelin](./Changelin.md)
+| CLASS="gauche" | [[Changelin]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Chaos Beast
-| CLASS="gauche" | [Bête du Chaos](./Bête du Chaos.md)
+| CLASS="gauche" | [[Bête du Chaos]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Charda
-| CLASS="gauche" | [Charda](./Charda.md)
+| CLASS="gauche" | [[Charda]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #18 (3E)
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Charybdis
-| CLASS="gauche" | [Charybde](./Charybde.md)
+| CLASS="gauche" | [[Charybde]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Chatterer Swarm
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | D3 The Demon Within
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Chemosit
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #38
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Chimera
-| CLASS="gauche" | [Chimère](./Chimère.md)
+| CLASS="gauche" | [[Chimère]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Choker
-| CLASS="gauche" | [Étrangleur](./Étrangleur.md)
+| CLASS="gauche" | [[Étrangleur]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Chupacabra
-| CLASS="gauche" | [Chupacabra](./Chupacabra.md)
+| CLASS="gauche" | [[Chupacabra]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #19 (3E)
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Chuul
-| CLASS="gauche" | [Chuul](./Chuul.md)
+| CLASS="gauche" | [[Chuul]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
@@ -1227,73 +1227,73 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Clawbat
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #33
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Cloaker
-| CLASS="gauche" | [Manteleur](./Manteleur.md)
+| CLASS="gauche" | [[Manteleur]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Clockwork
-| CLASS="gauche" | [Créatures mécaniques](./Créatures mécaniques.md)
+| CLASS="gauche" | [[Créatures mécaniques]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Clockwork, Dragon
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Clockwork, Goliath
-| CLASS="gauche" | [Créatures mécaniques](./Créatures mécaniques.md), [Goliath mécanique](./Créatures-mécaniques-Goliath.md)
+| CLASS="gauche" | [[Créatures mécaniques]], [[Créatures mécaniques Goliath|Goliath mécanique]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 19
 |-
 | CLASS="gauche" | Clockwork, Leviathan
-| CLASS="gauche" | [Créatures mécaniques](./Créatures mécaniques.md), [Léviathan mécanique](./Créatures mécaniques Léviathan.md)
+| CLASS="gauche" | [[Créatures mécaniques]], [[Créatures mécaniques Léviathan|Léviathan mécanique]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Clockwork, Mage
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Clockwork, Servant
-| CLASS="gauche" | [Créatures mécaniques](./Créatures mécaniques.md), [Serviteur mécanique](./Créatures mécaniques Serviteur.md)
+| CLASS="gauche" | [[Créatures mécaniques]], [[Créatures mécaniques Serviteur|Serviteur mécanique]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Clockwork, Soldier
-| CLASS="gauche" | [Créatures mécaniques](./Créatures mécaniques.md), [Soldat mécanique](./Créatures mécaniques Soldat.md)
+| CLASS="gauche" | [[Créatures mécaniques]], [[Créatures mécaniques Soldat|Soldat mécanique]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Clockwork, Spy
-| CLASS="gauche" | [Créatures mécaniques](./Créatures mécaniques.md), [Espion mécanique](./Créatures-mécaniques-Espion.md)
+| CLASS="gauche" | [[Créatures mécaniques]], [[Créatures mécaniques Espion|Espion mécanique]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Clockwork, Steed
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Cockatrice
-| CLASS="gauche" | [Cockatrice](./Cockatrice.md)
+| CLASS="gauche" | [[Cockatrice]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
@@ -1305,7 +1305,7 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Cockroach, Giant
-| CLASS="gauche" | [Cafard géant](./Cafard géant.md)
+| CLASS="gauche" | [[Cafard géant]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
@@ -1317,91 +1317,91 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Cockroach, Swarm
-| CLASS="gauche" | Nuée, [de cafards](./Nuée de cafards.md)
+| CLASS="gauche" | Nuée, [[Nuée de cafards|de cafards]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Coeurl
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #22
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Cold Rider
-| CLASS="gauche" | [Cavalier glacé](./Cavalier glacé.md)
+| CLASS="gauche" | [[Cavalier glacé]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / E1 Carnival of Tears(3E)
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Colossus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Colossus, Flesh
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 16 / MR 6
 |-
 | CLASS="gauche" | Colossus, Iron
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 21 / MR 8
 |-
 | CLASS="gauche" | Colossus, Stone
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 19 / MR 7
 |-
 | CLASS="gauche" | Color out of Space
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Comozant Wyrd
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Contemplative
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Couatl
-| CLASS="gauche" | [Couatl](./Couatl.md)
+| CLASS="gauche" | [[Couatl]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Crab, Giant
-| CLASS="gauche" | Crabe, [Crabe géant](./Crabe géant.md) (ou Crabe Royal)
+| CLASS="gauche" | Crabe, [[Crabe géant]] (ou Crabe Royal)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Crab, Crab Swarm
-| CLASS="gauche" | Crabe, Nuée [de crabes](./Nuée de crabes.md)
+| CLASS="gauche" | Crabe, Nuée [[Nuée de crabes|de crabes]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Crab, Sharp-eatubg
-| CLASS="gauche" | Crabe, [Crabe mangeur de requins](./Crabe mangeur de requins.md) (ou Cancer)
+| CLASS="gauche" | Crabe, [[Crabe mangeur de requins]] (ou Cancer)
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Crab, Shipwrecker
-| CLASS="gauche" | Crabe, [Crabe naufrageur](./Crabe naufrageur.md)
+| CLASS="gauche" | Crabe, [[Crabe naufrageur]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 7
@@ -1413,55 +1413,55 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Crawling Hand
-| CLASS="gauche" | [Main rampante](./Main rampante.md)
+| CLASS="gauche" | [[Main rampante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Crawling Hand, Giant
-| CLASS="gauche" | [Main rampante](./Main rampante.md), [Main rampante géante](./Main rampante géante.md)
+| CLASS="gauche" | [[Main rampante]], [[Main rampante géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Crepitus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | LB1 Tower of the Last Baron
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Croaker
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | U2 Hangman's Noose
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Crocodile
-| CLASS="gauche" | [Crocodile](./Crocodile.md)
+| CLASS="gauche" | [[Crocodile]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Crocodile, Dire
-| CLASS="gauche" | [Crocodile](./Crocodile.md), [Crocodile sanguinaire](./Crocodile sanguinaire.md) (ou Sarcosuchus)
+| CLASS="gauche" | [[Crocodile]], [[Crocodile sanguinaire]] (ou Sarcosuchus)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Crypt Thing
-| CLASS="gauche" | [Créature des cryptes](./Créature des cryptes.md)
+| CLASS="gauche" | [[Créature des cryptes]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Crysmal
-| CLASS="gauche" | [Crysmal](./Crysmal.md)
+| CLASS="gauche" | [[Crysmal]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Crystal Creature
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Lost Cities of Golarion
 | CLASS="gauche" | T +1
@@ -1473,91 +1473,91 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Cyclops
-| CLASS="gauche" | [Cyclope](./Cyclope.md)
+| CLASS="gauche" | [[Cyclope]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Cyclops, Great
-| CLASS="gauche" | [Cyclope](./Cyclope.md), [Grand cyclope](./Grand cyclope.md)
+| CLASS="gauche" | [[Cyclope]], [[Grand cyclope]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #33
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Daemon, Astradaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Astradaémon](./Astradaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Astradaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / The Great Beyond (3E)
 | CLASS="gauche" | 16 (13 en 3E)
 |-
 | CLASS="gauche" | Daemon, Cacodaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Cacodaémon](./Cacodaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Cacodaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Daemon, Ceustodaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Ceustodaémon](./Ceustodaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Ceustodaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Daemon, Crucidaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Crucidaémon](./Crucidaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Crucidaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Daemon, Derghodaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Derghodaémon](./Derghodaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Derghodaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Daemon, Hydrodaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Hydrodaémon](./Hydrodaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Hydrodaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Daemon, Leukodaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Leukodaémon](./Leukodaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Leukodaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #08 (3E)
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Daemon, Meladaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Méladaémon](./Méladaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Méladaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / J5 Beyond the Vault of Souls (3E)
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Daemon, Olethrodaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Oléthrodaémon](./Oléthrodaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Oléthrodaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Daemon, Piscodaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Piscodaémon](./Piscodaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Piscodaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #33
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Daemon, Purrodaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Purrodaémon](./Purrodaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Purrodaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Daemon, Thanadaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Thanadaémon](./Thanadaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Thanadaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Daemon, Vulnudaemon
-| CLASS="gauche" | [Daémon](./Daémon.md), [Vulnudaémon](./Vulnudaémon.md)
+| CLASS="gauche" | [[Daémon]], [[Vulnudaémon]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
@@ -1569,37 +1569,37 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Dark Caller
-| CLASS="gauche" | [Suppliant obscur](./Suppliant obscur.md)
+| CLASS="gauche" | [[Suppliant obscur]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Dark Creeper
-| CLASS="gauche" | [Fureteur obscur](./Fureteur obscur.md)
+| CLASS="gauche" | [[Fureteur obscur]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Dark Dancer
-| CLASS="gauche" | [Danseur obscur](./Danseur obscur.md)
+| CLASS="gauche" | [[Danseur obscur]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Dark Slayer
-| CLASS="gauche" | [Tueur obscur](./Tueur obscur.md)
+| CLASS="gauche" | [[Tueur obscur]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Dark Stalker
-| CLASS="gauche" | [Traqueur obscur](./Traqueur obscur.md)
+| CLASS="gauche" | [[Traqueur obscur]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Darkmantle
-| CLASS="gauche" | [Mante obscure](./Mante obscure.md)
+| CLASS="gauche" | [[Mante obscure]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
@@ -1611,31 +1611,31 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Death Dog
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Death Worm
-| CLASS="gauche" | [Ver mortel](./Ver mortel.md)
+| CLASS="gauche" | [[Ver mortel]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Deathtrap Ooze
-| CLASS="gauche" | Vase, [Vase coupe-gorge](./Vase coupe-gorge.md)
+| CLASS="gauche" | Vase, [[Vase coupe-gorge]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Deathweb
-| CLASS="gauche" | [Toile mortelle](./../Aventures/Toile Mortelle.md)
+| CLASS="gauche" | [[Toile mortelle]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #04 (3E)
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Decapus
-| CLASS="gauche" | [Décapus](./Décapus.md)
+| CLASS="gauche" | [[Décapus]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
@@ -1647,619 +1647,619 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Delver
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Misfit Monsters Redeemed
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Demilich
-| CLASS="gauche" | [Demi-liche](./Demi-liche.md)
+| CLASS="gauche" | [[Demi-liche]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Demodand, Shaggy
-| CLASS="gauche" | [Démodande](./Démodande.md), [Démodande hirsute](./Démodande hirsute.md)
+| CLASS="gauche" | [[Démodande]], [[Démodande hirsute]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Demodand, Slimy
-| CLASS="gauche" | [Démodande](./Démodande.md), [Démodande visqueux](./Démodande visqueux.md)
+| CLASS="gauche" | [[Démodande]], [[Démodande visqueux]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Demodand, Tarry
-| CLASS="gauche" | [Démodande](./Démodande.md), [Démodande goudronneux](./Démodande goudronneux.md)
+| CLASS="gauche" | [[Démodande]], [[Démodande goudronneux]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Demon
-| CLASS="gauche" | [Démon](./Démon.md)
+| CLASS="gauche" | [[Démon]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Demon, Babau
-| CLASS="gauche" | [Démon](./Démon.md), [Babau](./Babau.md)
+| CLASS="gauche" | [[Démon]], [[Babau]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Demon, Balor
-| CLASS="gauche" | [Démon](./Démon.md), [Balor](./Balor.md)
+| CLASS="gauche" | [[Démon]], [[Balor]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Demon, Brimorak
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Lords of Chaos
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Demon, Coloxus
-| CLASS="gauche" | [Démon](./Démon.md), [Coloxe](./Coloxe.md)
+| CLASS="gauche" | [[Démon]], [[Coloxe]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Demon, Dretch
-| CLASS="gauche" | [Démon](./Démon.md), [Dretch](./Dretch.md)
+| CLASS="gauche" | [[Démon]], [[Dretch]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Demon, Glabrezu
-| CLASS="gauche" | [Démon](./Démon.md), [Glabrezu](./Glabrezu.md)
+| CLASS="gauche" | [[Démon]], [[Glabrezu]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Demon, Hezrou
-| CLASS="gauche" | [Démon](./Démon.md), [Hezrou](./Hezrou.md)
+| CLASS="gauche" | [[Démon]], [[Hezrou]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Demon, Incubus
-| CLASS="gauche" | [Démon](./Démon.md), [Incube](./Incube.md)
+| CLASS="gauche" | [[Démon]], [[Incube]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Demon, Kalavakus
-| CLASS="gauche" | [Démon](./Démon.md), [Kalavakus](./Kalavakus.md)
+| CLASS="gauche" | [[Démon]], [[Kalavakus]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Demon, Marilith
-| CLASS="gauche" | [Démon](./Démon.md), [Marilith](./Marilith.md)
+| CLASS="gauche" | [[Démon]], [[Marilith]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Demon, Nabasu
-| CLASS="gauche" | [Démon](./Démon.md), [Nabasu](./Nabasu.md)
+| CLASS="gauche" | [[Démon]], [[Nabasu]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Demon, Nalfeshnee
-| CLASS="gauche" | [Démon](./Démon.md), [Nalfeshnie](./Nalfeshnie.md)
+| CLASS="gauche" | [[Démon]], [[Nalfeshnie]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Demon, Omox
-| CLASS="gauche" | [Démon](./Démon.md), [Omox](./Omox.md)
+| CLASS="gauche" | [[Démon]], [[Omox]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #16 (3E)
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Demon, Quasit
-| CLASS="gauche" | [Démon](./Démon.md), [Quasit](./Quasit.md)
+| CLASS="gauche" | [[Démon]], [[Quasit]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Demon, Seraptis
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Lords of Chaos
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Demon, Shemhazian
-| CLASS="gauche" | [Démon](./Démon.md), [Shemhazian](./Shemhazian.md)
+| CLASS="gauche" | [[Démon]], [[Shemhazian]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #05 (3E)
 | CLASS="gauche" | 16 (14 en 3E)
 |-
 | CLASS="gauche" | Demon, Shir
-| CLASS="gauche" | [Démon](./Démon.md), [Ariès](./Ariès.md)
+| CLASS="gauche" | [[Démon]], [[Ariès]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Demon, Succubus
-| CLASS="gauche" | [Démon](./Démon.md), [Succube](./Succube.md)
+| CLASS="gauche" | [[Démon]], [[Succube]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Demon, Vavakia
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Lords of Chaos
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Demon, Vermlek
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Lords of Chaos
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Demon, Vrock
-| CLASS="gauche" | [Démon](./Démon.md), [Vrock](./Vrock.md)
+| CLASS="gauche" | [[Démon]], [[Vrock]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Demon, Vrolikai
-| CLASS="gauche" | [Démon](./Démon.md), [Vrolikai](./Vrolikai.md)
+| CLASS="gauche" | [[Démon]], [[Vrolikai]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 19
 |-
 | CLASS="gauche" | Demon Lord
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Demon Lord, Dagon
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 28
 |-
 | CLASS="gauche" | Demon Lord, Kostchtchie
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 26
 |-
 | CLASS="gauche" | Demon Lord, Pazuzu
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 30
 |-
 | CLASS="gauche" | Denizen of Leng
-| CLASS="gauche" | [Habitant de Leng](./Habitant de Leng.md)
+| CLASS="gauche" | [[Habitant de Leng]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #06 (3E)
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Derhii
-| CLASS="gauche" | [Derhii](./Derhii.md)
+| CLASS="gauche" | [[Derhii]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Lost Cities of Golarion / J3 Crucible of Chaos (3E)
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Derro
-| CLASS="gauche" | [Derro](./Derro.md)
+| CLASS="gauche" | [[Derro]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Destrachan
-| CLASS="gauche" | [Destrachan](./Destrachan.md)
+| CLASS="gauche" | [[Destrachan]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Devil
-| CLASS="gauche" | [Diable](./Diable.md)
+| CLASS="gauche" | [[Diable]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Devil, Accuser (Zebub)
-| CLASS="gauche" | [Diable](./Diable.md), [Diable accusateur](./Diable accusateur.md) (ou Zebub)
+| CLASS="gauche" | [[Diable]], [[Diable accusateur]] (ou Zebub)
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Devil, Advodaza
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#30
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Devil, Apostate (ou Deimavigga)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Princes of Darkness
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Devil, Barbed (Hamatula)
-| CLASS="gauche" | [Diable](./Diable.md), [Diable barbelé](./Diable barbelé.md) (ou Hamatula)
+| CLASS="gauche" | [[Diable]], [[Diable barbelé]] (ou Hamatula)
 | Path
 | CLASS="gauche" | Bestiary
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Devil, Bearded (Barbazu)
-| CLASS="gauche" | [Diable](./Diable.md), [Diable barbu](./Diable barbu.md) (ou Barbazu)
+| CLASS="gauche" | [[Diable]], [[Diable barbu]] (ou Barbazu)
 | Path
 | CLASS="gauche" | Bestiary
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Devil, Belier (Bdellavritra)
-| CLASS="gauche" | [Diable](./Diable.md), [Diable trompeur](./Diable trompeur.md) (ou Bdellavritra
+| CLASS="gauche" | [[Diable]], [[Diable trompeur]] (ou Bdellavritra
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #12 (3E)
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Devil, Bone (Osyluth)
-| CLASS="gauche" | [Diable](./Diable.md), [Diable osseux](./Diable osseux.md) (ou Osyluth)
+| CLASS="gauche" | [[Diable]], [[Diable osseux]] (ou Osyluth)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Devil, Cabal (Uniila)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#28
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Devil, Chortov
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#27
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Devil, Contract (Phistophilus)
-| CLASS="gauche" | [Diable](./Diable.md), [Diable des contrats](./Diable des contrats.md) (ou Phistophilius)
+| CLASS="gauche" | [[Diable]], [[Diable des contrats]] (ou Phistophilius)
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #12 (3E)
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Devil, Drowning (Sarglagon)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Devil, Erinyes
-| CLASS="gauche" | [Diable]], [Érinye](./Érinye.md)
+| CLASS="gauche" | [Diable]], [[Érinye]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Devil, Handmaiden (Gylou)
-| CLASS="gauche" | [Diable](./Diable.md), [Diable vestale](./Diable vestale.md) (ou Gylou)
+| CLASS="gauche" | [[Diable]], [[Diable vestale]] (ou Gylou)
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Devil, Heresy (ou Ayngavhaul)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Princes of Darkness
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Devil, Horned (Cornugon)
-| CLASS="gauche" | [Diable](./Diable.md), [Diable cornu](./Diable cornu.md) (ou Cornugon)
+| CLASS="gauche" | [[Diable]], [[Diable cornu]] (ou Cornugon)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Devil, Host (Magaav)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Devil, Ice (Gelugon)
-| CLASS="gauche" | [Diable](./Diable.md), [Diable des glaces](./Diable des glaces.md) (ou Gelugon)
+| CLASS="gauche" | [[Diable]], [[Diable des glaces]] (ou Gelugon)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Devil, Immolation (Puragaus)
-| CLASS="gauche" | [Diable](./Diable.md), [Diable immolateur](./Diable immolateur.md) (ou Puragaus)
+| CLASS="gauche" | [[Diable]], [[Diable immolateur]] (ou Puragaus)
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 19
 |-
 | CLASS="gauche" | Devil, Imp
-| CLASS="gauche" | [Diable](./Diable.md), [Diablotin](./Diablotin.md)
+| CLASS="gauche" | [[Diable]], [[Diablotin]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Devil, Lemure
-| CLASS="gauche" | [Diable](./Diable.md), [Lémure](./Lémure.md)
+| CLASS="gauche" | [[Diable]], [[Lémure]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Devil, Nemesis (Advodaza)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Devil, Pit Fiend
-| CLASS="gauche" | [Diable](./Diable.md), [Diantrefosse](./Diantrefosse.md)
+| CLASS="gauche" | [[Diable]], [[Diantrefosse]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Devil, Possession (Greater Gidim)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#29
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Devil, Possession (Lesser Gidim)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#29
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Devil, Salikotal
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #26
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Devil, Ukobach
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #25
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Devil, Warmonger (Levaloch)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Princes of Darkness
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Devilbound Creature
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | T +1
 |-
 | CLASS="gauche" | Devilbound Creature, Sorcerer
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Devilfish
-| CLASS="gauche" | [Poisson diable](./Poisson diable.md)
+| CLASS="gauche" | [[Poisson diable]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #07 (3E)
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Devourer
-| CLASS="gauche" | [Dévoreur](./Dévoreur.md)
+| CLASS="gauche" | [[Dévoreur]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Dhabba
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | Guide to Katapesh (Dark Markets)
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Dhampir
-| CLASS="gauche" | [Dhampir](./Dhampir.md)
+| CLASS="gauche" | [[Dhampir]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Dinosaur, Allosaurus
-| CLASS="gauche" | Dinosaure, [Allosaure](./Allosaure.md)
+| CLASS="gauche" | Dinosaure, [[Allosaure]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Dinosaur, Ankylosaurus
-| CLASS="gauche" | Dinosaure, [Ankylosaure](./Ankylosaure.md)
+| CLASS="gauche" | Dinosaure, [[Ankylosaure]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Dinosaur, Brachiosaurus
-| CLASS="gauche" | Dinosaure, [Brachiosaure](./Brachiosaure.md)
+| CLASS="gauche" | Dinosaure, [[Brachiosaure]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Dinosaur, Compsognathus
-| CLASS="gauche" | Dinosaure, [Compsognathus](./Compsognathus.md)
+| CLASS="gauche" | Dinosaure, [[Compsognathus]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Dinosaur, Deinonychus
-| CLASS="gauche" | Dinosaure, [Déinonychus](./Déinonychus.md)
+| CLASS="gauche" | Dinosaure, [[Déinonychus]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Dinosaur, Dimetrodon
-| CLASS="gauche" | Dinosaure, [Dimétrodon](./Dimétrodon.md)
+| CLASS="gauche" | Dinosaure, [[Dimétrodon]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Dinosaur, Dimorphodon
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Dinosaur, Diplodocus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Dinosaur, Elasmosaurus
-| CLASS="gauche" | Dinosaure, [Élasmosaure](./Élasmosaure.md)
+| CLASS="gauche" | Dinosaure, [[Élasmosaure]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Dinosaur, Iguanodon
-| CLASS="gauche" | Dinosaure, [Iguanodon](./Iguanodon.md)
+| CLASS="gauche" | Dinosaure, [[Iguanodon]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Dinosaur, Pachycephalosaurus
-| CLASS="gauche" | Dinosaure, [Pachycéphalosaure](./Pachycéphalosaure.md)
+| CLASS="gauche" | Dinosaure, [[Pachycéphalosaure]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Dinosaur, Parasaurolophus
-| CLASS="gauche" | Dinosaure, [Parasaurolophus](./Parasaurolophus.md)
+| CLASS="gauche" | Dinosaure, [[Parasaurolophus]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Dinosaur, Pteranodon
-| CLASS="gauche" | Dinosaure, [Ptéranodon](./Ptéranodon.md)
+| CLASS="gauche" | Dinosaure, [[Ptéranodon]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Dinosaur, Spinosaurus
-| CLASS="gauche" | Dinosaure, [Spinosaure](./Spinosaure.md)
+| CLASS="gauche" | Dinosaure, [[Spinosaure]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Dinosaur, Stegosaurus
-| CLASS="gauche" | Dinosaure, [Stégosaure](./Stégosaure.md)
+| CLASS="gauche" | Dinosaure, [[Stégosaure]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Dinosaur, Styracosaurus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Dinosaur, Triceratops
-| CLASS="gauche" | Dinosaure, [Tricératops](./Tricératops.md)
+| CLASS="gauche" | Dinosaure, [[Tricératops]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Dinosaur, Tylosaurus
-| CLASS="gauche" | Dinosaure, [Tylosaure](./Tylosaure.md)
+| CLASS="gauche" | Dinosaure, [[Tylosaure]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Dinosaur, Tyrannosaurus
-| CLASS="gauche" | Dinosaure, [Tyrannosaure](./Tyrannosaure.md)
+| CLASS="gauche" | Dinosaure, [[Tyrannosaure]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Dinosaur, Velociraptor
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Dire Corby
-| CLASS="gauche" | [Corbie sanguinaire](./Corbie sanguinaire.md)
+| CLASS="gauche" | [[Corbie sanguinaire]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Misfit Monsters Redeemed
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Disenchanter
-| CLASS="gauche" | [Désenchanteur](./Désenchanteur.md)
+| CLASS="gauche" | [[Désenchanteur]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Misfit Monsters Redeemed
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Div, Aghash
-| CLASS="gauche" | [Div](./Div.md), [Div aghash](./Div aghash.md)
+| CLASS="gauche" | [[Div]], [[Div aghash]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Div, Akvan
-| CLASS="gauche" | [Div](./Div.md), [Div akvan](./Div akvan.md)
+| CLASS="gauche" | [[Div]], [[Div akvan]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Div, Doru
-| CLASS="gauche" | [Div](./Div.md), [Div doru](./Div doru.md)
+| CLASS="gauche" | [[Div]], [[Div doru]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #19 (3E)
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Div, Ghawwas
-| CLASS="gauche" | [Div](./Div.md), [Div ghawwas](./Div ghawwas.md)
+| CLASS="gauche" | [[Div]], [[Div ghawwas]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #22 (3E)
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Div, Pairaka
-| CLASS="gauche" | [Div](./Div.md), [Div païraka](./Div païraka.md)
+| CLASS="gauche" | [[Div]], [[Div païraka]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #20 (3E)
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Div, Sepid
-| CLASS="gauche" | [Div](./Div.md), [Div sépide](./Div sépide.md)
+| CLASS="gauche" | [[Div]], [[Div sépide]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #23 (3E)
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Div, Shira
-| CLASS="gauche" | [Div](./Div.md), [Div shira](./Div shira.md)
+| CLASS="gauche" | [[Div]], [[Div shira]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #21 (3E sous le nom de Shir)
 | CLASS="gauche" | 12 (10 en 3E)
 |-
 | CLASS="gauche" | Divine Guardian
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | T +1
 |-
 | CLASS="gauche" | Divine Guardian, Hydra
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Dog
-| CLASS="gauche" | [Chien](./Chien.md)
+| CLASS="gauche" | [[Chien]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Dog, Riding
-| CLASS="gauche" | [Chien](./Chien.md), [Chien de selle](./Chien de selle.md)
+| CLASS="gauche" | [[Chien]], [[Chien de selle]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
@@ -2271,301 +2271,301 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Dolphin
-| CLASS="gauche" | [Dauphin](./Dauphin.md)
+| CLASS="gauche" | [[Dauphin]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Dolphin, Orca
-| CLASS="gauche" | [Dauphin](./Dauphin.md), [Orque épaulard](./Orque épaulard.md)
+| CLASS="gauche" | [[Dauphin]], [[Orque épaulard]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Doppelganger
-| CLASS="gauche" | [Doppleganger](./Doppleganger.md)
+| CLASS="gauche" | [[Doppleganger]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Dorvae
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Dossenus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Dragon, Chromatic Dragon, Black
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon chromatique, [Dragon noir](./Dragon noir.md)
+| CLASS="gauche" | [[Dragon]], Dragon chromatique, [[Dragon noir]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3 à 19
 |-
 | CLASS="gauche" | Dragon, Chromatic Dragon, Blue
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon chromatique, [Dragon bleu](./Dragon bleu.md)
+| CLASS="gauche" | [[Dragon]], Dragon chromatique, [[Dragon bleu]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5 à 21
 |-
 | CLASS="gauche" | Dragon, Chromatic Dragon, Green
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon chromatique, [Dragon vert](./Dragon vert.md)
+| CLASS="gauche" | [[Dragon]], Dragon chromatique, [[Dragon vert]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4 à 20
 |-
 | CLASS="gauche" | Dragon, Chromatic Dragon, Red
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon chromatique, [Dragon rouge](./Dragon rouge.md)
+| CLASS="gauche" | [[Dragon]], Dragon chromatique, [[Dragon rouge]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6 à 22
 |-
 | CLASS="gauche" | Dragon, Chromatic Dragon, White
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon chromatique, [Dragon blanc](./Dragon blanc.md)
+| CLASS="gauche" | [[Dragon]], Dragon chromatique, [[Dragon blanc]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2 à 18
 |-
 | CLASS="gauche" | Dragon, Faerie
-| CLASS="gauche" | Dragon, [Dragon féerique](./Dragon féerique.md)
+| CLASS="gauche" | Dragon, [[Dragon féerique]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Bestiary Supplement
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Dragon, Imperial Dragon, Forest
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon impérial, [Dragon impérial des forêts](./Dragon impérial des forêts.md)
+| CLASS="gauche" | [[Dragon]], Dragon impérial, [[Dragon impérial des forêts]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 6 à 22
 |-
 | CLASS="gauche" | Dragon, Imperial Dragon, Sea
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon impérial, [Dragon impérial des mers](./Dragon impérial des mers.md)
+| CLASS="gauche" | [[Dragon]], Dragon impérial, [[Dragon impérial des mers]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4 à 20
 |-
 | CLASS="gauche" | Dragon, Imperial Dragon, Sky
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon impérial, [Dragon impérial du ciel](./Dragon impérial du ciel.md)
+| CLASS="gauche" | [[Dragon]], Dragon impérial, [[Dragon impérial du ciel]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5 à 21
 |-
 | CLASS="gauche" | Dragon, Imperial Dragon, Sovereign
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon impérial, [Dragon impérial souverain](./Dragon impérial souverain.md)
+| CLASS="gauche" | [[Dragon]], Dragon impérial, [[Dragon impérial souverain]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 7 à 23
 |-
 | CLASS="gauche" | Dragon, Imperial Dragon, Underworld
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon impérial, [Dragon impérial chtonien](./Dragon impérial chtonien.md)
+| CLASS="gauche" | [[Dragon]], Dragon impérial, [[Dragon impérial chtonien]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3 à 19
 |-
 | CLASS="gauche" | Dragon, Metallic Dragon, Brass
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon métallique, [Dragon d'airain](./Dragon dairain.md)
+| CLASS="gauche" | [[Dragon]], Dragon métallique, [[Dragon dairain|Dragon d'airain]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3 à 19
 |-
 | CLASS="gauche" | Dragon, Metallic Dragon, Bronze
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon métallique, [Dragon de bronze](./Dragon de bronze.md)
+| CLASS="gauche" | [[Dragon]], Dragon métallique, [[Dragon de bronze]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5 à 21
 |-
 | CLASS="gauche" | Dragon, Metallic Dragon, Copper
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon métallique, [Dragon de cuivre](./Dragon de cuivre.md)
+| CLASS="gauche" | [[Dragon]], Dragon métallique, [[Dragon de cuivre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4 à 20
 |-
 | CLASS="gauche" | Dragon, Metallic Dragon, Gold
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon métallique, [Dragon d'or](./Dragon dor.md)
+| CLASS="gauche" | [[Dragon]], Dragon métallique, [[Dragon dor|Dragon d'or]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7 à 23
 |-
 | CLASS="gauche" | Dragon, Metallic Dragon, Silver
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon métallique, [Dragon d'argent](./Dragon dargent.md)
+| CLASS="gauche" | [[Dragon]], Dragon métallique, [[Dragon dargent|Dragon d'argent]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6 à 22
 |-
 | CLASS="gauche" | Dragon, Outer
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Dragon, Outer Dragon, Lunar
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5 à 21
 |-
 | CLASS="gauche" | Dragon, Outer Dragon, Solar
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5 à 21
 |-
 | CLASS="gauche" | Dragon, Outer Dragon, Time
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7 à 23
 |-
 | CLASS="gauche" | Dragon, Outer Dragon, Void
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5 à 21
 |-
 | CLASS="gauche" | Dragon, Outer Dragon, Vortex
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6 à 22
 |-
 | CLASS="gauche" | Dragon, Primal Dragon, Brine
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon primaire, [Dragon de saumure](./Dragon de saumure.md)
+| CLASS="gauche" | [[Dragon]], Dragon primaire, [[Dragon de saumure]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3 à 19
 |-
 | CLASS="gauche" | Dragon, Primal Dragon, Cloud
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon primaire, [Dragon des nuages](./Dragon des nuages.md)
+| CLASS="gauche" | [[Dragon]], Dragon primaire, [[Dragon des nuages]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5 à 21
 |-
 | CLASS="gauche" | Dragon, Primal Dragon, Crystal
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon primaire, [Dragon de cristal](./Dragon de cristal.md)
+| CLASS="gauche" | [[Dragon]], Dragon primaire, [[Dragon de cristal]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2 à 18
 |-
 | CLASS="gauche" | Dragon, Primal Dragon, Magma
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon primaire, [Dragon de magma](./Dragon de magma.md)
+| CLASS="gauche" | [[Dragon]], Dragon primaire, [[Dragon de magma]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4 à 20
 |-
 | CLASS="gauche" | Dragon, Primal Dragon, Umbral
-| CLASS="gauche" | [Dragon](./dragon.md), Dragon primaire, [Dragon ombrageux](./Dragon Umbral.md) (ou Dragon umbral)
+| CLASS="gauche" | [[Dragon]], Dragon primaire, [[Dragon umbral|Dragon ombrageux]] (ou Dragon umbral)
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6 à 16
 |-
 | CLASS="gauche" | Dragon Horse
-| CLASS="gauche" | [Cheval draconique](./Cheval draconique.md)
+| CLASS="gauche" | [[Cheval draconique]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Dragon Turtle
-| CLASS="gauche" | [Dragon-Tortue](./Dragon-tortue.md)
+| CLASS="gauche" | [[Dragon-Tortue]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Dragonfly, Giant
-| CLASS="gauche" | [Libellule géante](./Libellule géante.md)
+| CLASS="gauche" | [[Libellule géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Dragonfly Nymph, Giant
-| CLASS="gauche" | [Libellule géante](./Libellule géante.md), [Nymphe de libellule géante](./Nymphe de libellule géante.md)
+| CLASS="gauche" | [[Libellule géante]], [[Nymphe de libellule géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Dragonne
-| CLASS="gauche" | [Dragonne](./Dragonne.md)
+| CLASS="gauche" | [[Dragonne]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Bestiary Supplement
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Drakainia
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 25 / MR 10
 |-
 | CLASS="gauche" | Drake, Desert
-| CLASS="gauche" | Drake, [Drake du désert](./Drake du désert.md)
+| CLASS="gauche" | Drake, [[Drake du désert]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Drake, Flame
-| CLASS="gauche" | Drake, [Drake des flammes](./Drake des flammes.md) (ou Drake de feu)
+| CLASS="gauche" | Drake, [[Drake des flammes]] (ou Drake de feu)
 | Path
 | CLASS="gauche" | Bestiaire 2 / W1 Conquest of Bloodsworn Vale (3E)
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Drake, Forest
-| CLASS="gauche" | Drake, [Drake des forêts](./Drake des forêts.md) (ou Drake de la forêt)
+| CLASS="gauche" | Drake, [[Drake des forêts]] (ou Drake de la forêt)
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #32 / PF #15 (3E)
 | CLASS="gauche" | 4 (5 en 3E)
 |-
 | CLASS="gauche" | Drake, Frost
-| CLASS="gauche" | Drake, [Drake du froid](./Drake du froid.md)
+| CLASS="gauche" | Drake, [[Drake du froid]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Drake, Lava
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Drake, Mist
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Drake, Rift
-| CLASS="gauche" | Drake, [Drake des crevasses](./Drake des crevasses.md)
+| CLASS="gauche" | Drake, [[Drake des crevasses]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Drake, River
-| CLASS="gauche" | Drake, [Drake des rivières](./Drake des rivières.md)
+| CLASS="gauche" | Drake, [[Drake des rivières]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Drake, Sea
-| CLASS="gauche" | Drake, [Drake des mers](./Drake des mers.md)
+| CLASS="gauche" | Drake, [[Drake des mers]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Drake,Shadow
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Drake, Spire
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Draugr
-| CLASS="gauche" | [Draugr](./Draugr.md)
+| CLASS="gauche" | [[Draugr]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
@@ -2577,55 +2577,55 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Drekavac
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#31
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Drider
-| CLASS="gauche" | [Drider](./Drider.md)
+| CLASS="gauche" | [[Drider]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Drow
-| CLASS="gauche" | [Drow](./Drow.md) (ou Elfe Noir)
+| CLASS="gauche" | [[Drow]] (ou Elfe Noir)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Drow, Noble
-| CLASS="gauche" | [Drow](./Drow.md), [Drow noble](./Drow noble.md)
+| CLASS="gauche" | [[Drow]], [[Drow noble]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Dryad
-| CLASS="gauche" | [Dryade](./Dryade.md)
+| CLASS="gauche" | [[Dryade]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Duergar
-| CLASS="gauche" | [Duergar](./Duergar.md) (ou Nain Gris)
+| CLASS="gauche" | [[Duergar]] (ou Nain Gris)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Dullahan
-| CLASS="gauche" | [Dullahan](./Dullahan.md)
+| CLASS="gauche" | [[Dullahan]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Dust Digger
-| CLASS="gauche" | [Enfouisseur des sables](./Enfouisseur des sables.md)
+| CLASS="gauche" | [[Enfouisseur des sables]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Dybbuk
-| CLASS="gauche" | [Dibbouk](./Dibbouk.md)
+| CLASS="gauche" | [[Dibbouk]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 15
@@ -2643,427 +2643,427 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | D'Ziriak
-| CLASS="gauche" | [D’ziriak](./Dziriak.md)
+| CLASS="gauche" | [[Dziriak|D’ziriak]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Eagle
-| CLASS="gauche" | [Aigle](./Aigle.md)
+| CLASS="gauche" | [[Aigle]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Eagle, Giant
-| CLASS="gauche" | [Aigle](./Aigle.md), [Aigle géant](./Aigle géant.md)
+| CLASS="gauche" | [[Aigle]], [[Aigle géant]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Ebon Acolytus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#30
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Ecorche
-| CLASS="gauche" | [Écorché](./Écorché.md)
+| CLASS="gauche" | [[Écorché]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Ectoplasmic Creature
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | T +1
 |-
 | CLASS="gauche" | Ectoplasmic Creature, Human
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Edimmu
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #20
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Eel, Electric
-| CLASS="gauche" | Anguille, [Anguille électrique](./Anguille électrique.md)
+| CLASS="gauche" | Anguille, [[Anguille électrique]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Eel, Giant Moray
-| CLASS="gauche" | Anguille, [Murène géante](./Murène géante.md)
+| CLASS="gauche" | Anguille, [[Murène géante]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Eidolon, Unfettered
-| CLASS="gauche" | [Eidolon libéré, archétype](./Eidolon libéré, archétype.md), Exemple [Eidolon libéré](./Eidolon libéré.md)
+| CLASS="gauche" | [[Eidolon libéré, archétype]], Exemple [[Eidolon libéré]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Einherji
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Elder thing
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Elemental, Air Small
-| CLASS="gauche" | Élémentaire, [Élémentaire de l'Air de taille P](./Élémentaire de lAir.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lAir|Élémentaire de l'Air de taille P]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Elemental, Air Medium
-| CLASS="gauche" | Élémentaire, [Élémentaire de l'Air de taille M](./Élémentaire de lAir.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lAir|Élémentaire de l'Air de taille M]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Elemental, Air Large
-| CLASS="gauche" | Élémentaire, [Élémentaire de l'Air de taille G](./Élémentaire de lAir.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lAir|Élémentaire de l'Air de taille G]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Elemental, Air Huge
-| CLASS="gauche" | Élémentaire, [Élémentaire de l'Air de taille TG](./Élémentaire de lAir.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lAir|Élémentaire de l'Air de taille TG]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Elemental, Air Greater
-| CLASS="gauche" | Élémentaire, [Élémentaire noble de l'Air](./Élémentaire de lAir.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lAir|Élémentaire noble de l'Air]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Elemental, Air Elder
-| CLASS="gauche" | Élémentaire, [Seigneur-élémentaire de l'Air](./Élémentaire de lAir.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lAir|Seigneur-élémentaire de l'Air]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Elemental, Earth Small
-| CLASS="gauche" | Élémentaire, [Élémentaire de la Terre de taille P](./Élémentaire de la Terre.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la Terre|Élémentaire de la Terre de taille P]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Elemental, Earth Medium
-| CLASS="gauche" | Élémentaire, [Élémentaire de la Terre de taille M](./Élémentaire de la Terre.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la Terre|Élémentaire de la Terre de taille M]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Elemental, Earth Large
-| CLASS="gauche" | Élémentaire, [Élémentaire de la Terre de taille G](./Élémentaire de la Terre.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la Terre|Élémentaire de la Terre de taille G]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Elemental, Earth Huge
-| CLASS="gauche" | Élémentaire, [Élémentaire de la Terre de taille TG](./Élémentaire de la Terre.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la Terre|Élémentaire de la Terre de taille TG]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Elemental, Earth Greater
-| CLASS="gauche" | Élémentaire, [Élémentaire noble de la Terre](./Élémentaire de la Terre.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la Terre|Élémentaire noble de la Terre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Elemental, Earth Elder
-| CLASS="gauche" | Élémentaire, [Seigneur-élémentaire de la Terre](./Élémentaire de la Terre.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la Terre|Seigneur-élémentaire de la Terre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Elemental, Fire Small
-| CLASS="gauche" | Élémentaire, [Élémentaire du Feu de taille P](./Élémentaire du Feu.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du Feu|Élémentaire du Feu de taille P]]
 | Path
 | CLASS="gauche" | Bestiary
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Elemental, Fire Medium
-| CLASS="gauche" | Élémentaire, [Élémentaire du Feu de taille M](./Élémentaire du Feu.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du Feu|Élémentaire du Feu de taille M]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Elemental, Fire Large
-| CLASS="gauche" | Élémentaire, [Élémentaire du Feu de taille G](./Élémentaire du Feu.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du Feu|Élémentaire du Feu de taille G]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Elemental, Fire Huge
-| CLASS="gauche" | Élémentaire, [Élémentaire du Feu de taille TG](./Élémentaire du Feu.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du Feu|Élémentaire du Feu de taille TG]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Elemental, Fire Greater
-| CLASS="gauche" | Élémentaire, [Élémentaire noble du Feu](./Élémentaire du Feu.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du Feu|Élémentaire noble du Feu]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Elemental, Fire Elder
-| CLASS="gauche" | Élémentaire, [Seigneur-élémentaire du Feu](./Élémentaire du Feu.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du Feu|Seigneur-élémentaire du Feu]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Elemental, Ice Small
-| CLASS="gauche" | Élémentaire, [Élémentaire de la glace de taille P](./Élémentaire de la glace.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la glace|Élémentaire de la glace de taille P]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Elemental, Ice Medium
-| CLASS="gauche" | Élémentaire, [Élémentaire de la glace de taille M](./Élémentaire de la glace.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la glace|Élémentaire de la glace de taille M]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Elemental, Ice Large
-| CLASS="gauche" | Élémentaire, [Élémentaire de la glace de taille G](./Élémentaire de la glace.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la glace|Élémentaire de la glace de taille G]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Elemental, Ice Huge
-| CLASS="gauche" | Élémentaire, [Élémentaire de la glace de taille TG](./Élémentaire de la glace.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la glace|Élémentaire de la glace de taille TG]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Elemental, Ice Greater
-| CLASS="gauche" | Élémentaire, [Élémentaire de la glace noble](./Élémentaire de la glace.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la glace|Élémentaire de la glace noble]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Elemental, Ice Elder
-| CLASS="gauche" | Élémentaire, [Seigneur Élémentaire de la glace](./Élémentaire de la glace.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la glace|Seigneur Élémentaire de la glace]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Elemental, Lightning Small
-| CLASS="gauche" | Élémentaire, [Élémentaire de l’éclair de taille P](./Élémentaire de léclair.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de léclair|Élémentaire de l’éclair de taille P]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Elemental, Lightning Medium
-| CLASS="gauche" | Élémentaire, [Élémentaire de l’éclair de taille M](./Élémentaire de léclair.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de léclair|Élémentaire de l’éclair de taille M]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Elemental, Lightning Large
-| CLASS="gauche" | Élémentaire, [Élémentaire de l’éclair de taille G](./Élémentaire de léclair.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de léclair|Élémentaire de l’éclair de taille G]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Elemental, Lightning Huge
-| CLASS="gauche" | Élémentaire, [Élémentaire de l’éclair de taille TG](./Élémentaire de léclair.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de léclair|Élémentaire de l’éclair de taille TG]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Elemental, Lightning Greater
-| CLASS="gauche" | Élémentaire, [Élémentaire de l’éclair Noble](./Élémentaire de léclair.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de léclair|Élémentaire de l’éclair Noble]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Elemental, Lightning Elder
-| CLASS="gauche" | Élémentaire, [Seigneur Élémentaire de l’éclair](./Élémentaire de léclair.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de léclair|Seigneur Élémentaire de l’éclair]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Elemental, Magma Small
-| CLASS="gauche" | Élémentaire, [Élémentaire du magma de taille P](./Élémentaire du magma.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du magma|Élémentaire du magma de taille P]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Elemental, Magma Medium
-| CLASS="gauche" | Élémentaire, [Élémentaire du magma de taille M](./Élémentaire du magma.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du magma|Élémentaire du magma de taille M]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Elemental, Magma Large
-| CLASS="gauche" | Élémentaire, [Élémentaire du magma de taille G](./Élémentaire du magma.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du magma|Élémentaire du magma de taille G]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Elemental, Magma Huge
-| CLASS="gauche" | Élémentaire, [Élémentaire du magma de taille TG](./Élémentaire du magma.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du magma|Élémentaire du magma de taille TG]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Elemental, Magma Greater
-| CLASS="gauche" | Élémentaire, [Élémentaire du magma Noble](./Élémentaire du magma.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du magma|Élémentaire du magma Noble]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Elemental, Magma Elder
-| CLASS="gauche" | Élémentaire, [Seigneur Élémentaire du magma](./Élémentaire du magma.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire du magma|Seigneur Élémentaire du magma]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Elemental, Mud Small
-| CLASS="gauche" | Élémentaire, [Élémentaire de la boue de taille P](./Élémentaire de la boue.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la boue|Élémentaire de la boue de taille P]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Elemental, Mud Medium
-| CLASS="gauche" | Élémentaire, [Élémentaire de la boue de taille M](./Élémentaire de la boue.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la boue|Élémentaire de la boue de taille M]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Elemental, Mud Large
-| CLASS="gauche" | Élémentaire, [Élémentaire de la boue de taille G](./Élémentaire de la boue.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la boue|Élémentaire de la boue de taille G]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Elemental, Mud Huge
-| CLASS="gauche" | Élémentaire, [Élémentaire de la boue de taille TG](./Élémentaire de la boue.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la boue|Élémentaire de la boue de taille TG]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Elemental, Mud Greater
-| CLASS="gauche" | Élémentaire, [Élémentaire de la boue Noble](./Élémentaire de la boue.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la boue|Élémentaire de la boue Noble]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Elemental, Mud Elder
-| CLASS="gauche" | Élémentaire, [Seigneur Élémentaire de la boue](./Élémentaire de la boue.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de la boue|Seigneur Élémentaire de la boue]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Elemental, Water Small
-| CLASS="gauche" | Élémentaire, [Élémentaire de l'Eau de taille P](./Élémentaire de lEau.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lEau|Élémentaire de l'Eau de taille P]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Elemental, Water Medium
-| CLASS="gauche" | Élémentaire, [Élémentaire de l'Eau de taille M](./Élémentaire de lEau.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lEau|Élémentaire de l'Eau de taille M]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Elemental, Water Large
-| CLASS="gauche" | Élémentaire, [Élémentaire de l'Eau de taille G](./Élémentaire de lEau.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lEau|Élémentaire de l'Eau de taille G]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Elemental, Water Huge
-| CLASS="gauche" | Élémentaire, [Élémentaire de l'Eau de taille TG](./Élémentaire de lEau.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lEau|Élémentaire de l'Eau de taille TG]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Elemental, Water Greater
-| CLASS="gauche" | Élémentaire, [Élémentaire noble de l'Eau](./Élémentaire de lEau.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lEau|Élémentaire noble de l'Eau]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Elemental, Water Elder
-| CLASS="gauche" | Élémentaire, [Seigneur-élémentaire de l'Eau](./Élémentaire de lEau.md)
+| CLASS="gauche" | Élémentaire, [[Élémentaire de lEau|Seigneur-élémentaire de l'Eau]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Elephant
-| CLASS="gauche" | [Éléphant](./Éléphant.md)
+| CLASS="gauche" | [[Éléphant]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Elephant, Mastodon
-| CLASS="gauche" | [Éléphant](./Éléphant.md), [Mastodonte](./Mastodonte.md) (ou Mammouth laineux)
+| CLASS="gauche" | [[Éléphant]], [[Mastodonte]] (ou Mammouth laineux)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Elk, River
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#31
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Elohim
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 23 / MR 6
 |-
 | CLASS="gauche" | Emkrah
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #21
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Emperor of Scales
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #42
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Empyreal Lord
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Empyreal Lord, Cernunnos
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 30
 |-
 | CLASS="gauche" | Empyreal Lord, Korada
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 26
 |-
 | CLASS="gauche" | Empyreal Lord, Vildeis
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 28
@@ -3075,337 +3075,337 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Erlking
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Ettercap
-| CLASS="gauche" | [Ettercap](./Ettercap.md)
+| CLASS="gauche" | [[Ettercap]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Ettin
-| CLASS="gauche" | [Ettin](./Ettin.md)
+| CLASS="gauche" | [[Ettin]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Eurypterid, Bluetip
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Eurypterid, Common
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Eurypterid, Ochre
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 1/3
 |-
 | CLASS="gauche" | Eurypterid, Spiny
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Eurypterid, Spitting
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Faceless Stalker (Ugothol)
-| CLASS="gauche" | [Traqueur sans visage](./Traqueur sans visage.md) (ou Ugothol)
+| CLASS="gauche" | [[Traqueur sans visage]] (ou Ugothol)
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #02 (3E)
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Fachen
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Familiar, Archaeopteryx
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Familiar, Bat
-| CLASS="gauche" | Familier, [Chauve-souris](./Chauve-souris.md)
+| CLASS="gauche" | Familier, [[Chauve-souris]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,125
 |-
 | CLASS="gauche" | Familiar, Big Crab (King Crab - erreur)
-| CLASS="gauche" | Familier, [Tourteau](./Crabe royal.md)
+| CLASS="gauche" | Familier, [[Crabe Royal|Tourteau]]
 | Path
 | CLASS="gauche" | Art de la Magie
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Familiar, Cat
-| CLASS="gauche" | Familier, [Chat](./Chat.md)
+| CLASS="gauche" | Familier, [[Chat]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Familiar, Dodo
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Familiar, Flying Squirrel
-| CLASS="gauche" | Familier, [Écureuil volant](./Écureuil volant.md)
+| CLASS="gauche" | Familier, [[Écureuil volant]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Familiar, Fox
-| CLASS="gauche" | Familier, [Renard](./Renard.md)
+| CLASS="gauche" | Familier, [[Renard]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Familiar, Goat
-| CLASS="gauche" | Familier, [Chèvre](./Chèvre.md)
+| CLASS="gauche" | Familier, [[Chèvre]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Familiar, Hawk
-| CLASS="gauche" | Familier, [Aigle](./Aigle.md)
+| CLASS="gauche" | Familier, [[Aigle]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Familiar, Lizard
-| CLASS="gauche" | Familier, [Lézard](./Lézard.md)
+| CLASS="gauche" | Familier, [[Lézard]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,16
 |-
 | CLASS="gauche" | Familiar, Monkey
-| CLASS="gauche" | Familier, [Singe](./Singe.md)
+| CLASS="gauche" | Familier, [[Singe]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Familiar, Otter
-| CLASS="gauche" | Familier, [Loutre](./Loutre.md)
+| CLASS="gauche" | Familier, [[Loutre]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Familiar, Owl
-| CLASS="gauche" | Familier, [Chouette](./Chouette.md)
+| CLASS="gauche" | Familier, [[Chouette]]
 | Path
 | CLASS="gauche" | Bestiary
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Familiar, Pig
-| CLASS="gauche" | Familier, [Cochon](./Cochon.md)
+| CLASS="gauche" | Familier, [[Cochon]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Familiar, Platypus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,16
 |-
 | CLASS="gauche" | Familiar, Raccoon
-| CLASS="gauche" | Familier, [Raton laveur](./Raton laveur.md)
+| CLASS="gauche" | Familier, [[Raton laveur]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Familiar, Rat
-| CLASS="gauche" | Familier, [Rat](./Rat.md)
+| CLASS="gauche" | Familier, [[Rat]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Familiar, Raven
-| CLASS="gauche" | Familier, [Corbeau](./Corbeau.md)
+| CLASS="gauche" | Familier, [[Corbeau]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,16
 |-
 | CLASS="gauche" | Familiar, Sloth
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,16
 |-
 | CLASS="gauche" | Familiar, Toad
-| CLASS="gauche" | Familier, [Crapaud](./Crapaud.md)
+| CLASS="gauche" | Familier, [[Crapaud]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,125
 |-
 | CLASS="gauche" | Familiar, Tuatara
-| CLASS="gauche" | [Tuatara](./Tuatara.md) (ou Sphenodon)
+| CLASS="gauche" | [[Tuatara]] (ou Sphenodon)
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Familiar, Viper
-| CLASS="gauche" | Familier, [Vipère](./Vipère.md)
+| CLASS="gauche" | Familier, [[Vipère]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Familiar, Weasel
-| CLASS="gauche" | Familier, [Belette](./Belette.md)
+| CLASS="gauche" | Familier, [[Belette]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Faun
-| CLASS="gauche" | [Faune](./Faune.md)
+| CLASS="gauche" | [[Faune]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Fell Flotsam
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | W3 Flight of the Red Raven River into Darkness
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Festering Spirit
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Festrog
-| CLASS="gauche" | [Festrog](./Festrog.md) (ou Ghast)
+| CLASS="gauche" | [[Festrog]] (ou Ghast)
 | Path
 | CLASS="gauche" | Bestiaire 3 / D4 Hungry are the Dead
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Fetchling (Kayal)
-| CLASS="gauche" | [Fetchelin](./Fetchelin.md) (ou Kayal, Reflet)
+| CLASS="gauche" | [[Fetchelin]] (ou Kayal, Reflet)
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Fey creature, Fey giant toad
-| CLASS="gauche" | [Créature féerique](./Créature féerique, archétype.md), exemple [Crapaud féerique géant](./Crapaud féerique géant.md)
+| CLASS="gauche" | [[Créature féerique, archétype|Créature féerique]], exemple [[Crapaud féerique géant]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | First blade
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #35
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Flail Snail
-| CLASS="gauche" | [Escargot fléau](./Escargot fléau.md)
+| CLASS="gauche" | [[Escargot fléau]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Misfit Monsters Redeemed
 | CLASS="gauche" | 4 (3 dans MMR)
 |-
 | CLASS="gauche" | Flea, Giant
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Flea, Mammoth
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Fleshdreg
-| CLASS="gauche" | [Charognier](./charognier.md)
+| CLASS="gauche" | [[Charognier]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Fleshwarp
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Fleshwarp, Ghonhatine
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Fleshwarp, Grothlut
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Fleshwarp, Halsora
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Fleshwarp, Irnakurse
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Flumph
-| CLASS="gauche" | [Flumph](./Flumph.md)
+| CLASS="gauche" | [[Flumph]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Misfit Monsters Redeemed
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Fly, Giant
-| CLASS="gauche" | [Mouche géante](./Mouche géante.md)
+| CLASS="gauche" | [[Mouche géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #08 (3E)
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Flyng Polyp
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Flytrap, Giant
-| CLASS="gauche" | [Attrape-Mouches géant](./Attrape-mouches géant.md)
+| CLASS="gauche" | [[Attrape-Mouches géant]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Foo creature
-| CLASS="gauche" | [Créature foo](./Créature foo.md)
+| CLASS="gauche" | [[Créature foo]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Foo creature, Foo dog
-| CLASS="gauche" | [Créature foo](./Créature foo.md), [Chien foo](./Chien foo.md)
+| CLASS="gauche" | [[Créature foo]], [[Chien foo]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Foo creature, Foo lion
-| CLASS="gauche" | [Créature foo](./Créature foo.md), [Lion foo](./Lion foo.md)
+| CLASS="gauche" | [[Créature foo]], [[Lion foo]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
@@ -3417,79 +3417,79 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Forlarren
-| CLASS="gauche" | [Forlarren](./Forlarren.md)
+| CLASS="gauche" | [[Forlarren]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Formian
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Formian, Myrmarch
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Formian, Queen
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Formian, Taskmaster
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Formian, Warrior
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Formian, Worker
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Fossegrim
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Freezing Flow
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Frog, Giant
-| CLASS="gauche" | Grenouille, [Grenouille géante](./Grenouille géante.md)
+| CLASS="gauche" | Grenouille, [[Grenouille géante]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Frog, Poison
-| CLASS="gauche" | Grenouille, [Grenouille venimeuse](./Crapaud venimeux.md)
+| CLASS="gauche" | Grenouille, [[Crapaud venimeux|Grenouille venimeuse]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Froghemoth
-| CLASS="gauche" | [Froghémoth](./Froghémoth.md)
+| CLASS="gauche" | [[Froghémoth]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Frost Worm
-| CLASS="gauche" | [Ver du froid](./Ver du froid.md)
+| CLASS="gauche" | [[Ver du froid]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 12
@@ -3501,85 +3501,85 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Fungal Crawler
-| CLASS="gauche" | [Rampant fongique](./Rampant fongique.md)
+| CLASS="gauche" | [[Rampant fongique]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #13 (3E)
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Fungal Creature
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | T +1
 |-
 | CLASS="gauche" | Fungal Creature, Nymph
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Gaki
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Gallowdead
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Galvo
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Gar
-| CLASS="gauche" | [Gar](./Gar.md)
+| CLASS="gauche" | [[Gar]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Gar, Giant
-| CLASS="gauche" | [Gar](./Gar.md), [Gar géant](./Gar géant.md)
+| CLASS="gauche" | [[Gar]], [[Gar géant]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Garden Ooze
-| CLASS="gauche" | Vase, [Vase des jardins](./Vase des jardins.md)
+| CLASS="gauche" | Vase, [[Vase des jardins]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Gargoyle
-| CLASS="gauche" | [Gargouille](./Gargouille.md)
+| CLASS="gauche" | [[Gargouille]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Garuda
-| CLASS="gauche" | [Garuda](./Garuda.md)
+| CLASS="gauche" | [[Garuda]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Gashadokuro
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Gathlain
-| CLASS="gauche" | [Gathelain](./Gathelain.md) (ou Dryade ailée)
+| CLASS="gauche" | [[Gathelain]] (ou Dryade ailée)
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Gearghost
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
@@ -3591,61 +3591,61 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Geist
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Gelatinous Cube
-| CLASS="gauche" | [Cube gélatineux](./Cube gélatineux.md)
+| CLASS="gauche" | [[Cube gélatineux]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Genie, Djinni
-| CLASS="gauche" | Génie, [Djinn](./Djinn.md)
+| CLASS="gauche" | Génie, [[Djinn]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Genie, Efreeti
-| CLASS="gauche" | Génie, [Efrit](./Efrit.md)
+| CLASS="gauche" | Génie, [[Efrit]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Genie, Janni
-| CLASS="gauche" | Génie, [Jann](./Jann.md)
+| CLASS="gauche" | Génie, [[Jann]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Genie, Marid
-| CLASS="gauche" | Génie, [Marid](./Marid.md)
+| CLASS="gauche" | Génie, [[Marid]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Genie, Shaitan
-| CLASS="gauche" | Génie, [Shaitan](./Shaitan.md)
+| CLASS="gauche" | Génie, [[Shaitan]]
 | Path
 | CLASS="gauche" | Bestiaire 1 / PF #18 (3E)
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Get of Iblis
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #23
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Ghalshoaton
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | J4 The Pact Stone Pyramid
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Gholdako
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 10
@@ -3657,367 +3657,367 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Ghorazagh
-| CLASS="gauche" | [Ghorazagh](./Ghorazagh.md)
+| CLASS="gauche" | [[Ghorazagh]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #29
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Ghost
-| CLASS="gauche" | [Fantôme](./Fantôme humain.md)
+| CLASS="gauche" | [[fantôme humain|Fantôme]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Ghoul
-| CLASS="gauche" | [Goule](./Goule.md)
+| CLASS="gauche" | [[Goule]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Ghul
-| CLASS="gauche" | [Ghul](./Ghul.md)
+| CLASS="gauche" | [[Ghul]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Guide to Katapesh (Dark Markets) (3E)
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Giant, Ash
-| CLASS="gauche" | Géant, [Géant de cendre](./Géant de cendre.md)
+| CLASS="gauche" | Géant, [[Géant de cendre]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Giant, Cave
-| CLASS="gauche" | Géant, [Géant des grottes](./Géant des grottes.md) (ou Orog)
+| CLASS="gauche" | Géant, [[Géant des grottes]] (ou Orog)
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Giant, Cliff
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Giant, Cloud
-| CLASS="gauche" | Géant, [Géant des nuages](./Géant des nuages.md)
+| CLASS="gauche" | Géant, [[Géant des nuages]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Giant, Desert
-| CLASS="gauche" | Géant, [Géant du désert](./Géant du désert.md)
+| CLASS="gauche" | Géant, [[Géant du désert]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Giant, Fire
-| CLASS="gauche" | Géant, [Géant du feu](./Géant du feu.md)
+| CLASS="gauche" | Géant, [[Géant du feu]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Giant, Frost
-| CLASS="gauche" | Géant, [Géant du froid](./Géant du froid.md)
+| CLASS="gauche" | Géant, [[Géant du froid]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Giant, Hill
-| CLASS="gauche" | Géant, [Géant des collines](./Géant des collines.md)
+| CLASS="gauche" | Géant, [[Géant des collines]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Giant, Jungle
-| CLASS="gauche" | Géant, [Géant de la jungle](./Géant de la jungle.md)
+| CLASS="gauche" | Géant, [[Géant de la jungle]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Giant, Marsh
-| CLASS="gauche" | Géant, [Géant des marais](./Géant des marais.md)
+| CLASS="gauche" | Géant, [[Géant des marais]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #05 (3E)
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Giant, Ocean
-| CLASS="gauche" | [Géant des océans](./Géant des océans.md)
+| CLASS="gauche" | [[Géant des océans]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Giant, River
-| CLASS="gauche" | [Géant des rivières](./Géant des rivières.md)
+| CLASS="gauche" | [[Géant des rivières]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Giant, Rune
-| CLASS="gauche" | Géant, [Géant des runes](./Géant des runes.md)
+| CLASS="gauche" | Géant, [[Géant des runes]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #06 (3E)
 | CLASS="gauche" | 17 (14 en 3E)
 |-
 | CLASS="gauche" | Giant, Slag
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Giant, Stone
-| CLASS="gauche" | Géant, [Géant de pierre](./Géant des pierres.md)
+| CLASS="gauche" | Géant, [[Géant des pierres|Géant de pierre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Giant, Storm
-| CLASS="gauche" | Géant, [Géant des tempêtes](./Géant des tempêtes.md)
+| CLASS="gauche" | Géant, [[Géant des tempêtes]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Giant, Taiga
-| CLASS="gauche" | Géant, [Géant de la taïga](./Géant de la taïga.md)
+| CLASS="gauche" | Géant, [[Géant de la taïga]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #04 (3E)
 | CLASS="gauche" | 12 (10 en 3E)
 |-
 | CLASS="gauche" | Giant, Wood
-| CLASS="gauche" | Géant, [Géant des bois](./Géant des bois.md)
+| CLASS="gauche" | Géant, [[Géant des bois]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Giant botfly
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Heart of the Jungle
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Giant Lacewing
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary Supplement
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Gibbering Mouther
-| CLASS="gauche" | [Babélien](./Babélien.md)
+| CLASS="gauche" | [[Babélien]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Gigas, Abyss
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | The Witchwar Legacy
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Gigas, Hell
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#30
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Girallon
-| CLASS="gauche" | [Girallon](./Girallon.md)
+| CLASS="gauche" | [[Girallon]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Girtablilu
-| CLASS="gauche" | [Girtablilu](./Girtablilu.md)
+| CLASS="gauche" | [[Girtablilu]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Globster
-| CLASS="gauche" | [Globster](./Globster.md)
+| CLASS="gauche" | [[Globster]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Gloomwing
-| CLASS="gauche" | [Papillon sinistre](./Papillon sinistre.md)
+| CLASS="gauche" | [[Papillon sinistre]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Gnarled Creature
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | The Witchwar Legacy
 | CLASS="gauche" | T +1
 |-
 | CLASS="gauche" | Gnoll
-| CLASS="gauche" | [Gnoll](./Gnoll.md)
+| CLASS="gauche" | [[Gnoll]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Goblin
-| CLASS="gauche" | [Gobelin](./Gobelin.md)
+| CLASS="gauche" | [[Gobelin]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Goblin Dog
-| CLASS="gauche" | [Chien Gobelin](./Chien gobelin.md)
+| CLASS="gauche" | [[Chien Gobelin]]
 | Path
 | CLASS="gauche" | Bestiaire 1 / PF #01 (3E)
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Goblin Snake
-| CLASS="gauche" | Serpent, [Serpent gobelin](./Serpent gobelin.md)
+| CLASS="gauche" | Serpent, [[Serpent gobelin]]
 | Path
 | CLASS="gauche" | Bestiary 3 / PF #01 (3E)
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Golden Gardian
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | City of Golden Death
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Golem, Adamantine
-| CLASS="gauche" | [Golem](./Golem.md), [Golem d'adamantium](./Golem dadamantium.md)
+| CLASS="gauche" | [[Golem]], [[Golem dadamantium|Golem d'adamantium]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 19
 |-
 | CLASS="gauche" | Golem, Alchemical
-| CLASS="gauche" | [Golem](./Golem.md), [Golem alchimique](./Golem alchimique.md)
+| CLASS="gauche" | [[Golem]], [[Golem alchimique]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Golem, Blood
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Golem, Bone
-| CLASS="gauche" | [Golem](./Golem.md), [Golem d'os](./Golem dos.md)
+| CLASS="gauche" | [[Golem]], [[Golem dos|Golem d'os]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Golem, Brass
-| CLASS="gauche" | [Golem](./Golem.md), [Golem de cuivre](./Golem de cuivre.md)
+| CLASS="gauche" | [[Golem]], [[Golem de cuivre]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #24 (3E)
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Golem, Cannon
-| CLASS="gauche" | [Golem](./Golem.md), [Golem canon](./Golem canon.md)
+| CLASS="gauche" | [[Golem]], [[Golem canon]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Golem, Carrion
-| CLASS="gauche" | [Golem](./Golem.md), [Golem de charogne](./Golem de charogne.md)
+| CLASS="gauche" | [[Golem]], [[Golem de charogne]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #07 (3E)
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Golem, Clay
-| CLASS="gauche" | [Golem](./Golem.md), [Golem d'argile](./Golem dargile.md)
+| CLASS="gauche" | [[Golem]], [[Golem dargile|Golem d'argile]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Golem, Clockwork
-| CLASS="gauche" | [Golem](./Golem.md), [Golem mécanique](./Golem mécanique.md)
+| CLASS="gauche" | [[Golem]], [[Golem mécanique]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Golem, Coral
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Golem, Flesh
-| CLASS="gauche" | [Golem](./Golem.md), [Golem de chair](./Golem de chair.md)
+| CLASS="gauche" | [[Golem]], [[Golem de chair]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Golem, Fossil
-| CLASS="gauche" | [Golem](./Golem.md), [Golem fossile](./Golem fossile.md)
+| CLASS="gauche" | [[Golem]], [[Golem fossile]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Golem, Glass
-| CLASS="gauche" | [Golem](./Golem.md), [Golem de verre](./Golem de verre.md)
+| CLASS="gauche" | [[Golem]], [[Golem de verre]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Golem, Ice
-| CLASS="gauche" | [Golem](./Golem.md), [Golem de glace](./golem de glace.md)
+| CLASS="gauche" | [[Golem]], [[Golem de glace]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Golem, Iron
-| CLASS="gauche" | [Golem](./Golem.md), [Golem de fer](./Golem de fer.md)
+| CLASS="gauche" | [[Golem]], [[Golem de fer]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Golem, Junk
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Golem, Mask
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Masks of the Living God
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Golem, Mithral
-| CLASS="gauche" | [Golem](./Golem.md), [Golem de mithral](./Golem de mithral.md)
+| CLASS="gauche" | [[Golem]], [[Golem de mithral]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Golem, Stone
-| CLASS="gauche" | [Golem](./Golem.md), [Golem de pierre](./Golem de pierre.md)
+| CLASS="gauche" | [[Golem]], [[Golem de pierre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Golem, Wax
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Golem, Wood
-| CLASS="gauche" | [Golem](./Golem.md), [Golem de bois](./Golem de bois.md)
+| CLASS="gauche" | [[Golem]], [[Golem de bois]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Gorgon
-| CLASS="gauche" | [Gorgone](./Gorgone.md)
+| CLASS="gauche" | [[Gorgone]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Gorynych
-| CLASS="gauche" | [Gorynych](./Gorynych.md)
+| CLASS="gauche" | [[Gorynych]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Graeae
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5 / MR 2
@@ -4029,265 +4029,265 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Graveknight
-| CLASS="gauche" | [Chevalier tombal](./Chevalier tombal, archétype.md), Exemple [Chevalier tombal humain](./Chevalier tombal humain.md)
+| CLASS="gauche" | [[Chevalier tombal, archétype|Chevalier tombal]], Exemple [[Chevalier tombal humain]]
 | Path
 | CLASS="gauche" | Bestiary 3 / PF #26
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Graven Guardian
-| CLASS="gauche" | [Gardien tombal](./Gardien tombal.md)
+| CLASS="gauche" | [[Gardien tombal]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Gray Ooze
-| CLASS="gauche" | Vase, [Vase grise](./Vase grise.md)
+| CLASS="gauche" | Vase, [[Vase grise]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Gray Render
-| CLASS="gauche" | [Ravageur gris](./Ravageur gris.md)
+| CLASS="gauche" | [[Ravageur gris]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Great Old One
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Great Old One, Bokrug
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 27
 |-
 | CLASS="gauche" | Great Old One, Cthulhu
-| CLASS="gauche" | [Grand Ancien](./../Golarion/Grands Anciens.md), [Cthulhu](./Cthulhu.md)
+| CLASS="gauche" | [[Grands Anciens|Grand Ancien]], [[Cthulhu]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 30
 |-
 | CLASS="gauche" | Great Old One, Hastur
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 29
 |-
 | CLASS="gauche" | Greater verdurous ooze
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #35
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Green Hag
-| CLASS="gauche" | Guenaude, [Guenaude verte](./Guenaude verte.md)
+| CLASS="gauche" | Guenaude, [[Guenaude verte]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Gremlin, Fuath
-| CLASS="gauche" | [Gremlin](./Gremlin.md), [Fuath](./Fuath.md)
+| CLASS="gauche" | [[Gremlin]], [[Fuath]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Gremlin, Grimple
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,33
 |-
 | CLASS="gauche" | Gremlin, Haniver
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4 / PF #25
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Gremlin, Jinkin
-| CLASS="gauche" | [Gremlin](./Gremlin.md), [Jinkin](./Jinkin.md) (ou Facétieux)
+| CLASS="gauche" | [[Gremlin]], [[Jinkin]] (ou Facétieux)
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #29 / PF #19 (3E) / Into the Darklands (3E)
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Gremlin, Monaciello
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Gremlin, Nuglub
-| CLASS="gauche" | [Gremlin](./Gremlin.md), [Nuglub](./Nuglub.md)
+| CLASS="gauche" | [[Gremlin]], [[Nuglub]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Gremlin, Pugwampi
-| CLASS="gauche" | [Gremlin](./Gremlin.md), [Pugwampi](./Pugwampi.md)
+| CLASS="gauche" | [[Gremlin]], [[Pugwampi]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #19 (3E)
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Gremlin, Vexgit
-| CLASS="gauche" | [Gremlin](./Gremlin.md), [Vexgit](./Vexgit.md)
+| CLASS="gauche" | [[Gremlin]], [[Vexgit]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #19 (3E)
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Grendel
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 19 / MR 7
 |-
 | CLASS="gauche" | Grick
-| CLASS="gauche" | [Grick](./Grick.md)
+| CLASS="gauche" | [[Grick]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Griffon
-| CLASS="gauche" | [Griffon](./Griffon.md)
+| CLASS="gauche" | [[Griffon]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Grig
-| CLASS="gauche" | [Grig](./Grig.md)
+| CLASS="gauche" | [[Grig]]
 | Path
 | CLASS="gauche" | Bestiaire 2 /PF #31
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Grimstalker
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #32
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Grindylow
-| CLASS="gauche" | [Grindylow](./Grindylow.md)
+| CLASS="gauche" | [[Grindylow]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Grippli
-| CLASS="gauche" | [Grippli](./Grippli.md)
+| CLASS="gauche" | [[Grippli]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Grodair
-| CLASS="gauche" | [Grodair](./Grodair.md)
+| CLASS="gauche" | [[Grodair]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #36
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Grootslang
-| CLASS="gauche" | [Grootslang](./Grootslang.md)
+| CLASS="gauche" | [[Grootslang]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #42
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Gryph
-| CLASS="gauche" | [Gryph](./Gryph.md)
+| CLASS="gauche" | [[Gryph]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #29
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Guardian Dragon
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 24 / MR 10
 |-
 | CLASS="gauche" | Guecubu
-| CLASS="gauche" | [Guécube](./Guécube.md)
+| CLASS="gauche" | [[Guécube]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Gug
-| CLASS="gauche" | [Gug](./Gug.md)
+| CLASS="gauche" | [[Gug]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #11 (3E)
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Guiltgorger Giant
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | S1 Clash of the Kingslayers
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Gutdragging Lurcher
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | U2 Hangman's Noose
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Hadhayosh
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #21
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Half-Celestial
-| CLASS="gauche" | [Demi-Céleste](./Demi-céleste, archétype.md)
+| CLASS="gauche" | [[demi-céleste, archétype|Demi-Céleste]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | T +1 à +3
 |-
 | CLASS="gauche" | Half-Dragon
-| CLASS="gauche" | [Demi-dragon](./Demi-dragon, archétype.md)
+| CLASS="gauche" | [[demi-dragon, archétype|Demi-dragon]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | T +2
 |-
 | CLASS="gauche" | Half-Dragon, Dracolisk
-| CLASS="gauche" | [Demi-dragon](./Demi-dragon, archétype.md), [Dracolisque](./Dracolisque.md)
+| CLASS="gauche" | [[demi-dragon, archétype|Demi-dragon]], [[Dracolisque]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Half-Fiend
-| CLASS="gauche" | [Demi-Fiélon](./Demi-fiélon, archétype.md)
+| CLASS="gauche" | [[demi-fiélon, archétype|Demi-Fiélon]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | T +1 à +3
 |-
 | CLASS="gauche" | Half-janni
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Qadira, Gateway to the East
 | CLASS="gauche" | T+2
 |-
 | CLASS="gauche" | Hamadryad
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Hand of the Inheritor
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #26
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Hangman Tree
-| CLASS="gauche" | [Arbre à pendus](./Arbre à pendus.md)
+| CLASS="gauche" | [[Arbre à pendus]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Harionago
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Harpy
-| CLASS="gauche" | [Harpie](./Harpie.md)
+| CLASS="gauche" | [[Harpie]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
@@ -4305,61 +4305,61 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 24
 |-
 | CLASS="gauche" | Hell Hound
-| CLASS="gauche" | Molosse, [Molosse infernal](./Molosse infernal.md)
+| CLASS="gauche" | Molosse, [[Molosse infernal]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Hell Hound, Nessian (Warhound)
-| CLASS="gauche" | Molosse, [Molosse nessien](./Molosse nessien.md)
+| CLASS="gauche" | Molosse, [[Molosse nessien]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Hellcat
-| CLASS="gauche" | [Chat infernal](./Chat infernal.md)
+| CLASS="gauche" | [[Chat infernal]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #27
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Hellwasp Swarm
-| CLASS="gauche" | Nuée, [Essaim de guêpes de l'Enfer](./Essaim de guêpes de lEnfer.md)
+| CLASS="gauche" | Nuée, [[Essaim de guêpes de lenfer|Essaim de guêpes de l'Enfer]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Herd Animal, Antelope
-| CLASS="gauche" | Animal de troupeau, [Antilope](./Antilope.md)
+| CLASS="gauche" | Animal de troupeau, [[Antilope]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Herd Animal, Aurochs
-| CLASS="gauche" | Animal de troupeau, [Auroch](./Auroch.md)
+| CLASS="gauche" | Animal de troupeau, [[Auroch]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Herd Animal, Bison
-| CLASS="gauche" | Animal de troupeau, [Bison](./Bison.md)
+| CLASS="gauche" | Animal de troupeau, [[Bison]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Herd Animal, Camel
-| CLASS="gauche" | Animal de troupeau, [Dromadaire](./Dromadaire.md)
+| CLASS="gauche" | Animal de troupeau, [[Dromadaire]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Herd Animal, Elk
-| CLASS="gauche" | Animal de troupeau, [Elan](./Elan.md) (Wapiti)
+| CLASS="gauche" | Animal de troupeau, [[Elan]] (Wapiti)
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF#31
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Herd Animal, Giraffe
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
@@ -4371,115 +4371,115 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Herd Animal, Ram
-| CLASS="gauche" | Animal de troupeau, [Bélier](./Bélier.md)
+| CLASS="gauche" | Animal de troupeau, [[Bélier]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Herd Animal, Stag
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Hippocampus
-| CLASS="gauche" | [Hippocampe](./Hippocampe.md)
+| CLASS="gauche" | [[Hippocampe]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Hippogriff
-| CLASS="gauche" | [Hippogriffe](./Hippogriffe.md)
+| CLASS="gauche" | [[Hippogriffe]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Hippopotamus
-| CLASS="gauche" | [Hippopotame](./Hippopotame.md)
+| CLASS="gauche" | [[Hippopotame]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / Heart of the Jungle
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Hippopotamus, Behemoth
-| CLASS="gauche" | [Hippopotame](./Hippopotame.md), [Hippopotame béhémoth](./Hippopotame béhémoth.md)
+| CLASS="gauche" | [[Hippopotame]], [[Hippopotame béhémoth]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Hoary Muntjac
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | W3 Flight of the Red Raven
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Hobgoblin
-| CLASS="gauche" | [Hobgobelin](./Hobgobelin.md)
+| CLASS="gauche" | [[Hobgobelin]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Hodag
-| CLASS="gauche" | [Hodag](./Hodag.md)
+| CLASS="gauche" | [[Hodag]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #32
 | CLASS="gauche" | 6 (5 dans PF #32)
 |-
 | CLASS="gauche" | Hollow Serpent, lesser
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #42
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Hollow Serpent
-| CLASS="gauche" | Serpent, [Serpent creux](./Serpent creux.md)
+| CLASS="gauche" | Serpent, [[Serpent creux]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #42
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Homunculus
-| CLASS="gauche" | [Homoncule](./Homoncule.md)
+| CLASS="gauche" | [[Homoncule]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Horse
-| CLASS="gauche" | [Cheval](./Cheval.md)
+| CLASS="gauche" | [[Cheval]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Horse, Pony
-| CLASS="gauche" | [Cheval](./Cheval.md), [Poney](./Poney.md)
+| CLASS="gauche" | [[Cheval]], [[Poney]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Hound of Tindalos
-| CLASS="gauche" | [Chien de Tindalos](./../Aventures/Chien de Tindalos.md)
+| CLASS="gauche" | [[Chien de Tindalos]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #04 (3E)
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Howler
-| CLASS="gauche" | [Hurleur](./Hurleur.md)
+| CLASS="gauche" | [[Hurleur]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #26
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Huecuva
-| CLASS="gauche" | [Huécuva](./Huécuva.md) (ou Wécufe)
+| CLASS="gauche" | [[Huécuva]] (ou Wécufe)
 | Path
 | CLASS="gauche" | Bestiaire 3 / Bestiary Supplement
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Huldra
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Humbaba
-| CLASS="gauche" | [Humbaba](./Humbaba.md)
+| CLASS="gauche" | [[Humbaba]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 19
@@ -4491,145 +4491,145 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Hungry Flesh
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Hungry Fog
-| CLASS="gauche" | [Brume affamée](./Brume affamée.md)
+| CLASS="gauche" | [[Brume affamée]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Hyakume
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Hydra
-| CLASS="gauche" | [Hydre](./Hydre.md)
+| CLASS="gauche" | [[Hydre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Hyena
-| CLASS="gauche" | [Hyène](./Hyène.md)
+| CLASS="gauche" | [[Hyène]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Hyena, Dire
-| CLASS="gauche" | [Hyène](./Hyène.md), [Hyène sanguinaire](./Hyène sanguinaire.md) (ou Hyænodon)
+| CLASS="gauche" | [[Hyène]], [[Hyène sanguinaire]] (ou Hyænodon)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Hypnalis
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Idol, bone
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#27
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Idol, jade
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#27
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Idol, stone
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#27
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Idol, wood
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#27
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Ifrit
-| CLASS="gauche" | [Ifrit](./Ifrit.md)
+| CLASS="gauche" | [[Ifrit]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Iku-Turso
-| CLASS="gauche" | [Iku-turso](./Iku-turso.md)
+| CLASS="gauche" | [[Iku-turso]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Ijiraq
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Immortal Ichor
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Impundulu
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #40
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Incutilis
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Inevitable, Arbiter
-| CLASS="gauche" | [Inévitable](./Inévitable.md), [Arbitre](./Arbitre.md)
+| CLASS="gauche" | [[Inévitable]], [[Arbitre]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Inevitable, Kolyarut
-| CLASS="gauche" | [Inévitable](./Inévitable.md), [Kolyarut](./Kolyarut.md)
+| CLASS="gauche" | [[Inévitable]], [[Kolyarut]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #28
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Inevitable, Lhaksharut
-| CLASS="gauche" | [Inévitable](./Inévitable.md), [Lhaksharut](./Lhaksharut.md)
+| CLASS="gauche" | [[Inévitable]], [[Lhaksharut]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Inevitable, Marut
-| CLASS="gauche" | [Inévitable](./Inévitable.md), [Marut](./Marut.md)
+| CLASS="gauche" | [[Inévitable]], [[Marut]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Inevitable, Zelekhut
-| CLASS="gauche" | [Inévitable](./Inévitable.md), [Zélékhut](./Zélékhut.md)
+| CLASS="gauche" | [[Inévitable]], [[Zélékhut]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Inkanyamba
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #41
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Intellect Devourer
-| CLASS="gauche" | [Dévoreur d'intellect](./Dévoreur dintellect.md)
+| CLASS="gauche" | [[Dévoreur dintellect|Dévoreur d'intellect]]
 | Path
 | CLASS="gauche" | Bestiaire 1 / Into the Darklands (3E)
 | CLASS="gauche" | 8
@@ -4641,19 +4641,19 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Invisible Stalker
-| CLASS="gauche" | [Traqueur invisible](./Traqueur invisible.md)
+| CLASS="gauche" | [[Traqueur invisible]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Irlgaunt
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #35
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Irminsul
-| CLASS="gauche" | [Irminsul](./Irminsul.md)
+| CLASS="gauche" | [[Irminsul]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 17 / MR 7
@@ -4665,223 +4665,223 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Iron Cobra
-| CLASS="gauche" | [Cobra de fer](./Cobra de fer.md)
+| CLASS="gauche" | [[Cobra de fer]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Isitoq
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Jabberwock
-| CLASS="gauche" | [Jabberwocky](./Jabberwocky.md)
+| CLASS="gauche" | [[Jabberwocky]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 23
 |-
 | CLASS="gauche" | Jack-O'-Lantern
-| CLASS="gauche" | [Tête de citrouille](./Tête de citrouille.md)
+| CLASS="gauche" | [[Tête de citrouille]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Jackalwere
-| CLASS="gauche" | [Lycanthrope](./Lycanthrope, archétype.md), [Garou-chacal](./Garou-chacal.md)
+| CLASS="gauche" | [[Lycanthrope, archétype|Lycanthrope]], [[Garou-chacal]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Jellyfich, Death's Head
-| CLASS="gauche" | Méduse, [Méduse à tête de mort](./Méduse à tête de mort.md)
+| CLASS="gauche" | Méduse, [[Méduse à tête de mort]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Jellyfich, Giant
-| CLASS="gauche" | Méduse, [Méduse géante](./Méduse géante.md)
+| CLASS="gauche" | Méduse, [[Méduse géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Jellyfich, Sapphire
-| CLASS="gauche" | Méduse, [Méduse saphir](./Méduse saphir.md)
+| CLASS="gauche" | Méduse, [[Méduse saphir]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Jellyfich, Swarm
-| CLASS="gauche" |  Nuée,[de méduses](./Nuée de méduses.md)
+| CLASS="gauche" |  Nuée,[[Nuée de méduses|de méduses]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Jinmenju
-| CLASS="gauche" | [Jinmenju](./Jinmenju.md)
+| CLASS="gauche" | [[Jinmenju]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Jorogumo
-| CLASS="gauche" | [Jorôgumo](./Jorôgumo.md)
+| CLASS="gauche" | [[Jorôgumo]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Jubjub Bird
-| CLASS="gauche" | [Jube-jube](./Jube-jube.md)
+| CLASS="gauche" | [[Jube-jube]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Juggernaut
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Julunggali
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 21 / Mr 8
 |-
 | CLASS="gauche" | Jyoti
-| CLASS="gauche" | [Jyoti](./Jyoti.md)
+| CLASS="gauche" | [[Jyoti]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Kaiju
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Kaiju, Agyra
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 27
 |-
 | CLASS="gauche" | Kaiju, Bezraunis
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 26
 |-
 | CLASS="gauche" | Kaiju, Mogaru
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 28
 |-
 | CLASS="gauche" | Kamadan
-| CLASS="gauche" | [Kamadan](./Kamadan.md)
+| CLASS="gauche" | [[Kamadan]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Kami
-| CLASS="gauche" | [Kami](./Kami.md)
+| CLASS="gauche" | [[Kami]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Kami, Jinushigami
-| CLASS="gauche" | [Kami](./Kami.md), [Jinushigami](./Jinushigami.md)
+| CLASS="gauche" | [[Kami]], [[Jinushigami]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Kami, Kodama
-| CLASS="gauche" | [Kami](./Kami.md), [Kodama](./Kodama.md)
+| CLASS="gauche" | [[Kami]], [[Kodama]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Kami, Shikigami
-| CLASS="gauche" | [Kami](./Kami.md), [Shikigami](./Shikigami.md)
+| CLASS="gauche" | [[Kami]], [[Shikigami]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Kami, Toshigami
-| CLASS="gauche" | [Kami](./Kami.md), [Toshigami](./Toshigami.md)
+| CLASS="gauche" | [[Kami]], [[Toshigami]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Kami, Zuishin
-| CLASS="gauche" | [Kami](./Kami.md), [Zuishin](./Zuishin.md)
+| CLASS="gauche" | [[Kami]], [[Zuishin]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Kappa
-| CLASS="gauche" | [Kappa](./Kappa.md)
+| CLASS="gauche" | [[Kappa]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Kapre
-| CLASS="gauche" | [Kapré](./Kapré.md)
+| CLASS="gauche" | [[Kapré]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Karkinoi
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Kasatha
-| CLASS="gauche" | [Kasatha](./Kasatha.md)
+| CLASS="gauche" | [[Kasatha]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Kech
-| CLASS="gauche" | [Kech](./Kech.md)
+| CLASS="gauche" | [[Kech]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Kelpie
-| CLASS="gauche" | [Kelpie](./Kelpie.md)
+| CLASS="gauche" | [[Kelpie]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Kirin
-| CLASS="gauche" | [Kirin](./Kirin.md)
+| CLASS="gauche" | [[Kirin]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Kitsune
-| CLASS="gauche" | [Kitsune](./Kitsune.md)
+| CLASS="gauche" | [[Kitsune]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Kobold
-| CLASS="gauche" | [Kobold](./Kobold.md)
+| CLASS="gauche" | [[Kobold]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Kongamato
-| CLASS="gauche" | [Kongamato](./Kongamato.md)
+| CLASS="gauche" | [[Kongamato]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #42
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Korred
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
@@ -4893,7 +4893,7 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Krenshar
-| CLASS="gauche" | [Krenshar](./Krenshar.md)
+| CLASS="gauche" | [[Krenshar]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
@@ -4905,79 +4905,79 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Kyton
-| CLASS="gauche" | [Kyton](./Kyton.md)
+| CLASS="gauche" | [[Kyton]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Kyton, Augur
-| CLASS="gauche" | [Kyton](./Kyton.md), [Augure](./Kyton augure.md)
+| CLASS="gauche" | [[Kyton]], [[Kyton augure|Augure]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Kyton, Ephialtes
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#30
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Kyton, Eremite
-| CLASS="gauche" | [Kyton](./Kyton.md), [Ermite](./Kyton ermite.md)
+| CLASS="gauche" | [[Kyton]], [[Kyton ermite|Ermite]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Kyton, Interlocutor
-| CLASS="gauche" | [Kyton](./Kyton.md), [Interlocuteur](./Kyton interlocuteur.md)
+| CLASS="gauche" | [[Kyton]], [[Kyton interlocuteur|Interlocuteur]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Kyton, Ostiarius
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Kyton, Sacristan
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Lamia
-| CLASS="gauche" | [Lamie](./Lamie.md)
+| CLASS="gauche" | [[Lamie]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Lamia, Matriarch
-| CLASS="gauche" | [Lamie](./Lamie.md), [Lamie Matriarche](./Lamie matriarche.md)
+| CLASS="gauche" | [[Lamie]], [[Lamie Matriarche]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #02 (3E)
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Lammasu
-| CLASS="gauche" | [Lammasu](./Lammasu.md)
+| CLASS="gauche" | [[Lammasu]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Bestiary Supplement
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Lampad
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Lar
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#27
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Lava Child
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Misfit Monsters Redeemed
 | CLASS="gauche" | 3
@@ -4989,289 +4989,289 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Leaf Ray
-| CLASS="gauche" | [Raie manta feuillue](./Raie manta feuillue.md)
+| CLASS="gauche" | [[Raie manta feuillue]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Leanan Sidhe
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9 / MR 3
 |-
 | CLASS="gauche" | Leech, Giant
-| CLASS="gauche" | [Sangsue géante](./Sangsue géante.md)
+| CLASS="gauche" | [[Sangsue géante]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Leech Swarm
-| CLASS="gauche" | Nuée,[de sangsue](./Nuée de sangsue.md)
+| CLASS="gauche" | Nuée,[[Nuée de sangsue|de sangsue]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Leprechaun
-| CLASS="gauche" | [Farfadet](./Farfadet.md)
+| CLASS="gauche" | [[Farfadet]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Leshy
-| CLASS="gauche" | [Léchis](./Léchi.md) (ou [Boguns](./Léchi.md))
+| CLASS="gauche" | [[Léchi|Léchis]] (ou [[Léchi|Boguns]])
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Leshy, Fungus
-| CLASS="gauche" | [Léchi](./Léchi.md), [Léchi fongique](./Léchi fongique.md)
+| CLASS="gauche" | [[Léchi]], [[Léchi fongique]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #34
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Leshy, Gourd
-| CLASS="gauche" | [Léchi](./Léchi.md), [Calebasse](./Calebasse.md)
+| CLASS="gauche" | [[Léchi]], [[Calebasse]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Leshy, Leaf
-| CLASS="gauche" | [Léchi](./Léchi.md), [Léchi de feuilles](./Léchi de feuilles.md)
+| CLASS="gauche" | [[Léchi]], [[Léchi de feuilles]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Leshy, Seaweed
-| CLASS="gauche" | [Léchi](./Léchi.md), [Léchi d'algues](./Léchi dalgues.md)
+| CLASS="gauche" | [[Léchi]], [[Léchi dalgues|Léchi d'algues]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Leucrotta
-| CLASS="gauche" | [Leucrotta](./Leucrotta.md)
+| CLASS="gauche" | [[Leucrotta]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #32 / PF #17 (3E)
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Lich
-| CLASS="gauche" | [Liche](./Liche.md)
+| CLASS="gauche" | [[Liche]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Lich shade
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #28
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Linnorm
-| CLASS="gauche" | [Linnorms](./Linnorms.md)
+| CLASS="gauche" | [[Linnorms]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Linnorm, Cairn
-| CLASS="gauche" | [Linnorms](./Linnorms.md), [Linnorm des cairns](./Linnorm des cairns.md)
+| CLASS="gauche" | [[Linnorms]], [[Linnorm des cairns]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Linnorm, Crag
-| CLASS="gauche" | [Linnorms](./Linnorms.md), [Linnorm des falaises](./Linnorm des falaises.md)
+| CLASS="gauche" | [[Linnorms]], [[Linnorm des falaises]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Linnorm, Fjord
-| CLASS="gauche" | [Linnorms](./Linnorms.md), [Linnorm des fjords](./Linnorm des fjords.md)
+| CLASS="gauche" | [[Linnorms]], [[Linnorm des fjords]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Linnorm, Ice
-| CLASS="gauche" | [Linnorms](./Linnorms.md), [Linnorm des glaces](./Linnorm des glaces.md)
+| CLASS="gauche" | [[Linnorms]], [[Linnorm des glaces]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Linnorm, Taiga
-| CLASS="gauche" | [Linnorms](./Linnorms.md), [Linnorm de la taïga](./Linnorm de la taïga.md)
+| CLASS="gauche" | [[Linnorms]], [[Linnorm de la taïga]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 19
 |-
 | CLASS="gauche" | Linnorm, Tarn
-| CLASS="gauche" | [Linnorms](./Linnorms.md), [Linnorm des lacs](./Linnorm des lacs.md)
+| CLASS="gauche" | [[Linnorms]], [[Linnorm des lacs]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Linnorm, Tor
-| CLASS="gauche" | [Linnorms](./Linnorms.md), [Linnorm de roche](./Linnorm de roche.md)
+| CLASS="gauche" | [[Linnorms]], [[Linnorm de roche]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 21
 |-
 | CLASS="gauche" | Lion
-| CLASS="gauche" | [Lion](./Lion.md)
+| CLASS="gauche" | [[Lion]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Lion, Dire (Spotted Lion)
-| CLASS="gauche" | [Lion](./Lion.md), [Lion sanguinaire](./Lion sanguinaire.md) (ou Lion Tacheté)
+| CLASS="gauche" | [[Lion]], [[Lion sanguinaire]] (ou Lion Tacheté)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Living Topiary
-| CLASS="gauche" | [Topiaire vivant](./Topiaire vivant.md) (ou Sculpture végétale vivante)
+| CLASS="gauche" | [[Topiaire vivant]] (ou Sculpture végétale vivante)
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Living Wall
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Lizard, Giant Chameleon
-| CLASS="gauche" | [Lézard](./Lézard.md), [Caméléon géant](./Caméléon géant.md) (ou Mimeosaurus)
+| CLASS="gauche" | [[Lézard]], [[Caméléon géant]] (ou Mimeosaurus)
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Lizard, Giant Frilled
-| CLASS="gauche" | [Lézard](./Lézard.md), [Lézard à collerette géant](./Lézard à collerette géant.md)
+| CLASS="gauche" | [[Lézard]], [[Lézard à collerette géant]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Lizard, Giant Gecko
-| CLASS="gauche" | [Lézard](./Lézard.md), [Gecko géant](./Gecko géant.md)
+| CLASS="gauche" | [[Lézard]], [[Gecko géant]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Lizard, Monitor
-| CLASS="gauche" | [Lézard](./Lézard.md), [Varan](./Varan.md)
+| CLASS="gauche" | [[Lézard]], [[Varan]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Lizardfolk
-| CLASS="gauche" | [Homme-lézard](./Homme-lézard.md)
+| CLASS="gauche" | [[Homme-lézard]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Locathah
-| CLASS="gauche" | [Locathah](./Locathah.md)
+| CLASS="gauche" | [[Locathah]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Locust, Giant
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Locust Swarm
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Lorelei
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Lukwata
-| CLASS="gauche" | [Lukwata](./Lukwata.md)
+| CLASS="gauche" | [[Lukwata]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #41
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Lunarma
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Lurker in Light
-| CLASS="gauche" | [Habitant de la lumière](./Habitantdelalumiere.md)
+| CLASS="gauche" | [[Habitantdelalumiere|Habitant de la lumière]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / The Great Beyond (3E)
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Lurking Ray, Executioner's Hood
-| CLASS="gauche" | [Raie des profondeurs](./Raie des profondeurs.md), [Capuche du bourreau](./capuche du bourreau.md)
+| CLASS="gauche" | [[Raie des profondeurs]], [[Capuche du bourreau]]
 | Path
 | CLASS="gauche" | Bestiary 4 / Misfit Monsters Redeemed
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Lurking Ray, Lurker Above
-| CLASS="gauche" | [Raie des profondeurs](./Raie des profondeurs.md), [Traqueur du dessus](./traqueur du dessus.md)
+| CLASS="gauche" | [[Raie des profondeurs]], [[Traqueur du dessus]]
 | Path
 | CLASS="gauche" | Bestiary 4 / Misfit Monsters Redeemed
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Lurking Ray, Trapper
-| CLASS="gauche" | [Raie des profondeurs](./Raie des profondeurs.md), [Piégeuse](./piégeuse.md)
+| CLASS="gauche" | [[Raie des profondeurs]], [[Piégeuse]]
 | Path
 | CLASS="gauche" | Bestiary 4 / Misfit Monsters Redeemed
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Lycanthrope, Werebat
-| CLASS="gauche" | [Lycanthrope](./Lycanthrope, archétype.md), [Chauve-souris garou](./Chauve-souris garou.md)
+| CLASS="gauche" | [[Lycanthrope, archétype|Lycanthrope]], [[Chauve-souris garou]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Lycanthrope, Werebear
-| CLASS="gauche" | [Lycanthrope](./Lycanthrope, archétype.md), [Ours-garou](./Ours-garou.md)
+| CLASS="gauche" | [[Lycanthrope, archétype|Lycanthrope]], [[Ours-garou]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Lycanthrope, Wereboar
-| CLASS="gauche" | [Lycanthrope](./Lycanthrope, archétype.md), [Sanglier-garou](./Sanglier-garou.md)
+| CLASS="gauche" | [[Lycanthrope, archétype|Lycanthrope]], [[Sanglier-garou]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Lycanthrope, Werecrocodile
-| CLASS="gauche" | [Lycanthrope](./Lycanthrope, archétype.md), [Crocodile garou](./Crocodile garou.md)
+| CLASS="gauche" | [[Lycanthrope, archétype|Lycanthrope]], [[Crocodile garou]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Lycanthrope, Wererat
-| CLASS="gauche" | [Lycanthrope](./Lycanthrope, archétype.md), [Rat-Garou](./Rat-garou.md)
+| CLASS="gauche" | [[Lycanthrope, archétype|Lycanthrope]], [[Rat-Garou]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Lycanthrope, Wereshark
-| CLASS="gauche" | [Lycanthrope](./Lycanthrope, archétype.md), [Requin garou](./Requin garou.md)
+| CLASS="gauche" | [[Lycanthrope, archétype|Lycanthrope]], [[Requin garou]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Lycanthrope, Weretiger
-| CLASS="gauche" | [Lycanthrope](./Lycanthrope, archétype.md), [Tigre-garou](./Tigre-garou.md)
+| CLASS="gauche" | [[Lycanthrope, archétype|Lycanthrope]], [[Tigre-garou]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Lycanthrope, Werewolf
-| CLASS="gauche" | [Lycanthrope](./Lycanthrope, archétype.md), [Loup-Garou](./Loup-garou.md)
+| CLASS="gauche" | [[Lycanthrope, archétype|Lycanthrope]], [[Loup-Garou]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
@@ -5283,67 +5283,67 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Maenad
-| CLASS="gauche" | [Ménade](./Ménade.md)
+| CLASS="gauche" | [[Ménade]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Maftet
-| CLASS="gauche" | [Maftet](./Maftet.md)
+| CLASS="gauche" | [[Maftet]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #15 (3E)
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Maggot, Giant
-| CLASS="gauche" | Parasite, [Asticot géant](./Asticot géant.md)
+| CLASS="gauche" | Parasite, [[Asticot géant]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #08 (3E)
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Magma Ooze
-| CLASS="gauche" | Vase, [Vase de magma](./Vase de magma.md)
+| CLASS="gauche" | Vase, [[Vase de magma]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Magmin
-| CLASS="gauche" | [Magmatique](./Magmatique.md)
+| CLASS="gauche" | [[Magmatique]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Manananggal
-| CLASS="gauche" | [Manananggal](./Manananggal.md)
+| CLASS="gauche" | [[Manananggal]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Mandragora
-| CLASS="gauche" | [Mandragore](./Mandragore.md)
+| CLASS="gauche" | [[Mandragore]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #17 (3E)
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Manitou
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Manticore
-| CLASS="gauche" | [Manticore](./Manticore.md)
+| CLASS="gauche" | [[Manticore]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Mantis, Giant
-| CLASS="gauche" | [Mante géante](./Mante géante.md)
+| CLASS="gauche" | [[Mante géante]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Marsupial, Kangaroo
-| CLASS="gauche" | Marsupial, [Kangourou](./Kangourou.md)
+| CLASS="gauche" | Marsupial, [[Kangourou]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,5
@@ -5355,61 +5355,61 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Marsupial, Thylacine
-| CLASS="gauche" | Marsupial, [Thylacine](./Thylacine.md)
+| CLASS="gauche" | Marsupial, [[Thylacine]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF#31
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Medusa
-| CLASS="gauche" | [Méduse](./Méduse.md)
+| CLASS="gauche" | [[Méduse]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Megafauna, Arsinoitherium
-| CLASS="gauche" | Animal gigantesque (Mégafaune), [Arsinoithérium](./Arsinoithérium.md)
+| CLASS="gauche" | Animal gigantesque (Mégafaune), [[Arsinoithérium]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Megafauna, Archelon
-| CLASS="gauche" | Animal gigantesque (Mégafaune), [Archelon](./Archelon.md)
+| CLASS="gauche" | Animal gigantesque (Mégafaune), [[Archelon]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Megafauna, Baluchitherium
-| CLASS="gauche" | Animal gigantesque (Mégafaune), [Baluchithérium](./Baluchithérium.md)
+| CLASS="gauche" | Animal gigantesque (Mégafaune), [[Baluchithérium]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Megafauna, Basilosaurus
-| CLASS="gauche" | Animal gigantesque (Mégafaune), [Basilosaure](./Basilosaure.md)
+| CLASS="gauche" | Animal gigantesque (Mégafaune), [[Basilosaure]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Megafauna, Gylptodon
-| CLASS="gauche" | Animal gigantesque (Mégafaune), [Glyptodonte](./Glyptodonte.md)
+| CLASS="gauche" | Animal gigantesque (Mégafaune), [[Glyptodonte]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Megafauna, Megalania
-| CLASS="gauche" | Animal gigantesque (Mégafaune), [Mégalania](./Mégalania.md)
+| CLASS="gauche" | Animal gigantesque (Mégafaune), [[Mégalania]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Megafauna, Megaloceros
-| CLASS="gauche" | Animal gigantesque (Mégafaune), [Mégalocéros](./Mégalocéros.md)
+| CLASS="gauche" | Animal gigantesque (Mégafaune), [[Mégalocéros]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF#31
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Megafauna, Megatherium
-| CLASS="gauche" | Animal gigantesque (Mégafaune), [Mégathérium](./Mégathérium.md)
+| CLASS="gauche" | Animal gigantesque (Mégafaune), [[Mégathérium]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
@@ -5421,187 +5421,187 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Mephit
-| CLASS="gauche" | [Méphite](./Méphite.md)
+| CLASS="gauche" | [[Méphite]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Mephit, Air (Air)
-| CLASS="gauche" | [Méphite](./Méphite.md) de l'Air (Air)
+| CLASS="gauche" | [[Méphite]] de l'Air (Air)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Mephit, Dust (Air)
-| CLASS="gauche" | [Méphite](./Méphite.md) de la poussière (Air)
+| CLASS="gauche" | [[Méphite]] de la poussière (Air)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Mephit, Earth (Earth)
-| CLASS="gauche" | [Méphite](./Méphite.md) de la Terre (Terre)
+| CLASS="gauche" | [[Méphite]] de la Terre (Terre)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Mephit, Fire (Fire)
-| CLASS="gauche" | [Méphite](./Méphite.md) du Feu (Feu)
+| CLASS="gauche" | [[Méphite]] du Feu (Feu)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Mephit, Ice (Cold)
-| CLASS="gauche" | [Méphite](./Méphite.md) de la glace (Froid)
+| CLASS="gauche" | [[Méphite]] de la glace (Froid)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Mephit, Magma (Fire)
-| CLASS="gauche" | [Méphite](./Méphite.md) du Magma (Feu)
+| CLASS="gauche" | [[Méphite]] du Magma (Feu)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Mephit, Ooze (Water)
-| CLASS="gauche" | [Méphite](./Méphite.md) de la vase (Eau)
+| CLASS="gauche" | [[Méphite]] de la vase (Eau)
 | Path
 | CLASS="gauche" | Bestiary
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Mephit, Salt (Earth)
-| CLASS="gauche" | [Méphite](./Méphite.md) du Sel (Terre)
+| CLASS="gauche" | [[Méphite]] du Sel (Terre)
 | Path
 | CLASS="gauche" | Bestiary
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Mephit, Steam (Fire)
-| CLASS="gauche" | [Méphite](./Méphite.md) de la vapeur (Feu)
+| CLASS="gauche" | [[Méphite]] de la vapeur (Feu)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Mephit, Water (Water)
-| CLASS="gauche" | [Méphite](./Méphite.md) de l'Eau (Eau)
+| CLASS="gauche" | [[Méphite]] de l'Eau (Eau)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Mercane
-| CLASS="gauche" | [Mercane](./Mercane.md)
+| CLASS="gauche" | [[Mercane]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Merfolk
-| CLASS="gauche" | [Homme-Poisson](./Homme-poisson.md)
+| CLASS="gauche" | [[Homme-Poisson]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Merrow
-| CLASS="gauche" | [Merrow](./Merrow.md)
+| CLASS="gauche" | [[Merrow]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Merrow, Saltwater
-| CLASS="gauche" | [Merrow](./Merrow.md), [d'eau de mer](./Merrow.md)
+| CLASS="gauche" | [[Merrow]], [[Merrow|d'eau de mer]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Mi-Go
-| CLASS="gauche" | [Mi-Go](./Mi-go.md)
+| CLASS="gauche" | [[Mi-Go]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Miengu
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #22
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Mimic
-| CLASS="gauche" | [Mimique](./Mimique.md)
+| CLASS="gauche" | [[Mimique]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Mindslaver Mold
-| CLASS="gauche" | [Moisissure esclavagiste](./Moisissure esclavagiste.md)
+| CLASS="gauche" | [[Moisissure esclavagiste]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Minotaur
-| CLASS="gauche" | [Minotaure](./Minotaure.md)
+| CLASS="gauche" | [[Minotaure]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Mihstu
-| CLASS="gauche" | [Mihstu](./Mihstu.md)
+| CLASS="gauche" | [[Mihstu]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Mite
-| CLASS="gauche" | [Mite](./Mite.md) (ou Xvart, Xivort, Svart)
+| CLASS="gauche" | [[Mite]] (ou Xvart, Xivort, Svart)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Mobogo
-| CLASS="gauche" | [Mobogo](./Mobogo.md)
+| CLASS="gauche" | [[Mobogo]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #12 (3E)
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Mohrg
-| CLASS="gauche" | [Mohrg](./Mohrg.md)
+| CLASS="gauche" | [[Mohrg]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Mokele-Mbembe
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #39
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Mongrelman
-| CLASS="gauche" | [Bâtard](./Bâtard.md)
+| CLASS="gauche" | [[Bâtard]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Moon Beast
-| CLASS="gauche" | [Bête lunaire](./Bête lunaire.md)
+| CLASS="gauche" | [[Bête lunaire]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Moonflower
-| CLASS="gauche" | [Fleur de lune](./Fleur de lune.md)
+| CLASS="gauche" | [[Fleur de lune]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #14 (3E)
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Morlock
-| CLASS="gauche" | [Morlock](./Morlock.md)
+| CLASS="gauche" | [[Morlock]]
 | Path
 | CLASS="gauche" | Bestiaire 1 / Into the Darklands (3E)
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Mosquito, Giant
-| CLASS="gauche" | [Moustique géant](./Moustique géant.md)
+| CLASS="gauche" | [[Moustique géant]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Mosquito Swarm
-| CLASS="gauche" | Nuée, [de moustiques](./Nuée de moustiques.md)
+| CLASS="gauche" | Nuée, [[Nuée de moustiques|de moustiques]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / W3 Flight of the Red Raven River into Darkness (3E)
 | CLASS="gauche" | 3
@@ -5613,157 +5613,157 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Mothman
-| CLASS="gauche" | [Homme-Phalène](./Homme-phalène.md)
+| CLASS="gauche" | [[Homme-Phalène]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #16 (3E)
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Mu Spore
-| CLASS="gauche" | [Spore de mu](./Spore de mu.md)
+| CLASS="gauche" | [[Spore de mu]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 21
 |-
 | CLASS="gauche" | Mudman
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #33
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Mudlord
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Mummified Creature
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Mummified Creature, Mummified Gynosphinx
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Mummy
-| CLASS="gauche" | [Momie](./Momie.md)
+| CLASS="gauche" | [[Momie]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Mummy, Osirion
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | J1 Entombed with the Pharaohs
 | CLASS="gauche" | T +1
 |-
 | CLASS="gauche" | Myceloid
-| CLASS="gauche" | [Mycéloïde](./Mycéloïde.md)
+| CLASS="gauche" | [[Mycéloïde]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Myrmecoleon
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 10 / MR 3
 |-
 | CLASS="gauche" | Naga, Dark
-| CLASS="gauche" | Naga, [Naga ténébreux](./Naga ténébreux.md)
+| CLASS="gauche" | Naga, [[Naga ténébreux]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Naga, Guardian
-| CLASS="gauche" | Naga, [Naga Gardien](./Naga gardien.md)
+| CLASS="gauche" | Naga, [[Naga Gardien]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Naga, Lunar
-| CLASS="gauche" | Naga, [Naga lunaire](./Naga lunaire.md)
+| CLASS="gauche" | Naga, [[Naga lunaire]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Naga, Royal
-| CLASS="gauche" | Naga, [Naga royal](./Naga royal.md)
+| CLASS="gauche" | Naga, [[Naga royal]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF#27
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Naga, Spirit
-| CLASS="gauche" | Naga, [Naga corrupteur](./naga corrupteur.md)
+| CLASS="gauche" | Naga, [[Naga corrupteur]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Naga, Water
-| CLASS="gauche" | Naga, [Naga aquatique](./Naga aquatique.md)
+| CLASS="gauche" | Naga, [[Naga aquatique]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Bestiary Supplement
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Nagaji
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Necrocraft
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Necrophidius
-| CLASS="gauche" | [Nécrophidius](./Nécrophidius.md)
+| CLASS="gauche" | [[Nécrophidius]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Necropyre
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | E2 Blood of Dragonscar
 | CLASS="gauche" | T +0
 |-
 | CLASS="gauche" | Neh-Thalggu
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Neothelid
-| CLASS="gauche" | [Néothélide](./Néothélide.md)
+| CLASS="gauche" | [[Néothélide]]
 | Path
 | CLASS="gauche" | Bestiaire 1 / Into the Darklands (3E)
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Nependis
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Nephilim
-| CLASS="gauche" | [Néphilim](./Néphilim.md)
+| CLASS="gauche" | [[Néphilim]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #23 (3E)
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Nereid
-| CLASS="gauche" | [Néréide](./Néréide.md)
+| CLASS="gauche" | [[Néréide]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Night Hag
-| CLASS="gauche" | Guenaude, [Guenaude noire](./Guenaude noire.md)
+| CLASS="gauche" | Guenaude, [[Guenaude noire]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
@@ -5775,19 +5775,19 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Nightgaunt
-| CLASS="gauche" | [Échalas sombre](./Échalas-sombre.md) (ou Maigre bête de la Nuit)
+| CLASS="gauche" | [[Échalas sombre]] (ou Maigre bête de la Nuit)
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Nightmare
-| CLASS="gauche" | [Destrier noir](./Destrier noir.md)
+| CLASS="gauche" | [[Destrier noir]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Nightmare, Cauchemar
-| CLASS="gauche" | [Destrier noir](./Destrier noir.md), [Cauchemar](./Cauchemar.md)
+| CLASS="gauche" | [[Destrier noir]], [[Cauchemar]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 11
@@ -5799,67 +5799,67 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Nightmare Creature
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Nightmare Creature, Nightmare Ettercap
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Nightshade, Nightcrawler
-| CLASS="gauche" | [Ténébreux](./Ténébreux.md), [Rampant ténébreux](./Rampant ténébreux.md)
+| CLASS="gauche" | [[Ténébreux]], [[Rampant ténébreux]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Nightshade, Nightwalker
-| CLASS="gauche" | [Ténébreux](./Ténébreux.md), [Marcheur ténébreux](./Marcheur ténébreux.md)
+| CLASS="gauche" | [[Ténébreux]], [[Marcheur ténébreux]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Nightshade, Nightwave
-| CLASS="gauche" | [Ténébreux](./Ténébreux.md), [Vague ténébreuse](./Vague ténébreuse.md)
+| CLASS="gauche" | [[Ténébreux]], [[Vague ténébreuse]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Nightshade, Nightwing
-| CLASS="gauche" | [Ténébreux](./Ténébreux.md), [ailé ténébreux](./Ailé ténébreux.md)
+| CLASS="gauche" | [[Ténébreux]], [[ailé ténébreux]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Nihiloi
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#29
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Ningyo
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4 / PF #37
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Ningyo, Undead
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Nixie
-| CLASS="gauche" | [Nixe](./Nixe.md)
+| CLASS="gauche" | [[Nixe]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Bestiary Supplement
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Norn
-| CLASS="gauche" | [Norne](./Norne.md)
+| CLASS="gauche" | [[Norne]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 18
@@ -5871,361 +5871,361 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | T+2
 |-
 | CLASS="gauche" | Nuckelavee
-| CLASS="gauche" | [Nuckelavee](./Nuckelavee.md)
+| CLASS="gauche" | [[Nuckelavee]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #34
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Nue
-| CLASS="gauche" | [Nue](./Nue.md)
+| CLASS="gauche" | [[Nue]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Nycar
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Nymph
-| CLASS="gauche" | [Nymphe](./Nymphe.md)
+| CLASS="gauche" | [[Nymphe]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Obambo
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #40
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Oceanid
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Ochre Jelly
-| CLASS="gauche" | [Gelée ocre](./Gelée ocre.md)
+| CLASS="gauche" | [[Gelée ocre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Octopus
-| CLASS="gauche" | [Pieuvre](./Pieuvre.md)
+| CLASS="gauche" | [[Pieuvre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Octopus, Giant
-| CLASS="gauche" | [Pieuvre](./Pieuvre.md), [Pieuvre géante](./Pieuvre géante.md)
+| CLASS="gauche" | [[Pieuvre]], [[Pieuvre géante]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Ogrekin (Half-Ogre)
-| CLASS="gauche" | [Ogrelin](./Ogrelin.md)
+| CLASS="gauche" | [[Ogrelin]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #03 (3E)
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Ogre
-| CLASS="gauche" | [Ogre](./Ogre.md)
+| CLASS="gauche" | [[Ogre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Oma
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Oni
-| CLASS="gauche" | [Oni](./Oni.md)
+| CLASS="gauche" | [[Oni]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Oni, Fire Yai
-| CLASS="gauche" | [Oni](./Oni.md), [Yai du feu](./Yai du feu.md)
+| CLASS="gauche" | [[Oni]], [[Yai du feu]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Oni, Ice Yai
-| CLASS="gauche" | [Oni](./Oni.md), [Yai de glace](./Yai de glace.md)
+| CLASS="gauche" | [[Oni]], [[Yai de glace]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Oni, Kuwa
-| CLASS="gauche" | [Oni](./Oni.md), [Kuwa](./Kuwa.md)
+| CLASS="gauche" | [[Oni]], [[Kuwa]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Oni, Ogre Mage
-| CLASS="gauche" | [Oni](./Oni.md), [Ogre mage](./Ogre mage.md)
+| CLASS="gauche" | [[Oni]], [[Ogre mage]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Oni, Spirit
-| CLASS="gauche" | [Oni](./Oni.md), [Esprit oni](./Esprit Oni.md)
+| CLASS="gauche" | [[Oni]], [[Esprit oni]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Oni, Void Yai
-| CLASS="gauche" | [Oni](./Oni.md), [Yai du vide](./Yai du vide.md)
+| CLASS="gauche" | [[Oni]], [[Yai du vide]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Oni, Water Yai
-| CLASS="gauche" | [Oni](./Oni.md), [Yai de l'eau](./Yai de leau.md)
+| CLASS="gauche" | [[Oni]], [[Yai de leau|Yai de l'eau]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Orc
-| CLASS="gauche" | [Orque](./Orque.md)
+| CLASS="gauche" | [[Orque]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Oread
-| CLASS="gauche" | [Oréade](./Oréade.md)
+| CLASS="gauche" | [[Oréade]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Otyugh
-| CLASS="gauche" | [Otyugh](./Otyugh.md)
+| CLASS="gauche" | [[Otyugh]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Owb
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Owl, Giant
-| CLASS="gauche" | [Chouette](./Chouette.md), [Chouette géante](./Chouette géante.md)
+| CLASS="gauche" | [[Chouette]], [[Chouette géante]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Owl, Great Horned
-| CLASS="gauche" | [Chouette](./Chouette.md), [Grand-duc](./Grand-duc.md)
+| CLASS="gauche" | [[Chouette]], [[Grand-duc]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Owl, Horned
-| CLASS="gauche" | [Chouette](./Chouette.md), [Hibou](./Grand-duc.md)
+| CLASS="gauche" | [[Chouette]], [[Grand-duc|Hibou]]
 | Path
 | CLASS="gauche" | Advanced Bestiary
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Owlbear
-| CLASS="gauche" | [Ours-hibou](./Ours-hibou.md)
+| CLASS="gauche" | [[Ours-hibou]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Painted Creation
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | U1 Gallery of Evil
 | CLASS="gauche" | T+1 à +8
 |-
 | CLASS="gauche" | Pale stranger
-| CLASS="gauche" | [Étranger blafard](./Étranger blafard.md)
+| CLASS="gauche" | [[Étranger blafard]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Parasite, Rot Grub Swarm
-| CLASS="gauche" | Parasite, [Asticots, nuée](./nuée dasticots.md)
+| CLASS="gauche" | Parasite, [[nuée dasticots|Asticots, nuée]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #25
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Parasite, Giant Rot Grub
-| CLASS="gauche" | Parasite, [Asticot géant](./Asticot géant.md)
+| CLASS="gauche" | Parasite, [[Asticot géant]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #25
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Pard
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Pech
-| CLASS="gauche" | [Pech](./Pech.md)
+| CLASS="gauche" | [[Pech]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Pegasus
-| CLASS="gauche" | [Pégase](./Pégase.md)
+| CLASS="gauche" | [[Pégase]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Peluda
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4 / PF #33
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Penanggalen
-| CLASS="gauche" | [Penanggalan](./Penanggalan.md)
+| CLASS="gauche" | [[Penanggalan]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Peri
-| CLASS="gauche" | [Péri](./Péri.md)
+| CLASS="gauche" | [[Péri]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Personification of Fury
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #38
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Peryton
-| CLASS="gauche" | [Péryton](./Péryton.md)
+| CLASS="gauche" | [[Péryton]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #19 (3E)
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Petitioner
-| CLASS="gauche" | [Pétitionnaire](./Pétitionnaire, archétype.md), [Pétitionnaire humain](./Pétitionnaire humain.md)
+| CLASS="gauche" | [[Pétitionnaire, archétype|Pétitionnaire]], [[Pétitionnaire humain]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Phantom Armor
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Phantom Armor, Giant
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Phantom Fungus
-| CLASS="gauche" | [Champignon fantôme](./Champignon fantôme.md)
+| CLASS="gauche" | [[Champignon fantôme]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Phase Spider
-| CLASS="gauche" | Araignée, [Araignée de phase](./Araignée de phase.md)
+| CLASS="gauche" | Araignée, [[Araignée de phase]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Phoenix
-| CLASS="gauche" | [Phoenix](./Phoenix.md)
+| CLASS="gauche" | [[Phoenix]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Phycomid
-| CLASS="gauche" | [Phycomide](./Phycomide.md)
+| CLASS="gauche" | [[Phycomide]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Pickled Punk
-| CLASS="gauche" | [Foetus en bocal](./Foetus en bocal.md)
+| CLASS="gauche" | [[Foetus en bocal]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Pipefox
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Piranha Swarm
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #39
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Piranha Swarm, Megapiranha
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #39
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Pixie
-| CLASS="gauche" | [Pixie](./Pixie.md)
+| CLASS="gauche" | [[Pixie]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Plasma Ooze
-| CLASS="gauche" | Vase, [Vase de plasma](./Vase de plasma.md)
+| CLASS="gauche" | Vase, [[Vase de plasma]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Poltergeist
-| CLASS="gauche" | [Poltergeist](./Poltergeist.md)
+| CLASS="gauche" | [[Poltergeist]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Pooka
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Popobala
-| CLASS="gauche" | [Popobala](./Popobala.md)
+| CLASS="gauche" | [[Popobala]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #40
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Porcupine
-| CLASS="gauche" | [Porc-épic](./Porc-épic.md)
+| CLASS="gauche" | [[Porc-épic]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Porcupine, Giant
-| CLASS="gauche" | [Porc-épic](./Porc-épic.md), [Porc-épic géant](./Porc-épic géant.md)
+| CLASS="gauche" | [[Porc-épic]], [[Porc-épic géant]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Primate, Baboon
-| CLASS="gauche" | Primate, [Babouin](./Babouin.md)
+| CLASS="gauche" | Primate, [[Babouin]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Primate, Monkey Swarm
-| CLASS="gauche" | Primate, Nuée [de singes](./Nuée de singes.md)
+| CLASS="gauche" | Primate, Nuée [[Nuée de singes|de singes]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
@@ -6237,157 +6237,157 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Protean, Imentesh
-| CLASS="gauche" | [Protéen](./Protéen.md), [Imentesh](./Imentesh.md)
+| CLASS="gauche" | [[Protéen]], [[Imentesh]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #22 (3E)
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Protean, Keketar
-| CLASS="gauche" | [Protéen](./Protéen.md), [Kékétar](./Kékétar.md)
+| CLASS="gauche" | [[Protéen]], [[Kékétar]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / The Great Beyond (3E)
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Protean, Naunet
-| CLASS="gauche" | [Protéen](./Protéen.md), [Naunet](./Naunet.md)
+| CLASS="gauche" | [[Protéen]], [[Naunet]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #22 (3E)
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Protean, Voidworm
-| CLASS="gauche" | [Protéen](./Protéen.md), [Ver du néant](./Ver du néant.md)
+| CLASS="gauche" | [[Protéen]], [[Ver du néant]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Pseudodragon
-| CLASS="gauche" | [Pseudo-dragon](./Pseudo-dragon.md)
+| CLASS="gauche" | [[Pseudo-dragon]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Psychopomp
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Psychopomp, Catrina
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Psychopomp, Morrigna
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Psychopomp, Nosoi
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Psychopomp, Vanth
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Psychopomp, Yamaraj
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Pterosaur, Dimorphodon
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Pterosaur, Quetzalcoatlus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Pterosaur, Rhamphorhynchus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 0.3
 |-
 | CLASS="gauche" | Pukwudgie
-| CLASS="gauche" | [Pukwudgie](./Pukwudgie.md)
+| CLASS="gauche" | [[Pukwudgie]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Purple Worm
-| CLASS="gauche" | [Ver pourpre](./Ver pourpre.md)
+| CLASS="gauche" | [[Ver pourpre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Qallupilluk
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Qlippoth, Augnagar
-| CLASS="gauche" | [Qlippoth](./Qlippoth.md), [Augnagar](./augnagar.md)
+| CLASS="gauche" | [[Qlippoth]], [[Augnagar]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Qlippoth, Chernobue
-| CLASS="gauche" | [Qlippoth](./Qlippoth.md), [Chernobue](./Chernobue.md)
+| CLASS="gauche" | [[Qlippoth]], [[Chernobue]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Qlippoth, Cythnigot
-| CLASS="gauche" | [Qlippoth](./Qlippoth.md), [Cythnigot](./Cythnigot.md)
+| CLASS="gauche" | [[Qlippoth]], [[Cythnigot]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Qlippoth, Iathavos
-| CLASS="gauche" | [Qlippoth](./Qlippoth.md), [Iathavos](./Iathavos.md)
+| CLASS="gauche" | [[Qlippoth]], [[Iathavos]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Qlippoth, Nyogoth
-| CLASS="gauche" | [Qlippoth](./Qlippoth.md), [Nyogoth](./Nyogoth.md)
+| CLASS="gauche" | [[Qlippoth]], [[Nyogoth]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Qlippoth, Shoggti
-| CLASS="gauche" | [Qlippoth](./Qlippoth.md), [Shoggti](./Shoggti.md)
+| CLASS="gauche" | [[Qlippoth]], [[Shoggti]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Qlippoth, Thulgant
-| CLASS="gauche" | [Qlippoth](./Qlippoth.md), [Thulgant](./Thulgant.md)
+| CLASS="gauche" | [[Qlippoth]], [[Thulgant]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Quickling
-| CLASS="gauche" | [Viflin](./Viflin.md)
+| CLASS="gauche" | [[Viflin]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #32
 | CLASS="gauche" | 3 (6 dans PF#32)
 |-
 | CLASS="gauche" | Quickwood
-| CLASS="gauche" | [Boisvivant](./Boisvivant.md)
+| CLASS="gauche" | [[Boisvivant]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
@@ -6399,97 +6399,97 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Rakshasa
-| CLASS="gauche" | [Rakshasa](./Rakshasa B3.md), [Rakshasa](./Rakshasa.md)
+| CLASS="gauche" | [[Rakshasa B3|Rakshasa]], [[Rakshasa]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Rakshasa, Dandasuka
-| CLASS="gauche" | [Rakshasa](./Rakshasa B3.md), [Dandasuka](./Dandasuka.md)
+| CLASS="gauche" | [[Rakshasa B3|Rakshasa]], [[Dandasuka]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Rakshasa, Maharaja
-| CLASS="gauche" | [Rakshasa](./Rakshasa B3.md), [Maharadjah](./Maharadjah.md)
+| CLASS="gauche" | [[Rakshasa B3|Rakshasa]], [[Maharadjah]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #09 (3E)
 | CLASS="gauche" | 20 (18 en 3E)
 |-
 | CLASS="gauche" | Rakshasa, Marai
-| CLASS="gauche" | [Rakshasa](./Rakshasa B3.md), [Maraï](./Maraï.md)
+| CLASS="gauche" | [[Rakshasa B3|Rakshasa]], [[Maraï]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Rakshasa, Raktavarna
-| CLASS="gauche" | [Rakshasa](./Rakshasa B3.md), [Raktavarna](./Raktavarna.md)
+| CLASS="gauche" | [[Rakshasa B3|Rakshasa]], [[Raktavarna]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #07 (3E)
 | CLASS="gauche" | 2 (3 en 3E)
 |-
 | CLASS="gauche" | Rakshasa, Tataka
-| CLASS="gauche" | [Rakshasa](./Rakshasa B3.md), [Tataka](./Tataka.md)
+| CLASS="gauche" | [[Rakshasa B3|Rakshasa]], [[Tataka]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Rast
-| CLASS="gauche" | [Rast](./Rast.md)
+| CLASS="gauche" | [[Rast]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Rat, Dire
-| CLASS="gauche" | Rat, [Rat sanguinaire](./Rat sanguinaire.md)
+| CLASS="gauche" | Rat, [[Rat sanguinaire]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Rat King
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Rat Swarm
-| CLASS="gauche" | Nuée, [de rats](./Nuée de rats.md)
+| CLASS="gauche" | Nuée, [[Nuée de rats|de rats]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Ratfolk
-| CLASS="gauche" | [Homme-rat](./Homme-rat.md) (ou Skaven, Nezumi, Ysoki)
+| CLASS="gauche" | [[Homme-rat]] (ou Skaven, Nezumi, Ysoki)
 | Path
 | CLASS="gauche" | Bestiaire 3 / Manuel des plans et des mondes lointains
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Ratling
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Raven swarm
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #33
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Ravener
-| CLASS="gauche" | [Dévoreur draconique](./Dévoreur draconique, archétype.md), [Dévoreur draconique Dracosire rouge](./Dévoreur draconique Dracosire rouge.md)  (ou Dracoliche)
+| CLASS="gauche" | [[Dévoreur draconique, archétype|Dévoreur draconique]], [[Dévoreur draconique Dracosire rouge]]  (ou Dracoliche)
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 22
 |-
 | CLASS="gauche" | Ray, Manta
-| CLASS="gauche" | Raie, [Raie manta](./Raie manta.md)
+| CLASS="gauche" | Raie, [[Raie manta]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Ray, Stingray
-| CLASS="gauche" | Raie, [Raie à aiguillon](./Raie à aiguillon.md)
+| CLASS="gauche" | Raie, [[Raie à aiguillon]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
@@ -6501,67 +6501,67 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Redcap
-| CLASS="gauche" | [Chapeau rouge](./Chapeau rouge.md)
+| CLASS="gauche" | [[Chapeau rouge]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #29 / PF #04 (3E)
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Reefclaw
-| CLASS="gauche" | [Griffe du récif](./Griffe du récif.md)
+| CLASS="gauche" | [[Griffe du récif]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #07 (3E)
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Remorhaz
-| CLASS="gauche" | [Rémorhaz](./Rémorhaz.md)
+| CLASS="gauche" | [[Rémorhaz]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Retriever
-| CLASS="gauche" | [Horreur chasseresse](./Horreur chasseresse.md)
+| CLASS="gauche" | [[Horreur chasseresse]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Revenant
-| CLASS="gauche" | [Revenant](./Revenant.md)
+| CLASS="gauche" | [[Revenant]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #02 (3E)
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Rhinoceros
-| CLASS="gauche" | [Rhinocéros](./Rhinocéros.md)
+| CLASS="gauche" | [[Rhinocéros]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Rhinoceros,  Woolly
-| CLASS="gauche" | [Rhinocéros](./Rhinocéros.md), [Rhinocéros laineux](./Rhinocéros laineux.md)
+| CLASS="gauche" | [[Rhinocéros]], [[Rhinocéros laineux]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Roc
-| CLASS="gauche" | [Roc](./Roc.md)
+| CLASS="gauche" | [[Roc]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Rokurokubi
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Roper
-| CLASS="gauche" | [Enlaceur](./Enlaceur.md)
+| CLASS="gauche" | [[Enlaceur]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Rorkoun
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#32
 | CLASS="gauche" | 6
@@ -6573,19 +6573,19 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Rukh
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4 / PF #21 (3E)
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Rukh, Juvenile
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Rune Guardian
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Godsmouth Heresy
 | CLASS="gauche" | 1
@@ -6597,61 +6597,61 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | T+0
 |-
 | CLASS="gauche" | Rusalka
-| CLASS="gauche" | [Roussalka](./Roussalka.md)
+| CLASS="gauche" | [[Roussalka]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Rust Monster
-| CLASS="gauche" | [Oxydeur](./Oxydeur.md)
+| CLASS="gauche" | [[Oxydeur]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Sabosan
-| CLASS="gauche" | [Sabosan](./Sabosan.md)
+| CLASS="gauche" | [[Sabosan]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #40
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Sagari
-| CLASS="gauche" | [Sagari](./Sagari.md)
+| CLASS="gauche" | [[Sagari]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Saguaroi
-| CLASS="gauche" | [Saguaroi](./Saguaroi.md)
+| CLASS="gauche" | [[Saguaroi]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Sahuagin
-| CLASS="gauche" | [Sahuagin](./Sahuagin.md)
+| CLASS="gauche" | [[Sahuagin]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Salamander
-| CLASS="gauche" | [Salamandre](./Salamandre.md)
+| CLASS="gauche" | [[Salamandre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Samsaran
-| CLASS="gauche" | [Samsaran](./Samsaran.md)
+| CLASS="gauche" | [[Samsaran]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Sand Eel
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | Guide to Katapesh (Dark Markets)
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Sandman
-| CLASS="gauche" | [Marchand de sable](./Marchand de sable.md)
+| CLASS="gauche" | [[Marchand de sable]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
@@ -6663,31 +6663,31 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Sard
-| CLASS="gauche" | [Sard](./Sard.md)
+| CLASS="gauche" | [[Sard]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 19
 |-
 | CLASS="gauche" | Sargassum Fiend
-| CLASS="gauche" | [Fiélon sargasse](./Fiélon sargasse.md)
+| CLASS="gauche" | [[Fiélon sargasse]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Sasquatch
-| CLASS="gauche" | [Sasquatch](./Sasquatch.md)
+| CLASS="gauche" | [[Sasquatch]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Satyr
-| CLASS="gauche" | [Satyre](./Satyre.md)
+| CLASS="gauche" | [[Satyre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Sayona
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 12
@@ -6699,325 +6699,325 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Scarecrow
-| CLASS="gauche" | [Épouvantail](./Épouvantail.md)
+| CLASS="gauche" | [[Épouvantail]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #32
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Sceaduinar
-| CLASS="gauche" | [Scéaduinar](./Scéaduinar.md)
+| CLASS="gauche" | [[Scéaduinar]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Scorpion, Black
-| CLASS="gauche" | Scorpion,[Scorpion noir](./Scorpion noir.md)
+| CLASS="gauche" | Scorpion,[[Scorpion noir]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Scorpion, Cave
-| CLASS="gauche" | Scorpion, [Scorpion des cavernes](./Scorpion des cavernes.md)
+| CLASS="gauche" | Scorpion, [[Scorpion des cavernes]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Scorpion, Deadfall
-| CLASS="gauche" | Scorpion, [Scorpion piégeur](./Scorpion piégeur.md)
+| CLASS="gauche" | Scorpion, [[Scorpion piégeur]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Scorpion, Ghost
-| CLASS="gauche" | Scorpion, [Scorpion fantomatique](./Scorpion fantomatique.md)
+| CLASS="gauche" | Scorpion, [[Scorpion fantomatique]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Scorpion, Giant
-| CLASS="gauche" | Scorpion, [Scorpion géant](./Scorpion géant.md)
+| CLASS="gauche" | Scorpion, [[Scorpion géant]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Scorpion, Giant Emperor
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Scorpion, Greesting
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Scylla
-| CLASS="gauche" | [Scylla](./Scylla.md)
+| CLASS="gauche" | [[Scylla]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Scythe tree
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #32
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Sea Anemone, Giant
-| CLASS="gauche" | [Anémone de mer géante](./Anémone de mer géante.md)
+| CLASS="gauche" | [[Anémone de mer géante]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Sea Bonze
-| CLASS="gauche" | [Bonze des mers](./Bonze des mers.md)
+| CLASS="gauche" | [[Bonze des mers]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Sea Cat
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Sea Hag
-| CLASS="gauche" | Guenaude, [Guenaude marine](./Guenaude marine.md)
+| CLASS="gauche" | Guenaude, [[Guenaude marine]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Sea Serpent
-| CLASS="gauche" | [Serpent de mer](./Serpent de mer.md)
+| CLASS="gauche" | [[Serpent de mer]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Sea Serpent, Deep
-| CLASS="gauche" | [Serpent de mer](./Serpent de mer.md), [Serpent des Profondeurs](./Serpent des profondeurs.md)
+| CLASS="gauche" | [[Serpent de mer]], [[Serpent des Profondeurs]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 19
 |-
 | CLASS="gauche" | Sea Urchin Giant, Glass Urchin
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Sea Urchin Giant, Hunter Urchin
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Sea Urchin Giant, Spear Urchin
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Sea-Sworn
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | LB2 Treasure of Chimera Cove
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Seahorse, Giant
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Seahorse, Killer
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Seaweed Siren
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Selkie
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Seps
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Seps, Juvenile
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Serpentfolk
-| CLASS="gauche" | [Homme-serpent](./Homme-serpent.md)
+| CLASS="gauche" | [[Homme-serpent]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / Into the Darklands (3E)
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Seugathi
-| CLASS="gauche" | [Seugathi](./Seugathi.md)
+| CLASS="gauche" | [[Seugathi]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / Into the Darklands (3E)
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Shadow
-| CLASS="gauche" | [Ombre](./Ombre.md)
+| CLASS="gauche" | [[Ombre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Shadow, Greater
-| CLASS="gauche" | [Ombre](./Ombre.md), [Ombre supérieure](./Ombre supérieure.md)
+| CLASS="gauche" | [[Ombre]], [[Ombre supérieure]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Shadow Creature
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Shadow Creature, Shadow Roper
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Shadow Mastiff
-| CLASS="gauche" | [Dogue d’ombre](./Dogue dombre.md) (ou [Mastiff de l'ombre](./Mastiff de lombre.md))
+| CLASS="gauche" | [[Dogue dombre|Dogue d’ombre]] (ou [[Mastiff de lombre|Mastiff de l'ombre]])
 | Path
 | CLASS="gauche" | Bestiaire 2 / Bestiary 3 / Bestiary Supplement
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Shadow Rat Swarm
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #29
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Shadowgarm
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #25
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Shadowy Lurker
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | U1 Gallery of Evil
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Shae
-| CLASS="gauche" | [Shaé](./Shaé.md)
+| CLASS="gauche" | [[Shaé]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Shambling Mound
-| CLASS="gauche" | [Tertre errant](./Tertre errant.md)
+| CLASS="gauche" | [[Tertre errant]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Shantak
-| CLASS="gauche" | [Shantak](./Shantak.md)
+| CLASS="gauche" | [[Shantak]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Shard Slag
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Shark
-| CLASS="gauche" | [Requin](./Requin.md)
+| CLASS="gauche" | [[Requin]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Shark, Bull
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Shark, Dire (Megalodon)
-| CLASS="gauche" | [Requin](./Requin.md), [Requin sanguinaire](./Requin sanguinaire.md) (ou Mégalodon)
+| CLASS="gauche" | [[Requin]], [[Requin sanguinaire]] (ou Mégalodon)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Shark, Great White
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Shedu
-| CLASS="gauche" | [Shedu](./Shedu.md)
+| CLASS="gauche" | [[Shedu]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Shinigami
-| CLASS="gauche" | [Shinigami](./Shinigami.md)
+| CLASS="gauche" | [[Shinigami]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Shining Child (of Thassilon)
-| CLASS="gauche" | [Enfant lumineux](./Enfant lumineux.md) (de Thassilon)
+| CLASS="gauche" | [[Enfant lumineux]] (de Thassilon)
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #04 (3E)
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Shobhad
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Shocker Lizard
-| CLASS="gauche" | [Lézard](./Lézard.md), [Lézard voltaïque](./Lézard voltaïque.md)
+| CLASS="gauche" | [[Lézard]], [[Lézard voltaïque]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Shoggoth
-| CLASS="gauche" | [Shoggoth](./Shoggoth.md)
+| CLASS="gauche" | [[Shoggoth]]
 | Path
 | CLASS="gauche" | Bestiaire 1/J3 Crucible of Chaos (3E)
 | CLASS="gauche" | 19 (15 en 3E)
 |-
 | CLASS="gauche" | Shredskin
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Shriezyx
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Shulsaga
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
@@ -7029,25 +7029,25 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Simurgh
-| CLASS="gauche" | [Simurgh](./Simurgh.md)
+| CLASS="gauche" | [[Simurgh]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #24 (3E)
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Sinspawn
-| CLASS="gauche" | [Rejeton du péché](./Rejeton du péché.md)
+| CLASS="gauche" | [[Rejeton du péché]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #01 (3E)
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Siren
-| CLASS="gauche" | [Sirène](./Sirène.md)
+| CLASS="gauche" | [[Sirène]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #14
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Siyokoy
-| CLASS="gauche" | [Siyokoy](./Siyokoy.md)
+| CLASS="gauche" | [[Siyokoy]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 10
@@ -7059,31 +7059,31 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Skeletal Champion
-| CLASS="gauche" | [Champion squelette](./Champion squelette, archétype.md), Exemple [Champion squelette humain](./Squelette,-champion.md)
+| CLASS="gauche" | [[Champion squelette, archétype|Champion squelette]], Exemple [[Squelette, champion|Champion squelette humain]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Skeleton
-| CLASS="gauche" | [Squelette](./Squelette, archétype.md), Exemple [Squelette humain](./Squelette humain.md)
+| CLASS="gauche" | [[Squelette, archétype|Squelette]], Exemple [[Squelette humain]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | T 0,16 à 8
 |-
 | CLASS="gauche" | Skinstitch
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Skrik Nettle
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #36
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Skulk
-| CLASS="gauche" | [Skulk](./Skulk.md)
+| CLASS="gauche" | [[Skulk]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
@@ -7095,49 +7095,49 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Skum (Ulat-Kini)
-| CLASS="gauche" | [Skum](./Skum.md) (ou Ulat-kini)
+| CLASS="gauche" | [[Skum]] (ou Ulat-kini)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Skunk
-| CLASS="gauche" | [Moufette](./Moufette.md)
+| CLASS="gauche" | [[Moufette]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Skunk, Giant
-| CLASS="gauche" | [Moufette](./Moufette.md), [Moufette géante](./Moufette géante.md)
+| CLASS="gauche" | [[Moufette]], [[Moufette géante]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Sleipnir
-| CLASS="gauche" | [Sleipnir](./Sleipnir.md)
+| CLASS="gauche" | [[Sleipnir]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Slime Mold
-| CLASS="gauche" | Moisissure, [Moisissure vaseuse](./Moisissure vaseuse.md)
+| CLASS="gauche" | Moisissure, [[Moisissure vaseuse]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Slithering Tracker
-| CLASS="gauche" | [Traqueur gluant](./Traqueur gluant.md)
+| CLASS="gauche" | [[Traqueur gluant]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Slug, Giant
-| CLASS="gauche" | [Limace géante](./Limace géante.md)
+| CLASS="gauche" | [[Limace géante]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Slurk
-| CLASS="gauche" | [Slurk](./Slurk.md)
+| CLASS="gauche" | [[Slurk]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #31 / D1 Crown of the Kobold King (3E)
 | CLASS="gauche" | 2
@@ -7149,289 +7149,289 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Snake, Constrictor
-| CLASS="gauche" | Serpent, [Serpent constricteur](./Serpent constricteur.md)
+| CLASS="gauche" | Serpent, [[Serpent constricteur]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Snake, Emperor Cobra
-| CLASS="gauche" | Serpent, [Cobra impérial](./Cobra impérial.md)
+| CLASS="gauche" | Serpent, [[Cobra impérial]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Snake, Giant Anaconda
-| CLASS="gauche" | Serpent, [Anaconda géant](./Anaconda géant.md)
+| CLASS="gauche" | Serpent, [[Anaconda géant]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Snake, Venomous
-| CLASS="gauche" | Serpent, [Serpent venimeux](./Serpent venimeux.md)
+| CLASS="gauche" | Serpent, [[Serpent venimeux]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Snake Swarm
-| CLASS="gauche" | Nuée, [de serpents](./Nuée de serpents.md)
+| CLASS="gauche" | Nuée, [[Nuée de serpents|de serpents]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #39
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Snake Swarm, Venomous
-| CLASS="gauche" | Nuée, [de Serpents venimeux](./Nuée de serpents venimeux.md)
+| CLASS="gauche" | Nuée, [[Nuée de serpents venimeux|de Serpents venimeux]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #39
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Snallygaster
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Snowdrifter
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | W3 Flight of the Red Raven
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Solifugid, Giant
-| CLASS="gauche" | Solifuge, [Solifuge géant](./Solifuge géant.md)
+| CLASS="gauche" | Solifuge, [[Solifuge géant]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Solifugid, Albino Cave
-| CLASS="gauche" | Solifuge, [Solifuge albinos des cavernes](./Solifuge albinos des cavernes.md)
+| CLASS="gauche" | Solifuge, [[Solifuge albinos des cavernes]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Son of Perdition
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | D3 The Demon Within
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Soul Eater
-| CLASS="gauche" | [Dévoreur d'âmes](./Dévoreur dâmes.md)
+| CLASS="gauche" | [[Dévoreur dâmes|Dévoreur d'âmes]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #33
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Soulbound Doll
-| CLASS="gauche" | [Poupée des âmes](./Poupée des âmes.md)
+| CLASS="gauche" | [[Poupée des âmes]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Soulbound Mannequin
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Soulbound Shell
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Soulsliver
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Spartolos
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#28
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Spawn of Yog-Sothoth
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4 / Carrion Hill
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Spectre
-| CLASS="gauche" | [Spectre](./Spectre.md)
+| CLASS="gauche" | [[Spectre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Sphinx
-| CLASS="gauche" | [Sphinx](./../Golarion/Sphinx.md)
+| CLASS="gauche" | [[Sphinx]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Sphinx, Androsphinx
-| CLASS="gauche" | [Sphinx](./../Golarion/Sphinx.md), [Androsphinx](./Androsphinx.md)
+| CLASS="gauche" | [[Sphinx]], [[Androsphinx]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Sphinx, Criosphinx
-| CLASS="gauche" | [Sphinx](./../Golarion/Sphinx.md), [Criosphinx](./Criosphinx.md)
+| CLASS="gauche" | [[Sphinx]], [[Criosphinx]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Sphinx, Gynosphinx
-| CLASS="gauche" | [Sphinx](./../Golarion/Sphinx.md), [Gynosphinx](./gynosphinx.md)
+| CLASS="gauche" | [[Sphinx]], [[Gynosphinx]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Sphinx, Hieracosphinx
-| CLASS="gauche" | [Sphinx](./../Golarion/Sphinx.md), [Hiéracosphinx](./Hiéracosphinx.md)
+| CLASS="gauche" | [[Sphinx]], [[Hiéracosphinx]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Spider, Giant
-| CLASS="gauche" | Araignée, [Araignée géante](./Araignée géante.md)
+| CLASS="gauche" | Araignée, [[Araignée géante]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Spider, Giant Black Widow
-| CLASS="gauche" | Araignée, [Veuve noire géante](./Veuve noire géante.md)
+| CLASS="gauche" | Araignée, [[Veuve noire géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Spider, Giant Crab
-| CLASS="gauche" | Araignée, [Araignée crabe géante](./Araignée crabe géante.md)
+| CLASS="gauche" | Araignée, [[Araignée crabe géante]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Spider, Giant Tarantula
-| CLASS="gauche" | Araignée, [Tarentule géante](./Tarentule géante.md)
+| CLASS="gauche" | Araignée, [[Tarentule géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Spider, Goliath
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Spider, Leng Spider
-| CLASS="gauche" | Araignée, [Araignée de Leng](./Araignée de Leng.md)
+| CLASS="gauche" | Araignée, [[Araignée de Leng]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Spider, Ogre
-| CLASS="gauche" | Araignée, [Araignée ogre](./Araignée ogre.md)
+| CLASS="gauche" | Araignée, [[Araignée ogre]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Spider, Scarlet
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Spider eater
-| CLASS="gauche" | [Dévoreur d'araignées](./Dévoreur daraignées.md)
+| CLASS="gauche" | [[Dévoreur daraignées|Dévoreur d'araignées]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Spriggan
-| CLASS="gauche" | [Spriggan](./Spriggan.md)
+| CLASS="gauche" | [[Spriggan]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #33
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Spring-Heeled Jack
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Sprite
-| CLASS="gauche" | [Esprit follet](./Esprit follet.md)
+| CLASS="gauche" | [[Esprit follet]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Squid
-| CLASS="gauche" | [Calmar](./Calmar.md)
+| CLASS="gauche" | [[Calmar]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Squid, Giant
-| CLASS="gauche" | [Calmar](./Calmar.md), [Calmar géant](./Calmar géant.md)
+| CLASS="gauche" | [[Calmar]], [[Calmar géant]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Star-Spawn of Cthulhu
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Stymphalidies
-| CLASS="gauche" | [Stymphalide](./Stymphalide.md)
+| CLASS="gauche" | [[Stymphalide]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #26 (Giant)
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Stymphalides, Swarm
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #26
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Stirge
-| CLASS="gauche" | [Strige](./Strige.md)
+| CLASS="gauche" | [[Strige]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Strix
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #25
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Stygira
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #33
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Suli (ou Suli-janni)
-| CLASS="gauche" | [Suli](./Suli.md) (ou Suli-jann)
+| CLASS="gauche" | [[Suli]] (ou Suli-jann)
 | Path
 | CLASS="gauche" | Bestiaire 3 / Qadira, Gateway to the East
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Sunlord Thalachos
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #20
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Svartalfar
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Svirfneblin
-| CLASS="gauche" | [Svirfneblin](./Svirfneblin.md)
+| CLASS="gauche" | [[Svirfneblin]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
@@ -7443,121 +7443,121 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Swan, Trumpeter
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Swan Maiden
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Sylph
-| CLASS="gauche" | [Sylphe](./Sylphe.md)
+| CLASS="gauche" | [[Sylphe]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Taniniver
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Tanuki
-| CLASS="gauche" | [Tanuki](./Tanuki.md)
+| CLASS="gauche" | [[Tanuki]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Taotieh
-| CLASS="gauche" | [Taotieh](./Taotieh.md)
+| CLASS="gauche" | [[Taotieh]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Tarrasque
-| CLASS="gauche" | [Tarasque](./Tarasque.md)
+| CLASS="gauche" | [[Tarasque]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 25
 |-
 | CLASS="gauche" | Tatzlwyrm
-| CLASS="gauche" | [Tatzlwyrm](./Tatzlwyrm.md) (ou Guivre)
+| CLASS="gauche" | [[Tatzlwyrm]] (ou Guivre)
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF#31 / D0 Hollow's Last Hope (3E)
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Tear of Nuruu'gal
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Lost Cities of Golarion
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Template, Advanced
-| CLASS="gauche" | [Archétypes](./Archétypes.md), [Créature Évoluée](./Archétypes-ashx.md#CREATUREEVOLUEE)
+| CLASS="gauche" | [[Archétypes]], [[Archétypes.ashx#CREATUREEVOLUEE|Créature Évoluée]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | T +1
 |-
 | CLASS="gauche" | Template, Celestial
-| CLASS="gauche" | [Archétypes](./Archétypes.md), [Créature Céleste](./Archétypes-ashx.md#CREATURECELESTE)
+| CLASS="gauche" | [[Archétypes]], [[Archétypes.ashx#CREATURECELESTE|Créature Céleste]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | T +0 à +1
 |-
 | CLASS="gauche" | Template, Fiendish
-| CLASS="gauche" | [Archétypes](./Archétypes.md), [Créature Fiélon](./Archétypes-ashx.md#CREATUREFIELON)
+| CLASS="gauche" | [[Archétypes]], [[Archétypes.ashx#CREATUREFIELON|Créature Fiélon]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | T +0 à +1
 |-
 | CLASS="gauche" | Template, Giant
-| CLASS="gauche" | [Archétypes](./Archétypes.md), [Créature Géante](./Archétypes-ashx.md#CREATUREGEANTE)
+| CLASS="gauche" | [[Archétypes]], [[Archétypes.ashx#CREATUREGEANTE|Créature Géante]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | T +1
 |-
 | CLASS="gauche" | Template, Young
-| CLASS="gauche" | [Archétypes](./Archétypes.md), [Créature Jeune](./Archétypes-ashx.md#CREATUREJEUNE)
+| CLASS="gauche" | [[Archétypes]], [[Archétypes.ashx#CREATUREJEUNE|Créature Jeune]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | T -1
 |-
 | CLASS="gauche" | Tendriculos
-| CLASS="gauche" | [Tendricule](./Tendricule.md)
+| CLASS="gauche" | [[Tendricule]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #32
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Tenebrous Worm
-| CLASS="gauche" | [Ver ténébreux](./Ver ténébreux.md)
+| CLASS="gauche" | [[Ver ténébreux]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Tengu
-| CLASS="gauche" | [Tengu](./Tengu.md)
+| CLASS="gauche" | [[Tengu]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Tentamort
-| CLASS="gauche" | [Tentamort](./Tentamort.md)
+| CLASS="gauche" | [[Tentamort]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Terra-Cotta soldier
-| CLASS="gauche" | [Soldat de terre cuite](./Soldat de terre cuite.md)
+| CLASS="gauche" | [[Soldat de terre cuite]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Terror Creature
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | City of Golden Death
 | CLASS="gauche" | T +0
@@ -7569,205 +7569,205 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Thawn
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#31
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | The Grim White Stag
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#32
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Thoqqua
-| CLASS="gauche" | [Thoqqua](./Thoqqua.md)
+| CLASS="gauche" | [[Thoqqua]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Thrasfyr
-| CLASS="gauche" | [Thrasfyr](./Thrasfyr.md)
+| CLASS="gauche" | [[Thrasfyr]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Thriae
-| CLASS="gauche" | [Thriae](./Thriae.md)
+| CLASS="gauche" | [[Thriae]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | -
 |-
 | CLASS="gauche" | Thriae, Queen
-| CLASS="gauche" | [Thriae](./Thriae.md), [Reine](./Reine thriae.md)
+| CLASS="gauche" | [[Thriae]], [[Reine thriae|Reine]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 18
 |-
 | CLASS="gauche" | Thriae, Seer
-| CLASS="gauche" | [Thriae](./Thriae.md), [Oracle](./Oracle thriae.md)
+| CLASS="gauche" | [[Thriae]], [[Oracle thriae|Oracle]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Thriae, Soldier
-| CLASS="gauche" | [Thriae](./Thriae.md), [Soldat](./Soldat thriae.md)
+| CLASS="gauche" | [[Thriae]], [[Soldat thriae|Soldat]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Thunderbird
-| CLASS="gauche" | [Oiseau-tonnerre](./Oiseau-tonnerre.md)
+| CLASS="gauche" | [[Oiseau-tonnerre]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 11
 |-
 | CLASS="gauche" | Tiberolith
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Tick, Giant
-| CLASS="gauche" | Tique, [Tique géante](./Tique géante.md)
+| CLASS="gauche" | Tique, [[Tique géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #31
 | CLASS="gauche" | 1 (3 dans PF #31)
 |-
 | CLASS="gauche" | Tick, Swarm
-| CLASS="gauche" | Tique, Nuée [de tiques](./Nuée de tiques.md)
+| CLASS="gauche" | Tique, Nuée [[Nuée de tiques|de tiques]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Tiefling
-| CLASS="gauche" | [Tieffelin](./Tieffelin.md)
+| CLASS="gauche" | [[Tieffelin]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Tiger
-| CLASS="gauche" | [Tigre](./Tigre.md)
+| CLASS="gauche" | [[Tigre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Tiger, Dire (Smilodon)
-| CLASS="gauche" | [Tigre](./Tigre.md), [Tigre sanguinaire](./Tigre sanguinaire.md) (ou Smilodon)
+| CLASS="gauche" | [[Tigre]], [[Tigre sanguinaire]] (ou Smilodon)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Tikbalang
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Tikoloshe
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #40
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Titan, Elysian
-| CLASS="gauche" | Titan, [Titan de l’Élysée](./Titan de lÉlysée.md)
+| CLASS="gauche" | Titan, [[Titan de lÉlysée|Titan de l’Élysée]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 21
 |-
 | CLASS="gauche" | Titan, Fomorian
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 22 / MR 8
 |-
 | CLASS="gauche" | Titan, Hekatonkheires
-| CLASS="gauche" | Titan, [Hécatonchire](./Titan hécatonchire.md)
+| CLASS="gauche" | Titan, [[Titan hécatonchire|Hécatonchire]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 24
 |-
 | CLASS="gauche" | Titan, Thanatotic
-| CLASS="gauche" | Titan, [Titan thanatotique](./Titan thanatotique.md)
+| CLASS="gauche" | Titan, [[Titan thanatotique]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 22
 |-
 | CLASS="gauche" | Toad, Giant
-| CLASS="gauche" | [Crapaud](./Crapaud.md), [Crapaud géant](./Crapaud géant.md)
+| CLASS="gauche" | [[Crapaud]], [[Crapaud géant]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Toad, Glacier
-| CLASS="gauche" | [Crapaud](./Crapaud.md), [Crapaud des glaciers](./Crapaud des glaciers.md)
+| CLASS="gauche" | [[Crapaud]], [[Crapaud des glaciers]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Tobongo (ou Mwangi treant)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Heart of the Jungle
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Tojanida
-| CLASS="gauche" | [Tojanida](./Tojanida.md)
+| CLASS="gauche" | [[Tojanida]]
 | Path
 | CLASS="gauche" | Bestiaire 3/ Misfit Monsters Redeemed
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Tongue of Rebuke (Guardians of Dragonfall)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | J2 Guardians of Dragonfall
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Tooth Fairy
-| CLASS="gauche" | [Lutin des dents](./Lutin des dents.md)
+| CLASS="gauche" | [[Lutin des dents]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Tophet
-| CLASS="gauche" | [Tophet](./Tophet.md)
+| CLASS="gauche" | [[Tophet]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF #21 (3E
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Torble swarm
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #25
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Torble
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #25
 | CLASS="gauche" | 0,13
 |-
 | CLASS="gauche" | Tortoise, Giant
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Tortoise, Immense
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Totenmaske
-| CLASS="gauche" | [Totenmaske](./Totenmaske.md)
+| CLASS="gauche" | [[Totenmaske]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #03 (3E)
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Treant
-| CLASS="gauche" | [Sylvanien](./Sylvanien.md)
+| CLASS="gauche" | [[Sylvanien]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 8
@@ -7779,571 +7779,571 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 25
 |-
 | CLASS="gauche" | Tribal Totem
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #39
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Triton
-| CLASS="gauche" | [Triton](./Triton.md)
+| CLASS="gauche" | [[Triton]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Troglodyte
-| CLASS="gauche" | [Troglodyte](./Troglodyte.md)
+| CLASS="gauche" | [[Troglodyte]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Troll
-| CLASS="gauche" | [Troll](./Troll.md)
+| CLASS="gauche" | [[Troll]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Troll, Ice
-| CLASS="gauche" | [Troll](./Troll.md), [Troll des glaces](./Troll des glaces.md)
+| CLASS="gauche" | [[Troll]], [[Troll des glaces]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Troll, Jotund
-| CLASS="gauche" | [Troll](./Troll.md), [Troll jötun](./Troll jötun.md)
+| CLASS="gauche" | [[Troll]], [[Troll jötun]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Troll, Moss
-| CLASS="gauche" | [Troll](./Troll.md), [Troll de mousse](./Troll de mousse.md)
+| CLASS="gauche" | [[Troll]], [[Troll de mousse]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Troll, Rock
-| CLASS="gauche" | [Troll](./Troll.md), [Troll de pierre](./Troll de pierre.md)
+| CLASS="gauche" | [[Troll]], [[Troll de pierre]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #32
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Troll, Two-headed
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #32
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Trollhound
-| CLASS="gauche" | [Trollosse](./Trollosse.md)
+| CLASS="gauche" | [[Trollosse]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / PF#32
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Trox
-| CLASS="gauche" | [Trox](./Trox.md)
+| CLASS="gauche" | [[Trox]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1 (2 - erreur)
 |-
 | CLASS="gauche" | Tunche
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Tupilaq
-| CLASS="gauche" | [Tupilaq](./Tupilaq.md)
+| CLASS="gauche" | [[Tupilaq]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Turtle, Snapping
-| CLASS="gauche" | [Tortue](./Tortue.md), [Tortue happante](./Tortue happante.md)
+| CLASS="gauche" | [[Tortue]], [[Tortue happante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,3
 |-
 | CLASS="gauche" | Turtle, Giant Snapping
-| CLASS="gauche" | [Tortue](./Tortue.md), [Tortue happante géante](./Tortue happante géante.md)
+| CLASS="gauche" | [[Tortue]], [[Tortue happante géante]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Tuyewera
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #37
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Twigjack
-| CLASS="gauche" | [Homme-brindille](./Homme-brindille.md)
+| CLASS="gauche" | [[Homme-brindille]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Tyrant Jelly
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 9 / MR 3
 |-
 | CLASS="gauche" | Tzitzimitl
-| CLASS="gauche" | [Tzitzimitl](./Tzitzimitl.md)
+| CLASS="gauche" | [[Tzitzimitl]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 19
 |-
 | CLASS="gauche" | Udaeus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4 / MR 1
 |-
 | CLASS="gauche" | Umasi
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #39
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Umbral Dragon
-| CLASS="gauche" | [Dragon ombrageux](./Dragon Umbral.md) (ou Dragon umbral)
+| CLASS="gauche" | [[Dragon umbral|Dragon ombrageux]] (ou Dragon umbral)
 | 3E
 | CLASS="gauche" | PF #11
 | CLASS="gauche" | 3 à 25
 |-
 | CLASS="gauche" | Umdhlebi
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #41
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Unchosen Gnoll
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #20
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Undine
-| CLASS="gauche" | [Ondin](./Ondin.md)
+| CLASS="gauche" | [[Ondin]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Unicorn
-| CLASS="gauche" | [Licorne](./Licorne.md)
+| CLASS="gauche" | [[Licorne]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Urdefhan
-| CLASS="gauche" | [Urdefhan](./Urdefhan.md)
+| CLASS="gauche" | [[Urdefhan]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / Into the Darklands (3E)
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Valkyrie
-| CLASS="gauche" | [Valkyrie](./Valkyrie.md)
+| CLASS="gauche" | [[Valkyrie]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Vampire
-| CLASS="gauche" | [Vampire](./Vampire, archétype.md), Exemple [Vampire humain](./Vampire.md)
+| CLASS="gauche" | [[Vampire, archétype|Vampire]], Exemple [[Vampire|Vampire humain]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | T +2
 |-
 | CLASS="gauche" | Vampire, Jiang-Shi
-| CLASS="gauche" | [Vampire](./Vampire, archétype.md), [Jiang-shi](./Jiang-shi.md)
+| CLASS="gauche" | [[Vampire, archétype|Vampire]], [[Jiang-shi]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Vampire, Nosferatu
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Vampiric Mist
-| CLASS="gauche" | [Brume vampirique](./Brume vampirique.md)
+| CLASS="gauche" | [[Brume vampirique]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Vanara
-| CLASS="gauche" | [Vanara](./Vanara.md)
+| CLASS="gauche" | [[Vanara]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Vargouille
-| CLASS="gauche" | [Vargouille](./Vargouille.md)
+| CLASS="gauche" | [[Vargouille]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Vegepygmy
-| CLASS="gauche" | [Végépygmée](./Végépygmée.md)
+| CLASS="gauche" | [[Végépygmée]]
 | Path
 | CLASS="gauche" | Bestiary / Into the Darklands (3E)
 | CLASS="gauche" | 0,5 (2 en 3E)
 |-
 | CLASS="gauche" | Vemerak
-| CLASS="gauche" | [Vémérak](./Vémérak.md)
+| CLASS="gauche" | [[Vémérak]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / Into the Darklands (3E)
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Verdurous ooze
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #35
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Violet Fungus
-| CLASS="gauche" | [Fongoïde violet](./Fongoïde violet.md)
+| CLASS="gauche" | [[Fongoïde violet]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Viper Vine
-| CLASS="gauche" | Liane, [Liane-serpent](./Liane-serpent.md)
+| CLASS="gauche" | Liane, [[Liane-serpent]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Vireseed Swarm
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF #39
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Vishkanya
-| CLASS="gauche" | [Vishkanya](./Vishkanya.md)
+| CLASS="gauche" | [[Vishkanya]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Vodyanoi
-| CLASS="gauche" | [Vodyanoi](./Vodyanoi.md)
+| CLASS="gauche" | [[Vodyanoi]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Voonith
-| CLASS="gauche" | [Voonith](./Voonith.md)
+| CLASS="gauche" | [[Voonith]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Vouivre
-| CLASS="gauche" | [Gouivre](./Gouivre.md)
+| CLASS="gauche" | [[Gouivre]]
 | Path
 | CLASS="gauche" | Bestiary 4 / PF #30
 | CLASS="gauche" | 12
 |-
 | CLASS="gauche" | Vrikolakas
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | PF#29
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Vulture
-| CLASS="gauche" | [Vautour](./Vautour.md)
+| CLASS="gauche" | [[Vautour]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Vulture, Giant
-| CLASS="gauche" | [Vautour](./Vautour.md), [Vautour géant](./Vautour géant.md) (ou Argentavis)
+| CLASS="gauche" | [[Vautour]], [[Vautour géant]] (ou Argentavis)
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Walrus
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Walrus, Emperor
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Warsworn
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4 / PF #35
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Wasp, Giant
-| CLASS="gauche" | Guêpe, [Guêpe géante](./Guêpe géante.md)
+| CLASS="gauche" | Guêpe, [[Guêpe géante]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Wasp, Wasp Swarm
-| CLASS="gauche" | Guêpe, Nuée [de guêpes](./Nuée de guêpes.md)
+| CLASS="gauche" | Guêpe, Nuée [[Nuée de guêpes|de guêpes]]
 | Path
 | CLASS="gauche" | Bestiary
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Water Orm
-| CLASS="gauche" | [Orm aquatique](./Orm aquatique.md)
+| CLASS="gauche" | [[Orm aquatique]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Water Strider, Giant
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Water Strider, Nymph
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Wayang
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Weasel, Dire
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Weasel, Giant
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Weedwhip
-| CLASS="gauche" | [Plante flagelleuse](./Plante flagelleuse.md)
+| CLASS="gauche" | [[Plante flagelleuse]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Wendigo
-| CLASS="gauche" | [Wendigo](./Wendigo.md)
+| CLASS="gauche" | [[Wendigo]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #06 (3E)
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Whale
-| CLASS="gauche" | [Baleine](./Baleine.md)
+| CLASS="gauche" | [[Baleine]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 10
 |-
 | CLASS="gauche" | Whale, Great White
-| CLASS="gauche" | [Baleine](./Baleine.md), [Grande baleine blanche](./Grande baleine blanche.md)
+| CLASS="gauche" | [[Baleine]], [[Grande baleine blanche]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Wickerman
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 13
 |-
 | CLASS="gauche" | Wight
-| CLASS="gauche" | [Nécrophage](./Nécrophage.md)
+| CLASS="gauche" | [[Nécrophage]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Wikkawak
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Will-o'-Wisp
-| CLASS="gauche" | [Feu-follet](./Feu-follet.md)
+| CLASS="gauche" | [[Feu-follet]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Wings of Protection (Guardians of Dragonfall)
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | J2 Guardians of Dragonfall
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Winter Hag
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Winterwight
-| CLASS="gauche" | [Nécrophage](./Nécrophage.md), [Nécrophage des glaces](./Nécrophage des glaces.md)
+| CLASS="gauche" | [[Nécrophage]], [[Nécrophage des glaces]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 17
 |-
 | CLASS="gauche" | Witchfire
-| CLASS="gauche" | [Sorcière de feu](./Sorcière de feu.md)
+| CLASS="gauche" | [[Sorcière de feu]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #05 (3E)
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Witchwyrd
-| CLASS="gauche" | [Sorcewyrd](./Sorcewyrd.md)
+| CLASS="gauche" | [[Sorcewyrd]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #14 (3E)
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Wolf-in-Sheep's-Clothing
-| CLASS="gauche" | [Pipeau](./Pipeau.md)
+| CLASS="gauche" | [[Pipeau]]
 | Path
 | CLASS="gauche" | Bestiaire 3 / Misfit Monsters Redeemed
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Wolf
-| CLASS="gauche" | [Loup](./Loup.md)
+| CLASS="gauche" | [[Loup]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Wolf, Dire
-| CLASS="gauche" | [Loup](./Loup.md), [Loup sanguinaire](./Loup sanguinaire.md) (ou Canis dirus)
+| CLASS="gauche" | [[Loup]], [[Loup sanguinaire]] (ou Canis dirus)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Wolverine
-| CLASS="gauche" | [Glouton](./Glouton.md)
+| CLASS="gauche" | [[Glouton]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Wolverine, Dire
-| CLASS="gauche" | [Glouton](./Glouton.md), [Glouton sanguinaire](./Glouton sanguinaire.md) (ou Palaeonictis)
+| CLASS="gauche" | [[Glouton]], [[Glouton sanguinaire]] (ou Palaeonictis)
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Wooden Protector
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | TC1 Into the Haunted Forest
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Worg
-| CLASS="gauche" | [Worg](./Worg.md)
+| CLASS="gauche" | [[Worg]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Worg, Winter Wolf
-| CLASS="gauche" | [Worg](./Worg.md), [Loup arctique](./Loup arctique.md)
+| CLASS="gauche" | [[Worg]], [[Loup arctique]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Worm That Walks
-| CLASS="gauche" | [Ver-qui-marche](./Ver-qui-marche, archétype.md), Exemple [Ver-qui-marche humain](./ver-qui-marche.md)
+| CLASS="gauche" | [[Ver-qui-marche, archétype|Ver-qui-marche]], Exemple [[Ver-qui-marche|Ver-qui-marche humain]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Wraith
-| CLASS="gauche" | [Âme-en-peine](./Âme-en-peine.md)
+| CLASS="gauche" | [[Âme-en-peine]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 5
 |-
 | CLASS="gauche" | Wyrmskull
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #22
 | CLASS="gauche" | T-2 à -5
 |-
 | CLASS="gauche" | Wyrwood
-| CLASS="gauche" | [Virebois](./Virebois.md) (ou Vilebois, Forgelier)
+| CLASS="gauche" | [[Virebois]] (ou Vilebois, Forgelier)
 | Path
 | CLASS="gauche" | Bestiary 4 / Manuel des Races
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Wyvaran
-| CLASS="gauche" | [Wivaran](./Wivaran.md) (ou Kobold ailé)
+| CLASS="gauche" | [[Wivaran]] (ou Kobold ailé)
 | Path
 | CLASS="gauche" | Bestiary 4 / Manuel des Races
 | CLASS="gauche" | 0,25
 |-
 | CLASS="gauche" | Wyvern
-| CLASS="gauche" | [Vouivre](./Vouivre.md)
+| CLASS="gauche" | [[Vouivre]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Xacarba
-| CLASS="gauche" | [Xacarba](./Xacarba.md)
+| CLASS="gauche" | [[Xacarba]]
 | Path
 | CLASS="gauche" | Bestiaire 2 / PF #18 (3E)
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Xanthos
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 14
 |-
 | CLASS="gauche" | Xenopterid
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Xill
-| CLASS="gauche" | [Xill](./Xill.md)
+| CLASS="gauche" | [[Xill]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Xorn
-| CLASS="gauche" | [Xorn](./Xorn.md)
+| CLASS="gauche" | [[Xorn]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 6
 |-
 | CLASS="gauche" | Xotani the Firebleeder
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | 3E
 | CLASS="gauche" | PF #24
 | CLASS="gauche" | 20
 |-
 | CLASS="gauche" | Xtabay
-| CLASS="gauche" | [Xtabay](./Xtabay.md)
+| CLASS="gauche" | [[Xtabay]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Yaoguai
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 7
 |-
 | CLASS="gauche" | Yellow Musk Creeper
-| CLASS="gauche" | Moisissure, [Moisissure jaune](./Moisissure jaune.md)
+| CLASS="gauche" | Moisissure, [[Moisissure jaune]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Yeth Hound
-| CLASS="gauche" | [Chien hurleur](./Chien hurleur.md)
+| CLASS="gauche" | [[Chien hurleur]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 3
@@ -8355,73 +8355,73 @@ Dans la colonne "FP", la lettre T indique un archétype (template en anglais). L
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Yeti
-| CLASS="gauche" | [Yéti](./Yéti.md)
+| CLASS="gauche" | [[Yéti]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | 4
 |-
 | CLASS="gauche" | Yithian
-| CLASS="gauche" | [Yéti](./Yéti.md)
+| CLASS="gauche" | [[Yéti]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Ypotryll
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 15
 |-
 | CLASS="gauche" | Yrthak
-| CLASS="gauche" | [Yithien](./Yithien.md)
+| CLASS="gauche" | [[Yithien]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 9
 |-
 | CLASS="gauche" | Yuki-Onna
-| CLASS="gauche" | [Yuki-onna](./Yuki-onna.md)
+| CLASS="gauche" | [[Yuki-onna]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 8
 |-
 | CLASS="gauche" | Zhyen
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Qadira, Gateway to the East
 | CLASS="gauche" | 0,5
 |-
 | CLASS="gauche" | Zombie
-| CLASS="gauche" | [Zombi](./Zombi, archétype.md), Exemple [Zombi humain](./Zombi humain.md)
+| CLASS="gauche" | [[Zombi, archétype|Zombi]], Exemple [[Zombi humain]]
 | Path
 | CLASS="gauche" | Bestiaire 1
 | CLASS="gauche" | T 0,125 à 9
 |-
 | CLASS="gauche" | Zombie, Juju
-| CLASS="gauche" | [Zombi juju](./Zombi juju, archétype.md), Exemple [Zombi juju humain](./Zombi juju humain.md)
+| CLASS="gauche" | [[Zombi juju, archétype|Zombi juju]], Exemple [[Zombi juju humain]]
 | Path
 | CLASS="gauche" | Bestiaire 2
 | CLASS="gauche" | 2
 |-
 | CLASS="gauche" | Zombie Lord
-| CLASS="gauche" | [???](./???.md)
+| CLASS="gauche" | [[???]]
 | Path
 | CLASS="gauche" | Bestiary 4
 | CLASS="gauche" | 3
 |-
 | CLASS="gauche" | Zomok
-| CLASS="gauche" | [Zomok](./Zomok.md)
+| CLASS="gauche" | [[Zomok]]
 | Path
 | CLASS="gauche" | Bestiary 4 / PF #36
 | CLASS="gauche" | 16
 |-
 | CLASS="gauche" | Zoog
-| CLASS="gauche" | [Zoog](./Zoog.md)
+| CLASS="gauche" | [[Zoog]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 1
 |-
 | CLASS="gauche" | Zuvembie
-| CLASS="gauche" | [Zouvembi](./Zouvembi.md)
+| CLASS="gauche" | [[Zouvembi]]
 | Path
 | CLASS="gauche" | Bestiaire 3
 | CLASS="gauche" | 4

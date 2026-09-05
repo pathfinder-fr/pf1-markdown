@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Assidu
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Assidu](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Assidu)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Assidu]]

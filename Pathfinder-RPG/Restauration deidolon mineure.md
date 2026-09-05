@@ -6,27 +6,27 @@ Categories:
 - Sort conjurateur 2
 ---
 
-{s:UM}**École** [Invocation](./Invocation.md) ([guérison](./guérison.md))  ; **Niveau** [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2
-**Temps d’incantation** 3 [rounds](./round.md)
-**Composantes** [V, G, M](./composantes.md) (poussière de diamant d’une valeur  de 100 po ou 1 000 po, voir texte)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+{s:UM}**École** [[Invocation]] ([[guérison]])  ; **Niveau** [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2
+**Temps d’incantation** 3 [[round|rounds]]
+**Composantes** [[Composantes|V, G, M]] (poussière de diamant d’une valeur  de 100 po ou 1 000 po, voir texte)
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** eidolon touché
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui (inoffensif)
+**Durée** [[instantanée]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui (inoffensif)
 ---
-Ce sort fonction comme *[restauration partielle](./Restauration partielle.md) * mais affecte uniquement un eidolon.
+Ce sort fonction comme *[[restauration partielle]] * mais affecte uniquement un eidolon.
 
 
 
 (((
 ## Restauration partielle
-**École** [Invocation](./Invocation.md) ([guérison](./branche guérison.md)) ; **Niveau** [Alch](./Alchimiste.md) 2, [Cham](./Chaman.md) 2, [Dru](./Druide.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 2, [Spi](./Spirite.md) 2
-**Temps d'incantation** 3 [rounds](./round.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2, [[Spirite|Spi]] 2
+**Temps d'incantation** 3 [[round|rounds]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créature touchée
-**Durée** [instantanée](./instantanée.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** [[instantanée]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort dissipe les effets magiques réduisant l’une des [caractéristiques](./Caractéristiques.md) de la cible ou permet de récupérer 1d4 points d’une [caractéristique](./caractéristique.md) [temporairement affaiblie](./affaiblissement temporaire.md). *Restauration partielle* élimine toute [fatigue](./Fatigué.md) dont est victime le sujet. Si le personnage est [épuisé](./Épuisé.md), il devient simplement [fatigué](./Fatigué.md). Le sort ne peut rien contre les [diminutions permanentes](./diminution permanente.md) de [caractéristique](./caractéristique.md).
+Ce sort dissipe les effets magiques réduisant l’une des [[caractéristiques]] de la cible ou permet de récupérer 1d4 points d’une [[caractéristique]] [[affaiblissement temporaire|temporairement affaiblie]]. *Restauration partielle* élimine toute [[fatigué|fatigue]] dont est victime le sujet. Si le personnage est [[épuisé]], il devient simplement [[fatigué]]. Le sort ne peut rien contre les [[diminution permanente|diminutions permanentes]] de [[caractéristique]].
 )))

@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-A ce jour personne n’a pu déterminer si le puits du Mobhad Leigh est sans fond. En effet, les escaliers en spirale du puits s’effondrent au bout de quelques dizaines de mètres seulement. Ceux qui ont tenté une exploration des profondeurs du puits n’en sont jamais revenus. Les [shoantis](./Shoantis.md) évitent de se rendre dans le puits qu’ils appellent « l’escalier vers l’enfer ».
+A ce jour personne n’a pu déterminer si le puits du Mobhad Leigh est sans fond. En effet, les escaliers en spirale du puits s’effondrent au bout de quelques dizaines de mètres seulement. Ceux qui ont tenté une exploration des profondeurs du puits n’en sont jamais revenus. Les [[shoantis]] évitent de se rendre dans le puits qu’ils appellent « l’escalier vers l’enfer ».

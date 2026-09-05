@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#MITHRAL
 ---
 
->>> [Matériaux spéciaux#MITHRAL](./Matériaux spéciaux.md#MITHRAL)
+>>> [[Matériaux spéciaux#MITHRAL]]

@@ -8,7 +8,7 @@ Categories:
 
 *Le personnage a des réflexes plus rapides que la normale.*
 
-**Avantage.** Le personnage bénéficie d’un bonus de +2 aux jets de [Réflexes](./Réflexes.md).
+**Avantage.** Le personnage bénéficie d’un bonus de +2 aux jets de [[Réflexes]].
 
 {s:CMy}
 ### Version mythique
@@ -16,4 +16,4 @@ Categories:
 
 **Condition.** Réflexes surhumains
 
-**Avantage.** Lorsque le personnage effectue un jet de [Réflexes](./Réflexes.md) contre un sort, ou pouvoir magique ou surnaturel provenant d’une source [non-mythique](./non-mythique.md), lancez deux fois le dé et conservez le meilleur résultat.
+**Avantage.** Lorsque le personnage effectue un jet de [[Réflexes]] contre un sort, ou pouvoir magique ou surnaturel provenant d’une source [[non-mythique]], lancez deux fois le dé et conservez le meilleur résultat.

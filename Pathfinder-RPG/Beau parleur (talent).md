@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#BEAUPARLEUR
 ---
 
->>> [Talents#BEAUPARLEUR](./Talents.md#BEAUPARLEUR)
+>>> [[Talents#BEAUPARLEUR]]

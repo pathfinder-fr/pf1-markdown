@@ -4,8 +4,8 @@ Title: Rôdeur arme et bouclier
 LastModified: 2014-08-13 02:29
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
-***Voir le [http://www.pathfinder-fr.org/Forum/yaf_postst7688_Rodeur-arme-bouclier.aspx#post298905|sujet de discussion]***</div><nav class="wiki-toc"></nav>
+<div class="fright">***Retour aux [[builds]].***</br>
+***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst7688_Rodeur-arme-bouclier.aspx#post298905)***</div><nav class="wiki-toc"></nav>
 
 *Description / présentation RP du build proposé, en italique.*
 

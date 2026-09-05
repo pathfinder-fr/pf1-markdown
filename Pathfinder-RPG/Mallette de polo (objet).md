@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pa ; **Poids** 2,5 kg
-<span class="Catégorie">**Catégorie** [Jeux](./Jeux.md)</span>
+<span class="Catégorie">**Catégorie** [[Jeux]]</span>
 ---
 Cette mallette inclut un casque en cuir, un maillet à manche long et une boule en bois.

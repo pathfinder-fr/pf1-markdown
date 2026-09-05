@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Bretteur#PANACHE
 ---
 
->>> [Bretteur#PANACHE](./Bretteur.md#PANACHE)
+>>> [[Bretteur#PANACHE]]

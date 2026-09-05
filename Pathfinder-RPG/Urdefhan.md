@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.280*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)) de taille M, NM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type natif|natif]]) de taille M, NM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}) ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 11, pris au dépourvu 15 (armure +3, Dex+1, naturelle +3)}
 {s:BDTexte|**pv** 25 (3d10+9)}
@@ -25,13 +25,13 @@ Categories:
 {s:BDTexte|**Distance** arc long composite, +4 (1d8+4/x3)}
 {s:BDTexte|**Attaques spéciales** absorption de sang (1 Con)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 3 ; concentration +5)}
-{s:BDSorts|À volonté — *[feuille morte](./Feuille morte.md)*}
-{s:BDSorts|3/jour — *[arme alignée](./Arme alignée.md)*, *[mise à mort](./Mise à mort.md)* (DD 14), *[rayon affaiblissant](./Rayon affaiblissant.md)* (DD 13)}
+{s:BDSorts|À volonté — *[[feuille morte]]*}
+{s:BDSorts|3/jour — *[[arme alignée]]*, *[[mise à mort]]* (DD 14), *[[rayon affaiblissant]]* (DD 13)}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 19, **Dex** 12, **Con** 17, **Int** 14, **Sag** 13, **Cha** 14}
 {s:BDTexte|**BBA** +3, **BMO** +7, **DMD** 18}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée rhoka), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (exploration souterraine) +5, [Connaissances](./Connaissances.md) (plans, religion) +11, [Déguisement](./Déguisement.md) +8, [Équitation](./Équitation.md) +4, [Intimidation](./Intimidation.md) +8, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7, [Survie](./Survie.md) +7}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée rhoka), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (exploration souterraine) +5, [[Connaissances]] (plans, religion) +11, [[Déguisement]] +8, [[Équitation]] +4, [[Intimidation]] +8, [[Perception]] +7, [[Psychologie]] +7, [[Survie]] +7}
 {s:BDTexte|**Langues** aklo, commun des profondeurs}
 {s:BDTexte|**Particularités** pacte daémonique}
 {s:BDSousTitre|Écologie}

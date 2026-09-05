@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.165*}
 {s:BDTexte|**PX** 9.600}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille G, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille G, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 8, pris au dépourvu 24 (Dex -1, naturelle +16, taille -1)}
 {s:BDTexte|**pv** 101 (13d10+30)}
 {s:BDTexte|**Réf** +3, **Vig** +4, **Vol** +4}
-{s:BDTexte|**Immunités** [traits des créatures artificielles](./Traits des créatures artificielles.md), magie ; **RD** 10/adamantium et contondant }
+{s:BDTexte|**Immunités** [[traits des créatures artificielles]], magie ; **RD** 10/adamantium et contondant }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** 2 coups, +19 (2d10+7 et blessure maudite)}
@@ -34,17 +34,17 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire ou bande (2-4)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Blessure maudite (Ext).** Les dégâts infligés par un golem d'argile ne guérissent pas naturellement et sont difficiles à soigner par magie. Lorsqu'un personnage tente d'utiliser un soin magique sur une créature blessée par un golem d'argile, il doit réussir un test de [NLS](./NLS.md) contre un [DD](./DD.md) de 26 pour que le soin ait un quelconque effet sur elle.}
+{s:BDTexte|**Blessure maudite (Ext).** Les dégâts infligés par un golem d'argile ne guérissent pas naturellement et sont difficiles à soigner par magie. Lorsqu'un personnage tente d'utiliser un soin magique sur une créature blessée par un golem d'argile, il doit réussir un test de [[NLS]] contre un [[DD]] de 26 pour que le soin ait un quelconque effet sur elle.}
 {s:BDTexte|**Fureur dévastatrice (Ext).** Lorsqu'un golem d'argile combat, il y a un risque que l'esprit élémentaire qui l'anime se libère et que le golem entre dans une fureur dévastatrice. Ce risque s'élève à 1% lors du premier round, augmente de 1% à chaque round de combat et retombe à 0% après une minute d'inactivité. La fureur dévastatrice pousse le golem à attaquer la créature vivante la plus proche ou à frapper un objet de taille inférieure à la sienne s'il n'y a aucune créature à portée. Il n'existe aucune méthode connue pour reprendre le contrôle d'un golem ayant succombé à cette fureur dévastatrice.}
-{s:BDTexte|**Immunité contre la magie (Ext).** Les golems d'argile sont immunisés contre tous les sorts et pouvoirs magiques contres lesquels la [résistance à la magie](./RM.md) fonctionne. En plus de cela, certains sorts et effets agissent différemment lorsqu'ils sont utilisés contre eux :}
-{s:BDTexte|: • Le sort de *[glissement de terrain](./Glissement de terrain.md)* repousse le golem sur 36 m (24 {s:c}) et lui inflige 3d12 points de dégâts (sans [jet de sauvegarde](./jet de sauvegarde.md)).}
-{s:BDTexte|: • Le sort de *[désintégration](./Désintégration.md)* ralentit le golem (comme le sort de *[lenteur](./Lenteur.md)*) pendant 1d6 rounds et lui inflige 1d12 points de dégâts (sans [jet de sauvegarde](./jet de sauvegarde.md)).}
-{s:BDTexte|: • Un sort de *[tremblement de terre](./Tremblement de terre.md)* lancé directement sur le golem l'empêche de se déplacer au cours de son tour suivant et lui inflige 5d10 points de dégâts (sans JS).}
-{s:BDTexte|: • Lorsque le golem d'argile est la cible d'une attaque magique causant les dégâts d'acide, il guérit de 1 point de dégâts pour chaque tranche de 3 points de dégâts que l'attaque est censée infliger. Si cette effet donne au golem un nombre de [points de vie](./pv.md) dépassant son maximum, les points excédentaires sont des [points de vie temporaires](./points de vie temporaires.md). Les effets qui infligent des dégâts d'acide n'autorisent aucun [jet de sauvegarde](./jet de sauvegarde.md) de la part du golem d'argile.}
-{s:BDTexte|**Rapidité (Mag).** Une fois par jour, après avoir combattu pendant au moins un round, un golem d'argile peut utiliser une [action libre](./Action libre.md) pour devenir plus rapide. L'effet dure 3 rounds et fonctionne comme le sort de *[rapidité](./Rapidité.md)*.}
+{s:BDTexte|**Immunité contre la magie (Ext).** Les golems d'argile sont immunisés contre tous les sorts et pouvoirs magiques contres lesquels la [[RM|résistance à la magie]] fonctionne. En plus de cela, certains sorts et effets agissent différemment lorsqu'ils sont utilisés contre eux :}
+{s:BDTexte|: • Le sort de *[[glissement de terrain]]* repousse le golem sur 36 m (24 {s:c}) et lui inflige 3d12 points de dégâts (sans [[jet de sauvegarde]]).}
+{s:BDTexte|: • Le sort de *[[désintégration]]* ralentit le golem (comme le sort de *[[lenteur]]*) pendant 1d6 rounds et lui inflige 1d12 points de dégâts (sans [[jet de sauvegarde]]).}
+{s:BDTexte|: • Un sort de *[[tremblement de terre]]* lancé directement sur le golem l'empêche de se déplacer au cours de son tour suivant et lui inflige 5d10 points de dégâts (sans JS).}
+{s:BDTexte|: • Lorsque le golem d'argile est la cible d'une attaque magique causant les dégâts d'acide, il guérit de 1 point de dégâts pour chaque tranche de 3 points de dégâts que l'attaque est censée infliger. Si cette effet donne au golem un nombre de [[pv|points de vie]] dépassant son maximum, les points excédentaires sont des [[points de vie temporaires]]. Les effets qui infligent des dégâts d'acide n'autorisent aucun [[jet de sauvegarde]] de la part du golem d'argile.}
+{s:BDTexte|**Rapidité (Mag).** Une fois par jour, après avoir combattu pendant au moins un round, un golem d'argile peut utiliser une [[action libre]] pour devenir plus rapide. L'effet dure 3 rounds et fonctionne comme le sort de *[[rapidité]]*.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [golems](./Golem.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Golem|golems]].***</li></ul>
 *Cette créature au pas lourd et au visage vaguement humanoïde est faite d’argile et porte des haillons crasseux et des bijoux grossiers.*
 
 Les golems d’argile ne portent aucun vêtement si ce n’est une sorte
@@ -59,5 +59,5 @@ poudres précieuses valant 1 500 po.
 
 **NLS** 11<sup>e</sup> ; **Prix** 41.500 po
 
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[animation d'objets](./Animation dobjets.md)*, *[bénédiction](./Bénédiction.md)*, *[communion](./Communion.md)*, *[prière](./Prière.md)*, *[résurrection](./Résurrection.md)*, créateur de niveau 11 ; **Compétence** [Artisanat](./Artisanat.md) (sculptures) ou [Artisanat](./Artisanat.md) (poteries) [DD](./DD.md) 16 ; **Coût** 21.500 po
+**Conditions** [[Création de créatures artificielles]], *[[animation dobjets|animation d'objets]]*, *[[bénédiction]]*, *[[communion]]*, *[[prière]]*, *[[résurrection]]*, créateur de niveau 11 ; **Compétence** [[Artisanat]] (sculptures) ou [[Artisanat]] (poteries) [[DD]] 16 ; **Coût** 21.500 po
 </div></td></tr></table>

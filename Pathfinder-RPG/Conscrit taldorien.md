@@ -14,4 +14,4 @@ Categories:
 
 **Conditions.** Le personnage doit être un serf de l'Empire décadent au service d’un seigneur
 
-**Avantages.** Lorsqu’il se sert d’un outil agricole (tel qu’une [hachette](./hachette (arme).md), une [pique](./pique (arme).md), une fourche ou une [faux](./faux (arme).md)) comme d’une arme, le personnage bénéficie d’un bonus de +1 aux [jets de dégâts](./Valeurs de combat.md#DEGATS). Lorsqu’il combat aux côtés d’autres conscrits, il gagne également un bonus de +1 aux tests d’[initiative](./initiative.md).
+**Avantages.** Lorsqu’il se sert d’un outil agricole (tel qu’une [[hachette (arme)|hachette]], une [[pique (arme)|pique]], une fourche ou une [[faux (arme)|faux]]) comme d’une arme, le personnage bénéficie d’un bonus de +1 aux [[Valeurs de combat#DEGATS|jets de dégâts]]. Lorsqu’il combat aux côtés d’autres conscrits, il gagne également un bonus de +1 aux tests d’[[initiative]].

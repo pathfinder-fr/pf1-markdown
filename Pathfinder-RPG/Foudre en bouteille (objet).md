@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 40 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Armes alchimiques](./Armes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Armes alchimiques]]</span>
 ---
-L’électricité crépite le long du filament en métal enfermé dans cette petite bouteille en verre. Le personnage peut ouvrir la bouteille par une [action simple](./Action simple.md), libérant ainsi un petit éclair de foudre sur un ennemi situé dans un rayon de 6 mètres. Il s’agit d’une [attaque de contact](./attaque de contact.md) à distance infligeant 1d8 points de dégâts d’électricité. Toutes les créatures situées sur la ligne séparant le personnage de sa cible (y compris la cible) reçoivent 1 point de dégâts de son à cause de l’énorme coup de tonnerre généré par l’éclair ([Réflexes](./Réflexes.md) [DD](./DD.md) 15 annule). La fabrication de cet objet requiert un test d’[Artisanat](./Artisanat.md) (alchimie) DD 25.
+L’électricité crépite le long du filament en métal enfermé dans cette petite bouteille en verre. Le personnage peut ouvrir la bouteille par une [[action simple]], libérant ainsi un petit éclair de foudre sur un ennemi situé dans un rayon de 6 mètres. Il s’agit d’une [[attaque de contact]] à distance infligeant 1d8 points de dégâts d’électricité. Toutes les créatures situées sur la ligne séparant le personnage de sa cible (y compris la cible) reçoivent 1 point de dégâts de son à cause de l’énorme coup de tonnerre généré par l’éclair ([[Réflexes]] [[DD]] 15 annule). La fabrication de cet objet requiert un test d’[[Artisanat]] (alchimie) DD 25.

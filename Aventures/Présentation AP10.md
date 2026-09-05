@@ -4,7 +4,7 @@ Title: Skull & Shackles/Pirates des Entraves
 LastModified: 2017-10-02 17:51
 ---
 
-Vous trouverez les aides de jeu relatives à cette campagne sur [cette page](./Aides de jeu AP10.md).
+Vous trouverez les aides de jeu relatives à cette campagne sur [[Aides de jeu AP10|cette page]].
 
 ### Les livres de la campagne
 
@@ -21,7 +21,7 @@ Vous trouverez les aides de jeu relatives à cette campagne sur [cette page](./A
 Les aventuriers se réveillent dans la cale d'un navire au milieu de la mer et découvrent qu'ils ont été contraints de rejoindre un équipage de vauriens, de voleurs et de boucaniers originaires des îles pirates des Entraves. Quand ils sont intégrés à un équipage réduit chargé de piloter un vaisseau capturé, les aventuriers ont finalement une chance de mettre sur pied une mutinerie… mais une soudaine tempête les fait échouer sur une île isolée habitée par d'étranges monstres. Pourront-ils survivre aux dangers de l'île, venir à bout de leurs cruels geôliers et reprendre le contrôle de leur destin ? Deviendront-ils des pirates terrifiants possédant leur propre navire ou l'océan sera-t-il leur tombeau ?  
   
 
-**Articles :** [Besmara](./../Golarion/Besmara.md), la déesse des pirates et sur la vie des pirates en mer.}
+**Articles :** [[Golarion.Besmara|Besmara]], la déesse des pirates et sur la vie des pirates en mer.}
 {s:BookTitle|AP10-2|Raiders of the Fever Sea/Les pillards de la mer de la Fièvre}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9056_180.jpeg|http://paizo.com/products/btpy8moe}
 {s:BookPic||}
@@ -57,7 +57,7 @@ Après avoir gagné la Régate des Capitaines libres, les aventuriers doivent d�
 Les aventuriers possèdent désormais leur propre île et leur propre port mais ils auront besoin de plus d'un vaisseau pour les défendre. Ils doivent parcourir les ports et les quais des Entraves pour recruter d'autres navires et de nouveaux équipages qui travailleront sous leur bannière. Mais, lorsqu'un rival surgi du passé envoie une flotte les attaquer, ils doivent défendre l'île sur laquelle ils se sont établis. Et, lorsqu'ils reviennent vers l'île pour se venger, ils découvrent un traître dont les actes mettent en danger toutes les îles des Entraves.  
   
 
-**Articles :** culte de [Norgorber](./../Golarion/Norgorber.md), dieu des voleurs et des assassins et des règles pour les combats entre des flottes de pirates}
+**Articles :** culte de [[Golarion.Norgorber|Norgorber]], dieu des voleurs et des assassins et des règles pour les combats entre des flottes de pirates}
 {s:BookTitle|AP10-6|From Hell’s Heart/Depuis le coeur des Enfers}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9060_180.jpeg|http://paizo.com/products/btpy8moi}
 {s:BookPic||}
@@ -71,7 +71,7 @@ Avec, au loin, une flotte ennemie bien décidée à conquérir les Entraves, les
 {s:BookTitle|AP10-7|Skull & Shackles Adventure Path Pawn Collection/Boîte de pions des Pirates des Entraves}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO1004_180.jpeg|http://paizo.com/products/btpy8rci}
 {s:BookPic||}
-{s:BookComment|Boîte contenant plus de 100 pions cartonnés pour jouer la campagne. Attention, cette boîte ne contient pas de socles, mais ils peuvent être achetés sur le site de [^http://paizo.com/pathfinder/pawns|Paizo].}
+{s:BookComment|Boîte contenant plus de 100 pions cartonnés pour jouer la campagne. Attention, cette boîte ne contient pas de socles, mais ils peuvent être achetés sur le site de [Paizo](http://paizo.com/pathfinder/pawns).}
 {s:BookTitle|AP10-8|Pathfinder Dice Set : Skull & Shackles/Set de dés : Pirates des Entraves}
 {s:BookPic|http://static4.paizo.com/image/product/catalog/QWS/QWSSPAT43_180.jpeg|http://paizo.com/products/btpy916e}
 {s:BookPic||}

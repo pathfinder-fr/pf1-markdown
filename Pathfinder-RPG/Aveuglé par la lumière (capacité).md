@@ -4,6 +4,6 @@ Title: Aveuglé par la lumière (Ext)
 LastModified: 2010-11-09 14:45
 ---
 
-Les créatures aveuglées par la lumière sont aveuglées pendant 1 round si elles sont exposées à une lumière vive comme celle du soleil ou celle produite par un sort de *[lumière du jour](./Lumière du jour.md)*. Tant qu’elles restent dans une zone de lumière vive, elles sont [éblouies](./Ébloui.md).
+Les créatures aveuglées par la lumière sont aveuglées pendant 1 round si elles sont exposées à une lumière vive comme celle du soleil ou celle produite par un sort de *[[lumière du jour]]*. Tant qu’elles restent dans une zone de lumière vive, elles sont [[ébloui|éblouies]].
 
 *Format :* aveuglé par la lumière. *Emplacement :* Faiblesses.

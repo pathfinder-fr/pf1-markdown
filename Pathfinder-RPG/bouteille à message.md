@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bouteille à message|{s:APG}{s:AE}}
-**Aura** [Illusion](./Illusion.md) faible ; **NLS** 3 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 300 po ; **Poids** 0,5 kg
+**Aura** [[Illusion]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 300 po ; **Poids** 0,5 kg
 (((Description)))
-Le goulot allongé de cette bouteille de verre olivâtre est doté d’une sorte de petite clef spiralée. Si quelqu’un la tourne, un bouchon sombre se matérialise lentement et la ferme en 1 [round](./round.md). Tout ce que le personnage dit à la bouteille pendant cette période (25 mots au maximum) reste piégé à l’intérieur une fois le bouchon entièrement solidifié. Dès que quelqu’un l’enlève ou brise la bouteille, le message en sort exactement comme si son auteur venait de le prononcer. La bouteille éclate une fois le message transmis.
+Le goulot allongé de cette bouteille de verre olivâtre est doté d’une sorte de petite clef spiralée. Si quelqu’un la tourne, un bouchon sombre se matérialise lentement et la ferme en 1 [[round]]. Tout ce que le personnage dit à la bouteille pendant cette période (25 mots au maximum) reste piégé à l’intérieur une fois le bouchon entièrement solidifié. Dès que quelqu’un l’enlève ou brise la bouteille, le message en sort exactement comme si son auteur venait de le prononcer. La bouteille éclate une fois le message transmis.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[bouche magique](./Bouche magique.md)* ; **Coût**  150 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[bouche magique]]* ; **Coût**  150 po
 </div>

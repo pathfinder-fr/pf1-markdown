@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Lorsque le personnage interagit avec autrui, il remarque des choses que les autres ne voient pas. Il est difficile de lui cacher quoi que ce soit. *
 
-**Conditions.** Pouvoir de classe [regard sévère](./Inquisiteur.md#REGARDSEVERE), 5 rangs en [Psychologie](./Psychologie.md)
+**Conditions.** Pouvoir de classe [[inquisiteur#REGARDSEVERE|regard sévère]], 5 rangs en [[Psychologie]]
 
-**Avantage.** Quand le personnage fait un test de [Psychologie](./Psychologie.md) opposé à un test de [Bluff](./Bluff.md), il peut lancer deux fois les dés et choisir le meilleur résultat.
+**Avantage.** Quand le personnage fait un test de [[Psychologie]] opposé à un test de [[Bluff]], il peut lancer deux fois les dés et choisir le meilleur résultat.

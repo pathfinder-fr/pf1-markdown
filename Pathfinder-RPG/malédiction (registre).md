@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Créer un sort#MALEDICTION
 ---
 
->>> [Créer un sort#MALEDICTION](./Créer un sort.md#MALEDICTION)
+>>> [[Créer un sort#MALEDICTION]]

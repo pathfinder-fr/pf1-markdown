@@ -14,30 +14,30 @@ Categories:
 {s:pucem|Extérieur|Montagnes|Extraplanaire}
 - *Source : Bestiaire 2, p.270*
 - **PX** 409 600
-- [Extérieur](./type Extérieur.md) ([Bien](./sous-type Bien.md), [Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md)) de taille C, CB
-- **Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), *[vision lucide](./Vision lucide.md)* ; [Perception](./Perception.md) +33
+- [[type Extérieur|Extérieur]] ([[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]]) de taille C, CB
+- **Init** +7 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}), *[[vision lucide]]* ; [[Perception]] +33
 (((Défense)))
 - **CA** 37, contact 5, pris au dépourvu 34 (armure +9, Dex +3, naturelle +23, taille –8)
-- **pv** 409 (21d10+294) ; [régénération](./Régénération (capacité).md) 15 (Mal)
+- **pv** 409 (21d10+294) ; [[régénération (capacité)|régénération]] 15 (Mal)
 - **Réf** +15, **Vig** +21, **Vol** +21 ; +8 résistance contre les effets mentaux
 - **Immunités** effets de mort, maladie, vieillissement ; **RD** 15/Mal ; **RM** 32
 (((Attaque)))
 - **VD** 18 m (12 {s:c}) (12 m (8 {s:c}) en armure)
 - **Corps à corps** maillet des titans, +33/+28/+23/+18 (6d8+28/17–20) ou 2 coups, +30 (2d8+17)
 - **Espace** 9 m (6 {s:c}) ; **Allonge** 9 m (6 {s:c})
-- **Attaques spéciales** [piétinement](./Piétinement.md) (2d8+25, DD 37)
+- **Attaques spéciales** [[piétinement]] (2d8+25, DD 37)
 - **Pouvoirs magiques** (NLS 20 ; concentration +27)
-  - Constant — *[esprit impénétrable](./Esprit impénétrable.md)*, *[marche dans les airs](./Marche dans les airs.md)*, *[vision lucide](./Vision lucide.md)*
-  - À volonté — *[annulation d’enchantement](./Annulation denchantement.md)*, *[communication à distance](./Communication à distance.md)*, *[dissipation suprême](./Dissipation suprême.md)*, *[divination](./Divination.md)*, *[malédiction](./malédiction.md)* (DD 21)
-  - 3/jour — *[guérison suprême](./Guérison suprême.md)*, *[scrutation suprême](./Scrutation suprême.md)* (DD 24), *[suggestion de groupe](./Suggestion de groupe.md)* (DD 23)
-  - 1/jour — *[allié suprême d’outreplan](./Allié suprême doutreplan.md)*, *[délivrance](./Délivrance.md)*, *[nuée de météores](./Nuée de météores.md)* (DD 26)
+  - Constant — *[[esprit impénétrable]]*, *[[marche dans les airs]]*, *[[vision lucide]]*
+  - À volonté — *[[annulation denchantement|annulation d’enchantement]]*, *[[communication à distance]]*, *[[dissipation suprême]]*, *[[divination]]*, *[[malédiction]]* (DD 21)
+  - 3/jour — *[[guérison suprême]]*, *[[scrutation suprême]]* (DD 24), *[[suggestion de groupe]]* (DD 23)
+  - 1/jour — *[[allié suprême doutreplan|allié suprême d’outreplan]]*, *[[délivrance]]*, *[[nuée de météores]]* (DD 26)
 (((Statistiques)))
 - **For** 45, **Dex** 16, **Con** 39, **Int** 21, **Sag** 28, **Cha** 24
 - **BBA** +21 ; **BMO** +46 ; **DMD** 59
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Critique ralentissant](./Critique ralentissant.md), [Destruction d’arme supérieure](./Destruction darme supérieure.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive](./Frappe décisive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la destruction](./Science de la destruction.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Art de la magie](./Art de la magie.md) +29, [Artisanat](./Artisanat.md) (un au choix) +29, [Bluff](./Bluff.md) +31, [Connaissances](./Connaissances.md) (ingénierie) +26, [Connaissances](./Connaissances.md) (plans) +29, [Diplomatie](./Diplomatie.md) +31, [Intimidation](./Intimidation.md) +31, [Perception](./Perception.md) +33, [Psychologie](./Psychologie.md) +33, [Représentation](./Représentation.md) (un au choix) +28, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +31
-- **Langues** abyssal, céleste, commun ; [télépathie](./Télépathie.md) 90 m (60 {s:c})
-- **Particularités** [changement de forme](./Changement de forme.md) (n’importe quel humanoïde ; *[modification d’apparence](./Modification dapparence.md)*)
+- **Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Critique ralentissant]], [[Destruction darme supérieure|Destruction d’arme supérieure]], [[Don pour les critiques]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Science de la bousculade]], [[Science de la destruction]], [[Science de la frappe décisive]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Art de la magie]] +29, [[Artisanat]] (un au choix) +29, [[Bluff]] +31, [[Connaissances]] (ingénierie) +26, [[Connaissances]] (plans) +29, [[Diplomatie]] +31, [[Intimidation]] +31, [[Perception]] +33, [[Psychologie]] +33, [[Représentation]] (un au choix) +28, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +31
+- **Langues** abyssal, céleste, commun ; [[télépathie]] 90 m (60 {s:c})
+- **Particularités** [[changement de forme]] (n’importe quel humanoïde ; *[[modification dapparence|modification d’apparence]]*)
 (((Écologie)))
 - **Environnement** terre ferme (Élysée)
 - **Organisation sociale** solitaire, couple ou croisade (3–6)
@@ -47,7 +47,7 @@ Categories:
 
 {s:ImageCentre|Bestiaire/Titan de l Elysee.jpg|90%}
 
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [titans](./Titan.md).***</li></ul>*Cet humanoïde titanesque porte une armure de fabrication ancienne aux bords dorés et un immense marteau fait de métal luisant.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[titan|titans]].***</li></ul>*Cet humanoïde titanesque porte une armure de fabrication ancienne aux bords dorés et un immense marteau fait de métal luisant.*
 
 Les titans, dont la race était déjà ancienne alors que le monde
 naissait à peine, sont proches de l’état divin. Cette proximité a

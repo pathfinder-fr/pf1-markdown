@@ -10,9 +10,9 @@ Le Grand Au-Delà est la cosmologie de Golarion, l'ensemble des lieux d'existenc
 
 Chacun de ces plans est un univers à part entière, avec ses propres lois, ses habitants et ses cultures spécifiques. Toutefois, on peut les regrouper en cinq catégories et les décrire en précisant un certain nombre de leurs qualités. Les types de plans sont les suivants.
 - **Les plans Matériels.** Il s'agit des mondes standards de la cosmologie, les mondes dont les qualités sont les plus proches du monde réel. Dans le monde de Pathfinder, le plan Matériel correspond à la planète de Golarion.
-- **Les plans transitoires.** On regroupe sous cette appellation les plans dont la principale utilité semble être de pouvoir voyager d'un plan à un autre ou encore de passer d'un endroit à un autre au sein d'un même plan. Dans le monde de Pathfinder, les plans transitoires sont le [plan Astral](./../Pathfinder-RPG/plan Astral.md), le [plan Éthéré](./../Pathfinder-RPG/plan Éthéré.md) et le [plan des Ombres](./Plan des Ombres.md).
-- **Les [plans Intérieurs](./plans-Intérieurs.md).** Ces plans sont associés aux composantes fondamentales à partir desquelles le monde est construit. On y retrouve par exemple les plans Élémentaires, qui sont liés à l'un des éléments fondamentaux (Air, Eau, Feu, Terre) et les plans d'Énergie (positive et négative).
-- **Les [plans Extérieurs](./plans-Extérieurs.md).** Ce sont les plans où habitent les dieux et où se rendent les âmes des défunts. Chacun de ces plans est associé à un type de morale et d'éthique (un alignement).
+- **Les plans transitoires.** On regroupe sous cette appellation les plans dont la principale utilité semble être de pouvoir voyager d'un plan à un autre ou encore de passer d'un endroit à un autre au sein d'un même plan. Dans le monde de Pathfinder, les plans transitoires sont le [[plan Astral]], le [[plan Éthéré]] et le [[plan des Ombres]].
+- **Les [[plans Intérieurs]].** Ces plans sont associés aux composantes fondamentales à partir desquelles le monde est construit. On y retrouve par exemple les plans Élémentaires, qui sont liés à l'un des éléments fondamentaux (Air, Eau, Feu, Terre) et les plans d'Énergie (positive et négative).
+- **Les [[plans Extérieurs]].** Ce sont les plans où habitent les dieux et où se rendent les âmes des défunts. Chacun de ces plans est associé à un type de morale et d'éthique (un alignement).
 - **Les demi-plans.** Finalement, la catégorie des demi-plans regroupe tous les autres espaces inter-dimensionnels semblables aux plans. Les demi-plans peuvent être de taille variable et être connectés ou pas aux plans transitoires.
 
 ### Les sphères
@@ -34,6 +34,6 @@ La représentation la plus commune du Grand Au-Delà le présente sous la forme 
 
 
 {s:VoirAussiAvant}
-{s:VoirAussiElem|Pour une courte description imagée du Grand Au-Delà, vous pouvez jeter un coup d'oeil au Rapport d'Éclaireurs intitulé [Ailleurs et Au-Delà](./Aides de jeu.md#REAILLEURS).}
-{s:VoirAussiElem|Vous trouverez une description complète du Grand Au-Delà, des plans et de leurs habitants dans le supplément [The Great Beyond](./Publications.md#GREATBEYOND).}
+{s:VoirAussiElem|Pour une courte description imagée du Grand Au-Delà, vous pouvez jeter un coup d'oeil au Rapport d'Éclaireurs intitulé [[Aides de jeu#REAILLEURS|Ailleurs et Au-Delà]].}
+{s:VoirAussiElem|Vous trouverez une description complète du Grand Au-Delà, des plans et de leurs habitants dans le supplément [[Publications#GREATBEYOND|The Great Beyond]].}
 {s:VoirAussiAprès}

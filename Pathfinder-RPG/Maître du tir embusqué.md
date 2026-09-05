@@ -13,11 +13,11 @@ Categories:
 
 *Vos attaques ciblées sont suffisamment rapides pour vous permettre d'envoyer une volée de flèches sans vous faire remarquer*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Expert du tir embusqué](./Expert du tir embusqué.md), [Tir rapide](./Tir rapide.md), 6 rangs en [Discrétion](./Discrétion.md)
+**Conditions.** [[Expert du tir embusqué]], [[Tir rapide]], 6 rangs en [[Discrétion]]
 
-**Avantage.** Lorsque le personnage est caché, il peut faire deux attaques à distance en utilisant son plus haut bonus à l'attaque par une [action complexe](./Action complexe.md), puis utiliser la [Discrétion](./Discrétion.md) immédiatement après. Le personnage subit les pénalités normales pour rester caché. Les effets qui modifient le tir embusqué s'appliquent lors de cette [action complexe](./Action complexe.md). Ces attaques sont faites avec un malus de -2.
+**Avantage.** Lorsque le personnage est caché, il peut faire deux attaques à distance en utilisant son plus haut bonus à l'attaque par une [[action complexe]], puis utiliser la [[Discrétion]] immédiatement après. Le personnage subit les pénalités normales pour rester caché. Les effets qui modifient le tir embusqué s'appliquent lors de cette [[action complexe]]. Ces attaques sont faites avec un malus de -2.
 
 **Normal.** Le personnage ne peut faire feu qu'une seule fois lors d'un tir embusqué.
 

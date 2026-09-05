@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#TOTEMSPIRITUELINFERIEUR
 ---
 
->>> [pouvoirs de rage#TOTEMSPIRITUELINFERIEUR](./Pouvoirs de rage.md#TOTEMSPIRITUELINFERIEUR)
+>>> [[pouvoirs de rage#TOTEMSPIRITUELINFERIEUR]]

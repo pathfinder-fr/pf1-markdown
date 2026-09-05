@@ -10,7 +10,7 @@ Categories:
 
 {s:cm}*Le personnage obtient un nouveau pouvoir magique issu de la liste des traits raciaux duergars.*
 
-**Conditions** [Duergar](./Duergar.md)
+**Conditions** [[Duergar]]
 
 **Avantages** Le personnage choisit un pouvoir magique utilisable une fois par jour accordé par un trait racial duergar qu’il ne possède pas. Il peut l’utiliser une fois par jour, en prenant son niveau de personnage comme niveau de lanceur de sorts.
 

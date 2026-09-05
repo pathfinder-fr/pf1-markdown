@@ -11,7 +11,7 @@ Categories:
 {s:MenuVehicules}
 {s:UC}*Les règles de base donnent une idée générale du comportement des véhicules durant le round de combat et de leurs différences avec des créatures. Les  parties suivantes approfondissent la manière de les gérer pendant le combat.*
 
-La taille et l’espace occupé des véhicules sont différents de ceux des créatures. Beaucoup d’entre eux sont longs et fins et n’occupent pas comme les créatures un nombre égal de cases par côté. Un [chariot](./véhicules terrestres.md), par exemple, peut occuper une case de 3 m (2 {s:c}) de côté ou bien être large de 3 m (2 {s:c}) et long de 4m50 (3 {s:c}) ou plus. L’un des côtés les plus petits sert souvent d’avant au véhicule.
+La taille et l’espace occupé des véhicules sont différents de ceux des créatures. Beaucoup d’entre eux sont longs et fins et n’occupent pas comme les créatures un nombre égal de cases par côté. Un [[véhicules terrestres|chariot]], par exemple, peut occuper une case de 3 m (2 {s:c}) de côté ou bien être large de 3 m (2 {s:c}) et long de 4m50 (3 {s:c}) ou plus. L’un des côtés les plus petits sert souvent d’avant au véhicule.
 
 {s:Reference|TAILLECONVERTION}**Conversion de taille.** Il est souvent important de connaître la catégorie de taille d’un véhicule.
 

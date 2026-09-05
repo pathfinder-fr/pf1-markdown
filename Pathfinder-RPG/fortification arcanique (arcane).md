@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#FORTIFICATIONARCANIQUE
 ---
 
->>> [arcanes#FORTIFICATIONARCANIQUE](./arcanes.md#FORTIFICATIONARCANIQUE)
+>>> [[arcanes#FORTIFICATIONARCANIQUE]]

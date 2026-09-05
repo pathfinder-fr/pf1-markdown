@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Kobold (race)|kobolds|Illustrations/PNJ/Kobold.jpg}{s:MR}**Prix** 20 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Créé à partir du pied fongique d'un champignon rare, ce sifflet produit un son que seuls les [kobolds](./Kobold (race).md) et les dragons peuvent entendre. Les kobolds créent souvent des codes compliqués composés de notes qu'ils utilisent pour coordonner leurs embuscades et leurs attaques.
+Créé à partir du pied fongique d'un champignon rare, ce sifflet produit un son que seuls les [[Kobold (race)|kobolds]] et les dragons peuvent entendre. Les kobolds créent souvent des codes compliqués composés de notes qu'ils utilisent pour coordonner leurs embuscades et leurs attaques.

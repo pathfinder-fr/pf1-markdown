@@ -117,7 +117,7 @@ En *VO*
 
 ### Prêtre
 En *VO*
-- [Axe’s Guide to Finding Divinity](http://pfs.shadowsofcommand.com/Cleric Optomization.htm) (Core)
+- [Axe’s Guide to Finding Divinity](http://pfs.shadowsofcommand.com/Cleric%20Optomization.htm) (Core)
 - [Beckett's Guide to Clerics](https://docs.google.com/document/edit?id=1qCtTL94PtU1fjtELj9Ga7dYWhZpM0KOPd9EBzUuMGl4&pli=1) (?) 
 - [Brewer's Guide to Reach Clerics](https://docs.google.com/file/d/0B5kvBvq2DEHjRWctNG05X0JINm8/edit?pli=1) (Core, APG)
 - [Rogue Eidolon’s Guide to Clerics](https://docs.google.com/document/edit?id=1bGYV4nTaUQ7DZ0K-bLJsigtWujhQl9gJsW5tVOtmuuE&pli=1#) (Core)

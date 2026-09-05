@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#TELEPORTATION
 ---
 
->>> [Présentation des sorts#TELEPORTATION](./Présentation des sorts.md#TELEPORTATION)
+>>> [[Présentation des sorts#TELEPORTATION]]

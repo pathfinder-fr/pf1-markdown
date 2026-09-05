@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Animal|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.16}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Animal](./type Animal.md) ([aquatique](./sous-type aquatique.md)) de taille G, N}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Animal|Animal]] ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 11, pris au dépourvu 17 (Dex +2, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 52 (7d8+21)}
 {s:BDTexte|**Réf** +9, **Vig** +8, **Vol** +3}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** nage 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +11 (2d6+9 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure, +11 (2d6+9 et [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Attaques spéciales** double morsure}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 14, **Con** 16, **Int** 1, **Sag** 12, **Cha** 8}
-{s:BDTexte|**BBA** +5, **BMO** +12 (+16 [lutte](./lutte.md)), **DMD** 24 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +8, [Évasion](./Évasion.md) +10, [Natation](./Natation.md) +14, [Perception](./Perception.md) +7 ; **Modificateurs raciaux** +8 en [Évasion](./Évasion.md)}
+{s:BDTexte|**BBA** +5, **BMO** +12 (+16 [[lutte]]), **DMD** 24 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +8, [[Évasion]] +10, [[Natation]] +14, [[Perception]] +7 ; **Modificateurs raciaux** +8 en [[Évasion]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans chauds}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou nid (3-6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Double morsure (Ex).** Si une murène géante commence son tour en ayant déjà [agrippé](./Agrippé.md) un adversaire, elle lui inflige automatiquement des dégâts de morsure (2d6+9). Les murènes géantes possèdent, à l'intérieur de leur gorge, une seconde paire de mâchoires qui les aident à avaler leur nourriture et qui leur permet de faire une attaque de morsure ([attaque secondaire](./attaque naturelle.md) +11, 1d6+3) contre les ennemis qu'elles ont déjà agrippés.}
+{s:BDTexte|**Double morsure (Ex).** Si une murène géante commence son tour en ayant déjà [[agrippé]] un adversaire, elle lui inflige automatiquement des dégâts de morsure (2d6+9). Les murènes géantes possèdent, à l'intérieur de leur gorge, une seconde paire de mâchoires qui les aident à avaler leur nourriture et qui leur permet de faire une attaque de morsure ([[Attaque naturelle|attaque secondaire]] +11, 1d6+3) contre les ennemis qu'elles ont déjà agrippés.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -43,11 +43,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Anguille des sables](./Anguille des sables.md) || 5
+| [[Anguille des sables]] || 5
 |-
-| [Anguille électrique](./Anguille électrique.md) || 2
+| [[Anguille électrique]] || 2
 |-
-| [Murène géante](./Murène géante.md) || 5
+| [[Murène géante]] || 5
 |}
 </div>*Cette anguille de 5 m glisse dans l’eau avec une grâce surnaturelle. Sa gueule renferme une seconde paire de mâchoires.*
 
@@ -56,7 +56,7 @@ formidables mâchoires tout en y découpant des bouchées à l’aide
 des mâchoires plus petites que renferme sa gorge.
 
 #### La murène géante comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **CA** armure naturelle +5 ; **Vitesse** nage 9 m (6 {s:c}) ; **Attaque** morsure (1d8) ; **Caractéristiques** For 14, Dex 16, Con 12, Int 1, Sag 12, Cha 8 ; **Particularités** [étreinte](./Étreinte.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **CA** armure naturelle +5 ; **Vitesse** nage 9 m (6 {s:c}) ; **Attaque** morsure (1d8) ; **Caractéristiques** For 14, Dex 16, Con 12, Int 1, Sag 12, Cha 8 ; **Particularités** [[étreinte]], [[vision nocturne]].
 
 **Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** morsure (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** double morsure.
 </div>

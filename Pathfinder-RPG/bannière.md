@@ -8,4 +8,4 @@ Categories:
 RedirectTo: chevalier#BANNIERE
 ---
 
->>> [chevalier#BANNIERE](./Chevalier.md#BANNIERE)
+>>> [[chevalier#BANNIERE]]

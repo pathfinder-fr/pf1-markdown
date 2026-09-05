@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#ABSORPTIONENERGIE
 ---
 
->>> [Pouvoirs de rage#ABSORPTIONENERGIE](./Pouvoirs de rage.md#ABSORPTIONENERGIE)
+>>> [[Pouvoirs de rage#ABSORPTIONENERGIE]]

@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *La foi du personnage est si puissante qu’elle blesse toutes les créatures de l’alignement abhorré.*
 
-**Condition.** [Canalisation alignée](./Canalisation alignée.md)
+**Condition.** [[Canalisation alignée]]
 
-**Avantage.** L’énergie canalisée par le personnage affecte toutes les créatures de l’alignement désigné lorsqu’il a choisi [Canalisation alignée](./Canalisation alignée.md) (et pas uniquement les extérieurs et les créatures avec l’alignement en sous-type), mais les soins ou les blessures sont deux fois moins efficaces contre ces cibles supplémentaires. Par ailleurs, le personnage peut dépenser deux utilisations de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il utilise Canalisation alignée pour considérer que la totalité des cibles de l’alignement choisi avait le sous-type d’alignement correspondant.
+**Avantage.** L’énergie canalisée par le personnage affecte toutes les créatures de l’alignement désigné lorsqu’il a choisi [[Canalisation alignée]] (et pas uniquement les extérieurs et les créatures avec l’alignement en sous-type), mais les soins ou les blessures sont deux fois moins efficaces contre ces cibles supplémentaires. Par ailleurs, le personnage peut dépenser deux utilisations de [[pouvoir mythique]] lorsqu’il utilise Canalisation alignée pour considérer que la totalité des cibles de l’alignement choisi avait le sous-type d’alignement correspondant.

@@ -13,15 +13,15 @@ Categories:
 
 *vous pouvez donner à l'un de vos sorts la puissance d'un poison*
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
-**Conditions.** 5 rangs en [Artisanat](./Artisanat.md) (poison), capacité à lancer des sorts de niveau 2, capacité de classe [utilisation du poison](./Ninja.md#UTILISATIONDUPOISON)
+**Conditions.** 5 rangs en [[Artisanat]] (poison), capacité à lancer des sorts de niveau 2, capacité de classe [[Ninja#UTILISATIONDUPOISON|utilisation du poison]]
 
-**Avantage.** Le personnage peut utiliser 1 dose d'un poison de contact, d'ingestion ou d'inhalation comme composante supplémentaire d'un sort qu'il lance. Ce sort obtient le [registre](./Registre.md) poison. Le personnage choisit une unique cible affectée par le sort. Si cette créature rate son [jet de sauvegarde](./JDS.md) contre le sort, elle doit également tenter un [jet de sauvegarde](./JDS.md) contre le poison utilisé comme composante supplémentaire. Si la cible rate son [jet de sauvegarde](./JDS.md) contre le poison, celui-ci prend effet immédiatement, ignorant tout délai d'incubation. Le poison utilise son propre [DD](./DD.md) (plutôt que celui du sort) mais est modifié par tous les effets qui augmentent le [DD](./DD.md) du sort (comme [École renforcée](./École renforcée.md)).
+**Avantage.** Le personnage peut utiliser 1 dose d'un poison de contact, d'ingestion ou d'inhalation comme composante supplémentaire d'un sort qu'il lance. Ce sort obtient le [[registre]] poison. Le personnage choisit une unique cible affectée par le sort. Si cette créature rate son [[jds|jet de sauvegarde]] contre le sort, elle doit également tenter un [[jds|jet de sauvegarde]] contre le poison utilisé comme composante supplémentaire. Si la cible rate son [[jds|jet de sauvegarde]] contre le poison, celui-ci prend effet immédiatement, ignorant tout délai d'incubation. Le poison utilise son propre [[DD]] (plutôt que celui du sort) mais est modifié par tous les effets qui augmentent le [[DD]] du sort (comme [[École renforcée]]).
 
-Ce don ne fonctionne qu'avec les sorts dont les effets peuvent être annulés avec un jet de [Vigueur](./Vigueur.md) réussi.
+Ce don ne fonctionne qu'avec les sorts dont les effets peuvent être annulés avec un jet de [[Vigueur]] réussi.
 
-Un sort toxique utilise un [emplacement de sort](./emplacement de sort.md) d'un niveau de plus que le niveau réel du sort.
+Un sort toxique utilise un [[emplacement de sort]] d'un niveau de plus que le niveau réel du sort.
 
 (((Toxic Spell (Metamagic)
 

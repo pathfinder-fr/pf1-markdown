@@ -10,5 +10,5 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire* p.313
 
-Les géants sont des humanoïdes dotés d’une grande force et appartenant généralement à une catégorie de taille supérieure ou égale à G. Ils possèdent des [DV](./../Ressources/DV.md) raciaux et ne les remplacent jamais par des niveaux de classe (contrairement à d’autres humanoïdes). Ils jouissent de la capacité de [vision nocturne](./vision nocturne.md) et [Intimidation](./Intimidation.md) et
-[Perception](./Perception.md) sont des compétences de classe pour eux.
+Les géants sont des humanoïdes dotés d’une grande force et appartenant généralement à une catégorie de taille supérieure ou égale à G. Ils possèdent des [[DV]] raciaux et ne les remplacent jamais par des niveaux de classe (contrairement à d’autres humanoïdes). Ils jouissent de la capacité de [[vision nocturne]] et [[Intimidation]] et
+[[Perception]] sont des compétences de classe pour eux.

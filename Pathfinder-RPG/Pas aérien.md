@@ -8,6 +8,6 @@ Categories:
 
 {s:MR}*L’air répond à la nature élémentaire innée du sylphe, le protège et amortit ses chutes.*
 
-**Conditions requises.** [Sylphe](./Sylphe (race).md)
+**Conditions requises.** [[sylphe (race)|Sylphe]]
 
 **Avantages.** Le sylphe gagne un bonus de +2 à ses jets de sauvegarde contre les effets du registre air ou électricité et contre les effets infligeant des dégâts d’électricité. Il peut ignorer les 9 premiers mètres de n’importe quelle chute lorsqu’il doit déterminer les dégâts qu’il reçoit d’une chute.

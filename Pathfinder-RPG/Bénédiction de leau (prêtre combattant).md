@@ -8,12 +8,12 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:Menubénédictions}{s:Desambi|Il existe également un sort intitulé *[bénédiction de l'eau](./Bénédiction de leau.md)*.}{s:MCA}
+{s:Menubénédictions}{s:Desambi|Il existe également un sort intitulé *[[bénédiction de leau|bénédiction de l'eau]]*.}{s:MCA}
 #### Frappe de glace *(mineur)*
 Au niveau 1, le prêtre combattant peut toucher une arme pour la doter du pouvoir de l’eau.
 
 Pendant une minute, elle luit d’un éclat d’un bleu glacé et inflige 1d4 points de dégâts supplémentaires de froid à chaque
-coup. Ces dégâts supplémentaires ne se cumulent pas avec les propriétés spéciales d’arme de [froid](./froid (propriété).md) et de [froid intense](./froid intense (propriété).md).
+coup. Ces dégâts supplémentaires ne se cumulent pas avec les propriétés spéciales d’arme de [[froid (propriété)|froid]] et de [[froid intense (propriété)|froid intense]].
 
 #### Armure de glace *(majeur)*
-Au niveau 10, le prêtre combattant peut toucher un allié pour l’envelopper d’une brume glacée. Cela fonctionne comme *[bouclier de feu](./Bouclier de feu.md)* (froid uniquement) pendant une minute.
+Au niveau 10, le prêtre combattant peut toucher un allié pour l’envelopper d’une brume glacée. Cela fonctionne comme *[[bouclier de feu]]* (froid uniquement) pendant une minute.

@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Lorsque le personnage vise, ses tirs sont particulièrement dévastateurs.*
 
-**Condition.** [Viser](./Viser.md)
+**Condition.** [[Viser]]
 
-**Avantage.** Lorsqu’il utilise [Viser](./Viser.md), le personnage gagne un bonus de +3 aux jets de dégâts à distance à la place d’un +2. Lorsque son bonus de base à l’attaque atteint +4, et toutes les tranches de 4 points de bonus par la suite, le bonus aux jets de dégâts à distance s’élève à +3 au lieu de +2.
+**Avantage.** Lorsqu’il utilise [[Viser]], le personnage gagne un bonus de +3 aux jets de dégâts à distance à la place d’un +2. Lorsque son bonus de base à l’attaque atteint +4, et toutes les tranches de 4 points de bonus par la suite, le bonus aux jets de dégâts à distance s’élève à +3 au lieu de +2.

@@ -13,11 +13,11 @@ Categories:
 
 *Vous pouvez faire un sale coup pendant que vous désarmez un ennemi.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Int](./Int.md) 13, [Expertise du combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md), [Science du désarmement](./Science du désarmement.md), [BBA](./BBA.md) +6
+**Conditions.** [[Int]] 13, [[Expertise du combat]], [[Science du sale coup]], [[Science du désarmement]], [[BBA]] +6
 
-**Avantage.** Le personnage peut tenter d'effectuer une manœuvre de sale coup et une manœuvre de désarmement simultanément contre une cible par une [action complexe](./Action complexe.md). Il ne lance qu'un seul jet pour les deux manœuvres. Si le [BMO](./BMO.md) du personnage est différent pour les deux manœuvres, il prend le modificateur le plus bas. Si le [DMD](./DMD.md) de la cible est différent pour les deux manœuvres, il prend le modificateur le plus haut. Si le personnage réussit son jet, il effectue les deux manœuvres avec succès.
+**Avantage.** Le personnage peut tenter d'effectuer une manœuvre de sale coup et une manœuvre de désarmement simultanément contre une cible par une [[action complexe]]. Il ne lance qu'un seul jet pour les deux manœuvres. Si le [[BMO]] du personnage est différent pour les deux manœuvres, il prend le modificateur le plus bas. Si le [[DMD]] de la cible est différent pour les deux manœuvres, il prend le modificateur le plus haut. Si le personnage réussit son jet, il effectue les deux manœuvres avec succès.
 
 (((Dirty Disarm (Combat)
 

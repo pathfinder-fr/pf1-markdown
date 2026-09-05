@@ -7,18 +7,18 @@ Categories:
 - Sort spirite 5
 ---
 
-{s:MCA}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Spi](./Spirite.md) 5  
+{s:MCA}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Spirite|Spi]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature morte-vivante/niveau, chacune ne devant pas être à plus de 9 m des autres  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance** à la magie oui (inoffensif)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (inoffensif) ; **Résistance** à la magie oui (inoffensif)
 
-Ce sort fonctionne comme [guérison des morts-vivants](./Guérison des morts-vivants.md), aux quelques exceptions indiquées ci-dessus et soigne 1d8 points de dégâts, + 1 point par niveau de lanceur (+20 au maximum) à chaque créature désignée.
+Ce sort fonctionne comme [[guérison des morts-vivants]], aux quelques exceptions indiquées ci-dessus et soigne 1d8 points de dégâts, + 1 point par niveau de lanceur (+20 au maximum) à chaque créature désignée.

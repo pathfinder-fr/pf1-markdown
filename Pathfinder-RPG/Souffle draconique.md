@@ -6,9 +6,9 @@ LastModified: 2020-07-13 14:55
 
 *Le kobold possède des défenses et un souffle draconiques.*
 
-**Conditions.** [Aspect draconique](./Aspect draconique.md), [kobold](./Kobold (race).md).
+**Conditions.** [[Aspect draconique]], [[kobold (race)|kobold]].
 
-**Avantages.** Le kobold gagne un bonus de +2 contre les effets de sommeil et de paralysie. Il gagne une arme de souffle que détermine la couleur de ses écailles de son don [Aspect draconique](./Aspect draconique.md) ou de son trait racial écailles de dragon. L’utilisation d’une arme de souffle est une [action simple](./Action simple.md) qui ne provoque pas d’attaque d’opportunité. Il peut utiliser son souffle une fois par jour. Les créatures situées dans la zone du souffle qui réussissent un jet de Réflexes (DD 10 + niveaux du kobold + modificateur de Constitution du kobold) réduisent les dégâts de moitié.
+**Avantages.** Le kobold gagne un bonus de +2 contre les effets de sommeil et de paralysie. Il gagne une arme de souffle que détermine la couleur de ses écailles de son don [[Aspect draconique]] ou de son trait racial écailles de dragon. L’utilisation d’une arme de souffle est une [[action simple]] qui ne provoque pas d’attaque d’opportunité. Il peut utiliser son souffle une fois par jour. Les créatures situées dans la zone du souffle qui réussissent un jet de Réflexes (DD 10 + niveaux du kobold + modificateur de Constitution du kobold) réduisent les dégâts de moitié.
 - ***Blanc (Sur).*** Le kobold crache un cône de froid de 4,5 m de long infligeant 2d6 points de dégâts de froid.
 - ***Bleu (Sur).*** Le kobold crache une ligne d’électricité de 9 m de long infligeant 2d6 points de dégâts d’électricité.
 - ***Noir (Sur).*** Le kobold crache une ligne d’acide de 9 m de long infligeant 2d6 points de dégâts d’acide.

@@ -11,22 +11,22 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Illusion](./Illusion.md) ([mirage](./mirage.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Psy](./Psychiste.md) 4  
+**École** [[Illusion]] ([[mirage]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md) ([Barde](./Barde.md) uniquement)[, G, M](./composantes.md) (un morceau de phosphore)[, F](./composantes.md) (un prisme de cristal) ; voir description  
+**Composantes** [[Composantes|V]] ([[Barde]] uniquement)[[composantes|, G, M]] (un morceau de phosphore)[[composantes|, F]] (un prisme de cristal) ; voir description  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Effet** lueurs multicolores dans une étendue de 6 m/4 cases de rayon  
 
-**Durée** [concentration](./Présentation des sorts.md#DUREE) + 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** [[Présentation des sorts#DUREE|concentration]] + 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Une lueur dont les couleurs rappellent celle d’un arc-en-ciel apparaît et [fascine](./Fasciné.md) toutes les créatures situées dans la zone d’effet. *Lueur d’arc-en-ciel* peut [fasciner](./Fasciné.md) un maximum de 24 [DV](./../Ressources/DV.md), sachant que les créatures dont le [DV](./../Ressources/DV.md) est le moins élevé sont affectées en premier. En cas d’égalité de [DV](./../Ressources/DV.md), ce sont les cibles qui se trouvent le plus près du jeteur de sorts qui sont affectées en premier. Si elles échouent leur [jet de sauvegarde](./jet de sauvegarde.md), elles sont [fascinées](./Fasciné.md) par la lueur.
+Une lueur dont les couleurs rappellent celle d’un arc-en-ciel apparaît et [[fasciné|fascine]] toutes les créatures situées dans la zone d’effet. *Lueur d’arc-en-ciel* peut [[fasciné|fasciner]] un maximum de 24 [[DV]], sachant que les créatures dont le [[DV]] est le moins élevé sont affectées en premier. En cas d’égalité de [[DV]], ce sont les cibles qui se trouvent le plus près du jeteur de sorts qui sont affectées en premier. Si elles échouent leur [[jet de sauvegarde]], elles sont [[fasciné|fascinées]] par la lueur.
 
-Par une [action libre](./Action libre.md), le personnage peut déplacer la lueur de 9 m/6 cases par [round](./round.md) (déplaçant ainsi son point d’origine). Toutes les créatures affectées la suivent, faisant de leur mieux pour rester dans la [zone d’effet](./zone deffet.md). Même retenues par leurs compagnons, elles tentent de la suivre. Si la lueur entraîne ses victimes dans une zone dangereuse, ces dernières peuvent faire un nouveau [jet de sauvegarde](./jet de sauvegarde.md). Si elle disparaît du champ de vision des créatures affectées, ces dernières ne subissent alors plus ses effets.
+Par une [[action libre]], le personnage peut déplacer la lueur de 9 m/6 cases par [[round]] (déplaçant ainsi son point d’origine). Toutes les créatures affectées la suivent, faisant de leur mieux pour rester dans la [[zone deffet|zone d’effet]]. Même retenues par leurs compagnons, elles tentent de la suivre. Si la lueur entraîne ses victimes dans une zone dangereuse, ces dernières peuvent faire un nouveau [[jet de sauvegarde]]. Si elle disparaît du champ de vision des créatures affectées, ces dernières ne subissent alors plus ses effets.
 
-*Lueur d’arc-en-ciel* reste sans effet sur les créatures [aveugles](./Aveuglé.md).
+*Lueur d’arc-en-ciel* reste sans effet sur les créatures [[aveuglé|aveugles]].

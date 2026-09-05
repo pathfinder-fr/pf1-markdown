@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bottes du héraut des batailles|{s:MCA}}
-**Aura** [Enchantement](./Enchantement.md) modéré ; **NLS** 11 ; **Emplacement** [pieds](./Objets merveilleux portés aux pieds.md) ; **Prix** 30 000 po ; **Poids** 1 kg
+**Aura** [[Enchantement]] modéré ; **NLS** 11 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 30 000 po ; **Poids** 1 kg
 (((Description)))
-Ces bottes en cuir blanc de belle qualité sont ouvragées de scènes représentant des batailles épiques. Une fois par jour, par une [action de mouvement](./Action de mouvement.md), le personnage peut se doter d’*[héroïsme suprême](./Héroïsme suprême.md)* pendant 11 minutes.
+Ces bottes en cuir blanc de belle qualité sont ouvragées de scènes représentant des batailles épiques. Une fois par jour, par une [[action de mouvement]], le personnage peut se doter d’*[[héroïsme suprême]]* pendant 11 minutes.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[héroïsme suprême](./Héroïsme suprême.md)*, *[regain d’assurance](./Regain dassurance.md)* ; **Coût** 15 000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[héroïsme suprême]]*, *[[regain dassurance|regain d’assurance]]* ; **Coût** 15 000 po
 </div>

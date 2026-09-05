@@ -10,16 +10,16 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ;** Niveau** [Alch](./Alchimiste.md) 4  
+**École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (du vif-argent et de platine en poudre d'une valeur de 100 po)  
+**Composantes** [[Composantes|V, G, M]] (du vif-argent et de platine en poudre d'une valeur de 100 po)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** [instantanée](./instantanée.md)
+**Durée** [[instantanée]]
 
-Quand le personnage ingère cet [extrait](./Alchimiste.md#EXTRAIT), il le transforme en [extrait](./Alchimiste.md#EXTRAIT) approprié pour toute [formule](./Alchimiste.md#EXTRAIT) de niveau 3 ou moins. Il fait immédiatement effet. Si la [formule](./Alchimiste.md#EXTRAIT) choisie nécessite une [composante matérielle](./composantes.md) onéreuse, le personnage doit l'ajouter aux [composantes](./composantes.md) de cet [extrait](./Alchimiste.md#EXTRAIT). Le personnage ne peut pas créer d'[extrait infusé](./découvertes.md#INFUSION) avec cette [formule](./Alchimiste.md#EXTRAIT).
+Quand le personnage ingère cet [[alchimiste#EXTRAIT|extrait]], il le transforme en [[alchimiste#EXTRAIT|extrait]] approprié pour toute [[alchimiste#EXTRAIT|formule]] de niveau 3 ou moins. Il fait immédiatement effet. Si la [[alchimiste#EXTRAIT|formule]] choisie nécessite une [[composantes|composante matérielle]] onéreuse, le personnage doit l'ajouter aux [[composantes]] de cet [[alchimiste#EXTRAIT|extrait]]. Le personnage ne peut pas créer d'[[découvertes#INFUSION|extrait infusé]] avec cette [[alchimiste#EXTRAIT|formule]].

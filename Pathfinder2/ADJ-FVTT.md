@@ -10,11 +10,11 @@ LastModified: 2024-05-31 11:48
 <i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
 </div>
 <div class="contenumenuPF2">
-[Règles](./ADJ.md)
-[Personnages](./ADJ-PJ.md)
-[Pour les MJ](./ADJ-MJ.md)
-[FoundryVTT](./ADJ-FVTT.md)
-[Liens](./ADJ-Liens.md)
+[[ADJ|Règles]]
+[[ADJ-PJ|Personnages]]
+[[ADJ-MJ|Pour les MJ]]
+[[ADJ-FVTT|FoundryVTT]]
+[[ADJ-Liens|Liens]]
 </div>
 </div>
 

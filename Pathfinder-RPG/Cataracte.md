@@ -13,13 +13,13 @@ Categories:
 
 *Le personnage peut maudire les yeux d’un ennemi blessé*
 
-**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+**Catégorie.** [[dons#DONMALEFICESANGLANT|maléfice sanglant]]
 
-**Conditions.** [Int](./Int.md) 13, 5 rangs en [Perception](./Perception.md), 1 rang en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md)
+**Conditions.** [[Int]] 13, 5 rangs en [[Perception]], 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]
 
-**Avantage.** Par une [action complexe](./Action complexe.md), le personnage peut maudire une créature à qui il a infligé des dégâts depuis le début de son précédent tour. La créature doit réussir un jet de [Vigueur](./Vigueur.md) ou voir ses yeux devenir laiteux et sa vision s'obscurcir. Pendant 1 [round](./round.md), toute cible à l’encontre de laquelle la créature tente une attaque à distance bénéficie d’un [camouflage](./camouflage.md) lorsqu’il s’agit de résoudre cette attaque.
+**Avantage.** Par une [[action complexe]], le personnage peut maudire une créature à qui il a infligé des dégâts depuis le début de son précédent tour. La créature doit réussir un jet de [[Vigueur]] ou voir ses yeux devenir laiteux et sa vision s'obscurcir. Pendant 1 [[round]], toute cible à l’encontre de laquelle la créature tente une attaque à distance bénéficie d’un [[camouflage]] lorsqu’il s’agit de résoudre cette attaque.
 
-**Spécial.** Un [chaman](./Chaman.md) ou une [sorcière](./Sorcière.md) peuvent utiliser ce maléfice sanglant contre toute créature à qui ils ont infligé des dégâts au cours de la dernière minute. Un chaman ou une sorcière peuvent utiliser ce maléfice sanglant en une [action simple](./Action simple.md).
+**Spécial.** Un [[chaman]] ou une [[sorcière]] peuvent utiliser ce maléfice sanglant contre toute créature à qui ils ont infligé des dégâts au cours de la dernière minute. Un chaman ou une sorcière peuvent utiliser ce maléfice sanglant en une [[action simple]].
 
 (((Cataract (blood Hex)
 You can curse the eyes of a wounded enemy.

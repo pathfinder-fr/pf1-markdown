@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISR}*Vous avez maîtrisé les anciennes techniques qui rendent les armes ancestrales de votre race plus efficaces.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [BBA](./BBA.md) +1, trait racial armes familières
+**Conditions.** [[BBA]] +1, trait racial armes familières
 
-**Avantages.** Le personnage est formé au maniement de toutes les armes raciales de sa race (les armes mentionnées dans le trait racial armes familières de sa race). S'il est déjà formé au maniement de n'importe laquelle de ces armes, il gagne [Arme de prédilection](./Arme de prédilection.md) comme don supplémentaire pour l'une de ces armes à la place. De plus, si le personnage gagne Arme de prédilection comme don supplémentaire pour l'une de ses armes raciales grâce à ce don, il peut remplacer l'arme raciale affectée par ce don supplémentaire en s'entraînant pendant 10 minutes avec une nouvelle arme. Les avantages de ce don Arme de prédilection supplémentaire durent jusuqu'à ce que le personnage décide de s'entraîner afin de l'appliquer à une arme raciale différente.
+**Avantages.** Le personnage est formé au maniement de toutes les armes raciales de sa race (les armes mentionnées dans le trait racial armes familières de sa race). S'il est déjà formé au maniement de n'importe laquelle de ces armes, il gagne [[Arme de prédilection]] comme don supplémentaire pour l'une de ces armes à la place. De plus, si le personnage gagne Arme de prédilection comme don supplémentaire pour l'une de ses armes raciales grâce à ce don, il peut remplacer l'arme raciale affectée par ce don supplémentaire en s'entraînant pendant 10 minutes avec une nouvelle arme. Les avantages de ce don Arme de prédilection supplémentaire durent jusuqu'à ce que le personnage décide de s'entraîner afin de l'appliquer à une arme raciale différente.

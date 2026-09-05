@@ -11,8 +11,8 @@ Categories:
 
 {s:apg}*On prend souvent le personnage pour un humain alors qu’il est d’une race différente.*
 
-**Conditions.** [Demi-elfe](./Demi-elfe.md), [demi-orque](./Demi-orque.md) ou [halfelin](./Halfelin.md) (voir Spécial).
+**Conditions.** [[Demi-elfe]], [[demi-orque]] ou [[halfelin]] (voir Spécial).
 
-**Avantage.** Lorsque le personnage se déguise en [humain](./Humain.md), il reçoit un bonus de +10 au test de [Déguisement](./Déguisement.md) et le fait de se déguiser en une créature d’une autre race ne lui impose aucune pénalité. Dans les zones colonisées par les humains ou à forte population humaine, il peut prendre 10 sur ses jets de Déguisement, ce qui signifie que la plupart des gens pensent qu’il est humain, à moins qu’on ne leur donne une raison d’en douter.
+**Avantage.** Lorsque le personnage se déguise en [[humain]], il reçoit un bonus de +10 au test de [[Déguisement]] et le fait de se déguiser en une créature d’une autre race ne lui impose aucune pénalité. Dans les zones colonisées par les humains ou à forte population humaine, il peut prendre 10 sur ses jets de Déguisement, ce qui signifie que la plupart des gens pensent qu’il est humain, à moins qu’on ne leur donne une raison d’en douter.
 
-**Spécial.** Un halfelin peut choisir ce don mais il doit alors posséder le don [Apparence enfantine](./Apparence enfantine.md). Les avantages de ces deux dons se cumulent.
+**Spécial.** Un halfelin peut choisir ce don mais il doit alors posséder le don [[Apparence enfantine]]. Les avantages de ces deux dons se cumulent.

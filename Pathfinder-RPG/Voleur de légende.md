@@ -11,12 +11,12 @@ Categories:
 
 {s:GC}*Vous n’êtes pas un simple cambrioleur, vous désirez accomplir des méfaits légendaires.*
 
-**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+**Catégorie.** [[Dons#DONHISTOIRE|histoire]]
 
-**Conditions.** Vous devez avoir volé pour 1 000 po de trésors sans vous faire prendre et vous devez garder un ou plusieurs souvenir de ces vols d’une valeur minimale de 500 po. Sinon, vous devez avoir l’[historique](./Générateur dhistorique.md) Cupidité.
+**Conditions.** Vous devez avoir volé pour 1 000 po de trésors sans vous faire prendre et vous devez garder un ou plusieurs souvenir de ces vols d’une valeur minimale de 500 po. Sinon, vous devez avoir l’[[Générateur dhistorique|historique]] Cupidité.
 
-**Avantages.** Une fois par jour, quand vous tentez un test de [Sabotage](./Sabotage.md) pour ouvrir une serrure ou un test d’[Escamotage](./Escamotage.md) pour faire les poches à quelqu’un, vous pouvez lancer le dé deux fois et conserver le meilleur résultat.
+**Avantages.** Une fois par jour, quand vous tentez un test de [[Sabotage]] pour ouvrir une serrure ou un test d’[[Escamotage]] pour faire les poches à quelqu’un, vous pouvez lancer le dé deux fois et conserver le meilleur résultat.
 
 **Objectif.** Dérobez un trésor célèbre et bien gardé d’une valeur minimale de 50 000 po, sans laisser la moindre preuve de votre implication. Ce trésor doit être placé sous la protection d’au moins huit pièges ou adversaires de valeur. Nul besoin de vaincre ces gardiens, il suffit de franchir leurs défenses. Nul besoin de conserver ce trésor et vous pouvez par la suite vous vanter de ce haut-fait.
 
-**Avantage de réussite.** Vous pouvez désamorcer un piège par réflexe. Quand vous déclenchez un piège, vous avez droit à un test de [Sabotage](./Sabotage.md) avec un malus de –5 pour interrompre son mécanisme : il reste armé mais il ne s’active pas. Chaque jour, vous pouvez utiliser ce pouvoir 3 fois plus votre modificateur d’[Intelligence](./Intelligence.md). Comme le piège est toujours armé, il risque de se déclencher de nouveau si vous ne vous hâtez pas de reculer ou si vous répétez l’acte qui l’a activé une première fois.
+**Avantage de réussite.** Vous pouvez désamorcer un piège par réflexe. Quand vous déclenchez un piège, vous avez droit à un test de [[Sabotage]] avec un malus de –5 pour interrompre son mécanisme : il reste armé mais il ne s’active pas. Chaque jour, vous pouvez utiliser ce pouvoir 3 fois plus votre modificateur d’[[Intelligence]]. Comme le piège est toujours armé, il risque de se déclencher de nouveau si vous ne vous hâtez pas de reculer ou si vous répétez l’acte qui l’a activé une première fois.

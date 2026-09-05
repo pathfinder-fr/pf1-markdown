@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Chaque objet devient une arme mortelle entre les mains du personnage.*
 
-**Condition.** [Surprise](./Surprise.md)
+**Condition.** [[Surprise]]
 
-**Avantage.** Les dégâts infligés quand le personnage frappe avec des armes improvisées augmentent d’un nombre égal à son [grade](./Grade.md). Il gagne également un bonus au DMD égal à son [grade](./Grade.md) quand un adversaire tente une manoeuvre de destruction ou de désarmement sur son arme improvisée.
+**Avantage.** Les dégâts infligés quand le personnage frappe avec des armes improvisées augmentent d’un nombre égal à son [[grade]]. Il gagne également un bonus au DMD égal à son [[grade]] quand un adversaire tente une manoeuvre de destruction ou de désarmement sur son arme improvisée.

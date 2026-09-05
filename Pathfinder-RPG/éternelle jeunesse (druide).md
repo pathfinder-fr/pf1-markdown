@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Druide#ETERNELLEJEUNESSE
 ---
 
->>> [Druide#ETERNELLEJEUNESSE](./Druide.md#ETERNELLEJEUNESSE)
+>>> [[Druide#ETERNELLEJEUNESSE]]

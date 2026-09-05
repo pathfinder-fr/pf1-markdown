@@ -10,7 +10,7 @@ LastModified: 2019-10-12 17:42
 {s:pucem|Mort-vivant|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 194*}
 - **800 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille M, NM
+- [[type mort-vivant|Mort-vivant]] de taille M, NM
 - **Init **+1 ; **Sens** vision dans le noir à 18 m ; Perception +0
 (((Défense)))
 - **CA** 15, contact 11, pris au dépourvu 14 (Dex +1, naturelle +4)
@@ -23,15 +23,15 @@ LastModified: 2019-10-12 17:42
 (((Statistiques)))
 - **For** 15, **Dex** 13, **Con** —, **Int **—, **Sag** 10, **Cha** 13
 - **BBA **+3 ; **BMO **+5 ; **DMD** 16
-- **Dons** [Robustesse](./Robustesse.md)<sup>S</sup>
-- **Particularités** Points de création (mode de déplacement supplémentaire [vol], attaque supplémentaire (morsure))
+- **Dons** [[Robustesse]]<sup>S</sup>
+- **Particularités** Points de création (mode de déplacement supplémentaire [[vol]], attaque supplémentaire (morsure))
 (((Écologie)))
 - **Environnement** sur ou sous terre
 - **Organisation** solitaire, couple ou groupe (3-6)
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
 - **Points de création**. Les nécroforgés disposent d’un certain nombre de points de création (PC) utilisés pour acquérir des pouvoirs et des protections. Un nécroforgé de taille M dispose de 2 PC ; le nombre de PC dont disposent les nécroforgés de tailles différentes est indiqué dans la table des tailles de la page 195. Si on crée un nécroforgé avec plus de PC que le montant fixé par sa catégorie de taille, son FP augmente de 1 (minimum de +1) pour chaque tranche de 2 PC utilisés au-dessus du montant indiqué. 
-À moins que le contraire ne soit indiqué, chacun de ces pouvoirs ne peut être acquis qu’une seule fois. Le profil décrit ci-dessus présente un nécroforgé de taille M (avec 2 PC supplémentaires dépensés pour acquérir déplacement supplémentaire [vol] et attaque supplémentaire (morsure)).
+À moins que le contraire ne soit indiqué, chacun de ces pouvoirs ne peut être acquis qu’une seule fois. Le profil décrit ci-dessus présente un nécroforgé de taille M (avec 2 PC supplémentaires dépensés pour acquérir déplacement supplémentaire [[vol]] et attaque supplémentaire (morsure)).
 - *Déplacement supplémentaire (Ext, 1 PC)*. Le nécroforgé dispose d’un mode de déplacement supplémentaire (creusement, escalade, vol (déplorable) ou nage) dont la vitesse est égale à celle de son mode de déplacement de base.
 - *Vision à 360° (Ext, 2 PC)*. Le nécroforgé dispose d’une tête supplémentaire tournée dans la direction opposée à sa tête principale, ou des yeux supplémentaires placés à divers endroits de son corps. Il dispose ainsi de la vision à 360°.
 - * Poings tranchants (Ext, 1 PC)*. Il est possible de remplacer jusqu’à deux attaques de griffe du nécroforgé par des os tranchants ou des lames métalliques. Ces attaques infligent 1d4 points de dégâts de saignement.
@@ -39,7 +39,7 @@ Ce pouvoir peut être sélectionné plusieurs fois et s’applique alors à des 
 - *Plaques osseuses (Ext, 1 PC).* Grâce au développement de plaques osseuses supplémentaires (des plaques osseuses positionnées par-dessus son épiderme et qui fonctionnent comme une armure, par exemple), le nécroforgé augmente de +2 son bonus d’armure naturelle. Ce pouvoir peut être sélectionné trois fois au maximum.
 - *Cannibalisation (Ext, 1 PC)*. Si le nécroforgé se trouve près du cadavre d’une créature de taille M ou supérieure dotée d’une anatomie discernable, il dévore le cadavre ou arrache certaines parties de la dépouille pour l’intégrer à son corps. Un mort-vivant utilisé de la sorte permet au nécroforgé de récupérer 5 points de vie plus 5 points de vie supplémentaires par catégorie de taille supérieure à la taille Moyenne ; les autres types de créature permettent au nécroforgé de récupérer un cinquième de ce montant. Le nécroforgé doit consacrer une heure à cette activité ; toute interruption (comme un combat) l’oblige à tout reprendre depuis le début.
 - *Constriction (Ext, 1 PC)*. Les attaques de griffe du nécroforgé acquièrent le pouvoir de constriction. Il doit disposer du pouvoir d’étreinte avant de pouvoir sélectionner celui-ci.
-- *Maladie (Sur, 1 PC)*. L’une des attaques naturelles du nécroforgé est dotée de particularités similaires à la gueule d’une goule, ce qui expose les créatures frappées par le nécroforgé à la fièvre des goules. Fièvre des goules : morsure, griffe ou coup – blessure ; JdS Vigueur DD 13 ; incubation 1 jour ; fréquence 1/jour ; effet affaiblissement temporaire de 1d3 Con et de 1d3 Dex ; guérison 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur le Charisme. Un humanoïde qui succombe à cette fièvre se relève sous forme de goule à minuit lors de la nuit suivante. Un humanoïde transformé en goule de cette façon ne conserve aucun des pouvoirs qu’il possédait de son vivant. La goule n’est sous le contrôle d’aucune autre goule, mais elle apprécie tout autant la chair des vivants et se comporte exactement comme une goule. Un humanoïde avec 4 dés de vie ou plus se relève sous forme de [blême](./Blême.md). 
+- *Maladie (Sur, 1 PC)*. L’une des attaques naturelles du nécroforgé est dotée de particularités similaires à la gueule d’une goule, ce qui expose les créatures frappées par le nécroforgé à la fièvre des goules. Fièvre des goules : morsure, griffe ou coup – blessure ; JdS Vigueur DD 13 ; incubation 1 jour ; fréquence 1/jour ; effet affaiblissement temporaire de 1d3 Con et de 1d3 Dex ; guérison 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur le Charisme. Un humanoïde qui succombe à cette fièvre se relève sous forme de goule à minuit lors de la nuit suivante. Un humanoïde transformé en goule de cette façon ne conserve aucun des pouvoirs qu’il possédait de son vivant. La goule n’est sous le contrôle d’aucune autre goule, mais elle apprécie tout autant la chair des vivants et se comporte exactement comme une goule. Un humanoïde avec 4 dés de vie ou plus se relève sous forme de [[Blême]]. 
 - *Attaque supplémentaire (Ext, 1 PC)*. Le nécroforgé gagne une attaque de griffe ou de morsure supplémentaire. Ce pouvoir peut être sélectionné plusieurs fois.
 - *Jambes supplémentaires (Ext, 1 PC)*. Le nécroforgé dispose de deux jambes supplémentaires, ce qui augmente sa vitesse de déplacement de base de 1,50 mètre et son DMD contre le renversement et le croc-en-jambe de 4. Ce pouvoir peut être  sélectionné plusieurs fois.
 - *Force supplémentaire (Ext, 1 PC)*. La valeur de Force du nécroforgé est augmentée de 2 points et sa Dextérité est diminuée de 2 points. Ce pouvoir peut être sélectionné deux fois.

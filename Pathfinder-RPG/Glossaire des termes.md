@@ -63,7 +63,7 @@ Se dit d'un sort ou d'un effet demandant de réussir un Jet de sauvegarde sous p
 - XXX = die : tue le personnage qui échoue à son Jet de Sauvegarde. Ex : *Assassin imaginaire*, Représentation mortelle (barde)...
 
 #### SLA
-Spell-Like Ability (Sp) ou [Pouvoir Magique](./pouvoir magique.md) (Mag) en VF.
+Spell-Like Ability (Sp) ou [[Pouvoir Magique]] (Mag) en VF.
 
 #### Stat-block
 État d'un build à un niveau donné. Contrairement au build qui décrit la progression, le stat-block donne des informations directement utilisées en jeu (toucher, dégâts, CA, PV, JS, etc.).
@@ -73,8 +73,8 @@ Total Party Kill (Elimination totale du groupe).
 L'action de tuer tous les membres d'un groupe pendant une rencontre ou un scénario.
 
 #### "XXX" tax
-Se dit d'un élément technique d'un personnage (don, compétence, trait, etc.) sélectionné non pas pour son effet propre, mais en tant que pré-requis d'une autre capacité ou d'une [Classe de Prestige](./classe de prestige.md)
-- **XXX = Feat tax** : se rapporte à un don, généralement peu utile en soi mais requis dans une chaîne de dons. Dans certains cas, cette expression fait référence à un don indispensable à une classe donnée, non pas pour le gain qu'il apporte (comme [Incantation animale](./Incantation animale.md) pour le druide), mais pour combler une de ses faiblesses (comme [Coup dans l'ombre](./Coup dans lombre.md) pour le roublard).
+Se dit d'un élément technique d'un personnage (don, compétence, trait, etc.) sélectionné non pas pour son effet propre, mais en tant que pré-requis d'une autre capacité ou d'une [[Classe de Prestige]]
+- **XXX = Feat tax** : se rapporte à un don, généralement peu utile en soi mais requis dans une chaîne de dons. Dans certains cas, cette expression fait référence à un don indispensable à une classe donnée, non pas pour le gain qu'il apporte (comme [[Incantation animale]] pour le druide), mais pour combler une de ses faiblesses (comme [[Coup dans lombre|Coup dans l'ombre]] pour le roublard).
 - **XXX = Skill tax** : se rapporte à une compétence.
 
 #### Wébéhel (WBL)

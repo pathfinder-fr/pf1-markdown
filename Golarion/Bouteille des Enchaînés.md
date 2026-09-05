@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Bouteille des Enchaînés.md).***
+***Voir les [[Pathfinder-RPG.Bouteille des Enchaînés|statistiques de cet artefact]].***
 
 Cette élégante bouteille de cuivre, quoique apparemment ancienne, est parcourue de runes tournoyantes, rappelant des griffes et des flammes, et est hermétiquement scellée d’un bouchon dessinant un tigre féroce.
 

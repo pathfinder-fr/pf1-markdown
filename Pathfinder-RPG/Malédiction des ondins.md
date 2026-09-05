@@ -11,25 +11,25 @@ Categories:
 ---
 
 {s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[mal](./Registre.md),[malediction](./Registre.md)<nowiki>]</nowiki> ;
-**Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal]],[[registre|malediction]]<nowiki>]</nowiki> ;
+**Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V,G](./composantes.md)  
+**Composantes** [[Composantes|V,G]]  
 
-**Portée** [courte](./Présentation des sorts.md#PORTEE) (7,5 m + 1,5 m/2 niveau)  
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,5 m + 1,5 m/2 niveau)  
 
 **Cible** une créature  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
 Le corps de la cible perd sa capacité naturelle à respirer automatiquement.
 Tant qu’elle reste consciente et en mesure d’entreprendre
 des actions physiques, la cible continue de respirer et peut fonctionner
-normalement. Si jamais elle est [inconsciente](./États préjudiciables.md#INCONSCIENT) (y compris endormie)
+normalement. Si jamais elle est [[États préjudiciables#INCONSCIENT|inconsciente]] (y compris endormie)
 ou incapable d’entreprendre des actions physiques, elle cesse
 de respirer, doit retenir son souffle et pourrait commencer à s'étouffer. Les créatures
 qui n’ont pas besoin de respirer sont

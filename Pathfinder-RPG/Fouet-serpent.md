@@ -10,11 +10,11 @@ Categories:
 
 {s:MPNJ}*Le personnage est passé maître dans l’art de contrarier plusieurs cibles avec son fouet.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Attaque en finesse](./Attaque en finesse.md), maniement du fouet
+**Conditions.** [[Attaque en finesse]], maniement du fouet
 
-**Avantages.** En une [action simple](./Action simple.md), le personnage peut effectuer une manœuvre de [désarmement](./désarmement.md) ou de [croc-en-jambe](./croc-en-jambe.md) avec son fouet. S’il réussit, il peut tenter une manœuvre supplémentaire de désarmement ou de croc-en-jambe avec le même bonus contre une cible adjacente à la première et située à portée d’allonge de son fouet.
+**Avantages.** En une [[action simple]], le personnage peut effectuer une manœuvre de [[désarmement]] ou de [[croc-en-jambe]] avec son fouet. S’il réussit, il peut tenter une manœuvre supplémentaire de désarmement ou de croc-en-jambe avec le même bonus contre une cible adjacente à la première et située à portée d’allonge de son fouet.
 
-En outre, il peut utiliser son fouet pour effectuer des manœuvres de [repositionnement](./repositionnement.md), mais il subit un malus de -4 au
+En outre, il peut utiliser son fouet pour effectuer des manœuvres de [[repositionnement]], mais il subit un malus de -4 au
 BMO et ne peut déplacer sa cible qu’en la rapprochant de lui.

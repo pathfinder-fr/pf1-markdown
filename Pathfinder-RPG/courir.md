@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions complexes#COURIR
 ---
 
->>> [Actions complexes#COURIR](./Actions complexes.md#COURIR)
+>>> [[Actions complexes#COURIR]]

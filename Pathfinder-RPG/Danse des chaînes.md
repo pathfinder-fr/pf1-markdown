@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:BotD}*Dans vos mains, une chaîne cloutée se meut comme un être vivant.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 15, [Attaque en finesse](./Attaque en finesse.md), [Maîtrise des chaînes](./Maîtrise des chaînes.md), [Maniement d'une arme exotique](./Maniement dune arme exotique.md) (chaîne cloutée), 1 rang en [Représentation](./Représentation.md) (danse)
+**Conditions.** [[Dex]] 15, [[Attaque en finesse]], [[Maîtrise des chaînes]], [[Maniement dune arme exotique|Maniement d'une arme exotique]] (chaîne cloutée), 1 rang en [[Représentation]] (danse)
 
-**Avantage.** Lorsque le personnage manie une [chaîne cloutée](./chaîne cloutée (arme).md) à une main, il peut ajouter son modificateur de [Dextérité](./Dextérité.md) au lieu de son modificateur de [Force](./Force.md) aux dégâts de cette arme. La chaîne cloutée doit être adaptée à sa taille. Pendant son tour, le personnage considère l'allonge de la chaine cloutée comme supérieure de 1,5 m. Il perd ces avantages lorsqu'il combat avec plusieurs armes ou qu'il utilise un bouclier (mais pas lorsqu'il utilise une [targe](./targe (armure).md)).
+**Avantage.** Lorsque le personnage manie une [[Chaîne cloutée (arme)|chaîne cloutée]] à une main, il peut ajouter son modificateur de [[Dextérité]] au lieu de son modificateur de [[Force]] aux dégâts de cette arme. La chaîne cloutée doit être adaptée à sa taille. Pendant son tour, le personnage considère l'allonge de la chaine cloutée comme supérieure de 1,5 m. Il perd ces avantages lorsqu'il combat avec plusieurs armes ou qu'il utilise un bouclier (mais pas lorsqu'il utilise une [[Targe (armure)|targe]]).

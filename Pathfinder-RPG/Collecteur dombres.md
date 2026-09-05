@@ -15,8 +15,8 @@ Categories:
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDtexte|*Source : Bestiaire 5 p.63*}
 {s:BDtexte|**PX** 4800}
-{s:BDtexte|[Fée](./type Fée.md) de taille P, CN}
-{s:BDtexte|**Init** +7 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +18}
+{s:BDtexte|[[type Fée|Fée]] de taille P, CN}
+{s:BDtexte|**Init** +7 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +18}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 21, contact 19, pris au dépourvu 13 (Dex +7, esquive +1, naturelle +2, taille +1)}
 {s:BDtexte|**pv** 90 (12d6+48)}
@@ -26,15 +26,15 @@ Categories:
 {s:BDtexte|**VD** 12 m}
 {s:BDtexte|**Corps à corps** 2 griffes, +15 (1d6+2)}
 {s:BDtexte|**Attaques spéciales** attaque sournoise +3d6, vol d’ombre, déchirer les ombres}
-{s:BDtexte|**Pouvoirs magiques** ([NLS](./NLS.md) 12 ; [concentration](./concentration.md) +16)}
-{s:BDsorts|À volonté — *[déguisement](./Déguisement.md)*, *[image accomplie](./Image accomplie.md)* (DD 17), *[lumières dansantes](./Lumières dansantes.md)*, *[magie des ombres](./Magie des ombres.md)* (seulement simulation de menottes scellées ; DD 19), *[pas de l’ombre](./Pas de lombre.md)*}
-{s:BDsorts|3/jour — *[convocation d’ombres](./Convocation dombres.md)* (DD 18)}
-{s:BDsorts|1/jour — *[magie des ombres](./Magie des ombres.md)* (DD 19), *[traversée des ombres](./Traversée des ombres.md)*}
+{s:BDtexte|**Pouvoirs magiques** ([[NLS]] 12 ; [[concentration]] +16)}
+{s:BDsorts|À volonté — *[[déguisement]]*, *[[image accomplie]]* (DD 17), *[[lumières dansantes]]*, *[[magie des ombres]]* (seulement simulation de menottes scellées ; DD 19), *[[pas de lombre|pas de l’ombre]]*}
+{s:BDsorts|3/jour — *[[convocation dombres|convocation d’ombres]]* (DD 18)}
+{s:BDsorts|1/jour — *[[magie des ombres]]* (DD 19), *[[traversée des ombres]]*}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 14, **Dex** 24, **Con** 19, **Int** 15, **Sag** 17, **Cha** 18}
-{s:BDtexte|**BBA** +6, **BMO** +12 (+14 en [subtilisation](./subtilisation.md)), **DMD** 25 (27 contre la [subtilisation](./subtilisation.md))}
-{s:BDtexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque éclair](./Attaque éclair.md), [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Expertise du combat](./Expertise du combat.md), [Manœuvres agiles](./Manœuvres agiles.md), [Science de la subtilisation](./Science de la subtilisation.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDtexte|**Compétences** [Bluff](./Bluff.md) +19, [Connaissances](./Connaissances.md) (mystères) +8, [Connaissances](./Connaissances.md) (plans) +8, [Diplomatie](./Diplomatie.md) +19, [Discrétion](./Discrétion.md) +26, [Escalade](./Escalade.md) +11, [Escamotage](./Escamotage.md) +22, [Évasion](./Évasion.md) +22, [Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +12}
+{s:BDtexte|**BBA** +6, **BMO** +12 (+14 en [[subtilisation]]), **DMD** 25 (27 contre la [[subtilisation]])}
+{s:BDtexte|**Dons** [[Arme de prédilection]] (griffe), [[Attaque éclair]], [[Attaque en finesse]], [[Esquive]], [[Expertise du combat]], [[Manœuvres agiles]], [[Science de la subtilisation]], [[Souplesse du serpent]]}
+{s:BDtexte|**Compétences** [[Bluff]] +19, [[Connaissances]] (mystères) +8, [[Connaissances]] (plans) +8, [[Diplomatie]] +19, [[Discrétion]] +26, [[Escalade]] +11, [[Escamotage]] +22, [[Évasion]] +22, [[Perception]] +18, [[Psychologie]] +12}
 {s:BDtexte|**Langues** aklo, commun, sylvestre}
 {s:BDtexte|**Particularités** sans ombre}
 {s:BDsoustitre|Écologie}
@@ -42,9 +42,9 @@ Categories:
 {s:BDtexte|**Organisation sociale** solitaire, paire ou gang (3-8)}
 {s:BDtexte|**Trésor** standard}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Déchirer les ombres (Sur).** Les griffes d’un collecteur d’ombres ont la propriété spéciale *[spectrale](./spectrale (propriété).md)* et elles infligent, en plus des dégâts normaux, 1d6 points d’[affaiblissement temporaire](./affaiblissement temporaire (capacité).md) en [Charisme](./Charisme.md) aux créatures intangibles. Ces dégâts sont susceptibles de détruire une créature s’ils sont infligés en quantité supérieure ou égale à la valeur de Charisme de cette créature.}
+{s:BDtexte|**Déchirer les ombres (Sur).** Les griffes d’un collecteur d’ombres ont la propriété spéciale *[[spectrale (propriété)|spectrale]]* et elles infligent, en plus des dégâts normaux, 1d6 points d’[[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] en [[Charisme]] aux créatures intangibles. Ces dégâts sont susceptibles de détruire une créature s’ils sont infligés en quantité supérieure ou égale à la valeur de Charisme de cette créature.}
 {s:BDtexte|**Sans ombre (Ext).** Un collecteur d’ombres ne possède lui-même aucune ombre. Il projette à la place l’une des ombres volées qui sont en sa possession.}
-{s:BDtexte|**Vol d’ombre (Sur).** Un collecteur d’ombres vole automatiquement l’ombre de toutes les créatures intangibles ou vivantes qu’il détruit, immobilise ou tue avec un coup de griffes. Un collecteur d’ombres peut aussi voler l’ombre d’une créature tangible vivante grâce à une manœuvre offensive de [subtilisation](./subtilisation.md). L’ombre n’est alors plus considérée comme liée à son propriétaire. La victime de ce vol n’a plus d’ombre ou de reflet et gagne 2 [niveaux négatifs](./niveau négatif.md) permanents tant qu’elle n’a pas récupéré son ombre. C’est d’ailleurs le seul moyen de dissiper ces niveaux négatifs, car la magie qui permet normalement d’annuler les niveaux négatifs ne fonctionne pas dans ce cas particulier. Quand un collecteur d’ombres vole une ombre, il gagne 2 points d’ombre. Le collecteur doit dépenser 1 point d’ombre pour utiliser n’importe lequel de ses pouvoirs magiques. Il commence généralement un combat avec 1d3+1 points d’ombre. Par une [action simple](./Action simple.md), un collecteur d’ombres peut libérer une ombre qu’il a volée. Une créature peut contacter le collecteur d’ombres pour tenter de récupérer son ombre tant que le collecteur n’est pas dans l’état préjudiciable [sans défense](./Sans défense.md) ou [mort](./Mort.md). Une *[annulation d’enchantement](./Annulation denchantement.md)* ([DD](./DD.md) 23) peut aussi permettre à une créature de récupérer son ombre.}
+{s:BDtexte|**Vol d’ombre (Sur).** Un collecteur d’ombres vole automatiquement l’ombre de toutes les créatures intangibles ou vivantes qu’il détruit, immobilise ou tue avec un coup de griffes. Un collecteur d’ombres peut aussi voler l’ombre d’une créature tangible vivante grâce à une manœuvre offensive de [[subtilisation]]. L’ombre n’est alors plus considérée comme liée à son propriétaire. La victime de ce vol n’a plus d’ombre ou de reflet et gagne 2 [[niveau négatif|niveaux négatifs]] permanents tant qu’elle n’a pas récupéré son ombre. C’est d’ailleurs le seul moyen de dissiper ces niveaux négatifs, car la magie qui permet normalement d’annuler les niveaux négatifs ne fonctionne pas dans ce cas particulier. Quand un collecteur d’ombres vole une ombre, il gagne 2 points d’ombre. Le collecteur doit dépenser 1 point d’ombre pour utiliser n’importe lequel de ses pouvoirs magiques. Il commence généralement un combat avec 1d3+1 points d’ombre. Par une [[action simple]], un collecteur d’ombres peut libérer une ombre qu’il a volée. Une créature peut contacter le collecteur d’ombres pour tenter de récupérer son ombre tant que le collecteur n’est pas dans l’état préjudiciable [[sans défense]] ou [[mort]]. Une *[[annulation denchantement|annulation d’enchantement]]* ([[DD]] 23) peut aussi permettre à une créature de récupérer son ombre.}
 </div>
 </td>
 <td>

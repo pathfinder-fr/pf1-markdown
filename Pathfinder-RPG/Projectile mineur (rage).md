@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#PROJECTILEMINEUR
 ---
 
->>> [pouvoirs de rage#PROJECTILEMINEUR](./Pouvoirs de rage.md#PROJECTILEMINEUR)
+>>> [[pouvoirs de rage#PROJECTILEMINEUR]]

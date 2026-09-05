@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Petites et grandes créatures#TABLEAUTAILLES
 ---
 
->>> [Petites et grandes créatures#TABLEAUTAILLES](./Petites et grandes créatures.md#TABLEAUTAILLES)
+>>> [[Petites et grandes créatures#TABLEAUTAILLES]]

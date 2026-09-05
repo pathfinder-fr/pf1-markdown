@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Étreinte (capacité)
 ---
 
->>> [Étreinte (capacité)](./Étreinte (capacité).md)
+>>> [[Étreinte (capacité)]]

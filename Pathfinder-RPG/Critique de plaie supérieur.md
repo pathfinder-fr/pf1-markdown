@@ -11,8 +11,8 @@ Categories:
 
 {s:um}*Les coups critiques des sorts et pouvoirs magiques affligent la cible d’une malédiction majeure. *
 
-**Conditions.** [Critique de plaie](./Critique de plaie.md), lanceur de sorts niveau 12
+**Conditions.** [[Critique de plaie]], lanceur de sorts niveau 12
 
-**Avantage.** Quand le personnage confirme un [coup critique](./coup critique.md) avec un sort de contact, de contact à distance ou un pouvoir magique, la cible est victime d’une [plaie magique](./Plaies.md) majeure aléatoire.
+**Avantage.** Quand le personnage confirme un [[coup critique]] avec un sort de contact, de contact à distance ou un pouvoir magique, la cible est victime d’une [[plaies|plaie magique]] majeure aléatoire.
 
-**Spécial.** Le personnage applique les effets d’un unique don de critique à un [coup critique](./coup critique.md) donné, à moins de posséder [Maîtrise du critique](./Maîtrise du critique.md).
+**Spécial.** Le personnage applique les effets d’un unique don de critique à un [[coup critique]] donné, à moins de posséder [[Maîtrise du critique]].

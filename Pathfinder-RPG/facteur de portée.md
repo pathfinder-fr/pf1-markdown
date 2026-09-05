@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#FACTEURDEPORTEE
 ---
 
->>> [Caractéristiques des armes#FACTEURDEPORTEE](./Caractéristiques des armes.md#FACTEURDEPORTEE)
+>>> [[Caractéristiques des armes#FACTEURDEPORTEE]]

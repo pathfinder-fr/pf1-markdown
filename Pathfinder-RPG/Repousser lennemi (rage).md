@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#REPOUSSERLENNEMI
 ---
 
->>> [pouvoirs de rage#REPOUSSERLENNEMI](./Pouvoirs de rage.md#REPOUSSERLENNEMI)
+>>> [[pouvoirs de rage#REPOUSSERLENNEMI]]

@@ -9,6 +9,6 @@ Categories:
 
 {s:cm}*Le personnage récupère plus vite quand il se repose dans une tombe.*
 
-**Conditions.** [Creuseur de terrier](./Creuseur de terrier.md), [goule](./Goule.md)
+**Conditions.** [[Creuseur de terrier]], [[goule]]
 
-**Avantages.** Le personnage soigne 1 [pv](./pv.md) toutes les 10 minutes tant qu’il est entouré par 1,50 mètre de terre ou de pierre naturelle de toutes parts et qu’il n’entreprend pas la moindre action.
+**Avantages.** Le personnage soigne 1 [[pv]] toutes les 10 minutes tant qu’il est entouré par 1,50 mètre de terre ou de pierre naturelle de toutes parts et qu’il n’entreprend pas la moindre action.

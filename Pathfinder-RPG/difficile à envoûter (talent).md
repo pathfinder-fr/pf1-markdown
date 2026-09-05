@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#DIFFICILEAENVOUTER
 ---
 
->>> [Talents#DIFFICILEAENVOUTER](./Talents.md#DIFFICILEAENVOUTER)
+>>> [[Talents#DIFFICILEAENVOUTER]]

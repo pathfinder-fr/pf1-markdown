@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.87*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille M, LM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision dans les ténèbres](./sous-type diable.md#VISIONTENEBRES) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[sous-type diable#VISIONTENEBRES|vision dans les ténèbres]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 10, pris au dépourvu 14 (naturelle +4)}
 {s:BDTexte|**pv** 13 (2d10+2)}
@@ -33,7 +33,7 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 *Des membres à moitié formés et un visage rongé et ruisselant s’agitent au sein de cet amas de chairs qui avance par à-coups.*
 
 Les lémures, les membres les plus faibles de la famille des diables,

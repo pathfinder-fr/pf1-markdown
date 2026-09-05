@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions spéciales#FEINTE
 ---
 
->>> [Actions spéciales#FEINTE](./Actions spéciales.md#FEINTE)
+>>> [[Actions spéciales#FEINTE]]

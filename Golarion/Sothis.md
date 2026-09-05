@@ -8,16 +8,16 @@ Categories:
 - Ville
 ---
 
-Capitale d'[Osirion](./Osirion.md), Sothis est aussi la ville la plus peuplée du pays. Elle est le siège du gouvernement d'[Osirion](./Osirion.md)
+Capitale d'[[Osirion]], Sothis est aussi la ville la plus peuplée du pays. Elle est le siège du gouvernement d'[[Osirion]]
 
-Elle est le symbole de la renaissance de la nation osirionnaise depuis que les anciennes lois d'[Osirion](./Osirion.md) ont été rétablies par le Pahraon Khemet I. La magnificence des monuments et palais qui la composent permet au Pharaon actuel, le Prince Rubis Khemet III, d'asseoir son autorité sur l'ensemble du territoire et illustre parfaitement le rayonnement ancestral de la civilisation osirionnaise.
+Elle est le symbole de la renaissance de la nation osirionnaise depuis que les anciennes lois d'[[Osirion]] ont été rétablies par le Pahraon Khemet I. La magnificence des monuments et palais qui la composent permet au Pharaon actuel, le Prince Rubis Khemet III, d'asseoir son autorité sur l'ensemble du territoire et illustre parfaitement le rayonnement ancestral de la civilisation osirionnaise.
 
 Certains lieux justifient à eux-seuls de visiter la ville :
-- la Flèche d'Azghaad (Azghaad's Spire) : abrite le Temple de [Néthys](./Néthys.md), 
+- la Flèche d'Azghaad (Azghaad's Spire) : abrite le Temple de [[Néthys]], 
 - le Dôme Noir (Black Dome) : abrite le palais royal et le quartier noble de la ville,
-- le Conseil du Soleil et du Ciel (Council of Sun and Sky) : abrite le conseil des représentants des cités d'[Osirion](./Osirion.md),
-- le Canal Pourpre (Crimson Canal) : construit par Azghaad I lors de la fondation de la ville pour alimenter la ville en eau depuis le [Sphinx](./Sphinx.md),
-- le Bazar Malhitu (Malhitu Bazaar) : symbole la richesse retrouvée d'[Osirion](./Osirion.md),
-- la Nécropole du Fidèle (Necropolis of the Faithful) : l'un des sites funéraires les plus importants du [Garund](./Garund.md),
+- le Conseil du Soleil et du Ciel (Council of Sun and Sky) : abrite le conseil des représentants des cités d'[[Osirion]],
+- le Canal Pourpre (Crimson Canal) : construit par Azghaad I lors de la fondation de la ville pour alimenter la ville en eau depuis le [[Sphinx]],
+- le Bazar Malhitu (Malhitu Bazaar) : symbole la richesse retrouvée d'[[Osirion]],
+- la Nécropole du Fidèle (Necropolis of the Faithful) : l'un des sites funéraires les plus importants du [[Garund]],
 - le Palais du Procréateur (Palace of the Forthbringer) : partie la plus vaste du Dome Noir, elle abrite les appartements du Pharaon et de sa famille,
-- le Temple du Soleil Eternel (Temple of the Eternal Sun) : délicat mélange d'architecture locale et étrangère, il abrite le temple de [Sarenrae](./Sarenrae.md)
+- le Temple du Soleil Eternel (Temple of the Eternal Sun) : délicat mélange d'architecture locale et étrangère, il abrite le temple de [[Sarenrae]]

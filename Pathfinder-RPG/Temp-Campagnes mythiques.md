@@ -11,7 +11,7 @@ LastModified: 2018-08-28 14:10
 - *Ex pas de **Temp-CreationPersoMythique** mais directement **Création Personnage Mythique** *
 À défaut, tous les liens qui feront référence à ces pages seront ensuite à reprendre, balises et ancres comprises, ce qui fait beaucoup de travail à refaire.
 
-**Attention aussi, les pages qui ont d'ores et déjà été créées comportent un espace de trop dans le nom <nowiki>[Nom de la page_](./Nom-de-la-page_.md)</nowiki>, ce qui va affecter les liens qui feront référence à ces pages.**
+**Attention aussi, les pages qui ont d'ores et déjà été créées comportent un espace de trop dans le nom <nowiki>[[Nom de la page_]]</nowiki>, ce qui va affecter les liens qui feront référence à ces pages.**
 
 Il va falloir recréer ces pages en supprimant l'espace en copiant dessus le texte de la page temporaire
 
@@ -29,7 +29,7 @@ Il faudra faire également une page d'accueil pour les règles mythiques qui ser
 
 ## Page des menus
 
-[Accueil Mythique](./Accueil Mythique.md), [Temp-Menus de navigation](./Temp-Menus-de-navigation.md)  
+[[Accueil Mythique]], [[Temp-Menus de navigation]]  
 
 Création accueil (rectulo)  
 
@@ -37,7 +37,7 @@ Proposition d'accueil (lozatal)
 
 
 ## INTRODUCTION
-[Glossaire Mythique](./Glossaire Mythique.md) créée et ok. Les pages de redirection sont créées pour amener sur cette page
+[[Glossaire Mythique]] créée et ok. Les pages de redirection sont créées pour amener sur cette page
 - Le lien vers MEP ramène sur montée en puissance pour simplifier les liens ultérieurs
 - le lien vers RDépique sans le caractère spécial
 - pour le rang mythique, attention ! rang renvoie au rang de compétence, il faudra ajouter mythique systématiquement
@@ -45,123 +45,123 @@ Proposition d'accueil (lozatal)
 ## Héros mythiques
 
 ### Création dun personnage mythique
-- [Création Personnage Mythique](./Création Personnage Mythique.md) -> ~~Copie du texte~~ (Raelags)/ ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-Page à détruire [Temp-CreationPersoMythique](./Temp-CreationPersoMythique.md)
+- [[Création Personnage Mythique]] -> ~~Copie du texte~~ (Raelags)/ ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+Page à détruire [[Temp-CreationPersoMythique]]
 
-#### [Création Personnage Mythique#AptitudeMythiquesBases](./Création Personnage Mythique.md#AptitudeMythiquesBases) Aptitude de base
-- [Création Personnage Mythique#AptitudeMythiquesBases](./Création Personnage Mythique.md#AptitudeMythiquesBases) -> ~~Copie du texte~~ (Raelags)/ ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+#### [[Création Personnage Mythique#AptitudeMythiquesBases]] Aptitude de base
+- [[Création Personnage Mythique#AptitudeMythiquesBases]] -> ~~Copie du texte~~ (Raelags)/ ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
 
-#### [Création Personnage Mythique#ObtentionGrades](./Création Personnage Mythique.md#ObtentionGrades) Obtention des grades
-- [Création Personnage Mythique#ObtentionGrades](./Création Personnage Mythique.md#ObtentionGrades) -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+#### [[Création Personnage Mythique#ObtentionGrades]] Obtention des grades
+- [[Création Personnage Mythique#ObtentionGrades]] -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
 
 
 ### Voies mythique
 
-#### Voie de l'[Archimage Mythique](./Archimage Mythique.md)
+#### Voie de l'[[Archimage Mythique]]
 
-- [Archimage Mythique](./Archimage Mythique.md) -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ ~~Relecture~~ (Rectulo)/ ~~Mise en forme~~ (Raelags)
-[Temp-ArchimageMythique](./Temp-ArchimageMythique.md) a supprimer
+- [[Archimage Mythique]] -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ ~~Relecture~~ (Rectulo)/ ~~Mise en forme~~ (Raelags)
+[[Temp-ArchimageMythique]] a supprimer
   - Aptitudes de la voie de l’archimage -> création d'un tableau récapitulatif / création des liens hypertexte + balises
-    - [Aptitudes de voie de larchimage Mythique](./Aptitudes de voie de larchimage Mythique.md)  -> ~~Copie du texte~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ Relecture / ~~Mise en forme~~ (Raelags)
-[Aptitudes de la voie de l'Archimage](./Temps-Temp-AptitudeVoieArchimage.md) a supprimer
+    - [[Aptitudes de voie de larchimage Mythique]]  -> ~~Copie du texte~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ Relecture / ~~Mise en forme~~ (Raelags)
+[[Temps-Temp-AptitudeVoieArchimage|Aptitudes de la voie de l'Archimage]] a supprimer
 
-#### Voie du [Champion Mythique](./Champion Mythique.md)
+#### Voie du [[Champion Mythique]]
 
-- [Champion Mythique](./Champion Mythique.md) -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ ~~Relecture~~ (Rectulo)/ ~~Mise en forme~~
-[Temp-ChampionMythique](./Temp-ChampionMythique.md) a supprimer
+- [[Champion Mythique]] -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ ~~Relecture~~ (Rectulo)/ ~~Mise en forme~~
+[[Temp-ChampionMythique]] a supprimer
   - Aptitudes de la voie du Champion -> création d'un tableau récapitulatif / création des liens hypertexte + balises
-    - [Aptitudes de la voie du Champion Mythique](./Aptitudes de la voie du Champion Mythique.md)  -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~ (Raelags)/ Relecture / ~~Mise en forme~~ (Lozatal)
-[Aptitudes de la voie du Champion](./Temp-AptitudeVoieChampion.md) a supprimer
+    - [[Aptitudes de la voie du Champion Mythique]]  -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~ (Raelags)/ Relecture / ~~Mise en forme~~ (Lozatal)
+[[Temp-AptitudeVoieChampion|Aptitudes de la voie du Champion]] a supprimer
 
-#### Voie du [Filou Mythique](./Filou Mythique.md)
+#### Voie du [[Filou Mythique]]
 
-- [Filou Mythique](./Filou Mythique.md) -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ ~~Relecture~~ (Rectulo)/ ~~Mise en forme~~ (Raelags)
-[Temp-FilouMythique](./Temp-FilouMythique.md) a supprimer
+- [[Filou Mythique]] -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ ~~Relecture~~ (Rectulo)/ ~~Mise en forme~~ (Raelags)
+[[Temp-FilouMythique]] a supprimer
   - Aptitudes de la voie du Filou-> création d'un tableau récapitulatif / création des liens hypertexte + balises
-    - [Aptitudes de la voie du Filou Mythique](./Aptitudes de la voie du Filou Mythique.md)  -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~(Raelags) / Relecture / ~~Mise en forme~~ (Lozatal)
-[Aptitudes de la voie du Filou](./Temp-AptitudeVoieFilou.md) a supprimer
+    - [[Aptitudes de la voie du Filou Mythique]]  -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~(Raelags) / Relecture / ~~Mise en forme~~ (Lozatal)
+[[Temp-AptitudeVoieFilou|Aptitudes de la voie du Filou]] a supprimer
 
-#### Voie du [Hiérophante Mythique](./Hiérophante Mythique.md)
+#### Voie du [[Hiérophante Mythique]]
 
-- [Hiérophante Mythique](./Hiérophante Mythique.md) -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ Relecture / ~~Mise en forme~~ (Raelags)
-[Temp-HierophanteMythique](./Temp-HierophanteMythique.md) a supprimer
+- [[Hiérophante Mythique]] -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ Relecture / ~~Mise en forme~~ (Raelags)
+[[Temp-HierophanteMythique]] a supprimer
   - Aptitudes de la voie du Hiérophante-> création d'un tableau récapitulatif / ~~création des liens hypertexte~~(RaeIags) + balises
-    - [Aptitudes de la voie du Hiérophante Mythique](./Aptitudes de la voie du Hiérophante Mythique.md)  -> ~~Copie du texte~~ (Lozatal)/  ~~création des liens hypertexte~~(RaeIags)e / Relecture / ~~Mise en forme~~ (Lozatal)
-[Aptitudes de la voie du Hiérophante](./Temp-AptitudeVoieHierophante.md) a supprimer
+    - [[Aptitudes de la voie du Hiérophante Mythique]]  -> ~~Copie du texte~~ (Lozatal)/  ~~création des liens hypertexte~~(RaeIags)e / Relecture / ~~Mise en forme~~ (Lozatal)
+[[Temp-AptitudeVoieHierophante|Aptitudes de la voie du Hiérophante]] a supprimer
 
-#### Voie du [Maréchal Mythique](./Maréchal Mythique.md)
+#### Voie du [[Maréchal Mythique]]
 
-- [Maréchal Mythique](./Maréchal Mythique.md) -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ Relecture / ~~Mise en forme~~ (Raelags)
-~~[Maréchal](./Temp-MarechalMythique.md)~~ Page à supprimer
+- [[Maréchal Mythique]] -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ Relecture / ~~Mise en forme~~ (Raelags)
+~~[[Temp-MarechalMythique|Maréchal]]~~ Page à supprimer
   - Aptitudes de la voie du Maréchal-> création d'un tableau récapitulatif / création des liens hypertexte + balises
-    - [Aptitudes de la voie du Maréchal Mythique](./Aptitudes de la voie du Maréchal Mythique.md)  -> ~~Copie du texte~~ Lozatal)/ ~~création des liens hypertexte~~(RaeIags) / Relecture / ~~Mise en forme~~ (Lozatal)
-[Aptitudes de la voie du Maréchal](./Temp-AptitudeVoieMarechal.md) a supprimer
+    - [[Aptitudes de la voie du Maréchal Mythique]]  -> ~~Copie du texte~~ Lozatal)/ ~~création des liens hypertexte~~(RaeIags) / Relecture / ~~Mise en forme~~ (Lozatal)
+[[Temp-AptitudeVoieMarechal|Aptitudes de la voie du Maréchal]] a supprimer
 
-#### Voie du [Protecteur Mythique](./Protecteur Mythique.md)
+#### Voie du [[Protecteur Mythique]]
 
-- [Protecteur Mythique](./Protecteur Mythique.md) -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ Relecture / ~~Mise en forme~~ (Raelags)
-[Protecteur](./Temp-ProtecteurMythique.md) a supprimer
+- [[Protecteur Mythique]] -> ~~Copie du texte~~ (Raelags)/ ~~Création du tableau~~ (Raelags)/ ~~création des liens hypertexte~~ (Raelags)/ Relecture / ~~Mise en forme~~ (Raelags)
+[[Temp-ProtecteurMythique|Protecteur]] a supprimer
   - Aptitudes de la voie du Protecteur-> création d'un tableau récapitulatif / ~~création des liens hypertexte~~ (Raelags) + balises
-    - [Aptitudes de la voie du Protecteur Mythique](./Aptitudes de la voie du Protecteur Mythique.md)  -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-[Aptitudes de la voie du Protecteur](./Temp-AptitudeVoieProtecteur.md) a supprimer
+    - [[Aptitudes de la voie du Protecteur Mythique]]  -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+[[Temp-AptitudeVoieProtecteur|Aptitudes de la voie du Protecteur]] a supprimer
 
-#### Voie [universelles Mythique](./Aptitudes de voie universelles Mythique.md)
+#### Voie [[Aptitudes de voie universelles Mythique|universelles Mythique]]
 
-- [Aptitudes de voie universelles Mythique](./Aptitudes de voie universelles Mythique.md) -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~ (Lozatal)/ Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Aptitudes de voie universelles Mythique]] -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~ (Lozatal)/ Relecture / ~~Mise en forme~~ (Lozatal)
 
 
 
-## [Dons mythiques](./Dons mythiques.md)
-- [Dons mythiques](./Dons mythiques.md) -> ~~Copie du texte~~ (Lozatal)/~~création des liens hypertexte~~ (Lozatal)/ Relecture / ~~Mise en forme~~ (Lozatal)
+## [[Dons mythiques]]
+- [[Dons mythiques]] -> ~~Copie du texte~~ (Lozatal)/~~création des liens hypertexte~~ (Lozatal)/ Relecture / ~~Mise en forme~~ (Lozatal)
   - ~~créer une nouvelle catégorie "don mythique"~~ (Rectulo)
-  - [Tableau récapitulatif des dons mythiques](./Tableau récapitulatif des dons mythiques.md) ~~Copie du texte~~ (Lozatal)/ ~~création d'un tableau récapitulatif~~ (Lozatal)/ ~~création des liens hypertexte~~ (Lozatal)/ Relecture / ~~Mise en forme~~ (Lozatal)
-  - ~~Création d'une page par don sous le format *[Nom du don Mythique](./Nom-du-don-Mythique.md)*~~ (Lozatal)
+  - [[Tableau récapitulatif des dons mythiques]] ~~Copie du texte~~ (Lozatal)/ ~~création d'un tableau récapitulatif~~ (Lozatal)/ ~~création des liens hypertexte~~ (Lozatal)/ Relecture / ~~Mise en forme~~ (Lozatal)
+  - ~~Création d'une page par don sous le format *[[Nom du don Mythique]]*~~ (Lozatal)
 ~~copier coller le texte~~ (Lozatal)/ ~~création des liens hypertexte + balises~~ (Lozatal)/ Relecture / ~~Mise en forme~~ (Lozatal)
 ~~Dans les catégories, renseigner Campagnes Mythiques,dons, don mythique, Règles officielles~~ (Lozatal)
 
-~~[Persuasif (mythique)](./Persuasif-(mythique).md)~~ page supprimée
-## [Sorts mythiques](./Sorts mythiques.md)
+~~[[Persuasif (mythique)]]~~ page supprimée
+## [[Sorts mythiques]]
 
-- [Sorts mythiques](./Sorts mythiques.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal)/ Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Sorts mythiques]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal)/ Relecture / ~~Mise en forme~~ (Lozatal)
   - Version Mythiques des sorts -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~ (Lozatal)/ Relecture / ~~Mise en forme~~ (Lozatal)
   - Création des sorts mythiques uniques -> ~~Copie du texte~~ (Lozatal)/ ~~création des liens hypertexte~~ (Lozatal)/ Relecture / ~~Mise en forme~~(Lozatal)
 
 ## Mener une partie mythique
 
-- [Mener une partie mythique](./Mener une partie mythique.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-  - [Thèmes mythiques](./Thèmes mythiques.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-- [Conception des rencontres mythiques](./Conception des rencontres mythiques.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-- [Épreuves mythiques](./Épreuves mythiques.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-- [Faveurs mythiques](./Faveurs mythiques.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-- [Scélérats mythiques récurrents](./Scélérats mythiques récurrents.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-- [Défauts mythiques](./Défauts mythiques.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-- [Idées d'aventures mythiques](./Idées daventures mythiques.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Mener une partie mythique]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+  - [[Thèmes mythiques]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Conception des rencontres mythiques]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Épreuves mythiques]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Faveurs mythiques]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Scélérats mythiques récurrents]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Défauts mythiques]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Idées daventures mythiques|Idées d'aventures mythiques]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
 
 ## Objets magiques mythiques
 
 - Objets magiques
-  - Temporaire [Temp-Propriétés spéciales des armures et des boucliers](./Temp-Propriétés spéciales des armures et des boucliers.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-    - Temporaire [Temp-Armures et boucliers spéciaux](./Temp-Armures et boucliers spéciaux.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-  - Temporaire [Temp-Propriétés spéciales des armes](./Temp-Propriétés spéciales des armes.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-    - Temporaire [Temp-Armes spéciales](./Temp-Armes spéciales.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-  - Temporaire [Temp-Autres objets magiques](./Temp-Autres-objets-magiques.md) -> ~~Copie du texte~~ (Lozatal) / création des liens hypertexte / Relecture / Mise en forme
+  - Temporaire [[Temp-Propriétés spéciales des armures et des boucliers]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+    - Temporaire [[Temp-Armures et boucliers spéciaux]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+  - Temporaire [[Temp-Propriétés spéciales des armes]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+    - Temporaire [[Temp-Armes spéciales]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+  - Temporaire [[Temp-Autres objets magiques]] -> ~~Copie du texte~~ (Lozatal) / création des liens hypertexte / Relecture / Mise en forme
 - Artéfacts
-  - Temporaire [Temp-Artéfacts mineurs](./Temp-Artéfacts mineurs.md) -> ~~Copie du texte~~ (Lozatal) / création des liens hypertexte / Relecture / Mise en forme
-  - Temporaire [Temp-Artéfacts majeurs](./Temp-Artéfacts majeurs.md) -> ~~Copie du texte~~ (Lozatal) / création des liens hypertexte / Relecture / Mise en forme
-- [Objets légendaires](./Objets légendaires.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-  - [Aptitudes des objets légendaires](./Aptitudes-des-objets-légendaires.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-  - [Devenir légendaire](./Devenir-légendaire.md) -> a supprimer
+  - Temporaire [[Temp-Artéfacts mineurs]] -> ~~Copie du texte~~ (Lozatal) / création des liens hypertexte / Relecture / Mise en forme
+  - Temporaire [[Temp-Artéfacts majeurs]] -> ~~Copie du texte~~ (Lozatal) / création des liens hypertexte / Relecture / Mise en forme
+- [[Objets légendaires]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+  - [[Aptitudes des objets légendaires]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+  - [[Devenir légendaire]] -> a supprimer
 
 ## Monstres mythiques
 
-- [Origines des monstres mythiques](./Origines des monstres mythiques.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-- [Rang mythique](./Rang mythique.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-- [Lire le profil des monstres mythiques](./Lire le profil des monstres mythiques.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Origines des monstres mythiques]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Rang mythique]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+- [[Lire le profil des monstres mythiques]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
 - Evolution des monstres mythiques
-  - [Archétypes simples de créatures mythiques](./Archétypes simples de créatures mythiques.md) -> ~~Copie du texte~~ (Lozatal) / création des liens hypertexte / Relecture / ~~Mise en forme~~ (Lozatal)
-  - [Construire une créature mythique](./Construire une créature mythique.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-  - [sous-type mythique](./sous-type mythique.md) -> ~~Copie du texte~~ (Ancienne page) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Ancienne page)
-  - [Nouvelles règles universelles des monstres](./Nouvelles règles universelles des monstres.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
-  - [Evaluer les statistiques des monstres](./Evaluer les statistiques des monstres.md) -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+  - [[Archétypes simples de créatures mythiques]] -> ~~Copie du texte~~ (Lozatal) / création des liens hypertexte / Relecture / ~~Mise en forme~~ (Lozatal)
+  - [[Construire une créature mythique]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+  - [[sous-type mythique]] -> ~~Copie du texte~~ (Ancienne page) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Ancienne page)
+  - [[Nouvelles règles universelles des monstres]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
+  - [[Evaluer les statistiques des monstres]] -> ~~Copie du texte~~ (Lozatal) / ~~création des liens hypertexte~~ (Lozatal) / Relecture / ~~Mise en forme~~ (Lozatal)
 
-- Temporaire [Liste des monstres mythiques](./Liste des monstres mythiques.md) -> ~~Copie du texte~~ (Lozatal) / création des liens hypertexte / Relecture / Mise en forme
+- Temporaire [[Liste des monstres mythiques]] -> ~~Copie du texte~~ (Lozatal) / création des liens hypertexte / Relecture / Mise en forme

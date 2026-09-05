@@ -8,18 +8,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Balai volant|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 17 000 po ; **Poids** 1,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 17 000 po ; **Poids** 1,5 kg
 (((Description)))
-Pendant neuf heures par jour (qui n’ont pas à être successives), ce balai peut s’élever dans les airs comme s’il était affecté par un sort de *[vol supérieur](./Vol supérieur.md)* (avec une manœuvrabilité moyenne). Il est à même de transporter jusqu’à 100 kg à une vitesse de 12 m et jusqu’à 200 kg à une vitesse de 9 m. De plus, il peut se rendre seul jusqu’à la destination donnée par son possesseur, du moment que ce dernier a une idée assez précise de l’endroit en question. Il suffit que le personnage prononce le [mot de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE) pour que le balai volant vienne le rejoindre, tant qu’il se trouve à moins de trois cents mètres). Le balai a une vitesse de 12 m lorsqu’il n’est pas monté.
+Pendant neuf heures par jour (qui n’ont pas à être successives), ce balai peut s’élever dans les airs comme s’il était affecté par un sort de *[[vol supérieur]]* (avec une manœuvrabilité moyenne). Il est à même de transporter jusqu’à 100 kg à une vitesse de 12 m et jusqu’à 200 kg à une vitesse de 9 m. De plus, il peut se rendre seul jusqu’à la destination donnée par son possesseur, du moment que ce dernier a une idée assez précise de l’endroit en question. Il suffit que le personnage prononce le [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|mot de commande]] pour que le balai volant vienne le rejoindre, tant qu’il se trouve à moins de trois cents mètres). Le balai a une vitesse de 12 m lorsqu’il n’est pas monté.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[vol supérieur](./Vol supérieur.md)*, *[permanence](./Permanence.md)* ; **Coût** 8 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[vol supérieur]]*, *[[permanence]]* ; **Coût** 8 500 po
 </div>
 
 <div class="BD">
 {s:BDTitre|Balai volant de course|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 30.000 po ; **Poids** 1,5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 30.000 po ; **Poids** 1,5 kg
 (((Description)))
-Un balai volant de course fonctionne comme un *balai volant*, mais il peut voler plus vite que ce dernier pendant 9 minutes par jour. Il faut une [action rapide](./Action rapide.md) pour déclencher cette augmentation de vitesse. La vitesse de vol augmentée du balai s’élève à 18 mètres jusqu’à 100 kg de charge ou à 12 mètres jusqu’à 200 kg. Chaque minute passée à cette vitesse augmentée consomme 1 heure du temps de vol ordinaire. Par une [action rapide](./Action rapide.md), le personnage peut dépenser 5 heures de vol pour faire passer la vitesse du balai à 36 mètres jusqu’à 100 kg de charge ou à 24 mètres jusqu’à 200 kg. Cette accélération dure 1 [round](./round.md) et, dès qu’elle se termine, il y a 50% de chances que le balai soit brisé et inutilisable tant qu’il n’est pas réparé.
+Un balai volant de course fonctionne comme un *balai volant*, mais il peut voler plus vite que ce dernier pendant 9 minutes par jour. Il faut une [[action rapide]] pour déclencher cette augmentation de vitesse. La vitesse de vol augmentée du balai s’élève à 18 mètres jusqu’à 100 kg de charge ou à 12 mètres jusqu’à 200 kg. Chaque minute passée à cette vitesse augmentée consomme 1 heure du temps de vol ordinaire. Par une [[action rapide]], le personnage peut dépenser 5 heures de vol pour faire passer la vitesse du balai à 36 mètres jusqu’à 100 kg de charge ou à 24 mètres jusqu’à 200 kg. Cette accélération dure 1 [[round]] et, dès qu’elle se termine, il y a 50% de chances que le balai soit brisé et inutilisable tant qu’il n’est pas réparé.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[rapidité](./Rapidité.md)*, *[vol supérieur](./Vol supérieur.md)*, *[permanence](./Permanence.md)* ; **Coût** 15.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[rapidité]]*, *[[vol supérieur]]*, *[[permanence]]* ; **Coût** 15.000 po
 </div>

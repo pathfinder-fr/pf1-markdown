@@ -4,9 +4,9 @@ Title: Les académies rivales
 LastModified: 2025-01-22 17:39
 ---
 
-• [Retour à la page sur le lore et le monde de Golarion pour Pathfinder 2](./LORE.md)  
+• [[LORE|Retour à la page sur le lore et le monde de Golarion pour Pathfinder 2]]  
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]
 
 
 La Convocation des six Écoles approche à grands pas avec l’arrivée future de Pathfinder Lost Omens : Rival Academies ! Avec la prochaine publication du livre, le 5 mars, il est temps de dévoiler quelques secrets à propos de ces écoles.
@@ -47,7 +47,7 @@ Avec un tel nombre d’étudiants visitant l’Univers pour la première fois, l
 À côté de nombreuses expositions d’étudiants relatives à la magie et aux arts des fées, Cobyslarni a également ouvert les portes au Répositoire des échos, une archive extradimensionnelle remplies de choses prélevées dans des rêves oubliés. Les guides souriants y sont toujours prêts à offrir des conseils parfois cryptiques mais même les étudiants de Cobyslarni y croisent souvent des gremlins et des cauchemars plongés dans la brume avant de pouvoir localiser quelques rites oubliés ou histoires perdues dans les limbes du temps.
 
 Mais ce n’est bien sûr pas l’unique source d’information que Cobyslarni amène à la Convention. L’école visite de nombreux royaumes distants, ses étudiants apprenant des secrets étranges et passant des pactes avec des entités mystérieuses. De nombreux étudiants sont devenus des sorciers en rencontrant des créatures puissantes prêtes à participer à un tel pacte ; certains, bien que rares, sont même parvenus à attirer l’attention du directeur lui-même.
-Les étudiants qui s’intéressent plus particulièrement à la magie des pactes deviennent généralement des pactisants [pactbinders] et se lient personnellement par magie à de nombreuses entités ou même à des concepts abstraits. Les pactisants de Cobyslarni représentent une large variété de pactes qui peuvent concerner tant des Anciens du royaume des fées que des individus féeriques plus simples, suite aux nombreux voyages effectués par l’école.
+Les étudiants qui s’intéressent plus particulièrement à la magie des pactes deviennent généralement des pactisants [[pactbinders]] et se lient personnellement par magie à de nombreuses entités ou même à des concepts abstraits. Les pactisants de Cobyslarni représentent une large variété de pactes qui peuvent concerner tant des Anciens du royaume des fées que des individus féeriques plus simples, suite aux nombreux voyages effectués par l’école.
 
 ## L’académie kitharodienne
 

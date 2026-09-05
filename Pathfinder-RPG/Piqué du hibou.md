@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Votre entraînement martial vous aide à vous déplacer avec un équilibre acrobatique.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 15, [École du hibou](./École du hibou.md), [Talent](./Talent.md) (Discrétion), 1 rang en [Acrobaties](./Acrobaties.md), 1 rang en [Discrétion](./Discrétion.md)
+**Conditions.** [[Dex]] 15, [[École du hibou]], [[Talent]] (Discrétion), 1 rang en [[Acrobaties]], 1 rang en [[Discrétion]]
 
-**Avantages.** Quand le personnage utilise l'[École du hibou](./École du hibou.md), il peut utiliser son [bonus de base à l'attaque](./BBA.md) à la place de ses rangs en [Acrobaties](./Acrobaties.md) pour déterminer son bonus en Acrobaties. Le personnage peut effectuer des tests d'Acrobaties pour se déplacer sur des surfaces étroites et glissantes et pour éviter les [attaques d'opportunité](./AO.md) pendant qu'il [charge](./charge.md), subissant des malus et augmentant les DD comme il le ferait en se déplaçant à pleine vitesse dans ces conditions.
+**Avantages.** Quand le personnage utilise l'[[École du hibou]], il peut utiliser son [[BBA|bonus de base à l'attaque]] à la place de ses rangs en [[Acrobaties]] pour déterminer son bonus en Acrobaties. Le personnage peut effectuer des tests d'Acrobaties pour se déplacer sur des surfaces étroites et glissantes et pour éviter les [[AO|attaques d'opportunité]] pendant qu'il [[charge]], subissant des malus et augmentant les DD comme il le ferait en se déplaçant à pleine vitesse dans ces conditions.

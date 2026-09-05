@@ -10,9 +10,9 @@ Des disciples d'Asmodéus ont volé des moutons d'un village, les PJ mènent l'e
 Autrefois, il s'agissait d'un repère de contrebandiers qui a été abandonné. Des kobolds menés par un fervent d'Asmodéus ont pris possession des lieux pour leurs machinations infernales.
 ''
 
-[imageauto||http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie 82%2fDF_1bis.png]
+<img src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie 82%2fDF_1bis.png" class="imageauto" alt="">
 
-[^http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie 82%2fDF_1.png|Version battlemap]
+[Version battlemap](http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie 82%2fDF_1.png)
 
 
 Il faudra faire attention au temps et aux actions car ce donjon est... chronométré. Les PJ ont en réalité 130 round pour sauver une fillette du sacrifice.
@@ -22,59 +22,59 @@ Il faudra faire attention au temps et aux actions car ce donjon est... chronomé
 <tr><td>
 <div class="BD" style="border: 1px solid #4b3124; padding: 4px">
 {s:BDTitre|P1 : Piège de poussière collante|FP 1}
-- **[Type](./../Pathfinder-RPG/Pièges.md#TYPES)** mécanique ; **[Perception](./../Pathfinder-RPG/Perception.md)** [DD](./../Pathfinder-RPG/DD.md) 17 ; **[Sabotage](./../Pathfinder-RPG/Sabotage.md)** [DD](./../Pathfinder-RPG/DD.md)  20
+- **[[Pathfinder-RPG.Pièges#TYPES|Type]]** mécanique ; **[[Pathfinder-RPG.Perception|Perception]]** [[Pathfinder-RPG.DD|DD]] 17 ; **[[Pathfinder-RPG.Sabotage|Sabotage]]** [[Pathfinder-RPG.DD|DD]]  20
 (((Effet)))
-- **[Déclencheur](./../Pathfinder-RPG/Pièges.md#DECLENCHEUR)** emplacement ; **[Remise en place](./../Pathfinder-RPG/Pièges.md#REMISEENPLACE)** manuelle
-- **[Effets](./../Pathfinder-RPG/Pièges.md#EFFETS)** poussière collante (cible enchevêtrée jusqu’à ce qu’elle réussisse un test de Force ou d’Évasion DD 25); [DD](./../Pathfinder-RPG/DD.md) 25 pour annuler
+- **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** emplacement ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** manuelle
+- **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** poussière collante (cible enchevêtrée jusqu’à ce qu’elle réussisse un test de Force ou d’Évasion DD 25); [[Pathfinder-RPG.DD|DD]] 25 pour annuler
 </div>
 
 
 <div class="BD" style="border: 1px solid #4b3124; padding: 4px">
 {s:BDTitre|P2 : Fosse  fumier de dragon|FP 2}
-- **[Type](./../Pathfinder-RPG/Pièges.md#TYPES)** mécanique ; **[Perception](./../Pathfinder-RPG/Perception.md)** [DD](./../Pathfinder-RPG/DD.md) 20 ; **[Sabotage](./../Pathfinder-RPG/Sabotage.md)** [DD](./../Pathfinder-RPG/DD.md)  20
+- **[[Pathfinder-RPG.Pièges#TYPES|Type]]** mécanique ; **[[Pathfinder-RPG.Perception|Perception]]** [[Pathfinder-RPG.DD|DD]] 20 ; **[[Pathfinder-RPG.Sabotage|Sabotage]]** [[Pathfinder-RPG.DD|DD]]  20
 (((Effet)))
-- **[Déclencheur](./../Pathfinder-RPG/Pièges.md#DECLENCHEUR)** emplacement ; **[Remise en place](./../Pathfinder-RPG/Pièges.md#REMISEENPLACE)** manuelle
-- **[Effets](./../Pathfinder-RPG/Pièges.md#EFFETS)** fosse de 3 m de profondeur remplie jusqu'à 1,5m de "fumier de
+- **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** emplacement ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** manuelle
+- **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** fosse de 3 m de profondeur remplie jusqu'à 1,5m de "fumier de
 dragon" (kobolds)(créature empestant le fumier de dragon, -4 aux tests de Discrétion pendant 24 h, -8 aux tests de Discrétion si la créature repérant la victime dispose du pouvoir odorat)
 </div>
 
 
 <div class="BD" style="border: 1px solid #4b3124; padding: 4px">
 {s:BDTitre|P3 : Chute de nid de serpent |FP 3}
-- **[Type](./../Pathfinder-RPG/Pièges.md#TYPES)** mécanique ; **[Perception](./../Pathfinder-RPG/Perception.md)** [DD](./../Pathfinder-RPG/DD.md) 25 ; **[Sabotage](./../Pathfinder-RPG/Sabotage.md)** [DD](./../Pathfinder-RPG/DD.md)  20
+- **[[Pathfinder-RPG.Pièges#TYPES|Type]]** mécanique ; **[[Pathfinder-RPG.Perception|Perception]]** [[Pathfinder-RPG.DD|DD]] 25 ; **[[Pathfinder-RPG.Sabotage|Sabotage]]** [[Pathfinder-RPG.DD|DD]]  20
 (((Effet)))
-- **[Déclencheur](./../Pathfinder-RPG/Pièges.md#DECLENCHEUR)** emplacement ; **[Remise en place](./../Pathfinder-RPG/Pièges.md#REMISEENPLACE)** manuelle
-- **[Effets](./../Pathfinder-RPG/Pièges.md#EFFETS)** Une trappe au plafond laisse tomber une [nuée de serpents](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Nuée de serpents.ashx) qui attaquent les PJ sur un round de surprise.
+- **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** emplacement ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** manuelle
+- **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** Une trappe au plafond laisse tomber une [nuée de serpents](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Nu%C3%A9e%20de%20serpents.ashx) qui attaquent les PJ sur un round de surprise.
 </div>
 
 </td>
 <td>
 <div class="BD" style="border: 1px solid #4b3124; padding: 4px">
 {s:BDTitre|P4 : Piège de feu draconique |FP 1}
-- **[Type](./../Pathfinder-RPG/Pièges.md#TYPES)** magique ; **[Perception](./../Pathfinder-RPG/Perception.md)** [DD](./../Pathfinder-RPG/DD.md) 25 ; **[Sabotage](./../Pathfinder-RPG/Sabotage.md)** [DD](./../Pathfinder-RPG/DD.md)  15
+- **[[Pathfinder-RPG.Pièges#TYPES|Type]]** magique ; **[[Pathfinder-RPG.Perception|Perception]]** [[Pathfinder-RPG.DD|DD]] 25 ; **[[Pathfinder-RPG.Sabotage|Sabotage]]** [[Pathfinder-RPG.DD|DD]]  15
 (((Effet)))
-- **[Déclencheur](./../Pathfinder-RPG/Pièges.md#DECLENCHEUR)** emplacement ; **[Remise en place](./../Pathfinder-RPG/Pièges.md#REMISEENPLACE)** automatique (5 minutes)
-- **[Effets](./../Pathfinder-RPG/Pièges.md#EFFETS)** Rayon de flammes (2d6 dégâts de feu, Réf DD 20 1/2 dégâts) ; cibles multiples (toutes les cibles dans une ligne de 6m (4c)).
+- **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** emplacement ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** automatique (5 minutes)
+- **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** Rayon de flammes (2d6 dégâts de feu, Réf DD 20 1/2 dégâts) ; cibles multiples (toutes les cibles dans une ligne de 6m (4c)).
 Une version impie peut rajouter 1d6 dégâts de feu aux créatures d'alignement Bon.
 </div>
 
 
 <div class="BD" style="border: 1px solid #4b3124; padding: 4px">
 {s:BDTitre|P5 : Chute de bûche |FP 3}
-- **[Type](./../Pathfinder-RPG/Pièges.md#TYPES)** mécanique ; **[Perception](./../Pathfinder-RPG/Perception.md)** [DD](./../Pathfinder-RPG/DD.md) 25 ; **[Sabotage](./../Pathfinder-RPG/Sabotage.md)** [DD](./../Pathfinder-RPG/DD.md)  20
+- **[[Pathfinder-RPG.Pièges#TYPES|Type]]** mécanique ; **[[Pathfinder-RPG.Perception|Perception]]** [[Pathfinder-RPG.DD|DD]] 25 ; **[[Pathfinder-RPG.Sabotage|Sabotage]]** [[Pathfinder-RPG.DD|DD]]  20
 (((Effet)))
-- **[Déclencheur](./../Pathfinder-RPG/Pièges.md#DECLENCHEUR)** emplacement ; **[Remise en place](./../Pathfinder-RPG/Pièges.md#REMISEENPLACE)** réparation
-- **[Effets](./../Pathfinder-RPG/Pièges.md#EFFETS)** Effet att +10 corps à corps (1d6+7) ; cibles multiples (toutes les cibles
+- **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** emplacement ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** réparation
+- **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** Effet att +10 corps à corps (1d6+7) ; cibles multiples (toutes les cibles
 sur une ligne de 6 m).
 </div>
 
 
 <div class="BD" style="border: 1px solid #4b3124; padding: 4px">
 {s:BDTitre|P6 : Fosse camouflée |FP 3}
-- **[Type](./../Pathfinder-RPG/Pièges.md#TYPES)** mécanique ; **[Perception](./../Pathfinder-RPG/Perception.md)** [DD](./../Pathfinder-RPG/DD.md) 25 ; **[Sabotage](./../Pathfinder-RPG/Sabotage.md)** [DD](./../Pathfinder-RPG/DD.md)  20
+- **[[Pathfinder-RPG.Pièges#TYPES|Type]]** mécanique ; **[[Pathfinder-RPG.Perception|Perception]]** [[Pathfinder-RPG.DD|DD]] 25 ; **[[Pathfinder-RPG.Sabotage|Sabotage]]** [[Pathfinder-RPG.DD|DD]]  20
 (((Effet)))
-- **[Déclencheur](./../Pathfinder-RPG/Pièges.md#DECLENCHEUR)** espace ; **[Remise en place](./../Pathfinder-RPG/Pièges.md#REMISEENPLACE)** manuelle
-- **[Effets](./../Pathfinder-RPG/Pièges.md#EFFETS)** La case du milieu active le piège si une créature de taille M ou supérieure passe dessus : une fosse de 9m de profondeur (3d6 chute), jet Réflexe (DD 20) pour éviter ; cibles multiples (première cible dans 2 cases adjacentes de 1,50 m). 
+- **[[Pathfinder-RPG.Pièges#DECLENCHEUR|Déclencheur]]** espace ; **[[Pathfinder-RPG.Pièges#REMISEENPLACE|Remise en place]]** manuelle
+- **[[Pathfinder-RPG.Pièges#EFFETS|Effets]]** La case du milieu active le piège si une créature de taille M ou supérieure passe dessus : une fosse de 9m de profondeur (3d6 chute), jet Réflexe (DD 20) pour éviter ; cibles multiples (première cible dans 2 cases adjacentes de 1,50 m). 
 
 </div>
 
@@ -97,7 +97,7 @@ Sur un des monticules nauséabonds un rat sanguinaire trônait et menaçait de s
 Toutes les créatures étant aux abords de la pièce ou dedans doivent faire un jet de vigueur DD 7 pour afin de ne pas être nauséeux.
 Le jet est à renouveler lorsqu'on entre dans la pièce avec un bonus de +2 à chaque round qui passe.
 
-Il s'agit d'un [Rat sanguinaire](./../Pathfinder-RPG/Rat sanguinaire.md). Un [Kobold](./../Pathfinder-RPG/Kobold.md) est initialement en train de le [dresser](./../Pathfinder-RPG/Dressage.md). S'il entend du bruit, il se cache derrière la porte.
+Il s'agit d'un [[Pathfinder-RPG.Rat sanguinaire|Rat sanguinaire]]. Un [[Pathfinder-RPG.Kobold|Kobold]] est initialement en train de le [[Pathfinder-RPG.Dressage|dresser]]. S'il entend du bruit, il se cache derrière la porte.
 S'il n'est pas repéré, il ira prévenir les autres kobolds de la salle 3 en passant par le passage secret.
 
 Il s'agit d'une pierre sur le mur à enfoncer (DD 18) qui fait coulisser une porte de pierre, émettant un raclement qui peut être perçu du couloir.
@@ -129,7 +129,7 @@ Cela devrait motiver les PJ à agir vite et parfois en désordre.
 Parmi eux se trouvent un kobold sniper qui détient la clef de la porte qui mène à la salle de torture.
 
 En examinant de plus près, sur la porte il a une inscription :
-[imageauto||http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie 82%2fDF1_Warn1.png]
+<img src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie 82%2fDF1_Warn1.png" class="imageauto" alt="">
 
 Il est écrit en draconique : "Si pas le code, faites le tour".
 
@@ -138,7 +138,7 @@ Il est écrit en draconique : "Si pas le code, faites le tour".
 ''Un couloir dépourvu de lumière, adjacent à la pièce bifurque à droite.
 Au Sud du couloir, il y a un cul de sac et sur le mur une dalle murale avec des gemmes et un texte gravé au dessus, visiblement incrusté d'or. De l'autre côté du couloir, un masque de soleil doré est posé au mur.''
 
-La dalle murale est en réalité une [http://www.pathfinder-fr.org/Forum/yaf_postst13280_Enigme--4.aspx#post556204|énigme.]
+La dalle murale est en réalité une [énigme.](http://www.pathfinder-fr.org/Forum/yaf_postst13280_Enigme--4.aspx#post556204)
 
 Le masque d'une valeur de 150 pièces d'or dissimule un piège (P4) qui s'active en marchant sur une dalle un peu avant.
 
@@ -165,7 +165,7 @@ En examinant la bibliothèque on peut y trouver :
 
 "les légendes de Miérani", "Celwynvian la cité perdue", un parchemin "Imposer ses règles", "Comment dominer des imbéciles", "Cinquante nuances de grès", "Succubes et corsets numéro 6", "Les cents vies de Jack "Le Sauvage"", un parchemin indéchiffrable, " Histoires Elfiques", "La légende de la pierre étoile", "Mille et une astuces pour duper vos alliés", un parchemin indéchiffrable, "Le génie qui offrit du sel", "Araignées et autres vermines", "Nos ennemis les bêtes", "Harry et les squarks", "Le livre du marais"
 
-Vous pouvez en rajouter en vous  inspirant de [http://www.pathfinder-fr.org/Forum/posts/t13178-De-quoi-etoffer-les-bibliotheques-en-jeu|ce fil de discussion.]
+Vous pouvez en rajouter en vous  inspirant de [ce fil de discussion.](http://www.pathfinder-fr.org/Forum/posts/t13178-De-quoi-etoffer-les-bibliotheques-en-jeu)
 
 Les deux parchemins sont "Projectiles magiques" et "Saignement".
 
@@ -176,7 +176,7 @@ En inspectant le bureau :
 Dans le coffret se trouve une bourse de 34 pièces d'argent ainsi qu'une potion de soins.
 
 Dans le carnet il est décrit les dernières trouvailles du magicien.{br}
-[http://www.pathfinder-fr.org/Forum/posts/m555438-Le-Miroir-Iridescent#post555438|Exemple] dans le spoiler de ma partie.
+[Exemple](http://www.pathfinder-fr.org/Forum/posts/m555438-Le-Miroir-Iridescent#post555438) dans le spoiler de ma partie.
 
 
 #### 5. Le réfectoire
@@ -210,7 +210,7 @@ Celle-ci est dans un coin et semble occupée à se faire les dents sur le bureau
 Le coffre contient une potion de soin, des habits de noble, une rapière de maître.
 Dans un des tiroirs du bureau il y a un carnet avec des croquis.
 
-La chèvre est en réalité un [Diablotin](./../Pathfinder-RPG/Diablotin.md) métamorphosé.
+La chèvre est en réalité un [[Pathfinder-RPG.Diablotin|Diablotin]] métamorphosé.
 
 
 #### 8. La salle d'invocation
@@ -225,9 +225,9 @@ Cette sinistre beauté qui semble être sortie d'un rêve qui aurait mal tourné
 
 *Dans l'autre partie de la pièce, il y a un homme encapuchonné derrière un pupitre. Ses vêtements noirs et rouges semblent de bonne qualité et brodés. Il tient un bâton dans sa main surmonté d'un crâne avec des cornes et d'une gemme rouge dans la gueule.*
 
-[imageauto||https://s-media-cache-ak0.pinimg.com/564x/86/67/fa/8667fad9047d741927cf35f9a1087ea3.jpg|300px|]
+<img src="https://s-media-cache-ak0.pinimg.com/564x/86/67/fa/8667fad9047d741927cf35f9a1087ea3.jpg" class="imageauto" alt="">
 
-Il s'agit d'un [Diaboliste initié](./../Aventures/Diaboliste initié.md).
+Il s'agit d'un [[Aventures.Diaboliste initié|Diaboliste initié]].
 
 *Au fond de la pièce, une petite silhouette à la peau verdâtre retenue par des chaînes au mur, la tête pendant sur son torse, bâillonnée. *
 

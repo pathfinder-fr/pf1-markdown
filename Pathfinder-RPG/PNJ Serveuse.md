@@ -10,11 +10,11 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Serveuse|FP 3}
-{s:BDTexte|*Source : [Manuel des PNJ p. 257](./Manuel des PNJ (Contenu).md)*}
+{s:BDTexte|*Source : [[Manuel des PNJ (contenu)|Manuel des PNJ p. 257]]*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humain](./Humain.md) [homme du peuple](./Homme du peuple.md) 5}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md)) de taille M, CN}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +6}
+{s:BDTexte|[[Humain]] [[Homme du peuple]] 5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]]) de taille M, CN}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 12, contact 12, pris au dépourvu 10 (Dex +1, esquive +1)}
 {s:BDTexte|**pv** 17 (5d6)}
@@ -28,10 +28,10 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 8, **Dex** 13, **Con** 11, **Int** 9, **Sag** 10, **Cha** 13}
 {s:BDTexte|**BBA** +2 ; **BMO** +1 ; **DMD** 13}
-{s:BDTexte|**Dons** [Aisance](./Aisance.md), [Esquive](./Esquive.md), [Rapide](./Rapide.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (folklore local) +4, [Diplomatie](./Diplomatie.md) +6, [Perception](./Perception.md) +6, [Psychologie](./Psychologie.md) +6}
+{s:BDTexte|**Dons** [[Aisance]], [[Esquive]], [[Rapide]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (folklore local) +4, [[Diplomatie]] +6, [[Perception]] +6, [[Psychologie]] +6}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Équipement divers** [dague](./dague (arme).md), [antitoxine](./Antitoxine (objet).md), 2 298 po}
+{s:BDTexte|**Équipement divers** [[dague (arme)|dague]], [[antitoxine (objet)|antitoxine]], 2 298 po}
 </div></td>
 <td><div>La serveuse n’hésite pas à faire passer des messages ou à glisser une dose de poison soporifique dans une boisson si on y met le prix.
 </div></td></tr></table>

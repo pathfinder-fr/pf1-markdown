@@ -12,20 +12,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Invocation](./Invocation.md) ([appel](./branche appel.md)) <nowiki>[</nowiki>[langage](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 2, [Inq](./Inquisiteur.md) 3, [Pal](./Paladin.md) 2  
+**École** [[Invocation]] ([[Branche appel|appel]]) <nowiki>[</nowiki>[[registre|langage]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 2  
 
-**Temps d’incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d’incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-La litanie du personnage invoque des chaînes d’énergie qui sortent du sol et entravent les déplacements de la cible. Cette dernière est [enchevêtrée](./Enchevêtré.md). Ce sort n’a aucun effet sur les créatures volantes ou celles qui ne se tiennent pas sur la terre ferme.
+La litanie du personnage invoque des chaînes d’énergie qui sortent du sol et entravent les déplacements de la cible. Cette dernière est [[enchevêtré|enchevêtrée]]. Ce sort n’a aucun effet sur les créatures volantes ou celles qui ne se tiennent pas sur la terre ferme.
 
 La cible affectée par ce sort ne peut pas bénéficier des effets d’un autre sort de litanie.

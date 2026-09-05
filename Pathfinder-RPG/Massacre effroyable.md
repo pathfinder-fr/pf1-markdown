@@ -11,12 +11,12 @@ Categories:
 
 {s:mca} *Le personnage peut inspirer une répulsion extrême quand il massacre ses ennemis.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Force intimidante](./Force intimidante.md), [Tuerie fracassante](./Tuerie fracassante.md), 11 rangs en [Intimidation](./Intimidation.md), [tueur](./Tueur.md) niveau 11.
+**Conditions.** [[Force intimidante]], [[Tuerie fracassante]], 11 rangs en [[Intimidation]], [[tueur]] niveau 11.
 
-**Avantage.** Les créatures que le personnage démoralise avec [Tuerie fracassante](./Tuerie fracassante.md) doivent réussir un jet de [Vigueur](./Vigueur.md) ([DD](./DD.md) = 10 + 1/2 niveau du personnage + modificateur de [Force](./Force.md) ou de [Dextérité](./Dextérité.md) du personnage <nowiki>[</nowiki>le plus élevé des deux<nowiki>]</nowiki>) pour ne pas être [fiévreuses](./États préjudiciables.md#Fiévreux) pendant 1 minute.
+**Avantage.** Les créatures que le personnage démoralise avec [[Tuerie fracassante]] doivent réussir un jet de [[Vigueur]] ([[DD]] = 10 + 1/2 niveau du personnage + modificateur de [[Force]] ou de [[Dextérité]] du personnage <nowiki>[[</nowiki>le plus élevé des deux<nowiki>]]</nowiki>) pour ne pas être [[États préjudiciables#Fiévreux|fiévreuses]] pendant 1 minute.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise ce don, il peut dépenser jusqu’à 5 points d’endurance pour augmenter le [DD](./DD.md) de l’effet d’un montant égal au nombre de points d’endurance dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise ce don, il peut dépenser jusqu’à 5 points d’endurance pour augmenter le [[DD]] de l’effet d’un montant égal au nombre de points d’endurance dépensés.

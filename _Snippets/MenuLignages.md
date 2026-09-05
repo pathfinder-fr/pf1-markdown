@@ -5,53 +5,53 @@
 <div class="presentation navmenu">
 ### Les lignages d'ensorceleurs
 <table><tr style="vertical-align: top"><td width="20%">
-<ul><li>[Aberrant](./../Pathfinder-RPG/lignage Aberrant.md)</li>
-<li>[Abyssal](./../Pathfinder-RPG/lignage Abyssal.md)</li>
-<li>[Aquatique](./../Pathfinder-RPG/lignage aquatique.md) (MJRA)</li>
-<li>[Boréal](./../Pathfinder-RPG/lignage boréal.md) (MJRA)</li>
-<li>[Céleste](./../Pathfinder-RPG/lignage Céleste.md)</li>
-<li>[Daémon](./../Pathfinder-RPG/lignage Daemon.md) (BofF)</li>
-<li>[Div](./../Pathfinder-RPG/lignage Div.md)</li>
-<li>[Djinn](./../Pathfinder-RPG/lignage Djinn.md) (AM)</li>
+<ul><li>[[lignage Aberrant|Aberrant]]</li>
+<li>[[lignage Abyssal|Abyssal]]</li>
+<li>[[lignage aquatique|Aquatique]] (MJRA)</li>
+<li>[[lignage boréal|Boréal]] (MJRA)</li>
+<li>[[lignage Céleste|Céleste]]</li>
+<li>[[lignage Daemon|Daémon]] (BofF)</li>
+<li>[[lignage Div|Div]]</li>
+<li>[[lignage Djinn|Djinn]] (AM)</li>
 </ul>
 </td><td width="20%">
-<ul><li>[Draconique](./../Pathfinder-RPG/lignage Draconique.md)</li>
-<li>[Ectoplasmique](./../Pathfinder-RPG/lignage Ectoplasmique.md) (AO)</li>
-<li> [Éfrit](./../Pathfinder-RPG/lignage Éfrit.md) (AM)</li>
-<li>[Élémentaire](./../Pathfinder-RPG/lignage Élémentaire.md)</li>
-<li>[Étoiles](./../Pathfinder-RPG/lignage des étoiles.md) (MJRA)</li>
-<li>[Féerique](./../Pathfinder-RPG/lignage Féerique.md)</li>
-<li>[Goule](./../Pathfinder-RPG/lignage Goule.md) (CM)</li>
-<li>[Impérieux](./../Pathfinder-RPG/lignage Impérieux.md) (MR)</li>
+<ul><li>[[Lignage Draconique|Draconique]]</li>
+<li>[[lignage ectoplasmique|Ectoplasmique]] (AO)</li>
+<li> [[lignage Éfrit|Éfrit]] (AM)</li>
+<li>[[lignage Élémentaire|Élémentaire]]</li>
+<li>[[lignage des étoiles|Étoiles]] (MJRA)</li>
+<li>[[lignage Féerique|Féerique]]</li>
+<li>[[lignage Goule|Goule]] (CM)</li>
+<li>[[lignage Impérieux|Impérieux]] (MR)</li>
 </ul>
 </td><td width="20%">
-<ul><li>[Impossible](./../Pathfinder-RPG/lignage Impossible.md) (CofB)</li>
-<li>[Infernal](./../Pathfinder-RPG/lignage Infernal.md)</li>
-<li>[Kobold](./../Pathfinder-RPG/Lignage kobold.md) (MR)</li>
-<li>[Maestro](./../Pathfinder-RPG/lignage Maestro.md) (AM)</li>
-<li>[Marid](./../Pathfinder-RPG/lignage Marid.md) (AM)</li>
-<li>[Martyre](./../Pathfinder-RPG/lignage Martyre.md) (BoA)</li>
-<li>[Maudit](./../Pathfinder-RPG/lignage Maudit.md) (AM)</li>
-<li>[Mort-vivant](./../Pathfinder-RPG/lignage Mort-vivant.md)</li>
+<ul><li>[[lignage Impossible|Impossible]] (CofB)</li>
+<li>[[lignage Infernal|Infernal]]</li>
+<li>[[lignage kobold|Kobold]] (MR)</li>
+<li>[[lignage Maestro|Maestro]] (AM)</li>
+<li>[[lignage Marid|Marid]] (AM)</li>
+<li>[[lignage Martyre|Martyre]] (BoA)</li>
+<li>[[lignage Maudit|Maudit]] (AM)</li>
+<li>[[lignage Mort-vivant|Mort-vivant]]</li>
 </ul>
 </td><td width="20%">
-<ul><li>[Profane](./../Pathfinder-RPG/lignage Profane.md)</li>
-<li>[Ombres](./../Pathfinder-RPG/lignage des ombres.md) (MJRA)</li>
-<li>[Oni](./../Pathfinder-RPG/lignage Oni.md) (DEP)</li>
-<li>[Onirique](./../Pathfinder-RPG/lignage onirique.md) (MJRA)</li>
-<li>[Orque](./../Pathfinder-RPG/lignage Orque.md) (PFC)</li>
-<li>[Pestilence](./../Pathfinder-RPG/lignage Pestilence.md) (AP#29)</li>
-<li>[Profondeurs](./../Pathfinder-RPG/lignage des profondeurs.md) (MJRA)</li>
-<li>[Protéen](./../Pathfinder-RPG/lignage protéen.md) (MJRA)</li>
+<ul><li>[[lignage Profane|Profane]]</li>
+<li>[[lignage des ombres|Ombres]] (MJRA)</li>
+<li>[[lignage Oni|Oni]] (DEP)</li>
+<li>[[lignage onirique|Onirique]] (MJRA)</li>
+<li>[[lignage orque|Orque]] (PFC)</li>
+<li>[[lignage Pestilence|Pestilence]] (AP#29)</li>
+<li>[[lignage des profondeurs|Profondeurs]] (MJRA)</li>
+<li>[[lignage protéen|Protéen]] (MJRA)</li>
 </ul>
 </td><td width="20%">
-<ul><li>[Psychique](./../Pathfinder-RPG/Lignage Psychique.md) (AO)</li>
-<li>[Rakshasa](./../Pathfinder-RPG/lignage Rakshasa.md) (AM)</li>
-<li> [Shaitan](./../Pathfinder-RPG/lignage Shaitan.md) (AM) </li>
-<li>[Serpentin](./../Pathfinder-RPG/lignage serpentin.md) (MJRA)</li>
-<li>[Tempêtes](./../Pathfinder-RPG/lignage des tempêtes.md) (MJRA)</li>
-<li>[Verdoyant](./../Pathfinder-RPG/lignage verdoyant.md) (MJRA)</li>
-<li>[Voué à un grand destin](./../Pathfinder-RPG/lignage Voué à un grand destin.md)</li>
+<ul><li>[[lignage psychique|Psychique]] (AO)</li>
+<li>[[lignage Rakshasa|Rakshasa]] (AM)</li>
+<li> [[lignage Shaitan|Shaitan]] (AM) </li>
+<li>[[lignage serpentin|Serpentin]] (MJRA)</li>
+<li>[[lignage des tempêtes|Tempêtes]] (MJRA)</li>
+<li>[[lignage verdoyant|Verdoyant]] (MJRA)</li>
+<li>[[lignage Voué à un grand destin|Voué à un grand destin]]</li>
 </ul>
 </td></tr></table>
 </div>

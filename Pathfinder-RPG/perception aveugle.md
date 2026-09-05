@@ -7,4 +7,4 @@ Categories:
 RedirectTo: perception aveugle (capacité)
 ---
 
->>> [perception aveugle (capacité)](./Perception aveugle (capacité).md)
+>>> [[perception aveugle (capacité)]]

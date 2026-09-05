@@ -9,8 +9,8 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul><ul>
-<ul>Vers la [discussion] </ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul><ul>
+<ul>Vers la [[discussion]] </ul>
 </div>
 
 <table class="Bestiaire"><tr><td>
@@ -19,8 +19,8 @@ Categories:
 {s:BDTexte|*Source : Faenil*}
 {s:BDTexte|**PX** 200}
 {s:BDTexte|Cérothien, guerrier 1}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) (Cérothien) de taille M, LN}
-{s:BDTexte|**Init** +1 ; **Sens** Myope ; [Perception](./../Pathfinder-RPG/Perception.md) -1}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] (Cérothien) de taille M, LN}
+{s:BDTexte|**Init** +1 ; **Sens** Myope ; [[Pathfinder-RPG.Perception|Perception]] -1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 11, pris au dépourvu 20 (Dex +1, bouclier +2, armure +6, naturelle +2) }
 {s:BDTexte|**pv** 9 (1d10+4)}
@@ -34,13 +34,13 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 12, **Con** 16, **Int** 13, **Sag** 10, **Cha** 6}
 {s:BDTexte|**BBA** +1, **BMO** +4, **DMD** 15}
-{s:BDTexte|**Dons** Arme de prédilection (corne), combat en aveugle, [Science du coup de corne](./Dons des cérothiens.md)}
-{s:BDTexte|**Compétences** [Artisanat](./../Pathfinder-RPG/Artisanat.md) (armures) +5, [Perception](./../Pathfinder-RPG/Perception.md) -4 (+3 pour l'ouïe), [Profession](./../Pathfinder-RPG/Profession.md) (soldat) +6}
+{s:BDTexte|**Dons** Arme de prédilection (corne), combat en aveugle, [[Dons des cérothiens|Science du coup de corne]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Artisanat|Artisanat]] (armures) +5, [[Pathfinder-RPG.Perception|Perception]] -4 (+3 pour l'ouïe), [[Pathfinder-RPG.Profession|Profession]] (soldat) +6}
 {s:BDTexte|**Langues** Commun, Nain}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaine }
 {s:BDTexte|**Organisation sociale** Solitaire, patrouille (5), Centurie (100), Légion (800)}
-{s:BDTexte|**Trésor** équipement de PNJ (Cotte de maille, Ecu en bois, [Casque cérothien](./Objets cérothiens.md), Fléau léger, 3 javelines, [lorgnons](./Objets cérothiens.md), autres trésors)}
+{s:BDTexte|**Trésor** équipement de PNJ (Cotte de maille, Ecu en bois, [[Objets cérothiens|Casque cérothien]], Fléau léger, 3 javelines, [[Objets cérothiens|lorgnons]], autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Adversaires récurrents** Les cérothiens reçoivent un +1 au jet d'attaque contre les humanoïdes (humains).}
 </div>
@@ -64,7 +64,7 @@ Les érothiens ne possèdent pas de dés de vie raciaux et progressent en acqué
 - **Langue** : commun. Un score élevé d’intelligence permet au cérothien d’apprendre le nain, l’elfique ou l'orc. 
 - **Vitesse** : 9 mètres.
 - **Armure naturelle** : la peau épaisse du cérothien lui donne un bonus d’armure naturelle de +2.*(2PR)*
-- **Myope** : les cérothiens sont extrêmement myopes mais ont l’ouïe fine. Ils souffrent un malus de -5 à leurs jets de perception sauf lorsqu’ils sont basés sur leur ouïe (auquel cas il ont un bonus de +2). Un cérothien rendu sourd souffre d’un malus de -4 à la CA et au toucher et un malus de -8 aux jets de perception (au lieu de -4). Lorsqu’un cérothien est aveugle ou qu’un adversaire est invisible, les pénalités qu’il subit au jet de perception (ou les bonus que son adversaire possède à jet de discrétion) sont systématiquement divisé par deux. Un cérothien est incapable de déchiffrer des écritures de taille standard (livre, parchemin) à moins de porter des [lorgnons](./Objets cérothiens.md).
+- **Myope** : les cérothiens sont extrêmement myopes mais ont l’ouïe fine. Ils souffrent un malus de -5 à leurs jets de perception sauf lorsqu’ils sont basés sur leur ouïe (auquel cas il ont un bonus de +2). Un cérothien rendu sourd souffre d’un malus de -4 à la CA et au toucher et un malus de -8 aux jets de perception (au lieu de -4). Lorsqu’un cérothien est aveugle ou qu’un adversaire est invisible, les pénalités qu’il subit au jet de perception (ou les bonus que son adversaire possède à jet de discrétion) sont systématiquement divisé par deux. Un cérothien est incapable de déchiffrer des écritures de taille standard (livre, parchemin) à moins de porter des [[objets cérothiens|lorgnons]].
 - **Combat en aveugle** : les cérothiens reçoivent automatiquement ce don au niveau 1.*(Don fixe, 2PR)*
 - **Apprentissage martial** : les jeunes cérothiens sont très tôt formé au maniement des armes et des armures, en particulier les moins onéreuses. Ils considèrent les fléaux et les hallebardes comme des armes courantes. Ils considèrent le clibanion et la cotte de maille comme étant plus familier d’une catégorie en ce qui concerne son maniement. De plus, un cérothien portant l’une de ces armures et formé au port des armures intermédiaires (pour la cotte de maille) ou des armures lourdes (pour le clibanion) réduit le malus d’armure de -1 et augmente le bonus de dextérité maximal de +1. *(3PR)*
 - **Piètres archers.** Les armes à projectiles sont peu familières aux cérothiens et ils les considèrent toujours comme d’une catégorie moins familière en ce qui concerne leur maniement (frondes et arbalètes deviennent des armes de guerre, tandis que les arcs deviennent des armes exotiques).*(-1PR)*

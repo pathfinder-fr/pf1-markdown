@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Manœuvres offensives#DMD
 ---
 
->>> [Manœuvres offensives#DMD](./Manœuvres offensives.md#DMD)
+>>> [[Manœuvres offensives#DMD]]

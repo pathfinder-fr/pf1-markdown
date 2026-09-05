@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Barde#TOUCHE-A-TOUT
 ---
 
->>> [Barde#TOUCHE-A-TOUT](./Barde.md#TOUCHE-A-TOUT)
+>>> [[Barde#TOUCHE-A-TOUT]]

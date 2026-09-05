@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Roublard#ESQUIVETOTALE
 ---
 
->>> [Roublard#ESQUIVETOTALE](./Roublard.md#ESQUIVETOTALE)
+>>> [[Roublard#ESQUIVETOTALE]]

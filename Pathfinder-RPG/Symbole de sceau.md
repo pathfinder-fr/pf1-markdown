@@ -13,11 +13,11 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki>; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Occ](./Occultiste.md) 4, [Prê](./Prêtre.md) 6, [Sor](./Sorcière.md) 6  
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki>; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 6  
 
 **Temps d’incantation** 10 minutes  
 
-**Composantes** [V, G, M](./composantes.md) (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 5 000 po)  
+**Composantes** [[Composantes|V, G, M]] (mercure et phosphore plus poudre de diamant et d'opale pour une valeur de 5 000 po)  
 
 **Portée** 0 m (voir description)  
 
@@ -27,8 +27,8 @@ Categories:
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Ce sort permet au personnage d’inscrire une puissante rune de pouvoir sur une porte ou au-dessus, ou sur une autre ouverture qui ne mesure pas plus de 2 m²/[niveau](./NLS.md). Le symbole se déclenche dès l’incantation terminée. Il émet une lueur visible et scelle la porte ou l’ouverture avec une barrière de force invisible qui équivaut à un *[mur de force](./Mur de force.md)*. Il faut détruire le symbole pour annuler cet effet mais pour cela, il faut d’abord détruire le *[mur de force](./Mur de force.md)*. Une fois le symbole déclenché, il reste actif pendant 10 minutes par [niveau de lanceur de sorts](./NLS.md).
+Ce sort permet au personnage d’inscrire une puissante rune de pouvoir sur une porte ou au-dessus, ou sur une autre ouverture qui ne mesure pas plus de 2 m²/[[NLS|niveau]]. Le symbole se déclenche dès l’incantation terminée. Il émet une lueur visible et scelle la porte ou l’ouverture avec une barrière de force invisible qui équivaut à un *[[mur de force]]*. Il faut détruire le symbole pour annuler cet effet mais pour cela, il faut d’abord détruire le *[[mur de force]]*. Une fois le symbole déclenché, il reste actif pendant 10 minutes par [[NLS|niveau de lanceur de sorts]].
 
-Quand le personnage grave le *symbole de sceau*, il peut lui attribuer un mot de passe ou une phrase de code qui permet à une créature de franchir le sceau et de passer par l’ouverture. Le personnage peut aussi harmoniser n’importe quel nombre de créatures avec le *symbole de sceau* mais cela rallonge la durée d’incantation, comme indiqué dans la description du *[symbole de mort](./Symbole de mort.md)*. Le *[mur de force](./Mur de force.md)* que crée le symbole bloque tout de même les attaques et les lignes d’effet, même pour les créatures qui connaissent le mot de passe ou sont harmonisées. Le mot de passe les empêche juste de déclencher le symbole, pas d’ignorer ses effets une fois qu’il est déclenché.
+Quand le personnage grave le *symbole de sceau*, il peut lui attribuer un mot de passe ou une phrase de code qui permet à une créature de franchir le sceau et de passer par l’ouverture. Le personnage peut aussi harmoniser n’importe quel nombre de créatures avec le *symbole de sceau* mais cela rallonge la durée d’incantation, comme indiqué dans la description du *[[symbole de mort]]*. Le *[[mur de force]]* que crée le symbole bloque tout de même les attaques et les lignes d’effet, même pour les créatures qui connaissent le mot de passe ou sont harmonisées. Le mot de passe les empêche juste de déclencher le symbole, pas d’ignorer ses effets une fois qu’il est déclenché.
 
-Une *[désintégration](./Désintégration.md)* ou un sort similaire permet de détruire le *[mur de force](./Mur de force.md)* si le lanceur réussit un test de lanceur de sorts contre un [DD](./DD.md) de 11 + [niveau de lanceur](./NLS.md) de sorts du personnage. Un sort de *[déblocage](./Déblocage.md)* n’a aucun effet sur le *symbole de sceau* ou le *[mur de force](./Mur de force.md)*. Il est impossible de dissiper le *symbole de sceau* mais on peut le détruire automatiquement avec une *[disjonction](./Disjonction.md)*.
+Une *[[désintégration]]* ou un sort similaire permet de détruire le *[[mur de force]]* si le lanceur réussit un test de lanceur de sorts contre un [[DD]] de 11 + [[NLS|niveau de lanceur]] de sorts du personnage. Un sort de *[[déblocage]]* n’a aucun effet sur le *symbole de sceau* ou le *[[mur de force]]*. Il est impossible de dissiper le *symbole de sceau* mais on peut le détruire automatiquement avec une *[[disjonction]]*.

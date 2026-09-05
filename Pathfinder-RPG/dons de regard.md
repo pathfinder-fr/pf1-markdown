@@ -6,7 +6,7 @@ Categories:
 - Liste de dons
 ---
 
-{s:MenuDons}{s:AO}Les dons de regard permettent à l’[hypnotiseur](./Hypnotiseur.md) d’ajouter des effets supplémentaires à son pouvoir de [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX). Les personnages dépourvus du don [Douleur composée](./Douleur composée.md) appliquent seulement un effet de regard par attaque, l’[hypnotiseur](./Hypnotiseur.md) disposant de plusieurs dons de regard doit alors choisir celui qu’il applique avant de lancer le dé.
+{s:MenuDons}{s:AO}Les dons de regard permettent à l’[[hypnotiseur]] d’ajouter des effets supplémentaires à son pouvoir de [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]. Les personnages dépourvus du don [[Douleur composée]] appliquent seulement un effet de regard par attaque, l’[[hypnotiseur]] disposant de plusieurs dons de regard doit alors choisir celui qu’il applique avant de lancer le dé.
 
 *Les dons marqués d'un astérisque (*) sont des dons de combat.*
 
@@ -20,24 +20,24 @@ Categories:
 | WIDTH="40%" | Avantages
 
 |- CLASS="premier donprincipal"
-| [Douleur intense](./Douleur intense.md)* || <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) de niveau 7, capacité de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Le regard douloureux inflige plus de dégâts
+| [[Douleur intense]]* || <sup>AO</sup> || [[Hypnotiseur]] de niveau 7, capacité de classe [[Hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Le regard douloureux inflige plus de dégâts
 
 |- CLASS="premier alt donprincipal"
-| [Regard déconcertant](./Regard déconcertant.md)* || <sup>*MTT*</sup> || [Hypnotiseur](./Hypnotiseur.md) de niveau 5, capacité de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Les cibles du regard hypnotique sont plus vulnérables aux pièges
+| [[Regard déconcertant]]* || <sup>*MTT*</sup> || [[Hypnotiseur]] de niveau 5, capacité de classe [[Hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Les cibles du regard hypnotique sont plus vulnérables aux pièges
 
 |- CLASS="premier donprincipal"
-| [Regard démoralisant](./Regard démoralisant.md)* || <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) de niveau 9, capacité de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Le regard douloureux rend secoué
+| [[Regard démoralisant]]* || <sup>AO</sup> || [[Hypnotiseur]] de niveau 9, capacité de classe [[Hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Le regard douloureux rend secoué
 
 |- CLASS="premier alt donprincipal"
-| [Regard douloureux multiple](./Regard douloureux multiple.md)* || <sup>*MTT*</sup> || [Hypnotiseur](./Hypnotiseur.md) de niveau 3, capacité de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Utilise le regard douloureux plus d'une fois par round
+| [[Regard douloureux multiple]]* || <sup>*MTT*</sup> || [[Hypnotiseur]] de niveau 3, capacité de classe [[Hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Utilise le regard douloureux plus d'une fois par round
 
 |- CLASS="premier donprincipal"
-| [Regard écorcheur](./Regard écorcheur.md)* || <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) de niveau 11, capacité de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Le regard douloureux rend fiévreux
+| [[Regard écorcheur]]* || <sup>AO</sup> || [[Hypnotiseur]] de niveau 11, capacité de classe [[Hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Le regard douloureux rend fiévreux
 
 |- CLASS="premier alt donprincipal"
-| [Regard fatiguant](./Regard fatiguant.md)* || <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) de niveau 7, capacité de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Le regard douloureux rend fatigué
+| [[Regard fatiguant]]* || <sup>AO</sup> || [[Hypnotiseur]] de niveau 7, capacité de classe [[Hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Le regard douloureux rend fatigué
 
 |- CLASS="premier donprincipal"
-| [Regard hémorragique](./Regard hémorragique.md)* || <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) de niveau 5, capacité de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Le regard douloureux provoque des dégâts de saignement
+| [[Regard hémorragique]]* || <sup>AO</sup> || [[Hypnotiseur]] de niveau 5, capacité de classe [[Hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Le regard douloureux provoque des dégâts de saignement
 |}
 </center>

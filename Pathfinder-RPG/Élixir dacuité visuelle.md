@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Élixir d’acuité visuelle|{s:AE}}
-**Aura** [Divination](./école divination.md) faible ; **NLS** 2 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 250 po ; **Poids** —
+**Aura** [[école Divination|Divination]] faible ; **NLS** 2 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 250 po ; **Poids** —
 (((Description)))
-Cette potion permet de remarquer le moindre détail, aussi petit soit-il (bonus de compétence de +10 aux tests de [Perception](./Perception.md) pendant une heure).
+Cette potion permet de remarquer le moindre détail, aussi petit soit-il (bonus de compétence de +10 aux tests de [[Perception]] pendant une heure).
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[vision lucide](./Vision lucide.md)* ; **Coût** 125 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[vision lucide]]* ; **Coût** 125 po
 </div>

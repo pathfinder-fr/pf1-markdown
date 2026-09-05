@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa (par jour, médiocre), 3 pa (par jour, normal), 5 pa (par jour, bon) ; **Poids** — (par jour, médiocre), — (par jour, normal), — (par jour, bon)
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Le prix est indiqué pour nourrir quelqu’un à la journée. Les repas médiocres peuvent se composer de pain, de navets cuits, d’oignons et d’eau. Les repas normaux peuvent se composer de pain, de ragoût de poulet, de carottes et de vin ou de bière coupé à l’eau. Les bons repas peuvent se composer de pain et de pâtisseries, de bœuf, de petits pois et de vin ou de bière.

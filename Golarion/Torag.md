@@ -18,7 +18,7 @@ Torag est décrit comme un nain puissant et avisé, créant dans sa forge une ar
 
 ### Émissaires
 
-Torag apprécie les créatures liées à la Terre, spécialement les créatures fouisseuses telles que le blaireau. Il déteste les chauves-souris et exècre encore plus les rejetons de [Rovagug](./Rovagug.md).
+Torag apprécie les créatures liées à la Terre, spécialement les créatures fouisseuses telles que le blaireau. Il déteste les chauves-souris et exècre encore plus les rejetons de [[Rovagug]].
 
 
 ### Doctrine
@@ -27,7 +27,7 @@ La moitié des prêtres de Torag sont nains, mais de plus en plus d'humains embr
 
 ### Temples
 
-Cette religion est très répandue sur les terres naines et beaucoup moins dans les royaumes humains excepté dans les terres nordiques des [Ulfes](./Ulfes.md). Les temples sont circulaires et englobent une forge en leur centre. Ils sont bâtis contre les murailles des cités pour éviter toutes nuisances sonores et pour en surveiller plus facilement les défenses.
+Cette religion est très répandue sur les terres naines et beaucoup moins dans les royaumes humains excepté dans les terres nordiques des [[Ulfes]]. Les temples sont circulaires et englobent une forge en leur centre. Ils sont bâtis contre les murailles des cités pour éviter toutes nuisances sonores et pour en surveiller plus facilement les défenses.
 
 ### Textes sacrés
 
@@ -36,8 +36,8 @@ Les livres de Torag sont des volumes solides, qui peuvent résister à toutes le
 Marteau et pinces : La forge des métaux et autres nobles artisanats. Ce livre est cerclé de métal avec des pages intérieures en cuir laqué.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [deuxième volume](./../Aventures/Présentation AP11.md#AP11-2) de la onzième campagne, [Shattered Star](./../Aventures/Présentation AP11.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP11#AP11-2|deuxième volume]] de la onzième campagne, [[Aventures.Présentation AP11|Shattered Star]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

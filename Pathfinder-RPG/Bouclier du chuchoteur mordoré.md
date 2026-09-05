@@ -10,9 +10,9 @@ Categories:
 
 {s:divin|Brigh|%2fPCUP%2fReligion-PNG%2fBrigh.png}<div class="BD">
 {s:BDTitre|Bouclier du chuchoteur mordoré|{s:ISG}}
-**Aura** [Évocation](./Évocation.md) et [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [bouclier](./Boucliers magiques spécifiques.md) ; **Prix** 4 279 po ; **Poids** 3 kg
+**Aura** [[Évocation]] et [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Boucliers magiques spécifiques|bouclier]] ; **Prix** 4 279 po ; **Poids** 3 kg
 (((Description)))
-{s:cs}Cette *[rondace en acier](./rondache (armure).md) +1* est décorée d'engrenages de bronze et ressemble vaguement à un masque de métal féminin portant une rune sur le front. Par une [action simple](./Action simple.md), le porteur peut lui ordonner de se transformer bruyamment en [targe](./targe (armure).md) ou de reprendre sa forme de rondache. Une fois par jour, le porteur peut l'utiliser pour délivrer une *[décharge électrique](./Décharge électrique.md)*.
+{s:cs}Cette *[[rondache (armure)|rondace en acier]] +1* est décorée d'engrenages de bronze et ressemble vaguement à un masque de métal féminin portant une rune sur le front. Par une [[action simple]], le porteur peut lui ordonner de se transformer bruyamment en [[targe (armure)|targe]] ou de reprendre sa forme de rondache. Une fois par jour, le porteur peut l'utiliser pour délivrer une *[[décharge électrique]]*.
 (((Création)))
-**Conditions** [Création d'armes et armures magiques](./Création darmes et armures magiques.md), *[création mineure](./Création mineure.md)*, *[décharge électrique](./Décharge électrique.md)* ; **Coût** 2 219 po
+**Conditions** [[Création darmes et armures magiques|Création d'armes et armures magiques]], *[[création mineure]]*, *[[décharge électrique]]* ; **Coût** 2 219 po
 </div>

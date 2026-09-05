@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage est promis à un destin glorieux qui dépasse l’entendement des aventuriers ordinaires et des simples mortels.*
 
-**Conditions.** [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md) ou [Réflexes surhumains](./Réflexes surhumains.md)
+**Conditions.** [[Vigueur surhumaine]], [[Volonté de fer]] ou [[Réflexes surhumains]]
 
-**Avantage.** Le personnage peut utiliser l’aptitude [montée en puissance](./montée en puissance.md) (voir page 12) une fois par jour (en ajoutant 1d6). Si le personnage est ou devient mythique, il peut utiliser sa [montée en puissance](./montée en puissance.md) une fois de plus par jour.
+**Avantage.** Le personnage peut utiliser l’aptitude [[montée en puissance]] (voir page 12) une fois par jour (en ajoutant 1d6). Si le personnage est ou devient mythique, il peut utiliser sa [[montée en puissance]] une fois de plus par jour.

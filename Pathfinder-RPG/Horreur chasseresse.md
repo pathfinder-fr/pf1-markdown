@@ -14,25 +14,25 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire* p.185}
 {s:BDTexte|**PX** 12.800}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille TG, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] ([[sous-type extraplanaire|extraplanaire]]) de taille TG, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 11, pris au dépourvu 22 (Dex +3, naturelle +14, taille -2)}
 {s:BDTexte|**pv** 137 (15d10+55) ; guérison rapide 5}
 {s:BDTexte|**Réf** +10, **Vig** +7, **Vol** +5}
-{s:BDTexte|**Capacités défensives** [traits des créatures artificielles](./Traits des créatures artificielles.md) }
+{s:BDTexte|**Capacités défensives** [[traits des créatures artificielles]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +19 (1d8+6 et [étreinte](./Étreinte.md)), 4 griffes, +19 (2d6+6/19-20)}
+{s:BDTexte|**Corps à corps** morsure, +19 (1d8+6 et [[étreinte]]), 4 griffes, +19 (2d6+6/19-20)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
 {s:BDTexte|**Attaques spéciales** rayons oculaires (+16 contact à distance)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 20<sup>e</sup>)}
-{s:BDSorts|À volonté — *[localisation suprême](./Localisation suprême.md)*}
+{s:BDSorts|À volonté — *[[localisation suprême]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 16, **Con** -, **Int** 3, **Sag** 11, **Cha** 1}
-{s:BDTexte|**BBA** +15, **BMO** +23 (+27 [lutte](./lutte.md)), **DMD** 36 (40 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (griffe), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +15}
+{s:BDTexte|**BBA** +15, **BMO** +23 (+27 [[lutte]]), **DMD** 36 (40 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Réflexes surhumains]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Science de la bousculade]], [[Science du critique]] (griffe), [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Perception]] +15}
 {s:BDTexte|**Langues** abyssal (ne sait pas parler)}
 {s:BDTexte|**Particularités** implacable}
 {s:BDSousTitre|Écologie}
@@ -40,12 +40,12 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Rayons oculaires (Sur).** Les yeux des horreurs chasseresses peuvent produire quatre types de rayons magiques possédant tous une portée de 30 m (20 {s:c}). Chaque round, une horreur chasseresse peut lancer un rayon par une [action libre](./Action libre.md) qui ne provoque pas d'[attaque d'opportunité](./attaque dopportunité.md). Chaque rayon est utilisable une fois tous les 4 rounds. Elle peut utiliser un rayon et porter des attaques physiques au cours d'un même round. Les [DD](./DD.md) de tous les [jets de sauvegarde](./jet de sauvegarde.md) est de 19 (il dépend de la [Constitution](./Constitution.md) et inclut un bonus racial de +2). Les différents types de rayons sont les suivants :}
-{s:BDSorts|:• *Feu* : 12d6 points de dégâts de feu (JS [Réf](./Réflexes.md) pour demi-dégâts).}
-{s:BDSorts|:• *Froid* : 12d6 points de dégâts de froid (JS [Réf](./Réflexes.md) pour demi-dégâts).}
-{s:BDSorts|:• *Electricité* : 12d6 points de dégâts d'électricité (JS [Réf](./Réflexes.md) pour demi-dégâts).}
-{s:BDSorts|:• *Pétrification* : La cible doit réussir un jet de [Vigueur](./Vigueur.md) ou être [pétrifiée](./Pétrifié.md) de manière permanente.}
-{s:BDTexte|**Implacable (Sur).** Les horreurs chasseresses bénéficient constamment des effets des sorts de *[pattes d'araignée](./Pattes daraignée.md)* et de *[marche sur l'onde](./Marche sur londe.md)*. Ces capacités ne peuvent pas être dissipées.}
+{s:BDTexte|**Rayons oculaires (Sur).** Les yeux des horreurs chasseresses peuvent produire quatre types de rayons magiques possédant tous une portée de 30 m (20 {s:c}). Chaque round, une horreur chasseresse peut lancer un rayon par une [[action libre]] qui ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]]. Chaque rayon est utilisable une fois tous les 4 rounds. Elle peut utiliser un rayon et porter des attaques physiques au cours d'un même round. Les [[DD]] de tous les [[jet de sauvegarde|jets de sauvegarde]] est de 19 (il dépend de la [[Constitution]] et inclut un bonus racial de +2). Les différents types de rayons sont les suivants :}
+{s:BDSorts|:• *Feu* : 12d6 points de dégâts de feu (JS [[Réflexes|Réf]] pour demi-dégâts).}
+{s:BDSorts|:• *Froid* : 12d6 points de dégâts de froid (JS [[Réflexes|Réf]] pour demi-dégâts).}
+{s:BDSorts|:• *Electricité* : 12d6 points de dégâts d'électricité (JS [[Réflexes|Réf]] pour demi-dégâts).}
+{s:BDSorts|:• *Pétrification* : La cible doit réussir un jet de [[Vigueur]] ou être [[pétrifié|pétrifiée]] de manière permanente.}
+{s:BDTexte|**Implacable (Sur).** Les horreurs chasseresses bénéficient constamment des effets des sorts de *[[pattes daraignée|pattes d'araignée]]* et de *[[marche sur londe|marche sur l'onde]]*. Ces capacités ne peuvent pas être dissipées.}
 </div>
 </td><td><div>*Cette araignée menaçante de la taille d’un éléphant se cabre sur ses quatre pattes arrière faisant briller une lueur magique dans ses yeux.*
 
@@ -81,7 +81,7 @@ Bien que les horreurs
 chasseresses ne soient pas
 des Extérieurs, il est quand
 même possible d’en invoquer une par un sort
-d’[allié suprême d’outreplan](./Allié suprême doutreplan.md) ou de [contrat suprême](./Contrat suprême.md). Le
+d’[[Allié suprême doutreplan|allié suprême d’outreplan]] ou de [[contrat suprême]]. Le
 lanceur du sort doit s’assurer d’utiliser des encens
 spéciaux et de tracer des diagrammes complexes sur
 le sol et les murs avec des encres phosphorescentes
@@ -97,6 +97,6 @@ associés avec
 l’incantation du
 sort (y compris la
 condition portant
-sur le [Charisme](./Charisme.md)
-pour le sort de [contrat suprême](./Contrat suprême.md)).
+sur le [[Charisme]]
+pour le sort de [[contrat suprême]]).
 </div></td></tr></table>

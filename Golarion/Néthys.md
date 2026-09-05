@@ -11,7 +11,7 @@ Categories:
 
 ### Histoire
 
-D'anciens textes parlent d'un roi-sorcier d'[Osirion](./Osirion.md) ayant acquis une telle puissance magique qu'il en était devenu omniscient et omnipotent. Décryptant le secret de la divinité, son esprit se fractura en deux durant cet ultime rituel. Aujourd'hui Néthys protège la magie sous toutes ses formes et dans tous ses usages, bonne comme mauvaise.
+D'anciens textes parlent d'un roi-sorcier d'[[Osirion]] ayant acquis une telle puissance magique qu'il en était devenu omniscient et omnipotent. Décryptant le secret de la divinité, son esprit se fractura en deux durant cet ultime rituel. Aujourd'hui Néthys protège la magie sous toutes ses formes et dans tous ses usages, bonne comme mauvaise.
 
 ### Apparence
 
@@ -34,8 +34,8 @@ Les temples de Néthys accordent une place égale aux deux personnalités de Né
 Le livre de la magie : C'est un guide pour comprendre la magie et ses ramifications, ainsi que ses bons usages et ses abus.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [cinquième volume](./../Aventures/Présentation AP7.md#AP7-5) de la septième campagne, [Le Crâne du Serpent](./../Aventures/Présentation AP7.md), contient un article sur ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP7#AP7-5|cinquième volume]] de la septième campagne, [[Aventures.Présentation AP7|Le Crâne du Serpent]], contient un article sur ce dieu.
 {s:VoirAussiAprès}

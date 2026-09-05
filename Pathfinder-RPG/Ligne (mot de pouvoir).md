@@ -13,8 +13,8 @@ Categories:
 
 **Portée ** 6 mètres (4 {s:c})
 
-Un sort de mots incluant ce [mot cible](./Mots cibles.md) affecte tout ce qui se trouve sur une ligne de 6 mètres (4 {s:c}) de long.
+Un sort de mots incluant ce [[mots cibles|mot cible]] affecte tout ce qui se trouve sur une ligne de 6 mètres (4 {s:c}) de long.
 
-**Augmentation.** La portée passe à 18 mètres (12 {s:c}). Augmenter ce [mot cible](./Mots cibles.md) améliore son niveau de 1.
+**Augmentation.** La portée passe à 18 mètres (12 {s:c}). Augmenter ce [[mots cibles|mot cible]] améliore son niveau de 1.
 
-**Augmentation.** La portée passe à 36 mètres (24 {s:c}). Augmenter ce mot [mot cible](./Mots cibles.md) améliore son niveau de 2.
+**Augmentation.** La portée passe à 36 mètres (24 {s:c}). Augmenter ce mot [[mots cibles|mot cible]] améliore son niveau de 2.

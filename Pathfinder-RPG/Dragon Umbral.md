@@ -13,11 +13,11 @@ Categories:
 {s:BDTitre|Dragon primaire umbral|}
 {s:pucem|Dragon|Plaines|Extraplanaire}
 - *Source : Bestiaire 2, p.112*
-- [Dragon](./type Dragon.md) ([extraplanaire](./sous-type extraplanaire.md)), CM
+- [[type Dragon|Dragon]] ([[sous-type extraplanaire|extraplanaire]]), CM
 (((Statistiques de base)))
 - **FP** 6 ; **Taille** P ; **DV** 7d12
 - **VD** 12 m (8 {s:c})
-- **Armure naturelle** +6 ; **Souffle** [cône](./cône.md), 2d8 énergie négative
+- **Armure naturelle** +6 ; **Souffle** [[cône]], 2d8 énergie négative
 - **For** 13, **Dex** 14, **Con** 13, **Int** 14, **Sag** 15, **Cha** 14
 (((Écologie)))
 - **Environnement** tous
@@ -26,11 +26,11 @@ Categories:
 (((Pouvoirs spéciaux)))
 - **Absorption d’énergie (Sur).** Un dragon umbral grand dracosire inflige 1 niveau négatif chaque fois qu’il mord ou griffe (1 niveau, DD 32).
 - **Attaques spectrales (Sur).** Les attaques physiques d’un dragon umbral jeune ou plus âgé peuvent blesser normalement les créatures intangibles.
-- **Création d’ombres (Sur).** Toute créature tuée par un dragon umbral vénérable ou plus âgé se relève, 1d4 rounds après sa mort, sous la forme d’une [ombre](./Ombre.md) (si elle a 8 DV ou moins) ou d’une [ombre supérieure](./Ombre supérieure.md) (si elle a plus de 8 DV) contrôlée par le dragon.
-- **Fils de l’ombre (Ext).** Les dragons umbrals possèdent la particularité d’[affinité avec l’énergie négative](./Affinité avec lénergie négative (capacité).md) et sont immunisés aux effets d’[absorption d’énergie](./Absorption dénergie (capacité).md) et de mort.
-- **Pouvoirs magiques (Mag).** Lorsqu’il atteint les âges indiqués ci-dessous, le dragon umbral gagne les pouvoirs magiques suivants, utilisables à volonté (sauf mention contraire). Jeune — *[ténèbres](./Ténèbres.md)* ; Adolescent — *[baiser du vampire](./Baiser du vampire.md)* ; Adulte — *[traversée des ombres](./Traversée des ombres.md)* ; Vieux — *[projection d’image](./Projection dimage.md)* ; Vénérable — *[doigt de mort](./Doigt de mort.md)* (3/jour) ; Grand dracosire — *[reflets d’ombre](./Reflets dombre.md)*.
+- **Création d’ombres (Sur).** Toute créature tuée par un dragon umbral vénérable ou plus âgé se relève, 1d4 rounds après sa mort, sous la forme d’une [[ombre]] (si elle a 8 DV ou moins) ou d’une [[ombre supérieure]] (si elle a plus de 8 DV) contrôlée par le dragon.
+- **Fils de l’ombre (Ext).** Les dragons umbrals possèdent la particularité d’[[affinité avec lénergie négative (capacité)|affinité avec l’énergie négative]] et sont immunisés aux effets d’[[absorption dénergie (capacité)|absorption d’énergie]] et de mort.
+- **Pouvoirs magiques (Mag).** Lorsqu’il atteint les âges indiqués ci-dessous, le dragon umbral gagne les pouvoirs magiques suivants, utilisables à volonté (sauf mention contraire). Jeune — *[[ténèbres]]* ; Adolescent — *[[baiser du vampire]]* ; Adulte — *[[traversée des ombres]]* ; Vieux — *[[projection dimage|projection d’image]]* ; Vénérable — *[[doigt de mort]]* (3/jour) ; Grand dracosire — *[[reflets dombre|reflets d’ombre]]*.
 - **Souffle (Sur).** Même s’il inflige des dégâts d’énergie négative, le souffle d’un dragon umbral ne soigne pas les morts-vivants.
-- **Souffle de l’ombre (Sur).** Trois fois par jour, un dragon umbral adulte ou plus âgé peut utiliser son souffle pour créer un cône d’ombre. Les créatures qui ratent un jet de Vigueur sont [aveuglées](./Aveuglé.md) pendant 1d4 rounds et subissent une [diminution permanente](./diminution permanente.md) de 1 point de Force par catégorie d’âge du dragon. En cas de jet de sauvegarde réussi, la cécité est annulée et la diminution permanente est réduite à 1d4 points de Force. 
+- **Souffle de l’ombre (Sur).** Trois fois par jour, un dragon umbral adulte ou plus âgé peut utiliser son souffle pour créer un cône d’ombre. Les créatures qui ratent un jet de Vigueur sont [[aveuglé|aveuglées]] pendant 1d4 rounds et subissent une [[diminution permanente]] de 1 point de Force par catégorie d’âge du dragon. En cas de jet de sauvegarde réussi, la cécité est annulée et la diminution permanente est réduite à 1d4 points de Force. 
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -39,19 +39,19 @@ Categories:
 |- CLASS="titre"
 | Nom || &nbsp; || FP
 |- CLASS="premier"
-| [Jeune dragon umbral](./Jeune dragon umbral.md) || &nbsp; || 10
+| [[Jeune dragon umbral]] || &nbsp; || 10
 |-
-| [Dragon umbral adulte](./Dragon umbral adulte.md) || &nbsp; || 14
+| [[Dragon umbral adulte]] || &nbsp; || 14
 |-
-| [Dragon umbral vénérable](./Dragon umbral vénérable.md) || &nbsp; || 19
+| [[Dragon umbral vénérable]] || &nbsp; || 19
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons primaires](./dragon primaire.md).***</li></ul>*Ce sombre dragon élancé se déplace avec l’étonnante grâce d’un serpent. Ses yeux brillent comme des charbons ardents.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon primaire|dragons primaires]].***</li></ul>*Ce sombre dragon élancé se déplace avec l’étonnante grâce d’un serpent. Ses yeux brillent comme des charbons ardents.*
 
 Les dragons umbrals sont des créatures cruelles et sadiques.
 Ils aiment surtout le goût
 de la chair de mort-vivant
 et celui de l’ectoplasme
-des [fantômes](./Fantôme, archétype.md), mais ne
+des [[fantôme, archétype|fantômes]], mais ne
 ratent aucune occasion
 de consommer de la
 chair vivante.
@@ -64,27 +64,27 @@ chair vivante.
 |- CLASS="premier"
 | Dragonnet || fils de l’ombre, immunité contre le froid || —
 |- CLASS="alt"
-| Très jeune || *[ténèbres](./Ténèbres.md)* || —
+| Très jeune || *[[ténèbres]]* || —
 |-
 | Jeune || attaques spectrales || 1
 |- CLASS="alt"
-| Adolescent || *[baiser du vampire](./Baiser du vampire.md)*, [présence terrifiante](./dragon.md#PRESENCETERRIFIANTE) || 3
+| Adolescent || *[[baiser du vampire]]*, [[dragon#PRESENCETERRIFIANTE|présence terrifiante]] || 3
 |-
-| Jeune adulte || [RD](./RD.md) 5/magie ; [RM](./RM.md) || 5
+| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
 |- CLASS="alt"
-| Adulte || souffle de l’ombre, *[traversée des ombres](./Traversée des ombres.md)* || 7
+| Adulte || souffle de l’ombre, *[[traversée des ombres]]* || 7
 |-
-| Âge mûr || [RD](./RD.md) 10/magie || 9
+| Âge mûr || [[RD]] 10/magie || 9
 |- CLASS="alt"
-| Vieux || *[projection d'image](./Projection dimage.md)* || 11
+| Vieux || *[[projection dimage|projection d'image]]* || 11
 |-
-| Très vieux || [RD](./RD.md) 15/magie || 13
+| Très vieux || [[RD]] 15/magie || 13
 |- CLASS="alt"
-| Vénérable || création d’ombres, *[doigt de mort](./Doigt de mort.md)* || 15
+| Vénérable || création d’ombres, *[[doigt de mort]]* || 15
 |-
-| Dracosire || [RD](./RD.md) 20/magie || 17
+| Dracosire || [[RD]] 20/magie || 17
 |- CLASS="alt"
-| Grand dracosire || absorption d’énergie, *[reflets d’ombre](./Reflets dombre.md)* || 19
+| Grand dracosire || absorption d’énergie, *[[reflets dombre|reflets d’ombre]]* || 19
 |}
 </center>
 

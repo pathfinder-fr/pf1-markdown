@@ -12,9 +12,9 @@ Categories:
 
 *Vos chants résonnent aux oreilles de vos ennemis avant que ces derniers ne puissant se défendre.*
 
-**Condition.** Capacité de classe [représentation bardique](./représentation bardique.md)
+**Condition.** Capacité de classe [[représentation bardique]]
 
-**Avantage.** Les performances bardiques que le personnage entame au cours du [round de surprise](./round de surprise.md) ne sont pas décomptées de son nombre de rounds quotidiens. Tous les bonus octroyés par les représentations du personnage augmentent d’un point pendant le round de surprise.
+**Avantage.** Les performances bardiques que le personnage entame au cours du [[round de surprise]] ne sont pas décomptées de son nombre de rounds quotidiens. Tous les bonus octroyés par les représentations du personnage augmentent d’un point pendant le round de surprise.
 
 (((Battle Cry (DTT)
 

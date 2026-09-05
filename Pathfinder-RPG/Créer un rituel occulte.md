@@ -32,7 +32,7 @@ plusieurs écoles, choisissez et utilisez la plus adaptée.
 le niveau du rituel. Les rituels occultes équivalent toujours au
 moins à des sorts de niveau 4. Souvent, le meilleur moyen de
 déterminer le niveau d’un rituel consiste à le comparer aux
-autres sorts du jeu ou d’utiliser les conseils de [création de sorts](./Créer un sort.md) de *L’Art de la magie*. Le niveau du rituel
+autres sorts du jeu ou d’utiliser les conseils de [[créer un sort|création de sorts]] de *L’Art de la magie*. Le niveau du rituel
 détermine le nombre de tests de compétence à réussir pour le
 célébrer, le DD de ces tests, le DD du jet de sauvegarde contre
 les effets du rituel (le cas échéant) et, indirectement, la portée
@@ -50,7 +50,7 @@ En général, le rituel est basé sur un sort qui sert de guide pour
 choisir la portée, la cible, la zone, les effets, la durée, les jets de
 sauvegarde et la résistance à la magie. Si vous avez des doutes ou
 si vous créez un nouvel effet spécialement pour le rituel, utilisez
-les [Rituels de référence basés sur l’école](./Créer un rituel occulte.md#RITUELSDEREFERENCE).
+les [[Créer un rituel occulte#RITUELSDEREFERENCE|Rituels de référence basés sur l’école]].
 
 L’école du rituel ou le sort qui lui a servi de modèle servent de
 point de départ pour élaborer les détails du rituel, mais il se peut
@@ -58,7 +58,7 @@ que vous vouliez vous éloigner de ces exemples à ce momentlà.
 Ce genre de modification devrait affecter le DD des tests de
 compétence du rituel dans une plus ou moins grande mesure.
 Cela peut aussi affecter la fenêtre d’incantation du rituel. Les
-tables "[Modifications des rituels occultes](./Créer un rituel occulte.md#MODIFICATIONDESRITUELSOCCULTES)" donnent quelques
+tables "[[Créer un rituel occulte#MODIFICATIONDESRITUELSOCCULTES|Modifications des rituels occultes]]" donnent quelques
 exemples de modification de DD et de fenêtre d’incantation.
 
 {| CLASS="tablo centre autoalt" width="80%"
@@ -142,7 +142,7 @@ exemples de modification de DD et de fenêtre d’incantation.
 à déterminer les compétences à utiliser pour célébrer le
 rituel. Les compétences choisies doivent avoir un lien avec
 le concept ou les effets du rituel. Les tests de Connaissances
-(en particulier [Connaissances](./Connaissances.md) (mystères) et (religion)) font
+(en particulier [[Connaissances]] (mystères) et (religion)) font
 partie des choix évidents mais les rituels les plus intéressants
 demandent aussi d’autres compétences. Elles permettent
 souvent aux officiants secondaires de jouer un rôle plus actif
@@ -156,7 +156,7 @@ dans deux compétences ou plus.
 apportées au sort de base ou la volonté de s’éloigner du
 modèle associé à l’école du rituel, le contrecoup et sa sévérité
 affectent parfois le DD des tests de compétence à effectuer
-pour célébrer le rituel (voir la table "[Modifications des rituels occultes](./Créer un rituel occulte.md#MODIFICATIONDESRITUELSOCCULTES)"). Le contrecoup doit tenir de l’affaiblissement
+pour célébrer le rituel (voir la table "[[Créer un rituel occulte#MODIFICATIONDESRITUELSOCCULTES|Modifications des rituels occultes]]"). Le contrecoup doit tenir de l’affaiblissement
 mineur plutôt que de la punition sévère et il faut décider s’il
 affecte seulement l’officiant principal ou aussi les autres.{br}
 Les effets d’un échec doivent être plus sévères et ne doivent

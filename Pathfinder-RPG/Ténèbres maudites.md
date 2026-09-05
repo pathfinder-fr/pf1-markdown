@@ -10,26 +10,26 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 4, [Prê](./Prêtre.md) 4  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 4, [[Prêtre|Prê]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Zone d'effet** étendue de 6 m de rayon  
 
-**Durée** [instantanée](./instantanée.md) (1d4 rounds) ; voir description  
+**Durée** [[instantanée]] (1d4 rounds) ; voir description  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Ce sort permet au lanceur de sorts de faire appel à la puissance du [Mal](./Mauvais.md) pour châtier ses ennemis. La réponse des dieux du [Mal](./Mauvais.md) prend la forme d’un nuage de ténèbres denses et glacées. Seules les créatures [Bonnes](./Alignement.md) ou [Neutres](./Neutre.md) sont affectées ; celles qui sont d’[alignement Mauvais](./Alignement.md) ne risquent rien.
+Ce sort permet au lanceur de sorts de faire appel à la puissance du [[Mauvais|Mal]] pour châtier ses ennemis. La réponse des dieux du [[Mauvais|Mal]] prend la forme d’un nuage de ténèbres denses et glacées. Seules les créatures [[alignement|Bonnes]] ou [[Neutre|Neutres]] sont affectées ; celles qui sont d’[[alignement|alignement Mauvais]] ne risquent rien.
 
-Le sort rend les créatures [Bonnes](./Alignement.md) [fiévreuses](./Fiévreux.md) pendant 1d4 [round](./round.md) et leur inflige 1d8 points de dégâts tous les deux [niveaux de lanceur de sorts](./NLS.md), jusqu’à un maximum de 5d8 pour une créature [Bonne](./Alignement.md) (ou 1d6 points de dégâts par [niveau de lanceur de sorts](./NLS.md) aux [Extérieurs](./type Extérieur.md) [Bons](./sous-type Bien.md), jusqu’à un maximum de 10d6). Un jet de [Volonté](./Volonté.md) réussi permet de réduire ces dégâts de moitié et annule l’effet secondaire. *[Guérison des maladies](./Guérison des maladies.md)* et *[guérison suprême](./Guérison suprême.md)* ne sont d’aucun secours contre celui-ci, contrairement à *[délivrance des malédictions](./Délivrance des malédictions.md)*.
+Le sort rend les créatures [[alignement|Bonnes]] [[fiévreux|fiévreuses]] pendant 1d4 [[round]] et leur inflige 1d8 points de dégâts tous les deux [[NLS|niveaux de lanceur de sorts]], jusqu’à un maximum de 5d8 pour une créature [[alignement|Bonne]] (ou 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] aux [[type extérieur|Extérieurs]] [[sous-type bien|Bons]], jusqu’à un maximum de 10d6). Un jet de [[Volonté]] réussi permet de réduire ces dégâts de moitié et annule l’effet secondaire. *[[Guérison des maladies]]* et *[[guérison suprême]]* ne sont d’aucun secours contre celui-ci, contrairement à *[[délivrance des malédictions]]*.
 
-Pour leur part, les créatures [Neutres](./Alignement.md) ne sont pas malades et les dégâts qu’elles subissent sont automatiquement réduits de moitié (ils sont donc réduits à un quart en cas de jet de [Volonté](./Volonté.md) réussi).
+Pour leur part, les créatures [[alignement|Neutres]] ne sont pas malades et les dégâts qu’elles subissent sont automatiquement réduits de moitié (ils sont donc réduits à un quart en cas de jet de [[Volonté]] réussi).
 
 ### Mythique
 {s:CMy}
-Les dégâts infligés aux Extérieurs Bons s’élèvent à 1d10 points de dégâts par [niveau de lanceur de sorts](./NLS.md) (10d10 maximum) et ceux infligés aux autres créatures Bonnes à 1d12 points de dégâts par tranche de 2 [niveaux de lanceur de sorts](./NLS.md) (5d12 maximum). La durée de la fièvre infligée aux créatures dans la zone d’effet s’élève à 2d4 rounds. En cas de sauvegarde réussie, une créature Bonne est ralentie pendant un round.
+Les dégâts infligés aux Extérieurs Bons s’élèvent à 1d10 points de dégâts par [[NLS|niveau de lanceur de sorts]] (10d10 maximum) et ceux infligés aux autres créatures Bonnes à 1d12 points de dégâts par tranche de 2 [[NLS|niveaux de lanceur de sorts]] (5d12 maximum). La durée de la fièvre infligée aux créatures dans la zone d’effet s’élève à 2d4 rounds. En cas de sauvegarde réussie, une créature Bonne est ralentie pendant un round.

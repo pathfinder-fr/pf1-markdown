@@ -14,18 +14,18 @@ Categories:
 ---
 
 {s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}
-**École** [Invocation](./Invocation.md) ([création](./branche création.md)) <nowiki>[</nowiki>[terre](./Créer un sort.md#TERRE)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[créer un sort#TERRE|terre]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [courte](./Présentation des sorts.md#PORTEE) (7,5 m + 1,5 m/2niveaux)  
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,5 m + 1,5 m/2niveaux)  
 
 **Effet** une boule de boue gluante de la taille d’un poing  
 
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)  
+**Durée** [[Présentation des sorts#DUREE|instantanée]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** non
 
-Lorsque le personnage lance ce sort, il fait apparaître une unique boule de boue gluante et la lance au visage d’un ennemi avec une [attaque de contact](./Valeurs de combat.md#ATTAQUEDECONTACT) à distance. Si la boule de boue touche, la cible est [aveuglée](./États préjudiciables.md#Aveuglé). Tous les rounds, au début de son [tour](./tour.md), une créature aveuglée par ce sort peut tenter un jet de [Réflexes](./Réflexes.md) pour se secouer et se débarrasser de la boue, mettant fin à l’effet. La boule de boue peut aussi être enlevée par la créature affectée ou par une créature adjacente à elle par une [action simple](./Action simple.md).
+Lorsque le personnage lance ce sort, il fait apparaître une unique boule de boue gluante et la lance au visage d’un ennemi avec une [[Valeurs de combat#ATTAQUEDECONTACT|attaque de contact]] à distance. Si la boule de boue touche, la cible est [[États préjudiciables#Aveuglé|aveuglée]]. Tous les rounds, au début de son [[tour]], une créature aveuglée par ce sort peut tenter un jet de [[Réflexes]] pour se secouer et se débarrasser de la boue, mettant fin à l’effet. La boule de boue peut aussi être enlevée par la créature affectée ou par une créature adjacente à elle par une [[action simple]].

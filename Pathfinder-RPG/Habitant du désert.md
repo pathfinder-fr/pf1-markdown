@@ -10,6 +10,6 @@ Categories:
 
 {s:ccmi}*Le personnage a passé tant de temps dans un impitoyable désert qu’il résiste mieux à la chaleur extrême, à la faim et à la soif.*
 
-**Conditions**. [Con](./Constitution.md) 13, 1 rang en [Survie](./Survie.md)
+**Conditions**. [[Constitution|Con]] 13, 1 rang en [[Survie]]
 
-**Avantages**. Le personnage traite la [chaleur épouvantable](./Dangers naturels.md#CHALEUR) comme une chaleur torride et la chaleur torride comme une chaleur accablante. La chaleur accablante ne l’affecte pas du tout. De plus, il gagne un bonus de +4 à tous les tests de [Constitution](./Constitution.md) pour résister aux effets de faim et de soif.
+**Avantages**. Le personnage traite la [[Dangers naturels#CHALEUR|chaleur épouvantable]] comme une chaleur torride et la chaleur torride comme une chaleur accablante. La chaleur accablante ne l’affecte pas du tout. De plus, il gagne un bonus de +4 à tous les tests de [[Constitution]] pour résister aux effets de faim et de soif.

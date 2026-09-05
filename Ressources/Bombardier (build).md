@@ -4,8 +4,8 @@ Title: Bombardier
 LastModified: 2014-08-13 02:25
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
-***Voir le [http://www.pathfinder-fr.org/Forum/yaf_postst7290_Build-d-un-alchimiste.aspx#post277891|sujet de discussion]***</div><nav class="wiki-toc"></nav>
+<div class="fright">***Retour aux [[builds]].***</br>
+***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst7290_Build-d-un-alchimiste.aspx#post277891)***</div><nav class="wiki-toc"></nav>
 
 *Description / présentation RP du build proposé, en italique.*
 
@@ -35,17 +35,17 @@ LastModified: 2014-08-13 02:25
 
 ##### 3.4 Extraits
 
-**3.4.1 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#1|Extraits de niveau 1]**
+**3.4.1 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#1|Extraits de niveau 1]]**
 
-**3.4.2 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#2|Extraits de niveau 2]**
+**3.4.2 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#2|Extraits de niveau 2]]**
 
-**3.4.3 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#3|Extraits de niveau 3]**
+**3.4.3 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#3|Extraits de niveau 3]]**
 
-**3.4.4 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#4|Extraits de niveau 4]**
+**3.4.4 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#4|Extraits de niveau 4]]**
 
-**3.4.5 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#5|Extraits de niveau 5]**
+**3.4.5 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#5|Extraits de niveau 5]]**
 
-**3.4.6 [++Pathfinder-RPG.Liste des formules dalchimiste.ashx#6|Extraits de niveau 6]**
+**3.4.6 [[Pathfinder-RPG.Liste des formules dalchimiste.ashx#6|Extraits de niveau 6]]**
 
 #### 4. Équipement
 

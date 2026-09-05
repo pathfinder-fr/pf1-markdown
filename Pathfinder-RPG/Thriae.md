@@ -13,18 +13,18 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Bâtisseuse thriae](./Bâtisseuse thriae.md) || 14
+| [[Bâtisseuse thriae]] || 14
 |-
-| [Danseuse thriae](./Danseuse thriae.md) || 6
+| [[Danseuse thriae]] || 6
 |-
-| [Oracle thriae](./Oracle thriae.md) || 11
+| [[Oracle thriae]] || 11
 |-
-| [Reine thriae](./Reine thriae.md) || 18
+| [[Reine thriae]] || 18
 |-
-| [Soldat thriae](./Soldat thriae.md) || 4
+| [[Soldat thriae]] || 4
 |}
 </div></div><div class="description">**Source :** Bestiaire 3 p.253.</div>
-*Types/Sous-types associés : [Humanoïde monstrueux](./type Humanoïde monstrueux.md)*
+*Types/Sous-types associés : [[type Humanoïde monstrueux|Humanoïde monstrueux]]*
 
 Les thriae sont des créatures qui se consacrent à la spiritualité
 et à la protection des grands secrets du monde. Ce sont des

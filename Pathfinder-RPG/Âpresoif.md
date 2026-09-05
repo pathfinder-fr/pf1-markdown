@@ -13,34 +13,34 @@ Categories:
 {s:pucem|Aberration|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 5 p.33*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Aberration](./type Aberration.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille G, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [perception des vibrations](./Perception des vibrations (capacité).md) à 9 m, [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Aberration|Aberration]] ([[sous-type extraplanaire|extraplanaire]]) de taille G, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[Perception des vibrations (capacité)|perception des vibrations]] à 9 m, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 10, pris au dépourvu 18 (Dex +1, naturelle +9, taille -1)}
-{s:BDTexte|**pv** 68 (8d8+32) ; [guérison accélérée](./Guérison accélérée (capacité).md) 5}
+{s:BDTexte|**pv** 68 (8d8+32) ; [[Guérison accélérée (capacité)|guérison accélérée]] 5}
 {s:BDTexte|**Réf** +5, **Vig** +6, **Vol** +10}
 {s:BDTexte|**Capacités défensives** écailles tranchantes ; **Immunités** maladie ; **Résistances** acide 10, feu 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m, creusement 6 m, escalade 6 m}
-{s:BDTexte|**Corps à corps** morsure, +12 (2d6+7 plus [étreinte](./Étreinte (capacité).md)) et dard, +12 (1d6+7 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** morsure, +12 (2d6+7 plus [[Étreinte (capacité)|étreinte]]) et dard, +12 (1d6+7 plus [[Étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDTexte|**Attaques spéciales** absorption de moelle, [constriction](./Constriction (capacité).md) (1d6+6), mâchoires pénétrantes}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 6 ; [concentration](./concentration.md) +6)}
-{s:BDSorts|3/jour — *[mise à mort](./Mise à mort.md)* (DD 12), *[rayon d'épuisement](./Rayon dépuisement.md)* (DD 13)}
-{s:BDSorts|1/jour — *[lenteur](./Lenteur.md)* (DD 13)}
+{s:BDTexte|**Attaques spéciales** absorption de moelle, [[Constriction (capacité)|constriction]] (1d6+6), mâchoires pénétrantes}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 6 ; [[concentration]] +6)}
+{s:BDSorts|3/jour — *[[mise à mort]]* (DD 12), *[[rayon dépuisement|rayon d'épuisement]]* (DD 13)}
+{s:BDSorts|1/jour — *[[lenteur]]* (DD 13)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 13, **Con** 19, **Int** 6, **Sag** 14, **Cha** 11}
-{s:BDTexte|**BBA** +6 ; **BMO** +14 (+18 en [lutte](./lutte.md)) ; **DMD** 25 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md), [S'avancer](./Savancer.md), [Science de l'initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +26, [Perception](./Perception.md) +13}
+{s:BDTexte|**BBA** +6 ; **BMO** +14 (+18 en [[lutte]]) ; **DMD** 25 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [[Réflexes surhumains]], [[Savancer|S'avancer]], [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Escalade]] +26, [[Perception]] +13}
 {s:BDTexte|**Langues** abyssal}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation** solitaire, couple ou amas grouillant (3-10)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Absorption de moelle (Ext). ** La queue des âpresoifs est couverte de ventouses d’où sortent des tendons capables de perforer les os de leurs victimes pour absorber la moelle qui s’y trouve. Par une action rapide, un âpresoif peut absorber la moelle d’une créature qu’elle agrippe ou qui est sans défense. La victime peut résister à cette douloureuse attaque en réussissant un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 18 ; en cas d’échec, l’horrible douleur rend la créature [chancelante](./Chancelant.md) pendant 1 [round](./round.md) et elle subit une diminution permanente de 1 point de [Constitution](./Constitution.md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Écailles tranchantes (Ext). ** Le bord et la pointe des écailles disposées le long de l’épine dorsale d’un âpresoif sont extrêmement tranchants et la créature sait s’en servir pour blesser ses adversaires. Les créatures qui attaquent un âpresoif avec une arme naturelle, à mains nues ou avec une arme légère doivent réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 15 pour ne pas subir 1d4 points de dégâts tranchants. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Dextérité](./Dextérité.md).}
+{s:BDTexte|**Absorption de moelle (Ext). ** La queue des âpresoifs est couverte de ventouses d’où sortent des tendons capables de perforer les os de leurs victimes pour absorber la moelle qui s’y trouve. Par une action rapide, un âpresoif peut absorber la moelle d’une créature qu’elle agrippe ou qui est sans défense. La victime peut résister à cette douloureuse attaque en réussissant un jet de [[Vigueur]] [[DD]] 18 ; en cas d’échec, l’horrible douleur rend la créature [[chancelant|chancelante]] pendant 1 [[round]] et elle subit une diminution permanente de 1 point de [[Constitution]]. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Écailles tranchantes (Ext). ** Le bord et la pointe des écailles disposées le long de l’épine dorsale d’un âpresoif sont extrêmement tranchants et la créature sait s’en servir pour blesser ses adversaires. Les créatures qui attaquent un âpresoif avec une arme naturelle, à mains nues ou avec une arme légère doivent réussir un jet de [[Réflexes]] [[DD]] 15 pour ne pas subir 1d4 points de dégâts tranchants. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Dextérité]].}
 {s:BDTexte|**Mâchoires pénétrantes (Sur). ** L’attaque de morsure d’un âpresoif ignore la réduction de dégâts contre le fer froid et l’argent.}
 </div></td>
 <td><div>*Cette créature à l’aspect de ver a une longue queue couverte d’horribles ventouses aux bords dentelés.*

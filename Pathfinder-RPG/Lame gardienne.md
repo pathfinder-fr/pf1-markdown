@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Lame gardienne|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 15 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 65 310 po ; **Poids** 1 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 15 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 65 310 po ; **Poids** 1 kg
 (((Description)))
-Cette *épée courte [dansante](./dansante (propriété).md) +1* se lève immédiatement pour défendre un propriétaire tombé ou endormi. Pour activer l'épée, ce dernier doit tomber mort ou inconscient alors qu'il la tenait en main. Ensuite, si une créature autre qu'un allié tente de le toucher ou de le frapper au corps à corps, l'épée attaque pendant 4 rounds. Elle tombe ensuite dans la case de son propriétaire. À moins que la *lame gardienne* ne soit douée d'intelligence, elle n'est pas assez maligne pour décider du meilleur adversaire à combattre et, si plusieurs ennemis attaquent son propriétaire, elle frappe une cible aléatoire à chaque round.
+Cette *épée courte [[dansante (propriété)|dansante]] +1* se lève immédiatement pour défendre un propriétaire tombé ou endormi. Pour activer l'épée, ce dernier doit tomber mort ou inconscient alors qu'il la tenait en main. Ensuite, si une créature autre qu'un allié tente de le toucher ou de le frapper au corps à corps, l'épée attaque pendant 4 rounds. Elle tombe ensuite dans la case de son propriétaire. À moins que la *lame gardienne* ne soit douée d'intelligence, elle n'est pas assez maligne pour décider du meilleur adversaire à combattre et, si plusieurs ennemis attaquent son propriétaire, elle frappe une cible aléatoire à chaque round.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[animation d'objets](./Animation dobjets.md)*, *[chien de garde](./Chien de garde.md)* ; **Coût** 32 810 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[animation dobjets|animation d'objets]]*, *[[chien de garde]]* ; **Coût** 32 810 po
 </div>

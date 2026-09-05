@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-La cité-état d'Aspenthar est située ou nord-ouest de la [Thuvie](./Thuvie.md), au bord de la [mer Intérieure](./mer Intérieure.md).
+La cité-état d'Aspenthar est située ou nord-ouest de la [[Thuvie]], au bord de la [[mer Intérieure]].
 
 De tradition martiale, le Prince Zinlo, son dirigeant, exige la même formation pour les citoyens de la cité qui contient le plus grande garnison du pays.

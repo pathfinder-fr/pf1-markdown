@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage positionne ses ennemis là où il le souhaite.*
 
-**Condition.** [Science du repositionnement](./Science du repositionnement.md)
+**Condition.** [[Science du repositionnement]]
 
-**Avantage.** Le personnage gagne un bonus égal à la moitié de son [grade](./Grade.md) aux tests de [manœuvre offensive](./Manœuvre offensive.md) de repositionnement et ajoute ce même bonus à son DMD lorsqu’un adversaire tente de le repositionner. Ces bonus se cumulent avec ceux conférés par la version [non-mythique](./non-mythique.md) de [Science du repositionnement](./Science du repositionnement.md). De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui tente de le repositionner, à moins qu’elle possède également ce don.
+**Avantage.** Le personnage gagne un bonus égal à la moitié de son [[grade]] aux tests de [[manœuvre offensive]] de repositionnement et ajoute ce même bonus à son DMD lorsqu’un adversaire tente de le repositionner. Ces bonus se cumulent avec ceux conférés par la version [[non-mythique]] de [[Science du repositionnement]]. De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui tente de le repositionner, à moins qu’elle possède également ce don.

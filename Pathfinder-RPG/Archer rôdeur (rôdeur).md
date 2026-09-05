@@ -11,20 +11,20 @@ Categories:
 {s:Menuarchétyperôdeur}{s:cs}{s:WMH}*Certains rôdeurs ont perfectionné leur maîtrise de l'arc au point de devenir de véritables tireurs d'élite. Leur entraînement ne les limite toutefois pas à ce rôle, ce qui en fait d'excellents soldats polyvalents.*
 
 #### Tir dans le mille (Ext)
-Au niveau 1, l'archer rôdeur gagne le don [Dans le mille](./Dans le mille.md) comme don supplémentaire. Il n'a pas besoin de remplir les conditions de ce don. Cette aptitude remplace [pistage](./Rôdeur.md#PISTAGE) et [empathie sauvage](./Rôdeur.md#EMPATHIESAUVAGE).
+Au niveau 1, l'archer rôdeur gagne le don [[Dans le mille]] comme don supplémentaire. Il n'a pas besoin de remplir les conditions de ce don. Cette aptitude remplace [[Rôdeur#PISTAGE|pistage]] et [[Rôdeur#EMPATHIESAUVAGE|empathie sauvage]].
 
 
 #### Style de combat à distance (Ext)
-Au niveau 2, l'archer rôdeur doit choisir le [style de combat](./Rôdeur.md#DONDESTYLEDECOMBAT) *à distance*. Ceci modifie l'aptitude de classe [don de style de combat](./Rôdeur.md#DONDESTYLEDECOMBAT).
+Au niveau 2, l'archer rôdeur doit choisir le [[rôdeur#DONDESTYLEDECOMBAT|style de combat]] *à distance*. Ceci modifie l'aptitude de classe [[rôdeur#DONDESTYLEDECOMBAT|don de style de combat]].
 
 #### Tir vicieux (Ext)
-Au niveau 4, l'archer rôdeur ajoute la moitié de son bonus d'[ennemi juré](./Rôdeur.md#ENNEMIJURE) le plus élevé à tous les [jets d'attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) des attaques portées avec des armes à distance. Ce bonus ne se cumule pas à son bonus d'ennemi juré normal lorsqu'il cible une créature désignée comme ennemi juré. Cette aptitude remplace [sorts](./Rôdeur.md#SORTS) et l'archer rôdeur n'est pas considéré comme étant un lanceur de sort.
+Au niveau 4, l'archer rôdeur ajoute la moitié de son bonus d'[[Rôdeur#ENNEMIJURE|ennemi juré]] le plus élevé à tous les [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] des attaques portées avec des armes à distance. Ce bonus ne se cumule pas à son bonus d'ennemi juré normal lorsqu'il cible une créature désignée comme ennemi juré. Cette aptitude remplace [[Rôdeur#SORTS|sorts]] et l'archer rôdeur n'est pas considéré comme étant un lanceur de sort.
 
 #### Influence de l'Héritière (Ext)
-Au niveau 8, l'archer rôdeur gagne le don [Arme de prédilection](./Arme de prédilection.md) (épée longue) comme don supplémentaire. Cette aptitude remplace [pistage accéléré](./Rôdeur.md#PISTAGEACCELERE).
+Au niveau 8, l'archer rôdeur gagne le don [[Arme de prédilection]] (épée longue) comme don supplémentaire. Cette aptitude remplace [[Rôdeur#PISTAGEACCELERE|pistage accéléré]].
 
 #### Viser juste (Ext)
-Au niveau 11, l'archer rôdeur reçoit le don [Viser juste](./Viser juste.md) comme don supplémentaire, même s'il ne remplit pas les conditions. Cette aptitude remplace [proie du chasseur](./Rôdeur.md#PROIEDUCHASSEUR).
+Au niveau 11, l'archer rôdeur reçoit le don [[Viser juste]] comme don supplémentaire, même s'il ne remplit pas les conditions. Cette aptitude remplace [[Rôdeur#PROIEDUCHASSEUR|proie du chasseur]].
 
 #### Proie du chasseur (Ext)
-Au niveau 19, l'archer rôdeur reçoit l'aptitude de classe [proie du chasseur](./Rôdeur.md#PROIEDUCHASSEUR). Cette aptitude remplace [proie du maître chasseur](./Rôdeur.md#PROIEDUMAITRECHASSEUR).
+Au niveau 19, l'archer rôdeur reçoit l'aptitude de classe [[Rôdeur#PROIEDUCHASSEUR|proie du chasseur]]. Cette aptitude remplace [[Rôdeur#PROIEDUMAITRECHASSEUR|proie du maître chasseur]].

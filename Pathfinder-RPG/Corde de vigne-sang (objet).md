@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 200 po ; **Poids** 2,5 kg ; **DD d'Artisanat (alchimie)** 30
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Cette corde légère et résistante de 15 mètres de long est faite de vigne-sang traitée alchimiquement, une forme de liane rare de couleur écarlate qui ne pousse que dans les jungles chaudes. Quoique prisée par les grimpeurs pour sa longévité, la vigne-sang peut également servir à attacher des créatures. Une corde de vigne-sang a une [solidité](./solidité.md) de 5 et 10 points de vie. Il est possible de la rompre en réussissant un test de [Force](./Force.md) [DD](./DD.md) 30. Une créature attachée avec une corde de vigne-sang peut se libérer en réussissant un test d’[Évasion](./Évasion.md) DD 35 ou un test de Force DD 30.
+Cette corde légère et résistante de 15 mètres de long est faite de vigne-sang traitée alchimiquement, une forme de liane rare de couleur écarlate qui ne pousse que dans les jungles chaudes. Quoique prisée par les grimpeurs pour sa longévité, la vigne-sang peut également servir à attacher des créatures. Une corde de vigne-sang a une [[solidité]] de 5 et 10 points de vie. Il est possible de la rompre en réussissant un test de [[Force]] [[DD]] 30. Une créature attachée avec une corde de vigne-sang peut se libérer en réussissant un test d’[[Évasion]] DD 35 ou un test de Force DD 30.

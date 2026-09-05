@@ -4,7 +4,7 @@ Title: Barde à allonge
 LastModified: 2017-11-16 23:28
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le [1er sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst9515_Barde-de-melee.aspx#post390092)***</br>
 ***Voir le [2ème sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst6810_multiclassage-voleur-magicien-pretre.aspx#post255764)***</div><nav class="wiki-toc"></nav>
 
@@ -60,55 +60,55 @@ Le barde n'est pas un full-caster et la dépendance aux attributs physiques limi
 On préférera les buffs, les illusions et les utilitaires.</br>
 Dans les suppléments, on gagne quelques sorts pour les hauts niveaux, comme Shadowbard ou Getaway.
 
-**3.4.0 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#0|Sorts de niveau 0]**
-- [++Pathfinder-RPG.Détection de la magie.ashx|Détection de la magie]
-- [++Pathfinder-RPG.Lecture de la magie.ashx|Lecture de la magie]
-- [++Pathfinder-RPG.Manipulation à distance.ashx|Manipulation à distance]
-- [++Pathfinder-RPG.Message.ashx|Message]
-- [++Pathfinder-RPG.Prestidigitation.ashx|Prestidigitation]
-- [++Pathfinder-RPG.Son imaginaire.ashx|Son imaginaire]
+**3.4.0 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#0|Sorts de niveau 0]]**
+- [[Pathfinder-RPG.Détection de la magie.ashx|Détection de la magie]]
+- [[Pathfinder-RPG.Lecture de la magie.ashx|Lecture de la magie]]
+- [[Pathfinder-RPG.Manipulation à distance.ashx|Manipulation à distance]]
+- [[Pathfinder-RPG.Message.ashx|Message]]
+- [[Pathfinder-RPG.Prestidigitation.ashx|Prestidigitation]]
+- [[Pathfinder-RPG.Son imaginaire.ashx|Son imaginaire]]
 
-**3.4.1 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#1|Sorts de niveau 1]**
-- [++Pathfinder-RPG.Compréhension des langages.ashx|Compréhension des langages]
-- [++Pathfinder-RPG.Feuille morte.ashx|Feuille morte]
-- [++Pathfinder-RPG.Graisse.ashx|Graisse]
-- [++Pathfinder-RPG.Image silencieuse.ashx|Image silencieuse]
-- [++Pathfinder-RPG.Regain dassurance.ashx|Regain d'assurance]
-- [++Pathfinder-RPG.Serviteur invisible.ashx|Serviteur invisible]
+**3.4.1 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#1|Sorts de niveau 1]]**
+- [[Pathfinder-RPG.Compréhension des langages.ashx|Compréhension des langages]]
+- [[Pathfinder-RPG.Feuille morte.ashx|Feuille morte]]
+- [[Pathfinder-RPG.Graisse.ashx|Graisse]]
+- [[Pathfinder-RPG.Image silencieuse.ashx|Image silencieuse]]
+- [[Pathfinder-RPG.Regain dassurance.ashx|Regain d'assurance]]
+- [[Pathfinder-RPG.Serviteur invisible.ashx|Serviteur invisible]]
 
-**3.4.2 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#2|Sorts de niveau 2]**
-- [++Pathfinder-RPG.Détection de pensées.ashx|Détection de pensées]
-- [++Pathfinder-RPG.Don des langues.ashx|Don des langues]
-- [++Pathfinder-RPG.Héroïsme.ashx|Héroïsme]
-- [++Pathfinder-RPG.Invisibilité.ashx|Invisibilité]
-- [++Pathfinder-RPG.Modification dapparence.ashx|Modification d'apparence]
-- [++Pathfinder-RPG.Ralentissement du poison.ashx|Ralentissement du poison]
+**3.4.2 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#2|Sorts de niveau 2]]**
+- [[Pathfinder-RPG.Détection de pensées.ashx|Détection de pensées]]
+- [[Pathfinder-RPG.Don des langues.ashx|Don des langues]]
+- [[Pathfinder-RPG.Héroïsme.ashx|Héroïsme]]
+- [[Pathfinder-RPG.Invisibilité.ashx|Invisibilité]]
+- [[Pathfinder-RPG.Modification dapparence.ashx|Modification d'apparence]]
+- [[Pathfinder-RPG.Ralentissement du poison.ashx|Ralentissement du poison]]
 
-**3.4.3 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#3|Sorts de niveau 3]**
-- [++Pathfinder-RPG.sort Abri.ashx|Abri]
-- [++Pathfinder-RPG.Bagou.ashx|Bagou]
-- [++Pathfinder-RPG.Coursier fantôme.ashx|Coursier fantôme]
-- [++Pathfinder-RPG.Dissipation de la magie.ashx|Dissipation de la magie]
-- [++Pathfinder-RPG.Espoir.ashx|Espoir]
-- [++Pathfinder-RPG.Manipulation des sons.ashx|Manipulation des sons]
-- [++Pathfinder-RPG.Rapidité.ashx|Rapidité]
+**3.4.3 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#3|Sorts de niveau 3]]**
+- [[Pathfinder-RPG.sort Abri.ashx|Abri]]
+- [[Pathfinder-RPG.Bagou.ashx|Bagou]]
+- [[Pathfinder-RPG.Coursier fantôme.ashx|Coursier fantôme]]
+- [[Pathfinder-RPG.Dissipation de la magie.ashx|Dissipation de la magie]]
+- [[Pathfinder-RPG.Espoir.ashx|Espoir]]
+- [[Pathfinder-RPG.Manipulation des sons.ashx|Manipulation des sons]]
+- [[Pathfinder-RPG.Rapidité.ashx|Rapidité]]
 
-**3.4.4 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#4|Sorts de niveau 4]**
-- [++Pathfinder-RPG.Convocation dombres.ashx|Convocation d'ombres]
-- [++Pathfinder-RPG.Porte dimensionnelle.ashx|Porte dimensionnelle]
-- [++Pathfinder-RPG.Liberté de mouvement.ashx|Liberté de mouvement]
+**3.4.4 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#4|Sorts de niveau 4]]**
+- [[Pathfinder-RPG.Convocation dombres.ashx|Convocation d'ombres]]
+- [[Pathfinder-RPG.Porte dimensionnelle.ashx|Porte dimensionnelle]]
+- [[Pathfinder-RPG.Liberté de mouvement.ashx|Liberté de mouvement]]
 
-**3.4.5 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#5|Sorts de niveau 5]**
-- [++Pathfinder-RPG.Dissipation suprême.ashx|Dissipation suprême]
-- [++Pathfinder-RPG.Magie des ombres.ashx|Magie des ombres]
-- [++Pathfinder-RPG.Traversée des ombres.ashx|Traversée des ombres]
+**3.4.5 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#5|Sorts de niveau 5]]**
+- [[Pathfinder-RPG.Dissipation suprême.ashx|Dissipation suprême]]
+- [[Pathfinder-RPG.Magie des ombres.ashx|Magie des ombres]]
+- [[Pathfinder-RPG.Traversée des ombres.ashx|Traversée des ombres]]
 
-**3.4.6 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#6|Sorts de niveau 6]**
-- [++Pathfinder-RPG.Analyse denchantement.ashx|Analyse d'enchantement]
-- [++Pathfinder-RPG.Convocation de monstres VI.ashx|Convocation de monstres VI]
-- [++Pathfinder-RPG.Festin des héros.ashx|Festin des héros]
-- [++Pathfinder-RPG.Orientation.ashx|Orientation]
-- [++Pathfinder-RPG.Projection dimage.ashx|Projection de l'image]
+**3.4.6 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#6|Sorts de niveau 6]]**
+- [[Pathfinder-RPG.Analyse denchantement.ashx|Analyse d'enchantement]]
+- [[Pathfinder-RPG.Convocation de monstres VI.ashx|Convocation de monstres VI]]
+- [[Pathfinder-RPG.Festin des héros.ashx|Festin des héros]]
+- [[Pathfinder-RPG.Orientation.ashx|Orientation]]
+- [[Pathfinder-RPG.Projection dimage.ashx|Projection de l'image]]
 
 
 
@@ -123,43 +123,43 @@ La pique est la seule arme à allonge maîtrisée par le barde. En complément, 
 |- CLASS="titre"
 | Niveau || Classe || BBA || NLS || Capacités de classe, dons
 |- CLASS="premier"
-| 01 || [Barde](./../Pathfinder-RPG/Barde.md) 1 || +0 || 1 || [++Pathfinder-RPG.Attaques réflexes.ashx|Attaques réflexes], [++Pathfinder-RPG.Science de linitiative.ashx|science de l'initiative]
+| 01 || [[Pathfinder-RPG.Barde|Barde]] 1 || +0 || 1 || [[Pathfinder-RPG.Attaques réflexes.ashx|Attaques réflexes]], [[Pathfinder-RPG.Science de linitiative.ashx|science de l'initiative]]
 |-
-| 02 || [Barde](./../Pathfinder-RPG/Barde.md) 2 || +1 || 2 || &nbsp;
+| 02 || [[Pathfinder-RPG.Barde|Barde]] 2 || +1 || 2 || &nbsp;
 |-
-| 03 || [Barde](./../Pathfinder-RPG/Barde.md) 3 || +2 || 3 || [++Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]
+| 03 || [[Pathfinder-RPG.Barde|Barde]] 3 || +2 || 3 || [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]
 |-
-| 04 || [Barde](./../Pathfinder-RPG/Barde.md) 4 || +3 || 4 || &nbsp;
+| 04 || [[Pathfinder-RPG.Barde|Barde]] 4 || +3 || 4 || &nbsp;
 |-
-| 05 || [Barde](./../Pathfinder-RPG/Barde.md) 5 || +3 || 5 || [++Pathfinder-RPG.Frappe magique.ashx|Frappe magique]
+| 05 || [[Pathfinder-RPG.Barde|Barde]] 5 || +3 || 5 || [[Pathfinder-RPG.Frappe magique.ashx|Frappe magique]]
 |-
-| 06 || [Barde](./../Pathfinder-RPG/Barde.md) 6 || +4 || 6 || &nbsp;
+| 06 || [[Pathfinder-RPG.Barde|Barde]] 6 || +4 || 6 || &nbsp;
 |-
-| 07 || [Barde](./../Pathfinder-RPG/Barde.md) 7 || +5 || 7 || [++Pathfinder-RPG.Prestige.ashx|Prestige]
+| 07 || [[Pathfinder-RPG.Barde|Barde]] 7 || +5 || 7 || [[Pathfinder-RPG.Prestige.ashx|Prestige]]
 |-
-| 08 || [Barde](./../Pathfinder-RPG/Barde.md) 8 || +6 || 8 || &nbsp;
+| 08 || [[Pathfinder-RPG.Barde|Barde]] 8 || +6 || 8 || &nbsp;
 |-
-| 09 || [Barde](./../Pathfinder-RPG/Barde.md) 9 || +6 || 9 || [++Pathfinder-RPG.Fente.ashx|Fente]
+| 09 || [[Pathfinder-RPG.Barde|Barde]] 9 || +6 || 9 || [[Pathfinder-RPG.Fente.ashx|Fente]]
 |-
-| 10 || [Barde](./../Pathfinder-RPG/Barde.md) 10 || +7 || 10 || &nbsp;
+| 10 || [[Pathfinder-RPG.Barde|Barde]] 10 || +7 || 10 || &nbsp;
 |-
-| 11 || [Barde](./../Pathfinder-RPG/Barde.md) 11 || +8 || 11 || [++Pathfinder-RPG.Voix discordante.ashx|Voix discordante]
+| 11 || [[Pathfinder-RPG.Barde|Barde]] 11 || +8 || 11 || [[Pathfinder-RPG.Voix discordante.ashx|Voix discordante]]
 |-
-| 12 || [Barde](./../Pathfinder-RPG/Barde.md) 12 || +9 || 12 || &nbsp;
+| 12 || [[Pathfinder-RPG.Barde|Barde]] 12 || +9 || 12 || &nbsp;
 |-
-| 13 || [Barde](./../Pathfinder-RPG/Barde.md) 13 || +9 || 13 || &nbsp;
+| 13 || [[Pathfinder-RPG.Barde|Barde]] 13 || +9 || 13 || &nbsp;
 |-
-| 14 || [Barde](./../Pathfinder-RPG/Barde.md) 14 || +10 || 14 || &nbsp;
+| 14 || [[Pathfinder-RPG.Barde|Barde]] 14 || +10 || 14 || &nbsp;
 |-
-| 15 || [Barde](./../Pathfinder-RPG/Barde.md) 15 || +11 ||  15 || &nbsp;
+| 15 || [[Pathfinder-RPG.Barde|Barde]] 15 || +11 ||  15 || &nbsp;
 |-
-| 16 || [Barde](./../Pathfinder-RPG/Barde.md) 16 || +12 || 16 || &nbsp;
+| 16 || [[Pathfinder-RPG.Barde|Barde]] 16 || +12 || 16 || &nbsp;
 |-
-| 17 || [Barde](./../Pathfinder-RPG/Barde.md) 17 || +12 || 17 || &nbsp;
+| 17 || [[Pathfinder-RPG.Barde|Barde]] 17 || +12 || 17 || &nbsp;
 |-
-| 18 || [Barde](./../Pathfinder-RPG/Barde.md) 18 || +13 || 18 || &nbsp;
+| 18 || [[Pathfinder-RPG.Barde|Barde]] 18 || +13 || 18 || &nbsp;
 |-
-| 19 || [Barde](./../Pathfinder-RPG/Barde.md) 19 || +14 || 19 || &nbsp;
+| 19 || [[Pathfinder-RPG.Barde|Barde]] 19 || +14 || 19 || &nbsp;
 |-
-| 20 || [Barde](./../Pathfinder-RPG/Barde.md) 20 || +15 || 20 || &nbsp;
+| 20 || [[Pathfinder-RPG.Barde|Barde]] 20 || +15 || 20 || &nbsp;
 |}

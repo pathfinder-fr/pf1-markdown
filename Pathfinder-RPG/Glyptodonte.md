@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Plaines|Tempéré}
 - *Source : Bestiaire 2* p.32
 - **PX** 2.400
-- [Animal](./type Animal.md) de taille G, N
-- **Init** +0 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +16
+- [[type Animal|Animal]] de taille G, N
+- **Init** +0 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +16
 (((Défense)))
 - **CA** 21, contact 9, pris au dépourvu 21 (naturelle +12, taille –1)
 - **pv** 67 (9d8+27)
@@ -27,8 +27,8 @@ Categories:
 (((Caractéristiques)))
 - **For** 25, **Dex** 10, **Con** 17, **Int** 2, **Sag** 13, **Cha** 6
 - **BBA** +6, **BMO** +14, **DMD** 24 (28 contre croc-en-jambe)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Endurance](./Endurance.md), [Science de la bousculade]], [Talent](./Talent.md) ([Perception](./Perception.md)), [Vigueur surhumaine](./Vigueur surhumaine.md)
-- **Compétences** [Perception](./Perception.md) +16
+- **Dons** [[Attaque en puissance]], [[Endurance]], [Science de la bousculade]], [[Talent]] ([[Perception]]), [[Vigueur surhumaine]]
+- **Compétences** [[Perception]] +16
 (((Écologie)))
 - **Environnement** plaines tempérées
 - **Organisation sociale** solitaire ou couple
@@ -41,36 +41,36 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Archelon](./Archelon.md) || 5
+| [[Archelon]] || 5
 |-
-| [Arsinoithérium](./Arsinoithérium.md) || 7
+| [[Arsinoithérium]] || 7
 |-
-| [Baluchithérium](./Baluchithérium.md) || 8
+| [[Baluchithérium]] || 8
 |-
-| [Basilosaure](./Basilosaure.md) || 12
+| [[Basilosaure]] || 12
 |-
-| [Chalicothérium](./Chalicothérium.md) || 6
+| [[Chalicothérium]] || 6
 |-
-| [Glyptodonte](./Glyptodonte.md) || 6
+| [[Glyptodonte]] || 6
 |-
-| [Kaprosuchus](./Kaprosuchus.md) || 5
+| [[Kaprosuchus]] || 5
 |-
-| [Mégalania](./Mégalania.md) || 7
+| [[Mégalania]] || 7
 |-
-| [Mégalocéros](./Mégalocéros.md) || 4
+| [[Mégalocéros]] || 4
 |-
-| [Mégathérium](./Mégathérium.md) || 5
+| [[Mégathérium]] || 5
 |-
-| [Moa](./Moa.md) || 2
+| [[Moa]] || 2
 |-
-| [Uintathérium](./Uintathérium.md) || 7
+| [[Uintathérium]] || 7
 |}
 </div>*Cette créature cuirassée possède une carapace de tortue d’où émergent des pattes courtes, une tête plate et une petite queue garnie de piquants.*
 
 Le glyptodonte est souvent chassé pour sa carapace. Celle-ci est constituée de plaques osseuses elles-mêmes constituées d’écailles noueuses. Cette créature est plus que capable de se défendre grâce à ses dangereuses griffes, une arme que son tempérament colérique l’incite à utiliser assez souvent.
 
 #### Le glyptodonte comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 6 m (4 {s:c}) ; **CA** armure naturelle +5 ; **Attaque** 2 griffes (1d8) ; **Caractéristiques** For 13, Dex 12, Con 13, Int 2, Sag 13, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 6 m (4 {s:c}) ; **CA** armure naturelle +5 ; **Attaque** 2 griffes (1d8) ; **Caractéristiques** For 13, Dex 12, Con 13, Int 2, Sag 13, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** 2 griffes (1d10) ; **Caractéristiques** For +8, Dex –2, Con +4.
 </div></td></tr></table>

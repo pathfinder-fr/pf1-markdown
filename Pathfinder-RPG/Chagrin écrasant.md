@@ -12,12 +12,12 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[émotion](./Registre.md), [mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 3, [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Psy](./Psychiste.md) 4
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+{s:UM}**École** [[enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cible** une créature
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Durée** 1 [[round]]/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
-Le personnage frappe un unique adversaire d’un profond chagrin. La victime ne peut pas entreprendre la moindre [action](./action.md), reçoit un malus de -2 à la [CA](./CA.md) et perd son bonus de [Dextérité](./Dextérité.md) (le cas échéant). Elle peut tenter un nouveau [jet de sauvegarde](./jet de sauvegarde.md) par [round](./round.md) pour briser l’effet.
+Le personnage frappe un unique adversaire d’un profond chagrin. La victime ne peut pas entreprendre la moindre [[action]], reçoit un malus de -2 à la [[CA]] et perd son bonus de [[Dextérité]] (le cas échéant). Elle peut tenter un nouveau [[jet de sauvegarde]] par [[round]] pour briser l’effet.

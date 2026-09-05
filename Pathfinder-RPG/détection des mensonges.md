@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Inquisiteur#DETECTIONDESMENSONGES
 ---
 
->>> [Inquisiteur#DETECTIONDESMENSONGES](./Inquisiteur.md#DETECTIONDESMENSONGES)
+>>> [[Inquisiteur#DETECTIONDESMENSONGES]]

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 p. 129*}
 {s:BDTexte|**PX** 9 600 px}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille TG, N}
-{s:BDTexte|**Init** +4 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille TG, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision nocturne]] ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 16, pris au dépourvu 20 (Dex +4, naturelle +8, parade +4, taille -2)}
 {s:BDTexte|**pv** 127 (15d8+60)}
@@ -29,19 +29,19 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 19, **Con** 19, **Int** 10, **Sag** 14, **Cha** 11}
 {s:BDTexte|**BBA** +11, **BMO** +21, **DMD** 39}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (arc long), [Science du critique](./Science du critique.md) (arc long), [Science du tir de précision](./Science du tir de précision.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), [Tir rapide](./Tir rapide.md), [Viser](./Viser.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (arcs) +8, [Discrétion](./Discrétion.md) +12 (+20 en forêt), [Escalade](./Escalade.md) +12, [Perception](./Perception.md) +15, [Survie](./Survie.md) +10}
-{s:BDTexte|**Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md) en forêt, +4 en [Escalade](./Escalade.md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (arc long), [[Science du critique]] (arc long), [[Science du tir de précision]], [[Talent]] ([[Discrétion]]), [[Tir à bout portant]], [[Tir de précision]], [[Tir rapide]], [[Viser]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (arcs) +8, [[Discrétion]] +12 (+20 en forêt), [[Escalade]] +12, [[Perception]] +15, [[Survie]] +10}
+{s:BDTexte|**Modificateurs raciaux** +8 en [[Discrétion]] en forêt, +4 en [[Escalade]]}
 {s:BDTexte|**Langue** commun, géant}
 {s:BDTexte|**Particularités** archer expert}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, groupe de chasse (2-9 plus 1-3 girallons) ou tribu (10-40 plus 35% de non-combattants, 1-3 druides ou ensorceleurs de niveau 2 à 5 ; 1 rôdeur ou barbare de niveau 3 à 7, et 2-8 girallons)}
-{s:BDTexte|**Trésor** standard (arc long composite de maître <nowiki>[</nowiki>For +8<nowiki>]</nowiki> et 40 flèches, autre trésor)}
+{s:BDTexte|**Trésor** standard (arc long composite de maître <nowiki>[[</nowiki>For +8<nowiki>]]</nowiki> et 40 flèches, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Archer expert (Sur).** Le géant de la jungle est expert dans le maniement de tous les arcs et ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md) lorsqu’il tire à l’arc en combat au corps à corps.}
-{s:BDTexte|**Stockage de sort (Sur).** Une fois par jour, par une [action immédiate](./Action immédiate.md), le géant de la jungle peut absorber un sort ciblé ou un sort de contact à distance lancé contre lui, annulant les effets contre sa personne mais pas contre les autres cibles. Il peut conserver ce pouvoir stocké pendant 1 minute, pendant laquelle ses tatouages brillent d’un feu bleuté. S’il blesse une cible en réussissant une attaque de corps à corps ou à distance, il peut lancer le sort sur la cible par une [action libre](./Action libre.md), comme s’il utilisait une *[arme de stockage de sort](./stockage de sort (propriété).md)*. Ce sort utilise le [niveau de lanceur de sorts](./NLS.md) et le [DD](./DD.md) du lanceur original. Cette capacité décharge le sort stocké.}
-{s:BDTexte|**Tatouages de protection (Sur).** Les tatouages magiques du géant de la jungle lui accordent un bonus de parade de +4 à la [classe d’armure](./CA.md). Le géant perd ce bonus s’il porte une armure.}
+{s:BDTexte|**Archer expert (Sur).** Le géant de la jungle est expert dans le maniement de tous les arcs et ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]] lorsqu’il tire à l’arc en combat au corps à corps.}
+{s:BDTexte|**Stockage de sort (Sur).** Une fois par jour, par une [[action immédiate]], le géant de la jungle peut absorber un sort ciblé ou un sort de contact à distance lancé contre lui, annulant les effets contre sa personne mais pas contre les autres cibles. Il peut conserver ce pouvoir stocké pendant 1 minute, pendant laquelle ses tatouages brillent d’un feu bleuté. S’il blesse une cible en réussissant une attaque de corps à corps ou à distance, il peut lancer le sort sur la cible par une [[action libre]], comme s’il utilisait une *[[stockage de sort (propriété)|arme de stockage de sort]]*. Ce sort utilise le [[NLS|niveau de lanceur de sorts]] et le [[DD]] du lanceur original. Cette capacité décharge le sort stocké.}
+{s:BDTexte|**Tatouages de protection (Sur).** Les tatouages magiques du géant de la jungle lui accordent un bonus de parade de +4 à la [[CA|classe d’armure]]. Le géant perd ce bonus s’il porte une armure.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -50,49 +50,49 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Géant de cendre](./Géant de cendre.md) || 11
+| [[Géant de cendre]] || 11
 |-
-| [Géant de la jungle](./Géant de la jungle.md) || 10
+| [[Géant de la jungle]] || 10
 |-
-| [Géant de la lune](./Géant de la lune.md) || 15
+| [[Géant de la lune]] || 15
 |-
-| [Géant de la taïga](./Géant de la taïga.md) || 12
+| [[Géant de la taïga]] || 12
 |-
-| [Géant de l'ombre](./Géant de lombre.md) || 13
+| [[Géant de lombre|Géant de l'ombre]] || 13
 |-
-| [Géant de pierre](./Géant de pierre.md) || 8
+| [[Géant de pierre]] || 8
 |-
-| [Géant des bois](./Géant des bois.md) || 6
+| [[Géant des bois]] || 6
 |-
-| [Géant des collines](./Géant des collines.md) || 7
+| [[Géant des collines]] || 7
 |-
-| [Géant des falaises](./Géant des falaises.md) || 9
+| [[Géant des falaises]] || 9
 |-
-| [Géant des grottes](./Géant des grottes.md) || 6
+| [[Géant des grottes]] || 6
 |-
-| [Géant des marais](./Géant des marais.md) || 8
+| [[Géant des marais]] || 8
 |-
-| [Géant des nuages](./Géant des nuages.md) || 11
+| [[Géant des nuages]] || 11
 |-
-| [Géant des océans](./Géant des océans.md) || 14
+| [[Géant des océans]] || 14
 |-
-| [Géant des rivières](./Géant des rivières.md) || 6
+| [[Géant des rivières]] || 6
 |-
-| [Géant des runes](./Géant des runes.md) || 17
+| [[Géant des runes]] || 17
 |-
-| [Géant des scories](./Géant des scories.md) || 7
+| [[Géant des scories]] || 7
 |-
-| [Géant des tempêtes](./Géant des tempêtes.md) || 13
+| [[Géant des tempêtes]] || 13
 |-
-| [Géant des éclipses](./Géant des éclipses.md) || 19
+| [[Géant des éclipses]] || 19
 |-
-| [Géant du désert](./Géant du désert.md) || 9
+| [[Géant du désert]] || 9
 |-
-| [Géant du feu](./Géant du feu.md) || 10
+| [[Géant du feu]] || 10
 |-
-| [Géant du froid](./Géant du froid.md) || 9
+| [[Géant du froid]] || 9
 |-
-| [Géant du soleil](./Géant du soleil.md) || 16
+| [[Géant du soleil]] || 16
 |}
 </div>*Cette femme imposante incrustée de plantes tend un arc énorme, et sa peau brune est ornée de nombreux tatouages complexes.*
 

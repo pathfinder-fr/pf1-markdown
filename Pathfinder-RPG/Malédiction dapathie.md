@@ -9,6 +9,6 @@ Categories:
 
 {s:MR}*La malédiction du halfelin rend la cible lente et maladroite.*
 
-**Conditions.** Trait [porte-poisse halfelin](./Halfelin.md#Traits_raciaux_alternatifs_7)
+**Conditions.** Trait [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]
 
-**Avantage.** Le malus de la malédiction du halfelin aux [jets de sauvegarde](./JDS.md) s’applique également aux [tests d’initiative](./initiative.md) et aux [jets d’attaque](./jet dattaque.md) de la cible.
+**Avantage.** Le malus de la malédiction du halfelin aux [[jds|jets de sauvegarde]] s’applique également aux [[initiative|tests d’initiative]] et aux [[jet dattaque|jets d’attaque]] de la cible.

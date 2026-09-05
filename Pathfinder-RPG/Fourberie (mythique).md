@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *L’impact des fourberies orchestrées par le personnage est incomparable.*
 
-**Condition.** [Fourberie](./Fourberie.md)
+**Condition.** [[Fourberie]]
 
-**Avantage.** Le bonus aux tests de [Bluff](./Bluff.md) et [Déguisement](./Déguisement.md) conféré par [Fourberie](./Fourberie.md) est augmenté de +2. De plus, le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour considérer qu’il a obtenu un 20 naturel à l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.
+**Avantage.** Le bonus aux tests de [[Bluff]] et [[Déguisement]] conféré par [[Fourberie]] est augmenté de +2. De plus, le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour considérer qu’il a obtenu un 20 naturel à l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.

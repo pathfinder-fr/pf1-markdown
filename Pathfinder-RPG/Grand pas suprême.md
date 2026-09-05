@@ -7,25 +7,25 @@ Categories:
 - Sort rôdeur 3
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 3, [Rôd](./Rôdeur.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (une pincée de terre)
-**Portée** [personnelle](./personnelle.md)
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 3, [[Rôdeur|Rôd]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (une pincée de terre)
+**Portée** [[personnelle]]
 **Cible** le lanceur de sorts
-**Durée** 1 heure/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 ---
-Ce sort fonctionne comme *[grand pas](./Grand pas.md)*, à la seule différence qu’il donne au personnage un bonus d’altération de +6 mètres à sa vitesse de base et un bonus d’altération de +3 mètres (2 {s:c}) à ses autres modes de déplacement (creusement, escalade, vol, nage, etc.). Ce sort n’affecte pas les modes de déplacement qu’il ne possède pas : par exemple, s’il n’a pas de vitesse de nage, ce sort ne lui en accorde pas.
+Ce sort fonctionne comme *[[grand pas]]*, à la seule différence qu’il donne au personnage un bonus d’altération de +6 mètres à sa vitesse de base et un bonus d’altération de +3 mètres (2 {s:c}) à ses autres modes de déplacement (creusement, escalade, vol, nage, etc.). Ce sort n’affecte pas les modes de déplacement qu’il ne possède pas : par exemple, s’il n’a pas de vitesse de nage, ce sort ne lui en accorde pas.
 
 
 
 (((
 ## Grand pas
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 1, [Rôd](./Rôdeur.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (une pincée de terre)
-**Portée** [personnelle](./personnelle.md)
+**École** [[Transmutation]] ; **Niveau** [[druide|Dru]] 1, [[rôdeur|Rôd]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (une pincée de terre)
+**Portée** [[personnelle]]
 **Cible** le lanceur de sorts
-**Durée** 1 heure/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 heure/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 ---
-Ce sort ajoute un [bonus d’altération](./bonus daltération.md) de +3 m (2 cases) à la [vitesse de déplacement](./vitesse de déplacement.md) de base du personnage. Il n’a aucun effet sur les autres modes de déplacement, comme le creusement, l’escalade, le vol ou la nage.
+Ce sort ajoute un [[bonus daltération|bonus d’altération]] de +3 m (2 cases) à la [[vitesse de déplacement]] de base du personnage. Il n’a aucun effet sur les autres modes de déplacement, comme le creusement, l’escalade, le vol ou la nage.
 )))

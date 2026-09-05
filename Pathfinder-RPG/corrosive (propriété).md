@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Corrosive
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Corrosive](./Descriptions individuelles des propriétés spéciales des armes.md#Corrosive)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Corrosive]]

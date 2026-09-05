@@ -14,16 +14,16 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[électricité](./Registre.md)<nowiki>]</nowiki> ; **Niveau **[Alch](./Alchimiste.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Occ](./Occultiste.md) 2, [San](./Sanguin.md) 2  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau **[[Alchimiste|Alch]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Sanguin|San]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, F, M](./composantes.md)(une sphère de métal creuse)  
+**Composantes** [[composantes|V, F, M]](une sphère de métal creuse)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md) ou jusqu’à déchargement
+**Durée** 1 minute/[[niveau]] ou jusqu’à déchargement
 
-Une énergie électrique magique inonde le personnage et envoie une décharge sur la prochaine créature qui le touche. Toute créature qui frappe le personnage avec une partie de son corps ou avec une arme tenue en main reçoit 1d6 points de dégâts d’électricité par tranche de deux [niveaux de lanceur de sorts](./NLS.md) (6d6 au maximum). Si l’attaquant a une [résistance à la magie](./résistance à la magie.md), il l’applique contre ces dégâts. À chaque fois que le sort envoie une décharge, le nombre de dés de dégâts est divisé par deux (arrondi à l’inférieur). Quand les dégâts du sort arrivent à 0, il se termine.
+Une énergie électrique magique inonde le personnage et envoie une décharge sur la prochaine créature qui le touche. Toute créature qui frappe le personnage avec une partie de son corps ou avec une arme tenue en main reçoit 1d6 points de dégâts d’électricité par tranche de deux [[NLS|niveaux de lanceur de sorts]] (6d6 au maximum). Si l’attaquant a une [[résistance à la magie]], il l’applique contre ces dégâts. À chaque fois que le sort envoie une décharge, le nombre de dés de dégâts est divisé par deux (arrondi à l’inférieur). Quand les dégâts du sort arrivent à 0, il se termine.

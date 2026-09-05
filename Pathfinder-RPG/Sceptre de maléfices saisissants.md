@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Sceptre de maléfices saisissants|{s:MCA}}
-**Aura** puissante, pas d'école ; **NLS** 17 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 11 000 po ; **Poids** 2,5 kg
+**Aura** puissante, pas d'école ; **NLS** 17 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 11 000 po ; **Poids** 2,5 kg
 (((Description)))
 Ce sceptre taillé dans une branche noueuse est couvert d’épines pointues. Trois fois par jour, quand le personnage qui manie ce sceptre utilise un maléfice (mais pas un maléfice majeur ni un grand maléfice), il peut utiliser le pouvoir du sceptre pour doubler la portée de son maléfice, à partir du moment où cette portée se mesure en mètres.
 (((Création)))
-**Conditions** [Création de sceptres magiques](./Création de sceptres magiques.md), [Sort éloigné](./Sort éloigné.md), le créature doit posséder la capacité de classe [maléfice](./Sorcière.md#MALEFICE) ; **Coût** 5 500 po
+**Conditions** [[Création de sceptres magiques]], [[Sort éloigné]], le créature doit posséder la capacité de classe [[sorcière#MALEFICE|maléfice]] ; **Coût** 5 500 po
 </div>

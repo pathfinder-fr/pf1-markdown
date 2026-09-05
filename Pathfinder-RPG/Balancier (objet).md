@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 8 pa ; **Poids** 6 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Cette perche souple peut mesurer de 4,50 à 9 mètres de long. Utilisée correctement, elle aide le personnage à garder l’équilibre lorsqu’il franchit des passages très étroits. Le balancier accorde un bonus de circonstances de +1 aux tests d’[Acrobaties](./Acrobaties.md) pour traverser une surface étroite.
+Cette perche souple peut mesurer de 4,50 à 9 mètres de long. Utilisée correctement, elle aide le personnage à garder l’équilibre lorsqu’il franchit des passages très étroits. Le balancier accorde un bonus de circonstances de +1 aux tests d’[[Acrobaties]] pour traverser une surface étroite.

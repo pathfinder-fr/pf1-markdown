@@ -5,4 +5,4 @@ LastModified: 2010-06-30 22:42
 RedirectTo: Pathfinder-RPG.Intelligence
 ---
 
->>> [Pathfinder-RPG.Intelligence](./Intelligence.md)
+>>> [[Pathfinder-RPG.Intelligence]]

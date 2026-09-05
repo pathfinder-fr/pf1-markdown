@@ -12,8 +12,8 @@ Categories:
 ### Pouvoirs accordés
 Les merveilles et les sombres secrets des plus profondes cavernes donnent de la force au personnage.
 
-**Vision cavernicole (Mag).** Le personnage peut accorder la [vision dans le noir](./vision dans le noir.md) sur 18 mètres (12 {s:c}) à une créature consentante qu’il touche. Cet effet dure 1 minute ou 1 heure si le druide l’utilise sur sa propre personne. Chaque jour, il peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+**Vision cavernicole (Mag).** Le personnage peut accorder la [[vision dans le noir]] sur 18 mètres (12 {s:c}) à une créature consentante qu’il touche. Cet effet dure 1 minute ou 1 heure si le druide l’utilise sur sa propre personne. Chaque jour, il peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [[Sagesse]].
 
-**Perception des vibrations (Ext).** Au niveau 6, le personnage gagne [perception des vibrations](./Perception des vibrations.md) sur 9 mètres (6 {s:c}). Au niveau 12, la portée de la [perception des vibrations](./Perception des vibrations.md) passe à 18 mètres (12 {s:c}).
+**Perception des vibrations (Ext).** Au niveau 6, le personnage gagne [[perception des vibrations]] sur 9 mètres (6 {s:c}). Au niveau 12, la portée de la [[perception des vibrations]] passe à 18 mètres (12 {s:c}).
 
-**Sorts de domaine.** 1er– *[détection des aberrations](./Détection des aberrations.md)*, 2e– *[appel des pierres](./Appel des pierres.md)*, 3e– *[ténèbres profondes](./Ténèbres profondes.md)*, 4e– *[écholocalisation](./Écholocalisation.md)*, 5e– *[mur de pierre](./Mur de pierre.md)*, 6e– *[convocation de pudding noir](./Convocation de pudding noir.md)*, 7e– *[statue](./Statue.md)* (ressemble à une stalagmite ou une stalactite), 8e– *[tremblement de terre](./Tremblement de terre.md)*, 9e– *[emprisonnement](./Emprisonnement.md)*
+**Sorts de domaine.** 1er– *[[détection des aberrations]]*, 2e– *[[appel des pierres]]*, 3e– *[[ténèbres profondes]]*, 4e– *[[écholocalisation]]*, 5e– *[[mur de pierre]]*, 6e– *[[convocation de pudding noir]]*, 7e– *[[statue]]* (ressemble à une stalagmite ou une stalactite), 8e– *[[tremblement de terre]]*, 9e– *[[emprisonnement]]*

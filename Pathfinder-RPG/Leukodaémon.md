@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2* p.78}
 {s:BDTexte|**PX** 6.400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, NM}
-{s:BDTexte|**Init** +11 ; **Sens** *[détection du Bien](./Détection du Bien.md)*, *[perception de la mort](./Perception de la mort.md)*, [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +22}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille G, NM}
+{s:BDTexte|**Init** +11 ; **Sens** *[[détection du Bien]]*, *[[perception de la mort]]*, [[vision dans le noir]] 18 m ; [[Perception]] +22}
 {s:BDTexte|**Aura** infectieuse (15 m (10 {s:c})}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 16, pris au dépourvu 16 (Dex +7, naturelle +7, taille –1)}
@@ -29,25 +29,25 @@ Categories:
 {s:BDTexte|**Distance** *arc long composite +1*, 18/+13 (2d6+8/×3 plus contagion)}
 {s:BDTexte|**Attaques spéciales** souffle de mouches}
 {s:BDTexte|**Pouvoirs magiques** (NLS 10 ; concentration +13)}
-{s:BDSorts|Constant — *[détection du Bien](./Détection du Bien.md)*, *[perception de la mort](./Perception de la mort.md)*}
-{s:BDSorts|À volonté — *[contagion](./Contagion.md)* (DD 17), *[dissipation de la magie](./Dissipation de la magie.md)*,  *[téléportation suprême](./Téléportation suprême.md)* (personnel et 25 kg d’objets uniquement)}
-{s:BDSorts|1/jour — [convocation](./Convocation (capacité).md) (niveau 3, 1 leukodaémon seulement, 35%), *[mise à mal](./Mise à mal.md)* (DD 19)}
+{s:BDSorts|Constant — *[[détection du Bien]]*, *[[perception de la mort]]*}
+{s:BDSorts|À volonté — *[[contagion]]* (DD 17), *[[dissipation de la magie]]*,  *[[téléportation suprême]]* (personnel et 25 kg d’objets uniquement)}
+{s:BDSorts|1/jour — [[convocation (capacité)|convocation]] (niveau 3, 1 leukodaémon seulement, 35%), *[[mise à mal]]* (DD 19)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 24, **Con** 23, **Int** 16, **Sag** 21, **Cha** 16}
 {s:BDTexte|**BBA** +10, **BMO** +18, **DMD** 35}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (arc long), [Science de l’initiative](./Science de linitiative.md), [Tir à bout portant](./Tir à bout portant.md) , [Vigilance](./Vigilance.md) , [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +16, [Discrétion](./Discrétion.md) +16, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +22, [Premiers secours](./Premiers secours.md) +18, [Psychologie](./Psychologie.md) +22, [Survie](./Survie.md) +15, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +16, [Vol](./Vol.md) +18}
-{s:BDTexte|**Langues** abyssal, draconique, infernal ; [télépathie](./Télépathie.md) 30 m}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (arc long), [[Science de linitiative|Science de l’initiative]], [[Tir à bout portant]] , [[Vigilance]] , [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +16, [[Discrétion]] +16, [[Intimidation]] +16, [[Perception]] +22, [[Premiers secours]] +18, [[Psychologie]] +22, [[Survie]] +15, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +16, [[Vol]] +18}
+{s:BDTexte|**Langues** abyssal, draconique, infernal ; [[télépathie]] 30 m}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abaddon)}
 {s:BDTexte|**Organisation sociale** solitaire ou procession (2–10)}
 {s:BDTexte|**Trésor** standard, arc long composite +1, autres trésors}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Aura infectieuse (Sur).** Toutes les créatures situées dans un rayon de 15 mètres autour du leukodaémon subissent un malus de –4 aux jets de Vigueur contre les maladies.}
-{s:BDTexte|**Contagion (Sur).** Toutes les flèches tirées à l’aide d’un arc par un leukodaémon sont infectées par une maladie. Si une créature est blessée par une telle flèche, elle doit réussir un jet de Vigueur contre un DD de 19 pour ne pas être affectée par un effet similaire à celui du sort de *[contagion](./Contagion.md)*. Un leukodaémon peut créer des flèches à volonté et ne tombe donc jamais à court de munition.}
-{s:BDTexte|**Souffle de mouches (Sur).** Par une action simple utilisable une fois par minute, un leukodaémon peut projeter un nuage de mouches noires agressives et bouffies sous la forme d’un cône de 6 mètres. Les créatures prises dans la zone subissent 8d6 points de dégâts de type tranchant. Un jet de Réflexes de DD 21 permet de diviser ces dégâts par deux. Les créatures blessées sont également [fiévreuses](./Fiévreux.md) pendant 1 minute. De plus, les mouches restent sur place pendant 1d4+1 rounds sous la forme d’un nuage bourdonnant occupant un cube de 6 mètres de côté et centré sur le point d’origine du cône. Toutes les créatures qui finissent leur tour dans ce nuage doivent réussir un jet de Réflexes de DD 21 pour ne pas subir 4d6 points de dégâts et de devenir [fiévreuses](./Fiévreux.md) pendant 1 minute. Ce nuage de mouches peut être dissipé par n’importe quel effet qui inflige des dégâts sur toute une zone ou qui crée des vents de force équivalente ou supérieure à des vents importants. Tous les [daémons](./Daémon.md) sont immunisés contre cet effet. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|**Contagion (Sur).** Toutes les flèches tirées à l’aide d’un arc par un leukodaémon sont infectées par une maladie. Si une créature est blessée par une telle flèche, elle doit réussir un jet de Vigueur contre un DD de 19 pour ne pas être affectée par un effet similaire à celui du sort de *[[contagion]]*. Un leukodaémon peut créer des flèches à volonté et ne tombe donc jamais à court de munition.}
+{s:BDTexte|**Souffle de mouches (Sur).** Par une action simple utilisable une fois par minute, un leukodaémon peut projeter un nuage de mouches noires agressives et bouffies sous la forme d’un cône de 6 mètres. Les créatures prises dans la zone subissent 8d6 points de dégâts de type tranchant. Un jet de Réflexes de DD 21 permet de diviser ces dégâts par deux. Les créatures blessées sont également [[fiévreux|fiévreuses]] pendant 1 minute. De plus, les mouches restent sur place pendant 1d4+1 rounds sous la forme d’un nuage bourdonnant occupant un cube de 6 mètres de côté et centré sur le point d’origine du cône. Toutes les créatures qui finissent leur tour dans ce nuage doivent réussir un jet de Réflexes de DD 21 pour ne pas subir 4d6 points de dégâts et de devenir [[fiévreux|fiévreuses]] pendant 1 minute. Ce nuage de mouches peut être dissipé par n’importe quel effet qui inflige des dégâts sur toute une zone ou qui crée des vents de force équivalente ou supérieure à des vents importants. Tous les [[daémon|daémons]] sont immunisés contre cet effet. Le DD du jet de sauvegarde dépend de la Constitution.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 *Cette créature humanoïde a un crâne de cheval à la place de la tête. Elle marche sur des sabots fendus et possède des ailes en décomposition comme celles d’un oiseau mort.*
 
 Les leukodaémons sont les diacres du

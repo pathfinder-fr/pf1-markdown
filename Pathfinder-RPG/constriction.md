@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Constriction (capacité)
 ---
 
->>> [Constriction (capacité)](./Constriction (capacité).md)
+>>> [[Constriction (capacité)]]

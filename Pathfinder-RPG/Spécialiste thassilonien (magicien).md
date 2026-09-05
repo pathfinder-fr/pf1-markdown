@@ -14,33 +14,33 @@ Un personnage doit décider s’il se spécialise dans une école de magie du p�
 
 **Avantages.** Un magicien spécialiste du péché obtient deux emplacements de sort supplémentaires pour chaque niveau de sort qu’il est capable de lancer. Ces deux emplacements supplémentaires doivent servir à préparer le même sort issu de l’école de spécialisation du magicien, ce qui lui permet de lancer ce sort deux fois (puisqu’il l’a préparé deux fois). Le magicien ne peut pas utiliser ces emplacements pour préparer deux sorts différents, même s’ils sont issus de l’école dans laquelle il s’est spécialisé.
 
-**Restrictions.** Un spécialiste du péché ne peut pas choisir ses écoles opposées. Les écoles opposées sont déjà déterminées lorsqu’il choisit sa spécialisation. Ces restrictions sont plus importantes que celles imposées à la majorité des magiciens. Voilà pourquoi elles portent le nom d’écoles interdites. Un spécialiste du péché ne peut jamais préparer un sort de l’une de ses écoles interdites. Il considère que ces sorts ne font pas partie de sa [liste de sorts de magicien](./Liste des sorts densorceleursmagiciens.md). S’il utilise un [objet magique à fin d’incantation](./Règles relatives aux objets magiques.md#OBJETAFINDINCANTATION) ou [à potentiel magique](./Règles relatives aux objets magiques.md#OBJETAPOTENTIELMAGIQUE) pour lancer un sort de l’une de ses écoles interdites, il doit utiliser la compétence [Utilisation des objets magiques](./UOM.md) pour y parvenir.
+**Restrictions.** Un spécialiste du péché ne peut pas choisir ses écoles opposées. Les écoles opposées sont déjà déterminées lorsqu’il choisit sa spécialisation. Ces restrictions sont plus importantes que celles imposées à la majorité des magiciens. Voilà pourquoi elles portent le nom d’écoles interdites. Un spécialiste du péché ne peut jamais préparer un sort de l’une de ses écoles interdites. Il considère que ces sorts ne font pas partie de sa [[Liste des sorts densorceleursmagiciens|liste de sorts de magicien]]. S’il utilise un [[Règles relatives aux objets magiques#OBJETAFINDINCANTATION|objet magique à fin d’incantation]] ou [[Règles relatives aux objets magiques#OBJETAPOTENTIELMAGIQUE|à potentiel magique]] pour lancer un sort de l’une de ses écoles interdites, il doit utiliser la compétence [[UOM|Utilisation des objets magiques]] pour y parvenir.
 
 #### Magie du péché
 <div style="float: right; margin-left: 10px; margin-right: -10px; max-width: 240px;" class="presentation recentre">
 ##### Les champs d'étude magiques
-De par leur obsession pour la magie du péché, il a été [précisé par le développeur de Pathfinder](https://paizo.com/threads/rzs2r7ua?Thassilonian-Specialist-and-Focused-Arcane#8) que les spécialistes du péché ne peuvent pas choisir les champs d'étude magiques introduits dans le *[Manuel des Joueurs - Règles avancées](./Manuel des joueurs - Règles avancées (Contenu).md)* lorsqu'ils sélectionnent leur école de spécialisation.
+De par leur obsession pour la magie du péché, il a été [précisé par le développeur de Pathfinder](https://paizo.com/threads/rzs2r7ua?Thassilonian-Specialist-and-Focused-Arcane#8) que les spécialistes du péché ne peuvent pas choisir les champs d'étude magiques introduits dans le *[[Manuel des Joueurs - Règles avancées (Contenu)|Manuel des Joueurs - Règles avancées]]* lorsqu'ils sélectionnent leur école de spécialisation.
 
-</div>Le concept de spécialisation des magiciens ainsi que les très classiques [écoles de magie](./Écoles de magie.md) largement reconnues datent certainement de l’ère des premiers hommes et trouvent peut-être leurs origines dans les sombres replis du temps, avant que l’humanité n’occupe une place de premier plan. Toutefois, ce sont les seigneurs de l'Empire du péché qui ont poussé à l’extrême le concept de spécialisation magique.
+</div>Le concept de spécialisation des magiciens ainsi que les très classiques [[Écoles de magie]] largement reconnues datent certainement de l’ère des premiers hommes et trouvent peut-être leurs origines dans les sombres replis du temps, avant que l’humanité n’occupe une place de premier plan. Toutefois, ce sont les seigneurs de l'Empire du péché qui ont poussé à l’extrême le concept de spécialisation magique.
 
 Les seigneurs du péché ont découvert que chaque école de magie était opposée à deux autres écoles, ils se sont concentrés sur cette découverte pour développer des méthodes qui leur permettaient d’approfondir la maîtrise de leur spécialité. Ils ont défini ces sept écoles surtout en fonction des choses que chacune d’elles pouvait permettre ou non. En excisant les «  impuretés  », comme le concept d’écoles opposées et fixes, ils ont cédé leur polyvalence magique contre une plus grande maîtrise de leur domaine de prédilection. Les sept écoles de la magie du péché sont présentées ici.
-- **Envie ([Abjuration](./Abjuration.md)).** L’art de réprimer la magie d’autrui.
-*Écoles interdites.* [évocation](./Évocation.md), [nécromancie](./Nécromancie.md).
+- **Envie ([[Abjuration]]).** L’art de réprimer la magie d’autrui.
+*Écoles interdites.* [[évocation]], [[nécromancie]].
 
-- **Gourmandise ([Nécromancie](./Nécromancie.md)).** La magie qui manipule les corps physiques pour soulager une inextinguible faim de vivre.
-*Écoles interdites.* [abjuration](./Abjuration.md), [enchantement](./Enchantement.md).
+- **Gourmandise ([[Nécromancie]]).** La magie qui manipule les corps physiques pour soulager une inextinguible faim de vivre.
+*Écoles interdites.* [[abjuration]], [[enchantement]].
 
-- **Avarice ([Transmutation](./Transmutation.md)).** La transformation magique des choses en objets d’une valeur ou d’une utilité supérieure et amélioration physique de la personne qui pratique cette magie.
-*Écoles interdites.* [enchantement](./Enchantement.md), [illusion](./Illusion.md).
+- **Avarice ([[Transmutation]]).** La transformation magique des choses en objets d’une valeur ou d’une utilité supérieure et amélioration physique de la personne qui pratique cette magie.
+*Écoles interdites.* [[enchantement]], [[illusion]].
 
-- **Luxure ([Enchantement](./Enchantement.md)).** Le contrôle et la domination d’autrui pour satisfaire les désirs de celui qui pratique cette magie. Manipulation de l’esprit, des émotions et de la volonté d’autrui.
-*Écoles interdites.* [nécromancie](./Nécromancie.md), [transmutation](./Transmutation.md).
+- **Luxure ([[Enchantement]]).** Le contrôle et la domination d’autrui pour satisfaire les désirs de celui qui pratique cette magie. Manipulation de l’esprit, des émotions et de la volonté d’autrui.
+*Écoles interdites.* [[nécromancie]], [[transmutation]].
 
-- **Orgueil ([Illusion](./Illusion.md)).** La perfection de l’apparence du lanceur de sorts et la domination par le biais de la tromperie et des illusions.
-*Écoles interdites.* [invocation](./Invocation.md), [transmutation](./Transmutation.md).
+- **Orgueil ([[Illusion]]).** La perfection de l’apparence du lanceur de sorts et la domination par le biais de la tromperie et des illusions.
+*Écoles interdites.* [[invocation]], [[transmutation]].
 
-- **Paresse ([Invocation](./Invocation.md)).** La convocation d’agents et de séides pour qu’ils appliquent les volontés du mage ou la création de ce dont a besoin le mage quand l’envie s’en fait sentir.
-*Écoles interdites.* [évocation](./Évocation.md), [illusion](./Illusion.md).
+- **Paresse ([[Invocation]]).** La convocation d’agents et de séides pour qu’ils appliquent les volontés du mage ou la création de ce dont a besoin le mage quand l’envie s’en fait sentir.
+*Écoles interdites.* [[évocation]], [[illusion]].
 
-- **Colère ([Évocation](./Évocation.md)).** La maîtrise du pouvoir de destruction brut de la magie et la canalisation de ces forces dévastatrices.
-*Écoles interdites.* [abjuration](./Abjuration.md), [invocation](./Invocation.md).
+- **Colère ([[Évocation]]).** La maîtrise du pouvoir de destruction brut de la magie et la canalisation de ces forces dévastatrices.
+*Écoles interdites.* [[abjuration]], [[invocation]].

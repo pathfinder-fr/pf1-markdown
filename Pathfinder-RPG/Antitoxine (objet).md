@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
 ---
-Cette substance annule l’effet d’une toxine spécifique. Si le personnage boit une fiole d’antitoxine, il gagne un bonus alchimique de +5 à ses jets de [Vigueur](./Vigueur.md) contre les [poisons](./Poisons.md) pendant 1 heure.
+Cette substance annule l’effet d’une toxine spécifique. Si le personnage boit une fiole d’antitoxine, il gagne un bonus alchimique de +5 à ses jets de [[Vigueur]] contre les [[poisons]] pendant 1 heure.

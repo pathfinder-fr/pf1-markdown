@@ -7,4 +7,4 @@ Categories:
 - Géographie
 ---
 
-Situé en plein coeur du [Brévoy](./Brévoy.md), c'est sur sa rive sud que Choral le Conquérant a installé son campement à son arrivée et fondé [Nouvelle-Stetven](./Nouvelle-Stetven.md), future capitale de la nation réunissant l'[Issie](./Issie.md) et le [Rostland](./Rostland.md).
+Situé en plein coeur du [[Brévoy]], c'est sur sa rive sud que Choral le Conquérant a installé son campement à son arrivée et fondé [[Nouvelle-Stetven]], future capitale de la nation réunissant l'[[Issie]] et le [[Rostland]].

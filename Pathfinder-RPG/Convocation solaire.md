@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Les créatures que le personnage convoque brillent du pouvoir du soleil. *
 
-**Conditions.** [École renforcée](./École renforcée.md) ([convocation](./Présentation des sorts.md#CONVOCATION)), capacité à lancer *[convocation d'alliés naturels](./Convocation dalliés naturels I.md)*
+**Conditions.** [[École renforcée]] ([[Présentation des sorts#CONVOCATION|convocation]]), capacité à lancer *[[convocation dalliés naturels I|convocation d'alliés naturels]]*
 
-**Avantage.** Les créatures convoquées par le personnage émettent autant de lumière qu’un sort de *[lumière](./Lumière.md)*. Elles sont immunisées contre les effets d’[aveuglement](./Aveuglé.md) et d’[éblouissement](./Ébloui.md) et leurs armes naturelles sont considérées comme magiques quand il s’agit de vaincre la [réduction de dégâts](./RD.md).
+**Avantage.** Les créatures convoquées par le personnage émettent autant de lumière qu’un sort de *[[lumière]]*. Elles sont immunisées contre les effets d’[[aveuglé|aveuglement]] et d’[[ébloui|éblouissement]] et leurs armes naturelles sont considérées comme magiques quand il s’agit de vaincre la [[RD|réduction de dégâts]].

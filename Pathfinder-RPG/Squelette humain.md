@@ -13,20 +13,20 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.264}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, NM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, NM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 14 (armure +2, Dex +2, naturelle +2)}
 {s:BDTexte|**pv** 4 (1d8)}
 {s:BDTexte|**Réf** +2, **Vig** +0, **Vol** +2}
-{s:BDTexte|**Immunités** froid, [traits des morts-vivants](./Traits des morts-vivants.md) ; **RD** 5/contondant }
+{s:BDTexte|**Immunités** froid, [[traits des morts-vivants]] ; **RD** 5/contondant }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** cimeterre brisé +0 (1d6), griffe -3 (1d4+1) ou 2 griffes +2 (1d4+2)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 14, **Con** -, **Int** -, **Sag** 10, **Cha** 10}
 {s:BDTexte|**BBA** +0, **BMO** +2, **DMD** 14}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md)<sup>B</sup>}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]]<sup>B</sup>}
 {s:BDTexte|**Equipement de combat** chemise de mailles brisée, cimeterre brisé}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
@@ -40,11 +40,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Champion squelette](./Champion squelette.md) || 2
+| [[Champion squelette]] || 2
 |-
-| [Squelette humain](./Squelette humain.md) || 1/3
+| [[Squelette humain]] || 1/3
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Squelette](./Squelette, archétype.md).***</li></ul>''Le tas d’os s’agite soudainement, se lève et prend une apparence humaine.
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Squelette, archétype|Squelette]].***</li></ul>''Le tas d’os s’agite soudainement, se lève et prend une apparence humaine.
 Il tend ses longs doigts osseux pour griffer les vivants.''
 
 Une fois animés, les os des morts deviennent des squelettes,

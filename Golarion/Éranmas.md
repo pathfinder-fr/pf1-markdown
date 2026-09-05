@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Située au bord du lac d'[Encarthan](./Encarthan.md), la cité d'Éranmas est la seconde ville du [Molthune](./Molthune.md) par le nombre d'habitants. Il s'agit aussi du principal port du pays.
+Située au bord du lac d'[[Encarthan]], la cité d'Éranmas est la seconde ville du [[Molthune]] par le nombre d'habitants. Il s'agit aussi du principal port du pays.

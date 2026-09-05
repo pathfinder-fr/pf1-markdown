@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 1 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 15
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Ce bout de papier permet d’identifier les liquides. Sa couleur change en fonction de caractéristiques basiques telles que l’acidité, la salinité ou la magie. Il confère un bonus alchimique de +2 à tout test d’[Artisanat](./Artisanat.md) (alchimie) ou d’[Art de la magie](./Art de la magie.md) pour identifier des [potions](./Potions magiques.md) ou autres liquides.
+Ce bout de papier permet d’identifier les liquides. Sa couleur change en fonction de caractéristiques basiques telles que l’acidité, la salinité ou la magie. Il confère un bonus alchimique de +2 à tout test d’[[Artisanat]] (alchimie) ou d’[[Art de la magie]] pour identifier des [[Potions magiques|potions]] ou autres liquides.

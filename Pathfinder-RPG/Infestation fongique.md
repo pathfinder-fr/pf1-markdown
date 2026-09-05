@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[maladie](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 3  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|maladie]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
 **Durée** 1d3 jours  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-Le personnage enduit la cible d’un champignon nécrotique qui ramollit et fragilise sa chair. Des champignons vénéneux, des mycoses et d’autres protubérances fongiques poussent sur sa peau. La cible reçoit 1d3 points d’affaiblissement de [Charisme](./Charisme.md). Toute attaque physique contre la cible lui inflige automatiquement 1d6 points de dégâts de saignement.
+Le personnage enduit la cible d’un champignon nécrotique qui ramollit et fragilise sa chair. Des champignons vénéneux, des mycoses et d’autres protubérances fongiques poussent sur sa peau. La cible reçoit 1d3 points d’affaiblissement de [[Charisme]]. Toute attaque physique contre la cible lui inflige automatiquement 1d6 points de dégâts de saignement.

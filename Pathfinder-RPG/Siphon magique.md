@@ -10,16 +10,16 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Prê](./Prêtre.md) 5, [Sor](./Sorcière.md) 5
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (du fil de cuivre enroulé autour de la paume)
+{s:MMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Sorcière|Sor]] 5
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (du fil de cuivre enroulé autour de la paume)
 **Portée** contact
 **Cible** créature touchée
 **Durée** instantanée
-**Jet de sauvegarde** [aucun](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Présentation des sorts#JETSDESAUVEGARDE|aucun]] ; **Résistance à la magie** non
 
-Ce sort permet de transférer un effet magique depuis la créature touchée jusqu’au personnage. Quand le personnage touche une créature, le *siphon magique* tente de mettre fin à un sort en cours d’effet lancé sur la cible, comme le fait une *[dissipation de la magie](./Dissipation de la magie.md)*.
+Ce sort permet de transférer un effet magique depuis la créature touchée jusqu’au personnage. Quand le personnage touche une créature, le *siphon magique* tente de mettre fin à un sort en cours d’effet lancé sur la cible, comme le fait une *[[dissipation de la magie]]*.
 
-Si le personnage connaît l’effet précis du sort qu’il souhaite cibler, il peut le nommer afin de le prendre pour cible ; sinon, le *siphon magique* commence par l’effet de sort de plus haut niveau puis par ordre décroissant de niveau de tous les sorts qui affectent la cible, jusqu’à ce qu’il dissipe un sort ou qu’il ait échoué pour chacun d’eux, comme pour une *[dissipation de la magie](./Dissipation de la magie.md)*.
+Si le personnage connaît l’effet précis du sort qu’il souhaite cibler, il peut le nommer afin de le prendre pour cible ; sinon, le *siphon magique* commence par l’effet de sort de plus haut niveau puis par ordre décroissant de niveau de tous les sorts qui affectent la cible, jusqu’à ce qu’il dissipe un sort ou qu’il ait échoué pour chacun d’eux, comme pour une *[[dissipation de la magie]]*.
 
-Si le *siphon magique* parvient à mettre fin à un effet de sort sur la cible, cet effet est transféré sur le personnage jusqu’à la fin de sa durée restante. Le sort transféré continue de produire ses effets jusqu’à la fin de cette durée, en considérant que le personnage était la cible première du sort. Si le sort autorise un [jet de sauvegarde](./JDS.md) pour y résister, le personnage peut effectuer ce jet comme si le sort venait d’être lancé sur lui, mais ceci ne « réinitialise » pas pour autant la durée du sort.
+Si le *siphon magique* parvient à mettre fin à un effet de sort sur la cible, cet effet est transféré sur le personnage jusqu’à la fin de sa durée restante. Le sort transféré continue de produire ses effets jusqu’à la fin de cette durée, en considérant que le personnage était la cible première du sort. Si le sort autorise un [[jds|jet de sauvegarde]] pour y résister, le personnage peut effectuer ce jet comme si le sort venait d’être lancé sur lui, mais ceci ne « réinitialise » pas pour autant la durée du sort.

@@ -7,11 +7,11 @@ Categories:
 - Organisation
 ---
 
-{s:Organisation|Les Esclaves des Wyrms|Wyrmslaves|-|-|Pics audacieux au [Katapesh](./Katapesh.md)|Lazzairhage|Gnolls|Tribu gnoll|Locale|-}Les Esclaves des Wyrms constituent l'une des plus petites tribus gnolls au service du Roi Charognard. La tribu ne compte que 18 membres et est dirigée par le Lazzairhage, un puissant et gros béhir. Les gnolls de la tribu étaient auparavant connus sous le nom de Al'Drogat, mais leur tribu fut presque complètement éradiquée par le béhir qui les dirige maintenant.
+{s:Organisation|Les Esclaves des Wyrms|Wyrmslaves|-|-|Pics audacieux au [[Katapesh]]|Lazzairhage|Gnolls|Tribu gnoll|Locale|-}Les Esclaves des Wyrms constituent l'une des plus petites tribus gnolls au service du Roi Charognard. La tribu ne compte que 18 membres et est dirigée par le Lazzairhage, un puissant et gros béhir. Les gnolls de la tribu étaient auparavant connus sous le nom de Al'Drogat, mais leur tribu fut presque complètement éradiquée par le béhir qui les dirige maintenant.
 
 Bien que Lazzairhage est le membre le plus puissant de la tribu, il est lent d'esprit. Bien que considérant les gnolls comme ses servants, les plus intelligents d'entre eux l'ont convaincu de rejoindre les armées toujours plus nombreuses du Roi Charognard.
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur les Escalves des Wyrms dans le supplément
-- [Le hurlement du Roi Charognard](./../Aventures/Présentation AP4.md#AP4-1), premier volume de la campagne [L'Héritage de Feu](./../Aventures/Présentation AP4.md)
+- [[Aventures.Présentation AP4#AP4-1|Le hurlement du Roi Charognard]], premier volume de la campagne [[Aventures.Présentation AP4|L'Héritage de Feu]]
 {s:VoirAussiAprès}

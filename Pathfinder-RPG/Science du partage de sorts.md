@@ -11,8 +11,8 @@ Categories:
 
 {s:mca} *Le lien que le personnage entretient avec son compagnon lui permet de partager sa magie avec lui.*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** Capacité d’obtenir un [compagnon animal](./Compagnons animaux.md), un [eidolon](./eidolon.md), un [familier](./Familiers.md) ou une monture spéciale.
+**Conditions.** Capacité d’obtenir un [[compagnons animaux|compagnon animal]], un [[eidolon]], un [[familiers|familier]] ou une monture spéciale.
 
-**Avantage.** Quand le personnage est adjacent à son compagnon animal ou partage la même case que lui, et que ce compagnon possède ce don, le personnage peut lancer un sort sur lui-même et en répartir la durée de manière égale entre lui et son compagnon. Il ne peut utiliser ce don que sur les sorts ayant une durée minimale de 2 rounds. Par exemple, il pourrait lancer [force de taureau](./Force de taureau.md) sur lui-même et, plutôt que de durer 1 minute par niveau pour le lanceur, le sort dure 5 rounds par niveau pour le lanceur et 5 rounds par niveau pour son compagnon. Une fois le sort lancé, le personnage et le compagnon animal peuvent s’éloigner sans mettre un terme à l’effet.
+**Avantage.** Quand le personnage est adjacent à son compagnon animal ou partage la même case que lui, et que ce compagnon possède ce don, le personnage peut lancer un sort sur lui-même et en répartir la durée de manière égale entre lui et son compagnon. Il ne peut utiliser ce don que sur les sorts ayant une durée minimale de 2 rounds. Par exemple, il pourrait lancer [[force de taureau]] sur lui-même et, plutôt que de durer 1 minute par niveau pour le lanceur, le sort dure 5 rounds par niveau pour le lanceur et 5 rounds par niveau pour son compagnon. Une fois le sort lancé, le personnage et le compagnon animal peuvent s’éloigner sans mettre un terme à l’effet.

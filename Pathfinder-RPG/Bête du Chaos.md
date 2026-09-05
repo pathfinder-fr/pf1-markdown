@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 - *Source : Bestiaire 2 page 50*
 - **PX** 3200
-- [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, CN
-- **Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +13 
+- [[type Extérieur|Extérieur]] ([[sous-type chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]]) de taille M, CN
+- **Init** +6 ; **Sens** [[vision dans le noir]] 18 m ; [[Perception]] +13 
 (((Défense)))
 - **CA** 20, contact 13, pris au dépourvu 17 (Dex +2, esquive +1, naturelle +7)
 - **pv** 85 (9d10+36)
@@ -26,9 +26,9 @@ Categories:
 (((Caractéristiques)))
 - **For** 17, **Dex** 15, **Con** 16, **Int** 10, **Sag** 12, **Cha** 11
 - **BBA** +9 ; **BMO** +12 ; **DMD** 25 (croc-en-jambe impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Esquive](./Esquive.md), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +14 (+10 pour sauter), [Discrétion](./Discrétion.md) +14,
-[Escalade](./Escalade.md) +15, [Évasion](./Évasion.md) +14, [Natation](./Natation.md) +15, [Perception](./Perception.md) +13
+- **Dons** [[Arme de prédilection]] (griffe), [[Esquive]], [[Robustesse]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]]
+- **Compétences** [[Acrobaties]] +14 (+10 pour sauter), [[Discrétion]] +14,
+[[Escalade]] +15, [[Évasion]] +14, [[Natation]] +15, [[Perception]] +13
 (((Écologie)))
 - **Environnement** tous
 - **Organisation sociale** solitaire ou invasion (2-5)

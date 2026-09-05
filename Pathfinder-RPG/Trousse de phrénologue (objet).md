@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AO}**Prix** 50 po ; **Poids** 2,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Ce sac de médecin en cuir contient tout l’attirail utilisé par un phrénologue pour mesurer les crânes. Cette trousse comprend plusieurs compas métalliques de tailles diverses pour mesurer les crânes, un crâne humanoïde sculpté dans le calcaire sur lequel sont gravés les noms des différentes zones crâniennes et les références chiffrées des crânes de diverses espèces rassemblées sous formes de tables. Cette trousse confère un bonus de circonstances de +2 aux tests de [Connaissances](./Connaissances.md) (mystères) effectués en utilisant l’extension de compétence occulte [phrénologie](./Extensions de compétences occultes.md#PHRÉNOLOGIE).
+Ce sac de médecin en cuir contient tout l’attirail utilisé par un phrénologue pour mesurer les crânes. Cette trousse comprend plusieurs compas métalliques de tailles diverses pour mesurer les crânes, un crâne humanoïde sculpté dans le calcaire sur lequel sont gravés les noms des différentes zones crâniennes et les références chiffrées des crânes de diverses espèces rassemblées sous formes de tables. Cette trousse confère un bonus de circonstances de +2 aux tests de [[Connaissances]] (mystères) effectués en utilisant l’extension de compétence occulte [[Extensions de compétences occultes#PHRÉNOLOGIE|phrénologie]].

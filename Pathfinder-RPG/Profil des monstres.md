@@ -11,7 +11,7 @@ Tous les monstres se présentent sous le même format, divisé en trois parties:
 ### Introduction
 Les monstres sont classés par ordre alphabétique. Si un monstre appartient à un groupe partageant des caractéristiques similaires (comme certaines races d’extérieurs, d’animaux ou de vermine), on indique d’abord le nom général du monstre.
 
-Voir aussi les [familles de monstres](./Familles de monstres.md).
+Voir aussi les [[Familles de monstres]].
 
 ### Profil
 <div style="float: right; margin-left: 10px; margin-right: -10px; max-width: 300px;" class="presentation recentre">
@@ -20,19 +20,19 @@ Tous les monstres de ce volume sont présentés avec trois icônes qui vous aide
 
 <table width="100%"><tr><td width="51%">
 **Type de créature**
-<img title="Aberration" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Aberration.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Aberration](./type Aberration.md)
-<img title="Animal" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Animal](./type Animal.md)
-<img title="Créature artificielle" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Créature artificielle.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Créature artificielle](./type Créature artificielle.md)
-<img title="Créature magique" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Créature magique.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Créature magique](./type Créature magique.md)
-<img title="Dragon" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Dragon.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Dragon](./type Dragon.md)
-<img title="Extérieur" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Extérieur.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Extérieur](./type Extérieur.md)
-<img title="Fée" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Fée.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Fée](./type Fée.md)
-<img title="Humanoïde" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Humanoïde.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Humanoïde](./type Humanoïde.md)
-<img title="Humanoïde monstrueux" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Humanoïde monstrueux.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Hum. monstrueux](./type Humanoïde monstrueux.md)
-<img title="Mort-vivant" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Mort-vivant.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Mort-vivant](./type Mort-vivant.md)
-<img title="Plante" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Plante.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Plante](./type Plante.md)
-<img title="Vase" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Vase.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Vase](./type Vase.md)
-<img title="Vermine" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Vermine.png" style="opacity:1; height:35px; position:relative; top:8px"/> [Vermine](./type Vermine.md)
+<img title="Aberration" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Aberration.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Aberration|Aberration]]
+<img title="Animal" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Animal.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Animal|Animal]]
+<img title="Créature artificielle" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Créature artificielle.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Créature artificielle|Créature artificielle]]
+<img title="Créature magique" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Créature magique.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Créature magique|Créature magique]]
+<img title="Dragon" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Dragon.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Dragon|Dragon]]
+<img title="Extérieur" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Extérieur.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Extérieur|Extérieur]]
+<img title="Fée" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Fée.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Fée|Fée]]
+<img title="Humanoïde" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Humanoïde.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Humanoïde|Humanoïde]]
+<img title="Humanoïde monstrueux" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Humanoïde monstrueux.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Humanoïde monstrueux|Hum. monstrueux]]
+<img title="Mort-vivant" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Mort-vivant.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Mort-vivant|Mort-vivant]]
+<img title="Plante" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Plante.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Plante|Plante]]
+<img title="Vase" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Vase.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Vase|Vase]]
+<img title="Vermine" class="opachover" src="/Wiki/public/Upload/Projets/Puces pour monstres/Vermine.png" style="opacity:1; height:35px; position:relative; top:8px"/> [[type Vermine|Vermine]]
 </td><td width="2%">
 </td><td width="47%">
 **Terrain**
@@ -57,53 +57,53 @@ Tous les monstres de ce volume sont présentés avec trois icônes qui vous aide
 
 </div>C’est dans cette partie que vous trouverez toutes les informations dont vous avez besoin pour jouer le monstre lors d’une rencontre. Voici comment s’organise un profil (sachant que, s’il n’y a pas de valeur associée à une ligne donnée, nous omettons cette ligne).
 
-**Nom et FP.** Le nom du monstre est indiqué en premier, suivi de son facteur de puissance (FP) et de trois icônes permettant d’identifier rapidement le rôle de la créature en jeu. Le facteur de puissance est une indication numérique du degré de dangerosité du monstre : plus ce nombre est élevé, plus la créature est dangereuse. Le facteur de puissance est détaillé [Rencontres|ici]]. Certains monstres sont dotés d’un rang mythique (RMy) indiqué à la suite de leur FP. Ce rang est une indication du pouvoir mythique global de la créature (voir [ici](./Monstres mythiques.md)). Il modifie le FP global de la créature. Le cas échéant, le FP et les PX de la créature ont été modifiés en conséquence. Si vous n’utilisez pas Campagnes mythiques, vous pouvez toujours utiliser la créature d’après le FP indiqué.
+**Nom et FP.** Le nom du monstre est indiqué en premier, suivi de son facteur de puissance (FP) et de trois icônes permettant d’identifier rapidement le rôle de la créature en jeu. Le facteur de puissance est une indication numérique du degré de dangerosité du monstre : plus ce nombre est élevé, plus la créature est dangereuse. Le facteur de puissance est détaillé [Rencontres|ici]]. Certains monstres sont dotés d’un rang mythique (RMy) indiqué à la suite de leur FP. Ce rang est une indication du pouvoir mythique global de la créature (voir [[Monstres mythiques|ici]]). Il modifie le FP global de la créature. Le cas échéant, le FP et les PX de la créature ont été modifiés en conséquence. Si vous n’utilisez pas Campagnes mythiques, vous pouvez toujours utiliser la créature d’après le FP indiqué.
 
-**PX.** Indique le nombre total de [points d’expérience](./Rencontres.md#L’expérience_1) gagnés par les PJ lorsqu’ils triomphent du monstre.
+**PX.** Indique le nombre total de [[Rencontres#L’expérience_1|points d’expérience]] gagnés par les PJ lorsqu’ils triomphent du monstre.
 
-**Race, classe et niveau.** Certains monstres n’ont pas de [dés de vie raciaux](./../Ressources/DV.md), ils se définissent par leurs niveaux de classe. La race, la classe et le niveau de ces monstres apparaissent ici. Sauf indication contraire, la première classe indiquée est aussi la [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION) du monstre.
+**Race, classe et niveau.** Certains monstres n’ont pas de [[DV|dés de vie raciaux]], ils se définissent par leurs niveaux de classe. La race, la classe et le niveau de ces monstres apparaissent ici. Sauf indication contraire, la première classe indiquée est aussi la [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]] du monstre.
 
-**Alignement, taille et type.** Si la taille et le [type](./Types de créatures.md) du monstre sont des informations figées (en dehors des modifications apportées par un archétype ou d’autres facteurs inhabituels), l’alignement est quelque chose de beaucoup plus variable. Les alignements indiqués pour les monstres correspondent à la norme de leur espèce : ils peuvent varier comme vous le voulez en fonction des besoins de votre campagne. En général, l’alignement indiqué reste figé uniquement pour les monstres relativement dépourvus d’intelligence (les créatures ayant une valeur d’[Intelligence](./Intelligence.md) égale ou inférieure à 2 sont presque toujours Neutres) et pour les [monstres d’outreplan](./type Extérieur.md) (les extérieurs dont l’alignement diffère de celui présenté sont rares et souvent rejetés par leur propre espèce).
+**Alignement, taille et type.** Si la taille et le [[Types de créatures|type]] du monstre sont des informations figées (en dehors des modifications apportées par un archétype ou d’autres facteurs inhabituels), l’alignement est quelque chose de beaucoup plus variable. Les alignements indiqués pour les monstres correspondent à la norme de leur espèce : ils peuvent varier comme vous le voulez en fonction des besoins de votre campagne. En général, l’alignement indiqué reste figé uniquement pour les monstres relativement dépourvus d’intelligence (les créatures ayant une valeur d’[[Intelligence]] égale ou inférieure à 2 sont presque toujours Neutres) et pour les [[type Extérieur|monstres d’outreplan]] (les extérieurs dont l’alignement diffère de celui présenté sont rares et souvent rejetés par leur propre espèce).
 
-**Init et Sens.** Indique le modificateur d’[initiative](./initiative.md) de la créature, suivi de tous ses sens spéciaux et de son modificateur au test de [Perception](./Perception.md). Si une créature possède un « M » en exposant après son modificateur d’initiative, cela veut dire qu’elle dispose de la version mythique du don [Science de l’initiative](./Science de linitiative.md) et qu’elle peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour faire comme si elle avait obtenu un 20 naturel au test d’initiative.
+**Init et Sens.** Indique le modificateur d’[[initiative]] de la créature, suivi de tous ses sens spéciaux et de son modificateur au test de [[Perception]]. Si une créature possède un « M » en exposant après son modificateur d’initiative, cela veut dire qu’elle dispose de la version mythique du don [[Science de linitiative|Science de l’initiative]] et qu’elle peut dépenser une utilisation de [[pouvoir mythique]] pour faire comme si elle avait obtenu un 20 naturel au test d’initiative.
 
-**Aura.** Si la créature possède une aura exceptionnelle ou magique, elle sera indiquée ici, avec son rayon d’action (centré sur la créature) et, le cas échéant, le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) pour résister à ses effets.
+**Aura.** Si la créature possède une aura exceptionnelle ou magique, elle sera indiquée ici, avec son rayon d’action (centré sur la créature) et, le cas échéant, le [[DD]] du [[jds|jet de sauvegarde]] pour résister à ses effets.
 
-**CA.** Indique la [classe d’armure](./CA.md) de base, au contact et pris au dépourvu de la créature. Les modificateurs permettant de calculer la CA sont indiqués entre parenthèses en fin de ligne.
+**CA.** Indique la [[CA|classe d’armure]] de base, au contact et pris au dépourvu de la créature. Les modificateurs permettant de calculer la CA sont indiqués entre parenthèses en fin de ligne.
 
-**pv.** Indique les [points de vie](./pv.md) de la créature, suivis de ses [dés de vie](./../Ressources/DV.md) (incluant les modificateurs liés à la [Constitution](./Constitution.md), aux niveaux de classe de prédilection et au don [Robustesse](./Robustesse.md)). Les créatures ayant des niveaux de classe de PJ reçoivent le maximum de points de vie sur leur premier DV, mais les autres jets de DV sont basés sur une moyenne. Les valeurs de [guérison accélérée](./Guérison accélérée (capacité).md) et de [régénération](./Régénération (capacité).md) (si la créature en possède) sont indiquées après ses DV.
+**pv.** Indique les [[pv|points de vie]] de la créature, suivis de ses [[DV|dés de vie]] (incluant les modificateurs liés à la [[Constitution]], aux niveaux de classe de prédilection et au don [[Robustesse]]). Les créatures ayant des niveaux de classe de PJ reçoivent le maximum de points de vie sur leur premier DV, mais les autres jets de DV sont basés sur une moyenne. Les valeurs de [[Guérison accélérée (capacité)|guérison accélérée]] et de [[Régénération (capacité)|régénération]] (si la créature en possède) sont indiquées après ses DV.
 
-**Jets de sauvegarde.** Indiquent les valeurs de [Réflexes](./Réflexes.md), de [Vigueur](./Vigueur.md) et de [Volonté](./Volonté.md) de la créature, ainsi que les éventuels modificateurs qui s’appliquent.
+**Jets de sauvegarde.** Indiquent les valeurs de [[Réflexes]], de [[Vigueur]] et de [[Volonté]] de la créature, ainsi que les éventuels modificateurs qui s’appliquent.
 
-**Capacités défensives/RD/Immunité/Résistance/RM.** Indiquent toutes les caractéristiques défensives inhabituelles de la créature. La [réduction des dégâts](./Réduction de dégâts (capacité).md), les [immunités](./Immunité (capacité).md), les [résistances](./Résistance (capacité).md) et la [résistance à la magie](./Résistance à la magie (capacité).md) sont précisées indépendamment, si nécessaire.
+**Capacités défensives/RD/Immunité/Résistance/RM.** Indiquent toutes les caractéristiques défensives inhabituelles de la créature. La [[Réduction de dégâts (capacité)|réduction des dégâts]], les [[Immunité (capacité)|immunités]], les [[Résistance (capacité)|résistances]] et la [[Résistance à la magie (capacité)|résistance à la magie]] sont précisées indépendamment, si nécessaire.
 
 **Faiblesses.** Toutes les faiblesses inhabituelles de la créature sont indiquées ici.
 
-**VD.** Indique la [vitesse de déplacement](./VD.md) sur terre, suivie des autres éventuelles vitesses de déplacement de la créature.
+**VD.** Indique la [[VD|vitesse de déplacement]] sur terre, suivie des autres éventuelles vitesses de déplacement de la créature.
 
 **Corps à corps.** Les attaques de corps à corps de la créature sont indiquées ici. Son modificateur d’attaque est précisé après le nom de l’attaque, suivi des dégâts entre parenthèses.
 
 **Distance.** Comme le corps à corps ci-dessus, mais pour les attaques à distance.
 
-**Espace occupé/Allonge.** Indique l’espace qu’occupe la créature et son [allonge](./allonge.md) ; si ce sont des valeurs standards (occupation d’une case de 1,50 m et allonge de 1,50 m), cette ligne n’apparaît pas.
+**Espace occupé/Allonge.** Indique l’espace qu’occupe la créature et son [[allonge]] ; si ce sont des valeurs standards (occupation d’une case de 1,50 m et allonge de 1,50 m), cette ligne n’apparaît pas.
 
-**Attaques spéciales.** Indique les attaques spéciales de la créature. Elles sont décrites à la fin du profil ou dans les [règles universelles des monstres](./Règles de monstres universelles.md).
+**Attaques spéciales.** Indique les attaques spéciales de la créature. Elles sont décrites à la fin du profil ou dans les [[Règles de monstres universelles|règles universelles des monstres]].
 
-**Magie psychique.** Si la créature utilise la règle universelle de monstre de [magie psychique](./Magie psychique (capacité).md), les sorts qu’elle peut lancer sont indiqués ici.
+**Magie psychique.** Si la créature utilise la règle universelle de monstre de [[Magie psychique (capacité)|magie psychique]], les sorts qu’elle peut lancer sont indiqués ici.
 
-**Pouvoirs magiques.** Cette section indique le [niveau de lanceur de sorts](./NLS.md) des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) de la créature, suivis desdits pouvoirs magiques, classés selon leur nombre d’utilisations quotidiennes. Un pouvoir magique constant fonctionne en permanence mais on peut le dissiper.
+**Pouvoirs magiques.** Cette section indique le [[NLS|niveau de lanceur de sorts]] des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] de la créature, suivis desdits pouvoirs magiques, classés selon leur nombre d’utilisations quotidiennes. Un pouvoir magique constant fonctionne en permanence mais on peut le dissiper.
 
-**Sorts connus/préparés.** Si la créature peut lancer des sorts, son [niveau de lanceur de sorts](./NLS.md) est indiqué ici, suivi des sorts qu’elle connaît ou prépare le plus souvent. Sauf indication contraire, une créature lançant des sorts ne reçoit aucune des autres aptitudes de classe des lanceurs de sorts, comme la capacité du [prêtre](./Prêtre.md) à transformer spontanément des sorts préparés en sorts de soins ou de blessure. Si le sort s’accompagne d’un « M » en exposant, il s’agit d’un [sort mythique](./Sorts mythiques.md) que la créature peut améliorer en dépensant une utilisation de [pouvoir mythique](./pouvoir mythique.md) lors de l’incantation.
+**Sorts connus/préparés.** Si la créature peut lancer des sorts, son [[NLS|niveau de lanceur de sorts]] est indiqué ici, suivi des sorts qu’elle connaît ou prépare le plus souvent. Sauf indication contraire, une créature lançant des sorts ne reçoit aucune des autres aptitudes de classe des lanceurs de sorts, comme la capacité du [[Prêtre]] à transformer spontanément des sorts préparés en sorts de soins ou de blessure. Si le sort s’accompagne d’un « M » en exposant, il s’agit d’un [[Sorts mythiques|sort mythique]] que la créature peut améliorer en dépensant une utilisation de [[pouvoir mythique]] lors de l’incantation.
 
 **Valeurs de caractéristiques.** Les valeurs de caractéristiques de la créature sont indiquées ici. Sauf indication contraire, on calcule ces valeurs en appliquant les modificateurs raciaux à des valeurs de 10 ou 11. Les créatures ayant des niveaux de classe de PNJ ont des valeurs de caractéristiques standards (13, 12, 11, 10, 9, 8), tandis que les créatures ayant des niveaux de classe de personnage ont des valeurs d’élite (15, 14, 13, 12, 10, 8). Dans les deux cas, le type de modificateurs de caractéristique appliqué figure en fin de description.
 
-**BBA/BMO/DMD.** Valeurs du [bonus de base à l’attaque](./BBA.md), du [bonus de manœuvre offensive](./BMO.md) et du [degré de manœuvre défensive](./DMD.md) de la créature.
+**BBA/BMO/DMD.** Valeurs du [[BBA|bonus de base à l’attaque]], du [[BMO|bonus de manœuvre offensive]] et du [[DMD|degré de manœuvre défensive]] de la créature.
 
-**Dons.** Les dons de la créature sont indiqués ici. Les dons supplémentaires sont accompagnés d’un « S » en exposant. Un don doté d’un « M » en exposant est de [nature mythique](./Dons mythiques.md) et voit son efficacité décuplé.
+**Dons.** Les dons de la créature sont indiqués ici. Les dons supplémentaires sont accompagnés d’un « S » en exposant. Un don doté d’un « M » en exposant est de [[Dons mythiques|nature mythique]] et voit son efficacité décuplé.
 
 **Compétences.** Les compétences de la créature sont indiquées ici, suivies des modificateurs de compétence raciaux.
 
-**Langues.** Voici les langues les plus couramment parlées par la créature. Pour les créatures inhabituelles, vous pouvez changer ces langues pour en choisir d’autres, selon vos besoins. Une créature ayant une valeur d’[Intelligence](./Intelligence.md) supérieure à la normale reçoit le nombre correspondant de langues supplémentaires.
+**Langues.** Voici les langues les plus couramment parlées par la créature. Pour les créatures inhabituelles, vous pouvez changer ces langues pour en choisir d’autres, selon vos besoins. Une créature ayant une valeur d’[[Intelligence]] supérieure à la normale reçoit le nombre correspondant de langues supplémentaires.
 
 **Particularités.** Toutes les qualités particulières que possède la créature.
 
@@ -111,7 +111,7 @@ Tous les monstres de ce volume sont présentés avec trois icônes qui vous aide
 
 **Organisation.** Indique la manière dont la créature s’organise ainsi que le nombre moyen de créatures qui composent chaque groupe.
 
-**Trésor.** La valeur exacte du trésor de la créature dépend de la progression de la campagne (lente, moyenne, rapide) comme résumé dans la table "[Valeur du butin par rencontre](./Rencontres.md#TABLEVALEURBUTINPARRENCONTRE)". Si une créature possède un équipement magique particulier, il est adapté à une progression moyenne : si vous vous lancez dans une campagne lente ou rapide, vous devrez ajuster l’équipement du monstre comme il convient. Un trésor « standard » signifie que la valeur totale du trésor de la créature correspond au niveau moyen du groupe, comme indiqué dans la table "Valeur du butin par rencontre" de la page 405 du Manuel des joueurs. Les trésors « double » ou « triple » signifient que la créature possède un trésor dont la valeur est égale au double ou au triple de la valeur standard. « Fortuit » signifie que la créature possède un trésor dont la valeur est égale à la moitié de la valeur standard et qu’il se trouve uniquement au sein de son repaire. « Aucun » signifie que la créature ne possède normalement pas de trésor (c’est en principe le cas pour les créatures dépourvues d’intelligence qui n’ont pas vraiment de repaire, même si elles sont souvent employées pour garder des trésors de différents montants). « Équipement de PNJ » signifie que le monstre possède le trésor normal d’un PNJ dont le niveau est égal à son FP (cf. [Création des PNJ](./Créer des PNJ.md#EQUIPEMENTPNJ)).
+**Trésor.** La valeur exacte du trésor de la créature dépend de la progression de la campagne (lente, moyenne, rapide) comme résumé dans la table "[[Rencontres#TABLEVALEURBUTINPARRENCONTRE|Valeur du butin par rencontre]]". Si une créature possède un équipement magique particulier, il est adapté à une progression moyenne : si vous vous lancez dans une campagne lente ou rapide, vous devrez ajuster l’équipement du monstre comme il convient. Un trésor « standard » signifie que la valeur totale du trésor de la créature correspond au niveau moyen du groupe, comme indiqué dans la table "Valeur du butin par rencontre" de la page 405 du Manuel des joueurs. Les trésors « double » ou « triple » signifient que la créature possède un trésor dont la valeur est égale au double ou au triple de la valeur standard. « Fortuit » signifie que la créature possède un trésor dont la valeur est égale à la moitié de la valeur standard et qu’il se trouve uniquement au sein de son repaire. « Aucun » signifie que la créature ne possède normalement pas de trésor (c’est en principe le cas pour les créatures dépourvues d’intelligence qui n’ont pas vraiment de repaire, même si elles sont souvent employées pour garder des trésors de différents montants). « Équipement de PNJ » signifie que le monstre possède le trésor normal d’un PNJ dont le niveau est égal à son FP (cf. [[Créer des PNJ#EQUIPEMENTPNJ|Création des PNJ]]).
 
 **Pouvoirs spéciaux.** Enfin, les pouvoirs spéciaux les plus spécifiques de la créature sont détaillés ici.
 

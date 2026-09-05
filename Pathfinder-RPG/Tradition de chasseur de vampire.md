@@ -7,9 +7,9 @@ LastModified: 2019-01-27 10:49
 {s:cs}
 ''Vous avez été élevé entouré des histoires et des outils des chasseurs de vampire et de ceux qui ont survécu à leur mise en oeuvre.
 
-**Avantage.** Vous obtenez un bonus de +2 en [Connaissances](./Connaissances.md) (folklore local) et [Connaissances](./Connaissances.md) (religion) sur les sujets qui touchent aux vampires - qu'il s'agisse d'un vampire spécifique ou sur leurs capacités générales. De plus, vous pouvez choisir les dons de technique des chasseurs de vampire comme si vous étiez entraîné dans la classe de chasseur de vampire.
+**Avantage.** Vous obtenez un bonus de +2 en [[Connaissances]] (folklore local) et [[Connaissances]] (religion) sur les sujets qui touchent aux vampires - qu'il s'agisse d'un vampire spécifique ou sur leurs capacités générales. De plus, vous pouvez choisir les dons de technique des chasseurs de vampire comme si vous étiez entraîné dans la classe de chasseur de vampire.
 
-**Spécial.** Si vous possédez le don [Vampirologue](./Vampirologue.md), vous obtenez un bonus de +2 aux tests de [Connaissances](./Connaissances.md) (noblesse) pour apprendre quelque chose à propos des vampires.
+**Spécial.** Si vous possédez le don [[Vampirologue]], vous obtenez un bonus de +2 aux tests de [[Connaissances]] (noblesse) pour apprendre quelque chose à propos des vampires.
 
 (((Vampire hunter tradition
 You were raised surrounded by the stories and tools of vampire hunters—and somehow survived to put them to use.

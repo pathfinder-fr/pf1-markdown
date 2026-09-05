@@ -11,13 +11,13 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Psy](./Psychiste.md) 1
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
+{s:MCA}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
 **Portée** contact
 **Cible** la créature touchée
 **Durée** 1 minute/niveau (T) ou jusqu’à déchargement
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) et voir texte ; **Résistance à la magie** oui (inoffensif) et voir texte
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) et voir texte ; **Résistance à la magie** oui (inoffensif) et voir texte
 
-Le personnage place un sceau invisible sur la cible. La prochaine fois qu’une créature réussira une manoeuvre offensive de destruction contre la cible, l’arme de l’attaquant recevra 1d6 points de dégâts par niveau de lanceur (10d6 au maximum). Si l’attaquant utilise une arme naturelle pour la destruction, il reçoit la moitié de ces dégâts. La résistance à la magie s’applique à ces dégâts. L’attaquant doit réussir un jet de [Vigueur](./Vigueur.md) pour réduire ces dégâts de moitié.
+Le personnage place un sceau invisible sur la cible. La prochaine fois qu’une créature réussira une manoeuvre offensive de destruction contre la cible, l’arme de l’attaquant recevra 1d6 points de dégâts par niveau de lanceur (10d6 au maximum). Si l’attaquant utilise une arme naturelle pour la destruction, il reçoit la moitié de ces dégâts. La résistance à la magie s’applique à ces dégâts. L’attaquant doit réussir un jet de [[Vigueur]] pour réduire ces dégâts de moitié.
 La protection placée sur la cible compte comme un piège magique et peut être détectée et désamorcée comme tel.

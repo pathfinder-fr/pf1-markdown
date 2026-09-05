@@ -13,22 +13,22 @@ Categories:
 {s:pucem|Animal|Marais|Tropical}
 - *Source : Bestiaire 2* p.248
 - **PX** 9 600
-- **[Animal](./type Animal.md)** de taille Gig, N
-- **Init** +6 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +22
+- **[[Type Animal|Animal]]** de taille Gig, N
+- **Init** +6 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +22
 (((Défense)))
 - **CA** 25, contact 9, pris au dépourvu 22 (Dex +2, esquive +1, naturelle +16, taille –4)
 - **pv** 126 (12d8+72)
 - **Réf** +10, **Vig** +14, **Vol** +5
 (((Attaque)))
 - **VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c}), nage 6 m (4 {s:c})
-- **Corps à corps** morsure, +19 (4d6+19/19–20 plus [étreinte](./Étreinte.md))
+- **Corps à corps** morsure, +19 (4d6+19/19–20 plus [[étreinte]])
 - **Espace** 6 m (4 {s:c}) ; **Allonge** 6 m (4 {s:c})
-- **Attaques spéciales** [constriction](./constriction.md) (4d6+19)
+- **Attaques spéciales** [[constriction]] (4d6+19)
 (((Statistiques)))
 - **For** 36, **Dex** 14, **Con** 23, **Int** 1, **Sag** 13, **Cha** 2
-- **BBA** +9 ; **BMO** +26 (+30 [lutte](./lutte.md)) ; **DMD** 39 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) ([Perception](./Perception.md))
-- **Compétences** [Escalade](./Escalade.md) +21, [Natation](./Natation.md) +21, [Perception](./Perception.md) +22
+- **BBA** +9 ; **BMO** +26 (+30 [[lutte]]) ; **DMD** 39 ([[croc-en-jambe]] impossible)
+- **Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Talent]] ([[Perception]])
+- **Compétences** [[Escalade]] +21, [[Natation]] +21, [[Perception]] +22
 (((Écologie)))
 - **Environnement** marais chauds
 - **Organisation sociale** solitaire ou couple
@@ -41,19 +41,19 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Vipère](./Vipère.md) || 1/2
+| Familier, [[Vipère]] || 1/2
 |-
-| [Anaconda géant](./Anaconda géant.md) || 10
+| [[Anaconda géant]] || 10
 |-
-| [Cobra impérial](./Cobra impérial.md) || 5
+| [[Cobra impérial]] || 5
 |-
-| [Nuée de serpents](./Nuée de serpents.md) || 2
+| [[Nuée de serpents]] || 2
 |-
-| [Nuée de serpents venimeux](./Nuée de serpents venimeux.md) || 4
+| [[Nuée de serpents venimeux]] || 4
 |-
-| [Serpent constricteur](./Serpent constricteur.md) || 2
+| [[Serpent constricteur]] || 2
 |-
-| [Serpent venimeux](./Serpent venimeux.md) || 1
+| [[Serpent venimeux]] || 1
 |}
 </div>*Cet énorme serpent musclé et écailleux ne cesse de tirer et de rentrer sa langue, qui fait bien la longueur d’un bras, tout en scrutant les environs à la recherche d’une proie.*
 

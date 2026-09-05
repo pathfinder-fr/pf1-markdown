@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#TOTEMDUCHAOSMINEUR
 ---
 
->>> [pouvoirs de rage#TOTEMDUCHAOSMINEUR](./Pouvoirs de rage.md#TOTEMDUCHAOSMINEUR)
+>>> [[pouvoirs de rage#TOTEMDUCHAOSMINEUR]]

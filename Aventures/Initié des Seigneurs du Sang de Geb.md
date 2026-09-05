@@ -6,7 +6,7 @@ Categories:
 - PNJ
 ---
 
-Ce sont en fait les Seigneurs du Sang qui détiennent le pouvoir au [Geb](./../Golarion/Geb.md). Toutes les familles bien vues tentent de placer leurs membres au sein des rangs de ces individus qui sont à la fois administrateurs et nécromanciens. Les plus chanceux deviennent des morts-vivants immortels sous la forme de vampires, de goules ou d'autres morts-vivants intelligents.
+Ce sont en fait les Seigneurs du Sang qui détiennent le pouvoir au [[Golarion.Geb|Geb]]. Toutes les familles bien vues tentent de placer leurs membres au sein des rangs de ces individus qui sont à la fois administrateurs et nécromanciens. Les plus chanceux deviennent des morts-vivants immortels sous la forme de vampires, de goules ou d'autres morts-vivants intelligents.
 
 <div class="BD">
 {s:BDTitre|Initié des Seigneurs du Sang de Geb|FP 2}

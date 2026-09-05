@@ -13,25 +13,25 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[acide, électricité, feu ou froid](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Alch](./Alchimiste.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [San](./Sanguin.md) 3  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|acide, électricité, feu ou froid]]<nowiki>]</nowiki> ;** Niveau** [[Alchimiste|Alch]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) pour [réduire de moitié](./Présentation des sorts.md#JETSDESAUVEGARDE) ; voir texte ; ** Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|réduire de moitié]] ; voir texte ; ** Résistance à la magie** oui
 
 Ce sort forme une aura d'énergie autour du personnage et blesse tous ceux qui l'approchent. Il choisit un type d'énergie : acide, froid, électricité ou feu. Les créatures adjacentes au personnage au moment où le sort est lancé et au début de son tour reçoivent 2d6 points de dégâts d'énergie du type sélectionné. Cette aura a un effet supplémentaire en fonction du type d'énergie choisi.  
 
-- **Acide.** Les créatures affectées par l'aura du personnage subissent 1 point de dégâts d'acide par [round](./round.md) en continu pendant 1 [round](./round.md) par tranche de 3 [niveaux de lanceur de sorts](./NLS.md) et sont [fiévreuses](./Fiévreux.md) tant que l'acide leur cause des dégâts.
-- **Froid.** Les créatures affectées par l'aura du personnage sont [fatiguées](./Fatigué.md). Une créature déjà [fatiguée](./Fatigué.md) ne subit pas d'effet supplémentaire.
-- **Électricité.** Les créatures affectées par l'aura du personnage sont [chancelantes](./Chancelant.md) pendant 1 [round](./round.md).
-- **Feu.** Les créatures affectées par l'aura du personnage [prennent feu](./Dangers naturels.md#PRENDREFEU).
+- **Acide.** Les créatures affectées par l'aura du personnage subissent 1 point de dégâts d'acide par [[round]] en continu pendant 1 [[round]] par tranche de 3 [[NLS|niveaux de lanceur de sorts]] et sont [[fiévreux|fiévreuses]] tant que l'acide leur cause des dégâts.
+- **Froid.** Les créatures affectées par l'aura du personnage sont [[fatigué|fatiguées]]. Une créature déjà [[fatigué|fatiguée]] ne subit pas d'effet supplémentaire.
+- **Électricité.** Les créatures affectées par l'aura du personnage sont [[chancelant|chancelantes]] pendant 1 [[round]].
+- **Feu.** Les créatures affectées par l'aura du personnage [[Dangers naturels#PRENDREFEU|prennent feu]].
 
-Les créatures adjacentes au personnage ont droit à un jet de [Réflexes](./Réflexes.md) pour [réduire les dégâts de moitié et annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) l'effet supplémentaire. Les effets supplémentaires de l'aura ne se cumulent pas si la créature subit les dégâts causés par cette aura à plusieurs reprises. Le personnage ne peut activer qu'une *aura élémentaire* à la fois. Quand le personnage lance ce sort pour causer des dégâts d'acide, de froid, d'électricité ou de feu, le sort devient de ce type.
+Les créatures adjacentes au personnage ont droit à un jet de [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|réduire les dégâts de moitié et annuler]] l'effet supplémentaire. Les effets supplémentaires de l'aura ne se cumulent pas si la créature subit les dégâts causés par cette aura à plusieurs reprises. Le personnage ne peut activer qu'une *aura élémentaire* à la fois. Quand le personnage lance ce sort pour causer des dégâts d'acide, de froid, d'électricité ou de feu, le sort devient de ce type.

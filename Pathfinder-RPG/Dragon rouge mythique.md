@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Dragon rouge
 ---
 
->>> [Dragon rouge](./Dragon rouge.md)
+>>> [[Dragon rouge]]

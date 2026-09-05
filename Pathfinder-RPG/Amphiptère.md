@@ -13,23 +13,23 @@ Categories:
 {s:pucem|Dragon|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.20*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Dragon](./type Dragon.md) de taille G, N}
-{s:BDTexte|**Init** +4 ; **Sens** [odorat](./Odorat (capacité).md), [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Dragon|Dragon]] de taille G, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[Odorat (capacité)|odorat]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 9, pris au dépourvu 16 (naturelle +7, taille -1)}
 {s:BDTexte|**pv** 42 (5d12+10)}
 {s:BDTexte|**Réf** +4, **Vig** +6, **Vol** +5}
 {s:BDTexte|**Immunités** paralysie, sommeil}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 3 m, [vol](./Vol (capacité).md) 18 m (moyenne)}
-{s:BDTexte|**Corps à corps** queue, +9 (1d8+4) et morsure, +8 (1d10+4 plus [étreinte](./Étreinte (capacité).md)) et 2 ailes, +3 (1d4+2)}
+{s:BDTexte|**VD** 3 m, [[Vol (capacité)|vol]] 18 m (moyenne)}
+{s:BDTexte|**Corps à corps** queue, +9 (1d8+4) et morsure, +8 (1d10+4 plus [[Étreinte (capacité)|étreinte]]) et 2 ailes, +3 (1d4+2)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,50 m (3 m avec la queue)}
-{s:BDTexte|**Attaques spéciales** [constriction](./Constriction (capacité).md) (1d10+4), empalement}
+{s:BDTexte|**Attaques spéciales** [[Constriction (capacité)|constriction]] (1d10+4), empalement}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 11, **Con** 14, **Int** 7, **Sag** 12, **Cha** 9}
 {s:BDTexte|**BBA** +5 ; **BMO** +10 ; **DMD** 20 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (queue), [Attaque en vol](./Attaque en vol.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +13, [Psychologie](./Psychologie.md) +9, [Vol](./Vol.md) +10 ; **Modificateurs raciaux** +4 en Perception et en Vol}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (queue), [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +4, [[Perception]] +13, [[Psychologie]] +9, [[Vol]] +10 ; **Modificateurs raciaux** +4 en Perception et en Vol}
 {s:BDTexte|**Langues** draconique}
 {s:BDTexte|**Particularités** capacité de vol limitée}
 {s:BDSousTitre|Écologie}
@@ -37,8 +37,8 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, couple ou escadrille (3-18)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Capacité de vol limitée (Ext).** Les amphiptères ont des ailes mais ils ne peuvent pas vraiment voler. Ils se déplacent habituellement en s’élevant de quelques mètres au-dessus du sol grâce à leurs grandes ailes de chauves-souris et en prenant appui au sol avec leurs pattes griffues pour soulever leur masse. Cette tactique fournit à l’amphiptère une vitesse en vol de 18 mètres et une manœuvrabilité moyenne, mais elle ne lui permet pas de s’élever à plus de 3 mètres du sol ni d’utiliser ses ailes pour voler sur place. En outre, les amphiptères peuvent effectuer un test de [Vol](./Vol.md) DD 15 pour retomber depuis n’importe quelle hauteur sans subir de dégâts de chute, comme s’ils étaient sous l’effet d’un sort de *[feuille morte](./Feuille morte.md)*. Quand il retombe ainsi en toute sécurité, un amphiptère peut effectuer un test de Vol supplémentaire DD 15 pour planer, ce qui lui permet de se déplacer latéralement de 1,50 mètre pour chaque tranche de 3 mètres de descente.}
-{s:BDTexte|**Empalement (Ext).** Si un amphiptère confirme un [coup critique](./coup critique.md) avec son attaque de queue contre une créature de taille inférieure à la sienne, la queue à l’extrémité en pointe empale la créature ciblée. Une créature empalée de la sorte est affublée de l’état préjudiciable [immobilisé en lutte](./Immobilisé.md) (mais l’amphiptère n’est pas affublé de l’état préjudiciable [agrippé](./Agrippé.md)), elle subit 1d6 points de dégâts de [saignement](./Saignement.md) et subit automatiquement les dégâts infligés par la queue de l’amphiptère chaque round pendant lequel elle demeure immobilisée. Un amphiptère ne peut pas utiliser son attaque spéciale de [constriction](./Constriction (capacité).md) contre une créature empalée de la sorte. Il ne peut pas non plus utiliser son attaque de queue tant qu’il empale une créature, mais il n’a pas besoin de réussir un test de manœuvre offensive de [lutte](./lutte.md) pour maintenir sa prise. Un amphiptère peut relâcher une créature empalée par une action libre.}
+{s:BDTexte|**Capacité de vol limitée (Ext).** Les amphiptères ont des ailes mais ils ne peuvent pas vraiment voler. Ils se déplacent habituellement en s’élevant de quelques mètres au-dessus du sol grâce à leurs grandes ailes de chauves-souris et en prenant appui au sol avec leurs pattes griffues pour soulever leur masse. Cette tactique fournit à l’amphiptère une vitesse en vol de 18 mètres et une manœuvrabilité moyenne, mais elle ne lui permet pas de s’élever à plus de 3 mètres du sol ni d’utiliser ses ailes pour voler sur place. En outre, les amphiptères peuvent effectuer un test de [[Vol]] DD 15 pour retomber depuis n’importe quelle hauteur sans subir de dégâts de chute, comme s’ils étaient sous l’effet d’un sort de *[[feuille morte]]*. Quand il retombe ainsi en toute sécurité, un amphiptère peut effectuer un test de Vol supplémentaire DD 15 pour planer, ce qui lui permet de se déplacer latéralement de 1,50 mètre pour chaque tranche de 3 mètres de descente.}
+{s:BDTexte|**Empalement (Ext).** Si un amphiptère confirme un [[coup critique]] avec son attaque de queue contre une créature de taille inférieure à la sienne, la queue à l’extrémité en pointe empale la créature ciblée. Une créature empalée de la sorte est affublée de l’état préjudiciable [[immobilisé|immobilisé en lutte]] (mais l’amphiptère n’est pas affublé de l’état préjudiciable [[agrippé]]), elle subit 1d6 points de dégâts de [[saignement]] et subit automatiquement les dégâts infligés par la queue de l’amphiptère chaque round pendant lequel elle demeure immobilisée. Un amphiptère ne peut pas utiliser son attaque spéciale de [[Constriction (capacité)|constriction]] contre une créature empalée de la sorte. Il ne peut pas non plus utiliser son attaque de queue tant qu’il empale une créature, mais il n’a pas besoin de réussir un test de manœuvre offensive de [[lutte]] pour maintenir sa prise. Un amphiptère peut relâcher une créature empalée par une action libre.}
 </div></td>
 <td><div>*Ce dragon au corps de serpent est doté d’une queue sinueuse à l’extrémité pointue. Sur ses membres antérieurs se déploient des ailes flamboyantes et il n’a pas de pattes arrière.*
 

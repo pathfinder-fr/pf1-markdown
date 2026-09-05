@@ -14,33 +14,33 @@ Categories:
 {s:pucem|Dragon|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.107}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Dragon](./type Dragon.md) ([aquatique](./sous-type aquatique.md), [Eau](./sous-type Eau.md)) de taille M, NM}
-{s:BDTexte|**Init** +7 ; **Sens** [odorat](./Odorat (capacité).md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./Vision nocturne (capacité).md); [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type aquatique|aquatique]], [[sous-type Eau|Eau]]) de taille M, NM}
+{s:BDTexte|**Init** +7 ; **Sens** [[Odorat (capacité)|odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[Vision nocturne (capacité)|vision nocturne]]; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 13, pris au dépourvu 13 (Dex +3, naturelle +3)}
 {s:BDTexte|**Pv** 34 (4d12+8)}
 {s:BDTexte|**Réf** +7, **Vig** +6, **Vol** +4}
-{s:BDTexte|**[Immunité](./Immunité (capacité).md)** paralysie, sommeil ; **[Résistance](./Résistance (capacité).md)** acide 20}
+{s:BDTexte|**[[Immunité (capacité)|Immunité]]** paralysie, sommeil ; **[[Résistance (capacité)|Résistance]]** acide 20}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), vol 18 m (12 {s:c}) (moyenne), nage 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** coup de queue, +2 (1d4+1) et morsure, +7 (2d4+3)}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond (capacité).md), mucus caustique}
+{s:BDTexte|**Attaques spéciales** [[Bond (capacité)|bond]], mucus caustique}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 16, **Con** 15, **Int** 8, **Sag** 10, **Cha** 9}
 {s:BDTexte|**BBA** +4 ; **BMO** +7 ; **DMD** 20}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Intimidation](./Intimidation.md) +6, [Natation](./Natation.md) +11, [Perception](./Perception.md) +7, [Survie](./Survie.md) +7, [Vol](./Vol.md) +10}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Intimidation]] +6, [[Natation]] +11, [[Perception]] +7, [[Survie]] +7, [[Vol]] +10}
 {s:BDTexte|**Langue** draconique}
-{s:BDTexte|**Particularités** accélération, [amphibie](./Amphibie (capacité).md)}
+{s:BDTexte|**Particularités** accélération, [[Amphibie (capacité)|amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** lacs ou rivières tempérés}
 {s:BDTexte|**Organisation** solitaire, couple ou déchaînement (3-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Accélération (Ext).** Trois fois par jour, par une [action rapide](./Action rapide.md), le drake des rivières peut faire appel à son héritage draconique pour augmenter sa force et sa vitesse de déplacement, ce qui lui permet de faire une [action de déplacement](./Actions de mouvement.md#DEPLACEMENT) supplémentaire lors de son round.}
-{s:BDTexte|**Mucus caustique (Sur).** Par une [action simple](./Action simple.md), le drake des rivières peut cracher une boule de mucus caustique qui explose, couvrant une zone de 1,50 m (1 {s:c}) de rayon. Cette attaque a une portée de 15 m (10 {s:c}), inflige 2d8 points de dégâts d’acide et enchevêtre les créatures situées dans la zone. Un [jet de Réflexes](./Valeurs de combat.md#JETDESAUVEGARDE) DD 14 permet de réduire les dégâts de moitié et annule l’effet d’enchevêtrement. Une créature enchevêtrée reçoit 1d4 points de dégâts d’acide à chaque round à son tour. Elle a droit à un jet de sauvegarde par round, à la fin de son tour, pour échapper à l’enchevêtrement et aux dégâts d’acide. Un drake des rivières qui vient de cracher du mucus ne peut plus le faire avant 1d6 rounds. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Accélération (Ext).** Trois fois par jour, par une [[action rapide]], le drake des rivières peut faire appel à son héritage draconique pour augmenter sa force et sa vitesse de déplacement, ce qui lui permet de faire une [[Actions de mouvement#DEPLACEMENT|action de déplacement]] supplémentaire lors de son round.}
+{s:BDTexte|**Mucus caustique (Sur).** Par une [[action simple]], le drake des rivières peut cracher une boule de mucus caustique qui explose, couvrant une zone de 1,50 m (1 {s:c}) de rayon. Cette attaque a une portée de 15 m (10 {s:c}), inflige 2d8 points de dégâts d’acide et enchevêtre les créatures situées dans la zone. Un [[Valeurs de combat#JETDESAUVEGARDE|jet de Réflexes]] DD 14 permet de réduire les dégâts de moitié et annule l’effet d’enchevêtrement. Une créature enchevêtrée reçoit 1d4 points de dégâts d’acide à chaque round à son tour. Elle a droit à un jet de sauvegarde par round, à la fin de son tour, pour échapper à l’enchevêtrement et aux dégâts d’acide. Un drake des rivières qui vient de cracher du mucus ne peut plus le faire avant 1d6 rounds. Le DD du jet de sauvegarde est basé sur la Constitution.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [drakes](./Drake.md).***</li></ul>*Avec ses ailes gracieuses et ses grandes nageoires, ce dragon aux écailles lisses apparaît bien équipé pour glisser dans les mers aussi bien que dans les airs.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>*Avec ses ailes gracieuses et ses grandes nageoires, ce dragon aux écailles lisses apparaît bien équipé pour glisser dans les mers aussi bien que dans les airs.*
 
 Se nourrissant aussi facilement de poissons que de pêcheurs, les drakes des rivières sont les fléaux des étendues
 d’eau douce. Ils seraient apparentés aux dragons noirs, comme le suggère leur crachat acide, leur affinité pour l’eau,

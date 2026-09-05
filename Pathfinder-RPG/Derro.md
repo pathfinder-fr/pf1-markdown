@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.73*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([derro](./sous-type-derro.md)) de taille P, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type derro|derro]]) de taille P, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 15 (armure +2, Dex +2, naturelle +2, taille +1)}
 {s:BDTexte|**pv** 25 (3d8+12)}
@@ -25,25 +25,25 @@ Categories:
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** épée courte +5 (1d4) ou aclys +5 (1d6)}
 {s:BDTexte|**Distance** arbalète légère à répétition +5 (1d6/19-20 et poison) ou aclys +5 (1d6)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./attaque sournoise.md) +1d6}
+{s:BDTexte|**Attaques spéciales** [[attaque sournoise]] +1d6}
 {s:BDTexte|**Pouvoirs magiques** (NLS 3<sup>e</sup>)}
-{s:BDSorts|À volonté — *[son imaginaire](./Son imaginaire.md)* (DD 13), *[ténèbres](./Ténèbres.md)*}
-{s:BDSorts|1/jour — *[cacophonie](./Cacophonie.md)* (DD 15), *[hébétement](./Hébétement.md)* (DD 13)}
+{s:BDSorts|À volonté — *[[son imaginaire]]* (DD 13), *[[ténèbres]]*}
+{s:BDSorts|1/jour — *[[cacophonie]]* (DD 15), *[[hébétement]]* (DD 13)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 15, **Con** 18, **Int** 10, **Sag** 5, **Cha** 16}
 {s:BDTexte|**BBA** +2, **BMO** +1, **DMD** 13}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +0}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +9, [[Perception]] +0}
 {s:BDTexte|**Langues** aklo, commun des profondeurs}
 {s:BDTexte|**Particularités** folie, utilisation des poisons}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
-{s:BDTexte|**Organisation sociale** solitaire, équipe (2-4), escouade (5-8 plus 1 [ensorceleur](./Ensorceleur.md) de niveau 3 à 5) ou bande (11-20 plus 30% de non-combattants plus 3 [ensorceleurs](./Ensorceleur.md) de niveau 3 à 8)}
-{s:BDTexte|**Trésor** équipement de [PNJ](./PNJ.md) (arbalète légère à répétition avec 10 carreaux empoisonnés, armure de cuir, épée courte ou aclys, autres trésors)}
+{s:BDTexte|**Organisation sociale** solitaire, équipe (2-4), escouade (5-8 plus 1 [[ensorceleur]] de niveau 3 à 5) ou bande (11-20 plus 30% de non-combattants plus 3 [[ensorceleur|ensorceleurs]] de niveau 3 à 8)}
+{s:BDTexte|**Trésor** équipement de [[PNJ]] (arbalète légère à répétition avec 10 carreaux empoisonnés, armure de cuir, épée courte ou aclys, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Folie (Ext)** Les derros utilisent leur modificateur de [Charisme](./Charisme.md) au lieu de leur modificateur de [Sagesse](./Sagesse.md) pour effectuer leurs jets de [Volonté](./Volonté.md). Ils sont immunisés contre les effets d'aliénation mentale et de confusion. Seul un *[miracle](./Miracle.md)* ou un *[souhait](./Souhait.md)* peut libérer un derro de sa folie. Dans ce cas, il gagne 6 points de [Sagesse](./Sagesse.md) et perd 6 points de [Charisme](./Charisme.md).}
-{s:BDTexte|**Utilisation des poisons (Ext)** Les derros ne risquent pas de s'empoisonner lorsqu'ils manipulent des poisons. Ils utilisent souvent du [venin d'araignée](./Poisons.md) de [taille M](./taille M.md) pour empoisonner leurs carreaux d'arbalètes et transportent généralement 10 carreaux empoisonnés avec eux.}
-{s:BDTexte|**Vulnérable à la lumière du soleil (Ext)** Chaque heure passée sous la lumière du soleil inflige aux derros un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1 point de [Constitution](./Constitution.md).}
+{s:BDTexte|**Folie (Ext)** Les derros utilisent leur modificateur de [[Charisme]] au lieu de leur modificateur de [[Sagesse]] pour effectuer leurs jets de [[Volonté]]. Ils sont immunisés contre les effets d'aliénation mentale et de confusion. Seul un *[[miracle]]* ou un *[[souhait]]* peut libérer un derro de sa folie. Dans ce cas, il gagne 6 points de [[Sagesse]] et perd 6 points de [[Charisme]].}
+{s:BDTexte|**Utilisation des poisons (Ext)** Les derros ne risquent pas de s'empoisonner lorsqu'ils manipulent des poisons. Ils utilisent souvent du [[poisons|venin d'araignée]] de [[taille M]] pour empoisonner leurs carreaux d'arbalètes et transportent généralement 10 carreaux empoisonnés avec eux.}
+{s:BDTexte|**Vulnérable à la lumière du soleil (Ext)** Chaque heure passée sous la lumière du soleil inflige aux derros un [[affaiblissement temporaire]] de 1 point de [[Constitution]].}
 </div>
 
 </td><td><div>*Cet humanoïde bleu pâle a des cheveux hirsutes, de gros yeux blancs, des mains à quatre doigts et un gourdin muni d’un crochet.*

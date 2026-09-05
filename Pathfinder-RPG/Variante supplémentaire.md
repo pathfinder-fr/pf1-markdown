@@ -9,11 +9,11 @@ Categories:
 
 {s:cs}*Le personnage peut utiliser son énergie canalisée de manières nouvelles.*
 
-**Conditions.** [Canalisation variable](./Canalisation variable.md) ou capacité à utiliser une [variante de canalisation](./Variantes de canalisation.md), capacité de classe [canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE)
+**Conditions.** [[Canalisation variable]] ou capacité à utiliser une [[Variantes de canalisation|variante de canalisation]], capacité de classe [[Prêtre#CANALISATIONDENERGIE|canalisation d'énergie]]
 
-**Avantage.** Le personnage obtient une [variante de canalisation](./Variantes de canalisation.md) supplémentaire qui correspond à l’un des domaines, des sous-domaines ou des centres d’intérêts de la divinité qu'il vénère. Trois fois par jour, il peut appliquer les modifications de cette variante de canalisation, en réduisant les dégâts infligés ou les soins dispensés par sa canalisation comme à l'accoutumée. Le personnage ne peut pas appliquer plus d’une variante de canalisation à sa canalisation d’énergie en même temps.
+**Avantage.** Le personnage obtient une [[variantes de canalisation|variante de canalisation]] supplémentaire qui correspond à l’un des domaines, des sous-domaines ou des centres d’intérêts de la divinité qu'il vénère. Trois fois par jour, il peut appliquer les modifications de cette variante de canalisation, en réduisant les dégâts infligés ou les soins dispensés par sa canalisation comme à l'accoutumée. Le personnage ne peut pas appliquer plus d’une variante de canalisation à sa canalisation d’énergie en même temps.
 
-**Spécial.** Le personnage peut choisir ce don à plusieurs reprises. À chaque fois qu'il le fait, il obtient une nouvelle variante de canalisation. S'il a choisi [Canalisation variable](./Canalisation variable.md) à deux reprises, le personnage peut utiliser n’importe quelle variante de canalisation choisie grâce à ce don à chaque fois qu'il canalise de l’énergie.
+**Spécial.** Le personnage peut choisir ce don à plusieurs reprises. À chaque fois qu'il le fait, il obtient une nouvelle variante de canalisation. S'il a choisi [[Canalisation variable]] à deux reprises, le personnage peut utiliser n’importe quelle variante de canalisation choisie grâce à ce don à chaque fois qu'il canalise de l’énergie.
 
 (((Extra variance
 

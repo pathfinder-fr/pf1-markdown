@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 - *Source : Bestiaire 2* p.156
 - **PX** 400
-- [Fée](./type Fée.md) de taille TP, NB
-- **Init** +4 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5
+- [[type Fée|Fée]] de taille TP, NB
+- **Init** +4 ; **Sens** [[vision nocturne]] ; [[Perception]] +5
 (((Défense)))
 - **CA** 17, contact 17, pris au dépourvu 12 (Dex +4, esquive +1, taille +2)
 - **pv** 4 (1d6+1)
@@ -28,19 +28,19 @@ Categories:
 - **Espace** 75 cm ; Allonge 0 m
 - **Attaques spéciales** violon
 - **Pouvoirs magiques** (NLS 9<sup>e</sup> ; concentration +11)
-  - 3/jour — *[déguisement](./Déguisement.md)*, *[enchevêtrement](./Enchevêtrement.md)* ([DD](./DD.md) 13), *[invisibilité](./Invisibilité.md)* (personnel uniquement), *[pyrotechnie](./Pyrotechnie.md)* ([DD](./DD.md) 14)
+  - 3/jour — *[[déguisement]]*, *[[enchevêtrement]]* ([[DD]] 13), *[[invisibilité]]* (personnel uniquement), *[[pyrotechnie]]* ([[DD]] 14)
 (((Caractéristiques)))
 - **For** 5, **Dex** 18, **Con** 13, **Int** 10, **Sag** 13, **Cha** 14
-- **BBA** +0, **BMO** +2, **DMD** 10 (16 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Dons** [Esquive](./Esquive.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +8 (+12 pour sauter), [Discrétion](./Discrétion.md) +16, [Évasion](./Évasion.md) +8, [Perception](./Perception.md) +5, [Représentation](./Représentation.md) (instruments à corde) +6, [Vol](./Vol.md) +12 ; **Modificateurs raciaux** +4 en Acrobaties pour sauter
+- **BBA** +0, **BMO** +2, **DMD** 10 (16 contre [[croc-en-jambe]])
+- **Dons** [[Esquive]]
+- **Compétences** [[Acrobaties]] +8 (+12 pour sauter), [[Discrétion]] +16, [[Évasion]] +8, [[Perception]] +5, [[Représentation]] (instruments à corde) +6, [[Vol]] +12 ; **Modificateurs raciaux** +4 en Acrobaties pour sauter
 - **Langues** commun, sylvestre
 (((Écologie)))
 - **Environnement** forêts tempérées
 - **Organisation sociale** solitaire, bande (2–5) ou groupe (6–11)
 - **Trésor** équipement de PNJ (épée courte, arc long avec 20 flèches, autres trésors)
 (((Capacités spéciales)))
-- **Violon (Sur).** Les grigs peuvent frotter leurs jambes ensemble comme un grillon et ainsi produire un son étonnamment plaisant qui ressemble à celui d’un minuscule violon. Par une [action simple](./Action simple.md), une grig peut interpréter une mélodie entraînante qui incite toutes les créatures situées dans un rayonnement de 6 cases à danser et à faire des cabrioles. Une créature peut résister à cet effet de coercition en réussissant un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 12. En cas d’échec, la créature est obligée de danser et de battre des pied. Elle est considérée comme [chancelante](./Chancelant.md) tant que la grig continue à jouer. Une grig peut maintenir cet effet pendant un maximum de 10 rounds par jour en se concentrant. Lorsqu’une créature réussit le [jet de sauvegarde](./jet de sauvegarde.md) contre cet effet, elle est immunisée pendant 24 heures contre les effets de cette capacité lorsqu’elle est utilisée par la grig en question. Il s’agit d’un [effet mental](./effet mental.md) de son. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend du [Charisme](./Charisme.md).
+- **Violon (Sur).** Les grigs peuvent frotter leurs jambes ensemble comme un grillon et ainsi produire un son étonnamment plaisant qui ressemble à celui d’un minuscule violon. Par une [[action simple]], une grig peut interpréter une mélodie entraînante qui incite toutes les créatures situées dans un rayonnement de 6 cases à danser et à faire des cabrioles. Une créature peut résister à cet effet de coercition en réussissant un jet de [[Volonté]] de [[DD]] 12. En cas d’échec, la créature est obligée de danser et de battre des pied. Elle est considérée comme [[chancelant|chancelante]] tant que la grig continue à jouer. Une grig peut maintenir cet effet pendant un maximum de 10 rounds par jour en se concentrant. Lorsqu’une créature réussit le [[jet de sauvegarde]] contre cet effet, elle est immunisée pendant 24 heures contre les effets de cette capacité lorsqu’elle est utilisée par la grig en question. Il s’agit d’un [[effet mental]] de son. Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].
 
 </div>
 </td><td><div>*Cette minuscule créature perchée sur des jambes de grillons barbelées a des ailes transparentes, ainsi que le torse et la tête d’une femme elfe.*

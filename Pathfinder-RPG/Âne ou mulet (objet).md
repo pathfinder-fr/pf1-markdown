@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 8 po ; **Poids** 300–400 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Les ânes et les mulets restent impassibles face au danger. Ils sont robustes, ils ont le pied sûr et ils sont capables de porter des lourdes charges sur de grandes distances. Contrairement au cheval, l’âne et le mulet sont prêts (quoique sans enthousiasme) à pénétrer dans les donjons et autres lieux étranges ou menaçants. Les ânes et les mulets ont les mêmes statistiques que les [poneys](./Poney.md).
+Les ânes et les mulets restent impassibles face au danger. Ils sont robustes, ils ont le pied sûr et ils sont capables de porter des lourdes charges sur de grandes distances. Contrairement au cheval, l’âne et le mulet sont prêts (quoique sans enthousiasme) à pénétrer dans les donjons et autres lieux étranges ou menaçants. Les ânes et les mulets ont les mêmes statistiques que les [[Poney|poneys]].

@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Les lueurs féeriques du personnage illuminent ses adversaires et soulignent aussi leurs faiblesses. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), [Poing de cauchemar](./Poing de cauchemar.md), [Tisseur de cauchemar](./Tisseur de cauchemar.md), [Coup étourdissant](./Coup étourdissant.md), 5 rangs en [Premiers secours](./Premiers secours.md), *[lueur féerique](./Lueur féerique.md)*
+**Conditions.** [[Science du combat à mains nues]], [[Poing de cauchemar]], [[Tisseur de cauchemar]], [[Coup étourdissant]], 5 rangs en [[Premiers secours]], *[[lueur féerique]]*
 
-**Avantage.** Quand un adversaire est auréolé de *[lueur féerique](./Lueur féerique.md)* lancées par le personnage et non issues d’un objet à potentiel magique ou à fin d’incantation, le [DD](./DD.md) pour résister aux [Coups étourdissants](./Coup étourdissant.md) du personnage augmente de +2 pour cet adversaire. Si le personnage réussit une tentative de [Coup étourdissant](./Coup étourdissant.md) et que l’adversaire affecté par les lueurs rate son [jet de sauvegarde](./jet de sauvegarde.md), il est [secoué](./Secoué.md) pendant 1d2 rounds plus 1 round pour chaque tranche de 5 en deçà du [DD](./DD.md).
+**Avantage.** Quand un adversaire est auréolé de *[[lueur féerique]]* lancées par le personnage et non issues d’un objet à potentiel magique ou à fin d’incantation, le [[DD]] pour résister aux [[coup étourdissant|Coups étourdissants]] du personnage augmente de +2 pour cet adversaire. Si le personnage réussit une tentative de [[Coup étourdissant]] et que l’adversaire affecté par les lueurs rate son [[jet de sauvegarde]], il est [[secoué]] pendant 1d2 rounds plus 1 round pour chaque tranche de 5 en deçà du [[DD]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage touche un adversaire avec une attaque de [Coup étourdissant](./Coup étourdissant.md) et que cet adversaire rate son [jet de sauvegarde](./JDS.md), le personnage peut dépenser 5 points d’endurance pour que son adversaire soit [effrayé](./Effrayé.md) pendant 1d4 [rounds](./round.md) au lieu d’être simplement [secoué](./Secoué.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage touche un adversaire avec une attaque de [[Coup étourdissant]] et que cet adversaire rate son [[jds|jet de sauvegarde]], le personnage peut dépenser 5 points d’endurance pour que son adversaire soit [[effrayé]] pendant 1d4 [[round|rounds]] au lieu d’être simplement [[secoué]].

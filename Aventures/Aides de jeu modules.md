@@ -4,12 +4,12 @@ Title: Aides de jeu pour les modules
 LastModified: 2016-09-07 14:03
 ---
 
-La gamme Pathfinder contient de nombreux modules (aventures séparées ou avec des liens relativement minces) et plusieurs campagnes (ou adventure paths). Le [wiki Aventures](./../ADJ/MainPage.md) se veut être un lieu d'échange d'aides de jeu et d'idées pour les MJ qui désirent faire jouer ces aventures. Vous trouverez la présentation de ces modules sur [cette page](./Présentation modules.md).
+La gamme Pathfinder contient de nombreux modules (aventures séparées ou avec des liens relativement minces) et plusieurs campagnes (ou adventure paths). Le [[MainPage|wiki Aventures]] se veut être un lieu d'échange d'aides de jeu et d'idées pour les MJ qui désirent faire jouer ces aventures. Vous trouverez la présentation de ces modules sur [[Présentation modules|cette page]].
 
 <nav class="wiki-toc"></nav>
 
 {s:Reference|SOMBRELUNE}
-### Aides de jeu pour les scénarios se déroulant au [val de Sombrelune](./../Golarion/Val de Sombrelune.md)
+### Aides de jeu pour les scénarios se déroulant au [[Golarion.val de Sombrelune|val de Sombrelune]]
 
 {s:ADJStart}
 <tr STYLE="vertical-align: top;">
@@ -19,19 +19,19 @@ La gamme Pathfinder contient de nombreux modules (aventures séparées ou avec d
 <td>{s:ADJ|ULIZMILA|Pour les yeux d'Ulizmila|%2fADJ%2fAventures%2fUlizmilaMini.jpg|%2fADJ%2fAventures%2fUlizmila.pdf|Une aventure complète pour personnages de niveau 3 à insérer entre D1, La Couronne du Roi Kobold, et D1.5, La Vengeance du Roi Kobold (fichier PDF)|Tymophil|none}</td>
 </tr>
 <tr STYLE="vertical-align: top;">
-<td>{s:ADJExt|CONVERSIOND0|Conversions D0 pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20D0.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([page wiki et fichier pdf](./Conversion D0.md))|Mériadec|none}</td>
-<td>{s:ADJExt|CONVERSIONSE1|Conversions pour Pathfinder et aides de jeu pour le module E1|/ADJ/Aventures/Icone aidesjeuE1.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20E1.ashx|Des fiches pratiques pour maîtriser le scénario et les blocs descriptifs des adversaires ([page wiki](./Conversion E1.md))|Michoui|none}</td>
+<td>{s:ADJExt|CONVERSIOND0|Conversions D0 pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20D0.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([[Conversion D0|page wiki et fichier pdf]])|Mériadec|none}</td>
+<td>{s:ADJExt|CONVERSIONSE1|Conversions pour Pathfinder et aides de jeu pour le module E1|/ADJ/Aventures/Icone aidesjeuE1.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20E1.ashx|Des fiches pratiques pour maîtriser le scénario et les blocs descriptifs des adversaires ([[Conversion E1|page wiki]])|Michoui|none}</td>
 </tr>
 </table>
 
 {s:Reference|VALSANGLANT}
 
-### Aides de jeu pour les scénarios se déroulant au [val Sanglant](./../Golarion/Val sanglant.md)
+### Aides de jeu pour les scénarios se déroulant au [[Golarion.val Sanglant|val Sanglant]]
 
 {s:ADJStart}
 <tr STYLE="vertical-align: top;">
 <td>{s:ADJ|GUIDESANGLANT|Petit guide du val Sanglant|%2fADJ%2fAventures%2fPetit guide Val SanglantMini.jpg|%2fADJ%2fAventures%2fPetit guide Val Sanglant.pdf|Une compilation d'articles et d'informations pour les MJ prévoyant de mener la mini-campagne du val Sanglant (fichier PDF)|Mériadec|none}</td>
-<td>{s:ADJExt|CONVERSIONS1|Conversions S1 pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20S1.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([page wiki](./Conversion S1.md))|Mériadec|none}</td>
+<td>{s:ADJExt|CONVERSIONS1|Conversions S1 pour Pathfinder|%2fADJ%2fAventures%2fConversionMini.jpg|http://www.pathfinder-fr.org/wiki/Aventures.Conversion%20S1.ashx|Des blocs descriptifs version Pathfinder pour les adversaires que les PJ rencontrent dans cette aventure ([[Conversion S1|page wiki]])|Mériadec|none}</td>
 </tr>
 </table>
 

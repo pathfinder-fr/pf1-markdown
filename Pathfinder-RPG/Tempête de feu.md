@@ -11,24 +11,24 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 8, [Dru](./Druide.md) 7, [Prê](./Prêtre.md) 8  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 8, [[Druide|Dru]] 7, [[Prêtre|Prê]] 8  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Zone d'effet** 2 cubes de 3 m d’arête/[niveau](./niveau.md) (F)  
+**Zone d'effet** 2 cubes de 3 m d’arête/[[niveau]] (F)  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-Lorsque le personnage lance ce sort, la [zone d’effet](./zone deffet.md) se transforme brusquement en un gigantesque brasier. Si le personnage le désire, les flammes peuvent épargner la végétation et/ou les [créatures végétales](./type Plante.md). Par contre, toutes les autres cibles potentielles (et les [créatures végétales](./type Plante.md) que le jeteur de sorts souhaite affecter) subissent 1d6 points de dégâts de feu par [niveau de lanceur de sorts](./NLS.md) (jusqu’à un maximum de 20d6). Les créatures qui ratent leur jet de [Réflexes](./Réflexes.md) s’embrasent et subissent 4d6 points de dégâts de feu par [round](./round.md) jusqu’à extinction des flammes. Pour étouffer le feu, il faut réussir un test de [Réflexes](./Réflexes.md) [DD](./DD.md) 20 lors d’une [action complexe](./Action complexe.md).
+Lorsque le personnage lance ce sort, la [[zone deffet|zone d’effet]] se transforme brusquement en un gigantesque brasier. Si le personnage le désire, les flammes peuvent épargner la végétation et/ou les [[type plante|créatures végétales]]. Par contre, toutes les autres cibles potentielles (et les [[type plante|créatures végétales]] que le jeteur de sorts souhaite affecter) subissent 1d6 points de dégâts de feu par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de 20d6). Les créatures qui ratent leur jet de [[Réflexes]] s’embrasent et subissent 4d6 points de dégâts de feu par [[round]] jusqu’à extinction des flammes. Pour étouffer le feu, il faut réussir un test de [[Réflexes]] [[DD]] 20 lors d’une [[action complexe]].
 
 ### Mythique
 {s:CMy}
-Les dégâts infligés s’élèvent à 1d8 points de dégâts par [niveau de lanceur de sorts](./NLS.md) (20d8 maximum). La moitié de ces dégâts sont des dégâts de feu, l’autre moitié des dégâts d’énergie divine qui ignorent les immunités et les résistances au feu. Le personnage peut épargner autant d’animaux qu’il le souhaite, tout comme il peut épargner les créatures végétales.
+Les dégâts infligés s’élèvent à 1d8 points de dégâts par [[NLS|niveau de lanceur de sorts]] (20d8 maximum). La moitié de ces dégâts sont des dégâts de feu, l’autre moitié des dégâts d’énergie divine qui ignorent les immunités et les résistances au feu. Le personnage peut épargner autant d’animaux qu’il le souhaite, tout comme il peut épargner les créatures végétales.
 
-**[Amplifié](./Amplifié.md) (8ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), il choisit un type de créatures (et un sous-type dans le cas d’humanoïdes ou d’extérieurs) qui seront épargnées par les effets du sort. Chaque utilisation de [pouvoir mythique](./pouvoir mythique.md) supplémentaire dépensée par le personnage lorsqu’il lance le sort lui permet d’épargner un type supplémentaire de créatures. Par exemple, s’il dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md) et choisit les créatures magiques, le personnage peut épargner un nombre quelconque de créatures magiques situées dans la zone d’effet du sort.
+**[[Amplifié]] (8ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], il choisit un type de créatures (et un sous-type dans le cas d’humanoïdes ou d’extérieurs) qui seront épargnées par les effets du sort. Chaque utilisation de [[pouvoir mythique]] supplémentaire dépensée par le personnage lorsqu’il lance le sort lui permet d’épargner un type supplémentaire de créatures. Par exemple, s’il dépense deux utilisations de [[pouvoir mythique]] et choisit les créatures magiques, le personnage peut épargner un nombre quelconque de créatures magiques situées dans la zone d’effet du sort.

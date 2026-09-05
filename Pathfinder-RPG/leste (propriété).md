@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Leste
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Leste](./Descriptions individuelles des propriétés spéciales des armes.md#Leste)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Leste]]

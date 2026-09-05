@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Immortalité
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Immortalité](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Immortalité)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Immortalité]]

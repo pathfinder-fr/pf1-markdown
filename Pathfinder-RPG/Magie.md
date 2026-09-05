@@ -5,22 +5,22 @@ LastModified: 2015-04-24 17:16
 ---
 
 ### Règles générales
-- [Lancer des sorts](./Lancer des sorts.md)
-- [Présentation des sorts](./Présentation des sorts.md)
-- [La magie profane](./Magie profane.md)
-- [La magie divine](./Magie divine.md)
-- [Les pouvoirs spéciaux](./Pouvoirs spéciaux.md)
+- [[Lancer des sorts]]
+- [[Présentation des sorts]]
+- [[Magie profane|La magie profane]]
+- [[Magie divine|La magie divine]]
+- [[Pouvoirs spéciaux|Les pouvoirs spéciaux]]
 
-### [Maîtriser la magie](./Maîtriser la magie.md)
-- [Les plaies](./Plaies.md) ([La description des plaies magiques](./Description des plaies magiques.md))
-- [Les duels de sorts](./Duels de sorts.md)
-- [Lier un extérieur](./Lier un extérieur.md)
-- [Les créatures artificielles](./Créatures artificielles.md)
-- [Les grimoires](./Grimoires.md)
-- [Créer un sort](./Créer un sort.md)
+### [[Maîtriser la magie]]
+- [[Plaies|Les plaies]] ([[Description des plaies magiques|La description des plaies magiques]])
+- [[Duels de sorts|Les duels de sorts]]
+- [[Lier un extérieur]]
+- [[Créatures artificielles|Les créatures artificielles]]
+- [[Grimoires|Les grimoires]]
+- [[Créer un sort]]
 
-### [Les mots de pouvoir](./Les mots de pouvoir.md)
-- [Mots cibles](./Mots cibles.md)
-- [Mots effets](./Mots effets.md)
-- [Méta mots](./Méta mots.md)</li>
-- [Liste des mots de pouvoirs par classe](./Liste des mots de pouvoirs par classe.md)
+### [[Les mots de pouvoir]]
+- [[Mots cibles]]
+- [[Mots effets]]
+- [[Méta mots]]</li>
+- [[Liste des mots de pouvoirs par classe]]

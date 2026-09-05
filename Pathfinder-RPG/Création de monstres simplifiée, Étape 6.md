@@ -6,20 +6,20 @@ Categories:
 - Src Pathfinder unchained
 ---
 
-{s:MenuPathfinderunchained}{s:PU}<nav class="wiki-toc"></nav>Cette étape ne concerne que les monstres utilisant la gamme de lanceur de sorts. Pour les monstres qui connaissent uniquement quelques sorts (plutôt que de se concentrer principalement sur l’incantation), choisissez une gamme différente et attribuez au monstre l’option universelle de magie secondaire lors de l’[Étape 7](./Création de monstres simplifiée, Étape 7.md).
+{s:MenuPathfinderunchained}{s:PU}<nav class="wiki-toc"></nav>Cette étape ne concerne que les monstres utilisant la gamme de lanceur de sorts. Pour les monstres qui connaissent uniquement quelques sorts (plutôt que de se concentrer principalement sur l’incantation), choisissez une gamme différente et attribuez au monstre l’option universelle de magie secondaire lors de l’[[Création de monstres simplifiée, Étape 7|Étape 7]].
 
-Le choix des sorts pour les monstres lanceurs de sorts est volontairement limité comparé à celui des [PNJ](./PNJ.md) normaux puisque les monstres créés avec le système de création de monstres simplifié sont conçus pour servir seulement le temps d’une bataille ou d’une session de jeu. Si un monstre ainsi créé apparaît dans plusieurs sessions, vous pouvez changer les sorts à chaque fois, tant qu’ils correspondent à la nature et au thème du monstre.
+Le choix des sorts pour les monstres lanceurs de sorts est volontairement limité comparé à celui des [[PNJ]] normaux puisque les monstres créés avec le système de création de monstres simplifié sont conçus pour servir seulement le temps d’une bataille ou d’une session de jeu. Si un monstre ainsi créé apparaît dans plusieurs sessions, vous pouvez changer les sorts à chaque fois, tant qu’ils correspondent à la nature et au thème du monstre.
 
 Les sorts que vous choisissez pour le monstre lors de cette étape représentent son arsenal magique total pour une rencontre. Si vous souhaitez traiter certains sorts comme des pouvoirs lancés grâce à des parchemins, des baguettes ou des bâtons, adaptez-les comme tels en cours de jeu. Quelle que soit leur source, les sorts supplémentaires sont toujours décomptés du nombre total de sorts que le monstre peut lancer.
 
-Vous remarquerez également que certains types de sorts n’apparaissent pas dans ces listes (notamment les sorts qui améliorent uniquement les statistiques, comme *[force de taureau](./Force de taureau.md)*, *[simulacre de vie](./Simulacre de vie.md)* et *[armure de mage](./Armure de mage.md)*) : c’est parce qu’on les lance souvent avant le combat et que le système de création de monstres simplifié part du principe que les effets de ces sorts ont déjà été intégrés aux statistiques de base du monstre.
+Vous remarquerez également que certains types de sorts n’apparaissent pas dans ces listes (notamment les sorts qui améliorent uniquement les statistiques, comme *[[force de taureau]]*, *[[simulacre de vie]]* et *[[armure de mage]]*) : c’est parce qu’on les lance souvent avant le combat et que le système de création de monstres simplifié part du principe que les effets de ces sorts ont déjà été intégrés aux statistiques de base du monstre.
 
-**DD des sorts.** Pour déterminer le [DD](./DD.md) des sorts que lance le monstre, ajoutez le niveau du sort au nombre indiqué dans la colonne « DD du sort » de la [gamme](./Création de monstres simplifiée, Étape 1.md) du monstre. Utilisez le niveau de sort de [prêtre](./Prêtre.md) ou de l’[ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) si plusieurs classes peuvent le lancer. Si aucune de ces classes ne possède le sort, utilisez le niveau de sort le plus haut indiqué dans la description du sort.
+**DD des sorts.** Pour déterminer le [[DD]] des sorts que lance le monstre, ajoutez le niveau du sort au nombre indiqué dans la colonne « DD du sort » de la [[Création de monstres simplifiée, Étape 1|gamme]] du monstre. Utilisez le niveau de sort de [[prêtre]] ou de l’[[ensorceleur]]/[[magicien]] si plusieurs classes peuvent le lancer. Si aucune de ces classes ne possède le sort, utilisez le niveau de sort le plus haut indiqué dans la description du sort.
 
 ### Choisir les sorts
 Le plus facile pour choisir les sorts d’un monstre consiste à sélectionner une liste de sorts, parmi celles présentées dans les listes suivantes, correspondant au mieux au thème du monstre en vous appuyant sur les options de ce chapitre. Une créature féerique possédant de puissants pouvoirs magiques pourra choisir ses sorts dans les listes des sorts d’enchantement, de fée, de nature ou de duperie. Un magicien dévoué au feu pourra choisir dans la liste des sorts de feu tandis qu’un transmutateur piochera sûrement dans la liste des sorts de transmutation et qu’un généraliste consultera la liste magique ou profane.
 
-Quand vous choisissez une liste de sorts, le monstre gagne les ensembles de sorts suivants, en fonction de la tranche de [FP](./FP.md) à laquelle il appartient (c’est-à-dire la tranche d’incantation à laquelle correspond son FP) :
+Quand vous choisissez une liste de sorts, le monstre gagne les ensembles de sorts suivants, en fonction de la tranche de [[FP]] à laquelle il appartient (c’est-à-dire la tranche d’incantation à laquelle correspond son FP) :
 - Les sorts principaux associés à la tranche de FP du monstre, utilisables une fois par jour. Ce sont les sorts de plus haut niveau du monstre.
 - Les sorts principaux et secondaires associés à la tranche de FP d’une catégorie inférieure à celle du monstre, utilisables trois fois par jour. Ils correspondent aux sorts les moins puissants du monstre.
 - Les sorts principaux associés à la tranche de FP de deux catégories inférieure à celle du monstre, utilisables à volonté. Ce sont les sorts de plus bas niveau du monstre.
@@ -32,7 +32,7 @@ Inscrivez les sorts et leur nombre d’utilisations quotidiennes. Pour les exemp
 
 Quand vous choisissez une liste de sorts, le monstre gagne automatiquement l’avantage indiqué au bas de la liste. Si vous décidez de créer votre propre liste de sorts, choisissez l’avantage qui correspond le mieux à votre monstre ou imaginez votre propre avantage pour le monstre.
 
-Par exemple, un monstre de [FP](./FP.md) 9 utilisant la liste des sorts aberrants gagne *[débilité](./Débilité.md)* et *[résistance à la magie](./sort résistance à la magie.md)* une fois par jour chacun (issus de la tranche de [FP](./FP.md) de 8 à 11) ; *[forme bestiale I](./Forme bestiale I.md)*, *[image accomplie](./Image accomplie.md)*, *[flèche acide](./Flèche acide.md)* et *[détection de l’invisibilité](./Détection de linvisibilité.md)* trois fois par jour chacun (pour la tranche de [FP](./FP.md) de 4 à 7) ; *[frayeur](./Frayeur.md)* et *[bras long](./Bras long.md)* à volonté (pour la tranche de [FP]] de 0 à 3). Il gagne également l’avantage de sa liste de sort, à savoir le pouvoir universel de monstre de [défense](./défense (capacité).md).
+Par exemple, un monstre de [[FP]] 9 utilisant la liste des sorts aberrants gagne *[[débilité]]* et *[[sort Résistance à la magie|résistance à la magie]]* une fois par jour chacun (issus de la tranche de [[FP]] de 8 à 11) ; *[[forme bestiale I]]*, *[[image accomplie]]*, *[[flèche acide]]* et *[[détection de linvisibilité|détection de l’invisibilité]]* trois fois par jour chacun (pour la tranche de [[FP]] de 4 à 7) ; *[[frayeur]]* et *[[bras long]]* à volonté (pour la tranche de [FP]] de 0 à 3). Il gagne également l’avantage de sa liste de sort, à savoir le pouvoir universel de monstre de [[défense (capacité)|défense]].
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -54,9 +54,9 @@ de sort
 |}
 </div></div>
 #### Choix de sorts détaillé
-Ces listes sont là pour vous faire gagner du temps lors du choix des sorts, mais vous pouvez aussi choisir vos sorts un à un, accordez au monstre des sorts secondaires à la place de sorts principaux (ce qui explique pourquoi la liste de sorts pour la tranche de [FP](./FP.md) 16+ indique également les sorts secondaires) ou les combiner et les associer comme vous l’entendez. Pour que votre monstre reste équilibré, ne déviez pas trop du nombre de sorts indiqué pour son niveau de puissance, mais vous pouvez quand même revoir ce nombre à la hausse ou à la baisse, dans les limites du raisonnable.
+Ces listes sont là pour vous faire gagner du temps lors du choix des sorts, mais vous pouvez aussi choisir vos sorts un à un, accordez au monstre des sorts secondaires à la place de sorts principaux (ce qui explique pourquoi la liste de sorts pour la tranche de [[FP]] 16+ indique également les sorts secondaires) ou les combiner et les associer comme vous l’entendez. Pour que votre monstre reste équilibré, ne déviez pas trop du nombre de sorts indiqué pour son niveau de puissance, mais vous pouvez quand même revoir ce nombre à la hausse ou à la baisse, dans les limites du raisonnable.
 
-Si vous souhaitez déterminer les sorts un à un, utilisez les niveaux de sorts du tableau suivant pour chaque tranche de [FP](./FP.md).
+Si vous souhaitez déterminer les sorts un à un, utilisez les niveaux de sorts du tableau suivant pour chaque tranche de [[FP]].
 
 ### Les listes de sorts
 Les listes qui suivent s’appuient sur différentes formes d’utilisation de la magie et correspondent également à des lignages, des domaines et d’autres thèmes magiques importants. Quand un monstre dispose d’une greffe de classe, utilisez la liste de sorts suggérée pour choisir les sorts du monstre.
@@ -68,17 +68,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Bras long](./Bras long.md)*, *[frayeur](./Frayeur.md)* || *[Hébétement](./Hébétement.md)*, *[image silencieuse](./Image silencieuse.md)*
+| 0-3 || *[[Bras long]]*, *[[frayeur]]* || *[[Hébétement]]*, *[[image silencieuse]]*
 |-
-| 4-7 || *[Forme bestiale I](./Forme bestiale I.md)*, *[image accomplie](./Image accomplie.md)* || *[Détection de l’invisibilité](./Détection de linvisibilité.md)*, *[flèche acide](./Flèche acide.md)*
+| 4-7 || *[[Forme bestiale I]]*, *[[image accomplie]]* || *[[Détection de linvisibilité|Détection de l’invisibilité]]*, *[[flèche acide]]*
 |-
-| 8-11 || *[Débilité](./Débilité.md)*, *[résistance à la magie](./sort résistance à la magie.md)* || *[Forme bestiale II](./Forme bestiale II.md)*, *[tentacules noirs](./Tentacules noirs.md)*
+| 8-11 || *[[Débilité]]*, *[[sort Résistance à la magie|résistance à la magie]]* || *[[Forme bestiale II]]*, *[[tentacules noirs]]*
 |-
-| 12-15 || *[Changement de plan](./Changement de plan.md)*, *[projection d’image](./Projection dimage.md)* || *[Forme bestiale IV](./Forme bestiale IV.md)*, *[voile](./Voile.md)*
+| 12-15 || *[[Changement de plan]]*, *[[projection dimage|projection d’image]]* || *[[Forme bestiale IV]]*, *[[voile]]*
 |-
-| 16+ || *[Changement de forme](./Changement de forme.md)*, *[prémonition](./Prémonition.md)* || *[Esprit impénétrable](./Esprit impénétrable.md)*, *[métamorphose universelle](./Métamorphose universelle.md)*
+| 16+ || *[[Changement de forme]]*, *[[prémonition]]* || *[[Esprit impénétrable]]*, *[[métamorphose universelle]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre bénéficie du pouvoir de monstre universel de [défense](./défense (capacité).md).
+| COLSPAN="3" | **Avantage.** Le monstre bénéficie du pouvoir de monstre universel de [[défense (capacité)|défense]].
 |}
 
 {s:Reference|Abyssaux}
@@ -87,17 +87,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Convocation de monstres I](./Convocation de monstres I.md)*, *[mains brûlantes](./Mains brûlantes.md)* || *[Frayeur](./Frayeur.md)*, *[protection contre le Bien](./Protection contre le Bien.md)* ou *[protection contre la Loi](./Protection contre la Loi.md)*
+| 0-3 || *[[Convocation de monstres I]]*, *[[mains brûlantes]]* || *[[Frayeur]]*, *[[protection contre le Bien]]* ou *[[protection contre la Loi]]*
 |-
-| 4-7 || *[Convocation de monstres III](./Convocation de monstres III.md)*, *[rage](./Rage.md)* || *[Effroi](./Effroi.md)*, *[modification d’apparence](./Modification dapparence.md)*
+| 4-7 || *[[Convocation de monstres III]]*, *[[rage]]* || *[[Effroi]]*, *[[modification dapparence|modification d’apparence]]*
 |-
-| 8-11 || *[Convocation de monstres V](./Convocation de monstres V.md)*, *[renvoi](./Renvoi.md)* || *[Marteau du Chaos](./Marteau du chaos.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*
+| 8-11 || *[[Convocation de monstres V]]*, *[[renvoi]]* || *[[Marteau du Chaos]]*, *[[porte dimensionnelle]]*
 |-
-| 12-15 || *[Convocation de monstres VI](./Convocation de monstres VI.md)*, *[parole du Chaos](./Parole du Chaos.md)* || *[Dissipation suprême](./Dissipation suprême.md)*, *[téléportation suprême](./Téléportation suprême.md)*
+| 12-15 || *[[Convocation de monstres VI]]*, *[[parole du Chaos]]* || *[[Dissipation suprême]]*, *[[téléportation suprême]]*
 |-
-| 16+ || *[Absorption d’énergie](./absorption dénergie.md)*, *[convocation de monstres IX](./Convocation de monstres IX.md)* || *[Aura maudite](./Aura maudite.md)*, *[manteau du Chaos](./Manteau du Chaos.md)*
+| 16+ || *[[Absorption dénergie|Absorption d’énergie]]*, *[[convocation de monstres IX]]* || *[[Aura maudite]]*, *[[manteau du Chaos]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Augmentez le modificateur de [Force](./Force.md) du monstre de 1. Au [FP](./FP.md) 13, augmentez-le de 2 à la place. Au [FP](./FP.md) 17, augmentez-le de 3 à la place.
+| COLSPAN="3" | **Avantage.** Augmentez le modificateur de [[Force]] du monstre de 1. Au [[FP]] 13, augmentez-le de 2 à la place. Au [[FP]] 17, augmentez-le de 3 à la place.
 |}
 
 {s:Reference|Célestes}
@@ -106,17 +106,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Bénédiction](./Bénédiction.md)*, *[faveur divine](./Faveur divine.md)* || *[Assistance divine](./Assistance divine.md)*, *[lumière](./Lumière.md)*
+| 0-3 || *[[Bénédiction]]*, *[[faveur divine]]* || *[[Assistance divine]]*, *[[lumière]]*
 |-
-| 4-7 || *[Cercle magique contre le Mal](./cercle magique contre le Mal.md)*, *[prière](./Prière.md)* || *[Résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, *[soins modérés](./Soins modérés.md)*
+| 4-7 || *[[Cercle magique contre le Mal]]*, *[[prière]]* || *[[Résistance aux énergies destructives]]*, *[[soins modérés]]*
 |-
-| 8-11 || *[Colonne de feu](./Colonne de feu.md)*, *[injonction suprême](./Injonction suprême.md)* || *[Bénédiction de ferveur](./Bénédiction de ferveur.md)*, *[châtiment sacré](./Châtiment sacré.md)*
+| 8-11 || *[[Colonne de feu]]*, *[[injonction suprême]]* || *[[Bénédiction de ferveur]]*, *[[châtiment sacré]]*
 |-
-| 12-15 || *[Bannissement](./Bannissement.md)*, *[parole sacrée](./Parole sacrée.md)* || *[Colonne de feu](./Colonne de feu.md)* à [extension d’effet](./Extension deffet.md), *[dissipation suprême](./Dissipation suprême.md)*
+| 12-15 || *[[Bannissement]]*, *[[parole sacrée]]* || *[[Colonne de feu]]* à [[Extension deffet|extension d’effet]], *[[dissipation suprême]]*
 |-
-| 16+ || *[Colonne de feu](./Colonne de feu.md)* à [incantation rapide](./Incantation rapide.md), *[portail](./Portail.md)* || *[Aura sacrée](./Aura sacrée.md)*, *[explosion de lumière](./Explosion de lumière.md)*
+| 16+ || *[[Colonne de feu]]* à [[incantation rapide]], *[[portail]]* || *[[Aura sacrée]]*, *[[explosion de lumière]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne résistance 5 à l’acide et au froid. Au [FP](./FP.md) 12, ces résistances passent à 10.
+| COLSPAN="3" | **Avantage.** Le monstre gagne résistance 5 à l’acide et au froid. Au [[FP]] 12, ces résistances passent à 10.
 |}
 
 {s:Reference|Abjuration}
@@ -125,17 +125,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Endurance aux énergies destructives](./Endurance aux énergies destructives.md)*, *[protection contre le Chaos](./Protection contre le Chaos.md)/[le Mal](./Protection contre le Mal.md)/[le Bien](./Protection contre le Bien.md)/[la Loi](./Protection contre la Loi.md)* || *[Alarme](./Alarme.md)*, *[verrouillage](./Verrouillage.md)*
+| 0-3 || *[[Endurance aux énergies destructives]]*, *[[protection contre le Chaos]]/[[protection contre le Mal|le Mal]]/[[protection contre le Bien|le Bien]]/[[protection contre la Loi|la Loi]]* || *[[Alarme]]*, *[[verrouillage]]*
 |-
-| 4-7 || *[Antidétection](./Antidétection.md)*, *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)* || *[Dissipation de la magie](./Dissipation de la magie.md)*, *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*
+| 4-7 || *[[Antidétection]]*, *[[protection contre les énergies destructives]]* || *[[Dissipation de la magie]]*, *[[résistance aux énergies destructives]]*
 |-
-| 8-11 || *[Peau de pierre](./Peau de pierre.md)*, *[renvoi](./Renvoi.md)* || *[Ancre dimensionnelle](./Ancre dimensionnelle.md)*, *[globe d’invulnérabilité partielle](./Globe dinvulnérabilité partielle.md)*
+| 8-11 || *[[Peau de pierre]]*, *[[renvoi]]* || *[[Ancre dimensionnelle]]*, *[[globe dinvulnérabilité partielle|globe d’invulnérabilité partielle]]*
 |-
-| 12-15 || *[Bannissement](./Bannissement.md)*, *[zone d’antimagie](./Zone dantimagie.md)* || *[Dissipation suprême](./Dissipation suprême.md)*, *[globe d’invulnérabilité renforcée](./Globe dinvulnérabilité renforcée.md)*
+| 12-15 || *[[Bannissement]]*, *[[zone dantimagie|zone d’antimagie]]* || *[[Dissipation suprême]]*, *[[globe dinvulnérabilité renforcée|globe d’invulnérabilité renforcée]]*
 |-
-| 16+ || *[Disjonction](./Disjonction.md)*, *[sphère prismatique](./Sphère prismatique.md)* || *[Mur prismatique](./Mur prismatique.md)*, *[protection contre les sorts](./Protection contre les sorts.md)*
+| 16+ || *[[Disjonction]]*, *[[sphère prismatique]]* || *[[Mur prismatique]]*, *[[protection contre les sorts]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Choisissez un type d’énergie. Le monstre gagne résistance 5 face à ce type de dégâts. Au [FP](./FP.md) 12, passez cette résistance à 10. Au [FP](./FP.md) 16, passez-la à 20.
+| COLSPAN="3" | **Avantage.** Choisissez un type d’énergie. Le monstre gagne résistance 5 face à ce type de dégâts. Au [[FP]] 12, passez cette résistance à 10. Au [[FP]] 16, passez-la à 20.
 |}
 
 {s:Reference|Acide}
@@ -144,17 +144,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Brume de dissimulation](./Brume de dissimulation.md)*, *[contact corrosif](./contact corrosif.md)* || *[Aspersion acide](./Aspersion acide.md)*, *[frayeur](./Frayeur.md)*
+| 0-3 || *[[Brume de dissimulation]]*, *[[contact corrosif]]* || *[[Aspersion acide]]*, *[[frayeur]]*
 |-
-| 4-7 || *[Contact corrosif](./contact corrosif.md)* à [extension d’effet](./Extension deffet.md), *[protection contre les énergies destructives](./Protection contre les énergies destructives.md) (acide uniquement)* || *[Flèche acide](./Flèche acide.md)*, *[résistance aux énergies destructives](./Résistance aux énergies destructives.md) (acide uniquement)*
+| 4-7 || *[[Contact corrosif]]* à [[Extension deffet|extension d’effet]], *[[protection contre les énergies destructives]] (acide uniquement)* || *[[Flèche acide]]*, *[[résistance aux énergies destructives]] (acide uniquement)*
 |-
-| 8-11 || *[Corrosion](./Corrosion.md)*, *[jet d’acide](./Jet dacide.md)* || *[Rouille](./Rouille.md)*, *[transmutation de la pierre en boue](./Transmutation de la pierre en boue.md)*
+| 8-11 || *[[Corrosion]]*, *[[jet dacide|jet d’acide]]* || *[[Rouille]]*, *[[transmutation de la pierre en boue]]*
 |-
-| 12-15 || *[Brume acide](./Brume acide.md)* à [extension de zone d'effet](./Extension de zone deffet.md), *[éruption caustique](./Éruption caustique.md)* || *[Brume acide](./Brume acide.md)*, *[flèche acide](./Flèche acide.md)* à [incantation rapide](./Incantation rapide.md)
+| 12-15 || *[[Brume acide]]* à [[Extension de zone deffet|extension de zone d'effet]], *[[éruption caustique]]* || *[[Brume acide]]*, *[[flèche acide]]* à [[incantation rapide]]
 |-
-| 16+ || *[Éruption caustique](./Éruption caustique.md)* à [extension d’effet](./Extension deffet.md), *[forme draconique III](./Forme draconique III.md) (noir uniquement)* || *[Jet d’acide](./Jet dacide.md)* sous [quintessence des sorts](./Quintessence des sorts.md), *[tempête vengeresse](./Tempête vengeresse.md)*
+| 16+ || *[[Éruption caustique]]* à [[Extension deffet|extension d’effet]], *[[forme draconique III]] (noir uniquement)* || *[[Jet dacide|Jet d’acide]]* sous [[quintessence des sorts]], *[[tempête vengeresse]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne résistance à l’acide 5. Au [FP](./FP.md) 12, cette résistance passe à 10. Au [FP](./FP.md) 16, le monstre est immunisé contre l’acide.
+| COLSPAN="3" | **Avantage.** Le monstre gagne résistance à l’acide 5. Au [[FP]] 12, cette résistance passe à 10. Au [[FP]] 16, le monstre est immunisé contre l’acide.
 |}
 
 {s:Reference|Air}
@@ -163,15 +163,15 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Brume de dissimulation](./Brume de dissimulation.md)*, *[saut](./Saut.md)* || *[Feuille morte](./Feuille morte.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*
+| 0-3 || *[[Brume de dissimulation]]*, *[[saut]]* || *[[Feuille morte]]*, *[[ouverturefermeture|ouverture/fermeture]]*
 |-
-| 4-7 || *[État gazeux](./État gazeux.md)*, *[mur de vent](./Mur de vent.md)* || *[Bourrasque](./Bourrasque.md)*, *[vol](./sort Vol.md)*
+| 4-7 || *[[État gazeux]]*, *[[mur de vent]]* || *[[Bourrasque]]*, *[[sort Vol|vol]]*
 |-
-| 8-11 || *[Contrôle des vents](./Contrôle des vents.md)*, *[vol supérieur](./Vol supérieur.md)* || *[Marche dans les airs](./Marche dans les airs.md)*, *[mur de vent](./Mur de vent.md)* à [extension de durée](./Extension de durée.md)
+| 8-11 || *[[Contrôle des vents]]*, *[[vol supérieur]]* || *[[Marche dans les airs]]*, *[[mur de vent]]* à [[extension de durée]]
 |-
-| 12-15 || *[Contrôle du climat](./Contrôle du climat.md)*, *[corps élémentaire IV](./Corps élémentaire IV.md) (air uniquement)* || *[Éclair multiple](./Éclair multiple.md)*, *[inversion de la gravité](./Inversion de la gravité.md)*
+| 12-15 || *[[Contrôle du climat]]*, *[[corps élémentaire IV]] (air uniquement)* || *[[Éclair multiple]]*, *[[inversion de la gravité]]*
 |-
-| 16+ || *[Nuée d’élémentaires](./Nuée délémentaires.md) (air uniquement)*, *[vents de la vengeance](./Vents de la vengeance.md)* || *[Cyclone](./Cyclone.md)*, *[éclair multiple](./Éclair multiple.md)* à [extension d’effet](./Extension deffet.md)
+| 16+ || *[[Nuée délémentaires|Nuée d’élémentaires]] (air uniquement)*, *[[vents de la vengeance]]* || *[[Cyclone]]*, *[[éclair multiple]]* à [[Extension deffet|extension d’effet]]
 |- CLASS="premier"
 | COLSPAN="3" | **Avantage.** Augmentez la vitesse de déplacement du monstre de 3 mètres.
 |}
@@ -182,17 +182,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Coup au but](./Coup au but.md)*, *[repli expéditif](./Repli expéditif.md)* || *[Charge de fourmi](./Charge de fourmi.md)*, *[saut](./Saut.md)*
+| 0-3 || *[[Coup au but]]*, *[[repli expéditif]]* || *[[Charge de fourmi]]*, *[[saut]]*
 |-
-| 4-7 || *[Déplacement](./Déplacement.md)*, *[vol](./sort Vol.md)* || *[Invisibilité](./Invisibilité.md)*, *[vomir une nuée](./Vomir une nuée.md)*
+| 4-7 || *[[Déplacement]]*, *[[sort Vol|vol]]* || *[[Invisibilité]]*, *[[vomir une nuée]]*
 |-
-| 8-11 || *[Possession](./Possession.md)*, *[vol supérieur](./Vol supérieur.md)* || *[Peau de pierre](./Peau de pierre.md)*, *[souffle de dragon](./Souffle de dragon.md)*
+| 8-11 || *[[Possession]]*, *[[vol supérieur]]* || *[[Peau de pierre]]*, *[[souffle de dragon]]*
 |-
-| 12-15 || *[Jumeau](./Jumeau.md)*, *[mauvais oeil](./mauvais-oeil.md)* || *[Guérison suprême](./Guérison suprême.md)*, *[vision lucide](./Vision lucide.md)*
+| 12-15 || *[[Jumeau]]*, *[[mauvais oeil]]* || *[[Guérison suprême]]*, *[[vision lucide]]*
 |-
-| 16+ || *[Changement de forme](./Changement de forme.md)*, *[corps enflammé](./Corps enflammé.md)* || *[Clone](./Clone.md)*, *[simulacre](./Simulacre.md)*
+| 16+ || *[[Changement de forme]]*, *[[corps enflammé]]* || *[[Clone]]*, *[[simulacre]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +2 aux [jets de sauvegarde](./JDS.md) contre la maladie et le poison.
+| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +2 aux [[jds|jets de sauvegarde]] contre la maladie et le poison.
 |}
 
 {s:Reference|Animal}
@@ -201,17 +201,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Convocation d’alliés naturels I](./Convocation dalliés naturels I.md)*, *[immobilisation d’animal](./Immobilisation danimal.md)* || *[Charme-animal](./Charme-animal.md)*, *[invisibilité pour les animaux](./Invisibilité pour les animaux.md)*
+| 0-3 || *[[Convocation dalliés naturels I|Convocation d’alliés naturels I]]*, *[[immobilisation danimal|immobilisation d’animal]]* || *[[Charme-animal]]*, *[[invisibilité pour les animaux]]*
 |-
-| 4-7 || *[Domination d’animal](./Domination danimal.md)*, *[morsure magique suprême](./Morsure magique suprême.md)* || *[Communication avec les animaux](./Communication avec les animaux.md)*, *[forme bestiale I](./Forme bestiale I.md) (animaux uniquement)*
+| 4-7 || *[[Domination danimal|Domination d’animal]]*, *[[morsure magique suprême]]* || *[[Communication avec les animaux]]*, *[[forme bestiale I]] (animaux uniquement)*
 |-
-| 8-11 || *[Croissance animale](./Croissance animale.md)*, *[fléau d’insectes](./Fléau dinsectes.md)* || *[Localisation de créature](./Localisation de créature.md)*, *[vermine géante](./Vermine géante.md)*
+| 8-11 || *[[Croissance animale]]*, *[[fléau dinsectes|fléau d’insectes]]* || *[[Localisation de créature]]*, *[[vermine géante]]*
 |-
-| 12-15 || *[Convocation d’alliés naturels VII](./Convocation dalliés naturels VII.md)*, *[coquille antivie](./Coquille antivie.md)* || *[Forme bestiale IV](./Forme bestiale IV.md) (animaux uniquement)*, *[soins légers de groupe](./Soins légers de groupe.md)*
+| 12-15 || *[[Convocation dalliés naturels VII|Convocation d’alliés naturels VII]]*, *[[coquille antivie]]* || *[[Forme bestiale IV]] (animaux uniquement)*, *[[soins légers de groupe]]*
 |-
-| 16+ || *[Changement de forme](./Changement de forme.md)*, *[fléau d’insectes](./Fléau dinsectes.md)* à [incantation rapide](./Incantation rapide.md) || *[Convocation d’alliés naturels VII](./Convocation dalliés naturels VII.md) (animaux uniquement)*, *[forme animale](./Forme animale.md)*
+| 16+ || *[[Changement de forme]]*, *[[fléau dinsectes|fléau d’insectes]]* à [[incantation rapide]] || *[[Convocation dalliés naturels VII|Convocation d’alliés naturels VII]] (animaux uniquement)*, *[[forme animale]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Les alliés animaux situés dans un rayon de 6 mètres gagnent un bonus de chance de +1 aux [jets d’attaque](./jet dattaque.md).
+| COLSPAN="3" | **Avantage.** Les alliés animaux situés dans un rayon de 6 mètres gagnent un bonus de chance de +1 aux [[jet dattaque|jets d’attaque]].
 |}
 
 {s:Reference|Artisanat}
@@ -220,17 +220,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Corde enchantée](./Corde enchantée.md)*, *[pierre magique](./Pierre magique.md)* || *[Disque flottant](./Disque flottant.md)*, *[réparation](./Réparation.md)*
+| 0-3 || *[[Corde enchantée]]*, *[[pierre magique]]* || *[[Disque flottant]]*, *[[réparation]]*
 |-
-| 4-7 || *[Abri](./abri.md)*, *[façonnage de la pierre](./Façonnage de la pierre.md)* || *[Façonnage du bois](./Façonnage du bois.md)*, *[réparation intégrale](./Réparation intégrale.md)*
+| 4-7 || *[[Abri]]*, *[[façonnage de la pierre]]* || *[[Façonnage du bois]]*, *[[réparation intégrale]]*
 |-
-| 8-11 || *[Création majeure](./Création majeure.md)*, *[mur de pierre](./Mur de pierre.md)* || *[Création mineure](./Création mineure.md)*, *[fabrication](./Fabrication.md)*
+| 8-11 || *[[Création majeure]]*, *[[mur de pierre]]* || *[[Création mineure]]*, *[[fabrication]]*
 |-
-| 12-15 || *[Mur de fer](./Mur de fer.md)*, *[souhait limité](./Souhait limité.md)* || *[Animation d’objets](./Animation dobjets.md)*, *[pétrification](./Pétrification.md)*
+| 12-15 || *[[Mur de fer]]*, *[[souhait limité]]* || *[[Animation dobjets|Animation d’objets]]*, *[[pétrification]]*
 |-
-| 16+ || *[Main broyeuse](./Main broyeuse.md)*, *[sphère prismatique](./Sphère prismatique.md)* || *[Corps de fer](./Corps de fer.md)*, *[métamorphose universelle](./Métamorphose universelle.md)*
+| 16+ || *[[Main broyeuse]]*, *[[sphère prismatique]]* || *[[Corps de fer]]*, *[[métamorphose universelle]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Quand le monstre lance un sort de cette liste, il gagne un bonus de parade à la [CA](./CA.md) égal au niveau du sort pendant 1 [round](./round.md).
+| COLSPAN="3" | **Avantage.** Quand le monstre lance un sort de cette liste, il gagne un bonus de parade à la [[CA]] égal au niveau du sort pendant 1 [[round]].
 |}
 
 {s:Reference|Eau}
@@ -239,17 +239,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Poussée hydraulique](./Poussée hydraulique.md)*, *[brume de dissimulation](./Brume de dissimulation.md)* || *[Rayon de givre](./Rayon de givre.md)*, *[caresse de la mer](./Caresse de la mer.md)*
+| 0-3 || *[[Poussée hydraulique]]*, *[[brume de dissimulation]]* || *[[Rayon de givre]]*, *[[caresse de la mer]]*
 |-
-| 4-7 || *[État gazeux](./État gazeux.md)*, *[nuage nauséabond](./Nuage nauséabond.md)* || *[Métal gelé](./Métal gelé.md)*, *[nappe de brouillard](./Nappe de brouillard.md)*
+| 4-7 || *[[État gazeux]]*, *[[nuage nauséabond]]* || *[[Métal gelé]]*, *[[nappe de brouillard]]*
 |-
-| 8-11 || *[Cône de froid](./Cône de froid.md)*, *[mur de glace](./Mur de glace.md)* || *[Tempête de grêle](./Tempête de grêle.md)*, *[brouillard dense](./Brouillard dense.md)*
+| 8-11 || *[[Cône de froid]]*, *[[mur de glace]]* || *[[Tempête de grêle]]*, *[[brouillard dense]]*
 |-
-| 12-15 || *[Contrôle du climat](./Contrôle du climat.md)*, *[corps élémentaire IV](./Corps élémentaire IV.md) (eau uniquement)* || *[Forme liquide](./Forme liquide.md)*, *[sphère glaciale](./Sphère glaciale.md)*
+| 12-15 || *[[Contrôle du climat]]*, *[[corps élémentaire IV]] (eau uniquement)* || *[[Forme liquide]]*, *[[sphère glaciale]]*
 |-
-| 16+ || *[Nuée d’élémentaires](./Nuée délémentaires.md) (eau uniquement)*, *[tempête vengeresse](./Tempête vengeresse.md)* || *[Flétrissure](./Flétrissure.md)*, *[convocation d’alliés naturels VIII](./Convocation dalliés naturels VIII.md)*
+| 16+ || *[[Nuée délémentaires|Nuée d’élémentaires]] (eau uniquement)*, *[[tempête vengeresse]]* || *[[Flétrissure]]*, *[[convocation dalliés naturels VIII|convocation d’alliés naturels VIII]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne résistance au froid 5. Au [FP](./FP.md) 12, passez cette résistance à 10. Au [FP](./FP.md) 16, le monstre est immunisé contre le froid.
+| COLSPAN="3" | **Avantage.** Le monstre gagne résistance au froid 5. Au [[FP]] 12, passez cette résistance à 10. Au [[FP]] 16, le monstre est immunisé contre le froid.
 |}
 
 {s:Reference|Électricité}
@@ -258,17 +258,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Repli expéditif](./Repli expéditif.md)*, *[décharge électrique](./Décharge électrique.md)* || *[Illumination](./Illumination.md)*, *[brume de dissimulation](./Brume de dissimulation.md)*
+| 0-3 || *[[Repli expéditif]]*, *[[décharge électrique]]* || *[[Illumination]]*, *[[brume de dissimulation]]*
 |-
-| 4-7 || *[Appel de la foudre](./Appel de la foudre.md)*, *[éclair](./Éclair.md)* || *[Caresse élémentaire](./Caresse élémentaire.md) (électricité uniquement)*, *[aura élémentaire](./Aura élémentaire.md) (électricité uniquement)*
+| 4-7 || *[[Appel de la foudre]]*, *[[éclair]]* || *[[Caresse élémentaire]] (électricité uniquement)*, *[[aura élémentaire]] (électricité uniquement)*
 |-
-| 8-11 || *[Appel de la tempête](./Appel de la tempête.md)*, *[éclair](./Éclair.md)* à [extension d’effet](./Extension deffet.md) || *[Boule de foudre](./Boule de foudre.md)*, *[souffle de dragon](./Souffle de dragon.md) (électricité uniquement)*
+| 8-11 || *[[Appel de la tempête]]*, *[[éclair]]* à [[Extension deffet|extension d’effet]] || *[[Boule de foudre]]*, *[[souffle de dragon]] (électricité uniquement)*
 |-
-| 12-15 || *[Éclair multiple](./Éclair multiple.md)*, *[éclair](./Éclair.md)* à [incantation rapide](./Incantation rapide.md) || *[Contrôle du climat](./Contrôle du climat.md)*, *[forme draconique II](./Forme draconique II.md) (bleu ou bronze uniquement)*
+| 12-15 || *[[Éclair multiple]]*, *[[éclair]]* à [[incantation rapide]] || *[[Contrôle du climat]]*, *[[forme draconique II]] (bleu ou bronze uniquement)*
 |-
-| 16+ || *[Éclair multiple](./Éclair multiple.md)* à [extension d’effet](./Extension deffet.md), *[éclair](./Éclair.md)* à [extension d’effet](./Extension deffet.md) et [incantation rapide](./Incantation rapide.md) || *[Forme draconique III](./Forme draconique III.md) (bleu ou bronze uniquement)*, *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*
+| 16+ || *[[Éclair multiple]]* à [[Extension deffet|extension d’effet]], *[[éclair]]* à [[Extension deffet|extension d’effet]] et [[incantation rapide]] || *[[Forme draconique III]] (bleu ou bronze uniquement)*, *[[mot de pouvoir étourdissant]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne résistance à l’électricité 5. Au [FP](./FP.md) 12, augmentez cette résistance à 10. Au [FP](./FP.md) 16, le monstre est immunisé contre l’électricité.
+| COLSPAN="3" | **Avantage.** Le monstre gagne résistance à l’électricité 5. Au [[FP]] 12, augmentez cette résistance à 10. Au [[FP]] 16, le monstre est immunisé contre l’électricité.
 |}
 
 {s:Reference|Enchantement}
@@ -277,17 +277,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Charme-personne](./Charme-personne.md)*, *[sommeil](./Sommeil.md)* || *[Hébétement](./Hébétement.md)*, *[hypnose](./Hypnose.md)*
+| 0-3 || *[[Charme-personne]]*, *[[sommeil]]* || *[[Hébétement]]*, *[[hypnose]]*
 |-
-| 4-7 || *[Fou rire](./Fou rire.md)*, *[immobilisation de personne](./Immobilisation de personne.md)* || *[Suggestion](./Suggestion.md)*, *[idiotie](./Idiotie.md)*
+| 4-7 || *[[Fou rire]]*, *[[immobilisation de personne]]* || *[[Suggestion]]*, *[[idiotie]]*
 |-
-| 8-11 || *[Domination](./Domination.md)*, *[débilité](./Débilité.md)* || *[Charme-monstre](./Charme-monstre.md)*, *[confusion](./Confusion.md)*
+| 8-11 || *[[Domination]]*, *[[débilité]]* || *[[Charme-monstre]]*, *[[confusion]]*
 |-
-| 12-15 || *[Aliénation mentale](./Aliénation mentale.md)*, *[suggestion de groupe](./Suggestion de groupe.md)* || *[Immobilisation de personne de groupe](./Immobilisation de personne de groupe.md)*, *[mot de pouvoir aveuglant](./Mot de pouvoir aveuglant.md)*
+| 12-15 || *[[Aliénation mentale]]*, *[[suggestion de groupe]]* || *[[Immobilisation de personne de groupe]]*, *[[mot de pouvoir aveuglant]]*
 |-
-| 16+ || *[Danse irrésistible](./Danse irrésistible.md)*, *[mot de pouvoir mortel](./Mot de pouvoir mortel.md)* || *[Entrave](./Entrave.md)*, *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*
+| 16+ || *[[Danse irrésistible]]*, *[[mot de pouvoir mortel]]* || *[[Entrave]]*, *[[mot de pouvoir étourdissant]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne [Bluff](./Bluff.md) ou [Diplomatie](./Diplomatie.md) comme compétence maîtrisée supplémentaire.
+| COLSPAN="3" | **Avantage.** Le monstre gagne [[Bluff]] ou [[Diplomatie]] comme compétence maîtrisée supplémentaire.
 |}
 
 {s:Reference|Évocation}
@@ -296,17 +296,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Mains brûlantes](./Mains brûlantes.md)*, *[projectile magique](./Projectile magique.md)* || *[Lumière](./Lumière.md)*, *[rayon de givre](./Rayon de givre.md)*
+| 0-3 || *[[Mains brûlantes]]*, *[[projectile magique]]* || *[[Lumière]]*, *[[rayon de givre]]*
 |-
-| 4-7 || *[Boule de feu](./Boule de feu.md)*, *[éclair](./Éclair.md)* || *[Fracassement](./Fracassement.md)*, *[rayon ardent](./Rayon ardent.md)*
+| 4-7 || *[[Boule de feu]]*, *[[éclair]]* || *[[Fracassement]]*, *[[rayon ardent]]*
 |-
-| 8-11 || *[Boule de feu](./Boule de feu.md)* à [extension d’effet](./Extension deffet.md), *[cône de froid](./Cône de froid.md)* || *[Mur de feu](./Mur de feu.md)*, *[tempête de grêle](./Tempête de grêle.md)*
+| 8-11 || *[[Boule de feu]]* à [[Extension deffet|extension d’effet]], *[[cône de froid]]* || *[[Mur de feu]]*, *[[tempête de grêle]]*
 |-
-| 12-15 || *[Boule de feu à retardement](./Boule de feu à retardement.md)*, *[boule de feu](./Boule de feu.md)* à [incantation rapide](./Incantation rapide.md) || *[Éclair multiple](./Éclair multiple.md)*, *[éclair](./Éclair.md)* sous [quintessence des sorts](./Quintessence des sorts.md)
+| 12-15 || *[[Boule de feu à retardement]]*, *[[boule de feu]]* à [[incantation rapide]] || *[[Éclair multiple]]*, *[[éclair]]* sous [[quintessence des sorts]]
 |-
-| 16+ || *[Tempête de grêle](./Tempête de grêle.md)* à [incantation rapide](./Incantation rapide.md), *[nuée de météores](./Nuée de météores.md)* || *[Rayon polaire](./Rayon polaire.md)*, *[explosion de lumière](./Explosion de lumière.md)*
+| 16+ || *[[Tempête de grêle]]* à [[incantation rapide]], *[[nuée de météores]]* || *[[Rayon polaire]]*, *[[explosion de lumière]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre rajoute la moitié de son [FP](./FP.md) aux dégâts qu’il inflige avec ses sorts d’évocation.
+| COLSPAN="3" | **Avantage.** Le monstre rajoute la moitié de son [[FP]] aux dégâts qu’il inflige avec ses sorts d’évocation.
 |}
 
 {s:Reference|Illusion}
@@ -315,17 +315,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Couleurs dansantes](./Couleurs dansantes.md)*, *[image silencieuse](./Image silencieuse.md)* || *[Déguisement](./Déguisement.md)*, *[son imaginaire](./Son imaginaire.md)*
+| 0-3 || *[[Couleurs dansantes]]*, *[[image silencieuse]]* || *[[Déguisement]]*, *[[son imaginaire]]*
 |-
-| 4-7 || *[Déplacement](./Déplacement.md)*, *[image accomplie](./Image accomplie.md)* || *[Invisibilité](./Invisibilité.md)*, *[image imparfaite](./Image imparfaite.md)*
+| 4-7 || *[[Déplacement]]*, *[[image accomplie]]* || *[[Invisibilité]]*, *[[image imparfaite]]*
 |-
-| 8-11 || *[Mirage](./mirage.md)*, *[image prédéterminée](./Image prédéterminée.md)* || *[Invisibilité suprême](./Invisibilité suprême.md)*, *[assassin imaginaire](./Assassin imaginaire.md)*
+| 8-11 || *[[Mirage]]*, *[[image prédéterminée]]* || *[[Invisibilité suprême]]*, *[[assassin imaginaire]]*
 |-
-| 12-15 || *[Déplacement](./Déplacement.md)* à [incantation rapide](./Incantation rapide.md), *[invisibilité de groupe](./Invisibilité de groupe.md)* || *[Traversée des ombres](./Traversée des ombres.md)*, *[voile](./Voile.md)*
+| 12-15 || *[[Déplacement]]* à [[incantation rapide]], *[[invisibilité de groupe]]* || *[[Traversée des ombres]]*, *[[voile]]*
 |-
-| 16+ || *[Reflets d’ombre](./Reflets dombre.md)*, *[ennemi subconscient](./Ennemi subconscient.md)* || *[Magie des ombres suprême](./Magie des ombres suprême.md)*, *[motif scintillant](./Motif scintillant.md)*
+| 16+ || *[[Reflets dombre|Reflets d’ombre]]*, *[[ennemi subconscient]]* || *[[Magie des ombres suprême]]*, *[[motif scintillant]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Augmentez de 1 le [DD](./DD.md) des [jets de sauvegarde](./JDS.md) de tous les sorts d’illusion que lance le monstre.
+| COLSPAN="3" | **Avantage.** Augmentez de 1 le [[DD]] des [[jds|jets de sauvegarde]] de tous les sorts d’illusion que lance le monstre.
 |}
 
 {s:Reference|Invocation}
@@ -334,17 +334,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Convocation de monstres I](./Convocation de monstres I.md)*, *[graisse](./Graisse.md)* || *[Aspersion acide](./Aspersion acide.md)*, *[assistance divine](./Assistance divine.md)*
+| 0-3 || *[[Convocation de monstres I]]*, *[[graisse]]* || *[[Aspersion acide]]*, *[[assistance divine]]*
 |-
-| 4-7 || *[Convocation de monstres III](./Convocation de monstres III.md)*, *[nuage nauséabond](./Nuage nauséabond.md)* || *[Convocation de monstres II](./Convocation de monstres II.md)*, *[flèche acide](./Flèche acide.md)*
+| 4-7 || *[[Convocation de monstres III]]*, *[[nuage nauséabond]]* || *[[Convocation de monstres II]]*, *[[flèche acide]]*
 |-
-| 8-11 || *[Convocation de monstres V](./Convocation de monstres V.md)*, *[téléportation](./téléportation.md)* || *[Convocation de monstres IV](./Convocation de monstres IV.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*
+| 8-11 || *[[Convocation de monstres V]]*, *[[téléportation]]* || *[[Convocation de monstres IV]]*, *[[porte dimensionnelle]]*
 |-
-| 12-15 || *[Convocation de monstres VII](./Convocation de monstres VII.md)*, *[téléportation suprême](./Téléportation suprême.md)* || *[Brume acide](./Brume acide.md)*, *[convocation de monstres VI](./Convocation de monstres VI.md)*
+| 12-15 || *[[Convocation de monstres VII]]*, *[[téléportation suprême]]* || *[[Brume acide]]*, *[[convocation de monstres VI]]*
 |-
-| 16+ || *[Convocation de monstres IX](./Convocation de monstres IX.md)*, *[portail](./Portail.md)* || *[Convocation de monstres VIII](./Convocation de monstres VIII.md)*, *[nuage incendiaire](./Nuage incendiaire.md)*
+| 16+ || *[[Convocation de monstres IX]]*, *[[portail]]* || *[[Convocation de monstres VIII]]*, *[[nuage incendiaire]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre double la durée de tous les sorts d’[invocation (convocation)](./branche convocation.md) qu’il lance.
+| COLSPAN="3" | **Avantage.** Le monstre double la durée de tous les sorts d’[[branche convocation|invocation (convocation)]] qu’il lance.
 |}
 
 {s:Reference|Obscurité}
@@ -353,17 +353,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[brume de dissimulation](./Brume de dissimulation.md)*, *[frayeur](./Frayeur.md)* || *[hébétement](./Hébétement.md)*, *[image silencieuse](./Image silencieuse.md)*
+| 0-3 || *[[brume de dissimulation]]*, *[[frayeur]]* || *[[hébétement]]*, *[[image silencieuse]]*
 |-
-| 4-7 || *[déplacement](./Déplacement.md)*, *[ténèbres profondes](./Ténèbres profondes.md)* || *[cécité/surdité](./Cécitésurdité.md) (uniquement pour cécité)*, *[ténèbres](./Ténèbres.md)*
+| 4-7 || *[[déplacement]]*, *[[ténèbres profondes]]* || *[[cécitésurdité|cécité/surdité]] (uniquement pour cécité)*, *[[ténèbres]]*
 |-
-| 8-11 || *[convocation de monstres V](./Convocation de monstres V.md) (1d3 [ombres](./Ombre.md))*, *[magie des ombres](./Magie des ombres.md)* || *[convocation d’ombres](./Convocation dombres.md)*, *[tentacules noirs](./Tentacules noirs.md)*
+| 8-11 || *[[convocation de monstres V]] (1d3 [[Ombre|ombres]])*, *[[magie des ombres]]* || *[[convocation dombres|convocation d’ombres]]*, *[[tentacules noirs]]*
 |-
-| 12-15 || *[convocation d’ombres suprême](./Convocation dombres suprême.md)*, *[mot de pouvoir aveuglant](./Mot de pouvoir aveuglant.md)* || *[ténèbres](./Ténèbres.md)* à [incantation rapide](./Incantation rapide.md), *[traversée des ombres](./Traversée des ombres.md)*
+| 12-15 || *[[convocation dombres suprême|convocation d’ombres suprême]]*, *[[mot de pouvoir aveuglant]]* || *[[ténèbres]]* à [[incantation rapide]], *[[traversée des ombres]]*
 |-
-| 16+ || *[absorption d’énergie](./absorption dénergie.md)*, *[reflets d’ombre](./Reflets dombre.md)* || *[magie des ombres suprême](./Magie des ombres suprême.md)*, *[magie des ombres](./Magie des ombres.md)* sous [quintessence des sorts](./Quintessence des sorts.md)
+| 16+ || *[[absorption dénergie|absorption d’énergie]]*, *[[reflets dombre|reflets d’ombre]]* || *[[magie des ombres suprême]]*, *[[magie des ombres]]* sous [[quintessence des sorts]]
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Les sorts du monstre qui appartiennent au registre de l’[obscurité](./Registre.md) fonctionnent comme s’ils étaient supérieurs d’un niveau.
+| COLSPAN="3" | **Avantage.** Les sorts du monstre qui appartiennent au registre de l’[[registre|obscurité]] fonctionnent comme s’ils étaient supérieurs d’un niveau.
 |}
 
 {s:Reference|Bataille}
@@ -372,15 +372,15 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Bénédiction](./Bénédiction.md)*, *[repli expéditif](./Repli expéditif.md)* || *[Illumination](./Illumination.md)*, *[saignement](./sort Saignement.md)*
+| 0-3 || *[[Bénédiction]]*, *[[repli expéditif]]* || *[[Illumination]]*, *[[sort Saignement|saignement]]*
 |-
-| 4-7 || *[Rapidité](./Rapidité.md)*, *[vol](./sort Vol.md)* || *[Invisibilité](./Invisibilité.md)*, *[protection contre les projectiles](./Protection contre les projectiles.md)*
+| 4-7 || *[[Rapidité]]*, *[[sort Vol|vol]]* || *[[Invisibilité]]*, *[[protection contre les projectiles]]*
 |-
-| 8-11 || *[Main interposée](./Main interposée.md)*, *[téléportation](./téléportation.md)* || *[Invisibilité suprême](./Invisibilité suprême.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*
+| 8-11 || *[[Main interposée]]*, *[[téléportation]]* || *[[Invisibilité suprême]]*, *[[porte dimensionnelle]]*
 |-
-| 12-15 || *[Forme de géant I](./Forme de géant I.md)*, *[transformation](./Transformation.md)* || *[Téléportation suprême](./Téléportation suprême.md)*, *[vision lucide](./Vision lucide.md)*
+| 12-15 || *[[Forme de géant I]]*, *[[transformation]]* || *[[Téléportation suprême]]*, *[[vision lucide]]*
 |-
-| 16+ || *[Arrêt du temps](./Arrêt du temps.md)*, *[immobilisation de monstre de groupe](./Immobilisation de monstre de groupe.md)* || *[Double illusoire](./Double illusoire.md)*, *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*
+| 16+ || *[[Arrêt du temps]]*, *[[immobilisation de monstre de groupe]]* || *[[Double illusoire]]*, *[[mot de pouvoir étourdissant]]*
 |- CLASS="premier"
 | COLSPAN="3" | **Avantage.** Augmentez de 1 le bonus d’attaque du monstre pour toutes ses attaques.
 |}
@@ -391,19 +391,19 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Bénédiction](./Bénédiction.md)*, *[protection contre le Mal](./Protection contre le Mal.md)* || *[Assistance divine](./Assistance divine.md)*, *[stimulant](./Stimulant.md)*
+| 0-3 || *[[Bénédiction]]*, *[[protection contre le Mal]]* || *[[Assistance divine]]*, *[[stimulant]]*
 |-
-| 4-7 || *[Cercle magique contre le Mal](./cercle magique contre le Mal.md)*, *[prière](./Prière.md)* || *[Soins modérés](./Soins modérés.md)*, *[immobilisation de personne](./Immobilisation de personne.md)*
+| 4-7 || *[[Cercle magique contre le Mal]]*, *[[prière]]* || *[[Soins modérés]]*, *[[immobilisation de personne]]*
 |-
-| 8-11 || *[Changement de plan](./Changement de plan.md)*, *[Rejet du Mal](./Rejet du Mal.md)* || *[Soins importants](./Soins importants.md)*, *[châtiment sacré](./Châtiment sacré.md)*
+| 8-11 || *[[Changement de plan]]*, *[[Rejet du Mal]]* || *[[Soins importants]]*, *[[châtiment sacré]]*
 |-
-| 12-15 || *[Parole sacrée](./Parole sacrée.md)*, *[convocation de monstres VII](./Convocation de monstres VII.md)** || *[Barrière de lames](./Barrière de lames.md)*, *[guérison suprême](./Guérison suprême.md)*
+| 12-15 || *[[Parole sacrée]]*, *[[convocation de monstres VII]]** || *[[Barrière de lames]]*, *[[guérison suprême]]*
 |-
-| 16+ || *[Tempête vengeresse](./Tempête vengeresse.md)*, *[convocation de monstres IX](./Convocation de monstres IX.md)** || *[Aura sacrée](./Aura sacrée.md)*, *[convocation de monstres VIII](./Convocation de monstres VIII.md)**
+| 16+ || *[[Tempête vengeresse]]*, *[[convocation de monstres IX]]** || *[[Aura sacrée]]*, *[[convocation de monstres VIII]]**
 |- CLASS="note"
 | COLSPAN="3" | *(*) Permet uniquement de convoquer des créatures Bonnes.*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Les attaques du monstre sont considérées comme Bonnes quand il s’agit de dépasser la [réduction de dégâts](./RD.md).
+| COLSPAN="3" | **Avantage.** Les attaques du monstre sont considérées comme Bonnes quand il s’agit de dépasser la [[RD|réduction de dégâts]].
 |}
 
 {s:Reference|Chance}
@@ -412,15 +412,15 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Bouclier entropique](./Bouclier entropique.md)*, *[coup au but](./Coup au but.md)* || *[Hébétement](./Hébétement.md)*, *[feuille morte](./Feuille morte.md)*
+| 0-3 || *[[Bouclier entropique]]*, *[[coup au but]]* || *[[Hébétement]]*, *[[feuille morte]]*
 |-
-| 4-7 || *[Dissipation de la magie](./Dissipation de la magie.md)*, *[prière](./Prière.md)* || *[Aide](./Aide.md)*, *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*
+| 4-7 || *[[Dissipation de la magie]]*, *[[prière]]* || *[[Aide]]*, *[[protection contre les énergies destructives]]*
 |-
-| 8-11 || *[Malédiction](./malédiction.md)*, *[annulation d’enchantement](./Annulation denchantement.md)* || *[Liberté de mouvement](./Liberté de mouvement.md)*, *[sérénité](./Sérénité.md)*
+| 8-11 || *[[Malédiction]]*, *[[annulation denchantement|annulation d’enchantement]]* || *[[Liberté de mouvement]]*, *[[sérénité]]*
 |-
-| 12-15 || *[Dissipation de la magie](./Dissipation de la magie.md)* à [incantation rapide](./Incantation rapide.md), *[renvoi des sorts](./Renvoi des sorts.md)* || *[Renvoi](./Renvoi.md)*, *[double illusoire](./Double illusoire.md)*
+| 12-15 || *[[Dissipation de la magie]]* à [[incantation rapide]], *[[renvoi des sorts]]* || *[[Renvoi]]*, *[[double illusoire]]*
 |-
-| 16+ || *[Prémonition](./Prémonition.md)*, *[miracle](./Miracle.md)* || *[Zone d’antimagie](./Zone dantimagie.md)*, *[moment de prescience](./Moment de prescience.md)*
+| 16+ || *[[Prémonition]]*, *[[miracle]]* || *[[Zone dantimagie|Zone d’antimagie]]*, *[[moment de prescience]]*
 |- CLASS="premier"
 | COLSPAN="3" | **Avantage.** Augmentez de 1 tous les bonus de sauvegarde du monstre.
 |}
@@ -431,17 +431,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Confusion mineure](./Confusion mineure.md)*, *[protection contre la Loi](./Protection contre la Loi.md)* || *[Bouclier entropique](./Bouclier entropique.md)*, *[hébétement](./Hébétement.md)*
+| 0-3 || *[[Confusion mineure]]*, *[[protection contre la Loi]]* || *[[Bouclier entropique]]*, *[[hébétement]]*
 |-
-| 4-7 || *[Cercle magique contre la Loi](./Cercle magique contre la Loi.md)*, *[rage](./Rage.md)* || *[Hébétement de monstre](./Hébétement de monstre.md)*, *[modification d’apparence](./Modification dapparence.md)*
+| 4-7 || *[[Cercle magique contre la Loi]]*, *[[rage]]* || *[[Hébétement de monstre]]*, *[[modification dapparence|modification d’apparence]]*
 |-
-| 8-11 || *[Brume mentale](./Brume mentale.md)*, *[rejet de la Loi](./Rejet de la Loi.md)* || *[Confusion](./Confusion.md)*, *[marteau du Chaos](./Marteau du chaos.md)*
+| 8-11 || *[[Brume mentale]]*, *[[rejet de la Loi]]* || *[[Confusion]]*, *[[marteau du Chaos]]*
 |-
-| 12-15 || *[Aliénation mentale](./Aliénation mentale.md)*, *[parole du Chaos](./Parole du Chaos.md)* || *[Animation d’objets](./Animation dobjets.md)*, *[champ de force](./Champ de force.md)*
+| 12-15 || *[[Aliénation mentale]]*, *[[parole du Chaos]]* || *[[Animation dobjets|Animation d’objets]]*, *[[champ de force]]*
 |-
-| 16+ || *[Convocation de monstres IX](./Convocation de monstres IX.md) (Chaotiques uniquement)*, *[sphère prismatique](./Sphère prismatique.md)* || *[Manteau du Chaos](./Manteau du Chaos.md)*, *[motif scintillant](./Motif scintillant.md)*
+| 16+ || *[[Convocation de monstres IX]] (Chaotiques uniquement)*, *[[sphère prismatique]]* || *[[Manteau du Chaos]]*, *[[motif scintillant]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Les attaques du monstre sont considérées comme Chaotiques quand il s’agit de dépasser la [réduction de dégâts](./RD.md).
+| COLSPAN="3" | **Avantage.** Les attaques du monstre sont considérées comme Chaotiques quand il s’agit de dépasser la [[RD|réduction de dégâts]].
 |}
 
 {s:Reference|Charme}
@@ -450,17 +450,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Charme-personne](./Charme-personne.md)*, *[hypnose](./Hypnose.md)* || *[Hébétement](./Hébétement.md)*, *[message](./Message.md)*
+| 0-3 || *[[Charme-personne]]*, *[[hypnose]]* || *[[Hébétement]]*, *[[message]]*
 |-
-| 4-7 || *[Immobilisation de personne](./Immobilisation de personne.md)*, *[suggestion](./Suggestion.md)* || *[Apaisement des émotions](./Apaisement des émotions.md)*, *[hébétement de monstre](./Hébétement de monstre.md)*
+| 4-7 || *[[Immobilisation de personne]]*, *[[suggestion]]* || *[[Apaisement des émotions]]*, *[[hébétement de monstre]]*
 |-
-| 8-11 || *[Charme-monstre](./Charme-monstre.md)*, *[domination](./Domination.md)* || *[Confusion](./Confusion.md)*, *[mission](./Mission.md)*
+| 8-11 || *[[Charme-monstre]]*, *[[domination]]* || *[[Confusion]]*, *[[mission]]*
 |-
-| 12-15 || *[Aliénation mentale](./Aliénation mentale.md)*, *[immobilisation de personne de groupe](./Immobilisation de personne de groupe.md)* || *[Quête](./Quête.md)*, *[suggestion de groupe](./Suggestion de groupe.md)*
+| 12-15 || *[[Aliénation mentale]]*, *[[immobilisation de personne de groupe]]* || *[[Quête]]*, *[[suggestion de groupe]]*
 |-
-| 16+ || *[Domination universelle](./Domination universelle.md)*, *[immobilisation de monstre de groupe](./Immobilisation de monstre de groupe.md)* || *[Charme-monstre de groupe](./Charme-monstre de groupe.md)*, *[exigence](./Exigence.md)*
+| 16+ || *[[Domination universelle]]*, *[[immobilisation de monstre de groupe]]* || *[[Charme-monstre de groupe]]*, *[[exigence]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +4 aux [jets de sauvegarde](./JDS.md) contre les effets de charme.
+| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +4 aux [[jds|jets de sauvegarde]] contre les effets de charme.
 |}
 
 {s:Reference|Climat}
@@ -469,17 +469,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Brume de dissimulation](./Brume de dissimulation.md)*, *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)* || *[Lueur féerique](./Lueur féerique.md)*, *[décharge électrique](./Décharge électrique.md)*
+| 0-3 || *[[Brume de dissimulation]]*, *[[convocation dalliés naturels I|convocation d’alliés naturels I]]* || *[[Lueur féerique]]*, *[[décharge électrique]]*
 |-
-| 4-7 || *[Appel de la foudre](./Appel de la foudre.md)*, *[mur de vent](./Mur de vent.md)* || *[Bourrasque](./Bourrasque.md)*, *[cacophonie](./Cacophonie.md)*
+| 4-7 || *[[Appel de la foudre]]*, *[[mur de vent]]* || *[[Bourrasque]]*, *[[cacophonie]]*
 |-
-| 8-11 || *[Appel de la tempête](./Appel de la tempête.md)*, *[tempête de grêle](./Tempête de grêle.md)* || *[Marche dans les airs](./Marche dans les airs.md)*, *[tempête de neige](./Tempête de neige.md)*
+| 8-11 || *[[Appel de la tempête]]*, *[[tempête de grêle]]* || *[[Marche dans les airs]]*, *[[tempête de neige]]*
 |-
-| 12-15 || *[Contrôle du climat](./Contrôle du climat.md)*, *[vent divin](./Vent divin.md)* || *[Contrôle des vents](./Contrôle des vents.md)*, *[éclair](./Éclair.md)* à [incantation rapide](./Incantation rapide.md)
+| 12-15 || *[[Contrôle du climat]]*, *[[vent divin]]* || *[[Contrôle des vents]]*, *[[éclair]]* à [[incantation rapide]]
 |-
-| 16+ || *[Tempête vengeresse](./Tempête vengeresse.md)*, *[convocation d’alliés naturels IX](./Convocation dalliés naturels IX.md)* || *[Tempête de feu](./Tempête de feu.md)*, *[cyclone](./Cyclone.md)*
+| 16+ || *[[Tempête vengeresse]]*, *[[convocation dalliés naturels IX|convocation d’alliés naturels IX]]* || *[[Tempête de feu]]*, *[[cyclone]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne résistance à l’électricité 5. Au [FP](./FP.md) 12, cette résistance passe à 10. Au [FP](./FP.md) 16, le monstre est immunisé contre l’électricité.
+| COLSPAN="3" | **Avantage.** Le monstre gagne résistance à l’électricité 5. Au [[FP]] 12, cette résistance passe à 10. Au [[FP]] 16, le monstre est immunisé contre l’électricité.
 |}
 
 {s:Reference|Communauté}
@@ -488,17 +488,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Bénédiction](./Bénédiction.md)*, *[sanctuaire](./Sanctuaire.md)* || *[Soins légers](./Soins légers.md)*, *[stimulant](./Stimulant.md)*
+| 0-3 || *[[Bénédiction]]*, *[[sanctuaire]]* || *[[Soins légers]]*, *[[stimulant]]*
 |-
-| 4-7 || *[Dissipation de la magie](./Dissipation de la magie.md)*, *[prière](./Prière.md)* || *[Aide](./Aide.md)*, *[protection d’autrui](./Protection dautrui.md)*
+| 4-7 || *[[Dissipation de la magie]]*, *[[prière]]* || *[[Aide]]*, *[[protection dautrui|protection d’autrui]]*
 |-
-| 8-11 || *[Lien télépathique](./Lien télépathique.md)*, *[mur de pierre](./Mur de pierre.md)* || *[Soins importants](./Soins importants.md)*, *[rapport](./Rapport.md)*
+| 8-11 || *[[Lien télépathique]]*, *[[mur de pierre]]* || *[[Soins importants]]*, *[[rapport]]*
 |-
-| 12-15 || *[Champ de force](./Champ de force.md)*, *[guérison suprême](./Guérison suprême.md)* || *[Bannissement](./Bannissement.md)*, *[barrière de lames](./Barrière de lames.md)*
+| 12-15 || *[[Champ de force]]*, *[[guérison suprême]]* || *[[Bannissement]]*, *[[barrière de lames]]*
 |-
-| 16+ || *[Miracle](./Miracle.md)*, *[prémonition](./Prémonition.md)* || *[Soins importants de groupe](./Soins importants de groupe.md)*, *[verrou dimensionnel](./Verrou dimensionnel.md)*
+| 16+ || *[[Miracle]]*, *[[prémonition]]* || *[[Soins importants de groupe]]*, *[[verrou dimensionnel]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne [Diplomatie](./Diplomatie.md) comme compétence maîtrisée supplémentaire.
+| COLSPAN="3" | **Avantage.** Le monstre gagne [[Diplomatie]] comme compétence maîtrisée supplémentaire.
 |}
 
 {s:Reference|Connaissance}
@@ -507,17 +507,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Anticipation du danger](./Anticipation du danger.md)*, *[coup au but](./Coup au but.md)* || *[Alarme](./Alarme.md)*, *[compréhension des langages](./Compréhension des langages.md)*
+| 0-3 || *[[Anticipation du danger]]*, *[[coup au but]]* || *[[Alarme]]*, *[[compréhension des langages]]*
 |-
-| 4-7 || *[Vision magique](./Vision magique.md)*, *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)* || *[Détection de pensées](./Détection de pensées.md)*, *[localisation d’objet](./Localisation dobjet.md)*
+| 4-7 || *[[Vision magique]]*, *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]* || *[[Détection de pensées]]*, *[[localisation dobjet|localisation d’objet]]*
 |-
-| 8-11 || *[Communion](./Communion.md)*, *[vision lucide](./Vision lucide.md)* || *[Divination](./Divination.md)*, *[localisation de créature](./Localisation de créature.md)*
+| 8-11 || *[[Communion]]*, *[[vision lucide]]* || *[[Divination]]*, *[[localisation de créature]]*
 |-
-| 12-15 || *[Contact avec les plans](./Contact avec les plans.md)*, *[vision](./vision.md)* || *[Orientation](./Orientation.md)*, *[mythes et légendes](./Mythes et légendes.md)*
+| 12-15 || *[[Contact avec les plans]]*, *[[vision]]* || *[[Orientation]]*, *[[mythes et légendes]]*
 |-
-| 16+ || *[Prémonition](./Prémonition.md)*, *[échec annoncé](./Échec annoncé.md)* || *[Localisation](./Localisation.md)*, *[moment de prescience](./Moment de prescience.md)*
+| 16+ || *[[Prémonition]]*, *[[échec annoncé]]* || *[[Localisation]]*, *[[moment de prescience]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne deux compétences de [Connaissances](./Connaissances.md) de votre choix comme compétences maîtrisées supplémentaires.
+| COLSPAN="3" | **Avantage.** Le monstre gagne deux compétences de [[Connaissances]] de votre choix comme compétences maîtrisées supplémentaires.
 |}
 
 {s:Reference|Destruction}
@@ -526,17 +526,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Coup au but](./Coup au but.md)*, *[mains brûlantes](./Mains brûlantes.md)* || *[Aspersion acide](./Aspersion acide.md)*, *[rayon de givre](./Rayon de givre.md)*
+| 0-3 || *[[Coup au but]]*, *[[mains brûlantes]]* || *[[Aspersion acide]]*, *[[rayon de givre]]*
 |-
-| 4-7 || *[Boule de feu](./Boule de feu.md)*, *[rage](./Rage.md)* || *[Flèche acide](./Flèche acide.md)*, *[fracassement](./Fracassement.md)*
+| 4-7 || *[[Boule de feu]]*, *[[rage]]* || *[[Flèche acide]]*, *[[fracassement]]*
 |-
-| 8-11 || *[Cri](./Cri.md)*, *[flèche acide](./Flèche acide.md)* sous [quintessence des sorts](./Quintessence des sorts.md) || *[Blessure grave](./Blessure grave.md)*, *[tempête de grêle](./Tempête de grêle.md)*
+| 8-11 || *[[Cri]]*, *[[flèche acide]]* sous [[quintessence des sorts]] || *[[Blessure grave]]*, *[[tempête de grêle]]*
 |-
-| 12-15 || *[Désintégration](./Désintégration.md)*, *[éclair](./Éclair.md)* à [incantation rapide](./Incantation rapide.md) || *[Boule de feu](./Boule de feu.md)* sous [quintessence des sorts](./Quintessence des sorts.md), *[mise à mal](./Mise à mal.md)*
+| 12-15 || *[[Désintégration]]*, *[[éclair]]* à [[incantation rapide]] || *[[Boule de feu]]* sous [[quintessence des sorts]], *[[mise à mal]]*
 |-
-| 16+ || *[Désintégration](./Désintégration.md)* à [extension d’effet](./Extension deffet.md), *[implosion](./Implosion.md)* || *[Tremblement de terre](./Tremblement de terre.md)*, *[tempête de feu](./Tempête de feu.md)*
+| 16+ || *[[Désintégration]]* à [[Extension deffet|extension d’effet]], *[[implosion]]* || *[[Tremblement de terre]]*, *[[tempête de feu]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Augmentez de 1 le [DD](./DD.md) des [jets de sauvegarde](./JDS.md) de tous les sorts du monstre qui infligent des dégâts.
+| COLSPAN="3" | **Avantage.** Augmentez de 1 le [[DD]] des [[jds|jets de sauvegarde]] de tous les sorts du monstre qui infligent des dégâts.
 |}
 
 {s:Reference|Discrétion}
@@ -545,17 +545,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Déguisement](./Déguisement.md)*, *[brume de dissimulation](./Brume de dissimulation.md)* || *[Illumination](./Illumination.md)*, *[image silencieuse](./Image silencieuse.md)*
+| 0-3 || *[[Déguisement]]*, *[[brume de dissimulation]]* || *[[Illumination]]*, *[[image silencieuse]]*
 |-
-| 4-7 || *[Déplacement](./Déplacement.md)*, *[antidétection](./Antidétection.md)* || *[Ténèbres](./Ténèbres.md)*, *[invisibilité](./Invisibilité.md)*
+| 4-7 || *[[Déplacement]]*, *[[antidétection]]* || *[[Ténèbres]]*, *[[invisibilité]]*
 |-
-| 8-11 || *[Sanctuaire secret](./Sanctuaire secret.md)*, *[faux-semblant](./Faux-semblant.md)* || *[Porte dimensionnelle](./Porte dimensionnelle.md)*, *[invisibilité suprême](./Invisibilité suprême.md)*
+| 8-11 || *[[Sanctuaire secret]]*, *[[faux-semblant]]* || *[[Porte dimensionnelle]]*, *[[invisibilité suprême]]*
 |-
-| 12-15 || *[Dissimulation suprême](./Dissimulation suprême.md)*, *[traversée des ombres](./Traversée des ombres.md)* || *[Téléportation suprême](./Téléportation suprême.md)*, *[double illusoire](./Double illusoire.md)*
+| 12-15 || *[[Dissimulation suprême]]*, *[[traversée des ombres]]* || *[[Téléportation suprême]]*, *[[double illusoire]]*
 |-
-| 16+ || *[Écran](./Écran.md)*, *[arrêt du temps](./Arrêt du temps.md)* || *[Ténèbres profondes](./Ténèbres profondes.md)* à [extension d’effet](./Extension deffet.md) et [de zone d'effet](./Extension de zone deffet.md), *[invisibilité suprême](./Invisibilité suprême.md)* à [incantation rapide](./Incantation rapide.md)
+| 16+ || *[[Écran]]*, *[[arrêt du temps]]* || *[[Ténèbres profondes]]* à [[Extension deffet|extension d’effet]] et [[Extension de zone deffet|de zone d'effet]], *[[invisibilité suprême]]* à [[incantation rapide]]
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne [Discrétion](./Discrétion.md) comme compétence maîtrisée supplémentaire.
+| COLSPAN="3" | **Avantage.** Le monstre gagne [[Discrétion]] comme compétence maîtrisée supplémentaire.
 |}
 
 {s:Reference|Divination}
@@ -564,15 +564,15 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Anticipation du danger](./Anticipation du danger.md)*, *[combattant pris au dépourvu](./Combattant pris au dépourvu.md)* || *[Assistance divine](./Assistance divine.md)*, *[coup au but](./Coup au but.md)*
+| 0-3 || *[[Anticipation du danger]]*, *[[combattant pris au dépourvu]]* || *[[Assistance divine]]*, *[[coup au but]]*
 |-
-| 4-7 || *[Clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*, *[détection de l’invisibilité](./Détection de linvisibilité.md)* || *[Détection de pensées](./Détection de pensées.md)*, *[vision magique](./Vision magique.md)*
+| 4-7 || *[[Clairaudienceclairvoyance|Clairaudience/clairvoyance]]*, *[[détection de linvisibilité|détection de l’invisibilité]]* || *[[Détection de pensées]]*, *[[vision magique]]*
 |-
-| 8-11 || *[Lien télépathique](./Lien télépathique.md)*, *[scrutation](./scrutation.md)* || *[Détection du mensonge](./Détection du mensonge.md)*, *[localisation de créature](./Localisation de créature.md)*
+| 8-11 || *[[Lien télépathique]]*, *[[scrutation]]* || *[[Détection du mensonge]]*, *[[localisation de créature]]*
 |-
-| 12-15 || *[Scrutation suprême](./Scrutation suprême.md)*, *[vision magique suprême](./Vision magique suprême.md)* || *[Orientation](./Orientation.md)*, *[vision lucide](./Vision lucide.md)*
+| 12-15 || *[[Scrutation suprême]]*, *[[vision magique suprême]]* || *[[Orientation]]*, *[[vision lucide]]*
 |-
-| 16+ || *[Échec annoncé](./Échec annoncé.md)*, *[prémonition](./Prémonition.md)* || *[Localisation](./Localisation.md)*, *[moment de prescience](./Moment de prescience.md)*
+| 16+ || *[[Échec annoncé]]*, *[[prémonition]]* || *[[Localisation]]*, *[[moment de prescience]]*
 |- CLASS="premier"
 | COLSPAN="3" | **Avantage.** Le monstre ne peut pas être surpris tant qu’il est conscient et capable d’agir.
 |}
@@ -583,17 +583,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Déguisement](./Déguisement.md)*, *[confusion mineure](./Confusion mineure.md)* || *[Son imaginaire](./Son imaginaire.md)*, *[manipulation à distance](./Manipulation à distance.md)*
+| 0-3 || *[[Déguisement]]*, *[[confusion mineure]]* || *[[Son imaginaire]]*, *[[manipulation à distance]]*
 |-
-| 4-7 || *[État gazeux](./État gazeux.md)*, *[antidétection](./Antidétection.md)* || *[Invisibilité](./Invisibilité.md)*, *[image imparfaite](./Image imparfaite.md)*
+| 4-7 || *[[État gazeux]]*, *[[antidétection]]* || *[[Invisibilité]]*, *[[image imparfaite]]*
 |-
-| 8-11 || *[Invisibilité suprême](./Invisibilité suprême.md)*, *[brume mentale](./Brume mentale.md)* || *[Confusion](./Confusion.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*
+| 8-11 || *[[Invisibilité suprême]]*, *[[brume mentale]]* || *[[Confusion]]*, *[[porte dimensionnelle]]*
 |-
-| 12-15 || *[Immobilisation de personne de groupe](./Immobilisation de personne de groupe.md)*, *[voile](./Voile.md)* || *[Suggestion de groupe](./Suggestion de groupe.md)*, *[double illusoire](./Double illusoire.md)*
+| 12-15 || *[[Immobilisation de personne de groupe]]*, *[[voile]]* || *[[Suggestion de groupe]]*, *[[double illusoire]]*
 |-
-| 16+ || *[Prémonition](./Prémonition.md)*, *[arrêt du temps](./Arrêt du temps.md)* || *[Charme-monstre de groupe](./Charme-monstre de groupe.md)*, *[invisibilité de groupe](./Invisibilité de groupe.md)*
+| 16+ || *[[Prémonition]]*, *[[arrêt du temps]]* || *[[Charme-monstre de groupe]]*, *[[invisibilité de groupe]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne [Bluff](./Bluff.md) ou [Discrétion](./Discrétion.md) comme compétence maîtrisée supplémentaire.
+| COLSPAN="3" | **Avantage.** Le monstre gagne [[Bluff]] ou [[Discrétion]] comme compétence maîtrisée supplémentaire.
 |}
 
 {s:Reference|Feu}
@@ -602,17 +602,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Mains brûlantes](./Mains brûlantes.md)*, *[métal brûlant](./Métal brûlant.md)* || *[Illumination](./Illumination.md)*, *[flammes](./Flammes.md)*
+| 0-3 || *[[Mains brûlantes]]*, *[[métal brûlant]]* || *[[Illumination]]*, *[[flammes]]*
 |-
-| 4-7 || *[Mains brûlantes](./Mains brûlantes.md)* à [extension d’effet](./Extension deffet.md), *[boule de feu](./Boule de feu.md)* || *[Lame de feu](./Lame de feu.md)*, *[sphère de feu](./Sphère de feu.md)*
+| 4-7 || *[[Mains brûlantes]]* à [[Extension deffet|extension d’effet]], *[[boule de feu]]* || *[[Lame de feu]]*, *[[sphère de feu]]*
 |-
-| 8-11 || *[Boule de feu](./Boule de feu.md)* à [extension d’effet](./Extension deffet.md), *[colonne de feu](./Colonne de feu.md)* || *[Bouclier de feu](./Bouclier de feu.md)*, *[mur de feu](./Mur de feu.md)*
+| 8-11 || *[[Boule de feu]]* à [[Extension deffet|extension d’effet]], *[[colonne de feu]]* || *[[Bouclier de feu]]*, *[[mur de feu]]*
 |-
-| 12-15 || *[Corps élémentaire IV](./Corps élémentaire IV.md) (feu uniquement)*, *[boule de feu](./Boule de feu.md)* à [incantation rapide](./Incantation rapide.md) || *[Germes de feu](./Germes de feu.md)*, *[tempête de feu](./Tempête de feu.md)*
+| 12-15 || *[[Corps élémentaire IV]] (feu uniquement)*, *[[boule de feu]]* à [[incantation rapide]] || *[[Germes de feu]]*, *[[tempête de feu]]*
 |-
-| 16+ || *[Nuée d’élémentaires](./Nuée délémentaires.md) (feu uniquement)*, *[nuée de météores](./Nuée de météores.md)* || *[Tempête de feu](./Tempête de feu.md)* à [extension d’effet](./Extension deffet.md), *[nuage incendiaire](./Nuage incendiaire.md)*
+| 16+ || *[[Nuée délémentaires|Nuée d’élémentaires]] (feu uniquement)*, *[[nuée de météores]]* || *[[Tempête de feu]]* à [[Extension deffet|extension d’effet]], *[[nuage incendiaire]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne résistance au feu 5. Au [FP](./FP.md) 12, cette résistance passe à 10. Au [FP](./FP.md) 16, le monstre gagne immunité contre le feu.
+| COLSPAN="3" | **Avantage.** Le monstre gagne résistance au feu 5. Au [[FP]] 12, cette résistance passe à 10. Au [[FP]] 16, le monstre gagne immunité contre le feu.
 |}
 
 {s:Reference|Flore}
@@ -621,17 +621,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Enchevêtrement](./Enchevêtrement.md)*, *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md) (plantes uniquement)* || *[Baie nourricière](./Baie nourricière.md)*, *[passage sans trace](./passage sans trace.md)*
+| 0-3 || *[[Enchevêtrement]]*, *[[convocation dalliés naturels I|convocation d’alliés naturels I]] (plantes uniquement)* || *[[Baie nourricière]]*, *[[passage sans trace]]*
 |-
-| 4-7 || *[Croissance végétale](./Croissance végétale.md)*, *[croissance d’épines](./Croissance dépines.md)* || *[Forme d’arbre](./Forme darbre.md)*, *[distorsion du bois](./Distorsion du bois.md)*
+| 4-7 || *[[Croissance végétale]]*, *[[croissance dépines|croissance d’épines]]* || *[[Forme darbre|Forme d’arbre]]*, *[[distorsion du bois]]*
 |-
-| 8-11 || *[Voyage par les arbres](./Voyage par les arbres.md)*, *[mur d’épines](./Mur dépines.md)* || *[Empire végétal](./Empire végétal.md)*, *[convocation d’alliés naturels IV](./Convocation dalliés naturels IV.md)*
+| 8-11 || *[[Voyage par les arbres]]*, *[[mur dépines|mur d’épines]]* || *[[Empire végétal]]*, *[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]*
 |-
-| 12-15 || *[Animation des plantes](./Animation des plantes.md)*, *[bâton sylvanien](./Bâton sylvanien.md)* || *[Germes de feu](./Germes de feu.md)*, *[éloignement du bois](./Éloignement du bois.md)*
+| 12-15 || *[[Animation des plantes]]*, *[[bâton sylvanien]]* || *[[Germes de feu]]*, *[[éloignement du bois]]*
 |-
-| 16+ || *[Germes de feu](./Germes de feu.md)* sous [quintessence des sorts](./Quintessence des sorts.md), *[grand tertre](./Grand tertre.md)* || *[Contrôle des plantes](./Contrôle des plantes.md)*, *[convocation d’alliés naturels VIII](./Convocation dalliés naturels VIII.md)*
+| 16+ || *[[Germes de feu]]* sous [[quintessence des sorts]], *[[grand tertre]]* || *[[Contrôle des plantes]]*, *[[convocation dalliés naturels VIII|convocation d’alliés naturels VIII]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre ignore les [terrains difficiles](./terrain difficile.md) qui résultent d’environnements naturels non-magiques.
+| COLSPAN="3" | **Avantage.** Le monstre ignore les [[terrain difficile|terrains difficiles]] qui résultent d’environnements naturels non-magiques.
 |}
 
 </td><td width="2%"></td><td width="49%">
@@ -641,17 +641,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Frayeur](./Frayeur.md)*, *[confusion mineure](./Confusion mineure.md)* || *[Hébétement](./Hébétement.md)*, *[fatigue](./Fatigue.md)*
+| 0-3 || *[[Frayeur]]*, *[[confusion mineure]]* || *[[Hébétement]]*, *[[fatigue]]*
 |-
-| 4-7 || *[Image accomplie](./Image accomplie.md)*, *[rage](./Rage.md)* || *[Fou rire](./Fou rire.md)*, *[idiotie](./Idiotie.md)*
+| 4-7 || *[[Image accomplie]]*, *[[rage]]* || *[[Fou rire]]*, *[[idiotie]]*
 |-
-| 8-11 || *[Cauchemar](./Cauchemar.md)*, *[assassin imaginaire](./Assassin imaginaire.md)* || *[Confusion](./Confusion.md)*, *[désespoir foudroyant](./Désespoir foudroyant.md)*
+| 8-11 || *[[Cauchemar]]*, *[[assassin imaginaire]]* || *[[Confusion]]*, *[[désespoir foudroyant]]*
 |-
-| 12-15 || *[Aliénation mentale](./Aliénation mentale.md)*, *[suggestion de groupe](./Suggestion de groupe.md)* || *[Débilité](./Débilité.md)*, *[brume mentale](./Brume mentale.md)*
+| 12-15 || *[[Aliénation mentale]]*, *[[suggestion de groupe]]* || *[[Débilité]]*, *[[brume mentale]]*
 |-
-| 16+ || *[Domination universelle](./Domination universelle.md)*, *[ennemi subconscient](./Ennemi subconscient.md)* || *[Danse irrésistible](./Danse irrésistible.md)*, *[motif scintillant](./Motif scintillant.md)*
+| 16+ || *[[Domination universelle]]*, *[[ennemi subconscient]]* || *[[Danse irrésistible]]*, *[[motif scintillant]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +2 aux [jets de sauvegarde](./JDS.md) contre les effets mentaux.
+| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +2 aux [[jds|jets de sauvegarde]] contre les effets mentaux.
 |}
 
 {s:Reference|Force}
@@ -660,17 +660,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Agrandissement](./Agrandissement.md)*, *[bourrasque](./Bourrasque.md)* || *[Soins légers](./Soins légers.md)*, *[résistance](./sort Résistance.md)*
+| 0-3 || *[[Agrandissement]]*, *[[bourrasque]]* || *[[Soins légers]]*, *[[sort Résistance|résistance]]*
 |-
-| 4-7 || *[Rapidité](./Rapidité.md)*, *[immobilisation de personne](./Immobilisation de personne.md)* || *[Rage](./Rage.md)*, *[arme merveilleuse](./Arme merveilleuse.md)*
+| 4-7 || *[[Rapidité]]*, *[[immobilisation de personne]]* || *[[Rage]]*, *[[arme merveilleuse]]*
 |-
-| 8-11 || *[Main interposée](./Main interposée.md)*, *[télékinésie](./Télékinésie.md)* || *[Bénédiction de ferveur](./Bénédiction de ferveur.md)*, *[immunité contre les sorts](./Immunité contre les sorts.md)*
+| 8-11 || *[[Main interposée]]*, *[[télékinésie]]* || *[[Bénédiction de ferveur]]*, *[[immunité contre les sorts]]*
 |-
-| 12-15 || *[Destruction](./destruction.md)*, *[poigne agrippeuse](./Poigne agrippeuse.md)* || *[Main impérieuse](./Main impérieuse.md)*, *[peau de pierre](./Peau de pierre.md)*
+| 12-15 || *[[Destruction]]*, *[[poigne agrippeuse]]* || *[[Main impérieuse]]*, *[[peau de pierre]]*
 |-
-| 16+ || *[Main broyeuse](./Main broyeuse.md)*, *[implosion](./Implosion.md)* || *[Poing serré](./Poing serré.md)*, *[tremblement de terre](./Tremblement de terre.md)*
+| 16+ || *[[Main broyeuse]]*, *[[implosion]]* || *[[Poing serré]]*, *[[tremblement de terre]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Augmentez le modificateur de [Force](./Force.md) du monstre de 1. Au [FP](./FP.md) 12, augmentez-le de 2 à la place. Au [FP](./FP.md) 16, augmentez-le de 3 à la place.
+| COLSPAN="3" | **Avantage.** Augmentez le modificateur de [[Force]] du monstre de 1. Au [[FP]] 12, augmentez-le de 2 à la place. Au [[FP]] 16, augmentez-le de 3 à la place.
 |}
 
 {s:Reference|Froid}
@@ -679,17 +679,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Brume de dissimulation](./Brume de dissimulation.md)*, *[morsure du froid](./morsure du froid.md)* || *[Endurance aux énergies destructives](./Endurance aux énergies destructives.md)*, *[rayon de givre](./Rayon de givre.md)*
+| 0-3 || *[[Brume de dissimulation]]*, *[[morsure du froid]]* || *[[Endurance aux énergies destructives]]*, *[[rayon de givre]]*
 |-
-| 4-7 || *[Protection contre les énergies destructives](./Protection contre les énergies destructives.md)*, *[tempête de neige](./Tempête de neige.md)* || *[Métal gelé](./Métal gelé.md)*, *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*
+| 4-7 || *[[Protection contre les énergies destructives]]*, *[[tempête de neige]]* || *[[Métal gelé]]*, *[[résistance aux énergies destructives]]*
 |-
-| 8-11 || *[Cône de froid](./Cône de froid.md)*, *[tempête de grêle](./Tempête de grêle.md)* à [extension de portée](./Extension de portée.md) || *[Mur de glace](./Mur de glace.md)*, *[tempête de grêle](./Tempête de grêle.md)*
+| 8-11 || *[[Cône de froid]]*, *[[tempête de grêle]]* à [[extension de portée]] || *[[Mur de glace]]*, *[[tempête de grêle]]*
 |-
-| 12-15 || *[Contrôle du climat](./Contrôle du climat.md)*, *[forme draconique II](./Forme draconique II.md) (blanc uniquement)* || *[Cône de froid](./Cône de froid.md)* à [extension d’effet](./Extension deffet.md), *[sphère glaciale](./Sphère glaciale.md)*
+| 12-15 || *[[Contrôle du climat]]*, *[[forme draconique II]] (blanc uniquement)* || *[[Cône de froid]]* à [[Extension deffet|extension d’effet]], *[[sphère glaciale]]*
 |-
-| 16+ || *[Cône de froid](./Cône de froid.md)* à [incantation rapide](./Incantation rapide.md), *[forme draconique III](./Forme draconique III.md) (blanc uniquement)* || *[Rayon polaire](./Rayon polaire.md)*, *[simulacre](./Simulacre.md)*
+| 16+ || *[[Cône de froid]]* à [[incantation rapide]], *[[forme draconique III]] (blanc uniquement)* || *[[Rayon polaire]]*, *[[simulacre]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne résistance 5 au froid. Au [FP](./FP.md) 12, cette résistance passe à 10. Au [FP](./FP.md) 16, le monstre est immunisé contre le froid.
+| COLSPAN="3" | **Avantage.** Le monstre gagne résistance 5 au froid. Au [[FP]] 12, cette résistance passe à 10. Au [[FP]] 16, le monstre est immunisé contre le froid.
 |}
 
 {s:Reference|Gloire}
@@ -698,17 +698,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Bénédiction](./Bénédiction.md)*, *[sanctuaire](./Sanctuaire.md)* || *[Assistance divine](./Assistance divine.md)*, *[résistance](./sort Résistance.md)*
+| 0-3 || *[[Bénédiction]]*, *[[sanctuaire]]* || *[[Assistance divine]]*, *[[sort Résistance|résistance]]*
 |-
-| 4-7 || *[Lumière du jour](./Lumière du jour.md)*, *[lumière brûlante](./Lumière brûlante.md)* || *[Aide](./Aide.md)*, *[bénédiction d’arme](./Bénédiction darme.md)*
+| 4-7 || *[[Lumière du jour]]*, *[[lumière brûlante]]* || *[[Aide]]*, *[[bénédiction darme|bénédiction d’arme]]*
 |-
-| 8-11 || *[Colonne de feu](./Colonne de feu.md)*, *[rejet du Mal](./Rejet du Mal.md)* || *[Renvoi](./Renvoi.md)*, *[châtiment sacré](./Châtiment sacré.md)*
+| 8-11 || *[[Colonne de feu]]*, *[[rejet du Mal]]* || *[[Renvoi]]*, *[[châtiment sacré]]*
 |-
-| 12-15 || *[Épée sainte](./Épée sainte.md)*, *[parole sacrée](./Parole sacrée.md)* || *[Barrière de lames](./Barrière de lames.md)*, *[annihilation de mort-vivant](./Annihilation de mort-vivant.md)*
+| 12-15 || *[[Épée sainte]]*, *[[parole sacrée]]* || *[[Barrière de lames]]*, *[[annihilation de mort-vivant]]*
 |-
-| 16+ || *[Portail](./Portail.md)*, *[présence écrasante](./Présence écrasante.md)* || *[Tremblement de terre](./Tremblement de terre.md)*, *[aura sacrée](./Aura sacrée.md)*
+| 16+ || *[[Portail]]*, *[[présence écrasante]]* || *[[Tremblement de terre]]*, *[[aura sacrée]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +4 aux [jets de sauvegarde](./JDS.md) contre la terreur.
+| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +4 aux [[jds|jets de sauvegarde]] contre la terreur.
 |}
 
 {s:Reference|Guerre}
@@ -717,15 +717,15 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Frayeur](./Frayeur.md)*, *[coup au but](./Coup au but.md)* || *[Arme magique](./Arme magique.md)*, *[résistance](./sort Résistance.md)*
+| 0-3 || *[[Frayeur]]*, *[[coup au but]]* || *[[Arme magique]]*, *[[sort Résistance|résistance]]*
 |-
-| 4-7 || *[Prière](./Prière.md)*, *[lumière brûlante](./Lumière brûlante.md)* || *[Grâce](./Grâce.md)*, *[arme spirituelle](./Arme spirituelle.md)*
+| 4-7 || *[[Prière]]*, *[[lumière brûlante]]* || *[[Grâce]]*, *[[arme spirituelle]]*
 |-
-| 8-11 || *[Colonne de feu](./Colonne de feu.md)*, *[exécution](./Exécution.md)* || *[Bénédiction de ferveur](./Bénédiction de ferveur.md)*, *[allié spirituel](./Allié spirituel.md)*
+| 8-11 || *[[Colonne de feu]]*, *[[exécution]]* || *[[Bénédiction de ferveur]]*, *[[allié spirituel]]*
 |-
-| 12-15 || *[Destruction](./destruction.md)*, *[mot de pouvoir aveuglant](./Mot de pouvoir aveuglant.md)* || *[Barrière de lames](./Barrière de lames.md)*, *[mise à mal](./Mise à mal.md)*
+| 12-15 || *[[Destruction]]*, *[[mot de pouvoir aveuglant]]* || *[[Barrière de lames]]*, *[[mise à mal]]*
 |-
-| 16+ || *[Implosion](./Implosion.md)*, *[mot de pouvoir mortel](./Mot de pouvoir mortel.md)* || *[Tremblement de terre](./Tremblement de terre.md)*, *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*
+| 16+ || *[[Implosion]]*, *[[mot de pouvoir mortel]]* || *[[Tremblement de terre]]*, *[[mot de pouvoir étourdissant]]*
 |- CLASS="premier"
 | COLSPAN="3" | **Avantage.** Augmentez de 1 le bonus d’attaque de toutes les attaques du monstre.
 |}
@@ -736,17 +736,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Repli expéditif](./Repli expéditif.md)*, *[regain d’assurance](./Regain dassurance.md)* || *[Feuille morte](./Feuille morte.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*
+| 0-3 || *[[Repli expéditif]]*, *[[regain dassurance|regain d’assurance]]* || *[[Feuille morte]]*, *[[ouverturefermeture|ouverture/fermeture]]*
 |-
-| 4-7 || *[Vol](./sort Vol.md)*, *[délivrance des malédictions](./Délivrance des malédictions.md)* || *[Déblocage](./Déblocage.md)*, *[délivrance de la paralysie](./Délivrance de la paralysie.md)*
+| 4-7 || *[[sort Vol|Vol]]*, *[[délivrance des malédictions]]* || *[[Déblocage]]*, *[[délivrance de la paralysie]]*
 |-
-| 8-11 || *[Annulation d’enchantement](./Annulation denchantement.md)*, *[vol supérieur](./Vol supérieur.md)* || *[Liberté de mouvement](./Liberté de mouvement.md)*, *[rapidité](./Rapidité.md)* à [extension de durée](./Extension de durée.md)
+| 8-11 || *[[Annulation denchantement|Annulation d’enchantement]]*, *[[vol supérieur]]* || *[[Liberté de mouvement]]*, *[[rapidité]]* à [[extension de durée]]
 |-
-| 12-15 || *[Forme éthérée](./Forme éthérée.md)*, *[refuge](./Refuge.md)* || *[Vol](./sort Vol.md)* à [incantation rapide](./Incantation rapide.md), *[dissipation suprême](./Dissipation suprême.md)*
+| 12-15 || *[[Forme éthérée]]*, *[[refuge]]* || *[[sort Vol|Vol]]* à [[incantation rapide]], *[[dissipation suprême]]*
 |-
-| 16+ || *[Délivrance](./Délivrance.md)*, *[souhait](./Souhait.md)* || *[Liberté de mouvement](./Liberté de mouvement.md)* à [incantation rapide](./Incantation rapide.md), *[esprit impénétrable](./Esprit impénétrable.md)*
+| 16+ || *[[Délivrance]]*, *[[souhait]]* || *[[Liberté de mouvement]]* à [[incantation rapide]], *[[esprit impénétrable]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne [Évasion](./Évasion.md) comme compétence maîtrisée supplémentaire.
+| COLSPAN="3" | **Avantage.** Le monstre gagne [[Évasion]] comme compétence maîtrisée supplémentaire.
 |}
 
 {s:Reference|Loi}
@@ -755,17 +755,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Injonction](./Injonction.md)*, *[protection contre le Chaos](./Protection contre le Chaos.md)* || *[Frayeur](./Frayeur.md)*, *[stabilisation](./Stabilisation.md)*
+| 0-3 || *[[Injonction]]*, *[[protection contre le Chaos]]* || *[[Frayeur]]*, *[[stabilisation]]*
 |-
-| 4-7 || *[Dissipation de la magie](./Dissipation de la magie.md)*, *[cercle magique contre le Chaos](./Cercle magique contre le Chaos.md)* || *[Apaisement des émotions](./Apaisement des émotions.md)*, *[discours captivant](./Discours captivant.md)*
+| 4-7 || *[[Dissipation de la magie]]*, *[[cercle magique contre le Chaos]]* || *[[Apaisement des émotions]]*, *[[discours captivant]]*
 |-
-| 8-11 || *[Rejet du Chaos](./Rejet du Chaos.md)*, *[injonction suprême](./Injonction suprême.md)* || *[Ancre dimensionnelle](./Ancre dimensionnelle.md)*, *[courroux de l’ordre](./Courroux de lordre.md)*
+| 8-11 || *[[Rejet du Chaos]]*, *[[injonction suprême]]* || *[[Ancre dimensionnelle]]*, *[[courroux de lordre|courroux de l’ordre]]*
 |-
-| 12-15 || *[Décret](./Décret.md)*, *[mot de pouvoir aveuglant](./Mot de pouvoir aveuglant.md)* || *[Bannissement](./Bannissement.md)*, *[immobilisation de monstre](./Immobilisation de monstre.md)*
+| 12-15 || *[[Décret]]*, *[[mot de pouvoir aveuglant]]* || *[[Bannissement]]*, *[[immobilisation de monstre]]*
 |-
-| 16+ || *[Mot de pouvoir mortel](./Mot de pouvoir mortel.md)*, *[convocation de monstres IX](./Convocation de monstres IX.md) (Loi uniquement)* || *[Bouclier de la Loi](./Bouclier de la Loi.md)*, *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*
+| 16+ || *[[Mot de pouvoir mortel]]*, *[[convocation de monstres IX]] (Loi uniquement)* || *[[Bouclier de la Loi]]*, *[[mot de pouvoir étourdissant]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Les attaques du monstre sont considérées comme Loyales quand il s’agit d’ignorer la [réduction de dégâts](./RD.md).
+| COLSPAN="3" | **Avantage.** Les attaques du monstre sont considérées comme Loyales quand il s’agit d’ignorer la [[RD|réduction de dégâts]].
 |}
 
 {s:Reference|Magie}
@@ -774,17 +774,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Projectile magique](./Projectile magique.md)*, *[image silencieuse](./Image silencieuse.md)* || *[Détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*
+| 0-3 || *[[Projectile magique]]*, *[[image silencieuse]]* || *[[Détection de la magie]]*, *[[lecture de la magie]]*
 |-
-| 4-7 || *[Dissipation de la magie](./Dissipation de la magie.md)*, *[immobilisation de personne](./Immobilisation de personne.md)* || *[Invisibilité](./Invisibilité.md)*, *[rayon ardent](./Rayon ardent.md)*
+| 4-7 || *[[Dissipation de la magie]]*, *[[immobilisation de personne]]* || *[[Invisibilité]]*, *[[rayon ardent]]*
 |-
-| 8-11 || *[Résistance à la magie](./résistance à la magie.md)*, *[téléportation](./téléportation.md)* || *[Transfert de sorts](./Transfert de sorts.md)*, *[globe d’invulnérabilité partielle](./Globe dinvulnérabilité partielle.md)*
+| 8-11 || *[[Résistance à la magie]]*, *[[téléportation]]* || *[[Transfert de sorts]]*, *[[globe dinvulnérabilité partielle|globe d’invulnérabilité partielle]]*
 |-
-| 12-15 || *[Épée de force](./Épée de force.md)*, *[renvoi des sorts](./Renvoi des sorts.md)* || *[Zone d’antimagie](./Zone dantimagie.md)*, *[main impérieuse](./Main impérieuse.md)*
+| 12-15 || *[[Épée de force]]*, *[[renvoi des sorts]]* || *[[Zone dantimagie|Zone d’antimagie]]*, *[[main impérieuse]]*
 |-
-| 16+ || *[Disjonction](./Disjonction.md)*, *[arrêt du temps](./Arrêt du temps.md)* || *[Poing serré](./Poing serré.md)*, *[protection contre les sorts](./Protection contre les sorts.md)*
+| 16+ || *[[Disjonction]]*, *[[arrêt du temps]]* || *[[Poing serré]]*, *[[protection contre les sorts]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +2 aux tests de [niveau de lanceur de sorts](./NLS.md) pour ignorer la [résistance à la magie](./RM.md).
+| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +2 aux tests de [[NLS|niveau de lanceur de sorts]] pour ignorer la [[RM|résistance à la magie]].
 |}
 
 {s:Reference|Mal}
@@ -793,17 +793,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Imprécation](./Imprécation.md)*, *[blessure légère](./Blessure légère.md)* || *[Saignement](./sort Saignement.md)*, *[protection contre le Bien](./Protection contre le Bien.md)*
+| 0-3 || *[[Imprécation]]*, *[[blessure légère]]* || *[[sort Saignement|Saignement]]*, *[[protection contre le Bien]]*
 |-
-| 4-7 || *[Malédiction](./malédiction.md)*, *[cercle magique contre le Bien](./Cercle magique contre le Bien.md)* || *[Ténèbres](./Ténèbres.md)*, *[baiser de la goule](./Baiser de la goule.md)*
+| 4-7 || *[[Malédiction]]*, *[[cercle magique contre le Bien]]* || *[[Ténèbres]]*, *[[baiser de la goule]]*
 |-
-| 8-11 || *[Exécution](./Exécution.md)*, *[rejet du Bien](./Rejet du Bien.md)* || *[Blessure grave](./Blessure grave.md)*, *[ténèbres maudites](./Ténèbres maudites.md)*
+| 8-11 || *[[Exécution]]*, *[[rejet du Bien]]* || *[[Blessure grave]]*, *[[ténèbres maudites]]*
 |-
-| 12-15 || *[Blasphème](./Blasphème.md)*, *[destruction](./destruction.md)* || *[Mise à mal](./Mise à mal.md)*, *[blessure modérée de groupe](./Blessure modérée de groupe.md)*
+| 12-15 || *[[Blasphème]]*, *[[destruction]]* || *[[Mise à mal]]*, *[[blessure modérée de groupe]]*
 |-
-| 16+ || *[Mot de pouvoir mortel](./Mot de pouvoir mortel.md)*, *[convocation de monstres IX](./Convocation de monstres IX.md) (Mauvais uniquement)* || *[Mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*, *[aura maudite](./Aura maudite.md)*
+| 16+ || *[[Mot de pouvoir mortel]]*, *[[convocation de monstres IX]] (Mauvais uniquement)* || *[[Mot de pouvoir étourdissant]]*, *[[aura maudite]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Les attaques du monstre sont considérées comme Mauvaises quand il s’agit d’ignorer la [réduction de dégâts](./RD.md).
+| COLSPAN="3" | **Avantage.** Les attaques du monstre sont considérées comme Mauvaises quand il s’agit d’ignorer la [[RD|réduction de dégâts]].
 |}
 
 {s:Reference|Métal}
@@ -812,15 +812,15 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Lames de plomb](./Lames de plomb.md)*, *[décharge électrique](./Décharge électrique.md)* || *[Déguisement](./Déguisement.md)*, *[arme magique](./Arme magique.md)*
+| 0-3 || *[[Lames de plomb]]*, *[[décharge électrique]]* || *[[Déguisement]]*, *[[arme magique]]*
 |-
-| 4-7 || *[Métal brûlant](./Métal brûlant.md)*, *[orbe en fusion](./Orbe en fusion.md)* || *[Métal gelé](./Métal gelé.md)*, *[pluie de plomb](./Pluie de plomb.md)*
+| 4-7 || *[[Métal brûlant]]*, *[[orbe en fusion]]* || *[[Métal gelé]]*, *[[pluie de plomb]]*
 |-
-| 8-11 || *[Rouille](./Rouille.md)*, *[création majeure](./Création majeure.md)* || *[Coeur du métal](./Coeur du métal.md)*, *[couronne de lames](./Couronne de lames.md)*
+| 8-11 || *[[Rouille]]*, *[[création majeure]]* || *[[Coeur du métal]]*, *[[couronne de lames]]*
 |-
-| 12-15 || *[Transmutation du métal en bois](./Transmutation du métal en bois.md)*, *[mur de fer](./Mur de fer.md)* || *[Éclair multiple](./Éclair multiple.md)*, *[invocation instantanée](./Invocation instantanée.md)*
+| 12-15 || *[[Transmutation du métal en bois]]*, *[[mur de fer]]* || *[[Éclair multiple]]*, *[[invocation instantanée]]*
 |-
-| 16+ || *[Corps de fer](./Corps de fer.md)*, *[éloignement du métal et de la pierre](./Éloignement du métal et de la pierre.md)* || *[Disjonction](./Disjonction.md)*, *[métamorphose universelle](./Métamorphose universelle.md)*
+| 16+ || *[[Corps de fer]]*, *[[éloignement du métal et de la pierre]]* || *[[Disjonction]]*, *[[métamorphose universelle]]*
 |- CLASS="premier"
 | COLSPAN="3" | **Avantage.** Le monstre augmente l’une de ses vitesses de déplacement de 3 mètres.
 |}
@@ -831,17 +831,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Contact glacial](./Contact glacial.md)*, *[rayon affaiblissant](./Rayon affaiblissant.md)* || *[Fatigue](./Fatigue.md)*, *[saignement](./sort Saignement.md)*
+| 0-3 || *[[Contact glacial]]*, *[[rayon affaiblissant]]* || *[[Fatigue]]*, *[[sort Saignement|saignement]]*
 |-
-| 4-7 || *[Baiser du vampire](./Baiser du vampire.md)*, *[coeur dévasté](./Coeur dévasté.md)* || *[Baiser de la goule](./Baiser de la goule.md)*, *[mise à mort](./Mise à mort.md)*
+| 4-7 || *[[Baiser du vampire]]*, *[[coeur dévasté]]* || *[[Baiser de la goule]]*, *[[mise à mort]]*
 |-
-| 8-11 || *[Exécution](./Exécution.md)*, *[vagues de fatigue](./Vagues de fatigue.md)* || *[Énergie négative](./Énergie négative.md)*, *[protection contre la mort](./Protection contre la mort.md)*
+| 8-11 || *[[Exécution]]*, *[[vagues de fatigue]]* || *[[Énergie négative]]*, *[[protection contre la mort]]*
 |-
-| 12-15 || *[Destruction](./destruction.md)*, *[doigt de mort](./Doigt de mort.md)* || *[Annihilation de mort-vivant](./Annihilation de mort-vivant.md)*, *[cercle de mort](./Cercle de mort.md)*
+| 12-15 || *[[Destruction]]*, *[[doigt de mort]]* || *[[Annihilation de mort-vivant]]*, *[[cercle de mort]]*
 |-
-| 16+ || *[Absorption d’énergie](./absorption dénergie.md)*, *[plainte d’outre-tombe](./Plainte doutre-tombe.md)* || *[Flétrissure](./Flétrissure.md)*, *[symbole de mort](./Symbole de mort.md)*
+| 16+ || *[[Absorption dénergie|Absorption d’énergie]]*, *[[plainte doutre-tombe|plainte d’outre-tombe]]* || *[[Flétrissure]]*, *[[symbole de mort]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Augmentez de 1 le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) de tous les sorts de [mort](./Registre.md) que lance le monstre.
+| COLSPAN="3" | **Avantage.** Augmentez de 1 le [[DD]] du [[jds|jet de sauvegarde]] de tous les sorts de [[registre|mort]] que lance le monstre.
 |}
 
 {s:Reference|Mort-vivant}
@@ -850,17 +850,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Contact glacial](./Contact glacial.md)*, *[rayon affaiblissant](./Rayon affaiblissant.md)* || *[Saignement](./sort Saignement.md)*, *[fatigue](./Fatigue.md)*
+| 0-3 || *[[Contact glacial]]*, *[[rayon affaiblissant]]* || *[[sort Saignement|Saignement]]*, *[[fatigue]]*
 |-
-| 4-7 || *[Animation des morts](./Animation des morts.md)*, *[baiser du vampire](./Baiser du vampire.md)* || *[Contrôle des morts-vivants](./Contrôle des morts-vivants.md)*, *[baiser de la goule](./Baiser de la goule.md)*
+| 4-7 || *[[Animation des morts]]*, *[[baiser du vampire]]* || *[[Contrôle des morts-vivants]]*, *[[baiser de la goule]]*
 |-
-| 8-11 || *[Possession](./Possession.md)*, *[rayon affaiblissant](./Rayon affaiblissant.md)* à [incantation rapide](./Incantation rapide.md) || *[Énergie négative](./Énergie négative.md)*, *[vagues de fatigue](./Vagues de fatigue.md)*
+| 8-11 || *[[Possession]]*, *[[rayon affaiblissant]]* à [[incantation rapide]] || *[[Énergie négative]]*, *[[vagues de fatigue]]*
 |-
-| 12-15 || *[Contrôle des morts-vivants](./Contrôle des morts-vivants.md)*, *[création de mort-vivant](./Création de mort-vivant.md)* || *[Cercle de mort](./Cercle de mort.md)*, *[baiser du vampire](./Baiser du vampire.md)* sous [quintessence des sorts](./Quintessence des sorts.md)
+| 12-15 || *[[Contrôle des morts-vivants]]*, *[[création de mort-vivant]]* || *[[Cercle de mort]]*, *[[baiser du vampire]]* sous [[quintessence des sorts]]
 |-
-| 16+ || *[Création de mort-vivant dominant](./Création de mort-vivant dominant.md)*, *[absorption d’énergie](./absorption dénergie.md)* || *[Flétrissure](./Flétrissure.md)*, *[plainte d’outre-tombe](./Plainte doutre-tombe.md)*
+| 16+ || *[[Création de mort-vivant dominant]]*, *[[absorption dénergie|absorption d’énergie]]* || *[[Flétrissure]]*, *[[plainte doutre-tombe|plainte d’outre-tombe]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne [RD](./RD.md) 5/— contre les dégâts [non létaux](./Blessures et mort.md#NONLETAL). Au [FP](./FP.md) 8, la [RD](./RD.md) passe à 10/—.
+| COLSPAN="3" | **Avantage.** Le monstre gagne [[RD]] 5/— contre les dégâts [[Blessures et mort#NONLETAL|non létaux]]. Au [[FP]] 8, la [[RD]] passe à 10/—.
 |}
 
 {s:Reference|Nature}
@@ -869,17 +869,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Enchevêtrement](./Enchevêtrement.md)*, *[gourdin magique](./Gourdin magique.md)* || *[Charme-animal](./Charme-animal.md)*, *[brume de dissimulation](./Brume de dissimulation.md)*
+| 0-3 || *[[Enchevêtrement]]*, *[[gourdin magique]]* || *[[Charme-animal]]*, *[[brume de dissimulation]]*
 |-
-| 4-7 || *[Appel de la foudre](./Appel de la foudre.md)*, *[tempête de neige](./Tempête de neige.md)* || *[Lame de feu](./Lame de feu.md)*, *[métal brûlant](./Métal brûlant.md)*
+| 4-7 || *[[Appel de la foudre]]*, *[[tempête de neige]]* || *[[Lame de feu]]*, *[[métal brûlant]]*
 |-
-| 8-11 || *[Appel de la tempête](./Appel de la tempête.md)*, *[mur d’épines](./Mur dépines.md)* || *[Colonne de feu](./Colonne de feu.md)*, *[tempête de grêle](./Tempête de grêle.md)*
+| 8-11 || *[[Appel de la tempête]]*, *[[mur dépines|mur d’épines]]* || *[[Colonne de feu]]*, *[[tempête de grêle]]*
 |-
-| 12-15 || *[Coquille antivie](./Coquille antivie.md)*, *[contrôle du climat](./Contrôle du climat.md)* || *[Germes de feu](./Germes de feu.md)*, *[mur de pierre](./Mur de pierre.md)*
+| 12-15 || *[[Coquille antivie]]*, *[[contrôle du climat]]* || *[[Germes de feu]]*, *[[mur de pierre]]*
 |-
-| 16+ || *[Grand tertre](./Grand tertre.md)*, *[convocation d’alliés naturels IX](./Convocation dalliés naturels IX.md)* || *[Tremblement de terre](./Tremblement de terre.md)*, *[doigt de mort](./Doigt de mort.md)*
+| 16+ || *[[Grand tertre]]*, *[[convocation dalliés naturels IX|convocation d’alliés naturels IX]]* || *[[Tremblement de terre]]*, *[[doigt de mort]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre ignore les [terrains difficiles](./terrain difficile.md) qui résultent d’environnements naturels non-magiques.
+| COLSPAN="3" | **Avantage.** Le monstre ignore les [[terrain difficile|terrains difficiles]] qui résultent d’environnements naturels non-magiques.
 |}
 
 {s:Reference|Nécromancie}
@@ -888,17 +888,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Contact glacial](./Contact glacial.md)*, *[rayon affaiblissant](./Rayon affaiblissant.md)* || *[Saignement](./sort Saignement.md)*, *[fatigue](./Fatigue.md)*
+| 0-3 || *[[Contact glacial]]*, *[[rayon affaiblissant]]* || *[[sort Saignement|Saignement]]*, *[[fatigue]]*
 |-
-| 4-7 || *[Rayon d’épuisement](./Rayon dépuisement.md)*, *[baiser du vampire](./Baiser du vampire.md)* || *[Cécité/surdité](./Cécitésurdité.md)*, *[effroi](./Effroi.md)*
+| 4-7 || *[[Rayon dépuisement|Rayon d’épuisement]]*, *[[baiser du vampire]]* || *[[Cécitésurdité|Cécité/surdité]]*, *[[effroi]]*
 |-
-| 8-11 || *[Animation des morts](./Animation des morts.md)*, *[malédiction](./malédiction.md)* || *[Contagion](./Contagion.md)*, *[énergie négative](./Énergie négative.md)*
+| 8-11 || *[[Animation des morts]]*, *[[malédiction]]* || *[[Contagion]]*, *[[énergie négative]]*
 |-
-| 12-15 || *[Doigt de mort](./Doigt de mort.md)*, *[vagues d’épuisement](./Vagues dépuisement.md)* || *[Cercle de mort](./Cercle de mort.md)*, *[mauvais oeil](./mauvais-oeil.md)*
+| 12-15 || *[[Doigt de mort]]*, *[[vagues dépuisement|vagues d’épuisement]]* || *[[Cercle de mort]]*, *[[mauvais oeil]]*
 |-
-| 16+ || *[Absorption d’énergie](./absorption dénergie.md)*, *[plainte d’outre-tombe](./Plainte doutre-tombe.md)* || *[Énergie négative](./Énergie négative.md)* à [incantation rapide](./Incantation rapide.md), *[flétrissure](./Flétrissure.md)*
+| 16+ || *[[Absorption dénergie|Absorption d’énergie]]*, *[[plainte doutre-tombe|plainte d’outre-tombe]]* || *[[Énergie négative]]* à [[incantation rapide]], *[[flétrissure]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne l’option [canalisation d’énergie](./Création de monstres simplifiée, Étape 7.md#CANALISATIONDENERGIE) (énergie négative uniquement).
+| COLSPAN="3" | **Avantage.** Le monstre gagne l’option [[Création de monstres simplifiée, Étape 7#CANALISATIONDENERGIE|canalisation d’énergie]] (énergie négative uniquement).
 |}
 
 {s:Reference|Noblesse}
@@ -907,17 +907,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Bénédiction](./Bénédiction.md)*, *[injonction](./Injonction.md)* || *[Imprécation](./Imprécation.md)*, *[sanctuaire](./Sanctuaire.md)*
+| 0-3 || *[[Bénédiction]]*, *[[injonction]]* || *[[Imprécation]]*, *[[sanctuaire]]*
 |-
-| 4-7 || *[Malédiction](./malédiction.md)*, *[convocation de monstres III](./Convocation de monstres III.md)* || *[Discours captivant](./Discours captivant.md)*, *[protection d’autrui](./Protection dautrui.md)*
+| 4-7 || *[[Malédiction]]*, *[[convocation de monstres III]]* || *[[Discours captivant]]*, *[[protection dautrui|protection d’autrui]]*
 |-
-| 8-11 || *[Injonction suprême](./Injonction suprême.md)*, *[convocation de monstres V](./Convocation de monstres V.md)* || *[Détection du mensonge](./Détection du mensonge.md)*, *[liberté de mouvement](./Liberté de mouvement.md)*
+| 8-11 || *[[Injonction suprême]]*, *[[convocation de monstres V]]* || *[[Détection du mensonge]]*, *[[liberté de mouvement]]*
 |-
-| 12-15 || *[Champ de force](./Champ de force.md)*, *[convocation de monstres VII](./Convocation de monstres VII.md)* || *[Quête](./Quête.md)*, *[mot de rappel](./Mot de rappel.md)*
+| 12-15 || *[[Champ de force]]*, *[[convocation de monstres VII]]* || *[[Quête]]*, *[[mot de rappel]]*
 |-
-| 16+ || *[Présence écrasante](./Présence écrasante.md)*, *[tempête vengeresse](./Tempête vengeresse.md)* || *[Exigence](./Exigence.md)*, *[soins importants de groupe](./Soins importants de groupe.md)*
+| 16+ || *[[Présence écrasante]]*, *[[tempête vengeresse]]* || *[[Exigence]]*, *[[soins importants de groupe]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne [Diplomatie](./Diplomatie.md) ou [Psychologie](./Psychologie.md) comme compétence maîtrisée supplémentaire.
+| COLSPAN="3" | **Avantage.** Le monstre gagne [[Diplomatie]] ou [[Psychologie]] comme compétence maîtrisée supplémentaire.
 |}
 
 {s:Reference|Protection}
@@ -926,15 +926,15 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Verrouillage](./Verrouillage.md)*, *[sanctuaire](./Sanctuaire.md)* || *[Alarme](./Alarme.md)*, *[résistance](./sort Résistance.md)*
+| 0-3 || *[[Verrouillage]]*, *[[sanctuaire]]* || *[[Alarme]]*, *[[sort Résistance|résistance]]*
 |-
-| 4-7 || *[Dissipation de la magie](./Dissipation de la magie.md)*, *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)* || *[Résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, *[protection d’autrui](./Protection dautrui.md)*
+| 4-7 || *[[Dissipation de la magie]]*, *[[protection contre les énergies destructives]]* || *[[Résistance aux énergies destructives]]*, *[[protection dautrui|protection d’autrui]]*
 |-
-| 8-11 || *[Renvoi](./Renvoi.md)*, *[résistance à la magie](./sort résistance à la magie.md)* || *[Ancre dimensionnelle](./Ancre dimensionnelle.md)*, *[immunité contre les sorts](./Immunité contre les sorts.md)*
+| 8-11 || *[[Renvoi]]*, *[[sort Résistance à la magie|résistance à la magie]]* || *[[Ancre dimensionnelle]]*, *[[immunité contre les sorts]]*
 |-
-| 12-15 || *[Globe d’invulnérabilité renforcée](./Globe dinvulnérabilité renforcée.md)*, *[champ de force](./Champ de force.md)* || *[Zone d’antimagie](./Zone dantimagie.md)*, *[dissipation suprême](./Dissipation suprême.md)*
+| 12-15 || *[[Globe dinvulnérabilité renforcée|Globe d’invulnérabilité renforcée]]*, *[[champ de force]]* || *[[Zone dantimagie|Zone d’antimagie]]*, *[[dissipation suprême]]*
 |-
-| 16+ || *[Sphère prismatique](./Sphère prismatique.md)*, *[mur de suppression](./Mur de suppression.md)* || *[Esprit impénétrable](./Esprit impénétrable.md)*, *[mur prismatique](./Mur prismatique.md)*
+| 16+ || *[[Sphère prismatique]]*, *[[mur de suppression]]* || *[[Esprit impénétrable]]*, *[[mur prismatique]]*
 |- CLASS="premier"
 | COLSPAN="3" | **Avantage.** Augmentez de 1 tous les bonus de sauvegarde du monstre.
 |}
@@ -945,17 +945,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Perception de la mort](./Perception de la mort.md)*, *[rayon affaiblissant](./Rayon affaiblissant.md)* || *[Frayeur](./Frayeur.md)*, *[contact glacial](./Contact glacial.md)*
+| 0-3 || *[[Perception de la mort]]*, *[[rayon affaiblissant]]* || *[[Frayeur]]*, *[[contact glacial]]*
 |-
-| 4-7 || *[Simulacre de vie](./Simulacre de vie.md)*, *[effroi](./Effroi.md)* || *[Préservation des morts](./Préservation des morts.md)*, *[communication avec les morts](./Communication avec les morts.md)*
+| 4-7 || *[[Simulacre de vie]]*, *[[effroi]]* || *[[Préservation des morts]]*, *[[communication avec les morts]]*
 |-
-| 8-11 || *[Protection contre la mort](./Protection contre la mort.md)*, *[exécution](./Exécution.md)* || *[Énergie négative](./Énergie négative.md)*, *[terreur](./Terreur.md)*
+| 8-11 || *[[Protection contre la mort]]*, *[[exécution]]* || *[[Énergie négative]]*, *[[terreur]]*
 |-
-| 12-15 || *[Cercle de mort](./Cercle de mort.md)*, *[destruction](./destruction.md)* || *[Annihilation de mort-vivant](./Annihilation de mort-vivant.md)*, *[vagues de fatigue](./Vagues de fatigue.md)*
+| 12-15 || *[[Cercle de mort]]*, *[[destruction]]* || *[[Annihilation de mort-vivant]]*, *[[vagues de fatigue]]*
 |-
-| 16+ || *[Mot de pouvoir mortel](./Mot de pouvoir mortel.md)*, *[plainte d’outre-tombe](./Plainte doutre-tombe.md)* || *[Doigt de mort](./Doigt de mort.md)*, *[vagues d’épuisement](./Vagues dépuisement.md)*
+| 16+ || *[[Mot de pouvoir mortel]]*, *[[plainte doutre-tombe|plainte d’outre-tombe]]* || *[[Doigt de mort]]*, *[[vagues dépuisement|vagues d’épuisement]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +4 aux [jets de sauvegarde](./JDS.md) contre les effets et sorts de mort.
+| COLSPAN="3" | **Avantage.** Le monstre gagne un bonus de +4 aux [[jds|jets de sauvegarde]] contre les effets et sorts de mort.
 |}
 
 {s:Reference|Rune}
@@ -964,17 +964,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Alarme](./Alarme.md)*, *[effacement](./Effacement.md)* || *[Signature magique](./Signature magique.md)*, *[protection contre le Chaos](./Protection contre le Chaos.md)/[le Mal](./Protection contre le Mal.md)/[le Bien](./Protection contre le Bien.md)/[la Loi](./Protection contre la Loi.md)*
+| 0-3 || *[[Alarme]]*, *[[effacement]]* || *[[Signature magique]]*, *[[protection contre le Chaos]]/[[protection contre le Mal|le Mal]]/[[protection contre le Bien|le Bien]]/[[protection contre la Loi|la Loi]]*
 |-
-| 4-7 || *[Verrou du mage](./Verrou du mage.md)*, *[glyphe de garde](./Glyphe de garde.md)* || *[Dissipation de la magie](./Dissipation de la magie.md)*, *[symbole de miroir](./Symbole de miroir.md)*
+| 4-7 || *[[Verrou du mage]]*, *[[glyphe de garde]]* || *[[Dissipation de la magie]]*, *[[symbole de miroir]]*
 |-
-| 8-11 || *[Contrat](./Contrat.md)*, *[symbole de douleur](./Symbole de douleur.md)* || *[Runes explosives](./Runes explosives.md)*, *[symbole de lenteur](./Symbole de lenteur.md)*
+| 8-11 || *[[Contrat]]*, *[[symbole de douleur]]* || *[[Runes explosives]]*, *[[symbole de lenteur]]*
 |-
-| 12-15 || *[Symbole d’étourdissement](./Symbole détourdissement.md)*, *[symbole de faiblesse](./Symbole de faiblesse.md)* || *[Glyphe de garde suprême](./Glyphe de garde suprême.md)*, *[symbole de terreur](./Symbole de terreur.md)*
+| 12-15 || *[[Symbole détourdissement|Symbole d’étourdissement]]*, *[[symbole de faiblesse]]* || *[[Glyphe de garde suprême]]*, *[[symbole de terreur]]*
 |-
-| 16+ || *[Symbole de lutte](./Symbole de lutte.md)*, *[symbole de vulnérabilité](./Symbole de vulnérabilité.md)* || *[Symbole de mort](./Symbole de mort.md)*, *[symbole d’aliénation mentale](./Symbole daliénation mentale.md)*
+| 16+ || *[[Symbole de lutte]]*, *[[symbole de vulnérabilité]]* || *[[Symbole de mort]]*, *[[symbole daliénation mentale|symbole d’aliénation mentale]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Choisissez un type d’énergie. Le monstre gagne résistance 5 face à ce type d’énergie. Au [FP](./FP.md) 12, cette résistance passe à 10. Au [FP](./FP.md) 16, elle passe à 20.
+| COLSPAN="3" | **Avantage.** Choisissez un type d’énergie. Le monstre gagne résistance 5 face à ce type d’énergie. Au [[FP]] 12, cette résistance passe à 10. Au [[FP]] 16, elle passe à 20.
 |}
 
 {s:Reference|Soins}
@@ -983,17 +983,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Soins légers](./Soins légers.md)*, *[sanctuaire](./Sanctuaire.md)* || *[Stabilisation](./Stabilisation.md)*, *[stimulant](./Stimulant.md)*
+| 0-3 || *[[Soins légers]]*, *[[sanctuaire]]* || *[[Stabilisation]]*, *[[stimulant]]*
 |-
-| 4-7 || *[Soins importants](./Soins importants.md)*, *[guérison des maladies](./Guérison des maladies.md)* || *[Soins modérés](./Soins modérés.md)*, *[protection d’autrui](./Protection dautrui.md)*
+| 4-7 || *[[Soins importants]]*, *[[guérison des maladies]]* || *[[Soins modérés]]*, *[[protection dautrui|protection d’autrui]]*
 |-
-| 8-11 || *[Souffle de vie](./Souffle de vie.md)*, *[soins légers de groupe](./Soins légers de groupe.md)* || *[Soins importants](./Soins importants.md)*, *[neutralisation du poison](./Neutralisation du poison.md)*
+| 8-11 || *[[Souffle de vie]]*, *[[soins légers de groupe]]* || *[[Soins importants]]*, *[[neutralisation du poison]]*
 |-
-| 12-15 || *[Soins importants de groupe](./Soins importants de groupe.md)*, *[régénération](./Régénération.md)* || *[Guérison suprême](./Guérison suprême.md)*, *[soins modérés](./Soins modérés.md)*
+| 12-15 || *[[Soins importants de groupe]]*, *[[régénération]]* || *[[Guérison suprême]]*, *[[soins modérés]]*
 |-
-| 16+ || *[Souffle de vie](./Souffle de vie.md)* à [incantation rapide](./Incantation rapide.md), *[guérison suprême de groupe](./Guérison suprême de groupe.md)* || *[Soins importants](./Soins importants.md)* à [incantation rapide](./Incantation rapide.md), *[soins importants de groupe](./Soins importants de groupe.md)*
+| 16+ || *[[Souffle de vie]]* à [[incantation rapide]], *[[guérison suprême de groupe]]* || *[[Soins importants]]* à [[incantation rapide]], *[[soins importants de groupe]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne [Diplomatie](./Diplomatie.md) ou [Premiers secours](./Premiers secours.md) comme compétence maîtrisée supplémentaire.
+| COLSPAN="3" | **Avantage.** Le monstre gagne [[Diplomatie]] ou [[Premiers secours]] comme compétence maîtrisée supplémentaire.
 |}
 
 {s:Reference|Soleil}
@@ -1002,17 +1002,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Mains brûlantes](./Mains brûlantes.md)*, *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)* || *[Illumination](./Illumination.md)*, *[lumière](./Lumière.md)*
+| 0-3 || *[[Mains brûlantes]]*, *[[endurance aux énergies destructives]]* || *[[Illumination]]*, *[[lumière]]*
 |-
-| 4-7 || *[Lumière du jour](./Lumière du jour.md)*, *[lumière brûlante](./Lumière brûlante.md)* || *[Métal brûlant](./Métal brûlant.md)*, *[rayon ardent](./Rayon ardent.md)*
+| 4-7 || *[[Lumière du jour]]*, *[[lumière brûlante]]* || *[[Métal brûlant]]*, *[[rayon ardent]]*
 |-
-| 8-11 || *[Colonne de feu](./Colonne de feu.md)*, *[lumière brûlante](./Lumière brûlante.md)* à [extension d’effet](./Extension deffet.md) || *[Bouclier de feu](./Bouclier de feu.md)*, *[flèches enflammées](./Flèches enflammées.md)*
+| 8-11 || *[[Colonne de feu]]*, *[[lumière brûlante]]* à [[Extension deffet|extension d’effet]] || *[[Bouclier de feu]]*, *[[flèches enflammées]]*
 |-
-| 12-15 || *[Colonne de feu](./Colonne de feu.md)* à [extension d’effet](./Extension deffet.md), *[rayon de soleil](./Rayon de soleil.md)* || *[Germes de feu](./Germes de feu.md)*, *[boule de feu](./Boule de feu.md)* sous [quintessence des sorts](./Quintessence des sorts.md)
+| 12-15 || *[[Colonne de feu]]* à [[Extension deffet|extension d’effet]], *[[rayon de soleil]]* || *[[Germes de feu]]*, *[[boule de feu]]* sous [[quintessence des sorts]]
 |-
-| 16+ || *[Nuée de météores](./Nuée de météores.md)*, *[sphère prismatique](./Sphère prismatique.md)* || *[Tempête de feu](./Tempête de feu.md)*, *[explosion de lumière](./Explosion de lumière.md)*
+| 16+ || *[[Nuée de météores]]*, *[[sphère prismatique]]* || *[[Tempête de feu]]*, *[[explosion de lumière]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Augmentez de 1 le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) de tous les sorts de cette liste que le monstre peut lancer.
+| COLSPAN="3" | **Avantage.** Augmentez de 1 le [[DD]] du [[jds|jet de sauvegarde]] de tous les sorts de cette liste que le monstre peut lancer.
 |}
 
 {s:Reference|Son}
@@ -1021,17 +1021,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Injonction](./Injonction.md)*, *[cri perçant](./Cri perçant.md)* || *[Son imaginaire](./Son imaginaire.md)*, *[message](./Message.md)*
+| 0-3 || *[[Injonction]]*, *[[cri perçant]]* || *[[Son imaginaire]]*, *[[message]]*
 |-
-| 4-7 || *[Discours captivant](./Discours captivant.md)*, *[silence](./Silence.md)* || *[Fracassement](./Fracassement.md)*, *[cacophonie](./Cacophonie.md)*
+| 4-7 || *[[Discours captivant]]*, *[[silence]]* || *[[Fracassement]]*, *[[cacophonie]]*
 |-
-| 8-11 || *[Chant de discorde](./Chant de discorde.md)*, *[zone de silence](./Zone de silence.md)* || *[Cri](./Cri.md)*, *[cacophonie](./Cacophonie.md)* à [extension d’effet](./Extension deffet.md)
+| 8-11 || *[[Chant de discorde]]*, *[[zone de silence]]* || *[[Cri]]*, *[[cacophonie]]* à [[Extension deffet|extension d’effet]]
 |-
-| 12-15 || *[Cri](./Cri.md)* sous [quintessence des sorts](./Quintessence des sorts.md), *[silence](./Silence.md)* à [incantation rapide](./Incantation rapide.md) || *[Cri suprême](./Cri suprême.md)*, *[résonance](./Résonance.md)*
+| 12-15 || *[[Cri]]* sous [[quintessence des sorts]], *[[silence]]* à [[incantation rapide]] || *[[Cri suprême]]*, *[[résonance]]*
 |-
-| 16+ || *[Cri suprême](./Cri suprême.md)* sous [quintessence des sorts](./Quintessence des sorts.md), *[mot de pouvoir mortel](./Mot de pouvoir mortel.md)* || *[Mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*, *[cri](./Cri.md)* à [incantation rapide](./Incantation rapide.md)
+| 16+ || *[[Cri suprême]]* sous [[quintessence des sorts]], *[[mot de pouvoir mortel]]* || *[[Mot de pouvoir étourdissant]]*, *[[cri]]* à [[incantation rapide]]
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne résistance aux sons 5. Au [FP](./FP.md) 12, cette résistance passe à 10. Au [FP](./FP.md) 16, le monstre est immunisé contre les sons.
+| COLSPAN="3" | **Avantage.** Le monstre gagne résistance aux sons 5. Au [[FP]] 12, cette résistance passe à 10. Au [[FP]] 16, le monstre est immunisé contre les sons.
 |}
 
 {s:Reference|Terre}
@@ -1040,17 +1040,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Excavation expéditive](./Excavation expéditive.md)*, *[pierre magique](./Pierre magique.md)* || *[Aspersion acide](./Aspersion acide.md)*, *[résistance](./sort Résistance.md)*
+| 0-3 || *[[Excavation expéditive]]*, *[[pierre magique]]* || *[[Aspersion acide]]*, *[[sort Résistance|résistance]]*
 |-
-| 4-7 || *[Fusion dans la pierre](./Fusion dans la pierre.md)*, *[façonnage de la pierre](./Façonnage de la pierre.md)* || *[Flèche acide](./Flèche acide.md)*, *[ramollissement de la terre et de la pierre](./Ramollissement de la terre et de la pierre.md)*
+| 4-7 || *[[Fusion dans la pierre]]*, *[[façonnage de la pierre]]* || *[[Flèche acide]]*, *[[ramollissement de la terre et de la pierre]]*
 |-
-| 8-11 || *[Transmutation de la boue en pierre](./Transmutation de la boue en pierre.md)*, *[transmutation de la pierre en boue](./Transmutation de la pierre en boue.md)* || *[Pierres acérées](./Pierres acérées.md)*, *[mur de pierre](./Mur de pierre.md)*
+| 8-11 || *[[Transmutation de la boue en pierre]]*, *[[transmutation de la pierre en boue]]* || *[[Pierres acérées]]*, *[[mur de pierre]]*
 |-
-| 12-15 || *[Corps élémentaire IV](./Corps élémentaire IV.md) (terre uniquement)*, *[mur de fer](./Mur de fer.md)* || *[Création majeure](./Création majeure.md)*, *[glissement de terrain](./Glissement de terrain.md)*
+| 12-15 || *[[Corps élémentaire IV]] (terre uniquement)*, *[[mur de fer]]* || *[[Création majeure]]*, *[[glissement de terrain]]*
 |-
-| 16+ || *[Nuée d’élémentaires](./Nuée délémentaires.md) (terre uniquement)*, *[emprisonnement](./Emprisonnement.md)* || *[Corps de fer](./Corps de fer.md)*, *[tremblement de terre](./Tremblement de terre.md)*
+| 16+ || *[[Nuée délémentaires|Nuée d’élémentaires]] (terre uniquement)*, *[[emprisonnement]]* || *[[Corps de fer]]*, *[[tremblement de terre]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne résistance à l’acide 5. Au [FP](./FP.md) 12, augmentez cette résistance à 10. Au [FP](./FP.md) 16, le monstre est immunisé contre l’acide.
+| COLSPAN="3" | **Avantage.** Le monstre gagne résistance à l’acide 5. Au [[FP]] 12, augmentez cette résistance à 10. Au [[FP]] 16, le monstre est immunisé contre l’acide.
 |}
 
 {s:Reference|Transmutation}
@@ -1059,17 +1059,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Agrandissement](./Agrandissement.md)*, *[repli expéditif](./Repli expéditif.md)* || *[Corde animée](./Corde animée.md)*, *[rapetissement](./Rapetissement.md)*
+| 0-3 || *[[Agrandissement]]*, *[[repli expéditif]]* || *[[Corde animée]]*, *[[rapetissement]]*
 |-
-| 4-7 || *[Rapidité](./Rapidité.md)*, *[lenteur](./Lenteur.md)* || *[Modification d’apparence](./Modification dapparence.md)*, *[lévitation](./Lévitation.md)*
+| 4-7 || *[[Rapidité]]*, *[[lenteur]]* || *[[Modification dapparence|Modification d’apparence]]*, *[[lévitation]]*
 |-
-| 8-11 || *[Métamorphose funeste](./Métamorphose funeste.md)*, *[métamorphose](./métamorphose.md)* || *[Forme bestiale II](./Forme bestiale II.md)*, *[rapetissement de groupe](./Rapetissement de groupe.md)*
+| 8-11 || *[[Métamorphose funeste]]*, *[[métamorphose]]* || *[[Forme bestiale II]]*, *[[rapetissement de groupe]]*
 |-
-| 12-15 || *[Forme de géant I](./Forme de géant I.md)*, *[métamorphose suprême](./Métamorphose suprême.md)* || *[Désintégration](./Désintégration.md)*, *[pétrification](./Pétrification.md)*
+| 12-15 || *[[Forme de géant I]]*, *[[métamorphose suprême]]* || *[[Désintégration]]*, *[[pétrification]]*
 |-
-| 16+ || *[Forme draconique III](./Forme draconique III.md)*, *[changement de forme](./Changement de forme.md)* || *[Corps de fer](./Corps de fer.md)*, *[métamorphose universelle](./Métamorphose universelle.md)*
+| 16+ || *[[Forme draconique III]]*, *[[changement de forme]]* || *[[Corps de fer]]*, *[[métamorphose universelle]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Augmentez de 1 le modificateur d’une caractéristique physique du monstre. Au [FP](./FP.md) 12, augmentez-le de 2 à la place.
+| COLSPAN="3" | **Avantage.** Augmentez de 1 le modificateur d’une caractéristique physique du monstre. Au [[FP]] 12, augmentez-le de 2 à la place.
 |}
 
 {s:Reference|Voyage}
@@ -1078,15 +1078,15 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Saut](./Saut.md)*, *[grand pas](./Grand pas.md)* || *[Repli expéditif](./Repli expéditif.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*
+| 0-3 || *[[Saut]]*, *[[grand pas]]* || *[[Repli expéditif]]*, *[[ouverturefermeture|ouverture/fermeture]]*
 |-
-| 4-7 || *[Vol](./sort Vol.md)*, *[état gazeux](./État gazeux.md)* || *[Déblocage](./Déblocage.md)*, *[lévitation](./Lévitation.md)*
+| 4-7 || *[[sort Vol|Vol]]*, *[[état gazeux]]* || *[[Déblocage]]*, *[[lévitation]]*
 |-
-| 8-11 || *[Vol supérieur](./Vol supérieur.md)*, *[téléportation](./téléportation.md)* || *[Porte dimensionnelle](./Porte dimensionnelle.md)*, *[liberté de mouvement](./Liberté de mouvement.md)*
+| 8-11 || *[[Vol supérieur]]*, *[[téléportation]]* || *[[Porte dimensionnelle]]*, *[[liberté de mouvement]]*
 |-
-| 12-15 || *[Téléportation suprême](./Téléportation suprême.md)*, *[changement de plan](./Changement de plan.md)* || *[Orientation](./Orientation.md)*, *[traversée des ombres](./Traversée des ombres.md)*
+| 12-15 || *[[Téléportation suprême]]*, *[[changement de plan]]* || *[[Orientation]]*, *[[traversée des ombres]]*
 |-
-| 16+ || *[Projection astrale](./Projection astrale.md)*, *[portail](./Portail.md)* || *[Forme éthérée](./Forme éthérée.md)*, *[porte de phase](./Porte de phase.md)*
+| 16+ || *[[Projection astrale]]*, *[[portail]]* || *[[Forme éthérée]]*, *[[porte de phase]]*
 |- CLASS="premier"
 | COLSPAN="3" | **Avantage.** Augmentez la vitesse de déplacement du monstre de 3 mètres.
 |}
@@ -1097,17 +1097,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[frayeur](./Frayeur.md)*, *[mains brûlantes](./Mains brûlantes.md)* || *[Coup au but](./Coup au but.md)*, *[saut](./Saut.md)*
+| 0-3 || *[[frayeur]]*, *[[mains brûlantes]]* || *[[Coup au but]]*, *[[saut]]*
 |-
-| 4-7 || *[Rapidité](./Rapidité.md)*, *[vol](./sort Vol.md)* || *[Effroi](./Effroi.md)*, *[réservoir draconique](./Réservoir draconique.md)*
+| 4-7 || *[[Rapidité]]*, *[[sort Vol|vol]]* || *[[Effroi]]*, *[[réservoir draconique]]*
 |-
-| 8-11 || *[Résistance à la magie](./résistance à la magie.md)*, *[vol supérieur](./Vol supérieur.md)* || *[Souffle de dragon](./Souffle de dragon.md)*, *[terreur](./Terreur.md)*
+| 8-11 || *[[Résistance à la magie]]*, *[[vol supérieur]]* || *[[Souffle de dragon]]*, *[[terreur]]*
 |-
-| 12-15 || *[Forme draconique II](./Forme draconique II.md)*, *[renvoi des sorts](./Renvoi des sorts.md)* || *[Forme draconique I](./Forme draconique I.md)*, *[symbole de terreur](./Symbole de terreur.md)*
+| 12-15 || *[[Forme draconique II]]*, *[[renvoi des sorts]]* || *[[Forme draconique I]]*, *[[symbole de terreur]]*
 |-
-| 16+ || *[Forme draconique III](./Forme draconique III.md)*, *[souhait](./Souhait.md)* || *[Mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*, *[prémonition](./Prémonition.md)*
+| 16+ || *[[Forme draconique III]]*, *[[souhait]]* || *[[Mot de pouvoir étourdissant]]*, *[[prémonition]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** La [CA](./CA.md) et la [CA](./CA.md) [pris au dépourvu](./Pris au dépourvu.md) du monstre augmentent de 2. De plus, le monstre gagne résistance 5 à l’acide, au froid, à l’électricité ou au feu, selon votre choix.
+| COLSPAN="3" | **Avantage.** La [[CA]] et la [[CA]] [[pris au dépourvu]] du monstre augmentent de 2. De plus, le monstre gagne résistance 5 à l’acide, au froid, à l’électricité ou au feu, selon votre choix.
 |}
 
 {s:Reference|Élémentaires}
@@ -1116,15 +1116,15 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Mains brûlantes](./Mains brûlantes.md)*, *[flammes](./Flammes.md)* || *[Rayon de givre](./Rayon de givre.md)*, *[résistance](./sort Résistance.md)*
+| 0-3 || *[[Mains brûlantes]]*, *[[flammes]]* || *[[Rayon de givre]]*, *[[sort Résistance|résistance]]*
 |-
-| 4-7 || *[Boule de feu](./Boule de feu.md)*, *[éclair](./Éclair.md)* || *[Rayon ardent](./Rayon ardent.md)*, *[tempête de neige](./Tempête de neige.md)*
+| 4-7 || *[[Boule de feu]]*, *[[éclair]]* || *[[Rayon ardent]]*, *[[tempête de neige]]*
 |-
-| 8-11 || *[Contrôle des vents](./Contrôle des vents.md)*, *[corps élémentaire II](./Corps élémentaire II.md)* || *[Corps élémentaire I](./Corps élémentaire I.md)*, *[tempête de grêle](./Tempête de grêle.md)*
+| 8-11 || *[[Contrôle des vents]]*, *[[corps élémentaire II]]* || *[[Corps élémentaire I]]*, *[[tempête de grêle]]*
 |-
-| 12-15 || *[Corps élémentaire IV](./Corps élémentaire IV.md)*, *[tempête de feu](./Tempête de feu.md)* || *[Corps élémentaire III](./Corps élémentaire III.md)*, *[sphère glaciale](./Sphère glaciale.md)*
+| 12-15 || *[[Corps élémentaire IV]]*, *[[tempête de feu]]* || *[[Corps élémentaire III]]*, *[[sphère glaciale]]*
 |-
-| 16+ || *[Nuée d’élémentaires](./Nuée délémentaires.md)*, *[nuée de météores](./Nuée de météores.md)* || *[Éclair multiple](./Éclair multiple.md)* à [extension d’effet](./Extension deffet.md), *[convocation de monstres VIII](./Convocation de monstres VIII.md) (élémentaires uniquement)*
+| 16+ || *[[Nuée délémentaires|Nuée d’élémentaires]]*, *[[nuée de météores]]* || *[[Éclair multiple]]* à [[Extension deffet|extension d’effet]], *[[convocation de monstres VIII]] (élémentaires uniquement)*
 |- CLASS="premier"
 | COLSPAN="3" | **Avantage.** Le monstre gagne l’un des avantages suivants : une vitesse de vol de 18 mètres avec une manoeuvrabilité moyenne, une vitesse de creusement de 9 mètres, une augmentation de 9 mètres de sa vitesse de base ou une vitesse de nage de 18 mètres.
 |}
@@ -1135,17 +1135,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Charme-personne](./Charme-personne.md)*, *[enchevêtrement](./Enchevêtrement.md)* || *[Lumières dansantes](./Lumières dansantes.md)*, *[lueur féerique](./Lueur féerique.md)*
+| 0-3 || *[[Charme-personne]]*, *[[enchevêtrement]]* || *[[Lumières dansantes]]*, *[[lueur féerique]]*
 |-
-| 4-7 || *[Sommeil profond](./Sommeil profond.md)*, *[suggestion](./Suggestion.md)* || *[Poussière scintillante](./Poussière scintillante.md)*, *[fou rire](./Fou rire.md)*
+| 4-7 || *[[Sommeil profond]]*, *[[suggestion]]* || *[[Poussière scintillante]]*, *[[fou rire]]*
 |-
-| 8-11 || *[Métamorphose funeste](./Métamorphose funeste.md)*, *[voyage par les arbres](./Voyage par les arbres.md)* || *[Porte dimensionnelle](./Porte dimensionnelle.md)*, *[empoisonnement](./Empoisonnement.md)*
+| 8-11 || *[[Métamorphose funeste]]*, *[[voyage par les arbres]]* || *[[Porte dimensionnelle]]*, *[[empoisonnement]]*
 |-
-| 12-15 || *[Aliénation mentale](./Aliénation mentale.md)*, *[porte de phase](./Porte de phase.md)* || *[Double illusoire](./Double illusoire.md)*, *[voie végétale](./Voie végétale.md)*
+| 12-15 || *[[Aliénation mentale]]*, *[[porte de phase]]* || *[[Double illusoire]]*, *[[voie végétale]]*
 |-
-| 16+ || *[Grand tertre](./Grand tertre.md)*, *[changement de forme](./Changement de forme.md)* || *[Danse irrésistible](./Danse irrésistible.md)*, *[motif scintillant](./Motif scintillant.md)*
+| 16+ || *[[Grand tertre]]*, *[[changement de forme]]* || *[[Danse irrésistible]]*, *[[motif scintillant]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Augmentez de 2 le [DD](./DD.md) des [jets de sauvegarde](./JDS.md) de tous les sorts de [coercition](./branche coercition.md) que lance le monstre.
+| COLSPAN="3" | **Avantage.** Augmentez de 2 le [[DD]] des [[jds|jets de sauvegarde]] de tous les sorts de [[branche coercition|coercition]] que lance le monstre.
 |}
 
 {s:Reference|Infernaux}
@@ -1154,17 +1154,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Mains brûlantes](./Mains brûlantes.md)*, *[protection contre le Bien](./Protection contre le Bien.md)* || *[Charme-personne](./Charme-personne.md)*, *[illumination](./Illumination.md)*
+| 0-3 || *[[Mains brûlantes]]*, *[[protection contre le Bien]]* || *[[Charme-personne]]*, *[[illumination]]*
 |-
-| 4-7 || *[Boule de feu](./Boule de feu.md)*, *[suggestion](./Suggestion.md)* || *[Hébétement de monstre](./Hébétement de monstre.md)*, *[rayon ardent](./Rayon ardent.md)*
+| 4-7 || *[[Boule de feu]]*, *[[suggestion]]* || *[[Hébétement de monstre]]*, *[[rayon ardent]]*
 |-
-| 8-11 || *[Domination](./Domination.md)*, *[boule de feu](./Boule de feu.md)* à [extension d’effet](./Extension deffet.md) || *[Charme-monstre](./Charme-monstre.md)*, *[mur de feu](./Mur de feu.md)*
+| 8-11 || *[[Domination]]*, *[[boule de feu]]* à [[Extension deffet|extension d’effet]] || *[[Charme-monstre]]*, *[[mur de feu]]*
 |-
-| 12-15 || *[Blasphème](./Blasphème.md)*, *[téléportation suprême](./Téléportation suprême.md)* || *[Boule de feu](./Boule de feu.md)* à [incantation rapide](./Incantation rapide.md), *[suggestion de groupe](./Suggestion de groupe.md)*
+| 12-15 || *[[Blasphème]]*, *[[téléportation suprême]]* || *[[Boule de feu]]* à [[incantation rapide]], *[[suggestion de groupe]]*
 |-
-| 16+ || *[Domination universelle](./Domination universelle.md)*, *[nuée de météores](./Nuée de météores.md)* || *[Boule de feu](./Boule de feu.md)* sous [quintessence des sorts](./Quintessence des sorts.md) à [extension d’effet](./Extension deffet.md), *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*
+| 16+ || *[[Domination universelle]]*, *[[nuée de météores]]* || *[[Boule de feu]]* sous [[quintessence des sorts]] à [[Extension deffet|extension d’effet]], *[[mot de pouvoir étourdissant]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Le monstre gagne résistance au feu 5 et un bonus de +2 aux [jets de sauvegarde](./JDS.md) contre le poison. Au [FP](./FP.md) 9, la résistance au feu passe à 10 et le bonus aux [jets de sauvegarde](./JDS.md) contre le poison passe à +4.
+| COLSPAN="3" | **Avantage.** Le monstre gagne résistance au feu 5 et un bonus de +2 aux [[jds|jets de sauvegarde]] contre le poison. Au [[FP]] 9, la résistance au feu passe à 10 et le bonus aux [[jds|jets de sauvegarde]] contre le poison passe à +4.
 |}
 
 {s:Reference|Profanes}
@@ -1173,17 +1173,17 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Projectile magique](./Projectile magique.md)*, *[repli expéditif](./Repli expéditif.md)* || *[Lumière](./Lumière.md)*, *[prestidigitation](./Prestidigitation.md)*
+| 0-3 || *[[Projectile magique]]*, *[[repli expéditif]]* || *[[Lumière]]*, *[[prestidigitation]]*
 |-
-| 4-7 || *[Dissipation de la magie](./Dissipation de la magie.md)*, *[lévitation](./Lévitation.md)* || *[Invisibilité](./Invisibilité.md)*, *[rayon ardent](./Rayon ardent.md)*
+| 4-7 || *[[Dissipation de la magie]]*, *[[lévitation]]* || *[[Invisibilité]]*, *[[rayon ardent]]*
 |-
-| 8-11 || *[Éclair](./Éclair.md)* à [extension d’effet](./Extension deffet.md), *[vol supérieur](./Vol supérieur.md)* || *[Globe d’invulnérabilité partielle](./Globe dinvulnérabilité partielle.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*
+| 8-11 || *[[Éclair]]* à [[Extension deffet|extension d’effet]], *[[vol supérieur]]* || *[[Globe dinvulnérabilité partielle|Globe d’invulnérabilité partielle]]*, *[[porte dimensionnelle]]*
 |-
-| 12-15 || *[Dissipation de la magie](./Dissipation de la magie.md)* à [incantation rapide](./Incantation rapide.md), *[téléportation suprême](./Téléportation suprême.md)* || *[Boule de feu](./Boule de feu.md)* sous [quintessence des sorts](./Quintessence des sorts.md), *[vision lucide](./Vision lucide.md)*
+| 12-15 || *[[Dissipation de la magie]]* à [[incantation rapide]], *[[téléportation suprême]]* || *[[Boule de feu]]* sous [[quintessence des sorts]], *[[vision lucide]]*
 |-
-| 16+ || *[Mot de pouvoir mortel](./Mot de pouvoir mortel.md)*, *[mur de force](./Mur de force.md)* à [incantation rapide](./Incantation rapide.md) || *[Cône de froid](./Cône de froid.md)* sous [quintessence des sorts](./Quintessence des sorts.md), *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*
+| 16+ || *[[Mot de pouvoir mortel]]*, *[[mur de force]]* à [[incantation rapide]] || *[[Cône de froid]]* sous [[quintessence des sorts]], *[[mot de pouvoir étourdissant]]*
 |- CLASS="premier"
-| COLSPAN="3" | **Avantage.** Augmentez de 1 le [DD](./DD.md) des [jets de sauvegarde](./JDS.md) de tous les sorts du monstre auxquels a été appliqué un [don de métamagie](./Dons.md#DONMETAMAGIE).
+| COLSPAN="3" | **Avantage.** Augmentez de 1 le [[DD]] des [[jds|jets de sauvegarde]] de tous les sorts du monstre auxquels a été appliqué un [[Dons#DONMETAMAGIE|don de métamagie]].
 |}
 
 {s:Reference|Voués à un grand destin}
@@ -1192,15 +1192,15 @@ Les listes qui suivent s’appuient sur différentes formes d’utilisation de l
 |- CLASS="titre"
 | Tranche de FP || Sorts principaux || Sorts secondaires
 |- CLASS="premier"
-| 0-3 || *[Alarme](./Alarme.md)*, *[protection contre le Chaos](./Protection contre le Chaos.md)/[le Mal](./Protection contre le Mal.md)/[le Bien](./Protection contre le Bien.md)/[la Loi](./Protection contre la Loi.md)* || *[Coup au but](./Coup au but.md)*, *[repli expéditif](./Repli expéditif.md)*
+| 0-3 || *[[Alarme]]*, *[[protection contre le Chaos]]/[[protection contre le Mal|le Mal]]/[[protection contre le Bien|le Bien]]/[[protection contre la Loi|la Loi]]* || *[[Coup au but]]*, *[[repli expéditif]]*
 |-
-| 4-7 || *[Déplacement](./Déplacement.md)*, *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)* || *[Espoir](./Espoir.md)*, *[flou](./Flou.md)*
+| 4-7 || *[[Déplacement]]*, *[[protection contre les énergies destructives]]* || *[[Espoir]]*, *[[flou]]*
 |-
-| 8-11 || *[Annulation d’enchantement](./Annulation denchantement.md)*, *[présage débilitant](./Présage débilitant.md)* || *[Divination](./Divination.md)*, *[liberté de mouvement](./Liberté de mouvement.md)*
+| 8-11 || *[[Annulation denchantement|Annulation d’enchantement]]*, *[[présage débilitant]]* || *[[Divination]]*, *[[liberté de mouvement]]*
 |-
-| 12-15 || *[Déplacement](./Déplacement.md)* à [incantation rapide](./Incantation rapide.md), *[présage traumatisant](./Présage traumatisant.md)* || *[Double illusoire](./Double illusoire.md)*, *[renvoi des sorts](./Renvoi des sorts.md)*
+| 12-15 || *[[Déplacement]]* à [[incantation rapide]], *[[présage traumatisant]]* || *[[Double illusoire]]*, *[[renvoi des sorts]]*
 |-
-| 16+ || *[Liberté de mouvement](./Liberté de mouvement.md)* à [incantation rapide](./Incantation rapide.md), *[prémonition](./Prémonition.md)* || *[Esprit impénétrable](./Esprit impénétrable.md)*, *[moment de prescience](./Moment de prescience.md)*
+| 16+ || *[[Liberté de mouvement]]* à [[incantation rapide]], *[[prémonition]]* || *[[Esprit impénétrable]]*, *[[moment de prescience]]*
 |- CLASS="premier"
 | COLSPAN="3" | **Avantage.** Augmentez de 1 tous les bonus de sauvegarde du monstre.
 |}

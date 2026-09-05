@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ATTAQUESANGLANTE
 ---
 
->>> [Talents#ATTAQUESANGLANTE](./Talents.md#ATTAQUESANGLANTE)
+>>> [[Talents#ATTAQUESANGLANTE]]

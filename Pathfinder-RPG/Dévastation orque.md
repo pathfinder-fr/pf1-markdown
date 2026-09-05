@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vous décimez sans effort les ennemis apeurés.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Coup de brute](./Coup de brute.md), [Force intimidante](./Force intimidante.md), [École de la furie orque](./École de la furie orque.md), 5 rangs en [Intimidation](./Intimidation.md), trait racial [apprentissage martial](./orque (race).md#Traits_raciaux_standards_7)
+**Conditions.** [[Coup de brute]], [[Force intimidante]], [[École de la furie orque]], 5 rangs en [[Intimidation]], trait racial [[Orque (race)#Traits_raciaux_standards_7|apprentissage martial]]
 
-**Avantages.** Lorsqu'il utilise l'[École de la furie orque](./École de la furie orque.md), le personnage gagne un bonus de +1 aux [jets d'attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) contre les ennemis [secoués](./Secoué.md), et il ne subit pas de malus en utilisant le don [Coup de brute](./Coup de brute.md).
+**Avantages.** Lorsqu'il utilise l'[[École de la furie orque]], le personnage gagne un bonus de +1 aux [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] contre les ennemis [[secoué|secoués]], et il ne subit pas de malus en utilisant le don [[Coup de brute]].

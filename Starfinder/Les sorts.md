@@ -11,7 +11,7 @@ Chaque catégorie d’information dans cette description est expliquée dans la 
 
 **NOM DU SORT**   
 
-**École** type de magie <nowiki>[descripteur]</nowiki>  
+**École** type de magie <nowiki>[[descripteur]]</nowiki>  
 
 **Temps d’incantation** action ou durée  
 

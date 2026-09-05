@@ -15,19 +15,19 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 2, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [Spi](./Spirite.md) 1  
+{s:AO}**École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Spirite|Spi]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[COMPOSANTES|V]]  
 
-**Portée** [courte](./courte.md) 7,50 m + 1,50 m/2 niveaux  
+**Portée** [[courte]] 7,50 m + 1,50 m/2 niveaux  
 
 **Zone** 1 créature humanoïde  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Le personnage peut lire dans les pensées superficielles de la cible et décrypter les renseignements transmis par son apparence, son langage corporel et sa manière de parler pour déduire quantité d’informations sur elle, même si elle est déguisée (y compris avec un effet de métamorphose). Quand le personnage lance ce sort, il effectue un test de [Psychologie](./Psychologie.md) [DD](./DD.md) 20 avec un bonus égal à son [niveau de lanceur de sorts](./NLS.md). S’il réussit son test, il découvre l’une des informations suivantes, de son choix, plus une par tranche de 5 points au-dessus du [DD](./DD.md) : âge, alignement, classes†, dons†, sexe, langue maternelle, lieu de naissance, race ou ethnie, traits raciaux†, religion, orientation sexuelle ou formation dans une compétence d’[Artisanat](./Artisanat.md), de [Représentation](./Représentation.md) ou de [Profession](./Profession.md). Pour les informations marquées d’un obèle (†), si la cible possède plus d’un élément de cette catégorie, chacun compte comme une information distincte.
+Le personnage peut lire dans les pensées superficielles de la cible et décrypter les renseignements transmis par son apparence, son langage corporel et sa manière de parler pour déduire quantité d’informations sur elle, même si elle est déguisée (y compris avec un effet de métamorphose). Quand le personnage lance ce sort, il effectue un test de [[Psychologie]] [[DD]] 20 avec un bonus égal à son [[NLS|niveau de lanceur de sorts]]. S’il réussit son test, il découvre l’une des informations suivantes, de son choix, plus une par tranche de 5 points au-dessus du [[DD]] : âge, alignement, classes†, dons†, sexe, langue maternelle, lieu de naissance, race ou ethnie, traits raciaux†, religion, orientation sexuelle ou formation dans une compétence d’[[Artisanat]], de [[Représentation]] ou de [[Profession]]. Pour les informations marquées d’un obèle (†), si la cible possède plus d’un élément de cette catégorie, chacun compte comme une information distincte.
 Il y a 70 % de chances que toutes les informations reçues soient correctes. Le jet est à faire en secret. Sur un résultat de 71 à 80, le personnage reçoit une information erronée, de 81 à 90 il en reçoit deux et de 91 à 100 il en reçoit trois. Il ne peut pas recevoir plus d’informations erronées qu’il ne peut obtenir d’informations.

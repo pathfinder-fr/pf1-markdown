@@ -73,14 +73,14 @@ LastModified: 2021-10-31 02:11
 | +10 || ×4 || ×4 || ×4
 |}
 </center></div></div>
-{s:Desambi|Charge est également le nom d'un [type d'action en combat](./charge.md).}
-Les règles qui suivent déterminent dans quelle mesure le personnage est ralenti par l’armure et la charge qu’il porte. Elles se divisent en deux sections distinctes : le [poids de l’armure](./Tableau récapitulatif des armures.md) et le poids total transporté.
+{s:Desambi|Charge est également le nom d'un [[charge|type d'action en combat]].}
+Les règles qui suivent déterminent dans quelle mesure le personnage est ralenti par l’armure et la charge qu’il porte. Elles se divisent en deux sections distinctes : le [[Tableau récapitulatif des armures|poids de l’armure]] et le poids total transporté.
 
-**Le poids de l’armure.** L’armure que porte le personnage détermine le bonus maximal de Dextérité qu’il peut appliquer à la [CA](./CA.md), son malus d’armure, sa vitesse de déplacement normale et celle qu’il peut espérer atteindre en courant (voir le [tableau des armures](./Tableau récapitulatif des armures.md)). À moins que le personnage ne soit très frêle ou particulièrement chargé, il n’est pas nécessaire d’en savoir davantage : en effet, le reste de son [équipement](./équipement.md) ne le ralentit pas plus que son [armure](./Caractéristiques des armures.md).
+**Le poids de l’armure.** L’armure que porte le personnage détermine le bonus maximal de Dextérité qu’il peut appliquer à la [[CA]], son malus d’armure, sa vitesse de déplacement normale et celle qu’il peut espérer atteindre en courant (voir le [[Tableau récapitulatif des armures|tableau des armures]]). À moins que le personnage ne soit très frêle ou particulièrement chargé, il n’est pas nécessaire d’en savoir davantage : en effet, le reste de son [[équipement]] ne le ralentit pas plus que son [[Caractéristiques des armures|armure]].
 
 Par contre, si le personnage est vraiment faible ou si sa charge est exceptionnellement lourde, il faut calculer le poids total de ce qu’il porte. C’est particulièrement important lorsqu’il désire transporter quelque chose de lourd.
 
-**Le poids total.** Pour savoir si le poids total porté par un personnage est suffisamment lourd pour le ralentir plus que ne le ferait son armure, il suffit d’additionner le poids de tous les objets qu’il a sur lui : [armure](./Tableau récapitulatif des armures.md), [armes](./Tableau récapitulatif des armes.md) et équipement (pour l'[aventure](./Équipement daventurier.md), l'[alchimie](./Outils alchimiques.md), d'[outils](./Outils de compétences.md) et les [vêtements](./Vêtements.md)). Comparez ensuite ce total avec la [Force](./Force.md) du personnage sur le tableau ci-dessous. En fonction du résultat, cette charge est considérée comme légère, intermédiaire ou lourde. Tout comme l’armure, la charge portée détermine le bonus de Dextérité maximal applicable à la CA, un malus aux tests (fonctionnant comme le malus d’armure aux tests), la vitesse de déplacement normale du personnage et celle qu’il atteint en courant. Tous ces chiffres sont regroupés dans le tableau ci-dessous "Effet de la charge". Une charge lourde ou intermédiaire équivaut à une [armure lourde](./armure lourde.md) ou [intermédiaire](./armure intermédiaire.md) en ce qui concerne les activités affectées par le port de l’armure. Une charge légère ne gène pas le personnage. Si le personnage porte une armure, on prend seulement en compte le résultat le plus élevé des deux (l’armure ou le poids total), on n’additionne pas les deux.
+**Le poids total.** Pour savoir si le poids total porté par un personnage est suffisamment lourd pour le ralentir plus que ne le ferait son armure, il suffit d’additionner le poids de tous les objets qu’il a sur lui : [[Tableau récapitulatif des armures|armure]], [[Tableau récapitulatif des armes|armes]] et équipement (pour l'[[Équipement daventurier|aventure]], l'[[Outils alchimiques|alchimie]], d'[[Outils de compétences|outils]] et les [[Vêtements]]). Comparez ensuite ce total avec la [[Force]] du personnage sur le tableau ci-dessous. En fonction du résultat, cette charge est considérée comme légère, intermédiaire ou lourde. Tout comme l’armure, la charge portée détermine le bonus de Dextérité maximal applicable à la CA, un malus aux tests (fonctionnant comme le malus d’armure aux tests), la vitesse de déplacement normale du personnage et celle qu’il atteint en courant. Tous ces chiffres sont regroupés dans le tableau ci-dessous "Effet de la charge". Une charge lourde ou intermédiaire équivaut à une [[armure lourde]] ou [[armure intermédiaire|intermédiaire]] en ce qui concerne les activités affectées par le port de l’armure. Une charge légère ne gène pas le personnage. Si le personnage porte une armure, on prend seulement en compte le résultat le plus élevé des deux (l’armure ou le poids total), on n’additionne pas les deux.
 
 <center>
 {| CLASS="tablo"
@@ -100,22 +100,22 @@ Par contre, si le personnage est vraiment faible ou si sa charge est exceptionne
 |}
 </center>
 
-**Soulever et tirer.** Un personnage peut soulever au-dessus de sa tête un poids égal à sa charge maximale, c’est à dire le poids le plus élevé indiqué dans la colonne « charge lourde » du tableau ci-dessus ("Charge transportable") en fonction de la [Force](./Force.md) du personnage.
+**Soulever et tirer.** Un personnage peut soulever au-dessus de sa tête un poids égal à sa charge maximale, c’est à dire le poids le plus élevé indiqué dans la colonne « charge lourde » du tableau ci-dessus ("Charge transportable") en fonction de la [[Force]] du personnage.
 
-Le personnage peut soulever le double de cette charge maximale mais, dans ce cas, il doit tenir son fardeau à bout de bras et n’avance que difficilement. Il perd tout [bonus de Dextérité](./Caractéristiques.md#TABLEAUCARACTERISTIQUES) à la [CA](./CA.md) et sa [vitesse de déplacement](./vitesse de déplacement.md) passe à 1,50 mètre par round (ce qui constitue désormais pour lui une [action complexe](./Action complexe.md)).
+Le personnage peut soulever le double de cette charge maximale mais, dans ce cas, il doit tenir son fardeau à bout de bras et n’avance que difficilement. Il perd tout [[Caractéristiques#TABLEAUCARACTERISTIQUES|bonus de Dextérité]] à la [[CA]] et sa [[vitesse de déplacement]] passe à 1,50 mètre par round (ce qui constitue désormais pour lui une [[action complexe]]).
 
 On peut tirer ou pousser jusqu’à cinq fois sa charge maximale autorisée. Ce chiffre peut être doublé si les conditions sont particulièrement favorables, ou réduit de moitié ou plus si elles sont défavorables.
 
-**Créatures plus grandes ou plus petites.** Les chiffres indiqués dans le tableau ci-dessus ("Charge transportable") concernent des bipèdes de taille M. Pour des bipèdes plus grands, on applique les multiplicateurs suivants, en fonction de leur [taille](./taille.md) : G : ×2, TG : ×4, Gig : ×8 et C : ×16. De même, les bipèdes plus petits transportent un poids moins important qui dépend aussi de leur catégorie de [taille](./taille.md) : P : 3/4, TP : 1/2, Min : 1/4, I : 1/8.
+**Créatures plus grandes ou plus petites.** Les chiffres indiqués dans le tableau ci-dessus ("Charge transportable") concernent des bipèdes de taille M. Pour des bipèdes plus grands, on applique les multiplicateurs suivants, en fonction de leur [[taille]] : G : ×2, TG : ×4, Gig : ×8 et C : ×16. De même, les bipèdes plus petits transportent un poids moins important qui dépend aussi de leur catégorie de [[taille]] : P : 3/4, TP : 1/2, Min : 1/4, I : 1/8.
 
-Les quadrupèdes peuvent porter un poids plus important que les bipèdes. Multipliez les valeurs données dans le tableau ci-dessus ("Charge transportable") correspondant à la [Force](./Force.md) des créatures par les modificateurs suivants, selon leur [taille](./taille.md) : I : 1/4, Min : 1/2, TP : 3/4, P : 1, M : 3/2, G : ×3, TG : ×6, Gig : ×12 et C : ×24.
+Les quadrupèdes peuvent porter un poids plus important que les bipèdes. Multipliez les valeurs données dans le tableau ci-dessus ("Charge transportable") correspondant à la [[Force]] des créatures par les modificateurs suivants, selon leur [[taille]] : I : 1/4, Min : 1/2, TP : 3/4, P : 1, M : 3/2, G : ×3, TG : ×6, Gig : ×12 et C : ×24.
 
-**Force exceptionnelle.** Pour les valeurs de [Force](./Force.md) dépassant le cadre du tableau ci-dessus ("Charge transportable"), on procède de la façon suivante : on commence par chercher le nombre compris entre 20 et 29 qui possède la même unité que celui de la créature concernée. Il suffit alors de multiplier ce nombre par 4 pour chaque tranche de 10 points de [Force](./Force.md) que la créature possède au-delà de cette valeur.
+**Force exceptionnelle.** Pour les valeurs de [[Force]] dépassant le cadre du tableau ci-dessus ("Charge transportable"), on procède de la façon suivante : on commence par chercher le nombre compris entre 20 et 29 qui possède la même unité que celui de la créature concernée. Il suffit alors de multiplier ce nombre par 4 pour chaque tranche de 10 points de [[Force]] que la créature possède au-delà de cette valeur.
 
 
 ### Armure et charge transportée pour les autres vitesses de déplacement de base
 
-La table ci-dessous dévoile le malus imposé à toutes les [vitesses de déplacement](./vitesse de déplacement.md), de 1,5 mètre à 36 mètres (par tranches de 1,5 mètres).
+La table ci-dessous dévoile le malus imposé à toutes les [[vitesse de déplacement|vitesses de déplacement]], de 1,5 mètre à 36 mètres (par tranches de 1,5 mètres).
 
 <center>
 {| CLASS="tablo"

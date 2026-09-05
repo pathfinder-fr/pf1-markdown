@@ -14,12 +14,12 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 3 page 19*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([asura](./sous-type asura.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille M, LM}
-{s:BDTexte|**Init** +3 ; **Sens** [Vision à 360°](./Vision à 360° (capacité).md), [vision dans le noir](./vision dans le noir.md) à 12 cases ; [Perception](./Perception.md) +19}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type asura|asura]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Vision à 360° (capacité)|Vision à 360°]], [[vision dans le noir]] à 12 cases ; [[Perception]] +19}
 {s:BDTexte|**Aura ** insaisissable (6 {s:c})}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 14, pris au dépourvu 16 (Dex +3, esquive +1, naturelle +6)}
-{s:BDTexte|**pv** 76 (9d10+27) ; [régénération](./Régénération.md) 5 (armes du Bien, sorts du Bien)}
+{s:BDTexte|**pv** 76 (9d10+27) ; [[régénération]] 5 (armes du Bien, sorts du Bien)}
 {s:BDTexte|**Réf** +11, **Vig** +6, **Vol** +9 ; +2 contre les enchantements, esprit dual}
 {s:BDTexte|**RD** 5/Bien ; **Immunité** effets des malédictions, maladie, poison, prise en tenaille ; **Résistance** acide 10, électricité 10 ; **RM** 18}
 {s:BDSousTitre|Attaque}
@@ -27,16 +27,16 @@ Categories:
 {s:BDTexte|**Corps à corps** 2 griffes, +9 (1d4+2) et 2 kukris de maître, +15/+10 (1d4+5/18-20)}
 {s:BDTexte|**Attaque spéciale** danse du désastre}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6 ; concentration +9)}
-{s:BDSorts|À volonté — *[feuille morte](./Feuille morte.md)*, *[pattes d’araignée](./Pattes daraignée.md)*, *[Téléportation suprême](./Téléportation suprême.md)* (personnelle plus 25 kilos d’objets uniquement)}
-{s:BDSorts|3/jour — *[clignotement](./Clignotement.md)*, *[croissance d’épines](./Croissance dépines.md)*, *[flou](./Flou.md)*, *[image miroir](./Image miroir.md)*}
-{s:BDSorts|1/jour— *[convocation](./convocation.md)* (niveau 4, 1 adhukaït 35%)}
+{s:BDSorts|À volonté — *[[feuille morte]]*, *[[pattes daraignée|pattes d’araignée]]*, *[[Téléportation suprême]]* (personnelle plus 25 kilos d’objets uniquement)}
+{s:BDSorts|3/jour — *[[clignotement]]*, *[[croissance dépines|croissance d’épines]]*, *[[flou]]*, *[[image miroir]]*}
+{s:BDSorts|1/jour— *[[convocation]]* (niveau 4, 1 adhukaït 35%)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 17, **Con** 17, **Int** 13, **Sag** 16, **Cha** 16}
 {s:BDTexte|**BBA** +9, **BMO** +14, **DMD** 28}
-{s:BDTexte|**Dons** [Aisance](./Aisance.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +15 (+19 pour le saut), [Bluff](./Bluff.md) +15, [Connaissances](./Connaissances.md) (plans) +9, [Discrétion](./Discrétion.md) +15, [Évasion](./Évasion.md) +21, [Intimidation](./Intimidation.md) +11, [Perception](./Perception.md) +19, [Représentation](./Représentation.md) (danse) +14}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Acrobaties](./Acrobaties.md) (pour le saut), +6 en [Évasion](./Évasion.md), +4 en [Perception](./Perception.md)}
-{s:BDTexte|**Langues**  commun, infernal ; [télépathie](./Télépathie.md) à 30 m}
+{s:BDTexte|**Dons** [[Aisance]], [[Attaques réflexes]], [[Esquive]], [[Réflexes surhumains]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +15 (+19 pour le saut), [[Bluff]] +15, [[Connaissances]] (plans) +9, [[Discrétion]] +15, [[Évasion]] +21, [[Intimidation]] +11, [[Perception]] +19, [[Représentation]] (danse) +14}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Acrobaties]] (pour le saut), +6 en [[Évasion]], +4 en [[Perception]]}
+{s:BDTexte|**Langues**  commun, infernal ; [[télépathie]] à 30 m}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Enfer)}
 {s:BDTexte|**Organisation** solitaire, couple ou groupe (3-12)}
@@ -46,7 +46,7 @@ Categories:
 {s:BDTexte|**Esprit dual (Sur).** L’adhukaït est une seule créature mais il possède deux esprits différents. Il a donc droit à deux jets de sauvegarde contre les effets mentaux. S’il réussit l’un de ces jets, les effets mentaux ne l’affectent pas.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [asuras](./Asura.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[asura|asuras]].***</li></ul>
 *Ces deux fiélons couverts de pointes reliés par leurs cavités corporelles et leurs membres s’empalant les uns dans les autres, dansent en faisant tournoyer leurs couteaux jumeaux à lame courbe.*
 
 Aussi connus sous le nom de jumelés, les adhukaïts sont des guerriers asuras spécialisés dans les raids rapides ayant pour objectifs le vol, l’assassinat ou un enlèvement. L’adhukaït est un adepte de l’infiltration et de l’évasion. Quand il s’agit de tuer, ce fiélon est d’une sauvage efficacité, sauf lorsqu’il souhaite prolonger la douleur pour faire enrager ses ennemis ou les briser ses ennemis.

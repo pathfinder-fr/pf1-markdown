@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Armes magiques#INFLAMMABLE
 ---
 
->>> [Armes magiques#INFLAMMABLE](./Armes magiques.md#INFLAMMABLE)
+>>> [[Armes magiques#INFLAMMABLE]]

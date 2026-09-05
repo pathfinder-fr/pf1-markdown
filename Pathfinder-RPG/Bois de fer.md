@@ -10,20 +10,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 6, [Occ](./Occultiste.md) 6  
+**École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 6, [[Occultiste|Occ]] 6  
 
 **Temps d'incantation** 1 minute/500 g  
 
-**Composantes** [V, G, M](./composantes.md) (le bois à transformer)  
+**Composantes** [[composantes|V, G, M]] (le bois à transformer)  
 
 **Portée** 0 m  
 
-**Cible** un objet en bois de fer pesant jusqu’à 2,5 kg/[niveau](./niveau.md)  
+**Cible** un objet en bois de fer pesant jusqu’à 2,5 kg/[[niveau]]  
 
-**Durée** 1 jour/[niveau](./niveau.md) (T)  
+**Durée** 1 jour/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Le *bois de fer* est une matière magique créée par les [druides](./Druide.md) à partir du bois normal. Bien que conservant la quasi-totalité des propriétés du bois, il est aussi lourd et aussi dur que l’acier (et aussi résistant au feu). Les sorts qui affectent le métal ou le fer restent sans effet sur lui, contrairement aux sorts affectant le bois, bien qu’il ne brûle pas. En combinant ce sort avec *[façonnage du bois](./Façonnage du bois.md)* ou [Artisanat](./Artisanat.md) (à condition qu’il s’agisse d’une profession liée au travail du bois), on peut obtenir des objets en bois aussi solides que ceux en acier. Il est possible de créer un harnois ou une épée en bois, que le [druide](./Druide.md) peut utiliser comme il le souhaite.
+Le *bois de fer* est une matière magique créée par les [[druide|druides]] à partir du bois normal. Bien que conservant la quasi-totalité des propriétés du bois, il est aussi lourd et aussi dur que l’acier (et aussi résistant au feu). Les sorts qui affectent le métal ou le fer restent sans effet sur lui, contrairement aux sorts affectant le bois, bien qu’il ne brûle pas. En combinant ce sort avec *[[façonnage du bois]]* ou [[Artisanat]] (à condition qu’il s’agisse d’une profession liée au travail du bois), on peut obtenir des objets en bois aussi solides que ceux en acier. Il est possible de créer un harnois ou une épée en bois, que le [[druide]] peut utiliser comme il le souhaite.
 
 Enfin, si le personnage limite de lui même la quantité de bois travaillé à la moitié ou moins du poids auquel il a droit, tout bouclier, arme ou armure créé à partir du *bois de fer* est considéré comme un objet magique (+1).

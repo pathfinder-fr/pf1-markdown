@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#SAUTDELEXPERT
 ---
 
->>> [Talents#SAUTDELEXPERT](./Talents.md#SAUTDELEXPERT)
+>>> [[Talents#SAUTDELEXPERT]]

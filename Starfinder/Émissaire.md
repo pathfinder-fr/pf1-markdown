@@ -8,9 +8,9 @@ Categories:
 
 *Vous tracez votre voie dans l’univers armé de votre sourire charmeur, de votre esprit vif ainsi que de votre sens affûté de l’auto-préservation et vous excellez aussi à pousser les autres à faire ce que vous voulez. Vous pouvez être un escroc, un arnaqueur, ou un magouilleur mais aussi un acteur, un ambassadeur ou un homme ou une femme d’affaires qui pose les jalons de futures négociations en sachant trouver les mots appropriés ou, parfois, en vous salissant les mains. Vous êtes souvent le stratège du groupe en ayant recours à votre esprit vif et à vos compétences tactiques pour pousser vos amis à exceller. Vous pouvez aussi être doué pour la diplomatie en agissant comme représentant de l’équipage d’un vaisseau, en vous frayant un accès dans les secteurs interdits ou en réussissant à obtenir une audience auprès de politiciens locaux ou de seigneurs de la guerre.*
 
-<div class="fright">***Voir aussi les [improvisations d'émissaire](./improvisations.md).***  
+<div class="fright">***Voir aussi les [[improvisations|improvisations d'émissaire]].***  
 
-***Voir aussi les [savoir-faire d'émissaire](./savoirfaire.md).***'  
+***Voir aussi les [[savoirfaire|savoir-faire d'émissaire]].***'  
 
 </ul></div>
   
@@ -32,140 +32,140 @@ Categories:
 | +0
 | +2
 | +2
-| CLASS="gauche" | [Improvisation de l'émissaire](./Émissaire.md#IMPROVISATIONDELÉMISSAIRE), [Maîtrise](./Émissaire.md#MAÎTRISE) (1D6), [Maîtrise de compétence](./Émissaire.md#MAÎTRISEDECOMPETENCE)
+| CLASS="gauche" | [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]], [[Émissaire#MAÎTRISE|Maîtrise]] (1D6), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]
 |- CLASS="alt"
 | 2
 | +1
 | +0
 | +3
 | +3
-| CLASS="gauche" | [Improvisation de l'émissaire](./Émissaire.md#IMPROVISATIONDELÉMISSAIRE)
+| CLASS="gauche" | [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]
 |-
 | 3
 | +2
 | +1
 | +3
 | +3
-| CLASS="gauche" | [Savoir-faire maîtrisé](./Émissaire.md#SAVOIRFAIREMAÎTRISÉ), [Spécialisation martiale](./Émissaire.md#SPECIALISATIONMARTIALE)
+| CLASS="gauche" | [[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]], [[Émissaire#SPECIALISATIONMARTIALE|Spécialisation martiale]]
 |- CLASS="alt"
 | 4
 | +3
 | +1
 | +4
 | +4
-| CLASS="gauche" | [Improvisation de l'émissaire](./Émissaire.md#IMPROVISATIONDELÉMISSAIRE)
+| CLASS="gauche" | [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]
 |-
 | 5
 | +3
 | +1
 | +4
 | +4
-| CLASS="gauche" | [Maîtrise](./Émissaire.md#MAÎTRISE) (1D6+1), [Maîtrise de compétence](./Émissaire.md#MAÎTRISEDECOMPETENCE)
+| CLASS="gauche" | [[Émissaire#MAÎTRISE|Maîtrise]] (1D6+1), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]
 |- CLASS="alt"
 | 6
 | +4
 | +2
 | +5
 | +5
-| CLASS="gauche" | [Improvisation de l'émissaire](./Émissaire.md#IMPROVISATIONDELÉMISSAIRE)
+| CLASS="gauche" | [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]
 |-
 | 7
 | +5
 | +2
 | +5
 | +5
-| CLASS="gauche" | [Savoir-faire maîtrisé](./Émissaire.md#SAVOIRFAIREMAÎTRISÉ)
+| CLASS="gauche" | [[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]
 |- CLASS="alt"
 | 8
 | +6
 | +2
 | +6
 | +6
-| CLASS="gauche" | [Improvisation de l'émissaire](./Émissaire.md#IMPROVISATIONDELÉMISSAIRE)
+| CLASS="gauche" | [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]
 |-
 | 9
 | +6
 | +3
 | +6
 | +6
-| CLASS="gauche" | [Maîtrise](./Émissaire.md#MAÎTRISE) (1D6+2), [Maîtrise de compétence](./Émissaire.md#MAÎTRISEDECOMPETENCE)
+| CLASS="gauche" | [[Émissaire#MAÎTRISE|Maîtrise]] (1D6+2), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]
 |- CLASS="alt"
 | 10
 | +7
 | +3
 | +7
 | +7
-| CLASS="gauche" | [Improvisation de l'émissaire](./Émissaire.md#IMPROVISATIONDELÉMISSAIRE)
+| CLASS="gauche" | [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]
 |-
 | 11
 | +8
 | +3
 | +7
 | +7
-| CLASS="gauche" | [Savoir-faire maîtrisé](./Émissaire.md#SAVOIRFAIREMAÎTRISÉ)
+| CLASS="gauche" | [[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]
 |- CLASS="alt"
 | 12
 | +9
 | +4
 | +8
 | +8
-| CLASS="gauche" | [Improvisation de l'émissaire](./Émissaire.md#IMPROVISATIONDELÉMISSAIRE)
+| CLASS="gauche" | [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]
 |-
 | 13
 | +9
 | +4
 | +8
 | +8
-| CLASS="gauche" | [Maîtrise](./Émissaire.md#MAÎTRISE) (1D8+2), [Maîtrise de compétence](./Émissaire.md#MAÎTRISEDECOMPETENCE)
+| CLASS="gauche" | [[Émissaire#MAÎTRISE|Maîtrise]] (1D8+2), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]
 |- CLASS="alt"
 | 14
 | +10
 | +4
 | +9
 | +9
-| CLASS="gauche" | [Improvisation de l'émissaire](./Émissaire.md#IMPROVISATIONDELÉMISSAIRE)
+| CLASS="gauche" | [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]
 |-
 | 15
 | +11
 | +5
 | +9
 | +9
-| CLASS="gauche" | [Savoir-faire maîtrisé](./Émissaire.md#SAVOIRFAIREMAÎTRISÉ)
+| CLASS="gauche" | [[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]
 |- CLASS="alt"
 | 16
 | +12
 | +5
 | +10
 | +10
-| CLASS="gauche" | [Improvisation de l'émissaire](./Émissaire.md#IMPROVISATIONDELÉMISSAIRE)
+| CLASS="gauche" | [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]
 |-
 | 17
 | +12
 | +5
 | +10
 | +10
-| CLASS="gauche" | [Maîtrise](./Émissaire.md#MAÎTRISE) (1D8+3), [Maîtrise de compétence](./Émissaire.md#MAÎTRISEDECOMPETENCE)
+| CLASS="gauche" | [[Émissaire#MAÎTRISE|Maîtrise]] (1D8+3), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]
 |- CLASS="alt"
 | 18
 | +13
 | +6
 | +11
 | +11
-| CLASS="gauche" | [Improvisation de l'émissaire](./Émissaire.md#IMPROVISATIONDELÉMISSAIRE)
+| CLASS="gauche" | [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]
 |-
 | 19
 | +14
 | +6
 | +11
 | +11
-| CLASS="gauche" | [Savoir-faire maîtrisé](./Émissaire.md#SAVOIRFAIREMAÎTRISÉ)
+| CLASS="gauche" | [[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]
 |- CLASS="alt"
 | 20
 | +15
 | +6
 | +12
 | +12
-| CLASS="gauche" | [Improvisation de l'émissaire](./Émissaire.md#IMPROVISATIONDELÉMISSAIRE), [Maîtrise](./Émissaire.md#MAÎTRISE) (1D8+4), [Maîtrise totale](./Émissaire.md#MAÎTRISETOTALE)
+| CLASS="gauche" | [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]], [[Émissaire#MAÎTRISE|Maîtrise]] (1D8+4), [[Émissaire#MAÎTRISETOTALE|Maîtrise totale]]
 |}
 </center>
 
@@ -179,7 +179,7 @@ Categories:
 
 **Rangs de compétence par niveau :** 8 + modificateur d’Intelligence.
 
-**Les compétences de classe de l'émissaire sont les suivantes :** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) (Dex), [Athlétisme](./../Pathfinder-RPG/Athlétisme.md) (For), [Bluff](./../Pathfinder-RPG/Bluff.md) (Cha), [Culture](./Culture.md) (Int), [Déguisement](./../Pathfinder-RPG/Déguisement.md) (Cha), [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) (Cha), [Discrétion](./../Pathfinder-RPG/Discrétion.md) (Dex), [Escamotage](./../Pathfinder-RPG/Escamotage.md) (Dex), [Informatique](./Informatique.md) (Int), [Ingénierie](./Ingénierie.md) (Int), [Intimidation](./../Pathfinder-RPG/Intimidation.md) (Cha), [Médecine](./Médecine.md) (Int), [Perception](./../Pathfinder-RPG/Perception.md) (Sag), [Pilotage](./Pilotage.md) (Dex), [Profession](./../Pathfinder-RPG/Profession.md) (Cha, Int ou Sag) et [Psychologie](./../Pathfinder-RPG/Psychologie.md) (Sag)
+**Les compétences de classe de l'émissaire sont les suivantes :** [[Acrobaties]] (Dex), [[Athlétisme]] (For), [[Bluff]] (Cha), [[Culture]] (Int), [[Déguisement]] (Cha), [[Diplomatie]] (Cha), [[Discrétion]] (Dex), [[Escamotage]] (Dex), [[Informatique]] (Int), [[Ingénierie]] (Int), [[Intimidation]] (Cha), [[Médecine]] (Int), [[Perception]] (Sag), [[Pilotage]] (Dex), [[Profession]] (Cha, Int ou Sag) et [[Psychologie]] (Sag)
 
 ### Descriptif de la classe
 
@@ -195,15 +195,15 @@ Les aptitudes de l'émissaire sont décrites ci-dessous.
 #### Improvisation de l'émissaire - Niveau 1
 En gagnant de l’expérience, vous apprenez des improvisations de l’émissaire, des petites astuces qui, par la ruse, l’inspiration ou la chance, stimulent vos alliés, déconcertent vos adversaires ou modifient le déroulement d’un combat. Vous apprenez votre première improvisation au niveau 1 et vous en obtenez une de plus au niveau 2 et tous les 2 niveaux suivants.
 
-Voir la liste des [improvisations](./improvisations.md).
+Voir la liste des [[improvisations]].
 
 Si une improvisation vous permet d’accorder un effet à un allié, vous ne pouvez en bénéficier vous-même à moins que l’improvisation n’indique le contraire. Si une improvisation autorise un jet de sauvegarde pour résister à ses effets ou nécessite que l’adversaire effectue un test de compétence, le DD est égal à 10 + la moitié du niveau de l’émissaire + votre modificateur de Charisme.
 
-Certaines improvisations de l’émissaire sont [dépendantes du langage](./dépendant-du-langage.md), [des sens](./dépendant-des-sens.md), [affectent l’esprit](./affectant-lesprit.md) ou sont une combinaison de ces trois facteurs.
+Certaines improvisations de l’émissaire sont [[dépendant du langage|dépendantes du langage]], [[dépendant des sens|des sens]], [[affectant lesprit|affectent l’esprit]] ou sont une combinaison de ces trois facteurs.
 
 {s:Reference|MAÎTRISE}
 #### Maîtrise (Ext) - Niveau 1
-Vous êtes un expert pour surmonter les événements qui mettent à l’épreuve vos [compétences](./../Pathfinder-RPG/Compétences.md), que ces épreuves soient d’ordre social ou pas. Au niveau 1, quand vous tentez un test de [Psychologie](./../Pathfinder-RPG/Psychologie.md), vous pouvez lancer 1d6 (votre dé de maîtrise) et ajouter le chiffre obtenu au résultat de votre test en tant que bonus d’intuition. Vous pouvez utiliser cette aptitude et toutes autres capacités de maîtrise tant que vous avez encore au moins 1 point de [persévérance](./persévérance.md).
+Vous êtes un expert pour surmonter les événements qui mettent à l’épreuve vos [[compétences]], que ces épreuves soient d’ordre social ou pas. Au niveau 1, quand vous tentez un test de [[Psychologie]], vous pouvez lancer 1d6 (votre dé de maîtrise) et ajouter le chiffre obtenu au résultat de votre test en tant que bonus d’intuition. Vous pouvez utiliser cette aptitude et toutes autres capacités de maîtrise tant que vous avez encore au moins 1 point de [[persévérance]].
 
 Au niveau 5, à chaque fois que vous utilisez votre dé de maîtrise, vous obtenez un bonus de +1 au résultat.
 
@@ -211,19 +211,19 @@ Aux niveaux 9, 17 et 20, ce bonus augmente de 1.
 
 Au niveau 13, vous lancez 1d8 pour votre dé de maîtrise au lieu d’1d6.
 
-À partir du niveau 9, vous maîtrisez encore mieux les compétences pour lesquelles vous pouvez utiliser votre dé de maîtrise et pour lesquelles vous avez sélectionné le don [Talent](./../Pathfinder-RPG/Talent.md). Pour chacune de ces compétences, une fois par jour quand vous lancez votre dé de maîtrise, vous pouvez le lancer deux fois et choisir le meilleur résultat.
+À partir du niveau 9, vous maîtrisez encore mieux les compétences pour lesquelles vous pouvez utiliser votre dé de maîtrise et pour lesquelles vous avez sélectionné le don [[Talent]]. Pour chacune de ces compétences, une fois par jour quand vous lancez votre dé de maîtrise, vous pouvez le lancer deux fois et choisir le meilleur résultat.
 
 {s:Reference|MAÎTRISEDECOMPÉTENCE}
 #### Maîtrise de compétence (Ext) - Niveau 1
 Au 1er niveau puis tous les 4 niveaux supplémentaires, vous pouvez utiliser Maîtrise avec une compétence de classe supplémentaire.
 
-Vous devez avoir au moins un [rang](./../Pathfinder-RPG/rang.md) 1 dans la compétence pour la sélectionner et elle doit faire partie de la liste suivante : [Bluff](./../Pathfinder-RPG/Bluff.md) (Cha), [Informatique](./Informatique.md) (Int), [Culture](./Culture.md) (Int), [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) (Cha), [Déguisement](./../Pathfinder-RPG/Déguisement.md) (Cha), [Ingénierie](./Ingénierie.md) (Int), [Intimidation](./../Pathfinder-RPG/Intimidation.md) (Cha) et [Médecine](./Médecine.md) (Int).
+Vous devez avoir au moins un [[rang]] 1 dans la compétence pour la sélectionner et elle doit faire partie de la liste suivante : [[Bluff]] (Cha), [[Informatique]] (Int), [[Culture]] (Int), [[Diplomatie]] (Cha), [[Déguisement]] (Cha), [[Ingénierie]] (Int), [[Intimidation]] (Cha) et [[Médecine]] (Int).
 
 {s:Reference|SAVOIRFAIREMAÎTRISÉ}
 #### Savoir-faire maîtrisé - Niveau 3
 Au niveau 3 puis tous les 4 niveaux supplémentaires, vous choisissez un savoir-faire qui vous octroie une option supplémentaire quand vous utilisez une compétence que vous maîtrisez.
 
-Voir la liste des [savoir-faire](./savoirfaire.md)
+Voir la liste des [[savoirfaire|savoir-faire]]
 
 {s:Reference|SPÉCIALISATIONMARTIALE}
 #### Sprécialisation martiale (Ext) - Niveau 3

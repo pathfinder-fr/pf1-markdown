@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les coups du personnage affaiblissent et désorientent ses adversaires.*
 
-**Condition.** [Poing de la gorgone](./Poing de la gorgone.md)
+**Condition.** [[Poing de la gorgone]]
 
-**Avantage.** Lorsque le personnage touche une créature en utilisant [Poing de la gorgone](./Poing de la gorgone.md), si la cible rate son jet de [Vigueur](./Vigueur.md), elle est hébétée pendant un round au lieu d’être simplement chancelante. Le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il touche avec une attaque de [Poing de la gorgone](./Poing de la gorgone.md) mais avant que le jet de sauvegarde ne soit effectué, pour augmenter le DD de cette sauvegarde de la moitié de son [grade](./Grade.md).
+**Avantage.** Lorsque le personnage touche une créature en utilisant [[Poing de la gorgone]], si la cible rate son jet de [[Vigueur]], elle est hébétée pendant un round au lieu d’être simplement chancelante. Le personnage peut dépenser une utilisation de [[pouvoir mythique]] lorsqu’il touche avec une attaque de [[Poing de la gorgone]] mais avant que le jet de sauvegarde ne soit effectué, pour augmenter le DD de cette sauvegarde de la moitié de son [[grade]].

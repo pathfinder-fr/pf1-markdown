@@ -13,24 +13,24 @@ Categories:
 
 **(Source: Heroes of the streets)**
 
-**Ecole** [illusion](./Illusion.md) ([Chimère](./branche chimère.md)) ; **Niveau** [Bard](./Barde.md) 1, [Cham](./Chaman.md) 1, [Sor](./Sorcière.md) 1  
+**Ecole** [[illusion]] ([[branche chimère|Chimère]]) ; **Niveau** [[barde|Bard]] 1, [[chaman|Cham]] 1, [[sorcière|Sor]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V,G,M](./composantes.md) (Un bouton de chemise)  
+**Composantes** [[composantes|V,G,M]] (Un bouton de chemise)  
 
-**Portée** moyenne (30 m + 3 m/2 [niveaux](./niveau.md)) (20 {s:c} + 2 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/2 [[niveau|niveaux]]) (20 {s:c} + 2 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** Un cube de 3 m(2 {s:c}) d'illusion de foule  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jets de sauvegarde** [Volonté](./Volonté.md) Doute(si interaction avec la foule) ; **Résistance à la magie** Non  
+**Jets de sauvegarde** [[Volonté]] Doute(si interaction avec la foule) ; **Résistance à la magie** Non  
 
 
-Ce sort créé une illusion d'un groupe immobile de personnes. Ils peuvent être de la race [humaine](./Humain.md) ou de n'importe quelle ethnie avec laquelle vous êtes familiers, et ils parlent un langage de votre choix et connaissance. Aux personnes ne faisant pas attention, leurs conversations semblent parfaitement normales mais sont en fait répétitives et sans sens. La foule à l'air d'être un groupe de citoyens typiques, et ne peuvent pas dupliquer un groupe précis, une guilde ou une équipe militaire.
+Ce sort créé une illusion d'un groupe immobile de personnes. Ils peuvent être de la race [[humain|humaine]] ou de n'importe quelle ethnie avec laquelle vous êtes familiers, et ils parlent un langage de votre choix et connaissance. Aux personnes ne faisant pas attention, leurs conversations semblent parfaitement normales mais sont en fait répétitives et sans sens. La foule à l'air d'être un groupe de citoyens typiques, et ne peuvent pas dupliquer un groupe précis, une guilde ou une équipe militaire.
 
-La foule affecte les mouvements et donne un abri comme une véritable foule, mais quiconque qui ne croit pas à l'illusion peut bouger et attaquer à travers la foule sans rencontrer un obstacle. Chaque tour qu'une créature entre ou fait une attaque à travers un carré de foule, elle peut faire un [jet de sauvegarde](./jet de sauvegarde.md) pour ne plus croire à l'illusion. Similairement, n'importe quelle créature qui passe un tour à écouter ou parler à la foule peut tenter un [jet de sauvegarde](./jet de sauvegarde.md) pour ne plus y croire non plus. Si la foule est placée sur un terrain autre qu'urbain, chaque créature tenant de ne plus croire à l'illusion gagnent un bonus de +5 à leur [jet de sauvegarde](./jet de sauvegarde.md).
+La foule affecte les mouvements et donne un abri comme une véritable foule, mais quiconque qui ne croit pas à l'illusion peut bouger et attaquer à travers la foule sans rencontrer un obstacle. Chaque tour qu'une créature entre ou fait une attaque à travers un carré de foule, elle peut faire un [[jet de sauvegarde]] pour ne plus croire à l'illusion. Similairement, n'importe quelle créature qui passe un tour à écouter ou parler à la foule peut tenter un [[jet de sauvegarde]] pour ne plus y croire non plus. Si la foule est placée sur un terrain autre qu'urbain, chaque créature tenant de ne plus croire à l'illusion gagnent un bonus de +5 à leur [[jet de sauvegarde]].
 
 
 (((Illusory Crowd

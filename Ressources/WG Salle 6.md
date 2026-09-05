@@ -6,8 +6,8 @@ Categories:
 - Weekly Grind
 ---
 
-<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=210969838946946) publiée avec l'autorisation de l'auteur Jason Bulmahn — [retour à l'index](./Informations-Weekly-Grind.md)</p>
-Le long corridor piégé permet d'ouvrir un portail qui emmène les PJ vers la première salle de garde des cultistes qui se sont établis dans ce donjon. Depuis quelques jours (en fait, depuis qu'ils se sont rendus compte que quelqu'un explore leur repaire), les cultistes sont en alerte. Ils sont prêts à recevoir des intrus. Lorsque les PJ passent à travers le portail de la [Salle 5](./WG Salle 5.md), lisez-leur le texte suivant.
+<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=210969838946946) publiée avec l'autorisation de l'auteur Jason Bulmahn — [[Informations.Weekly Grind|retour à l'index]]</p>
+Le long corridor piégé permet d'ouvrir un portail qui emmène les PJ vers la première salle de garde des cultistes qui se sont établis dans ce donjon. Depuis quelques jours (en fait, depuis qu'ils se sont rendus compte que quelqu'un explore leur repaire), les cultistes sont en alerte. Ils sont prêts à recevoir des intrus. Lorsque les PJ passent à travers le portail de la [[WG Salle 5|Salle 5]], lisez-leur le texte suivant.
 
 <center><img src="http://www.pathfinder-fr.org/Wiki/public/upload/Illustrations/WeeklyGrind/wg6.jpg" /></center>
 
@@ -32,7 +32,7 @@ Chaque garde possède aussi deux carreaux d'arbalète spéciaux dont le bout est
 
 Finalement, Aramagan possède un globe de verre dans son *havresac magique*. Ce globe est fragile et contient un gaz alchimique empoisonné. Comme ce gaz est plus lourd que l'air, si le globe est brisé dans la partie inférieure de la salle, ceux qui se trouvent plus haut ne courent aucun risque. Toute personne inhalant le gaz est considérée comme ayant inhalé de la brume d'insanité (inhalée, Vigueur DD 15, fréquence 1/round pendant 6 rounds, effet affaiblissement temporaire de 1d3 Sagesse, guérison 1 réussie). Cependant, ce gaz est très inflammable. S'il est exposé à du feu, il explose et inflige 3d6 points de dégâts de feu à toutes les personnes situées dans son nuage de 4 cases de rayon (Réflexes DD 15 pour moitié). S'il n'est pas détruit par du feu, le gaz reste actif pendant 1d6+1 rounds avant de se dissiper.
 
-**La cellule.** L'un des PJ se retrouve dans la cellule en arrivant dans cette salle (le PJ qui a été exilé, voir [la Salle 5](./WG Salle 5.md)). Le PJ a tout son équipement mais la cellule contient une menace à laquelle il doit faire face seul. Dans le mur sud de la cellule se trouve une fontaine remplie d'eau pure. Au-dessus de celle-ci se trouve une statue d'hydre à trois tête. Cette statue de pierre est un objet animé qui peut attaquer n'importe où dans la cellule. Considérez la fontaine comme un objet animé de taille M. La fontaine ne peut pas se déplacer mais elle peut attaquer n'importe où dans la cellule et possède une solidité de 8 points.
+**La cellule.** L'un des PJ se retrouve dans la cellule en arrivant dans cette salle (le PJ qui a été exilé, voir [[WG Salle 5|la Salle 5]]). Le PJ a tout son équipement mais la cellule contient une menace à laquelle il doit faire face seul. Dans le mur sud de la cellule se trouve une fontaine remplie d'eau pure. Au-dessus de celle-ci se trouve une statue d'hydre à trois tête. Cette statue de pierre est un objet animé qui peut attaquer n'importe où dans la cellule. Considérez la fontaine comme un objet animé de taille M. La fontaine ne peut pas se déplacer mais elle peut attaquer n'importe où dans la cellule et possède une solidité de 8 points.
 
 **Points de victoire.** Les PJ qui explorent cette salle peuvent gagner des points de victoire (PV) des manières suivantes.
 - Objectif principal (5 PV) : vaincre les cultistes.

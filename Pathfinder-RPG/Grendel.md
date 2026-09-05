@@ -12,9 +12,9 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Marais|Froid}
 {s:BDTexte|*Source : Bestiaire 4* p.137}
 {s:BDTexte|**PX** 204 800}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([mythique](./sous-type mythique.md)) de taille G, CM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +15}
-{s:BDTexte|**Aura** présence terrifiante (18 m ; [DD](./DD.md) 20, [DD](./DD.md) 16 contre les créatures [mythique](./sous-type mythique.md))}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type mythique|mythique]]) de taille G, CM}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +15}
+{s:BDTexte|**Aura** présence terrifiante (18 m ; [[DD]] 20, [[DD]] 16 contre les créatures [[sous-type mythique|mythique]])}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 34, contact 13, pris au dépourvu 30 (Dex +4, naturelle +25, taille -1)}
 {s:BDTexte|**pv** 340 (20d10+230) ; régénération 10 (mains nues ou armes naturelles)}
@@ -28,8 +28,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 36, **Dex** 19, **Con** 26, **Int** 9, **Sag** 15, **Cha** 8}
 {s:BDTexte|**BBA** +20, **BMO** +34 (+38 pour la lutte), **DMD** 48}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Critique épuisant](./Critique épuisant.md), [Critique fatigant](./Critique fatigant.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Science du critique](./Science du critique.md) (griffe), [Talent](./Talent.md) (Discrétion), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +19 (+23 pour sauter), [Discrétion](./Discrétion.md) +24, [Intimidation](./Intimidation.md) +12, [Natation](./Natation.md) +31, [Perception](./Perception.md) +15 (+23 pour les tests basés sur le son) ; **Modificateurs raciaux** +4 en [Acrobaties](./Acrobaties.md) pour sauter, +8 en [Perception](./Perception.md) (pour les tests basés sur le son)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Critique épuisant]], [[Critique fatigant]], [[Critique sanglant]], [[Don pour les critiques]], [[Science du critique]] (griffe), [[Talent]] (Discrétion), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +19 (+23 pour sauter), [[Discrétion]] +24, [[Intimidation]] +12, [[Natation]] +31, [[Perception]] +15 (+23 pour les tests basés sur le son) ; **Modificateurs raciaux** +4 en [[Acrobaties]] pour sauter, +8 en [[Perception]] (pour les tests basés sur le son)}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** démonstration de force}
 {s:BDSousTitre|Écologie}
@@ -48,7 +48,7 @@ naturels) et elle reçoit 2d6 points de dégâts de saignement par
 round. Une créature n’ayant plus qu’un bras ne peut pas entreprendre
 d’actions nécessitant deux bras ou deux mains. Une créature bipède
 n’ayant qu’une jambe ne peut ni marcher ni courir : elle peut ramper
-ou sautiller mais elle perd son bonus de [Dextérité](./Dextérité.md) contre tous ses
+ou sautiller mais elle perd son bonus de [[Dextérité]] contre tous ses
 adversaires. Une créature quadrupède avec une patte en moins voit
 sa vitesse de déplacement réduite de moitié. Selon décision du MJ,
 les créatures ayant plus de quatre jambes qui sont affectées par cette

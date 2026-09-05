@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 30 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 20
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Cette huile d’une teinte brun clair fonctionne comme le [musc des terres sanglantes](./Musc des terres sanglantes (objet).md) mais attire un type spécifique de créature ([chiens](./Chien.md), [abeilles géantes](./Abeille géante.md), etc).
+Cette huile d’une teinte brun clair fonctionne comme le [[Musc des terres sanglantes (objet)|musc des terres sanglantes]] mais attire un type spécifique de créature ([[Chien|chiens]], [[Abeille géante|abeilles géantes]], etc).

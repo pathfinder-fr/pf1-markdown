@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pc ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 La plupart des savons sont faits de graisse animale et de soude caustique issue des cendres. Ce pain de savon peut servir à nettoyer les vêtements, les marmites, les draps, les aventuriers ou tout ce qui se salit. Un pain de savon autorise environ 50 utilisations.

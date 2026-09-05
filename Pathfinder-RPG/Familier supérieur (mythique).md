@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le familier du personnage bénéficie de la résistance et des intuitions phénoménales de son maître.*
 
-**Condition.** [Familier supérieur](./Familier supérieur.md)
+**Condition.** [[Familier supérieur]]
 
-**Avantage.** Pour chaque tranche de trois [grades](./Grade.md) du personnage, son familier gagne un bonus de +2 à une valeur de caractéristique de son choix. Ce bonus se cumule avec les autres. Le familier ajoute le [grade](./Grade.md) du personnage à son bonus d’armure naturelle et à sa résistance à la magie (le cas échéant).
+**Avantage.** Pour chaque tranche de trois [[grade|grades]] du personnage, son familier gagne un bonus de +2 à une valeur de caractéristique de son choix. Ce bonus se cumule avec les autres. Le familier ajoute le [[grade]] du personnage à son bonus d’armure naturelle et à sa résistance à la magie (le cas échéant).

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ATTAQUEREDIRIGÉE
 ---
 
->>> [Talents#ATTAQUEREDIRIGÉE](./Talents.md#ATTAQUEREDIRIGÉE)
+>>> [[Talents#ATTAQUEREDIRIGÉE]]

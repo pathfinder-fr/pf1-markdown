@@ -20,29 +20,29 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Bard](./Barde.md) 2, [Cham](./Chaman.md) 4, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Méd](./Médium.md) 2, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, M/FD](./composantes.md) (une ziggourat miniature en argile)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 2, [[Chaman|Cham]] 4, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, M/FD]] (une ziggourat miniature en argile)
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créature touchée
-**Durée** 10 minutes/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGADE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** non
+**Durée** 10 minutes/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGADE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non
 ---
 Ce sort donne à la créature touchée la capacité de parler et de comprendre le langage de n’importe quelle créature intelligente, qu’il s’agisse d’une langue raciale ou d’un dialecte régional. Elle ne peut parler qu’une seule langue à la fois mais elle peut en comprendre plusieurs. Ce sort ne lui permet cependant pas de communiquer avec des créatures qui ne sont pas capables de parler. La créature touchée peut se faire comprendre de tous les individus qui entendent sa voix. Ce sort ne modifie en rien les prédispositions des créatures auxquelles le personnage s’adresse.
 
-On peut user de *[permanence](./Permanence.md)* sur un sort de *don des langues*.
+On peut user de *[[permanence]]* sur un sort de *don des langues*.
 
 
 
 ((({s:sortssimilaires|don des langues}
-## [Don des langues (partagé)](./Don des langues (partagé).md)
-{s:UC}**École** [Divination](./Divination.md) ; **Niveau** [Alch](./Alchimiste.md) 4, [Bard](./Barde.md) 3, [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 4, [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Prê](./Prêtre.md) 5, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M/FD](./composantes.md) (une ziggourat miniature en argile)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+## [[Don des langues (partagé)]]
+{s:UC}**École** [[Divination]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Barde|Bard]] 3, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M/FD]] (une ziggourat miniature en argile)
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créatures touchées
-**Durée** 10 minutes/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGADE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** non
+**Durée** 10 minutes/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGADE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non
 ---
-Ce sort fonctionne comme *[don des langues](./Don des langues.md)* mais la durée se divise entre les créatures touchées, par portions de 10 minutes.
+Ce sort fonctionne comme *[[don des langues]]* mais la durée se divise entre les créatures touchées, par portions de 10 minutes.
 )))

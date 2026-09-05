@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire p.89*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Animal](./type Animal.md) de taille TG, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 11, pris au dépourvu 17 (Dex +2, esquive +1, naturelle +9, taille -2)}
 {s:BDTexte|**pv** 105 (10d8+60)}
@@ -25,16 +25,16 @@ Categories:
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 6 m (4 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 15, **Con** 20, **Int** 2, **Sag** 13, **Cha** 9}
-{s:BDTexte|**BBA** +7, **BMO** +17, **DMD** 30 (34 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Robustesse](./Robustesse.md), [Souplesse du serpent](./Souplesse du serpent.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +16, [Perception](./Perception.md) +14}
-{s:BDTexte|<b>Particularité</b> [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**BBA** +7, **BMO** +17, **DMD** 30 (34 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Esquive]], [[Robustesse]], [[Souplesse du serpent]], [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Natation]] +16, [[Perception]] +14}
+{s:BDTexte|<b>Particularité</b> [[retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** milieu aquatique, climat chaud}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou banc (3-6)}
 {s:BDTexte|**Trésor** aucun}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>*Ce grand prédateur reptilien doté d’un long cou et d’une longue queue glisse sur l’eau à l’aide de quatre nageoires puissantes.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>*Ce grand prédateur reptilien doté d’un long cou et d’une longue queue glisse sur l’eau à l’aide de quatre nageoires puissantes.*
 
 L’élasmosaure est un reptile aquatique très lisse et doté d’un
 long cou. Même si, d’un point de vue technique, il ne s’agit pas
@@ -48,7 +48,7 @@ long et pèse 2 000 kg.
 
 #### L'élasmosaure comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 6 m (4 {s:c}), nage 15 m (10 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8) ; **Caractéristiques** For 10, Dex 18, Con 12, Int 2, Sag 13, Cha 9 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md), [retenir son souffle](./Retenir son souffle (capacité).md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 6 m (4 {s:c}), nage 15 m (10 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8) ; **Caractéristiques** For 10, Dex 18, Con 12, Int 2, Sag 13, Cha 9 ; **Particularités** [[odorat]], [[vision nocturne]], [[retenir son souffle (capacité)|retenir son souffle]].
 
 **Évolution au niveau 4.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** morsure (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4.
 </div></td></tr></table>

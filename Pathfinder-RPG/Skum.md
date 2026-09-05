@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.260}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille M, LM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille M, LM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 11, pris au dépourvu 12 (Dex +1, naturelle +2)}
 {s:BDTexte|**pv** 20 (2d10+9)}
@@ -27,10 +27,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 13, **Con** 17, **Int** 10, **Sag** 10, **Cha** 6}
 {s:BDTexte|**BBA** +2, **BMO** +4, **DMD** 15}
-{s:BDTexte|**Dons** [Attaques multiples](./Attaques multiples.md)<sup>B</sup>, [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +6 (+10 sous l'eau), [Intimidation](./Intimidation.md) +3, [Natation](./Natation.md) +15, [Perception](./Perception.md) +5 (+9 sous l'eau) ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) et [Perception](./Perception.md) sous l'eau}
+{s:BDTexte|**Dons** [[Attaques multiples]]<sup>B</sup>, [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +6 (+10 sous l'eau), [[Intimidation]] +3, [[Natation]] +15, [[Perception]] +5 (+9 sous l'eau) ; **Modificateurs raciaux** +4 en [[Discrétion]] et [[Perception]] sous l'eau}
 {s:BDTexte|**Langues** aboleth, commun des profondeurs}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md)}
+{s:BDTexte|**Particularités** [[amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** milieu aquatique ou souterrain, climat tempéré ou froid}
 {s:BDTexte|**Organisation sociale** solitaire, portée (2-5), meute (6-12) ou cabale (13-95 et 50% de non combattants, 1 sous-chef de niveau 3 par 20 adultes, 1 sorcier de niveau 4-6 par 40 adultes, 1 chef de niveau 7-9 et 2-6 vases)}

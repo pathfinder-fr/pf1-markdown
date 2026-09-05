@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Élémentaire du Feu#_3
 ---
 
->>> [Élémentaire du Feu#_3](./Élémentaire du Feu.md#_3)
+>>> [[Élémentaire du Feu#_3]]

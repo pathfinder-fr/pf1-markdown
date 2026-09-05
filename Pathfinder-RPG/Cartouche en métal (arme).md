@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 15 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Munitions d'arme à feu](./Tableau récapitulatif des armes à feu.md#TABMUNITIONS)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes à feu#TABMUNITIONS|Munitions d'arme à feu]]</span>
 ---
-Ces variantes plus solides des [cartouches alchimiques](./Cartouche alchimique (arme).md) servent de munition aux [armes à feu évoluées](./Armes à feu.md#CATEGORIE). Elles peuvent contenir des [balles](./Balle darme à feu (arme).md) ou des [plombs](./Plombs (arme).md).
+Ces variantes plus solides des [[Cartouche alchimique (arme)|cartouches alchimiques]] servent de munition aux [[Armes à feu#CATEGORIE|armes à feu évoluées]]. Elles peuvent contenir des [[Balle darme à feu (arme)|balles]] ou des [[Plombs (arme)|plombs]].

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Défense (intermédiaire)
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Défense (intermédiaire)](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Défense (intermédiaire))
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Défense (intermédiaire)]]

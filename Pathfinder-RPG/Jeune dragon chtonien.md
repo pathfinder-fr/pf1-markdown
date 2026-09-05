@@ -10,28 +10,28 @@ Categories:
 <div class="BD">
 {s:BDTitre|Jeune dragon chtonien|FP 7}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Dragon](./type Dragon.md) ([Feu](./sous-type Feu.md)) de taille M, LM}
-{s:BDTexte|**Init** +5 ; **Sens** [sens draconiques](./sens draconiques.md), vision malgré la fumée ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type Feu|Feu]]) de taille M, LM}
+{s:BDTexte|**Init** +5 ; **Sens** [[sens draconiques]], vision malgré la fumée ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 11, pris au dépourvu 20 (Dex +1, naturelle +10)}
 {s:BDTexte|**pv** 76 (8d12+24)}
 {s:BDTexte|**Réf** +7, **Vig** +9, **Vol** +7}
-{s:BDTexte|**[Immunité](./Immunité (capacité).md)** feu, paralysie, sommeil}
-{s:BDTexte|**Faiblesse** [vulnérabilité](./Vulnérabilités (capacité).md) au froid}
+{s:BDTexte|**[[Immunité (capacité)|Immunité]]** feu, paralysie, sommeil}
+{s:BDTexte|**Faiblesse** [[Vulnérabilités (capacité)|vulnérabilité]] au froid}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), creusement 9 m (6 {s:c}), vol 45 m (30 {s:c}) (moyenne)}
 {s:BDTexte|**Corps à corps** corne, +13 (1d6+7) et 2 griffes, +13 (1d6+5/19-20) et morsure, +14 (1d8+7)}
 {s:BDTexte|**Espace** 1,50 m (1 {s:c}) ; **Allonge** 1,50 m (1 {s:c}) (3 m (2 {s:c}) avec corne et morsure)}
-{s:BDTexte|**Attaques spéciales** griffes d’adamantium, souffle ([ligne](./ligne.md) de 18 m (12 {s:c}), 6d6 dégâts de feu, DD 17)}
+{s:BDTexte|**Attaques spéciales** griffes d’adamantium, souffle ([[ligne]] de 18 m (12 {s:c}), 6d6 dégâts de feu, DD 17)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 8 ; concentration +9)}
-{s:BDSorts|À volonté — *[ramollissement de la terre et de la pierre](./Ramollissement de la terre et de la pierre.md)*}
+{s:BDSorts|À volonté — *[[ramollissement de la terre et de la pierre]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 12, **Con** 17, **Int** 12, **Sag** 13, **Cha** 12}
-{s:BDTexte|**BBA** +8 ; **BMO** +13 ; **DMD** 24 (28 contre le [croc-en-jambe](./Manœuvres offensives.md#CROCENJAMBE))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (griffe), [Talent](./Talent.md) (Discrétion)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (exploration souterraine, géographie) +12, [Discrétion](./Discrétion.md) +15, [Escalade](./Escalade.md) +16, [Estimation](./Estimation.md) +12, [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +12}
+{s:BDTexte|**BBA** +8 ; **BMO** +13 ; **DMD** 24 (28 contre le [[Manœuvres offensives#CROCENJAMBE|croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (griffe), [[Talent]] (Discrétion)}
+{s:BDTexte|**Compétences** [[Connaissances]] (exploration souterraine, géographie) +12, [[Discrétion]] +15, [[Escalade]] +16, [[Estimation]] +12, [[Intimidation]] +12, [[Perception]] +12}
 {s:BDTexte|**Langues** commun, draconique}
 {s:BDTexte|**Particularité** changement de forme}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons impériaux](./Dragon impérial.md).***</li><li>***Voir la description des [dragons chtoniens](./Dragon impérial chtonien.md).***</li></ul>*Ce dragon serpentin, dont la peau a la couleur des roches volcaniques des profondeurs, possède d’énormes griffes. Il est pourvu d’écailles et de cornes anguleuses semblables à de la pierre.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon impérial|dragons impériaux]].***</li><li>***Voir la description des [[dragon impérial chtonien|dragons chtoniens]].***</li></ul>*Ce dragon serpentin, dont la peau a la couleur des roches volcaniques des profondeurs, possède d’énormes griffes. Il est pourvu d’écailles et de cornes anguleuses semblables à de la pierre.*
 </div></td></tr></table>

@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 800 po ; **Poids** 2 kg ; **Groupes** [arbalètes](./groupe darmes.md#Arbalètes)
+{s:AE}**Prix** 800 po ; **Poids** 2 kg ; **Groupes** [[Groupe darmes#Arbalètes|arbalètes]]
 **Dégâts** 1d3 (P), 1d4 (M) ; **Critique** 19-20/×2 ; **Portée** 9 m (6 c) ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme à distance](./arme à distance.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
 ---
-Cette arme fonctionne exactement comme l’[arbalète lourde à répétition](./arbalète lourde à répétition (arme).md), à l’exception de ses valeurs de dégâts, de critique et de portée qui sont équivalentes à celles d’une [arbalète de poing](./Arbalète de poing (arme).md).
+Cette arme fonctionne exactement comme l’[[arbalète lourde à répétition (arme)|arbalète lourde à répétition]], à l’exception de ses valeurs de dégâts, de critique et de portée qui sont équivalentes à celles d’une [[arbalète de poing (arme)|arbalète de poing]].

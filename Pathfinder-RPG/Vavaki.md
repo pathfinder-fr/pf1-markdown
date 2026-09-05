@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés page 128*}
 {s:BDTexte|**XP** 153 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([démon](./sous-type démon.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [chaos](./sous-type Chaos.md)) de taille TG, CM}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type démon|démon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type chaos|chaos]]) de taille TG, CM}
 {s:BDTexte|**Init **+2 ; **Sens** vision dans le noir à 18m, vision lucide ; Perception +34}
 {s:BDTexte|**Aura** Aura présence terrifiante (18 m, DD 25), aura maudite (DD 24)}
 (((Défense)))
@@ -29,21 +29,21 @@ morsure, +27 (3d6+11 plus blessure fumante) et 2 griffes, +27
 {s:BDTexte|**Espace** 4,50m ; **Allonge** 4.50m ; 9 m avec la corsèque}
 {s:BDTexte|**Attaques spéciales** souffle, piétinement (1d8+16, DD 30)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 18; concentration +24)}
-{s:BDSorts|Constant - [vision lucide](./Vision lucide.md), [aura maudite](./Aura maudite.md) (DD 24)}
-{s:BDSorts|À volonté – [Énergie négative](./Énergie négative.md), [téléportation suprême](./Téléportation suprême.md) (personnelle plus 25kg d’objets uniquement), [télékinésie](./Télékinésie.md) (DD 21)}
-{s:BDSorts|3/jour - [blasphème](./Blasphème.md) (DD 23), [Énergie négative](./Énergie négative.md) à incantation rapide, [mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md) (DD 24)}
-{s:BDSorts|1/jour - [tremblement de terre](./Tremblement de terre.md), [convocation](./convocation.md) (niveau 6, 1 [marilith](./Marilith.md) 40%
-ou 1d3 [nalfeshnie](./Nalfeshnie.md) 60%)}
+{s:BDSorts|Constant - [[vision lucide]], [[aura maudite]] (DD 24)}
+{s:BDSorts|À volonté – [[Énergie négative]], [[téléportation suprême]] (personnelle plus 25kg d’objets uniquement), [[télékinésie]] (DD 21)}
+{s:BDSorts|3/jour - [[blasphème]] (DD 23), [[Énergie négative]] à incantation rapide, [[mot de pouvoir étourdissant]] (DD 24)}
+{s:BDSorts|1/jour - [[tremblement de terre]], [[convocation]] (niveau 6, 1 [[marilith]] 40%
+ou 1d3 [[nalfeshnie]] 60%)}
 (((Statistiques)))
 {s:BDTexte|**For** 32, **Dex** 14, **Con** 33, **Int** 18, **Sag** 21, **Cha** 23}
 {s:BDTexte|**BBA **+18 ; **BMO **+31 ; **DMD** 47 (51 contre les crocs en jambe)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Frappe décisive](./Frappe décisive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (énergie négative), [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Volonté de fer](./Volonté de fer.md) }
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +25, [Bluff](./Bluff.md) +27, [Connaissances](./Connaissances.md) (mystères) +25, [Connaissances](./Connaissances.md) (plans) +25, [Discrétion](./Discrétion.md) +20, [Intimidation](./Intimidation.md) +27, [Natation](./Natation.md) +26,[Perception](./Perception.md) +34, [Psychologie](./Psychologie.md) +26,  [vol](./Vol.md) +16 ; Modificateurs raciaux +8 en Perception et en Discrétion}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Pouvoir magique rapide]] (énergie négative), [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science de la volonté de fer]], [[Volonté de fer]] }
+{s:BDTexte|**Compétences** [[Art de la magie]] +25, [[Bluff]] +27, [[Connaissances]] (mystères) +25, [[Connaissances]] (plans) +25, [[Discrétion]] +20, [[Intimidation]] +27, [[Natation]] +26,[[Perception]] +34, [[Psychologie]] +26,  [[vol]] +16 ; Modificateurs raciaux +8 en Perception et en Discrétion}
 {s:BDTexte|**Langues** abyssal, céleste, draconique ; télépathie 30m}
 (((Écologie)))
 {s:BDTexte|**Environnement** quelconque (Abysses)}
-{s:BDTexte|**Organisation** solitaire, paire ou escadron de combat (1 [vavaki](./Vavaki.md)
-plus 2-4 [hezrou](./Hezrou.md) et 2-8 [vrock](./Vrock.md))}
+{s:BDTexte|**Organisation** solitaire, paire ou escadron de combat (1 [[vavaki]]
+plus 2-4 [[hezrou]] et 2-8 [[vrock]])}
 {s:BDTexte|**Trésor** standard (cuirasse +2, corsèque impie +1, autres trésors)}
 (((Pouvoirs spéciaux)))
 {s:BDTexte|**Souffle (Sur)** Une fois tous les 1d4 rounds, un vavaki peut souffler
@@ -95,7 +95,7 @@ pendant 1 round si elle le réussit. Le DD du jet de sauvegarde est
 basé sur la Constitution.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 '' Ce monstre reptilien est plus imposant qu’un éléphant. La partie
 inférieure de son corps est celle d’un dinosaure quadrupède doté d’une
 épine dorsale protubérante qui se termine par une queue couverte de

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Capacités spéciales#RESISTENERGIES
 ---
 
->>> [Capacités spéciales#RESISTENERGIES](./Capacités spéciales.md#RESISTENERGIES)
+>>> [[Capacités spéciales#RESISTENERGIES]]

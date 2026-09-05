@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Même les situations sociales les plus stressantes ne vous découragent pas, et vous les surmontez aussi facilement qu'une bataille contre un dragon.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Cha](./Cha.md) 13, capacité de classe [courage](./Guerrier.md#COURAGE)
+**Conditions.** [[Cha]] 13, capacité de classe [[Guerrier#COURAGE|courage]]
 
-**Avantages.** Dans les situations sociales, le courage du personnage le protège et le rend plus difficile à cerner. Il ajoute son bonus de [courage](./Guerrier.md#COURAGE) au [DD](./DD.md) des tests pour le [démoraliser](./Intimidation.md), le [feinter](./feinte.md), modifier son [attitude](./Diplomatie.md), ou le convaincre de rendre un service (cela s'applique également contre [Humiliation acérée](./Humiliation acérée.md) et [Flatterie enivrante](./Flatterie enivrante.md)). De plus, le personnage obtient un bonus de moral égal à son bonus de courage aux tests de [Bluff](./Bluff.md) et d'[Intimidation](./Intimidation.md).
+**Avantages.** Dans les situations sociales, le courage du personnage le protège et le rend plus difficile à cerner. Il ajoute son bonus de [[Guerrier#COURAGE|courage]] au [[DD]] des tests pour le [[Intimidation|démoraliser]], le [[feinte|feinter]], modifier son [[Diplomatie|attitude]], ou le convaincre de rendre un service (cela s'applique également contre [[Humiliation acérée]] et [[Flatterie enivrante]]). De plus, le personnage obtient un bonus de moral égal à son bonus de courage aux tests de [[Bluff]] et d'[[Intimidation]].

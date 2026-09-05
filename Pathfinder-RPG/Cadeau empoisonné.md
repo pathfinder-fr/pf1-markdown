@@ -6,12 +6,12 @@ Categories:
 - Sort occultiste 3
 ---
 
-{s:UM}**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[poison](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Occ](./Occultiste.md) 3
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+{s:UM}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** une créature vivante touchée
-**Durée** [instantanée](./instantanée.md), voir texte
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Durée** [[instantanée]], voir texte
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** oui
 
-Le personnage peut lancer ce sort quand il est empoisonné uniquement. Il extrait le [poison](./poison.md) de son corps et reproduit son effet sur sa cible qui est alors affectée par le même [poison](./poison.md) que lui mais avec le [DD](./DD.md) du sort et non du [poison](./poison.md) ordinaire. Si le personnage est affecté par plusieurs [poisons](./poison.md), il choisit celui qu’il applique à la cible.
+Le personnage peut lancer ce sort quand il est empoisonné uniquement. Il extrait le [[poison]] de son corps et reproduit son effet sur sa cible qui est alors affectée par le même [[poison]] que lui mais avec le [[DD]] du sort et non du [[poison]] ordinaire. Si le personnage est affecté par plusieurs [[poison|poisons]], il choisit celui qu’il applique à la cible.

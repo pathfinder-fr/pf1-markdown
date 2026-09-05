@@ -8,9 +8,9 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Voir aussi la [règle de base](./../Pathfinder-RPG/Poids transportable.md).</ul>
-<ul>Voir aussi la [http://www.pathfinder-fr.org/Forum/yaf_postst2923_Encombrement.aspx|discussion].</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Voir aussi la [[Pathfinder-RPG.Poids transportable|règle de base]].</ul>
+<ul>Voir aussi la [discussion](http://www.pathfinder-fr.org/Forum/yaf_postst2923_Encombrement.aspx).</ul>
 </div>
 
 **Un personnage peut porter un nombre d'objets égal à sa valeur de force.**
@@ -18,7 +18,7 @@ Categories:
 ### Concept
 La règle concernant l'encombrement a pour but de simplifier les calculs du poids transporté par les aventuriers, parfois fastidieux.{br}
 L'encombrement tient évidement compte du poids des objets, mais également de la difficulté de transporter ceux-ci en fonction de leurs dimensions.  {br}
-De manière globale, on gagne en simplicité et en fluidité, on perd un peu de réalisme par rapport au tables de la [règle de base](./../Pathfinder-RPG/Poids transportable.md), mais on regagne en réalisme au niveau de la prise en compte de la dimension des objets. {br}
+De manière globale, on gagne en simplicité et en fluidité, on perd un peu de réalisme par rapport au tables de la [[Pathfinder-RPG.Poids transportable|règle de base]], mais on regagne en réalisme au niveau de la prise en compte de la dimension des objets. {br}
 D'autre part, pour gagner en simplicité, l'encombrement dû à l'armure et celui dû au poids transporté sont compté indépendamment, mais les malus dus à chacun se cumulent. {br}
 Contrairement à la règle de base cependant, l'encombrement est ici additif avec les pénalités engendrées par l'armure. C'est la raison pour laquelle les protections présentant une pénalité d'armure et qui sont utilisé ont un encombrement très faible.{br}
 D'autre part, alors la règle de base est absolue (le poids exprimé en kg est le même pour les créatures de toutes tailles), ce système tire une partie de sa simplicité du fait qu'il est relatif. Cela signifie que les règles énoncée ci dessous sont valables pour des objets adaptés à la taille du personnage.

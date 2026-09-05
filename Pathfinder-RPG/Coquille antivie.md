@@ -12,20 +12,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Cham](./Chaman.md) 6, [Dru](./Druide.md) 6, [Prê](./Prêtre.md) 6, [Psy](./Psychiste.md) 6  
+**École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 6, [[Druide|Dru]] 6, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6  
 
-**Temps d'incantation** 1 [round](./round.md)  
+**Temps d'incantation** 1 [[round]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
 **Portée** 3 m (2 {s:c})  
 
-**Zone d'effet** [émanation](./émanation.md) de 3 m (2 {s:c}) de rayon, centrée sur le jeteur de sorts  
+**Zone d'effet** [[émanation]] de 3 m (2 {s:c}) de rayon, centrée sur le jeteur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Cette [abjuration](./Abjuration.md) génère un champ d’énergie hémisphérique, [invisible](./Invisible.md) et mobile, bloquant l’entrée à la plupart des créatures vivantes. Il interdit le passage aux [animaux](./type Animal.md), [aberrations](./type Aberration.md), [créatures magiques](./type Créature magique.md), [dragons](./type Dragon.md), [fées](./type Fée.md), [géants](./sous-type géant.md), [humanoïdes](./type Humanoïde.md), [humanoïdes monstrueux](./type Humanoïde monstrueux.md), [plantes](./type Plante.md), [vases](./type Vase.md), ainsi qu’à la [vermine](./type Vermine.md). Cependant, [créatures artificielles](./type Créature artificielle.md), [élémentaires](./sous-type élémentaire.md), [Extérieurs](./type Extérieur.md) et [morts-vivants](./type Mort-vivant.md) ne sont pas gênés.
+Cette [[abjuration]] génère un champ d’énergie hémisphérique, [[invisible]] et mobile, bloquant l’entrée à la plupart des créatures vivantes. Il interdit le passage aux [[type animal|animaux]], [[type aberration|aberrations]], [[type créature magique|créatures magiques]], [[type dragon|dragons]], [[type fée|fées]], [[sous-type géant|géants]], [[type humanoïde|humanoïdes]], [[type humanoïde monstrueux|humanoïdes monstrueux]], [[type plante|plantes]], [[type vase|vases]], ainsi qu’à la [[type vermine|vermine]]. Cependant, [[type créature artificielle|créatures artificielles]], [[sous-type élémentaire|élémentaires]], [[type extérieur|Extérieurs]] et [[type mort-vivant|morts-vivants]] ne sont pas gênés.
 
-Le sort possède uniquement des vertus défensives. Comme c’est le cas pour la majorité des sorts d’[abjuration](./Abjuration.md), la protection disparaît instantanément si l’on s’en sert pour repousser activement une créature.
+Le sort possède uniquement des vertus défensives. Comme c’est le cas pour la majorité des sorts d’[[abjuration]], la protection disparaît instantanément si l’on s’en sert pour repousser activement une créature.

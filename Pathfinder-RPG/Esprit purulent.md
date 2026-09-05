@@ -10,7 +10,7 @@ LastModified: 2017-04-02 15:23
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 94*}
 - **4 800 PX**
-- [Mort-Vivant](./type Mort-vivant.md) ([intangible](./sous-type intangible.md)) de taille M, CM
+- [[type mort-vivant|Mort-Vivant]] ([[sous-type intangible|intangible]]) de taille M, CM
 - **Init **+9 ; **Sens** vision dans le noir à 18 m ; Perception +13
 - **Aura** puanteur (DD 14, 10 rounds)
 (((Défense)))
@@ -26,8 +26,8 @@ LastModified: 2017-04-02 15:23
 (((Statistiques)))
 - **For **—, **Dex** 20, **Con —,** **Int** 6, **Sag** 12, **Cha** 15
 - **BBA **+6 ; **BMO **+11 ; **DMD** 24
-- **Dons** [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md)
-- **Compétences** [Discrétion](./Discrétion.md) +17, [Perception](./Perception.md) +13, [Vol](./Vol.md) +9
+- **Dons** [[Attaque en vol]], [[Attaques réflexes]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]]
+- **Compétences** [[Discrétion]] +17, [[Perception]] +13, [[Vol]] +9
 - **Particularités** toucher spectral
 (((Écologie)))
 - **Environnement** terrestre ou souterrain

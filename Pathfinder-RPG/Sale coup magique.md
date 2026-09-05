@@ -13,11 +13,11 @@ Categories:
 
 *La nature vengeresse de votre divinité coule à travers votre magie, amenant vos ennemis à se battre contre eux-mêmes.*
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
-**Conditions.** Capacité à lancer des sorts de niveau 1, alignement Chaotique Neutre, suivant de la [déesse de la vengeance](./../Golarion/Calistria.md)
+**Conditions.** Capacité à lancer des sorts de niveau 1, alignement Chaotique Neutre, suivant de la [[Golarion.Calistria|déesse de la vengeance]]
 
-**Avantage.** Seuls les sorts d'enchantement qui affectent une cible unique et qui peuvent être annulés avec un jet de [Volonté](./Volonté.md) réussit peuvent être des sales coups magiques. Si la cible rate son jet de [Volonté](./Volonté.md) contre un sale coup magique, en plus des effets normaux du sort, la cible se handicape elle-même. Le personnage tente immédiatement un jet spécial de manœuvre offensive (1d20 + son niveau de lanceur + son modificateur de [Charisme](./Charisme.md)) pour entreprendre un [sale coup](./sale coup.md) contre la cible. Tous les dons qui s'appliquent aux manœuvres de sale coup (tel que [Sale coup supérieur](./Sale coup supérieur.md)) s'appliquent également à ce test. Un sale coup magique nécessite un emplacement de sort d'un niveau de plus que le niveau actuel du sort.
+**Avantage.** Seuls les sorts d'enchantement qui affectent une cible unique et qui peuvent être annulés avec un jet de [[Volonté]] réussit peuvent être des sales coups magiques. Si la cible rate son jet de [[Volonté]] contre un sale coup magique, en plus des effets normaux du sort, la cible se handicape elle-même. Le personnage tente immédiatement un jet spécial de manœuvre offensive (1d20 + son niveau de lanceur + son modificateur de [[Charisme]]) pour entreprendre un [[sale coup]] contre la cible. Tous les dons qui s'appliquent aux manœuvres de sale coup (tel que [[Sale coup supérieur]]) s'appliquent également à ce test. Un sale coup magique nécessite un emplacement de sort d'un niveau de plus que le niveau actuel du sort.
 
 (((Trick Spell (Metamagic)
 

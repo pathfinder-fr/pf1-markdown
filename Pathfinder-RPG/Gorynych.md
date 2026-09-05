@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Dragon|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p. 141*}
 {s:BDTexte|**PX** 51 200 px}
-{s:BDTexte|[Dragon](./type Dragon.md) de taille TG, CM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), *[vision lucide](./Vision lucide.md)*, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +23}
+{s:BDTexte|[[type Dragon|Dragon]] de taille TG, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), *[[vision lucide]]*, [[vision nocturne]] ; [[Perception]] +23}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 10, pris au dépourvu 26 (Dex +2, naturelle +18, taille -2)}
 {s:BDTexte|**pv** 212 (17d12+102) ; régénération 5 (acide)}
@@ -25,17 +25,17 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 15 m (10 {s:c}), vol 30 m (20 {s:c}, médiocre)}
 {s:BDTexte|**Corps à corps** 2 griffes, +23 (1d8+8) et 3 morsures, +24 (2d8+8)}
 {s:BDTexte|**Espace occupé** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** souffle (cône de 12 m (8 {s:c}), 5d6 feu, [Réflexes](./Réflexes.md) [DD](./DD.md) 24, 1/2 dégâts, utilisable tous les 1d4 rounds)}
+{s:BDTexte|**Attaques spéciales** souffle (cône de 12 m (8 {s:c}), 5d6 feu, [[Réflexes]] [[DD]] 24, 1/2 dégâts, utilisable tous les 1d4 rounds)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 15 ; concentration +19}
-{s:BDSorts|Constant — *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|A volonté — *[charme-personne](./Charme-personne.md)* ([DD](./DD.md) 15), *[lumières dansantes](./Lumières dansantes.md)*, *[message](./Message.md)*}
-{s:BDSorts|3/jour — *[dissipation suprême](./Dissipation suprême.md)* ,*[malédiction](./malédiction.md)* ([DD](./DD.md) 18), *[modification d’apparence](./Modification dapparence.md)*}
-{s:BDSorts|1/jour — *[double illusoire](./Double illusoire.md)* ([DD](./DD.md) 20), *[mission](./Mission.md)* ([DD](./DD.md) 18), *[souhait limité](./Souhait limité.md)*}
+{s:BDSorts|Constant — *[[vision lucide]]*}
+{s:BDSorts|A volonté — *[[charme-personne]]* ([[DD]] 15), *[[lumières dansantes]]*, *[[message]]*}
+{s:BDSorts|3/jour — *[[dissipation suprême]]* ,*[[malédiction]]* ([[DD]] 18), *[[modification dapparence|modification d’apparence]]*}
+{s:BDSorts|1/jour — *[[double illusoire]]* ([[DD]] 20), *[[mission]]* ([[DD]] 18), *[[souhait limité]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 27, **Dex** 15, **Con** 22, **Int** 12, **Sag** 17, **Cha** 18}
 {s:BDTexte|**BBA** +17, **BMO** +27, **DMD** 39}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Coup fabuleux](./Coup fabuleux.md), [Immobiliser](./Immobiliser.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +14, [Bluff](./Bluff.md) +17, [Connaissances](./Connaissances.md) (mystères) +14, [Connaissances](./Connaissances.md) (nature) +14, [Diplomatie](./Diplomatie.md) +17, [Discrétion](./Discrétion.md) +14, [Intimidation](./Intimidation.md) +17, [Natation](./Natation.md) +24, [Perception](./Perception.md) +23, [Psychologie](./Psychologie.md) +16, [Vol](./Vol.md) +7}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaque en vol]], [[Attaques réflexes]], [[Coup fabuleux]], [[Immobiliser]], [[Réflexes surhumains]], [[Science de la bousculade]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +14, [[Bluff]] +17, [[Connaissances]] (mystères) +14, [[Connaissances]] (nature) +14, [[Diplomatie]] +17, [[Discrétion]] +14, [[Intimidation]] +17, [[Natation]] +24, [[Perception]] +23, [[Psychologie]] +16, [[Vol]] +7}
 {s:BDTexte|**Langue** commun, draconique, sylvestre}
 {s:BDTexte|**Particularités** têtes multiples}
 {s:BDSousTitre|Écologie}
@@ -43,16 +43,16 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** double}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Souffle (Sur).** Chacune des trois têtes du gorynych crache son propre souffle. Lorsque le gorynych utilise son souffle, il peut souffler avec une seule tête, deux ou toutes. Si les zones d’effet de deux souffles ou plus se chevauchent, les créatures prises dans la zone superposée reçoivent un malus de -2 à leurs jets de [Réflexes](./Réflexes.md) (ou de -4 si les trois souffles se superposent). Les dégâts infligés par des souffles superposés se cumulent et sont considérés comme étant une m source de dégâts de feu quand il s’agit de comptabiliser la [résistance](./Résistance (capacité).md) au feu. Quel que soit le nombre de têtes qui crachent, le gorynych ne peut utiliser son souffle que tous les 1d4 [rounds](./round.md).}
-{s:BDTexte|**Têtes multiples (Ext).** Les trois têtes du gorynych peuvent agir indépendamment les unes des autres. Lorsque le gorynych effectue une [attaque à outrance](./attaque à outrance.md), chacune de ses trois têtes peut mordre ou souffler quelle que soit la combinaison (deux morsures et un souffle, trois souffles sans morsure, etc.)}
+{s:BDTexte|**Souffle (Sur).** Chacune des trois têtes du gorynych crache son propre souffle. Lorsque le gorynych utilise son souffle, il peut souffler avec une seule tête, deux ou toutes. Si les zones d’effet de deux souffles ou plus se chevauchent, les créatures prises dans la zone superposée reçoivent un malus de -2 à leurs jets de [[Réflexes]] (ou de -4 si les trois souffles se superposent). Les dégâts infligés par des souffles superposés se cumulent et sont considérés comme étant une m source de dégâts de feu quand il s’agit de comptabiliser la [[résistance (capacité)|résistance]] au feu. Quel que soit le nombre de têtes qui crachent, le gorynych ne peut utiliser son souffle que tous les 1d4 [[round|rounds]].}
+{s:BDTexte|**Têtes multiples (Ext).** Les trois têtes du gorynych peuvent agir indépendamment les unes des autres. Lorsque le gorynych effectue une [[attaque à outrance]], chacune de ses trois têtes peut mordre ou souffler quelle que soit la combinaison (deux morsures et un souffle, trois souffles sans morsure, etc.)}
 
 </div>
 </td><td><div>
 *Ce dragon à trois têtes et aux écailles lisses se dresse sur ses pattes arrières, les ailes déployées, et crache des flammes de ses trois gueules garnies de crocs.*
 
-Cette bête sinistre menace des territoires entiers avec ses opérations de pillage. N’entretenant aucun lien d’amitié avec ses cousins les véritables dragons, le gorynych dispute parfois le contrôle d’une région aux [dragons verts](./Dragon vert.md) et les [dragons noirs](./Dragon noir.md). Il traque les jeunes dragons n’ayant collecté que de petits butins et tue ces créatures rivales pour s’approprier leurs trésors. Il domine les drakes et les [vouivres](./Vouivre.md) mais les vrais dragons le considèrent comme une forme répugnante de survivance des anciennes lignées de mutants et de déviants.
+Cette bête sinistre menace des territoires entiers avec ses opérations de pillage. N’entretenant aucun lien d’amitié avec ses cousins les véritables dragons, le gorynych dispute parfois le contrôle d’une région aux [[dragon vert|dragons verts]] et les [[dragon noir|dragons noirs]]. Il traque les jeunes dragons n’ayant collecté que de petits butins et tue ces créatures rivales pour s’approprier leurs trésors. Il domine les drakes et les [[vouivre|vouivres]] mais les vrais dragons le considèrent comme une forme répugnante de survivance des anciennes lignées de mutants et de déviants.
 
-Animé par l’avarice, la gloutonnerie et la luxure, le gorynych n’existe que pour collectionner les trésors, festoyer autant que possible et pourchasser les vierges humanoïdes en utilisant ses capacités *[modification d’apparence](./Modification dapparence.md)* et *[charme-personne](./Charme-personne.md)* si nécessaire. Les gorynychs se montrent particulièrement créatifs dans l’utilisation de leurs *[souhaits limités](./Souhait limité.md)*, reproduisant d’autres effets de sort pour assouvir leurs désirs et mener leurs ignobles tâches à bien.
+Animé par l’avarice, la gloutonnerie et la luxure, le gorynych n’existe que pour collectionner les trésors, festoyer autant que possible et pourchasser les vierges humanoïdes en utilisant ses capacités *[[modification dapparence|modification d’apparence]]* et *[[charme-personne]]* si nécessaire. Les gorynychs se montrent particulièrement créatifs dans l’utilisation de leurs *[[souhait limité|souhaits limités]]*, reproduisant d’autres effets de sort pour assouvir leurs désirs et mener leurs ignobles tâches à bien.
 
 Lorsqu’ils ne sont pas occupés à choisir une vierge à enlever ou à traquer de jeunes dragons pour les priver de leurs trésors, la plupart des gorynychs fouillent les ruines anciennes dont ils se font les gardiens, rassemblant parfois autour d’eux des tribus entières d’humanoïdes monstrueux qui deviennent leurs serviteurs.
 </div></td></tr></table>

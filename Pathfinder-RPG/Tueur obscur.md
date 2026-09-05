@@ -14,40 +14,40 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.279}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([obscurien](./sous-type obscur.md)) de taille P, CM}
-{s:BDTexte|**Init** +4 ; **Sens** *[détection de la magie](./Détection de la magie.md)*, vision dans les ténèbres ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type humanoïde|Humanoïde]] ([[sous-type Obscur|obscurien]]) de taille P, CM}
+{s:BDTexte|**Init** +4 ; **Sens** *[[détection de la magie]]*, vision dans les ténèbres ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 11 (Dex +4, taille +1)}
 {s:BDTexte|**pv** 22 (4d8+4)}
 {s:BDTexte|**Réf** +8, **Vig** +2, **Vol** +1}
-{s:BDTexte|**Faiblesses** [aveuglé par la lumière](./Aveuglé par la lumière (capacité).md)}
+{s:BDTexte|**Faiblesses** [[aveuglé par la lumière (capacité)|aveuglé par la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** kukri, +8 (1d3–1/18–20 plus traînée noire <nowiki>[</nowiki>poison<nowiki>]</nowiki>)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./attaque sournoise.md) +2d6, dernier sursaut, récolte d’âmes, utilisation des poisons}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 4 ; concentration +6)}
-{s:BDSorts|Constant — *[détection de la magie](./Détection de la magie.md)*}
-{s:BDSorts|À volonté — *[contact glacial](./Contact glacial.md)* (DD 13), *[main spectrale](./Main spectrale.md)*, *[saignement](./Saignement.md)* (DD 12), *[ténèbres](./Ténèbres.md)*}
-{s:BDSorts|3/jour — *[blessure modérée](./Blessure modérée.md)* (DD 14), *[hébétement de monstre](./Hébétement de monstre.md)* (DD 14), *[mise à mort](./Mise à mort.md)* (DD 14)}
+{s:BDTexte|**Corps à corps** kukri, +8 (1d3–1/18–20 plus traînée noire <nowiki>[[</nowiki>poison<nowiki>]]</nowiki>)}
+{s:BDTexte|**Attaques spéciales** [[attaque sournoise]] +2d6, dernier sursaut, récolte d’âmes, utilisation des poisons}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 4 ; concentration +6)}
+{s:BDSorts|Constant — *[[détection de la magie]]*}
+{s:BDSorts|À volonté — *[[contact glacial]]* (DD 13), *[[main spectrale]]*, *[[saignement]]* (DD 12), *[[ténèbres]]*}
+{s:BDSorts|3/jour — *[[blessure modérée]]* (DD 14), *[[hébétement de monstre]]* (DD 14), *[[mise à mort]]* (DD 14)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 9, **Dex** 18, **Con** 12, **Int** 10, **Sag** 11, **Cha** 15}
 {s:BDTexte|**BBA** +3 ; **BMO** +1 ; **DMD** 15}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Talent](./Talent.md) ([Utilisation d’objets magiques](./Utilisation dObjets Magiques.md))}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +7, [Discrétion](./Discrétion.md) +12, [Escalade](./Escalade.md) +3, [Perception](./Perception.md) +4, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +12 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md), +4 en [Escalade](./Escalade.md), +4 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Talent]] ([[Utilisation dobjets magiques|Utilisation d’objets magiques]])}
+{s:BDTexte|**Compétences** [[Art de la magie]] +7, [[Discrétion]] +12, [[Escalade]] +3, [[Perception]] +4, [[utilisation dobjets magiques|Utilisation d’objets magiques]] +12 ; **Modificateurs raciaux** +4 en [[Discrétion]], +4 en [[Escalade]], +4 en [[Perception]]}
 {s:BDTexte|**Langues** obscurien}
 {s:BDTexte|**Particularités** Talent magique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** sous terre}
-{s:BDTexte|**Organisation sociale** solitaire, bande (1 tueur obscur et 2–5 [traqueurs obscurs](./Traqueur obscur.md)) ou clan (20–80 [fureteurs obscurs](./Fureteur obscur.md) plus 1 [traqueur obscur](./Traqueur obscur.md) ou 1 tueur obscur par 20 [fureteurs](./Fureteur obscur.md))}
-{s:BDTexte|**Trésor** standard (kukri, traînée noire <nowiki>[</nowiki>2 doses<nowiki>]</nowiki> <nowiki>[</nowiki>voir description du [traqueur obscur](./Traqueur obscur.md)<nowiki>]</nowiki>, autre équipement)}
+{s:BDTexte|**Organisation sociale** solitaire, bande (1 tueur obscur et 2–5 [[traqueur obscur|traqueurs obscurs]]) ou clan (20–80 [[fureteur obscur|fureteurs obscurs]] plus 1 [[traqueur obscur]] ou 1 tueur obscur par 20 [[fureteur obscur|fureteurs]])}
+{s:BDTexte|**Trésor** standard (kukri, traînée noire <nowiki>[[</nowiki>2 doses<nowiki>]]</nowiki> <nowiki>[</nowiki>voir description du [[traqueur obscur]]<nowiki>]</nowiki>, autre équipement)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Dernier sursaut (Sur).** Quand un tueur obscur est tué, son corps implose violemment pour se désintégrer complètement et ne laisser que son équipement sur le sol. Toutes les créatures situées dans un rayon de 3 mètres (2 {s:c}) subissent 1d8 points de dégâts de son et doivent réussir un jet de [Vigueur](./Vigueur.md) contre un [DD](./DD.md) de 13 pour ne pas être [assourdies](./Assourdi.md) pendant 2d4 [rounds](./round.md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Récolte d’âmes (Sur).** Quand un tueur obscur blesse un ennemi [pris au dépourvu](./Pris au dépourvu.md) ou un ennemi [pris en tenaille](./Pris en tenaille.md) à l’aide d’un sort de contact au corps à corps ou d’un pouvoir magique qui inflige des points de dégâts, le sort inflige 1d6 points de dégâts supplémentaires et le tueur obscur gagne la même quantité de points de vie temporaires. Ces points de vie temporaires durent au plus 1 heure.}
-{s:BDTexte|**Talent magique (Ext).** [Art de la magie](./Art de la magie.md) et [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) sont toujours des compétences de classe pour les tueurs obscurs.}
-{s:BDTexte|**Utilisation des poisons (Ext.)** Voir les pouvoirs spéciaux du [traqueur obscur](./Traqueur obscur.md).}
-{s:BDTexte|**Vision dans les ténèbres (Ext.)** Voir les pouvoirs spéciaux du [traqueur obscur](./Traqueur obscur.md).}
+{s:BDTexte|**Dernier sursaut (Sur).** Quand un tueur obscur est tué, son corps implose violemment pour se désintégrer complètement et ne laisser que son équipement sur le sol. Toutes les créatures situées dans un rayon de 3 mètres (2 {s:c}) subissent 1d8 points de dégâts de son et doivent réussir un jet de [[Vigueur]] contre un [[DD]] de 13 pour ne pas être [[assourdi|assourdies]] pendant 2d4 [[round|rounds]]. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|**Récolte d’âmes (Sur).** Quand un tueur obscur blesse un ennemi [[pris au dépourvu]] ou un ennemi [[pris en tenaille]] à l’aide d’un sort de contact au corps à corps ou d’un pouvoir magique qui inflige des points de dégâts, le sort inflige 1d6 points de dégâts supplémentaires et le tueur obscur gagne la même quantité de points de vie temporaires. Ces points de vie temporaires durent au plus 1 heure.}
+{s:BDTexte|**Talent magique (Ext).** [[Art de la magie]] et [[Utilisation dobjets magiques|Utilisation d’objets magiques]] sont toujours des compétences de classe pour les tueurs obscurs.}
+{s:BDTexte|**Utilisation des poisons (Ext.)** Voir les pouvoirs spéciaux du [[traqueur obscur]].}
+{s:BDTexte|**Vision dans les ténèbres (Ext.)** Voir les pouvoirs spéciaux du [[traqueur obscur]].}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [obscuriens](./obscurien.md).***</li></ul>*Ce petit humanoïde est couvert de guenilles de la tête aux pieds. Seul ses mains pâles et ses yeux sinistres sont visibles.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[obscurien|obscuriens]].***</li></ul>*Ce petit humanoïde est couvert de guenilles de la tête aux pieds. Seul ses mains pâles et ses yeux sinistres sont visibles.*
 
 Les tueurs obscurs forment une ethnie relativement peu courante de la race des obscurs. Ces individus touchés par des forces maléfiques possèdent un éventail de pouvoirs magiques mortels bien supérieurs à ceux qui sont normalement accessibles à leur peuple. On les rencontre généralement à la tête de petits groupes de fureteurs obscurs. Ils cachent difficilement la jalousie que leur inspirent les traqueurs obscurs. Ils passent tout leur temps à comploter afin de les renverser et de pouvoir contrôler eux-aussi une tribu entière d’obscurs. Les traqueurs obscurs, eux, utilisent les tueurs pour atteindre leurs propres buts  : ils les forment pour ensuite les envoyer combattre leurs ennemis et n’hésitent pas à les sacrifier au combat si cela peut leur donner un avantage, même un avantage temporaire.
 

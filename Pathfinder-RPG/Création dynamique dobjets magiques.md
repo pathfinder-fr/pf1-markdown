@@ -13,12 +13,12 @@ En plus de pimenter la fabrication des objets magiques, ce système modifie le c
 Pour les groupes qui préfèrent vivre une expérience plus approfondie, remplacez les tests de compétences demandés ci-dessous par des scènes de roleplay.
 
 ### Vue d'ensemble
-Le système de création des objets magiques présenté dans cette partie divise le processus de fabrication des objets magiques (autres que les potions et les parchemins) en une série de défis que les créateurs doivent relever. Ces défis sont là pour illustrer les contretemps ou les opportunités qui se présentent au cours du processus de création. Les premiers et derniers défis de ce processus sont les mêmes pour tous les objets : la [préparation du réceptacle](./Création dynamique dobjets magiques.md#Préparation de réceptable) et l’[achèvement de l’objet](./Création dynamique dobjets magiques.md#Achèvement de l'objet).
+Le système de création des objets magiques présenté dans cette partie divise le processus de fabrication des objets magiques (autres que les potions et les parchemins) en une série de défis que les créateurs doivent relever. Ces défis sont là pour illustrer les contretemps ou les opportunités qui se présentent au cours du processus de création. Les premiers et derniers défis de ce processus sont les mêmes pour tous les objets : la [[Création dynamique dobjets magiques#Préparation de réceptable|préparation du réceptacle]] et l’[[Création dynamique dobjets magiques#Achèvement de l'objet|achèvement de l’objet]].
 
 Entre ces deux étapes, les personnages sont confrontés à un certain nombre de problèmes aléatoires qui sont fonction du prix de vente total de l’objet. Le processus inclut un défi supplémentaire par tranche de 5 000 po du prix de vente de l’objet (1 au minimum), bien que le MJ puisse revoir ce nombre à la hausse ou à la baisse. Davantage de défis à la création signifie que l’objet peut posséder plus de propriétés inhabituelles, pour le meilleur ou pour le pire. Cela accroît également le coût et le temps moyens du processus de création pour les personnages moins compétents mais les réduit pour les groupes hautement qualifiés.
 
 ### Les défis
-Chaque défi que les [PJ](./PJ.md) doivent affronter prend la forme d’un contretemps ou d’une opportunité dans le processus de création de l’objet magique. Ce système part du principe que les PJ impliqués rassemblent des ingrédients exotiques, étudient les notes d’autres individus ayant fabriqué des objets similaires et composent avec des variables mystiques inattendues. Cela permet à tout le groupe de participer à la création : ainsi, quiconque souhaite apporter son aide est considéré comme un créateur, et il suffit qu’un seul créateur possède le [don de création d’objets](./Dons.md#DONCREATION) approprié.
+Chaque défi que les [[PJ]] doivent affronter prend la forme d’un contretemps ou d’une opportunité dans le processus de création de l’objet magique. Ce système part du principe que les PJ impliqués rassemblent des ingrédients exotiques, étudient les notes d’autres individus ayant fabriqué des objets similaires et composent avec des variables mystiques inattendues. Cela permet à tout le groupe de participer à la création : ainsi, quiconque souhaite apporter son aide est considéré comme un créateur, et il suffit qu’un seul créateur possède le [[Dons#DONCREATION|don de création d’objets]] approprié.
 
 #### Relever les défis
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
@@ -38,16 +38,16 @@ de plus de 5 || Échec
 |-
 | — || Échec aux deux || Échec critique
 |}
-</div></div>Chaque défi implique deux tâches. Un créateur peut tenter d’accomplir une seule tâche ou deux créateurs peuvent chacun choisir une tâche différente. Ce choix des tâches à accomplir doit être fait avant de procéder aux tests associés. Les créateurs ne peuvent pas faire 10 ou 20 (même avec [savoir bardique](./Barde.md#SAVOIRBARDIQUE) ou maîtrise des compétences) ni bénéficier de l’action [aider quelqu’un](./aider qqn.md) lors des tâches de création d’objets.
+</div></div>Chaque défi implique deux tâches. Un créateur peut tenter d’accomplir une seule tâche ou deux créateurs peuvent chacun choisir une tâche différente. Ce choix des tâches à accomplir doit être fait avant de procéder aux tests associés. Les créateurs ne peuvent pas faire 10 ou 20 (même avec [[Barde#SAVOIRBARDIQUE|savoir bardique]] ou maîtrise des compétences) ni bénéficier de l’action [[aider qqn|aider quelqu’un]] lors des tâches de création d’objets.
 
 Certaines tâches ne nécessitent aucun test mais imposent d’autres conditions de réussite. Si un créateur entreprend pareille tâche, celle-ci doit être réalisée avant que le créateur ne s’essaye à la tâche impliquant un test.
 
-Si les créateurs décident de tenter les deux tâches d’un défi donné, chacune d’elles doit être tentée par un créateur différent. Par exemple, face à un défi d’[élucidation sesquipédalien](./Création dynamique dobjets magiques.md#Élucidation sesquipédalien), un [magicien](./Magicien.md) sortira peut-être son dictionnaire pour tenter un test de [Linguistique](./Linguistique.md) tandis qu’un [roublard](./Roublard.md) décidera peut-être d’inventer ses propres mots à rallonge pour tenter un test d’[Utilisation d’objets magiques](./UOM.md). Le nombre de tâches tentées ainsi que leur réussite ou leur échec déterminent l’issue du défi, comme indiqué ci-dessous.
+Si les créateurs décident de tenter les deux tâches d’un défi donné, chacune d’elles doit être tentée par un créateur différent. Par exemple, face à un défi d’[[Création dynamique dobjets magiques#Élucidation sesquipédalien|élucidation sesquipédalien]], un [[magicien]] sortira peut-être son dictionnaire pour tenter un test de [[Linguistique]] tandis qu’un [[roublard]] décidera peut-être d’inventer ses propres mots à rallonge pour tenter un test d’[[UOM|Utilisation d’objets magiques]]. Le nombre de tâches tentées ainsi que leur réussite ou leur échec déterminent l’issue du défi, comme indiqué ci-dessous.
 
 #### Format des défis
 Le profil des défis inclut une brève description ainsi que les sections suivantes.
 
-**Tâches.** Ce sont les options parmi lesquelles le créateur peut faire son choix quand il tente de relever le défi. Elles ne sont définies que par de courts intitulés et le [MJ](./MJ.md) devrait en interpréter les spécificités de manière intéressante et sensée par rapport à l’histoire.
+**Tâches.** Ce sont les options parmi lesquelles le créateur peut faire son choix quand il tente de relever le défi. Elles ne sont définies que par de courts intitulés et le [[MJ]] devrait en interpréter les spécificités de manière intéressante et sensée par rapport à l’histoire.
 
 **Résultats.** Ces éléments couvrent les conséquences d’une réussite ou d’un échec. N’utilisez les résultats que d’une seule catégorie : une réussite critique ne permet pas de bénéficier également du résultat d’une réussite normale tandis qu’un échec critique n’impose pas les effets d’un échec normal en plus.
 
@@ -56,25 +56,25 @@ Le coût par défaut de la création d’objets avec cette méthode correspond �
 
 Le personnage doit acheter des armes, des armures et d’autres objets dont les propriétés de maître ou les composantes matérielles doivent être indépendantes pour initier le processus. Soustrayez ces coûts au prix de vente de l’objet pour calculer tous les coûts (mais pas pour déterminer le temps de création requis ni le nombre de défis rencontrés).
 
-Avant de s’essayer au premier défi, les [PJ](./PJ.md) achètent les matériaux de départ en dépensant 25% du prix de vente de l’objet. Lors du dernier défi, les PJ doivent s’acquitter du montant restant, en prenant en compte tous les ajustements.
+Avant de s’essayer au premier défi, les [[PJ]] achètent les matériaux de départ en dépensant 25% du prix de vente de l’objet. Lors du dernier défi, les PJ doivent s’acquitter du montant restant, en prenant en compte tous les ajustements.
 
 Les PJ peuvent renoncer à tout moment à la création d’un objet. Si tel est le cas, ils n’ont pas à s’acquitter du montant restant mais ne peuvent pas utiliser les matériaux d’une tentative donnée pour la création d’un autre objet.
 
 ### Temps de création
-Le temps de base qu’il faut pour créer un objet avec ce système est le même qu’indiqué dans les règles normales de [création d’objets](./Création dobjets magiques.md). Il est impossible d’accélérer le processus en augmentant le [DD](./DD.md) des tests comme c’est le cas avec les règles normales.
+Le temps de base qu’il faut pour créer un objet avec ce système est le même qu’indiqué dans les règles normales de [[Création dobjets magiques|création d’objets]]. Il est impossible d’accélérer le processus en augmentant le [[DD]] des tests comme c’est le cas avec les règles normales.
 
 **Espacez équitablement les défis.** Par exemple, quatre défis pour un objet d’une valeur de 10 000 po (deux de base et deux aléatoires) signifie qu’un défi prend place au début, un autre après trois jours de travail, le troisième dans les sept jours suivants et le dernier au dixième jour.
 
 ### Ajustements
-Le premier défi, qui consiste à préparer le réceptacle, fixe certaines des statistiques de base du nouvel objet magique. Les défis suivants peuvent apporter des ajustements à l’objet magique. Le [MJ](./MJ.md) peut créer ses propres défis et ne devrait pas hésiter à étudier le [DD](./DD.md) des tâches des différents défis quand il décide des ajustements. Les défis ayant un DD inférieur devraient en principe faire profiter d’avantages qui permettent simplement d’éviter les ajustements négatifs tandis que les défis ayant un DD supérieur devraient être plus susceptibles d’apporter des ajustements bénéfiques.
+Le premier défi, qui consiste à préparer le réceptacle, fixe certaines des statistiques de base du nouvel objet magique. Les défis suivants peuvent apporter des ajustements à l’objet magique. Le [[MJ]] peut créer ses propres défis et ne devrait pas hésiter à étudier le [[DD]] des tâches des différents défis quand il décide des ajustements. Les défis ayant un DD inférieur devraient en principe faire profiter d’avantages qui permettent simplement d’éviter les ajustements négatifs tandis que les défis ayant un DD supérieur devraient être plus susceptibles d’apporter des ajustements bénéfiques.
 
 **Coût.** Les défis qui ajustent le coût augmentent ou réduisent le coût de création par incréments de 5% du prix de vente final. Le coût peut dépasser 100% de ce prix, ce qui signifie que l’objet coûte plus cher à la fabrication qu’il ne vaut sur le marché. Le coût final ne peut jamais être réduit à moins des 25% de l’investissement de départ : les personnages ne peuvent obtenir aucun remboursement sur ces dépenses-là.
 
-**Temps.** Les défis peuvent rallonger ou raccourcir le nombre de jours de travail nécessaires à la création de l’objet. Quand cela se produit, ajustez le calendrier des défis en conséquence. Le nombre total de jours de travail ne peut jamais être inférieur à 1 ni ne peut être inférieur au nombre de jours que les personnages ont déjà passé à fabriquer l’objet. Par exemple, si au troisième jour d’un processus de création de cinq jours une réussite critique vient réduire le temps de création de 1 jour, le dernier défi aura alors lieu le quatrième jour. Mais si le résultat implique une réduction du temps de création de trois jours, le [PJ](./PJ.md) sera à la place capable de tenter aussitôt le dernier défi.
+**Temps.** Les défis peuvent rallonger ou raccourcir le nombre de jours de travail nécessaires à la création de l’objet. Quand cela se produit, ajustez le calendrier des défis en conséquence. Le nombre total de jours de travail ne peut jamais être inférieur à 1 ni ne peut être inférieur au nombre de jours que les personnages ont déjà passé à fabriquer l’objet. Par exemple, si au troisième jour d’un processus de création de cinq jours une réussite critique vient réduire le temps de création de 1 jour, le dernier défi aura alors lieu le quatrième jour. Mais si le résultat implique une réduction du temps de création de trois jours, le [[PJ]] sera à la place capable de tenter aussitôt le dernier défi.
 
-**Extras, bizarreries et défauts.** Un défi peut ajouter un [extra bénéfique](./Création dynamique dobjets magiques.md#EXTRAS), une [bizarrerie plus ou moins neutre](./Création dynamique dobjets magiques.md#BIZARRERIES) ou un [défaut nuisible à l’objet](./Création dynamique dobjets magiques.md#DEFAUTS). Ces trois types d’ajustements donnent un caractère unique à l’objet, qui le démarque des autres objets du même genre. Le [MJ](./MJ.md) devrait effectuer les jets qui déterminent ces extras, ces bizarreries et ces défauts en secret et relancer les dés pour les résultats similaires ou contradictoires. En général, *[détection de la magie](./Détection de la magie.md)* et *[identification](./Identification.md)* ne révèlent pas les extras, les bizarreries et les défauts de l’objet, tandis qu’*[analyse d’enchantement](./Analyse denchantement.md)* le permet, mais uniquement une fois l’objet terminé.
+**Extras, bizarreries et défauts.** Un défi peut ajouter un [[Création dynamique dobjets magiques#EXTRAS|extra bénéfique]], une [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie plus ou moins neutre]] ou un [[Création dynamique dobjets magiques#DEFAUTS|défaut nuisible à l’objet]]. Ces trois types d’ajustements donnent un caractère unique à l’objet, qui le démarque des autres objets du même genre. Le [[MJ]] devrait effectuer les jets qui déterminent ces extras, ces bizarreries et ces défauts en secret et relancer les dés pour les résultats similaires ou contradictoires. En général, *[[détection de la magie]]* et *[[identification]]* ne révèlent pas les extras, les bizarreries et les défauts de l’objet, tandis qu’*[[analyse denchantement|analyse d’enchantement]]* le permet, mais uniquement une fois l’objet terminé.
 
-**Destruction.** Dans le cas d’un échec critique, certains défis peuvent réduire à néant les progrès effectués lors de la création de l’objet, ce qui coûte aux [PJ](./PJ.md) les investissements réalisés jusqu’alors. Ces défis s’accompagnent d’avantages séduisants en cas de réussite critique, ce qui fait qu’ils en valent potentiellement le risque.
+**Destruction.** Dans le cas d’un échec critique, certains défis peuvent réduire à néant les progrès effectués lors de la création de l’objet, ce qui coûte aux [[PJ]] les investissements réalisés jusqu’alors. Ces défis s’accompagnent d’avantages séduisants en cas de réussite critique, ce qui fait qu’ils en valent potentiellement le risque.
 
 ### Défis de base
 Voici deux défis qui encadrent le processus de création dynamique d’objets magiques. La préparation du réceptacle est toujours le premier défi, l’achèvement de l’objet est toujours le dernier.
@@ -84,12 +84,12 @@ Voici deux défis qui encadrent le processus de création dynamique d’objets m
 {s:BDTitre|Préparation de réceptacle|{s:Reference|Préparation de réceptacle}}
 Le personnage doit créer ou préparer un objet qui puisse contenir la magie que le créateur a l’intention de lui conférer.
 (((Tâches)))
-- **Forger un nouveau réceptacle.** [Artisanat](./Artisanat.md) (type de l’objet) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
-- **Préparations mystiques.** [Art de la magie](./Art de la magie.md) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
+- **Forger un nouveau réceptacle.** [[Artisanat]] (type de l’objet) [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l’objet.
+- **Préparations mystiques.** [[Art de la magie]] [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l’objet.
 (((Résultats)))
 - **Réussite critique.** Le personnage dispose d’un réceptacle efficace et exceptionnel. Fixez le coût de base à 75% du prix de vente et le temps de création de l’objet à 1 journée par tranche de 2 000 po du prix de vente de l’objet.
 - **Réussite.** Le personnage dispose d’un réceptacle satisfaisant. Fixez le coût de base à 85% du prix de vente et le temps de création à 1 journée par tranche de 1 000 po du prix de vente de l’objet.
-- **Échec.** Le personnage dispose d’un réceptacle défaillant. Fixez le coût de base à 100% du prix de vente et le temps de création de l’objet à 1 journée par tranche de 500 po du prix de vente de l’objet. Ajoutez-lui également un [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec.** Le personnage dispose d’un réceptacle défaillant. Fixez le coût de base à 100% du prix de vente et le temps de création de l’objet à 1 journée par tranche de 500 po du prix de vente de l’objet. Ajoutez-lui également un [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 - **Échec critique.** Le réceptacle est détruit.
 
 </div>
@@ -98,7 +98,7 @@ Le personnage doit créer ou préparer un objet qui puisse contenir la magie que
 {s:BDTitre|Achèvement de l'objet|{s:Reference|Achèvement de l'objet}}
 Le personnage apporte les touches finales à l’objet.
 (((Tâches)))
-- **Improvisation.** [Utilisation d’objets magique](./UOM.md) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
+- **Improvisation.** [[UOM|Utilisation d’objets magique]] [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l’objet.
 - **Remplir les conditions requises.** Répondre à toutes les conditions requises par l’objet.
 (((Résultats)))
 - **Réussite critique.** Le personnage achève l’objet en faisant preuve d’une maîtrise exceptionnelle. Réduisez le coût de l’objet de 10%.
@@ -110,59 +110,59 @@ Le personnage apporte les touches finales à l’objet.
 </td></tr></table>
 
 ### Défis aléatoires
-Le [MJ](./MJ.md) doit effectuer un jet et consulter la table ci-dessous pour déterminer les défis auxquels les [PJ](./PJ.md) sont confrontés lors de la fabrication de l’objet. Sinon, il peut choisir un défi particulier en fonction des circonstances de la campagne.
+Le [[MJ]] doit effectuer un jet et consulter la table ci-dessous pour déterminer les défis auxquels les [[PJ]] sont confrontés lors de la fabrication de l’objet. Sinon, il peut choisir un défi particulier en fonction des circonstances de la campagne.
 
 {| CLASS="tablo centre autoalt"
 |- CLASS="titre"
 | d100 || Défi
 |- CLASS="premier"
-| 01-04 || [Mutation aberrante](./Création dynamique dobjets magiques.md#Mutation aberrante)
+| 01-04 || [[Création dynamique dobjets magiques#Mutation aberrante|Mutation aberrante]]
 |-
-| 05-08 || [Construction difficile](./Création dynamique dobjets magiques.md#Construction difficile)
+| 05-08 || [[Création dynamique dobjets magiques#Construction difficile|Construction difficile]]
 |-
-| 09-12 || [Instructions contradictoires](./Création dynamique dobjets magiques.md#Instructions contradictoires)
+| 09-12 || [[Création dynamique dobjets magiques#Instructions contradictoires|Instructions contradictoires]]
 |-
-| 13-16 || [Références croisées cryptiques](./Création dynamique dobjets magiques.md#Références croisées cryptiques)
+| 13-16 || [[Création dynamique dobjets magiques#Références croisées cryptiques|Références croisées cryptiques]]
 |-
-| 17-20 || [Visiteur impromptu](./Création dynamique dobjets magiques.md#Visiteur impromptu)
+| 17-20 || [[Création dynamique dobjets magiques#Visiteur impromptu|Visiteur impromptu]]
 |-
-| 21-24 || [Exigence émotionnelle](./Création dynamique dobjets magiques.md#Exigence émotionnelle)
+| 21-24 || [[Création dynamique dobjets magiques#Exigence émotionnelle|Exigence émotionnelle]]
 |-
-| 25-28 || [Surcharge d’énergie](./Création dynamique dobjets magiques.md#Surcharge d'énergie)
+| 25-28 || [[Création dynamique dobjets magiques#Surcharge d'énergie|Surcharge d’énergie]]
 |-
-| 29-32 || [Offre alléchante](./Création dynamique dobjets magiques.md#Offre alléchante)
+| 29-32 || [[Création dynamique dobjets magiques#Offre alléchante|Offre alléchante]]
 |-
-| 33-36 || [Composantes fragiles](./Création dynamique dobjets magiques.md#Composantes fragiles)
+| 33-36 || [[Création dynamique dobjets magiques#Composantes fragiles|Composantes fragiles]]
 |-
-| 37-40 || [Obstacle historique](./Création dynamique dobjets magiques.md#Obstacle historique)
+| 37-40 || [[Création dynamique dobjets magiques#Obstacle historique|Obstacle historique]]
 |-
-| 41-44 || [Ingrédients illégaux](./Création dynamique dobjets magiques.md#Ingrédients illégaux)
+| 41-44 || [[Création dynamique dobjets magiques#Ingrédients illégaux|Ingrédients illégaux]]
 |-
-| 45-48 || [Ingrédients infestés](./Création dynamique dobjets magiques.md#Ingrédients infestés)
+| 45-48 || [[Création dynamique dobjets magiques#Ingrédients infestés|Ingrédients infestés]]
 |-
-| 49-52 || [Ingrédients quasi-conscients](./Création dynamique dobjets magiques.md#Ingrédients quasi-conscients)
+| 49-52 || [[Création dynamique dobjets magiques#Ingrédients quasi-conscients|Ingrédients quasi-conscients]]
 |-
-| 53-56 || [Esprit intrusif](./Création dynamique dobjets magiques.md#Esprit intrusif)
+| 53-56 || [[Création dynamique dobjets magiques#Esprit intrusif|Esprit intrusif]]
 |-
-| 57-60 || [Convergence de lignes telluriques](./Création dynamique dobjets magiques.md#Convergence de lignes telluriques)
+| 57-60 || [[Création dynamique dobjets magiques#Convergence de lignes telluriques|Convergence de lignes telluriques]]
 |-
-| 61-64 || [Résonance magique](./Création dynamique dobjets magiques.md#Résonance magique)
+| 61-64 || [[Création dynamique dobjets magiques#Résonance magique|Résonance magique]]
 |-
-| 65-68 || [Singularité planaire](./Création dynamique dobjets magiques.md#Singularité planaire)
+| 65-68 || [[Création dynamique dobjets magiques#Singularité planaire|Singularité planaire]]
 |-
-| 69-72 || [Référence rare](./Création dynamique dobjets magiques.md#Référence rare)
+| 69-72 || [[Création dynamique dobjets magiques#Référence rare|Référence rare]]
 |-
-| 73-76 || [Pénurie de réactif](./Création dynamique dobjets magiques.md#Pénurie de réactif)
+| 73-76 || [[Création dynamique dobjets magiques#Pénurie de réactif|Pénurie de réactif]]
 |-
-| 77-80 || [Prérequis royal](./Création dynamique dobjets magiques.md#Prérequis royal)
+| 77-80 || [[Création dynamique dobjets magiques#Prérequis royal|Prérequis royal]]
 |-
-| 81-84 || [Élucidation sesquipédalienne](./Création dynamique dobjets magiques.md#Élucidation sesquipédalienne)
+| 81-84 || [[Création dynamique dobjets magiques#Élucidation sesquipédalienne|Élucidation sesquipédalienne]]
 |-
-| 85-88 || [Défaut structurel](./Création dynamique dobjets magiques.md#Défaut structurel)
+| 85-88 || [[Création dynamique dobjets magiques#Défaut structurel|Défaut structurel]]
 |-
-| 89-92 || [Inspiration soudaine](./Création dynamique dobjets magiques.md#Inspiration soudaine)
+| 89-92 || [[Création dynamique dobjets magiques#Inspiration soudaine|Inspiration soudaine]]
 |-
-| 93-100 || [Défi de classe](./Création dynamique dobjets magiques.md#DEFISDECLASSE)
+| 93-100 || [[Création dynamique dobjets magiques#DEFISDECLASSE|Défi de classe]]
 |}
 
 <table width="100%"><tr><td width="49%">
@@ -170,8 +170,8 @@ Le [MJ](./MJ.md) doit effectuer un jet et consulter la table ci-dessous pour dé
 {s:BDTitre|Composantes fragiles|{s:Reference|Composantes fragiles}}
 Certaines des composantes les plus importantes de l’objet sont extrêmement fragiles.
 (((Tâches)))
-- **Renforcement de la conception.** [Artisanat](./Artisanat.md) (type de l’objet) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
-- **Manipuler avec précaution.** [Escamotage](./Escamotage.md) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
+- **Renforcement de la conception.** [[Artisanat]] (type de l’objet) [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l’objet.
+- **Manipuler avec précaution.** [[Escamotage]] [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l’objet.
 
 (((Résultats)))
 - **Réussite critique.** Composantes parfaites. Coût -10%.
@@ -185,14 +185,14 @@ Certaines des composantes les plus importantes de l’objet sont extrêmement fr
 {s:BDTitre|Construction difficile|{s:Reference|Construction difficile}}
 Un ou plusieurs éléments de la conception de l’objet sont particulièrement difficiles à mettre en œuvre.
 (((Tâches)))
-- **Projet et plan.** [Connaissances](./Connaissances.md) (ingénierie) [DD](./DD.md) 25.
-- **Compter sur le savoir-faire.** [Artisanat](./Artisanat.md) (type de l’objet) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
+- **Projet et plan.** [[Connaissances]] (ingénierie) [[DD]] 25.
+- **Compter sur le savoir-faire.** [[Artisanat]] (type de l’objet) [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l’objet.
 
 (((Résultats)))
 - **Réussite critique.** Le défi est relevé et dépassé. -1 journée et coût -10%.
 - **Réussite.** Le défi est relevé. Pas d’ajustement.
 - **Échec.** La construction s’avère coûteuse. +2 jours et coût +5%.
-- **Échec critique.** La construction est un désastre. Coût +15% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec critique.** La construction est un désastre. Coût +15% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -200,14 +200,14 @@ Un ou plusieurs éléments de la conception de l’objet sont particulièrement 
 {s:BDTitre|Convergence de lignes telluriques|{s:Reference|Convergence de lignes telluriques}}
 La création de l’objet dépend de l’énergie générée par le croisement de lignes telluriques ou d’un lieu magique.
 (((Tâches)))
-- **Ajuster en conséquence.** [Connaissances](./Connaissances.md) (mystères) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
-- **Trouver l’endroit parfait.** [Connaissances](./Connaissances.md) (géographie) [DD](./DD.md) 25.
+- **Ajuster en conséquence.** [[Connaissances]] (mystères) [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l’objet.
+- **Trouver l’endroit parfait.** [[Connaissances]] (géographie) [[DD]] 25.
 
 (((Résultats)))
-- **Réussite critique.** Convergence propice. -2 jours et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
+- **Réussite critique.** Convergence propice. -2 jours et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
 - **Réussite.** Endroit satisfaisant. Pas d’ajustement.
-- **Échec.** Endroit non-aligné. +3 jours et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Convergence nuisible. Coût +10% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec.** Endroit non-aligné. +3 jours et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Convergence nuisible. Coût +10% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -215,13 +215,13 @@ La création de l’objet dépend de l’énergie générée par le croisement d
 {s:BDTitre|Défaut structurel|{s:Reference|Défaut structurel}}
 À mi-chemin du processus de création, le personnage remarque un défaut dans la conception physique de l’objet.
 (((Tâches)))
-- **Désassemblage et ajustement.** [Sabotage](./Sabotage.md) [DD](./DD.md) 30.
-- **Exploitation avantageuse.** [Artisanat](./Artisanat.md) (type de l’objet) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
+- **Désassemblage et ajustement.** [[Sabotage]] [[DD]] 30.
+- **Exploitation avantageuse.** [[Artisanat]] (type de l’objet) [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l’objet.
 
 (((Résultats)))
-- **Réussite critique.** Avantages surprenants. +1 journée, coût -10% et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
+- **Réussite critique.** Avantages surprenants. +1 journée, coût -10% et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
 - **Réussite.** Méticulosité récompensée. +1 journée et coût -5%.
-- **Échec.** Défaut insurmontable. +3 jours, coût +5% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec.** Défaut insurmontable. +3 jours, coût +5% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 - **Échec critique.** L’objet est détruit au moment du désassemblage. Le personnage perd 25% du prix de vente de l’objet et doit tout recommencer à zéro.
 
 </div>
@@ -230,8 +230,8 @@ La création de l’objet dépend de l’énergie générée par le croisement d
 {s:BDTitre|Élucidation sesquipédalienne|{s:Reference|Élucidation sesquipédalienne}}
 Les instructions concernant la composante suivante de son objet sont pratiquement impossibles à comprendre pour le personnage, en raison d’un langage abscons.
 (((Tâches)))
-- **Consulter un dictionnaire.** [Linguistique](./Linguistique.md) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
-- **Inventer ses propres mots à rallonge.** [Utilisation d’objets magiques](./UOM.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
+- **Consulter un dictionnaire.** [[Linguistique]] [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l’objet.
+- **Inventer ses propres mots à rallonge.** [[UOM|Utilisation d’objets magiques]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l’objet.
 
 (((Résultats)))
 - **Réussite critique.** Maître de l’érudition. -3 jours et coût -5%.
@@ -245,14 +245,14 @@ Les instructions concernant la composante suivante de son objet sont pratiquemen
 {s:BDTitre|Esprit intrusif|{s:Reference|Esprit intrusif}}
 La création de l’objet attire l’attention d’un esprit errant attiré par l’objet.
 (((Tâches)))
-- **Exorciser l’esprit.** [Connaissances](./Connaissances.md) (religion) [DD](./DD.md) 25.
-- **Demander l’aide de l’esprit.** [Diplomatie](./Diplomatie.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
+- **Exorciser l’esprit.** [[Connaissances]] (religion) [[DD]] 25.
+- **Demander l’aide de l’esprit.** [[Diplomatie]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l’objet.
 
 (((Résultats)))
-- **Réussite critique.** Libération de l’esprit. -3 jours, coût -5% et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
-- **Réussite.** Exorcisme de l’esprit mais pas d’ajustement. -1 journée, coût -5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) pour avoir demandé l’aide de l’esprit.
-- **Échec.** Interférence de l’esprit. +3 jours, coût +5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Fureur de l’esprit. L’objet est [maudit](./Objets maudits.md).
+- **Réussite critique.** Libération de l’esprit. -3 jours, coût -5% et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
+- **Réussite.** Exorcisme de l’esprit mais pas d’ajustement. -1 journée, coût -5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] pour avoir demandé l’aide de l’esprit.
+- **Échec.** Interférence de l’esprit. +3 jours, coût +5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Fureur de l’esprit. L’objet est [[Objets maudits|maudit]].
 
 </div>
 
@@ -260,14 +260,14 @@ La création de l’objet attire l’attention d’un esprit errant attiré par 
 {s:BDTitre|Exigence émotionnelle|{s:Reference|Exigence émotionnelle}}
 Pour créer l’objet, le personnage a besoin de canaliser une émotion forte particulière.
 (((Tâches)))
-- **Réaction par l’action.** [Représentation](./Représentation.md) (toutes) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
-- **Manipuler les autres.** [Bluff](./Bluff.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
+- **Réaction par l’action.** [[Représentation]] (toutes) [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l’objet.
+- **Manipuler les autres.** [[Bluff]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l’objet.
 
 (((Résultats)))
-- **Réussite critique.** Puissance de l’élan émotionnel. Coût -5% et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
+- **Réussite critique.** Puissance de l’élan émotionnel. Coût -5% et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
 - **Réussite.** Émotions canalisées. Pas d’ajustement.
-- **Échec.** Tiédeur des émotions. +1 journée, coût +5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Interférence d’émotions contraires. +3 jours, coût +10% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec.** Tiédeur des émotions. +1 journée, coût +5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Interférence d’émotions contraires. +3 jours, coût +10% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -275,13 +275,13 @@ Pour créer l’objet, le personnage a besoin de canaliser une émotion forte pa
 {s:BDTitre|Ingrédients illégaux|{s:Reference|Ingrédients illégaux}}
 Un ou plusieurs des ingrédients nécessaires sont complètement illégaux et le personnage doit se les procurer par des moyens illicites.
 (((Tâches)))
-- **Quémander au marché noir.** [Connaissances](./Connaissances.md) (folklore local) [DD](./DD.md) 25.
-- **Faire de la contrebande.** [Escamotage](./Escamotage.md) [DD](./DD.md) 30.
+- **Quémander au marché noir.** [[Connaissances]] (folklore local) [[DD]] 25.
+- **Faire de la contrebande.** [[Escamotage]] [[DD]] 30.
 
 (((Résultats)))
 - **Réussite critique.** Revente du surplus à un receleur. Coût -10%.
 - **Réussite.** Le personnage se procure juste ce qu’il faut. Pas d’ajustement.
-- **Échec.** Le personnage ne parvient pas à se procurer les ingrédients. +5 jours, coût +5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
+- **Échec.** Le personnage ne parvient pas à se procurer les ingrédients. +5 jours, coût +5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
 - **Échec critique.** Le personnage est arrêté et doit payer une amende. Coût +15%, le créateur qui tente de passer les ingrédients en contrebande est arrêté et envoyé en prison ou échappe à la détention et se retrouve en fuite.
 
 </div>
@@ -290,14 +290,14 @@ Un ou plusieurs des ingrédients nécessaires sont complètement illégaux et le
 {s:BDTitre|Ingrédients infestés|{s:Reference|Ingrédients infestés}}
 Des ingrédients essentiels sont infectés par un champignon exotique ou infestés par une colonie de vermines, ce qui les rend inutilisables.
 (((Tâches)))
-- **Se procurer des ingrédients de substitution bon marché.** [Estimation](./Estimation.md) [DD](./DD.md) 25.
-- **Éliminer l’infestation.** [Premiers secours](./Premiers secours.md) [DD](./DD.md) 30.
+- **Se procurer des ingrédients de substitution bon marché.** [[Estimation]] [[DD]] 25.
+- **Éliminer l’infestation.** [[Premiers secours]] [[DD]] 30.
 
 (((Résultats)))
 - **Réussite critique.** Offre supérieure à la demande. Coût -5%.
 - **Réussite.** Crise évitée. Pas d’ajustement.
 - **Échec.** Hausse des prix. Coût +10%.
-- **Échec critique.** L’infestation contamine l’objet. Coût +5%, 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec critique.** L’infestation contamine l’objet. Coût +5%, 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -305,13 +305,13 @@ Des ingrédients essentiels sont infectés par un champignon exotique ou infest�
 {s:BDTitre|Ingrédients quasi-conscients|{s:Reference|Ingrédients quasi-conscients}}
 D’une certaine manière, une ou plusieurs des composantes de l’objet ont développé une intelligence limitée.
 (((Tâches)))
-- **Pousser les ingrédients à un meilleur résultat.** [Dressage](./Dressage.md) [DD](./DD.md) 30.
-- **Imposer magiquement l’ordre aux ingrédients.** [Art de la magie](./Art de la magie.md) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
+- **Pousser les ingrédients à un meilleur résultat.** [[Dressage]] [[DD]] 30.
+- **Imposer magiquement l’ordre aux ingrédients.** [[Art de la magie]] [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l’objet.
 
 (((Résultats)))
 - **Réussite critique.** La création de l’objet se déroule normalement mais celui-ci devient un objet intelligent du même alignement que celui du personnage et s’attache à ce dernier.
-- **Réussite.** Les ingrédients œuvrent avec le personnage. 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS) si le personnage a persuadé les ingrédients ; coût -5% s’il les a contraints.
-- **Échec.** Les ingrédients se rebellent contre le personnage et s’échappent ou sabotent l’objet. Coût +15% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Réussite.** Les ingrédients œuvrent avec le personnage. 1 [[Création dynamique dobjets magiques#EXTRAS|extra]] si le personnage a persuadé les ingrédients ; coût -5% s’il les a contraints.
+- **Échec.** Les ingrédients se rebellent contre le personnage et s’échappent ou sabotent l’objet. Coût +15% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 - **Échec critique.** La création de l’objet se déroule normalement mais celui-ci devient un objet intelligent d’alignement opposé à celui du personnage et déteste ce dernier.
 
 </div>
@@ -320,14 +320,14 @@ D’une certaine manière, une ou plusieurs des composantes de l’objet ont dé
 {s:BDTitre|Inspiration soudaine|{s:Reference|Inspiration soudaine}}
 Le personnage est frappé par un soudain éclair de génie et altère le processus de création.
 (((Tâches)))
-- **Amélioration de l’objet.** [Art de la magie](./Art de la magie.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
-- **Amélioration méthodologique.** [Connaissances](./Connaissances.md) (mystères) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
+- **Amélioration de l’objet.** [[Art de la magie]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l’objet.
+- **Amélioration méthodologique.** [[Connaissances]] (mystères) [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l’objet.
 
 (((Résultats)))
-- **Réussite critique.** Percée incroyable. -2 jours, coût -5% et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
-- **Réussite.** Percée. 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS) pour l’amélioration de l’objet ; -2 jours pour l’amélioration méthodologique.
-- **Échec.** Fausse piste. +1 journée et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Très mauvaise idée. +2 jours, coût +5% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Réussite critique.** Percée incroyable. -2 jours, coût -5% et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
+- **Réussite.** Percée. 1 [[Création dynamique dobjets magiques#EXTRAS|extra]] pour l’amélioration de l’objet ; -2 jours pour l’amélioration méthodologique.
+- **Échec.** Fausse piste. +1 journée et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Très mauvaise idée. +2 jours, coût +5% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -335,8 +335,8 @@ Le personnage est frappé par un soudain éclair de génie et altère le process
 {s:BDTitre|Instructions contradictoires|{s:Reference|Instructions contradictoires}}
 Deux autorités respectées sont en violent désaccord sur l’étape suivante du processus.
 (((Tâches)))
-- **Discerner le choix le plus pertinent.** [Connaissances](./Connaissances.md) (mystères) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
-- **Couper la poire en deux.** [Art de la magie](./Art de la magie.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Discerner le choix le plus pertinent.** [[Connaissances]] (mystères) [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l'objet.
+- **Couper la poire en deux.** [[Art de la magie]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 
 (((Résultats)))
 - **Réussite critique.** Le meilleur de chaque théorie. -3 jours et coût -5%.
@@ -350,13 +350,13 @@ Deux autorités respectées sont en violent désaccord sur l’étape suivante d
 {s:BDTitre|Mutation aberrante|{s:Reference|Mutation aberrante}}
 Les composants de l’objet ont muté, tout comme l’objet du personnage, qui évolue d’une manière étrange et nouvelle.
 (((Tâches)))
-- **Altération de la mutation.** [Art de la magie](./Art de la magie.md) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
-- **Analyse de la mutation.** [Connaissances](./Connaissances.md) (exploration souterraine) [DD](./DD.md) 25.
+- **Altération de la mutation.** [[Art de la magie]] [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l'objet.
+- **Analyse de la mutation.** [[Connaissances]] (exploration souterraine) [[DD]] 25.
 
 (((Résultats)))
-- **Réussite critique.** La mutation s’avère utile. 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
-- **Réussite.** La mutation s’avère inoffensive. 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec.** La mutation s’avère néfaste. 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Réussite critique.** La mutation s’avère utile. 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
+- **Réussite.** La mutation s’avère inoffensive. 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec.** La mutation s’avère néfaste. 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 - **Échec critique.** La mutation échappe à tout contrôle. L’objet devient un objet aléatoire de même type ou qui occupe le même emplacement mais de moindre valeur. S’il n’existe aucune alternative, l’objet est détruit, le personnage perd 25% du prix de vente de l’objet et doit tout recommencer à zéro.
 
 </div>
@@ -365,14 +365,14 @@ Les composants de l’objet ont muté, tout comme l’objet du personnage, qui �
 {s:BDTitre|Obstacle historique|{s:Reference|Obstacle historique}}
 Les techniques de création du personnage se heurtent à un problème de taille que de nombreux artisans ont déjà rencontré auparavant.
 (((Tâches)))
-- **Tirer des leçons de l’histoire.** [Connaissances](./Connaissances.md) (histoire) [DD](./DD.md) 25.
-- **Résolution par soi-même.** [Art de la magie](./Art de la magie.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Tirer des leçons de l’histoire.** [[Connaissances]] (histoire) [[DD]] 25.
+- **Résolution par soi-même.** [[Art de la magie]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 
 (((Résultats)))
 - **Réussite critique.** Une alternative exceptionnelle permet de contourner le problème. -3 jours et coût -5%.
 - **Réussite.** Faux-pas évité. -1 journée.
 - **Échec.** Condamné à répéter les mêmes erreurs. +3 jours et coût +10%.
-- **Échec critique.** Une mauvaise application des techniques débouche sur un désastre. +7 jours, coût +10% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec critique.** Une mauvaise application des techniques débouche sur un désastre. +7 jours, coût +10% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -380,14 +380,14 @@ Les techniques de création du personnage se heurtent à un problème de taille 
 {s:BDTitre|Offre alléchante|{s:Reference|Offre alléchante}}
 Un individu louche approche le personnage pour lui faire une offre qui lui permettrait d’achever la création de son objet plus rapidement pour un coût réduit.
 (((Tâches)))
-- **Discerner la vérité.** [Psychologie](./Psychologie.md) [DD](./DD.md) 20.
-- **Assimiler l’offre.** [Art de la magie](./Art de la magie.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Discerner la vérité.** [[Psychologie]] [[DD]] 20.
+- **Assimiler l’offre.** [[Art de la magie]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 
 (((Résultats)))
-- **Réussite critique.** En fait, ça a marché ! -1 journée, coût -5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
+- **Réussite critique.** En fait, ça a marché ! -1 journée, coût -5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
 - **Réussite.** Malice déjouée. Pas d’ajustement.
-- **Échec.** Ne correspond pas exactement à l’annonce. -1 journée, coût -5%, 2 [défauts](./Création dynamique dobjets magiques.md#DEFAUTS).
-- **Échec critique.** Complètement dupé. +1 journée, coût +5% et 2 [défauts](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec.** Ne correspond pas exactement à l’annonce. -1 journée, coût -5%, 2 [[Création dynamique dobjets magiques#DEFAUTS|défauts]].
+- **Échec critique.** Complètement dupé. +1 journée, coût +5% et 2 [[Création dynamique dobjets magiques#DEFAUTS|défauts]].
 
 </div>
 
@@ -395,14 +395,14 @@ Un individu louche approche le personnage pour lui faire une offre qui lui perme
 {s:BDTitre|Pénurie de réactif|{s:Reference|Pénurie de réactif}}
 Le personnage réalise soudainement qu’il n’a pas la quantité suffisante d’un ingrédient important.
 (((Tâches)))
-- **Improvisation d’un substitut.** [Artisanat](./Artisanat.md) (alchimie) [DD](./DD.md) 30.
-- **En quête de plus.** [Survie](./Survie.md) [DD](./DD.md) 25.
+- **Improvisation d’un substitut.** [[Artisanat]] (alchimie) [[DD]] 30.
+- **En quête de plus.** [[Survie]] [[DD]] 25.
 
 (((Résultats)))
-- **Réussite critique.** Combinaison exceptionnelle. Coût -5% et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
+- **Réussite critique.** Combinaison exceptionnelle. Coût -5% et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
 - **Réussite.** Composantes suffisantes. Pas d’ajustement.
 - **Échec.** Composante manquante. Coût +10%.
-- **Échec critique.** Terrible mélange. Coût +5% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec critique.** Terrible mélange. Coût +5% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -410,14 +410,14 @@ Le personnage réalise soudainement qu’il n’a pas la quantité suffisante d�
 {s:BDTitre|Prérequis royal|{s:Reference|Prérequis royal}}
 L’objet du personnage nécessite le cheveu d’un roi, le baiser d’un prince ou quelque autre participation d’un membre de la haute-noblesse.
 (((Tâches)))
-- **Exploiter ses contacts avec la noblesse.** [Connaissances](./Connaissances.md) (noblesse) [DD](./DD.md) 25.
-- **Falsification des ingrédients.** [Utilisation d’objets magiques](./UOM.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Exploiter ses contacts avec la noblesse.** [[Connaissances]] (noblesse) [[DD]] 25.
+- **Falsification des ingrédients.** [[UOM|Utilisation d’objets magiques]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 
 (((Résultats)))
-- **Réussite critique.** Synergie royale. 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
-- **Réussite.** Pas d’ajustement pour les contacts avec la noblesse ; 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) pour les ingrédients falsifiés.
-- **Échec.** Introduction d’impuretés. 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
-- **Échec critique.** Impuretés et ostracisme. +3 jours, 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS) et le créateur qui a tenté d’exploiter ses liens avec la noblesse est ostracisé par la cour.
+- **Réussite critique.** Synergie royale. 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
+- **Réussite.** Pas d’ajustement pour les contacts avec la noblesse ; 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] pour les ingrédients falsifiés.
+- **Échec.** Introduction d’impuretés. 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
+- **Échec critique.** Impuretés et ostracisme. +3 jours, 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]] et le créateur qui a tenté d’exploiter ses liens avec la noblesse est ostracisé par la cour.
 
 </div>
 
@@ -425,8 +425,8 @@ L’objet du personnage nécessite le cheveu d’un roi, le baiser d’un prince
 {s:BDTitre|Référence rare|{s:Reference|Référence rare}}
 Le personnage découvre une référence selon laquelle un ouvrage rare conservé dans une grande bibliothèque pourrait l’aider à créer son objet.
 (((Tâches)))
-- **Vérification du catalogue de la bibliothèque.** [Linguistique](./Linguistique.md) [DD](./DD.md) 20.
-- **Parcourir les étagères.** [Perception](./Perception.md) [DD](./DD.md) 30.
+- **Vérification du catalogue de la bibliothèque.** [[Linguistique]] [[DD]] 20.
+- **Parcourir les étagères.** [[Perception]] [[DD]] 30.
 
 (((Résultats)))
 - **Réussite critique.** Recherche fructueuse. -3 jours.
@@ -440,14 +440,14 @@ Le personnage découvre une référence selon laquelle un ouvrage rare conservé
 {s:BDTitre|Références croisées cryptiques|{s:Reference|Références croisées cryptiques}}
 Le personnage a du mal à déterminer où trouver les informations dont il a besoin dans les multiples ouvrages dont il dispose.
 (((Tâches)))
-- **Suivre les notes de bas de page.** [Linguistique](./Linguistique.md) [DD](./DD.md) 20.
-- **Trouver une solution.** [Utilisation d’objets magiques](./UOM.md) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Suivre les notes de bas de page.** [[Linguistique]] [[DD]] 20.
+- **Trouver une solution.** [[UOM|Utilisation d’objets magiques]] [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 
 (((Résultats)))
 - **Réussite critique.** Coordination parfaite. -3 jours et coût -5%.
 - **Réussite.** Notes excellentes. -1 journée.
 - **Échec.** Perdu dans les travaux. +3 jours.
-- **Échec critique.** Série de faux-pas. +3 jours et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec critique.** Série de faux-pas. +3 jours et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -455,14 +455,14 @@ Le personnage a du mal à déterminer où trouver les informations dont il a bes
 {s:BDTitre|Résonance magique|{s:Reference|Résonance magique}}
 Les auras magiques de diverses composantes vibrent d’un étrange écho chaque fois qu’elles sont proches les unes des autres.
 (((Tâches)))
-- **Analyse des causes.** [Art de la magie](./Art de la magie.md) DD]] 15 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
-- **Respect du rythme.** [Représentation](./Représentation.md) (toutes) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Analyse des causes.** [[Art de la magie]] DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l'objet.
+- **Respect du rythme.** [[Représentation]] (toutes) [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 
 (((Résultats)))
-- **Réussite critique.** Révélation du pouvoir de résonance. -1 journée et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
-- **Réussite.** Résonance limitée. 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec.** Interférence de la résonance. +1 journée, coût +5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Hors de contrôle ! +3 jours, coût +10% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Réussite critique.** Révélation du pouvoir de résonance. -1 journée et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
+- **Réussite.** Résonance limitée. 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec.** Interférence de la résonance. +1 journée, coût +5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Hors de contrôle ! +3 jours, coût +10% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -470,14 +470,14 @@ Les auras magiques de diverses composantes vibrent d’un étrange écho chaque 
 {s:BDTitre|Singularité planaire|{s:Reference|Singularité planaire}}
 Le personnage réalise que la création de son objet est sous l’influence de convergences planaires ou d’autres singularités.
 (((Tâches)))
-- **Étude d’un planétaire.** [Connaissances](./Connaissances.md) (plans) [DD](./DD.md) 25.
-- **S’assurer l’assistance d’un extérieur.** [Diplomatie](./Diplomatie.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Étude d’un planétaire.** [[Connaissances]] (plans) [[DD]] 25.
+- **S’assurer l’assistance d’un extérieur.** [[Diplomatie]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 
 (((Résultats)))
-- **Réussite critique.** Alignement parfait. -3 jours, coût -5% et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
+- **Réussite critique.** Alignement parfait. -3 jours, coût -5% et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
 - **Réussite.** Bon alignement. -1 journée.
-- **Échec.** Mauvais alignement. +1 journée, 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
-- **Échec critique.** Alignement catastrophique. +3 jours, coût +5% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec.** Mauvais alignement. +1 journée, 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
+- **Échec critique.** Alignement catastrophique. +3 jours, coût +5% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -485,14 +485,14 @@ Le personnage réalise que la création de son objet est sous l’influence de c
 {s:BDTitre|Surcharge d'énergie|{s:Reference|Surcharge d'énergie}}
 Un pic d’énergie soudain s’accumule au sein de l’objet, menaçant de l’endommager ou de le détruire.
 (((Tâches)))
-- **Canalisation au sein de son propre corps.** [Vigueur](./Vigueur.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
-- **Redirection vers un autre objet.** [Artisanat](./Artisanat.md) (type de l’objet) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Canalisation au sein de son propre corps.** [[Vigueur]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
+- **Redirection vers un autre objet.** [[Artisanat]] (type de l’objet) [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 
 (((Résultats)))
-- **Réussite critique.** Surcharge maîtrisée. -2 jours, coût -10% et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
-- **Réussite.** Surcharge déviée. 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
+- **Réussite critique.** Surcharge maîtrisée. -2 jours, coût -10% et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
+- **Réussite.** Surcharge déviée. 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
 - **Échec.** Dégâts coûteux. +7 jours et coût +15%.
-- **Échec critique.** Explosion surnaturelle. L’objet est détruit et les créateurs subissent 1d6 points de dégâts par [niveau de lanceur de sorts](./NLS.md) de l’objet.
+- **Échec critique.** Explosion surnaturelle. L’objet est détruit et les créateurs subissent 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] de l’objet.
 
 </div>
 
@@ -500,43 +500,43 @@ Un pic d’énergie soudain s’accumule au sein de l’objet, menaçant de l’
 {s:BDTitre|Visiteur impromptu|{s:Reference|Visiteur impromptu}}
 Un invité inopportun fait irruption alors que le personnage essaye de travailler. Il lui est donc particulièrement difficile de se concentrer.
 (((Tâches)))
-- **Ignorer la gêne.** [Concentration](./Lancer des sorts.md#CONCENTRATION) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
-- **Renvoyer le visiteur.** [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md) [DD](./DD.md) 20.
+- **Ignorer la gêne.** [[Lancer des sorts#CONCENTRATION|Concentration]] [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l'objet.
+- **Renvoyer le visiteur.** [[Diplomatie]] ou [[Intimidation]] [[DD]] 20.
 
 (((Résultats)))
 - **Réussite critique.** Aide inattendue. -1 journée et coût -5%.
 - **Réussite.** Brève discussion. Pas d’ajustement.
-- **Échec.** Distrait. +1 journée et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Le visiteur, offensé, interfère. +2 jours, coût +5% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec.** Distrait. +1 journée et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Le visiteur, offensé, interfère. +2 jours, coût +5% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 </td></tr></table>
 
 {s:Reference|DEFISDECLASSE}
 ### Défis de classe
-Pour générer un défi de classe, vous devez déterminer lequel des défis suivants s’applique à au moins l’un des créateurs travaillant sur l’objet et en choisir un au hasard parmi ces différentes options. Si aucun d’eux ne s’applique, choisissez un défi adapté parmi ceux de la partie précédente (comme [ingrédients illégaux](./Création dynamique dobjets magiques.md#Ingrédients illégaux) pour un [roublard](./Roublard.md) ou [référence rare](./Création dynamique dobjets magiques.md#Référence rare) pour un [magicien](./Magicien.md)).
+Pour générer un défi de classe, vous devez déterminer lequel des défis suivants s’applique à au moins l’un des créateurs travaillant sur l’objet et en choisir un au hasard parmi ces différentes options. Si aucun d’eux ne s’applique, choisissez un défi adapté parmi ceux de la partie précédente (comme [[Création dynamique dobjets magiques#Ingrédients illégaux|ingrédients illégaux]] pour un [[roublard]] ou [[Création dynamique dobjets magiques#Référence rare|référence rare]] pour un [[magicien]]).
 
 {| CLASS="tablo centre autoalt toutgauche"
 |- CLASS="titre"
 | Défi || Créateurs appropriés
 |- CLASS="premier"
-| [Crise de foi](./Création dynamique dobjets magiques.md#Crise de foi) || Lanceur de sorts divins avec une divinité tutélaire
+| [[Création dynamique dobjets magiques#Crise de foi|Crise de foi]] || Lanceur de sorts divins avec une divinité tutélaire
 |-
-| [Instabilité intérieure](./Création dynamique dobjets magiques.md#Instabilité intérieure) || Lanceur de sorts tirant ses pouvoirs de l’intérieur, comme un [oracle](./Oracle.md) ou un [ensorceleur](./Ensorceleur.md)
+| [[Création dynamique dobjets magiques#Instabilité intérieure|Instabilité intérieure]] || Lanceur de sorts tirant ses pouvoirs de l’intérieur, comme un [[oracle]] ou un [[ensorceleur]]
 |-
-| [Catastrophe naturelle](./Création dynamique dobjets magiques.md#Catastrophe naturelle) || Créateur entretenant un lien avec la nature, comme un [druide](./Druide.md) ou un [rôdeur](./Rôdeur.md)
+| [[Création dynamique dobjets magiques#Catastrophe naturelle|Catastrophe naturelle]] || Créateur entretenant un lien avec la nature, comme un [[druide]] ou un [[rôdeur]]
 |-
-| [Merveille naturelle](./Création dynamique dobjets magiques.md#Merveille naturelle) || Créateur entretenant un lien avec la nature, comme un [druide](./Druide.md) ou un [rôdeur](./Rôdeur.md)
+| [[Création dynamique dobjets magiques#Merveille naturelle|Merveille naturelle]] || Créateur entretenant un lien avec la nature, comme un [[druide]] ou un [[rôdeur]]
 |-
-| [Aide surnaturelle](./Création dynamique dobjets magiques.md#Aide surnaturelle) || Créateur entretenant un lien avec les extérieurs, les esprits, un protecteur  
-ou une malédiction, comme un [ensorceleur infernal](./lignage Infernal.md), un [oracle](./Oracle.md) ou une [sorcière](./Sorcière.md)
+| [[Création dynamique dobjets magiques#Aide surnaturelle|Aide surnaturelle]] || Créateur entretenant un lien avec les extérieurs, les esprits, un protecteur  
+ou une malédiction, comme un [[Lignage Infernal|ensorceleur infernal]], un [[oracle]] ou une [[sorcière]]
 |-
-| [Interférence surnaturelle](./Création dynamique dobjets magiques.md#Interférence surnaturelle) || Créateur entretenant un lien avec les extérieurs, les esprits, un protecteur  
-ou une malédiction, comme un [ensorceleur infernal](./lignage Infernal.md), un [oracle](./Oracle.md) ou une [sorcière](./Sorcière.md)
+| [[Création dynamique dobjets magiques#Interférence surnaturelle|Interférence surnaturelle]] || Créateur entretenant un lien avec les extérieurs, les esprits, un protecteur  
+ou une malédiction, comme un [[Lignage Infernal|ensorceleur infernal]], un [[oracle]] ou une [[sorcière]]
 |-
-| [Élan personnel](./Création dynamique dobjets magiques.md#Élan personnel) || Lanceur de sorts tirant ses pouvoirs de l’intérieur, comme un [oracle](./Oracle.md) ou un [ensorceleur](./Ensorceleur.md)
+| [[Création dynamique dobjets magiques#Élan personnel|Élan personnel]] || Lanceur de sorts tirant ses pouvoirs de l’intérieur, comme un [[oracle]] ou un [[ensorceleur]]
 |-
-| [Signe des dieux](./Création dynamique dobjets magiques.md#Signe des dieux) || Lanceur de sorts divins avec une divinité tutélaire
+| [[Création dynamique dobjets magiques#Signe des dieux|Signe des dieux]] || Lanceur de sorts divins avec une divinité tutélaire
 |}
 
 <table width="100%"><tr><td width="49%">
@@ -544,13 +544,13 @@ ou une malédiction, comme un [ensorceleur infernal](./lignage Infernal.md), un 
 {s:BDTitre|Aide surnaturelle|{s:Reference|Aide surnaturelle}}
 Des êtres d’un autre monde s’amusent lors de la création de l’objet du personnage dans le but de l’aider.
 (((Tâches)))
-- **Altérer la construction en conséquence.** [Artisanat](./Artisanat.md) (type de l’objet) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
-- **Redirection respectueuse des efforts extérieurs.** [Diplomatie](./Diplomatie.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Altérer la construction en conséquence.** [[Artisanat]] (type de l’objet) [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
+- **Redirection respectueuse des efforts extérieurs.** [[Diplomatie]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 (((Résultats)))
-- **Réussite critique**. Aide incroyable. -6 jours, coût -10% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Réussite**. Aide efficace. -3 jours, coût -5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec**. Aide inefficace. 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Désastre. +3 jours, coût +10%, 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Réussite critique**. Aide incroyable. -6 jours, coût -10% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Réussite**. Aide efficace. -3 jours, coût -5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec**. Aide inefficace. 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Désastre. +3 jours, coût +10%, 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -558,13 +558,13 @@ Des êtres d’un autre monde s’amusent lors de la création de l’objet du p
 {s:BDTitre|Catastrophe naturelle|{s:Reference|Catastrophe naturelle}}
 Lors d’une étape de la création de l’objet dans un environnement naturel, une catastrophe naturelle inattendue se produit.
 (((Tâches)))
-- **Canaliser l’énergie.** [Utilisation d’objets magiques](./UOM.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l’objet.
-- **Prendre les précautions appropriées.** [Survie](./Survie.md) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Canaliser l’énergie.** [[UOM|Utilisation d’objets magiques]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l’objet.
+- **Prendre les précautions appropriées.** [[Survie]] [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 (((Résultats)))
-- **Réussite critique**. Façonnage par la puissance de la catastrophe. Coût -10%, 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
-- **Réussite**. Danger évité. 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) pour avoir canalisé l’énergie ; pas d’ajustement pour la prise de précautions.
+- **Réussite critique**. Façonnage par la puissance de la catastrophe. Coût -10%, 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
+- **Réussite**. Danger évité. 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] pour avoir canalisé l’énergie ; pas d’ajustement pour la prise de précautions.
 - **Échec**. Catastrophe préjudiciable. +7 jours et coût +10%.
-- **Échec critique.** Conséquences désastreuses. Objet détruit. Le personnage perd 25% du prix de vente de l’objet et doit tout recommencer à zéro. Les créateurs subissent 1d6 points de dégâts par [niveau de lanceur de sorts](./NLS.md) de l’objet d’un type d’énergie destructive approprié à la catastrophe.
+- **Échec critique.** Conséquences désastreuses. Objet détruit. Le personnage perd 25% du prix de vente de l’objet et doit tout recommencer à zéro. Les créateurs subissent 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] de l’objet d’un type d’énergie destructive approprié à la catastrophe.
 
 </div>
 
@@ -572,13 +572,13 @@ Lors d’une étape de la création de l’objet dans un environnement naturel, 
 {s:BDTitre|Crise de foi|{s:Reference|Crise de foi}}
 Pendant le processus de création, le personnage reçoit quelques mauvais augures de sa divinité protectrice, ce qui le pousse à remettre sa foi en question.
 (((Tâches)))
-- **Persévérer.** [Volonté](./Volonté.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
-- **Chercher des réponses.** [Connaissances](./Connaissances.md) (religion) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Persévérer.** [[Volonté]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
+- **Chercher des réponses.** [[Connaissances]] (religion) [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 (((Résultats)))
-- **Réussite critique**. Persévérance récompensée. 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
+- **Réussite critique**. Persévérance récompensée. 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
 - **Réussite**. Crise surmontée. Pas d’ajustement.
-- **Échec**. Foi ébranlée. +1 journée, coût +5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Courroux du protecteur. +3 jours, coût +10% et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec**. Foi ébranlée. +1 journée, coût +5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Courroux du protecteur. +3 jours, coût +10% et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -586,13 +586,13 @@ Pendant le processus de création, le personnage reçoit quelques mauvais augure
 {s:BDTitre|Élan personnel|{s:Reference|Élan personnel}}
 Un élan de puissance bénéfique surgit des profondeurs insoupçonnées du personnage.
 (((Tâches)))
-- **Embrasser la puissance.** [Utilisation d’objets magiques](./UOM.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
-- **Concentrer l’élan.** [Art de la magie](./Art de la magie.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Embrasser la puissance.** [[UOM|Utilisation d’objets magiques]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
+- **Concentrer l’élan.** [[Art de la magie]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 (((Résultats)))
-- **Réussite critique**. Élan incroyable. -3 jours, coût -5% et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
+- **Réussite critique**. Élan incroyable. -3 jours, coût -5% et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
 - **Réussite**. Élan stimulant. -1 journée et coût -5%.
-- **Échec**. Élan gaspillé. 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Surcharge. Coût +5%, 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec**. Élan gaspillé. 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Surcharge. Coût +5%, 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 </td><td width="2%"></td><td width="49%">
@@ -600,13 +600,13 @@ Un élan de puissance bénéfique surgit des profondeurs insoupçonnées du pers
 {s:BDTitre|Instabilité intérieure|{s:Reference|Instabilité intérieure}}
 Quelque chose, à l’intérieur du personnage, fait irruption à un moment inopportun et menace la création de son objet.
 (((Tâches)))
-- **Expliquer l’instabilité.** [Connaissances](./Connaissances.md) (mystères) [DD](./DD.md) 15 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
-- **Faire avec.** [Utilisation d’objets magiques](./UOM.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Expliquer l’instabilité.** [[Connaissances]] (mystères) [[DD]] 15 + [[NLS|niveau de lanceur de sorts]] de l'objet.
+- **Faire avec.** [[UOM|Utilisation d’objets magiques]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 (((Résultats)))
-- **Réussite critique**. Instabilité exploitée. Coût -5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
+- **Réussite critique**. Instabilité exploitée. Coût -5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
 - **Réussite**. Instabilité évitée. Pas d’ajustement.
-- **Échec**. Objet erratique. Coût +5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Objet instable. Coût +5%, 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec**. Objet erratique. Coût +5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Objet instable. Coût +5%, 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -614,13 +614,13 @@ Quelque chose, à l’intérieur du personnage, fait irruption à un moment inop
 {s:BDTitre|Interférence surnaturelle|{s:Reference|Interférence surnaturelle}}
 Des êtres d’un autre monde interfèrent avec la création de l’objet, qu’ils soient tout près ou très loin.
 (((Tâches)))
-- **Les convaincre d’arrêter.** [Diplomatie](./Diplomatie.md) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
-- **Appliquer des mesures de protection.** [Connaissances](./Connaissances.md) (plans ou religion) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Les convaincre d’arrêter.** [[Diplomatie]] [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
+- **Appliquer des mesures de protection.** [[Connaissances]] (plans ou religion) [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 (((Résultats)))
-- **Réussite critique**. Réparations surnaturelles. -3 jours, coût -10% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
+- **Réussite critique**. Réparations surnaturelles. -3 jours, coût -10% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
 - **Réussite**. Interférence anodine. Pas d’ajustement.
-- **Échec**. Interférence soutenue. Coût +5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Interférence sévère. +3 jours, coût +5%, 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) et 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Échec**. Interférence soutenue. Coût +5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Interférence sévère. +3 jours, coût +5%, 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] et 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 
 </div>
 
@@ -628,13 +628,13 @@ Des êtres d’un autre monde interfèrent avec la création de l’objet, qu’
 {s:BDTitre|Merveille naturelle|{s:Reference|Merveille naturelle}}
 Lors d’une étape de la création de l’objet dans un environnement naturel, une rare merveille de la nature se manifeste.
 (((Tâches)))
-- **Reproduire la beauté de la nature.** [Artisanat](./Artisanat.md) (type de l’objet) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
-- **Témoigner son respect pour la nature.** [Connaissances](./Connaissances.md) (nature) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Reproduire la beauté de la nature.** [[Artisanat]] (type de l’objet) [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
+- **Témoigner son respect pour la nature.** [[Connaissances]] (nature) [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 (((Résultats)))
-- **Réussite critique**. Bienfait merveilleux. Coût -10% et 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
-- **Réussite**. Inspiration merveilleuse. Coût -5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec**. Merveille éphémère. +1 journée et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
-- **Échec critique.** Merveille déroutante. +7 jours, coût +5% et 1 [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES).
+- **Réussite critique**. Bienfait merveilleux. Coût -10% et 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
+- **Réussite**. Inspiration merveilleuse. Coût -5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec**. Merveille éphémère. +1 journée et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
+- **Échec critique.** Merveille déroutante. +7 jours, coût +5% et 1 [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]].
 
 </div>
 
@@ -643,11 +643,11 @@ Lors d’une étape de la création de l’objet dans un environnement naturel, 
 Lors du processus de création, le personnage reçoit des signes lui indiquant la faveur de son protecteur.
 (((Tâches)))
 - **Don pour la foi.** Offrande d’un montant égal à 5% ou plus du prix de vente de l’objet en faveur des intérêts du protecteur.
-- **Prières de remerciements.** [Connaissances](./Connaissances.md) (religion) [DD](./DD.md) 20 + [niveau de lanceur de sorts](./NLS.md) de l'objet.
+- **Prières de remerciements.** [[Connaissances]] (religion) [[DD]] 20 + [[NLS|niveau de lanceur de sorts]] de l'objet.
 (((Résultats)))
-- **Réussite critique**. Intervention divine. Divisez le nombre de jours restants par deux. 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
-- **Réussite**. Bénédiction favorable. 1 [extra](./Création dynamique dobjets magiques.md#EXTRAS).
-- **Échec**. Ingratitude punie. 1 [défaut](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Réussite critique**. Intervention divine. Divisez le nombre de jours restants par deux. 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
+- **Réussite**. Bénédiction favorable. 1 [[Création dynamique dobjets magiques#EXTRAS|extra]].
+- **Échec**. Ingratitude punie. 1 [[Création dynamique dobjets magiques#DEFAUTS|défaut]].
 - **Échec critique.** —
 
 </div>
@@ -731,27 +731,27 @@ ou un objet que l’on active.*
 de commande.*
 |}
 </div></div>Les extras sont des ajustements bénéfiques apportés à un objet, résultant souvent d’une réussite critique lors d’un défi. Les plus grands extras correspondent souvent aux résultats les plus élevés sur la table ci-dessous. Refaites un jet pour les résultats similaires et pour les extras qui ne sont pas adaptés à l’objet. N’hésitez pas à inventer vos propres extras ou à appliquer un extra adapté sans pour autant faire de jet.
-- **Avide.** L’objet veut toujours être porté ou tenu par son porteur. Le porteur peut dégainer une arme avide ou récupérer un objet avide qu’il tient en main par une [action rapide](./Action rapide.md), enfiler une armure avide en moitié moins de temps et s’équiper de n’importe quel autre objet avide par une [action rapide](./Action rapide.md), bien qu’il lui faille deux fois plus de temps que la normale pour retirer une armure avide et 1 [round](./round.md) complet pour retirer ou se débarrasser de tout autre objet avide. Le [DD](./DD.md) pour désarmer ou voler un objet avide est augmenté de 5.
+- **Avide.** L’objet veut toujours être porté ou tenu par son porteur. Le porteur peut dégainer une arme avide ou récupérer un objet avide qu’il tient en main par une [[action rapide]], enfiler une armure avide en moitié moins de temps et s’équiper de n’importe quel autre objet avide par une [[action rapide]], bien qu’il lui faille deux fois plus de temps que la normale pour retirer une armure avide et 1 [[round]] complet pour retirer ou se débarrasser de tout autre objet avide. Le [[DD]] pour désarmer ou voler un objet avide est augmenté de 5.
 
 - **Béni par une énergie.** L’objet est immunisé contre un type d’énergie destructive aléatoire mais n’accorde pas cette immunité à son porteur.
 
-- **Caresse tentaculaire.** Même chose que pour la [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) aberrant mais les tentacules peuvent s’étendre, permettant à l’objet de produire des effets au contact avec une allonge de 1,50 mètre supplémentaire. Ceci n’augmente pas l’allonge des [armes magiques](./Armes magiques.md).
+- **Caresse tentaculaire.** Même chose que pour la [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] aberrant mais les tentacules peuvent s’étendre, permettant à l’objet de produire des effets au contact avec une allonge de 1,50 mètre supplémentaire. Ceci n’augmente pas l’allonge des [[armes magiques]].
 
-- **Chanceux.** Chaque jour, il y a 50% de chances que l’objet accorde à son porteur un bonus de chance de +1 à un type de [jet de sauvegarde](./JDS.md) aléatoire pour la journée.
+- **Chanceux.** Chaque jour, il y a 50% de chances que l’objet accorde à son porteur un bonus de chance de +1 à un type de [[jds|jet de sauvegarde]] aléatoire pour la journée.
 
-- **Draconique.** Déterminez un type aléatoire de [dragon chromatique ou métallique](./dragon.md#Catégories_de_dragons_3). L’objet présente un éclat de la couleur des écailles de ce dragon et accorde au porteur 3 points de résistance aux énergies destructives contre le type de dégâts qu’inflige le souffle de ce dragon.
+- **Draconique.** Déterminez un type aléatoire de [[Dragon#Catégories_de_dragons_3|dragon chromatique ou métallique]]. L’objet présente un éclat de la couleur des écailles de ce dragon et accorde au porteur 3 points de résistance aux énergies destructives contre le type de dégâts qu’inflige le souffle de ce dragon.
 
-- **Durable.** L’objet possède deux fois plus de [points de résistance](./Exploration.md#POINTDERESISTANCE) que la normale.
+- **Durable.** L’objet possède deux fois plus de [[Exploration#POINTDERESISTANCE|points de résistance]] que la normale.
 
-- **Énergétique.** L’objet inflige 1 point de dégâts supplémentaire d’un type d’énergie destructive déterminé au hasard pendant la création. Ces dégâts ne sont pas multipliés en cas de [coup critique](./coup critique.md).
+- **Énergétique.** L’objet inflige 1 point de dégâts supplémentaire d’un type d’énergie destructive déterminé au hasard pendant la création. Ces dégâts ne sont pas multipliés en cas de [[coup critique]].
 
-- **Ennemi haï.** L’arme inflige 1 point de dégâts supplémentaire quand elle touche un type de créatures spécifique. Choisissez un type approprié ou lancez un dé et consultez la liste des [ennemis jurés du rôdeur](./Rôdeur.md#ENNEMIJURE).
+- **Ennemi haï.** L’arme inflige 1 point de dégâts supplémentaire quand elle touche un type de créatures spécifique. Choisissez un type approprié ou lancez un dé et consultez la liste des [[Rôdeur#ENNEMIJURE|ennemis jurés du rôdeur]].
 
-- **Exemplaire.** L’objet est un modèle parfait de son genre et confère des avantages contre les objets similaires. Les armes exemplaires accordent un bonus de +1 à la [CA](./CA.md) contre les autres armes du même type (comme les [épées longues](./épée longue (arme).md)), les armures accordent un bonus de +1 aux [jets d’attaque](./jet dattaque.md) contre les ennemis qui portent le même type d’armure (comme les [cuirasses](./cuirasse (armure).md)) et les objets à activation accordent un bonus de +1 aux [jets de sauvegarde](./JDS.md) contre les autres objets présentant la même fonction (comme un [bâton de feu](./Bâton de feu.md) accorderait son avantage contre les autres bâtons de feu mais pas contre tous les autres bâtons).
+- **Exemplaire.** L’objet est un modèle parfait de son genre et confère des avantages contre les objets similaires. Les armes exemplaires accordent un bonus de +1 à la [[CA]] contre les autres armes du même type (comme les [[épée longue (arme)|épées longues]]), les armures accordent un bonus de +1 aux [[jet dattaque|jets d’attaque]] contre les ennemis qui portent le même type d’armure (comme les [[cuirasse (armure)|cuirasses]]) et les objets à activation accordent un bonus de +1 aux [[jds|jets de sauvegarde]] contre les autres objets présentant la même fonction (comme un [[bâton de feu]] accorderait son avantage contre les autres bâtons de feu mais pas contre tous les autres bâtons).
 
-- **Fidèle.** Le [niveau de lanceur de sorts](./NLS.md) de l’objet est considéré comme supérieur de 1 quand ses effets bénéficient de la loyauté de la divinité protectrice de son créateur ou quand il est utilisé contre les disciples d’une foi honnie par cette divinité (au choix du créateur si la haine de la divinité va à l’encontre de plusieurs religions). L’objet gagne également un bonus de +1 aux [jets de dégâts](./Valeurs de combat.md#DEGATS) contre les disciples honnis. Si plus d’un créateur entre en jeu, les créateurs doivent alors choisir l’un de leurs différents protecteurs.
+- **Fidèle.** Le [[NLS|niveau de lanceur de sorts]] de l’objet est considéré comme supérieur de 1 quand ses effets bénéficient de la loyauté de la divinité protectrice de son créateur ou quand il est utilisé contre les disciples d’une foi honnie par cette divinité (au choix du créateur si la haine de la divinité va à l’encontre de plusieurs religions). L’objet gagne également un bonus de +1 aux [[Valeurs de combat#DEGATS|jets de dégâts]] contre les disciples honnis. Si plus d’un créateur entre en jeu, les créateurs doivent alors choisir l’un de leurs différents protecteurs.
 
-- **Gravé.** Le porteur de l’objet peut dépenser une [action complexe](./Action complexe.md) pour inscrire un message caché d’un maximum de 25 mots sur la surface de l’objet. Ce message reste invisible jusqu’au moment où une créature s’empare de l’objet ou quand un mot de passe spécifique est prononcé. L’inscription d’un nouveau message efface le précédent.
+- **Gravé.** Le porteur de l’objet peut dépenser une [[action complexe]] pour inscrire un message caché d’un maximum de 25 mots sur la surface de l’objet. Ce message reste invisible jusqu’au moment où une créature s’empare de l’objet ou quand un mot de passe spécifique est prononcé. L’inscription d’un nouveau message efface le précédent.
 
 - **Individualiste.** Tous les dons et aptitudes de classe du porteur qui affectent une arme ou un groupe d’armes spécifiques changent pour affecter le type ou le groupe d’armes individualistes tant qu’il possède cette arme. Si le porteur peut préciser plus d’un type ou d’un groupe d’armes, il peut choisir quelle arme ou quel groupe d’armes il conserve et lesquels il transforme en type ou groupe d’armes individualistes.
 
@@ -759,17 +759,17 @@ de commande.*
 
 - **Lié mentalement.** L’objet est lié au porteur, qui peut le commander mentalement. Le type d’action à effectuer reste le même mais le porteur ne fait aucun bruit et l’activation est purement mentale.
 
-- **Lueur ennemie.** L’objet brille quand un type de créatures spécifique se trouve non loin. Choisissez un type approprié ou lancez un dé et consultez la liste des [ennemis jurés du rôdeur](./Rôdeur.md#ENNEMIJURE).
+- **Lueur ennemie.** L’objet brille quand un type de créatures spécifique se trouve non loin. Choisissez un type approprié ou lancez un dé et consultez la liste des [[Rôdeur#ENNEMIJURE|ennemis jurés du rôdeur]].
 
-- **Lunaire.** Quand il est exposé à la lumière de la lune, l’objet impose un malus de -1 aux ennemis adjacents au porteur à leurs [jets de sauvegarde](./JDS.md) effectués contre le sommeil et les effets similaires.
+- **Lunaire.** Quand il est exposé à la lumière de la lune, l’objet impose un malus de -1 aux ennemis adjacents au porteur à leurs [[jds|jets de sauvegarde]] effectués contre le sommeil et les effets similaires.
 
-- **Messager.** Une fois par semaine, l’objet peut se transformer en animal et délivrer un message, comme avec le sort *[messager animal](./Messager animal.md)*.
+- **Messager.** Une fois par semaine, l’objet peut se transformer en animal et délivrer un message, comme avec le sort *[[messager animal]]*.
 
-- **Modeste.** L’objet apparaît comme non-magique, comme s’il était affecté par un sort d’*[aura magique](./Aura magique.md)*.
+- **Modeste.** L’objet apparaît comme non-magique, comme s’il était affecté par un sort d’*[[aura magique]]*.
 
-- **Protecteur.** Chaque jour, l’objet annule le premier *[projectile magique](./Projectile magique.md)* dirigé contre lui ou son porteur. Si un lanceur envoie plusieurs projectiles en même temps sur le porteur, réduisez de 1 le nombre de projectiles qui le touchent.
+- **Protecteur.** Chaque jour, l’objet annule le premier *[[projectile magique]]* dirigé contre lui ou son porteur. Si un lanceur envoie plusieurs projectiles en même temps sur le porteur, réduisez de 1 le nombre de projectiles qui le touchent.
 
-- **Puissant.** Le [niveau de lanceur de sorts](./NLS.md) de l’objet est augmenté de 1.
+- **Puissant.** Le [[NLS|niveau de lanceur de sorts]] de l’objet est augmenté de 1.
 
 - **Réadaptable.** L’objet adapte sa taille automatiquement à celle du porteur. Le changement de taille prend 1 minute.
 
@@ -779,11 +779,11 @@ de commande.*
 
 - **Salutaire.** Le porteur de cet objet regagne 1 point de vie supplémentaire lorsqu’il est la cible d’effets qui lui font regagner des points de vie.
 
-- **Scrutateur.** L’objet transmet des informations sensorielles à son porteur, comme s’il était le capteur d’un sort de *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*. Par une [action simple](./Action simple.md), le porteur doit se concentrer pour profiter de cet avantage et recevoir cette information à la place de ses propres informations visuelles ou auditives. L’effet est inactif tant que porteur ne se concentre pas. Déterminez au hasard, au moment de sa création, si l’objet transmet des informations auditives ou visuelles.
+- **Scrutateur.** L’objet transmet des informations sensorielles à son porteur, comme s’il était le capteur d’un sort de *[[Clairaudienceclairvoyance|clairaudience/clairvoyance]]*. Par une [[action simple]], le porteur doit se concentrer pour profiter de cet avantage et recevoir cette information à la place de ses propres informations visuelles ou auditives. L’effet est inactif tant que porteur ne se concentre pas. Déterminez au hasard, au moment de sa création, si l’objet transmet des informations auditives ou visuelles.
 
-- **Solaire.** Lorsqu’il est exposé à la lumière du soleil, l’objet [éblouit](./Ébloui.md) un ennemi adjacent au porteur tant que ces deux derniers restent adjacents.
+- **Solaire.** Lorsqu’il est exposé à la lumière du soleil, l’objet [[ébloui|éblouit]] un ennemi adjacent au porteur tant que ces deux derniers restent adjacents.
 
-- **Talentueux.** L’objet accorde un bonus de compétence de +1 aux tests d’une [compétence](./Compétences.md) aléatoire.
+- **Talentueux.** L’objet accorde un bonus de compétence de +1 aux tests d’une [[Compétences|compétence]] aléatoire.
 
 {s:Reference|BIZARRERIES}
 ### Les bizarreries
@@ -866,23 +866,23 @@ de commande.*
 
 - **Changement de couleur.** La couleur des yeux, des cheveux ou de la peau du porteur change quand il porte ou tient l’objet.
 
-- **Convergent.** L’objet est relié à un autre plan, mettant son porteur en contact télépathique avec une entité d’outre-monde. L’entité peut communiquer avec le porteur afin de servir ses propres objectifs. Choisissez une entité appropriée ou déterminez-la au hasard parmi les sous-types extérieurs. L’entité ne devrait en aucun cas être capable de blesser le porteur par contact télépathique (comme la [larve stellaire de Cthulhu](./Larve stellaire de Cthulhu.md)).
+- **Convergent.** L’objet est relié à un autre plan, mettant son porteur en contact télépathique avec une entité d’outre-monde. L’entité peut communiquer avec le porteur afin de servir ses propres objectifs. Choisissez une entité appropriée ou déterminez-la au hasard parmi les sous-types extérieurs. L’entité ne devrait en aucun cas être capable de blesser le porteur par contact télépathique (comme la [[larve stellaire de Cthulhu]]).
 
 - **Couleur inhabituelle.** L’objet présente une couleur curieuse pour un objet de ce type, comme une épée rose vif par exemple.
 
-- **Couleur psychique.** L’objet change de couleur en fonction de l’humeur du porteur. Chaque objet a sa propre palette de couleurs associées aux émotions mais une créature qui a connaissance de la bizarrerie de l’objet, qui connaît sa palette de couleurs et qui est capable de voir le changement de couleur gagne un bonus de circonstance de +2 aux tests de [Psychologie](./Psychologie.md) contre le porteur.
+- **Couleur psychique.** L’objet change de couleur en fonction de l’humeur du porteur. Chaque objet a sa propre palette de couleurs associées aux émotions mais une créature qui a connaissance de la bizarrerie de l’objet, qui connaît sa palette de couleurs et qui est capable de voir le changement de couleur gagne un bonus de circonstance de +2 aux tests de [[Psychologie]] contre le porteur.
 
 - **Crasseux.** L’objet est toujours couvert de poussière ou de boue, qu’importe le nombre de fois où il est lavé ou nettoyé.
 
-- **Défaut.** Lancez un dé et consultez la table des [défauts](./Création dynamique dobjets magiques.md#DEFAUTS).
+- **Défaut.** Lancez un dé et consultez la table des [[Création dynamique dobjets magiques#DEFAUTS|défauts]].
 
 - **Esquinté.** L’objet semble extrêmement vieux, usé, rouillé ou de piètre qualité, dissimulant ses vrais pouvoirs.
 
-- **Extra.** Lancez un dé et consultez la table des [extras](./Création dynamique dobjets magiques.md#EXTRAS).
+- **Extra.** Lancez un dé et consultez la table des [[Création dynamique dobjets magiques#EXTRAS|extras]].
 
 - **Harmonisation raciale.** On considère que le porteur de l’objet appartient à la race de l’un des créateurs (déterminée au hasard lors de la création) en plus de la sienne.
 
-- **Imprévisible.** Quand le personnage active l’objet, lancez 1d6. Sur un 1 ou un 2, le [DD](./DD.md) et le [niveau de lanceur de sorts](./NLS.md) de tous les effets de l’objet sont traités comme inférieurs de 1 pour cette activation ; sur un 3 ou un 4, il n’y pas d’ajustement ; et sur un 5 ou un 6, le [DD](./DD.md) et le [niveau de lanceur de sorts](./NLS.md) de tous les effets de l’objet sont traités comme supérieurs de 1 pour cette activation. Si cela fait tomber le niveau de l’objet sous le niveau de lanceur de sorts minimum pour l’effet voulu, l’activation échoue mais les charges ou utilisations journalières sont dépensées.
+- **Imprévisible.** Quand le personnage active l’objet, lancez 1d6. Sur un 1 ou un 2, le [[DD]] et le [[NLS|niveau de lanceur de sorts]] de tous les effets de l’objet sont traités comme inférieurs de 1 pour cette activation ; sur un 3 ou un 4, il n’y pas d’ajustement ; et sur un 5 ou un 6, le [[DD]] et le [[NLS|niveau de lanceur de sorts]] de tous les effets de l’objet sont traités comme supérieurs de 1 pour cette activation. Si cela fait tomber le niveau de l’objet sous le niveau de lanceur de sorts minimum pour l’effet voulu, l’activation échoue mais les charges ou utilisations journalières sont dépensées.
 
 - **Infesté.** L’objet est infesté de vermines ou d’autres créatures de taille Min qui n’interfèrent pas avec le fonctionnement de l’objet ni ne blessent le porteur.
 
@@ -892,21 +892,21 @@ de commande.*
 
 - **Long nez.** Le nez du porteur devient cinq fois plus long que la normale.
 
-- **Loyal.** L’objet offre un [extra](./Création dynamique dobjets magiques.md#EXTRAS) (déterminé au hasard lors de la création) quand il est utilisé par l’un de ses créateurs mais il présente un [défaut](./Création dynamique dobjets magiques.md#DEFAUTS) (déterminé au hasard lors de la création) pour tous les autres utilisateurs.
+- **Loyal.** L’objet offre un [[Création dynamique dobjets magiques#EXTRAS|extra]] (déterminé au hasard lors de la création) quand il est utilisé par l’un de ses créateurs mais il présente un [[Création dynamique dobjets magiques#DEFAUTS|défaut]] (déterminé au hasard lors de la création) pour tous les autres utilisateurs.
 
 - **Magnifique.** L’objet semble extrêmement puissant et précieux, même s’il ne l’est pas.
 
 - **Oreilles de géant.** Les oreilles du porteur de l’objet sont cinq fois plus longues que la normale.
 
-- **Scintillant.** L’objet laisse une traînée de poussière magique scintillante derrière lui. Celle-ci se dissipe après 1 [round](./round.md). Il est possible d’activer ou de désactiver cet effet avec un mot de commande.
+- **Scintillant.** L’objet laisse une traînée de poussière magique scintillante derrière lui. Celle-ci se dissipe après 1 [[round]]. Il est possible d’activer ou de désactiver cet effet avec un mot de commande.
 
 - **Soprano.** La voix du porteur monte d’une octave.
 
-- **Trempé.** L’objet et le porteur sont trempés en permanence, ce qui impose un malus de -1 aux [jets de sauvegarde](./JDS.md) dans les environnements froid et contre les effets de froid et d’électricité mais accorde un bonus de +1 aux [jets de sauvegarde](./JDS.md) dans les environnements chauds, les effets de feu et les situations où le porteur peut [prendre feu](./Dangers naturels.md#PRENDREFEU).
+- **Trempé.** L’objet et le porteur sont trempés en permanence, ce qui impose un malus de -1 aux [[jds|jets de sauvegarde]] dans les environnements froid et contre les effets de froid et d’électricité mais accorde un bonus de +1 aux [[jds|jets de sauvegarde]] dans les environnements chauds, les effets de feu et les situations où le porteur peut [[Dangers naturels#PRENDREFEU|prendre feu]].
 
 - **Verdoyant.** L’objet est couvert de feuilles, de mousse et de plantes grimpantes et des feuilles se mettent à pousser sur les créatures prises pour cible par les effets de l’objet.
 
-- **Visqueux.** L’objet est recouvert d’une vase putride qui suinte et recouvre également le porteur. Ce dernier gagne un bonus de circonstance de +5 aux tests d’[Évasion](./Évasion.md), aux [tests de manœuvre offensive](./BMO.md) pour échapper à une [étreinte](./Étreinte (capacité).md) et au [DMD](./DMD.md) contre les manœuvres de [lutte](./lutte.md) (ces bonus ne se cumulent pas avec *[graisse](./Graisse.md)* ou des effets similaires) mais il subit un malus de -2 aux tests d’[Acrobaties](./Acrobaties.md), de [Déguisement](./Déguisement.md) et de [Sabotage](./Sabotage.md) ainsi qu’aux tests de [Diplomatie](./Diplomatie.md) et de [Dressage](./Dressage.md), sauf contre les créatures que la vase putride ne gêne pas.
+- **Visqueux.** L’objet est recouvert d’une vase putride qui suinte et recouvre également le porteur. Ce dernier gagne un bonus de circonstance de +5 aux tests d’[[Évasion]], aux [[BMO|tests de manœuvre offensive]] pour échapper à une [[étreinte (capacité)|étreinte]] et au [[DMD]] contre les manœuvres de [[lutte]] (ces bonus ne se cumulent pas avec *[[graisse]]* ou des effets similaires) mais il subit un malus de -2 aux tests d’[[Acrobaties]], de [[Déguisement]] et de [[Sabotage]] ainsi qu’aux tests de [[Diplomatie]] et de [[Dressage]], sauf contre les créatures que la vase putride ne gêne pas.
 
 {s:Reference|DEFAUTS}
 ### Les défauts
@@ -981,57 +981,57 @@ l’on tient en main.*
 |}
 </div></div>Les défauts sont des ajustements de nature nuisible qui affublent un objet. La plupart sont assez similaires aux malédictions sans être aussi dévastateurs ou restrictifs pour le porteur. Quand un défi ajoute un défaut à un objet, lancez un dé et consultez la table ci-dessous. En général, les défauts les plus préjudiciables correspondent aux résultats les plus élevés. Refaites un jet pour les résultats similaires et les défauts qui ne sont pas appropriés à l’objet. N’hésitez pas à imaginer vos propres défauts et, tout simplement, à en choisir un qui convienne.
 
-**L’accumulation de défauts.** Plus l’objet a de défauts, plus il est susceptible d’être maudit. Pour chaque défaut au-delà du premier, ajoutez un modificateur cumulable de +5 au d100 jusqu’à ce que l’objet acquiert une [malédiction](./Objets maudits.md) (après quoi le modificateur cumulatif de +5 ne s’applique plus). Quand vous décidez de créer un nouveau défaut ou d’ajouter un défaut approprié plutôt que de faire un jet, commencez quand même par faire un jet pour savoir si l’objet acquiert une malédiction à la place.
-- **Addictif.** Le porteur refuse de renoncer à l’objet, quelles que soient les circonstances, et souffre des effets d’une [dépendance sévère](./Drogues.md#DÉPENDANCE) quand il se voit refuser l’accès à cet objet.
+**L’accumulation de défauts.** Plus l’objet a de défauts, plus il est susceptible d’être maudit. Pour chaque défaut au-delà du premier, ajoutez un modificateur cumulable de +5 au d100 jusqu’à ce que l’objet acquiert une [[Objets maudits|malédiction]] (après quoi le modificateur cumulatif de +5 ne s’applique plus). Quand vous décidez de créer un nouveau défaut ou d’ajouter un défaut approprié plutôt que de faire un jet, commencez quand même par faire un jet pour savoir si l’objet acquiert une malédiction à la place.
+- **Addictif.** Le porteur refuse de renoncer à l’objet, quelles que soient les circonstances, et souffre des effets d’une [[Drogues#DÉPENDANCE|dépendance sévère]] quand il se voit refuser l’accès à cet objet.
 
-- **Affaibli par une énergie.** L’objet est particulièrement vulnérable à un type d’énergie destructive aléatoire, qui ignore la [solidité](./Exploration.md#SOLIDITE) et lui inflige le double des dégâts (mais pas au porteur de l’objet). Déterminez le type d’énergie au hasard ou choisissez-en un qui soit thématiquement lié au défi à l’origine de ce défaut.
+- **Affaibli par une énergie.** L’objet est particulièrement vulnérable à un type d’énergie destructive aléatoire, qui ignore la [[Exploration#SOLIDITE|solidité]] et lui inflige le double des dégâts (mais pas au porteur de l’objet). Déterminez le type d’énergie au hasard ou choisissez-en un qui soit thématiquement lié au défi à l’origine de ce défaut.
 
-- **Allergique.** L’objet est particulièrement sensible à la présence d’un type de créatures particulier et met un terme à toutes ses fonctions magiques chaque fois qu’il se trouve dans un rayon de 9 mètres de ce genre de créatures. Pour déterminer ce type de créatures, faites un jet ou choisissez un type approprié dans la liste des [ennemis jurés du rôdeur](./Rôdeur.md#ENNEMIJURE).
+- **Allergique.** L’objet est particulièrement sensible à la présence d’un type de créatures particulier et met un terme à toutes ses fonctions magiques chaque fois qu’il se trouve dans un rayon de 9 mètres de ce genre de créatures. Pour déterminer ce type de créatures, faites un jet ou choisissez un type approprié dans la liste des [[Rôdeur#ENNEMIJURE|ennemis jurés du rôdeur]].
 
 - **Anormal.** L’objet est en réalité un objet magique aléatoire du même type ou qui occupe le même emplacement et d’un coût identique ou similaire à celui de l’objet voulu.
 
 - **Barbare.** L’objet ne fonctionne pas dans les zones considérées comme des environnements urbains.
 
-- **Caustique.** L’objet dégage une forte odeur abjecte. Aucun moyen ordinaire ne permet de se débarrasser de cette puanteur, qui surpasse même les effets magiques comme *[négation de l’arôme](./Négation de larôme.md)*.
+- **Caustique.** L’objet dégage une forte odeur abjecte. Aucun moyen ordinaire ne permet de se débarrasser de cette puanteur, qui surpasse même les effets magiques comme *[[négation de larôme|négation de l’arôme]]*.
 
-- **Chantant.** L’objet chante constamment à tue-tête avec une voix époustouflante de soprano ou de ténor. *[Silence](./Silence.md)* et les autres sorts similaires permettent d’étouffer le bruit normalement.
+- **Chantant.** L’objet chante constamment à tue-tête avec une voix époustouflante de soprano ou de ténor. *[[Silence]]* et les autres sorts similaires permettent d’étouffer le bruit normalement.
 
-- **Colérique.** En combat, l’esprit du porteur est obscurci par la rage et il doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 20 pour utiliser tout pouvoir ne pouvant normalement pas être utilisé pendant la [rage du barbare](./Barbare.md#RAGE). Ceci n’autorise pas les [barbares](./Barbare.md) à utiliser ces pouvoirs quand ils sont enragés.
+- **Colérique.** En combat, l’esprit du porteur est obscurci par la rage et il doit réussir un jet de [[Volonté]] [[DD]] 20 pour utiliser tout pouvoir ne pouvant normalement pas être utilisé pendant la [[Barbare#RAGE|rage du barbare]]. Ceci n’autorise pas les [[barbare|barbares]] à utiliser ces pouvoirs quand ils sont enragés.
 
-- **Extrêmement infesté.** Même chose que pour la [bizarrerie](./Création dynamique dobjets magiques.md#BIZARRERIES) infesté mais la vermine ou les autres créatures grouillent sur le porteur, l’obligeant à réussir un [test de concentration](./Lancer des sorts.md#CONCENTRATION) ([DD](./DD.md) = 15 + niveau du sort) pour lancer des sorts ou utiliser d’autres pouvoirs qui nécessitent de se concentrer.
+- **Extrêmement infesté.** Même chose que pour la [[Création dynamique dobjets magiques#BIZARRERIES|bizarrerie]] infesté mais la vermine ou les autres créatures grouillent sur le porteur, l’obligeant à réussir un [[Lancer des sorts#CONCENTRATION|test de concentration]] ([[DD]] = 15 + niveau du sort) pour lancer des sorts ou utiliser d’autres pouvoirs qui nécessitent de se concentrer.
 
-- **Fragile.** L’objet possède moitié moins de [points de résistance](./Exploration.md#POINTDERESISTANCE) que la normale.
+- **Fragile.** L’objet possède moitié moins de [[Exploration#POINTDERESISTANCE|points de résistance]] que la normale.
 
-- **Fuyant.** La créature qui tient l’objet doit réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 15 à chaque [round](./round.md) pour ne pas le lâcher.
+- **Fuyant.** La créature qui tient l’objet doit réussir un jet de [[Réflexes]] [[DD]] 15 à chaque [[round]] pour ne pas le lâcher.
 
-- **Glouton.** Le porteur doit consommer de la nourriture dix fois plus souvent que la normale pour ne pas souffrir des effets de la [faim](./Dangers naturels.md#FAIMSOIF), ignorant les effets qui réduisent la quantité de nourriture nécessaire (comme les [anneaux de subsistance](./Anneau de subsistance.md)).
+- **Glouton.** Le porteur doit consommer de la nourriture dix fois plus souvent que la normale pour ne pas souffrir des effets de la [[Dangers naturels#FAIMSOIF|faim]], ignorant les effets qui réduisent la quantité de nourriture nécessaire (comme les [[Anneau de subsistance|anneaux de subsistance]]).
 
-- **Hallucinogène.** Le porteur souffre d’hallucinations visuelles et auditives moyennes. Bien qu’il lui soit assez facile de les percevoir pour ce qu’elles sont, ces hallucinations lui imposent quand même un malus de -2 aux tests de [Perception](./Perception.md) et d’[initiative](./initiative.md).
+- **Hallucinogène.** Le porteur souffre d’hallucinations visuelles et auditives moyennes. Bien qu’il lui soit assez facile de les percevoir pour ce qu’elles sont, ces hallucinations lui imposent quand même un malus de -2 aux tests de [[Perception]] et d’[[initiative]].
 
-- **Impuissant.** Le [niveau de lanceur de sorts](./NLS.md) de l’objet est inférieur de 1. Si cette diminution fait tomber le niveau de lanceur de sorts d’une baguette ou d’un bâton en dessous du minimum requis, relancez les dés pour ce défaut.
+- **Impuissant.** Le [[NLS|niveau de lanceur de sorts]] de l’objet est inférieur de 1. Si cette diminution fait tomber le niveau de lanceur de sorts d’une baguette ou d’un bâton en dessous du minimum requis, relancez les dés pour ce défaut.
 
 - **Lourd.** L’objet pèse deux fois plus lourd que la normale.
 
-- **Lumière féerique.** Le porteur est constamment entouré d’une lumière colorée, comme s’il était affecté par un sort de *[lueur féerique](./Lueur féerique.md)*.
+- **Lumière féerique.** Le porteur est constamment entouré d’une lumière colorée, comme s’il était affecté par un sort de *[[lueur féerique]]*.
 
-- **Maudit.** L’objet est affligé d’une malédiction. Faites un jet et consultez la Table "[Malédictions ordinaires des objets](./Objets maudits.md#DETERMINATION)", pour déterminer la malédiction ou en choisir une qui convienne.
+- **Maudit.** L’objet est affligé d’une malédiction. Faites un jet et consultez la Table "[[Objets maudits#DETERMINATION|Malédictions ordinaires des objets]]", pour déterminer la malédiction ou en choisir une qui convienne.
 
-- **Obéissant.** Le porteur subit un malus de -2 aux jets de [Volonté](./Volonté.md) contre les effets de contrôle mental. Ceci inclut les effets mentaux de [charme](./branche charme.md) ou de [coercition](./branche coercition.md), ainsi que tous les effets que le [MJ](./MJ.md) juge appropriés.
+- **Obéissant.** Le porteur subit un malus de -2 aux jets de [[Volonté]] contre les effets de contrôle mental. Ceci inclut les effets mentaux de [[branche charme|charme]] ou de [[branche coercition|coercition]], ainsi que tous les effets que le [[MJ]] juge appropriés.
 
-- **Orgueilleux.** Le porteur ne peut ni effectuer ni profiter des avantages de l’action [aider quelqu’un](./aider qqn.md).
+- **Orgueilleux.** Le porteur ne peut ni effectuer ni profiter des avantages de l’action [[aider qqn|aider quelqu’un]].
 
-- **Pacifiste.** Quand il utilise cette arme, le porteur peut uniquement choisir d’infliger des dégâts [non létaux](./Blessures et mort.md#NONLETAL) (imposant un malus de -4 aux [jets d’attaque](./jet dattaque.md) dans la plupart des cas), sauf contre les créatures artificielles et les morts-vivants.
+- **Pacifiste.** Quand il utilise cette arme, le porteur peut uniquement choisir d’infliger des dégâts [[Blessures et mort#NONLETAL|non létaux]] (imposant un malus de -4 aux [[jet dattaque|jets d’attaque]] dans la plupart des cas), sauf contre les créatures artificielles et les morts-vivants.
 
-- **Paranoïaque.** Le porteur n’a plus confiance en personne et doit effectuer un [jet de sauvegarde](./JDS.md) contre tous les pouvoirs et sorts hormis les siens, même quand ils sont inoffensifs.
+- **Paranoïaque.** Le porteur n’a plus confiance en personne et doit effectuer un [[jds|jet de sauvegarde]] contre tous les pouvoirs et sorts hormis les siens, même quand ils sont inoffensifs.
 
-- **Paresseux.** Le porteur doit se reposer 12 heures chaque jour pour profiter des avantages d’une pleine nuit de repos et ignore les effets qui réduisent le temps de sommeil nécessaire (comme les [anneaux de subsistance](./Anneau de subsistance.md)). Cela peut affecter la capacité du porteur à préparer des sorts ou à regagner des emplacements de sort.
+- **Paresseux.** Le porteur doit se reposer 12 heures chaque jour pour profiter des avantages d’une pleine nuit de repos et ignore les effets qui réduisent le temps de sommeil nécessaire (comme les [[Anneau de subsistance|anneaux de subsistance]]). Cela peut affecter la capacité du porteur à préparer des sorts ou à regagner des emplacements de sort.
 
 - **Réactionnaire.** Quand il attaque avec l’objet ou qu’il active cet objet, l’utilisateur subit 1d6 points de dégâts infligés par le contrecoup d’énergie magique.
 
-- **Séduisant.** Les autres convoitent l’objet et cherchent à le posséder. Quand une créature touche ou examine l’objet alors qu’elle ne le possède pas, elle doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 20 pour ne pas convoiter l’objet et chercher à l’obtenir par les moyens les plus efficaces et avantageux même si elle n’en a pas un besoin immédiat. Après une tentative pour mettre la main sur l’objet (ou un [jet de sauvegarde](./JDS.md) réussi), la créature est immunisée contre l’effet séduisant de l’objet pendant 24 heures.
+- **Séduisant.** Les autres convoitent l’objet et cherchent à le posséder. Quand une créature touche ou examine l’objet alors qu’elle ne le possède pas, elle doit réussir un jet de [[Volonté]] [[DD]] 20 pour ne pas convoiter l’objet et chercher à l’obtenir par les moyens les plus efficaces et avantageux même si elle n’en a pas un besoin immédiat. Après une tentative pour mettre la main sur l’objet (ou un [[jds|jet de sauvegarde]] réussi), la créature est immunisée contre l’effet séduisant de l’objet pendant 24 heures.
 
 - **Vindicatif.** Quand il utilise cette arme, le porteur peut uniquement choisir d’infliger des dégâts létaux, pas des dégâts non létaux. Si l’objet peut normalement infliger des dégâts non létaux, ce défaut contourne cette restriction.
 
-- **Vulnérable.** L’objet a une [solidité](./Exploration.md#SOLIDITE) inférieure de 5 points à la normale (0 au minimum).
+- **Vulnérable.** L’objet a une [[Exploration#SOLIDITE|solidité]] inférieure de 5 points à la normale (0 au minimum).
 
 - **Zélé.** L’objet ne fonctionne que pour les disciples de la divinité protectrice du créateur. Si plus d’un créateur entre en jeu, déterminez au hasard laquelle de leurs divinités protectrices est concernée.

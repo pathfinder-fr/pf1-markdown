@@ -10,17 +10,17 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:Desambi|Grâce est également le nom d'une [aptitude de paladin](./Grâce.md).}{s:APG}
-**École** [Abjuration](./Abjuration.md) ;** Niveau** [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 2  
+{s:Desambi|Grâce est également le nom d'une [[grâce|aptitude de paladin]].}{s:APG}
+**École** [[Abjuration]] ;** Niveau** [[Paladin|Pal]] 1, [[Prêtre|Prê]] 2  
 
-**Temps d'incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d'incantation** 1 [[action rapide]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[Composantes|V]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
 **Durée** voir texte
 
-Les déplacements du personnage ne provoquent pas d'[attaque d'opportunité](./attaque dopportunité.md) jusqu'à la fin de son tour.
+Les déplacements du personnage ne provoquent pas d'[[attaque dopportunité|attaque d'opportunité]] jusqu'à la fin de son tour.

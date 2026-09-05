@@ -13,32 +13,32 @@ Categories:
 {s:pucem|humanoïde monstrueux|souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4* p. 103}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, LN}
-{s:BDTexte|**Init** +2 (+6 avec esprit de ruche) ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [perception aveugle](./perception aveugle.md) à 9 m, esprit de ruche ; [Perception](./Perception.md) +16 (+20 avec esprit de ruche)}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, LN}
+{s:BDTexte|**Init** +2 (+6 avec esprit de ruche) ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), [[perception aveugle]] à 9 m, esprit de ruche ; [[Perception]] +16 (+20 avec esprit de ruche)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 12, pris au dépourvu 18 (Dex +2, naturelle +8)}
 {s:BDTexte|**pv** 85 (10d10+30)}
 {s:BDTexte|**Réf** +9, **Vig** +6, **Vol** +10}
-{s:BDTexte|**[Résistance](./Résistance (capacité).md)** son 10}
+{s:BDTexte|**[[Résistance (capacité)|Résistance]]** son 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** dard, +13 (1d4+3 plus poison) et 2 griffes, +13 (1d4+3)}
 {s:BDTexte|**À distance** fléchette, +12/+7 (1d4+3)}
 {s:BDTexte|**Attaque spéciale** poison}
 {s:BDTexte|**Pouvoirs magiques** (NLS 10 ; concentration +14)}
-{s:BDSorts|3/jour — *[communication à distance](./Communication à distance.md)* (avec la reine de la colonie uniquement), *[détection de pensées](./Détection de pensées.md)* ([DD](./DD.md) 16)}
+{s:BDSorts|3/jour — *[[communication à distance]]* (avec la reine de la colonie uniquement), *[[détection de pensées]]* ([[DD]] 16)}
 {s:BDTexte|**Sorts de bardes connus** (NLS 7 ; concentration +11)}
-{s:BDSorts|3<sup>er</sup> (2/jour) — *[confusion](./Confusion.md)* ([DD](./DD.md) 18), *[espoir](./Espoir.md)*}
-{s:BDSorts|2<sup>er</sup> (4/jour) — *[cacophonie](./Cacophonie.md)* ([DD](./DD.md) 16), *[héroïsme](./Héroïsme.md)*, *[invisibilité](./Invisibilité.md)*, *[suggestion](./Suggestion.md)* ([DD](./DD.md) 17)}
-{s:BDSorts|1<sup>er</sup> (5/jour) — *[charme-personne](./Charme-personne.md)* ([DD](./DD.md) 16), *[compréhension des langages](./Compréhension des langages.md)*, *[fou rire](./Fou rire.md)* ([DD](./DD.md) 16), *[image silencieuse](./Image silencieuse.md)* ([DD](./DD.md) 15), *[soins légers](./Soins légers.md)*}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[hébétement](./Hébétement.md)* ([DD](./DD.md) 15), *[lumières dansantes](./Lumières dansantes.md)*, *[message](./Message.md)*, *[prestidigitation](./Prestidigitation.md)*, *[réparation](./Réparation.md)*}
+{s:BDSorts|3<sup>er</sup> (2/jour) — *[[confusion]]* ([[DD]] 18), *[[espoir]]*}
+{s:BDSorts|2<sup>er</sup> (4/jour) — *[[cacophonie]]* ([[DD]] 16), *[[héroïsme]]*, *[[invisibilité]]*, *[[suggestion]]* ([[DD]] 17)}
+{s:BDSorts|1<sup>er</sup> (5/jour) — *[[charme-personne]]* ([[DD]] 16), *[[compréhension des langages]]*, *[[fou rire]]* ([[DD]] 16), *[[image silencieuse]]* ([[DD]] 15), *[[soins légers]]*}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[hébétement]]* ([[DD]] 15), *[[lumières dansantes]]*, *[[message]]*, *[[prestidigitation]]*, *[[réparation]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 14, **Con** 16, **Int** 13, **Sag** 16, **Cha** 19}
 {s:BDTexte|**BBA** +10 ; **BMO** +13 ; **DMD** 26 (30 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme en main](./Arme en main.md), [École renforcée](./École renforcée.md) (enchantement), [Magie de guerre](./Magie de guerre.md), [Tir à bout portant](./Tir à bout portant.md), [Tir rapide](./Tir rapide.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +6, [Artisanat](./Artisanat.md) (armures) +9, [Bluff](./Bluff.md) +9, [Diplomatie](./Diplomatie.md) +14, [Escalade](./Escalade.md) +11, [Estimation](./Estimation.md) +6, [Perception](./Perception.md) +16 (+20 avec esprit de ruche), [Psychologie](./Psychologie.md) +8}
+{s:BDTexte|**Dons** [[Arme en main]], [[École renforcée]] (enchantement), [[Magie de guerre]], [[Tir à bout portant]], [[Tir rapide]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +6, [[Artisanat]] (armures) +9, [[Bluff]] +9, [[Diplomatie]] +14, [[Escalade]] +11, [[Estimation]] +6, [[Perception]] +16 (+20 avec esprit de ruche), [[Psychologie]] +8}
 {s:BDTexte|**Langues** commun ; télépathie à 36 m}
-{s:BDTexte|**Particularités** [traits des formiens](./Traits des formiens (capacité).md), modèle mental (20 rounds/jour)}
+{s:BDTexte|**Particularités** [[Traits des formiens (capacité)|traits des formiens]], modèle mental (20 rounds/jour)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terrestre ou souterrain, chaud ou tempéré}
 {s:BDTexte|**Organisation sociale** solitaire, équipe ouvrière (1 plus 6-12 ouvriers), groupe (1 plus 3-15 ouvriers et 5-8 guerrières), ambassade (2-6)}
@@ -53,9 +53,9 @@ round pendant 6 rounds ; effet 1d4 Dextérité ; guérison 2 réussites consécu
 {s:BDTexte|**Sorts.** Le contremaître formien peut lancer des sorts comme un barde de
 niveau 7. Il privilégie les sorts d’enchantement et d’illusion.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [formiens](./Formiens.md).***</li></ul>*Cette créature semblable à un centaure est dotée de mandibules et d’antennes de fourmi.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Formiens]].***</li></ul>*Cette créature semblable à un centaure est dotée de mandibules et d’antennes de fourmi.*
 
-Les contremaîtres [formiens](./Formiens.md) sont des marchands, des commerçants,
+Les contremaîtres [[formiens]] sont des marchands, des commerçants,
 des diplomates et des espions. Ceux d’entre eux qui
 sont particulièrement doués peuvent même conseiller la reine. On
 trouve souvent les contremaîtres à l’extérieur de la colonie en train

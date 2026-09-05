@@ -13,10 +13,10 @@ Categories:
 
 **Catégorie.** combat
 
-**Conditions.** [halfelin](./Halfelin.md), [Combattant prudent](./Combattant prudent.md), [Coup désespéré](./Coup désespéré.md), [BBA](./BBA.md)+6
+**Conditions.** [[halfelin]], [[Combattant prudent]], [[Coup désespéré]], [[BBA]]+6
 
-**Avantages.** Une fois par jour, quand le personnage se [bat sur la défensive](./combat sur la défensive.md) ou fait une [attaque d’opportunité](./attaque dopportunité.md) en [défense totale](./défense totale.md) avec le don [Coup désespéré](./Coup désespéré.md), il ne subit pas de malus au [jet d’attaque](./jet dattaque.md).
+**Avantages.** Une fois par jour, quand le personnage se [[Combat sur la défensive|bat sur la défensive]] ou fait une [[attaque dopportunité|attaque d’opportunité]] en [[défense totale]] avec le don [[Coup désespéré]], il ne subit pas de malus au [[jet dattaque|jet d’attaque]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Le personnage peut dépenser 5 points d’endurance après avoir utilisé ce don une première fois pour s’en servir une fois de plus dans la journée. Chaque utilisation quotidienne supplémentaire lui coûte 5 points d’endurance.

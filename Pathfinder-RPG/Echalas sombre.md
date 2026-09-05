@@ -12,22 +12,22 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Montagnes|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4* p.90}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, CN}
-{s:BDTexte|**Init** +6 ; **Sens** [Vision à 360°](./Vision à 360° (capacité).md), [vision aveugle](./vision aveugle.md) à 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, CN}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision à 360° (capacité)|Vision à 360°]], [[vision aveugle]] à 18 m (12 {s:c}), [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 13, pris au dépourvu 15 (Dex +2, esquive +1, naturelle +5)}
 {s:BDTexte|**pv** 37 (5d10+10)}
 {s:BDTexte|**Réf** +8, **Vig** +3, **Vol** +6}
 {s:BDTexte|**Capacités défensives** sans visage ; **Immunités** attaques basées sur l’odorat, attaques de regard, froid, poison inhalé}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 9 m (6 {s:c}), [vol](./Vol (capacité).md) 12 m (8 {s:c}, moyenne)}
+{s:BDTexte|**VD** 9 m (6 {s:c}), [[Vol (capacité)|vol]] 12 m (8 {s:c}, moyenne)}
 {s:BDTexte|**Corps à corps** 2 griffes, +9 (1d6+4 plus étreinte)}
 {s:BDTexte|**Attaques spéciales** aiguillon, étreinte renforcée}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 15, **Con** 14, **Int** 5, **Sag** 14, **Cha** 11}
 {s:BDTexte|**BBA** +5 ; **BMO** +9 (+17 en lutte) ; **DMD** 22}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +11, [Perception](./Perception.md) +6, [Vol](./Vol.md) +7 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**Dons** [[Esquive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +11, [[Perception]] +6, [[Vol]] +7 ; **Modificateurs raciaux** +4 en [[Discrétion]]}
 {s:BDTexte|**Langues** aklo (ne sait pas parler)}
 {s:BDTexte|**Particularité** ne respire pas}
 {s:BDSousTitre|Écologie}
@@ -38,12 +38,12 @@ Categories:
 {s:BDTexte|**Aiguillon (Ext).** Par une action rapide, la maigre bête de la nuit
 peut utiliser l’aiguillon du bout de sa queue pour piquer ou
 agripper un adversaire sans défense avec une sinistre
-efficacité. La cible doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 14
-pour ne pas être nauséeuse pendant un round. Le [DD](./DD.md) du
-jet de sauvegarde est basé sur la [Dextérité](./Dextérité.md).}
+efficacité. La cible doit réussir un jet de [[Vigueur]] [[DD]] 14
+pour ne pas être nauséeuse pendant un round. Le [[DD]] du
+jet de sauvegarde est basé sur la [[Dextérité]].}
 {s:BDTexte|**Étreinte renforcée (Ext).** La maigre bête de la nuit
 possède un bonus racial de +4
-aux tests de [manoeuvre offensive](./manoeuvre-offensive.md)
+aux tests de [[manoeuvre offensive]]
 de lutte. Si elle utilise sa vitesse de
 déplacement en vol pour se déplacer en
 emportant une créature agrippée, elle peut se

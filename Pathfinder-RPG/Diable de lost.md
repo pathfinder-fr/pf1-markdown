@@ -10,7 +10,7 @@ LastModified: 2021-04-04 10:11
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 p.60*}
 - **2 400 PX**
-- [Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille M, LM
+- [[type extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM
 - **Init **+4 ; **Sens **détection de la magie, vision dans le noir 18m, vision dans les ténèbres ; Perception +11
 (((Défense)))
 - **CA **23, contact 15, pris au dépourvu 18 (Dex +4, esquive +1, naturelle +8)
@@ -23,14 +23,14 @@ LastModified: 2021-04-04 10:11
   - ou 2 griffes, +11 (1d6+4 plus 2 saignement)
 - **Attaques spéciales** éventration (2 griffes, 1d6+6 plus 2 saignement), souffle empoisonné
 - **Pouvoirs magiques** (**NLS **12 ; concentration +12)
-  - *Constant* — [détection de la magie](./Détection de la magie.md)
-  - *À volonté* — [téléportation suprême](./Téléportation suprême.md) (lui plus 25 kg d’objets uniquement)
+  - *Constant* — [[détection de la magie]]
+  - *À volonté* — [[téléportation suprême]] (lui plus 25 kg d’objets uniquement)
   - *1/jour* — convocation (NLS 3, 1 magaav 40%)
 (((Statistiques)))
 - **For **18, **Dex **19, **Con **16, **Int **10, **Sag **12, **Cha **11
 - **BBA **+7 ; **BMO **+11 ; **DMD **26
-- **Dons **[Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Vol stationnaire](./Vol stationnaire.md)
-- **Compétences **[Acrobaties](./Acrobaties.md) +14 (+10 pour sauter), [Discrétion](./Discrétion.md) +14, [Évasion](./Évasion.md) +14, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +11, [Vol](./Vol.md) +14
+- **Dons **[[Attaques réflexes]], [[Esquive]], [[Souplesse du serpent]], [[Vol stationnaire]]
+- **Compétences **[[Acrobaties]] +14 (+10 pour sauter), [[Discrétion]] +14, [[Évasion]] +14, [[Intimidation]] +10, [[Perception]] +11, [[Vol]] +14
 - **Langues **céleste, draconique, infernal ; télépathie 30 m
 - **Particularités **maître de la lutte, sens partagés
 (((Écologie)))
@@ -52,13 +52,13 @@ LastModified: 2021-04-04 10:11
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Diable de l'ost](./Diable de lost.md) (Magaav) || 6
+| [[Diable de lost|Diable de l'ost]] (Magaav) || 6
 |-
-| [Diable de l'ost majeur](./Diable de lost Majeur.md) (Magaav) || 6
+| [[Diable de lost Majeur|Diable de l'ost majeur]] (Magaav) || 6
 |-
-| [Diable de l'ost mineur](./Diable de lost mineur.md) (Gaav) || 3
+| [[Diable de lost mineur|Diable de l'ost mineur]] (Gaav) || 3
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 *Des cornes tordues sortent de la tête écorchée de cette créature ailée et des fumerolles empoisonnées s’échappent de sa gueule entre ses crocs jaunis. *
 
 Les diables de l’ost sont des chasseurs d’âmes qui récupèrent les biens les plus insaisissables des Enfers. Qu’il s’agisse d’âmes qui ont longtemps échappé à la capture dans les plaines de l’Averne, d’êtres damnés qui ont réussi à fuir les Enfers ou de créatures ayant renié un contrat infernal, de vastes escadrons de fiélons ailés partent à leur poursuite. Les diables de l’ost se déplacent rarement seuls, ils se regroupent en nuées qui rassemblent souvent des milliers d’individus. Ces parodies d’ange à quatre ailes forment d’énormes colonnes qui se déplacent à l’unisson, comme une bête infernale de taille colossale contrôlée par un unique cerveau.

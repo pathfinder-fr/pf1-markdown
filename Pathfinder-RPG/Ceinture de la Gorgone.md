@@ -6,11 +6,11 @@ LastModified: 2024-05-25 16:28
 
 <div class="BD">
 {s:BDTitre|Ceinture de la gorgone|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [taille](./Objets merveilleux portés à la taille.md) ; **Prix** 23 000 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 23 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette ceinture octroie à son porteur un bonus d’altération de +4 à la [Force](./Force.md) et lui permet de se déplacer normalement sur des terrains difficiles lors d’une charge ou d’une tentative de [piétinement](./Piétinement.md), de renversement ou de bousculade. Le bonus de Force est temporaire pendant les vingt-quatre premières heures où le personnage porte la ceinture.
+Cette ceinture octroie à son porteur un bonus d’altération de +4 à la [[Force]] et lui permet de se déplacer normalement sur des terrains difficiles lors d’une charge ou d’une tentative de [[piétinement]], de renversement ou de bousculade. Le bonus de Force est temporaire pendant les vingt-quatre premières heures où le personnage porte la ceinture.
 
-De plus, une fois par jour et sur commande, le porteur peut cracher un cône de gaz verdâtre et empoisonné de 18 mètres de long, semblable à un [souffle](./Souffle (capacité).md). Les créatures prises dans la zone d’effet peuvent tenter un jet de sauvegarde DD 18 pour ne pas être paralysées pendant 1d4 rounds. À la fin de son tour, une créature paralysée par le souffle peut tenter un nouveau jet de sauvegarde pour mettre fin à la paralysie.
+De plus, une fois par jour et sur commande, le porteur peut cracher un cône de gaz verdâtre et empoisonné de 18 mètres de long, semblable à un [[Souffle (capacité)|souffle]]. Les créatures prises dans la zone d’effet peuvent tenter un jet de sauvegarde DD 18 pour ne pas être paralysées pendant 1d4 rounds. À la fin de son tour, une créature paralysée par le souffle peut tenter un nouveau jet de sauvegarde pour mettre fin à la paralysie.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[force de taureau](./Force de taureau.md)*, *[démarche aérienne](./Démarche aérienne.md)*, *[empoisonnement](./Empoisonnement.md)* ; **Coût** 11 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[force de taureau]]*, *[[démarche aérienne]]*, *[[empoisonnement]]* ; **Coût** 11 500 po
 </div>

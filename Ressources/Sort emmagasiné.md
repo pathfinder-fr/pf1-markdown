@@ -8,17 +8,17 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 </div>
 {br}
 *Les sorts du personnage ne prennent effet que quelques instant après leur incantation.*
 
-**Catégorie :** [métamagie](./../Pathfinder-RPG/Dons.md#METAMAGIE)
+**Catégorie :** [[Pathfinder-RPG.Dons#METAMAGIE|métamagie]]
 
-**Avantage.** Lorsqu'un personnage incante un sort emmagasiné, celui-ci ne prend pas effet immédiatement, mais son énergie magique est emmagasinée pour pouvoir être facilement et rapidement récupérée plus tard. A partir du round suivant, le lanceur de sort pourra décider d'utiliser le sort emmagasiné en achevant l’incantation au prix d'une [action rapide](./../Pathfinder-RPG/Action rapide.md). Cela lui permettra notamment de pouvoir jeter un second sort au cours de ce rounds. D'autre part, les sorts emmagasinés ne provoquent pas d'[attaque d'opportunité](./../Pathfinder-RPG/attaque dopportunité.md). Les choix concernant les différents paramètres du sort, comme la zone ou la cible affectée sont effectués lors de cette action rapide et non lors de la première incantation.{br}
-Seuls les sorts ayant un temps d'incantation d'une [action simple](./../Pathfinder-RPG/Action simple.md) peuvent bénéficier de l'effet de ce don. De plus, un seul sort peut être emmagasiné à la fois, et une seule [action rapide](./../Pathfinder-RPG/Action rapide.md) peut être effectuée par round.{br}
+**Avantage.** Lorsqu'un personnage incante un sort emmagasiné, celui-ci ne prend pas effet immédiatement, mais son énergie magique est emmagasinée pour pouvoir être facilement et rapidement récupérée plus tard. A partir du round suivant, le lanceur de sort pourra décider d'utiliser le sort emmagasiné en achevant l’incantation au prix d'une [[Pathfinder-RPG.action rapide|action rapide]]. Cela lui permettra notamment de pouvoir jeter un second sort au cours de ce rounds. D'autre part, les sorts emmagasinés ne provoquent pas d'[[Pathfinder-RPG.attaque dopportunité|attaque d'opportunité]]. Les choix concernant les différents paramètres du sort, comme la zone ou la cible affectée sont effectués lors de cette action rapide et non lors de la première incantation.{br}
+Seuls les sorts ayant un temps d'incantation d'une [[Pathfinder-RPG.action simple|action simple]] peuvent bénéficier de l'effet de ce don. De plus, un seul sort peut être emmagasiné à la fois, et une seule [[Pathfinder-RPG.action rapide|action rapide]] peut être effectuée par round.{br}
 Un sort emmagasiné nécessite au minimum un emplacement de sort supérieur de deux niveau au niveau initial du sort, mais le personnage peut sacrifier des emplacement de plus haut niveau s'il le souhaite. Le nombre maximal de rounds durant lesquels un lanceur de sort peut retenir un sort emmagasiné est repris dans le tableau ci-dessous. {br}
-**Normal.** Seuls quelques rares sorts peuvent êtres lancés par une [action rapide](./../Pathfinder-RPG/Action rapide.md), ainsi que les sorts lancé avec le don [incantation rapide](./../Pathfinder-RPG/Incantation rapide.md).
+**Normal.** Seuls quelques rares sorts peuvent êtres lancés par une [[Pathfinder-RPG.action rapide|action rapide]], ainsi que les sorts lancé avec le don [[Pathfinder-RPG.incantation rapide|incantation rapide]].
 
 <center>
 {| CLASS="tablo"

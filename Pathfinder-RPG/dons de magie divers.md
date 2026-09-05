@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}{s:UM}{s:UC}<div class="description">***Note.** Cette page est un regroupement <u>non-officiel</u> de dons qui agissent dans un même cadre. Référez-vous à [cette page](./Dons.md) pour trouver les distinctions officielles de chaque type de don.*</div>
+{s:APG}{s:UM}{s:UC}<div class="description">***Note.** Cette page est un regroupement <u>non-officiel</u> de dons qui agissent dans un même cadre. Référez-vous à [[Dons|cette page]] pour trouver les distinctions officielles de chaque type de don.*</div>
 
 <center>
 {| CLASS="tablo autoalt toutgauche"
@@ -20,49 +20,49 @@ Categories:
 |- CLASS="premier"
 | Combat et magie  || &emsp; || &emsp;
 |-
-| &emsp;[Frappe magique](./Frappe magique.md)*
+| &emsp;[[Frappe magique]]*
 | Capacité à lancer des sorts profanes
 | +1 aux dégâts, armes considérées comme magiques
 |-
-| &emsp;[Magie de guerre](./Magie de guerre.md) || - || +4 aux tests de [concentration](./concentration.md) pour incanter un sort sur la défensive
+| &emsp;[[Magie de guerre]] || - || +4 aux tests de [[concentration]] pour incanter un sort sur la défensive
 |-
-| &emsp;&emsp;[Concentration instinctive](./Concentration instinctive.md)<sup>um</sup> || [Magie de guerre](./Magie de guerre.md) || Pas de test de [concentration](./concentration.md) en cas de mouvement violent, bonus de +2 sur tous les autres
+| &emsp;&emsp;[[Concentration instinctive]]<sup>um</sup> || [[Magie de guerre]] || Pas de test de [[concentration]] en cas de mouvement violent, bonus de +2 sur tous les autres
 |-
-| &emsp;[Prêtre guerrier](./Prêtre guerrier.md)<sup>um</sup> || capacité à lancer des sorts divins, domaine ou mystère || bonus +1 initiative et +2 aux tests de [concentration](./concentration.md) pour incanter sur la défensive
+| &emsp;[[Prêtre guerrier]]<sup>um</sup> || capacité à lancer des sorts divins, domaine ou mystère || bonus +1 initiative et +2 aux tests de [[concentration]] pour incanter sur la défensive
 |- CLASS="premier"
 | Contresort || &emsp; || &emsp;
 |-
-| &emsp;[Bluff magique](./Bluff magique.md)<sup>um</sup> || 5 [rangs](./rang.md) en [Bluff](./Bluff.md) et en [Art de la magie](./Art de la magie.md) || Le personnage [bluffe](./Bluff.md) les autres lanceurs de sorts, ce qui augmente le [DD](./DD.md) pour identifier ses sorts
+| &emsp;[[Bluff magique]]<sup>um</sup> || 5 [[rang|rangs]] en [[Bluff]] et en [[Art de la magie]] || Le personnage [[Bluff|bluffe]] les autres lanceurs de sorts, ce qui augmente le [[DD]] pour identifier ses sorts
 |-
-| &emsp;[Science du contresort](./Science du contresort.md) || - || Capacité à [contrer un sort](./contresort.md) à l’aide d’un autre sort de la même [école](./Écoles de magie.md)
+| &emsp;[[Science du contresort]] || - || Capacité à [[contresort|contrer un sort]] à l’aide d’un autre sort de la même [[écoles de magie|école]]
 |-
-| &emsp;&emsp;[Parade de sorts](./Parade de sorts.md)<sup>APG</sup> || [Art de la magie](./Art de la magie.md) 15 [rangs](./rang.md), [Science du contresort](./Science du contresort.md) || Renvoyer un sort contré vers le lanceur
+| &emsp;&emsp;[[Parade de sorts]]<sup>APG</sup> || [[Art de la magie]] 15 [[rang|rangs]], [[Science du contresort]] || Renvoyer un sort contré vers le lanceur
 |- CLASS="premier"
 | Magie divine || &emsp; || &emsp;
 |-
-| &emsp;[Convocation sacrée](./Convocation sacrée.md)<sup>um</sup> || Aura, *convocation de monstres* || Convoque des monstres dont le sous-type d’alignement correspond à celui du personnage par une [action simple](./Action simple.md)
+| &emsp;[[Convocation sacrée]]<sup>um</sup> || Aura, *convocation de monstres* || Convoque des monstres dont le sous-type d’alignement correspond à celui du personnage par une [[action simple]]
 |-
-| &emsp;[Interférence divine](./Interférence divine.md)<sup>um</sup> || Lanceur de sorts divins, lanceur de sorts niveau 10 || Sacrifie un sort pour obliger un ennemi à refaire un [jet d’attaque](./jet dattaque.md) réussi contre un allié
+| &emsp;[[Interférence divine]]<sup>um</sup> || Lanceur de sorts divins, lanceur de sorts niveau 10 || Sacrifie un sort pour obliger un ennemi à refaire un [[jet dattaque|jet d’attaque]] réussi contre un allié
 |-
-| &emsp;[Théurgie](./Théurgie.md)<sup>um</sup> || [Sag](./Sag.md) 13, [Int](./Int.md) ou [Cha](./Cha.md) 13, capacité à lancer des sorts profanes et divins de niveau 1 || Améliore les sorts profanes avec de l’énergie divine et inversement
+| &emsp;[[Théurgie]]<sup>um</sup> || [[Sag]] 13, [[Int]] ou [[Cha]] 13, capacité à lancer des sorts profanes et divins de niveau 1 || Améliore les sorts profanes avec de l’énergie divine et inversement
 |- CLASS="premier"
 | Percer la Résistance à la Magie || &emsp; || &emsp;
 |-
-| &emsp;[Efficacité des sorts accrue](./Efficacité des sorts accrue.md) || - || +2 au [test de niveau de lanceur de sorts](./test de niveau de lanceur de sorts.md) pour vaincre la [résistance à la magie](./résistance à la magie.md)
+| &emsp;[[Efficacité des sorts accrue]] || - || +2 au [[test de niveau de lanceur de sorts]] pour vaincre la [[résistance à la magie]]
 |-
-| &emsp;&emsp;[Efficacité des sorts accrue supérieure](./Efficacité des sorts accrue supérieure.md) || [Efficacité des sorts accrue](./Efficacité des sorts accrue.md) || +2 au [test de niveau de lanceur de sorts](./test de niveau de lanceur de sorts.md) pour vaincre la [résistance à la magie](./résistance à la magie.md)
+| &emsp;&emsp;[[Efficacité des sorts accrue supérieure]] || [[Efficacité des sorts accrue]] || +2 au [[test de niveau de lanceur de sorts]] pour vaincre la [[résistance à la magie]]
 |- CLASS="premier"
 | Pouvoirs magiques || &emsp; || &emsp;
 |-
-| &emsp;[Expertise magique mineure](./Expertise magique mineure.md)<sup>APG</sup> || Capacités de lancer des sorts du 4e niveau || Lancer un sort de 1er niveau comme [pouvoir magique](./pouvoir magique.md) 2/jour
+| &emsp;[[Expertise magique mineure]]<sup>APG</sup> || Capacités de lancer des sorts du 4e niveau || Lancer un sort de 1er niveau comme [[pouvoir magique]] 2/jour
 |-
-| &emsp;&emsp;[Expertise magique majeure](./Expertise magique majeure.md)<sup>APG</sup> || [Expertise magique mineure](./Expertise magique mineure.md), sorts de niveau 9 || Lancer un sort de niveau inférieur ou égal à 5 comme [pouvoir magique](./pouvoir magique.md) 2/jour
+| &emsp;&emsp;[[Expertise magique majeure]]<sup>APG</sup> || [[Expertise magique mineure]], sorts de niveau 9 || Lancer un sort de niveau inférieur ou égal à 5 comme [[pouvoir magique]] 2/jour
 |- CLASS="premier"
 | Transformation de sorts || &emsp; || &emsp;
 |-
-| &emsp;[Attaque magique](./Attaque magique.md)<sup>APG</sup> || Lanceur de sorts profanes, [NLS](./NLS.md) 10 || Sacrifier un sort, gagner une attaque de rayon
+| &emsp;[[Attaque magique]]<sup>APG</sup> || Lanceur de sorts profanes, [[NLS]] 10 || Sacrifier un sort, gagner une attaque de rayon
 |-
-| &emsp;[Bouclier magique](./Bouclier magique.md)<sup>APG</sup> || Lanceur de sorts profanes, [NLS](./NLS.md) 10 || Sacrifier un sort, gagner un bonus de parade à la [CA](./CA.md)
+| &emsp;[[Bouclier magique]]<sup>APG</sup> || Lanceur de sorts profanes, [[NLS]] 10 || Sacrifier un sort, gagner un bonus de parade à la [[CA]]
 |}
 </center>
 *Les dons marqués de <sup>APG</sup> proviennent du Manuel des Joueurs - Règles Avancées.*   

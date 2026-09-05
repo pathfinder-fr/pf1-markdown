@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Placement
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Placement](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Placement)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Placement]]

@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Divination](./école divination.md) ; **Niveau** [alchimiste](./Alchimiste.md) 2, [barde](./Barde.md) 2, [conjurateur](./Conjurateur.md) 2, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 2, [inquisiteur](./Inquisiteur.md) 2, [sorcière](./Sorcière.md) 2  
+**École** [[école divination|Divination]] ; **Niveau** [[alchimiste]] 2, [[barde]] 2, [[conjurateur]] 2, [[ensorceleur]]/[[magicien]] 2, [[inquisiteur]] 2, [[sorcière]] 2  
 
-**Durée** [Concentration](./Présentation des sorts.md#DUREE) , jusqu'à 1 minute/[niveau](./niveau.md) (T)  
+**Durée** [[Présentation des sorts#DUREE|Concentration]] , jusqu'à 1 minute/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non  
 
-**Restriction de cible** *[cône](./Cône (mot de pouvoir).md)*
+**Restriction de cible** *[[cône (mot de pouvoir)|cône]]*
 
-Ce mot permet au lanceur de détecter et de lire les pensées de surface d’une créature située dans la zone d’effet du sort s’il est conscient de sa présence et si elle rate un jet de Volonté. Si elle le réussit, il ne peut pas savoir ce qu’elle pense pendant toute la durée du sort. Si l’[Intelligence](./Intelligence.md) de la cible dépasse d’au moins 10 celle du lanceur et qu’elle réussit son jet de [Volonté](./Volonté.md), elle est capable de lire les pensées de surface du personnage pendant toute la durée du sort tandis que ce dernier ne peut rien apprendre. Il peut se concentrer sur une nouvelle créature à chaque [round](./round.md) s’il le souhaite.
+Ce mot permet au lanceur de détecter et de lire les pensées de surface d’une créature située dans la zone d’effet du sort s’il est conscient de sa présence et si elle rate un jet de Volonté. Si elle le réussit, il ne peut pas savoir ce qu’elle pense pendant toute la durée du sort. Si l’[[Intelligence]] de la cible dépasse d’au moins 10 celle du lanceur et qu’elle réussit son jet de [[Volonté]], elle est capable de lire les pensées de surface du personnage pendant toute la durée du sort tandis que ce dernier ne peut rien apprendre. Il peut se concentrer sur une nouvelle créature à chaque [[round]] s’il le souhaite.

@@ -14,24 +14,24 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 - *Source : Bestiaire 2, p.121*
 - **PX** 800
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, N
-- **Init ** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9
+- [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, N
+- **Init ** +2 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +9
 (((Défense)))
 - **CA** 16, contact 12, pris au dépourvu 14 (Dex +2, naturelle +4)
 - **pv** 26 (4d10+4)
 - **Réf** +6, **Vig** +2, **Vol** +6
 (((Attaque)))
 - **VD** 9 m (6 {s:c})
-- **Corps à corps** 2 griffes, +6 (1d6+1 plus [étreinte](./Étreinte.md))
+- **Corps à corps** 2 griffes, +6 (1d6+1 plus [[étreinte]])
 - **Attaques spéciales** explosion éblouissante
 - **Pouvoirs magiques** (NLS 3 ; concentration +6)
-  - 1/jour — *[changement de plan](./Changement de plan.md)* (lui-même uniquement, seulement vers le plan des Ombres)
+  - 1/jour — *[[changement de plan]]* (lui-même uniquement, seulement vers le plan des Ombres)
 (((Statistiques)))
 - **For** 13, **Dex** 15, **Con** 12, **Int** 13, **Sag** 14, **Cha** 16
 - **BBA** +4 ; **BMO** +5 (+9 lutte) ; **DMD** 17
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaques réflexes](./Attaques réflexes.md)
-- **Compétences** [Connaissances](./Connaissances.md) (mystères) +8, [Connaissances](./Connaissances.md) (plans) +8, [Discrétion](./Discrétion.md) +9, [Escalade](./Escalade.md) +8, [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +9, [Survie](./Survie.md) +7, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +8
-- **Langues** d’ziriak ; [télépathie](./Télépathie.md) 30 m (20 {s:c})
+- **Dons** [[Arme de prédilection]] (griffe), [[Attaques réflexes]]
+- **Compétences** [[Connaissances]] (mystères) +8, [[Connaissances]] (plans) +8, [[Discrétion]] +9, [[Escalade]] +8, [[Perception]] +9, [[Psychologie]] +9, [[Survie]] +7, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +8
+- **Langues** d’ziriak ; [[télépathie]] 30 m (20 {s:c})
 - **Particularités** lueur
 (((Écologie)))
 - **Environnement** terre ferme (plan des Ombres)

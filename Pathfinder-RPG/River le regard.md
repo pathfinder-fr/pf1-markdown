@@ -16,18 +16,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 1, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-Le personnage oblige sa cible à le regarder, à l’exclusion de toute autre chose, pendant toute la durée du sort ou jusqu’à ce qu’il se décharge. Tant que la cible le fixe, elle détourne son regard de toutes les autres créatures qui bénéficient alors d’un [camouflage](./camouflage.md) contre ses attaques. Si la cible fait volontairement passer le personnage hors de sa ligne de mire, elle est [aveugle](./Aveuglé.md) pendant 1 [round](./round.md) et le sort se termine. En revanche, si c’est le personnage qui sort volontairement de sa ligne de mire ou s’il tombe mort ou [inconscient](./Inconscient.md), la cible du sort ne subit aucun effet néfaste. Les créatures aveugles et les créatures [immunisées](./Immunité (capacité).md) contre les attaques de regard sont [immunisées](./Immunité (capacité).md) contre ce sort.
+Le personnage oblige sa cible à le regarder, à l’exclusion de toute autre chose, pendant toute la durée du sort ou jusqu’à ce qu’il se décharge. Tant que la cible le fixe, elle détourne son regard de toutes les autres créatures qui bénéficient alors d’un [[camouflage]] contre ses attaques. Si la cible fait volontairement passer le personnage hors de sa ligne de mire, elle est [[aveuglé|aveugle]] pendant 1 [[round]] et le sort se termine. En revanche, si c’est le personnage qui sort volontairement de sa ligne de mire ou s’il tombe mort ou [[inconscient]], la cible du sort ne subit aucun effet néfaste. Les créatures aveugles et les créatures [[immunité (capacité)|immunisées]] contre les attaques de regard sont [[immunité (capacité)|immunisées]] contre ce sort.

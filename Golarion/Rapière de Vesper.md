@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Rapière de Vesper.md).***
+***Voir les [[Pathfinder-RPG.Rapière de Vesper|statistiques de cet artefact]].***
 
 Cette lame élégante est teintée du même bleu que l’on retrouve sur les facettes des trois cabochons sertis dans son quillon. Sa poignée, visiblement faite de fibres métalliques tissées aussi fines que des cheveux, est enveloppée d’un cuir vert-noir.
 

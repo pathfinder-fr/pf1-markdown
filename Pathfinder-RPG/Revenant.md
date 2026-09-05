@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Mort-vivant|Ville|Tempéré}
 {s:BDTexte|<i>Source : Bestiaire 2 p.243</i>}
 {s:BDTexte|<b>PX</b> 2400}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, LM}
-{s:BDTexte|<b>Init</b> +7 ; <b>Sens</b> perception de l'assassin, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, LM}
+{s:BDTexte|<b>Init</b> +7 ; <b>Sens</b> perception de l'assassin, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 19, contact 13, pris au dépourvu 16 (Dex +3, naturelle +6)}
 {s:BDTexte|<b>pv</b> 76 (9d8+36)}
@@ -29,9 +29,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 24 , <b>Dex</b> 17, <b>Con</b> --, <b>Int</b> 7, <b>Sag</b> 12, <b>Cha</b> 19}
 {s:BDTexte|<b>BBA</b> +6, <b>BMO</b> +13 (+17 lutte), <b>DMD</b> 26}
-{s:BDTexte|<b>Dons</b> [Arme de prédilection (griffe)](./Arme de prédilection.md), [Attaque en puissance](./Attaque en puissance.md),
-[Enchaînement](./Enchaînement.md), [S’avancer](./Savancer.md), [Science de l’initiative](./Science de linitiative.md) }
-{s:BDTexte|<b>Compétences</b> [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +13}
+{s:BDTexte|<b>Dons</b> [[Arme de prédilection|Arme de prédilection (griffe)]], [[Attaque en puissance]],
+[[Enchaînement]], [[savancer|S’avancer]], [[science de linitiative|Science de l’initiative]] }
+{s:BDTexte|<b>Compétences</b> [[Intimidation]] +16, [[Perception]] +13}
 {s:BDTexte|<b>Langues</b> commun}
 {s:BDTexte|<b>Particularités</b> origine de la haine}
 {s:BDSousTitre|Écologie}

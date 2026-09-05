@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-La ville de Karcau est le plus important centre de population du comté de [Sinaria](./Sinaria.md) en [Ustalav](./Ustalav.md). Elle est située sur la rive ouest du [lac Prophyre](./lac Prophyre.md) dont les eaux avancent jusqu'au coeur de la cité en un dédale de canaux.
+La ville de Karcau est le plus important centre de population du comté de [[Sinaria]] en [[Ustalav]]. Elle est située sur la rive ouest du [[lac Prophyre]] dont les eaux avancent jusqu'au coeur de la cité en un dédale de canaux.
 
-La cité est connue dans tout [Golarion](./Golarion.md) pour être un phare de la civilisation dans une région de ténèbres et de monotone sauvagerie. Elle est surtout réputée pour son opéra et pour être un lieu où ont été formés de très nombreux génies de la musique dont elle encourage la formation. C'est cette réputation qui lui a valu le surnom de Village des Voix.
+La cité est connue dans tout [[Golarion]] pour être un phare de la civilisation dans une région de ténèbres et de monotone sauvagerie. Elle est surtout réputée pour son opéra et pour être un lieu où ont été formés de très nombreux génies de la musique dont elle encourage la formation. C'est cette réputation qui lui a valu le surnom de Village des Voix.

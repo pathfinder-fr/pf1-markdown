@@ -8,8 +8,8 @@ Categories:
 ---
 
 {s:RSE}**Prix** 75 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Ceci est une mixture d’extraits de glandes olfactives et d’herbes aromatiques qui sert à la fois d’attracteur et de camouflage olfactif. Il remplace l’odeur naturelle d’une créature par un musc attirant quoique fort qui est attractif pour la plupart des animaux. L’odeur de bête procure un bonus de circonstances de +2 pour les tests de [Dressage](./Dressage.md) et d’[empathie sauvage](./Druide.md#EMPATHIESAUVAGE) et une pénalité de -5 pour tenter de trouver une cible parfumée de cette mixture grâce à son odeur naturelle. Si celui qui essaie de localiser cette même cible la cherche en suivant l’odeur de bête, il obtient un bonus de +10.  
+Ceci est une mixture d’extraits de glandes olfactives et d’herbes aromatiques qui sert à la fois d’attracteur et de camouflage olfactif. Il remplace l’odeur naturelle d’une créature par un musc attirant quoique fort qui est attractif pour la plupart des animaux. L’odeur de bête procure un bonus de circonstances de +2 pour les tests de [[Dressage]] et d’[[Druide#EMPATHIESAUVAGE|empathie sauvage]] et une pénalité de -5 pour tenter de trouver une cible parfumée de cette mixture grâce à son odeur naturelle. Si celui qui essaie de localiser cette même cible la cherche en suivant l’odeur de bête, il obtient un bonus de +10.  
   
-Une unique fiole d’odeur de bête masque celle d’une créature de taille M ou de deux créatures plus petites ; les plus grandes créatures ont besoin d’une quantité supplémentaire proportionnelle pour que la mixture fasse effet. L’odeur de bête devient inerte après une heure d’exposition à l’air. Appliquer le contenu d’une fiole est une [action complexe](./Action complexe.md) qui provoque des [attaques d’opportunité](./AO.md).
+Une unique fiole d’odeur de bête masque celle d’une créature de taille M ou de deux créatures plus petites ; les plus grandes créatures ont besoin d’une quantité supplémentaire proportionnelle pour que la mixture fasse effet. L’odeur de bête devient inerte après une heure d’exposition à l’air. Appliquer le contenu d’une fiole est une [[action complexe]] qui provoque des [[AO|attaques d’opportunité]].

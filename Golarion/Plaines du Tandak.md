@@ -7,6 +7,6 @@ Categories:
 - Taldor
 ---
 
-Plaines centrales du [Taldor](./Taldor.md) qui s'étendent depuis les [Monts Brumeux](./Monts Brumeux.md) au nord jusqu'à la ville de [Zimar](./Zimar.md) au sud. Elles sont irriguées par les réseaux hydrographiques et les nombreux canaux issus de la [Fourche du Verduran](./Fourche du Verduran.md) et du fleuve [Porthmos](./Porthmos.md).
+Plaines centrales du [[Taldor]] qui s'étendent depuis les [[Monts Brumeux]] au nord jusqu'à la ville de [[Zimar]] au sud. Elles sont irriguées par les réseaux hydrographiques et les nombreux canaux issus de la [[Fourche du Verduran]] et du fleuve [[Porthmos]].
 
 Elles étaient à l'origine occupées par une immense forêt primaire mais 6 000 ans de civilisation ont provoqué la déforestation de la majeure partie du territoire taldan, donnant naissance à cette immense zone aujourd'hui essentiellement agricole.

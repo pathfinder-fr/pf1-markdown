@@ -13,30 +13,30 @@ Categories:
 {s:BDTitre|Thoqqua|FP 2}
 - *Source : Bestiaire 2, p.267*
 - **PX** 600
-- [Extérieur](./type Extérieur.md) ([élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [Feu](./sous-type Feu.md), [Terre](./sous-type Terre.md)) de taille M, N
-- **Init** +1 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +10
+- [[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]], [[sous-type Terre|Terre]]) de taille M, N
+- **Init** +1 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +10
 (((Défense)))
 - **CA** 15, contact 11, pris au dépourvu 14 (Dex +1, naturelle +4)
 - **pv** 22 (3d10+6)
 - **Réf** +4, **Vig** +5, **Vol** +2
-- **Capacités défensives** corps en fusion ; Immunités feu, [traits des élémentaires](./sous-type élémentaire.md)
-- **Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au froid
+- **Capacités défensives** corps en fusion ; Immunités feu, [[sous-type élémentaire|traits des élémentaires]]
+- **Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au froid
 (((Attaque)))
 - **VD** 9 m (6 {s:c}), creusement 6 m (4 {s:c})
-- **Corps à corps** coup, +4 (1d6+1 plus [combustion](./Combustion.md))
-- **Attaques spéciales** [combustion](./Combustion.md) (1d6, DD 13)
+- **Corps à corps** coup, +4 (1d6+1 plus [[combustion]])
+- **Attaques spéciales** [[combustion]] (1d6, DD 13)
 (((Statistiques)))
 - **For** 13, **Dex** 13, **Con** 15, **Int** 6, **Sag** 12, **Cha** 10
-- **BBA** +3 ; **BMO** +4 ; **DMD** 15 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Aisance](./Aisance.md), [Talent](./Talent.md) ([Perception](./Perception.md))
-- **Compétences** [Acrobaties](./Acrobaties.md) +7, [Discrétion](./Discrétion.md) +7, [Perception](./Perception.md) +10, [Survie](./Survie.md) +7
+- **BBA** +3 ; **BMO** +4 ; **DMD** 15 ([[croc-en-jambe]] impossible)
+- **Dons** [[Aisance]], [[Talent]] ([[Perception]])
+- **Compétences** [[Acrobaties]] +7, [[Discrétion]] +7, [[Perception]] +10, [[Survie]] +7
 - **Langues** igné (incapable de parler)
 (((Écologie)))
 - **Environnement** terre ferme (plan du Feu)
 - **Organisation sociale** solitaire ou couple
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
-- **Corps en fusion (Sur).** Le corps d’un thoqqua est suffisamment chaud pour faire fondre la pierre. Les créatures qui frappent un thoqqua à l’aide d’une arme naturelle ou d’une attaque à mains nues subissent 1d6 points de dégâts de feu. Les créatures qui agrippent un thoqqua ou qui sont [agrippées](./Agrippé.md) par un thoqqua subissent 3d6 points de dégâts de feu par round tant que l’étreinte persiste. Les créatures qui frappent un thoqqua à l’aide d’une arme manufacturée peuvent tenter un jet de Réflexes contre un DD de 13 afin d’éloigner l’arme assez rapidement du corps de la créature pour éviter que l’objet ne subisse 1d6 points de dégâts de feu (les dégâts infligés à une arme de cette manière ne sont pas divisés par deux comme c’est normalement le cas pour les dégâts infligés à des objets ; de plus, ils ignorent les 5 premiers points de solidité que l’arme possède). La plupart des armes en métal peuvent donc frapper un thoqqa sans risquer d’être vraiment endommagées, mais les armes en bois ont de grandes chances de brûler lorsqu’elles sont utilisées contre une de ces créatures. Le DD du jet de sauvegarde dépend de la Constitution.
+- **Corps en fusion (Sur).** Le corps d’un thoqqua est suffisamment chaud pour faire fondre la pierre. Les créatures qui frappent un thoqqua à l’aide d’une arme naturelle ou d’une attaque à mains nues subissent 1d6 points de dégâts de feu. Les créatures qui agrippent un thoqqua ou qui sont [[agrippé|agrippées]] par un thoqqua subissent 3d6 points de dégâts de feu par round tant que l’étreinte persiste. Les créatures qui frappent un thoqqua à l’aide d’une arme manufacturée peuvent tenter un jet de Réflexes contre un DD de 13 afin d’éloigner l’arme assez rapidement du corps de la créature pour éviter que l’objet ne subisse 1d6 points de dégâts de feu (les dégâts infligés à une arme de cette manière ne sont pas divisés par deux comme c’est normalement le cas pour les dégâts infligés à des objets ; de plus, ils ignorent les 5 premiers points de solidité que l’arme possède). La plupart des armes en métal peuvent donc frapper un thoqqa sans risquer d’être vraiment endommagées, mais les armes en bois ont de grandes chances de brûler lorsqu’elles sont utilisées contre une de ces créatures. Le DD du jet de sauvegarde dépend de la Constitution.
 
 </div>
 </td><td><div>*L’épais corps serpentin de cette créature est protégé par de robustes plaques munies d’épines. Une aura de chaleur bien visible émane de ses écailles rouges comme la lave.*
@@ -68,7 +68,7 @@ pas immédiatement les humanoïdes qui se trouvent sur son
 territoire, il en vient à considérer peu à peu cette communauté
 comme sa propriété et peut même la protéger.
 
-Les [méphites](./Méphite.md) semblent comprendre la manière de
+Les [[méphite|méphites]] semblent comprendre la manière de
 penser des thoqquas et, de temps en temps, ils passent des
 marchés avec ces vers simples d’esprit. Selon les méphites,
 les ancêtres des thoqquas actuels, des créatures de la taille

@@ -14,9 +14,9 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.62*}
 {s:BDTexte|**PX** 307.200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, CM}
-{s:BDTexte|**Init** +11 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), *[vision lucide](./Vision lucide.md)*, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +38}
-{s:BDTexte|**Aura** *[aura maudite](./Aura maudite.md)* (DD 26), corps enflammé}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille G, CM}
+{s:BDTexte|**Init** +11 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), *[[vision lucide]]*, [[vision nocturne]] ; [[Perception]] +38}
+{s:BDTexte|**Aura** *[[aura maudite]]* (DD 26), corps enflammé}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 36, contact 20, pris au dépourvu 29 (Dex +7, naturelle +16, parade +4, taille -1)}
 {s:BDTexte|**pv** 370 (20d10+260)}
@@ -27,31 +27,31 @@ Categories:
 {s:BDTexte|**Corps à corps** *épée longue vorpale maudite +1*, +31/+26/+21/+16 (2d6+13), *fouet vorpal de feu +1*, +30/+25/+20 (1d4+7 et 1d6 feu et enchevêtrement) ou 2 coups +31 (1d10+12)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c}) (6 m (4 {s:c}) pour le fouet)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 20<sup>e</sup>)}
-{s:BDSorts|Constant — *[aura maudite](./Aura maudite.md)* (DD 26), *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|À volonté — *[dissipation suprême](./Dissipation suprême.md)*, *[domination universelle](./Domination universelle.md)* (DD 27), *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*, *[télékinésie](./Télékinésie.md)* (DD 23), *[téléportation suprême](./Téléportation suprême.md)* (lui-même et 25 kg d'objets uniquement)}
-{s:BDSorts|3/jour — *[télékinésie](./Télékinésie.md)*en [incantation rapide](./Incantation rapide.md)  (DD 23)}
-{s:BDSorts|1/jour — *[blasphème](./Blasphème.md)* (DD 25), *[convocation](./convocation.md)* (niveau 9, un démon de FP inférieur ou égal à 19 <nowiki>[</nowiki>au choix<nowiki>]</nowiki>, 100%), *[implosion](./Implosion.md)* (DD 27), *[tempête de feu](./Tempête de feu.md)* (DD 26)}
+{s:BDSorts|Constant — *[[aura maudite]]* (DD 26), *[[vision lucide]]*}
+{s:BDSorts|À volonté — *[[dissipation suprême]]*, *[[domination universelle]]* (DD 27), *[[mot de pouvoir étourdissant]]*, *[[télékinésie]]* (DD 23), *[[téléportation suprême]]* (lui-même et 25 kg d'objets uniquement)}
+{s:BDSorts|3/jour — *[[télékinésie]]*en [[incantation rapide]]  (DD 23)}
+{s:BDSorts|1/jour — *[[blasphème]]* (DD 25), *[[convocation]]* (niveau 9, un démon de FP inférieur ou égal à 19 <nowiki>[[</nowiki>au choix<nowiki>]]</nowiki>, 100%), *[[implosion]]* (DD 27), *[[tempête de feu]]* (DD 26)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 35, **Dex** 25, **Con** 36, **Int** 24, **Sag** 24, **Cha** 27}
 {s:BDTexte|**BBA** +20, **BMO** +33, **DMD** 54}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée longue), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Combat à deux armes](./Combat à deux armes.md), [Combat à deux armes supérieur](./Combat à deux armes supérieur.md), [Enchaînement](./Enchaînement.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (*[télékinésie](./Télékinésie.md)*), [Science de l'initiative](./Science de linitiative.md), [Science du combat à deux armes](./Science du combat à deux armes.md), [Volonté de fer](./Volonté de fer.md) }
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +27, [Bluff](./Bluff.md) +31, [Connaissances](./Connaissances.md) (histoire) +27, [Connaissances](./Connaissances.md) (noblesse) +27, [Connaissances](./Connaissances.md) (plans) +30, [Connaissances](./Connaissances.md) (religion) +27, [Diplomatie](./Diplomatie.md) +31, [Discrétion](./Discrétion.md) +26, [Intimidation](./Intimidation.md) +31, [Perception](./Perception.md) +38, [Psychologie](./Psychologie.md) +30, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +31, [Vol](./Vol.md) +32 ; **Modificateurs raciaux** [Perception](./Perception.md) +8}
-{s:BDTexte|**Langues** abyssal, céleste, draconique ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée longue), [[Attaque en puissance]], [[Attaques réflexes]], [[Combat à deux armes]], [[Combat à deux armes supérieur]], [[Enchaînement]], [[Pouvoir magique rapide]] (*[[télékinésie]]*), [[Science de linitiative|Science de l'initiative]], [[Science du combat à deux armes]], [[Volonté de fer]] }
+{s:BDTexte|**Compétences** [[Acrobaties]] +27, [[Bluff]] +31, [[Connaissances]] (histoire) +27, [[Connaissances]] (noblesse) +27, [[Connaissances]] (plans) +30, [[Connaissances]] (religion) +27, [[Diplomatie]] +31, [[Discrétion]] +26, [[Intimidation]] +31, [[Perception]] +38, [[Psychologie]] +30, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +31, [[Vol]] +32 ; **Modificateurs raciaux** [[Perception]] +8}
+{s:BDTexte|**Langues** abyssal, céleste, draconique ; [[télépathie]] 30 m (20 {s:c})}
 {s:BDTexte|**Particularités** attaque vorpale, dernier sursaut, maîtrise des fouets}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Abysse)}
-{s:BDTexte|**Organisation sociale** solitaire ou groupe de combat (1 balor et 2-5 [glabrezus](./Glabrezu.md))}
+{s:BDTexte|**Organisation sociale** solitaire ou groupe de combat (1 balor et 2-5 [[glabrezu|glabrezus]])}
 {s:BDTexte|**Trésor** standard (*épée longue +1 maudite*, *fouet +1 de feu*, autres trésors)}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Attaque vorpale (Sur)** Toutes les armes tranchantes maniées par un balor (y compris l'épée longue et le fouet qu'ils utilisent généralement) gagnent la propriété [vorpale](./vorpale (propriété).md). Une fois lâchées par le balor, elles conservent cette qualité pendant 1 heure avant de retourner à leur état normal (magique ou pas).}
-{s:BDTexte|**Corps enflammé (Sur)** Des flammes dansent sur tout le corps du balor. un individu qui frappe un balor avec une arme naturelle ou à mains nues subit 1d6 points de dégâts de feu. Les créatures qui agrippent un balor ou sont [agrippées](./Agrippé.md) par lui subissent 6d6 points de dégâts de feu par round tant que cette situation persiste.}
-{s:BDTexte|**Dernier sursaut (Sur)** Lorsqu'un balor est tué, il provoque une explosion de feu aveuglante qui inflige 100 points de dégâts (50% de dégâts de feu et 50% de dégâts maudits) à tout ce qui se trouve dans un rayon de 30 m (20 {s:c}) (un jet de [Réflexes](./Réflexes.md) de [DD](./DD.md) 33 permet de diviser les dégâts par deux). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Enchevêtrement (Ext)** Si un balor frappe un ennemi de taille inférieure ou égale à M avec son fouet, il peut immédiatement effectuer un test de [lutte](./lutte.md) sans provoquer d'[attaque d'opportunité](./attaque dopportunité.md). S'il réussit ce test, il attire l'ennemi dans un emplacement adjacent au sien et l'ennemi devient [agrippé](./Agrippé.md) (mais pas le balor.}
+{s:BDTexte|**Attaque vorpale (Sur)** Toutes les armes tranchantes maniées par un balor (y compris l'épée longue et le fouet qu'ils utilisent généralement) gagnent la propriété [[vorpale (propriété)|vorpale]]. Une fois lâchées par le balor, elles conservent cette qualité pendant 1 heure avant de retourner à leur état normal (magique ou pas).}
+{s:BDTexte|**Corps enflammé (Sur)** Des flammes dansent sur tout le corps du balor. un individu qui frappe un balor avec une arme naturelle ou à mains nues subit 1d6 points de dégâts de feu. Les créatures qui agrippent un balor ou sont [[agrippé|agrippées]] par lui subissent 6d6 points de dégâts de feu par round tant que cette situation persiste.}
+{s:BDTexte|**Dernier sursaut (Sur)** Lorsqu'un balor est tué, il provoque une explosion de feu aveuglante qui inflige 100 points de dégâts (50% de dégâts de feu et 50% de dégâts maudits) à tout ce qui se trouve dans un rayon de 30 m (20 {s:c}) (un jet de [[Réflexes]] de [[DD]] 33 permet de diviser les dégâts par deux). Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|**Enchevêtrement (Ext)** Si un balor frappe un ennemi de taille inférieure ou égale à M avec son fouet, il peut immédiatement effectuer un test de [[lutte]] sans provoquer d'[[attaque dopportunité|attaque d'opportunité]]. S'il réussit ce test, il attire l'ennemi dans un emplacement adjacent au sien et l'ennemi devient [[agrippé]] (mais pas le balor.}
 {s:BDTexte|**Maîtrise des fouets (Ext)** Lorsqu'un balor combat avec deux armes, il traite les fouets comme des armes légères et ceux-ci peuvent infliger des dégâts létaux à ses ennemis quel que soit leur bonus d'armure ou d'armure naturelle.}
 </div>
 
 {s:ImageCentre|Bestiaire/Balor.jpg|95%}
-</td><td width="50%"><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+</td><td width="50%"><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 *Les cornes de ce fiélon ailé, ses crocs, sa peau qui semble produire des flammes, tout en lui incarne la forme démoniaque parfaite.*
 
 Lorsque les gens racontent à voix basse des histoires à faire peur

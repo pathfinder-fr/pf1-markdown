@@ -10,7 +10,7 @@ Categories:
 
 {s:um}*Le personnage a percé les secrets d’un nouvel arcane de magus. *
 
-**Condition.** Pouvoir de classe de [magus](./Magus.md) [arcane](./Magus.md#ARCANE)
+**Condition.** Pouvoir de classe de [[magus]] [[Magus#ARCANE|arcane]]
 
 **Avantage.** Le personnage obtient un arcane de magus supplémentaire. Il doit remplir les conditions requises.
 

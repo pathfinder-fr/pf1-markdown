@@ -8,10 +8,10 @@ LastModified: 2014-11-14 00:30
 
 <b>Accès :</b> Mon Personnage/Barre d'outils/Bouton
 
-[My Hero|Retour racine du Manuel]</div>
+[[My Hero|Retour racine du Manuel]]</div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/Slide17.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide18.jpg|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MonPerso|Mon Personnage]
+<OL><LI>Retour vers [[MH-MonPerso|Mon Personnage]]
 <LI>Choix de la cible pour laquelle vous souhaitez gérer les utilisations quotidiennes parmi le personnage et ses alliés.
 <LI>Repos. Tous les pouvoirs quotidiens du personnage sont réinitialisés. Un message vous demande si vous voulez également réinitialiser les pouvoirs dont la période d’utilisation est supérieure à la journée.
 <LI>Quatre boutons vous permettant de naviguer dans cette vue et d’ainsi gérer différentes choses. Vous pouvez gérer les objets à charge et à utilisation quotidienne, les sorts, les pouvoirs magiques et tout le reste (pouvoirs de classe par exemple).

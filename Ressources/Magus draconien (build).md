@@ -4,7 +4,7 @@ Title: Magus draconien
 LastModified: 2020-05-17 11:44
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le [sujet de discussion](https://www.pathfinder-fr.org/Forum/posts/t8841<nowiki>~~</nowiki>BUILD<nowiki>~~</nowiki>Le-magus-draconien)***</div>
 
 <nav class="wiki-toc"></nav>
@@ -70,43 +70,43 @@ Dervish agility
 |- CLASS="titre"
 | Niveau || Classe || BBA || NLS || Dons, capacités de classe
 |- CLASS="premier"
-| 01 || [++Pathfinder-RPG.Magus.ashx|Magus] 1 || +0 || 1 || [++Pathfinder-RPG.Frappe magique.ashx|Frappe magique]
+| 01 || [[Pathfinder-RPG.Magus.ashx|Magus]] 1 || +0 || 1 || [[Pathfinder-RPG.Frappe magique.ashx|Frappe magique]]
 |-
-| 02 || [++Pathfinder-RPG.Magus.ashx|Magus] 2 || +1 || 2 || &nbsp;
+| 02 || [[Pathfinder-RPG.Magus.ashx|Magus]] 2 || +1 || 2 || &nbsp;
 |-
-| 03 || [++Pathfinder-RPG.Magus.ashx|Magus] 3 || +2 || 3 || [++Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance], [++Pathfinder-RPG.arcanes.ashx|arcane de magus : familier]
+| 03 || [[Pathfinder-RPG.Magus.ashx|Magus]] 3 || +2 || 3 || [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]], [[Pathfinder-RPG.arcanes.ashx|arcane de magus : familier]]
 |-
-| 04 || [++Pathfinder-RPG.Magus.ashx|Magus] 4 || +3 || 4 || &nbsp;
+| 04 || [[Pathfinder-RPG.Magus.ashx|Magus]] 4 || +3 || 4 || &nbsp;
 |-
-| 05 || [++Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur] 1 || +3 || 4 (5) || [++Pathfinder-RPG.Sort intense.ashx|Sort intense]
+| 05 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 1 || +3 || 4 (5) || [[Pathfinder-RPG.Sort intense.ashx|Sort intense]]
 |-
-| 06 || [++Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien] 1 || +3 || 4 (6) || &nbsp;
+| 06 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 1 || +3 || 4 (6) || &nbsp;
 |-
-| 07 || [++Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien] 2 || +4 || 5 (7) || [++Pathfinder-RPG.Familier supérieur.ashx|Familier supérieur], [++Pathfinder-RPG.disciple draconien.ashx#DONDESDRAGONS|don de lignage] : [++Pathfinder-RPG.Science de linitiative.ashx|science de l'initiative] OU [++Pathfinder-RPG.Robustesse.ashx|robustesse]
+| 07 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 2 || +4 || 5 (7) || [[Pathfinder-RPG.Familier supérieur.ashx|Familier supérieur]], [[Pathfinder-RPG.disciple draconien.ashx#DONDESDRAGONS|don de lignage]] : [[Pathfinder-RPG.Science de linitiative.ashx|science de l'initiative]] OU [[Pathfinder-RPG.Robustesse.ashx|robustesse]]
 |-
-| 08 || [++Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien] 3 || +5 || 6 (8) || &nbsp;
+| 08 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 3 || +5 || 6 (8) || &nbsp;
 |-
-| 09 || [++Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien] 4 || +6 || 7 (9) || [++Pathfinder-RPG.Efficacité des sorts accrue.ashx|Efficacité des sorts accrue]
+| 09 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 4 || +6 || 7 (9) || [[Pathfinder-RPG.Efficacité des sorts accrue.ashx|Efficacité des sorts accrue]]
 |-
-| 10 || [++Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien] 5 || +6 || 7 (9) || [++Pathfinder-RPG.disciple draconien.ashx#DONDESDRAGONS|Don de lignage] : [++Pathfinder-RPG.Combat en aveugle.ashx|combat en aveugle]
+| 10 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 5 || +6 || 7 (9) || [[Pathfinder-RPG.disciple draconien.ashx#DONDESDRAGONS|Don de lignage]] : [[Pathfinder-RPG.Combat en aveugle.ashx|combat en aveugle]]
 |-
-| 11 || [++Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien] 6 || +7 || 8 (10) || [++Pathfinder-RPG.Sort élémentaire.ashx|Sort élémentaire]
+| 11 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 6 || +7 || 8 (10) || [[Pathfinder-RPG.Sort élémentaire.ashx|Sort élémentaire]]
 |-
-| 12 || [++Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien] 7 || +8 || 9 (11) || &nbsp;
+| 12 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 7 || +8 || 9 (11) || &nbsp;
 |-
-| 13 || [++Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien] 8 || +9 || 10 (12) || [++Pathfinder-RPG.Agilité dimensionnelle.ashx|Agilité dimensionnelle], [++Pathfinder-RPG.disciple draconien.ashx#DONDESDRAGONS|don de lignage] : [++Pathfinder-RPG.Incantation rapide.ashx|incantation rapide]
+| 13 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 8 || +9 || 10 (12) || [[Pathfinder-RPG.Agilité dimensionnelle.ashx|Agilité dimensionnelle]], [[Pathfinder-RPG.disciple draconien.ashx#DONDESDRAGONS|don de lignage]] : [[Pathfinder-RPG.Incantation rapide.ashx|incantation rapide]]
 |-
-| 14 || [++Pathfinder-RPG.Magus.ashx|Magus] 5 || +9 || 11 (13) || [++Pathfinder-RPG.magus.ashx#DONSUPPLEMENTAIRE|Don supplémentaire] : [++Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|efficacité des sorts accrue supérieure]
+| 14 || [[Pathfinder-RPG.Magus.ashx|Magus]] 5 || +9 || 11 (13) || [[Pathfinder-RPG.magus.ashx#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Efficacité des sorts accrue supérieure.ashx|efficacité des sorts accrue supérieure]]
 |-
-| 15 || [++Pathfinder-RPG.Magus.ashx|Magus] 6 || +10 || 12 (14) || [++Pathfinder-RPG.Perfection magique.ashx|Perfection magique] (porte dimensionnelle), [++Pathfinder-RPG.arcanes.ashx|arcane de magus : magie renforcée]
+| 15 || [[Pathfinder-RPG.Magus.ashx|Magus]] 6 || +10 || 12 (14) || [[Pathfinder-RPG.Perfection magique.ashx|Perfection magique]] (porte dimensionnelle), [[Pathfinder-RPG.arcanes.ashx|arcane de magus : magie renforcée]]
 |-
-| 16 || [++Pathfinder-RPG.Magus.ashx|Magus] 7 || +11 || 13 (15) || &nbsp;
+| 16 || [[Pathfinder-RPG.Magus.ashx|Magus]] 7 || +11 || 13 (15) || &nbsp;
 |-
-| 17 || [++Pathfinder-RPG.Magus.ashx|Magus] 8 || +12 || 14 (16) || Don au choix
+| 17 || [[Pathfinder-RPG.Magus.ashx|Magus]] 8 || +12 || 14 (16) || Don au choix
 |-
-| 18 || [++Pathfinder-RPG.Magus.ashx|Magus] 9 || +12 || 15 (17) || [++Pathfinder-RPG.arcanes.ashx|Arcane de magus : coup précis]
+| 18 || [[Pathfinder-RPG.Magus.ashx|Magus]] 9 || +12 || 15 (17) || [[Pathfinder-RPG.arcanes.ashx|Arcane de magus : coup précis]]
 |-
-| 19 || [++Pathfinder-RPG.Magus.ashx|Magus] 10 || +13 || 16 (18) || [++Pathfinder-RPG.magus.ashx#DONSUPPLEMENTAIRE|Don supplémentaire] : don au choix
+| 19 || [[Pathfinder-RPG.Magus.ashx|Magus]] 10 || +13 || 16 (18) || [[Pathfinder-RPG.magus.ashx#DONSUPPLEMENTAIRE|Don supplémentaire]] : don au choix
 |-
-| 20 || [++Pathfinder-RPG.Magus.ashx|Magus] 11 || +14 || 17 (19) || &nbsp;
+| 20 || [[Pathfinder-RPG.Magus.ashx|Magus]] 11 || +14 || 17 (19) || &nbsp;
 |}

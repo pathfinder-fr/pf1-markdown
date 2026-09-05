@@ -11,12 +11,12 @@ Categories:
 
 {s:ISG}{s:GeM}*Le personnage peut attaquer avec les pointes de son armure lorsqu’il réalise une bousculade ou un renversement.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** Maniement des [pointes pour armure](./pointes pour armure (arme).md)
+**Conditions.** Maniement des [[pointes pour armure (arme)|pointes pour armure]]
 
-**Avantage.** Lorsque le personnage réussit une manœuvre de [bousculade](./bousculade.md) ou de [renversement](./renversement.md), il peut automatiquement effectuer un [jet d’attaque](./jet dattaque.md) avec les [pointes de son armure](./pointes pour armure (arme).md) contre sa cible par une [action rapide](./Action rapide.md), avec son [bonus d’attaque](./BBA.md) le plus élevé.
+**Avantage.** Lorsque le personnage réussit une manœuvre de [[bousculade]] ou de [[renversement]], il peut automatiquement effectuer un [[jet dattaque|jet d’attaque]] avec les [[pointes pour armure (arme)|pointes de son armure]] contre sa cible par une [[action rapide]], avec son [[BBA|bonus d’attaque]] le plus élevé.
 
 {s:cs}{s:WMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 4 points d'endurance après avoir réussi un test de manœuvre offensive de [bousculade](./bousculade.md) ou de [renversement](./renversement.md) pour utiliser le don [Fossoyeur épineux](./Fossoyeur épineux.md) par une [action libre](./Action libre.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 4 points d'endurance après avoir réussi un test de manœuvre offensive de [[bousculade]] ou de [[renversement]] pour utiliser le don [[Fossoyeur épineux]] par une [[action libre]].

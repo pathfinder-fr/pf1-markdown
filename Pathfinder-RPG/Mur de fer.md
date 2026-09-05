@@ -12,30 +12,30 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([création](./../Création.md)) ; **Niveau** [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Magus](./Magus.md) 6, [Occ](./Occultiste.md) 6  
+**École** [[Invocation]] ([[création]]) ; **Niveau** [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Magus]] 6, [[Occultiste|Occ]] 6  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une feuille de fer et 500 g de poudre d’or (valeur 50 po))  
+**Composantes** [[composantes|V, G, M]] (une feuille de fer et 500 g de poudre d’or (valeur 50 po))  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Effet** mur de fer constitué d’un carré de 1,50 m (1 {s:c}) de côté/[niveau](./niveau.md) (voir description)  
+**Effet** mur de fer constitué d’un carré de 1,50 m (1 {s:c}) de côté/[[niveau]] (voir description)  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
 Le mage fait apparaître un *mur de fer*, plan et vertical. Il peut s’en servir pour bloquer un accès ou colmater une brèche. En effet, le mur s’intègre aux matières inertes avec lesquelles il est en contact (tant que cette surface le lui permet). Il ne peut pas le créer là où se trouve une créature ou un autre objet. Le personnage peut modifier sa forme en fonction de l’espace disponible, mais le mur doit toujours être de forme plane.
 
-Le mur de fer fait 2,5 cm d’épaisseur tous les quatre [niveaux](./niveau.md) du mage. Il est possible de doubler sa surface en divisant son épaisseur de moitié, et inversement. Chaque carré de 1,50 m (1 case) de côté a 30 [points de vie](./points de vie.md) tous les 2,5 cm d’épaisseur et une [solidité](./solidité.md) de 10. Une partie de mur dont les points de vie tombent à 0 est percée. Si une créature tente de percer le mur d’un seul coup, le [DD](./DD.md) du test de [Force](./Force.md) à réussir se monte à 25, +2 tous les 2,5 cm d’épaisseur.
+Le mur de fer fait 2,5 cm d’épaisseur tous les quatre [[niveau|niveaux]] du mage. Il est possible de doubler sa surface en divisant son épaisseur de moitié, et inversement. Chaque carré de 1,50 m (1 case) de côté a 30 [[points de vie]] tous les 2,5 cm d’épaisseur et une [[solidité]] de 10. Une partie de mur dont les points de vie tombent à 0 est percée. Si une créature tente de percer le mur d’un seul coup, le [[DD]] du test de [[Force]] à réussir se monte à 25, +2 tous les 2,5 cm d’épaisseur.
 
-Il est possible faire apparaître le mur sans fixer ses bords, de manière à le faire tomber sur des créatures se trouvant de l’autre côté. Si personne ne le pousse, il bascule d’un côté déterminé au hasard (une chance sur deux pour qu’il bascule d’un côté ou de l’autre). Pour pousser le mur du côté désiré, il faut réussir un test de [Force](./Force.md) ([DD](./DD.md) 40). Les individus qui disposent de suffisamment de place pour esquiver le mur y parviennent en réussissant un jet de [Réflexes](./Réflexes.md). En cas d’échec, les créatures de [taille G](./taille G.md) ou moins subissent 10d6 points de dégâts. Le mur ne peut pas écraser les créatures de [taille Gig](./Taille Gig.md) ou plus.
+Il est possible faire apparaître le mur sans fixer ses bords, de manière à le faire tomber sur des créatures se trouvant de l’autre côté. Si personne ne le pousse, il bascule d’un côté déterminé au hasard (une chance sur deux pour qu’il bascule d’un côté ou de l’autre). Pour pousser le mur du côté désiré, il faut réussir un test de [[Force]] ([[DD]] 40). Les individus qui disposent de suffisamment de place pour esquiver le mur y parviennent en réussissant un jet de [[Réflexes]]. En cas d’échec, les créatures de [[taille G]] ou moins subissent 10d6 points de dégâts. Le mur ne peut pas écraser les créatures de [[taille Gig]] ou plus.
 
 Comme n’importe quel *mur en fer*, celui-ci est soumis à la rouille et aux autres phénomènes naturels. Le fer crée par ce sort ne peut pas servir à fabriquer d’autres objets et ne peut être vendu.
 
 ### Mythique
 {s:CMy}
-L’épaisseur du mur s’élève à 2,5 centimètres par tranche de 2 [niveaux de lanceur de sorts](./NLS.md). Si le personnage crée un mur sans fixer ses bords, il peut le lester de façon à ce qu’il y ait 75% de chances qu’il tombe de lui-même du côté souhaité par le personnage. Soustrayez 5 points au [DD](./DD.md) du test pour pousser le mur du côté souhaité et ajoutez 5 points au [DD](./DD.md) du test pour le pousser de l’autre côté.
+L’épaisseur du mur s’élève à 2,5 centimètres par tranche de 2 [[NLS|niveaux de lanceur de sorts]]. Si le personnage crée un mur sans fixer ses bords, il peut le lester de façon à ce qu’il y ait 75% de chances qu’il tombe de lui-même du côté souhaité par le personnage. Soustrayez 5 points au [[DD]] du test pour pousser le mur du côté souhaité et ajoutez 5 points au [[DD]] du test pour le pousser de l’autre côté.
 
-**[Amplifié](./Amplifié.md) (7ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), un côté du mur (au choix du personnage) est doté d’une charge magnétique puissante qui attire le métal situé à 3 mètres ou moins. Une fois par round, le mur effectue automatiquement un test de manoeuvre offensive pour attirer vers lui toutes les créatures à portée protégées par une armure métallique, portant une arme métallique ou transportant beaucoup d’objets métalliques. Le BMO du mur est égal au [niveau de lanceur de sorts](./NLS.md) du personnage plus son [grade](./Grade.md). Si la manoeuvre offensive réussit, la créature est tirée sur 1,50 mètre vers le mur. Le mur gagne un bonus de +5 au test de manoeuvre offensive si la créature se situe à 1,50 mètre ou moins de lui. S’il réussit son test contre une créature à cette distance, celle-ci est plaquée contre le mur et considérée comme agrippée. Une créature peut lâcher ses objets métalliques ou ôter son armure métallique pour se libérer du mur. La charge magnétique disparaît au bout d’une heure par [grade](./Grade.md). Pour arracher un objet plaqué contre le mur, il faut réussir un test de [Force](./Force.md) ([DD](./DD.md) 10 + BMO du mur).
+**[[Amplifié]] (7ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], un côté du mur (au choix du personnage) est doté d’une charge magnétique puissante qui attire le métal situé à 3 mètres ou moins. Une fois par round, le mur effectue automatiquement un test de manoeuvre offensive pour attirer vers lui toutes les créatures à portée protégées par une armure métallique, portant une arme métallique ou transportant beaucoup d’objets métalliques. Le BMO du mur est égal au [[NLS|niveau de lanceur de sorts]] du personnage plus son [[grade]]. Si la manoeuvre offensive réussit, la créature est tirée sur 1,50 mètre vers le mur. Le mur gagne un bonus de +5 au test de manoeuvre offensive si la créature se situe à 1,50 mètre ou moins de lui. S’il réussit son test contre une créature à cette distance, celle-ci est plaquée contre le mur et considérée comme agrippée. Une créature peut lâcher ses objets métalliques ou ôter son armure métallique pour se libérer du mur. La charge magnétique disparaît au bout d’une heure par [[grade]]. Pour arracher un objet plaqué contre le mur, il faut réussir un test de [[Force]] ([[DD]] 10 + BMO du mur).

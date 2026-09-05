@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#PIETINEMENTFEROCE
 ---
 
->>> [pouvoirs de rage#PIETINEMENTFEROCE](./Pouvoirs de rage.md#PIETINEMENTFEROCE)
+>>> [[pouvoirs de rage#PIETINEMENTFEROCE]]

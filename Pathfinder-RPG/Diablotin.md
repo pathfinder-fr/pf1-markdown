@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.83*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille TP, LM}
-{s:BDTexte|**Init** +3 ; **Sens** *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision dans les ténèbres](./sous-type diable.md#VISIONTENEBRES) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille TP, LM}
+{s:BDTexte|**Init** +3 ; **Sens** *[[détection de la magie]]*, *[[détection du Bien]]*, [[vision dans le noir]] 18 m (12 {s:c}), [[sous-type diable#VISIONTENEBRES|vision dans les ténèbres]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 16, pris au dépourvu 13 (Dex +3, esquive +1, naturelle +1, taille +2)}
 {s:BDTexte|**pv** 16 (3d10) ; guérison accélérée 2}
@@ -25,28 +25,28 @@ Categories:
 {s:BDTexte|**Corps à corps** dard, +8 (1d4 et poison)}
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6<sup>e</sup>)}
-{s:BDSorts|Constant — *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*}
-{s:BDSorts|À volonté — *[invisibilité](./Invisibilité.md)* (sur lui-même uniquement)}
-{s:BDSorts|1/jour — *[augure](./Augure.md)*, *[suggestion](./Suggestion.md)* (DD 15)}
-{s:BDSorts|1/semaine — *[communion](./Communion.md)* (6 questions, NLS 12<sup>e</sup>)}
+{s:BDSorts|Constant — *[[détection de la magie]]*, *[[détection du Bien]]*}
+{s:BDSorts|À volonté — *[[invisibilité]]* (sur lui-même uniquement)}
+{s:BDSorts|1/jour — *[[augure]]*, *[[suggestion]]* (DD 15)}
+{s:BDSorts|1/semaine — *[[communion]]* (6 questions, NLS 12<sup>e</sup>)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 17, **Con** 10, **Int** 13, **Sag** 12, **Cha** 14}
 {s:BDTexte|**BBA** +3, **BMO** +1, **DMD** 15}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +9, [Art de la magie](./Art de la magie.md) +7, [Bluff](./Bluff.md) +8, [Connaissances](./Connaissances.md) (mystères) +7, [Connaissances](./Connaissances.md) (plans) +7, [Perception](./Perception.md) +7, [Vol](./Vol.md) +21}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Esquive]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +9, [[Art de la magie]] +7, [[Bluff]] +8, [[Connaissances]] (mystères) +7, [[Connaissances]] (plans) +7, [[Perception]] +7, [[Vol]] +21}
 {s:BDTexte|**Langues** commun, infernal}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) ([sanglier](./Sanglier.md), [araignée géante](./Araignée géante.md), [rat](./Rat.md) ou [corbeau](./Corbeau.md), *[forme bestiale I](./Forme bestiale I.md)*)}
+{s:BDTexte|**Particularités** [[changement de forme (Capacité)|changement de forme]] ([[sanglier]], [[araignée géante]], [[rat]] ou [[corbeau]], *[[forme bestiale I]]*)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Enfer)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou vol (3-10)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Poison (Ext)** Dard - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [Dex](./Dextérité.md) ; *guérison* 1 réussite. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md) et bénéficie d'un bonus racial de +2.}
+{s:BDTexte|**Poison (Ext)** Dard - blessure ; *JS* [[Vigueur]] [[DD]] 13 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d2 [[Dextérité|Dex]] ; *guérison* 1 réussite. Le [[DD]] dépend de la [[Constitution]] et bénéficie d'un bonus racial de +2.}
 
 {s:ImageDroite|Bestiaire/Diablotin.jpg|90%}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 *Cette minuscule peste à la peau rouge agite ses ailes infernales et fouette l’air de sa queue de scorpion.*
 
 Les diablotins, les plus faibles des vrais diables, sont
@@ -75,13 +75,13 @@ hauteur, possèdent une envergure d’ailes de 90 cm et pèsent 5 kg.
 
 Un diablotin sur mille possède la capacité de communiquer par
 télépathie jusqu’à une distance de 15 mètres et de se transformer en
-n’importe quel animal de taille P ou TP comme par le sort de [forme bestiale II](./Forme bestiale II.md). Les diables puissants accordent beaucoup de valeur à ces
+n’importe quel animal de taille P ou TP comme par le sort de [[forme bestiale II]]. Les diables puissants accordent beaucoup de valeur à ces
 « consuls diablotins » et les envoient servir leurs sbires préférés
 ou corrompre les mortels dotés d’une grande destinée.
 
 Un lanceur
 de sorts de niveau supérieur ou égal à 8 peut invoquer un consul
-diablotin s’il dispose du don [Familier supérieur](./Familier supérieur.md). Les diabolistes
+diablotin s’il dispose du don [[Familier supérieur]]. Les diabolistes
 parlent parfois d’autres espèces de diablotins qui disposeraient de
 capacités spéciales similaires mais différentes mais, si ces créatures
 existent bel et bien, elles sont extrêmement rares.
@@ -97,6 +97,6 @@ diablotins, incapables de rentrer chez eux par eux-mêmes,
 deviennent souvent de dangereuses nuisances
 ou prennent parfois la tête de petites
 tribus d’humanoïdes sauvages
-tels que les [gobelins](./Gobelin.md) ou
-les [kobolds](./Kobold.md).
+tels que les [[Gobelin|gobelins]] ou
+les [[Kobold|kobolds]].
 </div></td></tr></table>

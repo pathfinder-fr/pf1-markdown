@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Nuno|FP 1/4}
 {s:pucem|Fée|Souterrain|Tropical}
-{s:BDTexte|*Source : [Bestiaire 5 p.144](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.144]]*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Fée](./type Fée.md) de taille TP, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [perception des vibrations](./Perception des vibrations (capacité).md) à 9 m ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Fée|Fée]] de taille TP, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[Perception des vibrations (capacité)|perception des vibrations]] à 9 m ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 3 (1d6)}
@@ -28,8 +28,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 6, **Dex** 15, **Con** 10, **Int** 13, **Sag** 14, **Cha** 15}
 {s:BDTexte|**BBA** +0 ; **BMO** +0 ; **DMD** 8}
-{s:BDTexte|**Dons** [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (malédiction du nuno)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +6, [Connaissances](./Connaissances.md) (exploration souterraine) +6, [Connaissances](./Connaissances.md) (nature) +5, [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +6, [Psychologie](./Psychologie.md) +6, [Survie](./Survie.md) +3 ; **Modificateurs raciaux** +4 en Connaissances (exploration souterraine)}
+{s:BDTexte|**Dons** [[Attaque spéciale renforcée]] (malédiction du nuno)}
+{s:BDTexte|**Compétences** [[Bluff]] +6, [[Connaissances]] (exploration souterraine) +6, [[Connaissances]] (nature) +5, [[Discrétion]] +14, [[Perception]] +6, [[Psychologie]] +6, [[Survie]] +3 ; **Modificateurs raciaux** +4 en Connaissances (exploration souterraine)}
 {s:BDTexte|**Langues** aklo, sylvestre, terreux}
 {s:BDTexte|**Particularités** boussole de cire}
 {s:BDSousTitre|Écologie}
@@ -37,12 +37,12 @@ Categories:
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Affinité avec les fourmis (Sur).** Les fourmis n’agressent jamais les nunos. Un nuno peut contrôler les fourmis et les nuées de fourmis comme un [druide](./Druide.md) avec l’[empathie sauvage](./Druide.md#EMPATHIESAUVAGE), en appliquant un bonus racial de +4 à ces tests. Même si les fourmis n’ont normalement pas d’intelligence, les nunos peuvent les doter d’un semblant d’intelligence et ainsi les dresser à accomplir des tâches correspondant à leurs différentes lubies.}
+{s:BDTexte|**Affinité avec les fourmis (Sur).** Les fourmis n’agressent jamais les nunos. Un nuno peut contrôler les fourmis et les nuées de fourmis comme un [[druide]] avec l’[[Druide#EMPATHIESAUVAGE|empathie sauvage]], en appliquant un bonus racial de +4 à ces tests. Même si les fourmis n’ont normalement pas d’intelligence, les nunos peuvent les doter d’un semblant d’intelligence et ainsi les dresser à accomplir des tâches correspondant à leurs différentes lubies.}
 {s:BDTexte|**Boussole de cire (Sur).** Une créature maudite par un nuno peut passer une minute à déverser de la cire fondue dans une cuillère et à déposer le tout dans un récipient rempli d’eau. La cire indique la direction du nuno. Ce procédé permet à la créature maudite de trouver le nuno, quels que soient ses efforts pour se cacher, et tenter de mettre fin au mal qui l’afflige.}
-{s:BDTexte|**Malédiction du nuno (Sur).** Un nuno peut maudire une créature qu’il touche à moins que celle-ci ne réussisse un jet de [Volonté](./Volonté.md) DD 14. Une créature qui blesse le nuno, abîme sa demeure ou lui vole ses possessions doit également effectuer un jet de sauvegarde contre cette malédiction, en subissant un malus de -2. Une créature qui réussit son jet de sauvegarde est immunisée contre la malédiction de ce nuno en particulier pendant 24 heures. Une créature qui succombe aux effets de la malédiction subit d’horribles gonflements et une poussée de cheveux sur l’endroit du corps touché par le nuno ou qui est associé au mal infligé au nuno (par exemple, le pied d’une créature qui a renversé d’un coup de pied la fourmilière du nuno). Ce gonflement inflige un malus de -2 à la [Dextérité](./Dextérité.md) et du pus noir suinte de temps à autre de la zone infectée. Le DD pour lever la malédiction du nuno avec des sorts et des pouvoirs tels que *[délivrance des malédictions](./Délivrance des malédictions.md)* est augmenté de 10 (24 pour un nuno moyen). Un nuno peut lever sa malédiction par une [action simple](./Action simple.md) et, quand il meurt, toutes ses malédictions actives disparaissent immédiatement. Les effets de plusieurs malédictions de nuno ne se cumulent pas. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|**Malédiction du nuno (Sur).** Un nuno peut maudire une créature qu’il touche à moins que celle-ci ne réussisse un jet de [[Volonté]] DD 14. Une créature qui blesse le nuno, abîme sa demeure ou lui vole ses possessions doit également effectuer un jet de sauvegarde contre cette malédiction, en subissant un malus de -2. Une créature qui réussit son jet de sauvegarde est immunisée contre la malédiction de ce nuno en particulier pendant 24 heures. Une créature qui succombe aux effets de la malédiction subit d’horribles gonflements et une poussée de cheveux sur l’endroit du corps touché par le nuno ou qui est associé au mal infligé au nuno (par exemple, le pied d’une créature qui a renversé d’un coup de pied la fourmilière du nuno). Ce gonflement inflige un malus de -2 à la [[Dextérité]] et du pus noir suinte de temps à autre de la zone infectée. Le DD pour lever la malédiction du nuno avec des sorts et des pouvoirs tels que *[[délivrance des malédictions]]* est augmenté de 10 (24 pour un nuno moyen). Un nuno peut lever sa malédiction par une [[action simple]] et, quand il meurt, toutes ses malédictions actives disparaissent immédiatement. Les effets de plusieurs malédictions de nuno ne se cumulent pas. Le DD du jet de sauvegarde est basé sur le Charisme.}
 
 </div></td>
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [gremlins](./Gremlin.md).***</li></ul>*Cette petite créature flétrie et sans yeux a un chapeau de champignon en guise de tête et une barbe de filaments fongueux autour d’un sourire dépourvu de dents.*
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Gremlin|gremlins]].***</li></ul>*Cette petite créature flétrie et sans yeux a un chapeau de champignon en guise de tête et une barbe de filaments fongueux autour d’un sourire dépourvu de dents.*
 
 Les nunos sont des gremlins fongoïdes qui vivent dans des fourmilières. Même les jeunes nunos ont l’aspect de créatures âgées et rabougries. Ce sont des solitaires qui apprécient la vie d’ermite parmi les fourmis dans leurs fourmilières et leurs tertres creusés sous des climats tropicaux. Les nunos sont tout aussi méchants que les autres gremlins, mais préfèrent rester à l’écart et conserver leur potentiel agressif pour ceux qui les dérangent, surtout ceux qui osent abîmer les fourmilières dans lesquelles ils vivent.
 

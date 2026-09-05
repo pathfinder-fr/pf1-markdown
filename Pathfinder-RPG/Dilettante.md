@@ -10,8 +10,8 @@ Categories:
 
 {s:RSE}*Certains appelleraient cela se disperser, mais vous considérez que vous avez des centres d’intérêt variés. L’étendue de vos connaissances vous donne des intuitions imprévues dans de nombreuses situations.*
 
-**Condition.** 2 rangs dans 5 compétences de [Connaissances](./Connaissances.md) différentes.
+**Condition.** 2 rangs dans 5 compétences de [[Connaissances]] différentes.
 
-**Avantage.** Vous gagnez un bonus de +2 sur les tests de [Connaissances](./Connaissances.md) si vous avez 1 à 5 rangs dans cette compétence. Ce bonus ne se cumule pas avec [Talent](./Talent.md). Vous pouvez faire des tests de Connaissances sans avoir la compétence avec des [DD](./DD.md) allant jusqu’à 15.
+**Avantage.** Vous gagnez un bonus de +2 sur les tests de [[Connaissances]] si vous avez 1 à 5 rangs dans cette compétence. Ce bonus ne se cumule pas avec [[Talent]]. Vous pouvez faire des tests de Connaissances sans avoir la compétence avec des [[DD]] allant jusqu’à 15.
 
-**Normal.** Vous ne pouvez pas faire des tests de [Connaissances](./Connaissances.md) sans avoir la compétence, uniquement pour des connaissances communes (DD égal ou inférieur à 10).
+**Normal.** Vous ne pouvez pas faire des tests de [[Connaissances]] sans avoir la compétence, uniquement pour des connaissances communes (DD égal ou inférieur à 10).

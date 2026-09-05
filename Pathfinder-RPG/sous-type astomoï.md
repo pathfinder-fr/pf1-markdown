@@ -8,4 +8,4 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire 5* p.313
 
-Ce sous-type s’applique à tous les [astomoïs](./Astomoï.md) et créatures apparentées.
+Ce sous-type s’applique à tous les [[astomoï|astomoïs]] et créatures apparentées.

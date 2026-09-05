@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pa (novice), 3 po (compétent), 10 po (expérimenté)
-<span class="Catégorie">**Catégorie** [Hébergement et services](./Hébergement et services.md)</span>
+<span class="Catégorie">**Catégorie** [[Hébergement et services]]</span>
 ---
 Un avocat est quelqu’un qui connaît la loi et en a fait son métier. Il rédige et interprète les contrats, représente des clients ou l’état dans les affaires civiles et criminelles, donne des conseils légaux ou préside à des affaires en tant que juge. Un avocat expérimenté connu pour ses victoires peut imposer des tarifs plus élevés qu’un novice ou un avocat compétent mais ordinaire. Le prix est indiqué pour une journée de travail.

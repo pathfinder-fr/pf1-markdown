@@ -41,4 +41,4 @@ Pathfinder RPG est également un système de règle basé sur l'OGL, l'Open Gami
 
 - Outre ces grandes modifications, Pathfinder apporte également toute une série de révisions mineures aux **sorts** (notamment à tous ceux qui sont liés à la métamorphose), aux **objets magiques** (par exemple en rassemblant sur certains emplacements du corps les objets qui augmentent les caractéristiques, ce qui laisse plus de place pour des objets plus amusants que ceux-là), à certaines **armes et armures** (en modifiant par exemple la chaîne cloutée et en augmentant de +1 les bonus apportés par toutes les armures intermédiaires et lourdes) ou encore aux **états préjudiciables** (qui sont globalement simplifiés) ou encore aux fonctionnements des **afflictions** telles que les poisons, les maladies et les malédictions.
 
-En savoir plus : [MainPage|Accueil Wiki Pathfinder-RPG]
+En savoir plus : [[MainPage|Accueil Wiki Pathfinder-RPG]]

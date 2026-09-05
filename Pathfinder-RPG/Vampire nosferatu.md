@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Mort-vivant|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 278*}
 - 9 600 PX
-- [Humain](./Humain.md) nosferatu (m) roublard 9
-- [Mort-vivant](./type Mort-vivant.md) (humanoïde [altéré](./sous-type altéré.md), humain) de taille M, NM
+- [[Humain]] nosferatu (m) roublard 9
+- [[type Mort-vivant|Mort-vivant]] (humanoïde [[sous-type altéré|altéré]], humain) de taille M, NM
 - **Init **+11 ; **Sens** vision dans le noir 18 m, vision nocturne, odorat ; Perception +28
 (((Défense)))
 - **CA** 30, contact 18, pris au dépourvu 23 (armure +4, parade +1, Dex +6, esquive +1, naturelle +8)
@@ -26,12 +26,12 @@ Categories:
 (((Attaque)))
 - **VD** 9 m
 - **Corps à corps** 2 griffes, +14 (1d6+3)
-- **Attaques spéciales** absorption de sang (1d4 Con et 1d4 Sag), [domination](./Domination.md) (DD 17), attaque sournoise +5d6, [télékinésie](./Télékinésie.md) (DD 17)
+- **Attaques spéciales** absorption de sang (1d4 Con et 1d4 Sag), [[domination]] (DD 17), attaque sournoise +5d6, [[télékinésie]] (DD 17)
 (((Statistiques)))
 - **For** 16, **Dex** 24, **Con** -, **Int** 16, **Sag** 16, **Cha** 16
 - **BBA **+6 ; **BMO **+9 ; **DMD** 28
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque éclair](./Attaque éclair.md), [Attaque en finesse](./Attaque en finesse.md), [Attaque en puissance](./Attaque en puissance.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md)<sup>S</sup>, [Science de l’initiative](./Science de linitiative.md)<sup>S</sup>, [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md)<sup>S</sup> (Discrétion), [Talent](./Talent.md)<sup>S</sup> (Perception), [Vigilance](./Vigilance.md)<sup>S</sup>
-- **Compétences** [Acrobaties](./Acrobaties.md) +19, [Bluff](./Bluff.md) +15, [Connaissances](./Connaissances.md) (exploration souterraine) +15, [Connaissances](./Connaissances.md) (folklore local) +15, [Connaissances](./Connaissances.md) (histoire) +12, [Connaissances](./Connaissances.md) (religion) +12, [Discrétion](./Discrétion.md) +30, [Escalade](./Escalade.md) +15, [Intimidation](./Intimidation.md) +15, [Natation](./Natation.md) +15, [Perception](./Perception.md) +28, [Psychologie](./Psychologie.md) +13, [Survie](./Survie.md) +12, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +15
+- **Dons** [[Arme de prédilection]] (griffe), [[Attaque éclair]], [[Attaque en finesse]], [[Attaque en puissance]], [[Esquive]], [[Réflexes surhumains]]<sup>S</sup>, [[science de linitiative|Science de l’initiative]]<sup>S</sup>, [[Souplesse du serpent]], [[Talent]]<sup>S</sup> (Discrétion), [[Talent]]<sup>S</sup> (Perception), [[Vigilance]]<sup>S</sup>
+- **Compétences** [[Acrobaties]] +19, [[Bluff]] +15, [[Connaissances]] (exploration souterraine) +15, [[Connaissances]] (folklore local) +15, [[Connaissances]] (histoire) +12, [[Connaissances]] (religion) +12, [[Discrétion]] +30, [[Escalade]] +15, [[Intimidation]] +15, [[Natation]] +15, [[Perception]] +28, [[Psychologie]] +13, [[Survie]] +12, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +15
 - **Modificateurs raciaux** +8 en Perception, +8 en Psychologie, +8 en Discrétion 
 - **Langues** aklo, commun ; télépathie 18 m
 - **Particularités** talents de roublard (attaque sanglante +5, rapide et discret, debout, attaque surprise), pattes d’araignée, forme de nuée, recherche des pièges +4
@@ -53,7 +53,7 @@ Leur antique personnalité est toujours emprunte d’une cruauté née lors d’
 
 Les nosferatus ne peuvent créer de rejeton, voilà pourquoi tous sont extrêmement vieux et ont été crées il y a fort longtemps avant qu’ils ne perdent la possibilité d’apposer la malédiction de la mort-vivance à autrui. La plupart vivent dans des sites isolés et peu visités. Ainsi, un nosferatu vieux d’un millier d’années peut ne posséder qu’une petite douzaine de niveaux de classe car il n’aura pas rencontré un grand nombre d’adversaires ou n’aura pas cherché à s’entraîner.
 
-Voir l'[archetype nosferatu](./Nosferatu, archétype.md).
+Voir l'[[Nosferatu, archétype|archetype nosferatu]].
 
-*<u>Note :</u> Dans certaines V.F. le sous-type "[humanoïde altérée](./sous-type altéré.md)" (augmented) semble avoir été remplacée par "[humanoïde évolué](./Archétypes.md#Créature_évoluée_FP_+B_1)" (Advanced Creature), alors qu'en V.O. il s'agit bien du "[sous-type altéré](./sous-type altéré.md)" (augmented). Cela devrait avoir été corrigé depuis dans les dernières versions.*
+*<u>Note :</u> Dans certaines V.F. le sous-type "[[sous-type altéré|humanoïde altérée]]" (augmented) semble avoir été remplacée par "[[Archétypes#Créature_évoluée_FP_+B_1|humanoïde évolué]]" (Advanced Creature), alors qu'en V.O. il s'agit bien du "[[sous-type altéré]]" (augmented). Cela devrait avoir été corrigé depuis dans les dernières versions.*
 </div></td></tr></table>

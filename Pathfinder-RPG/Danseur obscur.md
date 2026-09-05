@@ -12,22 +12,22 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 p.199*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([obscurien](./sous-type obscur.md)) de taille P, CN}
-{s:BDTexte|**Init** +4 ; **Sens** vision dans les ténèbres ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type obscur|obscurien]]) de taille P, CN}
+{s:BDTexte|**Init** +4 ; **Sens** vision dans les ténèbres ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 11 (Dex +4, taille +1)}
 {s:BDTexte|**pv** 13 (2d8+4)}
 {s:BDTexte|**Réf** +7, **Vig** +2, **Vol** +0}
-{s:BDTexte|**Faiblesses** [aveuglé par la lumière](./Aveuglé par la lumière.md)}
+{s:BDTexte|**Faiblesses** [[aveuglé par la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** gourdin, +2 (1d4) ou dague, +6 (1d3/19-20 plus poison)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./attaque sournoise.md) (+1d6), dernier sursaut, malédiction obscure, représentation bardique (7 rounds)}
+{s:BDTexte|**Attaques spéciales** [[attaque sournoise]] (+1d6), dernier sursaut, malédiction obscure, représentation bardique (7 rounds)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 19, **Con** 14, **Int** 8, **Sag** 10, **Cha** 13}
 {s:BDTexte|**BBA** +1, **BMO** +0, **DMD** 14}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +12, [Escalade](./Escalade.md) +4, [Escamotage](./Escamotage.md) +5, [Perception](./Perception.md) +4, [Représentation](./Représentation.md) (danse) +2 ; **Modificateurs raciaux** [Escalade](./Escalade.md) +4, [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +12, [[Escalade]] +4, [[Escamotage]] +5, [[Perception]] +4, [[Représentation]] (danse) +2 ; **Modificateurs raciaux** [[Escalade]] +4, [[Discrétion]] +4, [[Perception]] +4}
 {s:BDTexte|**Langues** obscurien}
 {s:BDTexte|**Particularités** utilisation des poisons}
 {s:BDSousTitre|Écologie}
@@ -35,14 +35,14 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple, troupe (3-5) ou délégation (1 plus un traqueur obscur et 4-10 fureteurs obscurs)}
 {s:BDTexte|**Trésor** standard (gourdin, dague, poison de traînée noire - 3 doses, autre équipement)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Dernier sursaut (Sur).** Quand le danseur obscur se fait tuer, son corps explose en une gerbe de lumière blanche qui ne laisse que son équipement en tas sur le sol. Toutes les créatures situées dans un rayonnement de 3 mètres doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ou être [éblouies](./Ébloui.md) pendant 1d6 rounds. Les autres obscurs situés à 6 mètres ou moins doivent réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 13 ou êtres [secoués](./Pathfinder-RPG-États-préjudiciables-ashx.md#Secoué) pendant 1 round. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Utilisation des poisons (Ext).** Les danseurs obscurs sont experts dans l'utilisation du poison et ils ne risquent jamais de s'empoisonner eux-mêmes par accident. Ils utilisent généralement une pâte noire et malodorante distillée à partir de champignons souterrains et connue sous le nom de traînée noire - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 15 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md)  1d2 [For](./Force.md) ; *guérison* 1 réussite.}
-{s:BDTexte|**Vision dans les ténèbres (Sur).** Les danseurs obscurs voient parfaitement bien dans les ténèbres de toutes sortes, y compris celles créées par un sort de *[ténèbres profondes](./Ténèbres profondes.md)*.}
-{s:BDTexte|**Malédiction obscure (Sur).** Le danseur obscur peut, par une action simple, effectuer une attaque de contact contre un ennemi et le maudire. La cible doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 12 pour résister à la malédiction. Si elle échoue, elle subit un malus de –2 aux tests de compétence basés sur la Dextérité et le Charisme. La malédiction est permanente mais la victime a droit à un jet de sauvegarde par jour.}
+{s:BDTexte|**Dernier sursaut (Sur).** Quand le danseur obscur se fait tuer, son corps explose en une gerbe de lumière blanche qui ne laisse que son équipement en tas sur le sol. Toutes les créatures situées dans un rayonnement de 3 mètres doivent réussir un jet de [[Vigueur]] [[DD]] 13 ou être [[ébloui|éblouies]] pendant 1d6 rounds. Les autres obscurs situés à 6 mètres ou moins doivent réussir un jet de [[Volonté]] [[DD]] 13 ou êtres [[Pathfinder-RPG.États préjudiciables.ashx#Secoué|secoués]] pendant 1 round. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Utilisation des poisons (Ext).** Les danseurs obscurs sont experts dans l'utilisation du poison et ils ne risquent jamais de s'empoisonner eux-mêmes par accident. Ils utilisent généralement une pâte noire et malodorante distillée à partir de champignons souterrains et connue sous le nom de traînée noire - blessure ; *JS* [[Vigueur]] [[DD]] 15 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]]  1d2 [[Force|For]] ; *guérison* 1 réussite.}
+{s:BDTexte|**Vision dans les ténèbres (Sur).** Les danseurs obscurs voient parfaitement bien dans les ténèbres de toutes sortes, y compris celles créées par un sort de *[[ténèbres profondes]]*.}
+{s:BDTexte|**Malédiction obscure (Sur).** Le danseur obscur peut, par une action simple, effectuer une attaque de contact contre un ennemi et le maudire. La cible doit réussir un jet de [[Volonté]] [[DD]] 12 pour résister à la malédiction. Si elle échoue, elle subit un malus de –2 aux tests de compétence basés sur la Dextérité et le Charisme. La malédiction est permanente mais la victime a droit à un jet de sauvegarde par jour.}
 {s:BDTexte|**Représentation bardique (Sur).** Le danseur obscur peut aider ses alliés en dansant. Il utilise la représentation bardique comme un barde de niveau 2 mais seulement en ce qui concerne les effets de distraction et d’inspiration vaillante.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [obscuriens](./obscurien.md).***</li></ul>*Cette mince silhouette humanoïde enveloppée de bandelettes de tissu sombre et crasseux danse pour manifester une joie sinistre.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[obscurien|obscuriens]].***</li></ul>*Cette mince silhouette humanoïde enveloppée de bandelettes de tissu sombre et crasseux danse pour manifester une joie sinistre.*
 
 Les danseurs obscurs portent les mêmes vêtements sombres
 et déchirés que les autres obscurs mais ce sont les plus festifs

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Paniqué
 ---
 
->>> [États préjudiciables#Paniqué](./États préjudiciables.md#Paniqué)
+>>> [[États préjudiciables#Paniqué]]

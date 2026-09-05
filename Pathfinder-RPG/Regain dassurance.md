@@ -16,20 +16,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Bard](./Barde.md) 1, [Cham](./Chaman.md) 1, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Méd](./Médium.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [Spi](./Spirite.md) 1  
+**École** [[Abjuration]] ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Médium|Méd]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Spirite|Spi]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cibles** 1 créature plus 1 autre/4 [niveaux](./niveau.md), distantes de moins de 9 m les unes des autres  
+**Cibles** 1 créature plus 1 autre/4 [[niveau|niveaux]], distantes de moins de 9 m les unes des autres  
 
 **Durée** 10 minutes (voir description)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Ce sort permet de redonner confiance au sujet, ce qui lui confère un bonus de moral de +4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre la [terreur](./Registre.md) pendant dix minutes. S’il est déjà sous l’influence d’un sort ou effet de [terreur](./Registre.md), celui-ci est réprimé pendant toute la durée de *regain d’assurance*.
+Ce sort permet de redonner confiance au sujet, ce qui lui confère un bonus de moral de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre la [[registre|terreur]] pendant dix minutes. S’il est déjà sous l’influence d’un sort ou effet de [[registre|terreur]], celui-ci est réprimé pendant toute la durée de *regain d’assurance*.
 
-*Regain d’assurance* contre et dissipe *[frayeur](./Frayeur.md)*.
+*Regain d’assurance* contre et dissipe *[[frayeur]]*.

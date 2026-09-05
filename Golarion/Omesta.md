@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Omesta est un petit village du [Kyonin](./Kyonin.md) situé au cœur de la [forêt de Firéani](./forêt de Firéani.md).
+Omesta est un petit village du [[Kyonin]] situé au cœur de la [[forêt de Firéani]].
 
-Ce village est uniquement habité par des gnomes et, comme [Or Vert](./Or Vert.md) et [Erages](./Erages.md), l'un des seuls lieux du [Kyonin](./Kyonin.md) occupé par des non-elfes.
+Ce village est uniquement habité par des gnomes et, comme [[Or Vert]] et [[Erages]], l'un des seuls lieux du [[Kyonin]] occupé par des non-elfes.

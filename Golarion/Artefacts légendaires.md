@@ -18,31 +18,31 @@ Convoités par les créatures les plus puissantes au monde et même par des êtr
 
 ### Liste des artéfacts légendaires
 <div class="article_2col">
-l'[Anneau aux neuf facettes](./Anneau aux neuf facettes.md)
-l'[Anneau d’Apollyon](./Anneau dApollyon.md)
-le [Bâton des ombres](./Bâton des ombres.md)
-le [Bouclier d'Aroden](./Bouclier dAroden.md)
-la [Bouteille des Enchaînés](./Bouteille des Enchaînés.md)
-les [Cartes merveilleuses du tourment](./Cartes merveilleuses du tourment.md)
-le [Chant de l’extinction](./Chant de lextinction.md)
-le [Codex des plans Infinis](./../Pathfinder-RPG/Codex des plans infinis.md)
-les [Cornes de Naraga](./Cornes de Naraga.md)
-la [Couronne d’épines de Iomédae](./Couronne dépines de Iomédae.md)
-le [Crâne d’Ydersius](./Crâne dYdersius.md)
-le [Diamant gémissant](./Diamant gémissant.md)
-les [Épées du péché](./Épées du péché.md)
-la [Hache des seigneurs nains](./Hache des seigneurs nains.md)
-[Hachenoire](./Hachenoire.md)
-les [Héliotropes d’Arazni](./Héliotropes dArazni.md)
-la [Hutte dansante de Baba-Yaga](./Hutte dansante de Baba-Yaga.md)
-la [Lentille de Galundari](./Lentille de Galundari.md)
-le [Livre des damnés](./Livre des damnés.md)
-la [Masse d'armes de Saint-Cuthbert](./Masse darmes de SaintCuthbert.md)
-l'[Œil invidien](./Œil invidien.md)
-les [Orbes des dragons](./../Pathfinder-RPG/Orbes des dragons.md)
-le [Parchemin de Kakishon](./../Pathfinder-RPG/Parchemin de Kakishon.md)
-la [Rapière de Vesper](./Rapière de Vesper.md)
-les [Reliques de Kazavon](./Reliques de Kazavon.md)
-[Roncier](./Roncier.md)
-le [Sceptre des âges](./../Pathfinder-RPG/Sceptre des âges.md)
+l'[[Anneau aux neuf facettes]]
+l'[[Anneau dApollyon|Anneau d’Apollyon]]
+le [[Bâton des ombres]]
+le [[Bouclier dAroden|Bouclier d'Aroden]]
+la [[Bouteille des Enchaînés]]
+les [[Cartes merveilleuses du tourment]]
+le [[Chant de lextinction|Chant de l’extinction]]
+le [[Codex des plans Infinis]]
+les [[Cornes de Naraga]]
+la [[Couronne dépines de Iomédae|Couronne d’épines de Iomédae]]
+le [[Crâne dYdersius|Crâne d’Ydersius]]
+le [[Diamant gémissant]]
+les [[Épées du péché]]
+la [[Hache des seigneurs nains]]
+[[Hachenoire]]
+les [[Héliotropes dArazni|Héliotropes d’Arazni]]
+la [[Hutte dansante de Baba-Yaga]]
+la [[Lentille de Galundari]]
+le [[Livre des damnés]]
+la [[Masse darmes de SaintCuthbert|Masse d'armes de Saint-Cuthbert]]
+l'[[Œil invidien]]
+les [[Orbes des dragons]]
+le [[Parchemin de Kakishon]]
+la [[Rapière de Vesper]]
+les [[Reliques de Kazavon]]
+[[Roncier]]
+le [[Sceptre des âges]]
 </div>

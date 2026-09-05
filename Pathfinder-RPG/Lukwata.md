@@ -10,8 +10,8 @@ LastModified: 2021-02-10 20:35
 {s:pucem|Créature magique|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire p.184*}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([Aquatique](./sous-type aquatique.md)) de taille TG, N}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; **Perception** +9}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type Aquatique|Aquatique]]) de taille TG, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Vision nocturne]], [[odorat]] ; **Perception** +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 12, pris au dépourvu 21 (Dex +4, esquive +13, taille -2)}
 {s:BDTexte|**pv** 147 (14d10+70)}
@@ -22,22 +22,22 @@ LastModified: 2021-02-10 20:35
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +22 (4d10+15/19-20 plus étreinte)}
 {s:BDTexte|**Espace occupé** 4,50 m ; **Allonge** 4,50 m}
-{s:BDTexte|**Attaques spéciales** [retournement de navires](./Retournement de navires (capacité).md) (DD 25), digestion de la magie, morsure de dissipation}
+{s:BDTexte|**Attaques spéciales** [[retournement de navires (capacité)|retournement de navires]] (DD 25), digestion de la magie, morsure de dissipation}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 30, **Dex** 19, **Con** 20, **Int** 2, **Sag** 15, **Cha** 11}
 {s:BDTexte|**BBA** +14, **BMO** +26 (+30 en lutte), **DMD** 40}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (morsure), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +0, [Natation](./Natation.md) +30, [Perception](./Perception.md) +9}
-{s:BDTexte|**Langues** abyssal, céleste, draconique ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Critique sanglant]], [[Don pour les critiques]], [[Science de la bousculade]], [[Science du critique]] (morsure), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +0, [[Natation]] +30, [[Perception]] +9}
+{s:BDTexte|**Langues** abyssal, céleste, draconique ; [[télépathie]] 30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** rivières, lac et maris chauds}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou banc (3-8)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Digestion de la magie (Sur).** Un objet magique avalé par un lukwata doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 22 au bout d’une heure ou devenir définitivement non-magique. Les artefacts sont immunisés contre cet effet. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md). }
-{s:BDTexte|**Étrange incrustation (Sur).** Des excroissances cristallines situées le long de l’appareil digestif du lukwata renferment de vastes réserves d’énergie magique. Ces nodules sont à l’origine des résidus magiques qui entourent tous les lukwatas, leur accordant leur [résistance à la magie](./RM.md), leur [réduction de dégâts](./RD.md), leur morsure de dissipation et leur digestion de la magie. Un sort de [dissipation de la magie](./Dissipation de la magie.md) lancé sur un lukwata peut annuler ces pouvoirs pendant 1 minute : le [NLS](./NLS.md) de cet effet est considéré comme égal aux [dés de vie](./../Ressources/DV.md) du lukwata ([NLS](./NLS.md) 14 pour la plupart des lukwatas). }
-{s:BDTexte|**Morsure de dissipation (Sur).** Lorsqu’un lukwata réussit un [coup critique](./coup critique.md) avec sa morsure, la victime est affectée par  le sort [dissipation suprême de la magie](./Dissipation suprême.md). Pour cet effet, le [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) est égal aux [dés de vie](./dés de vie.md) du lukwata ([NLS](./NLS.md) 14 pour la plupart des lukwatas).}
-{s:BDTexte|**Réduction de dégâts (Ext).** Les armes non magiques sont les seules capables d’ignorer la [RD](./RD.md) du lukwata (les armes magiques temporaires, telles que celles créées par le sort [arme magique](./Arme magique.md) et des effets similaires, comptent comme des armes magiques).}
+{s:BDTexte|**Digestion de la magie (Sur).** Un objet magique avalé par un lukwata doit réussir un jet de [[Vigueur]] [[DD]] 22 au bout d’une heure ou devenir définitivement non-magique. Les artefacts sont immunisés contre cet effet. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]]. }
+{s:BDTexte|**Étrange incrustation (Sur).** Des excroissances cristallines situées le long de l’appareil digestif du lukwata renferment de vastes réserves d’énergie magique. Ces nodules sont à l’origine des résidus magiques qui entourent tous les lukwatas, leur accordant leur [[RM|résistance à la magie]], leur [[RD|réduction de dégâts]], leur morsure de dissipation et leur digestion de la magie. Un sort de [[dissipation de la magie]] lancé sur un lukwata peut annuler ces pouvoirs pendant 1 minute : le [[NLS]] de cet effet est considéré comme égal aux [[DV|dés de vie]] du lukwata ([[NLS]] 14 pour la plupart des lukwatas). }
+{s:BDTexte|**Morsure de dissipation (Sur).** Lorsqu’un lukwata réussit un [[coup critique]] avec sa morsure, la victime est affectée par  le sort [[dissipation suprême|dissipation suprême de la magie]]. Pour cet effet, le [[niveau de lanceur de sorts]] est égal aux [[dés de vie]] du lukwata ([[NLS]] 14 pour la plupart des lukwatas).}
+{s:BDTexte|**Réduction de dégâts (Ext).** Les armes non magiques sont les seules capables d’ignorer la [[RD]] du lukwata (les armes magiques temporaires, telles que celles créées par le sort [[arme magique]] et des effets similaires, comptent comme des armes magiques).}
 
 </div>
 </td><td><div>*Une longue nageoire fine court sur tout le dos de ce prédateur à tête d’anguille et au corps de dauphin.*

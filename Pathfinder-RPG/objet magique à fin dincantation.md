@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Règles relatives aux objets magiques#OBJETSAFINDINCANTATION
 ---
 
->>> [Règles relatives aux objets magiques#OBJETSAFINDINCANTATION](./Règles relatives aux objets magiques.md#OBJETSAFINDINCANTATION)
+>>> [[Règles relatives aux objets magiques#OBJETSAFINDINCANTATION]]

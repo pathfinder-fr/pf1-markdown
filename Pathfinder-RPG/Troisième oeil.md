@@ -8,27 +8,27 @@ LastModified: 2017-12-03 12:11
 pour voir les choses comme elles sont réellement et discerner au
 mieux les auras.''
 
-**Conditions.** [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer
+**Conditions.** [[Sensibilité psychique]] ou capacité à lancer
 des sorts psychiques.
 
-**Avantage.** Une fois par jour, par une [action simple](./Types dactions.md#SIMPLE), le
+**Avantage.** Une fois par jour, par une [[types dactions#SIMPLE|action simple]], le
 personnage peut ouvrir un troisième œil, placé sur son front, au-dessus
 et entre ses yeux normaux. Il peut garder cet oeil ouvert
 jusqu’à une minute par niveau de personnage. Cette durée n’est
 pas forcément continue mais doit se découper en portions
 d’une minute. Une fois par jour, le personnage peut utiliser
-l’[extension de compétence occulte lecture d’auras](./Extensions de compétences occultes.md#LECTUREDAURAS) après une
+l’[[Extensions de compétences occultes#LECTUREDAURAS|extension de compétence occulte lecture d’auras]] après une
 minute de concentration intense, à condition que son troisième
 oeil reste ouvert tout ce temps. Ceci vient en plus de l’utilisation
-quotidienne normale de [lecture de l’aura](./Extensions de compétences occultes.md#LECTUREDAURAS) (qui prend toujours
+quotidienne normale de [[Extensions de compétences occultes#LECTUREDAURAS|lecture de l’aura]] (qui prend toujours
 10 minutes). Tant que le troisième oeil du personnage est ouvert,
-il gagne un bonus de +4 aux tests de [Perception](./Perception.md) pour lire les
-auras et un bonus de +8 aux tests de [Perception](./Perception.md) pour détecter les
+il gagne un bonus de +4 aux tests de [[Perception]] pour lire les
+auras et un bonus de +8 aux tests de [[Perception]] pour détecter les
 créatures et les objets invisibles et pour percer les déguisements
 magiques à jour (qu’ils soient illusoires ou viennent d’une magie
 de métamorphose ou du pouvoir changement de forme). Quand
 le personnage ferme son troisième oeil, volontairement ou parce
-que sa durée d’utilisation arrive à son terme, il est [fatigué](./Fatigué.md) pendant
+que sa durée d’utilisation arrive à son terme, il est [[fatigué]] pendant
 aussi longtemps qu’il l’a gardé ouvert.
 
 **Normal.** Sans ce don, le personnage doit se concentrer

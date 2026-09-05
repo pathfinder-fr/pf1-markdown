@@ -4,7 +4,7 @@ Title: Le One Punch Man
 LastModified: 2017-01-31 14:57
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***[Voir le sujet de discussion](http://www.pathfinder-fr.org/Forum/posts/t13812-Le-One-punch-man)***</div>
 
 <nav class="wiki-toc"></nav>

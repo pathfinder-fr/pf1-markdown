@@ -11,15 +11,15 @@ Categories:
 <div class="BD">
 {s:BDTitre|Ursikke|FP 10}
 {s:pucem|Créature magique|Forêt-Jungle|Froid}
-{s:BDTexte|*Source : [Bestiaire 5 p.270](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.270]]*}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille TG, N}
-{s:BDTexte|**Init** +4 ; **Sens** [odorat](./Odorat (capacité).md), [perception des vibrations](./Perception des vibrations (capacité).md) à 9 m, [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille TG, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[Odorat (capacité)|odorat]], [[Perception des vibrations (capacité)|perception des vibrations]] à 9 m, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 8, pris au dépourvu 24 (naturelle +16, taille -2)}
 {s:BDTexte|**pv** 138 (12d10+72)}
 {s:BDTexte|**Réf** +10, **Vig** +14, **Vol** +5 ; +4 contre les effets mentaux}
-{s:BDTexte|**Capacités défensives** [férocité](./Férocité (capacité).md) ; **Résistances** froid 20}
+{s:BDTexte|**Capacités défensives** [[Férocité (capacité)|férocité]] ; **Résistances** froid 20}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m, creusement 6 m}
 {s:BDTexte|**Corps à corps** morsure, +21 (2d6+11 plus salive glaçante) et 2 griffes, +21 (1d8+11)}
@@ -27,19 +27,19 @@ Categories:
 {s:BDTexte|**Attaques spéciales** crachat, enduire les griffes}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 32, **Dex** 11, **Con** 22, **Int** 2, **Sag** 13, **Cha** 5}
-{s:BDTexte|**BBA** +12 ; **BMO** +25 (+27 en [bousculade](./bousculade.md)) ; **DMD** 35 (37 contre la [bousculade](./bousculade.md), 39 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Capture](./Capture.md), [Coup fabuleux](./Coup fabuleux.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +15, [Perception](./Perception.md) +15}
+{s:BDTexte|**BBA** +12 ; **BMO** +25 (+27 en [[bousculade]]) ; **DMD** 35 (37 contre la [[bousculade]], 39 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Capture]], [[Coup fabuleux]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science de la bousculade]]}
+{s:BDTexte|**Compétences** [[Escalade]] +15, [[Perception]] +15}
 {s:BDTexte|**Particularités** hibernation}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** froid}
 {s:BDTexte|**Organisation** solitaire, couple ou ruche (3-10)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Crachat (Ext).** L’ursikke peut cracher une ligne de salive de 18 mètres par une [action simple](./Action simple.md). Les créatures situées dans la zone subissent 8d6 points de dégâts de froid et sont [enchevêtrées](./Enchevêtré.md). Un jet de [Réflexes](./Réflexes.md) DD 22 réussi réduit les dégâts de moitié et annule l’enchevêtrement. Le DD du jet de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Enduire les griffes (Ext).** Par une [action simple](./Action simple.md), l’ursikke peut enduire ses griffes perforantes d’une salive visqueuse et glacée. L’enduit persiste pendant 1 minute. Une créature touchée par les griffes enduites ou [agrippée](./Agrippé.md) par un ursikke utilisant son don de [Capture](./Capture.md) subit 2d6 points de dégâts de froid supplémentaires ([Réflexes](./Réflexes.md) DD 22, 1/2 dégâts).}
-{s:BDTexte|**Salive glaçante (Ext).** La salive qui goutte de la gueule de l’ursikke est aussi froide que visqueuse et [enchevêtre](./Enchevêtré.md) les victimes pendant 1d4 rounds ([Réflexes](./Réflexes.md) DD 22 pour annuler). Une créature enchevêtrée subit 2d6 points de dégâts de froid par round. Elle peut se libérer avant la fin de la durée si elle réussit un test de [Force](./Force.md) DD 19 ou inflige 15 points de dégâts à la salive dans laquelle elle est enchâssée, soit avec une arme tranchante, soit par le feu. Si quelqu’un utilise le feu pour éliminer la salive, il blesse également la créature enchevêtrée. Le DD du jet de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Hibernation (Ext).** Un ursikke peut entrer dans une phase d’hibernation prolongée s’il s’enveloppe de sa salive qui durcit pour former un cocon. Il n’a alors ni besoin de boire ni de manger. Le cocon a une [solidité](./solidité.md) de 10 et 60 points de vie. Il est immunisé contre les dégâts de feu. Tant qu’il est intact, l’ursikke reste indemne, en hibernation. Il doit utiliser ses attaques pour se dégager du cocon.}
+{s:BDTexte|**Crachat (Ext).** L’ursikke peut cracher une ligne de salive de 18 mètres par une [[action simple]]. Les créatures situées dans la zone subissent 8d6 points de dégâts de froid et sont [[enchevêtré|enchevêtrées]]. Un jet de [[Réflexes]] DD 22 réussi réduit les dégâts de moitié et annule l’enchevêtrement. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Enduire les griffes (Ext).** Par une [[action simple]], l’ursikke peut enduire ses griffes perforantes d’une salive visqueuse et glacée. L’enduit persiste pendant 1 minute. Une créature touchée par les griffes enduites ou [[agrippé|agrippée]] par un ursikke utilisant son don de [[Capture]] subit 2d6 points de dégâts de froid supplémentaires ([[Réflexes]] DD 22, 1/2 dégâts).}
+{s:BDTexte|**Salive glaçante (Ext).** La salive qui goutte de la gueule de l’ursikke est aussi froide que visqueuse et [[enchevêtré|enchevêtre]] les victimes pendant 1d4 rounds ([[Réflexes]] DD 22 pour annuler). Une créature enchevêtrée subit 2d6 points de dégâts de froid par round. Elle peut se libérer avant la fin de la durée si elle réussit un test de [[Force]] DD 19 ou inflige 15 points de dégâts à la salive dans laquelle elle est enchâssée, soit avec une arme tranchante, soit par le feu. Si quelqu’un utilise le feu pour éliminer la salive, il blesse également la créature enchevêtrée. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Hibernation (Ext).** Un ursikke peut entrer dans une phase d’hibernation prolongée s’il s’enveloppe de sa salive qui durcit pour former un cocon. Il n’a alors ni besoin de boire ni de manger. Le cocon a une [[solidité]] de 10 et 60 points de vie. Il est immunisé contre les dégâts de feu. Tant qu’il est intact, l’ursikke reste indemne, en hibernation. Il doit utiliser ses attaques pour se dégager du cocon.}
 
 </div></td>
 <td><div>*Cette créature insectoïde est couverte d’une fourrure blanche duveteuse. Une paire d’yeux scintille au-dessus d’une gueule tripartite d’où goutte un liquide visqueux.*

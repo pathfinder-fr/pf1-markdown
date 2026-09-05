@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Préhensile
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Préhensile](./Descriptions individuelles des propriétés spéciales des armes.md#Préhensile)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Préhensile]]

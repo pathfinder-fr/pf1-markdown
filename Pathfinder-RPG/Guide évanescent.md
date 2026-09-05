@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Guide évanescent|{s:RSE}}
-**Aura** [Illusion](./Illusion.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 8 000 po ; **Poids** 500 g
+**Aura** [[Illusion]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 8 000 po ; **Poids** 500 g
 (((Description)))
-Un *guide évanescent* est fait d’un boîtier en ivoire plaqué d’or et d’argent. Il rempli les fonctions classiques d’un *[guide](./Guide magique.md)* (y compris créer de la lumière) et son possesseur peut, par une [action simple](./Action simple.md), appuyer sur un bouton secret pour devenir invisible (comme avec le sort *[invisibilité](./Invisibilité.md)*) et le rester tant qu’il se concentre, et ce jusqu’à une durée maximale de cinq minutes par jour. Cette durée n’est pas forcément continue mais doit se découper en portions d’une minute, même si l’utilisateur devient visible, à cause d’une action d’attaque ou par quelque autre évènement, avant que la minute ne soit écoulée.
+Un *guide évanescent* est fait d’un boîtier en ivoire plaqué d’or et d’argent. Il rempli les fonctions classiques d’un *[[Guide magique|guide]]* (y compris créer de la lumière) et son possesseur peut, par une [[action simple]], appuyer sur un bouton secret pour devenir invisible (comme avec le sort *[[invisibilité]]*) et le rester tant qu’il se concentre, et ce jusqu’à une durée maximale de cinq minutes par jour. Cette durée n’est pas forcément continue mais doit se découper en portions d’une minute, même si l’utilisateur devient visible, à cause d’une action d’attaque ou par quelque autre évènement, avant que la minute ne soit écoulée.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[invisibilité](./Invisibilité.md)*, *[lumière](./Lumière.md)* ; **Coût** 4 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[invisibilité]]*, *[[lumière]]* ; **Coût** 4 000 po
 </div>

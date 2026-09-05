@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#NAGEENRAGE
 ---
 
->>> [pouvoirs de rage#NAGEENRAGE](./Pouvoirs de rage.md#NAGEENRAGE)
+>>> [[pouvoirs de rage#NAGEENRAGE]]

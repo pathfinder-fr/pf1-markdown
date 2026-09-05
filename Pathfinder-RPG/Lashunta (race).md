@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [fiche de créature](./Lashunta.md) d'un lashunta standard.***
+{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [[Lashunta|fiche de créature]] d'un lashunta standard.***
 
 Originaires de la planète Castrovel, un lashunta voyage parfois sur Golarion pour visiter ses alliés elfiques.
 
@@ -19,12 +19,12 @@ Les lashuntas sont la race principale de Castrovel, que l'on appelle «  la Plan
 {s:Reference|TRAITSSTANDARD}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Intelligence](./Intelligence.md).** Les lashuntas sont pratiquement tous intelligents et avides d'apprendre
-- **Dimorphisme sexuel.** Les hommes et les femmes lashuntas ont un corps et une personnalité très différents, bien plus que les autres espèces humanoïdes. Les hommes lashuntas sont musculeux (+2 en [Force](./Force.md)) et sont souvent irréfléchis et inattentifs (-2 en [Sagesse](./Sagesse.md)). Les femmes lashuntas, quoique belles et autoritaires (+2 en [Charisme](./Charisme.md)), n'ont pas la carrure robuste des hommes (-2 en [Constitution](./Constitution.md)).
-- **Magie lashunta (5 PR).** Les lashuntas qui possèdent une valeur d'[Intelligence](./Intelligence.md) de 11 ou plus gagnent les [pouvoirs magiques](./Pouvoirs magiques (capacité).md) suivants  : À volonté — *[hébétement](./Hébétement.md)*, *[manipulation à distance](./Manipulation à distance.md)*  ; 1/jour — *[détection de pensées](./Détection de pensées.md)*. Le [niveau de lanceur de sorts](./NLS.md) de ces effets est égal au niveau de personnage du lashunta.
-- **Instruit.** Les lashuntas gagnent un bonus racial de +2 à toutes les compétences de [Connaissances](./Connaissances.md).
-- **Télépathie limitée.** Les lashuntas sont capables de communiquer mentalement avec n'importe quelle créature située dans un rayon de 9 mètres dont ils partagent la langue. Outre cela, cette capacité est identique à celle de [télépathie](./Télépathie (capacité).md).
-- **Langues.** Les lashuntas commencent le jeu en parlant l'elfique et le lashunta. Ceux qui possèdent une valeur d'[Intelligence](./Intelligence.md) élevée peuvent apprendre d'autres langues de leur choix (sauf les langues secrètes comme celle des [druides](./Druide.md##LANGUESSUPPLEMENTAIRES)).
+- **+2 [[Intelligence]].** Les lashuntas sont pratiquement tous intelligents et avides d'apprendre
+- **Dimorphisme sexuel.** Les hommes et les femmes lashuntas ont un corps et une personnalité très différents, bien plus que les autres espèces humanoïdes. Les hommes lashuntas sont musculeux (+2 en [[Force]]) et sont souvent irréfléchis et inattentifs (-2 en [[Sagesse]]). Les femmes lashuntas, quoique belles et autoritaires (+2 en [[Charisme]]), n'ont pas la carrure robuste des hommes (-2 en [[Constitution]]).
+- **Magie lashunta (5 PR).** Les lashuntas qui possèdent une valeur d'[[Intelligence]] de 11 ou plus gagnent les [[Pouvoirs magiques (capacité)|pouvoirs magiques]] suivants  : À volonté — *[[hébétement]]*, *[[manipulation à distance]]*  ; 1/jour — *[[détection de pensées]]*. Le [[NLS|niveau de lanceur de sorts]] de ces effets est égal au niveau de personnage du lashunta.
+- **Instruit.** Les lashuntas gagnent un bonus racial de +2 à toutes les compétences de [[Connaissances]].
+- **Télépathie limitée.** Les lashuntas sont capables de communiquer mentalement avec n'importe quelle créature située dans un rayon de 9 mètres dont ils partagent la langue. Outre cela, cette capacité est identique à celle de [[Télépathie (capacité)|télépathie]].
+- **Langues.** Les lashuntas commencent le jeu en parlant l'elfique et le lashunta. Ceux qui possèdent une valeur d'[[Intelligence]] élevée peuvent apprendre d'autres langues de leur choix (sauf les langues secrètes comme celle des [[druide##LANGUESSUPPLEMENTAIRES|druides]]).
 
 </div>
 
@@ -33,7 +33,7 @@ Les lashuntas sont la race principale de Castrovel, que l'on appelle «  la Plan
 Il est possible de choisir les traits raciaux suivants à la place des traits raciaux existants des lashuntas. Consultez votre MJ avant de prendre ces options.
 
 <u>*Remplace « magie lashunta » :*</u>
-- **Télépathie insidieuse.** Certains lashuntas ont un talent pour manipuler l'esprit de ceux avec qui ils communiquent par télépathie. Ils bénéficient d'un bonus racial de +1 aux tests de compétence basés sur le [Charisme](./Charisme.md) pour influencer tout créature avec qui ils sont en train de communiquer par télépathie. Si un lashunta transmet un ordre par télépathie à une créature charmée ou dominée, il bénéficie d'un bonus racial de +1 aux tests de Charisme pour contraindre la créature à suivre cet ordre. Ce trait racial remplace magie lashunta.
+- **Télépathie insidieuse.** Certains lashuntas ont un talent pour manipuler l'esprit de ceux avec qui ils communiquent par télépathie. Ils bénéficient d'un bonus racial de +1 aux tests de compétence basés sur le [[Charisme]] pour influencer tout créature avec qui ils sont en train de communiquer par télépathie. Si un lashunta transmet un ordre par télépathie à une créature charmée ou dominée, il bénéficie d'un bonus racial de +1 aux tests de Charisme pour contraindre la créature à suivre cet ordre. Ce trait racial remplace magie lashunta.
 
 
 ### Nouvelles règles raciales
@@ -49,12 +49,12 @@ Voici les options accessibles aux lashuntas, d’autres races adaptées peuvent 
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Connexion mentale alien](./Connexion mentale alien.md) || <sup>*ISR*</sup> || [Androïde](./Androïde (race).md), [kasatha](./Kasatha (race).md), [lashunta](./Lashunta (race).md), ou [triaxien](./Triaxien (race).md) || +4 aux jets de sauvegarde contre les effets mentaux et les scrutations
+| [[Connexion mentale alien]] || <sup>*ISR*</sup> || [[Androïde (race)|Androïde]], [[Kasatha (race)|kasatha]], [[Lashunta (race)|lashunta]], ou [[Triaxien (race)|triaxien]] || +4 aux jets de sauvegarde contre les effets mentaux et les scrutations
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Objets magiques
-- [Diadème de l'émissaire interplanétaire](./Diadème de lémissaire interplanétaire.md) *(ISR)*
+- [[Diadème de lémissaire interplanétaire|Diadème de l'émissaire interplanétaire]] *(ISR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>

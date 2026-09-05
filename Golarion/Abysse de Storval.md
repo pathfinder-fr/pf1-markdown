@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-L'abysse de Storval est un immense lac sombre et profond qui occupe une vallée entière située au sud du [plateau de Storval](./Plateau de Storval.md). Ses rives rocheuses donnent l'impression que le travail naturel de l'eau n'est pas à l'origine de ce lac. Ainsi, de nombreuses légendes disent que l'abysse de Storval cache des cités, des tunnels ou même qu'il fut créé par les anciens pour engloutir des artéfacts d'une grande magie. Au Sud, le lac est retenu par un vieux barrage, la [Croisée des crânes](./Croisée des crânes.md).
+L'abysse de Storval est un immense lac sombre et profond qui occupe une vallée entière située au sud du [[plateau de Storval]]. Ses rives rocheuses donnent l'impression que le travail naturel de l'eau n'est pas à l'origine de ce lac. Ainsi, de nombreuses légendes disent que l'abysse de Storval cache des cités, des tunnels ou même qu'il fut créé par les anciens pour engloutir des artéfacts d'une grande magie. Au Sud, le lac est retenu par un vieux barrage, la [[Croisée des crânes]].

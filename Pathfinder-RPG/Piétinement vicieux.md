@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage profite d’un avantage momentané pour donner un violent coup de pied à un ennemi à terre. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Attaques réflexes](./Attaques réflexes.md), [Science du combat à mains nues](./Science du combat à mains nues.md)
+**Conditions.** [[Attaques réflexes]], [[Science du combat à mains nues]]
 
-**Avantage.** Quand un adversaire tombe à côté du personnage, il provoque une [attaque d’opportunité](./attaque dopportunité.md) à mains nues.
+**Avantage.** Quand un adversaire tombe à côté du personnage, il provoque une [[attaque dopportunité|attaque d’opportunité]] à mains nues.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand un adversaire provoque une [attaque d’opportunité](./AO.md) à mains nues de la part du personnage parce qu’il est tombé [à terre](./À terre.md), le personnage peut dépenser 2 points d’endurance pour lui infliger 1d6 points de dégâts de plus avec ses mains nues.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand un adversaire provoque une [[AO|attaque d’opportunité]] à mains nues de la part du personnage parce qu’il est tombé [[à terre]], le personnage peut dépenser 2 points d’endurance pour lui infliger 1d6 points de dégâts de plus avec ses mains nues.

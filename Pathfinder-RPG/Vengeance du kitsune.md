@@ -14,11 +14,11 @@ Categories:
 
 *Le personnage cache judicieusement ses sournoises manigances.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Int](./Int.md) 13; [Expertise du combat](./Expertise du combat.md); [Science du sale coup](./Science du sale coup.md); [École du kitsune](./École du kitsune.md); [Tours du kitsune](./Tours du kitsune.md); [BBA](./BBA.md) +6 ou [moine](./Moine.md) de niveau 6
+**Conditions.** [[Int]] 13; [[Expertise du combat]]; [[Science du sale coup]]; [[École du kitsune]]; [[Tours du kitsune]]; [[BBA]] +6 ou [[moine]] de niveau 6
 
-**Avantage.** Quand le personnage utilise l'École du kitsune, il peut remplacer une [attaque d'opportunité](./AO.md) provoquée par un ennemi par une manœuvre de [sale coup](./sale coup.md).
+**Avantage.** Quand le personnage utilise l'École du kitsune, il peut remplacer une [[AO|attaque d'opportunité]] provoquée par un ennemi par une manœuvre de [[sale coup]].
 
 (((Kitsune Vengeance (Combat, Style)
 

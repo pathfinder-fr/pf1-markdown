@@ -11,38 +11,38 @@ Categories:
 <div class="BD">
 {s:BDTitre|Fléau parasitaire|FP 5}
 {s:pucem|Aberration|Marais|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.130](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.130]]*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille M, CM}
-{s:BDTexte|**Init** +8 ; **Sens** odorat, [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Aberration|Aberration]] de taille M, CM}
+{s:BDTexte|**Init** +8 ; **Sens** odorat, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +13}
 {s:BDTexte|**Aura** stagnation (6 m, DD 16)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 14, pris au dépourvu 14 (Dex +4, naturelle +4)}
-{s:BDTexte|**pv** 52 (7d8+21) ; [guérison accélérée](./Guérison accélérée (capacité).md) 3}
+{s:BDTexte|**pv** 52 (7d8+21) ; [[Guérison accélérée (capacité)|guérison accélérée]] 3}
 {s:BDTexte|**Réf** +8, **Vig** +5, **Vol** +8}
 {s:BDTexte|**RD** 5/magie ; **Immunités** acide, froid, poison}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 9 m, escalade 9 m, [vol](./Vol (capacité).md) 15 m (moyenne)}
-{s:BDTexte|**Corps à corps** dard, +11 (2d6+9/19-20 plus [fixation](./Fixation (capacité).md) et poison)}
+{s:BDTexte|**VD** 9 m, escalade 9 m, [[Vol (capacité)|vol]] 15 m (moyenne)}
+{s:BDTexte|**Corps à corps** dard, +11 (2d6+9/19-20 plus [[Fixation (capacité)|fixation]] et poison)}
 {s:BDTexte|**Espace occupé** 1,50 m ; **Allonge** 3 m}
-{s:BDTexte|**Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1d2 Constitution)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 5 ; [concentration](./concentration.md) +7)}
-{s:BDSorts|Constant — *[liberté de mouvement](./Liberté de mouvement.md)*, passage sans trace}
-{s:BDSorts|1/jour — *[bourrasque](./Bourrasque.md)*, *[contagion](./Contagion.md)* (DD 16), *[flou](./Flou.md)*, *[immobilisation de monstre](./Immobilisation de monstre.md)* (DD 17), *[malédiction](./sort Malédiction.md)* (DD 16), *[rabougrissement des plantes](./Rabougrissement des plantes.md)*}
+{s:BDTexte|**Attaques spéciales** [[Absorption de sang (capacité)|absorption de sang]] (1d2 Constitution)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 5 ; [[concentration]] +7)}
+{s:BDSorts|Constant — *[[liberté de mouvement]]*, passage sans trace}
+{s:BDSorts|1/jour — *[[bourrasque]]*, *[[contagion]]* (DD 16), *[[flou]]*, *[[immobilisation de monstre]]* (DD 17), *[[sort Malédiction|malédiction]]* (DD 16), *[[rabougrissement des plantes]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 18, **Con** 16, **Int** 7, **Sag** 16, **Cha** 15}
-{s:BDTexte|**BBA** +5 ; **BMO** +11 (+15 pour maintenir sa prise en situation de [lutte](./lutte.md)) ; **DMD** 25 (33 contre le [crocs-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +14, [Perception](./Perception.md) +13, [Vol](./Vol.md) +14}
+{s:BDTexte|**BBA** +5 ; **BMO** +11 (+15 pour maintenir sa prise en situation de [[lutte]]) ; **DMD** 25 (33 contre le [[croc-en-jambe|crocs-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Escalade]] +14, [[Perception]] +13, [[Vol]] +14}
 {s:BDTexte|**Langues** aklo (ne peut pas parler)}
-{s:BDTexte|**Particularités** [ne respire pas](./Ne respire pas (capacité).md)}
+{s:BDTexte|**Particularités** [[Ne respire pas (capacité)|ne respire pas]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Aura de stagnation (Sur).** L’aura de stagnation d’un fléau parasitaire provoque léthargie et torpeur chez ceux qui l’approchent, en sapant leur énergie et leur vitesse. Quand une créature approche à 6 mètres ou moins d’un fléau parasitaire, elle doit réussir un jet de [Volonté](./Volonté.md) DD 16 pour ne pas être ralentie comme si elle était sous l’effet d’un sort de *[lenteur](./Lenteur.md)*, aussi longtemps qu’elle reste dans l’aura du fléau parasitaire et pendant 1d3 rounds par la suite. Dès qu’une créature réussit son jet de sauvegarde contre l’aura, elle est immunisée contre l’aura de ce fléau parasitaire en particulier pendant 24 heures ; sinon, la créature doit refaire un jet de sauvegarde si elle entre à nouveau dans l’aura. En outre, cette aura souille les liquides de toutes sortes situés dans la zone. Une créature qui boit quelque chose alors qu’elle se trouve dans l’aura d’un fléau parasitaire (y compris des [potions](./Potions magiques.md) et des élixirs alchimiques) doit réussir un jet de [Vigueur](./Vigueur.md) DD 16 pour ne pas être [nauséeuse](./Nauséeux.md) pendant 1d3 rounds. Le DD du jet de sauvegarde est basé sur le Constitution.}
-{s:BDTexte|**Poison (Sur).** Dard — blessure ; *JdS* Vigueur DD 16 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) 1d4 [Sagesse](./Sagesse.md) et [confusion](./Confus.md) pendant 1 round ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Aura de stagnation (Sur).** L’aura de stagnation d’un fléau parasitaire provoque léthargie et torpeur chez ceux qui l’approchent, en sapant leur énergie et leur vitesse. Quand une créature approche à 6 mètres ou moins d’un fléau parasitaire, elle doit réussir un jet de [[Volonté]] DD 16 pour ne pas être ralentie comme si elle était sous l’effet d’un sort de *[[lenteur]]*, aussi longtemps qu’elle reste dans l’aura du fléau parasitaire et pendant 1d3 rounds par la suite. Dès qu’une créature réussit son jet de sauvegarde contre l’aura, elle est immunisée contre l’aura de ce fléau parasitaire en particulier pendant 24 heures ; sinon, la créature doit refaire un jet de sauvegarde si elle entre à nouveau dans l’aura. En outre, cette aura souille les liquides de toutes sortes situés dans la zone. Une créature qui boit quelque chose alors qu’elle se trouve dans l’aura d’un fléau parasitaire (y compris des [[Potions magiques|potions]] et des élixirs alchimiques) doit réussir un jet de [[Vigueur]] DD 16 pour ne pas être [[nauséeux|nauséeuse]] pendant 1d3 rounds. Le DD du jet de sauvegarde est basé sur le Constitution.}
+{s:BDTexte|**Poison (Sur).** Dard — blessure ; *JdS* Vigueur DD 16 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] 1d4 [[Sagesse]] et [[confus|confusion]] pendant 1 round ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div></td>
 <td><div>*Cette créature semblable à un moustique, mais de taille humaine, possède une longue trompe flexible dont l’extrémité se termine par un dard venimeux.*

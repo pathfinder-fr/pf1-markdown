@@ -11,27 +11,27 @@ Categories:
 {s:Menuarchétypedruide}{s:APG}*Loin des contrées verdoyantes de la surface s’étend un monde d’obscurité. Cette sombre féérie possède une beauté et des merveilles naturelles qui lui sont propres, et rares sont les druides qui cherchent à préserver ce royaume caché et à le purifier de toutes les horreurs qui rampent vers la lumière.*
 
 #### Sens des cavernes (Ext)
-[Connaissances](./Connaissances.md) (exploration souterraine) est une [compétence](./Compétences.md) de classe et remplace [Connaissances](./Connaissances.md) (géographie). Il reçoit un bonus de +2 sur les [tests](./../Golarion/Test.md) impliquant cette [compétence](./Compétences.md) et sur ses [tests](./../Golarion/Test.md) de [Survie](./Survie.md). Cette capacité remplace [instinct naturel](./Druide.md#INSTINCTNATUREL).
+[[Connaissances]] (exploration souterraine) est une [[compétences|compétence]] de classe et remplace [[Connaissances]] (géographie). Il reçoit un bonus de +2 sur les [[test|tests]] impliquant cette [[compétences|compétence]] et sur ses [[test|tests]] de [[Survie]]. Cette capacité remplace [[druide#INSTINCTNATUREL|instinct naturel]].
 
 
 #### Pacte avec la nature (Ext)
-Le personnage a accès au [domaine de l’Obscurité](./Domaine de lObscurité.md), en plus de ceux normalement permis à sa classe, mais pas aux domaines de l’[Air](./Domaine de lAir.md) et du [Climat](./Domaine du Climat.md).
+Le personnage a accès au [[domaine de lObscurité|domaine de l’Obscurité]], en plus de ceux normalement permis à sa classe, mais pas aux domaines de l’[[domaine de lAir|Air]] et du [[domaine du Climat|Climat]].
 
 
 #### Empathie sauvage (Sur)
-Le personnage peut influencer les [vases](./type Vase.md) à la place des [créatures magiques](./type Créature magique.md), mais il subira une pénalité de -4 sur son [jet](./../Golarion/Test.md).
+Le personnage peut influencer les [[type vase|vases]] à la place des [[type créature magique|créatures magiques]], mais il subira une pénalité de -4 sur son [[test|jet]].
 
 
 #### Ami des souterrains (Ext)
-Au [niveau](./niveau.md) 2, un [druide](./Druide.md) des cavernes peut se déplacer à sa [vitesse](./VD.md) normale et sans pénalité dans des zones encombrées de gravats ou dans des passages étroits. Cette capacité remplace [déplacement facilité](./Druide.md#DEPLACEMENTFACILITE).
+Au [[niveau]] 2, un [[druide]] des cavernes peut se déplacer à sa [[VD|vitesse]] normale et sans pénalité dans des zones encombrées de gravats ou dans des passages étroits. Cette capacité remplace [[druide#DEPLACEMENTFACILITE|déplacement facilité]].
 
 #### Pied léger (Ext)
-Au [niveau](./niveau.md) 3, il est impossible de détecter le personnage par la [perception des vibrations](./Perception des vibrations.md). Cette capacité remplace [absence de traces](./Druide.md#ABSENCEDETRACES).
+Au [[niveau]] 3, il est impossible de détecter le personnage par la [[perception des vibrations]]. Cette capacité remplace [[druide#ABSENCEDETRACES|absence de traces]].
 
 
 #### Résistance à la corruption souterraine (Sur)
-Au [niveau](./niveau.md) 4, le [druide](./Druide.md) des cavernes reçoit un bonus de +2 sur ses [jets de sauvegarde](./jet de sauvegarde.md) contre les [capacités exceptionnelles](./Capacités spéciales.md#TYPES) et [surnaturelles](./Capacités spéciales.md#TYPES) et sur les [pouvoirs magiques](./Capacités spéciales.md#TYPES) des [vases](./type Vase.md) et des [aberrations](./type Aberration.md). Cette capacité remplace [résistance à l'appel de la nature](./Druide.md#RESISTANCEALAPPELDELANATURE).
+Au [[niveau]] 4, le [[druide]] des cavernes reçoit un bonus de +2 sur ses [[jet de sauvegarde|jets de sauvegarde]] contre les [[Capacités spéciales#TYPES|capacités exceptionnelles]] et [[Capacités spéciales#TYPES|surnaturelles]] et sur les [[Capacités spéciales#TYPES|pouvoirs magiques]] des [[type vase|vases]] et des [[type aberration|aberrations]]. Cette capacité remplace [[druide#RESISTANCEALAPPELDELANATURE|résistance à l'appel de la nature]].
 
 
 #### Forme animale (Sur)
-Un [druide](./Druide.md) des cavernes reçoit cette aptitude au niveau 6 et son niveau effectif sera égal à son niveau de [druide](./Druide.md) -2. Il ne peut utiliser ce pouvoir pour adopter une forme végétale. Au niveau 10, il peut se transformer en [vase](./type Vase.md) de [taille](./taille.md) P ou M comme avec *[forme bestiale III](./Forme bestiale III.md)*, et en [vase](./type Vase.md) de [taille](./taille.md) TP ou G au [niveau](./niveau.md) 12 comme avec *[forme bestiale IV](./Forme bestiale IV.md)* (considérez les [vases](./type Vase.md) comme des [créatures magiques](./type Créature magique.md) sans bonus d’[armure naturelle](./CA.md)). Lorsqu’il est sous cette forme, il n’a aucune anatomie identifiable et est immunisé aux effets du [poison](./poison.md), de l’[attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) et des [coups critiques](./Actions simples.md#COUPCRITIQUE).
+Un [[druide]] des cavernes reçoit cette aptitude au niveau 6 et son niveau effectif sera égal à son niveau de [[druide]] -2. Il ne peut utiliser ce pouvoir pour adopter une forme végétale. Au niveau 10, il peut se transformer en [[type vase|vase]] de [[taille]] P ou M comme avec *[[forme bestiale III]]*, et en [[type vase|vase]] de [[taille]] TP ou G au [[niveau]] 12 comme avec *[[forme bestiale IV]]* (considérez les [[type vase|vases]] comme des [[type créature magique|créatures magiques]] sans bonus d’[[CA|armure naturelle]]). Lorsqu’il est sous cette forme, il n’a aucune anatomie identifiable et est immunisé aux effets du [[poison]], de l’[[roublard#ATTAQUESOURNOISE|attaque sournoise]] et des [[Actions simples#COUPCRITIQUE|coups critiques]].

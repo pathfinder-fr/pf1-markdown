@@ -13,20 +13,20 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [Illusion](./Illusion.md) ([hallucination](./branche hallucination.md)) ; **Niveau** [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Hyp](./Hypnotiseur.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1  
+{s:AO}**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[hypnotiseur|Hyp]] 1, [[médium|Méd]] 1, [[occultiste|Occ]] 1, [[psychiste|Psy]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./courte.md)  
+**Portée** [[courte|contact]]  
 
 **Cible** créature ou objet touché  
 
 **Durée** 10 minutes/niveau (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) et [Volonté](./Volonté.md), [dévoile](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** voir texte
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) et [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (voir texte) ; **Résistance à la magie** voir texte
 
-Le personnage fait apparaître une image idéalisée de la cible, créature ou objet, masquant ses défauts ou ses blessures. Une créature blessée ou malade semble en parfaite santé tandis qu’un objet abîmé ou brisé paraît intact. En revanche, un cadavre sous l’effet de quintessence semble toujours mort et un objet détruit ne semblera pas en parfait état. L’illusion a des composantes visuelles et tactiles. Il faut se consacrer à un examen attentif de la cible ou la manipuler pour avoir droit à un jet de sauvegarde pour percer l’illusion à jour, une observation superficielle n’y donne pas droit. Si un personnage utilise un objet brisé pour effectuer ce pour quoi il a été conçu, il découvre automatiquement la supercherie. Si un personnage utilise [Estimation](./Estimation.md) sur un objet bénéficiant de quintessence, il l’estime comme un objet en parfait état, à moins qu’il ne perce l’illusion à jour.
+Le personnage fait apparaître une image idéalisée de la cible, créature ou objet, masquant ses défauts ou ses blessures. Une créature blessée ou malade semble en parfaite santé tandis qu’un objet abîmé ou brisé paraît intact. En revanche, un cadavre sous l’effet de quintessence semble toujours mort et un objet détruit ne semblera pas en parfait état. L’illusion a des composantes visuelles et tactiles. Il faut se consacrer à un examen attentif de la cible ou la manipuler pour avoir droit à un jet de sauvegarde pour percer l’illusion à jour, une observation superficielle n’y donne pas droit. Si un personnage utilise un objet brisé pour effectuer ce pour quoi il a été conçu, il découvre automatiquement la supercherie. Si un personnage utilise [[Estimation]] sur un objet bénéficiant de quintessence, il l’estime comme un objet en parfait état, à moins qu’il ne perce l’illusion à jour.
 
-Une cible non consentante peut annuler l’effet du sort sur sa personne avec un jet de [Volonté](./Volonté.md) réussi ou une [résistance à la magie](./Résistance à la magie (capacité).md). Les personnes interagissant avec la cible ont droit à un jet de [Volonté](./Volonté.md) pour percer l’illusion à jour mais n’appliquent pas leur résistance à la magie. Quintessence contre et dissipe *[déguisement décrépi](./Déguisement décrépi.md)*.
+Une cible non consentante peut annuler l’effet du sort sur sa personne avec un jet de [[Volonté]] réussi ou une [[résistance à la magie (capacité)|résistance à la magie]]. Les personnes interagissant avec la cible ont droit à un jet de [[Volonté]] pour percer l’illusion à jour mais n’appliquent pas leur résistance à la magie. Quintessence contre et dissipe *[[déguisement décrépi]]*.

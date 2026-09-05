@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|<i>Source : Bestiaire 2 p.242</i>}
 {s:BDTexte|<b>PX</b> 4800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Intangible](./sous-type intangible.md)) de taille M, NM}
-{s:BDTexte|<b>Init</b> +4 ; <b>Sens</b> [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Intangible|Intangible]]) de taille M, NM}
+{s:BDTexte|<b>Init</b> +4 ; <b>Sens</b> [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 20, contact 20, pris au dépourvu 15 (Dex +4, esquive +1, parade +5)}
 {s:BDTexte|<b>pv</b> 90 (12d10+24)}
@@ -25,16 +25,16 @@ Categories:
 {s:BDTexte|<b>VD</b> vol 12 m (9 {s:c}) (parfaite)}
 {s:BDTexte|<b>Corps à corps</b> intangible contact +16 (6d8 énergie négative plus malédiction du cauchemar)}
 {s:BDTexte|<b>Pouvoirs magiques</b> (NLS 12 ; concentration +17}
-{s:BDTexte|<i>3/jour</i> — [cauchemar](./sort Cauchemar.md) (DD 20), [porte dimensionnelle](./Porte dimensionnelle.md), [sommeil profond](./Sommeil profond.md)
+{s:BDTexte|<i>3/jour</i> — [[sort Cauchemar|cauchemar]] (DD 20), [[porte dimensionnelle]], [[sommeil profond]]
 (DD 18)}
-{s:BDTexte|<i>1/jour </i> — [assassin imaginaire](./Assassin imaginaire.md) (DD 19), [confusion](./Confusion.md) (DD 19), [terreur](./Terreur.md) (DD 19)}
+{s:BDTexte|<i>1/jour </i> — [[assassin imaginaire]] (DD 19), [[confusion]] (DD 19), [[terreur]] (DD 19)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> -- , <b>Dex</b> 18, <b>Con</b> 15, <b>Int</b> 10, <b>Sag</b> 15, <b>Cha</b> 21}
 {s:BDTexte|<b>BBA</b> +12, <b>BMO</b> +16, <b>DMD</b> 32}
-{s:BDTexte|<b>Dons</b>  [Attaque en vol](./Attaque en vol.md), [Combat en aveugle](./Combat en aveugle.md), [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Souplesse du serpent](./Souplesse du serpent.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|<b>Compétences</b> [Bluff](./Bluff.md) +20, [Connaissances (plans)](./Connaissances.md) +15, [Discrétion](./Discrétion.md) +19,
-[Intimidation](./Intimidation.md) +20, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +17, [Vol](./Vol.md) +12}
-{s:BDTexte|<b>Langues</b> [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|<b>Dons</b>  [[Attaque en vol]], [[Combat en aveugle]], [[Esquive]], [[Magie de guerre]], [[Souplesse du serpent]], [[Volonté de fer]]}
+{s:BDTexte|<b>Compétences</b> [[Bluff]] +20, [[Connaissances|Connaissances (plans)]] +15, [[Discrétion]] +19,
+[[Intimidation]] +20, [[Perception]] +17, [[Psychologie]] +17, [[Vol]] +12}
+{s:BDTexte|<b>Langues</b> [[télépathie]] 30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> tous (plan Éthéré)}
 {s:BDTexte|<b>Organisation sociale</b> solitaire}

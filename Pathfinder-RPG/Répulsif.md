@@ -13,20 +13,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[douleur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 4, [Cham](./Chaman.md) 4, [Dru](./Druide.md) 4, [Prê](./Prêtre.md) 4, [Rôd](./Rôdeur.md) 3  
+**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|douleur]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Prêtre|Prê]] 4, [[Rôdeur|Rôd]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
 **Portée** 3 m (2 {s:c})  
 
-**Zone d'effet** [émanation](./émanation.md) de 3 m (2 {s:c}) de rayon, centrée sur le jeteur de sorts  
+**Zone d'effet** [[émanation]] de 3 m (2 {s:c}) de rayon, centrée sur le jeteur de sorts  
 
-**Durée** 10 minutes/[niveau](./niveau.md) (T)  
+**Durée** 10 minutes/[[niveau]] (T)  
 
-**Jet de sauvegarde** aucun ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
+**Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
-Cette incantation génère une barrière invisible qui repousse la [vermine](./type Vermine.md). Les créatures qui appartiennent à cette catégorie n’ont aucune chance de passer si leur nombre de [dés de vie](./../Ressources/DV.md) est inférieur au tiers du [niveau](./niveau.md) du personnage.
+Cette incantation génère une barrière invisible qui repousse la [[type vermine|vermine]]. Les créatures qui appartiennent à cette catégorie n’ont aucune chance de passer si leur nombre de [[DV|dés de vie]] est inférieur au tiers du [[niveau]] du personnage.
 
-Au-delà, elles ont droit à un jet de [Volonté](./Volonté.md) pour surmonter l’effet du sort. Même en cas de succès, elles reçoivent 2d6 points de dégâts en traversant la barrière du *répulsif*. La douleur qu’elles ressentent en s’approchant de la zone suffit bien souvent à faire rebrousser chemin aux moins agressives.
+Au-delà, elles ont droit à un jet de [[Volonté]] pour surmonter l’effet du sort. Même en cas de succès, elles reçoivent 2d6 points de dégâts en traversant la barrière du *répulsif*. La douleur qu’elles ressentent en s’approchant de la zone suffit bien souvent à faire rebrousser chemin aux moins agressives.

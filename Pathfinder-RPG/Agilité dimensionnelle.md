@@ -10,8 +10,8 @@ Categories:
 
 {s:uc}*La téléportation ne perturbe plus le personnage.*
 
-**Conditions.** [Pas chassé](./Moine.md#PASCHASSE) ou *[porte dimensionnelle](./Porte dimensionnelle.md)*
+**Conditions.** [[moine#PASCHASSE|Pas chassé]] ou *[[porte dimensionnelle]]*
 
-**Avantage.** Le personnage peut effectuer toutes les actions qui lui restent après avoir lancé *[porte dimensionnelle](./Porte dimensionnelle.md)* ou fait un pas chassé.
+**Avantage.** Le personnage peut effectuer toutes les actions qui lui restent après avoir lancé *[[porte dimensionnelle]]* ou fait un pas chassé.
 
-Il gagne aussi un bonus de +4 aux tests de [Concentration](./concentration.md) quand il lance un sort de [téléportation](./Présentation des sorts.md#TELEPORTATION).
+Il gagne aussi un bonus de +4 aux tests de [[Concentration]] quand il lance un sort de [[présentation des sorts#TELEPORTATION|téléportation]].

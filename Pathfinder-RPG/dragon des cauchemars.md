@@ -12,23 +12,23 @@ Categories:
 {s:BDTitre|Dragon ésotérique des cauchemars|}
 {s:pucem|Dragon|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 5 p.96*}
-{s:BDTexte|[Dragon](./type Dragon.md) ([extraplanaire](./sous-type extraplanaire.md)), NM}
+{s:BDTexte|[[type Dragon|Dragon]] ([[sous-type extraplanaire|extraplanaire]]), NM}
 {s:BDSousTitre|Caractéristiques de base}
 {s:BDTexte|**FP** 2 ; **Taille** TP ; **DV** 3d12}
 {s:BDTexte|**VD** 18 m}
-{s:BDTexte|**Armure naturelle** +2 ; **Souffle** [cône](./cône.md), 2d6 acide}
+{s:BDTexte|**Armure naturelle** +2 ; **Souffle** [[cône]], 2d6 acide}
 {s:BDTexte|**For** 15, **Dex** 15, **Con** 16, **Int** 10, **Sag** 12, **Cha** 13}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (dimension du Rêve)}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** triple}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Assassin cauchemardesque (Sur).** Trois fois par jour, quand un dragon des cauchemars vieux ou plus âgé tue une créature vivante, il peut lancer le sort *[assassin imaginaire](./Assassin imaginaire.md)* par une [action libre](./Action libre.md).}
-{s:BDTexte|**Changement de forme (Sur).** Trois fois par jour, un dragon des cauchemars jeune adulte ou plus âgé peut prendre la forme de n’importe quelle créature [humanoïde](./type Humanoïde.md) d’une taille égale ou inférieure à la sienne, comme s’il utilisait la *[métamorphose](./métamorphose.md)*.}
-{s:BDTexte|**Griffes cauchemardesques (Sur).** Les griffes des dragons des cauchemars adultes ou plus âgés sont considérées comme des armes *[acérées](./acérée (propriété).md)*.}
-{s:BDTexte|**Magie psychique (Mag).** Un dragon des cauchemars gagne les sorts psychiques suivants lorsqu’il atteint la catégorie d’âge indiquée : adolescent – *[coup au but](./Coup au but.md)* (1 EP), *[son imaginaire](./Son imaginaire.md)* (0 EP) ; vieux – *[cauchemar](./sort Cauchemar.md)* (5 EP), *[porte dimensionnelle](./Porte dimensionnelle.md)* (4 EP).}
-{s:BDTexte|**Présence horrifiante (Sur).** Une créature qui rate son jet de [Volonté](./Volonté.md) contre la [présence terrifiante](./Présence terrifiante (capacité).md) d’un dragon des cauchemars vénérable ou plus âgé est [paniquée](./Paniqué.md) si son nombre de [dés de vie](./../Ressources/DV.md) est inférieur à celui du dragon.}
-{s:BDTexte|**Terreur onirique (Sur).** Un dragon des cauchemars grand dracosire peut contrôler dans ses moindres détails n’importe quel [paysage onirique](./Plans ésotériques.md#DIMENSIONDUREVE) dans lequel il entre, et le façonner comme il le souhaite. Quand le corps lucide d’une créature meurt dans un paysage onirique contrôlé par le grand dracosire, son corps matériel meurt également.}
+{s:BDTexte|**Assassin cauchemardesque (Sur).** Trois fois par jour, quand un dragon des cauchemars vieux ou plus âgé tue une créature vivante, il peut lancer le sort *[[assassin imaginaire]]* par une [[action libre]].}
+{s:BDTexte|**Changement de forme (Sur).** Trois fois par jour, un dragon des cauchemars jeune adulte ou plus âgé peut prendre la forme de n’importe quelle créature [[type Humanoïde|humanoïde]] d’une taille égale ou inférieure à la sienne, comme s’il utilisait la *[[métamorphose]]*.}
+{s:BDTexte|**Griffes cauchemardesques (Sur).** Les griffes des dragons des cauchemars adultes ou plus âgés sont considérées comme des armes *[[acérée (propriété)|acérées]]*.}
+{s:BDTexte|**Magie psychique (Mag).** Un dragon des cauchemars gagne les sorts psychiques suivants lorsqu’il atteint la catégorie d’âge indiquée : adolescent – *[[coup au but]]* (1 EP), *[[son imaginaire]]* (0 EP) ; vieux – *[[sort Cauchemar|cauchemar]]* (5 EP), *[[porte dimensionnelle]]* (4 EP).}
+{s:BDTexte|**Présence horrifiante (Sur).** Une créature qui rate son jet de [[Volonté]] contre la [[Présence terrifiante (capacité)|présence terrifiante]] d’un dragon des cauchemars vénérable ou plus âgé est [[paniqué|paniquée]] si son nombre de [[DV|dés de vie]] est inférieur à celui du dragon.}
+{s:BDTexte|**Terreur onirique (Sur).** Un dragon des cauchemars grand dracosire peut contrôler dans ses moindres détails n’importe quel [[Plans ésotériques#DIMENSIONDUREVE|paysage onirique]] dans lequel il entre, et le façonner comme il le souhaite. Quand le corps lucide d’une créature meurt dans un paysage onirique contrôlé par le grand dracosire, son corps matériel meurt également.}
 {s:BDTexte|**Vision onirique (Sur).** Un dragon des cauchemars très jeune ou plus âgé peut visionner les rêves de créatures endormies.}
 
 </div></td>
@@ -38,13 +38,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Jeune dragon des cauchemars](./Jeune dragon des cauchemars.md) || 6
+| [[Jeune dragon des cauchemars]] || 6
 |-
-| [Dragon des cauchemars adulte](./Dragon des cauchemars adulte.md) || 10
+| [[Dragon des cauchemars adulte]] || 10
 |-
-| [Dragon des cauchemars vénérable](./Dragon des cauchemars vénérable.md) || 15
+| [[Dragon des cauchemars vénérable]] || 15
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons ésotériques](./dragon ésotérique.md).***</li></ul>*Ce dragon couleur d’ébène, agrémenté de touffes de poils rouges et affreusement crispé, semble traquer les ombres.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon ésotérique|dragons ésotériques]].***</li></ul>*Ce dragon couleur d’ébène, agrémenté de touffes de poils rouges et affreusement crispé, semble traquer les ombres.*
 
 Ces chasseurs de la dimension du Rêve poussent les dormeurs à cauchemarder et intensifient la terreur des mauvais rêves en cours. Les dragons des cauchemars œuvrent souvent aux côtés des guenaudes noires pour compléter leur sinistre collection d’âmes assoupies.
 
@@ -54,27 +54,27 @@ Ces chasseurs de la dimension du Rêve poussent les dormeurs à cauchemarder et 
 |- CLASS="titre"
 | Catégorie d'âge  || Capacités spéciales || NLS
 |- CLASS="premier"
-| Dragonnet || [vision dans les ténèbres](./Vision dans les ténèbres (capacité).md) || —
+| Dragonnet || [[Vision dans les ténèbres (capacité)|vision dans les ténèbres]] || —
 |- CLASS="alt"
 | Très jeune || vision onirique || —
 |-
-| Jeune || [immunité](./Immunité (capacité).md) contre les effets mentaux || —
+| Jeune || [[Immunité (capacité)|immunité]] contre les effets mentaux || —
 |- CLASS="alt"
-| Adolescent || [magie psychique](./Magie psychique (capacité).md), [présence terrifiante](./Présence terrifiante (capacité).md) || 1
+| Adolescent || [[Magie psychique (capacité)|magie psychique]], [[Présence terrifiante (capacité)|présence terrifiante]] || 1
 |-
-| Jeune adulte || changement de forme, [RD](./RD.md) 5/magie || 3
+| Jeune adulte || changement de forme, [[RD]] 5/magie || 3
 |- CLASS="alt"
 | Adulte || griffes cauchemardesques || 5
 |-
-| Âge mûr || [RD](./RD.md) 10/magie || 7
+| Âge mûr || [[RD]] 10/magie || 7
 |- CLASS="alt"
-| Vieux || assassin cauchemardesque, [magie psychique](./Magie psychique (capacité).md) || 9
+| Vieux || assassin cauchemardesque, [[Magie psychique (capacité)|magie psychique]] || 9
 |-
-| Très vieux || [RD](./RD.md) 15/magie || 11
+| Très vieux || [[RD]] 15/magie || 11
 |- CLASS="alt"
 | Vénérable || présence horrifiante || 13
 |-
-| Dracosire || [RD](./RD.md) 20/magie || 15
+| Dracosire || [[RD]] 20/magie || 15
 |- CLASS="alt"
 | Grand dracosire || terreur onirique || 17
 |}</center>

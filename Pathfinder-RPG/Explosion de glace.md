@@ -9,10 +9,10 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[froid](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [druide](./Druide.md) 4, [magus](./Magus.md) 4, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 4, [sorcière](./Sorcière.md) 4  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 4, [[magus]] 4, [[ensorceleur]]/[[magicien]] 4, [[sorcière]] 4  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-Un sort incluant cet effet inflige 1d6 points de dégâts de froid par [niveau de lanceur](./NLS.md) (maximum 10d6). Une cible qui rate son [jet de sauvegarde](./jet de sauvegarde.md) est également [enchevêtrée](./Enchevêtré.md) pendant 1d4 [round](./round.md).
+Un sort incluant cet effet inflige 1d6 points de dégâts de froid par [[NLS|niveau de lanceur]] (maximum 10d6). Une cible qui rate son [[jet de sauvegarde]] est également [[enchevêtré|enchevêtrée]] pendant 1d4 [[round]].

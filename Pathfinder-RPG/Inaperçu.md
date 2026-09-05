@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*La petite taille du personnage lui permet de se dissimuler rapidement.*
 
-**Conditions.** [Dex](./Dextérité.md) 13, [taille inférieure ou égale à P](./Petites et grandes créatures.md#TABLEAUTAILLES).
+**Conditions.** [[Dextérité|Dex]] 13, [[Petites et grandes créatures#TABLEAUTAILLES|taille inférieure ou égale à P]].
 
-**Avantage.** Au cours du premier round de combat, on considère que les ennemis du personnage qui sont [pris au dépourvu](./Pris au dépourvu.md) ne l’ont pas encore aperçu. Il peut donc tenter un test de [Discrétion](./Discrétion.md) pour se cacher.
+**Avantage.** Au cours du premier round de combat, on considère que les ennemis du personnage qui sont [[pris au dépourvu]] ne l’ont pas encore aperçu. Il peut donc tenter un test de [[Discrétion]] pour se cacher.

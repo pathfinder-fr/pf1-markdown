@@ -4,7 +4,7 @@ Title: Skelt
 LastModified: 2023-09-17 14:32
 ---
 
-Seconde ville la plus importante du [Nirmathas](./Nirmathas.md), la cité forteresse est bâtie sur une haute falaise dominant les chutes de la [Tourondel](./Tourondel.md). Elle n’est accessible que par un réseau d’ascenseurs hydrauliques et de longues passerelles segmentées par des ponts-levis. Depuis l’ouverture du [Val sanglant](./Val sanglant.md), de nouvelles routes commerciales et carrossables partent de [Skelt](./Skelt.md), pour rejoindre [Korvosa](./Korvosa.md) en [Varisie](./Varisie.md), remplaçant les chemins muletiers plus rustiques. Grâce aux nains de [Kraggodan](./Kraggodan.md), la ville maîtrise et utilise l’énergie hydraulique à des fins industrielles. Cette énergie est déployée grâce à des machines qui :
+Seconde ville la plus importante du [[Nirmathas]], la cité forteresse est bâtie sur une haute falaise dominant les chutes de la [[Tourondel]]. Elle n’est accessible que par un réseau d’ascenseurs hydrauliques et de longues passerelles segmentées par des ponts-levis. Depuis l’ouverture du [[Val sanglant]], de nouvelles routes commerciales et carrossables partent de [[Skelt]], pour rejoindre [[Korvosa]] en [[Varisie]], remplaçant les chemins muletiers plus rustiques. Grâce aux nains de [[Kraggodan]], la ville maîtrise et utilise l’énergie hydraulique à des fins industrielles. Cette énergie est déployée grâce à des machines qui :
 - réduisent le minerai en poudre,
 - font fonctionner les ascenseurs miniers ainsi que ceux permettant d'accéder à la ville,
-- font tourner les lames circulaires ou droites des nombreuses scieries qui bordent la [Tourondel](./Tourondel.md).
+- font tourner les lames circulaires ou droites des nombreuses scieries qui bordent la [[Tourondel]].

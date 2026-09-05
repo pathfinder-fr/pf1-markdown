@@ -15,14 +15,14 @@ Categories:
 ---
 
 {s:racial|Demi-orque|demi-orques|Illustrations/PNJ/Demi-orque.jpg}{s:MR}
-**École** [Transmutation](./Transmutation.md) ;
-**Niveau** [Alch](./Alchimiste.md) 5, [Dru](./Druide.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Prê](./Prêtre.md) 5, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5  
+**École** [[Transmutation]] ;
+**Niveau** [[Alchimiste|Alch]] 5, [[Druide|Dru]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
 
 **Temps d'incantation** 1 heure  
 
-**Composantes** [V, G, FD](./composantes.md) (huiles et poisons d'une valeur de 3 000 po)  
+**Composantes** [[composantes|V, G, FD]] (huiles et poisons d'une valeur de 3 000 po)  
 
-**Portée** [contact](./contact.md)  
+**Portée** [[contact]]  
 
 **Cible** demi-orque consentant touché  
 
@@ -30,4 +30,4 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Le personnage transforme la cible [demi-orque](./Demi-orque.md) en [orque](./orque (race).md) de sang pur. La cible perd tous ses traits raciaux de demi-orque et gagne ceux des orques.
+Le personnage transforme la cible [[demi-orque]] en [[orque (race)|orque]] de sang pur. La cible perd tous ses traits raciaux de demi-orque et gagne ceux des orques.

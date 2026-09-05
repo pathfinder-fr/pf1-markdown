@@ -14,13 +14,13 @@ Categories:
 ---
 
 {s:UC}
-**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)); **Niveau** [Con](./Conjurateur.md) 6, [Hyp](./Hypnotiseur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7, [Sor](./Sorcière.md) 7</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, G, F](./composantes.md) (une pièce)</br>
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))</br>
-**Cible** une créature/4 [niveaux](./niveau.md)</br>
-**Durée** 1 round/[niveau](./niveau.md) ou jusqu’à épuisement</br>
+**École** [[Invocation]] ([[Branche téléportation|téléportation]]); **Niveau** [[Conjurateur|Con]] 6, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[Composantes|V, G, F]] (une pièce)</br>
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])</br>
+**Cible** une créature/4 [[niveau|niveaux]]</br>
+**Durée** 1 round/[[niveau]] ou jusqu’à épuisement</br>
 **Jet de sauvegarde** Volonté pour annuler ; **Résistance à la magie** oui
 
 
-Ce sort fonctionne comme *[juxtaposition hostile](./Juxtaposition hostile.md)* mais le personnage peut viser une créature par tranche de quatre niveaux de lanceur de sorts ou une seule créature plus grande que lui. Tant que le sort fait effet, il peut se téléporter une fois avec chaque créature. Une fois qu’il a changé de place avec toutes ses cibles, le sort expire.
+Ce sort fonctionne comme *[[juxtaposition hostile]]* mais le personnage peut viser une créature par tranche de quatre niveaux de lanceur de sorts ou une seule créature plus grande que lui. Tant que le sort fait effet, il peut se téléporter une fois avec chaque créature. Une fois qu’il a changé de place avec toutes ses cibles, le sort expire.

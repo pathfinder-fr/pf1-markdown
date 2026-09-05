@@ -12,4 +12,4 @@ style="width: 830px; height: 600px"
 
 <a href="http://docs.google.com/spreadsheets/d/1-kz4Ghd-g7DfdJMoeoy8-0_x5WT4G0H7egYHyeyxPEA/edit?usp=sharing">Éditer la liste (GoogleSheet)</a>
 
-[Ancienne version](./Glossaire des monstres (old).md)
+[[Glossaire des monstres (old)|Ancienne version]]

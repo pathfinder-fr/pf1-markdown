@@ -9,6 +9,6 @@ Categories:
 
 {s:mr}*Le Dieu du feu récompense le personnage lorsqu’il tue ses ennemis par le feu.*
 
-**Conditions.** [Orque](./orque (race).md) ou [demi-orque](./Demi-orque.md), fidèle du dieu du feu
+**Conditions.** [[orque (race)|Orque]] ou [[demi-orque]], fidèle du dieu du feu
 
-**Avantage.** En combat, s’il inflige des dégâts de feu à un adversaire, le personnage récupère 1 [point de vie](./pv.md). Il peut bénéficier de ce soin une seule fois par [round](./round.md). Une cible qui prend feu suite aux attaques du personnage permet de le soigner chaque [round](./round.md) pendant laquelle la cible subit des dégâts de feu.
+**Avantage.** En combat, s’il inflige des dégâts de feu à un adversaire, le personnage récupère 1 [[pv|point de vie]]. Il peut bénéficier de ce soin une seule fois par [[round]]. Une cible qui prend feu suite aux attaques du personnage permet de le soigner chaque [[round]] pendant laquelle la cible subit des dégâts de feu.

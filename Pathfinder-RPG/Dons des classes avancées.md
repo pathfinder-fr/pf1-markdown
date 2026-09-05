@@ -19,157 +19,157 @@ Pour chacun des dons listés il faut désormais
 
 ### Dons généraux
 
-- [Absorption rageuse](./Absorption rageuse.md)
-- [Acrobate rusé](./Acrobate rusé.md)*
-- [Alchimie inspirée](./Alchimie inspirée.md) 
-- [Allié naturel spontané](./Allié naturel spontané.md)
-- [Âme animale](./Âme animale.md)
-- [Arme de l’élu](./Arme de lélu.md)* 
-- [Science de l’arme de l’élu](./Science de larme de lélu.md)* 
-- [Arme de l’Élu supérieure](./Arme de lélu supérieure.md)* 
-- [Armure résiliente](./Armure résiliente.md) 
-- [Bénédiction accélérée](./Bénédiction accélérée.md)
-- [Bénédiction canalisée](./Bénédiction canalisée.md) 
-- [Bénédiction de guerre](./Bénédiction de guerre.md) 
-- [Bienfait du croyant](./Bienfait du croyant.md) 
-- [Mains du croyant](./Mains du croyant.md) 
-- [Boucherie impitoyable](./Boucherie impitoyable.md)* 
-- [Bretteur amateur](./Bretteur amateur.md)* 
+- [[Absorption rageuse]]
+- [[Acrobate rusé]]*
+- [[Alchimie inspirée]] 
+- [[Allié naturel spontané]]
+- [[Âme animale]]
+- [[Arme de lélu|Arme de l’élu]]* 
+- [[Science de larme de lélu|Science de l’arme de l’élu]]* 
+- [[Arme de lélu supérieure|Arme de l’Élu supérieure]]* 
+- [[Armure résiliente]] 
+- [[Bénédiction accélérée]]
+- [[Bénédiction canalisée]] 
+- [[Bénédiction de guerre]] 
+- [[Bienfait du croyant]] 
+- [[Mains du croyant]] 
+- [[Boucherie impitoyable]]* 
+- [[Bretteur amateur]]* 
 
-- [Canalisation armée](./Canalisation armée.md). remplace ~~[Canalisation de force](./Canalisation de force.md)~~*. Le nom du don a déjà été utilisé dans le manuel des races pour les aasimar. Il s'agit de deux dons différents (channel force et channeling force en vo). Le don a donc été renommé  **désambiguïsation créée** 
-- [Canalisation supplémentaire](./Canalisation supplémentaire.md) Il s'agit du même don que celui pré-existant qui a été modifié pour tenir compte de l'insertion de la classe de prêtre combattant qui est éligible. **Texte modifié**
-- [Canal d’énergie](./Canal dénergie.md) 
-- [Cape de duel](./Cape de duel.md)
-- [Charge explosive](./Charge explosive.md) 
-- [Chute ralentie](./Chute ralentie.md)
-- [Coeur vaillant](./Coeur vaillant.md)
-- [Compagnon évolué](./Compagnon évolué.md) 
-- [Concentration rageuse](./Concentration rageuse.md) 
-- [Contact magique bondissant](./Contact magique bondissant.md) 
-- [Contre-droite](./Contre-droite.md)* 
-- [Coup bouleversant](./Coup bouleversant.md)*
-- [Cri de guerre](./Cri de guerre.md)* 
-- [Démonstration décourageante](./Démonstration décourageante.md)* 
-- [Don de l’esprit](./Don de lesprit.md) 
-- [Enchantement dual](./Enchantement dual.md)
-- [Enquêteur amateur](./Enquêteur amateur.md)
-- [Combattant étudié](./Combattant étudié.md)
-- [Science du combattant étudié](./Science du combattant étudié.md) 
+- [[Canalisation armée]]. remplace ~~[[Canalisation de force]]~~*. Le nom du don a déjà été utilisé dans le manuel des races pour les aasimar. Il s'agit de deux dons différents (channel force et channeling force en vo). Le don a donc été renommé  **désambiguïsation créée** 
+- [[Canalisation supplémentaire]] Il s'agit du même don que celui pré-existant qui a été modifié pour tenir compte de l'insertion de la classe de prêtre combattant qui est éligible. **Texte modifié**
+- [[Canal dénergie|Canal d’énergie]] 
+- [[Cape de duel]]
+- [[Charge explosive]] 
+- [[Chute ralentie]]
+- [[Coeur vaillant]]
+- [[Compagnon évolué]] 
+- [[Concentration rageuse]] 
+- [[Contact magique bondissant]] 
+- [[Contre-droite]]* 
+- [[Coup bouleversant]]*
+- [[Cri de guerre]]* 
+- [[Démonstration décourageante]]* 
+- [[Don de lesprit|Don de l’esprit]] 
+- [[Enchantement dual]]
+- [[Enquêteur amateur]]
+- [[Combattant étudié]]
+- [[Science du combattant étudié]] 
 
 
 Faits jusque là. Les dons avec un * sont des dons de combat. Ne pas oublier de cocher la catégorie don combat
 
 
-- [Esquive anticipée](./Esquive anticipée.md)*
-- [Contre-réflexes](./Contre-réflexes.md)* 
-- [Étude à distance](./Étude à distance.md) 
-- [Exploitation arcanique supplémentaire](./Exploitation arcanique supplémentaire.md)
-- [Familier libéré](./Familier libéré.md)
-- [Feinte du tueur](./Feinte du tueur.md)*
-- [Feinte jumelée](./Feinte jumelée.md)* 
-- [Flexibilité martiale supplémentaire](./Flexibilité martiale supplémentaire.md)
-- [Force de propulsion](./Force de propulsion.md)
-- [Frappe agrippante](./Frappe agrippante.md)*
-- [Frappe bénie](./Frappe bénie.md)
-- [Frappe de l’hiver](./Frappe de lhiver.md)*
-- [Frappe déchirante](./Frappe déchirante.md)*
-- [Frappe drainante](./Frappe drainante.md)
-- [Frappe féerique](./Frappe féerique.md)* 
-- [Frappe inspirée](./Frappe inspirée.md)
-- [Frappe magique sanguine](./Frappe magique sanguine.md)* 
-- [Frappe paralysante](./Frappe paralysante.md)* 
-- [Gardien spirituel](./Gardien spirituel.md)
-- [Grâce tranchante](./Grâce tranchante.md)* 
-- [Guérison réactive](./Guérison réactive.md) 
-- [Haine cinglante](./Haine cinglante.md)* 
-- [Préjugé extrême](./Préjugé extrême.md)
-- [Imitation animale prolongée](./Imitation animale prolongée.md)
-- [Imitation du traqueur](./Imitation du traqueur.md)
-- [Incantation contre un ennemi juré](./Incantation contre un ennemi juré.md)
-- [Incantation rageuse](./Incantation rageuse.md)
-- [Inoculation perspicace](./Inoculation perspicace.md)
-- [Inspiration concentrée](./Inspiration concentrée.md)
-- [Inspiration supplémentaire](./Inspiration supplémentaire.md) 
-- [Lai de la terre](./Lai de la terre.md)
-- [Linguistique ésotérique](./Linguistique ésotérique.md) 
-- [Lutteur des bars](./Lutteur des bars.md)* 
-- [Mage talentueux](./Mage talentueux.md)
-- [Magie de la nature](./Magie de la nature.md) 
-- [Magie flexible](./Magie flexible.md)
-- [Science de la magie flexible](./Science de la magie flexible.md) 
-- [Maléfice flexible](./Maléfice flexible.md)
-- [Maléfice supplémentaire](./Maléfice supplémentaire.md) Don déjà existant. Il s'agit de la reprise du don pour tenir compte de l'insertion de la classe de chaman. **Texte modifié**
-- [Manoeuvre surprise](./Manoeuvre surprise.md)
-- [Massacre effroyable](./Massacre effroyable.md)*
-- [Mémoire des formules](./Mémoire des formules.md)
-- [Meurtre silencieux](./Meurtre silencieux.md)*
-- [Monstre invoqué évolué](./Monstre invoqué évolué.md)
-- [Monture de taille inférieure](./Monture de taille inférieure.md)* 
-- [Orateur](./Orateur.md)
-- [Parle-esprit](./Parle-esprit.md) 
-- [Personnalité affirmée](./Personnalité affirmée.md) 
-- [Pivotement](./Pivotement.md)
-- [Poing déstabilisant](./Poing déstabilisant.md)* 
-- [Poing hébétant](./Poing hébétant.md)* 
-- [Prendre l’avantage](./Prendre lavantage.md)* 
-- [Préparation étendue](./Préparation étendue.md) 
-- [Protection divine](./Protection divine.md) 
-- [Rage imprudente](./Rage imprudente.md)
-- [Rage retrouvée](./Rage retrouvée.md)
-- [Rageur talentueux](./Rageur talentueux.md)
-- [Ramassage acrobatique](./Ramassage acrobatique.md)* 
-- [Représentation intimidante](./Représentation intimidante.md) 
-- [Réservoir supplémentaire](./Réservoir supplémentaire.md) 
-- [Roublard studieux](./Roublard studieux.md) 
-- [Sabotage magique](./Sabotage magique.md) 
-- [Sang manifeste](./Sang manifeste.md) 
-- [Sang rageur](./Sang rageur.md)
-- [Science du chant funèbre](./Science-du-chant-funèbre.md)
-- [Chant funèbre supérieur](./Chant-funèbre-supérieur.md)
-- [Science du coup fabuleux](./Science du coup fabuleux.md)*
-- [Talent d’enquêteur supplémentaire](./Talent denquêteur supplémentaire.md) 
-- [Talent de tueur supplémentaire](./Talent de tueur supplémentaire.md)
-- [Terreur inspiratrice](./Terreur inspiratrice.md) 
-- [Tuerie fracassante](./Tuerie fracassante.md)* 
-- [Tumeur aberrante](./Tumeur aberrante.md) 
-- [Vigueur du scalde](./Vigueur du scalde.md) 
-- [Vigueur surhumaine du scalde](./Vigueur surhumaine du scalde.md)
+- [[Esquive anticipée]]*
+- [[Contre-réflexes]]* 
+- [[Étude à distance]] 
+- [[Exploitation arcanique supplémentaire]]
+- [[Familier libéré]]
+- [[Feinte du tueur]]*
+- [[Feinte jumelée]]* 
+- [[Flexibilité martiale supplémentaire]]
+- [[Force de propulsion]]
+- [[Frappe agrippante]]*
+- [[Frappe bénie]]
+- [[Frappe de lhiver|Frappe de l’hiver]]*
+- [[Frappe déchirante]]*
+- [[Frappe drainante]]
+- [[Frappe féerique]]* 
+- [[Frappe inspirée]]
+- [[Frappe magique sanguine]]* 
+- [[Frappe paralysante]]* 
+- [[Gardien spirituel]]
+- [[Grâce tranchante]]* 
+- [[Guérison réactive]] 
+- [[Haine cinglante]]* 
+- [[Préjugé extrême]]
+- [[Imitation animale prolongée]]
+- [[Imitation du traqueur]]
+- [[Incantation contre un ennemi juré]]
+- [[Incantation rageuse]]
+- [[Inoculation perspicace]]
+- [[Inspiration concentrée]]
+- [[Inspiration supplémentaire]] 
+- [[Lai de la terre]]
+- [[Linguistique ésotérique]] 
+- [[Lutteur des bars]]* 
+- [[Mage talentueux]]
+- [[Magie de la nature]] 
+- [[Magie flexible]]
+- [[Science de la magie flexible]] 
+- [[Maléfice flexible]]
+- [[Maléfice supplémentaire]] Don déjà existant. Il s'agit de la reprise du don pour tenir compte de l'insertion de la classe de chaman. **Texte modifié**
+- [[Manoeuvre surprise]]
+- [[Massacre effroyable]]*
+- [[Mémoire des formules]]
+- [[Meurtre silencieux]]*
+- [[Monstre invoqué évolué]]
+- [[Monture de taille inférieure]]* 
+- [[Orateur]]
+- [[Parle-esprit]] 
+- [[Personnalité affirmée]] 
+- [[Pivotement]]
+- [[Poing déstabilisant]]* 
+- [[Poing hébétant]]* 
+- [[Prendre lavantage|Prendre l’avantage]]* 
+- [[Préparation étendue]] 
+- [[Protection divine]] 
+- [[Rage imprudente]]
+- [[Rage retrouvée]]
+- [[Rageur talentueux]]
+- [[Ramassage acrobatique]]* 
+- [[Représentation intimidante]] 
+- [[Réservoir supplémentaire]] 
+- [[Roublard studieux]] 
+- [[Sabotage magique]] 
+- [[Sang manifeste]] 
+- [[Sang rageur]]
+- [[Science du chant funèbre]]
+- [[Chant funèbre supérieur]]
+- [[Science du coup fabuleux]]*
+- [[Talent denquêteur supplémentaire|Talent d’enquêteur supplémentaire]] 
+- [[Talent de tueur supplémentaire]]
+- [[Terreur inspiratrice]] 
+- [[Tuerie fracassante]]* 
+- [[Tumeur aberrante]] 
+- [[Vigueur du scalde]] 
+- [[Vigueur surhumaine du scalde]]
 
 
 
 
 
 ### Don de panache
-- [Cape de duel](./Cape de duel.md)
-- [Exploit acrobatique déconcertant](./Exploit acrobatique déconcertant.md)
-- [Exploit de la menace désarmante](./Exploit de la menace désarmante.md)
-- [Exploit du coup de pommeau](./Exploit du coup de pommeau.md)
-- [Panache supplémentaire](./Panache supplémentaire.md)
+- [[Cape de duel]]
+- [[Exploit acrobatique déconcertant]]
+- [[Exploit de la menace désarmante]]
+- [[Exploit du coup de pommeau]]
+- [[Panache supplémentaire]]
 
 
 
 ### Dons d'écoles
 Dans les catégories de page, préciser qu'il s'agit de don, don combat et don école
 
-- [École de l’empoigneur](./École de lempoigneur.md)* 
-- [Traction de l’empoigneur](./Traction de lempoigneur.md)* 
-- [Maître empoigneur](./Maître empoigneur.md)* 
-- [École du boxeur](./École du boxeur.md)* 
-- [Danse du boxeur](./Danse du boxeur.md)* 
-- [Maître boxeur](./Maître boxeur.md)* 
-- [École du cogneur](./École du cogneur.md)* 
-- [Cogneur tyrannique](./Cogneur tyrannique.md)* 
-- [Charge du cogneur](./Charge du cogneur.md)* 
+- [[École de lempoigneur|École de l’empoigneur]]* 
+- [[Traction de lempoigneur|Traction de l’empoigneur]]* 
+- [[Maître empoigneur]]* 
+- [[École du boxeur]]* 
+- [[Danse du boxeur]]* 
+- [[Maître boxeur]]* 
+- [[École du cogneur]]* 
+- [[Cogneur tyrannique]]* 
+- [[Charge du cogneur]]* 
 
 
 
 ### Dons d'équipe
-- [Charge de diversion](./Charge de diversion.md)* 
-- [Guérison partagée](./Guérison partagée.md) 
-- [Interception de charge](./Interception de charge.md)* 
-- [Science de l’abri](./Science de labri.md) 
-- [Science de l’échange de place](./Science de léchange de place.md)*
-- [Science du partage de sorts](./Science du partage de sorts.md) 
-- [Tactique de la patte blessée](./Tactique de la patte blessée.md)* 
-- [Tenaille de meute](./Tenaille de meute.md)*
-- [Tir coordonné](./Tir coordonné.md)*
+- [[Charge de diversion]]* 
+- [[Guérison partagée]] 
+- [[Interception de charge]]* 
+- [[Science de labri|Science de l’abri]] 
+- [[Science de léchange de place|Science de l’échange de place]]*
+- [[Science du partage de sorts]] 
+- [[Tactique de la patte blessée]]* 
+- [[Tenaille de meute]]*
+- [[Tir coordonné]]*

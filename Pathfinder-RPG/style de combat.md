@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Rôdeur#STYLEDECOMBAT
 ---
 
->>> [Rôdeur#STYLEDECOMBAT](./Rôdeur.md#STYLEDECOMBAT)
+>>> [[Rôdeur#STYLEDECOMBAT]]

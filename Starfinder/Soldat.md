@@ -8,9 +8,9 @@ LastModified: 2019-09-03 14:55
 complexes, les créatures s’affrontent pour la domination, les ressources, les territoires ou leurs idéaux. Que vous ayez pris les armes pour protéger les autres, pour la gloire, pour vous venger ou tout simplement pour gagner votre vie, vous êtes la parfaite incarnation de cette vérité. Vous êtes un expert du combat sous toutes ses formes mais vous avez tendance à préférer les armes et armures lourdes : plus c’est gros, mieux c’est. Vous pouvez être un militaire de carrière, un jeune mercenaire ou un loup solitaire qui rejette l’autorité mais que ce soit pour combattre au corps à corps ou faire des tirs de barrage tactiques, vous êtes un guerrier aguerri qui n’hésite jamais à essuyer des tirs pour protéger ses amis.''
 
 
-<div class="fright">***Voir aussi les [optimisation d'équipement](./optimisations-dequipement.md).***  
+<div class="fright">***Voir aussi les [[optimisations dequipement|optimisation d'équipement]].***  
 
-***Voir aussi les [styles de combats](./styles-de-combats.md).***'  
+***Voir aussi les [[styles de combats]].***'  
 
 </ul></div>
   
@@ -32,140 +32,140 @@ complexes, les créatures s’affrontent pour la domination, les ressources, les
 | +0
 | +2
 | +2
-| CLASS="gauche" | [Style de combat principale](./../Aventures/Soldat.md#STYLEDECOMBATPRINCIPAL), [Technique de style de combat principale](./../Aventures/Soldat.md#TECHNIQUEDESTYLEDECOMBATPRINCIPAL)
+| CLASS="gauche" | [[Soldat#STYLEDECOMBATPRINCIPAL|Style de combat principale]], [[Soldat#TECHNIQUEDESTYLEDECOMBATPRINCIPAL|Technique de style de combat principale]]
 |- CLASS="alt"
 | 2
 | +2
 | +0
 | +3
 | +3
-| CLASS="gauche" | [Don de combat](./../Aventures/Soldat.md#DONDECOMBAT)
+| CLASS="gauche" | [[Soldat#DONDECOMBAT|Don de combat]]
 |-
 | 3
 | +3
 | +1
 | +3
 | +3
-| CLASS="gauche" | [Optimisation d'équipement](./../Aventures/Soldat.md#OPTIMISATIONDEQUIPEMENT) ,                                   [Spécialisation martiale](./AGENT.md#SPECIALISATIONMARTIALE)
+| CLASS="gauche" | [[Soldat#OPTIMISATIONDEQUIPEMENT|Optimisation d'équipement]] ,                                   [[Agent#SPECIALISATIONMARTIALE|Spécialisation martiale]]
 |- CLASS="alt"
 | 4
 | +4
 | +1
 | +4
 | +4
-| CLASS="gauche" | [Don de combat](./../Aventures/Soldat.md#DONDECOMBAT)
+| CLASS="gauche" | [[Soldat#DONDECOMBAT|Don de combat]]
 |-
 | 5
 | +5
 | +1
 | +4
 | +4
-| CLASS="gauche" | [Technique de style de combat principale](./../Aventures/Soldat.md#TECHNIQUEDESTYLEDECOMBATPRINCIPAL)
+| CLASS="gauche" | [[Soldat#TECHNIQUEDESTYLEDECOMBATPRINCIPAL|Technique de style de combat principale]]
 |- CLASS="alt"
 | 6
 | +6
 | +2
 | +5
 | +5
-| CLASS="gauche" | [Don de combat](./../Aventures/Soldat.md#DONDECOMBAT)
+| CLASS="gauche" | [[Soldat#DONDECOMBAT|Don de combat]]
 |-
 | 7
 | +7
 | +2
 | +5
 | +5
-| CLASS="gauche" | [Optimisation d'équipement](./../Aventures/Soldat.md#OPTIMISATIONDEQUIPEMENT)
+| CLASS="gauche" | [[Soldat#OPTIMISATIONDEQUIPEMENT|Optimisation d'équipement]]
 |- CLASS="alt"
 | 8
 | +8
 | +2
 | +6
 | +6
-| CLASS="gauche" | [Don de combat](./../Aventures/Soldat.md#DONDECOMBAT)
+| CLASS="gauche" | [[Soldat#DONDECOMBAT|Don de combat]]
 |-
 | 9
 | +9
 | +3
 | +6
 | +6
-| CLASS="gauche" | [Technique de style de combat principale](./../Aventures/Soldat.md#TECHNIQUEDESTYLEDECOMBATPRINCIPAL), [Style de combat secondaire](./AGENT.md#STYLEDECOMBATSECONDAIRE) , [Technique de style combat secondaire](./../Aventures/Soldat.md#TECHNIQUEDESTYLEDECOMBAT)
+| CLASS="gauche" | [[Soldat#TECHNIQUEDESTYLEDECOMBATPRINCIPAL|Technique de style de combat principale]], [[Agent#STYLEDECOMBATSECONDAIRE|Style de combat secondaire]] , [[Soldat#TECHNIQUEDESTYLEDECOMBAT|Technique de style combat secondaire]]
 |- CLASS="alt"
 | 10
 | +10
 | +3
 | +7
 | +7
-| CLASS="gauche" | [Don de combat](./../Aventures/Soldat.md#DONDECOMBAT)
+| CLASS="gauche" | [[Soldat#DONDECOMBAT|Don de combat]]
 |-
 | 11
 | +11
 | +3
 | +7
 | +7
-| CLASS="gauche" | [Optimisation d'équipement](./../Aventures/Soldat.md#OPTIMISATIONDEQUIPEMENT), [Assaut du soldat](./../Aventures/Soldat.md#ASSAUTDUSOLDAT)
+| CLASS="gauche" | [[Soldat#OPTIMISATIONDEQUIPEMENT|Optimisation d'équipement]], [[Soldat#ASSAUTDUSOLDAT|Assaut du soldat]]
 |- CLASS="alt"
 | 12
 | +12
 | +4
 | +8
 | +8
-| CLASS="gauche" | [Don de combat](./../Aventures/Soldat.md#DONDECOMBAT)
+| CLASS="gauche" | [[Soldat#DONDECOMBAT|Don de combat]]
 |-
 | 13
 | +13
 | +4
 | +8
 | +8
-| CLASS="gauche" | [Technique de style de combat principale](./../Aventures/Soldat.md#TECHNIQUEDESTYLEDECOMBATPRINCIPAL), [Technique de style combat secondaire](./../Aventures/Soldat.md#TECHNIQUEDESTYLEDECOMBAT)
+| CLASS="gauche" | [[Soldat#TECHNIQUEDESTYLEDECOMBATPRINCIPAL|Technique de style de combat principale]], [[Soldat#TECHNIQUEDESTYLEDECOMBAT|Technique de style combat secondaire]]
 |- CLASS="alt"
 | 14
 | +14
 | +4
 | +9
 | +9
-| CLASS="gauche" | [Don de combat](./../Aventures/Soldat.md#DONDECOMBAT)
+| CLASS="gauche" | [[Soldat#DONDECOMBAT|Don de combat]]
 |-
 | 15
 | +15
 | +5
 | +9
 | +9
-| CLASS="gauche" | [Optimisation d'équipement](./../Aventures/Soldat.md#OPTIMISATIONDEQUIPEMENT)
+| CLASS="gauche" | [[Soldat#OPTIMISATIONDEQUIPEMENT|Optimisation d'équipement]]
 |- CLASS="alt"
 | 16
 | +16
 | +5
 | +10
 | +10
-| CLASS="gauche" | [Don de combat](./../Aventures/Soldat.md#DONDECOMBAT)
+| CLASS="gauche" | [[Soldat#DONDECOMBAT|Don de combat]]
 |-
 | 17
 | +17
 | +5
 | +10
 | +10
-| CLASS="gauche" | [Technique de style de combat principale](./../Aventures/Soldat.md#TECHNIQUEDESTYLEDECOMBATPRINCIPAL), [Technique de style combat secondaire](./../Aventures/Soldat.md#TECHNIQUEDESTYLEDECOMBAT)
+| CLASS="gauche" | [[Soldat#TECHNIQUEDESTYLEDECOMBATPRINCIPAL|Technique de style de combat principale]], [[Soldat#TECHNIQUEDESTYLEDECOMBAT|Technique de style combat secondaire]]
 |- CLASS="alt"
 | 18
 | +18
 | +6
 | +11
 | +11
-| CLASS="gauche" | [Don de combat](./../Aventures/Soldat.md#DONDECOMBAT)
+| CLASS="gauche" | [[Soldat#DONDECOMBAT|Don de combat]]
 |-
 | 19
 | +19
 | +66
 | +11
 | +11
-| CLASS="gauche" | [Optimisation d'équipement](./../Aventures/Soldat.md#OPTIMISATIONDEQUIPEMENT)
+| CLASS="gauche" | [[Soldat#OPTIMISATIONDEQUIPEMENT|Optimisation d'équipement]]
 |- CLASS="alt"
 | 20
 | +20
 | +6
 | +12
 | +12
-| CLASS="gauche" | [Don de combat](./../Aventures/Soldat.md#DONDECOMBAT), [Attaque fatale](./../Aventures/Soldat.md#ATTAQUEFATALE)
+| CLASS="gauche" | [[Soldat#DONDECOMBAT|Don de combat]], [[Soldat#ATTAQUEFATALE|Attaque fatale]]
 |}
 </center>
 
@@ -196,7 +196,7 @@ Les aptitudes de l'agent sont décrites ci-dessous.
 Vous avez un style de combat préféré qui indique quel type de soldat vous êtes. Chaque style de combat regroupe plusieurs techniques de combat que vous apprenez au fur et à mesure que vous gagnez de l’expérience. Vous devez choisir un style de combat à votre premier niveau de soldat et une fois que vous avez fait ce choix, vous ne pouvez
 plus en changer.
 
-Voir la liste des [styles de combats](./styles-de-combats.md)
+Voir la liste des [[styles de combats]]
 
 {s:Reference|TECHNIQUEDESTYLEDECOMBATPRINCIPAL}
 #### Technique de style de combat principal - Niveau 1

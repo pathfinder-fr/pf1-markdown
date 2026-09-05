@@ -8,8 +8,8 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:AE}{s:PMI}**Prix** 5 po ; **Poids** 0,5 kg ; **Groupes** [armes de combat rapproché](./groupe darmes.md#Armesdecombatrapproché), [lames légères](./groupe darmes.md#Lameslégères)
+{s:AE}{s:PMI}**Prix** 5 po ; **Poids** 0,5 kg ; **Groupes** [[Groupe darmes#Armesdecombatrapproché|armes de combat rapproché]], [[Groupe darmes#Lameslégères|lames légères]]
 **Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
-Les baïonnettes sont des armes de combat rapproché prévues pour se fixer dans la rainure ou sur le canon des arbalètes et des [armes à feu](./Armes à feu.md). Elles permettent au personnage d’effectuer des attaques de corps à corps mais cela les rend temporairement inutiles comme armes à distance. Il faut une [action de mouvement](./Action de mouvement.md) pour fixer ou enlever une baïonnette.
+Les baïonnettes sont des armes de combat rapproché prévues pour se fixer dans la rainure ou sur le canon des arbalètes et des [[Armes à feu]]. Elles permettent au personnage d’effectuer des attaques de corps à corps mais cela les rend temporairement inutiles comme armes à distance. Il faut une [[action de mouvement]] pour fixer ou enlever une baïonnette.

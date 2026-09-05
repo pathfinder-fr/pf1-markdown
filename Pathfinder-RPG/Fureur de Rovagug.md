@@ -13,11 +13,11 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Rovagug|%2fPCUP%2fReligion-PNG%2fRovagug.png}{s:ISG}{s:GeM}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Inq](./Inquisiteur.md) 2, [Prê](./Prêtre.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
+{s:divin|Rovagug|%2fPCUP%2fReligion-PNG%2fRovagug.png}{s:ISG}{s:GeM}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Inquisiteur|Inq]] 2, [[Prêtre|Prê]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
 **Portée** 9 m (6 {s:c})
 **Durée** instantanée
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-Le personnage crée un tremblement de terre mineur qui peut faire tomber des créatures. Il doit faire un unique test de [manœuvre offensive](./BMO.md) et utiliser ce résultat contre le [DMD](./DMD.md) de toutes les créatures présentes dans la zone. Celles qui sont touchées tombent [à terre](./À terre.md). Cette attaque de croc-en-jambe ne provoque pas d’[attaque d’opportunité](./AO.md) (mais le lancement du sort, oui), et le personnage ne peut pas tomber à terre à cause d’un test raté de 10 ou plus. Contrairement à un croc-en-jambe normal, le personnage peut porter cette attaque sur toute créature qui touche le sol et ce quelle que soit sa taille. [Science du croc-en-jambe](./Science du croc-en-jambe.md) n’a aucune influence sur le sort. Bien que le tremblement de terre soit mineur et centré sur le sol, le [MJ](./MJ.md) peut décider que si la zone est particulièrement instable, le sort provoque la chute d’objets, le descellement des pierres d’un mur ou d’un plafond etc.
+Le personnage crée un tremblement de terre mineur qui peut faire tomber des créatures. Il doit faire un unique test de [[BMO|manœuvre offensive]] et utiliser ce résultat contre le [[DMD]] de toutes les créatures présentes dans la zone. Celles qui sont touchées tombent [[à terre]]. Cette attaque de croc-en-jambe ne provoque pas d’[[AO|attaque d’opportunité]] (mais le lancement du sort, oui), et le personnage ne peut pas tomber à terre à cause d’un test raté de 10 ou plus. Contrairement à un croc-en-jambe normal, le personnage peut porter cette attaque sur toute créature qui touche le sol et ce quelle que soit sa taille. [[Science du croc-en-jambe]] n’a aucune influence sur le sort. Bien que le tremblement de terre soit mineur et centré sur le sol, le [[MJ]] peut décider que si la zone est particulièrement instable, le sort provoque la chute d’objets, le descellement des pierres d’un mur ou d’un plafond etc.

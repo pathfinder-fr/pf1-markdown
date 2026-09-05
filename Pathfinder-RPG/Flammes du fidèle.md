@@ -10,21 +10,21 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Inq](./Inquisiteur.md) 2  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ;** Niveau** [[Inquisiteur|Inq]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[Composantes|V]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** arme touchée  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet, [inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (objet, [[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-D'un simple contact, le personnage fait apparaître une rune luisante sur une arme à laquelle il accorde le pouvoir *[de feu](./feu (propriété).md)* (et lui permet de faire 1d6 points de dégâts supplémentaires en cas de coup réussi). Si le personnage utilise son pouvoir de classe de [jugement](./Inquisiteur.md#JUGEMENT), son arme revêt la propriété *[de feu intense](./feu intense (propriété).md)*. Le sort fonctionne uniquement pour les armes que le personnage manie, si elles quittent sa main, pour quelque raison que ce soit, le sort se termine. Les effets de ce sort ne se cumulent pas avec tout effet *[de feu](./feu (propriété).md)* ou *[de feu intense](./feu intense (propriété).md)* que l'arme visée pourrait déjà posséder.
+D'un simple contact, le personnage fait apparaître une rune luisante sur une arme à laquelle il accorde le pouvoir *[[feu (propriété)|de feu]]* (et lui permet de faire 1d6 points de dégâts supplémentaires en cas de coup réussi). Si le personnage utilise son pouvoir de classe de [[inquisiteur#JUGEMENT|jugement]], son arme revêt la propriété *[[feu intense (propriété)|de feu intense]]*. Le sort fonctionne uniquement pour les armes que le personnage manie, si elles quittent sa main, pour quelque raison que ce soit, le sort se termine. Les effets de ce sort ne se cumulent pas avec tout effet *[[feu (propriété)|de feu]]* ou *[[feu intense (propriété)|de feu intense]]* que l'arme visée pourrait déjà posséder.
 
 ### Mythique
 {s:CMy}

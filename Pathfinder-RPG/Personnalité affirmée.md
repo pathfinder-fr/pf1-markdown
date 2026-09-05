@@ -12,6 +12,6 @@ Categories:
 
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 
-[→](./FAQ- Manuel des joueurs - Classes avancées.md#9) Personnalité affirmée : Dans sa version actuelle (2nde impression), le tableau et le texte ne sont pas cohérents. Le don s'applique-t-il à tous les jets de Volonté, ou uniquement aux jets de Volonté contre les effets mentaux ?**'
+[[FAQ- Manuel des joueurs - Classes avancées#9|→]] Personnalité affirmée : Dans sa version actuelle (2nde impression), le tableau et le texte ne sont pas cohérents. Le don s'applique-t-il à tous les jets de Volonté, ou uniquement aux jets de Volonté contre les effets mentaux ?**'
 
-Le tableau est correct. Ce <u>[don](./Personnalité affirmée.md)</u> ne s'applique que contre les effets mentaux.}**Avantage.** Le personnage ajoute son modificateur de [Charisme](./Charisme.md) au lieu de son modificateur de [Sagesse](./Sagesse.md) à ses jets de [Volonté](./Volonté.md) contre les effets mentaux. S'il a un un modificateur de Sagesse négatif, il doit y appliquer les deux modificateurs.
+Le tableau est correct. Ce <u>[[Personnalité affirmée|don]]</u> ne s'applique que contre les effets mentaux.}**Avantage.** Le personnage ajoute son modificateur de [[Charisme]] au lieu de son modificateur de [[Sagesse]] à ses jets de [[Volonté]] contre les effets mentaux. S'il a un un modificateur de Sagesse négatif, il doit y appliquer les deux modificateurs.

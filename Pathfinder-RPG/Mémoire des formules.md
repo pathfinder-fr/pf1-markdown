@@ -10,6 +10,6 @@ Categories:
 
 {s:mca} *Le personnage est capable de se rappeler les détails même les plus complexes et alambiqués de ses incantations.*
 
-**Conditions.** 5 rangs en [Art de la magie](./Art de la magie.md), pouvoir de classe [souvenir précis](./Enquêteur.md#SOUVENIRPRECIS).
+**Conditions.** 5 rangs en [[Art de la magie]], pouvoir de classe [[enquêteur#SOUVENIRPRECIS|souvenir précis]].
 
-**Avantage.** Une fois par jour, le personnage peut se rappeler la formule d’un sort dont il a vu l’incantation et qu’il a identifié avec [Art de la magie](./Art de la magie.md) au cours des dernières 24 heures. Ce sort doit appartenir à la [liste des formules](./Liste des formules dalchimiste.md) de l’[alchimiste](./Alchimiste.md).
+**Avantage.** Une fois par jour, le personnage peut se rappeler la formule d’un sort dont il a vu l’incantation et qu’il a identifié avec [[Art de la magie]] au cours des dernières 24 heures. Ce sort doit appartenir à la [[liste des formules dalchimiste|liste des formules]] de l’[[alchimiste]].

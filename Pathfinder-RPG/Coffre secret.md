@@ -14,11 +14,11 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([convocation](./convocation.md)) ; **Niveau** [Hyp](./Hypnotiseur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5, [Spi](./Spirite.md) 5  
+**École** [[Invocation]] ([[convocation]]) ; **Niveau** [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 5  
 
 **Temps d'incantation** 10 minutes  
 
-**Composantes** [V, G, F](./composantes.md) (le coffre et son double)  
+**Composantes** [[composantes|V, G, F]] (le coffre et son double)  
 
 **Portée** voir description  
 
@@ -28,10 +28,10 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Grâce à ce sort le personnage peut dissimuler un coffre dans le [plan Éthéré](./plan Éthéré.md) pendant soixante jours et de le récupérer à volonté. Le coffre peut contenir 30 dm³ par [niveau](./niveau.md) du mage (sans tenir compte de ses dimensions, qui sont de l’ordre de 90 cm x 60 cm x 60 cm). Si l’on place un être vivant dans le coffre, le sort a tout simplement 75 % de risques d’échouer. Une fois le coffre envoyé, le personnage peut le récupérer en se [concentrant](./concentration.md) (ce qui compte pour une [action simple](./Action simple.md)) ; le coffre réapparaît alors ses côtés.
+Grâce à ce sort le personnage peut dissimuler un coffre dans le [[plan Éthéré]] pendant soixante jours et de le récupérer à volonté. Le coffre peut contenir 30 dm³ par [[niveau]] du mage (sans tenir compte de ses dimensions, qui sont de l’ordre de 90 cm x 60 cm x 60 cm). Si l’on place un être vivant dans le coffre, le sort a tout simplement 75 % de risques d’échouer. Une fois le coffre envoyé, le personnage peut le récupérer en se [[concentration|concentrant]] (ce qui compte pour une [[action simple]]) ; le coffre réapparaît alors ses côtés.
 
 Le coffre doit être fabriqué sur commande par des maîtres artisans. Le prix total du coffre ne peut être inférieur à 5 000 po. Une fois ce coffre achevé, il faut en effectuer une copie parfaite (utilisant les mêmes matériaux et fidèle jusque dans ses moindres détails), ce qui implique une dépense supplémentaire de 50 po. Le coffre n’est pas magique ; on peut le garnir de cadenas, le piéger, etc.
 
-Pour dissimuler le coffre, on lance le sort en touchant l’original et sa réplique. Le coffre premier disparaît alors dans le [plan Éthéré](./plan Éthéré.md). Il est nécessaire d’avoir la copie pour le rappeler. Au bout de soixante jours, il y a 5 % de chances (cumulatives) par jour que le coffre soit définitivement perdu. Si la réplique est détruite, même un *[souhait](./Souhait.md)* ne parvient pas à récupérer l’original. Il est cependant toujours possible de lancer une expédition dans le [plan Éthéré](./plan Éthéré.md) pour partir à sa recherche.
+Pour dissimuler le coffre, on lance le sort en touchant l’original et sa réplique. Le coffre premier disparaît alors dans le [[plan Éthéré]]. Il est nécessaire d’avoir la copie pour le rappeler. Au bout de soixante jours, il y a 5 % de chances (cumulatives) par jour que le coffre soit définitivement perdu. Si la réplique est détruite, même un *[[souhait]]* ne parvient pas à récupérer l’original. Il est cependant toujours possible de lancer une expédition dans le [[plan Éthéré]] pour partir à sa recherche.
 
 Les êtres vivants contenus dans le coffre vieillissent normalement. Ils doivent se nourrir et dormir, et courent le risque mourir de faim ou de soif.

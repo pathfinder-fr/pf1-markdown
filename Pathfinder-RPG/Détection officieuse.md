@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Le personnage peut utiliser la détection du mal pour des activités plus pragmatiques ou plus ordinaires. *
 
-**Condition.** *[Détection du mal](./Détection du Mal.md)*
+**Condition.** *[[Détection du mal]]*
 
-**Avantage.** Par une [action rapide](./Action rapide.md), le personnage peut concentrer la lucidité offerte par la *[détection du mal](./Détection du Mal.md)* pour augmenter sa conscience de ce qui l’entoure. Il gagne un bonus sacré de +10 aux tests de [Perception](./Perception.md) et de [Psychologie](./Psychologie.md) pour 1 [round](./round.md).
+**Avantage.** Par une [[action rapide]], le personnage peut concentrer la lucidité offerte par la *[[détection du mal]]* pour augmenter sa conscience de ce qui l’entoure. Il gagne un bonus sacré de +10 aux tests de [[Perception]] et de [[Psychologie]] pour 1 [[round]].
 
 Ceci dépense son utilisation de *détection du mal* pour 24 heures.

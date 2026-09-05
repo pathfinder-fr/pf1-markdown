@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Véhicules terrestres (véhicules)#
 ---
 
->>> [Véhicules terrestres (véhicules)#](./Véhicules terrestres (véhicules).md#)
+>>> [[Véhicules terrestres (véhicules)#]]

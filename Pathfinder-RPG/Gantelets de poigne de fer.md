@@ -7,13 +7,13 @@ Categories:
 - Src Codex monstrueux
 ---
 
-**Cette option est plus courante chez les [géants du froid](./Géant du froid.md).**
+**Cette option est plus courante chez les [[Géant du froid|géants du froid]].**
 
 <div class="BD">
 {s:BDTitre|Gantelets de poigne de fer|{s:CM}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [mains](./Objets merveilleux portés aux mains.md) ; **Prix** 4.000 po ; **Poids** 1 kg
+**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 4.000 po ; **Poids** 1 kg
 (((Description)))
 Ces gants sont faits de peau de chèvre renforcée de lourdes bandes de fer. Ils offrent une prise sûre sur les objets de grande taille ou de forme malaisée à saisir. Quand leur porteur manie une arme de corps à corps improvisée ou une arme inadaptée à sa taille, il réduit le malus associé de 2 (0 au minimum). Les gants ne changent pas le nombre de mains nécessaires pour manier l’arme.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md),*[agrandissement](./Agrandissement.md)*, *[force de taureau](./Force de taureau.md)* ; **Coût** 2.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]],*[[agrandissement]]*, *[[force de taureau]]* ; **Coût** 2.000 po
 </div>

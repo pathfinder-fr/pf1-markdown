@@ -9,6 +9,6 @@ Categories:
 
 *Le personnage peut lancer un sort en restant immobile.*
 
-**Catégorie.** [métamagie](./Dons.md#METAMAGIE)
+**Catégorie.** [[Dons#METAMAGIE|métamagie]]
 
-**Avantage.** Un sort à incantation statique ne nécessite pas de [composante gestuelle](./composante.md). Les sorts sans composante gestuelle ne sont pas affectés. Un sort à incantation statique nécessite un [emplacement de sort](./emplacement de sort.md) d’un [niveau](./Niveau de sort.md) de plus que son niveau réel.
+**Avantage.** Un sort à incantation statique ne nécessite pas de [[composante|composante gestuelle]]. Les sorts sans composante gestuelle ne sont pas affectés. Un sort à incantation statique nécessite un [[emplacement de sort]] d’un [[niveau de sort|niveau]] de plus que son niveau réel.

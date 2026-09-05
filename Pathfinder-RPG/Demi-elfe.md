@@ -52,22 +52,22 @@ Certains demi-elfes entendent l’appel du divin, mais vivent en dehors des stru
 
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
-<div class="presentation arrondi ombre espaceliste">{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#8) Demi-elfe ou demi-orque : Est-ce qu’un personnage de l’une de ces deux races peut choisir les archétypes raciaux humains (comme ceux du Manuel des races) ?***
+<div class="presentation arrondi ombre espaceliste">{s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#8|→]] Demi-elfe ou demi-orque : Est-ce qu’un personnage de l’une de ces deux races peut choisir les archétypes raciaux humains (comme ceux du Manuel des races) ?***
 
-Oui. Les <u>[demis-elfes](./Demi-elfe.md)</u> et les <u>[demis-orques](./Demi-orque.md)</u> peuvent choisir des options de classe de prédilection, des archétypes, des traits, etc, comme s’ils étaient des membres à part entière des deux races (un demi-elfe peut choisir les éléments de règles réservés aux [elfes](./Elfe.md) et aux humains, un demi-orque peut choisir les éléments de règles réservés aux humains et aux [orques](./Orque.md)).
+Oui. Les <u>[[Demi-elfe|demis-elfes]]</u> et les <u>[[Demi-orque|demis-orques]]</u> peuvent choisir des options de classe de prédilection, des archétypes, des traits, etc, comme s’ils étaient des membres à part entière des deux races (un demi-elfe peut choisir les éléments de règles réservés aux [[Elfe|elfes]] et aux humains, un demi-orque peut choisir les éléments de règles réservés aux humains et aux [[Orque|orques]]).
 
 Mise à jour 26/9/2013 : Ceci est une inversion d’une ancienne règle. Cela résout une divergence entre cette FAQ et les deux FAQ du Manuel des races.}
-- **+2 à une valeur de caractéristique.** Lors de leur création, les demi-elfes gagnent un bonus de +2 à la valeur de [caractéristique](./Caractéristiques.md) de leur choix, afin de représenter leur diversité.
-- **Taille M.** Les demi-elfes sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni malus ni bonus liés à la taille.
-- **Vitesse normale.** Les demi-elfes ont une [vitesse de base](./VD.md) de 9 mètres.
-- **Vision nocturne.** Les demi-elfes [voient deux fois plus loin](./Vision nocturne (capacité).md) que les humains en cas de faible luminosité.
-- **Adaptabilité.** Les demi-elfes reçoivent [Talent](./Talent.md) comme don supplémentaire au niveau 1.
-- **Immunités elfiques.** Les demi-elfes sont immunisés aux effets de sommeil magique et bénéficient d’un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) contre les sorts et les effets d'[enchantement](./Enchantement.md).
-- **Sang elfique.** Les demi-elfes comptent comme des [elfes](./Elfe.md) et comme des [humains](./Humain.md) vis-à-vis des effets liés à la race.
-- **Sens aiguisés.** Les demi-elfes bénéficient d'un bonus racial de +2 aux tests de [Perception](./Perception.md).
-- **Talents multiples.** Les demi-elfes choisissent deux [classes de prédilection](./classe de prédilection.md) au niveau
-1 et gagnent 1 [point de vie](./pv.md) ou [de compétence](./Compétences.md#ACQUERIR) à chaque fois qu’ils gagnent un niveau dans l’une ou l’autre.
-- **Langues.** Les demi-elfes commencent le jeu en parlant le commun et l’elfique. Ceux qui possèdent une [Intelligence](./Intelligence.md) élevée peuvent apprendre tous les langages qu’ils désirent (sauf les langues secrètes comme celle des [druides](./Druide.md#LANGUESSUPPLEMENTAIRES)).
+- **+2 à une valeur de caractéristique.** Lors de leur création, les demi-elfes gagnent un bonus de +2 à la valeur de [[Caractéristiques|caractéristique]] de leur choix, afin de représenter leur diversité.
+- **Taille M.** Les demi-elfes sont des créatures de [[taille M]] qui ne reçoivent ni malus ni bonus liés à la taille.
+- **Vitesse normale.** Les demi-elfes ont une [[VD|vitesse de base]] de 9 mètres.
+- **Vision nocturne.** Les demi-elfes [[Vision nocturne (capacité)|voient deux fois plus loin]] que les humains en cas de faible luminosité.
+- **Adaptabilité.** Les demi-elfes reçoivent [[Talent]] comme don supplémentaire au niveau 1.
+- **Immunités elfiques.** Les demi-elfes sont immunisés aux effets de sommeil magique et bénéficient d’un bonus racial de +2 aux [[jds|jets de sauvegarde]] contre les sorts et les effets d'[[enchantement]].
+- **Sang elfique.** Les demi-elfes comptent comme des [[Elfe|elfes]] et comme des [[Humain|humains]] vis-à-vis des effets liés à la race.
+- **Sens aiguisés.** Les demi-elfes bénéficient d'un bonus racial de +2 aux tests de [[Perception]].
+- **Talents multiples.** Les demi-elfes choisissent deux [[classe de prédilection|classes de prédilection]] au niveau
+1 et gagnent 1 [[pv|point de vie]] ou [[Compétences#ACQUERIR|de compétence]] à chaque fois qu’ils gagnent un niveau dans l’une ou l’autre.
+- **Langues.** Les demi-elfes commencent le jeu en parlant le commun et l’elfique. Ceux qui possèdent une [[Intelligence]] élevée peuvent apprendre tous les langages qu’ils désirent (sauf les langues secrètes comme celle des [[Druide#LANGUESSUPPLEMENTAIRES|druides]]).
 
 </div>
 
@@ -76,48 +76,48 @@ Mise à jour 26/9/2013 : Ceci est une inversion d’une ancienne règle. Cela r�
 Grâce à leur héritage mêlé, les demi-elfes disposent d’une grande flexibilité au niveau de leurs pouvoirs. Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux demi-elfes standard mais consultez d’abord votre MJ.
 
 <u>*Remplace « adaptabilité » :*</u>
-- **Armes ancestrales.** Certains demi-elfes sont entraînés à manier une arme inhabituelle. Ceux qui possèdent ce trait racial reçoivent, comme don supplémentaire au niveau 1, [Maniement d'une arme exotique](./Maniement dune arme exotique.md) ou [Maniement des armes de guerre](./Maniement dune arme de guerre.md) pour une arme. Ce trait remplace adaptabilité.
-- {s:cs}{s:ISR}**Armes familières.** Les demi-elfes élevés parmi les elfes se sentent souvent pris en pitié ou en méfiance par leurs frères à la vie plus longue, mais reçoivent malgré tout un entraînement au maniement des armes elfiques. Ils obtiennent le trait racial [elfe](./Elfe.md) armes familières. Ce trait remplace adaptabilité.
-- **Bien intégré.** Beaucoup de demi-elfes sont très doués pour se fondre dans une communauté comme s’ils en étaient originaires. Ceux qui possèdent ce trait racial gagnent un bonus de +1 aux tests de [Bluff](./Bluff.md), de [Déguisement](./Déguisement.md) et [Connaissances (folklore local)](./Connaissances.md). Ce trait remplace adaptabilité.
-- **Esprit dual.** L’ascendance mixte de certains demi-elfes leur permet de résister aux attaques mentales. Ceux qui possèdent ce trait racial gagnent un bonus de +2 aux [jets de sauvegarde](./JDS.md) de [Volonté](./Volonté.md). Ce trait remplace adaptabilité.
-- {s:cs}{s:ISR}**Pied marin.** De nombreux demi-elfes se retrouvent sur les eaux dès leur plus jeune âge, que ce soit parce qu'ils vivent avec des familles de marchands dans ou près du Kyonin, travaillent en tant que contrebandiers autours du Lac Encarthan ou dans la mer Intérieure, ou pillent aux côtés des pirates. Ces demi-elfes bénéficient d'un bonus racial de +2 aux tests de [Natation](./Natation.md), ainsi que d'un bonus racial de +4 aux tests d'[Acrobaties](./Acrobaties.md) pour traverser des surfaces étroites ou glissantes, et aux tests d'[Escalade](./Escalade.md) sur des quais ou des navires. Ce trait racial remplace adaptabilité.
-- **Sociable.** Les demi-elfes sont doués pour charmer les autres et se rattraper après un faux pas. Si un demi-elfe possédant ce trait tente de modifier l’attitude d’une créature avec un test de [Diplomatie](./Diplomatie.md) et rate de 5 ou plus, il peut tenter de nouveau sa chance sans avoir besoin d’attendre 24 heures. Ce trait remplace adaptabilité.
+- **Armes ancestrales.** Certains demi-elfes sont entraînés à manier une arme inhabituelle. Ceux qui possèdent ce trait racial reçoivent, comme don supplémentaire au niveau 1, [[Maniement dune arme exotique|Maniement d'une arme exotique]] ou [[Maniement dune arme de guerre|Maniement des armes de guerre]] pour une arme. Ce trait remplace adaptabilité.
+- {s:cs}{s:ISR}**Armes familières.** Les demi-elfes élevés parmi les elfes se sentent souvent pris en pitié ou en méfiance par leurs frères à la vie plus longue, mais reçoivent malgré tout un entraînement au maniement des armes elfiques. Ils obtiennent le trait racial [[elfe]] armes familières. Ce trait remplace adaptabilité.
+- **Bien intégré.** Beaucoup de demi-elfes sont très doués pour se fondre dans une communauté comme s’ils en étaient originaires. Ceux qui possèdent ce trait racial gagnent un bonus de +1 aux tests de [[Bluff]], de [[Déguisement]] et [[Connaissances|Connaissances (folklore local)]]. Ce trait remplace adaptabilité.
+- **Esprit dual.** L’ascendance mixte de certains demi-elfes leur permet de résister aux attaques mentales. Ceux qui possèdent ce trait racial gagnent un bonus de +2 aux [[jds|jets de sauvegarde]] de [[Volonté]]. Ce trait remplace adaptabilité.
+- {s:cs}{s:ISR}**Pied marin.** De nombreux demi-elfes se retrouvent sur les eaux dès leur plus jeune âge, que ce soit parce qu'ils vivent avec des familles de marchands dans ou près du Kyonin, travaillent en tant que contrebandiers autours du Lac Encarthan ou dans la mer Intérieure, ou pillent aux côtés des pirates. Ces demi-elfes bénéficient d'un bonus racial de +2 aux tests de [[Natation]], ainsi que d'un bonus racial de +4 aux tests d'[[Acrobaties]] pour traverser des surfaces étroites ou glissantes, et aux tests d'[[Escalade]] sur des quais ou des navires. Ce trait racial remplace adaptabilité.
+- **Sociable.** Les demi-elfes sont doués pour charmer les autres et se rattraper après un faux pas. Si un demi-elfe possédant ce trait tente de modifier l’attitude d’une créature avec un test de [[Diplomatie]] et rate de 5 ou plus, il peut tenter de nouveau sa chance sans avoir besoin d’attendre 24 heures. Ce trait remplace adaptabilité.
 
 <u>*Remplace « adaptabilité » et « sens aiguisés » :*</u>
-- {s:cs}{s:ISR}**À l'affût.** Constamment confrontés aux limites de deux sociétés, certains demi-elfes développent un don pour dénicher les opportunités négligées. Ils bénéficient d'un bonus racial de +1 aux [attaques d'opportunité](./AO.md). Ce trait racial remplace adaptabilité et sens aiguisés.
+- {s:cs}{s:ISR}**À l'affût.** Constamment confrontés aux limites de deux sociétés, certains demi-elfes développent un don pour dénicher les opportunités négligées. Ils bénéficient d'un bonus racial de +1 aux [[AO|attaques d'opportunité]]. Ce trait racial remplace adaptabilité et sens aiguisés.
 
 <u>*Remplace « adaptabilité » et « talents multiples » :*</u>
-- **Enfant des eaux.** Certains demi-elfes naissent d’un parent [elfique](./Elfe.md) adapté à la vie aquatique ou en bordure de l’eau. Ces demi-elfes gagnent un bonus racial de +4 aux tests de [Natation](./Natation.md) et peuvent toujours [faire 10](./Compétences.md#FAIRE10) quand ils nagent. Ils peuvent choisir aquatique comme [langue supplémentaire](./Linguistique.md). Ce trait remplace adaptabilité et talents multiples.
-- {s:cs}{s:ISR}**Improvisation soudaine.** Les demi-elfes élevés parmi les elfes débarquent sans préparation à chaque nouvelle étape de leur vie car leurs parents elfiques n'ont pas l'habitude de la vitesse à laquelle ils grandissent. Ces demi-elfes bénéficient d'un bonus racial de +2 aux tests de [compétence](./Compétences.md) sans formation. Ce trait racial remplace adaptabilité et talents multiples.
-- **Magie drow.** Quelques demi-elfes d’ascendance drow possèdent la magie innée de cette race. Les demi-elfes qui possèdent ce trait racial comptent un [drow](./Drow (race).md) parmi leurs ancêtres et peuvent lancer *[lueur féerique](./Lueur féerique.md)*, *[lumières dansantes](./Lumières dansantes.md)* et *[ténèbres](./Ténèbres.md)* une fois par jour, en utilisant leur niveau de personnage comme [niveau de lanceur de sorts](./NLS.md). Ce trait remplace adaptabilité et talents multiples.
+- **Enfant des eaux.** Certains demi-elfes naissent d’un parent [[Elfe|elfique]] adapté à la vie aquatique ou en bordure de l’eau. Ces demi-elfes gagnent un bonus racial de +4 aux tests de [[Natation]] et peuvent toujours [[compétences#FAIRE10|faire 10]] quand ils nagent. Ils peuvent choisir aquatique comme [[Linguistique|langue supplémentaire]]. Ce trait remplace adaptabilité et talents multiples.
+- {s:cs}{s:ISR}**Improvisation soudaine.** Les demi-elfes élevés parmi les elfes débarquent sans préparation à chaque nouvelle étape de leur vie car leurs parents elfiques n'ont pas l'habitude de la vitesse à laquelle ils grandissent. Ces demi-elfes bénéficient d'un bonus racial de +2 aux tests de [[Compétences|compétence]] sans formation. Ce trait racial remplace adaptabilité et talents multiples.
+- **Magie drow.** Quelques demi-elfes d’ascendance drow possèdent la magie innée de cette race. Les demi-elfes qui possèdent ce trait racial comptent un [[Drow (race)|drow]] parmi leurs ancêtres et peuvent lancer *[[lueur féerique]]*, *[[lumières dansantes]]* et *[[ténèbres]]* une fois par jour, en utilisant leur niveau de personnage comme [[NLS|niveau de lanceur de sorts]]. Ce trait remplace adaptabilité et talents multiples.
 
 <u>*Remplace « immunités elfiques » :*</u>
-- {s:cs}{s:ISR}**Sophistiqué.** Les demi-elfes qui s'efforcent d'incarner la culture dans laquelle ils vivent développent un instinct aigu pour le flot et les cycles des modes, des tendances et de la politique. Ils bénéficient d'un bonus racial de +2 aux tests de [Connaissances](./Connaissances.md) (folklore local) et de [Connaissances](./Connaissances.md) (histoire) et peuvent utiliser ces compétences sans formation même lors de tests avec un [DD](./DD.md) de 10 ou plus. Ce trait racial remplace immunités elfiques.
+- {s:cs}{s:ISR}**Sophistiqué.** Les demi-elfes qui s'efforcent d'incarner la culture dans laquelle ils vivent développent un instinct aigu pour le flot et les cycles des modes, des tendances et de la politique. Ils bénéficient d'un bonus racial de +2 aux tests de [[Connaissances]] (folklore local) et de [[Connaissances]] (histoire) et peuvent utiliser ces compétences sans formation même lors de tests avec un [[DD]] de 10 ou plus. Ce trait racial remplace immunités elfiques.
 
 <u>*Remplace « immunités elfiques » et « talents multiples » :*</u>
-- {s:cs}{s:ISR}**Bafoué par ses pairs.** Beaucoup de demi-elfes, notamment les demi-[drows](./Drow (race).md) et les demi-ekujae, sont rejetés par leur parent elfique et n'ont que du ressentiment et de la peur envers leurs ancêtres inhumains. Ils bénéficient d'un bonus racial de +1 aux [jets d'attaque](./jet dattaque.md) ainsi que d'un bonus d'esquive de +2 à la [CA](./CA.md) contre les [elfes](./Elfe.md). Ce trait racial remplace immunités elfiques et talents multiples.
+- {s:cs}{s:ISR}**Bafoué par ses pairs.** Beaucoup de demi-elfes, notamment les demi-[[Drow (race)|drows]] et les demi-ekujae, sont rejetés par leur parent elfique et n'ont que du ressentiment et de la peur envers leurs ancêtres inhumains. Ils bénéficient d'un bonus racial de +1 aux [[jet dattaque|jets d'attaque]] ainsi que d'un bonus d'esquive de +2 à la [[CA]] contre les [[Elfe|elfes]]. Ce trait racial remplace immunités elfiques et talents multiples.
 
 <u>*Remplace « sens aiguisés » :*</u>
-- **Méfiant.** Beaucoup de demi-elfes ont passé leur vie à déménager d’un endroit à l’autre, souvent chassés par l’hostilité de leurs voisins. Ces expériences les poussent à se méfier des motivations d’autrui. Les demi-elfes qui possèdent ce trait gagnent un bonus racial de +1 aux tests de [Psychologie](./Psychologie.md) et de [Bluff](./Bluff.md). Ce trait remplace sens aiguisés.
+- **Méfiant.** Beaucoup de demi-elfes ont passé leur vie à déménager d’un endroit à l’autre, souvent chassés par l’hostilité de leurs voisins. Ces expériences les poussent à se méfier des motivations d’autrui. Les demi-elfes qui possèdent ce trait gagnent un bonus racial de +1 aux tests de [[Psychologie]] et de [[Bluff]]. Ce trait remplace sens aiguisés.
 
 <u>*Remplace « sens aiguisés » et « talents multiples » :*</u>
-- {s:cs}{s:ISR}**Élevé par ses semblables.** Alors que la plupart des gens pensent à un parent humain et un parent elfique lorsqu'il est question des demi-elfes, certains demi-elfes sont élevés par deux parents demi-elfes. De tels demi-elfes se sentent plus intégrés, les rendant plus confiants, mais moins adaptables sans l'exposition à un parent humain. Ils bénéficient d'un bonus de +2 au [Charisme](./Charisme.md) et à une autre [caractéristique](./Caractéristiques.md) de leur choix. Ce trait racial remplace les modificateurs habituels des demi-elfes aux caractéristiques, ainsi que les traits raciaux adaptabilité, immunités elfiques, sens aiguisés et talents multiples.
+- {s:cs}{s:ISR}**Élevé par ses semblables.** Alors que la plupart des gens pensent à un parent humain et un parent elfique lorsqu'il est question des demi-elfes, certains demi-elfes sont élevés par deux parents demi-elfes. De tels demi-elfes se sentent plus intégrés, les rendant plus confiants, mais moins adaptables sans l'exposition à un parent humain. Ils bénéficient d'un bonus de +2 au [[Charisme]] et à une autre [[Caractéristiques|caractéristique]] de leur choix. Ce trait racial remplace les modificateurs habituels des demi-elfes aux caractéristiques, ainsi que les traits raciaux adaptabilité, immunités elfiques, sens aiguisés et talents multiples.
 
 <u>*Remplace « talents multiples » :*</u>
-- **Entraînement arcanique.** Les demi-elfes cherchent parfois un tuteur pour les aider à maîtriser la magie qui coule dans leurs veines. Ceux qui possèdent ce trait racial n’ont qu’une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION) et il s’agit forcément d’une classe de lanceur de sorts profanes. Les [objets à potentiel magique](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE) et [à fin d’incantation](./Règles relatives aux objets magiques.md#OBJETSAFINDINCANTATION) adaptés à cette classe de prédilection fonctionnent comme s’ils avaient un niveau de plus (ou comme s’ils étaient de niveau 1 s’ils n’ont pas encore de niveau dans cette classe). Ce trait remplace talents multiples.
+- **Entraînement arcanique.** Les demi-elfes cherchent parfois un tuteur pour les aider à maîtriser la magie qui coule dans leurs veines. Ceux qui possèdent ce trait racial n’ont qu’une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]] et il s’agit forcément d’une classe de lanceur de sorts profanes. Les [[Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|objets à potentiel magique]] et [[Règles relatives aux objets magiques#OBJETSAFINDINCANTATION|à fin d’incantation]] adaptés à cette classe de prédilection fonctionnent comme s’ils avaient un niveau de plus (ou comme s’ils étaient de niveau 1 s’ils n’ont pas encore de niveau dans cette classe). Ce trait remplace talents multiples.
 
 <u>*Remplace « vision nocturne » :*</u>
-- **Sang de drow.** Certains demi-elfes nés d’un parent [drow](./Drow.md) présentent plus de caractéristiques associées à ce parent que les autres, en particulier au niveau de leur physique. Ils gagnent la [vision dans le noir](./vision dans le noir (capacité).md) à 18 mètres (12 {s:c}) et ainsi que la faiblesse [aveuglé par la lumière](./Aveuglé par la lumière (capacité).md). Ce trait remplace vision nocturne.
+- **Sang de drow.** Certains demi-elfes nés d’un parent [[Drow]] présentent plus de caractéristiques associées à ce parent que les autres, en particulier au niveau de leur physique. Ils gagnent la [[Vision dans le noir (capacité)|vision dans le noir]] à 18 mètres (12 {s:c}) et ainsi que la faiblesse [[aveuglé par la lumière (capacité)|aveuglé par la lumière]]. Ce trait remplace vision nocturne.
 
 #### Sous-types raciaux
 Vous pouvez combiner plusieurs traits raciaux alternatifs pour créer une sous-race demi-elfe ou une variante raciale, comme suit.
-- **Descendant des drows.** Ces demi-elfes ont les traits de leur parent [drow](./Drow.md), ce qui les fait systématiquement passer pour une menace potentielle aux yeux des autres, quelles que soient leurs intentions et leur personnalité. Ces demi-elfes ont les traits raciaux sang de drow et magie drow.
-- **Élevé par les elfes.** Ces demi-elfes ont été acceptés par leurs parents elfiques et élevés selon la tradition culturelle et éducative des [elfes](./Elfe.md). Ils ont les traits raciaux armes ancestrales et entraînement arcanique.
-- **Élevé par les humains.** Ces demi-elfes sont nés et ont été élevés dans une communauté [humaine](./Humain.md) tolérante. Ils ont souvent grandi au sein de plusieurs générations de la même famille ou ont vécu de la charité d’une église ou d’un temple. Ils ont les traits raciaux bien intégré et méfiant.
+- **Descendant des drows.** Ces demi-elfes ont les traits de leur parent [[Drow]], ce qui les fait systématiquement passer pour une menace potentielle aux yeux des autres, quelles que soient leurs intentions et leur personnalité. Ces demi-elfes ont les traits raciaux sang de drow et magie drow.
+- **Élevé par les elfes.** Ces demi-elfes ont été acceptés par leurs parents elfiques et élevés selon la tradition culturelle et éducative des [[Elfe|elfes]]. Ils ont les traits raciaux armes ancestrales et entraînement arcanique.
+- **Élevé par les humains.** Ces demi-elfes sont nés et ont été élevés dans une communauté [[Humain|humaine]] tolérante. Ils ont souvent grandi au sein de plusieurs générations de la même famille ou ont vécu de la charité d’une église ou d’un temple. Ils ont les traits raciaux bien intégré et méfiant.
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -125,102 +125,102 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
-{s:APG}**Les aventuriers demi-elfes.** Les aventuriers demi-elfes se spécialisent souvent dans des classes sociales ou choisissent de [se multiclasser](./Progression des personnages.md#MULTICLASSER) dans plusieurs carrières tout en recherchant la combinaison qui conviendra le mieux à leur personnalité aux multiples facettes.
+{s:APG}**Les aventuriers demi-elfes.** Les aventuriers demi-elfes se spécialisent souvent dans des classes sociales ou choisissent de [[Progression des personnages#MULTICLASSER|se multiclasser]] dans plusieurs carrières tout en recherchant la combinaison qui conviendra le mieux à leur personnalité aux multiples facettes.
 
 {s:AO}**Les demi-elfes occultes.** Nombreux sont les demi-elfes doués pour nouer ou solidifier leurs  relations sociales et les demi-elfes adeptes des arts psychiques savent que les connexions mentales avec autrui facilitent ces relations. Ils s’avèrent particulièrement doués pour mettre en oeuvre les communications spirituelles pratiquées par les médiums. Les demi-elfes plus proches de leurs racines elfiques se lancent dans la carrière de psychiste et ceux plus en accord avec leur héritage humain préfèrent la voie du cinétiste ou de l’hypnotiseur.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[Alchimiste](./Alchimiste.md).** L’alchimiste rajoute 30 centimètres au [facteur de portée](./facteur de portée.md) de ses armes de jet à aspersion (y compris ses bombes). Cette option n’a aucun effet tant que l’alchimiste ne l’a pas choisie à cinq reprises (ou un autre multiple de 5) : un facteur de portée de 7,20 mètres se traduit, en pratique, comme un facteur de portée de 6 mètres.
+{s:MR}{s:APG}**[[Alchimiste]].** L’alchimiste rajoute 30 centimètres au [[facteur de portée]] de ses armes de jet à aspersion (y compris ses bombes). Cette option n’a aucun effet tant que l’alchimiste ne l’a pas choisie à cinq reprises (ou un autre multiple de 5) : un facteur de portée de 7,20 mètres se traduit, en pratique, comme un facteur de portée de 6 mètres.
 Les demi-elfes sont des touche-à-tout curieux. Nombre d’entre eux étudient l’alchimie, au moins de manière superficielle, et beaucoup font preuve de grands talents lorsqu’il s’agit de mélanger et de répartir des éléments volatiles.
 
-{s:MCA}**[Arcaniste](./Arcaniste.md).** Quand l’arcaniste lance un sort d’enchantement, il ajoute 1/3 à son [niveau de lanceur de sorts](./NLS.md) effectif mais uniquement quand il détermine la durée de l’effet.
+{s:MCA}**[[Arcaniste]].** Quand l’arcaniste lance un sort d’enchantement, il ajoute 1/3 à son [[NLS|niveau de lanceur de sorts]] effectif mais uniquement quand il détermine la durée de l’effet.
 
-{s:MR}{s:APG}**[Barbare](./Barbare.md).** Quand le barbare est la cible d’une attaque provenant d’un piège détecté avec [sens des pièges](./Barbare.md#SENSDESPIEGES), il gagne un bonus de +1/4 aux [jets de Réflexes](./jet de sauvegarde.md) et un bonus d’esquive de +1/4 à la [CA](./CA.md).
+{s:MR}{s:APG}**[[Barbare]].** Quand le barbare est la cible d’une attaque provenant d’un piège détecté avec [[Barbare#SENSDESPIEGES|sens des pièges]], il gagne un bonus de +1/4 aux [[jet de sauvegarde|jets de Réflexes]] et un bonus d’esquive de +1/4 à la [[CA]].
 Les barbares demi-elfes sont généralement issus de parents vivant dans des sociétés sauvages. Bon nombre d’entre eux quittent leur culture pour échapper aux conséquences de leur différence, mais certains défendent férocement leur peuple tout en cherchant sans cesse à prouver leur valeur.
 
-{s:MR}{s:APG}**[Barde](./Barde.md).** Le barde gagne +1 [round](./round.md) de [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) par jour.
-De nombreux demi-elfes se tournent vers la classe de [barde](./Barde.md), car celle-ci met en valeur leurs charmes naturels et leur facilité d’adaptation sociale, ce qui leur permet souvent de susciter l’adoration chez les autres.
+{s:MR}{s:APG}**[[Barde]].** Le barde gagne +1 [[round]] de [[barde#REPRESENTATIONBARDIQUE|représentation bardique]] par jour.
+De nombreux demi-elfes se tournent vers la classe de [[barde]], car celle-ci met en valeur leurs charmes naturels et leur facilité d’adaptation sociale, ce qui leur permet souvent de susciter l’adoration chez les autres.
 
-{s:MCA}**[Bretteur](./Bretteur.md).** Chaque jour, le bretteur peut utiliser [charmante vie](./Bretteur.md#CHARMANTEVIE) 1/4 de fois de plus.
+{s:MCA}**[[Bretteur]].** Chaque jour, le bretteur peut utiliser [[Bretteur#CHARMANTEVIE|charmante vie]] 1/4 de fois de plus.
 
-{s:MCA}**[Chaman](./Chaman.md).** Ajout d’un sort de la [liste de prêtre](./Liste des sorts de prêtres.md) ne se trouvant pas sur la liste du chaman à la liste des sorts connus de celui-ci. Ce sort doit être d’au moins un niveau de moins que le sort de plus haut niveau qu’il connaît.
+{s:MCA}**[[Chaman]].** Ajout d’un sort de la [[Liste des sorts de prêtres|liste de prêtre]] ne se trouvant pas sur la liste du chaman à la liste des sorts connus de celui-ci. Ce sort doit être d’au moins un niveau de moins que le sort de plus haut niveau qu’il connaît.
 
-{s:MCA}**[Chasseur](./Chasseur.md).** Ajoute 1,50 mètre à la [vitesse de base](./VD.md) du compagnon animal. Au combat, cet avantage se traduit par une augmentation de 1,50 mètre de la vitesse de base uniquement une fois que le personnage a choisi cinq fois cette option.
+{s:MCA}**[[Chasseur]].** Ajoute 1,50 mètre à la [[VD|vitesse de base]] du compagnon animal. Au combat, cet avantage se traduit par une augmentation de 1,50 mètre de la vitesse de base uniquement une fois que le personnage a choisi cinq fois cette option.
 
-{s:MR}{s:APG}**[Chevalier](./Chevalier.md).** Le [chevalier](./Chevalier.md) ajoute 30 centimètres à sa [vitesse de base](./VD.md) montée, ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). S’il remplace sa monture, la nouvelle bénéficie aussi de ce bonus.
-Les chevaliers demi-elfes abordent l’art de la guerre et de l’étiquette avec élégance et finesse. La voie du [chevalier](./Chevalier.md) leur donne un code à suivre et un maître à servir afin de gagner honneur et estime, même si les [humains](./Humain.md) et les [elfes](./Elfe.md) les voient souvent comme des imposteurs ou des intrus au sein de leurs [ordres de chevalerie](./Ordres.md).
+{s:MR}{s:APG}**[[Chevalier]].** Le [[chevalier]] ajoute 30 centimètres à sa [[VD|vitesse de base]] montée, ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). S’il remplace sa monture, la nouvelle bénéficie aussi de ce bonus.
+Les chevaliers demi-elfes abordent l’art de la guerre et de l’étiquette avec élégance et finesse. La voie du [[chevalier]] leur donne un code à suivre et un maître à servir afin de gagner honneur et estime, même si les [[humain|humains]] et les [[elfe|elfes]] les voient souvent comme des imposteurs ou des intrus au sein de leurs [[ordres|ordres de chevalerie]].
 
-{s:AO}**[Cinétiste](./Cinétiste.md).** le personnage ajoute un bonus de +1/4 aux [jets de dégâts](./Valeurs de combat.md#DEGATS) qui bénéficient du bonus conféré par l’aptitude de [bouillonnement élémentaire](./Cinétiste.md#BOUILLONNEMENTÉLÉMENTAIRE) du cinétiste.
+{s:AO}**[[Cinétiste]].** le personnage ajoute un bonus de +1/4 aux [[Valeurs de combat#DEGATS|jets de dégâts]] qui bénéficient du bonus conféré par l’aptitude de [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|bouillonnement élémentaire]] du cinétiste.
 
-{s:MR}{s:APG}**[Conjurateur](./Conjurateur.md).** Le conjurateur ajoute 1/4 de point à la [réserve de points d’évolution de son eidolon](./eidolon.md).
-Certains demi-elfes éprouvent une étrange fascination à l’idée de créer et de façonner la vie, l’esprit, le corps et l’âme. Nombre d’entre eux cherchent à faire de leur [eidolon](./eidolon.md) une créature parfaite dotée d’une beauté immaculée ou inspirant une irrésistible terreur.
+{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur ajoute 1/4 de point à la [[eidolon|réserve de points d’évolution de son eidolon]].
+Certains demi-elfes éprouvent une étrange fascination à l’idée de créer et de façonner la vie, l’esprit, le corps et l’âme. Nombre d’entre eux cherchent à faire de leur [[eidolon]] une créature parfaite dotée d’une beauté immaculée ou inspirant une irrésistible terreur.
 
-{s:MR}{s:APG}**[Druide](./Druide.md).** Le druide choisit un pouvoir de [domaine](./Domaines animaux et environnementaux.md) accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Sagesse. Il peut l’utiliser 1/2 fois de plus par jour. Si le druide a un [compagnon animal](./Compagnons animaux.md) grâce au lien avec la nature, ce compagnon reçoit +1 rang de compétence. Si le druide doit remplacer son compagnon, le nouveau bénéficie aussi de ces rangs de compétence supplémentaires.
+{s:MR}{s:APG}**[[Druide]].** Le druide choisit un pouvoir de [[Domaines animaux et environnementaux|domaine]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Sagesse. Il peut l’utiliser 1/2 fois de plus par jour. Si le druide a un [[Compagnons animaux|compagnon animal]] grâce au lien avec la nature, ce compagnon reçoit +1 rang de compétence. Si le druide doit remplacer son compagnon, le nouveau bénéficie aussi de ces rangs de compétence supplémentaires.
 Les demi-elfes qui ne se sentent pas à leur place au sein des sociétés civilisées les abandonnent fréquemment pour se tourner vers l’harmonie intrinsèque du monde naturel. En laissant libre cours à la connexion avec le monde naturel que leur inspire leur sang elfique, bon nombre d’entre eux trouvent dans les contrées sauvages une tranquillité qu’aucune société ne peut leur offrir.
 
-{s:MCA}**[Enquêteur](./Enquêteur.md).** Bonus de +1/4 aux jets d’[inspiration](./Enquêteur.md#INSPIRATION).
+{s:MCA}**[[Enquêteur]].** Bonus de +1/4 aux jets d’[[Enquêteur#INSPIRATION|inspiration]].
 
-{s:MR}{s:APG}**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur choisit un pouvoir de [lignage](./Lignages.md) accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Charisme. Il peut l’utiliser 1/2 fois de plus par jour.
-De la magie coule dans le sang de tout demi-elfe. Elle se manifeste souvent sous la forme d’un [lignage](./Lignages.md) [profane](./lignage Profane.md) ou [féerique](./lignage Féerique.md) mais d’autres sources de pouvoirs apparaissent aussi parfois. Quelle que soit l’origine de leur magie, les demi-elfes apprennent rapidement à maîtriser les pouvoirs dont ils ont hérité.
+{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur choisit un pouvoir de [[lignages|lignage]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de Charisme. Il peut l’utiliser 1/2 fois de plus par jour.
+De la magie coule dans le sang de tout demi-elfe. Elle se manifeste souvent sous la forme d’un [[lignages|lignage]] [[lignage profane|profane]] ou [[lignage féerique|féerique]] mais d’autres sources de pouvoirs apparaissent aussi parfois. Quelle que soit l’origine de leur magie, les demi-elfes apprennent rapidement à maîtriser les pouvoirs dont ils ont hérité.
 
-{s:MR}{s:APG}**[Guerrier](./Guerrier.md).** Le guerrier ajoute un bonus de +1 à son [DMD](./DMD.md) quand il résiste à une tentative de [désarmement](./Manoeuvres-offensives.md#DESARMEMENT) ou de [renversement](./Manoeuvres-offensives.md#RENVERSEMENT).
+{s:MR}{s:APG}**[[Guerrier]].** Le guerrier ajoute un bonus de +1 à son [[DMD]] quand il résiste à une tentative de [[Manoeuvres offensives#DESARMEMENT|désarmement]] ou de [[Manoeuvres offensives#RENVERSEMENT|renversement]].
 Les guerriers demi-elfes sont assez nombreux : la simplicité brutale des champs de bataille exerce un grand pouvoir d’attraction sur ceux qui en ont assez de devoir réconcilier leur nature divisée. Les goûts et les talents variés des demi-elfes les incitent souvent à maîtriser un large éventail d’armes.
 
-{s:AO}**[Hypnotiseur](./Hypnotiseur.md).** Quand il lance des sorts d'hypnotiseur d’[enchantement](./Enchantement.md), le personnage ajoute 1/2 niveau à son [niveau de lanceur de sorts](./NLS.md), mais uniquement pour déterminer leur [durée](./Présentation des sorts.md#DUREE).
+{s:AO}**[[Hypnotiseur]].** Quand il lance des sorts d'hypnotiseur d’[[enchantement]], le personnage ajoute 1/2 niveau à son [[NLS|niveau de lanceur de sorts]], mais uniquement pour déterminer leur [[Présentation des sorts#DUREE|durée]].
 
-{s:MR}{s:APG}**[Inquisiteur](./Inquisiteur.md).** L’inquisiteur peut changer de [don de travail en équipe](./Inquisiteur.md#DONDETRAVAILENEQUIPE) 1/4 de fois de plus par jour.
+{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur peut changer de [[Inquisiteur#DONDETRAVAILENEQUIPE|don de travail en équipe]] 1/4 de fois de plus par jour.
 Les conflits intérieurs auxquels les inquisiteurs demi-elfes doivent faire face aiguisent leurs instincts lorsqu’il s’agit de comprendre l’esprit des autres et l’équilibre entre la vie et la mort.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:cs}{s:UI}**[Justicier](./Justicier.md).** +1/2 au bonus de [Déguisement](./Déguisement.md) de la capacité [apparence transparente](./Justicier.md#APPARENCETRANSPARENTE).
+{s:cs}{s:UI}**[[Justicier]].** +1/2 au bonus de [[Déguisement]] de la capacité [[Justicier#APPARENCETRANSPARENTE|apparence transparente]].
 
-{s:MCA}**[Lutteur](./Lutteur.md).** Ajoute 1 au [DMD](./DMD.md) du lutteur pour résister à une manœuvre de [renversement](./renversement.md) ou de [croc-en-jambe](./croc-en-jambe.md).
+{s:MCA}**[[Lutteur]].** Ajoute 1 au [[DMD]] du lutteur pour résister à une manœuvre de [[renversement]] ou de [[croc-en-jambe]].
 
-{s:MR}{s:APG}**[Magicien](./Magicien.md).** Quand le magicien lance un sort d’[enchantement](./Enchantement.md), il ajoute +1/3 à son niveau de magicien effectif, mais seulement pour déterminer la durée du sort.
-De nombreux demi-elfes héritent des talents magiques de leurs ancêtres et trouvent à la fois du réconfort et du respect en maîtrisant les arts profanes. Toutes les [écoles de magie](./Écoles de magie.md) leur sont accessibles mais bon nombre d’entre eux s’intéressent plutôt aux sorts à la puissance explosive, à ceux qui les enveloppent d’un certain mystère ou à ceux qui les aident à manipuler le monde qui les entoure.
+{s:MR}{s:APG}**[[Magicien]].** Quand le magicien lance un sort d’[[enchantement]], il ajoute +1/3 à son niveau de magicien effectif, mais seulement pour déterminer la durée du sort.
+De nombreux demi-elfes héritent des talents magiques de leurs ancêtres et trouvent à la fois du réconfort et du respect en maîtrisant les arts profanes. Toutes les [[écoles de magie]] leur sont accessibles mais bon nombre d’entre eux s’intéressent plutôt aux sorts à la puissance explosive, à ceux qui les enveloppent d’un certain mystère ou à ceux qui les aident à manipuler le monde qui les entoure.
 
-{s:MR}**[Magus](./Magus.md).** Le magus ajoute +1/4 au nombre de points de sa [réserve magique](./Magus.md#RESERVEMAGIQUE).
+{s:MR}**[[Magus]].** Le magus ajoute +1/4 au nombre de points de sa [[Magus#RESERVEMAGIQUE|réserve magique]].
 
-{s:AO}**[Médium](./Médium.md).** Le personnage bénéficie d’un bonus de +1/3 aux [tests de compétence](./Compétences.md#TESTSDECOMPETENCES) qui utilisent les [extensions de compétences occultes](./Extensions de compétences occultes.md).
+{s:AO}**[[Médium]].** Le personnage bénéficie d’un bonus de +1/3 aux [[compétences#TESTSDECOMPETENCES|tests de compétence]] qui utilisent les [[extensions de compétences occultes]].
 
-{s:MR}{s:APG}**[Moine](./Moine.md).** Le moine ajoute +1/2 à ses tests d’[Évasion](./Évasion.md) et d’[Acrobaties](./Acrobaties.md) pour traverser une surface étroite.
+{s:MR}{s:APG}**[[Moine]].** Le moine ajoute +1/2 à ses tests d’[[Évasion]] et d’[[Acrobaties]] pour traverser une surface étroite.
 Les demi-elfes qui parviennent à faire la paix avec leur héritage de sang-mêlé incarnent l’apaisement
-et l’illumination méditative que prône la voie du [moine](./Moine.md). Nombre d’entre eux adoptent des techniques martiales humaines et elfes et les combinent pour former de nouvelles écoles de combat redoutables.
+et l’illumination méditative que prône la voie du [[moine]]. Nombre d’entre eux adoptent des techniques martiales humaines et elfes et les combinent pour former de nouvelles écoles de combat redoutables.
 
-{s:AO}**[Occultiste](./Occultiste.md).** Le personnage bénéficie d’un bonus de +1/2 aux tests d’[Art de la magie](./Art de la magie.md) effectués pour identifier les propriétés des [objets magiques](./Règles relatives aux objets magiques.md) et aux tests d’[Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) effectués pour simuler une race.
+{s:AO}**[[Occultiste]].** Le personnage bénéficie d’un bonus de +1/2 aux tests d’[[Art de la magie]] effectués pour identifier les propriétés des [[Règles relatives aux objets magiques|objets magiques]] et aux tests d’[[Utilisation dObjets magiques|Utilisation d'objets magiques]] effectués pour simuler une race.
 
-{s:MR}{s:APG}**[Oracle](./Oracle.md).** L’oracle apprend un nouveau [sort d’oracle](./Liste des sorts de prêtres.md). Il doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît.
+{s:MR}{s:APG}**[[Oracle]].** L’oracle apprend un nouveau [[Liste des sorts de prêtres|sort d’oracle]]. Il doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît.
 Les demi-elfes ont tendance à vivre au jour le jour, à suivre les intuitions basées sur les murmures de l’air, le trajet des étoiles et les mouvements imperceptibles des foules dans les rues, voire même les voix ancestrales qui leur parlent à travers leur lignage.
 
-{s:MR}{s:APG}**[Paladin](./Paladin.md).** Les pouvoirs d’aura du paladin couvrent 30 centimètres de plus. Cette option n’a aucun effet tant que le paladin ne l’a pas choisie au moins 5 fois (ou un multiple de 5) : une aura de 2,70 mètres a le même effet qu’une aura de 1,50 mètre, par exemple.
-Qu’ils soient dévoués à un des [dieux](./../Golarion/Religions et philosophies.md) de leur parent [humain](./Humain.md), de leur parent [elfe](./Elfe.md), ou à n’importe quelle autre divinité qu’ils ont choisi d’adopter, les [paladins](./Paladin.md) demi-elfes portent l’étendard de leur seigneur avec zèle et grâce. Les demi-elfes trouvent bien souvent au sein de ces ordres saints une paix et une camaraderie qu’ils n’ont jamais connues ailleurs.
+{s:MR}{s:APG}**[[Paladin]].** Les pouvoirs d’aura du paladin couvrent 30 centimètres de plus. Cette option n’a aucun effet tant que le paladin ne l’a pas choisie au moins 5 fois (ou un multiple de 5) : une aura de 2,70 mètres a le même effet qu’une aura de 1,50 mètre, par exemple.
+Qu’ils soient dévoués à un des [[Golarion.religions et philosophies|dieux]] de leur parent [[humain]], de leur parent [[elfe]], ou à n’importe quelle autre divinité qu’ils ont choisi d’adopter, les [[paladin|paladins]] demi-elfes portent l’étendard de leur seigneur avec zèle et grâce. Les demi-elfes trouvent bien souvent au sein de ces ordres saints une paix et une camaraderie qu’ils n’ont jamais connues ailleurs.
 
-{s:MR}**[Pistolier](./Pistolier.md).** Le pistolier ajoute +1/4 au nombre de [points d’audace](./Pistolier.md#AUDACE) de sa réserve.
+{s:MR}**[[Pistolier]].** Le pistolier ajoute +1/4 au nombre de [[Pistolier#AUDACE|points d’audace]] de sa réserve.
 
-{s:MR}{s:APG}**[Prêtre](./Prêtre.md).** Le prêtre ajoute +1/3 point à sa [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) quand il soigne ou blesse des créatures.
-Les demi-elfes se sentent souvent tenus à l’écart des [églises](./../Golarion/Religions et philosophies.md) humaines ou elfiques. Pourtant, nombre d’entre eux choisissent quand même de suivre une vocation divine : celle-ci peut leur procurer un contexte bien utile pour entrer en contact avec d’autres races partageant le même culte ou simplement une connexion avec le divin, à côté de laquelle leurs incertitudes vis-à-vis des autres mortels semblent bien futiles.
+{s:MR}{s:APG}**[[Prêtre]].** Le prêtre ajoute +1/3 point à sa [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] quand il soigne ou blesse des créatures.
+Les demi-elfes se sentent souvent tenus à l’écart des [[Golarion.religions et philosophies|églises]] humaines ou elfiques. Pourtant, nombre d’entre eux choisissent quand même de suivre une vocation divine : celle-ci peut leur procurer un contexte bien utile pour entrer en contact avec d’autres races partageant le même culte ou simplement une connexion avec le divin, à côté de laquelle leurs incertitudes vis-à-vis des autres mortels semblent bien futiles.
 
-{s:MCA}**[Prêtre combattant](./Prêtre combattant.md).** Bonus de +1/3 aux dégâts et aux soins de la [canalisation d’énergie](./Prêtre combattant.md#CANALISATIONDENERGIE).
+{s:MCA}**[[Prêtre combattant]].** Bonus de +1/3 aux dégâts et aux soins de la [[Prêtre combattant#CANALISATIONDENERGIE|canalisation d’énergie]].
 
-{s:AO}**[Psychiste](./Psychiste.md).** le personnage gagne 1/6 d’une nouvelle [amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE).
+{s:AO}**[[Psychiste]].** le personnage gagne 1/6 d’une nouvelle [[Psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]].
 
-{s:MR}{s:APG}**[Rôdeur](./Rôdeur.md).** Le [compagnon animal](./Compagnons animaux.md) du rôdeur reçoit +1 rang de compétence. Si le rôdeur doit remplacer son compagnon, le nouveau bénéficie aussi de ces rangs de compétence supplémentaires.
+{s:MR}{s:APG}**[[Rôdeur]].** Le [[Compagnons animaux|compagnon animal]] du rôdeur reçoit +1 rang de compétence. Si le rôdeur doit remplacer son compagnon, le nouveau bénéficie aussi de ces rangs de compétence supplémentaires.
 Les demi-elfes frustrés par la société se retirent souvent dans les contrées sauvages et y développent des liens étroits avec les animaux et la nature aux changements imprévisibles.
 
-{s:APG}**[Roublard](./Roublard.md).** Le roublard ajoute +1/2 à ses tests de [Bluff](./Bluff.md) pour faire une feinte et à ses tests de [Diplomatie](./Diplomatie.md) pour rassembler des informations.
+{s:APG}**[[Roublard]].** Le roublard ajoute +1/2 à ses tests de [[Bluff]] pour faire une feinte et à ses tests de [[Diplomatie]] pour rassembler des informations.
 De nombreux demi-elfes excellent dans l’art du roublard. Ils étudient les gens et leurs habitudes et apprennent ainsi comment profiter des fiers et des imprudents.
 
-{s:MCA}**[Sanguin](./Sanguin.md).** Augmente les bonus du [sanctuaire sanguin](./Sanguin.md#SANCTUAIRESANGUIN) de 1/4.
+{s:MCA}**[[Sanguin]].** Augmente les bonus du [[Sanguin#SANCTUAIRESANGUIN|sanctuaire sanguin]] de 1/4.
 
-{s:MCA}**[Scalde](./Scalde.md).** Augmente le nombre total de rounds de [chant de rage](./Scalde.md#CHANTDERAGE) quotidiens de 1.
+{s:MCA}**[[Scalde]].** Augmente le nombre total de rounds de [[scalde#CHANTDERAGE|chant de rage]] quotidiens de 1.
 
-{s:MR}{s:APG}**[Sorcière](./Sorcière.md).** Le [familier](./Familiers.md) de la sorcière apprend un nouveau [sort de sorcière](./Liste des sorts de sorcière.md). Il doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît. Si la sorcière remplace son familier, le nouveau connaît aussi le sort supplémentaire.
-Poussés par l’amertume ou par la soif de pouvoirs magiques toujours plus grands, les demi-elfes démontrent une aptitude aussi développée à manier les pouvoirs des sorcières que les autres formes de magie. Bon nombre d’entre eux adoptent des [familiers](./Familiers.md) blessés ou possédant une autre caractéristique distinctive, des créatures qui sont souvent mises à l’écart de leur société, elles aussi.
+{s:MR}{s:APG}**[[Sorcière]].** Le [[Familiers|familier]] de la sorcière apprend un nouveau [[Liste des sorts de Sorcière|sort de sorcière]]. Il doit être au maximum d’un niveau de moins que le sort le plus puissant qu’il connaît. Si la sorcière remplace son familier, le nouveau connaît aussi le sort supplémentaire.
+Poussés par l’amertume ou par la soif de pouvoirs magiques toujours plus grands, les demi-elfes démontrent une aptitude aussi développée à manier les pouvoirs des sorcières que les autres formes de magie. Bon nombre d’entre eux adoptent des [[familiers]] blessés ou possédant une autre caractéristique distinctive, des créatures qui sont souvent mises à l’écart de leur société, elles aussi.
 
-{s:AO}**[Spirite](./Spirite.md).** le personnage octroie un rang de [compétence](./Compétences.md) supplémentaire à son [fantôme](./Fantômes (Spirite).md).
+{s:AO}**[[Spirite]].** le personnage octroie un rang de [[compétences|compétence]] supplémentaire à son [[Fantômes (Spirite)|fantôme]].
 
-{s:MCA}**[Tueur](./Tueur.md).** Gagne un bonus de +1/2 aux tests de [Bluff](./Bluff.md) pour effectuer une [feinte](./Bluff.md#FEINTE) et aux tests de [Diplomatie](./Diplomatie.md) pour recueillir des informations.
+{s:MCA}**[[Tueur]].** Gagne un bonus de +1/2 aux tests de [[Bluff]] pour effectuer une [[Bluff#FEINTE|feinte]] et aux tests de [[Diplomatie]] pour recueillir des informations.
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -237,82 +237,82 @@ Poussés par l’amertume ou par la soif de pouvoirs magiques toujours plus gran
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Chanteur de la nature](./Chanteur de la nature.md) || <sup>MJRA</sup> || [Cha](./Cha.md) 13, capacité de classe [représentation bardique](./représentation bardique.md), [elfe](./Elfe.md) ou [demi-elfe](./Demi-elfe.md) || Améliore les représentations en forêt et contre les fées
+| [[Chanteur de la nature]] || <sup>MJRA</sup> || [[Cha]] 13, capacité de classe [[représentation bardique]], [[elfe]] ou [[demi-elfe]] || Améliore les représentations en forêt et contre les fées
 
 |- CLASS="premier"
-| [Descendance pure](./Descendance pure.md) || <sup>*ISR*</sup> || Deux [sous-types](./Types de créatures.md), trait racial sang elfique ou sang orque || N'est pas considéré comme étant de ses sous-types ou de sa race dans le cadre des effets qui en dépendent
+| [[Descendance pure]] || <sup>*ISR*</sup> || Deux [[Types de créatures|sous-types]], trait racial sang elfique ou sang orque || N'est pas considéré comme étant de ses sous-types ou de sa race dans le cadre des effets qui en dépendent
 
 |- CLASS="premier"
-| [Enfant de deux destins](./Enfant de deux destins.md) || <sup>*ISR*</sup> || 5 rangs en [Connaissances](./Connaissances.md) (folklore local), [demi-elfe](./Demi-elfe.md) || Accède à un don de travail d'équipe d'un allié humain ou elfe temporairement
+| [[Enfant de deux destins]] || <sup>*ISR*</sup> || 5 rangs en [[Connaissances]] (folklore local), [[demi-elfe]] || Accède à un don de travail d'équipe d'un allié humain ou elfe temporairement
 
 |- CLASS="premier"
-| [Esprit elfique](./Esprit elfique.md) || <sup>MR</sup> || [Demi-elfe](./Demi-elfe.md) || Gain du trait magie elfique
+| [[Esprit elfique]] || <sup>MR</sup> || [[Demi-elfe]] || Gain du trait magie elfique
 
 |- CLASS="premier"
-| [Esprit humain](./Esprit humain.md) || <sup>MR</sup> || [Demi-elfe](./Demi-elfe.md) || Gain d'1 point de compétence par dé de vie (maximum 4)
+| [[Esprit humain]] || <sup>MR</sup> || [[Demi-elfe]] || Gain d'1 point de compétence par dé de vie (maximum 4)
 
 |- CLASS="premier"
-| [Intuition partagée](./Intuition partagée.md) || <sup>MJRA</sup> || [Sag](./Sag.md) 13, [demi-elfe](./Demi-elfe.md) || Donner un bonus de +2 aux tests de Perception aux alliés
+| [[Intuition partagée]] || <sup>MJRA</sup> || [[Sag]] 13, [[demi-elfe]] || Donner un bonus de +2 aux tests de Perception aux alliés
 
 |- CLASS="premier"
-| [Maîtrise des talents multiples](./Maîtrise des talents multiples.md) || <sup>MR</sup> || Personnage de niveau 5, [demi-elfe](./Demi-elfe.md), trait racial [talents multiples](./Demi-elfe.md#Traits_raciaux_standards_6) || Considère toutes les classes comme des classes de prédilection
+| [[Maîtrise des talents multiples]] || <sup>MR</sup> || Personnage de niveau 5, [[demi-elfe]], trait racial [[Demi-elfe#Traits_raciaux_standards_6|talents multiples]] || Considère toutes les classes comme des classes de prédilection
 
 |- CLASS="premier"
-| [Manipulation partagée](./Manipulation partagée.md) || <sup>MR</sup> || [Cha](./Cha.md) 13, [demi-elfe](./Demi-elfe.md) || +2 aux tests de Bluff et d'Intimidation des alliés proches
+| [[Manipulation partagée]] || <sup>MR</sup> || [[Cha]] 13, [[demi-elfe]] || +2 aux tests de Bluff et d'Intimidation des alliés proches
 
 |- CLASS="premier"
-| [Parangon demi-drow](./Parangon demi-drow.md) || <sup>MR</sup> || Traits raciaux [sang de drow](./Demi-elfe.md#Traits_raciaux_alternatifs_7) et [magie drow](./Demi-elfe.md#Traits_raciaux_alternatifs_7), [demi-elfe](./Demi-elfe.md) || Le personnage est traité comme un drow pour les effets qui se comportent différement avec eux
+| [[Parangon demi-drow]] || <sup>MR</sup> || Traits raciaux [[Demi-elfe#Traits_raciaux_alternatifs_7|sang de drow]] et [[Demi-elfe#Traits_raciaux_alternatifs_7|magie drow]], [[demi-elfe]] || Le personnage est traité comme un drow pour les effets qui se comportent différement avec eux
 
 |- CLASS="premier"
-| [Passer pour un humain](./Passer pour un humain.md) || <sup>MJRA</sup> || [Demi-elfe](./Demi-elfe.md), [demi-orque](./Demi-orque.md), ou [halfelin](./Halfelin.md) (voir texte) || +10 aux tests de Déguisement pour ressembler à un humain
+| [[Passer pour un humain]] || <sup>MJRA</sup> || [[Demi-elfe]], [[demi-orque]], ou [[halfelin]] (voir texte) || +10 aux tests de Déguisement pour ressembler à un humain
 
 |- CLASS="premier"
-| [Regard perspicace](./Regard perspicace.md) || <sup>MR</sup> || [Elfe](./Elfe.md) ou [demi-elfe](./Demi-elfe.md), trait racial sens aiguisés || +2 aux jets de sauvegarde contre les illusions et aux tests de Linguistique pour détecter les contrefaçons
+| [[Regard perspicace]] || <sup>MR</sup> || [[Elfe]] ou [[demi-elfe]], trait racial sens aiguisés || +2 aux jets de sauvegarde contre les illusions et aux tests de Linguistique pour détecter les contrefaçons
 
 |- CLASS="premier"
-| [Sociable](./Sociable.md) || <sup>MJRA</sup> || [Cha](./Cha.md) 13, [demi-elfe](./Demi-elfe.md) || Donner aux alliés un bonus de +2 aux tests de Diplomatie
+| [[Sociable]] || <sup>MJRA</sup> || [[Cha]] 13, [[demi-elfe]] || Donner aux alliés un bonus de +2 aux tests de Diplomatie
 
 |- CLASS="premier"
-| [Talent magique](./Talent magique.md) || <sup>MJRA</sup> || [Cha](./Cha.md) 10; [elfe](./Elfe.md), [demi-elfe](./Demi-elfe.md) ou [gnome](./Gnome.md) || Lancer un sort de niveau 0 trois par jour comme un pouvoir magique
+| [[Talent magique]] || <sup>MJRA</sup> || [[Cha]] 10; [[elfe]], [[demi-elfe]] ou [[gnome]] || Lancer un sort de niveau 0 trois par jour comme un pouvoir magique
 
 |- CLASS="premier"
-| [Talent inspirant](./Talent inspirant.md) || <sup>*ISR*</sup> || [Demi-elfe](./Demi-elfe.md), trait racial adaptabilité ou armes ancestrales || Accède au Talent ou aux formations martiales d'un allié dans certaines situations
+| [[Talent inspirant]] || <sup>*ISR*</sup> || [[Demi-elfe]], trait racial adaptabilité ou armes ancestrales || Accède au Talent ou aux formations martiales d'un allié dans certaines situations
 
 |- CLASS="premier"
-| [Voie de l'exilé](./Voie de lexilé.md) || <sup>MR</sup> || [Demi-elfe](./Demi-elfe.md) || 1 fois par jour, relance un jet de Volonté contre un effet d'enchantement
+| [[Voie de lexilé|Voie de l'exilé]] || <sup>MR</sup> || [[Demi-elfe]] || 1 fois par jour, relance un jet de Volonté contre un effet d'enchantement
 |-
-| &emsp;[Visible et invisible](./Visible et invisible.md) || <sup>MR</sup> || [Voie de l'exilé](./Voie de lexilé.md), personnage de niveau 5, [demi-elfe](./Demi-elfe.md) || +2 aux jets de sauvegarde contre les effets de divination et de scrutation, +2 aux tests de Discrétion, malus de -4 pour pister le personnage
+| &emsp;[[Visible et invisible]] || <sup>MR</sup> || [[Voie de lexilé|Voie de l'exilé]], personnage de niveau 5, [[demi-elfe]] || +2 aux jets de sauvegarde contre les effets de divination et de scrutation, +2 aux tests de Discrétion, malus de -4 pour pister le personnage
 |-
-| &emsp;&emsp;[Ni elfe ni humain](./Ni elfe ni humain.md) || <sup>MR</sup> || [Voie de l'exilé](./Voie de lexilé.md), [Visible et invisible](./Visible et invisible.md), personnage de niveau 11, [demi-elfe](./Demi-elfe.md) || Ingnore les effets qui se comportent différemment sur les elfes et les humains
+| &emsp;&emsp;[[Ni elfe ni humain]] || <sup>MR</sup> || [[Voie de lexilé|Voie de l'exilé]], [[Visible et invisible]], personnage de niveau 11, [[demi-elfe]] || Ingnore les effets qui se comportent différemment sur les elfes et les humains
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classes
-- [Sorcière liée (sorcière)](./Sorcière liée (sorcière).md) *(MR)*
-- [Brasseur d'épines (alchimiste)](./Brasseur dépines (alchimiste).md) *(MR)*
-- [Invocateur sauvage (conjurateur)](./Invocateur sauvage (conjurateur).md) *(MR)*
-- [Ombre sauvage (rôdeur)](./Ombre sauvage (rôdeur).md) *(MR)*
+- [[Sorcière liée (sorcière)]] *(MR)*
+- [[Brasseur dépines (alchimiste)|Brasseur d'épines (alchimiste)]] *(MR)*
+- [[Invocateur sauvage (conjurateur)]] *(MR)*
+- [[Ombre sauvage (rôdeur)]] *(MR)*
 
 #### Équipement
-- [Cartes du ciel](./Cartes du ciel (objet).md) *(MR)*
-- [Feuilles d'érable doré](./Feuilles dérable doré (objet).md) *(MR)*
+- [[Cartes du ciel (objet)|Cartes du ciel]] *(MR)*
+- [[Feuilles dérable doré (objet)|Feuilles d'érable doré]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Anneau du sybarite](./Anneau du sybarite.md) *(MR)*
-- [Broche de caméléon racial](./broche de caméléon racial.md) *(MR)*
-- [Cape de diplomate](./Cape de Diplomate.md) *(MR)*
-- [Fermoir ancestral](./fermoir ancestral.md) *(MR)*
-- [Médaillon des faux et vrais amis](./Médaillon des faux et vrais amis.md) *(ISR)*
-- [Perle de purification](./perle de purification.md) *(MR)*
+- [[Anneau du sybarite]] *(MR)*
+- [[Broche de caméléon racial]] *(MR)*
+- [[Cape de diplomate]] *(MR)*
+- [[Fermoir ancestral]] *(MR)*
+- [[Médaillon des faux et vrais amis]] *(ISR)*
+- [[Perle de purification]] *(MR)*
 
 #### Sorts
-- [Grâce urbaine](./grâce urbaine.md) *(MR)*
-- [Parangon soudain](./parangon soudain.md) *(MR)*
-- [Réservoir de résilience](./réservoir de résilience.md) *(MR)*
-- [Sommeil de l'amnésique](./sommeil de lamnésique.md) *(MR)*
-- [Sonder l'histoire](./Sonder lhistoire.md) *(ISR)*
+- [[Grâce urbaine]] *(MR)*
+- [[Parangon soudain]] *(MR)*
+- [[Réservoir de résilience]] *(MR)*
+- [[Sommeil de lamnésique|Sommeil de l'amnésique]] *(MR)*
+- [[Sonder lhistoire|Sonder l'histoire]] *(ISR)*
 
 </td></tr></table>

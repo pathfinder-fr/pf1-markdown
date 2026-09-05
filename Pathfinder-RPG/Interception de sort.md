@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vous pouvez affaiblir et parer une attaque magique menaçante à l'aide de votre arme.*
 
-**Catégorie :** [maîtrise d'arme](./Dons.md#MAITRISEDARME)
+**Catégorie :** [[Dons#MAITRISEDARME|maîtrise d'arme]]
 
-**Conditions.** [Force](./Force.md) 13, [Trancher au vol](./Trancher au vol.md), [Attaque en puissance](./Attaque en puissance.md), 1 rang en [Art de la magie](./Art de la magie.md), [BBA](./BBA.md) +9, capacité de classe [entrainement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) avec une arme de corps à corps
+**Conditions.** [[Force]] 13, [[Trancher au vol]], [[Attaque en puissance]], 1 rang en [[Art de la magie]], [[BBA]] +9, capacité de classe [[Guerrier#ENTRAINEMENTAUXARMES|entrainement aux armes]] avec une arme de corps à corps
 
-**Avantage.** Une fois par round, le personnage peut utiliser son [bonus de base à l'attaque](./BBA.md) à la place de son bonus total au [jet de sauvegarde](./JDS.md) contre un sort, un [pouvoir magique](./Pouvoirs magiques (capacité).md) ou un pouvoir surnaturel autorisant un jet de [Réflexes](./Réflexes.md) ou qui cible uniquement le personnage et n'est pas une attaque de corps à corps.
+**Avantage.** Une fois par round, le personnage peut utiliser son [[BBA|bonus de base à l'attaque]] à la place de son bonus total au [[jds|jet de sauvegarde]] contre un sort, un [[Pouvoirs magiques (capacité)|pouvoir magique]] ou un pouvoir surnaturel autorisant un jet de [[Réflexes]] ou qui cible uniquement le personnage et n'est pas une attaque de corps à corps.

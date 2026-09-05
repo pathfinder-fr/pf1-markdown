@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Couronne dépines de Iomedae.md).***
+***Voir les [[Pathfinder-RPG.Couronne dépines de Iomedae|statistiques de cet artefact]].***
 
 Ce serre-tête en bois parcouru d’échardes est percé d’éclats de métal brisé, comme s’il s’agissait d’un morceau de casque que l’on aurait violemment fracassé.
 

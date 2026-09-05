@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.135*}
 {s:BDTexte|**PX** 50}
-{s:BDTexte|[Animal](./type Animal.md) de taille Min, N}
-{s:BDTexte|**Init** +2 ; **Sens** [perception aveugle](./perception aveugle.md) 6 m (4 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille Min, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[perception aveugle]] 6 m (4 {s:c}), [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 16, pris au dépourvu 14 (Dex +2, taille +4)}
 {s:BDTexte|**pv** 2 (1d8-2)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 15, **Con** 6, **Int** 2, **Sag** 14, **Cha** 5}
 {s:BDTexte|**BBA** +0, **BMO** -2, **DMD** 3}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +6, [Vol](./Vol.md) +16 ; **Modificateurs raciaux** [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Perception]] +6, [[Vol]] +16 ; **Modificateurs raciaux** [[Perception]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou déserts, climat tempéré ou chaud}
 {s:BDTexte|**Organisation sociale** colonie (10-400)}
@@ -37,7 +37,7 @@ Categories:
 </td><td><div>La plupart des chauves-souris mangent des insectes ou des fruits
 mais une espèce au moins se repaît de sang.
 
-Voir aussi : [Nuée de chauves-souris](./Nuée de chauves-souris.md), [Chauve-souris sanguinaire](./Chauve-souris sanguinaire.md)
+Voir aussi : [[Nuée de chauves-souris]], [[Chauve-souris sanguinaire]]
 
 Les chauves-souris peuvent servir de familier aux lanceurs de sort. Un familier chauves-souris donne à son maître un bonus de +3 aux tests de Vol.
 </div></td></tr></table>

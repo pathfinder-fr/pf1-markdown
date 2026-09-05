@@ -4,9 +4,9 @@ Title: Gobelin Demi-fiélon
 LastModified: 2021-10-08 17:51
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des créations de fans pour Pathfinder 2](./FAN.md)   
+• [[FAN|Retour à la page des créations de fans pour Pathfinder 2]]   
 
 
 ### Gobelin demi-fiélon (par MJAjani)

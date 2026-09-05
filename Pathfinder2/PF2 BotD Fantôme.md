@@ -4,9 +4,9 @@ Title: Fantôme (archétype)
 LastModified: 2022-04-27 11:06
 ---
 
-{s:bodmenu}• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+{s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 Vos liens avec le monde des vivants persistent même à travers la mort et les tâches que vous n’avez pas terminées vous cantonnent à l’état d’esprit. Votre âme survit, mais votre corps n’est plus. Votre mental, lui aussi, pourrait bien avoir changé : la mort peut altérer les pensées et les désirs de bien des manières, mais la majorité des fantômes ressentent des émotions plus fortes et plus volatiles et sont fréquemment submergés par leur passé. Leur besoin de résoudre ce passé prend le pas sur tous leurs autres désirs. Leurs motivations peuvent évoluer au fil du temps mais elles sont toujours très puissantes. Le pragmatisme, la compassion et la prudence passent au second plan face aux désirs fondamentaux du fantôme.
@@ -17,7 +17,7 @@ Vos liens avec le monde des vivants persistent même à travers la mort et les t
 
 **Prérequis** Vous êtes mort et êtes revenu sous la forme d’un fantôme.
 
-Vous vous êtes relevé sous une forme qui n’est que l’ombre de ce que vous étiez, un esprit de brume et d’angoisse. Vous gagnez les traits Fantôme, Esprit et Mort-vivant et les [avantages de base de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVBASE). Votre appétence de mort-vivant concerne la résolution de votre tâche inachevée. Vous gagnez également le trait Intangible mais vous ne pouvez pas passer à travers les objets solides à moins de choisir le don Passe Murailles. Être un fantôme vous donne les effets suivants.
+Vous vous êtes relevé sous une forme qui n’est que l’ombre de ce que vous étiez, un esprit de brume et d’angoisse. Vous gagnez les traits Fantôme, Esprit et Mort-vivant et les [[PF2 BotD Jouer un mort-vivant#AVBASE|avantages de base de morts-vivants]]. Votre appétence de mort-vivant concerne la résolution de votre tâche inachevée. Vous gagnez également le trait Intangible mais vous ne pouvez pas passer à travers les objets solides à moins de choisir le don Passe Murailles. Être un fantôme vous donne les effets suivants.
 
 **Flottant.** Vous pouvez flotter mais rester tout de même lié au sol. Remplacez votre Vitesse au sol par une vitesse de vol identique. Vous ne pouvez pas vous élever de plus de quelques centimètres au-dessus du sol lorsque vous Volez. Cela signifie que vous pouvez vous déplacer au-dessus de nombreux types de terrains difficiles ou dangereux sans devoir ralentir et sans subir des dégâts, même si vous ne pouvez pas voler de manière illimitée. Vous pouvez Leap/Bondir, High Jump/Sauter en hauteur, Long Jump/Sauter en longueur et réaliser des actions similaires. Vous pouvez également utiliser votre Vitesse de vol pour tous les calculs qui se basent normalement sur votre Vitesse au sol.
 
@@ -63,7 +63,7 @@ Au niveau 10, la résistance passe à 2 (ou 4 si la source n’est pas magique).
 
 **Prérequis** Dévotion de fantôme
 
-Vous parvenez à mieux contrôler votre forme fantomatique. Vous gagnez les [avantages avancés de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVAVANCE) et pouvez interagir avec des objets physiques dans certaines limites. Vous pouvez effectuer des tests basés sur la Force contre des créatures et des objets tangibles. Vous pouvez Interagir avec des objets physiques mais l’action n’a aucun effet sauf si vous réussissez un test d’Athlétisme ou d’Art du voleur de DD 20.
+Vous parvenez à mieux contrôler votre forme fantomatique. Vous gagnez les [[PF2 BotD Jouer un mort-vivant#AVAVANCE|avantages avancés de morts-vivants]] et pouvez interagir avec des objets physiques dans certaines limites. Vous pouvez effectuer des tests basés sur la Force contre des créatures et des objets tangibles. Vous pouvez Interagir avec des objets physiques mais l’action n’a aucun effet sauf si vous réussissez un test d’Athlétisme ou d’Art du voleur de DD 20.
 </div>
 
 <div class="blocPF2">

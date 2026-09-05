@@ -17,26 +17,26 @@ Traduit et publié en français par Black Book Editions sous le nom « [Cités d
 ### Afflictions
 #### Drogues
 <div class="article_3col">
-[Chique des infidèles](./Drogues.md#CHIQUEDESINFIDELES).
+[[Drogues#CHIQUEDESINFIDELES|Chique des infidèles]].
 </div>
 
 
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat.
 <div class="article_3col">
-[Charge de cavalerie](./Charge de cavalerie.md),
-[Corsaire de l'Empire décadent](./Corsaire du Taldor.md),
-[Explorateur des profondeurs](./Explorateur des profondeurs.md),
-[Mage de glace de l'Enclave](./Mage de glace dIrrisen.md),
-[Monture indomptable](./Monture indomptable.md)*,
-[Tourner en pleine charge](./Tourner en pleine charge.md)*,
-[Supporter la douleur (Baiser du dieu de la torture)](./Supporter la douleur.md).
+[[Charge de cavalerie]],
+[[Corsaire du Taldor|Corsaire de l'Empire décadent]],
+[[Explorateur des profondeurs]],
+[[Mage de glace dIrrisen|Mage de glace de l'Enclave]],
+[[Monture indomptable]]*,
+[[Tourner en pleine charge]]*,
+[[Supporter la douleur|Supporter la douleur (Baiser du dieu de la torture)]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Voir à travers un miroir de l'Enclave](./Voir à travers un miroir dIrrisen.md).
+[[Voir à travers un miroir dIrrisen|Voir à travers un miroir de l'Enclave]].
 </div>
 
 
@@ -48,30 +48,30 @@ Traduit et publié en français par Black Book Editions sous le nom « [Cités p
 ### Afflictions
 #### Maladies
 <div class="article_3col">
-[Les écailles](./Maladies.md#LESECAILLES).
+[[Maladies#LESECAILLES|Les écailles]].
 </div>
 
 
 ### Monstres
 <div class="article_3col">
-[Derhii](./Derhii.md) (modifié),
-[Larme du soleil fou](./Larme de Nuruugal.md).
+[[Derhii]] (modifié),
+[[Larme de Nuruugal|Larme du soleil fou]].
 </div>
 
 
 ### Objets magiques
 #### Artefacts
 <div class="article_3col">
-[Aqualinthe](./Aqualinthe.md),
-[Flamme-guide](./Flamme du guide.md) (modifié),
-[Lentille céleste](./Lentille céleste.md) (modifié).
+[[Aqualinthe]],
+[[Flamme du guide|Flamme-guide]] (modifié),
+[[Lentille céleste]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124"></div>
 #### Objets merveilleux
 <div class="article_3col">
 **Aucun (Sans emplacement).**
-[Larmes du cauchemar](./Larmes du cauchemar.md).
+[[Larmes du cauchemar]].
 </div>
 
 
@@ -83,47 +83,47 @@ Traduit et publié en français par Black Book Editions sous le nom « [Donjons 
 ### Archétypes de créature
 <div class="article_3col">
 **Monstrueux.**
-[Dévoreur de rêves](./Dévoreur de rêves, archétype.md).
+[[Dévoreur de rêves, archétype|Dévoreur de rêves]].
 </div>
 
 
 ### Monstres
 <div class="article_3col">
-[Shriezyx](./Shriezyx.md) (modifié).
+[[Shriezyx]] (modifié).
 </div>
 
 
 ### Objets magiques
 #### Artefacts
 <div class="article_3col">
-[Cornes de Naraga](./../Golarion/Cornes de Naraga.md) (modifié),
-[Gemme des rêves](./Gemme des rêves.md).
+[[Cornes de Naraga]] (modifié),
+[[Gemme des rêves]].
 </div>
 
 <div style="border-top:1px dashed #4b3124"></div>
 #### Objets intelligents
 <div class="article_3col">
-[Vestige du nain vengeur](./Vestige de Norgir.md).
+[[Vestige de Norgir|Vestige du nain vengeur]].
 </div>
 
 <div style="border-top:1px dashed #4b3124"></div>
 #### Objets maudits
 <div class="article_3col">
-[Hache de morte-chair](./Hache de morte-chair.md).
+[[Hache de morte-chair]].
 </div>
 
 <div style="border-top:1px dashed #4b3124"></div>
 #### Objets merveilleux
 <div class="article_3col">
 **Mains.**
-[Brassards du corbeau](./Brassards du corbeau.md).
+[[Brassards du corbeau]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Rafale du bélier](./Rafale du bélier.md),
-[Sceau de protection contre les morts-vivants](./Sceau de protection contre les morts-vivants.md).
+[[Rafale du bélier]],
+[[Sceau de protection contre les morts-vivants]].
 </div>
 
 
@@ -136,7 +136,7 @@ Traduit et publié en français par Black Book Editions sous le nom « [Guide de
 
 ### Dons
 <div class="article_3col">
-[Soldat monteur d'hippogriffe](./Soldat de la Compagnie du sable.md).
+[[Soldat de la Compagnie du sable|Soldat monteur d'hippogriffe]].
 </div>
 
 
@@ -148,51 +148,51 @@ Traduit et publié en français par Black Book Editions sous le nom « [Guide de
 ### Afflictions
 #### Maladies
 <div class="article_3col">
-[Démonite](./Maladies.md#DEMONITE).
+[[Maladies#DEMONITE|Démonite]].
 </div>
 
 ### Dangers
 <div class="article_3col">
 **Les dangers de la Faille démoniaque**
-[Barbe du marquis sanglant](./Dangers.md#BARBEDUMARQUISSANGLANT),
-[Créatures corrompues](./Dangers.md#CREATURESCORROMPUES),
-[Failles Abyssales](./Dangers.md#FAILLEABYSSALE),
-[Geysers abyssaux](./Dangers.md#GEYSERABYSAL),
-[Herbe-sangsue](./Dangers.md#HERBESANGSUE),
-[Morille de minuit](./Dangers.md#MORILLEDEMINUIT),
-[Nuée de néo-larves](./Dangers.md#NUEEDENEOLARVES),
-[Vers intestinaux](./Dangers.md#VERSINTESTINAUX).
+[[Dangers#BARBEDUMARQUISSANGLANT|Barbe du marquis sanglant]],
+[[Dangers#CREATURESCORROMPUES|Créatures corrompues]],
+[[Dangers#FAILLEABYSSALE|Failles Abyssales]],
+[[Dangers#GEYSERABYSAL|Geysers abyssaux]],
+[[Dangers#HERBESANGSUE|Herbe-sangsue]],
+[[Dangers#MORILLEDEMINUIT|Morille de minuit]],
+[[Dangers#NUEEDENEOLARVES|Nuée de néo-larves]],
+[[Dangers#VERSINTESTINAUX|Vers intestinaux]].
 </div>
 
 
 ### Archétypes de créature
 <div class="article_3col">
 **Monstrueux.**
-[Créature pesteuse](./Bête pestiférée, archétype.md) (modifié),
-[Siabraé](./Siabraé, archétype.md) (modifié),
-[Vermine démoniaque](./Vermine démoniaque, archétype.md).
+[[Bête pestiférée, archétype|Créature pesteuse]] (modifié),
+[[Siabraé, archétype|Siabraé]] (modifié),
+[[Vermine démoniaque, archétype|Vermine démoniaque]].
 </div>
 
 
 ### Monstres
 <div class="article_3col">
-[Abrikandilu](./../Aventures/abrikandilu.md) (modifié),
-[Âpresoif](./Âpresoif.md) (modifié),
-[Araignée géante démoniaque](./Araignée géante démoniaque.md),
-[Coursier pesteux](./cheval pestiféré.md) (modifié),
-[Dérakni](./Dérakni.md),
-[Distordu](./Distordu.md),
-[Dwiergeth](./Dwiergeth.md) (modifié),
-[Gallu](./Gallu.md),
-[Gibrileth](./Gibrileth.md),
-[Guêpe belliciste](./Guêpe belliciste.md) (modifié),
-[Kithangien](./Kithangien.md),
-[Lilitu](./Lilitu.md) (modifié),
-[Oolioddroo](./Oolioddroo.md) (modifié),
-[Rampant des failles](./Rampant des failles.md) (modifié),
-[Scorpion piégeur démoniaque](./Scorpion piégeur démoniaque.md),
-[Siabraé](./Siabraé.md) (modifié),
-[Urannagal](./Urannagal.md) (modifié).
+[[Abrikandilu]] (modifié),
+[[Âpresoif]] (modifié),
+[[Araignée géante démoniaque]],
+[[Cheval pestiféré|Coursier pesteux]] (modifié),
+[[Dérakni]],
+[[Distordu]],
+[[Dwiergeth]] (modifié),
+[[Gallu]],
+[[Gibrileth]],
+[[Guêpe belliciste]] (modifié),
+[[Kithangien]],
+[[Lilitu]] (modifié),
+[[Oolioddroo]] (modifié),
+[[Rampant des failles]] (modifié),
+[[Scorpion piégeur démoniaque]],
+[[Siabraé]] (modifié),
+[[Urannagal]] (modifié).
 </div>
 
 
@@ -203,43 +203,43 @@ Traduit et publié en français par Black Book Editions sous le nom « [Guide de
 
 ### Monstres
 <div class="article_3col">
-[Capitaine draugr](./Capitaine draugr.md),
-[Capitaine fantôme](./Capitaine fantôme.md),
-[Chickcharney](./Chickcharney.md),
-[Duppy](./Duppy.md) (modifié),
-[Fléau des mers](./Fléau des mers.md),
-[Gholdako](./Gholdako.md) (modifié),
-[Golem de corail](./Golem de corail.md) (modifié),
-[Kuru](./Kuru.md),
-[Larabai](./Larabai.md),
-[Lusque](./Lusque.md) (modifié),
-[Nirento](./Nirento.md),
-[Nirento ancestral](./Nirento ancestral.md),
-[Pirate draugr](./Pirate draugr.md),
-[Reine sanglante](./Reine sanglante.md),
-[Requin-garou](./Requin garou.md) (modifié),
-[Serpent d'eau](./Serpent deau.md),
-[Serpent d'eau géant](./Serpent deau géant.md),
-[Soucouyante](./Soucouyante.md),
-[Vouivre de l'Annihilatrice](./Vouivre dAashaq.md).
+[[Capitaine draugr]],
+[[Capitaine fantôme]],
+[[Chickcharney]],
+[[Duppy]] (modifié),
+[[Fléau des mers]],
+[[Gholdako]] (modifié),
+[[Golem de corail]] (modifié),
+[[Kuru]],
+[[Larabai]],
+[[Lusque]] (modifié),
+[[Nirento]],
+[[Nirento ancestral]],
+[[Pirate draugr]],
+[[Reine sanglante]],
+[[Requin garou|Requin-garou]] (modifié),
+[[Serpent deau|Serpent d'eau]],
+[[Serpent deau géant|Serpent d'eau géant]],
+[[Soucouyante]],
+[[Vouivre dAashaq|Vouivre de l'Annihilatrice]].
 </div>
 
 
 ### PNJs
 <div class="article_3col">
-[Capitaine pirate](./PNJ Capitaine pirate.md),
-[Contrebandier pirate](./PNJ Contrebandier pirate.md),
-[Ensorceleur enchaîné](./PNJ Ensorceleur enchaîné.md),
-[Mange-sort](./PNJ Mange-sort.md),
-[Marin pirate](./PNJ Marin pirate.md),
-[Officier pirate](./PNJ Officier pirate.md),
-[Prêtresse de la déesse des pirates](./PNJ Prêtresse de Besmara.md).
+[[PNJ Capitaine pirate|Capitaine pirate]],
+[[PNJ Contrebandier pirate|Contrebandier pirate]],
+[[PNJ Ensorceleur enchaîné|Ensorceleur enchaîné]],
+[[PNJ Mange-sort|Mange-sort]],
+[[PNJ Marin pirate|Marin pirate]],
+[[PNJ Officier pirate|Officier pirate]],
+[[PNJ Prêtresse de Besmara|Prêtresse de la déesse des pirates]].
 </div>
 
 
 ### Races
 <div class="article_3col">
-[Kuru](./Kuru-(race).md).
+[[Kuru (race)|Kuru]].
 </div>
 
 
@@ -251,23 +251,23 @@ Traduit et publié en français par Black Book Editions sous le nom « [Guide de
 ### Afflictions
 #### Poisons
 <div class="article_3col">
-[Baie tueuse](./Poisons.md#Baietueuse),
-[Calotropis](./Poisons.md#Calotropis),
-[Herbe factice](./Poisons.md#Herbefactice),
-[Pomme d’épine](./Poisons.md#Pommedépine),
-[Racine d’aconit](./Poisons.md#Racinedaconit).
+[[Poisons#Baietueuse|Baie tueuse]],
+[[Poisons#Calotropis|Calotropis]],
+[[Poisons#Herbefactice|Herbe factice]],
+[[Poisons#Pommedépine|Pomme d’épine]],
+[[Poisons#Racinedaconit|Racine d’aconit]].
 </div>
 
 
 ### Archétypes
 <div class="article_3col">
-[Royaumes indépendants: Académie des Grands arts (barde)](./Académie des Grands arts (barde).md).
+[[Académie des Grands arts (barde)|Royaumes indépendants: Académie des Grands arts (barde)]].
 </div>
 
 
 ### Dons
 <div class="article_3col">
-[Défenseur du royaume](./Défenseur de la Touvette.md).
+[[Défenseur de la Touvette|Défenseur du royaume]].
 </div>
 
 
@@ -275,13 +275,13 @@ Traduit et publié en français par Black Book Editions sous le nom « [Guide de
 #### Objets merveilleux
 <div class="article_3col">
 **Aucun (Sans emplacement).**
-[Baume de la seconde chance](./Baume de la seconde chance.md).
+[[Baume de la seconde chance]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Lumière argentée](./Lumière argentée.md).
+[[Lumière argentée]].
 </div>
 
 
@@ -295,64 +295,64 @@ Traduit et publié en français par Black Book Editions sous le nom « [Guide du
 ### Afflictions
 #### Poisons
 <div class="article_3col">
-[Bave de dhabba](./Poisons.md#Bavededhabba),
-[Fléau du mage](./Poisons.md#Fléaudumage),
-[Pesh pourpre](./Poisons.md#Peshpourpre),
-[Pilule de folie](./Poisons.md#Piluledefolie),
-[Venin d’araignée écorchefeuille](./Poisons.md#Venindaraignéeécorchefeuille).
+[[Poisons#Bavededhabba|Bave de dhabba]],
+[[Poisons#Fléaudumage|Fléau du mage]],
+[[Poisons#Peshpourpre|Pesh pourpre]],
+[[Poisons#Piluledefolie|Pilule de folie]],
+[[Poisons#Venindaraignéeécorchefeuille|Venin d’araignée écorchefeuille]].
 </div>
 
 
 ### Classes de prestige
 <div class="article_3col">
-[Estimateur légal](./Estimateur dAbadar.md).
+[[Estimateur dAbadar|Estimateur légal]].
 </div>
 
 
 ### Dons
 <div class="article_3col">
-[Euphorie du pesh](./Euphorie du pesh.md) (modifié),
-[Guérison du pesh](./Guérison du pesh.md) (modifié),
-[Halfelin chanceux](./Halfelin porte-chance.md) (modifié),
-[Renouveau du pesh](./Renouveau du pesh.md) (modifié),
-[Sahir-afiyun](./Sahir-afiyun.md) (modifié),
-[Sang de chacal](./Sang de chacal.md).
+[[Euphorie du pesh]] (modifié),
+[[Guérison du pesh]] (modifié),
+[[Halfelin porte-chance|Halfelin chanceux]] (modifié),
+[[Renouveau du pesh]] (modifié),
+[[Sahir-afiyun]] (modifié),
+[[Sang de chacal]].
 </div>
 
 
 ### Monstres
 <div class="article_3col">
-[Aluum](./Aluum.md) (modifié),
-[Anguille des sables](./Anguille des sables.md),
-[Dhabba](./Dhabba.md),
-[Ghul](./Ghul.md) (modifié).
+[[Aluum]] (modifié),
+[[Anguille des sables]],
+[[Dhabba]],
+[[Ghul]] (modifié).
 </div>
 
 
 ### Objets magiques
 #### Armes
 <div class="article_3col">
-[Griffe d’airain](./Griffe dairain.md).
+[[Griffe dairain|Griffe d’airain]].
 </div>
 
 <div style="border-top:1px dashed #4b3124"></div>
 #### Objets merveilleux
 <div class="article_3col">
 **Cou.**
-[Charme de contrôle d’aluum](./Charme de contrôle daluum.md) (modifié).
+[[Charme de contrôle daluum|Charme de contrôle d’aluum]] (modifié).
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Cécité nocturne](./Cécité nocturne.md) (modifié),
-[Dépendance au pesh mineure](./Dépendance au pesh mineure.md),
-[Dépendance au pesh](./Dépendance au pesh.md),
-[Nuage euphorique](./Nuage euphorisant.md) (modifié),
-[Rayon de fébrilité](./Rayon de fièvre.md) (modifié),
-[Suffocation instantanée](./Suffocation instantanée.md),
-[Suffocation lente](./Suffocation lente.md),
-[Vigueur du pesh](./Vigueur du pesh.md) (modifié).
+[[Cécité nocturne]] (modifié),
+[[Dépendance au pesh mineure]],
+[[Dépendance au pesh]],
+[[Nuage euphorisant|Nuage euphorique]] (modifié),
+[[Rayon de fièvre|Rayon de fébrilité]] (modifié),
+[[Suffocation instantanée]],
+[[Suffocation lente]],
+[[Vigueur du pesh]] (modifié).
 </div>
 
 
@@ -365,8 +365,8 @@ Traduit et publié en français par Black Book Editions sous le nom « Guide du 
 
 ### Dons
 <div class="article_3col">
-[Acolyte de la verte religion](./Acolyte de la Nature.md) (modifié),
-[Force du Diamant](./Force du Diamant.md).
+[[Acolyte de la Nature|Acolyte de la verte religion]] (modifié),
+[[Force du Diamant]].
 </div>
 
 
@@ -378,37 +378,37 @@ Traduit et publié en français par Black Book Editions sous le nom « [Irrisen,
 ### Afflictions
 #### Maladies
 <div class="article_3col">
-[Fièvre frissonnante](./Maladies.md#FIEVREFRISSONNANTE),
-[Peste des glaciers](./Maladies.md#PESTEDESGLACIERS).
+[[Maladies#FIEVREFRISSONNANTE|Fièvre frissonnante]],
+[[Maladies#PESTEDESGLACIERS|Peste des glaciers]].
 </div>
 
 
 ### Archétypes de créature
 <div class="article_3col">
 **Monstrueux.**
-[Créature boréale](./Créature boréale, archétype.md).
+[[Créature boréale, archétype|Créature boréale]].
 </div>
 
 
 ### Monstres
 <div class="article_3col">
-[Cavalier blanc](./Cavalier Blanc.md),
-[Cavalier noir](./Cavalier noir.md),
-[Cavalier rouge](./Cavalier rouge.md),
-[Guenaude annis boréale](./Guenaude annis boréale.md),
-[Hutte sentinelle](./Hutte sentinelle.md),
-[Khala](./Khala.md),
-[Loup boréal](./Loup boréal.md),
-[Manticore boréale](./Manticore boréale.md),
-[Poupée de garde](./Poupée de garde.md),
-[Vède](./Vède.md).
+[[Cavalier blanc]],
+[[Cavalier noir]],
+[[Cavalier rouge]],
+[[Guenaude annis boréale]],
+[[Hutte sentinelle]],
+[[Khala]],
+[[Loup boréal]],
+[[Manticore boréale]],
+[[Poupée de garde]],
+[[Vède]].
 </div>
 
 
 ### PNJs
 <div class="article_3col">
-[Baronne sorcière de l’hiver](./Baronne sorcière de lhiver.md),
-[Sœur du froid sorcière de l'hiver](./Sœur du froid sorcière de lhiver.md).
+[[Baronne sorcière de lhiver|Baronne sorcière de l’hiver]],
+[[Sœur du froid sorcière de lhiver|Sœur du froid sorcière de l'hiver]].
 </div>
 
 
@@ -420,8 +420,8 @@ Traduit et publié en français par Black Book Editions sous le nom « [Navires 
 ### Équipement
 #### Armes alchimiques
 <div class="article_3col">
-[Feu d'artifice (fiélon clignotant)](./Armes alchimiques.md#Fiélon clignotant),
-[Feu d'artifice (toux de dragon)](./Armes alchimiques.md#Toux de dragon).
+[[Armes alchimiques#Fiélon clignotant|Feu d'artifice (fiélon clignotant)]],
+[[Armes alchimiques#Toux de dragon|Feu d'artifice (toux de dragon)]].
 </div>
 
 
@@ -429,16 +429,16 @@ Traduit et publié en français par Black Book Editions sous le nom « [Navires 
 #### Artefacts
 <div class="article_3col">
 **Mineurs.**
-[Couronne funéraire du roi véritable](./Couronne funéraire du roi véritable.md).
+[[Couronne funéraire du roi véritable]].
 </div>
 
 <div style="border-top:1px dashed #4b3124"></div>
 #### Objets merveilleux
 <div class="article_3col">
 **Aucun (Sans emplacement)**
-[Volière aux esprits](./Volière aux esprits.md).
+[[Volière aux esprits]].
 
 **Cou.**
-[Amulette du cœur gelé](./Amulette du cœur gelé.md),
-[Collier pour esclave](./Collier pour esclave du Safran.md).
+[[Amulette du cœur gelé]],
+[[Collier pour esclave du Safran|Collier pour esclave]].
 </div>

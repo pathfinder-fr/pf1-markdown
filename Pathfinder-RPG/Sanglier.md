@@ -13,21 +13,21 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.253}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 10, pris au dépourvu 14 (naturelle +4)}
 {s:BDTexte|**pv** 18 (2d8+9)}
 {s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +1}
-{s:BDTexte|**Capacités défensives** [férocité](./Férocité.md) }
+{s:BDTexte|**Capacités défensives** [[férocité]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** défenses, +4 (1d8+4)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 10, **Con** 17, **Int** 2, **Sag** 13, **Cha** 4}
 {s:BDTexte|**BBA** +1, **BMO** +4, **DMD** 14}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +6}
+{s:BDTexte|**Dons** [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Perception]] +6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées ou tropicales}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou harde (3-8)}
@@ -40,9 +40,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Sanglier](./Sanglier.md) || 2
+| [[Sanglier]] || 2
 |-
-| [Sanglier sanguinaire](./Sanglier sanguinaire.md) || 4
+| [[Sanglier sanguinaire]] || 4
 |}
 </div>''Les petits yeux injectés de sang de cette bête colérique surplombent une
 gueule remplie de défenses aiguisées.''
@@ -79,7 +79,7 @@ pèse 100 kg.
 
 #### Le sanglier comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +6 ; **Attaque** défenses (1d6) ; **Caractéristiques** For 13, Dex 12, Con 15, Int 2, Sag 13, Cha 4 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +6 ; **Attaque** défenses (1d6) ; **Caractéristiques** For 13, Dex 12, Con 15, Int 2, Sag 13, Cha 4 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 4.** **Taille** M ; **Attaque** défenses (1d8) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Particularités** [férocité](./Férocité.md).
+**Développement au niveau 4.** **Taille** M ; **Attaque** défenses (1d8) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Particularités** [[férocité]].
 </div></td></tr></table>

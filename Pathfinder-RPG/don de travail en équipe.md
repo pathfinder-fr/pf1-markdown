@@ -7,4 +7,4 @@ Categories:
 RedirectTo: dons déquipe
 ---
 
->>> [dons déquipe](./dons déquipe.md)
+>>> [[dons déquipe]]

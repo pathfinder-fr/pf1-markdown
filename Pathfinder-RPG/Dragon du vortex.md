@@ -33,13 +33,13 @@ LastModified: 2021-07-14 10:05
 |- CLASS="titre"
 | Nom || &nbsp; || FP
 |- CLASS="premier"
-| [Jeune dragon du vortex](./Jeune dragon du vortex.md) || &nbsp; || 10
+| [[Jeune dragon du vortex]] || &nbsp; || 10
 |-
-| [Dragon du vortex adulte](./Dragon du vortex adulte.md) || &nbsp; || 14
+| [[Dragon du vortex adulte]] || &nbsp; || 14
 |-
-| [Dragon du vortex vénérable](./Dragon du vortex vénérable.md) || &nbsp; || 19
+| [[Dragon du vortex vénérable]] || &nbsp; || 19
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons sidéraux](./Dragon sidéral.md).***</li></ul>*Ce dragon s’agite si vite qu’il est difficile de le suivre du regard. Ses ailes et ses cornes, recourbées le long de son cou, émettent une lumière qui semble venir tout droit des étoiles.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Ce dragon s’agite si vite qu’il est difficile de le suivre du regard. Ses ailes et ses cornes, recourbées le long de son cou, émettent une lumière qui semble venir tout droit des étoiles.*
 
 Les dragons du vortex sont les maîtres incontestés du voyage intergalactique. Ce sont les messagers et les sentinelles des plus grands dragons sidéraux et des entités quasi-divines du Grand Au-delà.
 

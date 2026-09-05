@@ -11,9 +11,9 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Occ](./Occultiste.md) 1, [Sor](./Sorcière.md) 1
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (un chiffon doux)
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Sorcière|Sor]] 1
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (un chiffon doux)
 **Portée** contact
 **Cible** un objet en métal d’un maximum de 30 cm de côté
 **Durée** instantanée

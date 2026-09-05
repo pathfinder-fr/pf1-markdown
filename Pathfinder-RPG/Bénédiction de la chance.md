@@ -10,7 +10,7 @@ Categories:
 
 {s:Menubénédictions}{s:MCA}
 #### Chance présente *(mineur)*
-Au niveau 1, le prêtre combattant peut toucher un allié pour lui porter chance. Le bénéficiaire peut faire appel à cette bonne fortune pour lancer deux fois le dé lors d’un [test](./../Golarion/Test.md) de caractéristique ou de compétence ou d’un [jet d’attaque](./jet dattaque.md) ou de [sauvegarde](./JDS.md). Il conserve le meilleur résultat. Il doit annoncer qu’il utilise ce pouvoir avant de lancer le dé. L’effet prend fin dès qu’il a servi ou au bout d'une minute.
+Au niveau 1, le prêtre combattant peut toucher un allié pour lui porter chance. Le bénéficiaire peut faire appel à cette bonne fortune pour lancer deux fois le dé lors d’un [[test]] de caractéristique ou de compétence ou d’un [[jet dattaque|jet d’attaque]] ou de [[jds|sauvegarde]]. Il conserve le meilleur résultat. Il doit annoncer qu’il utilise ce pouvoir avant de lancer le dé. L’effet prend fin dès qu’il a servi ou au bout d'une minute.
 
 
 #### Ennemi malchanceux *(majeur)*

@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*D’une manœuvre sournoise, le personnage pousse l’ennemi agrippé sur la trajectoire d’une attaque.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 13, [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +6
+**Conditions.** [[Dex]] 13, [[Science de la lutte]], [[Science du combat à mains nues]], [[BBA]] +6
 
-**Avantage.** Quand le personnage lutte contre une créature adjacente, il peut, par une [action immédiate](./Action immédiate.md), faire un test de lutte contre elle pour bénéficier d’un [abri](./abri.md) contre une attaque. S’il réussit et que l’attaque le rate, elle vise la créature utilisée comme abri (avec le même [jet d’attaque](./jet dattaque.md)). Le personnage ne peut pas utiliser ce don contre une créature qui l’agrippe et l’abri disparaît une fois que l’attaque associée se termine.
+**Avantage.** Quand le personnage lutte contre une créature adjacente, il peut, par une [[action immédiate]], faire un test de lutte contre elle pour bénéficier d’un [[abri]] contre une attaque. S’il réussit et que l’attaque le rate, elle vise la créature utilisée comme abri (avec le même [[jet dattaque|jet d’attaque]]). Le personnage ne peut pas utiliser ce don contre une créature qui l’agrippe et l’abri disparaît une fois que l’attaque associée se termine.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance pour utiliser ce don contre une créature qui l’[agrippe](./Agrippé.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance pour utiliser ce don contre une créature qui l’[[agrippé|agrippe]].

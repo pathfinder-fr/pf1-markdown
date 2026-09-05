@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 8 po ; **Poids** 1 kg ; **Groupes** [lames légères](./groupe darmes.md#Lameslégères)
+{s:AE}**Prix** 8 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Lameslégères|lames légères]]
 **Dégâts** 1d3 (P), 1d4 (M) ; **Critique** 18-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
 Le kukri est une lame incurvée d’environ 30 centimètres de long.

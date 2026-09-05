@@ -22,12 +22,12 @@ Lorsque vous effectuez une attaque à distance, il est également possible que v
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque à distance**   
 =  
 
-Bonus de base à l’attaque + modificateur de [Dextérité](./Les caractéristiques.md##La_Dextérité_Dex_6) + malus de portée</center></div>
+Bonus de base à l’attaque + modificateur de [[Les caractéristiques##La_Dextérité_Dex_6|Dextérité]] + malus de portée</center></div>
 
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque à distance (arme de jet)**   
 =  
 
-Bonus de base à l’attaque + modificateur de [Force](./Les caractéristiques.md#La_Force_For_5) + malus de portée</center></div>
+Bonus de base à l’attaque + modificateur de [[Les caractéristiques#La_Force_For_5|Force]] + malus de portée</center></div>
 
 
 #### Les attaques au corps à corps
@@ -36,7 +36,7 @@ Lorsque vous attaquez au corps à corps, vous utilisez une arme de corps à corp
 <div class="presentation arrondi recentre ombre"><center>**Bonus d'attaque au corps à corps**   
 =  
 
-Bonus de base à l’attaque + modificateur de [Force](./Les caractéristiques.md#La_Force_For_5)</center></div>
+Bonus de base à l’attaque + modificateur de [[Les caractéristiques#La_Force_For_5|Force]]</center></div>
 
 #### Les réussites et les échecs automatiques
 Un 1 naturel (le d20 donne un résultat de 1) sur un jet d’attaque est toujours un échec. Un 20 naturel (le d20 donne un résultat de 20) est toujours  une réussite. Un 20 naturel peut également aboutir à un coup critique susceptible d’infliger plus de dégâts (voir Les coups critiques à la page 245).

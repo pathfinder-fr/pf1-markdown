@@ -8,4 +8,4 @@ Le manuel des PNJ en vf comprend plusieurs livres édités en vo :
 
 snippet à créer MPNJ pour manuel des PNJ et guide des PNJ Rivaux
 
-- Intégration unique pour la propriété spéciale Trompeuse du RSE : Sort *[lame éblouissante](./Lame éblouissante.md)*.
+- Intégration unique pour la propriété spéciale Trompeuse du RSE : Sort *[[lame éblouissante]]*.

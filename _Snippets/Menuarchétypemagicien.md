@@ -4,20 +4,20 @@
 
 <div class="presentation navmenudroite">
 ### Les archétypes de magicien
-&nbsp;Retour à la [classe](./../Pathfinder-RPG/Magicien.md).
-<ul style="margin-top:2px"><li>[Chuchoteur spirituel](./../Pathfinder-RPG/Chuchoteur spirituel (magicien).md) (MCA)</li>
-<li>[Cruoromancien](./../Pathfinder-RPG/Cruoromancien (magicien).md) ([Dhampir](./../Pathfinder-RPG/Dhampir (race).md)) (MR)</li>
-<li>[Érudit du savoir](./../Pathfinder-RPG/Érudit du savoir (magicien).md) (RSE)</li>
-<li>[Lieur de sorts](./../Pathfinder-RPG/Lieur de sorts (magicien).md) ([Elfe](./../Pathfinder-RPG/Elfe.md)) (MR)</li>
-<li>[Mage de siège](./../Pathfinder-RPG/Mage de siège (magicien).md) (AG)</li>
-<li>[Mage des ombres](./../Pathfinder-RPG/Mage des ombres (magicien).md) (MMI)</li>
-<li>[Magicien exploiteur](./../Pathfinder-RPG/Magicien exploiteur (magicien).md) (MCA)</li>
-<li>[Maître des parchemins](./../Pathfinder-RPG/Maître des parchemins (magicien).md) (AM)</li>
-<li>[Poseur de bombes](./../Pathfinder-RPG/Poseur de bombes (magicien).md) (AG)</li>
-<li>[Primordialiste](./../Pathfinder-RPG/Primordialiste (magicien).md) (MMI)</li>
-<li>[Sage ésotérique](./../Pathfinder-RPG/Sage ésotérique (magicien).md) (MCA)</li>
-<li>[Sortiléro](./../Pathfinder-RPG/Sortiléro (magicien).md) (AG)</li>
-<li>[Spécialiste du péché](./../Pathfinder-RPG/Spécialiste thassilonien (magicien).md) (MMI)</li>
-<li>[Témoin des vents](./../Pathfinder-RPG/Témoin des vents (magicien).md) ([Sylphe](./../Pathfinder-RPG/Sylphe (race).md)) (MR)</li>
+&nbsp;Retour à la [[Magicien|classe]].
+<ul style="margin-top:2px"><li>[[Chuchoteur spirituel (magicien)|Chuchoteur spirituel]] (MCA)</li>
+<li>[[Cruoromancien (magicien)|Cruoromancien]] ([[dhampir (race)|Dhampir]]) (MR)</li>
+<li>[[Érudit du savoir (magicien)|Érudit du savoir]] (RSE)</li>
+<li>[[Lieur de sorts (magicien)|Lieur de sorts]] ([[Elfe]]) (MR)</li>
+<li>[[Mage de siège (magicien)|Mage de siège]] (AG)</li>
+<li>[[Mage des ombres (magicien)|Mage des ombres]] (MMI)</li>
+<li>[[Magicien exploiteur (magicien)|Magicien exploiteur]] (MCA)</li>
+<li>[[Maître des parchemins (magicien)|Maître des parchemins]] (AM)</li>
+<li>[[Poseur de bombes (magicien)|Poseur de bombes]] (AG)</li>
+<li>[[Primordialiste (magicien)|Primordialiste]] (MMI)</li>
+<li>[[Sage ésotérique (magicien)|Sage ésotérique]] (MCA)</li>
+<li>[[Sortiléro (magicien)|Sortiléro]] (AG)</li>
+<li>[[Spécialiste thassilonien (magicien)|Spécialiste du péché]] (MMI)</li>
+<li>[[Témoin des vents (magicien)|Témoin des vents]] ([[sylphe (race)|Sylphe]]) (MR)</li>
 </ul>
 </div>

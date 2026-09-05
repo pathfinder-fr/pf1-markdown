@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#CONCENTRE
 ---
 
->>> [arcanes#CONCENTRE](./arcanes.md#CONCENTRE)
+>>> [[arcanes#CONCENTRE]]

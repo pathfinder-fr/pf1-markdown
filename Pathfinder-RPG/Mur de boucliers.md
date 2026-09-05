@@ -12,12 +12,12 @@ Categories:
 
 {s:apg}*Le personnage peut former un mur défensif avec ceux qui l’entourent.*
 
-**Catégorie :** [combat](./Dons.md#COMBAT), [équipe](./Dons.md#EQUIPE)
+**Catégorie :** [[Dons#COMBAT|combat]], [[Dons#EQUIPE|équipe]]
 
 **Condition. **Formé à l’utilisation des boucliers.
 
-**Avantage.** Chaque fois que le personnage porte un bouclier et est adjacent à un allié qui porte aussi un bouclier et possède ce don, le bonus de [CA](./CA.md) que le personnage obtient de son bouclier augmente en fonction du type de bouclier utilisé par son allié. Si l’allié porte une targe ou une rondache, le bonus de bouclier du personnage augmente de +1. Si l’allié porte un écu ou un pavois, le bonus de bouclier du personnage augmente de +2. Le personnage conserve ces bonus même si son allié perd son propre bonus de bouclier parce qu’il porte un coup de bouclier. Si l’allié adjacent au personnage utilise un pavois pour gagner un [abri](./abri.md) total, le personnage en bénéficie également si l’attaque qui le cible passe à travers le bord de case correspondant au bouclier (voir la description du [pavois](./pavois (armure).md)).
+**Avantage.** Chaque fois que le personnage porte un bouclier et est adjacent à un allié qui porte aussi un bouclier et possède ce don, le bonus de [[CA]] que le personnage obtient de son bouclier augmente en fonction du type de bouclier utilisé par son allié. Si l’allié porte une targe ou une rondache, le bonus de bouclier du personnage augmente de +1. Si l’allié porte un écu ou un pavois, le bonus de bouclier du personnage augmente de +2. Le personnage conserve ces bonus même si son allié perd son propre bonus de bouclier parce qu’il porte un coup de bouclier. Si l’allié adjacent au personnage utilise un pavois pour gagner un [[abri]] total, le personnage en bénéficie également si l’attaque qui le cible passe à travers le bord de case correspondant au bouclier (voir la description du [[Pavois (armure)|pavois]]).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Le personnage peut dépenser 2 points d’endurance pour augmenter le bonus conféré à son allié grâce à ce don de 1 jusqu’à la fin de son prochain tour.

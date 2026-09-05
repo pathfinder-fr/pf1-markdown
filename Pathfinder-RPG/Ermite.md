@@ -13,45 +13,45 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 3* p 170}
 {s:BDTexte|**PX** 307 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [kyton](./sous-type kyton.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille M, LM}
-{s:BDTexte|**Init** +12 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}),
-*[vision lucide](./Vision lucide.md)* ; [Perception](./Perception.md) +34}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type kyton|kyton]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM}
+{s:BDTexte|**Init** +12 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}),
+*[[vision lucide]]* ; [[Perception]] +34}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 38, contact 19, pris au dépourvu 29 (Dex +8, esquive +1, naturelle +19)}
 {s:BDTexte|**pv** 310 (20d10+200) ; **régénération** 15 (armes et sorts du Bien, armes en argent)}
 {s:BDTexte|**Réf** +16, **Vig** +22, **Vol** +19}
-{s:BDTexte|**[RD](./RD.md)** 15/argent et Bien ; **Immunité** dégâts non létaux, douleur,
-effets de terreur, froid ; **[RM](./RM.md)** 31}
+{s:BDTexte|**[[RD]]** 15/argent et Bien ; **Immunité** dégâts non létaux, douleur,
+effets de terreur, froid ; **[[RM]]** 31}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), vol 18 m (12 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** morsure, +30 (2d6+10 plus douleur) et 2 griffes,
-+30 (2d6+10/19-20 plus [étreinte](./Étreinte.md) et douleur) et 2 ailes, +25 (1d8+5 plus douleur)}
-{s:BDTexte|**Attaques spéciales** éviscération, regard déstabilisant (9 m (6 {s:c}), [DD](./DD.md) 31)}
++30 (2d6+10/19-20 plus [[étreinte]] et douleur) et 2 ailes, +25 (1d8+5 plus douleur)}
+{s:BDTexte|**Attaques spéciales** éviscération, regard déstabilisant (9 m (6 {s:c}), [[DD]] 31)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 20 ; concentration +31)}
-{s:BDSorts|Constant — *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|À volonté — *[blessure critique](./Blessure critique.md)* ([DD](./DD.md) 25), *[télékinésie](./Télékinésie.md)* ([DD](./DD.md) 26),
-*[téléportation suprême](./Téléportation suprême.md)* (personnelle plus 25 kilos d’objets uniquement), *[traversée des ombres](./Traversée des ombres.md)*}
-{s:BDSorts|3/jour — *[aliénation mentale](./Aliénation mentale.md)* ([DD](./DD.md) 28), *[barrière de lames](./Barrière de lames.md)* ([DD](./DD.md) 27),
-*[blessure critique de groupe](./Blessure critique de groupe.md)* ([DD](./DD.md) 29), [cage de force](./Cage de force.md) ([DD](./DD.md) 28),
-*[changement de plan](./Changement de plan.md)* ([DD](./DD.md) 28), *[guérison suprême](./Guérison suprême.md)* (personnelle
-uniquement), *[magie des ombres suprême](./Magie des ombres suprême.md)* ([DD](./DD.md) 29), *[mur de force](./Mur de force.md)*,
-*[reflets d’ombres](./Reflets dombre.md)* ([DD](./DD.md) 30), *[symbole de douleur](./Symbole de douleur.md)* ([DD](./DD.md) 26),
-*[verrou dimensionnel](./Verrou dimensionnel.md)*}
-{s:BDSorts|1/jour — *[entrave](./Entrave.md)* ([DD](./DD.md) 29), *[séquestration](./Séquestration.md)* ([DD](./DD.md) 29)}
+{s:BDSorts|Constant — *[[vision lucide]]*}
+{s:BDSorts|À volonté — *[[blessure critique]]* ([[DD]] 25), *[[télékinésie]]* ([[DD]] 26),
+*[[téléportation suprême]]* (personnelle plus 25 kilos d’objets uniquement), *[[traversée des ombres]]*}
+{s:BDSorts|3/jour — *[[aliénation mentale]]* ([[DD]] 28), *[[barrière de lames]]* ([[DD]] 27),
+*[[blessure critique de groupe]]* ([[DD]] 29), [[cage de force]] ([[DD]] 28),
+*[[changement de plan]]* ([[DD]] 28), *[[guérison suprême]]* (personnelle
+uniquement), *[[magie des ombres suprême]]* ([[DD]] 29), *[[mur de force]]*,
+*[[Reflets dombre|reflets d’ombres]]* ([[DD]] 30), *[[symbole de douleur]]* ([[DD]] 26),
+*[[verrou dimensionnel]]*}
+{s:BDSorts|1/jour — *[[entrave]]* ([[DD]] 29), *[[séquestration]]* ([[DD]] 29)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 30, **Dex** 27, **Con** 30, **Int** 22, **Sag** 21, **Cha** 33}
-{s:BDTexte|**BBA** +20 ; **BMO** +30 (+34 [lutte](./lutte.md)) ; **DMD** 49}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Efficacité des sorts accrue](./Efficacité des sorts accrue.md), [Esquive](./Esquive.md),
-[Expertise du combat](./Expertise du combat.md), [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md),
-[Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (griffes), [Talent](./Talent.md)
-([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +29, [Bluff](./Bluff.md) +34, [Connaissances](./Connaissances.md)
-(mystères) +16, [Connaissances](./Connaissances.md) (exploration souterraine) +16,
-[Connaissances](./Connaissances.md) (mystères) +16, [Connaissances](./Connaissances.md) (nature) +16,
-[Connaissances](./Connaissances.md) (plans) +29, [Connaissances](./Connaissances.md) (religion) +16,
-[Discrétion](./Discrétion.md) +31, [Diplomatie](./Diplomatie.md) +34, [Intimidation](./Intimidation.md) +34, [Perception](./Perception.md)
-+34, [Premiers secours](./Premiers secours.md) +28, [Psychologie](./Psychologie.md) +28,
-[Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +31, [Vol](./Vol.md) +12}
+{s:BDTexte|**BBA** +20 ; **BMO** +30 (+34 [[lutte]]) ; **DMD** 49}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Efficacité des sorts accrue]], [[Esquive]],
+[[Expertise du combat]], [[Magie de guerre]], [[Réflexes surhumains]],
+[[Science de linitiative|Science de l’initiative]], [[Science du critique]] (griffes), [[Talent]]
+([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +29, [[Bluff]] +34, [[Connaissances]]
+(mystères) +16, [[Connaissances]] (exploration souterraine) +16,
+[[Connaissances]] (mystères) +16, [[Connaissances]] (nature) +16,
+[[Connaissances]] (plans) +29, [[Connaissances]] (religion) +16,
+[[Discrétion]] +31, [[Diplomatie]] +34, [[Intimidation]] +34, [[Perception]]
++34, [[Premiers secours]] +28, [[Psychologie]] +28,
+[[Utilisation dobjets magiques|Utilisation d’objets magiques]] +31, [[Vol]] +12}
 {s:BDTexte|**Particularité** greffe de peau, voyageur de l’ombre}
 {s:BDTexte|**Langues** commun, infernal ; télépathie à 30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
@@ -60,44 +60,44 @@ uniquement), *[magie des ombres suprême](./Magie des ombres suprême.md)* ([DD]
 {s:BDTexte|**Trésor** double}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Douleur (Sur).** Toute créature touchée par l’attaque naturelle
-d’un ermite doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 30 ou être
-[chancelante](./Chancelant.md) pendant 1 [round](./round.md) à cause de la douleur. Tant que
-la créature est [chancelante](./Chancelant.md) à cause de cet effet, elle reçoit
-un malus de -4 à tous ses [jets de sauvegarde](./jet de sauvegarde.md) pour résister
+d’un ermite doit réussir un jet de [[Vigueur]] [[DD]] 30 ou être
+[[Chancelant|chancelante]] pendant 1 [[round]] à cause de la douleur. Tant que
+la créature est [[Chancelant|chancelante]] à cause de cet effet, elle reçoit
+un malus de -4 à tous ses [[jet de sauvegarde|jets de sauvegarde]] pour résister
 aux pouvoirs magiques et aux capacités extraordinaires
-de l’ermite. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+de l’ermite. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 {s:BDTexte|**Éviscération (Ext).** Lorsqu’un ermite est en lutte avec un ennemi, il
 peut rapidement l’éviscérer ou l’altérer chirurgicalement en lui
 excisant un morceau de chair ou une partie d’organe interne, par
-une [action rapide](./Action rapide.md), infligeant une [diminution permanente](./diminution permanente.md) de 1d8
+une [[action rapide]], infligeant une [[diminution permanente]] de 1d8
 points de caractéristique (au choix de l’ermite). La victime peut
-résister en réussissant un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 28. Le [DD](./DD.md)
-du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Dextérité.](./Dextérité-.md)}
+résister en réussissant un jet de [[Vigueur]] [[DD]] 28. Le [[DD]]
+du [[jet de sauvegarde]] est basé sur la [[Dextérité.]]}
 {s:BDTexte|**Greffe de peau (Sur).** Une fois par jour, l’ermite peut se greffer
 n’importe quel morceau de chair ou d’os récupéré au maximum
 une heure auparavant, grâce à sa capacité d’éviscération, par une
-[action complexe](./Action complexe.md) qui provoque une [attaque d’opportunité](./attaque dopportunité.md). Cette
-greffe le fait bénéficier des effets d’un sort de *[guérison suprême](./Guérison suprême.md)* ou
-de *[restauration suprême](./Restauration suprême.md)* (niveau de lanceur de sorts 20).}
+[[action complexe]] qui provoque une [[attaque dopportunité|attaque d’opportunité]]. Cette
+greffe le fait bénéficier des effets d’un sort de *[[guérison suprême]]* ou
+de *[[restauration suprême]]* (niveau de lanceur de sorts 20).}
 {s:BDTexte|**Immunité contre la douleur (Sur).** L’ermite est immunisé
-contre les [dégâts non létaux](./Dégâts non létaux.md) et contre tous les effets
-magiques associés à la douleur extrême, tels que *[symbole de douleur](./Symbole de douleur.md)*,
+contre les [[dégâts non létaux]] et contre tous les effets
+magiques associés à la douleur extrême, tels que *[[symbole de douleur]]*,
 les attaques de douleur d’un autre ermite et autres
 effets similaires (à l’appréciation du MJ). }
 {s:BDTexte|**Regard déstabilisant (Ext).** Une créature qui succombe au
-regard déstabilisant de l’ermite est [paralysée](./Paralysé.md) par la peur
-pendant 1d4 [round](./round.md)s comme si elle désirait presque offrir sa
-chair au kyton. À la fin de son dernier [round](./round.md) de [paralysie](./Paralysé.md),
-la victime doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 31 ou subir une
-[diminution permanente](./diminution permanente.md) de 1d4 points de [Sagesse](./Sagesse.md) à cause de
+regard déstabilisant de l’ermite est [[Paralysé|paralysée]] par la peur
+pendant 1d4 [[round]]s comme si elle désirait presque offrir sa
+chair au kyton. À la fin de son dernier [[round]] de [[Paralysé|paralysie]],
+la victime doit réussir un jet de [[Volonté]] [[DD]] 31 ou subir une
+[[diminution permanente]] de 1d4 points de [[Sagesse]] à cause de
 la folie qui l’envahit. Il s’agit d’un effet mental de terreur. }
-{s:BDTexte|**Voyageur de l’ombre (Ext).** Lorsqu’un ermite utilise *[changement de plan](./Changement de plan.md)*
+{s:BDTexte|**Voyageur de l’ombre (Ext).** Lorsqu’un ermite utilise *[[changement de plan]]*
 pour se rendre sur le Plan de l’ombre, il arrive à la destination
 voulue avec une précision parfaite. Lorsqu’un ermite utilise
-*[traversée des ombres](./Traversée des ombres.md)*, il se déplace à un rythme de 150 km/h.}
+*[[traversée des ombres]]*, il se déplace à un rythme de 150 km/h.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [kytons](./Kytons.md).***</li></ul>''Cet humanoïde couvert de sang est orné de fragments de métal aussi
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Kytons]].***</li></ul>''Cet humanoïde couvert de sang est orné de fragments de métal aussi
 tranchants que des lames de rasoir. Des ailes squelettiques sortent de ses
 épaules ensanglantées.''
 
@@ -203,5 +203,5 @@ dans l’art de s’écorcher et d’entourer sa chair de plantes
 grimpantes noires et épineuses peut posséder la capacité
 d’envoyer ces lianes recouvertes d’épines suffisamment loin
 pour saisir et étouffer les adversaires à distance et gagner
-*[tentacules noirs](./Tentacules noirs.md)*, *[enchevêtrement](./Enchevêtrement.md)*, *[mur d’épines](./Mur dépines.md)* et 1 à 3
+*[[tentacules noirs]]*, *[[enchevêtrement]]*, *[[mur dépines|mur d’épines]]* et 1 à 3
 autres pouvoirs magiques similaires.

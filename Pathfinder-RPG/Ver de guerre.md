@@ -10,7 +10,7 @@ LastModified: 2023-11-20 14:01
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 280*}
 - **76 800 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille Gig, NM
+- [[type mort-vivant|Mort-vivant]] de taille Gig, NM
 - **Init **+3 ; **Sens** vision dans le noir 18 m ; Perception +27
 - **Aura** présence effrayante (18 m, DD 26)
 (((Défense)))
@@ -25,12 +25,12 @@ LastModified: 2023-11-20 14:01
 - **Espace** 6 m ; **Allonge** 1,50 m
 - **Attaques spéciales** absorption de créature mourante, absorption d’énergie (1 niveau, DD 26), piétinement (2d6+18, DD 31)
 - **Pouvoirs magiques **(**NLS** 18 ; concentration +25)
-  - *3/jour* – [animation d’objets](./Animation dobjets.md) à extension de durée (7 armes de taille M seulement), [télékinésie](./Télékinésie.md) (poussée subite, armures lourdes seulement)
+  - *3/jour* – [[animation dobjets|animation d’objets]] à extension de durée (7 armes de taille M seulement), [[télékinésie]] (poussée subite, armures lourdes seulement)
 (((Statistiques)))
 - **For** 34, **Dex** 17, **Con** -, **Int** 9, **Sag** 22, **Cha** 25
 - **BBA **+13 ; **BMO **+29 ; **DMD** 42 (croc-en-jambe impossible)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Combat en aveugle](./Combat en aveugle.md), [Coup fabuleux](./Coup fabuleux.md), [Réflexes surhumains](./Réflexes surhumains.md), [Renversement supérieur](./Renversement supérieur.md), [Riposte](./Riposte.md), [S’avancer](./Savancer.md), [Science de la bousculade](./Science de la bousculade.md), [Science du renversement](./Science du renversement.md)
-- **Compétences** [Escalade](./Escalade.md) +33, [Natation](./Natation.md) +30, [Perception](./Perception.md) +27
+- **Dons** [[Attaque en puissance]], [[Combat en aveugle]], [[Coup fabuleux]], [[Réflexes surhumains]], [[Renversement supérieur]], [[Riposte]], [[Savancer|S’avancer]], [[Science de la bousculade]], [[Science du renversement]]
+- **Compétences** [[Escalade]] +33, [[Natation]] +30, [[Perception]] +27
 - **Langues** commun (ne sait pas parler)
 - **Particularités** magie profane
 (((Écologie)))

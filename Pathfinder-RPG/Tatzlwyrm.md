@@ -14,8 +14,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 3 p. 252*}
 {s:BDTexte|*Source : Bonus Bestiary*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Dragon](./type Dragon.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Dragon|Dragon]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)}
 {s:BDTexte|**pv** 22 (3d12+3)}
@@ -23,23 +23,23 @@ Categories:
 {s:BDTexte|**Immunités** paralysie, sommeil}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +5 (1d8+3 et [étreinte](./Étreinte.md))}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond.md), [pattes arrière](./Pattes arrière.md) (2 griffes +5, 1d4+2), souffle empoisonné}
+{s:BDTexte|**Corps à corps** morsure +5 (1d8+3 et [[étreinte]])}
+{s:BDTexte|**Attaques spéciales** [[bond]], [[pattes arrière]] (2 griffes +5, 1d4+2), souffle empoisonné}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 15, **Con** 12, **Int** 5, **Sag** 14, **Cha** 11}
 {s:BDTexte|**BBA** +3, **BMO** +5 (+9 pour la lutte), **DMD** 17 (ne peut être mis à terre)}
-{s:BDTexte|**Dons** [Aisance](./Aisance.md), [Discret](./Discret.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10 (+16 dans une végétation dense), [Escalade](./Escalade.md) +14, [Évasion](./Évasion.md) +5, [Intimidation](./Intimidation.md) +4, [Perception](./Perception.md) +8 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +6 dans une végétation dense}
+{s:BDTexte|**Dons** [[Aisance]], [[Discret]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +10 (+16 dans une végétation dense), [[Escalade]] +14, [[Évasion]] +5, [[Intimidation]] +4, [[Perception]] +8 ; **Modificateurs raciaux** [[Discrétion]] +6 dans une végétation dense}
 {s:BDTexte|**Langues** draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** toutes les forêts}
 {s:BDTexte|**Organisation sociale** solitaire ou nid (2–5)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Souffle empoisonné (Ext)** Le [souffle](./Souffle.md) d'un tazlwyrm est empoisonné, mais rarement mortel. Le souffle
-du tatzlwyrm contient des vapeurs empoisonnées. Lorsqu’il a [agrippé](./Agrippé.md) un ennemi, le tatzlwyrm peut lui cracher son souffle empoisonné au visage plutôt que de le mordre ou d’utiliser son attaque de pattes arrière. Pour utiliser ce pouvoir, le
+{s:BDTexte|**Souffle empoisonné (Ext)** Le [[souffle]] d'un tazlwyrm est empoisonné, mais rarement mortel. Le souffle
+du tatzlwyrm contient des vapeurs empoisonnées. Lorsqu’il a [[agrippé]] un ennemi, le tatzlwyrm peut lui cracher son souffle empoisonné au visage plutôt que de le mordre ou d’utiliser son attaque de pattes arrière. Pour utiliser ce pouvoir, le
 tatzlwyrm doit commencer son tour alors qu’il agrippe déjà son ennemi, il ne peut pas agripper un ennemi et utiliser son souffle empoisonné dans le même tour.}
-{s:BDTexte|*Poison du tatzlwyrm* : souffle — inhalation ; *JdS* [Vigueur](./Vigueur.md) DD 12 ; *fréquence* 1/round pendant 2 rounds ; *effet* affaiblissement temporaire de 1d2 Force ; *guérison* 1 réussite. Le DD du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|*Poison du tatzlwyrm* : souffle — inhalation ; *JdS* [[Vigueur]] DD 12 ; *fréquence* 1/round pendant 2 rounds ; *effet* affaiblissement temporaire de 1d2 Force ; *guérison* 1 réussite. Le DD du jet de sauvegarde est basé sur la [[Constitution]].}
 </div>
 </td><td><div>''Cette créature serpentine a une tête de dragon féroce et deux pattes
 antérieures relativement courtes se terminant par de petites griffes. Ondulant comme un gros serpent, sa gueule
@@ -67,7 +67,7 @@ intérêt pour ses richesses (*AP#31, Bonus Bestiary*).
 
 Il existe plusieurs autres espèces de guivres que les tatzlwyrms (*tatzled wyrms => guivres tatoués, à cause des taches et rayures noires parcourant son corps*). Celle nommée tatzlwyrm que l’on rencontre le plus fréquemment (bien que ce soit rare) rôde au cœur des anciennes forêts tandis que d'autres guivres (wyrms) encore plus insaisissables habitent soi disant dans des failles montagneuses, des bas fonds traîtres et de profonds souterrains. Bien que les tatzlwyrms ne paraissent pas assez intelligents pour discerner l’importance historique de tels sites, il semble qu’ils soient curieusement attirés par les endroits naturels ancestraux, recelant une force primitive. Le lien que ces étranges dragons entretiennent avec de tels lieux reste pourtant un mystère (*AP#31, Bonus Bestiary*).
 
-*<u>Note :</u> des précisions complémentaires ont été apportées via d'autres suppléments. A noter que le don [Aisance](./Aisance.md) a été manifestement oublié dans les premières versions V.O./VF du Bestiaire 3, alors qu'il est présent dans toutes les autres versions (AP#31, Bonus Bestiary).*
+*<u>Note :</u> des précisions complémentaires ont été apportées via d'autres suppléments. A noter que le don [[Aisance]] a été manifestement oublié dans les premières versions V.O./VF du Bestiaire 3, alors qu'il est présent dans toutes les autres versions (AP#31, Bonus Bestiary).*
 </div></td></tr></table>
 
 {s:ImageCentre|Bestiaire/Tatzlwyrm_img.jpg|90%}

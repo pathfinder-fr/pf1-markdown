@@ -11,8 +11,8 @@ LastModified: 2017-06-22 18:10
 - *Source : Art de la Magie p.120*
 - *Source : Bestiaire 4 p.238*
 - **PX** 100
-- [Vermine](./type Vermine.md) de taille TP, N
-- **Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +4
+- [[Type Vermine|Vermine]] de taille TP, N
+- **Init** +3 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +4
 (((Défense)))
 - **CA** 18, contact 15, pris au dépourvu 15 (Dex +3, naturelle +3, taille +2)
 - **pv** 4 (1d8)
@@ -25,16 +25,16 @@ LastModified: 2017-06-22 18:10
 - **Attaques spéciales** poison
 (((Statistiques)))
 - **For** 3, **Dex** 16, **Con** 10, **Int** — , **Sag** 10, **Cha** 2
-- **BBA** +0 ; **BMO** +1 ; **DMD** 7 (19 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>
-- **Compétences** [Discrétion](./Discrétion.md) +15, [Escalade](./Escalade.md) +7, [Perception](./Perception.md) +4 ;
-- **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md), +4 en [Escalade](./Escalade.md), +4 en [Perception](./Perception.md)
+- **BBA** +0 ; **BMO** +1 ; **DMD** 7 (19 contre [[croc-en-jambe]])
+- **Dons** [[Attaque en finesse]]<sup>B</sup>
+- **Compétences** [[Discrétion]] +15, [[Escalade]] +7, [[Perception]] +4 ;
+- **Modificateurs raciaux** +4 en [[Discrétion]], +4 en [[Escalade]], +4 en [[Perception]]
 (((Écologie)))
 - **Environnement** déserts, forêts, plaines, souterrains chauds ou tempérés
 - **Organisation sociale** solitaire ou colonie (3-12)
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
-  - **Poison** (Ext). Dard — blessure ; JS [Vigueur](./Vigueur.md) DD 10 ; fréquence 1/round pendant 6 rounds ; effet [fiévreux](./Fiévreux.md) 1 round ; guérison 1 JS.
+  - **Poison** (Ext). Dard — blessure ; JS [[Vigueur]] DD 10 ; fréquence 1/round pendant 6 rounds ; effet [[fiévreux]] 1 round ; guérison 1 JS.
 
 </div>
 <td><div>*Les pinces de ce scorpion semblent trop petites pour blesser des créatures plus grandes qu’un insecte, mais son dard semble tout de même dangereux.*

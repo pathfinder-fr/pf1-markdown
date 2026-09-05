@@ -9,13 +9,13 @@ Categories:
 - Sort sorcière 2
 ---
 
-{s:MCA}**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[feu, terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2  
+{s:MCA}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|feu, terre]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** attaque à distance  
 
@@ -23,4 +23,4 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Le personnage crée une boule de métal en fusion rougeoyante de la taille d’un poing, qu’il projette aussitôt comme une arme à aspersion. Un coup direct inflige 2d6 points de dégâts. Toutes les créatures situées dans un rayon de 1,5 mètre autour de l’endroit où la boule a frappé reçoivent 1d6 points de dégâts de feu d’aspersion ([Réflexes](./Réflexes.md) 1/2 dégâts). Chacune de ces créatures reçoit 1d6 points de dégâts de feu supplémentaires à son tour pendant les 1d3 rounds qui suivent, à moins de s’être refroidie (avec de l’eau, de la neige ou tout autre effet infligeant 5 points de dégâts de froid ou plus).
+Le personnage crée une boule de métal en fusion rougeoyante de la taille d’un poing, qu’il projette aussitôt comme une arme à aspersion. Un coup direct inflige 2d6 points de dégâts. Toutes les créatures situées dans un rayon de 1,5 mètre autour de l’endroit où la boule a frappé reçoivent 1d6 points de dégâts de feu d’aspersion ([[Réflexes]] 1/2 dégâts). Chacune de ces créatures reçoit 1d6 points de dégâts de feu supplémentaires à son tour pendant les 1d3 rounds qui suivent, à moins de s’être refroidie (avec de l’eau, de la neige ou tout autre effet infligeant 5 points de dégâts de froid ou plus).

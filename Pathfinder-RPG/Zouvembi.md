@@ -14,35 +14,35 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.284}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 12 (Dex +2, esquive +1, naturelle +2)}
 {s:BDTexte|**pv** 37 (5d8+15)}
 {s:BDTexte|**Réf** +3, **Vig** +3, **Vol** +6}
-{s:BDTexte|**Capacités défensives** [résistance à la canalisation](./Résistance à la canalisation (capacité).md) +4 ; [RD](./RD.md) 5/perforant** ; Immunités** [froid](./Résistance (capacité).md), [traits des morts-vivants](./Traits des morts-vivants.md)}
+{s:BDTexte|**Capacités défensives** [[résistance à la canalisation (capacité)|résistance à la canalisation]] +4 ; [[RD]] 5/perforant** ; Immunités** [[résistance (capacité)|froid]], [[traits des morts-vivants]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** hache d'armes, +4 (1d8+1/x3) et griffe, -1 (1d4) ou 2 griffes, +4 (1d4+1)}
 {s:BDTexte|**Attaque spéciale** appel de la mort (DD 16)}
-{s:BDTexte|**Pouvoirs magiques** (NLS 4 ; [Concentration](./concentration.md) +6)}
-{s:BDSorts|A volonté — *[ténèbres](./Ténèbres.md)*}
-{s:BDSorts|3/jour — *[baiser de la goule](./Baiser de la goule.md)*, *[effroi](./Effroi.md)* (DD 14)}
-{s:BDSorts|1/jour — *[animation des morts](./Animation des morts.md)* convocation (niveau 3, 1d3 nuées de chauves-souris ou d’oiseaux (utilisez les mêmes caractéristiques), 1d2 serpents constricteurs, 1d3 serpents venimeux ou 1d4 loups), *[rayon d’épuisement](./Rayon dépuisement.md)*}
+{s:BDTexte|**Pouvoirs magiques** (NLS 4 ; [[Concentration]] +6)}
+{s:BDSorts|A volonté — *[[ténèbres]]*}
+{s:BDSorts|3/jour — *[[baiser de la goule]]*, *[[effroi]]* (DD 14)}
+{s:BDSorts|1/jour — *[[animation des morts]]* convocation (niveau 3, 1d3 nuées de chauves-souris ou d’oiseaux (utilisez les mêmes caractéristiques), 1d2 serpents constricteurs, 1d3 serpents venimeux ou 1d4 loups), *[[rayon dépuisement|rayon d’épuisement]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 14, **Con** -, **Int** 11, **Sag** 14, **Cha** 15}
 {s:BDTexte|**BBA** +3, **BMO** +4, **DMD** 17}
-{s:BDTexte|**Dons** [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (appel du mort), [Esquive](./Esquive.md), [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +7, [Connaissances](./Connaissances.md) (mystères) +8, [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +10}
-{s:BDTexte|**Modificateur racial** +4 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**Dons** [[Attaque spéciale renforcée]] (appel du mort), [[Esquive]], [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Bluff]] +7, [[Connaissances]] (mystères) +8, [[Discrétion]] +14, [[Perception]] +10}
+{s:BDTexte|**Modificateur racial** +4 en [[Discrétion]]}
 {s:BDTexte|**Langue** commun (ne peur pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** standard (hache d'armes)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Appel de la mort (Sur).** Les zouvembis ne peuvent pas parler mais leurs sifflements et appels étranges fascinent l’esprit de ceux qui les entendent. Une fois par jour, le zouvembi peut émettre un appel et toutes les créatures vivantes ayant une valeur d'[Intelligence](./Intelligence.md) de 3 ou plus et situées dans un [rayon](./rayon.md) de 30 mètres doivent réussir un
-[jet de Volonté](./jet de sauvegarde.md) DD 16 ou se diriger vers le zouvembi de la manière la plus directe possible. Si le chemin le plus direct les conduit dans une zone dangereuse, comme par exemple dans un feu ou pardessus une falaise, les créatures ont droit à un deuxième [jet de sauvegarde](./jet de sauvegarde.md) pour dissiper l’effet avant de se mettre en danger. Les créatures fascinées ne peuvent pas entreprendre d’autre action que de se défendre. Une victime située à moins de 1,50 mètre du zouvembi reste simplement où elle est, n’opposant aucune résistance aux attaques du monstre. L’effet dure tant que le zouvembi poursuit son appel, par une [action simple](./Action simple.md) par [round](./round.md). Il s’agit d’un [effet mental](./effet mental.md) sonore de charme n’ayant aucun effet sur les créatures sourdes. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
+{s:BDTexte|**Appel de la mort (Sur).** Les zouvembis ne peuvent pas parler mais leurs sifflements et appels étranges fascinent l’esprit de ceux qui les entendent. Une fois par jour, le zouvembi peut émettre un appel et toutes les créatures vivantes ayant une valeur d'[[Intelligence]] de 3 ou plus et situées dans un [[rayon]] de 30 mètres doivent réussir un
+[[jet de sauvegarde|jet de Volonté]] DD 16 ou se diriger vers le zouvembi de la manière la plus directe possible. Si le chemin le plus direct les conduit dans une zone dangereuse, comme par exemple dans un feu ou pardessus une falaise, les créatures ont droit à un deuxième [[jet de sauvegarde]] pour dissiper l’effet avant de se mettre en danger. Les créatures fascinées ne peuvent pas entreprendre d’autre action que de se défendre. Une victime située à moins de 1,50 mètre du zouvembi reste simplement où elle est, n’opposant aucune résistance aux attaques du monstre. L’effet dure tant que le zouvembi poursuit son appel, par une [[action simple]] par [[round]]. Il s’agit d’un [[effet mental]] sonore de charme n’ayant aucun effet sur les créatures sourdes. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
 </div>
 
 </td><td><div>

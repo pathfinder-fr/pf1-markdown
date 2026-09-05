@@ -4,7 +4,7 @@ Title: Astuces de mécano
 LastModified: 2024-07-02 18:40
 ---
 
-Vous apprenez votre première [astuce de mécano](./astuces de mécano.md) au niveau 2 et une astuce supplémentaire tous les 2 niveaux suivants. Les astuces de mécano nécessitent toutes que vous ayez atteint un certain niveau de mécano et elles sont classées en fonction de ce prérequis. Pour certaines, il peut y avoir d’autres prérequis comme, par exemple, d’autres astuces.
+Vous apprenez votre première [[astuces de mécano|astuce de mécano]] au niveau 2 et une astuce supplémentaire tous les 2 niveaux suivants. Les astuces de mécano nécessitent toutes que vous ayez atteint un certain niveau de mécano et elles sont classées en fonction de ce prérequis. Pour certaines, il peut y avoir d’autres prérequis comme, par exemple, d’autres astuces.
 
 <center>
 {| CLASS="tablo toutgauche autoalt" ID="tabexploit"
@@ -14,79 +14,79 @@ Vous apprenez votre première [astuce de mécano](./astuces de mécano.md) au ni
 | Nom
 | Niv
 |- CLASS="premier"
-| [Alimentation de secours](./astuces de mécano.md#ALIMENTATIONDESECOURS)
+| [[Astuces de mécano#ALIMENTATIONDESECOURS|Alimentation de secours]]
 | 2
-| [Amplificateur](./astuces de mécano.md#AMPLIFICATEUR)
-| 2
-|-
-| [Bouclier d’énergie](./astuces de mécano.md#BOUCLIERDENERGIE)
-| 2
-| [Bricolage rapide](./astuces de mécano.md#BRICOLAGERAPIDE)
+| [[Astuces de mécano#AMPLIFICATEUR|Amplificateur]]
 | 2
 |-
-| [Dérivation neurale](./astuces de mécano.md#DERIVATIONNEURALE)
+| [[Astuces de mécano#BOUCLIERDENERGIE|Bouclier d’énergie]]
 | 2
-| [Piratage de diversion](./astuces de mécano.md#PIRATAGEDEDIVERSION)
-| 2
-|-
-| [Piratage intelligent](./astuces de mécano.md#PIRATAGEINTELLIGENT)
-| 2
-| [Processeur de données visuelles](./astuces de mécano.md#PROCESSEURDEDONNEESVISUELLES)
+| [[Astuces de mécano#BRICOLAGERAPIDE|Bricolage rapide]]
 | 2
 |-
-| [Processeur de vision de nuit](./astuces de mécano.md#PROCESSEURDEVISIONDENUIT)
+| [[Astuces de mécano#DERIVATIONNEURALE|Dérivation neurale]]
 | 2
-| [Réparation du drone](./astuces de mécano.md#REPARATIONDUDRONE)
-| 2
-|-
-| [Réparation rapide](./astuces de mécano.md#REPARATIONRAPIDE)
-| 2
-| [Surcadençage](./astuces de mécano.md#SURCADENCAGE)
+| [[Astuces de mécano#PIRATAGEDEDIVERSION|Piratage de diversion]]
 | 2
 |-
-| [Surcharge d’arme](./astuces de mécano.md#SURCHARGEDARME)
+| [[Astuces de mécano#PIRATAGEINTELLIGENT|Piratage intelligent]]
 | 2
-| [Amplificateur amélioré](./astuces de mécano.md#AMPLIFICATEURAMELIORE)
+| [[Astuces de mécano#PROCESSEURDEDONNEESVISUELLES|Processeur de données visuelles]]
+| 2
+|-
+| [[Astuces de mécano#PROCESSEURDEVISIONDENUIT|Processeur de vision de nuit]]
+| 2
+| [[Astuces de mécano#REPARATIONDUDRONE|Réparation du drone]]
+| 2
+|-
+| [[Astuces de mécano#REPARATIONRAPIDE|Réparation rapide]]
+| 2
+| [[Astuces de mécano#SURCADENCAGE|Surcadençage]]
+| 2
+|-
+| [[Astuces de mécano#SURCHARGEDARME|Surcharge d’arme]]
+| 2
+| [[Astuces de mécano#AMPLIFICATEURAMELIORE|Amplificateur amélioré]]
 | 8
 |-
-| [Bouclier renforcé](./astuces de mécano.md#BOUCLIERRENFORCE)
+| [[Astuces de mécano#BOUCLIERRENFORCE|Bouclier renforcé]]
 | 8
-| [Énergie résiduelle](./astuces de mécano.md#ENERGIERESIDUELLE)
-| 8
-|-
-| [Hypercadençage](./astuces de mécano.md#HYPERCADENCAGE)
-| 8
-| [Instinct de l’ingénieur](./astuces de mécano.md#INSTINCTDELINGENIEUR)
+| [[Astuces de mécano#ENERGIERESIDUELLE|Énergie résiduelle]]
 | 8
 |-
-| [Intégration du drone](./astuces de mécano.md#INTEGRATIONDUDRONE)
+| [[Astuces de mécano#HYPERCADENCAGE|Hypercadençage]]
 | 8
-| [Intrusion fantôme](./astuces de mécano.md#INTRUSIONFANTOME)
-| 8
-|-
-| [Processeur de détection de l’invisibilité](./astuces de mécano.md#PROCESSEURDEDETECTIONDELINVISIBILITE)
-| 8
-| [Projecteur holographique](./astuces de mécano.md#PROJECTEURHOLOGRAPHIQUE)
+| [[Astuces de mécano#INSTINCTDELINGENIEUR|Instinct de l’ingénieur]]
 | 8
 |-
-| [Robot éclaireur](./astuces de mécano.md#ROBOTECLAIREUR)
+| [[Astuces de mécano#INTEGRATIONDUDRONE|Intégration du drone]]
 | 8
-| [Amplificateur supérieur](./astuces de mécano.md#AMPLIFICATEURSUPERIEUR)
+| [[Astuces de mécano#INTRUSIONFANTOME|Intrusion fantôme]]
+| 8
+|-
+| [[Astuces de mécano#PROCESSEURDEDETECTIONDELINVISIBILITE|Processeur de détection de l’invisibilité]]
+| 8
+| [[Astuces de mécano#PROJECTEURHOLOGRAPHIQUE|Projecteur holographique]]
+| 8
+|-
+| [[Astuces de mécano#ROBOTECLAIREUR|Robot éclaireur]]
+| 8
+| [[Astuces de mécano#AMPLIFICATEURSUPERIEUR|Amplificateur supérieur]]
 | 14
 |-
-| [Énergie résiduelle améliorée](./astuces de mécano.md#ENERGIERESIDUELLEAMELIOREE)
+| [[Astuces de mécano#ENERGIERESIDUELLEAMELIOREE|Énergie résiduelle améliorée]]
 | 14
-| [Module supplémentaire](./astuces de mécano.md#MODULESUPPLEMENTAIRE)
-| 14
-|-
-| [Projecteur d’annulation de l’invisibilité](./astuces de mécano.md#PROJECTEURDANNULATIONDELINVISIBILITE)
-| 14
-| [Reconfiguration des modules](./astuces de mécano.md#RECONFIGURATIONDESMODULES)
+| [[Astuces de mécano#MODULESUPPLEMENTAIRE|Module supplémentaire]]
 | 14
 |-
-| [Saboteur](./astuces de mécano.md#SABOTEUR)
+| [[Astuces de mécano#PROJECTEURDANNULATIONDELINVISIBILITE|Projecteur d’annulation de l’invisibilité]]
 | 14
-| [Ultracadençage](./astuces de mécano.md#ULTRACADENCAGE)
+| [[Astuces de mécano#RECONFIGURATIONDESMODULES|Reconfiguration des modules]]
+| 14
+|-
+| [[Astuces de mécano#SABOTEUR|Saboteur]]
+| 14
+| [[Astuces de mécano#ULTRACADENCAGE|Ultracadençage]]
 | 14
 |}
 </center>

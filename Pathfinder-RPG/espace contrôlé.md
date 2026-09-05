@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Valeurs de combat#ESPACECONTROLE
 ---
 
->>> [Valeurs de combat#ESPACECONTROLE](./Valeurs de combat.md#ESPACECONTROLE)
+>>> [[Valeurs de combat#ESPACECONTROLE]]

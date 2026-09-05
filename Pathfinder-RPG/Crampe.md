@@ -9,10 +9,10 @@ Categories:
 ---
 
 {s:UM}
-**École** [nécromancie](./Nécromancie.md)  ; **Niveau** [barde](./Barde.md) 0, [prêtre](./Prêtre.md) 0, [inquisiteur](./Inquisiteur.md) 0, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 0, [sorcière](./Sorcière.md) 0  
+**École** [[nécromancie]]  ; **Niveau** [[barde]] 0, [[prêtre]] 0, [[inquisiteur]] 0, [[ensorceleur]]/[[magicien]] 0, [[sorcière]] 0  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 La vitesse de déplacement des cibles du sort incluant cet effet est réduite de moitié (minimum 3 mètres (2 {s:c})).

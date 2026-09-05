@@ -6,9 +6,9 @@ LastModified: 2012-10-19 22:27
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Vers la [règle officielle](./../Pathfinder-RPG/Création dobjets magiques.md)</ul>
-<ul>Voir aussi la règle originale des  [http://dndsrd.net/unearthedCraftPoints.html|arcanes exhumées]</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Vers la [[Pathfinder-RPG.Création dobjets magiques|règle officielle]]</ul>
+<ul>Voir aussi la règle originale des  [arcanes exhumées](http://dndsrd.net/unearthedCraftPoints.html)</ul>
 </div>
 
 

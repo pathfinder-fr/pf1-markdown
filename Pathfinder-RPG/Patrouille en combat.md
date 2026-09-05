@@ -11,12 +11,12 @@ Categories:
 
 {s:apg}*Le personnage se déplace sur le champ de bataille pour faire face aux menaces où qu’elles surviennent.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Attaques réflexes](./Attaques réflexes.md), [Souplesse du serpent](./Souplesse du serpent.md), [BBA](./BBA.md) +5.
+**Conditions.** [[Attaques réflexes]], [[Souplesse du serpent]], [[BBA]] +5.
 
-**Avantage.** Par une [action complexe](./Action complexe.md), le personnage peut se mettre à patrouiller au cours d’un combat. Concrètement, il augmente le rayon de la zone qu’il contrôle de 1,50 m pour chaque tranche de 5 points dans son BBA. Jusqu’au début de son prochain tour, il peut porter des [attaques d’opportunité](./attaque dopportunité.md) contre n’importe quel adversaire qui en provoque une au sein de la zone qu’il contrôle. Il peut se déplacer au cours de ces attaques d’opportunité, pour autant que le déplacement total qu’il effectue avant le début de son prochain tour ne dépasse pas sa vitesse de déplacement. Les déplacements du personnage provoquent des attaques d’opportunité normalement.
+**Avantage.** Par une [[action complexe]], le personnage peut se mettre à patrouiller au cours d’un combat. Concrètement, il augmente le rayon de la zone qu’il contrôle de 1,50 m pour chaque tranche de 5 points dans son BBA. Jusqu’au début de son prochain tour, il peut porter des [[attaque dopportunité|attaques d’opportunité]] contre n’importe quel adversaire qui en provoque une au sein de la zone qu’il contrôle. Il peut se déplacer au cours de ces attaques d’opportunité, pour autant que le déplacement total qu’il effectue avant le début de son prochain tour ne dépasse pas sa vitesse de déplacement. Les déplacements du personnage provoquent des attaques d’opportunité normalement.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage se déplace avant ou après une [attaque d’opportunité](./AO.md) alors qu’il utilise le don Patrouille en combat, il peut dépenser 1 point d’endurance par tranche de 1,50 mètre parcouru. Dans ce cas, son déplacement ne provoque pas d’[attaque d’opportunité](./AO.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage se déplace avant ou après une [[AO|attaque d’opportunité]] alors qu’il utilise le don Patrouille en combat, il peut dépenser 1 point d’endurance par tranche de 1,50 mètre parcouru. Dans ce cas, son déplacement ne provoque pas d’[[AO|attaque d’opportunité]].

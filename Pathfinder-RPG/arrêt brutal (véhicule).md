@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Véhicules en combat (véhicules)#CONDUITEARRETBRUTAL
 ---
 
->>> [Véhicules en combat (véhicules)#CONDUITEARRETBRUTAL](./Véhicules en combat (véhicules).md#CONDUITEARRETBRUTAL)
+>>> [[Véhicules en combat (véhicules)#CONDUITEARRETBRUTAL]]

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Dragon|Aquatique|Tempéré}
 - *Source : Bestiaire 2, p.117*
 - **PX** 2 400
-- [Dragon](./type Dragon.md) ([aquatique](./sous-type aquatique.md)) de taille G, NM
-- **Init** +6 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10
+- [[type Dragon|Dragon]] ([[sous-type aquatique|aquatique]]) de taille G, NM
+- **Init** +6 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10
 (((Défense)))
 - **CA** 19, contact 11, pris au dépourvu 17 (Dex +2, naturelle +8, taille –1)
 - **pv** 73 (7d12+28)
@@ -29,10 +29,10 @@ Categories:
 (((Statistiques)))
 - **For** 23, **Dex** 15, **Con** 18, **Int** 8, **Sag** 10, **Cha** 9
 - **BBA** +7 ; **BMO** +14 ; **DMD** 26
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))
-- **Compétences** [Discrétion](./Discrétion.md) +11, [Intimidation](./Intimidation.md) +9, [Natation](./Natation.md) +24, [Perception](./Perception.md) +10, [Vol](./Vol.md) +10
+- **Dons** [[Attaque en puissance]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Discrétion]])
+- **Compétences** [[Discrétion]] +11, [[Intimidation]] +9, [[Natation]] +24, [[Perception]] +10, [[Vol]] +10
 - **Langues** draconique
-- **Particularités** accélération soudaine, [amphibie](./Amphibie.md)
+- **Particularités** accélération soudaine, [[amphibie]]
 (((Écologie)))
 - **Environnement** régions côtières
 - **Organisation sociale** solitaire, couple ou saccage (3–12)
@@ -40,10 +40,10 @@ Categories:
 (((Pouvoirs spéciaux)))
 - **Accélération soudaine (Ext).** Par une action rapide utilisable trois fois par jour, un drake des mers peut puiser dans son héritage draconique pour obtenir un sursaut de force et de vitesse afin de pouvoir accomplir une action de mouvement supplémentaire au cours du round où il utilise cette capacité.
 - **Renversement de navires (Ext).** Un drake des mers peut tenter de faire sombrer un bateau ou un navire en effectuant une charge et en réalisant un test de manoeuvre de combat. Le DD de ce test est égal à 25 ou au résultat d’un test de Profession (marin) effectué par le capitaine du navire si celui-ci est plus élevé.
-- **Souffle de boule d’éclair (Ext).** Par une action simple, un drake des mers peut cracher une boule d’électricité qui va atteindre une première cible avant de se diviser pour frapper plusieurs cibles secondaires, à la manière d’un *[éclair multiple](./Éclair multiple.md)*. Cette attaque a une portée de 30 mètres (20 {s:c}) et inflige 6d6 points de dégâts d’électricité (Réflexes DD 17, 1/2 dégâts) à la cible principale. Après avoir touché celle-ci, la boule d’électricité se répartit entre un nombre de cibles secondaires égal au nombre de DV du drake des mers (généralement 7). Toutes les cibles secondaires doivent se trouver dans un rayon de 6 mètres autour de la cible principale. Chacun des éclairs secondaires ne touche qu’une seule cible et lui inflige les mêmes dégâts que l’éclair principal. Après avoir utilisé cette capacité, un drake des mers doit patienter 1d6 rounds avant de pouvoir à nouveau utiliser cette attaque de souffle. Le DD du jet de Réflexes dépend de la Constitution.
+- **Souffle de boule d’éclair (Ext).** Par une action simple, un drake des mers peut cracher une boule d’électricité qui va atteindre une première cible avant de se diviser pour frapper plusieurs cibles secondaires, à la manière d’un *[[éclair multiple]]*. Cette attaque a une portée de 30 mètres (20 {s:c}) et inflige 6d6 points de dégâts d’électricité (Réflexes DD 17, 1/2 dégâts) à la cible principale. Après avoir touché celle-ci, la boule d’électricité se répartit entre un nombre de cibles secondaires égal au nombre de DV du drake des mers (généralement 7). Toutes les cibles secondaires doivent se trouver dans un rayon de 6 mètres autour de la cible principale. Chacun des éclairs secondaires ne touche qu’une seule cible et lui inflige les mêmes dégâts que l’éclair principal. Après avoir utilisé cette capacité, un drake des mers doit patienter 1d6 rounds avant de pouvoir à nouveau utiliser cette attaque de souffle. Le DD du jet de Réflexes dépend de la Constitution.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [drakes](./Drake.md).***</li></ul>*Cette créature vicieuse à mi-chemin entre le serpent de mer et le dragon est couverte d’écailles bleu-vert brillantes. Ses bras lui servent à la fois d’ailes et de nageoires.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>*Cette créature vicieuse à mi-chemin entre le serpent de mer et le dragon est couverte d’écailles bleu-vert brillantes. Ses bras lui servent à la fois d’ailes et de nageoires.*
 
 Les drakes des mers résultent visiblement de croisements
 draconiques, mais leurs origines exactes sont moins évidentes que

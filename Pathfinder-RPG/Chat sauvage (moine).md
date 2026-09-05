@@ -12,10 +12,10 @@ Categories:
 {s:Menuarchétypemoine}{s:mca}*Un chat sauvage est un élève de l’école des coups durs. Il se voue à l’apprentissage des méthodes efficaces pour défaire ses adversaires par tous les moyens possibles. Il n’hésite pas à briser une chope sur la tête d’un adversaire, à lui écraser le pied, à lui arracher un œil et, plus généralement, à semer la pagaille pour obtenir le moindre avantage.*
 
 #### Prêt à tout (Ext)
-Au niveau 3, un chat sauvage gagne un bonus de +2 aux tests d’[initiative](./initiative.md) et de [Perception](./Perception.md) pour agir lors d’un round de surprise. Cette aptitude remplace sérénité.
+Au niveau 3, un chat sauvage gagne un bonus de +2 aux tests d’[[initiative]] et de [[Perception]] pour agir lors d’un round de surprise. Cette aptitude remplace sérénité.
 
 #### Entraînement aux manœuvres offensives du lutteur (Ext)
-Au niveau 4, un chat sauvage dispose d’un entraînement supplémentaire à la manœuvre offensive de [sale coup](./sale coup.md). Il gagne un bonus de +1 aux tests de manœuvre offensive quand il effectue cette manœuvre et un bonus de +1 à son [DMD](./DMD.md) quand il se défend contre cette manœuvre.
+Au niveau 4, un chat sauvage dispose d’un entraînement supplémentaire à la manœuvre offensive de [[sale coup]]. Il gagne un bonus de +1 aux tests de manœuvre offensive quand il effectue cette manœuvre et un bonus de +1 à son [[DMD]] quand il se défend contre cette manœuvre.
 
 Aux niveaux 7, 10 et 16, un chat sauvage dispose d’un entraînement supplémentaire à une autre manœuvre offensive, pour laquelle il applique le bonus de +1 aux tests de manœuvres offensives et au DMD, comme indiqué ci-dessus. De plus, les bonus conférés par les entraînements aux manœuvres précédentes augmentent chacun de +1.
 - Par exemple, quand un chat sauvage atteint le niveau 7, il gagne un bonus de +1 pour un type de manœuvre offensive, +1 à son DMD contre cette manœuvre offensive et les bonus pour la manœuvre offensive de sale coup s’élèvent à +2.
@@ -30,15 +30,15 @@ Cette aptitude remplace réserve de ki et sauts puissants.
 Cette aptitude remplace toutes les occurrences de chute ralentie.
 
 #### Don supplémentaire
-Un chat sauvage ajoute les dons suivants à sa liste de dons supplémentaires qu’il peut choisir au niveau 6 : [Science de la subtilisation](./Science de la subtilisation.md), [Science du repositionnement](./Science du repositionnement.md), [Science du sale coup](./Science du sale coup.md). Il ajoute les dons suivants à la liste des dons supplémentaires qu’il peut choisir.
+Un chat sauvage ajoute les dons suivants à sa liste de dons supplémentaires qu’il peut choisir au niveau 6 : [[Science de la subtilisation]], [[Science du repositionnement]], [[Science du sale coup]]. Il ajoute les dons suivants à la liste des dons supplémentaires qu’il peut choisir.
 
-Au niveau 10, il ajoute les dons suivants à la liste des dons supplémentaires qu’il peut choisir : [Repositionnement rapide](./Repositionnement rapide.md),[Sale coup rapide](./Sale coup rapide.md), [Subtilisation rapide](./Subtilisation rapide.md).
+Au niveau 10, il ajoute les dons suivants à la liste des dons supplémentaires qu’il peut choisir : [[Repositionnement rapide]],[[Sale coup rapide]], [[Subtilisation rapide]].
 
 #### KO (Ext)
-À partir du niveau 9, un chat sauvage peut, une fois par jour, effectuer une attaque dévastatrice susceptible de plonger instantanément une cible dans l’inconscience. Il doit annoncer son intention avant d’effectuer son jet d’attaque. Si l’attaque du chat sauvage réussit et que la cible subit les dégâts infligés par ce coup, la cible doit réussir un jet de [Vigueur](./Vigueur.md) (DD = 10 + 1/2 niveau du chat sauvage + le plus élevé entre le modificateur de Force ou de Dextérité du chat sauvage) pour ne pas tomber [inconscient](./Inconscient.md) pendant 1d6 rounds. Chaque round lors de son tour, la cible inconsciente peut effectuer un nouveau [jet de sauvegarde](./JDS.md) pour mettre fin à l’effet ; c’est une [action complexe](./Action complexe.md) qui ne provoque pas d’attaque d’opportunité. Les créatures immunisées aux coups critiques ou aux dégâts non-létaux sont également immunisées aux effets de cette aptitude. Au niveau 12, un chat sauvage peut utiliser cette aptitude deux fois par jour. Cette aptitude remplace esquive surnaturelle et pas chassé.
+À partir du niveau 9, un chat sauvage peut, une fois par jour, effectuer une attaque dévastatrice susceptible de plonger instantanément une cible dans l’inconscience. Il doit annoncer son intention avant d’effectuer son jet d’attaque. Si l’attaque du chat sauvage réussit et que la cible subit les dégâts infligés par ce coup, la cible doit réussir un jet de [[Vigueur]] (DD = 10 + 1/2 niveau du chat sauvage + le plus élevé entre le modificateur de Force ou de Dextérité du chat sauvage) pour ne pas tomber [[inconscient]] pendant 1d6 rounds. Chaque round lors de son tour, la cible inconsciente peut effectuer un nouveau [[jds|jet de sauvegarde]] pour mettre fin à l’effet ; c’est une [[action complexe]] qui ne provoque pas d’attaque d’opportunité. Les créatures immunisées aux coups critiques ou aux dégâts non-létaux sont également immunisées aux effets de cette aptitude. Au niveau 12, un chat sauvage peut utiliser cette aptitude deux fois par jour. Cette aptitude remplace esquive surnaturelle et pas chassé.
 
 #### Frappe revancharde (Ext)
-Au niveau 13, les adversaires provoquent une [attaque d’opportunité](./AO.md) de la part du chat sauvage à chaque fois qu’ils ratent une manœuvre offensive contre lui. Cette aptitude remplace âme de diamant.
+Au niveau 13, les adversaires provoquent une [[AO|attaque d’opportunité]] de la part du chat sauvage à chaque fois qu’ils ratent une manœuvre offensive contre lui. Cette aptitude remplace âme de diamant.
 
 #### Coup vicieux (Ext)
-Au niveau 19, quand un chat sauvage réussit une manœuvre offensive de [sale coup](./sale coup.md), il peut infliger ses dégâts d’attaque à mains nues. Cette aptitude remplace désertion de l’âme.
+Au niveau 19, quand un chat sauvage réussit une manœuvre offensive de [[sale coup]], il peut infliger ses dégâts d’attaque à mains nues. Cette aptitude remplace désertion de l’âme.

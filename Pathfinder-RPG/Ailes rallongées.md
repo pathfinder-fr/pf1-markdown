@@ -8,6 +8,6 @@ Categories:
 
 *Le strix renforce ses ailes estropiées.*
 
-**Conditions requises.** For 13, [Talent](./Talent.md) (Vol), [strix](./strix (race).md), trait racial ailes tailladées.
+**Conditions requises.** For 13, [[Talent]] (Vol), [[strix (race)|strix]], trait racial ailes tailladées.
 
-**Avantage.** La vitesse de vol du strix passe à 18 mètres (moyenne). Le strix ignore le test de [Vol](./Vol.md) qu’impose le trait ailes tailladées pour prendre son envol.
+**Avantage.** La vitesse de vol du strix passe à 18 mètres (moyenne). Le strix ignore le test de [[Vol]] qu’impose le trait ailes tailladées pour prendre son envol.

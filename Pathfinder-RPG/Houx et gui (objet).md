@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 0 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Les [druides](./Druide.md) utilisent généralement ces plantes comme [focalisateur divin](./composantes.md) pour lancer leurs sorts.
+Les [[Druide|druides]] utilisent généralement ces plantes comme [[composantes|focalisateur divin]] pour lancer leurs sorts.

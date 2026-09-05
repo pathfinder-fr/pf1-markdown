@@ -17,7 +17,7 @@ La charité ne se limite pas à donner de l’argent à un temple ou une cause, 
 
 **Code de conduite.** Toujours proposer d’aider des créatures Bonnes qui semblent en avoir besoin. Toujours proposer d’aider les pauvres et les démunis. (Dans les villages, cette aide se traduit souvent par un don à une organisation religieuse charitable, pas par un paladin qui distribue ses pièces de cuivre à tous les mendiants de la rue.)
 
-**Sorts de serment.** 1– [pierre magique](./Pierre magique.md), 2– [réparation intégrale](./Réparation intégrale.md), 3– [panoplie magique](./Panoplie magique.md), 4– [transfert de sorts](./Transfert de sorts.md)
+**Sorts de serment.** 1– [[pierre magique]], 2– [[réparation intégrale]], 3– [[panoplie magique]], 4– [[transfert de sorts]]
 
 
 ### Serment de chasteté
@@ -29,7 +29,7 @@ Le paladin chaste prouve sa pureté par ses actions et son abstinence vis-à-vis
 
 **Code de conduite.** Ne jamais s’engager dans une relation amoureuse ni un acte sexuel.
 
-**Sorts de serment.** 1– [regain d’assurance](./Regain dassurance.md), 2– [confession](./Confession.md)<sup>APG</sup>, 3– [héroïsme](./Héroïsme.md), 4– [liberté de mouvement](./Liberté de mouvement.md)
+**Sorts de serment.** 1– [[regain dassurance|regain d’assurance]], 2– [[confession]]<sup>APG</sup>, 3– [[héroïsme]], 4– [[liberté de mouvement]]
 
 ### Serment contre la corruption
 Les curieuses entités étrangères qui remontent des profondeurs de la terre et des singulières contrées au-delà des cieux sont encore plus insidieuses que les diables sournois et plus destructeurs que des hordes en maraude. Quand un paladin prête ce serment, il devient un traqueur d’aberrations et protège les gens du peuple contre ces curieux dangers. Il travaille souvent en secret car il ne veut pas semer la panique en dévoilant sa mission. Les paladins ont parfois des bases secrètes dans les souterrains pour accéder aux égouts et aux étranges caveaux où vivent les créatures les plus aberrantes.
@@ -44,7 +44,7 @@ Quand le paladin canalise de l’énergie positive ou utilise son imposition des
 
 **Code de conduite.** Chasser les aberrations et les empêcher de se promener librement et de blesser autrui. Les détruire si possible, sinon, les bannir.
 
-**Sorts de serment.** 1– [coup au but](./Coup au but.md) ; 2– [sens aiguisés](./Sens aiguisés.md)<sup>UM</sup>, 3– [idiotie](./Idiotie.md), 4– [immunité contre les sorts](./Immunité contre les sorts.md)
+**Sorts de serment.** 1– [[coup au but]] ; 2– [[sens aiguisés]]<sup>UM</sup>, 3– [[idiotie]], 4– [[immunité contre les sorts]]
 
 ### Serment contre les fiélons
 Le paladin qui prête serment contre les démons, les diables, les infernaux et autres extérieurs maléfiques est constamment à l’affût d’une insurrection fiélone en ce monde s’y oppose immédiatement avec détermination. Il travaille souvent de concert avec des inquisiteurs, en quête d’indices de manipulation ou de possession.
@@ -59,7 +59,7 @@ Ce pouvoir remplace l’aura de fermeté.
 
 **Code de conduite.** Ne jamais laisser un extérieur Mauvais en vie s’il peut le détruire. Bannir ceux qu’il ne peut pas tuer. Purger le mal de tous ceux qui sont possédés.
 
-**Sorts de serment.** 1– [endurance aux énergies destructives](./Endurance aux énergies destructives.md), 2– [détection de pensées](./Détection de pensées.md) 3– [négation de l’invisibilité](./Négation de linvisibilité.md), 4– [changement de plan](./Changement de plan.md)
+**Sorts de serment.** 1– [[endurance aux énergies destructives]], 2– [[détection de pensées]] 3– [[négation de linvisibilité|négation de l’invisibilité]], 4– [[changement de plan]]
 
 ### Serment de loyauté
 Pour la plupart des paladins, une parole donnée vaut plus que tout. Quand ils disent quelque chose, ils le font. Ceux qui prêtent ce serment mettent cet idéal à l’épreuve à chaque instant. La parole du paladin assermenté est une promesse, un lien sacré mais aussi une source de pouvoir au service du bien et de la loi. Il surveille chacune de ses paroles, de peur d’accepter quelque chose qu’il ne cautionne pas entièrement.
@@ -72,7 +72,7 @@ Si la cible se fait toucher par un ennemi et que le paladin est à côté de cet
 
 **Code de conduite.** Tenir toutes ses promesses. Ne jamais faire un serment ou une promesse à la légère. Ne jamais revenir sur un serment.
 
-**Sorts de serment.** 1– [colère](./Colère.md)<sup>APG</sup>, 2– [aide](./Aide.md), 3– [main du berger](./Main du berger.md), 4– [message](./Message.md)
+**Sorts de serment.** 1– [[colère]]<sup>APG</sup>, 2– [[aide]], 3– [[main du berger]], 4– [[message]]
 
 ### Serment contre la non-mort
 Un paladin qui prête ce serment jure de restaurer l’état de mort naturel de tout cadavre animé qu’il rencontre et de détruire l’énergie du mort-vivant. Même si quelques paladins qui ont prêté ce serment reconnaissent que tous les morts-vivants ne sont pas maléfiques, la plupart sont plus que volontaires pour purger les morts-vivants Neutres et Bons avec les Mauvais.
@@ -89,18 +89,18 @@ Ce pouvoir fonctionne uniquement si le paladin est conscient, pas s’il est inc
 
 **Code de conduite.** Détruire les morts-vivants. Apporter le repos aux pauvres âmes changées contre leur gré. Empêcher la souillure de la non-mort de contaminer les morts récents, en bénissant ou en brûlant leurs cadavres si nécessaire.
 
-**Sorts de serments.** 1– [sanctification de cadavre](./Sanctification de cadavre.md)<sup>UM</sup>, 2– [vision dans le noir](./vision dans le noir.md), 3– [lumière brûlante](./Lumière brûlante.md), 4– [immobilisation de morts-vivants](./Immobilisation de morts-vivants.md)
+**Sorts de serments.** 1– [[sanctification de cadavre]]<sup>UM</sup>, 2– [[vision dans le noir]], 3– [[lumière brûlante]], 4– [[immobilisation de morts-vivants]]
 
 ### Serment contre la sauvagerie
 Certains paladins sont des champions de l’ordre qui jurent de lutter contre les hordes de gobelinoïdes, d’orques, de barbares hostiles et autres sauvages qui empiètent sur les frontières de la civilisation ainsi que contre tous ceux qui rongent la société de l’intérieur, comme les guildes d’assassins et de voleurs. Les paladins qui prêtent ce serment s’attendent donc, encore plus que les autres, à devoir combattre de nombreuses créatures à la fois et développent des capacités spéciales pour gérer ce nombre.
 
-**Allonge sacrée (Sur).** Au niveau 2, le paladin assermenté peut dépenser une utilisation de son pouvoir de châtiment du mal pour augmenter son allonge naturelle de 1,50 mètre pendant 1 minute. Ce pouvoir ne se cumule pas avec le don [Fente](./Fente.md). Il remplace grâce divine.
+**Allonge sacrée (Sur).** Au niveau 2, le paladin assermenté peut dépenser une utilisation de son pouvoir de châtiment du mal pour augmenter son allonge naturelle de 1,50 mètre pendant 1 minute. Ce pouvoir ne se cumule pas avec le don [[Fente]]. Il remplace grâce divine.
 
 **Briseur de horde (Sur).** Au niveau 11, quand le paladin touche -un humanoïde Mauvais avec une attaque d’opportunité, il lui inflige 1d6 points de dégâts supplémentaires. Quand il utilise allonge sacrée, le paladin peut, à chaque round, faire un nombre d’attaques d’opportunité supplémentaires égal à son bonus de Charisme. Cette augmentation se cumule avec celles issues d’autres sources comme Attaque réflexe. Ce pouvoir remplace aura de justice.
 
 **Code de conduite.** Toujours répondre à l’appel d’une communauté que menacent des sauvages. Être en première ligne pour défendre un village et être le dernier à se retirer.
 
-**Sorts de serment.** 1– [perception de la mort](./Perception de la mort.md), 2– [protection contre les projectiles](./Protection contre les projectiles.md), 3– [rapidité](./Rapidité.md), 4– [puissance divine](./Puissance divine.md)
+**Sorts de serment.** 1– [[perception de la mort]], 2– [[protection contre les projectiles]], 3– [[rapidité]], 4– [[puissance divine]]
 
 ### Serment contre les wyrms
 Peu de dragons considèrent les races de plus petite taille comme leurs égaux. Pour la majorité d’entre eux, les humanoïdes sont soit de la nourriture, soit une gêne. Certains paladins jurent donc de protéger les gens contre les déprédations des dragons et de leurs parents. Pour quelques-uns, cela inclut les créatures de sang draconique (comme les demi-dragons ou même les ensorceleurs de lignage draconique). Ils se liguent alors avec des inquisiteurs pour débusquer tous ceux dont les ancêtres ont été souillés par la magie des dragons. La plupart des paladins qui prêtent ce serment sont des amateurs de sensations dévoués à la cause du bien qui canalisent leurs pouvoirs divins de façon à affronter ces puissants ennemis de front.
@@ -113,7 +113,7 @@ Peu de dragons considèrent les races de plus petite taille comme leurs égaux. 
 
 **Code de conduite.** Tuer les dragons maléfiques et autres dragons dangereux, qu’ils soient Mauvais ou non. Empêcher que les dragons souillent la lignée d’autres créatures. Protéger les innocents contre les déprédations des dragons.
 
-**Sorts de serment.** 1– [agrandissement](./Agrandissement.md), 2– [endurance de l’ours](./Endurance de lours.md), 3– [vol](./Vol.md), 4– [peau de pierre](./Peau de pierre.md)
+**Sorts de serment.** 1– [[agrandissement]], 2– [[endurance de lours|endurance de l’ours]], 3– [[vol]], 4– [[peau de pierre]]
 
 ### Serment de vengeance
 Tous les paladins défendent les principes du bien et de la loi mais parfois, ces idées doivent prendre un tour impitoyable et dangereux. Le paladin doit souvent faire justice à l’aide d’une vengeance exercée à l’encontre des immondes personnages qui transgressent les lois et le bien. Ces paladins assermentés traquent sans cesse ceux qui ont fait du mal, ce sont les instruments les plus efficaces et les plus implacables du jugement du Paradis.
@@ -122,4 +122,4 @@ Tous les paladins défendent les principes du bien et de la loi mais parfois, ce
 
 **Puissante justice (Sur).** Au niveau 11, le paladin assermenté peut dépenser une de ses utilisations de châtiment du mal pour accorder le même pouvoir à un allié situé dans les 3 mètres. L’allié bénéficie uniquement du bonus aux dégâts du paladin, pas de son bonus à l’attaque ni de sa capacité à franchir une RD. Ce pouvoir remplace aura de justice.
 
-**Sorts de serment.** 1– [colère](./Colère.md)<sup>APG</sup>, 2– [confession](./Confession.md)<sup>APG</sup>, 3– [bénédiction de ferveur](./Bénédiction de ferveur.md)<sup>APG</sup>, 4– [courroux de l’ordre](./Courroux de lordre.md)
+**Sorts de serment.** 1– [[colère]]<sup>APG</sup>, 2– [[confession]]<sup>APG</sup>, 3– [[bénédiction de ferveur]]<sup>APG</sup>, 4– [[courroux de lordre|courroux de l’ordre]]

@@ -15,8 +15,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire* p.205}
 {s:BDTexte|**PX** 600}
 {s:BDTexte|Humain, loup-garou naturel, guerrier 2}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md), [métamorphe](./sous-type métamorphe.md)) de taille M, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 16 (armure +6, Dex +1)}
 {s:BDTexte|**pv** 19 (2d10+4)}
@@ -29,10 +29,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 13, **Con** 14, **Int** 8, **Sag** 14, **Cha** 8}
 {s:BDTexte|**BBA** +2, **BMO** +5, **DMD** 16}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Enchaînement](./Enchaînement.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +3, [Intimidation](./Intimidation.md) +4, [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Enchaînement]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Escalade]] +3, [[Intimidation]] +4, [[Perception]] +4}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (humain, hybride, et loup; *[métamorphose](./métamorphose.md)*), empathie lycanthropique ([loups](./Loup.md) et [loups sanguinaires](./Loup sanguinaire.md))}
+{s:BDTexte|**Particularités** [[changement de forme (capacité)|changement de forme]] (humain, hybride, et loup; *[[métamorphose]]*), empathie lycanthropique ([[loup|loups]] et [[loup sanguinaire|loups sanguinaires]])}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-6)}
@@ -44,8 +44,8 @@ Categories:
 {s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md), [métamorphe](./sous-type métamorphe.md)) de taille M, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 12, pris au dépourvu 20 (armure +6, Dex +2, naturelle +4)}
 {s:BDTexte|**pv** 21 (2d10+6)}
@@ -53,15 +53,15 @@ Categories:
 {s:BDTexte|**Capacités défensives** courage +1 ; **RD** 10/argent }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}) (6 m (4 {s:c}) en armure)}
-{s:BDTexte|**Corps à corps** épée longue, +6 (1d8+6/19-20), morsure, +1 (1d6+1 et [croc-en-jambe](./croc-en-jambe.md) et lycanthropie)}
+{s:BDTexte|**Corps à corps** épée longue, +6 (1d8+6/19-20), morsure, +1 (1d6+1 et [[croc-en-jambe]] et lycanthropie)}
 {s:BDTexte|**Distance** arbalète légère, +4 (1d8/19-20)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 15, **Con** 17, **Int** 8, **Sag** 14, **Cha** 8}
 {s:BDTexte|**BBA** +2, **BMO** +6, **DMD** 18}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Enchaînement](./Enchaînement.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +4, [Intimidation](./Intimidation.md) +4, [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Enchaînement]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Escalade]] +4, [[Intimidation]] +4, [[Perception]] +4}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** changement de forme (humain, hybride, et loup; *[métamorphose](./métamorphose.md)*), empathie lycanthropique ([loups](./Loup.md) et [loups sanguinaires](./Loup sanguinaire.md))}
+{s:BDTexte|**Particularités** changement de forme (humain, hybride, et loup; *[[métamorphose]]*), empathie lycanthropique ([[loup|loups]] et [[loup sanguinaire|loups sanguinaires]])}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3-6)}
@@ -73,24 +73,24 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Chauve-souris garou](./Chauve-souris garou.md) || 3
+| [[Chauve-souris garou]] || 3
 |-
-| [Crocodile garou](./Crocodile garou.md) || 3
+| [[Crocodile garou]] || 3
 |-
-| [Loup-garou](./Loup-garou.md) || 2
+| [[Loup-garou]] || 2
 |-
-| [Ours-garou](./Ours-garou.md) || 4
+| [[Ours-garou]] || 4
 |-
-| [Rat-garou](./Rat-garou.md) || 2
+| [[Rat-garou]] || 2
 |-
-| [Requin garou](./Requin garou.md) || 3
+| [[Requin garou]] || 3
 |-
-| [Sanglier-garou](./Sanglier-garou.md) || 2
+| [[Sanglier-garou]] || 2
 |-
-| [Tigre-garou](./Tigre-garou.md) || 4
+| [[Tigre-garou]] || 4
 |}
 </div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Lycanthrope](./Lycanthrope, archétype.md).***</li></ul>*Cette créature musclée possède le corps d’un homme mais sa tête et sa fourrure font plutôt penser à un loup qui grogne.*
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Lycanthrope, archétype|Lycanthrope]].***</li></ul>*Cette créature musclée possède le corps d’un homme mais sa tête et sa fourrure font plutôt penser à un loup qui grogne.*
 
 Sous forme humanoïde, les loups-garous ressemblent à des gens
 normaux, si ce n’est qu’ils ont tendance à paraître un peu plus

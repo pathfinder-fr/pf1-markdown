@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Le petit village de Ravengro est situé à l'ouest comté de [Canterwall](./Canterwall.md) en [Ustalav](./Ustalav.md), à proximité de la frontière avec la terre de [Belkzen](./Belkzen.md).
+Le petit village de Ravengro est situé à l'ouest comté de [[Canterwall]] en [[Ustalav]], à proximité de la frontière avec la terre de [[Belkzen]].

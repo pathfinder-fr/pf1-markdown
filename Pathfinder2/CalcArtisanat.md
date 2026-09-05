@@ -10,11 +10,11 @@ LastModified: 2023-06-18 18:05
 <i class="fa fa-arrow-left" aria-hidden="true"></i> ADJ PF2</a>
 </div>
 <div class="contenumenuPF2">
-[Règles de base (WIP)](./ArtisanatCR.md)
-[Variante Treasure Vault](./ArtisanatTV.md)
-[Calculette](./CalcArtisanat.md)
-[Artisanat naturel](./ArtisanatTVN.md)
-[Artisanat narratif](./ArtisanatTVS.md)
+[[ArtisanatCR|Règles de base (WIP)]]
+[[ArtisanatTV|Variante Treasure Vault]]
+[[CalcArtisanat|Calculette]]
+[[ArtisanatTVN|Artisanat naturel]]
+[[ArtisanatTVS|Artisanat narratif]]
 </div>
 </div>
 
@@ -22,10 +22,10 @@ LastModified: 2023-06-18 18:05
 <style>
 fieldset {background-color: #f3efe2; border: 1px solid #002564; margin-bottom: 12px; padding-bottom: 0; padding-top: 0;}
 legend {color: #002564; font-family: 'Suez One', serif; font-size: 130%;}
-input[type="number"] {width: 80px;}
-input[type="radio"], input[type="checkbox"] {display: none;}
-label[for] {border: 1px solid #4b3124; padding: 2px 4px;}
-label[for]:hover {background-color: white;}
+input[[type="number"]] {width: 80px;}
+input[[type="radio"]], input[[type="checkbox"]] {display: none;}
+label[[for]] {border: 1px solid #4b3124; padding: 2px 4px;}
+label[[for]]:hover {background-color: white;}
 input:checked+label {background-color: lemonchiffon;}
 1. dDetails td, #dDetails th {font-family: 'Livvic', sans-serif; background-color: transparent; padding: 0 20px;}
 1. dDetails table tr:hover {background-color: lemonchiffon;}
@@ -103,28 +103,28 @@ Modificateur au DD : <input id="iMod" type="number" min="-10" max="10" value="0"
 
 <script>
 const earnIncomeValues = [
-[1, 5, 5, 5, 5],
-[2, 20, 20, 20, 20],
-[4, 30, 30, 30, 30],
-[8, 50, 50, 50, 50],
-[10, 70, 80, 80, 80],
-[20, 90, 100, 100, 100],
-[30, 150, 200, 200, 200],
-[40, 200, 250, 250, 250],
-[50, 250, 300, 300, 300],
-[60, 300, 400, 400, 400],
-[70, 400, 500, 600, 600],
-[80, 500, 600, 800, 800],
-[90, 600, 800, 1000, 1000],
-[100, 700, 1000, 1500, 1500],
-[150, 800, 1500, 2000, 2000],
-[200, 1000, 2000, 2800, 2800],
-[250, 1300, 2500, 3600, 4000],
-[300, 1500, 3000, 4500, 5500],
-[400, 2000, 4500, 7000, 9000],
-[600, 3000, 6000, 10000, 13000],
-[800, 4000, 7500, 15000, 20000],
-[800, 5000, 9000, 17500, 30000],
+[[1, 5, 5, 5, 5]],
+[[2, 20, 20, 20, 20]],
+[[4, 30, 30, 30, 30]],
+[[8, 50, 50, 50, 50]],
+[[10, 70, 80, 80, 80]],
+[[20, 90, 100, 100, 100]],
+[[30, 150, 200, 200, 200]],
+[[40, 200, 250, 250, 250]],
+[[50, 250, 300, 300, 300]],
+[[60, 300, 400, 400, 400]],
+[[70, 400, 500, 600, 600]],
+[[80, 500, 600, 800, 800]],
+[[90, 600, 800, 1000, 1000]],
+[[100, 700, 1000, 1500, 1500]],
+[[150, 800, 1500, 2000, 2000]],
+[[200, 1000, 2000, 2800, 2800]],
+[[250, 1300, 2500, 3600, 4000]],
+[[300, 1500, 3000, 4500, 5500]],
+[[400, 2000, 4500, 7000, 9000]],
+[[600, 3000, 6000, 10000, 13000]],
+[[800, 4000, 7500, 15000, 20000]],
+[[800, 5000, 9000, 17500, 30000]],
 ];
 const dcByLevel = [
 14, 15, 16, 18, 19, 20, 22, 23, 24, 26, 27, 28, 30,
@@ -167,24 +167,24 @@ return res;
 
 function update () {
 const lvlC = Number(document.getElementById("iLvlC").value);
-const prof = Number(document.querySelector("input[name='bProf']:checked").value);
+const prof = Number(document.querySelector("input[[name='bProf']]:checked").value);
 const skillMod = Number(document.getElementById("iSkillMod").value);
 
 const lvlI = Number(document.getElementById("iLvlI").value);
-const rarity = Number(document.querySelector("input[name='bRarity']:checked").value);
+const rarity = Number(document.querySelector("input[[name='bRarity']]:checked").value);
 const batchSize = Number(document.getElementById("iBatchSize").value);
 let price = Number(document.getElementById("iPrice").value) * batchSize;
 const priceUnit = Number(document.getElementById("sPriceUnit").value);
 price *= priceUnit;
-const isPermanent = document.querySelector("input[name='bType']:checked").value == "1";
+const isPermanent = document.querySelector("input[[name='bType']]:checked").value == "1";
 
-const optTV = Number(document.querySelector("input[name='bTV']:checked").value);
-const rush = Number(document.querySelector("input[name='bRush']:checked").value);
+const optTV = Number(document.querySelector("input[[name='bTV']]:checked").value);
+const rush = Number(document.querySelector("input[[name='bRush']]:checked").value);
 const rushFinish = document.getElementById("bRushFinish").checked;
 const dcMod = Number(document.getElementById("iMod").value);
 
 const assuranceResult = 10 + lvlC + prof * 2;
-let dc = dcByLevel[lvlI] + dcModByRarity[rarity] + dcMod;
+let dc = dcByLevel[[lvlI]] + dcModByRarity[[rarity]] + dcMod;
 if (optTV != 0) {
 dc += rush * 5;
 }
@@ -196,7 +196,7 @@ dcOutput += " (réussite automatique avec Assurance)";
 }
 
 let outputDie = '<p><strong>Résultats en fonction du lancer de dé :</strong></p><table class="resultDie"><tr>';
-let statDie = [0, 0, 0, 0];
+let statDie = [[0, 0, 0, 0]];
 for (let dieResult = 1 ; dieResult <= 20 ; dieResult++) {
 let res;
 if (dieResult + skillMod >= dc) {
@@ -212,17 +212,17 @@ res = 1;
 }
 if (dieResult == 1 && res > 0) res--;
 if (dieResult == 20 && res < 3) res++;
-statDie[res]++;
+statDie[[res]]++;
 outputDie += `<td class="resultDie${res}">${dieResult}</td>`;
 }
-for (let i = 0 ; i < 4 ; i++) statDie[i] *= 5;
+for (let i = 0 ; i < 4 ; i++) statDie[[i]] *= 5;
 outputDie += "</tr></table>";
-outputDie += `<p>Réussite : ${statDie[2]+statDie[3]}% (dont ${statDie[3]}% de réussite critique) - Échec : ${statDie[1]}% - Échec critique : ${statDie[0]}%</p>`;
+outputDie += `<p>Réussite : ${statDie[[2]]+statDie[[3]]}% (dont ${statDie[[3]]}% de réussite critique) - Échec : ${statDie[[1]]}% - Échec critique : ${statDie[[0]]}%</p>`;
 
 const setup = optTV == 0 ? 4 : setupTimeTV(lvlC,lvlI,isPermanent,optTV == 2) - rush;
 const setupCost = price / 2;
-let redPerDay = earnIncomeValues[lvlC][prof];
-let redPerDayCrit = earnIncomeValues[lvlC+1][prof];
+let redPerDay = earnIncomeValues[[lvlC]][[prof]];
+let redPerDayCrit = earnIncomeValues[[lvlC+1]][[prof]];
 if (optTV != 0 && rushFinish) {
 redPerDay *= 2;
 redPerDayCrit *= 2;

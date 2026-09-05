@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISG}*En imitant les mouvements de votre dieu, vous frappez en profondeur et infligez des blessures sanglantes.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+**Catégorie** : [[Dons#DONCOMBAT|combat]]
 
-**Condition.** [Dex](./Dextérité.md) 15, [Maniement d'une arme exotique](./Maniement dune arme exotique.md) (sabre dentelé), [Combat à deux armes](./Combat à deux armes.md), suivant d'[Achaékek](./Achaékek (technique).md).
+**Condition.** [[Dextérité|Dex]] 15, [[Maniement dune arme exotique|Maniement d'une arme exotique]] (sabre dentelé), [[Combat à deux armes]], suivant d'[[Achaékek (technique)|Achaékek]].
 
-**Avantage.** S'il touche un adversaire avec son arme principale et son arme secondaire au cours de la même action d'attaque, et que ces deux armes sont des [sabres dentelés](./sabre dentelé (arme).md), le personnage inflige 1 point de dégâts de [saignement](./Saignement.md) en plus des dégâts normaux causés par ces attaques.
+**Avantage.** S'il touche un adversaire avec son arme principale et son arme secondaire au cours de la même action d'attaque, et que ces deux armes sont des [[sabre dentelé (arme)|sabres dentelés]], le personnage inflige 1 point de dégâts de [[saignement]] en plus des dégâts normaux causés par ces attaques.

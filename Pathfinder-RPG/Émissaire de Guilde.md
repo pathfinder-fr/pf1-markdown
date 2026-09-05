@@ -10,9 +10,9 @@ LastModified: 2019-01-27 14:48
 
 *Vous êtes non seulement associé avec une puissante guilde de voleurs ou un groupe similaire travaillant dans l'ombre, mais aussi assez bien introduit au sein de celle-ci pour obtenir des avantages lorsque vous échangez avec le monde souterrain dans n'importe quel communauté.*
 
-**Condition.** [Prestige](./Prestige.md) ou [Contacts avec la pègre](./Contacts avec la pègre.md)
+**Condition.** [[Prestige]] ou [[Contacts avec la pègre]]
 
-**Avantage.** Vous pouvez tenter un jet spécial en utilisant votre niveau de personnage (1d20+ votre modificateur de Charisme + votre niveau de personnage) à la place d'un jet de [Diplomatie](./Diplomatie.md) lorsque vous tentez d'obtenir des informations. Vous pouvez demander à vos contacts locaux de trouver l'information pour vous. Même si cela dure le même temps que la normale (typiquement 1d4 heures), vous pouvez récupérer des informations à propos de plusieurs sujets en une seule fois(jusqu'à un maximum de sujets égal à 3 + votre modificateur de Charisme)
+**Avantage.** Vous pouvez tenter un jet spécial en utilisant votre niveau de personnage (1d20+ votre modificateur de Charisme + votre niveau de personnage) à la place d'un jet de [[Diplomatie]] lorsque vous tentez d'obtenir des informations. Vous pouvez demander à vos contacts locaux de trouver l'information pour vous. Même si cela dure le même temps que la normale (typiquement 1d4 heures), vous pouvez récupérer des informations à propos de plusieurs sujets en une seule fois(jusqu'à un maximum de sujets égal à 3 + votre modificateur de Charisme)
 
 De plus, lorsque vous êtes dans un village pas plus petit qu'une petite ville et que vous cherchez un objet magique avec une valeur égale ou plus petite que la valeur de base de la ville et que l'objet n'est pas disponible, vous pouvez refaire un test après une journée (plutôt qu'une semaine).
 

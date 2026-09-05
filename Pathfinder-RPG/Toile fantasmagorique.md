@@ -14,22 +14,22 @@ Categories:
 ---
 
 {s:APG}
-**École** [Illusion](./Illusion.md) ([fantasme](./branche fantasme.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 5, [Hyp](./Hypnotiseur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Psy](./Psychiste.md) 5, [Spi](./Spirite.md) 5  
+**École** [[Illusion]] ([[branche fantasme|fantasme]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Hypnotiseur|Hyp]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Psychiste|Psy]] 5, [[Spirite|Spi]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Cible** une créature/[niveau](./niveau.md), qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
+**Cible** une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [dévoiler](./Présentation des sorts.md#JETSDESAUVEGARDE) puis [Vigueur](./Vigueur.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; voir texte ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|dévoiler]] puis [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; voir texte ; **Résistance à la magie** oui
 
-Le personnage implante dans l'esprit de ses cibles une [Illusion](./Illusion.md) qui les présente comme engluées dans des toiles grouillant de nuées de petites araignées. Les créatures qui ratent leur jet de [Volonté](./Volonté.md) et succombent à l'[Illusion](./Illusion.md) sont considérées comme sous l'effet d'un sort de *[toile d'araignée](./Toile daraignée.md)* et doivent réussir un jet de [Vigueur](./Vigueur.md) au début de chaque tour pour ne pas être [nauséeuses](./Nauséeux.md) pour le [round](./round.md) à cause des araignées fantasmagoriques.
+Le personnage implante dans l'esprit de ses cibles une [[Illusion]] qui les présente comme engluées dans des toiles grouillant de nuées de petites araignées. Les créatures qui ratent leur jet de [[Volonté]] et succombent à l'[[Illusion]] sont considérées comme sous l'effet d'un sort de *[[toile daraignée|toile d'araignée]]* et doivent réussir un jet de [[Vigueur]] au début de chaque tour pour ne pas être [[nauséeux|nauséeuses]] pour le [[round]] à cause des araignées fantasmagoriques.
 
-Comme les toiles d'araignée existent uniquement dans l'esprit des cibles, elles ne peuvent ni les brûler ni les détruire et n'offrent pas d'[abri](./abri.md) contre les attaques portées par les cibles (même si elles permettent un certain [camouflage](./camouflage.md)). Les cibles ne peuvent pas échapper aux toiles en se déplaçant, pas même en se téléportant. *[Liberté de mouvement](./Liberté de mouvement.md)* permet de se déplacer librement mais n'annule pas le [camouflage](./camouflage.md) ni les [effets de nausée](./Nauséeux.md).
+Comme les toiles d'araignée existent uniquement dans l'esprit des cibles, elles ne peuvent ni les brûler ni les détruire et n'offrent pas d'[[abri]] contre les attaques portées par les cibles (même si elles permettent un certain [[camouflage]]). Les cibles ne peuvent pas échapper aux toiles en se déplaçant, pas même en se téléportant. *[[Liberté de mouvement]]* permet de se déplacer librement mais n'annule pas le [[camouflage]] ni les [[nauséeux|effets de nausée]].
 
-Les cibles du sort voient toutes les créatures alentours engluées dans les toiles d'araignée et recouvertes par ces vermines, mais le sort n'a aucun effet sur les êtres qu'il n'affecte pas (et qui peuvent aider un allié à dévoiler l'[Illusion](./Illusion.md)).
+Les cibles du sort voient toutes les créatures alentours engluées dans les toiles d'araignée et recouvertes par ces vermines, mais le sort n'a aucun effet sur les êtres qu'il n'affecte pas (et qui peuvent aider un allié à dévoiler l'[[Illusion]]).

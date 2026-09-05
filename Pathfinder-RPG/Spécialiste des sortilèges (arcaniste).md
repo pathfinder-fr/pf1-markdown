@@ -23,7 +23,7 @@ Le DD des sorts emblématiques augmente de 1.
 
 Le spécialiste des sortilèges gagne un bonus de +2 aux tests de concentration quand il lance des sorts emblématiques ; ce bonus s’élève à +4 au niveau 10.
 
-De plus, un spécialiste des sortilèges peut appliquer l’un des effets supplémentaires suivants en dépensant 1 point de son [réservoir arcanique](./réservoir arcanique.md) :
+De plus, un spécialiste des sortilèges peut appliquer l’un des effets supplémentaires suivants en dépensant 1 point de son [[réservoir arcanique]] :
 - **Façonnage des sorts (Sur)** Un spécialiste des sortilèges peut réduire le rayon d’une étendue ou d’un rayonnement ou raccourcir la longueur d’un cône. Toutes les modifications doivent être appliquées par tranche de 1,50 mètre, avec une taille réduite minimale d’1,50 mètre. Par ailleurs, il peut modifier la zone d’effet en forme de cône d’un sort pour la transformer en ligne dont la longueur est égale à la portée du sort. 
 - **Interruption (Sur)** Un spécialiste des sortilèges peut mettre un terme à un sort emblématique par une action rapide au lieu d’une action simple. Par ailleurs, il peut mettre un terme à un sort emblématique doté d’une durée mais qu’il est normalement impossible d’interrompre.
 - **Torsion magique (Sur)** Un spécialiste des sortilèges peut modifier la trajectoire de la ligne d’effet d’un sort (s’il en possède une) pour lui faire effectuer un virage de 90 degrés au maximum à un unique endroit le long de cette ligne.

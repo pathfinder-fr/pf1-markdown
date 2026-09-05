@@ -14,32 +14,32 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.131*}
 {s:BDTexte|**PX** 19.200}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +24}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +24}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 27, contact 10, pris au dépourvu 26 (Dex +1, naturelle +17, taille -1)}
 {s:BDTexte|**pv** 162 (12d8+108)}
 {s:BDTexte|**Réf** +5, **Vig** +13, **Vol** +13}
 {s:BDTexte|**Immunités** électricité ; **Résistances** froid 10 ; **RM** 27 }
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au feu}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +20 (4d8+18/19-20)}
 {s:BDTexte|**Distance** 6 filaments, +10 contact (1d6 Force)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [attirer](./Attirer.md) (filament, 1,50 m (1 {s:c})), filaments}
+{s:BDTexte|**Attaques spéciales** [[attirer]] (filament, 1,50 m (1 {s:c})), filaments}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 34, **Dex** 13, **Con** 29, **Int** 13, **Sag** 16, **Cha** 12}
-{s:BDTexte|**BBA** +9, **BMO** +22, **DMD** 33 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (filament), [Science de l'initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) ([Perception](./Perception.md), [Discrétion](./Discrétion.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (donjons) +16, [Connaissances](./Connaissances.md) (religion) +13, [Discrétion](./Discrétion.md) +18 (+26 près de roches ou de glace), [Escalade](./Escalade.md) +27, [Perception](./Perception.md) +24 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +8 près de roches ou de glace}
+{s:BDTexte|**BBA** +9, **BMO** +22, **DMD** 33 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (filament), [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (morsure), [[Talent]] ([[Perception]], [[Discrétion]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (donjons) +16, [[Connaissances]] (religion) +13, [[Discrétion]] +18 (+26 près de roches ou de glace), [[Escalade]] +27, [[Perception]] +24 ; **Modificateurs raciaux** [[Discrétion]] +8 près de roches ou de glace}
 {s:BDTexte|**Langues** aklo, commun des profondeurs}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-6)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Filaments (Ext)** Un enlaceur peut projeter un maximum de 6 filaments minces et collants en même temps à une portée maximale de 15 m (10 {s:c}). Les attaques de filaments fonctionnent comme des [attaques de contact à distance](./attaque de contact à distance.md). Les filaments sont assez résistants, mais on peut les couper en leur infligeant des dégâts de type tranchant (n'importe quelle quantité de dégâts, leur [CA](./CA.md) est de 20). Lorsqu'un filament touche une créature, celle-ci est engourdie et affaiblie par la substance collante : elle doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 25 pour ne pas subir un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d6 points de [Force](./Force.md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Filaments (Ext)** Un enlaceur peut projeter un maximum de 6 filaments minces et collants en même temps à une portée maximale de 15 m (10 {s:c}). Les attaques de filaments fonctionnent comme des [[attaque de contact à distance|attaques de contact à distance]]. Les filaments sont assez résistants, mais on peut les couper en leur infligeant des dégâts de type tranchant (n'importe quelle quantité de dégâts, leur [[CA]] est de 20). Lorsqu'un filament touche une créature, celle-ci est engourdie et affaiblie par la substance collante : elle doit réussir un jet de [[Vigueur]] de [[DD]] 25 pour ne pas subir un [[affaiblissement temporaire]] de 1d6 points de [[Force]]. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>*Ce monstre conique possède un œil immense, une gueule garnie de crocs acérées à l’avant, et de longs tentacules fibreux sur ses flancs.*
 

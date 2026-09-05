@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#DISCRETETRAPIDE
 ---
 
->>> [Talents#DISCRETETRAPIDE](./Talents.md#DISCRETETRAPIDE)
+>>> [[Talents#DISCRETETRAPIDE]]

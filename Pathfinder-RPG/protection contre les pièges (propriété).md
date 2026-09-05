@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Protection contre les pièges
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Protection contre les pièges](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Protection contre les pièges)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Protection contre les pièges]]

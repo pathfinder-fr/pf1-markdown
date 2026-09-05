@@ -8,27 +8,27 @@ Categories:
 ---
 
 {s:CMy}
-La table [Statistiques des monstres par FP](./statistiques des monstres par FP.md) liste les statistiques approximatives des monstres allant jusqu’au FP 30 (les informations pour les [FP](./FP.md) de 1 à 20 sont identiques à celles du Bestiaire). Ces valeurs sont des indications générales. La plupart des monstres excellent dans un seul de ces domaines (généralement dans le nombre de dégâts infligés) mais sont moins performants dans un ou deux autres domaines, ce qui permet de les équilibrer. Par exemple, un monstre pourrait infliger plus de dégâts que ce qui est indiqué dans la table mais il aurait une [CA](./CA.md) et un nombre de points de vie moindres. Les entrées de la table se présentent comme suit.
+La table [[Statistiques des monstres par FP]] liste les statistiques approximatives des monstres allant jusqu’au FP 30 (les informations pour les [[FP]] de 1 à 20 sont identiques à celles du Bestiaire). Ces valeurs sont des indications générales. La plupart des monstres excellent dans un seul de ces domaines (généralement dans le nombre de dégâts infligés) mais sont moins performants dans un ou deux autres domaines, ce qui permet de les équilibrer. Par exemple, un monstre pourrait infliger plus de dégâts que ce qui est indiqué dans la table mais il aurait une [[CA]] et un nombre de points de vie moindres. Les entrées de la table se présentent comme suit.
 
-**FP.** Il s’agit du [FP](./FP.md) moyen du monstre. Il peut changer à mesure que la création progresse.
+**FP.** Il s’agit du [[FP]] moyen du monstre. Il peut changer à mesure que la création progresse.
 
-**Points de vie.** Il s’agit du total de points de vie moyen du monstre. Une créature ayant une [CA](./CA.md) particulièrement élevée, des bonus de sauvegarde particulièrement importants ou un certain nombre de résistances pourraient avoir moins de points de vie. Les extérieurs et les créatures artificielles ont généralement un total de points de vie inférieur.
+**Points de vie.** Il s’agit du total de points de vie moyen du monstre. Une créature ayant une [[CA]] particulièrement élevée, des bonus de sauvegarde particulièrement importants ou un certain nombre de résistances pourraient avoir moins de points de vie. Les extérieurs et les créatures artificielles ont généralement un total de points de vie inférieur.
 
-**Classe d’armure.** Il s’agit de la [CA](./CA.md) moyenne d’une créature du [FP](./FP.md) donné. Quand vient le moment de créer les protections de la créature, gardez bien ce nombre en tête. Les créatures dont le total de points de vie est supérieur à la moyenne ont généralement une [CA](./CA.md) moindre pour compenser.
+**Classe d’armure.** Il s’agit de la [[CA]] moyenne d’une créature du [[FP]] donné. Quand vient le moment de créer les protections de la créature, gardez bien ce nombre en tête. Les créatures dont le total de points de vie est supérieur à la moyenne ont généralement une [[CA]] moindre pour compenser.
 
-**Attaque supérieure.** Il s’agit du bonus d’attaque moyen d’une créature du [FP](./FP.md) donné, qui se bat principalement au corps à corps ou à distance. Les créatures infligeant des dégâts supérieurs à la moyenne normale ont généralement une valeur d’attaque moindre pour compenser.
+**Attaque supérieure.** Il s’agit du bonus d’attaque moyen d’une créature du [[FP]] donné, qui se bat principalement au corps à corps ou à distance. Les créatures infligeant des dégâts supérieurs à la moyenne normale ont généralement une valeur d’attaque moindre pour compenser.
 
-**Attaque inférieure.** Il s’agit du bonus d’attaque total moyen d’une créature du [FP](./FP.md) donné qui ne recourt pas aux attaques au corps à corps ou à distance pour infliger des dégâts, ce qui inclut la plupart des créatures qui se battent principalement à l’aide de sorts et de pouvoirs magiques.
+**Attaque inférieure.** Il s’agit du bonus d’attaque total moyen d’une créature du [[FP]] donné qui ne recourt pas aux attaques au corps à corps ou à distance pour infliger des dégâts, ce qui inclut la plupart des créatures qui se battent principalement à l’aide de sorts et de pouvoirs magiques.
 
-**Dégâts moyens.** Il s’agit du nombre moyen de dégâts qu’une créature du [FP](./FP.md) donné inflige quand elle réussit toutes ses attaques. Pour déterminer les dégâts moyens d’une créature, ajoutez la valeur moyenne de tous ses dés de dégâts au modificateur de dégâts de chaque attaque. Une créature qui se bat avec des armes de corps à corps devrait infliger un nombre de dégâts moyens situé entre les dégâts supérieurs et les dégâts inférieurs. Une créature ayant des bonus d’attaque supérieurs à la normale inflige souvent moins de dégâts et une créature ayant des bonus d’attaque inférieurs à la normale inflige souvent plus de dégâts.
+**Dégâts moyens.** Il s’agit du nombre moyen de dégâts qu’une créature du [[FP]] donné inflige quand elle réussit toutes ses attaques. Pour déterminer les dégâts moyens d’une créature, ajoutez la valeur moyenne de tous ses dés de dégâts au modificateur de dégâts de chaque attaque. Une créature qui se bat avec des armes de corps à corps devrait infliger un nombre de dégâts moyens situé entre les dégâts supérieurs et les dégâts inférieurs. Une créature ayant des bonus d’attaque supérieurs à la normale inflige souvent moins de dégâts et une créature ayant des bonus d’attaque inférieurs à la normale inflige souvent plus de dégâts.
 
-**[DD](./DD.md) du pouvoir principal.** Il s’agit du degré de difficulté ([DD](./DD.md)) moyen de tous les sorts, pouvoirs magiques et pouvoirs spéciaux (comme les armes de souffle) que possède une créature du [FP](./FP.md) donné qui se repose principalement sur de telles attaques en combat. Si elle possède un pouvoir particulièrement puissant, il peut avoir un [DD](./DD.md) inférieur pour compenser.
+**[[DD]] du pouvoir principal.** Il s’agit du degré de difficulté ([[DD]]) moyen de tous les sorts, pouvoirs magiques et pouvoirs spéciaux (comme les armes de souffle) que possède une créature du [[FP]] donné qui se repose principalement sur de telles attaques en combat. Si elle possède un pouvoir particulièrement puissant, il peut avoir un [[DD]] inférieur pour compenser.
 
-**[DD](./DD.md) du pouvoir secondaire.** Il s’agit du degré de difficulté ([DD](./DD.md)) moyen de tous les sorts et pouvoirs spéciaux que possède une créature du FP donné ne comptant pas sur de telles attaques en combat. En général, le [DD](./DD.md) d’un pouvoir ne devrait pas être inférieur à ce nombre.
+**[[DD]] du pouvoir secondaire.** Il s’agit du degré de difficulté ([[DD]]) moyen de tous les sorts et pouvoirs spéciaux que possède une créature du FP donné ne comptant pas sur de telles attaques en combat. En général, le [[DD]] d’un pouvoir ne devrait pas être inférieur à ce nombre.
 
-**Bon JdS.** Il s’agit du bonus de sauvegarde moyen d’une créature du [FP](./FP.md) donné, si le jet de sauvegarde fait partie des bons jets de la créature.
+**Bon JdS.** Il s’agit du bonus de sauvegarde moyen d’une créature du [[FP]] donné, si le jet de sauvegarde fait partie des bons jets de la créature.
 
-**Mauvais JdS.** Il s’agit du bonus de sauvegarde moyen d’une créature du [FP](./FP.md) donné, si le jet de sauvegarde fait partie des mauvais jets de la créature.
+**Mauvais JdS.** Il s’agit du bonus de sauvegarde moyen d’une créature du [[FP]] donné, si le jet de sauvegarde fait partie des mauvais jets de la créature.
 
 {s:Reference|STATMONSTRESMYTHIQUEPARFP}
 

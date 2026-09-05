@@ -5,4 +5,4 @@ LastModified: 2010-11-20 20:23
 RedirectTo: Pathfinder-RPG.Archétypes
 ---
 
->>> [Pathfinder-RPG.Archétypes](./Archétypes.md)
+>>> [[Pathfinder-RPG.Archétypes]]

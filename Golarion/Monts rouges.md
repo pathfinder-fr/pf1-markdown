@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Ces montagnes sont peu élevées pour la [Varisie](./Varisie.md) et elles doivent leur nom à l’importante quantité de fer qui leur donne une couleur rouge. Des bergers et des mineurs mènent une vie difficile dans ces vallées dont la sécurité est un véritable problème. En effet, ils doivent lutter contre les pillards berserkers des [Terres vides](./Terres vides.md) aidés par des [rôdeurs](./rôdeurs.md) et des [paladins](./paladins.md) qui se font un devoir de défendre ainsi les frontières varisiennes.
+Ces montagnes sont peu élevées pour la [[Varisie]] et elles doivent leur nom à l’importante quantité de fer qui leur donne une couleur rouge. Des bergers et des mineurs mènent une vie difficile dans ces vallées dont la sécurité est un véritable problème. En effet, ils doivent lutter contre les pillards berserkers des [[Terres vides]] aidés par des [[rôdeurs]] et des [[paladins]] qui se font un devoir de défendre ainsi les frontières varisiennes.

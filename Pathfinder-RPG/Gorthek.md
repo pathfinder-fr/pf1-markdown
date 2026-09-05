@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Gorthek|FP 7}
 {s:pucem|Animal|Collines|Tempéré}
-{s:BDTexte|*Source : [Codex monstrueux p.196](./Codex monstrueux (Contenu).md)*}
+{s:BDTexte|*Source : [[Codex monstrueux (Contenu)|Codex monstrueux p.196]]*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 8, pris au dépourvu 18 (-1 Dex, +10 naturelle, -1 taille)}
 {s:BDTexte|**pv** 85 (9d8+45)}
@@ -24,19 +24,19 @@ Categories:
 {s:BDTexte|**VD** 12 m}
 {s:BDTexte|**Corps à corps** corne, +16 (2d6+16)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,5 m}
-{s:BDTexte|**Attaques spéciales** [charge puissante](./Charge puissante (capacité).md) (corne, 4d6+22), [piétinement](./Piétinement (capacité).md) (2d6+16, DD 25)}
+{s:BDTexte|**Attaques spéciales** [[Charge puissante (capacité)|charge puissante]] (corne, 4d6+22), [[Piétinement (capacité)|piétinement]] (2d6+16, DD 25)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 32, **Dex** 9, **Con** 21, **Int** 2, **Sag** 10, **Cha** 5}
-{s:BDTexte|**BBA** +6 ; **BMO** +18 (+20 pour la [bousculade](./bousculade.md) ou la [destruction](./destruction.md)) ; **DMD** 27 (29 contre la [bousculade](./bousculade.md) ou la [destruction](./destruction.md), 31 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la destruction](./Science de la destruction.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +12}
+{s:BDTexte|**BBA** +6 ; **BMO** +18 (+20 pour la [[bousculade]] ou la [[destruction]]) ; **DMD** 27 (29 contre la [[bousculade]] ou la [[destruction]], 31 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Science de la bousculade]], [[Science de la destruction]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Perception]] +12}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines et plaines tempérées}
 {s:BDTexte|**Organisation** solitaire, couple ou troupeau (3-12)}
 {s:BDTexte|**Trésor** aucun}
 
 </div></td>
-<td><div>**Ces créatures accompagnent souvent les [orques](./Orque.md).**
+<td><div>**Ces créatures accompagnent souvent les [[Orque|orques]].**
 
 *Cet énorme quadrupède est couvert d’une peau épaisse et toute ridée en plus d’arborer des cornes incurvées. Son visage léonin est encadré d’une crinière hirsute.*
 
@@ -50,7 +50,7 @@ une lanière spécifique, attachée derrière ses énormes cornes, et guide la b
 Un gorthek mâle adulte mesure environ deux mètres dix au garrot et pèse près de 4,5 tonnes.
 
 #### Le gorthek comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +4 ; **Attaque** corne (1d8) ; **Caractéristiques** For 16, Dex 11, Con 13, Int 2, Sag 12, Cha 5 ; **Particularités** [vision dans le noir](./vision dans le noir (capacité).md) (18 m), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +4 ; **Attaque** corne (1d8) ; **Caractéristiques** For 16, Dex 11, Con 13, Int 2, Sag 12, Cha 5 ; **Particularités** [[vision dans le noir (capacité)|vision dans le noir]] (18 m), [[vision nocturne]].
 
-**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** corne (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Attaques spéciales** [charge puissante](./Charge puissante (capacité).md) (corne, 4d6 + deux fois le modificateur de [Force](./Force.md)).
+**Développement au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** corne (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Attaques spéciales** [[charge puissante (capacité)|charge puissante]] (corne, 4d6 + deux fois le modificateur de [[Force]]).
 </div></td></tr></table>

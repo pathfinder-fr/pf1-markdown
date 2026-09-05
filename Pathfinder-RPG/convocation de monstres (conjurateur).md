@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Conjurateur#CONVOCATIONDEMONSTRES
 ---
 
->>> [Conjurateur#CONVOCATIONDEMONSTRES](./Conjurateur.md#CONVOCATIONDEMONSTRES)
+>>> [[Conjurateur#CONVOCATIONDEMONSTRES]]

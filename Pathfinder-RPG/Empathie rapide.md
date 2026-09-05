@@ -10,11 +10,11 @@ Categories:
 
 {s:um}*L’harmonie empathique entre le personnage et la nature lui permet de se lier rapidement à l’esprit des bêtes. *
 
-**Conditions.** 5 rangs en [Dressage](./Dressage.md), pouvoir de classe [empathie sauvage](./Roublard.md#EMPATHIESAUVAGE)
+**Conditions.** 5 rangs en [[Dressage]], pouvoir de classe [[roublard#EMPATHIESAUVAGE|empathie sauvage]]
 
-**Avantage.** L’utilisation de l’[empathie sauvage](./Roublard.md#EMPATHIESAUVAGE) est un pouvoir de classe.
+**Avantage.** L’utilisation de l’[[roublard#EMPATHIESAUVAGE|empathie sauvage]] est un pouvoir de classe.
 
-**Normal.** L’utilisation de l’[empathie sauvage](./Roublard.md#EMPATHIESAUVAGE) nécessite 1 minute.
+**Normal.** L’utilisation de l’[[roublard#EMPATHIESAUVAGE|empathie sauvage]] nécessite 1 minute.
 
 {s:CMy}
 ### Version mythique
@@ -22,4 +22,4 @@ Categories:
 
 **Condition.** Empathie rapide
 
-**Avantage.** Le personnage peut utiliser [empathie sauvage](./empathie sauvage.md) par une [action rapide](./Action rapide.md).
+**Avantage.** Le personnage peut utiliser [[empathie sauvage]] par une [[action rapide]].

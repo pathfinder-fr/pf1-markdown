@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 pc ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Qu'il s'agisse d'une simple coupe en poterie ou d'une chope plus élaborée avec une poignée et un couvercle décoratif qui se soulève, cette chope peut contenir toutes sortes de boissons. Les chopes sont généralement en argile ou en étain.

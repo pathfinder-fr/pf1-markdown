@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#MOMENTDELUCIDITE
 ---
 
->>> [pouvoirs de rage#MOMENTDELUCIDITE](./Pouvoirs de rage.md#MOMENTDELUCIDITE)
+>>> [[pouvoirs de rage#MOMENTDELUCIDITE]]

@@ -10,12 +10,12 @@ Categories:
 - Sort sorcière 2
 ---
 
-{s:MPNJ}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 2, [Sor](./Sorcière.md) 2
-**Temps d’incantation** 1 [action immédiate](./Action immédiate.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+{s:MPNJ}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2
+**Temps d’incantation** 1 [[action immédiate]]
+**Composantes** [[composantes|V, G]]
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
 **Cible** une créature qui tombe
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (voir ci-dessous)
+**Durée** 1 [[round]]/[[niveau]] (voir ci-dessous)
 **Jet de sauvegarde** Vigueur, partiel (voir ci-dessous) ; **Résistance à la magie** oui
 
-Ce sort doit être lancé sur une créature au moment où elle tombe, soit d’une certaine hauteur, soit après avoir été mise [à terre](./À terre.md) ou victime d’un [croc-en-jambe](./croc-en-jambe.md). La magie de ce sort augmente la violence de la chute, ce qui coupe le souffle de la victime. Celle-ci subit 1d6 points de dégâts de chute supplémentaires. En outre, elle est [chancelante](./Chancelant.md) pendant toute la durée du sort, à moins de réussir un jet de [Volonté](./Volonté.md). Chaque round pendant lequel persistent les effets du sort, la créature peut tenter un nouveau jet de Volonté par une [action libre](./Action libre.md) pour mettre fin à l’état préjudiciable chancelant. Une créature sous les effets de ce sort doit réaliser une [action simple](./Action simple.md) pour se relever.
+Ce sort doit être lancé sur une créature au moment où elle tombe, soit d’une certaine hauteur, soit après avoir été mise [[à terre]] ou victime d’un [[croc-en-jambe]]. La magie de ce sort augmente la violence de la chute, ce qui coupe le souffle de la victime. Celle-ci subit 1d6 points de dégâts de chute supplémentaires. En outre, elle est [[chancelant|chancelante]] pendant toute la durée du sort, à moins de réussir un jet de [[Volonté]]. Chaque round pendant lequel persistent les effets du sort, la créature peut tenter un nouveau jet de Volonté par une [[action libre]] pour mettre fin à l’état préjudiciable chancelant. Une créature sous les effets de ce sort doit réaliser une [[action simple]] pour se relever.

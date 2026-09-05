@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Désert|Tropical}
 {s:BDTexte|*Source : Familiar Folio page 29*}
 - **600 PX**
-- [Créature magique](./type Créature magique.md) de taille Min, N
-- **Init **+2 ; **Sens** [Vision dans le noir](./vision dans le noir.md) à 18m (12 {s:c}), [Vision nocturne](./vision nocturne.md) ;  [Perception](./Perception.md) +11
+- [[type créature magique|Créature magique]] de taille Min, N
+- **Init **+2 ; **Sens** [[Vision dans le noir]] à 18m (12 {s:c}), [[Vision nocturne]] ;  [[Perception]] +11
 (((Défense)))
 - **CA** 15, contact 14, pris au dépourvu 13 (Dex +2, naturel +1, taille +2)
 - **PV** 16 (3d10)
@@ -25,14 +25,14 @@ Categories:
 - **Corps à corps** Morsure +2 (1d3-3), 2 griffes +2 (1d2-3)}
 - **Espace **0,75 m ; **Allonge** 0 m
 - **Pouvoirs magiques** (**NLS **5 ; concentration +6)
-  - *Constant* – [Compréhension des langages]
-  - *A volonté* – [Détection de la magie](./Détection de la magie.md), [Détection des passages secrets](./Détection des passages secrets.md)
-  - *3/jour* – [Mains brûlantes](./Mains brûlantes.md), [Frayeur](./Frayeur.md), [Identification](./Identification.md), [Disparition](./Disparition.md)
+  - *Constant* – [[Compréhension des langages]]
+  - *A volonté* – [[Détection de la magie]], [[Détection des passages secrets]]
+  - *3/jour* – [[Mains brûlantes]], [[Frayeur]], [[Identification]], [[Disparition]]
 (((Caractéristiques)))
 - **For **5, **Dex **14, **Con **11, **Int **9, **Sag **16, **Cha **12
 - **BBA **+3 ; **BMO **+3 ; **DMD **10
-- **Dons **[Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Vol](./Vol.md) +6, [Perception](./Perception.md) +11, [Psychologie](./Psychologie.md) +5 
+- **Dons **[[Vigilance]], [[Volonté de fer]]
+- **Compétences **[[Vol]] +6, [[Perception]] +11, [[Psychologie]] +5 
 - **Langues **Commun, Sphinx
 (((Écologie)))
 - **Environnement **Déserts chauds

@@ -13,13 +13,13 @@ Categories:
 {s:pucem|Créature magique|Montagnes|Tempéré}
 {s:BDTexte|*Source : Bestiaire page 9*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, NB}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, NB}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 12 (Dex +3, naturelle +3, taille -1)}
 {s:BDTexte|**pv** 26 (4d10+4)}
 {s:BDTexte|**Réf** +7, **Vig** +5, **Vol** +3}
-{s:BDTexte|**Capacités défensives** [esquive totale](./esquive totale.md) }
+{s:BDTexte|**Capacités défensives** [[esquive totale]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c}), vol 24 m (16 {s:c}) (moyenne)}
 {s:BDTexte|**Corps à corps** 2 griffes +7 (1d8+4), morsure +7 (1d6+4)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 17, **Con** 12, **Int** 10, **Sag** 15, **Cha** 11}
 {s:BDTexte|**BBA** +4, **BMO** +9, **DMD** 22}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +15, [Psychologie](./Psychologie.md) +4, [Vol](./Vol.md) +8}
-{s:BDTexte|**Modificateurs raciaux** [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en vol]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Perception]] +15, [[Psychologie]] +4, [[Vol]] +8}
+{s:BDTexte|**Modificateurs raciaux** [[Perception]] +4}
 {s:BDTexte|**Langues** aérien (ne peut pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagne tempérée}
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Aigle](./Aigle.md) || 1/2
+| [[Aigle]] || 1/2
 |-
-| [Aigle géant](./Aigle géant.md) || 3
+| [[Aigle géant]] || 3
 |}
 </div>''Les plumes brunes et dorées de cet immense aigle brillent dans la lumière.
 Son bec acéré et ses serres incurvées sont jaune foncé.''

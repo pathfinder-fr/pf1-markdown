@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de leurre|{s:AE}}
-**Aura** [Illusion](./Illusion.md) modérée ; **NLS** 11 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 12 000 po ; **Poids** —
+**Aura** [[Illusion]] modérée ; **NLS** 11 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 12 000 po ; **Poids** —
 (((Description)))
-Cet anneau est forgé dans un épais métal réfléchissant. Quand le porteur fait une action de repli ou est sans défense (y compris lorsqu’il tombe inconscient), l’anneau le rend alors invisible pendant 3 rounds et crée quatre [doubles illusoires](./Double illusoire.md) du personnage qui s’enfuient dans des directions opposées ou effectuent d’autres actions plausibles pour détourner l’attention de l’ennemi. Les doubles durent 3 rounds avant de disparaître mais ils s’évanouissent dès qu’ils sont touchés par une attaque (CA 10). Il est possible de percer l’illusion à jour (Volonté DD 19). Les alliés du porteur connaissent toujours la position exacte du personnage et sont libres de lui apporter leur aide ou assistance.
+Cet anneau est forgé dans un épais métal réfléchissant. Quand le porteur fait une action de repli ou est sans défense (y compris lorsqu’il tombe inconscient), l’anneau le rend alors invisible pendant 3 rounds et crée quatre [[double illusoire|doubles illusoires]] du personnage qui s’enfuient dans des directions opposées ou effectuent d’autres actions plausibles pour détourner l’attention de l’ennemi. Les doubles durent 3 rounds avant de disparaître mais ils s’évanouissent dès qu’ils sont touchés par une attaque (CA 10). Il est possible de percer l’illusion à jour (Volonté DD 19). Les alliés du porteur connaissent toujours la position exacte du personnage et sont libres de lui apporter leur aide ou assistance.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[double illusoire](./Double illusoire.md)* ; **Coût** 6 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[double illusoire]]* ; **Coût** 6 000 po
 </div>

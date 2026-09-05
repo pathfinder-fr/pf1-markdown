@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Vase|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.219}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Plante](./type Plante.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 9 m (6 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Plante|Plante]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[perception des vibrations]] 9 m (6 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
 {s:BDTexte|**pv** 22 (3d8+9)}
 {s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +1}
-{s:BDTexte|**Capacités défensives** [traits des plantes](./Traits des plantes.md) }
+{s:BDTexte|**Capacités défensives** [[traits des plantes]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 1,50 m (1 {s:c})}
 {s:BDTexte|**Corps à corps** filament +5 (1d4+4)}
@@ -31,11 +31,11 @@ Categories:
 {s:BDTexte|**BBA** +2, **BMO** +5, **DMD** 17 (croc-en-jambe impossible)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées ou chaudes, ou souterrain}
-{s:BDTexte|**Organisation sociale** plantation (moisissure et 1-6 [zombis](./Zombi humain.md))}
+{s:BDTexte|**Organisation sociale** plantation (moisissure et 1-6 [[zombi humain|zombis]])}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Création de zombis de la moisissure jaune (Sur).** Par une [action complexe](./Action complexe.md), une moisissure jaune peut enfoncer des dizaines de filaments dans le cerveau d'une créature [sans défense](./Sans défense.md) se trouvant à sa portée (une créature affectée par son pollen par exemple). Cette attaque inflige un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 points d'Intelligence par round. Lorsque l'intelligence de la victime est réduite à 0, celle-ci meurt et les filaments infiltrés dans son cerveau se rompent. Une heure plus tard, la créature s'anime sous la forme d'un zombi de la moisissure jaune (voir ci-dessous).}
-{s:BDTexte|**Projection de pollen (Ext).** Par une [action simple](./Action simple.md), une moisissure jaune peut projeter un nuage de pollen sur une créature située à moins 9 m (6 {s:c}) ou moins. Elle doit réussir une [attaque de contact à distance](./attaque de contact à distance.md) (attaque à +4) pour toucher la cible et celle-ci doit effectuer un jet de Volonté de DD 14 pour ne pas être hypnotisée pendant 1d6 rounds. Les créatures affectées ne peuvent accomplir aucune autre action que de s'avancer (à leur vitesse normale) vers la zone contrôlée par la moisissure jaune puis d'y rester immobiles, ce qui lui permet d'infiltrer ses filaments dans leur cerveau. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Création de zombis de la moisissure jaune (Sur).** Par une [[action complexe]], une moisissure jaune peut enfoncer des dizaines de filaments dans le cerveau d'une créature [[sans défense]] se trouvant à sa portée (une créature affectée par son pollen par exemple). Cette attaque inflige un [[affaiblissement temporaire]] de 1d4 points d'Intelligence par round. Lorsque l'intelligence de la victime est réduite à 0, celle-ci meurt et les filaments infiltrés dans son cerveau se rompent. Une heure plus tard, la créature s'anime sous la forme d'un zombi de la moisissure jaune (voir ci-dessous).}
+{s:BDTexte|**Projection de pollen (Ext).** Par une [[action simple]], une moisissure jaune peut projeter un nuage de pollen sur une créature située à moins 9 m (6 {s:c}) ou moins. Elle doit réussir une [[attaque de contact à distance]] (attaque à +4) pour toucher la cible et celle-ci doit effectuer un jet de Volonté de DD 14 pour ne pas être hypnotisée pendant 1d6 rounds. Les créatures affectées ne peuvent accomplir aucune autre action que de s'avancer (à leur vitesse normale) vers la zone contrôlée par la moisissure jaune puis d'y rester immobiles, ce qui lui permet d'infiltrer ses filaments dans leur cerveau. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>''Une désagréable vapeur jaunâtre s’échappe des fleurs de cette plante verte et
 humide enroulée autour de squelettes humains.''
@@ -58,7 +58,7 @@ répandent les graines d’une nouvelle moisissure jaune.
 
 #### Zombis de la moisissure jaune
 
-Un zombi de la moisissure jaune est une créature en décomposition sur laquelle des plantes vertes et humides ont germé. Utilisez le profil des [zombis](./Zombi, archétype.md) normaux mais ajoutez-leur la particularité suivante :
+Un zombi de la moisissure jaune est une créature en décomposition sur laquelle des plantes vertes et humides ont germé. Utilisez le profil des [[zombi, archétype|zombis]] normaux mais ajoutez-leur la particularité suivante :
 
-**Traits des plantes (Ext).** Ce zombi n'est pas animé grâce à la nécromancie mais par la plante qui croît dans son corps. Les zombis de la moisissure jaune ne bénéficient pas des [traits des morts-vivants](./Traits des morts-vivants.md) mais gagnent ceux des [plantes](./Traits des plantes.md). Ils sont considérés comme des [plantes](./type Plante.md) et non comme des [morts-vivants](./type Mort-vivant.md) lorsqu'il s'agit de déterminer les résultats que les effets et les attaques magiques ont sur eux. Ainsi, la [canalisation d'énergie](./canalisation dénergie.md) négative ne les soigne pas non plus.
+**Traits des plantes (Ext).** Ce zombi n'est pas animé grâce à la nécromancie mais par la plante qui croît dans son corps. Les zombis de la moisissure jaune ne bénéficient pas des [[traits des morts-vivants]] mais gagnent ceux des [[traits des plantes|plantes]]. Ils sont considérés comme des [[type Plante|plantes]] et non comme des [[type Mort-vivant|morts-vivants]] lorsqu'il s'agit de déterminer les résultats que les effets et les attaques magiques ont sur eux. Ainsi, la [[canalisation dénergie|canalisation d'énergie]] négative ne les soigne pas non plus.
 </div></td></tr></table>

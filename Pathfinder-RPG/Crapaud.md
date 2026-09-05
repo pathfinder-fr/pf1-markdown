@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.136*}
 {s:BDTexte|**PX** 50}
-{s:BDTexte|[Animal](./type Animal.md) de taille Min, N}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille Min, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 14 (Dex +1, taille +4)}
 {s:BDTexte|**pv** 2 (1d8-2)}
@@ -25,10 +25,10 @@ Categories:
 {s:BDTexte|**Espace** 0,30 m (1/5 {s:c}) ; **Allonge** 0}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 12, **Con** 6, **Int** 1, **Sag** 15, **Cha** 4}
-{s:BDTexte|**BBA** +0, **BMO** -3, **DMD** 2 (6 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +21, [Perception](./Perception.md) +5 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4}
-{s:BDTexte|**Particularité** [respiration aquatique](./Respiration aquatique (capacité).md)}
+{s:BDTexte|**BBA** +0, **BMO** -3, **DMD** 2 (6 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +21, [[Perception]] +5 ; **Modificateurs raciaux** [[Discrétion]] +4}
+{s:BDTexte|**Particularité** [[respiration aquatique (capacité)|respiration aquatique]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées ou chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-100)}
@@ -36,7 +36,7 @@ Categories:
 </div>
 </td><td><div>Les crapauds sont des amphibiens inoffensifs à la peau rugueuse.
 
-Voir aussi : [Crapaud géant](./Crapaud géant.md)
+Voir aussi : [[Crapaud géant]]
 
 Les crapauds peuvent servir de familier aux lanceurs de sort. Un familier crapaud donne à son maître un bonus de +3 points de vie.
 

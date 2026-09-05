@@ -11,26 +11,26 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [Divination](./école divination.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Hyp](./Hypnotiseur.md) 2, [Méd](./Médium.md) 2, [Psy](./Psychiste.md) 2  
+{s:AO}**École** [[école divination|Divination]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3, [[hypnotiseur|Hyp]] 2, [[médium|Méd]] 2, [[Psychiste|Psy]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** 18 m  
 
 **Zone** émanation en cône  
 
-**Durée** [concentration](./Présentation des sorts.md#DUREE), jusqu’à 1 minute/niveau (T)  
+**Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 minute/niveau (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** non
 
-Ce sort fonctionne comme détection des pensées et permet au personnage de sentir quand la conscience d’une ou plusieurs créatures se trouve dans un [paysage mental](./Paysages mentaux.md). La quantité d’informations révélées dépend de la durée d’étude du sujet.
+Ce sort fonctionne comme détection des pensées et permet au personnage de sentir quand la conscience d’une ou plusieurs créatures se trouve dans un [[paysages mentaux|paysage mental]]. La quantité d’informations révélées dépend de la durée d’étude du sujet.
 
-Premier [round](./round.md). Le personnage sent la présence ou l’absence de [paysage mental](./Paysages mentaux.md). Pour qu’il détecte le paysage, il faut qu’au moins une des créatures présentes en son sein se trouve aussi dans le cône d’effet du sort.
+Premier [[round]]. Le personnage sent la présence ou l’absence de [[paysages mentaux|paysage mental]]. Pour qu’il détecte le paysage, il faut qu’au moins une des créatures présentes en son sein se trouve aussi dans le cône d’effet du sort.
 
-Deuxième [round](./round.md). Le personnage compte le nombre de consciences qui se trouvent dans le paysage mental. Pour cela, il n’est pas nécessaire qu’elles se trouvent toutes physiquement dans le cône d’effet du sort mais il faut qu’une d’elles au moins s’y trouve. Cependant, il ne peut pas déterminer l’emplacement des créatures qu’il ne voit pas, il sent leur présence de manière abstraite.
+Deuxième [[round]]. Le personnage compte le nombre de consciences qui se trouvent dans le paysage mental. Pour cela, il n’est pas nécessaire qu’elles se trouvent toutes physiquement dans le cône d’effet du sort mais il faut qu’une d’elles au moins s’y trouve. Cependant, il ne peut pas déterminer l’emplacement des créatures qu’il ne voit pas, il sent leur présence de manière abstraite.
 
-Troisième [round](./round.md). Le personnage obtient une image mentale de ce qu’il se passe dans le paysage mental. La créature qui contrôle ce paysage perçoit ses efforts et, si elle ne veut pas lui révéler son paysage, elle peut l’empêcher d’obtenir cette image en réussissant un jet de [Volonté](./Volonté.md). Sinon, il voit le paysage mental de loin, comme s’il regardait par une fenêtre. Si une créature s’est déguisée, il ne voit que son masque mental, pas sa forme véritable.
+Troisième [[round]]. Le personnage obtient une image mentale de ce qu’il se passe dans le paysage mental. La créature qui contrôle ce paysage perçoit ses efforts et, si elle ne veut pas lui révéler son paysage, elle peut l’empêcher d’obtenir cette image en réussissant un jet de [[Volonté]]. Sinon, il voit le paysage mental de loin, comme s’il regardait par une fenêtre. Si une créature s’est déguisée, il ne voit que son masque mental, pas sa forme véritable.
 
 À chaque round, le personnage peut se tourner pour détecter les paysages mentaux présents dans une nouvelle zone. Le sort permet de franchir de nombreuses barrières mais il se laisse arrêter par 30 centimètres de pierre, 2,50 centimètres de métal ordinaire, une mince couche de plomb ou 90 centimètres de bois ou de terre. Si le personnage se trouve dans un paysage mental au moment où il lance ce sort, il prend conscience de se trouver dans un tel environnement. Au deuxième round, il peut détecter le nombre de consciences présentes en son sein mais il n’obtient pas d’image mentale au troisième.

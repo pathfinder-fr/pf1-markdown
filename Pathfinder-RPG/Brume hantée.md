@@ -14,19 +14,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [illusion](./Illusion.md) ([chimère](./branche chimère.md)) <nowiki>[</nowiki>[ombre](./Registre.md), [peur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[illusion]] ([[branche chimère|chimère]]) <nowiki>[</nowiki>[[registre|ombre]], [[registre|peur]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** 6 m (4 {s:c})  
 
 **Effet** nuage de 6 m (4 {s:c}) de rayon et de 6 m de haut  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partielle](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] (voir texte) ; **Résistance à la magie** non
 
-Une brume illusoire habitée de silhouettes floues s’élève autour du personnage. Elle reste stationnaire. Cette brume bloque la visibilité, même pour des créatures dotées de [vision dans le noir](./vision dans le noir.md), au-delà de 1,50 mètre. Une créature située à 1,50 mètre dispose toujours d’un [camouflage](./camouflage.md) (les attaques ont 20% de chances de la rater). Celles qui se trouvent plus loin bénéficient d’un [camouflage complet](./camouflage total.md) (50% de chances de les rater, l’attaquant ne peut pas utiliser la vue pour les repérer). Toutes les créatures qui se trouvent dans la brume doivent réussir leur
-[jet de sauvegarde](./jet de sauvegarde.md) ou subir 1d2 points d’affaiblissement de [Sagesse](./Sagesse.md) et être [secouées](./Secoué.md). Cette condition persiste tant que la créature reste dans la brume.
+Une brume illusoire habitée de silhouettes floues s’élève autour du personnage. Elle reste stationnaire. Cette brume bloque la visibilité, même pour des créatures dotées de [[vision dans le noir]], au-delà de 1,50 mètre. Une créature située à 1,50 mètre dispose toujours d’un [[camouflage]] (les attaques ont 20% de chances de la rater). Celles qui se trouvent plus loin bénéficient d’un [[camouflage total|camouflage complet]] (50% de chances de les rater, l’attaquant ne peut pas utiliser la vue pour les repérer). Toutes les créatures qui se trouvent dans la brume doivent réussir leur
+[[jet de sauvegarde]] ou subir 1d2 points d’affaiblissement de [[Sagesse]] et être [[secoué|secouées]]. Cette condition persiste tant que la créature reste dans la brume.

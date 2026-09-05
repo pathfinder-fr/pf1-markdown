@@ -61,7 +61,7 @@ entreprennent une des actions citées ci-dessus, elles attaquent en piqué.
 
 ''
 
-Voir aussi [http://www.pathfinder-fr.org/Wiki/Aventures.Delvahine.ashx?NoRedirect=1&NS=Aventures|Delvahine]
+Voir aussi [Delvahine](http://www.pathfinder-fr.org/Wiki/Aventures.Delvahine.ashx?NoRedirect=1&NS=Aventures)
 
 </div>
 </td></tr>

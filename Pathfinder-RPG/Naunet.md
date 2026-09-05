@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2 p.226*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [métamorphe](./sous-type métamorphe.md), [protéen](./sous-type protéen.md)) de taille G, CN}
-{s:BDTexte|**Init** +7 ; **Sens** [détection de la Loi](./Détection de la Loi.md), [perception aveugle](./perception aveugle.md) 9 m (6 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type métamorphe|métamorphe]], [[sous-type protéen|protéen]]) de taille G, CN}
+{s:BDTexte|**Init** +7 ; **Sens** [[détection de la Loi]], [[perception aveugle]] 9 m (6 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 12, pris au dépourvu 17 (Dex +3, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 94 (9d10+45)}
@@ -28,14 +28,14 @@ Categories:
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Attaques spéciales** agglutination du Chaos, constriction (1d6+5), frappe adaptative}
 {s:BDTexte|**Pouvoirs magiques** (NLS 7<sup>e</sup> ; concentration +9)}
-{s:BDSorts|Constant — *[détection de la Loi](./Détection de la Loi.md)*}
-{s:BDSorts|À volonté — *[flèche acide](./Flèche acide.md)*, *[fracassement](./Fracassement.md)* (DD 14), *[nappe de brouillard](./Nappe de brouillard.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)* (personnel et 25 kg d’objets uniquement)}
-{s:BDSorts|1/jour — *[marteau du Chaos](./Marteau du chaos.md)* (DD 16)}
+{s:BDSorts|Constant — *[[détection de la Loi]]*}
+{s:BDSorts|À volonté — *[[flèche acide]]*, *[[fracassement]]* (DD 14), *[[nappe de brouillard]]*, *[[porte dimensionnelle]]* (personnel et 25 kg d’objets uniquement)}
+{s:BDSorts|1/jour — *[[marteau du Chaos]]* (DD 16)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 17, **Con** 20, **Int** 11, **Sag** 16, **Cha** 15}
 {s:BDTexte|**BBA** +9, **BMO** +15, **DMD** 28}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaques multiples](./Attaques multiples.md), [Attaques réflexes](./Attaques réflexes.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +15, [Discrétion](./Discrétion.md) +11, [Intimidation](./Intimidation.md) +14, [Natation](./Natation.md) +25, [Perception](./Perception.md) +15, [Survie](./Survie.md) +15, [Vol](./Vol.md) +9}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaques multiples]], [[Attaques réflexes]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +15, [[Discrétion]] +11, [[Intimidation]] +14, [[Natation]] +25, [[Perception]] +15, [[Survie]] +15, [[Vol]] +9}
 {s:BDTexte|**Langues** abyssal, protéen}
 {s:BDTexte|**Particularités** changement de forme (métamorphose)}
 {s:BDSousTitre|Écologie}
@@ -43,12 +43,12 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou cacophonie (3–12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Agglutination du Chaos (Sur).** Par une [action simple](./Action simple.md) utilisable une fois par jour, trois naunets (ou plus) peuvent collaborer pour faire apparaître un nuage bouillonnant de Chaos multicolore. Cet effet fonctionne comme un [brouillard dense](./Brouillard dense.md) (NLS 12) et persiste pendant 2d6 rounds. Si six naunets (ou plus) sont présents, le Chaos agglutiné fonctionne alors comme une [brume acide](./Brume acide.md) (NLS 12).}
-{s:BDTexte|**Confusion (Sur).** Toute créature touchée par une attaque de tentacule de naunet reçoit un peu de Chaos pur et doit réussir un jet de [Volonté](./Volonté.md) de DD 19 pour ne pas être confus pendant 1 round. Les rounds de confusion infligés par cette capacité se cumulent entre eux. Si la victime est d’alignement Chaotique, elle gagne un bonus de +4 à ce jet de sauvegarde. Si elle appartient au sous-type du Chaos, elle est immunisée contre cet effet. Il s’agit d’un effet mental. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Frappe adaptative (Sur).** Les attaques naturelles d’un naunet fonctionnent comme des armes magiques et d’alignement Chaotique pour ce qui est de percer les [RD](./RD.md). Par une [action libre](./Action libre.md) utilisable une fois par round, un naunet peut doter ses attaques naturelles d’[adamantium](./../Golarion/adamantium.md), d’argent ou de [fer froid](./fer froid.md), ce qui peut lui permettre d’ignorer les [RD](./RD.md) correspondantes.}
+{s:BDTexte|**Agglutination du Chaos (Sur).** Par une [[action simple]] utilisable une fois par jour, trois naunets (ou plus) peuvent collaborer pour faire apparaître un nuage bouillonnant de Chaos multicolore. Cet effet fonctionne comme un [[brouillard dense]] (NLS 12) et persiste pendant 2d6 rounds. Si six naunets (ou plus) sont présents, le Chaos agglutiné fonctionne alors comme une [[brume acide]] (NLS 12).}
+{s:BDTexte|**Confusion (Sur).** Toute créature touchée par une attaque de tentacule de naunet reçoit un peu de Chaos pur et doit réussir un jet de [[Volonté]] de DD 19 pour ne pas être confus pendant 1 round. Les rounds de confusion infligés par cette capacité se cumulent entre eux. Si la victime est d’alignement Chaotique, elle gagne un bonus de +4 à ce jet de sauvegarde. Si elle appartient au sous-type du Chaos, elle est immunisée contre cet effet. Il s’agit d’un effet mental. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|**Frappe adaptative (Sur).** Les attaques naturelles d’un naunet fonctionnent comme des armes magiques et d’alignement Chaotique pour ce qui est de percer les [[RD]]. Par une [[action libre]] utilisable une fois par round, un naunet peut doter ses attaques naturelles d’[[adamantium]], d’argent ou de [[fer froid]], ce qui peut lui permettre d’ignorer les [[RD]] correspondantes.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [protéens](./Protéen.md).***</li></ul>*Des tentacules portant des gueules de tortue émergent du dos de cette créature serpentine, comme pour accompagner la dangereuse bouche qui orne son visage reptilien.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Protéen|protéens]].***</li></ul>*Des tentacules portant des gueules de tortue émergent du dos de cette créature serpentine, comme pour accompagner la dangereuse bouche qui orne son visage reptilien.*
 
 Les protéens les plus brutaux, les naunets, forment la caste la plus basse de cette race. Ils servent de troupes de choc dans les armées protéennes ou de pillards itinérants au service du Chaos.
 

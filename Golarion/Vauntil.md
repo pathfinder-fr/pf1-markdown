@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Vauntil est un petit village du comté de [Caliphas](./Caliphas.md) en [Ustalav](./Ustalav.md) situé sur les rives du lac d'[Encarthan](./Encarthan.md), et plus précisément au fond de la baie d'Avalon.
+Vauntil est un petit village du comté de [[Caliphas]] en [[Ustalav]] situé sur les rives du lac d'[[Encarthan]], et plus précisément au fond de la baie d'Avalon.

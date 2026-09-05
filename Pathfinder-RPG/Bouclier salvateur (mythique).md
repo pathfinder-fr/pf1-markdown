@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage peut riposter quand il protège un compagnon.*
 
-**Condition.** [Bouclier salvateur](./Bouclier salvateur.md)
+**Condition.** [[Bouclier salvateur]]
 
-**Avantage.** Le bonus de bouclier que le personnage confère à un allié avec le don [Bouclier salvateur](./Bouclier salvateur.md) s’élève désormais à +3. S’il utilise [Bouclier salvateur](./Bouclier salvateur.md) pour annuler avec succès une attaque effectuée contre un allié adjacent, le personnage peut immédiatement effectuer une attaque d’opportunité contre l’agresseur si celui-ci est à portée d’attaque au corps à corps.
+**Avantage.** Le bonus de bouclier que le personnage confère à un allié avec le don [[Bouclier salvateur]] s’élève désormais à +3. S’il utilise [[Bouclier salvateur]] pour annuler avec succès une attaque effectuée contre un allié adjacent, le personnage peut immédiatement effectuer une attaque d’opportunité contre l’agresseur si celui-ci est à portée d’attaque au corps à corps.

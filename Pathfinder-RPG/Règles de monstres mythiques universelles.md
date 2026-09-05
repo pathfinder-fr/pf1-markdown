@@ -11,22 +11,22 @@ Categories:
 
 <div class="description">**Note.** Les règles universelles de monstres listées dans cette section sont également présentes dans la liste normale, mais sont regroupées ici pour faciliter la recherche thématique.</div>
 <table class="page espace-col troiscol"><tr><td>
-- [Fureur du dragon](./Fureur du dragon (capacité).md)
-- [Incantation divine simple](./Incantation divine simple (capacité).md)
-- [Incantation profane simple](./Incantation profane simple (capacité).md)
-- [Initiative double](./Initiative double (capacité).md)
-- [Magie mythique](./Magie mythique (capacité).md)
+- [[Fureur du dragon (capacité)|Fureur du dragon]]
+- [[Incantation divine simple (capacité)|Incantation divine simple]]
+- [[Incantation profane simple (capacité)|Incantation profane simple]]
+- [[Initiative double (capacité)|Initiative double]]
+- [[Magie mythique (capacité)|Magie mythique]]
 
 </td><td>
-- [Montée en puissance](./Montée en puissance (capacité).md)
-- [Nage dans le sable](./Nage dans le sable (capacité).md)
-- [Pouvoir mythique](./Pouvoir mythique (capacité).md)
-- [Sang draconique](./Sang draconique (capacité).md)
+- [[Montée en puissance (capacité)|Montée en puissance]]
+- [[Nage dans le sable (capacité)|Nage dans le sable]]
+- [[Pouvoir mythique (capacité)|Pouvoir mythique]]
+- [[Sang draconique (capacité)|Sang draconique]]
 
 </td><td>
-- [Sauvagerie féroce](./Sauvagerie féroce (capacité).md)
-- [Second jet de sauvegarde](./Second jet de sauvegarde (capacité).md)
-- [Souffle prolongé](./Souffle prolongé (capacité).md)
-- [Tours de magie des dragons](./Tours de magie des dragons (capacité).md)
+- [[Sauvagerie féroce (capacité)|Sauvagerie féroce]]
+- [[Second jet de sauvegarde (capacité)|Second jet de sauvegarde]]
+- [[Souffle prolongé (capacité)|Souffle prolongé]]
+- [[Tours de magie des dragons (capacité)|Tours de magie des dragons]]
 
 </td></tr></table>

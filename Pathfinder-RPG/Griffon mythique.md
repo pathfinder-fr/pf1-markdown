@@ -15,8 +15,8 @@ Categories:
 {s:pucem|Créature magique|Collines|Tempéré}
 {s:BDtexte|*Source : Campagnes mythiques p.202*}
 {s:BDtexte|**PX** 1 600}
-{s:BDtexte|[Créature magique](./type Créature magique.md) ([mythique](./sous-type mythique.md)) de taille G, N}
-{s:BDtexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md), [odorat](./Odorat (capacité).md) ; [Perception](./Perception.md) +12}
+{s:BDtexte|[[type Créature magique|Créature magique]] ([[sous-type mythique|mythique]]) de taille G, N}
+{s:BDtexte|**Init** +2 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]], [[Odorat (capacité)|odorat]] ; [[Perception]] +12}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 19, contact 11, pris au dépourvu 17 (+2 Dex, +8 naturelle, -1 taille)}
 {s:BDtexte|**pv** 62 (5d10+35)}
@@ -24,21 +24,21 @@ Categories:
 {s:BDtexte|**RD** 5/épique}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 9 m, vol 30 m (moyenne)}
-{s:BDtexte|**Corps à corps** morsure, +8 (1d6+4 plus [étreinte](./Étreinte (capacité).md)) et 2 serres, +10 (1d6+4)}
+{s:BDtexte|**Corps à corps** morsure, +8 (1d6+4 plus [[Étreinte (capacité)|étreinte]]) et 2 serres, +10 (1d6+4)}
 {s:BDtexte|**Espace occupé** 3 m ; **Allonge** 1,50 m}
-{s:BDtexte|**Attaques spéciales** [bond](./Bond (capacité).md), [pattes arrière](./Pattes arrière (capacité).md) (2 griffes +8, 1d4+4), plongeon en puissance, [pouvoir mythique](./Pouvoir mythique (capacité).md) (2/jour, [montée en puissance](./Montée en puissance (capacité).md) +1d6)}
+{s:BDtexte|**Attaques spéciales** [[Bond (capacité)|bond]], [[Pattes arrière (capacité)|pattes arrière]] (2 griffes +8, 1d4+4), plongeon en puissance, [[Pouvoir mythique (capacité)|pouvoir mythique]] (2/jour, [[Montée en puissance (capacité)|montée en puissance]] +1d6)}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 18, **Dex** 15, **Con** 16, **Int** 5, **Sag** 13, **Cha** 8}
-{s:BDtexte|**BBA** +5, **BMO** +10 (+14 pour la [lutte](./lutte.md)), **DMD** 22 (26 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDtexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (serres)<sup>M</sup>, [Attaque en vol](./Attaque en vol.md)<sup>M</sup>, [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)}
-{s:BDtexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Perception](./Perception.md) +12 , [Vol](./Vol.md) +6 ; **Modificateurs raciaux** +4 en Acrobaties, +4 en Perception}
+{s:BDtexte|**BBA** +5, **BMO** +10 (+14 pour la [[lutte]]), **DMD** 22 (26 contre le [[croc-en-jambe]])}
+{s:BDtexte|**Dons** [[Arme de prédilection]] (serres)<sup>M</sup>, [[Attaque en vol]]<sup>M</sup>, [[Talent]] (Perception), [[Volonté de fer]]}
+{s:BDtexte|**Compétences** [[Acrobaties]] +10, [[Perception]] +12 , [[Vol]] +6 ; **Modificateurs raciaux** +4 en Acrobaties, +4 en Perception}
 {s:BDtexte|**Langues** commun (ne peut pas parler)}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** collines tempérées}
 {s:BDtexte|**Organisation sociale** solitaire, couple ou troupe (6-10)}
 {s:BDtexte|**Trésor** fortuit}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Plongeon en puissance (Ext).** En vol, le griffon mythique peut se déplacer à une vitesse maximale égale à quatre fois sa vitesse de base lorsqu’il [charge](./charge.md). S’il initie sa charge à 12 mètres ou plus au-dessus de sa cible, il inflige le double des dégâts sur sa première attaque. Il doit voler en descente, suivant un angle de 45 degrés au moins pour utiliser ce pouvoir.}
+{s:BDtexte|**Plongeon en puissance (Ext).** En vol, le griffon mythique peut se déplacer à une vitesse maximale égale à quatre fois sa vitesse de base lorsqu’il [[charge]]. S’il initie sa charge à 12 mètres ou plus au-dessus de sa cible, il inflige le double des dégâts sur sa première attaque. Il doit voler en descente, suivant un angle de 45 degrés au moins pour utiliser ce pouvoir.}
 </div>
 </td>
 <td>

@@ -14,25 +14,25 @@ Categories:
 {s:pucem|Humanoïde|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.198*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([aquatique](./sous-type aquatique.md), [géant](./sous-type géant.md)) de taille G, NM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type aquatique|aquatique]], [[sous-type géant|géant]]) de taille G, NM}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 13 (Dex +4, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 30 (4d8+12)}
 {s:BDTexte|**Réf** +5, **Vig** +7, **Vol** +3}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), nage (12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** 2 griffes, +6 (1d6+4 plus [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** 2 griffes, +6 (1d6+4 plus [[étreinte]])}
 {s:BDTexte|**Distance** javeline, +6 (1d8+4)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 18, **Con** 17, **Int** 6, **Sag** 10, **Cha** 7}
 {s:BDTexte|**BBA** +3, **BMO** +8 (+12 lutte), **DMD** 22}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +2 (+6 dans l’eau), [Natation](./Natation.md) +12, [Perception](./Perception.md) +5 ;
-**Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) dans l’eau}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +2 (+6 dans l’eau), [[Natation]] +12, [[Perception]] +5 ;
+**Modificateurs raciaux** +4 en [[Discrétion]] dans l’eau}
 {s:BDTexte|**Langues** géant}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md)}
+{s:BDTexte|**Particularités** [[amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** lacs et rivières tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-4) ou famille (5-16)}
@@ -44,25 +44,25 @@ Categories:
 {s:pucem|Humanoïde|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.198*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([aquatique](./sous-type aquatique.md), [géant](./sous-type géant.md)) de taille TG, NM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type aquatique|aquatique]], [[sous-type géant|géant]]) de taille TG, NM}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 11, pris au dépourvu 16 (Dex +3, naturelle +8, taille -2)}
 {s:BDTexte|**pv** 80 (7d8+49)}
 {s:BDTexte|**Réf** +5, **Vig** +11, **Vol** +4}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), nage (12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** 2 griffes, +11 (1d8+7 plus [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** 2 griffes, +11 (1d8+7 plus [[étreinte]])}
 {s:BDTexte|**Distance** javeline, +6 (2d6+7)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 16, **Con** 23, **Int** 6, **Sag** 10, **Cha** 7}
 {s:BDTexte|**BBA** +5, **BMO** +14 (+18 lutte), **DMD** 27}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en puissance](./Attaque en puissance.md), [Frappe décisive](./Frappe décisive.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) -2 (+2 dans l’eau), [Natation](./Natation.md) +15, [Perception](./Perception.md) +7 ;
-**Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) dans l’eau}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Attaque en puissance]], [[Frappe décisive]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] -2 (+2 dans l’eau), [[Natation]] +15, [[Perception]] +7 ;
+**Modificateurs raciaux** +4 en [[Discrétion]] dans l’eau}
 {s:BDTexte|**Langues** géant}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md)}
+{s:BDTexte|**Particularités** [[amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans tempérés}
 {s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-4) ou famille (5-16)}

@@ -13,13 +13,13 @@ Categories:
 {s:pucem|Créature artificielle|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.54*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 12, contact 10, pris au dépourvu 12 (naturelle +2)}
 {s:BDTexte|**pv** 25 (1d10+20)}
 {s:BDTexte|**Réf** +0, **Vig** +0, **Vol** +4}
-{s:BDTexte|**Immunités** [traits des créatures artificielles](./Traits des créatures artificielles (capacité).md)}
+{s:BDTexte|**Immunités** [[Traits des créatures artificielles (capacité)|traits des créatures artificielles]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** épée courte, +2 (1d6+1/19-20)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 11, **Con** —, **Int** 9, **Sag** 14, **Cha** 13}
 {s:BDTexte|**BBA** +1 ; **BMO** +2 ; **DMD** 12}
-{s:BDTexte|**Dons** [Talent](./Talent.md) (Connaissances <nowiki>[religion]</nowiki>)<sup>S</sup>, [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (religion) +3}
+{s:BDTexte|**Dons** [[Talent]] (Connaissances <nowiki>[[religion]]</nowiki>)<sup>S</sup>, [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (religion) +3}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** chant des dieux, pouvoir conféré}
 {s:BDSousTitre|Écologie}
@@ -36,9 +36,9 @@ Categories:
 {s:BDTexte|**Organisation** solitaire, commune (5-10) ou abbaye (11-25)}
 {s:BDTexte|**Trésor** standard (épée courte, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Chant des dieux (Sur).** Un célédon maîtrise l’aptitude de [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) comme un [barde](./Barde.md) de niveau 3, ce qui lui permet d'accomplir des représentations de [contrechant](./Barde.md#CONTRECHANT), de [fascination](./Barde.md#FASCINATION), d’[inspiration vaillante](./Barde.md#INSPIRATIONVAILLANTE) et d’[inspiration talentueuse](./Barde.md#INSPIRATIONTALENTUEUSE). Un célédon utilise la compétence de [Connaissances](./Connaissances.md) (religion) à la place de [Représentation](./Représentation.md) quand c’est nécessaire (pour déterminer le résultat du [jet de sauvegarde](./jet de sauvegarde.md) d’un [contrechant](./Barde.md#CONTRECHANT), par exemple). Il peut utiliser ce pouvoir un nombre de fois par jour égal à 4 + son modificateur de [Sagesse](./Sagesse.md) et employer sa voix ou un quelconque instrument de musique.}
-{s:BDTexte|**Pouvoir conféré.** Un célédon bénéficie des grâces de la divinité à l’origine de sa création. Chaque célédon choisit un des [domaines](./Prêtre.md#DOMAINES) de sa divinité et obtient le premier pouvoir conféré par ce domaine. Il peut choisir, à la place, le pouvoir contact du prophète décrit ci-dessous. Une fois le choix du pouvoir conféré effectué, le célédon ne peut plus en changer.}
-{s:BDTexte|* *Contact du prophète (Sur).* Trois fois par jour, un célédon peut effectuer une attaque de contact au corps à corps qui, en cas de réussite, oblige la cible à réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 11 pour ne pas être [étourdie](./Étourdi.md) pendant 1 [round](./round.md). Une créature qui réussit ce [jet de sauvegarde](./jet de sauvegarde.md) est [chancelante](./Chancelant.md) pendant 1 [round](./round.md) à la place. Que le [jet de sauvegarde](./jet de sauvegarde.md) soit réussi ou non, les sorts ou effets qui permettent de détecter l’alignement de la cible révèlent que la cible a le même alignement que la divinité du célédon tant qu’elle est [étourdie](./Étourdi.md) ou [chancelante](./Chancelant.md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
+{s:BDTexte|**Chant des dieux (Sur).** Un célédon maîtrise l’aptitude de [[barde#REPRESENTATIONBARDIQUE|représentation bardique]] comme un [[barde]] de niveau 3, ce qui lui permet d'accomplir des représentations de [[barde#CONTRECHANT|contrechant]], de [[barde#FASCINATION|fascination]], d’[[barde#INSPIRATIONVAILLANTE|inspiration vaillante]] et d’[[barde#INSPIRATIONTALENTUEUSE|inspiration talentueuse]]. Un célédon utilise la compétence de [[Connaissances]] (religion) à la place de [[Représentation]] quand c’est nécessaire (pour déterminer le résultat du [[jet de sauvegarde]] d’un [[barde#CONTRECHANT|contrechant]], par exemple). Il peut utiliser ce pouvoir un nombre de fois par jour égal à 4 + son modificateur de [[Sagesse]] et employer sa voix ou un quelconque instrument de musique.}
+{s:BDTexte|**Pouvoir conféré.** Un célédon bénéficie des grâces de la divinité à l’origine de sa création. Chaque célédon choisit un des [[prêtre#DOMAINES|domaines]] de sa divinité et obtient le premier pouvoir conféré par ce domaine. Il peut choisir, à la place, le pouvoir contact du prophète décrit ci-dessous. Une fois le choix du pouvoir conféré effectué, le célédon ne peut plus en changer.}
+{s:BDTexte|* *Contact du prophète (Sur).* Trois fois par jour, un célédon peut effectuer une attaque de contact au corps à corps qui, en cas de réussite, oblige la cible à réussir un jet de [[Vigueur]] [[DD]] 11 pour ne pas être [[étourdi|étourdie]] pendant 1 [[round]]. Une créature qui réussit ce [[jet de sauvegarde]] est [[chancelant|chancelante]] pendant 1 [[round]] à la place. Que le [[jet de sauvegarde]] soit réussi ou non, les sorts ou effets qui permettent de détecter l’alignement de la cible révèlent que la cible a le même alignement que la divinité du célédon tant qu’elle est [[étourdi|étourdie]] ou [[chancelant|chancelante]]. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
 </div></td>
 <td><div>*Cette sculpture métallique, représentant un humanoïde à la silhouette parfaite, brille d’un éclat tout divin.*
 

@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2* p.245}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, NM}
-{s:BDTexte|**Init** +5 ; **Sens** [perception de la vie](./Perception de la vie (capacité).md), [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, NM}
+{s:BDTexte|**Init** +5 ; **Sens** [[perception de la vie (capacité)|perception de la vie]], [[vision dans le noir]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 16, pris au dépourvu 14 (Dex +5, esquive +1, naturelle +4)}
 {s:BDTexte|**pv** 85 (9d10+36)}
@@ -25,15 +25,15 @@ Categories:
 {s:BDTexte|**Corps à corps** morsure, +14 (1d6+3 plus 1d6 énergie négative et absorption d’énergie) et 2 ailes, +9 (1d6+1 plus 1d6 énergie négative)}
 {s:BDTexte|**Attaques spéciales** absorption d’énergie (1 niveau, DD 17), toucher entropique}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9 ; Concentration +12)}
-{s:BDSorts|Constant — *[bouclier entropique](./Bouclier entropique.md)*, *[invisibilité pour les morts-vivants](./Invisibilité pour les morts-vivants.md)* (DD 14)}
-{s:BDSorts|À volonté —*[dissipation de la magie](./Dissipation de la magie.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)* (personnel uniquement), *[saignement](./Saignement.md)* (DD13)}
-{s:BDSorts|3/jour —*[blessure grave](./Blessure grave.md)* (DD16), *[énergie négative](./Énergie négative.md)*, *[mise à mort](./Mise à mort.md)* (DD15), *[silence](./Silence.md)*, *[ténèbres profondes](./Ténèbres profondes.md)*}
-{s:BDSorts|1/jour —*[coquille antivie](./Coquille antivie.md)*, *[exécution](./Exécution.md)* (DD18), *[mise à mal](./Mise à mal.md)* (DD19), *[téléportation suprême](./Téléportation suprême.md)* (personnel et 25kg d'objets uniquement),}
+{s:BDSorts|Constant — *[[bouclier entropique]]*, *[[invisibilité pour les morts-vivants]]* (DD 14)}
+{s:BDSorts|À volonté —*[[dissipation de la magie]]*, *[[porte dimensionnelle]]* (personnel uniquement), *[[saignement]]* (DD13)}
+{s:BDSorts|3/jour —*[[blessure grave]]* (DD16), *[[énergie négative]]*, *[[mise à mort]]* (DD15), *[[silence]]*, *[[ténèbres profondes]]*}
+{s:BDSorts|1/jour —*[[coquille antivie]]*, *[[exécution]]* (DD18), *[[mise à mal]]* (DD19), *[[téléportation suprême]]* (personnel et 25kg d'objets uniquement),}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 20, **Con** 18, **Int** 13, **Sag** 14, **Cha** 17}
 {s:BDTexte|**BBA** +9, **BMO** +12, **DMD** 28}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [S'avancer](./Savancer.md), [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (nature) +13, [Connaissances](./Connaissances.md) (plans) +17, [Discrétion](./Discrétion.md) +25, [Évasion](./Évasion.md) +17, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +14, [Vol](./Vol.md) +9 ; **Modificateurs raciaux** +4 en [Connaissances](./Connaissances.md) (plans), +8 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Esquive]], [[Savancer|S'avancer]], [[Souplesse du serpent]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Connaissances]] (nature) +13, [[Connaissances]] (plans) +17, [[Discrétion]] +25, [[Évasion]] +17, [[Intimidation]] +16, [[Perception]] +17, [[Psychologie]] +14, [[Vol]] +9 ; **Modificateurs raciaux** +4 en [[Connaissances]] (plans), +8 en [[Discrétion]]}
 {s:BDTexte|**Langues** aklo, commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (plan de l'Energie négative)}

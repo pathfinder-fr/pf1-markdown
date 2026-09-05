@@ -4,7 +4,7 @@ Title: Salle 10
 LastModified: 2011-11-27 14:12
 ---
 
-<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=264624843581445) publiée avec l'autorisation de l'auteur Jason Bulmahn — [retour à l'index](./Informations-Weekly-Grind.md)</p>
+<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=264624843581445) publiée avec l'autorisation de l'auteur Jason Bulmahn — [[Informations.Weekly Grind|retour à l'index]]</p>
 **Le temple de l'Áme.** Cette salle est utilisée par le culte pour séparer les âmes des corps de leurs victimes afin qu'elles puissent servir d'énergie à un portail infernal. Contrairement aux salles précédentes, celle-ci est plutôt grande et conçue pour occuper deux séances.
 
 <center><img src="http://www.pathfinder-fr.org/Wiki/public/upload/Illustrations/WeeklyGrind/wg10.jpg" /></center>

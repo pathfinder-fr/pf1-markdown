@@ -11,6 +11,6 @@ Categories:
 {s:cs}<div class="description"**Source :** Distant Shores</div>
 *Vous et votre partenaire êtes tellement proches que vous pouvez presque lire dans les pensées de l'autre.*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Avantage.** Tant que vous pouvez vous voir, vous et votre allié qui dispose également de ce don pouvez échanger des messages non-verbaux. Cela fonctionne comme le sort [message](./Message.md) sauf que vous n'avez pas besoin de chuchoter ou pointer votre cible, et ne pouvez être entendus.
+**Avantage.** Tant que vous pouvez vous voir, vous et votre allié qui dispose également de ce don pouvez échanger des messages non-verbaux. Cela fonctionne comme le sort [[message]] sauf que vous n'avez pas besoin de chuchoter ou pointer votre cible, et ne pouvez être entendus.

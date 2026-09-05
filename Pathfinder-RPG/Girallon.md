@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire p.159*}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +7 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 12, pris au dépourvu 15 (Dex +3, naturelle +6, taille -1)}
 {s:BDTexte|**pv** 73 (7d10+35)}
 {s:BDTexte|**Réf** +8, **Vig** +9, **Vol** +5}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), escalade 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +10 (1d6+4), 4 griffes, +10 (1d4+4 et [éventration](./Éventration.md))}
+{s:BDTexte|**Corps à corps** morsure, +10 (1d6+4), 4 griffes, +10 (1d4+4 et [[éventration]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration.md) (4 griffes, 1d4+6)}
+{s:BDTexte|**Attaques spéciales** [[éventration]] (4 griffes, 1d4+6)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 17, **Con** 18, **Int** 2, **Sag** 12, **Cha** 7}
 {s:BDTexte|**BBA** +7, **BMO** +12, **DMD** 25}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5, [Escalade](./Escalade.md) +12, [Perception](./Perception.md) +11}
+{s:BDTexte|**Dons** [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +5, [[Escalade]] +12, [[Perception]] +11}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes}
 {s:BDTexte|**Organisation sociale** solitaire ou groupe (5-8)}
@@ -91,7 +91,7 @@ la jungle ou en montagne et assaillent les villages voisins pour en
 piller la nourriture et les trésors.
 
 Certaines tribus primitives les prennent pour des agents envoyés par des dieux maléfiques et les
-vénèrent. Quelques hauts girallons rejoignent des tribus d’[orques](./Orque.md)
+vénèrent. Quelques hauts girallons rejoignent des tribus d’[[Orque|orques]]
 ou se reproduisent avec eux, ce qui a donné naissance à de
 nombreuses rumeurs parlant « d’orques
 blancs » à quatre bras.

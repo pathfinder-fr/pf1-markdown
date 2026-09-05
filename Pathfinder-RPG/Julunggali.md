@@ -10,7 +10,7 @@ LastModified: 2017-01-19 21:27
 {s:pucem|Créature magique|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 22*}
 - **409 600 PX**
-- [Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md), [extraplanaire](./sous-type extraplanaire.md), [métamorphe](./sous-type métamorphe.md), [mythique](./sous-type mythique.md)) de taille C, N
+- [[type créature magique|Créature magique]] ([[sous-type aquatique|aquatique]], [[sous-type extraplanaire|extraplanaire]], [[sous-type métamorphe|métamorphe]], [[sous-type mythique|mythique]]) de taille C, N
 - **Init **+21M ; **Sens **perception aveugle à 18 m, vision dans le noir à 18 m, vision nocturne, odorat, vision dans les ténèbres ; Perception +30 
 - **Aura **de fascination (DD 26, 30 mètres)
 (((Défense)))
@@ -24,14 +24,14 @@ LastModified: 2017-01-19 21:27
 - **Espace **9 m ; **Allonge **9 m
 - **Attaques spéciales** attirer (morsure, 9 m), constriction (4d8+21), engloutissement (4d8 points de dégâts d’acide, CA 26, 39 pv), engloutissement rapide, excellente initiative, pouvoir mythique (8/jour, montée en puissance +1d10), repousser (morsure, 9 m), 
 - **Pouvoirs magiques** (NLS 24 ; concentration +29)
-  - *Permanent* – [prémonition](./Prémonition.md) (sur lui-même uniquement)
-  - *À volonté* – [bénédiction](./Bénédiction.md)<sup>M</sup>, [contrôle de l’eau](./Contrôle de leau.md), [création d’eau](./Création deau.md), [glissement de terrain](./Glissement de terrain.md)<sup>M</sup>, [malédiction](./malédiction.md) (DD 18), [neutralisation du poison](./Neutralisation du poison.md), [prière](./Prière.md)<sup>M</sup>, [respiration aquatique](./Respiration aquatique.md)
-  - *3/jour* – [aversion](./Aversion.md) (DD 24), [contrôle du climat](./Contrôle du climat.md)<sup>M</sup> (pluie uniquement), [guérison suprême](./Guérison suprême.md)<sup>M</sup>, [lenteur](./Lenteur.md)<sup>M</sup> (DD 18) , [métamorphose funeste](./Métamorphose funeste.md)<sup>M</sup> (DD 20), [métamorphose](./métamorphose.md), [mur prismatique](./Mur prismatique.md) (DD 23), [rapidité](./Rapidité.md)<sup>M</sup>, [rappel à la vie](./Rappel à la vie.md), [téléportation suprême](./Téléportation suprême.md) (sur lui-même uniquement)
+  - *Permanent* – [[prémonition]] (sur lui-même uniquement)
+  - *À volonté* – [[bénédiction]]<sup>M</sup>, [[contrôle de leau|contrôle de l’eau]], [[création deau|création d’eau]], [[glissement de terrain]]<sup>M</sup>, [[malédiction]] (DD 18), [[neutralisation du poison]], [[prière]]<sup>M</sup>, [[respiration aquatique]]
+  - *3/jour* – [[aversion]] (DD 24), [[contrôle du climat]]<sup>M</sup> (pluie uniquement), [[guérison suprême]]<sup>M</sup>, [[lenteur]]<sup>M</sup> (DD 18) , [[métamorphose funeste]]<sup>M</sup> (DD 20), [[métamorphose]], [[mur prismatique]] (DD 23), [[rapidité]]<sup>M</sup>, [[rappel à la vie]], [[téléportation suprême]] (sur lui-même uniquement)
 (((Statistiques)))
 - **For **38, **Dex **13, **Con **28, **Int** 19, **Sag **20, **Cha **21
 - **BBA **+22 ; **BMO **+44 (+48 en lutte) ; **DMD **57 (croc-en-jambe impossible)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (corne) , [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md)<sup>M</sup>, [Attaques réflexes](./Attaques réflexes.md)<sup>M</sup>,  [Enchaînement](./Enchaînement.md), [Réflexes surhumains](./Réflexes surhumains.md)<sup>M</sup>, [Science de l’initiative](./Science de linitiative.md)<sup>M</sup>, [Science de la volonté de fer](./Science de la volonté de fer.md), [Science des réflexes surhumains](./Science des réflexes surhumains.md), [Succession d’enchaînements](./Succession denchaînements.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Connaissances](./Connaissances.md) (nature) +26, [Connaissances](./Connaissances.md) (religion) +15, [Dressage](./Dressage.md) +16, [Intimidation](./Intimidation.md) +27, [Natation](./Natation.md) +22, [Perception](./Perception.md) +30, [Premiers secours](./Premiers secours.md) +27, [Psychologie](./Psychologie.md) +27, [Vol](./Vol.md) -7 
+- **Dons **[[Arme de prédilection]] (corne) , [[Arme de prédilection]] (morsure), [[Attaque en puissance]]<sup>M</sup>, [[Attaques réflexes]]<sup>M</sup>,  [[Enchaînement]], [[Réflexes surhumains]]<sup>M</sup>, [[science de linitiative|Science de l’initiative]]<sup>M</sup>, [[Science de la volonté de fer]], [[Science des réflexes surhumains]], [[succession denchaînements|Succession d’enchaînements]], [[Volonté de fer]]
+- **Compétences **[[Connaissances]] (nature) +26, [[Connaissances]] (religion) +15, [[Dressage]] +16, [[Intimidation]] +27, [[Natation]] +22, [[Perception]] +30, [[Premiers secours]] +27, [[Psychologie]] +27, [[Vol]] -7 
 - **Langues **céleste, druidique, sylvestre ; télépathie à 30 m
 - **Particularités **amphibie, changement de forme (n’importe quel type de serpent ; métamorphose), compression
 (((Écologie)))

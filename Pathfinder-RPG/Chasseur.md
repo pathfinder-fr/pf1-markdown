@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:menuclasseshybrides}
-<div class="fright">***Voir aussi le [profil](./Compagnons animaux.md) et la [liste](./liste des compagnons animaux.md) des compagnons animaux.***
-***Voir aussi la [liste des sorts de chasseur](./Liste des sorts de chasseur.md).***
+<div class="fright">***Voir aussi le [[Compagnons animaux|profil]] et la [[Liste des compagnons animaux|liste]] des compagnons animaux.***
+***Voir aussi la [[liste des sorts de chasseur]].***
 {s:PM0|chasseur}**Voir les archétypes du chasseur**&emsp;
 <li ID="chasseur" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypechasseur}</li>
 </div>{s:mca}*Les chasseurs sont des combattants des terres sauvages qui ont tissé des liens étroits avec de fidèles compagnons animaux. Ils ont développé des tactiques leur permettant de se battre aux côtés de leur compagnon en formant un redoutable duo. Ils connaissent une grande variété de sorts naturels et savent utiliser les capacités et les attributs des animaux pour s’améliorer et améliorer leur compagnon.*
@@ -39,7 +39,7 @@ Categories:
 | +2
 | +2
 | +0
-| CLASS="gauche" | [Compagnon animal](./Chasseur.md#COMPAGNONANIMAL), [empathie sauvage](./Chasseur.md#EMPATHIESAUVAGE), [entrainement naturel](./Chasseur.md#ENTRAINEMENTNATUREL), [imitation animale](./Chasseur.md#IMITATIONANIMALE), [oraisons](./Chasseur.md#ORAISONS)
+| CLASS="gauche" | [[Chasseur#COMPAGNONANIMAL|Compagnon animal]], [[Chasseur#EMPATHIESAUVAGE|empathie sauvage]], [[Chasseur#ENTRAINEMENTNATUREL|entrainement naturel]], [[Chasseur#IMITATIONANIMALE|imitation animale]], [[Chasseur#ORAISONS|oraisons]]
 | 1
 | -
 | -
@@ -52,7 +52,7 @@ Categories:
 | +3
 | +3
 | +0
-| CLASS="gauche" | [Compagnon précis](./Chasseur.md#COMPAGNONPRECIS), [pistage](./Chasseur.md#PISTAGE)
+| CLASS="gauche" | [[Chasseur#COMPAGNONPRECIS|Compagnon précis]], [[Chasseur#PISTAGE|pistage]]
 | 2
 | -
 | -
@@ -65,7 +65,7 @@ Categories:
 | +3
 | +3
 | +1
-| CLASS="gauche" | [Don de travail en équipe](./Chasseur.md#DONEQUIPE), [tactique du chasseur](./Chasseur.md#TACTIQUEDUCHASSEUR)
+| CLASS="gauche" | [[Chasseur#DONEQUIPE|Don de travail en équipe]], [[Chasseur#TACTIQUEDUCHASSEUR|tactique du chasseur]]
 | 3
 | -
 | -
@@ -78,7 +78,7 @@ Categories:
 | +4
 | +4
 | +1
-| CLASS="gauche" | [Lien empathique renforcé](./Chasseur.md#LIENEMPATHIQUERENFORCE)
+| CLASS="gauche" | [[Chasseur#LIENEMPATHIQUERENFORCE|Lien empathique renforcé]]
 | 3
 | 1
 | -
@@ -91,7 +91,7 @@ Categories:
 | +4
 | +4
 | +1
-| CLASS="gauche" | [Déplacement facilité](./Chasseur.md#DEPLACEMENTFACILITE)
+| CLASS="gauche" | [[Chasseur#DEPLACEMENTFACILITE|Déplacement facilité]]
 | 4
 | 2
 | -
@@ -104,7 +104,7 @@ Categories:
 | +5
 | +5
 | +2
-| CLASS="gauche" | [Don de travail en équipe](./Chasseur.md#DONEQUIPE)
+| CLASS="gauche" | [[Chasseur#DONEQUIPE|Don de travail en équipe]]
 | 4
 | 3
 | -
@@ -117,7 +117,7 @@ Categories:
 | +5
 | +5
 | +2
-| CLASS="gauche" | [Tour supplémentaire](./Chasseur.md#TOURSUPPLEMENTAIRE)
+| CLASS="gauche" | [[Chasseur#TOURSUPPLEMENTAIRE|Tour supplémentaire]]
 | 4
 | 3
 | 1
@@ -130,7 +130,7 @@ Categories:
 | +6
 | +6
 | +2
-| CLASS="gauche" | 2ème [Imitation animale](./Chasseur.md#DEUXIEMEIMITATIONANIMALE), [pistage accéléré](./Chasseur.md#PISTAGEACCELERE)
+| CLASS="gauche" | 2ème [[Chasseur#DEUXIEMEIMITATIONANIMALE|Imitation animale]], [[Chasseur#PISTAGEACCELERE|pistage accéléré]]
 | 4
 | 4
 | 2
@@ -143,7 +143,7 @@ Categories:
 | +6
 | +6
 | +3
-| CLASS="gauche" | [Don de travail en équipe](./Chasseur.md#DONEQUIPE)
+| CLASS="gauche" | [[Chasseur#DONEQUIPE|Don de travail en équipe]]
 | 5
 | 4
 | 3
@@ -156,7 +156,7 @@ Categories:
 | +7
 | +7
 | +3
-| CLASS="gauche" | [Rappel de compagnon animal](./Chasseur.md#RAPPELDECOMPAGNONANIMAL)
+| CLASS="gauche" | [[Chasseur#RAPPELDECOMPAGNONANIMAL|Rappel de compagnon animal]]
 | 5
 | 4
 | 3
@@ -169,7 +169,7 @@ Categories:
 | +7
 | +7
 | +3
-| CLASS="gauche" | [Communication avec le maître](./Chasseur.md#COMMUNICATIONAVECLEMAITRE)
+| CLASS="gauche" | [[Chasseur#COMMUNICATIONAVECLEMAITRE|Communication avec le maître]]
 | 5
 | 4
 | 4
@@ -182,7 +182,7 @@ Categories:
 | +8
 | +8
 | +4
-| CLASS="gauche" | [Don de travail en équipe](./Chasseur.md#DONEQUIPE)
+| CLASS="gauche" | [[Chasseur#DONEQUIPE|Don de travail en équipe]]
 | 5
 | 5
 | 4
@@ -195,7 +195,7 @@ Categories:
 | +8
 | +8
 | +4
-| CLASS="gauche" | [Tour supplémentaire](./Chasseur.md#TOURSUPPLEMENTAIRE)
+| CLASS="gauche" | [[Chasseur#TOURSUPPLEMENTAIRE|Tour supplémentaire]]
 | 5
 | 5
 | 4
@@ -208,7 +208,7 @@ Categories:
 | +9
 | +9
 | +4
-| CLASS="gauche" | [Lien empathique supérieur](./Chasseur.md#LIENEMPATHIQUE)
+| CLASS="gauche" | [[Chasseur#LIENEMPATHIQUE|Lien empathique supérieur]]
 | 5
 | 5
 | 4
@@ -221,7 +221,7 @@ Categories:
 | +9
 | +9
 | +5
-| CLASS="gauche" | [Don de travail en équipe](./Chasseur.md#DONEQUIPE)
+| CLASS="gauche" | [[Chasseur#DONEQUIPE|Don de travail en équipe]]
 | 5
 | 5
 | 5
@@ -247,7 +247,7 @@ Categories:
 | +10
 | +10
 | +5
-| CLASS="gauche" | [Faire un avec la vie sauvage](./Chasseur.md#FAIREUNAVECLAVIESAUVAGE)
+| CLASS="gauche" | [[Chasseur#FAIREUNAVECLAVIESAUVAGE|Faire un avec la vie sauvage]]
 | 5
 | 5
 | 5
@@ -260,7 +260,7 @@ Categories:
 | +11
 | +11
 | +6
-| CLASS="gauche" | [Don de travail en équipe](./Chasseur.md#DONEQUIPE)
+| CLASS="gauche" | [[Chasseur#DONEQUIPE|Don de travail en équipe]]
 | 5
 | 5
 | 5
@@ -273,7 +273,7 @@ Categories:
 | +11
 | +11
 | +6
-| CLASS="gauche" | [Tour supplémentaire](./Chasseur.md#TOURSUPPLEMENTAIRE)
+| CLASS="gauche" | [[Chasseur#TOURSUPPLEMENTAIRE|Tour supplémentaire]]
 | 5
 | 5
 | 5
@@ -286,7 +286,7 @@ Categories:
 | +12
 | +12
 | +6
-| CLASS="gauche" | [Maître chasseur](./Chasseur.md#MAITRECHASSEUR)
+| CLASS="gauche" | [[Chasseur#MAITRECHASSEUR|Maître chasseur]]
 | 5
 | 5
 | 5
@@ -298,7 +298,7 @@ Categories:
 {s:ImageDroite|Illustrations/PNJ/Adowyn.jpg|30%}
 **Rôle.** Les chasseurs adaptent leurs tactiques à de nombreux adversaires et adorent leur compagnon animal qui bénéficie d’un entraînement très poussé. À eux deux, le chasseur et son compagnon sont capables de réagir très vite face au danger et sont donc d’excellents éclaireurs, explorateurs et saboteurs.
 
-**Classes mères.** [Druide](./Druide.md) et [rôdeur](./Rôdeur.md).
+**Classes mères.** [[Druide]] et [[rôdeur]].
 
 **Alignement.** N’importe quel alignement comportant au moins une composante Neutre.
 
@@ -307,9 +307,9 @@ Categories:
 **Argent de départ.** 4d6 x 10 po (moyenne 140 po).
 
 ### Compétences de classe
-Voici les compétences de classe du chasseur : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Connaissances](./Connaissances.md) (exploration souterraine) (Int), [Connaissances](./Connaissances.md) (géographie) (Int), [Connaissances](./Connaissances.md) (nature) (Int), [Discrétion](./Discrétion.md) (Dex), [Dressage](./Dressage.md) (Cha), [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Intimidation](./Intimidation.md) (Cha), [Natation](./Natation.md) (For), [Perception](./Perception.md) (Sag), [Premiers secours](./Premiers secours.md) (Sag), [Profession](./Profession.md) (Sag) et [Survie](./Survie.md) (Sag).
+Voici les compétences de classe du chasseur : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Connaissances]] (exploration souterraine) (Int), [[Connaissances]] (géographie) (Int), [[Connaissances]] (nature) (Int), [[Discrétion]] (Dex), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Intimidation]] (Cha), [[Natation]] (For), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Profession]] (Sag) et [[Survie]] (Sag).
 
-**Points de compétence par niveau.** 6 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 6 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
 Voici les aptitudes de classe du chasseur.
@@ -369,20 +369,20 @@ Le chasseur est formé au maniement de toutes les armes courantes et de guerre a
 |}
 </div></div>
 #### Sorts
-Le chasseur lance des sorts divins tirés des [listes du druide](./Liste des sorts de druides.md) et [du rôdeur](./Liste des sorts de rôdeurs.md) (Voir la [liste des sorts de chasseur](./Liste des sorts de chasseur.md) qui les regroupe). La liste de sorts du chasseur comprend seulement les sorts de druide de niveau 6 et moins et les sorts de rôdeur. Si un sort apparaît à la fois sur la liste du druide et sur celle du rôdeur, le chasseur l’utilise au niveau le plus  bas.
-- Prenons l’exemple de *[rapetissement d’animal](./Rapetissement danimal.md)* qui est un sort de druide de niveau 2 et un sort de rôdeur de niveau 3. Pour un chasseur, c’est un sort de niveau 2. De même, *[détection du poison](./Détection du poison.md)* est un sort de druide de niveau 0 et de rôdeur de niveau 2, c’est donc un sort de chasseur de niveau 0.
+Le chasseur lance des sorts divins tirés des [[Liste des sorts de druides|listes du druide]] et [[Liste des sorts de rôdeurs|du rôdeur]] (Voir la [[liste des sorts de chasseur]] qui les regroupe). La liste de sorts du chasseur comprend seulement les sorts de druide de niveau 6 et moins et les sorts de rôdeur. Si un sort apparaît à la fois sur la liste du druide et sur celle du rôdeur, le chasseur l’utilise au niveau le plus  bas.
+- Prenons l’exemple de *[[rapetissement danimal|rapetissement d’animal]]* qui est un sort de druide de niveau 2 et un sort de rôdeur de niveau 3. Pour un chasseur, c’est un sort de niveau 2. De même, *[[détection du poison]]* est un sort de druide de niveau 0 et de rôdeur de niveau 2, c’est donc un sort de chasseur de niveau 0.
 
-Le chasseur peut lancer un sort connu sans le préparer à l’avance. Pour apprendre ou lancer un sort, le chasseur doit avoir une valeur de [Sagesse](./Sagesse.md) d’au moins 10 + niveau du sort. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) contre un sort de chasseur est de 10 + niveau du sort + modificateur de Sagesse du chasseur.
+Le chasseur peut lancer un sort connu sans le préparer à l’avance. Pour apprendre ou lancer un sort, le chasseur doit avoir une valeur de [[Sagesse]] d’au moins 10 + niveau du sort. Le [[DD]] du [[jet de sauvegarde]] contre un sort de chasseur est de 10 + niveau du sort + modificateur de Sagesse du chasseur.
 
-Le chasseur ne peut pas utiliser d’objets magiques à fin d’incantation ou à potentiel magique contenant des sorts de druide de niveau 7 ou plus, à moins de réussir un test d’[Utilisation d’objets magiques](./Utilisation dObjets Magiques.md).
+Le chasseur ne peut pas utiliser d’objets magiques à fin d’incantation ou à potentiel magique contenant des sorts de druide de niveau 7 ou plus, à moins de réussir un test d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]].
 
 Son alignement risque de l’empêcher de lancer certains sorts opposés à sa morale ou à son éthique. Consultez les sorts Chaotiques, Mauvais, Bons et Loyaux, plus loin.
 
-Comme les autres lanceurs de sorts, le chasseur dispose d’un nombre limité de sorts quotidiens. Ce nombre figure dans la table du chasseur. De plus, il reçoit des emplacements de sorts supplémentaires s’il possède une valeur de [Sagesse](./Sagesse.md) élevée.
+Comme les autres lanceurs de sorts, le chasseur dispose d’un nombre limité de sorts quotidiens. Ce nombre figure dans la table du chasseur. De plus, il reçoit des emplacements de sorts supplémentaires s’il possède une valeur de [[Sagesse]] élevée.
 
 Le choix des sorts du chasseur est très restreint, contrairement à celui du druide ou du rôdeur. Au début du jeu, le chasseur connaît quatre sorts de niveau 0 et deux de niveau 1. À chaque fois qu’il gagne un niveau dans sa classe, il apprend un ou plusieurs sorts nouveaux, comme indiqué dans la table des sorts de chasseur connus ci-contre. La Sagesse n’affecte pas le nombre de sorts de chasseur connus, contrairement à son nombre de sorts quotidiens. Les valeurs de la table ci-contre sont fixes.
 
-Chaque chasseur apprend automatiquement, en plus des sorts qu’il gagne à chaque niveau, tous les sorts de *[convocation d’alliés naturels](./Convocation dalliés naturels.md)*. Il les ajoute à sa liste de sorts dès qu’il est capable de les lancer.
+Chaque chasseur apprend automatiquement, en plus des sorts qu’il gagne à chaque niveau, tous les sorts de *[[convocation dalliés naturels|convocation d’alliés naturels]]*. Il les ajoute à sa liste de sorts dès qu’il est capable de les lancer.
 
 Au niveau 5 puis tous les trois niveaux, le chasseur peut remplacer un sort qu’il connaît par un autre. En pratique, il oublie l’ancien sort et ajoute le nouveau. Le nouveau sort doit être du même niveau que celui qu’il remplace. Le chasseur ne peut échanger qu’un seul sort à chaque fois qu’il en a l’occasion et doit le faire (ou non) quand il obtient ses nouveaux sorts connus lorsqu’il gagne un niveau. Il ne peut pas échanger les sorts de convocation d’alliés naturels.
 
@@ -397,71 +397,71 @@ Un chasseur ne peut pas lancer des sorts d’un alignement opposé au sien ou à
 
 {s:Reference|COMPAGNONANIMAL}
 #### Compagnon animal (Ext)
-Au niveau 1, le chasseur tisse un lien avec un [compagnon animal](./Compagnons animaux.md). Il commence le jeu avec n’importe quel compagnon animal disponible pour les [druides](./Druide.md). C’est un fidèle camarade qui l’accompagne dans toutes ses aventures.
+Au niveau 1, le chasseur tisse un lien avec un [[Compagnons animaux|compagnon animal]]. Il commence le jeu avec n’importe quel compagnon animal disponible pour les [[Druide|druides]]. C’est un fidèle camarade qui l’accompagne dans toutes ses aventures.
 
-Ce pouvoir fonctionne comme le compagnon animal du druide (qui fait partie du pouvoir de druide [pacte avec la nature](./Druide.md#PACTEAVECLANATURE)).
+Ce pouvoir fonctionne comme le compagnon animal du druide (qui fait partie du pouvoir de druide [[Druide#PACTEAVECLANATURE|pacte avec la nature]]).
 
 Le chasseur a un niveau effectif de druide égal à son niveau de chasseur. Si le personnage a droit à un compagnon animal grâce à plusieurs classes, ses niveaux effectifs de druide se cumulent quand il s’agit de déterminer les statistiques et les pouvoirs de son compagnon.
 
-Le chasseur peut enseigner à son compagnon les tours de l’archétype de [tirailleur](./Tirailleur (rôdeur).md) au lieu des tours habituels. Le compagnon animal peut utiliser ces tours lorsqu'on lui en donne l'ordre un nombre de fois par jour égal à la moitié de ses [DV](./../Ressources/DV.md) plus son modificateur de [Sagesse](./Sagesse.md).
+Le chasseur peut enseigner à son compagnon les tours de l’archétype de [[Tirailleur (rôdeur)|tirailleur]] au lieu des tours habituels. Le compagnon animal peut utiliser ces tours lorsqu'on lui en donne l'ordre un nombre de fois par jour égal à la moitié de ses [[DV]] plus son modificateur de [[Sagesse]].
 
-Si le chasseur libère son compagnon de ses obligations ou si le compagnon périt, le chasseur peut s’attacher les services d’un autre en priant sans interruption lors d’une cérémonie de 24 heures dans l’environnement où vit le compagnon recherché. Tant que le compagnon animal du chasseur est mort, tous les animaux qu’il convoque avec *[convocation d’alliés naturels](./Convocation dalliés naturels.md)* restent avec lui une minute par niveau au lieu d’un round par niveau. Le chasseur ne peut avoir qu’un seul sort de convocation d’alliés naturels ainsi actif à la fois. S’il utilise de nouveau ce pouvoir, la convocation d’alliés naturels précédente prend fin immédiatement.
+Si le chasseur libère son compagnon de ses obligations ou si le compagnon périt, le chasseur peut s’attacher les services d’un autre en priant sans interruption lors d’une cérémonie de 24 heures dans l’environnement où vit le compagnon recherché. Tant que le compagnon animal du chasseur est mort, tous les animaux qu’il convoque avec *[[convocation dalliés naturels|convocation d’alliés naturels]]* restent avec lui une minute par niveau au lieu d’un round par niveau. Le chasseur ne peut avoir qu’un seul sort de convocation d’alliés naturels ainsi actif à la fois. S’il utilise de nouveau ce pouvoir, la convocation d’alliés naturels précédente prend fin immédiatement.
 
 {s:Reference|IMITATIONANIMALE}
 #### Imitation animale (Sur)
-Au niveau 1, le chasseur peut prendre l’aspect d’un animal par une [action rapide](./Action rapide.md). Il doit choisir le type d’animal à imiter et gagne un bonus ou un pouvoir spécial basé sur ce type d’animal et sur son niveau de chasseur. Chaque jour, le chasseur peut utiliser ce pouvoir un nombre de minutes égal à son niveau. Il n’est pas obligé de dépenser toute la durée de l’aptitude en une seule fois mais il doit la découper en fragments d’une minute au minimum. Le chasseur ne peut imiter qu’un animal à la fois.
+Au niveau 1, le chasseur peut prendre l’aspect d’un animal par une [[action rapide]]. Il doit choisir le type d’animal à imiter et gagne un bonus ou un pouvoir spécial basé sur ce type d’animal et sur son niveau de chasseur. Chaque jour, le chasseur peut utiliser ce pouvoir un nombre de minutes égal à son niveau. Il n’est pas obligé de dépenser toute la durée de l’aptitude en une seule fois mais il doit la découper en fragments d’une minute au minimum. Le chasseur ne peut imiter qu’un animal à la fois.
 
-Le chasseur peut également appliquer un aspect à son compagnon animal. Sur le compagnon, l’imitation n’a pas de limite de durée, contrairement à ce qui se passe avec le chasseur. Quand l’imitation s’applique ainsi, elle n’est pas décomptée de la durée quotidienne accordée au chasseur, elle reste effective jusqu’à ce que le chasseur la change. Le compagnon peut revêtir le même aspect que le chasseur ou en prendre un autre. Le chasseur peut choisir ou changer les imitations actives sur sa personne et sur son compagnon au cours de la même [action rapide](./Action rapide.md).
+Le chasseur peut également appliquer un aspect à son compagnon animal. Sur le compagnon, l’imitation n’a pas de limite de durée, contrairement à ce qui se passe avec le chasseur. Quand l’imitation s’applique ainsi, elle n’est pas décomptée de la durée quotidienne accordée au chasseur, elle reste effective jusqu’à ce que le chasseur la change. Le compagnon peut revêtir le même aspect que le chasseur ou en prendre un autre. Le chasseur peut choisir ou changer les imitations actives sur sa personne et sur son compagnon au cours de la même [[action rapide]].
 
 Si le compagnon animal du chasseur meurt, ce dernier peut appliquer l’imitation animale de son compagnon à sa personne, en plus de celle dont il bénéficie normalement. Comme sur le compagnon, elle reste active jusqu’à ce qu’il en change au lieu d’être décomptée de sa durée quotidienne.
-- **Cerf.** La créature gagne un bonus d’altération de 1,50 mètre (1 {s:c}) à la [vitesse de déplacement](./VD.md) de base au sol. Ce bonus passe à 3 mètres (2 {s:c}) au niveau 8 et à 6 mètres (4 {s:c}) au niveau 15.
-- **Chauve-souris.** La créature gagne [vision dans le noir](./vision dans le noir.md) à 18 mètres (12 {s:c}). Au niveau 8, la portée augmente de 9 mètres (18 {s:c}). Au niveau 15, la créature gagne également [perception aveugle](./perception aveugle.md) à 3 mètres (2 {s:c}).
-- **Faucon.** La créature gagne un bonus de compétence de +4 aux tests de [Perception](./Perception.md). Ce bonus passe à +6 au niveau 8 et à +8 au niveau 15.
-- **Grenouille.** La créature gagne un bonus de compétence de +4 aux tests de [Natation](./Natation.md) et aux tests d’[Acrobaties](./Acrobaties.md) pour sauter. Ces bonus passent à +6 au niveau 8 et à +8 au niveau 15. 
-- **Hibou.** La créature gagne un bonus de compétence de +4 aux tests de [Discrétion](./Discrétion.md). Ce bonus passe à +6 au niveau 8 et à +8 au niveau 15.
-- **Loup.** La créature gagne le pouvoir [odorat](./odorat.md) à 3 mètres (2 {s:c}). La portée de l’odorat passe à 6 mètres (4 {s:c}) au niveau 8 et à 9 mètres (6 {s:c}) au niveau 15. La portée double si l’adversaire est contre le vent et se réduit de moitié s’il est dans le sens du vent.
-- **Ours.** La créature gagne un bonus d’altération de +2 à la [Constitution](./Constitution.md). Ce bonus passe à +4 au niveau 8 et à +6 au niveau 15.
-- **Serpent.** La créature gagne un bonus de +2 aux [jets d’attaque](./jet dattaque.md) quand elle effectue une [attaque d’opportunité](./AO.md) et un bonus d’esquive de +2 à la [CA](./CA.md) quand elle en est victime. Ces bonus passent à +4 au niveau 8 et +6 au niveau 15.
-- **Singe.** La créature gagne un bonus de compétence de +4 aux tests d’[Escalade](./Escalade.md). Ce bonus passe à +6 au niveau 8 et à +8 au niveau 15.
-- **Souris.** La créature gagne [esquive totale](./Roublard.md#ESQUIVETOTALE), comme l’aptitude de classe de [roublard](./Roublard.md). Au niveau 12, la créature gagne à la place [esquive extraordinaire](./Talents.md#ESQUIVEEXTRAORDINAIRE), comme le talent de maître roublard.
-- **Taureau.** La créature gagne un bonus d’altération de +2 à la [Force](./Force.md). Ce bonus passe à +4 au niveau 8 et à +6 au niveau 15.
-- **Tigre.** La créature gagne un bonus d’altération de +2 à la [Dextérité](./Dextérité.md). Ce bonus passe à +4 au niveau 8 et à +6 au niveau 15.
+- **Cerf.** La créature gagne un bonus d’altération de 1,50 mètre (1 {s:c}) à la [[VD|vitesse de déplacement]] de base au sol. Ce bonus passe à 3 mètres (2 {s:c}) au niveau 8 et à 6 mètres (4 {s:c}) au niveau 15.
+- **Chauve-souris.** La créature gagne [[vision dans le noir]] à 18 mètres (12 {s:c}). Au niveau 8, la portée augmente de 9 mètres (18 {s:c}). Au niveau 15, la créature gagne également [[perception aveugle]] à 3 mètres (2 {s:c}).
+- **Faucon.** La créature gagne un bonus de compétence de +4 aux tests de [[Perception]]. Ce bonus passe à +6 au niveau 8 et à +8 au niveau 15.
+- **Grenouille.** La créature gagne un bonus de compétence de +4 aux tests de [[Natation]] et aux tests d’[[Acrobaties]] pour sauter. Ces bonus passent à +6 au niveau 8 et à +8 au niveau 15. 
+- **Hibou.** La créature gagne un bonus de compétence de +4 aux tests de [[Discrétion]]. Ce bonus passe à +6 au niveau 8 et à +8 au niveau 15.
+- **Loup.** La créature gagne le pouvoir [[odorat]] à 3 mètres (2 {s:c}). La portée de l’odorat passe à 6 mètres (4 {s:c}) au niveau 8 et à 9 mètres (6 {s:c}) au niveau 15. La portée double si l’adversaire est contre le vent et se réduit de moitié s’il est dans le sens du vent.
+- **Ours.** La créature gagne un bonus d’altération de +2 à la [[Constitution]]. Ce bonus passe à +4 au niveau 8 et à +6 au niveau 15.
+- **Serpent.** La créature gagne un bonus de +2 aux [[jet dattaque|jets d’attaque]] quand elle effectue une [[AO|attaque d’opportunité]] et un bonus d’esquive de +2 à la [[CA]] quand elle en est victime. Ces bonus passent à +4 au niveau 8 et +6 au niveau 15.
+- **Singe.** La créature gagne un bonus de compétence de +4 aux tests d’[[Escalade]]. Ce bonus passe à +6 au niveau 8 et à +8 au niveau 15.
+- **Souris.** La créature gagne [[Roublard#ESQUIVETOTALE|esquive totale]], comme l’aptitude de classe de [[roublard]]. Au niveau 12, la créature gagne à la place [[Talents#ESQUIVEEXTRAORDINAIRE|esquive extraordinaire]], comme le talent de maître roublard.
+- **Taureau.** La créature gagne un bonus d’altération de +2 à la [[Force]]. Ce bonus passe à +4 au niveau 8 et à +6 au niveau 15.
+- **Tigre.** La créature gagne un bonus d’altération de +2 à la [[Dextérité]]. Ce bonus passe à +4 au niveau 8 et à +6 au niveau 15.
 
 {s:Reference|ENTRAINEMENTNATUREL}
 #### Entraînement naturel (Ext)
-Le personnage considère ses niveaux de chasseur comme des niveaux de druide et de rôdeur quand il s’agit de remplir les conditions requises par des [dons](./Dons.md), des [traits](./Traits.md) et des options qui modifient ou améliorent le [compagnon animal](./Compagnons animaux.md).
+Le personnage considère ses niveaux de chasseur comme des niveaux de druide et de rôdeur quand il s’agit de remplir les conditions requises par des [[dons]], des [[traits]] et des options qui modifient ou améliorent le [[Compagnons animaux|compagnon animal]].
 
 {s:Reference|EMPATHIESAUVAGE}
 #### Empathie sauvage (Ext)
-Le chasseur peut améliorer l’attitude initiale d’un animal. Ce pouvoir fonctionne comme un test de [Diplomatie](./Diplomatie.md) pour améliorer l’attitude d’une personne. Le chasseur lance 1d20 et ajoute son niveau de chasseur et son modificateur de [Charisme](./Charisme.md) pour déterminer le résultat du test d’empathie. Un animal domestique est le plus souvent indifférent tandis que les animaux sauvages sont généralement inamicaux.
+Le chasseur peut améliorer l’attitude initiale d’un animal. Ce pouvoir fonctionne comme un test de [[Diplomatie]] pour améliorer l’attitude d’une personne. Le chasseur lance 1d20 et ajoute son niveau de chasseur et son modificateur de [[Charisme]] pour déterminer le résultat du test d’empathie. Un animal domestique est le plus souvent indifférent tandis que les animaux sauvages sont généralement inamicaux.
 
 Pour utiliser l’empathie sauvage, le chasseur et l’animal doivent se trouver à 9 mètres (6 {s:c}) ou moins l’un de l’autre, dans des conditions normales.
 
 Il faut habituellement une minute pour influencer ainsi un animal mais, comme avec les gens, cela peut prendre plus ou moins longtemps.
 
-Le chasseur peut aussi utiliser ce pouvoir pour influencer une [créature magique](./type Créature magique.md) dotée d’une [Intelligence](./Intelligence.md) de 1 ou 2, mais en subissant un malus de –4 au test.
+Le chasseur peut aussi utiliser ce pouvoir pour influencer une [[Type créature magique|créature magique]] dotée d’une [[Intelligence]] de 1 ou 2, mais en subissant un malus de –4 au test.
 
 {s:Reference|COMPAGNONPRECIS}
 #### Compagnon précis (Ext)
-Au niveau 2, le chasseur choisit [Tir de précision](./Tir de précision.md) ou [Grande tenaille](./Grande tenaille.md) comme don supplémentaire. Il n’a pas besoin de remplir les conditions requises. S’il choisit [Grande tenaille](./Grande tenaille.md), son compagnon animal bénéficie automatiquement du même don.
+Au niveau 2, le chasseur choisit [[Tir de précision]] ou [[Grande tenaille]] comme don supplémentaire. Il n’a pas besoin de remplir les conditions requises. S’il choisit [[Grande tenaille]], son compagnon animal bénéficie automatiquement du même don.
 
 {s:Reference|PISTAGE}
 #### Pistage (Ext)
-Au niveau 2, le chasseur ajoute la moitié de son niveau à ses tests de [Survie](./Survie.md) quand il suit une piste.
+Au niveau 2, le chasseur ajoute la moitié de son niveau à ses tests de [[Survie]] quand il suit une piste.
 
 {s:Reference|TACTIQUEDUCHASSEUR}
 #### Tactique du chasseur (Ext)
-Au niveau 3, le chasseur accorde automatiquement tous ses [dons de travail en équipe](./Dons.md#DONEQUIPE) à son compagnon animal. Ce dernier n’a pas besoin de remplir les conditions requises par ces dons.
+Au niveau 3, le chasseur accorde automatiquement tous ses [[Dons#DONEQUIPE|dons de travail en équipe]] à son compagnon animal. Ce dernier n’a pas besoin de remplir les conditions requises par ces dons.
 
 {s:Reference|DONEQUIPE}
 #### Dons de travail en équipe
-Au niveau 3 puis tous les trois niveaux, le chasseur gagne un [don de travail en équipe](./Dons.md#DONEQUIPE) supplémentaire, en plus de ceux qu’il obtient via sa progression normale. Pour choisir un don, il doit remplir les conditions requises.
+Au niveau 3 puis tous les trois niveaux, le chasseur gagne un [[Dons#DONEQUIPE|don de travail en équipe]] supplémentaire, en plus de ceux qu’il obtient via sa progression normale. Pour choisir un don, il doit remplir les conditions requises.
 
-Le chasseur peut, par une [action simple](./Action simple.md), apprendre un nouveau don de travail en équipe supplémentaire à la place du dernier qu’il a appris. En pratique, il perd l’usage du dernier don appris et acquiert le nouveau. Il ne peut changer ainsi que le dernier don appris et doit remplir les conditions requises par le nouveau. Chaque jour, le chasseur peut changer son don de travail en équipe supplémentaire le plus récent, un nombre de fois égal à son modificateur de [Sagesse](./Sagesse.md) (1 au minimum). Dès qu’il gagne un nouveau don de travail en équipe, le précédent devient permanent.
+Le chasseur peut, par une [[action simple]], apprendre un nouveau don de travail en équipe supplémentaire à la place du dernier qu’il a appris. En pratique, il perd l’usage du dernier don appris et acquiert le nouveau. Il ne peut changer ainsi que le dernier don appris et doit remplir les conditions requises par le nouveau. Chaque jour, le chasseur peut changer son don de travail en équipe supplémentaire le plus récent, un nombre de fois égal à son modificateur de [[Sagesse]] (1 au minimum). Dès qu’il gagne un nouveau don de travail en équipe, le précédent devient permanent.
 
 {s:Reference|LIENEMPATHIQUERENFORCE}
 #### Lien empathique renforcé (Sur)
-Au niveau 4, le chasseur tisse un lien empathique avec son compagnon animal. Il fonctionne comme le lien empathique du [familier](./familier.md) mais le chasseur peut aussi voir par les yeux de son compagnon par une [action rapide](./Action rapide.md). Il maintient la connexion aussi longtemps qu’il le désire (tant que son compagnon reste dans un rayon de 1,5 kilomètre) et y met fin par une [action libre](./Action libre.md). Tant que le chasseur maintient cette connexion, il est considéré comme [aveuglé](./Aveuglé.md).
+Au niveau 4, le chasseur tisse un lien empathique avec son compagnon animal. Il fonctionne comme le lien empathique du [[familier]] mais le chasseur peut aussi voir par les yeux de son compagnon par une [[action rapide]]. Il maintient la connexion aussi longtemps qu’il le désire (tant que son compagnon reste dans un rayon de 1,5 kilomètre) et y met fin par une [[action libre]]. Tant que le chasseur maintient cette connexion, il est considéré comme [[aveuglé]].
 
 {s:Reference|DEPLACEMENTFACILITE}
 #### Déplacement facilité (Ext)
@@ -470,7 +470,7 @@ Les ronciers, les buissons et les zones de végétation dense enchantées ou man
 
 {s:Reference|TOURSUPPLEMENTAIRE}
 #### Tours supplémentaires (Ext)
-Au niveau 7 puis tous les six niveaux, le compagnon animal du chasseur apprend un [tour supplémentaire](./Dressage.md) (en plus de ceux qu’il obtient grâce au niveau de druide effectif du chasseur).
+Au niveau 7 puis tous les six niveaux, le compagnon animal du chasseur apprend un [[Dressage|tour supplémentaire]] (en plus de ceux qu’il obtient grâce au niveau de druide effectif du chasseur).
 
 {s:Reference|DEUXIEMEIMITATIONANIMALE}
 #### Deuxième imitation animale (Sur)
@@ -482,11 +482,11 @@ Si le compagnon animal du chasseur est mort et que ce dernier s’est appliqué 
 
 {s:Reference|PISTAGEACCELERE}
 #### Pistage rapide (Ext)
-Au niveau 8, le chasseur peut se déplacer à sa vitesse normale quand il suit une piste, sans subir le malus habituel de –5. Il subit un malus de -10 seulement (au lieu de -20) quand il se déplace au double de sa [vitesse normale](./VD.md) en suivant une piste.
+Au niveau 8, le chasseur peut se déplacer à sa vitesse normale quand il suit une piste, sans subir le malus habituel de –5. Il subit un malus de -10 seulement (au lieu de -20) quand il se déplace au double de sa [[VD|vitesse normale]] en suivant une piste.
 
 {s:Reference|RAPPELDECOMPAGNONANIMAL}
 #### Rappel de compagnon animal (Mag)
-Au niveau 10, le chasseur obtient *[rappel de compagnon animal](./Rappel de compagnon animal.md)* comme pouvoir magique. Ce pouvoir ne s’applique pas uniquement au propre compagnon animal du chasseur. Le chasseur reçoit un niveau négatif permanent quand il utilise ce pouvoir. Il ne peut pas s’en débarrasser (pas même avec *[restauration](./Restauration.md)*) mais il disparaît au bout de 24 heures. Au niveau 16, le pouvoir duplique *[résurrection](./Résurrection.md)* au lieu de *[rappel à la vie](./Rappel à la vie.md)* mais, en dehors de cela, il fonctionne normalement.
+Au niveau 10, le chasseur obtient *[[rappel de compagnon animal]]* comme pouvoir magique. Ce pouvoir ne s’applique pas uniquement au propre compagnon animal du chasseur. Le chasseur reçoit un niveau négatif permanent quand il utilise ce pouvoir. Il ne peut pas s’en débarrasser (pas même avec *[[restauration]]*) mais il disparaît au bout de 24 heures. Au niveau 16, le pouvoir duplique *[[résurrection]]* au lieu de *[[rappel à la vie]]* mais, en dehors de cela, il fonctionne normalement.
 
 {s:Reference|COMMUNICATIONAVECLEMAITRE}
 #### Communication avec le maître (Ext)
@@ -500,10 +500,10 @@ Au niveau 14, la portée du lien empathique entre le chasseur et son compagnon a
 #### Faire un avec la vie sauvage (Ext)
 Au niveau 17, les animaux respectent le chasseur et son compagnon animal ou les craignent s’ils sont plus ou moins du même type que les imitations animales actuelles du couple : chauve-souris pour les chauves-souris, tigre pour les félins, faucon pour les oiseaux, serpent pour les reptiles etc. Aucun animal d’une telle catégorie (pas même les variétés sanguinaires) n’attaque le chasseur ou son compagnon, à moins d’y être contraint par magie ou d’être agressé par le chasseur ou son compagnon.
 
-Le chasseur et son compagnon peuvent tenter de [démoraliser](./Intimidation.md) un animal par une [action rapide](./Action rapide.md), en lançant 1d20 et en ajoutant le niveau de classe du chasseur et son modificateur de [Charisme](./Charisme.md) au résultat pour déterminer le résultat du test d’Intimidation.
+Le chasseur et son compagnon peuvent tenter de [[Intimidation|démoraliser]] un animal par une [[action rapide]], en lançant 1d20 et en ajoutant le niveau de classe du chasseur et son modificateur de [[Charisme]] au résultat pour déterminer le résultat du test d’Intimidation.
 
 {s:Reference|MAITRECHASSEUR}
 #### Maître chasseur (Ext)
-Au niveau 20, le chasseur devient un maître chasseur capable de traquer ses proies avec une facilité déconcertante. Il peut toujours se déplacer à sa vitesse maximale quand il utilise la [Survie](./Survie.md) pour suivre une piste et ce, sans malus.
+Au niveau 20, le chasseur devient un maître chasseur capable de traquer ses proies avec une facilité déconcertante. Il peut toujours se déplacer à sa vitesse maximale quand il utilise la [[Survie]] pour suivre une piste et ce, sans malus.
 
 De plus, à chaque fois qu’il récupère ses emplacements de sorts, il choisit une imitation animale qui sera active sur sa personne pendant toute la journée. Elle vient en plus de ses utilisations de l’aptitude de classe imitation animale (y compris l’imitation supplémentaire dont il peut bénéficier si son compagnon animal est décédé).

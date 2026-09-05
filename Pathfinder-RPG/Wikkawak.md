@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde|Montagnes|froid}
 {s:BDTexte|*Source : Bestiaire 4 p.285*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Pathfinder-RPG.type Humanoïde|Humanoïde] ([Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]) de taille M, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [Pathfinder-RPG.odorat|odorat], [Pathfinder-RPG.vision dans le noir|vision dans le noir] 18 m (12 {s:c}) ; [Pathfinder-RPG.Perception|Perception] +11}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] ([[Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]]) de taille M, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Pathfinder-RPG.odorat|odorat]], [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18 m (12 {s:c}) ; [[Pathfinder-RPG.Perception|Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 13, pris au dépourvu 16 (armure +3, Dex +3, naturelle +3)}
 {s:BDTexte|**pv** 39 (6d8+12)}
@@ -23,12 +23,12 @@ Categories:
 {s:BDTexte|**Corps à corps** hache d’armes, +9 (1d8+7/×3)}
 {s:BDTexte|**Distance** javeline, +7 (1d6+5)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 4 ; concentration +5)}
-{s:BDSorts|(3/jour) — *[extinction des feux](./Extinction des feux.md)*}
+{s:BDSorts|(3/jour) — *[[extinction des feux]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 17, **Con** 15, **Int** 12, **Sag** 13, **Cha** 12}
 {s:BDTexte|**BBA** +4, **BMO** +9, **DMD** 22}
-{s:BDTexte|**Dons** [Aisance](./Aisance.md), [Attaque en puissance](./Attaque en puissance.md) [Maniement d’une arme de guerre](./Maniement dune arme de guerre.md) (hache d’armes)}
-{s:BDTexte|**Compétences** [Pathfinder-RPG.Discrétion|Discrétion] +16, [Escalade](./Escalade.md) +11, [Pathfinder-RPG.Intimidation|Intimidation] +11, [Pathfinder-RPG.Perception|Perception] +11, [Survie](./Survie.md) +7 ; **Modificateurs raciaux** [Pathfinder-RPG.Discrétion|Discrétion] +4, [Pathfinder-RPG.Intimidation|Intimidation] +4, [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Aisance]], [[Attaque en puissance]] [[Maniement dune arme de guerre|Maniement d’une arme de guerre]] (hache d’armes)}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Discrétion|Discrétion]] +16, [[Escalade]] +11, [[Pathfinder-RPG.Intimidation|Intimidation]] +11, [[Pathfinder-RPG.Perception|Perception]] +11, [[Survie]] +7 ; **Modificateurs raciaux** [[Pathfinder-RPG.Discrétion|Discrétion]] +4, [[Pathfinder-RPG.Intimidation|Intimidation]] +4, [[Perception]] +4}
 {s:BDTexte|**Langues** commun, géant, gobelin}
 {s:BDTexte|**Particularités** gros bras, absence de traces}
 {s:BDSousTitre|Écologie}
@@ -36,7 +36,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-6) ou groupe de guerre (7-12 et 3 hommes d’armes de niveau 1 et 1 chef de niveau 3-5)}
 {s:BDTexte|**Trésor** équipement de PNJ (armure de cuir cloutée de maître, hache d’armes, 3 javelines, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Gros bras (Ext).** [Pathfinder-RPG.Intimidation|Intimidation] et [Pathfinder-RPG.Perception|Perception] sont des compétences de classe pour tous les wikkawaks.}
+{s:BDTexte|**Gros bras (Ext).** [[Pathfinder-RPG.Intimidation|Intimidation]] et [[Pathfinder-RPG.Perception|Perception]] sont des compétences de classe pour tous les wikkawaks.}
 </div>
 </td><td><div>*Ce gobelours au corps massif et à la fourrure blanche porte des peaux d’ours et brandit une hache faite de glace et d’os.*
 

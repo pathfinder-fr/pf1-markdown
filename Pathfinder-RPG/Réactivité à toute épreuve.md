@@ -11,12 +11,12 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage est capable de réagir rapidement aux attaques.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise d'armure](./Dons.md#MAITRISEDARMURE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDARMURE|maîtrise d'armure]]
 
-**Conditions.** [BBA](./BBA.md) +6 ou [guerrier](./Guerrier.md) de niveau 4, capacité de classe [entrainement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES), formation au port des armures intermédiaires
+**Conditions.** [[BBA]] +6 ou [[guerrier]] de niveau 4, capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entrainement aux armures]], formation au port des armures intermédiaires
 
-**Avantage.** Une fois par round, quand une créature touche le personnage avec une [attaque d’opportunité](./AO.md), il peut dépenser une de ses [attaques d’opportunité](./AO.md) pour effectuer un [pas de placement](./Pas de placement.md). Le personnage peut utiliser cette capacité même si il a déjà effectué un [pas de placement](./Pas de placement.md).
+**Avantage.** Une fois par round, quand une créature touche le personnage avec une [[AO|attaque d’opportunité]], il peut dépenser une de ses [[AO|attaques d’opportunité]] pour effectuer un [[pas de placement]]. Le personnage peut utiliser cette capacité même si il a déjà effectué un [[pas de placement]].
 
 {s:AMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 3 points d’endurance pour utiliser cette capacité même si une [attaque d’opportunité](./AO.md) effectuée contre lui échoue.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 3 points d’endurance pour utiliser cette capacité même si une [[AO|attaque d’opportunité]] effectuée contre lui échoue.

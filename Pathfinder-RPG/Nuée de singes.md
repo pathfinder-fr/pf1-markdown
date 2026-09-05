@@ -14,23 +14,23 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.222}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) ([nuée](./sous-type nuée.md)) de taille TP, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] ([[sous-type nuée|nuée]]) de taille TP, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)}
 {s:BDTexte|**pv** 22 (3d8+9)}
 {s:BDTexte|**Réf** +8, **Vig** +6, **Vol** +2}
-{s:BDTexte|**Capacités défensives** dégâts des armes divisés par deux, [traits des nuées](./traits des nuées.md) }
+{s:BDTexte|**Capacités défensives** dégâts des armes divisés par deux, [[traits des nuées]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** nuée (2d6 plus distraction)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 0 m (0 {s:c})}
-{s:BDTexte|**Attaques spéciales** [distraction](./Distraction.md) (DD 14)}
+{s:BDTexte|**Attaques spéciales** [[distraction]] (DD 14)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 7, **Dex** 16, **Con** 17, **Int** 2, **Sag** 12, **Cha** 11}
 {s:BDTexte|**BBA** +2, **BMO** —, **DMD** —}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11, [Escalade](./Escalade.md) +10, [Perception](./Perception.md) +5 ; **Modificateurs raciaux** +4 en [Acrobaties](./Acrobaties.md)}
+{s:BDTexte|**Dons** [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11, [[Escalade]] +10, [[Perception]] +5 ; **Modificateurs raciaux** +4 en [[Acrobaties]]}
 {s:BDTexte|**Particularités** nuée coordonnée}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes}

@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Dragon|Collines|Tempéré}
 - *Source : Préview Campaign Setting*
 - **XP** 76 800
-- [Dragon](./type Dragon.md) ([Terre](./sous-type Terre.md)) de taille Gig, CN
+- [[type dragon|Dragon]] ([[sous-type terre|Terre]]) de taille Gig, CN
 - **Init** +2 ; **Sens** vision aveugle 6 cases, vision dans le noir 24 cases, vision nocturne ; Perception +25
 (((Défense)))
 - **CA** 32, contact 9, dépourvu 28 (Dex +2, esquive +1, naturelle +22, taille –4)
@@ -26,13 +26,13 @@ Categories:
 - **Espace** 4 cases ; **Allonge** 5 cases
 - **Attaques spéciales** épines, souffle
 - **Pouvoirs magiques** (NLS 16 ; concentration +20)
-  - 3/jour—*[croissance d'épines](./Croissance dépines.md)* (DD 17), *[pierres acérées](./Pierres acérées.md)* (DD 18), *[télékinésie](./Télékinésie.md)* (DD 19)
-  - 1/jour—*[mur de force](./Mur de force.md)*, *[sphère téléguidée](./Sphère téléguidée.md)* (DD 22)
+  - 3/jour—*[[croissance dépines|croissance d'épines]]* (DD 17), *[[pierres acérées]]* (DD 18), *[[télékinésie]]* (DD 19)
+  - 1/jour—*[[mur de force]]*, *[[sphère téléguidée]]* (DD 22)
 (((Caractéristiques)))
 - **For** 32, **Dex** 25, **Con** 29, **Int** 16, **Sag** 22, **Cha** 19
 - **BBA** +16 ; **BMO** +32 ; **DMD** 44
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Coup fabuleux](./Coup fabuleux.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Science de la bousculade](./Science de la bousculade.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)
-- **Compétences** [Bluff](./Bluff.md) +23, [Connaissances](./Connaissances.md) (ingénierie) +22, [Connaissances](./Connaissances.md) (nature) +22, [Discrétion](./Discrétion.md) +9, [Estimation](./Estimation.md) +22, [Intimidation](./Intimidation.md) +23, [Perception](./Perception.md) +25, [Psychologie](./Psychologie.md) +25, [Vol](./Vol.md) +15
+- **Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Coup fabuleux]], [[Esquive]], [[Frappe décisive]], [[Science de la bousculade]], [[Tir à bout portant]], [[Tir de précision]]
+- **Compétences** [[Bluff]] +23, [[Connaissances]] (ingénierie) +22, [[Connaissances]] (nature) +22, [[Discrétion]] +9, [[Estimation]] +22, [[Intimidation]] +23, [[Perception]] +25, [[Psychologie]] +25, [[Vol]] +15
 - **Langues** commun, draconique
 (((Écologie)))
 - **Environnement** collines tempérées
@@ -40,7 +40,7 @@ Categories:
 - **Trésor** triple
 (((Capacités spéciales)))
 - **Épines (Ext).** Le corps du dragon d'épines est recouvert de longues épines cristallines. Il peut lancer jusqu'à quatre de ces épines en un round en accomplissant une attaque à outrance (ou une seule en une action simple). Les créatures qui attaquent un dragon d'épines avec une arme de corps à corps, une attaque à mains nues ou une arme naturelle doivent réussir un jet de Réflexes de DD 20 pour éviter de subir 2d8+11 points de dégâts de type perforant à cause des épines. Le DD du jet de sauvegarde dépend de la Dextérité.
-- **Parade de rayons (Sur).** Les écailles du dragon d'épines font dévier les rayons et les sorts de *[projectile magique](./Projectile magique.md)* et immunisent donc le dragon contre ces effets. Il y a 30% de chances pour qu'un rayon ainsi dévié soit renvoyé à pleine puissance vers le lanceur de sort ; si cela ne se produit pas, le rayon se dissipe purement et simplement.
+- **Parade de rayons (Sur).** Les écailles du dragon d'épines font dévier les rayons et les sorts de *[[projectile magique]]* et immunisent donc le dragon contre ces effets. Il y a 30% de chances pour qu'un rayon ainsi dévié soit renvoyé à pleine puissance vers le lanceur de sort ; si cela ne se produit pas, le rayon se dissipe purement et simplement.
 - **Souffle (Ext).** En une action simple utilisable une fois tous les 1d4 rounds, un dragon d'épine peut pousser un terrible cri et émettre un torrent dévastateur d'énergie sonique dans un cône de 12 cases. Les créatures situées dans cette zone subissent 20d6 points de dégâts de son et sont assourdies de manière permanente. Un test de Réflexes de DD 27 permet de diviser les dégâts par deux et d'échapper à l'assourdissement. Ces dégâts de son sont particulièrement dangereux pour les créatures artificielles ; celles-ci subissent un malus de –4 au jet de sauvegarde et, si elles ratent ce jet de sauvegarde, elles sont chancelantes pendant 1d4 rounds en plus des autres effets. Le DD du jet de sauvegarde dépend de la Constitution.
 </div>
 

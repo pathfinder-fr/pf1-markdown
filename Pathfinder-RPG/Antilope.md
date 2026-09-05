@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 page 13*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 11 (Dex +3, taille +1)}
 {s:BDTexte|**pv** 6 (1d8+2)}
@@ -23,12 +23,12 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** corne, +1 (1d4)}
-{s:BDTexte|**Attaques spéciales**  [charge puissante](./Charge puissante.md) (corne, 1d4+2)}
+{s:BDTexte|**Attaques spéciales**  [[charge puissante]] (corne, 1d4+2)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 17, **Con** 14, **Int** 2, **Sag** 13, **Cha** 7}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 12 (16 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Course](./Course.md), [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +5}
+{s:BDTexte|**Dons** [[Course]], [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Perception]] +5}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines chaudes ou tempérées}
 {s:BDTexte|**Organisation** solitaire, couple ou troupeau (3-50)}
@@ -42,23 +42,23 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Antilope](./Antilope.md) || 1/2
+| [[Antilope]] || 1/2
 |-
-| [Auroch](./Auroch.md) || 2
+| [[Auroch]] || 2
 |-
-| [Bélier](./Bélier.md) || 1
+| [[Bélier]] || 1
 |-
-| [Bison](./Bison.md) || 4
+| [[Bison]] || 4
 |-
-| [Cerf](./Cerf.md) || 1
+| [[Cerf]] || 1
 |-
-| [Dromadaire](./Dromadaire.md) || 1
+| [[Dromadaire]] || 1
 |-
-| [Élan](./Élan.md) || 1
+| [[Élan]] || 1
 |-
-| [Élan des rivières](./Élan des rivières.md) || 2
+| [[Élan des rivières]] || 2
 |-
-| [Girafe](./Girafe.md) || 3
+| [[Girafe]] || 3
 |}
 </div>*Cet animal gracieux possède de longues pattes fines et une paire de solides cornes pointues, arquées vers l’arrière de sa tête.*
 
@@ -84,13 +84,13 @@ de taille P. Vous pouvez créer des caractéristiques
 pour des antilopes de plus grande taille, pour
 des créatures comme les oryx et les grands
 koudous, en rajoutant 2 DV à l’antilope présentée
-ci-dessus et en [augmentant](./Archétypes-ashx.md#Créature_géante_FP_+B_5) sa catégorie
+ci-dessus et en [[Archétypes.ashx#Créature_géante_FP_+B_5|augmentant]] sa catégorie
 de taille pour la faire passer à M.
 Toutes les antilopes de cette taille
 sont des créatures de FP 1.
 
 #### L'antilope comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 18 m (12 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** corne (1d4) ; **Caractéristiques** For 10, Dex 17, Con 14, Int 2, Sag 13, Cha 5 ; **Particularités** [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 18 m (12 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** corne (1d4) ; **Caractéristiques** For 10, Dex 17, Con 14, Int 2, Sag 13, Cha 5 ; **Particularités** [[vision nocturne]].
 
-**Développement au niveau 4.** **Caractéristiques** For +2, Dex +2, Con +2 ; **Attaques spéciales** [charge puissante](./Charge puissante (capacité).md) (corne, 2d4).
+**Développement au niveau 4.** **Caractéristiques** For +2, Dex +2, Con +2 ; **Attaques spéciales** [[charge puissante (capacité)|charge puissante]] (corne, 2d4).
 </div></td></tr></table>

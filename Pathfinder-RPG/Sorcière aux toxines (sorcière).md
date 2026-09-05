@@ -7,25 +7,25 @@ Categories:
 - Archétype sorcière
 ---
 
-{s:Menuarchétypesorcière}{s:plume}<div class="description">**Source :** People of the River (PotR).</div>*Une sorcière aux toxines se spécialise dans les [poisons](./Poisons.md) - créant de dangereuses mixtures entre la science et la magie, et les appliquant aux armes, pièges, et même à sa magie.*
+{s:Menuarchétypesorcière}{s:plume}<div class="description">**Source :** People of the River (PotR).</div>*Une sorcière aux toxines se spécialise dans les [[poisons]] - créant de dangereuses mixtures entre la science et la magie, et les appliquant aux armes, pièges, et même à sa magie.*
 
 #### Empoisonneuse (Ext)
-Une sorcière aux toxines peut choisir d'accéder à une [découverte](./découvertes.md) d'[alchimiste](./Alchimiste.md) à la place d'un maléfice, maléfice majeur ou grand maléfice, utilisant son niveau de [sorcière](./Sorcière.md) comme niveau d'[alchimiste](./Alchimiste.md). Elle a accès aux découvertes suivantes :
-- **Maléfices** : [poison concentré](./découvertes.md#POISONCONCENTRE), [transformation de poison](./découvertes.md#TRANSFORMATIONDEPOISON), [poison collant](./découvertes.md#POISONCOLLANT).
-- **Maléfices majeurs** : [poison malin](./découvertes.md#POISONMALIN), [chair écoeurante](./découvertes.md#CHAIRECOEURANTE).
-- **Grands maléfices** : [contact empoisonné](./découvertes.md#CONTACTEMPOISONNE) (grande découverte).
+Une sorcière aux toxines peut choisir d'accéder à une [[découvertes|découverte]] d'[[alchimiste]] à la place d'un maléfice, maléfice majeur ou grand maléfice, utilisant son niveau de [[sorcière]] comme niveau d'[[alchimiste]]. Elle a accès aux découvertes suivantes :
+- **Maléfices** : [[découvertes#POISONCONCENTRE|poison concentré]], [[découvertes#TRANSFORMATIONDEPOISON|transformation de poison]], [[découvertes#POISONCOLLANT|poison collant]].
+- **Maléfices majeurs** : [[découvertes#POISONMALIN|poison malin]], [[découvertes#CHAIRECOEURANTE|chair écoeurante]].
+- **Grands maléfices** : [[découvertes#CONTACTEMPOISONNE|contact empoisonné]] (grande découverte).
 
 #### Utilisation du poison
-Au niveau 2, la sorcière aux toxines apprend à utiliser les [poisons](./Poisons.md) et ne risque pas de s’empoisonner accidentellement quand elle enduit une arme.
+Au niveau 2, la sorcière aux toxines apprend à utiliser les [[poisons]] et ne risque pas de s’empoisonner accidentellement quand elle enduit une arme.
 
 #### Paroles venimeuses (Ext)
-Au niveau 2, lorsqu'une sorcière aux toxines vise une cible unique avec un [maléfice](./maléfices.md), elle peut imprégner le maléfice d'un [poison](./Poisons.md) de blessure ou de contact qu'elle tient en main. Le [DD](./DD.md) du maléfice et du poison sont réduits de 2 ; si la cible échoue son jet de résistance au maléfice, elle doit faire un jet de [Vigueur](./Vigueur.md) contre le DD du poison ou être empoisonnée. Au niveau 10, la pénalité au DD du maléfice et du poison passe à -1, et la sorcière peut empoisonner ses maléfices avec des poisons d'ingestion ou d'inhalation également. Ce pouvoir remplace les maléfices de sorcière de niveau 2 et 10.
+Au niveau 2, lorsqu'une sorcière aux toxines vise une cible unique avec un [[maléfices|maléfice]], elle peut imprégner le maléfice d'un [[poisons|poison]] de blessure ou de contact qu'elle tient en main. Le [[DD]] du maléfice et du poison sont réduits de 2 ; si la cible échoue son jet de résistance au maléfice, elle doit faire un jet de [[Vigueur]] contre le DD du poison ou être empoisonnée. Au niveau 10, la pénalité au DD du maléfice et du poison passe à -1, et la sorcière peut empoisonner ses maléfices avec des poisons d'ingestion ou d'inhalation également. Ce pouvoir remplace les maléfices de sorcière de niveau 2 et 10.
 
 #### Maléfices
-Voici les maléfices de sorcière qui viennent compléter l’archétype de sorcière aux toxines : [chaudron](./maléfices.md#Chaudron), [dépérissement](./maléfices.md#Dépérissement), [tremper dans le poison](./maléfices.md#Tremperdanslepoison), [déguisement](./maléfices.md#Déguisement).
+Voici les maléfices de sorcière qui viennent compléter l’archétype de sorcière aux toxines : [[Maléfices#Chaudron|chaudron]], [[Maléfices#Dépérissement|dépérissement]], [[Maléfices#Tremperdanslepoison|tremper dans le poison]], [[Maléfices#Déguisement|déguisement]].
 
 #### Maléfices majeurs
-Voici les maléfices majeurs de sorcière qui viennent compléter l’archétype de sorcière aux toxines : [cuisiner les gens](./maléfices.md#Cuisinerlesgens), [brouet de la sorcière](./maléfices.md#Brouetdelasorcière).
+Voici les maléfices majeurs de sorcière qui viennent compléter l’archétype de sorcière aux toxines : [[Maléfices#Cuisinerlesgens|cuisiner les gens]], [[Maléfices#Brouetdelasorcière|brouet de la sorcière]].
 
 #### Grands maléfices
-Voici les grands maléfices de sorcière qui viennent compléter l’archétype de sorcière aux toxines : [sommeil éternel](./maléfices.md#Sommeiléternel).
+Voici les grands maléfices de sorcière qui viennent compléter l’archétype de sorcière aux toxines : [[Maléfices#Sommeiléternel|sommeil éternel]].

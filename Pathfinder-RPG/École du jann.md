@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Le personnage est très difficile à toucher à cause de ses techniques de combat tourbillonnantes.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), 3 rangs en [Acrobaties](./Acrobaties.md), 3 rangs en [Représentation](./Représentation.md) (danse)
+**Conditions.** [[Science du combat à mains nues]], 3 rangs en [[Acrobaties]], 3 rangs en [[Représentation]] (danse)
 
-**Avantage.** Quand le personnage utilise cette école, il subit un malus à la [CA](./CA.md) de seulement -1 quand il [charge](./charge.md). De plus, s’il est [pris en tenaille](./Pris en tenaille.md), ses adversaires ont un bonus de +1 seulement aux [jets d’attaque](./jet dattaque.md).
+**Avantage.** Quand le personnage utilise cette école, il subit un malus à la [[CA]] de seulement -1 quand il [[charge]]. De plus, s’il est [[pris en tenaille]], ses adversaires ont un bonus de +1 seulement aux [[jet dattaque|jets d’attaque]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage [charge](./charge.md) en utilisant cette école, il peut dépenser 2 points d’endurance pour ne pas subir de malus de charge à la [CA](./CA.md) et se déplacer de 3 mètres supplémentaires lors de la charge.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage [[charge]] en utilisant cette école, il peut dépenser 2 points d’endurance pour ne pas subir de malus de charge à la [[CA]] et se déplacer de 3 mètres supplémentaires lors de la charge.

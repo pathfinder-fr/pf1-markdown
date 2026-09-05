@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Dragon|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 74*}
 - **6 400 PX**
-- [Dragon](./type Dragon.md) ([feu](./sous-type Feu.md)) de taille G, LN
+- [[type dragon|Dragon]] ([[sous-type feu|feu]]) de taille G, LN
 - **Init **+6 ; **Sens **sens draconiques, vision dans les ténèbres ; Perception +15
 (((Défense)))
 - **CA **21, contact 11, pris au dépourvu 19 (Dex +2, naturelle +10, taille -1)
@@ -35,13 +35,13 @@ Categories:
 (((Statistiques)))
 - **For **22, **Dex **15, **Con **16, **Int **15, **Sag **12, **Cha **17
 - **BBA **+11 ; **BMO **+18 ; **DMD **30 (34 contre croc-en-jambe)
-- **Dons **[Attaques multiples](./Attaques multiples.md), [Canalisation rapide](./Canalisation rapide.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Connaissances](./Connaissances.md) (histoire, mystères, nature, plans) +16, [Diplomatie](./Diplomatie.md) +17, [Perception](./Perception.md) +15, [Psychologie](./Psychologie.md) +15, [Vol](./Vol.md) +10
+- **Dons **[[Attaques multiples]], [[Canalisation rapide]], [[Réflexes surhumains]], [[Robustesse]], [[science de linitiative|Science de l’initiative]], [[Volonté de fer]]
+- **Compétences **[[Connaissances]] (histoire, mystères, nature, plans) +16, [[Diplomatie]] +17, [[Perception]] +15, [[Psychologie]] +15, [[Vol]] +10
 - **Langues **céleste, commun, draconique
 - **Particularités **ne respire pas, vol stellaire
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons sidéraux](./Dragon sidéral.md).***</li><li>***Voir la description des [dragons solaires](./Dragon solaire.md).***</li></ul>*Ce majestueux dragon brille comme le soleil. Ses ailes polies luisent de couleurs flamboyantes et une couronne de cornes orne sa tête.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li><li>***Voir la description des [[dragon solaire|dragons solaires]].***</li></ul>*Ce majestueux dragon brille comme le soleil. Ses ailes polies luisent de couleurs flamboyantes et une couronne de cornes orne sa tête.*
 
 Arrogants et fiers, les dragons solaires se considèrent comme les géniteurs de la lumière et de la vie dans l’immensité de l’espace. Ils considèrent toutes les créatures vivantes comme leurs propres créations.
 </div></td></tr></table>

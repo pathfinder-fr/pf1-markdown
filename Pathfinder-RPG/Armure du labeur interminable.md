@@ -10,9 +10,9 @@ Categories:
 
 {s:divin|Droskar|%2fPCUP%2fReligion-PNG%2fDroskar.png}<div class="BD">
 {s:BDTitre|Armure du labeur interminable|{s:ISG}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 3 920 po ; **Poids** 20 kg
+**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Prix** 3 920 po ; **Poids** 20 kg
 (((Description)))
-{s:cs}Cette *[cotte de mailles](./cotte de mailles (armure).md) +1* ressemble à ce que ferait un apprenti nain sans talent : laide, asymétrique et terminée à la hâte plutôt qu'avec soin. Le porteur bénéficie d'un bonus ou d'un malus de chance égal à 1d6-3 aux tests d'[Artisanat](./Artisanat.md) pour fabriquer des armures ou des armes. Ce bonus ou ce malus est déterminé la première fois que le porteur effectue un test d'Artisanat pour déterminer la progression d'une journée de travail. Si le porteur retire l'armure, ce bonus ou ce malus persiste pendant 24 heures supplémentaires. Une fois par jour, le porteur peut utiliser *[arme magique](./Arme magique.md)*.
+{s:cs}Cette *[[cotte de mailles (armure)|cotte de mailles]] +1* ressemble à ce que ferait un apprenti nain sans talent : laide, asymétrique et terminée à la hâte plutôt qu'avec soin. Le porteur bénéficie d'un bonus ou d'un malus de chance égal à 1d6-3 aux tests d'[[Artisanat]] pour fabriquer des armures ou des armes. Ce bonus ou ce malus est déterminé la première fois que le porteur effectue un test d'Artisanat pour déterminer la progression d'une journée de travail. Si le porteur retire l'armure, ce bonus ou ce malus persiste pendant 24 heures supplémentaires. Une fois par jour, le porteur peut utiliser *[[arme magique]]*.
 (((Création)))
-**Conditions** [Création d'armes et armures magiques](./Création darmes et armures magiques.md), *[arme magique](./Arme magique.md)*, *[chance de l'artisan](./Chance de lartisan.md)*, *[malchance de l'artisan](./Malchance de lartisan.md)* ; **Coût** 2 110 po
+**Conditions** [[Création darmes et armures magiques|Création d'armes et armures magiques]], *[[arme magique]]*, *[[chance de lartisan|chance de l'artisan]]*, *[[malchance de lartisan|malchance de l'artisan]]* ; **Coût** 2 110 po
 </div>

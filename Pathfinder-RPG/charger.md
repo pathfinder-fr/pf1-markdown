@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions spéciales#CHARGE
 ---
 
->>> [Actions spéciales#CHARGE](./Actions spéciales.md#CHARGE)
+>>> [[Actions spéciales#CHARGE]]

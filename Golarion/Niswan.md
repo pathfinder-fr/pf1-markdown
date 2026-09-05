@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-Le port de Niswan est la capitale de l'île de [Jalmeray](./Jalmeray.md).
+Le port de Niswan est la capitale de l'île de [[Jalmeray]].
 
 La cité est composée de nombreuses pagodes installées en étages et sur lesquelles des bannières de soies multicolores flottent au vent.
 
-La ville, très cosmopolite, est un point de rencontre pour les voyageurs et les érudits qui s'y rendent depuis tout [Golarion](./Géographie.md), voire même d'au-delà.
+La ville, très cosmopolite, est un point de rencontre pour les voyageurs et les érudits qui s'y rendent depuis tout [[Golarion.géographie|Golarion]], voire même d'au-delà.

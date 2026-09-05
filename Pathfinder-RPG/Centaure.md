@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.39*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille G, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille G, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 11, pris au dépourvu 18 (armure +6, bouclier +2, Dex +2, naturelle +1, taille -1)}
 {s:BDTexte|**pv** 30 (4d10+8)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 14, **Con** 15, **Int** 11, **Sag** 14, **Cha** 12}
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 19 (23 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Course](./Course.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (nature) +4, [Diplomatie](./Diplomatie.md) +5, [Intimidation](./Intimidation.md) +6, [Perception](./Perception.md) +7, [Survie](./Survie.md) +9}
+{s:BDTexte|**Dons** [[Course]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (nature) +4, [[Diplomatie]] +5, [[Intimidation]] +6, [[Perception]] +7, [[Survie]] +9}
 {s:BDTexte|**Langues** commun, elfique, sylvestre}
 {s:BDTexte|**Particularités** armes de taille inférieure}
 {s:BDSousTitre|Écologie}

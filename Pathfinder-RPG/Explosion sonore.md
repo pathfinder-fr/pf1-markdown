@@ -9,10 +9,10 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[son](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [barde](./Barde.md) 4, [magus](./Magus.md) 4, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 4  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[barde]] 4, [[magus]] 4, [[ensorceleur]]/[[magicien]] 4  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-Ce mot effet inflige à la cible 1d6 points de dégâts sonores par [niveau de lanceur](./NLS.md) (maximum 10d6).
+Ce mot effet inflige à la cible 1d6 points de dégâts sonores par [[NLS|niveau de lanceur]] (maximum 10d6).

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Modificateurs de combat#abri total
 ---
 
->>> [Modificateurs de combat#abri total](./Modificateurs de combat.md#abri total)
+>>> [[Modificateurs de combat#abri total]]

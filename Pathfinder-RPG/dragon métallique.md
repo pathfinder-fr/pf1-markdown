@@ -14,19 +14,19 @@ RedirectTo: Dragon
 |- CLASS="titre"
 | Dragons métalliques
 |- CLASS="premier"
-| [Dragon d'airain](./Dragon dairain.md)
+| [[Dragon dairain|Dragon d'airain]]
 |-
-| [Dragon d'argent](./Dragon dargent.md)
+| [[Dragon dargent|Dragon d'argent]]
 |-
-| [Dragon de bronze](./Dragon de bronze.md)
+| [[Dragon de bronze]]
 |-
-| [Dragon de cuivre](./Dragon de cuivre.md)
+| [[Dragon de cuivre]]
 |-
-| [Dragon d'or](./Dragon dor.md)
+| [[Dragon dor|Dragon d'or]]
 |}
 </div></div><div class="description">**Source :** Bestiaire, p.94</div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dragons](./dragon.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dragon|dragons]].***</li></ul>
 
 Les véritables dragons se répartissent en deux grandes catégories : les chromatiques et les métalliques. Les dragons chromatiques, qui sont presque tous maléfiques, ne cherchent qu’à assouvir leur désir insatiable de nourriture, de trésor et de carnage. Les dragons métalliques, généralement bons, ont tendance à protéger les régions dont ils sont responsables.
 
->>> [Dragon](./dragon.md)
+>>> [[Dragon]]

@@ -9,7 +9,7 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:MenuEquipement}Les vêtements et les tenues qui suivent servent aux [PJ](./PJ.md) et aux [PNJ](./PNJ.md) cherchant à s’habiller pour des occasions spéciales, comme pour braver le désert arctique, assister à un gala, jouer les détectives en ville ou pour toute autre situation qui exige un costume spécifique ou en tire profit.
+{s:MenuEquipement}Les vêtements et les tenues qui suivent servent aux [[PJ]] et aux [[PNJ]] cherchant à s’habiller pour des occasions spéciales, comme pour braver le désert arctique, assister à un gala, jouer les détectives en ville ou pour toute autre situation qui exige un costume spécifique ou en tire profit.
 Tous les personnages commencent le jeu avec une tenue d’une valeur de 10 po ou moins. Les vêtements supplémentaires s’achetent normalement.
 
 {s:Reference|1}Les objets marqués d'un <sup>1</sup> pèsent le quart du poids indiqué lorsqu’ils sont fabriqués pour des personnages de taille P.
@@ -20,113 +20,113 @@ Tous les personnages commencent le jeu avec une tenue d’une valeur de 10 po ou
 |- CLASS="titre"
 | Objet || Prix || Poids
 |- CLASS="premier"
-| [↓](./Vêtements.md#Bijoux) [Bijoux](./Bijoux (objet).md) || variable || variable
+| [[Vêtements#Bijoux|↓]] [[Bijoux (objet)|Bijoux]] || variable || variable
 |-
-| [↓](./Vêtements.md#Bottes de velours) [Bottes de velours](./Bottes de velours (objet).md) || 25 po || 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Bottes de velours|↓]] [[Bottes de velours (objet)|Bottes de velours]] || 25 po || 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Bottes ignifugées) [Bottes ignifugées](./Bottes ignifugées (objet).md) || 20 po || 1 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Bottes ignifugées|↓]] [[Bottes ignifugées (objet)|Bottes ignifugées]] || 20 po || 1 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Broche) [Broche](./Broche (objet).md) || variable || —
+| [[Vêtements#Broche|↓]] [[Broche (objet)|Broche]] || variable || —
 |-
-| [↓](./Vêtements.md#Cache-œil) [Cache-œil](./Cache-œil (objet).md) || 1 pa || —
+| [[Vêtements#Cache-œil|↓]] [[Cache-œil (objet)|Cache-œil]] || 1 pa || —
 |-
-| [↓](./Vêtements.md#Camisole de force) [Camisole de force (de maître)](./Camisole de force (objet).md) || 50 po || 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Camisole de force|↓]] [[Camisole de force (objet)|Camisole de force (de maître)]] || 50 po || 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Camisole de force) [Camisole de force (standard)](./Camisole de force (objet).md) || 5 po || 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Camisole de force|↓]] [[Camisole de force (objet)|Camisole de force (standard)]] || 5 po || 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Cape en patchwork) [Cape en patchwork](./Cape en patchwork (objet).md) || 5 po || 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Cape en patchwork|↓]] [[Cape en patchwork (objet)|Cape en patchwork]] || 5 po || 0,25 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Cape parachute) [Cape parachute](./Cape parachute (objet).md) || 100 po || 2 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Cape parachute|↓]] [[Cape parachute (objet)|Cape parachute]] || 100 po || 2 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Cape réversible) [Cape réversible](./Cape réversible (objet).md) || 2 pa–100 po || 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Cape réversible|↓]] [[Cape réversible (objet)|Cape réversible]] || 2 pa–100 po || 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Cape-aile) [Cape-aile](./Cape-aile (objet).md) || 1.200 po || 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Cape-aile|↓]] [[Cape-aile (objet)|Cape-aile]] || 1.200 po || 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Ceintures de chaîne) [Ceintures de chaîne](./Ceintures de chaîne (objet).md) || 15 po || 0,125 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Ceintures de chaîne|↓]] [[Ceintures de chaîne (objet)|Ceintures de chaîne]] || 15 po || 0,125 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Col de protection) [Col de protection](./Col de protection (objet).md) || 10 po || 0,125 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Col de protection|↓]] [[Col de protection (objet)|Col de protection]] || 10 po || 0,125 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Combinaison de plongée) [Combinaison de plongée](./Combinaison de plongée (objet).md) || 10 po || 1 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Combinaison de plongée|↓]] [[Combinaison de plongée (objet)|Combinaison de plongée]] || 10 po || 1 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Costume dartiste) [Costume d'artiste](./Costume dartiste (objet).md) || 3 po || 2 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Costume dartiste|↓]] [[Costume dartiste (objet)|Costume d'artiste]] || 3 po || 2 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Costume de moine) [Costume de moine](./Costume de moine (objet).md) || 5 po || 1 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Costume de moine|↓]] [[Costume de moine (objet)|Costume de moine]] || 5 po || 1 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Costume de prêtre) [Costume de prêtre](./Costume de prêtre (objet).md) || 5 po || 3 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Costume de prêtre|↓]] [[Costume de prêtre (objet)|Costume de prêtre]] || 5 po || 3 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Costume de voleur) [Costume de voleur](./Costume de voleur (objet).md) || 5 po || 1,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Costume de voleur|↓]] [[Costume de voleur (objet)|Costume de voleur]] || 5 po || 1,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Couvre-chef) [Couvre-chef](./Couvre-chef (objet).md) || 1 pa–50 po || 0,25 kg–1 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Couvre-chef|↓]] [[Couvre-chef (objet)|Couvre-chef]] || 1 pa–50 po || 0,25 kg–1 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Crampons) [Crampons](./Crampons (objet).md) || 5 po || 1 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Crampons|↓]] [[Crampons (objet)|Crampons]] || 5 po || 1 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Crespinette) [Crespinette](./Crespinette (objet).md) || 10–100 po || —
+| [[Vêtements#Crespinette|↓]] [[Crespinette (objet)|Crespinette]] || 10–100 po || —
 |-
-| [↓](./Vêtements.md#Écharpe) [Écharpe](./Écharpe (objet).md) || 1 pa–5 po || 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Écharpe|↓]] [[Écharpe (objet)|Écharpe]] || 1 pa–5 po || 0,25 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Écharpe à poches) [Écharpe à poches](./Écharpe à poches (objet).md) || 8 po || 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Écharpe à poches|↓]] [[Écharpe à poches (objet)|Écharpe à poches]] || 8 po || 0,25 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Écharpe renforcée) [Écharpe renforcée](./Écharpe renforcée (objet).md) || 10 po || 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Écharpe renforcée|↓]] [[Écharpe renforcée (objet)|Écharpe renforcée]] || 10 po || 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Fourrures) [Fourrures](./Fourrures (objet).md) || 12 po || 2,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Fourrures|↓]] [[Fourrures (objet)|Fourrures]] || 12 po || 2,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Garniture) [Garniture](./Garniture (objet).md) || 1 pa–50 po || —
+| [[Vêtements#Garniture|↓]] [[Garniture (objet)|Garniture]] || 1 pa–50 po || —
 |-
-| [↓](./Vêtements.md#Gilet) [Gilet](./Gilet (objet).md) || 1 pa-50 po || 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Gilet|↓]] [[Gilet (objet)|Gilet]] || 1 pa-50 po || 0,25 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Habits de dilettante) [Habits de dilettante](./Habits de dilettante (objet).md) || 20 po || 4 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Habits de dilettante|↓]] [[Habits de dilettante (objet)|Habits de dilettante]] || 20 po || 4 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Hennin) [Hennin](./Hennin (objet).md) || 10–100po || 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Hennin|↓]] [[Hennin (objet)|Hennin]] || 10–100po || 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Kilt) [Kilt](./Kilt (objet).md) || 2 pa || 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Kilt|↓]] [[Kilt (objet)|Kilt]] || 2 pa || 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Masque) [Masque](./Masque (objet).md) || 1 pa–50 po || 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Masque|↓]] [[Masque (objet)|Masque]] || 1 pa–50 po || 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Masque de guerre) [Masque de guerre](./Masque de guerre (objet).md) || 50 po || 1 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Masque de guerre|↓]] [[Masque de guerre (objet)|Masque de guerre]] || 50 po || 1 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Masque de monstre) [Masque de monstre](./Masque de monstre (objet).md) || 5–10 po || 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Masque de monstre|↓]] [[Masque de monstre (objet)|Masque de monstre]] || 5–10 po || 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Patins à glace) [Patins à glace](./Patins à glace (objet).md) || 1 po || 1 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Patins à glace|↓]] [[Patins à glace (objet)|Patins à glace]] || 1 po || 1 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Perruque) [Perruque](./Perruque (objet).md) || 5 po–500 po || 0,25 kg–2 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Perruque|↓]] [[Perruque (objet)|Perruque]] || 5 po–500 po || 0,25 kg–2 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Poncho) [Poncho](./Poncho (objet).md) || 5 pa || 1 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Poncho|↓]] [[Poncho (objet)|Poncho]] || 5 pa || 1 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Raquettes) [Raquettes](./Raquettes (objet).md) || 5 po || 2 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Raquettes|↓]] [[Raquettes (objet)|Raquettes]] || 5 po || 2 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Skis) [Skis](./Skis (objet).md) || 5 po || 10 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Skis|↓]] [[Skis (objet)|Skis]] || 5 po || 10 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tabard) [Tabard](./Tabard (objet).md) || 5 po || 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tabard|↓]] [[Tabard (objet)|Tabard]] || 5 po || 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue adaptée à la chaleur) [Tenue adaptée à la chaleur](./Tenue adaptée à la chaleur (objet).md) || 8 po || 2 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue adaptée à la chaleur|↓]] [[Tenue adaptée à la chaleur (objet)|Tenue adaptée à la chaleur]] || 8 po || 2 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue adaptée au froid) [Tenue adaptée au froid](./Tenue adaptée au froid (objet).md) || 8 po || 3,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue adaptée au froid|↓]] [[Tenue adaptée au froid (objet)|Tenue adaptée au froid]] || 8 po || 3,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue dartisan) [Tenue d'artisan](./Tenue dartisan (objet).md) || 1 po || 2 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue dartisan|↓]] [[Tenue dartisan (objet)|Tenue d'artisan]] || 1 po || 2 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue dérudit) [Tenue d'érudit](./Tenue dérudit (objet).md) || 5 po || 3 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue dérudit|↓]] [[Tenue dérudit (objet)|Tenue d'érudit]] || 5 po || 3 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue dexplorateur) [Tenue d'explorateur](./Tenue dexplorateur (objet).md) || 10 po || 4 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue dexplorateur|↓]] [[Tenue dexplorateur (objet)|Tenue d'explorateur]] || 10 po || 4 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue de changement rapide) [Tenue de changement rapide](./Tenue de changement rapide (objet).md) || variable || 2,5 kg
+| [[Vêtements#Tenue de changement rapide|↓]] [[Tenue de changement rapide (objet)|Tenue de changement rapide]] || variable || 2,5 kg
 |-
-| [↓](./Vêtements.md#Tenue de courtisan) [Tenue de courtisan](./Tenue de courtisan (objet).md) || 8 po || 2 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue de courtisan|↓]] [[Tenue de courtisan (objet)|Tenue de courtisan]] || 8 po || 2 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue de noble) [Tenue de noble](./Tenue de noble (objet).md) || 75 po || 5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue de noble|↓]] [[Tenue de noble (objet)|Tenue de noble]] || 75 po || 5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue de paysan) [Tenue de paysan](./Tenue de paysan (objet).md) || 1 pa || 1 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue de paysan|↓]] [[Tenue de paysan (objet)|Tenue de paysan]] || 1 pa || 1 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue de pirate) [Tenue de pirate (élaborée)](./Tenue de pirate (objet).md) || 30 po || 3 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue de pirate|↓]] [[Tenue de pirate (objet)|Tenue de pirate (élaborée)]] || 30 po || 3 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue de pirate) [Tenue de pirate (simple)](./Tenue de pirate (objet).md) || 1 pa || 1 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue de pirate|↓]] [[Tenue de pirate (objet)|Tenue de pirate (simple)]] || 1 pa || 1 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue de voyageur) [Tenue de voyageur](./Tenue de voyageur (objet).md) || 1 po || 2,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue de voyageur|↓]] [[Tenue de voyageur (objet)|Tenue de voyageur]] || 1 po || 2,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Tenue royale) [Tenue royale](./Tenue royale (objet).md) || 200 po || 7,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Tenue royale|↓]] [[Tenue royale (objet)|Tenue royale]] || 200 po || 7,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Uniforme de soldat) [Uniforme de soldat](./Uniforme de soldat (objet).md) || 1 po || 2,5 kg<sup>[1](./Vêtements.md#1)</sup>
+| [[Vêtements#Uniforme de soldat|↓]] [[Uniforme de soldat (objet)|Uniforme de soldat]] || 1 po || 2,5 kg<sup>[[Vêtements#1|1]]</sup>
 |-
-| [↓](./Vêtements.md#Vêtements arrachables) [Vêtements arrachables](./Vêtements arrachables (objet).md) || +5 po || —
+| [[Vêtements#Vêtements arrachables|↓]] [[Vêtements arrachables (objet)|Vêtements arrachables]] || +5 po || —
 |-
 |}
 </div>
@@ -141,16 +141,16 @@ Le prix des bijoux varie grandement en fonction de leur qualité. Beaucoup de cu
 
 {s:racial|Homme-félin (race)|h-félins|Illustrations/PNJ/Homme-félin.jpg}{s:MR}{s:Reference|Bottes de velours}
 #### Bottes de velours
-**Prix** 25 po ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 25 po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Ces bottes douces et très fines sont faites en soie et en cuir spécialement traité. Elles sont spécifiquement conçues pour les pieds des [hommes-félins](./homme-félin (race).md) et s’adaptent à leur morphologie afin d’étouffer les bruits de pas et de réduire les empreintes laissées derrière eux. Lorsqu’il porte ces bottes de velours, l’homme-félin bénéficie d’un bonus de circonstances de +1 à ses tests de [Discrétion](./Discrétion.md). En outre, le [DD](./DD.md) pour repérer ou suivre la piste d’un homme-félin portant ces bottes augmente de +2.
+Ces bottes douces et très fines sont faites en soie et en cuir spécialement traité. Elles sont spécifiquement conçues pour les pieds des [[Homme-félin (race)|hommes-félins]] et s’adaptent à leur morphologie afin d’étouffer les bruits de pas et de réduire les empreintes laissées derrière eux. Lorsqu’il porte ces bottes de velours, l’homme-félin bénéficie d’un bonus de circonstances de +1 à ses tests de [[Discrétion]]. En outre, le [[DD]] pour repérer ou suivre la piste d’un homme-félin portant ces bottes augmente de +2.
 
 
 {s:AE}{s:Reference|Bottes ignifugées}
 #### Bottes ignifugées
-**Prix** 20 po ; **Poids** 1 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 20 po ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Ces lourdes bottes en cuir sont fabriquées avec une couche de poussière de brique qui protège les pieds de la chaleur. Le personnage gagne une [résistance](./Résistance (capacité).md) au feu de 2 contre les attaques de feu visant ses pieds ou venant de dessous, comme lorsqu’il marche sur des charbons ardents. Si les bottes sont exposées aux dégâts de feu de façon répétée ou prolongée, la chaleur finit par brûler la couche de cuir extérieure et par détruire les bottes (généralement après environ 1d10 + 20 [rounds](./round.md) d’exposition).
+Ces lourdes bottes en cuir sont fabriquées avec une couche de poussière de brique qui protège les pieds de la chaleur. Le personnage gagne une [[Résistance (capacité)|résistance]] au feu de 2 contre les attaques de feu visant ses pieds ou venant de dessous, comme lorsqu’il marche sur des charbons ardents. Si les bottes sont exposées aux dégâts de feu de façon répétée ou prolongée, la chaleur finit par brûler la couche de cuir extérieure et par détruire les bottes (généralement après environ 1d10 + 20 [[round|rounds]] d’exposition).
 
 
 {s:AE}{s:Reference|Broche}
@@ -169,91 +169,91 @@ Un cache-oeil couvre un oeil et se noue autour de la tête. Les pirates portent 
 
 {s:AO}{s:Reference|Camisole de force}
 #### Camisole de force
-**Prix** 5 po (standard), 50 po (de maître) ; **Poids** 0,5 kg (standard), 0,5 kg (de maître)<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 po (standard), 50 po (de maître) ; **Poids** 0,5 kg (standard), 0,5 kg (de maître)<sup>[[Vêtements#1|1]]</sup>
 ---
-Fabriqué dans du tissu résistant sur lequel sont cousues des lanières de cuir, cet outil de contention empêche complètement celui qui le porte de bouger les bras. Entraver convenablement une créature avec une camisole de force prend une minute. Cette créature doit être consentante ou sans défense. Le temps nécessaire pour poser la camisole peut être réduit à cinq [rounds](./round.md) mais, dans ce cas, le [DD](./DD.md) pour s’en débarrasser diminue lui aussi de 5. Une créature qui porte une camisole de force est affublée de l’état préjudiciable [agrippé](./Agrippé.md), mais elle peut tout de même se déplacer. Elle doit réussir un test d’[Évasion](./Évasion.md) DD 28 (DD 30 dans le cas d’une camisole de qualité supérieure) si elle souhaite s’en débarrasser.
+Fabriqué dans du tissu résistant sur lequel sont cousues des lanières de cuir, cet outil de contention empêche complètement celui qui le porte de bouger les bras. Entraver convenablement une créature avec une camisole de force prend une minute. Cette créature doit être consentante ou sans défense. Le temps nécessaire pour poser la camisole peut être réduit à cinq [[round|rounds]] mais, dans ce cas, le [[DD]] pour s’en débarrasser diminue lui aussi de 5. Une créature qui porte une camisole de force est affublée de l’état préjudiciable [[agrippé]], mais elle peut tout de même se déplacer. Elle doit réussir un test d’[[Évasion]] DD 28 (DD 30 dans le cas d’une camisole de qualité supérieure) si elle souhaite s’en débarrasser.
 
 
 {s:AE}{s:Reference|Cape en patchwork}
 #### Cape en patchwork
-**Prix** 5 po ; **Poids** 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 po ; **Poids** 0,25 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Ces capes sont très prisées des bardes itinérants et chacune est unique. Les différents morceaux de tissu indiquent où le voyageur est allé et l’artiste les utilisent souvent pour se souvenir des histoires spécifiques de son répertoire. Quand un [barde](./Barde.md) prend sa retraite ou meurt, il lègue souvent sa cape à un jeune artiste qu’il a guidé ou admiré.
+Ces capes sont très prisées des bardes itinérants et chacune est unique. Les différents morceaux de tissu indiquent où le voyageur est allé et l’artiste les utilisent souvent pour se souvenir des histoires spécifiques de son répertoire. Quand un [[Barde]] prend sa retraite ou meurt, il lègue souvent sa cape à un jeune artiste qu’il a guidé ou admiré.
 
 
 {s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}{s:MR}{s:Reference|Cape parachute}
 #### Cape parachute
-**Prix** 100 po ; **Poids** 2 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 100 po ; **Poids** 2 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Cette cape en soie est faite de nombreuses couches superposées cousues par des fils très lâches. Quand elle est exposée à un influx d’air soudain, comme lors d’une [chute](./Dangers naturels.md#CHUTE), elle se déploie comme un parachute rudimentaire. Une créature qui tombe alors qu’elle porte cette cape est traitée comme une créature ayant sauté délibérément. En revanche, dans les zones de [vent violent](./Vents.md), la cape gêne les mouvements. Dans ce cas, le propriétaire de la cape considère tous les terrains comme des [terrains difficiles](./terrain difficile.md) et subit un malus de -4 aux tests de [Vol](./Vol.md). La cape parachute est de conception étrange et fragile, c’est pourquoi seuls les modèles de taille P ou moins sont fonctionnels. Les capes de plus grande taille donnent seulement les malus liés au grand vent, sans aucun avantage en cas de chute.
+Cette cape en soie est faite de nombreuses couches superposées cousues par des fils très lâches. Quand elle est exposée à un influx d’air soudain, comme lors d’une [[Dangers naturels#CHUTE|chute]], elle se déploie comme un parachute rudimentaire. Une créature qui tombe alors qu’elle porte cette cape est traitée comme une créature ayant sauté délibérément. En revanche, dans les zones de [[Vents|vent violent]], la cape gêne les mouvements. Dans ce cas, le propriétaire de la cape considère tous les terrains comme des [[terrain difficile|terrains difficiles]] et subit un malus de -4 aux tests de [[Vol]]. La cape parachute est de conception étrange et fragile, c’est pourquoi seuls les modèles de taille P ou moins sont fonctionnels. Les capes de plus grande taille donnent seulement les malus liés au grand vent, sans aucun avantage en cas de chute.
 
 
 {s:AE}{s:Reference|Cape réversible}
 #### Cape réversible
-**Prix** 2 pa–100 po ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 2 pa–100 po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 L’endroit et l’envers de cette cape sont en tissus de couleurs différentes. On la porte comme vêtement à la mode, pour les représentations théâtrales ou pour changer rapidement d’apparence et se déguiser. Son prix varie en fonction de sa qualité, les capes les moins chères étant tout simplement en lin, les plus chères étant en soie ou bordées de fourrure.
 
 
 {s:racial|Sylphe (race)|sylphes|Illustrations/PNJ/Sylphe.jpg}{s:MR}{s:Reference|Cape-aile}
 #### Cape-aile
-**Prix** 1.200 po ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 1.200 po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Cet étrange équipement ne fonctionne que pour les [sylphes](./Sylphe (race).md) et créatures similaires, dont les vents peuvent porter le corps léger et aérien dans les airs. Ressemblant à une cape de voyageur en belle soie, la cape-aile est secrètement renforcée d’un ensemble d’entretoises en bois qui, maintenues en place, tendent le tissu de la cape pour former une aile rudimentaire. Le fait de disposer les entretoises pour former une aile ou d’inverser le changement coûte une [action de mouvement](./Action de mouvement.md). Lorsque la cape forme une aile, le porteur peut faire un test de [Vol](./Vol.md) [DD](./DD.md) 15 pour tomber sans danger de n’importe quelle hauteur sans recevoir de dégâts de la [chute](./Dangers naturels.md#CHUTE), comme s’il utilisait *[feuille morte](./Feuille morte.md)*. Lorsqu’il tombe, le porteur peut faire un autre test de Vol DD 15 pour planer, avançant latéralement de 1,5 mètre par tranche de 6 mètres de hauteur de chute. Il faut deux mains pour préparer et utiliser la cape-aile et cela provoque une [attaque d’opportunité](./attaque dopportunité.md). La cape-aile a une [solidité](./solidité.md) de 0 et 5 points de vie. Si elle est cassée, le DD du test de Vol augmente de +10.
+Cet étrange équipement ne fonctionne que pour les [[Sylphe (race)|sylphes]] et créatures similaires, dont les vents peuvent porter le corps léger et aérien dans les airs. Ressemblant à une cape de voyageur en belle soie, la cape-aile est secrètement renforcée d’un ensemble d’entretoises en bois qui, maintenues en place, tendent le tissu de la cape pour former une aile rudimentaire. Le fait de disposer les entretoises pour former une aile ou d’inverser le changement coûte une [[action de mouvement]]. Lorsque la cape forme une aile, le porteur peut faire un test de [[Vol]] [[DD]] 15 pour tomber sans danger de n’importe quelle hauteur sans recevoir de dégâts de la [[Dangers naturels#CHUTE|chute]], comme s’il utilisait *[[feuille morte]]*. Lorsqu’il tombe, le porteur peut faire un autre test de Vol DD 15 pour planer, avançant latéralement de 1,5 mètre par tranche de 6 mètres de hauteur de chute. Il faut deux mains pour préparer et utiliser la cape-aile et cela provoque une [[attaque dopportunité|attaque d’opportunité]]. La cape-aile a une [[solidité]] de 0 et 5 points de vie. Si elle est cassée, le DD du test de Vol augmente de +10.
 
 
 {s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}{s:Reference|Ceintures de chaîne}
 #### Ceintures de chaîne
-**Prix** 15 po ; **Poids** 0,125 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 15 po ; **Poids** 0,125 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Si les [ondins](./Ondin (race).md) ne s’habillent que légèrement, ils portent souvent des ceintures de 3 mètres de long se composant d’une fine chaîne nouée autour de la taille. Les ceintures sont pourvues de maillons à charnière auxquels le porteur peut attacher divers objets comme des outils, de petites armes et d’autres objets de valeur, y compris des maillons en argent et en platine, ou de petites plaques en or martelées incrustées de pierres précieuses. Portée correctement, la ceinture peut soutenir jusqu’à 15 kilos de petits objets. Un ondin en train de nager peut défaire la ceinture par une [action rapide](./Action rapide.md) s’il doit l’enlever pour réduire le poids qu’il porte.
+Si les [[Ondin (race)|ondins]] ne s’habillent que légèrement, ils portent souvent des ceintures de 3 mètres de long se composant d’une fine chaîne nouée autour de la taille. Les ceintures sont pourvues de maillons à charnière auxquels le porteur peut attacher divers objets comme des outils, de petites armes et d’autres objets de valeur, y compris des maillons en argent et en platine, ou de petites plaques en or martelées incrustées de pierres précieuses. Portée correctement, la ceinture peut soutenir jusqu’à 15 kilos de petits objets. Un ondin en train de nager peut défaire la ceinture par une [[action rapide]] s’il doit l’enlever pour réduire le poids qu’il porte.
 
 
 {s:racial|Dhampir (race)|dhampirs|Illustrations/PNJ/Dhampir.jpg}{s:MR}{s:Reference|Col de protection}
 #### Col de protection
-**Prix** 10 po ; **Poids** 0,125 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 10 po ; **Poids** 0,125 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Fait de cuir bouilli renforcé d’une bande de métal, ce col protège le porteur contre les morsures de vampire lorsqu’il le porte autour du cou. Il fournit un bonus d’armure de +1 à la [CA](./CA.md) contre les morsures de [vampires](./Vampire.md) ou attaques similaires visant spécifiquement le cou du porteur. Contrairement à la plupart des bonus d’armure, le bonus de +1 du col de protection se cumule avec le bonus d’armure des [armures légères](./armure légère.md) ou [intermédiaires](./armure intermédiaire.md) mais n’offre aucun bonus supplémentaire lorsqu’il est porté avec une armure lourde.
+Fait de cuir bouilli renforcé d’une bande de métal, ce col protège le porteur contre les morsures de vampire lorsqu’il le porte autour du cou. Il fournit un bonus d’armure de +1 à la [[CA]] contre les morsures de [[Vampire|vampires]] ou attaques similaires visant spécifiquement le cou du porteur. Contrairement à la plupart des bonus d’armure, le bonus de +1 du col de protection se cumule avec le bonus d’armure des [[armure légère|armures légères]] ou [[armure intermédiaire|intermédiaires]] mais n’offre aucun bonus supplémentaire lorsqu’il est porté avec une armure lourde.
 
 
 {s:AE}{s:Reference|Combinaison de plongée}
 #### Combinaison de plongée
-**Prix** 10 po ; **Poids** 1 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 10 po ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Cette combinaison faite d’une seule pièce réduit la résistance à l’eau et facilite la nage. Elle donne un bonus de circonstances de +1 aux tests de [Natation](./Natation.md). La combinaison n’accorde ce bonus que si elle est portée par-dessus les éventuels autres habits et elle n’a aucun effet si elle est portée par-dessus des couches épaisses, une armure ou d’autres équipements encombrants (comme un [sac à dos](./Sac à dos (objet).md), de grandes armes, etc.). Les dégâts infligés à la combinaison (comme après plusieurs rounds de combat contre des armes tranchantes ou perforantes) annule le bonus de la combinaison jusqu’à ce qu’elle soit réparée.
+Cette combinaison faite d’une seule pièce réduit la résistance à l’eau et facilite la nage. Elle donne un bonus de circonstances de +1 aux tests de [[Natation]]. La combinaison n’accorde ce bonus que si elle est portée par-dessus les éventuels autres habits et elle n’a aucun effet si elle est portée par-dessus des couches épaisses, une armure ou d’autres équipements encombrants (comme un [[Sac à dos (objet)|sac à dos]], de grandes armes, etc.). Les dégâts infligés à la combinaison (comme après plusieurs rounds de combat contre des armes tranchantes ou perforantes) annule le bonus de la combinaison jusqu’à ce qu’elle soit réparée.
 
 
 {s:AE}{s:Reference|Costume dartiste}
 #### Costume d'artiste
-**Prix** 3 po ; **Poids** 2 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 3 po ; **Poids** 2 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Cet ensemble de vêtements voyants (voire même tape-à-l’œil) est destiné aux artistes. Les costumes d’artiste présentent de nombreux styles différents, du scandaleux au flatteur en passant par l’absurde. Si la tenue semble fantasque, sa conception n’entrave en rien la capacité du personnage à faire des acrobaties, à danser, à jouer les équilibristes ou à courir (si le public devient désagréable).
 
 
 {s:AE}{s:Reference|Costume de moine}
 #### Costume de moine
-**Prix** 5 po ; **Poids** 1 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 po ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Cette tenue très simple comprend des sandales, un pantalon large et une ample chemise, ainsi que de larges ceintures pour maintenir l’ensemble. Ce costume est conçu pour donner au personnage une souplesse maximale et il est fait de tissus de très bonne qualité. On peut dissimuler de petites armes dans les poches qui sont cachées dans les plis et les ceintures sont suffisamment solides pour être utilisées comme de petites cordes.
 
 
 {s:AE}{s:Reference|Costume de prêtre}
 #### Costume de prêtre
-**Prix** 5 po ; **Poids** 3 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 po ; **Poids** 3 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Les [prêtres](./Prêtre.md) portent ces habits de cérémonie quand ils officient dans une église ou un temple, ils ne sont pas adaptés pour l’aventure. Le costume de prêtre comprend généralement une soutane, une étole et un surplis. Sa couleur correspond en général à la divinité adorée et si certains prêtres choisissent des broderies complexes aux thèmes ecclésiastiques, d’autres préfèrent l’humble simplicité.
+Les [[Prêtre|prêtres]] portent ces habits de cérémonie quand ils officient dans une église ou un temple, ils ne sont pas adaptés pour l’aventure. Le costume de prêtre comprend généralement une soutane, une étole et un surplis. Sa couleur correspond en général à la divinité adorée et si certains prêtres choisissent des broderies complexes aux thèmes ecclésiastiques, d’autres préfèrent l’humble simplicité.
 
 
 {s:AE}{s:Reference|Costume de voleur}
 #### Costume de voleur
-**Prix** 5 po ; **Poids** 1,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 po ; **Poids** 1,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Intégrant de nombreuses poches dissimulées, ces vêtements donnent un bonus de +2 aux tests d’[Escamotage](./Escamotage.md) pour cacher les petits objets sur soi.
+Intégrant de nombreuses poches dissimulées, ces vêtements donnent un bonus de +2 aux tests d’[[Escamotage]] pour cacher les petits objets sur soi.
 
 
 {s:AE}{s:Reference|Couvre-chef}
 #### Couvre-chef
-**Prix** 1 pa–50 po ; **Poids** 0,25 kg–1 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 1 pa–50 po ; **Poids** 0,25 kg–1 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Il existe différents types de couvre-chefs dans toutes les cultures. Ils vont du turban au tricorne en passant par la casquette en fourrure, et servent juste à couvrir la tête. Certains groupes religieux ou sociaux imposent le port de couvre-chefs particuliers. Un couvre-chef ayant une véritable utilité pratique, comme un tricorne, coûte généralement 2 pa.  
   
@@ -262,7 +262,7 @@ Il existe différents types de couvre-chefs dans toutes les cultures. Ils vont d
 
 {s:AE}{s:Reference|Crampons}
 #### Crampons
-**Prix** 5 po ; **Poids** 1 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 po ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Les crampons réduisent le malus lié aux déplacements sur les surfaces lisses de 50%. Par exemple, marcher sur la glace coûte normalement 2 cases de mouvement (1 case plus 1 case de malus) pour chaque case de franchie mais avec des crampons, cela ne coûte plus que 1,5 case de mouvement pour un déplacement d’une case. Les crampons infligent des dégâts à tous les types de sols travaillés. Ils peuvent compléter une tenue.
 
@@ -276,30 +276,30 @@ Cette résille ornée en soie, tissée d’or et parée de bijoux, est surtout l
 
 {s:AE}{s:Reference|Écharpe}
 #### Écharpe
-**Prix** 1 pa–5 po ; **Poids** 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 1 pa–5 po ; **Poids** 0,25 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Les artistes utilisent souvent des costumes séduisants et de ravissants accessoires pour leurs spectacles. Les écharpes en soie transparente ou en tissu coloré, souvent brodées de scènes ou de motifs complexes, font partie de leurs accessoires favoris.
 
 
 {s:AE}{s:Reference|Écharpe à poches}
 #### Écharpe à poches
-**Prix** 8 po ; **Poids** 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 8 po ; **Poids** 0,25 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Le style complexe de cette écharpe dissimule les nombreuses petites poches situées sur l’une des faces. Elle accorde un bonus de +4 aux tests d’[Escamotage](./Escamotage.md) pour cacher des objets sur soi. Ce bonus ne se cumule pas avec les bonus qu’accordent les vêtements épais mais il se cumule avec les bonus accordés quand on essaye de dissimuler des petits objets.
+Le style complexe de cette écharpe dissimule les nombreuses petites poches situées sur l’une des faces. Elle accorde un bonus de +4 aux tests d’[[Escamotage]] pour cacher des objets sur soi. Ce bonus ne se cumule pas avec les bonus qu’accordent les vêtements épais mais il se cumule avec les bonus accordés quand on essaye de dissimuler des petits objets.
 
 
 {s:AE}{s:Reference|Écharpe renforcée}
 #### Écharpe renforcée
-**Prix** 10 po ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 10 po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-L’une des faces de cette écharpe de 2,50 mètres de long est renforcée de maillons et de plaques en métal. Ces écharpes ne suffisent pas à donner un avantage à la classe d’armure mais elles sont très polyvalentes et peuvent servir de chaînes pour escalader de courtes hauteurs ou bander les yeux d’un ennemi. L’écharpe renforcée a une [solidité](./solidité.md) de 10 et 4 points de vie. on peut la briser avec un test de [Force](./Force.md) [DD](./DD.md) 24.
+L’une des faces de cette écharpe de 2,50 mètres de long est renforcée de maillons et de plaques en métal. Ces écharpes ne suffisent pas à donner un avantage à la classe d’armure mais elles sont très polyvalentes et peuvent servir de chaînes pour escalader de courtes hauteurs ou bander les yeux d’un ennemi. L’écharpe renforcée a une [[solidité]] de 10 et 4 points de vie. on peut la briser avec un test de [[Force]] [[DD]] 24.
 
 
 {s:AE}{s:Reference|Fourrures}
 #### Fourrures
-**Prix** 12 po ; **Poids** 2,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 12 po ; **Poids** 2,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Équipement de base de la lutte contre le froid, les fourrures animales aident à garder le porteur au chaud. Si le personnage porte assez de fourrures pour couvrir l’ensemble du corps, il gagne un bonus de +2 aux jets de [Vigueur](./Vigueur.md) pour résister aux climats froids. Ce bonus ne se cumule pas avec les bonus accordés par la compétence [Survie](./Survie.md). Les fourrures peuvent compléter une autre tenue.
+Équipement de base de la lutte contre le froid, les fourrures animales aident à garder le porteur au chaud. Si le personnage porte assez de fourrures pour couvrir l’ensemble du corps, il gagne un bonus de +2 aux jets de [[Vigueur]] pour résister aux climats froids. Ce bonus ne se cumule pas avec les bonus accordés par la compétence [[Survie]]. Les fourrures peuvent compléter une autre tenue.
 
 
 {s:AE}{s:Reference|Garniture}
@@ -311,126 +311,126 @@ Cet ensemble de bordures, de manchettes et de cols ornementaux vient s’ajouter
 
 {s:cs}{s:AA}{s:Reference|Gilet}
 #### Gilet
-**Prix** 1 pa-50 po ; **Poids** 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 1 pa-50 po ; **Poids** 0,25 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Tout comme les chapeaux, on retrouve des gilets dans presque toutes les cultures. Bien que la conception de base reste la même, ils varient énormément en termes de coupe, de couleur et de fonction. La différence entre les gilets de cour de l’Empire décadent et les gilets de danse des Terres sauvages est assez frappante.
 
 
 {s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}{s:Reference|Habits de dilettante}
 #### Habits de dilettante
-**Prix** 20 po ; **Poids** 4 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 20 po ; **Poids** 4 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Les inventeurs et les voyageurs [gnomes](./Gnome.md) apprécient tout particulièrement ces vêtements qui se composent de robustes bottes, d’un pantalon ou d’une jupe de lin robuste, d’une chemise, de gants de cuir, d’un chapeau, d’une cape et de nombreuses ceintures, attaches et autres accessoires (comme des écharpes, une veste, des bouts de corde ou de ficelle et des cartouchières). Ces divers éléments ne sont jamais assortis et viennent tous d’un autre ensemble de vêtements dont ils ont été extraits pour leur qualité « supérieure. » Ils regorgent de poches et de planques. Ces habits donnent un bonus de circonstances de +2 à leur propriétaire quand il fait un test d’[Escamotage](./Escamotage.md) pour cacher un petit objet sur sa personne.
+Les inventeurs et les voyageurs [[Gnome|gnomes]] apprécient tout particulièrement ces vêtements qui se composent de robustes bottes, d’un pantalon ou d’une jupe de lin robuste, d’une chemise, de gants de cuir, d’un chapeau, d’une cape et de nombreuses ceintures, attaches et autres accessoires (comme des écharpes, une veste, des bouts de corde ou de ficelle et des cartouchières). Ces divers éléments ne sont jamais assortis et viennent tous d’un autre ensemble de vêtements dont ils ont été extraits pour leur qualité « supérieure. » Ils regorgent de poches et de planques. Ces habits donnent un bonus de circonstances de +2 à leur propriétaire quand il fait un test d’[[Escamotage]] pour cacher un petit objet sur sa personne.
 
 
 {s:AE}{s:Reference|Hennin}
 #### Hennin
-**Prix** 10–100po ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 10–100po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Ce haut chapeau conique se termine souvent en pointe, au bout de laquelle pend un voile en soie ou en autre matériau diaphane. Les femmes de la noblesse portent souvent le hennin pour les événements sociaux ou officiels pour montrer leur condition et offrent la pièce en soie comme gage aux soupirants qu’elles préfèrent.
 
 
 {s:AE}{s:Reference|Kilt}
 #### Kilt
-**Prix** 2 pa ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 2 pa ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Cette lourde jupe plissée est généralement réservée aux hommes. La plupart présentent un style ou un motif spécifique indiquant l’allégeance à un clan ou à un autre groupe social particulier.
 
 
 {s:AE}{s:Reference|Masque}
 #### Masque
-**Prix** 1 pa–50 po ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 1 pa–50 po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 C’est dans les galas de la noblesse décadente que l’on peut voir les masques les plus excentriques et les plus élégants mais on trouve des masques plus simples partout où la culture locale le permet. Ils peuvent prendre la forme de petits bouts de tissu ne couvrant qu’une partie du visage ou d’objets complexes couvrant l’intégralité du visage ou de la tête.
 
 
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:MR}{s:Reference|Masque de guerre}
 #### Masque de guerre
-**Prix** 50 po ; **Poids** 1 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 50 po ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Fait en bois, en os ou en matériau similaire, ce masque recouvre l’apparence et l’identité véritables du porteur d’un visage haineux et méprisant. Du fait de l’excellente facture et des détails parfaits du masque de guerre, le porteur gagne un bonus de +1 à ses tests d’[Intimidation](./Intimidation.md) pour démoraliser un adversaire.
+Fait en bois, en os ou en matériau similaire, ce masque recouvre l’apparence et l’identité véritables du porteur d’un visage haineux et méprisant. Du fait de l’excellente facture et des détails parfaits du masque de guerre, le porteur gagne un bonus de +1 à ses tests d’[[Intimidation]] pour démoraliser un adversaire.
 
 
 {s:AE}{s:Reference|Masque de monstre}
 #### Masque de monstre
-**Prix** 5–10 po ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5–10 po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Ce masque articulé ressemble à un type de monstre humanoïde spécifique, comme un [gobelours](./Gobelours.md), un [gobelin](./Gobelin.md), un orque ou un [hobgobelin](./Hobgobelin.md). La bouche s’ouvre et se ferme au même rythme que les mouvements de la mâchoire du personnage et la peau est faite d’un tissu peint avec minutie. Ce type de masque est généralement conçu pour les représentations théâtrales, quand un comédien joue le rôle d’un monstre, mais on sait que certains aventuriers les utilisent pour se fondre dans les groupes de monstres du type approprié. Le masque annule le malus de -2 au [DD](./DD.md) des tests de [Déguisement](./Déguisement.md) faits pour se déguiser en individu de race différente mais seulement à une distance d’au moins 6 mètres ou lorsque le personnage bénéficie d’un [camouflage](./camouflage.md). À une distance inférieure ou en situation plus dégagée, il est évident que le masque est un faux. Il ne couvre que le visage et se porte normalement avec une [perruque](./Perruque (objet).md) ou un casque pour déguiser ou couvrir le reste de la tête. Chaque masque est adapté à un porteur de taille spécifique mais certaines combinaisons de taille et de monstres sont moins crédibles que d’autres (une créature de taille P portant un masque d’orque peut passer pour un enfant orque mais une créature de taille M portant un masque de gobelin ressemblera, au mieux, à un hobgobelin difforme).
+Ce masque articulé ressemble à un type de monstre humanoïde spécifique, comme un [[gobelours]], un [[gobelin]], un orque ou un [[hobgobelin]]. La bouche s’ouvre et se ferme au même rythme que les mouvements de la mâchoire du personnage et la peau est faite d’un tissu peint avec minutie. Ce type de masque est généralement conçu pour les représentations théâtrales, quand un comédien joue le rôle d’un monstre, mais on sait que certains aventuriers les utilisent pour se fondre dans les groupes de monstres du type approprié. Le masque annule le malus de -2 au [[DD]] des tests de [[Déguisement]] faits pour se déguiser en individu de race différente mais seulement à une distance d’au moins 6 mètres ou lorsque le personnage bénéficie d’un [[camouflage]]. À une distance inférieure ou en situation plus dégagée, il est évident que le masque est un faux. Il ne couvre que le visage et se porte normalement avec une [[Perruque (objet)|perruque]] ou un casque pour déguiser ou couvrir le reste de la tête. Chaque masque est adapté à un porteur de taille spécifique mais certaines combinaisons de taille et de monstres sont moins crédibles que d’autres (une créature de taille P portant un masque d’orque peut passer pour un enfant orque mais une créature de taille M portant un masque de gobelin ressemblera, au mieux, à un hobgobelin difforme).
 
 
 {s:AE}{s:Reference|Patins à glace}
 #### Patins à glace
-**Prix** 1 po ; **Poids** 1 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 1 po ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Ces bottines à hauteur de mollet sont équipées d’une lame sous la semelle, permettant de se déplacer rapidement sur la glace. Le port de patins permet au personnage de se déplacer sur la glace à sa vitesse normale s’il réussit un test d’[Acrobaties](./Acrobaties.md) [DD](./DD.md) 5 (cela lui permet également de courir et de charger) mais sa vitesse de déplacement est réduite de moitié sur tous les autres terrains. Il faut une [action complexe](./Action complexe.md) pour enfiler ou retirer des patins à glace. On peut patiner avec un seul patin mais le [DD](./DD.md) du test d’[Acrobaties](./Acrobaties.md) monte à 15.
+Ces bottines à hauteur de mollet sont équipées d’une lame sous la semelle, permettant de se déplacer rapidement sur la glace. Le port de patins permet au personnage de se déplacer sur la glace à sa vitesse normale s’il réussit un test d’[[Acrobaties]] [[DD]] 5 (cela lui permet également de courir et de charger) mais sa vitesse de déplacement est réduite de moitié sur tous les autres terrains. Il faut une [[action complexe]] pour enfiler ou retirer des patins à glace. On peut patiner avec un seul patin mais le [[DD]] du test d’[[Acrobaties]] monte à 15.
 
 
 {s:AE}{s:Reference|Perruque}
 #### Perruque
-**Prix** 5 po–500 po ; **Poids** 0,25 kg–2 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 po–500 po ; **Poids** 0,25 kg–2 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Il existe différentes formes de perruques, de l’austère chignon de juge aux hautes coiffures qu’arborent les nobles en passant par les simples boucles que portent les femmes au foyer qui perdent leurs cheveux. On peut acheter des perruques dans toutes les grandes villes ou les commander. Comme elles sont fabriquées à partir de vrais cheveux, les couleurs se limitent souvent aux couleurs de cheveux dominantes de la région mais on peut les teindre.
 
 
 {s:AE}{s:Reference|Poncho}
 #### Poncho
-**Prix** 5 pa ; **Poids** 1 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 pa ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Ce vêtement rond en tissu résistant à l’eau (généralement en laine ou en cuir) est doté d’une ouverture à capuche en son centre, ce qui fait qu’il est facile de l’enfiler ou de le retirer et qu’il protège tout le corps contre la pluie et la neige.
 
 
 {s:AE}{s:Reference|Raquettes}
 #### Raquettes
-**Prix** 5 po ; **Poids** 2 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 po ; **Poids** 2 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Ces maillages de corde ou de tendons, encadrés de bois, s’attachent aux pieds de manière à répartir le poids du personnage sur la neige, pour éviter qu’ il s’enfonce dedans et faciliter ses déplacements. Les raquettes réduisent le malus lié à la marche dans la neige de 50 %. Par exemple, il faut dépenser 2 cases de mouvement pour avancer d’une case dans la neige (1 case + 1 case de malus). Les raquettes réduisent ce malus à 1,5 case de mouvement pour avancer d’une case. Les raquettes peuvent compléter une autre tenue.
 
 
 {s:AE}{s:Reference|Skis}
 #### Skis
-**Prix** 5 po ; **Poids** 10 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 po ; **Poids** 10 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Les skis sont des planches en bois de 1,50 à 1,80 mètres de long pour un porteur de taille M, légèrement recourbées à l’avant, avec des rainures tracées sur la longueur de la semelle et un crochet en bois ou en métal à lacets sur la face supérieure, pour maintenir la chaussure du porteur. Les skis permettent de se déplacer sur la neige et la glace à vitesse normale mais la vitesse de déplacement du personnage est réduite à 1,50 mètre sur tous les autres terrains. Le personnage utilise normalement une paire de bâtons à pointe pour s’aider à avancer et garder son équilibre lorsqu’il skie mais on peut les remplacer par des [javelines](./javeline (arme).md), des [épieux](./épieu (arme).md), voire même des branches d’arbres taillées, si le personnage ne trouve rien de plus approprié. Il faut une [action complexe](./Action complexe.md) pour enfiler ou retirer un ski mais on peut couper les lacets par une [action de mouvement](./Action de mouvement.md) (il faudra alors les réparer ou les remplacer si le personnage veut réutiliser les skis).
+Les skis sont des planches en bois de 1,50 à 1,80 mètres de long pour un porteur de taille M, légèrement recourbées à l’avant, avec des rainures tracées sur la longueur de la semelle et un crochet en bois ou en métal à lacets sur la face supérieure, pour maintenir la chaussure du porteur. Les skis permettent de se déplacer sur la neige et la glace à vitesse normale mais la vitesse de déplacement du personnage est réduite à 1,50 mètre sur tous les autres terrains. Le personnage utilise normalement une paire de bâtons à pointe pour s’aider à avancer et garder son équilibre lorsqu’il skie mais on peut les remplacer par des [[javeline (arme)|javelines]], des [[épieu (arme)|épieux]], voire même des branches d’arbres taillées, si le personnage ne trouve rien de plus approprié. Il faut une [[action complexe]] pour enfiler ou retirer un ski mais on peut couper les lacets par une [[action de mouvement]] (il faudra alors les réparer ou les remplacer si le personnage veut réutiliser les skis).
 
 
 {s:AE}{s:Reference|Tabard}
 #### Tabard
-**Prix** 5 po ; **Poids** 0,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 po ; **Poids** 0,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Souvent porté par-dessus une armure, cet habit est généralement sans manche et ouvert sur les flancs. Son large endroit permet de broder des insignes ou des armoiries, mettant ainsi en évidence l’allégeance du porteur.
 
 
 {s:AE}{s:Reference|Tenue adaptée à la chaleur}
 #### Tenue adaptée à la chaleur
-**Prix** 8 po ; **Poids** 2 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 8 po ; **Poids** 2 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-En se couvrant de la tête aux pieds de vêtements légers et aériens, le personnage se rafraîchit plutôt que d’exposer sa peau nue au soleil. Cette tenue comprend généralement une ample robe en lin et un turban ou un ample couvre-chef et un voile. Elle donne un bonus de +2 aux jets de [Vigueur](./Vigueur.md) pour résister aux climats chauds ou torrides. Ce bonus ne se cumule pas avec les bonus accordés par la compétence [Survie](./Survie.md).
+En se couvrant de la tête aux pieds de vêtements légers et aériens, le personnage se rafraîchit plutôt que d’exposer sa peau nue au soleil. Cette tenue comprend généralement une ample robe en lin et un turban ou un ample couvre-chef et un voile. Elle donne un bonus de +2 aux jets de [[Vigueur]] pour résister aux climats chauds ou torrides. Ce bonus ne se cumule pas avec les bonus accordés par la compétence [[Survie]].
 
 
 {s:AE}{s:Reference|Tenue adaptée au froid}
 #### Tenue adaptée au froid
-**Prix** 8 po ; **Poids** 3,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 8 po ; **Poids** 3,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Cette tenue est prévue pour les excursions en montagne et pour les voyages ou la chasse dans les environnements gelés. Elle comprend un manteau en laine ou en épaisse fourrure animale, une chemise en lin, une casquette en laine, une cape épaisse, une jupe ou un pantalon épais et des bottes en cuir imperméables. Dans certaines régions, cette tenue peut se composer essentiellement de fourrure et de peaux animales. Elle accorde un bonus de circonstances de +5 aux jets de [Vigueur](./Vigueur.md) contre l’exposition au froid.
+Cette tenue est prévue pour les excursions en montagne et pour les voyages ou la chasse dans les environnements gelés. Elle comprend un manteau en laine ou en épaisse fourrure animale, une chemise en lin, une casquette en laine, une cape épaisse, une jupe ou un pantalon épais et des bottes en cuir imperméables. Dans certaines régions, cette tenue peut se composer essentiellement de fourrure et de peaux animales. Elle accorde un bonus de circonstances de +5 aux jets de [[Vigueur]] contre l’exposition au froid.
 
 
 {s:AE}{s:Reference|Tenue dartisan}
 #### Tenue d'artisan
-**Prix** 1 po ; **Poids** 2 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 1 po ; **Poids** 2 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Les vêtements d’artisan sont faits de tissus simples mais résistants convenant à ceux dont le métier implique un travail spécialisé et souvent manuel comme la cuisine, la charpenterie et les autres professions des classes moyennes. Cette tenue comprend une chemise boutonnée, une jupe ou un pantalon retenu par un cordon, des chaussures et, éventuellement, une casquette ou un chapeau. Elle peut également inclure une ceinture ou un tablier en cuir ou en tissu pour porter des outils.
 
 
 {s:AE}{s:Reference|Tenue dérudit}
 #### Tenue d'érudit
-**Prix** 5 po ; **Poids** 3 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 5 po ; **Poids** 3 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Parfaite pour l’érudit, cette tenue inclut une robe, une ceinture, une casquette, des chaussures souples et, éventuellement, une écharpe.
 
 
 {s:AE}{s:Reference|Tenue dexplorateur}
 #### Tenue d'explorateur
-**Prix** 10 po ; **Poids** 4 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 10 po ; **Poids** 4 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Ces vêtements sont idéaux pour celui qui ne sait jamais ce qui l’attend. Ils comprennent des bottes résistantes, un pantalon ou une jupe en cuir, une ceinture, une chemise (avec éventuellement une veste ou un gilet), des gants et une cape. On peut porter une tunique en cuir pardessus une jupe en tissu plutôt qu’une jupe en cuir. Ces vêtements ont de nombreuses poches (notamment la cape). Cette tenue inclut également tous les accessoires supplémentaires dont le personnage pourrait avoir besoin, comme une écharpe ou un chapeau à large bord.
 
@@ -439,33 +439,33 @@ Ces vêtements sont idéaux pour celui qui ne sait jamais ce qui l’attend. Ils
 #### Tenue de changement rapide
 **Prix** variable ; **Poids** 2,5 kg
 ---
-Une tenue de changement rapide est en fait constituée deux tenues différentes cousues ensemble, l'une dans l'autre. La tenue de changement rapide permet à celui qui la porte de passer rapidement d'une tenue à une autre en retournant l'ensemble de la tenue. Il faut une [action complexe](./Action complexe.md) pour se glisser hors de la tenue de changement rapide, la retourner et la remettre. Les deux tenues différentes peuvent sembler être de n'importe quelle variété, comme une [tenue de noble](./Tenue de noble (objet).md) d'un côté et un [costume de moine](./Costume de moine (objet).md) de l'autre. L'apparence n'étant que superficielle, les tenues ne confèrent aucun bonus spécial (comme les avantages d'une [tenue adaptée au froid](./Tenue adaptée au froid (objet).md) contre l'exposition au froid). Toute personne portant une attention particulière à la tenue peut remarquer des anomalies (comme des coutures étranges ou un rembourrage anormalement épais) en réussissant un test de [Perception](./Perception.md) [DD](./DD.md) 20. Le prix de la tenue est égal au double du prix de la plus chère des deux tenues qu'elle imite.
+Une tenue de changement rapide est en fait constituée deux tenues différentes cousues ensemble, l'une dans l'autre. La tenue de changement rapide permet à celui qui la porte de passer rapidement d'une tenue à une autre en retournant l'ensemble de la tenue. Il faut une [[action complexe]] pour se glisser hors de la tenue de changement rapide, la retourner et la remettre. Les deux tenues différentes peuvent sembler être de n'importe quelle variété, comme une [[Tenue de noble (objet)|tenue de noble]] d'un côté et un [[Costume de moine (objet)|costume de moine]] de l'autre. L'apparence n'étant que superficielle, les tenues ne confèrent aucun bonus spécial (comme les avantages d'une [[Tenue adaptée au froid (objet)|tenue adaptée au froid]] contre l'exposition au froid). Toute personne portant une attention particulière à la tenue peut remarquer des anomalies (comme des coutures étranges ou un rembourrage anormalement épais) en réussissant un test de [[Perception]] [[DD]] 20. Le prix de la tenue est égal au double du prix de la plus chère des deux tenues qu'elle imite.
 
 
 {s:AE}{s:Reference|Tenue de courtisan}
 #### Tenue de courtisan
-**Prix** 8 po ; **Poids** 2 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 8 po ; **Poids** 2 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Cette tenue se compose de vêtements taillés sur mesure selon la mode en vigueur dans les cours nobles de la région. Quiconque cherche à influencer des nobles ou des courtisans en portant des vêtements de tous les jours aura bien du mal à parvenir à ses fins (malus de -2 aux tests de compétences basés sur le [Charisme](./Charisme.md) pour influencer ce genre de personnes). Si le personnage porte cette tenue sans [bijoux](./Bijoux (objet).md) (coûtant un supplément de 50 po), il passera pour un roturier qui n’est pas à sa place.
+Cette tenue se compose de vêtements taillés sur mesure selon la mode en vigueur dans les cours nobles de la région. Quiconque cherche à influencer des nobles ou des courtisans en portant des vêtements de tous les jours aura bien du mal à parvenir à ses fins (malus de -2 aux tests de compétences basés sur le [[Charisme]] pour influencer ce genre de personnes). Si le personnage porte cette tenue sans [[Bijoux (objet)|bijoux]] (coûtant un supplément de 50 po), il passera pour un roturier qui n’est pas à sa place.
 
 
 {s:AE}{s:Reference|Tenue de noble}
 #### Tenue de noble
-**Prix** 75 po ; **Poids** 5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 75 po ; **Poids** 5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
-Ces vêtements sont spécifiquement conçus pour être chers et voyants, afin que tout le monde sache qu’ils sont extrêmement onéreux. Le tissu est brodé de métaux précieux et de bijoux, avec des motifs complexes, et certaines tenues intègrent des concessions peu pratiques à la haute couture. Un noble digne de ce nom a également besoin d’une chevalière et de [bijoux](./Bijoux (objet).md) (d’une valeur minimale de 100 po) pour compléter sa tenue.
+Ces vêtements sont spécifiquement conçus pour être chers et voyants, afin que tout le monde sache qu’ils sont extrêmement onéreux. Le tissu est brodé de métaux précieux et de bijoux, avec des motifs complexes, et certaines tenues intègrent des concessions peu pratiques à la haute couture. Un noble digne de ce nom a également besoin d’une chevalière et de [[Bijoux (objet)|bijoux]] (d’une valeur minimale de 100 po) pour compléter sa tenue.
 
 
 {s:AE}{s:Reference|Tenue de paysan}
 #### Tenue de paysan
-**Prix** 1 pa ; **Poids** 1 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 1 pa ; **Poids** 1 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Ces vêtements sont de qualité médiocre, le tissu n’étant rien de plus que de la toile de jute, souvent rapiécée et recousue de nombreuses fois. La tenue de paysan comprend une chemise ample et un pantalon large ou une chemise ample et une jupe ou une chasuble. On utilise des bandes de tissu en guise de chaussures, ce qui fait que les pieds sont nettement plus usés.
 
 
 {s:PMI}{s:Reference|Tenue de pirate}
 #### Tenue de pirate
-**Prix** 1 pa (simple), 30 po (élaborée) ; **Poids** 1 kg (simple), 3 kg (élaborée)<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 1 pa (simple), 30 po (élaborée) ; **Poids** 1 kg (simple), 3 kg (élaborée)<sup>[[Vêtements#1|1]]</sup>
 ---
 Les pirates portent toutes sortes de vêtements mais la plupart préfèrent les tenues simples composées d’une chemise de lin, d’un pantalon court en toile, de chaussettes en coton et de chaussures en cuir (même si certains pirates préfèrent naviguer pieds nus).  
   
@@ -474,21 +474,21 @@ De plus, les pirates fortunés, surtout les capitaines, agrémentent souvent leu
 
 {s:AE}{s:Reference|Tenue de voyageur}
 #### Tenue de voyageur
-**Prix** 1 po ; **Poids** 2,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 1 po ; **Poids** 2,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Cette tenue comprend des bottes, une jupe ou un pantalon en laine, une ceinture solide, une chemise (avec éventuellement une veste ou un veston) et une large cape à capuche.
 
 
 {s:AE}{s:Reference|Tenue royale}
 #### Tenue royale
-**Prix** 200 po ; **Poids** 7,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 200 po ; **Poids** 7,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Les tenues royales sont ostentatoires, avec des pierres précieuses, de l’or, de la soie et de la fourrure en quantité. Elles sont rarement conçues pour être portées dans la vie de tous les jours ou pour se protéger du climat (elles ne peuvent pas non plus s’enfiler sans aide) puisque quiconque porte ce genre de vêtement est censé avoir de nombreux serviteurs pour veiller à tous ses besoins. Cette tenue n’inclut que les vêtements, pas de sceptre, de couronne, d’anneau ni d’autres accessoires royaux.
 
 
 {s:AE}{s:Reference|Uniforme de soldat}
 #### Uniforme de soldat
-**Prix** 1 po ; **Poids** 2,5 kg<sup>[1](./Vêtements.md#1)</sup>
+**Prix** 1 po ; **Poids** 2,5 kg<sup>[[Vêtements#1|1]]</sup>
 ---
 Les éléments exacts composant cette tenue varient d’un pays à l’autre mais comptent généralement des bottes solides, un pantalon en cuir ou un kilt, une ceinture, une chemise, des gants, une cape ou une veste et un couvre-chef. La ceinture compte plusieurs passants ou des anneaux auxquels accrocher des bourses, une outre, un fourreau et d’autres choses similaires dont pourrait avoir besoin un soldat en voyage.
 
@@ -497,4 +497,4 @@ Les éléments exacts composant cette tenue varient d’un pays à l’autre mai
 #### Vêtements arrachables
 **Prix** +5 po ; **Poids** —
 ---
-Les voleurs et les traîtres reconnaissent la valeur d’un bon déguisement et savent qu’il est tout aussi important de pouvoir retirer ce déguisement à la hâte pour afficher celui d’en-dessous. Les vêtements arrachables sont généralement amples et permettent de porter d’autres vêtements en-dessous. Les coutures de ces vêtements sont faites de manière à se déchirer facilement, ils sont donc très facile à retirer (une [action simple](./Action simple.md)) afin de passer rapidement inaperçu. N’importe quelle tenue peut être faite de vêtements arrachables, pour un coût supplémentaire.
+Les voleurs et les traîtres reconnaissent la valeur d’un bon déguisement et savent qu’il est tout aussi important de pouvoir retirer ce déguisement à la hâte pour afficher celui d’en-dessous. Les vêtements arrachables sont généralement amples et permettent de porter d’autres vêtements en-dessous. Les coutures de ces vêtements sont faites de manière à se déchirer facilement, ils sont donc très facile à retirer (une [[action simple]]) afin de passer rapidement inaperçu. N’importe quelle tenue peut être faite de vêtements arrachables, pour un coût supplémentaire.

@@ -4,34 +4,34 @@
 
 <div class="presentation navmenudroite">
 ### Les archétypes d'alchimiste
-&nbsp;Retour à la [classe](./../Pathfinder-RPG/Alchimiste.md).
-<ul style="margin-top:2px"><li>[Alchimiste des marais](./../Pathfinder-RPG/Alchimiste des marais (alchimiste).md) ([Grippli](./../Pathfinder-RPG/grippli (race).md)) (MR)</li>
-<li>[Alchimiste interne](./../Pathfinder-RPG/Alchimiste interne (alchimiste).md) (AM)</li>
-<li>[Animorphe](./../Pathfinder-RPG/Animorphe (alchimiste).md) (AG)</li>
-<li>[Artificier des profondeurs](./../Pathfinder-RPG/Artificier des profondeurs (alchimiste).md) ([Svirfneblin](./../Pathfinder-RPG/svirfneblin (race).md)) (MR)</li>
-<li>[Brasseur d'épines](./../Pathfinder-RPG/Brasseur dépines (alchimiste).md) ([Demi-elfe](./../Pathfinder-RPG/Demi-elfe.md)) (MR)</li>
-<li>[Chercheur visionnaire](./../Pathfinder-RPG/Chercheur dŒnopion (alchimiste).md) (MMI)</li>
-<li>[Chimiste enragé](./../Pathfinder-RPG/Chimiste enragé (alchimiste).md) (AG)</li>
-<li>[Chimiste inspiré](./../Pathfinder-RPG/Chimiste inspiré (Alchimiste).md) (MCA)</li>
-<li>[Chimiste spirituel](./../Pathfinder-RPG/Chimiste spirituel (alchimiste).md) (AM)</li>
-<li>[Chirurgien](./../Pathfinder-RPG/Chirurgien (alchimiste).md) (AM)</li>
-<li>[Collectionneur](./../Pathfinder-RPG/Collectionneur (alchimiste).md) (AM)</li>
-<li>[Ectochimiste](./../Pathfinder-RPG/Ectochimiste (alchimiste).md) (AO)</li>
-<li>[Explorateur de cryptes](./../Pathfinder-RPG/Explorateur de cryptes (alchimiste).md) (MMI)</li>
-<li>[Grenadier](./../Pathfinder-RPG/Grenadier (alchimiste).md) ([Hobgobelin](./../Pathfinder-RPG/Hobgobelin (race).md)) (CM)</li>
-<li>[Homonculiste](./../Pathfinder-RPG/Homonculiste (alchimiste).md) (FF)</li>
-<li>[Interrogateur](./../Pathfinder-RPG/Interrogateur (alchimiste).md) (*UI*)</li>
-<li>[Inventeur alchimiste](./../Pathfinder-RPG/Inventeur alchimiste (alchimiste).md) (AO)</li>
-<li>[Maître des clones](./../Pathfinder-RPG/Maître des clones (alchimiste).md) (AM)</li>
-<li>[Maraudeur ailé](./../Pathfinder-RPG/maraudeur ailé (alchimiste).md) ([Gobelin](./../Pathfinder-RPG/Gobelin (race).md)) (CM)</li>
-<li>[Métamorphe](./../Pathfinder-RPG/Métamorphe (alchimiste).md) (*UI*)</li>
-<li>[Porte-peste](./../Pathfinder-RPG/Porte-peste (alchimiste).md) ([Homme-rat](./../Pathfinder-RPG/Homme-rat (race).md)) (MR)</li>
-<li>[Psychonaute](./../Pathfinder-RPG/Psychonaute (alchimiste).md) (AM)</li>
-<li>[Pyrobombardier](./../Pathfinder-RPG/Pyrobombardier (alchimiste).md) ([Gobelin](./../Pathfinder-RPG/Gobelin (race).md)) (MR)</li>
-<li>[Réanimateur](./../Pathfinder-RPG/Réanimateur (alchimiste).md) (AM)</li>
-<li>[Saboteur](./../Pathfinder-RPG/Saboteur (alchimiste).md) ([Gnome](./../Pathfinder-RPG/Gnome.md)) (MR)</li>
-<li>[Sapeur alchimique](./../Pathfinder-RPG/Sapeur alchimique (Alchimiste).md) (*UI*)</li>
-<li>[Trappeur alchimique](./../Pathfinder-RPG/Trappeur alchimique (alchimiste).md) ([Kobold](./../Pathfinder-RPG/Kobold (race).md)) (CM)</li>
-<li>[Vivisectioniste](./../Pathfinder-RPG/Vivisectioniste (alchimiste).md) (AM)</li>
+&nbsp;Retour à la [[Alchimiste|classe]].
+<ul style="margin-top:2px"><li>[[Alchimiste des marais (alchimiste)|Alchimiste des marais]] ([[grippli (race)|Grippli]]) (MR)</li>
+<li>[[Alchimiste interne (alchimiste)|Alchimiste interne]] (AM)</li>
+<li>[[Animorphe (alchimiste)|Animorphe]] (AG)</li>
+<li>[[Artificier des profondeurs (alchimiste)|Artificier des profondeurs]] ([[svirfneblin (race)|Svirfneblin]]) (MR)</li>
+<li>[[Brasseur dépines (alchimiste)|Brasseur d'épines]] ([[demi-elfe]]) (MR)</li>
+<li>[[Chercheur dŒnopion (alchimiste)|Chercheur visionnaire]] (MMI)</li>
+<li>[[Chimiste enragé (alchimiste)|Chimiste enragé]] (AG)</li>
+<li>[[Chimiste inspiré (Alchimiste)|Chimiste inspiré]] (MCA)</li>
+<li>[[Chimiste spirituel (alchimiste)|Chimiste spirituel]] (AM)</li>
+<li>[[Chirurgien (alchimiste)|Chirurgien]] (AM)</li>
+<li>[[Collectionneur (alchimiste)|Collectionneur]] (AM)</li>
+<li>[[Ectochimiste (alchimiste)|Ectochimiste]] (AO)</li>
+<li>[[Explorateur de cryptes (alchimiste)|Explorateur de cryptes]] (MMI)</li>
+<li>[[Grenadier (alchimiste)|Grenadier]] ([[Hobgobelin (race)|Hobgobelin]]) (CM)</li>
+<li>[[Homonculiste (alchimiste)|Homonculiste]] (FF)</li>
+<li>[[Interrogateur (alchimiste)|Interrogateur]] (*UI*)</li>
+<li>[[Inventeur alchimiste (alchimiste)|Inventeur alchimiste]] (AO)</li>
+<li>[[Maître des clones (alchimiste)|Maître des clones]] (AM)</li>
+<li>[[Maraudeur ailé (alchimiste)|Maraudeur ailé]] ([[gobelin (race)|Gobelin]]) (CM)</li>
+<li>[[Métamorphe (alchimiste)|Métamorphe]] (*UI*)</li>
+<li>[[Porte-peste (alchimiste)|Porte-peste]] ([[homme-rat (race)|Homme-rat]]) (MR)</li>
+<li>[[Psychonaute (alchimiste)|Psychonaute]] (AM)</li>
+<li>[[Pyrobombardier (alchimiste)|Pyrobombardier]] ([[gobelin (race)|Gobelin]]) (MR)</li>
+<li>[[Réanimateur (alchimiste)|Réanimateur]] (AM)</li>
+<li>[[Saboteur (alchimiste)|Saboteur]] ([[Gnome]]) (MR)</li>
+<li>[[Sapeur alchimique (alchimiste)|Sapeur alchimique]] (*UI*)</li>
+<li>[[Trappeur alchimique (alchimiste)|Trappeur alchimique]] ([[Kobold (race)|Kobold]]) (CM)</li>
+<li>[[Vivisectioniste (alchimiste)|Vivisectioniste]] (AM)</li>
 </ul>
 </div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Glossaire Mythique#GRADE
 ---
 
->>> [Glossaire Mythique#GRADE](./Glossaire Mythique.md#GRADE)
+>>> [[Glossaire Mythique#GRADE]]

@@ -10,7 +10,7 @@ LastModified: 2017-02-18 14:31
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 99*}
 - **1 200 PX**
-- [Extérieur](./type Extérieur.md) ([air](./sous-type Air.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [intangible](./sous-type intangible.md)) de taille P, N
+- [[type extérieur|Extérieur]] ([[sous-type air|air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type intangible|intangible]]) de taille P, N
 - **Init **+7 ; Sens vision dans le noir 18 m ; Perception +13
 (((Défense)))
 - **CA** 18, contact 18, pris au dépourvu 15 (Dex +3, parade +4, taille +1)
@@ -22,12 +22,12 @@ LastModified: 2017-02-18 14:31
 - **À distance** décharge de foudre, +8 (2d8 électricité)
 - **Attaque spéciale** décharge de foudre
 - ** Pouvoirs magiques** (**NLS **7 ; concentration +11)
-- *2/jour* — [contrôle du climat](./Contrôle du climat.md) (action simple ; permet seulement d’intensifier ou de dissiper un orage)
+- *2/jour* — [[contrôle du climat]] (action simple ; permet seulement d’intensifier ou de dissiper un orage)
 (((Statistiques)))
 - **For** —, **Dex **17, **Con **10, **Int **8, **Sag **17, **Cha **18
 - **BBA **+5 ; **BMO** +7 ; **DMD **21 (croc-en-jambe impossible)
-- **Dons **[Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md)
-- **Compétences **[Connaissances](./Connaissances.md) (nature) +3, [Connaissances](./Connaissances.md) (plans) +7, [Diplomatie](./Diplomatie.md) +7, [Perception](./Perception.md) +13, [Psychologie](./Psychologie.md) +11, [Vol](./Vol.md) +17 
+- **Dons **[[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Vigilance]]
+- **Compétences **[[Connaissances]] (nature) +3, [[Connaissances]] (plans) +7, [[Diplomatie]] +7, [[Perception]] +13, [[Psychologie]] +11, [[Vol]] +17 
 - **Langues **aérien
 - **Particularités** flammes éclairantes
 (((Écologie)))

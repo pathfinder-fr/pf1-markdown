@@ -12,19 +12,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[froid](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 7, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Sor](./Sorcière.md) 7  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 7, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Sorcière|Sor]] 7  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 
-La silhouette du personnage devient de glace vivante, ce qui lui donne plusieurs pouvoirs. Il devient de sous-type froid et gagne une [RD](./RD.md) 5/magie. Il est immunisé contre les affaiblissements de caractéristique, la cécité, les coups critiques, la surdité, la maladie, la noyade, l’électricité, le poison, l’étourdissement et tous les sorts ou
+La silhouette du personnage devient de glace vivante, ce qui lui donne plusieurs pouvoirs. Il devient de sous-type froid et gagne une [[RD]] 5/magie. Il est immunisé contre les affaiblissements de caractéristique, la cécité, les coups critiques, la surdité, la maladie, la noyade, l’électricité, le poison, l’étourdissement et tous les sorts ou
 attaques qui affectent la physiologie ou la respiration car, tant qu’il est sous l’effet de ce sort, le personnage ne respire pas et n’a plus de fonctionnement physiologique. Il ne peut pas boire (et donc ne peut pas avaler de potions) ni jouer d’un instrument à vent.  
 
-Les attaques à mains nues infligent autant de dégâts qu’un gourdin à la taille du personnage (1d4 pour un personnage P ou 1d6 pour un M) plus 1 point de dégâts de froid. On considère que le personnage est armé même s’il fait des attaques à mains nues. Il peut se déplacer dans la glace ou la neige ordinaire par creusement, à sa vitesse de base, aussi facilement qu’un poisson nage dans l’eau. Il ne peut pas se déplacer dans une glace ou une neige magique à moins de réussir un test de [niveau de lanceur de sorts](./NLS.md) (1d20 + [niveau de lanceur de sorts](./NLS.md)) contre [DD](./DD.md) de 11 + [niveau de lanceur de sorts](./NLS.md) de l’effet. Le personnage réussit automatiquement son test contre les effets qu’il a lui-même créés. Quand le personnage se déplace ainsi dans la neige ou la glace, il ne laisse pas de tunnel ni de trou derrière lui.
+Les attaques à mains nues infligent autant de dégâts qu’un gourdin à la taille du personnage (1d4 pour un personnage P ou 1d6 pour un M) plus 1 point de dégâts de froid. On considère que le personnage est armé même s’il fait des attaques à mains nues. Il peut se déplacer dans la glace ou la neige ordinaire par creusement, à sa vitesse de base, aussi facilement qu’un poisson nage dans l’eau. Il ne peut pas se déplacer dans une glace ou une neige magique à moins de réussir un test de [[NLS|niveau de lanceur de sorts]] (1d20 + [[NLS|niveau de lanceur de sorts]]) contre [[DD]] de 11 + [[NLS|niveau de lanceur de sorts]] de l’effet. Le personnage réussit automatiquement son test contre les effets qu’il a lui-même créés. Quand le personnage se déplace ainsi dans la neige ou la glace, il ne laisse pas de tunnel ni de trou derrière lui.

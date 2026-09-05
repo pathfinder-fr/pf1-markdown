@@ -11,11 +11,11 @@ Categories:
 - Sort sorcière 1
 ---
 
-{s:MCA}**École** [Enchantement](./Enchantement.md) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 1, [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1  
+{s:MCA}**École** [[Enchantement]] <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
 
 **Temps d’incantation** 10 minutes  
 
-**Composantes** [V, G, F](./composantes.md) (la page à mémoriser)  
+**Composantes** [[composantes|V, G, F]] (la page à mémoriser)  
 
 **Portée** contact  
 
@@ -23,9 +23,9 @@ Categories:
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 La cible mémorise parfaitement la page que le personnage a utilisée comme focalisateur. Elle peut visualiser cette page aussi facilement que si elle la regardait de ses propres yeux, percevant également les détails infimes visibles à l’oeil nu grâce à un examen attentif. La mémoire de cette page inclut le texte et les images, comme les dessins ou les cartes. Quelqu’un qui ne maîtrise pas la langue de cette page (ou une personne illettrée) pourrait retransmettre ce qui est écrit en recopiant simplement la forme des lettres afin qu’une autre personne puisse les lire.
-Le nombre maximum de pages qu’une cible donnée peut mémoriser grâce à des lancements répétés de ce sort est égal à son modificateur d’[Intelligence](./Intelligence.md) (1 au minimum). Toute tentative de dépasser cette limite reste sans effet, même si on peut effacer une page de sa mémoire (avec une modification de la mémoire ou un effet similaire) afin de faire de la place pour une nouvelle page.
+Le nombre maximum de pages qu’une cible donnée peut mémoriser grâce à des lancements répétés de ce sort est égal à son modificateur d’[[Intelligence]] (1 au minimum). Toute tentative de dépasser cette limite reste sans effet, même si on peut effacer une page de sa mémoire (avec une modification de la mémoire ou un effet similaire) afin de faire de la place pour une nouvelle page.
 
 Une créature qui mémorise des écrits magiques (comme un parchemin ou une page d’un grimoire) ne peut ni emprunter, ni reproduire ni conserver la magie contenue dans l’écrit. Néanmoins, cela permettrait à un magicien de copier un sort dans son grimoire afin de le préparer à partir de son livre (en partant du principe que le sort ne tienne qu’une seule page dans un grimoire).

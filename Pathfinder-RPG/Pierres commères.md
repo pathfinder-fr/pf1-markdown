@@ -11,16 +11,16 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Cham](./Chaman.md) 7, [Dru](./Druide.md) 6, [Psy](./Psychiste.md) 6  
+**École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 6, [[Psychiste|Psy]] 6  
 
 **Temps d'incantation** 10 minutes  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Zone d'effet** le jeteur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)
+**Durée** 1 minute/[[niveau]]
 
-Ce sort permet au [druide](./Druide.md) de communiquer avec les pierres qui lui révèlent alors ce qui se cache derrière elles mais aussi qui les a touchées. Si on le leur demande, elles peuvent fournir des descriptions très détaillées. Cependant, leurs perceptions et leurs connaissances ne leur permettent pas forcément de révéler au personnage les détails qu’il souhaite entendre. Le sort permet de parler indifféremment aux pierres naturelles ou ouvragées.
+Ce sort permet au [[druide]] de communiquer avec les pierres qui lui révèlent alors ce qui se cache derrière elles mais aussi qui les a touchées. Si on le leur demande, elles peuvent fournir des descriptions très détaillées. Cependant, leurs perceptions et leurs connaissances ne leur permettent pas forcément de révéler au personnage les détails qu’il souhaite entendre. Le sort permet de parler indifféremment aux pierres naturelles ou ouvragées.

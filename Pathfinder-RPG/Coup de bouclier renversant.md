@@ -11,12 +11,12 @@ Categories:
 
 {s:cs}{s:AMH}*Les coups de bouclier du personnage peuvent déséquilibrer ses ennemis.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise de bouclier](./Dons.md#MAITRISEDEBOUCLIER)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDEBOUCLIER|maîtrise de bouclier]]
 
-**Conditions.** [Art du bouclier](./Art du bouclier.md), [Coup de bouclier déstabilisant](./Coup de bouclier déstabilisant.md), [Science du coup de bouclier](./Science du coup de bouclier.md), [BBA](./BBA.md) +11 ou [guerrier](./Guerrier.md) de niveau 8
+**Conditions.** [[Art du bouclier]], [[Coup de bouclier déstabilisant]], [[Science du coup de bouclier]], [[BBA]] +11 ou [[guerrier]] de niveau 8
 
-**Avantage.** Quand il touche une créature avec un coup de bouclier, le personnage peut, par une [action rapide](./Action rapide.md), tenter une manœuvre de [croc-en-jambe](./croc-en-jambe.md) contre la créature avec un malus de -5 au test. Cette manœuvre ne provoque pas d’[attaque d’opportunité](./AO.md), et si elle rate de 10 ou plus, il ne tombe pas [à terre](./À terre.md).
+**Avantage.** Quand il touche une créature avec un coup de bouclier, le personnage peut, par une [[action rapide]], tenter une manœuvre de [[croc-en-jambe]] contre la créature avec un malus de -5 au test. Cette manœuvre ne provoque pas d’[[AO|attaque d’opportunité]], et si elle rate de 10 ou plus, il ne tombe pas [[à terre]].
 
 {s:AMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance pour annuler le malus au test de [manœuvre offensive](./Manœuvres offensives.md) imposé par ce don.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance pour annuler le malus au test de [[manœuvres offensives|manœuvre offensive]] imposé par ce don.

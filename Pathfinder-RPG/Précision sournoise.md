@@ -8,6 +8,6 @@ Categories:
 
 {s:uc}*Le personnage connaît les points faibles de ses ennemis et les exploite. *
 
-**Conditions.** [Attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +6d6, [Don pour les critiques](./Don pour les critiques.md), un [don de critique](./Dons.md#DONCRITIQUE), [BBA](./BBA.md) +9
+**Conditions.** [[roublard#ATTAQUESOURNOISE|Attaque sournoise]] +6d6, [[Don pour les critiques]], un [[Dons#DONCRITIQUE|don de critique]], [[BBA]] +9
 
-**Avantage.** Quand le personnage réussit une seconde attaque sournoise sur un même adversaire au cours du même tour, il peut dépenser une [action rapide](./Action rapide.md) pour lui appliquer les effets d’un don de critique de sa connaissance.
+**Avantage.** Quand le personnage réussit une seconde attaque sournoise sur un même adversaire au cours du même tour, il peut dépenser une [[action rapide]] pour lui appliquer les effets d’un don de critique de sa connaissance.

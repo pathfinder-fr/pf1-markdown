@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEDESIEGE
 ---
 
->>> [découvertes#BOMBEDESIEGE](./découvertes.md#BOMBEDESIEGE)
+>>> [[découvertes#BOMBEDESIEGE]]

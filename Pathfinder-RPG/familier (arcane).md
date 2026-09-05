@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#FAMILIER
 ---
 
->>> [arcanes#FAMILIER](./arcanes.md#FAMILIER)
+>>> [[arcanes#FAMILIER]]

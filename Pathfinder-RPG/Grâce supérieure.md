@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*La grâce du personnage possède des pouvoirs curatifs incroyables. *
 
-**Conditions.** [Cha](./Cha.md) 13, [grâce](./Paladin.md#GRACE), [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS)
+**Conditions.** [[Cha]] 13, [[paladin#GRACE|grâce]], [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]]
 
-**Avantage.** Quand le personnage utilise son pouvoir d’[Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) sur une cible qui n’est pas victime d’une condition néfaste que l’imposition peut dissiper, elle soigne 1d6 points de dégâts de plus.
+**Avantage.** Quand le personnage utilise son pouvoir d’[[Paladin#IMPOSITIONDESMAINS|Imposition des mains]] sur une cible qui n’est pas victime d’une condition néfaste que l’imposition peut dissiper, elle soigne 1d6 points de dégâts de plus.

@@ -26,9 +26,9 @@ Les bardes de talent peuvent apprendre ou créer des œuvres d’art, des applic
 
 **Action.** Cette ligne indique le genre d’action nécessaire pour exécuter le chef-d’œuvre. S’il exige seulement une action simple, toute capacité à activer plus rapidement une représentation bardique s’applique au chef-d’œuvre (action de mouvement au niveau 7 et action rapide au niveau 13).
 
-À moins d’une indication contraire, les effets ou les dons qui prolongent la durée de la représentation bardique (comme la [Représentation obsédante](./Représentation obsédante.md)) ne s’appliquent pas aux chefs-d’œuvre.
+À moins d’une indication contraire, les effets ou les dons qui prolongent la durée de la représentation bardique (comme la [[Représentation obsédante]]) ne s’appliquent pas aux chefs-d’œuvre.
 
-Les MJ peuvent utiliser les chefs-d’œuvre présentés ici pour créer les leurs. Ils ne doivent pas être plus puissants qu’un sort de prêtre ou d’ensorceleur/magicien accessible à un lanceur de sorts de même niveau que le niveau minimal requis pour que le barde apprenne le chef-d’œuvre (un chef-d’œuvre qui demande 7 [rangs](./rang.md) en [Représentation](./Représentation.md) est accessible à un [barde](./Barde.md) de niveau 7 ou plus et ne doit donc pas être plus puissant qu’un sort de prêtre ou d’ensorceleur/magicien de niveau 4).
+Les MJ peuvent utiliser les chefs-d’œuvre présentés ici pour créer les leurs. Ils ne doivent pas être plus puissants qu’un sort de prêtre ou d’ensorceleur/magicien accessible à un lanceur de sorts de même niveau que le niveau minimal requis pour que le barde apprenne le chef-d’œuvre (un chef-d’œuvre qui demande 7 [[rang|rangs]] en [[Représentation]] est accessible à un [[barde]] de niveau 7 ou plus et ne doit donc pas être plus puissant qu’un sort de prêtre ou d’ensorceleur/magicien de niveau 4).
 
 ### Exemples de chefs d'œuvre
 <table width="100%"><tr><td width="49%">
@@ -36,63 +36,63 @@ Les MJ peuvent utiliser les chefs-d’œuvre présentés ici pour créer les leu
 #### L’accélération du rythme (percussions, vents)
 Les notes rapides du barde modifient le rythme cardiaque de l’adversaire.
 
-**Condition requise.** 7 rangs en [Représentation](./Représentation.md) (percussion) ou 7 rangs en [Représentation](./Représentation.md) (vents)
+**Condition requise.** 7 rangs en [[Représentation]] (percussion) ou 7 rangs en [[Représentation]] (vents)
 
 **Prix.** Don ou sort de barde connu de niveau 3
 
-**Effet.** Le personnage crée un tempo musical qui se calque tout d’abord sur le rythme cardiaque de son adversaire et accélère ensuite jusqu’à une cadence dangereuse. Quand il termine sa représentation, tous les ennemis qui sont situés dans les 9 mètres (6 {s:c}) et qui l’ont entendu doivent faire un [jet de sauvegarde](./jet de sauvegarde.md) ou subir 1d6 points de dégâts tandis que leur cœur tambourine si vite qu’ils transpirent des gouttes de sang. Ce pouvoir n’affecte pas les créatures [immunisées](./Immunité.md) contre les [coups critiques](./coup critique.md).
+**Effet.** Le personnage crée un tempo musical qui se calque tout d’abord sur le rythme cardiaque de son adversaire et accélère ensuite jusqu’à une cadence dangereuse. Quand il termine sa représentation, tous les ennemis qui sont situés dans les 9 mètres (6 {s:c}) et qui l’ont entendu doivent faire un [[jet de sauvegarde]] ou subir 1d6 points de dégâts tandis que leur cœur tambourine si vite qu’ils transpirent des gouttes de sang. Ce pouvoir n’affecte pas les créatures [[immunité|immunisées]] contre les [[coup critique|coups critiques]].
 
-À chaque round où le barde poursuit sa représentation, ses ennemis saignent un round de plus. Les pouvoirs qui prolongent la durée d’une représentation bardique (comme la [Représentation obsédante](./Représentation obsédante.md)) affectent également ce chef-d’œuvre.
+À chaque round où le barde poursuit sa représentation, ses ennemis saignent un round de plus. Les pouvoirs qui prolongent la durée d’une représentation bardique (comme la [[Représentation obsédante]]) affectent également ce chef-d’œuvre.
 
-**Utilisation.** 1 round de [représentation bardique](./représentation bardique.md) par round de [saignement](./Saignement.md)
+**Utilisation.** 1 round de [[représentation bardique]] par round de [[saignement]]
 
-**Action.** 1 [action simple](./Action simple.md)
+**Action.** 1 [[action simple]]
 
 {s:UM}{s:Reference|LABERCEUSEDEBRAISELANCIEN}
 #### La berceuse de Braise l’ancien (chant)
 Le chant du barde lui permet d’endormir de puissantes créatures.
 
-**Condition requise.** 7 rangs en [Représentation](./Représentation.md) (chant)
+**Condition requise.** 7 rangs en [[Représentation]] (chant)
 
-**Prix.** [Don](./Dons.md) ou sort de barde connu de niveau 3
+**Prix.** [[Dons|Don]] ou sort de barde connu de niveau 3
 
-**Effet.** Quand le barde active cette représentation apaisante, une cible située à courte portée s’endort comme si elle était sous l’effet d’un *[sommeil profond](./Sommeil profond.md)* et ce, tant que le barde continue sa représentation.
+**Effet.** Quand le barde active cette représentation apaisante, une cible située à courte portée s’endort comme si elle était sous l’effet d’un *[[sommeil profond]]* et ce, tant que le barde continue sa représentation.
 
 Contrairement au sort (qui affecte en premier les créatures les plus faibles), ce chef d’œuvre vise une créature spécifique que le barde choisit. Même si cette berceuse a des paroles, ce n’est pas un effet qui dépend du langage.
 
 **Utilisation.** 1 round de représentation bardique par round
 
-**Action.** 1 [round](./round.md)
+**Action.** 1 [[round]]
 
 {s:UM}{s:Reference|AUCOEURDETOUTECHOSE}
 #### Au cœur de toute chose (cordes, vents)
 Le chant du barde perce à jour l’identité de la créature qui a le plus de mal à lui résister.
 
-**Condition requise.** 7 rangs en [Représentation](./Représentation.md) (cordes) ou [Représentation](./Représentation.md) (vents)
+**Condition requise.** 7 rangs en [[Représentation]] (cordes) ou [[Représentation]] (vents)
 
 **Prix.** Don ou sort de barde connu de niveau 3
 
-**Effet.** Cette mélodie envoûtante caresse le voile de la compréhension et découvre le berceau de la vérité. Quand le barde termine cette représentation, la cible doit faire un jet de [Volonté](./Volonté.md). Si elle échoue, le [barde](./Barde.md) a compris sa nature primitive et gagne un bonus de +4 à tous les tests basés sur le [Charisme](./Charisme.md) destinés à l’influencer, ainsi le [DD](./DD.md) de tous les pouvoirs et sorts qui influent sur la créature ou ses actions (y compris les effets de [charme](./Présentation des sorts.md#CHARME) et de [coercition](./Présentation des sorts.md#COERCITION)) est augmenté de +2. Ce bonus dure 1 journée.
+**Effet.** Cette mélodie envoûtante caresse le voile de la compréhension et découvre le berceau de la vérité. Quand le barde termine cette représentation, la cible doit faire un jet de [[Volonté]]. Si elle échoue, le [[barde]] a compris sa nature primitive et gagne un bonus de +4 à tous les tests basés sur le [[Charisme]] destinés à l’influencer, ainsi le [[DD]] de tous les pouvoirs et sorts qui influent sur la créature ou ses actions (y compris les effets de [[Présentation des sorts#CHARME|charme]] et de [[Présentation des sorts#COERCITION|coercition]]) est augmenté de +2. Ce bonus dure 1 journée.
 
 Le personnage doit avoir une certaine idée de l’identité de la créature quand il commence à jouer, soit parce qu’il a fait des recherches sur elle, soit parce qu’il l’a observée à moins de 30 mètres (20 {s:c}).
 
 **Utilisation.** 5 rounds de représentation bardique
 
-**Action.** 5 [actions complexes](./Action complexe.md)
+**Action.** 5 [[action complexe|actions complexes]]
 
 {s:UM}{s:Reference|DANSEDES23PAS}
 #### Danse des 23 pas (danse)
 Grâce à cette danse complexe, le barde est plus difficile à toucher.
 
-**Condition requise.** 4 rangs en [Représentation](./Représentation.md) (danse)
+**Condition requise.** 4 rangs en [[Représentation]] (danse)
 
 **Prix.** Don ou sort de barde connu de niveau 2
 
-**Effet.** Les pas chassés, les pirouettes et les sauts de cette danse complexe font du barde une cible bien difficile à toucher mais compliquent toute autre action qu’il voudrait entreprendre. Quand le barde utilise ce chef-d’œuvre, il reçoit un malus de -2 aux [jets d’attaque](./jet dattaque.md) au corps à corps et aux tests de [manœuvre offensive](./Manœuvres offensives.md). Il doit réussir un test de [concentration](./concentration.md) s’il veut lancer un sort ([DD](./DD.md) 15 + niveau du sort) mais il gagne un bonus d’esquive de +2 à la [CA](./CA.md). Quand le barde atteint 8 rangs en  [Représentation](./Représentation.md) (danse) et par la suite tous les quatre rangs, le malus augmente de -1 et le bonus de +1. Le barde peut combiner ce chef-d’œuvre avec un combat sur la défensive et l’[Expertise du combat](./Expertise du combat.md) mais pas avec la [défense totale](./défense totale.md). Quand il utilise ce chef-d’œuvre, son effet dure jusqu’au début de son prochain tour. Les pouvoirs qui prolongent la durée d’une représentation bardique (comme la [Représentation obsédante](./Représentation obsédante.md)) affectent également ce chef-d’œuvre, ce qui permet au barde d’en bénéficier pendant plusieurs rounds (et de subir de même les malus) pour seulement 1 round de [représentation bardique](./représentation bardique.md) dépensé.
+**Effet.** Les pas chassés, les pirouettes et les sauts de cette danse complexe font du barde une cible bien difficile à toucher mais compliquent toute autre action qu’il voudrait entreprendre. Quand le barde utilise ce chef-d’œuvre, il reçoit un malus de -2 aux [[jet dattaque|jets d’attaque]] au corps à corps et aux tests de [[Manœuvres offensives|manœuvre offensive]]. Il doit réussir un test de [[concentration]] s’il veut lancer un sort ([[DD]] 15 + niveau du sort) mais il gagne un bonus d’esquive de +2 à la [[CA]]. Quand le barde atteint 8 rangs en  [[Représentation]] (danse) et par la suite tous les quatre rangs, le malus augmente de -1 et le bonus de +1. Le barde peut combiner ce chef-d’œuvre avec un combat sur la défensive et l’[[Expertise du combat]] mais pas avec la [[défense totale]]. Quand il utilise ce chef-d’œuvre, son effet dure jusqu’au début de son prochain tour. Les pouvoirs qui prolongent la durée d’une représentation bardique (comme la [[Représentation obsédante]]) affectent également ce chef-d’œuvre, ce qui permet au barde d’en bénéficier pendant plusieurs rounds (et de subir de même les malus) pour seulement 1 round de [[représentation bardique]] dépensé.
 
 **Utilisation.** 1 round de représentation bardique
 
-**Action.** 1 [action libre](./Action libre.md)
+**Action.** 1 [[action libre]]
 
 {s:UM}{s:Reference|LEGATODUMARCHEINFERNAL}
 #### Legato du marché infernal (cordes)
@@ -102,7 +102,7 @@ Le talent de musicien du barde lui permet d’invoquer des serviteurs surnaturel
 
 **Prix.** Don ou sort de barde connu de niveau 4
 
-**Effet.** Cet air au rythme rapide s’harmonise avec les fréquences magiques d’un autre plan, ce qui permet au barde d’attirer une créature extraplanaire et de négocier ses services. Quand il termine cette représentation, il peut appeler un ou plusieurs extérieurs comme avec [allié majeur d’outreplan](./Allié majeur doutreplan.md). Mais contrairement au sort, cette créature n’est pas forcément associée à son dieu et elle est tout d’abord indifférente envers lui. Comme elle est intriguée par la représentation, elle reste jusqu’à 1 minute pour savoir quels services le [barde](./Barde.md) lui demande et quel paiement il lui propose. Si le barde réussit un test de [Charisme](./Charisme.md) opposé à celui de la créature (avec un bonus de +0 à +6 selon la nature du service et la récompense proposée), elle accepte de lui rendre ce service. En dehors de ceci, ce pouvoir fonctionne comme [allié majeur d’outreplan](./Allié majeur doutreplan.md). La version la plus connue de ce chef d’œuvre fait référence à un marché infernal mais on peut l’utiliser pour invoquer toutes sortes de créatures extraplanaires (comme des [archons](./Archon.md), des [élémentaires](./sous-type élémentaire.md) ou des [protéens](./sous-type protéen.md)). Les autres versions et arrangements de ce chef-d’œuvre possèdent des noms différents mais sinon, leurs effets sont identiques.
+**Effet.** Cet air au rythme rapide s’harmonise avec les fréquences magiques d’un autre plan, ce qui permet au barde d’attirer une créature extraplanaire et de négocier ses services. Quand il termine cette représentation, il peut appeler un ou plusieurs extérieurs comme avec [[allié majeur doutreplan|allié majeur d’outreplan]]. Mais contrairement au sort, cette créature n’est pas forcément associée à son dieu et elle est tout d’abord indifférente envers lui. Comme elle est intriguée par la représentation, elle reste jusqu’à 1 minute pour savoir quels services le [[barde]] lui demande et quel paiement il lui propose. Si le barde réussit un test de [[Charisme]] opposé à celui de la créature (avec un bonus de +0 à +6 selon la nature du service et la récompense proposée), elle accepte de lui rendre ce service. En dehors de ceci, ce pouvoir fonctionne comme [[allié majeur doutreplan|allié majeur d’outreplan]]. La version la plus connue de ce chef d’œuvre fait référence à un marché infernal mais on peut l’utiliser pour invoquer toutes sortes de créatures extraplanaires (comme des [[archon|archons]], des [[sous-type élémentaire|élémentaires]] ou des [[sous-type protéen|protéens]]). Les autres versions et arrangements de ce chef-d’œuvre possèdent des noms différents mais sinon, leurs effets sont identiques.
 
 **Utilisation.** 10 rounds de représentation bardique
 
@@ -116,40 +116,40 @@ Le barde utilise le pouvoir de son jeu d’acteur pour piéger ses ennemis.
 
 **Prix.** Don ou sort de barde connu de niveau 4
 
-**Effet.** Le barde mime en silence la construction d’un mur invisible, aplatissant les mains le long de plans linéaires pour indiquer son emplacement et son orientation. Ce « mur » n’a de réalité que pour les créatures qui ont assisté à la représentation ([Volonté](./Volonté.md), annule). Le barde et ses alliés peuvent rater volontairement leur [jet de sauvegarde](./jet de sauvegarde.md) s’ils veulent traiter le mur comme un élément réel (par exemple, s’ils l’utilisent comme pont pour traverser un gouffre). Pour les créatures qui croient que le mur est réel, il a une solidité de 8, 90 [points de vie](./pv.md) et un [DD](./DD.md) Enfoncer de 30 (si plusieurs créatures attaquent le mur, persuadées de sa réalité, elles le briseront plus rapidement, comme si elles s’en prenaient à un mur réel, pas comme si elles attaquaient toutes une illusion mentale distincte). C’est un effet d’[illusion](./Présentation des sorts.md#ILLUSION) (fantasme). Comme le mur est une image mentale, il bloque les créatures intangibles qui ratent leur [jet de sauvegarde](./jet de sauvegarde.md) (car elles le perçoivent alors comme une barrière magique qui les arrête) mais elles peuvent toujours le contourner ou traverser le sol ou le plafond. Le mur n’affecte pas les objets ni les créatures immunisées contre les effets mentaux (un archer peut donc tirer à travers le mur, même s’il est incapable de le franchir en personne).
+**Effet.** Le barde mime en silence la construction d’un mur invisible, aplatissant les mains le long de plans linéaires pour indiquer son emplacement et son orientation. Ce « mur » n’a de réalité que pour les créatures qui ont assisté à la représentation ([[Volonté]], annule). Le barde et ses alliés peuvent rater volontairement leur [[jet de sauvegarde]] s’ils veulent traiter le mur comme un élément réel (par exemple, s’ils l’utilisent comme pont pour traverser un gouffre). Pour les créatures qui croient que le mur est réel, il a une solidité de 8, 90 [[pv|points de vie]] et un [[DD]] Enfoncer de 30 (si plusieurs créatures attaquent le mur, persuadées de sa réalité, elles le briseront plus rapidement, comme si elles s’en prenaient à un mur réel, pas comme si elles attaquaient toutes une illusion mentale distincte). C’est un effet d’[[Présentation des sorts#ILLUSION|illusion]] (fantasme). Comme le mur est une image mentale, il bloque les créatures intangibles qui ratent leur [[jet de sauvegarde]] (car elles le perçoivent alors comme une barrière magique qui les arrête) mais elles peuvent toujours le contourner ou traverser le sol ou le plafond. Le mur n’affecte pas les objets ni les créatures immunisées contre les effets mentaux (un archer peut donc tirer à travers le mur, même s’il est incapable de le franchir en personne).
 
-À chaque fois que le barde utilise ce pouvoir, il crée un mur de 3 mètres (2 {s:c}) de côté. En plusieurs rounds, il peut élargir le mur ou en créer d’autres. Ils restent tous jusqu’à ce qu’il arrête d’utiliser des rounds de représentation bardique pour les rendre réels. Une fois créé, le mur est immobile. Une partie du mur doit se trouver dans ou le long de l’hexagone occupé par le personnage, qui ne peut pas créer de mur au-delà de son allonge naturelle (en revanche, il peut créer un mur, se déplacer et en créer un autre en utilisant de nouveau ce pouvoir). Une fois le mur créé, il persiste tant que le barde utilise sa représentation ou jusqu’à ce que quelqu’un le « casse. » Les pouvoirs qui prolongent la durée d’une représentation bardique (comme la [Représentation obsédante](./Représentation obsédante.md)) affectent également ce chef-d’œuvre.
+À chaque fois que le barde utilise ce pouvoir, il crée un mur de 3 mètres (2 {s:c}) de côté. En plusieurs rounds, il peut élargir le mur ou en créer d’autres. Ils restent tous jusqu’à ce qu’il arrête d’utiliser des rounds de représentation bardique pour les rendre réels. Une fois créé, le mur est immobile. Une partie du mur doit se trouver dans ou le long de l’hexagone occupé par le personnage, qui ne peut pas créer de mur au-delà de son allonge naturelle (en revanche, il peut créer un mur, se déplacer et en créer un autre en utilisant de nouveau ce pouvoir). Une fois le mur créé, il persiste tant que le barde utilise sa représentation ou jusqu’à ce que quelqu’un le « casse. » Les pouvoirs qui prolongent la durée d’une représentation bardique (comme la [[Représentation obsédante]]) affectent également ce chef-d’œuvre.
 
 **Utilisation.** 1 round de représentation bardique par round
 
-**Action.** 1 [action simple](./Action simple.md) par mur de 3 mètres (2 {s:c}) de côté
+**Action.** 1 [[action simple]] par mur de 3 mètres (2 {s:c}) de côté
 
 {s:UM}{s:Reference|MENUETDULIERRENOCTURNE}
 #### Menuet du lierre nocturne (danse)
 La danse sinueuse du barde l’aide à esquiver les obstacles et à grimper.
 
-**Condition requise.** 4 rangs en [Représentation](./Représentation.md) (danse)
+**Condition requise.** 4 rangs en [[Représentation]] (danse)
 
 **Prix.** Don ou sort de barde connu de niveau 2
 
-**Effet.** Tout comme le lierre gravit les murs et court sur les terrains les plus rocailleux et les plus inégaux, la danse du barde le propulse au-dessus des pierres brisées et des murs. Tant qu’il maintient cette représentation, à chaque fois qu’il se déplace, il peut franchir 1,50 mètre (1 {s:c}) de terrain difficile par round comme s’il s’agissait de terrain normal. Ceci lui permet de faire un pas de 1,50 mètre sur un terrain difficile. Tant que le personnage se déplace latéralement d’au moins 3 mètres, il peut grimper comme s’il possédait une vitesse d’escalade égale à sa [vitesse de base](./VD.md). Le barde peut passer le premier round de sa représentation à montrer cette danse à une créature par tranche de deux niveaux de barde. Si ces spectateurs réussissent un test de [Représentation](./Représentation.md) (danse) [DD](./DD.md) 15, ils profitent également des avantages de ce chef-d’œuvre tant que le barde maintient sa représentation.
+**Effet.** Tout comme le lierre gravit les murs et court sur les terrains les plus rocailleux et les plus inégaux, la danse du barde le propulse au-dessus des pierres brisées et des murs. Tant qu’il maintient cette représentation, à chaque fois qu’il se déplace, il peut franchir 1,50 mètre (1 {s:c}) de terrain difficile par round comme s’il s’agissait de terrain normal. Ceci lui permet de faire un pas de 1,50 mètre sur un terrain difficile. Tant que le personnage se déplace latéralement d’au moins 3 mètres, il peut grimper comme s’il possédait une vitesse d’escalade égale à sa [[VD|vitesse de base]]. Le barde peut passer le premier round de sa représentation à montrer cette danse à une créature par tranche de deux niveaux de barde. Si ces spectateurs réussissent un test de [[Représentation]] (danse) [[DD]] 15, ils profitent également des avantages de ce chef-d’œuvre tant que le barde maintient sa représentation.
 
 **Utilisation.** 1 round de représentation bardique par round
 
-**Action.** 1 [action complexe](./Action complexe.md)
+**Action.** 1 [[action complexe]]
 
 #### Monologue vindicatif (jeu d'acteur, art oratoire, chant)
 {s:plume}<div class="description">**Source :** Magical Marketplace (MaM).</div>*Le discours furieux du barde provoque de fantastiques frappes sonores.*
 
-**Condition requise.** 10 rangs en [Représentation](./Représentation.md) (jeu d'acteur), [Représentation](./Représentation.md) (art oratoire) ou [Représentation](./Représentation.md) (chant)
+**Condition requise.** 10 rangs en [[Représentation]] (jeu d'acteur), [[Représentation]] (art oratoire) ou [[Représentation]] (chant)
 
 **Prix.** Don ou sort de barde connu de niveau 4
 
-**Effet.** Le barde prononce un monologue passionné du point de vue d'une noble reine d'antan, exprimant sa confusion et sa douleur après avoir été trahie par sa propre soeur, et implorant le ciel de faire tomber sur elle sa rage justicière. Si la représentation effectuée est un chant, il s'agit d'un lamento furieux et passionné au lieu d'un soliloque. Une fois la représentation effectuée, le personnage invoque des éclairs, comme avec [appel de la tempête](./Appel de la tempête.md), mais il s'agit de foudre élémentaire infligeant des dommages de son et non d'électricité. Les dommages n'augmentent donc pas dehors ou dans une zone tempétueuse. Au lieu de ça, à chaque round et quel que soit l'environnement, le personnage peut effectuer un test de [Représentation](./Représentation.md) (jeu d'acteur) [DD](./DD.md) 25 lorsqu'il fait une [action simple](./Action simple.md) pour faire tomber un éclair. S'il réussit, l'éclair inflige 5d10 points de dégâts au lieu de 5d6.
+**Effet.** Le barde prononce un monologue passionné du point de vue d'une noble reine d'antan, exprimant sa confusion et sa douleur après avoir été trahie par sa propre soeur, et implorant le ciel de faire tomber sur elle sa rage justicière. Si la représentation effectuée est un chant, il s'agit d'un lamento furieux et passionné au lieu d'un soliloque. Une fois la représentation effectuée, le personnage invoque des éclairs, comme avec [[appel de la tempête]], mais il s'agit de foudre élémentaire infligeant des dommages de son et non d'électricité. Les dommages n'augmentent donc pas dehors ou dans une zone tempétueuse. Au lieu de ça, à chaque round et quel que soit l'environnement, le personnage peut effectuer un test de [[Représentation]] (jeu d'acteur) [[DD]] 25 lorsqu'il fait une [[action simple]] pour faire tomber un éclair. S'il réussit, l'éclair inflige 5d10 points de dégâts au lieu de 5d6.
 
 **Utilisation.** 5 rounds de représentation bardique
 
-**Action.** 5 [actions complexes](./Action complexe.md)
+**Action.** 5 [[action complexe|actions complexes]]
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
@@ -158,38 +158,38 @@ La danse sinueuse du barde l’aide à esquiver les obstacles et à grimper.
 #### Pantomime de Gorroc (comédie, jeu d’acteur)
 Le barde invoque les feux des enfers et le sel pour détruire les plantes.
 
-**Condition requise.** 6 rangs en [Représentation](./Représentation.md) ( jeu d’acteur) ou [Représentation](./Représentation.md) (comédie)
+**Condition requise.** 6 rangs en [[Représentation]] ( jeu d’acteur) ou [[Représentation]] (comédie)
 
 **Prix.** Don ou sort de barde connu de niveau 2
 
-**Effet.** Ce pantomime raconte l’histoire de Gorroc, un fermier stupide qui n’arrivait pas à contrôler les mauvaises herbes qui avaient poussé si rapidement sur ses terres. Désespéré, il marchanda avec un diable qui dessécha la terre avec du sel et une chaleur accablante, transformant une terre fertile en une région désolée pendant plus d’un siècle. Quand le barde termine sa représentation, il crée un [cône](./cône.md) de 9 mètres (6 {s:c}) ou une ligne de 18 mètres (12 {s:c}). Cette zone est frappée par une chaleur brûlante et semée de sel chaud. Les [plantes](./type Plante.md) et les [vases](./type Vase.md) situées dans la zone perdent 1d6 [points de vie](./pv.md) par niveau du barde (avec un maximum de 10d6). La moitié de ces dégâts sont de type feu, l’autre de type perforant. Un jet de [Réflexes](./Réflexes.md) réussi réduit ces dégâts de moitié. Les créatures autres que les plantes et les vases ne subissent que la moitié des dégâts et aucun si elles réussissent leur jet de sauvegarde.
+**Effet.** Ce pantomime raconte l’histoire de Gorroc, un fermier stupide qui n’arrivait pas à contrôler les mauvaises herbes qui avaient poussé si rapidement sur ses terres. Désespéré, il marchanda avec un diable qui dessécha la terre avec du sel et une chaleur accablante, transformant une terre fertile en une région désolée pendant plus d’un siècle. Quand le barde termine sa représentation, il crée un [[cône]] de 9 mètres (6 {s:c}) ou une ligne de 18 mètres (12 {s:c}). Cette zone est frappée par une chaleur brûlante et semée de sel chaud. Les [[type plante|plantes]] et les [[type vase|vases]] situées dans la zone perdent 1d6 [[pv|points de vie]] par niveau du barde (avec un maximum de 10d6). La moitié de ces dégâts sont de type feu, l’autre de type perforant. Un jet de [[Réflexes]] réussi réduit ces dégâts de moitié. Les créatures autres que les plantes et les vases ne subissent que la moitié des dégâts et aucun si elles réussissent leur jet de sauvegarde.
 
 **Utilisation.** 2 rounds de représentation bardique
 
-**Action.** 1 [action complexe](./Action complexe.md)
+**Action.** 1 [[action complexe]]
 
 {s:UM}{s:Reference|PROFONDEURSDELAMONTAGNE}
 #### Profondeurs de la montagne (percussions, vents)
 Le rythme du barde lui permet de briser la roche.
 
-**Condition requise.** 15 rangs en [Représentation](./Représentation.md) (percussion) ou 15 rangs ou Représentation (vents)
+**Condition requise.** 15 rangs en [[Représentation]] (percussion) ou 15 rangs ou Représentation (vents)
 
 **Prix.** Don ou sort de barde connu de niveau 5
 
 **Effet.** La musique du barde peut fendre la pierre et la faire trembler jusqu’à ce qu’elle se brise, comme un chanteur qui casse un verre de vin avec une note parfaite. Quand le personnage termine sa représentation, il crée une vibration semblable à celle du sort tremblement de terre.
 
 À chaque round où il continue de dépenser des rounds de représentation bardique, la zone subit une réplique sismique qui dure tout le round, avec les effets suivants :
-- *Coincé sous les décombres.* Toute créature immobilisée par les effets de la réplique reçoit 1d3 points de dégâts non létaux à chaque minute où elle reste coincée. Si un personnage [immobilisé](./Immobilisé.md) s’évanouit, il doit faire un test de Constitution [DD](./DD.md) 5 ou subir 1d3 points de dégâts létaux par minute, jusqu’à ce que quelqu’un le libère ou qu’il meure.
-- *Falaise.* Des morceaux de paroi s’effondrent et créent des glissements de terrain qui se déplacent horizontalement à la moitié de leur vitesse de chute. Toute créature qui se trouve sur leur passage subit 4d6 points de dégâts contondants ( jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 5 1/2 dégâts) et se retrouve immobilisée sous les décombres.
-- *Grottes, cavernes ou tunnels.* De petits effondrements infligent 4d6 points de dégâts (jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 5 1/2 dégâts) et [immobilisent](./Immobilisé.md) les créatures coincées à l’intérieur.
-- *Incantation.* Le [DD](./DD.md) des tests de [concentration](./concentration.md) est de 15 + niveau du sort pendant la réplique.
+- *Coincé sous les décombres.* Toute créature immobilisée par les effets de la réplique reçoit 1d3 points de dégâts non létaux à chaque minute où elle reste coincée. Si un personnage [[immobilisé]] s’évanouit, il doit faire un test de Constitution [[DD]] 5 ou subir 1d3 points de dégâts létaux par minute, jusqu’à ce que quelqu’un le libère ou qu’il meure.
+- *Falaise.* Des morceaux de paroi s’effondrent et créent des glissements de terrain qui se déplacent horizontalement à la moitié de leur vitesse de chute. Toute créature qui se trouve sur leur passage subit 4d6 points de dégâts contondants ( jet de [[Réflexes]] [[DD]] 5 1/2 dégâts) et se retrouve immobilisée sous les décombres.
+- *Grottes, cavernes ou tunnels.* De petits effondrements infligent 4d6 points de dégâts (jet de [[Réflexes]] [[DD]] 5 1/2 dégâts) et [[immobilisé|immobilisent]] les créatures coincées à l’intérieur.
+- *Incantation.* Le [[DD]] des tests de [[concentration]] est de 15 + niveau du sort pendant la réplique.
 - *Rivières, lacs et marais.* La zone drainée lors du tremblement de terre le reste pendant la réplique.
-- *Structure.* Toute structure construite en terrain dégagé reçoit 50 points de dégâts. Une structure qui s’effondre inflige 4d6 points de dégâts contondants aux créatures qui se trouvent à l’intérieur (jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 5 1/2 dégâts). De plus, ces créatures sont coincées sous les décombres.
+- *Structure.* Toute structure construite en terrain dégagé reçoit 50 points de dégâts. Une structure qui s’effondre inflige 4d6 points de dégâts contondants aux créatures qui se trouvent à l’intérieur (jet de [[Réflexes]] [[DD]] 5 1/2 dégâts). De plus, ces créatures sont coincées sous les décombres.
 - *Terrain dégagé.* Chaque créature qui se trouve dans la zone doit faire un jet de Réflexes DD 55 ou tomber. Des fissures s’ouvrent dans la terre et chaque créature au sol a 25% de chances de tomber dans l’une d’elles ( jet de Réflexes DD 10 pour éviter la crevasse). Les failles font 6 mètres de profondeur et restent ouvertes une fois le tremblement de terre fini.
 
 **Utilisation.** 10 rounds de représentation bardique +1 round par round de réplique
 
-**Action.** 10 [actions complexes](./Action complexe.md)
+**Action.** 10 [[action complexe|actions complexes]]
 
 {s:UM}{s:Reference|REQUIEMDUPRETREROIDECHU}
 #### Requiem du prêtre-roi déchu (art oratoire, chant)
@@ -199,9 +199,9 @@ La représentation du barde révèle comment tromper le temps lui-même.
 
 **Prix.** Don ou sort de barde connu de niveau 3
 
-**Effet.** Ce chef-d’œuvre raconte l’histoire d’un prêtre-roi qui sembla défier le temps en arrachant presque la victoire à un nombre écrasant d’ennemis. Quand le barde termine sa représentation, il devient capable d’accélérer une fois le temps et doit le faire dans les 10 prochaines minutes. Quand il exécute ce chef d’œuvre, il peut utiliser une [action rapide](./Action rapide.md) pour accomplir une action non magique qui demande habituellement une [action de mouvement](./Action de mouvement.md) ou une [action simple](./Action simple.md). Par exemple, il peut faire une [attaque à outrance](./attaque à outrance.md) et ensuite dépenser son [action rapide](./Action rapide.md) pour se déplacer normalement, recharger une arbalète ou tirer une arme, le tout dans le même round. Le personnage doit utiliser cette action supplémentaire moins de 10 minutes après la représentation sinon, elle est perdue.
+**Effet.** Ce chef-d’œuvre raconte l’histoire d’un prêtre-roi qui sembla défier le temps en arrachant presque la victoire à un nombre écrasant d’ennemis. Quand le barde termine sa représentation, il devient capable d’accélérer une fois le temps et doit le faire dans les 10 prochaines minutes. Quand il exécute ce chef d’œuvre, il peut utiliser une [[action rapide]] pour accomplir une action non magique qui demande habituellement une [[action de mouvement]] ou une [[action simple]]. Par exemple, il peut faire une [[attaque à outrance]] et ensuite dépenser son [[action rapide]] pour se déplacer normalement, recharger une arbalète ou tirer une arme, le tout dans le même round. Le personnage doit utiliser cette action supplémentaire moins de 10 minutes après la représentation sinon, elle est perdue.
 
-Ce pouvoir ne se cumule pas avec les effets qui augmentent la vitesse (comme *[rapidité](./Rapidité.md)*) ou modifient le cours du temps (comme *[arrêt du temps](./Arrêt du temps.md)*).
+Ce pouvoir ne se cumule pas avec les effets qui augmentent la vitesse (comme *[[rapidité]]*) ou modifient le cours du temps (comme *[[arrêt du temps]]*).
 
 Les alliés du barde peuvent bénéficier du chef-d’œuvre mais doivent écouter attentivement (à l’exclusion de toute autre activité) la totalité de la représentation et le barde doit dépenser un round de représentation bardique pour chaque allié (en dehors de lui) à qui il veut permettre d’accélérer le temps (par exemple, si le barde veut affecter sa personne et cinq alliés, il doit dépenser 11 rounds de représentation bardique). C’est un effet basé sur le langage.
 
@@ -213,25 +213,25 @@ Les alliés du barde peuvent bénéficier du chef-d’œuvre mais doivent écout
 #### Saut de chat (danse)
 La danse agile du barde lui permet, ainsi qu’à ses compagnons, de tomber en toute sécurité et d’atterrir en douceur.
 
-**Condition requise.** 5 rangs en [Représentation](./Représentation.md) (danse)
+**Condition requise.** 5 rangs en [[Représentation]] (danse)
 
 **Prix.** Don ou sort de barde connu de niveau 2
 
-**Effet.** Cette danse rapide est une série de petits pas qui culmine dans une suite de sauts. Quand le personnage termine la représentation, pendant les 10 minutes qui suivent, il considère n’importe quelle distance de chute comme si elle était plus courte. Cette réduction est égale à la moitié de son niveau de barde x 1,5 mètre (1 {s:c}). Il peut passer la première minute de l’effet à montrer sa danse à une créature par tranche de deux niveaux de barde, si les spectateurs réussissent un test de [Représentation](./Représentation.md) (danse) [DD](./DD.md) 15, ils bénéficient également des effets du chef-d’œuvre pour le reste de sa durée.
+**Effet.** Cette danse rapide est une série de petits pas qui culmine dans une suite de sauts. Quand le personnage termine la représentation, pendant les 10 minutes qui suivent, il considère n’importe quelle distance de chute comme si elle était plus courte. Cette réduction est égale à la moitié de son niveau de barde x 1,5 mètre (1 {s:c}). Il peut passer la première minute de l’effet à montrer sa danse à une créature par tranche de deux niveaux de barde, si les spectateurs réussissent un test de [[Représentation]] (danse) [[DD]] 15, ils bénéficient également des effets du chef-d’œuvre pour le reste de sa durée.
 
 **Utilisation.** 4 rounds de représentation bardique
 
-**Action.** 4 [actions complexes](./Action complexe.md)
+**Action.** 4 [[action complexe|actions complexes]]
 
 {s:UM}{s:Reference|TOCCATAETFUGUEDELADANSEMACABRE}
 #### Toccata et fugue de la danse macabre (claviers, vents)
-L’inquiétante musique du barde estompe les frontières entre la vie et la mort et perturbe les sens des [morts-vivants](./type Mort-vivant.md).
+L’inquiétante musique du barde estompe les frontières entre la vie et la mort et perturbe les sens des [[type mort-vivant|morts-vivants]].
 
 **Condition requise.** 4 rangs en Représentation (claviers) ou 4 rangs en Représentation (vents)
 
 **Prix.** Don ou sort de barde connu de niveau 2
 
-**Effet.** Les notes complexes et les répétitions superposées de ce chef-d’œuvre font penser aux innombrables morts des ères passées et imprègnent les auditeurs d’un subtil sentiment de nostalgie et d’une sombre acceptation de la nature éphémère de la vie. Ce morceau débute par un trio de notes qui se répète fréquemment avec de plus en plus d’insistance, jusqu’à devenir un vortex de sons étourdissant. À la fin de la représentation, le barde et jusqu’à un allié par niveau deviennent [invisibles](./Invisible.md) aux yeux des [morts-vivants](./type Mort-vivant.md), comme sous l’effet d’un sort d’*[invisibilité](./Invisibilité.md)* pour les morts-vivants.
+**Effet.** Les notes complexes et les répétitions superposées de ce chef-d’œuvre font penser aux innombrables morts des ères passées et imprègnent les auditeurs d’un subtil sentiment de nostalgie et d’une sombre acceptation de la nature éphémère de la vie. Ce morceau débute par un trio de notes qui se répète fréquemment avec de plus en plus d’insistance, jusqu’à devenir un vortex de sons étourdissant. À la fin de la représentation, le barde et jusqu’à un allié par niveau deviennent [[invisible|invisibles]] aux yeux des [[type mort-vivant|morts-vivants]], comme sous l’effet d’un sort d’*[[invisibilité]]* pour les morts-vivants.
 
 Comme pour le sort, si une seule créature brise l’effet, il est perdu pour tous les autres bénéficiaires. En revanche, si le barde dépense 1 round de représentation bardique de plus quand il donne sa représentation ou quand il la maintient, il peut dédier un couplet à un allié donné. Dans ce cas, si une personne brise l’invisibilité, celle qui a reçu la dédicace restera cachée tant qu’elle ne brisera pas l’effet. Le barde peut dédier un couplet à plusieurs reprises lors de la même représentation (au rythme d’une fois par round) tant qu’il dépense 1 round de représentation de plus par dédicace.
 
@@ -243,11 +243,11 @@ Comme pour le sort, si une seule créature brise l’effet, il est perdu pour to
 #### Triple cadence (cordes, percussions, vents)
 La vive cadence du barde ravive les pas des marcheurs fatigués.
 
-**Condition requise.** 3 rangs en [Représentation](./Représentation.md) (percussion) ou 3 rangs en [Représentation](./Représentation.md) (cordes) ou 3 rangs en [Représentation](./Représentation.md) (vents)
+**Condition requise.** 3 rangs en [[Représentation]] (percussion) ou 3 rangs en [[Représentation]] (cordes) ou 3 rangs en [[Représentation]] (vents)
 
 **Prix.** Don ou sort de barde connu de niveau 1
 
-**Effet.** Cet air vif entraînant imite le son de pas humains qui prennent lentement une cadence régulière capable de parcourir des kilomètres. Quand le barde termine sa représentation, il affecte un allié à portée d’oreille par niveau de barde. Ce chef-d’œuvre augmente la vitesse de déplacement de base de la cible de 3 mètres pendant 1 heure. Cette modification est assimilée à un bonus d’altération qui n’a pas d’effet sur les autres méthodes de déplacement comme le creusement, l’escalade, le vol ou la nage. Ce pouvoir affecte la distance de saut (voir la compétence [Acrobaties](./Acrobaties.md)), comme tout effet qui augmente la vitesse.
+**Effet.** Cet air vif entraînant imite le son de pas humains qui prennent lentement une cadence régulière capable de parcourir des kilomètres. Quand le barde termine sa représentation, il affecte un allié à portée d’oreille par niveau de barde. Ce chef-d’œuvre augmente la vitesse de déplacement de base de la cible de 3 mètres pendant 1 heure. Cette modification est assimilée à un bonus d’altération qui n’a pas d’effet sur les autres méthodes de déplacement comme le creusement, l’escalade, le vol ou la nage. Ce pouvoir affecte la distance de saut (voir la compétence [[Acrobaties]]), comme tout effet qui augmente la vitesse.
 
 **Utilisation.** 1 round de représentation bardique
 
@@ -257,25 +257,25 @@ La vive cadence du barde ravive les pas des marcheurs fatigués.
 #### Vents des cinq cieux (art oratoire, jeu d’acteur)
 Le barde contrôle le vent en racontant une histoire qui prouve l’orgueil des mortels.
 
-**Condition requise.** 10 rangs en [Représentation](./Représentation.md) (art oratoire) ou 10 rangs en [Représentation](./Représentation.md) ( jeu d’acteur)
+**Condition requise.** 10 rangs en [[Représentation]] (art oratoire) ou 10 rangs en [[Représentation]] ( jeu d’acteur)
 
 **Prix.** Don ou sort de barde connu de niveau 4
 
-**Effet.** Ce court monologue raconte l’histoire d’un prêtre de village qui crut commander aux dieux. Cela ennuya tant les dieux du temps qu’ils lui donnèrent exactement ce qu’il souhaitait et les sermons verbeux du prêtre détruisirent son temple et firent fuir ses ouailles. Quand le barde termine sa représentation, il conjure un grand vent, comme s’il disposait de *[contrôle des vents](./Contrôle des vents.md)*.
+**Effet.** Ce court monologue raconte l’histoire d’un prêtre de village qui crut commander aux dieux. Cela ennuya tant les dieux du temps qu’ils lui donnèrent exactement ce qu’il souhaitait et les sermons verbeux du prêtre détruisirent son temple et firent fuir ses ouailles. Quand le barde termine sa représentation, il conjure un grand vent, comme s’il disposait de *[[contrôle des vents]]*.
 
 **Utilisation.** 3 rounds de représentation bardique
 
-**Action.** 3 [actions complexes](./Action complexe.md)
+**Action.** 3 [[action complexe|actions complexes]]
 
 {s:UM}{s:Reference|VISAGEDEPIERRE}
 #### Visage de pierre (art oratoire, comédie)
 Les pitreries du barde parviennent à dérider les visages les plus sévères.
 
-**Condition requise.** 7 rangs en [Représentation](./Représentation.md) (comédie) ou 7 rangs en [Représentation](./Représentation.md) (art oratoire)
+**Condition requise.** 7 rangs en [[Représentation]] (comédie) ou 7 rangs en [[Représentation]] (art oratoire)
 
 **Prix.** Don ou sort de barde connu de niveau 3
 
-**Effet.** Le barde raconte une vieille histoire drôle à propos d’une femme qui refusait de sourire, même devant quelque chose de drôle. Son légendaire visage austère se détendit enfin suite à une série d’évènements de plus en plus improbables qui impliquait une charrette de fumier, un roi et un tapis volant. Quand le personnage termine sa représentation, la cible est affectée par le sort *[transmutation de la pierre en chair](./Transmutation de la pierre en chair.md)*.
+**Effet.** Le barde raconte une vieille histoire drôle à propos d’une femme qui refusait de sourire, même devant quelque chose de drôle. Son légendaire visage austère se détendit enfin suite à une série d’évènements de plus en plus improbables qui impliquait une charrette de fumier, un roi et un tapis volant. Quand le personnage termine sa représentation, la cible est affectée par le sort *[[transmutation de la pierre en chair]]*.
 
 **Utilisation.** 2 rounds de représentation bardique
 

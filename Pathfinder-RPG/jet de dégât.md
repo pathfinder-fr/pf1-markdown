@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Valeurs de combat#DEGATS
 ---
 
->>> [Valeurs de combat#DEGATS](./Valeurs de combat.md#DEGATS)
+>>> [[Valeurs de combat#DEGATS]]

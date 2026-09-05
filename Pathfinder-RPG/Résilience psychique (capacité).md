@@ -7,6 +7,6 @@ Categories:
 - Src Bestiaire 5
 ---
 
-Une créature dotée de ce pouvoir présente une certaine résistance aux effets de nombreux sorts psychiques. Elle gagne un bonus de +4 aux [jets de sauvegarde](./JDS.md) contre tous les [sorts psychiques](./La magie psychique.md).
+Une créature dotée de ce pouvoir présente une certaine résistance aux effets de nombreux sorts psychiques. Elle gagne un bonus de +4 aux [[jds|jets de sauvegarde]] contre tous les [[La magie psychique|sorts psychiques]].
 
 *Format :* +4 contre les sorts psychiques ; *Emplacement :* après les jets de sauvegarde et dans capacités défensives.

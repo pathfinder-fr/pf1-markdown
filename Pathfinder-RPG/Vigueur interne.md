@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#VIGUEURINTERNE
 ---
 
->>> [Pouvoirs de rage#VIGUEURINTERNE](./Pouvoirs de rage.md#VIGUEURINTERNE)
+>>> [[Pouvoirs de rage#VIGUEURINTERNE]]

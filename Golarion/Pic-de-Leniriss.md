@@ -7,6 +7,6 @@ Categories:
 - Varisie
 ---
 
-Ce qui pourrait passer en tout premier lieu pour un arbre gigantesque si on le regarde de loin est en fait un amalgame de tout ce qu'on peut trouver de végétal dans les environs comme si toute la végétation avait voulu pousser au même endroit. L'origine de cette flèche reste encore un mystère et on suppose que ce pourrait être une infime partie de l'[Arbre Monde](./Arbre-Monde.md).
+Ce qui pourrait passer en tout premier lieu pour un arbre gigantesque si on le regarde de loin est en fait un amalgame de tout ce qu'on peut trouver de végétal dans les environs comme si toute la végétation avait voulu pousser au même endroit. L'origine de cette flèche reste encore un mystère et on suppose que ce pourrait être une infime partie de l'[[Arbre Monde]].
 
 D'innombrables petits rongeurs et oiseaux ont établi nids et repères dans cet enchevêtrement. D'étranges hurlements indiquent aussi qu'il y a également des créatures qu'on ne voudrait pas rencontrer.

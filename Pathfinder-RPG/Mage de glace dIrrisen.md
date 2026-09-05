@@ -9,6 +9,6 @@ Categories:
 
 {s:CSU|1}*Le personnage est né avec le pouvoir de contrôler la neige et la glace comme d’autre contrôlent leurs esclaves.*
 
-**Conditions.** [Ensorceleur](./Ensorceleur.md), affinité avec l’[Enclave de la Reine-Sorcière](./../Golarion/Irrisen.md), accessible seulement au niveau 1.
+**Conditions.** [[Ensorceleur]], affinité avec l’[[Golarion.Irrisen|Enclave de la Reine-Sorcière]], accessible seulement au niveau 1.
 
-**Avantages.** Le personnage lance tous les sorts du [registre](./Registre.md) du froid comme s’il avait un [niveau de lanceur de sorts](./NLS.md) de plus. Les sorts des autres registres d’énergie destructive subissent un malus de –1 au NLS. Trois fois par jour, le personnage peut modifier un sort pour qu’il inflige des dégâts de froid au lieu de son type dégâts habituels. L’augmentation du NLS s’applique à cette variante du sort.
+**Avantages.** Le personnage lance tous les sorts du [[registre]] du froid comme s’il avait un [[NLS|niveau de lanceur de sorts]] de plus. Les sorts des autres registres d’énergie destructive subissent un malus de –1 au NLS. Trois fois par jour, le personnage peut modifier un sort pour qu’il inflige des dégâts de froid au lieu de son type dégâts habituels. L’augmentation du NLS s’applique à cette variante du sort.

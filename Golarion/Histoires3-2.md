@@ -4,8 +4,8 @@ Title: Plus bas, à la ferme
 LastModified: 2010-10-08 11:25
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du deuxième chapitre : "[Down on the Farm](http://paizo.com/pathfinder/tales/serial/v5748dyo5lb9o)" de la nouvelle "Crimes de sang" par J.C. Hay.*
 
 "Pourquoi un zombie ?" demandai-je.

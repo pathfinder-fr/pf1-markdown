@@ -10,9 +10,9 @@ Categories:
 
 {s:divin|Gorum|%2fPCUP%2fReligion-PNG%2fGorum.png}<div class="BD">
 {s:BDTitre|Éclats métamorphes du Seigneur de fer|{s:ISG}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 1 000 po ; **Poids** 1 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 1 000 po ; **Poids** 1 kg
 (((Description)))
-{s:cs}La limaille métallique contenue dans cette pochette est un mélange d'adamantine, de fer froid, de mithral et d'acier. La limaille est légèrement magnétique et adhère au métal ferreux, mais elle s'enlève facilement. Si une arme en métal ou en partie métallique est recouverte de tout le contenu du sachet et placée dans une forge chaude pendant la nuit, elle grandit ou rétrécit lentement d'une catégorie de taille correspondant à la taille de la créature qui a appliqué la poudre. Par exemple, une *[épée longue](./épée longue (arme).md) +1* de taille P recouverte de limaille par une créature de taille M se transforme en une *épée longue +1* de taille M. Cette transformation est permanente. La pochette contient suffisamment de matière pour transformer une arme, quelle que soit sa taille.
+{s:cs}La limaille métallique contenue dans cette pochette est un mélange d'adamantine, de fer froid, de mithral et d'acier. La limaille est légèrement magnétique et adhère au métal ferreux, mais elle s'enlève facilement. Si une arme en métal ou en partie métallique est recouverte de tout le contenu du sachet et placée dans une forge chaude pendant la nuit, elle grandit ou rétrécit lentement d'une catégorie de taille correspondant à la taille de la créature qui a appliqué la poudre. Par exemple, une *[[épée longue (arme)|épée longue]] +1* de taille P recouverte de limaille par une créature de taille M se transforme en une *épée longue +1* de taille M. Cette transformation est permanente. La pochette contient suffisamment de matière pour transformer une arme, quelle que soit sa taille.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[fabrication](./Fabrication.md)* ; **Coût** 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[fabrication]]* ; **Coût** 500 po
 </div>

@@ -10,17 +10,17 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Divination](./école divination.md) ; **Niveau** [Alch](./Alchimiste.md) 5, [Dru](./Druide.md) 6, [Occ](./Occultiste.md) 4, [Rôd](./Rôdeur.md) 4
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Druide|Dru]] 6, [[Occultiste|Occ]] 4, [[Rôdeur|Rôd]] 4
 **Temps d'incantation** 10 minutes
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** [personnelle](./personnelle.md)
+**Composantes** [[composantes|V, G, FD]]
+**Portée** [[personnelle]]
 **Cibles** le lanceur de sort
 **Durée** 10 minutes/niveau
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Pendant toute la durée du sort, le personnage peut toucher les signes du passage d'une créature qu'il a identifiés grâce à la compétence [Survie](./Survie.md) afin de rendre les autres traces dans la trajectoire de la créature claires à ses yeux, peu importe leur taille. Cette piste ne doit pas dater de plus de 24 heures. Le personnage peut suivre la piste à n'importe quelle vitesse, si tant est qu'il ait une ligne de vue directe dessus. Le personnage peut distinguer la piste de la créature spécifique suivie même si elle est rejointe ou quittée par d'autres traces. Une fois que le personnage sélectionne la piste à suivre, il ne peut pas en changer.
+Pendant toute la durée du sort, le personnage peut toucher les signes du passage d'une créature qu'il a identifiés grâce à la compétence [[Survie]] afin de rendre les autres traces dans la trajectoire de la créature claires à ses yeux, peu importe leur taille. Cette piste ne doit pas dater de plus de 24 heures. Le personnage peut suivre la piste à n'importe quelle vitesse, si tant est qu'il ait une ligne de vue directe dessus. Le personnage peut distinguer la piste de la créature spécifique suivie même si elle est rejointe ou quittée par d'autres traces. Une fois que le personnage sélectionne la piste à suivre, il ne peut pas en changer.
 
-Le sort est incapable de suivre des téléportations ou des voyages interplanaires, quelque soit leur distance. La piste semble s'arrêter là où la créature s'est téléportée (bien qu'un test d'[Art de la magie](./Art de la magie.md) réussit permette au personnage de déterminer la méthode utilisée, si elle inclue un sort). *Pistage infaillible* ne peut pas traquer les créatures affectées par *[passage sans trace](./passage sans trace.md)*, étant donné qu'elles ne laissent aucune piste à suivre, mais peut traquer les créatures qui utilisent *[antidétection](./Antidétection.md)* (mais pas *[esprit impénétrable](./Esprit impénétrable.md)*).
+Le sort est incapable de suivre des téléportations ou des voyages interplanaires, quelque soit leur distance. La piste semble s'arrêter là où la créature s'est téléportée (bien qu'un test d'[[Art de la magie]] réussit permette au personnage de déterminer la méthode utilisée, si elle inclue un sort). *Pistage infaillible* ne peut pas traquer les créatures affectées par *[[passage sans trace]]*, étant donné qu'elles ne laissent aucune piste à suivre, mais peut traquer les créatures qui utilisent *[[antidétection]]* (mais pas *[[esprit impénétrable]]*).
 
 Ce sort peut être utilisé pour traquer des créatures volantes, mais leur piste doit commencer sur une surface solide.
 

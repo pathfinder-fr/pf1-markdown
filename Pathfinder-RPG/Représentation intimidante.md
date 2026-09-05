@@ -10,8 +10,8 @@ Categories:
 
 {s:mca} *La représentation du personnage sème la peur dans le coeur de ses ennemis.*
 
-**Conditions.** Capacité à initier une [représentation](./Barde.md#REPRESENTATIONBARDIQUE) (ou un [chant de rage](./Scalde.md#CHANTDERAGE)) par une [action de mouvement](./Action de mouvement.md), pouvoir de classe [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) ou [chant de rage](./Scalde.md#CHANTDERAGE).
+**Conditions.** Capacité à initier une [[barde#REPRESENTATIONBARDIQUE|représentation]] (ou un [[scalde#CHANTDERAGE|chant de rage]]) par une [[action de mouvement]], pouvoir de classe [[barde#REPRESENTATIONBARDIQUE|représentation bardique]] ou [[scalde#CHANTDERAGE|chant de rage]].
 
-**Avantage.** Quand le personnage initie une [représentation](./Barde.md#REPRESENTATIONBARDIQUE) (ou un [chant de rage](./Scalde.md#CHANTDERAGE)) par une [action de mouvement](./Action de mouvement.md) ou une [action rapide](./Action rapide.md), il peut dépenser une [action simple](./Action simple.md) pour démoraliser un adversaire, tentant alors un test de [Représentation](./Représentation.md) approprié plutôt qu’un test d’[Intimidation](./Intimidation.md). Sa représentation doit avoir une composante audible.
+**Avantage.** Quand le personnage initie une [[barde#REPRESENTATIONBARDIQUE|représentation]] (ou un [[scalde#CHANTDERAGE|chant de rage]]) par une [[action de mouvement]] ou une [[action rapide]], il peut dépenser une [[action simple]] pour démoraliser un adversaire, tentant alors un test de [[Représentation]] approprié plutôt qu’un test d’[[Intimidation]]. Sa représentation doit avoir une composante audible.
 
-Si le personnage initie une représentation par une [action rapide](./Action rapide.md) et qu’il possède le don [Démonstration](./Démonstration.md), il peut bénéficier des avantages de [Démonstration](./Démonstration.md) en réussissant un test de Représentation à la place d’un test d’[Intimidation](./Intimidation.md).
+Si le personnage initie une représentation par une [[action rapide]] et qu’il possède le don [[Démonstration]], il peut bénéficier des avantages de [[Démonstration]] en réussissant un test de Représentation à la place d’un test d’[[Intimidation]].

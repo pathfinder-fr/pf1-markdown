@@ -7,8 +7,8 @@ Categories:
 - Varisie
 ---
 
-Le Val sanglant doit son nom à une terrible bataille entre des tribus  de [shoantis](./Shoantis.md) et l’envahisseur chélaxien. Ce passage servait de route commerciale entre l’Empire du [Chéliax](./Chéliax.md) et ses colonies varisiennes. Après sa fermeture à la chute de l’empire, de nombreuses villes varisiennes souhaitèrent la réouverture de ce passage pour développer des relations commerciales avec le sud.
+Le Val sanglant doit son nom à une terrible bataille entre des tribus  de [[shoantis]] et l’envahisseur chélaxien. Ce passage servait de route commerciale entre l’Empire du [[Chéliax]] et ses colonies varisiennes. Après sa fermeture à la chute de l’empire, de nombreuses villes varisiennes souhaitèrent la réouverture de ce passage pour développer des relations commerciales avec le sud.
 
 {s:VoirAussiAvant}
-{s:VoirAussiElem|Plus d'informations sur le Val sanglant dans le module [++Aventures.Présentation modules#Modules_se_déroulant_en_a_class=pagelink_href=GolarionVarisieashx_title=VarisieVarisiea_0|La conquête du val Sanglant.]}
+{s:VoirAussiElem|Plus d'informations sur le Val sanglant dans le module [[Aventures.Présentation modules#Modules_se_déroulant_en_a_class=pagelink_href=GolarionVarisieashx_title=VarisieVarisiea_0|La conquête du val Sanglant.]]}
 {s:VoirAussiAprès}

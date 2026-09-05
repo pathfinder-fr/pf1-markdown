@@ -21,23 +21,23 @@ Les options suivantes viennent s’ajouter à la liste des langues que la race d
 Cette capacité modifie les langues que peut apprendre le Métamorphe.
 
 #### Aspect des éléments (Sur)
-Au niveau 1 le métamorphe des éléments choisit un des aspect présentés à la fin de cette page. Pour le reste cette capacité fonctionne comme la capacité de classe [aspect du métamorphe](./Métamorphe.md#ASPECTDUMÉTAMORPHE). Il obtient également un aspect supplémentaire au niveau 5, au niveau 10 et au niveau 15.
+Au niveau 1 le métamorphe des éléments choisit un des aspect présentés à la fin de cette page. Pour le reste cette capacité fonctionne comme la capacité de classe [[Métamorphe#ASPECTDUMÉTAMORPHE|aspect du métamorphe]]. Il obtient également un aspect supplémentaire au niveau 5, au niveau 10 et au niveau 15.
 
-Cette capacité modifie la capacité [aspect du métamorphe](./Métamorphe.md#ASPECTDUMÉTAMORPHE)
+Cette capacité modifie la capacité [[Métamorphe#ASPECTDUMÉTAMORPHE|aspect du métamorphe]]
 #### Parole des éléments (Sur)
-Quand il est sous l’influence de son aspect, un Métamorphe des éléments gagne les bénéfices du sort *[don des langues](./Don des langues.md)* mais uniquement avec les créatures du même sous type que l’élément de son aspect.
+Quand il est sous l’influence de son aspect, un Métamorphe des éléments gagne les bénéfices du sort *[[don des langues]]* mais uniquement avec les créatures du même sous type que l’élément de son aspect.
 
 #### Frappe des éléments (Sur)
-Au niveau 1, par une [action rapide](./Action rapide.md), un Métamorphe des éléments peut imprégner ses attaques de corps à corps avec de l’énergie élémentaire. Il ne peut imprégner qu’un seul élément à la fois (correspondant à un de ses aspects). Une fois cette capacité activée, toutes ses attaques au corps à corps infligent 1d6 points de dégâts d’énergie (correspondant à un de ses aspects) en plus de ses dégâts de base.
+Au niveau 1, par une [[action rapide]], un Métamorphe des éléments peut imprégner ses attaques de corps à corps avec de l’énergie élémentaire. Il ne peut imprégner qu’un seul élément à la fois (correspondant à un de ses aspects). Une fois cette capacité activée, toutes ses attaques au corps à corps infligent 1d6 points de dégâts d’énergie (correspondant à un de ses aspects) en plus de ses dégâts de base.
 
 Au niveau 4 et tous les 4 niveaux par la suite ces dégâts augmentent de 1d6 pour un maximum de 6d6 au niveau 20.
 
-Un métamorphe des éléments ne peut pas utiliser cette capacité lorsqu’il est soumis à un effet de [métamorphose](./branche métamorphose.md).
+Un métamorphe des éléments ne peut pas utiliser cette capacité lorsqu’il est soumis à un effet de [[branche métamorphose|métamorphose]].
 
-Cette capacité remplace [griffes du métamorphe](./Métamorphe.md#GRIFFESDUMÉTAMORPHE).
+Cette capacité remplace [[Métamorphe#GRIFFESDUMÉTAMORPHE|griffes du métamorphe]].
 
 #### Forme élémentaire (Sur)
-Au niveau 4 un métamorphe des éléments peut utiliser [forme animale](./Métamorphe.md#FORMEANIMALE) mais de façon différente des autre métamorphes.
-Il gagne les effets du sort *[corps élémentaire I](./Corps élémentaire I.md)* mais il obtient uniquement les effets mentionnés dans la section forme majeure de son aspect. Quand il est sous une forme d’élémentaire, il ne peut parler que la langue associée à son élément (il ne peut le faire que s'il connait cette langue, sinon il ne parle pas) et aucune autre.
+Au niveau 4 un métamorphe des éléments peut utiliser [[Métamorphe#FORMEANIMALE|forme animale]] mais de façon différente des autre métamorphes.
+Il gagne les effets du sort *[[corps élémentaire I]]* mais il obtient uniquement les effets mentionnés dans la section forme majeure de son aspect. Quand il est sous une forme d’élémentaire, il ne peut parler que la langue associée à son élément (il ne peut le faire que s'il connait cette langue, sinon il ne parle pas) et aucune autre.
 
-Cette capacité modifie [forme animale](./Métamorphe.md#FORMEANIMALE).
+Cette capacité modifie [[Métamorphe#FORMEANIMALE|forme animale]].

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Traits des morts-vivants (capacité)
 ---
 
->>> [Traits des morts-vivants (capacité)](./Traits des morts-vivants (capacité).md)
+>>> [[Traits des morts-vivants (capacité)]]

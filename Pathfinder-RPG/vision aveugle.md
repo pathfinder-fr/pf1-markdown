@@ -7,4 +7,4 @@ Categories:
 RedirectTo: vision aveugle (capacité)
 ---
 
->>> [vision aveugle (capacité)](./Vision aveugle (capacité).md)
+>>> [[vision aveugle (capacité)]]

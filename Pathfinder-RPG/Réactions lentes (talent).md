@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#REACTIONSLENTES
 ---
 
->>> [Talents#REACTIONSLENTES](./Talents.md#REACTIONSLENTES)
+>>> [[Talents#REACTIONSLENTES]]

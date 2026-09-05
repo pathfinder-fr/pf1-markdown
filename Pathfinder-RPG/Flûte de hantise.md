@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Flûte de hantise|{s:AE}}
-**Aura** [Nécromancie](./Nécromancie.md) faible ; **NLS** 4 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 6 000 po ; **Poids** 1,5 kg
+**Aura** [[Nécromancie]] faible ; **NLS** 4 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 6 000 po ; **Poids** 1,5 kg
 (((Description)))
-Cette *flûte de hantise* est un peu plus petite que la normale. Lorsque la personne qui en joue réussit un test de [Représentation](./Représentation.md) (instruments à vent) de DD 15, cette flûte de Pan produit une mélodie étrange et envoûtante. Les créatures à 9 m ou moins doivent réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 13 ou être [effrayées](./Effrayé.md) pendant 4 rounds. Les créatures ayant 6 [DV](./../Ressources/DV.md) ou plus ne sont pas affectées. La *flûte de hantise* peut être utilisée deux fois par jour.
+Cette *flûte de hantise* est un peu plus petite que la normale. Lorsque la personne qui en joue réussit un test de [[Représentation]] (instruments à vent) de DD 15, cette flûte de Pan produit une mélodie étrange et envoûtante. Les créatures à 9 m ou moins doivent réussir un jet de [[Volonté]] de [[DD]] 13 ou être [[effrayé|effrayées]] pendant 4 rounds. Les créatures ayant 6 [[DV]] ou plus ne sont pas affectées. La *flûte de hantise* peut être utilisée deux fois par jour.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[effroi](./Effroi.md)* ; **Coût** 3 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[effroi]]* ; **Coût** 3 000 po
 </div>

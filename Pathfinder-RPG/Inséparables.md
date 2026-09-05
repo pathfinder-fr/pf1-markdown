@@ -10,7 +10,7 @@ Categories:
 
 {s:RSE}*Votre lien avec votre compagnon animal ou votre familier est inhabituellement fort. *
 
-**Condition.** capacité de classe [Compagnon animal](./compagnon animal.md) ou [Familier](./familier.md).
+**Condition.** capacité de classe [[Compagnon animal]] ou [[Familier]].
 
 **Avantage.** Les capacités de votre compagnon animal ou de votre familier sont calculées comme si votre classe était plus élevée de quatre niveaux, jusqu’à un bonus maximal égal à votre niveau de personnage. Si vous avez plus d’un compagnon animal ou familier, choisissez-en un pour qu’il reçoive ce bénéfice. Si vous perdez ou renvoyez un compagnon animal ou un familier, vous pouvez appliquer ce don à la créature de remplacement.
 

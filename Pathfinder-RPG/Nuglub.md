@@ -14,24 +14,24 @@ Categories:
 {s:pucem|Fée|Souterrain|Tempéré}
 - *Source : Bestiaire 2* p.151
 - **PX** 600
-- [Fée](./type Fée.md) de taille P, CM
-- **Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9
+- [[type Fée|Fée]] de taille P, CM
+- **Init** +4 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +9
 (((Défense)))
 - **CA** 18, contact 15, pris au dépourvu 14 (Dex +4, naturelle +3, taille +1)
 - **pv** 19 (3d6+9)
 - **Réf** +7, **Vig** +3, **Vol** +2
-- **RD** 5/[fer froid](./fer froid.md) ; RM 13
+- **RD** 5/[[fer froid]] ; RM 13
 (((Attaque)))
 - **VD** 9 m (6 {s:c}), escalade 6 m (4 {s:c})
-- **Corps à corps** morsure, +3 (1d4+1 plus [étreinte](./Étreinte.md)) et 2 griffes, +4 (1d3+1 plus [croc-en-jambe](./croc-en-jambe.md))
+- **Corps à corps** morsure, +3 (1d4+1 plus [[étreinte]]) et 2 griffes, +4 (1d3+1 plus [[croc-en-jambe]])
 - **Pouvoirs magiques** (NLS 3<sup>e</sup> ; concentration +4)
-  - À volonté — *[prestidigitation](./Prestidigitation.md)*
-  - 1/heure — *[collet](./Collet.md)*, *[décharge électrique](./Décharge électrique.md)*, *[métal brûlant](./Métal brûlant.md)* (DD 13)
+  - À volonté — *[[prestidigitation]]*
+  - 1/heure — *[[collet]]*, *[[décharge électrique]]*, *[[métal brûlant]]* (DD 13)
 (((Caractéristiques)))
 - **For** 13, **Dex** 18, **Con** 15, **Int** 8, **Sag** 9, **Cha** 12
-- **BBA** +1, **BMO** +1 (+5 [lutte](./lutte.md) et [croc-en-jambe](./croc-en-jambe.md)), **DMD** 15
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Robustesse](./Robustesse.md)<sup>B</sup>, [S’avancer](./Savancer.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +10, [Artisanat](./Artisanat.md) (pièges) +9, [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +9, [Intimidation](./Intimidation.md) +8, [Perception](./Perception.md) +9 ; **Modificateurs raciaux** +4 en [Artisanat](./Artisanat.md) (pièges), +4 en [Intimidation](./Intimidation.md), +4 en [Perception](./Perception.md)
+- **BBA** +1, **BMO** +1 (+5 [[lutte]] et [[croc-en-jambe]]), **DMD** 15
+- **Dons** [[Arme de prédilection]] (griffe), [[Robustesse]]<sup>B</sup>, [[Savancer|S’avancer]]
+- **Compétences** [[Acrobaties]] +10, [[Artisanat]] (pièges) +9, [[Discrétion]] +14, [[Escalade]] +9, [[Intimidation]] +8, [[Perception]] +9 ; **Modificateurs raciaux** +4 en [[Artisanat]] (pièges), +4 en [[Intimidation]], +4 en [[Perception]]
 - **Langues** commun des profondeurs
 - **Particularités** briseur de genoux
 (((Écologie)))
@@ -39,10 +39,10 @@ Categories:
 - **Organisation sociale** solitaire, couple ou groupe (3–6)
 - **Trésor** standard
 (((Capacités spéciales)))
-- **Briseur de genoux (Ext).** Un nuglub bénéficie d’un bonus racial de +4 aux tests de manœuvres des tentatives de [crocs-en-jambe](./croc-en-jambe.md).
+- **Briseur de genoux (Ext).** Un nuglub bénéficie d’un bonus racial de +4 aux tests de manœuvres des tentatives de [[croc-en-jambe|crocs-en-jambe]].
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [gremlins](./Gremlin.md).***</li></ul>*Cet horrible créature bossue possède trois yeux bleus brillants. Une tignasse huileuse recouvre sa tête et son dos à la manière d’une cape.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Gremlin|gremlins]].***</li></ul>*Cet horrible créature bossue possède trois yeux bleus brillants. Une tignasse huileuse recouvre sa tête et son dos à la manière d’une cape.*
 
 Les nuglubs sont des gremlins mentalement dérangés, à qui le combat inspire la même joie démente que les autres gremlins ressentent en détruisant des engins ou en construisant des pièges complexes. Ils passent de longues heures à aiguiser leurs griffes, à tailler leurs dents et à rechercher le meilleur endroit d’où sauter pour se lancer dans la mêlée. Si les adversaires ne viennent pas à eux, c’est eux qui vont les chercher en pénétrant dans les villages et en tuant des innocents pendant la nuit. À leurs yeux, passer un bon moment signifie assassiner de manière si silencieuse que même la victime ne se réveille pas, de sorte que les membres de sa famille puissent découvrir son corps le lendemain matin et mettre l’atrocité sur le dos de quelqu’un d’autre.
 

@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [druide](./Druide.md) 9, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 9  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|feu]]<nowiki>]</nowiki> ; **Niveau** [[druide]] 9, [[ensorceleur]]/[[magicien]] 9  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
 
-**Restriction de cible** *[choisi](./Choisi.md)*
+**Restriction de cible** *[[choisi]]*
 
-Ce mot effet inflige 1d6 points de dégâts de feu par [niveau de lanceur](./NLS.md) (maximum 20d6).
+Ce mot effet inflige 1d6 points de dégâts de feu par [[NLS|niveau de lanceur]] (maximum 20d6).

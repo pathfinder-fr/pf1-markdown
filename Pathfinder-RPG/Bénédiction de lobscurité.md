@@ -10,7 +10,7 @@ Categories:
 
 {s:Menubénédictions}{s:MCA}
 #### Linceul de ténèbres *(mineur)*
-Au niveau 1, le prêtre combattant peut toucher un allié pour lui accorder la bénédiction de l’obscurité. Pendant une minute, l’allié est entouré d’un linceul d’ombres dès qu’il se bat, ce qui lui confère un [camouflage](./camouflage.md) de 20%. Les créatures capables de voir dans les ténèbres surnaturelles ignorent ce camouflage.
+Au niveau 1, le prêtre combattant peut toucher un allié pour lui accorder la bénédiction de l’obscurité. Pendant une minute, l’allié est entouré d’un linceul d’ombres dès qu’il se bat, ce qui lui confère un [[camouflage]] de 20%. Les créatures capables de voir dans les ténèbres surnaturelles ignorent ce camouflage.
 
 #### Vision assombrie *(majeur)*
-Au niveau 10, le prêtre combattant peut placer un voile de ténèbres sur les yeux d’une victime située dans un rayon de 9 mètres (6 {s:c}). La victime doit réussir un jet de [Volonté](./Volonté.md), sinon, elle est aveugle pendant 1 minute (comme avec *[cécité/surdité](./Cécitésurdité.md)*).
+Au niveau 10, le prêtre combattant peut placer un voile de ténèbres sur les yeux d’une victime située dans un rayon de 9 mètres (6 {s:c}). La victime doit réussir un jet de [[Volonté]], sinon, elle est aveugle pendant 1 minute (comme avec *[[Cécitésurdité|cécité/surdité]]*).

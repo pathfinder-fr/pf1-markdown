@@ -10,7 +10,7 @@ LastModified: 2017-06-25 13:44
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 153*}
 - **200 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille Min, NM
+- [[type mort-vivant|Mort-vivant]] de taille Min, NM
 - **Init **+1 ; **Sens** vision dans le noir à 18 m ; Perception +7
 (((Défense)))
 - **CA** 15, contact 15, pris au dépourvu 14 (Dex +1, taille +4)
@@ -25,8 +25,8 @@ LastModified: 2017-06-25 13:44
 (((Statistiques)))
 - **For** 4, **Dex** 13, **Con** —, **Int** 7, **Sag** 14, **Cha** 11
 - **BBA **+1 ; **BMO **-2 ; **DMD** 5 (croc-en-jambe impossible)
-- **Dons** [Attaque en finesse](./Attaque en finesse.md)
-- **Compétences** [Discrétion](./Discrétion.md) +18, [Perception](./Perception.md) +7, [Vol](./Vol.md) +15
+- **Dons** [[Attaque en finesse]]
+- **Compétences** [[Discrétion]] +18, [[Perception]] +7, [[Vol]] +15
 - **Langues** commun (ne sait pas parler)
 - **Particularités** détecteur visuel
 (((Écologie)))
@@ -51,9 +51,9 @@ Elles peuvent également être assignées à la surveillance discrète d’invit
 L’attaque de l’isitoq n’est pas particulièrement violente, mais les créatures touchées par les ailes du globe oculaire se font témoin des derniers instants de vie de la créature à laquelle l’oeil appartenait. Cette terrible vision est si poignante de vérité que la victime est persuadée de vivre sa propre mort.
 
 #### Création d'un isitoq
-Un lanceur de sorts peut créer un isitoq à partir de la tête d’une créature morte de taille P ou M possédant au moins un oeil encore intact. Il doit alors animer cette tête à l’aide d’*[animation des morts](./Animation des morts.md)* comme si c’était un mort-vivant avec 1 Dé de Vie (cette créature compte dans le montant total de DV de créatures animées par le sort et dans le montant total de DV que le lanceur de sorts peut contrôler).
+Un lanceur de sorts peut créer un isitoq à partir de la tête d’une créature morte de taille P ou M possédant au moins un oeil encore intact. Il doit alors animer cette tête à l’aide d’*[[animation des morts]]* comme si c’était un mort-vivant avec 1 Dé de Vie (cette créature compte dans le montant total de DV de créatures animées par le sort et dans le montant total de DV que le lanceur de sorts peut contrôler).
 
-Il doit ensuite lancer *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)* ou *[localisation d’objet](./Localisation dobjet.md)* pour établir la connexion sensorielle, et *[marche dans les airs](./Marche dans les airs.md)*, *[vol](./Vol.md)*, *[lévitation](./Lévitation.md)* ou *[mur de vent](./Mur de vent.md)* pour lui permettre de voler. Une fois ces sorts lancés, l’un des yeux de la créature sort de son orbite et devient un isitoq. Le reste de la tête fait toujours partie du cadavre d’origine.
+Il doit ensuite lancer *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]* ou *[[localisation dobjet|localisation d’objet]]* pour établir la connexion sensorielle, et *[[marche dans les airs]]*, *[[vol]]*, *[[lévitation]]* ou *[[mur de vent]]* pour lui permettre de voler. Une fois ces sorts lancés, l’un des yeux de la créature sort de son orbite et devient un isitoq. Le reste de la tête fait toujours partie du cadavre d’origine.
 
 Un lanceur de sorts malveillant qui possède le don Familier supérieur peut obtenir un familier isitoq au niveau 5.
 </div></td></tr></table>

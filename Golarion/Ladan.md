@@ -7,4 +7,4 @@ Categories:
 - Qadira
 ---
 
-Rivière du [Qadira](./Qadira.md), affluent du fleuve [Jalrune](./Jalrune.md). Elle prend sa source dans les [Montagnes Zho](./Montagnes Zho.md), au pied de la ville de [Koor](./Koor.md).
+Rivière du [[Qadira]], affluent du fleuve [[Jalrune]]. Elle prend sa source dans les [[Montagnes Zho]], au pied de la ville de [[Koor]].

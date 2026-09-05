@@ -9,6 +9,6 @@ Categories:
 ---
 
 {s:MR}{s:AO}**Prix** 7 pa (AO), 10 po (MR, 10 bâtonnets) ; **Poids** — (AO), 0,5 kg (MR, 10 bâtonnets)
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Cette résine aromatique est imbibée d'huiles parfumées et modelée en forme de bâtonnets, de cônes ou de boulettes. On les brûle généralement lors de cérémonies religieuses ou de séances de méditation. Un morceau d'encens brûle pendant une heure.

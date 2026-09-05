@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Boîte à tintamarre|{s:APG}{s:AE}}
-**Aura** [Illusion](./Illusion.md) modérée ; **NLS** 10 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 2 000 po ; **Poids** 1 kg
+**Aura** [[Illusion]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 2 000 po ; **Poids** 1 kg
 (((Description)))
-Cette boîte à musique délicate produit une grande quantité de bruit à un moment déterminé par son propriétaire. Il existe quatre [mots de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE) pour déterminer les sons à jouer (bataille, incendie, massacre ou émeute) et un cinquième pour déterminer le délai d’attente avant que la boîte n’émettent ses bruits (entre 1 [round](./round.md) et 20 minutes). La boîte fait autant de bruit que 40 personnes et le vacarme persiste pendant 2d6 [rounds](./round.md).
+Cette boîte à musique délicate produit une grande quantité de bruit à un moment déterminé par son propriétaire. Il existe quatre [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|mots de commande]] pour déterminer les sons à jouer (bataille, incendie, massacre ou émeute) et un cinquième pour déterminer le délai d’attente avant que la boîte n’émettent ses bruits (entre 1 [[round]] et 20 minutes). La boîte fait autant de bruit que 40 personnes et le vacarme persiste pendant 2d6 [[round|rounds]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[son imaginaire](./Son imaginaire.md)* ; **Coût** 1 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[son imaginaire]]* ; **Coût** 1 000 po
 </div>

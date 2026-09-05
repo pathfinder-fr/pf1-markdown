@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[malédiction](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Occ](./Occultiste.md) 1  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ;** Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un outil cassé)  
+**Composantes** [[Composantes|V, G, M]] (un outil cassé)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 jour/[niveau](./niveau.md) (T)  
+**Durée** 1 jour/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-La cible reçoit un malus de -5 aux tests d'[Artisanat](./Artisanat.md) pendant toute la durée du sort.
+La cible reçoit un malus de -5 aux tests d'[[Artisanat]] pendant toute la durée du sort.

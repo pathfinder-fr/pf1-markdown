@@ -10,8 +10,8 @@ LastModified: 2021-04-03 10:57
 {s:pucem|Extérieur|Collines|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2* p.24}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Agathion](./sous-type agathion.md), [Bien](./sous-type Bien.md), [Extraplanaire](./sous-type extraplanaire.md)) de taille P, NB}
-{s:BDTexte|**Init** +7 ; **Sens** *[détection du Mal](./Détection du Mal.md)*, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Agathion|Agathion]], [[sous-type Bien|Bien]], [[sous-type Extraplanaire|Extraplanaire]]) de taille P, NB}
+{s:BDTexte|**Init** +7 ; **Sens** *[[détection du Mal]]*, [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +12}
 {s:BDTexte|**Aura** aura de calme 9 m (6 {s:c})}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 14, pris au dépourvu 19 (armure +4, Dex +3, naturelle +4, taille +1)}
@@ -21,27 +21,27 @@ LastModified: 2021-04-03 10:57
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +11 (1d4+1) et 2 griffes, +11 (1d3+1)}
-{s:BDTexte|**Attaque spéciales** [bond](./Bond.md)}
+{s:BDTexte|**Attaque spéciales** [[bond]]}
 {s:BDTexte|**Pouvoirs magiques** (NLS 7 ; concentration +10)}
-{s:BDSorts|Constant — *[armure de mage](./Armure de mage.md)*, *[communication avec les animaux](./Communication avec les animaux.md)*, *[détection du Mal](./Détection du Mal.md)*}
-{s:BDSorts|À volonté — *[invisibilité](./Invisibilité.md)* (personnel uniquement)}
-{s:BDSorts|3/jour — *[charme-monstre](./Charme-monstre.md)* (DD 17), *[châtiment sacré](./Châtiment sacré.md)* (DD 17), *[flèches enflammées](./Flèches enflammées.md)*, *[guérison des maladies](./Guérison des maladies.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)* (personnel et 25 kg d'objets uniquement), *[rejet du Mal](./Rejet du Mal.md)* (DD 18)}
-{s:BDSorts|1/jour — *[image accomplie](./Image accomplie.md)* (DD16)}
+{s:BDSorts|Constant — *[[armure de mage]]*, *[[communication avec les animaux]]*, *[[détection du Mal]]*}
+{s:BDSorts|À volonté — *[[invisibilité]]* (personnel uniquement)}
+{s:BDSorts|3/jour — *[[charme-monstre]]* (DD 17), *[[châtiment sacré]]* (DD 17), *[[flèches enflammées]]*, *[[guérison des maladies]]*, *[[porte dimensionnelle]]* (personnel et 25 kg d'objets uniquement), *[[rejet du Mal]]* (DD 18)}
+{s:BDSorts|1/jour — *[[image accomplie]]* (DD16)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 16, **Con** 17, **Int** 19, **Sag** 15, **Cha** 16}
 {s:BDTexte|**BBA** +7, **BMO** +7, **DMD** 20}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaques réflexes](./Attaques réflexes.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+18 pour [sauter](./Acrobaties.md#SAUTER)), [Art de la magie](./Art de la magie.md) +14, [Bluff](./Bluff.md) +13, [Connaissances](./Connaissances.md)) (un au choix) +21, [Connaissances](./Connaissances.md) (mystères) +21, [Connaissances](./Connaissances.md) (plans) +21, [Discrétion](./Discrétion.md) +17, [Perception](./Perception.md) +12, [Représentation](./Représentation.md) (un au choix) +13, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +10 ; **Modificateurs raciaux** +8 en [Acrobaties](./Acrobaties.md) pour [sauter](./Acrobaties.md#SAUTER)}
-{s:BDTexte|**Langues** céleste, commun, draconique, infernal ; *[communication avec les animaux](./Communication avec les animaux.md)*, langage universel}
-{s:BDTexte|**Particularités** [imposition des mains](./Imposition des mains.md) (3d6, 6/jour, comme un [paladin](./Paladin.md) de niveau 7), [savoir bardique](./Barde.md#SAVOIRBARDIQUE) +7}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Attaques réflexes]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10 (+18 pour [[Acrobaties#SAUTER|sauter]]), [[Art de la magie]] +14, [[Bluff]] +13, [[Connaissances]]) (un au choix) +21, [[Connaissances]] (mystères) +21, [[Connaissances]] (plans) +21, [[Discrétion]] +17, [[Perception]] +12, [[Représentation]] (un au choix) +13, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +10 ; **Modificateurs raciaux** +8 en [[Acrobaties]] pour [[Acrobaties#SAUTER|sauter]]}
+{s:BDTexte|**Langues** céleste, commun, draconique, infernal ; *[[communication avec les animaux]]*, langage universel}
+{s:BDTexte|**Particularités** [[imposition des mains]] (3d6, 6/jour, comme un [[paladin]] de niveau 7), [[barde#SAVOIRBARDIQUE|savoir bardique]] +7}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme (Nirvana)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3–12)}
 {s:BDTexte|**Trésor** standard (instrument de musique de maître, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Aura de calme (Sur).** L’aura d’un vulpinal agit comme un sort d’*[apaisement des émotions](./Apaisement des émotions.md)*, avec un rayon de 9 mètres (6 {s:c}). Toute créature pénétrant dans cette zone doit réussir un jet de [Volonté](./Volonté.md) contre un [DD](./DD.md) de 16 pour résister aux effets. En cas de réussite, la créature est immunisée contre l’aura du vulpinal en question pendant 24 heures. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend du [Charisme](./Charisme.md).}
+{s:BDTexte|**Aura de calme (Sur).** L’aura d’un vulpinal agit comme un sort d’*[[apaisement des émotions]]*, avec un rayon de 9 mètres (6 {s:c}). Toute créature pénétrant dans cette zone doit réussir un jet de [[Volonté]] contre un [[DD]] de 16 pour résister aux effets. En cas de réussite, la créature est immunisée contre l’aura du vulpinal en question pendant 24 heures. Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [agathions](./Agathion.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[agathion|agathions]].***</li></ul>
 *Ce renard anthropomorphe aux yeux brillants est habillé de simples vêtements de voyage et tient un instrument de musique dans une main.*
 
 Les vulpinaux figurent parmi les plus petits des agathions. Ils ont tendance à également être les plus directs et les plus amicaux de leur race. Ils se tiennent aussi en tête du classement des agathions qui voyagent le plus vers d’autres plans que le leur. Un vulpinal ressemble à un renard humanoïde doté d’une fourrure brillante (rousse ou rouge-brun, parfois argentée) et d’une queue qui double la longueur de son corps. Ces bardes et érudits de la famille des agathions se parent de vêtements utilitaires et en choisissent généralement un qu’ils garnissent afin de démontrer leur personnalité et leur créativité. La plupart d’entre eux semblent être des adultes, mais certains ressemblent plutôt à des renardeaux (de plus petite stature et avec des yeux plus larges) et d’autres ont une apparence plus âgée (plus mince, avec de la fourrure grise sur le museau, le torse et la queue). Ils possèdent des mains d’humains munies de doigts griffus.

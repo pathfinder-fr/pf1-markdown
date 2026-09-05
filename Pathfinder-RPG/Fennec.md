@@ -10,8 +10,8 @@ LastModified: 2026-08-02 10:11
 {s:pucem|Animal|Collines|Tempéré}
 {s:BDTexte|*Source : Wayfinder #12*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille MIN, N}
-{s:BDTexte|**Init** +3 ; **Sens** [Vision aveugle](./vision aveugle.md) à 3 m (2 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille MIN, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[Vision aveugle]] à 3 m (2 {s:c}), [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -23,16 +23,16 @@ LastModified: 2026-08-02 10:11
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 5, **Dex** 17, **Con** 11, **Int** 2, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +0, **BMO** -5, **DMD** 8 (12 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +3, [Saut](./Saut.md) +11, [Perception](./Perception.md) +5 (+9 à l'ouïe), [Discrétion](./Discrétion.md) +11, [Survie](./Survie.md) +1 ; **Modificateurs raciaux** [Saut](./Saut.md) +4, [Perception](./Perception.md) +4 à l'ouïe.}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +3, [[Saut]] +11, [[Perception]] +5 (+9 à l'ouïe), [[Discrétion]] +11, [[Survie]] +1 ; **Modificateurs raciaux** [[Saut]] +4, [[Perception]] +4 à l'ouïe.}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Déserts et plaines chaudes et tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, paire, famille (3-8)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Chasseur des sables** Les créatures qui sont normalement cachées lorsqu'elles sont sous terre ne reçoivent pas ces avantages lorsqu'ils sont à portée de la vision aveugle du fennec.}
-{s:BDTexte|**[Habitant du désert](./Habitant du désert.md)** Le fennec traite la [chaleur épouvantable](./Dangers naturels.md#CHALEUR) comme une chaleur torride et la chaleur torride comme une chaleur accablante. La chaleur accablante ne l’affecte pas du tout. De plus, il gagne un bonus de +4 à tous les tests de [Constitution](./Constitution.md) pour résister aux effets de faim et de soif.}
-{s:BDTexte|**Familier** Un familier fennec accorde a son maître le don [Habitant du désert](./Habitant du désert.md).}
+{s:BDTexte|**[[Habitant du désert]]** Le fennec traite la [[Dangers naturels#CHALEUR|chaleur épouvantable]] comme une chaleur torride et la chaleur torride comme une chaleur accablante. La chaleur accablante ne l’affecte pas du tout. De plus, il gagne un bonus de +4 à tous les tests de [[Constitution]] pour résister aux effets de faim et de soif.}
+{s:BDTexte|**Familier** Un familier fennec accorde a son maître le don [[Habitant du désert]].}
 </div>
 </td><td><div>Ce minuscule renard couleur crème oscille régulièrement la tête, ses grandes oreilles restant constamment à l'affût des proies comme des prédateurs.
 

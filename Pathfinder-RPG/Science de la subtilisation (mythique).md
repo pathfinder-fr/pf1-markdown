@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les doigts lestes du personnage lui permettent de subtiliser tous les objets, même si ses ennemis les agrippent fermement.*
 
-**Condition.** [Science de la subtilisation](./Science de la subtilisation.md)
+**Condition.** [[Science de la subtilisation]]
 
-**Avantage.** Le personnage gagne un bonus égal à la moitié de son grade aux tests de [manoeuvre offensive](./manoeuvre-offensive.md) de subtilisation et ce même bonus est ajouté à son DMD lorsqu’un adversaire tente de le subtiliser. Ces bonus se cumulent avec ceux conférés par la version [non-mythique](./non-mythique.md) de [Science de la subtilisation](./Science de la subtilisation.md). De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui tente de le subtiliser, à moins qu’elle possède également ce don.
+**Avantage.** Le personnage gagne un bonus égal à la moitié de son grade aux tests de [[manoeuvre offensive]] de subtilisation et ce même bonus est ajouté à son DMD lorsqu’un adversaire tente de le subtiliser. Ces bonus se cumulent avec ceux conférés par la version [[non-mythique]] de [[Science de la subtilisation]]. De plus, le personnage peut effectuer une attaque d’opportunité contre une créature qui tente de le subtiliser, à moins qu’elle possède également ce don.

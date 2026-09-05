@@ -6,37 +6,37 @@ Categories:
 - Campagne
 ---
 
-Voir aussi : [Les Terres Blessées], [La Plaie du monde](./../Golarion/Plaie du monde.md)
+Voir aussi : [[Les Terres Blessées]], [[Golarion.Plaie du monde|La Plaie du monde]]
 
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Drézen|}
-{s:BDTexte|*Source : [Aides de jeu AP13#SIEGEDEDREZEN|La Colère des Justes], p.126 ; Guide de la Plaie du monde p.24*}
-[Grosse bourgade](./../Pathfinder-RPG/Villes.md#Le_profil_d’une_communauté_1), CM
+{s:BDTexte|*Source : [[Aides de jeu AP13#SIEGEDEDREZEN|La Colère des Justes]], p.126 ; Guide de la Plaie du monde p.24*}
+[[Pathfinder-RPG.Villes#Le_profil_d’une_communauté_1|Grosse bourgade]], CM
 **Corruption** +4; **Criminalité** 0; **Economie** -9; **Loi** -2 ; **Folklore** +0 ; **Société** -6
-**Avantage de ville** : [emplacement stratégique](./../Pathfinder-RPG/Villes.md#AVANTAGES)
+**Avantage de ville** : [[Pathfinder-RPG.Villes#AVANTAGES|emplacement stratégique]]
 **Danger** +25
-**Inconvénient de ville** : [Terrain de chasse](./../Pathfinder-RPG/Villes.md#INCONVENIENTS), [Pauvreté](./../Pathfinder-RPG/Villes.md#INCONVENIENTS), [en ruine](./../Pathfinder-RPG/Villes.md#INCONVENIENTS)
+**Inconvénient de ville** : [[Pathfinder-RPG.Villes#INCONVENIENTS|Terrain de chasse]], [[Pathfinder-RPG.Villes#INCONVENIENTS|Pauvreté]], [[Pathfinder-RPG.Villes#INCONVENIENTS|en ruine]]
 (((Démographie)))
 **Gouvernement** : seigneur
 **Population** : 3 689 (33% humains, 33% tieffelins, 27% démons, 2% goules, 5% autres), 3800 esclaves et prisonniers
 (((PNJ Importants)))
-**Dirigent** [Aponavicius](./AP13-Aponavicius.md) : maritith (f) guerrier 7, CM
-**Commandant** [Staunton Vhane](./AP13-Staunton Vhane.md) : nain (f) Nain (m) Antipaladin de Deskari 8 / Champion mythique 2, CM
-**Sénéchal** [Chorussine Domal](./AP13-Chorussine Domal.md) : Tieffelin (f) d'age mûr magicien (invocateur) 7 / adepte démoniaque 3, CM
-**Maître espion** [Kiranda](./AP13-Kiranda.md) : succube (f) duelliste 2, CM
-**Maitre des forges** [Joran Vhane](./AP13-Joran Vhane.md) : nain (m) prêtre de Droskar 6 / guerrier 2, NM
-**Ingénieur-chef** [Jestak](./AP13-Jestak.md) : humain (f) barbare 10, CM
-**Geôlier** [Théruk Nul](./AP13-Théruk Nul.md) : vampire (m) demi-orque pretre de Shax 6 / assassin 2, CM
-**Maître du Cimetière** [Moxsahbull](./AP13-Moxsahbull.md) : Berbalang évolué (m)
-**Gardien** [Soltengrebbe](./AP13-Soltengrebbe.md) : chimère mythique (f), CM
+**Dirigent** [[AP13-Aponavicius|Aponavicius]] : maritith (f) guerrier 7, CM
+**Commandant** [[AP13-Staunton Vhane|Staunton Vhane]] : nain (f) Nain (m) Antipaladin de Deskari 8 / Champion mythique 2, CM
+**Sénéchal** [[AP13-Chorussine Domal|Chorussine Domal]] : Tieffelin (f) d'age mûr magicien (invocateur) 7 / adepte démoniaque 3, CM
+**Maître espion** [[AP13-Kiranda|Kiranda]] : succube (f) duelliste 2, CM
+**Maitre des forges** [[AP13-Joran Vhane|Joran Vhane]] : nain (m) prêtre de Droskar 6 / guerrier 2, NM
+**Ingénieur-chef** [[AP13-Jestak|Jestak]] : humain (f) barbare 10, CM
+**Geôlier** [[AP13-Théruk Nul|Théruk Nul]] : vampire (m) demi-orque pretre de Shax 6 / assassin 2, CM
+**Maître du Cimetière** [[AP13-Moxsahbull|Moxsahbull]] : Berbalang évolué (m)
+**Gardien** [[AP13-Soltengrebbe|Soltengrebbe]] : chimère mythique (f), CM
 (((Lieux notables)))
 **Rive Nord** quartier abandonné
-**Rive Sud** Armée de [Tieffelins](./../Pathfinder-RPG/Tieffelin.md) G (Moral +1; [Alarendi](./Rôdeur Tieffelin 5.md) Cha +1; aucun bienfait), Armée de [fanatiques](./../Pathfinder-RPG/PNJ Brigand.md) G (Moral +2; [Vérilenn](./../Pathfinder-RPG/PNJ Boucanier vétéran.md) Cha +2; aucun bienfait)
-**Colline du Paradis** Armée d'[Ariès](./../Pathfinder-RPG/Ariès.md) M (Moral +3; [Pozlixt](./../Pathfinder-RPG/Vrock.md) Cha +3; aucun bienfait), parc à esclaves
-**Cimetière** Armée de [Goules](./../Pathfinder-RPG/Goule.md) M (Moral +4; [Turgath](./../Pathfinder-RPG/Blême.md) Cha +4; aucun bienfait)
+**Rive Sud** Armée de [[Pathfinder-RPG.Tieffelin|Tieffelins]] G (Moral +1; [[Rôdeur Tieffelin 5|Alarendi]] Cha +1; aucun bienfait), Armée de [[Pathfinder-RPG.PNJ Brigand|fanatiques]] G (Moral +2; [[Pathfinder-RPG.PNJ Boucanier vétéran|Vérilenn]] Cha +2; aucun bienfait)
+**Colline du Paradis** Armée d'[[Pathfinder-RPG.Ariès|Ariès]] M (Moral +3; [[Pathfinder-RPG.Vrock|Pozlixt]] Cha +3; aucun bienfait), parc à esclaves
+**Cimetière** Armée de [[Pathfinder-RPG.Goule|Goules]] M (Moral +4; [[Pathfinder-RPG.Blême|Turgath]] Cha +4; aucun bienfait)
 **Pont de l'Ahari** Seul pont en état permettant d'accéder à la citadelle.
-**Citadelle de Drézen** Armée de [fanatiques](./../Pathfinder-RPG/PNJ Brigand.md) G (Moral +2; [Nnelirév](./../Pathfinder-RPG/PNJ Boucanier vétéran.md) Cha +2; aucun bienfait), Armée de [Tieffelins](./../Pathfinder-RPG/Tieffelin.md) G (Moral +1; [Idnerala](./Rôdeur Tieffelin 5.md) Cha +1; aucun bienfait); Armée de [Dretchs](./../Pathfinder-RPG/Dretch.md) M (Moral +5;  [Suiroxe](./../Pathfinder-RPG/Incube.md) Char +5; impitoyable)
+**Citadelle de Drézen** Armée de [[Pathfinder-RPG.PNJ Brigand|fanatiques]] G (Moral +2; [[Pathfinder-RPG.PNJ Boucanier Vétéran|Nnelirév]] Cha +2; aucun bienfait), Armée de [[Pathfinder-RPG.Tieffelin|Tieffelins]] G (Moral +1; [[Rôdeur Tieffelin 5|Idnerala]] Cha +1; aucun bienfait); Armée de [[Pathfinder-RPG.Dretch|Dretchs]] M (Moral +5;  [[Pathfinder-RPG.Incube|Suiroxe]] Char +5; impitoyable)
 (((Place du marché)))
 **Valeur de base** 660  po ; **Limite d'achat** 2 500 po ; **Incantation** 3
 **Objets faibles** : 1d4 ; **intermédiaires** : 1d3
@@ -51,49 +51,49 @@ Les soldats et mercenaires constituent le reste des habitants et patrouillent r�
 |- CLASS="titre"
 | d100 || Rencontre || FP moyen
 |- CLASS="premier"
-| 01-08 || 1d8 [dretchs](./../Pathfinder-RPG/Dretch.md) || 6
+| 01-08 || 1d8 [[Pathfinder-RPG.Dretch|dretchs]] || 6
 |-
-| 07-13 || 2d6 [goules](./../Pathfinder-RPG/Goule.md) || 6
+| 07-13 || 2d6 [[Pathfinder-RPG.Goule|goules]] || 6
 |-
-| 14-20 || 1 [minotaure demi-fiélon](./../Pathfinder-RPG/Minotaure demi-fiélon.md) || 6
+| 14-20 || 1 [[Pathfinder-RPG.Minotaure demi-fiélon|minotaure demi-fiélon]] || 6
 |-
-| 21-24 || 1d4 [ariès](./../Pathfinder-RPG/Ariès.md) || 6
+| 21-24 || 1d4 [[Pathfinder-RPG.Ariès|ariès]] || 6
 |-
-| 25-27 || 1d6 [ombres](./../Pathfinder-RPG/Ombre.md) || 6
+| 25-27 || 1d6 [[Pathfinder-RPG.ombre|ombres]] || 6
 |-
 | 28-33 || Bergers || 7
 |-
-| 34-40 || 1d4 [brimoraks](./../Pathfinder-RPG/Brimorak.md) || 7
+| 34-40 || 1d4 [[Pathfinder-RPG.Brimorak|brimoraks]] || 7
 |-
-| 41-45 || 1d8 [asticots géants](./../Pathfinder-RPG/Asticot géant.md) || 7
+| 41-45 || 1d8 [[Pathfinder-RPG.asticot géant|asticots géants]] || 7
 |-
-| 46-50 || 1d4 [babaus](./../Pathfinder-RPG/Babau.md) || 8
+| 46-50 || 1d4 [[Pathfinder-RPG.babau|babaus]] || 8
 |-
 | 51-55 || Traqueur bodack || 8
 |-
-| 56-60 || 1d4 [âpresoifs](./../Pathfinder-RPG/Âpresoif.md) || 8
+| 56-60 || 1d4 [[Pathfinder-RPG.âpresoif|âpresoifs]] || 8
 |-
 | 61-67 || Maîtres des hurleurs || 8
 |-
-| 68-72 || 1d4 [nabasus](./../Pathfinder-RPG/Nabasu.md) || 8
+| 68-72 || 1d4 [[Pathfinder-RPG.nabasu|nabasus]] || 8
 |-
 | 73-77 || Chevalier paladin || 8
 |-
-| 78-84 || 1 [urannagal](./../Pathfinder-RPG/Urannagal.md) || 8
+| 78-84 || 1 [[Pathfinder-RPG.Urannagal|urannagal]] || 8
 |-
-| 85-87 || 1 [kithangien](./../Pathfinder-RPG/Kithangien.md) || 9
+| 85-87 || 1 [[Pathfinder-RPG.kithangien|kithangien]] || 9
 |-
-| 88-91 || 1d4 [spectres](./../Pathfinder-RPG/Spectre.md) || 9
+| 88-91 || 1d4 [[Pathfinder-RPG.spectre|spectres]] || 9
 |-
-| 92-95 || 1d8 [thoxels](./../Pathfinder-RPG/Thoxel.md) || 9
+| 92-95 || 1d8 [[Pathfinder-RPG.Thoxel|thoxels]] || 9
 |-
-| 96-98 || 1 [nuée de tiques](./../Pathfinder-RPG/Nuée de tiques.md) || 9
+| 96-98 || 1 [[Pathfinder-RPG.nuée de tiques|nuée de tiques]] || 9
 |-
-| 99-100 || 1 [vrock](./../Pathfinder-RPG/Vrock.md) || 9
+| 99-100 || 1 [[Pathfinder-RPG.vrock|vrock]] || 9
 |}
 
-- **Bergers (FP 7)** : [Jelra](./../Pathfinder-RPG/PNJ Garde frontalier.md), [Téoske](./../Pathfinder-RPG/PNJ Garde frontalier.md), [2 aurochs mangeurs d'hommes](./../Pathfinder-RPG/Auroch mangeur dhommes.md)
-- **Chevalier paladin (FP 8)** :  [Zlathin](./../Pathfinder-RPG/Démon des ombres.md) dans le corps d'un [paladin archer saint](./Pathfinder-RPG-PNJ-Archer-saint.md)
-- **Maîtres des hurleurs (FP 8)** :   [8 Tieffelins](./../Pathfinder-RPG/Tieffelin.md), [4 hurleurs](./../Pathfinder-RPG/Hurleur.md)
-- **Traqueur bodak (FP 8)** :  [bodak](./../Pathfinder-RPG/Bodak.md)
+- **Bergers (FP 7)** : [[Pathfinder-RPG.PNJ Garde frontalier|Jelra]], [[Pathfinder-RPG.PNJ Garde frontalier|Téoske]], [[Pathfinder-RPG.Auroch mangeur dhommes|2 aurochs mangeurs d'hommes]]
+- **Chevalier paladin (FP 8)** :  [[Pathfinder-RPG.démon des ombres|Zlathin]] dans le corps d'un [[Pathfinder-RPG.PNJ Archer saint|paladin archer saint]]
+- **Maîtres des hurleurs (FP 8)** :   [[Pathfinder-RPG.Tieffelin|8 Tieffelins]], [[Pathfinder-RPG.Hurleur|4 hurleurs]]
+- **Traqueur bodak (FP 8)** :  [[Pathfinder-RPG.Bodak|bodak]]
 </div></td></tr></table>

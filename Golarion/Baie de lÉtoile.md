@@ -7,11 +7,11 @@ Categories:
 - Étendue deau
 ---
 
-Le puissant fleuve du Sellen, la plus grande de tout l'[Avistan](./Avistan.md), se jette dans la Baie de l'Étoile à la frontière entre l'[Andoran](./Andoran.md) et le [Taldor](./Taldor.md). Bien qu'elle ne représente qu'une petite partie de la [mer intérieure](./mer Intérieure.md), la Baie de l'Étoile est l'une des voies navigables les plus importantes et les plus fréquentées de la région de la mer intérieure en raison de tout les échanges qui s'opèrent par le Sellen.<sup>(1)</sup> La Baie de l'Étoile reste un territoire fortement contesté, car sa place à la frontière entre l'Andoran et le Taldor conduit à des disputes sur les droits de pêche et la taxation des navires.<sup>(2)</sup>
+Le puissant fleuve du Sellen, la plus grande de tout l'[[Avistan]], se jette dans la Baie de l'Étoile à la frontière entre l'[[Andoran]] et le [[Taldor]]. Bien qu'elle ne représente qu'une petite partie de la [[mer intérieure]], la Baie de l'Étoile est l'une des voies navigables les plus importantes et les plus fréquentées de la région de la mer intérieure en raison de tout les échanges qui s'opèrent par le Sellen.<sup>(1)</sup> La Baie de l'Étoile reste un territoire fortement contesté, car sa place à la frontière entre l'Andoran et le Taldor conduit à des disputes sur les droits de pêche et la taxation des navires.<sup>(2)</sup>
 
-La Baie de l'Étoile abrite un ou plusieurs [nuckelavees](./../Pathfinder-RPG/Nuckelavee.md), ce que les communautés qui bordent la baie savent parfaitement. Des lois environnementales strictes sont appliquées dans ces villes pour garder les eaux propres et apaiser ces fées annonciatrices de la mort.<sup>(3)</sup>
+La Baie de l'Étoile abrite un ou plusieurs [[Pathfinder-RPG.Nuckelavee|nuckelavees]], ce que les communautés qui bordent la baie savent parfaitement. Des lois environnementales strictes sont appliquées dans ces villes pour garder les eaux propres et apaiser ces fées annonciatrices de la mort.<sup>(3)</sup>
 
-La baie tire son nom d'une légende racontée par les premiers habitants indigènes de la région, avant l'avènement de l'empire du [Taldor](./Taldor.md). Elle prétendait que les eaux infinies du Sellen provenaient d'une étoile qui dormait sous une montagne loin au nord.<sup>(1)</sup><sup>(2)</sup>
+La baie tire son nom d'une légende racontée par les premiers habitants indigènes de la région, avant l'avènement de l'empire du [[Taldor]]. Elle prétendait que les eaux infinies du Sellen provenaient d'une étoile qui dormait sous une montagne loin au nord.<sup>(1)</sup><sup>(2)</sup>
 
 ### Références
 **1.** Joshua J. Frost dans *[Taldor, Echoes of Glory](https://paizo.com/products/btpy8853)* en 2009, p. 7. Paizo inc. ; **VF** *[Recueil de la Société des Éclaieurs](https://www.black-book-editions.fr/produit.php?id=1587)* p.298

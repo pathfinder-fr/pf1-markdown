@@ -17,11 +17,11 @@ Categories:
 ---
 
 {s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}{s:MR}
-**École** [Invocation](./Invocation.md) ([guérison](./branche guérison.md)) ; **Niveau** [Alch](./Alchimiste.md) 2, [Dru](./Druide.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Pal](./Paladin.md) 2, [Prê](./Prêtre.md) 2, [Rôd](./Rôdeur.md) 2, [Sor](./Sorcière.md) 1  
+**École** [[Invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[Alchimiste|Alch]] 2, [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Rôdeur|Rôd]] 2, [[Sorcière|Sor]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V,G, FD](./composantes.md)  
+**Composantes** [[Composantes|V,G, FD]]  
 
 **Portée** contact  
 
@@ -29,6 +29,6 @@ Categories:
 
 **Durée** 24h  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-La cible devient temporairement immunisée aux [maladies](./Maladies.md). Aucune des maladies auxquelles elle a été exposée pendant la [durée](./Présentation des sorts.md#DUREE) du sort ne l’affecte tant qu’il dure. Si la cible est déjà affectée par une maladie, le lanceur doit réussir un test de lanceur de sorts contre le DD de la maladie pour la suspendre le temps que dure le sort ; sinon, cette maladie affecte la cible normalement. Retardement des maladies ne soigne pas les dégâts qu’une maladie a déjà causés.
+La cible devient temporairement immunisée aux [[maladies]]. Aucune des maladies auxquelles elle a été exposée pendant la [[Présentation des sorts#DUREE|durée]] du sort ne l’affecte tant qu’il dure. Si la cible est déjà affectée par une maladie, le lanceur doit réussir un test de lanceur de sorts contre le DD de la maladie pour la suspendre le temps que dure le sort ; sinon, cette maladie affecte la cible normalement. Retardement des maladies ne soigne pas les dégâts qu’une maladie a déjà causés.

@@ -7,20 +7,20 @@ Categories:
 - Sort psychiste 9
 ---
 
-**École** [Évocation](./Évocation.md) ; **Niveau** [Prê](./Prêtre.md) 9, [Psy](./Psychiste.md) 9  
+**École** [[Évocation]] ; **Niveau** [[Prêtre|Prê]] 9, [[Psychiste|Psy]] 9  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** 1 créature tangible/[round](./round.md)  
+**Cible** 1 créature tangible/[[round]]  
 
-**Durée** [concentration](./Présentation des sorts.md#DUREE) (jusqu’à 1 [round](./round.md)/2 [niveaux](./niveau.md))  
+**Durée** [[Présentation des sorts#DUREE|concentration]] (jusqu’à 1 [[round]]/2 [[niveau|niveaux]])  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Cette incantation génère un état de résonance destructeur dans le corps de la cible. Chaque round que le [prêtre](./Prêtre.md) passe à se [concentrer](./concentration.md) (y compris le premier), il inflige 10 points de dégâts par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) à une créature en provoquant son implosion. Si le personnage perd sa [concentration](./concentration.md), le sort se termine immédiatement mais les créatures qui ont déjà commencé à imploser continuent de s’effondrer sur elles-mêmes. Le personnage ne peut pas affecter la même créature à plusieurs reprises au cours d’une même utilisation de ce sort.
+Cette incantation génère un état de résonance destructeur dans le corps de la cible. Chaque round que le [[prêtre]] passe à se [[concentration|concentrer]] (y compris le premier), il inflige 10 points de dégâts par [[niveau de lanceur de sorts]] à une créature en provoquant son implosion. Si le personnage perd sa [[concentration]], le sort se termine immédiatement mais les créatures qui ont déjà commencé à imploser continuent de s’effondrer sur elles-mêmes. Le personnage ne peut pas affecter la même créature à plusieurs reprises au cours d’une même utilisation de ce sort.
 
-*Implosion* est sans effet sur les créatures [intangibles](./Intangible.md) ou celles qui se trouvent en [état gazeux](./État gazeux.md).
+*Implosion* est sans effet sur les créatures [[intangible|intangibles]] ou celles qui se trouvent en [[état gazeux]].

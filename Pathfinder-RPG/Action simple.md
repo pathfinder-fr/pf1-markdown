@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Types dactions#SIMPLE
 ---
 
->>> [Types dactions#SIMPLE](./Types dactions.md#SIMPLE)
+>>> [[Types dactions#SIMPLE]]

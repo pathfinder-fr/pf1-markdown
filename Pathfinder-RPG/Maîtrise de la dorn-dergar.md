@@ -10,10 +10,10 @@ Categories:
 
 {s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}*Le personnage sait manipuler la dorn-dergar d’une main.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Combat à deux armes](./Combat à deux armes.md), [BBA](./BBA.md) +4, maniement de la [dorn-dergar naine](./dorn-dergar naine (arme).md)
+**Conditions.** [[Combat à deux armes]], [[BBA]] +4, maniement de la [[dorn-dergar naine (arme)|dorn-dergar naine]]
 
-**Avantage.** Le personnage peut manipuler une dorn-dergar comme une arme à une main. Dans ce cas, il peut changer la façon de l’utiliser comme une arme de mêlée normale ou à allonge par une action complexe]]. S’il possède le don [Frappe de la vipère jaillissante](./Frappe de la vipère jaillissante.md), il peut changer l’allonge de l’arme par une [action de mouvement](./Action de mouvement.md).
+**Avantage.** Le personnage peut manipuler une dorn-dergar comme une arme à une main. Dans ce cas, il peut changer la façon de l’utiliser comme une arme de mêlée normale ou à allonge par une action complexe]]. S’il possède le don [[Frappe de la vipère jaillissante]], il peut changer l’allonge de l’arme par une [[action de mouvement]].
 
 **Normal.** Une dorn-dergar se manipule à deux mains.

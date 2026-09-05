@@ -13,13 +13,13 @@ Categories:
 
 *Lorsque le personnage verse le sang de son adversaire cette créature commence à douter de ses compétences.*
 
-**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+**Catégorie.** [[dons#DONMALEFICESANGLANT|maléfice sanglant]]
 
-**Conditions.** [Int](./Int.md) 13; 5 rangs en [Intimidation](./Intimidation.md), en [Diplomatie](./Diplomatie.md), et en [Bluff](./Bluff.md)
+**Conditions.** [[Int]] 13; 5 rangs en [[Intimidation]], en [[Diplomatie]], et en [[Bluff]]
 
-**Avantage.** Par une [action complexe](./Action complexe.md), le personnage peut diminuer la confiance que se porte une créature à qui il a infligé des dégâts dans la minute. Cette créature doit réussir un test de [Volonté](./Volonté.md) ou subir une pénalité de -6 aux tests de l'une des compétences suivantes au choix du personnage : [Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md). Cette affliction dure jusqu'à ce que le sujet soit totalement guéri de ses points de vie, jusqu'à une durée maximale de 1 heure.
+**Avantage.** Par une [[action complexe]], le personnage peut diminuer la confiance que se porte une créature à qui il a infligé des dégâts dans la minute. Cette créature doit réussir un test de [[Volonté]] ou subir une pénalité de -6 aux tests de l'une des compétences suivantes au choix du personnage : [[Bluff]], [[Diplomatie]] ou [[Intimidation]]. Cette affliction dure jusqu'à ce que le sujet soit totalement guéri de ses points de vie, jusqu'à une durée maximale de 1 heure.
 
-**Spécial.** Un [chaman](./Chaman.md) ou une [sorcière](./Sorcière.md) disposant de ce maléfice sanglant peut l'utiliser par une [action simple](./Action simple.md). De plus, si un chaman ou une sorcière utilise ce maléfice sanglant, il s'applique aux tests de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md) et d'[Intimidation](./Intimidation.md).
+**Spécial.** Un [[chaman]] ou une [[sorcière]] disposant de ce maléfice sanglant peut l'utiliser par une [[action simple]]. De plus, si un chaman ou une sorcière utilise ce maléfice sanglant, il s'applique aux tests de [[Bluff]], de [[Diplomatie]] et d'[[Intimidation]].
 
 (((Uncertainty (blood Hex)
 When you draw a foe’s blood in combat, that creature begins to doubt its skills.

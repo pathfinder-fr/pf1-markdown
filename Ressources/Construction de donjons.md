@@ -9,7 +9,7 @@ LastModified: 2017-04-19 21:00
 ### Rencontres tactiques
 Parfois, dans un donjon, les rencontres peuvent être un peu plus complexes que de simples créatures dans une salle. Vous trouverez ci-dessous quelques idées de ces créatures ou techniques qui peuvent changer un simple combat en casse-tête mortel.
 
-[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t13847~~Construction-de-donjon~~Rencontres-tactiques|Fil du sujet</nowiki>]
+[[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t13847~~Construction-de-donjon~~Rencontres-tactiques|Fil du sujet</nowiki>]]
 
 
 

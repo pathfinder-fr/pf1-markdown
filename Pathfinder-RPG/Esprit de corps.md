@@ -14,6 +14,6 @@ Categories:
 
 Source : Distant shores
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONEQUIPE|équipe]]
 
-**Avantage.** Chaque fois qu'un allié situé à 3m(2c) ou moins bénéficie d'un bonus de moral sur un type de jet particulier, une fois durant la durée de ce bonus, vous pouvez appliquer ce bonus de moral à un jet de ce type que vous faites. Par exemple, si un allié avec ce don bénéficie d'[héroïsme](./Héroïsme.md), vous pouvez, une fois pendant la durée du sort, gagner un bonus de moral de +2 sur un [jet de sauvegarde](./jet de sauvegarde.md), jet d'attaque, ou test de compétence. Vous ne pouvez utiliser cet effet qu'une fois par round, et une fois par effet ou sort.
+**Avantage.** Chaque fois qu'un allié situé à 3m(2c) ou moins bénéficie d'un bonus de moral sur un type de jet particulier, une fois durant la durée de ce bonus, vous pouvez appliquer ce bonus de moral à un jet de ce type que vous faites. Par exemple, si un allié avec ce don bénéficie d'[[héroïsme]], vous pouvez, une fois pendant la durée du sort, gagner un bonus de moral de +2 sur un [[jet de sauvegarde]], jet d'attaque, ou test de compétence. Vous ne pouvez utiliser cet effet qu'une fois par round, et une fois par effet ou sort.

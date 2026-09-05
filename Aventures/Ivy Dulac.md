@@ -12,7 +12,7 @@ Categories:
 
 {s:BDTitre|Ivy Dulac "La force Riverton"|FP 7}
 **PX** 4 800
-{s:BDTexte|[Voleur](./Pathfinder-RPG-Voleur.md) 4 (Bretteur) ; [Rodeur](./Pathfinder-RPG-Rodeur.md) 3 (Changeforme) }
+{s:BDTexte|[[Pathfinder-RPG.Voleur|Voleur]] 4 (Bretteur) ; [[Pathfinder-RPG.Rodeur|Rodeur]] 3 (Changeforme) }
 {s:BDTexte|humanoïde (humain) de taille M (CN)}
 {s:BDTexte|**Init **+7 ; **Sens **Perception +15, Vision Nocturne 18m, Vision dans le noir 9m}
 {s:BDSousTitre|CAPACITÉS DÉFENSIVES}

@@ -4,7 +4,7 @@ Title: Prêtre filou
 LastModified: 2020-04-28 02:14
 ---
 
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 <!~~Je suis étonné que l'on puisse créer directement dans le wiki. Bon je me lance ! Fâché avec les wiki-tableaux, j'ai essayé de faire au mieux.~~>
 Note : quelques idées et beaucoup de copier-coller ; voici une version possible du prêtre filou basée sur la classe hybride du prêtre combattant et sans tableau parce que je suis une quiche.
 
@@ -40,7 +40,7 @@ Il est formé au port des armures légères et intermédiaires ; au maniement de
 
 ### Sorts
 
-**[Tableau de la fréquence des sorts identique à celui du Prêtre combattant](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Prêtre combattant.ashx)**
+**[Tableau de la fréquence des sorts identique à celui du Prêtre combattant](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Prêtre%20combattant.ashx)**
 
 Le prêtre filou lance des sorts divins issus de la liste du prêtre. Un prêtre filou ne peut pas lancer de sorts dont l’alignement est opposé au sien ou à celui de son dieu (s’il en sert un). L’alignement d’un sort est indiqué dans sa description par les registres Bien, Chaos, Loi et Mal.
 
@@ -48,7 +48,7 @@ Le prêtre filou choisit et prépare ses sorts à l’avance. Le prêtre filou l
 
 Pour préparer ou lancer un sort, le prêtre filou doit avoir une valeur de Sagesse au moins égale à 10 + niveau du sort. Le DD du jet de sauvegarde pour résister au sort du prêtre filou est de 10 + niveau du sort + modificateur de Sagesse du prêtre filou.
 
-Comme d’autres lanceurs de sorts, le prêtre filou lance un nombre limité de sorts de chaque niveau chaque jour. Ce nombre figure dans la [table du prêtre combattant](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Prêtre combattant.ashx). De plus, s’il a une valeur de Sagesse élevée, il reçoit des sorts quotidiens supplémentaires.
+Comme d’autres lanceurs de sorts, le prêtre filou lance un nombre limité de sorts de chaque niveau chaque jour. Ce nombre figure dans la [table du prêtre combattant](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Prêtre%20combattant.ashx). De plus, s’il a une valeur de Sagesse élevée, il reçoit des sorts quotidiens supplémentaires.
 Le prêtre filou prie ou médite pour obtenir ses sorts. Il choisit la période de la journée pendant laquelle il consacre, chaque jour, une heure en contemplation silencieuse ou en suppliques, afin de récupérer son nombre de sorts quotidiens. Le prêtre filou peut préparer et lancer n’importe quel sort de la liste du prêtre, à condition d’avoir le niveau requis, mais il doit choisir les sorts qu’il prépare lors de sa méditation quotidienne.
 
 #### Incantation spontanée
@@ -61,7 +61,7 @@ Le prêtre filou prie ou médite pour obtenir ses sorts. Il choisit la période 
 
 #### Oraisons
 
-Les prêtres filous préparent un certain nombre d’oraisons (ou sorts de niveau 0), comme indiqué dans la [table des sorts du prêtre combattant](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Prêtre combattant.ashx). Ces oraisons se lancent comme les autres sorts mais ne sont pas dépensées et sont donc réutilisables.
+Les prêtres filous préparent un certain nombre d’oraisons (ou sorts de niveau 0), comme indiqué dans la [table des sorts du prêtre combattant](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Prêtre%20combattant.ashx). Ces oraisons se lancent comme les autres sorts mais ne sont pas dépensées et sont donc réutilisables.
 
 
 ### Aura (Ext)
@@ -79,7 +79,7 @@ Chaque jour, le prêtre filou peut faire appel au pouvoir de sa bénédiction un
 
 Le DD du jet de sauvegarde contre une bénédiction est de 10 + 1/2 niveau du prêtre filou + son modificateur de Sagesse. Si le prêtre filou possède des niveaux dans une autre classe offrant des domaines de prêtres, ses bénédictions doivent être issues des mêmes domaines. Si le MJ accepte, le prêtre filou peut changer ses bénédictions ou ses domaines pour les mettre en conformité.
 
-**[Liste des Bénédictions](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Bénédictions.ashx)**
+**[Liste des Bénédictions](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.B%c3%a9n%c3%a9dictions.ashx)**
 
 ### Ferveur (Sur)
 

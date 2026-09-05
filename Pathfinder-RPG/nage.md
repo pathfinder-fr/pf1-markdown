@@ -5,4 +5,4 @@ LastModified: 2010-08-16 14:53
 RedirectTo: Pathfinder-RPG.Natation
 ---
 
->>> [Pathfinder-RPG.Natation](./Natation.md)
+>>> [[Pathfinder-RPG.Natation]]

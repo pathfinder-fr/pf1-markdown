@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Vermine|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.49*}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille G, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 9, pris au dépourvu 17 (naturelle +8, taille -1)}
 {s:BDTexte|**pv** 45 (7d8+14)}
@@ -24,11 +24,11 @@ Categories:
 {s:BDTexte|**VD**  6 m (4 {s:c}), vol  9 m (6 {s:c}) (médiocre)}
 {s:BDTexte|**Corps à corps** morsure +8 (2d8+6)}
 {s:BDTexte|**Espace**  3 m (2 {s:c}) ; **Allonge**  1,50 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [piétinement](./Piétinement.md) (1d6+6, DD 17)}
+{s:BDTexte|**Attaques spéciales** [[piétinement]] (1d6+6, DD 17)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 10, **Con** 15, **Int** -, **Sag** 10, **Cha** 9}
-{s:BDTexte|**BBA** +5, **BMO** +10, **DMD** 20 (28 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Compétences** [Vol](./Vol.md) -6}
+{s:BDTexte|**BBA** +5, **BMO** +10, **DMD** 20 (28 contre [[croc-en-jambe]])}
+{s:BDTexte|**Compétences** [[Vol]] -6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou portée (3-6)}
@@ -40,13 +40,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Charançon géant](./Charançon géant.md) || 4
+| [[Charançon géant]] || 4
 |-
-| [Coléoptère goliath](./Coléoptère goliath.md) || 8
+| [[Coléoptère goliath]] || 8
 |-
-| [Coléoptère tranchoir](./Coléoptère tranchoir.md) || 4
+| [[Coléoptère tranchoir]] || 4
 |-
-| [Punaise de feu](./Punaise de feu.md) || 1/3
+| [[Punaise de feu]] || 1/3
 |}
 </div>*Ce coléoptère gigantesque au corps allongé lève ses énormes mandibules en signe de menace, prêt à défendre son territoire.*
 
@@ -64,7 +64,7 @@ Il existe également d’autres variétés de coléoptères géants. Les deux va
 - **Scarabée géant (FP 2).** Ce coléoptère géant de taille M ne possède que 2 DV mais il peut projeter de l’acide sur un cône de 3 mètres une fois par round. Ceux qui se trouvent dans cette zone doivent réussir un jet de Vigueur de DD 11 pour éviter de subir 1d4+2 points de dégâts d’acide. Le DD dépend de la Constitution.
 
 #### Le coléoptère géant comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), vol 6 m (4 {s:c}) (médiocre) ;  **Attaque** morsure (1d6) ; **Particularité** [vision dans le noir](./vision dans le noir.md) ; **DMD** croc-en-jambe +8; **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 12, [Con](./Constitution.md) 13, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 11, [Cha](./Charisme.md) 4 ; **CA** armure naturelle +6
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), vol 6 m (4 {s:c}) (médiocre) ;  **Attaque** morsure (1d6) ; **Particularité** [[vision dans le noir]] ; **DMD** croc-en-jambe +8; **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 12, [[Constitution|Con]] 13, [[Intelligence|Int]] –, [[Sagesse|Sag]] 11, [[Charisme|Cha]] 4 ; **CA** armure naturelle +6
 
-**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (1d8) ; **Attaque spéciale** [piétinement](./Piétinement.md) (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2
+**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (1d8) ; **Attaque spéciale** [[piétinement]] (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2
 </div></td></tr></table>

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 po ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces mammifères épineux se roulent en boule quand ils se sentent menacés. On les garde parfois comme animaux de compagnie et certains magiciens les apprécient comme [familiers](./Familiers.md). Voir les statistiques du [hérisson](./Hérisson.md).
+Ces mammifères épineux se roulent en boule quand ils se sentent menacés. On les garde parfois comme animaux de compagnie et certains magiciens les apprécient comme [[Familiers]]. Voir les statistiques du [[hérisson]].

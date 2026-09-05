@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEASSOURDISSANTE
 ---
 
->>> [découvertes#BOMBEASSOURDISSANTE](./découvertes.md#BOMBEASSOURDISSANTE)
+>>> [[découvertes#BOMBEASSOURDISSANTE]]

@@ -6,9 +6,9 @@ LastModified: 2024-06-02 17:49
 
 <div class="BD">
 {s:BDTitre|Mitaines de reconnaissance|{s:AE}}
-**Aura** [Divination](./école divination.md) faible ; **NLS** 3 ; **Emplacement** [mains](./Objets merveilleux portés aux mains.md) ; **Prix** 2.000 po ; **Poids** —
+**Aura** [[école divination|Divination]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 2.000 po ; **Poids** —
 (((Description)))
 Ces mitaines en cuir paraissent particulièrement usées. Elles sont souvent tachées de boue et dégagent une odeur d’herbe. Sur commande, leur porteur peut voir et entendre à travers des matériaux compacts d’une épaisseur maximale de 1,50 mètres en posant ses deux mains dessus. Le porteur peut utiliser les mitaines une fois par jour pendant 1 minute maximum. Le porteur doit porter les *mitaines de reconnaissance* pendant 24 heures consécutives avant de pouvoir activer cette capacité.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*  ; **Coût** 1.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Clairaudienceclairvoyance|clairaudience/clairvoyance]]*  ; **Coût** 1.000 po
 </div>

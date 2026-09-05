@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Inspirée
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Inspirée](./Descriptions individuelles des propriétés spéciales des armes.md#Inspirée)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Inspirée]]

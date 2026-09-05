@@ -6,14 +6,14 @@ LastModified: 2014-09-30 02:19
 
 Manipulations :
 - Lancement de l'appli -> **chrono 1** (entre étape 0 et 1)
-- Création de perso (bouton 1 [Ressources.MH-MesPersos|ici] -> **chrono 2** (entre étape 1 et 2) - vous pouvez changer de langue avant cette étape si vous êtes plus à l'aise avec le français (bouton 7 [Ressources.MH-MesPersos|ici])
-- Créez un prêtre gnome de Desna avec le reste des options telles que vous le souhaitez avec des chronos entre les écrans "[Ressources.MH-Crea5|Classe]" et "[Ressources.MH-Crea5|Options de Classe]" (**chrono 3**), entre les écrans "[Ressources.MH-Crea9|Compétences]" et "[Ressources.MH-Crea10|Dons]" (**chrono 4**) et entre la validation du don et le retour à l'[Ressources.MH-MesPersos|écran] listant les personnages (**chrono 5**)
-- Lancez Siggy (bouton 2 [Ressources.MH-MesPersos|ici]) -> **chrono 6** (entre fin étape 3 et 4)
-- Retour vers l'écran listant vos persos (bouton 1 [Ressources.MH-MonPerso|ici])
-- Lancez à nouveau Siggy alors que le calcul de ce personnage a déjà été effectué (bouton 2 [Ressources.MH-MesPersos|ici]) -> **chrono 7**
-- Faites apparaître la barre d'outils latérale (bouton 5 [Ressources.MH-MonPerso|ici])
-- Recalcul de Siggy  (bouton 26 [Ressources.MH-MonPerso|ici]) -> **chrono 8** (entre étape 5 et 6)
-- Cliquez sur l'onglet "Inventaire" (bouton 13 [Ressources.MH-MonPerso|ici]) qui est le changement de tab le plus long -> **chrono 9** (entre étape 6 et 7)
+- Création de perso (bouton 1 [[Ressources.MH-MesPersos|ici]] -> **chrono 2** (entre étape 1 et 2) - vous pouvez changer de langue avant cette étape si vous êtes plus à l'aise avec le français (bouton 7 [[Ressources.MH-MesPersos|ici]])
+- Créez un prêtre gnome de Desna avec le reste des options telles que vous le souhaitez avec des chronos entre les écrans "[[Ressources.MH-Crea5|Classe]]" et "[[Ressources.MH-Crea5|Options de Classe]]" (**chrono 3**), entre les écrans "[[Ressources.MH-Crea9|Compétences]]" et "[[Ressources.MH-Crea10|Dons]]" (**chrono 4**) et entre la validation du don et le retour à l'[[Ressources.MH-MesPersos|écran]] listant les personnages (**chrono 5**)
+- Lancez Siggy (bouton 2 [[Ressources.MH-MesPersos|ici]]) -> **chrono 6** (entre fin étape 3 et 4)
+- Retour vers l'écran listant vos persos (bouton 1 [[Ressources.MH-MonPerso|ici]])
+- Lancez à nouveau Siggy alors que le calcul de ce personnage a déjà été effectué (bouton 2 [[Ressources.MH-MesPersos|ici]]) -> **chrono 7**
+- Faites apparaître la barre d'outils latérale (bouton 5 [[Ressources.MH-MonPerso|ici]])
+- Recalcul de Siggy  (bouton 26 [[Ressources.MH-MonPerso|ici]]) -> **chrono 8** (entre étape 5 et 6)
+- Cliquez sur l'onglet "Inventaire" (bouton 13 [[Ressources.MH-MonPerso|ici]]) qui est le changement de tab le plus long -> **chrono 9** (entre étape 6 et 7)
 
 {| CLASS="tablo"
 |- CLASS="titre"

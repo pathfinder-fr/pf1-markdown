@@ -18,18 +18,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Cham](./Chaman.md) 0, [Con](./Conjurateur.md) 0, [ConU](./conjurateur unchained.md) 0, [Dru](./Druide.md) 0, [Inq](./Inquisiteur.md) 0, [Méd](./Médium.md) 0, [Occ](./Occultiste.md) 0, [Prê](./Prêtre.md) 0, [Sor](./Sorcière.md) 0, [Spi](./Spirite.md) 0  
+**École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Druide|Dru]] 0, [[Inquisiteur|Inq]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Prêtre|Prê]] 0, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[COMPOSANTES|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
 **Durée** 1 minute ou jusqu’à utilisation  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
-Ce sort fournit à la créature une *assistance divine* momentanée, se traduisant par un bonus de compétence de +1 sur un [jet d’attaque](./jet dattaque.md), un [jet de sauvegarde](./jet de sauvegarde.md) ou un [test de compétence](./test de compétence.md). La cible doit choisir d’utiliser ou non son bonus avant de jeter le dé.
+Ce sort fournit à la créature une *assistance divine* momentanée, se traduisant par un bonus de compétence de +1 sur un [[jet dattaque|jet d’attaque]], un [[jet de sauvegarde]] ou un [[test de compétence]]. La cible doit choisir d’utiliser ou non son bonus avant de jeter le dé.

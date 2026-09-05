@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Carte sublime|{s:UI}}
-**Aura** [Illusion](./Illusion.md) modérée ; **NLS** 11 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 7 800 po ; **Poids** 0,25 kg
+**Aura** [[Illusion]] modérée ; **NLS** 11 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 7 800 po ; **Poids** 0,25 kg
 (((Description)))
-{s:cs}Lorsqu'il est inactif, cet objet ressemble à un simple rouleau de cuir tanné de la taille d'un porte-cartes. Une inspection minutieuse révèle six runes imparfaites dans un coin, et quiconque connaît la séquence correcte peut toucher les runes afin d'activer la magie de l'objet. Ce faisant, une illusion tridimensionnelle, monochromatique et translucide apparaît - une carte très détaillée d'un lieu particulier. Si la *carte sublime* se trouve dans la zone qu'elle décrit et qu'elle est active, son emplacement apparaît sur la carte sous la forme d'une faible lumière verte qui pulse calmement. La carte accorde un bonus de circonstances de +2 aux tests de [Survie](./Survie.md) pour naviguer dans la zone représentée.
+{s:cs}Lorsqu'il est inactif, cet objet ressemble à un simple rouleau de cuir tanné de la taille d'un porte-cartes. Une inspection minutieuse révèle six runes imparfaites dans un coin, et quiconque connaît la séquence correcte peut toucher les runes afin d'activer la magie de l'objet. Ce faisant, une illusion tridimensionnelle, monochromatique et translucide apparaît - une carte très détaillée d'un lieu particulier. Si la *carte sublime* se trouve dans la zone qu'elle décrit et qu'elle est active, son emplacement apparaît sur la carte sous la forme d'une faible lumière verte qui pulse calmement. La carte accorde un bonus de circonstances de +2 aux tests de [[Survie]] pour naviguer dans la zone représentée.
 
 Un propriétaire qui souhaite cartographier une nouvelle zone peut activer la *carte sublime* avec une séquence différente de runes pour effacer toutes les cartes stockées à l'intérieur et commencer à cartographier automatiquement la zone qui l'entoure. La carte enregistre les pièces, les couloirs, les caractéristiques naturelles et le mobilier notable, mais pas les créatures vivantes ni les petits détails tels qu'un bas-relief mural sur un mur ou le type de serrure d'une porte. Cette fonction de cartographie fonctionne en permanence, même lorsque la carte est enroulée, enregistrant tout dans un rayon de 9 m autour d'elle-même. Cela dure jusqu'à ce que la carte soit désactivée ou se déplace de plus de 150 m de l'endroit où elle a été activée pour la première fois. Par conséquent, la plus grande zone qu'une *carte sublime* peut représenter est une sphère de 300 m de diamètre. Le fait d'activer à nouveau la *carte sublime* dans le but de cartographier efface entièrement la carte précédente, mais la carte se met automatiquement à jour si un élément qu'elle a déjà cartographié change. Par exemple, si une porte est enfoncée alors que la *carte sublime* est présente, celle-ci met à jour ses données pour montrer ce qui se trouve dans la pièce au-delà. La carte doit être présente (et à moins de 9 m) pour être mise à jour de cette façon.
 
@@ -20,5 +20,5 @@ Pendant la cartographie, la carte peut voir à travers les créatures et les bar
 
 Une *carte sublime* trouvée comprend généralement une représentation d'un lieu laissée par son précédent propriétaire.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[image permanente](./Image permanente.md)* ; **Coût** 3 900 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[image permanente]]* ; **Coût** 3 900 po
 </div>

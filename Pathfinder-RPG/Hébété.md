@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.États préjudiciables#Hébété
 ---
 
->>> [Pathfinder-RPG.États préjudiciables#Hébété](./États préjudiciables.md#Hébété)
+>>> [[Pathfinder-RPG.États préjudiciables#Hébété]]

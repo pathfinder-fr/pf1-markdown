@@ -4,8 +4,8 @@ Title: Méfiez-vous des écailleux
 LastModified: 2010-10-08 11:38
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du second chapitre : "[Fear the Scaled Ones](http://paizo.com/pathfinder/tales/serial/v5748dyo5lbh2)" de la nouvelle "Le Gardien du Marais" d'Amber E. Scott. Illustration de KyuShik Shin.*
 
 La pagaie s'enfonça dans l'eau puis revint vers l'arrière, laissant des tourbillons de limon dans son sillage. Rhyn pagayait énergiquement, l'esquive se faufilait entre les troncs des arbres géants qui jaillissaient de la vase. Les insectes étaient présents, comme d'habitude. Dans les ténèbres, les crapauds croassaient leurs chants.

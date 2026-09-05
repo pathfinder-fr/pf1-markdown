@@ -4,8 +4,8 @@ Title: Derrière le rideau
 LastModified: 2010-10-08 11:32
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du quatrième et dernier chapitre : "[Behind The Curtain](http://paizo.com/pathfinder/tales/serial/v5748dyo5lb5l)" de la nouvelle "L'Éclaireur disparu" par Dave Gross. Illustration de Joe Wilson*
 
 Recevoir un bon coup sur le crâne, c'est pire que ce que vous pourriez penser. En supposant que ça ne vous tue pas, il y a une bonne chance que ça ramollisse votre cerveau, que ça vous fasse loucher, que ça détruise votre odorat ou que ça occasionne une bonne dizaine d'autres souvenirs déplaisants vous rappelant ce moment où vous avez été suffisamment stupide pour vous avancer au-delà de l'endroit où s'était tapi l'assassin tiefeling que vous étiez censé surprendre.
@@ -108,4 +108,4 @@ De tout ce qui devait être remis sur le droit chemin.
 
 "Non, Radovan," dis-je. "Il est l'heure de partir."
 
-*La suite des aventures de Radovan et de Jeggare dans la nouvelle [Le Prince des Loups](./Romans.md#PRINCEOFWOLVES).*
+*La suite des aventures de Radovan et de Jeggare dans la nouvelle [[Romans#PRINCEOFWOLVES|Le Prince des Loups]].*

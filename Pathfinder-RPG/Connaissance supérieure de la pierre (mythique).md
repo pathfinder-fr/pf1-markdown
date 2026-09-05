@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Si le personnage écoute attentivement, il peut entendre la pierre lui murmurer ses secrets.*
 
-**Condition.** [Connaissance supérieure de la pierre](./Connaissance supérieure de la pierre.md)
+**Condition.** [[Connaissance supérieure de la pierre]]
 
-**Avantage.** Le personnage gagne le pouvoir magique de pierres commères utilisable une fois par jour avec un niveau de lanceur de sorts égal à deux fois son [grade](./Grade.md).
+**Avantage.** Le personnage gagne le pouvoir magique de pierres commères utilisable une fois par jour avec un niveau de lanceur de sorts égal à deux fois son [[grade]].

@@ -8,82 +8,82 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Flèche mortelle|{s:AE}}
-**Aura** [Nécromancie](./Nécromancie.md) puissante ; **NLS** 13 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 2 282 po (flèche mortelle) ou 4 057 po (flèche mortelle supérieure) ; **Poids** 50 g
+**Aura** [[Nécromancie]] puissante ; **NLS** 13 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 2 282 po (flèche mortelle) ou 4 057 po (flèche mortelle supérieure) ; **Poids** 50 g
 (((Description)))
-Cette flèche +1 est mortelle pour un type de créature déterminé lors de sa création. En cas d’attaque réussie, la cible doit réussir un jet de [Vigueur](./Vigueur.md) ([DD](./DD.md) 20) pour ne pas subir 50 points de dégâts. Même les monstres qui ne font jamais de jet de [Vigueur](./Vigueur.md) en temps normal ([morts-vivants](./type Mort-vivant.md) et [créatures artificielles](./type Créature artificielle.md)) peuvent être affectés par une flèche mortelle appropriée. Si la flèche est supposée tuer une créature vivante, c’est un effet de mort (ce qui signifie que protection contre la mort permet de s’en protéger). Pour déterminer quel type (et éventuellement sous-type) de créature la flèche mortelle est capable de tuer, jetez 1d100 et consultez la table qui suit.
-Une *flèche mortelle supérieure* fonctionne comme une flèche mortelle, si ce n’est qu’il est plus difficile encore de lui résister ([DD](./DD.md) de 23 au lieu de 20 et 100 points de dégâts).
+Cette flèche +1 est mortelle pour un type de créature déterminé lors de sa création. En cas d’attaque réussie, la cible doit réussir un jet de [[Vigueur]] ([[DD]] 20) pour ne pas subir 50 points de dégâts. Même les monstres qui ne font jamais de jet de [[Vigueur]] en temps normal ([[type mort-vivant|morts-vivants]] et [[type Créature artificielle|créatures artificielles]]) peuvent être affectés par une flèche mortelle appropriée. Si la flèche est supposée tuer une créature vivante, c’est un effet de mort (ce qui signifie que protection contre la mort permet de s’en protéger). Pour déterminer quel type (et éventuellement sous-type) de créature la flèche mortelle est capable de tuer, jetez 1d100 et consultez la table qui suit.
+Une *flèche mortelle supérieure* fonctionne comme une flèche mortelle, si ce n’est qu’il est plus difficile encore de lui résister ([[DD]] de 23 au lieu de 20 et 100 points de dégâts).
 <table width="100%"><tr style="vertical-align: top"><td width="50%">
 <center>
 {| CLASS="tablo"
 |- CLASS="titre"
 | 1d100 || Type (sous-type) ciblés
 |- CLASS="premier"
-| 01–05 || [Aberrations](./type Aberration.md)
+| 01–05 || [[type aberration|Aberrations]]
 |- CLASS="alt"
-| 06–09 || [Animaux](./type Animal.md)
+| 06–09 || [[type Animal|Animaux]]
 |-
-| 10–16 || [Créatures artificielles](./type Créature artificielle.md)
+| 10–16 || [[type Créature artificielle|Créatures artificielles]]
 |- CLASS="alt"
-| 17-27 || [Dragons](./type Dragon.md)
+| 17-27 || [[type Dragon|Dragons]]
 |-
-| 28-32 || [Fées](./type Fée.md)
+| 28-32 || [[type Fée|Fées]]
 |- CLASS="alt"
-| 33 || [Humanoïdes](./type Humanoïde.md) ([aquatique](./sous-type aquatique.md))
+| 33 || [[type Humanoïde|Humanoïdes]] ([[sous-type Aquatique|aquatique]])
 |-
-| 34–35 || [Humanoïdes](./type Humanoïde.md) ([nain](./sous-type nain.md))
+| 34–35 || [[type Humanoïde|Humanoïdes]] ([[sous-type Nain|nain]])
 |- CLASS="alt"
-| 36–37 || [Humanoïdes](./type Humanoïde.md) ([elfe](./sous-type elfe.md))
+| 36–37 || [[type Humanoïde|Humanoïdes]] ([[sous-type Elfe|elfe]])
 |-
-| 38-44 || [Humanoïdes](./type Humanoïde.md) ([géant](./sous-type géant.md))
+| 38-44 || [[type Humanoïde|Humanoïdes]] ([[sous-type Géant|géant]])
 |- CLASS="alt"
-| 45 || [Humanoïdes](./type Humanoïde.md) ([gnoll](./Gnoll.md))
+| 45 || [[type Humanoïde|Humanoïdes]] ([[gnoll]])
 |-
-| 46 || [Humanoïdes](./type Humanoïde.md) ([gnome](./sous-type gnome.md))
+| 46 || [[type Humanoïde|Humanoïdes]] ([[sous-type gnome|gnome]])
 |- CLASS="alt"
-| 47-49 || [Humanoïdes](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md))
+| 47-49 || [[type Humanoïde|Humanoïdes]] ([[sous-type Gobelinoïde|gobelinoïde]])
 |-
-| 50 || [Humanoïdes](./type Humanoïde.md) ([halfelin](./sous-type halfelin.md))
+| 50 || [[type Humanoïde|Humanoïdes]] ([[sous-type Halfelin|halfelin]])
 |- CLASS="alt"
-| 51-54 || [Humanoïdes](./type Humanoïde.md) ([humain](./sous-type humain.md))
+| 51-54 || [[type Humanoïde|Humanoïdes]] ([[sous-type Humain|humain]])
 |-
-| 55-57 || [Humanoïdes](./type Humanoïde.md) ([reptilien](./sous-type reptilien.md))
+| 55-57 || [[type Humanoïde|Humanoïdes]] ([[sous-type Reptilien|reptilien]])
 |}
 </center></td><td width="50%"><center>
 {| CLASS="tablo"
 |- CLASS="titre"
 | 1d100 || Type (sous-type) ciblés
 |- CLASS="premier"
-| 58-60 || [Humanoïdes](./type Humanoïde.md) ([orque](./Orque.md))
+| 58-60 || [[type Humanoïde|Humanoïdes]] ([[orque]])
 |- CLASS="alt"
-| 61-65 || [Créatures magiques](./type Créature magique.md)
+| 61-65 || [[type Créature magique|Créatures magiques]]
 |-
-| 66-70 || [Humanoïdes monstrueux](./type Humanoïde monstrueux.md)
+| 66-70 || [[type Humanoïde monstrueux|Humanoïdes monstrueux]]
 |- CLASS="alt"
-| 71-72 || [Vases](./type Vase.md)
+| 71-72 || [[type Vase|Vases]]
 |-
-| 73 || [Extérieurs](./type Extérieur.md) ([Air](./sous-type Air.md))
+| 73 || [[type Extérieur|Extérieurs]] ([[sous-type Air|Air]])
 |- CLASS="alt"
-| 74-76 || [Extérieurs](./type Extérieur.md) ([Chaotiques](./sous-type Chaos.md))
+| 74-76 || [[type Extérieur|Extérieurs]] ([[sous-type Chaos|Chaotiques]])
 |-
-| 77 || [Extérieurs](./type Extérieur.md) ([Terre](./sous-type Terre.md))
+| 77 || [[type Extérieur|Extérieurs]] ([[sous-type Terre|Terre]])
 |- CLASS="alt"
-| 78-80 || [Extérieurs](./type Extérieur.md) ([Mauvais](./sous-type Mal.md))
+| 78-80 || [[type Extérieur|Extérieurs]] ([[sous-type Mal|Mauvais]])
 |-
-| 81 || [Extérieurs](./type Extérieur.md) ([Feu](./sous-type Feu.md))
+| 81 || [[type Extérieur|Extérieurs]] ([[sous-type Feu|Feu]])
 |- CLASS="alt"
-| 82-84 || [Extérieurs](./type Extérieur.md) ([Bons](./sous-type Bien.md))
+| 82-84 || [[type Extérieur|Extérieurs]] ([[sous-type Bien|Bons]])
 |-
-| 85-87 || [Extérieurs](./type Extérieur.md) ([Loyaux](./sous-type Loi.md))
+| 85-87 || [[type Extérieur|Extérieurs]] ([[sous-type Loi|Loyaux]])
 |- CLASS="alt"
-| 88 || [Extérieurs](./type Extérieur.md) ([Eau](./sous-type Eau.md))
+| 88 || [[type Extérieur|Extérieurs]] ([[sous-type Eau|Eau]])
 |-
-| 89-90 || [Plantes](./type Plante.md)
+| 89-90 || [[type Plante|Plantes]]
 |- CLASS="alt"
-| 91-98 || [Morts-vivants](./type Mort-vivant.md)
+| 91-98 || [[type mort-vivant|Morts-vivants]]
 |-
-| 99-100 || [Vermine](./type Vermine.md)
+| 99-100 || [[type Vermine|Vermine]]
 |}
 </center></table>
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[doigt de mort](./Doigt de mort.md)* (flèche mortelle) ou *[doigt de mort](./Doigt de mort.md)* à [intensité augmentée](./Augmentation dintensité.md) (flèche mortelle supérieure) ; **Coût** 1 144 po et 5 pa (flèche mortelle) ou 2 032 po (flèche mortelle supérieure).
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[doigt de mort]]* (flèche mortelle) ou *[[doigt de mort]]* à [[Augmentation dintensité|intensité augmentée]] (flèche mortelle supérieure) ; **Coût** 1 144 po et 5 pa (flèche mortelle) ou 2 032 po (flèche mortelle supérieure).
 </div>

@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.132*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille P, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Aberration|Aberration]] de taille P, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 15 (Dex +2, naturelle +4, taille +1)}
 {s:BDTexte|**pv** 16 (3d8+3)}
 {s:BDTexte|**Réf** +3, **Vig** +2, **Vol** +4}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), escalade 3 m (2 {s:c})}
-{s:BDTexte|**Corps à corps** 2 tentacules, +6 (1d4+3 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** 2 tentacules, +6 (1d4+3 et [[étreinte]])}
 {s:BDTexte|**Espace** 1,50 m (1 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (1d4+3),  [étreinte](./Étreinte.md) (taille G), étranglement}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (1d4+3),  [[étreinte]] (taille G), étranglement}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 14, **Con** 13, **Int** 4, **Sag** 13, **Cha** 7}
 {s:BDTexte|**BBA** +2, **BMO** +4 (+8 lutte), **DMD** 16}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +13, [Escalade](./Escalade.md) +16}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +13, [[Escalade]] +16}
 {s:BDTexte|**Langues** commun des profondeurs}
 {s:BDTexte|**Particularités** rapidité}
 {s:BDSousTitre|Écologie}
@@ -37,8 +37,8 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou couvée (3-8)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Étranglement (Ext).** Les étrangleurs font preuve d'un habilité sans faille lorsqu'il s'agit de saisir leurs victimes par le cou. Les créatures qu'ils [agrippent](./Agrippé.md) ne peuvent ni parler ni lancer de sorts à [composantes verbales](./composante verbale.md).}
-{s:BDTexte|**Rapidité (Sur).** La rapidité surnaturelle des étrangleurs leur permet d'accomplir une [action de mouvement](./Action de mouvement.md) supplémentaire lors de chacun de leur tour.}
+{s:BDTexte|**Étranglement (Ext).** Les étrangleurs font preuve d'un habilité sans faille lorsqu'il s'agit de saisir leurs victimes par le cou. Les créatures qu'ils [[agrippé|agrippent]] ne peuvent ni parler ni lancer de sorts à [[composante verbale|composantes verbales]].}
+{s:BDTexte|**Rapidité (Sur).** La rapidité surnaturelle des étrangleurs leur permet d'accomplir une [[action de mouvement]] supplémentaire lors de chacun de leur tour.}
 </div>
 </td><td><div>*Cette créature voûtée possède de longs bras flexibles similaires à des tentacules terminées par cinq larges griffes épineuses.*
 

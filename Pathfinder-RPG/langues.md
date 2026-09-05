@@ -5,4 +5,4 @@ LastModified: 2010-07-16 16:12
 RedirectTo: Pathfinder-RPG.Linguistique
 ---
 
->>> [Pathfinder-RPG.Linguistique](./Linguistique.md)
+>>> [[Pathfinder-RPG.Linguistique]]

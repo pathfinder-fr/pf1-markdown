@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions simples#ATTAQUENATURELLE
 ---
 
->>> [Actions simples#ATTAQUENATURELLE](./Actions simples.md#ATTAQUENATURELLE)
+>>> [[Actions simples#ATTAQUENATURELLE]]

@@ -15,20 +15,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./Divination.md) ; **Niveau** [Alch](./Alchimiste.md) 4, [Inq](./Inquisiteur.md) 4, [Méd](./Médium.md) 3, [Pal](./Paladin.md) 3, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4  
+**École** [[Divination]] ; **Niveau** [[Alchimiste|Alch]] 4, [[Inquisiteur|Inq]] 4, [[Médium|Méd]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cibles** 1 créature/[niveau](./niveau.md), distantes de moins de 9 m (6 {s:c}) les unes des autres  
+**Cibles** 1 créature/[[niveau]], distantes de moins de 9 m (6 {s:c}) les unes des autres  
 
-**Durée** [concentration](./Présentation des sorts.md#DUREE), jusqu’à 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** [[Présentation des sorts#DUREE|concentration]], jusqu’à 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** non
 
-Chaque [round](./round.md), le lanceur de sorts se [concentre](./concentration.md) sur une créature située à [portée](./portée.md). Grâce aux subtiles perturbations que le sort lui permet de voir dans l’aura de la cible, il sait si celle-ci prononce intentionnellement un mensonge. *Détection du mensonge* n’indique pas la vérité ni les erreurs commises en toute bonne foi, et il ne détecte pas toujours les semi-vérités.
+Chaque [[round]], le lanceur de sorts se [[concentration|concentre]] sur une créature située à [[portée]]. Grâce aux subtiles perturbations que le sort lui permet de voir dans l’aura de la cible, il sait si celle-ci prononce intentionnellement un mensonge. *Détection du mensonge* n’indique pas la vérité ni les erreurs commises en toute bonne foi, et il ne détecte pas toujours les semi-vérités.
 
-Chaque [round](./round.md), le personnage peut se [concentrer](./concentration.md) sur un sujet différent.
+Chaque [[round]], le personnage peut se [[concentration|concentrer]] sur un sujet différent.

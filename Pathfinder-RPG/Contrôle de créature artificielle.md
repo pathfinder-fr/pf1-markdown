@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Occ](./Occultiste.md) 6  
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Occultiste|Occ]] 6  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** une [créature artificielle](./type Créature artificielle.md)  
+**Cible** une [[Type créature artificielle|créature artificielle]]  
 
-**Durée** [concentration](./Présentation des sorts.md#DUREE)  
+**Durée** [[Présentation des sorts#DUREE|concentration]]  
 
 **Jet de sauvegarde** aucun (voir texte) ; **Résistance à la magie** non
 
-Le personnage arrache le contrôle d’une [créature artificielle](./type Créature artificielle.md) à son maître. Tant qu’il se [concentre](./Présentation des sorts.md#DUREE), il la contrôle comme s’il était son maître. Il doit faire un test d’[Art de la magie](./Art de la magie.md) à chaque round pour maintenir le contrôle. Le DD de ce test est de 10 + DV de la [créature artificielle](./type Créature artificielle.md). Si son constructeur ou son maître est présent et tente de la contrôler, le personnage et lui doivent faire des tests d'[Art de la magie](./Art de la magie.md) opposés à chaque round pour prendre le contrôle de la créature.
+Le personnage arrache le contrôle d’une [[Type créature artificielle|créature artificielle]] à son maître. Tant qu’il se [[Présentation des sorts#DUREE|concentre]], il la contrôle comme s’il était son maître. Il doit faire un test d’[[Art de la magie]] à chaque round pour maintenir le contrôle. Le DD de ce test est de 10 + DV de la [[Type créature artificielle|créature artificielle]]. Si son constructeur ou son maître est présent et tente de la contrôler, le personnage et lui doivent faire des tests d'[[Art de la magie]] opposés à chaque round pour prendre le contrôle de la créature.

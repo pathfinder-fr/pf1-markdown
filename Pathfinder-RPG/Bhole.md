@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 21*}
 - 102 400 PX
-- [Créature magique](./type Créature magique.md) de taille C, CN
-- **Init **+3 ; **Sens **[vision dans le noir](./vision dans le noir.md) 18 m, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +28
+- [[type créature magique|Créature magique]] de taille C, CN
+- **Init **+3 ; **Sens **[[vision dans le noir]] 18 m, [[vision nocturne]] ; [[Perception]] +28
 (((Défense)))
 - **CA** 33, contact 1, pris au dépourvu 33 (Dex -1, naturelle +32, taille -8)
 - **pv **290 (20d10+180)
@@ -25,12 +25,12 @@ Categories:
 - **VD **15 m, creusement 15 m
 - **Corps à corps** morsure, +29 (6d6+25/19-20 plus étreinte) et coup, +29 (3d8+25/19-20)
 - **Espace **9 m ; **Allonge **18 m
-- **Attaque spéciale** [engloutissement](./Engloutissement.md) (20d6 acide, CA 26, 29 pv), force écrasante, [piétinement](./Piétinement.md) (DD 37), souffle
+- **Attaque spéciale** [[engloutissement]] (20d6 acide, CA 26, 29 pv), force écrasante, [[piétinement]] (DD 37), souffle
 (((Statistiques)))
 - **For **44, **Dex **8, **Con** 28, **Int **3, **Sag **21, **Cha **23
 - **BBA **+20 ; **BMO **+45 (+47 bousculade, +49 lutte) ; **DMD **54 (56 contre bousculade, croc-en-jambe impossible)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (coup), [Science du critique](./Science du critique.md) (morsure)
-- **Compétences **[Perception](./Perception.md) +28
+- **Dons **[[Attaque en puissance]], [[Coup fabuleux]], [[Critique ralentissant]], [[Don pour les critiques]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de la bousculade]], [[science de linitiative|Science de l’initiative]], [[Science du critique]] (coup), [[Science du critique]] (morsure)
+- **Compétences **[[Perception]] +28
 - **Langues **aklo (parle rarement)
 (((Écologie)))
 - **Environnement **sous terre

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: dragon#SENSDRACONIQUES
 ---
 
->>> [dragon#SENSDRACONIQUES](./dragon.md#SENSDRACONIQUES)
+>>> [[dragon#SENSDRACONIQUES]]

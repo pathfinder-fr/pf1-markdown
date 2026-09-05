@@ -13,8 +13,8 @@ Categories:
 {s:pucem|humanoïde monstrueux|Souterrain|Tempéré}
 {s:BDTexte|<i>Source : Bestiaire 2 p.168</i>}
 {s:BDTexte|<b>PX</b> 1200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md)de taille M, NM}
-{s:BDTexte|<b>Init</b> +9 ; <b>Sens</b> [odorat](./odorat.md),  [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ;  [Perception](./Perception.md)+10}
+{s:BDTexte|[[type humanoïde monstrueux|Humanoïde monstrueux]]de taille M, NM}
+{s:BDTexte|<b>Init</b> +9 ; <b>Sens</b> [[odorat]],  [[vision dans le noir]] 18 m (12 {s:c}) ;  [[Perception]]+10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 18, contact 15, pris au dépourvu 13 (Dex +5, naturelle +3)}
 {s:BDTexte|<b>pv</b> 42 (5d10+15)}
@@ -25,15 +25,15 @@ Categories:
 {s:BDTexte|<b>Corps à corps</b> dague de maître +11 (1d4-1 / 19-20)}
 {s:BDTexte|et morsure +5 (1d6-1 plus poison)}
 {s:BDTexte|<b>Pouvoirs magiques</b> (NLS 4 ; concentration +7)}
-{s:BDSorts|A volonté — <i>[déguisement](./Déguisement.md) (forme humanoïde seulement, DD 14), [ventriloquie](./Ventriloquie.md)</i>}
-{s:BDSorts|1/jour— <i>[flou](./Flou.md), [image miroir](./Image miroir.md), [suggestion](./Suggestion.md) (DD16)</i>}
+{s:BDSorts|A volonté — <i>[[déguisement]] (forme humanoïde seulement, DD 14), [[ventriloquie]]</i>}
+{s:BDSorts|1/jour— <i>[[flou]], [[image miroir]], [[suggestion]] (DD16)</i>}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 8, <b>Dex</b> 21, <b>Con</b> 17, <b>Int</b> 18, <b>Sag</b> 15, <b>Cha</b> 16}
 {s:BDTexte|<b>BBA</b> +5, <b>BMO</b> +4, <b>DMD</b> 19}
-{s:BDTexte|<b>Dons</b>[Attaque en finesse](./Attaque en finesse.md), [Science de l'initiative](./Science de linitiative.md), [Vigueur Surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|<b>Compétences</b> [Acrobaties](./Acrobaties.md) +10, [Art de la magie](./Art de la magie.md) +9, [Connaissances (mystères)](./Connaissances.md) +9, [Déguisement](./Déguisement.md) +8, , [Évasion](./Évasion.md) +18, [Perception](./Perception.md) +10, [Psychologie](./Psychologie.md) +7 ,[Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +12}
-{s:BDTexte|<b>Modificateurs raciaux</b> +8 en [Évasion](./Évasion.md), +4 en [Utilisation dobjets magiques|Utilisation d'objets magiques]]}
-{s:BDTexte|<b>Langues</b> aklo, commun, commun des profondeurs, draconique ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|<b>Dons</b>[[Attaque en finesse]], [[Science de linitiative|Science de l'initiative]], [[Vigueur Surhumaine]]}
+{s:BDTexte|<b>Compétences</b> [[Acrobaties]] +10, [[Art de la magie]] +9, [[Connaissances|Connaissances (mystères)]] +9, [[Déguisement]] +8, , [[Évasion]] +18, [[Perception]] +10, [[Psychologie]] +7 ,[[Utilisation dobjets magiques|Utilisation d'objets magiques]] +12}
+{s:BDTexte|<b>Modificateurs raciaux</b> +8 en [[Évasion]], +4 en [Utilisation dobjets magiques|Utilisation d'objets magiques]]}
+{s:BDTexte|<b>Langues</b> aklo, commun, commun des profondeurs, draconique ; [[télépathie]] 30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> terre ferme (généralement dans la jungle ou sous terre}
 {s:BDTexte|<b>Organisation sociale</b> solitaire, couple ou culte (3-12)}
@@ -130,32 +130,32 @@ Voici quelques dons auxquels les hommes-serpents ont accès.
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Aspersion venimeuse](./Aspersion venimeuse.md)* || <sup>CM</sup> || [Homme-serpent](./Homme-serpent.md) || Crache d'une venin par une attaque à distance
+| [[Aspersion venimeuse]]* || <sup>CM</sup> || [[Homme-serpent]] || Crache d'une venin par une attaque à distance
 
 |- CLASS="premier"
-| [Attaque de queue](./Attaque de queue.md)* || <sup>CM</sup> || [BBA](./BBA.md) +1, [homme-serpent](./Homme-serpent.md) || Gain d'une attaque de queue
+| [[Attaque de queue]]* || <sup>CM</sup> || [[BBA]] +1, [[homme-serpent]] || Gain d'une attaque de queue
 
 |- CLASS="premier"
-| [Compression ophidienne](./Compression ophidienne.md) || <sup>CM</sup> || [Homme-serpent](./Homme-serpent.md) || Gain du pouvoir compression, permettant au personnage de se faufiler dans des endroits plus étroits
+| [[Compression ophidienne]] || <sup>CM</sup> || [[Homme-serpent]] || Gain du pouvoir compression, permettant au personnage de se faufiler dans des endroits plus étroits
 
 |- CLASS="premier"
-| [Distraction télépathique](./Distraction télépathique.md) || <sup>CM</sup> || [Cha](./Cha.md) 15, [homme-serpent](./Homme-serpent.md) || Concentre la télépathie pour rendre une créature plus vulnérable aux effets mentaux
+| [[Distraction télépathique]] || <sup>CM</sup> || [[Cha]] 15, [[homme-serpent]] || Concentre la télépathie pour rendre une créature plus vulnérable aux effets mentaux
 
 |- CLASS="premier"
-| [Magie innée](./Magie innée.md) || <sup>CM</sup> || Lanceur de sorts profanes, [NLS](./NLS.md) 4, [homme-serpent](./Homme-serpent.md) || Dépense des sorts profanes préparés pour réutiliser des pouvoirs magiques
+| [[Magie innée]] || <sup>CM</sup> || Lanceur de sorts profanes, [[NLS]] 4, [[homme-serpent]] || Dépense des sorts profanes préparés pour réutiliser des pouvoirs magiques
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Objets magiques
 Ces objets magiques sont très prisés des hommes-serpents.
-- [Étrangleur ophidien](./Étrangleur ophidien.md)
-- [Fléau de serpent](./Fléau de serpent.md)
-- [Flèche ophidienne](./Flèche ophidienne.md)
+- [[Étrangleur ophidien]]
+- [[Fléau de serpent]]
+- [[Flèche ophidienne]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Sorts
 Les hommes-serpents ont accès aux sorts suivants.
-- ***[Anneau scindé](./Anneau scindé.md)*** *(CM)* ([Con 3](./Conjurateur.md), [Ens](./Ensorceleur.md)/[Mag 3](./Magicien.md), [Magus 3](./Magus.md), [Sor 3](./Sorcière.md)). Comme tentacules noirs, mais créé un serpent décapité pour aggriper les créatures.
-- ***[Vol de sort](./Vol de sort.md)*** *(CM)* ([Ens](./Ensorceleur.md)/[Mag 5](./Magicien.md), [Prê 5](./Prêtre.md), [Psy 5](./Psychiste.md), [Sor 5](./Sorcière.md)). Perturbe la magie accessible de la cible et transfère sa connaissance de cette magie au personnage.
+- ***[[Anneau scindé]]*** *(CM)* ([[Conjurateur|Con 3]], [[Ensorceleur|Ens]]/[[Magicien|Mag 3]], [[Magus|Magus 3]], [[Sorcière|Sor 3]]). Comme tentacules noirs, mais créé un serpent décapité pour aggriper les créatures.
+- ***[[Vol de sort]]*** *(CM)* ([[Ensorceleur|Ens]]/[[Magicien|Mag 5]], [[Prêtre|Prê 5]], [[Psychiste|Psy 5]], [[Sorcière|Sor 5]]). Perturbe la magie accessible de la cible et transfère sa connaissance de cette magie au personnage.
 
 </div></div>

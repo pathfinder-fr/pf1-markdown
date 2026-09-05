@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:AMH}*La souplesse de l'armure du personnage et son propre entraînement lui permettent d'attaquer à plusieurs reprises tout en se déplaçant.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 17, [École du talon-à-ressorts](./École du talon-à-ressorts.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [Tir en mouvement](./Tir en mouvement.md) ou [Attaque éclair](./Attaque éclair.md), [Sprint du talon-à-ressorts](./Sprint du talon-à-ressorts.md), [BBA](./BBA.md) +11, formation au port des armures légères
+**Conditions.** [[Dex]] 17, [[École du talon-à-ressorts]], [[Esquive]], [[Souplesse du serpent]], [[Tir en mouvement]] ou [[Attaque éclair]], [[Sprint du talon-à-ressorts]], [[BBA]] +11, formation au port des armures légères
 
-**Avantages.** Quand le personnage utilise l'[École du talon-à-ressorts](./École du talon-à-ressorts.md), à chaque fois qu'il utilise [Tir en mouvement](./Tir en mouvement.md) ou [Attaque éclair](./Attaque éclair.md), il peut attaquer deux créatures différentes à n'importe quel moment de son déplacement. Chaque attaque est effectuée avec son [bonus de base à l’attaque](./BBA.md) le plus élevé. Chaque créature attaquée au corps à corps avec ce don ne peut pas effectuer d'[attaque d’opportunité](./AO.md) contre le personnage à cause de ce déplacement, comme avec le don Attaque éclair.
+**Avantages.** Quand le personnage utilise l'[[École du talon-à-ressorts]], à chaque fois qu'il utilise [[Tir en mouvement]] ou [[Attaque éclair]], il peut attaquer deux créatures différentes à n'importe quel moment de son déplacement. Chaque attaque est effectuée avec son [[BBA|bonus de base à l’attaque]] le plus élevé. Chaque créature attaquée au corps à corps avec ce don ne peut pas effectuer d'[[AO|attaque d’opportunité]] contre le personnage à cause de ce déplacement, comme avec le don Attaque éclair.

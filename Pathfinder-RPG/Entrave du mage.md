@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Entrave du mage|FP 1/2}
 {s:pucem|Aberration|Aquatique|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.115](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (Contenu)|Bestiaire 5 p.115]]*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille TP, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) à 18 m, *[vision magique](./Vision magique.md)* ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille TP, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Vision aveugle (capacité)|vision aveugle]] à 18 m, *[[vision magique]]* ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 12, contact 12, pris au dépourvu 12 (taille +2)}
 {s:BDTexte|**pv** 9 (2d8)}
@@ -22,26 +22,26 @@ Categories:
 {s:BDTexte|**Capacités défensives** hôte tampon ; **Immunités** effets mentaux, maladie, poison ; **RM** 11}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 1,50 m, nage 9 m}
-{s:BDTexte|**Corps à corps** morsure, +3 (1d4-3 plus [fixation](./Fixation (capacité).md) et [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d3 Sagesse)}
+{s:BDTexte|**Corps à corps** morsure, +3 (1d4-3 plus [[Fixation (capacité)|fixation]] et [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3 Sagesse)}
 {s:BDTexte|**Espace occupé** 75 cm ; **Allonge** 0 m}
 {s:BDTexte|**Attaques spéciales** marionnettiste}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 5 ; [concentration](./concentration.md) +1)}
-{s:BDSorts|Constant — *[vision magique](./Vision magique.md)*}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 5 ; [[concentration]] +1)}
+{s:BDSorts|Constant — *[[vision magique]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 4, **Dex** 11, **Con** 11, **Int** 12, **Sag** 13, **Cha** 2}
-{s:BDTexte|**BBA** +1 ; **BMO** -1 (+7 en [lutte](./lutte.md)) ; **DMD** 6 (14 contre la [lutte](./lutte.md), insensible au [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (mystères) +6, [Discrétion](./Discrétion.md) +13, [Escalade](./Escalade.md) +2, [Discrétion](./Discrétion.md) +13, [Perception](./Perception.md) +6}
-{s:BDTexte|**Langues** aklo (incapable de parler) ; [télépathie](./Télépathie (capacité).md) 3 m}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie (capacité).md), [compression](./Compression (capacité).md)}
+{s:BDTexte|**BBA** +1 ; **BMO** -1 (+7 en [[lutte]]) ; **DMD** 6 (14 contre la [[lutte]], insensible au [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (mystères) +6, [[Discrétion]] +13, [[Escalade]] +2, [[Discrétion]] +13, [[Perception]] +6}
+{s:BDTexte|**Langues** aklo (incapable de parler) ; [[Télépathie (capacité)|télépathie]] 3 m}
+{s:BDTexte|**Particularités** [[Amphibie (capacité)|amphibie]], [[Compression (capacité)|compression]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** aquatique}
 {s:BDTexte|**Organisation** solitaire, couple ou infestation (3-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Étreinte tenace (Ext).** L’entrave du mage bénéficie d’un bonus de +8 aux tests de combat pour les manœuvres offensives de [lutte](./lutte.md) et au [DMD](./DMD.md) contre les manœuvres offensives de lutte.}
-{s:BDTexte|**Hôte tampon (Ext).** L’entrave du mage qui a dominé un hôte peut se servir des [jets de sauvegarde](./JDS.md) de ce dernier s’ils sont meilleurs que les siens.}
-{s:BDTexte|**Marionnettiste (Sur).** Si l’entrave du mage est fixée sur une créature capable de lancer des sorts ou dotée de [pouvoirs magiques](./Pouvoirs magiques (capacité).md), cette dernière doit réussir un jet de [Volonté](./Volonté.md) DD 14, sans quoi elle est dominée (comme avec *[domination universelle](./Domination universelle.md)*). La domination persiste tant que l’entrave reste en contact avec sa victime. Si la cible a droit à un nouveau jet de sauvegarde contre l’effet de domination (comme indiqué dans la description du sort), elle n’accomplit pas l’action demandée si elle réussit son jet mais cela ne met pas fin à la domination. Le DD du jet de sauvegarde est basé sur l’Intelligence et comprend un bonus racial de +2.}
+{s:BDTexte|**Étreinte tenace (Ext).** L’entrave du mage bénéficie d’un bonus de +8 aux tests de combat pour les manœuvres offensives de [[lutte]] et au [[DMD]] contre les manœuvres offensives de lutte.}
+{s:BDTexte|**Hôte tampon (Ext).** L’entrave du mage qui a dominé un hôte peut se servir des [[jds|jets de sauvegarde]] de ce dernier s’ils sont meilleurs que les siens.}
+{s:BDTexte|**Marionnettiste (Sur).** Si l’entrave du mage est fixée sur une créature capable de lancer des sorts ou dotée de [[Pouvoirs magiques (capacité)|pouvoirs magiques]], cette dernière doit réussir un jet de [[Volonté]] DD 14, sans quoi elle est dominée (comme avec *[[domination universelle]]*). La domination persiste tant que l’entrave reste en contact avec sa victime. Si la cible a droit à un nouveau jet de sauvegarde contre l’effet de domination (comme indiqué dans la description du sort), elle n’accomplit pas l’action demandée si elle réussit son jet mais cela ne met pas fin à la domination. Le DD du jet de sauvegarde est basé sur l’Intelligence et comprend un bonus racial de +2.}
 
 </div></td>
 <td><div>*Cette créature aux airs d’anguille a un corps épais et gras et une grande gueule circulaire garnie de petites dents pointues.*

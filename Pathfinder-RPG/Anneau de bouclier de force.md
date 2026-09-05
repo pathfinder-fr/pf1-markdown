@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de bouclier de force|}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 9 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 8 500 po ; **Poids** —
+**Aura** [[Évocation]] modérée ; **NLS** 9 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 8 500 po ; **Poids** —
 (((Description)))
-Cet anneau en fer tout simple génère un mur de force ayant la forme et la taille d’un bouclier que le personnage peut porter et utiliser comme un écu (+2 à la [CA](./CA.md)). Cet effet magique n’impose aucun malus d’armure aux tests ou risque d’échec des sorts profanes et n’a aucun poids ou encombrement. Il peut être activé et désactivé à volonté par une [action libre](./Action libre.md).
+Cet anneau en fer tout simple génère un mur de force ayant la forme et la taille d’un bouclier que le personnage peut porter et utiliser comme un écu (+2 à la [[CA]]). Cet effet magique n’impose aucun malus d’armure aux tests ou risque d’échec des sorts profanes et n’a aucun poids ou encombrement. Il peut être activé et désactivé à volonté par une [[action libre]].
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[mur de force](./Mur de force.md)* ; **Coût** 4 250 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[mur de force]]* ; **Coût** 4 250 po
 </div>

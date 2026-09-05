@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AO}**Prix** 40 po ; **Poids** 7 kg
-<span class="Catégorie">**Catégorie** [Trousses d'équipement](./Trousses déquipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
 ---
-Cette trousse fournit les outils nécessaires pour contacter des entités surnaturelles. Elle comprend une [planchette d'écriture automatique](./Planchette décriture automatique (objet).md), des [bougies](./Bougie (objet).md) (10), des [bougeoirs](./Bougeoir (objet).md) (10), du [houx et du gui](./Houx et gui (objet).md), de l'[encens](./Encens (objet).md) (10 bâtonnets), une [tenue d'érudit](./Tenue dérudit (objet).md), une [sacoche à composantes](./Sacoche à composantes (objet).md) et un [symbole sacré en bois](./Symbole sacré (objet).md).
+Cette trousse fournit les outils nécessaires pour contacter des entités surnaturelles. Elle comprend une [[Planchette décriture automatique (objet)|planchette d'écriture automatique]], des [[Bougie (objet)|bougies]] (10), des [[Bougeoir (objet)|bougeoirs]] (10), du [[Houx et gui (objet)|houx et du gui]], de l'[[Encens (objet)|encens]] (10 bâtonnets), une [[Tenue dérudit (objet)|tenue d'érudit]], une [[Sacoche à composantes (objet)|sacoche à composantes]] et un [[Symbole sacré (objet)|symbole sacré en bois]].

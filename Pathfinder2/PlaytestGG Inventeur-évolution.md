@@ -4,17 +4,17 @@ Title: L'inventeur (Playtest Guns & Gears) - évolution
 LastModified: 2021-01-19 15:08
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)   
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]   
 
-• [Retour à la page du playtest de Guns & Gears](./PlaytestGG.md)
+• [[PlaytestGG|Retour à la page du playtest de Guns & Gears]]
 
 ### Progression de l'inventeur
 
-• Voir la [présentation de la classe d'inventeur](./PlaytestGG Inventeur.md)  
+• Voir la [[PlaytestGG Inventeur|présentation de la classe d'inventeur]]  
 
-• Voir les [dons de classe d'inventeur](./PlaytestGG Inventeur-dons.md)
+• Voir les [[PlaytestGG Inventeur-dons|dons de classe d'inventeur]]
 
 <center>
 {| CLASS="tablo autoalt toutgauche"

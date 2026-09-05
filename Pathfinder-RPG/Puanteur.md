@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Puanteur (capacité)
 ---
 
->>> [Puanteur (capacité)](./Puanteur (capacité).md)
+>>> [[Puanteur (capacité)]]

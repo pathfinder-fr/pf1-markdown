@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#MONTURESPIRITUELLE
 ---
 
->>> [pouvoirs de rage#MONTURESPIRITUELLE](./Pouvoirs de rage.md#MONTURESPIRITUELLE)
+>>> [[pouvoirs de rage#MONTURESPIRITUELLE]]

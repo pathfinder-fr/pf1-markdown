@@ -14,24 +14,24 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2 p.43*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md)) de taille M, LN}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +18}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]]) de taille M, LN}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +18}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 15, pris au dépourvu 16 (Dex +4, esquive +1, naturelle +6)}
-{s:BDTexte|**pv** 85 (10d10+30) ; [régénération](./Régénération (capacité).md) 5 (Chaos ou magie)}
+{s:BDTexte|**pv** 85 (10d10+30) ; [[régénération (capacité)|régénération]] 5 (Chaos ou magie)}
 {s:BDTexte|**Réf** +11, **Vig** +6, **Vol** +14}
-{s:BDTexte|**RD** 10/Chaos ; **Immunités** [effets mentaux](./effet mental.md), électricité, maladie ; **Résistances** froid 10, feu 10 ; **RM** 19}
+{s:BDTexte|**RD** 10/Chaos ; **Immunités** [[effet mental|effets mentaux]], électricité, maladie ; **Résistances** froid 10, feu 10 ; **RM** 19}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** *épée longue +1*, +16/+11 (1d8+7/19-20)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9<sup>e</sup> ; concentration +14)}
-{s:BDSorts|3/jour — *[coup au but](./Coup au but.md)*, *[courroux de l'ordre](./Courroux de lordre.md)* en extension d'effet (DD 19), *[éclair](./Éclair.md)* (DD 18), *[immobilisation de monstre](./Immobilisation de monstre.md)* (DD 20), *[rapidité](./Rapidité.md)*, *[rejet du Chaos](./Rejet du Chaos.md)*, *[télékinésie](./Télékinésie.md)* (DD 20)}
-{s:BDSorts|1/jour — convocation d'[inévitable](./sous-type Inévitable.md) (niveau 6, 1 [zélékhut](./Zélékhut.md) voir plus bas), *[vision lucide](./Vision lucide.md)*}
+{s:BDSorts|3/jour — *[[coup au but]]*, *[[courroux de lordre|courroux de l'ordre]]* en extension d'effet (DD 19), *[[éclair]]* (DD 18), *[[immobilisation de monstre]]* (DD 20), *[[rapidité]]*, *[[rejet du Chaos]]*, *[[télékinésie]]* (DD 20)}
+{s:BDSorts|1/jour — convocation d'[[sous-type inévitable|inévitable]] (niveau 6, 1 [[zélékhut]] voir plus bas), *[[vision lucide]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 19, **Con** 16, **Int** 21, **Sag** 20, **Cha** 20}
 {s:BDTexte|**BBA** +10, **BMO** +15, **DMD** 30}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Extension de pouvoir magique](./Extension de pouvoir magique.md) (*courroux de l'ordre*), [Science de l'initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +18, [Artisanat](./Artisanat.md) (un au choix) +18, [Connaissances](./Connaissances.md) (plans) +18, [Connaissances](./Connaissances.md) (trois domaines au choix) +15, [Diplomatie](./Diplomatie.md) +18, [Discrétion](./Discrétion.md) +17, [Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +18, [Survie](./Survie.md) +18, [Vol](./Vol.md) +8}
+{s:BDTexte|**Dons** [[Esquive]], [[Extension de pouvoir magique]] (*courroux de l'ordre*), [[Science de linitiative|Science de l'initiative]], [[Souplesse du serpent]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +18, [[Artisanat]] (un au choix) +18, [[Connaissances]] (plans) +18, [[Connaissances]] (trois domaines au choix) +15, [[Diplomatie]] +18, [[Discrétion]] +17, [[Perception]] +18, [[Psychologie]] +18, [[Survie]] +18, [[Vol]] +8}
 {s:BDTexte|**Langues** abyssal, céleste, commun, draconique, infernal}
 {s:BDTexte|**Particularités** forme de poussière de cristal}
 {s:BDSousTitre|Écologie}
@@ -39,8 +39,8 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou équipe (3-12)}
 {s:BDTexte|**Trésor** standard (*épée longue longue +1*, autres trésors)}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Convocation d'inévitable (Mag).** Une fois par jour, quatre axiomites peuvent se donner la main et convoquer un [zélékhut](./Zélékhut.md) par une [action complexe](./Action complexe.md).}
-{s:BDTexte|**Forme de poussière de cristal (Sur).** Un axiomite peut transformer son corps solide en une forme composée de poussière de cristal dorée et inversement par une [action libre](./Action libre.md) (maximum une fois par [round](./round.md)). Sous forme de poussière, il ressemble à un nuage mouvant de symboles et d’équations mathématiques brillants. Il peut voler et et acquiert la particularité « [intangible](./Intangible (capacité).md) ». Il peut utiliser ses pouvoirs magiques mais ne peut pas porter d’attaque physique. Sous forme solide, l’axiomite ne peut pas voler. Les deux formes sont des formes naturelles pour l’axiomite : à sa mort, il reste dans la forme qu’il avait adoptée en dernier. Un sort de *[vision lucide](./Vision lucide.md)* permet de voir les deux formes simultanément.}
+{s:BDTexte|**Convocation d'inévitable (Mag).** Une fois par jour, quatre axiomites peuvent se donner la main et convoquer un [[zélékhut]] par une [[action complexe]].}
+{s:BDTexte|**Forme de poussière de cristal (Sur).** Un axiomite peut transformer son corps solide en une forme composée de poussière de cristal dorée et inversement par une [[action libre]] (maximum une fois par [[round]]). Sous forme de poussière, il ressemble à un nuage mouvant de symboles et d’équations mathématiques brillants. Il peut voler et et acquiert la particularité « [[intangible (capacité)|intangible]] ». Il peut utiliser ses pouvoirs magiques mais ne peut pas porter d’attaque physique. Sous forme solide, l’axiomite ne peut pas voler. Les deux formes sont des formes naturelles pour l’axiomite : à sa mort, il reste dans la forme qu’il avait adoptée en dernier. Un sort de *[[vision lucide]]* permet de voir les deux formes simultanément.}
 
 </div>
 

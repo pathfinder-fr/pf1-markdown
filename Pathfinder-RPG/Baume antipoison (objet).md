@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 15 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 15
-<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
 ---
-Ce baume aux plantes peut être appliqué directement sur la peau pour prévenir des effets des [poisons](./Poisons.md) de contact. Si une créature touche un poison de contact mais que le personnage applique ce baume dans le [round](./round.md) qui suit ce contact, la victime fait son [jet de sauvegarde](./JDS.md) deux fois et garde le meilleur résultat.
+Ce baume aux plantes peut être appliqué directement sur la peau pour prévenir des effets des [[poisons]] de contact. Si une créature touche un poison de contact mais que le personnage applique ce baume dans le [[round]] qui suit ce contact, la victime fait son [[jds|jet de sauvegarde]] deux fois et garde le meilleur résultat.

@@ -10,16 +10,16 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Dru](./Druide.md) 4, [Rôd](./Rôdeur.md) 3  
+**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Druide|Dru]] 4, [[Rôdeur|Rôd]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** le lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)
+**Durée** 1 minute/[[niveau]]
 
-Quand le personnage lance ce sort, il prend l'aspect d'un cerf, y compris certaines de ses caractéristiques physiques. Ses traits s'allongent, il mincit et devient plus musclé et des bois, qu'il peut utiliser pour se défendre, lui poussent sur la tête. Il gagne un bonus d'esquive de +2 à la [CA](./CA.md) contre les [attaques d'opportunité](./attaque dopportunité.md), sa vitesse de base augmente de 6 mètres (4 {s:c}) et il peut se déplacer dans n'importe quels taillis (y compris d'origine magique) à sa vitesse normale. Il peut même faire un pas de 1,50 mètre (1 {s:c}) dans ce type de terrain. De plus, quand le personnage est touché par une [attaque d'opportunité](./attaque dopportunité.md), il peut faire une unique attaque avec ses bois contre l'adversaire qui l'a touché, par une [action immédiate](./Action immédiate.md). Cette attaque utilise le [bonus de base à l'attaque](./BBA.md) le plus élevé du personnage plus son modificateur de [Force](./Force.md) ou de [Dextérité](./Dextérité.md), au choix, et inflige 1d8 points de dégâts perforants (si le personnage est de taille M, 1d6 s'il est de taille P), plus le modificateur de [Force](./Force.md) si le coup touche. Les bois menacent une zone de critique de 19-20/x2.
+Quand le personnage lance ce sort, il prend l'aspect d'un cerf, y compris certaines de ses caractéristiques physiques. Ses traits s'allongent, il mincit et devient plus musclé et des bois, qu'il peut utiliser pour se défendre, lui poussent sur la tête. Il gagne un bonus d'esquive de +2 à la [[CA]] contre les [[attaque dopportunité|attaques d'opportunité]], sa vitesse de base augmente de 6 mètres (4 {s:c}) et il peut se déplacer dans n'importe quels taillis (y compris d'origine magique) à sa vitesse normale. Il peut même faire un pas de 1,50 mètre (1 {s:c}) dans ce type de terrain. De plus, quand le personnage est touché par une [[attaque dopportunité|attaque d'opportunité]], il peut faire une unique attaque avec ses bois contre l'adversaire qui l'a touché, par une [[action immédiate]]. Cette attaque utilise le [[BBA|bonus de base à l'attaque]] le plus élevé du personnage plus son modificateur de [[Force]] ou de [[Dextérité]], au choix, et inflige 1d8 points de dégâts perforants (si le personnage est de taille M, 1d6 s'il est de taille P), plus le modificateur de [[Force]] si le coup touche. Les bois menacent une zone de critique de 19-20/x2.

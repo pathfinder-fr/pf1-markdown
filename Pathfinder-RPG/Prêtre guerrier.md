@@ -10,9 +10,9 @@ Categories:
 
 {s:um}*La religion du personnage est comme une arme et un bouclier. *
 
-**Condition.** Capacité à lancer des sorts divins, [domaine](./domaine.md) ou [mystère](./mystères.md)
+**Condition.** Capacité à lancer des sorts divins, [[domaine]] ou [[mystères|mystère]]
 
-**Avantage.** Le personnage gagne un bonus de +1 aux tests d’[initiative](./initiative.md) et de +2 aux tests de [Concentration](./concentration.md) pour lancer un sort ou utiliser un pouvoir magique quand il incante [sur la défensive](./Lancer des sorts.md#INCATATIONSURLADEFENSIVE) ou quand il est [agrippé](./Agrippé.md).
+**Avantage.** Le personnage gagne un bonus de +1 aux tests d’[[initiative]] et de +2 aux tests de [[Concentration]] pour lancer un sort ou utiliser un pouvoir magique quand il incante [[Lancer des sorts#INCATATIONSURLADEFENSIVE|sur la défensive]] ou quand il est [[agrippé]].
 
 {s:CMy}
 ### Version mythique
@@ -20,4 +20,4 @@ Categories:
 
 **Condition.** Prêtre guerrier
 
-**Avantage.** Le personnage gagne un bonus égal à la moitié de son [grade](./Grade.md) aux tests d’[initiative](./initiative.md) et aux tests de [concentration](./concentration.md) pour lancer un sort ou utiliser un pouvoir magique sur la défensive ou lorsqu’il est agrippé en situation de lutte. Ces bonus se cumulent avec ceux conférés par le don Prêtre guerrier.
+**Avantage.** Le personnage gagne un bonus égal à la moitié de son [[grade]] aux tests d’[[initiative]] et aux tests de [[concentration]] pour lancer un sort ou utiliser un pouvoir magique sur la défensive ou lorsqu’il est agrippé en situation de lutte. Ces bonus se cumulent avec ceux conférés par le don Prêtre guerrier.

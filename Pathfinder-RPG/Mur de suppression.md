@@ -11,20 +11,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Abjuration](./Abjuration.md) ;** Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 9, [Psy](./Psychiste.md) 9  
+**École** [[Abjuration]] ;** Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (1 000 po de poudre d'adamantium)  
+**Composantes** [[Composantes|V, G, M]] (1 000 po de poudre d'adamantium)  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Effet** mur d'anti-magie qui occupe jusqu'à 2 cubes de 1,50 m (1 {s:c}) de côté/[niveau](./niveau.md) (F)  
+**Effet** mur d'anti-magie qui occupe jusqu'à 2 cubes de 1,50 m (1 {s:c}) de côté/[[niveau]] (F)  
 
-**Durée** 10 minutes/[niveau](./niveau.md) ; voir texte  
+**Durée** 10 minutes/[[niveau]] ; voir texte  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Le personnage crée un mur de poussières scintillantes qui supprime ou même annule tout effet magique qui le traverse. Ce mur ne semble pas posséder la moindre substance et rien n'empêche de le traverser physiquement. En revanche, il exerce un puissant effet anti-magique. Tout effet magique lié à un sort, un objet ou autre de même [niveau](./niveau.md) que le personnage ou moins disparaît pendant 1 [round](./round.md) par [niveau](./niveau.md) s'il traverse le mur. Les sorts et effets à durée limitée expirent de façon normale, même s'ils ont été étouffés par le mur. Tout sort ou effet qui dure plus longtemps que l'effet de suppression du mur se remet à fonctionner normalement dès que l'effet de suppression se termine. Le mur affecte tous les effets magiques, y compris les sorts, les pouvoirs magiques, les objets magiques et n'importe quel effet qui en découle dès qu'ils franchissent le mur. Il n'empêche pas une créature de lancer des sorts, d'utiliser ses pouvoirs magiques ou autres à usage limité, même s'il supprime certaines applications de ces pouvoirs. En revanche, si une créature possède des aptitudes magiques constantes ou toujours actives, elles disparaissent pendant la durée d'effet de la suppression.
+Le personnage crée un mur de poussières scintillantes qui supprime ou même annule tout effet magique qui le traverse. Ce mur ne semble pas posséder la moindre substance et rien n'empêche de le traverser physiquement. En revanche, il exerce un puissant effet anti-magique. Tout effet magique lié à un sort, un objet ou autre de même [[niveau]] que le personnage ou moins disparaît pendant 1 [[round]] par [[niveau]] s'il traverse le mur. Les sorts et effets à durée limitée expirent de façon normale, même s'ils ont été étouffés par le mur. Tout sort ou effet qui dure plus longtemps que l'effet de suppression du mur se remet à fonctionner normalement dès que l'effet de suppression se termine. Le mur affecte tous les effets magiques, y compris les sorts, les pouvoirs magiques, les objets magiques et n'importe quel effet qui en découle dès qu'ils franchissent le mur. Il n'empêche pas une créature de lancer des sorts, d'utiliser ses pouvoirs magiques ou autres à usage limité, même s'il supprime certaines applications de ces pouvoirs. En revanche, si une créature possède des aptitudes magiques constantes ou toujours actives, elles disparaissent pendant la durée d'effet de la suppression.
 
-Le mur bloque la ligne d'effet des sorts et des effets et les empêche donc de le traverser, mais il ne bloque pas la ligne de mire. Le *mur de suppression* n'affecte pas les objets ou effets magiques qui possèdent un [niveau de lanceur](./NLS.md) de sort supérieur à celui du personnage. Le mur n'affecte pas les [artefacts](./Artefacts.md) ni ce qui résulte de l'action directe d'une divinité ni les sorts de puissance similaire.
+Le mur bloque la ligne d'effet des sorts et des effets et les empêche donc de le traverser, mais il ne bloque pas la ligne de mire. Le *mur de suppression* n'affecte pas les objets ou effets magiques qui possèdent un [[NLS|niveau de lanceur]] de sort supérieur à celui du personnage. Le mur n'affecte pas les [[artefacts]] ni ce qui résulte de l'action directe d'une divinité ni les sorts de puissance similaire.

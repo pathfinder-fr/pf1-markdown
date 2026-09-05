@@ -9,18 +9,18 @@ Categories:
 - Sort magicien 8
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Conj](./Conjurateur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8  
+**École** [[Abjuration]] ; **Niveau** [[conjurateur|Conj]] 6, [[ensorceleur|Ens]]/[[magicien|Mag]] 8  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (poussière de diamant (500 po)), F (un diamant (1 000 po) par cible. Chacune doit porter cette gemme pendant la durée du sort ; si elle la perd, le sort ne la protège plus)  
+**Composantes** [[composantes|V, G, M]] (poussière de diamant (500 po)), F (un diamant (1 000 po) par cible. Chacune doit porter cette gemme pendant la durée du sort ; si elle la perd, le sort ne la protège plus)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
-**Cibles** jusqu’à 1 créature touchée/4 [niveaux](./niveau.md)  
+**Cibles** jusqu’à 1 créature touchée/4 [[niveau|niveaux]]  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Les bénéficiaires du sort gagnent un bonus de résistance de +8 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts et les [pouvoirs magiques](./Capacités spéciales.md#TYPES) (mais pas contre les [pouvoirs surnaturels ou extraordinaires](./Capacités spéciales.md#TYPES)).
+Les bénéficiaires du sort gagnent un bonus de résistance de +8 aux [[jet de sauvegarde|jets de sauvegarde]] contre les sorts et les [[Capacités spéciales#TYPES|pouvoirs magiques]] (mais pas contre les [[capacités spéciales#TYPES|pouvoirs surnaturels ou extraordinaires]]).

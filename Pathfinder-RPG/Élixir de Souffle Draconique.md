@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Élixir de souffle draconique|{s:AE}}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 1 400 po ; **Poids** —
+**Aura** [[Évocation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 1 400 po ; **Poids** —
 (((Description)))
-Il existe plusieurs variantes de cet élixir luminescent et gargouillant. Chacune est associée à un spécimen particulier de dragon chromatique ou métallique. Une créature qui boit l’élixir peut, par une [action simple](./Action simple.md), produire un souffle semblable à celui d’un dragon et infliger 7d6 points de dégâts d’énergie. Les créatures situées dans la zone d’effet ont droit à un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 16 pour réduire les dégâts de moitié. La magie de l’élixir prend fin lorsque celui qui l’a consommé a soufflé une fois ou au bout d’une heure, selon ce qui se produit en premier. L’énergie destructive et la forme du souffle sont déterminées par le type de dragon associé à l’élixir : \
+Il existe plusieurs variantes de cet élixir luminescent et gargouillant. Chacune est associée à un spécimen particulier de dragon chromatique ou métallique. Une créature qui boit l’élixir peut, par une [[action simple]], produire un souffle semblable à celui d’un dragon et infliger 7d6 points de dégâts d’énergie. Les créatures situées dans la zone d’effet ont droit à un jet de [[Réflexes]] [[DD]] 16 pour réduire les dégâts de moitié. La magie de l’élixir prend fin lorsque celui qui l’a consommé a soufflé une fois ou au bout d’une heure, selon ce qui se produit en premier. L’énergie destructive et la forme du souffle sont déterminées par le type de dragon associé à l’élixir : \
 • Dragon noir ou de cuivre : ligne d’acide de 9 mètres de long. \
 • Dragon bleu ou de bronze : ligne d’électricité de 9 mètres de long. \
 • Dragon d’airain : ligne de feu de 9 mètres de long. \
@@ -19,5 +19,5 @@ Il existe plusieurs variantes de cet élixir luminescent et gargouillant. Chacun
 • Dragon rouge ou d’or : cône de feu de 4,50 mètres de long. \
 • Dragon blanc ou d’argent : cône de froid de 4,50 mètres de long.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[souffle de dragon](./Souffle de dragon.md)* ; **Coût** 700 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[souffle de dragon]]* ; **Coût** 700 po
 </div>

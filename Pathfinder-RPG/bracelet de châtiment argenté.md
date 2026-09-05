@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:APG}{s:BDTitre|Bracelet de châtiment argenté|}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [poignets](./Objets merveilleux portés aux poignets.md) ; **Prix** 16 000 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés aux poignets|poignets]] ; **Prix** 16 000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce lourd bracelet d’argent est gravé d’icônes de pureté, de fidélité, de chasteté et d’honneur. Il brille d’une douce lumière blanche quand son propriétaire prie. Ce dernier considère que son [niveau](./niveau.md) de [paladin](./Paladin.md) est augmenté de 4 [niveaux](./niveau.md) pour tout ce qui concerne son pouvoir de [châtiment du mal](./Paladin.md#CHATIMENTDUMAL).
+Ce lourd bracelet d’argent est gravé d’icônes de pureté, de fidélité, de chasteté et d’honneur. Il brille d’une douce lumière blanche quand son propriétaire prie. Ce dernier considère que son [[niveau]] de [[paladin]] est augmenté de 4 [[niveau|niveaux]] pour tout ce qui concerne son pouvoir de [[paladin#CHATIMENTDUMAL|châtiment du mal]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[arme alignée](./Arme alignée.md)*, le créateur doit être un [paladin](./Paladin.md) ; **Coût**  8 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[arme alignée]]*, le créateur doit être un [[paladin]] ; **Coût**  8 000 po
 </div>

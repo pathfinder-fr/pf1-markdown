@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#CHASSEURDESORCIERE
 ---
 
->>> [pouvoirs de rage#CHASSEURDESORCIERE](./Pouvoirs de rage.md#CHASSEURDESORCIERE)
+>>> [[pouvoirs de rage#CHASSEURDESORCIERE]]

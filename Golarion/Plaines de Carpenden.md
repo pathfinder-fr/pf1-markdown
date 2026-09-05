@@ -7,21 +7,21 @@ Categories:
 - Région
 ---
 
-La région des Plaines de Carpenden est l'une des cinq zones grossièrement définies au sein de la nation de l'[Andoran](./Andoran.md). Les autres étant la [région d'Almas](./Région-dAlmas.md), [Arthfell](./Arthfell.md), le [Val de Sombrelune](./Val de Sombrelune.md) et la [forêt de Verduran](./Forêt de Verduran.md). La région des plaines de Carpenden englobe à peu près toutes les terres entre les rives orientales du fleuve Andoshen et la forêt de Verduran ; les terres vallonnées au sud-ouest et au sud de la forêt de Verduran sont connues sous le nom de plaines de Carpenden, d'où la région tire son nom.<sup>(1)</sup>
+La région des Plaines de Carpenden est l'une des cinq zones grossièrement définies au sein de la nation de l'[[Andoran]]. Les autres étant la [[Région dAlmas|région d'Almas]], [[Arthfell]], le [[Val de Sombrelune]] et la [[forêt de Verduran]]. La région des plaines de Carpenden englobe à peu près toutes les terres entre les rives orientales du fleuve Andoshen et la forêt de Verduran ; les terres vallonnées au sud-ouest et au sud de la forêt de Verduran sont connues sous le nom de plaines de Carpenden, d'où la région tire son nom.<sup>(1)</sup>
 
 #### Géographie et climat
-En raison de l'exploitation forestière intensive au cours des derniers milliers d'années, le nord des plaines de Carpenden est en grande partie dépourvu d'étendues boisées. En raison des faibles précipitations, même les buissons sont rares et la terre est principalement couverte d'une herbe broussailleuse. Les plaines du sud reçoivent plus de précipitations et ont une température plus modérée, ce qui donne un paysage plus riche en herbes hautes de couleurs variées.<sup>(2)</sup> On peut y trouver Occarin, une forteresse en ruine construite il y a longtemps par la maison Occarin du [Taldor](./Taldor.md) qui se trouve sur un vaste marécage au sud-ouest de la [forêt de Verduran](./Forêt de Verduran.md).<sup>(2)</sup>
+En raison de l'exploitation forestière intensive au cours des derniers milliers d'années, le nord des plaines de Carpenden est en grande partie dépourvu d'étendues boisées. En raison des faibles précipitations, même les buissons sont rares et la terre est principalement couverte d'une herbe broussailleuse. Les plaines du sud reçoivent plus de précipitations et ont une température plus modérée, ce qui donne un paysage plus riche en herbes hautes de couleurs variées.<sup>(2)</sup> On peut y trouver Occarin, une forteresse en ruine construite il y a longtemps par la maison Occarin du [[Taldor]] qui se trouve sur un vaste marécage au sud-ouest de la [[forêt de Verduran]].<sup>(2)</sup>
 
 Le climat et la température dans les plaines de Carpenden ont tendance à fluctuer, avec une chaleur torride pendant la nuit suivie de nuits glaciales. Un brouillard et une forte rosée ont tendance à couvrir les plaines le matin. L'automne a tendance à arriver rapidement et l'hiver est assez rigoureux, mais les régions les plus sauvages du territoire abritent une grande variété de flore et de faune, tandis que les étés chauds et ensoleillés et le sol limoneux sont parfaits pour la culture des céréales.<sup>(2)</sup>
 
 #### Communautés
-Même si la région contient quelques grandes villes, dont [Carpenden](./Carpenden.md), [Sauerton](./Sauerton.md), [Souston](./Souston.md), [Steyr](./Steyr.md) et [Triéla](./Triéla.md), ainsi que d'innombrables petites communautés agricoles, les plaines de Carpenden sont en grande partie rurales et ses citoyens ne sont pas habitués à l'agitation de la vie dans les grandes villes.<sup>(1)</sup>
+Même si la région contient quelques grandes villes, dont [[Carpenden]], [[Sauerton]], [[Souston]], [[Steyr]] et [[Triéla]], ainsi que d'innombrables petites communautés agricoles, les plaines de Carpenden sont en grande partie rurales et ses citoyens ne sont pas habitués à l'agitation de la vie dans les grandes villes.<sup>(1)</sup>
 
 #### Habitants
-Les habitants majoritairement ruraux des plaines de Carpenden sont de nature quelque peu insulaire et provinciale (du moins par rapport à ceux qui vivent dans les grandes villes [andoranes](./Andoran.md)), et méprisent ceux qui ne cultivent pas leur propre nourriture ou qui s'empêtrent dans des activités aussi frivoles que la politique. Bien que ces agriculteurs se rendent dans les grandes villes pour vendre leurs marchandises, ils y restent rarement longtemps.<sup>(4)</sup>
+Les habitants majoritairement ruraux des plaines de Carpenden sont de nature quelque peu insulaire et provinciale (du moins par rapport à ceux qui vivent dans les grandes villes [[Andoran|andoranes]]), et méprisent ceux qui ne cultivent pas leur propre nourriture ou qui s'empêtrent dans des activités aussi frivoles que la politique. Bien que ces agriculteurs se rendent dans les grandes villes pour vendre leurs marchandises, ils y restent rarement longtemps.<sup>(4)</sup>
 
 #### Ressources
-La région des plaines de Carpenden est, à bien des égards, le grenier de la nation de l'[Andoran](./Andoran.md). Elle produit principalement du fromage, des fruits, des céréales, des olives, du raisin et du vin, et bien d'autres légumes en abondance, tant pour la consommation interne que pour l'exportation.<sup>(1)</sup>
+La région des plaines de Carpenden est, à bien des égards, le grenier de la nation de l'[[Andoran]]. Elle produit principalement du fromage, des fruits, des céréales, des olives, du raisin et du vin, et bien d'autres légumes en abondance, tant pour la consommation interne que pour l'exportation.<sup>(1)</sup>
 
 #### Dangers
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
@@ -33,31 +33,31 @@ La région des plaines de Carpenden est, à bien des égards, le grenier de la n
 | WIDTH="76%" | Résultat
 | WIDTH="2%" | FP
 |- CLASS="premier"
-| 1–8 || 1d3 [vagabonds](./../Pathfinder-RPG/PNJ routes.md#VAGABOND) || 3
+| 1–8 || 1d3 [[Pathfinder-RPG.PNJ routes#VAGABOND|vagabonds]] || 3
 |-
-| 9–18 || 1 [aigle géant](./../Pathfinder-RPG/Aigle géant.md) || 3
+| 9–18 || 1 [[Pathfinder-RPG.Aigle géant|aigle géant]] || 3
 |-
-| 19–24 || 1 [lion](./../Pathfinder-RPG/Lion.md) || 3
+| 19–24 || 1 [[Pathfinder-RPG.Lion|lion]] || 3
 |-
-| 25–34 || 3d4 [antilopes](./../Pathfinder-RPG/Antilope.md) || 4
+| 25–34 || 3d4 [[Pathfinder-RPG.Antilope|antilopes]] || 4
 |-
-| 35–42 || 2 [fers de hache](./../Pathfinder-RPG/Fer de hache.md) || 4
+| 35–42 || 2 [[Pathfinder-RPG.Fer de hache|fers de hache]] || 4
 |-
-| 43–51 || 1d4+1 [abeilles géantes](./../Pathfinder-RPG/Abeille géante.md) || 4
+| 43–51 || 1d4+1 [[Pathfinder-RPG.Abeille géante|abeilles géantes]] || 4
 |-
-| 52–58 || 1d4+2 [atomies](./../Pathfinder-RPG/Atomie.md) || 5
+| 52–58 || 1d4+2 [[Pathfinder-RPG.Atomie|atomies]] || 5
 |-
-| 59–65 || 1 [lion sanguinaire](./../Pathfinder-RPG/Lion sanguinaire.md) || 5
+| 59–65 || 1 [[Pathfinder-RPG.Lion sanguinaire|lion sanguinaire]] || 5
 |-
-| 66–74 || 3d4 [chiens de selle](./../Pathfinder-RPG/Chien de selle.md) || 5
+| 66–74 || 3d4 [[Pathfinder-RPG.Chien de selle|chiens de selle]] || 5
 |-
-| 75–82 || 1d6 [ankhegs](./../Pathfinder-RPG/Ankheg.md) || 6
+| 75–82 || 1d6 [[Pathfinder-RPG.Ankheg|ankhegs]] || 6
 |-
-| 83–90 || 1d4+2 [porcs-épics gants](./../Pathfinder-RPG/Porc-épic géant.md) || 6
+| 83–90 || 1d4+2 [[Pathfinder-RPG.Porc-épic géant|porcs-épics gants]] || 6
 |-
-| 91–100 || 2 [vautours géants](./../Pathfinder-RPG/Vautour géant.md) || 6
+| 91–100 || 2 [[Pathfinder-RPG.Vautour géant|vautours géants]] || 6
 |}
-</div></div>En raison de ses nombreuses communautés agricoles et de ses fleuves très fréquentées (en particulier l'Andoshen), les plaines de Carpenden sont une région relativement sûre. Cette sécurité, ancrée dans les esprits, conduit de nombreux jeunes à quitter leur domicile et à tenter leur chance en tant qu'aventuriers ou d'autres activités passionnantes dans les grandes villes le long de la côte de la [mer intérieure](./mer Intérieure.md). Les quelques dangers qui existent incluent, des ours, des brigands, des [gremlins](./../Pathfinder-RPG/Gremlin.md), des [drakes des rivières](./../Pathfinder-RPG/Drake des rivières.md), des [loups](./../Pathfinder-RPG/Loup.md).<sup>(4)</sup>
+</div></div>En raison de ses nombreuses communautés agricoles et de ses fleuves très fréquentées (en particulier l'Andoshen), les plaines de Carpenden sont une région relativement sûre. Cette sécurité, ancrée dans les esprits, conduit de nombreux jeunes à quitter leur domicile et à tenter leur chance en tant qu'aventuriers ou d'autres activités passionnantes dans les grandes villes le long de la côte de la [[mer intérieure]]. Les quelques dangers qui existent incluent, des ours, des brigands, des [[Pathfinder-RPG.Gremlin|gremlins]], des [[Pathfinder-RPG.Drake des rivières|drakes des rivières]], des [[Pathfinder-RPG.Loup|loups]].<sup>(4)</sup>
 
 {s:ClearRight}
 ### Références

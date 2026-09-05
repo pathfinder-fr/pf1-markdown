@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Cette trousse comprend du lustrant à métal, une petite lime, un couteau à parer, une huile d'entretien pour le cuir, deux chiffons doux, des lanières en cuir supplémentaires, une [aiguille à coudre](./Aiguille à coudre (objet).md) et quelques boutons.
+Cette trousse comprend du lustrant à métal, une petite lime, un couteau à parer, une huile d'entretien pour le cuir, deux chiffons doux, des lanières en cuir supplémentaires, une [[Aiguille à coudre (objet)|aiguille à coudre]] et quelques boutons.

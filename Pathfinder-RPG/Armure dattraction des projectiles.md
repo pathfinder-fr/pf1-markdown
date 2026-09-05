@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Armure d'attraction des projectiles|{s:AE}}
-**Aura** [Abjuration](./Abjuration.md) puissante ; **NLS** 16 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Poids** 25 kg
+**Aura** [[Abjuration]] puissante ; **NLS** 16 ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Poids** 25 kg
 (((Description)))
-Une analyse magique indique que cette armure est un [harnois](./harnois (armure).md) +3 tout à fait ordinaire. Il fonctionne normalement contre les attaques de corps à corps mais il attire les projectiles. Son propriétaire subit un malus de –15 à la [CA](./CA.md) contre les armes à distance. L’armure ne révèle sa véritable nature que lorsque le personnage se fait tirer dessus.
+Une analyse magique indique que cette armure est un [[harnois (armure)|harnois]] +3 tout à fait ordinaire. Il fonctionne normalement contre les attaques de corps à corps mais il attire les projectiles. Son propriétaire subit un malus de –15 à la [[CA]] contre les armes à distance. L’armure ne révèle sa véritable nature que lorsque le personnage se fait tirer dessus.
 (((Objet magique prévu)))
-[harnois](./harnois (armure).md) +3
+[[harnois (armure)|harnois]] +3
 </div>

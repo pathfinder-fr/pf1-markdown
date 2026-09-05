@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage peut diviser les effets d’un maléfice qui cible une créature et en affecter une autre située dans son champ de vision. *
 
-**Conditions.** [Répartition des maléfices](./Répartition des maléfices.md), [niveau](./niveau.md) 18 de [lanceur de sorts](./NLS.md)
+**Conditions.** [[Répartition des maléfices]], [[niveau]] 18 de [[NLS|lanceur de sorts]]
 
-**Avantage.** Quand le personnage utilise un de ses [maléfices](./maléfices.md) majeurs (pas des grands) qui vise une unique créature, il peut en choisir une seconde située à moins de 9 mètres (6 {s:c}) de la première. Elle sera aussi affectée par le maléfice.
+**Avantage.** Quand le personnage utilise un de ses [[maléfices]] majeurs (pas des grands) qui vise une unique créature, il peut en choisir une seconde située à moins de 9 mètres (6 {s:c}) de la première. Elle sera aussi affectée par le maléfice.

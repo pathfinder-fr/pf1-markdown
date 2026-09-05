@@ -5,4 +5,4 @@ LastModified: 2010-06-29 23:37
 RedirectTo: Pathfinder-RPG.Pouvoir exceptionnel
 ---
 
->>> [Pathfinder-RPG.Pouvoir exceptionnel](./Pouvoir exceptionnel.md)
+>>> [[Pathfinder-RPG.Pouvoir exceptionnel]]

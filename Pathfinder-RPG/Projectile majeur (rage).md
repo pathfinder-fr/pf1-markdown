@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#PROJECTILEMAJEUR
 ---
 
->>> [pouvoirs de rage#PROJECTILEMAJEUR](./Pouvoirs de rage.md#PROJECTILEMAJEUR)
+>>> [[pouvoirs de rage#PROJECTILEMAJEUR]]

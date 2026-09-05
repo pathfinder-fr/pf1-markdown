@@ -7,4 +7,4 @@ Categories:
 RedirectTo: talents#OEILDELARCHER
 ---
 
->>> [talents#OEILDELARCHER](./Talents.md#OEILDELARCHER)
+>>> [[talents#OEILDELARCHER]]

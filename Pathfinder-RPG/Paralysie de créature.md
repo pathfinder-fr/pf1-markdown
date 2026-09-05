@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [barde](./Barde.md) 4, [conjurateur](./Conjurateur.md) 5, [druide](./Druide.md) 4, [inquisiteur](./Inquisiteur.md) 4, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 5, [sorcière](./Sorcière.md) 5  
+**École** [[enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[barde]] 4, [[conjurateur]] 5, [[druide]] 4, [[inquisiteur]] 4, [[ensorceleur]]/[[magicien]] 5, [[sorcière]] 5  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
 
-**Restrictions de cible** *[choisi](./Choisi.md)*
+**Restrictions de cible** *[[choisi]]*
 
-Cet effet fonctionne de la même manière que *[paralysie d’humanoïde](./Paralysie dhumanoïde.md)*, mais il peut affecter des créatures de n’importe quel type.
+Cet effet fonctionne de la même manière que *[[paralysie dhumanoïde|paralysie d’humanoïde]]*, mais il peut affecter des créatures de n’importe quel type.

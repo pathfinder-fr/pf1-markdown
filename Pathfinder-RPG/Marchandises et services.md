@@ -8,15 +8,15 @@ Categories:
 ---
 
 {s:MenuEquipement}
-- [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)
-- [Chroniques des Explorateurs](./Chroniques des Éclaireurs.md)
-- [Équipement d'aventurier](./Équipement daventurier.md)
-- [Focalisateurs de canalisation](./Focalisateurs de canalisation.md)
-- [Hébergement et services](./Hébergement et services.md)
-- [Jeux](./Jeux.md)
-- [Marché noir](./Marché noir.md)
-- [Moyens de transport](./Moyens de transport.md)
-- [Nourriture et Boissons](./Nourriture et Boissons.md)
-- [Outils de compétences](./Outils de compétences.md)
-- [Trousses d'équipement](./Trousses déquipement.md)
-- [Vêtements](./Vêtements.md)
+- [[Animaux, montures et leur équipement]]
+- [[Chroniques des Éclaireurs|Chroniques des Explorateurs]]
+- [[Équipement daventurier|Équipement d'aventurier]]
+- [[Focalisateurs de canalisation]]
+- [[Hébergement et services]]
+- [[Jeux]]
+- [[Marché noir]]
+- [[Moyens de transport]]
+- [[Nourriture et Boissons]]
+- [[Outils de compétences]]
+- [[Trousses déquipement|Trousses d'équipement]]
+- [[Vêtements]]

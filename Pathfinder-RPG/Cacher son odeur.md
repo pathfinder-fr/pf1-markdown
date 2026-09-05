@@ -12,6 +12,6 @@ Categories:
 
 *Le personnage a appris comment modifier son fumet et empêcher les créatures de le localiser à l’odeur.*
 
-**Conditions.** 3 rangs en [Discrétion](./Discrétion.md), 3 rangs en [Survie](./Survie.md)
+**Conditions.** 3 rangs en [[Discrétion]], 3 rangs en [[Survie]]
 
-**Avantages.** Personne ne peut utiliser le pouvoir [odorat](./Odorat (capacité).md) pour traquer le personnage (ce qui n’empêche pas de suivre sa piste autrement). Les créatures dotées du pouvoir odorat repèrent le personnage de deux fois moins loin que la normale et sont incapables de repérer sa position exacte.
+**Avantages.** Personne ne peut utiliser le pouvoir [[odorat (capacité)|odorat]] pour traquer le personnage (ce qui n’empêche pas de suivre sa piste autrement). Les créatures dotées du pouvoir odorat repèrent le personnage de deux fois moins loin que la normale et sont incapables de repérer sa position exacte.

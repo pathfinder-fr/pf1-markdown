@@ -11,6 +11,6 @@ Categories:
 
 {s:apg}*La magie coule dans les veines du personnage.*
 
-**Conditions.** [Cha](./Charisme.md) 10 ; [demi-elfe](./Demi-elfe.md), [elfe](./Elfe.md) ou [gnome](./Gnome.md).
+**Conditions.** [[Charisme|Cha]] 10 ; [[demi-elfe]], [[elfe]] ou [[gnome]].
 
-**Avantage.** Choisissez un sort de niveau 0 appartenant à la liste des [ensorceleurs](./Ensorceleur.md)/[magiciens](./Magicien.md). Le personnage peut lancer ce sort trois fois par jour en tant que pouvoir magique avec un [NLS](./NLS.md) égal à son niveau de personnage. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) vaut 10 + le modificateur de [Charisme](./Charisme.md) du personnage.
+**Avantage.** Choisissez un sort de niveau 0 appartenant à la liste des [[ensorceleur|ensorceleurs]]/[[magicien|magiciens]]. Le personnage peut lancer ce sort trois fois par jour en tant que pouvoir magique avec un [[NLS]] égal à son niveau de personnage. Le [[DD]] du [[jet de sauvegarde]] vaut 10 + le modificateur de [[Charisme]] du personnage.

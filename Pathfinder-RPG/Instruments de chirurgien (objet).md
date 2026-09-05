@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 20 po ; **Poids** 2,5 kg<sup>[1](./Outils de compétences.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+{s:AE}**Prix** 20 po ; **Poids** 2,5 kg<sup>[[Outils de compétences#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Lorsqu’ils sont utilisés en conjonction avec une [trousse de premiers secours](./Trousse de premiers secours (objet).md), les instruments de chirurgien montent le bonus de circonstances de la trousse à +3 pour les tests de [Premiers secours](./Premiers secours.md) faits pour traiter les blessures et les blessures mortelles.
+Lorsqu’ils sont utilisés en conjonction avec une [[Trousse de premiers secours (objet)|trousse de premiers secours]], les instruments de chirurgien montent le bonus de circonstances de la trousse à +3 pour les tests de [[Premiers secours]] faits pour traiter les blessures et les blessures mortelles.

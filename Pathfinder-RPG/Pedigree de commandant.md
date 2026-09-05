@@ -9,9 +9,9 @@ Categories:
 
 {s:cm}*Le personnage est issu d’une longue lignée de généraux impitoyables et de tacticiens militaires, il est donc bien difficile de mettre son armée en déroute.*
 
-**Conditions.** [Hobgobelin](./Hobgobelin (race).md)
+**Conditions.** [[Hobgobelin (race)|Hobgobelin]]
 
-**Avantages.** Lorsque le personnage occupe le poste de commandant dans les règles du combat de masse du chapitre 4 du Guide de campagne, il ajoute ses niveaux de classe aux tests de moral de son armée au lieu de son modificateur de [Charisme](./Charisme.md).
+**Avantages.** Lorsque le personnage occupe le poste de commandant dans les règles du combat de masse du chapitre 4 du Guide de campagne, il ajoute ses niveaux de classe aux tests de moral de son armée au lieu de son modificateur de [[Charisme]].
 
 
 ***Note :** Les règles du combat de masse ne sont pas encore intégrées au wiki.*

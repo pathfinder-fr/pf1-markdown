@@ -61,7 +61,7 @@ Cette succube est défendue par ses filles.
 
 ''
 
-Voir aussi [http://www.pathfinder-fr.org/Wiki/Aventures.%C3%89ryalla%20Lelyrin%20Voivod%20et%20Z%C3%A9vashala.ashx?NoRedirect=1&NS=Aventures|Quatuor de démons alus]
+Voir aussi [Quatuor de démons alus](http://www.pathfinder-fr.org/Wiki/Aventures.%C3%89ryalla%20Lelyrin%20Voivod%20et%20Z%C3%A9vashala.ashx?NoRedirect=1&NS=Aventures)
 
 
 </div>

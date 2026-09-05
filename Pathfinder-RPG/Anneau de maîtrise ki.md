@@ -10,11 +10,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de maîtrise ki|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 10 000 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 10 000 po ; **Poids** —
 (((Description)))
-Cet anneau est à moitié composé d’onyx et de cristal blanc qui ont été magiquement fusionnés et renforcés pour avoir la solidité de l’acier. Il permet à un porteur ayant une réserve de [ki](./ki.md) d’y stocker un maximum de 2 points de ki par une action rapide. Ces points restent dans l’anneau jusqu’à utilisation. Le porteur peut utiliser les points de ki normalement ou bénéficier des avantages suivants grâce aux points de ki stockés. \
+Cet anneau est à moitié composé d’onyx et de cristal blanc qui ont été magiquement fusionnés et renforcés pour avoir la solidité de l’acier. Il permet à un porteur ayant une réserve de [[ki]] d’y stocker un maximum de 2 points de ki par une action rapide. Ces points restent dans l’anneau jusqu’à utilisation. Le porteur peut utiliser les points de ki normalement ou bénéficier des avantages suivants grâce aux points de ki stockés. \
 Tant qu’il reste au moins 1 point de ki dans l’anneau, le porteur bénéficie d’un bonus de +2 au DMD contre les tentatives de lutte, de repositionnement et de croc-en-jambe. \
 Tant qu’il reste au moins 2 points de ki dans l’anneau, le porteur réduit le nombre de points de ki dont il a besoin pour utiliser une astuce de ninja ou une capacité ki de 1 (minimum de 1 point de ki).
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[sangsue de ki](./Sangsue de ki.md)*, le créateur doit être capable d’utiliser le ki ; **Coût** 5.000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[sangsue de ki]]*, le créateur doit être capable d’utiliser le ki ; **Coût** 5.000 po
 </div>

@@ -12,11 +12,11 @@ Categories:
 
 *Le personnage est un leader expérimenté parmi les lanceurs de rituels.*
 
-**Conditions.** 1 rang en [Connaissances](./Connaissances.md) (mystères, histoire, plans, et religion)
+**Conditions.** 1 rang en [[Connaissances]] (mystères, histoire, plans, et religion)
 
-**Avantage.** Le personnage obtient un bonus de +2 aux tests pour effectuer des [rituels occultes](./Rituels occultes.md) et aux tests d’[Intelligence](./Intelligence.md) pour apprendre la méthode de lancement d'un rituel occulte.
+**Avantage.** Le personnage obtient un bonus de +2 aux tests pour effectuer des [[rituels occultes]] et aux tests d’[[Intelligence]] pour apprendre la méthode de lancement d'un rituel occulte.
 
-Si le personnage est l'officiant principal lors du rituel, le [DD](./DD.md) des [jets de sauvegarde](./JDS.md) contre les effets de vos rituels augmente de 2. Si le rituel utilisé nécessite un nombre minimum d'officiants secondaires, ce nombre diminue de 1.
+Si le personnage est l'officiant principal lors du rituel, le [[DD]] des [[jds|jets de sauvegarde]] contre les effets de vos rituels augmente de 2. Si le rituel utilisé nécessite un nombre minimum d'officiants secondaires, ce nombre diminue de 1.
 
 (((Practiced ritualist
 

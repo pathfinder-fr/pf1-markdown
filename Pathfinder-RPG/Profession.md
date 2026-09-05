@@ -8,19 +8,19 @@ Categories:
 
 {s:MenuCompétences}
 
-**Caractéristique associée** : [Sagesse](./Sagesse.md)
+**Caractéristique associée** : [[Sagesse]]
 
 **Formation nécessaire** : oui
 
 *Le personnage connaît les ficelles d’une profession en particulier.*
 
-Tout comme les compétences d’[Artisanat](./Artisanat.md), de [Connaissances](./Connaissances.md) et de [Représentation](./Représentation.md), la compétence de Profession regroupe plusieurs spécialisations différentes. Le personnage peut posséder plusieurs professions et investir des points de compétence séparément dans chacune d’elles. Alors que les formes d’Artisanat permettent de fabriquer des objets, celles de Profession représentent les aptitudes du personnage dans des domaines nécessitant des connaissances plus variées mais moins spécialisées. Les formes de Profession les plus courantes sont les suivantes :
+Tout comme les compétences d’[[Artisanat]], de [[Connaissances]] et de [[Représentation]], la compétence de Profession regroupe plusieurs spécialisations différentes. Le personnage peut posséder plusieurs professions et investir des points de compétence séparément dans chacune d’elles. Alors que les formes d’Artisanat permettent de fabriquer des objets, celles de Profession représentent les aptitudes du personnage dans des domaines nécessitant des connaissances plus variées mais moins spécialisées. Les formes de Profession les plus courantes sont les suivantes :
 
 architecte, avocat, berger, bibliothécaire, boucher, boulanger, brasseur, bûcheron, clerc, conducteur d’attelage, courtisan, cuisinier, fermier, gladiateur, herboriste, ingénieur, jardinier, joueur, maître d’écurie, marchand, marin, meunier, mineur, pêcheur, porteur, sage-femme, scribe, soldat, tanneur, tavernier et trappeur.
 
 ### Test de compétence
 
-Le personnage peut utiliser son métier pour vivre, auquel cas il gagne un nombre de pièces d’or égal à la moitié du résultat de son test de compétence pour une pleine semaine de travail. Il sait comment utiliser au mieux les outils de sa spécialité, accomplir les tâches habituelles, superviser le travail de la main d’œuvre et régler les problèmes ne sortant pas de l’ordinaire. Il peut également répondre aux questions relatives à sa Profession. Les questions simples ont un [DD](./DD.md) de 10 alors que les questions plus complexes ont un [DD](./DD.md) de 15 ou plus.
+Le personnage peut utiliser son métier pour vivre, auquel cas il gagne un nombre de pièces d’or égal à la moitié du résultat de son test de compétence pour une pleine semaine de travail. Il sait comment utiliser au mieux les outils de sa spécialité, accomplir les tâches habituelles, superviser le travail de la main d’œuvre et régler les problèmes ne sortant pas de l’ordinaire. Il peut également répondre aux questions relatives à sa Profession. Les questions simples ont un [[DD]] de 10 alors que les questions plus complexes ont un [[DD]] de 15 ou plus.
 
 ### Action
 
@@ -36,4 +36,4 @@ Les ouvriers non-qualifiés et les assistants (comme par exemple les personnages
 
 ### Spécial
 
-Les [gnomes](./Gnome.md) reçoivent un bonus racial de +2 à une compétence d’[Artisanat](./Artisanat.md) ou de Profession de leur choix.
+Les [[gnome|gnomes]] reçoivent un bonus racial de +2 à une compétence d’[[Artisanat]] ou de Profession de leur choix.

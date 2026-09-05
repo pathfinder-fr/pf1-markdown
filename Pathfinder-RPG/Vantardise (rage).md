@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#VANTARDISE
 ---
 
->>> [pouvoirs de rage#VANTARDISE](./Pouvoirs de rage.md#VANTARDISE)
+>>> [[pouvoirs de rage#VANTARDISE]]

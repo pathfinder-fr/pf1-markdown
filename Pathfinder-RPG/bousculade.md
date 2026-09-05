@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Manœuvres offensives#BOUSCULADE
 ---
 
->>> [Manœuvres offensives#BOUSCULADE](./Manœuvres offensives.md#BOUSCULADE)
+>>> [[Manœuvres offensives#BOUSCULADE]]

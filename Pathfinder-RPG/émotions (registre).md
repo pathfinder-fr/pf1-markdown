@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Créer un sort#EMOTIONS
 ---
 
->>> [Créer un sort#EMOTIONS](./Créer un sort.md#EMOTIONS)
+>>> [[Créer un sort#EMOTIONS]]

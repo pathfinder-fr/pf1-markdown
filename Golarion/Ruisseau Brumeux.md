@@ -7,4 +7,4 @@ Categories:
 - Taldor
 ---
 
-Petite rivière du [Taldor](./Taldor.md) située au pied des [Monts Brumeux](./Monts Brumeux.md). Affluent de la [Fourche du Verduran](./Fourche du Verduran.md).
+Petite rivière du [[Taldor]] située au pied des [[Monts Brumeux]]. Affluent de la [[Fourche du Verduran]].

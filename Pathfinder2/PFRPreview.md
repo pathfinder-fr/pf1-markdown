@@ -4,9 +4,9 @@ Title: Preview de PF2 Remaster
 LastModified: 2023-07-25 13:02
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Informations générales sur Pathfinder 2 Remastered](./PFR.md)
+• [[PFR|Informations générales sur Pathfinder 2 Remastered]]
 
 *Cette page reprend les principales informations contenues dans le PDF de preview publié par Paizo et disponible [sur le site de Paizo](https://paizo.com/pathfinder/corepreview).*
 

@@ -240,13 +240,13 @@ Les dons qui suivent améliorent les capacités des personnages à accumuler ou 
 | WIDTH="45%" | Avantages
 
 |- CLASS="premier donprincipal"
-| [Bonne étoile des héros](./Bonne étoile des héros.md) || <sup>MJRA</sup> || — || Gagne un point héroïque et augmente le nombre de points maximum
+| [[Bonne étoile des héros]] || <sup>MJRA</sup> || — || Gagne un point héroïque et augmente le nombre de points maximum
 
 |- CLASS="premier alt donprincipal"
-| [Chance des héros](./Chance des héros.md) || <sup>MJRA</sup> || [Bonne étoile des héros](./Bonne étoile des héros.md) || 25% de chance de ne pas dépenser un point héroïque quand le personnage en utilise
+| [[Chance des héros]] || <sup>MJRA</sup> || [[Bonne étoile des héros]] || 25% de chance de ne pas dépenser un point héroïque quand le personnage en utilise
 
 |- CLASS="premier donprincipal"
-| [Étoffe des héros](./Étoffe des héros.md) || <sup>MJRA</sup> || [Bonne étoile des héros](./Bonne étoile des héros.md) || Gain de 2 points héroïques en prenant un niveau
+| [[Étoffe des héros]] || <sup>MJRA</sup> || [[Bonne étoile des héros]] || Gain de 2 points héroïques en prenant un niveau
 |}
 </center>
 
@@ -342,7 +342,7 @@ dégâts pour chaque point héroïque utilisé pendant que ce sort fait effet.
 
 <div class="BD">
 {s:BDTitre|Malédiction Funeste|}
-**École** [Nécromancie](./Nécromancie.md) [Mal, mort] ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, Sor 3  
+**École** [[Nécromancie]] [[Mal, mort]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 3, Sor 3  
 
 **Temps d’incantation** 1 action simple  
 
@@ -382,7 +382,7 @@ Les objets magiques qui suivent donnent aux personnages des points héroïques s
 
 <div class="BD">
 {s:BDTitre|Bâton de la chance|}
-- **Aura** [Évocation](./Évocation.md) modérée ; **NLS** 9 ; **Emplacement** aucun ; **Prix** 44 400 po ; **Poids** 1,5 kg
+- **Aura** [[Évocation]] modérée ; **NLS** 9 ; **Emplacement** aucun ; **Prix** 44 400 po ; **Poids** 1,5 kg
 (((DESCRIPTION)))
 - Au sommet de ce bâton d’ivoire et d’or se trouve un imposant morceau de quartz pur. Ce bâton permet de lancer les sorts suivants :
 - chance héroïque (1 charge)
@@ -394,7 +394,7 @@ Les objets magiques qui suivent donnent aux personnages des points héroïques s
 
 <div class="BD">
 {s:BDTitre|Élixir de chance|}
-- **Aura** [Évocation](./Évocation.md) puissante ; **NLS** 7 ; **Emplacement** aucun ; **Prix** 3 600 po ; **Poids** —
+- **Aura** [[Évocation]] puissante ; **NLS** 7 ; **Emplacement** aucun ; **Prix** 3 600 po ; **Poids** —
 (((DESCRIPTION)))
 - Cet élixir doré rend celui qui le boit chanceux. Après avoir avalé l’élixir, le personnage gagne 3 points héroïques qui doivent être utilisés dans l’heure qui suit. Ces points héroïques ne sont pas pris en compte dans le calcul du nombre maximum de points héroïques que le personnage peut accumuler. Ils ne peuvent être utilisés que pour aider le personnage qui a bu l’élixir, pas quelqu’un d’autre. Le personnage doit attendre 1 mois avant de pouvoir à nouveau bénéficier des effets d’un élixir de chance.
 (((FABRICATION)))
@@ -404,7 +404,7 @@ Les objets magiques qui suivent donnent aux personnages des points héroïques s
 
 <div class="BD">
 {s:BDTitre|Faux du faucheur|}
-- **Aura** [Nécromancie](./Nécromancie.md) modérée ; **NLS** 12 ; **Emplacement** aucun ; **Prix** 80 318 po ; **Poids** 5 kg
+- **Aura** [[Nécromancie]] modérée ; **NLS** 12 ; **Emplacement** aucun ; **Prix** 80 318 po ; **Poids** 5 kg
 (((DESCRIPTION)))
 - La lame noire de cette faux +2 impie acérée reflète de vagues images représentant les âmes de ses victimes. Chaque fois que la faux est utilisée pour amener une créature à –1 point de vie ou moins, celle-ci doit immédiatement réussir un jet de Volonté contre un DD de 14 pour éviter de mourir sur le coup. Si la faux du faucheur tue une créature (en infligeant suffisamment de dégâts ou à cause d’un jet de Volonté raté), son porteur reçoit immédiatement 1 point héroïque. Ce point héroïque doit être utilisé dans l’heure qui suit, sous peine d’être perdu. La faux ne peut faire gagner d’autre point héroïque au porteur avant que celui-ci ne soit utilisé ou perdu.
 (((FABRICATION)))
@@ -414,7 +414,7 @@ Les objets magiques qui suivent donnent aux personnages des points héroïques s
 
 <div class="BD">
 {s:BDTitre|Lame du héros|}
-- **Aura** [Évocation](./Évocation.md) modérée ; **NLS** 9 ; **Emplacement** aucun ; **Prix** 17 315 po ; **Poids** 2 kg
+- **Aura** [[Évocation]] modérée ; **NLS** 9 ; **Emplacement** aucun ; **Prix** 17 315 po ; **Poids** 2 kg
 (((DESCRIPTION)))
 - Le pommeau de cette épée longue +2 décorée ressemble à un dragon d’or enroulé sur lui-même avec six petites écailles de diamant le long de son dos. Lors de sa fabrication, l’épée renferme 6 points héroïques. Son porteur peut utiliser ces points à n’importe quel moment, et ils ne sont pas pris en compte dans le calcul du nombre maximum de points héroïques qu’il peut accumuler. Chaque fois qu’un point héroïque est utilisé, un des petits diamants sur le dos du dragon se transforme en charbon. Une fois le dernier point dépensé, la lame du héros devient une épée longue +2 normale.
 (((FABRICATION)))

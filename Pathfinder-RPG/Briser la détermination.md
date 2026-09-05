@@ -10,6 +10,6 @@ Categories:
 
 {s:ISG}{s:GeM}*Infliger des dégâts d’énergie négative à un adversaire provoque en lui le désespoir.*
 
-**Conditions.** Capacité de classe [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE), suivant d'[Urgathoa](./Urgathoa (technique).md)
+**Conditions.** Capacité de classe [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]], suivant d'[[Urgathoa (technique)|Urgathoa]]
 
-**Avantage.** Lorsque le personnage inflige des dégâts à une créature en canalisant de l’énergie négative, il la remplit de peur. Une créature qui rate son jet de [Volonté](./Volonté.md) pour réduire les dégâts de moitié est également [secouée](./Secoué.md) pendant un nombre de [rounds](./round.md) égal au nombre de dés utilisés par sa canalisation d'énergie.
+**Avantage.** Lorsque le personnage inflige des dégâts à une créature en canalisant de l’énergie négative, il la remplit de peur. Une créature qui rate son jet de [[Volonté]] pour réduire les dégâts de moitié est également [[secoué|secouée]] pendant un nombre de [[round|rounds]] égal au nombre de dés utilisés par sa canalisation d'énergie.

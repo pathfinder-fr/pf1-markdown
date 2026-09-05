@@ -10,6 +10,6 @@ Categories:
 
 {s:mca}*Quand le personnage est en pleine fureur, même la douleur ne peut briser sa concentration.*
 
-**Conditions.** Pouvoir de classe [incantation sanguine](./Sanguin.md#INCANTATIONSANGUINE).
+**Conditions.** Pouvoir de classe [[Sanguin#INCANTATIONSANGUINE|incantation sanguine]].
 
-**Avantage**. Lorsqu’il est en [rage sanguine](./Sanguin.md#RAGESANGUINE), le personnage gagne un bonus aux [tests de concentration](./Lancer des sorts.md#TESTCONCENTRATION) égal au bonus de moral qu’il reçoit en [Constitution](./Constitution.md) grâce à sa rage sanguine.
+**Avantage**. Lorsqu’il est en [[Sanguin#RAGESANGUINE|rage sanguine]], le personnage gagne un bonus aux [[Lancer des sorts#TESTCONCENTRATION|tests de concentration]] égal au bonus de moral qu’il reçoit en [[Constitution]] grâce à sa rage sanguine.

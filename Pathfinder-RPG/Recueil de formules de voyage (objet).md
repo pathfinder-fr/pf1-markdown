@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 10 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Il s’agit de l’équivalent pour l’[alchimiste](./Alchimiste.md) du [grimoire de voyage](./Grimoire de voyage (objet).md) des [magiciens](./Magicien.md) (le recueil de formules de voyage et le grimoire de voyage sont pratiquement similaires).
+Il s’agit de l’équivalent pour l’[[Alchimiste]] du [[Grimoire de voyage (objet)|grimoire de voyage]] des [[Magicien|magiciens]] (le recueil de formules de voyage et le grimoire de voyage sont pratiquement similaires).

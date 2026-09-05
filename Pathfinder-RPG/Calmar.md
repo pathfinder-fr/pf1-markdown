@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.38*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./type Animal.md) ([aquatique](./sous-type aquatique.md)) de taille M, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Animal|Animal]] ([[sous-type aquatique|aquatique]]) de taille M, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)}
 {s:BDTexte|**pv** 13 (3d8)}
@@ -22,19 +22,19 @@ Categories:
 {s:BDTexte|**Capacités défensives** nuage d'encre (1,50 m (1 {s:c}) de rayon) }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** nage 18 m (12 {s:c}), propulsion 72 m (48 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +4 (1d3+2), tentacules +2 (1d4+1 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure +4 (1d3+2), tentacules +2 (1d4+1 et [[étreinte]])}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 15, **Con** 11, **Int** 2, **Sag** 12, **Cha** 2}
 {s:BDTexte|**BBA** +2, **BMO** +4 (+8 pour la lutte), **DMD** 16}
-{s:BDTexte|**Dons** [Attaques multiples](./Attaques multiples.md)<sup>B</sup>, [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +10, [Perception](./Perception.md) +7}
+{s:BDTexte|**Dons** [[Attaques multiples]]<sup>B</sup>, [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Natation]] +10, [[Perception]] +7}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou banc (3-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Nuage d'encre (Ext)** Par une [action libre](./Action libre.md) utilisable 1 fois par minute, un calmar peut projeter un nuage d'encre de 1,50 m (1  {s:c}) de rayon lorsqu'il se trouve dans l'eau. Ce nuage offre un [camouflage total](./camouflage total.md) et reste efficace pendant 1 minute.}
-{s:BDTexte|**Propulsion (Ext)** Un calmar peut utiliser une [action complexe](./Action complexe.md) pour se propulser en ligne droite. Ce mouvement ne provoque pas d'[attaque d'opportunité](./attaque dopportunité.md).}
+{s:BDTexte|**Nuage d'encre (Ext)** Par une [[action libre]] utilisable 1 fois par minute, un calmar peut projeter un nuage d'encre de 1,50 m (1  {s:c}) de rayon lorsqu'il se trouve dans l'eau. Ce nuage offre un [[camouflage total]] et reste efficace pendant 1 minute.}
+{s:BDTexte|**Propulsion (Ext)** Un calmar peut utiliser une [[action complexe]] pour se propulser en ligne droite. Ce mouvement ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]].}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Calmar](./Calmar.md) || 1
+| [[Calmar]] || 1
 |-
-| [Calmar géant](./Calmar géant.md) || 9
+| [[Calmar géant]] || 9
 |}
 </div>*Ce calmar rouge et effilé traverse les flots à grande vitesse. Au-dessus de ses tentacules, deux grands yeux scrutent les environs.*
 
@@ -55,7 +55,7 @@ pas à s’attaquer à des proies
 plus grandes qu’eux.
 
 #### Le calmar comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** nage 18 m (12 {s:c}), propulsion 72 m (48 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** tentacules (1d4, [étreinte](./Étreinte.md)) , morsure (1d3) ; **Caractéristiques** For 14, Dex 15, Con 11, Int 2, Sag 12, Cha 2 ; **Particularités** nuage d'encre, [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** nage 18 m (12 {s:c}), propulsion 72 m (48 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** tentacules (1d4, [[étreinte]]) , morsure (1d3) ; **Caractéristiques** For 14, Dex 15, Con 11, Int 2, Sag 12, Cha 2 ; **Particularités** nuage d'encre, [[vision nocturne]].
 
 **Développement au niveau 4.** **Caractéristiques** For +2, Con +2.
 </div></td></tr></table>

@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISR}*Avec les bons gestes, vous gagnez suffisamment de temps pour vous préparer à l'inévitable affrontement.*
 
-**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** 3 rangs en [Diplomatie](./Diplomatie.md), [humain](./Humain.md) (kéléshite)
+**Conditions.** 3 rangs en [[Diplomatie]], [[humain]] (kéléshite)
 
-**Avantages.** Lorsque le personnage est adjacent à un allié qui possède ce don, il peut effectuer un geste rapide d'apparence courtoise au moment de lancer son test d'[initiative](./initiative.md). Dans le cadre de ce geste, le personnage peut effectuer une unique [action libre](./Action libre.md), comme [lâcher un objet](./Actions libres.md#LACHEROBJET) ou entrer en [rage](./Barbare.md#RAGE). Ce don ne peut être utilisé que lorsqu'un combat éclate après une conversation, comme à la suite de négociations ratées.
+**Avantages.** Lorsque le personnage est adjacent à un allié qui possède ce don, il peut effectuer un geste rapide d'apparence courtoise au moment de lancer son test d'[[initiative]]. Dans le cadre de ce geste, le personnage peut effectuer une unique [[action libre]], comme [[Actions libres#LACHEROBJET|lâcher un objet]] ou entrer en [[Barbare#RAGE|rage]]. Ce don ne peut être utilisé que lorsqu'un combat éclate après une conversation, comme à la suite de négociations ratées.

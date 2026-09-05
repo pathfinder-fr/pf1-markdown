@@ -14,20 +14,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Cham](./Chaman.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 1, [Spi](./Spirite.md) 1  
+**École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
-**Cibles** créature ou créatures touchées (jusqu’à 1/[niveau](./niveau.md))  
+**Cibles** créature ou créatures touchées (jusqu’à 1/[[niveau]])  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
-Au terme de l’incantation, la main du mage s’auréole d’une lueur bleutée qui affecte la force vitale des créatures vivantes en leur faisant perdre 1d6 points de vie (pas de [jet de sauvegarde](./jet de sauvegarde.md)). Si elles échouent à un jet de [Vigueur](./Vigueur.md), elles subissent un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1 point de [Force](./Force.md). Le personnage peut utiliser cette [attaque de contact](./attaque de contact.md) au corps à corps jusqu’à une fois par niveau.
+Au terme de l’incantation, la main du mage s’auréole d’une lueur bleutée qui affecte la force vitale des créatures vivantes en leur faisant perdre 1d6 points de vie (pas de [[jet de sauvegarde]]). Si elles échouent à un jet de [[Vigueur]], elles subissent un [[affaiblissement temporaire]] de 1 point de [[Force]]. Le personnage peut utiliser cette [[attaque de contact]] au corps à corps jusqu’à une fois par niveau.
 
-Ce sort agit étrangement sur les [morts-vivants](./type Mort-vivant.md) : ils ne perdent ni points de vie ni points de Force, mais doivent remporter avec succès un jet de [Volonté](./Volonté.md) sous peine de s’enfuir, [paniqués](./Paniqué.md), pendant 1d4 rounds +1 par [niveau de lanceur de sorts](./NLS.md).
+Ce sort agit étrangement sur les [[type mort-vivant|morts-vivants]] : ils ne perdent ni points de vie ni points de Force, mais doivent remporter avec succès un jet de [[Volonté]] sous peine de s’enfuir, [[paniqué|paniqués]], pendant 1d4 rounds +1 par [[NLS|niveau de lanceur de sorts]].

@@ -12,7 +12,7 @@ Categories:
 
 {s:BDTitre|Throma, traqueur de géant |FP 4}
 **PX** 1 200
-{s:BDTexte|[Rôdeur](./../Pathfinder-RPG/Rôdeur.md) 5 (tirailleur) 4 (PNJ héroïque)}
+{s:BDTexte|[[Pathfinder-RPG.Rôdeur|Rôdeur]] 5 (tirailleur) 4 (PNJ héroïque)}
 {s:BDTexte|humanoïde (humain) de taille M (N)}
 {s:BDTexte|**Init **+4 ; **Sens **Perception +10 }
 {s:BDSousTitre|CAPACITÉS DÉFENSIVES}
@@ -49,7 +49,7 @@ ou tir rapide +9/+9 (1d8+1 x3) portée 78m.}
 - attaque handicapante. Diminue de moitié la vitesse de la cible d'une attaque durant 1d4 rounds.   
 
 {s:BDSousTitre|ÉQUIPEMENT}
-Cuir clouté de maître ; Arc long de force (+1) de maître en os de dragon d'airain (draconomicon), Hache d'arme de maître, 60 flèches, matériel de voyageur, [veste de chasseur](http://www.pathfinder-fr.org/Wiki/Informations.Veste de chasseur.ashx), corde en soie, Longue vue, Carquois efficace, huile d'arme magique (3), Huile d'arme magique supérieure, Potion de soins léger, potion d'invisibilité, huile d'arme enflammée, 40 PO
+Cuir clouté de maître ; Arc long de force (+1) de maître en os de dragon d'airain (draconomicon), Hache d'arme de maître, 60 flèches, matériel de voyageur, [veste de chasseur](http://www.pathfinder-fr.org/Wiki/Informations.Veste%20de%20chasseur.ashx), corde en soie, Longue vue, Carquois efficace, huile d'arme magique (3), Huile d'arme magique supérieure, Potion de soins léger, potion d'invisibilité, huile d'arme enflammée, 40 PO
 </div>
 
 </td><td><div>*Alors que vous suivez sans peine les traces démesurées du géant, vous remarquez qu'un oiseau de proie observe calmement vos efforts. Soudain, sorti de nulle part, apparait un homme vêtu de frusques informes. Il tient en main un puissant arc en os.* *"Hé, Mec, fait-il en mangeant à moitié ses mots. Va trifouiller un'aut'pist'. Celle là, c'est ma mienne"*

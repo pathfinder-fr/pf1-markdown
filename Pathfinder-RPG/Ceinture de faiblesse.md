@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Ceinture de faiblesse|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 8 ; **Emplacement** [taille](./Objets merveilleux portés à la taille.md) ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Poids** 0,5 kg
 (((Description)))
-Cette ceinture a tout l’air d’un ceinturon de [ceinturon de constitution de l'ours +4](./Ceinturon de constitution de lours.md) mais en réalité, elle sape la santé de son propriétaire au lieu de la renforcer, ce qui se traduit par un malus de –4 à la [Constitution](./Constitution.md). De plus, quand son propriétaire obtient un 1 naturel à un jet de [Vigueur](./Vigueur.md), la ceinture se resserre et lui inflige 2d8 points de dégâts.
+Cette ceinture a tout l’air d’un ceinturon de [[ceinturon de constitution de lours|ceinturon de constitution de l'ours +4]] mais en réalité, elle sape la santé de son propriétaire au lieu de la renforcer, ce qui se traduit par un malus de –4 à la [[Constitution]]. De plus, quand son propriétaire obtient un 1 naturel à un jet de [[Vigueur]], la ceinture se resserre et lui inflige 2d8 points de dégâts.
 (((Objet magique prévu)))
-[ceinturon de constitution de l'ours](./Ceinturon de constitution de lours.md) (tous)
+[[ceinturon de constitution de lours|ceinturon de constitution de l'ours]] (tous)
 </div>

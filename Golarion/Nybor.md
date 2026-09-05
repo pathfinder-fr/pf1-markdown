@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Situé au sud du [lac des Braises](./Lac des Braises.md), Nybor est sous le contrôle de [Magnimar](./Magnimar.md). Sa population est essentiellement constituée de paisibles agriculteurs. Nybor est connue pour son importante population de sang-mêlé, les mariages interraciaux y sont acceptés. Ainsi, ce village est considéré comme un refuge possible pour tout les sang-mêlé vivant en [Varisie](./Varisie.md).
+Situé au sud du [[lac des Braises]], Nybor est sous le contrôle de [[Magnimar]]. Sa population est essentiellement constituée de paisibles agriculteurs. Nybor est connue pour son importante population de sang-mêlé, les mariages interraciaux y sont acceptés. Ainsi, ce village est considéré comme un refuge possible pour tout les sang-mêlé vivant en [[Varisie]].

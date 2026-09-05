@@ -9,11 +9,11 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Chaleb Sazomal|FP 3}
-{s:BDTexte|*Source : [Aides de jeu AP13#CHAMPSDERUINES|La Colère des Justes], p.44*}
+{s:BDTexte|*Source : [[Aides de jeu AP13#CHAMPSDERUINES|La Colère des Justes]], p.44*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humain](./../Pathfinder-RPG/Humain.md) (m) [Chevalier](./../Pathfinder-RPG/Chevalier.md) 4}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, CM}
-{s:BDTexte|**Init** -1 ; **Sens** [Perception](./../Pathfinder-RPG/Perception.md) +5}
+{s:BDTexte|[[Pathfinder-RPG.Humain|Humain]] (m) [[Pathfinder-RPG.Chevalier|Chevalier]] 4}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] de taille M, CM}
+{s:BDTexte|**Init** -1 ; **Sens** [[Pathfinder-RPG.Perception|Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 9, pris au dépourvu 17 (armure +7, bouclier +1,Dex -1) }
 {s:BDTexte|**pv** 34 (4d10+8)}
@@ -21,19 +21,19 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m}
 {s:BDTexte|**Corps à corps** masse d'arme lourde +1, +9 (1d8+5)}
-{s:BDTexte|**Attaques spéciales** [charge de cavalerie](./../Pathfinder-RPG/Chevalier.md#CHARGEDECAVALERIE), [défi](./../Pathfinder-RPG/défi.md) (+4 dégats, +2 , 2/jour)}
+{s:BDTexte|**Attaques spéciales** [[Pathfinder-RPG.chevalier#CHARGEDECAVALERIE|charge de cavalerie]], [[Pathfinder-RPG.défi|défi]] (+4 dégats, +2 , 2/jour)}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 18, **Dex** 8, **Con** 14, **Int** 12, **Sag** 13, **Cha** 10}
 {s:BDTexte|**BBA** +4, **BMO** +8, **DMD** 17}
-{s:BDTexte|**Dons** [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Démonstration](./../Pathfinder-RPG/Démonstration.md), [Echange de place](./../Pathfinder-RPG/Échange de place.md), [Talent](./../Pathfinder-RPG/Talent.md) (Bluff), [Volonté de fer](./../Pathfinder-RPG/Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Bluff](./../Pathfinder-RPG/Bluff.md) +10, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (folklore local) +5, [Dressage](./../Pathfinder-RPG/Dressage.md) +7, [Equitation](./../Pathfinder-RPG/Équitation.md) -1, [Intimidation](./../Pathfinder-RPG/Intimidation.md) +7, [Perception](./../Pathfinder-RPG/Perception.md) +5, [Psychologie](./../Pathfinder-RPG/Psychologie.md) +8}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]], [[Pathfinder-RPG.Démonstration|Démonstration]], [[Pathfinder-RPG.Échange de place|Echange de place]], [[Pathfinder-RPG.Talent|Talent]] (Bluff), [[Pathfinder-RPG.Volonté de fer|Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Bluff|Bluff]] +10, [[Pathfinder-RPG.Connaissances|Connaissances]] (folklore local) +5, [[Pathfinder-RPG.Dressage|Dressage]] +7, [[Pathfinder-RPG.équitation|Equitation]] -1, [[Pathfinder-RPG.Intimidation|Intimidation]] +7, [[Pathfinder-RPG.Perception|Perception]] +5, [[Pathfinder-RPG.Psychologie|Psychologie]] +8}
 {s:BDTexte|**Langues** commun, hallit}
-{s:BDTexte|**Part** [Dresseur expérimenté](./../Pathfinder-RPG/Chevalier.md#DRESSEUREXPERIMENTE) , [monture](./../Pathfinder-RPG/Monture.md) (morte), [ordre du cockatrice](./Pathfinder-RPG-Ordres-ashx.md#Ordre_du_cockatrice_6) (fafaron), [tacticien](./../Pathfinder-RPG/Chevalier.md#TACTICIEN) (1/jour, 5 rounds, action simple)}
+{s:BDTexte|**Part** [[Pathfinder-RPG.chevalier#DRESSEUREXPERIMENTE|Dresseur expérimenté]] , [[Pathfinder-RPG.monture|monture]] (morte), [[Pathfinder-RPG.Ordres.ashx#Ordre_du_cockatrice_6|ordre du cockatrice]] (fafaron), [[Pathfinder-RPG.chevalier#TACTICIEN|tacticien]] (1/jour, 5 rounds, action simple)}
 {s:BDSousTitre|Equipement de combat}
-{s:BDTexte|2 [Potions](./../Pathfinder-RPG/Potions magiques.md) de [Soins légers](./../Pathfinder-RPG/Soins légers.md) (NLS 3)}
-{s:BDTexte|[crevice](./../Pathfinder-RPG/Tableau récapitulatif des armures.md#INTERMEDIAIRES)}
-{s:BDTexte|[rondache en acier](./../Pathfinder-RPG/Tableau récapitulatif des armures.md#BOUCLIER)}
-{s:BDTexte|[masse d'arme lourde +1](./../Pathfinder-RPG/Tableau récapitulatif des armes.md#ARMESCOURANTESLEGERES)}
+{s:BDTexte|2 [[Pathfinder-RPG.Potions magiques|Potions]] de [[Pathfinder-RPG.Soins légers|Soins légers]] (NLS 3)}
+{s:BDTexte|[[Pathfinder-RPG.Tableau récapitulatif des armures#INTERMEDIAIRES|crevice]]}
+{s:BDTexte|[[Pathfinder-RPG.Tableau récapitulatif des armures#BOUCLIER|rondache en acier]]}
+{s:BDTexte|[[Pathfinder-RPG.Tableau récapitulatif des armes#ARMESCOURANTESLEGERES|masse d'arme lourde +1]]}
 {s:BDTexte|29po}
 </div>
 </td><td><div class="BD">

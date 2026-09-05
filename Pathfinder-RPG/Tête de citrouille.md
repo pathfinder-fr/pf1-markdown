@@ -10,7 +10,7 @@ LastModified: 2024-08-29 15:33
 {s:pucem|Humanoïde monstrueux|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 269*}
 - 400 PX
-- [Plante](./type Plante.md) de taille M, NM
+- [[type plante|Plante]] de taille M, NM
 - **Init **-2 ; **Sens **vision nocturne, perception des vibrations à 9 m ; Perception +7
 - **Aura **de terreur (6 m, DD 13)
 (((Défense)))
@@ -26,18 +26,18 @@ LastModified: 2024-08-29 15:33
 (((Statistiques)))
 - **For **15, **Dex **7, **Con **12, **Int **2, **Sag **14, **Cha **7
 - **BBA **+1 ; **BMO **+3 ; **DMD **11 (croc-en-jambe impossible)
-- **Dons **[Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (liane étrangleuse)
-- **Compétences **[Perception](./Perception.md) +7
+- **Dons **[[Attaque spéciale renforcée]] (liane étrangleuse)
+- **Compétences **[[Perception]] +7
 - **Particularités **forme de citrouille
 (((Écologie)))
 - **Environnement** forêts, collines ou plaines tempérées (lopins de citrouilles)
 - **Organisation** solitaire ou lopin (2-12)
 - **Trésor **aucun
 (((Pouvoirs spéciaux)))
-- **Aura de terreur (Sur)**. Une créature située à 9 mètres ou moins d’une tête de citrouille doit réussir un jet de [Volonté](./Volonté.md) DD 13 pour ne pas être [secouée](./États préjudiciables.md#secoué) pendant 2d6 minutes. Si le jet de Volonté est réussi, la créature est immunisée à l’aura de terreur de cette tête de citrouille pendant les 24 prochaines heures. C’est un effet mental de terreur basé sur la vue. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md) et bénéficie d’un bonus racial de +4.
-- **Explosion (Ext)**. Lorsque les points de vie de la tête de citrouille sont réduits à 0 ou moins, elle explose le round  suivant en une nuée de spores brûlantes. Les créatures situées à 3 mètres ou moins de cette explosion doivent réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 12 pour ne pas subir 2d6 points de dégâts de feu et être étourdies pendant un round. Un jet de sauvegarde réussi diminue de moitié les dégâts et annule l’étourdissement. Le DD du jet de sauvegarde est basé sur la Constitution.
-- **Forme de citrouille (Sur)**. La tête de citrouille peut réduire sa taille et le sinistre éclat de ses flammes pour prendre l’apparence presque parfaite d’une citrouille ordinaire. Dans ce cas, elle fait 20 à ses tests de [Discrétion](./Discrétion.md) pour prendre l’aspect d’une citrouille normale et se cacher en pleine lumière. Lorsqu’elle utilise ce pouvoir, la tête de citrouille  n’émet plus son aura de terreur. Elle peut utiliser ce pouvoir par une action complexe et y mettre fin par une action libre.
-- **Liane étrangleuse (Ext)**. Avec ses lianes, la tête de citrouille peut enchevêtrer une cible pendant 2d4 rounds (à moins que celle-ci ne réussisse un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 14) sur une attaque de coup réussie. Par une [action complexe](./Types dactions.md#COMPLEXE), la cible peut enter de se libérer des lianes avant la fin de cette durée grâce à un test de Force réussi DD 12. Lorsque la cible est enchevêtrée, la liane peut s’introduire dans sa bouche. La cible ne peut alors plus parler ou lancer de sorts à composante verbale tant qu’elle est enchevêtrée par la tête de citrouille. Lorsqu’une créature est enchevêtrée à cause de ce pouvoir, la tête de citrouille ne peut plus effectuer d’attaque de coup, mais elle peut mettre fin à ce pouvoir par une action libre. Le DD du jet de sauvegarde pour éviter l’enchevêtrement et pour s’en libérer est basé sur la Constitution.
+- **Aura de terreur (Sur)**. Une créature située à 9 mètres ou moins d’une tête de citrouille doit réussir un jet de [[Volonté]] DD 13 pour ne pas être [[états préjudiciables#secoué|secouée]] pendant 2d6 minutes. Si le jet de Volonté est réussi, la créature est immunisée à l’aura de terreur de cette tête de citrouille pendant les 24 prochaines heures. C’est un effet mental de terreur basé sur la vue. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]] et bénéficie d’un bonus racial de +4.
+- **Explosion (Ext)**. Lorsque les points de vie de la tête de citrouille sont réduits à 0 ou moins, elle explose le round  suivant en une nuée de spores brûlantes. Les créatures situées à 3 mètres ou moins de cette explosion doivent réussir un jet de [[Réflexes]] [[DD]] 12 pour ne pas subir 2d6 points de dégâts de feu et être étourdies pendant un round. Un jet de sauvegarde réussi diminue de moitié les dégâts et annule l’étourdissement. Le DD du jet de sauvegarde est basé sur la Constitution.
+- **Forme de citrouille (Sur)**. La tête de citrouille peut réduire sa taille et le sinistre éclat de ses flammes pour prendre l’apparence presque parfaite d’une citrouille ordinaire. Dans ce cas, elle fait 20 à ses tests de [[Discrétion]] pour prendre l’aspect d’une citrouille normale et se cacher en pleine lumière. Lorsqu’elle utilise ce pouvoir, la tête de citrouille  n’émet plus son aura de terreur. Elle peut utiliser ce pouvoir par une action complexe et y mettre fin par une action libre.
+- **Liane étrangleuse (Ext)**. Avec ses lianes, la tête de citrouille peut enchevêtrer une cible pendant 2d4 rounds (à moins que celle-ci ne réussisse un jet de [[Réflexes]] [[DD]] 14) sur une attaque de coup réussie. Par une [[Types dactions#COMPLEXE|action complexe]], la cible peut enter de se libérer des lianes avant la fin de cette durée grâce à un test de Force réussi DD 12. Lorsque la cible est enchevêtrée, la liane peut s’introduire dans sa bouche. La cible ne peut alors plus parler ou lancer de sorts à composante verbale tant qu’elle est enchevêtrée par la tête de citrouille. Lorsqu’une créature est enchevêtrée à cause de ce pouvoir, la tête de citrouille ne peut plus effectuer d’attaque de coup, mais elle peut mettre fin à ce pouvoir par une action libre. Le DD du jet de sauvegarde pour éviter l’enchevêtrement et pour s’en libérer est basé sur la Constitution.
 
 </div>
 </td><td><div>

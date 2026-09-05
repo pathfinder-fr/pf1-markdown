@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Férocité (capacité)
 ---
 
->>> [Férocité (capacité)](./Férocité (capacité).md)
+>>> [[Férocité (capacité)]]

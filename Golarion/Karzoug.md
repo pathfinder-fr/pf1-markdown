@@ -8,13 +8,13 @@ Categories:
 - Thassilon
 ---
 
-{s:ImageExt|http://pathfinderwiki.com/mediawiki/images/thumb/c/c9/Karzoug_portrait.jpg/375px-Karzoug_portrait.jpg|38%} {s:BlocDébut|Fiche d'identité} {s:BlocItem|Nom du personnage|Karzoug} {s:BlocItem|Alignement|NE} {s:BlocItem|Classe(s) et niveau(x)|Sorcier - Transmutation (20+)}  {s:BlocItem|Race et sexe|Azlante, Homme} {s:BlocItem|Origine|Thassilon} {s:BlocItem|Divinité|N/A} {s:BlocItem|Organisation|[Seigneurs des Runes]} {s:BlocFin}
+{s:ImageExt|http://pathfinderwiki.com/mediawiki/images/thumb/c/c9/Karzoug_portrait.jpg/375px-Karzoug_portrait.jpg|38%} {s:BlocDébut|Fiche d'identité} {s:BlocItem|Nom du personnage|Karzoug} {s:BlocItem|Alignement|NE} {s:BlocItem|Classe(s) et niveau(x)|Sorcier - Transmutation (20+)}  {s:BlocItem|Race et sexe|Azlante, Homme} {s:BlocItem|Origine|Thassilon} {s:BlocItem|Divinité|N/A} {s:BlocItem|Organisation|[[Seigneurs des Runes]]} {s:BlocFin}
 
 ### Histoire
 
-Karzoug fut le dernier Seigneur des Runes de l'Avarice. De nombreuses légendes tirées de textes historiques affirment qu'il a tué son prédeceseur Haphrama avant de règner à son tour sur le Royaume de [Thassilon|Shalast]. Il fut définitivement détruit en 4708AR par un groupe d'aventurier avant qu'il ne puisse sortir totalement de sa stase temporelle.
+Karzoug fut le dernier Seigneur des Runes de l'Avarice. De nombreuses légendes tirées de textes historiques affirment qu'il a tué son prédeceseur Haphrama avant de règner à son tour sur le Royaume de [[Thassilon|Shalast]]. Il fut définitivement détruit en 4708AR par un groupe d'aventurier avant qu'il ne puisse sortir totalement de sa stase temporelle.
 
-Son arme de prédilection, le [Glaive Incandescent de Karzoug] était une lance enflammée ornée de fragments de météores.
+Son arme de prédilection, le [[Glaive Incandescent de Karzoug]] était une lance enflammée ornée de fragments de météores.
 
 ### Héritage de Karzoug
 

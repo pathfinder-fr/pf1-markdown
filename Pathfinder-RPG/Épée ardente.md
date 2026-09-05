@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Épée ardente|{s:AE}}
-**Aura** [Évocation](./Évocation.md) puissante ; **NLS** 12 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 20 715 po ; **Poids** 2 kg
+**Aura** [[Évocation]] puissante ; **NLS** 12 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 20 715 po ; **Poids** 2 kg
 (((Description)))
-Cette arme est une épée longue +1 de *[feu intense](./feu intense (propriété).md)*. Une fois par jour, elle peut émettre un rayon brûlant visant une cible située à 9 mètres ou moins. Si le porteur réussit un [jet d’attaque`](./jet dattaque.md) de contact à distance contre la cible, celle-ci subit 4d6 points de dégâts de feu.
+Cette arme est une épée longue +1 de *[[feu intense (propriété)|feu intense]]*. Une fois par jour, elle peut émettre un rayon brûlant visant une cible située à 9 mètres ou moins. Si le porteur réussit un [[jet dattaque|jet d’attaque`]] de contact à distance contre la cible, celle-ci subit 4d6 points de dégâts de feu.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[rayon ardent](./Rayon ardent.md)*, et soit *[lame de feu](./Lame de feu.md)*, soit *[boule de feu](./Boule de feu.md)*, soit *[colonne de feu](./Colonne de feu.md)* ; **Coût** 10 515 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[rayon ardent]]*, et soit *[[lame de feu]]*, soit *[[boule de feu]]*, soit *[[colonne de feu]]* ; **Coût** 10 515 po
 </div>

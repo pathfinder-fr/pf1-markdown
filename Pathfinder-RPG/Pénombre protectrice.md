@@ -15,19 +15,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[obscurité](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2, [Spi](./Spirite.md) 2  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|obscurité]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui
 
 Ce sort enveloppe légèrement la cible d’ombre. Si elle est vulnérable ou sensible à la lumière ou à la lumière du soleil
-(comme les [vampires](./Vampire.md) et les [spectres](./Spectre.md)), elle ignore les malus associés. Le sort donne à la cible un bonus de +2 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les dangers non magiques liés à une lumière vive comme l’éblouissement ou les coups de soleil.
+(comme les [[vampire|vampires]] et les [[spectre|spectres]]), elle ignore les malus associés. Le sort donne à la cible un bonus de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les dangers non magiques liés à une lumière vive comme l’éblouissement ou les coups de soleil.

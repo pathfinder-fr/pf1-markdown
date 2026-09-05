@@ -4,8 +4,8 @@ Title: Les psychopompes
 LastModified: 2011-04-21 22:13
 ---
 
-<p class="description">Traduction d'un article de James Jacobs paru sur le [site de Paizo](http://paizo.com/paizo/blog/v5748dyo5lc41) — retour à la rubrique [Un jour sur Golarion](./JourGolarion.md).</p>
-Le Bestiaire II présente une nouvelle race d'Extérieurs d'alignement neutre, les aéons. Mais une seule race ne nous suffisait pas, surtout parce que les aéons n'étaient pas vraiment liés à l'Ossuaire, le plan Extérieur de la neutralité sur Golarion. L'article dédié à [Pharasma](./Pharasma.md) présenté dans le second volume de Carrion Crown (AP #44) a introduit une seconde race d'Extérieurs neutres, des Extérieurs qui servent Pharasma et habitent l'Ossuaire, les psychopompes.
+<p class="description">Traduction d'un article de James Jacobs paru sur le [site de Paizo](http://paizo.com/paizo/blog/v5748dyo5lc41) — retour à la rubrique [[JourGolarion|Un jour sur Golarion]].</p>
+Le Bestiaire II présente une nouvelle race d'Extérieurs d'alignement neutre, les aéons. Mais une seule race ne nous suffisait pas, surtout parce que les aéons n'étaient pas vraiment liés à l'Ossuaire, le plan Extérieur de la neutralité sur Golarion. L'article dédié à [[Pharasma]] présenté dans le second volume de Carrion Crown (AP #44) a introduit une seconde race d'Extérieurs neutres, des Extérieurs qui servent Pharasma et habitent l'Ossuaire, les psychopompes.
 
 Deux psychopompes seront décrits en détail dans l'AP #47 (leurs illustrations se trouvent ci-dessous) : le terrible vanth squelettique et le beau petit nosoi doté de quatre ailes. Nous présenterons d'autres psychopompes dans le futur mais je suis très satisfait de ce que nous avons pour l'instant. À un point tel que ça ne me dérangerait pas d'avoir un nosoi comme animal domestique. Ces petites bestioles sont si mignonnes !
 

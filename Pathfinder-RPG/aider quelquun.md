@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions spéciales#AIDERQQN
 ---
 
->>> [Actions spéciales#AIDERQQN](./Actions spéciales.md#AIDERQQN)
+>>> [[Actions spéciales#AIDERQQN]]

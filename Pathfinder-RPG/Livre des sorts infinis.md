@@ -6,9 +6,9 @@ LastModified: 2024-06-17 18:27
 
 <div class="BD">
 {s:BDTitre|Livre des sorts infinis|{s:AE}}
-**Aura** toutes les écoles, puissantes ; **NLS** 18 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 1,5 kg
+**Aura** toutes les écoles, puissantes ; **NLS** 18 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** [[Artefacts|artefact]] ; **Poids** 1,5 kg
 (((Description)))
-Cet ouvrage permet à son propriétaire, quelle que soit sa classe, de lancer les sorts qui y sont inscrits. Si le personnage n'est pas déjà capable de lancer des sorts, il reçoit un [niveau négatif](./niveau négatif.md) tant qu’il a le livre en sa possession ou qu’il utilise ses pouvoirs. Un *livre des sorts infinis* se compose de 1d8+22 pages. On détermine la nature du sort inscrit sur chacune avec un jet de d100 : sort profane de 01 à 50, sort divin de 51 à 100. Déterminez ensuite le sort exact au hasard.
+Cet ouvrage permet à son propriétaire, quelle que soit sa classe, de lancer les sorts qui y sont inscrits. Si le personnage n'est pas déjà capable de lancer des sorts, il reçoit un [[niveau négatif]] tant qu’il a le livre en sa possession ou qu’il utilise ses pouvoirs. Un *livre des sorts infinis* se compose de 1d8+22 pages. On détermine la nature du sort inscrit sur chacune avec un jet de d100 : sort profane de 01 à 50, sort divin de 51 à 100. Déterminez ensuite le sort exact au hasard.
 Une fois que le propriétaire a tourné une page, il ne peut plus revenir en arrière, la lecture du livre est un voyage sans retour. Si on ferme le livre, il se rouvre toujours à la page où il se trouvait avant de se fermer. Il disparaît quand on tourne la dernière page.
 
 Une fois par jour, le propriétaire du livre peut lancer le sort qui se trouve à la page ouverte. Si ce sort se trouve sur sa liste de sorts de classe, il peut le lancer quatre fois par jour. On ne peut pas arracher une page sans détruire le livre. On ne peut pas non plus lancer les sorts comme s’ils se trouvaient sur un parchemin ni les recopier dans un grimoire, leur magie est définitivement liée au livre.
@@ -30,7 +30,7 @@ Le propriétaire du livre n’a pas besoin de l’avoir en sa possession pour ut
 | Le propriétaire n’est pas un lanceur de sorts et emploie un sort profane || 30%
 |}
 
-Quand il s’agit de déterminer la durée d’incantation, les risques d’échec du sort etc., faites comme si le personnage le lançait à partir d’un [parchemin](./Parchemins magiques.md).
+Quand il s’agit de déterminer la durée d’incantation, les risques d’échec du sort etc., faites comme si le personnage le lançait à partir d’un [[parchemins magiques|parchemin]].
 (((Destruction)))
 On peut détruire le *livre de sorts infinis* quand la page ouverte affiche le sort effacement en le lançant sur lui.
 </div>

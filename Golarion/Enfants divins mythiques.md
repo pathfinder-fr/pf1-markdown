@@ -4,7 +4,7 @@ Title: Les enfants divins mythiques
 LastModified: 2021-02-01 19:37
 ---
 
-<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:CMy}***Voir les [détails techniques](./../Pathfinder-RPG/Aptitudes de la voie des enfants divins mythiques.md) des aptitudes offertes par chaque divinité.***
+<div style="float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:CMy}***Voir les [[Pathfinder-RPG.Aptitudes de la voie des enfants divins mythiques|détails techniques]] des aptitudes offertes par chaque divinité.***
 
 Là où la section de règles mythiques classique traite des personnages mythiques gagnant leur pouvoir parce qu’ils descendent directement des dieux, ce volume en développe l’idée en présentant des règles optionnelles pour les enfants divins. Même si le pouvoir mythique que gagne le fils ou la fille d’un dieu est comparable au pouvoir que l’on gagne par d’autres moyens que l’ascension, les enfants divins sont des êtres uniques en cela qu’ils sont étroitement liés aux dieux auxquels ils sont apparentés. La plupart des enfants divins finissent par apprécier leur héritage divin et deviennent les fiers rejetons de leurs parents divins mais il en est certains qui méprisent la source de ce pouvoir qu’ils n’ont pas demandé et atteignent des sommets de puissance épique dans l’espoir de vaincre, un jour, leurs géniteurs immortels. En fonction de l’individu et du dieu, l’enfant divin sera en contact constant avec le divin ou sera complètement tenu à l’écart des motivations de ses parents. La plupart de ces enfants évoluent à mi-chemin entre ces deux extrêmes, ne recevant qu’occasionnellement des conseils énigmatiques des êtres qui leur ont accordé leur pouvoir mythique.
 

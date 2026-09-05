@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#BONUS
 ---
 
->>> [Vocabulaire courant#BONUS](./Vocabulaire courant.md#BONUS)
+>>> [[Vocabulaire courant#BONUS]]

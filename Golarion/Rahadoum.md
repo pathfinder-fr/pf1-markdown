@@ -7,38 +7,38 @@ Categories:
 - Rahadoum
 ---
 
-{s:Nation|Rahadoum|%2fPCUP%2fNation-PNG%2fRahadoum.png|le Royaume de l'Homme|LN|Conseil des Anciens, dirigé par le Gardien de la Première Loi|Malduoni, Gardien de la Première Loi|[Azir](./Azir.md) (72 370)|[Botosani](./Botosani.md) (23 450), [Manaket](./Manaket.md) (26 780)|Oasis Eternelle|Humains|commun, osirionais|Aucune}
-*Qu'aucun homme ne soit redevable d'un dieu*, telle est la Première Loi du Rahadoum. Suite aux guerres que se sont livrés les suivants de [Sarenrae](./Sarenrae.md), de [Néthys](./Néthys.md) et de [Norgorber](./Norgorber.md), la seule religion en laquelle le Rahadoum croit, c'est l'Homme.
+{s:Nation|Rahadoum|%2fPCUP%2fNation-PNG%2fRahadoum.png|le Royaume de l'Homme|LN|Conseil des Anciens, dirigé par le Gardien de la Première Loi|Malduoni, Gardien de la Première Loi|[[Azir]] (72 370)|[[Botosani]] (23 450), [[Manaket]] (26 780)|Oasis Eternelle|Humains|commun, osirionais|Aucune}
+*Qu'aucun homme ne soit redevable d'un dieu*, telle est la Première Loi du Rahadoum. Suite aux guerres que se sont livrés les suivants de [[Sarenrae]], de [[Néthys]] et de [[Norgorber]], la seule religion en laquelle le Rahadoum croit, c'est l'Homme.
 
 ### Géographie du Rahadoum
-Le Rahadoum est situé à la pointe nord-ouest du [Garund](./Garund.md), ses côtes donnant à la fois sur l'[océan Arcadien](./océan Arcadien.md) et sur la [mer Intérieure](./mer Intérieure.md). Ses voisins immédiats sont la [Thuvie](./Thuvie.md), l'Etendue [Mwangi](./Mwangi.md) et les [Terres Humides](./Terres humides.md). Il est à noter aussi qu'il existe une frontière terrestre entre le Rahadoum et le [Chéliax](./Chéliax.md) puisque la zône située au sud de l'Arche d'[Aroden](./Aroden.md) appartient encore au [Chéliax](./Chéliax.md).
+Le Rahadoum est situé à la pointe nord-ouest du [[Garund]], ses côtes donnant à la fois sur l'[[océan Arcadien]] et sur la [[mer Intérieure]]. Ses voisins immédiats sont la [[Thuvie]], l'Etendue [[Mwangi]] et les [[Terres Humides]]. Il est à noter aussi qu'il existe une frontière terrestre entre le Rahadoum et le [[Chéliax]] puisque la zône située au sud de l'Arche d'[[Aroden]] appartient encore au [[Chéliax]].
 
 Le Rahadoum est un pays très sec n'ayant que très peu de zones agricoles. S'il est possible de trouver des champs à proximité des côtes, le centre du pays est un désert rocailleux. Néanmoins, il subsiste encore au sud des Monts Napsune les restes de l'ancienne forêt qui existait avant l'arrivée du désert. Les Rahadoumais appellent cette zone l'Oasis Eternelle.
 
-L'oasis est située entre l'extrémité ouest de la chaîne de la [Barrière](./Barrière.md) et les Monts Napsune, fermant ainsi le triangle qui forme la vallée du principal fleuve du pays, la Sinueuse.
+L'oasis est située entre l'extrémité ouest de la chaîne de la [[Barrière]] et les Monts Napsune, fermant ainsi le triangle qui forme la vallée du principal fleuve du pays, la Sinueuse.
 
 ### Histoire du Rahadoum
-Il y a plus de deux mille ans eut lieu une guerre civile sur les terres du Rahadoum. Durant plus de soixante années, les Guerres du Serment opposèrent les suivants des trois dieux les plus influents de la région : [Sarenrae](./Sarenrae.md), [Néthys](./Néthys.md) et [Norgorber](./Norgorber.md). En 2555, la milice d'[Azir](./Azir.md), lasse de cette guerre fratricide, dirigée par le philosophe Kalim Onaku, brûle les temples et expulse les suivants de toutes les religions de la capitale. Cet évènement marque la fin de la guerre civile.
+Il y a plus de deux mille ans eut lieu une guerre civile sur les terres du Rahadoum. Durant plus de soixante années, les Guerres du Serment opposèrent les suivants des trois dieux les plus influents de la région : [[Sarenrae]], [[Néthys]] et [[Norgorber]]. En 2555, la milice d'[[Azir]], lasse de cette guerre fratricide, dirigée par le philosophe Kalim Onaku, brûle les temples et expulse les suivants de toutes les religions de la capitale. Cet évènement marque la fin de la guerre civile.
 
 Pour asseoir son pouvoir et s'assurer qu'aucune autorité divine ne prendra le pas sur lui, Kalim Onaku promulgue un ensemble de lois qui devront être suivies par les habitants du Rahadoum. La première d'entre elles est le bannissement de la religion sur tout le territoire et est exprimée en ces termes : *Qu'aucun homme ne soit redevable d'un dieu*.
 
 Depuis cette époque, aucune divinité n'a jamais réussi à prendre pied sur le territoire et le pays s'est développé dans ce sens.
 
 ### Le Rahadoum et ses voisins
-Le Rahadoum n'étant pas le moins du monde versé dans la croyance divine, les relations du pays avec ses proches voisins sont parfois conflictuelles, surtout avec la [Thuvie](./Thuvie.md) où la déesse [Sarenrae](./Sarenrae.md) occupe une place très importante ainsi qu'avec les [Terres Humides](./Terres humides.md), où la chute d'[Aroden](./Aroden.md) a fait disparaître le Lirgen. Les dirigeants du Rahadoum rappellent quotidiennement aux habitants le bien fondé de la Première Loi en se basant sur les exemples de ces deux pays, attisant l'inimitié de la population rahadoumaise à l'égard de ces deux voisins.
+Le Rahadoum n'étant pas le moins du monde versé dans la croyance divine, les relations du pays avec ses proches voisins sont parfois conflictuelles, surtout avec la [[Thuvie]] où la déesse [[Sarenrae]] occupe une place très importante ainsi qu'avec les [[Terres Humides]], où la chute d'[[Aroden]] a fait disparaître le Lirgen. Les dirigeants du Rahadoum rappellent quotidiennement aux habitants le bien fondé de la Première Loi en se basant sur les exemples de ces deux pays, attisant l'inimitié de la population rahadoumaise à l'égard de ces deux voisins.
 
 Néanmoins, le pragmatisme de certains dirigeants étrangers prend le pas sur les croyances populaires. Ainsi, si les Osirionais voient d'un très mauvais oeil l'athéisme des Rahadoumais, le Prince Rubis Khemet III entretient de très bon rapports avec Malduoni, dirigeant du Rahadoum, et tire profit des échanges commerciaux instaurés entre les deux pays.
 
-Les autres pays du [Garund](./Garund.md) n'ont aucun intérêt aux yeux des Rahadoumais, soit parce qu'ils sont trop éloignés, soit parce qu'il n'ont pas le poids économique suffisant pour établir des liens solides. Le [Mwangi](./Mwangi.md), par exemple, a ses centres économiques trop éloignés d'[Azir](./Azir.md) pour avoir une quelconque influence économique. Et ce bien que certaines tribus nomades situées à proximité de la frontière la traversent régulièrement pour vendre leurs produits sur les marchés du pays.
+Les autres pays du [[Garund]] n'ont aucun intérêt aux yeux des Rahadoumais, soit parce qu'ils sont trop éloignés, soit parce qu'il n'ont pas le poids économique suffisant pour établir des liens solides. Le [[Mwangi]], par exemple, a ses centres économiques trop éloignés d'[[Azir]] pour avoir une quelconque influence économique. Et ce bien que certaines tribus nomades situées à proximité de la frontière la traversent régulièrement pour vendre leurs produits sur les marchés du pays.
 
-Le principal frein à l'expansion économique du Rahadoum est représenté par la forte présence de pirates venus des [Entraves](./Entraves.md) dans les eaux situées au large d'[Azir](./Azir.md). Les navires marchands qui se rendent au port de la capitale sont régulièrement abordés et pillés, voire coulés par le fond.
+Le principal frein à l'expansion économique du Rahadoum est représenté par la forte présence de pirates venus des [[Entraves]] dans les eaux situées au large d'[[Azir]]. Les navires marchands qui se rendent au port de la capitale sont régulièrement abordés et pillés, voire coulés par le fond.
 
-On pourrait ajouter que le Rahadoum tient une haine féroce envers le [Chéliax](./Chéliax.md). Non seulement en raison de son culte diabolique, mais aussi en raison de la bande de terre qu'il conserve dans le nord du Rahadoum.
+On pourrait ajouter que le Rahadoum tient une haine féroce envers le [[Chéliax]]. Non seulement en raison de son culte diabolique, mais aussi en raison de la bande de terre qu'il conserve dans le nord du Rahadoum.
 
 ### Vivre sans religion
-Dans le but de protéger le pays de toute influence des dieux, le gouvernement rahadoumais a mis en place à [Azir](./Azir.md) une police, la Légion des Pures, chargée de traquer tout signe divin. Toute personne prise portant sur elle le moindre objet à connotation religieuse se verra donner une forte amende et encourra le risque de se voir expulser manu militari du pays.
+Dans le but de protéger le pays de toute influence des dieux, le gouvernement rahadoumais a mis en place à [[Azir]] une police, la Légion des Pures, chargée de traquer tout signe divin. Toute personne prise portant sur elle le moindre objet à connotation religieuse se verra donner une forte amende et encourra le risque de se voir expulser manu militari du pays.
 
-Mais malgré les interdictions et les risques, de nombreuses églises clandestines se sont développées, surtout à proximité de la frontière avec la [Thuvie](./Thuvie.md). En effet, comme la nature, la religion a horreur du vide et les dieux voient dans les terres du Rahadoum un terreau fertile à la propagation de leur foi. De même, le pays ne pouvant se passer du commerce, le gouvernement ferme parfois les yeux pour les marchands les plus influents qui font d'[Azir](./Azir.md) l'un des plus grands centres commerciaux de cette région du [Garund](./Garund.md).
+Mais malgré les interdictions et les risques, de nombreuses églises clandestines se sont développées, surtout à proximité de la frontière avec la [[Thuvie]]. En effet, comme la nature, la religion a horreur du vide et les dieux voient dans les terres du Rahadoum un terreau fertile à la propagation de leur foi. De même, le pays ne pouvant se passer du commerce, le gouvernement ferme parfois les yeux pour les marchands les plus influents qui font d'[[Azir]] l'un des plus grands centres commerciaux de cette région du [[Garund]].
 
 De plus, le territoire étant pratiquement vierge d'influence, il est maintenant neutre aux yeux des dieux qui y envoient leurs émissaires extérieurs pour négocier. Ces discussions, parfois houleuses, provoquent régulièrement des phénomènes visibles qui semblent sans explication rationnelle.
 
@@ -51,8 +51,8 @@ La direction des affaires du pays est confiée au Gardien de la Première Loi. C
 
 Les lois en vigueur au Rahadoum n'ayant pas été inspirées par une quelconque croyance, le gouvernement peut paraître très libéral aux yeux des étrangers. Les citoyens sont très fortement impliqués dans la vie politique du pays et il n'est pas rare que les discours des dirigeants soient commentés publiquement. De plus, les dirigeants ont toujours prônés l'auto-discipline comme arme contre la délinquance. Les barrières entre le droit et le non-droit étant traditionnellement fixées par la morale de chacun et la tradition familiale.
 
-Pour finir, on donnera quelques informations à l'usage des visiteurs, notamment issus du [Qadira](./Qadira.md) ou du [Katapesh](./Katapesh.md). L'esclavagisme est toujours en vigueur dans le pays, malgré ses idées philosophiques poussées. De plus, il est intéressant de noter que si les drogues douces sont officiellement interdites, et que les personnes atteintes d'addiction sont souvent refoulées à la frontière, leur consommation est tolérée dans le cadre privé.
+Pour finir, on donnera quelques informations à l'usage des visiteurs, notamment issus du [[Qadira]] ou du [[Katapesh]]. L'esclavagisme est toujours en vigueur dans le pays, malgré ses idées philosophiques poussées. De plus, il est intéressant de noter que si les drogues douces sont officiellement interdites, et que les personnes atteintes d'addiction sont souvent refoulées à la frontière, leur consommation est tolérée dans le cadre privé.
 
 {s:VoirAussiAvant}Vous pourrez trouver plus d'informations à propos du Rahadoum dans le supplément
-{s:VoirAussiElem|[Pathfinder Chronicle: Campaign Setting](./Publications.md#CAMPAIGNSETTING).}
+{s:VoirAussiElem|[[Golarion.Publications#CAMPAIGNSETTING|Pathfinder Chronicle: Campaign Setting]].}
 {s:VoirAussiAprès}

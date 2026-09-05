@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Exploration#POINTDERESISTANCE
 ---
 
->>> [Exploration#POINTDERESISTANCE](./Exploration.md#POINTDERESISTANCE)
+>>> [[Exploration#POINTDERESISTANCE]]

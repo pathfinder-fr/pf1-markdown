@@ -6,7 +6,7 @@ Categories:
 - Logiciel
 ---
 
-[Herolab](./^http://www-wolflair-com/index-php?context=hero_lab.md) est un logiciel édité par la société Wolflair et spécialisé dans la gestion de feuilles de personnages. Le système est architecturé autour d'un moteur générique auquel on ajoute des rulesets en fonction du JdR utilisé. Il est ainsi possible de se servir du même programme pour suivre des personnages à Chtulhu, DD4 et, bien entendu Pathfinder.
+[Herolab](http://www.wolflair.com/index.php?context=hero_lab) est un logiciel édité par la société Wolflair et spécialisé dans la gestion de feuilles de personnages. Le système est architecturé autour d'un moteur générique auquel on ajoute des rulesets en fonction du JdR utilisé. Il est ainsi possible de se servir du même programme pour suivre des personnages à Chtulhu, DD4 et, bien entendu Pathfinder.
 
 A noter que Herolab a été choisi l'an dernier par Paizo pour être le gestionnaire officiel de PF-RPG, ce qui permet à Wolflair de proposer des updates rapides à chaque sortie de nouveauté.
 
@@ -15,7 +15,7 @@ A noter que Herolab a été choisi l'an dernier par Paizo pour être le gestionn
 Herolab est structuré autour d'un système d'onglets qui permettent d'accéder à tous les paramètres d'un personnage.
 
 
-[imageleft||{UP}/tutogimp/pth_classes.png]
+<img src="{UP}/tutogimp/pth_classes.png" class="imageleft" alt="">
 
 
 Tout est évidemment pris en compte et la feuille est dynamique : les caractéristiques agissent sur les compétences, la totalité des dons est disponible en base de donnée de même que les sorts, armes, objets magique et l'intégralité du matériel publié à ce jour (CRB, APG, AP, modules, PFS...)

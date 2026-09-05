@@ -7,24 +7,24 @@ Categories:
 - Royaumes Fluviaux
 ---
 
-{s:Nation|Les Royaumes Fluviaux|%2fPCUP%2fNation-PNG%2fRiverKingdoms.png|Les Royaumes Indépendants|CN|diffèrent pour chaque royaume|Divers seigneurs de guerre, mégalomanes, princes bandits, aventuriers à la retraite et princes exilés|aucune|[Dague](./Dague.md) (27 460), [Gralton](./Gralton.md) (9 200), [Mivon](./Mivon.md) (10 870), [Pitax](./Pitax.md) (8790), [Sept-Arches](./Sept-Arches.md) (4 340)|très nombreux éparpillés dans les royaumes|essentiellement humains, toutes les races sont représentées|Commun, Hallit| [Calistria](./Calistria.md), [Cayden Cailéan](./Cayden Cailéan.md), [Érastil](./Érastil.md), [Norgorber](./Norgorber.md), [Desna](./Desna.md), [Gorum](./Gorum.md), [Lamashtu](./Lamashtu.md) }
-Les Royaumes Fluviaux du nord-est de l'[Avistan](./Avistan.md) ont longtemps été un paradis pour les pirates, les anarchistes, les exilés et tous ceux qui ne se sentaient pas à l'aise dans des pays plus civilisés. Les Royaumes Fluviaux ne sont pas une nation unifiée, mais plutôt un groupe changeant de cités-états et de fiefs en guerre constante les uns avec les autres. Ces conflits incessants ont pour but de s'approprier plus de pouvoir et de prévenir leur propre disparition.
+{s:Nation|Les Royaumes Fluviaux|%2fPCUP%2fNation-PNG%2fRiverKingdoms.png|Les Royaumes Indépendants|CN|diffèrent pour chaque royaume|Divers seigneurs de guerre, mégalomanes, princes bandits, aventuriers à la retraite et princes exilés|aucune|[[Dague]] (27 460), [[Gralton]] (9 200), [[Mivon]] (10 870), [[Pitax]] (8790), [[Sept-Arches]] (4 340)|très nombreux éparpillés dans les royaumes|essentiellement humains, toutes les races sont représentées|Commun, Hallit| [[Calistria]], [[Cayden Cailéan]], [[Érastil]], [[Norgorber]], [[Desna]], [[Gorum]], [[Lamashtu]] }
+Les Royaumes Fluviaux du nord-est de l'[[Avistan]] ont longtemps été un paradis pour les pirates, les anarchistes, les exilés et tous ceux qui ne se sentaient pas à l'aise dans des pays plus civilisés. Les Royaumes Fluviaux ne sont pas une nation unifiée, mais plutôt un groupe changeant de cités-états et de fiefs en guerre constante les uns avec les autres. Ces conflits incessants ont pour but de s'approprier plus de pouvoir et de prévenir leur propre disparition.
 
 ### La géographie des Royaumes Fluviaux
 #### La situation Géographique
-Les Royaumes Fluviaux sont situés dans les marais formés par le haut cours du bassin du [Sellen](./Sellen.md), à l'endroit où ses trois branches se rejoignent avant de continuer sa route vers le sud et la [mer intérieure](./mer Intérieure.md).
+Les Royaumes Fluviaux sont situés dans les marais formés par le haut cours du bassin du [[Sellen]], à l'endroit où ses trois branches se rejoignent avant de continuer sa route vers le sud et la [[mer intérieure]].
 
-Les Royaumes Fluviaux sont entourés par la [Numérie](./Numérie.md) et le [Brévoy](./Brévoy.md) au nord, le [Galt](./Galt.md) et le [Kyonin](./Kyonin.md) au sud et le [Razmiran](./Razmiran.md) et l'[Ustalav](./Ustalav.md) à l'ouest.
+Les Royaumes Fluviaux sont entourés par la [[Numérie]] et le [[Brévoy]] au nord, le [[Galt]] et le [[Kyonin]] au sud et le [[Razmiran]] et l'[[Ustalav]] à l'ouest.
 
-Il y a peu de routes qui traversent les terres. La toile formée par les différents cours du [Sellen](./Sellen.md) et de ses affluents sert pratiquement à elle seule de voie de communication principale pour les échanges commerciaux entre les différentes régions qui composent les Royaumes Fluviaux et vers le reste du monde.
+Il y a peu de routes qui traversent les terres. La toile formée par les différents cours du [[Sellen]] et de ses affluents sert pratiquement à elle seule de voie de communication principale pour les échanges commerciaux entre les différentes régions qui composent les Royaumes Fluviaux et vers le reste du monde.
 
 
 #### Villes et royaumes des Royaumes Fluviaux
 Les Royaumes Fluviaux sont composés de villes franches et de royaumes.
 
-Les villes franches sont des cités indépendantes qui sont suffisamment importantes pour ne pas dépendre d'un royaume. Elles sont au nombre de cinq : [Artume](./Artume.md), [Liberthane](./Liberthane.md), [Hors-Mer](./Outsea.md) (Outsea), [Riverton](./Riverton.md) et [Uringen](./Uringen.md)
+Les villes franches sont des cités indépendantes qui sont suffisamment importantes pour ne pas dépendre d'un royaume. Elles sont au nombre de cinq : [[Artume]], [[Liberthane]], [[Outsea|Hors-Mer]] (Outsea), [[Riverton]] et [[Uringen]]
 
-Les royaumes quant à eux sont au nombre de 13 : le [Cordelon](./Cordelon.md), [Dague](./Dague.md), [Gralton](./Gralton.md), l'[Hymbria](./Hymbria.md), le [Lambreth](./Lambreth.md), les [Chutes Loric](./Chutes Loric.md), [Mivon](./Mivon.md), [Pitax](./Pitax.md), le [Protectorat du Marquis Noir](./Protectorat du Marquis Noir.md), [Sept-Arches](./Sept-Arches.md), les [Terres Dérobées](./Terres Dérobées.md), le [Touvette](./Touvette.md) et le [Tymon](./Tymon.md).
+Les royaumes quant à eux sont au nombre de 13 : le [[Cordelon]], [[Dague]], [[Gralton]], l'[[Hymbria]], le [[Lambreth]], les [[Chutes Loric]], [[Mivon]], [[Pitax]], le [[Protectorat du Marquis Noir]], [[Sept-Arches]], les [[Terres Dérobées]], le [[Touvette]] et le [[Tymon]].
 
 Il y a aussi d'autres sites d'intérêt disséminés sur tout le territoire. Parmi les plus importants on citera :
 - les ruines d<nowiki>'</nowiki>**Heibarr**
@@ -37,14 +37,14 @@ Il y a aussi d'autres sites d'intérêt disséminés sur tout le territoire. Par
 
 
 ### L'histoire des Royaumes Fluviaux
-Dans les temps anciens, le territoire actuellement occupé par la majeure partie des Royaumes Fluviaux servait de réserve de chasse aux elfes du [Kyonin](./Kyonin.md), connue sous le nom de Telvurin.
+Dans les temps anciens, le territoire actuellement occupé par la majeure partie des Royaumes Fluviaux servait de réserve de chasse aux elfes du [[Kyonin]], connue sous le nom de Telvurin.
 
-Le nombre de combats, de conquêtes, de destructions et de décès est tel qu'ils sont impossibles à consigner dans un livre. Avec autant d'évènements se répétant inlassablement, peu de personnes ont essayé de conserver les allées et venues des petits tyrans et de leurs royaumes. Les seuls évènements notables des Royaumes Fluviaux ayant eu un effet sur le monde extérieur étaient lorsque l'un de ces royaumes grandissait suffisamment pour être considéré comme une nation à part entière. Seuls deux d'entre eux y sont parvenus : la [Numérie](./Numérie.md) et le [Razmiran](./Razmiran.md).
+Le nombre de combats, de conquêtes, de destructions et de décès est tel qu'ils sont impossibles à consigner dans un livre. Avec autant d'évènements se répétant inlassablement, peu de personnes ont essayé de conserver les allées et venues des petits tyrans et de leurs royaumes. Les seuls évènements notables des Royaumes Fluviaux ayant eu un effet sur le monde extérieur étaient lorsque l'un de ces royaumes grandissait suffisamment pour être considéré comme une nation à part entière. Seuls deux d'entre eux y sont parvenus : la [[Numérie]] et le [[Razmiran]].
 
 
 ### Le gouvernement des Royaumes Fluviaux
 #### La politique intérieure
-Il n'existe pas de gouvernement central dans les Royaumes Fluviaux, excepté une sorte d'assemblée des cités-états, appelée Conseil Illégal, qui se réunit annuellement à [Dague](./Dague.md). Le nombre de royaumes qui forment cette assemblée varie au rythme des disparitions, des conquêtes et des formations de nouveaux royaumes. Au delà du Conseil Illégal, chaque cité-état est dirigée par son propre conseil ou despote, et les conflits entre les nations font du Conseil Illégal rien de moins qu'une formalité.
+Il n'existe pas de gouvernement central dans les Royaumes Fluviaux, excepté une sorte d'assemblée des cités-états, appelée Conseil Illégal, qui se réunit annuellement à [[Dague]]. Le nombre de royaumes qui forment cette assemblée varie au rythme des disparitions, des conquêtes et des formations de nouveaux royaumes. Au delà du Conseil Illégal, chaque cité-état est dirigée par son propre conseil ou despote, et les conflits entre les nations font du Conseil Illégal rien de moins qu'une formalité.
 
 Les guerres civiles sont une autre menace à la formation d'un gouvernement stable, l'assassinat et les menaces étant de simples modes de vie dans ces royaumes tumultueux. La plus sournoise de ces guerres civiles eut lieu lorsque de puissants seigneurs grassement payés pour intervenir dans des conflits lointains revinrent dans leur patrie pour les voir aux mains de quelqu'un d'autre.
 

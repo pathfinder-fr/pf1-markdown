@@ -16,27 +16,27 @@ Description...
 **Arme de prédilection.** bâton.
 
 
-**Domaines.** [Connaissance](./Domaine de la Connaissance.md), [Eau](./Domaine de lEau.md), [Mal](./Domaine du Mal.md), [Mort](./Domaine de la Mort.md).
+**Domaines.** [[Domaine de la connaissance|Connaissance]], [[Domaine de lEau|Eau]], [[Domaine du Mal|Mal]], [[Domaine de la mort|Mort]].
 **Sous-domaines.** .
 
 
-**Obédience.** Méditez sur vos infirmités et la lente et inévitable progression de la déchéance physique et mentale inhérente aux ravages du temps. Imitez cette progression en vous immergeant, vous ou une victime, dans de l'eau glacée jusqu'à ce que vous soyez presque inconscient, ou en consommant de l'alcool ou des drogues qui affaiblissent la mémoire et les facultés mentales. Octroie un bonus de malfaisance de +4 aux [jets de sauvegarde](./JDS.md) contre les effets de la nécromancie et de l'énergie négative.
+**Obédience.** Méditez sur vos infirmités et la lente et inévitable progression de la déchéance physique et mentale inhérente aux ravages du temps. Imitez cette progression en vous immergeant, vous ou une victime, dans de l'eau glacée jusqu'à ce que vous soyez presque inconscient, ou en consommant de l'alcool ou des drogues qui affaiblissent la mémoire et les facultés mentales. Octroie un bonus de malfaisance de +4 aux [[jds|jets de sauvegarde]] contre les effets de la nécromancie et de l'énergie négative.
 
 </td><td width="2%">
 </td><td width="49%">
-#### Faveurs ([Obédience fiélonne](./Obédience fiélonne.md))
+#### Faveurs ([[Obédience fiélonne]])
 **Évangéliste :**
-: **1.** *** Bénédiction de la mort (Mag).*** *[Trou de mémoire](./Trou de mémoire.md)* 3/jour, *[Catatonie](./Catatonie.md)* 2/jour, ou *[Création de gemme spirituelle](./Création de gemme spirituelle.md)* 1/jour.
-: **2.** *** Broyage d'âme (Sur).*** Par une action simple, vous pouvez écraser une gemme d'âme (comme celle que vous créez avec [Création de gemme spirituelle](./Création de gemme spirituelle.md) ou celle créée par un [cacodaémon](./Cacodaémon.md)) pour obtenir une [guérison accélérée](./guérison accélérée.md) de 15 pendant un nombre de rounds égal à vos DV. Cette action condamne l'âme écrasée à Abaddon ; pour ressusciter cette victime, il faut réussir un test de niveau de lanceur de sorts DD 28.
-: **3.** *** L'emprise de la mort (Mag).*** Vous pouvez utiliser *[Capture d'âme](./Capture dâme.md)* comme pouvoir magique une fois par jour.
+: **1.** *** Bénédiction de la mort (Mag).*** *[[Trou de mémoire]]* 3/jour, *[[Catatonie]]* 2/jour, ou *[[Création de gemme spirituelle]]* 1/jour.
+: **2.** *** Broyage d'âme (Sur).*** Par une action simple, vous pouvez écraser une gemme d'âme (comme celle que vous créez avec [[Création de gemme spirituelle]] ou celle créée par un [[cacodaémon]]) pour obtenir une [[guérison accélérée]] de 15 pendant un nombre de rounds égal à vos DV. Cette action condamne l'âme écrasée à Abaddon ; pour ressusciter cette victime, il faut réussir un test de niveau de lanceur de sorts DD 28.
+: **3.** *** L'emprise de la mort (Mag).*** Vous pouvez utiliser *[[Capture dâme|Capture d'âme]]* comme pouvoir magique une fois par jour.
 
 **Exalté :**
-: **1.** *** Grâce de la mort (Mag).*** *[Rayon affaiblissant](./Rayon affaiblissant.md)* 3/jour, *[mise à mort](./Mise à mort.md)* 2/jour, ou *[Sables du temps](./Sables du temps.md)* 1/jour.
+: **1.** *** Grâce de la mort (Mag).*** *[[Rayon affaiblissant]]* 3/jour, *[[mise à mort]]* 2/jour, ou *[[Sables du temps]]* 1/jour.
 : **2.** *** La faim du Styx (Sur).*** En canalisant la capacité de suppression de la mémoire du fleuve Styx, vous pouvez étourdir vos ennemis avec une perte soudaine mais temporaire de toute mémoire. Vous pouvez utiliser cette capacité trois fois par jour, en l'activant par une action rapide lorsque vous touchez un ennemi en combat avec une arme de mêlée. La créature frappée est étourdie pendant 1 round puis chancelante pendant 1d4+1 rounds supplémentaires si elle échoue à un jet de sauvegarde de Volonté (DD = 10 + la moitié de vos DV + votre modificateur de Charisme). En cas de jet de sauvegarde réussie, la créature est chancelante pendant 1 round. Il s'agit d'un effet mental.
-: **3.** *** L'emprise du Styx (Mag).*** Une fois par jour, par une action simple, vous pouvez appeler les eaux du Styx à bouillonner et à se manifester sous la forme d'une immense griffe squelettique de boue et d'eau noire. Cet effet reproduit les effets du sort *[Poigne agrippeuse](./Poigne agrippeuse.md)*, sauf que toute créature qui est agrippée par la main doit également réussir un jet de sauvegarde de Vigueur contre le sort ou gagner 1 niveau négatif.
+: **3.** *** L'emprise du Styx (Mag).*** Une fois par jour, par une action simple, vous pouvez appeler les eaux du Styx à bouillonner et à se manifester sous la forme d'une immense griffe squelettique de boue et d'eau noire. Cet effet reproduit les effets du sort *[[Poigne agrippeuse]]*, sauf que toute créature qui est agrippée par la main doit également réussir un jet de sauvegarde de Vigueur contre le sort ou gagner 1 niveau négatif.
 
 **Sentinelle :**
-: **1.** *** Croisé de la mort (Mag).*** *[monture](./Monture.md)* 3/jour, *[Monture de guerre](./Monture de guerre.md)* 2/jour, ou *[Coursier fantôme](./Coursier fantôme.md)* 1/jour.
+: **1.** *** Croisé de la mort (Mag).*** *[[monture]]* 3/jour, *[[Monture de guerre]]* 2/jour, ou *[[Coursier fantôme]]* 1/jour.
 : **2.** ***  (Ext).*** .
 : **3.** ***  (Mag).*** .
 </td></tr></table>

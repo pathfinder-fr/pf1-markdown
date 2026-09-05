@@ -8,6 +8,6 @@ Categories:
 
 {s:MR}*Le corps du sylphe est empreint d’air élémentaire pourvoyant à tous ses besoins respiratoires.*
 
-**Conditions requises.** Niveau 11, [Sylphe](./Sylphe (race).md).
+**Conditions requises.** Niveau 11, [[sylphe (race)|Sylphe]].
 
 **Avantages.** Le sylphe n’a plus besoin de respirer. Il est immunisé aux effets nécessitant que la créature respire (comme les poisons inhalés). Ceci ne l’immunise pas aux attaques de nuages ou de gaz qui n’ont pas besoin que la créature respire, comme brume mortelle.

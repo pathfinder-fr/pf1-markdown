@@ -9,15 +9,15 @@ Categories:
 
 *Le personnage est très doué pour détourner les coups à l’aide de son bouclier.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+**Catégorie** : [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Maniement du bouclier](./Maniement des boucliers.md), [bonus de base à l’attaque](./BBA.md) +1.
+**Conditions.** [[Maniement des boucliers|Maniement du bouclier]], [[BBA|bonus de base à l’attaque]] +1.
 
-**Avantage.** Augmente le bonus de [CA](./CA.md) du bouclier de +1.
+**Avantage.** Augmente le bonus de [[CA]] du bouclier de +1.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser jusqu’à 2 points d’endurance quand il est victime d’une attaque alors qu’il porte un bouclier. Son bonus de bouclier à la [CA](./CA.md) augmente alors contre cette attaque d’un montant égal au nombre de points d’endurance dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser jusqu’à 2 points d’endurance quand il est victime d’une attaque alors qu’il porte un bouclier. Son bonus de bouclier à la [[CA]] augmente alors contre cette attaque d’un montant égal au nombre de points d’endurance dépensés.
 
 {s:CMy}
 ### Version mythique
@@ -25,4 +25,4 @@ Le personnage peut dépenser jusqu’à 2 points d’endurance quand il est vict
 
 **Condition.** Art du bouclier
 
-**Avantage.** Le personnage ajoute le bonus de bouclier et le bonus d’altération du bouclier à sa CA au contact. Par une [action immédiate](./Action immédiate.md), il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour ajouter le bonus de bouclier et le bonus d’altération du bouclier à un jet de Vigueur ou de Réflexes juste avant de lancer le dé.
+**Avantage.** Le personnage ajoute le bonus de bouclier et le bonus d’altération du bouclier à sa CA au contact. Par une [[action immédiate]], il peut dépenser une utilisation de [[pouvoir mythique]] pour ajouter le bonus de bouclier et le bonus d’altération du bouclier à un jet de Vigueur ou de Réflexes juste avant de lancer le dé.

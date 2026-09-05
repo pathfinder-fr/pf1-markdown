@@ -13,14 +13,14 @@ Categories:
 #### Mutagène expérimental (Sur)
 Au niveau 2, un chercheur visionnaire sait comment créer un mutagène expérimental dont les autres peuvent bénéficier, même si l’effet est moins important que celui d’un mutagène normal.
 
-Le mutagène expérimental fonctionne comme un [mutagène standard](./Alchimiste.md#MUTAGENES), sauf que le bonus d’armure naturelle et le bonus alchimique à la valeur de caractéristique sont divisés par deux (bonus d’armure naturelle de +1 et +2 à la valeur d’une caractéristique). Le mutagène expérimental ne rend pas [nauséeuse](./Nauséeux.md) la créature qui l’ingurgite.
+Le mutagène expérimental fonctionne comme un [[Alchimiste#MUTAGENES|mutagène standard]], sauf que le bonus d’armure naturelle et le bonus alchimique à la valeur de caractéristique sont divisés par deux (bonus d’armure naturelle de +1 et +2 à la valeur d’une caractéristique). Le mutagène expérimental ne rend pas [[nauséeux|nauséeuse]] la créature qui l’ingurgite.
 
 Quand il crée le mutagène, le chercheur décide si celui-ci est standard (ce qui ne donne aucun avantage si une autre créature l’ingurgite) ou s’il est expérimental (dont autrui peut bénéficier). Le coût, le temps de création et tous les autres aspects du mutagène restent les mêmes.
 
-Si le chercheur connaît des découvertes ou possède d’autres aptitudes qui modifient ou améliorent les avantages du mutagène, celles-ci s’appliquent au mutagène expérimental (mais la créature qui l’ingurgite ne bénéficie toujours que de la moitié du bonus numérique conféré par le mutagène). Cette aptitude remplace [utilisation des poisons](./Alchimiste.md#RESISTPOISON).
+Si le chercheur connaît des découvertes ou possède d’autres aptitudes qui modifient ou améliorent les avantages du mutagène, celles-ci s’appliquent au mutagène expérimental (mais la créature qui l’ingurgite ne bénéficie toujours que de la moitié du bonus numérique conféré par le mutagène). Cette aptitude remplace [[Alchimiste#RESISTPOISON|utilisation des poisons]].
 
 #### Résistance à l’acide (Ext)
-Au niveau 3, un chercheur gagne une [résistance](./Résistance (capacité).md) à l’acide de 5. Cette aptitude remplace [alchimie rapide](./Alchimiste.md#ALCHIMIERAPIDE).
+Au niveau 3, un chercheur gagne une [[Résistance (capacité)|résistance]] à l’acide de 5. Cette aptitude remplace [[Alchimiste#ALCHIMIERAPIDE|alchimie rapide]].
 
 #### Découvertes conseillées
-Les découvertes suivantes viennent compléter l’archétype : [bombe acide](./découvertes.md#BOMBEACIDE), [bombe soleil](./découvertes.md#BOMBESOLEIL), [infusion](./découvertes.md#INFUSION), [mutagène imprégné](./découvertes.md#MUTAGENEIMPREGNE), [mutagène sauvage](./découvertes.md#MUTAGENESAUVAGE), [vase en bouteille](./découvertes.md#VASEENBOUTEILLE).
+Les découvertes suivantes viennent compléter l’archétype : [[Découvertes#BOMBEACIDE|bombe acide]], [[Découvertes#BOMBESOLEIL|bombe soleil]], [[Découvertes#INFUSION|infusion]], [[Découvertes#MUTAGENEIMPREGNE|mutagène imprégné]], [[Découvertes#MUTAGENESAUVAGE|mutagène sauvage]], [[Découvertes#VASEENBOUTEILLE|vase en bouteille]].

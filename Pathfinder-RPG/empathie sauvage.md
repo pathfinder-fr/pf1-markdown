@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Druide#EMPATHIESAUVAGE
 ---
 
->>> [Druide#EMPATHIESAUVAGE](./Druide.md#EMPATHIESAUVAGE)
+>>> [[Druide#EMPATHIESAUVAGE]]

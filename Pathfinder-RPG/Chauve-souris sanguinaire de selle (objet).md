@@ -8,8 +8,8 @@ Categories:
 ---
 
 {s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}{s:AE}{s:MR}**Prix** 300 po (normale), 450 po (entraînée au combat) ; **Poids** 200 kg (normale), 225 kg (entraînée au combat)
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Considérées comme le mode de transport non-magique le plus rapide des royaumes souterrains et des cavernes, les chauves-souris sanguinaires sont dressées en captivité pour servir d’animaux de selle. Généralement, les étables capables d’accueillir ces créatures énormes se trouvent seulement dans les villes bâties dans de grandes grottes souterraines, car il faut beaucoup d’espace pour entraîner ces bêtes mais les éclaireurs de certaines races souterraines les font voler presque jusqu’à la surface. Il faut une selle spéciale pour chevaucher ces créatures. Voir les statistiques de la [chauve-souris sanguinaire](./Chauve-souris sanguinaire.md).  
+Considérées comme le mode de transport non-magique le plus rapide des royaumes souterrains et des cavernes, les chauves-souris sanguinaires sont dressées en captivité pour servir d’animaux de selle. Généralement, les étables capables d’accueillir ces créatures énormes se trouvent seulement dans les villes bâties dans de grandes grottes souterraines, car il faut beaucoup d’espace pour entraîner ces bêtes mais les éclaireurs de certaines races souterraines les font voler presque jusqu’à la surface. Il faut une selle spéciale pour chevaucher ces créatures. Voir les statistiques de la [[chauve-souris sanguinaire]].  
   
 *Chauve-souris de selle (entraînée au combat)*. Les éclaireurs et les militaires utilisent ces animaux pour la guerre.

@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*L’esprit du personnage s’attarde bien plus longtemps qu’il ne devrait.*
 
-**Conditions.** [Demi-orque](./Demi-orque.md) ou [orque](./orque (race).md), [Con](./Constitution.md) 13, [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md)
+**Conditions.** [[Demi-orque]] ou [[orque (race)|orque]], [[Constitution|Con]] 13, [[Dur à cuire]], [[Endurance]]
 
-**Avantages.** Quand le personnage se fait tuer parce qu’il reçoit trop de points de dégâts, son esprit s’attarde dans son corps un nombre de rounds égal à son bonus de [Constitution](./Constitution.md). Il est bien mort, mais si une créature fait un test de [Premiers secours](./Premiers secours.md) [DD](./DD.md) 10, par une [action simple](./Action simple.md), elle se rend compte qu’elle peut encore le sauver. Elle peut le soigner par magie comme s’il était encore vivant. Si cela fait repasser ses points de vie au-dessus du seuil de la mort, il revient parmi les vivants, mais il gagne un niveau négatif permanent.
+**Avantages.** Quand le personnage se fait tuer parce qu’il reçoit trop de points de dégâts, son esprit s’attarde dans son corps un nombre de rounds égal à son bonus de [[Constitution]]. Il est bien mort, mais si une créature fait un test de [[Premiers secours]] [[DD]] 10, par une [[action simple]], elle se rend compte qu’elle peut encore le sauver. Elle peut le soigner par magie comme s’il était encore vivant. Si cela fait repasser ses points de vie au-dessus du seuil de la mort, il revient parmi les vivants, mais il gagne un niveau négatif permanent.

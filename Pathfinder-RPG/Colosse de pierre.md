@@ -14,7 +14,7 @@ Categories:
 {s:pucem|Créature artificielle|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 37*}
 - **204 800 PX**
-- [Créature artificielle](./type Créature artificielle.md) ([colosse](./sous-type colosse.md), [mythique](./sous-type mythique.md)) de taille C, N
+- [[type créature artificielle|Créature artificielle]] ([[sous-type colosse|colosse]], [[sous-type mythique|mythique]]) de taille C, N
 - **Init **+11<sup>M</sup> ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +11
 - **Aura** antimagie sélective (9 m)
 (((Défense)))
@@ -30,13 +30,13 @@ Categories:
 - **Espace** 9 m ; **Allonge** 9 m
 - **Attaque spéciale** accélération mythique, coincé sous le pied, pouvoir mythique (7/jour, montée en puissance +1d10)
 - **Pouvoirs magiques** (**NLS** 15 ; concentration +16)
-  - 3/jour — *[mur de pierre](./Mur de pierre.md)* (DD 16)
-  - 1/jour — *[champ de force](./Champ de force.md)* (DD 17)
+  - 3/jour — *[[mur de pierre]]* (DD 16)
+  - 1/jour — *[[champ de force]]* (DD 17)
 (((Statistiques)))
 - **For** 48, **Dex** 11, **Con **—, **Int** 5, **Sag** 10, **Cha** 7
 - **BBA **+21 ; **BMO **+48 (+53 destruction d’arme) ; **DMD** 60 (65 contre destruction d’arme)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Science de la destruction](./Science de la destruction.md)<sup>M</sup>, [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de l’initiative](./Science de linitiative.md)<sup>M</sup>, [Science du critique](./Science du critique.md) (coup), [Succession d’enchaînements](./Succession denchaînements.md), [Tir à bout portant](./Tir à bout portant.md)<sup>M</sup>, [Tir de précision](./Tir de précision.md), [Viser](./Viser.md)<sup>M</sup>
-- **Compétences** [Intimidation](./Intimidation.md) +11, [Perception](./Perception.md) +11
+- **Dons** [[Attaque en puissance]], [[Enchaînement]], [[Frappe décisive]], [[Science de la destruction]]<sup>M</sup>, [[Science de la frappe décisive]], [[Science de linitiative|Science de l’initiative]]<sup>M</sup>, [[Science du critique]] (coup), [[Succession denchaînements|Succession d’enchaînements]], [[Tir à bout portant]]<sup>M</sup>, [[Tir de précision]], [[Viser]]<sup>M</sup>
+- **Compétences** [[Intimidation]] +11, [[Perception]] +11
 - **Langues** commun
 - **Particularités** autoréparation, création mythique, forme alternative, forteresse mobile, résilience mythique, tour de siège
 (((Écologie)))
@@ -52,7 +52,7 @@ Categories:
 
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [colosses](./Colosse.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Colosse|colosses]].***</li></ul>
 *Cette gigantesque créature de pierre ressemble à une citadelle qui se serait déracinée pour aller faire un tour.*
 
 
@@ -63,7 +63,7 @@ Le colosse de pierre est une forteresse ambulante de vingt et un mètres de haut
 Le corps du colosse de pierre coûte 40 000 po.
 
 **NLS **15 ; **Prix** 300 000 po{br}
-**Conditions requises** [Création de créatures artificielles](./Création de créatures artificielles.md), Artisan mythique de rang ou de grade mythique 8, *[manoir somptueux](./Manoir somptueux.md), [mur de pierre](./Mur de pierre.md), [réparation intégrale](./Réparation intégrale.md), [souhait](./Souhait.md), [zone d’antimagie](./Zone dantimagie.md)* ; **Compétence** [Artisanat](./Artisanat.md) (constructions en pierre) [DD](./DD.md) 30 ; **Coût** 170 000 po
+**Conditions requises** [[Création de créatures artificielles]], Artisan mythique de rang ou de grade mythique 8, *[[manoir somptueux]], [[mur de pierre]], [[réparation intégrale]], [[souhait]], [[zone dantimagie|zone d’antimagie]]* ; **Compétence** [[Artisanat]] (constructions en pierre) [[DD]] 30 ; **Coût** 170 000 po
 
 </div>
 

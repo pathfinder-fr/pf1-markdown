@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun prisme rose laiteux|{s:RSE}}
-**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 5 000 po (normale), 4 000 po (défectueuse), 500 po (ébréchée) ; **Poids** –
+**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 5 000 po (normale), 4 000 po (défectueuse), 500 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** Bonus d’intuition de +1 à la [CA](./CA.md).
+- ***Normale.*** Bonus d’intuition de +1 à la [[CA]].
 
 
-- ***Défectueuse.*** Cette pierre accorde un bonus d’intuition de +1 à la [CA](./CA.md) et une pénalité de -2 à la [Force](./Force.md).
+- ***Défectueuse.*** Cette pierre accorde un bonus d’intuition de +1 à la [[CA]] et une pénalité de -2 à la [[Force]].
 
 
-- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 aux tests d’[initiative](./initiative.md).
+- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 aux tests d’[[initiative]].
 
 (((Pouvoir de résonance)))
-Bonus d’intuition de +1 aux tests de [manœuvres de combat](./Manœuvres offensives.md).
+Bonus d’intuition de +1 aux tests de [[Manœuvres offensives|manœuvres de combat]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être de niveau 12 ; **Coût** 2 500 po (normale), 2 000 po (défectueuse), 250 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], le créateur doit être de niveau 12 ; **Coût** 2 500 po (normale), 2 000 po (défectueuse), 250 po (ébréchée)
 </div>

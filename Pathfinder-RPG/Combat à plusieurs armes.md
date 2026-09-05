@@ -12,12 +12,12 @@ Categories:
 
 *La créature sait utiliser ses nombreux bras pour attaquer avec plusieurs armes.*
 
-**Catégories.** [Guerrier](./Guerrier.md), Monstre
+**Catégories.** [[Guerrier]], Monstre
 
-**Conditions.** [Dex](./Dextérité.md) 13, au moins trois mains.
+**Conditions.** [[Dextérité|Dex]] 13, au moins trois mains.
 
 **Avantage.** Lorsque la créature attaque avec plusieurs armes, les malus sont réduits de –2 pour les attaques effectuées avec la main directrice et de –6 pour les autres.
 
-**Normal.** Sans ce don, la créature subit un malus de –6 à toutes les attaques effectuées avec sa main directrice et de –10 à toutes les attaques effectuées avec les autres mains (elle ne possède qu’une seule main directrice). Voir [Combat à deux armes](./Combat à deux armes.md).
+**Normal.** Sans ce don, la créature subit un malus de –6 à toutes les attaques effectuées avec sa main directrice et de –10 à toutes les attaques effectuées avec les autres mains (elle ne possède qu’une seule main directrice). Voir [[Combat à deux armes]].
 
-**Spécial.** Ce don remplace [Combat à deux armes](./Combat à deux armes.md) pour les créatures qui possèdent plus de deux bras.
+**Spécial.** Ce don remplace [[Combat à deux armes]] pour les créatures qui possèdent plus de deux bras.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#JETTEST
 ---
 
->>> [Vocabulaire courant#JETTEST](./Vocabulaire courant.md#JETTEST)
+>>> [[Vocabulaire courant#JETTEST]]

@@ -7,11 +7,11 @@ Categories:
 - Manuel des Classes avancées
 ---
 
-<div style="float:right">***Retour aux [anneaux magiques](./Anneaux magiques.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[anneaux magiques]].***</div><div class="BD">
 {s:BDTitre|Anneau d'affinité invocatoire (Div)|{s:mca}}
-**Aura** [Invocation](./Invocation.md) faible (Chaos, Mal) ; **NLS** 5 ; **Emplacement** anneau ; **Prix** 9 100 po ; **Poids** —
+**Aura** [[Invocation]] faible (Chaos, Mal) ; **NLS** 5 ; **Emplacement** anneau ; **Prix** 9 100 po ; **Poids** —
 (((Description)))
-Cet anneau a été taillé pour ressembler à un serpent qui se mord la queue. Si le personnage peut lancer des sorts de *[convocation de monstres](./Convocation de monstres.md)*, il ajoute le [doru](./Div doru.md) à la liste des monstres de niveau 3 qu’il peut invoquer, il ajoute l’[aghash](./Div aghash.md) à la liste de niveau 4, la [païraka](./Div païraka.md) à la liste de niveau 6, le [ghawwas](./Div ghawwas.md) à la liste de niveau 7, le [shira](./Div shira.md) à la liste de niveau 8 et le [sépide](./Div sépide.md) à la liste de niveau 9. Une fois par jour, sur commande, il peut également utiliser l’anneau pour invoquer un [doru](./Div doru.md), comme l’autorise le sort *[convocation de monstres III](./Convocation de monstres III.md)*.
+Cet anneau a été taillé pour ressembler à un serpent qui se mord la queue. Si le personnage peut lancer des sorts de *[[convocation de monstres]]*, il ajoute le [[div doru|doru]] à la liste des monstres de niveau 3 qu’il peut invoquer, il ajoute l’[[div aghash|aghash]] à la liste de niveau 4, la [[div païraka|païraka]] à la liste de niveau 6, le [[div ghawwas|ghawwas]] à la liste de niveau 7, le [[div shira|shira]] à la liste de niveau 8 et le [[div sépide|sépide]] à la liste de niveau 9. Une fois par jour, sur commande, il peut également utiliser l’anneau pour invoquer un [[div doru|doru]], comme l’autorise le sort *[[convocation de monstres III]]*.
 (((Création)))
-[Création d'anneaux magiques](./Création danneaux magiques.md), *[allié majeur d’outreplan](./Allié majeur doutreplan.md)* ou *[contrat intermédiaire](./Contrat intermédiaire.md)*, le créateur doit être Chaotique Mauvais ; **Coût** 4 550 po
+[[Création danneaux magiques|Création d'anneaux magiques]], *[[allié majeur doutreplan|allié majeur d’outreplan]]* ou *[[contrat intermédiaire]]*, le créateur doit être Chaotique Mauvais ; **Coût** 4 550 po
 </div>

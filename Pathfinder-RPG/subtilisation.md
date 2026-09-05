@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Manœuvres offensives#SUBTILISATION
 ---
 
->>> [Manœuvres offensives#SUBTILISATION](./Manœuvres offensives.md#SUBTILISATION)
+>>> [[Manœuvres offensives#SUBTILISATION]]

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Aptitudes de voie de larchimage Mythique
 ---
 
->>> [Aptitudes de voie de larchimage Mythique](./Aptitudes de voie de larchimage Mythique.md)
+>>> [[Aptitudes de voie de larchimage Mythique]]

@@ -8,9 +8,9 @@ LastModified: 2016-09-27 14:42
 {s:Reference|Diaboliste1}
 {s:BDTitre|Diaboliste initié|FP 2}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|Humain [magicien](./../Pathfinder-RPG/Magicien.md) 3}
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) de taille M, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [Perception](./../Pathfinder-RPG/Perception.md) +3}
+{s:BDTexte|Humain [[Pathfinder-RPG.magicien|magicien]] 3}
+{s:BDTexte|[[Pathfinder-RPG.type Humanoïde|Humanoïde]] de taille M, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[Pathfinder-RPG.Perception|Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 14 (armure +4, Dex +2)}
 {s:BDTexte|**pv** 19 (3d6+6)}
@@ -20,15 +20,15 @@ LastModified: 2016-09-27 14:42
 {s:BDTexte|**Corps à corps** Rapière de maître, +3 (1d6/18-20)}
 {s:BDTexte|**A distance** fronde, +2 (1d4+1/x2)}
 {s:BDTexte|**Sorts de mage préparés** (NLS 3 ; Concentration +5)}
-{s:BDSorts|2<sup>e</sup>  — *[Image miroir](./../Pathfinder-RPG/Image miroir.md)* , *[Rayon ardent](./../Pathfinder-RPG/Rayon ardent.md)**}
-{s:BDSorts|1<sup>er</sup>  — *[Proejctile magique](./../Pathfinder-RPG/Projectile magique.md)**, *[Bouclier](./../Pathfinder-RPG/Bouclier.md)*, *[Décharge électrique](./../Pathfinder-RPG/Décharge électrique.md)** }
-{s:BDSorts|0 (à volonté) — *[Détection de la magie](./../Pathfinder-RPG/Détection de la magie.md)*, *[Lumière](./../Pathfinder-RPG/Lumière.md)*, *[Résistance](./../Pathfinder-RPG/résistance.md)*, *[Hébétement](./../Pathfinder-RPG/Hébétement.md)* (DD 13)}
+{s:BDSorts|2<sup>e</sup>  — *[[Pathfinder-RPG.image miroir|Image miroir]]* , *[[Pathfinder-RPG.Rayon ardent|Rayon ardent]]**}
+{s:BDSorts|1<sup>er</sup>  — *[[Pathfinder-RPG.Projectile magique|Proejctile magique]]**, *[[Pathfinder-RPG.Bouclier|Bouclier]]*, *[[Pathfinder-RPG.Décharge électrique|Décharge électrique]]** }
+{s:BDSorts|0 (à volonté) — *[[Pathfinder-RPG.détection de la magie|Détection de la magie]]*, *[[Pathfinder-RPG.lumière|Lumière]]*, *[[Pathfinder-RPG.résistance|Résistance]]*, *[[Pathfinder-RPG.Hébétement|Hébétement]]* (DD 13)}
 {s:BDTexte|***** Peut bénéficier d'une **Canalisation de feu infernal** 2x/j}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 14, **Con** 12, **Int** 17, **Sag** 10, **Cha** 14}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 14}
-{s:BDTexte|**Dons** [Tir à bout portant](./../Pathfinder-RPG/Tir à bout portant.md), [Écriture de parchemins](./../Pathfinder-RPG/Écriture de parchemins.md), [Magie de guerre](./../Pathfinder-RPG/Magie de guerre.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) +3, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (arcanes) +9, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (histoire) +7,[Connaissances](./../Pathfinder-RPG/Connaissances.md) (religion)+2, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +4, [Perception](./../Pathfinder-RPG/Perception.md) +3}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Tir à bout portant|Tir à bout portant]], [[Pathfinder-RPG.Écriture de parchemins|Écriture de parchemins]], [[Pathfinder-RPG.Magie de guerre|Magie de guerre]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Art de la magie|Art de la magie]] +3, [[Pathfinder-RPG.Connaissances|Connaissances]] (arcanes) +9, [[Pathfinder-RPG.Connaissances|Connaissances]] (histoire) +7,[[Pathfinder-RPG.Connaissances|Connaissances]] (religion)+2, [[Pathfinder-RPG.Discrétion|Discrétion]] +4, [[Pathfinder-RPG.Perception|Perception]] +3}
 {s:BDTexte|**Langues** abyssal, commun, infernal, draconique}
 {s:BDTexte|**Équipement de combat** Potion de soins modérés, parchemin d'invisibilité, baguette d'armure de mage ; **Autre équipement** fronde de maître avec 20 billes, rapière de maître, grimoire, 113 pièces d'or}
 {s:BDTexte|**Faveur** Un adorateur peut cacher les PJ ou d’autres personnes dans le sanctuaire secret de son culte pendant 3 jours. Il peut éventuellement faire passer un PNJ pour un membre du culte en plaçant de fausses preuves sur/chez lui.}

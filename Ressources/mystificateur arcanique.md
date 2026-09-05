@@ -8,10 +8,10 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 </div>
 
-[imageleft|Mystificatrice arcanique|http://www.pathfinder-fr.org/Media/?moid=199|http://www.pathfinder-fr.org/Media/?moid=199]
+<img src="http://www.pathfinder-fr.org/Media/?moid=199" class="imageleft" alt="Mystificatrice arcanique">
 
 {br}
 
@@ -25,43 +25,43 @@ Categories:
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +1
 | CLASS="gauche" | Feinte magique, Prestidigitation (en continu)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./mystificateur arcanique.md#SORTS)
+| CLASS="gauche" | [[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1
 | CLASS="gauche" | Influence
-| CLASS="gauche" | [+1 niveau dans la classe existante](./mystificateur arcanique.md#SORTS)
+| CLASS="gauche" | [[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]
 |-
 | 3 || +1 || +1 || +1 || +2
 | CLASS="gauche" | Attitude ambigüe
-| CLASS="gauche" | [+1 niveau dans la classe existante](./mystificateur arcanique.md#SORTS)
+| CLASS="gauche" | [[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 4 || +2 || +1 || +1 || +2
 | CLASS="gauche" | Influence
-| CLASS="gauche" | [+1 niveau dans la classe existante](./mystificateur arcanique.md#SORTS)
+| CLASS="gauche" | [[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]
 |-
 | 5 || +2 || +2 || +2 || +3
 | CLASS="gauche" | Feinte magique améliorée
-| CLASS="gauche" | [-](./mystificateur arcanique.md#SORTS)
+| CLASS="gauche" | [[mystificateur arcanique#SORTS|-]]
 |- CLASS="alt"
 | 6 || +3 || +2 || +2 || +3
 | CLASS="gauche" | Influence
-| CLASS="gauche" | [+1 niveau dans la classe existante](./mystificateur arcanique.md#SORTS)
+| CLASS="gauche" | [[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]
 |-
 | 7 || +3 || +2 || +2 || +4
 | CLASS="gauche" | Trompe-la-mort
-| CLASS="gauche" | [+1 niveau dans la classe existante](./mystificateur arcanique.md#SORTS)
+| CLASS="gauche" | [[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 8 || +4 || +3 || +3 || +4
 | CLASS="gauche" | Influence
-| CLASS="gauche" | [+1 niveau dans la classe existante](./mystificateur arcanique.md#SORTS)
+| CLASS="gauche" | [[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]
 |-
 | 9 || +4 || +3 || +3 || +5
 | CLASS="gauche" | Prestidigitation rapide
-| CLASS="gauche" | [+1 niveau dans la classe existante](./mystificateur arcanique.md#SORTS)
+| CLASS="gauche" | [[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 10 || +5 || +3 || +3 || +5
 | CLASS="gauche" | Feinte magique supérieure, Influence.
-| CLASS="gauche" | [-](./mystificateur arcanique.md#SORTS)
+| CLASS="gauche" | [[mystificateur arcanique#SORTS|-]]
 |}
 </center>
 
@@ -80,19 +80,19 @@ Les mystificateurs arcaniques s’entendent généralement bien avec ceux qui on
 ### Conditions
 Pour devenir un mystificateur arcanique, il faut satisfaire aux conditions suivantes.
 
-**Alignement.** Non [Loyal](./../Pathfinder-RPG/Loyal.md).
+**Alignement.** Non [[Pathfinder-RPG.Loyal|Loyal]].
 
-**Compétences.** Rang 7 en [Bluff](./../Pathfinder-RPG/Bluff.md), rang 2 en [Psychologie](./../Pathfinder-RPG/Psychologie.md).
+**Compétences.** Rang 7 en [[Pathfinder-RPG.Bluff|Bluff]], rang 2 en [[Pathfinder-RPG.Psychologie|Psychologie]].
 
-**Sorts.** Faculté de lancer *[prestidigitation](./../Pathfinder-RPG/Prestidigitation.md)*, un sort d'illusion et un sort d'enchantement du premier niveau (ou plus), et au moins un sort profane de 3e niveau (ou plus).
+**Sorts.** Faculté de lancer *[[Pathfinder-RPG.prestidigitation|prestidigitation]]*, un sort d'illusion et un sort d'enchantement du premier niveau (ou plus), et au moins un sort profane de 3e niveau (ou plus).
 
 **Spécial.** Un coup de maître dans le domaine du bluff doit avoir été réalisé par le personnage.
 
 
 ### Compétences de la classe
-Les compétences du mystificateur profane (et la caractéristique dont chacune dépend) sont : [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) (Sag), [Bluff](./../Pathfinder-RPG/Bluff.md) (Cha), [Connaissances](./../Pathfinder-RPG/Connaissances.md) (mystères) (Int), [Déguisement](./../Pathfinder-RPG/Déguisement.md) (Cha),  [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) (Cha), [Escamotage](./../Pathfinder-RPG/Escamotage.md) (Cha), [Intimidation](./../Pathfinder-RPG/Intimidation.md) (Cha), [Profession](./../Pathfinder-RPG/Profession.md) (Avocat, arracheur de dent, politicien,...) (Sag),  [Psychologie](./../Pathfinder-RPG/Psychologie.md) (Sag), [Représentation](./../Pathfinder-RPG/Représentation.md) (Cha).
+Les compétences du mystificateur profane (et la caractéristique dont chacune dépend) sont : [[Pathfinder-RPG.Art de la magie|Art de la magie]] (Sag), [[Pathfinder-RPG.Bluff|Bluff]] (Cha), [[Pathfinder-RPG.Connaissances|Connaissances]] (mystères) (Int), [[Pathfinder-RPG.Déguisement|Déguisement]] (Cha),  [[Pathfinder-RPG.Diplomatie|Diplomatie]] (Cha), [[Pathfinder-RPG.Escamotage|Escamotage]] (Cha), [[Pathfinder-RPG.Intimidation|Intimidation]] (Cha), [[Pathfinder-RPG.Profession|Profession]] (Avocat, arracheur de dent, politicien,...) (Sag),  [[Pathfinder-RPG.Psychologie|Psychologie]] (Sag), [[Pathfinder-RPG.Représentation|Représentation]] (Cha).
 
-**Points de compétence à chaque niveau.** 4 + modificateur d’[Intelligence](./../Pathfinder-RPG/Intelligence.md).
+**Points de compétence à chaque niveau.** 4 + modificateur d’[[Pathfinder-RPG.Intelligence|Intelligence]].
 
 
 
@@ -185,4 +185,4 @@ Au niveau 6, le mystificateur reçoit le pouvoir de tromper la mort elle-même. 
 
 
 #### Note
-Petite précaution concernant l'utilisation de la feinte magique. Les sorts comme [*Bagou*](./../Pathfinder-RPG/Bagou.md), ainsi que certains objets dérivés comme une *cape d'escroc* ou un *Châle ensorceleur* confèrent un bonus aux jets de bluff uniquement en ce qui concerne le fait de cacher la vérité, mais pas au feintes réalisées dans le but de prendre un adversaire au dépourvu. La feinte magique se classe dans cette seconde catégorie, et de tels sorts ou objets ne sont pas à prendre en compte lors des tentatives de feinte.
+Petite précaution concernant l'utilisation de la feinte magique. Les sorts comme [[Pathfinder-RPG.Bagou|*Bagou*]], ainsi que certains objets dérivés comme une *cape d'escroc* ou un *Châle ensorceleur* confèrent un bonus aux jets de bluff uniquement en ce qui concerne le fait de cacher la vérité, mais pas au feintes réalisées dans le but de prendre un adversaire au dépourvu. La feinte magique se classe dans cette seconde catégorie, et de tels sorts ou objets ne sont pas à prendre en compte lors des tentatives de feinte.

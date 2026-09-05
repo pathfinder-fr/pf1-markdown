@@ -20,44 +20,44 @@ La plupart des pouvoirs de classe de la voyante requièrent seulement un d6 pour
 | CLASS="gauche" | Nombre de sorts par jour
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [Bénédiction du tourment](./Liseuse de tourment.md#Bénédiction du tourment)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./Liseuse de tourment.md#SORTS)
+| CLASS="gauche" | [[Liseuse de tourment#Bénédiction du tourment|Bénédiction du tourment]]
+| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Magie du tourment](./Liseuse de tourment.md#MAGIEDUTOURMENT),[tour de l’Intelligence](./Liseuse de tourment.md#TOURDELINTELLIGENCE)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./Liseuse de tourment.md#SORTS)
+| CLASS="gauche" | [[Liseuse de tourment#MAGIEDUTOURMENT|Magie du tourment]],[[Liseuse de tourment#TOURDELINTELLIGENCE|tour de l’Intelligence]]
+| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
 |-
 | 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [Tour de la Force](./Liseuse de tourment.md#TOURDELAFORCE)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./Liseuse de tourment.md#SORTS)
+| CLASS="gauche" | [[Liseuse de tourment#TOURDELAFORCE|Tour de la Force]]
+| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [Tour du Charisme](./Liseuse de tourment.md#TOURDUCHARISME)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./Liseuse de tourment.md#SORTS)
+| CLASS="gauche" | [[Liseuse de tourment#TOURDUCHARISME|Tour du Charisme]]
+| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
 |-
 | 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [Jeu spirituel](./Liseuse de tourment.md#JEUSPIRITUEL)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./Liseuse de tourment.md#SORTS)
+| CLASS="gauche" | [[Liseuse de tourment#JEUSPIRITUEL|Jeu spirituel]]
+| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [Divination](./Liseuse de tourment.md#DIVINATION)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./Liseuse de tourment.md#SORTS)
+| CLASS="gauche" | [[Liseuse de tourment#DIVINATION|Divination]]
+| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
 |-
 | 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [Tour de la Constitution](./Liseuse de tourment.md#TOURDELACONSTITUTION)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./Liseuse de tourment.md#SORTS)
+| CLASS="gauche" | [[Liseuse de tourment#TOURDELACONSTITUTION|Tour de la Constitution]]
+| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
 |- CLASS="alt"
 | 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [Tour de la Dextérité](./Liseuse de tourment.md#TOURDELADEXTERITE)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./Liseuse de tourment.md#SORTS)
+| CLASS="gauche" | [[Liseuse de tourment#TOURDELADEXTERITE|Tour de la Dextérité]]
+| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
 |-CLASS="alt"
 | 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [Tour de la Sagesse](./Liseuse de tourment.md#TOURDELASAGESSE)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./Liseuse de tourment.md#SORTS)
+| CLASS="gauche" | [[Liseuse de tourment#TOURDELASAGESSE|Tour de la Sagesse]]
+| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
 |-
 | 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [Lire les signes](./Liseuse de tourment.md#LIRELESSIGNES)
-| CLASS="gauche" | [+1 niveau dans la classe existante](./Liseuse de tourment.md#SORTS)
+| CLASS="gauche" | [[Liseuse de tourment#LIRELESSIGNES|Lire les signes]]
+| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
 |}
 </center>
 
@@ -70,16 +70,16 @@ La plupart des pouvoirs de classe de la voyante requièrent seulement un d6 pour
 ### Conditions
 Pour devenir une voyante, le personnage doit remplir les critères suivants.
 
-**Don.** [Jouet du destin](./Jouet du destin.md)
+**Don.** [[Jouet du destin]]
 
-**Compétences.** [Connaissances](./Connaissances.md) (mystères ou religion) 5 rangs, [Représentation](./Représentation.md) (n’importe) 5 rangs
+**Compétences.** [[Connaissances]] (mystères ou religion) 5 rangs, [[Représentation]] (n’importe) 5 rangs
 
 **Spécial.** aptitude à lancer des sorts de niveau 3. Capable de lancer au moins trois sorts de divination.
 
 **Spécial.** doit posséder un jeu de tarot.
 
 ### Compétences de classe
-Voici les compétences de la classe de voyante (et la caractéristique associée à chacune) : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (folklore local) (Int), [Connaissances](./Connaissances.md) (mystères) (Int), [Connaissances](./Connaissances.md) (plans) (Int), [Connaissances](./Connaissances.md) (religion) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Profession](./Profession.md) (Sag), [Représentation](./Représentation.md) (Cha), [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) (Cha).
+Voici les compétences de la classe de voyante (et la caractéristique associée à chacune) : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Bluff]] (Cha), [[Connaissances]] (folklore local) (Int), [[Connaissances]] (mystères) (Int), [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Profession]] (Sag), [[Représentation]] (Cha), [[Utilisation dobjets magiques|Utilisation d’objets magiques]] (Cha).
 
 **Points de compétence à chaque niveau.** 2 + modificateur d’Intelligence
 
@@ -119,7 +119,7 @@ On ne peut pas appliquer la magie du tourment et un don de métamagie au même s
 
 {s:Reference|TOURDELINTELLIGENCE}
 #### La tour de l’Intelligence (Sur)
-À partir du niveau 2, à chaque fois que la voyante se sert de sa magie du tourment, elle gagne un bonus d’intuition de +1 aux tests de [niveau de lanceur de sorts](./NLS.md) destinés à vaincre la [Résistance à la magie](./RM.md) pour chaque carte de la famille de l’Intelligence.
+À partir du niveau 2, à chaque fois que la voyante se sert de sa magie du tourment, elle gagne un bonus d’intuition de +1 aux tests de [[NLS|niveau de lanceur de sorts]] destinés à vaincre la [[RM|Résistance à la magie]] pour chaque carte de la famille de l’Intelligence.
 
 {s:Reference|TOURDELAFORCE}
 #### La tour de la Force (Sur)
@@ -163,21 +163,21 @@ La voyante peut utiliser ce pouvoir un nombre de fois par jour égal à 1 + son 
 
 {s:Reference|DIVINATION}
 #### Divination (Mag)
-Une voyante de niveau 6 peut lancer *[divination](./divination-(sort).md)* une fois par jour comme s’il s’agissait d’un pouvoir magique. Son niveau de lanceur de sorts est égal à son niveau de personnage.
+Une voyante de niveau 6 peut lancer *[[divination (sort)|divination]]* une fois par jour comme s’il s’agissait d’un pouvoir magique. Son niveau de lanceur de sorts est égal à son niveau de personnage.
 
 
 {s:Reference|TOURDELACONSTITUTION}
 #### La tour de la Constitution (Ext)
-À partir du niveau 7, à chaque fois que la voyante se sert de sa magie du tourment, elle guérit de 1d6 points de dégâts pour chaque carte de la famille de la [Constitution](./Constitution.md).
+À partir du niveau 7, à chaque fois que la voyante se sert de sa magie du tourment, elle guérit de 1d6 points de dégâts pour chaque carte de la famille de la [[Constitution]].
 
 
 {s:Reference|TOURDELADEXTERITE}
 #### La tour de la Dextérité (Sur)
-À partir du niveau 8, à chaque fois que la voyante se sert de sa magie du tourment, pour chaque carte de la famille de la [Dextérité](./Dextérité.md), elle gagne un bonus d’intuition de +1 aux jets de [Réflexes](./Réflexes.md) et à la [CA](./CA.md) jusqu’au début de son prochain tour.
+À partir du niveau 8, à chaque fois que la voyante se sert de sa magie du tourment, pour chaque carte de la famille de la [[Dextérité]], elle gagne un bonus d’intuition de +1 aux jets de [[Réflexes]] et à la [[CA]] jusqu’au début de son prochain tour.
 
 {s:Reference|TOURDELASAGESSE}
 #### La tour de la Sagesse (Sur)
-À partir du niveau 9, à chaque fois que la voyante se sert de sa magie du tourment, pour chaque carte de la famille de la [Sagesse](./Sagesse.md), elle augmente son [niveau de lanceur de sorts](./NLS.md) effectif de +1.
+À partir du niveau 9, à chaque fois que la voyante se sert de sa magie du tourment, pour chaque carte de la famille de la [[Sagesse]], elle augmente son [[NLS|niveau de lanceur de sorts]] effectif de +1.
 
 
 {s:Reference|LIRELESSIGNES}

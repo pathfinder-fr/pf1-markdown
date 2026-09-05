@@ -14,13 +14,13 @@ Categories:
 Les animaux sont des créatures vivantes et non humaines. Il s'agit le plus souvent de vertébrés dénués de pouvoirs magiques et sans propension au développement d'un langage et d'une culture. Leur profil contient généralement des informations supplémentaires sur la manière dont ils peuvent être utilisés comme compagnons. Les animaux partagent les attributs suivants.
 - Dés de vie : d8.
 - BBA égal aux 3/4 du nombre de DV (progression moyenne).
-- Jets de sauvegarde forts : [Réflexes](./Réflexes.md) et [Vigueur](./Vigueur.md).
-- Points de compétence par DV : 2 + leur modificateur d'Intelligence (au minimum 1). Compétences de classe pour les animaux : [Acrobaties](./Acrobaties.md), [Discrétion](./Discrétion.md), [Escalade](./Escalade.md), [Natation](./Natation.md), [Perception](./Perception.md), [Vol](./Vol.md).
+- Jets de sauvegarde forts : [[Réflexes]] et [[Vigueur]].
+- Points de compétence par DV : 2 + leur modificateur d'Intelligence (au minimum 1). Compétences de classe pour les animaux : [[Acrobaties]], [[Discrétion]], [[Escalade]], [[Natation]], [[Perception]], [[Vol]].
 
 ### Traits
 Les animaux possèdent les traits suivants (sauf mention contraire dans leur profil).
-- valeur d'[Intelligence](./Intelligence.md) égale à 1 ou 2 (aucune créature avec une Intelligence supérieure ou égale à 3 ne peut être un animal).
-- [Vision nocturne](./vision nocturne.md).
+- valeur d'[[Intelligence]] égale à 1 ou 2 (aucune créature avec une Intelligence supérieure ou égale à 3 ne peut être un animal).
+- [[Vision nocturne]].
 - Formés uniquement au maniement de leurs armes naturelles. Les herbivores qui ne combattent pas considèrent leurs attaques naturelles comme des attaques secondaires ; celles-ci subissent un malus de -5 aux jets d'attaque et un ajustement de dégâts correspondant à la moitié de leur modificateur de Force.
 - Aucune formation en matière de port d'armures sauf dans le cas des animaux entraînés au combat.
 - Les animaux respirent, mangent et dorment.

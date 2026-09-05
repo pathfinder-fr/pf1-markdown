@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Une lanterne à bougie est un petit objet semblable à une lanterne, avec des panneaux en verre et un emplacement destiné à accueillir une [bougie](./Bougie (objet).md). Elle protège la bougie contre les courants d'air et récupère les gouttes de cire. Elle offre la même lumière qu'une bougie mais on peut la couvrir de façon à ce qu'elle n'éclaire que de 1 à 3 cases adjacentes. Le personnage peut utiliser une lanterne à bougie pour se réchauffer les mains.
+Une lanterne à bougie est un petit objet semblable à une lanterne, avec des panneaux en verre et un emplacement destiné à accueillir une [[Bougie (objet)|bougie]]. Elle protège la bougie contre les courants d'air et récupère les gouttes de cire. Elle offre la même lumière qu'une bougie mais on peut la couvrir de façon à ce qu'elle n'éclaire que de 1 à 3 cases adjacentes. Le personnage peut utiliser une lanterne à bougie pour se réchauffer les mains.

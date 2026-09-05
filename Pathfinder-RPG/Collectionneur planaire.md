@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Le personnage sait comment préserver et reconstituer des monstres extraplanaires ainsi que des animaux normaux. *
 
-**Condition.** Archétype d’[alchimiste collectionneur](./alchimiste-collectionneur.md)
+**Condition.** Archétype d’[[alchimiste collectionneur]]
 
-**Avantage.** À chaque fois que le personnage apprend un extrait de *[convocation d’alliés naturels](./Convocation dalliés naturels I.md)*, il apprend l’extrait de *[convocation de monstres](./Convocation de monstres I.md)* équivalent.
+**Avantage.** À chaque fois que le personnage apprend un extrait de *[[convocation dalliés naturels I|convocation d’alliés naturels]]*, il apprend l’extrait de *[[convocation de monstres I|convocation de monstres]]* équivalent.
 
 S’il apprend plus tard à fabriquer d’autres extraits de convocation d’alliés naturels, il apprendra automatiquement l’extrait de convocation de montres correspondant.

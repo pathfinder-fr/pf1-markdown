@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 - *Source : Bestiaire 2, p.68*
 - **PX** 1 200
-- [Vermine](./type Vermine.md) de taille G, N
-- **Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0
+- [[type vermine|Vermine]] de taille G, N
+- **Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +0
 (((Défense)))
 - **CA** 17, contact 9, pris au dépourvu 17 (naturelle +8, taille –1)
 - **pv** 39 (6d8+12)
@@ -28,15 +28,15 @@ Categories:
 - **Attaques spéciales** morsure mutilante
 (((Statistiques)))
 - **For** 21, **Dex** 11, **Con** 15, **Int** — , **Sag** 10, **Cha** 6
-- **BBA** +4 ; **BMO** +10 ; **DMD** 20 (28 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Compétences** [Vol](./Vol.md) –6
-- **Particularités** [compression](./Compression (capacité).md)
+- **BBA** +4 ; **BMO** +10 ; **DMD** 20 (28 contre [[croc-en-jambe]])
+- **Compétences** [[Vol]] –6
+- **Particularités** [[compression (capacité)|compression]]
 (((Écologie)))
 - **Environnement** forêts tempérées
 - **Organisation sociale** solitaire ou groupe (2–5)
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
-- **Morsure mutilante (Ext).** L’attaque de morsure d’un coléoptère tranchoir possède une zone de critique possible de 19–20. Si un coléoptère tranchoir réalise un coup critique sur une cible, ses mandibules tranchent sa chair en profondeur et occasionnent une blessure infligeant 1d6 points de [saignement](./Saignement.md) et rendant la cible [chancelante](./Chancelant.md) pendant 1d3 rounds à cause de la terrible douleur.
+- **Morsure mutilante (Ext).** L’attaque de morsure d’un coléoptère tranchoir possède une zone de critique possible de 19–20. Si un coléoptère tranchoir réalise un coup critique sur une cible, ses mandibules tranchent sa chair en profondeur et occasionnent une blessure infligeant 1d6 points de [[saignement]] et rendant la cible [[chancelant|chancelante]] pendant 1d3 rounds à cause de la terrible douleur.
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -45,13 +45,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Charançon géant](./Charançon géant.md) || 4
+| [[Charançon géant]] || 4
 |-
-| [Coléoptère goliath](./Coléoptère goliath.md) || 8
+| [[Coléoptère goliath]] || 8
 |-
-| [Coléoptère tranchoir](./Coléoptère tranchoir.md) || 4
+| [[Coléoptère tranchoir]] || 4
 |-
-| [Punaise de feu](./Punaise de feu.md) || 1/3
+| [[Punaise de feu]] || 1/3
 |}
 </div>*Ce coléoptère trapu mais immense se déplace par une série de petits mouvements rapides. Ses mandibules ont l’air particulièrement acérées.*
 
@@ -73,7 +73,7 @@ moyen mesure
 pèse 400 kg.
 
 #### Le coléoptère géant comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), vol 6 m (4 {s:c}) (médiocre) ;  **Attaque** morsure (1d6) ; **Particularité** [vision dans le noir](./vision dans le noir.md) ; **DMD** croc-en-jambe +8; **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 12, [Con](./Constitution.md) 13, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 11, [Cha](./Charisme.md) 4 ; **CA** armure naturelle +6
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), vol 6 m (4 {s:c}) (médiocre) ;  **Attaque** morsure (1d6) ; **Particularité** [[vision dans le noir]] ; **DMD** croc-en-jambe +8; **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 12, [[Constitution|Con]] 13, [[Intelligence|Int]] –, [[Sagesse|Sag]] 11, [[Charisme|Cha]] 4 ; **CA** armure naturelle +6
 
-**Développement au niveau 4.** **Taille** M; **Attaque** morsure (1d8) ; **Attaque spéciale** [piétinement](./Piétinement.md) (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2
+**Développement au niveau 4.** **Taille** M; **Attaque** morsure (1d8) ; **Attaque spéciale** [[piétinement]] (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2
 </div></td></tr></table>

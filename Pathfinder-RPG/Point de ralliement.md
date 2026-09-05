@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[bien, émotion, mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Pal](./Paladin.md) 1  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|bien, émotion, mental]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
 **Portée** 1,50 m (1 {s:c})  
 
 **Zone** case de 1,50 m (1 {s:c}) de côté  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Le personnage crée une case qui redonne courage à toute créature Bonne qui entre en contact avec. Toute créature d'[alignement Bon](./Alignement.md) qui entre dans cette case (même si c'est seulement lors de son déplacement normal) gagne un bonus de +2 aux [jets d'attaque](./jet dattaque.md), [de sauvegarde](./jet de sauvegarde.md) et 2 points de vie temporaires par [niveau de lanceur de sorts](./NLS.md) pendant 1 [round](./round.md). Les créatures d'un autre [alignement](./Alignement.md) ne tirent aucun avantage de ce sort. Une créature ne peut profiter de ce sort qu'une fois par incantation.
+Le personnage crée une case qui redonne courage à toute créature Bonne qui entre en contact avec. Toute créature d'[[alignement|alignement Bon]] qui entre dans cette case (même si c'est seulement lors de son déplacement normal) gagne un bonus de +2 aux [[jet dattaque|jets d'attaque]], [[jet de sauvegarde|de sauvegarde]] et 2 points de vie temporaires par [[NLS|niveau de lanceur de sorts]] pendant 1 [[round]]. Les créatures d'un autre [[alignement]] ne tirent aucun avantage de ce sort. Une créature ne peut profiter de ce sort qu'une fois par incantation.

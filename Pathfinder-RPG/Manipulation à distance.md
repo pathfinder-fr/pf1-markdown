@@ -15,12 +15,12 @@ Categories:
 - Sort spirite 0
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 0, [Con](./Conjurateur.md) 0, [ConU](./conjurateur unchained.md) 0, [Hyp](./Hypnotiseur.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Magus](./Magus.md) 0, [Méd](./Médium.md) 0, [Occ](./Occultiste.md) 0, [Psy](./Psychiste.md) 0, [Spi](./Spirite.md) 0
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Hypnotiseur|Hyp]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0, [[Spirite|Spi]] 0
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cible** objet non-magique pesant jusqu’à 2,5 kg et n’étant porté ou tenu par personne
-**Durée** [concentration](./Présentation des sorts.md#DUREE)
+**Durée** [[Présentation des sorts#DUREE|concentration]]
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-En pointant le doigt vers l’objet de son choix, le lanceur de sorts peut le soulever et le déplacer sans le toucher. Par une [action de mouvement](./Action de mouvement.md), il peut déplacer l’objet de 4,50 m (3 {s:c}) au maximum dans n’importe quelle direction. Le sort expire instantanément si la distance séparant le personnage de l’objet dépasse les limites de portée du sort.
+En pointant le doigt vers l’objet de son choix, le lanceur de sorts peut le soulever et le déplacer sans le toucher. Par une [[action de mouvement]], il peut déplacer l’objet de 4,50 m (3 {s:c}) au maximum dans n’importe quelle direction. Le sort expire instantanément si la distance séparant le personnage de l’objet dépasse les limites de portée du sort.

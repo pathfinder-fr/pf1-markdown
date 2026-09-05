@@ -11,19 +11,19 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[langage](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Méd](./Médium.md) 0, [Occ](./Occultiste.md) 0, [Psy](./Psychiste.md) 0, [Spi](./Spirite.md) 0  
+{s:AO}**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|langage]]<nowiki>]</nowiki> ; **Niveau** [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0, [[Spirite|Spi]] 0  
 
 **Temps d’incantation** 1 minute  
 
-**Composantes** [G](./composantes.md)  
+**Composantes** [[Composantes|G]]  
 
-**Portée** [contact](./courte.md)  
+**Portée** [[courte|contact]]  
 
 **Cible** 1 créature morte  
 
-**Durée** 1 [round](./round.md)
+**Durée** 1 [[round]]
 
-En utilisant ce sortilège et en touchant la cible, vous pouvez forcer un cadavre à vous parler, mais vous ne pouvez pas lui poser des questions spécifiques ou communiquer avec lui. Le cadavre commencera à balbutier pour 1 [round](./round.md), crachant des phrases aléatoires. Il y a 10% de chance que cette information soit utile au lanceur de sort, mais il est difficile de distinguer si l'information est utile (le MJ fait le jet en secret).
+En utilisant ce sortilège et en touchant la cible, vous pouvez forcer un cadavre à vous parler, mais vous ne pouvez pas lui poser des questions spécifiques ou communiquer avec lui. Le cadavre commencera à balbutier pour 1 [[round]], crachant des phrases aléatoires. Il y a 10% de chance que cette information soit utile au lanceur de sort, mais il est difficile de distinguer si l'information est utile (le MJ fait le jet en secret).
 
 Les informations utiles peuvent inclure des avertissements sur les dangers présent dans les profondeur d'un donjon, le mot de commande pour l'activation d'un objet magique, ou même des avertissements vagues et spectrales de votre avenir ou celui vos compagnons. Le MJ décide quelles informations, utiles ou non, le cadavre énumère dans son balbutiement.
 

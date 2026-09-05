@@ -10,6 +10,6 @@ Categories:
 
 {s:mca} *Le personnage peut absorber la magie de ses sorts de force pour bénéficier d’un accroissement de vitesse concentré.*
 
-**Conditions.** [BBA](./BBA.md) +4, capacité à lancer des sorts profanes de niveau 2, capacité à lancer au moins un sort de force profane.
+**Conditions.** [[BBA]] +4, capacité à lancer des sorts profanes de niveau 2, capacité à lancer au moins un sort de force profane.
 
-**Avantage.** Par une [action rapide](./Action rapide.md), le personnage peut sacrifier un sort de force préparé (ou un emplacement de sort de même niveau que le sort de force profane connu, si le personnage est un lanceur de sorts spontanés) pour bénéficier d’un [bonus d’altération](./bonus daltération.md) à la vitesse de déplacement. Le bonus ainsi gagné est égal à 3 mètres × le niveau du sort sacrifié. Il s’applique à toutes les formes de déplacement et dure 1 round. Si le personnage charge alors qu’il bénéficie de ce bonus, il ne reçoit pas le malus habituel de -2 à la [CA](./CA.md) jusqu’au le début de son tour suivant.
+**Avantage.** Par une [[action rapide]], le personnage peut sacrifier un sort de force préparé (ou un emplacement de sort de même niveau que le sort de force profane connu, si le personnage est un lanceur de sorts spontanés) pour bénéficier d’un [[bonus daltération|bonus d’altération]] à la vitesse de déplacement. Le bonus ainsi gagné est égal à 3 mètres × le niveau du sort sacrifié. Il s’applique à toutes les formes de déplacement et dure 1 round. Si le personnage charge alors qu’il bénéficie de ce bonus, il ne reçoit pas le malus habituel de -2 à la [[CA]] jusqu’au le début de son tour suivant.

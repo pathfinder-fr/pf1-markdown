@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-En portant cette corne acoustique spécialement adaptée à son oreille et en plaçant l'autre extrémité contre une porte ou un mur, le personnage réduit le malus au [DD](./DD.md) pour écouter aux portes ou aux murs de 5.
+En portant cette corne acoustique spécialement adaptée à son oreille et en plaçant l'autre extrémité contre une porte ou un mur, le personnage réduit le malus au [[DD]] pour écouter aux portes ou aux murs de 5.

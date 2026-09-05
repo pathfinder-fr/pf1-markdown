@@ -7,4 +7,4 @@ Categories:
 - Géographie
 ---
 
-Le Murmure est une rivière du [Chéliax](./Chéliax.md), affluent de l'[Iseld](./Iseld.md). Son cours effectue tout son trajet dans le [Bois du Murmure](./Bois du Murmure.md) auquel la rivière a donné son nom.
+Le Murmure est une rivière du [[Chéliax]], affluent de l'[[Iseld]]. Son cours effectue tout son trajet dans le [[Bois du Murmure]] auquel la rivière a donné son nom.

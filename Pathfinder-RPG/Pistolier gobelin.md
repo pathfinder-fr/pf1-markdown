@@ -11,14 +11,14 @@ Categories:
 
 {s:MR}*Le gobelin a appris à tirer avec de gros pistolets.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+**Catégorie** : [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [gobelin](./Gobelin (race).md).
+**Conditions.** [[gobelin (race)|gobelin]].
 
-**Avantage.** Le gobelin peut manier les [armes à feu](./Armes à feu.md) taille M sans subir le malus qu’impose le maniement des armes de taille inappropriée.
+**Avantage.** Le gobelin peut manier les [[armes à feu]] taille M sans subir le malus qu’impose le maniement des armes de taille inappropriée.
 
 **Normal.** Le gobelin reçoit un malus de -2 lorsqu’il utilise une arme de taille inappropriée (taille M).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage réussit un [critique potentiel](./coup critique.md) mais ne le confirme pas alors qu’il manie une arme à feu infligeant des dégâts de feu, il peut dépenser 5 points d’endurance pour récupérer un point d’[audace](./audace.md). Il ne récupère pas de point d’audace si sa cible est immunisée contre les coups critiques.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage réussit un [[coup critique|critique potentiel]] mais ne le confirme pas alors qu’il manie une arme à feu infligeant des dégâts de feu, il peut dépenser 5 points d’endurance pour récupérer un point d’[[audace]]. Il ne récupère pas de point d’audace si sa cible est immunisée contre les coups critiques.

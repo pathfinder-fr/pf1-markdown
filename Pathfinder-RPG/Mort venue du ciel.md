@@ -11,13 +11,13 @@ Categories:
 
 {s:uc}*Le personnage se sert de la gravité pour ajouter des dégâts de force supplémentaires à ses charges. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Avantage.** Quand le personnage [charge](./charge.md) un adversaire alors qu’il se trouve en hauteur par rapport à lui ou qu’il vole, il gagne un bonus de +5 aux [jets d’attaque](./jet dattaque.md) au lieu du bonus lié à la charge et au terrain surélevé.
+**Avantage.** Quand le personnage [[charge]] un adversaire alors qu’il se trouve en hauteur par rapport à lui ou qu’il vole, il gagne un bonus de +5 aux [[jet dattaque|jets d’attaque]] au lieu du bonus lié à la charge et au terrain surélevé.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage [charge](./charge.md) un adversaire en partant d’une position surélevée ou depuis les hauteurs alors qu’il vole, il peut dépenser 4 points d’endurance pour gagner un bonus de +5 au [jet de dégâts](./Valeurs de combat.md#DEGATS). Il conserve par ailleurs le bonus dû à la charge et à la position surélevée.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage [[charge]] un adversaire en partant d’une position surélevée ou depuis les hauteurs alors qu’il vole, il peut dépenser 4 points d’endurance pour gagner un bonus de +5 au [[Valeurs de combat#DEGATS|jet de dégâts]]. Il conserve par ailleurs le bonus dû à la charge et à la position surélevée.
 
 {s:CMy}
 ### Version mythique
@@ -25,4 +25,4 @@ Quand le personnage [charge](./charge.md) un adversaire en partant d’une posit
 
 **Condition.** Mort venue du ciel
 
-**Avantage.** Lorsque le personnage charge un adversaire depuis une position surélevée ou s’il vole, le multiplicateur de critique de son arme augmente de 2 (jusqu’à un maximum de ×6). Cet effet ne se cumule pas avec celui d’autres aptitudes qui augmentent par ailleurs le multiplicateur de critique d’une arme. Si l’attaque de charge touche au but, le personnage peut accomplir une [manœuvre offensive](./Manœuvre offensive.md) de [croc-en-jambe](./croc-en-jambe.md) contre la cible de la charge. Cette action est une [action libre](./Action libre.md) qui ne provoque aucune attaque d’opportunité.
+**Avantage.** Lorsque le personnage charge un adversaire depuis une position surélevée ou s’il vole, le multiplicateur de critique de son arme augmente de 2 (jusqu’à un maximum de ×6). Cet effet ne se cumule pas avec celui d’autres aptitudes qui augmentent par ailleurs le multiplicateur de critique d’une arme. Si l’attaque de charge touche au but, le personnage peut accomplir une [[manœuvre offensive]] de [[croc-en-jambe]] contre la cible de la charge. Cette action est une [[action libre]] qui ne provoque aucune attaque d’opportunité.

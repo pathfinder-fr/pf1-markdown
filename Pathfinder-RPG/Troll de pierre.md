@@ -14,30 +14,30 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.277}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md), [Terre](./sous-type Terre.md)) de taille G, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type humanoïde|Humanoïde]] ([[sous-type géant|géant]], [[sous-type Terre|Terre]]) de taille G, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 10, pris au dépourvu 18 (Dex +1, naturelle +9, taille –1)}
-{s:BDTexte|**pv** 80 (7d8+49) ; [régénération](./Régénération.md) 5 (acide ou son)}
+{s:BDTexte|**pv** 80 (7d8+49) ; [[régénération]] 5 (acide ou son)}
 {s:BDTexte|**Réf** +3, **Vig** +12, **Vol** +3}
 {s:BDTexte|**Faiblesses** pétrification sous la lumière du soleil}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +11 (1d8+7) et 2 griffes, +12 (1d6+7)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration (capacité).md) (2 griffes, 1d6+9)}
+{s:BDTexte|**Attaques spéciales** [[éventration (capacité)|éventration]] (2 griffes, 1d6+9)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 12, **Con** 24, **Int** 5, **Sag** 9, **Cha** 6}
 {s:BDTexte|**BBA** +5 ; **BMO** +13 ; **DMD** 24}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en puissance](./Attaque en puissance.md), [Force intimidante](./Force intimidante.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +11, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +6}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Attaque en puissance]], [[Force intimidante]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Escalade]] +11, [[Intimidation]] +10, [[Perception]] +6}
 {s:BDTexte|**Langues** géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** sous terre}
 {s:BDTexte|**Organisation sociale** solitaire ou bande (2–5)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**pétrification sous la lumière du soleil (Ext).** Un troll de pierre exposé à la lumière naturelle du soleil devient [chancelant](./Chancelant.md) et doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 20 chaque [round](./round.md) pour ne pas être [pétrifié](./Pétrifié.md) de manière permanente. Un sort de *[transmutation de la pierre en chair](./Transmutation de la pierre en chair.md)* (ou un effet similaire) peut ramener un troll [pétrifié](./Pétrifié.md) à son état normal, mais s’il reste exposé à la lumière du soleil, il doit immédiatement continuer à faire des [jets de sauvegarde](./JDS.md) pour ne pas être [pétrifié](./Pétrifié.md) à nouveau. Les sorts qui produisent une lumière solaire puissante tels que *[explosion de lumière](./Explosion de lumière.md)* ou *[rayon de soleil](./Rayon de soleil.md)* ne peuvent pas [pétrifier](./Pétrifié.md) un troll de pierre bien que le troll soit tout de même [chancelant](./Chancelant.md) pendant 1d4 [rounds](./round.md) après avoir été exposé à un tel effet.}
+{s:BDTexte|**pétrification sous la lumière du soleil (Ext).** Un troll de pierre exposé à la lumière naturelle du soleil devient [[chancelant]] et doit réussir un jet de [[Vigueur]] de [[DD]] 20 chaque [[round]] pour ne pas être [[pétrifié]] de manière permanente. Un sort de *[[transmutation de la pierre en chair]]* (ou un effet similaire) peut ramener un troll [[pétrifié]] à son état normal, mais s’il reste exposé à la lumière du soleil, il doit immédiatement continuer à faire des [[JdS|jets de sauvegarde]] pour ne pas être [[pétrifié]] à nouveau. Les sorts qui produisent une lumière solaire puissante tels que *[[explosion de lumière]]* ou *[[rayon de soleil]]* ne peuvent pas [[pétrifié|pétrifier]] un troll de pierre bien que le troll soit tout de même [[chancelant]] pendant 1d4 [[round|rounds]] après avoir été exposé à un tel effet.}
 </div>
 </td><td><div>
 *Cette créature corpulente a des yeux perçants et une peau de pierre incrustée de petits cristaux. Sa mâchoire inférieure est décorée de grandes dents cristallines.*

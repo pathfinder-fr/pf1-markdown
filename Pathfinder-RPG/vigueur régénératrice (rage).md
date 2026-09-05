@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#VIGUEURREGENERATRICE
 ---
 
->>> [Pouvoirs de rage#VIGUEURREGENERATRICE](./Pouvoirs de rage.md#VIGUEURREGENERATRICE)
+>>> [[Pouvoirs de rage#VIGUEURREGENERATRICE]]

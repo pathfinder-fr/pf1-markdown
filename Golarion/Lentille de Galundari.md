@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Lentille de Galundari.md).***
+***Voir les [[Pathfinder-RPG.Lentille de Galundari|statistiques de cet artefact]].***
 
 D’innombrables runes minuscules s’entremêlent les unes aux autres sur tout le tour de cet anneau d’argent qui encadre un disque de verre parfait.
 

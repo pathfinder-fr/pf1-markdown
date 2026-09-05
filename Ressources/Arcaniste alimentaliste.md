@@ -5,7 +5,7 @@ LastModified: 2020-04-29 02:29
 ---
 
 En cours de rédaction 28/01/2020.
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 
 ### Exploitations
 #### Alimentaliste
@@ -57,28 +57,28 @@ Appliquée la « Bon-bombe surprise », la cible et les créatures adjacentes su
 ### Sorts d'Alimentaliste
 <nowiki>En cours de rédaction.</nowiki>
 #### Niveau 0
-- ***[Étincelles](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Étincelles.ashx)*** *(APG)*. Met le feu à des objets inflammables.</br>
-- ***[Saupoudrage](./Saupoudrage.md)***. Saupoudre une surface de particules de manière contrôlée.</br>
-- ***[Création d'eau](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Création deau.ashx)***Crée huit litres d’eau pure/niveau.</br>
+- ***[Étincelles](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.%c3%89tincelles.ashx)*** *(APG)*. Met le feu à des objets inflammables.</br>
+- ***[[Saupoudrage]]***. Saupoudre une surface de particules de manière contrôlée.</br>
+- ***[Création d'eau](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Cr%c3%a9ation%20deau.ashx)***Crée huit litres d’eau pure/niveau.</br>
 - ***[Stimulant](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Stimulant.ashx)*** Confère 1 pv temporaire à la cible.</br>
-- ***[Convocation d'ustensiles (d'instruments)](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Convocation dinstrument.ashx)*** Convoque des ustensiles de cuisine (au lieu d'un instrument de musique).</br>
-- ***[Odeurs imaginaires](./Odeurs-imaginaires.md)*** Odeurs illusoires.</br>
-- ***[Conscience du temps](./Conscience-du-temps.md)*** Calcule exactement le temps passé et permet d'estimer le temps présent.</br>
-- ***[Goûteur](./Goûteur.md)*** Obtient un bonus de +2 pour analyser la composition d'une recette et sa valeur nutritive et +2 au JS Vigueur si l'aliment est empoisonné ou impropre à la consommation.</br>
+- ***[Convocation d'ustensiles (d'instruments)](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Convocation%20dinstrument.ashx)*** Convoque des ustensiles de cuisine (au lieu d'un instrument de musique).</br>
+- ***[[Odeurs imaginaires]]*** Odeurs illusoires.</br>
+- ***[[Conscience du temps]]*** Calcule exactement le temps passé et permet d'estimer le temps présent.</br>
+- ***[[Goûteur]]*** Obtient un bonus de +2 pour analyser la composition d'une recette et sa valeur nutritive et +2 au JS Vigueur si l'aliment est empoisonné ou impropre à la consommation.</br>
 
 #### Niveau 1
-- ***[Invocation d'un lécheur](./Invocation-d'un-lécheur.md)***. Invoque un esprit mineur de la gourmandise.</br>
+- ***[[Invocation d'un lécheur]]***. Invoque un esprit mineur de la gourmandise.</br>
 - ***[Graisse](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Graisse.ashx)*** Rend glissant un objet ou une zone (1,5 m de côté).</br>
-- ***[Emprise gluante (projectile de toile)](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Projectile de toile.ashx)*** Projette une boule gluante de fromage fondu de la taille d'un poing ayant les effets d'une toile d'araignée sur une cible. Bruler le formage, le transforme en huile enflammée.</br>
-- ***[Pâte à prise rapide (Sceau de colle)](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sceau de colle.ashx)*** 
+- ***[Emprise gluante (projectile de toile)](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Projectile%20de%20toile.ashx)*** Projette une boule gluante de fromage fondu de la taille d'un poing ayant les effets d'une toile d'araignée sur une cible. Bruler le formage, le transforme en huile enflammée.</br>
+- ***[Pâte à prise rapide (Sceau de colle)](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sceau%20de%20colle.ashx)*** 
 Recouvre une surface d'une pâte alimentaire qui rend collant une surface.</br>
-- ***[Panacée universelle](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Panacée universelle.ashx)*** <Effet relaxant ou divertissant./br>
-- ***[Bouchées (baies) nourricières](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Baie nourricière.ashx)*** Donne les propriétés des baies à 2d4 bouchées (biscuit, morceau de pain, une cuisse de grenouille...) rendant chacune 1 pv (max. 8 pv/24 heures).</br>
+- ***[Panacée universelle](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Panac%c3%a9e%20universelle.ashx)*** <Effet relaxant ou divertissant./br>
+- ***[Bouchées (baies) nourricières](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Baie%20nourrici%c3%a8re.ashx)*** Donne les propriétés des baies à 2d4 bouchées (biscuit, morceau de pain, une cuisse de grenouille...) rendant chacune 1 pv (max. 8 pv/24 heures).</br>
 
 #### Niveau 2
 Comming soon.
-- ***[Invocation d'un mâchouilleur](./Invocation-d'un-mâchouilleur.md)***. Invoque un esprit mineur de la gourmandise.</br>
-- ***[Boule glaçante](./Boule-glaçante.md)***. Tire des boules de glace qui peuvent blesser et ralentir les cibles.</br>
+- ***[[Invocation d'un mâchouilleur]]***. Invoque un esprit mineur de la gourmandise.</br>
+- ***[[Boule glaçante]]***. Tire des boules de glace qui peuvent blesser et ralentir les cibles.</br>
 #### Niveau 3
 Comming soon.
 #### Niveau 4

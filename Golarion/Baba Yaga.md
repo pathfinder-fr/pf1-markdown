@@ -4,7 +4,7 @@ Title: Baba Yaga
 LastModified: 2013-10-28 03:45
 ---
 
-Reine des Sorcières, Baba Yaga est arrivée sur [Golarion](./Golarion.md) depuis un autre monde avec ses fidèles en 3313 AR. Elle s'est installée en [Irrisen](./Irrisen.md) où elle a combattu les troupes ulfes des [terres des Rois des Linnorms](./Terres des Rois des Linnorms.md) qui étaient les occupants du territoire. C'est après une bataille de 23 jours qu'elle a assis son pouvoir et installé son royaume.
+Reine des Sorcières, Baba Yaga est arrivée sur [[Golarion]] depuis un autre monde avec ses fidèles en 3313 AR. Elle s'est installée en [[Irrisen]] où elle a combattu les troupes ulfes des [[terres des Rois des Linnorms]] qui étaient les occupants du territoire. C'est après une bataille de 23 jours qu'elle a assis son pouvoir et installé son royaume.
 
 **Baba Yaga**
 

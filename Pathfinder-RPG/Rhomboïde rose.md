@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun rhomboïde rose|{s:RSE}}
-**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 8 000 po (normale), 6 000 po (défectueuse), 1 400 po (ébréchée) ; **Poids** –
+**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 8 000 po (normale), 6 000 po (défectueuse), 1 400 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** Bonus d'altération de +2 en [Constitution](./Constitution.md).
+- ***Normale.*** Bonus d'altération de +2 en [[Constitution]].
 
 
-- ***Défectueuse.*** Cette pierre accorde un bonus d’altération de +2 en Constitution et une pénalité de -2 en [Dextérité](./Dextérité.md).
+- ***Défectueuse.*** Cette pierre accorde un bonus d’altération de +2 en Constitution et une pénalité de -2 en [[Dextérité]].
 
 
-- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +4 sur un type de test affecté par le don [Endurance](./Endurance.md).
+- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +4 sur un type de test affecté par le don [[Endurance]].
 
 (((Pouvoir de résonance)))
-Bonus de +1 aux [jets de sauvegarde](./JDS.md) de [Réflexes](./Réflexes.md).
+Bonus de +1 aux [[jds|jets de sauvegarde]] de [[Réflexes]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être de niveau 12 ; **Coût** 4 000 po (normale), 3 000 po (défectueuse), 700 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], le créateur doit être de niveau 12 ; **Coût** 4 000 po (normale), 3 000 po (défectueuse), 700 po (ébréchée)
 </div>

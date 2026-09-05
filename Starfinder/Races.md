@@ -27,25 +27,25 @@ Ainsi, vous évitez de vous retrouver accidentellement avec des modificateurs ra
 <td width="13%">{s:ImageMenu|Illustrations/PNJ/Sajan.jpg|95%|./Starfinder.Ysokis.ashx|150px|65}</td>
 </tr>
 <tr style="vertical-align: top">
-<td align="center">[Androïdes](./Androïdes.md)</td>
-<td align="center">[Humains](./Humains.md)</td>
-<td align="center">[Kasathas](./Kasathas.md)</td>
-<td align="center">[Lashuntas](./Lashuntas.md)</td>
-<td align="center">[Shirrens](./Shirrens.md)</td>
-<td align="center">[Vesks](./Vesks.md)</td>
-<td align="center">[Ysokis](./Ysokis.md)</td>
+<td align="center">[[Androïdes]]</td>
+<td align="center">[[Humains]]</td>
+<td align="center">[[Kasathas]]</td>
+<td align="center">[[Lashuntas]]</td>
+<td align="center">[[Shirrens]]</td>
+<td align="center">[[Vesks]]</td>
+<td align="center">[[Ysokis]]</td>
 </tr>
 </table>
 </center>
 </div>
 
-- **[Androïdes](./Androïdes.md).** Les androïdes sont des créatures artificielles, composées d’éléments aussi bien biologiques qu’artificiels, qui, à l’origine, ont été créées par les humains pour être des serviteurs. Ils sont aujourd’hui affranchis et libres de poursuivre leur propre destinée parmi les étoiles.
-- **[Humains](./Humains.md).** Présents presque partout dans les Mondes du Pacte, les humains se sont répandus à travers les étoiles depuis la disparition de leur monde natal de Golarion. Ils ont la réputation d’être curieux, tenaces et d’avoir une grande faculté d’adaptation.
-- **[Kasathas](./Kasathas.md).** Ancienne race d’êtres dotés de quatre bras, venus d’un lointain système stellaire, les kasathas sont de fervents traditionalistes dont les coutumes leur confèrent vis-à-vis des autres races une aura de sagesse et de mystère.
-- **[Lashuntas](./Lashuntas.md).** Les lashuntas ont des dons psychiques naturels. Ils regroupent en fait deux races : une est constituée d’individus grands et maigres et l’autre d’individus petits et puissants. Les deux fascinent tout autant les autres races et elles se consacrent à l’érudition pour atteindre la perfection.
-- **[Shirrens](./Shirrens.md).** Autrefois intégrés à une terrifiante intelligence collective qui dévore tout sur son passage, les shirrens insectoïdes ont muté et sont parvenus à échapper à son emprise. Ce sont aujourd’hui des individus indépendants épris de la liberté de choix mais qui conservent un fort attachement communautaire.
-- **[Vesks](./Vesks.md).** Voués à la conquête et à la domination, les vesks reptiliens viennent très récemment de mettre un terme à leur longue guerre contre les autres races des Mondes du Pacte. Cependant, beaucoup se méfient encore d’eux malgré leur sens de l’honneur et leur utilité au combat.
-- **[Ysokis](./Ysokis.md).** Passionnés et bagarreurs, les ysokis sont des êtres évoquant des rats. Ce sont des experts aussi bien dans l’art de se fourrer dans le pétrin que de s’en sortir. Leur amour de la technologie, de l’exploration et des aventures les pousse à voyager à travers la galaxie.
+- **[[Androïdes]].** Les androïdes sont des créatures artificielles, composées d’éléments aussi bien biologiques qu’artificiels, qui, à l’origine, ont été créées par les humains pour être des serviteurs. Ils sont aujourd’hui affranchis et libres de poursuivre leur propre destinée parmi les étoiles.
+- **[[Humains]].** Présents presque partout dans les Mondes du Pacte, les humains se sont répandus à travers les étoiles depuis la disparition de leur monde natal de Golarion. Ils ont la réputation d’être curieux, tenaces et d’avoir une grande faculté d’adaptation.
+- **[[Kasathas]].** Ancienne race d’êtres dotés de quatre bras, venus d’un lointain système stellaire, les kasathas sont de fervents traditionalistes dont les coutumes leur confèrent vis-à-vis des autres races une aura de sagesse et de mystère.
+- **[[Lashuntas]].** Les lashuntas ont des dons psychiques naturels. Ils regroupent en fait deux races : une est constituée d’individus grands et maigres et l’autre d’individus petits et puissants. Les deux fascinent tout autant les autres races et elles se consacrent à l’érudition pour atteindre la perfection.
+- **[[Shirrens]].** Autrefois intégrés à une terrifiante intelligence collective qui dévore tout sur son passage, les shirrens insectoïdes ont muté et sont parvenus à échapper à son emprise. Ce sont aujourd’hui des individus indépendants épris de la liberté de choix mais qui conservent un fort attachement communautaire.
+- **[[Vesks]].** Voués à la conquête et à la domination, les vesks reptiliens viennent très récemment de mettre un terme à leur longue guerre contre les autres races des Mondes du Pacte. Cependant, beaucoup se méfient encore d’eux malgré leur sens de l’honneur et leur utilité au combat.
+- **[[Ysokis]].** Passionnés et bagarreurs, les ysokis sont des êtres évoquant des rats. Ce sont des experts aussi bien dans l’art de se fourrer dans le pétrin que de s’en sortir. Leur amour de la technologie, de l’exploration et des aventures les pousse à voyager à travers la galaxie.
 
 
 

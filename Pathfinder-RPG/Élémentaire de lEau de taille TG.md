@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Élémentaire de lEau#_3
 ---
 
->>> [Élémentaire de lEau#_3](./Élémentaire de lEau.md#_3)
+>>> [[Élémentaire de lEau#_3]]

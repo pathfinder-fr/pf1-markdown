@@ -10,11 +10,11 @@ Categories:
 
 {s:divin|Droskar|%2fPCUP%2fReligion-PNG%2fDroskar.png}<div class="BD">
 {s:BDTitre|Anneau guide de Droskar|{s:ISG}{s:GeM}}
-**Aura** [Enchantement](./Enchantement.md) faible ; **NLS** 3 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 2 600 po ; **Poids** —
+**Aura** [[Enchantement]] faible ; **NLS** 3 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 2 600 po ; **Poids** —
 (((Description)))
-Cet anneau d’or est déformé et désagréable à porter pendant de longues périodes. Il porte un symbole grossier d’un feu brûlant sous une arche. Le personnage peut utiliser *[charme-personne](./Charme-personne.md)* une fois par jour.
+Cet anneau d’or est déformé et désagréable à porter pendant de longues périodes. Il porte un symbole grossier d’un feu brûlant sous une arche. Le personnage peut utiliser *[[charme-personne]]* une fois par jour.
 
-Si le personnage est un suivant de [Droskar](./Droskar (technique).md), à chaque fois qu’il fabrique un objet magique, il peut choisir de payer la moitié de son coût de fabrication ; il travaille sur l’objet normalement mais au moment de l’achever, il y a 50% de chance qu’il soit inutile, non-magique et sans valeur. Par exemple, si créer des bracelets magiques coûte normalement 1 000 po, il peut choisir de ne payer que 500 po mais il y a 50% de chance que les raccourcis qu’il a pris pendant sa fabrication aboutissent à un objet sans valeur.
+Si le personnage est un suivant de [[Droskar (technique)|Droskar]], à chaque fois qu’il fabrique un objet magique, il peut choisir de payer la moitié de son coût de fabrication ; il travaille sur l’objet normalement mais au moment de l’achever, il y a 50% de chance qu’il soit inutile, non-magique et sans valeur. Par exemple, si créer des bracelets magiques coûte normalement 1 000 po, il peut choisir de ne payer que 500 po mais il y a 50% de chance que les raccourcis qu’il a pris pendant sa fabrication aboutissent à un objet sans valeur.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[charme-personne](./Charme-personne.md)*, *[fabrication](./Fabrication.md)* ; **Coût** 1 300 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[charme-personne]]*, *[[fabrication]]* ; **Coût** 1 300 po
 </div>

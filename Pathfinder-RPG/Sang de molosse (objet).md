@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Gnome|gnomes|Illustrations/PNJ/Gnome.jpg}{s:MR}**Prix** 110 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Si un personnage applique cette épaisse pâte rouge, que l’on appelle le sang de molosse, sur son nez ou sa lèvre supérieure, son odorat s’améliore. La pâte donne un bonus alchimique de +2 aux tests de [Perception](./Perception.md) pendant 1 heure à la plupart des créatures, mais, chez les [gnomes](./Gnome.md), il décuple les capacités olfactives et le bénéficiaire dispose pendant 5 minutes du pouvoir [odorat](./Odorat (capacité).md) avant de n’avoir plus qu’un bonus de circonstances de +2 aux tests de [Perception](./Perception.md) pendant 1 heure de plus.
+Si un personnage applique cette épaisse pâte rouge, que l’on appelle le sang de molosse, sur son nez ou sa lèvre supérieure, son odorat s’améliore. La pâte donne un bonus alchimique de +2 aux tests de [[Perception]] pendant 1 heure à la plupart des créatures, mais, chez les [[Gnome|gnomes]], il décuple les capacités olfactives et le bénéficiaire dispose pendant 5 minutes du pouvoir [[Odorat (capacité)|odorat]] avant de n’avoir plus qu’un bonus de circonstances de +2 aux tests de [[Perception]] pendant 1 heure de plus.

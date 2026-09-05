@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#AVANCEDOMINATRICE
 ---
 
->>> [pouvoirs de rage#AVANCEDOMINATRICE](./Pouvoirs de rage.md#AVANCEDOMINATRICE)
+>>> [[pouvoirs de rage#AVANCEDOMINATRICE]]

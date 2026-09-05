@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Horsdecombat
 ---
 
->>> [États préjudiciables#Horsdecombat](./États préjudiciables.md#Horsdecombat)
+>>> [[États préjudiciables#Horsdecombat]]

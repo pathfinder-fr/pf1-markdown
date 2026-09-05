@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Créature magique|Aquatique|Tempéré}
 {s:BDTexte|<i>Source : Bestiaire 2 p.163</i>}
 {s:BDTexte|<b>PX</b> 400}
-{s:BDTexte| [Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille G, N}
-{s:BDTexte|<b>Init</b> -1 ; <b>Sens</b> [odorat](./odorat.md), [vision nocturne](./vision nocturne.md), [vision dans le noir](./vision dans le noir.md) ; [Perception](./Perception.md)+6}
+{s:BDTexte| [[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDTexte|<b>Init</b> -1 ; <b>Sens</b> [[odorat]], [[vision nocturne]], [[vision dans le noir]] ; [[Perception]]+6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 12, contact 8, pris au dépourvu 12 (Dex -1, naturelle +4, taille -1)}
 {s:BDTexte|<b>pv</b> 15 (2d10+4)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 16, <b>Dex</b> 9, <b>Con</b> 15, <b>Int</b> 2, <b>Sag</b> 12, <b>Cha</b> 11}
 {s:BDTexte|<b>BBA</b> +2, <b>BMO</b> +6, <b>DMD</b> 15}
-{s:BDTexte|<b>Dons</b> <a>[Endurance](./Endurance.md)</a>}
-{s:BDTexte|<b>Compétences</b> <a>[Natation](./Natation.md)</a>  +11 , <a>[Perception](./Perception.md)</a>  +6}
+{s:BDTexte|<b>Dons</b> <a>[[Endurance]]</a>}
+{s:BDTexte|<b>Compétences</b> <a>[[Natation]]</a>  +11 , <a>[[Perception]]</a>  +6}
 {s:BDTexte|<b>Particularités</b> Besoin d'eau}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> milieu aquatique}

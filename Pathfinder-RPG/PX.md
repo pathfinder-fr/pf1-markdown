@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#POINTSDEXPERIENCE
 ---
 
->>> [Vocabulaire courant#POINTSDEXPERIENCE](./Vocabulaire courant.md#POINTSDEXPERIENCE)
+>>> [[Vocabulaire courant#POINTSDEXPERIENCE]]

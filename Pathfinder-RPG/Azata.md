@@ -15,22 +15,22 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Bralani](./Bralani.md) || 6
+| [[Bralani]] || 6
 |-
-| [Brijidine](./Brijidine.md) || 17
+| [[Brijidine]] || 17
 |-
-| [Gancanagh](./Gancanagh.md) || 4
+| [[Gancanagh]] || 4
 |-
-| [Ghaéle](./Ghaéle.md) || 13
+| [[Ghaéle]] || 13
 |-
-| [Lillende](./Lillende.md) || 7
+| [[Lillende]] || 7
 |-
-| [Lyrakien](./Lyrakien.md) || 2
+| [[Lyrakien]] || 2
 |-
-| [Raélis](./Raélis.md) || 10
+| [[Raélis]] || 10
 |}
 </div></div><div class="description">*Source : Bestiaire p.26.*</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([azata](./sous-type azata.md), [Bien](./sous-type Bien.md), [Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]])*
 
 *Les azatas forment une race de créatures célestes natives du plan de l’Élysée, un plan dominé par la quête de la liberté et de la bonté.*
 
@@ -46,10 +46,10 @@ abandonnent le soutien de leurs pairs afin de pouvoir lancer leur propre croisad
 
 La plupart des azatas proviennent directement de la beauté sauvage de l’Élysée et ont été créés et nourris par l’afflux d’âmes mortelles d’alignement Bon. Comme la majorité des autres Extérieurs, ils ne peuvent pas se reproduire à la manière des mortel mais flirtent souvent avec les plus charmants et les plus affables d’entre eux. Dans leur quête permanente de sentiments tels que l’amour, la joie ou la camaraderie, les azatas badinent fréquemment aussi avec d’autres membres de leur race. Pour autant, ils se sentent rarement liés à leur amant (et encore moins de manière exclusive), quelle que soit sa race.
 
-Les azatas parlent le céleste, le draconique et l’infernal mais ils peuvent communiquer avec quasiment toutes les créatures grâce à leur capacité de [langage universel](./sous-type azata.md#LANGAGEUNIVERSEL). Référez-vous [ici](./sous-type azata.md) pour
+Les azatas parlent le céleste, le draconique et l’infernal mais ils peuvent communiquer avec quasiment toutes les créatures grâce à leur capacité de [[sous-type azata#LANGAGEUNIVERSEL|langage universel]]. Référez-vous [[sous-type azata|ici]] pour
 plus de détails sur cette capacité et sur les autres traits des azatas.
 
 ### Les seigneurs empyréens azatas
 Parmi les seigneurs empyréens, les champions divins des plans supérieurs, on trouve plusieurs azatas uniques et puissants. Certains de ces êtres célestes contrôlent de grands royaumes et de vastes légions de suivants, alors que d’autres sont des voyageurs solitaires et des héros cherchant seulement à mettre leur intelligence, leur sagesse et leurs talents au service de la joie et de la liberté.
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./Seigneurs empyréens.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs Empyréens]].***</li></ul>
 {s:ImageDroite|Bestiaire/Azata-lillende.jpg|50%}

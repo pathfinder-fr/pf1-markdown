@@ -7,25 +7,25 @@ Categories:
 - Don combat
 ---
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#14) Enchaînement : Puis-je faire un pas de placement pendant que j’utilise le don Enchaînement, pour amener un autre adversaire à portée d’allonge ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#14|→]] Enchaînement : Puis-je faire un pas de placement pendant que j’utilise le don Enchaînement, pour amener un autre adversaire à portée d’allonge ?***
 
-Non. <u>[Enchaînement](./Enchaînement.md)</u> est une action spéciale et ses conditions sont vérifiées au moment où le personnage la commence. À ce moment-là, toutes les cibles éligibles sont vérifiées pour qu’on soit sûr qu’elles sont adjacentes les unes aux autres et à portée d’allonge. Le personnage ne peut pas faire un [pas de placement](./Pas de placement.md) au milieu de l’action et vérifier à nouveau si les conditions sont respectées. S’il n’a pas deux cibles à portée d’allonge et adjacentes l'une à l'autre au début de l’attaque, le personnage ne peut même pas tenter d’attaque avec Enchaînement.
+Non. <u>[[Enchaînement]]</u> est une action spéciale et ses conditions sont vérifiées au moment où le personnage la commence. À ce moment-là, toutes les cibles éligibles sont vérifiées pour qu’on soit sûr qu’elles sont adjacentes les unes aux autres et à portée d’allonge. Le personnage ne peut pas faire un [[pas de placement]] au milieu de l’action et vérifier à nouveau si les conditions sont respectées. S’il n’a pas deux cibles à portée d’allonge et adjacentes l'une à l'autre au début de l’attaque, le personnage ne peut même pas tenter d’attaque avec Enchaînement.
 Cette réponse est d’abord apparue dans le [Paizo blog du 25/9/2012](https://paizo.com/community/blog/v5748dyo5ldx5?FAQs-of-Life).
 ---
-***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#15) Enchaînement : Puis-je utiliser ce don ou Enchaînement supérieur pour enchaîner depuis ou sur une image créée par le sort *image miroir* ?***
+***[[FAQ- Manuel des joueurs (Dons et compétences)#15|→]] Enchaînement : Puis-je utiliser ce don ou Enchaînement supérieur pour enchaîner depuis ou sur une image créée par le sort *image miroir* ?***
 
-Non. Si son attaque initiale touche le lanceur, le personnage ne peut pas <u>[enchaîner](./Enchaînement.md)</u> sur une image comme s’il s’agissait d’une véritable créature. Si son attaque initiale touche une image, le personnage ne parvient pas à toucher la cible prévue (le lanceur), et ne peut donc pas enchaîner. Puisqu’il est impossible de viser spécifiquement une image (parce que le personnage ne peut pas distinguer les images du vrai lanceur), un personnage ne peut également pas viser une image et tenter d’enchaîner sur une autre image.}{s:Desambi|Enchaînement est également le nom d'une [propriété d'armes magiques](./enchaînement (propriété).md).}
+Non. Si son attaque initiale touche le lanceur, le personnage ne peut pas <u>[[Enchaînement|enchaîner]]</u> sur une image comme s’il s’agissait d’une véritable créature. Si son attaque initiale touche une image, le personnage ne parvient pas à toucher la cible prévue (le lanceur), et ne peut donc pas enchaîner. Puisqu’il est impossible de viser spécifiquement une image (parce que le personnage ne peut pas distinguer les images du vrai lanceur), un personnage ne peut également pas viser une image et tenter d’enchaîner sur une autre image.}{s:Desambi|Enchaînement est également le nom d'une [[enchaînement (propriété)|propriété d'armes magiques]].}
 *Le personnage peut frapper deux adversaires adjacents d’un seul mouvement.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./Force.md) 13, [Attaque en puissance](./Attaque en puissance.md), [BBA](./BBA.md) +1
+**Conditions.** [[Force|For]] 13, [[Attaque en puissance]], [[BBA]] +1
 
-**Avantage.** Par une [action simple](./Action simple.md), le personnage porte une unique attaque avec la totalité de son bonus d’attaque à un adversaire situé à sa portée. S’il le touche, il lui inflige les dégâts habituels et peut faire une attaque supplémentaire (toujours avec son bonus d’attaque maximal) contre un adversaire adjacent au premier ennemi et situé à portée du personnage. Ce don ne permet qu’une attaque supplémentaire par [round](./round.md). Quand le personnage utilise ce don, il subit un malus de -2 à la [CA](./CA.md) jusqu’à son prochain tour.
+**Avantage.** Par une [[action simple]], le personnage porte une unique attaque avec la totalité de son bonus d’attaque à un adversaire situé à sa portée. S’il le touche, il lui inflige les dégâts habituels et peut faire une attaque supplémentaire (toujours avec son bonus d’attaque maximal) contre un adversaire adjacent au premier ennemi et situé à portée du personnage. Ce don ne permet qu’une attaque supplémentaire par [[round]]. Quand le personnage utilise ce don, il subit un malus de -2 à la [[CA]] jusqu’à son prochain tour.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise Enchaînement ou [Succession d’enchaînements](./Succession denchaînements.md), il peut dépenser 4 points d’endurance pour annuler le malus de –2 à la [CA](./CA.md) jusqu’à son prochain tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise Enchaînement ou [[Succession denchaînements|Succession d’enchaînements]], il peut dépenser 4 points d’endurance pour annuler le malus de –2 à la [[CA]] jusqu’à son prochain tour.
 
 {s:CMy}
 ### Version mythique
@@ -33,4 +33,4 @@ Quand le personnage utilise Enchaînement ou [Succession d’enchaînements](./S
 
 **Condition.** Enchaînement
 
-**Avantage.** Lorsqu’il utilise Enchaînement ou [Succession d’enchaînements](./Succession denchaînements.md), l’une des attaques du personnage peut cibler un adversaire situé à portée, mais pas forcément adjacent à celui qu’il a attaqué. Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) quand il utilise Enchaînement ou Succession d’enchaînements pour continuer à effectuer des attaques contre les adversaires à portée, quelle que soit leur position, tant qu’il parvient à les toucher. Il ne peut utiliser cette aptitude pour attaquer un adversaire plus d’une fois par round.
+**Avantage.** Lorsqu’il utilise Enchaînement ou [[Succession denchaînements|Succession d’enchaînements]], l’une des attaques du personnage peut cibler un adversaire situé à portée, mais pas forcément adjacent à celui qu’il a attaqué. Il peut dépenser une utilisation de [[pouvoir mythique]] quand il utilise Enchaînement ou Succession d’enchaînements pour continuer à effectuer des attaques contre les adversaires à portée, quelle que soit leur position, tant qu’il parvient à les toucher. Il ne peut utiliser cette aptitude pour attaquer un adversaire plus d’une fois par round.

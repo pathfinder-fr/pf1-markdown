@@ -13,28 +13,28 @@ Categories:
 {s:pucem|Vermine|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.51*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Vermine](./type Vermine.md) ([aquatique](./sous-type aquatique.md)) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type aquatique|aquatique]]) de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 11, pris au dépourvu 15 (Dex +1, naturelle +5)}
 {s:BDTexte|**pv** 19 (3d8+6)}
 {s:BDTexte|**Réf** +2, **Vig** +5, **Vol** +1}
-{s:BDTexte|**[Immunités](./Immunité (capacité).md)** effets mentaux }
+{s:BDTexte|**[[Immunité (capacité)|Immunités]]** effets mentaux }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** 2 griffes +4 (1d4+2 et [étreinte](./Étreinte.md))}
-{s:BDTexte|**Attaques spéciales** [Constriction](./Constriction (capacité).md) (1d4+2)}
+{s:BDTexte|**Corps à corps** 2 griffes +4 (1d4+2 et [[étreinte]])}
+{s:BDTexte|**Attaques spéciales** [[Constriction (capacité)|Constriction]] (1d4+2)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 13, **Con** 14, **Int** -, **Sag** 10, **Cha** 2}
-{s:BDTexte|**BBA** +2, **BMO** +4 (+8 [lutte](./lutte.md)), **DMD** 15 (27 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +10, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** [Perception](./Perception.md) +4}
+{s:BDTexte|**BBA** +2, **BMO** +4 (+8 [[lutte]]), **DMD** 15 (27 contre [[croc-en-jambe]])}
+{s:BDTexte|**Compétences** [[Natation]] +10, [[Perception]] +4 ; **Modificateurs raciaux** [[Perception]] +4}
 {s:BDTexte|**Particularités** besoin d'eau}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** milieu aquatique}
 {s:BDTexte|**Organisation sociale** solitaire ou assemblée (2-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Besoin d'eau (Ext)** Les crabes géants peuvent survivre hors de l'eau une heure par point de [Constitution](./Constitution.md). Au-delà de cette limite, ils courent le risque de suffoquer, comme s'ils se noyaient.}
+{s:BDTexte|**Besoin d'eau (Ext)** Les crabes géants peuvent survivre hors de l'eau une heure par point de [[Constitution]]. Au-delà de cette limite, ils courent le risque de suffoquer, comme s'ils se noyaient.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -42,15 +42,15 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Crabe royal](./Crabe royal.md) || 1/4
+| Familier, [[Crabe royal]] || 1/4
 |-
-| [Crabe géant](./Crabe géant.md) || 2
+| [[Crabe géant]] || 2
 |-
-| [Crabe mangeur de requins](./Crabe mangeur de requins.md) || 7
+| [[Crabe mangeur de requins]] || 7
 |-
-| [Crabe naufrageur](./Crabe naufrageur.md) || 13
+| [[Crabe naufrageur]] || 13
 |-
-| [Nuée de crabes](./Nuée de crabes.md) || 4
+| [[Nuée de crabes]] || 4
 |}
 </div>*Ce large crabe à la carapace robuste fait la taille d’un nain. Ses pinces gigantesques balaient l’air d’une manière menaçante.*
 
@@ -91,8 +91,8 @@ sont reprises dans la table ci-dessous :
 |}</center>
 
 #### Le crabe géant comme compagnon animal
-**Caractéristiques de départ.** **Taille P** ; **Vitesse** 9 m (6 {s:c}), nage 6 m (4 {s:c}) ; **Attaque** 2 pinces (1d3 plus [étreinte](./Étreinte.md)) ; **Attaque spéciale** [constriction](./constriction.md) (1d3) ; **Particularités** [aquatique](./sous-type aquatique.md), dépendant de l’eau (peut survivre hors de l’eau pendant 1 heure par point de Constitution, ensuite, il suffoque, comme s’il se noyait), [vision dans le noir](./vision dans le noir.md) ; **DMD** croc-en-jambe +12 ; **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 14, [Con](./Constitution.md) 13, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 11, [Cha](./Charisme.md) 4 ; **CA** armure naturelle +5
+**Caractéristiques de départ.** **Taille P** ; **Vitesse** 9 m (6 {s:c}), nage 6 m (4 {s:c}) ; **Attaque** 2 pinces (1d3 plus [[étreinte]]) ; **Attaque spéciale** [[constriction]] (1d3) ; **Particularités** [[sous-type aquatique|aquatique]], dépendant de l’eau (peut survivre hors de l’eau pendant 1 heure par point de Constitution, ensuite, il suffoque, comme s’il se noyait), [[vision dans le noir]] ; **DMD** croc-en-jambe +12 ; **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 14, [[Constitution|Con]] 13, [[Intelligence|Int]] –, [[Sagesse|Sag]] 11, [[Charisme|Cha]] 4 ; **CA** armure naturelle +5
 
-**Développement au niveau 4.** **Taille** M ; **Attaque** 2 pinces (1d4 plus [étreinte](./Étreinte.md)) ; **Attaque spéciale** [constriction](./constriction.md) (1d4) ; **Caractéristiques** For +2, Dex -2, Con +2
+**Développement au niveau 4.** **Taille** M ; **Attaque** 2 pinces (1d4 plus [[étreinte]]) ; **Attaque spéciale** [[constriction]] (1d4) ; **Caractéristiques** For +2, Dex -2, Con +2
 </div>
 </td></tr></table>

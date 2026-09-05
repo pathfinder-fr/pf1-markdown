@@ -4,9 +4,9 @@ Title: Perdu dans le labyrinthe
 LastModified: 2020-12-30 22:58
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 Les labyrinthes sont souvent pile-poil l'élément qui convient à une histoire, mais ils sont rarement amusants dans un jeu de rôle. L'impression d'être perdu et de ne pas savoir dans quelle direction aller est en grande partie dissipée lorsque les joueurs rassemblés autour de la table peuvent voir une carte en vue du dessus. Voici une méthode facile pour inclure une expérience similaire à un labyrinthe dans vos parties.
 

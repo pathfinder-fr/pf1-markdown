@@ -10,26 +10,26 @@ Categories:
 <div class="BD">
 {s:BDTitre|Vautour fiélon|FP 1}
 {s:pucem|Extérieur|Plaines|Extraplanaire}
-{s:BDTexte|*Source : Bestiaire* [Vautour](./../Pathfinder-RPG/Vautour.md) et [archetype fiélon](./../Pathfinder-RPG/Archétypes.md#Créature_fiélon_FP_+A_ou_+B_4)}
+{s:BDTexte|*Source : Bestiaire* [[Pathfinder-RPG.Vautour|Vautour]] et [[Pathfinder-RPG.Archétypes#Créature_fiélon_FP_+A_ou_+B_4|archetype fiélon]]}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Extérieur](./../Pathfinder-RPG/type Extérieur.md) ([extraplanaire](./../Pathfinder-RPG/sous-type extraplanaire.md), [Mal](./../Pathfinder-RPG/sous-type Mal.md)) de taille P, NM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./../Pathfinder-RPG/vision nocturne.md), [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m , [odorat](./../Pathfinder-RPG/Odorat (capacité).md) ; [Perception](./../Pathfinder-RPG/Perception.md) +9}
+{s:BDTexte|[[Pathfinder-RPG.type Extérieur|Extérieur]] ([[Pathfinder-RPG.sous-type Extraplanaire|extraplanaire]], [[Pathfinder-RPG.sous-type Mal|Mal]]) de taille P, NM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Pathfinder-RPG.vision nocturne|vision nocturne]], [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18 m , [[Pathfinder-RPG.odorat (capacité)|odorat]] ; [[Pathfinder-RPG.Perception|Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 12, pris au dépourvu 12 (Dex +1, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 6 (1d8+2)}
-{s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +1 ; +4 contre les [maladies](./../Pathfinder-RPG/Maladies.md)}
+{s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +1 ; +4 contre les [[Pathfinder-RPG.maladies|maladies]]}
 {s:BDTexte|**résistances** feu 5, froid 5}
 {s:BDTexte|**RM** 6}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m, vol 15 m (moyenne)}
 {s:BDTexte|**Corps à corps** morsure, +2 (1d6+1)}
-{s:BDTexte|**Attaques spéciales** : *châtiment du Bien* (1/jour) par une [action rapide](./../Pathfinder-RPG/Action rapide.md) (ajouter un bonus de +1 aux [dégâts](./../Pathfinder-RPG/jet de dégâts.md) contre une cible d’alignement bon ; le châtiment du Bien persiste jusqu’à ce que la cible soit morte ou que la créature se repose).}
+{s:BDTexte|**Attaques spéciales** : *châtiment du Bien* (1/jour) par une [[Pathfinder-RPG.action rapide|action rapide]] (ajouter un bonus de +1 aux [[Pathfinder-RPG.jet de dégâts|dégâts]] contre une cible d’alignement bon ; le châtiment du Bien persiste jusqu’à ce que la cible soit morte ou que la créature se repose).}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 13, **Con** 14, **Int** 2, **Sag** 13, **Cha** 7}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 11}
-{s:BDTexte|**Dons** [Vigueur surhumaine](./../Pathfinder-RPG/Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Perception](./../Pathfinder-RPG/Perception.md) +9, [Vol](./../Pathfinder-RPG/Vol.md) +7}
-{s:BDTexte|**Modificateur racial** +8 en [Perception](./../Pathfinder-RPG/Perception.md)}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Vigueur surhumaine|Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Perception|Perception]] +9, [[Pathfinder-RPG.Vol|Vol]] +7}
+{s:BDTexte|**Modificateur racial** +8 en [[Pathfinder-RPG.Perception|Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines ou plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou volée (3-24)}

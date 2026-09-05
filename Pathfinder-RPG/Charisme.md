@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques#CHARISME
 ---
 
->>> [Caractéristiques#CHARISME](./Caractéristiques.md#CHARISME)
+>>> [[Caractéristiques#CHARISME]]

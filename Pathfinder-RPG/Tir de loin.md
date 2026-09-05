@@ -9,17 +9,17 @@ Categories:
 
 *Le personnage est plus précis quand il tire de loin.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Condition.** [Tir à bout portant](./Tir à bout portant.md).
+**Condition.** [[Tir à bout portant]].
 
-**Avantage.** Si le personnage utilise une arme à distance, il souffre seulement d’un malus de -1 par [facteur de portée](./facteur de portée.md) qui le sépare de sa cible.
+**Avantage.** Si le personnage utilise une arme à distance, il souffre seulement d’un malus de -1 par [[facteur de portée]] qui le sépare de sa cible.
 
-**Normal.** Le personnage souffre d’un malus de -2 par [facteur de portée](./facteur de portée.md) qui le sépare de sa cible.
+**Normal.** Le personnage souffre d’un malus de -2 par [[facteur de portée]] qui le sépare de sa cible.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage effectue une unique attaque à distance par une [action simple](./Action simple.md), il peut dépenser 5 points d’endurance pour ignorer tous les malus de distance lors de l’attaque.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage effectue une unique attaque à distance par une [[action simple]], il peut dépenser 5 points d’endurance pour ignorer tous les malus de distance lors de l’attaque.
 
 {s:CMy}
 ### Version mythique
@@ -27,4 +27,4 @@ Quand le personnage effectue une unique attaque à distance par une [action simp
 
 **Condition.** Tir de loin
 
-**Avantage.** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour ignorer tous les malus de facteur de portée lors des attaques à distance effectuées jusqu’à la fin de son tour.
+**Avantage.** Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour ignorer tous les malus de facteur de portée lors des attaques à distance effectuées jusqu’à la fin de son tour.

@@ -11,35 +11,35 @@ Categories:
 <div class="BD">
 {s:BDTitre|Kétesthius|FP 13}
 {s:pucem|Créature magique|Aquatique|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.160](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.160]]*}
 {s:BDTexte|**PX** 25 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille Gig, LM}
-{s:BDTexte|**Init** +11 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille Gig, LM}
+{s:BDTexte|**Init** +11 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 13, pris au dépourvu 24 (Dex +7, naturelle +15, taille -4)}
-{s:BDTexte|**pv** 200 (16d10+112) ; [régénération](./Régénération (capacité).md) 10 (feu ou acide)}
+{s:BDTexte|**pv** 200 (16d10+112) ; [[Régénération (capacité)|régénération]] 10 (feu ou acide)}
 {s:BDTexte|**Réf** +17, **Vig** +17, **Vol** +10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m, nage 12 m}
-{s:BDTexte|**Corps à corps** morsure, +22 (4d8+10/19-20 plus [étreinte](./Étreinte (capacité).md)) et 2 griffes, +22 (2d6+10/19-20)}
+{s:BDTexte|**Corps à corps** morsure, +22 (4d8+10/19-20 plus [[Étreinte (capacité)|étreinte]]) et 2 griffes, +22 (2d6+10/19-20)}
 {s:BDTexte|**Espace occupé** 6 m ; **Allonge** 4,5 m (6 m avec morsure)}
-{s:BDTexte|**Attaques spéciales** plus grand à l’intérieur, [engloutissement rapide](./Engloutissement rapide (capacité).md), étreinte (de taille Gig), [engloutissement](./Engloutissement (capacité).md) (voir le descriptif)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 13 ; [concentration](./concentration.md) +13)}
-{s:BDSorts|3/jour — *[bourrasque](./Bourrasque.md)*, *[brume de dissimulation](./Brume de dissimulation.md)*}
-{s:BDSorts|1/jour — *[contrôle du climat](./Contrôle du climat.md)*}
+{s:BDTexte|**Attaques spéciales** plus grand à l’intérieur, [[Engloutissement rapide (capacité)|engloutissement rapide]], étreinte (de taille Gig), [[Engloutissement (capacité)|engloutissement]] (voir le descriptif)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 13 ; [[concentration]] +13)}
+{s:BDSorts|3/jour — *[[bourrasque]]*, *[[brume de dissimulation]]*}
+{s:BDSorts|1/jour — *[[contrôle du climat]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 30, **Dex** 25, **Con** 24, **Int** 5, **Sag** 16, **Cha** 11}
-{s:BDTexte|**BBA** +16 ; **BMO** +30 (+34 en [lutte](./lutte.md)) ; **DMD** 47}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Fente](./Fente.md), [Science du critique](./Science du critique.md) (griffes), [Science du critique](./Science du critique.md) (morsure), [Science de l'initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +29, [Perception](./Perception.md) +14}
+{s:BDTexte|**BBA** +16 ; **BMO** +30 (+34 en [[lutte]]) ; **DMD** 47}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Critique ralentissant]], [[Don pour les critiques]], [[Fente]], [[Science du critique]] (griffes), [[Science du critique]] (morsure), [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Natation]] +29, [[Perception]] +14}
 {s:BDTexte|**Langues** commun (incapable de parler)}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie (capacité).md)}
+{s:BDTexte|**Particularités** [[Amphibie (capacité)|amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous les océans ou les côtes}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** double}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Plus grand à l’intérieur (Sur).** L’estomac d’un kétesthius est un espace extradimensionnel, qui s’avère bien plus grand que la taille de la créature ne devrait le permettre. Un kétesthius peut avaler n’importe quelle créature de taille Gig ou plus petite. Son estomac caverneux se trouve dans un lieu tout autre que son enveloppe physique et sa taille peut varier énormément d’un kétesthius à l’autre. Les créatures avalées par un kétesthius ne sont pas considérées comme [agrippées](./Agrippé.md) et ne subissent pas de dégâts à chaque tour. Les dégâts qu’elles peuvent faire aux parois de l’estomac du kétesthius ne le blessent pas et ne leur permettent pas de s’échapper. Les créatures prisonnières de l’estomac d’un kétesthius ne peuvent généralement s’échapper que par une magie qui leur permet de se téléporter d’un plan à l’autre, ou si le kétesthius qui les a avalées est tué ou rendu [nauséeux](./Nauséeux.md) par une cause extérieure. Conséquence de son anatomie inhabituelle et de son énorme appétit, il arrive souvent que d’autres monstres vivent dans l’estomac d’un kétesthius et ceux-ci se nourrissent à la tour des proies avalées par leur hôte. Un kétesthius accueille généralement un à quatre monstres de [FP](./FP.md) 8-9 dans son système digestif. Il s’agit à l’ordinaire de [requins sanguinaires](./Requin sanguinaire.md), de [crocodiles sanguinaires](./Crocodile sanguinaire.md), de [pieuvres géantes](./Pieuvre géante.md) ou de [calmars géants](./Calmar géant.md), mais parfois aussi de géants ou d’autres créatures terrestres. Il peut aussi arriver, en de rares occasions, qu’un kétesthius avale un de ses congénères.}
+{s:BDTexte|**Plus grand à l’intérieur (Sur).** L’estomac d’un kétesthius est un espace extradimensionnel, qui s’avère bien plus grand que la taille de la créature ne devrait le permettre. Un kétesthius peut avaler n’importe quelle créature de taille Gig ou plus petite. Son estomac caverneux se trouve dans un lieu tout autre que son enveloppe physique et sa taille peut varier énormément d’un kétesthius à l’autre. Les créatures avalées par un kétesthius ne sont pas considérées comme [[agrippé|agrippées]] et ne subissent pas de dégâts à chaque tour. Les dégâts qu’elles peuvent faire aux parois de l’estomac du kétesthius ne le blessent pas et ne leur permettent pas de s’échapper. Les créatures prisonnières de l’estomac d’un kétesthius ne peuvent généralement s’échapper que par une magie qui leur permet de se téléporter d’un plan à l’autre, ou si le kétesthius qui les a avalées est tué ou rendu [[nauséeux]] par une cause extérieure. Conséquence de son anatomie inhabituelle et de son énorme appétit, il arrive souvent que d’autres monstres vivent dans l’estomac d’un kétesthius et ceux-ci se nourrissent à la tour des proies avalées par leur hôte. Un kétesthius accueille généralement un à quatre monstres de [[FP]] 8-9 dans son système digestif. Il s’agit à l’ordinaire de [[Requin sanguinaire|requins sanguinaires]], de [[Crocodile sanguinaire|crocodiles sanguinaires]], de [[Pieuvre géante|pieuvres géantes]] ou de [[Calmar géant|calmars géants]], mais parfois aussi de géants ou d’autres créatures terrestres. Il peut aussi arriver, en de rares occasions, qu’un kétesthius avale un de ses congénères.}
 
 </div></td>
 <td><div>*La gueule de cet énorme serpent de mer à tête de loup semble s’ouvrir sur un vide sans fin.*

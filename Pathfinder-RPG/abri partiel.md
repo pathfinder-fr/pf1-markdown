@@ -7,4 +7,4 @@ Categories:
 RedirectTo: ABRI#ABRIPARTIEL
 ---
 
->>> [ABRI#ABRIPARTIEL](./abri.md#ABRIPARTIEL)
+>>> [[ABRI#ABRIPARTIEL]]

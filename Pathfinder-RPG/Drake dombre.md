@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Dragon|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 86*}
 - **600 PX**
-- [Dragon](./type Dragon.md) (froid) de taille TP, CM
+- [[type dragon|Dragon]] (froid) de taille TP, CM
 - **Init **+5 ; **Sens **vision dans le noir 18 m, vision nocturne ; Perception +7
 (((Défense)))
 - **CA** 18, contact 17, pris au dépourvu 13 (Dex +5, naturelle +1, taille +2)
@@ -29,8 +29,8 @@ Categories:
 (((Statistiques)))
 - **For **9, **Dex** 20, **Con **12, **Int **11, **Sag **12, **Cha **16
 - **BBA **+3 ; **BMO **+6 ; **DMD **15
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [Attaque en vol](./Attaque en vol.md)
-- **Compétences **[Acrobaties](./Acrobaties.md) +8 (+4 pour sauter), [Discrétion](./Discrétion.md) +19, [Escamotage](./Escamotage.md) +8, [Perception](./Perception.md) +7, [Sabotage](./Sabotage.md) +8, [Vol](./Vol.md) +23 ; **Modificateurs raciaux** -4 en Acrobaties pour sauter
+- **Dons **[[Attaque en finesse]], [[Attaque en vol]]
+- **Compétences **[[Acrobaties]] +8 (+4 pour sauter), [[Discrétion]] +19, [[Escamotage]] +8, [[Perception]] +7, [[Sabotage]] +8, [[Vol]] +23 ; **Modificateurs raciaux** -4 en Acrobaties pour sauter
 - **Langues **commun, draconique
 - **Particularités **accélération soudaine
 (((Écologie)))
@@ -43,7 +43,7 @@ Categories:
 - **Souffle stygien (Sur)**. Par une action simple, le drake d’ombre peut cracher une boule de liquide noir qui explose à l’impact et se répand en une nappe de brume noire et glacée. Cette attaque a une portée de 18 mètres et inflige 2d6 points de dégâts de froid à toutes les créatures qui se trouvent dans une étendue de 1,50 mètre de rayon (Réflexes DD 12, 1/2 dégâts). La brume éteint toutes les lumières dans la zone d’effet, en étouffant les sources de lumière naturelle et en dissipant les sorts de lumière de niveau 1 ou moins. Une fois que le drake d’ombre a utilisé son souffle stygien, il ne peut pas recommencer avant 1d6 rounds. Le DD du jet de sauvegarde est basé sur la Constitution.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [drakes](./Drake.md).***</li></ul>*Cette créature ressemble à un petit dragon avec des écailles charbonneuses et des ailes sombres.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Drake|drakes]].***</li></ul>*Cette créature ressemble à un petit dragon avec des écailles charbonneuses et des ailes sombres.*
 
 Les drakes d’ombres sont malicieux et avares. Ils utilisent souvent leur queue effilée comme un troisième membre, pour attraper de petits objets. Il leur arrive même de l’utiliser pour ouvrir des serrures ou pour chiper les babioles qui leur font envie. Comme ils sont petits et rapides, ce sont des voleurs et des pickpockets accomplis.
 

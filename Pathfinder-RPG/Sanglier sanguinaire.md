@@ -13,21 +13,21 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.253*}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +4 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 9, pris au dépourvu 15 (naturelle +6, taille -1)}
 {s:BDTexte|**pv** 42 (5d8+20)}
 {s:BDTexte|**Réf** +4, **Vig** +7, **Vol** +2}
-{s:BDTexte|**Capacités défensives** [férocité](./Férocité.md) }
+{s:BDTexte|**Capacités défensives** [[férocité]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** défenses +8 (2d6+9)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 10, **Con** 17, **Int** 2, **Sag** 13, **Cha** 8}
 {s:BDTexte|**BBA** +3, **BMO** +10, **DMD** 20}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +12}
+{s:BDTexte|**Dons** [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +12}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées ou tropicales}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou harde (3-8)}
@@ -40,9 +40,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Sanglier](./Sanglier.md) || 2
+| [[Sanglier]] || 2
 |-
-| [Sanglier sanguinaire](./Sanglier sanguinaire.md) || 4
+| [[Sanglier sanguinaire]] || 4
 |}
 </div>''Le dos de ce grand sanglier forme une crête acérée. Ses yeux sont entourés
 de saletés et ses flancs hirsutes, de centaines de mouches.''
@@ -79,9 +79,9 @@ approximativement 1 000 kg.
 
 #### Le dæodon comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** défenses (1d8) ; **Caractéristiques** For 14, Dex 14, Con 13, Int 2, Sag 13, Cha 7 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** défenses (1d8) ; **Caractéristiques** For 14, Dex 14, Con 13, Int 2, Sag 13, Cha 7 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** défenses (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** [férocité](./Férocité.md).
+**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** défenses (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** [[férocité]].
 
 *<u>Note :</u> le dæodon en tant que compagnon animal (ou monture) n'étant accessible qu'aux orques et demi-orques, ses caractéristiques en tant que tel n'ont donc pas été affichées à la base. Heureusement on peut les trouver dans d'autres suppléments.*
 </div></td></tr></table>

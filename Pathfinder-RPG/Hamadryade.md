@@ -10,7 +10,7 @@ LastModified: 2017-03-19 11:21
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 142*}
 - **51 200 PX**
-- [Créature féerique](./type Fée.md) de taille M, CB
+- [[type fée|Créature féerique]] de taille M, CB
 - **Init** +6 ; **Sens **vision nocturne ; Perception +31
 (((Défense)))
 - **CA **29, contact 17, pris au dépourvu 22 (Dex +6, esquive +1, naturelle +12)
@@ -22,21 +22,21 @@ LastModified: 2017-03-19 11:21
 - **Corps à corps** dague de maître, +16/+11 (1d4+5/19-20)
 - **À distance** arc long composite de rapidité +2, +18/+18/+13 (1d8+7/x3)
 - **Pouvoirs magiques** (**NLS **20 ; concentration +26)
-  - *Constant* — [communication avec les animaux](./Communication avec les animaux.md), [communication avec les plantes](./Communication avec les plantes.md)
-  - *À volonté* — [enchevêtrement](./Enchevêtrement.md) (DD 17), [immobilisation d’animal](./Immobilisation danimal.md) (DD 18), [façonnage du bois](./Façonnage du bois.md) (5 kg uniquement), [forme d’arbre](./Forme darbre.md), [rouille](./Rouille.md)
-  - *5/jour* — [charme-monstre](./Charme-monstre.md) (DD 20), [charme-personne](./Charme-personne.md) (DD 17), [communication à distance](./Communication à distance.md) (avec les dryades uniquement), [confusion](./Confusion.md) (DD 19), [neutralisation du poison](./Neutralisation du poison.md), [sommeil profond](./Sommeil profond.md) (DD 19), [suggestion](./Suggestion.md) (DD 19), [voyage par les arbres](./Voyage par les arbres.md)
-  - *1/jour* — [appel de la tempête](./Appel de la tempête.md) (DD 21), [bâton sylvanien](./Bâton sylvanien.md), [chêne animé](./Chêne animé.md), [convocation d’alliés naturels VIII](./Convocation dalliés naturels VIII.md), [guérison suprême](./Guérison suprême.md), [héroïsme suprême](./Héroïsme suprême.md)
+  - *Constant* — [[communication avec les animaux]], [[communication avec les plantes]]
+  - *À volonté* — [[enchevêtrement]] (DD 17), [[immobilisation danimal|immobilisation d’animal]] (DD 18), [[façonnage du bois]] (5 kg uniquement), [[forme darbre|forme d’arbre]], [[rouille]]
+  - *5/jour* — [[charme-monstre]] (DD 20), [[charme-personne]] (DD 17), [[communication à distance]] (avec les dryades uniquement), [[confusion]] (DD 19), [[neutralisation du poison]], [[sommeil profond]] (DD 19), [[suggestion]] (DD 19), [[voyage par les arbres]]
+  - *1/jour* — [[appel de la tempête]] (DD 21), [[bâton sylvanien]], [[chêne animé]], [[convocation dalliés naturels VIII|convocation d’alliés naturels VIII]], [[guérison suprême]], [[héroïsme suprême]]
 (((Statistiques)))
 - **For **12, **Dex** 23, **Con **23, **Int **18, **Sag **19, **Cha **22
 - **BBA **+10 ; **BMO **+11 ; **DMD **28
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [Combat monté](./Combat monté.md), [Discret](./Discret.md), [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Robustesse](./Robustesse.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Vigilance](./Vigilance.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Art de la magie](./Art de la magie.md) +14, [Artisanat](./Artisanat.md) (bois) +12, [Bluff](./Bluff.md) +29, [Connaissances](./Connaissances.md) (géographie) +17, [Connaissances](./Connaissances.md) (nature) +27, [Connaissances](./Connaissances.md) (noblesse) +9, [Diplomatie](./Diplomatie.md) +29, [Discrétion](./Discrétion.md) +19, [Dressage](./Dressage.md) +16, [Équitation](./Équitation.md) +16, [Escalade](./Escalade.md) +14, [Évasion](./Évasion.md) +19,  [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +31, [Premiers secours](./Premiers secours.md) +9, [Psychologie](./Psychologie.md) +19, [Représentation](./Représentation.md) (une au choix) +19, [Survie](./Survie.md) +14 **Modificateurs raciaux** +8 en Artisanat (bois)
+- **Dons **[[Attaque en finesse]], [[Combat monté]], [[Discret]], [[Esquive]], [[Magie de guerre]], [[Robustesse]], [[Science de la volonté de fer]], [[Vigilance]], [[Vigueur surhumaine]], [[Volonté de fer]]
+- **Compétences **[[Art de la magie]] +14, [[Artisanat]] (bois) +12, [[Bluff]] +29, [[Connaissances]] (géographie) +17, [[Connaissances]] (nature) +27, [[Connaissances]] (noblesse) +9, [[Diplomatie]] +29, [[Discrétion]] +19, [[Dressage]] +16, [[Équitation]] +16, [[Escalade]] +14, [[Évasion]] +19,  [[Intimidation]] +16, [[Perception]] +31, [[Premiers secours]] +9, [[Psychologie]] +19, [[Représentation]] (une au choix) +19, [[Survie]] +14 **Modificateurs raciaux** +8 en Artisanat (bois)
 - **Langues **commun, elfique, sylvestre ; communication avec les animaux, communication avec les plantes, don des langues
 - **Particularités **magie druidique, fusion dans les arbres, empathie sauvage, travail du bois
 (((Écologie)))
 - **Environnement **forêts tempérées
 - **Organisation **cortège (1 plus 2-5 dryades) ou cour (1 plus 2-12 centaures, 2-12 dryades, 2-8 satyres et 1-2 sylvaniens)
-- **Trésor **triple (arc long composite de rapidité +2 [+5] avec 20 flèches, dague de maître, autre trésor)
+- **Trésor **triple (arc long composite de rapidité +2 [[+5]] avec 20 flèches, dague de maître, autre trésor)
 (((Pouvoirs spéciaux)))
 - **Fusion dans les arbres (Sur).** L’hamadryade peut fusionner avec n’importe quel arbre (comme fusion dans la pierre) et  demeurer ainsi aussi longtemps qu’elle le souhaite. 
 - **Magie druidique (Sur).** L’hamadryade peut utiliser n’importe quel objet magique comme si elle était un druide de niveau 20.

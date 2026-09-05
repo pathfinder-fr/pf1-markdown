@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vous pouvez percer l’invisibilité avec les pouvoirs des objets de l’école de la divination.*
 
-**Catégorie :** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+**Catégorie :** [[dons#MAITRISEDOBJET|maîtrise d’objet]]
 
-**Conditions.** 2 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md), bonus de base de [Vigueur](./Vigueur.md) +4
+**Conditions.** 2 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]], bonus de base de [[Vigueur]] +4
 
-**Avantages.** Le personnage peut lancer soit *[vision dans le noir](./sort Vision dans le noir.md)* soit *[détection de l'invisibilité](./Détection de linvisibilité.md)* à partir d’un objet dont l’une des conditions de fabrication est un sort de divination de niveau 3 ou supérieur. Le personnage peut utiliser ce don une fois par jour et une fois supplémentaire lorsque son bonus de base de [Vigueur](./Vigueur.md) atteint +6, +8, +10 et +12.
+**Avantages.** Le personnage peut lancer soit *[[sort Vision dans le noir|vision dans le noir]]* soit *[[détection de linvisibilité|détection de l'invisibilité]]* à partir d’un objet dont l’une des conditions de fabrication est un sort de divination de niveau 3 ou supérieur. Le personnage peut utiliser ce don une fois par jour et une fois supplémentaire lorsque son bonus de base de [[Vigueur]] atteint +6, +8, +10 et +12.

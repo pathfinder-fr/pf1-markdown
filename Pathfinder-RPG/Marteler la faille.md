@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage s’acharne à frapper au même endroit pour augmenter ses dégâts. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** [BBA](./BBA.md) +6
+**Condition.** [[BBA]] +6
 
-**Avantage.** Quand le personnage fait une [attaque à outrance](./attaque à outrance.md), chaque coup qui touche le même adversaire inflige un montant de dégâts supplémentaires égal au nombre de coups que le personnage a déjà porté à cette cible au cours de ce tour. On multiplie ces dégâts en cas de [coup critique](./coup critique.md).
+**Avantage.** Quand le personnage fait une [[attaque à outrance]], chaque coup qui touche le même adversaire inflige un montant de dégâts supplémentaires égal au nombre de coups que le personnage a déjà porté à cette cible au cours de ce tour. On multiplie ces dégâts en cas de [[coup critique]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Quand le personnage utilise ce don, il peut dépenser 5 points d’endurance pour augmenter le nombre de points de dégâts supplémentaires de 1 par attaque qui touche consécutivement.

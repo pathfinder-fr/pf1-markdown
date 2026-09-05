@@ -16,7 +16,7 @@ Avant d’initier le processus de création, il est conseillé d’imaginer un c
 
 Prenons par exemple la classe du barbare. Le nom en lui-même porte un certain nombre de connotations historiques et fantastiques ; on s’imagine un combattant féroce qui entre dans une rage folle. Maintenant, comparez ce concept à celui du rôdeur. Ces deux types de personnages sont des experts en matière de combat, mais le rôdeur se focalise davantage sur la survie en pleine nature, la traque des ennemis et les missions de reconnaissance dans les régions inexplorées. Lorsque vous déterminez le concept de votre classe, essayez de trouver des moyens similaires d’en définir les particularités.
 
-Si le concept de la classe que vous souhaitez créer est très proche de celui d’une classe existante, à quelques différences près, peut-être vaudrait-il mieux envisager de créer un archétype (voir [Création d’un archétype](./Création dun archétype.md)).
+Si le concept de la classe que vous souhaitez créer est très proche de celui d’une classe existante, à quelques différences près, peut-être vaudrait-il mieux envisager de créer un archétype (voir [[Création dun archétype|Création d’un archétype]]).
 
 ##### Place des règles
 En plus de se définir par un concept évocateur, chaque classe devrait également occuper une place particulière dans les règles du jeu. Les règles qui s’appliquent à une nouvelle classe peuvent partager certaines similitudes avec celles d’une classe existante, mais chaque nouvelle classe devrait répondre à des règles qui la rendent unique et lui donnent des moyens d’influencer le jeu et son univers de façon inédite et intéressante. À vous de déterminer la manière dont cette classe pourra jouer son rôle sans se heurter aux règles d’une autre. Si les règles sont trop semblables, il est fort probable que vous soyez en train de créer une classe qui invalide (ou se trouve invalidée par) les principes mécaniques d’une classe existante et qu’elle soit, en conséquence, peu plaisante à jouer.
@@ -25,7 +25,7 @@ Par exemple, la classe de roublard se concentre sur la discrétion et sur les fr
 
 Il vaut donc mieux éviter de créer des règles de jeu qui permettent d’accomplir les mêmes actions de façon simplement différente.
 
-Lors de cette première étape de la création, le meilleur moyen d’éviter cet écueil est de veiller à ce que l’objectif global des règles de votre concept soit suffisamment distinct de ceux des autres classes. Si les règles de la classe que vous êtes en train de créer sont trop semblables à celles d’une autre, peut-être devriez-vous envisager de [créer un archétype](./Création dun archétype.md) à la place.
+Lors de cette première étape de la création, le meilleur moyen d’éviter cet écueil est de veiller à ce que l’objectif global des règles de votre concept soit suffisamment distinct de ceux des autres classes. Si les règles de la classe que vous êtes en train de créer sont trop semblables à celles d’une autre, peut-être devriez-vous envisager de [[Création dun archétype|créer un archétype]] à la place.
 
 ##### Vérification du concept
 Une fois que vous avez décidé d’un concept de base et d’un espace de règles pour votre classe, comparez-la aux autres classes du jeu. Avant d’aborder les autres étapes de la création de classe, qui sont beaucoup plus longues, veillez bien à ce que votre classe s’inscrive en harmonie avec les autres classes du jeu. Voici quelques questions que vous devriez vous poser :

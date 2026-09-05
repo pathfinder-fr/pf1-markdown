@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Merrow#EAUDEMER
 ---
 
->>> [Merrow#EAUDEMER](./Merrow.md#EAUDEMER)
+>>> [[Merrow#EAUDEMER]]

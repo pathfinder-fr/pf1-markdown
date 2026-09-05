@@ -11,32 +11,32 @@ Categories:
 <div class="BD">
 {s:BDTitre|Vase d'œil de guenaude|FP 3}
 {s:pucem|Vase|Marais|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.276](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.276]]*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Vase](./type Vase.md) de taille P, N}
-{s:BDTexte|**Init** -5 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) à 18 m ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] de taille P, N}
+{s:BDTexte|**Init** -5 ; **Sens** [[Vision aveugle (capacité)|vision aveugle]] à 18 m ; [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 6, contact 6, pris au dépourvu 6 (Dex -5, taille +1)}
 {s:BDTexte|**pv** 38 (4d8+20)}
 {s:BDTexte|**Réf** -4, **Vig** +6, **Vol** -4}
-{s:BDTexte|**Immunités** acide, froid, [traits des vases](./Traits des vases (capacité).md) ; **Résistances** feu 5}
+{s:BDTexte|**Immunités** acide, froid, [[Traits des vases (capacité)|traits des vases]] ; **Résistances** feu 5}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m, escalade 6 m}
-{s:BDTexte|**Corps à corps** coup, +8 (1d6+6 plus [paralysie](./Paralysie (capacité).md))}
-{s:BDTexte|**Attaques spéciales** [paralysie](./Paralysie (capacité).md) (1d4 rounds, DD 17), canalisation des sorts}
+{s:BDTexte|**Corps à corps** coup, +8 (1d6+6 plus [[Paralysie (capacité)|paralysie]])}
+{s:BDTexte|**Attaques spéciales** [[Paralysie (capacité)|paralysie]] (1d4 rounds, DD 17), canalisation des sorts}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 1, **Con** 20, **Int** —, **Sag** 1, **Cha** 1}
 {s:BDTexte|**BBA** +3 ; **BMO** +6 ; **DMD** 11 (croc-en-jambe impossible)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +10}
+{s:BDTexte|**Compétences** [[Escalade]] +10}
 {s:BDTexte|**Particularités** effet de ventouse, transparence}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrains ou marais tempérés}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Canalisation des sorts (Sur).** Une guenaude qui crée une vase d’œil de guenaude peut voir par l’intermédiaire de l’oeil enchâssé dans la vase comme s’il s’agissait du sien. Pour pouvoir utiliser cette capacité, la guenaude et la vase d’œil de guenaude doivent se trouver sur le même plan. Si la guenaude qui a créé la vase d’œil de guenaude fait partie d’un cercle, les sorts suivants ont 5 % de chances par [niveau du lanceur de sorts](./NLS.md) de pouvoir être lancés par l’intermédiaire de la vase d’œil de guenaude : *[détection du Bien](./Détection du Bien.md)*, *[détection du Chaos](./Détection du Chaos.md)*, *[détection de la Loi](./Détection de la Loi.md)*, *[détection du Mal](./Détection du Mal.md)*, *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[message](./Message.md)* et *[don des langues](./Don des langues.md)*. Si la créature qui contrôle la vase d’œil de guenaude n’est pas une guenaude, elle ne peut pas voir ou lancer de sorts par son intermédiaire.}
-{s:BDTexte|**Effet de ventouse (Ext).** Une vase d’œil de guenaude peut créer un puissant effet de ventouse sur toutes les surfaces sur lesquelles elle se trouve, ce qui lui permet d’adhérer facilement à des murs ou au plafond. Elle peut provoquer ou stopper cet effet de ventouse par une [action rapide](./Action rapide.md) et, tant qu’elle utilise l’effet ventouse, elle ne se déplace qu’à la moitié de sa vitesse. Grâce à l’effet de ventouse, une vase d’œil de guenaude gagne un bonus +10 en [DMD](./DMD.md) pour résister aux tentatives de [bousculade](./bousculade.md), de [coups fabuleux](./Coup fabuleux.md) et de toute autre attaque ou effet qui a pour objectif de la faire se déplacer physiquement.}
-{s:BDTexte|**Transparence (Ext).** Une vase d’œil de guenaude est difficilement repérable dans la plupart des environnements. Pour arriver à la remarquer, il faut réussir un test de [Perception](./Perception.md) DD 20. Une créature qui ne remarque pas une vase d’œil de guenaude et marche dessus subit automatiquement des dégâts comme si elle avait été frappée par l’attaque de coup du monstre.}
+{s:BDTexte|**Canalisation des sorts (Sur).** Une guenaude qui crée une vase d’œil de guenaude peut voir par l’intermédiaire de l’oeil enchâssé dans la vase comme s’il s’agissait du sien. Pour pouvoir utiliser cette capacité, la guenaude et la vase d’œil de guenaude doivent se trouver sur le même plan. Si la guenaude qui a créé la vase d’œil de guenaude fait partie d’un cercle, les sorts suivants ont 5 % de chances par [[NLS|niveau du lanceur de sorts]] de pouvoir être lancés par l’intermédiaire de la vase d’œil de guenaude : *[[détection du Bien]]*, *[[détection du Chaos]]*, *[[détection de la Loi]]*, *[[détection du Mal]]*, *[[détection de la magie]]*, *[[lecture de la magie]]*, *[[message]]* et *[[don des langues]]*. Si la créature qui contrôle la vase d’œil de guenaude n’est pas une guenaude, elle ne peut pas voir ou lancer de sorts par son intermédiaire.}
+{s:BDTexte|**Effet de ventouse (Ext).** Une vase d’œil de guenaude peut créer un puissant effet de ventouse sur toutes les surfaces sur lesquelles elle se trouve, ce qui lui permet d’adhérer facilement à des murs ou au plafond. Elle peut provoquer ou stopper cet effet de ventouse par une [[action rapide]] et, tant qu’elle utilise l’effet ventouse, elle ne se déplace qu’à la moitié de sa vitesse. Grâce à l’effet de ventouse, une vase d’œil de guenaude gagne un bonus +10 en [[DMD]] pour résister aux tentatives de [[bousculade]], de [[COup fabuleux|coups fabuleux]] et de toute autre attaque ou effet qui a pour objectif de la faire se déplacer physiquement.}
+{s:BDTexte|**Transparence (Ext).** Une vase d’œil de guenaude est difficilement repérable dans la plupart des environnements. Pour arriver à la remarquer, il faut réussir un test de [[Perception]] DD 20. Une créature qui ne remarque pas une vase d’œil de guenaude et marche dessus subit automatiquement des dégâts comme si elle avait été frappée par l’attaque de coup du monstre.}
 
 </div></td>
 <td><div>*Un œil unique perdu au milieu d’une masse informe vous regarde fixement alors qu’un pseudopode transparent s’en extrait et se dirige vers vous.*

@@ -12,20 +12,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[langage](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 4, [Inq](./Inquisiteur.md) 5, [Pal](./Paladin.md) 4  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|langage]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 4, [[Inquisiteur|Inq]] 5, [[Paladin|Pal]] 4  
 
-**Temps d’incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d’incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-Cette litanie accentue la douleur des coups que l’adversaire reçoit. Toute créature qui touche la cible avec une attaque gagne un bonus de sainteté ou de malfaisance (selon l’[alignement](./Alignement.md) du lanceur de sorts) de +5 aux dégâts.
+Cette litanie accentue la douleur des coups que l’adversaire reçoit. Toute créature qui touche la cible avec une attaque gagne un bonus de sainteté ou de malfaisance (selon l’[[alignement]] du lanceur de sorts) de +5 aux dégâts.
 
 La cible affectée par ce sort ne peut pas bénéficier des effets d’un autre sort de litanie.

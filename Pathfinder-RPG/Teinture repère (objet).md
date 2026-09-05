@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 15 po ; **Poids** 0,5 kg ; **DD d'Artisanat (alchimie)** 15
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Cette teinture (existant en plusieurs couleurs) crée une tache visible où qu’elle soit versée. Il est impossible de la nettoyer pendant les 72 premières heures (mais on peut l’effacer par magie) mais elle s’estompe complètement au bout de 2 semaines. Le personnage peut l’utiliser comme une [arme à aspersion](./arme à aspersion.md).
+Cette teinture (existant en plusieurs couleurs) crée une tache visible où qu’elle soit versée. Il est impossible de la nettoyer pendant les 72 premières heures (mais on peut l’effacer par magie) mais elle s’estompe complètement au bout de 2 semaines. Le personnage peut l’utiliser comme une [[arme à aspersion]].

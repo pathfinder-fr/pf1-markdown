@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Protectioncontrelélectricité
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Protectioncontrelélectricité](./Descriptions individuelles des propriétés spéciales des armes.md#Protectioncontrelélectricité)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Protectioncontrelélectricité]]

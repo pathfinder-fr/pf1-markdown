@@ -10,7 +10,7 @@ LastModified: 2017-06-10 07:29
 {s:pucem|Fée|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 58*}
 - **400 PX**
-- [Fée](./type Fée.md) ([métamorphe](./sous-type métamorphe.md)) de taille M, CB
+- [[type fée|Fée]] ([[sous-type métamorphe|métamorphe]]) de taille M, CB
 - **Init **+5 ; **Sens **vision nocturne ; Perception +14
 (((Défense)))
 - **CA **20, contact 15, pris au dépourvu 15 (armure +4, Dex +4, esquive +1, naturelle +1)
@@ -27,8 +27,8 @@ LastModified: 2017-06-10 07:29
 (((Statistiques)))
 - **For **13, **Dex **20, **Con **15, **Int **10, **Sag **12, **Cha **15
 - **BBA** +5 ; **BMO **+10 ; **DMD **22
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [Attaque en vol](./Attaque en vol.md), [Esquive](./Esquive.md), [Manoeuvres agiles](./Manoeuvres-agiles.md), [Talent](./Talent.md) (Perception)
-- **Compétences **[Acrobaties](./Acrobaties.md) +11, [Bluff](./Bluff.md) +10, [Connaissances](./Connaissances.md) (nature) +8, [Discrétion](./Discrétion.md) +20, [Perception](./Perception.md) +14, [Psychologie](./Psychologie.md) +9, [Vol](./Vol.md) +20 ; **Modificateurs raciaux** +4 en Discrétion Langues commun, sylvestre
+- **Dons **[[Attaque en finesse]], [[Attaque en vol]], [[Esquive]], [[Manoeuvres agiles]], [[Talent]] (Perception)
+- **Compétences **[[Acrobaties]] +11, [[Bluff]] +10, [[Connaissances]] (nature) +8, [[Discrétion]] +20, [[Perception]] +14, [[Psychologie]] +9, [[Vol]] +20 ; **Modificateurs raciaux** +4 en Discrétion Langues commun, sylvestre
 - **Particularités **changement de forme (cygne trompette, forme bestiale I), cape de plumes, absence de traces, rituel de transformation
 (((Écologie)))
 - **Environnement **marais ou lacs tempérés

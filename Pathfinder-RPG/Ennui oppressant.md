@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[émotion](./Registre.md), [mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Méd](./Médium.md) 2, [Psy](./Psychiste.md) 2  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ou jusqu'à ce qu'on le brise (voir texte)  
+**Durée** 1 [[round]]/[[niveau]] ou jusqu'à ce qu'on le brise (voir texte)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte); **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir texte); **Résistance à la magie** oui
 
-Le personnage emplit sa cible d'ennui. Elle perd tout intérêt pour la tache en cours et doit réussir un jet de volonté contre l'effet du sort si elle veut faire une action. Si elle échoue, elle ne peut pas agir pendant le round. L'ennui dure jusqu'à ce que sa durée expire ou que la cible brise l'effet du sort en réussissant un [jet de sauvegarde](./jet de sauvegarde.md).
+Le personnage emplit sa cible d'ennui. Elle perd tout intérêt pour la tache en cours et doit réussir un jet de volonté contre l'effet du sort si elle veut faire une action. Si elle échoue, elle ne peut pas agir pendant le round. L'ennui dure jusqu'à ce que sa durée expire ou que la cible brise l'effet du sort en réussissant un [[jet de sauvegarde]].

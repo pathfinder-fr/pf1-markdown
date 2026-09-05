@@ -10,7 +10,7 @@ LastModified: 2017-04-02 15:38
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 101*}
 - **400 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille TP, NM
+- [[type mort-vivant|Mort-vivant]] de taille TP, NM
 - **Init **+1 ; **Sens** vision dans le noir à 18 m ; Perception +1
 (((Défense)))
 - **CA** 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)
@@ -25,8 +25,8 @@ LastModified: 2017-04-02 15:38
 (((Statistiques)))
 - **For** 3, **Dex** 13, **Con** —, **Int** 4, **Sag** 12, **Cha** 13
 - **BBA** +1 ; **BMO **+0 ; **DMD** 6
-- **Dons** [Attaque en finesse](./Attaque en finesse.md)
-- **Compétences** [Bluff](./Bluff.md) +2 (+10 lorsqu’il fait le mort), [Discrétion](./Discrétion.md) +13 ;
+- **Dons** [[Attaque en finesse]]
+- **Compétences** [[Bluff]] +2 (+10 lorsqu’il fait le mort), [[Discrétion]] +13 ;
 - **Modificateurs raciaux** +8 en Bluff lorsqu’il fait le mort
 - **Langues** commun
 - **Particularités** opportuniste

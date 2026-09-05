@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*L’énergie divine du personnage jaillit à une vitesse étourdissante. *
 
-**Conditions.** 5 rangs en [Connaissances](./Connaissances.md) (religion), [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE)
+**Conditions.** 5 rangs en [[Connaissances]] (religion), [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]]
 
-**Avantage.** Le personnage peut canaliser l’énergie par une [action de mouvement](./Action de mouvement.md) s’il dépense deux utilisations quotidiennes de ce pouvoir.
+**Avantage.** Le personnage peut canaliser l’énergie par une [[action de mouvement]] s’il dépense deux utilisations quotidiennes de ce pouvoir.

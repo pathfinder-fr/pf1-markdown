@@ -8,25 +8,25 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:MenuClasses}{s:UM}***Voir aussi le [profil des compagnons animaux](./Compagnons animaux.md) et la [liste des compagnons animaux](./liste des compagnons animaux.md).***
+{s:MenuClasses}{s:UM}***Voir aussi le [[Compagnons animaux|profil des compagnons animaux]] et la [[liste des compagnons animaux]].***
 
-En plus des choix habituels de compagnons animaux, le [druide](./Druide.md) qui ressent une affinité particulière avec les vermines peut en adopter une. Les compagnons vermines suivent les mêmes règles que les autres compagnons animaux. Leurs [DV](./../Ressources/DV.md) et leurs pouvoirs évoluent comme indiqué sur la Table "[Caractéristiques de base des compagnons animaux](./Compagnons animaux.md#PROGRESSION)". Le druide peut entraîner sa vermine à l’aide de la compétence [Dressage](./Dressage.md) comme n’importe quel autre animal.
+En plus des choix habituels de compagnons animaux, le [[druide]] qui ressent une affinité particulière avec les vermines peut en adopter une. Les compagnons vermines suivent les mêmes règles que les autres compagnons animaux. Leurs [[DV]] et leurs pouvoirs évoluent comme indiqué sur la Table "[[Compagnons animaux#PROGRESSION|Caractéristiques de base des compagnons animaux]]". Le druide peut entraîner sa vermine à l’aide de la compétence [[Dressage]] comme n’importe quel autre animal.
 
-**Dénué d’intelligence.** Les compagnons vermines n’ont pas de valeur d’[Intelligence](./Intelligence.md) et possèdent la caractéristique [dénué d’intelligence](./type Vermine.md). Malgré cela, ils peuvent apprendre un tour et les tours supplémentaires indiqués sur la Table "[Caractéristiques de base des compagnons animaux](./Compagnons animaux.md#PROGRESSION)". Si le compagnon vermine gagne une amélioration dans une statistique (à 4 [DV](./../Ressources/DV.md), 8 DV, etc.) le druide peut l’appliquer à son Intelligence qui passe de – à 1. La vermine perd alors la caractéristique dénué d’intelligence et peut apprendre 3 tours par point d’Intelligence, plus les tours supplémentaires indiqués sur la Table "Caractéristiques de base des compagnons animaux". Les compagnons vermines n’ont pas de [rang de compétence](./Compétences.md#ACQUERIR) ni de [dons](./Dons.md) tant qu’ils sont dénués d’intelligence.
+**Dénué d’intelligence.** Les compagnons vermines n’ont pas de valeur d’[[Intelligence]] et possèdent la caractéristique [[type Vermine|dénué d’intelligence]]. Malgré cela, ils peuvent apprendre un tour et les tours supplémentaires indiqués sur la Table "[[Compagnons animaux#PROGRESSION|Caractéristiques de base des compagnons animaux]]". Si le compagnon vermine gagne une amélioration dans une statistique (à 4 [[DV]], 8 DV, etc.) le druide peut l’appliquer à son Intelligence qui passe de – à 1. La vermine perd alors la caractéristique dénué d’intelligence et peut apprendre 3 tours par point d’Intelligence, plus les tours supplémentaires indiqués sur la Table "Caractéristiques de base des compagnons animaux". Les compagnons vermines n’ont pas de [[Compétences#ACQUERIR|rang de compétence]] ni de [[dons]] tant qu’ils sont dénués d’intelligence.
 
-**Croc-en-jambe.** Comme les vermines ont de nombreuses pattes, il est difficile de leur faire un [croc-en-jambe](./croc-en-jambe.md), c’est pourquoi elles disposent d’un [DMD](./DMD.md) qui indique leur bonus contre les attaques de croc-en-jambe.
+**Croc-en-jambe.** Comme les vermines ont de nombreuses pattes, il est difficile de leur faire un [[croc-en-jambe]], c’est pourquoi elles disposent d’un [[DMD]] qui indique leur bonus contre les attaques de croc-en-jambe.
 
 <div class="article_3col">
-[Araignée géante](./Compagnons vermines.md#Araignéegéante),
-[Coléoptère géant](./Compagnons vermines.md#Coléoptèregéant),
-[Crabe géant](./Compagnons vermines.md#Crabegéant),
-[Fourmi géante](./Compagnons vermines.md#Fourmigéante),
-[Guêpe géante](./Compagnons vermines.md#Guêpegéante),
-[Limace géante](./Compagnons vermines.md#Limacegéante),
-[Mante géante](./Compagnons vermines.md#Mantegéante),
-[Mille-pattes géant](./Compagnons vermines.md#Mille-pattesgéant),
-[Sangsue géante](./Compagnons vermines.md#Sangsuegéante),
-[Scorpion géant](./Compagnons vermines.md#Scorpiongéant).
+[[Compagnons vermines#Araignéegéante|Araignée géante]],
+[[Compagnons vermines#Coléoptèregéant|Coléoptère géant]],
+[[Compagnons vermines#Crabegéant|Crabe géant]],
+[[Compagnons vermines#Fourmigéante|Fourmi géante]],
+[[Compagnons vermines#Guêpegéante|Guêpe géante]],
+[[Compagnons vermines#Limacegéante|Limace géante]],
+[[Compagnons vermines#Mantegéante|Mante géante]],
+[[Compagnons vermines#Mille-pattesgéant|Mille-pattes géant]],
+[[Compagnons vermines#Sangsuegéante|Sangsue géante]],
+[[Compagnons vermines#Scorpiongéant|Scorpion géant]].
 </div>
 
 <table width="100%"><tr><td width="49%">
@@ -40,10 +40,10 @@ En plus des choix habituels de compagnons animaux, le [druide](./Druide.md) qui 
 - **Taille** P
 - **Vitesse** 9 m (6 <abbr title="cases">c</abbr>) escalade 9 m (6 <abbr title="cases">c</abbr>)
 - **Attaque** morsure (1d4 plus poison)
-- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (6), <i>Effet</i> affaiblissement temporaire 1 [For](./Force.md), <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [Constitution](./Constitution.md))
-- **Particularités** [perception des vibrations](./Perception des vibrations.md) à 9 m (6 <abbr title="cases">c</abbr>), [vision dans le noir](./vision dans le noir.md)
+- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (6), <i>Effet</i> affaiblissement temporaire 1 [[Force|For]], <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [[Constitution]])
+- **Particularités** [[perception des vibrations]] à 9 m (6 <abbr title="cases">c</abbr>), [[vision dans le noir]]
 - ** DMD** croc-en-jambe +12
-- **Caractéristiques** [For](./Force.md) 6, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 10, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 10, [Cha](./Charisme.md) 2
+- **Caractéristiques** [[Force|For]] 6, [[Dextérité|Dex]] 17, [[Constitution|Con]] 10, [[Intelligence|Int]] –, [[Sagesse|Sag]] 10, [[Charisme|Cha]] 2
 - **CA** armure naturelle +0
 
 (((Développement au niveau 4)))
@@ -64,15 +64,15 @@ En plus des choix habituels de compagnons animaux, le [druide](./Druide.md) qui 
 - **Taille** P
 - **Vitesse** 6 m (4 <abbr title="cases">c</abbr>), vol 6 m (4 <abbr title="cases">c</abbr>) (médiocre)
 - **Attaque** morsure (1d6)
-- **Particularité** [vision dans le noir](./vision dans le noir.md)
+- **Particularité** [[vision dans le noir]]
 - **DMD** croc-en-jambe +8
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 12, [Con](./Constitution.md) 13, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 11, [Cha](./Charisme.md) 4
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 12, [[Constitution|Con]] 13, [[Intelligence|Int]] –, [[Sagesse|Sag]] 11, [[Charisme|Cha]] 4
 - **CA** armure naturelle +6
 
 (((Développement au niveau 4)))
 - **Taille** M
 - **Attaque** morsure (1d8)
-- **Attaque spéciale** [piétinement](./Piétinement.md) (1d4)
+- **Attaque spéciale** [[piétinement]] (1d4)
 - **Caractéristiques** For +4, Dex -2, Con +2
 
 </div>
@@ -86,17 +86,17 @@ En plus des choix habituels de compagnons animaux, le [druide](./Druide.md) qui 
 (((Caractéristiques de départ)))
 - **Taille P**
 - **Vitesse** 9 m (6 <abbr title="cases">c</abbr>), nage 6 m (4 <abbr title="cases">c</abbr>)
-- **Attaque** 2 pinces (1d3 plus [étreinte](./Étreinte.md))
-- **Attaque spéciale** [constriction](./constriction.md) (1d3)
-- **Particularités** [aquatique](./sous-type aquatique.md), dépendant de l’eau (peut survivre hors de l’eau pendant 1 heure par point de Constitution, ensuite, il suffoque, comme s’il se noyait), [vision dans le noir](./vision dans le noir.md)
+- **Attaque** 2 pinces (1d3 plus [[étreinte]])
+- **Attaque spéciale** [[constriction]] (1d3)
+- **Particularités** [[sous-type aquatique|aquatique]], dépendant de l’eau (peut survivre hors de l’eau pendant 1 heure par point de Constitution, ensuite, il suffoque, comme s’il se noyait), [[vision dans le noir]]
 - **DMD** croc-en-jambe +12
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 14, [Con](./Constitution.md) 13, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 11, [Cha](./Charisme.md) 4
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 14, [[Constitution|Con]] 13, [[Intelligence|Int]] –, [[Sagesse|Sag]] 11, [[Charisme|Cha]] 4
 - **CA** armure naturelle +5
 
 (((Développement au niveau 4)))
 - **Taille** M
-- **Attaque** 2 pinces (1d4 plus [étreinte](./Étreinte.md))
-- **Attaque spéciale** [constriction](./constriction.md) (1d4)
+- **Attaque** 2 pinces (1d4 plus [[étreinte]])
+- **Attaque spéciale** [[constriction]] (1d4)
 - **Caractéristiques** For +2, Dex -2, Con +2
 
 </div>
@@ -110,16 +110,16 @@ En plus des choix habituels de compagnons animaux, le [druide](./Druide.md) qui 
 (((Caractéristiques de départ)))
 - **Taille** P
 - **Vitesse** 9 m (6 <abbr title="cases">c</abbr>), escalade 6 m (4 <abbr title="cases">c</abbr>)
-- **Attaque** morsure (1d4 plus [étreinte](./Étreinte.md))
-- **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md)
+- **Attaque** morsure (1d4 plus [[étreinte]])
+- **Particularités** [[odorat]], [[vision nocturne]]
 - **DMD** croc-en-jambe +8
-- **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 12, [Con](./Constitution.md) 15, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 10
+- **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 12, [[Constitution|Con]] 15, [[Intelligence|Int]] –, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 10
 - **CA** armure naturelle +2
 
 (((Développement au niveau 4)))
 - **Taille** M
 - **Attaque** aiguillon (1d4 plus poison), morsure (1d6 plus étreinte)
-- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (4), <i>Effet</i> affaiblissement temporaire 1 [For](./Force.md), <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [Constitution](./Constitution.md))
+- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (4), <i>Effet</i> affaiblissement temporaire 1 [[Force|For]], <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [[Constitution]])
 - **Caractéristiques** For +4, Dex -2, Con +2
 
 </div>
@@ -133,17 +133,17 @@ En plus des choix habituels de compagnons animaux, le [druide](./Druide.md) qui 
 (((Caractéristiques de départ)))
 - **Taille** M
 - **Vitesse** 6 m (4 <abbr title="cases">c</abbr>), vol 18 m (12 <abbr title="cases">c</abbr>) (bonne)
-- **Attaque** dard (1d6 plus [poison](./poison.md))
-- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (6), <i>Effet</i> affaiblissement temporaire 1 [Dex](./Dextérité.md), <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [Constitution](./Constitution.md))
-- **Particularité** [vision dans le noir](./vision dans le noir.md)
-- **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 14, [Con](./Constitution.md) 11, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 13, [Cha](./Charisme.md) 4
+- **Attaque** dard (1d6 plus [[poison]])
+- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (6), <i>Effet</i> affaiblissement temporaire 1 [[Dextérité|Dex]], <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [[Constitution]])
+- **Particularité** [[vision dans le noir]]
+- **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 14, [[Constitution|Con]] 11, [[Intelligence|Int]] –, [[Sagesse|Sag]] 13, [[Charisme|Cha]] 4
 - **CA** armure naturelle +2
 - **DMD** croc-en-jambe +8
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +2
-- **Attaque** dard (1d8 plus [poison](./poison.md))
+- **Attaque** dard (1d8 plus [[poison]])
 - **Caractéristiques** For +8, Dex -2, Con +4
 
 </div>
@@ -159,8 +159,8 @@ En plus des choix habituels de compagnons animaux, le [druide](./Druide.md) qui 
 - **Vitesse** 6 m (4 <abbr title="cases">c</abbr>)
 - **Attaque** langue (1d4 plus acide)
 - **Attaque spéciale** crachat acide (attaque de contact à distance, 9 m (6 <abbr title="cases">c</abbr>) de portée, 1d6 points de dégâts d’acide)
-- **Particularités** [perception des vibrations](./Perception des vibrations.md) 9 m (6 <abbr title="cases">c</abbr>), [RD](./RD.md) 5/tranchant ou perforant, [susceptibilité au sel](./Limace géante.md)
-- **Caractéristiques** [For](./Force.md) 13, [Dex](./Dextérité.md) 8, [Con](./Constitution.md) 13, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 10, [Cha](./Charisme.md) 1
+- **Particularités** [[perception des vibrations]] 9 m (6 <abbr title="cases">c</abbr>), [[RD]] 5/tranchant ou perforant, [[Limace géante|susceptibilité au sel]]
+- **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 8, [[Constitution|Con]] 13, [[Intelligence|Int]] –, [[Sagesse|Sag]] 10, [[Charisme|Cha]] 1
 - **CA** armure naturelle +4
 - **DMD** impossible de lui faire un croc-en-jambe
 
@@ -172,7 +172,7 @@ En plus des choix habituels de compagnons animaux, le [druide](./Druide.md) qui 
 - **Attaques spéciales** crachat acide (attaque de contact à distance, 9 mètres de portée, 1d8 points de dégâts
 
 d’acide)
-- **Particularité** [vision aveugle](./vision aveugle.md) à 9 m (6 <abbr title="cases">c</abbr>)
+- **Particularité** [[vision aveugle]] à 9 m (6 <abbr title="cases">c</abbr>)
 
 </div>
 
@@ -187,16 +187,16 @@ d’acide)
 - **Vitesse** 9 m (6 <abbr title="cases">c</abbr>), escalade 9 m (6 <abbr title="cases">c</abbr>), vol 12 m (8 <abbr title="cases">c</abbr>) (moyenne)
 - **CA** armure naturelle +3
 - **Attaques** 2 griffes (1d4 plus étreinte)
-- **Attaques spéciales** [fente](./Mante géante.md)
-- **Caractéristiques** [For](./Force.md) 10, [Dex](./Dextérité.md) 15, [Con](./Constitution.md) 10, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 12, [Cha](./Charisme.md) 7
-- **Particularité** [vision dans le noir](./vision dans le noir.md)
+- **Attaques spéciales** [[Mante géante|fente]]
+- **Caractéristiques** [[Force|For]] 10, [[Dextérité|Dex]] 15, [[Constitution|Con]] 10, [[Intelligence|Int]] –, [[Sagesse|Sag]] 12, [[Charisme|Cha]] 7
+- **Particularité** [[vision dans le noir]]
 - **DMD** croc-en-jambe +8
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +2
 - **Attaque** 2 griffes (1d6)
-- **Attaques spéciales** attaque soudaine ([attaque à outrance](./attaque-%c3%a0-outrance.md) lors du round de surprise), mandibules (1d6 attaque secondaire contre une cible agrippée)
+- **Attaques spéciales** attaque soudaine ([[attaque %c3%a0 outrance|attaque à outrance]] lors du round de surprise), mandibules (1d6 attaque secondaire contre une cible agrippée)
 - **Caractéristiques** For +8, Dex -2, Con +4
 
 </div>
@@ -211,9 +211,9 @@ d’acide)
 - **Taille** P
 - **Vitesse** 6 m (4 <abbr title="cases">c</abbr>), escalade 6 m (4 <abbr title="cases">c</abbr>)
 - **Attaque** morsure (1d4 plus poison)
-- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (6), <i>Effet</i> affaiblissement temporaire 1 [Dex](./Dextérité.md), <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [Constitution](./Constitution.md))
-- **Particularité** [vision dans le noir](./vision dans le noir.md) 18 m (12 <abbr title="cases">c</abbr>)
-- **Caractéristiques** [For](./Force.md) 8, [Dex](./Dextérité.md) 17, [Con](./Constitution.md) 11, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 10, [Cha](./Charisme.md) 2
+- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (6), <i>Effet</i> affaiblissement temporaire 1 [[Dextérité|Dex]], <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [[Constitution]])
+- **Particularité** [[vision dans le noir]] 18 m (12 <abbr title="cases">c</abbr>)
+- **Caractéristiques** [[Force|For]] 8, [[Dextérité|Dex]] 17, [[Constitution|Con]] 11, [[Intelligence|Int]] –, [[Sagesse|Sag]] 10, [[Charisme|Cha]] 2
 - **CA** armure naturelle +2
 - **DMD** impossible de lui faire un croc-en-jambe
 
@@ -235,17 +235,17 @@ d’acide)
 - **Vitesse** 1,5 m (1 <abbr title="cases">c</abbr>), nage 6 m (4 <abbr title="cases">c</abbr>)
 - **CA** armure naturelle +0
 - **Attaque** morsure (1d4 plus fixation) ;
-- **Caractéristiques** [For](./Force.md) 9, [Dex](./Dextérité.md) 14, [Con](./Constitution.md) 12, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 10, [Cha](./Charisme.md) 1
-- **Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1 For), [fixation](./Sangsue géante.md)
-- **Particularité** [amphibie](./Amphibie.md), [odorat](./odorat.md), [perception aveugle](./perception aveugle.md) 9 m (6 <abbr title="cases">c</abbr>), [susceptibilité au sel](./Sangsue géante.md)
+- **Caractéristiques** [[Force|For]] 9, [[Dextérité|Dex]] 14, [[Constitution|Con]] 12, [[Intelligence|Int]] –, [[Sagesse|Sag]] 10, [[Charisme|Cha]] 1
+- **Attaques spéciales** [[absorption de sang (Capacité)|absorption de sang]] (1 For), [[Sangsue géante|fixation]]
+- **Particularité** [[amphibie]], [[odorat]], [[perception aveugle]] 9 m (6 <abbr title="cases">c</abbr>), [[Sangsue géante|susceptibilité au sel]]
 - **DMD** impossible de lui faire un croc-en-jambe
 
 (((Développement au niveau 7)))
 - **Taille** M
 - **Attaque** morsure (1d6 plus fixation)
 - **Caractéristiques** For +2, Dex -2, Con +2 ;
-- **Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (affaiblissement 1 For et 1 Con)
-- **Particularité** [vision aveugle](./vision aveugle.md) 9 m (6 <abbr title="cases">c</abbr>)
+- **Attaques spéciales** [[absorption de sang (Capacité)|absorption de sang]] (affaiblissement 1 For et 1 Con)
+- **Particularité** [[vision aveugle]] 9 m (6 <abbr title="cases">c</abbr>)
 
 </div>
 
@@ -258,20 +258,20 @@ d’acide)
 (((Caractéristiques de départ)))
 - **Taille** M
 - **Vitesse** 12 m (8 <abbr title="cases">c</abbr>)
-- **Attaque** aiguillon (1d4 plus poison) et 2 griffes (1d4 plus [étreinte](./Étreinte.md))
-- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (6), <i>Effet</i> affaiblissement temporaire 1 [For](./Force.md), <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [Constitution](./Constitution.md))
-- **Particularités** [perception des vibrations](./Perception des vibrations.md) 9 m (6 <abbr title="cases">c</abbr>), [vision dans le noir](./vision dans le noir.md)
-- **Caractéristiques** [For](./Force.md) 11, [Dex](./Dextérité.md) 12, [Con](./Constitution.md) 12, [Int](./Intelligence.md) –, [Sag](./Sagesse.md) 10, [Cha](./Charisme.md) 2
+- **Attaque** aiguillon (1d4 plus poison) et 2 griffes (1d4 plus [[étreinte]])
+- **Attaque spéciale** poison (<i>Fréquence</i> 1 round (6), <i>Effet</i> affaiblissement temporaire 1 [[Force|For]], <i>Guérison</i> 1 jet de sauvegarde, <i>DD</i> dépendant de la [[Constitution]])
+- **Particularités** [[perception des vibrations]] 9 m (6 <abbr title="cases">c</abbr>), [[vision dans le noir]]
+- **Caractéristiques** [[Force|For]] 11, [[Dextérité|Dex]] 12, [[Constitution|Con]] 12, [[Intelligence|Int]] –, [[Sagesse|Sag]] 10, [[Charisme|Cha]] 2
 - **CA** armure naturelle +1
 - **DMD** croc-en-jambe +12
 
 (((Développement au niveau 7)))
 - **Taille** G
 - **CA** armure naturelle +3
-- **Attaque** aiguillon (1d6 plus poison) et 2 griffes (1d6 plus [étreinte](./Étreinte.md))
+- **Attaque** aiguillon (1d6 plus poison) et 2 griffes (1d6 plus [[étreinte]])
 - **Attaque spéciale** poison (fréquence 1 round (6), effet 1d2 affaiblissement temporaire de For, guérison 1 jet de sauvegarde, DD basé sur la Con)
 - **Caractéristiques** For +8, Dex -2, Con +4
-- **Particularité** [perception des vibrations](./Perception des vibrations.md) 18 m (12 <abbr title="cases">c</abbr>)
+- **Particularité** [[perception des vibrations]] 18 m (12 <abbr title="cases">c</abbr>)
 
 </div>
 

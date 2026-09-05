@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Àterre
 ---
 
->>> [États préjudiciables#Àterre](./États préjudiciables.md#Àterre)
+>>> [[États préjudiciables#Àterre]]

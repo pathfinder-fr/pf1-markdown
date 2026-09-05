@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 12 po ; **Poids** 5 kg ; **Groupes** [armes d'hast](./groupe darmes.md#Armesdhast)
-**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** [allonge](./Caractéristiques des armes.md#ALLONGE), [réception](./Caractéristiques des armes.md#RECEPTION), voir texte
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+{s:AE}**Prix** 12 po ; **Poids** 5 kg ; **Groupes** [[Groupe darmes#Armesdhast|armes d'hast]]
+**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** ×3 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#ALLONGE|allonge]], [[Caractéristiques des armes#RECEPTION|réception]], voir texte
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
-Cette arme d’hast combine la lame d’une [coutille](./Coutille (arme).md) avec un vilain crochet. Un adversaire en selle touché par un glaive-guisarme reçoit un malus de -2 à son test d’[Équitation](./Équitation.md) pour rester en selle.
+Cette arme d’hast combine la lame d’une [[coutille (arme)|coutille]] avec un vilain crochet. Un adversaire en selle touché par un glaive-guisarme reçoit un malus de -2 à son test d’[[Équitation]] pour rester en selle.

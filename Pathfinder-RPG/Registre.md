@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Créer un sort#REGISTRE
 ---
 
->>> [Créer un sort#REGISTRE](./Créer un sort.md#REGISTRE)
+>>> [[Créer un sort#REGISTRE]]

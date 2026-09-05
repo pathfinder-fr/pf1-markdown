@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.41*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 11, pris au dépourvu 9 (Dex +2, taille -1)}
 {s:BDTexte|**pv** 15 (2d8+6)}
@@ -25,16 +25,16 @@ Categories:
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 14, **Con** 17, **Int** 2, **Sag** 13, **Cha** 7}
-{s:BDTexte|**BBA** +1, **BMO** +5, **DMD** 17 (21 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./Course.md)<sup>B</sup>, [Endurance](./Endurance.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +6}
+{s:BDTexte|**BBA** +1, **BMO** +5, **DMD** 17 (21 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]]<sup>B</sup>, [[Endurance]]}
+{s:BDTexte|**Compétences** [[Perception]] +6}
 {s:BDTexte|**Particularités** docile}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupeau (3-30)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Docile (Ext)** A moins d'avoir été entraînés pour le combat (voir la compétence [Dressage](./Dressage.md)), les chevaux considèrent leurs attaques de sabots comme des attaques secondaires.}
+{s:BDTexte|**Docile (Ext)** A moins d'avoir été entraînés pour le combat (voir la compétence [[Dressage]]), les chevaux considèrent leurs attaques de sabots comme des attaques secondaires.}
 </div>
 
 {s:ImageDroite|Bestiaire/Cheval.jpg|90%}
@@ -44,9 +44,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Cheval](./Cheval.md) || 1
+| [[Cheval]] || 1
 |-
-| [Poney](./Poney.md) || 1/2
+| [[Poney]] || 1/2
 |}
 </div>*Ce fier cheval traverse la plaine herbeuse dans un galop gracieux alors que le vent agite la barde qui le protège.*
 
@@ -76,7 +76,7 @@ entraînés pour le combat grâce
 à la compétence de Dressage.
 
 #### Le Cheval comme compagnon animal
-**Caractéristiques de départ.** **Taille** G ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** morsure (1d4), 2 sabots (1d6) (il s’agit d’une arme naturelle secondaire, voir [attaque secondaire](./Attaques naturelles (capacité).md)) ; **Caractéristiques** For 16, Dex 13, Con 15, Int 2, Sag 12, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** G ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** morsure (1d4), 2 sabots (1d6) (il s’agit d’une arme naturelle secondaire, voir [[Attaques naturelles (capacité)|attaque secondaire]]) ; **Caractéristiques** For 16, Dex 13, Con 15, Int 2, Sag 12, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 4** : **Caractéristiques** For +2, Con +2 ; **Particularités** [entraîné au combat](./entraîné au combat.md).
+**Développement au niveau 4** : **Caractéristiques** For +2, Con +2 ; **Particularités** [[entraîné au combat]].
 </div></td></tr></table>

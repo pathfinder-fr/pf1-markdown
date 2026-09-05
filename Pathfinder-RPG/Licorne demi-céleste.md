@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.56*}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)) de taille G, CB}
-{s:BDTexte|**Init** +4 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type natif|natif]]) de taille G, CB}
+{s:BDTexte|**Init** +4 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +14}
 {s:BDTexte|**Aura** cercle magique contre le Mal}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 13 (Dex +4, naturelle +4, taille -1) (parade +2 contre le Mal)}
@@ -28,14 +28,14 @@ Categories:
 {s:BDTexte|**Espace**  3 m (2 {s:c}) ; **Allonge**  1,50 m (1 {s:c})}
 {s:BDTexte|**Attaques spéciales** charge puissante (corne, 2d8+12), châtiment du Mal (attaque +7, dégâts +4)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9<sup>e</sup>)}
-{s:BDSorts|À volonté — *[détection du Mal](./Détection du Mal.md)*, *[lumière](./Lumière.md)*}
-{s:BDSorts|3/jour — *[protection contre le Mal](./Protection contre le Mal.md)*, *[soins légers](./Soins légers.md)*}
-{s:BDSorts|1/jour — *[aide](./Aide.md)*, *[bénédiction](./Bénédiction.md)*, *[neutralisation du poison](./Neutralisation du poison.md)*, *[soins modérés](./Soins modérés.md)*, *[téléportation suprême](./Téléportation suprême.md)* (au sein de sa forêt)}
+{s:BDSorts|À volonté — *[[détection du Mal]]*, *[[lumière]]*}
+{s:BDSorts|3/jour — *[[protection contre le Mal]]*, *[[soins légers]]*}
+{s:BDSorts|1/jour — *[[aide]]*, *[[bénédiction]]*, *[[neutralisation du poison]]*, *[[soins modérés]]*, *[[téléportation suprême]]* (au sein de sa forêt)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 19, **Con** 20, **Int** 13, **Sag** 25, **Cha** 26}
 {s:BDTexte|**BBA** +4, **BMO** +11, **DMD** 25 (29 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (corne), [Attaques multiples](./Attaques multiples.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11, [Connaissances](./Connaissances.md) (plans) +5, [Discrétion](./Discrétion.md) +11, [Perception](./Perception.md) +14, [Psychologie](./Psychologie.md) +14, [Survie](./Survie.md) +14 (+17 dans la forêt), [Vol](./Vol.md) +13 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4, [Survie](./Survie.md) +3 dans la forêt}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (corne), [[Attaques multiples]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11, [[Connaissances]] (plans) +5, [[Discrétion]] +11, [[Perception]] +14, [[Psychologie]] +14, [[Survie]] +14 (+17 dans la forêt), [[Vol]] +13 ; **Modificateurs raciaux** [[Discrétion]] +4, [[Survie]] +3 dans la forêt}
 {s:BDTexte|**Langues** commun, sylvestre}
 {s:BDTexte|**Particularités** corne magique, empathie sauvage +18}
 {s:BDSousTitre|Écologie}
@@ -43,10 +43,10 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Cercle magique contre le Mal (Sur).** Cette capacité constante possède les mêmes effets que le sort *[cercle magique contre le Mal](./cercle magique contre le Mal.md)*. La licorne ne peut pas la désactiver.}
-{s:BDTexte|**Corne magique (Ext).** L'attaque de corne des licornes ignore les [réductions de dégâts](./RD.md) comme s'il s'agissait d'une arme magique d'[alignement](./Alignement.md) Bon.}
-{s:BDTexte|**Empathie sauvage (Sur).** Cette capacité fonctionne comme l'aptitude de classe des [druides](./Druide.md), si ce n'est que la licorne bénéficie d'un bonus racial de +6 aux tests d'empathie. Les licornes qui possèdent également des niveaux de [druide](./Druide.md) appliquent ce bonus racial à ce test.}
+{s:BDTexte|**Cercle magique contre le Mal (Sur).** Cette capacité constante possède les mêmes effets que le sort *[[cercle magique contre le Mal]]*. La licorne ne peut pas la désactiver.}
+{s:BDTexte|**Corne magique (Ext).** L'attaque de corne des licornes ignore les [[RD|réductions de dégâts]] comme s'il s'agissait d'une arme magique d'[[alignement]] Bon.}
+{s:BDTexte|**Empathie sauvage (Sur).** Cette capacité fonctionne comme l'aptitude de classe des [[druide|druides]], si ce n'est que la licorne bénéficie d'un bonus racial de +6 aux tests d'empathie. Les licornes qui possèdent également des niveaux de [[druide]] appliquent ce bonus racial à ce test.}
 </div>
 </td><td><div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Demi-céleste](./Demi-céleste, archétype.md).***</li></ul>*Une licorne ailée s’élève dans le ciel sur ses ailes d’ivoire, parangon de grâce et de beauté.*
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Demi-céleste, archétype|Demi-céleste]].***</li></ul>*Une licorne ailée s’élève dans le ciel sur ses ailes d’ivoire, parangon de grâce et de beauté.*
 </div></td></tr></table>

@@ -4,8 +4,8 @@ Title: Druide caster (build)
 LastModified: 2016-08-09 22:52
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
-***Voir le [http://www.pathfinder-fr.org/Forum/yaf_postst12014_Le-druide-caster.aspx|sujet de discussion]***</div><nav class="wiki-toc"></nav>
+<div class="fright">***Retour aux [[builds]].***</br>
+***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst12014_Le-druide-caster.aspx)***</div><nav class="wiki-toc"></nav>
 
 *Description / présentation RP du build proposé, en italique.*
 
@@ -16,9 +16,9 @@ LastModified: 2016-08-09 22:52
 Avec une liste de sorts à 9 niveaux, il est difficile de passer à côté un archétype full caster.
 La liste de sort sera bien sûr moins fourni qu'un magicien et moins orientée support qu'un prêtre mais on trouve tout de même de jolis sorts de contrôle.
 
-Contrairement au magicien le druide va plus s'appuyer sur le terrain pour désavantager l'ennemi en augmentant leur consommation d'actions/tour. A titre d'exemple on retrouve [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Enchev%C3%AAtrement.ashx|enchevêtrement] ou bien [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Appel%20des%20pierres.ashx|appel des pierres].
+Contrairement au magicien le druide va plus s'appuyer sur le terrain pour désavantager l'ennemi en augmentant leur consommation d'actions/tour. A titre d'exemple on retrouve [enchevêtrement](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Enchev%C3%AAtrement.ashx) ou bien [appel des pierres](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Appel%20des%20pierres.ashx).
 Un aventage du druide full caster est sa survivabilité accrue grâce à sa forme animale. On prendra souvent l'apparence d'un animal de tailel réduite disposant du vol afin d'accroître aussi sa mobilité. A noter qu'on peut gagner la vision dans le noir ou nocturne, c'est un plus. A plus haut niveau les formes d'élémentaux, et notamment celui de l'air augmentent encore le potentiel de survivabilité.
-Dernier point à noter, non des moindres, est la capacité de transformer spontanément un sort en une [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.convocation%20dalli%c3%a9s%20naturels.ashx|convocation d'alliés naturels] de même niveau. Cela donne une certaine flexibilité au full caster druide qui est grandement appréciée.
+Dernier point à noter, non des moindres, est la capacité de transformer spontanément un sort en une [convocation d'alliés naturels](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.convocation%20dalli%c3%a9s%20naturels.ashx) de même niveau. Cela donne une certaine flexibilité au full caster druide qui est grandement appréciée.
 
 #### 2. Caractéristiques et race
 
@@ -51,7 +51,7 @@ Vu les bonus de la classe de druide d'humain, nain et tengu (qui n'en a pas) la 
 ##### 3.2 Traits
 
 Pour les traits on retrouve le classique Réactif toujours utile pour des full caster.
-Le choix reste assez libre sinon, à noter adepte doué qui est conseillé pour le sort [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Appel%20dun%20animal.ashx|appel d'un animal].
+Le choix reste assez libre sinon, à noter adepte doué qui est conseillé pour le sort [appel d'un animal](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Appel%20dun%20animal.ashx).
 Sinon les traits classiques pour récupérer des compétences de classe sont aussi intéressants (notamment pour la diplomatie).
 
 Pour ceux qui veulent s'aventurer du côté de la métamagie à bas niveau il y a le classique Lignage magique mais aussi Wayang spellhunter (aussi appelé metamagic master) qui retirent tout deux un niveau d'un slot de sort lorsqu'on y applique de la métamagie.
@@ -69,53 +69,53 @@ Niveau forme animale, à bas niveau on peut partir sur des formes volantes de ta
 
 Pour les dons comme dit précédemment le druide à un certain nombre de dons fixes, qui laissent assez peu de place pour l'originalité.
 
-1 : [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.%C3%89cole%20renforc%C3%A9e.ashx|Ecole renforcée (Invocation)]
+1 : [Ecole renforcée (Invocation)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.%C3%89cole%20renforc%C3%A9e.ashx)
 
-3 : [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Am%C3%A9lioration%20des%20cr%C3%A9atures%20convoqu%C3%A9es.ashx|Amélioration des créatures convoquées]
+3 : [Amélioration des créatures convoquées](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Am%C3%A9lioration%20des%20cr%C3%A9atures%20convoqu%C3%A9es.ashx)
 
-5 : [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20animale.ashx|Incantation animale]
+5 : [Incantation animale](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20animale.ashx)
 
-7 : [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Science%20de%20linitiative.ashx|Science de l'initiative]
+7 : [Science de l'initiative](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Science%20de%20linitiative.ashx)
 
 9 : emplacement libre
 
-11 : [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20rapide.ashx|Incantation rapide]
+11 : [Incantation rapide](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20rapide.ashx)
 
 13 et plus libre
 
-Pour les emplacements libre on retrouve : [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sort%20transper%C3%A7ant.ashx|sort transperçant], [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sort%20h%C3%A9b%C3%A9tant.ashx|sort hébétant] viennent potentiellement bien compléter un full caster.
-On retrouve aussi [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Interf%C3%A9rence%20divine.ashx|Interférence divine] qui peut sauver la vie d'un membre du groupe plus d'une fois.
-Un grand nombre de sorts de druide sont situationnels, le don [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.%C3%89criture%20de%20parchemins.ashx|écriture de parchemins] est donc tout à fait indiqué.
+Pour les emplacements libre on retrouve : [sort transperçant](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sort%20transper%C3%A7ant.ashx), [sort hébétant](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sort%20h%C3%A9b%C3%A9tant.ashx) viennent potentiellement bien compléter un full caster.
+On retrouve aussi [Interférence divine](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Interf%C3%A9rence%20divine.ashx) qui peut sauver la vie d'un membre du groupe plus d'une fois.
+Un grand nombre de sorts de druide sont situationnels, le don [écriture de parchemins](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.%C3%89criture%20de%20parchemins.ashx) est donc tout à fait indiqué.
 
 ##### 3.4 Sorts
 
 **3.4.1 Sorts de niveau 1**
 
-Les classiques [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Enchev%c3%aatrement.ashx|Enchevêtrement] (qui reste situationnel attention) et [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Brume%20de%20dissimulation.ashx|Brume de dissimulation] qui sont indiscutablement les sort de 1er niveau au dessus du lot.
+Les classiques [Enchevêtrement](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Enchev%c3%aatrement.ashx) (qui reste situationnel attention) et [Brume de dissimulation](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Brume%20de%20dissimulation.ashx) qui sont indiscutablement les sort de 1er niveau au dessus du lot.
 
-Pour les moins cités : [http://www.d20pfsrd.com/magic/all-spells/b/burning-disarm|Burning disarm], [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Pouss%c3%a9e%20hydraulique.ashx|Poussée hydraulique], [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Excavation%20exp%C3%A9ditive.ashx|Excavation expéditive] (qui va très bien avec le précédent sort), [http://www.d20pfsrd.com/magic/all-spells/m/mudball|Mudball].
+Pour les moins cités : [Burning disarm](http://www.d20pfsrd.com/magic/all-spells/b/burning-disarm), [Poussée hydraulique](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Pouss%c3%a9e%20hydraulique.ashx), [Excavation expéditive](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Excavation%20exp%C3%A9ditive.ashx) (qui va très bien avec le précédent sort), [Mudball](http://www.d20pfsrd.com/magic/all-spells/m/mudball).
 
-Un gros challenger pour les sorts indiscutablement puissant : [http://www.d20pfsrd.com/magic/all-spells/s/snowball|Snowball]. Ce sort a été très largement débattu afin de potentiellement être banni de pathfinder society (entre d'autres sorts du même bouquin). Du niveau 1 au niveau 5 et potentiellement jusqu'au niveau 10 (avec sort intense) ce sort est toujours débattu comme étant le sort de dommage à cible unique le plus efficace sur le slot des sorts de niveau 1. Aucune résistance au sort, attaque de touché a distance, scale avec le niveau.
+Un gros challenger pour les sorts indiscutablement puissant : [Snowball](http://www.d20pfsrd.com/magic/all-spells/s/snowball). Ce sort a été très largement débattu afin de potentiellement être banni de pathfinder society (entre d'autres sorts du même bouquin). Du niveau 1 au niveau 5 et potentiellement jusqu'au niveau 10 (avec sort intense) ce sort est toujours débattu comme étant le sort de dommage à cible unique le plus efficace sur le slot des sorts de niveau 1. Aucune résistance au sort, attaque de touché a distance, scale avec le niveau.
 
-On peut citer aussi [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Flammes.ashx|Flammes] utile à bas niveau qui scale avec le level.
+On peut citer aussi [Flammes](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Flammes.ashx) utile à bas niveau qui scale avec le level.
 
 **3.4.2 Sorts de niveau 2**
 
-Les classiques mais efficaces : [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Appel%20des%20pierres.ashx|Appel des pierres], [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Peau%20d%c3%a9corce.ashx|Peau d'écorce], [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sph%c3%a8re%20de%20feu.ashx|Sphère de feu].
+Les classiques mais efficaces : [Appel des pierres](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Appel%20des%20pierres.ashx), [Peau d'écorce](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Peau%20d%c3%a9corce.ashx), [Sphère de feu](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sph%c3%a8re%20de%20feu.ashx).
 
-Les moins cités : [http://www.d20pfsrd.com/magic/all-spells/e/euphoric-cloud|Euphoric cloud] (qui vaut bien ses 5 PO), [http://www.d20pfsrd.com/magic/all-spells/b/burst-of-radiance|Burst of radiance] (un de mes sorts niveau 2 préféré), [http://www.d20pfsrd.com/magic/all-spells/s/sickening-entanglement|Sickening entanglement] (une des variantes d'enchevêtrement).
+Les moins cités : [Euphoric cloud](http://www.d20pfsrd.com/magic/all-spells/e/euphoric-cloud) (qui vaut bien ses 5 PO), [Burst of radiance](http://www.d20pfsrd.com/magic/all-spells/b/burst-of-radiance) (un de mes sorts niveau 2 préféré), [Sickening entanglement](http://www.d20pfsrd.com/magic/all-spells/s/sickening-entanglement) (une des variantes d'enchevêtrement).
 
 **3.4.3 Sorts de niveau 3**
 
-Les classiques : [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Temp%C3%AAte%20de%20neige.ashx|Tempête de neige], [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Appel%20de%20la%20foudre.ashx|Appel de la foudre] (qui peut être combiné à sphère de flamme pour apporter un peu de support au blast), [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Croissance%20v%c3%a9g%c3%a9tale.ashx|Croissance végétale] (situationnel attention).
+Les classiques : [Tempête de neige](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Temp%C3%AAte%20de%20neige.ashx), [Appel de la foudre](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Appel%20de%20la%20foudre.ashx) (qui peut être combiné à sphère de flamme pour apporter un peu de support au blast), [Croissance végétale](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Croissance%20v%c3%a9g%c3%a9tale.ashx) (situationnel attention).
 
-Les moins cités : [http://www.d20pfsrd.com/magic/all-spells/t/thorny-entanglement|Thorny entanglement] (encore une variante d'enchevêtrement), [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Singes%20fous.ashx|Singes fous], [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Crachat%20venimeux.ashx|Crachat venimeux], [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Orbe%20aqueux.ashx|Orbre aqueuse] (similaire à sphère de flamme avec un effet kisscool), [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.D%c3%a9marche%20a%c3%a9rienne%20de%20groupe.ashx|Démarche aérienne de groupe] (situationnel mais efficace, un bon candidat pour un parchemin), [http://www.d20pfsrd.com/magic/all-spells/i/ice-spears|Ice spears].
+Les moins cités : [Thorny entanglement](http://www.d20pfsrd.com/magic/all-spells/t/thorny-entanglement) (encore une variante d'enchevêtrement), [Singes fous](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Singes%20fous.ashx), [Crachat venimeux](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Crachat%20venimeux.ashx), [Orbre aqueuse](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Orbe%20aqueux.ashx) (similaire à sphère de flamme avec un effet kisscool), [Démarche aérienne de groupe](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.D%c3%a9marche%20a%c3%a9rienne%20de%20groupe.ashx) (situationnel mais efficace, un bon candidat pour un parchemin), [Ice spears](http://www.d20pfsrd.com/magic/all-spells/i/ice-spears).
 
 **3.4.4 Sorts de niveau 4**
 
-Les classiques : [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Colonne%20de%20feu.ashx|Colonne de feu], [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Boule%20de%20foudre.ashx|Boules de foudre] (bon candidat pour sort hébêtant), [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Marche%20dans%20les%20airs.ashx|Marche dans les airs], [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Libert%c3%a9%20de%20mouvement.ashx|Liberté de mouvement] (situationnel mais intéressant).
+Les classiques : [Colonne de feu](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Colonne%20de%20feu.ashx), [Boules de foudre](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Boule%20de%20foudre.ashx) (bon candidat pour sort hébêtant), [Marche dans les airs](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Marche%20dans%20les%20airs.ashx), [Liberté de mouvement](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Libert%c3%a9%20de%20mouvement.ashx) (situationnel mais intéressant).
 
-Les moins cités : [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Geyser.ashx|Geyser] (très fun en intérieur pour deux fois les dommages de chute sol+plafond), [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Pierres%20ac%C3%A9r%C3%A9es.ashx|Pierres acérées] (une version moins situationnelle que [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Croissance%20d%c3%a9pines.ashx|Croissance d'épines])
+Les moins cités : [Geyser](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Geyser.ashx) (très fun en intérieur pour deux fois les dommages de chute sol+plafond), [Pierres acérées](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Pierres%20ac%C3%A9r%C3%A9es.ashx) (une version moins situationnelle que [Croissance d'épines](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Croissance%20d%c3%a9pines.ashx))
 
 Voilà pour les niveau de sorts les plus bas. Pour les plus haut on peut citer des sorts comme mur d'épines, sirocco, transport via plants (téléportation situationnelle), rayon de soleil, mais aussi les sorts précédemment cités avec de la métamagie (sort hébêtants en grande partie)
 
@@ -138,19 +138,19 @@ Voilà pour les niveau de sorts les plus bas. Pour les plus haut on peut citer d
 |- CLASS="titre"
 | Niveau || Classe || BBA || NLS || Capacités de classe, dons
 |- CLASS="premier"
-| 01 || druide || 0 || 1 || [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.%C3%89cole%20renforc%C3%A9e.ashx|Ecole renforcée (Invocation)]&nbsp;
+| 01 || druide || 0 || 1 || [Ecole renforcée (Invocation)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.%C3%89cole%20renforc%C3%A9e.ashx)&nbsp;
 |-
 | 02 || druide || 1 || 2 || &nbsp;
 |-
-| 03 || druide || 2 || 3 || [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Am%C3%A9lioration%20des%20cr%C3%A9atures%20convoqu%C3%A9es.ashx|Amélioration des créatures convoquées]&nbsp;
+| 03 || druide || 2 || 3 || [Amélioration des créatures convoquées](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Am%C3%A9lioration%20des%20cr%C3%A9atures%20convoqu%C3%A9es.ashx)&nbsp;
 |-
 | 04 || druide || 3 || 4 || Sagesse +1 &nbsp;
 |-
-| 05 || druide || 3 || 5 || [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20animale.ashx|Incantation animale]&nbsp;
+| 05 || druide || 3 || 5 || [Incantation animale](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20animale.ashx)&nbsp;
 |-
 | 06 || druide || 4 || 6 || &nbsp;
 |-
-| 07 || druide || 5 || 7 || [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Science%20de%20linitiative.ashx|Science de l'initiative]&nbsp;
+| 07 || druide || 5 || 7 || [Science de l'initiative](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Science%20de%20linitiative.ashx)&nbsp;
 |-
 | 08 || druide || 6 || 8 || Sagesse +1&nbsp;
 |-
@@ -158,7 +158,7 @@ Voilà pour les niveau de sorts les plus bas. Pour les plus haut on peut citer d
 |-
 | 10 || druide || 7 || 10 || &nbsp;
 |-
-| 11 || druide || 8 || 11 || [http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20rapide.ashx|Incantation rapide]&nbsp;
+| 11 || druide || 8 || 11 || [Incantation rapide](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20rapide.ashx)&nbsp;
 |-
 | 12 || druide || 9 || 12 || Sagesse +1&nbsp;
 |-

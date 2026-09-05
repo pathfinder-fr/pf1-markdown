@@ -10,4 +10,4 @@ Categories:
 
 {s:MenuEnvironnement}
 
-Qu’il prenne la forme d’une nappe épaisse ou de vapeur s’élevant du sol, le brouillard réduit le champ de [vision](./vision.md) à 1,50 m (même la [vision dans le noir](./vision dans le noir.md) ne fonctionne pas au-delà). Les créatures se situant à plus de 1,50 m bénéficient d’un [camouflage](./camouflage.md) (ce qui signifie que les attaques qui devraient les toucher ont en réalité 20 % de chances de les rater).
+Qu’il prenne la forme d’une nappe épaisse ou de vapeur s’élevant du sol, le brouillard réduit le champ de [[vision]] à 1,50 m (même la [[vision dans le noir]] ne fonctionne pas au-delà). Les créatures se situant à plus de 1,50 m bénéficient d’un [[camouflage]] (ce qui signifie que les attaques qui devraient les toucher ont en réalité 20 % de chances de les rater).

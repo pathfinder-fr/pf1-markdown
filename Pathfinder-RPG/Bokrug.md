@@ -10,7 +10,7 @@ LastModified: 2021-04-04 11:00
 {s:pucem|Créature magique|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 124*}
 - 276 800 PX
-- [Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md), [Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [Grand Ancien](./sous-type Grand Ancien.md)) de taille G, CN
+- [[type créature magique|Créature magique]] ([[sous-type aquatique|aquatique]], [[sous-type chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Grand Ancien|Grand Ancien]]) de taille G, CN
 - **Init **+22 ; **Sens **vision aveugle à 36 m, vision dans le noir à 18 m, vision nocturne ; Perception +43
 - **Aura **souffle toxique (9 m, DD 41), présence indicible (90 m, DD 33)
 (((Défense)))
@@ -24,15 +24,15 @@ LastModified: 2021-04-04 11:00
 - **Espace **3 m ; **Allonge **3 m
 - **Attaque spéciale** constriction (4d6+22), empoisonnement critique, pouvoir mythique (10/jour, montée en puissance +1d12), poison, coups puissants (morsure, griffes, dard, barbe de tentacules), vengeance onirique
 - **Pouvoirs magiques** (**NLS **27 ; concentration +35)
-  - *Constant* — [marche dans les airs](./Marche dans les airs.md)
-  - *À volonté *— [brume mortelle](./Brume mortelle.md) (DD 23), [changement de plan](./Changement de plan.md), [cauchemar](./Cauchemar.md) (DD 23), [dissipation suprême](./Dissipation suprême.md), [porte dimensionnelle](./Porte dimensionnelle.md), [songe](./Songe.md), [terrain hallucinatoire](./Terrain hallucinatoire.md), [transmutation de la pierre en boue](./Transmutation de la pierre en boue.md), [vent divin](./Vent divin.md) 
-  - *3/jour* — [exigence](./Exigence.md), [débilité](./Débilité.md) à incantation rapide (DD 23), [flétrissure](./Flétrissure.md) (DD 26)
-  - *1/jour* — [contrôle du climat](./Contrôle du climat.md), [symbole d’aliénation mentale](./Symbole daliénation mentale.md) (DD 26), [tsunami](./Tsunami.md) (DD 26)
+  - *Constant* — [[marche dans les airs]]
+  - *À volonté *— [[brume mortelle]] (DD 23), [[changement de plan]], [[cauchemar]] (DD 23), [[dissipation suprême]], [[porte dimensionnelle]], [[songe]], [[terrain hallucinatoire]], [[transmutation de la pierre en boue]], [[vent divin]] 
+  - *3/jour* — [[exigence]], [[débilité]] à incantation rapide (DD 23), [[flétrissure]] (DD 26)
+  - *1/jour* — [[contrôle du climat]], [[symbole daliénation mentale|symbole d’aliénation mentale]] (DD 26), [[tsunami]] (DD 26)
 (((Statistiques)))
 - **For **40, **Dex **27, **Con **42, **Int **22, **Sag **30, **Cha **27
 - **BBA **+30 ; **BMO **+46 (+50 pour la bousculade, la lutte ou le renversement) ; **DMD **74 (76 contre la bousculade ou le renversement, 78 contre le croc-en-jambe)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Bousculade supérieure](./Bousculade supérieure.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (débilité), [Renversement supérieur](./Renversement supérieur.md), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science du critique](./Science du critique.md) (dard), [Science du critique](./Science du critique.md) (griffe), [Science du critique](./Science du critique.md) (morsure), [Science du renversement](./Science du renversement.md), [Volonté de fer](./Volonté de fer.md) 
-- **Compétences **[Art de la magie](./Art de la magie.md) +36, [Connaissances](./Connaissances.md) (mystères, histoire, nature, religion) +36, [Discrétion](./Discrétion.md) +37,  [Natation](./Natation.md) +56, [Perception](./Perception.md) +43 
+- **Dons **[[Attaque en puissance]], [[Attaques réflexes]], [[Bousculade supérieure]], [[Critique sanglant]], [[Don pour les critiques]], [[Pouvoir magique rapide]] (débilité), [[Renversement supérieur]], [[science de linitiative|Science de l’initiative]], [[Science de la bousculade]], [[Science de la volonté de fer]], [[Science du critique]] (dard), [[Science du critique]] (griffe), [[Science du critique]] (morsure), [[Science du renversement]], [[Volonté de fer]] 
+- **Compétences **[[Art de la magie]] +36, [[Connaissances]] (mystères, histoire, nature, religion) +36, [[Discrétion]] +37,  [[Natation]] +56, [[Perception]] +43 
 - **Langues **aklo, aquatique, draconique ; télépathie à 30 m
 - **Particularités **amphibie, intuition d’outre-monde
 (((Écologie)))
@@ -51,7 +51,7 @@ Le DD du jet de sauvegarde est basé sur le Charisme.
 - **Vengeance onirique (Sur)**. Toute créature ayant réussi à blesser Bokrug ou à tuer l’un de ses prêtres peut devenir la cible de la vengeance onirique du Grand Ancien quelle que soit la distance séparant la créature de Bokrug et même à travers les barrières planaires. Afin de pouvoir utiliser sa vengeance onirique contre la cible, Bokrug doit parvenir à l’affecter avec son pouvoir magique de cauchemar : la cible est toujours considérée comme étant connue de Bokrug et Bokrug comme possédant une partie du corps de la victime, ce qui inflige à la malheureuse un malus de -15 au jet de sauvegarde contre le cauchemar. Si la victime rate son jet contre le cauchemar, alors l’horrible songe déferle en une vision de Bokrug dévorant sa victime vivante. Elle reste parfaitement consciente tandis qu’elle se fait digérer par le Grand Ancien et que celui-ci détruit tout ce qu’il reste de ses amis de toujours, de sa maison, de ses possessions et de sa famille. Quand la victime se réveille de son cauchemar, elle doit réussir un jet de Volonté DD 33 pour ne pas subir une diminution permanente de 3d6 points de Sagesse à cause de cette vengeance onirique. Si la cible tombe à 0 point de Sagesse suite à cela, elle est automatiquement affligée d’une aliénation mentale aléatoire (Guide du Maître, p. 250). Quand Bokrug utilise ce pouvoir contre une créature, il ne peut plus le réutiliser tant que cette créature ne le blesse pas à nouveau ou ne tue pas un autre de ses prêtres. Il s’agit d’un effet mental. Le DD du jet de sauvegarde est basé sur le Charisme.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Grands Anciens](./../Golarion/Grands Anciens.md).***</li></ul>*Cet énorme monstre reptilien est un lézard aquatique doté d’une barbe de tentacules et d’une queue se terminant sur un dard.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Grands Anciens]].***</li></ul>*Cet énorme monstre reptilien est un lézard aquatique doté d’une barbe de tentacules et d’une queue se terminant sur un dard.*
 
 Bokrug, le Lézard de l’eau, vit dans un coin reculé et oublié de la Dimension des Rêves, sur une terre autrefois très peuplée qui n’est plus aujourd’hui qu’un royaume nu et désolé entourant un lac sans nom, un royaume autrefois gouverné par de grands empires humains mais désormais aux mains des hideux sbires amphibiens du Lézard de l’eau. Bokrug est une créature immense, un monstre ressemblant vaguement à un iguane pourvu d’une barbe de tentacules ondulants et d’une longue queue au bout de laquelle se trouve un dard.
 Les écailles qui recouvrent son corps dissimulent de longues épines que Bokrug peut allonger ou rétracter en un éclair.

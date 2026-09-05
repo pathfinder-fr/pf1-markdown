@@ -14,24 +14,24 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Cham](./Chaman.md) 4, [Inq](./Inquisiteur.md) 4, [Occ](./Occultiste.md) 4, [Prê](./Prêtre.md) 4, [Sor](./Sorcière.md) 5, [Spi](./Spirite.md) 4  
+**École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 4, [[Inquisiteur|Inq]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Sorcière|Sor]] 5, [[Spirite|Spi]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-En posant ses mains sur la cible, le [prêtre](./Prêtre.md) engendre un transfert d’[énergie négative](./Énergie négative.md) faisant perdre 4d8 points de vie à sa cible, +1 par [niveau de lanceur de sorts](./NLS.md) (jusqu’à un maximum de +20). Les [morts-vivants](./type Mort-vivant.md) étant animés par l’[énergie négative](./Énergie négative.md), ce sort ne les blesse pas mais les soigne du nombre indiqué.
+En posant ses mains sur la cible, le [[prêtre]] engendre un transfert d’[[énergie négative]] faisant perdre 4d8 points de vie à sa cible, +1 par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de +20). Les [[type mort-vivant|morts-vivants]] étant animés par l’[[énergie négative]], ce sort ne les blesse pas mais les soigne du nombre indiqué.
 
-(((Ce sort est similaire à *[blessure légère](./Blessure légère.md)*, sauf qu’il fait perdre 4d8 points de vie, +1 par [niveau de lanceur de sorts](./NLS.md) (jusqu’à un maximum de +20).)))
+(((Ce sort est similaire à *[[blessure légère]]*, sauf qu’il fait perdre 4d8 points de vie, +1 par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de +20).)))
 
 ### Mythique
 {s:CMy}
-Les dégâts infligés s’élèvent à 8d8 points de dégâts + 2 points par [niveau de lanceur de sorts](./NLS.md) (+40 maximum). Une cible vivante est fiévreuse pendant un round par [niveau de lanceur de sorts](./NLS.md) (20 rounds maximum) si elle rate son jet de sauvegarde.
+Les dégâts infligés s’élèvent à 8d8 points de dégâts + 2 points par [[NLS|niveau de lanceur de sorts]] (+40 maximum). Une cible vivante est fiévreuse pendant un round par [[NLS|niveau de lanceur de sorts]] (20 rounds maximum) si elle rate son jet de sauvegarde.

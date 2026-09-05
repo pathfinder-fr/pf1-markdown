@@ -7,4 +7,4 @@ Categories:
 - Qadira
 ---
 
-Nom donné à la partie du [Qadira](./Qadira.md) située au sud des [Montagnes Zho](./Montagnes Zho.md). Elle a donné son nom à la rivière [Meraz](./Meraz.md) qui la traverse. [Dimayen](./Dimayen.md) et [Sedeq](./Sedeq.md) sont les deux seules villes de la région.
+Nom donné à la partie du [[Qadira]] située au sud des [[Montagnes Zho]]. Elle a donné son nom à la rivière [[Meraz]] qui la traverse. [[Dimayen]] et [[Sedeq]] sont les deux seules villes de la région.

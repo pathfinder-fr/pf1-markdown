@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:UI}*Les autres écoutent vos mots d'encouragement et accomplissent en conséquence des actes supérieurs à la normale.*
 
-**Conditions.** [Cha](./Cha.md) 13, représentation bardique [inspiration talentueuse](./Représentations.md#INSPIRATIONTALENTUEUSE)
+**Conditions.** [[Cha]] 13, représentation bardique [[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]]
 
-**Avantages.** L'[inspiration talentueuse](./Représentations.md#INSPIRATIONTALENTUEUSE) du personnage affecte désormais tous les alliés dans un rayon de 9 mètres qui peuvent voir et entendre la représentation, tant qu'ils utilisent la compétence sélectionnée.
+**Avantages.** L'[[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] du personnage affecte désormais tous les alliés dans un rayon de 9 mètres qui peuvent voir et entendre la représentation, tant qu'ils utilisent la compétence sélectionnée.
 
-**Normal.** L'[inspiration talentueuse](./Représentations.md#INSPIRATIONTALENTUEUSE) n'affecte qu'un seul allié.
+**Normal.** L'[[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] n'affecte qu'un seul allié.

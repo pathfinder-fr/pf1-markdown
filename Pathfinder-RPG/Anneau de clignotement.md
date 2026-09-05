@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de clignotement|}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 27 000 po ; **Poids** —
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 27 000 po ; **Poids** —
 (((Description)))
-Sur [commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE), cet anneau fait clignoter le porteur comme le ferait un sort de *[clignotement](./Clignotement.md)*.
+Sur [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|commande]], cet anneau fait clignoter le porteur comme le ferait un sort de *[[clignotement]]*.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[clignotement](./Clignotement.md)* ; **Coût** 13 500 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[clignotement]]* ; **Coût** 13 500 po
 </div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Paralysé
 ---
 
->>> [États préjudiciables#Paralysé](./États préjudiciables.md#Paralysé)
+>>> [[États préjudiciables#Paralysé]]

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vision dans le noir (capacité)
 ---
 
->>> [Vision dans le noir (capacité)](./vision dans le noir (capacité).md)
+>>> [[Vision dans le noir (capacité)]]

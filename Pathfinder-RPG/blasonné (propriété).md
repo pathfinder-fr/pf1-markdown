@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Blasonné
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Blasonné](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Blasonné)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Blasonné]]

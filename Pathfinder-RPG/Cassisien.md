@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 - *Source : Bestiaire 2, p.28*
 - **PX** 600
-- [Extérieur](./type Extérieur.md) ([ange](./sous-type ange.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md)) de taille P, NB
-- **Init** +0 ; **Sens** *[détection du Mal](./Détection du Mal.md)*, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5
+- [[type Extérieur|Extérieur]] ([[sous-type ange|ange]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]]) de taille P, NB
+- **Init** +0 ; **Sens** *[[détection du Mal]]*, [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +5
 - **Aura** de protection mineure
 (((Défense)))
 - **CA** 14, contact 11, pris au dépourvu 14 (naturelle +3, taille +1) (parade +2 contre le Mal)
@@ -25,28 +25,28 @@ Categories:
 (((Attaque)))
 - **VD** vol 18 m (12 {s:c}) (parfaite)
 - **Corps à corps** coups, -1 (1d3-4)
-- **Attaques spéciales** [souffle](./Souffle.md) ([ligne](./ligne.md) de 4,50 m (3 {s:c}), 1d6 froid ou 1d6 feu, [Réflexes](./jet de sauvegarde.md) [DD](./DD.md)12, 1/2 dégâts, utilisable tous les 1d4 [rounds](./round.md)
+- **Attaques spéciales** [[souffle]] ([[ligne]] de 4,50 m (3 {s:c}), 1d6 froid ou 1d6 feu, [[jet de sauvegarde|Réflexes]] [[DD]]12, 1/2 dégâts, utilisable tous les 1d4 [[round|rounds]]
 - **Pouvoirs magiques** (NLS 3 ; concentration +3)
-  - Constant — *[détection du Mal](./Détection du Mal.md)*, *[repérage](./Repérage.md)*
-  - 1/jour — *[aide](./Aide.md)*, *[lumière du jour](./Lumière du jour.md)*
-  - 1/semaine — *[communion](./Communion.md)* (6 questions, [NLS](./NLS.md) 12)
+  - Constant — *[[détection du Mal]]*, *[[repérage]]*
+  - 1/jour — *[[aide]]*, *[[lumière du jour]]*
+  - 1/semaine — *[[communion]]* (6 questions, [[NLS]] 12)
 (((Statistiques)))
 - **For** 3, **Dex** 11, **Con** 12, **Int** 6, **Sag** 11, **Cha** 10
-- **BBA** +2 ; **BMO** -3 ; **DMD** 7 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Connaissances](./Connaissances.md) (plans) +2, [Connaissances](./Connaissances.md) (religion) +2, [Diplomatie](./Diplomatie.md) +2, [Discrétion](./Discrétion.md) +8, [Perception](./Perception.md) +5, [Psychologie](./Psychologie.md) +4, [Vol](./Vol.md) +10
-- **Langues** céleste, draconique, infernal ; [langage universel](./sous-type ange.md#LANGAGEUNIVERSEL)
-- **Particularités** changement de forme (deux des formes suivantes : ange, chien ou colombe de taille P ou poisson de taille TP, *[métamorphose](./métamorphose.md)*), mémoire parfaite
+- **BBA** +2 ; **BMO** -3 ; **DMD** 7 ([[croc-en-jambe]] impossible)
+- **Dons** [[Volonté de fer]]
+- **Compétences** [[Connaissances]] (plans) +2, [[Connaissances]] (religion) +2, [[Diplomatie]] +2, [[Discrétion]] +8, [[Perception]] +5, [[Psychologie]] +4, [[Vol]] +10
+- **Langues** céleste, draconique, infernal ; [[sous-type ange#LANGAGEUNIVERSEL|langage universel]]
+- **Particularités** changement de forme (deux des formes suivantes : ange, chien ou colombe de taille P ou poisson de taille TP, *[[métamorphose]]*), mémoire parfaite
 (((Écologie)))
 - **Environnement** plans d’alignement Bon
 - **Organisation sociale** solitaire, couple ou escouade (3–6)
 - **Trésor** aucun)
 (((Pouvoirs spéciaux)))
-- **Aura de protection mineure (Sur).** Les cassisiens bénéficient d’une forme mineure de l’[aura de protection](./sous-type ange.md) dont jouissent les anges plus puissants. Cette aura de protection donne au cassisien un bonus de parade de +2 à la [CA](./CA.md) contre les ennemis d’[alignement](./Alignement.md) Mauvais et un bonus de résistance de +2 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les effets Mauvais et les sorts lancés par des créatures d’[alignement](./Alignement.md) Mauvais. Cette aura s’étend sur un [rayon](./rayon.md) de 1,50 mètres mais ne peut affecter à tout moment qu’une seule créature en plus du cassisien. L’aura de protection d’un cassisien est fragile et, dès qu’une créature maléfique parvient à le frapper ou que le cassisien rate un [jet de sauvegarde](./jet de sauvegarde.md) contre une source maléfique, l’aura s’estompe. Le cassisien peut la réactiver en se concentrant sur cette tâche pendant 1 minute.
+- **Aura de protection mineure (Sur).** Les cassisiens bénéficient d’une forme mineure de l’[[sous-type ange|aura de protection]] dont jouissent les anges plus puissants. Cette aura de protection donne au cassisien un bonus de parade de +2 à la [[CA]] contre les ennemis d’[[alignement]] Mauvais et un bonus de résistance de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets Mauvais et les sorts lancés par des créatures d’[[alignement]] Mauvais. Cette aura s’étend sur un [[rayon]] de 1,50 mètres mais ne peut affecter à tout moment qu’une seule créature en plus du cassisien. L’aura de protection d’un cassisien est fragile et, dès qu’une créature maléfique parvient à le frapper ou que le cassisien rate un [[jet de sauvegarde]] contre une source maléfique, l’aura s’estompe. Le cassisien peut la réactiver en se concentrant sur cette tâche pendant 1 minute.
 - **Mémoire parfaite (Ext).** Les cassisiens ne sont pas spécialement intelligents, mais ils possèdent une mémoire parfaite et se souviennent de tout ce qu’ils ont entendu ou vu. Ils peuvent réciter sans erreur des conversations qui ont eu lieu des centaines d’années auparavant. Ils possèdent également la capacité d’effacer certaines portions de leur mémoire, ce qu’il font pour protéger les informations les plus délicates (souvent sur l’ordre d’un ange supérieur).
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [anges](./Ange.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Ange|anges]].***</li></ul>
 *Ce casque doré aux gravures délicates est décoré de filigranes complexes. Deux ailes composées de plumes lui permettent de voltiger avec grâce dans les airs.*
 
 Les cassisiens sont les plus faibles des anges, mais ils n’en sont pas moins complètement dévoués à la cause du Bien. Ils servent de messagers aux anges plus puissants et sont souvent envoyés vers les mortels d’alignement Bon pour les servir comme familiers et guides spirituels en récitant des paroles sacrées provenant de diverses fois et philosophies d’alignement Bon (dont certaines sont disparues depuis plusieurs siècles). Un lanceur de sorts loyal bon de niveau 7 qui possède le don Familier supérieur peut choisir un cassisien comme familier.

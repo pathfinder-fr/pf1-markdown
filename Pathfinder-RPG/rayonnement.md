@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#DEFRAYONNEMENT
 ---
 
->>> [Présentation des sorts#DEFRAYONNEMENT](./Présentation des sorts.md#DEFRAYONNEMENT)
+>>> [[Présentation des sorts#DEFRAYONNEMENT]]

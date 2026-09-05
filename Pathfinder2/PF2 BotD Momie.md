@@ -4,9 +4,9 @@ Title: Momie (archétype)
 LastModified: 2022-04-27 11:07
 ---
 
-{s:bodmenu}• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+{s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 La momification est un rite funéraire assez courant à travers Golarion et à travers les âges. Mais devenir une momie vivante capable de se déplacer et de penser est une tout autre chose.
@@ -23,7 +23,7 @@ De très rares momies sont créées par des processus naturels se déroulant dan
 
 **Prérequis** Vous êtes mort et vous avez été momifié (par une méthode naturelle ou un rituel).
 
-Que ce soit grâce à un procédé naturel ou à des rituels maléfiques, votre corps a été momifié et vous vous êtes relevé en tant que momie morte-vivante. Vous gagnez les traits Momie et Mort-vivant, ainsi que les [avantages de base de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVBASE).
+Que ce soit grâce à un procédé naturel ou à des rituels maléfiques, votre corps a été momifié et vous vous êtes relevé en tant que momie morte-vivante. Vous gagnez les traits Momie et Mort-vivant, ainsi que les [[PF2 BotD Jouer un mort-vivant#AVBASE|avantages de base de morts-vivants]].
 
 De nombreux effets qui blessent les vivants s’avèrent bien moins efficaces contre votre forme desséchée. Malheureusement, votre corps vidé de toute humidité est également hautement inflammable. Vous gagnez le don Toughness/Robustesse ainsi qu’une faiblesse au feu égale à la moitié de votre niveau.
 Vos attaques de poing drainent l’humidité des créatures vivantes d’un simple toucher, ce qui les rendent plus dangereuses et mortelles. Le dé de dégât pour votre poing passe à 1d6 au lieu de 1d4 et votre poing perd le trait Non létal.
@@ -59,7 +59,7 @@ Vous redirigez l’humidité que vous avez drainée hors d’autres créatures v
 
 **Prérequis** Dévotion de momie
 
-L’exposition aux éléments, la magie, l’alchimie et d’autres phénomènes ont intensifié les changements résultant de votre momification. Vous gagnez les [avantages avancés de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVAVANCE).
+L’exposition aux éléments, la magie, l’alchimie et d’autres phénomènes ont intensifié les changements résultant de votre momification. Vous gagnez les [[PF2 BotD Jouer un mort-vivant#AVAVANCE|avantages avancés de morts-vivants]].
 
 En plus de cela, vous gagnez une résistance égale à la moitié de votre niveau contre tous les dégâts provenant de votre terrain lié, y compris les températures dangereuses, le climat, le terrain dangereux et les dangers environnementaux.
 </div>

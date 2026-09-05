@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 2 po ; **Poids** 2,5 kg
-<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
 ---
-Ces [billes de fronde](./Billes de fronde (arme).md) sont alvéolées de perforations superposées qui les font émettre un gémissement étrange audible à 150 mètres ou moins de leur trajectoire de vol.
+Ces [[Billes de fronde (arme)|billes de fronde]] sont alvéolées de perforations superposées qui les font émettre un gémissement étrange audible à 150 mètres ou moins de leur trajectoire de vol.

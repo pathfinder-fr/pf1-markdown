@@ -16,6 +16,6 @@ Categories:
 
 **Condition.** Posséder une vitesse de vol.
 
-**Avantage.** Lorsqu’elle est en vol, la créature peut effectuer une [action de mouvement](./Action de mouvement.md) et autre [action simple](./Action simple.md) à n’importe quel moment de son déplacement. Elle ne peut pas réaliser une seconde [action de mouvement](./Action de mouvement.md) au cours d’un round où elle utilise Attaque en vol.
+**Avantage.** Lorsqu’elle est en vol, la créature peut effectuer une [[action de mouvement]] et autre [[action simple]] à n’importe quel moment de son déplacement. Elle ne peut pas réaliser une seconde [[action de mouvement]] au cours d’un round où elle utilise Attaque en vol.
 
-**Normal.** Sans ce don, la créature effectue une [action simple](./Action simple.md) soit avant soit après son déplacement.
+**Normal.** Sans ce don, la créature effectue une [[action simple]] soit avant soit après son déplacement.

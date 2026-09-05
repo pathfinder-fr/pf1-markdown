@@ -10,11 +10,11 @@ LastModified: 2023-10-29 10:00
 <i class="fa fa-arrow-left" aria-hidden="true"></i> ADJ PF2</a>
 </div>
 <div class="contenumenuPF2">
-[Règles de base (WIP)](./ArtisanatCR.md)
-[Variante Treasure Vault](./ArtisanatTV.md)
-[Calculette](./CalcArtisanat.md)
-[Artisanat naturel](./ArtisanatTVN.md)
-[Artisanat narratif](./ArtisanatTVS.md)
+[[ArtisanatCR|Règles de base (WIP)]]
+[[ArtisanatTV|Variante Treasure Vault]]
+[[CalcArtisanat|Calculette]]
+[[ArtisanatTVN|Artisanat naturel]]
+[[ArtisanatTVS|Artisanat narratif]]
 </div>
 </div>
 

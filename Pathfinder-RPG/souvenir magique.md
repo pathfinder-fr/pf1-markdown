@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Magus#SOUVENIRMAGIQUE
 ---
 
->>> [Magus#SOUVENIRMAGIQUE](./Magus.md#SOUVENIRMAGIQUE)
+>>> [[Magus#SOUVENIRMAGIQUE]]

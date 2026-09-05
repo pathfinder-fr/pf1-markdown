@@ -9,6 +9,6 @@ Categories:
 
 {s:cs} {s:ISG} *Pour le personnage, le spectacle est au cœur de toute négociation.*
 
-**Conditions.** Capacité de classe [versatilité artistique](./Barde.md#VERSATILITEARTISTIQUE), suivant de [Shélyn](./Shélyn (technique).md)
+**Conditions.** Capacité de classe [[Barde#VERSATILITEARTISTIQUE|versatilité artistique]], suivant de [[Shélyn (technique)|Shélyn]]
 
-**Avantage.** Le personnage peut utiliser n'importe quelle compétence de [Représentation](./Représentation.md) pour remplacer la [Diplomatie](./Diplomatie.md), au lieu d'être limité à Représentation (déclamation, instruments à clavier, cordes ou vent). Si le personnage décide de tout de même utiliser Représentation (déclamation, instruments à clavier, cordes ou vent), il obtient un bonus de +2 à son test de compétence.
+**Avantage.** Le personnage peut utiliser n'importe quelle compétence de [[Représentation]] pour remplacer la [[Diplomatie]], au lieu d'être limité à Représentation (déclamation, instruments à clavier, cordes ou vent). Si le personnage décide de tout de même utiliser Représentation (déclamation, instruments à clavier, cordes ou vent), il obtient un bonus de +2 à son test de compétence.

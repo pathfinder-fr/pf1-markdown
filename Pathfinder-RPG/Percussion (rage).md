@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#PERCUSSION
 ---
 
->>> [pouvoirs de rage#PERCUSSION](./Pouvoirs de rage.md#PERCUSSION)
+>>> [[pouvoirs de rage#PERCUSSION]]

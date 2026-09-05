@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#EXPEERTENSURVIE
 ---
 
->>> [Talents#EXPEERTENSURVIE](./Talents.md#EXPEERTENSURVIE)
+>>> [[Talents#EXPEERTENSURVIE]]

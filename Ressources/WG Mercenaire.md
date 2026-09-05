@@ -6,7 +6,7 @@ Categories:
 - Weekly Grind
 ---
 
-<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/notes/jason-bulmahn-game-designer/weekly-grind-week-1-room-description/193365990707331) publiée avec l'autorisation de l'auteur Jason Bulmahn — [retour à l'index](./Weekly Grind.md)</p>
+<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/notes/jason-bulmahn-game-designer/weekly-grind-week-1-room-description/193365990707331) publiée avec l'autorisation de l'auteur Jason Bulmahn — [[Weekly Grind|retour à l'index]]</p>
 Ce personnage, créé par Sean K Reynolds, est disponible aux deux groupes (chacun des groupes exprimera une enchère sous la forme d'un certain nombre de points de victoire et celui qui l'emportera bénéficiera de l'aide du mercenaire cette semaine-là). L'auteur précise qu'il poste les caractéristiques du personnage pour permettre aux deux groupes de voir en quoi le mercenaire pourrait leur être utile, mais qu'il n'indique pas son équipement, histoire de ne pas tenter ceux qui pourraient penser à dépouiller son cadavre…
 
 <table class="page espace-col deuxcol"><tr><td>

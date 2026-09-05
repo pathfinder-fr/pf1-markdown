@@ -4,12 +4,12 @@ Title: Résistance (aux énergies destructrices) (Ext)
 LastModified: 2011-07-02 15:33
 ---
 
-{s:Desambi|[Résistance](./sort Résistance.md) et [résistance aux énergies destructives](./Résistance aux énergies destructives.md) sont également des noms de sorts.}
+{s:Desambi|[[sort résistance|Résistance]] et [[résistance aux énergies destructives]] sont également des noms de sorts.}
 Une créature résistant à un type d’énergie destructive gagne une importante protection (mais pas une immunité totale) contre la source de dégâts correspondante. Ce pouvoir est en règle générale de nature extraordinaire.
 
 Chaque pouvoir de résistance est déterminé par le type d’énergie destructive contre lequel il est protégé, ainsi que par le nombre de points de dégâts qu’il annule par attaque, que la source en soit magique ou non.
 
-Si la créature est en train d’incanter un sort, elle n’a pas besoin d’effectuer de test de [Concentration](./concentration.md) si l’attaque est entièrement stoppée par sa résistance. Cette résistance n’est pas cumulative avec celle qui pourrait être fournie par un sort.
+Si la créature est en train d’incanter un sort, elle n’a pas besoin d’effectuer de test de [[Concentration]] si l’attaque est entièrement stoppée par sa résistance. Cette résistance n’est pas cumulative avec celle qui pourrait être fournie par un sort.
 
 #### Capacité de monstre
 

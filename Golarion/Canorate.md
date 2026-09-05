@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Située sur la [Nossam](./Nossam.md), au nord de la [forêt de Backar](./forêt-de-Backar.md), la ville de Canorate est la capitale du [Molthune](./Molthune.md).
+Située sur la [[Nossam]], au nord de la [[forêt de Backar]], la ville de Canorate est la capitale du [[Molthune]].

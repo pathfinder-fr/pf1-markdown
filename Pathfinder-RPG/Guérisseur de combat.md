@@ -11,11 +11,11 @@ Categories:
 
 {s:GC}*Même au plus fort des batailles, vous risquez votre vie et votre intégrité physique pour sauver vos alliés.*
 
-**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+**Catégorie.** [[Dons#DONHISTOIRE|histoire]]
 
-**Conditions.** Vous devez réussir à lancer un sort d’[invocation (guérison)](./branche guérison.md) sur un allié après avoir été touché par une [attaque d’opportunité](./AO.md) ou avoir comme [historique](./Générateur dhistorique.md) Bataille, Chapelain ou Sauvé.
+**Conditions.** Vous devez réussir à lancer un sort d’[[branche guérison|invocation (guérison)]] sur un allié après avoir été touché par une [[AO|attaque d’opportunité]] ou avoir comme [[Générateur dhistorique|historique]] Bataille, Chapelain ou Sauvé.
 
-**Avantages.** Quand vous devez faire un [test de concentration](./test de concentration.md) parce que vous avez reçu des dégâts (y compris des dégâts continus), vous considérez que vous en avez reçu 50% de moins lorsque vous déterminez le [DD](./DD.md) du test de concentration.
+**Avantages.** Quand vous devez faire un [[test de concentration]] parce que vous avez reçu des dégâts (y compris des dégâts continus), vous considérez que vous en avez reçu 50% de moins lorsque vous déterminez le [[DD]] du test de concentration.
 
 **Objectif.** Au fil du temps, provoquez au moins vingt attaques d’opportunité en lançant des sorts d’invocation (guérison) sur des alliés. Ces sorts comptent même si vous n’arrivez pas à les lancer.
 

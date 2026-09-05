@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage sait comment reporter le plus gros des coups sur son armure.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
 **Conditions.** Port de l’armure ou maniement du bouclier
 
-**Avantage.** Si un adversaire fait un [coup critique](./coup critique.md) contre le personnage, ce dernier peut le transformer en coup normal mais son armure ou son bouclier est alors [brisé](./Brisé.md) (c’est à lui de choisir).
+**Avantage.** Si un adversaire fait un [[coup critique]] contre le personnage, ce dernier peut le transformer en coup normal mais son armure ou son bouclier est alors [[brisé]] (c’est à lui de choisir).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise ce don pour annuler un [coup critique](./coup critique.md), il peut dépenser 5 points d’endurance pour que son armure ou son bouclier ait 50 % de chances d’éviter de subir l’état préjudiciable [brisé](./Brisé.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise ce don pour annuler un [[coup critique]], il peut dépenser 5 points d’endurance pour que son armure ou son bouclier ait 50 % de chances d’éviter de subir l’état préjudiciable [[brisé]].

@@ -8,9 +8,9 @@ Categories:
 
 *Le personnage franchit facilement les obstacles.*
 
-**Condition.** [Dex](./Dextérité.md) 13.
+**Condition.** [[Dextérité|Dex]] 13.
 
-**Avantage.** Quand le personnage se déplace, il peut franchir 1,5 m (1 case) de [terrain difficile](./terrain difficile.md) par [round](./round.md), comme s’il se trouvait sur un terrain ordinaire. Ce don lui permet donc de faire un [pas de placement](./Pas de placement.md) de 1,5 m (1 case) sur un [terrain difficile](./terrain difficile.md).
+**Avantage.** Quand le personnage se déplace, il peut franchir 1,5 m (1 case) de [[terrain difficile]] par [[round]], comme s’il se trouvait sur un terrain ordinaire. Ce don lui permet donc de faire un [[pas de placement]] de 1,5 m (1 case) sur un [[terrain difficile]].
 
 {s:CMy}
 ### Version mythique
@@ -18,4 +18,4 @@ Categories:
 
 **Condition.** Aisance
 
-**Avantage.** Pour chaque tranche de deux [grades](./grades.md), le personnage peut se déplacer sur 1,50 mètre de [terrain difficile](./terrain difficile.md) par round comme si c’était un terrain normal (1,50 mètre au minimum). Cet effet se cumule avec ceux fournis par Aisance et [Déplacement acrobatique](./Déplacement acrobatique.md).
+**Avantage.** Pour chaque tranche de deux [[grades]], le personnage peut se déplacer sur 1,50 mètre de [[terrain difficile]] par round comme si c’était un terrain normal (1,50 mètre au minimum). Cet effet se cumule avec ceux fournis par Aisance et [[Déplacement acrobatique]].

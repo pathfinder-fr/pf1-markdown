@@ -10,7 +10,7 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de connaissance des sorts|{s:AE}}
-**Aura** modérée ou puissante (pas d'école) ; **NLS** 7 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 1 500 po (Type I), 6 000 po (Type II), 13 000 po (Type III), 24 000 po (Type IV) ; **Poids** —
+**Aura** modérée ou puissante (pas d'école) ; **NLS** 7 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 1 500 po (Type I), 6 000 po (Type II), 13 000 po (Type III), 24 000 po (Type IV) ; **Poids** —
 (((Description)))
 Cet anneau se décline en quatre types : l’anneau de connaissance des sorts I, l’anneau de connaissance des sorts II, l’anneau de connaissance des sorts III, l’anneau de connaissance des sorts IV. Ils ne sont utiles qu’aux lanceurs de sorts profanes spontanés. En étudiant, le porteur peut apprendre un sort qui vient se rajouter à ceux que lui
 accordent sa classe et son niveau. Un anneau de connaissance des sorts I ne peut contenir que des sorts de niveau 1 ; un anneau de connaissance des sorts II, des sorts de niveau 1 ou 2 ; un anneau de connaissance des sorts III, des sorts de niveau 3 ou moins ; un anneau de connaissance des sorts IV, des sorts de niveau 4 ou moins.
@@ -19,6 +19,6 @@ Un anneau de connaissance des sorts n’est qu’un espace de stockage, le porte
 
 Les sorts profanes qui n’apparaissent pas dans la liste de sorts de classe du porteur sont traités en toutes choses (stockage et lancement) comme s’ils avaient un niveau de plus.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), le créateur doit être en mesure de lancer
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], le créateur doit être en mesure de lancer
 des sorts du niveau indiqué ; **Coût** 750 po (Type I), 3 000 po (Type II), 6 500 po (Type III), 12 000 po (Type IV)
 </div>

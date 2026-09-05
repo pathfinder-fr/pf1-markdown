@@ -6,7 +6,7 @@ Categories:
 - Golarion Day
 ---
 
-<p class="description">Traduction d'un article de James Jacobs paru sur le [site de Paizo](http://paizo.com/paizo/blog/v5748dyo5lbqy) — retour à la rubrique [Un jour sur Golarion](./JourGolarion.md).</p>
+<p class="description">Traduction d'un article de James Jacobs paru sur le [site de Paizo](http://paizo.com/paizo/blog/v5748dyo5lbqy) — retour à la rubrique [[JourGolarion|Un jour sur Golarion]].</p>
 <div style="float:left; width: 150px; padding: 4px; border: 1px solid #4b3124; margin: 0 12px 0 0"><img width="100%" src="http://paizo.com/image/content/PathfinderChronicles/PZO1106-SableUniform_500.jpeg"/></div>Il y a de nombreux mois, dans le *Guide de Korvosa*, nous vous parlions d'un groupe de rôdeurs appelés la compagnie de la Zibeline. Ces gardes de la ville exportés de mes parties de jeu de rôle personnelles (où ils étaient connus sous le nom de Chevaucheurs aériens) sont des individus hautement entraînés qui patrouillent les cieux au-dessus de Korvosa sur le dos d'hippogriffes avec lesquels ils créé un lien. Dans le *Guide de Korvosa*, nous avions abordé ce sujet en ajoutant un bout de règles sous la forme d'un nouveau don "Soldat de la compagnie du Sable" qui permettait aux rôdeurs de choisir un hippogriffe comme compagnon animal. Et, pendant quelques années, tout a bien été.
 
 Puis nous avons fait quelque chose d'impensable : nous avons changé les règles du jeu ! Et, dans le *Bestiaire de Pathfinder*, nous n'avons même pas fait l'effort d'inclure le pauvre hippogriffe. Le griffon était là, oui, mais aucun signe de son cousin moins civilisé.

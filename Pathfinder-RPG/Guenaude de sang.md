@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 p.139*}
 {s:BDTexte|**PX** 4.800}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, NM}
-{s:BDTexte|**Init** +10 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) *[détection de la magie](./Détection de la magie.md)*, *[Détection du Bien](./Détection du Bien.md)* ; [Perception](./Perception.md) +18}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, NM}
+{s:BDTexte|**Init** +10 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) *[[détection de la magie]]*, *[[Détection du Bien]]* ; [[Perception]] +18}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 17, pris au dépourvu 16 (Dex +6, esquive +1, naturelle +6)}
 {s:BDTexte|**pv** 90 (12d10+24)}
@@ -25,16 +25,16 @@ terreur ; **RM** 19 }
 {s:BDTexte|**Corps à corps** morsure, +18 (2d4+4) et 2 griffes, +18 (1d6+4 plus étreinte)}
 {s:BDTexte|**Attaques spéciales** absorption de sang (1d2 Con), détonation}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12 ; concentration +16)}
-{s:BDSorts|Constant — *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*}
-{s:BDSorts|À volonté — *[blessure modérée](./Blessure modérée.md)* ([DD](./DD.md) 16), *[pattes d’araignée](./Pattes daraignée.md)* (sur soi seulement), *[rayon ardent](./Rayon ardent.md)*}
-{s:BDSorts|3/jour — *[sommeil profond](./Sommeil profond.md)* ([DD](./DD.md) 17)}
+{s:BDSorts|Constant — *[[détection de la magie]]*, *[[détection du Bien]]*}
+{s:BDSorts|À volonté — *[[blessure modérée]]* ([[DD]] 16), *[[pattes daraignée|pattes d’araignée]]* (sur soi seulement), *[[rayon ardent]]*}
+{s:BDSorts|3/jour — *[[sommeil profond]]* ([[DD]] 17)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 22, **Con** 15, **Int** 14, **Sag** 17, **Cha** 19}
 {s:BDTexte|**BBA** +12, **BMO** +18 (+22 lutte), **DMD** 33}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Manœuvres agiles](./Manœuvres agiles.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +18, [Bluff](./Bluff.md) +16, [Déguisement](./Déguisement.md) +16, [Discrétion](./Discrétion.md) +21, [Intimidation](./Intimidation.md) +19, [Perception](./Perception.md) +18, [Vol](./Vol.md) +14}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Attaques réflexes]], [[Esquive]], [[Manœuvres agiles]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +18, [[Bluff]] +16, [[Déguisement]] +16, [[Discrétion]] +21, [[Intimidation]] +19, [[Perception]] +18, [[Vol]] +14}
 {s:BDTexte|**Langues** abyssal, commun, géant, infernal}
-{s:BDTexte|**Particularités** dissimulation du Mal, forme flamboyante ([DD](./DD.md) 20)}
+{s:BDTexte|**Particularités** dissimulation du Mal, forme flamboyante ([[DD]] 20)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire ou cercle (3 guenaudes de n’importe quel type)}
@@ -42,10 +42,10 @@ terreur ; **RM** 19 }
 {s:BDSousTitre|POUVOIRS SPÉCIAUX}
 {s:BDTexte|**Détonation (Sur).** Une guenaude de sang sous forme flamboyante
 peut exploser dans un rayonnement de 9 mètres de rayon.
-Elle inflige alors 8d6 points de dégâts de feu (Réflexes [DD](./DD.md) 18,
+Elle inflige alors 8d6 points de dégâts de feu (Réflexes [[DD]] 18,
 1/2 dégâts). Quand elle utilise ce pouvoir, elle reprend
-immédiatement sa forme normale. Le [DD](./DD.md) du jet de sauvegarde
-est basé sur la [Constitution](./Constitution.md).}
+immédiatement sa forme normale. Le [[DD]] du jet de sauvegarde
+est basé sur la [[Constitution]].}
 {s:BDTexte|**Dissimulation du Mal (Sur).** La journée, la guenaude de
 sang « revêt sa peau », ce qui lui donne l’apparence d’une
 jeune femme. Ainsi déguisée, elle ne peut pas utiliser sa
@@ -53,7 +53,7 @@ morsure, ses griffes, ni son pouvoir de forme flamboyante.
 La nuit, elle jaillit hors de sa peau et reprend sa forme
 monstrueuse. Sa peau la recouvre de nouveau à l’aube. Tant
 que la guenaude est habillée de sa peau, son alignement
-est dissimulé, comme par un sort d’*[alignement indétectable](./Alignement indétectable.md)* permanent.}
+est dissimulé, comme par un sort d’*[[alignement indétectable]]* permanent.}
 {s:BDTexte|**Forme flamboyante (Sur).** Une guenaude de sang qui a retiré sa peau
 en utilisant son pouvoir de Dissimulation du Mal peut, par une action
 simple, se transformer en une boule de feu pendant un maximum de
@@ -61,16 +61,16 @@ simple, se transformer en une boule de feu pendant un maximum de
 1d4 rounds avant de pouvoir revêtir sa forme flamboyante. Si elle entre
 dans l’espace occupé par une autre créature alors qu’elle est sous forme
 de boule de feu, elle ne peut plus se déplacer pour le reste du round et
-lui inflige 3d6 points de dégâts de feu (Réflexes [DD](./DD.md) 20 pour annuler).
+lui inflige 3d6 points de dégâts de feu (Réflexes [[DD]] 20 pour annuler).
 La guenaude peut réduire sa chaleur et sa luminosité pour ressembler
 à une braise. Elle peut franchir des ouvertures et des fissures comme
 si elle était sous état gazeux. Une guenaude sous forme flamboyante
 conserve sa CA et devient immunisée contre les attaques et les effets
-non magiques. Si elle est victime d’une *[dissipation de la magie](./Dissipation de la magie.md)* réussie
+non magiques. Si elle est victime d’une *[[dissipation de la magie]]* réussie
 ou si elle subit 20 points de dégâts de froid, elle reprend sa forme
 normale. Le nombre d’utilisations quotidiennes de la forme flamboyante
-est égal au modificateur de [Charisme](./Charisme.md) de la guenaude de sang, en
-général 4. Le [DD](./DD.md) du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).}
+est égal au modificateur de [[Charisme]] de la guenaude de sang, en
+général 4. Le [[DD]] du jet de sauvegarde est basé sur le [[Charisme]].}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -79,19 +79,19 @@ général 4. Le [DD](./DD.md) du jet de sauvegarde est basé sur le [Charisme](.
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Guenaude annis](./Guenaude annis.md) || 6
+| [[Guenaude annis]] || 6
 |-
-| [Guenaude arctique](./Guenaude arctique.md) || 7
+| [[Guenaude arctique]] || 7
 |-
-| [Guenaude de sang](./Guenaude de sang.md) || 8
+| [[Guenaude de sang]] || 8
 |-
-| [Guenaude des tempêtes](./Guenaude des tempêtes.md) || 7
+| [[Guenaude des tempêtes]] || 7
 |-
-| [Guenaude marine](./Guenaude marine.md) || 4
+| [[Guenaude marine]] || 4
 |-
-| [Guenaude noire](./Guenaude noire.md) || 9
+| [[Guenaude noire]] || 9
 |-
-| [Guenaude verte](./Guenaude verte.md) || 5
+| [[Guenaude verte]] || 5
 |}
 </div>*Cette dame serait très jolie si ses dents et ses ongles n’étaient pas aussi pointus et si sa peau n’était pas aussi blafarde.*
 
@@ -118,8 +118,8 @@ souvent des niveaux dans la classe de sorcière.
 #### LES CERCLES DE GUENAUDES DE SANG
 
 Un cercle qui compte une guenaude de sang n’a plus
-accès aux pouvoirs magiques *[contrôle du climat](./Contrôle du climat.md)* ni *[communication avec les morts](./Communication avec les morts.md)*. En revanche, il peut lancer
-*[protection contre la mort](./Protection contre la mort.md)*, *[tempête de feu](./Tempête de feu.md)* et *[cauchemar](./Cauchemar.md)*.
+accès aux pouvoirs magiques *[[contrôle du climat]]* ni *[[communication avec les morts]]*. En revanche, il peut lancer
+*[[protection contre la mort]]*, *[[tempête de feu]]* et *[[cauchemar]]*.
 Quand les trois guenaudes du cercle se trouvent à
 moins de 3 mètres les unes des autres, elles gagnent
 l’immunité au feu et la résistance à la magie

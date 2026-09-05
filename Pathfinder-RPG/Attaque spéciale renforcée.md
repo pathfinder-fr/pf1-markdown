@@ -16,6 +16,6 @@ Categories:
 
 **Condition.** Posséder une attaque spéciale.
 
-**Avantage.** Les effets de ce don s’appliquent à une des attaques spéciales de la créature. Le [DD](./DD.md) de tous les [jets de sauvegarde](./jet de sauvegarde.md) pour résister à celle-ci augmente de +2.
+**Avantage.** Les effets de ce don s’appliquent à une des attaques spéciales de la créature. Le [[DD]] de tous les [[jet de sauvegarde|jets de sauvegarde]] pour résister à celle-ci augmente de +2.
 
 **Spécial.** La créature peut gagner ce don plusieurs fois, mais ses effets ne se cumulent pas : il s’applique chaque fois à une attaque spéciale différente.

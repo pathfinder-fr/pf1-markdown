@@ -10,7 +10,7 @@ LastModified: 2019-01-29 22:31
 
 *Vous connaissez des personnes et des choses interagissant avec le monde souterrain, qu'il s'agisse de relations au sein de la pègre ou d'amis qui résident à la surface.*
 
-**Avantage(s):** Vous gagnez +2 sur tous vos jets de [Connaissances](./Connaissances.md) (exploration souterraine) et de [Survie](./Survie.md) quand vous êtes en milieu urbain ou souterrain.
+**Avantage(s):** Vous gagnez +2 sur tous vos jets de [[Connaissances]] (exploration souterraine) et de [[Survie]] quand vous êtes en milieu urbain ou souterrain.
 
 Additionnellement, quand vous tentez un jet dans un village modifié par ses modificateurs de corruption, crime ou économie, vous pouvez utiliser vos connaissances de contacts locaux pour gagner +4 sur ce jet. Par contre, si ce jet rate, n'importe qui assistant à votre essai vous voit en train de commettre un violation de la loi locale.
 

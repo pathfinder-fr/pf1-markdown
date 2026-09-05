@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Blessures et mort#NONLETAL
 ---
 
->>> [Blessures et mort#NONLETAL](./Blessures et mort.md#NONLETAL)
+>>> [[Blessures et mort#NONLETAL]]

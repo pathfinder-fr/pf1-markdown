@@ -4,7 +4,7 @@ Title: Barde archer
 LastModified: 2015-03-08 23:11
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le [1er sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst6810_multiclassage-voleur-magicien-pretre.aspx#post255764)***</br>
 ***Voir le [2ème sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst7598_Construction-d-un-Barde-Archiviste-de-Level-7.aspx#post294731)***</br>
 ***Voir le [3ème sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst7901_Un-archer-mage.aspx#post311009)***</div><nav class="wiki-toc"></nav>
@@ -14,29 +14,29 @@ LastModified: 2015-03-08 23:11
 ### A propos du build
 
 #### 1. Rôle du personnage
-Au combat, le [++Pathfinder-RPG.Barde.ashx|barde] se positionne comme un combattant à distance et un "buffeur".{br}
-Hors combat, c'est un [++Pathfinder-RPG.Barde.ashx|barde], donc un pro des interactions sociales. Il a aussi de bonnes aptitudes à l'infiltration et à la reconnaissance.
+Au combat, le [[Pathfinder-RPG.Barde.ashx|barde]] se positionne comme un combattant à distance et un "buffeur".{br}
+Hors combat, c'est un [[Pathfinder-RPG.Barde.ashx|barde]], donc un pro des interactions sociales. Il a aussi de bonnes aptitudes à l'infiltration et à la reconnaissance.
 
 #### 2. Caractéristiques et race
 
 ##### 2.1 Caractéristiques
 C'est un archer, il faut donc une dextérité élevée pour toucher. Il faut également de la force pour les dégâts.{br}
-C'est un [++Pathfinder-RPG.Barde.ashx|barde], il faut donc du charisme pour lancer les sorts. Néanmoins, le personnage lance peu de sorts et ce ne sont pas des sorts à jets de sauvegarde. Commencer avec charisme 14 ou charisme 13 (+1 au niveau 4) suffit.</br>
+C'est un [[Pathfinder-RPG.Barde.ashx|barde]], il faut donc du charisme pour lancer les sorts. Néanmoins, le personnage lance peu de sorts et ce ne sont pas des sorts à jets de sauvegarde. Commencer avec charisme 14 ou charisme 13 (+1 au niveau 4) suffit.</br>
 Le personnage n'est pas destiné à aller en mêlée et n'a donc pas besoin d'une constitution élevée. L'intelligence et la sagesse ne sont pas importants pour lui.
 
 ##### 2.2 Race
-L'archerie est un style de combat gourmand en dons et la classe de [++Pathfinder-RPG.Barde.ashx|barde] ne dispose d'aucun don bonus. L'humain, avec son don bonus, s'impose comme la meilleure race.
+L'archerie est un style de combat gourmand en dons et la classe de [[Pathfinder-RPG.Barde.ashx|barde]] ne dispose d'aucun don bonus. L'humain, avec son don bonus, s'impose comme la meilleure race.
 
 ##### 2.3 Exemple de répartition (20 points)
 For 14, Dex 17 (15+2), Con 13, Int 10, Sag 10, Cha 14.
 
 
 #### 3. Plan de carrière
-100% pur [++Pathfinder-RPG.Barde.ashx|barde]. Le [++Pathfinder-RPG.Barde.ashx|barde] classique offre beaucoup d'options hors-combat et le côté "buffeur" est très développé. Si on veut accentuer le côté archer, l'archétype [http://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo---bard-archetypes/dawnflower-dervish|dawnflower dervish] est tout indiqué. Le [++Pathfinder-RPG.Chefs doeuvre.ashx|chef d'œuvre] [http://www.d20pfsrd.com/classes/core-classes/bard/masterpieces/pageant-of-the-peacock|pageant of the peacock] compensera alors la perte de [++Pathfinder-RPG.barde.ashx#SAVOIRBARDIQUE|savoir bardique] / [++Pathfinder-RPG.barde.ashx#MAITREDUSAVOIR|maître du savoir].
+100% pur [[Pathfinder-RPG.Barde.ashx|barde]]. Le [[Pathfinder-RPG.Barde.ashx|barde]] classique offre beaucoup d'options hors-combat et le côté "buffeur" est très développé. Si on veut accentuer le côté archer, l'archétype [dawnflower dervish](http://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo---bard-archetypes/dawnflower-dervish) est tout indiqué. Le [[Pathfinder-RPG.Chefs doeuvre.ashx|chef d'œuvre]] [pageant of the peacock](http://www.d20pfsrd.com/classes/core-classes/bard/masterpieces/pageant-of-the-peacock) compensera alors la perte de [[Pathfinder-RPG.barde.ashx#SAVOIRBARDIQUE|savoir bardique]] / [[Pathfinder-RPG.barde.ashx#MAITREDUSAVOIR|maître du savoir]].
 
-Avant le combat, le [++Pathfinder-RPG.Barde.ashx|barde] lance [++Pathfinder-RPG.Héroïsme.ashx|héroïsme] sur lui-même. Le sort dure suffisamment longtemps pour en profiter plus d'un combat et il est utile hors combat pour les jets de compétence et de sauvegarde.
+Avant le combat, le [[Pathfinder-RPG.Barde.ashx|barde]] lance [[Pathfinder-RPG.Héroïsme.ashx|héroïsme]] sur lui-même. Le sort dure suffisamment longtemps pour en profiter plus d'un combat et il est utile hors combat pour les jets de compétence et de sauvegarde.
 
-Au combat, le [++Pathfinder-RPG.Barde.ashx|barde] commence par un round de buff. [++Pathfinder-RPG.Représentations.ashx#INSPIRATIONVAILLANTE|Inspiration vaillante] en action simple, puis en action de mouvement à partir du niv.7, alors couplé à [++Pathfinder-RPG.Rapidité.ashx|rapidité]. Ces effets profitant à tout le groupe, il a fini son job de buffeur.
+Au combat, le [[Pathfinder-RPG.Barde.ashx|barde]] commence par un round de buff. [[Pathfinder-RPG.Représentations.ashx#INSPIRATIONVAILLANTE|Inspiration vaillante]] en action simple, puis en action de mouvement à partir du niv.7, alors couplé à [[Pathfinder-RPG.Rapidité.ashx|rapidité]]. Ces effets profitant à tout le groupe, il a fini son job de buffeur.
 
 Au rounds suivants, il attaque à l'arc, enchaînant les attaques à outrance. Il se tient néanmoins prêt à lancer un sort en cas de besoin pour aider un allié.
 
@@ -44,7 +44,7 @@ Au rounds suivants, il attaque à l'arc, enchaînant les attaques à outrance. I
 Les points de vie ou les points de compétence sont deux bons choix. À voir en fonction des besoins.
 
 ##### 3.2 Traits
-Le [++Pathfinder-RPG.Barde.ashx|barde] est une classe à vigueur faible. La sagesse faible handicape la volonté, même avec une base forte. Les traits donnant +1 aux jets de sauvegarde sont de bons choix.
+Le [[Pathfinder-RPG.Barde.ashx|barde]] est une classe à vigueur faible. La sagesse faible handicape la volonté, même avec une base forte. Les traits donnant +1 aux jets de sauvegarde sont de bons choix.
 
 ##### 3.3 Capacités de classe et dons
 
@@ -56,50 +56,50 @@ Tous les dons sont occupés par des dons de tir. Il n'y a de place pour la fanta
 
 ##### 3.4 Sorts
 
-**3.4.0 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#0|Sorts de niveau 0]**
-- [++Pathfinder-RPG.Détection de la magie.ashx|Détection de la magie]
-- [++Pathfinder-RPG.Lecture de la magie.ashx|Lecture de la magie]
-- [++Pathfinder-RPG.Manipulation à distance.ashx|Manipulation à distance]
-- [++Pathfinder-RPG.Message.ashx|Message]
-- [++Pathfinder-RPG.Prestidigitation.ashx|Prestidigitation]
-- [++Pathfinder-RPG.Son imaginaire.ashx|Son imaginaire]
+**3.4.0 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#0|Sorts de niveau 0]]**
+- [[Pathfinder-RPG.Détection de la magie.ashx|Détection de la magie]]
+- [[Pathfinder-RPG.Lecture de la magie.ashx|Lecture de la magie]]
+- [[Pathfinder-RPG.Manipulation à distance.ashx|Manipulation à distance]]
+- [[Pathfinder-RPG.Message.ashx|Message]]
+- [[Pathfinder-RPG.Prestidigitation.ashx|Prestidigitation]]
+- [[Pathfinder-RPG.Son imaginaire.ashx|Son imaginaire]]
 
-**3.4.1 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#1|Sorts de niveau 1]**
-- [++Pathfinder-RPG.Compréhension des langages.ashx|Compréhension des langages]
-- [++Pathfinder-RPG.Feuille morte.ashx|Feuille morte]
-- [++Pathfinder-RPG.Graisse.ashx|Graisse]
-- [++Pathfinder-RPG.Image silencieuse.ashx|Image silencieuse]
-- [++Pathfinder-RPG.Regain dassurance.ashx|Regain d'assurance]
-- [++Pathfinder-RPG.Serviteur invisible.ashx|Serviteur invisible]
+**3.4.1 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#1|Sorts de niveau 1]]**
+- [[Pathfinder-RPG.Compréhension des langages.ashx|Compréhension des langages]]
+- [[Pathfinder-RPG.Feuille morte.ashx|Feuille morte]]
+- [[Pathfinder-RPG.Graisse.ashx|Graisse]]
+- [[Pathfinder-RPG.Image silencieuse.ashx|Image silencieuse]]
+- [[Pathfinder-RPG.Regain dassurance.ashx|Regain d'assurance]]
+- [[Pathfinder-RPG.Serviteur invisible.ashx|Serviteur invisible]]
 
-**3.4.2 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#2|Sorts de niveau 2]**
-- [++Pathfinder-RPG.Détection de pensées.ashx|Détection de pensées]
-- [++Pathfinder-RPG.Don des langues.ashx|Don des langues]
-- [++Pathfinder-RPG.Héroïsme.ashx|Héroïsme]
-- [++Pathfinder-RPG.Invisibilité.ashx|Invisibilité]
-- [++Pathfinder-RPG.Modification dapparence.ashx|Modification d'apparence]
-- [++Pathfinder-RPG.Ralentissement du poison.ashx|Ralentissement du poison]
+**3.4.2 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#2|Sorts de niveau 2]]**
+- [[Pathfinder-RPG.Détection de pensées.ashx|Détection de pensées]]
+- [[Pathfinder-RPG.Don des langues.ashx|Don des langues]]
+- [[Pathfinder-RPG.Héroïsme.ashx|Héroïsme]]
+- [[Pathfinder-RPG.Invisibilité.ashx|Invisibilité]]
+- [[Pathfinder-RPG.Modification dapparence.ashx|Modification d'apparence]]
+- [[Pathfinder-RPG.Ralentissement du poison.ashx|Ralentissement du poison]]
 
-**3.4.3 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#3|Sorts de niveau 3]**
-- [++Pathfinder-RPG.Bagou.ashx|Bagou]
-- [++Pathfinder-RPG.Dissipation de la magie.ashx|Dissipation de la magie]
-- [++Pathfinder-RPG.Manipulation des sons.ashx|Manipulation des sons]
-- [++Pathfinder-RPG.Rapidité.ashx|Rapidité]
+**3.4.3 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#3|Sorts de niveau 3]]**
+- [[Pathfinder-RPG.Bagou.ashx|Bagou]]
+- [[Pathfinder-RPG.Dissipation de la magie.ashx|Dissipation de la magie]]
+- [[Pathfinder-RPG.Manipulation des sons.ashx|Manipulation des sons]]
+- [[Pathfinder-RPG.Rapidité.ashx|Rapidité]]
 
-**3.4.4 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#4|Sorts de niveau 4]**
-- [++Pathfinder-RPG.Convocation dombres.ashx|Convocation d'ombres]
-- [++Pathfinder-RPG.Porte dimensionnelle.ashx|Porte dimensionnelle]
-- [++Pathfinder-RPG.Liberté de mouvement.ashx|Liberté de mouvement]
+**3.4.4 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#4|Sorts de niveau 4]]**
+- [[Pathfinder-RPG.Convocation dombres.ashx|Convocation d'ombres]]
+- [[Pathfinder-RPG.Porte dimensionnelle.ashx|Porte dimensionnelle]]
+- [[Pathfinder-RPG.Liberté de mouvement.ashx|Liberté de mouvement]]
 
-**3.4.5 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#5|Sorts de niveau 5]**
-- [++Pathfinder-RPG.Dissipation suprême.ashx|Dissipation suprême]
-- [++Pathfinder-RPG.Magie des ombres.ashx|Magie des ombres]
-- [++Pathfinder-RPG.Traversée des ombres.ashx|Traversée des ombres]
+**3.4.5 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#5|Sorts de niveau 5]]**
+- [[Pathfinder-RPG.Dissipation suprême.ashx|Dissipation suprême]]
+- [[Pathfinder-RPG.Magie des ombres.ashx|Magie des ombres]]
+- [[Pathfinder-RPG.Traversée des ombres.ashx|Traversée des ombres]]
 
-**3.4.6 [++Pathfinder-RPG.Liste des sorts de bardes.ashx#6|Sorts de niveau 6]**
-- [++Pathfinder-RPG.Convocation de monstres VI.ashx|Convocation de monstres VI]
-- [++Pathfinder-RPG.Orientation.ashx|Orientation]
-- [++Pathfinder-RPG.Projection dimage.ashx|Projection de l'image]
+**3.4.6 [[Pathfinder-RPG.Liste des sorts de bardes.ashx#6|Sorts de niveau 6]]**
+- [[Pathfinder-RPG.Convocation de monstres VI.ashx|Convocation de monstres VI]]
+- [[Pathfinder-RPG.Orientation.ashx|Orientation]]
+- [[Pathfinder-RPG.Projection dimage.ashx|Projection de l'image]]
 
 
 #### 4. Équipement
@@ -117,43 +117,43 @@ Sceptre mineur d'Extension de durée: principalement pour Héroïsme. {br}
 |- CLASS="titre"
 | Niveau || Classe || BBA || NLS || Capacités de classe, dons
 |- CLASS="premier"
-| 01 || [++Pathfinder-RPG.Barde.ashx|Barde] 1 || +0 || 01 || [++Pathfinder-RPG.Tir à bout portant.ashx|Tir à bout portant], [++Pathfinder-RPG.Tir de précision.ashx|tir de précision]
+| 01 || [[Pathfinder-RPG.Barde.ashx|Barde]] 1 || +0 || 01 || [[Pathfinder-RPG.Tir à bout portant.ashx|Tir à bout portant]], [[Pathfinder-RPG.Tir de précision.ashx|tir de précision]]
 |-
-| 02 || [++Pathfinder-RPG.Barde.ashx|Barde] 2 || +1 || 02 || &nbsp;
+| 02 || [[Pathfinder-RPG.Barde.ashx|Barde]] 2 || +1 || 02 || &nbsp;
 |-
-| 03 || [++Pathfinder-RPG.Barde.ashx|Barde] 3 || +2 || 03 || [++Pathfinder-RPG.Tir rapide.ashx|Tir rapide]
+| 03 || [[Pathfinder-RPG.Barde.ashx|Barde]] 3 || +2 || 03 || [[Pathfinder-RPG.Tir rapide.ashx|Tir rapide]]
 |-
-| 04 || [++Pathfinder-RPG.Barde.ashx|Barde] 4 || +3 || 04 || &nbsp;
+| 04 || [[Pathfinder-RPG.Barde.ashx|Barde]] 4 || +3 || 04 || &nbsp;
 |-
-| 05 || [++Pathfinder-RPG.Barde.ashx|Barde] 5 || +3 || 05 || [++Pathfinder-RPG.Frappe magique.ashx|Frappe magique]
+| 05 || [[Pathfinder-RPG.Barde.ashx|Barde]] 5 || +3 || 05 || [[Pathfinder-RPG.Frappe magique.ashx|Frappe magique]]
 |-
-| 06 || [++Pathfinder-RPG.Barde.ashx|Barde] 6 || +4 || 06 || &nbsp;
+| 06 || [[Pathfinder-RPG.Barde.ashx|Barde]] 6 || +4 || 06 || &nbsp;
 |-
-| 07 || [++Pathfinder-RPG.Barde.ashx|Barde] 7 || +5 || 07 || [++Pathfinder-RPG.Viser.ashx|Viser]
+| 07 || [[Pathfinder-RPG.Barde.ashx|Barde]] 7 || +5 || 07 || [[Pathfinder-RPG.Viser.ashx|Viser]]
 |-
-| 08 || [++Pathfinder-RPG.Barde.ashx|Barde] 8 || +6/+1 || 08 || &nbsp;
+| 08 || [[Pathfinder-RPG.Barde.ashx|Barde]] 8 || +6/+1 || 08 || &nbsp;
 |-
-| 09 || [++Pathfinder-RPG.Barde.ashx|Barde] 9 || +6/+1 || 09 || [++Pathfinder-RPG.Feu nourri.ashx|feu nourri]
+| 09 || [[Pathfinder-RPG.Barde.ashx|Barde]] 9 || +6/+1 || 09 || [[Pathfinder-RPG.Feu nourri.ashx|feu nourri]]
 |-
-| 10 || [++Pathfinder-RPG.Barde.ashx|Barde] 10 || +7/+2 || 10 || &nbsp;
+| 10 || [[Pathfinder-RPG.Barde.ashx|Barde]] 10 || +7/+2 || 10 || &nbsp;
 |-
-| 11 || [++Pathfinder-RPG.Barde.ashx|Barde] 11 || +8/+3 || 11 || [++Pathfinder-RPG.Tirs groupés.ashx|Tirs groupés]
+| 11 || [[Pathfinder-RPG.Barde.ashx|Barde]] 11 || +8/+3 || 11 || [[Pathfinder-RPG.Tirs groupés.ashx|Tirs groupés]]
 |-
-| 12 || [++Pathfinder-RPG.Barde.ashx|Barde] 12 || +9/+4 || 12 || &nbsp;
+| 12 || [[Pathfinder-RPG.Barde.ashx|Barde]] 12 || +9/+4 || 12 || &nbsp;
 |-
-| 13 || [++Pathfinder-RPG.Barde.ashx|Barde] 13 || +9/+4 || 13 || [++Pathfinder-RPG.Voix discordante.ashx|Voix discordante]
+| 13 || [[Pathfinder-RPG.Barde.ashx|Barde]] 13 || +9/+4 || 13 || [[Pathfinder-RPG.Voix discordante.ashx|Voix discordante]]
 |-
-| 14 || [++Pathfinder-RPG.Barde.ashx|Barde] 14 || +10/+5 || 14 || &nbsp;
+| 14 || [[Pathfinder-RPG.Barde.ashx|Barde]] 14 || +10/+5 || 14 || &nbsp;
 |-
-| 15 || [++Pathfinder-RPG.Barde.ashx|Barde] 15 || +11/+6/+1 || 15 || [++Pathfinder-RPG.Science du tir de précision.ashx|Science du tir de précision]
+| 15 || [[Pathfinder-RPG.Barde.ashx|Barde]] 15 || +11/+6/+1 || 15 || [[Pathfinder-RPG.Science du tir de précision.ashx|Science du tir de précision]]
 |-
-| 16 || [++Pathfinder-RPG.Barde.ashx|Barde] 16 || +12/+7/+2 || 16 || &nbsp;
+| 16 || [[Pathfinder-RPG.Barde.ashx|Barde]] 16 || +12/+7/+2 || 16 || &nbsp;
 |-
-| 17 || [++Pathfinder-RPG.Barde.ashx|Barde] 17 || +12/+7/+2 || 17 || &nbsp;
+| 17 || [[Pathfinder-RPG.Barde.ashx|Barde]] 17 || +12/+7/+2 || 17 || &nbsp;
 |-
-| 18 || [++Pathfinder-RPG.Barde.ashx|Barde] 18 || +13/+8/+3 || 18 || &nbsp;
+| 18 || [[Pathfinder-RPG.Barde.ashx|Barde]] 18 || +13/+8/+3 || 18 || &nbsp;
 |-
-| 19 || [++Pathfinder-RPG.Barde.ashx|Barde] 19 || +14/+9/+4 || 19 || &nbsp;
+| 19 || [[Pathfinder-RPG.Barde.ashx|Barde]] 19 || +14/+9/+4 || 19 || &nbsp;
 |-
-| 20 || [++Pathfinder-RPG.Barde.ashx|Barde] 20 || +15/+10/+5 || 20 || &nbsp;
+| 20 || [[Pathfinder-RPG.Barde.ashx|Barde]] 20 || +15/+10/+5 || 20 || &nbsp;
 |}

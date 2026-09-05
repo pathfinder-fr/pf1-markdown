@@ -11,12 +11,12 @@ Categories:
 
 {s:ISG}{s:GeM}*Le personnage peut bousculer un adversaire et l’aplatir au sol.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Charge impitoyable](./Charge impitoyable.md), [Science de la bousculade](./Science de la bousculade.md), suivant de [Rovagug](./Rovagug (technique).md)
+**Conditions.** [[Charge impitoyable]], [[Science de la bousculade]], suivant de [[Rovagug (technique)|Rovagug]]
 
-**Avantage.** Lorsque le personnage effectue une manœuvre de [bousculade](./bousculade.md) et que le résultat de son test dépasse le [DMD](./DMD.md) de la cible de 5 ou plus, il peut tenter une manœuvre de [croc-en-jambe](./croc-en-jambe.md) dans le cadre de cette bousculade par une [action libre](./Action libre.md). Cette manœuvre ne provoque pas d’[attaque d’opportunité](./AO.md).
+**Avantage.** Lorsque le personnage effectue une manœuvre de [[bousculade]] et que le résultat de son test dépasse le [[DMD]] de la cible de 5 ou plus, il peut tenter une manœuvre de [[croc-en-jambe]] dans le cadre de cette bousculade par une [[action libre]]. Cette manœuvre ne provoque pas d’[[AO|attaque d’opportunité]].
 
 {s:cs}{s:WMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Lorsque le personnage réussit une manœuvre de [bousculade](./bousculade.md), il peut dépenser 4 points d'endurance pour tenter une manœuvre de [croc-en-jambe](./croc-en-jambe.md) avec [Aplatissement](./Aplatissement.md) sans tenir compte du résultat du test de la manœuvre de bousculade.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Lorsque le personnage réussit une manœuvre de [[bousculade]], il peut dépenser 4 points d'endurance pour tenter une manœuvre de [[croc-en-jambe]] avec [[Aplatissement]] sans tenir compte du résultat du test de la manœuvre de bousculade.

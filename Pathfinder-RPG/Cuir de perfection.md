@@ -10,9 +10,9 @@ Categories:
 
 {s:divin|Irori|%2fPCUP%2fReligion-PNG%2fIrori.png}<div class="BD">
 {s:BDTitre|Cuir de perfection|{s:ISG}}
-**Aura** [Divination](./école divination.md), [Nécromancie](./Nécromancie.md), et [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 3 860 po ; **Poids** 7,5 kg
+**Aura** [[école Divination|Divination]], [[Nécromancie]], et [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Prix** 3 860 po ; **Poids** 7,5 kg
 (((Description)))
-{s:cs}Cette *[armure de cuir](./armure de cuir (armure).md) +1* porte généralement le symbole de la main ouverte d'[Irori](./Irori (technique).md) au niveau du cou et des mantras méditatifs le long des manches. Le porteur peut utiliser *[assistance divine](./Assistance divine.md)*, *[fatigue](./Fatigue.md)* et *[poing de pierre](./Poing de pierre.md)* une fois par jour.
+{s:cs}Cette *[[armure de cuir (armure)|armure de cuir]] +1* porte généralement le symbole de la main ouverte d'[[Irori (technique)|Irori]] au niveau du cou et des mantras méditatifs le long des manches. Le porteur peut utiliser *[[assistance divine]]*, *[[fatigue]]* et *[[poing de pierre]]* une fois par jour.
 (((Création)))
-**Conditions** [Création d'armes et armures magiques](./Création darmes et armures magiques.md), *[assistance divine](./Assistance divine.md)*, *[fatigue](./Fatigue.md)*, *[poing de pierre](./Poing de pierre.md)* ; **Coût** 2 010 po
+**Conditions** [[Création darmes et armures magiques|Création d'armes et armures magiques]], *[[assistance divine]]*, *[[fatigue]]*, *[[poing de pierre]]* ; **Coût** 2 010 po
 </div>

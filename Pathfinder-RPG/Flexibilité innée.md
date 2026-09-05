@@ -10,10 +10,10 @@ Categories:
 
 {s:cm}*La magie innée du personnage est flexible.*
 
-**Conditions** [Duergar](./duergar (race).md), deux pouvoirs magiques raciaux utilisables une fois par jour.
+**Conditions** [[Duergar (race)|Duergar]], deux pouvoirs magiques raciaux utilisables une fois par jour.
 
 **Avantages** Chaque jour, le personnage gagne des utilisations supplémentaires de ses pouvoirs magiques raciaux normalement utilisables une fois par jour. Ce nombre d’utilisations supplémentaires est égal au nombre de pouvoirs magiques de ce type qu’il maîtrise. Il peut dépenser ses utilisations supplémentaires selon n’importe quelle combinaison. Ce don prend en compte les pouvoirs magiques habituels des duergars et ceux issus de traits raciaux.
 
-Par exemple, un duergar ordinaire possède deux pouvoirs magiques raciaux utilisables une fois par jour (*[agrandissement](./Agrandissement.md)* et *[invisibilité](./Invisibilité.md)*). S’il choisit ce don, il a droit à deux utilisations supplémentaires de ses pouvoirs magiques (qui étaient auparavant utilisables une seule fois par jour). Chaque jour, il peut lancer *agrandissement* deux fois de plus ou *invisibilité* deux fois de plus ou l’un et l’autre une fois de plus.
+Par exemple, un duergar ordinaire possède deux pouvoirs magiques raciaux utilisables une fois par jour (*[[agrandissement]]* et *[[invisibilité]]*). S’il choisit ce don, il a droit à deux utilisations supplémentaires de ses pouvoirs magiques (qui étaient auparavant utilisables une seule fois par jour). Chaque jour, il peut lancer *agrandissement* deux fois de plus ou *invisibilité* deux fois de plus ou l’un et l’autre une fois de plus.
 
 **Spécial** Le personnage peut choisir ce don à plusieurs reprises. Ses effets se cumulent.

@@ -6,6 +6,6 @@ Categories:
 - Règle de monstres universelle
 ---
 
-Cette capacité est constante. La créature reste invisible à tout moment, même quand elle attaque. Comme il s’agit d’une capacité inhérente, le sort de *[négation de l’invisibilité](./Négation de linvisibilité.md)* ne l’affecte pas.
+Cette capacité est constante. La créature reste invisible à tout moment, même quand elle attaque. Comme il s’agit d’une capacité inhérente, le sort de *[[négation de linvisibilité|négation de l’invisibilité]]* ne l’affecte pas.
 
 *Format :* invisibilité naturelle. *Emplacement :* Capacités défensives.

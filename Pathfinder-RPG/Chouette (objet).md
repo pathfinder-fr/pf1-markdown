@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:AE}**Prix** 20 po (standard), 20 po (forêt des trois nations) ; **Poids** 0,5–1,5 kg (standard), 1,5 kg (forêt des trois nations)
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces oiseaux de proie nocturnes de taille TP sont réputés pour leur vue perçante et leur vol silencieux. Les chouettes se nourrissent de petits animaux et d’insectes et on les trouve dans presque tous les environnements. Certains fermiers fabriquent des maisons à oiseaux pour les chouettes à proximité des champs et des fermes pour contrôler les populations de rongeurs. Les chouettes les plus intelligentes font d’excellents [familiers](./Familiers.md). Voir les statistiques de la [chouette](./Chouette.md).  
+Ces oiseaux de proie nocturnes de taille TP sont réputés pour leur vue perçante et leur vol silencieux. Les chouettes se nourrissent de petits animaux et d’insectes et on les trouve dans presque tous les environnements. Certains fermiers fabriquent des maisons à oiseaux pour les chouettes à proximité des champs et des fermes pour contrôler les populations de rongeurs. Les chouettes les plus intelligentes font d’excellents [[Familiers]]. Voir les statistiques de la [[chouette]].  
   
 {s:cs}{s:AA}*Chouette de la forêt des trois nations*. Les chouettes de la forêt des trois nations ont une apparence “plumes ébouriffées” distincte sur leur tête, leur donnant un air de professeur somnolant en journée.

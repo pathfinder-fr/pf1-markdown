@@ -11,12 +11,12 @@ Categories:
 
 {s:ISG}{s:GeM}*Le personnage pense qu’une réaction prudente mais répétée garantit le succès.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [BBA](./BBA.md) +1, suivant d'[Abadar](./Abadar (technique).md)
+**Conditions.** [[BBA]] +1, suivant d'[[Abadar (technique)|Abadar]]
 
 **Avantage.** Lorsque le personnage touche un adversaire avec une attaque de corps à corps ou une attaque à distance, il peut choisir d’infliger des dégâts moyens (arrondis à l’inférieur), comme s’il avait obtenu la moyenne exacte sur le ou les dés de dégâts. Il ajoute ses bonus et ses malus aux dégâts normalement.
 
 {s:cs}{s:WMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d'endurance avant d'effectuer une attaque au corps à corps ou à distance avec [Réaction pondérée](./Réaction pondérée.md) afin de considérer le résultat du dé de son jet d'attaque comme un 10.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d'endurance avant d'effectuer une attaque au corps à corps ou à distance avec [[Réaction pondérée]] afin de considérer le résultat du dé de son jet d'attaque comme un 10.

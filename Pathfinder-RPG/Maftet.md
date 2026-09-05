@@ -10,8 +10,8 @@ LastModified: 2022-06-07 00:04
 {s:pucem|Humanoïde monstrueux|Désert|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.185*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 13, pris au dépourvu 17 (Armure +4, Dex +3, naturelle +3)}
 {s:BDTexte|**pv** 68 (8d10+24)}
@@ -21,14 +21,14 @@ LastModified: 2022-06-07 00:04
 {s:BDTexte|**Corps à corps** cimeterre de maître, +11/+11/+6/+6,(1d6+3/18-20)}
 {s:BDTexte|**Attaques spéciales** armes appariées, plongeon du raptor}
 {s:BDTexte|**Pouvoirs magiques** (NLS 8 ; concentration +8)}
-{s:BDSorts|Constant — *[armure de mage](./Armure de mage.md)*}
-{s:BDSorts|3/jour — *[arme magique](./Arme magique.md)*}
-{s:BDSorts|1/jour — *[grâce féline](./Grâce féline.md)*, *[protection contre le Mal](./Protection contre le Mal.md)*}
+{s:BDSorts|Constant — *[[armure de mage]]*}
+{s:BDSorts|3/jour — *[[arme magique]]*}
+{s:BDSorts|1/jour — *[[grâce féline]]*, *[[protection contre le Mal]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 17, **Con** 16, **Int** 10, **Sag** 15, **Cha** 11}
 {s:BDTexte|**BBA** +8, **BMO** +11, **DMD** 24}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md)(cimeterre), [Attaques réflexes](./Attaques réflexes.md), [Combat à deux armes](./Combat à deux armes.md), [Double frappe](./Double frappe.md), [Science du combat à deux armes](./Science du combat à deux armes.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (histoire) +8, [Discrétion](./Discrétion.md) +18, [Perception](./Perception.md) +13, [Vol](./Vol.md) +10}
+{s:BDTexte|**Dons** [[Arme de prédilection]](cimeterre), [[Attaques réflexes]], [[Combat à deux armes]], [[Double frappe]], [[Science du combat à deux armes]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (histoire) +8, [[Discrétion]] +18, [[Perception]] +13, [[Vol]] +10}
 {s:BDTexte|**Modificateur racial** +4 en Discrétion}
 {s:BDTexte|**Langues** commun, sphinx}
 {s:BDTexte|**Particularité** tatouages runiques}
@@ -38,8 +38,8 @@ LastModified: 2022-06-07 00:04
 {s:BDTexte|**Trésor** standard (2 cimeterres de maître, autre trésor)}
 {s:BDSousTitre|Pouvoirs Spéciaux}
 {s:BDTexte|**Armes appariées (Ext).** Du fait de son entraînement intensif au maniement des cimeterres, celui que le maftet tient dans sa main non-directrice est considéré comme une arme légère.}
-{s:BDTexte|**Plongeon du raptor (Ext).**Lorsqu’il est dans les airs, le maftet peut descendre en piqué et frapper à la vitesse de la lumière. Cette capacité est l’équivalent d’une [charge](./charge.md) aérienne mais le maftet doit descendre d’au moins 3 mètres et peut plonger à deux fois sa vitesse de vol normale. Il bénéficie ainsi d’un bonus de +2 à ses jets d’attaque et cette technique lui permet de porter une [attaque à outrance](./attaque à outrance.md) à la fin du plongeon.}
-{s:BDTexte|**Tatouages runiques (Sur).**Les tatouages gravés sur le corps du maftet alimentent ses pouvoirs magiques et brillent lorsqu’il les utilise. Le maftet peut activer jusqu’à deux de ses pouvoirs magiques par une [action simple](./Action simple.md). Il peut faire un [jet de Vigueur](./jet de sauvegarde.md) pour résister aux effets d’un sort d’effacement lancé sur ses tatouages, mais s’il échoue, il n’a plus accès à ses pouvoirs magiques pendant 24 heures.}
+{s:BDTexte|**Plongeon du raptor (Ext).**Lorsqu’il est dans les airs, le maftet peut descendre en piqué et frapper à la vitesse de la lumière. Cette capacité est l’équivalent d’une [[charge]] aérienne mais le maftet doit descendre d’au moins 3 mètres et peut plonger à deux fois sa vitesse de vol normale. Il bénéficie ainsi d’un bonus de +2 à ses jets d’attaque et cette technique lui permet de porter une [[attaque à outrance]] à la fin du plongeon.}
+{s:BDTexte|**Tatouages runiques (Sur).**Les tatouages gravés sur le corps du maftet alimentent ses pouvoirs magiques et brillent lorsqu’il les utilise. Le maftet peut activer jusqu’à deux de ses pouvoirs magiques par une [[action simple]]. Il peut faire un [[jet de sauvegarde|jet de Vigueur]] pour résister aux effets d’un sort d’effacement lancé sur ses tatouages, mais s’il échoue, il n’a plus accès à ses pouvoirs magiques pendant 24 heures.}
 </div>
 
 {s:ImageCentre|Bestiaire/Maftet_fig.jpg|90%}

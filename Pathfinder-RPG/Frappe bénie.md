@@ -10,8 +10,8 @@ Categories:
 
 {s:mca} *Les attaques du personnage sont augmentées par la force de l’alignement qu’il partage avec sa divinité.*
 
-**Conditions.** [BBA](./BBA.md) +11, capacité à lancer des sorts divins, l’alignement du personnage ne doit pas s’écarter de celui de sa divinité de plus d’un cran.
+**Conditions.** [[BBA]] +11, capacité à lancer des sorts divins, l’alignement du personnage ne doit pas s’écarter de celui de sa divinité de plus d’un cran.
 
-**Avantage.** On considère que toutes les attaques du personnage sont considérées comme bénéficiant du ou des alignements que sa divinité et lui partagent quand il s’agit de passer la [réduction de dégâts](./réduction de dégâts.md).
+**Avantage.** On considère que toutes les attaques du personnage sont considérées comme bénéficiant du ou des alignements que sa divinité et lui partagent quand il s’agit de passer la [[réduction de dégâts]].
 
-**Spécial.** Si le personnage enfreint outrageusement le code de conduite imposé par sa divinité ou, s’il ne vénère plus son dieu, il perd accès à ce don. Le personnage peut le regagner en faisant pénitence pour ses méfaits à l’égard de sa divinité (cf. le sort de *[pénitence](./Pénitence.md)*).
+**Spécial.** Si le personnage enfreint outrageusement le code de conduite imposé par sa divinité ou, s’il ne vénère plus son dieu, il perd accès à ce don. Le personnage peut le regagner en faisant pénitence pour ses méfaits à l’égard de sa divinité (cf. le sort de *[[pénitence]]*).

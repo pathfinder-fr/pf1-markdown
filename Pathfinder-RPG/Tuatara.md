@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 p.97*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md), [vision dans le noir](./vision dans le noir.md) à 18 m ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]], [[vision dans le noir]] à 18 m ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -26,9 +26,9 @@ Categories:
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 2, **Dex** 13, **Con** 12, **Int** 1, **Sag** 10, **Cha** 5}
-{s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 5 (9 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +5 (+1 pour sauter), [Escalade](./Escalade.md) +9, [Perception](./Perception.md) +4, [Survie](./Survie.md) +4 ; **Modificateurs raciaux** -4 en [Acrobaties](./Acrobaties.md) pour sauter, +4 en [Perception](./Perception.md), +4 en [Survie](./Survie.md)}
+{s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 5 (9 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +5 (+1 pour sauter), [[Escalade]] +9, [[Perception]] +4, [[Survie]] +4 ; **Modificateurs raciaux** -4 en [[Acrobaties]] pour sauter, +4 en [[Perception]], +4 en [[Survie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** îles tempérées}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
@@ -39,5 +39,5 @@ lézards. Ils vivent essentiellement sur les îles
 vierges où les mammifères n’ont jamais posé
 le pied.
 
-Les tuataras peuvent servir de familier aux lanceurs de sort. Un familier tuatara donne à son maître un bonus de +3 aux tests de [Survie](./Survie.md).
+Les tuataras peuvent servir de familier aux lanceurs de sort. Un familier tuatara donne à son maître un bonus de +3 aux tests de [[Survie]].
 </div></td></tr></table>

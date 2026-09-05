@@ -4,8 +4,8 @@ Title: Le bûcher des traîtresses
 LastModified: 2010-10-08 12:55
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du deuxième chapitre : "[The Torching of the Traitoresses](http://paizo.com/pathfinder/tales/serial/v5748dyo5lbhz)" de la nouvelle "Le secret de la Rose et du Gant" de Kevin Andrew Murphy. Illustration de KyuShik Shin.*
 
 Une demi-année s'était écoulée depuis le retour de Norret à Dabril. Le dragon de feu rougeâtre qui dominait l'été, les salamandres, les méphites de feu et les diablotins du silex avaient finalement épuisé leur colère et cédé la place à l'automne, la saison de la Dragone bleue, le lézard de terre qui incarnait l'humeur mélancolique et était de ce fait vénéré par la carbuncles, les gnomes, les joaillers et ceux qui collectaient les fruits de la terre. C'était également le cinquième jour du mois de Neth, le quarantième anniversaire de l'indépendance du Galt. À Dabril, cela signifiait également que c'était l'époque du Bûcher des Traîtresses.

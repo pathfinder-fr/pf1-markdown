@@ -12,4 +12,4 @@ Categories:
 
 **Portée** aucune
 
-Un sort de mots incluant ce [mot cible](./Mots cibles.md) n’affecte que le lanceur. Les [mots effets](./Mots effets.md) limités à ce mot peuvent être associés avec d’autres [mots effets](./Mots effets.md) mais le lanceur en est la cible unique, et ce quelles que soient les autres cibles disponibles.
+Un sort de mots incluant ce [[mots cibles|mot cible]] n’affecte que le lanceur. Les [[mots effets]] limités à ce mot peuvent être associés avec d’autres [[mots effets]] mais le lanceur en est la cible unique, et ce quelles que soient les autres cibles disponibles.

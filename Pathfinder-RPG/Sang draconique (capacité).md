@@ -7,7 +7,7 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-Le sang et les autres fluides du dragon mythique sont investis d’acide, de froid, d’électricité ou de feu, selon le type d’énergie de son souffle. Chaque fois que le dragon est blessé par une arme perforante ou tranchante, la créature qui l’attaque reçoit les dégâts d’énergie correspondants, indiqués dans la table "Dégâts du sang draconique" (ou le double des dégâts si l’attaque est un [coup critique](./coup critique.md)). Le fait d’utiliser une arme avec une allonge protège l’attaquant contre ces blessures.
+Le sang et les autres fluides du dragon mythique sont investis d’acide, de froid, d’électricité ou de feu, selon le type d’énergie de son souffle. Chaque fois que le dragon est blessé par une arme perforante ou tranchante, la créature qui l’attaque reçoit les dégâts d’énergie correspondants, indiqués dans la table "Dégâts du sang draconique" (ou le double des dégâts si l’attaque est un [[coup critique]]). Le fait d’utiliser une arme avec une allonge protège l’attaquant contre ces blessures.
 
 Si le dragon a le pouvoir engloutissement, il ajoute ces dégâts à ceux de son pouvoir d’engloutissement.
 

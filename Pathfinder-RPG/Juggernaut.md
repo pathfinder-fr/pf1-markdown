@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 156*}
 - **12 800 PX**
-- [Créature artificielle](./type Créature artificielle.md) de taille Gig, N
+- [[type créature artificielle|Créature artificielle]] de taille Gig, N
 - **Init **+0 ; **Sens** vision dans le noir à 18 m, vision nocturne ; Perception +4
 (((Défense)))
 - **CA** 26, contact 6, pris au dépourvu 26 (naturelle +20, taille -4)
 - **pv** 142 (15d10+60) ; guérison accélérée 5
 - **Réf **+5, **Vig **+5, **Vol **+9
-- **RD** 10/adamantium ; **Immunités** [traits des créatures artificielles](./Traits des créatures artificielles.md) ; **RM** 22
+- **RD** 10/adamantium ; **Immunités** [[traits des créatures artificielles]] ; **RM** 22
 - **Faiblesses** pacte avec une religion
 (((Attaque)))
 - **VD** 9 m
@@ -28,7 +28,7 @@ Categories:
 - **Espace** 6 m ; **Allonge** 1,50 m
 - **Attaques spéciales** alimenté par les âmes, piétinement violent (8d6+38 plus sanglant, DD 30)
 - **Pouvoirs magiques** (**NLS** 15 ; concentration +10)
-  - 3/jour – *[énergie négative](./Énergie négative.md)*
+  - 3/jour – *[[énergie négative]]*
 (((Statistiques)))
 - **For** 36, **Dex** 11, **Con **—, **Int **—, **Sag** 18, **Cha** 1
 - **BBA **+15 ; **BMO **+32 ; **DMD** 42 (croc-en-jambe impossible)
@@ -55,14 +55,14 @@ Les juggernauts protègent les lieux dédiés à une religion particulière. L�
 ### Domaines liés
 Le juggernaut gagne des pouvoirs spéciaux issus de deux domaines octroyés par la divinité à laquelle il est dévoué. Si un pouvoir autorise un jet de sauvegarde, le DD de ce jet est basé sur la Sagesse (DD 19 pour la plupart). Le niveau de lanceur de sorts est égal au nombre de dés de vie du juggernaut (NLS 15 pour la plupart). Le profil de juggernaut donné en exemple est lié aux domaines de  la Mort et de la Guerre. Un juggernaut dévoué à une autre divinité possède des pouvoirs en rapport avec les domaines de cette divinité.
 
-{br}**Air**. Cyclone (Mag) – le juggernaut peut lancer *[cyclone](./Cyclone.md)* une fois par jour.
-{br}**Faune**. Meute alliée (Mag) – le juggernaut peut lancer *[convocation d’alliés naturels IV](./Convocation dalliés naturels IV.md)* (pour convoquer des animaux uniquement) trois fois par jour.
+{br}**Air**. Cyclone (Mag) – le juggernaut peut lancer *[[cyclone]]* une fois par jour.
+{br}**Faune**. Meute alliée (Mag) – le juggernaut peut lancer *[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]* (pour convoquer des animaux uniquement) trois fois par jour.
 {br}**Artisanat.** Réparation (Ext) – la guérison accélérée du juggernaut s’élève à 10.
 {br}**Chaos.** Attaques du Chaos (Sur) – les attaques de coup et de piétinement violent du juggernaut sont considérées comme alignées sur le Chaos. Son piétinement violent inflige 2d6 points de dégâts supplémentaires aux cibles loyales.
-{br}**Charme.** Amitié (Mag) – le juggernaut peut lancer *[charme-monstre](./Charme-monstre.md)* trois fois par jour. Une créature charmée suit le juggernaut et attaque ce qu’il attaque.
+{br}**Charme.** Amitié (Mag) – le juggernaut peut lancer *[[charme-monstre]]* trois fois par jour. Une créature charmée suit le juggernaut et attaque ce qu’il attaque.
 {br}**Communauté.** Alliés puissants  (Sur) – les créatures situées à 18 mètres ou moins du juggernaut gagnent un bonus de sainteté de +1 aux jets d’attaque et à la CA ainsi qu’un bonus de sainteté de +2 aux jets de sauvegarde (ce sont des bonus de malfaisance dans le cas d’un juggernaut mauvais).
-{br}**Obscurité.** Ténèbres profondes (Mag) – le  juggernaut peut lancer *[ténèbres profondes](./Ténèbres profondes.md)* trois fois par jour.
-{br}**Mort.** Annihilation d’énergie vitale (Mag) – le juggernaut peut lancer *[énergie négative](./Énergie négative.md)* trois fois par jour.
+{br}**Obscurité.** Ténèbres profondes (Mag) – le  juggernaut peut lancer *[[ténèbres profondes]]* trois fois par jour.
+{br}**Mort.** Annihilation d’énergie vitale (Mag) – le juggernaut peut lancer *[[énergie négative]]* trois fois par jour.
 {br}**Destruction.** Aura destructrice (Sur) – le juggernaut peut émettre une aura destructrice de 9 mètres autour de lui pendant 10 rounds par jour. Toutes les attaques effectuées contre des cibles à l’intérieur de l’aura (y compris contre le juggernaut) bénéficient d’un bonus de moral de +2 aux jets d’attaque et toutes les probabilités de coup critique sont automatiquement confirmées.
 {br}**Terre.** Perception des vibrations (Sur) – le juggernaut gagne perception des vibrations jusqu’à 18 mètres.
 {br}**Mal.** Attaques du Mal (Sur) – les attaques de coup et de piétinement violent du juggernaut sont considérées comme alignées sur le Mal. Son piétinement violent inflige 2d6 points de dégâts supplémentaires aux cibles bonnes.
@@ -81,19 +81,19 @@ Le juggernaut gagne des pouvoirs spéciaux issus de deux domaines octroyés par 
 {br}**Protection.** Protecteur (Sur) – le juggernaut et tous ses alliés situés à 9 mètres ou moins de lui gagnent un bonus de +2 aux jets de sauvegarde et un bonus de parade de +2 à la CA.
 {br}**Repos.** Repos éternel (Sur) – les dégâts infligés par le juggernaut résistent aux tentatives de guérison magique. Les tentatives de soins magiques effectuées pour soigner ces dégâts nécessitent la réussite d’un test de niveau de lanceur de sorts contre un DD = 11 + le niveau de lanceur de sorts du juggernaut.  Ce pouvoir n’a aucun effet sur la guérison naturelle ni sur les soins fournis par des pouvoirs extraordinaires.
 {br}**Runes.** Protection runique (Sur) – des runes sont gravées sur le juggernaut. Chaque fois qu’il subit des dégâts d’énergie destructive ou que des dégâts de ce type ne parviennent pas à passer sa RM, ses attaques lors du prochain round infligent 2d6 points de dégâts supplémentaires de ce même type d’énergie destructive. Si plusieurs types d’énergie destructive sont impliqués au cours d’un même round, déterminez aléatoirement le type de dégâts d’énergie destructive supplémentaires que le juggernaut inflige.
-{br}**Force.** Vigoureux (Mag) – le juggernaut peut lancer *[force de taureau de groupe](./Force de taureau de groupe.md)* une fois par jour.
-{br}**Soleil.** Aide solaire (Mag) – le juggernaut peut lancer *[lumière du jour](./Lumière du jour.md)* et *[lumière brûlante](./Lumière brûlante.md) *trois fois par jour.
+{br}**Force.** Vigoureux (Mag) – le juggernaut peut lancer *[[force de taureau de groupe]]* une fois par jour.
+{br}**Soleil.** Aide solaire (Mag) – le juggernaut peut lancer *[[lumière du jour]]* et *[[lumière brûlante]] *trois fois par jour.
 {br}**Voyage.** Inarrêtable (Sur) – le juggernaut ignore les malus imposés par les terrains difficiles. Sa vitesse de déplacement augmente de 3 mètres.
-{br}**Duperie.** Doubles (Mag) – le juggernaut peut lancer *[image miroir](./Image miroir.md)* trois fois par jour.
+{br}**Duperie.** Doubles (Mag) – le juggernaut peut lancer *[[image miroir]]* trois fois par jour.
 {br}**Guerre.** Sanguinaire (Sur) – les attaques de coup et de piétinement violent du juggernaut possèdent la propriété spéciale d’arme sanglante.
-{br}**Eau.** Déferlement (Mag) – lLe juggernaut peut lancer* [torrent hydraulique](./Torrent hydraulique.md) * cinq fois par jour.
-{br}**Climat.** La pluie et le beau temps (Mag) – le juggernaut peut lancer *[contrôle du climat](./Contrôle du climat.md)* une fois par jour.
+{br}**Eau.** Déferlement (Mag) – lLe juggernaut peut lancer* [[torrent hydraulique]] * cinq fois par jour.
+{br}**Climat.** La pluie et le beau temps (Mag) – le juggernaut peut lancer *[[contrôle du climat]]* une fois par jour.
 
 ### Construction
 
 La structure d’un juggernaut peut être fabriquée avec de l’argile, du cristal, du métal, de la pierre, du bois ou des ossements pour une valeur totale de 20 000 po.
 
 **NLS** 13 ; **Prix** 140 000 po
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md),* [arme magique suprême](./Arme magique suprême.md), [transfert de sorts](./Transfert de sorts.md), [réparation intégrale](./Réparation intégrale.md), [façonnage de la pierre](./Façonnage de la pierre.md)*, le créateur doit être un lanceur de sorts de niveau 10 au moins ;
-**Compétence** [Artisanat](./Artisanat.md) (constructions en bois, sculpture ou constructions en pierre) ; **Coût** 80 000 po
+**Conditions** [[Création de créatures artificielles]],* [[arme magique suprême]], [[transfert de sorts]], [[réparation intégrale]], [[façonnage de la pierre]]*, le créateur doit être un lanceur de sorts de niveau 10 au moins ;
+**Compétence** [[Artisanat]] (constructions en bois, sculpture ou constructions en pierre) ; **Coût** 80 000 po
 </div></td></tr></table>

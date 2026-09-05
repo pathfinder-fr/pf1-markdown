@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Sérum de vérité|{s:AE}}
-**Aura** [Enchantement](./Enchantement.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 500 po ; **Poids** —
+**Aura** [[Enchantement]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 500 po ; **Poids** —
 (((Description)))
-Cette potion force quiconque la boit à ne dire que la vérité pendant dix minutes (jet de [Volonté](./Volonté.md) de [DD](./DD.md) 13 pour annuler). Il est impossible de ne pas répondre aux questions qui sont posées, chaque question offrant un nouveau jet de [Volonté](./Volonté.md) à celui qui a bu le sérum (également de [DD](./DD.md) 13). Si l’un de ces [jets de sauvegarde](./jet de sauvegarde.md) secondaires est réussi, le personnage reste sous l’effet du sérum mais n’est pas tenu de répondre à cette question bien précise. Une seule question peut être posée par round. Cette potion génère un effet mental de type [enchantement](./Enchantement.md) ([coercition](./coercition.md)).
+Cette potion force quiconque la boit à ne dire que la vérité pendant dix minutes (jet de [[Volonté]] de [[DD]] 13 pour annuler). Il est impossible de ne pas répondre aux questions qui sont posées, chaque question offrant un nouveau jet de [[Volonté]] à celui qui a bu le sérum (également de [[DD]] 13). Si l’un de ces [[jet de sauvegarde|jets de sauvegarde]] secondaires est réussi, le personnage reste sous l’effet du sérum mais n’est pas tenu de répondre à cette question bien précise. Une seule question peut être posée par round. Cette potion génère un effet mental de type [[enchantement]] ([[coercition]]).
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[zone de vérité](./Zone de vérité.md)* ; **Coût** 250 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[zone de vérité]]* ; **Coût** 250 po
 </div>

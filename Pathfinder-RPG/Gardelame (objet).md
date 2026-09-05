@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 40 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 15
-<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
 ---
-Cette résine claire permet de protéger une arme contre les attaques nuisibles des [vases](./type Vase.md) et des [oxydeurs](./Oxydeur.md), ainsi que contre les effets similaires corrodant les armes ou les faisant fondre. Elle immunise l’arme pendant 24 heures. Un pot permet de recouvrir une arme à deux mains, deux armes à une main ou légères ou 50 munitions. L’application prend 1 [round](./round.md) complet par pot. L’immersion de l’arme dans l’eau ou un autre liquide similaire enlève la substance.
+Cette résine claire permet de protéger une arme contre les attaques nuisibles des [[type Vase|vases]] et des [[Oxydeur|oxydeurs]], ainsi que contre les effets similaires corrodant les armes ou les faisant fondre. Elle immunise l’arme pendant 24 heures. Un pot permet de recouvrir une arme à deux mains, deux armes à une main ou légères ou 50 munitions. L’application prend 1 [[round]] complet par pot. L’immersion de l’arme dans l’eau ou un autre liquide similaire enlève la substance.

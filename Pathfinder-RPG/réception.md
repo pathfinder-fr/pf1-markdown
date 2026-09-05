@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Tableau récapitulatif des armes#RECEPTION
 ---
 
->>> [Tableau récapitulatif des armes#RECEPTION](./Tableau récapitulatif des armes.md#RECEPTION)
+>>> [[Tableau récapitulatif des armes#RECEPTION]]

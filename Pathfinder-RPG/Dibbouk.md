@@ -14,35 +14,35 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.82}
 {s:BDTexte|**PX** 51 200}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([intangible](./sous-type intangible.md)) de taille M, NM}
-{s:BDTexte|**Init** +15 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +29}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type intangible|intangible]]) de taille M, NM}
+{s:BDTexte|**Init** +15 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +29}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 28, pris au dépourvu 17 (Dex +11, parade +7)}
 {s:BDTexte|**Pv** 207 (18d8+126)}
 {s:BDTexte|**Réf** +17, **Vig** +13, **Vol** +17}
-{s:BDTexte|**Capacités défensives** [intangible](./Intangible (capacité).md), [résistance à la canalisation](./Résistance à la canalisation (capacité).md) +4 ; [RD](./Réduction de dégâts (capacité).md) 10/Bien ; [Immunité](./Immunité (capacité).md) [traits des morts-vivants](./Traits des morts-vivants (capacité).md) ; [RM](./Résistance à la magie (capacité).md) 26}
+{s:BDTexte|**Capacités défensives** [[Intangible (capacité)|intangible]], [[Résistance à la canalisation (capacité)|résistance à la canalisation]] +4 ; [[Réduction de dégâts (capacité)|RD]] 10/Bien ; [[Immunité (capacité)|Immunité]] [[Traits des morts-vivants (capacité)|traits des morts-vivants]] ; [[Résistance à la magie (capacité)|RM]] 26}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 18 m (12 {s:c}) (parfaite)}
 {s:BDTexte|**Corps à corps** toucher de la douleur, +25 contact (7d6)}
 {s:BDTexte|**Attaque spéciale** possession maléfique}
 {s:BDTexte|**Pouvoirs magiques** (NLS 18 ; concentration +25)}
-{s:BDSorts|À volonté — *[détection de pensées](./Détection de pensées.md)* (DD 19), *[télékinésie](./Télékinésie.md)* (DD 22)}
-{s:BDSorts|3/jour — *[blessure grave](./Blessure grave.md)* (DD 20), *[débilité](./Débilité.md)* (DD 22), *[domination universelle](./Domination universelle.md)* (DD 26)}
-{s:BDSorts|1/jour — *[don des langues](./Don des langues.md)*, *[héroïsme suprême](./Héroïsme suprême.md)*, *[modification de mémoire](./Modification de mémoire.md)* (DD 21)}
+{s:BDSorts|À volonté — *[[détection de pensées]]* (DD 19), *[[télékinésie]]* (DD 22)}
+{s:BDSorts|3/jour — *[[blessure grave]]* (DD 20), *[[débilité]]* (DD 22), *[[domination universelle]]* (DD 26)}
+{s:BDSorts|1/jour — *[[don des langues]]*, *[[héroïsme suprême]]*, *[[modification de mémoire]]* (DD 21)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** —, **Dex 32**, **Con** —, **Int** 15, **Sag** 18, **Cha** 25}
 {s:BDTexte|**BBA** +13 ; **BMO** +24 ; **DMD** 41}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Arme de prédilection](./Arme de prédilection.md) (toucher de la douleur), [Combat en aveugle](./Combat en aveugle.md), [Fente](./Fente.md), [S’avancer](./Savancer.md), [Science de l’initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +25, [Diplomatie](./Diplomatie.md) +25, [Discrétion](./Discrétion.md) +32, [Intimidation](./Intimidation.md) +28, [Perception](./Perception.md) +29, [Psychologie](./Psychologie.md) +29, [Vol](./Vol.md) +19}
+{s:BDTexte|**Dons** [[Attaque en vol]], [[Attaques réflexes]], [[Arme de prédilection]] (toucher de la douleur), [[Combat en aveugle]], [[Fente]], [[Savancer|S’avancer]], [[Science de linitiative|Science de l’initiative]], [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Bluff]] +25, [[Diplomatie]] +25, [[Discrétion]] +32, [[Intimidation]] +28, [[Perception]] +29, [[Psychologie]] +29, [[Vol]] +19}
 {s:BDTexte|**Langues** abyssal, céleste, commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Possession d’objet (Sur).** Le dibbouk peut utiliser sa capacité de possession maléfique pour posséder un objet inutilisé de taille G, ou plus petit, l’animant comme s’il utilisait le sort d’*[animation d’objets](./Animation dobjets.md)*, à la seule différence que le dibbouk fusionne avec l’objet et le contrôle comme s’il s’agissait d’une créature vivante. Le dibbouk ne peut pas parler ou utiliser d’autres pouvoirs spéciaux lorsqu’il possède un objet.}
-{s:BDTexte|**Possession maléfique (Sur).** Une fois par round, le dibbouk peut fusionner avec une créature du Plan matériel. Cette capacité est similaire au sort de *[possession](./Possession.md)* (niveau de lanceur de sorts 18), à la seule différence qu’elle ne requiert aucun réceptacle. Pour utiliser cette capacité, le dibbouk doit être adjacent à la cible. La cible peut résister en réussissant un [jet de Volonté](./Valeurs de combat.md#JETDESAUVEGARDE) DD 26. Une créature qui réussit ce jet est immunisée à la possession maléfique de ce dibbouk pendant 24 heures. Le DD du jet de sauvegarde est basé sur le Charisme.}
-{s:BDTexte|**Toucher de la douleur (Sur).** En réussissant une [attaque de contact](./Valeurs de combat.md#ATTAQUESDECONTACT), le dibbouk provoque des spasmes douloureux secouant le corps de la cible et infligeant 7d6 points de dégâts. Les créatures qui sont [immunisées](./Immunité (capacité).md) à la douleur ne reçoivent aucun dégât lors de ce contact.}
+{s:BDTexte|**Possession d’objet (Sur).** Le dibbouk peut utiliser sa capacité de possession maléfique pour posséder un objet inutilisé de taille G, ou plus petit, l’animant comme s’il utilisait le sort d’*[[animation dobjets|animation d’objets]]*, à la seule différence que le dibbouk fusionne avec l’objet et le contrôle comme s’il s’agissait d’une créature vivante. Le dibbouk ne peut pas parler ou utiliser d’autres pouvoirs spéciaux lorsqu’il possède un objet.}
+{s:BDTexte|**Possession maléfique (Sur).** Une fois par round, le dibbouk peut fusionner avec une créature du Plan matériel. Cette capacité est similaire au sort de *[[possession]]* (niveau de lanceur de sorts 18), à la seule différence qu’elle ne requiert aucun réceptacle. Pour utiliser cette capacité, le dibbouk doit être adjacent à la cible. La cible peut résister en réussissant un [[Valeurs de combat#JETDESAUVEGARDE|jet de Volonté]] DD 26. Une créature qui réussit ce jet est immunisée à la possession maléfique de ce dibbouk pendant 24 heures. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|**Toucher de la douleur (Sur).** En réussissant une [[Valeurs de combat#ATTAQUESDECONTACT|attaque de contact]], le dibbouk provoque des spasmes douloureux secouant le corps de la cible et infligeant 7d6 points de dégâts. Les créatures qui sont [[Immunité (capacité)|immunisées]] à la douleur ne reçoivent aucun dégât lors de ce contact.}
 </div>
 </td><td><div>*Ce spectre au large rictus a un regard fou, et ses mains rouge sang sont agitées de tics et de sursauts, telles celles d’un marionnettiste.*
 

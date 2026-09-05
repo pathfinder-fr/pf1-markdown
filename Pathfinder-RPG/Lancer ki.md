@@ -11,14 +11,14 @@ Categories:
 
 {s:apg}*Les aptitudes physiques du personnage et sa maîtrise de l’inertie lui permettent de lancer ses adversaires.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md).
+**Conditions.** [[Science du combat à mains nues]], [[Science du croc-en-jambe]].
 
-**Avantage.** Lorsque le personnage réussit une [manœuvre](./manoeuvre-offensive.md) de [croc-en-jambe](./croc-en-jambe.md) à mains nues contre une cible de taille inférieure ou égale à la sienne, il peut la lancer et la faire tomber au sol dans n’importe quelle case de la zone qu’il contrôle. Le mouvement de la cible ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md) et le personnage ne peut pas la lancer dans une case occupée par une autre créature.
+**Avantage.** Lorsque le personnage réussit une [[manoeuvre offensive|manœuvre]] de [[croc-en-jambe]] à mains nues contre une cible de taille inférieure ou égale à la sienne, il peut la lancer et la faire tomber au sol dans n’importe quelle case de la zone qu’il contrôle. Le mouvement de la cible ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]] et le personnage ne peut pas la lancer dans une case occupée par une autre créature.
 
-**Spécial.** Un [moine](./Moine.md) peut gagner le don [Lancer *ki*](./Lancer ki.md) en tant que don supplémentaire au niveau 10. Un moine possédant ce don peut affecter des créatures de plus grande taille que lui en dépensant 1 point de *ki* par catégorie de taille de différence.
+**Spécial.** Un [[moine]] peut gagner le don [[Lancer ki|Lancer *ki*]] en tant que don supplémentaire au niveau 10. Un moine possédant ce don peut affecter des créatures de plus grande taille que lui en dépensant 1 point de *ki* par catégorie de taille de différence.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Le personnage peut dépenser 5 points d’endurance pour lancer une créature d’une catégorie de taille de plus que lui.

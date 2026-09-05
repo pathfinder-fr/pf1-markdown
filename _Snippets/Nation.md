@@ -50,6 +50,6 @@
 <td>?12?</td>
 </tr></table></td></tr>
 <tr><td style="background-color: #4b3124; padding: 1px"></td></tr>
-<tr><td style="text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0">Voir aussi : [Liste des nations de Golarion](./../Golarion/Nations.md)</td></tr></table>
+<tr><td style="text-align: center; font-style: italic; font-size: x-small; padding: 1px 0 2px 0">Voir aussi : [[nations|Liste des nations de Golarion]]</td></tr></table>
 </div>
 </div>

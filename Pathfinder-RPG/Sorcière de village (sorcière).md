@@ -17,15 +17,15 @@ Le protecteur de la sorcière possède un thème associé à la guérison.
 La sorcière de village peut canaliser l’énergie magique dans des sorts de soins qu’elle n’a pas préparés à l’avance. Elle peut « sacrifier » tout sort préparé (sauf les tours de magie) pour lancer un sort de soins du même niveau que le sort perdu ou de niveau inférieur, même si elle ne connaît pas le sort de soins correspondant. Ce pouvoir remplace le maléfice de sorcière de niveau 4.
 
 #### Guérison empathique (Sur)
-Une sorcière de village peut s’occuper d’une cible malade ou empoisonnée en redirigeant l’effet néfaste sur elle. Si la cible est empoisonnée, elle peut la soigner à l’aide d’une [action simple](./Action simple.md). La victime fait son [jet de sauvegarde](./jet de sauvegarde.md) contre le [poison](./poison.md) normalement mais c’est la sorcière qui subit les effets néfastes et non la créature empoisonnée. Si la cible est malade, la sorcière doit s’en occuper pendant une heure.
+Une sorcière de village peut s’occuper d’une cible malade ou empoisonnée en redirigeant l’effet néfaste sur elle. Si la cible est empoisonnée, elle peut la soigner à l’aide d’une [[action simple]]. La victime fait son [[jet de sauvegarde]] contre le [[poison]] normalement mais c’est la sorcière qui subit les effets néfastes et non la créature empoisonnée. Si la cible est malade, la sorcière doit s’en occuper pendant une heure.
 
-La victime fait son [jet de sauvegarde](./jet de sauvegarde.md) contre le poison normalement mais c’est la sorcière qui subit les effets néfastes et non la créature malade. La sorcière n’est pas réellement empoisonnée ni malade (et elle n’est pas contagieuse et n’a pas besoin de soins), elle souffre juste des effets de l’affliction. La sorcière utilise généralement ce pouvoir pour prolonger la vie d’un mourant et lui donner le temps de récupérer. Si elle est immunisée contre la maladie ou le poison, ce pouvoir n’a aucun effet. Il remplace le maléfice de sorcière de niveau 8.
+La victime fait son [[jet de sauvegarde]] contre le poison normalement mais c’est la sorcière qui subit les effets néfastes et non la créature malade. La sorcière n’est pas réellement empoisonnée ni malade (et elle n’est pas contagieuse et n’a pas besoin de soins), elle souffre juste des effets de l’affliction. La sorcière utilise généralement ce pouvoir pour prolonger la vie d’un mourant et lui donner le temps de récupérer. Si elle est immunisée contre la maladie ou le poison, ce pouvoir n’a aucun effet. Il remplace le maléfice de sorcière de niveau 8.
 
 #### Maléfices
-Voici les maléfices de sorcière qui viennent compléter l’archétype de sorcière de village : [chaudron](./maléfices.md#haudron), [don des langues](./maléfices.md#Dondeslangues), [guérison](./maléfices.md#Guérison), [langage sauvage](./maléfices.md#Langagesauvage).
+Voici les maléfices de sorcière qui viennent compléter l’archétype de sorcière de village : [[Maléfices#haudron|chaudron]], [[Maléfices#Dondeslangues|don des langues]], [[Maléfices#Guérison|guérison]], [[Maléfices#Langagesauvage|langage sauvage]].
 
 #### Maléfices majeurs
-Voici les maléfices majeurs de sorcière qui viennent compléter l’archétype de sorcière de village : [brouet de la sorcière](./maléfices.md#Brouetdelasorcière), [contrôle du climat](./maléfices.md#Contrôleduclimat), [guérison majeure](./maléfices.md#Guérisonmajeure).
+Voici les maléfices majeurs de sorcière qui viennent compléter l’archétype de sorcière de village : [[Maléfices#Brouetdelasorcière|brouet de la sorcière]], [[Maléfices#Contrôleduclimat|contrôle du climat]], [[Maléfices#Guérisonmajeure|guérison majeure]].
 
 #### Grands maléfices
-Voici le grand maléfice de sorcière qui vient compléter l’archétype de sorcière de village : [donneuse de vie](./maléfices.md#Donneusedevie).
+Voici le grand maléfice de sorcière qui vient compléter l’archétype de sorcière de village : [[Maléfices#Donneusedevie|donneuse de vie]].

@@ -11,33 +11,33 @@ Categories:
 <div class="BD">
 {s:BDTitre|Scitalise|FP 12}
 {s:pucem|Dragon|Forêt-Jungle|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.237](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.237]]*}
 {s:BDTexte|**PX** 19 200}
-{s:BDTexte|[Dragon](./type Dragon.md) de taille G, N}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +19}
+{s:BDTexte|[[type Dragon|Dragon]] de taille G, N}
+{s:BDTexte|**Init** +8 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +19}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 27, contact 17, pris au dépourvu 23 (Dex +4, naturelle +10, taille -1)}
 {s:BDTexte|**pv** 175 (14d12+84)}
 {s:BDTexte|**Réf** +13, **Vig** +15, **Vol** +11}
 {s:BDTexte|**Immunités** paralysie, sommeil}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 15 m ; [vol](./Vol (capacité).md) 18 m (bonne)}
+{s:BDTexte|**VD** 15 m ; [[Vol (capacité)|vol]] 18 m (bonne)}
 {s:BDTexte|**Corps à corps** 2 collerettes, +21 (2d6+8) et corne, +21 (1d8+8) et morsure, +21 (2d6+8 plus sédatif) et coup de queue, +19 (1d8+4)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDTexte|**Attaques spéciales** [souffle](./Souffle (capacité).md) (ligne de 12 mètres, sédatif, Vig DD 23, utilisable tous les 1d4 rounds), motif prismatique}
+{s:BDTexte|**Attaques spéciales** [[Souffle (capacité)|souffle]] (ligne de 12 mètres, sédatif, Vig DD 23, utilisable tous les 1d4 rounds), motif prismatique}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 19, **Con** 22, **Int** 9, **Sag** 15, **Cha** 14}
 {s:BDTexte|**BBA** +14 ; **BMO** +23 ; **DMD** 37 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaques multiples](./Attaques multiples.md), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Attaque en vol](./Attaque en vol.md), [Science de l'initiative](./Science de linitiative.md), [Virage sur l'aile](./Virage sur laile.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +15, [Intimidation](./Intimidation.md) +15, [Perception](./Perception.md) +19, [Psychologie](./Psychologie.md) +17, [Survie](./Survie.md) +17, [Vol](./Vol.md) +19}
+{s:BDTexte|**Dons** [[Attaques multiples]], [[Attaque en puissance]], [[Attaques réflexes]], [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]], [[Virage sur laile|Virage sur l'aile]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +15, [[Intimidation]] +15, [[Perception]] +19, [[Psychologie]] +17, [[Survie]] +17, [[Vol]] +19}
 {s:BDTexte|**Langues** draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation** solitaire, paire ou nid (3-5)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Motif prismatique (Sur).** Les motifs changeants et hypnotiques qui couvrent le corps coloré d’un scitalise causent chez toutes les créatures qui le regardent un malus à leurs [jets d'attaque](./jet dattaque.md) contre le dragon égale au modificateur de [Charisme](./Charisme.md) de celui-ci (un malus de -2 pour un scitalise conventionnel). Par une [action simple](./Action simple.md), le scitalise peut accentuer le pouvoir de son motif. Celui-ci a alors l’effet suivant : toutes les créatures qui se trouvent dans un rayon de 18 mètres et qui peuvent voir le motif se trouvent [étourdies](./Étourdi.md) pendant 1d4+1 rounds (jet de [Volonté](./Volonté.md) DD 23 annule). Le motif prismatique est un effet d’[illusion (mirage)](./branche mirage.md). Le DD du jet de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Sédatif (Ext).** La morsure et le souffle d’un scitalise sont tous deux porteurs d’un puissant sédatif, qui cause l’état [chancelant](./Chancelant.md) chez ses victimes pendant 1d6 rounds. Un jet de [Vigueur](./Vigueur.md) DD 23 permet de réduire cette durée à 1 round. Il s’agit d’un effet de poison. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Motif prismatique (Sur).** Les motifs changeants et hypnotiques qui couvrent le corps coloré d’un scitalise causent chez toutes les créatures qui le regardent un malus à leurs [[jet dattaque|jets d'attaque]] contre le dragon égale au modificateur de [[Charisme]] de celui-ci (un malus de -2 pour un scitalise conventionnel). Par une [[action simple]], le scitalise peut accentuer le pouvoir de son motif. Celui-ci a alors l’effet suivant : toutes les créatures qui se trouvent dans un rayon de 18 mètres et qui peuvent voir le motif se trouvent [[étourdi|étourdies]] pendant 1d4+1 rounds (jet de [[Volonté]] DD 23 annule). Le motif prismatique est un effet d’[[branche mirage|illusion (mirage)]]. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Sédatif (Ext).** La morsure et le souffle d’un scitalise sont tous deux porteurs d’un puissant sédatif, qui cause l’état [[chancelant]] chez ses victimes pendant 1d6 rounds. Un jet de [[Vigueur]] DD 23 permet de réduire cette durée à 1 round. Il s’agit d’un effet de poison. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div></td>
 <td><div>*Les écailles et la collerette de ce dragon ophidien forment des motifs de couleurs vives, éclairés tels des vitraux par la luminescence naturelle de la créature.*

@@ -13,11 +13,11 @@ Categories:
 
 *Le personnage peut créer des barrières de force avec les objets de l’école d’abjuration.*
 
-**Catégorie.** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+**Catégorie.** [[dons#MAITRISEDOBJET|maîtrise d’objet]]
 
-**Conditions.** 3 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md), bonus de base de [Vigueur](./Vigueur.md) +3
+**Conditions.** 3 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]], bonus de base de [[Vigueur]] +3
 
-**Avantages.** Le personnage peut faire en sorte de tirer d'un objet dont l’une des conditions de fabrication est un sort d’abjuration de niveau 1 ou supérieur le pouvoir de créer un effet de sort qui fonctionne comme *[bouclier](./Bouclier.md)*, sauf que le bonus de bouclier à la [CA](./CA.md) est égal à 1/3 de son bonus de base de [Vigueur](./Vigueur.md) (minimum +1). Le personnage peut utiliser ce don une fois par jour et une fois supplémentaire lorsque son bonus de base de [Vigueur](./Vigueur.md) atteint +6, +9 et +12.
+**Avantages.** Le personnage peut faire en sorte de tirer d'un objet dont l’une des conditions de fabrication est un sort d’abjuration de niveau 1 ou supérieur le pouvoir de créer un effet de sort qui fonctionne comme *[[bouclier]]*, sauf que le bonus de bouclier à la [[CA]] est égal à 1/3 de son bonus de base de [[Vigueur]] (minimum +1). Le personnage peut utiliser ce don une fois par jour et une fois supplémentaire lorsque son bonus de base de [[Vigueur]] atteint +6, +9 et +12.
 
 (((Force shield mastery (Item Mastery)
 

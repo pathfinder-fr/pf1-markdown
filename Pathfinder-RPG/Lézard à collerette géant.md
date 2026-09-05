@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.192}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 10, pris au dépourvu 17 (Dex +1, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 59 (7d8+28)}
@@ -27,15 +27,15 @@ Categories:
 {s:BDTexte|**Attaques spéciales** charge intimidante}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 13, **Con** 19, **Int** 2, **Sag** 14, **Cha** 10}
-{s:BDTexte|**BBA** +5, **BMO** +11, **DMD** 22 (26 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +8, [Escalade](./Escalade.md) +13, [Perception](./Perception.md) +11 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4}
+{s:BDTexte|**BBA** +5, **BMO** +11, **DMD** 22 (26 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +8, [[Escalade]] +13, [[Perception]] +11 ; **Modificateurs raciaux** [[Discrétion]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts, plaines ou collines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-8)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Charge intimidante (Ext).** Lorsqu'un lézard à collerette géant [charge](./charge.md), il émet un sifflement féroce, déplie sa collerette et bondit en avant à l'aide de ses pattes arrières, ce qui accroît sa vitesse de déplacement de base à 15 m (10 {s:c}) pendant tout le round. Les effets normaux de la [charge](./charge.md) s'appliquent et, en plus de cela, la cible doit effectuer un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 13 pour ne pas être [secouée](./Secoué.md) pendant 1d6 rounds. Il s'agit d'un effet de terreur. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend du [Charisme](./Charisme.md).}
+{s:BDTexte|**Charge intimidante (Ext).** Lorsqu'un lézard à collerette géant [[charge]], il émet un sifflement féroce, déplie sa collerette et bondit en avant à l'aide de ses pattes arrières, ce qui accroît sa vitesse de déplacement de base à 15 m (10 {s:c}) pendant tout le round. Les effets normaux de la [[charge]] s'appliquent et, en plus de cela, la cible doit effectuer un jet de [[Volonté]] de [[DD]] 13 pour ne pas être [[secoué|secouée]] pendant 1d6 rounds. Il s'agit d'un effet de terreur. Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -44,13 +44,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Caméléon géant](./Caméléon géant.md) || 3
+| [[Caméléon géant]] || 3
 |-
-| [Gecko géant](./Gecko géant.md) || 1
+| [[Gecko géant]] || 1
 |-
-| [Lézard à collerette géant](./Lézard à collerette géant.md) || 5
+| [[Lézard à collerette géant]] || 5
 |-
-| [Varan](./Varan.md) || 2
+| [[Varan]] || 2
 |}
 </div>*Ce lézard aux yeux clairs est plus grand qu’un cheval. Il siffle de colère et une collerette de couleur vive se dresse autour de son cou.*
 
@@ -59,12 +59,12 @@ Lorsqu’un lézard à collerette géant charge, il
 l’aide de ses pattes arrière, ce qui accroît sa vitesse de déplacement
 de base à 15 mètres pendant tout le round. Les effets normaux de la
 charge s’appliquent et, en plus de cela, la cible
-doit effectuer un jet de [Volonté](./Volonté.md) de DD 13
-pour ne pas être [secouée](./Secoué.md) pendant
+doit effectuer un jet de [[Volonté]] de DD 13
+pour ne pas être [[secoué|secouée]] pendant
 1d6 rounds. Il s’agit d’un effet de
 terreur. Le DD du jet de
 sauvegarde dépend du
-[Charisme](./Charisme.md).
+[[Charisme]].
 
 Ce lézard est un
 monstre colossal, un
@@ -76,8 +76,8 @@ nombreuses espèces de lézards
 géants. Certaines espèces ne disposent pas de
 la capacité spéciale de charge intimidante
 mais reçoivent en échange d’autres attaques
-spéciales : [bond](./Bond.md), [constriction](./constriction.md) (avec leur
-attaque de morsure), [étreinte](./Étreinte.md) ou mise à terre par exemple.
+spéciales : [[bond]], [[constriction]] (avec leur
+attaque de morsure), [[étreinte]] ou mise à terre par exemple.
 
 Cet immense lézard au pas lent mais décidé possède des pattes griffues et
 des filets de bave tombent de sa gueule.

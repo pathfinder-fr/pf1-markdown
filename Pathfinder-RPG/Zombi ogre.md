@@ -12,13 +12,13 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.289 (Archétype)}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([géant](./sous-type géant.md)) de taille G, NM}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type géant|géant]]) de taille G, NM}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 7, pris au dépourvu 19 (armure +4, Dex -2, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 27 (6d8)}
 {s:BDTexte|**Réf** +0, **Vig** +2, **Vol** +5}
-{s:BDTexte|**Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) ; **RD** 5/tranchant }
+{s:BDTexte|**Immunités** [[traits des morts-vivants]] ; **RD** 5/tranchant }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD**  9 m (6 {s:c}) (12 m (8 {s:c}) base) }
 {s:BDTexte|**Corps à corps** coup +9 (1d8+9)}
@@ -28,14 +28,14 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 6, **Con** -, **Int** -, **Sag** 10, **Cha** 10}
 {s:BDTexte|**BBA** +4, **BMO** +11, **DMD** 19}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md)<sup>B</sup>}
-{s:BDTexte|**Particularités** [Chancelant (Ext)](./Chancelant (Ext).md)}
+{s:BDTexte|**Dons** [[Robustesse]]<sup>B</sup>}
+{s:BDTexte|**Particularités** [[Chancelant (Ext)]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
 {s:BDTexte|**Organisation sociale** quelconque}
 {s:BDTexte|**Trésor** standard (armure de peau, 1-4 javelines, massue)}
 </div>
-</td><td><div>Voir l'[archétype](./Zombi, archétype.md).
+</td><td><div>Voir l'[[zombi, archétype|archétype]].
 
 ''Ce cadavre avance d’un pas chancelant, les bras tendus en avant, ne portant
 que quelques haillons sales sur sa chair en décomposition.''

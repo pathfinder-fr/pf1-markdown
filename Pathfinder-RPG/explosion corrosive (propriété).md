@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Explosion corrosive
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Explosion corrosive](./Descriptions individuelles des propriétés spéciales des armes.md#Explosion corrosive)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Explosion corrosive]]

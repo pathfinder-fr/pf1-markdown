@@ -4,7 +4,7 @@ Title: Annonce licence ORC
 LastModified: 2023-01-13 02:47
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
 • *Lien vers l’article sur le [blog de Paizo](https://paizo.com/community/blog/v5748dyo6si7v)*
 

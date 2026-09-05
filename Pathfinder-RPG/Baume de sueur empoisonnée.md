@@ -10,17 +10,17 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Baume de sueur empoisonnée|{s:CM}}
-**Aura** [Nécromancie](./Nécromancie.md) modérée ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 2 500 po ; **Poids** —
+**Aura** [[Nécromancie]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 2 500 po ; **Poids** —
 (((Description)))
-Quand on applique cet onguent gras sur la peau, les écailles ou la carapace d’une créature, elle se met à exsuder du poison. Si un adversaire la frappe avec une arme naturelle ou une attaque à mains nues, il s’expose au poison. L’utilisateur peut appliquer son poison sur une arme par une [action rapide](./Action rapide.md). Il peut l’appliquer par une [action simple](./Action simple.md) lors d’une attaque de contact. Le baume crée un total de 3 doses de poison, les doses inutilisées s’évaporant au bout d’une heure.
+Quand on applique cet onguent gras sur la peau, les écailles ou la carapace d’une créature, elle se met à exsuder du poison. Si un adversaire la frappe avec une arme naturelle ou une attaque à mains nues, il s’expose au poison. L’utilisateur peut appliquer son poison sur une arme par une [[action rapide]]. Il peut l’appliquer par une [[action simple]] lors d’une attaque de contact. Le baume crée un total de 3 doses de poison, les doses inutilisées s’évaporant au bout d’une heure.
 
 <div class="BD">
 {s:BDTitre|Sueur empoisonnée|{s:Reference|Sueur empoisonnée}}
 - **Type** poison, contact ou blessure ; **JdS** Vigueur (DD 16)
 - **Fréquence** 1/round pendant 6 rounds
-- **Effet** 1d3 points de [Dextérité](./Dextérité.md) ; **Guérison** 1 réussite
+- **Effet** 1d3 points de [[Dextérité]] ; **Guérison** 1 réussite
 
 </div>
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[empoisonnement](./Empoisonnement.md)* ; **Coût** 1 250 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[empoisonnement]]* ; **Coût** 1 250 po
 </div>

@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:UI}*Vos enchantements influencent les cibles de manière plus subtile et sont plus difficiles à remarquer.*
 
-**Conditions.** [École renforcée](./École renforcée.md) (enchantement), [Fourberie](./Fourberie.md)
+**Conditions.** [[École renforcée]] (enchantement), [[Fourberie]]
 
-**Avantages.** Lorsque le personnage lance un sort d'[enchantement](./Enchantement.md) ou utilise un pouvoir magique d'enchantement pour influencer l'attitude ou les actions d'une créature et que la cible résiste au sort grâce à un jet de [Volonté](./Volonté.md) réussi, elle a 50 % de chances de ne pas remarquer qu'elle vient de réussir un jet de sauvegarde (elle peut toujours tenter d'identifier le sort ou le pouvoir magique normalement). Si la cible rate son [jet de sauvegarde](./JDS.md) ou est autrement affectée par le sort, le [DD](./DD.md) de [Psychologie](./Psychologie.md) pour remarquer qu'elle est sous l'effet d'un enchantement augmente de 5.
+**Avantages.** Lorsque le personnage lance un sort d'[[enchantement]] ou utilise un pouvoir magique d'enchantement pour influencer l'attitude ou les actions d'une créature et que la cible résiste au sort grâce à un jet de [[Volonté]] réussi, elle a 50 % de chances de ne pas remarquer qu'elle vient de réussir un jet de sauvegarde (elle peut toujours tenter d'identifier le sort ou le pouvoir magique normalement). Si la cible rate son [[jds|jet de sauvegarde]] ou est autrement affectée par le sort, le [[DD]] de [[Psychologie]] pour remarquer qu'elle est sous l'effet d'un enchantement augmente de 5.
 
-**Normal.** Quiconque réussit un [jet de sauvegarde](./JDS.md) contre un sort remarque automatiquement l'intrusion mentale.
+**Normal.** Quiconque réussit un [[jds|jet de sauvegarde]] contre un sort remarque automatiquement l'intrusion mentale.

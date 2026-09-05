@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.163*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille P, CN}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille P, CN}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 12 (Dex +3, naturelle +1, Taille +1)}
 {s:BDTexte|**pv** 19 (3d10+3)}
@@ -24,16 +24,16 @@ Categories:
 {s:BDTexte|**Faiblesse** bol crânien }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), nage 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** 2 griffes, +5 (1d3+1 plus [étreinte](./Étreinte.md))}
-{s:BDTexte|**Attaques spéciales** [étreinte](./Étreinte.md) (taille M), [pattes arrière](./Pattes arrière.md) (2 griffes +5, 1d3+1) }
+{s:BDTexte|**Corps à corps** 2 griffes, +5 (1d3+1 plus [[étreinte]])}
+{s:BDTexte|**Attaques spéciales** [[étreinte]] (taille M), [[pattes arrière]] (2 griffes +5, 1d3+1) }
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 17, **Con** 13, **Int** 8, **Sag** 15, **Cha** 10}
-{s:BDTexte|**BBA** +3, **BMO** +3 (+7 [lutte](./lutte.md)), **DMD** 16}
-{s:BDTexte|**Dons** [Aisance](./Aisance.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Évasion](./Évasion.md) +10, [Premiers secours](./Premiers secours.md) +5, [Psychologie](./Psychologie.md) +5, [Natation](./Natation.md) +9}
-{s:BDTexte|**Modificateur racial** +4 en [Évasion](./Évasion.md)}
+{s:BDTexte|**BBA** +3, **BMO** +3 (+7 [[lutte]]), **DMD** 16}
+{s:BDTexte|**Dons** [[Aisance]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Évasion]] +10, [[Premiers secours]] +5, [[Psychologie]] +5, [[Natation]] +9}
+{s:BDTexte|**Modificateur racial** +4 en [[Évasion]]}
 {s:BDTexte|**Langues** aquatique, commun}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie.md)}
+{s:BDTexte|**Particularités** [[amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** lacs ou rivières}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou banc (3-6)}

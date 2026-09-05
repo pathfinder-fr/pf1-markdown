@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 20*}
 - 800 PX
-- [Animal](./type Animal.md) de taille G, N
-- **Init **+3 ; **Sens** [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +11
+- [[type animal|Animal]] de taille G, N
+- **Init **+3 ; **Sens** [[vision nocturne]], [[odorat]] ; [[Perception]] +11
 (((Défense)))
 - **CA **17, contact 12, pris au dépourvu 14 (Dex +3, naturelle +5, taille -1)
 - **pv **32 (5d8+10)
@@ -24,14 +24,14 @@ Categories:
 - **VD **12 m
 - **Corps à corps** morsure, +8 (1d8+7 et étreinte)
 - **Espace **3 m ; **Allonge** 3 m
-- **Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1d4+1 Con), [rage sanguinaire](./Rage sanguinaire (capacité).md), [étreinte](./Étreinte.md)
+- **Attaques spéciales** [[Absorption de sang (capacité)|absorption de sang]] (1d4+1 Con), [[rage sanguinaire (capacité)|rage sanguinaire]], [[étreinte]]
 (((Statistiques)))
 - **For **21, **Dex** 16, **Con** 14, **Int **2, **Sag **13, **Cha **11
 - **BBA **+3 ; **BMO **+9 (+13 en lutte) ; **DMD** 22 (26 contre le croc-en-jambe)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaques réflexes](./Attaques réflexes.md), [Talent](./Talent.md) (Perception)
-- **Compétences **[Discrétion](./Discrétion.md) +10, [Escalade](./Escalade.md) +9, [Natation](./Natation.md) +11, [Perception](./Perception.md) +11
+- **Dons **[[Arme de prédilection]] (morsure), [[Attaques réflexes]], [[Talent]] (Perception)
+- **Compétences **[[Discrétion]] +10, [[Escalade]] +9, [[Natation]] +11, [[Perception]] +11
 - **Modificateurs raciaux** +4 en Escalade, +2 en Perception, +6 en Discrétion, +2 en Natation
-- **Particularités** [compression](./Compression.md)
+- **Particularités** [[compression]]
 (((Écologie)))
 - **Environnement **terre ferme
 - **Organisation **solitaire, couple ou nichée (3-6)
@@ -44,16 +44,16 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Belette](./Belette.md) || 1/2
+| Familier, [[Belette]] || 1/2
 |-
-| [Belette géante](./Belette géante.md) || 1
+| [[Belette géante]] || 1
 |-
-| [Belette sanguinaire](./Belette sanguinaire.md) || 3
+| [[Belette sanguinaire]] || 3
 |}
 </div>*Ce prédateur de la taille d’un ours est tout en longueur et court sur pattes. Sa fourrure soyeuse et son air rusé contrastent avec ses crocs luisants.*
 
   
-Courantes dans la plupart des environnements, quel que soit le climat, les belettes sanguinaires sont les cousins géants des [belettes](./Belette.md) ordinaires. Ce sont des prédateurs implacables connus pour leur nature intrépide et leur frénésie meurtrière, ainsi que pour le danger qu’ils représentent envers les fermes et les communautés. En effet, non seulement elles dévorent le bétail et les chevaux, mais elles s’en prennent également aux humanoïdes. Les belettes qui ont goûté à cette chair l’apprécient
+Courantes dans la plupart des environnements, quel que soit le climat, les belettes sanguinaires sont les cousins géants des [[Belette|belettes]] ordinaires. Ce sont des prédateurs implacables connus pour leur nature intrépide et leur frénésie meurtrière, ainsi que pour le danger qu’ils représentent envers les fermes et les communautés. En effet, non seulement elles dévorent le bétail et les chevaux, mais elles s’en prennent également aux humanoïdes. Les belettes qui ont goûté à cette chair l’apprécient
 parfois tellement qu’elles ne chassent plus que ce type de proies.
 
 Il arrive que les belettes sanguinaires soient dressées par des humanoïdes Mauvais (le plus souvent des gobelours ou des
@@ -62,7 +62,7 @@ Longue de 3,60 mètres, une belette sanguinaire mesure  1,20 mètres au garrot p
 
 
 #### La belette géante comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m, escalade 3 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4) ; **Caractéristiques** For 10, Dex 19, Con 13, Int 2, Sag 12, Cha 10 ; **Attaque spéciale** [Absorption de sang](./absorption de sang (capacité).md) (1 Con), étreinte ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m, escalade 3 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4) ; **Caractéristiques** For 10, Dex 19, Con 13, Int 2, Sag 12, Cha 10 ; **Attaque spéciale** [[Absorption de sang (capacité)|Absorption de sang]] (1 Con), étreinte ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4.** **Taille** M ** ; **CA** ; **Attaque** morsure (1d6) ; **Caractéristiques''' For +4, Dex -2, Con +2.
 </div></td></tr></table>

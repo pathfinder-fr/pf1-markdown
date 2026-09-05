@@ -10,7 +10,7 @@ Categories:
 
 {s:Menubénédictions}{s:MCA}
 #### Double *(mineur)*
-Au niveau 1, le prêtre combattant peut créer un double illusoire de sa personne par une [action de mouvement](./Action de mouvement.md). Ce double fonctionne comme une unique image miroir et dure un nombre de rounds égal à son niveau de prêtre combattant ou jusqu’à ce qu’il soit détruit ou dissipé. Le prêtre ne peut pas avoir plus d’un double à la fois. Ce pouvoir ne se cumule pas avec le sort *[image miroir](./Image miroir.md)*.
+Au niveau 1, le prêtre combattant peut créer un double illusoire de sa personne par une [[action de mouvement]]. Ce double fonctionne comme une unique image miroir et dure un nombre de rounds égal à son niveau de prêtre combattant ou jusqu’à ce qu’il soit détruit ou dissipé. Le prêtre ne peut pas avoir plus d’un double à la fois. Ce pouvoir ne se cumule pas avec le sort *[[image miroir]]*.
 
 #### Invisibilité suprême *(majeur)*
-Au niveau 10, le prêtre combattant peut devenir invisible (comme avec *[invisibilité suprême](./Invisibilité suprême.md)*) pendant un round par une [action rapide](./Action rapide.md).
+Au niveau 10, le prêtre combattant peut devenir invisible (comme avec *[[invisibilité suprême]]*) pendant un round par une [[action rapide]].

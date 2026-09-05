@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous combattez avec une grâce sans faille aux côtés de vos alliés, complétant les forces inhérentes de votre armement.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONCOMBAT|combat]], [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Int](./Int.md) 13, [Expertise du combat](./Expertise du combat.md), 3 rangs en [Psychologie](./Psychologie.md)
+**Conditions.** [[Int]] 13, [[Expertise du combat]], 3 rangs en [[Psychologie]]
 
-**Avantages.** Lorsque le personnage est adjacent à un allié qui possède ce don et qui manie une arme avec l'attribut spécial [croc-en-jambe](./Caractéristiques des armes.md#CROCENJAMBE), [désarmement](./Caractéristiques des armes.md#DESARMEMENT), [distraction](./Caractéristiques des armes.md#DISTRACTION) ou [parade](./Caractéristiques des armes.md#PARADE), il traite son arme comme si elle possédait également cet attribut. Si l'arme de son allié a plusieurs de ces attributs, le personnage en choisit un à émuler au début de son tour.
+**Avantages.** Lorsque le personnage est adjacent à un allié qui possède ce don et qui manie une arme avec l'attribut spécial [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#DISTRACTION|distraction]] ou [[Caractéristiques des armes#PARADE|parade]], il traite son arme comme si elle possédait également cet attribut. Si l'arme de son allié a plusieurs de ces attributs, le personnage en choisit un à émuler au début de son tour.

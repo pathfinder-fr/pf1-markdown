@@ -13,13 +13,13 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Illusion](./Illusion.md) ([hallucination](./branche hallucination.md)) ; **Niveau** [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Hyp](./Hypnotiseur.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1  
+{s:AO}** École **[[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[hypnotiseur|Hyp]] 1, [[médium|Méd]] 1, [[Occultiste|Occ]] 1, [[psychiste|Psy]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)  
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)  
 
 **Cible** 1 objet de 0,3 m3/niveau au maximum  
 
@@ -29,4 +29,4 @@ Categories:
 
 Le personnage transforme visuellement un objet en une version sans valeur de lui-même : une épée magique ou de maître prend l’apparence d’une vieille lame rouillée, un trône luxueux ressemble soudain à une chaise en bois branlante… Si le sort affecte un objet en possession d’un tiers, ce dernier a droit à un jet de Volonté pour percer l’illusion à jour. Déguisement décrépi contre et dissipe quintessence.
 
-Un personnage de niveau 9 ou plus peut rendre le *déguisement décrépi* permanent avec une *[permanence](./Permanence.md)* en dépensant 500 po.
+Un personnage de niveau 9 ou plus peut rendre le *déguisement décrépi* permanent avec une *[[permanence]]* en dépensant 500 po.

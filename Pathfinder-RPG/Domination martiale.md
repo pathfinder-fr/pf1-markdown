@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Votre talent avec les armes intimide vos ennemis.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [BBA](./BBA.md) +5, 1 rang en [Intimidation](./Intimidation.md)
+**Conditions.** [[BBA]] +5, 1 rang en [[Intimidation]]
 
-**Avantages.** Le personnage peut utiliser son [bonus de base à l'attaque](./BBA.md) à la place de ses rangs en [Intimidation](./Intimidation.md) pour déterminer son bonus en Intimidation. Lorsqu'il confirme un [coup critique](./coup critique.md) contre une créature, il peut effectuer un test d'Intimidation pour démoraliser cette créature par une [action immédiate](./Action immédiate.md).
+**Avantages.** Le personnage peut utiliser son [[BBA|bonus de base à l'attaque]] à la place de ses rangs en [[Intimidation]] pour déterminer son bonus en Intimidation. Lorsqu'il confirme un [[coup critique]] contre une créature, il peut effectuer un test d'Intimidation pour démoraliser cette créature par une [[action immédiate]].

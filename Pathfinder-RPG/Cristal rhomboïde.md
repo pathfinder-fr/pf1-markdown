@@ -11,11 +11,11 @@ Categories:
 
 {s:divin|Nivi Rhomboéblouissante|%2fPCUP%2fReligion-PNG%2fNivi%20Rhomboéblouissante.png}<div class="BD">
 {s:BDTitre|Cristal rhomboïde|{s:ISG}{s:GeM}}
-**Aura** [Évocation](./Évocation.md) faible ; **NLS** 1 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 2 250 po ; **Poids** —
+**Aura** [[Évocation]] faible ; **NLS** 1 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 2 250 po ; **Poids** —
 (((Description)))
-Cette lentille ressemblant à un bijou qui change de couleur au cours du temps, sans logique particulière. Elle peut ressembler à un rubis un matin et à un saphir le soir même, pour devenir opaline pendant toute la journée suivante. La plupart de ses propriétaires la portent enchâssée dans une monture de métal et accrochée à une chaîne en pendentif, comme un monocle ou une loupe. Elle fonctionne comme une [loupe](./Loupe (objet).md), et confère au personnage un bonus de compétence de +5 aux tests d’[Estimation](./Estimation.md) impliquant des gemmes et des cristaux.
+Cette lentille ressemblant à un bijou qui change de couleur au cours du temps, sans logique particulière. Elle peut ressembler à un rubis un matin et à un saphir le soir même, pour devenir opaline pendant toute la journée suivante. La plupart de ses propriétaires la portent enchâssée dans une monture de métal et accrochée à une chaîne en pendentif, comme un monocle ou une loupe. Elle fonctionne comme une [[Loupe (objet)|loupe]], et confère au personnage un bonus de compétence de +5 aux tests d’[[Estimation]] impliquant des gemmes et des cristaux.
 
-Si le personnage est un suivant de [Nivi Rhomboéblouissante](./Nivi Rhomboéblouissante (technique).md), il bénéficie d’un bonus de chance de +1 aux jets de [Réflexes](./Réflexes.md).
+Si le personnage est un suivant de [[Nivi Rhomboéblouissante (technique)|Nivi Rhomboéblouissante]], il bénéficie d’un bonus de chance de +1 aux jets de [[Réflexes]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[faveur divine](./Faveur divine.md)*, le créateur doit avoir 5 rangs dans la compétence [Estimation](./Estimation.md) ; **Coût** 1 125 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[faveur divine]]*, le créateur doit avoir 5 rangs dans la compétence [[Estimation]] ; **Coût** 1 125 po
 </div>

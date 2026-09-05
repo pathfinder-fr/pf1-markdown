@@ -14,8 +14,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire page 7*}
 {s:BDTexte|**PX** 200}
 {s:BDTexte|Aasimar, prêtre de niveau 1}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)) de taille M, NB}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) (12 cases) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type natif|natif]]) de taille M, NB}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] (12 cases) ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 10, pris au dépourvu 15 (armure +5)}
 {s:BDTexte|**pv** 11 (1d8+3)}
@@ -25,18 +25,18 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c}) ou 6 m (4 {s:c}) en armure}
 {s:BDTexte|**Corps à corps** masse d'arme lourde -1 (1d8-1)}
 {s:BDTexte|**Distance** arbalète légère +0 (1d8/19-20)}
-{s:BDTexte|**Attaques spéciales** [canalisation](./canalisation.md) d'énergie positive (5/jour, 1d6, DD 12) ; repousser la mort (1d4+1, 6/jour) ; toucher du Bien (6/jour)}
+{s:BDTexte|**Attaques spéciales** [[canalisation]] d'énergie positive (5/jour, 1d6, DD 12) ; repousser la mort (1d4+1, 6/jour) ; toucher du Bien (6/jour)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 1)}
-{s:BDSorts|1/jour — *[lumière du jour](./Lumière du jour.md)*}
+{s:BDSorts|1/jour — *[[lumière du jour]]*}
 {s:BDTexte|**Sorts préparés** (NLS 1)}
-{s:BDSorts|1 — *[bénédiction](./Bénédiction.md)*, *[injonction](./Injonction.md)* (DD 14), *[protection contre le Mal](./Protection contre le Mal.md)* <sup>D</sup>}
-{s:BDSorts|0 (à volonté) — *[assistance divine](./Assistance divine.md)*, *[détection de la magie](./Détection de la magie.md)*, *[stabilisation](./Stabilisation.md)*}
+{s:BDSorts|1 — *[[bénédiction]]*, *[[injonction]]* (DD 14), *[[protection contre le Mal]]* <sup>D</sup>}
+{s:BDSorts|0 (à volonté) — *[[assistance divine]]*, *[[détection de la magie]]*, *[[stabilisation]]*}
 {s:BDSorts|**Domaines** Bien, Guérison}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 10, **Con** 14, **Int** 13, **Sag** 17, **Cha** 14}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 9}
-{s:BDTexte|**Dons** [Renvoi des morts-vivants](./Renvoi des morts-vivants.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (religion) +5, [Diplomatie](./Diplomatie.md) +8, [Premiers secours](./Premiers secours.md) +7 ; **Modificateurs raciaux** [Diplomatie](./Diplomatie.md) +2, [Perception](./Perception.md) +2}
+{s:BDTexte|**Dons** [[Renvoi des morts-vivants]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (religion) +5, [[Diplomatie]] +8, [[Premiers secours]] +7 ; **Modificateurs raciaux** [[Diplomatie]] +2, [[Perception]] +2}
 {s:BDTexte|**Langues** céleste, commun, draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
@@ -66,12 +66,12 @@ Les aasimars ne possèdent pas de DV raciaux et progressent en acquérant des ni
 
 - **Vision dans le noir** : les aasimars peuvent voir dans le noir jusqu'à 18 m (12 {s:c}).  
 
-- **Compétents** : Les aasimars reçoivent un bonus racial de +2 à leurs tests de [Diplomatie](./Diplomatie.md) et de [Perception](./Perception.md).  
+- **Compétents** : Les aasimars reçoivent un bonus racial de +2 à leurs tests de [[Diplomatie]] et de [[Perception]].  
 
-- **Pouvoir magique** : les aasimars peuvent utiliser *[lumière du jour](./Lumière du jour.md)* une fois par jour comme pouvoir magique dont le NLS égal à leur niveau de classe.  
+- **Pouvoir magique** : les aasimars peuvent utiliser *[[lumière du jour]]* une fois par jour comme pouvoir magique dont le NLS égal à leur niveau de classe.  
 
 - **Résistance céleste** : Les aasimars bénéficient de résistances à l'acide, à l'électricité et au froid de 5 points de résistance chacune.   
 
 - **Langues** : les aasimars parlent automatiquement le céleste et le commun. s'ils disposent d'une intelligence élevée, ils peuvent choisir des langues supplémentaires parmi les suivantes : draconique, elfe, gnome, halfelin, nain et sylvestre.
 
-{s:VoirAussiAvant}La page de la race [Aasimar](./Aasimar (race).md){s:VoirAussiAprès}</div></td></tr></table>
+{s:VoirAussiAvant}La page de la race [[Aasimar (race)|Aasimar]]{s:VoirAussiAprès}</div></td></tr></table>

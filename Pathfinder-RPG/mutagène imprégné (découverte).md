@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#MUTAGENEIMPREGNE
 ---
 
->>> [découvertes#MUTAGENEIMPREGNE](./découvertes.md#MUTAGENEIMPREGNE)
+>>> [[découvertes#MUTAGENEIMPREGNE]]

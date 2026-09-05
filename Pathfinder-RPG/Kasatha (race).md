@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [fiche de créature](./Kasatha.md) d'un kasatha standard.***
+{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [[Kasatha|fiche de créature]] d'un kasatha standard.***
 
 Les kasathas sont originaires d'une planète lointaine, mais ne savent pas comment ils sont arrivés sur Golarion. Ils n'ont aucun véritable souvenir de leur foyer, mais ressentent une nostalgie paradoxale pour une planète qu'ils n'ont jamais vue. Leur population est mince et est isolée en Numérie.
 
@@ -19,17 +19,17 @@ Originaires d'un monde aride en orbite autour d'une étoile rouge, les descendan
 {s:Reference|TRAITSSTANDARD}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Dextérité](./Dextérité.md), +2 [Sagesse](./Sagesse.md).** Les kasathas sont agiles et perspicaces.
-- **Kasatha.** Les kasathas sont des [humanoïdes](./type Humanoïde.md) de sous-type [kasatha](./sous-type kasatha.md).
-- **Taille M.** Les kasathas sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni malus ni bonus liés à la taille.
-- **Vitesse normale.** Les kasathas ont une [vitesse de base](./VD.md) de 9 mètres.
-- **Entraînement défensif.** Les kasathas ont un bonus d'esquive de +2 à la [CA](./CA.md).
+- **+2 [[Dextérité]], +2 [[Sagesse]].** Les kasathas sont agiles et perspicaces.
+- **Kasatha.** Les kasathas sont des [[type Humanoïde|humanoïdes]] de sous-type [[sous-type kasatha|kasatha]].
+- **Taille M.** Les kasathas sont des créatures de [[taille M]] qui ne reçoivent ni malus ni bonus liés à la taille.
+- **Vitesse normale.** Les kasathas ont une [[VD|vitesse de base]] de 9 mètres.
+- **Entraînement défensif.** Les kasathas ont un bonus d'esquive de +2 à la [[CA]].
 - **Bras multiples (Ext).** Les kasathas possèdent quatre bras. L'une de leur main est directrice ; toutes les autres sont non-directrices. Ils peuvent utiliser leurs mains pour effectuer diverses tâches qui nécessitent d'avoir des mains libres.
-- **Coureur du désert (Ext).** Les kasathas bénéficient d'un bonus racial de +4 aux tests de [Constitution](./Constitution.md) et aux jets de [Vigueur](./Vigueur.md) effectués pour éviter la fatigue, l'épuisement et les divers effets néfastes engendrés par la course, la marche forcée, la faim, la soif et les environnements chauds ou froids.
-- **Marcheur du désert (Ext).** Les kasathas se déplacent à sa vitesse normale quand il traverse les [terrains difficiles](./terrain difficile.md) non-magiques du désert.
-- **Sauteur (Ext).** On considère toujours que les kasathas ont pris de l'élan quand ils effectuent des tests d'[Acrobaties](./Acrobaties.md) pour sauter.
-- **Traqueur (Ext).** [Perception](./Perception.md) et [Discrétion](./Discrétion.md) sont toujours des compétences de classe pour les kasathas.
-- **Langues.** Les kasathas commencent le jeu en parlant le commun et le kasatha. Ceux qui possèdent une valeur d'[Intelligence](./Intelligence.md) élevée peuvent apprendre d'autres langues issues de la liste suivante : draconique, gnoll, nain, orque et sphinx.
+- **Coureur du désert (Ext).** Les kasathas bénéficient d'un bonus racial de +4 aux tests de [[Constitution]] et aux jets de [[Vigueur]] effectués pour éviter la fatigue, l'épuisement et les divers effets néfastes engendrés par la course, la marche forcée, la faim, la soif et les environnements chauds ou froids.
+- **Marcheur du désert (Ext).** Les kasathas se déplacent à sa vitesse normale quand il traverse les [[terrain difficile|terrains difficiles]] non-magiques du désert.
+- **Sauteur (Ext).** On considère toujours que les kasathas ont pris de l'élan quand ils effectuent des tests d'[[Acrobaties]] pour sauter.
+- **Traqueur (Ext).** [[Perception]] et [[Discrétion]] sont toujours des compétences de classe pour les kasathas.
+- **Langues.** Les kasathas commencent le jeu en parlant le commun et le kasatha. Ceux qui possèdent une valeur d'[[Intelligence]] élevée peuvent apprendre d'autres langues issues de la liste suivante : draconique, gnoll, nain, orque et sphinx.
 
 </div>
 
@@ -38,7 +38,7 @@ Originaires d'un monde aride en orbite autour d'une étoile rouge, les descendan
 Il est possible de choisir les traits raciaux suivants à la place des traits raciaux existants des kasathas. Consultez votre MJ avant de prendre ces options.
 
 <u>*Remplace « sauteur » et « traqueur » :*</u>
-- **Discret.** Les kasathas qui vivent sur Golarion doivent souvent se donner beaucoup de mal pour cacher leur existence aux autres. De tels kasathas bénéficient d'un bonus racial de +2 aux tests de [Discrétion](./Discrétion.md), qui devient une compétence de classe pour eux. Ce trait racial remplace sauteur et traqueur.
+- **Discret.** Les kasathas qui vivent sur Golarion doivent souvent se donner beaucoup de mal pour cacher leur existence aux autres. De tels kasathas bénéficient d'un bonus racial de +2 aux tests de [[Discrétion]], qui devient une compétence de classe pour eux. Ce trait racial remplace sauteur et traqueur.
 
 
 ### Nouvelles règles raciales
@@ -54,5 +54,5 @@ Voici les options accessibles aux kasathas, d’autres races adaptées peuvent s
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Connexion mentale alien](./Connexion mentale alien.md) || <sup>*ISR*</sup> || [Androïde](./Androïde (race).md), [kasatha](./Kasatha (race).md), [lashunta](./Lashunta (race).md), ou [triaxien](./Triaxien (race).md) || +4 aux jets de sauvegarde contre les effets mentaux et les scrutations
+| [[Connexion mentale alien]] || <sup>*ISR*</sup> || [[Androïde (race)|Androïde]], [[Kasatha (race)|kasatha]], [[Lashunta (race)|lashunta]], ou [[Triaxien (race)|triaxien]] || +4 aux jets de sauvegarde contre les effets mentaux et les scrutations
 |}

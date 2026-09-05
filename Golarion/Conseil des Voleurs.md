@@ -7,23 +7,23 @@ Categories:
 - Organisation
 ---
 
-{s:Desambi|Le Conseil des Voleurs est également le nom de la [cinquième campagne Pathfinder](./../Aventures/Présentation AP5.md) éditée par Paizo.}Le Conseil des Voleurs est une guilde de voleurs légendaire basée dans la cité [chélaxienne](./Chéliax.md) de [Couronne-d'Ouest](./Couronne-Ouest.md).
+{s:Desambi|Le Conseil des Voleurs est également le nom de la [[Aventures.Présentation AP5|cinquième campagne Pathfinder]] éditée par Paizo.}Le Conseil des Voleurs est une guilde de voleurs légendaire basée dans la cité [[Chéliax|chélaxienne]] de [[Couronne-Ouest|Couronne-d'Ouest]].
 
 ### Histoire du Conseil des Voleurs
-Le Conseil fut fondé vers 4285 AR lors d'un brutal conflit qui détruisit pratiquement tout le mouvement criminel de [Couronne-d'Ouest](./Couronne-Ouest.md). Il eut la mainmise sur la criminalité de la cité pendant près de deux siècles, la gérant en sous-main et terrorisant la population de la cité.
+Le Conseil fut fondé vers 4285 AR lors d'un brutal conflit qui détruisit pratiquement tout le mouvement criminel de [[Couronne-Ouest|Couronne-d'Ouest]]. Il eut la mainmise sur la criminalité de la cité pendant près de deux siècles, la gérant en sous-main et terrorisant la population de la cité.
 
 Cette situation atteignit son point de non retour en 4469 AR lorsque la reine Koradinna intervint. Elle savait qu'un conflit ouvert contre la puissante guilde des voleurs résulterait en une effusion de sang. Elle décida donc de négocier à l'abri des regards avec les leaders de la guilde. Le conseil dut livrer quelques boucs émissaires à la reine qu'elle puisse exposer à la populace et exécuter lors d'une grande fête. En retour, le Conseil serait autorisé à continuer son action, bien que de manière cachée et non violente.
 
-Beaucoup pensent que le Conseil était maintenant mort et disparu, mais l'accord avec le gouvernement [chélaxien](./Chéliax.md) marqua un tournant dans son histoire. La guilde se concentra dorénavant vers des crimes moins "salissant" tels que le chantage, l'usure, l'extorsion, le racket, la contrefaçon le faux-monnayage, le trafic de drogue et l'assassinat. Les membres de la guilde provenaient de plus en plus de la noblesse de [Couronne-d'Ouest](./Couronne-Ouest.md). Les crimes plus quelconques tels les agressions, les meurtres et les viols furent réduits à leur minimum par le Conseil lui-même. Son pouvoir et son influence continua de grandir au sein de la cité et, durant le siècle suivant, son existence continua à disparaître dans les limbes de la rumeur et du mythe.
+Beaucoup pensent que le Conseil était maintenant mort et disparu, mais l'accord avec le gouvernement [[Chéliax|chélaxien]] marqua un tournant dans son histoire. La guilde se concentra dorénavant vers des crimes moins "salissant" tels que le chantage, l'usure, l'extorsion, le racket, la contrefaçon le faux-monnayage, le trafic de drogue et l'assassinat. Les membres de la guilde provenaient de plus en plus de la noblesse de [[Couronne-Ouest|Couronne-d'Ouest]]. Les crimes plus quelconques tels les agressions, les meurtres et les viols furent réduits à leur minimum par le Conseil lui-même. Son pouvoir et son influence continua de grandir au sein de la cité et, durant le siècle suivant, son existence continua à disparaître dans les limbes de la rumeur et du mythe.
 
-La mort d'[Aroden](./Aroden.md) en 4606 AR changea beaucoup de choses pour le Conseil. Le [Chéliax](./Chéliax.md) plongea dans la guerre civile et la guilde n'eut bientôt plus à se soucier de l'accord passé avec la reine Korradina. Mais parce qu'il avait passé trop de temps dans l'ombre, le Conseil n'était plus suffisamment armé pour prospérer en ces temps de violence et de troubles. A la place, elle resta dans l'ombre pendant trente ans, attendant de voir comment évoluerait la situation politique du pays.
+La mort d'[[Aroden]] en 4606 AR changea beaucoup de choses pour le Conseil. Le [[Chéliax]] plongea dans la guerre civile et la guilde n'eut bientôt plus à se soucier de l'accord passé avec la reine Korradina. Mais parce qu'il avait passé trop de temps dans l'ombre, le Conseil n'était plus suffisamment armé pour prospérer en ces temps de violence et de troubles. A la place, elle resta dans l'ombre pendant trente ans, attendant de voir comment évoluerait la situation politique du pays.
 
-L'accession au pouvoir de la [Maison Thrune](./Maison-Thrune.md) modifia beaucoup de choses à [Couronne-d'Ouest](./Couronne-Ouest.md), et notamment pour le Conseil lui-même. La ville se donna littéralement aux ténèbres, la mort de son dieu protecteur lui ayant causé un très grand coup au moral et beaucoup de membres des différents conseils de la cité n'ayant plus aucun respect pour les anciennes traditions. Ainsi, le Conseil des Voleurs lui-même débuta une descente vers l'anarchie et l'irrespect envers son héritage. Seuls la peur et la poigne de fer de son patriarche, le noble Vassindio Drovenge, le fit rester discipliné.
+L'accession au pouvoir de la [[Maison Thrune]] modifia beaucoup de choses à [[Couronne-Ouest|Couronne-d'Ouest]], et notamment pour le Conseil lui-même. La ville se donna littéralement aux ténèbres, la mort de son dieu protecteur lui ayant causé un très grand coup au moral et beaucoup de membres des différents conseils de la cité n'ayant plus aucun respect pour les anciennes traditions. Ainsi, le Conseil des Voleurs lui-même débuta une descente vers l'anarchie et l'irrespect envers son héritage. Seuls la peur et la poigne de fer de son patriarche, le noble Vassindio Drovenge, le fit rester discipliné.
 
 Aujourd'hui, la mainmise de Vassindio sur le Conseil est mise à mal et le souffle de la révolution se répand dans ses rangs.
 
 ### Structure de la guilde
-Bien que la campagne [Le Conseil des Voleurs](./../Aventures/Présentation AP5.md) ne fasse qu'une allusion à la véritable structure de la guilde, voici ce que l'on peut en dire.
+Bien que la campagne [[Aventures.Présentation AP5|Le Conseil des Voleurs]] ne fasse qu'une allusion à la véritable structure de la guilde, voici ce que l'on peut en dire.
 
 #### Hiérarchie et rôles
 La guilde est structurée hiérarchiquement, avec seulement les quelques membres du Conseil à sa tête. Le Conseil est généralement composé de huit à douze personnes, mélangeant des membres de la noblesse, de la criminalité et des civils. Parmi les membres connus de ce petit noyau, on citera Vassindio Drovenge et Eirtein Oberigo.
@@ -45,5 +45,5 @@ Les recrues du Conseil des Voleurs doivent passer une série d'épreuves leur pe
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur le Conseil des Voleurs dans les suppléments
-- [What lies in dust/Ce qui se cache dans la poussière](./../Aventures/Présentation AP5.md#AP5-3) et [Mother of Flies/La Mère des Mouches](./../Aventures/Présentation AP5.md#AP5-5), respectivement troisième et cinquième volumes de la campagne [Le Conseil des Voleurs](./../Aventures/Présentation AP5.md).
+- [[Aventures.Présentation AP5#AP5-3|What lies in dust/Ce qui se cache dans la poussière]] et [[Aventures.Présentation AP5#AP5-5|Mother of Flies/La Mère des Mouches]], respectivement troisième et cinquième volumes de la campagne [[Aventures.Présentation AP5|Le Conseil des Voleurs]].
 {s:VoirAussiAprès}

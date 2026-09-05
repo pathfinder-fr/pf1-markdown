@@ -14,23 +14,23 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p. 132*}
 {s:BDTexte|**PX** 25 600 px}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, NM}
-{s:BDTexte|**Init** +3 ; **Sens** [odorat](./Odorat (capacité).md), perception du sang, [vision dans le noir](./vision dans le noir.md) à 9 m (6 {s:c}) ; [Perception](./Perception.md) +21}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, NM}
+{s:BDTexte|**Init** +3 ; **Sens** [[odorat (capacité)|odorat]], perception du sang, [[vision dans le noir]] à 9 m (6 {s:c}) ; [[Perception]] +21}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 12, pris au dépourvu 23 (Dex +3, naturelle +14, taille -1)}
 {s:BDTexte|**pv** 187 (15d8+120)}
 {s:BDTexte|**Réf** +10, **Vig** +15, **Vol** +12}
-{s:BDTexte|**'Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au son}
+{s:BDTexte|**'Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au son}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), escalade 12 m (8 {s:c}), vol 12 m ((8 {s:c}), parfaite)}
-{s:BDTexte|**Corps à corps** 2 griffes, +16 (1d8+6) et morsure, +16 (2d6+6) et 4 tentacules, +14 (1d6+3 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** 2 griffes, +16 (1d8+6) et morsure, +16 (2d6+6) et 4 tentacules, +14 (1d6+3 plus [[étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1d4 Con), jet de sang}
+{s:BDTexte|**Attaques spéciales** [[absorption de sang (capacité)|absorption de sang]] (1d4 Con), jet de sang}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 17, **Con** 26, **Int** 15, **Sag** 17, **Cha** 16}
 {s:BDTexte|**BBA** +11, **BMO** +18, **DMD** 31}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +18, [Connaissances](./Connaissances.md) (exploration souterraine) +17, [Discrétion](./Discrétion.md) +17, [Escalade](./Escalade.md) +14, [Perception](./Perception.md) +21, [Survie](./Survie.md) +21, [Vol](./Vol.md) +27}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Attaques multiples]], [[Critique sanglant]], [[Don pour les critiques]], [[Réflexes surhumains]], [[Science de la bousculade]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Bluff]] +18, [[Connaissances]] (exploration souterraine) +17, [[Discrétion]] +17, [[Escalade]] +14, [[Perception]] +21, [[Survie]] +21, [[Vol]] +27}
 {s:BDTexte|**Langue** aklo ; communication chimique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrains}
@@ -38,8 +38,8 @@ Categories:
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Communication chimique (Ext).** Les ghorazaghs peuvent communiquer entre eux sur un rayon de 18 m (12 {s:c}) grâce à des transmissions de phéromones. Dans une ruche de ghorazaghs, cette portée est étendue pour couvrir toute la ruche. Il s’agit d’un mode de communication silencieux que seuls les ghorazaghs peuvent comprendre.}
-{s:BDTexte|**Jet de sang (Sur).** Tous les 1d4 [rounds](./round.md), le ghorazagh peut projeter un cône de sang et d’enzymes étrangères de 6 m (4 {s:c}) de long. Toutes les créatures vivantes touchées par le jet de sang du ghorazagh doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 25 ou être affectées par les effets du sort *[lenteur](./Lenteur.md)*. Une créature ralentie touchée par le jet de sang d’un ghorazagh une seconde fois doit faire un jet de [Vigueur](./Vigueur.md) supplémentaire ou être [paralysée](./Paralysé.md). Ces effets durent 2d6 [rounds](./round.md). Le ghorazagh peut également altérer ses enzymes consciemment pour libérer un jet dissipant tous les effets de cette capacité. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Perception du sang (Sur).** Le ghorazagh repère toutes les créatures vivantes dans un rayon de 18 mètres comme s’il possédait la capacité [vision aveugle](./Vision aveugle (capacité).md).}
+{s:BDTexte|**Jet de sang (Sur).** Tous les 1d4 [[round|rounds]], le ghorazagh peut projeter un cône de sang et d’enzymes étrangères de 6 m (4 {s:c}) de long. Toutes les créatures vivantes touchées par le jet de sang du ghorazagh doivent réussir un jet de [[Vigueur]] [[DD]] 25 ou être affectées par les effets du sort *[[lenteur]]*. Une créature ralentie touchée par le jet de sang d’un ghorazagh une seconde fois doit faire un jet de [[Vigueur]] supplémentaire ou être [[paralysé|paralysée]]. Ces effets durent 2d6 [[round|rounds]]. Le ghorazagh peut également altérer ses enzymes consciemment pour libérer un jet dissipant tous les effets de cette capacité. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Perception du sang (Sur).** Le ghorazagh repère toutes les créatures vivantes dans un rayon de 18 mètres comme s’il possédait la capacité [[vision aveugle (capacité)|vision aveugle]].}
 
 </div>
 </td><td><div>

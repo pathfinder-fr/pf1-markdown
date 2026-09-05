@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Guide brise-sorts|{s:RSE}}
-**Aura** [Abjuration](./Abjuration.md) faible ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 8 000 po ; **Poids** 500 g
+**Aura** [[Abjuration]] faible ; **NLS** 7 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 8 000 po ; **Poids** 500 g
 (((Description)))
-Avec un simple boîtier en fer noirci, le *guide brise-sorts* n’est pas ornementé. En plus de ses fonctions classiques de *[guide](./Guide magique.md)* (y compris sa capacité à créer de la lumière), il permet de lancer *[dissipation de la magie](./Dissipation de la magie.md)* sur une créature ou un objet une fois par jour. Le *guide brise-sorts* doit être en contact avec sa cible : si son possesseur vise une créature réticente, il doit réussir une [attaque de contact](./contact.md) au corps à corps. S’il bénéficie des effets actifs d’un sort de *[détection de la magie](./Détection de la magie.md)* ou qu’il peut d’une façon ou d’une autre observer les auras magiques, il peut viser une aura spécifique ; sinon, le *guide brise-sorts* cible l’effet doté du plus haut [niveau de lanceur de sorts](./NLS.md).
+Avec un simple boîtier en fer noirci, le *guide brise-sorts* n’est pas ornementé. En plus de ses fonctions classiques de *[[Guide magique|guide]]* (y compris sa capacité à créer de la lumière), il permet de lancer *[[dissipation de la magie]]* sur une créature ou un objet une fois par jour. Le *guide brise-sorts* doit être en contact avec sa cible : si son possesseur vise une créature réticente, il doit réussir une [[contact|attaque de contact]] au corps à corps. S’il bénéficie des effets actifs d’un sort de *[[détection de la magie]]* ou qu’il peut d’une façon ou d’une autre observer les auras magiques, il peut viser une aura spécifique ; sinon, le *guide brise-sorts* cible l’effet doté du plus haut [[NLS|niveau de lanceur de sorts]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[dissipation de la magie](./Dissipation de la magie.md)*, *[lumière](./Lumière.md)* ; **Coût** 4 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[dissipation de la magie]]*, *[[lumière]]* ; **Coût** 4 000 po
 </div>

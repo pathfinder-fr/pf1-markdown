@@ -12,14 +12,14 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Illusion](./Illusion.md) ([ombre](./branche ombre.md)) <nowiki>[</nowiki>[langage, ombre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Antipal](./Antipaladin.md) 1, [Bard](./Barde.md) 2, [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 2, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, F/DF](./composantes.md) (un bout de tissu noir)
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))
-**Cibles** une créature/[niveau](./niveau.md)
+{s:cs}{s:UI}**École**  [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|langage, ombre]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Antipal]] 1, [[Barde|Bard]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, F/DF]] (un bout de tissu noir)
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])
+**Cibles** une créature/[[niveau]]
 **Durée** 10 minutes/niveau (T)
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
 Le personnage communique à travers les ombres d'une ou plusieurs cibles à portée. Les ombres n'ont aucune présence physique et ne bougent ni ne s'animent pas. Au lieu de ça, les mots du personnage émergent de l'ombre comme un chuchotement clair, sans accent ou autre caractéristique identifiable. Les cibles peuvent elles-mêmes communiquer avec l'ombre, mais doivent parler à haute voix pour le faire. Les voix des cibles émergent de l'ombre du personnage uniquement lorsqu'elles s'adressent directement à l'ombre, mais il n'entend aucun autre son provenant des environs proches de la cible. Leurs réponses émergent également comme des chuchotements clairs, sans caractéristique identifiable, mais il peut instinctivement identifier quelle cible lui parle à travers l'ombre. Une fois le sort lancé, le personnage n'a pas besoin d'avoir une ligne d'effet vers les cibles ou leurs ombres pour communiquer en retour.
 
-La communication par les ombres est audible, elle peut donc être interceptée par des adversaires qui réussissent un test de [Perception](./Perception.md) [DD](./DD.md) 25. Le sort peut être réduit au silence. Le personnage ne peut pas lancer de sorts sur les cibles ou établir une ligne d'effet à travers les ombres, mais les sorts qui lui permettent de parler ou de comprendre les langues fonctionnent normalement à travers *sombres murmures*.
+La communication par les ombres est audible, elle peut donc être interceptée par des adversaires qui réussissent un test de [[Perception]] [[DD]] 25. Le sort peut être réduit au silence. Le personnage ne peut pas lancer de sorts sur les cibles ou établir une ligne d'effet à travers les ombres, mais les sorts qui lui permettent de parler ou de comprendre les langues fonctionnent normalement à travers *sombres murmures*.

@@ -11,16 +11,16 @@ Categories:
 - Sort psychiste 1
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md); **Niveau** [Alch](./Alchimiste.md) 1, [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Psy](./Psychiste.md) 1  
+{s:MCA}**École** [[Transmutation]]; **Niveau** [[Alchimiste|Alch]] 1, [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** personnelle  
 
 **Cible** le lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 
-Les mains et les pieds du personnage se transforment pour lui permettre de mieux escalader et de mieux nager. Il gagne une vitesse d’[escalade](./Escalade.md) et une vitesse de [nage](./Natation.md) de 3 mètres. Ce sort n’a aucun effet si le personnage porte une armure lourde ou intermédiaire ou s’il porte une charge lourde ou intermédiaire.
+Les mains et les pieds du personnage se transforment pour lui permettre de mieux escalader et de mieux nager. Il gagne une vitesse d’[[escalade]] et une vitesse de [[natation|nage]] de 3 mètres. Ce sort n’a aucun effet si le personnage porte une armure lourde ou intermédiaire ou s’il porte une charge lourde ou intermédiaire.

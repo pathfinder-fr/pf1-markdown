@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:ISR}*Vous savez que les exploits audacieux et héroïques vivent éternellement en chanson, et comptez sur les épopées pour offrir l'immortalité à vos exploits.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONCOMBAT|combat]], [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Humain](./Humain.md) (ulfe)
+**Conditions.** [[Humain]] (ulfe)
 
-**Avantages.** Lorsque le personnage initie ou termine une attaque de [charge](./charge.md) dans un espace adjacent à un allié qui possède ce don, il bénéficie d'un bonus de moral de +2 sur un [jet d'attaque](./jet dattaque.md) lancé dans le cadre de cette charge. De plus, le personnage peut charger à travers l'espace d'un allié qui possède ce don.
+**Avantages.** Lorsque le personnage initie ou termine une attaque de [[charge]] dans un espace adjacent à un allié qui possède ce don, il bénéficie d'un bonus de moral de +2 sur un [[jet dattaque|jet d'attaque]] lancé dans le cadre de cette charge. De plus, le personnage peut charger à travers l'espace d'un allié qui possède ce don.

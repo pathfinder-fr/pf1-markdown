@@ -19,10 +19,10 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou bande (3–8)}
 {s:BDTexte|**Trésor** aucun}
 (((Pouvoirs spéciaux)))
-{s:BDTexte|**Froid engourdissant (Sur).** Lorsqu’un élémentaire de la glace inflige des dégâts de froid à une créature, celle-ci doit réussir un jet de Vigueur pour ne pas être [chancelante](./Chancelant.md) pendant 1 round. Le DD du jet de sauvegarde est indiqué dans le profil de l’élémentaire et dépend de la Constitution.}
-{s:BDTexte|**Marche sur la glace (Ext).** Cette capacité fonctionne comme le sort de *[pattes d’araignée](./Pattes daraignée.md)* mais seulement sur les surfaces gelées. L’élémentaire peut se déplacer sur les surfaces gelées sans aucune pénalité et il peut charger ou courir sur la glace sans devoir effectuer de test d’[Acrobaties](./Acrobaties.md).}
-{s:BDTexte|**Nage dans la glace (Sur).** Un élémentaire de la glace qui se déplace par creusement peut traverser la glace non magique et la neige aussi facilement qu’un poisson nage dans l’eau. Il ne laisse aucune trace de son passage, ni tunnel derrière lui, pas plus qu’il ne crée de vibrations. Un sort de *[contrôle de l’eau](./Contrôle de leau.md)* lancé sur une zone contenant un élémentaire de la glace le projette en arrière sur 9 mètres (6 {s:c}) et l’[étourdit](./Étourdi.md) pendant 1 round à moins qu’il ne réussisse un jet de Vigueur contre un DD de 15.}
-{s:BDTexte|**Vision malgré la neige (Ext).** Un élémentaire de la glace peut voir parfaitement bien même lorsqu’il neige. Il ne subit aucune pénalité aux tests de [Perception](./Perception.md) à cause de la neige.}
+{s:BDTexte|**Froid engourdissant (Sur).** Lorsqu’un élémentaire de la glace inflige des dégâts de froid à une créature, celle-ci doit réussir un jet de Vigueur pour ne pas être [[chancelant|chancelante]] pendant 1 round. Le DD du jet de sauvegarde est indiqué dans le profil de l’élémentaire et dépend de la Constitution.}
+{s:BDTexte|**Marche sur la glace (Ext).** Cette capacité fonctionne comme le sort de *[[pattes daraignée|pattes d’araignée]]* mais seulement sur les surfaces gelées. L’élémentaire peut se déplacer sur les surfaces gelées sans aucune pénalité et il peut charger ou courir sur la glace sans devoir effectuer de test d’[[Acrobaties]].}
+{s:BDTexte|**Nage dans la glace (Sur).** Un élémentaire de la glace qui se déplace par creusement peut traverser la glace non magique et la neige aussi facilement qu’un poisson nage dans l’eau. Il ne laisse aucune trace de son passage, ni tunnel derrière lui, pas plus qu’il ne crée de vibrations. Un sort de *[[contrôle de leau|contrôle de l’eau]]* lancé sur une zone contenant un élémentaire de la glace le projette en arrière sur 9 mètres (6 {s:c}) et l’[[étourdi|étourdit]] pendant 1 round à moins qu’il ne réussisse un jet de Vigueur contre un DD de 15.}
+{s:BDTexte|**Vision malgré la neige (Ext).** Un élémentaire de la glace peut voir parfaitement bien même lorsqu’il neige. Il ne subit aucune pénalité aux tests de [[Perception]] à cause de la neige.}
 
 </div>
 #### 
@@ -31,23 +31,23 @@ Categories:
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.124*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [Eau](./sous-type Eau.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [froid](./sous-type froid.md)) de taille P, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), vision malgré la neige ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille P, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +5}
 (((Défense)))
 {s:BDTexte|**CA** 16, contact 10, pris au dépourvu 16 (Dex -1, naturelle +6, taille +1)}
 {s:BDTexte|**pv** 13 (2d10+2)}
 {s:BDTexte|**Réf** +2, **Vig** +4, **Vol** +0}
-{s:BDTexte|**Immunités** froid, [traits des élémentaires](./sous-type élémentaire.md)}
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Immunités** froid, [[sous-type élémentaire|traits des élémentaires]]}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au feu}
 (((Attaque)))
 {s:BDTexte|**VD** 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** coup, +4 (1d4+1 plus 1d3 froid)}
 {s:BDTexte|**Attaques spéciales** froid engourdissant (DD 12)}
 (((Statistiques)))
 {s:BDTexte|**For** 12, **Dex** 8, **Con** 13, **Int** 4, **Sag** 11, **Cha** 11}
-{s:BDTexte|**BBA** +2 ; **BMO** +2 ; **DMD** 11 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +2, [Discrétion](./Discrétion.md) +8, [Natation](./Natation.md) +9, [Perception](./Perception.md) +5}
+{s:BDTexte|**BBA** +2 ; **BMO** +2 ; **DMD** 11 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +2, [[Discrétion]] +8, [[Natation]] +9, [[Perception]] +5}
 {s:BDTexte|**Particularités** marche sur la glace, nage dans la glace}
 
 </div>
@@ -57,23 +57,23 @@ Categories:
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.124*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [Eau](./sous-type Eau.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [froid](./sous-type froid.md)) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), vision malgré la neige ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +7}
 (((Défense)))
 {s:BDTexte|**CA** 16, contact 10, pris au dépourvu 16 (naturelle +6)}
 {s:BDTexte|**pv** 30 (4d10+8)}
 {s:BDTexte|**Réf** +4, **Vig** +6, **Vol** +1}
-{s:BDTexte|**Immunités** froid, [traits des élémentaires](./sous-type élémentaire.md)}
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Immunités** froid, [[sous-type élémentaire|traits des élémentaires]]}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au feu}
 (((Attaque)))
 {s:BDTexte|**VD** 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** coup, +7 (1d6+4 plus 1d4 froid)}
 {s:BDTexte|**Attaques spéciales** froid engourdissant (DD 14)}
 (((Statistiques)))
 {s:BDTexte|**For** 16, **Dex** 10, **Con** 15, **Int** 4, **Sag** 11, **Cha** 11}
-{s:BDTexte|**BBA** +4 ; **BMO** +7 ; **DMD** 17 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +4, [Discrétion](./Discrétion.md) +7, [Natation](./Natation.md) +11, [Perception](./Perception.md) +7}
+{s:BDTexte|**BBA** +4 ; **BMO** +7 ; **DMD** 17 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +4, [[Discrétion]] +7, [[Natation]] +11, [[Perception]] +7}
 {s:BDTexte|**Particularités** marche sur la glace, nage dans la glace}
 
 </div>
@@ -83,14 +83,14 @@ Categories:
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.124*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [Eau](./sous-type Eau.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [froid](./sous-type froid.md)) de taille G, N}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), vision malgré la neige ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille G, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +11}
 (((Défense)))
 {s:BDTexte|**CA** 17, contact 10, pris au dépourvu 16 (Dex +1, naturelle +7, taille -1)}
 {s:BDTexte|**pv** 68 (8d10+24)}
 {s:BDTexte|**Réf** +7, **Vig** +9, **Vol** +2}
-{s:BDTexte|**Immunités** froid, [traits des élémentaires](./sous-type élémentaire.md) ; **RD** 5/—}
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Immunités** froid, [[sous-type élémentaire|traits des élémentaires]] ; **RD** 5/—}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au feu}
 (((Attaque)))
 {s:BDTexte|**VD** 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** 2 coups, +12 (1d8+5 plus 1d6 froid)}
@@ -98,9 +98,9 @@ Categories:
 {s:BDTexte|**Attaques spéciales** froid engourdissant (DD 17)}
 (((Statistiques)))
 {s:BDTexte|**For** 20, **Dex** 12, **Con** 17, **Int** 6, **Sag** 11, **Cha** 11}
-{s:BDTexte|**BBA** +8 ; **BMO** +14 ; **DMD** 25 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Science de l’initiative](./Science de linitiative.md), [Succession d’enchaînements](./Succession denchaînements.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +9, [Discrétion](./Discrétion.md) +8, [Intimidation](./Intimidation.md) +11, [Natation](./Natation.md) +13, [Perception](./Perception.md) +11}
+{s:BDTexte|**BBA** +8 ; **BMO** +14 ; **DMD** 25 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Science de linitiative|Science de l’initiative]], [[Succession denchaînements|Succession d’enchaînements]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +9, [[Discrétion]] +8, [[Intimidation]] +11, [[Natation]] +13, [[Perception]] +11}
 {s:BDTexte|**Particularités** marche sur la glace, nage dans la glace}
 
 </div>
@@ -110,14 +110,14 @@ Categories:
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.124*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [Eau](./sous-type Eau.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [froid](./sous-type froid.md)) de taille TG, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), vision malgré la neige ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille TG, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +13}
 (((Défense)))
 {s:BDTexte|**CA** 20, contact 12, pris au dépourvu 16 (Dex +3, esquive +1, naturelle +8, taille -2)}
 {s:BDTexte|**pv** 95 (10d10+40)}
 {s:BDTexte|**Réf** +10, **Vig** +10, **Vol** +3}
-{s:BDTexte|**Immunités** froid, [traits des élémentaires](./sous-type élémentaire.md) ; **RD** 5/—}
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Immunités** froid, [[sous-type élémentaire|traits des élémentaires]] ; **RD** 5/—}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au feu}
 (((Attaque)))
 {s:BDTexte|**VD** 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** 2 coups, +15 (2d6+7 plus 1d8 froid)}
@@ -125,9 +125,9 @@ Categories:
 {s:BDTexte|**Attaques spéciales** froid engourdissant (DD 19)}
 (((Statistiques)))
 {s:BDTexte|**For** 24, **Dex** 16, **Con** 19, **Int** 6, **Sag** 11, **Cha** 11}
-{s:BDTexte|**BBA** +10 ; **BMO** +19 ; **DMD** 33 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md), [Succession d’enchaînements](./Succession denchaînements.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +11, [Discrétion](./Discrétion.md) +8, [Intimidation](./Intimidation.md) +13, [Natation](./Natation.md) +15, [Perception](./Perception.md) +13}
+{s:BDTexte|**BBA** +10 ; **BMO** +19 ; **DMD** 33 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Succession denchaînements|Succession d’enchaînements]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +11, [[Discrétion]] +8, [[Intimidation]] +13, [[Natation]] +15, [[Perception]] +13}
 {s:BDTexte|**Particularités** marche sur la glace, nage dans la glace}
 
 </div>
@@ -138,14 +138,14 @@ Categories:
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.125*}
 {s:BDTexte|**PX** 6 400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [Eau](./sous-type Eau.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [froid](./sous-type froid.md)) de taille TG, N}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), vision malgré la neige ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille TG, N}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +16}
 (((Défense)))
 {s:BDTexte|**CA** 23, contact 13, pris au dépourvu 18 (Dex +4, esquive +1, naturelle +10, taille -2)}
 {s:BDTexte|**pv** 123 (13d10+52)}
 {s:BDTexte|**Réf** +14, **Vig** +12, **Vol** +4}
-{s:BDTexte|**Immunités** froid, [traits des élémentaires](./sous-type élémentaire.md) ; **RD** 10/—}
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Immunités** froid, [[sous-type élémentaire|traits des élémentaires]] ; **RD** 10/—}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au feu}
 (((Attaque)))
 {s:BDTexte|**VD** 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** 2 coups, +20 (2d10+9 plus 2d6 froid)}
@@ -153,9 +153,9 @@ Categories:
 {s:BDTexte|**Attaques spéciales** froid engourdissant (DD 20)}
 (((Statistiques)))
 {s:BDTexte|**For** 28, **Dex** 18, **Con** 19, **Int** 8, **Sag** 11, **Cha** 11}
-{s:BDTexte|**BBA** +13 ; **BMO** +24 ; **DMD** 39 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Enchaînement](./Enchaînement.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +15, [Discrétion](./Discrétion.md) +12, [Évasion](./Évasion.md) +20, [Intimidation](./Intimidation.md) +16, [Natation](./Natation.md) +17, [Perception](./Perception.md) +16}
+{s:BDTexte|**BBA** +13 ; **BMO** +24 ; **DMD** 39 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Enchaînement]], [[Esquive]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +15, [[Discrétion]] +12, [[Évasion]] +20, [[Intimidation]] +16, [[Natation]] +17, [[Perception]] +16}
 {s:BDTexte|**Particularités** marche sur la glace, nage dans la glace}
 
 </div>
@@ -165,14 +165,14 @@ Categories:
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.125*}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [Eau](./sous-type Eau.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [froid](./sous-type froid.md)) de taille TG, N}
-{s:BDTexte|**Init** +9 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), vision malgré la neige ; [Perception](./Perception.md) +19}
+{s:BDTexte|[[type extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type Eau|Eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Froid|froid]]) de taille TG, N}
+{s:BDTexte|**Init** +9 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), vision malgré la neige ; [[Perception]] +19}
 (((Défense)))
 {s:BDTexte|**CA** 24, contact 14, pris au dépourvu 18 (Dex +5, esquive +1, naturelle +10, taille -2)}
 {s:BDTexte|**pv** 152 (16d10+64)}
 {s:BDTexte|**Réf** +17, **Vig** +14, **Vol** +5}
-{s:BDTexte|**Immunités** froid, [traits des élémentaires](./sous-type élémentaire.md) ; **RD** 10/—}
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Immunités** froid, [[sous-type élémentaire|traits des élémentaires]] ; **RD** 10/—}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au feu}
 (((Attaque)))
 {s:BDTexte|**VD** 6 m (4 {s:c}), creusement (glace et neige seulement) 6 m (4 {s:c}), nage 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** 2 coups, +24 (2d10+10/19-20 plus 2d8 froid)}
@@ -180,9 +180,9 @@ Categories:
 {s:BDTexte|**Attaques spéciales** froid engourdissant (DD 22)}
 (((Statistiques)))
 {s:BDTexte|**For** 30, **Dex** 20, **Con** 19, **Int** 10, **Sag** 11, **Cha** 11}
-{s:BDTexte|**BBA** +16 ; **BMO** +28 ; **DMD** 44 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Enchaînement](./Enchaînement.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (coup)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +19, [Discrétion](./Discrétion.md) +16, [Évasion](./Évasion.md) +24, [Intimidation](./Intimidation.md) +19, [Natation](./Natation.md) +37, [Perception](./Perception.md) +19}
+{s:BDTexte|**BBA** +16 ; **BMO** +28 ; **DMD** 44 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Enchaînement]], [[Esquive]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (coup)}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +19, [[Discrétion]] +16, [[Évasion]] +24, [[Intimidation]] +19, [[Natation]] +37, [[Perception]] +19}
 {s:BDTexte|**Particularités** marche sur la glace, nage dans la glace}
 
 </div>

@@ -11,19 +11,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Dru](./Druide.md) 1, [Rôd](./Rôdeur.md) 1  
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Druide|Dru]] 1, [[Rôdeur|Rôd]] 1  
 
-**Temps d’incantation** 1 [round](./round.md)  
+**Temps d’incantation** 1 [[round]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** 1d3 créatures invoquées  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Ce sort fonctionne comme *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)* mais le personnage ne peut invoquer que 1d3 animaux TP ou plus petits comme les chauves-souris, les lézards, les singes, les rats, les
+Ce sort fonctionne comme *[[convocation dalliés naturels I|convocation d’alliés naturels I]]* mais le personnage ne peut invoquer que 1d3 animaux TP ou plus petits comme les chauves-souris, les lézards, les singes, les rats, les
 corbeaux, les crapauds ou les belettes. Les animaux invoqués doivent tous être de la même sorte.

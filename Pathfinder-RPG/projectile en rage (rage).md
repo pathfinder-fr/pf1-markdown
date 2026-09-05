@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#PROJECTILEENRAGE
 ---
 
->>> [Pouvoirs de rage#PROJECTILEENRAGE](./Pouvoirs de rage.md#PROJECTILEENRAGE)
+>>> [[Pouvoirs de rage#PROJECTILEENRAGE]]

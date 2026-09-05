@@ -17,18 +17,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Cham](./Chaman.md) 3, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 3, [San](./Sanguin.md) 3  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Chaman|Cham]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (un petit roseau ou un brin de paille)  
+**Composantes** [[composantes|V, G, M/FD]] (un petit roseau ou un brin de paille)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cibles** créatures vivantes touchées  
 
-**Durée** 2 heures/[niveau](./niveau.md) (voir description)  
+**Durée** 2 heures/[[niveau]] (voir description)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 Les créatures affectées respirent sans mal sous l’eau. Si le personnage décide d’en faire bénéficier plusieurs compagnons, il doit diviser la durée indiquée par le nombre d’individus affectés. Ce sort n’empêche pas les créatures de respirer à l’air libre.

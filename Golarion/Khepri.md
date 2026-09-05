@@ -7,6 +7,6 @@ Categories:
 - Religion
 ---
 
-Khepri est, avec [Apep](./Apep.md) et [Wadjet](./Wadjet.md) un des trois dieux de l'ancien culte d'[Osirion](./Osirion.md).
+Khepri est, avec [[Apep]] et [[Wadjet]] un des trois dieux de l'ancien culte d'[[Osirion]].
 
-Dieu très populaire en [Osirion](./Osirion.md), il est représenté sous la forme d'un bousier. C'est d'ailleurs lui qui est représenté sur les armes du pays. Il est le protecteur des paysans et de tous ceux qui ont un travail harassant mais ne renoncent jamais.
+Dieu très populaire en [[Osirion]], il est représenté sous la forme d'un bousier. C'est d'ailleurs lui qui est représenté sur les armes du pays. Il est le protecteur des paysans et de tous ceux qui ont un travail harassant mais ne renoncent jamais.

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 12*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]], [[odorat]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 10 (Dex +3)}
 {s:BDTexte|**pv** 15 (2d8+6)}
@@ -23,12 +23,12 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
 {s:BDTexte|**Corps à corps** bois, +2 (1d6+1) et 2 sabots, -3 (1d4)}
-{s:BDTexte|**Attaque spéciale**  [charge puissante](./Charge puissante.md) (corne, 1d4+2)}
+{s:BDTexte|**Attaque spéciale**  [[charge puissante]] (corne, 1d4+2)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 17, **Con** 16, **Int** 2, **Sag** 15, **Cha** 8}
 {s:BDTexte|**BBA** +1, **BMO** +2, **DMD** 15 (19 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Course](./Course.md), [Talent](./Talent.md) (Acrobaties)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Perception](./Perception.md) +6}
+{s:BDTexte|**Dons** [[Course]], [[Talent]] (Acrobaties)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Perception]] +6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terrestre}
 {s:BDTexte|**Organisation** solitaire, couple, ou troupeau (3-20)}
@@ -40,23 +40,23 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Antilope](./Antilope.md) || 1/2
+| [[Antilope]] || 1/2
 |-
-| [Auroch](./Auroch.md) || 2
+| [[Auroch]] || 2
 |-
-| [Bélier](./Bélier.md) || 1
+| [[Bélier]] || 1
 |-
-| [Bison](./Bison.md) || 4
+| [[Bison]] || 4
 |-
-| [Cerf](./Cerf.md) || 1
+| [[Cerf]] || 1
 |-
-| [Dromadaire](./Dromadaire.md) || 1
+| [[Dromadaire]] || 1
 |-
-| [Élan](./Élan.md) || 1
+| [[Élan]] || 1
 |-
-| [Élan des rivières](./Élan des rivières.md) || 2
+| [[Élan des rivières]] || 2
 |-
-| [Girafe](./Girafe.md) || 3
+| [[Girafe]] || 3
 |}
 </div>''Gracieux et majestueux, ce puissant animal est couronné de grands
 bois.''
@@ -91,7 +91,7 @@ queue, et peuvent peser jusqu’à
 
 #### Le cerf comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 15 m (10 {s:c}) ; **Attaque** corne (1d4) ; **Caractéristiques** For 10, Dex 19, Con 14, Int 2, Sag 15, Cha 8 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 15 m (10 {s:c}) ; **Attaque** corne (1d4) ; **Caractéristiques** For 10, Dex 19, Con 14, Int 2, Sag 15, Cha 8 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4.** **Taille** M ; **Attaque** corne (1d6) et 2 sabots (1d4) ; **Caractéristiques** For +2, Dex -2, Con +2.
 </div></td></tr></table>

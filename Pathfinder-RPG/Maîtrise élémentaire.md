@@ -17,26 +17,26 @@ Categories:
 </tr><tr style="vertical-align: top">
 <td><div style="text-align:center; font-size: 81%; font-weight: bold;">Option plus  
 commune chez  
-les [ifrits](./Ifrit (race).md), les [ondins](./Ondin (race).md), les [oréades](./Oréade (race).md), les [sulis](./suli (race).md) et les [sylphes](./Sylphe (race).md).</div></td>
+les [[Ifrit (race)|ifrits]], les [[Ondin (race)|ondins]], les [[Oréade (race)|oréades]], les [[Suli (race)|sulis]] et les [[Sylphe (race)|sylphes]].</div></td>
 </tr></table>
-</div>{s:cs}{s:ISR}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>voir texte<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Magus](./Magus.md) 4, [Rôd](./Rôdeur.md) 4, [San](./Sanguin.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
+</div>{s:cs}{s:ISR}**École** [[Transmutation]] <nowiki>[[</nowiki>voir texte<nowiki>]]</nowiki> ; **Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Rôdeur|Rôd]] 4, [[Sanguin|San]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
 **Portée** personnelle
 **Cible** le lanceur de sorts
 **Durée** 1 minute/niveau
 
-Le personnage obtient la maîtrise de l'élément qui correspond à l'essence élémentaire dans son sang (le feu pour les [ifrits](./Ifrit (race).md), l'eau pour les [ondins](./Ondin (race).md), la terre pour les [oréades](./Oréade (race).md) et l'air pour les [sylphes](./Sylphe (race).md)). Si le personnage est un [suli](./suli (race).md), il peut choisir n'importe laquelle des quatre options lorsqu'il lance ce sort, mais sa durée est réduite à 1 round par niveau. Cette maîtrise offre au personnage un bonus d'intuition à la [vitesse](./VD.md) ou un nouveau mode de déplacement, selon l'élément maîtrisé, et offre des avantages supplémentaires. Le [registre](./Registre.md) de ce sort correspond à l'élément choisi.
+Le personnage obtient la maîtrise de l'élément qui correspond à l'essence élémentaire dans son sang (le feu pour les [[Ifrit (race)|ifrits]], l'eau pour les [[Ondin (race)|ondins]], la terre pour les [[Oréade (race)|oréades]] et l'air pour les [[Sylphe (race)|sylphes]]). Si le personnage est un [[Suli (race)|suli]], il peut choisir n'importe laquelle des quatre options lorsqu'il lance ce sort, mais sa durée est réduite à 1 round par niveau. Cette maîtrise offre au personnage un bonus d'intuition à la [[VD|vitesse]] ou un nouveau mode de déplacement, selon l'élément maîtrisé, et offre des avantages supplémentaires. Le [[registre]] de ce sort correspond à l'élément choisi.
 
 {| CLASS="tablo centre toutgauche autoalt"
 |- CLASS="titre"
 | Élément (race) || Déplacement || Avantage
 |- CLASS="premier"
-| Air (suli, sylphe) || vitesse de vol de 9 m (moyenne) || Bonus de circonstances de +1 aux [jets d'attaque](./jet dattaque.md) lorsque le personnage et son adversaire sont en vol
+| Air (suli, sylphe) || vitesse de vol de 9 m (moyenne) || Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque le personnage et son adversaire sont en vol
 |-
-| Eau (ondin, suli) || +9 m à la vitesse de nage || Bonus de circonstances de +1 aux [jets d'attaque](./jet dattaque.md) lorsque le personnage et son adversaire touchent de l'eau
+| Eau (ondin, suli) || +9 m à la vitesse de nage || Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque le personnage et son adversaire touchent de l'eau
 |-
-| Feu (ifrit, suli) || +6 m à toutes les vitesses || Bonus de circonstances de +1 aux [jets d'attaque](./jet dattaque.md) lorsque l'adversaire du personnage est [en feu](./Dangers naturels.md#PRENDREFEU)
+| Feu (ifrit, suli) || +6 m à toutes les vitesses || Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque l'adversaire du personnage est [[Dangers naturels#PRENDREFEU|en feu]]
 |-
-| Terre (oréade, suli) || vitesse de creusement de 4.5 m || Bonus de circonstances de +1 aux [jets d'attaque](./jet dattaque.md) lorsque le personnage et son adversaire touchent le sol
+| Terre (oréade, suli) || vitesse de creusement de 4.5 m || Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque le personnage et son adversaire touchent le sol
 |}

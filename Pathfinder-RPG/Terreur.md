@@ -20,19 +20,19 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:Desambi|Il peut aussi s'agir d'une [capacité de monstre](./Terreur (capacité).md).}
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[émotion, mental, peur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 4, [Bard](./Barde.md) 3, [Cham](./Chaman.md) 4, [Hyp](./Hypnotiseur.md) 3, [Inq](./Inquisiteur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Méd](./Médium.md) 4, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 4, [San](./Sanguin.md) 4, [Sor](./Sorcière.md) 4, [Spi](./Spirite.md) 4  
+{s:Desambi|Il peut aussi s'agir d'une [[Terreur (capacité)|capacité de monstre]].}
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|émotion, mental, peur]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 4, [[Barde|Bard]] 3, [[Chaman|Cham]] 4, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un cœur de poule ou une plume blanche)  
+**Composantes** [[composantes|V, G, M]] (un cœur de poule ou une plume blanche)  
 
 **Portée** 9 m (6 {s:c})  
 
-**Zone d'effet** [rayonnement](./rayonnement.md) en forme de cône  
+**Zone d'effet** [[rayonnement]] en forme de cône  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ou 1 [round](./round.md) (voir description)  
+**Durée** 1 [[round]]/[[niveau]] ou 1 [[round]] (voir description)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Ce cône invisible provoque une violente [panique](./Paniqué.md) chez les créatures vivantes prises dans la [zone d’effet](./zone deffet.md), à moins qu’elles ne réussissent un jet de [Volonté](./Volonté.md). Si elles sont acculées, elles se recroquevillent sur elles-mêmes. Si elles réussissent leur jet de [Volonté](./Volonté.md), elles sont [secouées](./Secoué.md) pendant 1 round.
+Ce cône invisible provoque une violente [[paniqué|panique]] chez les créatures vivantes prises dans la [[zone deffet|zone d’effet]], à moins qu’elles ne réussissent un jet de [[Volonté]]. Si elles sont acculées, elles se recroquevillent sur elles-mêmes. Si elles réussissent leur jet de [[Volonté]], elles sont [[secoué|secouées]] pendant 1 round.

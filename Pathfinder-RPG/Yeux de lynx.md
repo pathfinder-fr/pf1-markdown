@@ -8,12 +8,12 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:Desambi|Yeux de lynx est également le nom d'un [objet merveilleux](./Yeux de lynx (objet).md).}{s:apg}
+{s:Desambi|Yeux de lynx est également le nom d'un [[yeux de lynx (objet)|objet merveilleux]].}{s:apg}
 *Le personnage possède une vue très perçante.*
 
-**Conditions.** [Sag](./Sagesse.md) 13, trait racial Sens aiguisés.
+**Conditions.** [[Sagesse|Sag]] 13, trait racial Sens aiguisés.
 
-**Avantage.** Lorsque le personnage effectue un test de [Perception](./Perception.md) visuelle, il peut ignorer jusqu’à -5 de pénalité de distance, ce qui lui permet de voir avec précision à de plus grandes distances que la plupart des gens.
+**Avantage.** Lorsque le personnage effectue un test de [[Perception]] visuelle, il peut ignorer jusqu’à -5 de pénalité de distance, ce qui lui permet de voir avec précision à de plus grandes distances que la plupart des gens.
 
 {s:CMy}
 ### Version mythique
@@ -21,4 +21,4 @@ Categories:
 
 **Condition.** Yeux de lynx
 
-**Avantage.** Le personnage ignore le malus aux tests de [Perception](./Perception.md) visuelle provoqué par la distance, tant que celui-ci ne dépasse pas les -10 à la place des -5 habituels. Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour ignorer la totalité des malus infligés par la distance aux tests de [Perception](./Perception.md) visuel pendant un round.
+**Avantage.** Le personnage ignore le malus aux tests de [[Perception]] visuelle provoqué par la distance, tant que celui-ci ne dépasse pas les -10 à la place des -5 habituels. Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour ignorer la totalité des malus infligés par la distance aux tests de [[Perception]] visuel pendant un round.

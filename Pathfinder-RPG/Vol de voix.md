@@ -14,12 +14,12 @@ Categories:
 - Src Art de la magie
 ---
 
-{s:UM}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Méd](./Médium.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V](./composantes.md)
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+{s:UM}**École** [[Nécromancie]] ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V]]
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
 **Cible** une créature
-**Durée** [permanente](./Présentation des sorts.md#DUREE) (T)
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Durée** [[présentation des sorts#DUREE|permanente]] (T)
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-La gorge de la cible se contracte et lui donne la [plaie de coassement du mage](./Description des plaies magiques.md#Coassement_du_mage_1).
+La gorge de la cible se contracte et lui donne la [[Description des plaies magiques#Coassement_du_mage_1|plaie de coassement du mage]].

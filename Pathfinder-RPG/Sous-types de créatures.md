@@ -10,63 +10,63 @@ Categories:
 {s:MenuTypes}Certaines créatures possèdent un ou plusieurs sous-types. ces sous-types correspondent à diverses capacités spéciales et particularités dont elles disposent.
 
 <table><tr><td>
-- [adlet](./sous-type adlet.md) *(B3)*
-- [aéon](./sous-type Aéon.md) *(B2)*
-- [agathion](./sous-type agathion.md) *(B2)*
-- [Air](./sous-type Air.md)
-- [altéré](./sous-type altéré.md)
-- [ange](./sous-type ange.md)
-- [aquatique](./sous-type aquatique.md)
-- [archon](./sous-type archon.md)
-- [asura](./sous-type asura.md) *(B3)*
-- [azata](./sous-type azata.md)
-- [béhémoth](./sous-type béhémoth.md) *(B3)*
-- [Bien](./sous-type Bien.md)
-- [Chaos](./sous-type Chaos.md)
-- [créature mécanique](./sous-type créature mécanique.md) *(B3)*
-- [daémon](./sous-type daémon.md) *(B2)*
-- [démodande](./sous-type démodande.md) *(B3)*
-- [démon](./sous-type démon.md)
-- [diable](./sous-type diable.md)
-- [div](./sous-type div.md) *(B3)*
-- [Eau](./sous-type Eau.md)
-- [élémentaire](./sous-type élémentaire.md)
-- [elfe](./sous-type elfe.md)
-- [extraplanaire](./sous-type extraplanaire.md)
-- [Feu](./sous-type Feu.md)
-- [froid](./sous-type froid.md)
-- [géant](./sous-type géant.md)
-- [gnome](./sous-type gnome.md)
-- [gobelinoïde](./sous-type gobelinoïde.md)
+- [[sous-type adlet|adlet]] *(B3)*
+- [[sous-type aéon|aéon]] *(B2)*
+- [[sous-type agathion|agathion]] *(B2)*
+- [[sous-type Air|Air]]
+- [[sous-type altéré|altéré]]
+- [[sous-type ange|ange]]
+- [[sous-type aquatique|aquatique]]
+- [[sous-type archon|archon]]
+- [[sous-type asura|asura]] *(B3)*
+- [[sous-type azata|azata]]
+- [[sous-type béhémoth|béhémoth]] *(B3)*
+- [[sous-type Bien|Bien]]
+- [[sous-type Chaos|Chaos]]
+- [[sous-type créature mécanique|créature mécanique]] *(B3)*
+- [[sous-type daémon|daémon]] *(B2)*
+- [[sous-type démodande|démodande]] *(B3)*
+- [[sous-type démon|démon]]
+- [[sous-type diable|diable]]
+- [[sous-type div|div]] *(B3)*
+- [[sous-type Eau|Eau]]
+- [[sous-type élémentaire|élémentaire]]
+- [[sous-type elfe|elfe]]
+- [[sous-type extraplanaire|extraplanaire]]
+- [[sous-type Feu|Feu]]
+- [[sous-type froid|froid]]
+- [[sous-type géant|géant]]
+- [[sous-type gnome|gnome]]
+- [[sous-type gobelinoïde|gobelinoïde]]
 
 </td><td width="15px">&nbsp;</td><td>
-- [grand ancien](./sous-type Grand Ancien.md) (B4)
-- [halfelin](./sous-type halfelin.md)
-- [homme-félin](./sous-type homme-félin.md) *(B3)*
-- [homme-rat](./sous-type homme-rat.md) *(B3)*
-- [humain](./sous-type humain.md)
-- [inévitable](./sous-type Inévitable.md) *(B2)*
-- [intangible](./sous-type intangible.md)
-- [kami](./sous-type kami.md) *(B3)*
-- [kyton](./sous-type kyton.md) *(B3)*
-- [léchi](./sous-type léchi.md) *(B3)*
-- [Loi](./sous-type Loi.md)
-- [Mal](./sous-type Mal.md)
-- [métamorphe](./sous-type métamorphe.md)
-- [nain](./sous-type nain.md)
-- [natif](./sous-type natif.md)
-- [nuée](./sous-type nuée.md)
-- [obscur](./sous-type obscur.md) *(B2)*
-- [oni](./sous-type oni.md)
-- [orque](./sous-type orque.md)
-- [protéen](./sous-type protéen.md) *(B2)*
-- [qlippoth](./sous-type qlippoth.md) *(B2)*
-- [rakshasa](./sous-type rakshasa.md) *(B3)*
-- [reptilien](./sous-type reptilien.md)
-- [sasquatch](./sous-type sasquatch.md) *(B3)*
-- [ténébreux](./sous-type Ténébreux.md) *(B2)*
-- [Terre](./sous-type Terre.md)
-- [vanara](./sous-type vanara.md) *(B3)*
-- [vishkanya](./sous-type vishkanya.md) *(B3)*
+- [[sous-type grand ancien|grand ancien]] (B4)
+- [[sous-type halfelin|halfelin]]
+- [[sous-type homme-félin|homme-félin]] *(B3)*
+- [[sous-type homme-rat|homme-rat]] *(B3)*
+- [[sous-type humain|humain]]
+- [[sous-type inévitable|inévitable]] *(B2)*
+- [[sous-type intangible|intangible]]
+- [[sous-type kami|kami]] *(B3)*
+- [[sous-type kyton|kyton]] *(B3)*
+- [[sous-type léchi|léchi]] *(B3)*
+- [[sous-type Loi|Loi]]
+- [[sous-type Mal|Mal]]
+- [[sous-type métamorphe|métamorphe]]
+- [[sous-type nain|nain]]
+- [[sous-type natif|natif]]
+- [[sous-type nuée|nuée]]
+- [[sous-type obscur|obscur]] *(B2)*
+- [[sous-type oni|oni]]
+- [[sous-type orque|orque]]
+- [[sous-type protéen|protéen]] *(B2)*
+- [[sous-type qlippoth|qlippoth]] *(B2)*
+- [[sous-type rakshasa|rakshasa]] *(B3)*
+- [[sous-type reptilien|reptilien]]
+- [[sous-type sasquatch|sasquatch]] *(B3)*
+- [[sous-type ténébreux|ténébreux]] *(B2)*
+- [[sous-type Terre|Terre]]
+- [[sous-type vanara|vanara]] *(B3)*
+- [[sous-type vishkanya|vishkanya]] *(B3)*
 
 </td></tr></table>

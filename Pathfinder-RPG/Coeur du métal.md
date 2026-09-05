@@ -12,13 +12,13 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>terre<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Occ](./Occultiste.md) 3, [Sor](./Sorcière.md) 3  
+{s:MCA}**École** [[Transmutation]] <nowiki>[[</nowiki>terre<nowiki>]]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)   
+**Temps d’incantation** 1 [[action simple]]   
 
-**Composantes** [V, G, M](./composantes.md) (un morceau d’adamantium d’une valeur de 100 po ou un morceau de fer froid ou d’argent d’une valeur de 20 po)   
+**Composantes** [[composantes|V, G, M]] (un morceau d’adamantium d’une valeur de 100 po ou un morceau de fer froid ou d’argent d’une valeur de 20 po)   
 
-**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))   
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])   
 
 **Cible** une arme par niveau   
 

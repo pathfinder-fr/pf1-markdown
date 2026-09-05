@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les attaques effectuées avec l’arme de prédilection du dieu que vénère le personnage sont divinement inspirées.*
 
-**Condition.** [Guide divin](./Guide divin.md)
+**Condition.** [[Guide divin]]
 
-**Avantage.** Lorsque le personnage attaque avec l’[arme de prédilection](./Arme de prédilection.md) de sa divinité, il peut remplacer son modificateur de [Force](./Force.md) ou de [Dextérité](./Dextérité.md) aux jets de dégâts par son modificateur de [Sagesse](./Sagesse.md).
+**Avantage.** Lorsque le personnage attaque avec l’[[arme de prédilection]] de sa divinité, il peut remplacer son modificateur de [[Force]] ou de [[Dextérité]] aux jets de dégâts par son modificateur de [[Sagesse]].

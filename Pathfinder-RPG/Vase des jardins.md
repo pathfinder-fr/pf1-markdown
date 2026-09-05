@@ -10,30 +10,30 @@ LastModified: 2013-09-13 23:09
 {s:pucem|Vase|Forêt-jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.275*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Vase](./type Vase.md) de taille P, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) 18 m (12 {s:c}) ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] de taille P, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision aveugle (capacité)|vision aveugle]] 18 m (12 {s:c}) ; [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 11 (Dex +3, taille +1)}
 {s:BDTexte|**pv** 19 (3d8+6)}
 {s:BDTexte|**Réf** +4, **Vig** +3, **Vol** -4}
-{s:BDTexte|**Capacité défensive** [traits des vases](./type Vase.md) ; **Immunité** acide}
+{s:BDTexte|**Capacité défensive** [[type Vase|traits des vases]] ; **Immunité** acide}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +3 (1d4 plus 1d8 acide)}
 {s:BDTexte|**Attaques spéciales** acide, odeur nauséabonde}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 16, **Con** 15, **Int** -, **Sag** 1, **Cha** 2}
-{s:BDTexte|**BBA** +2, **BMO** +1, **DMD** 14 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +8}
+{s:BDTexte|**BBA** +2, **BMO** +1, **DMD** 14 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Compétences** [[Escalade]] +8}
 {s:BDTexte|**Particularité** camouflage}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées, marécages et villes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou étendue (3-5)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Acide (Ext).** La vase des jardins sécrète des sucs gastriques qui rongent la chair. Les créatures faites de matériaux plus solides ou de matière végétale sont [immunisées](./Immunité (capacité).md) contre l’acide de la vase.}
-{s:BDTexte|**Camouflage (Ext).** La vase des jardins est difficile à repérer lorsqu’elle repose au milieu des plantes. Un test de [Perception](./Perception.md) de [DD](./DD.md) 15 réussi permet de remarquer que c’est une entité distincte et non une partie malade de la plante sur laquelle elle s’est installée. La vase inflige automatiquement un coup à toute créature qui s’avance dans la case qu’elle occupe sans l’avoir repérée.}
-{s:BDTexte|**Odeur nauséabonde (Ext).** Toutes les 24 heures, la vase des jardins peut libérer des gaz nauséabonds dans une zone de 1,50 mètre de [rayon](./rayon.md) centrée sur elle. La vase agit généralement ainsi après avoir été blessée une première fois. La puanteur de ces vapeurs est irrespirable pendant le premier [round](./round.md) : toutes les créatures vivantes à portée deviennent [fiévreuses](./Fiévreux.md) pour une durée de 1d3 rounds ([Vigueur](./jet de sauvegarde.md) [DD](./DD.md) 13, annule). Il s’agit d’un effet de [poison](./Poisons.md). Le DD du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Acide (Ext).** La vase des jardins sécrète des sucs gastriques qui rongent la chair. Les créatures faites de matériaux plus solides ou de matière végétale sont [[immunité (capacité)|immunisées]] contre l’acide de la vase.}
+{s:BDTexte|**Camouflage (Ext).** La vase des jardins est difficile à repérer lorsqu’elle repose au milieu des plantes. Un test de [[Perception]] de [[DD]] 15 réussi permet de remarquer que c’est une entité distincte et non une partie malade de la plante sur laquelle elle s’est installée. La vase inflige automatiquement un coup à toute créature qui s’avance dans la case qu’elle occupe sans l’avoir repérée.}
+{s:BDTexte|**Odeur nauséabonde (Ext).** Toutes les 24 heures, la vase des jardins peut libérer des gaz nauséabonds dans une zone de 1,50 mètre de [[rayon]] centrée sur elle. La vase agit généralement ainsi après avoir été blessée une première fois. La puanteur de ces vapeurs est irrespirable pendant le premier [[round]] : toutes les créatures vivantes à portée deviennent [[fiévreux|fiévreuses]] pour une durée de 1d3 rounds ([[jet de sauvegarde|Vigueur]] [[DD]] 13, annule). Il s’agit d’un effet de [[poisons|poison]]. Le DD du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 </div>
 </td><td><div>*Ce qui semblait n’être qu’une partie fibreuse malade d’une plante s’anime soudain et s’éloigne de son hôte souffreteux.*
 

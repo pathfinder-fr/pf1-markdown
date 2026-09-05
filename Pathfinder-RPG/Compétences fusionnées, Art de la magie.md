@@ -8,17 +8,17 @@ Categories:
 
 {s:MenuPathfinderunchained}{s:PU}*Le personnage connaît le fonctionnement des sorts et des objets magiques et a glané de nombreuses connaissances ayant trait à la magie. Qu’il sache lancer des sorts ou non, il peut utiliser des objets magiques même s’il ne devrait pas.*
 
-**Caractéristique associée :** [Intelligence](./Intelligence.md) ; **Formation nécessaire :** Oui ; **Malus d'armure :** Non
+**Caractéristique associée :** [[Intelligence]] ; **Formation nécessaire :** Oui ; **Malus d'armure :** Non
 
-**Fonctions.** [Activer un objet magique](./Compétences fusionnées, Art de la magie.md#ACTIVERUNOBJETMAGIQUE) (qu’il ne peut normalement pas utiliser), [apprendre et préparer un sort](./Compétences fusionnées, Art de la magie.md#APPRENDREETPREPARERUNSORT) (à partir d’un parchemin ou d’un grimoire emprunté), [créer un objet magique](./Compétences fusionnées, Art de la magie.md#CREERUNOBJETMAGIQUE), [identifier un monstre](./Compétences fusionnées, Art de la magie.md#IDENTIFIERUNMONSTRE) (créature artificielle, créature magique et dragon), [identifier un sort](./Compétences fusionnées, Art de la magie.md#IDENTIFIERUNSORT), [se remémorer des connaissances](./Compétences fusionnées, Art de la magie.md#SEREMEMORERDESCONNAISSANCES) (sur les mystères).
+**Fonctions.** [[Compétences fusionnées, Art de la magie#ACTIVERUNOBJETMAGIQUE|Activer un objet magique]] (qu’il ne peut normalement pas utiliser), [[Compétences fusionnées, Art de la magie#APPRENDREETPREPARERUNSORT|apprendre et préparer un sort]] (à partir d’un parchemin ou d’un grimoire emprunté), [[Compétences fusionnées, Art de la magie#CREERUNOBJETMAGIQUE|créer un objet magique]], [[Compétences fusionnées, Art de la magie#IDENTIFIERUNMONSTRE|identifier un monstre]] (créature artificielle, créature magique et dragon), [[Compétences fusionnées, Art de la magie#IDENTIFIERUNSORT|identifier un sort]], [[Compétences fusionnées, Art de la magie#SEREMEMORERDESCONNAISSANCES|se remémorer des connaissances]] (sur les mystères).
 
-**Compétences de base.** [Art de la magie](./Art de la magie.md), [Connaissances](./Connaissances.md) (mystères), [Utilisation d’objets magiques](./UOM.md).
+**Compétences de base.** [[Art de la magie]], [[Connaissances]] (mystères), [[UOM|Utilisation d’objets magiques]].
 
-**Magiciens spécialisés.** Les [magiciens spécialisés dans une école](./Magicien.md#ECOLEDEMAGIE) gagnent un bonus de +2 aux tests d’Art de la magie visant à identifier, apprendre ou préparer des sorts de leur école de spécialisation. Ils subissent en contrepartie un malus de -5 aux mêmes tests lorsque ceux-ci concernent des sorts des écoles opposées à celle du spécialiste.
+**Magiciens spécialisés.** Les [[Magicien#ECOLEDEMAGIE|magiciens spécialisés dans une école]] gagnent un bonus de +2 aux tests d’Art de la magie visant à identifier, apprendre ou préparer des sorts de leur école de spécialisation. Ils subissent en contrepartie un malus de -5 aux mêmes tests lorsque ceux-ci concernent des sorts des écoles opposées à celle du spécialiste.
 
 {s:Reference|ACTIVERUNOBJETMAGIQUE}
 ### Activer un objet magique
-Cette fonction de l’Art de la magie s’utilise comme la compétence de base [Utilisation d’objets magiques](./UOM.md) mais on applique l’Intelligence à la place du Charisme.
+Cette fonction de l’Art de la magie s’utilise comme la compétence de base [[UOM|Utilisation d’objets magiques]] mais on applique l’Intelligence à la place du Charisme.
 
 **Action.** Aucune.
 
@@ -35,7 +35,7 @@ Cette fonction de l’Art de la magie s’utilise comme la compétence de base [
 d’Art de la magie
 |- CLASS="premier"
 | Apprendre un sort à partir d’un  
-grimoire ou d’un [parchemin](./Parchemins magiques.md) || 15 + niveau  
+grimoire ou d’un [[Parchemins magiques|parchemin]] || 15 + niveau  
 du sort
 |-
 | Préparer un sort à partir d’un  
@@ -50,13 +50,13 @@ du sort
 
 {s:Reference|CREERUNOBJETMAGIQUE}
 ### Créer un objet magique
-Le personnage doit effectuer un test d’Art de la magie lors du processus de création d’un objet magique. Le DD varie en fonction de l’objet. Voir les règles complètes de [création d’objets magiques](./Création dobjets magiques.md).
+Le personnage doit effectuer un test d’Art de la magie lors du processus de création d’un objet magique. Le DD varie en fonction de l’objet. Voir les règles complètes de [[Création dobjets magiques|création d’objets magiques]].
 
 **Action.** Aucune.
 
 {s:Reference|IDENTIFIERUNMONSTRE}
 ### Identifier un monstre
-Le personnage peut utiliser l’Art de la magie pour identifier un monstre de type créature artificielle, créature magique et dragon. Voir l’encart [Identification des monstres](./Compétences fusionnées.md#IDENTIFIERDESMONSTRES).
+Le personnage peut utiliser l’Art de la magie pour identifier un monstre de type créature artificielle, créature magique et dragon. Voir l’encart [[Compétences fusionnées#IDENTIFIERDESMONSTRES|Identification des monstres]].
 
 {s:Reference|IDENTIFIERUNSORT}
 ### Identifier un sort
@@ -69,18 +69,18 @@ Le personnage peut utiliser l’Art de la magie pour identifier un monstre de ty
 d’Art de la magie
 |- CLASS="premier"
 | Identifier les auras magiques  
-en utilisant *[détection de la magie](./Détection de la magie.md)* || 15 + niveau  
+en utilisant *[[détection de la magie]]* || 15 + niveau  
 du sort
 |-
 | Identifier les propriétés d’un objet  
-magique en utilisant *[détection de la magie](./Détection de la magie.md)* || 15 + NLS de  
+magique en utilisant *[[détection de la magie]]* || 15 + NLS de  
 l’objet magique
 |-
 | Identifier un sort en cours d’incantation || 15 + niveau  
 du sort
 |-
-| Déchiffrer un [parchemin](./Parchemins magiques.md) sans  
-utiliser *[lecture de la magie](./Lecture de la magie.md)* || 20 + niveau  
+| Déchiffrer un [[Parchemins magiques|parchemin]] sans  
+utiliser *[[lecture de la magie]]* || 20 + niveau  
 du sort
 |-
 | Identifier un effet de sort déjà actif || 20 + niveau  
@@ -92,11 +92,11 @@ du sort
 |}
 </center></div></div>Le personnage peut identifier avec précision un sort au moment de son incantation ou en observant ses effets s’il réussit un test d’Art de la magie. Il est également capable d’identifier la nature des auras magiques et de déchiffrer un parchemin sans utiliser le sort de lecture de la magie.
 
-**Action.** Aucune dans la plupart des cas. Il faut une [action complexe](./Action complexe.md) pour déchiffrer un [parchemin](./Parchemins magiques.md) et 3 [rounds](./round.md) par tentative d’identification des propriétés d’un objet magique.
+**Action.** Aucune dans la plupart des cas. Il faut une [[action complexe]] pour déchiffrer un [[Parchemins magiques|parchemin]] et 3 [[round|rounds]] par tentative d’identification des propriétés d’un objet magique.
 
-**Nouvelles tentatives.** Le personnage peut répéter les tests visant à identifier un sort. Lorsqu’il utilise *[détection de la magie](./Détection de la magie.md)* ou *[identification](./Identification.md)* pour identifier les propriétés des objets magiques, il ne peut examiner chaque objet qu’une seule fois par jour.
+**Nouvelles tentatives.** Le personnage peut répéter les tests visant à identifier un sort. Lorsqu’il utilise *[[détection de la magie]]* ou *[[identification]]* pour identifier les propriétés des objets magiques, il ne peut examiner chaque objet qu’une seule fois par jour.
 
-**Malus associés à la Perception.** Les malus dus à la distance, à de mauvaises conditions de visibilité ou à d’autres facteurs appliqués aux tests de [Perception](./Compétences fusionnées, Perception.md) s’appliquent également aux tests d’Art de la magie effectués pour identifier un sort en cours d’incantation.
+**Malus associés à la Perception.** Les malus dus à la distance, à de mauvaises conditions de visibilité ou à d’autres facteurs appliqués aux tests de [[Compétences fusionnées, Perception|Perception]] s’appliquent également aux tests d’Art de la magie effectués pour identifier un sort en cours d’incantation.
 
 {s:Reference|SEREMEMORERDESCONNAISSANCES}
 ### Se remémorer des connaissances
@@ -116,4 +116,4 @@ matérielle spécifique || 20
 par magie || 20 + niveau  
 du sort
 |}
-</center></div></div>Le personnage peut utiliser l’Art de la magie pour se remémorer des connaissances à propos des mystères anciens, des symboles et des traditions magiques. Voir l’encart [Se remémorer des connaissances](./Compétences fusionnées.md#SEREMEMORERDESCONNAISSANCES) pour plus d’informations. Utilisez les DD de la table ci-contre pour certaines tâches.
+</center></div></div>Le personnage peut utiliser l’Art de la magie pour se remémorer des connaissances à propos des mystères anciens, des symboles et des traditions magiques. Voir l’encart [[Compétences fusionnées#SEREMEMORERDESCONNAISSANCES|Se remémorer des connaissances]] pour plus d’informations. Utilisez les DD de la table ci-contre pour certaines tâches.

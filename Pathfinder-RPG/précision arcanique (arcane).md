@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#PRECISIONARCANIQUE
 ---
 
->>> [arcanes#PRECISIONARCANIQUE](./arcanes.md#PRECISIONARCANIQUE)
+>>> [[arcanes#PRECISIONARCANIQUE]]

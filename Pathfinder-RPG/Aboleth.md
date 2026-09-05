@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Aberration|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire page 8*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille TG, LM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 cases) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille TG, LM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 cases) ; [[Perception]] +14}
 {s:BDTexte|**Aura** nuage de mucus 1,5 m (1 {s:c})}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 9, pris au dépourvu 19 (Dex +1, naturelle +11, taille -2)}
@@ -25,21 +25,21 @@ Categories:
 {s:BDTexte|**Corps à corps** 4 tentacules +10 (1d6+5 et mucus)}
 {s:BDTexte|**Espace** 4,50 m ; **Allonge** 4,50 m}
 {s:BDTexte|**Pouvoirs magiques** (NLS 16)}
-{s:BDSorts|À volonté — *[image prédéterminée](./Image prédéterminée.md)* (DD 18), *[image programmée](./Image programmée.md)* (DD 19), *[lueurs hypnotiques](./Lueurs hypnotiques.md)* (DD 15), *[mirage](./mirage.md)* (DD 18), *[mur illusoire](./Mur illusoire.md)* (DD 17), *[projection d'image](./Projection dimage.md)* (DD 20), *[voile](./Voile.md)* (DD 19)}
-{s:BDSorts|3/jour — *[domination universelle](./Domination universelle.md)* (DD 22)}
+{s:BDSorts|À volonté — *[[image prédéterminée]]* (DD 18), *[[image programmée]]* (DD 19), *[[lueurs hypnotiques]]* (DD 15), *[[mirage]]* (DD 18), *[[mur illusoire]]* (DD 17), *[[projection dimage|projection d'image]]* (DD 20), *[[voile]]* (DD 19)}
+{s:BDSorts|3/jour — *[[domination universelle]]* (DD 22)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 12, **Con** 22, **Int** 15, **Sag** 17, **Cha** 17}
 {s:BDTexte|**BBA** +6, **BMO** +13, **DMD** 24 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (tentacule), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +13, [Bluff](./Bluff.md) +11, [Connaissances](./Connaissances.md) (un domaine au choix) +13, [Intimidation](./Intimidation.md) +14, [Natation](./Natation.md) +24, [Perception](./Perception.md) +14}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (tentacule), [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +13, [[Bluff]] +11, [[Connaissances]] (un domaine au choix) +13, [[Intimidation]] +14, [[Natation]] +24, [[Perception]] +14}
 {s:BDTexte|**Langues** aboleth, aklo, aquatique, commun des profondeurs}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** milieu aquatique}
 {s:BDTexte|**Organisation sociale** solitaire, couple, nichée (3-6) ou banc (7-19)}
 {s:BDTexte|**Trésor** double}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Nuage de mucus (Ext)** Lorsqu'ils se trouvent sous l'eau, les aboleths s'entourent d'un nuage de mucus transparent. Chaque round, toutes les créatures adjacentes doivent effectuer un jet de [Vigueur](./Vigueur.md) DD 20. En cas d'échec, elles perdent leur faculté à respirer de l'air mais peuvent respirer sous l'eau pendant 3 heures. Si une créature affectée rentre à nouveau en contact avec un nuage de mucus d'aboleth et rate son [jet de sauvegarde](./jet de sauvegarde.md), la durée est prolongée de 3 heures supplémentaires. Le [DD](./DD.md) dépend de la Constitution.}
-{s:BDTexte|**Mucus (Ext)** Une créature touchée par un tentacule d'aboleth doit effectuer un jet de [Vigueur](./Vigueur.md) DD 20. En cas d'échec, sa peau et sa chair se transforment en une membrane translucide et gluante en 1d4 rounds. La nouvelle "peau" de la créature est souple et tendre ce qui réduit sa Constitution de 4 points. Si la créature ne garde pas sa "peau" suffisamment humide, celle-ci sèche rapidement et la créature subit 1d12 points de dégâts toutes les 10 minutes. Une *[guérison des maladies](./Guérison des maladies.md)* ou un effet similaire peut rendre son état normal à une créature affectée mais les créature immunisées contre la maladie ne le sont pas contre cet effet. Le DD du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la Constitution.}
+{s:BDTexte|**Nuage de mucus (Ext)** Lorsqu'ils se trouvent sous l'eau, les aboleths s'entourent d'un nuage de mucus transparent. Chaque round, toutes les créatures adjacentes doivent effectuer un jet de [[Vigueur]] DD 20. En cas d'échec, elles perdent leur faculté à respirer de l'air mais peuvent respirer sous l'eau pendant 3 heures. Si une créature affectée rentre à nouveau en contact avec un nuage de mucus d'aboleth et rate son [[jet de sauvegarde]], la durée est prolongée de 3 heures supplémentaires. Le [[DD]] dépend de la Constitution.}
+{s:BDTexte|**Mucus (Ext)** Une créature touchée par un tentacule d'aboleth doit effectuer un jet de [[Vigueur]] DD 20. En cas d'échec, sa peau et sa chair se transforment en une membrane translucide et gluante en 1d4 rounds. La nouvelle "peau" de la créature est souple et tendre ce qui réduit sa Constitution de 4 points. Si la créature ne garde pas sa "peau" suffisamment humide, celle-ci sèche rapidement et la créature subit 1d12 points de dégâts toutes les 10 minutes. Une *[[guérison des maladies]]* ou un effet similaire peut rendre son état normal à une créature affectée mais les créature immunisées contre la maladie ne le sont pas contre cet effet. Le DD du [[jet de sauvegarde]] dépend de la Constitution.}
 </div>
 </td><td><div>''Quatre tentacules garnissent les flancs de cette créature pisciforme à trois
 yeux dont le corps vert est couvert d’un mucus brillant.''

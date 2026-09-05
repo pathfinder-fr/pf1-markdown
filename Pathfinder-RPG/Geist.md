@@ -10,7 +10,7 @@ LastModified: 2017-04-06 20:48
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 116*}
 - ** 6 400 PX**
-- [Mort-vivant](./type Mort-vivant.md) ([intangible](./sous-type intangible.md)) de taille M, CM
+- [[type mort-vivant|Mort-vivant]] ([[sous-type intangible|intangible]]) de taille M, CM
 - **Init **+9 ; **Sens** vision dans le noir à 18 m ; Perception +17
 (((Défense)))
 - **CA** 20, contact 20, pris au dépourvu 15 (Dex +5, parade +5)
@@ -26,8 +26,8 @@ LastModified: 2017-04-06 20:48
 (((Statistiques)))
 - **For —,** **Dex** 20, **Con **—, **Int** 15, **Sag** 15, **Cha** 21
 - **BBA **+9 ; **BMO **+14 ; **DMD** 29
-- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Discrétion)
-- **Compétences** [Bluff](./Bluff.md) +17, [Connaissances](./Connaissances.md) (religion) +15, [Discrétion](./Discrétion.md) +26, [Intimidation](./Intimidation.md) +20, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +17, [Vol](./Vol.md) +18
+- **Dons** [[Attaque en finesse]], [[Attaque en vol]], [[Attaques réflexes]], [[Combat en aveugle]], [[Science de linitiative|Science de l’initiative]], [[Talent]] (Discrétion)
+- **Compétences** [[Bluff]] +17, [[Connaissances]] (religion) +15, [[Discrétion]] +26, [[Intimidation]] +20, [[Perception]] +17, [[Psychologie]] +17, [[Vol]] +18
 - **Langues** Abyssal, commun
 (((Écologie)))
 - **Environnement** tous (ruines ou sites hantés)

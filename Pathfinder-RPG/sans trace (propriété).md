@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Sans trace
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Sans trace](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Sans trace)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Sans trace]]

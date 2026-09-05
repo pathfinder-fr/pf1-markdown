@@ -7,4 +7,4 @@ Categories:
 RedirectTo: résistance (capacité)
 ---
 
->>> [résistance (capacité)](./Résistance (capacité).md)
+>>> [[résistance (capacité)]]

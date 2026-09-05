@@ -10,11 +10,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Invocation](./Invocation.md) ([création](./../Création.md)) <nowiki>[</nowiki>eau<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Sor](./Sorcière.md) 2  
+{s:MCA}**École** [[Invocation]] ([[création]]) <nowiki>[[</nowiki>eau<nowiki>]]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** 0 m  
 

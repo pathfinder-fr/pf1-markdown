@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#ARMEDECORPSACORPS
 ---
 
->>> [Caractéristiques des armes#ARMEDECORPSACORPS](./Caractéristiques des armes.md#ARMEDECORPSACORPS)
+>>> [[Caractéristiques des armes#ARMEDECORPSACORPS]]

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Cruelle
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Cruelle](./Descriptions individuelles des propriétés spéciales des armes.md#Cruelle)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Cruelle]]

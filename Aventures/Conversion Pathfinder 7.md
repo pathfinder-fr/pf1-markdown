@@ -4,7 +4,7 @@ Title: Conversion Pathfinder
 LastModified: 2011-03-30 14:22
 ---
 
-Les blocs descriptifs présentés ci-dessous sont également repris dans le [Compagnon de route pour Pathfinder 7](./Aides de jeu AP2.md#COMPAGNON7).
+Les blocs descriptifs présentés ci-dessous sont également repris dans le [[Aides de jeu AP2#COMPAGNON7|Compagnon de route pour Pathfinder 7]].
 
 <table class="page espace-col">
 <tr style="vertical-align:top">

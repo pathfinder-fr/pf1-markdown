@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Types dactions#RAPIDE
 ---
 
->>> [Types dactions#RAPIDE](./Types dactions.md#RAPIDE)
+>>> [[Types dactions#RAPIDE]]

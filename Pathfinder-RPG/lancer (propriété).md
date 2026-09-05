@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Lancer
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Lancer](./Descriptions individuelles des propriétés spéciales des armes.md#Lancer)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Lancer]]

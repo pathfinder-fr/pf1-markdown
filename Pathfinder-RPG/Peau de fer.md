@@ -11,6 +11,6 @@ Categories:
 
 {s:apg}*La peau du personnage est plus épaisse et plus résistante que celle d’un membre normal de sa race.*
 
-**Conditions.** [Con](./Constitution.md) 13 ; [demi-orque](./Demi-orque.md), [nain](./Nain.md) ou [orque](./Orque.md).
+**Conditions.** [[constitution|Con]] 13 ; [[demi-orque]], [[nain]] ou [[orque]].
 
 **Avantage.** Le personnage gagne un bonus d’armure naturelle de +1 grâce à sa peau particulièrement épaisse.

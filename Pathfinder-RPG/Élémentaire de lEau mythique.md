@@ -15,8 +15,8 @@ Categories:
 {s:pucem|Extérieur|Aquatique|Extraplanaire}
 {s:BDtexte|*Source : Campagnes mythiques p.194*}
 {s:BDtexte|**PX** 38 400}
-{s:BDtexte|[Extérieur](./type Extérieur.md) ([eau](./sous-type Eau.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [mythique](./sous-type mythique.md)) de taille TG, N}
-{s:BDtexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +20}
+{s:BDtexte|[[type Extérieur|Extérieur]] ([[sous-type eau|eau]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type mythique|mythique]]) de taille TG, N}
+{s:BDtexte|**Init** +6 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +20}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 30, contact 16, pris au dépourvu 22 (+6 Dex, +2 esquive, +14 naturelle, -2 taille)}
 {s:BDtexte|**pv** 202 (16d10+114)}
@@ -24,25 +24,25 @@ Categories:
 {s:BDtexte|**RD** 10/— ; **Immunités** traits des élémentaires}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 6 m, nage 27 m}
-{s:BDtexte|**Corps à corps** 4 coups, +24 (2d10+10/18-20 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDtexte|**Corps à corps** 4 coups, +24 (2d10+10/18-20 plus [[Étreinte (capacité)|étreinte]])}
 {s:BDtexte|**Espace occupé** 4,50 m ; **Allonge** 4,50 m}
-{s:BDtexte|**Attaques spéciales** [engloutissement](./Engloutissement (capacité).md) (2d10+10 dégâts contondants, CA 14, 20 pv, RD 10/—), [engloutissement rapide](./Engloutissement rapide (capacité).md), [étouffement](./Étouffement (capacité).md), extinction des feux, maîtrise de l’Eau, [pouvoir mythique](./Pouvoir mythique (capacité).md) (5/jour, [montée en puissance](./Montée en puissance (capacité).md) +1d8), vague de pression, vortex (à volonté, 3-18 m, 2d10+10 dégâts, DD 28)}
+{s:BDtexte|**Attaques spéciales** [[Engloutissement (capacité)|engloutissement]] (2d10+10 dégâts contondants, CA 14, 20 pv, RD 10/—), [[Engloutissement rapide (capacité)|engloutissement rapide]], [[Étouffement (capacité)|étouffement]], extinction des feux, maîtrise de l’Eau, [[Pouvoir mythique (capacité)|pouvoir mythique]] (5/jour, [[Montée en puissance (capacité)|montée en puissance]] +1d8), vague de pression, vortex (à volonté, 3-18 m, 2d10+10 dégâts, DD 28)}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 30, **Dex** 22, **Con** 19, **Int** 12, **Sag** 13, **Cha** 11}
-{s:BDtexte|**BBA** +16, **BMO** +28 (+30 pour la [bousculade](./bousculade.md) ou la [destruction](./destruction.md), +32 pour la [lutte](./lutte.md)), **DMD** 48 (50 contre la bousculade ou la destruction)}
-{s:BDtexte|**Dons** [Attaque en puissance](./Attaque en puissance.md)<sup>M</sup>, [Enchaînement](./Enchaînement.md), [Esquive](./Esquive.md)<sup>M</sup>, [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la destruction](./Science de la destruction.md), [Science du critique](./Science du critique.md) (coup)<sup>M</sup>, [Succession d’enchaînements](./Succession denchaînements.md)}
-{s:BDtexte|**Compétences** [Acrobaties](./Acrobaties.md) +25, [Connaissances](./Connaissances.md) (plans) +20, [Discrétion](./Discrétion.md) +17, [Évasion](./Évasion.md) +25, [Natation](./Natation.md) +37, [Perception](./Perception.md) +20, [Psychologie](./Psychologie.md) +20}
+{s:BDtexte|**BBA** +16, **BMO** +28 (+30 pour la [[bousculade]] ou la [[destruction]], +32 pour la [[lutte]]), **DMD** 48 (50 contre la bousculade ou la destruction)}
+{s:BDtexte|**Dons** [[Attaque en puissance]]<sup>M</sup>, [[Enchaînement]], [[Esquive]]<sup>M</sup>, [[Réflexes surhumains]], [[Science de la bousculade]], [[Science de la destruction]], [[Science du critique]] (coup)<sup>M</sup>, [[Succession denchaînements|Succession d’enchaînements]]}
+{s:BDtexte|**Compétences** [[Acrobaties]] +25, [[Connaissances]] (plans) +20, [[Discrétion]] +17, [[Évasion]] +25, [[Natation]] +37, [[Perception]] +20, [[Psychologie]] +20}
 {s:BDtexte|**Langues** aquatique}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** tous (Plan de l’eau)}
 {s:BDtexte|**Organisation sociale** solitaire, couple ou gang (3-8)}
 {s:BDtexte|**Trésor** aucun}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Engloutissement (Ext).** L’élémentaire peut utiliser ce pouvoir sur une créature qu’il [agrippe](./Agrippé.md). Si la créature piégée parvient à se libérer, le trou qu’elle laisse derrière elle se soigne et se referme de lui-même au début du prochain tour de l’élémentaire, ce qui lui permet de réutiliser son pouvoir d’engloutissement.}
-{s:BDtexte|**Extinction des feux (Ext).** Le contact de l’élémentaire éteint toutes les flammes non-magiques de taille G ou plus petites. La créature peut dissiper les feux magiques qu’elle touche comme le ferait une *[dissipation de la magie](./Dissipation de la magie.md)* ([NLS](./NLS.md) 16).}
-{s:BDtexte|**Maîtrise de l’Eau (Ext).** Si l’élémentaire de l’Eau et son adversaire touchent l’eau, l’élémentaire gagne un bonus de +1 aux [jets d’attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) et aux [tests de manœuvre offensive](./BMO.md) de [bousculade](./bousculade.md) et de [renversement](./renversement.md). Si lui-même ou son adversaire touche le sol, l’élémentaire subit un malus de -4 aux jets d’attaque et de dégâts et au [DMD](./DMD.md) pour résister aux tentatives de bousculade et de renversement.}
-{s:BDtexte|**Vague de pression (Sur).** L’élémentaire de l’Eau mythique peut dépenser une utilisation de [pouvoir mythique](./Pouvoir mythique (capacité).md) pour générer une explosion d’eau pressurisée de 18 mètres de rayon. Les créatures situées dans la zone doivent faire un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 22. Si elles réussissent, elles sont [fiévreuses](./Fiévreux.md) pendant 1d4 [rounds](./round.md) mais si elles échouent, elles sont [nauséeuses](./Nauséeux.md) pendant 1d4 rounds puis fiévreuses pendant 1d4 rounds. Si l’élémentaire dépense deux utilisations de pouvoir mythique, les créatures rendues nauséeuses à cause de ce pouvoir reçoivent également des dégâts de coup. Les créatures de sous-type [aquatique](./sous-type aquatique.md) ou [eau](./sous-type Eau.md) sont immunisées contre ce pouvoir. Le DD du jet de sauvegarde est basé sur la Constitution.}
-{s:BDtexte|**Vortex (Sur).** L’élémentaire de l’Eau peut générer à volonté un tourbillon par une [action simple](./Action simple.md) (comme un [tourbillon](./Tourbillon (capacité).md) mais uniquement sous l’eau et ne pouvant pas quitter l’eau).}
+{s:BDtexte|**Engloutissement (Ext).** L’élémentaire peut utiliser ce pouvoir sur une créature qu’il [[agrippé|agrippe]]. Si la créature piégée parvient à se libérer, le trou qu’elle laisse derrière elle se soigne et se referme de lui-même au début du prochain tour de l’élémentaire, ce qui lui permet de réutiliser son pouvoir d’engloutissement.}
+{s:BDtexte|**Extinction des feux (Ext).** Le contact de l’élémentaire éteint toutes les flammes non-magiques de taille G ou plus petites. La créature peut dissiper les feux magiques qu’elle touche comme le ferait une *[[dissipation de la magie]]* ([[NLS]] 16).}
+{s:BDtexte|**Maîtrise de l’Eau (Ext).** Si l’élémentaire de l’Eau et son adversaire touchent l’eau, l’élémentaire gagne un bonus de +1 aux [[jet dattaque|jets d’attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] et aux [[BMO|tests de manœuvre offensive]] de [[bousculade]] et de [[renversement]]. Si lui-même ou son adversaire touche le sol, l’élémentaire subit un malus de -4 aux jets d’attaque et de dégâts et au [[DMD]] pour résister aux tentatives de bousculade et de renversement.}
+{s:BDtexte|**Vague de pression (Sur).** L’élémentaire de l’Eau mythique peut dépenser une utilisation de [[Pouvoir mythique (capacité)|pouvoir mythique]] pour générer une explosion d’eau pressurisée de 18 mètres de rayon. Les créatures situées dans la zone doivent faire un jet de [[Vigueur]] [[DD]] 22. Si elles réussissent, elles sont [[fiévreux|fiévreuses]] pendant 1d4 [[round|rounds]] mais si elles échouent, elles sont [[nauséeux|nauséeuses]] pendant 1d4 rounds puis fiévreuses pendant 1d4 rounds. Si l’élémentaire dépense deux utilisations de pouvoir mythique, les créatures rendues nauséeuses à cause de ce pouvoir reçoivent également des dégâts de coup. Les créatures de sous-type [[sous-type Aquatique|aquatique]] ou [[sous-type Eau|eau]] sont immunisées contre ce pouvoir. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDtexte|**Vortex (Sur).** L’élémentaire de l’Eau peut générer à volonté un tourbillon par une [[action simple]] (comme un [[Tourbillon (capacité)|tourbillon]] mais uniquement sous l’eau et ne pouvant pas quitter l’eau).}
 </div>
 </td>
 <td>

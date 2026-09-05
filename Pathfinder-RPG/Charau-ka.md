@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Humanoïde|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : La mer Intérieure p.309*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) (charau-ka) de taille P, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md), [odorat](./Odorat (capacité).md) ;}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (charau-ka) de taille P, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]], [[Odorat (capacité)|odorat]] ;}
 Perception +2
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 13 (+1 Dex, +2 naturelle, +1 taille)}
@@ -28,8 +28,8 @@ Perception +2
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 13, **Con** 14, **Int** 8, **Sag** 12, **Cha** 11}
 {s:BDTexte|**BBA** +2 ; **BMO** +3 ; **DMD** 14}
-{s:BDTexte|**Dons** [Lancer improvisé](./Lancer improvisé.md)B, [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md),}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Escalade](./Escalade.md) +14, [Perception](./Perception.md) +2, [Vol](./Vol.md) +0,}
+{s:BDTexte|**Dons** [[Lancer improvisé]]B, [[Tir à bout portant]], [[Tir de précision]],}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Escalade]] +14, [[Perception]] +2, [[Vol]] +0,}
 Modificateurs raciaux +4 en Discrétion
 {s:BDTexte|**Langues** abyssal, polyglotte}
 {s:BDSousTitre|Écologie}
@@ -37,8 +37,8 @@ Modificateurs raciaux +4 en Discrétion
 {s:BDTexte|**Organisation** solitaire, couple, patrouille (3-8) ou tribu (9-20 plus 1-3 gorilles sanguinaires, 1-3 guerriers sous-chef de niveau 2, 1 prêtre d’Angazhan de niveau 3-5, et un chef de n’importe quelle classe de niveau 4-8)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Hurlements frénétiques (Sur).** Une fois par jour, un charau-ka peut entrer dans un état de furie hurlante par une [action libre](./Action libre.md). Quand il est dans cet état, le charau-ka rate automatiquement ses tests de [Discrétion](./Discrétion.md) et ne peut plus parler ni lancer de sorts à composante verbale (ni se servir d’un objet qui nécessite un mot de commande) mais il se retrouve sous l’effet d’un sort de *[rapidité](./Rapidité.md)*. Le charau-ka continue de hurler jusqu’à 3 [rounds](./round.md), après quoi, il est [chancelant](./Chancelant.md) pendant 1 [round](./round.md).}
-{s:BDTexte|**Maîtrise des armes de jet (Ext).** Les charau-ka sont maîtres des armes de jet. Ils disposent tous du [Lancer improvisé](./Lancer improvisé.md) comme don bonus. Tous les charau-ka gagnent un bonus racial de +1 avec les armes de jet et leur zone de critique possible est doublée, comme s’ils disposaient du don [Science du critique](./Science du critique.md) pour toutes les armes de jet. Cet effet ne se cumule pas avec tout autre effet qui augmente la zone de critique possible d’une arme.}
+{s:BDTexte|**Hurlements frénétiques (Sur).** Une fois par jour, un charau-ka peut entrer dans un état de furie hurlante par une [[action libre]]. Quand il est dans cet état, le charau-ka rate automatiquement ses tests de [[Discrétion]] et ne peut plus parler ni lancer de sorts à composante verbale (ni se servir d’un objet qui nécessite un mot de commande) mais il se retrouve sous l’effet d’un sort de *[[rapidité]]*. Le charau-ka continue de hurler jusqu’à 3 [[round|rounds]], après quoi, il est [[chancelant]] pendant 1 [[round]].}
+{s:BDTexte|**Maîtrise des armes de jet (Ext).** Les charau-ka sont maîtres des armes de jet. Ils disposent tous du [[Lancer improvisé]] comme don bonus. Tous les charau-ka gagnent un bonus racial de +1 avec les armes de jet et leur zone de critique possible est doublée, comme s’ils disposaient du don [[Science du critique]] pour toutes les armes de jet. Cet effet ne se cumule pas avec tout autre effet qui augmente la zone de critique possible d’une arme.}
 </div></td>
 <td><div>*Cette créature, agile et hurlante, a le visage d’un singe enragé mais marche debout, comme un homme.*
 

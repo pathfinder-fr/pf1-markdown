@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Compagnons animaux
 ---
 
->>> [Pathfinder-RPG.Compagnons animaux](./Compagnons animaux.md)
+>>> [[Pathfinder-RPG.Compagnons animaux]]

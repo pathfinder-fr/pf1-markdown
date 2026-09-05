@@ -15,20 +15,20 @@ Categories:
 ---
 
 {s:UM}
-**École** [transmutation](./Transmutation.md) <nowiki>[</nowiki>[eau](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 4, [Dru](./Druide.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Prê](./Prêtre.md) 4, [San](./Sanguin.md) 4, [Sor](./Sorcière.md) 4  
+**École** [[transmutation]] <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 1 heure/[niveau](./niveau.md) (T)  
+**Durée** 1 heure/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE)
-([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
-([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]
+([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
+([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-La cible est capable de respirer sous l’eau et gagne une vitesse de nage de 9 mètres. Cette vitesse de nage lui permet aussi d’obtenir un bonus de +8 aux tests de [Natation](./Natation.md) et de [faire 10](./faire 10.md) à ces mêmes tests même si elle est distraite ou en danger. La cible peut faire une action de [course](./Course.md) en nageant, tant qu’elle se déplace en ligne droite. Ce sort n’empêche pas la cible de respirer à l’air libre.
+La cible est capable de respirer sous l’eau et gagne une vitesse de nage de 9 mètres. Cette vitesse de nage lui permet aussi d’obtenir un bonus de +8 aux tests de [[Natation]] et de [[faire 10]] à ces mêmes tests même si elle est distraite ou en danger. La cible peut faire une action de [[course]] en nageant, tant qu’elle se déplace en ligne droite. Ce sort n’empêche pas la cible de respirer à l’air libre.

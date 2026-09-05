@@ -28,8 +28,8 @@ divPageAffichee.innerHTML = await contenu.text();
 };
 function ordrePrefixeNum (str1, str2) {
 const regPrefixe = /^\d*/;
-const pref1 = str1.match(regPrefixe)[0];
-const pref2 = str2.match(regPrefixe)[0];
+const pref1 = str1.match(regPrefixe)[[0]];
+const pref2 = str2.match(regPrefixe)[[0]];
 if (pref1 != "" && pref2 != "") return Number(pref1) - Number(pref2);
 return str1.localeCompare(str2);
 }

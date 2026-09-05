@@ -14,27 +14,27 @@ Categories:
 {s:pucem|Créature artificielle|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 203*}
 - **3 200 PX**
-- [Créature artificielle](./type Créature artificielle.md) de taille M, N (mais voir ci-dessous)
+- [[type créature artificielle|Créature artificielle]] de taille M, N (mais voir ci-dessous)
 - **Init **+7 ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +10
 (((Défense)))
 - **CA** 19, contact 13, pris au dépourvu 16 (Dex +3, naturelle +6)
 - **pv** 85 (10d10+30)
 - **Réf **+6, **Vig **+3, **Vol **+3
-- **RD** 5/magie ; **Immunités** [traits des créatures artificielles](./Traits des créatures artificielles.md)
+- **RD** 5/magie ; **Immunités** [[traits des créatures artificielles]]
 - **Faiblesses** sensible aux effets mentaux
 (((Attaque)))
 - **VD** 9 m
 - **Corps à corps** 2 griffes, +15 (1d8+4 et étreinte)
 - **Attaques spéciales** constriction (1d8+4)
 - **Pouvoirs magiques** (**NLS** 10 ; concentration +9)
-  - À volonté – *[détection du poison](./Détection du poison.md), [lumière](./Lumière.md), [manipulation à distance](./Manipulation à distance.md), [ouverture/fermeture](./Ouverturefermeture.md), [prestidigitation](./Prestidigitation.md)*
-  - 3/jour – *[alarme](./Alarme.md), [feuille morte](./Feuille morte.md), [verrouillage](./Verrouillage.md)*
-  - 1/jour – *[déguisement](./Déguisement.md)*(voir ci-dessous), lévitation, un pouvoir magique supplémentaire en fonction de l’alignement (voir ci-dessous)
+  - À volonté – *[[détection du poison]], [[lumière]], [[manipulation à distance]], [[ouverturefermeture|ouverture/fermeture]], [[prestidigitation]]*
+  - 3/jour – *[[alarme]], [[feuille morte]], [[verrouillage]]*
+  - 1/jour – *[[déguisement]]*(voir ci-dessous), lévitation, un pouvoir magique supplémentaire en fonction de l’alignement (voir ci-dessous)
 (((Statistiques)))
 - **For** 18, **Dex** 16, **Con **-, **Int** 11, **Sag** 10, **Cha** 9
 - **BBA **+10 ; **BMO **+14 (+18 en lutte) ; **DMD** 27
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Lancer improvisé](./Lancer improvisé.md), Maîtrise d’une arme de guerre (une au choix), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +10
+- **Dons** [[Arme de prédilection]] (griffe), [[Lancer improvisé]], Maîtrise d’une arme de guerre (une au choix), [[Robustesse]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Intimidation]] +9, [[Perception]] +10
 - **Langues** commun
 - **Particularités** variation basée sur l’alignement, focaliseur d’âme
 (((Écologie)))
@@ -45,11 +45,11 @@ Categories:
 - **Déguisement (Mag).** Un pantin des âmes peut uniquement se déguiser en la personne à qui appartenait l’âme liée à sa création. L’âge imité tourne approximativement autour de celui que la personne avait lorsque son âme a été utilisée pour créer le pantin (ce pouvoir lui permet de prendre l’apparence d’une créature d’un autre type que le sien). 
 - **Focaliseur d’âme (Sur).** L’âme intégrée au pantin vit à l’intérieur d’un focaliseur fixé à l’intérieur de la créature ou dans ses atours, le plus souvent dans un masque sculpté. Tant que ce focaliseur d’âme demeure intact, il peut servir à animer un autre pantin, au même coût que celui indiqué pour créer un nouveau pantin des âmes. Le nouveau pantin conserve sa personnalité et ses souvenirs. Un focaliseur d’âmes possède une solidité de 8, 12 points de résistance et un DD pour le briser de 20. 
 - **Variation basée sur l’alignement (Ext).** Les pantins des âmes ont au moins une composante d’alignement Neutre, mais ils peuvent être également Chaotiques, Mauvais, Bons ou Loyaux. Ils disposent d’un pouvoir spécial déterminé par leur alignement et utilisable une fois par jour. Voici la liste de ces pouvoirs :
-  - • Chaotique Neutre : *[confusion](./Confusion.md)* (DD 13)
-  - • Loyal Neutre : *[terreur](./Terreur.md)* (DD 13)
-  - • Neutre : *[immobilisation de monstre](./Immobilisation de monstre.md)* (DD 13)
-  - • Neutre Mauvais : *[énergie négative](./Énergie négative.md)*
-  - • Neutre Bon : *[invisibilité suprême](./Invisibilité suprême.md)*
+  - • Chaotique Neutre : *[[confusion]]* (DD 13)
+  - • Loyal Neutre : *[[terreur]]* (DD 13)
+  - • Neutre : *[[immobilisation de monstre]]* (DD 13)
+  - • Neutre Mauvais : *[[énergie négative]]*
+  - • Neutre Bon : *[[invisibilité suprême]]*
 - **Vulnérable aux effets mentaux (Ext)**. À la différence de la plupart des créatures artificielles, un pantin des âmes n’est pas immunisé aux effets mentaux.
 
 
@@ -57,7 +57,7 @@ Categories:
 </td><td><div>
 *Cette étrange créature artificielle a l’aspect d’un humanoïde de bois et de porcelaine au visage masqué.*
 
-Un pantin des âmes est une [poupée des âmes](./Poupée des âmes.md) améliorée de taille humaine. Le procédé appliqué pour intégrer l’âme est suffisamment sophistiqué pour préserver l’intégrité ou presque de sa personnalité d’origine. La plupart des pantins sont construits pour permettre à un loyal serviteur de rester au service d’une famille prestigieuse ou pour qu’un être cher reste aux côtés des vivants, quoi que de façon limitée. À cause de l’absence d’expression des traits du pantin et du manque de modulation dans sa voix, le pantin porte sur lui plusieurs masques qu’il utilise pour exprimer différentes émotions. Les pantins des âmes servent souvent de garde du corps, de compagnon, de serviteur, de sentinelle ou même d’amant aux côtés de leur créateur.
+Un pantin des âmes est une [[poupée des âmes]] améliorée de taille humaine. Le procédé appliqué pour intégrer l’âme est suffisamment sophistiqué pour préserver l’intégrité ou presque de sa personnalité d’origine. La plupart des pantins sont construits pour permettre à un loyal serviteur de rester au service d’une famille prestigieuse ou pour qu’un être cher reste aux côtés des vivants, quoi que de façon limitée. À cause de l’absence d’expression des traits du pantin et du manque de modulation dans sa voix, le pantin porte sur lui plusieurs masques qu’il utilise pour exprimer différentes émotions. Les pantins des âmes servent souvent de garde du corps, de compagnon, de serviteur, de sentinelle ou même d’amant aux côtés de leur créateur.
 
 
 ### Construction
@@ -65,5 +65,5 @@ On fabrique un pantin des âmes avec du bois ou de la porcelaine auquel on ajout
 
 
 **NLS** 7 ; **Prix** 16 500 po{br}
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[déguisement](./Déguisement.md), [simulacre de vie](./Simulacre de vie.md), [mission](./Mission.md), [possession](./Possession.md), [création mineure](./Création mineure.md)*, l’âme d’une créature vivante qui meurt ou est exécutée pendant le processus de création ; **Compétence** [Artisanat](./Artisanat.md) (sculpture) ; **Coût** 8 500 po
+**Conditions** [[Création de créatures artificielles]], *[[déguisement]], [[simulacre de vie]], [[mission]], [[possession]], [[création mineure]]*, l’âme d’une créature vivante qui meurt ou est exécutée pendant le processus de création ; **Compétence** [[Artisanat]] (sculpture) ; **Coût** 8 500 po
 </div></td></tr></table>

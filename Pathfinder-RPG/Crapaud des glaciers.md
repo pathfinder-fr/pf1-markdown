@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Créature magique|Collines|Froid}
 {s:BDTexte|*Source : Bestiaire 2, p.69*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([froid](./sous-type froid.md)) de taille G, N}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type froid|froid]]) de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +11}
 {s:BDTexte|**Aura** de froid glacial (6 m)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 10, pris au dépourvu 18 (Dex +1, naturelle +9, taille –1)}
@@ -28,8 +28,8 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 23, **Dex** 13, **Con** 20, **Int** 5, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +7, **BMO** +14 (+18 lutte), **DMD** 25 (29 contre croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Réflexes surhumains](./Réflexes surhumains.md), [Talent](./Talent.md) (Perception)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +9 (+13 pour sauter), [Discrétion](./Discrétion.md) +6 (+14 dans la neige), [Natation](./Natation.md) +14, [Perception](./Perception.md) +11 ;  **Modificateurs raciaux** +4 en Acrobaties (+8 pour sauter), +4 en Discrétion (+12 dans la neige)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Réflexes surhumains]], [[Talent]] (Perception)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +9 (+13 pour sauter), [[Discrétion]] +6 (+14 dans la neige), [[Natation]] +14, [[Perception]] +11 ;  **Modificateurs raciaux** +4 en Acrobaties (+8 pour sauter), +4 en Discrétion (+12 dans la neige)}
 {s:BDTexte|**Langues** aklo}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines froides ou glaciers}
@@ -44,11 +44,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Crapaud](./Crapaud.md) || 1/8
+| Familier, [[Crapaud]] || 1/8
 |-
-| [Crapaud des glaciers](./Crapaud des glaciers.md) || 6
+| [[Crapaud des glaciers]] || 6
 |-
-| [Crapaud géant](./Crapaud géant.md) || 2
+| [[Crapaud géant]] || 2
 |}
 </div>*Ce crapaud de taille étonnante a une peau bleu pâle et son corps est couvert d’excroissances acérées et gelées.*
 

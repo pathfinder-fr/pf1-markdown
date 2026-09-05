@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde|Plaines|Tropical}
 {s:BDTexte|*Source : Bestiaire p.161*, Codex monstrueux p.66}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gnoll](./sous-type-gnoll.md)) de taille M, CM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gnoll|gnoll]]) de taille M, CM}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 10, pris au dépourvu 15 (armure +2, bouclier +2, naturelle +1)}
 {s:BDTexte|**pv** 11 (2d8+2)}
@@ -27,12 +27,12 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 10, **Con** 13, **Int** 8, **Sag** 11, **Cha** 8}
 {s:BDTexte|**BBA** +1, **BMO** +3, **DMD** 13}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +2}
+{s:BDTexte|**Dons** [[Attaque en puissance]]}
+{s:BDTexte|**Compétences** [[Perception]] +2}
 {s:BDTexte|**Langues** gnoll}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines et déserts chauds}
-{s:BDTexte|**Organisation sociale** solitaire, couple, groupe de chasse (2-5 gnolls et 1-2 [hyènes](./Hyène.md)), clan (10-100 adultes plus 50% d'enfants non combattants, 1 sergent de niveau 3 par 20 adultes, 1 chef de niveau 4-6 et 5-8 [hyènes](./Hyène.md)) ou tribu (20-200 et 1 sergent de niveau 3 par 20 adultes, 1 ou 2 lieutenants de niveau 4 ou 5, 1 chef de niveau 6-8, 7-12 [hyènes](./Hyène.md) et 4-7 [hyaenodons](./Hyène sanguinaire.md))}
+{s:BDTexte|**Organisation sociale** solitaire, couple, groupe de chasse (2-5 gnolls et 1-2 [[hyène|hyènes]]), clan (10-100 adultes plus 50% d'enfants non combattants, 1 sergent de niveau 3 par 20 adultes, 1 chef de niveau 4-6 et 5-8 [[hyène|hyènes]]) ou tribu (20-200 et 1 sergent de niveau 3 par 20 adultes, 1 ou 2 lieutenants de niveau 4 ou 5, 1 chef de niveau 6-8, 7-12 [[hyène|hyènes]] et 4-7 [[hyène sanguinaire|hyaenodons]])}
 {s:BDTexte|**Trésor** équipement de PNJ (arc long avec 20 flèches, armure de cuir, écu de bois, hache d'armes, autres trésors)}
 </div>
 
@@ -44,29 +44,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Gnoll](./Gnoll.md) || 1
+| [[Gnoll]] || 1
 |-
-| [Flind](./Flind.md) || 3
+| [[Flind]] || 3
 |-
-| [Cogneur gnoll](./Cogneur gnoll.md) || 3
+| [[Cogneur gnoll]] || 3
 |-
-| [Enragé-né gnoll](./Enragé-né gnoll.md) || 3
+| [[Enragé-né gnoll]] || 3
 |-
-| [Sergent gnoll](./Sergent gnoll.md) || 4
+| [[Sergent gnoll]] || 4
 |-
-| [OEil de Lamashtu](./OEil de Lamashtu.md) || 5
+| [[OEil de Lamashtu]] || 5
 |-
-| [Lieutenant gnoll](./Lieutenant gnoll.md) || 6
+| [[Lieutenant gnoll]] || 6
 |-
-| [Chef de meute gnoll](./Chef de meute gnoll.md) || 9
+| [[Chef de meute gnoll]] || 9
 |-
-| [Gardien gnoll](./Gardien gnoll.md) || 10
+| [[Gardien gnoll]] || 10
 |-
-| [Saccageur gnoll](./Saccageur gnoll.md) || 11
+| [[Saccageur gnoll]] || 11
 |-
-| [Élue de Lamashtu](./Élue de Lamashtu.md) || 12
+| [[Élue de Lamashtu]] || 12
 |-
-| [Buda gnoll](./Buda gnoll.md) || 13
+| [[Buda gnoll]] || 13
 |-
 |}
 </div>*Cet humanoïde primitif recouvert de fourrure possède une tête de hyène, se tient légèrement voûté et dépasse de peu la taille d’un humain.*
@@ -95,7 +95,7 @@ Une créature qui ne fait pas partie de la meute n’est qu’un repas sur patte
 
 On a longtemps cru que les gnolls étaient un fléau endémique des savanes et des déserts mais, bien que la plupart de ces créatures préfèrent vivre sous le même climat que les hyènes, elles chassent partout. La survie et la cohésion de la meute reposent sur la chasse, ainsi, si le groupe devient trop nombreux, il se scinde. Le groupe le plus fort chasse l’autre hors de son territoire, généralement vers une région abritant une écologie et des proies différentes. On trouve beaucoup de gnolls dans les régions arides mais des meutes plus petites et plus désespérées vivent dans les hautes terres, les plaines, les forêts, la taïga et même en Ombreterre.
 
-Les gnolls ont un régime strictement carnivore, au point qu’ils se rabattent sur le cannibalisme en période de disette, lors de rituels religieux ou pour montrer leur domination une fois leur rival vaincu. Cependant, ils se procurent la majeure partie de leur viande en chassant. Ils se nourrissent de tous types de viande mais montrent une préférence certaine pour la chair des créatures intelligentes. Cette préférence présente un côté pratique (les créatures intelligentes représentant une menace pour la stabilité et la survie de la meute) et un côté superstitieux, les gnolls croyant qu’ils absorbent la puissance des êtres qu’ils dévorent. Ceci dit, un tabou les empêche de manger la chair des [pugwampis](./Pugwampi.md). La plupart des gnolls méprisent tant ces fées serviles qu’ils sont persuadés qu’ils seront affaiblis s’ils mangent leur chair et que toute leur meute sera maudite. Mieux vaut donc les tuer, tisser leur peau en tresses de pugwampi (ce qui a au moins le mérite de servir à quelque chose) et laisser leur viande pourrir.
+Les gnolls ont un régime strictement carnivore, au point qu’ils se rabattent sur le cannibalisme en période de disette, lors de rituels religieux ou pour montrer leur domination une fois leur rival vaincu. Cependant, ils se procurent la majeure partie de leur viande en chassant. Ils se nourrissent de tous types de viande mais montrent une préférence certaine pour la chair des créatures intelligentes. Cette préférence présente un côté pratique (les créatures intelligentes représentant une menace pour la stabilité et la survie de la meute) et un côté superstitieux, les gnolls croyant qu’ils absorbent la puissance des êtres qu’ils dévorent. Ceci dit, un tabou les empêche de manger la chair des [[pugwampi|pugwampis]]. La plupart des gnolls méprisent tant ces fées serviles qu’ils sont persuadés qu’ils seront affaiblis s’ils mangent leur chair et que toute leur meute sera maudite. Mieux vaut donc les tuer, tisser leur peau en tresses de pugwampi (ce qui a au moins le mérite de servir à quelque chose) et laisser leur viande pourrir.
 
 Les meutes de gnolls fonctionnent selon un système matriarcal car les femelles sont généralement plus grandes, plus agressives et plus rusées que les mâles. Les gnolls considèrent ce déséquilibre comme la preuve des faveurs de Lamashtu à l’égard de leur race. En dehors de la taille, il y a peu de différences physiques entre les mâles et les femelles. En général, un mâle mesure 1,80 mètre alors que la femelle est plus proche des 2 mètres mais les deux semblent plus petits à cause de leur posture courbée. La meute de gnolls est une structure sur plusieurs niveaux basée sur la compétition pour le statut de dominant, l’individu alpha (en général la femelle la plus imposante et la plus puissante) occupant le sommet de la hiérarchie. Il arrive que plusieurs meutes se rassemblent pour former une structure encore plus complexe, avec une hiérarchie mouvante, afin de créer une tribu ou une horde. Cela se produit seulement sous la direction d’un chef extrêmement puissant, que ce soit un gnoll alpha ou un étranger tyrannique capable de comprendre et de manipuler les courants mouvants de la domination au sein des meutes.
 
@@ -118,35 +118,35 @@ Voici quelques dons accessibles aux gnolls, certains améliorant leurs tactiques
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Mâchoires claquantes](./Mâchoires claquantes.md)* || <sup>CM</sup> || [BBA](./BBA.md) +1, [gnoll](./Gnoll.md) || Utilise la morsure comme une attaque naturelle
+| [[Mâchoires claquantes]]* || <sup>CM</sup> || [[BBA]] +1, [[gnoll]] || Utilise la morsure comme une attaque naturelle
 
 |- CLASS="premier"
-| [Partenaire de désarmement](./Partenaire de désarmement.md)* || <sup>CM</sup> || [BBA](./BBA.md) +1 || Tente une manoeuvre de désarmement lorsqu'un allié en rate une
+| [[Partenaire de désarmement]]* || <sup>CM</sup> || [[BBA]] +1 || Tente une manoeuvre de désarmement lorsqu'un allié en rate une
 |-
-| &emsp;[Science du partenaire de désarmement](./Science du partenaire de désarmement.md) || <sup>CM</sup> || [Partenaire de désarmement](./Partenaire de désarmement.md), [BBA](./BBA.md) +5 || Fait des attaques d'opportunité et des manoeuvres de désarmement lorsqu'un allié rate une tentative de désarmement
+| &emsp;[[Science du partenaire de désarmement]] || <sup>CM</sup> || [[Partenaire de désarmement]], [[BBA]] +5 || Fait des attaques d'opportunité et des manoeuvres de désarmement lorsqu'un allié rate une tentative de désarmement
 
 |- CLASS="premier"
-| [Repositionnement coordonné](./Repositionnement coordonné.md)* || <sup>CM</sup> || [S'avancer](./Savancer.md) || Pas de placement gratuit quand les alliés en font
+| [[Repositionnement coordonné]]* || <sup>CM</sup> || [[Savancer|S'avancer]] || Pas de placement gratuit quand les alliés en font
 
 |- CLASS="premier"
-| [Tenaille mordeuse](./Tenaille mordeuse.md)* || <sup>CM</sup> || [BBA](./BBA.md) +9, attaque de morsure || Attaque de morsure rapide en prenant un adversaire en tenaille
+| [[Tenaille mordeuse]]* || <sup>CM</sup> || [[BBA]] +9, attaque de morsure || Attaque de morsure rapide en prenant un adversaire en tenaille
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes
 Voici quelques archétypes très répandus chez les gnolls.
-- [Buda (sorcière)](./Buda (sorcière).md)
-- [Enragé de la meute (barbare)](./Enragé de la meute (barbare).md)
+- [[Buda (sorcière)]]
+- [[Enragé de la meute (barbare)]]
 
 #### Équipement
-L’arme suivante est très appréciée des [flinds](./Flind.md) mais d’autres gnolls apprennent parfois à s’en servir.
-- [Bâton de flind](./bâton de flind (arme).md)
+L’arme suivante est très appréciée des [[Flind|flinds]] mais d’autres gnolls apprennent parfois à s’en servir.
+- [[bâton de flind (arme)|Bâton de flind]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Objets magiques
 Ces objets magiques sont spécifiques aux demi-elfes :
-- [Anneau de nez du chasseur](./Anneau de nez du chasseur.md)
-- [Cheich de hyène](./Cheich de hyène.md)
-- [Tresse de pugwampi](./Tresse de pugwampi.md)
+- [[Anneau de nez du chasseur]]
+- [[Cheich de hyène]]
+- [[Tresse de pugwampi]]
 
 </div></div>

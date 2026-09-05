@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Créature magique|marais|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.266}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille TP, N}
-{s:BDTexte|**Init** +4 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille TP, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 16, pris au dépourvu 12 (Dex +4, taille +2)}
 {s:BDTexte|**pv** 5 (1d10)}
@@ -27,17 +27,17 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 19, **Con** 10, **Int** 1, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +1, **BMO** +3 (+11 lutte une fois fixée), **DMD** 9 (17 contre les crocs-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +16, [Vol](./Vol.md) +8}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +16, [[Vol]] +8}
 {s:BDTexte|**Particularités** porteur de maladies}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais tempérés ou chauds}
 {s:BDTexte|**Organisation sociale** solitaire, colonie (2-4), vol (5-8), essaim (9-14) ou nuée (15-40)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|capacités spéciales}
-{s:BDTexte|**Absorption de sang (Ext)** A la fin de son tour, si la strige est attachée à un ennemi, elle suce son sang et lui inflige un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1 point de [Constitution](./Constitution.md). Une fois qu'elle a absorbé 4 points de Constitution, elle se détache et s'éloigne pour digérer son repas. Si la victime meurt avant que la strige ne soit rassasiée, elle se détache et cherche une nouvelle cible.}
-{s:BDTexte|**Fixation (Ext)** Lorsqu'une strige réussit une [attaque de contact](./attaque de contact.md), elle accroche ses pattes munies de piques à sa cible et se maintient en place (dans les faits, la strige est agrippée à sa victime). La strige perd son bonus de [dextérité](./Dextérité.md) à la CA (ce qui lui donne une CA de 12) mais elle s'accroche fermement et insère sa trompe dans la chair de sa victime. Elle bénéficie d'un bonus racial de +8 pour maintenir sa prise sur un ennemi auquel elle s'est attachée. On peut attaquer directement une strige ou tenter de l'agripper. Si la victime de la strige réussit un test de [lutte](./lutte.md) ou d'[Évasion](./Évasion.md) contre la strige, elle parvient à la détacher.}
-{s:BDTexte|**Porteur de maladies (Ext)** Les striges vivent dans les marais fétides et entrent en contact avec le sang de nombreuses créatures, deux raisons qui font d'elles des porteurs de maladies. Chaque créature victime d'une absorption de sang effectuée par une strige a 10% de chances d'être exposée à la fièvre des marais, le mal aveuglant ou une autre maladie similaire (voir [ici](./Maladies.md)). La victime effectue un test par strige, mais si d'autres striges l'attaquent, elle doit réaliser d'autres tests et peut éventuellement être affectée par plusieurs maladies.}
+{s:BDTexte|**Absorption de sang (Ext)** A la fin de son tour, si la strige est attachée à un ennemi, elle suce son sang et lui inflige un [[affaiblissement temporaire]] de 1 point de [[Constitution]]. Une fois qu'elle a absorbé 4 points de Constitution, elle se détache et s'éloigne pour digérer son repas. Si la victime meurt avant que la strige ne soit rassasiée, elle se détache et cherche une nouvelle cible.}
+{s:BDTexte|**Fixation (Ext)** Lorsqu'une strige réussit une [[attaque de contact]], elle accroche ses pattes munies de piques à sa cible et se maintient en place (dans les faits, la strige est agrippée à sa victime). La strige perd son bonus de [[dextérité]] à la CA (ce qui lui donne une CA de 12) mais elle s'accroche fermement et insère sa trompe dans la chair de sa victime. Elle bénéficie d'un bonus racial de +8 pour maintenir sa prise sur un ennemi auquel elle s'est attachée. On peut attaquer directement une strige ou tenter de l'agripper. Si la victime de la strige réussit un test de [[lutte]] ou d'[[Évasion]] contre la strige, elle parvient à la détacher.}
+{s:BDTexte|**Porteur de maladies (Ext)** Les striges vivent dans les marais fétides et entrent en contact avec le sang de nombreuses créatures, deux raisons qui font d'elles des porteurs de maladies. Chaque créature victime d'une absorption de sang effectuée par une strige a 10% de chances d'être exposée à la fièvre des marais, le mal aveuglant ou une autre maladie similaire (voir [[maladies|ici]]). La victime effectue un test par strige, mais si d'autres striges l'attaquent, elle doit réaliser d'autres tests et peut éventuellement être affectée par plusieurs maladies.}
 </div>
 </td><td><div>''Cette créature insectoïde possède deux paires d’ailes, plusieurs jambes très
 fines et une trompe aussi effilée qu’une aiguille.''

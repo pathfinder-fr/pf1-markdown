@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#SAUTENRAGE
 ---
 
->>> [pouvoirs de rage#SAUTENRAGE](./Pouvoirs de rage.md#SAUTENRAGE)
+>>> [[pouvoirs de rage#SAUTENRAGE]]

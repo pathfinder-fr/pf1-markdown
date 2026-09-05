@@ -7,5 +7,5 @@
 (((Issues and topics that a Sueetie Developer may or may not encounter, but when you need it, these are helpful resources.)))
 
 
-- [gspSQLite|**Adding a SQLite reference to Gallery Server Pro**] - How to get past a null SQLite reference if you encounter one
-- [MembershipIntegration|**Sueetie Membership Integration**] - Details on Sueetie's ASPNET Membership configuration and implementation
+- [[gspSQLite|**Adding a SQLite reference to Gallery Server Pro**]] - How to get past a null SQLite reference if you encounter one
+- [[MembershipIntegration|**Sueetie Membership Integration**]] - Details on Sueetie's ASPNET Membership configuration and implementation

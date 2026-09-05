@@ -11,12 +11,12 @@ Categories:
 
 {s:mca}*Avec ses réflexes habiles, le personnage tire profit des erreurs de ses adversaires.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 18, [Attaques réflexes](./Attaques réflexes.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Arme de prédilection](./Arme de prédilection.md) (mains nues) ; [BBA](./BBA.md)+16 ou [lutteur](./Lutteur.md) niveau 12.
+**Conditions.** [[Dex]] 18, [[Attaques réflexes]], [[Science du combat à mains nues]], [[Arme de prédilection]] (mains nues) ; [[BBA]]+16 ou [[lutteur]] niveau 12.
 
-**Avantage.** Une fois par [round](./round.md), lorsque le personnage a les deux mains libres et se bat à mains nues tandis que son adversaire rate une attaque au corps à corps contre lui, cet adversaire provoque une [attaque d’opportunité](./AO.md) de la part du personnage. Ce dernier doit porter son attaque d’opportunité à mains nues.
+**Avantage.** Une fois par [[round]], lorsque le personnage a les deux mains libres et se bat à mains nues tandis que son adversaire rate une attaque au corps à corps contre lui, cet adversaire provoque une [[AO|attaque d’opportunité]] de la part du personnage. Ce dernier doit porter son attaque d’opportunité à mains nues.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance pour utiliser ce don une seconde fois au cours du même [round](./round.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance pour utiliser ce don une seconde fois au cours du même [[round]].

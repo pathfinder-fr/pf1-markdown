@@ -10,6 +10,6 @@ Categories:
 
 {s:mca}*Le personnage peut concentrer son talent naturel aussi bien sur l’efficacité de ses armes que sur ses compétences.*
 
-**Conditions.** Pouvoir de classe [combat étudié](./Enquêteur.md#COMBATETUDIE).
+**Conditions.** Pouvoir de classe [[enquêteur#COMBATETUDIE|combat étudié]].
 
-**Avantage.** Quand le personnage blesse une créature en utilisant le pouvoir de classe [combat étudié](./Enquêteur.md#COMBATETUDIE), il peut dépenser une utilisation d’[inspiration](./Enquêteur.md#INSPIRATION) pour relancer un dé d’inspiration et augmenter les dégâts du résultat obtenu.
+**Avantage.** Quand le personnage blesse une créature en utilisant le pouvoir de classe [[enquêteur#COMBATETUDIE|combat étudié]], il peut dépenser une utilisation d’[[enquêteur#INSPIRATION|inspiration]] pour relancer un dé d’inspiration et augmenter les dégâts du résultat obtenu.

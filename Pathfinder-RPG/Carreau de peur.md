@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[Mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Prê](./Prêtre.md) 2   
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|Mal]]<nowiki>]</nowiki> ; **Niveau** [[Prêtre|Prê]] 2   
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** projectile d’énergie maléfique en forme de flèche  
 
-**Durée** [instantanée](./instantanée.md) (1d4 [rounds](./round.md))  
+**Durée** [[instantanée]] (1d4 [[round|rounds]])  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
 
-Grâce à son symbole maudit, le personnage envoie un projectile fait de ténèbres crépitantes vers une cible à portée, par une [attaque de contact à distance](./attaque de contact à distance.md). Les créatures [Bonnes](./Alignement.md) frappées par ce projectile reçoivent 1d8 points de dégâts par tranche de deux [niveaux de lanceur de sorts](./NLS.md) (5d8 au maximum). Un extérieur [Bon](./Alignement.md) subit 1d6 points de dégâts par [niveau de lanceur de sorts](./NLS.md) (10d6 au maximum) et se retrouve [fiévreux](./Fiévreux.md) pendant 1 [round](./round.md). Jet de [Volonté](./Volonté.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) et annule la condition [fiévreux](./Fiévreux.md). Ce sort inflige seulement la moitié des dégâts aux créatures qui ne sont ni [Bonnes](./Alignement.md) ni [Maléfique](./Alignement.md)s, qui ne sont donc pas [fiévreuses](./Fiévreux.md). Il n’a aucun effet sur les créatures [Mauvaises](./Alignement.md).
+Grâce à son symbole maudit, le personnage envoie un projectile fait de ténèbres crépitantes vers une cible à portée, par une [[attaque de contact à distance]]. Les créatures [[alignement|Bonnes]] frappées par ce projectile reçoivent 1d8 points de dégâts par tranche de deux [[NLS|niveaux de lanceur de sorts]] (5d8 au maximum). Un extérieur [[alignement|Bon]] subit 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (10d6 au maximum) et se retrouve [[fiévreux]] pendant 1 [[round]]. Jet de [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] et annule la condition [[fiévreux]]. Ce sort inflige seulement la moitié des dégâts aux créatures qui ne sont ni [[alignement|Bonnes]] ni [[alignement|Maléfique]]s, qui ne sont donc pas [[fiévreux|fiévreuses]]. Il n’a aucun effet sur les créatures [[alignement|Mauvaises]].

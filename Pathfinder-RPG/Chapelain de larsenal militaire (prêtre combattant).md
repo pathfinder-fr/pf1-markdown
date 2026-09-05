@@ -11,22 +11,22 @@ Categories:
 {s:Menuarchétypeprêtrecombattant}{s:cs}{s:WMH}*Les chapelains de l'arsenal sont des prêtres combattants entraînés dans le district militaire à l'entrée de la Contrée expansionniste. Ils soutiennent l'armée de leur nation en se concentrant sur les aspects militaires de leurs dieux.*
 
 #### Bénédictions de la guerre (Sur)
-Un chapelain de l'arsenal doit choisir la [bénédiction de la guerre](./Bénédiction de la guerre.md), et peut le faire même si sa divinité ne peut normalement pas offrir ce domaine. Il ne peut pas choisir de deuxième bénédiction.
+Un chapelain de l'arsenal doit choisir la [[bénédiction de la guerre]], et peut le faire même si sa divinité ne peut normalement pas offrir ce domaine. Il ne peut pas choisir de deuxième bénédiction.
 
-Au niveau 7, un chapelain de l'arsenal obtient [Bénédiction accélérée](./Bénédiction accélérée.md) (Guerre) comme don supplémentaire même si il ne remplit pas ses prérequis, mais il ne peut pas s'accorder une bénédiction de la guerre à lui-même par une [action rapide](./Action rapide.md) grâce à Bénédiction accélérée avant le niveau 10.
+Au niveau 7, un chapelain de l'arsenal obtient [[Bénédiction accélérée]] (Guerre) comme don supplémentaire même si il ne remplit pas ses prérequis, mais il ne peut pas s'accorder une bénédiction de la guerre à lui-même par une [[action rapide]] grâce à Bénédiction accélérée avant le niveau 10.
 
-Au niveau 13, un chapelain de l'arsenal peux utiliser la bénédiction de la guerre sur un allié jusqu'à une distance de 9 mètres en dépensant une utilisation supplémentaire de sa capacité de [bénédictions](./Prêtre combattant.md#BENEDICTIONS).
+Au niveau 13, un chapelain de l'arsenal peux utiliser la bénédiction de la guerre sur un allié jusqu'à une distance de 9 mètres en dépensant une utilisation supplémentaire de sa capacité de [[Prêtre combattant#BENEDICTIONS|bénédictions]].
 
 Au niveau 16, un chapelain de l'arsenal peux utiliser la bénédiction de la guerre sur une seconde cible avec une seule utilisation de sa capacité de bénédictions.
 
 Au niveau 19, un chapelain de l'arsenal peux utiliser la bénédiction de la guerre sur n'importe quel nombre de cible avec une seule utilisation de sa capacité de bénédictions.
 
-Cette capacité modifie [bénédictions](./Prêtre combattant.md#BENEDICTIONS) et remplace [armure sacrée](./Prêtre combattant.md#ARMURESACREE).
+Cette capacité modifie [[Prêtre combattant#BENEDICTIONS|bénédictions]] et remplace [[Prêtre combattant#ARMURESACREE|armure sacrée]].
 
 #### Arme Sacrée (Sur)
-Les dégâts de base de l'arme sacrée d'un chapelain de l'arsenal n'augmentent pas au-dessus de 1d6. Cela modifie [Arme sacrée](./Prêtre combattant.md#ARMESACREE).
+Les dégâts de base de l'arme sacrée d'un chapelain de l'arsenal n'augmentent pas au-dessus de 1d6. Cela modifie [[Prêtre combattant#ARMESACREE|Arme sacrée]].
 
 #### Entraînement aux armes (Ext)
-Au niveau 5, un chapelain de l'arsenal gagne l'[entrainement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) comme la capacité de classe du guerrier, mais ses avantages ne s'applique qu'à ses armes sacrées (armes avec lesquelles le prêtre combattant à pris le don [Arme de prédilection](./Arme de prédilection.md)).
+Au niveau 5, un chapelain de l'arsenal gagne l'[[Guerrier#ENTRAINEMENTAUXARMES|entrainement aux armes]] comme la capacité de classe du guerrier, mais ses avantages ne s'applique qu'à ses armes sacrées (armes avec lesquelles le prêtre combattant à pris le don [[Arme de prédilection]]).
 
-Cette capacité remplace [canalisation d'énergie](./Prêtre combattant.md#CANALISATIONDENERGIE).
+Cette capacité remplace [[Prêtre combattant#CANALISATIONDENERGIE|canalisation d'énergie]].

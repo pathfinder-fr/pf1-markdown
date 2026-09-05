@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Flèche grésillante|{s:AE}}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 9 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 1 516 po ; **Poids** -
+**Aura** [[Évocation]] modérée ; **NLS** 9 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 1 516 po ; **Poids** -
 (((Description)))
-Cette *flèche [corrosive](./corrosive (propriété).md) +1* continue de verser de l'acide sur sa cible à chaque round et lui inflige 1d6 points de dégâts d'acide à son tour pendant les 3 [rounds](./round.md) qui suivent l'impact. Il faut réussir un test de [Premiers secours](./Premiers secours.md) [DD](./DD.md) 10 pour retirer la flèche et empêcher qu'elle ne fasse des dégâts supplémentaires (le [DD](./DD.md) passe à 15 si la victime essaie de retirer la flèche elle-même). La flèche est détruite quand on la retire et elle se dissout une fois les 3 [rounds](./round.md) écoulés.
+Cette *flèche [[corrosive (propriété)|corrosive]] +1* continue de verser de l'acide sur sa cible à chaque round et lui inflige 1d6 points de dégâts d'acide à son tour pendant les 3 [[round|rounds]] qui suivent l'impact. Il faut réussir un test de [[Premiers secours]] [[DD]] 10 pour retirer la flèche et empêcher qu'elle ne fasse des dégâts supplémentaires (le [[DD]] passe à 15 si la victime essaie de retirer la flèche elle-même). La flèche est détruite quand on la retire et elle se dissout une fois les 3 [[round|rounds]] écoulés.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[flèche acide](./Flèche acide.md)* ; **Coût** 758 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[flèche acide]]* ; **Coût** 758 po
 </div>

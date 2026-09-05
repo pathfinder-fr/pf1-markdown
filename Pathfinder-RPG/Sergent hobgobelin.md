@@ -13,14 +13,14 @@ Categories:
 {s:pucem|humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Codex monstrueux p.118*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Hobgobelin](./Hobgobelin.md) [guerrier](./Guerrier.md) 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille M, LM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m (12 {s:c}); [Perception](./Perception.md) +2}
+{s:BDTexte|[[Hobgobelin]] [[guerrier]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille M, LM}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m (12 {s:c}); [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 12, pris au dépourvu 15 (armure +4, bouclier +1, Dex +2)}
 {s:BDTexte|**pv** 33 (3d10+12)}
 {s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +3 (+1 contre la terreur)}
-{s:BDTexte|**Capacités défensives** [courage](./Guerrier.md#COURAGE) +1}
+{s:BDTexte|**Capacités défensives** [[guerrier#COURAGE|courage]] +1}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** épée longue de maître, +6 (1d8+2/19-20) ou fléau, +5 (1d8+2)}
@@ -28,11 +28,11 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 14, **Con** 16, **Int** 13, **Sag** 10, **Cha** 8}
 {s:BDTexte|**BBA** +3 ; **BMO** +5 ; **DMD** 17}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Motivation pour la marche](./Motivation pour la marche.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +7, [Équitation](./Équitation.md) +7, [Escalade](./Escalade.md) +7, [Intimidation](./Intimidation.md) +4, [Perception](./Perception.md) +2}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Motivation pour la marche]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +7, [[Équitation]] +7, [[Escalade]] +7, [[Intimidation]] +4, [[Perception]] +2}
 {s:BDTexte|**Langues** commun, géant, gobelin}
-{s:BDTexte|**Particularités** [entraînement aux armure](./Guerrier.md#ENTRAINEMENTAUXARMURES) 1}
-{s:BDTexte|**Équipement de combat** *[potion](./Potions magiques.md) de [force de taureau](./Force de taureau.md)*, [feux grégeois](./Feu grégeois (objet).md) (2) ; **Équipement divers** [chemise de mailles de maître](./chemise de mailles (armure).md), [rondache de bois de maître](./rondache (armure).md), [fléau d’armes](./Fléau darmes léger (arme).md), [arc long de maître](./Arc long (arme).md) avec [20 flèches](./Flèches (arme).md), [épée longue de maître](./épée longue (arme).md), 187 po.}
+{s:BDTexte|**Particularités** [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armure]] 1}
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potion]] de [[force de taureau]]*, [[Feu grégeois (objet)|feux grégeois]] (2) ; **Équipement divers** [[chemise de mailles (armure)|chemise de mailles de maître]], [[rondache (armure)|rondache de bois de maître]], [[Fléau darmes léger (arme)|fléau d’armes]], [[arc long (arme)|arc long de maître]] avec [[Flèches (arme)|20 flèches]], [[épée longue (arme)|épée longue de maître]], 187 po.}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -40,25 +40,25 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Hobgobelin](./Hobgobelin.md) || 1/2
+| [[Hobgobelin]] || 1/2
 |-
-| [Yzobu](./Yzobu.md) || 1
+| [[Yzobu]] || 1
 |-
-| [Sergent hobgobelin](./Sergent hobgobelin.md) || 2
+| [[Sergent hobgobelin]] || 2
 |-
-| [Zélote des batailles hobgobelin](./Zélote des batailles hobgobelin.md) || 2
+| [[Zélote des batailles hobgobelin]] || 2
 |-
-| [Lieutenant hobgobelin](./../Aventures/Lieutenant hobgobelin.md) || 4
+| [[Lieutenant hobgobelin]] || 4
 |-
-| [Précurseur hobgobelin](./Précurseur hobgobelin.md) || 6
+| [[Précurseur hobgobelin]] || 6
 |-
-| [Bombardier hobgobelin](./Bombardier hobgobelin.md) || 7
+| [[Bombardier hobgobelin]] || 7
 |-
-| [Prêtre guerrier hobgobelin](./Prêtre guerrier hobgobelin.md) || 8
+| [[Prêtre guerrier hobgobelin]] || 8
 |-
-| [Parangon hobgobelin](./Parangon hobgobelin.md) || 10
+| [[Parangon hobgobelin]] || 10
 |-
-| [Commandant hobgobelin](./Commandant hobgobelin.md) || 12
+| [[Commandant hobgobelin]] || 12
 |-
 |}
 </div>Chaque sergent ou zélote des batailles possède une petite dose d’autorité qui lui permet de diriger une petite dizaine de combattants.

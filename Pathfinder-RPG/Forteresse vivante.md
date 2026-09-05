@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISR}*Obstiné, tenace et fier, vous êtes tout sauf stoïque lorsque vous avez vos frères à vos côtés.*
 
-**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Nain](./Nain.md), trait racial robuste
+**Conditions.** [[Nain]], trait racial robuste
 
-**Avantages.** Tant que le personnage combat [sur la défensive](./combat sur la défensive.md) et est adjacent à un allié qui possède ce don, son bonus racial aux [jets de sauvegarde](./JDS.md) contre les sorts et les pouvoirs magiques augmente de 2.
+**Avantages.** Tant que le personnage combat [[combat sur la défensive|sur la défensive]] et est adjacent à un allié qui possède ce don, son bonus racial aux [[jds|jets de sauvegarde]] contre les sorts et les pouvoirs magiques augmente de 2.

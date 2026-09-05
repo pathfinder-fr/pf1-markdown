@@ -10,38 +10,38 @@ LastModified: 2021-04-11 11:28
 {s:pucem|humanoïde monstrueux|collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p. 254}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, LN}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), *[détection des passages secrets](./Détection des passages secrets.md)*, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +27}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, LN}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), *[[détection des passages secrets]]*, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +27}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 15, pris au dépourvu 20 (Dex +5, naturelle +10)}
 {s:BDTexte|**pv** 133 (14d10+56)}
 {s:BDTexte|**Réf** +16, **Vig** +8, **Vol** +15}
-{s:BDTexte|**[Immunités](./Immunité (capacité).md)** poison, son ; **[Résistance](./Résistance (capacité).md)** acide 10 ; **[RM](./Résistance à la magie (capacité).md)** 22}
+{s:BDTexte|**[[Immunité (capacité)|Immunités]]** poison, son ; **[[Résistance (capacité)|Résistance]]** acide 10 ; **[[Résistance à la magie (capacité)|RM]]** 22}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), **vol** 18 m (12 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** bâton +2, +16/+11/+6 (1d6+4) et bâton +2, +16/+11 (1d6+3) et dard, +11 (1d8+1 plus dard mental)}
 {s:BDTexte|**Attaque spéciale** consommation de mérope}
 {s:BDTexte|**Pouvoirs magiques** (NLS 14 ; concentration +22)}
-{s:BDSorts|Constant — *[détection des passages secrets](./Détection des passages secrets.md)*}
-{s:BDSorts|À volonté — *[apaisement des émotions](./Apaisement des émotions.md)* (DD 20), *[cacophonie](./Cacophonie.md)* (DD 20), *[détection de pensées](./Détection de pensées.md)* (DD 20)}
-{s:BDSorts|3/jour — *[détection faussée](./Détection faussée.md)* (DD 20), *[divination](./Divination.md)*, *[localisation d’objet](./Localisation dobjet.md)*, *[négation de l’invisibilité](./Négation de linvisibilité.md)*, *[symbole de sommeil](./Symbole de sommeil.md)* (DD 23)}
-{s:BDSorts|1/jour — *[convocation](./convocation.md)* d’abeilles (niveau 5, 1d3 reines géantes ou 1d4 essaims de guêpes), *[vision lucide](./Vision lucide.md)*}
+{s:BDSorts|Constant — *[[détection des passages secrets]]*}
+{s:BDSorts|À volonté — *[[apaisement des émotions]]* (DD 20), *[[cacophonie]]* (DD 20), *[[détection de pensées]]* (DD 20)}
+{s:BDSorts|3/jour — *[[détection faussée]]* (DD 20), *[[divination]]*, *[[localisation dobjet|localisation d’objet]]*, *[[négation de linvisibilité|négation de l’invisibilité]]*, *[[symbole de sommeil]]* (DD 23)}
+{s:BDSorts|1/jour — *[[convocation]]* d’abeilles (niveau 5, 1d3 reines géantes ou 1d4 essaims de guêpes), *[[vision lucide]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 20, **Con** 19, **Int** 19, **Sag** 22, **Cha** 27}
 {s:BDTexte|**BBA** +14 ; **BMO** +19 ; **DMD** 31}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Combat à deux armes](./Combat à deux armes.md), [Magie de guerre](./Magie de guerre.md), [Manœuvres agiles](./Manœuvres agiles.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science du combat à deux armes](./Science du combat à deux armes.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +18, [Bluff](./Bluff.md) +22, [Connaissances](./Connaissances.md) (mystère) +18, [Diplomatie](./Diplomatie.md) +22, [Perception](./Perception.md) +27, [Psychologie](./Psychologie.md) +24, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +22, [Vol](./Vol.md) +26}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Combat à deux armes]], [[Magie de guerre]], [[Manœuvres agiles]], [[Réflexes surhumains]], [[Science du combat à deux armes]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +18, [[Bluff]] +22, [[Connaissances]] (mystère) +18, [[Diplomatie]] +22, [[Perception]] +27, [[Psychologie]] +24, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +22, [[Vol]] +26}
 {s:BDTexte|**Langues** commun, sylvestre, thriae}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou triade}
 {s:BDTexte|**Trésor** double (bâton +2, 3 doses de mérope, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Consommation de mérope (Sur).** Trois fois par jour, par une [action simple](./Action simple.md), l’oracle thriae peut consommer une dose de mérope afin d’exploiter ses pouvoirs spirituels pendant 1d6+3 rounds supplémentaires. Cela commence le round suivant sa consommation de mérope et l’oracle thriae gagne un bonus d’intuition à la [CA](./Valeurs de combat.md#CA) et aux dégâts de ses attaques de corps à corps égal à son modificateur de Sagesse (+6 pour la plupart des oracles thriae).}
-{s:BDTexte|**Dard mental (Sur).** Une cible piquée par un oracle thriae est confuse pendant 1d4 rounds à moins de réussir un [jet de Volonté](./Valeurs de combat.md#JETDESAUVEGARDE) DD 21. Il s’agit d’un effet mental. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Consommation de mérope (Sur).** Trois fois par jour, par une [[action simple]], l’oracle thriae peut consommer une dose de mérope afin d’exploiter ses pouvoirs spirituels pendant 1d6+3 rounds supplémentaires. Cela commence le round suivant sa consommation de mérope et l’oracle thriae gagne un bonus d’intuition à la [[Valeurs de combat#CA|CA]] et aux dégâts de ses attaques de corps à corps égal à son modificateur de Sagesse (+6 pour la plupart des oracles thriae).}
+{s:BDTexte|**Dard mental (Sur).** Une cible piquée par un oracle thriae est confuse pendant 1d4 rounds à moins de réussir un [[Valeurs de combat#JETDESAUVEGARDE|jet de Volonté]] DD 21. Il s’agit d’un effet mental. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [thriae](./Thriae.md).***</li></ul>*Cette créature hybride entre la femme et l’abeille, mince et belle, porte un maquillage raffiné et tient un bâton ouvragé.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Thriae]].***</li></ul>*Cette créature hybride entre la femme et l’abeille, mince et belle, porte un maquillage raffiné et tient un bâton ouvragé.*
 
 Recherchées pour leur sagesse et leurs conseils aussi bien que pour leur beauté enchanteresse, les oracles thriae font partie des membres les plus douées de leur colonie, d’un point de vue spirituel. Leur talent à prédire le futur et à décider de la ligne de conduite la plus sensée à tenir dans les situations désespérées leur vaut le respect de toutes les autres thriae et de tous les étrangers des autres sociétés. Les oracles exercent leur don avec une stoïque humilité. Néanmoins, la plupart des oracles s’attendent à recevoir une offrande avant d’accorder une audience de divination. Ces offrandes se composent généralement de bijoux ouvragés et d’or, bien que certains oracles désirent parfois la compagnie d’un humanoïde, homme ou femme, et beaucoup
 sont prêts à satisfaire ces oracles fascinants en leur accordant leur présence.

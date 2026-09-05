@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.27}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision à 360°](./Vision à 360° (capacité).md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision à 360° (capacité)|vision à 360°]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 11, pris au dépourvu 17 (Dex +2, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 45 (6d10+12)}
@@ -27,16 +27,16 @@ Categories:
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 15, **Con** 13, **Int** 2, **Sag** 13, **Cha** 4}
-{s:BDTexte|**BBA** +6, **BMO** +9, **DMD** 21 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Robustesse](./Robustesse.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+6 pour sauter), [Discrétion](./Discrétion.md) +11, [Escalade](./Escalade.md) +10, [Natation](./Natation.md) +10, [Perception](./Perception.md) +11 ; **Modificateurs raciaux** +8 en [Acrobaties](./Acrobaties.md), +4 en [Discrétion](./Discrétion.md), +4 en [Perception](./Perception.md)}
+{s:BDTexte|**BBA** +6, **BMO** +9, **DMD** 21 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Robustesse]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10 (+6 pour sauter), [[Discrétion]] +11, [[Escalade]] +10, [[Natation]] +10, [[Perception]] +11 ; **Modificateurs raciaux** +8 en [[Acrobaties]], +4 en [[Discrétion]], +4 en [[Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines tempérées ou sous terre}
 {s:BDTexte|**Organisation sociale** solitaire ou groupe (2-5)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Division (Sur)** Un amphisbène continue à fonctionner normalement même après avoir été coupé en deux. S’il subit un [coup critique](./coup critique.md) porté à l’aide d’une arme tranchante, il est coupé en deux, mais continue d’agir comme deux créatures séparées, chacune disposant de la moitié (arrondie vers le bas) du nombre de [points de vie](./pv.md) que la créature originale possède après calcul des effets du [coup critique](./coup critique.md). Un amphisbène coupé en deux ne peut plus être coupé en deux à nouveau. S’il dispose d’1 minute, il peut réunir ses deux moitiés et redevenir une seule créature (on additionne le nombre de [points de vie](./pv.md) de chacune des moitiés). Si l’une des moitiés est tuée, l’amphisbène a besoin de 1d3 semaines pour que la partie manquante repousse.}
-{s:BDTexte|**Poison (Ext)** Morsure-blessure ; *jds* [Vig](./jet de sauvegarde.md) [DD](./DD.md)14 ; *fréquence* 1/[round](./round.md) pendant 6 [rounds](./round.md) ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) 1d3 [Con](./Constitution.md) ; *guérison* 1 réussite}
+{s:BDTexte|**Division (Sur)** Un amphisbène continue à fonctionner normalement même après avoir été coupé en deux. S’il subit un [[coup critique]] porté à l’aide d’une arme tranchante, il est coupé en deux, mais continue d’agir comme deux créatures séparées, chacune disposant de la moitié (arrondie vers le bas) du nombre de [[pv|points de vie]] que la créature originale possède après calcul des effets du [[coup critique]]. Un amphisbène coupé en deux ne peut plus être coupé en deux à nouveau. S’il dispose d’1 minute, il peut réunir ses deux moitiés et redevenir une seule créature (on additionne le nombre de [[pv|points de vie]] de chacune des moitiés). Si l’une des moitiés est tuée, l’amphisbène a besoin de 1d3 semaines pour que la partie manquante repousse.}
+{s:BDTexte|**Poison (Ext)** Morsure-blessure ; *jds* [[jet de sauvegarde|Vig]] [[DD]]14 ; *fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; *effet* [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] 1d3 [[Constitution|Con]] ; *guérison* 1 réussite}
 </div>
 </td><td><div>*Ce grand serpent possède deux têtes, une à chaque extrémité de son long corps enroulé sur lui-même. Chaque tête est garnie de crocs.*
 

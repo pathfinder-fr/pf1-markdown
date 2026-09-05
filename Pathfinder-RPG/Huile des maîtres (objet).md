@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 50 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Cette huile dorée a l’odeur des copeaux de bois. Quand le personnage l’applique sur les cordes d’un [instrument](./Instrument de musique (objet).md) à cordes ou sur le corps d’un bois, elle améliore la qualité sonore de l’instrument. Pendant 1 heure, quiconque joue de l’instrument gagne un bonus alchimique de +2 aux tests de [Représentation](./Représentation.md) appropriés.
+Cette huile dorée a l’odeur des copeaux de bois. Quand le personnage l’applique sur les cordes d’un [[Instrument de musique (objet)|instrument]] à cordes ou sur le corps d’un bois, elle améliore la qualité sonore de l’instrument. Pendant 1 heure, quiconque joue de l’instrument gagne un bonus alchimique de +2 aux tests de [[Représentation]] appropriés.

@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Cette forteresse du [Molthune](./Molthune.md) est située presque sur la frontière avec le [Nirmathas](./Nirmathas.md).
+Cette forteresse du [[Molthune]] est située presque sur la frontière avec le [[Nirmathas]].
 
-On peut penser, au vu de sa situation géographique, que si le [Molthune](./Molthune.md) décidait d'envahir son voisin du nord, c'est de cette forteresse qui partiraient les armées molthuniennes.
+On peut penser, au vu de sa situation géographique, que si le [[Molthune]] décidait d'envahir son voisin du nord, c'est de cette forteresse qui partiraient les armées molthuniennes.

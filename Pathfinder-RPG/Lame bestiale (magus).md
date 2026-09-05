@@ -15,12 +15,12 @@ Au niveau 3, la lame bestiale obtient l’arcane de magus familier. Cette aptitu
 
 #### Contact en tandem (Sur)
 
-Au niveau 4, tant que le familier de la lame bestiale retient la charge d’un sort de contact, la lame bestiale peut lancer un autre sort sans dissiper la charge retenue par son familier. Cette aptitude remplace [magus#Souvenir_magique_Sur_8|souvenir magique].
+Au niveau 4, tant que le familier de la lame bestiale retient la charge d’un sort de contact, la lame bestiale peut lancer un autre sort sans dissiper la charge retenue par son familier. Cette aptitude remplace [[magus#Souvenir_magique_Sur_8|souvenir magique]].
 
 #### Réserve du familier (Sur)
 
-Au niveau 7, lorsqu’une lame bestiale prépare ses sorts de magus, il peut dépenser des points de sa réserve arcanique jusqu’à concurrence de son modificateur d’Intelligence afin de renforcer son familier. Pour chaque point dépensé de cette manière, le familier peut lancer, une fois ce jour-là, un sort de magus en tant que pouvoir magique. Chaque sort choisi doit être d’au moins 3 niveaux inférieur au plus haut niveau de sort que la lame bestiale peut lancer et ne peut nécessiter une composante matérielle coûtant plus de 1 po. Cette aptitude remplace [magus#RESERVEDECONNAISSANCES|réserve de connaissances].
+Au niveau 7, lorsqu’une lame bestiale prépare ses sorts de magus, il peut dépenser des points de sa réserve arcanique jusqu’à concurrence de son modificateur d’Intelligence afin de renforcer son familier. Pour chaque point dépensé de cette manière, le familier peut lancer, une fois ce jour-là, un sort de magus en tant que pouvoir magique. Chaque sort choisi doit être d’au moins 3 niveaux inférieur au plus haut niveau de sort que la lame bestiale peut lancer et ne peut nécessiter une composante matérielle coûtant plus de 1 po. Cette aptitude remplace [[magus#RESERVEDECONNAISSANCES|réserve de connaissances]].
 
 #### Frappe magique du familier (Sur)
 
-Au niveau 11, chaque fois que le familier d’une lame bestiale transmet avec succès un sort de contact à une créature que le magus menace, la cible provoque une attaque d’opportunité de la part du magus. Cette aptitude remplace [magus#SCIENCEDUSOUVENIRMAGIQUE|science du souvenir magique].
+Au niveau 11, chaque fois que le familier d’une lame bestiale transmet avec succès un sort de contact à une créature que le magus menace, la cible provoque une attaque d’opportunité de la part du magus. Cette aptitude remplace [[magus#SCIENCEDUSOUVENIRMAGIQUE|science du souvenir magique]].

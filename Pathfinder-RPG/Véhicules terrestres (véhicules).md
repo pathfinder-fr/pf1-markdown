@@ -32,7 +32,7 @@ Les véhicules terrestres suivants sont les plus communs et incluent tous ceux q
 (((Description)))
 - Ce véhicule à deux roues est souvent utilisé pour les courses ou comme plateforme pour un unique archer, parcourant le champ de bataille à grande vitesse.
 - **Propulsion** muscle (tracté ; 2 créatures de taille M ou 1 créature de taille G)
-- **Test de conduite** [Dressage](./Dressage.md) ou [Profession](./Profession.md) (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md) (dans le cas de créatures intelligentes)
+- **Test de conduite** [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
 - **Avant** devant les créatures tractant le véhicule
 - **Système de conduite** rênes
 - **Espace de conduite** la case la plus en avant du char
@@ -55,7 +55,7 @@ Les véhicules terrestres suivants sont les plus communs et incluent tous ceux q
 (((Description)))
 - Ce véhicule à deux roues est souvent utilisé sur les champs de bataille pour briser les formations d'infanterie ou comme plateforme de combat mobile rapide.
 - **Propulsion** muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G)
-- **Test de conduite** [Dressage](./Dressage.md) ou [Profession](./Profession.md) (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md) (dans le cas de créatures intelligentes)
+- **Test de conduite** [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
 - **Avant** devant les créatures tractant le véhicule
 - **Système de conduite** rênes
 - **Espace de conduite** les deux cases les plus en avant du char
@@ -78,14 +78,14 @@ Les véhicules terrestres suivants sont les plus communs et incluent tous ceux q
 - **BMO** +2 ; **DMD** 12
 - **Dégâts de collision** 1d8
 (((Description)))
-- Ce véhicule à deux roues est parfois utilisé comme plateforme de combat ou pour transporter une [baliste légère](./Descriptions individuelles des engins de siège.md) sur le champ de bataille.
+- Ce véhicule à deux roues est parfois utilisé comme plateforme de combat ou pour transporter une [[Descriptions individuelles des engins de siège|baliste légère]] sur le champ de bataille.
 - **Propulsion** muscle (tracté ; 6 créatures de taille M ou 2 créature de taille G)
-- **Test de conduite** [Dressage](./Dressage.md) ou [Profession](./Profession.md) (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md) (dans le cas de créatures intelligentes)
+- **Test de conduite** [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
 - **Avant** devant les créatures tractant le véhicule
 - **Système de conduite** rênes
 - **Espace de conduite** les deux cases les plus en avant du char
 - **Ponts** 1
-- **Armes** [baliste légère](./Descriptions individuelles des engins de siège.md)
+- **Armes** [[Descriptions individuelles des engins de siège|baliste légère]]
 
 </div>
 </td><td width="40%">
@@ -104,7 +104,7 @@ Les véhicules terrestres suivants sont les plus communs et incluent tous ceux q
 (((Description)))
 - Ce véhicule à quatre roues est idéal pour transporter des quantités appréciables de biens entre différentes communautés. Il peut convoyer jusqu'à 500 kilos de marchandises.
 - **Propulsion** muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G)
-- **Test de conduite** [Dressage](./Dressage.md) ou [Profession](./Profession.md) (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md) (dans le cas de créatures intelligentes)
+- **Test de conduite** [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
 - **Avant** devant les créatures tractant le véhicule
 - **Système de conduite** rênes
 - **Espace de conduite** les deux cases les plus en avant du chariot
@@ -129,7 +129,7 @@ Les véhicules terrestres suivants sont les plus communs et incluent tous ceux q
 (((Description)))
 - Ce véhicule à quatre roues est utilisé pour transporter de grandes quantités de biens entre différentes communautés et figure parfois dans les caravanes. Il peut convoyer jusqu'à 1 tonne de marchandises.
 - **Propulsion** muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G)
-- **Test de conduite** [Dressage](./Dressage.md) ou [Profession](./Profession.md) (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md) (dans le cas de créatures intelligentes)
+- **Test de conduite** [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
 - **Avant** devant les créatures tractant le véhicule
 - **Système de conduite** rênes
 - **Espace de conduite** les deux cases les plus en avant du chariot
@@ -152,7 +152,7 @@ Les véhicules terrestres suivants sont les plus communs et incluent tous ceux q
 (((Description)))
 - Ce grand véhicule à quatre roues est utilisé majoritairement dans les caravanes pour transporter des biens sur de longues distances. Ils peuvent convoyer jusqu’à 2 tonnes de marchandises.
 - **Propulsion** muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G)
-- **Test de conduite** [Dressage](./Dressage.md) ou [Profession](./Profession.md) (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md) (dans le cas de créatures intelligentes)
+- **Test de conduite** [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
 - **Avant** devant les créatures tractant le véhicule
 - **Système de conduite** rênes
 - **Espace de conduite** les deux cases les plus en avant du chariot
@@ -177,7 +177,7 @@ Les véhicules terrestres suivants sont les plus communs et incluent tous ceux q
 (((Description)))
 - Ce véhicule à deux roues est souvent utilisé pour transporter de petits chargements de marchandises (jusqu'à 150 kilos).
 - **Propulsion** muscle (tracté ; 2 créatures de taille M ou 1 créature de taille G)
-- **Test de conduite** [Dressage](./Dressage.md) ou [Profession](./Profession.md) (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md) (dans le cas de créatures intelligentes)
+- **Test de conduite** [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
 - **Avant** devant les créatures tractant le véhicule
 - **Système de conduite** rênes
 - **Espace de conduite** la case la plus en avant de la charrette
@@ -200,7 +200,7 @@ Les véhicules terrestres suivants sont les plus communs et incluent tous ceux q
 (((Description)))
 - Ce véhicule à quatre roues peut transporter jusqu'à 4 personnes dans un compartiment couvert, en plus d'un conducteur et d'une autre personne assise à côté de lui (souvent armée). Le toit de la diligence peut transporter jusqu'à 100 kilos de marchandises.
 - **Propulsion** muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G)
-- **Test de conduite** [Dressage](./Dressage.md) ou [Profession](./Profession.md) (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md) (dans le cas de créatures intelligentes)
+- **Test de conduite** [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes)
 - **Avant** devant les créatures tractant le véhicule
 - **Système de conduite** rênes
 - **Espace de conduite** les deux cases les plus en avant du chariot
@@ -223,9 +223,9 @@ Les véhicules terrestres suivants sont les plus communs et incluent tous ceux q
 - **BMO** +4 ; **DMD** 14
 - **Dégâts de collision** 4d8
 (((Description)))
-- Cette monstruosité ambulante est heureusement excessivement rare et chère, et c'est l'un des véhicules terrestres les plus bizarres qui existent. Chaudron d'acier géant posé sur des jambes courtaudes mais efficaces, il avance clopin-clopant sur le champ de bataille en grinçant. Pour le faire fonctionner pendant 1 heure, il faut dépenser 100 po de réactifs alchimiques. Les créatures à l'intérieur du géant de vapeur bénéficient d'un [abri total](./abri total.md) (sur les ponts inférieurs) ou d'un [abri amélioré](./abri amélioré.md) (sur le pont supérieur, là où on voit l'extérieur et où l'on contrôle le véhicule). Seul le pont supérieur possède des fenêtres permettant à ceux qui se trouvent dans le géant de vapeur de regarder dehors.
+- Cette monstruosité ambulante est heureusement excessivement rare et chère, et c'est l'un des véhicules terrestres les plus bizarres qui existent. Chaudron d'acier géant posé sur des jambes courtaudes mais efficaces, il avance clopin-clopant sur le champ de bataille en grinçant. Pour le faire fonctionner pendant 1 heure, il faut dépenser 100 po de réactifs alchimiques. Les créatures à l'intérieur du géant de vapeur bénéficient d'un [[abri total]] (sur les ponts inférieurs) ou d'un [[abri amélioré]] (sur le pont supérieur, là où on voit l'extérieur et où l'on contrôle le véhicule). Seul le pont supérieur possède des fenêtres permettant à ceux qui se trouvent dans le géant de vapeur de regarder dehors.
 - **Propulsion** alchimique (10 cases de moteurs alchimiques ; solidité 8, pv 200)
-- **Test de conduite** [Connaissances](./Connaissances.md) (mystères) ou [Artisanat](./Artisanat.md) (alchimie), [DD](./DD.md) +10
+- **Test de conduite** [[Connaissances]] (mystères) ou [[Artisanat]] (alchimie), [[DD]] +10
 - **Avant** une face de l'espace de conduite extérieur
 - **Système de conduite** deux leviers utilisés pour bouger les jambes
 - **Espace de conduite** 1 seule case de 1,50 m sur 1,50 m contenant les deux leviers qui servent de système de conduite au géant de vapeur ; ces leviers sont situés sur le troisième pont du véhicule (tout en haut)
@@ -251,7 +251,7 @@ Les véhicules terrestres suivants sont les plus communs et incluent tous ceux q
 (((Description)))
 - Ce chariot ouvert utilise une paire de patins au lieu de roues. On l'utilise pour voyager sur la neige et la glace, et il ne peut se déplacer qu' la moitié de sa vitesse sur les autres surfaces. Les traîneaux sont en général tirés par des chevaux ou des créatures adaptées à ce genre de véhicule, mais certains sont propulsés par des voilures de taille TG (8 cases). S'il utilise sa voile, le traîneau n'a pas de place pour des passagers ou de la marchandise.
 - **Propulsion** muscle (tracté ; 4 créatures de taille M ou 1 créature de taille G ; sur la glace, les créatures doivent être munies de griffes plutôt que de sabots) ou courant (air ; voile de 8 cases ; pv 40)
-- **Test de conduite** [Dressage](./Dressage.md) ou [Profession](./Profession.md) (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md) (dans le cas de créatures intelligentes), ou [Acrobaties](./Acrobaties.md) (dans le cas de courants aériens ; [DD](./DD.md) +10)
+- **Test de conduite** [[Dressage]] ou [[Profession]] (conducteur d'attelage) (dans le cas de créatures dotées d'intelligence animale tractant le véhicule), [[Diplomatie]] ou [[Intimidation]] (dans le cas de créatures intelligentes), ou [[Acrobaties]] (dans le cas de courants aériens ; [[DD]] +10)
 - **Avant** devant les créatures tractant le véhicule, ou à l'avant du traîneau si celui-ci est propulsé par sa voile
 - **Système de conduite** rênes (muscle) ou gréement (air)
 - **Espace de conduite** les deux cases les plus en avant du chariot

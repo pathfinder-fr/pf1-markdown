@@ -12,4 +12,4 @@ Categories:
 
 **Conditions.** -
 
-**Avantages.** Si le personnage est [couché](./À terre.md) depuis la fin de son dernier tour, la pénalité des jets de [perception](./Perception.md) pour que d’autres le repèrent augmente de +1 tous les 6m (4c) qui séparent le personnage de l’observateur, pour un maximum de +5 à 30m (20c). Cette pénalité s’ajoute aux modificateurs normaux de distance.
+**Avantages.** Si le personnage est [[à terre|couché]] depuis la fin de son dernier tour, la pénalité des jets de [[perception]] pour que d’autres le repèrent augmente de +1 tous les 6m (4c) qui séparent le personnage de l’observateur, pour un maximum de +5 à 30m (20c). Cette pénalité s’ajoute aux modificateurs normaux de distance.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#ERUPTIONDENERGIE
 ---
 
->>> [pouvoirs de rage#ERUPTIONDENERGIE](./Pouvoirs de rage.md#ERUPTIONDENERGIE)
+>>> [[pouvoirs de rage#ERUPTIONDENERGIE]]

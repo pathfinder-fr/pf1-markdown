@@ -10,6 +10,6 @@ Categories:
 
 {s:mca}*Le personnage communie avec un esprit de son choix, qui accorde un bienfait à son compagnon animal ou à son familier.*
 
-**Conditions.** Pouvoir de classe [compagnon animal](./compagnon animal.md) ou [familier](./familier.md).
+**Conditions.** Pouvoir de classe [[compagnon animal]] ou [[familier]].
 
-**Avantage.** Au début de la journée, le personnage peut décider de communier avec un [esprit de chaman](./Esprits (chaman).md) (Même si le chaman aurait besoin d’une heure de préparation, cela ne demande pas de temps au personnage). Pendant les prochaines 24 heures, il peut par une [action simple](./Action simple.md), conférer la capacité d'esprit animal de cet esprit de chaman à son [compagnon animal](./Chasseur.md#COMPAGNONANIMAL) ou à son [familier](./Sorcière.md#FAMILIER) pendant 1 minute par niveau dans la classe qui lui confère ce compagnon animal ou ce familier.
+**Avantage.** Au début de la journée, le personnage peut décider de communier avec un [[Esprits (chaman)|esprit de chaman]] (Même si le chaman aurait besoin d’une heure de préparation, cela ne demande pas de temps au personnage). Pendant les prochaines 24 heures, il peut par une [[action simple]], conférer la capacité d'esprit animal de cet esprit de chaman à son [[chasseur#COMPAGNONANIMAL|compagnon animal]] ou à son [[sorcière#FAMILIER|familier]] pendant 1 minute par niveau dans la classe qui lui confère ce compagnon animal ou ce familier.

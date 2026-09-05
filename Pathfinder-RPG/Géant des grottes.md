@@ -14,30 +14,30 @@ Categories:
 {s:pucem|Humanoïde|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p. 130*}
 {s:BDTexte|**PX** 2 400 px}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, CM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 36 m (24 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, CM}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] à 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 9, pris au dépourvu 19 (armure +4, naturelle +6, taille -1)}
 {s:BDTexte|**pv** 67 (9d8+27)}
 {s:BDTexte|**Réf** +3, **Vig** +9, **Vol** +3}
-{s:BDTexte|**Capacités défensives** [férocité](./Férocité (capacité).md), réception de rochers}
-{s:BDTexte|**Faiblesses** [sensibilité à la lumière](./Sensibilité à la lumière (capacité).md)}
+{s:BDTexte|**Capacités défensives** [[férocité (capacité)|férocité]], réception de rochers}
+{s:BDTexte|**Faiblesses** [[sensibilité à la lumière (capacité)|sensibilité à la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}) (9 m (6 {s:c}) en armure)}
 {s:BDTexte|**Corps à corps** hache d’armes, +12/+7 (2d6+9/×3) ou 2 coups, +11 (1d8+6)}
 {s:BDTexte|**A distance** rocher, +6 (1d8+9)}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [lancer de rochers](./Lancer de rochers (capacité).md)}
+{s:BDTexte|**Attaques spéciales** [[lancer de rochers (capacité)|lancer de rochers]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 10, **Con** 17, **Int** 6, **Sag** 10, **Cha** 7}
 {s:BDTexte|**BBA** +6, **BMO** +13, **DMD** 23}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (hache d'armes), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Science de la destruction](./Science de la destruction.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +7, [Intimidation](./Intimidation.md) +7, [Perception](./Perception.md) +5}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (hache d'armes), [[Attaque en puissance]], [[Enchaînement]], [[Frappe décisive]], [[Science de la destruction]]}
+{s:BDTexte|**Compétences** [[Escalade]] +7, [[Intimidation]] +7, [[Perception]] +5}
 {s:BDTexte|**Langues** géant}
 {s:BDTexte|**Particularités** spécialiste de la hache}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrains}
-{s:BDTexte|**Organisation sociale** solitaire, gang (2-5), bande (6-8 plus 1-2 [varans](./Varan.md)), raids (9-12 plus 1-4 [varans](./Varan.md)) ou tribu (13-20 plus 30% de non combattants, plus 1 chef [barbare](./Barbare.md), [guerrier](./Guerrier.md) ou [rôdeur](./Rôdeur.md) de niveau 3 à 5 ; 2-9 [varans](./Varan.md) ; 1-4 [lézards à collerette géants](./Lézard à collerette géant.md) ; et 10-15 esclaves [nains](./Nain.md), [orques](./Orque.md) ou [troglodytes](./Troglodyte.md))}
+{s:BDTexte|**Organisation sociale** solitaire, gang (2-5), bande (6-8 plus 1-2 [[varan|varans]]), raids (9-12 plus 1-4 [[varan|varans]]) ou tribu (13-20 plus 30% de non combattants, plus 1 chef [[barbare]], [[guerrier]] ou [[rôdeur]] de niveau 3 à 5 ; 2-9 [[varan|varans]] ; 1-4 [[lézard à collerette géant|lézards à collerette géants]] ; et 10-15 esclaves [[nain|nains]], [[orque|orques]] ou [[troglodyte|troglodytes]])}
 {s:BDTexte|**Trésor** standard (armure de peau, hache d’armes, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Spécialiste de la hache (Ext).** Tous les géants des grottes savent manier les hachettes, les haches d’armes et les grandes haches.}
@@ -53,49 +53,49 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Géant de cendre](./Géant de cendre.md) || 11
+| [[Géant de cendre]] || 11
 |-
-| [Géant de la jungle](./Géant de la jungle.md) || 10
+| [[Géant de la jungle]] || 10
 |-
-| [Géant de la lune](./Géant de la lune.md) || 15
+| [[Géant de la lune]] || 15
 |-
-| [Géant de la taïga](./Géant de la taïga.md) || 12
+| [[Géant de la taïga]] || 12
 |-
-| [Géant de l'ombre](./Géant de lombre.md) || 13
+| [[Géant de lombre|Géant de l'ombre]] || 13
 |-
-| [Géant de pierre](./Géant de pierre.md) || 8
+| [[Géant de pierre]] || 8
 |-
-| [Géant des bois](./Géant des bois.md) || 6
+| [[Géant des bois]] || 6
 |-
-| [Géant des collines](./Géant des collines.md) || 7
+| [[Géant des collines]] || 7
 |-
-| [Géant des falaises](./Géant des falaises.md) || 9
+| [[Géant des falaises]] || 9
 |-
-| [Géant des grottes](./Géant des grottes.md) || 6
+| [[Géant des grottes]] || 6
 |-
-| [Géant des marais](./Géant des marais.md) || 8
+| [[Géant des marais]] || 8
 |-
-| [Géant des nuages](./Géant des nuages.md) || 11
+| [[Géant des nuages]] || 11
 |-
-| [Géant des océans](./Géant des océans.md) || 14
+| [[Géant des océans]] || 14
 |-
-| [Géant des rivières](./Géant des rivières.md) || 6
+| [[Géant des rivières]] || 6
 |-
-| [Géant des runes](./Géant des runes.md) || 17
+| [[Géant des runes]] || 17
 |-
-| [Géant des scories](./Géant des scories.md) || 7
+| [[Géant des scories]] || 7
 |-
-| [Géant des tempêtes](./Géant des tempêtes.md) || 13
+| [[Géant des tempêtes]] || 13
 |-
-| [Géant des éclipses](./Géant des éclipses.md) || 19
+| [[Géant des éclipses]] || 19
 |-
-| [Géant du désert](./Géant du désert.md) || 9
+| [[Géant du désert]] || 9
 |-
-| [Géant du feu](./Géant du feu.md) || 10
+| [[Géant du feu]] || 10
 |-
-| [Géant du froid](./Géant du froid.md) || 9
+| [[Géant du froid]] || 9
 |-
-| [Géant du soleil](./Géant du soleil.md) || 16
+| [[Géant du soleil]] || 16
 |}
 </div>*Des défenses bestiales sortent des mâchoires de ce géant bossu enveloppé d’une armure faite des os de ses anciennes victimes.*
 

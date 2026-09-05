@@ -12,11 +12,11 @@ Categories:
 
 *Le personnage a maîtrisé des techniques qui lui permettent de tirer le meilleur des arcs composites.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 13, [Viser](./Viser.md), [BBA](./BBA.md) +3
+**Conditions.** [[Dextérité|Dex]] 13, [[Viser]], [[BBA]] +3
 
-**Avantages.** Lorsque le personnage tient en main une [arme à distance](./arme à distance.md) dont il connaît le maniement et qui possède un facteur de Force, ce facteur de Force augmente de 2. De plus, s'il connaît le maniement d'une arme, le personnage ne subit pas de pénalité sur ses jets d’attaque lorsqu'il possède un modificateur de [Force](./Force.md) inférieur au facteur de Force de cette arme.
+**Avantages.** Lorsque le personnage tient en main une [[arme à distance]] dont il connaît le maniement et qui possède un facteur de Force, ce facteur de Force augmente de 2. De plus, s'il connaît le maniement d'une arme, le personnage ne subit pas de pénalité sur ses jets d’attaque lorsqu'il possède un modificateur de [[Force]] inférieur au facteur de Force de cette arme.
 
 (((Exceptional Pull (Combat)
 

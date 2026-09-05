@@ -11,20 +11,20 @@ Categories:
 ---
 
 {s:UM}
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[émotion](./Registre.md), [mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE); **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]; **Résistance à la magie** oui
 
-Le personnage fait éprouver à sa cible une attirance irrésistible pour un individu de sa connaissance. Quand il lance le sort, il désigne une unique créature qui devient l'objet du désir de sa cible. Par la suite, la cible fait tout son possible pour rester à moins de 9 mètres de l'être désiré. Si la cible dépasse cette distance, elle est [chancelante](./Chancelant.md) jusqu'à ce qu'elle revienne à côté de l'objet de son désir. Si le fait de rester à moins de 9 mètres met la cible en danger, elle a droit à un second [jet de sauvegarde](./jet de sauvegarde.md) pour briser le sort.  
+Le personnage fait éprouver à sa cible une attirance irrésistible pour un individu de sa connaissance. Quand il lance le sort, il désigne une unique créature qui devient l'objet du désir de sa cible. Par la suite, la cible fait tout son possible pour rester à moins de 9 mètres de l'être désiré. Si la cible dépasse cette distance, elle est [[chancelant|chancelante]] jusqu'à ce qu'elle revienne à côté de l'objet de son désir. Si le fait de rester à moins de 9 mètres met la cible en danger, elle a droit à un second [[jet de sauvegarde]] pour briser le sort.  
 
-*Engouement téméraire* contre *[pur dégoût](./Pur dégoût.md)*.
+*Engouement téméraire* contre *[[pur dégoût]]*.

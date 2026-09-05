@@ -10,9 +10,9 @@ Categories:
 
 {s:um}*Le personnage descend d’une longue lignée d’ensorceleurs et certains fragments de leur pouvoir coulent dans ses veines. *
 
-**Conditions.** [Cha](./Cha.md) 13, [Talent](./Talent.md) pour la [compétence](./Tableau récapitulatif des compétences.md) de classe de [lignage](./Lignages.md) choisie pour le don (voir plus bas), personnage de niveau 3
+**Conditions.** [[Cha]] 13, [[Talent]] pour la [[Tableau récapitulatif des compétences|compétence]] de classe de [[lignages|lignage]] choisie pour le don (voir plus bas), personnage de niveau 3
 
-**Avantage.** Le personnage choisit un [lignage](./Lignages.md) d’[ensorceleur](./Ensorceleur.md). Il doit disposer de la compétence de classe que l’ensorceleur obtient au niveau 1 grâce à son lignage (par exemple [Premiers secours](./Premiers secours.md) pour un [lignage céleste](./lignage Céleste.md)). Il ne peut pas s’agir d’un lignage que le personnage possède déjà.
+**Avantage.** Le personnage choisit un [[lignages|lignage]] d’[[ensorceleur]]. Il doit disposer de la compétence de classe que l’ensorceleur obtient au niveau 1 grâce à son lignage (par exemple [[Premiers secours]] pour un [[lignage céleste]]). Il ne peut pas s’agir d’un lignage que le personnage possède déjà.
 
 Le personnage gagne le pouvoir de lignage de niveau 1 du lignage choisi.
 

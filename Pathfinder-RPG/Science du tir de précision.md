@@ -9,14 +9,14 @@ Categories:
 
 *Les attaques du personnage ignorent tout sauf le camouflage et l’abri total.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 19, [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), [bonus de base à l’attaque](./BBA.md) de +11.
+**Conditions.** [[dextérité|Dex]] 19, [[Tir à bout portant]], [[Tir de précision]], [[BBA|bonus de base à l’attaque]] de +11.
 
-**Avantage.** Les attaques à distance du personnage ignorent le bonus à la [classe d’armure](./CA.md) dont bénéficient les créatures cachées derrière un [abri](./abri.md) autre que total ainsi que les chances d’échec liées à un [camouflage](./camouflage.md) autre que total. Un [abri](./abri.md) total ou un [camouflage](./camouflage.md) total conserve ses effets habituels.
+**Avantage.** Les attaques à distance du personnage ignorent le bonus à la [[CA|classe d’armure]] dont bénéficient les créatures cachées derrière un [[abri]] autre que total ainsi que les chances d’échec liées à un [[camouflage]] autre que total. Un [[abri]] total ou un [[camouflage]] total conserve ses effets habituels.
 
-**Normal.** Voir les règles concernant les abris et le camouflage [ici](./abri.md).
+**Normal.** Voir les règles concernant les abris et le camouflage [[abri|ici]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise l’[astuce martiale du Tir de précision](./Endurance et Astuces martiales.md#TIRDEPRECISION), le bonus passe à +4.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise l’[[Endurance et Astuces martiales#TIRDEPRECISION|astuce martiale du Tir de précision]], le bonus passe à +4.

@@ -13,29 +13,29 @@ Categories:
 {s:pucem|Humanoïde|Plaines|Tropical}
 {s:BDTexte|*Source : Codex monstrueux p.72*}
 {s:BDTexte|**PX** 2400}
-{s:BDTexte|[Gnoll](./Gnoll.md) [guerrier](./Guerrier.md) 5}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gnoll](./sous-type-gnoll.md)) de taille M, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[Gnoll]] [[guerrier]] 5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gnoll|gnoll]]) de taille M, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 11, pris au dépourvu 19 (armure +7, bouclier +1, Dex +1, naturelle +1)}
 {s:BDTexte|**pv** 55 (7 DV ; 2d8+5d10+19)}
 {s:BDTexte|**Réf** +3, **Vig** +10, **Vol** +2 (+1 contre la terreur)}
-{s:BDTexte|**Capacités défensives** [courage](./Guerrier.md#COURAGE) +1}
+{s:BDTexte|**Capacités défensives** [[guerrier#COURAGE|courage]] +1}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** *fouet scorpion +1*, +14/+9 (1d4+9)}
 {s:BDTexte|**Distance** javeline de maître, +8/+3 (1d6+5)}
-{s:BDTexte|**Attaques spéciales** [entraînement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) (fléaux +1)}
+{s:BDTexte|**Attaques spéciales** [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] (fléaux +1)}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Pendant le combat.** Le lieutenant gnoll démoralise ses adversaires et fouette ses ennemis de loin.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 12, **Con** 15, **Int** 6, **Sag** 10, **Cha** 12}
 {s:BDTexte|**BBA** +6 ; **BMO** +11 ; **DMD** 22}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (fouet), [Attaque en puissance](./Attaque en puissance.md), [Démonstration](./Démonstration.md), [Force intimidante](./Force intimidante.md), [Maîtrise du fouet](./Maîtrise du fouet.md), [Maniement des armes exotique](./Maniement dune arme exotique.md) (fouet), [Science de la maîtrise du fouet](./Science de la maîtrise du fouet.md)}
-{s:BDTexte|**Compétences** [Intimidation](./Intimidation.md) +16}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (fouet), [[Attaque en puissance]], [[Démonstration]], [[Force intimidante]], [[Maîtrise du fouet]], [[Maniement dune arme exotique|Maniement des armes exotique]] (fouet), [[Science de la maîtrise du fouet]]}
+{s:BDTexte|**Compétences** [[Intimidation]] +16}
 {s:BDTexte|**Langues** gnoll}
-{s:BDTexte|**Particularités** [entraînement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES)}
-{s:BDTexte|**Équipement de combat** *[potions](./Potions magiques.md) de [soins légers](./Soins légers.md)* (2), *[potion](./Potions magiques.md) de [soins modérés](./Soins modérés.md)*, [feux grégeois](./Feu grégeois (objet).md) (3), [pierres-tonnerres](./Pierre tonnerre (objet).md) (2) ; **Équipement divers** [clibanion de maître](./clibanion (armure).md), [rondache en acier de maître](./rondache (armure).md), *[fouet scorpion +1](./fouet scorpion (arme).md)*, [javeline de maître](./javeline (arme).md), *[cape de résistance +1](./Cape de résistance.md)*, 15 po}
+{s:BDTexte|**Particularités** [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]]}
+{s:BDTexte|**Équipement de combat** *[[potions magiques|potions]] de [[soins légers]]* (2), *[[potions magiques|potion]] de [[soins modérés]]*, [[Feu grégeois (objet)|feux grégeois]] (3), [[Pierre tonnerre (objet)|pierres-tonnerres]] (2) ; **Équipement divers** [[clibanion (armure)|clibanion de maître]], [[rondache (armure)|rondache en acier de maître]], *[[fouet scorpion (arme)|fouet scorpion +1]]*, [[javeline (arme)|javeline de maître]], *[[cape de résistance|cape de résistance +1]]*, 15 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -43,29 +43,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Gnoll](./Gnoll.md) || 1
+| [[Gnoll]] || 1
 |-
-| [Flind](./Flind.md) || 3
+| [[Flind]] || 3
 |-
-| [Cogneur gnoll](./Cogneur gnoll.md) || 3
+| [[Cogneur gnoll]] || 3
 |-
-| [Enragé-né gnoll](./Enragé-né gnoll.md) || 3
+| [[Enragé-né gnoll]] || 3
 |-
-| [Sergent gnoll](./Sergent gnoll.md) || 4
+| [[Sergent gnoll]] || 4
 |-
-| [OEil de Lamashtu](./OEil de Lamashtu.md) || 5
+| [[OEil de Lamashtu]] || 5
 |-
-| [Lieutenant gnoll](./Lieutenant gnoll.md) || 6
+| [[Lieutenant gnoll]] || 6
 |-
-| [Chef de meute gnoll](./Chef de meute gnoll.md) || 9
+| [[Chef de meute gnoll]] || 9
 |-
-| [Gardien gnoll](./Gardien gnoll.md) || 10
+| [[Gardien gnoll]] || 10
 |-
-| [Saccageur gnoll](./Saccageur gnoll.md) || 11
+| [[Saccageur gnoll]] || 11
 |-
-| [Élue de Lamashtu](./Élue de Lamashtu.md) || 12
+| [[Élue de Lamashtu]] || 12
 |-
-| [Buda gnoll](./Buda gnoll.md) || 13
+| [[Buda gnoll]] || 13
 |-
 |}
 </div>L’alpha de la meute assigne les rôles de dirigeants à qui bon lui semble.

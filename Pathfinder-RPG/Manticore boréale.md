@@ -13,10 +13,10 @@ Categories:
 <div class="BD">
 {s:BDtitre|Manticore boréale|FP 6}
 {s:pucem|Créature magique|Forêt-Jungle|Froid}
-{s:BDtexte|*Source : [Irrisen, pays de l'hiver éternel p.56](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Irrisen, pays de l'hiver éternel p.56]]*}
 {s:BDtexte|**PX** 2 400}
-{s:BDtexte|[Créature magique](./type Créature magique.md) ([froid](./sous-type froid.md)) de taille G, LM}
-{s:BDtexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) 18 m, [vision nocturne](./Vision nocturne (capacité).md), [odorat](./Odorat (capacité).md) ; [Perception](./Perception.md) +9}
+{s:BDtexte|[[type Créature magique|Créature magique]] ([[sous-type froid|froid]]) de taille G, LM}
+{s:BDtexte|**Init** +2 ; **Sens** [[vision dans le noir (capacité)|vision dans le noir]] 18 m, [[Vision nocturne (capacité)|vision nocturne]], [[Odorat (capacité)|odorat]] ; [[Perception]] +9}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 17, contact 11, pris au dépourvu 15 (Dex +2, naturelle +6, taille -1)}
 {s:BDtexte|**pv** 63 (6d10+30)}
@@ -30,9 +30,9 @@ Categories:
 {s:BDtexte|**Espace occupé** 3 m ; **Allonge** 1,5 m}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 22, **Dex** 15, **Con** 20, **Int** 7, **Sag** 12, **Cha** 9}
-{s:BDtexte|**BBA** +6, **BMO** +13, **DMD** 23 (27 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDtexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épines), [Attaque en vol](./Attaque en vol.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDtexte|**Compétences** [Discrétion](./Discrétion.md) -2 (+2 dans la neige), [Perception](./Perception.md) +9, [Survie](./Survie.md) +4 (+8 dans la neige ou en pistant), [Vol](./Vol.md) -3 ; **Modificateurs raciaux** +4 en Discrétion (dans la neige), +4 en Perception, +4 en Survie (dans la neige ou en pistant)}
+{s:BDtexte|**BBA** +6, **BMO** +13, **DMD** 23 (27 contre le [[croc-en-jambe]])}
+{s:BDtexte|**Dons** [[Arme de prédilection]] (épines), [[Attaque en vol]], [[Vol stationnaire]]}
+{s:BDtexte|**Compétences** [[Discrétion]] -2 (+2 dans la neige), [[Perception]] +9, [[Survie]] +4 (+8 dans la neige ou en pistant), [[Vol]] -3 ; **Modificateurs raciaux** +4 en Discrétion (dans la neige), +4 en Perception, +4 en Survie (dans la neige ou en pistant)}
 {s:BDtexte|**Langues** commun}
 {s:BDtexte|**Particularités** absence de traces}
 {s:BDsoustitre|Écologie}
@@ -41,11 +41,11 @@ Categories:
 {s:BDtexte|**Trésor** standard}
 {s:BDsoustitre|Pouvoirs spéciaux}
 {s:BDtexte|**Absence de traces (Ext).** Une manticore boréale se déplace dans la neige sans laisser de traces et ne peut pas être pistée. Elle peut cependant choisir de laisser des empreintes si elle le désire.}
-{s:BDtexte|**Épines (Ext).** D’un coup de queue, une manticore peut, par une [action simple](./Action simple.md), tirer une volée de quatre épines (elle doit faire un [jet d’attaque](./jet dattaque.md) pour chaque épine). Cette attaque a une portée de 54 mètres sans [facteur de portée](./facteur de portée.md). Toutes les cibles doivent se trouver dans un rayon de 9 mètres les unes des autres. La créature ne peut pas lancer plus de 24 épines par période de 24 heures.}
+{s:BDtexte|**Épines (Ext).** D’un coup de queue, une manticore peut, par une [[action simple]], tirer une volée de quatre épines (elle doit faire un [[jet dattaque|jet d’attaque]] pour chaque épine). Cette attaque a une portée de 54 mètres sans [[facteur de portée]]. Toutes les cibles doivent se trouver dans un rayon de 9 mètres les unes des autres. La créature ne peut pas lancer plus de 24 épines par période de 24 heures.}
 </div>
 </td>
 <td>
-<div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature boréale](./Créature boréale, archétype.md).***</li></ul>
+<div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature boréale, archétype|Créature boréale]].***</li></ul>
 *Cette créature à la fourrure blanche possède une tête vaguement humanoïde, un corps de lion et des ailes de dragon. Sa queue se termine par de longues épines pointues couvertes de glace.*
 
 Depuis l’invasion de Baba Yaga, de nombreuses créatures natives du Royaume glacé des vikings ont disparu, incapables de s’adapter à l’hiver permanent et surnaturel du pays. Cependant, malgré ce changement radical de climat, quelques spécimens particulièrement résistants ont réussi à survivre et, au cours des siècles, les forces magiques qui maintiennent le royaume sous les neiges ont permis l’évolution d’espèces mieux adaptées à ce rude environnement. Dans ce chapitre sont présentées trois de ces créatures et l’archétype hérité permettant de créer d’autres créatures boréales.

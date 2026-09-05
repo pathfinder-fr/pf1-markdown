@@ -79,19 +79,19 @@ Une petite sélection de liens utiles pour vos parties en ligne.
 - [Temple en bois](http://commons.wikimedia.org/wiki/File:Petajavesi_Old_Church.jpg)
 - [Fortification](http://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-2004-255,_Reval,_Olaikirche_mit_Stadtmauer.jpg)
 - [Gorge et cascade](http://commons.wikimedia.org/wiki/File:2005_1031Image0025.jpg)
-- [Gorge](http://commons.wikimedia.org/wiki/File:HR_-_Plitvice_%28Plitvička_Jezera%291.JPG)
+- [Gorge](http://commons.wikimedia.org/wiki/File:HR_-_Plitvice_%28Plitvi%C4%8Dka_Jezera%291.JPG)
 - [Maison isolée](http://commons.wikimedia.org/wiki/File:Asinou_eklisia.jpg)
 - [Rocher runique](http://commons.wikimedia.org/wiki/File:Runenstenen_Jelling.jpg.jpg)
 - [Un temple](http://commons.wikimedia.org/wiki/File:Kromeriz_zamok_04.jpg)
-- [Un lieu de repos](http://commons.wikimedia.org/wiki/File:Church_of_St_John_of_Nepomuk_at_Zelena_aora_CZ.jpg) et son [temple](http://commons.wikimedia.org/wiki/File:Zelená_hora_-_poutní_kostel.jpg)
+- [Un lieu de repos](http://commons.wikimedia.org/wiki/File:Church_of_St_John_of_Nepomuk_at_Zelena_aora_CZ.jpg) et son [temple](http://commons.wikimedia.org/wiki/File:Zelen%C3%A1_hora_-_poutn%C3%AD_kostel.jpg)
 - [Un lieu de savoir](http://commons.wikimedia.org/wiki/File:Gelati_monastery.jpg)
 - [Dominer la plaine](http://commons.wikimedia.org/wiki/File:Jvari_monastery,_outside_Mtsketa.jpg)
 - [Une petit demeure](http://upload.wikimedia.org/wikipedia/commons/e/e9/Samtvro_chappel.jpg)
-- [un village de tours](http://commons.wikimedia.org/wiki/File:Murymeli.JPG) et  [Vue de haut](http://commons.wikimedia.org/wiki/File:მურყმელი.JPG)
+- [un village de tours](http://commons.wikimedia.org/wiki/File:Murymeli.JPG) et  [Vue de haut](http://commons.wikimedia.org/wiki/File:%E1%83%9B%E1%83%A3%E1%83%A0%E1%83%A7%E1%83%9B%E1%83%94%E1%83%9A%E1%83%98.JPG)
 - [Demeure de prince](http://fr.wikipedia.org/wiki/Fichier:Chateau_Fontainebleau.jpg)
 - [Tour de gaie](http://commons.wikimedia.org/wiki/File:Burgtor_im_Park_Sieglitzer_Berg.jpg)
 - [Une maison](http://commons.wikimedia.org/wiki/File:Wallwachhaus_Rehsen.JPG)
-- [Tour de guet romaine](http://commons.wikimedia.org/wiki/File:Römerwatchturm.JPG)
+- [Tour de guet romaine](http://commons.wikimedia.org/wiki/File:R%C3%B6merwatchturm.JPG)
 - [Château fort](http://commons.wikimedia.org/wiki/File:Wartburg_aus_Suedwest.jpg)
 - [Plage?](http://commons.wikimedia.org/wiki/File:Rock_pools,_Dancing_Ledge_-_geograph.org.uk_-_208469.jpg)
 - [Le rocher dressé](http://commons.wikimedia.org/wiki/File:Oldharryandwife.jpg)
@@ -116,7 +116,7 @@ Une petite sélection de liens utiles pour vos parties en ligne.
 
 #### Désertique
 - [Temple oriental](http://fr.wikipedia.org/wiki/Fichier:Chinguetti_mosquee.jpg)
-- [Un autre Temple](http://fr.wikipedia.org/wiki/Fichier:Great_Mosque_of_Djenné_1.jpg)
+- [Un autre Temple](http://fr.wikipedia.org/wiki/Fichier:Great_Mosque_of_Djenn%C3%A9_1.jpg)
 - [L'intérieur d'une ville](http://fr.wikipedia.org/wiki/Fichier:Ghadames_Panorama_April_2004.jpg)
 - [Colline](http://fr.wikipedia.org/wiki/Fichier:Gebel_Barkal.jpg)
 
@@ -124,7 +124,7 @@ Une petite sélection de liens utiles pour vos parties en ligne.
 - [En montagne](http://fr.wikipedia.org/wiki/Fichier:Yellowstonewinter.jpg)
 
 #### Patrimoine_mondial
-- [Une compilation d'images](http://fr.wikipedia.org/wiki/Portail:Patrimoine_mondial/Arrêt_sur_image)
+- [Une compilation d'images](http://fr.wikipedia.org/wiki/Portail:Patrimoine_mondial/Arr%C3%AAt_sur_image)
 
 #### Paysage
 - [Vallée](http://commons.wikimedia.org/wiki/File:VittfarneGeorgien_155.jpg)
@@ -157,7 +157,7 @@ Une petite sélection de liens utiles pour vos parties en ligne.
 - [La ville dans la montagne](http://fr.wikipedia.org/wiki/Fichier:Bartlett_tombs_petra_1845.jpg)
 
 #### Article et image
-- [La cité médiévale de Carcassonne](http://fr.wikipedia.org/wiki/Cité_de_Carcassonne)
+- [La cité médiévale de Carcassonne](http://fr.wikipedia.org/wiki/Cit%C3%A9_de_Carcassonne)
 
 #### Mosaique
 - [La dame et le cygne](http://commons.wikimedia.org/wiki/File:Leda_mosaic_crop.jpg)

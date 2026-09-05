@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage peut invoquer plus de créatures. *
 
-**Conditions.** [Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md) , lanceur de sorts niveau 3
+**Conditions.** [[Amélioration des créatures convoquées]] , lanceur de sorts niveau 3
 
-**Avantage.** À chaque fois que le personnage lance un sort de [convocation](./Présentation des sorts.md#CONVOCATION) qui appelle plus d’une créature, il en convoque une de plus.
+**Avantage.** À chaque fois que le personnage lance un sort de [[Présentation des sorts#CONVOCATION|convocation]] qui appelle plus d’une créature, il en convoque une de plus.

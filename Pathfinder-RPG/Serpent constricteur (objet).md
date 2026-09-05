@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 po ; **Poids** 30 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces reptiles de taille M vivent surtout dans les climats chauds. Assez agressifs, les constricteurs étouffent leurs proies jusqu’à ce que mort s’ensuive et les dévorent. En raison de leur taille, ces serpents ne sont pas très recherchés par les lanceurs de sorts itinérants mais ils peuvent se montrer utiles en laboratoire. Voir les statistiques du [serpent constricteur](./Serpent constricteur.md).
+Ces reptiles de taille M vivent surtout dans les climats chauds. Assez agressifs, les constricteurs étouffent leurs proies jusqu’à ce que mort s’ensuive et les dévorent. En raison de leur taille, ces serpents ne sont pas très recherchés par les lanceurs de sorts itinérants mais ils peuvent se montrer utiles en laboratoire. Voir les statistiques du [[serpent constricteur]].

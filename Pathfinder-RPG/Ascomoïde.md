@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Plante|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 page 17*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Plante](./type Plante.md) de taille G, N}
-{s:BDTexte|**Init** +1 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Plante|Plante]] de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 10, pris au dépourvu 16 (Dex +1, naturelle +7, taille -1)}
 {s:BDTexte|**pv** 52 (7d8+21)}
 {s:BDTexte|**Réf** +3, **Vig** +8, **Vol** +2}
-{s:BDTexte|**Immunités** [traits des plantes](./Traits des plantes.md) ; **RD** 10/perforant ; **Résistances** électricité 10, feu 10 }
+{s:BDTexte|**Immunités** [[traits des plantes]] ; **RD** 10/perforant ; **Résistances** électricité 10, feu 10 }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m}
 {s:BDTexte|**Corps à corps** coup +8 (2d8+6)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [piétinement](./Piétinement.md) (2d8+6, DD 17), poison, spores}
+{s:BDTexte|**Attaques spéciales** [[piétinement]] (2d8+6, DD 17), poison, spores}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 13, **Con** 17, **Int** -, **Sag** 11, **Cha** 1}
 {s:BDTexte|**BBA** +5, **BMO** +10, **DMD** 21 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Science du renversement](./Science du renversement.md)<sup>B</sup>)}
+{s:BDTexte|**Dons** [[Science du renversement]]<sup>B</sup>)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** sous terre}
 {s:BDTexte|**Organisation sociale** solitaire ou grappe (2-8)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Poison (Ext)** Spores - inhalation ; *JdS* Vigueur DD16 ; *fréquence* 1/round pendant 6 rounds, *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [Force](./Force.md), *guérison* 2 réussites consécutives. Le DD du JdS est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Poison (Ext)** Spores - inhalation ; *JdS* Vigueur DD16 ; *fréquence* 1/round pendant 6 rounds, *effet* [[affaiblissement temporaire]] 1d2 [[Force]], *guérison* 2 réussites consécutives. Le DD du JdS est basé sur la [[Constitution]].}
 {s:BDTexte|**Spores (Ext)** Une fois par round, par une action libre, l’ascomoïde peut libérer un jet de spores mortelles sur une ligne de 9 m. Lorsque le jet entre en contact avec une surface solide, comme un mur ou une créature, il se transforme en un nuage de spores occupant une zone de 3 m de rayon. Ce nuage plane pendant 1 round avant de se disperser. Toutes les créatures présentes dans le nuage doivent réussir un jet de Vigueur DD 16 sinon, elles sont nauséeuses et le restent jusqu’à ce qu’elles quittent la zone. Toutes les créatures qui ratent leur jet de sauvegarde contre la nausée sont également exposées au poison de l’ascomoïde (cf. ci-dessus). Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 
@@ -91,7 +91,7 @@ immonde gâchis.
 
 #### Champignon flottant comme compagnon végétal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), vol 18 m (12 {s:c}, moyenne) ; **CA** armure naturelle +1 ; **Attaque** épine (1d4 + poison) ; **Attaque spéciale**  poison (Fréquence 1 round 6, Effet 1 affaiblissement Con, Guérison 1 JdS, DD basé sur la Constitution) ; **Caractéristiques** For 10, Dex 15, Con 12, Int 2, Sag 14, Cha 6 ; **Particularités** [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), vol 18 m (12 {s:c}, moyenne) ; **CA** armure naturelle +1 ; **Attaque** épine (1d4 + poison) ; **Attaque spéciale**  poison (Fréquence 1 round 6, Effet 1 affaiblissement Con, Guérison 1 JdS, DD basé sur la Constitution) ; **Caractéristiques** For 10, Dex 15, Con 12, Int 2, Sag 14, Cha 6 ; **Particularités** [[vision nocturne]].
 
 **Développement au niveau 4.** **Caractéristiques** For +2, Con +2.
 </div></td></tr></table>

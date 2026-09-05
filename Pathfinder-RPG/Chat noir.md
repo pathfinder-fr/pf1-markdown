@@ -10,8 +10,8 @@ Categories:
 
 {s:mr}*Ceux qui osent contrarier l’homme-félin sont frappés de malchance.*
 
-**Conditions.** [Homme-félin](./homme-félin (race).md)
+**Conditions.** [[Homme-félin (race)|Homme-félin]]
 
-**Avantages.** Une fois par jour et par une [action immédiate](./Action immédiate.md), lorsqu’il est touché par une attaque de corps à corps, l’homme-félin peut forcer l’adversaire qui a porté l’attaque à refaire son jet avec un malus de -4. L’adversaire doit prendre le résultat du second jet. Il s’agit d’une capacité surnaturelle.
+**Avantages.** Une fois par jour et par une [[action immédiate]], lorsqu’il est touché par une attaque de corps à corps, l’homme-félin peut forcer l’adversaire qui a porté l’attaque à refaire son jet avec un malus de -4. L’adversaire doit prendre le résultat du second jet. Il s’agit d’une capacité surnaturelle.
 
 **Spécial.** Si l’homme-félin prend ce don et n’a pas déjà une fourrure toute noire, alors sa celle-ci devient complètement noire lorsqu’il le choisit.

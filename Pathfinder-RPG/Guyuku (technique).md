@@ -7,21 +7,21 @@ Categories:
 - Src Book of the Damned
 ---
 
-{s:DieuTech|Guyuku|Le démon des mers| |[Onis daimyo](./Divinités.md#ONISDAIMYO)
+{s:DieuTech|Guyuku|Le démon des mers| |[[Divinités#ONISDAIMYO|Onis daimyo]]
 |Chaotique Mauvais|Piraterie, thé, tsunamis
 |N'importe|Aucun
-|[Épée à neuf anneaux](./épée à neuf anneaux (arme).md)
-|[Chaos](./Domaine du Chaos.md), [Eau](./Domaine de lEau.md), [Force](./Domaine de la Force.md), [Mal](./Domaine du Mal.md)
-|[Entropie](./Domaine du Chaos.md), [Férocité](./Domaine de la Force.md), [Océans](./Domaine de lEau.md), [Peur](./Domaine du Mal.md)
+|[[Épée à neuf anneaux (arme)|Épée à neuf anneaux]]
+|[[Domaine du Chaos|Chaos]], [[Domaine de lEau|Eau]], [[Domaine de la Force|Force]], [[Domaine du Mal|Mal]]
+|[[Domaine du Chaos|Entropie]], [[Domaine de la Force|Férocité]], [[Domaine de lEau|Océans]], [[Domaine du Mal|Peur]]
 |—}
 {s:cs}{s:BotD}
 ### Obédience
-Organiser une cérémonie du thé au bord d'un océan ou avec les yeux bandés. Gain d'un bonus de malfaisance de +4 aux [jets de sauvegarde](./JDS.md) contre les effets basés sur l'eau.
+Organiser une cérémonie du thé au bord d'un océan ou avec les yeux bandés. Gain d'un bonus de malfaisance de +4 aux [[jds|jets de sauvegarde]] contre les effets basés sur l'eau.
 
 #### Faveurs (Onis daimyo)
-Les onis daimyo font partie des [onis](./Oni.md) les plus puissants que l'on puisse croiser. Ils règnent sur des domaines dans les régions les plus isolées du plan Matériel. Bien qu'ils aient dépassé la puissance de leurs incarnations inférieures pour atteindre un statut de demi-dieux, ils n'affichent pas leur pouvoir et préfèrent habiter dans des coins reculés de l'immense territoire du continent oriental.
+Les onis daimyo font partie des [[Oni|onis]] les plus puissants que l'on puisse croiser. Ils règnent sur des domaines dans les régions les plus isolées du plan Matériel. Bien qu'ils aient dépassé la puissance de leurs incarnations inférieures pour atteindre un statut de demi-dieux, ils n'affichent pas leur pouvoir et préfèrent habiter dans des coins reculés de l'immense territoire du continent oriental.
 
-Un oni daimyo est toujours d'alignement Mauvais mais peut être Chaotique, Loyam ou Neutre. Leur puissance varie de [FP](./FP.md) 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) utilisables deux fois par jour chacun.
-- **1.** *[vague](./Vague.md)*
-- **2.** *[controle de l'eau](./Contrôle de leau.md)*
-- **3.** *[festin des héros](./Festin des héros.md)*
+Un oni daimyo est toujours d'alignement Mauvais mais peut être Chaotique, Loyam ou Neutre. Leur puissance varie de [[FP]] 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables deux fois par jour chacun.
+- **1.** *[[vague]]*
+- **2.** *[[Contrôle de leau|controle de l'eau]]*
+- **3.** *[[festin des héros]]*

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2* p.234}
 {s:BDTexte|**PX** 9.600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [qlippoth](./sous-type qlippoth.md)) de taille M, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 cases) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type qlippoth|qlippoth]]) de taille M, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 cases) ; [[Perception]] +17}
 {s:BDTexte|**Aura** puanteur (DD 18, 10 rounds)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 15, pris au dépourvu 19 (Dex +5, naturelle +9)}
@@ -28,14 +28,14 @@ Categories:
 {s:BDTexte|**Espace** 1,50 m (1 case) ; **Allonge** 9 m (6 cases)}
 {s:BDTexte|**Attaques spéciales** apparence horrible (DD 18)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 10), concentration +13}
-{s:BDSorts|À volonté — *[flèche acide](./Flèche acide.md)*}
-{s:BDSorts|7/jour — *[protection contre la Loi](./Protection contre la Loi.md)*, *[terreur](./Terreur.md)* (DD 17)}
-{s:BDSorts|1/jour — *[brume acide](./Brume acide.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*}
+{s:BDSorts|À volonté — *[[flèche acide]]*}
+{s:BDSorts|7/jour — *[[protection contre la Loi]]*, *[[terreur]]* (DD 17)}
+{s:BDSorts|1/jour — *[[brume acide]]*, *[[porte dimensionnelle]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 21, **Con** 24, **Int** 9, **Sag** 19, **Cha** 16}
 {s:BDTexte|**BBA** +10, **BMO** +13, **DMD** 28 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Frappe décisive](./Frappe décisive.md), [Science du critique](./Science du critique.md) (morsure)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (plans) +12, [Discrétion](./Discrétion.md) +18, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +17, [Vol](./Vol.md) +22}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Attaque en puissance]], [[Attaques réflexes]], [[Frappe décisive]], [[Science du critique]] (morsure)}
+{s:BDTexte|**Compétences** [[Connaissances]] (plans) +12, [[Discrétion]] +18, [[Intimidation]] +16, [[Perception]] +17, [[Vol]] +22}
 {s:BDTexte|**Langues** abyssal ; télépathie 30 m}
 {s:BDTexte|**Particularités** vol}
 {s:BDSousTitre|Écologie}
@@ -47,7 +47,7 @@ Categories:
 {s:BDTexte|**Aspersion d’acide (Sur).** Le corps d’un nyogoth est rempli de fluides digestifs hautement corrosifs. Chaque fois qu’un nyogoth est blessé par une arme tranchante ou perforante, toutes les créatures adjacentes au nyogoth subissent 1d6 points de dégâts d’acide (2d6 points de dégâts d’acide si l’attaque était un coup critique).}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [qlippoths](./Qlippoth.md).***</li></ul>*Cette créature ressemble à un amas flottant d’intestins enchevêtrés autour de mâchoires acérées. Ses tentacules eux aussi se terminent par des gueules dangereuses.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Qlippoth|qlippoths]].***</li></ul>*Cette créature ressemble à un amas flottant d’intestins enchevêtrés autour de mâchoires acérées. Ses tentacules eux aussi se terminent par des gueules dangereuses.*
 
 Dans les Abysses, les nyogoths occupent le rôle de
 charognards. Ces créatures grouillantes qui apparaissent comme

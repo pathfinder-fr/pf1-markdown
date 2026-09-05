@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Vermine|Souterrain|Tempéré}
 - *Source : Bestiaire 2* p.254
 - **PX** 1 200
-- **[Vermine](./type Vermine.md)** de taille M, N
-- **Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}); [Perception](./Perception.md) +4
+- **[[type Vermine|Vermine]]** de taille M, N
+- **Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}); [[Perception]] +4
 (((Défense)))
 - **CA** 17, contact 11, pris au dépourvu 16 (Dex +1, naturelle +6)
 - **pv** 45 (6d8+18)
@@ -23,11 +23,11 @@ Categories:
 (((Attaque)))
 - **VD** 15 m (10 {s:c}), escalade 9 m (6 {s:c})
 - **Corps à corps** morsure, +7 (1d8+3) et 2 pinces, +7 (1d4+3)
-- **Attaques spéciales** [bond](./Bond.md), [éventration](./Éventration.md) (2 pinces, 1d6+4)
+- **Attaques spéciales** [[bond]], [[éventration]] (2 pinces, 1d6+4)
 (((Statistiques)))
 - **For** 16, **Dex** 13, **Con** 17, **Int** — , **Sag** 11, **Cha** 2
-- **BBA** +4 ; **BMO** +7 ; **DMD** 18 (26 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Compétences** [Discrétion](./Discrétion.md) +5, [Escalade](./Escalade.md) +11, [Perception](./Perception.md) +4 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md), +8 en [Escalade](./Escalade.md), +4 en [Perception](./Perception.md)
+- **BBA** +4 ; **BMO** +7 ; **DMD** 18 (26 contre [[croc-en-jambe]])
+- **Compétences** [[Discrétion]] +5, [[Escalade]] +11, [[Perception]] +4 ; **Modificateurs raciaux** +4 en [[Discrétion]], +8 en [[Escalade]], +4 en [[Perception]]
 (((Écologie)))
 - **Environnement** sous terre
 - **Organisation sociale** solitaire, couple ou colonie (3–6)
@@ -40,9 +40,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Solifuge albinos des cavernes](./Solifuge albinos des cavernes.md) || 4
+| [[Solifuge albinos des cavernes]] || 4
 |-
-| [Solifuge géant](./Solifuge géant.md) || 1
+| [[Solifuge géant]] || 1
 |}
 </div>*Les pattes avant de cette espèce d’araignée se terminent par d’immenses pinces préhensiles. Sa gueule comporte une paire de mandibules verticales gigantesques.*
 

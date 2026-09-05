@@ -9,14 +9,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [transmutation](./Transmutation.md) ; **Niveau** [barde](./Barde.md) 2, [conjurateur](./Conjurateur.md) 2, [magus](./Magus.md) 2, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 2  
+**École** [[transmutation]] ; **Niveau** [[barde]] 2, [[conjurateur]] 2, [[magus]] 2, [[ensorceleur]]/[[magicien]] 2  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui  
 
-**Restriction de cible** *[choisi](./Choisi.md)*
+**Restriction de cible** *[[choisi]]*
 
-La cible est [chancelante](./Chancelant.md) pendant la durée de l’effet. Elle peut faire un nouveau [jet de sauvegarde](./jet de sauvegarde.md) contre celui-ci à la fin de chaque tour ; en cas de réussite, l’effet prend fin.  
+La cible est [[chancelant|chancelante]] pendant la durée de l’effet. Elle peut faire un nouveau [[jet de sauvegarde]] contre celui-ci à la fin de chaque tour ; en cas de réussite, l’effet prend fin.  
 
-:**Augmentation :** La cible ne reçoit aucun [jet de sauvegarde](./jet de sauvegarde.md) supplémentaire pour mettre fin à l’effet. Si elle rate le premier, elle est [chancelante](./Chancelant.md) pour toute sa durée.
+:**Augmentation :** La cible ne reçoit aucun [[jet de sauvegarde]] supplémentaire pour mettre fin à l’effet. Si elle rate le premier, elle est [[chancelant|chancelante]] pour toute sa durée.

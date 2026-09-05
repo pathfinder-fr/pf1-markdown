@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Halgrim est la plus grande ville des [Terres des Rois des Linnorms](./Terres des Rois des Linnorms.md) après la capitale [Kalsgard](./Kalsgard.md).
+Halgrim est la plus grande ville des [[Terres des Rois des Linnorms]] après la capitale [[Kalsgard]].
 
 La ville est située sur la côte nord-est de l'une des plus grandes îles de l'archipel du Lien de Fer. Le royaume qui est associé à cette cité est dirigé par la seule femme ayant le titre de Roi des Linnorms : Estrid la Blanche.

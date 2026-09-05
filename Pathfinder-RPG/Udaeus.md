@@ -12,11 +12,11 @@ Categories:
 {s:pucem|Humanoïde|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 277*}
 {s:BDTexte|**PX** 1 200 PX}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([mythique](./sous-type mythique.md), [udaeus](./sous-type udaeus.md)) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type mythique|mythique]], [[sous-type udaeus|udaeus]]) de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 11, pris au dépourvu 21 (armure +7, Dex +1, naturelle +1, bouclier +3)}
-{s:BDTexte|**pv** 38 (4d8+20) ; [guérison accélérée](./guérison accélérée.md) 1}
+{s:BDTexte|**pv** 38 (4d8+20) ; [[guérison accélérée]] 1}
 {s:BDTexte|**Réf** +2, **Vig** +7, **Vol** +2}
 {s:BDTexte|**Résistances** feu 30 (voir résistance aux énergies ci-dessous)}
 {s:BDSousTitre|Attaque}
@@ -25,12 +25,12 @@ Categories:
 {s:BDTexte|**Distance** javeline de maître, +5 (1d6+3)}
 {s:BDTexte|**Attaque spéciale** amélioration des armes et des armures, pouvoir mythique (1/jour, montée en puissance +1d6)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 4 ; concentration +3)}
-{s:BDSorts|1/jour — *[coup au but](./Coup au but.md)*, *[peau d’écorce](./Peau décorce.md)*}
+{s:BDSorts|1/jour — *[[coup au but]]*, *[[peau décorce|peau d’écorce]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 13, **Con** 16, **Int** 10, **Sag** 12, **Cha** 9}
 {s:BDTexte|**BBA** +3, **BMO** +6, **DMD** 17}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épieu), [Endurance](./Endurance.md), [Spécialisation martiale](./Spécialisation martiale.md) (épieu)}
-{s:BDTexte|**Compétences** [Intimidation](./Intimidation.md) +3, [Perception](./Perception.md) +15}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épieu), [[Endurance]], [[Spécialisation martiale]] (épieu)}
+{s:BDTexte|**Compétences** [[Intimidation]] +3, [[Perception]] +15}
 {s:BDTexte|**Langues** céleste, commun}
 {s:BDTexte|**Particularités** formation au maniement des armes et au port des armures, formation de guerrier}
 {s:BDSousTitre|Écologie}

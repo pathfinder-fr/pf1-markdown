@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Collines|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2 page 23*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([agathion](./sous-type agathion.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md)) de taille TP, NB}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type agathion|agathion]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]]) de taille TP, NB}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 13 (Dex +2, naturelle +1, taille +2)}
 {s:BDTexte|**pv** 13 (2d10+2)}
@@ -24,29 +24,29 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 27 m (18 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** morsure, +6 (1d3-4) et 2 griffes, +6 (1d2-4)}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond (capacité).md), force héroïque}
+{s:BDTexte|**Attaques spéciales** [[bond (capacité)|bond]], force héroïque}
 {s:BDTexte|**Pouvoirs magiques** (NLS 2), concentration +3}
-{s:BDSorts|Constant — *[communication avec les animaux](./Communication avec les animaux.md)*, *[repérage](./Repérage.md)*}
-{s:BDSorts|À volonté — *[lumières dansantes](./Lumières dansantes.md)*,  *[prestidigitation](./Prestidigitation.md)*, *[stabilisation](./Stabilisation.md)*}
-{s:BDSorts|1/jour — *[porte dimensionnelle](./Porte dimensionnelle.md)* (lui-même et 2,5 kg d'objets uniquement)}
-{s:BDSorts|1/semaine — *[communion](./Communion.md)* (6 questions, NLS 12)}
+{s:BDSorts|Constant — *[[communication avec les animaux]]*, *[[repérage]]*}
+{s:BDSorts|À volonté — *[[lumières dansantes]]*,  *[[prestidigitation]]*, *[[stabilisation]]*}
+{s:BDSorts|1/jour — *[[porte dimensionnelle]]* (lui-même et 2,5 kg d'objets uniquement)}
+{s:BDSorts|1/semaine — *[[communion]]* (6 questions, NLS 12)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 15, **Con** 12, **Int** 10, **Sag** 12, **Cha** 13}
-{s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 8 (12 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>, [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11, [Connaissances](./Connaissances.md) (mystères) +5, [Connaissances](./Connaissances.md) (plans) +5, [Discrétion](./Discrétion.md) +19, [Escalade](./Escalade.md) +7, [Perception](./Perception.md) +10, [Vol](./Vol.md) +6 ; **Modificateurs raciaux** +4 en [Acrobaties](./Acrobaties.md), +4 en [Discrétion](./Discrétion.md), +4 en [Perception](./Perception.md)}
-{s:BDTexte|**Langues** céleste, draconique, infernal ; *[communication avec les animaux](./Communication avec les animaux.md)*, langage universel}
+{s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 8 (12 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>B</sup>, [[science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11, [[Connaissances]] (mystères) +5, [[Connaissances]] (plans) +5, [[Discrétion]] +19, [[Escalade]] +7, [[Perception]] +10, [[Vol]] +6 ; **Modificateurs raciaux** +4 en [[Acrobaties]], +4 en [[Discrétion]], +4 en [[Perception]]}
+{s:BDTexte|**Langues** céleste, draconique, infernal ; *[[communication avec les animaux]]*, langage universel}
 {s:BDTexte|**Particularités** brume spectrale, chance des félins, imposition des mains (1d6, 1/jour, toujours comme un paladin de niveau 2), vol}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme (Nirvana)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3–10)}
 {s:BDTexte|**Trésor** standart}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Brume spectrale (Sur).**Un silvanshie peut prendre la forme d’une brume mystérieuse ayant approximativement la même taille qu’un chat. Cette capacité produit des effets similaires à *[état gazeux](./État gazeux.md)* si ce n’est que le silvanshie conserve sa [RD](./RD.md) et ses capacités surnaturelles et qu’il peut se déplacer à sa vitesse normale. Il peut rester sous cette forme de brume pendant un maximum de 5 minutes par jour. Ce quota journalier ne doit pas forcément être utilisé en une seule fois mais chaque utilisation doit correspondre à un nombre entier de minutes.}
-{s:BDTexte|**Chance des félins (Sur).** Un silvanshie ajoute son modificateur de [Charisme](./Charisme.md) en tant que bonus de chance à tous ses [jets de sauvegarde](./jet de sauvegarde.md). Une fois par jour, par une [action simple](./Action simple.md), il peut également octroyer ce bonus à un allié situé à 9 mètres (6 {s:c})ou moins pendant 10 minutes.}
-{s:BDTexte|**Force héroïque (Sur).** Une fois par jour, un silvanshee peut s’octroyer un bonus d’altération de +8 en [Force](./Force.md) pendant 1 minute.}
+{s:BDTexte|**Brume spectrale (Sur).**Un silvanshie peut prendre la forme d’une brume mystérieuse ayant approximativement la même taille qu’un chat. Cette capacité produit des effets similaires à *[[état gazeux]]* si ce n’est que le silvanshie conserve sa [[RD]] et ses capacités surnaturelles et qu’il peut se déplacer à sa vitesse normale. Il peut rester sous cette forme de brume pendant un maximum de 5 minutes par jour. Ce quota journalier ne doit pas forcément être utilisé en une seule fois mais chaque utilisation doit correspondre à un nombre entier de minutes.}
+{s:BDTexte|**Chance des félins (Sur).** Un silvanshie ajoute son modificateur de [[Charisme]] en tant que bonus de chance à tous ses [[jet de sauvegarde|jets de sauvegarde]]. Une fois par jour, par une [[action simple]], il peut également octroyer ce bonus à un allié situé à 9 mètres (6 {s:c})ou moins pendant 10 minutes.}
+{s:BDTexte|**Force héroïque (Sur).** Une fois par jour, un silvanshee peut s’octroyer un bonus d’altération de +8 en [[Force]] pendant 1 minute.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [agathions](./Agathion.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[agathion|agathions]].***</li></ul>
 *Ce chat noir aux rayures grises a des yeux violet et une étrange tache blanche sur le torse.*
 
 Les silvanshies sont des agathions félins curieux mais solitaires. Ces créatures qui, contrairement aux agathions d’apparence plus humaine, peuvent passer inaperçues et se fondre parmi les animaux normaux, sont les yeux et les oreilles des plans Supérieurs au sein du monde des mortels. La plupart d’entre eux sillonnent les collines, les forêts et les plaines à la recherche d’influences maléfiques. Ils peuvent être accueillis comme familiers par les lanceurs de sorts bons de niveau 7 qui possèdent le don Familier supérieur et remplissent les conditions adéquates. Comme familiers, les silvanshies agissent comme des guides en matière de morale et incitent leurs alliés mortels à aller affronter les forces corruptrices qui doivent être éliminées. Dans certaines régions, on les appelle cat sith ou cat sidhe et on les prend pour des sorcières ou des fées déguisées aux intentions parfois maléfiques (une autre raison pour laquelle les silvanshies évitent les étrangers).

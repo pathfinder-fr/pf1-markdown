@@ -11,10 +11,10 @@ Categories:
 
 {s:MPNJ}*La capacité du personnage à désarmer et à déséquilibrer ses ennemis avec son fouet est impressionnante.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Fouet-serpent](./Fouet-serpent.md), [BBA](./BBA.md) +4
+**Conditions.** [[Fouet-serpent]], [[BBA]] +4
 
-**Avantages.** Lorsque le personnage réussit une manœuvre de [désarmement](./désarmement.md) ou de [croc-en-jambe](./croc-en-jambe.md) avec son don Fouet-serpent, il peut tenter une manœuvre supplémentaire de ce type contre n’importe quelle cible à portée d’allonge de son fouet.
+**Avantages.** Lorsque le personnage réussit une manœuvre de [[désarmement]] ou de [[croc-en-jambe]] avec son don Fouet-serpent, il peut tenter une manœuvre supplémentaire de ce type contre n’importe quelle cible à portée d’allonge de son fouet.
 
 Avec une manœuvre de repositionnement, il peut déplacer la créature sur n’importe quelle position à portée d’allonge de son fouet.

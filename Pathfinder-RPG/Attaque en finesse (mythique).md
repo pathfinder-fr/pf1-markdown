@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage est un expert dans la manipulation des armes qui exploitent l’agilité de leurs utilisateurs.*
 
-**Condition.** [Attaque en finesse](./Attaque en finesse.md)
+**Condition.** [[Attaque en finesse]]
 
-**Avantage.** Lorsqu’il utilise [Attaque en finesse](./Attaque en finesse.md), le personnage peut également utiliser son modificateur de [Dextérité](./Dextérité.md) à la place de celui de [Force](./Force.md) aux jets de dégâts. S’il porte un bouclier, son malus d’armure aux tests ne s’applique ni aux jets d’attaque ni aux jets de dégâts.
+**Avantage.** Lorsqu’il utilise [[Attaque en finesse]], le personnage peut également utiliser son modificateur de [[Dextérité]] à la place de celui de [[Force]] aux jets de dégâts. S’il porte un bouclier, son malus d’armure aux tests ne s’applique ni aux jets d’attaque ni aux jets de dégâts.

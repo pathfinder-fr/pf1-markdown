@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Atténuante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Atténuante](./Descriptions individuelles des propriétés spéciales des armes.md#Atténuante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Atténuante]]

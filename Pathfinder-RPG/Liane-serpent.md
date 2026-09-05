@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.186}
 {s:BDTexte|**PX** 25.600}
-{s:BDTexte|[Plante](./type Plante.md) de taille G, N}
-{s:BDTexte|**Init** +8 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Plante|Plante]] de taille G, N}
+{s:BDTexte|**Init** +8 ; **Sens** [[perception des vibrations]] 18 m, [[vision nocturne]] ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 27, contact 14, pris au dépourvu 22 (Dex +4, esquive +1, naturelle +13, taille –1)}
 {s:BDTexte|**pv** 190 (20d8+100)}
@@ -28,8 +28,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 19, **Con** 19, **Int** 1, **Sag** 10, **Cha** 6}
 {s:BDTexte|**BBA** +15, **BMO** +24 (+28 lutte), **DMD** 39 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Arme de prédilection](./Arme de prédilection.md) (tentacule), [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md),  [Science de linitiative|Science de l’initiative], [Science du critique] (morsure)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +13, [Perception](./Perception.md) +13}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Arme de prédilection]] (tentacule), [[Attaque en puissance]], [[Attaques multiples]], [[Attaques réflexes]], [[Esquive]], [[Réflexes surhumains]], [[Robustesse]],  [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure)}
+{s:BDTexte|**Compétences** [[Discrétion]] +13, [[Perception]] +13}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts/marais tempérés ou chauds}
 {s:BDTexte|**Organisation sociale** solitaire}
@@ -48,7 +48,7 @@ restes de ses victimes. Il n’est pas rare d’y trouver des carcasses animales
 
 #### La Plante carnivore comme compagnon végétal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m (6 {s:c}), escalade 3 m (2 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 10, Dex 17, Con 15, Int 2, Sag 12, Cha 10 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m (6 {s:c}), escalade 3 m (2 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 10, Dex 17, Con 15, Int 2, Sag 12, Cha 10 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (2d6) ; **Attaque spéciale**  [rage de berseker](./Barbare.md#RAGEDEBERSERKER) (1/jour comme le pouvoir de [barbare](./Barbare.md) pendant 6 rounds) ; **Caractéristiques** For +4, Dex -2, Con +2.
+**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (2d6) ; **Attaque spéciale**  [[barbare#RAGEDEBERSERKER|rage de berseker]] (1/jour comme le pouvoir de [[barbare]] pendant 6 rounds) ; **Caractéristiques** For +4, Dex -2, Con +2.
 </div></td></tr></table>

@@ -7,6 +7,6 @@ Categories:
 RedirectTo: États préjudiciables#Fatigué
 ---
 
->>> [États préjudiciables#Fatigué](./États préjudiciables.md#Fatigué)
+>>> [[États préjudiciables#Fatigué]]
 
 Un personnage fatigué est dans l’incapacité de courir et de charger. Il subit un malus de -2 en Force ainsi qu’en Dextérité. La fatigue se dissipe au bout de huit heures de repos total. Un personnage fatigué devient épuisé dès qu’il fait quoi que ce soit qui causerait un nouvel état fatigué.

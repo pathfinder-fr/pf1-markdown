@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 200 po ; **Poids** 1 kg ; **Divinité associée** [toutes](./../Golarion/Religions et philosophies.md)
-<span class="Catégorie">**Catégorie** [Focalisateurs de canalisation](./Focalisateurs de canalisation.md)</span>
+{s:cs}{s:AA}**Prix** 200 po ; **Poids** 1 kg ; **Divinité associée** [[Golarion.Religions et philosophies|toutes]]
+<span class="Catégorie">**Catégorie** [[Focalisateurs de canalisation]]</span>
 ---
-Chaque maillon soigneusement forgé de ces [menottes de maître](./Menottes (objet).md) (avec un [bon cadenas](./Cadenas (objet).md)) contient une parabole ou d’autres citations extraites de textes sacrés. L'activation du focalisateur augmente son [DD](./DD.md) de [Sabotage](./Sabotage.md), d’[Évasion](./Évasion.md) ainsi que le DD pour le briser de 5 ; sa [solidité](./solidité.md) augmente de 2 et ses points de vie de 4. Cet effet dure 24 heures ou jusqu'à ce que la créature attachée se libère ou soit libérée.
+Chaque maillon soigneusement forgé de ces [[Menottes (objet)|menottes de maître]] (avec un [[Cadenas (objet)|bon cadenas]]) contient une parabole ou d’autres citations extraites de textes sacrés. L'activation du focalisateur augmente son [[DD]] de [[Sabotage]], d’[[Évasion]] ainsi que le DD pour le briser de 5 ; sa [[solidité]] augmente de 2 et ses points de vie de 4. Cet effet dure 24 heures ou jusqu'à ce que la créature attachée se libère ou soit libérée.

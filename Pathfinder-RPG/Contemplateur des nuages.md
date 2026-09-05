@@ -8,7 +8,7 @@ Categories:
 
 {s:MR}*La connaissance qu’a le sylphe de son héritage élémentaire lui offre une clarté de vue que peu d’humains possèdent.*
 
-**Conditions requises.** [Sylphe](./Sylphe (race).md).
+**Conditions requises.** [[sylphe (race)|Sylphe]].
 
 **Avantages.** Le sylphe voit à travers le brouillard, la brume et les nuages sans malus, ignorant tous les bonus d’abri ou de camouflage de ces effets. Si l’effet est magique, ce don triple la distance à laquelle le sylphe peut voir sans malus au lieu d'ignorer les bonus d'abri et de camouflage.
 

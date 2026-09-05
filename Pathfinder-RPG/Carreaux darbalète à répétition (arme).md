@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
 ---
-Les carreaux de l’arbalète à répétition sont conçus pour s’insérer dans les encoches des arbalètes à répétition. Ils sont légèrement plus chers que les [carreaux d’arbalète normaux](./Carreaux darbalète (arme).md) et vendus par 5 plutôt que par 10 (ce qui correspond à la capacité du rail).
+Les carreaux de l’arbalète à répétition sont conçus pour s’insérer dans les encoches des arbalètes à répétition. Ils sont légèrement plus chers que les [[carreaux darbalète (arme)|carreaux d’arbalète normaux]] et vendus par 5 plutôt que par 10 (ce qui correspond à la capacité du rail).

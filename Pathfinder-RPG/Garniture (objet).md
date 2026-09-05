@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa–50 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 Cet ensemble de bordures, de manchettes et de cols ornementaux vient s’ajouter à des vêtements simples. Les gens qui voyagent beaucoup, comme les marchands ou les artistes, utilisent des garnitures pour s’adapter aux styles locaux sans avoir à se refaire une nouvelle garde-robe. Les nobles en déplacement emportent des ensembles supplémentaires pour leur personnel temporaire et les gardes qui leur sont assignés.

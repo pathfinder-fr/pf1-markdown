@@ -8,8 +8,8 @@ Categories:
 
 *Le personnage utilise l’imposition des mains plus souvent.*
 
-**Condition.** Capacité de classe d’[imposition des mains](./Paladin.md#IMPOSITIONDESMAINS).
+**Condition.** Capacité de classe d’[[Paladin#IMPOSITIONDESMAINS|imposition des mains]].
 
-**Avantage.** Le personnage utilise [imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) deux fois de plus par jour.
+**Avantage.** Le personnage utilise [[Paladin#IMPOSITIONDESMAINS|imposition des mains]] deux fois de plus par jour.
 
 **Spécial.** Le personnage peut choisir ce don à plusieurs reprises ; ses effets se cumulent.

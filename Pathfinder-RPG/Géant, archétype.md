@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Archétypes#CREATUREGEANTE
 ---
 
->>> [Archétypes#CREATUREGEANTE](./Archétypes.md#CREATUREGEANTE)
+>>> [[Archétypes#CREATUREGEANTE]]

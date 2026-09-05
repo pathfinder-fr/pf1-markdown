@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.239}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, CB}
-{s:BDTexte|**Init** +2 ; **Sens** *[détection du Bien](./Détection du Bien.md)*, *[détection du Mal](./Détection du Mal.md)*, [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, CB}
+{s:BDTexte|**Init** +2 ; **Sens** *[[détection du Bien]]*, *[[détection du Mal]]*, [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 11, pris au dépourvu 12 (Dex +2, naturelle +3, taille -1)}
 {s:BDTexte|**pv** 34 (4d10+12)}
@@ -25,12 +25,12 @@ Categories:
 {s:BDTexte|**Corps à corps** morsure, +7 (1d3+4), 2 sabots, +2 (1d6+2)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDTexte|**Pouvoirs magiques** (NLS 4<sup>e</sup>)}
-{s:BDSorts|Constant — *[détection du Bien](./Détection du Bien.md)* (rayon de 18 m (12 {s:c})), *[détection du Mal](./Détection du Mal.md)* (rayon de 18 m (12 {s:c}))}
+{s:BDSorts|Constant — *[[détection du Bien]]* (rayon de 18 m (12 {s:c})), *[[détection du Mal]]* (rayon de 18 m (12 {s:c}))}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 15, **Con** 16, **Int** 10, **Sag** 13, **Cha** 13}
-{s:BDTexte|**BBA** +4, **BMO** +9, **DMD** 21 (25 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +11, [Psychologie](./Psychologie.md) +7, [Vol](./Vol.md) +5 ; **Modificateurs raciaux** [Perception](./Perception.md) +4}
+{s:BDTexte|**BBA** +4, **BMO** +9, **DMD** 21 (25 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en vol]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Perception]] +11, [[Psychologie]] +7, [[Vol]] +5 ; **Modificateurs raciaux** [[Perception]] +4}
 {s:BDTexte|**Langues** commun (ne sait pas parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérées et chaudes}

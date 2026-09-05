@@ -12,6 +12,6 @@ Categories:
 
 *Le personnage a été esclave sur une galère, ce qui lui a permis de côtoyer de près le monde de la piraterie et de la navigation.*
 
-**Conditions.** 2 rangs en [Profession](./Profession.md) (marin), le personnage doit être ou doit avoir été un esclave de galère
+**Conditions.** 2 rangs en [[Profession]] (marin), le personnage doit être ou doit avoir été un esclave de galère
 
-**Avantages.** Le personnage bénéficie d’un bonus de circonstance de +2 aux tests de [Profession](./Profession.md) (marin) effectués à bord d’un bateau à rames ou propulsés par des rameurs. Lorsqu’il combat à bord d’un navire, le premier coup délivré au début de chaque bataille bénéficie d’un bonus de +2 aux dégâts.
+**Avantages.** Le personnage bénéficie d’un bonus de circonstance de +2 aux tests de [[Profession]] (marin) effectués à bord d’un bateau à rames ou propulsés par des rameurs. Lorsqu’il combat à bord d’un navire, le premier coup délivré au début de chaque bataille bénéficie d’un bonus de +2 aux dégâts.

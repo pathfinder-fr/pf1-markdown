@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Guide en ébène|{s:RSE}}
-**Aura** [Évocation](./Évocation.md) et [Transmutation](./Transmutation.md) faibles ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 18.000 po ; **Poids** 0,5 kg
+**Aura** [[Évocation]] et [[Transmutation]] faibles ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 18.000 po ; **Poids** 0,5 kg
 (((Description)))
-Apprécié des Éclaireurs qui s'aventurent dans les lieux sombres et dangereux, l’extérieur de ce *[guide](./Guide magique.md)* est construit de panneaux de bois sombre décorés d’ébène. Les panneaux coulissent pour révéler un treillis de platine capable d’accueillir une ou deux pierres ioun. Le guide ébène accorde la vision dans le noir à son porteur avec une portée de 18 m (12 {s:c}) et avec un mot de commande il peut lancer *[ténèbres](./Ténèbres.md)* (comme le sort) une fois par jour, centré sur lui-même. Quand une pierre ioun est insérée dans l’appareil, sa capacité de *ténèbres* ne fonctionne plus. Quand une seconde pierre est insérée, la capacité de vision dans le noir ne fonctionne plus.
+Apprécié des Éclaireurs qui s'aventurent dans les lieux sombres et dangereux, l’extérieur de ce *[[Guide magique|guide]]* est construit de panneaux de bois sombre décorés d’ébène. Les panneaux coulissent pour révéler un treillis de platine capable d’accueillir une ou deux pierres ioun. Le guide ébène accorde la vision dans le noir à son porteur avec une portée de 18 m (12 {s:c}) et avec un mot de commande il peut lancer *[[ténèbres]]* (comme le sort) une fois par jour, centré sur lui-même. Quand une pierre ioun est insérée dans l’appareil, sa capacité de *ténèbres* ne fonctionne plus. Quand une seconde pierre est insérée, la capacité de vision dans le noir ne fonctionne plus.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[ténèbres](./Ténèbres.md)*, *[vision dans le noir](./vision dans le noir.md)* ; **Coût** 9.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[ténèbres]]*, *[[vision dans le noir]]* ; **Coût** 9.000 po
 </div>

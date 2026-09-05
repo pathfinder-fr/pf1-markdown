@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Archétypes#CREATUREJEUNE
 ---
 
->>> [Archétypes#CREATUREJEUNE](./Archétypes.md#CREATUREJEUNE)
+>>> [[Archétypes#CREATUREJEUNE]]

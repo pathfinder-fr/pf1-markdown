@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Invocation](./Invocation.md) <nowiki>[</nowiki>[acide](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 3  
+**École** [[Invocation]] <nowiki>[</nowiki>[[registre|acide]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Zone** rayonnement de 3 m de rayon  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-Le personnage lâche un nuage d’orties épineuses et pleines d’acide. Les créatures prises dans la zone reçoivent 3d6 points de dégâts plus 1d6 points de dégâts d’acide au [round](./round.md) suivant. Celles qui réussissent leur [jet de sauvegarde](./jet de sauvegarde.md) reçoivent la moitié des dégâts du premier effet et aucun au [round](./round.md) suivant.
+Le personnage lâche un nuage d’orties épineuses et pleines d’acide. Les créatures prises dans la zone reçoivent 3d6 points de dégâts plus 1d6 points de dégâts d’acide au [[round]] suivant. Celles qui réussissent leur [[jet de sauvegarde]] reçoivent la moitié des dégâts du premier effet et aucun au [[round]] suivant.

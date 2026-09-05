@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Guérison accélérée (capacité)
 ---
 
->>> [Guérison accélérée (capacité)](./Guérison accélérée (capacité).md)
+>>> [[Guérison accélérée (capacité)]]

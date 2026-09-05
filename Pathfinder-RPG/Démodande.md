@@ -15,20 +15,20 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Démodande caoutchouteux](./Démodande caoutchouteux.md) || 17
+| [[Démodande caoutchouteux]] || 17
 |-
-| [Démodande filandreux](./Démodande filandreux.md) || 15
+| [[Démodande filandreux]] || 15
 |-
-| [Démodande goudronneux](./Démodande goudronneux.md) || 13
+| [[Démodande goudronneux]] || 13
 |-
-| [Démodande hirsute](./Démodande hirsute.md) || 18
+| [[Démodande hirsute]] || 18
 |-
-| [Démodande visqueux](./Démodande visqueux.md) || 16
+| [[Démodande visqueux]] || 16
 |}
 </div></div><div class="description">**Source :** Bestiaire 3 p.70.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démodande](./sous-type démodande.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démodande|démodande]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])*
 
-Au cours d’une guerre antique dont la plupart des mortels n’ont nul souvenir, les [titans thanatotiques](./Titan thanatotique.md) se soulevèrent contre les dieux. Lorsque les titans ayant initié cette horrible guerre furent vaincus, les dieux les bannirent dans les Abysses pour l’éternité, espérant que leur immense puissance y serait contenue. Pendant des millénaires, les titans exilés ruminèrent leur colère, convaincus qu’eux seuls étaient vraiment dignes de l’adulation et de la vénération des mortels. C’était ces pensées amères qui les avait poussés à la rébellion. Leur haine bouillonnante, alliée à leur arrogance, conduisit les titans thanatotiques à créer leur propre race de fidèles. Ils mélangèrent la terre noire et les eaux polluées des Abysses et la pétrirent en une argile aussi sombre qu’une nuit sans étoiles. Leurs plus grands sculpteurs et façonneurs de vie modelèrent l’argile en reflets humanoïdes de leur personne, de la taille d’un homme, mais avec de plus beaux traits, un visage altier, de grandes ailes de dragon et un corps sculpté. Puis les créateurs s’entaillèrent, laissant leur sang remplir ces coquilles vides, et laissèrent leur souffle agir comme un soufflet, investissant ces silhouettes sculptées d’air et de sang pour les éveiller. Les titans pensaient posséder des pouvoirs comme divins et s’estimaient tout aussi capables que les anciens dieux de créer la vie. Mais ils avaient tort.
+Au cours d’une guerre antique dont la plupart des mortels n’ont nul souvenir, les [[titan thanatotique|titans thanatotiques]] se soulevèrent contre les dieux. Lorsque les titans ayant initié cette horrible guerre furent vaincus, les dieux les bannirent dans les Abysses pour l’éternité, espérant que leur immense puissance y serait contenue. Pendant des millénaires, les titans exilés ruminèrent leur colère, convaincus qu’eux seuls étaient vraiment dignes de l’adulation et de la vénération des mortels. C’était ces pensées amères qui les avait poussés à la rébellion. Leur haine bouillonnante, alliée à leur arrogance, conduisit les titans thanatotiques à créer leur propre race de fidèles. Ils mélangèrent la terre noire et les eaux polluées des Abysses et la pétrirent en une argile aussi sombre qu’une nuit sans étoiles. Leurs plus grands sculpteurs et façonneurs de vie modelèrent l’argile en reflets humanoïdes de leur personne, de la taille d’un homme, mais avec de plus beaux traits, un visage altier, de grandes ailes de dragon et un corps sculpté. Puis les créateurs s’entaillèrent, laissant leur sang remplir ces coquilles vides, et laissèrent leur souffle agir comme un soufflet, investissant ces silhouettes sculptées d’air et de sang pour les éveiller. Les titans pensaient posséder des pouvoirs comme divins et s’estimaient tout aussi capables que les anciens dieux de créer la vie. Mais ils avaient tort.
 
 Ces parangons de puissance noircirent et fondirent, se transformant en silhouettes tordues et suintantes. Mais ils s’accrochèrent désespérément à l’étincelle de vie qui leur avait été insufflée.
 

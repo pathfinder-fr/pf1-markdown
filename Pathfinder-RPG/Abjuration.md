@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#ABJURATION
 ---
 
->>> [Présentation des sorts#ABJURATION](./Présentation des sorts.md#ABJURATION)
+>>> [[Présentation des sorts#ABJURATION]]

@@ -6,7 +6,7 @@ Categories:
 - Weekly Grind
 ---
 
-<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/notes/jason-bulmahn-game-designer/weekly-grind-room-8-description/217949271582336) publiée avec l'autorisation de l'auteur Jason Bulmahn — [retour à l'index](./Informations-Weekly-Grind.md)</p>
+<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/notes/jason-bulmahn-game-designer/weekly-grind-room-8-description/217949271582336) publiée avec l'autorisation de l'auteur Jason Bulmahn — [[Informations.Weekly Grind|retour à l'index]]</p>
 Le culte qui s'est installé dans le donjon utilise cette grande salle pour stocker les prisonniers en attendant qu'ils puissent être sacrifiés dans les formes.
 
 <center><img src="http://www.pathfinder-fr.org/Wiki/public/upload/Illustrations/WeeklyGrind/wg8.jpg" /></center>

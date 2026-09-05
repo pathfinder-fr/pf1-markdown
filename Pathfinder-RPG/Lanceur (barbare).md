@@ -13,8 +13,8 @@ Categories:
 Un lanceur possède les aptitudes suivantes :
 
 #### Lanceur compétent (Ext)
-Le barbare est doué pour lancer des objets pendant qu’il se bat. Augmentez le [facteur de portée](./Actions simples.md#Attaques_à_distance_2) de n’importe quel projectile de 3 mètres (2 {s:c}). Cette aptitude remplace [déplacement accéléré](./Barbare.md#DEPLACEMENTACCELERE).
+Le barbare est doué pour lancer des objets pendant qu’il se bat. Augmentez le [[Actions simples#Attaques_à_distance_2|facteur de portée]] de n’importe quel projectile de 3 mètres (2 {s:c}). Cette aptitude remplace [[BARBARE#DEPLACEMENTACCELERE|déplacement accéléré]].
 
 
 #### Pouvoirs de rage
-Les pouvoirs de rage suivants complètent l'archétype du lanceur : [pic de force](./Pouvoirs de rage.md#PICDEFORCE), [précision étonnante](./Pouvoirs de rage.md#PRECISIONETONNANTE), [projectile](./Pouvoirs de rage.md#PROJECTILE), [projectile en charge](./Pouvoirs de rage.md#PROJECTILEENCHARGE), [projectile majeur](./Pouvoirs de rage.md#PROJECTILEMAJEUR), [projectile mineur](./Pouvoirs de rage.md#PROJECTILEMINEUR).
+Les pouvoirs de rage suivants complètent l'archétype du lanceur : [[pouvoirs de rage#PICDEFORCE|pic de force]], [[pouvoirs de rage#PRECISIONETONNANTE|précision étonnante]], [[pouvoirs de rage#PROJECTILE|projectile]], [[pouvoirs de rage#PROJECTILEENCHARGE|projectile en charge]], [[pouvoirs de rage#PROJECTILEMAJEUR|projectile majeur]], [[pouvoirs de rage#PROJECTILEMINEUR|projectile mineur]].

@@ -8,8 +8,8 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Voir aussi les [environnements de prédilection](./../Pathfinder-RPG/Rôdeur.md#ENVIRONNEMENTDEPREDILECTION)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Voir aussi les [[Pathfinder-RPG.rôdeur#ENVIRONNEMENTDEPREDILECTION|environnements de prédilection]]</ul>
 </div>
 
 Ces vestes ne sont pas magiques. Chacune d'entre elle permet de se camoufler au mieux dans un type de terrain bien définit, pour peu que l'on connaisse bien ce dernier. Il existe autant de type de ces veste que de type de terrain définit dans la capacité spéciale du rôdeur d'environnements de prédilection.

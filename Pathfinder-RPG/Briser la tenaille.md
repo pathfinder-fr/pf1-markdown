@@ -11,10 +11,10 @@ Categories:
 
 {s:uc}*Le personnage n’a aucun mal à affronter plusieurs adversaires.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Avantage.** Quand le personnage touche un adversaire adjacent avec une attaque de corps à corps, ce dernier perd ses bonus de [prise en tenaille](./prise en tenaille.md) jusqu’au prochain tour du personnage. Il ne peut pas prendre le personnage en tenaille ni lui faire d’[attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) mais il peut toujours servir à ses alliés à prendre le personnage en tenaille.
+**Avantage.** Quand le personnage touche un adversaire adjacent avec une attaque de corps à corps, ce dernier perd ses bonus de [[prise en tenaille]] jusqu’au prochain tour du personnage. Il ne peut pas prendre le personnage en tenaille ni lui faire d’[[roublard#ATTAQUESOURNOISE|attaque sournoise]] mais il peut toujours servir à ses alliés à prendre le personnage en tenaille.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance quand il utilise ce don. Dans ce cas, sa cible ne peut pas le [prendre en tenaille](./prendre en tenaille.md) avec ses alliés jusqu’au début du prochain tour du personnage.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance quand il utilise ce don. Dans ce cas, sa cible ne peut pas le [[prendre en tenaille]] avec ses alliés jusqu’au début du prochain tour du personnage.

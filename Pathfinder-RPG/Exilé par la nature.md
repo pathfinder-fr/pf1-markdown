@@ -11,20 +11,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[malédiction](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Dru](./Druide.md) 3, [Sor](./Sorcière.md) 3   
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ;** Niveau** [[Druide|Dru]] 3, [[Sorcière|Sor]] 3   
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** [permanente](./Présentation des sorts.md#DUREE)  
+**Durée** [[Présentation des sorts#DUREE|permanente]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-Ce sort maudit la créature touchée et la rend inamicale aux yeux du monde naturel. Tous les animaux ont une [attitude initiale hostile](./Diplomatie.md) envers la cible. Les [familiers](./familier.md) et les [créatures magiques](./type Créature magique.md) ne sont pas affectés par ce sort mais les [compagnons animaux](./compagnon animal.md) si. Si la cible possède un [compagnon animal](./compagnon animal.md), il ne devient pas hostile mais, pendant toute la durée de la [malédiction](./malédiction.md), il subit un malus de -2 aux [jets d'attaque](./jet dattaque.md), aux tests de compétence et aux [jets de sauvegarde](./jet de sauvegarde.md). La cible subit également un malus de -10 aux tests de [Survie](./Survie.md) car le climat et l'environnement semblent également conspirer contre elle.
+Ce sort maudit la créature touchée et la rend inamicale aux yeux du monde naturel. Tous les animaux ont une [[diplomatie|attitude initiale hostile]] envers la cible. Les [[familier|familiers]] et les [[type créature magique|créatures magiques]] ne sont pas affectés par ce sort mais les [[compagnon animal|compagnons animaux]] si. Si la cible possède un [[compagnon animal]], il ne devient pas hostile mais, pendant toute la durée de la [[malédiction]], il subit un malus de -2 aux [[jet dattaque|jets d'attaque]], aux tests de compétence et aux [[jet de sauvegarde|jets de sauvegarde]]. La cible subit également un malus de -10 aux tests de [[Survie]] car le climat et l'environnement semblent également conspirer contre elle.
 
-Un personnage peut se débarrasser d<nowiki>'</nowiki>*exilé par la nature* avec *[annulation d'enchantement](./Annulation denchantement.md)*, *[souhait limité](./Souhait limité.md)*, *[miracle](./Miracle.md)*, *[délivrance des malédictions](./Délivrance des malédictions.md)* ou *[souhait](./Souhait.md)*.
+Un personnage peut se débarrasser d<nowiki>'</nowiki>*exilé par la nature* avec *[[annulation denchantement|annulation d'enchantement]]*, *[[souhait limité]]*, *[[miracle]]*, *[[délivrance des malédictions]]* ou *[[souhait]]*.

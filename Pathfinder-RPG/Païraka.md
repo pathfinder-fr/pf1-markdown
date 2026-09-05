@@ -12,26 +12,26 @@ Categories:
 {s:BDTitre|Païraka|FP 7}
 {s:BDTexte|*Source : Bestiaire 3 page 91*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([div](./sous-type div.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md), [métamorphe](./sous-type métamorphe.md)) de taille M, NM}
-{s:BDTexte|**Init** +9 ; **Sens** [détection de la magie](./Détection de la magie.md), [détection du bien](./Détection du Bien.md), [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision dans les ténèbres](./Vision dans les ténèbres.md) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type div|div]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]], [[sous-type métamorphe|métamorphe]]) de taille M, NM}
+{s:BDTexte|**Init** +9 ; **Sens** [[détection de la magie]], [[détection du bien]], [[vision dans le noir]] à 18 m (12 {s:c}), [[vision dans les ténèbres]] ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 15, pris au dépourvu 18 (Dex +5, naturelle +8)}
 {s:BDTexte|**pv** 76 (9d10+27)}
 {s:BDTexte|**Réf** +11, **Vig** +6, **Vol** +10}
-{s:BDTexte|**[RD](./Réduction de dégâts (capacité).md)** 10/Bien ou fer froid ; **[Immunité](./Immunité (capacité).md)** feu, maladie, poison ; **[Résistance](./Résistance (capacité).md)** acide 10, électricité 10 ; **[RM](./Résistance à la magie (capacité).md)** 22}
+{s:BDTexte|**[[Réduction de dégâts (capacité)|RD]]** 10/Bien ou fer froid ; **[[Immunité (capacité)|Immunité]]** feu, maladie, poison ; **[[Résistance (capacité)|Résistance]]** acide 10, électricité 10 ; **[[Résistance à la magie (capacité)|RM]]** 22}
 {s:BDSousTitre|ATTAQUE}
-{s:BDTexte|**VD** 9 m (6 {s:c}), [Vol](./Vol (capacité).md) 15 m (10 {s:c}) (bonne)}
+{s:BDTexte|**VD** 9 m (6 {s:c}), [[Vol (capacité)|Vol]] 15 m (10 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** 2 griffes, +14 (1d6+3 plus maladie)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12 ; concentration +19)}
-{s:BDSorts|Constant —  *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*}
-{s:BDSorts|À volonté — *[charme-monstre](./Charme-monstre.md)* (DD 21), *[détection faussée](./Détection faussée.md)* (DD19), *[porte dimensionnelle](./Porte dimensionnelle.md)* (personnelle plus 25 kilos d'objets uniquement)}
-{s:BDSorts|1/jour — *[convocation](./convocation.md)* (niveau 3, 1d4 [dorus](./Div doru.md) 50%), *[fléau d'inscetes](./Fléau dinsectes.md)*}
+{s:BDSorts|Constant —  *[[détection de la magie]]*, *[[détection du Bien]]*}
+{s:BDSorts|À volonté — *[[charme-monstre]]* (DD 21), *[[détection faussée]]* (DD19), *[[porte dimensionnelle]]* (personnelle plus 25 kilos d'objets uniquement)}
+{s:BDSorts|1/jour — *[[convocation]]* (niveau 3, 1d4 [[Div doru|dorus]] 50%), *[[fléau dinsectes|fléau d'inscetes]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 20, **Con** 16, **Int** 14, **Sag** 18, **Cha** 24}
 {s:BDTexte|**BBA** +9 ; **BMO** +12 ; **DMD** 27}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaque en vol](./Attaque en vol.md), [Fourberie](./Fourberie.md), [Science de l’initiative](./Science de linitiative.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +20, [Connaissances](./Connaissances.md) (folklore local) +13, [Connaissances](./Connaissances.md) (plans) +13, [Déguisement](./Déguisement.md) +18, [Diplomatie](./Diplomatie.md) +16, [Discrétion](./Discrétion.md) +17, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +13, [Vol](./Vol.md) +16}
-{s:BDTexte|**Langues** abyssal, céleste, infernal ; [télépathie](./Télépathie (capacité).md) à 30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Attaque en vol]], [[Fourberie]], [[Science de linitiative|Science de l’initiative]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Bluff]] +20, [[Connaissances]] (folklore local) +13, [[Connaissances]] (plans) +13, [[Déguisement]] +18, [[Diplomatie]] +16, [[Discrétion]] +17, [[Intimidation]] +16, [[Perception]] +16, [[Psychologie]] +13, [[Vol]] +16}
+{s:BDTexte|**Langues** abyssal, céleste, infernal ; [[Télépathie (capacité)|télépathie]] à 30 m (20 {s:c})}
 {s:BDTexte|**Particularité** changement de forme (tout animal ou humanoïde de taille P ou M ; métamorphose)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abaddon)}
@@ -39,11 +39,11 @@ Categories:
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Maladie (sur).** La païraka transmet deux maladies. Ses griffes infectent la cible avec la peste bubonique et tout contact volontaire avec sa peau (comme, par exemple, une caresse, une lutte ou autre) expose la victime à la tremblante.
-- **Peste bubonique :** Griffe — blessure ; *JS* [Vigueur](./Vigueur.md) DD 17 ; *incubation* 1 jour ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 [For](./Force.md) et 1 [Cha](./Charisme.md), la cible est de plus fatiguée ; *guérison* 2 réussites consécutives. 
-- **Tremblante :** contact ; *JS* [Vigueur](./Vigueur.md) DD 17 ; *incubation* 1 jour ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d8 [Dex](./Dextérité.md) ; *guérison* 2 réussites consécutives}{s:BDTexte|**Volupté onirique (Sur).** La païraka peut tourmenter les créatures endormies. Lorsqu’une créature intelligente est endormie, la païraka peut se faufiler dans son esprit et déformer ses rêves pour en faire des délires nocturnes de luxure. La victime doit être endormie pour que la païraka puisse utiliser cette capacité, et la païraka doit être dans un rayon de 30 mètres autour d’elle. Si la cible rate un jet de Volonté DD 21, elle est victime d’intenses hallucinations malsaines qui la laissent oppressée et fatiguée au réveil. La victime, même s’il s’agit d’une âme dépravée, considère rarement la nature sexuelle de ces rêves comme une chose agréable, les images qu’elle voit exploitant de nombreux tabous que la païraka soupçonne d’être ancrés en elle. Le DD du jet de sauvegarde est basé sur le Charisme. Les créatures qui ne dorment pas ou ne rêvent pas sont immunisées contre cette capacité.}
+- **Peste bubonique :** Griffe — blessure ; *JS* [[Vigueur]] DD 17 ; *incubation* 1 jour ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d4 [[force|For]] et 1 [[charisme|Cha]], la cible est de plus fatiguée ; *guérison* 2 réussites consécutives. 
+- **Tremblante :** contact ; *JS* [[Vigueur]] DD 17 ; *incubation* 1 jour ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d8 [[dextérité|Dex]] ; *guérison* 2 réussites consécutives}{s:BDTexte|**Volupté onirique (Sur).** La païraka peut tourmenter les créatures endormies. Lorsqu’une créature intelligente est endormie, la païraka peut se faufiler dans son esprit et déformer ses rêves pour en faire des délires nocturnes de luxure. La victime doit être endormie pour que la païraka puisse utiliser cette capacité, et la païraka doit être dans un rayon de 30 mètres autour d’elle. Si la cible rate un jet de Volonté DD 21, elle est victime d’intenses hallucinations malsaines qui la laissent oppressée et fatiguée au réveil. La victime, même s’il s’agit d’une âme dépravée, considère rarement la nature sexuelle de ces rêves comme une chose agréable, les images qu’elle voit exploitant de nombreux tabous que la païraka soupçonne d’être ancrés en elle. Le DD du jet de sauvegarde est basé sur le Charisme. Les créatures qui ne dorment pas ou ne rêvent pas sont immunisées contre cette capacité.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [divs](./Div.md).***</li></ul>*Le regard sensuel de cette fiélonne humanoïde à la peau bleue et vêtue de séduisants atours suggère toutes sortes de plaisirs dégradants.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Div|divs]].***</li></ul>*Le regard sensuel de cette fiélonne humanoïde à la peau bleue et vêtue de séduisants atours suggère toutes sortes de plaisirs dégradants.*
 
 Combinaisons sensuelles de séduction et de destruction, les païrakas incarnent la nature corruptrice de la luxure débridée. Elles prennent rarement leur véritable forme lorsqu’elles sont sur le Plan matériel, choisissant plutôt de prendre une apparence affriolante pour séduire des victimes potentielles, détruire des couples et alimenter des obsessions. Sous sa véritable forme, le corps de la païraka est un paysage immonde de rougeurs enflammées, de pustules purulentes et de cloques gorgées, symbolisant son caractère corrompu tant physique que spirituel.  
 

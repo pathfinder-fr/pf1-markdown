@@ -17,26 +17,26 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Apal](./Antipaladin.md) 3, [Cham](./Chaman.md) 4, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Occ](./Occultiste.md) 3, [Pal](./Paladin.md) 3, [Prê](./Prêtre.md) 4, [San](./Sanguin.md) 3  
+**École** [[Transmutation]] ; **Niveau** [[Antipaladin|Apal]] 3, [[Chaman|Cham]] 4, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Occultiste|Occ]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 4, [[Sanguin|San]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (poudre de chaux et de carbone)  
+**Composantes** [[COMPOSANTES|V, G, M/FD]] (poudre de chaux et de carbone)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une arme ou 50 projectiles (qui doivent être en contact les uns avec les autres au moment de l’incantation)  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
-Ce sort est similaire à *[arme magique](./Arme magique.md)*, sauf qu’il confère à l’arme choisie un bonus d’altération de +1 aux [jets d’attaque](./jet dattaque.md) et de dégâts tous les quatre [niveaux de lanceur de sorts](./NLS.md) (+5 maximum). Ce bonus ne permet pas d’outrepasser la [résistance aux dégâts](./RD.md), hormis pour la magie.
+Ce sort est similaire à *[[arme magique]]*, sauf qu’il confère à l’arme choisie un bonus d’altération de +1 aux [[jet dattaque|jets d’attaque]] et de dégâts tous les quatre [[NLS|niveaux de lanceur de sorts]] (+5 maximum). Ce bonus ne permet pas d’outrepasser la [[RD|résistance aux dégâts]], hormis pour la magie.
 
-Il est possible également d’affecter 50 flèches, carreaux d’arbalète ou billes de fronde. Tous les projectiles doivent être du même type et il est nécessaire qu’ils se touchent au moment de l’incantation (c’est le cas s’ils se trouvent tous dans le même carquois). Ils perdent leur magie dès qu’ils sont utilisés (contrairement à une [arme de jet](./arme de jet.md) affectée par ce sort). Dans le cadre de ce sort, les shuriken sont des projectiles et non des [armes de jet](./arme de jet.md).
+Il est possible également d’affecter 50 flèches, carreaux d’arbalète ou billes de fronde. Tous les projectiles doivent être du même type et il est nécessaire qu’ils se touchent au moment de l’incantation (c’est le cas s’ils se trouvent tous dans le même carquois). Ils perdent leur magie dès qu’ils sont utilisés (contrairement à une [[arme de jet]] affectée par ce sort). Dans le cadre de ce sort, les shuriken sont des projectiles et non des [[arme de jet|armes de jet]].
 
 ### Mythique
 {s:CMy}
 Le personnage peut ajouter l’une des propriétés spéciales d’arme à l’arme ciblée : feu, froid, acérée, miséricordieuse, foudre ou tonnerre.
 
-**[Amplifié](./Amplifié.md) (5ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), il peut réduire le bonus d’altération conféré par ce sort de 1 pour ajouter deux des propriétés indiquées plus haut ou l’une des propriétés suivantes : [anarchique](./anarchique (propriété).md), [axiomatique](./axiomatique (propriété).md), [feu intense](./feu intense (propriété).md), [sainte](./sainte (propriété).md), [froid intense](./froid intense (propriété).md), [foudre intense](./foudre intense (propriété).md) ou [impie](./impie (propriété).md).
+**[[Amplifié]] (5ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], il peut réduire le bonus d’altération conféré par ce sort de 1 pour ajouter deux des propriétés indiquées plus haut ou l’une des propriétés suivantes : [[anarchique (propriété)|anarchique]], [[axiomatique (propriété)|axiomatique]], [[feu intense (propriété)|feu intense]], [[sainte (propriété)|sainte]], [[froid intense (propriété)|froid intense]], [[foudre intense (propriété)|foudre intense]] ou [[impie (propriété)|impie]].

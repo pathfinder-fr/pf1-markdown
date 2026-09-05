@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Diversion
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Diversion](./Descriptions individuelles des propriétés spéciales des armes.md#Diversion)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Diversion]]

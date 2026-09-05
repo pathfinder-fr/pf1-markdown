@@ -4,7 +4,7 @@ Title: Paladin chaman (build)
 LastModified: 2020-05-17 11:24
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le [sujet de discussion](https://www.pathfinder-fr.org/Forum/posts/t13501-Comment-faire-un-Oradin)***</div>
 
 <nav class="wiki-toc"></nav>
@@ -50,13 +50,13 @@ Le premier point de caractéristique gagné au niveau 4 ira en Constitution afin
 
 Le squelette du build se base sur 2 niveaux de paladin archétype hospitalier et 3 niveaux de chaman de la vie. La continuité du build et l'ordre dans lequel on choisit les classes dépend des points qu'on cherche à renforcer chez le personnage.
 
-Dans l'optique d'en faire un personnage extrêmement résistant, le personnage va d'abord choisir au moins 2 niveaux de paladin, afin d'obtenir le plus rapidement possible du soin personnel. Il se retrouve ainsi grâce à [http://www.d20pfsrd.com/feats/general-feats/fey-foundling|Fey foundling] avec des impositions des mains à 1d6+2 (+4 s'il est tiefflin). Avec un troisième niveau de paladin, il peut choisir le don [Grâce supérieure](./Pathfinder-RPG-Grâce-supérieure-ashx.md) dès le niveau 3, et avoir des impositions des mains à 2d6+4 (+7 s'il est tiefflin) la majorité du temps. Un quatrième niveau de paladin peut lui permettre de débloquer la canalisation d'énergie positive (pour soigner le groupe après le combat), les sorts de niveau 1, et passer son imposition des mains à 3d6+6 (+10 s'il est tiefflin). Il s'agira du niveau maximum de paladin qu'il choisira avant de bifurquer sur le chaman, car à ce stade, il n'a toujours pas débloqué de pouvoirs lui permettant de protéger ses alliés.
+Dans l'optique d'en faire un personnage extrêmement résistant, le personnage va d'abord choisir au moins 2 niveaux de paladin, afin d'obtenir le plus rapidement possible du soin personnel. Il se retrouve ainsi grâce à [Fey foundling](http://www.d20pfsrd.com/feats/general-feats/fey-foundling) avec des impositions des mains à 1d6+2 (+4 s'il est tiefflin). Avec un troisième niveau de paladin, il peut choisir le don [[Pathfinder-RPG.Grâce supérieure.ashx|Grâce supérieure]] dès le niveau 3, et avoir des impositions des mains à 2d6+4 (+7 s'il est tiefflin) la majorité du temps. Un quatrième niveau de paladin peut lui permettre de débloquer la canalisation d'énergie positive (pour soigner le groupe après le combat), les sorts de niveau 1, et passer son imposition des mains à 3d6+6 (+10 s'il est tiefflin). Il s'agira du niveau maximum de paladin qu'il choisira avant de bifurquer sur le chaman, car à ce stade, il n'a toujours pas débloqué de pouvoirs lui permettant de protéger ses alliés.
 
-Dans l'optique de protéger le groupe dans son ensemble (le personnage compris), le personnage choisira au moins 2 niveaux de chaman de la vie. Le premier niveau permet de débloquer la canalisation d'énergie et d'obtenir le [http://www.d20pfsrd.com/classes/core-classes/wizard/familiar/familiar-archetypes/protector-familiar-archetype/|familier protecteur] (qui a de bonnes chances d'offrir un +2 à la CA du personnage). Le second niveau permet d'obtenir le maléfice lien vital, qui permet de protéger un allié par niveau de chaman en absorbant les dégâts qu'il subit. Un troisième niveau de chaman permet de protéger un groupe standard de 4 joueurs, en plus de faire passer la canalisation à 2d6 et de débloquer les sorts de niveau 2.
+Dans l'optique de protéger le groupe dans son ensemble (le personnage compris), le personnage choisira au moins 2 niveaux de chaman de la vie. Le premier niveau permet de débloquer la canalisation d'énergie et d'obtenir le [familier protecteur](http://www.d20pfsrd.com/classes/core-classes/wizard/familiar/familiar-archetypes/protector-familiar-archetype/) (qui a de bonnes chances d'offrir un +2 à la CA du personnage). Le second niveau permet d'obtenir le maléfice lien vital, qui permet de protéger un allié par niveau de chaman en absorbant les dégâts qu'il subit. Un troisième niveau de chaman permet de protéger un groupe standard de 4 joueurs, en plus de faire passer la canalisation à 2d6 et de débloquer les sorts de niveau 2.
 
-Quelle que soit la répartition choisie sur les premiers niveaux, au niveau 5, le personnage a son [http://www.d20pfsrd.com/classes/core-classes/wizard/familiar/familiar-archetypes/protector-familiar-archetype/|familier protecteur] (puisqu'il a au minimum un niveau de chaman) et prend le don [Boon companion](http://www.d20pfsrd.com/feats/general-feats/boon-companion/) afin de faire également passer son familier niveau 5. Il débloque ainsi le pouvoir Shield Master, qui permet au personnage de faire subir à son familier la moitié des dégâts qu'il subit. Ainsi, à partir de 2 niveaux de chaman, le personnage absorbe les dégâts du groupe via lien vital, en transfert la moitié (arrondie à l'inférieur) à son familier, qui avec sa guérison accélérée se soigne d'un 1PV/rd, tandis que le personnage se soigne avec son imposition des mains en action rapide. En fin de combat, il peut se servir de sa canalisation d'énergie pour faire remonter les points de vie de tout le groupe, familier compris.
+Quelle que soit la répartition choisie sur les premiers niveaux, au niveau 5, le personnage a son [familier protecteur](http://www.d20pfsrd.com/classes/core-classes/wizard/familiar/familiar-archetypes/protector-familiar-archetype/) (puisqu'il a au minimum un niveau de chaman) et prend le don [Boon companion](http://www.d20pfsrd.com/feats/general-feats/boon-companion/) afin de faire également passer son familier niveau 5. Il débloque ainsi le pouvoir Shield Master, qui permet au personnage de faire subir à son familier la moitié des dégâts qu'il subit. Ainsi, à partir de 2 niveaux de chaman, le personnage absorbe les dégâts du groupe via lien vital, en transfert la moitié (arrondie à l'inférieur) à son familier, qui avec sa guérison accélérée se soigne d'un 1PV/rd, tandis que le personnage se soigne avec son imposition des mains en action rapide. En fin de combat, il peut se servir de sa canalisation d'énergie pour faire remonter les points de vie de tout le groupe, familier compris.
 
-Une fois ces premiers niveaux répartis, le personnage peut poursuivre sa progression dans la classe de paladin, afin de continuer à augmenter sa capacité de cogneur et d'absorption. A partir du niveau 7 de paladin, le personnage est capable de lancer [Protection d'autrui](./Pathfinder-RPG-Protection-dautrui-ashx.md) sur un allié, ce qui peut lui permettre de protéger efficacement le second combattant de corps à corps.
+Une fois ces premiers niveaux répartis, le personnage peut poursuivre sa progression dans la classe de paladin, afin de continuer à augmenter sa capacité de cogneur et d'absorption. A partir du niveau 7 de paladin, le personnage est capable de lancer [[Pathfinder-RPG.Protection dautrui.ashx|Protection d'autrui]] sur un allié, ce qui peut lui permettre de protéger efficacement le second combattant de corps à corps.
 
 ##### 3.1 Bonus de classe de prédilection
 
@@ -94,11 +94,11 @@ A moins que le personnage soit un demi-orque, auquel cas il prendra fate's favor
 |- CLASS="titre"
 | Niveau || Classe || BBA || NLS (pal/cham) || Dons, capacités de classe
 |- CLASS="premier"
-| 01 || Paladin 1 || +1 || - || [http://www.d20pfsrd.com/feats/general-feats/fey-foundling|Fey foundling]
+| 01 || Paladin 1 || +1 || - || [Fey foundling](http://www.d20pfsrd.com/feats/general-feats/fey-foundling)
 |-
 | 02 || Paladin 2 || +2 || - || &nbsp;
 |-
-| 03 || Paladin 3 || +3 || - || [Grâce supérieure](./Pathfinder-RPG-Grâce-supérieure-ashx.md)
+| 03 || Paladin 3 || +3 || - || [[Pathfinder-RPG.Grâce supérieure.ashx|Grâce supérieure]]
 |-
 | 04 || Chaman 1 || +3 || -/1 || &nbsp;
 |-
@@ -106,11 +106,11 @@ A moins que le personnage soit un demi-orque, auquel cas il prendra fate's favor
 |-
 | 06 || Chaman 3 || +5 || -/3 || &nbsp;
 |-
-| 07 || Paladin 4 || +6 || 1/3 || [Attaque en puissance](./Pathfinder-RPG-Attaque-en-puissance-ashx.md)
+| 07 || Paladin 4 || +6 || 1/3 || [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]
 |-
 | 08 || Paladin 5 || +7 || 2/3 || &nbsp;
 |-
-| 09 || Paladin 6 || +8 || 3/3 || [Imposition des mains supplémentaire](./Pathfinder-RPG-Imposition-des-mains-supplémentaire-ashx.md)
+| 09 || Paladin 6 || +8 || 3/3 || [[Pathfinder-RPG.Imposition des mains supplémentaire.ashx|Imposition des mains supplémentaire]]
 |-
 | 10 || Paladin 7 || +9 || 4/3 || &nbsp;
 |-

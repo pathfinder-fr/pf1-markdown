@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:AE}**Prix** 5 po ; **Poids** 0,25 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
-Ces capes sont très prisées des bardes itinérants et chacune est unique. Les différents morceaux de tissu indiquent où le voyageur est allé et l’artiste les utilisent souvent pour se souvenir des histoires spécifiques de son répertoire. Quand un [barde](./Barde.md) prend sa retraite ou meurt, il lègue souvent sa cape à un jeune artiste qu’il a guidé ou admiré.
+Ces capes sont très prisées des bardes itinérants et chacune est unique. Les différents morceaux de tissu indiquent où le voyageur est allé et l’artiste les utilisent souvent pour se souvenir des histoires spécifiques de son répertoire. Quand un [[Barde]] prend sa retraite ou meurt, il lègue souvent sa cape à un jeune artiste qu’il a guidé ou admiré.

@@ -14,7 +14,7 @@ Categories:
 {s:pucem|Créature artificielle|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 51*}
 - **25 600 PX**
-- [Créature artificielle](./type Créature artificielle.md) ([feu](./sous-type Feu.md)) de taille C, N
+- [[type créature artificielle|Créature artificielle]] ([[sous-type feu|feu]]) de taille C, N
 - **Init **+3 ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +0
 (((Défense)))
 - **CA** 20, contact 5, pris au dépourvu 17 (Dex +3, naturelle +15, taille -8)
@@ -38,7 +38,7 @@ Categories:
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
 - ** Brandon ardent (Ext)**. Une fois par round, une créature d’osier peut extraire des morceaux de bois de son corps et les lancer pour effectuer une attaque à distance avec un facteur de portée de 18 mètres. 
-- **Cage en osier (Sur)**. Si une créature d’osier parvient à agripper une créature en situation de lutte, il peut, par une action de mouvement, la soulever pour l’enfermer dans la cage aménagée à l’intérieur de sa poitrine. Ce pouvoir fonctionne comme celui d’engloutissement (4d6 points de dégât de feu et la cible [prend automatiquement feu](./Dangers naturels.md#Prendre_feu_13) , CA 17, 15 pv). Le DD pour éteindre les flammes s’élève à 17. Si une créature parvient à sortir de la cage, la créature d’osier ne peut plus utiliser ce pouvoir tant qu’il n’a pas récupéré la totalité de ses points de vie. Le DD du jet de sauvegarde est basé sur la Constitution.
+- **Cage en osier (Sur)**. Si une créature d’osier parvient à agripper une créature en situation de lutte, il peut, par une action de mouvement, la soulever pour l’enfermer dans la cage aménagée à l’intérieur de sa poitrine. Ce pouvoir fonctionne comme celui d’engloutissement (4d6 points de dégât de feu et la cible [[Dangers naturels#Prendre_feu_13|prend automatiquement feu]] , CA 17, 15 pv). Le DD pour éteindre les flammes s’élève à 17. Si une créature parvient à sortir de la cage, la créature d’osier ne peut plus utiliser ce pouvoir tant qu’il n’a pas récupéré la totalité de ses points de vie. Le DD du jet de sauvegarde est basé sur la Constitution.
 - **Embrasement perpétuel (Sur)**. Une créature d’osier brûle en permanence sans jamais se consumer. Ce feu est magique. Les flammes produites par une créature d’osier sont uniquement réprimées lorsque celui-ci reste immergé dans l’eau. Tant qu’elles sont réprimées, la créature d’osier perd son pouvoir de combustion. De plus, celui de cage en osier n’inflige aucun dégât de feu et les créatures enfermées à l’intérieur ne risquent pas de prendre feu.
 - **Guérison par le feu (Ext)**. Une attaque magique qui inflige des dégâts de feu soigne la créature d’osier de 1 point de dégâts pour chaque tranche de 3 points de dégâts que l’attaque aurait normalement dû lui infliger.
 
@@ -57,7 +57,7 @@ Les hommes animés servent à terroriser les ennemis de la religion.
 Il est possible de créer une créature d’osier avec 6 tonnes d’osier et de bois rares pour une valeur de 10 000 po. L’activation de l’homme exige le sacrifice d’un humanoïde vivant enfermé dans la cage à l’intérieur de la poitrine de la créature. Ce sacrifice est considéré comme un acte maléfique.
 
 **NLS** 14 ; **Prix** 110 000 po{br}
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[germes de feu](./Germes de feu.md), [mur de feu](./Mur de feu.md), [distorsion du bois](./Distorsion du bois.md)*, créateur NLS 12 ; **Compétences** [Artisanat](./Artisanat.md) (constructions en bois) ou [Artisanat](./Artisanat.md) (sculpture) DD 15 ; **Coût** 60 000 po
+**Conditions** [[Création de créatures artificielles]], *[[germes de feu]], [[mur de feu]], [[distorsion du bois]]*, créateur NLS 12 ; **Compétences** [[Artisanat]] (constructions en bois) ou [[Artisanat]] (sculpture) DD 15 ; **Coût** 60 000 po
 
 
 </div></td></tr></table>

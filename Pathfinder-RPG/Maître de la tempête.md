@@ -9,13 +9,13 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [druide](./Druide.md) 7, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 7, [prêtre](./Prêtre.md) 7, [sorcière](./Sorcière.md) 7  
+**École** [[Transmutation]] ; **Niveau** [[druide]] 7, [[ensorceleur]]/[[magicien]] 7, [[prêtre]] 7, [[sorcière]] 7  
 
-**Durée** 1 heure/[niveau](./niveau.md) (T)  
+**Durée** 1 heure/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
 
-**Restrictions de cible** *[personnel](./Personnel (mot de pouvoir).md)*
+**Restrictions de cible** *[[personnel (mot de pouvoir)|personnel]]*
 
 Un sort incluant ce mot effet confère à la cible la capacité d’altérer le climat dans un rayon de 1,5 km. La cible peut changer les conditions climatiques en les faisant évoluer d’un degré à la fois vers le haut ou le bas sur l’échelle suivante : froid glacial, blizzard, neige, pluie froide, vent froid, calme, vent chaud, pluie chaude, orage, tornade, chaleur extrême. Chaque changement nécessite 10 minutes pour prendre pleinement effet. Donc si le temps est actuellement sur vent chaud et que le mage veut qu’il passe sur vent froid, il doit d’abord passer les étapes calme, puis vent froid. La cible ne peut contrôler les spécificités du temps, mais simplement le type de temps qu’il fait (elle ne peut pas, par exemple, faire tomber la foudre sur une maison mais par contre, elle peut la faire tomber dans la zone d’effet du sort).
 

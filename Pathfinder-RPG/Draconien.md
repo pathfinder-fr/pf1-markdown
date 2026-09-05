@@ -11,33 +11,33 @@ Categories:
 <div class="BD">
 {s:BDTitre|Draconien|FP 9}
 {s:pucem|Dragon|Montagnes|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.90](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (Contenu)|Bestiaire 5 p.90]]*}
 {s:BDTexte|**PX** 6 400}
-{s:BDTexte|[Dragon](./type Dragon.md) de taille G, LN}
-{s:BDTexte|**Init** +2 ; **Sens** odorat, [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Dragon|Dragon]] de taille G, LN}
+{s:BDTexte|**Init** +2 ; **Sens** odorat, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 11, pris au dépourvu 21 (Dex +2, naturelle +12, taille -1)}
 {s:BDTexte|**pv** 115 (10d12+50)}
 {s:BDTexte|**Réf** +9, **Vig** +12, **Vol** +8}
 {s:BDTexte|**Immunités** feu, paralysie, sommeil}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 12 m, [vol](./Vol (capacité).md) 36 m (bonne)}
+{s:BDTexte|**VD** 12 m, [[Vol (capacité)|vol]] 36 m (bonne)}
 {s:BDTexte|**Corps à corps** coutille de maître, +18/+13 (2d8+12/×3) et morsure, +13 (1d8+4) ou morsure, +18 (1d8+8) et 2 griffes, +17 (1d6+8)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m (4,50 m avec la coutille)}
-{s:BDTexte|**Attaques spéciales** [souffle](./Souffle (capacité).md) (cône de 9 m, 9d6 dégâts de feu, Réflexes DD 20, 1/2 dégâts, utilisable tous les 1d4 rounds)}
+{s:BDTexte|**Attaques spéciales** [[Souffle (capacité)|souffle]] (cône de 9 m, 9d6 dégâts de feu, Réflexes DD 20, 1/2 dégâts, utilisable tous les 1d4 rounds)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 15, **Con** 20, **Int** 11, **Sag** 12, **Cha** 17}
 {s:BDTexte|**BBA** +10 ; **BMO** +19 ; **DMD** 31}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Attaque en vol](./Attaque en vol.md), [Frappe décisive](./Frappe décisive.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +16, [Discrétion](./Discrétion.md) +11, [Intimidation](./Intimidation.md) +16, [Perception](./Perception.md) +14, [Survie](./Survie.md) +14, [Vol](./Vol.md) +17}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaques réflexes]], [[Attaque en vol]], [[Frappe décisive]]}
+{s:BDTexte|**Compétences** [[Bluff]] +16, [[Discrétion]] +11, [[Intimidation]] +16, [[Perception]] +14, [[Survie]] +14, [[Vol]] +17}
 {s:BDTexte|**Langues** commun, draconique}
 {s:BDTexte|**Particularités** pacte du cavalier}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes}
 {s:BDTexte|**Organisation** solitaire, couple, patrouille (3-6) ou escadrille (7-14)}
-{s:BDTexte|**Trésor** standard ([coutille](./Coutille (arme).md) [de maître](./arme de maître.md), autres trésors)}
+{s:BDTexte|**Trésor** standard ([[Coutille (arme)|coutille]] [[arme de maître|de maître]], autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Pacte du cavalier (Sur).** Un draconien peut sceller un pacte magique à vie avec son cavalier. La formation de ce pacte nécessite la réalisation d’un rituel spécial pendant une heure. Un draconien ayant scellé ce pacte ne peut pas en sceller d’autres tant que son cavalier est en vie. Le draconien et le cavalier avec lequel il a pactisé peuvent communiquer par [télépathie](./Télépathie (capacité).md) l’un avec l’autre sur une distance de 30 mètres ou moins. Quand un cavalier chevauche son draconien au début d’un combat, les deux créatures déterminent leur [initiative](./initiative.md) séparément et conservent le meilleur résultat pour les deux.}
+{s:BDTexte|**Pacte du cavalier (Sur).** Un draconien peut sceller un pacte magique à vie avec son cavalier. La formation de ce pacte nécessite la réalisation d’un rituel spécial pendant une heure. Un draconien ayant scellé ce pacte ne peut pas en sceller d’autres tant que son cavalier est en vie. Le draconien et le cavalier avec lequel il a pactisé peuvent communiquer par [[Télépathie (capacité)|télépathie]] l’un avec l’autre sur une distance de 30 mètres ou moins. Quand un cavalier chevauche son draconien au début d’un combat, les deux créatures déterminent leur [[initiative]] séparément et conservent le meilleur résultat pour les deux.}
 
 </div></td>
 <td><div>*Cette créature draconique élancée, aux écailles d’or et au port princier, paraît intelligente. Un harnais de cuir maintient en place une selle entre ses ailes.*

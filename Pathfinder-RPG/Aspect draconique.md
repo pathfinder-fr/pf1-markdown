@@ -8,7 +8,7 @@ Categories:
 
 *Le kobold possède certaines qualités de ces ancêtres draconiques.*
 
-**Conditions.** [Kobold](./Kobold (race).md).
+**Conditions.** [[kobold (race)|Kobold]].
 
 **Avantages.** Les écailles du kobold ont la couleur et certaines des résistances d’un type de dragon chromatique. Il choisit l’un des types de dragons chromatiques suivants : noir (acide), bleu (électricité), vert (acide), rouge (feu) ou blanc (froid). Ses écailles ont la couleur de ce dragon et il gagne une résistance de 5 au type d’énergie correspondant.
 

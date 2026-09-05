@@ -12,18 +12,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F/FD](./composantes.md) (une cartouche de papier vide)  
+**Composantes** [[Composantes|V, G, F/FD]] (une cartouche de papier vide)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une arme à feu chargée  
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
-La munition chargée a des difficultés à exploser quand l’arme tire. Le [facteur de portée](./FP.md) de l’arme à feu est réduit de moitié et le tireur reçoit un malus de -2 au jet de dégâts. S’il sait ce que fait le sort avant de tirer (un test d’[Art de la magie](./Art de la magie.md) ou un effet similaire permet d’identifier le sort), le tireur peut passer une [action simple](./Action simple.md) à nettoyer l’arme pour la débarrasser de la munition défectueuse. Cette dernière est détruite lors du nettoyage.
+La munition chargée a des difficultés à exploser quand l’arme tire. Le [[FP|facteur de portée]] de l’arme à feu est réduit de moitié et le tireur reçoit un malus de -2 au jet de dégâts. S’il sait ce que fait le sort avant de tirer (un test d’[[Art de la magie]] ou un effet similaire permet d’identifier le sort), le tireur peut passer une [[action simple]] à nettoyer l’arme pour la débarrasser de la munition défectueuse. Cette dernière est détruite lors du nettoyage.

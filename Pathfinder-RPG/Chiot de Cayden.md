@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extraplanaire|Plaines|Tempéré}
 {s:BDTexte|*Source : Familiar Folio page 29*}
 - **600 PX**
-- [Extraplanaire](./sous-type extraplanaire.md) ([sous-type natif|natif]) de taille P, CB
-- **Init **+4 ; **Sens** [Vision dans le noir](./vision dans le noir.md) à 18m (12 {s:c}), [Odorat](./odorat.md) ;  [Perception](./Perception.md) +5
+- [[sous-type extraplanaire|Extraplanaire]] ([[sous-type natif|natif]]) de taille P, CB
+- **Init **+4 ; **Sens** [[Vision dans le noir]] à 18m (12 {s:c}), [[Odorat]] ;  [[Perception]] +5
 (((Défense)))
 - **CA** 14, contact 11, pris au dépourvu 14 (naturel +3, taille +1)
 - **PV** 22 (3d10+6)
@@ -25,21 +25,21 @@ Categories:
 - **Corps à corps** Morsure +6 (1d4+3)
 - **Attaques spéciales** Grognement tonitruant
 - **Pouvoirs magiques** (**NLS **3 ; concentration +4)
-  - *3/jour* – [Déblocage](./Déblocage.md), [Ouverturefermeture|Ouverture/fermeture], [Stabilisation](./Stabilisation.md)
-  - *1/jour* – [Porte dimensionnelle](./Porte dimensionnelle.md) (sur lui-même plus 2,5kg maximum)
+  - *3/jour* – [[Déblocage]], [[Ouverturefermeture|Ouverture/fermeture]], [[Stabilisation]]
+  - *1/jour* – [[Porte dimensionnelle]] (sur lui-même plus 2,5kg maximum)
 (((Caractéristiques)))
 - **For **15, **Dex **11, **Con **14, **Int **6, **Sag **9, **Cha **12
 - **BBA **+3 ; **BMO **+4 ; **DMD **14
-- **Dons **[Agilité dimensionnelle](./Agilité dimensionnelle.md), [Science de linitiative|Science de l'initiative]
-- **Compétences **[Acrobaties](./Acrobaties.md) +6, [Intimidation](./Intimidation.md) +7, [Perception](./Perception.md) +5, [Psychologie](./Psychologie.md) +5 
+- **Dons **[[Agilité dimensionnelle]], [[Science de linitiative|Science de l'initiative]]
+- **Compétences **[[Acrobaties]] +6, [[Intimidation]] +7, [[Perception]] +5, [[Psychologie]] +5 
 - **Langues **Céleste (ne sait pas parler)
 (((Écologie)))
 - **Environnement **Terre ferme
 - **Organisation **solitaire, ou meute (2-4)
 - **Trésor** standard
 (((Capacités spéciales)))
-- **Familier supérieur** Un lanceur de sorts de niveau 7 possédant le don [Familier supérieur](./Familier supérieur.md) peut choisir un chiot de Cayden comme familier.
-- **Grognement tonitruant (Sur)** 3/jour, un chiot de Cayden peut émettre un grondement sourd qui résonne comme le tonnerre lointain et effraie ses attaquants. Les créatures situées à 4,50 m (3 {s:c}) ou moins du chiot de Cayden doivent réussir un jet de Volonté DD 12 pour pouvoir l'attaquer (comme si elles étaient sous l'effet du sort [Sanctuaire](./Sanctuaire.md)). Le chiot de Cayden peut choisir d'accorder ce même effet à un allié adjacent. Cet effet dure pendant 3 tours ou jusqu'à ce que le chiot de Cayden ou son allié attaque (selon celui qui se produit en premier), après quoi le chiot de Cayden doit attendre 1d6 tours avant de pouvoir réutiliser cette capacité. Le DD du jet de sauvegarde est basé sur le Charisme.
+- **Familier supérieur** Un lanceur de sorts de niveau 7 possédant le don [[Familier supérieur]] peut choisir un chiot de Cayden comme familier.
+- **Grognement tonitruant (Sur)** 3/jour, un chiot de Cayden peut émettre un grondement sourd qui résonne comme le tonnerre lointain et effraie ses attaquants. Les créatures situées à 4,50 m (3 {s:c}) ou moins du chiot de Cayden doivent réussir un jet de Volonté DD 12 pour pouvoir l'attaquer (comme si elles étaient sous l'effet du sort [[Sanctuaire]]). Le chiot de Cayden peut choisir d'accorder ce même effet à un allié adjacent. Cet effet dure pendant 3 tours ou jusqu'à ce que le chiot de Cayden ou son allié attaque (selon celui qui se produit en premier), après quoi le chiot de Cayden doit attendre 1d6 tours avant de pouvoir réutiliser cette capacité. Le DD du jet de sauvegarde est basé sur le Charisme.
 </div>
 
 

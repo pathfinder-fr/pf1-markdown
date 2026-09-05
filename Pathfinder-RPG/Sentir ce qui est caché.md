@@ -9,14 +9,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [Divination](./école divination.md) ; **Niveau** [alchimiste](./Alchimiste.md) 2, [barde](./Barde.md) 2, [conjurateur](./Conjurateur.md) 2, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 2, [inquisiteur](./Inquisiteur.md) 2, [prêtre](./Prêtre.md) 2, [sorcière](./Sorcière.md) 2  
+**École** [[école divination|Divination]] ; **Niveau** [[alchimiste]] 2, [[barde]] 2, [[conjurateur]] 2, [[ensorceleur]]/[[magicien]] 2, [[inquisiteur]] 2, [[prêtre]] 2, [[sorcière]] 2  
 
-**Durée** [Concentration](./Présentation des sorts.md#DUREE) , jusqu'à 1 minute/[niveau](./niveau.md) (T)  
+**Durée** [[Présentation des sorts#DUREE|Concentration]] , jusqu'à 1 minute/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
 
-**Restriction de cible** *[cône](./Cône (mot de pouvoir).md)*
+**Restriction de cible** *[[cône (mot de pouvoir)|cône]]*
 
-Ce mot permet au lanceur de voir les créatures et les objets [invisibles](./Invisible.md). Il sent qu’ils sont cachés mais il les voit normalement.
+Ce mot permet au lanceur de voir les créatures et les objets [[invisible|invisibles]]. Il sent qu’ils sont cachés mais il les voit normalement.
 
-**Augmentation.** Le mage perce les [illusions](./Illusion.md) pour voir la forme véritable des créatures et des objets transformés et localiser les créatures protégées par des sorts et des effets qui confèrent un [camouflage](./camouflage.md). Il bénéficie également d’un bonus de circonstance de +4 sur ses [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts et les effets d’[illusion](./Illusion.md). Augmenter ce mot effet améliore son niveau de 4.
+**Augmentation.** Le mage perce les [[Illusion|illusions]] pour voir la forme véritable des créatures et des objets transformés et localiser les créatures protégées par des sorts et des effets qui confèrent un [[camouflage]]. Il bénéficie également d’un bonus de circonstance de +4 sur ses [[jet de sauvegarde|jets de sauvegarde]] contre les sorts et les effets d’[[illusion]]. Augmenter ce mot effet améliore son niveau de 4.

@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Aberration|Marais|Tempéré}
 - *Source : Bestiaire 2 page 54*
 - **PX** 800
-- [Aberration](./type Aberration.md) (Air, Eau) de taille M, NM
-- **Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m, perception du sang ; [Perception](./Perception.md) +8
+- [[type Aberration|Aberration]] (Air, Eau) de taille M, NM
+- **Init** +8 ; **Sens** [[vision dans le noir]] 18 m, perception du sang ; [[Perception]] +8
 (((Défense)))
 - **CA** 14, contact 14, pris au dépourvu 10 (Dex +4)
 - **pv** 30 (4d8+12)
@@ -28,8 +28,8 @@ Categories:
 (((Caractéristiques)))
 - **For** -, **Dex** 19, **Con** 16, **Int** 7, **Sag** 13, **Cha** 10
 - **BBA** +3 ; **BMO** - ; **DMD** - 
-- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Discrétion](./Discrétion.md) +11, [Perception](./Perception.md) +8 ; [Vol](./Vol.md) +12
+- **Dons** [[Attaque en finesse]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Discrétion]] +11, [[Perception]] +8 ; [[Vol]] +12
 - **Langues** aklo
 - **Particularités** forme de brume, overdose de sang
 (((Écologie)))

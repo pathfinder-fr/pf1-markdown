@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ATTAQUEHANDICAPANTE
 ---
 
->>> [Talents#ATTAQUEHANDICAPANTE](./Talents.md#ATTAQUEHANDICAPANTE)
+>>> [[Talents#ATTAQUEHANDICAPANTE]]

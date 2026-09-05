@@ -12,8 +12,8 @@ Categories:
 {s:cmy}
 *Les coups critiques que le personnage inflige avec l’arme choisie sont d’une puissance dévastatrice.*
 
-**Condition.** [Science du critique](./Science du critique.md), bonus de base à l’attaque ([BBA](./BBA.md)) au moins égal à +8
+**Condition.** [[Science du critique]], bonus de base à l’attaque ([[BBA]]) au moins égal à +8
 
 **Avantage.** Le multiplicateur de critique que le personnage applique lorsqu’il manipule l’arme choisie augmente de 1 ( jusqu’à un maximum de ×6).
 
-**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas, ils s’appliquent à chaque fois à un don de [Science du critique](./Science du critique.md) [non-mythique](./non-mythique.md) différent.
+**Spécial.** Le personnage peut sélectionner ce don plusieurs fois. Les effets ne se cumulent pas, ils s’appliquent à chaque fois à un don de [[Science du critique]] [[non-mythique]] différent.

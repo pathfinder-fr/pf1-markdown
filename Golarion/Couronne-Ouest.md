@@ -9,17 +9,17 @@ Categories:
 ---
 
 {s:Ville|Couronne-d'Ouest||La Cité du Crépuscule|Standard (Maire soutenu par la monarchie chélaxienne)|LM|16.000 po|?|114 700|88% humains, 7% halfelins, 5% autres|{s:DescElem|**Licteur Richmar Almansor**, Commandant de la Citadelle Rivad, Commandant en Chef des Chevaliers Infernaux de l'Ordre du Chevalet} {s:DescElem|**Seigneur Maire Arbelan Arvanxi**, Maire de Couronne-d'Ouest, Patriarche de la Maison Arvanxi} {s:DescElem|**Vasindio Drovenge**, Patriarche de la Maison Drovenge} {s:DescElem|**Duxotar Iltus Martis**, Commandant de la Garde Urbaine} {s:DescElem|**Eirtein Oberigo**, Patriarche de la Maison Oberigo} {s:DescElem|**Casarus Vitallain**, Capitaine du Port de Couronne-d'Ouest} {s:DescElem|**General Vourne**, Amiral de la flotte impériale de la Baie de la Couronne-de-Gemmes}|En Cours...}
-Couronne-d'Ouest était la capitale qu'[Aroden](./Aroden.md) s'était choisi pour le [Chéliax](./Chéliax.md). Mais après sa chute et la guerre civile pour l'accession au trône qui suivi, la ville commença à péricliter. Ce d'autant plus rapidement que, lorsque la Maison Thrune, basée à [Egorian](./Egorian.md), prit le pouvoir, elle déplaça la capitale vers sa propre ville. Ainsi, les autres Maisons du [Chéliax](./Chéliax.md), qui restèrent en partie fidèle à l'ancienne monarchie, s'enfermèrent dans Couronne-d'Ouest et la ville perdit de son importance.
+Couronne-d'Ouest était la capitale qu'[[Aroden]] s'était choisi pour le [[Chéliax]]. Mais après sa chute et la guerre civile pour l'accession au trône qui suivi, la ville commença à péricliter. Ce d'autant plus rapidement que, lorsque la Maison Thrune, basée à [[Egorian]], prit le pouvoir, elle déplaça la capitale vers sa propre ville. Ainsi, les autres Maisons du [[Chéliax]], qui restèrent en partie fidèle à l'ancienne monarchie, s'enfermèrent dans Couronne-d'Ouest et la ville perdit de son importance.
 
 ### Description générale de Couronne-d'Ouest
-Fondée comme étant un lieu sacré dédié à [Aroden](./Aroden.md), la ville fut renommée, en 3837, Port-Occident par les familles nobles qui en avait fait le siège. Quelques années plus tard, en 3891, le roi du [Chéliax](./Chéliax.md) Korrado II déplaça la capitale d'[Ostenso](./Ostenso.md) à Port-Occident. Il renomma alors Port-Occident en Couronne-d'Ouest qui vécut une période de forte expansion.
+Fondée comme étant un lieu sacré dédié à [[Aroden]], la ville fut renommée, en 3837, Port-Occident par les familles nobles qui en avait fait le siège. Quelques années plus tard, en 3891, le roi du [[Chéliax]] Korrado II déplaça la capitale d'[[Ostenso]] à Port-Occident. Il renomma alors Port-Occident en Couronne-d'Ouest qui vécut une période de forte expansion.
 
-La mort d'[Aroden](./Aroden.md) fit entrer le [Chéliax](./Chéliax.md) dans une longue période de guerre civile. Les familles nobles, nombreuses à Couronne-d'Ouest, se déchirèrent le pouvoir jusqu'à l'accession au trône de la Maison Thrune et sa décision de déplacer la capitale à [Egorian](./Egorian.md). La ville perdit une bonne partie de ses habitants mais resta debout.
+La mort d'[[Aroden]] fit entrer le [[Chéliax]] dans une longue période de guerre civile. Les familles nobles, nombreuses à Couronne-d'Ouest, se déchirèrent le pouvoir jusqu'à l'accession au trône de la Maison Thrune et sa décision de déplacer la capitale à [[Egorian]]. La ville perdit une bonne partie de ses habitants mais resta debout.
 
 Couronne-d'Ouest n'est maintenant plus que l'ombre de ce qu'elle fut à son apogée, mais elle se relève petit à petit et reste un important lieu de commerce maritime.
 
 ### L'organisation politique de Couronne-d'Ouest
-Contrairement à beaucoup de villes du [Chéliax](./Chéliax.md) et à [Egorian](./Egorian.md) en particulier, la ville est principalement dirigée par les douze grandes Maisons nobles qui soutenaient la monarchie. Les deux plus influentes de ces Maisons sont la Maison Drovenge et la Maison Oberigo, qui ont soutenu la Maison Thrune lors de sa lutte pour le pouvoir. Les dix autres Maisons présentes dans la ville sont, de la plus à la moins influente, les Maisons Salisfer, Grulios, Arvanxi, Julistarc, Dioso, Tilernos, Phandros, Khollarix, Rosala et Mezinas.
+Contrairement à beaucoup de villes du [[Chéliax]] et à [[Egorian]] en particulier, la ville est principalement dirigée par les douze grandes Maisons nobles qui soutenaient la monarchie. Les deux plus influentes de ces Maisons sont la Maison Drovenge et la Maison Oberigo, qui ont soutenu la Maison Thrune lors de sa lutte pour le pouvoir. Les dix autres Maisons présentes dans la ville sont, de la plus à la moins influente, les Maisons Salisfer, Grulios, Arvanxi, Julistarc, Dioso, Tilernos, Phandros, Khollarix, Rosala et Mezinas.
 
 ### Les quartiers de Couronne-d'Ouest
 Couronne-d'Ouest est divisée en trois régions, les "Paregos", chacun d'entre eux étant subdivisé en secteurs, les "Regos". Voici la liste des Pargos et de leurs Regos :
@@ -33,7 +33,7 @@ Couronne-d'Ouest est divisée en trois régions, les "Paregos", chacun d'entre e
 - **Spera** (l'Autel de l'Espoir) représente la partie encore occupée de la ville sur les terres. Elle est composée de :
   - **Rego Scripa** (le Secteur Scribe), anciennement occupé par l'administration impériale, on y trouve aujourd'hui surtout des cartographes, des entrepôts commerciaux et des entreprises de commerce maritime.
   - **Rego Pena** (le Secteur de la Monnaie), secteur des commerces licites et illicites. Beaucoup d'argent y circule.
-  - **Rego Sacero** (le Secteur des Prêtres), ce secteur contient plus de chapelles et de biens ecclésiastiques que l'ensemble des cinq autres grandes villes du [Chéliax](./Chéliax.md).
+  - **Rego Sacero** (le Secteur des Prêtres), ce secteur contient plus de chapelles et de biens ecclésiastiques que l'ensemble des cinq autres grandes villes du [[Chéliax]].
 
 ### Visiter Couronne-d'Ouest
 De nombreux monuments, construits pour la plupart avant la guerre civile, sont encore visibles à Couronne-d'Ouest :
@@ -43,5 +43,5 @@ De nombreux monuments, construits pour la plupart avant la guerre civile, sont e
 - le **Miratanza** (le Marché Flottant), dans le Regicona, est le marché d'approvisionnement des Maisons nobles.
 - le **Pleatra**, dans le Dospera, est le marché aux esclaves. Il s'agit de l'un des plus gros bâtiments du secteur.
 - la **Maison Taranik**, dans le Spera, est le lieu de garnison des Chevaliers infernaux de l'ordre du Chevalet à Couronne-d'Ouest.
-- l**'Elévation d'[Aroden](./Aroden.md)**, dans le Spera, est une colline couvertes de chapelles en ruines et d'une immense statue d'[Aroden](./Aroden.md), l**'Arodennama**, qui est plus ancienne que toutes les autres structures de la ville.
-- la **Qatada Nessudidia**, dans le Spera, est le plus grand temple dédié à [Asmodéus](./Asmodéus.md) à Couronne-d'Ouest.
+- l**'Elévation d'[[Aroden]]**, dans le Spera, est une colline couvertes de chapelles en ruines et d'une immense statue d'[[Aroden]], l**'Arodennama**, qui est plus ancienne que toutes les autres structures de la ville.
+- la **Qatada Nessudidia**, dans le Spera, est le plus grand temple dédié à [[Asmodéus]] à Couronne-d'Ouest.

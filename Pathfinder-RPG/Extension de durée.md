@@ -9,6 +9,6 @@ Categories:
 
 *Les sorts du personnage durent deux fois plus longtemps.*
 
-**Catégorie.** [métamagie](./Dons.md#METAMAGIE)
+**Catégorie.** [[Dons#METAMAGIE|métamagie]]
 
-**Avantage.** Un sort à extension de durée dure deux fois plus longtemps qu’indiqué dans sa description. Les sorts permanents, instantanés et ceux dont la durée dépend de la concentration du personnage ne sont pas concernés. Un sort à extension de durée nécessite un [emplacement de sort](./emplacement de sort.md) d’un [niveau](./Niveau de sort.md) de plus que son niveau réel.
+**Avantage.** Un sort à extension de durée dure deux fois plus longtemps qu’indiqué dans sa description. Les sorts permanents, instantanés et ceux dont la durée dépend de la concentration du personnage ne sont pas concernés. Un sort à extension de durée nécessite un [[emplacement de sort]] d’un [[niveau de sort|niveau]] de plus que son niveau réel.

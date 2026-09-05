@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Myrmarque Formien
 ---
 
->>> [Myrmarque Formien](./Myrmarque formien.md)
+>>> [[Myrmarque Formien]]

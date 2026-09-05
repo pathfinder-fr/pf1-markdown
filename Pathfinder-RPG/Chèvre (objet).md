@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1-6 po ; **Poids** 25 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-En tant qu’animaux d’élevage, les chèvres donnent du lait, de la viande, de la fourrure et de la peau. On les utilise parfois pour nettoyer les champs envahis par les mauvaises herbes et les arbustes. Certains lanceurs de sorts en font des [familiers](./Familiers.md).
+En tant qu’animaux d’élevage, les chèvres donnent du lait, de la viande, de la fourrure et de la peau. On les utilise parfois pour nettoyer les champs envahis par les mauvaises herbes et les arbustes. Certains lanceurs de sorts en font des [[Familiers]].

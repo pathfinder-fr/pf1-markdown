@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Fasciné
 ---
 
->>> [États préjudiciables#Fasciné](./États préjudiciables.md#Fasciné)
+>>> [[États préjudiciables#Fasciné]]

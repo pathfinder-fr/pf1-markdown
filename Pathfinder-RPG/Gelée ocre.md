@@ -14,29 +14,29 @@ Categories:
 {s:pucem|Vase|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.153*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Vase](./type Vase.md) de taille G, N}
-{s:BDTexte|**Init** -5 ; **Sens** [vision aveugle](./vision aveugle.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] de taille G, N}
+{s:BDTexte|**Init** -5 ; **Sens** [[vision aveugle]] 18 m (12 {s:c}) ; [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 4, contact 4, pris au dépourvu 4 (Dex -5, taille -1)}
 {s:BDTexte|**pv** 63 (6d8+36)}
 {s:BDTexte|**Réf** -3, **Vig** +8, **Vol** -3}
-{s:BDTexte|**Capacités défensives** division ; **Immunités** dégâts perçants et tranchants, effets mentaux, électricité, [traits des vases](./type Vase.md) }
+{s:BDTexte|**Capacités défensives** division ; **Immunités** dégâts perçants et tranchants, effets mentaux, électricité, [[type vase|traits des vases]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c}), escalade 3 m (2 {s:c})}
-{s:BDTexte|**Corps à corps** coup, +5 (2d4+3 et 1d4 acide et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** coup, +5 (2d4+3 et 1d4 acide et [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (2d4+3 et 1d4 acide)}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (2d4+3 et 1d4 acide)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 1, **Con** 22, **Int** -, **Sag** 1, **Cha** 1}
-{s:BDTexte|**BBA** +4, **BMO** +7 (+11 pour la lutte), **DMD** 12 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +10}
+{s:BDTexte|**BBA** +4, **BMO** +7 (+11 pour la lutte), **DMD** 12 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Compétences** [[Escalade]] +10}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais ou souterrain, climat tempéré}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Acide (Ext).** Les gelées ocres sécrètent un acide digestif qui ne dissout que la chair (pas les os) lorsqu'elles frappent un ennemi. Les créatures sui ne sont pas composées de chair (comme la plupart des [créatures artificielles](./type Créature artificielle.md) et des [vases](./type Vase.md), les [morts-vivants](./type Mort-vivant.md) semblables à des [squelettes](./Squelette, archétype.md), les [plantes](./type Plante.md) et les créatures [intangibles](./sous-type intangible.md)) sont immunisées contres l'acide des gelées ocres.}
-{s:BDTexte|**Division (Ext).** Les armes tranchantes, les armes perforantes et les attaques d'électricité n'infligent aucun dégât aux gelées ocres. Au lieu de cela, la gelée se divise en deux gelées identiques possédant chacune la moitié du nombre de [points de vies](./pv.md) de l'original (arrondi vers le bas). Les gelées qui n'ont que 10 points de vie ou moins ne peuvent plus se diviser. Elles meurent si elles sont réduites à 0 points de vie.}
+{s:BDTexte|**Acide (Ext).** Les gelées ocres sécrètent un acide digestif qui ne dissout que la chair (pas les os) lorsqu'elles frappent un ennemi. Les créatures sui ne sont pas composées de chair (comme la plupart des [[type créature artificielle|créatures artificielles]] et des [[type vase|vases]], les [[type mort-vivant|morts-vivants]] semblables à des [[squelette, archétype|squelettes]], les [[type plante|plantes]] et les créatures [[sous-type intangible|intangibles]]) sont immunisées contres l'acide des gelées ocres.}
+{s:BDTexte|**Division (Ext).** Les armes tranchantes, les armes perforantes et les attaques d'électricité n'infligent aucun dégât aux gelées ocres. Au lieu de cela, la gelée se divise en deux gelées identiques possédant chacune la moitié du nombre de [[pv|points de vies]] de l'original (arrondi vers le bas). Les gelées qui n'ont que 10 points de vie ou moins ne peuvent plus se diviser. Elles meurent si elles sont réduites à 0 points de vie.}
 </div>
 </td><td><div>*Cette créature amiboïde jaune-orange glisse lentement sur le sol en se propulsant à l’aide de pseudopodes.*
 

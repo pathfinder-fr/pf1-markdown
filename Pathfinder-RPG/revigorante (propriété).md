@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Revigorante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Revigorante](./Descriptions individuelles des propriétés spéciales des armes.md#Revigorante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Revigorante]]

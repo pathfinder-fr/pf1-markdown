@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Il s’agit de l’équipement que le cavalier place sur la tête de sa monture pour la contrôler. Dans la plupart des région, on trouve facilement des mors et des filets pour les [chevaux](./Cheval (objet).md), les [poneys](./Cheval (objet).md) et les [chiens de selle](./Chien (objet).md) et l’on peut en fabriquer pour toute créature servant de monture.
+Il s’agit de l’équipement que le cavalier place sur la tête de sa monture pour la contrôler. Dans la plupart des région, on trouve facilement des mors et des filets pour les [[Cheval (objet)|chevaux]], les [[Cheval (objet)|poneys]] et les [[Chien (objet)|chiens de selle]] et l’on peut en fabriquer pour toute créature servant de monture.

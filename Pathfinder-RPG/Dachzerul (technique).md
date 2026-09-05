@@ -7,19 +7,19 @@ Categories:
 - Src Book of the Damned
 ---
 
-{s:DieuTech|Dachzerul|Les ténèbres derrière soi| |[Bourreaux sahkils](./Divinités.md#BOURREAUXSAHKILS)
+{s:DieuTech|Dachzerul|Les ténèbres derrière soi| |[[Divinités#BOURREAUXSAHKILS|Bourreaux sahkils]]
 |Chaotique Mauvais|Farces mortelles, harceleurs, mort subite
 |N'importe|Aucun
-|[Rapière](./rapière (arme).md)
-|[Chance](./Domaine de la Chance.md), [Charme](./Domaine du Charme.md), [Duperie](./Domaine de la Duperie.md), [Mal](./Domaine du Mal.md)
-|[Malédiction](./Domaine de la Chance.md), [Peur](./Domaine du Mal.md), [Sahkil](./Domaine du Mal.md), [Supercherie](./Domaine de la Duperie.md)
+|[[Rapière (arme)|Rapière]]
+|[[Domaine de la Chance|Chance]], [[Domaine du Charme|Charme]], [[Domaine de la Duperie|Duperie]], [[Domaine du Mal|Mal]]
+|[[Domaine de la Chance|Malédiction]], [[Domaine du Mal|Peur]], [[Domaine du Mal|Sahkil]], [[Domaine de la Duperie|Supercherie]]
 |—}
 {s:cs}{s:Botd}
 ### Obédience
-Se laisser aller à l'obsession sur la vengeance planifiée contre une personne qui nous a fait du tort. Gain d'un bonus de malfaisance de +2 aux tests de [Bluff](./Bluff.md) et de [Discrétion](./Discrétion.md).
+Se laisser aller à l'obsession sur la vengeance planifiée contre une personne qui nous a fait du tort. Gain d'un bonus de malfaisance de +2 aux tests de [[Bluff]] et de [[Discrétion]].
 
 #### Faveurs (Bourreaux sahkils)
-Les bourreaux [sahkils](./Sahkil.md) dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [FP](./FP.md) 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) utilisables deux fois par jour chacun.
-- **1.** *[convocation de monstres VI](./Convocation de monstres VI.md)*
-- **2.** *[assassin imaginaire](./Assassin imaginaire.md)*
-- **3.** *[double illusoire](./Double illusoire.md)*
+Les bourreaux [[Sahkil|sahkils]] dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [[FP]] 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables deux fois par jour chacun.
+- **1.** *[[convocation de monstres VI]]*
+- **2.** *[[assassin imaginaire]]*
+- **3.** *[[double illusoire]]*

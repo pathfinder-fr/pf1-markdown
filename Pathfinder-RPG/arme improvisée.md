@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#ARMESIMPROVISEES
 ---
 
->>> [Caractéristiques des armes#ARMESIMPROVISEES](./Caractéristiques des armes.md#ARMESIMPROVISEES)
+>>> [[Caractéristiques des armes#ARMESIMPROVISEES]]

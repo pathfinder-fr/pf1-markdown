@@ -18,12 +18,12 @@ Encré dans le flanc de la montagne, une porte de pierre se dresse. Des symboles
 Aucune magie n'en émane. Un jet de linguistique DD20 confirme qu'il s'agit de runes thassilonniennes atypiques. La porte, malgré tous les efforts, reste impossible à ouvrir.
 
 
-Les aventuriers n'auront pas le temps de se reposer que des [++Pathfinder-RPG.Araignée géante|Araignées géantes] provenant d'un surplomb les attaqueront.
+Les aventuriers n'auront pas le temps de se reposer que des [[Pathfinder-RPG.Araignée géante|Araignées géantes]] provenant d'un surplomb les attaqueront.
 
 Il n'en faudra pas moins pour décider nos aventuriers à escalader la paroi rocheuse et se rendre au surplomb dans lequel ils trouveront l'entré du donjon par un trou dans le sol : les ruines de Xin Tarion.
 
 
-Note de l'auteure : Etant donné que je joue cette campagne actuellement, il serait malheureux que mes joueurs tombent par mégarde sur des informations top secrètes. C'est pourquoi je crée cette [page de spoilers](./Les ruines de Xin-Tarion spoiler.md) pour toutes les explications en ce qui concerne l'histoire.
+Note de l'auteure : Etant donné que je joue cette campagne actuellement, il serait malheureux que mes joueurs tombent par mégarde sur des informations top secrètes. C'est pourquoi je crée cette [[Les ruines de Xin-Tarion spoiler|page de spoilers]] pour toutes les explications en ce qui concerne l'histoire.
 
 ## Les ruines de Xin-Tarion
 <nav class="wiki-toc"></nav>
@@ -50,7 +50,7 @@ Dans le mur, des cristaux diffusent une lumière bleutée qui diffusent assez de
 
 A cause des nombreuses toiles, il est difficile de voir clairement les murs. ''
 
-C'est alors que deux [++Pathfinder-RPG.Nuée daraignées|nuées d'araignées] viennent se joindre à la découverte.
+C'est alors que deux [[Pathfinder-RPG.Nuée daraignées|nuées d'araignées]] viennent se joindre à la découverte.
 
 Des fresques recouvrent les murs et si les aventuriers utilisent un peu trop de feu, ils pourraient se ternir et ne plus permettre l'identification des peintures.
 S'ils arrivent à dégager les murs, ils découvrent en partie des pigments bleutés sur le haut du mur, le bas a semble-t-il été érodé. Sous les toiles, de chaque côté du mur, se trouvent un personnage : d'un côté une femme vêtue d'une robe blanche et portant une torche dans la main droite, son autre main est au niveau du bassin comme si elle invitait à suivre la torche vers le Nord. De l'autre côté il y a l'image d'un homme également en robe, qui fait le même geste.
@@ -64,7 +64,7 @@ Les cristaux lumineux sont bien enchâssés dans le mur et risqueraient de se br
 
 *Le couloir qui mène au hall (salle B) est obstrué de toiles d'araignées. A l'intérieur des centaines de petites araignées gambadent allègrement. Nul doute qu'elles se jetteront sur la première proie qui ose s'aventurer trop près.*
 
-Encore une [++Pathfinder-RPG.Nuée daraignées|nuée d'araignées] à affronter ou 2 [++Pathfinder-RPG.Araignée géante|araignées géantes].
+Encore une [[Pathfinder-RPG.Nuée daraignées|nuée d'araignées]] à affronter ou 2 [[Pathfinder-RPG.Araignée géante|araignées géantes]].
 
 ''Le couloir débouche sur un croisement.
 Le sol est jonché de centaines d'oeufs, certains éclos, d'autres encore en dormance. Certains sont peut-être stériles d'ailleurs.
@@ -76,10 +76,10 @@ Sur le côté Ouest, un éboulement manifeste avec quelques os pris dans les toi
 
 Un teste de Religion DD 20 peut mettre en relation le fait que l'étoile représente Desna dans d'anciennes croyances.
 
-[http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#C_:_Nids_2|Spoiler]
+[Spoiler](http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#C_:_Nids_2)
 #### D : Couveuse
 
-Le souci principal de cette salle est son accès. Il y a en effet un trou béant recouvert de toiles d'araignées peu solides qui s'enfonce dans les profondeurs de la terre et de l'autre côté une [++Pathfinder-RPG.Veuve noire géante|énorme araignée].
+Le souci principal de cette salle est son accès. Il y a en effet un trou béant recouvert de toiles d'araignées peu solides qui s'enfonce dans les profondeurs de la terre et de l'autre côté une [[Pathfinder-RPG.Veuve noire géante|énorme araignée]].
 
 Une chute dans le trou est mortelle. Bien qu'il y ait un rapide passage vers la salle P, il faudrait réussir un jet d'Escalade DD 30 pour pouvoir s'agripper et ne pas tomber.
 
@@ -89,7 +89,7 @@ Au fond de la salle, il est possible de découvrir un coffre métallique.
 
 {s:ImageExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie%2082%2fCoffre1.png}
 
-Il contient un [https://img0.etsystatic.com/101/0/8286617/il_570xN.848992134_1hud.jpg|pendentif], des carreaux d'arbalète en fer froid, une potion de soin, trois pièces (argent thassilonien) et un petit [https://img1.etsystatic.com/000/0/5583387/il_fullxfull.285174621.jpg|anneau] grisâtre aux motifs de feuilles (anneau de feuille morte).
+Il contient un [pendentif](https://img0.etsystatic.com/101/0/8286617/il_570xN.848992134_1hud.jpg), des carreaux d'arbalète en fer froid, une potion de soin, trois pièces (argent thassilonien) et un petit [anneau](https://img1.etsystatic.com/000/0/5583387/il_fullxfull.285174621.jpg) grisâtre aux motifs de feuilles (anneau de feuille morte).
 
 #### E : Salle des  champignons
 
@@ -123,7 +123,7 @@ De quoi voir le mage du groupe chanter la "Digue du"... c'est un moment bien amu
 La galerie sur laquelle se trouve le groupe a des rambardes et des colonnes joliment décorées avec des sculptures florales. Sur les murs, la pierre avait dû être peinte en partie en vert, mais il ne restait plus assez de pigments pour remarquer s'il y avait également des motifs.
 Toutefois, le long du mur, une inscription était gravée avec une écriture dorée, et ce, de chaque côté de la pièce.
 
-[imageleft||{UP}/Partie 82/Draconique1.jpg|centre]
+<img src="{UP}/Partie 82/Draconique1.jpg" class="imageleft" alt="">
 
 
 
@@ -139,7 +139,7 @@ Toutefois, le long du mur, une inscription était gravée avec une écriture dor
 
 En contrebas, on peut voir la pièce inférieure qui semble remplie d'eau claire. Les cristaux luminescents sont actifs sur cette zone et la pièce du bas.
 
-Un teste de linguistique "draconique" DD 15 peut aider à déchiffrer le [http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#F_:_P%C3%A9ristyle_5|message].
+Un teste de linguistique "draconique" DD 15 peut aider à déchiffrer le [message](http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#F_:_P%C3%A9ristyle_5).
 
 (Personnellement, j'ai accordé au joueur la possibilité de déchiffrer avec l'alphabet utilisé (la police s'appelle "draconomicon") et un de mes joueurs s'est amusé à décoder. )
 
@@ -177,7 +177,7 @@ Sur chaque plateau réside une pierre de forme ronde de la taille d'une pêche. 
 Si un personnage prend une gemme du plateau, celle-ci se met à luire, à pulser plus précisément toutes les six secondes. A chaque pulsation, la gemme envoie une décharge d'un élément sous forme d'aura.
 1d6 points de dommage de l'élément en fonction de la couleur (bleu : froid, rouge : feu, vert : acide, blanc : électricité) pour les créatures à 2 cases de distance du porteur de la gemme. Ca monte à 2d6 pour ceux qui sont sur les cases adjacentes au porteur.
 
-La solution est [http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#I_:_Salle_des_quatre_statues_6|ici].
+La solution est [ici](http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#I_:_Salle_des_quatre_statues_6).
 #### J : Porte du haut
 
 *La porte du haut est identique à  celle du bas : métallique et solide. La seul différence est qu'au lieu des renfoncements ovales, il y a un dessin de gemmes rondes de couleur qui forme une ligne : bleu, rouge, blanc et vert. *
@@ -198,12 +198,12 @@ Au Nord le couloir illuminé de pierres bleutées mène à une grande porte dont
 Un teste de perception DD 15 permet de remarquer dans le couloir entre la salle K et la L une pique en métal dans un renfoncement. De l'autre côté il y a également un renfoncement mais vide.
 
 
-[http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#L_:_Salle_deau_7|Spoiler]
+[Spoiler](http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#L_:_Salle_deau_7)
 
 
 *Les nombreuses colonnes qui ornent cette salle ont les pieds noyés dans l'eau. La lumière des cristaux répand des reflets bleutés à la fois agréables et inhabituels. *
 
-Cette salle est le repaire d'une [++Pathfinder-RPG.Vase grise|vase grise] qui servait autrefois à nettoyer les couloirs, notamment la salle des statues (I). Elle tente de prendre les aventuriers par surprise.
+Cette salle est le repaire d'une [[Pathfinder-RPG.Vase grise|vase grise]] qui servait autrefois à nettoyer les couloirs, notamment la salle des statues (I). Elle tente de prendre les aventuriers par surprise.
 
 Le sol de la salle est recouvert d'eau de ruissellement : autrefois il y avait un bassin d'agrément au milieu mais l'eau a continuer à affluer et a fait monter de 15 cm le niveau, inondant toute la pièce.
 
@@ -226,7 +226,7 @@ Il faut les actionner en même temps pour que la porte s'ouvre.
 
 ''Une forte lumière inonde la pièce par un plafonnier similaire à la salle des quatre statues. Le sol est couvert de ce qu'on peut penser être du sable, mais à bien vérifier il s'agit de poussière.
 
-Les murs portent des centaines d'inscriptions entourant certains dessins gravés. Des runes thassilonniennes par centaines, sur tous les murs de cette salle. ([http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie%2082%2ffresque.jpg|Illustration approximative])
+Les murs portent des centaines d'inscriptions entourant certains dessins gravés. Des runes thassilonniennes par centaines, sur tous les murs de cette salle. ([Illustration approximative](http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie%2082%2ffresque.jpg))
 Au Nord-Ouest il y a un éboulis : la fresque s'est effondrée et laisse voir de la pierre non travaillée, comme si quelque chose avait donné un grand coup de pied depuis l'étage du dessus.
 
 A l'Est il y a un passage semblant être un couloir.
@@ -235,7 +235,7 @@ Les deux choses cependant les plus remarquables sont le piédestal au centre de 
 
 {s:ImageExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fPartie%2082%2fAutel.png|300px|centre}
 
-Sur l'autel au centre de la pièce, il y a un livre de pierre sur lequel est inscrit deux symboles. ([http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#M_:_Salle_des_fresques_8|Spoiler])
+Sur l'autel au centre de la pièce, il y a un livre de pierre sur lequel est inscrit deux symboles. ([Spoiler](http://www.pathfinder-fr.org/Wiki/Ressources.Les%20ruines%20de%20Xin-Tarion%20spoiler.ashx?NoRedirect=1#M_:_Salle_des_fresques_8))
 
 Il y a huit emplacements de personnages sur les fresques et de préférence, ce sont les aventuriers qui sont représentés. Au dessus de chaque personnage il y en a d'autres plus petits, et encore d'autres plus haut qui forment tout une colonne.
 
@@ -271,7 +271,7 @@ Après le gouffre qui doit faire au moins six mètres de large, il y a le reste 
 Le gouffre se poursuit à plusieurs dizaines de mètres de profondeur. Une chute dedans serait mortelle.
 
 
-Le coffre lourd renferme un trésor peu commun : à vous de voir ce que vous voulez y mettre, personnellement, j'ai choisi [http://www.pathfinder-fr.org/Forum/posts/m649727-3--Les-ruines-de-la-Clef#post649727|ça] (dans le spoiler "Pour Aylora").
+Le coffre lourd renferme un trésor peu commun : à vous de voir ce que vous voulez y mettre, personnellement, j'ai choisi [ça](http://www.pathfinder-fr.org/Forum/posts/m649727-3--Les-ruines-de-la-Clef#post649727) (dans le spoiler "Pour Aylora").
 
 
 Le donjon se poursuit dans le sous-terrain accessible par la salle octogonale mais c'est une digression et je n'ai pas d'autres illustrations, donc je terminerai ce donjon ici. En espérant qu'il vous a plu !

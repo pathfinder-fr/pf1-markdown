@@ -14,18 +14,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[émotion, mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 4, [Hyp](./Hypnotiseur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Prê](./Prêtre.md) 5, [Psy](./Psychiste.md) 5  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|émotion, mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Cible** 1 créature/[niveau](./niveau.md), distantes de moins de 9 m (6 {s:c}) les unes des autres  
+**Cible** 1 créature/[[niveau]], distantes de moins de 9 m (6 {s:c}) les unes des autres  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage emplit l’esprit des cibles d’un sentiment de quiétude. Celles qui tentent de commettre un acte violent sont assaillies de vives douleurs et reçoivent 3d6 points de [dégâts non létaux](./Dégâts non létaux.md) à chaque [round](./round.md) où elles essayent de blesser quelqu’un. Si une cible est attaquée, elle peut se défendre et participer au combat en utilisant [Expertise du combat](./Expertise du combat.md), [combat sur la défensive](./combat sur la défensive.md) ou en faisant une action de [défense totale](./défense totale.md), rien de ceci ne déclenche de douleurs et de [dégâts non létaux](./Dégâts non létaux.md).
+Le personnage emplit l’esprit des cibles d’un sentiment de quiétude. Celles qui tentent de commettre un acte violent sont assaillies de vives douleurs et reçoivent 3d6 points de [[dégâts non létaux]] à chaque [[round]] où elles essayent de blesser quelqu’un. Si une cible est attaquée, elle peut se défendre et participer au combat en utilisant [[Expertise du combat]], [[combat sur la défensive]] ou en faisant une action de [[défense totale]], rien de ceci ne déclenche de douleurs et de [[dégâts non létaux]].

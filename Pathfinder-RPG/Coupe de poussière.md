@@ -13,22 +13,22 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[malédiction](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Dru](./Druide.md) 3, [Hyp](./Hypnotiseur.md) 3, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ;** Niveau** [[Druide|Dru]] 3, [[Hypnotiseur|Hyp]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une pincée de poussière)  
+**Composantes** [[Composantes|V, G, M]] (une pincée de poussière)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** 1 jour/[niveau](./niveau.md) (T)  
+**Durée** 1 jour/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage maudit sa cible en l'affligeant d'une soif que nulle boisson ne peut apaiser. Si la cible rate son [jet de sauvegarde](./jet de sauvegarde.md), elle se [déshydrate](./Dangers naturels.md#FAIMSOIF). Les effets de ce sort ne peuvent pas infliger plus de points de [dégâts non létaux](./Dégâts non létaux.md) que la cible ne possède de points de vie. Aucune quantité de boisson ne peut contrer cet effet, bien que la cible subisse les conséquences normales de l'absorption de liquide (qu'il s'agisse de [poison](./poison.md), de [potion](./Potions magiques.md) ou autre). On peut dissiper *coupe de poussière* avec *[annulation d'enchantement](./Annulation denchantement.md)*, *[souhait limité](./Souhait limité.md)*, *[miracle](./Miracle.md)*, *[délivrance des malédictions](./Délivrance des malédictions.md)* ou *[souhait](./Souhait.md)* mais il faut soigner les effets de la [déshydratation](./Dangers naturels.md#FAIMSOIF) comme d'ordinaire.
+Le personnage maudit sa cible en l'affligeant d'une soif que nulle boisson ne peut apaiser. Si la cible rate son [[jet de sauvegarde]], elle se [[Dangers naturels#FAIMSOIF|déshydrate]]. Les effets de ce sort ne peuvent pas infliger plus de points de [[dégâts non létaux]] que la cible ne possède de points de vie. Aucune quantité de boisson ne peut contrer cet effet, bien que la cible subisse les conséquences normales de l'absorption de liquide (qu'il s'agisse de [[poison]], de [[potions magiques|potion]] ou autre). On peut dissiper *coupe de poussière* avec *[[annulation denchantement|annulation d'enchantement]]*, *[[souhait limité]]*, *[[miracle]]*, *[[délivrance des malédictions]]* ou *[[souhait]]* mais il faut soigner les effets de la [[dangers naturels#FAIMSOIF|déshydratation]] comme d'ordinaire.
 
 ### Mythique
 {s:CMy}
-En cas de jet de sauvegarde raté, la cible subit immédiatement 1d6 points de dégâts non-létaux par grade. Ajoutez le [grade](./Grade.md) du personnage au [DD](./DD.md) des tests de [Constitution](./Constitution.md) ultérieurs que la cible effectue pour résister à la déshydratation occasionnée par ce sort. Tant que la malédiction reste effective, la cible ne gagne aucun avantage conféré par les sorts, les effets ou les objets qui nécessitent de boire, telles que les potions et les élixirs (même s’ils sont tout de même dépensés lorsque la cible les boit).
+En cas de jet de sauvegarde raté, la cible subit immédiatement 1d6 points de dégâts non-létaux par grade. Ajoutez le [[grade]] du personnage au [[DD]] des tests de [[Constitution]] ultérieurs que la cible effectue pour résister à la déshydratation occasionnée par ce sort. Tant que la malédiction reste effective, la cible ne gagne aucun avantage conféré par les sorts, les effets ou les objets qui nécessitent de boire, telles que les potions et les élixirs (même s’ils sont tout de même dépensés lorsque la cible les boit).

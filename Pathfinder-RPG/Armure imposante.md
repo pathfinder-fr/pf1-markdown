@@ -11,12 +11,12 @@ Categories:
 
 {s:cs}{s:AMH}*L'armure du personnage lui permet de repousser ses adversaires.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise d'armure](./Dons.md#MAITRISEDARMURE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDARMURE|maîtrise d'armure]]
 
-**Conditions.** [Armure équilibrée](./Armure équilibrée.md), [BBA](./BBA.md) +11 ou [guerrier](./Guerrier.md) de niveau 8, capacité de classe [entrainement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES), formation au port des armures lourdes
+**Conditions.** [[Armure équilibrée]], [[BBA]] +11 ou [[guerrier]] de niveau 8, capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entrainement aux armures]], formation au port des armures lourdes
 
-**Avantage.** Le personnage considère sa [taille](./taille.md) comme étant de deux catégories supérieures pour déterminer la taille des créatures contre lesquelles il peut réaliser une manœuvre de [bousculade](./bousculade.md), de [croc-en-jambe](./croc-en-jambe.md), d'[entraînement](./entraînement.md) et de [renversement](./renversement.md).
+**Avantage.** Le personnage considère sa [[taille]] comme étant de deux catégories supérieures pour déterminer la taille des créatures contre lesquelles il peut réaliser une manœuvre de [[bousculade]], de [[croc-en-jambe]], d'[[entraînement]] et de [[renversement]].
 
 {s:AMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance par une [action rapide](./Action rapide.md) pour ajouter la moitié de son bonus d'armure à son prochain test de [manœuvre offensive](./Manœuvres offensives.md) effectué ce tour. Autrement, il peut dépenser 5 points d’endurance par une [action immédiate](./Action immédiate.md) pour ajouter la moitié de son bonus d'armure à sa [DMD](./DMD.md) contre une unique manœuvre offensive effectuée ce tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance par une [[action rapide]] pour ajouter la moitié de son bonus d'armure à son prochain test de [[manœuvres offensives|manœuvre offensive]] effectué ce tour. Autrement, il peut dépenser 5 points d’endurance par une [[action immédiate]] pour ajouter la moitié de son bonus d'armure à sa [[DMD]] contre une unique manœuvre offensive effectuée ce tour.

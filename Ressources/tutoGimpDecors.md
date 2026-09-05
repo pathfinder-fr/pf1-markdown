@@ -18,7 +18,7 @@ Il y a deux méthodes pour cela :
 - 1- Dessiner chaque élément à part, sur un calque séparé, pour ensuite l'ajouter à la carte. Cette méthode est assez longue, demande un peu de pratique, mais elle a l'avantage de donner un maximum de souplesse car on peut avoir exactement ce qu'on souhaite. Ce n'est pas l'objet de ce tutorial mais la méthode d'import reste la même.
 
 
-- 2- Utiliser un objet de la très complète bibliothèque disponible en [^http://www.rptoolstutorials.net/mapping_objects.torrent|en lien torrent]. Il s'agit d'une archive triée de plus de 2 Go de fichiers .jpg ou .png utilisables sous licence Creative Commons et contenant tout ce dont on a besoin pour agrémenter une bonne map.
+- 2- Utiliser un objet de la très complète bibliothèque disponible en [en lien torrent](http://www.rptoolstutorials.net/mapping_objects.torrent). Il s'agit d'une archive triée de plus de 2 Go de fichiers .jpg ou .png utilisables sous licence Creative Commons et contenant tout ce dont on a besoin pour agrémenter une bonne map.
 
 
 ### Import d'Objets
@@ -34,17 +34,17 @@ Le principe d'import est très très simple et se déroule en quatre phases.
 
 
 Partons du principe que vous avez une map avec une pièce vide créée avec les tutos précédents.
-Voici donc une map réalisée avec le script Dungeon Map Maker (l'utilisation de ce script est expliqué dans ce tutoriel: [Tutoriel DMM|Une BattleMap en 3 Clics...] ).
+Voici donc une map réalisée avec le script Dungeon Map Maker (l'utilisation de ce script est expliqué dans ce tutoriel: [[Tutoriel DMM|Une BattleMap en 3 Clics...]] ).
 
 
-[imageauto||{UP}/tutogimp/tuto301.jpg]
+<img src="{UP}/tutogimp/tuto301.jpg" class="imageauto" alt="">
 
 Il s'agit d'une partie d'un donjon, pour l'instant complètement vide, dans lequel nous allons ajouter une porte.
 
 
 ### Création du Calque d'accueil
 
-[imageleft||{UP}/tutogimp/tuto302.jpg]
+<img src="{UP}/tutogimp/tuto302.jpg" class="imageleft" alt="">
 
 L'import de décors consiste à ouvrir une image (souvent un .png pour conserver la transparence) et à la coller dans une autre image (la battlemap).
 Pour cela, il faut commencer par créer un Calque qui recevra les objets importés dans la battlemap.
@@ -57,7 +57,7 @@ Commençons donc par créer un Calque que nous appellerons Portes.
 Dans la fenêtre de Calques, cliquer sur la petite page blanche et remplir la fenêtre qui s'ouvre.
 
 
-[imageleft||{UP}/tutogimp/tuto304.png]
+<img src="{UP}/tutogimp/tuto304.png" class="imageleft" alt="">
 
 Renseigner le nom, laisser les dimensions telles que proposées (qui correspondent à la taille de la battlemap) et s'assurer que la sélection **Transparence** est activée dans le menu de choix du Remplissage.
 
@@ -74,7 +74,7 @@ Glisser ce calque en tête de liste, pour le placer au dessus des autres (nous v
 Il faut maintenant aller chercher l'objet que nous voulons ajouter à la battlemap.
 Je propose d'utiliser la porte nommée **Double_Doors_hrc.png** qui se trouve dans la bibliothèque d'objets dans le répertoire *Objets/Structures/Portes/Top*.
 
-[imageleft||{UP}/tutogimp/tuto303.png]
+<img src="{UP}/tutogimp/tuto303.png" class="imageleft" alt="">
 
 Dans Gimp, faites *Fichier->Ouvrir* et sélectionnez cette fameuse porte.
 
@@ -90,7 +90,7 @@ Vérifiez bien que le calque de Portes créé au début du tutoriel est sélecti
 
 Magique, la porte apparait sur votre battlemap. Elle est entourée d'un cadre jaune... ce qui signifie qu'elle est actuellement considérée comme un Cadre Flottant. Ce concept est **TRES** important et permet de comprendre comment fonctionne l'import.
 
-[imageleft||{UP}/tutogimp/tuto306.png]
+<img src="{UP}/tutogimp/tuto306.png" class="imageleft" alt="">
 
 Un Cadre Flottant est, en quelque sorte, un <u>calque temporaire</u> qu'il est possible de déplacer, de tourner et de redimensionner indépendamment des autres calques.
 
@@ -103,7 +103,7 @@ Pour cela, il y a trois outils simples et efficaces :
 - **Redimensionnement** (menu Calque->Echelle et Taille du Calque). Dans la boite qui s'ouvre, il faut indiquer la taille que l'on souhaite donner au calque flottant.
 Par exemple dans le cas présent, la double porte devra occuper deux cases... en fonction du nombre de pixels de chaque case, il suffit de faire le calcul.
 
-[imageleft||{UP}/tutogimp/tuto307.png]
+<img src="{UP}/tutogimp/tuto307.png" class="imageleft" alt="">
 
 
 
@@ -120,7 +120,7 @@ Ici, tout est affaire de choix personnels.
 
 Pour cet exemple, j'ai fait une rotation à 90°, un changement d'échelle pour que la porte occupe deux cases et j'ai déplacé le calque pour qu'il se positionne à l'extrémité du large couloir...
 
-[imageleft||{UP}/tutogimp/tuto308.png]
+<img src="{UP}/tutogimp/tuto308.png" class="imageleft" alt="">
 
 
 ### Ancrage du calque flottant
@@ -129,7 +129,7 @@ J'insiste encore sur la notion de Calque Flottant. Tant que vous n'êtes pas pas
 Lorsque vous êtes satisfait de votre travail (position, taille...), vous devez, en quelque sorte, valider vos choix en ancrant le calque flottant dans votre calque de travail (Portes), celui que vous avez sélectionné avant de coller le fichier.
 Pour cela, il faut cliquer sur la petite ancre qui est visible en bas de votre liste de calques.
 
-[imageleft||{UP}/tutogimp/tuto309.png]
+<img src="{UP}/tutogimp/tuto309.png" class="imageleft" alt="">
 
 En faisant cela, vous intégrez votre calque temporaire à votre Battlemap. A partir de ce moment, vous ne pourrez plus le modifier facilement car il faudra agir sur l'ensemble du calque.
 
@@ -144,6 +144,6 @@ Ce qui donne un excellent rendu final à une battlemap, ce sont les ombres. Pour
 
 Une fois vos calques positionnés, sélectionnez-les les uns après les autres et ouvrez le menu Filtres->Ombres et Lumières>Ombres Portées.
 
-[imageleft||{UP}/tutogimp/tuto310.png]
+<img src="{UP}/tutogimp/tuto310.png" class="imageleft" alt="">
 
 Les différents paramètres permettent de régler le décalage de l'ombre, et donc l'effet de profondeur produit. Les réglages de base vont assez bien pour la plupart des cas (portes, décorations...) mais il ne faut pas hésiter à les augmenter un peu pour donner plus de profondeurs si nécessaire... par exemple pour des effets de niveaux plus prononcés.

@@ -7,7 +7,7 @@ Categories:
 - Src Inner Sea Races
 ---
 
-{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [fiche de créature](./Gathelain.md) d'un gathelain standard.***
+{s:menuracesmonstrueuses}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:cs}{s:ISR}***Voir aussi la [[gathelain|fiche de créature]] d'un gathelain standard.***
 
 Fées énigmatiques du Premier Monde, les gathelains aux ailes végétales sont parmi les races les plus insaississables de la région de la mer Intérieure, et l'une des plus espiègles.
 
@@ -21,14 +21,14 @@ Espiègles et capricieuses, ces créatures ont un tempérament dissonant. Elles 
 {s:Reference|TRAITSSTANDARD}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Dextérité](./Dextérité.md), +2 [Charisme](./Charisme.md), -2 [Constitution](./Constitution.md).** Les gathelains sont vifs, ont une personnalité dynamique et engageante mais ils sont assez fragiles.
-- **Fée.** Les gathelains sont des [fées](./type Fée.md) et pas des [humanoïdes](./type Humanoïde.md).
-- **Taille P.** Les gathelains sont des créatures de [taille P](./taille P.md) qui reçoivent un bonus de taille de +1 à la [CA](./CA.md), un bonus de taille de +1 à leurs [jets d'attaque](./jet dattaque.md), un malus de -1 au [BMO](./BMO.md) et au [DMD](./DMD.md), et un bonus de taille de +4 à leurs tests de [Discrétion](./Discrétion.md).
-- **Vitesse normale.** Les gathelains ont une [vitesse de base](./VD.md) de 9 mètres ainsi qu'une [vitesse de vol](./Vol.md#Spécial_2) de 12 mètres (médiocre).
-- **Vision nocturne.** Les gathelains [voient deux fois plus loin](./Vision nocturne (capacité).md) que les humains à faible luminosité.
-- **Armure naturelle.** Les gathelains ont un bonus d'[armure naturelle](./CA.md) de +1.
-- **Pouvoirs magiques.** Les gathelains peuvent utiliser *[démarche aérienne](./Démarche aérienne.md)* et *[enchevêtrement](./Enchevêtrement.md)* comme des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) chacun une fois par jour. Le [niveau de lanceur de sorts](./NLS.md) pour chacun est égal au niveau de personnage du gathelain.
-- **Langues.** Les gathelains commencent le jeu en parlant le commun et le sylvestre. Ceux qui possèdent une valeur d'[Intelligence](./Intelligence.md) élevée peuvent apprendre d'autres langues issues de la liste suivante : draconique, elfique, gobelin, halfelin et orque.
+- **+2 [[Dextérité]], +2 [[Charisme]], -2 [[Constitution]].** Les gathelains sont vifs, ont une personnalité dynamique et engageante mais ils sont assez fragiles.
+- **Fée.** Les gathelains sont des [[type Fée|fées]] et pas des [[type Humanoïde|humanoïdes]].
+- **Taille P.** Les gathelains sont des créatures de [[taille P]] qui reçoivent un bonus de taille de +1 à la [[CA]], un bonus de taille de +1 à leurs [[jet dattaque|jets d'attaque]], un malus de -1 au [[BMO]] et au [[DMD]], et un bonus de taille de +4 à leurs tests de [[Discrétion]].
+- **Vitesse normale.** Les gathelains ont une [[VD|vitesse de base]] de 9 mètres ainsi qu'une [[Vol#Spécial_2|vitesse de vol]] de 12 mètres (médiocre).
+- **Vision nocturne.** Les gathelains [[Vision nocturne (capacité)|voient deux fois plus loin]] que les humains à faible luminosité.
+- **Armure naturelle.** Les gathelains ont un bonus d'[[CA|armure naturelle]] de +1.
+- **Pouvoirs magiques.** Les gathelains peuvent utiliser *[[démarche aérienne]]* et *[[enchevêtrement]]* comme des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] chacun une fois par jour. Le [[NLS|niveau de lanceur de sorts]] pour chacun est égal au niveau de personnage du gathelain.
+- **Langues.** Les gathelains commencent le jeu en parlant le commun et le sylvestre. Ceux qui possèdent une valeur d'[[Intelligence]] élevée peuvent apprendre d'autres langues issues de la liste suivante : draconique, elfique, gobelin, halfelin et orque.
 
 </div>
 
@@ -37,4 +37,4 @@ Espiègles et capricieuses, ces créatures ont un tempérament dissonant. Elles 
 Il est possible de choisir les traits raciaux suivants à la place des traits raciaux existants des gathelains. Consultez votre MJ avant de prendre ces options.
 
 <u>*Remplace « pouvoirs magiques » :*</u>
-- **Nimbe de vitalité.** Les gathelains conservent parfois une connexion puissante avec le Premier Monde, qui leur permet de canaliser une énergie guérisseuse. Par une [action simple](./Action simple.md) une fois par jour, ils peuvent s'envelopper d'une aura qui leur confère les effets de *[lueur féerique](./Lueur féerique.md)* ainsi qu'une [guérison accélérée 2](./Guérison accélérée (capacité).md). La nimbe dure 3 rounds + 1 round supplémentaire tous les 2 niveaux de personnage du gathelain. Ce trait racial remplace pouvoirs magiques.
+- **Nimbe de vitalité.** Les gathelains conservent parfois une connexion puissante avec le Premier Monde, qui leur permet de canaliser une énergie guérisseuse. Par une [[action simple]] une fois par jour, ils peuvent s'envelopper d'une aura qui leur confère les effets de *[[lueur féerique]]* ainsi qu'une [[Guérison accélérée (capacité)|guérison accélérée 2]]. La nimbe dure 3 rounds + 1 round supplémentaire tous les 2 niveaux de personnage du gathelain. Ce trait racial remplace pouvoirs magiques.

@@ -9,6 +9,6 @@ Categories:
 
 {s:ccmi}*Le personnage sait d’expérience que la vie est une suite d’épreuves impitoyables et que la peur doit être vaincue. *
 
-**Conditions**. [Volonté de fer](./Volonté de fer.md)
+**Conditions**. [[Volonté de fer]]
 
-**Avantages**. Le personnage gagne un bonus de +1 à tous les [jets de sauvegarde](./JDS.md) contre les effets de peur. S’il réussit un [jet de sauvegarde](./JDS.md) contre un tel effet, il est immunisé contre les effets de peur émanant de la même cible pendant les 24 heures suivantes.
+**Avantages**. Le personnage gagne un bonus de +1 à tous les [[jds|jets de sauvegarde]] contre les effets de peur. S’il réussit un [[jds|jet de sauvegarde]] contre un tel effet, il est immunisé contre les effets de peur émanant de la même cible pendant les 24 heures suivantes.

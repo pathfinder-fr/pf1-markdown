@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Nauséeux
 ---
 
->>> [États préjudiciables#Nauséeux](./États préjudiciables.md#Nauséeux)
+>>> [[États préjudiciables#Nauséeux]]

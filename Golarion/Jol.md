@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Située au sud de la forêt de Grundir, la ville et le royaume de Jol est l'un des trois royaumes continentaux des [Terres des Rois des Linnorms](./Terres des Rois des Linnorms.md).
+Située au sud de la forêt de Grundir, la ville et le royaume de Jol est l'un des trois royaumes continentaux des [[Terres des Rois des Linnorms]].

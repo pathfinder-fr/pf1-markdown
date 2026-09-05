@@ -4,7 +4,7 @@ Title: Les oréades
 LastModified: 2025-01-15 17:48
 ---
 
-{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Oréade.md) d'un oréade standard.***
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [[Oréade|fiche de créature]] d'un oréade standard.***
 
 Les oréades sont des humains dont l’arbre généalogique comprend un élémentaire de Terre, souvent un génie shaitan. Stoïques et contemplatifs, ils sont une race difficile à émouvoir, mais presque impossible à arrêter quand elle est lancée dans l’action. Ils demeurent un mystère pour l’ensemble du monde du fait de leur nature solitaire, mais ceux qui vont à leur rencontre dans leurs cachettes montagneuses isolées trouvent les oréades calmes, dignes de confiance et protecteurs envers leurs amis.
 
@@ -24,15 +24,15 @@ Les oréades sont des humains dont l’arbre généalogique comprend un élémen
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 en [Force](./Force.md), +2 en [Sagesse](./Sagesse.md), -2 en [Charisme](./Charisme.md).** Les oréades sont forts, solides, stables et stoïques.
-- **Extérieur natif.** Les oréades sont des [extérieurs](./type Extérieur.md) de sous-type [natif](./sous-type natif.md).
-- **Taille M.** Les oréades sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni bonus ni malus de taille.
-- **Vitesse lente.** Les oréades ont une [vitesse de base](./VD.md) de 6 mètres.
-- **Vision dans le noir.** Les oréades [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
-- **Pouvoir magique.** Les oréades peuvent utiliser *[pierre magique](./Pierre magique.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) 1/jour ([niveau de lanceur de sorts](./NLS.md) égal au niveau de personnage de l’oréade ; [DD](./DD.md) 11 + modificateur de [Charisme](./Charisme.md)).
-- **Résistance élémentaire.** Les oréades gagnent une [résistance](./Résistance (capacité).md) de 5 à l’acide.
-- **Affinité avec la terre.** Les [ensorceleurs](./Ensorceleur.md) oréades de [lignage élémentaire (terre)](./lignage Élémentaire.md) traitent leur valeur de [Charisme](./Charisme.md) comme supérieur de 2 points pour tous les sorts et pouvoirs d’ensorceleur. Les [prêtres](./Prêtre.md) oréades avec le [domaine de la Terre](./Domaine de la Terre.md) utilisent leurs pouvoirs et sorts de domaine à un niveau de lanceur de sorts augmenté de +1.
-- **Langues.** Les oréades commencent le jeu en parlant le commun et le terreux. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi celles-ci : aérien, aquatique, commun des profondeurs, elfique, gnome, halfelin, igné et nain.
+- **+2 en [[Force]], +2 en [[Sagesse]], -2 en [[Charisme]].** Les oréades sont forts, solides, stables et stoïques.
+- **Extérieur natif.** Les oréades sont des [[type Extérieur|extérieurs]] de sous-type [[sous-type natif|natif]].
+- **Taille M.** Les oréades sont des créatures de [[taille M]] qui ne reçoivent ni bonus ni malus de taille.
+- **Vitesse lente.** Les oréades ont une [[VD|vitesse de base]] de 6 mètres.
+- **Vision dans le noir.** Les oréades [[Vision dans le noir (capacité)|voient dans le noir]] à 18 mètres.
+- **Pouvoir magique.** Les oréades peuvent utiliser *[[pierre magique]]* comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] 1/jour ([[NLS|niveau de lanceur de sorts]] égal au niveau de personnage de l’oréade ; [[DD]] 11 + modificateur de [[Charisme]]).
+- **Résistance élémentaire.** Les oréades gagnent une [[Résistance (capacité)|résistance]] de 5 à l’acide.
+- **Affinité avec la terre.** Les [[Ensorceleur|ensorceleurs]] oréades de [[Lignage Élémentaire|lignage élémentaire (terre)]] traitent leur valeur de [[Charisme]] comme supérieur de 2 points pour tous les sorts et pouvoirs d’ensorceleur. Les [[Prêtre|prêtres]] oréades avec le [[domaine de la Terre]] utilisent leurs pouvoirs et sorts de domaine à un niveau de lanceur de sorts augmenté de +1.
+- **Langues.** Les oréades commencent le jeu en parlant le commun et le terreux. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues parmi celles-ci : aérien, aquatique, commun des profondeurs, elfique, gnome, halfelin, igné et nain.
 
 </div>
 
@@ -41,28 +41,28 @@ Les oréades sont des humains dont l’arbre généalogique comprend un élémen
 {s:MR}Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux oréades standards, mais consultez d’abord votre MJ.
 
 <u>*Remplace « affinité avec la terre » :*</u>
-- **Forme cristalline.** Les oréades ayant ce trait racial gagnent un bonus racial de +2 à la [CA](./CA.md) contre les rayons grâce à leur peau cristalline réfléchissante. En outre, une fois par jour, ils peuvent parer une attaque de rayon dirigée contre eux comme s’ils utilisaient le don [Parade de projectiles](./Parade de projectiles.md). Ce trait racial remplace affinité avec la terre.
-- **Intuition de la terre.** Les lanceurs de sorts oréades découvrent parfois que leur héritage élémentaire rend les créatures de terre plus facilement prêtes à les servir. Les sorts *[convocation de monstres](./Convocation de monstres I.md)* et *[convocation d’alliés naturels](./Convocation dalliés naturels.md)* qu’ils lancent durent 2 rounds de plus que la normale lorsqu’ils convoquent des créatures de sous-type [Terre](./sous-type Terre.md). Ce trait racial remplace affinité avec la terre.
-- **Pierre dans le sang.** Les oréades ayant ce trait racial reproduisent les capacités de guérison des [méphites](./Méphite.md) et gagnent une [guérison accélérée 2](./Guérison accélérée (capacité).md) pendant 1 round chaque fois qu’ils sont sujets à des dégâts d’acide (les dégâts d’acide n’ont pas besoin de passer la résistance ou l’immunité de l’oréade pour que s’active cette capacité). Les oréades peuvent soigner jusqu’à 2 [points de vie](./pv.md) par niveau par jour avec cette capacité, après quoi elle cesse de fonctionner. Ce trait racial remplace affinité avec la terre.
-- **Sol fertile.** Les ensorceleurs oréades de [lignage verdoyant](./lignage verdoyant.md) traitent leur valeur de Charisme comme supérieure de 2 points pour tous les sorts et pouvoirs de classe de l’[ensorceleur](./Ensorceleur.md). Les [prêtres](./Prêtre.md) oréades du [domaine de la Flore](./Domaine de la Flore.md) utilisent leurs pouvoirs et sorts de domaine à un niveau de lanceur de sorts augmenté de +1. Ce trait racial remplace affinité avec la terre.
+- **Forme cristalline.** Les oréades ayant ce trait racial gagnent un bonus racial de +2 à la [[CA]] contre les rayons grâce à leur peau cristalline réfléchissante. En outre, une fois par jour, ils peuvent parer une attaque de rayon dirigée contre eux comme s’ils utilisaient le don [[Parade de projectiles]]. Ce trait racial remplace affinité avec la terre.
+- **Intuition de la terre.** Les lanceurs de sorts oréades découvrent parfois que leur héritage élémentaire rend les créatures de terre plus facilement prêtes à les servir. Les sorts *[[convocation de monstres I|convocation de monstres]]* et *[[convocation dalliés naturels|convocation d’alliés naturels]]* qu’ils lancent durent 2 rounds de plus que la normale lorsqu’ils convoquent des créatures de sous-type [[sous-type Terre|Terre]]. Ce trait racial remplace affinité avec la terre.
+- **Pierre dans le sang.** Les oréades ayant ce trait racial reproduisent les capacités de guérison des [[Méphite|méphites]] et gagnent une [[Guérison accélérée (capacité)|guérison accélérée 2]] pendant 1 round chaque fois qu’ils sont sujets à des dégâts d’acide (les dégâts d’acide n’ont pas besoin de passer la résistance ou l’immunité de l’oréade pour que s’active cette capacité). Les oréades peuvent soigner jusqu’à 2 [[pv|points de vie]] par niveau par jour avec cette capacité, après quoi elle cesse de fonctionner. Ce trait racial remplace affinité avec la terre.
+- **Sol fertile.** Les ensorceleurs oréades de [[Lignage Verdoyant]] traitent leur valeur de Charisme comme supérieure de 2 points pour tous les sorts et pouvoirs de classe de l’[[ensorceleur]]. Les [[Prêtre|prêtres]] oréades du [[domaine de la Flore]] utilisent leurs pouvoirs et sorts de domaine à un niveau de lanceur de sorts augmenté de +1. Ce trait racial remplace affinité avec la terre.
 
 <u>*Remplace « extérieur natif » et « langues » :*</u>
-- {s:cs}{s:ISR}**Presque humain.** Quelques ifrits, ondins, oréades, sulis et sylphes ont une apparence bien plus proche de celle de leurs ancêtres humains ; en fait, il peuvent même ne pas se rendre compte de leur véritable race. De tels descendants de génie paraissent humains, à l'exception de quelques caractéristiques mineures comme une couleur d'yeux inhabituelle, et comptent comme des [humanoïdes](./type Humanoïde.md) ([humain](./sous-type humain.md)) aussi bien que des [extérieurs](./type Extérieur.md) ([natif](./sous-type natif.md)) en toute circonstance (y compris pour les sorts qui affectent les humanoïdes comme *[charme-personne](./Charme-personne.md)* ou *[agrandissement](./Agrandissement.md)*). Ces descendants de génie ne savent pas automatiquement parler leur langue élémentaire associée (mais peuvent l'apprendre grâce à une valeur d'[Intelligence](./Intelligence.md) élevée). Ce trait racial remplace le type, le sous-type et les langues des descendants de génie.
+- {s:cs}{s:ISR}**Presque humain.** Quelques ifrits, ondins, oréades, sulis et sylphes ont une apparence bien plus proche de celle de leurs ancêtres humains ; en fait, il peuvent même ne pas se rendre compte de leur véritable race. De tels descendants de génie paraissent humains, à l'exception de quelques caractéristiques mineures comme une couleur d'yeux inhabituelle, et comptent comme des [[type Humanoïde|humanoïdes]] ([[sous-type humain|humain]]) aussi bien que des [[type Extérieur|extérieurs]] ([[sous-type natif|natif]]) en toute circonstance (y compris pour les sorts qui affectent les humanoïdes comme *[[charme-personne]]* ou *[[agrandissement]]*). Ces descendants de génie ne savent pas automatiquement parler leur langue élémentaire associée (mais peuvent l'apprendre grâce à une valeur d'[[Intelligence]] élevée). Ce trait racial remplace le type, le sous-type et les langues des descendants de génie.
 
 <u>*Remplace « pouvoir magique » :*</u>
-- **Croissance ferreuse.** Les oréades ayant ce trait racial apprennent à reproduire la magie de leurs ancêtres shaitans. Une fois par jour, ils peuvent toucher un morceau de fer ou d’acier non-magique pour le transformer en un objet pouvant peser jusqu’à 5 kg, comme une épée, un [pied-de-biche](./Pied-de-biche (objet).md) ou une [rondache en acier](./rondache (armure).md). Cet objet conserve sa forme 10 minutes ou jusqu’à ce qu’il soit cassé ou détruit, auquel cas il reprend sa forme et sa taille originales. Ce trait racial remplace celui de pouvoir magique.
-- **Originaire de la montagne.** Les oréades sont attirés par les montagnes et autres hauteurs et, après de nombreuses générations, se sont bien adaptés à leur environnement. Ceux qui ont ce trait racial gagnent un bonus racial de +2 à leurs tests d’[Acrobaties](./Acrobaties.md) pour traverser les corniches étroites et à leurs [jets de sauvegarde](./JDS.md) contre la fatigue et le mal de l’[altitude](./Aventures en extérieur.md#ALTITUDE). Ce trait racial remplace celui de pouvoir magique.
-- **Terre traîtresse.** Une fois par jour, un oréade ayant ce trait racial peut prier pour que la terre gronde et bouge, transformant une zone de terre, de pierre brute ou de sable de 3 mètres de rayon en [terrain difficile](./terrain difficile.md) centré sur la zone touchée par l’oréade. Cela dure un nombre de minutes égal au niveau de l’oréade, après quoi le sol redevient normal. Ce trait racial remplace celui de pouvoir magique.
+- **Croissance ferreuse.** Les oréades ayant ce trait racial apprennent à reproduire la magie de leurs ancêtres shaitans. Une fois par jour, ils peuvent toucher un morceau de fer ou d’acier non-magique pour le transformer en un objet pouvant peser jusqu’à 5 kg, comme une épée, un [[Pied-de-biche (objet)|pied-de-biche]] ou une [[Rondache (armure)|rondache en acier]]. Cet objet conserve sa forme 10 minutes ou jusqu’à ce qu’il soit cassé ou détruit, auquel cas il reprend sa forme et sa taille originales. Ce trait racial remplace celui de pouvoir magique.
+- **Originaire de la montagne.** Les oréades sont attirés par les montagnes et autres hauteurs et, après de nombreuses générations, se sont bien adaptés à leur environnement. Ceux qui ont ce trait racial gagnent un bonus racial de +2 à leurs tests d’[[Acrobaties]] pour traverser les corniches étroites et à leurs [[jds|jets de sauvegarde]] contre la fatigue et le mal de l’[[Aventures en extérieur#ALTITUDE|altitude]]. Ce trait racial remplace celui de pouvoir magique.
+- **Terre traîtresse.** Une fois par jour, un oréade ayant ce trait racial peut prier pour que la terre gronde et bouge, transformant une zone de terre, de pierre brute ou de sable de 3 mètres de rayon en [[terrain difficile]] centré sur la zone touchée par l’oréade. Cela dure un nombre de minutes égal au niveau de l’oréade, après quoi le sol redevient normal. Ce trait racial remplace celui de pouvoir magique.
 
 <u>*Remplace « résistance élémentaire » :*</u>
-- **Peau de granit.** Des excroissances rocheuses couvrent la peau des oréades ayant ce trait racial. Ils gagnent un bonus racial de +1 à leur [armure naturelle](./CA.md). Ce trait racial remplace résistance élémentaire.
+- **Peau de granit.** Des excroissances rocheuses couvrent la peau des oréades ayant ce trait racial. Ils gagnent un bonus racial de +1 à leur [[CA|armure naturelle]]. Ce trait racial remplace résistance élémentaire.
 
 <u>*Remplace « résistance élémentaire » et modifie « langues » :*</u>
-- {s:cs}{s:ISR}**Isolé.** De nombreux oréades sont des solitaires et élèvent leur famille dans des groupes isolés, que ce soit dans des cavernes profondes ou de hautes montagnes. Ils bénéficient d'un bonus racial de +2 aux tests de [Connaissances](./Connaissances.md) (exploration souterraine) et de [Perception](./Perception.md), et peuvent utiliser Connaissances (exploration souterraine) sans formation. Ils commencent le jeu en parlant uniquement le terreux, plutôt que le commun et le terreux. Ce trait racial remplace résistance élémentaire et modifie les langues des oréades.
+- {s:cs}{s:ISR}**Isolé.** De nombreux oréades sont des solitaires et élèvent leur famille dans des groupes isolés, que ce soit dans des cavernes profondes ou de hautes montagnes. Ils bénéficient d'un bonus racial de +2 aux tests de [[Connaissances]] (exploration souterraine) et de [[Perception]], et peuvent utiliser Connaissances (exploration souterraine) sans formation. Ils commencent le jeu en parlant uniquement le terreux, plutôt que le commun et le terreux. Ce trait racial remplace résistance élémentaire et modifie les langues des oréades.
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -71,23 +71,23 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-{s:MR}**[Barde](./Barde.md).** Le barde rajoute +1,5 mètre à la portée de l’une de ses [représentations bardiques](./Barde.md#REPRESENTATIONBARDIQUE) (maximum de +9 mètres pour toute représentation).
+{s:MR}**[[Barde]].** Le barde rajoute +1,5 mètre à la portée de l’une de ses [[Barde#REPRESENTATIONBARDIQUE|représentations bardiques]] (maximum de +9 mètres pour toute représentation).
 
-{s:MR}**[Conjurateur](./Conjurateur.md).** Le conjurateur rajoute un bonus d’armure naturelle de +1/4 à la [CA](./CA.md) de son [eidolon](./Conjurateur.md#EIDOLON).
+{s:MR}**[[Conjurateur]].** Le conjurateur rajoute un bonus d’armure naturelle de +1/4 à la [[CA]] de son [[Conjurateur#EIDOLON|eidolon]].
 
-{s:MR}**[Druide](./Druide.md).** Le druide rajoute un bonus de +1/2 à ses tests de [Connaissances](./Connaissances.md) (nature) relatifs aux plantes et aux animaux fouisseurs.
+{s:MR}**[[Druide]].** Le druide rajoute un bonus de +1/2 à ses tests de [[Connaissances]] (nature) relatifs aux plantes et aux animaux fouisseurs.
 
-{s:MR}**[Guerrier](./Guerrier.md).** Le guerrier rajoute +1 à son [DMD](./DMD.md) quand il résiste à une [bousculade](./bousculade.md) ou à un [entraînement](./entraînement.md).
+{s:MR}**[[Guerrier]].** Le guerrier rajoute +1 à son [[DMD]] quand il résiste à une [[bousculade]] ou à un [[entraînement]].
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}**[Moine](./Moine.md).** Le moine rajoute +1/3 à ses jets de [confirmation critique](./coup critique.md) sur les [attaques à mains nues](./Actions simples.md#ATTAQUEAMAINSNUES) (bonus maximum de +5). Ce bonus ne se cumule pas avec [Don pour les critiques](./Don pour les critiques.md).
+{s:MR}**[[Moine]].** Le moine rajoute +1/3 à ses jets de [[coup critique|confirmation critique]] sur les [[Actions simples#ATTAQUEAMAINSNUES|attaques à mains nues]] (bonus maximum de +5). Ce bonus ne se cumule pas avec [[Don pour les critiques]].
 
-{s:MR}**[Paladin](./Paladin.md).** Le paladin rajoute +1/4 au bonus qu’il accorde à ses alliés grâce à ses pouvoirs [aura de courage](./Paladin.md#AURADECOURAGE) et [aura de fermeté](./Paladin.md#AURADEFERMETE).
+{s:MR}**[[Paladin]].** Le paladin rajoute +1/4 au bonus qu’il accorde à ses alliés grâce à ses pouvoirs [[Paladin#AURADECOURAGE|aura de courage]] et [[Paladin#AURADEFERMETE|aura de fermeté]].
 
-{s:MR}**[Prêtre](./Prêtre.md).** Le prêtre rajoute un bonus de +1/2 à ses tests de [Connaissances](./Connaissances.md) (plans) relatifs au plan de la Terre et aux créatures de sous-type [Terre](./sous-type Terre.md).
+{s:MR}**[[Prêtre]].** Le prêtre rajoute un bonus de +1/2 à ses tests de [[Connaissances]] (plans) relatifs au plan de la Terre et aux créatures de sous-type [[sous-type Terre|Terre]].
 
-{s:MR}**[Rôdeur](./Rôdeur.md).** Le rôdeur rajoute +1/4 au bonus d’[armure naturelle](./CA.md) de son [compagnon animal](./Rôdeur.md#PACTEDUCHASSEUR). Si jamais il remplace son compagnon animal, le nouveau bénéficie de ce bonus.
+{s:MR}**[[Rôdeur]].** Le rôdeur rajoute +1/4 au bonus d’[[CA|armure naturelle]] de son [[Rôdeur#PACTEDUCHASSEUR|compagnon animal]]. Si jamais il remplace son compagnon animal, le nouveau bénéficie de ce bonus.
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -103,57 +103,57 @@ Voici les options accessibles aux oréades, d’autres races adaptées peuvent s
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Échos de la pierre](./Échos de la pierre.md) || <sup>MR</sup> || [Oréade](./Oréade (race).md) || +4 aux tests de Perception en souterrain, +4 aux tests de Survie pour ne pas se perdre en milieu caverneux ou rocailleux
+| [[Échos de la pierre]] || <sup>MR</sup> || [[oréade (race)|Oréade]] || +4 aux tests de Perception en souterrain, +4 aux tests de Survie pour ne pas se perdre en milieu caverneux ou rocailleux
 |-
-| &emsp;[Murmures de la terre](./Murmures de la terre.md) || <sup>MR</sup> || [Oréade](./Oréade (race).md), [Échos de la pierre](./Échos de la pierre.md), niveau 9 || Gain d'une perception des vibrations limitée
+| &emsp;[[Murmures de la terre]] || <sup>MR</sup> || [[oréade (race)|Oréade]], [[Échos de la pierre]], niveau 9 || Gain d'une perception des vibrations limitée
 
 |- CLASS="premier"
-| [Flot des éléments](./Flot des éléments.md) || <sup>*ISR*</sup> || Capacité à lancer des sorts ; [ifrit](./Ifrit (race).md), [ondin](./Ondin (race).md), [oréade](./Oréade (race).md) ou [sylphe](./Sylphe (race).md) || Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don
+| [[Flot des éléments]] || <sup>*ISR*</sup> || Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]] || Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don
 
 |- CLASS="premier"
-| [Frappe élémentaire](./Frappe élémentaire.md) || <sup>*ISR*</sup> || [Ifrit](./Ifrit (race).md), [ondin](./Ondin (race).md), [oréade](./Oréade (race).md) ou [sylphe](./Sylphe (race).md) || Inflige +1 dégât de l'énergie liée à la race du personnage
+| [[Frappe élémentaire]] || <sup>*ISR*</sup> || [[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]] || Inflige +1 dégât de l'énergie liée à la race du personnage
 
 |- CLASS="premier"
-| [Sang de nain](./Sang de nain.md) || <sup>MR</sup> || [Oréade](./Oréade (race).md) || Gain des traits raciaux nains lentement mais sûrement et connaissances de la pierre
+| [[Sang de nain]] || <sup>MR</sup> || [[oréade (race)|Oréade]] || Gain des traits raciaux nains lentement mais sûrement et connaissances de la pierre
 
 |- CLASS="premier"
-| [Saut élémentaire](./Saut élémentaire.md) || <sup>MR</sup> || [Ifrit](./Ifrit (race).md), [sylphe](./Sylphe (race).md), [ondin](./Ondin (race).md) ou [oréade](./Oréade (race).md), niveau 15 || Le personnage peut lancer *changement de plan* 1 fois par jour pour retourner sur le plan de ses ancêtres
+| [[Saut élémentaire]] || <sup>MR</sup> || [[ifrit (race)|Ifrit]], [[sylphe (race)|sylphe]], [[ondin (race)|ondin]] ou [[oréade (race)|oréade]], niveau 15 || Le personnage peut lancer *changement de plan* 1 fois par jour pour retourner sur le plan de ses ancêtres
 
 |- CLASS="premier"
-| [Semelle de pierre](./Semelle de pierre.md) || <sup>MR</sup> || [Oréade](./Oréade (race).md) || Ignore les terrains difficiles de terre et de pierre
+| [[Semelle de pierre]] || <sup>MR</sup> || [[oréade (race)|Oréade]] || Ignore les terrains difficiles de terre et de pierre
 |-
-| &emsp;[Fouisseur oréade](./Fouisseur oréade.md) || <sup>MR</sup> || [Oréade](./Oréade (race).md), [semelle de pierre](./Semelle de pierre.md), niveau 9 || Gain d'une vitesse de creusement
+| &emsp;[[Fouisseur oréade]] || <sup>MR</sup> || [[oréade (race)|Oréade]], [[semelle de pierre]], niveau 9 || Gain d'une vitesse de creusement
 |-
-| &emsp;&emsp;[Oréade nageur de terre](./Oréade nageur de terre.md) || <sup>MR</sup> || [Oréade](./Oréade (race).md), [semelle de pierre](./Semelle de pierre.md), [Fouisseur oréade](./Fouisseur oréade.md), niveau 13 || Gain de la capacité nage dans la terre
+| &emsp;&emsp;[[Oréade nageur de terre]] || <sup>MR</sup> || [[oréade (race)|Oréade]], [[semelle de pierre]], [[Fouisseur oréade]], niveau 13 || Gain de la capacité nage dans la terre
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Élève de la pierre (moine)](./Élève de la pierre (moine).md) *(MR)*
-- [Lieur de shaitans (conjurateur)](./Lieur de shaitans (conjurateur).md) *(MR)*
+- [[Élève de la pierre (moine)]] *(MR)*
+- [[Lieur de shaitans (conjurateur)]] *(MR)*
 
 #### Équipement
-- [Gemme de chair (décorative)](./Gemme de chair (objet).md) *(MR)*
-- [Gemme de chair (pointes)](./Gemme de chair (objet).md) *(MR)*
-- [Lichen de camouflage](./Lichen de camouflage (objet).md) *(MR)*
-- [Onguent de rochéclats](./Onguent de rochéclats (objet).md) *(MR)*
+- [[Gemme de chair (objet)|Gemme de chair (décorative)]] *(MR)*
+- [[Gemme de chair (objet)|Gemme de chair (pointes)]] *(MR)*
+- [[Lichen de camouflage (objet)|Lichen de camouflage]] *(MR)*
+- [[Onguent de rochéclats (objet)|Onguent de rochéclats]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Protection (propriété d'armure)](./protection (propriété).md) *(MR)*
-- [Protection supérieure (propriété d'armure)](./protection supérieure (propriété).md) *(MR)*
-- [Ceinture de peau de pierre](./Ceinture de peau de pierre.md) *(MR)*
-- [Masque de l'homme de marbre](./Masque de lHomme de Marbre.md) *(MR)*
-- [Sceptre de la terre](./Sceptre de la terre.md) *(MR)*
+- [[protection (propriété)|Protection (propriété d'armure)]] *(MR)*
+- [[protection supérieure (propriété)|Protection supérieure (propriété d'armure)]] *(MR)*
+- [[Ceinture de peau de pierre]] *(MR)*
+- [[Masque de lhomme de marbre|Masque de l'homme de marbre]] *(MR)*
+- [[Sceptre de la terre]] *(MR)*
 
 #### Sorts
-- [Bouclier de pierre](./Bouclier de pierre.md) *(MR)*
-- [Déchaînement de débris](./Déchaînement de débris.md) *(MR)*
-- [Entrave de terre](./Entrave de terre.md) *(MR)*
-- [Entrave de terre de groupe](./Entrave de terre de groupe.md) *(MR)*
-- [Maîtrise élémentaire](./Maîtrise élémentaire.md) *(ISR)*
-- [Poing invincible de la terre](./Poing invincible de la terre.md) *(MR)*
+- [[Bouclier de pierre]] *(MR)*
+- [[Déchaînement de débris]] *(MR)*
+- [[Entrave de terre]] *(MR)*
+- [[Entrave de terre de groupe]] *(MR)*
+- [[Maîtrise élémentaire]] *(ISR)*
+- [[Poing invincible de la terre]] *(MR)*
 
 </td></tr></table>

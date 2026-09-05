@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#MAITRISEDUTERRAIN
 ---
 
->>> [Talents#MAITRISEDUTERRAIN](./Talents.md#MAITRISEDUTERRAIN)
+>>> [[Talents#MAITRISEDUTERRAIN]]

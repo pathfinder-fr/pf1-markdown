@@ -17,27 +17,27 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) ; **Niveau** [Bard](./Barde.md) 3, [Inq](./Inquisiteur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 2, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 3, [Rôd](./Rôdeur.md) 2, [Sor](./Sorcière.md) 3
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+{s:UC}**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Barde|Bard]] 3, [[Inquisiteur|Inq]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 2, [[Sorcière|Sor]] 3
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cible** plusieurs armes susceptibles d’être lancées
-**Durée** 1 minute/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Durée** 1 minute/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 ---
-Ce sort fonctionne comme *[arme boomerang](./Arme boomerang.md)* mais la durée se divise entre les armes ciblées, par portions de 1 minute.
+Ce sort fonctionne comme *[[arme boomerang]]* mais la durée se divise entre les armes ciblées, par portions de 1 minute.
 
 
 
 (((
 ## Arme boomerang
-{s:UC}**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) ; **Niveau** [Bard](./Barde.md) 2, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 1, [Occ](./Occultiste.md) 1, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [Rôd](./Rôdeur.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 2
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+{s:UC}**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Barde|Bard]] 2, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 2
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Cible** une arme susceptible d’être lancée
-**Durée** 1 minute/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Durée** 1 minute/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 ---
-Pendant toute la durée du sort, la cible se comporte comme une *arme boomerang* (Voir la propriété *[Boomerang](./boomerang (propriété).md)* de la section [Armes magiques](./Armes magiques.md)). Ce sort peut servir de condition requise pour la [propriété *arme boomerang*](./boomerang (propriété).md).
+Pendant toute la durée du sort, la cible se comporte comme une *arme boomerang* (Voir la propriété *[[boomerang (propriété)|Boomerang]]* de la section [[Armes magiques]]). Ce sort peut servir de condition requise pour la [[boomerang (propriété)|propriété *arme boomerang*]].
 )))

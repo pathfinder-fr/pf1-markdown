@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage utilise sa canalisation d’énergie pour améliorer les capacités protectrices de son bouclier et des alliés adjacents. *
 
-**Conditions.** [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 3d6, maniement du bouclier
+**Conditions.** [[prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] 3d6, maniement du bouclier
 
-**Avantage.** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de sa [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) pour se doter d’un bonus de parade de +2 quand il utilise un bouclier. Ce bonus dure une minute par niveau de [prêtre](./Prêtre.md) ou niveau effectif de prêtre. Tant que le personnage bénéficie de ce bonus, ses alliés équipés de boucliers et adjacents à lui bénéficient aussi de ce bonus de parade de +2.
+**Avantage.** Par une [[action rapide]], le personnage peut dépenser une utilisation de sa [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] pour se doter d’un bonus de parade de +2 quand il utilise un bouclier. Ce bonus dure une minute par niveau de [[prêtre]] ou niveau effectif de prêtre. Tant que le personnage bénéficie de ce bonus, ses alliés équipés de boucliers et adjacents à lui bénéficient aussi de ce bonus de parade de +2.

@@ -8,19 +8,19 @@ Categories:
 - Sort magicien 0
 ---
 
-**École** [Invocation](./Invocation.md) ([création](./../Création.md)) <nowiki>[</nowiki>[eau](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0  
+**École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature ou un objet de taille G maximum  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
 Une averse soudaine trempe la créature ou l’objet ciblé. La pluie suit la cible dans la limite de la portée du sort, en l’imbibant d’eau. Si la cible est en feu, les flammes s’éteignent automatiquement. Toute flamme plus petite qu’un feu de camp (comme les lanternes et les torches) est également automatiquement noyée.
 

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Munitions inépuisables
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Munitions inépuisables](./Descriptions individuelles des propriétés spéciales des armes.md#Munitions inépuisables)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Munitions inépuisables]]

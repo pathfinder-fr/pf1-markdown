@@ -11,8 +11,8 @@ Categories:
 
 {s:RSE}*Les terribles attaques du personnage sèment la terreur dans le cœur de ses ennemis.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Attaque en puissance](./Attaque en puissance.md), 6 rangs en [Intimidation](./Intimidation.md)
+**Conditions.** [[Attaque en puissance]], 6 rangs en [[Intimidation]]
 
-**Avantages.** Lorsqu’il blesse un adversaire avec une [Attaque en puissance](./Attaque en puissance.md), le personnage peut aussitôt faire un test d’[Intimidation](./Intimidation.md), par une [action libre](./Action libre.md), pour tenter de démoraliser son adversaire.
+**Avantages.** Lorsqu’il blesse un adversaire avec une [[Attaque en puissance]], le personnage peut aussitôt faire un test d’[[Intimidation]], par une [[action libre]], pour tenter de démoraliser son adversaire.

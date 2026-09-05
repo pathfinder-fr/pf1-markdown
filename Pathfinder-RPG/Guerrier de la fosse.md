@@ -21,34 +21,34 @@ Même si la vie des guerriers de la fosse a l'air d'être définie par leur prof
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1 || +1 || +0 || +1 || +0
-| CLASS="gauche" | [Mauvais équipement](./Guerrier de la fosse.md#MAUVAISEQUIPEMENT), [art du spectacle](./Guerrier de la fosse.md#ARTDUSPECTACLE) (1/jour)
+| CLASS="gauche" | [[Guerrier de la fosse#MAUVAISEQUIPEMENT|Mauvais équipement]], [[Guerrier de la fosse#ARTDUSPECTACLE|art du spectacle]] (1/jour)
 |- CLASS="alt"
 | 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [Expertise des armes d'arène](./Guerrier de la fosse.md#EXPERTISEDESARMESDARENE) +1
+| CLASS="gauche" | [[Guerrier de la fosse#EXPERTISEDESARMESDARENE|Expertise des armes d'arène]] +1
 |-
 | 3 || +3 || +1 || +2 || +1
-| CLASS="gauche" | [Astuce d'arme](./Guerrier de la fosse.md#ASTUCEDARME)
+| CLASS="gauche" | [[Guerrier de la fosse#ASTUCEDARME|Astuce d'arme]]
 |- CLASS="alt"
 | 4 || +4 || +1 || +2 || +2
-| CLASS="gauche" | [Art du spectacle](./Guerrier de la fosse.md#ARTDUSPECTACLE) (2/jour)
+| CLASS="gauche" | [[Guerrier de la fosse#ARTDUSPECTACLE|Art du spectacle]] (2/jour)
 |-
 | 5 || +5 || +2 || +3 || +2
-| CLASS="gauche" | [Expertise des armes d'arène](./Guerrier de la fosse.md#EXPERTISEDESARMESDARENE) +2, [rugissement de la foule](./Guerrier de la fosse.md#RUGISSEMENTDELAFOULE)
+| CLASS="gauche" | [[Guerrier de la fosse#EXPERTISEDESARMESDARENE|Expertise des armes d'arène]] +2, [[Guerrier de la fosse#RUGISSEMENTDELAFOULE|rugissement de la foule]]
 |- CLASS="alt"
 | 6 || +6 || +2 || +3 || +2
-| CLASS="gauche" | [Assaut rusé](./Guerrier de la fosse.md#ASSAUTRUSE)
+| CLASS="gauche" | [[Guerrier de la fosse#ASSAUTRUSE|Assaut rusé]]
 |-
 | 7 || +7 || +2 || +4 || +2
-| CLASS="gauche" | [Art du spectacle](./Guerrier de la fosse.md#ARTDUSPECTACLE) (3/jour)
+| CLASS="gauche" | [[Guerrier de la fosse#ARTDUSPECTACLE|Art du spectacle]] (3/jour)
 |- CLASS="alt"
 | 8 || +8 || +3 || +4 || +3
-| CLASS="gauche" | [Expertise des armes d'arène](./Guerrier de la fosse.md#EXPERTISEDESARMESDARENE) +3
+| CLASS="gauche" | [[Guerrier de la fosse#EXPERTISEDESARMESDARENE|Expertise des armes d'arène]] +3
 |-
 | 9 || +9 || +3 || +5 || +3
-| CLASS="gauche" | [Ruse brutale](./Guerrier de la fosse.md#RUSEBRUTALE)
+| CLASS="gauche" | [[Guerrier de la fosse#RUSEBRUTALE|Ruse brutale]]
 |- CLASS="alt"
 | 10 || +10 || +3 || +5 || +3
-| CLASS="gauche" | [Rugissement de la foule supérieur](./Guerrier de la fosse.md#RUGISSEMENTDELAFOULESUPERIEUR), [art du spectacle](./Guerrier de la fosse.md#ARTDUSPECTACLE) (4/jour)
+| CLASS="gauche" | [[Guerrier de la fosse#RUGISSEMENTDELAFOULESUPERIEUR|Rugissement de la foule supérieur]], [[Guerrier de la fosse#ARTDUSPECTACLE|art du spectacle]] (4/jour)
 |}
 </center>
 
@@ -59,25 +59,25 @@ Pour pouvoir devenir guerrier de la fosse, le personnage doit satisfaire aux con
 
 **Alignement.** N'importe quel alignement non-Loyal.
 
-**Dons.** [Démonstration](./Démonstration.md).
+**Dons.** [[Démonstration]].
 
-**Compétences.** 5 rangs en [Intimidation](./Intimidation.md) et 3 rangs en [Représentation](./Représentation.md) (danse), [Représentation](./Représentation.md) (farce) ou [Représentation](./Représentation.md) (scène).
+**Compétences.** 5 rangs en [[Intimidation]] et 3 rangs en [[Représentation]] (danse), [[Représentation]] (farce) ou [[Représentation]] (scène).
 
-**Spécial.** Trait racial [orque](./orque (race).md) férocité ou capacité de classe [rage de berserker](./Barbare.md#RAGEDEBERSERKER).
+**Spécial.** Trait racial [[Orque (race)|orque]] férocité ou capacité de classe [[barbare#RAGEDEBERSERKER|rage de berserker]].
 
 ### Compétences de classe
-Voici les compétences de classe du guerrier de la fosse : [Acrobaties](./Acrobaties.md) (Dex), [Bluff](./Bluff.md) (Cha), [Évasion](./Évasion.md) (Dex), [Intimidation](./Intimidation.md) (Cha) et [Représentation](./Représentation.md) (Cha).
+Voici les compétences de classe du guerrier de la fosse : [[Acrobaties]] (Dex), [[Bluff]] (Cha), [[Évasion]] (Dex), [[Intimidation]] (Cha) et [[Représentation]] (Cha).
 
-**Rangs de compétence par niveau.** 2 + modificateur d'[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.** 2 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe du guerrier de la fosse.
 #### Armes et armures
-Un guerrier de la fosse devient formé au maniement de toutes les armes courantes et de guerre avec l'attribut spécial de [spectacle](./Caractéristiques des armes.md#SPECTACLE). Il devient également formé au port des armures légères et intermédiaires, ainsi qu'au port des boucliers (sauf le pavois).
+Un guerrier de la fosse devient formé au maniement de toutes les armes courantes et de guerre avec l'attribut spécial de [[Caractéristiques des armes#SPECTACLE|spectacle]]. Il devient également formé au port des armures légères et intermédiaires, ainsi qu'au port des boucliers (sauf le pavois).
 
 {s:reference|MAUVAISEQUIPEMENT}
 #### Mauvais équipement (Ext)
-Les guerriers de la fosse sont souvent obligés de combattre avec un équipement en piteux état. Au niveau 1, un guerrier de la fosse peut dépenser une [action rapide](./Action rapide.md) pour ignorer l'état préjudiciable [brisé](./Brisé.md) d'une seule arme ou d'une seule pièce d'armure qu'il manie ou porte pour le reste du combat. L'arme ou la partie d'armure sélectionnée est traitée comme si elle n'avait pas l'état brisé, même si ses points de vie restent inchangés. Le guerrier de la fosse peut seulement affecter un objet à la fois avec cette capacité, s'il sélectionne un second objet, le premier souffre à nouveau de l'état brisé.
+Les guerriers de la fosse sont souvent obligés de combattre avec un équipement en piteux état. Au niveau 1, un guerrier de la fosse peut dépenser une [[action rapide]] pour ignorer l'état préjudiciable [[brisé]] d'une seule arme ou d'une seule pièce d'armure qu'il manie ou porte pour le reste du combat. L'arme ou la partie d'armure sélectionnée est traitée comme si elle n'avait pas l'état brisé, même si ses points de vie restent inchangés. Le guerrier de la fosse peut seulement affecter un objet à la fois avec cette capacité, s'il sélectionne un second objet, le premier souffre à nouveau de l'état brisé.
 
 {s:reference|ARTDUSPECTACLE}
 #### Art du spectacle (Ext)
@@ -102,30 +102,30 @@ Les guerriers de la fosse sont souvent obligés de combattre avec un équipement
 | Serviable
 | CLASS="gauche" | 15 + FP
 |}
-</div></div>Au niveau 1, une fois par jour, un guerrier de la fosse peut considérer un combat normal comme un [combat de spectacle](./Combat de spectacle.md) avec l'attitude de la foule de départ étant indifférente. Il fait des tests de combat de spectacle, peut utiliser des [dons de spectacle](./dons de spectacle.md) et obtenir des bonus et malus selon la réaction de la foule comme à la normale, même s'il n'y a pas de foule en train de regarder le combat. Seul le guerrier de la fosse est affecté par cette capacité. Activer cette capacité coûte une [action rapide](./Action rapide.md). Le [FP](./FP.md) de la rencontre détermine le [DD](./DD.md) des tests de combat de spectacle du guerrier de la fosse, comme résumé ci-contre.
+</div></div>Au niveau 1, une fois par jour, un guerrier de la fosse peut considérer un combat normal comme un [[combat de spectacle]] avec l'attitude de la foule de départ étant indifférente. Il fait des tests de combat de spectacle, peut utiliser des [[dons de spectacle]] et obtenir des bonus et malus selon la réaction de la foule comme à la normale, même s'il n'y a pas de foule en train de regarder le combat. Seul le guerrier de la fosse est affecté par cette capacité. Activer cette capacité coûte une [[action rapide]]. Le [[FP]] de la rencontre détermine le [[DD]] des tests de combat de spectacle du guerrier de la fosse, comme résumé ci-contre.
 
 Le guerrier de la fosse peut utiliser cette capacité une fois de plus par jour au niveau 4 et tous les 3 niveaux par la suite (pour un maximum de 4 fois par jour au niveau 10).
 
 {s:reference|EXPERTISEDESARMESDARENE}
 #### Expertise des armes d'arène (Ext)
-Au niveau 2, quand un guerrier de la fosse utilise une arme avec l'attribut [spectacle](./Caractéristiques des armes.md#SPECTACLE), il obtient un bonus de +1 aux [jets de dégâts](./Valeurs de combat.md#DEGATS) et aux [jets d'attaque](./jet dattaque.md) pour confirmer des [coups critiques](./coup critique.md). Ce bonus monte à +2 au niveau 5 et à +3 au niveau 8.
+Au niveau 2, quand un guerrier de la fosse utilise une arme avec l'attribut [[Caractéristiques des armes#SPECTACLE|spectacle]], il obtient un bonus de +1 aux [[Valeurs de combat#DEGATS|jets de dégâts]] et aux [[jet dattaque|jets d'attaque]] pour confirmer des [[coup critique|coups critiques]]. Ce bonus monte à +2 au niveau 5 et à +3 au niveau 8.
 
 {s:reference|ASTUCEDARME}
 #### Astuce d'arme (Ext)
-Au niveau 3, un guerrier de la fosse obtient le don [Science du sale coup](./Science du sale coup.md) comme don supplémentaire, et peut utiliser n'importe quelle arme avec l'attribut [spectacle](./Caractéristiques des armes.md#SPECTACLE) pour réaliser une [manœuvre offensive](./Manœuvres offensives.md) de [sale coup](./sale coup.md). Une fois par [round](./round.md), quand le guerrier de la fosse fait une manœuvre de sale coup contre un ennemi, il peut infliger des dégâts à l'ennemi comme s'il avait réalisé une attaque de corps à corps normale. Le guerrier de la fosse doit manier une arme et avoir au moins une main libre pour utiliser cette capacité.
+Au niveau 3, un guerrier de la fosse obtient le don [[Science du sale coup]] comme don supplémentaire, et peut utiliser n'importe quelle arme avec l'attribut [[Caractéristiques des armes#SPECTACLE|spectacle]] pour réaliser une [[manœuvres offensives|manœuvre offensive]] de [[sale coup]]. Une fois par [[round]], quand le guerrier de la fosse fait une manœuvre de sale coup contre un ennemi, il peut infliger des dégâts à l'ennemi comme s'il avait réalisé une attaque de corps à corps normale. Le guerrier de la fosse doit manier une arme et avoir au moins une main libre pour utiliser cette capacité.
 
 {s:reference|RUGISSEMENTDELAFOULE}
 #### Rugissement de la foule (Ext)
-Au niveau 5, l'acclamation et les applaudissements incitent un guerrier de la fosse à devenir encore plus violent et brutal. Lors d'un [combat de spectacle](./Combat de spectacle.md), le guerrier de la fosse peut rentrer en [rage](./Barbare.md#RAGEDUBERZERKER) (comme la capacité de classe du [barbare](./Barbare.md)) pendant n'importe quel [round](./round.md) durant lequel l'attitude de la foule est serviable. Cet effet s'ajoute en plus des bonus normaux octroyés par l'attitude de la foule. Le guerrier de la fosse peut maintenir sa rage chaque round tant que l'attitude de la foule envers lui reste serviable. Si l'attitude de la foule baisse en dessous de serviable, la rage du guerrier de la fosse se termine immédiatement (mais s'il possède la capacité de classe de rage d'une autre classe, il peut dépenser un round de sa rage pour continuer l'effet comme normalement pour cette capacité de classe). Si, après avoir utilisé cette capacité, l'attitude de la foule descend à inamicale ou hostile, le guerrier de la fosse devient [fatigué](./Fatigué.md). Il reste fatigué tant que l'attitude de la foule reste inamicale ou hostile, ou jusqu'à la fin du combat, selon ce qui arrive en premier.
+Au niveau 5, l'acclamation et les applaudissements incitent un guerrier de la fosse à devenir encore plus violent et brutal. Lors d'un [[combat de spectacle]], le guerrier de la fosse peut rentrer en [[barbare#RAGEDUBERZERKER|rage]] (comme la capacité de classe du [[barbare]]) pendant n'importe quel [[round]] durant lequel l'attitude de la foule est serviable. Cet effet s'ajoute en plus des bonus normaux octroyés par l'attitude de la foule. Le guerrier de la fosse peut maintenir sa rage chaque round tant que l'attitude de la foule envers lui reste serviable. Si l'attitude de la foule baisse en dessous de serviable, la rage du guerrier de la fosse se termine immédiatement (mais s'il possède la capacité de classe de rage d'une autre classe, il peut dépenser un round de sa rage pour continuer l'effet comme normalement pour cette capacité de classe). Si, après avoir utilisé cette capacité, l'attitude de la foule descend à inamicale ou hostile, le guerrier de la fosse devient [[fatigué]]. Il reste fatigué tant que l'attitude de la foule reste inamicale ou hostile, ou jusqu'à la fin du combat, selon ce qui arrive en premier.
 
 {s:reference|ASSAUTRUSE}
 #### Assaut rusé (Ext)
-Au niveau 6, un guerrier de la fosse obtient le don [Sale coup rapide](./Sale coup rapide.md) comme don supplémentaire. Cela permet au guerrier de la fosse de faire une [manœuvre offensive](./Manœuvre offensive.md) de [sale coup](./sale coup.md) au lieu d'une de ses attaques au corps à corps à son tour. Cette manœuvre doit remplacer l'attaque avec le meilleur [BBA](./BBA.md).
+Au niveau 6, un guerrier de la fosse obtient le don [[Sale coup rapide]] comme don supplémentaire. Cela permet au guerrier de la fosse de faire une [[manœuvre offensive]] de [[sale coup]] au lieu d'une de ses attaques au corps à corps à son tour. Cette manœuvre doit remplacer l'attaque avec le meilleur [[BBA]].
 
 {s:reference|RUSEBRUTALE}
 #### Ruse brutale (Ext)
-Au niveau 9, un guerrier de la fosse gagne [Sale coup supérieur](./Sale coup supérieur.md) comme don supplémentaire. De plus, une créature qui dépense une [action simple](./Action simple.md) pour retirer un [état préjudiciable](./état préjudiciable.md) causé par le [sale coup](./sale coup.md) du guerrier de la fosse provoque une [attaque d'opportunité](./AO.md) de la part du guerrier de la fosse.
+Au niveau 9, un guerrier de la fosse gagne [[Sale coup supérieur]] comme don supplémentaire. De plus, une créature qui dépense une [[action simple]] pour retirer un [[état préjudiciable]] causé par le [[sale coup]] du guerrier de la fosse provoque une [[AO|attaque d'opportunité]] de la part du guerrier de la fosse.
 
 {s:reference|RUGISSEMENTDELAFOULESUPERIEUR}
 #### Rugissement de la foule supérieur (Ext)
-Au niveau 10, l'effet de la foule sur un guerrier de la fosse devient encore plus important. Le guerrier de la fosse peut entrer et maintenir sa [rage](./Barbare.md#RAGEDUBERZERKER) tant que l'attitude de la foule envers lui est amicale ou mieux. Si l'attitude de la foule est serviable, le bonus de moral à la [Force](./Force.md) et à la [Constitution](./Constitution.md) du guerrier de la fosse passe à +6 et son bonus de moral aux jets de [Volonté](./Volonté.md) passe à +3. De plus, après avoir utilisé cette capacité, le guerrier de la fosse ne devient pas [fatigué](./Fatigué.md) tant que l'attitude de la foule n'est pas hostile.
+Au niveau 10, l'effet de la foule sur un guerrier de la fosse devient encore plus important. Le guerrier de la fosse peut entrer et maintenir sa [[barbare#RAGEDUBERZERKER|rage]] tant que l'attitude de la foule envers lui est amicale ou mieux. Si l'attitude de la foule est serviable, le bonus de moral à la [[Force]] et à la [[Constitution]] du guerrier de la fosse passe à +6 et son bonus de moral aux jets de [[Volonté]] passe à +3. De plus, après avoir utilisé cette capacité, le guerrier de la fosse ne devient pas [[fatigué]] tant que l'attitude de la foule n'est pas hostile.

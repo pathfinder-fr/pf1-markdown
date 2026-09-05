@@ -10,8 +10,8 @@ LastModified: 2026-08-02 08:41
 {s:pucem|Animal|Désert}
 {s:BDTexte|*Source : Universal Wilderness*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +2 ; **Sens** [Odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Odorat]], [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)}
 {s:BDTexte|**pv** 1 (1d8-3)}
@@ -23,8 +23,8 @@ LastModified: 2026-08-02 08:41
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 15, **Con** 4, **Int** 2, **Sag** 12, **Cha** 7}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6 (10 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Habitant du désert](./Habitant du désert.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +15, [Escalade](./Escalade.md) +6, [Perception](./Perception.md) +5 ; **Modificateurs raciaux** [Escalade](./Escalade.md) +4, [Discrétion](./Discrétion.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Habitant du désert]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +15, [[Escalade]] +6, [[Perception]] +5 ; **Modificateurs raciaux** [[Escalade]] +4, [[Discrétion]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Désert}
 {s:BDTexte|**Organisation sociale** solitaire, couple}

@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 p. 141*}
 {s:BDTexte|**PX** 19 200 px}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) (aquatique) de taille G, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] (aquatique) de taille G, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 27, contact 10, pris au dépourvu 26 (Dex +1, naturelle +17, taille -1)}
 {s:BDTexte|**pv** 152 (16d10+64)}
@@ -25,13 +25,13 @@ Categories:
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Attaques spéciales** souffle (cône de 9 m, 8d6 feu, Réflexes DD 22 1/2 dégâts, utilisable tous les 1d4 rounds)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 13 ; concentration +17)}
-{s:BDSorts|À volonté — *[charme-personne](./Charme-personne.md)* ([DD](./DD.md) 15), *[communication avec les animaux](./Communication avec les animaux.md)* (serpents uniquement), *[compréhension des langages](./Compréhension des langages.md)*, *[son imaginaire](./Son imaginaire.md)* ([DD](./DD.md) 14)}
-{s:BDSorts|1/jour — *[chant de discorde](./Chant de discorde.md)* ([DD](./DD.md) 19), *[charme-animal](./Charme-animal.md)* ([DD](./DD.md) 15, serpents uniquement), *[cri](./Cri.md)* ([DD](./DD.md) 18)}
+{s:BDSorts|À volonté — *[[charme-personne]]* ([[DD]] 15), *[[communication avec les animaux]]* (serpents uniquement), *[[compréhension des langages]]*, *[[son imaginaire]]* ([[DD]] 14)}
+{s:BDSorts|1/jour — *[[chant de discorde]]* ([[DD]] 19), *[[charme-animal]]* ([[DD]] 15, serpents uniquement), *[[cri]]* ([[DD]] 18)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 13, **Con** 18, **Int** 11, **Sag** 14, **Cha** 18}
-{s:BDTexte|**BBA** +16, **BMO** +21 (+25 [lutte](./lutte.md)), **DMD** 32 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Arme de prédilection](./Arme de prédilection.md) (morsure), [Critique assourdissant](./Critique assourdissant.md),  [Don pour les critiques](./Don pour les critiques.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (griffe), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +20, [Discrétion](./Discrétion.md) +12, [Intimidation](./Intimidation.md) +15, [Natation](./Natation.md) +12, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +10, [Vol](./Vol.md) +6}
+{s:BDTexte|**BBA** +16, **BMO** +21 (+25 [[lutte]]), **DMD** 32 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Arme de prédilection]] (morsure), [[Critique assourdissant]],  [[Don pour les critiques]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (griffe), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Bluff]] +20, [[Discrétion]] +12, [[Intimidation]] +15, [[Natation]] +12, [[Perception]] +17, [[Psychologie]] +10, [[Vol]] +6}
 {s:BDTexte|**Langue** commun, sylvestre}
 {s:BDTexte|**Particularités** amphibie, empathie avec les serpents}
 {s:BDSousTitre|Écologie}
@@ -39,13 +39,13 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire ou harem (1 et 4-10 serpents)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Empathie avec les serpents (Ext).** Une gouivre peut communiquer avec les serpents et les comprendre. Elle peut utiliser la [Diplomatie](./Diplomatie.md) pour modifier l’attitude d’un serpent et bénéficie d’un bonus racial de +4 sur ce type de tests.}
+{s:BDTexte|**Empathie avec les serpents (Ext).** Une gouivre peut communiquer avec les serpents et les comprendre. Elle peut utiliser la [[Diplomatie]] pour modifier l’attitude d’un serpent et bénéficie d’un bonus racial de +4 sur ce type de tests.}
 {s:BDTexte|**Esprit indéfectible (Ext).** Une gouivre gagne un bonus de +4 aux jets de sauvegarde effectués pour résister aux effets mentaux.}
 </div>
 </td><td><div>
 *Une moitié de cette créature est une femme nue, tandis que l’autre est un dragon ondulant et ailé.*
 
-Une gouivre est un prédateur monstrueux et sournois qui a l’aspect d’un dragon aux écailles vertes et dont la queue est remplacée par la moitié supérieure d’une femme humanoïde. Elle évite la proximité de ceux de son espèce et préfère les fées malveillantes (surtout les fées aquatiques telles que les [nixes](./Nixe.md)) avec lesquelles elle entretient des conversations de haute volée et les serpents ordinaires pour lui tenir compagnie. Une gouivre mesure 3,60 mètres de long de sa tête de dragon à sa tête de femme pour un poids de 250 kilogrammes. Elle peut vivre 200 ans.
+Une gouivre est un prédateur monstrueux et sournois qui a l’aspect d’un dragon aux écailles vertes et dont la queue est remplacée par la moitié supérieure d’une femme humanoïde. Elle évite la proximité de ceux de son espèce et préfère les fées malveillantes (surtout les fées aquatiques telles que les [[nixe|nixes]]) avec lesquelles elle entretient des conversations de haute volée et les serpents ordinaires pour lui tenir compagnie. Une gouivre mesure 3,60 mètres de long de sa tête de dragon à sa tête de femme pour un poids de 250 kilogrammes. Elle peut vivre 200 ans.
 
 Les gouivres installent leurs tanières dans de petites grottes près des points d’eau calmes. Elles aiment les décorer avec des pièces de monnaie et des bijoux brillants, ainsi qu’avec des pans de soie de couleurs vives. Certaines placent une partie de leurs trésors dans l’eau à l’extérieur de leur tanière pour appâter les humanoïdes curieux. Elles dissimulent leur moitié reptilienne sous la surface pour parfaire le piège dans l’attente qu’une proie approche à portée. Une gouivre peut respirer de l’air et de l’eau (avec ses deux têtes) ; elle peut donc agripper une créature puis retourner dans l’eau pour la noyer.
 Elle préfère la chair des humanoïdes mais dévore également toutes les proies à sang chaud disponibles. Les gouivres apprécient la musique et leur magie s’accompagne souvent de chant ou de subtiles vibrations musicales générées par le frottement de leurs écailles.

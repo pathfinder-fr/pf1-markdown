@@ -13,24 +13,24 @@ Categories:
 <tr>
 <td>
 #### Règles et monstres
-- [Index des règles maison](./RM Index.md)
+- [[RM Index|Index des règles maison]]
 
 #### Jouer des enfants
-- [Des PJ enfants](./Enfants.md) : règles, aides de jeu, scénarios…
+- [[Enfants|Des PJ enfants]] : règles, aides de jeu, scénarios…
 
 #### Projet Nigntfinder
-- [Nightfinder](./Midnight.md), Midnight avec les règles de Pathfinder
+- [[Midnight|Nightfinder]], Midnight avec les règles de Pathfinder
 
 </td><td>
 #### Univers
-- [Campagne basée sur le mythe de HP Lovecraft](./campagneYogSothoth.md) (projet en cours)
-- [Bouts de campagne](./Bouts de campagne.md)
-- [Eberron](./Eberron.md)
-- [Selnir](./Selnir.md) (projet en cours)
+- [[campagneYogSothoth|Campagne basée sur le mythe de HP Lovecraft]] (projet en cours)
+- [[Bouts de campagne]]
+- [[Eberron]]
+- [[Selnir]] (projet en cours)
 
 #### Projet Webzine L'ECLAIREUR
-- [^http://www.mediafire.com/view/71522qti4oz67fs/LECLAIREUR_MODE_DEMPLOI.pdf|Guide des contributeurs de l'Eclaireur]
-- [Travaux en cours](./WebzineTravaux.md)
+- [Guide des contributeurs de l'Eclaireur](http://www.mediafire.com/view/71522qti4oz67fs/LECLAIREUR_MODE_DEMPLOI.pdf)
+- [[WebzineTravaux|Travaux en cours]]
 
 
 </td></tr></table>

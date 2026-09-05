@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#NIVEAU
 ---
 
->>> [Présentation des sorts#NIVEAU](./Présentation des sorts.md#NIVEAU)
+>>> [[Présentation des sorts#NIVEAU]]

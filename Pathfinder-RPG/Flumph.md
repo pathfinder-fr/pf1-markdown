@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.122*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille P, LB}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}); [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Aberration|Aberration]] de taille P, LB}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}); [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 14, pris au dépourvu  15 (Dex +3, naturelle +4, taille +1)}
 {s:BDTexte|**pv**  9 (2d8)}
@@ -27,16 +27,16 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 16, **Con** 11, **Int** 10, **Sag** 14, **Cha** 10}
 {s:BDTexte|**BBA** +1, **BMO** +0, **DMD** 13}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Diplomatie](./Diplomatie.md) +2, [Discrétion](./Discrétion.md) +11, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +3, [Vol](./Vol.md) +18}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Diplomatie]] +2, [[Discrétion]] +11, [[Perception]] +7, [[Psychologie]] +3, [[Vol]] +18}
 {s:BDTexte|**Langues** aklo, commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrains ou terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (4-16)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Jet de puanteur (Ext).** Le flumph peut émettre un jet de liquide puant sur une ligne de 6 mètres (4 {s:c}) tous les 1d4 rounds. Ce jet fonctionne comme la capacité universelle de monstre [puanteur](./Puanteur.md), à la seule différence que le jet n’affecte que les créatures touchées : celles-ci doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 11 ou être [fiévreuses](./Fiévreux.md) pendant 5 rounds. Le DD du jet de sauvegarde est basé sur la [Constitution](./Constitution.md). Sinon, le flumph peut concentrer son jet sur une seule cible située dans un rayon de 1,50 mètre (1 {s:c}). Pour utiliser cette version du jet de puanteur, le flumph doit réussir une [attaque de contact à distance](./attaque de contact à distance.md) (+5 pour la plupart des flumphs). Si la cible est touchée, elle doit réussir un jet de [Vigueur](./Vigueur.md) DD 11 ou être [nauséeuse](./Nauséeux.md) pendant 5 rounds ; sinon elle est [fiévreuse](./Fiévreux.md) pendant 5 rounds. L’odeur s’attarde dans la zone affectée et sur toutes les créatures touchées pendant 1d4 heures : elle est détectable à 30 mètres (20 {s:c}) (les créatures ayant le sens [odorat](./odorat.md) peuvent la sentir deux fois plus loin).}
-{s:BDTexte|**Piqûre d’acide (Ext).** Lorsque le flumph frappe un adversaire avec ses pointes, il lui injecte un acide brûlant et irritant qui inflige aussitôt 1d4 points de dégâts d’acide, ainsi que 1d4 points de dégâts d’acide supplémentaires le round suivant. La cible peut dissiper les effets de l’acide en plongeant sa blessure dans l’eau pendant un round ou en bénéficiant d’un test de [Premiers secours](./Premiers secours.md) [DD](./DD.md) 15. Une créature qui agrippe ou avale un flumph reçoit automatiquement ces dégâts d’acide tous les rounds tant qu’elle est en contact avec le flumph vivant.}
+{s:BDTexte|**Jet de puanteur (Ext).** Le flumph peut émettre un jet de liquide puant sur une ligne de 6 mètres (4 {s:c}) tous les 1d4 rounds. Ce jet fonctionne comme la capacité universelle de monstre [[puanteur]], à la seule différence que le jet n’affecte que les créatures touchées : celles-ci doivent réussir un jet de [[Vigueur]] [[DD]] 11 ou être [[fiévreux|fiévreuses]] pendant 5 rounds. Le DD du jet de sauvegarde est basé sur la [[Constitution]]. Sinon, le flumph peut concentrer son jet sur une seule cible située dans un rayon de 1,50 mètre (1 {s:c}). Pour utiliser cette version du jet de puanteur, le flumph doit réussir une [[attaque de contact à distance]] (+5 pour la plupart des flumphs). Si la cible est touchée, elle doit réussir un jet de [[Vigueur]] DD 11 ou être [[nauséeux|nauséeuse]] pendant 5 rounds ; sinon elle est [[fiévreux|fiévreuse]] pendant 5 rounds. L’odeur s’attarde dans la zone affectée et sur toutes les créatures touchées pendant 1d4 heures : elle est détectable à 30 mètres (20 {s:c}) (les créatures ayant le sens [[odorat]] peuvent la sentir deux fois plus loin).}
+{s:BDTexte|**Piqûre d’acide (Ext).** Lorsque le flumph frappe un adversaire avec ses pointes, il lui injecte un acide brûlant et irritant qui inflige aussitôt 1d4 points de dégâts d’acide, ainsi que 1d4 points de dégâts d’acide supplémentaires le round suivant. La cible peut dissiper les effets de l’acide en plongeant sa blessure dans l’eau pendant un round ou en bénéficiant d’un test de [[Premiers secours]] [[DD]] 15. Une créature qui agrippe ou avale un flumph reçoit automatiquement ces dégâts d’acide tous les rounds tant qu’elle est en contact avec le flumph vivant.}
 </div>
 
 {s:ImageCentre|Bestiaire/Flumph_img.jpg|90%}

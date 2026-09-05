@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés p.182*}
 {s:BDTexte|XP 204 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md)) de taille Gig, NM}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille Gig, NM}
 {s:BDTexte|**Init **+4 ; **Sens** vision dans le noir à 18m, perception de la mort, vision lucide ; Perception +30}
 {s:BDTexte|**Aura ** terre brûlée (18 m)}
 (((Défense)))
@@ -27,15 +27,15 @@ Categories:
 {s:BDTexte|**Espace** 6 m ; **Allonge** 6 m}
 {s:BDTexte|**Attaques spéciales** manteau des âmes}
 {s:BDTexte|**Pouvoirs magiques** (NLS 20 ; concentration +27)}
-{s:BDSorts|Permanent - [perception de la mort](./Perception de la mort.md), [vision lucide](./Vision lucide.md)}
-{s:BDSorts|À volonté – [téléportation suprême](./Téléportation suprême.md) (personnel plus 25 kg d’équipement maximum), [brume mortelle](./Brume mortelle.md) (DD 22)}
-{s:BDSorts|3/jour - [destruction](./destruction.md) (DD 24), [tempête de feu](./Tempête de feu.md) (DD25), [nuage incendiaire](./Nuage incendiaire.md) (DD25), [renvoi des sorts](./Renvoi des sorts.md) accéléré}
-{s:BDSorts|1/jour - [immobilisation de personne de groupe](./Immobilisation de personne de groupe.md) (DD24), [nuée de météores](./Nuée de météores.md) (DD26), [convocation](./convocation.md) (niveau 9 : 1 [purrodaémon](./Purrodaémon.md) 50%)}
+{s:BDSorts|Permanent - [[perception de la mort]], [[vision lucide]]}
+{s:BDSorts|À volonté – [[téléportation suprême]] (personnel plus 25 kg d’équipement maximum), [[brume mortelle]] (DD 22)}
+{s:BDSorts|3/jour - [[destruction]] (DD 24), [[tempête de feu]] (DD25), [[nuage incendiaire]] (DD25), [[renvoi des sorts]] accéléré}
+{s:BDSorts|1/jour - [[immobilisation de personne de groupe]] (DD24), [[nuée de météores]] (DD26), [[convocation]] (niveau 9 : 1 [[purrodaémon]] 50%)}
 (((Statistiques)))
 {s:BDTexte|**For** 30, **Dex** 19, **Con** 28, **Int** 13, **Sag** 21, **Cha** 24}
 {s:BDTexte|**BBA **+22 ; **BMO **+36; **DMD** 50}
-{s:BDTexte|**Dons** [Critique sanglant](./Critique sanglant.md), [Enchaînement](./Enchaînement.md), [Don pour les critiques](./Don pour les critiques.md), [Succession d’enchaînements](./Succession denchaînements.md), [Science du critique](./Science du critique.md) (morsure), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Attaque en puissance](./Attaque en puissance.md), [Critique ralentissant](./Critique ralentissant.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (renvoi des sorts), [Arme de prédilection](./Arme de prédilection.md) (hallebarde), [Frappe décisive](./Frappe décisive.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +26, [Bluff](./Bluff.md) +32, [Intimidation](./Intimidation.md) +32, [Connaissances](./Connaissances.md) (histoire) +15, [Connaissances](./Connaissances.md) (plans) +15, [Perception](./Perception.md) +30, [Psychologie](./Psychologie.md) +30, [Vol](./Vol.md) +23}
+{s:BDTexte|**Dons** [[Critique sanglant]], [[Enchaînement]], [[Don pour les critiques]], [[Succession denchaînements|Succession d’enchaînements]], [[Science du critique]] (morsure), [[Frappe décisive supérieure]], [[Science de la frappe décisive]], [[Attaque en puissance]], [[Critique ralentissant]], [[Pouvoir magique rapide]] (renvoi des sorts), [[Arme de prédilection]] (hallebarde), [[Frappe décisive]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +26, [[Bluff]] +32, [[Intimidation]] +32, [[Connaissances]] (histoire) +15, [[Connaissances]] (plans) +15, [[Perception]] +30, [[Psychologie]] +30, [[Vol]] +23}
 {s:BDTexte|**Langues** abyssal, draconique, infernal; télépathie 30m}
 (((Écologie)))
 {s:BDTexte|**Environnement** quelconque (Abaddon)}
@@ -85,7 +85,7 @@ consumé par un feu maudit semblable au sort destruction.
 Le DD du jet de sauvegarde dépend du Charisme.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 ''Ce fiélon massif possède de grosses griffes semblables à celles d’un
 lion, les larges ailes d’un aigle et les pattes d’un gros chien. Il a la
 tête d’un loup à trois yeux et la mâchoire d’un tigre à dents de sabre.

@@ -6,7 +6,7 @@ Categories:
 - Conversion
 ---
 
-Les blocs descriptifs présentés ci-dessous sont également repris dans un document PDF disponible sur la page des [aides de jeux pour Pathfinder 7](./Aides de jeu AP2.md).
+Les blocs descriptifs présentés ci-dessous sont également repris dans un document PDF disponible sur la page des [[Aides de jeu AP2|aides de jeux pour Pathfinder 7]].
 
 <table>
 <tr style="vertical-align:top">

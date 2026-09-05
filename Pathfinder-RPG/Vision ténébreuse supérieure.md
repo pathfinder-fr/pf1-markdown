@@ -10,6 +10,6 @@ Categories:
 
 *Grâce à ses modifications, le fetchelin a des yeux qui lui permettent de voir clairement non seulement dans les ténèbres normales, mais aussi dans les ténèbres magiques.*
 
-**Conditions.** [Fetchelin](./Fetchelin (race).md), [Vision obscure](./Vision obscure.md), [Vision ténébreuse](./Vision ténébreuse.md)
+**Conditions.** [[Fetchelin (race)|Fetchelin]], [[Vision obscure]], [[Vision ténébreuse]]
 
-**Avantages.** Le fetchelin gagne la capacité [vision dans les ténèbres](./Vision dans les ténèbres.md) et perd sa faiblesse [sensibilité à la lumière](./Sensibilité à la lumière (capacité).md) mais gagne la faiblesse [aveuglé par la lumière](./Aveuglé par la lumière (capacité).md).
+**Avantages.** Le fetchelin gagne la capacité [[vision dans les ténèbres]] et perd sa faiblesse [[sensibilité à la lumière (capacité)|sensibilité à la lumière]] mais gagne la faiblesse [[aveuglé par la lumière (capacité)|aveuglé par la lumière]].

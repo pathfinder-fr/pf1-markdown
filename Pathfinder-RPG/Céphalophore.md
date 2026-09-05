@@ -14,7 +14,7 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 25*}
 - **4 800 PX**
-- [Créature artificielle](./type Créature artificielle.md) de taille G, N
+- [[type créature artificielle|Créature artificielle]] de taille G, N
 - **Init **+2 ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +1
 (((Défense)))
 - **CA** 23, contact 11, pris au dépourvu 21 (Dex +2, naturelle +12, taille -1)
@@ -56,6 +56,6 @@ Un céphalophore est taillé dans un unique bloc de marbre pesant au moins deux 
 
 **NLS **11 ; **Prix **33 500 po
 
-**Conditions requises** [Création de créatures artificielles](./Création de créatures artificielles.md), *[animation d’objets](./Animation dobjets.md)*, *[hébétement de monstre](./Hébétement de monstre.md)*, *[quête](./Quête.md)*, *[résurrection](./Résurrection.md)*, le créateur doit être un lanceur de sorts de niveau 11 ; **Compétence **[Artisanat](./Artisanat.md) (sculpture) DD 20 ; **Coût** 18 500 po
+**Conditions requises** [[Création de créatures artificielles]], *[[animation dobjets|animation d’objets]]*, *[[hébétement de monstre]]*, *[[quête]]*, *[[résurrection]]*, le créateur doit être un lanceur de sorts de niveau 11 ; **Compétence **[[Artisanat]] (sculpture) DD 20 ; **Coût** 18 500 po
 
 </div></td></tr></table>

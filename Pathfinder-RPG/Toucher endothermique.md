@@ -11,14 +11,14 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:cm}**Cette option est plus courante chez les [hommes-lézards](./Homme-lézard.md).**
+{s:cm}**Cette option est plus courante chez les [[Homme-lézard|hommes-lézards]].**
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Sor](./Sorcière.md) 1
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M/FD](./composantes.md) (petit bout de peau de serpent)
+**École** [[Transmutation]] ; **Niveau** [[chaman|Cham]] 1, [[druide|Dru]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[sorcière|Sor]] 1
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M/FD]] (petit bout de peau de serpent)
 **Portée** contact
 **Cible** une créature vivante de type dragon ou de sous-type reptilien
 **Durée** 1 round/niveau
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) annule ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] annule ; **Résistance à la magie** oui
 
-Ce sort ralentit le métabolisme et les fonctions corporelles d’une créature pendant une courte période. La cible est [chancelante](./Chancelant.md) et se déplace à la moitié de sa vitesse (arrondie à l’inférieur au facteur de 1,50 mètre le plus proche). En revanche, elle peut retenir son souffle deux fois plus longtemps que d’habitude.
+Ce sort ralentit le métabolisme et les fonctions corporelles d’une créature pendant une courte période. La cible est [[chancelant|chancelante]] et se déplace à la moitié de sa vitesse (arrondie à l’inférieur au facteur de 1,50 mètre le plus proche). En revanche, elle peut retenir son souffle deux fois plus longtemps que d’habitude.

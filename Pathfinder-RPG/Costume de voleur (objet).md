@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 5 po ; **Poids** 1,5 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:AE}**Prix** 5 po ; **Poids** 1,5 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
-Intégrant de nombreuses poches dissimulées, ces vêtements donnent un bonus de +2 aux tests d’[Escamotage](./Escamotage.md) pour cacher les petits objets sur soi.
+Intégrant de nombreuses poches dissimulées, ces vêtements donnent un bonus de +2 aux tests d’[[Escamotage]] pour cacher les petits objets sur soi.

@@ -11,12 +11,12 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage tire le meilleur du matériau spécial dont est composé son armure.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [maîtrise d’armure](./Dons.md#MAITRISEDARMURE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDARMURE|maîtrise d’armure]]
 
-**Conditions.** [Expert des matériaux d’armure](./Expertise des matériaux darmure.md), [BBA](./BBA.md) +11 ou [guerrier](./Guerrier.md) de niveau 8, capacité de classe [entrainement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES)
+**Conditions.** [[Expertise des matériaux darmure|Expert des matériaux d’armure]], [[BBA]] +11 ou [[guerrier]] de niveau 8, capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entrainement aux armures]]
 
-**Avantage.** Le personnage peut utiliser la capacité accordée par [Expert des matériaux d’armure](./Expertise des matériaux darmure.md) deux fois de plus par jour.
+**Avantage.** Le personnage peut utiliser la capacité accordée par [[Expertise des matériaux darmure|Expert des matériaux d’armure]] deux fois de plus par jour.
 
 {s:AMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Le personnage peut dépenser 5 points d’endurance pour utiliser la capacité d’un matériau spécial sans le décompter de son nombre d'utilisations quotidiennes.

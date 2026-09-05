@@ -11,9 +11,9 @@ Categories:
 
 {s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}<div class="BD">
 {s:BDTitre|Symbole de chance|{s:MR}}
-**Aura** [Evocation](./Évocation.md) faible ; **NLS** 3 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 6 000 po ; **Poids** 0,5 kg
+**Aura** [[évocation|Evocation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 6 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette sphère translucide faite d’un verre aussi dur que l’acier change de forme une heure après être entrée en possession de quelqu’un, pour revêtir celle de son [symbole sacré](./Symbole sacré (objet).md). Si le symbole est entre les mains d’un halfelin qui possède le trait racial [chance des halfelins](./Halfelin.md#CHANCEDESHALFELINS) ou [chance adaptable](./Halfelin.md#CHANCEADAPTABLE) et qu’il s’en sert pour [canaliser de l’énergie](./Prêtre.md#CANALISATIONDENERGIE) afin de soigner, il donne un [bonus](./bonus.md) de chance de +1 aux [jets de sauvegarde](./JDS.md) des créatures guéries pendant un nombre de [rounds](./round.md) égal au nombre de dés de la canalisation.
+Cette sphère translucide faite d’un verre aussi dur que l’acier change de forme une heure après être entrée en possession de quelqu’un, pour revêtir celle de son [[Symbole sacré (objet)|symbole sacré]]. Si le symbole est entre les mains d’un halfelin qui possède le trait racial [[halfelin#CHANCEDESHALFELINS|chance des halfelins]] ou [[halfelin#CHANCEADAPTABLE|chance adaptable]] et qu’il s’en sert pour [[Prêtre#CANALISATIONDENERGIE|canaliser de l’énergie]] afin de soigner, il donne un [[bonus]] de chance de +1 aux [[jds|jets de sauvegarde]] des créatures guéries pendant un nombre de [[round|rounds]] égal au nombre de dés de la canalisation.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[faveur divine](./Faveur divine.md)*, le créateur doit être un [halfelin](./Halfelin.md) ; **Coût** 3 000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[faveur divine]]*, le créateur doit être un [[halfelin]] ; **Coût** 3 000 po
 </div>

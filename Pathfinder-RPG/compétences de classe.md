@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Compétences#COMPETENCESDECLASSE
 ---
 
->>> [Compétences#COMPETENCESDECLASSE](./Compétences.md#COMPETENCESDECLASSE)
+>>> [[Compétences#COMPETENCESDECLASSE]]

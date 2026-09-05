@@ -15,7 +15,7 @@ Cette approche n'est pas anodine car au final, ce sont les joueurs qui ont élu 
 
 Au terme de son mandat de quatre années, Ehu Hadif, le premier questeur élu à décidé de prendre sa retraite et de nouveaux candidats devront-être plébiscités.
 
-Pour participer au vote il faudra avoir joué le scénario  6-06 "Tomorrow's Seekers" (les questeurs de demain) et ensuite voter sur [https://paizo.com/starfindersociety/firstseeker|Le site des élections du premier questeur].
+Pour participer au vote il faudra avoir joué le scénario  6-06 "Tomorrow's Seekers" (les questeurs de demain) et ensuite voter sur [Le site des élections du premier questeur](https://paizo.com/starfindersociety/firstseeker).
 <div style="clear: both"></div>
 
 Bien évidement, Nous proposerons ce scénario ouvert à toutes et à tous sur le discord de pathfinder-fr, les bureau de votes étant ouvert jusqu'au 31 Octobre.

@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Vellumis est la plus ancienne et la plus grande ville de [Dernier-Rempart](./Dernier-Rempart.md).
+Vellumis est la plus ancienne et la plus grande ville de [[Dernier-Rempart]].
 
-Elle est située sur les rives du lac d'[Encarthan](./Encarthan.md). Son port sert aux croisés qui débarquent ou qui quittent [Dernier-Rempart](./Dernier-Rempart.md).
+Elle est située sur les rives du lac d'[[Encarthan]]. Son port sert aux croisés qui débarquent ou qui quittent [[Dernier-Rempart]].

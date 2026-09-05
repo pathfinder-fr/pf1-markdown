@@ -111,7 +111,7 @@ Commentez ce livre sur le [forum](http://www.pathfinder-fr.org/Forum/default.asp
 {s:BookTitle|ADVANCEDPLAYERSGUIDE|Pathfinder Roleplaying Game: Advanced Player's Guide / Manuel des joueurs : Règles avancées}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO1115_180.jpeg|http://paizo.com/products/btpy8b6g}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/182_Pathfinder&#95;_Manuel_des_joueurs_Regles_avancees.jpg|https://www.black-book-editions.fr/produit.php?id=3219}
-{s:BookComment|Le premier et le seul supplément de règles pures pour Pathfinder RPG. Il contiendra de nombreuses options (lignages, pouvoirs de rage, écoles de magie, ...) pour les classes de base, ainsi que 6 nouvelles classes de base qui sont actuellement en playtest. La version de playtest de ces 6 classes est disponible sur la page des [aides de jeu](./../Golarion/Aides de jeu.md).  
+{s:BookComment|Le premier et le seul supplément de règles pures pour Pathfinder RPG. Il contiendra de nombreuses options (lignages, pouvoirs de rage, écoles de magie, ...) pour les classes de base, ainsi que 6 nouvelles classes de base qui sont actuellement en playtest. La version de playtest de ces 6 classes est disponible sur la page des [[Aides de jeu]].  
   
 Commentez ce livre sur le [forum](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&m=14549&#post14549) !}
 {s:BookTitle|ULTIMATEMAGIC|Pathfinder Roleplaying Game: Ultimate Magic / L'art de la magie}
@@ -133,7 +133,7 @@ Commentez ce livre sur le [forum](http://www.pathfinder-fr.org/Forum/default.asp
 {s:BookTitle|RECUEILRACES|Pathfinder le jeu de rôle: Manuel des races}
 <td></td>
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/289_Manuel_des_races.jpg|https://www.black-book-editions.fr/produit.php?id=410}
-{s:BookComment|Ce recueil regroupe les ouvrages VO suivants : Advanced race guide, les [^http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONELVES|elfes de Golarion], les [^http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONDWARVES|nains de Golarion], les [^http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONGNOMES|gnomes de Golarion], les [^http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONORCS|orques de Golarion], les [^http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONHALFLINGS|halfelins de Golarion], les [^http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONHUMANS|humains de Golarion], les [http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONGOBLINS|gobelins de Golarion]. }
+{s:BookComment|Ce recueil regroupe les ouvrages VO suivants : Advanced race guide, les [elfes de Golarion](http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONELVES), les [nains de Golarion](http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONDWARVES), les [gnomes de Golarion](http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONGNOMES), les [orques de Golarion](http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONORCS), les [halfelins de Golarion](http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONHALFLINGS), les [humains de Golarion](http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONHUMANS), les [gobelins de Golarion](http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#COMPANIONGOBLINS). }
 {s:BookTitle|ULTIMATEEQUIPMENT|Pathfinder Roleplaying Game: Ultimate Equipment}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO1123_180.jpeg|http://paizo.com/products/btpy8tmc?Pathfinder-Roleplaying-Game-Ultimate-Equipment}
 <td></td>
@@ -141,7 +141,7 @@ Commentez ce livre sur le [forum](http://www.pathfinder-fr.org/Forum/default.asp
 {s:BookTitle|RECUEILEQUIPMENT|Pathfinder le jeu de rôle: Armes et équipement}
 <td></td>
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/299_Armes_&#95;equipement.jpg|https://www.black-book-editions.fr/produit.php?id=409}
-{s:BookComment|Recueil VF qui comprend Ultimate Equipement et le supplément Pathfinder Univers : [^http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#ARTIFACTSLEGENDS|Artifacts & Legends].}
+{s:BookComment|Recueil VF qui comprend Ultimate Equipement et le supplément Pathfinder Univers : [Artifacts & Legends](http://www.pathfinder-fr.org/wiki/Golarion.Publications.ashx#ARTIFACTSLEGENDS).}
 {s:BookTitle|NPCCODEX|Pathfinder Roleplaying Game: NPC Codex/Manuel des PNJ}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO1124_180.jpeg|http://paizo.com/products/btpy8sdq?Pathfinder-Roleplaying-Game-NPC-Codex-Hardcover}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/316_Manuel_des_PNJ.jpg|https://www.black-book-editions.fr/produit.php?id=851}
@@ -164,7 +164,7 @@ Commentez ce livre sur le [forum](http://www.pathfinder-fr.org/Forum/default.asp
 {s:BookTitle|CONVERSIONGUIDE|Pathfinder Roleplaying Game Conversion Guide / Version Française (pas encore paru)}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO1110CONVERSIONE_180.jpeg|http://paizo.com/products/btpy89m6}
 <td></td>
-{s:BookComment|Un guide de conversion aidant les MJ qui désirent passer de la 3.5 à Pathfinder ou convertir des sorts, des classes, des classes de prestige, des monstres, des dons ou des aventures. Une traduction amateur de ce guide est disponible sur la page des [aides de jeu](./../Golarion/Aides de jeu.md).  
+{s:BookComment|Un guide de conversion aidant les MJ qui désirent passer de la 3.5 à Pathfinder ou convertir des sorts, des classes, des classes de prestige, des monstres, des dons ou des aventures. Une traduction amateur de ce guide est disponible sur la page des [[Aides de jeu]].  
   
 Commentez ce livre sur le [forum](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&m=14551&#post14551) !}
 {s:BookTitle|GMSCREEN|Pathfinder Roleplaying Game GM Screen / Ecran Pathfinder JDR}

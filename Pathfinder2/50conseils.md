@@ -4,9 +4,9 @@ Title: Une cinquantaine de conseils pour jouer à PF2
 LastModified: 2022-08-31 17:57
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 *La liste qui suit a été postée par u/no_di sur le Reddit de Pathfinder 2 à [cette adresse](https://www.reddit.com/r/Pathfinder2e/comments/t3iszz/50_tips_for_new_players/).*
 

@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [évocation](./Évocation.md) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [magus](./Magus.md) 2, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 2  
+**École** [[évocation]] <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[magus]] 2, [[ensorceleur]]/[[magicien]] 2  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui  
 
-**Restriction de cible** *[choisi](./Choisi.md)*
+**Restriction de cible** *[[choisi]]*
 
-Ce mot effet inflige 1d4 points de dégâts de force par [niveau de lanceur](./NLS.md) (maximum 5d4). Cet effet est semblable à un *[projectile magique](./Projectile magique.md)* pour tout ce qui relève des sorts qui annulent ou absorbent les effets de force.
+Ce mot effet inflige 1d4 points de dégâts de force par [[NLS|niveau de lanceur]] (maximum 5d4). Cet effet est semblable à un *[[projectile magique]]* pour tout ce qui relève des sorts qui annulent ou absorbent les effets de force.

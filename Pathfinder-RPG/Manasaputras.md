@@ -13,20 +13,20 @@ Categories:
 |- CLASS="titre"
 | Nom || &nbsp; || FP
 |- CLASS="premier"
-| [Manu](./Manu.md) || &nbsp; || 12
+| [[Manu]] || &nbsp; || 12
 |-
-| [Manu maharishi](./Manu maharishi.md) || &nbsp; || 16
+| [[Manu maharishi]] || &nbsp; || 16
 |-
-| [Manu rishi](./Manu rishi.md) || &nbsp; || 14
+| [[Manu rishi]] || &nbsp; || 14
 |-
-| [Pitri crépusculaire (Barhisad)](./Pitri crépusculaire.md) || &nbsp; || 18
+| [[Pitri crépusculaire|Pitri crépusculaire (Barhisad)]] || &nbsp; || 18
 |-
 | **Membres mythiques** || **FP** || **RMY**
 |- CLASS="premier"
-| [Pitri solaire (Agnishvatta)](./Pitri solaire.md) || 22 || 8
+| [[Pitri solaire|Pitri solaire (Agnishvatta)]] || 22 || 8
 |}
 </div></div><div class="description">**Source :** Bestiaire 5 p.221.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Bien](./sous-type Bien.md), [Loi](./sous-type Loi.md), [manasaputra](./sous-type Manasaputra.md)).*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Bien|Bien]], [[sous-type Loi|Loi]], [[sous-type manasaputra|manasaputra]]).*
 
 
 Pour la majorité des créatures, le chemin du perfectionnement de soi prend fin comme tout ce qu’entreprennent les mortels : avec la mort. Mais, pour quelques individus, cette voie aboutit à une renaissance flamboyante au coeur du plan de l’Énergie positive, là où les âmes de ceux qui ne sont pas encore nés fusionnent avec le potentiel de celles qui ont eu plusieurs vies d’apprentissage afin de former de nouvelles entités : les manasaputras. Ces extérieurs continuent de suivre la voie de la perfection et leur objectif de ne faire plus qu’un avec l’univers, persévérant pour continuer d’évoluer et de découvrir de nouvelles vérités cosmiques et guidant les mortels sur des voies similaires.

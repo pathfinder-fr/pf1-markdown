@@ -9,4 +9,4 @@ Categories:
 RedirectTo: monstre augure
 ---
 
->>> [monstre augure](./monstre Augure.md)
+>>> [[monstre augure]]

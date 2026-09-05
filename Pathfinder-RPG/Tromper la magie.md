@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:UI}*Vous pouvez tromper les objets magiques grâce à vos déguisements.*
 
-**Conditions.** [Fourberie](./Fourberie.md), 1 rang en [Déguisement](./Déguisement.md), 1 rang en [Utilisation d'objets magiques](./UOM.md)
+**Conditions.** [[Fourberie]], 1 rang en [[Déguisement]], 1 rang en [[UOM|Utilisation d'objets magiques]]
 
-**Avantages.** Lorsqu'il est déguisé en un membre d'une race spécifique ou en une personne d'un alignement particulier, le personnage peut utiliser son bonus en [Déguisement](./Déguisement.md) à la place de son bonus en [Utilisation d'objets magiques](./UOM.md) pour émuler cette race ou cet alignement afin d'activer un objet magique.
+**Avantages.** Lorsqu'il est déguisé en un membre d'une race spécifique ou en une personne d'un alignement particulier, le personnage peut utiliser son bonus en [[Déguisement]] à la place de son bonus en [[UOM|Utilisation d'objets magiques]] pour émuler cette race ou cet alignement afin d'activer un objet magique.

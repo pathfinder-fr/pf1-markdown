@@ -10,35 +10,35 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Érudit distant|FP 8}
-{s:BDTexte|*Source : [Manuel des PNJ p. 232](./Manuel des PNJ (Contenu).md)*}
+{s:BDTexte|*Source : [[Manuel des PNJ (contenu)|Manuel des PNJ p. 232]]*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Humain](./Humain.md) [barde](./Barde.md) 7/[chroniqueur](./Chroniqueur.md) 2}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md)) de taille M, N}
-{s:BDTexte|**Init** +6 ; **Sens** [Perception](./Perception.md) +13}
+{s:BDTexte|[[Humain]] [[Barde]] 7/[[Chroniqueur]] 2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]]) de taille M, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 14, pris au dépourvu 15 (armure +3, Dex +2, esquive +1, naturelle +1, parade +1)}
 {s:BDTexte|**pv** 61 (7d8+2d8+18)}
 {s:BDTexte|**Réf** +9, **Vig** +6, **Vol** +8 ; +4 contre les effets de représentation bardique, qui sont dépendant du langage et soniques}
-{s:BDTexte|**Capacités défensives** [survivre pour raconter](./Chroniqueur.md#SURVIVREPOURRACONTER) (1/jour)}
+{s:BDTexte|**Capacités défensives** [[Chroniqueur#SURVIVREPOURRACONTER|survivre pour raconter]] (1/jour)}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** dague de maître, +6/+1 (1d4–1/19–20)}
-{s:BDTexte|**Attaques spéciales** [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) 25 rounds/jour (action de mouvement ; [contre-chant](./Représentations.md#CONTRE-CHANT), [distraction](./Représentations.md#DISTRACTION), [fascination](./Représentations.md#FASCINATION), [inspiration talentueuse +3](./Représentations.md#INSPIRATIONTALENTUEUSE), [inspiration vaillante +2](./Représentations.md#INSPIRATIONVAILLANTE), [suggestion](./Représentations.md#SUGGESTION))}
-{s:BDTexte|**Sorts de barde connus**  ([NLS](./NLS.md) 7 ; [concentration](./concentration.md) +10)}
-{s:BDSorts|3e (2/jour) — *[bagou](./Bagou.md)*, *[scrutation](./scrutation.md)* (DD 16)}
-{s:BDSorts|2e (4/jour) — *[détection de pensées](./Détection de pensées.md)* (DD 15), *[flou](./Flou.md)*, *[hébétement de monstre](./Hébétement de monstre.md)* (DD 17), *[localisation d'objet](./Localisation dobjet.md)*}
-{s:BDSorts|1er (5/jour) — *[charme-personne](./Charme-personne.md)* (DD 16), *[compréhension des langages](./Compréhension des langages.md)*, *[détection des passages secrets](./Détection des passages secrets.md)*, *[image silencieuse](./Image silencieuse.md)* (DD 14), *[serviteur invisible](./Serviteur invisible.md)*}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[message](./Message.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*, *[repérage](./Repérage.md)*}
+{s:BDTexte|**Attaques spéciales** [[Barde#REPRESENTATIONBARDIQUE|représentation bardique]] 25 rounds/jour (action de mouvement ; [[Représentations#CONTRE-CHANT|contre-chant]], [[Représentations#DISTRACTION|distraction]], [[Représentations#FASCINATION|fascination]], [[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse +3]], [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante +2]], [[Représentations#SUGGESTION|suggestion]])}
+{s:BDTexte|**Sorts de barde connus**  ([[NLS]] 7 ; [[concentration]] +10)}
+{s:BDSorts|3e (2/jour) — *[[bagou]]*, *[[scrutation]]* (DD 16)}
+{s:BDSorts|2e (4/jour) — *[[détection de pensées]]* (DD 15), *[[flou]]*, *[[hébétement de monstre]]* (DD 17), *[[localisation dobjet|localisation d'objet]]*}
+{s:BDSorts|1er (5/jour) — *[[charme-personne]]* (DD 16), *[[compréhension des langages]]*, *[[détection des passages secrets]]*, *[[image silencieuse]]* (DD 14), *[[serviteur invisible]]*}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[lumières dansantes]]*, *[[manipulation à distance]]*, *[[message]]*, *[[ouverturefermeture|ouverture/fermeture]]*, *[[repérage]]*}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Pendant le combat** Le chroniquer lance *flou*, puis le sort *rapidité* inscrit sur son parchemin. Il préfère rester en dehors de la mêlée et utilise ses représentations bardiques pour soutenir ses alliés. Il lance *hébétement de monstre* ou *charme-personne* sur les ennemis qui approchent de trop près. S’il est menacé, il s’éloigne, boit sa *potion d’invisibilité* et prend la fuite.}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 8, **Dex** 14, **Con** 14, **Int** 12, **Sag** 12, **Cha** 16}
 {s:BDTexte|**BBA** +6 ; **BMO** +5 ; **DMD** 19}
-{s:BDTexte|**Dons** [École renforcée](./École renforcée.md) (enchantement), [École supérieure](./École supérieure.md) (enchantement), [Esquive](./Esquive.md), [Représentation supplémentaire](./Représentation supplémentaire.md), [Science de l'initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +12 (+14 pour identifier les propriétés des objets magiques), [Connaissances](./Connaissances.md) (folklore local, mystères, noblesse, religion) +17, [Connaissances](./Connaissances.md) (histoire) +13, [Discrétion](./Discrétion.md) +12, [Linguistique](./Linguistique.md) +7, [Perception](./Perception.md) +13, [Profession](./Profession.md) (scribe) +9, [Représentation](./Représentation.md) (déclamation) +15, [Représentation](./Représentation.md) (instruments à clavier) +7}
+{s:BDTexte|**Dons** [[École renforcée]] (enchantement), [[École supérieure]] (enchantement), [[Esquive]], [[Représentation supplémentaire]], [[Science de linitiative|Science de l'initiative]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +12 (+14 pour identifier les propriétés des objets magiques), [[Connaissances]] (folklore local, mystères, noblesse, religion) +17, [[Connaissances]] (histoire) +13, [[Discrétion]] +12, [[Linguistique]] +7, [[Perception]] +13, [[Profession]] (scribe) +9, [[Représentation]] (déclamation) +15, [[Représentation]] (instruments à clavier) +7}
 {s:BDTexte|**Langues** céleste, commun, draconien, nain}
-{s:BDTexte|**Particularités** [découverte des sentiers](./Chroniqueur.md#DECOUVERTEDESSENTIERS), magie elfique, [maître du savoir 1/jour](./Barde.md#MAITREDUSAVOIR), [maître scribe](./Chroniqueur.md#MAITRESCRIBE), [savoir bardique +4](./Barde.md#SAVOIRBARDIQUE), [versatilité artistique](./Barde.md#VERSATILITEARTISTIQUE) (déclamation, instruments à clavier), [poches profondes](./Chroniqueur.md#POCHESPROFONDES) (200 po)}
-{s:BDTexte|**Équipement de combat** *[baguette](./Baguettes magiques.md) de [soins légers](./Soins légers.md)* (20 charges), *[parchemin](./Parchemins magiques.md) d'[abri](./sort Abri.md)*, *[parchemin](./Parchemins magiques.md) de [communication avec les animaux](./Communication avec les animaux.md)*, *[parchemin](./Parchemins magiques.md) de [déguisement](./sort Déguisement.md)*, *[parchemin](./Parchemins magiques.md) de [détection de l'invisibilité](./Détection de linvisibilité.md)*, *[parchemin](./Parchemins magiques.md) de [rapidité](./Rapidité.md)*, *[parchemin](./Parchemins magiques.md) de [soins importants](./Soins importants.md)*, *[parchemin](./Parchemins magiques.md) d'[identification](./Identification.md)*, *[potion](./Potions magiques.md) d'[invisibilité](./Invisibilité.md)* ; **Équipement divers** *[armure de cuir](./armure de cuir (armure).md) +1*, [dague](./dague (arme).md) [de maître](./arme de maître.md), *[amulette d'armure naturelle +1](./Amulette darmure naturelle.md)*, *[anneau de protection +1](./Anneau de protection.md)*, *[cape de résistance +1](./Cape de résistance.md)*, miroir en argent (valant 1 000 po), 63 po}
+{s:BDTexte|**Particularités** [[Chroniqueur#DECOUVERTEDESSENTIERS|découverte des sentiers]], magie elfique, [[Barde#MAITREDUSAVOIR|maître du savoir 1/jour]], [[Chroniqueur#MAITRESCRIBE|maître scribe]], [[Barde#SAVOIRBARDIQUE|savoir bardique +4]], [[Barde#VERSATILITEARTISTIQUE|versatilité artistique]] (déclamation, instruments à clavier), [[Chroniqueur#POCHESPROFONDES|poches profondes]] (200 po)}
+{s:BDTexte|**Équipement de combat** *[[Baguettes magiques|baguette]] de [[soins légers]]* (20 charges), *[[Parchemins magiques|parchemin]] d'[[sort Abri|abri]]*, *[[Parchemins magiques|parchemin]] de [[communication avec les animaux]]*, *[[Parchemins magiques|parchemin]] de [[sort Déguisement|déguisement]]*, *[[Parchemins magiques|parchemin]] de [[détection de linvisibilité|détection de l'invisibilité]]*, *[[Parchemins magiques|parchemin]] de [[rapidité]]*, *[[Parchemins magiques|parchemin]] de [[soins importants]]*, *[[Parchemins magiques|parchemin]] d'[[identification]]*, *[[Potions magiques|potion]] d'[[invisibilité]]* ; **Équipement divers** *[[armure de cuir (armure)|armure de cuir]] +1*, [[dague (arme)|dague]] [[arme de maître|de maître]], *[[amulette darmure naturelle|amulette d'armure naturelle +1]]*, *[[anneau de protection|anneau de protection +1]]*, *[[cape de résistance|cape de résistance +1]]*, miroir en argent (valant 1 000 po), 63 po}
 </div>
 </td><td><div>Souvent plongés dans leurs pensées, ces érudits oublient parfois qu’ils ne sont pas seuls. Ils agissent souvent en solitaire mais doivent également partir en exploration pour dénicher des informations intéressantes ou payer des aventuriers pour qu’ils leur racontent leurs histoires.
 

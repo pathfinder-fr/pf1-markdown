@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Plante|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.194}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Plante](./type Plante.md) de taille M, NM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 c) , [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Plante|Plante]] de taille M, NM}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 c) , [[odorat]], [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 10, pris au dépourvu 16 (naturelle +6)}
 {s:BDTexte|**pv** 37 (5d8+15)}
 {s:BDTexte|**Réf** +1, **Vig** +7, **Vol** +4}
-{s:BDTexte|**RD** 5/tranchant ; **Immunité** [traits des plantes](./Traits des plantes.md) ; **Résistance** feu 10, froid 10, son 10}
+{s:BDTexte|**RD** 5/tranchant ; **Immunité** [[traits des plantes]] ; **Résistance** feu 10, froid 10, son 10}
 {s:BDTexte|**Faiblesse** vulnérabilité à l’électricité}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 c)}
@@ -32,31 +32,31 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 11, **Con** 16, **Int** 9, **Sag** 12, **Cha** 10}
 {s:BDTexte|**BBA** +4, **BMO** +6, **DMD** 16}
-{s:BDTexte|**Dons** [Volonté de fer](./Volonté de fer.md) , [Talent](./Talent.md) ([Discrétion](./Discrétion.md)) , [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences**  [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +6 ; [Psychologie](./Psychologie.md) +5, [Survie](./Survie.md) +5}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Psychologie](./Psychologie.md) , +4 en [Survie](./Survie.md)}
+{s:BDTexte|**Dons** [[Volonté de fer]] , [[Talent]] ([[Discrétion]]) , [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences**  [[Discrétion]] +9, [[Perception]] +6 ; [[Psychologie]] +5, [[Survie]] +5}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Psychologie]] , +4 en [[Survie]]}
 {s:BDTexte|**Langues** : commun des profondeurs ; télépathie à 18 m (mycéloïdes et malades de la vérole pourpre uniquement)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrains}
 {s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-24) ou colonie (25-250)}
 {s:BDTexte|**Trésor** Standard}
 {s:BDSousTitre|pouvoirs spéciaux}
-{s:BDTexte|**Domination de spores (Mag).** Ce pouvoir magique fonctionne comme *[charme-monstre](./Charme-monstre.md)*, à la seule différence qu’il ne s’applique qu’aux créatures infectées par la vérole pourpre.}
-{s:BDTexte|**Vérole pourpre ** : inhalation ou blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 15 ; *incubation* 1 minute ;
-*fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d2 Sag et de 1d2 Con ; *guérison* 2 réussites consécutives. Une créature qui meurt de la vérole pourpre enfle en l’espace de 24 heures, après quoi son corps éclate, libérant un mycéloïde à maturité. En outre, à partir du moment où la créature subit un affaiblissement temporaire
+{s:BDTexte|**Domination de spores (Mag).** Ce pouvoir magique fonctionne comme *[[charme-monstre]]*, à la seule différence qu’il ne s’applique qu’aux créatures infectées par la vérole pourpre.}
+{s:BDTexte|**Vérole pourpre ** : inhalation ou blessure ; *JdS* [[Vigueur]] [[DD]] 15 ; *incubation* 1 minute ;
+*fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] de 1d2 Sag et de 1d2 Con ; *guérison* 2 réussites consécutives. Une créature qui meurt de la vérole pourpre enfle en l’espace de 24 heures, après quoi son corps éclate, libérant un mycéloïde à maturité. En outre, à partir du moment où la créature subit un affaiblissement temporaire
 d’au moins 7 points de Sagesse à cause de la vérole pourpre,
-elle doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 15 chaque jour pour
+elle doit réussir un jet de [[Volonté]] [[DD]] 15 chaque jour pour
 éviter d’être affectée par les effets d’un sort de mission (aucune
-limite de [DV](./../Ressources/DV.md)) qui oblige le malade à rechercher la colonie de
+limite de [[DV]]) qui oblige le malade à rechercher la colonie de
 mycéloïdes la plus proche afin de se soumettre de lui-même à la
-domination de spores. Le [DD](./DD.md) du jet de sauvegarde est basé sur
-la [Constitution](./Constitution.md).}
-{s:BDTexte|**Nuage de spores (Ext).** Une fois par jour, par une [action simple](./Action simple.md),
+domination de spores. Le [[DD]] du jet de sauvegarde est basé sur
+la [[Constitution]].}
+{s:BDTexte|**Nuage de spores (Ext).** Une fois par jour, par une [[action simple]],
 le mycéloïde peut libérer un nuage de spores de 3 mètres de
-[rayon](./rayon.md) centré sur lui. Ce nuage dure 1d3 [round](./round.md)s. Toutes les
+[[rayon]] centré sur lui. Ce nuage dure 1d3 [[round]]s. Toutes les
 créatures prises dans ce nuage ou le traversant sont exposées
 à la vérole pourpre du mycéloïde : il leur suffit de réussir un
-seul [jet de sauvegarde](./jet de sauvegarde.md) contre le nuage de spores pour être
+seul [[jet de sauvegarde]] contre le nuage de spores pour être
 complètement immunisées contre les effets de ce nuage
 particulier. Le nuage de spores ne gêne pas la vision.}
 </div>

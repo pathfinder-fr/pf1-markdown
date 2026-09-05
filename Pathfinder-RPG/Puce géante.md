@@ -10,7 +10,7 @@ LastModified: 2020-09-21 17:41
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 218*}
 - **200 PX**
-- [Vermine](./type Vermine.md) de taille P, N
+- [[type vermine|Vermine]] de taille P, N
 - **Init **+2 ; **Sens** vision dans le noir à 18 m ; Perception +0
 (((Défense)))
 - **CA** 13, contact 13, pris au dépourvu 11 (Dex +2, taille +1)
@@ -24,7 +24,7 @@ LastModified: 2020-09-21 17:41
 (((Statistiques)))
 - **For** 12, **Dex** 15, **Con** 13, **Int **—, **Sag** 11, **Cha** 6
 - **BBA **+0 ; **BMO **+0 ; **DMD** 12
-- **Compétences** [Acrobaties](./Acrobaties.md) +0 (+20 pour sauter)
+- **Compétences** [[Acrobaties]] +0 (+20 pour sauter)
 - **Modificateurs** raciaux +20 en Acrobaties pour sauter
 - **Particularités** saut extraordinaire
 (((Écologie)))
@@ -42,9 +42,9 @@ LastModified: 2020-09-21 17:41
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Puce cyclopéenne](./Puce cyclopéenne.md) || 2
+| [[Puce cyclopéenne]] || 2
 |-
-| [Puce géante](./Puce géante.md) || 1/2
+| [[Puce géante]] || 1/2
 |}
 </div>*Une puce hideuse de la taille d’un chien bondit sur ses longues pattes dégingandées. Avide de sang, elle fait claquer ses mandibules crantées.*
 

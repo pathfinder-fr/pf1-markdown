@@ -11,15 +11,15 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:regional|Taldor|Taldor|taldoriens}{s:MR}{s:UI}**École** [Divination](./école divination.md) ; **Niveau**  [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Prê](./Prêtre.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M/FD](./composantes.md) (un document écrit dans la langue de la culture à imiter)
+{s:regional|Taldor|Taldor|taldoriens}{s:MR}{s:UI}**École** [[école divination|Divination]] ; **Niveau**  [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Prêtre|Prê]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M/FD]] (un document écrit dans la langue de la culture à imiter)
 **Portée** personnelle
 **Cible** le lanceur de sort
 **Durée** 10 minutes/niveau
 
-*Lors de l’apogée expansionniste de l’[Empire décadent](./../Golarion/Taldor.md), les magiciens de ce pays développèrent ce sort dans l’espoir qu’il permettrait de pacifier leurs conquêtes « non-civilisées » plus facilement. Si ce sort est passé de mode pour les habitants de cet empire, il est largement utilisé par les autres, notamment les bardes et les Explorateurs.*
+*Lors de l’apogée expansionniste de l’[[Golarion.Taldor|Empire décadent]], les magiciens de ce pays développèrent ce sort dans l’espoir qu’il permettrait de pacifier leurs conquêtes « non-civilisées » plus facilement. Si ce sort est passé de mode pour les habitants de cet empire, il est largement utilisé par les autres, notamment les bardes et les Explorateurs.*
 
-Lorsqu’il lance ce sort, le personnage doit se concentrer sur la culture à laquelle il souhaite s’adapter. S’il parle la langue natale de la culture en question, alors pendant toute la durée du sort il la parlera avec un accent parfait. Le sort ne permet pas d’apprendre la langue, mais peut être combiné avec *[don des langues](./Don des langues.md)* ou un sort similaire. Le langage corporel et la gestuelle du lanceur le font apparaître comme un natif de la culture et il prend inconsciemment de petites décisions qui l’aident à s’intégrer. Ces nouveaux traits combinés lui confèrent un bonus de circonstances de +2 à ses tests de [Diplomatie](./Diplomatie.md) pour influencer les membres de la culture à laquelle il s’est adapté, qui ne se cumule pas avec tout autre bonus dû au fait d'être un membre de la culture choisie. Il gagne également un bonus de circonstances de +2 à ses tests de [Déguisement](./Déguisement.md) destinés à le faire passer pour un membre de ce peuple.
+Lorsqu’il lance ce sort, le personnage doit se concentrer sur la culture à laquelle il souhaite s’adapter. S’il parle la langue natale de la culture en question, alors pendant toute la durée du sort il la parlera avec un accent parfait. Le sort ne permet pas d’apprendre la langue, mais peut être combiné avec *[[don des langues]]* ou un sort similaire. Le langage corporel et la gestuelle du lanceur le font apparaître comme un natif de la culture et il prend inconsciemment de petites décisions qui l’aident à s’intégrer. Ces nouveaux traits combinés lui confèrent un bonus de circonstances de +2 à ses tests de [[Diplomatie]] pour influencer les membres de la culture à laquelle il s’est adapté, qui ne se cumule pas avec tout autre bonus dû au fait d'être un membre de la culture choisie. Il gagne également un bonus de circonstances de +2 à ses tests de [[Déguisement]] destinés à le faire passer pour un membre de ce peuple.
 
-Cela n'offre aucun avantage lorsque le personnage se déguise en un individu spécifique membre de cette culture, mais peut annuler des malus imposés par une méconnaissance des usages de sa culture. En outre, le [DD](./DD.md) des sorts d’[Enchantement](./Enchantement.md) ([charme](./branche charme.md)) qu’il lance contre les natifs de la culture avec laquelle il s’est harmonisé augmente de +1.
+Cela n'offre aucun avantage lorsque le personnage se déguise en un individu spécifique membre de cette culture, mais peut annuler des malus imposés par une méconnaissance des usages de sa culture. En outre, le [[DD]] des sorts d’[[Enchantement]] ([[branche charme|charme]]) qu’il lance contre les natifs de la culture avec laquelle il s’est harmonisé augmente de +1.

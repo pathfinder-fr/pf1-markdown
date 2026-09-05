@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#BROUILLERLESPISTES
 ---
 
->>> [Talents#BROUILLERLESPISTES](./Talents.md#BROUILLERLESPISTES)
+>>> [[Talents#BROUILLERLESPISTES]]

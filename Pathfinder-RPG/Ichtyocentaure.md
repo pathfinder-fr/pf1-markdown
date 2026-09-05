@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Ichtyocentaure|FP 5}
 {s:pucem|Humanoïde monstrueux|Aquatique|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.154](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.154]]*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille G, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 13, pris au dépourvu 15 (Dex +3, esquive +1, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 59 (7d10+21)}
@@ -24,20 +24,20 @@ Categories:
 {s:BDTexte|**Corps à corps** harpon de maître, +12/+7 (1d8+6/×3) et 2 sabots, +5 (1d6+2)}
 {s:BDTexte|**Distance** harpon de maître, +11 (1d8+4/×3) ou javeline, +9/+4 (1d6+4)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,5 m.}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond (capacité).md)}
+{s:BDTexte|**Attaques spéciales** [[Bond (capacité)|bond]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 17, **Con** 16, **Int** 13, **Sag** 16, **Cha** 15}
 {s:BDTexte|**BBA** +7 ; **BMO** +12 ; **DMD** 26}
-{s:BDTexte|**Dons** [Arme en main](./Arme en main.md), [Arme de prédilection](./Arme de prédilection.md) (harpon), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (nature) +6, [Diplomatie](./Diplomatie.md) +7, [Intimidation](./Intimidation.md) +10, [Natation](./Natation.md) +20, [Perception](./Perception.md) +11, [Représentation](./Représentation.md) (instruments à vent) +7, [Survie](./Survie.md) +11}
+{s:BDTexte|**Dons** [[Arme en main]], [[Arme de prédilection]] (harpon), [[Esquive]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (nature) +6, [[Diplomatie]] +7, [[Intimidation]] +10, [[Natation]] +20, [[Perception]] +11, [[Représentation]] (instruments à vent) +7, [[Survie]] +11}
 {s:BDTexte|**Langues** aquatique, commun, sylvestre}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie (capacité).md), [armes de taille inférieure](./Armes de taille inférieure (capacité).md)}
+{s:BDTexte|**Particularités** [[Amphibie (capacité)|amphibie]], [[Armes de taille inférieure (capacité)|armes de taille inférieure]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans ou côtes, tempérés}
-{s:BDTexte|**Organisation** solitaire, paire, groupe (3-6), ou bancs (7-20 plus 3 [chasseurs](./Chasseur.md) de niveau 2 et 1 mentor lanceur de sorts de niveau 7)}
-{s:BDTexte|**Trésor** standard ([harpon](./harpon (arme).md) [de maître](./arme de maître.md), 6 [javelines](./javeline (arme).md), autre trésor)}
+{s:BDTexte|**Organisation** solitaire, paire, groupe (3-6), ou bancs (7-20 plus 3 [[chasseur|chasseurs]] de niveau 2 et 1 mentor lanceur de sorts de niveau 7)}
+{s:BDTexte|**Trésor** standard ([[harpon (arme)|harpon]] [[arme de maître|de maître]], 6 [[javeline (arme)|javelines]], autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Bond (Ext).** Un ichtyocentaure ne peut utiliser sa capacité de [bond](./Bond (capacité).md) que quand il nage.}
+{s:BDTexte|**Bond (Ext).** Un ichtyocentaure ne peut utiliser sa capacité de [[Bond (capacité)|bond]] que quand il nage.}
 
 </div></td>
 <td><div>*Cette créature possède un torse humain athlétique juché sur un tronc de cheval avec les deux pattes antérieures de l’animal, qui se termine lui-même par une queue de poisson.*

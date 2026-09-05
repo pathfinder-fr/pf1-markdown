@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Solvant universel|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 50 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 50 po ; **Poids** —
 (((Description)))
-Cette substance a la propriété unique d’être capable de dissoudre de la colle universelle, des sacoches immobilisantes et toutes les autres substances adhésives. Appliquer le solvant est une [action simple](./Action simple.md).
+Cette substance a la propriété unique d’être capable de dissoudre de la colle universelle, des sacoches immobilisantes et toutes les autres substances adhésives. Appliquer le solvant est une [[action simple]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[flèche acide](./Flèche acide.md)* ; **Coût** 25 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[flèche acide]]* ; **Coût** 25 po
 </div>

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Aquatique
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Aquatique](./Descriptions individuelles des propriétés spéciales des armes.md#Aquatique)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Aquatique]]

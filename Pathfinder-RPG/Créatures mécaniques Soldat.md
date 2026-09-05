@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Soldat mécanique
 ---
 
->>> [Soldat mécanique](./Soldat mécanique.md)
+>>> [[Soldat mécanique]]

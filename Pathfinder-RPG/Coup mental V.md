@@ -8,41 +8,41 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École** [Divination](./école divination.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Psy](./Psychiste.md) 5
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [G](./composantes.md)
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)
+{s:AO}** École** [[école divination|Divination]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 5
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|G]]
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)
 **Cible** 1 créature
 **Durée** instantanée
-**Jet de sauvegarde** [Volonté](./Volonté.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[coup mental IV](./Coup mental IV.md)* mais la cible est aussi [épuisée](./États préjudiciables.md#Épuisé) pendant 1 round si elle rate son jet de sauvegarde et [fatiguée](./États préjudiciables.md#Fatigué) pendant 1 round si elle le réussit. On peut lancer ce sort dans une version réduite.
+Ce sort fonctionne comme *[[coup mental IV]]* mais la cible est aussi [[États préjudiciables#Épuisé|épuisée]] pendant 1 round si elle rate son jet de sauvegarde et [[États préjudiciables#Fatigué|fatiguée]] pendant 1 round si elle le réussit. On peut lancer ce sort dans une version réduite.
 
 
 
 (((
 ## Coup mental IV
-{s:AO}** École** [Divination](./école divination.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Psy](./Psychiste.md) 4
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [G](./composantes.md)
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)
+{s:AO}** École** [[école divination|Divination]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 4
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|G]]
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)
 **Cible** 1 créature
 **Durée** instantanée
-**Jet de sauvegarde** [Volonté](./Volonté.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[coup mental I](./Coup mental I.md)* mais la cible reçoit 1d8 points de dégâts par [niveau de lanceur de sorts](./NLS.md) (15d8 au maximum) et se trouve [fatiguée](./États préjudiciables.md#Fatigué) pendant 1 round si elle rate son jet de sauvegarde. On peut lancer ce sort dans une version réduite.
+Ce sort fonctionne comme *[[coup mental I]]* mais la cible reçoit 1d8 points de dégâts par [[NLS|niveau de lanceur de sorts]] (15d8 au maximum) et se trouve [[États préjudiciables#Fatigué|fatiguée]] pendant 1 round si elle rate son jet de sauvegarde. On peut lancer ce sort dans une version réduite.
 
 
 
 (((
 ## Coup mental I
-{s:AO}** École **[Divination](./école divination.md) <nowiki>[</nowiki>[effet mental](./effet mental.md)<nowiki>]</nowiki> ; **Niveau** [Psy](./Psychiste.md) 1
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [G](./composantes.md)
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)
+{s:AO}** École **[[école divination|Divination]] <nowiki>[</nowiki>[[effet mental]]<nowiki>]</nowiki> ; **Niveau** [[psychiste|Psy]] 1
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|G]]
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)
 **Cible** 1 créature
 **Durée** instantanée
-**Jet de sauvegarde** [Volonté](./Volonté.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 ---
-Le personnage repère les portions les plus vulnérables de l’esprit de sa cible et les surcharge d’informations psychiques. Cette attaque inflige 1d6 points de dégâts par [niveau de lanceur de sorts](./NLS.md) (5d6 au maximum). La cible a droit à un jet de [Volonté](./Volonté.md) pour réduire les dégâts de moitié. Cette attaque n’a aucun effet sur les créatures dépourvues de valeur d’[Intelligence](./Intelligence.md).
+Le personnage repère les portions les plus vulnérables de l’esprit de sa cible et les surcharge d’informations psychiques. Cette attaque inflige 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] (5d6 au maximum). La cible a droit à un jet de [[Volonté]] pour réduire les dégâts de moitié. Cette attaque n’a aucun effet sur les créatures dépourvues de valeur d’[[Intelligence]].
 ))))))

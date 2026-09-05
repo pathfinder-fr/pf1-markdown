@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 3-10 po ; **Poids** 50–150 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Les cochons domestiques descendent des sangliers et sont élevés pour leur viande et leur peau puisqu’ils font partie des animaux de ferme les plus répandus et les plus polyvalents. Voir les statistiques du [cochon](./Cochon.md).
+Les cochons domestiques descendent des sangliers et sont élevés pour leur viande et leur peau puisqu’ils font partie des animaux de ferme les plus répandus et les plus polyvalents. Voir les statistiques du [[cochon]].

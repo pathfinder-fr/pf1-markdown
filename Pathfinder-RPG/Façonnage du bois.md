@@ -11,18 +11,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Cham](./Chaman.md) 2, [Dru](./Druide.md) 2, [Occ](./Occultiste.md) 2  
+**École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Occultiste|Occ]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
-**Cible** morceau de bois touché, dans la limite de 0,3 m³ + 30 dm³/[niveau](./niveau.md)  
+**Cible** morceau de bois touché, dans la limite de 0,3 m³ + 30 dm³/[[niveau]]  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
-Grâce à ce sort, le personnage peut façonner du bois pour lui faire prendre la forme qu’il désire. Il peut ainsi créer des boîtes grossières, des portes et d’autres objets similaires mais il lui est impossible de créer des détails précis. Si l’objet comporte des [composantes](./composantes.md) mobiles, il y a 30 % de chances pour qu’il ne fonctionne pas.
+Grâce à ce sort, le personnage peut façonner du bois pour lui faire prendre la forme qu’il désire. Il peut ainsi créer des boîtes grossières, des portes et d’autres objets similaires mais il lui est impossible de créer des détails précis. Si l’objet comporte des [[composantes]] mobiles, il y a 30 % de chances pour qu’il ne fonctionne pas.

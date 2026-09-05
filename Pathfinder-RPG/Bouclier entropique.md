@@ -10,19 +10,19 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1  
+**École** [[Abjuration]] ; **Niveau** [[prêtre|Prê]] 1, [[psychiste|Psy]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 
-Un champ d’énergie magique et multicolore se forme autour du [prêtre](./Prêtre.md) détournant projectiles, rayons et autres attaques à distance. Chaque attaque à distance prenant le personnage pour cible a alors 20 % de chances de le rater (comme si le personnage bénéficiait d’un [camouflage](./camouflage.md)).Le sort reste sans effet contre les autres attaques à distance.
+Un champ d’énergie magique et multicolore se forme autour du [[prêtre]] détournant projectiles, rayons et autres attaques à distance. Chaque attaque à distance prenant le personnage pour cible a alors 20 % de chances de le rater (comme si le personnage bénéficiait d’un [[camouflage]]).Le sort reste sans effet contre les autres attaques à distance.
 
 ### Mythique
 {s:CMy}

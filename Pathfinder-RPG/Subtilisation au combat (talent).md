@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#SUBTILISATIONAUCOMBAT
 ---
 
->>> [Talents#SUBTILISATIONAUCOMBAT](./Talents.md#SUBTILISATIONAUCOMBAT)
+>>> [[Talents#SUBTILISATIONAUCOMBAT]]

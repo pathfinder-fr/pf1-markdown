@@ -7,12 +7,12 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Épée maudite -2|{s:AE}}
-**Aura** [Évocation](./Évocation.md) puissante ; **NLS** 15 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Poids** 2 kg
+**Aura** [[Évocation]] puissante ; **NLS** 15 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Poids** 2 kg
 (((Description)))
-À l’entraînement, cette épée longue se comporte très bien mais dans un véritable combat, elle impose un malus de –2 aux [jets d’attaque](./jet dattaque.md).
+À l’entraînement, cette épée longue se comporte très bien mais dans un véritable combat, elle impose un malus de –2 aux [[jet dattaque|jets d’attaque]].
 Tous les dégâts infligés sont aussi réduits de 2 points mais ne descendent jamais en dessous de 1 point en cas d’attaque réussie. L’épée oblige toujours son propriétaire à l’utiliser à la place des autres armes. C’est toujours elle qu’il tire du fourreau et qu’il utilise, même quand il a l’intention d’en prendre une autre.
 (((Objet magique prévu)))
-[épée longue](./épée longue (arme).md) +2, autre [arme magique](./Armes magiques.md)
+[[épée longue (arme)|épée longue]] +2, autre [[armes magiques|arme magique]]
 </div>

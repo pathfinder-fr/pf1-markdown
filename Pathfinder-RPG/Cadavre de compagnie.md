@@ -9,6 +9,6 @@ Categories:
 
 {s:cm}*Le personnage a un compagnon animal mort-vivant.*
 
-**Conditions.** Pouvoir de classe [compagnon animal](./Chasseur.md#COMPAGNONANIMAL), [goule](./Goule.md)
+**Conditions.** Pouvoir de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]], [[goule]]
 
-**Avantages.** Le type du compagnon animal du personnage devient [mort-vivant](./type Mort-vivant.md), mais cela ne modifie pas ses [dés de vie](./../Ressources/DV.md), son [BBA](./BBA.md), ses [jets de sauvegarde](./JDS.md), ses compétences ni ses tours. Le compagnon perd sa valeur de [Constitution](./Constitution.md) et gagne une valeur de [Charisme](./Charisme.md) de 12. Si le compagnon est détruit, le nouveau est aussi un mort-vivant doté des mêmes modifications.
+**Avantages.** Le type du compagnon animal du personnage devient [[type Mort-vivant|mort-vivant]], mais cela ne modifie pas ses [[DV|dés de vie]], son [[BBA]], ses [[jds|jets de sauvegarde]], ses compétences ni ses tours. Le compagnon perd sa valeur de [[Constitution]] et gagne une valeur de [[Charisme]] de 12. Si le compagnon est détruit, le nouveau est aussi un mort-vivant doté des mêmes modifications.

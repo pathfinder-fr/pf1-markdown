@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage peut facilement décocher deux tirs tout en se déplaçant rapidement sur le champ de bataille.*
 
-**Condition.** [Tir en mouvement](./Tir en mouvement.md), [BBA](./BBA.md) +6
+**Condition.** [[Tir en mouvement]], [[BBA]] +6
 
-**Avantage.** Lorsqu’il utilise [Tir en mouvement](./Tir en mouvement.md), le personnage peut effectuer deux attaques à distance au lieu d’une seule, à n’importe quel moment lors de son déplacement, en appliquant son bonus de base à l’attaque ([BBA](./BBA.md)) le plus élevé.
+**Avantage.** Lorsqu’il utilise [[Tir en mouvement]], le personnage peut effectuer deux attaques à distance au lieu d’une seule, à n’importe quel moment lors de son déplacement, en appliquant son bonus de base à l’attaque ([[BBA]]) le plus élevé.

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Conductrice
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Conductrice](./Descriptions individuelles des propriétés spéciales des armes.md#Conductrice)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Conductrice]]

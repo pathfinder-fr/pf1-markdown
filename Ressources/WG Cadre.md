@@ -6,7 +6,7 @@ Categories:
 - Weekly Grind
 ---
 
-<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=191102987600298) publiée avec l'autorisation de l'auteur — [retour à l'index](./Weekly Grind.md)</p>
+<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=191102987600298) publiée avec l'autorisation de l'auteur — [[Weekly Grind|retour à l'index]]</p>
 ### Le donjon du Prince gémissant
 
 *Quelque chose de pourri se prépare au sein de ces salles anciennes. Quelque chose de pire qu'une bête affamée, de pire qu'une bande de brigands. Une corruption purulente couve dans les ténèbres de ce lieu maudit, un fléau qui pourrait bien tout réduire à néant.*
@@ -53,4 +53,4 @@ Il faut à peu près deux heures pour atteindre les ruines du château Amaloss s
 
 La route continue au-delà des ruines mais la plupart des voyageurs évitent de trop s'attarder à cet endroit. La plupart des gens disent que l'endroit est hanté mais, en réalité, c'est juste un sinistre souvenir d'une époque sombre pour la ville, un souvenir que beaucoup préféreraient oublier complètement.
 
-Lorsque les PJ arrivent aux ruines, elles sont désertes. Cependant, on peut y trouver des traces de passage récent. Un test de Survie de DD 15 permet de voir qu'un certain nombre de créatures humanoïdes portant des bottes sont passées par ce lieu au cours des dernières 24 heures (bien après la disparition du privé Redhammer). Les traces mènent vers le centre des ruines, où elles semblent s'arrêter abruptement devant un mur de pierre relativement intact. Toute personne tâtant le mur découvre rapidement qu'une partie de celui-ci est une illusion (un sort de détection de la magie révèle également ce fait). Derrière l'illusion se trouve un petit palier en face d'anciens escaliers usés. Ces marches mènent plus bas vers la [Salle 1](./WG Salle 1.md) du donjon du Prince gémissant.
+Lorsque les PJ arrivent aux ruines, elles sont désertes. Cependant, on peut y trouver des traces de passage récent. Un test de Survie de DD 15 permet de voir qu'un certain nombre de créatures humanoïdes portant des bottes sont passées par ce lieu au cours des dernières 24 heures (bien après la disparition du privé Redhammer). Les traces mènent vers le centre des ruines, où elles semblent s'arrêter abruptement devant un mur de pierre relativement intact. Toute personne tâtant le mur découvre rapidement qu'une partie de celui-ci est une illusion (un sort de détection de la magie révèle également ce fait). Derrière l'illusion se trouve un petit palier en face d'anciens escaliers usés. Ces marches mènent plus bas vers la [[WG Salle 1|Salle 1]] du donjon du Prince gémissant.

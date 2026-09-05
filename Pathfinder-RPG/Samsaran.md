@@ -13,8 +13,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4* p.233}
 {s:BDTexte|**PX** 200}
 {s:BDTexte|Samsaran (m), oracle 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([samsaran](./sous-type samsaran.md)) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type samsaran|samsaran]]) de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA**  15, contact 12, pris au dépourvu 13 (armure +3, Dex +2)}
 {s:BDTexte|**pv** 11 (1d8+3)}
@@ -24,19 +24,19 @@ Categories:
 {s:BDTexte|**Corps à corps** lance, -1 (1d6-1)}
 {s:BDTexte|**Distance** fronde, +2 (1d4-1)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 1 ; concentration +3)}
-{s:BDSorts|(1/jour) — *[compréhension des langages](./Compréhension des langages.md)*, *[perception de la mort](./Perception de la mort.md)*, *[stabilisation](./Stabilisation.md)*}
+{s:BDSorts|(1/jour) — *[[compréhension des langages]]*, *[[perception de la mort]]*, *[[stabilisation]]*}
 {s:BDTexte|**Sorts d’oracle connus** (NLS 1 ; concentration +3)}
-{s:BDSorts|1<sup>er</sup> (4/jour) — *[injonction](./Injonction.md)* ([DD](./DD.md) 13), *[sanctuaire](./Sanctuaire.md)* ([DD](./DD.md) 13), *[soins légers](./Soins légers.md)*}
-{s:BDSorts|0 (à volonté) — *[assistance divine](./Assistance divine.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[lumière](./Lumière.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[résistance](./résistance.md)*, *[son imaginaire](./Son imaginaire.md)* ([DD](./DD.md) 12)}
-{s:BDTexte|**Mystère** [savoir](./Mystère du savoir.md)}
+{s:BDSorts|1<sup>er</sup> (4/jour) — *[[injonction]]* ([[DD]] 13), *[[sanctuaire]]* ([[DD]] 13), *[[soins légers]]*}
+{s:BDSorts|0 (à volonté) — *[[assistance divine]]*, *[[lecture de la magie]]*, *[[lumière]]*, *[[manipulation à distance]]*, *[[résistance]]*, *[[son imaginaire]]* ([[DD]] 12)}
+{s:BDTexte|**Mystère** [[Mystère du savoir|savoir]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 14, **Con** 11, **Int** 12, **Sag** 14, **Cha** 15}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 11}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +5, [Connaissances](./Connaissances.md) (religion) +5, [Diplomatie](./Diplomatie.md) +6, [Perception](./Perception.md) +8, [Premiers secours](./Premiers secours.md) +6, [Sabotage](./Sabotage.md) +6}
-{s:BDTexte|**Modificateurs raciaux** +2 en [Sabotage](./Sabotage.md), +2 en [Perception](./Perception.md).}
+{s:BDTexte|**Dons** [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +5, [[Connaissances]] (religion) +5, [[Diplomatie]] +6, [[Perception]] +8, [[Premiers secours]] +6, [[Sabotage]] +6}
+{s:BDTexte|**Modificateurs raciaux** +2 en [[Sabotage]], +2 en [[Perception]].}
 {s:BDTexte|**Langues** céleste, commun, draconique, samsaran}
-{s:BDTexte|**Particularités** lié à la vie, malédiction d’oracle (hanté), révélations (réfléchis), éclats du passé ([Sabotage](./Sabotage.md), [Perception](./Perception.md))}
+{s:BDTexte|**Particularités** lié à la vie, malédiction d’oracle (hanté), révélations (réfléchis), éclats du passé ([[Sabotage]], [[Perception]])}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire ou clan (3-12)}
@@ -68,11 +68,11 @@ Les samsarans ne possèdent pas de dés de vie raciaux et progressent en acquér
 - **–2 Constitution, +2 Sagesse, +2 Intelligence.** Les samsarans sont perspicaces et volontaires, mais leur corps est souvent frêle.
 - **Vision nocturne (Ext).** Les samsarans peuvent voir deux fois plus loin que les humains dans les zones faiblement éclairées.
 - **Lié à la vie (Ext).** Les samsarans bénéficient d’un bonus racial de +2 aux jets de sauvegarde contre les effets de morts, contre les effets d’énergie négative, aux tests pour annuler des niveaux négatifs et aux tests de Con effectués pour se stabiliser.
-- **Pouvoirs magiques (Mag).** Les samsarans qui possèdent une valeur de Charisme de 11 ou plus gagnent les pouvoirs magiques suivants : 1/jour – *[compréhension des langages](./Compréhension des langages.md)*, *[perception de la mort](./Perception de la mort.md)*, *[stabilisation](./Stabilisation.md)*. Le niveau de lanceur de sorts est égal au niveau de personnage du samsaran.
+- **Pouvoirs magiques (Mag).** Les samsarans qui possèdent une valeur de Charisme de 11 ou plus gagnent les pouvoirs magiques suivants : 1/jour – *[[compréhension des langages]]*, *[[perception de la mort]]*, *[[stabilisation]]*. Le niveau de lanceur de sorts est égal au niveau de personnage du samsaran.
 - **Éclats du passé (Ext).** Un samsaran gagne un bonus de +2 à deux compétences (au choix) qui deviennent des compétences de classe.
 - **Langues.** Les samsarans commencent le jeu en sachant parler le samsaran et le commun. Ceux qui ont une valeur d’Intelligence suffisamment élevée peuvent choisir des langues supplémentaires parmi la liste suivante : toutes les langues humaines, abyssal, aquatique, aérien, céleste, draconique, géant, igné, infernal, vishkanyan, tengu et terreux.
 
 *<u>Note :</u> Sur certaines versions V.O. et V.F. on remarque en comparant avec sa fiche du Manuel des Races qu'il manque deux langues parmi les langues supplémentaires au choix : le tengu et le vishkanyan.  Cela devrait avoir été corrigé depuis dans les dernières versions.*
 
-{s:VoirAussiAvant}La page de la race [Samsaran](./samsaran (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Samsaran (race)|Samsaran]]{s:VoirAussiAprès}
 </div></td></tr></table>

@@ -36,8 +36,8 @@ Les temples de Gorum ressemblent le plus souvent à de grandes citadelles et for
 L'église de Gorum clame qu'il n'existe aucun texte sacré, mais il existe un regroupement de sept poèmes appelé la saga de Gorum.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [cinquième volume](./../Aventures/Présentation AP6.md#AP6-5) de la sixième campagne, [Kingmaker](./../Aventures/Présentation AP6.md), contient un article sur ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP6#AP6-5|cinquième volume]] de la sixième campagne, [[Aventures.Présentation AP6|Kingmaker]], contient un article sur ce dieu.
 {s:VoirAussiAprès}

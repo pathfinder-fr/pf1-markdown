@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:MR}
-**École** [Abjuration](./Abjuration.md) ;
-**Niveau** [Dru](./Druide.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Abjuration]] ;
+**Niveau** [[Druide|Dru]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V,G](./composantes.md)  
+**Composantes** [[Composantes|V,G]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
+**Durée** 1 [[round]]/[[niveau]]
 
 Le lanceur de sorts respire la grâce surnaturelle des néréides.
-S’il ne porte pas d’[armure](./Tableau récapitulatif des armures.md), il gagne un [bonus de parade à la CA](./Valeurs de combat.md#BONUSPARADE) et au [DMD](./Manœuvres offensives.md#DMD) égal à son bonus de [Charisme](./Caractéristiques.md#CHARISME) (maximum+3). Le maximum augmente de 1 tous les 6 niveaux de lanceur de sorts (maximum +6 au niveau 18).
+S’il ne porte pas d’[[Tableau récapitulatif des armures|armure]], il gagne un [[Valeurs de combat#BONUSPARADE|bonus de parade à la CA]] et au [[Manœuvres offensives#DMD|DMD]] égal à son bonus de [[Caractéristiques#CHARISME|Charisme]] (maximum+3). Le maximum augmente de 1 tous les 6 niveaux de lanceur de sorts (maximum +6 au niveau 18).

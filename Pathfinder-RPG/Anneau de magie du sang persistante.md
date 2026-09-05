@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de magie du sang persistante|{s:mca}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 11 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 2 000 po ; **Poids** —
+**Aura** [[Transmutation]] modérée ; **NLS** 11 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 2 000 po ; **Poids** —
 (((Description)))
-Quand le personnage qui porte cet anneau est en [rage sanguine](./Sanguin.md#RAGESANGUINE), il peut dépenser 1 [round](./round.md) de rage sanguine pour étendre de 2 rounds la durée d’un sort bénéfique l’affectant. Il s’agit d’une [action libre](./Action libre.md) que le personnage peut effectuer une fois par [round](./round.md).
+Quand le personnage qui porte cet anneau est en [[sanguin#RAGESANGUINE|rage sanguine]], il peut dépenser 1 [[round]] de rage sanguine pour étendre de 2 rounds la durée d’un sort bénéfique l’affectant. Il s’agit d’une [[action libre]] que le personnage peut effectuer une fois par [[round]].
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), [Endurance](./Endurance.md), [Extension de durée](./Extension de durée.md), le créateur doit posséder le pouvoir de classe [rage sanguine](./Sanguin.md#RAGESANGUINE) ; **Coût** 1 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], [[Endurance]], [[Extension de durée]], le créateur doit posséder le pouvoir de classe [[sanguin#RAGESANGUINE|rage sanguine]] ; **Coût** 1 000 po
 </div>

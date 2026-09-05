@@ -10,6 +10,6 @@ Categories:
 
 {s:mca} *Les manœuvres du personnage sont dévastatrices contre les ennemis désavantagés.*
 
-**Conditions.** [Expertise du combat](./Expertise du combat.md) ; [attaque sournoise](./attaque sournoise.md) +3d6 ou [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE) +3d6.
+**Conditions.** [[Expertise du combat]] ; [[attaque sournoise]] +3d6 ou [[enquêteur#FRAPPEETUDIEE|frappe étudiée]] +3d6.
 
-**Avantage.** Si le personnage possède [attaque sournoise](./attaque sournoise.md), lorsqu’il tente un test de manœuvre offensive contre une créature qu’il prend en tenaille ou qui n’a pas son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) contre son attaque, il gagne un bonus égal au nombre de dés de son attaque sournoise pour son test de manœuvre offensive. S’il possède le pouvoir de classe [combat étudié](./Enquêteur.md#COMBATETUDIE), il peut utiliser [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE) sur son test de manœuvre offensive. Il gagne alors un bonus égal au nombre de dés de sa [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE) pour son test de manœuvre offensive.
+**Avantage.** Si le personnage possède [[attaque sournoise]], lorsqu’il tente un test de manœuvre offensive contre une créature qu’il prend en tenaille ou qui n’a pas son bonus de [[Dextérité]] à la [[CA]] contre son attaque, il gagne un bonus égal au nombre de dés de son attaque sournoise pour son test de manœuvre offensive. S’il possède le pouvoir de classe [[enquêteur#COMBATETUDIE|combat étudié]], il peut utiliser [[enquêteur#FRAPPEETUDIEE|frappe étudiée]] sur son test de manœuvre offensive. Il gagne alors un bonus égal au nombre de dés de sa [[enquêteur#FRAPPEETUDIEE|frappe étudiée]] pour son test de manœuvre offensive.

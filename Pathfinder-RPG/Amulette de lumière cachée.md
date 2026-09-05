@@ -11,9 +11,9 @@ Categories:
 
 {s:racial|Fetchelin (race)|fetchelins|Illustrations/PNJ/Fetchelin.jpg}<div class="BD">
 {s:BDTitre|Amulette de lumière cachée|{s:MR}}
-**Aura** [Illusion](./Illusion.md) faible ; **NLS** 3 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 9 000 po ; **Poids** —
+**Aura** [[Illusion]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 9 000 po ; **Poids** —
 (((Description)))
-Cette grande amulette de verre grossièrement taillée peut, sur commande, diffuser de la lumière comme un [bâton éclairant](./Bâton éclairant (objet).md). Contrairement à une source de lumière normale, les créatures hors de la zone éclairée (18 m) ne voient pas la lumière de l’amulette.
+Cette grande amulette de verre grossièrement taillée peut, sur commande, diffuser de la lumière comme un [[Bâton éclairant (objet)|bâton éclairant]]. Contrairement à une source de lumière normale, les créatures hors de la zone éclairée (18 m) ne voient pas la lumière de l’amulette.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[lumière](./Lumière.md)*, *[invisibilité](./Invisibilité.md)* ; **Coût** 4 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[lumière]]*, *[[invisibilité]]* ; **Coût** 4 500 po
 </div>

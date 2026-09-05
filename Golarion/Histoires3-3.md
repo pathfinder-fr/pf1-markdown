@@ -4,8 +4,8 @@ Title: Sur les toits, dans les caniveaux
 LastModified: 2010-10-08 11:25
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du troisième chapitre : "[On the Rooftops, In the Gutter](http://paizo.com/pathfinder/tales/serial/v5748dyo5lbae)" de la nouvelle "Crimes de sang" par J.C. Hay.*
 
 Visiblement, quelqu'un avait dévoré des corbeaux sur le toit. Je m'accrochai aux ardoises en cuivre que le temps avait patinées jusqu'à ce qu'elles aient la couleur des mousses qui poussent sur les tombes. Quelques plumes noires étaient restées accrochées aux imperfections dans le métal et des taches de sang agglutinées noircissaient au milieu de quatre crânes positionnés avec précision. J'étudiai les têtes d'oiseaux morts, tentant de déterminer s'il y avait un symbolisme caché que je ne percevais pas, mais rien ne me vint à l'esprit.
@@ -24,7 +24,7 @@ Tylar m'attendait au bord du toit, accroupi derrière une gouttière taillée en
 <p>*Certains trouveront à redire de mes méthodes, mais une fille doit faire ce qu'il faut pour prendre soin d'elle.*</p>
 </center>
 </div>
-J'y jetai un coup d'œil. Comme de nombreux bâtiments dans le vieux district de [Méchitar](./Méchitar.md), c'était quasiment une ruine. Pour la plupart des passants, il s'agissait sans doute à première vue d'un bâtiment inhabité. C'est ce que j'aurais cru également. J'y regardai de plus près et vis comme les éléments en ruines étaient positionnés avec soin, comme chaque ouverture barricadée contribuait à la protection de l'endroit plutôt que de le condamner. "Fen a du goût."
+J'y jetai un coup d'œil. Comme de nombreux bâtiments dans le vieux district de [[Méchitar]], c'était quasiment une ruine. Pour la plupart des passants, il s'agissait sans doute à première vue d'un bâtiment inhabité. C'est ce que j'aurais cru également. J'y regardai de plus près et vis comme les éléments en ruines étaient positionnés avec soin, comme chaque ouverture barricadée contribuait à la protection de l'endroit plutôt que de le condamner. "Fen a du goût."
 
 L'homme de main renâcla, ce que j'interprétai comme un ricanement de dérision.
 

@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Kavapesta est le principal centre de population du comté d'[Amaans](./Amaans.md) en [Ustalav](./Ustalav.md). La ville est située sur les bords du [lac Kavapesta](./lac Kavapesta.md).
+Kavapesta est le principal centre de population du comté d'[[Amaans]] en [[Ustalav]]. La ville est située sur les bords du [[lac Kavapesta]].

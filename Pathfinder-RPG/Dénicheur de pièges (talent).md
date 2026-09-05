@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#DENICHEURPIEGE
 ---
 
->>> [Talents#DENICHEURPIEGE](./Talents.md#DENICHEURPIEGE)
+>>> [[Talents#DENICHEURPIEGE]]

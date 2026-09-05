@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 2 pc ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Un pic à cornichons n’est rien de plus qu’un pique coincé au bout d’un bâton, utilisé le plus souvent par des [gobelins](./Gobelin (race).md) pour saisir des objets au fond d’un tonneau.
+Un pic à cornichons n’est rien de plus qu’un pique coincé au bout d’un bâton, utilisé le plus souvent par des [[Gobelin (race)|gobelins]] pour saisir des objets au fond d’un tonneau.

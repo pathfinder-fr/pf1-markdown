@@ -10,8 +10,8 @@ Categories:
 
 {s:um}*Le personnage porte un jugement particulièrement sévère sur un certain type de créatures. *
 
-**Conditions.** [Sag](./Sag.md) 13, pouvoir de classe [jugement](./Inquisiteur.md#JUGEMENT)
+**Conditions.** [[Sag]] 13, pouvoir de classe [[inquisiteur#JUGEMENT|jugement]]
 
-**Avantage.** Le personnage choisit une race dans la liste des [ennemis jurés](./Rôdeur.md#ENNEMIJURE) du [rôdeur](./Rôdeur.md). Tout bonus sacré ou de malfaisance obtenu grâce à un [jugement](./Inquisiteur.md#JUGEMENT) augmente de 1 pour toutes les attaques portées contre une créature de cette race et pour les attaques qu’elle porte.
+**Avantage.** Le personnage choisit une race dans la liste des [[rôdeur#ENNEMIJURE|ennemis jurés]] du [[rôdeur]]. Tout bonus sacré ou de malfaisance obtenu grâce à un [[inquisiteur#JUGEMENT|jugement]] augmente de 1 pour toutes les attaques portées contre une créature de cette race et pour les attaques qu’elle porte.
 
-**Spécial.** Le personnage peut choisir ce don à plusieurs reprises. Ses effets ne se cumulent pas, ils s’appliquent à chaque fois à un [ennemi juré](./Rôdeur.md#ENNEMIJURE) différent.
+**Spécial.** Le personnage peut choisir ce don à plusieurs reprises. Ses effets ne se cumulent pas, ils s’appliquent à chaque fois à un [[rôdeur#ENNEMIJURE|ennemi juré]] différent.

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Vigilante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Vigilante](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Vigilante)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Vigilante]]

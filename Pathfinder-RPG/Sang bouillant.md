@@ -15,26 +15,26 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Cible** 1 créature/3 [niveaux](./niveau.md), situées à moins de 9 m (6 {s:c}) les unes des autres  
+**Cible** 1 créature/3 [[niveau|niveaux]], situées à moins de 9 m (6 {s:c}) les unes des autres  
 
-**Durée** concentration + 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** concentration + 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (voir texte) ; **Résistance à la magie** oui
 
-Le sang des cibles commence à bouillir. Si une cible rate son [jet de sauvegarde](./jet de sauvegarde.md), elle reçoit 1 point de dégâts de feu par [round](./round.md). Ce sort n’a aucun effet sur les cibles qui n’ont pas de sang.
+Le sang des cibles commence à bouillir. Si une cible rate son [[jet de sauvegarde]], elle reçoit 1 point de dégâts de feu par [[round]]. Ce sort n’a aucun effet sur les cibles qui n’ont pas de sang.
 
-Si une cible est de [sous-type orque](./sous-type orque.md), elle ne subit pas de dégâts de feu et gagne un bonus de moral de +2 à la [Force](./Force.md).
+Si une cible est de [[sous-type orque]], elle ne subit pas de dégâts de feu et gagne un bonus de moral de +2 à la [[Force]].
 
 ### Mythique
 {s:CMy}
 Une cible qui rate son jet de sauvegarde subit 1d3 points de dégâts de feu par round. Une cible avec le sous-type orque bénéficie également d’une résistance au feu de 5.
 
-**[Amplifié](./Amplifié.md).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), il peut affecter des alliés comme si ceux-ci possédaient le sous-type orque.
+**[[Amplifié]].** Si le personnage dépense deux utilisations de [[pouvoir mythique]], il peut affecter des alliés comme si ceux-ci possédaient le sous-type orque.

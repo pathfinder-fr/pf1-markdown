@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage peut traverser les lignes adverses pour charger sa cible.*
 
-**Condition.** [Charge renversante](./Charge renversante.md)
+**Condition.** [[Charge renversante]]
 
-**Avantage.** Au cours d’une charge, le personnage peut ignorer les alliés sur son trajet lorsqu’il détermine s’il peut ou non charger une cible. De plus, après avoir effectué au moins un renversement lors de la [charge renversante](./Charge renversante.md), il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) par une [action libre](./Action libre.md) pour en réaliser un deuxième contre un adversaire différent et situé sur la trajectoire de la charge.
+**Avantage.** Au cours d’une charge, le personnage peut ignorer les alliés sur son trajet lorsqu’il détermine s’il peut ou non charger une cible. De plus, après avoir effectué au moins un renversement lors de la [[charge renversante]], il peut dépenser une utilisation de [[pouvoir mythique]] par une [[action libre]] pour en réaliser un deuxième contre un adversaire différent et situé sur la trajectoire de la charge.

@@ -10,21 +10,21 @@ RedirectTo: Pathfinder-RPG.pagededestination#ANCRECREEE
 {s:gdm}
 
 ### Planar Adventures / Aventures dans les plans (chapitre 7)
---Attention : une page [Pathfinder-RPG.plans|plans] existe déjà issue du Manuel des joueurs. Il faut donc faire de l'intégration à partir de celle-là.
+--Attention : une page [[Pathfinder-RPG.plans|plans]] existe déjà issue du Manuel des joueurs. Il faut donc faire de l'intégration à partir de celle-là.
 --
 
 ~~Il faut sans doute créer une page concernant les règles applicables dans les plans et une page avec tous les plans décrits.~~ Fait
 
-- Le [Pathfinder-RPG.grand au-delà|grand au-delà]
+- Le [[Pathfinder-RPG.grand au-delà|grand au-delà]]
 
 PAGE D'ACCUEIL WIKI MODIFIÉE
 
-La page de travail temporaire pour les règles : [temp plans](./temp plans.md) -> a été intégrée le 25/07 À détruire
+La page de travail temporaire pour les règles : [[temp plans]] -> a été intégrée le 25/07 À détruire
 
 ### Settlements / Les villes (chapitre 7)
-La page de travail intitulée [les villes](./les-villes.md) devra être supprimée. Attention pour les futures redirections.
+La page de travail intitulée [[les villes]] devra être supprimée. Attention pour les futures redirections.
 
-La page [Villes](./Villes.md) est créée.-> Mise en forme faite par Papyrolf.
+La page [[Villes]] est créée.-> Mise en forme faite par Papyrolf.
 
 PAGE D'ACCUEIL WIKI MODIFIÉE
 
@@ -34,63 +34,63 @@ Faut-il créer plusieurs pages ? Une page avec les règles et une page avec les 
 
 Intégration des tables de rencontre en ville ?
 
-Redirections à créer : [ville](./ville.md) -> fait le 25/07/14
+Redirections à créer : [[ville]] -> fait le 25/07/14
 ### Fast Play Ship Combat / L'eau (chapitre 7)
-~~Attention : la page sur le combat nautique a rejoint la page Environnement : [Milieu aquatique](./Milieu aquatique.md) qui a été remaniée.~~ Intégrée le 26/07/2014
+~~Attention : la page sur le combat nautique a rejoint la page Environnement : [[Milieu aquatique]] qui a été remaniée.~~ Intégrée le 26/07/2014
 
 PAGE D'ACCUEIL WIKI MODIFIÉE
 
 ### Chases / Les courses poursuites (chapitre 8)
---[Courses poursuites](./Courses poursuites.md) -> Fait
+--[[Courses poursuites]] -> Fait
 
-redirections à créer : [Course poursuite](./Course poursuite.md)-> fait le 26/07/14--
+redirections à créer : [[Course poursuite]]-> fait le 26/07/14--
 
 ### Disasters / Les catastrophes (chapitre 8)
-[Catastrophes](./Catastrophes.md)Les catastrophes seront à intégrer à part dans le wiki avec le logo gdm.
+[[Catastrophes]]Les catastrophes seront à intégrer à part dans le wiki avec le logo gdm.
 
 Je propose d'aborder :
 
-- les éruptions volcaniques soit avec 'la lave' déjà abordée sur la page [Pathfinder-RPG.Dangers naturels|Dangers naturels] ou dans la partie [Pathfinder-RPG.Aventures en extérieur|Aventures en extérieur] où sont traités différents thèmes : les collines, le désert sur une page dédiée concernant les volcans
-- les tsunamis soit avec 'la noyade' abordée sur la page [Pathfinder-RPG.Dangers naturels|Dangers naturels] ou dans la partie [Pathfinder-RPG.Milieu aquatique|Milieu aquatique] des Aventures en extérieur
+- les éruptions volcaniques soit avec 'la lave' déjà abordée sur la page [[Pathfinder-RPG.Dangers naturels|Dangers naturels]] ou dans la partie [[Pathfinder-RPG.Aventures en extérieur|Aventures en extérieur]] où sont traités différents thèmes : les collines, le désert sur une page dédiée concernant les volcans
+- les tsunamis soit avec 'la noyade' abordée sur la page [[Pathfinder-RPG.Dangers naturels|Dangers naturels]] ou dans la partie [[Pathfinder-RPG.Milieu aquatique|Milieu aquatique]] des Aventures en extérieur
 - l'invasion de morts vivants est un danger surnaturel et devrait avoir une section à part.
 
 NE PAS OUBLIER DE MODIFIER LA PAGE D'ACCUEIL DU WIKI, de supprimer la page Catastrophes, de modifier le menu dangers naturels au besoin.
 
 ### Drugs and Addiction / Les Drogues (chapitre 8)
-[Les drogues et la dépendance](./Drogues.md) -> Mise en forme faite par tuco.
+[[Drogues|Les drogues et la dépendance]] -> Mise en forme faite par tuco.
 
 ~~Faut-il créer deux pages ? une page avec les exemples de drogues (comme pour les pièges ?)~~ Non
 
-Redirection à créer : [drogue](./drogue.md), [dépendance](./dépendance.md)
+Redirection à créer : [[drogue]], [[dépendance]]
 
 ~~Où est-ce qu'on le met à partir du menu du wiki général ?~~ Dans le glossaire avec les capacités spéciales au dessus des poisons et des malédictions
 
 PAGE D'ACCUEIL WIKI MODIFIÉE
 
 ### Haunts / Les apparitions (chapitre 8)
-~~[Apparitions](./Apparitions.md) -> à relire (un lien sur le sort invisibilité à faire dans le tableau~~
+~~[[Apparitions]] -> à relire (un lien sur le sort invisibilité à faire dans le tableau~~
 
-Redirections à créer : [apparition](./apparition.md)
+Redirections à créer : [[apparition]]
 
 ~~Où les placer sur la page d'accueil ?~~ INTÉGRATION PAGE ACCUEIL FAITE
 
 
 ### Hazards / les dangers (chapitre 8)
-Il existe déjà dans la partie Outils du MJ du wiki général des liens vers les [dangers naturels](./Dangers naturels.md) de l'environnement. Voir s'il faut intégrer dans l'existant ou créer une page spéciale.
-[Dangers](./Dangers.md) -> À relire
+Il existe déjà dans la partie Outils du MJ du wiki général des liens vers les [[dangers naturels]] de l'environnement. Voir s'il faut intégrer dans l'existant ou créer une page spéciale.
+[[Dangers]] -> À relire
 
 ### Sanity and Madness / La santé mentale et la folie (chapitre 8)
-[Santé mentale](./Santé mentale.md)
+[[Santé mentale]]
 
-~~Redirections à créer : [folie](./folie.md)~~
+~~Redirections à créer : [[folie]]~~
 
 INTÉGRATION SUR LA PAGE D'ACCUEIL DU WIKI FAITE
 
 ### NPC Boons / Les cadeaux des PNJ (chapitre 4)
-[Cadeaux](./Cadeaux.md)
+[[Cadeaux]]
 
 ### NPC Gallery / Galerie de PNJ (chapitre 9)
-[Galerie de PNJ](./Galerie de PNJ.md)
+[[Galerie de PNJ]]
 
 ### Intégration
 

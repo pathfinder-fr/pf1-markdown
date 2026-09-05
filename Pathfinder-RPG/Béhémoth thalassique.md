@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.34*}
 {s:BDTexte|**PX** 307 200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([Aquatique](./sous-type aquatique.md), [béhémoth](./sous-type béhémoth.md), [Eau](./sous-type Eau.md)) de taille Col, N}
-{s:BDTexte|**Init** -1 ; **Sens** [perception aveugle](./perception aveugle.md) à 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +34}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|Aquatique]], [[sous-type béhémoth|béhémoth]], [[sous-type Eau|Eau]]) de taille Col, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[perception aveugle]] à 18 m (12 {s:c}), [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +34}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 37, contact 1, pris au dépourvu 37 (Dex -1, naturelle +36, taille -8)}
 {s:BDTexte|**pv** 391 (29d10+232) ; régénération 20}
@@ -24,34 +24,34 @@ Categories:
 {s:BDTexte|**Faiblesses** vulnérable aux miracles et aux souhaits}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), nage 60 m (40 {s:c})}
-{s:BDTexte|**Corps à corps** 2 griffes, +39 (3d6+18) et morsure, +39 (6d6+18/19-20 plus [étreinte](./Étreinte (capacité).md)) et queue, +34 (4d6+9 plus [croc-en-jambe](./Croc-en-jambe (capacité).md))}
+{s:BDTexte|**Corps à corps** 2 griffes, +39 (3d6+18) et morsure, +39 (6d6+18/19-20 plus [[étreinte (capacité)|étreinte]]) et queue, +34 (4d6+9 plus [[croc-en-jambe (capacité)|croc-en-jambe]])}
 {s:BDTexte|**A distance** jet d’eau, +20 (4d8+18/19-20 plus étourdissement et poussée)}
 {s:BDTexte|**Espace occupé** 9 m (6 {s:c}) ; **Allonge** 6 m (4 {s:c})}
-{s:BDTexte|**Attaques spéciales** désastre, [engloutissement](./Engloutissement (capacité).md) (4d6+27 contondant, CA 28, 39 pv), [engloutissement rapide](./Engloutissement rapide (capacité).md),
-[éventration](./Éventration (capacité).md) (2 griffes, 3d6+18), [repousser](./Repousser (capacité).md) (jet d’eau, 6 m), [retournement de navires](./Retournement de navires (capacité).md) (DD 25)}
+{s:BDTexte|**Attaques spéciales** désastre, [[engloutissement (capacité)|engloutissement]] (4d6+27 contondant, CA 28, 39 pv), [[engloutissement rapide (capacité)|engloutissement rapide]],
+[[éventration (capacité)|éventration]] (2 griffes, 3d6+18), [[repousser (capacité)|repousser]] (jet d’eau, 6 m), [[retournement de navires (capacité)|retournement de navires]] (DD 25)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 20 ; concentration +22)}
-{s:BDSorts|*3/jours* - *[tsunami](./Tsunami.md)* (DD 21)}
+{s:BDSorts|*3/jours* - *[[tsunami]]* (DD 21)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 47, **Dex** 8, **Con** 27, **Int** 3, **Sag** 16, **Cha** 14}
-{s:BDTexte|**BBA** +29, **BMO** +55 (+59 en [lutte](./lutte.md) ou [destruction](./destruction.md)), **DMD** 64 (66 contre la [destruction](./destruction.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Destruction d’arme supérieure](./Destruction darme supérieure.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (jet d’eau), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la destruction](./Science de la destruction.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Science du critique](./Science du critique.md) (morsure, jet d’eau), [Succession d’enchaînements](./Succession denchaînements.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences**  [Discrétion](./Discrétion.md) -13, [Natation](./Natation.md) +30, [Perception](./Perception.md) +34, [Survie](./Survie.md) +18}
-{s:BDTexte|**Modificateurs raciaux**  [Perception](./Perception.md) +10}
+{s:BDTexte|**BBA** +29, **BMO** +55 (+59 en [[lutte]] ou [[destruction]]), **DMD** 64 (66 contre la [[destruction]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Destruction darme supérieure|Destruction d’arme supérieure]], [[Enchaînement]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Attaque spéciale renforcée]] (jet d’eau), [[Réflexes surhumains]], [[Science de la destruction]], [[Science de la frappe décisive]], [[Science de la volonté de fer]], [[Science du critique]] (morsure, jet d’eau), [[Succession denchaînements|Succession d’enchaînements]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences**  [[Discrétion]] -13, [[Natation]] +30, [[Perception]] +34, [[Survie]] +18}
+{s:BDTexte|**Modificateurs raciaux**  [[Perception]] +10}
 {s:BDTexte|**Langues** aklo (ne peut pas parler)}
-{s:BDTexte|**Particularités**  [Amphibie](./Amphibie (capacité).md)}
+{s:BDTexte|**Particularités**  [[Amphibie (capacité)|Amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** eaux}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Jet d’eau (Sur).** Par son évent, le béhémoth thalassique peut cracher un jet d’eau d’une force et d’une précision étonnantes. Ce jet d’eau a une portée de 72 m (48 {s:c}) sans facteur de portée. Une cible frappée par ce jet d’eau est soumise au pouvoir [repousser](./Repousser (capacité).md) du béhémoth et doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 34 ou être [étourdie](./Étourdi.md) pendant 1d4+1 [rounds](./round.md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Jet d’eau (Sur).** Par son évent, le béhémoth thalassique peut cracher un jet d’eau d’une force et d’une précision étonnantes. Ce jet d’eau a une portée de 72 m (48 {s:c}) sans facteur de portée. Une cible frappée par ce jet d’eau est soumise au pouvoir [[repousser (capacité)|repousser]] du béhémoth et doit réussir un jet de [[Vigueur]] [[DD]] 34 ou être [[étourdi|étourdie]] pendant 1d4+1 [[round|rounds]]. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [béhémoths](./Béhémoth.md).***</li></ul>*Cette bête, semblable à une baleine, tire son corps massif vers la surface des mers déchaînées grâce à ses deux énormes membres.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Béhémoth|béhémoths]].***</li></ul>*Cette bête, semblable à une baleine, tire son corps massif vers la surface des mers déchaînées grâce à ses deux énormes membres.*
 
 Envoyés pas les dieux pour punir ceux qui vivent près de la mer, les béhémoths thalassiques abattent les navires en mer avant de reporter leur attention sur les structures et les survivants basés sur la terre ferme. Malgré leur corpulence massive, les béhémoths thalassiques sont incroyablement rapides dans l’eau et rivalisent avec les navires les le plus véloces. Au sol, il est plus facile de leur échapper, en tout cas pour ceux qui sont prêts à laisser leur foyer et leurs possessions derrière eux. S’ils sont capables de survivre indéfiniment sur la terre ferme et de s’y mouvoir en utilisant le mode de déplacement maladroit des phoques, les béhémoths thalassiques se lassent très vite de l’incessante gravité terrestre. Ils s’aventurent rarement à plus de 1,5 à 3 kilomètres du rivage avant de retourner à leur confortable flottabilité marine.
 
 Les béhémoths thalassiques ressemblent à d’immenses cachalots lorsqu’ils sont dans l’eau, mais ils peuvent se hisser sur le rivage très rapidement en se servant de leurs puissants membres antérieurs. Leur queue et leurs membres peuvent briser le bois et la pierre en un coup, tandis que leurs mâchoires s’ouvrent suffisamment largement pour engloutir de petits bateaux.
 
-Une augmentation spectaculaire du nombre de bateaux disparus, une variation du rythme des marées et le sinistre tableau des créatures marines venant s’échouer sur le rivage sont généralement des signes annonciateurs de l’arrivée d’un [béhémoth](./Béhémoth.md) thalassique. La plupart du temps, ces créatures arpentent les profondeurs à quelques dizaines de mètres sous la surface, mais les légendes racontent que de plus grands béhémoths encore, les terrifiants léviathans, vivent au plus profond des océans.
+Une augmentation spectaculaire du nombre de bateaux disparus, une variation du rythme des marées et le sinistre tableau des créatures marines venant s’échouer sur le rivage sont généralement des signes annonciateurs de l’arrivée d’un [[béhémoth]] thalassique. La plupart du temps, ces créatures arpentent les profondeurs à quelques dizaines de mètres sous la surface, mais les légendes racontent que de plus grands béhémoths encore, les terrifiants léviathans, vivent au plus profond des océans.
 </div></td></tr></table>

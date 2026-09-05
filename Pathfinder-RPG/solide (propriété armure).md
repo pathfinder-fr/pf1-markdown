@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Solide
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Solide](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Solide)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Solide]]

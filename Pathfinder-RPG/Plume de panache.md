@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Plume de panache|{s:MCA}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 1 000 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 1 000 po ; **Poids** —
 (((Description)))
-Il s’agit d’une plume chic, extravagante et démesurée. Pour bénéficier de ses effets, le personnage doit la fixer à un chapeau non-magique d’une valeur minimale de 10 po.  Une fois par jour, quand il accomplit un [exploit](./Bretteur.md#EXPLOITS) la plume lui apporte 1 point de [panache](./panache.md) qu’il peut dépenser pour cet exploit. Une fois utilisée, la plume s’affaisse et devient toute ébouriffée jusqu’à ce que sa magie se réinitialise.
+Il s’agit d’une plume chic, extravagante et démesurée. Pour bénéficier de ses effets, le personnage doit la fixer à un chapeau non-magique d’une valeur minimale de 10 po.  Une fois par jour, quand il accomplit un [[bretteur#EXPLOITS|exploit]] la plume lui apporte 1 point de [[panache]] qu’il peut dépenser pour cet exploit. Une fois utilisée, la plume s’affaisse et devient toute ébouriffée jusqu’à ce que sa magie se réinitialise.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[héroïsme](./Héroïsme.md)* ; **Coût** 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[héroïsme]]* ; **Coût** 500 po
 </div>

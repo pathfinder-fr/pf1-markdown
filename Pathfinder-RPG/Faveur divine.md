@@ -10,19 +10,19 @@ Categories:
 - Sort prêtre 1
 ---
 
-**École** [Évocation](./Évocation.md) ; **Niveau** [Inq](./Inquisiteur.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 1  
+**École** [[Évocation]] ; **Niveau** [[inquisiteur|Inq]] 1, [[paladin|Pal]] 1, [[prêtre|Prê]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
 **Durée** 1 minute
 
-Le lanceur de sorts invoque la puissance et la sagesse de son dieu pour obtenir un bonus de chance de +1 aux [jets d’attaque](./jet dattaque.md) et de dégâts par tranche de trois [niveaux de lanceur de sorts](./niveau de lanceur de sorts.md) (+1 au minimum, +3 au maximum). Ce bonus ne s’applique pas aux dégâts des sorts.
+Le lanceur de sorts invoque la puissance et la sagesse de son dieu pour obtenir un bonus de chance de +1 aux [[jet dattaque|jets d’attaque]] et de dégâts par tranche de trois [[niveau de lanceur de sorts|niveaux de lanceur de sorts]] (+1 au minimum, +3 au maximum). Ce bonus ne s’applique pas aux dégâts des sorts.
 
 ### Mythique
 {s:CMy}

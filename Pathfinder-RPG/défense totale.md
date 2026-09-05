@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions simples#DEFENSETOTALE
 ---
 
->>> [Actions simples#DEFENSETOTALE](./Actions simples.md#DEFENSETOTALE)
+>>> [[Actions simples#DEFENSETOTALE]]

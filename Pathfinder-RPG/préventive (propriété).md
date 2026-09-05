@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Préventive
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Préventive](./Descriptions individuelles des propriétés spéciales des armes.md#Préventive)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Préventive]]

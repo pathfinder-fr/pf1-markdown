@@ -4,61 +4,61 @@ Title: Possession spirituelle d'objet suprême
 LastModified: 2025-06-18 15:41
 ---
 
-{s:AO}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Occ](./Occultiste.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 6, [Sor](./Sorcière.md) 7, [Spi](./Spirite.md) 6
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** intermédiaire (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
-**Cible** objet abandonné de taille Gig ou plus petite (TP au minimum) ou un [créature artificielle](./type Créature artificielle.md)
-**Durée** concentration (jusqu’à 10 [round](./round.md)/niveau)
+{s:AO}**École** [[Nécromancie]] ; **Niveau** [[occultiste|Occ]] 5, [[ensorceleur|Ens]]/[[magicien|Mag]] 7, [[psychiste|Psy]] 6, [[sorcière|Sor]] 7, [[spirite|Spi]] 6
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** intermédiaire (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
+**Cible** objet abandonné de taille Gig ou plus petite (TP au minimum) ou un [[Type créature artificielle|créature artificielle]]
+**Durée** concentration (jusqu’à 10 [[round]]/niveau)
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort fonctionne comme *[possession spirituelle d’objet](./Possession spirituelle dobjet.md)*, en dehors des modifications notées ci-dessus. L’[objet animé](./Objet animé.md) possédé a un nombre de points de construction adapté à sa taille (jusqu’à 5 pour les objets de taille Gig). Votre cordon argenté s'étend sur une portée moyenne (30 m + 3 m/niveau).
-Vous pouvez tenter de prendre possession d'une [créature artificielle](./type Créature artificielle.md) plutôt que d'un objet sans surveillance avec ce sort. Dans ce cas, ce sort agit comme [Contrôle de créature artificielle](./Contrôle de créature artificielle.md), en dehors des modifications notées ci-dessus.
+Ce sort fonctionne comme *[[possession spirituelle dobjet|possession spirituelle d’objet]]*, en dehors des modifications notées ci-dessus. L’[[objet animé]] possédé a un nombre de points de construction adapté à sa taille (jusqu’à 5 pour les objets de taille Gig). Votre cordon argenté s'étend sur une portée moyenne (30 m + 3 m/niveau).
+Vous pouvez tenter de prendre possession d'une [[Type créature artificielle|créature artificielle]] plutôt que d'un objet sans surveillance avec ce sort. Dans ce cas, ce sort agit comme [[Contrôle de créature artificielle]], en dehors des modifications notées ci-dessus.
 
 
 
 (((
 ## Possession spirituelle d'objet
-{s:AO}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Hyp](./Hypnotiseur.md) 5, [Méd](./Médium.md) 4, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5, [Spi](./Spirite.md) 5
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 niveaux)
+{s:AO}**École** [[Nécromancie]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[hypnotiseur|Hyp]] 5, [[médium|Méd]] 4, [[occultiste|Occ]] 4, [[psychiste|Psy]] 5, [[sorcière|Sor]] 5, [[spirite|Spi]] 5
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[courte]] (7,50 m + 1,50 m/2 niveaux)
 **Cible** objet abandonné de taille G ou inférieure (TP au minimum)
-**Durée** 10 minutes/niveau ([T](./Présentation des sorts.md#DUREE))
+**Durée** 10 minutes/niveau ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort fonctionne comme *[possession spirituelle d’objet inférieure](./Possession spirituelle dobjet inférieure.md)*, en dehors des modifications notées ci-dessus. L’[objet animé](./Objet animé.md) possédé a un nombre de points de construction adapté à sa taille (jusqu’à 3 pour les objets de taille G). Le personnage peut ramener sa conscience dans son corps par une [action simple](./Action simple.md). À son tour suivant, il peut tenter de prendre possession d’un autre objet par une [action simple](./Action simple.md) au lieu de mettre fin au sort.
+Ce sort fonctionne comme *[[possession spirituelle dobjet inférieure|possession spirituelle d’objet inférieure]]*, en dehors des modifications notées ci-dessus. L’[[objet animé]] possédé a un nombre de points de construction adapté à sa taille (jusqu’à 3 pour les objets de taille G). Le personnage peut ramener sa conscience dans son corps par une [[action simple]]. À son tour suivant, il peut tenter de prendre possession d’un autre objet par une [[action simple]] au lieu de mettre fin au sort.
 
 
 
 (((
 ## Possession spirituelle d'objet inférieure
-{s:AO}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Hyp](./Hypnotiseur.md) 3,
-[Méd](./Médium.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 4, [Spi](./Spirite.md) 3
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./courte.md)
+{s:AO}**École** [[Nécromancie]] ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[hypnotiseur|Hyp]] 3,
+[[médium|Méd]] 2, [[occultiste|Occ]] 2, [[psychiste|Psy]] 3, [[sorcière|Sor]] 4, [[spirite|Spi]] 3
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[courte|contact]]
 **Cible** objet abandonné de taille TP ou P
-**Durée** 1 minute/niveau ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 minute/niveau ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort fonctionne comme *[possession spirituelle](./Possession spirituelle (sort).md)* mais le personnage possède un objet au lieu d’une créature. Une fois possédé, l’objet s’anime et gagne les statistiques d’un [objet animé](./Objet animé.md) de sa taille (dont 1 point de construction pour ses pouvoirs). Le personnage ne peut pas utiliser de sorts ni de pouvoirs tant qu’il possède un objet. Un lien spirituel relie le corps du personnage à l’objet qu’il possède, à la manière d’une [corde d’argent](./Plans ésotériques.md#PLANASTRAL). Si le corps et l’objet s’éloignent de plus d’une [courte portée](./courte.md) (7,50 m + 1,50 m/2 niveaux), ce lien se brise et ramène la conscience du personnage dans son corps.
+Ce sort fonctionne comme *[[possession spirituelle (sort)|possession spirituelle]]* mais le personnage possède un objet au lieu d’une créature. Une fois possédé, l’objet s’anime et gagne les statistiques d’un [[objet animé]] de sa taille (dont 1 point de construction pour ses pouvoirs). Le personnage ne peut pas utiliser de sorts ni de pouvoirs tant qu’il possède un objet. Un lien spirituel relie le corps du personnage à l’objet qu’il possède, à la manière d’une [[Plans ésotériques#PLANASTRAL|corde d’argent]]. Si le corps et l’objet s’éloignent de plus d’une [[courte|courte portée]] (7,50 m + 1,50 m/2 niveaux), ce lien se brise et ramène la conscience du personnage dans son corps.
 
 
 
 (((
 ## Possession spirituelle
-{s:Desambi|Ce sort suit les règles de [Possession spirituelle](./Possession spirituelle.md) d'Aventures occultes, et a pour vocation de remplacer l'ancien sort *[possession](./Possession.md)*.}{s:AO}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Con](./Conjurateur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Hyp](./Hypnotiseur.md) 5, [Méd](./Médium.md) 3, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5, [Spi](./Spirite.md) 4
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [moyenne](./courte.md) (30 m + 3 m/niveau)
+{s:Desambi|Ce sort suit les règles de [[Possession spirituelle]] d'Aventures occultes, et a pour vocation de remplacer l'ancien sort *[[possession]]*.}{s:AO}**École** [[Nécromancie]] ; **Niveau** [[conjurateur|Con]] 5, [[ensorceleur|Ens]]/[[magicien|Mag]] 5, [[hypnotiseur|Hyp]] 5, [[médium|Méd]] 3, [[occultiste|Occ]] 4, [[psychiste|Psy]] 5, [[sorcière|Sor]] 5, [[spirite|Spi]] 4
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[courte|moyenne]] (30 m + 3 m/niveau)
 **Cible** 1 créature
-**Durée** 1 h/niveau ([T](./Présentation des sorts.md#DUREE))
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Durée** 1 h/niveau ([[Présentation des sorts#DUREE|T]])
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 ---
 Le personnage tente de prendre possession d’une créature en projetant son âme dans le corps de celle-ci. La cible doit se trouver dans le rayon d’action du sort et le personnage doit savoir où elle se trouve, bien qu’il n’ait pas besoin de la voir ni d’avoir une ligne d’effet jusqu’à elle. Quand le personnage termine l’incantation et transfère son âme, son corps semble mort. S’il n’arrive pas à prendre possession de son hôte, le sort se termine.
 
-Si le personnage réussit, sa force vitale occupe le corps de l’hôte tandis que l’âme de ce dernier est emprisonnée dans son corps avec le personnage, bien qu’elle reste en mesure d’utiliser ses propres sens (mais qu’elle soit incapable d’exercer la moindre influence ni même de recourir à des capacités purement mentales). Le personnage peut communiquer par télépathie avec son hôte comme s’ils partageaient un langage commun, mais cette communication fonctionne seulement si le personnage donne son accord. Le personnage conserve son [Intelligence](./Intelligence.md), sa [Sagesse](./Sagesse.md), son [Charisme](./Charisme.md), ses niveaux, ses classes, son bonus de base à l’attaque, ses bonus aux jets de sauvegarde, son alignement et ses capacités mentales. Le corps conserve sa [Force](./Force.md), sa [Dextérité](./Dextérité.md), sa [Constitution](./Constitution.md), ses points de vie ainsi que ses capacités naturelles et automatiques. Un corps doté de membres supplémentaires ne permet pas au personnage de porter plus d’attaques que d’habitude (ni de porter des attaques à deux armes plus avantageuses). Le personnage ne peut pas activer les pouvoirs extraordinaires, surnaturels ou magiques du corps ni lancer ses sorts.
+Si le personnage réussit, sa force vitale occupe le corps de l’hôte tandis que l’âme de ce dernier est emprisonnée dans son corps avec le personnage, bien qu’elle reste en mesure d’utiliser ses propres sens (mais qu’elle soit incapable d’exercer la moindre influence ni même de recourir à des capacités purement mentales). Le personnage peut communiquer par télépathie avec son hôte comme s’ils partageaient un langage commun, mais cette communication fonctionne seulement si le personnage donne son accord. Le personnage conserve son [[Intelligence]], sa [[Sagesse]], son [[Charisme]], ses niveaux, ses classes, son bonus de base à l’attaque, ses bonus aux jets de sauvegarde, son alignement et ses capacités mentales. Le corps conserve sa [[Force]], sa [[Dextérité]], sa [[Constitution]], ses points de vie ainsi que ses capacités naturelles et automatiques. Un corps doté de membres supplémentaires ne permet pas au personnage de porter plus d’attaques que d’habitude (ni de porter des attaques à deux armes plus avantageuses). Le personnage ne peut pas activer les pouvoirs extraordinaires, surnaturels ou magiques du corps ni lancer ses sorts.
 
-Le personnage peut regagner son corps librement, par une [action simple](./Action simple.md), quelle que soit la distance qui l’en sépare, tant qu’il se trouve sur le même plan. Si le corps de l’hôte se fait tuer, le personnage réintègre son propre corps et la force vitale de l’hôte le quitte (il meurt). Si le corps du personnage se fait tuer, le personnage succombe quand le sort expire ou quand le corps de son hôte se fait tuer. Le personnage peut lancer ce sort sur une autre cible alors qu’il se trouve dans le corps de la première. La durée du sort se réinitialise alors. Il retourne tout de même dans son corps d’origine (et non dans un corps intermédiaire) quand il utilise une [action simple](./Action simple.md) pour mettre fin au sort ou quand ce dernier expire. Le retour dans le corps d’origine met fin au sort. Les créatures dont l’âme sert aussi de corps (comme les morts-vivants intangibles ou les extérieurs non natifs) utilisent les effets de la *[possession spirituelle suprême](./Possession spirituelle suprême.md)*.
+Le personnage peut regagner son corps librement, par une [[action simple]], quelle que soit la distance qui l’en sépare, tant qu’il se trouve sur le même plan. Si le corps de l’hôte se fait tuer, le personnage réintègre son propre corps et la force vitale de l’hôte le quitte (il meurt). Si le corps du personnage se fait tuer, le personnage succombe quand le sort expire ou quand le corps de son hôte se fait tuer. Le personnage peut lancer ce sort sur une autre cible alors qu’il se trouve dans le corps de la première. La durée du sort se réinitialise alors. Il retourne tout de même dans son corps d’origine (et non dans un corps intermédiaire) quand il utilise une [[action simple]] pour mettre fin au sort ou quand ce dernier expire. Le retour dans le corps d’origine met fin au sort. Les créatures dont l’âme sert aussi de corps (comme les morts-vivants intangibles ou les extérieurs non natifs) utilisent les effets de la *[[possession spirituelle suprême]]*.
 )))))))))

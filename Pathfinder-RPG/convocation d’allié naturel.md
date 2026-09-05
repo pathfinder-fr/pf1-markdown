@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Convocation dalliés naturels
 ---
 
->>> [Convocation dalliés naturels](./Convocation dalliés naturels.md)
+>>> [[Convocation dalliés naturels]]

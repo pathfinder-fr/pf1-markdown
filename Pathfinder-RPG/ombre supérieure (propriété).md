@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Ombre supérieure
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Ombre supérieure](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Ombre supérieure)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Ombre supérieure]]

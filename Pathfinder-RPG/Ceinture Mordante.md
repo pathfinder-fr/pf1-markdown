@@ -6,13 +6,13 @@ LastModified: 2024-05-25 16:22
 
 <div class="BD">
 {s:BDTitre|Ceinture mordante|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 1 ; **Emplacement** [taille](./Objets merveilleux portés à la taille.md) ; **Prix** 4 000 po ; **Poids** 1,5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 1 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 4 000 po ; **Poids** 1,5 kg
 (((Description)))
 La boucle en bronze de cette large ceinture de cuir représente trois visages démoniaques. Une fois par round, cette boucle peut s’animer pour se jeter sur une créature qui provoque une attaque d’opportunité dans un rayon de 1,50 mètre.
 
-Cette attaque utilise le bonus de base à l’attaque et le modificateur de Force du porteur, en ajoutant un bonus de compétence de +4. Elle inflige des dégâts équivalents à une attaque de morsure réalisée par une créature de la taille du porteur (1d6 pour un porteur de taille M, voir la Table des [attaques naturelles selon la taille](./Attaques naturelles (capacité).md#TABLEATTAQUENATURELLE)) en ajoutant le modificateur de Force du porteur.
+Cette attaque utilise le bonus de base à l’attaque et le modificateur de Force du porteur, en ajoutant un bonus de compétence de +4. Elle inflige des dégâts équivalents à une attaque de morsure réalisée par une créature de la taille du porteur (1d6 pour un porteur de taille M, voir la Table des [[Attaques naturelles (capacité)#TABLEATTAQUENATURELLE|attaques naturelles selon la taille]]) en ajoutant le modificateur de Force du porteur.
 
 Cette ceinture n’augmente pas le nombre d’attaques que peut effectuer son porteur en un round, elle offre simplement une alternative pour effectuer des attaques d’opportunité.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[morsure magique](./Morsure magique.md)*  ; **Coût** : 2 250 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[morsure magique]]*  ; **Coût** : 2 250 po
 </div>

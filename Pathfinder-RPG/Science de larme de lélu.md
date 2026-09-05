@@ -11,13 +11,13 @@ Categories:
 
 {s:mca}*Le personnage bénéficie un peu plus encore des faveurs de son dieu lorsqu’il utilise son arme de prédilection.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Arme de prédilection](./Arme de prédilection.md) (arme de prédilection
-de la divinité), [Arme de l’Élu](./Arme de lélu.md).
+**Conditions.** [[Arme de prédilection]] (arme de prédilection
+de la divinité), [[Arme de lélu|Arme de l’Élu]].
 
-**Avantage.** Ce don fonctionne comme Arme de l’Élu, à la seule différence que le personnage bénéficie des avantages sur toutes ses attaques jusqu’au début de son tour suivant. Ses attaques gagnent une composante d’[alignement](./Alignement.md) de sa divinité (Bonne, Chaotique, Loyale ou Mauvaise) quand il s’agit de passer la [réduction de dégâts](./RD.md). Si sa divinité est Neutre, sans autre composante d’alignement, les attaques du personnage passent alors la réduction de dégâts comme si l’arme était en argent et en fer froid.
+**Avantage.** Ce don fonctionne comme Arme de l’Élu, à la seule différence que le personnage bénéficie des avantages sur toutes ses attaques jusqu’au début de son tour suivant. Ses attaques gagnent une composante d’[[alignement]] de sa divinité (Bonne, Chaotique, Loyale ou Mauvaise) quand il s’agit de passer la [[RD|réduction de dégâts]]. Si sa divinité est Neutre, sans autre composante d’alignement, les attaques du personnage passent alors la réduction de dégâts comme si l’arme était en argent et en fer froid.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Quand le personnage utilise ce don, il peut dépenser 2 points d’endurance à la fin de sa durée normale pour prolonger son effet jusqu’à la fin de son prochain tour.

@@ -13,10 +13,10 @@ Categories:
 <div class="BD">
 {s:BDtitre|Larabai|FP 11}
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
-{s:BDtexte|*Source : [Guide des Chaînes p.49](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide des Chaînes p.49]]*}
 {s:BDtexte|**PX** 12 800}
-{s:BDtexte|[Fée](./type Fée.md) ([métamorphe](./sous-type métamorphe.md)) de taille M, CN}
-{s:BDtexte|**Init** +10 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +27}
+{s:BDtexte|[[type Fée|Fée]] ([[sous-type métamorphe|métamorphe]]) de taille M, CN}
+{s:BDtexte|**Init** +10 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +27}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 25, contact 17, pris au dépourvu 18 (Dex +6, esquive +1, naturelle +8)}
 {s:BDtexte|**pv** 144 (17d6+85)}
@@ -25,24 +25,24 @@ Categories:
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 9 m, 15 m (bonne)}
 {s:BDtexte|**Corps à corps** rapière, +15/+10 (1d6+4/18-20 plus malice)}
-{s:BDtexte|**Pouvoirs magiques** ([NLS](./NLS.md) 11 ; [concentration](./concentration.md) +14)}
-{s:BDsorts|5/jour — *[bourrasque](./Bourrasque.md)* (DD 15), *[mains brûlantes](./Mains brûlantes.md)* (DD 14)}
-{s:BDsorts|3/jour — *[brouillard dense](./Brouillard dense.md)*, *[invisibilité](./Invisibilité.md)*, *[suggestion](./Suggestion.md)* (DD 15), *[terrain hallucinatoire](./Terrain hallucinatoire.md)* (DD 17)}
-{s:BDsorts|1/jour — *[cône de froid](./Cône de froid.md)* (DD 18), *[mirage](./mirage.md)* (DD 18)}
+{s:BDtexte|**Pouvoirs magiques** ([[NLS]] 11 ; [[concentration]] +14)}
+{s:BDsorts|5/jour — *[[bourrasque]]* (DD 15), *[[mains brûlantes]]* (DD 14)}
+{s:BDsorts|3/jour — *[[brouillard dense]]*, *[[invisibilité]]*, *[[suggestion]]* (DD 15), *[[terrain hallucinatoire]]* (DD 17)}
+{s:BDsorts|1/jour — *[[cône de froid]]* (DD 18), *[[mirage]]* (DD 18)}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 18, **Dex** 22, **Con** 21, **Int** 15, **Sag** 16, **Cha** 17}
 {s:BDtexte|**BBA** +8, **BMO** +14, **DMD** 29}
-{s:BDtexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (rapière), [Attaque en finesse](./Attaque en finesse.md), [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Manoeuvres agiles](./Manoeuvres-agiles.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md), [Vigilance](./Vigilance.md)}
-{s:BDtexte|**Compétences** [Bluff](./Bluff.md) +23, [Connaissances](./Connaissances.md) (nature) +22, [Déguisement](./Déguisement.md) +23, [Diplomatie](./Diplomatie.md) +23, [Discrétion](./Discrétion.md) +26, [Perception](./Perception.md) +27, [Psychologie](./Psychologie.md) +27, [Vol](./Vol.md) +30}
+{s:BDtexte|**Dons** [[Arme de prédilection]] (rapière), [[Attaque en finesse]], [[Attaque en vol]], [[Attaques réflexes]], [[Esquive]], [[Manoeuvres agiles]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]], [[Vigilance]]}
+{s:BDtexte|**Compétences** [[Bluff]] +23, [[Connaissances]] (nature) +22, [[Déguisement]] +23, [[Diplomatie]] +23, [[Discrétion]] +26, [[Perception]] +27, [[Psychologie]] +27, [[Vol]] +30}
 {s:BDtexte|**Langues** commun, polyglotte, sylvestre}
-{s:BDtexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (*[modification d’apparence](./Modification dapparence.md)*, humanoïde de taille M)}
+{s:BDtexte|**Particularités** [[Changement de forme (capacité)|changement de forme]] (*[[modification dapparence|modification d’apparence]]*, humanoïde de taille M)}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** littoraux chauds ou tempérés ou forêts chaudes ou tempérées}
 {s:BDtexte|**Organisation sociale** solitaire, couple ou racaille (3-6)}
 {s:BDtexte|**Trésor** standard}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Malice (Sur).** Le larabai peut canaliser son énergie magique à travers l’arme à une main qu’il utilise, quelle qu’elle soit, afin de mystifier et désorienter ses adversaires. Les créatures touchées par cette arme doivent réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 21 ou subir un [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1 point de [Dextérité](./Dextérité.md) et se trouver [confuses](./Confus.md) pendant 1d6 [rounds](./round.md). Le DD du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).}
-{s:BDtexte|**Regard déroutant (Sur).** Trois fois par jour, par une [action simple](./Action simple.md), le larabai peut utiliser son regard déroutant sous forme d’attaque de regard dans un cône de 9 mètres. Les créatures qui ratent un jet de [Volonté](./Volonté.md) [DD](./DD.md) 21 sont [hébétées](./Hébété.md) pendant 1d4 [rounds](./round.md). Les créatures qui réussissent sont seulement [éblouies](./Ébloui.md) pendant 1 round. Le DD du jet de sauvegarde est basé sur le Charisme]].}
+{s:BDtexte|**Malice (Sur).** Le larabai peut canaliser son énergie magique à travers l’arme à une main qu’il utilise, quelle qu’elle soit, afin de mystifier et désorienter ses adversaires. Les créatures touchées par cette arme doivent réussir un jet de [[Volonté]] [[DD]] 21 ou subir un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1 point de [[Dextérité]] et se trouver [[confus|confuses]] pendant 1d6 [[round|rounds]]. Le DD du jet de sauvegarde est basé sur le [[Charisme]].}
+{s:BDtexte|**Regard déroutant (Sur).** Trois fois par jour, par une [[action simple]], le larabai peut utiliser son regard déroutant sous forme d’attaque de regard dans un cône de 9 mètres. Les créatures qui ratent un jet de [[Volonté]] [[DD]] 21 sont [[hébété|hébétées]] pendant 1d4 [[round|rounds]]. Les créatures qui réussissent sont seulement [[ébloui|éblouies]] pendant 1 round. Le DD du jet de sauvegarde est basé sur le Charisme]].}
 </div>
 </td>
 <td>

@@ -15,22 +15,22 @@ Categories:
 
 **(Source: Heroes of the streets)**
 
-**Ecole** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Cham](./Chaman.md) 2, [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [rôdeur](./Rôdeur.md) 2, [Sor](./Sorcière.md) 2  
+**Ecole** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[chaman|Cham]] 2, [[druide|Dru]] 2, [[ensorceleur|Ens]]/[[magicien|Mag]] 2, [[rôdeur]] 2, [[sorcière|Sor]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V,G](./composantes.md)  
+**Composantes** [[composantes|V,G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** Un compagnon animal/familier/esprit animal consentant  
 
 **Durée** 8 heures  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) annule(inoffensif) ; **Résistance à la magie** oui(inoffensif)  
+**Jet de sauvegarde** [[Vigueur]] annule(inoffensif) ; **Résistance à la magie** oui(inoffensif)  
 
 
-Vous transformez la cible en un animal inoffensif présentant approximativement le même type de corps. La forme obtenue doit être une forme considérée comme acceptable par les communautés locales comme un chat, un chien, un faucon de chasse, un cheval ou un rat. Cette transformation peut réduire la cible de 2 catégories de taille maximum mais ne peut pas rendre un animal plus petit que la taille TP. Ce sort ne peut pas augmenter la taille de la cible ou lui donner de nouvelles attaques naturelles ou d'autres formes de déplacement. Ce sort fonctionne sinon comme *[forme bestiale II](./Forme bestiale II.md)*.
+Vous transformez la cible en un animal inoffensif présentant approximativement le même type de corps. La forme obtenue doit être une forme considérée comme acceptable par les communautés locales comme un chat, un chien, un faucon de chasse, un cheval ou un rat. Cette transformation peut réduire la cible de 2 catégories de taille maximum mais ne peut pas rendre un animal plus petit que la taille TP. Ce sort ne peut pas augmenter la taille de la cible ou lui donner de nouvelles attaques naturelles ou d'autres formes de déplacement. Ce sort fonctionne sinon comme *[[forme bestiale II]]*.
 
 (((Harmless Form
 

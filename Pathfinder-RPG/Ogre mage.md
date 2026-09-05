@@ -14,11 +14,11 @@ Categories:
 {s:pucem|Extérieur|Collines|Froid}
 {s:BDTexte|*Source : Bestiaire* p.232}
 {s:BDTexte|**PX** 4.800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([géant](./sous-type géant.md), [métamorphe](./sous-type métamorphe.md), [natif](./sous-type natif.md), [oni](./sous-type oni.md)) de taille G, LM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type géant|géant]], [[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]], [[sous-type oni|oni]]) de taille G, LM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 12, pris au dépourvu 18 (armure +4, Dex +3, naturelle +5, taille -1)}
-{s:BDTexte|**pv** 92 (8d10+48) ; [régénération](./Régénération (capacité).md) 5 (feu ou acide)}
+{s:BDTexte|**pv** 92 (8d10+48) ; [[Régénération (capacité)|régénération]] 5 (feu ou acide)}
 {s:BDTexte|**Réf** +5, **Vig** +12, **Vol** +10}
 {s:BDTexte|**RM** 19 }
 {s:BDSousTitre|Attaque}
@@ -27,23 +27,23 @@ Categories:
 {s:BDTexte|**Distance** arc long composite, +10 (2d6+7)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9<sup>e</sup>)}
-{s:BDSorts|Constant — *[vol](./sort Vol.md)*}
-{s:BDSorts|À volonté — *[invisibilité](./Invisibilité.md)*, *[ténèbres](./Ténèbres.md)*}
-{s:BDSorts|1/jour — *[charme-monstre](./Charme-monstre.md)* (DD 17), *[cône de froid](./Cône de froid.md)* (DD 18), *[état gazeux](./État gazeux.md)*, *[sommeil profond](./Sommeil profond.md)* (DD 16)}
+{s:BDSorts|Constant — *[[sort vol|vol]]*}
+{s:BDSorts|À volonté — *[[invisibilité]]*, *[[ténèbres]]*}
+{s:BDSorts|1/jour — *[[charme-monstre]]* (DD 17), *[[cône de froid]]* (DD 18), *[[état gazeux]]*, *[[sommeil profond]]* (DD 16)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 17, **Con** 23, **Int** 14, **Sag** 14, **Cha** 17}
 {s:BDTexte|**BBA** +8, **BMO** +16, **DMD** 29}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Expertise du combat](./Expertise du combat.md), [Science de l'initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +13, [Bluff](./Bluff.md) +14, [Connaissances](./Connaissances.md) (mystères) +13, [Déguisement](./Déguisement.md) +14, [Intimidation](./Intimidation.md) +14, [Perception](./Perception.md) +13, [Psychologie](./Psychologie.md) +13, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +14, [Vol](./Vol.md) +5}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Expertise du combat]], [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +13, [[Bluff]] +14, [[Connaissances]] (mystères) +13, [[Déguisement]] +14, [[Intimidation]] +14, [[Perception]] +13, [[Psychologie]] +13, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +14, [[Vol]] +5}
 {s:BDTexte|**Langues** commun, géant}
-{s:BDTexte|**Particularités** changement de forme ([humanoïde](./type Humanoïde.md) de taille P, M ou G; *[modification d'apparence](./Modification dapparence.md)* ou *[forme de géant I](./Forme de géant I.md)*), [vol](./Vol (capacité).md)}
+{s:BDTexte|**Particularités** changement de forme ([[type humanoïde|humanoïde]] de taille P, M ou G; *[[modification dapparence|modification d'apparence]]* ou *[[forme de géant I]]*), [[vol (capacité)|vol]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines froides}
-{s:BDTexte|**Organisation sociale** solitaire, couple ou patrouille (1-2 plus 2-4 [ogres](./Ogre.md))}
-{s:BDTexte|**Trésor** double (chemise de mailles, épée à 2 mains, arc long composite <nowiki>[</nowiki>For +7<nowiki>]</nowiki> avec 20 flèches, autres trésors)}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou patrouille (1-2 plus 2-4 [[ogre|ogres]])}
+{s:BDTexte|**Trésor** double (chemise de mailles, épée à 2 mains, arc long composite <nowiki>[[</nowiki>For +7<nowiki>]]</nowiki> avec 20 flèches, autres trésors)}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Oni](./Oni.md).***</li></ul>''Ce géant paré d’habits exotiques et d’une armure splendide rugit. Ses crocs
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[oni]].***</li></ul>''Ce géant paré d’habits exotiques et d’une armure splendide rugit. Ses crocs
 brillent et ses intentions meurtrières luisant dans ses yeux.''
 
 Comme tous les onis, l’ogre mage est un esprit maléfique qui

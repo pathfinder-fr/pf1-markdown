@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Maîtrise
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Maîtrise](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Maîtrise)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Maîtrise]]

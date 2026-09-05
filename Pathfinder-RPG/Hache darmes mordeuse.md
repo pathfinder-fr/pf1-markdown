@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Hache d'armes mordeuse|{s:AE}}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 8 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Poids** 3 kg
+**Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Poids** 3 kg
 (((Description)))
-Cette [hache d'armes](./Hache darmes (arme).md) +2 à l’air vicieuse accorde le don [Succession d’enchaînements](./Succession denchaînements.md) à son propriétaire mais, quand il l’utilise, il fait une attaque supplémentaire sur une créature adjacente aléatoire et non contre un ennemi de son choix. Le possesseur de la *hache d’armes mordeuse* compte au nombre des cibles possibles, même s’il n’est pas adjacent à son adversaire. Il la choisit toujours pour se battre et utilise la [Succession d’enchaînements](./Succession denchaînements.md) à chaque fois qu’il en a l’occasion jusqu’à ce qu’on lui lance *[délivrance des malédictions](./Délivrance des malédictions.md)* ou un autre effet similaire.
+Cette [[hache darmes (arme)|hache d'armes]] +2 à l’air vicieuse accorde le don [[Succession denchaînements|Succession d’enchaînements]] à son propriétaire mais, quand il l’utilise, il fait une attaque supplémentaire sur une créature adjacente aléatoire et non contre un ennemi de son choix. Le possesseur de la *hache d’armes mordeuse* compte au nombre des cibles possibles, même s’il n’est pas adjacent à son adversaire. Il la choisit toujours pour se battre et utilise la [[Succession denchaînements|Succession d’enchaînements]] à chaque fois qu’il en a l’occasion jusqu’à ce qu’on lui lance *[[délivrance des malédictions]]* ou un autre effet similaire.
 (((Objet magique prévu)))
-[hache d'armes](./Hache darmes (arme).md) +2
+[[hache darmes (arme)|hache d'armes]] +2
 </div>

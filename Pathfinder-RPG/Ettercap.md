@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.133*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille M, NM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Aberration|Aberration]] de taille M, NM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 12 (Dex +3, naturelle +2)}
 {s:BDTexte|**pv** 30 (4d8+12)}
@@ -23,25 +23,25 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +5 (1d6+2 et poison) et 2 griffes, +5 (1d4+2)}
-{s:BDTexte|**Attaques spéciales** pièges, [toile](./Toile.md) (+6 à distance, DD 15, pv 4)}
+{s:BDTexte|**Attaques spéciales** pièges, [[toile]] (+6 à distance, DD 15, pv 4)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 17, **Con** 17, **Int** 6, **Sag** 15, **Cha** 8}
 {s:BDTexte|**BBA** +3, **BMO** +5, **DMD** 18}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (pièges) +8, [Discrétion](./Discrétion.md) +7, [Escalade](./Escalade.md) +14, [Perception](./Perception.md) +9 ; **Modificateurs raciaux** [Artisanat](./Artisanat.md) (pièges) +8}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (pièges) +8, [[Discrétion]] +7, [[Escalade]] +14, [[Perception]] +9 ; **Modificateurs raciaux** [[Artisanat]] (pièges) +8}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** empathie avec les araignées +7}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
-{s:BDTexte|**Organisation sociale** solitaire, couple ou nid (3-6 et 2-8 [araignées géantes](./Araignée géante.md))}
+{s:BDTexte|**Organisation sociale** solitaire, couple ou nid (3-6 et 2-8 [[araignée géante|araignées géantes]])}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Empathie avec les araignées (Ext).** Cette capacité fonctionne comme l'[empathie sauvage](./empathie sauvage.md) des [druides](./Druide.md), si ce n'est qu'un ettercap ne peut l'utiliser que sur les araignées. Les ettercaps bénéficient d'un bonus racial de +4 sur les tests correspondants. Les araignées sont dépourvues d'intellect mais cette communication empathique leur donne une étincelle d'intelligence suffisante pour que les ettercaps puissent former des [araignées géantes](./Araignée géante.md) à la surveillance.}
-{s:BDTexte|**Pièges (Ext).** Les ettercaps sont particulièrement doués pour créer des pièges astucieux à l'aide de leurs toiles. Le plus souvent, ils fabriquent des collets, des pièges à écrasement ou des pièges à lance. Les ettercaps n'ont pas besoin d'or pour construire leurs pièges, seulement de temps. Pour plus de détails, voir la section "[conception des pièges](./Conception de pièges.md)".}
-{s:BDTexte|:**Collet d'ettercap** : FP 1 ; *Type* mécanique ; *Perception* [DD](./DD.md) 20; *Désamorçage* [DD](./DD.md) 20 ; *Déclencheur* espace ; *Remise en place* réparation ; *Effet* test de **[BMO](./BMO.md)** +15 ([agripper](./Agrippé.md)).}
-{s:BDTexte|:**Piège à écrasement d'ettercap** : FP 3 ; *Type* mécanique ; *Perception* [DD](./DD.md) 20; *Désamorçage* [DD](./DD.md) 20; *Déclencheur* espace ; *Remise en place* réparation ; *Effet* attaque au corps à corps +10 (4d6), cibles multiples (toutes les cibles dans un carré de 3 m (2 {s:c}) de côté).}
-{s:BDTexte|:**Piège à lance d'ettercap** : FP 2; *Type* mécanique ; *Perception* [DD](./DD.md) 20; *Désamorçage* [DD](./DD.md) 20 ; *Déclencheur* espace ; *Remise en place* réparation ; *Effet* attaque au corps à corps +15 (1d6+6).}
-{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 15 ; *fréquence* 1/round pendant 10 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [Dex](./Dextérité.md); *guérison* 2 réussites consécutives. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Empathie avec les araignées (Ext).** Cette capacité fonctionne comme l'[[empathie sauvage]] des [[druide|druides]], si ce n'est qu'un ettercap ne peut l'utiliser que sur les araignées. Les ettercaps bénéficient d'un bonus racial de +4 sur les tests correspondants. Les araignées sont dépourvues d'intellect mais cette communication empathique leur donne une étincelle d'intelligence suffisante pour que les ettercaps puissent former des [[araignée géante|araignées géantes]] à la surveillance.}
+{s:BDTexte|**Pièges (Ext).** Les ettercaps sont particulièrement doués pour créer des pièges astucieux à l'aide de leurs toiles. Le plus souvent, ils fabriquent des collets, des pièges à écrasement ou des pièges à lance. Les ettercaps n'ont pas besoin d'or pour construire leurs pièges, seulement de temps. Pour plus de détails, voir la section "[[Conception de pièges|conception des pièges]]".}
+{s:BDTexte|:**Collet d'ettercap** : FP 1 ; *Type* mécanique ; *Perception* [[DD]] 20; *Désamorçage* [[DD]] 20 ; *Déclencheur* espace ; *Remise en place* réparation ; *Effet* test de **[[BMO]]** +15 ([[agrippé|agripper]]).}
+{s:BDTexte|:**Piège à écrasement d'ettercap** : FP 3 ; *Type* mécanique ; *Perception* [[DD]] 20; *Désamorçage* [[DD]] 20; *Déclencheur* espace ; *Remise en place* réparation ; *Effet* attaque au corps à corps +10 (4d6), cibles multiples (toutes les cibles dans un carré de 3 m (2 {s:c}) de côté).}
+{s:BDTexte|:**Piège à lance d'ettercap** : FP 2; *Type* mécanique ; *Perception* [[DD]] 20; *Désamorçage* [[DD]] 20 ; *Déclencheur* espace ; *Remise en place* réparation ; *Effet* attaque au corps à corps +15 (1d6+6).}
+{s:BDTexte|**Poison (Ext)** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 15 ; *fréquence* 1/round pendant 10 rounds ; *effet* [[affaiblissement temporaire]] 1d2 [[Dextérité|Dex]]; *guérison* 2 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>*Cette horrible créature pourpre marche debout comme un homme mais elle a le visage d’une araignée et des griffes en forme de serpe.*
 

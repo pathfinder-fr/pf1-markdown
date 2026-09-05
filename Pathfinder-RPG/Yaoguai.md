@@ -10,7 +10,7 @@ LastModified: 2017-01-19 14:32
 {s:pucem|Créature magique|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 289*}
 - **3 200 PX**
-- [Créature magique](./type Créature magique.md) de taille TG, N
+- [[type créature magique|Créature magique]] de taille TG, N
 - **Init **+0 ; Sens vision dans le noir 18 m, vision nocturne ; Perception +7
 (((Défense)))
 - **CA **18, contact 8, pris au dépourvu 18 (naturelle +10, taille -2)
@@ -26,8 +26,8 @@ LastModified: 2017-01-19 14:32
 (((Statistiques)))
 - **For **23, **Dex **10, **Con **21, **Int **2, **Sag **11, **Cha **8
 - **BBA **+8 ; **BMO **+16 ; **DMD **26
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Combat en aveugle](./Combat en aveugle.md), [Enchaînement](./Enchaînement.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Escalade](./Escalade.md) +11, [Natation](./Natation.md) +11, [Perception](./Perception.md) +7
+- **Dons **[[Attaque en puissance]], [[Combat en aveugle]], [[Enchaînement]], [[Volonté de fer]]
+- **Compétences **[[Escalade]] +11, [[Natation]] +11, [[Perception]] +7
 - **Particularités **don du créateur (étreinte et constriction)
 (((Écologie)))
 - **Environnement **terre ferme

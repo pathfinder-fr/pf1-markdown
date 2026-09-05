@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 10 po ; **Poids** 1 kg ; **Groupes** [lames légères](./groupe darmes.md#Lameslégères)
+{s:AE}**Prix** 10 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Lameslégères|lames légères]]
 **Dégâts** 1d4 (P), 1d6 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
-Ces épées font partie des armes que l’on trouve le plus couramment dans les sociétés martiales et, de ce fait, elles présentent des formes très variées qui dépendent de leur région et de leur créateur. La plupart mesurent environ 60 centimètres de long. Leur lame peut être incurvée ou droite, à simple ou double tranchant, large ou mince. Elle peut avoir une garde ornée ou simple, avec des quillons en croix, une garde en corbeille, comme elle peut ne pas avoir de garde du tout. Ces armes sont souvent utilisées seules mais peuvent également être couplées ou associées à une [dague](./dague (arme).md) ou à une épée plus longue.
+Ces épées font partie des armes que l’on trouve le plus couramment dans les sociétés martiales et, de ce fait, elles présentent des formes très variées qui dépendent de leur région et de leur créateur. La plupart mesurent environ 60 centimètres de long. Leur lame peut être incurvée ou droite, à simple ou double tranchant, large ou mince. Elle peut avoir une garde ornée ou simple, avec des quillons en croix, une garde en corbeille, comme elle peut ne pas avoir de garde du tout. Ces armes sont souvent utilisées seules mais peuvent également être couplées ou associées à une [[dague (arme)|dague]] ou à une épée plus longue.

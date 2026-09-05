@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous pouvez apprendre rapidement, mais vous ne retenez pas toujours longtemps ce que vous apprenez.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Int](./Int.md) 13, capacité de classe [courage +3](./Guerrier.md#COURAGE), [guerrier](./Guerrier.md) de niveau 10
+**Conditions.** [[Int]] 13, capacité de classe [[Guerrier#COURAGE|courage +3]], [[guerrier]] de niveau 10
 
 **Avantages.** Une fois par jour, le personnage peut s'entraîner avec quelqu'un qui possède un don de combat qu'il ne possède pas pour l'obtenir. Le personnage doit s'entraîner avec cette personne pendant 8 heures et doit remplir les conditions du don pour l'obtenir de cette façon. Il gagne le don en question jusqu'à ce qu'il en apprenne un autre grâce à ce don.

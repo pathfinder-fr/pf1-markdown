@@ -9,12 +9,12 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bâton des eidolons|}
-**Aura** [Transmutation](./Transmutation.md) et [Invocation](./Invocation.md) modérées ; **NLS** 8 ; **Emplacement** aucun ([bâton](./Bâtons magiques.md)) ; **Prix** 14 400 po ; **Poids** 2,5 kg
+**Aura** [[Transmutation]] et [[Invocation]] modérées ; **NLS** 8 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 14 400 po ; **Poids** 2,5 kg
 (((Description)))
 Ce bâton crochu est taillé dans l’acajou et orné d’ossements d’eidolons sortant du bois. Il permet d’utiliser les sorts suivants.
-• *[Régénération d’eidolon mineure](./Régénération deidolon mineure.md)* (1 charge)
-• *[Libération](./Libération.md)* (1 charge)
-• *[Évolution mineure](./Évolution mineure.md)* (2 charges)
+• *[[Régénération deidolon mineure|Régénération d’eidolon mineure]]* (1 charge)
+• *[[Libération]]* (1 charge)
+• *[[Évolution mineure]]* (2 charges)
 (((Création)))
-**Conditions** [Création de bâtons magiques](./Création de bâtons magiques.md), *[évolution mineure](./Évolution mineure.md)*, *[régénération d’eidolon mineure](./Régénération deidolon mineure.md)*, *[libération](./Libération.md)*; **Coût** 7 200 po
+**Conditions** [[Création de bâtons magiques]], *[[évolution mineure]]*, *[[régénération deidolon mineure|régénération d’eidolon mineure]]*, *[[libération]]*; **Coût** 7 200 po
 </div>

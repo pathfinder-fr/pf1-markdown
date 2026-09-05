@@ -9,6 +9,6 @@ Categories:
 
 {s:cm}*Le personnage profite de son côté impitoyable et malveillant pour obliger les autres races de gobelinoïdes à lui obéir.*
 
-**Conditions.** [Cha](./Cha.md) 13, [hobgobelin](./Hobgobelin (race).md)
+**Conditions.** [[Cha]] 13, [[Hobgobelin (race)|hobgobelin]]
 
-**Avantages.** Le personnage reçoit un bonus de compétence de +5 aux tests de [Connaissances](./Connaissances.md) (folklore local) et aux tests de compétence basés sur le [Charisme](./Charisme.md) vis-à-vis des autres gobelinoïdes. Si le personnage dispose du don [Prestige](./Prestige.md), il considère qu’il a 2 points de prestige de plus qu’en réalité quand il s’agit de prendre des suivants ou des compagnons d’armes de sous-type gobelinoïde.
+**Avantages.** Le personnage reçoit un bonus de compétence de +5 aux tests de [[Connaissances]] (folklore local) et aux tests de compétence basés sur le [[Charisme]] vis-à-vis des autres gobelinoïdes. Si le personnage dispose du don [[Prestige]], il considère qu’il a 2 points de prestige de plus qu’en réalité quand il s’agit de prendre des suivants ou des compagnons d’armes de sous-type gobelinoïde.

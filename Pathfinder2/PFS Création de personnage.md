@@ -21,8 +21,8 @@ Des feuilles de personnage vierges peuvent être téléchargées sur la page [<u
 [<u>Couleur</u>](https://paizo.s3-us-west-2.amazonaws.com/PZO2101-CharacterSheet-Color.pdf)
 
 Des applications de création de feuilles de personnage sont disponibles via les liens suivants:\
-[https://play.google.com/store/apps/details?id=com.redrazors.pathbuilder2e&hl=en_US|*Pathbuilder*]
-[https://www.lonewolfdevel.com/Products/Hero-Lab-Online|*Hero Lab*]
+[*Pathbuilder*](https://play.google.com/store/apps/details?id=com.redrazors.pathbuilder2e&hl=en_US)
+[*Hero Lab*](https://www.lonewolfdevel.com/Products/Hero-Lab-Online)
 
 NdT : Plusieurs versions traduites sont disponibles [<u>ici</u>](https://www.pathfinder-fr.org/Wiki/Ressources.Pathfinder2.ashx?NoRedirect=1&NS=Ressources)
 
@@ -54,13 +54,13 @@ Parfois, il est très amusant de jouer un personnage avec une pénalité majeure
 Le choix d'ascendance suit les règles du *Livre de Base*, avec de légers changements pour s'adapter aux langues parlées sur Golarion. Les demi-elfes ou demi-orcs non-humains ne sont pas autorisés. Sous réserve de posséder les livres correspondants, les joueurs ont aussi accès aux ascendances suivantes :
 - Léshis (Guide des personnages des prédictions perdues / *Lost Omens Character Guide*)
 - Aasimars, Changelins, Kobolds, Orc, Hommes-rats, Tengus, Tieffelins  (Guide des joueurs Règles avancées / *Advanced Player Guide*)
-Les autres ascendances peuvent être accessibles en utilisant des [Points d'Accomplissement](./PFSP2-Bases-Campagne-Organisée.md#ACHIEVEMENT_POINTS).
+Les autres ascendances peuvent être accessibles en utilisant des [[PFSP2 Bases Campagne Organisée#ACHIEVEMENT_POINTS|Points d'Accomplissement]].
 
 ##### Ascendances peu communes
 Étant donné que votre ascendance est l'une des premiers éléments que vous choisissez pour votre personnage, et qu'il n'est pas possible de modifier votre ascendance comme vous pourriez le faire pour d'autres options, le seul moyen de sélectionner des ascendances peu communes ou plus rares est d'utiliser un 'boon' qui vous permet de créer un nouveau personnage de cette ascendance.
 
 ##### Région d'origine
-A cette étape, vous devriez aussi choisir la région d'où est originaire votre personnage (*Livre de Base* pages 420-429), et dans le cas des humains, son ethnie (*Livre de Base* pages 430-431). Choisissez une contrée (comme la Varisie ou le Taldor). Vous êtes considéré comme un citoyen de cette nation. Vous êtes considéré comme issu de cette nation et plus largement de la région dans laquelle elle se situe en ce qui concerne les pré-requis et [|Conditions d'Accès](./|Conditions-d'Accès.md) des options de personnage peu communes (par exemple les Terres des Sagas pour la Varisie ou les Royaumes Étincelants pour le Taldor). Il y a plus de détails sur les nations de Golarion dans le Guide du Monde des Prédictions Perdues (*Lost Omens World Guide*).
+A cette étape, vous devriez aussi choisir la région d'où est originaire votre personnage (*Livre de Base* pages 420-429), et dans le cas des humains, son ethnie (*Livre de Base* pages 430-431). Choisissez une contrée (comme la Varisie ou le Taldor). Vous êtes considéré comme un citoyen de cette nation. Vous êtes considéré comme issu de cette nation et plus largement de la région dans laquelle elle se situe en ce qui concerne les pré-requis et [[|Conditions d'Accès]] des options de personnage peu communes (par exemple les Terres des Sagas pour la Varisie ou les Royaumes Étincelants pour le Taldor). Il y a plus de détails sur les nations de Golarion dans le Guide du Monde des Prédictions Perdues (*Lost Omens World Guide*).
 
 ##### Langues
 Tous les membres de la Société des Éclaireurs sont lettrés et parlent la langue commune (le taldorien) en plus des langues conférées par leur ascendance. Tous les personnages de Pathfinder Society ont accès aux langues ordinaires et aux langues régionales peu communes modernes (*Livre de Base* page 432). Tous les personnages de Pathfinder Society ont droit à une langue régionale additionnelle.
@@ -84,7 +84,7 @@ La campagne Pathfinder Society suit les règles standards pour les détails des 
 
 #### 8. Achetez de l'équipement
 
-Tous les personnages de Pathfinder Society commencent avec 15 PO, qu'ils peuvent dépenser pour obtenir leur équipement de départ. Le chapitre 6 du *Livre de Base* contient un large choix d'équipement de départ. Page 289, il y a des kits de classe : un choix d'équipement préconstruit, adapté à chacune des classes de base. Vous pouvez aussi utiliser votre or pour acheter de l'équipement supplémentaire, en suivant les règles du [|Guide d'Achat](./|Guide-d'Achat.md).
+Tous les personnages de Pathfinder Society commencent avec 15 PO, qu'ils peuvent dépenser pour obtenir leur équipement de départ. Le chapitre 6 du *Livre de Base* contient un large choix d'équipement de départ. Page 289, il y a des kits de classe : un choix d'équipement préconstruit, adapté à chacune des classes de base. Vous pouvez aussi utiliser votre or pour acheter de l'équipement supplémentaire, en suivant les règles du [[|Guide d'Achat]].
 
 #### 9. Calculez vos modificateurs
 
@@ -110,7 +110,7 @@ Les personnages doivent au moins être de jeunes adultes pour être acceptés da
 
 ##### Autres détails
 
-Les aventures Pathfinder Society commencent toujours par la présentation des personnages. Pensez-donc à prendre quelques notes sur l'apparence, la personnalité et les pronoms du vôtre pour les partager aux autres joueurs. Le [|Monde de Golarion](./|Monde-de-Golarion.md) et le *Guides des Personnages des Prédictions Perdues* regorgent d'informations sur le contexte de la campagne et que vous pouvez utiliser.
+Les aventures Pathfinder Society commencent toujours par la présentation des personnages. Pensez-donc à prendre quelques notes sur l'apparence, la personnalité et les pronoms du vôtre pour les partager aux autres joueurs. Le [[|Monde de Golarion]] et le *Guides des Personnages des Prédictions Perdues* regorgent d'informations sur le contexte de la campagne et que vous pouvez utiliser.
 
 Pathfinder utilise des tapis quadrillées avec des cases de 1 pouce de côté pour déterminer les déplacements et les positionnements tactiques lors des combats. Ainsi, vous aurez besoin de quelque chose qui représente physiquement votre personnage pour ces phases de jeu. Pathfinder édite un large choix de Pions Pathfinder et collabore avec Reaper Miniatures et Wizkids pour proposer un vaste choix de figurines de jeu. Ainsi vous pourrez trouver la figurine qui correspond à votre personnage.
 
@@ -120,8 +120,8 @@ Pour le jeu numérique, il faut un fichier image. Demandez à votre MJ ses préf
 
 Pendant leur formation, les Pathfinders initiés atteigne un certain niveau de maîtrise et de connaissances. Afin de représenter cela, tous les personnage commencent par défaut avec une compétence bonus dans laquelle ils sont qualifiés : Connaissance de la Société des Éclaireurs. Si leur historique leur confère déjà cette compétence, ils peuvent choisir entre Connaissance des Universités et Connaissance du Métier d'Éclaireur.
 
-Les agents passent plus ou moins de temps en formation à l'Académie. Cela est représenté par les options supplémentaires d'[|Écoles](./|Écoles.md) dans Options de Personnage Supplémentaires.
+Les agents passent plus ou moins de temps en formation à l'Académie. Cela est représenté par les options supplémentaires d'[[|Écoles]] dans Options de Personnage Supplémentaires.
 
 
 
-[Retour à la page PFS pour Pathfinder 2](./PFS.md)
+[[PFS|Retour à la page PFS pour Pathfinder 2]]

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AO}**Prix** 2 pa ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
 Un jeton de représentation a très souvent l'aspect d'une pièce, et c'est un petit souvenir remis par les artistes de scène avant leur spectacle ou que l'on distribue comme droit d'entrée aux représentations privées. Des jetons similaires sont utilisés par les médiums comme carte de visite qu'ils distribuent avant de procéder à leurs séances de spiritisme.

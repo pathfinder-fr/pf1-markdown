@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 30 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
-<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
 ---
-L’application de ce baume aux plantes sur une blessure hémorragique soigne d’un [point de vie](./pv.md) et annule les dégâts supplémentaires de [saignement](./Saignement.md) pendant 1 heure par application. Après une heure, si l’effet de saignement n’a pas été correctement traité, la blessure recommence à saigner et il faut y appliquer davantage de baume. Bien que le baume coagulant puisse être appliqué plusieurs fois de suite sur une même blessure, l’application de doses multiples ne permet pas de soigner de dégâts supplémentaires.
+L’application de ce baume aux plantes sur une blessure hémorragique soigne d’un [[pv|point de vie]] et annule les dégâts supplémentaires de [[saignement]] pendant 1 heure par application. Après une heure, si l’effet de saignement n’a pas été correctement traité, la blessure recommence à saigner et il faut y appliquer davantage de baume. Bien que le baume coagulant puisse être appliqué plusieurs fois de suite sur une même blessure, l’application de doses multiples ne permet pas de soigner de dégâts supplémentaires.

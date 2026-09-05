@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Les effets des représentations bardiques du personnage se prolongent, même après qu’il a cessé de jouer.*
 
-**Condition. **Aptitude de classe de [représentation bardique](./représentation bardique.md).
+**Condition. **Aptitude de classe de [[représentation bardique]].
 
 **Avantage.** Les bonus et pénalités découlant des représentations bardiques du personnage persistent pendant 2 rounds après qu’il a cessé de jouer. Les autres conditions (comme la portée ou les conditions spécifiques) doivent encore être remplies pour que l’effet continue. Si le personnage entame une nouvelle représentation bardique pendant cette période, les effets de la représentation précédente cessent immédiatement.

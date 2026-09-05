@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.135*}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 3 (1d8-1)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 15, **Con** 8, **Int** 2, **Sag** 12, **Cha** 7}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6 (10 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +6, [Perception](./Perception.md) +5 ; **Modificateurs raciaux** [Escalade](./Escalade.md) +4, [Discrétion](./Discrétion.md) +4}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +14, [[Escalade]] +6, [[Perception]] +5 ; **Modificateurs raciaux** [[Escalade]] +4, [[Discrétion]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérées ou chaudes ou ville}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-12)}

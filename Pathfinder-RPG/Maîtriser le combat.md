@@ -10,26 +10,26 @@ Categories:
 {s:uc}<div style="float: right; margin-left: 20px; margin-bottom: 20px; "><nav class="wiki-toc"></nav></div>
 <div style="float: left; margin-right: 20px; margin-bottom: 10px;" class="presentation recentre">
 <h2 class="separator"><div style="float: right; margin-top: -4px;">{s:uc}</div>Maîtriser le combat</h2>
-<ul><li>[Introduction](./Maîtriser le combat.md)</li>
+<ul><li>[[Maîtriser le combat|Introduction]]</li>
 <li>Armures orientales
 <ul>
-<li>[Tableau récapitulatif des armures orientales](./Tableau-récapitulatif-des-armures-orientales.md)</li> page à supprimer
-<li>[Description des armures orientales](./Description-des-armures-orientales.md)</li>
+<li>[[Tableau récapitulatif des armures orientales]]</li> page à supprimer
+<li>[[Description des armures orientales]]</li>
 </ul>
 </li>
-<li>[Armes orientales](./Armes orientales.md)
-<ul><li>[Tableau récapitulatif](./Tableau-récapitulatif-des-armes-orientales.md)</li>
-<li>[Descriptions](./Description-des-armes-orientales.md)</li></ul></li>
-<li>[Armes à feu](./Armes à feu.md)
-<ul><li>[Tableau récapitulatif](./Tableau récapitulatif des armes à feu.md)</li>
-<li>[Descriptions](./Description-des-armes-à-feu.md)</li></ul></li>
-<li>[Armes de gladiateur](./Armes-de-gladiateur.md)
-<ul><li>[Tableau récapitulatif](./Tableau-récapitulatif-des-armes-de-gladiateur.md)</li>
-<li>[Descriptions](./Description-des-armes-de-gladiateur.md)</li></ul></li>
-<li>[Armes et armures primitives](./Armes et armures primitives.md)</li>
-<li>[Duels](./Duels.md)</li>
-<li>[Combat de spectacle](./Combat de spectacle.md)</li>
-<li>[Engins de siège](./Engins de siège.md)</li></ul></div>
+<li>[[Armes orientales]]
+<ul><li>[[Tableau récapitulatif des armes orientales|Tableau récapitulatif]]</li>
+<li>[[Description des armes orientales|Descriptions]]</li></ul></li>
+<li>[[Armes à feu]]
+<ul><li>[[Tableau récapitulatif des armes à feu|Tableau récapitulatif]]</li>
+<li>[[Description des armes à feu|Descriptions]]</li></ul></li>
+<li>[[Armes de gladiateur]]
+<ul><li>[[Tableau récapitulatif des armes de gladiateur|Tableau récapitulatif]]</li>
+<li>[[Description des armes de gladiateur|Descriptions]]</li></ul></li>
+<li>[[Armes et armures primitives]]</li>
+<li>[[Duels]]</li>
+<li>[[Combat de spectacle]]</li>
+<li>[[Engins de siège]]</li></ul></div>
 Combattre, ce n’est pas simplement brandir une épée
 sans se couper. Pour certains, c’est hélas le dernier recours
 pour atteindre un objectif quand toutes les autres solutions
@@ -38,11 +38,11 @@ Pour d’autres c’est une passion et un véritable mode de vie,
 un moyen de régler tous les problèmes et de prouver son
 courage en affrontant ses pairs et les habitants les plus
 robustes de ce monde où rien n’a de sens. Entre les mains
-d’un [guerrier](./Guerrier.md) talentueux, une épée est plus qu’une longue
+d’un [[guerrier]] talentueux, une épée est plus qu’une longue
 lame de fer aiguisée et même un gourdin n’est plus une
 simple branche brisée. Ces objets deviennent les instruments
 d’un art de qualité, parfois brutal, dont les pratiquants sont
-des artistes aussi doués que les plus grands [bardes](./Barde.md). Ces
+des artistes aussi doués que les plus grands [[barde|bardes]]. Ces
 adeptes des batailles disent parfois que leur art est le seul qui
 vaille vraiment le coup d’être exercé car l’artiste inspire le
 respect mais, surtout, il l’impose. Le combat est le plus vieux
@@ -66,7 +66,7 @@ habitants de l’Europe médiévale.
 
 Voici les sujets et sous-systèmes principaux de ce chapitre.
 
-#### [Armures](./Armures-orientales.md) et [armes](./Armes orientales.md) orientales
+#### [[Armures orientales|Armures]] et [[Armes orientales|armes]] orientales
 Les armes de la culture asiatique, de la Chine, du Japon,
 de la Corée, de l’Inde et des Philippines exercent une
 puissante attraction sur de nombreux joueurs de jeu de
@@ -78,8 +78,8 @@ de tous horizons, comme les traditions et la discipline qui
 accompagnent certains de ces objets.
 
 Cette partie commence par une présentation des
-[armures orientales](./Armures-orientales.md). Il existe peu d’images guerrières aussi
-marquantes que celle du [samouraï](./Samouraï.md) qui charge sur le champ
+[[Armures orientales]]. Il existe peu d’images guerrières aussi
+marquantes que celle du [[samouraï]] qui charge sur le champ
 de bataille en armure o-yoroi, le visage caché derrière son
 masque kabuto qui lui donne l’air d’une créature de légende
 ou de cauchemar. Mais les armures orientales ne se limitent
@@ -88,19 +88,19 @@ cérémonie en soie aux armures à quatre miroirs en passant
 par les lourds manteaux de pierre, cette partie propose un
 large choix de protections.
 
-Sont ensuite présentées de [nouvelles armes](./Armes orientales.md) originaires des
+Sont ensuite présentées de [[Armes orientales|nouvelles armes]] originaires des
 cultures mentionnées plus haut, dont beaucoup conviennent
-à merveille aux [moines](./Moine.md) et peuvent aussi servir aux autres
+à merveille aux [[moine|moines]] et peuvent aussi servir aux autres
 personnages. Ici, vous trouverez le légendaire katana et le
-wakizashi de l’honorable [samouraï](./Samouraï.md), les éventails de combat et
-le sable empoisonné des [assassins](./Assassin.md) et des [espions](./Maître espion.md) de la cour,
+wakizashi de l’honorable [[samouraï]], les éventails de combat et
+le sable empoisonné des [[assassin|assassins]] et des [[maître espion|espions]] de la cour,
 mais aussi les tonfas, simples mais rapides comme l’éclair,
 et les étranges urumis, mélange de fouet et d’épée dont les
 rubans de métal aiguisés sont assez flexibles pour s’enrouler
 et servir de ceinture.
 
 Les personnages ne sont pas obligés de choisir une classe
-d’inspiration asiatique (comme le [ninja](./Ninja.md) ou le [samouraï](./Samouraï.md)),
+d’inspiration asiatique (comme le [[ninja]] ou le [[samouraï]]),
 ni d’avoir un background inspiré de la fantasy orientale
 pour profiter de ce nouvel éventail de choix. Pour étoffer le
 background d’un personnage d’inspiration européenne et
@@ -122,7 +122,7 @@ défendre efficacement contre elle et une grande partie des
 nouvelles armes présentées ici ont un mode d’utilisation
 unique que les adversaires ne comprennent pas de suite.
 
-#### [Armes à feu](./Armes à feu.md)
+#### [[Armes à feu]]
 Les pistolets font partie des sujets les plus controversés
 des jeux de fantasy. Les opinions des joueurs et des MJ vont
 des traditionalistes invétérés qui refusent de manier une
@@ -132,7 +132,7 @@ furie, c’est de vider le chargeur de son fidèle pistolet dans sa
 chair verdâtre.
 
 Personne n’a tort. Il faut se montrer prudent quand
-on introduit les [armes à feu](./Armes à feu.md) dans une partie mais elles ne
+on introduit les [[armes à feu]] dans une partie mais elles ne
 déséquilibrent pas le jeu à elles seules. De plus, elles ne sont
 pas forcément anachroniques : les découvertes scientifiques
 sont souvent le résultat d’un coup de chance et rien ne dit
@@ -163,7 +163,7 @@ divers niveaux de technologie des armes à feu et de leur
 apparition dans la société, ainsi que des suggestions sur les
 armes les plus appropriées pour chaque niveau.
 
-#### [Armes de gladiateur](./Armes-de-gladiateur.md)
+#### [[Armes de gladiateur]]
 Ces armes inspirées des sports sanglants de la Rome
 antique ou d’ailleurs sont étranges et inhabituelles, elles
 conviennent donc parfaitement à ceux qui combattent dans
@@ -180,7 +180,7 @@ armes ajoutent une touche d’exotisme et réaniment le frisson
 de la découverte chez les guerriers les plus blasés, même ceux
 qui sont persuadés d’avoir déjà tout vu.
 
-#### [Armes et armures primitives](./Armes et armures primitives.md)
+#### [[Armes et armures primitives]]
 Tout le monde ne veut (ou ne peut) pas forger ses armes
 et son armure dans l’acier. Cette partie présente en détail
 les armes et les armures primitives, en commençant
@@ -193,7 +193,7 @@ avancées. Il y a les atlatls, des armes de jet qui permettent
 de lancer des fléchettes de la taille d’une javeline, et de
 longues massues hérissées de dents de requin appelées des
 terbutjes, étonnamment efficaces quand il s’agit de trancher
-chair et armure. Aucun [guerrier](./Guerrier.md) ne peut se permettre de
+chair et armure. Aucun [[guerrier]] ne peut se permettre de
 sous-estimer ces armes soi-disant « primitives » quand il
 s’aventure sur des terres sauvages et les joueurs peuvent
 tout à fait estimer qu’elles conviennent à merveille à de
@@ -201,11 +201,11 @@ courageux combattants originaires d’un environnement
 primitif ou à des personnages qui rejettent activement les
 attributs de la société moderne.
 
-#### [Duels](./Duels.md)
+#### [[Duels]]
 Les combats pour l’honneur font partie des traditions
 séculaires de nombreuses cultures, qu’il s’agisse des
 joutes inoffensives des étudiants et des riches nobles ou
-de défis bien plus dangereux que se lancent les [guerriers](./Guerrier.md)
+de défis bien plus dangereux que se lancent les [[guerrier|guerriers]]
 expérimentés pour établir leur hiérarchie ou régler une
 bataille par un unique combat. Cette partie explore divers
 rituels, décrit les codes d’honneur et explique comment
@@ -214,7 +214,7 @@ les mécanismes spéciaux qui les régissent, y compris de
 nouveaux mouvements appelés des parades de duel, des
 esquives de duel, des contres de duel et des efforts de duel.
 
-#### [Combat de spectacle](./Combat de spectacle.md)
+#### [[Combat de spectacle]]
 Tous les combats ne consistent pas à gagner à tout prix.
 Parfois, il est plus important de paraître à son avantage
 que de porter le coup final. Cette partie, destinée à tous
@@ -231,7 +231,7 @@ pègre), mais aussi des règles concernant les réactions de la
 foule et le meilleur moyen de gagner ses faveurs, quelle que
 soit la situation.
 
-#### [Engins de siège](./Engins de siège.md)
+#### [[Engins de siège]]
 Le pire (ou le meilleur) moment d’un siège, c’est quand
 les défenseurs du château, horrifiés, voient se profiler
 la silhouette des engins de siège qui se rapprochent

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#LAMEDEDIEE
 ---
 
->>> [arcanes#LAMEDEDIEE](./arcanes.md#LAMEDEDIEE)
+>>> [[arcanes#LAMEDEDIEE]]

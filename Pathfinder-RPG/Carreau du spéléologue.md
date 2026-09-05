@@ -10,13 +10,13 @@ Categories:
 
 {s:racial|Drow (race)|drows|Illustrations/PNJ/Drow.jpg}<div class="BD">
 {s:BDTitre|Carreau du spéléologue|{s:CM}}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 6 000 po ; **Poids** 0,25 kg
+**Aura** [[Évocation]] modérée ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 6 000 po ; **Poids** 0,25 kg
 (((Description)))
 Les roturiers sont incapables de léviter comme les nobles et recourent parfois à ces carreaux magiques pour éviter de se faire distancer lors d’une ascension vers la surface ou lorsqu’ils s’enfoncent dans des cavernes profondes.
 
-Le carreau du spéléologue ressemble à un lourd carreau cerclé de fer à pointe d’acier couronné de crochets et de dents. Il s’adapte à n’importe quelle arbalète de taille M ou P et peut servir de [flèche-grappin](./Flèche-grappin (objet).md) non magique. Le personnage charge le carreau dans son arbalète, vise une surface solide à portée et prononce le mot de commande pour envoyer le carreau qui va se ficher dans la surface ciblée. Le carreau entraîne derrière lui une chaîne de force fantomatique violette reliée à l’arbalète. Le personnage tenant cette arbalète n’a alors plus qu’à prononcer le mot de commande permettant de rétracter la chaîne à une vitesse de 9 mètres par round pour se faire remorquer jusqu’au point d’ancrage du carreau.
+Le carreau du spéléologue ressemble à un lourd carreau cerclé de fer à pointe d’acier couronné de crochets et de dents. Il s’adapte à n’importe quelle arbalète de taille M ou P et peut servir de [[Flèche-grappin (objet)|flèche-grappin]] non magique. Le personnage charge le carreau dans son arbalète, vise une surface solide à portée et prononce le mot de commande pour envoyer le carreau qui va se ficher dans la surface ciblée. Le carreau entraîne derrière lui une chaîne de force fantomatique violette reliée à l’arbalète. Le personnage tenant cette arbalète n’a alors plus qu’à prononcer le mot de commande permettant de rétracter la chaîne à une vitesse de 9 mètres par round pour se faire remorquer jusqu’au point d’ancrage du carreau.
 
 La chaîne de force supporte 250 kilos (solidité 10, 10 pv, briser DD 28). Une fois la chaîne rétractée, le personnage peut de nouveau utiliser le carreau. Si la chaîne est brisée ou tranchée, le carreau ne fonctionne plus pendant 24 heures.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[crochet de force](./Crochet de force.md)* ; **Coût** 3 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[crochet de force]]* ; **Coût** 3 000 po
 </div>

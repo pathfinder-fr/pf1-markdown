@@ -4,15 +4,15 @@
 
 <div class="presentation navmenudroite">
 ### Les archétypes de lutteur
-&nbsp;Retour à la [classe](./../Pathfinder-RPG/Lutteur.md).
-<ul style="margin-top:2px"><li>[Adversaire des bêtes ulfe](./../Pathfinder-RPG/Adversaire des bêtes ulfe (lutteur).md) (MCA)</li>
-<li>[Broyeur de métal](./../Pathfinder-RPG/Broyeur de métal (lutteur).md) (MCA)</li>
-<li>[Champion du bouclier](./../Pathfinder-RPG/Champion du bouclier (lutteur).md) (MCA)</li>
-<li>[Enfant sauvage](./../Pathfinder-RPG/Enfant sauvage (lutteur).md) (MCA)</li>
-<li>[Étrangleur](./../Pathfinder-RPG/Étrangleur (lutteur).md) (MCA)</li>
-<li>[Exemplaire](./../Pathfinder-RPG/Exemplaire (lutteur).md) (MCA)</li>
-<li>[Lutteur mutagénique](./../Pathfinder-RPG/Lutteur mutagénique (lutteur).md) (MCA)</li>
-<li>[Lutteur serpentin](./../Pathfinder-RPG/Lutteur serpentin (lutteur).md) (MCA)</li>
-<li>[Renégat de la voie sinueuse](./../Pathfinder-RPG/Renégat de la voie sinueuse (lutteur).md) (MCA)</li>
+&nbsp;Retour à la [[Lutteur|classe]].
+<ul style="margin-top:2px"><li>[[Adversaire des bêtes ulfe (lutteur)|Adversaire des bêtes ulfe]] (MCA)</li>
+<li>[[Broyeur de métal (lutteur)|Broyeur de métal]] (MCA)</li>
+<li>[[Champion du bouclier (lutteur)|Champion du bouclier]] (MCA)</li>
+<li>[[Enfant sauvage (lutteur)|Enfant sauvage]] (MCA)</li>
+<li>[[Étrangleur (lutteur)|Étrangleur]] (MCA)</li>
+<li>[[Exemplaire (lutteur)|Exemplaire]] (MCA)</li>
+<li>[[Lutteur mutagénique (lutteur)|Lutteur mutagénique]] (MCA)</li>
+<li>[[Lutteur serpentin (lutteur)|Lutteur serpentin]] (MCA)</li>
+<li>[[Renégat de la voie sinueuse (lutteur)|Renégat de la voie sinueuse]] (MCA)</li>
 </ul>
 </div>

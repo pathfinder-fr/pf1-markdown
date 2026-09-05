@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Présentation des sorts#METAMORPHOSE
 ---
 
->>> [Présentation des sorts#METAMORPHOSE](./Présentation des sorts.md#METAMORPHOSE)
+>>> [[Présentation des sorts#METAMORPHOSE]]

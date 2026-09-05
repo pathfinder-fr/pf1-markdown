@@ -13,9 +13,9 @@ Traduit de l'Américain par Shok Nar, d'après une aide de jeu des forums Paizo,
 
 
 **Avertissement de l’auteur originel Shane ”General Chaos” Majewski : **"Ce document est basé sur les excellentes conversions pour 6 joueurs d’Alexander sur les forums Paizo, disponibles à ces adresses :
-1:[^http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKigmakerStolenLanDDhapter1For6PCs|Les Terres Volées pour 6]
+1:[Les Terres Volées pour 6](http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKigmakerStolenLanDDhapter1For6PCs)
 &
-2: [^http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKingmakerRiversRunReDDhapter2For6PCs|Quand les Rivières se Teintent de Rouge pour 6]
+2: [Quand les Rivières se Teintent de Rouge pour 6](http://paizo.com/paizo/messageboards/paizoPublishing/pathfinder/adventurePath/kingmaker/convertingKingmakerRiversRunReDDhapter2For6PCs)
 
 Pour paraphraser et citer, je suis parti du principe d’allouer 50% de PX et de trésor en plus pour compenser l’augmentation du nombre de joueurs. Tout cela en ajoutant des monstres, des Dés de vie supplémentaires, des niveaux et autres idées."
 {s:ImageExt|http://paizo.com/image/product/catalog/PZO/PZO9033_500.jpeg|300|fleft}
@@ -118,7 +118,7 @@ Il y a une faute de frappe dans la description originale. Le FP et le corps de t
 - **Trésor** Remplacer les pièces par 652po et 1670pc. Les 4000po d'objets magiques devraient être adaptés à votre groupe, mais toujours convenir au nain mort. Exemple : ceinture de géant +2
 (((Capacités Spéciales)))
 - **Empathie avec les araignées (Ext)** ette capacité fonctionne comme l’empathie sauvages des druides, si ce n'est qu'un ettercap ne peut l'utiliser que sur les araignées. Les ettercaps bénéficient d'un bonus racial de +4 sur les tests correspondants. Les araignées sont dépourvues d'intellect mais cette communication empathique leur donne une étincelle d'intelligence suffisante pour que les ettercaps puissent former des araignées géantes à la surveillance.
-- **Pièges (Ext)** Les ettercaps sont particulièrement doués pour créer des pièges astucieux à l'aide de leurs toiles. Le plus souvent, ils fabriquent des collets, des pièges à écrasement ou des pièges à lance. Les ettercaps n'ont pas besoin d'or pour construire leurs pièges, seulement de temps. Pour plus de détails, voir la section [conception des pièges](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Conception de pièges.ashx).
+- **Pièges (Ext)** Les ettercaps sont particulièrement doués pour créer des pièges astucieux à l'aide de leurs toiles. Le plus souvent, ils fabriquent des collets, des pièges à écrasement ou des pièges à lance. Les ettercaps n'ont pas besoin d'or pour construire leurs pièges, seulement de temps. Pour plus de détails, voir la section [conception des pièges](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Conception%20de%20pi%C3%A8ges.ashx).
   - **Collet d'ettercap :** FP 1 ; Type mécanique ; Perception DD 20; Désamorçage DD 20 ; Déclencheur espace ; Remise en place réparation ;Effet test de BMO +15 (agripper).
   - **Piège à écrasement d'ettercap :** FP 3 ; Type mécanique; Perception DD 20; Désamorçage DD 20; Déclencheur espace ; Remise en place Réparation; Effet attaque au corps à corps +10 (4d6), cibles multiples (toutes les cibles dans un carré de 3 m (2 c) de côté).
   - **Piège à lance d'ettercap :** FP 2; Type mécanique ; Perception DD 20;Désamorçage DD 20 ; Déclencheur espace ; Remise en place réparation ;Effet attaque au corps à corps +15 (1d6+6).
@@ -1037,7 +1037,7 @@ Valeur originelle de PX = 4800PX | Valeur modifiée de PX=- 7200PX (soit 1200PX 
 
 </div>
 
-Pour cet ajout, une précision s'impose. Il s'agit d'un mélange entre la version pour 6 que vous connaissez déjà, et un ajout d'un autre forumer de Paizo, alias [http://paizo.com/people/ericthecleric|ericthecleric]. Ce dernier propose d'ajouter des champions à Vordakai, [http://paizo.com/threads/rzs2kfk1&page=3?The-Varnhold-Vanishing|version atrophiée et une version au mieux de sa forme], à insérer en W23.{br}
+Pour cet ajout, une précision s'impose. Il s'agit d'un mélange entre la version pour 6 que vous connaissez déjà, et un ajout d'un autre forumer de Paizo, alias [ericthecleric](http://paizo.com/people/ericthecleric). Ce dernier propose d'ajouter des champions à Vordakai, [version atrophiée et une version au mieux de sa forme](http://paizo.com/threads/rzs2kfk1&page=3?The-Varnhold-Vanishing), à insérer en W23.{br}
 
 J'ai, pour ma part, choisi d'inclure la version atrophiée ici, et de conserver (comme suggéré sur les forums Paizo), la version forte pour le final avec Vordakai, histoire de donner un peu de piquant à tout cela.{br}
 
@@ -1119,7 +1119,7 @@ Valeur originelle de PX = 9600PX | Valeur modifiée de PX=- 14400PX (soit 2400PX
 - **Dons** Attaque en puissance, Carnage effroyable, Charge dévastatrice, Combat monté, Concentration malgré la peur, Enchaînement, Robustesse, Science de la bousculade, Science de l’initiative, Succession d’enchainement, Vigilance, Robustesse
 - **Compétences** Connaissances (religion) +6, Dressage +8, Équitation +10, Intimidation +24, Perception +22, Psychologie +11, Survie +9
 - **Langues** commun, cyclope, géant
-- **Particularités** aura du mal, monture fantôme, revitalisation désastreuse, [^++Pathfinder-RPG.Cyclope|vision instantanée], [^++Pathfinder-RPG.Antipaladin#VECTEURDEMALADIE|vecteur de maladie], [^++Pathfinder-RPG.Antipaladin#RESISTANCEMAUDITE|résistance maudite]
+- **Particularités** aura du mal, monture fantôme, revitalisation désastreuse, [[Pathfinder-RPG.Cyclope|vision instantanée]], [[Pathfinder-RPG.Antipaladin#VECTEURDEMALADIE|vecteur de maladie]], [[Pathfinder-RPG.Antipaladin#RESISTANCEMAUDITE|résistance maudite]]
 (((Écologie)))
 - **Trésor** standard (*Armure de plaque* taille G +1 ; *Grande hache* taille G +1)
 
@@ -1187,13 +1187,13 @@ Vordakai utilise le *Sceptre de Métamagie mineure* (sort à rebonds), des *brac
 - **Dons** Attaque en puissance, Carnage effroyable, Charge dévastatrice, Combat monté, Concentration malgré la peur, Enchaînement, Robustesse, Science de la bousculade, Science de l’initiative, Succession d’enchainement, Vigilance
 - **Compétences** Connaissances (religion) +6, Dressage +8, Équitation +10, Intimidation +24, Perception +22, Profession (Devin) +13, Psychologie +11, Survie +9
 - **Langues** commun, cyclope, géant
-- **Particularités** aura du mal, monture fantôme, revitalisation désastreuse, [^++Pathfinder-RPG.Cyclope|vision instantanée], [^++Pathfinder-RPG.Antipaladin#VECTEURDEMALADIE|vecteur de maladie], [^++Pathfinder-RPG.Antipaladin#RESISTANCEMAUDITE|résistance maudite]
+- **Particularités** aura du mal, monture fantôme, revitalisation désastreuse, [[Pathfinder-RPG.Cyclope|vision instantanée]], [[Pathfinder-RPG.Antipaladin#VECTEURDEMALADIE|vecteur de maladie]], [[Pathfinder-RPG.Antipaladin#RESISTANCEMAUDITE|résistance maudite]]
 (((Écologie)))
 - **Trésor** standard (*Armure de plaque* taille G +1 ; *Grande hache* taille G +1)
 
 </div>
 
-**Trésor :** changez les pièces en 1 710pp, 19 500po, 15 4500pa, et les objets d’art et les joyaux pour un total de 29250 po. **Ajoutez :** [^++Pathfinder-RPG.veste à outils|*Veste à outils*] (1800po), Sceptre de métamagie mineure (sort à rebonds) (9000po), [^++Pathfinder-RPG.natte de ki|*Natte de Ki*] (10,000po), [^++Pathfinder-RPG.fourreau de lame discrète|*Fourreau de lame discrète*] (5000po), [^++Pathfinder-RPG.Bracelets darmure|*Bracelets d’armure* +4] (8000po), [^++Pathfinder-RPG.Ceinturon de constitution de lours|*Ceinturon de constitution de l’ours +4*] (4000po), une [^++Pathfinder-RPG.Lyre de bâtisseur|*Lyre de bâtisseur*] (6500po) et un Parchemin de niveau 4 (magicien) (700po).
+**Trésor :** changez les pièces en 1 710pp, 19 500po, 15 4500pa, et les objets d’art et les joyaux pour un total de 29250 po. **Ajoutez :** [[Pathfinder-RPG.veste à outils|*Veste à outils*]] (1800po), Sceptre de métamagie mineure (sort à rebonds) (9000po), [[Pathfinder-RPG.natte de ki|*Natte de Ki*]] (10,000po), [[Pathfinder-RPG.fourreau de lame discrète|*Fourreau de lame discrète*]] (5000po), [[Pathfinder-RPG.Bracelets darmure|*Bracelets d’armure* +4]] (8000po), [[Pathfinder-RPG.Ceinturon de constitution de lours|*Ceinturon de constitution de l’ours +4*]] (4000po), une [[Pathfinder-RPG.Lyre de bâtisseur|*Lyre de bâtisseur*]] (6500po) et un Parchemin de niveau 4 (magicien) (700po).
 
 #### W28 - Le Donjon des âmes
 **Trésor :** je ne compte pas les *jarres des âmes* dans le total de trésor que les PJ peuvent emporter avec eux, bien qu’ils le feront certainement, aussi ai-je simplement augmenté la valeur du trésor de cette pièce, basé sur celui du *puits portable*. Soit 10 000 po. J’ai décidé d’ajouter une *pierre ioun* bleu nuit, celle-là même que Vordakai utilise.

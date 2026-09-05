@@ -9,16 +9,16 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bâton aux cent mains|}
-**Aura** [Évocation](./Évocation.md) puissante ; **NLS** 17 ; **Emplacement** aucun ([bâton](./Bâtons magiques.md)) ; **Prix** 180 200 po ; **Poids** 2,5 kg
+**Aura** [[Évocation]] puissante ; **NLS** 17 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 180 200 po ; **Poids** 2,5 kg
 (((Description)))
 Sculpté sous la forme de dizaines de mains avides et distordues, ce bâton est entièrement taillé dans une seule pièce de cristal clair. Lorsqu’on le tient, les mains qui le composent se distordent pour ressembler aux gants ou aux mains de la personne qui le tient. Il permet d’utiliser les sorts suivants.
-• *[Main impérieuse](./Main impérieuse.md)* (1 charge)
-• *[Main interposée](./Main interposée.md)* (1 charge)
-• *[Poing serré](./Poing serré.md)* (2 charges)
-• *[Poigne agrippeuse](./Poigne agrippeuse.md)* (2 charges)
-• *[Main broyeuse](./Main broyeuse.md)* (3 charges)
+• *[[Main impérieuse]]* (1 charge)
+• *[[Main interposée]]* (1 charge)
+• *[[Poing serré]]* (2 charges)
+• *[[Poigne agrippeuse]]* (2 charges)
+• *[[Main broyeuse]]* (3 charges)
 
-Ce bâton permet également au porteur d’utiliser *[manipulation à distance](./Manipulation à distance.md)* à volonté.
+Ce bâton permet également au porteur d’utiliser *[[manipulation à distance]]* à volonté.
 (((Création)))
-**Conditions** [Création de bâtons magiques](./Création de bâtons magiques.md), *[poing serré](./Poing serré.md)*, *[main broyeuse](./Main broyeuse.md)*, *[main impérieuse](./Main impérieuse.md)*, *[poigne agrippeuse](./Poigne agrippeuse.md)*, *[main interposée](./Main interposée.md)*, *[manipulation à distance](./Manipulation à distance.md)*; **Coût** 41 000 po
+**Conditions** [[Création de bâtons magiques]], *[[poing serré]]*, *[[main broyeuse]]*, *[[main impérieuse]]*, *[[poigne agrippeuse]]*, *[[main interposée]]*, *[[manipulation à distance]]*; **Coût** 41 000 po
 </div>

@@ -10,9 +10,9 @@ Categories:
 
 {s:mca} *Les créatures que le personnage invoque ont évolué et acquis des pouvoirs encore plus grands.*
 
-**Conditions.** [Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md), [École renforcée](./École renforcée.md) (invocation), capacité à lancer *[convocation de monstres I](./Convocation de monstres I.md)*.
+**Conditions.** [[Amélioration des créatures convoquées]], [[École renforcée]] (invocation), capacité à lancer *[[convocation de monstres I]]*.
 
-**Avantage.** Chaque fois que le personnage lance un sort de *[convocation de monstres](./Convocation de monstres.md)*, il peut choisir une [évolution](./évolutions.md) à 1 point autre que bond ou allonge parmi celles qui sont accessibles aux eidolons des invocateurs. La créature invoquée gagne cette évolution et doit se conformer à toutes les limitations que celle-ci impose. (Par exemple, seule une créature ayant une [allonge](./allonge.md) de 3 mètres ou plus peut prendre l’évolution *attirer*).
+**Avantage.** Chaque fois que le personnage lance un sort de *[[convocation de monstres]]*, il peut choisir une [[Évolutions|évolution]] à 1 point autre que bond ou allonge parmi celles qui sont accessibles aux eidolons des invocateurs. La créature invoquée gagne cette évolution et doit se conformer à toutes les limitations que celle-ci impose. (Par exemple, seule une créature ayant une [[allonge]] de 3 mètres ou plus peut prendre l’évolution *attirer*).
 
 Les évolutions qui accordent des attaques supplémentaires ou améliorent les attaques existantes ne peuvent être appliquées qu’aux créatures invoquées de taille M ou plus grandes.
 

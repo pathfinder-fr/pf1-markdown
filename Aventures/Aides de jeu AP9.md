@@ -4,7 +4,7 @@ Title: Aides de jeu Le Régent de Jade
 LastModified: 2022-10-19 18:40
 ---
 
-Vous trouverez la présentation de cette campagne sur [cette page](./Présentation AP9.md).
+Vous trouverez la présentation de cette campagne sur [[Présentation AP9|cette page]].
 
 
 ### Aides pour L'Héritage de Mursalé / Brinewall Legacy

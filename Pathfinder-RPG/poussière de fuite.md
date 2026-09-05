@@ -11,9 +11,9 @@ Categories:
 
 {s:racial|Halfelin|halfelins|Illustrations/PNJ/Halfelin.jpg}<div class="BD">
 {s:BDTitre|Poussière de fuite|{s:MR}}
-**Aura** [Invocation](./Invocation.md) faible ; **NLS** 3 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 300 po ; **Poids** —
+**Aura** [[Invocation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 300 po ; **Poids** —
 (((Description)))
-Quand quelqu’un lance une poignée de cette poudre cristalline sur une créature, elle tournoie autour de la cible et gêne ses attaques et sa visibilité. Pour utiliser la poudre, il faut réussir une [attaque de contact à distance](./attaque de contact à distance.md) (avec un facteur de portée de 1,50 mètre) qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md). Si la cible est touchée, elle est [éblouie](./Ébloui.md) et ne peut pas faire d’attaque d’opportunité ni d’[actions immédiates](./Action immédiate.md) pendant 1 [round](./round.md).
+Quand quelqu’un lance une poignée de cette poudre cristalline sur une créature, elle tournoie autour de la cible et gêne ses attaques et sa visibilité. Pour utiliser la poudre, il faut réussir une [[attaque de contact à distance]] (avec un facteur de portée de 1,50 mètre) qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]]. Si la cible est touchée, elle est [[ébloui|éblouie]] et ne peut pas faire d’attaque d’opportunité ni d’[[action immédiate|actions immédiates]] pendant 1 [[round]].
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[poussière scintillante](./Poussière scintillante.md)* ; **Coût** 150 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[poussière scintillante]]* ; **Coût** 150 po
 </div>

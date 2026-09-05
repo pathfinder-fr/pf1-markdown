@@ -13,31 +13,31 @@ Categories:
 {s:pucem|Plante|Souterrain|Tempéré}
 - *Source : Bestiaire 2* p.257
 - **PX** 409 600
-- **[Plante](./type Plante.md)** de taille C, CN
-- **Init** +3 ; **Sens** [vision aveugle](./vision aveugle.md) 72 m (48 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +43
+- **[[type Plante|Plante]]** de taille C, CN
+- **Init** +3 ; **Sens** [[vision aveugle]] 72 m (48 {s:c}), [[vision nocturne]] ; [[Perception]] +43
 (((Défense)))
 - **CA** 37, contact 1, pris au dépourvu 37 (Dex –1, naturelle +36, taille –8)
-- **pv** 418 (31d8+279) ; [guérison accélérée](./guérison accélérée.md) 10
+- **pv** 418 (31d8+279) ; [[guérison accélérée]] 10
 - **Réf** +11, **Vig** +26, **Vol** +19
-- **Capacités défensives** filaments collants ; **Immunités** [traits des plantes](./Traits des plantes.md) ; **RD** 10/épique ; **Résistances** acide 30
+- **Capacités défensives** filaments collants ; **Immunités** [[traits des plantes]] ; **RD** 10/épique ; **Résistances** acide 30
 (((Attaque)))
 - **VD** 12 m (8 {s:c}), vol 9 m (6 {s:c}) (parfaite)
-- **Corps à corps** morsure, +32 (6d6+16/19–20 plus [étreinte](./Étreinte.md)) et 4 tentacules, +27 (3d8+8/19–20 plus [étreinte](./Étreinte.md))
+- **Corps à corps** morsure, +32 (6d6+16/19–20 plus [[étreinte]]) et 4 tentacules, +27 (3d8+8/19–20 plus [[étreinte]])
 - **Espace** 9 m (6 {s:c}) ; **Allonge** 9 m (6 {s:c}) (18 m (12 {s:c}) pour les tentacules) 
-- **Attaques spéciales** [constriction](./constriction.md) (3d8+16), [engloutissement](./Engloutissement.md) (20d8 acide, CA 28, 41 pv), expectoration de spores
+- **Attaques spéciales** [[constriction]] (3d8+16), [[engloutissement]] (20d8 acide, CA 28, 41 pv), expectoration de spores
 (((Statistiques)))
 - **For** 42, **Dex** 9, **Con** 29, **Int** 18, **Sag** 28, **Cha** 29
-- **BBA** +23 ; **BMO** +47 (+51 [lutte](./lutte.md)) ; **DMD** 56 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Arme de prédilection](./Arme de prédilection.md) (tentacules), [Attaque en puissance](./Attaque en puissance.md), [Bousculade supérieure](./Bousculade supérieure.md), [Coup fabuleux](./Coup fabuleux.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive](./Frappe décisive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Science des réflexes surhumains](./Science des réflexes surhumains.md), [Science du critique](./Science du critique.md) (morsure), [Science du critique](./Science du critique.md) (tentacules)
-- **Compétences** [Connaissances](./Connaissances.md) (exploration souterraine, géographie, nature) +35, [Perception](./Perception.md) +43, [Psychologie](./Psychologie.md) +40, [Vol](./Vol.md) +33
+- **BBA** +23 ; **BMO** +47 (+51 [[lutte]]) ; **DMD** 56 ([[croc-en-jambe]] impossible)
+- **Dons** [[Arme de prédilection]] (morsure), [[Arme de prédilection]] (tentacules), [[Attaque en puissance]], [[Bousculade supérieure]], [[Coup fabuleux]], [[Critique ralentissant]], [[Don pour les critiques]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Réflexes surhumains]], [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Science des réflexes surhumains]], [[Science du critique]] (morsure), [[Science du critique]] (tentacules)
+- **Compétences** [[Connaissances]] (exploration souterraine, géographie, nature) +35, [[Perception]] +43, [[Psychologie]] +40, [[Vol]] +33
 - **Langues** aklo, commun, commun des profondeurs, terreux
 (((Écologie)))
 - **Environnement** tous
 - **Organisation sociale** solitaire ou couple
 - **Trésor** standard
 (((Pouvoirs spéciaux)))
-  - **Expectoration de spores (Sur)**. Par une action simple utilisable une fois tous les 1d4 rounds, une spore de mu peut libérer une nuée de spores fouisseuses dans un cône de 30 mètres (20 {s:c}). Les spores fouisseuses infligent 20d8 points de dégâts à toutes les créatures et à tous les édifices en bois situés dans la zone (JdS [Réflexes](./Réflexes.md) [DD](./DD.md) 34, 1/2 dégâts). Les plantes et les créatures plantes sont immunisées contre ces dégâts. Le DD du jet de sauvegarde dépend de la Constitution.
-  - **Filaments collants (Ext)**. Les spores de mu sont recouvertes de filaments collants aussi longs qu’un bras humain. Elles peuvent s’en servir pour tenter d’agripper par une action immédiate n’importe quelle créature adjacente qui les touche avec une attaque au corps à corps. Comme la spore n’utilise que ses filaments au lieu de tout son corps, elle subit un malus de –20 aux tests de manoeuvre pour agripper son adversaire et pour maintenir la prise (pour un bonus final de +31). La spore de mu n’acquiert pas l’état préjudiciable « [agrippé](./Agrippé.md) » lorsqu’elle étreint une créature avec ses filaments.
+  - **Expectoration de spores (Sur)**. Par une action simple utilisable une fois tous les 1d4 rounds, une spore de mu peut libérer une nuée de spores fouisseuses dans un cône de 30 mètres (20 {s:c}). Les spores fouisseuses infligent 20d8 points de dégâts à toutes les créatures et à tous les édifices en bois situés dans la zone (JdS [[Réflexes]] [[DD]] 34, 1/2 dégâts). Les plantes et les créatures plantes sont immunisées contre ces dégâts. Le DD du jet de sauvegarde dépend de la Constitution.
+  - **Filaments collants (Ext)**. Les spores de mu sont recouvertes de filaments collants aussi longs qu’un bras humain. Elles peuvent s’en servir pour tenter d’agripper par une action immédiate n’importe quelle créature adjacente qui les touche avec une attaque au corps à corps. Comme la spore n’utilise que ses filaments au lieu de tout son corps, elle subit un malus de –20 aux tests de manoeuvre pour agripper son adversaire et pour maintenir la prise (pour un bonus final de +31). La spore de mu n’acquiert pas l’état préjudiciable « [[agrippé]] » lorsqu’elle étreint une créature avec ses filaments.
 
 </div></td>
 <td><div>*Cet énorme monstre fongoïde flottant est recouvert de tentacules et d’yeux. Sa vaste gueule s’ouvre et dévoile une immense cavité garnie de dents.*

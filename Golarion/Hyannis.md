@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Hyannis est une petite communauté minière des contreforts des [montagnes Affamées](./montagnes Affamées.md) située dans le comté de [Versex](./Versex.md) en [Ustalav](./Ustalav.md).
+Hyannis est une petite communauté minière des contreforts des [[montagnes Affamées]] située dans le comté de [[Versex]] en [[Ustalav]].

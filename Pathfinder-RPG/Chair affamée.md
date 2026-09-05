@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Vase|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 22*}
 - **800 PX**
-- [Vase](./type Vase.md) taille G, N
-- **Init **-3 ; **Sens** [vision aveugle](./vision aveugle.md) à 18 m, [odorat](./odorat.md) ; [Perception](./Perception.md) -5
+- [[type vase|Vase]] taille G, N
+- **Init **-3 ; **Sens** [[vision aveugle]] à 18 m, [[odorat]] ; [[Perception]] -5
 (((Défense)))
 - **CA** 8, contact 6, pris au dépourvu 8 (Dex -3, naturelle +2, taille -1)
 - **pv** 47 (5d8+25) ; régénération 5 (acide ou feu)
 - **Réf **-2, **Vig **+6, **Vol **-4
-- **Capacités défensives** [créature informe](./Créature informe (capacité).md) ; **Immunité** [traits des vases](./type Vase.md#TRAITVASE)
+- **Capacités défensives** [[créature informe (capacité)|créature informe]] ; **Immunité** [[type vase#TRAITVASE|traits des vases]]
 (((Attaque)))
 - **VD** 6 m, nage 6 m
-- **Corps à corps **coup, +5 (1d6+4 plus maladie et [étreinte](./Étreinte.md))
+- **Corps à corps **coup, +5 (1d6+4 plus maladie et [[étreinte]])
 - **Espace** 3 m ; **Allonge** 1,50 m
-- **Attaques spéciales **[constriction](./constriction.md) (1d6+4 plus maladie)
+- **Attaques spéciales **[[constriction]] (1d6+4 plus maladie)
 (((Statistiques)))
 - **For** 16, **Dex** 5, **Con** 20, **Int **—, **Sag** 1 **Cha** 1
 - **BBA **+3 ; **BMO **+7 (+11 pour la lutte) ; **DMD** 14 (croc-en-jambe impossible)
-- **Particularités** [compression](./Compression.md), croissance monstrueuse, régénération réactive, traînée de mucus
+- **Particularités** [[compression]], croissance monstrueuse, régénération réactive, traînée de mucus
 (((Écologie)))
 - **Environnement** terrestre ou souterrain
 - **Organisation** solitaire ou portée (2-5)

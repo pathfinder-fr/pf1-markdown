@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage se déplace sur les navires avec l’instinct d’un vrai marin. *
 
-**Condition.** 5 rangs en [Profession](./Profession.md) (marin)
+**Condition.** 5 rangs en [[Profession]] (marin)
 
-**Avantage.** Le personnage gagne un bonus de +2 aux tests d’[Acrobaties](./Acrobaties.md), [Escalade](./Escalade.md) et [Natation](./Natation.md).
+**Avantage.** Le personnage gagne un bonus de +2 aux tests d’[[Acrobaties]], [[Escalade]] et [[Natation]].

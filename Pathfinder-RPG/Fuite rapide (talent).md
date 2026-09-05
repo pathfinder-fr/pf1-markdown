@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#FUITERAPIDE
 ---
 
->>> [Talents#FUITERAPIDE](./Talents.md#FUITERAPIDE)
+>>> [[Talents#FUITERAPIDE]]

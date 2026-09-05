@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Ciel|Tempéré}
 - *Source : Bestiaire 2, p.63*
 - **PX** 6 400
-- [Créature magique](./type Créature magique.md) ([Air](./sous-type Air.md)) de taille G, NB
-- **Init** +7 ; **Sens** connaissance des alignement, [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +17
+- [[type créature magique|Créature magique]] ([[sous-type Air|Air]]) de taille G, NB
+- **Init** +7 ; **Sens** connaissance des alignement, [[vision dans le noir]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +17
 (((Défense)))
 - **CA** 23, contact 13, pris au dépourvu 19 (Dex +3, esquive +1, naturelle +10, taille –1)
 - **pv** 105 (10d10+50)
@@ -27,20 +27,20 @@ Categories:
 - **Attaques spéciales** charge en vol, souffles
 (((Statistiques)))
 - **For** 24, **Dex** 17, **Con** 21, **Int** 16, **Sag** 18, **Cha** 21
-- **BBA** +10 ; **BMO** +18 ; **DMD** 32 (36 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Dons** [Attaque en vol](./Attaque en vol.md), [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Connaissances](./Connaissances.md) (plans) +13, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +14, [Survie](./Survie.md) +14, [Vol](./Vol.md) +18
-- **Langues** aérien, commun, draconique ; [télépathie](./Télépathie.md) 30 m (20 {s:c})
+- **BBA** +10 ; **BMO** +18 ; **DMD** 32 (36 contre [[croc-en-jambe]])
+- **Dons** [[Attaque en vol]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]], [[Volonté de fer]]
+- **Compétences** [[Connaissances]] (plans) +13, [[Perception]] +17, [[Psychologie]] +14, [[Survie]] +14, [[Vol]] +18
+- **Langues** aérien, commun, draconique ; [[télépathie]] 30 m (20 {s:c})
 - **Particularités** changement de plan
 (((Écologie)))
 - **Environnement** tous
 - **Organisation sociale** solitaire
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
-- **Changement de plan (Sur).** Un cheval draconique peut glisser vers le plan Éthéré, le plan Astral, le plan de l’Air ou le plan Matériel une fois par jour par une action simple. Cela fonctionne comme le sort de *[changement de plan](./Changement de plan.md)* à ceci près que le cheval draconique ne peut emmener avec lui que deux autres créatures volontaires maximum, et seulement si elles se trouvent sur son dos.
+- **Changement de plan (Sur).** Un cheval draconique peut glisser vers le plan Éthéré, le plan Astral, le plan de l’Air ou le plan Matériel une fois par jour par une action simple. Cela fonctionne comme le sort de *[[changement de plan]]* à ceci près que le cheval draconique ne peut emmener avec lui que deux autres créatures volontaires maximum, et seulement si elles se trouvent sur son dos.
 - **Charge en vol (Ext).** Un cheval draconique gagne un bonus de +4 aux jets de dégâts s’il charge alors qu’il  est en vol.
 - **Connaissance des alignements (Sur).** Les chevaux draconiques connaissent automatiquement l’alignement de toutes les créatures qu’ils aperçoivent.
-- **Souffles (Sur).** Par une action simple, un cheval draconique peut exhaler un [cône](./cône.md) de 9 mètres (6 {s:c}) de brume. Cette brume peut infliger 10d6 points de dégâts de froid (Réflexes DD 20, 1/2 dégâts) ou créer une région de brouillard qui persiste pendant 1 minute (et fonctionne comme un sort de *[nappe de brouillard](./Nappe de brouillard.md)*) ou encore créer une bourrasque de [vents violents](./Vents.md) dans la zone affectée. Le cheval draconique peut utiliser son souffle une fois tous les 1d4 rounds. Le DD du jet de sauvegarde dépend de la Constitution.
+- **Souffles (Sur).** Par une action simple, un cheval draconique peut exhaler un [[cône]] de 9 mètres (6 {s:c}) de brume. Cette brume peut infliger 10d6 points de dégâts de froid (Réflexes DD 20, 1/2 dégâts) ou créer une région de brouillard qui persiste pendant 1 minute (et fonctionne comme un sort de *[[nappe de brouillard]]*) ou encore créer une bourrasque de [[vents|vents violents]] dans la zone affectée. Le cheval draconique peut utiliser son souffle une fois tous les 1d4 rounds. Le DD du jet de sauvegarde dépend de la Constitution.
 
 </div>
 </td><td><div>*Ce noble cheval possède une robe blanche et luisante sous laquelle on devine des muscles puissants. Ses sabots sont enveloppés d’étincelles bleuâtres.*

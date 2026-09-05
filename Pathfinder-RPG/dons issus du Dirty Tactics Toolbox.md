@@ -14,115 +14,115 @@ LastModified: 2021-09-01 14:08
 | WIDTH="42%" | Avantages
 
 |- CLASS="premier"
-| [Adversaire familier](./Adversaire familier.md)* || DTT || — || votre familiarité avec une créature particulière vous permet d'être plus efficace
+| [[Adversaire familier]]* || DTT || — || votre familiarité avec une créature particulière vous permet d'être plus efficace
 
 |- CLASS="premier"
-| [Attaquant sournois accompli](./Attaquant sournois accompli.md) || DTT || capacité *attaque sournoise* || l'attaque sournoise augmente d'1d6
+| [[Attaquant sournois accompli]] || DTT || capacité *attaque sournoise* || l'attaque sournoise augmente d'1d6
 
 |- CLASS="premier"
-| [Attaque imprévisible supplémentaire](./Attaque imprévisible supplémentaire.md) || DTT || capacité *attaque imprévisible* || vous obtenez une attaque imprévisible supplémentaire
+| [[Attaque imprévisible supplémentaire]] || DTT || capacité *attaque imprévisible* || vous obtenez une attaque imprévisible supplémentaire
 
 |-  CLASS="premier"
-| [Attaque sournoise inspirée](./Attaque sournoise inspirée.md)* || DTT || réserve d'inspiration ; capacité attaque sournoise ou capacité frappe étudiée || votre inspiration vous permet de relancer les dés de dégâts supplémentaires
+| [[Attaque sournoise inspirée]]* || DTT || réserve d'inspiration ; capacité attaque sournoise ou capacité frappe étudiée || votre inspiration vous permet de relancer les dés de dégâts supplémentaires
 
 |- CLASS="premier"
-| [Combat déloyal](./Combat déloyal.md) || DTT || — || il est plus facile d'effectuer une manoeuvre offensive sur un ennemi pris en tenaille
+| [[Combat déloyal]] || DTT || — || il est plus facile d'effectuer une manoeuvre offensive sur un ennemi pris en tenaille
 
 |- CLASS="premier"
-| [Combines d'équipement](./Combines déquipement.md) || RSE || BBA+1 || vous utilisez astucieusement votre équipement
+| [[Combines déquipement|Combines d'équipement]] || RSE || BBA+1 || vous utilisez astucieusement votre équipement
 
 |- CLASS="premier"
-| [Cri de guerre (DTT)](./Cri de guerre (DTT).md) || DTT || capacité *performance bardique* || Vous initiez une représentation bardique pendant le round de surprise
+| [[Cri de guerre (DTT)]] || DTT || capacité *performance bardique* || Vous initiez une représentation bardique pendant le round de surprise
 
 |- CLASS="premier"
-| [Critique sale](./Critique sale.md)* || DTT || Int 13, [Expertise du Combat](./Expertise du combat.md), [Science du critique](./Science du critique.md), [Science du sale coup](./Science du sale coup.md), [BBA](./BBA.md)+11 || votre coup critique inflige un sale coup à votre adversaire
+| [[Critique sale]]* || DTT || Int 13, [[Expertise du Combat]], [[Science du critique]], [[Science du sale coup]], [[BBA]]+11 || votre coup critique inflige un sale coup à votre adversaire
 
 |- CLASS="premier"
-| [Critique sournois](./Critique sournois.md)* || DTT || [Don pour les critiques](./Don pour les critiques.md), BBA +9, capacité *attaque sournoise* || Les dés de dégâts de l'attaque sournoise augmentent en cas de coup critique
+| [[Critique sournois]]* || DTT || [[Don pour les critiques]], BBA +9, capacité *attaque sournoise* || Les dés de dégâts de l'attaque sournoise augmentent en cas de coup critique
 
 |- CLASS="premier"
-| [Désarmement sale](./Désarmement sale.md)* || DTT || Int 13, [Expertise du combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md), [Science du désarmement](./Science du désarmement.md), BBA +6 || Vous pouvez faire un sale coup pendant que vous désarmez un ennemi.
+| [[Désarmement sale]]* || DTT || Int 13, [[Expertise du combat]], [[Science du sale coup]], [[Science du désarmement]], BBA +6 || Vous pouvez faire un sale coup pendant que vous désarmez un ennemi.
 
 |- CLASS="premier"
-| [École du kitsune](./École du kitsune.md)* || DTT || Int 13, [Expertise du combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md) || Vous pouvez faire un sale coup à la fin d'une charge
+| [[École du kitsune]]* || DTT || Int 13, [[Expertise du combat]], [[Science du sale coup]] || Vous pouvez faire un sale coup à la fin d'une charge
 |-
-| &emsp; [Tours du kitsune](./Tours du kitsune.md)* || DTT || Int 13, [Expertise du Combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md), [École du kitsune](./École du kitsune.md), BBA +3 ou moine 3 || Vous appliquez à votre cible deux états préjudiciables en utilisant l'école du kitsune
+| &emsp; [[Tours du kitsune]]* || DTT || Int 13, [[Expertise du Combat]], [[Science du sale coup]], [[École du kitsune]], BBA +3 ou moine 3 || Vous appliquez à votre cible deux états préjudiciables en utilisant l'école du kitsune
 |-
-| &emsp; &emsp; [Vengeance du kitsune](./Vengeance du kitsune.md)* || DTT || Int 13, [Expertise du Combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md), [École du kitsune](./École du kitsune.md), [Tours du kitsune](./Tours du kitsune.md), BBA +6 ou moine 6 || Vous pouvez remplacer une attaque d'opportunité par un sale coup
+| &emsp; &emsp; [[Vengeance du kitsune]]* || DTT || Int 13, [[Expertise du Combat]], [[Science du sale coup]], [[École du kitsune]], [[Tours du kitsune]], BBA +6 ou moine 6 || Vous pouvez remplacer une attaque d'opportunité par un sale coup
 
 |- CLASS="premier"
-| [Embuscade effrayante](./Embuscade effrayante.md)* || DTT || [Intimidation](./Intimidation.md) 1 rang || vous démoralisez les ennemis que vous surprenez
+| [[Embuscade effrayante]]* || DTT || [[Intimidation]] 1 rang || vous démoralisez les ennemis que vous surprenez
 |-
-| &emsp;[Embuscade terrifiante](./Embuscade terrifiante.md)* || DTT || [Embuscade effrayante](./Embuscade effrayante.md), [Intimidation](./Intimidation.md) 5 rangs || Vous effrayez les ennemis que vous surprenez
+| &emsp;[[Embuscade terrifiante]]* || DTT || [[Embuscade effrayante]], [[Intimidation]] 5 rangs || Vous effrayez les ennemis que vous surprenez
 
 |- CLASS="premier"
-| [Empoisonnement puissant](./Empoisonnement puissant.md) || DTT || [Attaque en puissance](./Attaque en puissance.md) ; [Artisanat](./Artisanat.md) (poison) 3 rangs ou capacité ''utilisation du poison || Le DD du poison augmente avec la puissance de votre coup
+| [[Empoisonnement puissant]] || DTT || [[Attaque en puissance]] ; [[Artisanat]] (poison) 3 rangs ou capacité ''utilisation du poison || Le DD du poison augmente avec la puissance de votre coup
 
 |- CLASS="premier"
-| [Ennemi modulable](./Ennemi modulable.md)* || DTT || [BBA](./BBA.md) +5, [ennemi juré](./ennemi juré.md) (n'importe quel humanoïde ou n'importe quel extérieur, capacité de classe ennemi juré || vous pouvez changer momentanément d'ennemi juré
+| [[Ennemi modulable]]* || DTT || [[BBA]] +5, [[ennemi juré]] (n'importe quel humanoïde ou n'importe quel extérieur, capacité de classe ennemi juré || vous pouvez changer momentanément d'ennemi juré
 
 |- CLASS="premier"
-| [Expert du tir embusqué](./Expert du tir embusqué.md)* || DTT || [Discrétion](./Discrétion.md) 3 rangs || La pénalité pour rester caché lors d'un tir est réduite à -10
+| [[Expert du tir embusqué]]* || DTT || [[Discrétion]] 3 rangs || La pénalité pour rester caché lors d'un tir est réduite à -10
 
 |-
-| &emsp; [Maître du tir embusqué](./Maître du tir embusqué.md)* || DTT || [Expert du tir embusqué](./Expert du tir embusqué.md), [Tir rapide](./Tir rapide.md), [Discrétion](./Discrétion.md) 6 rangs || Vous pouvez tirer deux fois en restant embusqué
+| &emsp; [[Maître du tir embusqué]]* || DTT || [[Expert du tir embusqué]], [[Tir rapide]], [[Discrétion]] 6 rangs || Vous pouvez tirer deux fois en restant embusqué
 
 |- CLASS="premier"
-| [Exploit du tir empoisonné](./Exploit du tir empoisonné.md) || DTT || [Pistolier amateur](./Pistolier amateur.md) ou capacité *Audace* || Les explosions de vos armes à feu empoisonnent vos ennemis
+| [[Exploit du tir empoisonné]] || DTT || [[Pistolier amateur]] ou capacité *Audace* || Les explosions de vos armes à feu empoisonnent vos ennemis
 
 |- CLASS="premier"
-| [Familier Guêpe](./Familier Guêpe.md) || DTT || alignement Chaotique neutre, vénérer la divinité de la vengeance || Vous obtenez un familier guêpe ou un familier diablotin
+| [[Familier Guêpe]] || DTT || alignement Chaotique neutre, vénérer la divinité de la vengeance || Vous obtenez un familier guêpe ou un familier diablotin
 
 |- CLASS="premier"
-| [Initiative stupéfiante](./Initiative stupéfiante.md)* || DTT || [Science de l'initiative](./Science de linitiative.md) || vos adversaires sont pris au dépourvu jusqu'à ce qu'ils aient agi durant le combat
+| [[Initiative stupéfiante]]* || DTT || [[Science de linitiative|Science de l'initiative]] || vos adversaires sont pris au dépourvu jusqu'à ce qu'ils aient agi durant le combat
 
 |- CLASS="premier"
-| [Lanceur réactif](./Lanceur réactif.md) || DTT || [Attaques réflexes](./Attaques réflexes.md), [Niveau de lanceur](./NLS.md) 5 || Vous pouvez lancer un sort d'abjuration malgré la surprise
+| [[Lanceur réactif]] || DTT || [[Attaques réflexes]], [[NLS|Niveau de lanceur]] 5 || Vous pouvez lancer un sort d'abjuration malgré la surprise
 
 |- CLASS="premier"
-| [Lutte sale](./Lutte sale.md)* || DTT || [Dex](./Dextérité.md) 13, [Int](./Intelligence.md) 13, [Expertise du combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md), [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +6 || Vous infligez des sales coup lorsque vous luttez
+| [[Lutte sale]]* || DTT || [[Dextérité|Dex]] 13, [[Intelligence|Int]] 13, [[Expertise du combat]], [[Science du sale coup]], [[Science de la lutte]], [[Science du combat à mains nues]], [[BBA]] +6 || Vous infligez des sales coup lorsque vous luttez
 
 |- CLASS="premier"
-| [Plaquage en vol](./Plaquage en vol.md) || DTT || [Science de la bousculade](./Science de la bousculade.md) || Vous pouvez lutter contre l'adversaire que vous mettez au sol par suprise
+| [[Plaquage en vol]] || DTT || [[Science de la bousculade]] || Vous pouvez lutter contre l'adversaire que vous mettez au sol par suprise
 
 |- CLASS="premier"
-| [Poison indétectable](./Poison indétectable.md) || DTT || [Artisanat](./Artisanat.md) (poison) 5 rangs, [Bluff](./Bluff.md) 5 rangs, capacité à lancer *[antidétection](./Antidétection.md)* || vous savez dissimuler le poison que vous transportez
+| [[Poison indétectable]] || DTT || [[Artisanat]] (poison) 5 rangs, [[Bluff]] 5 rangs, capacité à lancer *[[antidétection]]* || vous savez dissimuler le poison que vous transportez
 
 |- CLASS="premier"
-| [Rage éclair](./Rage éclair.md) || DTT || capacité *rage* || Vous entrez en rage durant le tour de surprise
+| [[Rage éclair]] || DTT || capacité *rage* || Vous entrez en rage durant le tour de surprise
 
 |- CLASS="premier"
-| [Regroupement précipité](./Regroupement précipité.md)* || DTT || [Homme-rat](./Homme-rat.md), capacité raciale *regroupement* || Tout allié vous permet d'utiliser votre capacité *regroupement*
+| [[Regroupement précipité]]* || DTT || [[Homme-rat]], capacité raciale *regroupement* || Tout allié vous permet d'utiliser votre capacité *regroupement*
 
 |- CLASS="premier"
-| [Sale coup magique](./Sale coup magique.md) || DTT || Capacité à lancer des sorts de niveau 1, alignement chaotique neutre, vénérer une divinité de la Vengeance || Votre enchantement handicape votre victime
+| [[Sale coup magique]] || DTT || Capacité à lancer des sorts de niveau 1, alignement chaotique neutre, vénérer une divinité de la Vengeance || Votre enchantement handicape votre victime
 
 |- CLASS="premier"
-| [Sale coup suprême](./Sale coup suprême.md)* || DTT || [Int](./Intelligence.md) 13, [Expertise du combat](./Expertise du combat.md), [Sale coup supérieur](./Sale coup supérieur.md), [Science du sale coup](./Science du sale coup.md), [BBA](./BBA.md) +8 || Se débarrasser d'un état préjudiciable particulier infligé par un sale coup prend un round complet
+| [[Sale coup suprême]]* || DTT || [[Intelligence|Int]] 13, [[Expertise du combat]], [[Sale coup supérieur]], [[Science du sale coup]], [[BBA]] +8 || Se débarrasser d'un état préjudiciable particulier infligé par un sale coup prend un round complet
 
 |- CLASS="premier"
-| [Prévention des embuscades](./Prévention des embuscades.md)* || DTT || — || vous êtes capable de vous défendre pendant le round de surprise
+| [[Prévention des embuscades]]* || DTT || — || vous êtes capable de vous défendre pendant le round de surprise
 
 |- CLASS="premier"
-| [Science de la vigie](./Science de la vigie.md) || DTT || [Vigie](./Vigie.md) || L'alerte donnée fait perdre la condition pris au dépourvu
+| [[Science de la vigie]] || DTT || [[Vigie]] || L'alerte donnée fait perdre la condition pris au dépourvu
 
 |- CLASS="premier"
-| [Sort en embuscade](./Sort en embuscade.md) || DTT || — || malus aux jet de sauvegarde contre vos sorts pendant le round de surprise
+| [[Sort en embuscade]] || DTT || — || malus aux jet de sauvegarde contre vos sorts pendant le round de surprise
 
 |- CLASS="premier"
-| [Tour ignoble](./Tour ignoble.md)* || DTT || — || Vous rendez plus difficile de se débarrasser de la condition imposée par un sale coup réussi
+| [[Tour ignoble]]* || DTT || — || Vous rendez plus difficile de se débarrasser de la condition imposée par un sale coup réussi
 
 |- CLASS="premier"
-| [Toxine profonde](./Toxine profonde.md) || DTT || [Frappe décisive](./Frappe décisive.md), [BBA](./BBA.md)+6; [Artisanat](./Artisanat.md) (Poison) 6 rangs ou capacité *utilisation des poisons* || Vos poisons durent plus longtemps et sont appliqués immédiatement
+| [[Toxine profonde]] || DTT || [[Frappe décisive]], [[BBA]]+6; [[Artisanat]] (Poison) 6 rangs ou capacité *utilisation des poisons* || Vos poisons durent plus longtemps et sont appliqués immédiatement
 
 |- CLASS="premier"
-| [Toxine sournoise](./Toxine sournoise.md) || DTT || [BBA](./BBA.md)+5, capacité *attaque sournoise* || les dégâts supplémentaires d'attaque sournoise augmentent le DD du poison utilisé
+| [[Toxine sournoise]] || DTT || [[BBA]]+5, capacité *attaque sournoise* || les dégâts supplémentaires d'attaque sournoise augmentent le DD du poison utilisé
 
 |- CLASS="premier"
-| [Vérification](./Vérification.md) || DTT || Capacité à lancer des sorts de niveau 1, alignement loyal mauvais, vénérer une entité diabolique || Vous savez détecter ceux qui vous mentent et savez en tirer avantage
+| [[Vérification]] || DTT || Capacité à lancer des sorts de niveau 1, alignement loyal mauvais, vénérer une entité diabolique || Vous savez détecter ceux qui vous mentent et savez en tirer avantage
 
 |- CLASS="premier"
-| [Voile amical](./Voile amical.md) || DTT || [Discrétion](./Discrétion.md) 1 rang || Un allié profite de votre Discrétion
+| [[Voile amical]] || DTT || [[Discrétion]] 1 rang || Un allié profite de votre Discrétion
 |}
 </center>
 
@@ -137,6 +137,6 @@ LastModified: 2021-09-01 14:08
 | WIDTH="11%" | Mod. Niveau
 
 |- CLASS="premier"
-| [Sort toxique](./Sort toxique.md) || DTT || [Artisanat](./Artisanat.md) (poison) 5 rangs, capacité à lancer des sorts de niveau 2, capacité utilisation du poison || Une cible affecté par votre sort doit éviter les effets du poison || +1
+| [[Sort toxique]] || DTT || [[Artisanat]] (poison) 5 rangs, capacité à lancer des sorts de niveau 2, capacité utilisation du poison || Une cible affecté par votre sort doit éviter les effets du poison || +1
 |}
 </center>

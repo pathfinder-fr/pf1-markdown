@@ -11,12 +11,12 @@ Categories:
 
 {s:um}*Le personnage peut convertir une magie mentale en puissance nécromantique capable de contrôler les morts-vivants. *
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
-**Conditions.** 6 rangs en [Connaissances](./Connaissances.md) (religion), [École renforcée](./École renforcée.md) (nécromancie)
+**Conditions.** 6 rangs en [[Connaissances]] (religion), [[École renforcée]] (nécromancie)
 
-**Avantage.** Ce don fonctionne uniquement sur les sorts mentaux. Il affecte les [morts-vivants](./type Mort-vivant.md) (même s’ils sont dépourvus d’[Intelligence](./Intelligence.md)) comme s’ils n’étaient pas immunisés contre les effets mentaux mais il n’a aucun effet sur les créatures vivantes.
+**Avantage.** Ce don fonctionne uniquement sur les sorts mentaux. Il affecte les [[type mort-vivant|morts-vivants]] (même s’ils sont dépourvus d’[[Intelligence]]) comme s’ils n’étaient pas immunisés contre les effets mentaux mais il n’a aucun effet sur les créatures vivantes.
 
-Un sort thrénodique utilise un [emplacement de sort](./emplacement de sort.md) de deux niveaux de plus que le niveau réel du sort.
+Un sort thrénodique utilise un [[emplacement de sort]] de deux niveaux de plus que le niveau réel du sort.
 
 **Normal.** Les morts-vivants sont immunisés contre les effets mentaux.

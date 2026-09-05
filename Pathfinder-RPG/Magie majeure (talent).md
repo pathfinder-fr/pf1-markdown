@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#MAGIEMAJEURE
 ---
 
->>> [Talents#MAGIEMAJEURE](./Talents.md#MAGIEMAJEURE)
+>>> [[Talents#MAGIEMAJEURE]]

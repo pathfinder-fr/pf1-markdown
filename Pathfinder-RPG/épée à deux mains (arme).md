@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 50 po ; **Poids** 4 kg ; **Groupes** [lames lourdes](./groupe darmes.md#Lameslourdes)
+{s:AE}**Prix** 50 po ; **Poids** 4 kg ; **Groupes** [[Groupe darmes#Lameslourdes|lames lourdes]]
 **Dégâts** 1d10 (P), 2d6 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
 Cette immense épée à deux mains mesure environ 1,50 mètre de long. Il arrive qu’elle ait une lame inférieure émoussée que l’on peut saisir.

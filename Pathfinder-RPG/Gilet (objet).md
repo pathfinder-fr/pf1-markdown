@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 1 pa-50 po ; **Poids** 0,25 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:cs}{s:AA}**Prix** 1 pa-50 po ; **Poids** 0,25 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 Tout comme les chapeaux, on retrouve des gilets dans presque toutes les cultures. Bien que la conception de base reste la même, ils varient énormément en termes de coupe, de couleur et de fonction. La différence entre les gilets de cour de l’Empire décadent et les gilets de danse des Terres sauvages est assez frappante.

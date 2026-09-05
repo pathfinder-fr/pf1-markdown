@@ -6,7 +6,7 @@ Categories:
 - Golarion Day
 ---
 
-<p class="description">Traduction d'un article de James Jacobs paru sur le [site de Paizo](http://paizo.com/paizo/blog/v5748dyo5lbrw) — retour à la rubrique [Un jour sur Golarion](./JourGolarion.md).</p>
+<p class="description">Traduction d'un article de James Jacobs paru sur le [site de Paizo](http://paizo.com/paizo/blog/v5748dyo5lbrw) — retour à la rubrique [[JourGolarion|Un jour sur Golarion]].</p>
 
 <div style="float: right; padding: 0 0 12px 12px"><div style="padding: 12px 12px 0px 12px; border: 1px solid #4b3124"><div class="BD">
 {s:BDTitre|Jervis Stoot|FP 6}

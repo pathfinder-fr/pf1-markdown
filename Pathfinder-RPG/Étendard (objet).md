@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:CCMI}**Prix** 10 po ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-L'étendard est une bannière colorée qui porte le symbole ou le blason d'une nation ou d'une organisation. Un personnage qui porte un étendard et possède le don [Porte-étendard](./Porte-étendard.md) accorde des bonus de combat supplémentaires à ses alliés. Il faut avoir une main libre pour porter un étendard au combat.
+L'étendard est une bannière colorée qui porte le symbole ou le blason d'une nation ou d'une organisation. Un personnage qui porte un étendard et possède le don [[Porte-étendard]] accorde des bonus de combat supplémentaires à ses alliés. Il faut avoir une main libre pour porter un étendard au combat.

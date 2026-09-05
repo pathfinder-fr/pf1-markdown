@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Lorsque le personnage canalise de l'énergie positive, il peut aussi canaliser du ki.*
 
-**Conditions.** Capacité de classe [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) positive, suivant d'[Irori](./Irori (technique).md)
+**Conditions.** Capacité de classe [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] positive, suivant d'[[Irori (technique)|Irori]]
 
-**Avantage.** Lorsque le personnage [canalise de l'énergie](./Prêtre.md#CANALISATIONDENERGIE) positive pour soigner des créatures vivantes, toute créature qui serait soignée par la canalisation d'énergie peut choisir de récupérer du [ki](./Moine.md#RESERVEDEKI) à la place. Les créatures affectées récupèrent un nombre de points de ki égal au nombre de dés soignés par la canalisation. Une créature qui récupère du ki de cette manière ne sera cependant pas soignée par la canalisation.
+**Avantage.** Lorsque le personnage [[Prêtre#CANALISATIONDENERGIE|canalise de l'énergie]] positive pour soigner des créatures vivantes, toute créature qui serait soignée par la canalisation d'énergie peut choisir de récupérer du [[Moine#RESERVEDEKI|ki]] à la place. Les créatures affectées récupèrent un nombre de points de ki égal au nombre de dés soignés par la canalisation. Une créature qui récupère du ki de cette manière ne sera cependant pas soignée par la canalisation.

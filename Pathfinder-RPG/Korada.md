@@ -10,7 +10,7 @@ LastModified: 2021-07-15 17:39
 {s:pucem|Extraplanaire|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 252*}
 - ** 2 457 600 PX**
-- [Extérieur](./type Extérieur.md) ([agathion](./sous-type agathion.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md)) de taille G, NB
+- [[type extérieur|Extérieur]] ([[sous-type agathion|agathion]], [[sous-type bien|Bien]], [[sous-type extraplanaire|extraplanaire]]) de taille G, NB
 - **Init **+22 ; **Sens** perception aveugle à 18 m, vision dans le noir à 18 m, détection du Mal, détection des pensées, vision nocturne ; Perception +46
 - **Aura** primale (9 m)
 (((Défense)))
@@ -26,16 +26,16 @@ LastModified: 2021-07-15 17:39
 - **Espace** 3 m ; **Allonge** 3 m
 - **Attaques spéciales** fracassement des sorts, coup étourdissant (8/jour, DD 22)
 - **Pouvoirs magiques** (**NLS** 20 ; concentration +34)
-  - Constant — *[détection du Mal](./Détection du Mal.md), [détection de pensées](./Détection de pensées.md), [marche sur l’onde](./Marche sur londe.md), [prémonition](./Prémonition.md)*, [sanctuaire](./Sanctuaire.md)** (DD 25)
-  - À volonté — *[augure](./Augure.md), [apaisement des animaux](./Apaisement des animaux.md) (DD 25), [apaisement des émotions](./Apaisement des émotions.md)* (DD 26), *[bénédiction](./Bénédiction.md)*, [image miroir](./Image miroir.md)*, [soins importants](./Soins importants.md)*, [téléportation suprême](./Téléportation suprême.md)*
-  - 3/jour — *[divination](./Divination.md), [image miroir](./Image miroir.md)** à incantation rapide, *[mur de force](./Mur de force.md)*, [neutralisation du poison](./Neutralisation du poison.md), [singes fous](./Singes fous.md), [vision lucide](./Vision lucide.md)*
-  - 1/jour — [moment de prescience](./Moment de prescience.md), [zone d’antimagie](./Zone dantimagie.md)
+  - Constant — *[[détection du Mal]], [[détection de pensées]], [[marche sur londe|marche sur l’onde]], [[prémonition]]*, [[sanctuaire]]** (DD 25)
+  - À volonté — *[[augure]], [[apaisement des animaux]] (DD 25), [[apaisement des émotions]]* (DD 26), *[[bénédiction]]*, [[image miroir]]*, [[soins importants]]*, [[téléportation suprême]]*
+  - 3/jour — *[[divination]], [[image miroir]]** à incantation rapide, *[[mur de force]]*, [[neutralisation du poison]], [[singes fous]], [[vision lucide]]*
+  - 1/jour — [[moment de prescience]], [[zone dantimagie|zone d’antimagie]]
 - (*) Korada peut utiliser la version mythique de ces pouvoirs dans son royaume.
 (((Statistiques)))
 - **For** 26, **Dex** 30, **Con** 33, **Int** 25, **Sag** 35, **Cha** 38
 - **BBA **+32 ; **BMO **+41 (+43 pour le désarmement ou la lutte, +45 pour le croc-en-jambe) ; **DMD** 84 (86 contre le désarmement, la lutte ou le  croc-en-jambe)
-- **Dons** [Attaque éclair](./Attaque éclair.md), [Attaque en finesse](./Attaque en finesse.md), [Attaques réflexes](./Attaques réflexes.md), [Capture de projectiles](./Capture de projectiles.md), [Coup étourdissant](./Coup étourdissant.md)<sup>S</sup>, [Croc-en-jambe supérieur](./Croc-en-jambe supérieur.md), [École du scorpion](./École du scorpion.md), [Esquive](./Esquive.md), [Expertise du combat](./Expertise du combat.md), [Fente](./Fente.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (image miroir), [S’avancer](./Savancer.md), [Science de l’initiative](./Science de linitiative.md), [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md)<sup>S</sup>, [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Science du désarmement](./Science du désarmement.md), [Souplesse du serpent](./Souplesse du serpent.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +44 (+68 pour sauter), [Art de la magie](./Art de la magie.md) +22, [Bluff](./Bluff.md) +32, [Connaissances](./Connaissances.md) (folklore local) +22, [Connaissances](./Connaissances.md) (mystères, géographie, histoire, nature) +23, [Connaissances](./Connaissances.md) (plans, religion) +41, [Déguisement](./Déguisement.md) +32, [Diplomatie](./Diplomatie.md) +45, [Discrétion](./Discrétion.md) +40, [Escalade](./Escalade.md) +50, [Évasion](./Évasion.md) +26, [Perception](./Perception.md) +46, [Premiers secours](./Premiers secours.md) +27, [Psychologie](./Psychologie.md) +46, [Vol](./Vol.md) +8
+- **Dons** [[Attaque éclair]], [[Attaque en finesse]], [[Attaques réflexes]], [[Capture de projectiles]], [[Coup étourdissant]]<sup>S</sup>, [[Croc-en-jambe supérieur]], [[École du scorpion]], [[Esquive]], [[Expertise du combat]], [[Fente]], [[Pouvoir magique rapide]] (image miroir), [[Savancer|S’avancer]], [[Science de linitiative|Science de l’initiative]], [[Science de la lutte]], [[Science du combat à mains nues]]<sup>S</sup>, [[Science du croc-en-jambe]], [[Science du désarmement]], [[Souplesse du serpent]]
+- **Compétences** [[Acrobaties]] +44 (+68 pour sauter), [[Art de la magie]] +22, [[Bluff]] +32, [[Connaissances]] (folklore local) +22, [[Connaissances]] (mystères, géographie, histoire, nature) +23, [[Connaissances]] (plans, religion) +41, [[Déguisement]] +32, [[Diplomatie]] +45, [[Discrétion]] +40, [[Escalade]] +50, [[Évasion]] +26, [[Perception]] +46, [[Premiers secours]] +27, [[Psychologie]] +46, [[Vol]] +8
 - **Modificateurs raciaux** +24 en Acrobaties pour sauter
 - **Langues** céleste, infernal ; communication avec les animaux, langage universel
 - **Particularités** pas chassé, changement de forme (avoral ou n’importe quelle forme humanoïde, modification d’apparence), maître des écoles de combat, traits des seigneurs empyréens, réserve de ki (22 points ; adamantium, épique, bien, loi, magie, mythique, argent), imposition des mains (15d6, 29/jour), germe de vie, force tranquille
@@ -50,7 +50,7 @@ LastModified: 2021-07-15 17:39
 - **Maître des écoles de combat (Ext)**. Korada peut porter des attaques à mains nues et faire pleuvoir un déluge de coups comme un moine de niveau 20. Comme le moine, il ajoute son bonus de Sagesse à sa CA et son DMD. Par une action rapide, Korada peut prendre la position de base de n’importe quel don d’école de combat (comme École de la grueAG, École du singeAG, etc.) comme s’il possédait le premier don de l’arborescence de cette école de combat. Pendant la minute qui suit, s’il dépense 2 points de ki, il peut utiliser deux dons (au choix) issus de l’arborescence de l’école de combat dont il a adopté la posture. S’il change de posture, il n’a plus accès aux dons de la précédente mais il peut utiliser ceux de la nouvelle.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs empyréens](./Seigneurs empyréens.md).***</li><li>***Voir la description des [agathions](./Agathion.md).***</li></ul>*Cet homme serein et au physique de gymnaste arbore des pattes sévères, une barbe semblable à celle d’un singe et trois queues à la fourrure dorée.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs empyréens]].***</li><li>***Voir la description des [[Agathion|agathions]].***</li></ul>*Cet homme serein et au physique de gymnaste arbore des pattes sévères, une barbe semblable à celle d’un singe et trois queues à la fourrure dorée.*
 
 Korada est le champion de la paix, de la bonté et du pardon. S’il aime et respecte les autres seigneurs empyréens qui luttent infatigablement contre la cruauté, il pense que le triomphe ultime du bien viendra de la rédemption des créatures du mal plutôt que de leur destruction. Honnête, joyeux et futé, la Main ouverte de l’harmonie dispense sa sagesse avec chaleur et humilité et partage librement les secrets qu’il a découverts au cours de ses années d’étude et de méditation. Korada s’est tant investi dans la philosophie et l’introspection qu’il a appris à lire les divers fils du monde, à percevoir leurs connexions pratiquement infinies et même à agir sur eux avec une prescience troublante. N’affichant pas la naïveté de la jeunesse ni la lassitude désabusée de la vieillesse, Korada incarne l’équilibre parfait entre l’intelligence consciente et l’instinct animal, se sentant à l’aise où qu’il soit.
 

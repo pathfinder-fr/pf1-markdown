@@ -10,7 +10,7 @@ LastModified: 2020-09-21 17:41
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 218*}
 - **600 PX**
-- [Vermine](./type Vermine.md) de taille G, N
+- [[type vermine|Vermine]] de taille G, N
 - **Init **+3 ; **Sens** vision dans le noir à 18 m ; Perception +0
 (((Défense)))
 - **CA** 13, contact 13, pris au dépourvu 9 (Dex +3, esquive +1, taille -1)
@@ -26,7 +26,7 @@ LastModified: 2020-09-21 17:41
 - **For** 13, **Dex** 17, **Con** 13, **Int **—, **Sag** 11, **Cha** 6
 - **BBA **+3 ; **BMO **+6 ; **DMD** 19
 - **Dons** EsquiveS
-- **Compétences** [Acrobaties](./Acrobaties.md) +0 (+20 pour sauter)
+- **Compétences** [[Acrobaties]] +0 (+20 pour sauter)
 - **Modificateurs raciaux** +20 en Acrobaties pour sauter
 - **Particularités** saut extraordinaire (cf. puce géante)
 (((Écologie)))
@@ -43,9 +43,9 @@ LastModified: 2020-09-21 17:41
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Puce cyclopéenne](./Puce cyclopéenne.md) || 2
+| [[Puce cyclopéenne]] || 2
 |-
-| [Puce géante](./Puce géante.md) || 1/2
+| [[Puce géante]] || 1/2
 |}
 </div>*Cette puce cyclopéenne est aussi grande qu’un cheval. Ses pattes pendouillent maladroitement sous son énorme corps gonflé et entièrement protégé de plaques dépareillées.*
 

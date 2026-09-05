@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde Monstrueux|Désert|Froid}
 {s:BDTexte|*Source : Bestiaire 4 p.258*}
 {s:BDTexte|**XP** 1 200}
-{s:BDTexte|[Humanoïde Monstrueux](./type Humanoïde monstrueux.md) de taille G, N}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde Monstrueux|Humanoïde Monstrueux]] de taille G, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 10, pris au dépourvu 17 (armure +4, Dex +1, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 47 (5d10+20)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 13, **Con** 18, **Int** 10, **Sag** 11, **Cha** 13}
 {s:BDTexte|**BBA** +5, **BMO** +11, **DMD** 22}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (long fusil shobhad), [Attaques réflexes](./Attaques réflexes.md), [Combat à plusieurs armes](./Combat à plusieurs armes.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +2, [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +8, [Survie](./Survie.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (long fusil shobhad), [[Attaques réflexes]], [[Combat à plusieurs armes]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +2, [[Intimidation]] +9, [[Perception]] +8, [[Survie]] +8}
 {s:BDTexte|**Langues** géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes ou déserts froids}
@@ -36,7 +36,7 @@ Categories:
 de soldats (3-19) ou clan (20 ou plus avec 1 sergent
 de niveau 3-4 par tranche de 10 adultes et 1 chef
 de niveau 5-7) et montures (utilisez le profil des
-[ankylosaures](./Ankylosaure.md)).}
+[[ankylosaure|ankylosaures]]).}
 {s:BDTexte|**Trésor** équipement de PNJ (armure de peau, 2 épées
 longues, 2 javelines, long fusil shobhad avec 20 balles, autres trésors)}
 </div>
@@ -102,7 +102,7 @@ Ainsi, c’est au coeur des combats qu’un shobhad devient
 véritablement immortel.
 
 ### LONG FUSIL SHOBHAD
-On considère que le long fusil shobhad est identique à un [fusil](./Tableau récapitulatif des armes à feu.md) de [taille G](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Caractéristiques des armes.ashx#Taille_de_l’arme_16) avec un facteur de portée de 60 mètres et
+On considère que le long fusil shobhad est identique à un [[Tableau récapitulatif des armes à feu|fusil]] de [taille G](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Caract%C3%A9ristiques%20des%20armes.ashx#Taille_de_l’arme_16) avec un facteur de portée de 60 mètres et
 qui fonctionne uniquement sur des mondes à
 faible gravité.
 </div></td></tr></table>

@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 3, [Pal](./Paladin.md) 2  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 3, [[Paladin|Pal]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Le personnage imprègne sa cible d'une vague d'énergie divine qui améliore son aptitude à blesser son adversaire en fonction du nombre de coups qu'elle lui a déjà portés. À chaque fois que la créature parvient à toucher son adversaire avec une [attaque au corps à corps](./attaque au corps à corps.md), le sujet gagne un bonus de moral cumulable de +1 aux [jets d'attaque](./jet dattaque.md) contre cet adversaire (avec un maximum de +4) et gagne 1d8 [points de vie](./pv.md) temporaires (avec un maximum de 20 points de vie temporaires). S'il rate son attaque, le bonus à l'attaque repart à +0 mais les points de vie temporaires persistent. Ils disparaissent quand le sort se termine.
+Le personnage imprègne sa cible d'une vague d'énergie divine qui améliore son aptitude à blesser son adversaire en fonction du nombre de coups qu'elle lui a déjà portés. À chaque fois que la créature parvient à toucher son adversaire avec une [[attaque au corps à corps]], le sujet gagne un bonus de moral cumulable de +1 aux [[jet dattaque|jets d'attaque]] contre cet adversaire (avec un maximum de +4) et gagne 1d8 [[pv|points de vie]] temporaires (avec un maximum de 20 points de vie temporaires). S'il rate son attaque, le bonus à l'attaque repart à +0 mais les points de vie temporaires persistent. Ils disparaissent quand le sort se termine.

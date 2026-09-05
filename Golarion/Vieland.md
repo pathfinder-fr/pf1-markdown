@@ -7,6 +7,6 @@ Categories:
 - Ustalav
 ---
 
-Le comté de Vieland est un petit royaume situé à l'extrême nord de l'[Ustalav](./Ustalav.md).
+Le comté de Vieland est un petit royaume situé à l'extrême nord de l'[[Ustalav]].
 
-Il est surtout connu pour les étranges et très anciennes pierres monolithiques qui sont disséminées sur son territoire. Il fait partie des Palatinats, mais, contrairement à ses voisins du Lozeri et du Canterwall, c'est le comte Caromarc de Vieland qui a décidé lui-même d'abdiquer. A ce jour, le comte vit toujours dans un manoir situé au nord du marais de Dippelmere. Ironiquement, moins de quarante ans après son abdication, le conseil municipal de [Lepidstadt](./Lepidstadt.md) lui a demandé son aide plusieurs fois lors d'épidémies, de désordre civil et plus récemment lors d'une série de meurtre qui fut perpétrée à [Lepidstadt](./Lepidstadt.md).
+Il est surtout connu pour les étranges et très anciennes pierres monolithiques qui sont disséminées sur son territoire. Il fait partie des Palatinats, mais, contrairement à ses voisins du Lozeri et du Canterwall, c'est le comte Caromarc de Vieland qui a décidé lui-même d'abdiquer. A ce jour, le comte vit toujours dans un manoir situé au nord du marais de Dippelmere. Ironiquement, moins de quarante ans après son abdication, le conseil municipal de [[Lepidstadt]] lui a demandé son aide plusieurs fois lors d'épidémies, de désordre civil et plus récemment lors d'une série de meurtre qui fut perpétrée à [[Lepidstadt]].

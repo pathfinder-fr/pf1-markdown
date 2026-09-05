@@ -8,6 +8,6 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-Si le dragon [mythique](./mythique.md) est capable de lancer des sorts profanes, il connaît automatiquement tous les tours de magie de la classe de lanceur de sorts à laquelle il équivaut et peut les lancer à volonté.
+Si le dragon [[mythique]] est capable de lancer des sorts profanes, il connaît automatiquement tous les tours de magie de la classe de lanceur de sorts à laquelle il équivaut et peut les lancer à volonté.
 
 *Format :* tours de magie des dragons ; *Emplacement :* Particularités.

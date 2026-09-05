@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Les attaques à mains nues du personnage labourent les chairs et terrifient ses victimes. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), [École du sanglier](./École du sanglier.md), 6 [rangs](./rang.md) en [Intimidation](./Intimidation.md)
+**Conditions.** [[Science du combat à mains nues]], [[École du sanglier]], 6 [[rang|rangs]] en [[Intimidation]]
 
-**Avantage.** Le personnage ajoute « perforants » aux types de dégâts qu’il peut infliger avec des attaques à mains nues. De plus, il gagne un bonus de +2 aux tests d’[Intimidation](./Intimidation.md) pour démoraliser ses adversaires. Quand il utilise l’[École du sanglier](./École du sanglier.md), dès qu’il déchire les chairs de son ennemi, il peut dépenser une [action libre](./Action libre.md) pour faire un test d’[Intimidation](./Intimidation.md) qui vise à démoraliser sa victime.
+**Avantage.** Le personnage ajoute « perforants » aux types de dégâts qu’il peut infliger avec des attaques à mains nues. De plus, il gagne un bonus de +2 aux tests d’[[Intimidation]] pour démoraliser ses adversaires. Quand il utilise l’[[École du sanglier]], dès qu’il déchire les chairs de son ennemi, il peut dépenser une [[action libre]] pour faire un test d’[[Intimidation]] qui vise à démoraliser sa victime.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Si l’adversaire du personnage est démoralisé avant que ce dernier ne déchire ses chairs avec l’[École du sanglier](./École du sanglier.md), le personnage peut dépenser 5 points d’endurance pour le rendre [fiévreux](./Fiévreux.md) pendant 1 [round](./round.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Si l’adversaire du personnage est démoralisé avant que ce dernier ne déchire ses chairs avec l’[[École du sanglier]], le personnage peut dépenser 5 points d’endurance pour le rendre [[fiévreux]] pendant 1 [[round]].

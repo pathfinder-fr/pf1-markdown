@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 4 pc (la chope), 2 pa (le gallon) ; **Poids** 0,5 kg (la chope), 4 kg (le gallon)
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Il s’agit d’une bière brassée à partir d’orge malté. Elle a un goût sucré, corsé et parfois fruité.

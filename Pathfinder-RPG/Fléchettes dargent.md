@@ -11,11 +11,11 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Invocation](./Invocation.md) ([création](./../Création.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3  
+{s:MCA}**École** [[Invocation]] ([[création]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une aiguille en argent)  
+**Composantes** [[composantes|V, G, M]] (une aiguille en argent)  
 
 **Portée** 4,5 m (3 {s:c})  
 
@@ -23,6 +23,6 @@ Categories:
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 Un cône de fléchettes d’argent surgit de la main du personnage. Ces fléchettes fonctionnent comme une arme en argent infligeant 1d6 points de dégâts perforants par niveau de lanceur (10d6 au maximum). Toute créature possédant un bonus d’armure supérieur à +4 ou un bonus d’armure naturelle supérieur à +4 reçoit 50% des dégâts en moins.

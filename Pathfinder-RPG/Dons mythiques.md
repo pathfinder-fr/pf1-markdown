@@ -9,17 +9,17 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-{s:MenuMythique}{s:CMy}Les personnages et les monstres mythiques acquièrent des dons mythiques au fur et à mesure de leur progression en grades ou en rangs. Il est possible de choisir ces dons seulement lors d’une [progression mythique](./AptitudeMythiquesBases.md), et non lors de la progression normale d’un personnage ou à la place de tout autre type de don supplémentaire.
+{s:MenuMythique}{s:CMy}Les personnages et les monstres mythiques acquièrent des dons mythiques au fur et à mesure de leur progression en grades ou en rangs. Il est possible de choisir ces dons seulement lors d’une [[AptitudeMythiquesBases|progression mythique]], et non lors de la progression normale d’un personnage ou à la place de tout autre type de don supplémentaire.
 
-La plupart des dons mythiques exigent, entre autres conditions requises, que le personnage possède un don [non-mythique](./non-mythique.md) donné. Les dons mythiques améliorent les avantages conférés par leurs dons pré-requis, ce qui les rend véritablement impressionnant. Si un personnage ne possède aucun des dons figurant dans les conditions requises lorsqu’il a droit à un don mythique, il peut attendre l’obtention du prochain grade ou niveau pour sélectionner le don mythique.
+La plupart des dons mythiques exigent, entre autres conditions requises, que le personnage possède un don [[non-mythique]] donné. Les dons mythiques améliorent les avantages conférés par leurs dons pré-requis, ce qui les rend véritablement impressionnant. Si un personnage ne possède aucun des dons figurant dans les conditions requises lorsqu’il a droit à un don mythique, il peut attendre l’obtention du prochain grade ou niveau pour sélectionner le don mythique.
 
-Dans la description des dons mythiques, un nombre basé sur une fraction de grade (comme un bonus de +1 pour chaque tranche de 3 [grades](./grades.md)) donne toujours un résultat minimum de 1. Cette section propose également quelques dons [non-mythiques](./non-mythiques.md). Ces dons permettent aux personnages qui n’ont pas vécu l’ascension de se faire une idée du pouvoir mythique. Ils restent intéressants, même si les personnages deviennent mythiques par la suite.
+Dans la description des dons mythiques, un nombre basé sur une fraction de grade (comme un bonus de +1 pour chaque tranche de 3 [[grades]]) donne toujours un résultat minimum de 1. Cette section propose également quelques dons [[non-mythiques]]. Ces dons permettent aux personnages qui n’ont pas vécu l’ascension de se faire une idée du pouvoir mythique. Ils restent intéressants, même si les personnages deviennent mythiques par la suite.
 
 ### Types de dons
 La plupart des dons sont répartis en catégories et des règles spéciales sont attachées à chacune de ces catégories. La catégorie est indiquée après le nom du don. Vous trouverez dans cette section les types de dons suivants :
 
 #### Dons de métamagie
-Les [dons de métamagie](./dons de métamagie.md) permettent aux lanceurs de sorts de modifier leurs sorts, en les dotant de capacités et d’effets nouveaux. Ces sorts modifiés utilisent des emplacements de sort d’un niveau plus élevé que le sort non-modifié.
+Les [[dons de métamagie]] permettent aux lanceurs de sorts de modifier leurs sorts, en les dotant de capacités et d’effets nouveaux. Ces sorts modifiés utilisent des emplacements de sort d’un niveau plus élevé que le sort non-modifié.
 
 #### Dons mythiques
 Seuls les personnages avec des grades mythiques ou des créatures avec des rangs mythiques peuvent posséder ce type de dons. Si une créature devient non-mythique, elle ne bénéficie plus des avantages conférés par ces dons, mais ce n’est pas définitif. Si la créature redevient mythique par la suite, elle peut de nouveau utiliser tous les dons mythiques qu’elle possédait. Beaucoup de dons mythiques sont des améliorations des dons non-mythiques, ils portent donc le même nom. Quand une créature possède la version mythique d’un don, celui-ci est indiqué par la lettre « M » après le nom du don concerné dans son profil.
@@ -38,4 +38,4 @@ Voici le format suivant appliqué pour décrire l’ensemble des dons.
 **Spécial.** Des faits supplémentaires et plus inhabituels à propos du don.
 
 ### Listes des dons
-Voir le [tableau récapitulatif des dons mythiques](./Tableau récapitulatif des dons mythiques.md).
+Voir le [[tableau récapitulatif des dons mythiques]].

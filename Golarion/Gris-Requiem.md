@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-Parfois appelée Requiem, Gris-Requiem est une cité de l'ouest du [Geb](./Geb.md) située sur les contreforts de la [Chaîne Brisée](./Chaîne Brisée.md).
+Parfois appelée Requiem, Gris-Requiem est une cité de l'ouest du [[Geb]] située sur les contreforts de la [[Chaîne Brisée]].
 
-Une des plus grandes particularités de la ville est son principal matériau de construction. En effet, la cité est un immense ossuaire fabriqué à l'aide des os des Gebbites, les habitants du [Geb](./Geb.md), morts qui n'ont pas souhaité ou pas pu être réanimés.
+Une des plus grandes particularités de la ville est son principal matériau de construction. En effet, la cité est un immense ossuaire fabriqué à l'aide des os des Gebbites, les habitants du [[Geb]], morts qui n'ont pas souhaité ou pas pu être réanimés.
 
-On y trouve aussi un temple dédié à [Zon-Kuthon](./Zon-Kuthon.md).
+On y trouve aussi un temple dédié à [[Zon-Kuthon]].

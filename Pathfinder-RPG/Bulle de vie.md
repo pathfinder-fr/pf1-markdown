@@ -15,22 +15,22 @@ Categories:
 ---
 
 {s:APG}
-**École** [Abjuration](./Abjuration.md) ;** Niveau** [Dru](./Druide.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Occ](./Occultiste.md) 4, [Prê](./Prêtre.md) 5, [Psy](./Psychiste.md) 5, [Rôd](./Rôdeur.md) 3  
+**École** [[Abjuration]] ;** Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Rôdeur|Rôd]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (un morceau de coquille d'œuf)  
+**Composantes** [[Composantes|V, G, M/FD]] (un morceau de coquille d'œuf)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
-**Cible** créatures touchées, jusqu'à une/[niveau](./niveau.md)  
+**Cible** créatures touchées, jusqu'à une/[[niveau]]  
 
-**Durée** 2 heures/[niveau](./niveau.md) ; voir texte  
+**Durée** 2 heures/[[niveau]] ; voir texte  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVERGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVERGARDE)) ; ** Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVERGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVERGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVERGARDE|inoffensif]]) ; ** Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVERGARDE|inoffensif]])
 
-Le personnage entoure les créatures touchées d'une enveloppe constante et déplaçable de 3 cm d'épaisseur de conditions vivables. Cette enveloppe permet au sujet de respirer librement, même sous l'eau ou dans le vide. Elle les immunise également contre les gaz et les vapeurs nocives, y compris les [maladies](./Maladies.md) et les [poisons](./Poisons.md) inhalés ainsi que les sorts comme *[brume mortelle](./Brume mortelle.md)* ou *[nuage nauséabond](./Nuage nauséabond.md)*. De plus, l'enveloppe protège les sujets contre les températures extrêmes (comme *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)*) et aux fortes pressions.
+Le personnage entoure les créatures touchées d'une enveloppe constante et déplaçable de 3 cm d'épaisseur de conditions vivables. Cette enveloppe permet au sujet de respirer librement, même sous l'eau ou dans le vide. Elle les immunise également contre les gaz et les vapeurs nocives, y compris les [[maladies]] et les [[poisons]] inhalés ainsi que les sorts comme *[[brume mortelle]]* ou *[[nuage nauséabond]]*. De plus, l'enveloppe protège les sujets contre les températures extrêmes (comme *[[endurance aux énergies destructives]]*) et aux fortes pressions.
 
-*Bulle de vie* ne protège pas contre l'énergie positive ou négative (comme celle que l'on trouve sur le [plan de l'Énergie positive](./Plans.md) et [celui de l'Énergie négative](./Plans.md)), ne permet pas de voir quand les conditions de visibilité sont mauvaises (comme dans la fumée ou le brouillard) et ne permet pas non plus de se déplacer ou d'agir normalement dans des conditions qui gênent les mouvements (comme sous l'eau).
+*Bulle de vie* ne protège pas contre l'énergie positive ou négative (comme celle que l'on trouve sur le [[plans|plan de l'Énergie positive]] et [[plans|celui de l'Énergie négative]]), ne permet pas de voir quand les conditions de visibilité sont mauvaises (comme dans la fumée ou le brouillard) et ne permet pas non plus de se déplacer ou d'agir normalement dans des conditions qui gênent les mouvements (comme sous l'eau).
 
-Quand le personnage lance de sort, il a une durée totale de 2 heures par [niveau](./niveau.md) de lanceur de sorts. Il peut diviser cette durée de la manière qu'il désire, pas forcément en parts égales, entre plusieurs créatures, jusqu'à 1 créature par [niveau](./niveau.md) de lanceur de sorts.
+Quand le personnage lance de sort, il a une durée totale de 2 heures par [[niveau]] de lanceur de sorts. Il peut diviser cette durée de la manière qu'il désire, pas forcément en parts égales, entre plusieurs créatures, jusqu'à 1 créature par [[niveau]] de lanceur de sorts.

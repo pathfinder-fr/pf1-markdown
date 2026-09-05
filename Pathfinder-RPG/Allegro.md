@@ -10,12 +10,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 2</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V](./composantes.md)</br>
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)</br>
+**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[Composantes|V]]</br>
+**Portée** [[présentation des sorts#PORTEE|personnelle]]</br>
 **Cible** lanceur de sorts</br>
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T) ou jusqu’à déchargement</br>
+**Durée** 1 [[round]]/[[niveau]] (T) ou jusqu’à déchargement</br>
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Ce sort permet au personnage d’agir plus rapidement tout en maintenant une [représentation bardique](./représentation bardique.md). Il doit être capable de la maintenir tout en lançant ce sort. Il bénéficie des effets d’un sort de *[rapidité](./Rapidité.md)* tant qu’il prolonge sa [représentation](./représentation bardique.md). Si le personnage ne maintient plus la [représentation](./représentation bardique.md) ou s’il est interrompu, *allegro* se termine. Tant que le personnage prolonge sa [représentation bardique](./représentation bardique.md), il peut, par une [action immédiate](./Action immédiate.md), renoncer à l’*allegro* pour refaire un jet de [Réflexes](./Réflexes.md) ou un test basé sur la [Dextérité](./Dextérité.md) (il doit choisir de refaire le jet avant de connaître son résultat). Il doit conserver le second, même s’il est pire que le premier. *Allegro* dissipe et se fait dissiper par *[lenteur](./Lenteur.md)*.
+Ce sort permet au personnage d’agir plus rapidement tout en maintenant une [[représentation bardique]]. Il doit être capable de la maintenir tout en lançant ce sort. Il bénéficie des effets d’un sort de *[[rapidité]]* tant qu’il prolonge sa [[représentation bardique|représentation]]. Si le personnage ne maintient plus la [[représentation bardique|représentation]] ou s’il est interrompu, *allegro* se termine. Tant que le personnage prolonge sa [[représentation bardique]], il peut, par une [[action immédiate]], renoncer à l’*allegro* pour refaire un jet de [[Réflexes]] ou un test basé sur la [[Dextérité]] (il doit choisir de refaire le jet avant de connaître son résultat). Il doit conserver le second, même s’il est pire que le premier. *Allegro* dissipe et se fait dissiper par *[[lenteur]]*.

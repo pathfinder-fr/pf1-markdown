@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.64*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille P, CM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille P, CM}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 11, pris au dépourvu 14 (naturelle +3, taille +1)}
 {s:BDTexte|**pv** 18 (2d10+7)}
@@ -24,13 +24,13 @@ Categories:
 {s:BDTexte|**VD**  6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** 2 griffes +4 (1d4+1), morsure +4 (1d4+1)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 2<sup>e</sup>)}
-{s:BDSorts|1/jour — *[convocation](./Convocation (capacité).md)* (niveau 1, 1 dretch, 35%), *[frayeur](./Frayeur.md)* (DD 11), *[nuage nauséabond](./Nuage nauséabond.md)* (DD 13)}
+{s:BDSorts|1/jour — *[[Convocation (capacité)|convocation]]* (niveau 1, 1 dretch, 35%), *[[frayeur]]* (DD 11), *[[nuage nauséabond]]* (DD 13)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 10, **Con** 14, **Int** 5, **Sag** 11, **Cha** 11}
 {s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 12}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +9, [Évasion](./Évasion.md) +5, [Perception](./Perception.md) +5}
-{s:BDTexte|**Langues** abyssal (ne sait pas parler) ; [télépathie](./Télépathie.md)  30 m (20 {s:c}) (cibles parlant l'abyssal uniquement)}
+{s:BDTexte|**Dons** [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +9, [[Évasion]] +5, [[Perception]] +5}
+{s:BDTexte|**Langues** abyssal (ne sait pas parler) ; [[télépathie]]  30 m (20 {s:c}) (cibles parlant l'abyssal uniquement)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Abysse)}
 {s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-5), assemblée (6-12) ou foule (13+)}
@@ -38,7 +38,7 @@ Categories:
 
 {s:ImageCentre|Bestiaire/Dretch.jpg|90%}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 *Le corps boursouflé de cette créature tremble à chacun de ses pas mais malgré tout, elle se déplace avec une rapidité étonnante.*
 
 Même les démons qui se situent tout en bas de l’échelle

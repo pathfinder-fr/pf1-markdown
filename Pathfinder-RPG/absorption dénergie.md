@@ -7,4 +7,4 @@ Categories:
 RedirectTo: absorption dénergie (capacité)
 ---
 
->>> [absorption dénergie (capacité)](./Absorption dénergie (capacité).md)
+>>> [[absorption dénergie (capacité)]]

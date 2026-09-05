@@ -10,53 +10,53 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[Loi, son](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 6, [Prê](./Prêtre.md) 7  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|Loi, son]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 6, [[prêtre|Prê]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
 **Portée** 12 m (8 {s:c})  
 
-**Zone d'effet** créatures non-Loyales situées dans une étendue de 12 m (8 {s:c}) de rayon centrée sur le [prêtre](./Prêtre.md)  
+**Zone d'effet** créatures non-Loyales situées dans une étendue de 12 m (8 {s:c}) de rayon centrée sur le [[prêtre]]  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** aucun ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ;   
+**Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ;   
 
 **Résistance à la magie** oui
 
-Les créatures d’[alignement](./Alignement.md) autre que Loyal entendant le *décret* sont affectées par les effets néfastes suivants :
+Les créatures d’[[alignement]] autre que Loyal entendant le *décret* sont affectées par les effets néfastes suivants :
 
 <center>
 {| CLASS="tablo"
 |- CLASS="titre"
 | Dés de vie || Effet
 |- CLASS="premier"
-| Égaux au [niveau de lanceur de sorts](./NLS.md) || Assourdissement
+| Égaux au [[NLS|niveau de lanceur de sorts]] || Assourdissement
 |- CLASS="alt"
-| Jusqu’au [niveau de lanceur de sorts](./NLS.md) -1 || Assourdissement, ralentissement
+| Jusqu’au [[NLS|niveau de lanceur de sorts]] -1 || Assourdissement, ralentissement
 |-
-| Jusqu’au [niveau de lanceur de sorts](./NLS.md) -5 || Assourdissement, paralysie, ralentissement
+| Jusqu’au [[NLS|niveau de lanceur de sorts]] -5 || Assourdissement, paralysie, ralentissement
 |- CLASS="alt"
-| Jusqu’au [niveau de lanceur de sorts](./NLS.md) -10 || Assourdissement, mort, paralysie, ralentissement
+| Jusqu’au [[NLS|niveau de lanceur de sorts]] -10 || Assourdissement, mort, paralysie, ralentissement
 |}
 </center>
 
-Tous ces effets sont cumulatifs et simultanés. Si la victime réussit son [jet de sauvegarde](./jet de sauvegarde.md), elle réduit ou [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ces effets. Les créatures touchées par plusieurs effets ne font qu’un seul [jet de sauvegarde](./jet de sauvegarde.md) qui s’applique à tous les effets.
+Tous ces effets sont cumulatifs et simultanés. Si la victime réussit son [[jet de sauvegarde]], elle réduit ou [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ces effets. Les créatures touchées par plusieurs effets ne font qu’un seul [[jet de sauvegarde]] qui s’applique à tous les effets.
 
-**Assourdissement.** La créature est [assourdie](./Assourdi.md) pendant 1d4 [rounds](./round.md). Un jet de [Volonté](./Volonté.md) réussi permet d’annuler l’effet.
+**Assourdissement.** La créature est [[assourdi|assourdie]] pendant 1d4 [[round|rounds]]. Un jet de [[Volonté]] réussi permet d’annuler l’effet.
 
-**Ralentissement.** La créature est [chancelante](./Chancelant.md) pendant 2d4 [rounds](./round.md). Un jet de [Volonté](./Volonté.md) réussi permet de réduire la durée à 1d4 [rounds](./round.md).
+**Ralentissement.** La créature est [[chancelant|chancelante]] pendant 2d4 [[round|rounds]]. Un jet de [[Volonté]] réussi permet de réduire la durée à 1d4 [[round|rounds]].
 
-**Paralysie.** La créature est [paralysée](./Paralysé.md) et [sans défense](./Sans défense.md) pendant 1d10 minutes. Un jet de [Volonté](./Volonté.md) réussi permet de réduire la [paralysie](./Paralysé.md) à 1 [round](./round.md).
+**Paralysie.** La créature est [[paralysé|paralysée]] et [[sans défense]] pendant 1d10 minutes. Un jet de [[Volonté]] réussi permet de réduire la [[paralysé|paralysie]] à 1 [[round]].
 
-**Mort.** La créature meurt immédiatement (ou est détruite, s’il s’agit d’un [mort-vivant](./type Mort-vivant.md)). En cas de [jet de sauvegarde](./jet de sauvegarde.md) réussi, la victime ne meurt pas mais subit seulement 3d6 points de dégâts +1 par [niveau de lanceur de sorts](./NLS.md) (maximum +25).
+**Mort.** La créature meurt immédiatement (ou est détruite, s’il s’agit d’un [[type mort-vivant|mort-vivant]]). En cas de [[jet de sauvegarde]] réussi, la victime ne meurt pas mais subit seulement 3d6 points de dégâts +1 par [[NLS|niveau de lanceur de sorts]] (maximum +25).
 
-En plus de ces effets, si le lanceur de sorts se situe sur son [plan d’origine](./Plans.md), toutes les créatures extraplanaires d’[alignement](./Alignement.md) autre que Loyal situées dans la [zone d’effet](./zone deffet.md) sont instantanément renvoyées dans leur [plan d’origine](./Plans.md). Ce bannissement les empêche de revenir avant que 24 heures ne se soient écoulées. Cet effet affecte même les entités qui n’ont pas entendu le *décret*. Pour annuler l’effet de bannissement, il faut réussir un jet de [Volonté](./Volonté.md) (avec un malus de -4).
+En plus de ces effets, si le lanceur de sorts se situe sur son [[plans|plan d’origine]], toutes les créatures extraplanaires d’[[alignement]] autre que Loyal situées dans la [[zone deffet|zone d’effet]] sont instantanément renvoyées dans leur [[plans|plan d’origine]]. Ce bannissement les empêche de revenir avant que 24 heures ne se soient écoulées. Cet effet affecte même les entités qui n’ont pas entendu le *décret*. Pour annuler l’effet de bannissement, il faut réussir un jet de [[Volonté]] (avec un malus de -4).
 
-Les créatures dont le nombre de [dés de vie](./dés de vie.md) est supérieur au [niveau de lanceur de sorts](./NLS.md) du personnage ne sont pas affectées.
+Les créatures dont le nombre de [[dés de vie]] est supérieur au [[NLS|niveau de lanceur de sorts]] du personnage ne sont pas affectées.
 
 ### Mythique
 {s:CMy}
-Le personnage ajoute son grade à son [niveau de lanceur de sorts](./NLS.md) lorsqu’il détermine l’effet du sort sur des créatures [non-mythiques](./non-mythiques.md). Les créatures non-Loyales qui ratent leur jet de sauvegarde contre le sort subissent également un malus de -4 aux jets d’attaque et de sauvegarde. De plus, leur résistance à la magie diminue de 5 points tant que durent les autres effets du sort.
+Le personnage ajoute son grade à son [[NLS|niveau de lanceur de sorts]] lorsqu’il détermine l’effet du sort sur des créatures [[non-mythiques]]. Les créatures non-Loyales qui ratent leur jet de sauvegarde contre le sort subissent également un malus de -4 aux jets d’attaque et de sauvegarde. De plus, leur résistance à la magie diminue de 5 points tant que durent les autres effets du sort.

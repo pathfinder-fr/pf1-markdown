@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Distraction (capacité)
 ---
 
->>> [Distraction (capacité)](./Distraction (capacité).md)
+>>> [[Distraction (capacité)]]

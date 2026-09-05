@@ -13,55 +13,55 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.107*}
 {s:BDTexte|**PX** 3200}
-{s:BDTexte|[Goule](./Goule.md) [rôdeur](./Rôdeur.md) 6}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[Goule]] [[rôdeur]] 6}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 15, pris au dépourvu 15 (armure +3, Dex +5, naturelle +2)}
 {s:BDTexte|**pv** 80 (8 DV ; 2d8+6d10+38)}
 {s:BDTexte|**Réf** +10, **Vig** +9, **Vol** +8}
-{s:BDTexte|**Capacités défensives** [résistance à la canalisation](./Résistance à la canalisation (capacité).md) +2 ; **Immunité** [traits des morts-vivants](./Traits des morts-vivants (capacité).md)}
+{s:BDTexte|**Capacités défensives** [[Résistance à la canalisation (capacité)|résistance à la canalisation]] +2 ; **Immunité** [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** *morsure +1*, +13 (1d6+3 plus [maladie](./Goule.md#FIEVREDESGOULES) et [paralysie](./paralysie.md)) et 2 *griffes +1*, +14 (1d8+3 plus [paralysie](./paralysie.md))}
+{s:BDTexte|**Corps à corps** *morsure +1*, +13 (1d6+3 plus [[Goule#FIEVREDESGOULES|maladie]] et [[paralysie]]) et 2 *griffes +1*, +14 (1d8+3 plus [[paralysie]])}
 {s:BDTexte|**Distance** arc long composite de maître, +13/+8 (1d8+2/×3)}
-{s:BDTexte|**Attaques spéciales** [ennemi juré](./Rôdeur.md#ENNEMIJURE) (elfes +2, humains +4), [maladie](./Goule.md#FIEVREDESGOULES) (DD 15), [paralysie](./paralysie.md) (1d4+1 rounds, DD 15, elfes immunisés contre cet effet), [style de combat](./Rôdeur.md#DONDESTYLEDECOMBAT) (combat à distance)}
-{s:BDTexte|**Sorts de rôdeur préparés** ([NLS](./NLS.md) 3 ; [concentration](./concentration.md) +6)}
-{s:BDSorts|1er — *[grand pas](./Grand pas.md)*, *[morsure magique](./Morsure magique.md)*}
+{s:BDTexte|**Attaques spéciales** [[rôdeur#ENNEMIJURE|ennemi juré]] (elfes +2, humains +4), [[Goule#FIEVREDESGOULES|maladie]] (DD 15), [[paralysie]] (1d4+1 rounds, DD 15, elfes immunisés contre cet effet), [[rôdeur#DONDESTYLEDECOMBAT|style de combat]] (combat à distance)}
+{s:BDTexte|**Sorts de rôdeur préparés** ([[NLS]] 3 ; [[concentration]] +6)}
+{s:BDSorts|1er — *[[grand pas]]*, *[[morsure magique]]*}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|**Avant le combat.** Le grand veneur lance *[grand pas](./Grand pas.md)* et utilise sa *[baguette](./Baguettes magiques.md) de [morsure magique suprême](./Morsure magique suprême.md)* sur lui et son compagnon animal.}
-{s:BDTexte|**Statistiques de base.** Voici les statistiques du grand veneur sans *[grand pas](./Grand pas.md)* ni *[morsure magique suprême](./Morsure magique suprême.md)* : **VD** 9m ; **Corps à corps** morsure, +12 (1d6+2 plus [maladie](./Goule.md#FIEVREDESGOULES) et [paralysie](./paralysie.md)) et 2 griffes, +13 (1d8+2 plus [paralysie](./paralysie.md))}
+{s:BDTexte|**Avant le combat.** Le grand veneur lance *[[grand pas]]* et utilise sa *[[baguettes magiques|baguette]] de [[morsure magique suprême]]* sur lui et son compagnon animal.}
+{s:BDTexte|**Statistiques de base.** Voici les statistiques du grand veneur sans *[[grand pas]]* ni *[[morsure magique suprême]]* : **VD** 9m ; **Corps à corps** morsure, +12 (1d6+2 plus [[Goule#FIEVREDESGOULES|maladie]] et [[paralysie]]) et 2 griffes, +13 (1d8+2 plus [[paralysie]])}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 20, **Con** -, **Int** 13, **Sag** 16, **Cha** 18}
 {s:BDTexte|**BBA** +7, **BMO** +9, **DMD** 24}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Arme naturelle supérieure](./Arme naturelle supérieure.md) (griffe), [Attaque en finesse](./Attaque en finesse.md), [Cadavre de compagnie](./Cadavre de compagnie.md), [Endurance](./Endurance.md), [Tir à bout portant](./Tir à bout portant.md), [Tir rapide](./Tir rapide.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +13 (+17 pour sauter), [Discrétion](./Discrétion.md) +16, [Escalade](./Escalade.md) +13, [Natation](./Natation.md) +9, [Perception](./Perception.md) +14, [Sabotage](./Sabotage.md) +13, [Survie](./Survie.md) +14}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Arme naturelle supérieure]] (griffe), [[Attaque en finesse]], [[Cadavre de compagnie]], [[Endurance]], [[Tir à bout portant]], [[Tir rapide]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +13 (+17 pour sauter), [[Discrétion]] +16, [[Escalade]] +13, [[Natation]] +9, [[Perception]] +14, [[Sabotage]] +13, [[Survie]] +14}
 {s:BDTexte|**Langues** commun, commun des profondeurs}
-{s:BDTexte|**Particularités** [empathie sauvage](./Rôdeur.md#EMPATHIESAUVAGE) +10, [environnement de prédilection](./Rôdeur.md#ENVIRONNEMENTDEPREDILECTION) (sous terre +2), [pacte du chasseur](./Rôdeur.md#PACTEDUCHASSEUR) (compagnon animal), [pistage](./Rôdeur.md#PISTAGE) +3}
-{s:BDTexte|**Équipement de combat** *[flèches](./Flèches (arme).md) [tueuses d’humains +1](./tueuse (propriété).md)* (3), *[flèches](./Flèches (arme).md) [traqueuses +1](./traqueuse (propriété).md)* (2), *[potion](./Potions magiques.md) de [blessure modérée](./Blessure modérée.md)*, *[baguette](./Baguettes magiques.md) de [morsure magique suprême](./Morsure magique suprême.md)* (12 charges)
-; **Équipement divers** [armure de cuir cloutée de maître](./armure de cuir (armure).md), [arc long composite de maître](./arc long composite (arme).md) avec [50 flèches](./Flèches (arme).md), 42 po}
+{s:BDTexte|**Particularités** [[rôdeur#EMPATHIESAUVAGE|empathie sauvage]] +10, [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]] (sous terre +2), [[rôdeur#PACTEDUCHASSEUR|pacte du chasseur]] (compagnon animal), [[rôdeur#PISTAGE|pistage]] +3}
+{s:BDTexte|**Équipement de combat** *[[Flèches (arme)|flèches]] [[tueuse (propriété)|tueuses d’humains +1]]* (3), *[[Flèches (arme)|flèches]] [[traqueuse (propriété)|traqueuses +1]]* (2), *[[potions magiques|potion]] de [[blessure modérée]]*, *[[baguettes magiques|baguette]] de [[morsure magique suprême]]* (12 charges)
+; **Équipement divers** [[armure de cuir (armure)|armure de cuir cloutée de maître]], [[arc long composite (arme)|arc long composite de maître]] avec [[Flèches (arme)|50 flèches]], 42 po}
 
 {s:BDTitre|Cadavre félin|FP -}
 {s:BDTexte|**PX** -}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille P, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille P, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 17, pris au dépourvu 14 (Dex +6, naturelle +3, taille +1)}
 {s:BDTexte|**pv** 16 (3d8+3)}
 {s:BDTexte|**Réf** +9, **Vig** +4, **Vol** +2}
-{s:BDTexte|**Immunité** [traits des morts-vivants](./Traits des morts-vivants (capacité).md)}
+{s:BDTexte|**Immunité** [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** *morsure +1*, +10 (1d4+2 plus [croc-en-jambe](./Manœuvres offensives.md#CROCENJAMBE)) et 2 griffes
+{s:BDTexte|**Corps à corps** *morsure +1*, +10 (1d4+2 plus [[Manœuvres offensives#CROCENJAMBE|croc-en-jambe]]) et 2 griffes
 +1, +11 (1d2+2)}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|**Statistiques de base.** Voici les statistiques du chat sans la *[morsure magique suprême](./Morsure magique suprême.md)* : **Corps à corps** morsure, +9 (1d4+1 plus [croc-en-jambe](./Manœuvres offensives.md#CROCENJAMBE)) et 2 griffes, +10 (1d2+1).}
+{s:BDTexte|**Statistiques de base.** Voici les statistiques du chat sans la *[[morsure magique suprême]]* : **Corps à corps** morsure, +9 (1d4+1 plus [[Manœuvres offensives#CROCENJAMBE|croc-en-jambe]]) et 2 griffes, +10 (1d2+1).}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 22, **Con** -, **Int** 2, **Sag** 12, **Cha** 12}
 {s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 18 (22 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+18 pour sauter), [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +5}
-{s:BDTexte|**Particularités** [tour](./Dressage.md) (Attaque (toutes les créatures) ! Viens ! Va chercher ! Garde ! Cherche ! Attends ! Suis !)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10 (+18 pour sauter), [[Discrétion]] +14, [[Perception]] +5}
+{s:BDTexte|**Particularités** [[Dressage|tour]] (Attaque (toutes les créatures) ! Viens ! Va chercher ! Garde ! Cherche ! Attends ! Suis !)}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -70,25 +70,25 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Chauve-souris aile de suie](./Chauve-souris aile de suie.md) || 1/2
+| [[Chauve-souris aile de suie]] || 1/2
 |-
-| [Molosse goule](./Molosse goule.md) || 1
+| [[Molosse goule]] || 1
 |-
-| [Goule](./Goule.md) || 1
+| [[Goule]] || 1
 |-
-| [Goule sournoise](./Goule sournoise.md) || 3
+| [[Goule sournoise]] || 3
 |-
-| [Goule traqueuse](./Goule traqueuse.md) || 6
+| [[Goule traqueuse]] || 6
 |-
-| [Grand-veneur goule](./Grand-veneur goule.md) || 7
+| [[Grand-veneur goule]] || 7
 |-
-| [Assassin masqué](./Assassin masqué.md) || 8
+| [[Assassin masqué]] || 8
 |-
-| [Commandant goule](./Commandant goule.md) || 8
+| [[Commandant goule]] || 8
 |-
-| [Antique fossoyeur](./Antique fossoyeur.md) || 10
+| [[Antique fossoyeur]] || 10
 |-
-| [Monarque goule](./Monarque goule.md) || 12
+| [[Monarque goule]] || 12
 |}
 </div> La plupart des goules chassent et tuent pour apaiser leur faim mais le grand veneur apprécie autant la traque que le festin qui suit.
 </div></td></tr></table>

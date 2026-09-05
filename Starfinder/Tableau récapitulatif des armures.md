@@ -12,7 +12,7 @@ Categories:
 {| CLASS="tablo"
 |+ Tableau récapitulatif des armures courantes
 |- CLASS="titre"
-| [Armures](./../Pathfinder-RPG/Caractéristiques des armures.md#Armures) || Niveau  || Prix || BONUS CAE || BONUS CAC || BONUS DEX MAX || MALUS AUX TESTS || Modificateur de Vitesse || Emplacement d'amélioration || Volume
+| [[Caractéristiques des armures#Armures|Armures]] || Niveau  || Prix || BONUS CAE || BONUS CAC || BONUS DEX MAX || MALUS AUX TESTS || Modificateur de Vitesse || Emplacement d'amélioration || Volume
 |- CLASS="premier"
 | COLSPAN="10" | **ARMURES LÉGÈRES**
 |-

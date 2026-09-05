@@ -11,29 +11,29 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 5  
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 5, [[Psychiste|Psy]] 5  
 
 **Temps d'incantation** voir description  
 
-**Composantes** [V, G, M](./composantes.md) (les matériaux originels, qui coûtent le même prix que les matériaux bruts nécessaires à la fabrication de l’objet)  
+**Composantes** [[composantes|V, G, M]] (les matériaux originels, qui coûtent le même prix que les matériaux bruts nécessaires à la fabrication de l’objet)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** jusqu’à 0,3 m³/[niveau](./niveau.md) (voir description)  
+**Cible** jusqu’à 0,3 m³/[[niveau]] (voir description)  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#10) *Fabrication* : Puis-je utiliser ce sort pour fabriquer un objet de maître ou un objet fait d’un matériau spécial ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#10|→]] *Fabrication* : Puis-je utiliser ce sort pour fabriquer un objet de maître ou un objet fait d’un matériau spécial ?***
 
-Oui et oui. En fait, le <u>[sort](./Fabrication.md)</u> est simplement conçu pour faire gagner du temps par rapport à l’artisanat non-magique ; le personnage doit toujours fournir les matériaux bruts nécessaires (qui coûtent donc 1/3 du prix total de l’objet).
+Oui et oui. En fait, le <u>[[Fabrication|sort]]</u> est simplement conçu pour faire gagner du temps par rapport à l’artisanat non-magique ; le personnage doit toujours fournir les matériaux bruts nécessaires (qui coûtent donc 1/3 du prix total de l’objet).
 Le sort n’impose pas de test d’Artisanat si le personnage fabrique un objet qui n’exige pas une grande maîtrise, comme un bureau, une porte, un gourdin, ou une armure simple.
 Fabriquer un bureau avec un compartiment secret, une porte qui se confond avec le mur lorsqu’elle est fermée (i.e., une porte secrète), ou un objet de maître compte comme un objet « exigeant une grande maîtrise », donc le personnage doit réussir un test d’Artisanat approprié contre le DD de création de ce type d’objet avec le sort.
 En général, n’importe quel objet avec un DD d’Artisanat de 15 ou plus impose de réussir un test d’Artisanat pour le fabriquer.
-Si le personnage souhaite créer (par exemple) une [chemise de mailles](./chemise de mailles (armure).md) en [mithral](./mithral.md), il doit fournir le mithral et les autres matériaux nécessaires à la création de la chemise de mailles (pour un coût égal à 1/3 du prix de l’objet). Puisque les objets en mithral sont toujours de maître, le personnage doit réussir un test d’Artisanat pour parvenir à créer l’objet.
+Si le personnage souhaite créer (par exemple) une [[chemise de mailles (armure)|chemise de mailles]] en [[mithral]], il doit fournir le mithral et les autres matériaux nécessaires à la création de la chemise de mailles (pour un coût égal à 1/3 du prix de l’objet). Puisque les objets en mithral sont toujours de maître, le personnage doit réussir un test d’Artisanat pour parvenir à créer l’objet.
 Comme avec les règles d’artisanat classiques, si le personnage rate ce test de 4 ou moins, la création est un échec mais les matériaux ne sont pas gâchés (et peuvent être utilisés tels quels pour lancer le sort de nouveau). S’il rate de 5 ou plus, le personnage perd la moitié des matériaux bruts et doit les racheter pour pouvoir recommencer.}Grâce à ce sort, le personnage peut transformer de la matière première en objet (composé de cette même matière). *Fabrication* ne permet pas de créer ni de transformer des êtres vivants ou des objets magiques. La qualité de l’objet fabriqué dépend de celle de la matière première. Si la matière utilisée est un minéral, le sort n’affecte que 30 dm³ par niveau au lieu de 0,3 m³ (dix fois moins).
 
-Il faut réussir un test d’[Artisanat](./Artisanat.md) approprié pour créer des objets exigeant une grande maîtrise.
+Il faut réussir un test d’[[Artisanat]] approprié pour créer des objets exigeant une grande maîtrise.
 
-Le [temps d’incantation](./temps dincantation.md) est de 1 [round](./round.md) par tranche de 0,3 m³ de matière à transformer.
+Le [[temps dincantation|temps d’incantation]] est de 1 [[round]] par tranche de 0,3 m³ de matière à transformer.

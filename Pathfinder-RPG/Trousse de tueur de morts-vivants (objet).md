@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 402 po ; **Poids** 3,5 kg
-<span class="Catégorie">**Catégorie** [Trousses d'équipement](./Trousses déquipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
 ---
-Cette trousse comprend un [symbole sacré en bois](./Symbole sacré (objet).md), un collier de gousses d'ail, un [marteau](./Marteau (objet).md), un [pieu de bois](./pieu de bois (arme).md), 2 flasques d'[eau bénite](./Eau bénite (objet).md), un [bâton éclairant](./Bâton éclairant (objet).md), une *[potion](./Potions magiques.md) de [restauration partielle](./Restauration partielle.md)* et une *[potion](./Potions magiques.md) de [protection contre le Mal](./Protection contre le Mal.md)*.
+Cette trousse comprend un [[Symbole sacré (objet)|symbole sacré en bois]], un collier de gousses d'ail, un [[Marteau (objet)|marteau]], un [[Pieu de bois (arme)|pieu de bois]], 2 flasques d'[[Eau bénite (objet)|eau bénite]], un [[Bâton éclairant (objet)|bâton éclairant]], une *[[Potions magiques|potion]] de [[restauration partielle]]* et une *[[Potions magiques|potion]] de [[protection contre le Mal]]*.

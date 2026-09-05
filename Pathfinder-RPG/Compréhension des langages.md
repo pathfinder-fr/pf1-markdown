@@ -21,20 +21,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Bard](./Barde.md) 1, [Cham](./Chaman.md) 1, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1, [Spi](./Spirite.md) 1  
+**École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (un peu de suie et une pincée de sel)  
+**Composantes** [[composantes|V, G, M/FD]] (un peu de suie et une pincée de sel)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** 10 minutes/[niveau](./niveau.md)
+**Durée** 10 minutes/[[niveau]]
 
 Ce sort permet de comprendre la langue des autres créatures et de déchiffrer des textes qui resteraient sinon incompréhensibles. Notez que le fait de savoir lire un passage n’implique pas forcement qu’on en saisisse la teneur, et que le sort ne fonctionne que dans un seul sens : il ne permet nullement de parler ou d’écrire le langage qu’il traduit.
 
-On peut lire un texte à la vitesse d’une page (deux cent cinquante mots) par minute. Si l’écrit est magique, *compréhension des langages* le révèle, mais sans rendre les mots lisibles. Le sort est notamment propice pour les déchiffrages de cartes au trésor. Il peut être trompé par certaines protections magiques (telles que *[page secrète](./Page secrète.md)* et *[texte illusoire](./Texte illusoire.md)*) et ne permet pas de décrypter les codes ou de déceler les messages secrets cachés dans des textes anodins.
+On peut lire un texte à la vitesse d’une page (deux cent cinquante mots) par minute. Si l’écrit est magique, *compréhension des langages* le révèle, mais sans rendre les mots lisibles. Le sort est notamment propice pour les déchiffrages de cartes au trésor. Il peut être trompé par certaines protections magiques (telles que *[[page secrète]]* et *[[texte illusoire]]*) et ne permet pas de décrypter les codes ou de déceler les messages secrets cachés dans des textes anodins.
 
-On peut utiliser *[permanence](./Permanence.md)* sur *compréhension des langages*.
+On peut utiliser *[[permanence]]* sur *compréhension des langages*.

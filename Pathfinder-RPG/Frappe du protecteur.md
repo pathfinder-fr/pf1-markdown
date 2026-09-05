@@ -10,8 +10,8 @@ Categories:
 
 {s:ISG}{s:GeM}*Lorsque le personnage châtie le mal, sa puissance divine protège une créature dans sa ligne de vue.*
 
-**Conditions.** Capacité de classe [châtiment du Mal](./Paladin.md#CHATIMENTDUMAL), [BBA](./BBA.md) +5
+**Conditions.** Capacité de classe [[Paladin#CHATIMENTDUMAL|châtiment du Mal]], [[BBA]] +5
 
-**Avantage.** Lorsque le personnage choisit la cible de son pouvoir de [châtiment du Mal](./Paladin.md#CHATIMENTDUMAL), il choisit également une créature autre que lui-même située dans sa ligne de vue. Tant que le châtiment est actif, la créature supplémentaire qu’il a désignée bénéficie d’un bonus de parade à sa [CA](./CA.md) égal au modificateur de [Charisme](./Charisme.md) du personnage contre les attaques portées par la cible de son châtiment du Mal. Ce bonus prend fin lorsque le châtiment prend fin. Le personnage ne bénéficie pas de l'habituel bonus de parade à la CA typique conféré par le châtiment du Mal.
+**Avantage.** Lorsque le personnage choisit la cible de son pouvoir de [[Paladin#CHATIMENTDUMAL|châtiment du Mal]], il choisit également une créature autre que lui-même située dans sa ligne de vue. Tant que le châtiment est actif, la créature supplémentaire qu’il a désignée bénéficie d’un bonus de parade à sa [[CA]] égal au modificateur de [[Charisme]] du personnage contre les attaques portées par la cible de son châtiment du Mal. Ce bonus prend fin lorsque le châtiment prend fin. Le personnage ne bénéficie pas de l'habituel bonus de parade à la CA typique conféré par le châtiment du Mal.
 
-**Normal.** Tant que le châtiment est actif, le [paladin](./Paladin.md) gagne un bonus de parade à sa CA égal à son bonus de Charisme (s’il en a un) contre les attaques portées par la cible du Châtiment du Mal.
+**Normal.** Tant que le châtiment est actif, le [[paladin]] gagne un bonus de parade à sa CA égal à son bonus de Charisme (s’il en a un) contre les attaques portées par la cible du Châtiment du Mal.

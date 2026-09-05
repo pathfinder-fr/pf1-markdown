@@ -18,7 +18,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou bande (3-8)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Maîtrise de l'air (Ext)** Les créatures volantes subissent un malus de -1 aux [jets d'attaque](./jet dattaque.md) et de dégâts contre un élémentaire de l'Air.}
+{s:BDTexte|**Maîtrise de l'air (Ext)** Les créatures volantes subissent un malus de -1 aux [[jet dattaque|jets d'attaque]] et de dégâts contre un élémentaire de l'Air.}
 </div>
 {s:ImageCentre|Bestiaire/Elementaire d Air.jpg|95%}
 #### 
@@ -27,22 +27,22 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.122*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md)) de taille P, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille P, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 14, pris au dépourvu 14 (Dex +3, naturelle +3, taille +1)}
 {s:BDTexte|**pv** 13 (2d10+2)}
 {s:BDTexte|**Réf** +6, **Vig** +4, **Vol** +0}
-{s:BDTexte|**Capacités défensives** maîtrise de l'air ; **Immunités** [traits des élémentaires](./sous-type élémentaire.md) }
+{s:BDTexte|**Capacités défensives** maîtrise de l'air ; **Immunités** [[sous-type élémentaire|traits des élémentaires]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 30 m (20 {s:c}) (parfait)}
 {s:BDTexte|**Corps à corps** coup, +6 (1d4+1)}
-{s:BDTexte|**Attaques spéciales** [tourbillon](./Tourbillon.md) (DD 12)}
+{s:BDTexte|**Attaques spéciales** [[tourbillon]] (DD 12)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 17, **Con** 12, **Int** 4, **Sag** 11, **Cha** 11}
 {s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 15}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>, [Attaque en vol](./Attaque en vol.md), [Science de l'initiative](./Science de linitiative.md)<sup>B</sup>}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +7, [Connaissances](./Connaissances.md) (plans) +1, [Discrétion](./Discrétion.md) +11, [Évasion](./Évasion.md) +7, [Perception](./Perception.md) +4, [Vol](./Vol.md) +17}
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>B</sup>, [[Attaque en vol]], [[Science de linitiative|Science de l'initiative]]<sup>B</sup>}
+{s:BDTexte|**Compétences** [[Acrobaties]] +7, [[Connaissances]] (plans) +1, [[Discrétion]] +11, [[Évasion]] +7, [[Perception]] +4, [[Vol]] +17}
 </div>
 #### 
 <div class="BD">
@@ -50,22 +50,22 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.122*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, N}
-{s:BDTexte|**Init** +9 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille M, N}
+{s:BDTexte|**Init** +9 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 16, pris au dépourvu 13 (Dex +5, esquive +1, naturelle +3)}
 {s:BDTexte|**pv** 30 (4d10+8)}
 {s:BDTexte|**Réf** +9, **Vig** +6, **Vol** +1}
-{s:BDTexte|**Capacités défensives** maîtrise de l'air ; **Immunités** [traits des élémentaires](./sous-type élémentaire.md) }
+{s:BDTexte|**Capacités défensives** maîtrise de l'air ; **Immunités** [[sous-type élémentaire|traits des élémentaires]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 30 m (20 {s:c}) (parfait)}
 {s:BDTexte|**Corps à corps** coup, +9 (1d6+3)}
-{s:BDTexte|**Attaques spéciales** [tourbillon](./Tourbillon.md) (DD 14)}
+{s:BDTexte|**Attaques spéciales** [[tourbillon]] (DD 14)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 21, **Con** 14, **Int** 4, **Sag** 11, **Cha** 11}
 {s:BDTexte|**BBA** +4, **BMO** +6, **DMD** 22}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>, [Attaque en vol](./Attaque en vol.md), [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md)<sup>B</sup>}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +11, [Connaissances](./Connaissances.md) (plans) +1, [Discrétion](./Discrétion.md) +10, [Évasion](./Évasion.md) +9, [Perception](./Perception.md) +7, [Vol](./Vol.md) +17}
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>B</sup>, [[Attaque en vol]], [[Esquive]], [[Science de linitiative|Science de l'initiative]]<sup>B</sup>}
+{s:BDTexte|**Compétences** [[Acrobaties]] +11, [[Connaissances]] (plans) +1, [[Discrétion]] +10, [[Évasion]] +9, [[Perception]] +7, [[Vol]] +17}
 </div>
 #### 
 <div class="BD">
@@ -73,23 +73,23 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.122*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md)) de taille G, N}
-{s:BDTexte|**Init** +11 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille G, N}
+{s:BDTexte|**Init** +11 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 17, pris au dépourvu 13 (Dex +7, esquive +1, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 68 (8d10+24)}
 {s:BDTexte|**Réf** +13, **Vig** +9, **Vol** +2}
-{s:BDTexte|**Capacités défensives** maîtrise de l'air ; **Immunités** [traits des élémentaires](./sous-type élémentaire.md) ; **RD** 5/— }
+{s:BDTexte|**Capacités défensives** maîtrise de l'air ; **Immunités** [[sous-type élémentaire|traits des élémentaires]] ; **RD** 5/— }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 30 m (20 {s:c}) (parfait)}
 {s:BDTexte|**Corps à corps** 2 coups, +14 (1d8+4)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [tourbillon](./Tourbillon.md) (DD 18)}
+{s:BDTexte|**Attaques spéciales** [[tourbillon]] (DD 18)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 25, **Con** 16, **Int** 6, **Sag** 11, **Cha** 11}
 {s:BDTexte|**BBA** +8, **BMO** +13, **DMD** 31}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>, [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md)<sup>B</sup>, [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +15, [Connaissances](./Connaissances.md) (plans) +5, [Discrétion](./Discrétion.md) +11, [Évasion](./Évasion.md) +15, [Perception](./Perception.md) +11, [Vol](./Vol.md) +21}
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>B</sup>, [[Attaque en vol]], [[Attaques réflexes]], [[Esquive]], [[Science de linitiative|Science de l'initiative]]<sup>B</sup>, [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +15, [[Connaissances]] (plans) +5, [[Discrétion]] +11, [[Évasion]] +15, [[Perception]] +11, [[Vol]] +21}
 </div>
 #### 
 <div class="BD">
@@ -97,23 +97,23 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.122*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md)) de taille TG, N}
-{s:BDTexte|**Init** +13 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille TG, N}
+{s:BDTexte|**Init** +13 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 18, pris au dépourvu 12 (Dex +9, esquive +1, naturelle +4, taille -2)}
 {s:BDTexte|**pv** 95 (10d10+40)}
 {s:BDTexte|**Réf** +16, **Vig** +11, **Vol** +5}
-{s:BDTexte|**Capacités défensives** maîtrise de l'air ; **Immunités** [traits des élémentaires](./sous-type élémentaire.md) ; **RD** 5/— }
+{s:BDTexte|**Capacités défensives** maîtrise de l'air ; **Immunités** [[sous-type élémentaire|traits des élémentaires]] ; **RD** 5/— }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 30 m (20 {s:c}) (parfait)}
 {s:BDTexte|**Corps à corps** 2 coups, +17 (2d6+6)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [tourbillon](./Tourbillon.md) (DD 21)}
+{s:BDTexte|**Attaques spéciales** [[tourbillon]] (DD 21)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 22, **Dex** 29, **Con** 18, **Int** 6, **Sag** 11, **Cha** 11}
 {s:BDTexte|**BBA** +10, **BMO** +18, **DMD** 38}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>, [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md)<sup>B</sup>, [Souplesse du serpent](./Souplesse du serpent.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +18, [Connaissances](./Connaissances.md) (plans) +7, [Discrétion](./Discrétion.md) +9, [Évasion](./Évasion.md) +18, [Perception](./Perception.md) +13, [Vol](./Vol.md) +23}
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>B</sup>, [[Attaque en vol]], [[Attaques réflexes]], [[Esquive]], [[Science de linitiative|Science de l'initiative]]<sup>B</sup>, [[Souplesse du serpent]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +18, [[Connaissances]] (plans) +7, [[Discrétion]] +9, [[Évasion]] +18, [[Perception]] +13, [[Vol]] +23}
 </div>
 #### 
 <div class="BD">
@@ -121,23 +121,23 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.122*}
 {s:BDTexte|**PX** 6.400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md)) de taille TG, N}
-{s:BDTexte|**Init** +14 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille TG, N}
+{s:BDTexte|**Init** +14 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 19, pris au dépourvu 14 (Dex +10, esquive +1, naturelle +6, taille -2)}
 {s:BDTexte|**pv** 123 (13d10+52)}
 {s:BDTexte|**Réf** +18, **Vig** +12, **Vol** +6}
-{s:BDTexte|**Capacités défensives** maîtrise de l'air ; **Immunités** [traits des élémentaires](./sous-type élémentaire.md) ; **RD** 10/— }
+{s:BDTexte|**Capacités défensives** maîtrise de l'air ; **Immunités** [[sous-type élémentaire|traits des élémentaires]] ; **RD** 10/— }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 30 m (20 {s:c}) (parfait)}
 {s:BDTexte|**Corps à corps** 2 coups, +21 (2d8+7)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [tourbillon](./Tourbillon.md) (DD 23)}
+{s:BDTexte|**Attaques spéciales** [[tourbillon]] (DD 23)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 31, **Con** 18, **Int** 8, **Sag** 11, **Cha** 11}
 {s:BDTexte|**BBA** +13, **BMO** +22, **DMD** 43}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>, [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md)<sup>B</sup>, [Souplesse du serpent](./Souplesse du serpent.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +25, [Connaissances](./Connaissances.md) (plans) +12, [Discrétion](./Discrétion.md) +15, [Évasion](./Évasion.md) +23, [Perception](./Perception.md) +16, [Vol](./Vol.md) +27}
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>B</sup>, [[Attaque en puissance]], [[Attaque en vol]], [[Attaques réflexes]], [[Combat en aveugle]], [[Esquive]], [[Science de linitiative|Science de l'initiative]]<sup>B</sup>, [[Souplesse du serpent]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +25, [[Connaissances]] (plans) +12, [[Discrétion]] +15, [[Évasion]] +23, [[Perception]] +16, [[Vol]] +27}
 </div>
 #### 
 <div class="BD">
@@ -145,23 +145,23 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.123*}
 {s:BDTexte|**PX** 12.800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md)) de taille TG, N}
-{s:BDTexte|**Init** +15 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +19}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille TG, N}
+{s:BDTexte|**Init** +15 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +19}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 20, pris au dépourvu 16 (Dex +11, esquive +1, naturelle +8, taille -2)}
 {s:BDTexte|**pv** 152 (16d10+64)}
 {s:BDTexte|**Réf** +21, **Vig** +14, **Vol** +7}
-{s:BDTexte|**Capacités défensives** maîtrise de l'Air ; **Immunités** [traits des élémentaires](./sous-type élémentaire.md) ; **RD** 10/— }
+{s:BDTexte|**Capacités défensives** maîtrise de l'Air ; **Immunités** [[sous-type élémentaire|traits des élémentaires]] ; **RD** 10/— }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 30 m (20 {s:c}) (parfait)}
 {s:BDTexte|**Corps à corps** 2 coups, +25 (2d8+9)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [tourbillon](./Tourbillon.md) (DD 27)}
+{s:BDTexte|**Attaques spéciales** [[tourbillon]] (DD 27)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 28, **Dex** 33, **Con** 18, **Int** 10, **Sag** 11, **Cha** 11}
 {s:BDTexte|**BBA** +16, **BMO** +27, **DMD** 49}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)<sup>B</sup>, [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Enchaînement](./Enchaînement.md), [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md)<sup>B</sup>, [Souplesse du serpent](./Souplesse du serpent.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +30, [Connaissances](./Connaissances.md) (plans) +19, [Discrétion](./Discrétion.md) +22, [Évasion](./Évasion.md) +30, [Perception](./Perception.md) +19, [Vol](./Vol.md) +34}
+{s:BDTexte|**Dons** [[Attaque en finesse]]<sup>B</sup>, [[Attaque en puissance]], [[Attaque en vol]], [[Attaques réflexes]], [[Combat en aveugle]], [[Enchaînement]], [[Esquive]], [[Science de linitiative|Science de l'initiative]]<sup>B</sup>, [[Souplesse du serpent]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +30, [[Connaissances]] (plans) +19, [[Discrétion]] +22, [[Évasion]] +30, [[Perception]] +19, [[Vol]] +34}
 </div>
 </td><td><div>*Ce nuage est percé de trous sombres en forme d’ yeux et de bouche. Un vent poussant des hurlements lugubres lui fait prendre des formes inquiétantes.*
 
@@ -183,7 +183,7 @@ volent ou qui se trouvent dans les airs, d’abord parce que leur
 maîtrise du vol les avantage, mais aussi parce qu’ils détestent avoir
 à toucher le sol. Ils peuvent se déplacer sous l’eau mais, même si,
 en tant qu’élémentaires, ils ne risquent pas de se noyer, ils ne
-possèdent aucun rang en [Natation](./Natation.md) et voient leur vitesse ainsi que
+possèdent aucun rang en [[Natation]] et voient leur vitesse ainsi que
 leur manœuvrabilité fortement réduites dans ce milieu.
 
 <center>

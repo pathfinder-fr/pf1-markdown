@@ -12,14 +12,14 @@ Categories:
 - Src Recueil de la Société des Éclaireurs
 ---
 
-{s:cs}{s:RSE}**École** [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Prê](./Prêtre.md) 1
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
+{s:cs}{s:RSE}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Prêtre|Prê]] 1
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G]]
 **Portée** contact
 **Cible**  livre touché
 **Durée** instantanée
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (inoffensif, objet) ; **Résistance à la magie** oui (inoffensif, objet)
 
 Le personnage retire une compréhension globale mais incomplète du contenu du livre, comme s’il l’avait parcouru en diagonale pendant une heure. Cet aperçu ne permet pas de traduire des langues inconnues, de déchiffrer des codes ni de mémoriser un texte mais renseigne le lecteur sur les sujets abordés, informations capitales pour les explorateurs qui doivent prendre une décision sur-le-champ au cours d’une session de recherches ou qui doivent décider s’ils subtilisent ou non un ouvrage.
 
-De plus, le personnage bénéficie aussitôt des éventuels avantages que le livre n’accorderait normalement qu’après une heure de lecture. (comme les bonus issus de la lecture d’un volume des [Chroniques des Explorateurs](./Chroniques des Éclaireurs.md)).
+De plus, le personnage bénéficie aussitôt des éventuels avantages que le livre n’accorderait normalement qu’après une heure de lecture. (comme les bonus issus de la lecture d’un volume des [[Chroniques des Éclaireurs|Chroniques des Explorateurs]]).

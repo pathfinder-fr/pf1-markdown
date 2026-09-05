@@ -9,28 +9,28 @@ LastModified: 2021-04-25 11:38
 {s:BDTitre|Éphialtès|FP 16}
 {s:BDTexte|*Source : Le conseil des voleurs p.168*}
 {s:BDTexte|**PX** 76 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [kyton](./sous-type kyton.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille TG, LM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; *[perception de la mort](./Perception de la mort.md)* ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type kyton|kyton]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille TG, LM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; *[[perception de la mort]]* ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 30, contact 10, pris au dépourvu 28 (armure +8, Dex +2, naturelle +12, taille -2)}
 {s:BDTexte|**pv** 243 (18d10+144) ; régénération 5 (armes et sorts de Bien, armes en argent)}
 {s:BDTexte|**Réf** +13, **Vig** +14, **Vol** +14}
-{s:BDTexte|**Capacités défensives armure de chaînes** ; **[RD](./Réduction de dégâts (capacité).md)** 10/argent ou Bien ;
-**[Immunité](./Immunité (capacité).md)**froid, poison, terreur ; **Résistances** acide 10, feu 10}
+{s:BDTexte|**Capacités défensives armure de chaînes** ; **[[Réduction de dégâts (capacité)|RD]]** 10/argent ou Bien ;
+**[[Immunité (capacité)|Immunité]]**froid, poison, terreur ; **Résistances** acide 10, feu 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9m}
 {s:BDTexte|**Corps à corps** morsure, +24 (2d6+8) et 2 chaînes, +25 (2d8+8/19-20) et 2 griffes, +24 (1d8+8) et queue, +19 (1d8+4)}
 {s:BDTexte|**Espace occupé** 4,50 m; **Allonge** 4,50 m (9 m avec les chaînes)}
 {s:BDTexte|**Attaques spéciales** attirer (souffle, 3 m), danse des chaînes, éventration (2 chaînes, 2d8+12), piège de chaînes, souffle (cône de 15 m, 2d8+8 dégâts perforants plus étreinte, Réflexes DD 27 pour 1/2 dégâts, utilisable tous les 1d4 rounds)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 16)}
-{s:BDSorts|À volonté — *[ancre dimensionnelle](./Ancre dimensionnelle.md)*, *[flou](./Flou.md)* (soi uniquement)}
-{s:BDSorts|3/jour — *[silence](./Silence.md)* (DD 15), *[ténèbres profondes](./Ténèbres profondes.md)*, *[traversée des ombres](./Traversée des ombres.md)* (DD 19) }
-{s:BDSorts|1/jour — *[localisation suprême](./Localisation suprême.md)*}
+{s:BDSorts|À volonté — *[[ancre dimensionnelle]]*, *[[flou]]* (soi uniquement)}
+{s:BDSorts|3/jour — *[[silence]]* (DD 15), *[[ténèbres profondes]]*, *[[traversée des ombres]]* (DD 19) }
+{s:BDSorts|1/jour — *[[localisation suprême]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 14, **Con** 26, **Int** 10, **Sag** 12, **Cha** 16}
 {s:BDTexte|**BBA** +18 ; **BMO** +28 (+32 pour la lutte et pour attirer) ; **DMD** 40 (44 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (chaînes), [Attaques réflexes](./Attaques réflexes.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Immobiliser](./Immobiliser.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (chaînes), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md) }
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +12, [Connaissances](./Connaissances.md) (plans) +13, [Discrétion](./Discrétion.md) +15, [Escalade](./Escalade.md) +15, [Évasion](./Évasion.md) +13, [Intimidation](./Intimidation.md) +24, [Perception](./Perception.md) +24, [Psychologie](./Psychologie.md) +18, [Survie](./Survie.md) +22}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (chaînes), [[Attaques réflexes]], [[Critique sanglant]], [[Don pour les critiques]], [[Immobiliser]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (chaînes), [[Vigilance]], [[Volonté de fer]] }
+{s:BDTexte|**Compétences** [[Bluff]] +12, [[Connaissances]] (plans) +13, [[Discrétion]] +15, [[Escalade]] +15, [[Évasion]] +13, [[Intimidation]] +24, [[Perception]] +24, [[Psychologie]] +18, [[Survie]] +22}
 {s:BDTexte|**Langues** infernal}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (plan de l’Ombre)}
@@ -88,7 +88,7 @@ plus petites.}
 {s:BDTexte|**Attirer (Ext).** Le kyton éphialtès dispose d’un bonus racial de +4 aux
 tests de BMO quand il utilise l’attaque spéciale attirer.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [kytons](./Kytons.md).***</li></ul>''Un cliquetis de chaînes et des bruits de pas lourds retentissent au milieu
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Kytons]].***</li></ul>''Un cliquetis de chaînes et des bruits de pas lourds retentissent au milieu
 d’un nuage ondoyant, noir comme de l’encre, annonçant l’arrivée d’un
 être imposant. Un halètement infernal et sifflant aspire les ténèbres,
 révélant un fiélon torturé pourvu de quatre pattes. Ses os à nu, les

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 2, p.100*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille TG, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 10, pris au dépourvu 15 (Dex +2, naturelle +7, taille -1)}
 {s:BDTexte|**pv** 45 (6d8+18)}
@@ -24,18 +24,18 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** queue, +8 (2d6+9)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [piétinement](./Piétinement.md) (2d6+9 ; DD 19)}
+{s:BDTexte|**Attaques spéciales** [[piétinement]] (2d6+9 ; DD 19)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 14, **Con** 17, **Int** 2, **Sag** 13, **Cha** 10}
-{s:BDTexte|**BBA** +4, **BMO** +12, **DMD** 24 (28 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Science de la bousculade](./Science de la bousculade.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +13}
+{s:BDTexte|**BBA** +4, **BMO** +12, **DMD** 24 (28 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Science de la bousculade]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +13}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts/plaines chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupeau (3-12)}
 {s:BDTexte|**Trésor** aucun}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>*Ce dinosaure au corps épais possède une queue fouettante et un long cou. Sa tête est ornée d’une crête de cornes incurvées vers l’arrière.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>*Ce dinosaure au corps épais possède une queue fouettante et un long cou. Sa tête est ornée d’une crête de cornes incurvées vers l’arrière.*
 
 Cet herbivore mesure 9 mètres de long et pèse 5 250 kg. Il
 se distingue surtout par la longue crête incurvée qui garnit le
@@ -43,9 +43,9 @@ sommet de sa tête.
 
 #### Le parasaurolophus comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m ; **CA** armure naturelle +2 ; **Attaque** queue (1d6) ; **Caractéristiques** For 11, Dex 18, Con 9, Int 2, Sag 13, Cha 10 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m ; **CA** armure naturelle +2 ; **Attaque** queue (1d6) ; **Caractéristiques** For 11, Dex 18, Con 9, Int 2, Sag 13, Cha 10 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** queue (1d8) ; **Caractéristiques** For +8, Dex –2, Con +4 ; **Particularités** [piétinement](./Piétinement.md) (1d8).
+**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** queue (1d8) ; **Caractéristiques** For +8, Dex –2, Con +4 ; **Particularités** [[piétinement]] (1d8).
 </div>
 
 </div></td></tr></table>

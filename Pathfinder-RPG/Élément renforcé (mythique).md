@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les sorts élémentaires du personnage sont efficaces et destructeurs.*
 
-**Condition.** [Élément renforcé](./Élément renforcé.md)
+**Condition.** [[Élément renforcé]]
 
-**Avantage.** Le personnage choisit un type d’énergie destructive pour lequel il possède [Élément renforcé](./Élément renforcé.md). L’augmentation du DD des jets de sauvegarde conférée par [Élément renforcé](./Élément renforcé.md) et [Élément supérieur](./Élément supérieur.md) pour les sorts du type d’énergie destructive sélectionné est majorée de 1. Lorsque le personnage lance un sort doté du registre correspondant au type d’énergie destructive choisi, il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour obliger les cibles du sort à lancer deux jets de sauvegarde et à conserver le pire.
+**Avantage.** Le personnage choisit un type d’énergie destructive pour lequel il possède [[Élément renforcé]]. L’augmentation du DD des jets de sauvegarde conférée par [[Élément renforcé]] et [[Élément supérieur]] pour les sorts du type d’énergie destructive sélectionné est majorée de 1. Lorsque le personnage lance un sort doté du registre correspondant au type d’énergie destructive choisi, il peut dépenser une utilisation de [[pouvoir mythique]] pour obliger les cibles du sort à lancer deux jets de sauvegarde et à conserver le pire.

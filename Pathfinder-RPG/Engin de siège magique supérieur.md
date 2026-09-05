@@ -15,18 +15,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Apal](./Antipaladin.md) 4, [Inq](./Inquisiteur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Occ](./Occultiste.md) 4, [Pal](./Paladin.md) 4, [Prê](./Prêtre.md) 5  
+**École** [[Transmutation]] ; **Niveau** [[Antipaladin|Apal]] 4, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Paladin|Pal]] 4, [[Prêtre|Prê]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F/FD](./composantes.md) (poudre noire)  
+**Composantes** [[Composantes|V, G, F/FD]] (poudre noire)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** engin de siège touché  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
-Ce sort fonctionne comme *[engin de siège magique](./Engin de siège magique.md)* mais le bonus d’altération aux jets de visée et de dégâts de l’[arme de siège indirecte](./arme de siège.md) est de +1 par tranche de quatre [niveaux de lanceur de sorts](./NLS.md) (+5 au maximum). Si le sort s’applique à une [arme de siège directe](./arme de siège.md), il fonctionne comme *[arme magique suprême](./Arme magique suprême.md)*.
+Ce sort fonctionne comme *[[engin de siège magique]]* mais le bonus d’altération aux jets de visée et de dégâts de l’[[arme de siège|arme de siège indirecte]] est de +1 par tranche de quatre [[NLS|niveaux de lanceur de sorts]] (+5 au maximum). Si le sort s’applique à une [[arme de siège|arme de siège directe]], il fonctionne comme *[[arme magique suprême]]*.

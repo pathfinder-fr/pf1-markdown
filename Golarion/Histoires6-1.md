@@ -4,8 +4,8 @@ Title: Les roses de Dabril
 LastModified: 2010-10-08 11:37
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du premier chapitre : "[The Roses of Dabril](http://paizo.com/pathfinder/tales/serial/v5748dyo5lbhk)" de la nouvelle "Le secret de la Rose et du Gant" de Kevin Andrew Murphy. Illustration de KyuShik Shin*
 
 ***Introduction par James Sutter.** Pour cette histoire, nous traversons le lac d'Encarthan jusqu'à Dabril au Galt, une petite ville surtout connue pour ses parfums fins et ses gants, ainsi que pour l'habitude d'envoyer les gens à la guillotine à la moindre provocation (mais bon, quelle ville galtienne ne le fait pas ?). C'est dans ce cadre pour le moins peu accueillant qu'un jeune alchimiste revient chez lui après avoir passé plusieurs années dans la milice. Il est physiquement brisé par les ravages de la guerre et guette tout élément familier qui pourrait lui permettre de commencer une nouvelle vie. Mais il trouve plus que ce à quoi il s'attendait, car dans les ruines du noble manoir de Dabril attendent des secrets alchimiques dépassant l'imagination d'un simple grenadier.*

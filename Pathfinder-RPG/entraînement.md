@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Manœuvres offensives#ENTRAINEMENT
 ---
 
->>> [Manœuvres offensives#ENTRAINEMENT](./Manœuvres offensives.md#ENTRAINEMENT)
+>>> [[Manœuvres offensives#ENTRAINEMENT]]

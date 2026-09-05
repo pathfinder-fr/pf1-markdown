@@ -8,8 +8,8 @@ Categories:
 - Src La mer Intérieure
 ---
 
-{s:AE}{s:CCMI}**Prix** 35 po ; **Poids** 1 kg ; **Groupes** [lames lourdes](./groupe darmes.md#Lameslourdes)
+{s:AE}{s:CCMI}**Prix** 35 po ; **Poids** 1 kg ; **Groupes** [[Groupe darmes#Lameslourdes|lames lourdes]]
 **Dégâts** 1d6 (P), 1d8 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
 ---
-Arme caractéristique de certains cultes d’assassins (notamment les [assassins pourpres](./Assassin des mantes rouges.md)), le sabre dentelé est d’une cruelle efficacité. Le personnage peut l’utiliser comme une [arme de guerre](./arme de guerre.md) (auquel cas il fonctionne exactement comme une [épée longue](./épée longue (arme).md)). S’il a le don [Maniement d'une arme exotique](./Maniement dune arme exotique.md) (sabre dentelé), il peut le traiter comme une arme de corps à corps [légère](./arme légère.md) pour le [combat à deux armes](./Actions spéciales.md#COMBAT2ARMES), pour le reste, il s’agit d’une arme de corps à corps [à une main](./arme à une main.md).
+Arme caractéristique de certains cultes d’assassins (notamment les [[Assassin des mantes rouges|assassins pourpres]]), le sabre dentelé est d’une cruelle efficacité. Le personnage peut l’utiliser comme une [[arme de guerre]] (auquel cas il fonctionne exactement comme une [[épée longue (arme)|épée longue]]). S’il a le don [[Maniement dune arme exotique|Maniement d'une arme exotique]] (sabre dentelé), il peut le traiter comme une arme de corps à corps [[arme légère|légère]] pour le [[Actions spéciales#COMBAT2ARMES|combat à deux armes]], pour le reste, il s’agit d’une arme de corps à corps [[arme à une main|à une main]].

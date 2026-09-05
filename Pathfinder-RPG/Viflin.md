@@ -14,35 +14,35 @@ Categories:
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.289}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Fée](./type Fée.md) de taille P, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Fée|Fée]] de taille P, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 19, pris au dépourvu 12 (Dex +7, esquive +1, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 18 (4d6+4)}
 {s:BDTexte|**Réf** +11, **Vig** +2, **Vol** +6}
-{s:BDTexte|**Capacités défensives** [esquive instinctive](./esquive instinctive.md), [esquive totale](./esquive totale.md), invisibilité naturelle, vitesse surnaturelle ; **RD** 5/fer froid}
+{s:BDTexte|**Capacités défensives** [[esquive instinctive]], [[esquive totale]], invisibilité naturelle, vitesse surnaturelle ; **RD** 5/fer froid}
 {s:BDTexte|**Faiblesses** sensibilité au ralentissement}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 36 m (24 {s:c})}
 {s:BDTexte|**Corps à corps** épée courte, +10 (1d4–1/19–20)}
-{s:BDTexte|**Attaque spéciales** [attaque sournoise](./attaque sournoise.md) +1d6}
+{s:BDTexte|**Attaque spéciales** [[attaque sournoise]] +1d6}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6, concentration +8)}
-{s:BDSorts|1/jour — *[fracassement](./Fracassement.md)* (DD 14), *[illumination](./Illumination.md)* (DD 12), *[lévitation](./Lévitation.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[ventriloquie](./Ventriloquie.md)* (DD 13)}
+{s:BDSorts|1/jour — *[[fracassement]]* (DD 14), *[[illumination]]* (DD 12), *[[lévitation]]*, *[[lumières dansantes]]*, *[[ventriloquie]]* (DD 13)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 24, **Con** 13, **Int** 15, **Sag** 15, **Cha** 14}
 {s:BDTexte|**BBA** +2 ; **BMO** +0 ; **DMD** 18}
-{s:BDTexte|**Dons** [Attaque éclair](./Attaque éclair.md)<sup>S</sup>, [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md)<sup>S</sup>}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +14 (+50 pour [sauter](./Acrobaties.md#SAUTER)), [Art de la magie](./Art de la magie.md) +6, [Artisanat](./Artisanat.md) (un au choix) +9, [Bluff](./Bluff.md) +9, [Discrétion](./Discrétion.md) +18, [Évasion](./Évasion.md) +14, [Perception](./Perception.md) +9, [Survie](./Survie.md) +4, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +7}
+{s:BDTexte|**Dons** [[Attaque éclair]]<sup>S</sup>, [[Attaque en finesse]], [[Esquive]], [[Souplesse du serpent]]<sup>S</sup>}
+{s:BDTexte|**Compétences** [[Acrobaties]] +14 (+50 pour [[Acrobaties#SAUTER|sauter]]), [[Art de la magie]] +6, [[Artisanat]] (un au choix) +9, [[Bluff]] +9, [[Discrétion]] +18, [[Évasion]] +14, [[Perception]] +9, [[Survie]] +4, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +7}
 {s:BDTexte|**Langues** aklo, commun, sylvestre}
 {s:BDTexte|**Particularités** utilisation des poisons}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
-{s:BDTexte|**Organisation sociale** solitaire, bande (2–5) ou groupe (4–11 plus 1 chef [évolué](./Archétypes.md))}
-{s:BDTexte|**Trésor** équipement de PNJ (ajonc à feuilles bleues <nowiki>[</nowiki>4 doses<nowiki>]</nowiki>, petite épée courte, autres trésors)}
+{s:BDTexte|**Organisation sociale** solitaire, bande (2–5) ou groupe (4–11 plus 1 chef [[archétypes|évolué]])}
+{s:BDTexte|**Trésor** équipement de PNJ (ajonc à feuilles bleues <nowiki>[[</nowiki>4 doses<nowiki>]]</nowiki>, petite épée courte, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Invisibilité naturelle (Sur).** Un viflin est invisible lorsqu’il ne bouge pas. Il perd cette capacité et devient visible pendant 1 [round](./round.md) dès qu’il entreprend une action autre qu’une [action libre](./Action libre.md).}
-{s:BDTexte|**Sensibilité au ralentissement (Ext).** Un viflin qui succombe à un effet de *lenteur* perd sa capacité de vitesse surnaturelle et devient [fiévreux](./Fiévreux.md) tant que cet effet persiste. L’état préjudiciable « [fiévreux](./Fiévreux.md) » persiste pendant 1 [round](./round.md) après la fin de l’effet de *lenteur*.}
-{s:BDTexte|**Vitesse surnaturelle (Sur).** Un viflin se déplace à une vitesse incroyable. S’il reste sans bouger, il est invisible. Mais, dès qu’il se déplace, sa forme se brouille et scintille à cause de la vitesse, ce qui lui procure un [camouflage](./camouflage.md) (20% de chances d’échec des attaques). De plus, cette capacité lui donne les capacités d’[esquive totale](./esquive totale.md) et d’[esquive instinctive](./esquive instinctive.md) (similaires aux capacités de [roublard](./Roublard.md) de même nom).}
+{s:BDTexte|**Invisibilité naturelle (Sur).** Un viflin est invisible lorsqu’il ne bouge pas. Il perd cette capacité et devient visible pendant 1 [[round]] dès qu’il entreprend une action autre qu’une [[action libre]].}
+{s:BDTexte|**Sensibilité au ralentissement (Ext).** Un viflin qui succombe à un effet de *lenteur* perd sa capacité de vitesse surnaturelle et devient [[fiévreux]] tant que cet effet persiste. L’état préjudiciable « [[fiévreux]] » persiste pendant 1 [[round]] après la fin de l’effet de *lenteur*.}
+{s:BDTexte|**Vitesse surnaturelle (Sur).** Un viflin se déplace à une vitesse incroyable. S’il reste sans bouger, il est invisible. Mais, dès qu’il se déplace, sa forme se brouille et scintille à cause de la vitesse, ce qui lui procure un [[camouflage]] (20% de chances d’échec des attaques). De plus, cette capacité lui donne les capacités d’[[esquive totale]] et d’[[esquive instinctive]] (similaires aux capacités de [[roublard]] de même nom).}
 </div>
 </td><td><div>
 *Cette créature ressemble à un petit elfe élancé aux habits ternes et au sourire sournois. En l’espace d’un clin d’œil, la créature s’enfuit à toute allure et disparaît.*

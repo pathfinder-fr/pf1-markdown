@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Dans le regard du personnage, il y a quelque chose qui effraye les gens. *
 
-**Conditions.** [Cha](./Cha.md) 13, pouvoir de classe [regard sévère](./Inquisiteur.md#REGARDSEVERE), 5 rangs en [Intimidation](./Intimidation.md)
+**Conditions.** [[Cha]] 13, pouvoir de classe [[inquisiteur#REGARDSEVERE|regard sévère]], 5 rangs en [[Intimidation]]
 
-**Avantage.** Une fois par jour, par une [action libre](./Action libre.md), quand le personnage fait un test d’[Intimidation](./Intimidation.md), il peut lancer deux fois les dés et choisir le meilleur.
+**Avantage.** Une fois par jour, par une [[action libre]], quand le personnage fait un test d’[[Intimidation]], il peut lancer deux fois les dés et choisir le meilleur.

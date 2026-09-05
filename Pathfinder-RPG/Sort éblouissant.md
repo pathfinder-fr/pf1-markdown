@@ -11,8 +11,8 @@ Categories:
 
 {s:um}*Quand le personnage affecte une créature avec un sort du registre du feu, de la lumière ou de l’électricité, il l’éblouit. *
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
-**Avantage.** Les effets d’électricité, de feu ou de lumière du sort affecté génèrent un flamboiement qui éblouit les créatures blessées. Si une créature reçoit des dégâts de feu ou d’électricité de la part d’un sort éblouissant, elle est [éblouie](./Ébloui.md) pendant un nombre de round égal au niveau réel du sort. Le sort éblouissant affecte uniquement les sorts du registre du feu, de la lumière ou de l’électricité.
+**Avantage.** Les effets d’électricité, de feu ou de lumière du sort affecté génèrent un flamboiement qui éblouit les créatures blessées. Si une créature reçoit des dégâts de feu ou d’électricité de la part d’un sort éblouissant, elle est [[ébloui|éblouie]] pendant un nombre de round égal au niveau réel du sort. Le sort éblouissant affecte uniquement les sorts du registre du feu, de la lumière ou de l’électricité.
 
-Ce sort utilise un [emplacement de sort](./emplacement de sort.md) d’un niveau de plus que le niveau réel du sort.
+Ce sort utilise un [[emplacement de sort]] d’un niveau de plus que le niveau réel du sort.

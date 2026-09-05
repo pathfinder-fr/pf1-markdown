@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa–100 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Jeux](./Jeux.md)</span>
+<span class="Catégorie">**Catégorie** [[Jeux]]</span>
 ---
 Les jeux de cartes vont des jeux de cartes en papier cartonné imprimées de symboles aux œuvres d’art plus élaborées peintes à la main sur des cartes en vélin ciré, en ivoire, en bois, voire même en métal.

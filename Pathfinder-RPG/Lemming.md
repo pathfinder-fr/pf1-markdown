@@ -10,8 +10,8 @@ LastModified: 2026-08-02 11:08
 {s:pucem|Animal|Plaines|Froid}
 {s:BDTexte|*Source : Ultimate Wilderness*}
 {s:BDTexte|**PX** 50}
-{s:BDTexte|[Animal](./type Animal.md) de taille MIN, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Animal|Animal]] de taille MIN, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 15, pris au dépourvu 14 (Dex +1, taille +4)}
 {s:BDTexte|**pv** 2 (1d8-2)}
@@ -23,8 +23,8 @@ LastModified: 2026-08-02 11:08
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 12, **Con** 6, **Int** 2, **Sag** 13, **Cha** 4}
 {s:BDTexte|**BBA** +0, **BMO** -3, **DMD** 2 (6 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +17}
+{s:BDTexte|**Dons** [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +17}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Plaines froides}
 {s:BDTexte|**Organisation sociale** solitaire, paire, ou colonie (3-30)}

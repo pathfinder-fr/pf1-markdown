@@ -16,21 +16,21 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 3, [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 4, [San](./Sanguin.md) 4, [Sor](./Sorcière.md) 4, [Spi](./Spirite.md) 4  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (trois noix)  
+**Composantes** [[composantes|V, G, M/FD]] (trois noix)  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Cibles** toutes les créatures comprises dans un rayonnement de 9 m (6 {s:c}) de diamètre  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Les victimes de cet [enchantement](./Enchantement.md) deviennent [confuses](./Confus.md), ce qui les empêche de prendre la moindre décision. Pour déterminer ce que chacun fera pendant le [round](./round.md) à venir, lancer 1d100 au début du tour de chaque sujet.
+Les victimes de cet [[enchantement]] deviennent [[confus|confuses]], ce qui les empêche de prendre la moindre décision. Pour déterminer ce que chacun fera pendant le [[round]] à venir, lancer 1d100 au début du tour de chaque sujet.
 
 <center>
 {| CLASS="tablo"
@@ -45,18 +45,18 @@ Les victimes de cet [enchantement](./Enchantement.md) deviennent [confuses](./Co
 | CLASS="gauche" | Ne fait rien et babille de manière incohérente.
 |-
 | 51–75
-| CLASS="gauche" | S’inflige 1d8 points de dégâts + modificateur de [Force](./Force.md) avec un objet en main.
+| CLASS="gauche" | S’inflige 1d8 points de dégâts + modificateur de [[Force]] avec un objet en main.
 |- CLASS="alt"
 | 76–100
-| CLASS="gauche" | Attaque la créature la plus proche (dans ce cas, un [familier](./familier.md) fait partie du sujet).
+| CLASS="gauche" | Attaque la créature la plus proche (dans ce cas, un [[familier]] fait partie du sujet).
 |}
 </center>
 
-Un personnage [confus](./Confus.md) dans l’incapacité de mener à bien l’action indiquée ne fait rien d’autre que babiller de manière incohérente. Les attaquants n’ont aucun d’avantage particulier face à un personnage [confus](./Confus.md). En revanche, ce dernier riposte automatiquement lors de son tour de jeu suivant, du moins s’il est toujours [confus](./Confus.md). Il est bon de prendre en note qu’un personnage [confus](./Confus.md) ne porte pas d’[attaque d’opportunité](./attaque dopportunité.md) contre une créature sauf s’il est déjà en train de l’attaquer (soit à cause de sa dernière action, soit parce qu’il vient d’être attaqué).
+Un personnage [[confus]] dans l’incapacité de mener à bien l’action indiquée ne fait rien d’autre que babiller de manière incohérente. Les attaquants n’ont aucun d’avantage particulier face à un personnage [[confus]]. En revanche, ce dernier riposte automatiquement lors de son tour de jeu suivant, du moins s’il est toujours [[confus]]. Il est bon de prendre en note qu’un personnage [[confus]] ne porte pas d’[[attaque dopportunité|attaque d’opportunité]] contre une créature sauf s’il est déjà en train de l’attaquer (soit à cause de sa dernière action, soit parce qu’il vient d’être attaqué).
 
 ### Mythique
 {s:CMy}
-Effectuez un jet sur la table ci-dessous à la place de celle de la version [non-mythique](./non-mythique.md) au début du tour de chaque cible pour déterminer l’effet produit pendant le round en cours.
+Effectuez un jet sur la table ci-dessous à la place de celle de la version [[non-mythique]] au début du tour de chaque cible pour déterminer l’effet produit pendant le round en cours.
 
 <center>
 {| CLASS="tablo autoalt toutgauche"
@@ -68,13 +68,13 @@ Effectuez un jet sur la table ci-dessous à la place de celle de la version [non
 |- CLASS="premier"
 | 01-25 || La cible agit normalement, mais subit un malus de -2 aux jets d’attaque, aux tests de compétence et de caractéristique jusqu’à son prochain tour.
 |-
-| 26-50 || La cible ne fait rien d’autre que de bafouiller des choses incompréhensibles et subit un malus de -4 à la [CA](./CA.md) jusqu’à son prochain tour.
+| 26-50 || La cible ne fait rien d’autre que de bafouiller des choses incompréhensibles et subit un malus de -4 à la [[CA]] jusqu’à son prochain tour.
 |-
-| 51-75 || La cible s’inflige 2d8 points de dégâts + son modificateur de [Force](./Force.md) avec l’objet qu’elle tient en main.
+| 51-75 || La cible s’inflige 2d8 points de dégâts + son modificateur de [[Force]] avec l’objet qu’elle tient en main.
 |-
 | 76-100 || La cible attaque l’allié le plus proche (un familier est considéré comme un allié dans le cadre de ce sort).
 |}
 </center>
 
 
-**[Amplifié](./Amplifié.md).** S’il dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il lance le sort, le personnage oblige une créature affectée par round à effectuer deux jets sur la table et à conserver le résultat le plus élevé.
+**[[Amplifié]].** S’il dépense deux utilisations de [[pouvoir mythique]] lorsqu’il lance le sort, le personnage oblige une créature affectée par round à effectuer deux jets sur la table et à conserver le résultat le plus élevé.

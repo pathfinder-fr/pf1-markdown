@@ -11,29 +11,29 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[eau](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 4, [Rôd](./Rôdeur.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+{s:UC}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 4, [[Rôdeur|Rôd]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, FD]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créatures touchées
-**Durée** 10 minutes/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** 10 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort fonctionne comme *[marche sur l’onde](./Marche sur londe.md)* mais la durée se divise entre les créatures touchées, par portions de 10 minutes.
+Ce sort fonctionne comme *[[marche sur londe|marche sur l’onde]]* mais la durée se divise entre les créatures touchées, par portions de 10 minutes.
 
 
 
 (((
 ## Marche sur l'onde
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[eau](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 3, [Méd](./Médium.md) 2, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 3, [Rôd](./Rôdeur.md) 3, [Sor](./Sorcière.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
-**Cible** 1 créature touchée/[niveau](./niveau.md)
-**Durée** 10 minutes/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|eau]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 3, [[Médium|Méd]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, FD]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
+**Cible** 1 créature touchée/[[niveau]]
+**Durée** 10 minutes/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Les cibles de ce sort peuvent marcher sur n’importe quel liquide avec autant d’aisance que sur la terre ferme. Elles peuvent ainsi traverser facilement les cours d’eau ou la glace, ainsi que la neige, la boue, l’huile, les sables mouvants, et même la lave, puisque leurs pieds se posent à quelques centimètres au-dessus de la surface (à noter que cela ne les [immunise](./immunisé.md) pas contre l’intense chaleur du magma). Les cibles peuvent marcher, courir, ou charger normalement, comme s’ils se trouvaient sur la terre ferme.
+Les cibles de ce sort peuvent marcher sur n’importe quel liquide avec autant d’aisance que sur la terre ferme. Elles peuvent ainsi traverser facilement les cours d’eau ou la glace, ainsi que la neige, la boue, l’huile, les sables mouvants, et même la lave, puisque leurs pieds se posent à quelques centimètres au-dessus de la surface (à noter que cela ne les [[immunisé|immunise]] pas contre l’intense chaleur du magma). Les cibles peuvent marcher, courir, ou charger normalement, comme s’ils se trouvaient sur la terre ferme.
 
 Si le sort est lancé sous l’eau ou sur des cibles tout ou partiellement immergées, ces dernières remontent vers la surface à la vitesse de 18 m (12 {s:c}) par round et se stabilisent, debout, à quelques centimètres au-dessus du liquide.
 )))

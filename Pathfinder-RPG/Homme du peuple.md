@@ -61,12 +61,12 @@ Categories:
 **Dé de vie.** d6.
 
 ### Compétences de classes
-Les compétences de l’homme du peuple (et la caractéristique dont chacune dépend) sont : [Artisanat](./Artisanat.md) (Int), [Dressage](./Dressage.md) (Cha), [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Natation](./Natation.md) (For), [Perception](./Perception.md) (Sag), [Profession](./Profession.md) (Sag).
+Les compétences de l’homme du peuple (et la caractéristique dont chacune dépend) sont : [[Artisanat]] (Int), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Natation]] (For), [[Perception]] (Sag), [[Profession]] (Sag).
 
-**Points de compétence à chaque niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence à chaque niveau.** 2 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de la classe
 Voici les particularités et aptitudes de la classe de PNJ de l’homme du peuple.
 
 #### Armes et armures
-L’homme du peuple est formé au maniement d’une seule [arme courante](./arme courante.md). Il n’est formé ni au maniement des autres armes ou des boucliers, ni au port des armures.
+L’homme du peuple est formé au maniement d’une seule [[arme courante]]. Il n’est formé ni au maniement des autres armes ou des boucliers, ni au port des armures.

@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *La longévité et la résistance du personnage sont légendaires.*
 
-**Condition.** [Robustesse](./Robustesse.md)
+**Condition.** [[Robustesse]]
 
-**Avantage.** Le don [Robustesse](./Robustesse.md) confère deux fois plus de points de vie. De plus, lorsque son total des points de vie tombe en dessous de 0, le personnage gagne une RD 10/épique. Cette RD se cumule avec toutes les éventuelles autres RD/épique possédées par le personnage.
+**Avantage.** Le don [[Robustesse]] confère deux fois plus de points de vie. De plus, lorsque son total des points de vie tombe en dessous de 0, le personnage gagne une RD 10/épique. Cette RD se cumule avec toutes les éventuelles autres RD/épique possédées par le personnage.

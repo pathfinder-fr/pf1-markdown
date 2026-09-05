@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Sorcière#MALEFICE
 ---
 
->>> [Sorcière#MALEFICE](./Sorcière.md#MALEFICE)
+>>> [[Sorcière#MALEFICE]]

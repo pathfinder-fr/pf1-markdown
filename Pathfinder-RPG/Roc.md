@@ -13,21 +13,21 @@ Categories:
 {s:pucem|Animal|Montagnes|Tropical}
 {s:BDTexte|*Source : Bestiaire* p.250}
 {s:BDTexte|**PX** 6.400}
-{s:BDTexte|[Animal](./type Animal.md) de taille Gig, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Animal|Animal]] de taille Gig, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision nocturne]] ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 8, pris au dépourvu 20 (Dex +2, naturelle +14, taille -4)}
 {s:BDTexte|**pv** 120 (16d8+48)}
 {s:BDTexte|**Réf** +14, **Vig** +13, **Vol** +8}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), vol 24 m (16 {s:c}) (moyenne)}
-{s:BDTexte|**Corps à corps** 2 serres, +18 (2d6+9/19-20 et [étreinte](./Étreinte.md)), morsure, +17 (2d8+9)}
+{s:BDTexte|**Corps à corps** 2 serres, +18 (2d6+9/19-20 et [[étreinte]]), morsure, +17 (2d8+9)}
 {s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 4,5 m (3 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 28, **Dex** 15, **Con** 17, **Int** 2, **Sag** 12, **Cha** 11}
 {s:BDTexte|**BBA** +12, **BMO** +25 (+29 pour la lutte), **DMD** 37}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (serres), [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (serres), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +15, [Vol](./Vol.md) +7}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (serres), [[Attaque en puissance]], [[Attaque en vol]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (serres), [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Perception]] +15, [[Vol]] +7}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes chaudes}
 {s:BDTexte|**Organisation sociale** solitaire ou couple reproducteur}
@@ -99,6 +99,6 @@ ou un rôdeur de taille M de l’utiliser comme monture volante.
 
 **Caractéristiques de départ.** **Taille** M ; **Vitesse** 6 m (4 {s:c}), vol 24 m (16 {s:c}) (moyenne) ; **CA** armure naturelle +5 ; **Attaque** 2 serres (1d4), morsure (1d6) ; **Caractéristiques** For 12, Dex 19, Con 9, Int 2, Sag 13, Cha 11 ; **Particularités** vision dans le noir.
 
-**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** 2 serres (1d6) et [étreinte](./Étreinte.md), morsure (1d8) ; **Caractéristiques** For +8, Dex -2, Con +4.
+**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** 2 serres (1d6) et [[étreinte]], morsure (1d8) ; **Caractéristiques** For +8, Dex -2, Con +4.
 
 </div></td></tr></table>

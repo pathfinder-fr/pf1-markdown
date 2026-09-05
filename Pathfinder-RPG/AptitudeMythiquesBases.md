@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Création Personnage Mythique#APTITUDEMYTHIQUEDEBASE
 ---
 
->>> [Création Personnage Mythique#APTITUDEMYTHIQUEDEBASE](./Création Personnage Mythique.md#APTITUDEMYTHIQUEDEBASE)
+>>> [[Création Personnage Mythique#APTITUDEMYTHIQUEDEBASE]]

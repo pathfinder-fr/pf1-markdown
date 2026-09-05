@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Progression des personnages#CLASSEDEPREDILECTION
 ---
 
->>> [Progression des personnages#CLASSEDEPREDILECTION](./Progression des personnages.md#CLASSEDEPREDILECTION)
+>>> [[Progression des personnages#CLASSEDEPREDILECTION]]

@@ -18,11 +18,11 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Apal](./Antipaladin.md) 3, [Inq](./Inquisiteur.md) 3, [Magus](./Magus.md) 3, [Méd](./Médium.md) 3, [Pal](./Paladin.md) 3, [Psy](./Psychiste.md) 3, [Rôd](./Rôdeur.md) 3, [San](./Sanguin.md) 3  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Antipaladin|Apal]] 3, [[Inquisiteur|Inq]] 3, [[Magus]] 3, [[Médium|Méd]] 3, [[Paladin|Pal]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 3, [[Sanguin|San]] 3  
 
-**Temps d’incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d’incantation** 1 [[action rapide]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[Composantes|V]]  
 
 **Portée** personnelle  
 
@@ -32,4 +32,4 @@ Categories:
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Le personnage gagne un bonus de +6 m (4 {s:c}) à la vitesse (ou de +3 m (2 {s:c}) s’il porte une armure intermédiaire ou plus) jusqu’à la fin de son tour. Ses déplacements ne provoquent pas d’[attaque d’opportunité](./attaque dopportunité.md) et il peut traverser la case d’une créature plus grande que lui, en revanche, il ne peut pas terminer son déplacement du [round](./round.md) dans une case occupée par une créature.
+Le personnage gagne un bonus de +6 m (4 {s:c}) à la vitesse (ou de +3 m (2 {s:c}) s’il porte une armure intermédiaire ou plus) jusqu’à la fin de son tour. Ses déplacements ne provoquent pas d’[[attaque dopportunité|attaque d’opportunité]] et il peut traverser la case d’une créature plus grande que lui, en revanche, il ne peut pas terminer son déplacement du [[round]] dans une case occupée par une créature.

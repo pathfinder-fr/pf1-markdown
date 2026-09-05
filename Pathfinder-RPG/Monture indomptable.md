@@ -10,8 +10,8 @@ Categories:
 
 {s:CSU|1}*Le personnage est si à l’aise en selle que sa monture évite plus facilement les attaques.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Combat monté](./Combat monté.md), 5 rangs en [Dressage](./Dressage.md), 5 rangs en [Équitation](./Équitation.md), affinité avec le [Dernier Rempart](./../Golarion/Dernier-Rempart.md).
+**Conditions.** [[Combat monté]], 5 rangs en [[Dressage]], 5 rangs en [[Équitation]], affinité avec le [[Golarion.Dernier-Rempart|Dernier Rempart]].
 
-**Avantages.** Une fois par [round](./round.md), quand la monture du personnage doit faire un [jet de sauvegarde](./JDS.md), le cavalier peut faire un test d’[Équitation](./Équitation.md) par une [action immédiate](./Action immédiate.md). Si le résultat est supérieur au [DD](./DD.md) de l’attaque adverse, la monture réussit automatiquement son jet de sauvegarde.
+**Avantages.** Une fois par [[round]], quand la monture du personnage doit faire un [[jds|jet de sauvegarde]], le cavalier peut faire un test d’[[Équitation]] par une [[action immédiate]]. Si le résultat est supérieur au [[DD]] de l’attaque adverse, la monture réussit automatiquement son jet de sauvegarde.

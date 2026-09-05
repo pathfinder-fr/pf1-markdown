@@ -14,7 +14,7 @@ Categories:
 **Condition.** Posséder un pouvoir magique lancé à un NLS supérieur ou égal à 10.
 
 **Avantage.** Ce don s’applique à un des pouvoirs magiques de la créature, qui doit vérifier les conditions décrites ci-dessous. Trois fois par jour (ou moins souvent si la créature est normalement limitée à une ou deux utilisations quotidiennes du pouvoir), le pouvoir choisi peut être utilisé de manière rapide.
-Une action rapide suffit pour activer le pouvoir, et celle-ci ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md). La créature peut entreprendre d’autres actions au cours du même round (utiliser un autre pouvoir magique par exemple, mais pas une autre [action rapide](./Action rapide.md)). Elle ne peut utiliser qu’un seul pouvoir magique rapide par round.
+Une action rapide suffit pour activer le pouvoir, et celle-ci ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]]. La créature peut entreprendre d’autres actions au cours du même round (utiliser un autre pouvoir magique par exemple, mais pas une autre [[action rapide]]). Elle ne peut utiliser qu’un seul pouvoir magique rapide par round.
 Le pouvoir magique choisi doit imiter un sort dont le niveau est inférieur ou égal à la moitié du NLS de la créature (arrondi vers le bas) moins 4. Le tableau ci-dessous présente les restrictions imposées par cette condition.
 
 **Spécial.** La créature peut gagner ce don plusieurs fois, mais ses effets ne se cumulent pas : il s’applique chaque fois à un pouvoir magique différent.

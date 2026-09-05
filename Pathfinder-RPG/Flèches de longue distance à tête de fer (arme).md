@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:UC}**Prix** 1 po ; **Poids** 2 kg
-<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span> ([orientale](./Armes orientales.md))
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span> ([[armes orientales|orientale]])
 ---
-Ces flèches ont une utilité tactique : elles servent à lutter de loin contre les troupes ennemies, c’est pourquoi elles se terminent par une tête en fer. Cela les aide à parcourir une grande distance mais les rend moins efficaces au niveau des dégâts. Les flèches de longue distance à tête de fer augmentent le [facteur de portée](./facteur de portée.md) de l’arc de 3 m mais imposent un malus de -1 aux [jets de dégâts](./Valeurs de combat.md#DEGATS) par facteur de portée (1 point au minimum). Elles se vendent par 20, dans des carquois en cuir.
+Ces flèches ont une utilité tactique : elles servent à lutter de loin contre les troupes ennemies, c’est pourquoi elles se terminent par une tête en fer. Cela les aide à parcourir une grande distance mais les rend moins efficaces au niveau des dégâts. Les flèches de longue distance à tête de fer augmentent le [[facteur de portée]] de l’arc de 3 m mais imposent un malus de -1 aux [[Valeurs de combat#DEGATS|jets de dégâts]] par facteur de portée (1 point au minimum). Elles se vendent par 20, dans des carquois en cuir.

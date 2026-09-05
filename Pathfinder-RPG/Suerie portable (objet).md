@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AO}**Prix** 25 po ; **Poids** 12,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Une suerie est une grande bâche de cuir posée sur une armature de bois pliable composée de pilotis et de lamelles en écorce de bouleau. Elle contient des rouleaux de cuir et des pierres sacrées. La hutte, une fois assemblée, ressemble à un petit dôme qui peut servir de tente et dans laquelle peuvent s’allonger deux humanoïdes de taille M ou quatre de taille P. Quand les pierres sont chauffées et que de l’eau est versée dessus pour créer une vapeur étouffante, la hutte sert de suerie consacrée aux cérémonies curatives qui confère un bonus de circonstances de +2 aux tests de [Premiers secours](./Premiers secours.md) effectués en utilisant l’extension de compétence occulte [guérison miraculeuse](./Extensions de compétences occultes.md#GUÉRISONMIRACULEUSE).
+Une suerie est une grande bâche de cuir posée sur une armature de bois pliable composée de pilotis et de lamelles en écorce de bouleau. Elle contient des rouleaux de cuir et des pierres sacrées. La hutte, une fois assemblée, ressemble à un petit dôme qui peut servir de tente et dans laquelle peuvent s’allonger deux humanoïdes de taille M ou quatre de taille P. Quand les pierres sont chauffées et que de l’eau est versée dessus pour créer une vapeur étouffante, la hutte sert de suerie consacrée aux cérémonies curatives qui confère un bonus de circonstances de +2 aux tests de [[Premiers secours]] effectués en utilisant l’extension de compétence occulte [[Extensions de compétences occultes#GUÉRISONMIRACULEUSE|guérison miraculeuse]].

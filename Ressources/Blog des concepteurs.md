@@ -8,21 +8,21 @@ LastModified: 2011-09-28 19:28
 
 <table class="espace-col deuxcol"><tr><td>
 ### Combat
-- [Manœuvres de combat et capacités spéciales des armes](./Concepteur007.md) : comment déterminer si le bonus d'une arme s'applique au test de manœuvre de combat ?
+- [[Concepteur007|Manœuvres de combat et capacités spéciales des armes]] : comment déterminer si le bonus d'une arme s'applique au test de manœuvre de combat ?
 
 ### Objets magiques
-- [Pathfinder et l'épée intelligente](./Concepteur001.md) : une exploration des objets magiques intelligents en Pathfinder et de la manière de les utiliser dans les parties.
+- [[Concepteur001|Pathfinder et l'épée intelligente]] : une exploration des objets magiques intelligents en Pathfinder et de la manière de les utiliser dans les parties.
 
 </td><td>
 ### Sorts et magie
-- [Création de sorts, les caractéristiques épuisables](./Concepteur002.md) : une notion utile pour aider à déterminer si un nouveau sort est équilibré.
+- [[Concepteur002|Création de sorts, les caractéristiques épuisables]] : une notion utile pour aider à déterminer si un nouveau sort est équilibré.
 
 ### L'art du MJ
-- [Des décors de combat amusants](./Concepteur003.md) : conseils et idées pour concevoir des champs de bataille intéressants.
+- [[Concepteur003|Des décors de combat amusants]] : conseils et idées pour concevoir des champs de bataille intéressants.
 
 ### Divers
-- [FAQ sur le poison](./Concepteur004.md) : des éclaircissements sur l'utilisation des poisons.
-- [FAQ sur les animaux intelligents](./Concepteur005.md)
-- [FAQ sur les manœuvres de combat](./Concepteur006.md)
+- [[Concepteur004|FAQ sur le poison]] : des éclaircissements sur l'utilisation des poisons.
+- [[Concepteur005|FAQ sur les animaux intelligents]]
+- [[Concepteur006|FAQ sur les manœuvres de combat]]
 
 </td></tr></table>

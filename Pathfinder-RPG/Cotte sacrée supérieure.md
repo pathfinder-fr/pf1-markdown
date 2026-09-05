@@ -10,9 +10,9 @@ Categories:
 
 {s:regional|Varisiens|Varisiens|varisiens}<div class="BD">
 {s:BDTitre|Cotte sacrée supérieure|{s:ISR}}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 11 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 43.300 po ; **Poids** 20 kg
+**Aura** [[Invocation]] modérée ; **NLS** 11 ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Prix** 43.300 po ; **Poids** 20 kg
 (((Description)))
-{s:cs}Cette armure fonctionne comme une *[cotte sacrée](./Cotte sacrée.md)*, excepté qu'elle protège son porteur comme une *[cotte de mailles](./cotte de mailles (armure).md) du [martyr](./martyr (propriété).md) +3* et qu'elle peut absorber jusqu'à 10 points d'énergie positive.
+{s:cs}Cette armure fonctionne comme une *[[cotte sacrée]]*, excepté qu'elle protège son porteur comme une *[[cotte de mailles (armure)|cotte de mailles]] du [[martyr (propriété)|martyr]] +3* et qu'elle peut absorber jusqu'à 10 points d'énergie positive.
 (((Création)))
-**Conditions** [Création d'armes et armures magiques](./Création darmes et armures magiques.md), *[soins modérés de groupe](./Soins modérés de groupe.md)*, le créateur doit être varisien ; **Coût** 21.800 po
+**Conditions** [[Création darmes et armures magiques|Création d'armes et armures magiques]], *[[soins modérés de groupe]]*, le créateur doit être varisien ; **Coût** 21.800 po
 </div>

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 150 po ; **Poids** 750 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-En raison de leur endurance exceptionnelle, ces animaux de taille G sont les montures préférées des peuples du désert mais ils ont souvent mauvais caractère. Voir les statistiques du [dromadaire](./Dromadaire.md).
+En raison de leur endurance exceptionnelle, ces animaux de taille G sont les montures préférées des peuples du désert mais ils ont souvent mauvais caractère. Voir les statistiques du [[dromadaire]].

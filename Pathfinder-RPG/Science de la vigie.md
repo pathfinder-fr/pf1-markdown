@@ -12,9 +12,9 @@ Categories:
 
 *Vous et vos alliés vous alertez les uns les autres en cas d'attaque surprise.*
 
-**Condition.** [Vigie](./Vigie.md)
+**Condition.** [[Vigie]]
 
-**Avantage.** Lorsque le personnage est adjacent à un allié qui dispose également du don d'équipe [Vigie](./Vigie.md), dès que l'un d'entre vous entreprend une action, vous perdez tous deux l'état [pris au dépourvu](./Pris au dépourvu.md).
+**Avantage.** Lorsque le personnage est adjacent à un allié qui dispose également du don d'équipe [[Vigie]], dès que l'un d'entre vous entreprend une action, vous perdez tous deux l'état [[pris au dépourvu]].
 
 (((Improved Lookout
 

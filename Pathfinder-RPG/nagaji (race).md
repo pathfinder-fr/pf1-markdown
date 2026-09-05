@@ -8,22 +8,22 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:menuracesextraordinaires}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Nagaji.md) d'un nagaji standard.***
+{s:menuracesextraordinaires}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [[Nagaji|fiche de créature]] d'un nagaji standard.***
 
 Les nagajis sont une race d’humanoïdes ophidiens à la peau écailleuse imitant l’apparence spectaculaire des véritables nagas. Comme les serpents, ils ont la langue fourchue et des yeux sans paupière qui leur donnent un regard imperturbable que la plupart des autres races trouvent perturbant. En outre, leur forme physique est proche de celle des humains et donne lieu à de suspicieuses spéculations quant à leurs origines. La plupart croient que les vrais nagas les créèrent pour en faire une race de serviteurs, au moyen de croisements, de magie, ou des deux. Et, en effet, les nagajis vénèrent les nagas comme des dieux vivants. Les nagajis inspirent la peur et l’admiration aux autres humanoïdes, tant à cause de leurs origines mystérieuses que de leur talent à l’épée et en sorcellerie.
 
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Force](./Force.md), +2 [Charisme](./Charisme.md), -2 [Intelligence](./Intelligence.md).** Les nagajis sont solides et ont une forte personnalité, mais ils ont tendance à ignorer toute logique et à se moquer des aspirations scolastiques.
-- **Taille M.** Les nagajis sont des créatures de [taille](./taille.md) M et n’ont aucun bonus ni malus de taille.
-- **Reptilien.** Les nagajis sont des [humanoïdes](./type Humanoïde.md) de sous-type [reptilien](./sous-type reptilien.md).
-- **Vitesse normale.** Les nagajis ont une [vitesse de base](./VD.md) de 9 mètres.
-- **Vision nocturne.** Les nagajis peuvent [voir deux fois plus loin](./Vision nocturne (capacité).md) que les humains en cas de faible luminosité.
-- **Écailles renforcées.** Les nagajis ont une chair écailleuse qui leur accorde un bonus d’[armure naturelle](./CA.md) de +1.
-- **Résistant.** Les nagajis reçoivent un bonus racial de +2 à leurs [jets de sauvegarde](./JDS.md) contre les [effets mentaux](./Registre.md) et les [poisons](./Poisons.md).
-- **Perception du serpent.** Les nagajis reçoivent un bonus racial de +2 à leurs tests de [Dressage](./Dressage.md) contre les reptiles, ainsi qu'un bonus racial de +2 à leurs tests de [Perception](./Perception.md).
-- **Langues.** Les nagajis commencent le jeu en parlant le commun et le draconique. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi celles-ci : toutes les langues humaines, abyssal, aklo, céleste, géant, infernal et sylvestre.
+- **+2 [[Force]], +2 [[Charisme]], -2 [[Intelligence]].** Les nagajis sont solides et ont une forte personnalité, mais ils ont tendance à ignorer toute logique et à se moquer des aspirations scolastiques.
+- **Taille M.** Les nagajis sont des créatures de [[taille]] M et n’ont aucun bonus ni malus de taille.
+- **Reptilien.** Les nagajis sont des [[type Humanoïde|humanoïdes]] de sous-type [[sous-type reptilien|reptilien]].
+- **Vitesse normale.** Les nagajis ont une [[VD|vitesse de base]] de 9 mètres.
+- **Vision nocturne.** Les nagajis peuvent [[Vision nocturne (capacité)|voir deux fois plus loin]] que les humains en cas de faible luminosité.
+- **Écailles renforcées.** Les nagajis ont une chair écailleuse qui leur accorde un bonus d’[[CA|armure naturelle]] de +1.
+- **Résistant.** Les nagajis reçoivent un bonus racial de +2 à leurs [[jds|jets de sauvegarde]] contre les [[registre|effets mentaux]] et les [[poisons]].
+- **Perception du serpent.** Les nagajis reçoivent un bonus racial de +2 à leurs tests de [[Dressage]] contre les reptiles, ainsi qu'un bonus racial de +2 à leurs tests de [[Perception]].
+- **Langues.** Les nagajis commencent le jeu en parlant le commun et le draconique. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues parmi celles-ci : toutes les langues humaines, abyssal, aklo, céleste, géant, infernal et sylvestre.
 
 </div>
 
@@ -32,14 +32,14 @@ Les nagajis sont une race d’humanoïdes ophidiens à la peau écailleuse imita
 {s:MR}Il est possible de prendre le trait racial suivant à la place d’un trait racial existant de nagaji. Consultez votre MJ avant de choisir cette option.
 
 <u>*Remplace « perception du serpent » :*</u>
-- **Regard hypnotique (Mag).** Le regard du nagaji est si intense qu’il fige quiconque le croise. Une fois par jour, il peut tenter d’hypnotiser une seule cible, comme s’il s’agissait du sort *[hypnose](./Hypnose.md)* ([niveau de lanceur de sorts](./NLS.md) égal au nombre de [DV](./../Ressources/DV.md) du nagaji). Le [DD](./DD.md) de cet effet est égal à 11 + le modificateur de [Charisme](./Charisme.md) du nagaji). Les effets de ce regard fascinant ne durent qu’un seul round. Ce trait racial remplace perception du serpent.
+- **Regard hypnotique (Mag).** Le regard du nagaji est si intense qu’il fige quiconque le croise. Une fois par jour, il peut tenter d’hypnotiser une seule cible, comme s’il s’agissait du sort *[[hypnose]]* ([[NLS|niveau de lanceur de sorts]] égal au nombre de [[DV]] du nagaji). Le [[DD]] de cet effet est égal à 11 + le modificateur de [[Charisme]] du nagaji). Les effets de ce regard fascinant ne durent qu’un seul round. Ce trait racial remplace perception du serpent.
 
 <u>*Remplace « résistant » :*</u>
-- {s:cs}{s:ISR}**Affinité avec les serpents.** Les [prêtres](./Prêtre.md) nagajis du [domaine des Reptiles](./Domaine des Reptiles.md) considèrent leur [niveau de lanceur de sorts](./NLS.md) comme supérieur de 1 dans le cadre de leurs pouvoirs et sorts de domaine. Il s'agit d'un bonus racial. Ce trait racial remplace résistant.
+- {s:cs}{s:ISR}**Affinité avec les serpents.** Les [[Prêtre|prêtres]] nagajis du [[Domaine des Reptiles]] considèrent leur [[NLS|niveau de lanceur de sorts]] comme supérieur de 1 dans le cadre de leurs pouvoirs et sorts de domaine. Il s'agit d'un bonus racial. Ce trait racial remplace résistant.
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -48,15 +48,15 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-{s:MR}**[Alchimiste](./Alchimiste.md).** L'alchimiste rajoute +1 à ses tests d’[Artisanat](./Artisanat.md) (alchimie) pour créer du [poison](./Poisons.md) et +1/3 au [DD](./DD.md) des poisons qu'il crée.
+{s:MR}**[[Alchimiste]].** L'alchimiste rajoute +1 à ses tests d’[[Artisanat]] (alchimie) pour créer du [[Poisons|poison]] et +1/3 au [[DD]] des poisons qu'il crée.
 
-{s:MR}**[Conjurateur](./Conjurateur.md).** Le conjurateur rajoute +1 [point de vie](./pv.md) à son [eidolon](./Conjurateur.md#EIDOLON).
+{s:MR}**[[Conjurateur]].** Le conjurateur rajoute +1 [[pv|point de vie]] à son [[Conjurateur#EIDOLON|eidolon]].
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}**[Guerrier](./Guerrier.md).** Le guerrier rajoute +1 à son [DMD](./DMD.md) quand il résiste à une tentative de [lutte](./lutte.md) ou de [croc-en-jambe](./croc-en-jambe.md).
+{s:MR}**[[Guerrier]].** Le guerrier rajoute +1 à son [[DMD]] quand il résiste à une tentative de [[lutte]] ou de [[croc-en-jambe]].
 
-{s:MR}**[Moine](./Moine.md).** Le moine rajoute +1/4 points à sa [réserve de ki](./Moine.md#RESERVEDEKI).
+{s:MR}**[[Moine]].** Le moine rajoute +1/4 points à sa [[Moine#RESERVEDEKI|réserve de ki]].
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -72,23 +72,23 @@ Voici les options accessibles aux nagajis, d’autres races adaptées peuvent s�
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Arrachage sauvage](./Arrachage sauvage.md) || <sup>*ISR*</sup> || Attaque de [morsure](./Attaques naturelles (capacité).md), sous-type [reptilien](./sous-type reptilien.md) || Effectue un arrachage sauvage après un test de lutte réussit pour mettre la cible à terre
+| [[Arrachage sauvage]] || <sup>*ISR*</sup> || Attaque de [[Attaques naturelles (capacité)|morsure]], sous-type [[sous-type reptilien|reptilien]] || Effectue un arrachage sauvage après un test de lutte réussit pour mettre la cible à terre
 
 |- CLASS="premier"
-| [Crachat venimeux (nagaji)](./Crachat venimeux (nagaji).md)* || <sup>MR</sup> || [Nagaji](./nagaji (race).md) || Le nagaji peut cracher son venin sur une courte distance
+| [[Crachat venimeux (nagaji)]]* || <sup>MR</sup> || [[Nagaji (race)|Nagaji]] || Le nagaji peut cracher son venin sur une courte distance
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Aspirant naga (druide)](./Aspirant naga (druide).md) *(MR)*
+- [[Aspirant naga (druide)]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Lustrécailles nagaji](./Lustrécailles nagaji.md) *(MR)*
-- [Remontoir à sort (2e niveau)](./Remontoir à sort.md) *(ISR)*
-- [Remontoir à sort (4e niveau)](./Remontoir à sort.md) *(ISR)*
-- [Remontoir à sort (6e niveau)](./Remontoir à sort.md) *(ISR)*
+- [[Lustrécailles nagaji]] *(MR)*
+- [[Remontoir à sort|Remontoir à sort (2e niveau)]] *(ISR)*
+- [[Remontoir à sort|Remontoir à sort (4e niveau)]] *(ISR)*
+- [[Remontoir à sort|Remontoir à sort (6e niveau)]] *(ISR)*
 
 </td></tr></table>

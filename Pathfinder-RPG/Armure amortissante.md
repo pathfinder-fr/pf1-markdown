@@ -11,13 +11,13 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage se tord dans son armure afin qu’elle atténue sa chute.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise d’armure](./Dons.md#MAITRISEDARMURE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDARMURE|maîtrise d’armure]]
 
-**Conditions.** Capacité de classe [entrainement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES), formation au port des armures intermédiaires ou lourdes
+**Conditions.** Capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entrainement aux armures]], formation au port des armures intermédiaires ou lourdes
 
-**Avantage.** Quand le personnage subit des dégâts de [chute](./Dangers naturels.md#CHUTES), le personnage peut rediriger la moitié des dégâts vers son armure. Ces dégâts ignorent la [solidité](./solidité.md) de l’armure.
+**Avantage.** Quand le personnage subit des dégâts de [[Dangers naturels#CHUTES|chute]], le personnage peut rediriger la moitié des dégâts vers son armure. Ces dégâts ignorent la [[solidité]] de l’armure.
 
 
 {s:AMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance pour appliquer la [solidité](./solidité.md) de l’armure lorsqu'il y redirige des dégâts de chute.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance pour appliquer la [[solidité]] de l’armure lorsqu'il y redirige des dégâts de chute.

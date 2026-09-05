@@ -13,38 +13,38 @@ Categories:
 {s:pucem|Humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.191*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Orque](./Orque.md) [prêtre](./Prêtre.md) 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([orque](./sous-type orque.md)) de taille M, CM}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[Orque]] [[prêtre]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type orque|orque]]) de taille M, CM}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 9, pris au dépourvu 15 (+6 armure, -1 Dex)}
 {s:BDTexte|**pv** 20 (3d8+3)}
 {s:BDTexte|**Réf** +1, **Vig** +5, **Vol** +5}
-{s:BDTexte|**Capacités défensives** [férocité](./Férocité.md)}
-{s:BDTexte|**Faiblesse** [sensibilité à la lumière](./Sensibilité à la lumière.md)}
+{s:BDTexte|**Capacités défensives** [[férocité]]}
+{s:BDTexte|**Faiblesse** [[sensibilité à la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** hache de guerre, +5 (1d8+3/×3)}
 {s:BDTexte|**Distance** javeline, +1 (1d6+3)}
-{s:BDTexte|**Attaques spéciales** [canalisation d'énergie négative](./Prêtre.md#CANALISATIONDENERGIE) 4/jour (DD 12, 2d6)}
-{s:BDTexte|**Pouvoirs magiques de domaine** ([NLS](./NLS.md) 3 ; [concentration](./concentration.md) +4)}
+{s:BDTexte|**Attaques spéciales** [[prêtre#CANALISATIONDENERGIE|canalisation d'énergie négative]] 4/jour (DD 12, 2d6)}
+{s:BDTexte|**Pouvoirs magiques de domaine** ([[NLS]] 3 ; [[concentration]] +4)}
 {s:BDTexte|4/jour – *double *(3 rounds), *toucher maléfique* (1 round)}
-{s:BDTexte|**Sorts de prêtre préparés** ([NLS](./NLS.md) 3 ; [concentration](./concentration.md) +4)}
-{s:BDSorts|2e — *[force de taureau](./Force de taureau.md)*, *[invisibilité](./Invisibilité.md)*}
-{s:BDSorts|1er — *[arme magique](./Arme magique.md)*, *[imprécation](./Imprécation.md)* (DD 12), *[ordre assassin](./Ordre assassin.md)* (DD 12), *[protection contre le Bien](./Protection contre le Bien.md)*}
-{s:BDSorts|0 (à volonté) — *[assistance divine](./Assistance divine.md)*, *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[saignement](./Saignement.md)* (DD 11)}
-{s:BDTexte|**D** sort de domaine ; **Domaines **[Duperie](./Domaine de la Duperie.md), [Mal](./Domaine du Mal.md)}
+{s:BDTexte|**Sorts de prêtre préparés** ([[NLS]] 3 ; [[concentration]] +4)}
+{s:BDSorts|2e — *[[force de taureau]]*, *[[invisibilité]]*}
+{s:BDSorts|1er — *[[arme magique]]*, *[[imprécation]]* (DD 12), *[[ordre assassin]]* (DD 12), *[[protection contre le Bien]]*}
+{s:BDSorts|0 (à volonté) — *[[assistance divine]]*, *[[détection de la magie]]*, *[[lecture de la magie]]*, *[[saignement]]* (DD 11)}
+{s:BDTexte|**D** sort de domaine ; **Domaines **[[Domaine de la Duperie|Duperie]], [[Domaine du Mal|Mal]]}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|**Avant le combat.** Le mystique lance *[force de taureau](./Force de taureau.md)* sur un allié et *[arme magique](./Arme magique.md)* sur l’arme d’un allié.}
-{s:BDTexte|**Pendant le combat.** Après avoir lancé *[invisibilité](./Invisibilité.md)* sur lui-même, le mystique se trouve une position avantageuse pendant que ses alliés combattent l’ennemi. En général, il lance d’abord *[imprécation](./Imprécation.md)*, suivi d’*[ordre assassin](./Ordre assassin.md)*, sur l’adversaire qui lui paraît le plus fort.}
+{s:BDTexte|**Avant le combat.** Le mystique lance *[[force de taureau]]* sur un allié et *[[arme magique]]* sur l’arme d’un allié.}
+{s:BDTexte|**Pendant le combat.** Après avoir lancé *[[invisibilité]]* sur lui-même, le mystique se trouve une position avantageuse pendant que ses alliés combattent l’ennemi. En général, il lance d’abord *[[imprécation]]*, suivi d’*[[ordre assassin]]*, sur l’adversaire qui lui paraît le plus fort.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 8, **Con** 12, **Int** 8, **Sag** 13, **Cha** 12}
 {s:BDTexte|**BBA** +2, **BMO** +5, **DMD** 14}
-{s:BDTexte|**Dons** [Magie de guerre](./Magie de guerre.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (religion) +4, [Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +2}
+{s:BDTexte|**Dons** [[Magie de guerre]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Connaissances]] (religion) +4, [[Discrétion]] +4, [[Perception]] +2}
 {s:BDTexte|**Langues** commun, orque}
 {s:BDTexte|**Particularités** armes familières}
-{s:BDTexte|**Équipement de combat** *[parchemin](./Parchemins magiques.md) de [cacophonie](./Cacophonie.md)*, *[parchemin](./Parchemins magiques.md) de [convocation de monstres II](./Convocation de monstres II.md)* ; **Équipement divers** [cuirasse](./cuirasse (armure).md), [hache de guerre](./Hache darmes (arme).md), [javelines](./javeline (arme).md) (4), *[cape de résistance +1](./Cape de résistance.md)*, [symbole sacré en bois](./Symbole sacré (objet).md), 135 po}
+{s:BDTexte|**Équipement de combat** *[[parchemins magiques|parchemin]] de [[cacophonie]]*, *[[parchemins magiques|parchemin]] de [[convocation de monstres II]]* ; **Équipement divers** [[cuirasse (armure)|cuirasse]], [[hache darmes (arme)|hache de guerre]], [[javeline (arme)|javelines]] (4), *[[cape de résistance|cape de résistance +1]]*, [[Symbole sacré (objet)|symbole sacré en bois]], 135 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -52,29 +52,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Orque](./Orque.md) || 1/3
+| [[Orque]] || 1/3
 |-
-| [Sergent orque](./Sergent orque.md) || 2
+| [[Sergent orque]] || 2
 |-
-| [Mystique orque](./Mystique orque.md) || 2
+| [[Mystique orque]] || 2
 |-
-| [Brigand orque](./Brigand orque.md) || 3
+| [[Brigand orque]] || 3
 |-
-| [Tambour de guerre orque](./Tambour de guerre orque.md) || 3
+| [[Tambour de guerre orque]] || 3
 |-
-| [Lieutenant orque](./Lieutenant orque.md) || 4
+| [[Lieutenant orque]] || 4
 |-
-| [Éclaireur orque](./Éclaireur orque.md) || 5
+| [[Éclaireur orque]] || 5
 |-
-| [Chevaucheur de gorthek](./Chevaucheur de gorthek.md) || 6
+| [[Chevaucheur de gorthek]] || 6
 |-
-| [Seigneur de guerre orque (barbare)](./Seigneur de guerre orque (barbare).md) || 6
+| [[Seigneur de guerre orque (barbare)]] || 6
 |-
-| [Gorthek](./Gorthek.md) || 7
+| [[Gorthek]] || 7
 |-
-| [Sorcier docteur orque](./Sorcier docteur orque.md) || 8
+| [[Sorcier docteur orque]] || 8
 |-
-| [Seigneur de guerre orque (guerrier)](./Seigneur de guerre orque (guerrier).md) || 9
+| [[Seigneur de guerre orque (guerrier)]] || 9
 |}
 </div> Redoutés pour leur capacité à communier avec les
 violentes divinités du panthéon des orques, les mystiques

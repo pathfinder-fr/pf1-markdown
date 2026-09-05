@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Jestak
 ---
 
->>> [Jestak](./Jestak.md)
+>>> [[Jestak]]

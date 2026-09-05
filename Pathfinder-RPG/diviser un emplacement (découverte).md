@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Découvertes arcaniques#DIVISERUNEMPLACEMENT
 ---
 
->>> [Découvertes arcaniques#DIVISERUNEMPLACEMENT](./Découvertes arcaniques.md#DIVISERUNEMPLACEMENT)
+>>> [[Découvertes arcaniques#DIVISERUNEMPLACEMENT]]

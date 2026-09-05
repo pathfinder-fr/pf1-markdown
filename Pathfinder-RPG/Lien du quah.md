@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISR}*Votre lien avec votre totem spirituel se renforce au contact d'autres membres du même quah.*
 
-**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Totem spirituel](./Totem spirituel.md), [humain](./Humain.md) (shoanti)
+**Conditions.** [[Totem spirituel]], [[humain]] (shoanti)
 
-**Avantages.** Si au moins un allié shoanti du même quah que le personnage et qui possède ce don se trouve dans un rayon de 9 mètres, le personnage double les avantages de son don [Totem spirituel](./Totem spirituel.md).
+**Avantages.** Si au moins un allié shoanti du même quah que le personnage et qui possède ce don se trouve dans un rayon de 9 mètres, le personnage double les avantages de son don [[Totem spirituel]].

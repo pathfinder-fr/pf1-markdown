@@ -13,24 +13,24 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Montagnes|Froid}
 {s:BDTexte|*Source : Bestiaire* p.288}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([froid](./sous-type froid.md)) de taille G, N}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type froid|froid]]) de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 10, pris au dépourvu 16 (Dex +1, naturelle +7, taille -1)}
 {s:BDTexte|**pv** 45 (6d10+12)}
 {s:BDTexte|**Réf** +6, **Vig** +6, **Vol** +6}
 {s:BDTexte|**Immunités** froid }
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérabilité]] au feu}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12m(8 c), escalade 9m(6 c)}
 {s:BDTexte|**Corps à corps** 2 griffes +9 (1d6+4 et 1d6 froid)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration.md) (2 griffes, 1d6+6 et 1d6 froid), regard effrayant}
+{s:BDTexte|**Attaques spéciales** [[éventration]] (2 griffes, 1d6+6 et 1d6 froid), regard effrayant}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 12, **Con** 15, **Int** 9, **Sag** 12, **Cha** 10}
 {s:BDTexte|**BBA** +6, **BMO** +11, **DMD** 22}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +1 (+9 dans la neige), [Escalade](./Escalade.md) +21, [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +10 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 (+12 dans la neige)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +1 (+9 dans la neige), [[Escalade]] +21, [[Intimidation]] +9, [[Perception]] +10 ; **Modificateurs raciaux** [[Discrétion]] +4 (+12 dans la neige)}
 {s:BDTexte|**Langues** aklo}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes froides}
@@ -38,7 +38,7 @@ Categories:
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Froid (Sur)** Le corps d'un yéti produit un froid si intense que toutes les créatures qui le touchent à l'aide d'une attaque naturelle ou en frappant à mains nues, ainsi que toutes les créatures que le yéti touche lors d'une attaque de griffe ou d'éventration, subissent 1d6 points de dégâts de froid.}
-{s:BDTexte|**Regard terrifiant (Sur)** Les créatures situées dans un rayon de 9 m (6 {s:c}) qui croisent le regard du yéti doivent réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 13 pour ne pas être [paralysées](./Paralysé.md) par la peur pendant 1 round. Il s'agit d'un [effet mental](./effet mental.md) [de peur](./peur.md) et de paralysie. Les créatures qui réussissent ce [jet de sauvegarde](./jet de sauvegarde.md) ne peuvent plus être affectées par le regard du yéti en question pendant 1 jour. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend du [Charisme](./Charisme.md).}
+{s:BDTexte|**Regard terrifiant (Sur)** Les créatures situées dans un rayon de 9 m (6 {s:c}) qui croisent le regard du yéti doivent réussir un jet de [[Volonté]] de [[DD]] 13 pour ne pas être [[paralysé|paralysées]] par la peur pendant 1 round. Il s'agit d'un [[effet mental]] [[peur|de peur]] et de paralysie. Les créatures qui réussissent ce [[jet de sauvegarde]] ne peuvent plus être affectées par le regard du yéti en question pendant 1 jour. Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].}
 </div>
 
 

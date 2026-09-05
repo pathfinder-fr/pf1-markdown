@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#COGNATOGENE
 ---
 
->>> [découvertes#COGNATOGENE](./découvertes.md#COGNATOGENE)
+>>> [[découvertes#COGNATOGENE]]

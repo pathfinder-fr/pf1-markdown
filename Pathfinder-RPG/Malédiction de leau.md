@@ -8,18 +8,18 @@ Categories:
 - Sort prêtre 1
 ---
 
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[mal](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 1, [Inq](./Inquisiteur.md) 1, [Prê](./Prêtre.md) 1  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|mal]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 1, [[Inquisiteur|Inq]] 1, [[Prêtre|Prê]] 1  
 
 **Temps d'incantation** 1 minute  
 
-**Composantes** [V, G, M](./composantes.md) (2,5 kg de poudre d’argent (valeur 25 po))  
+**Composantes** [[composantes|V, G, M]] (2,5 kg de poudre d’argent (valeur 25 po))  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** flasque d’eau touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
-Ce sort permet d’infuser assez d’énergie négative à une flasque d’eau (un demi-litre) pour la transformer en eau maudite. Sur les [Extérieurs](./type Extérieur.md) d’[alignement](./Alignement.md) Bon, ce liquide a le même effet que l’[eau bénite](./Eau bénite (objet).md) sur les [morts-vivants](./type Mort-vivant.md) et les [Extérieurs](./type Extérieur.md) d’[alignement](./Alignement.md) Mauvais.
+Ce sort permet d’infuser assez d’énergie négative à une flasque d’eau (un demi-litre) pour la transformer en eau maudite. Sur les [[type extérieur|Extérieurs]] d’[[alignement]] Bon, ce liquide a le même effet que l’[[Eau bénite (objet)|eau bénite]] sur les [[type mort-vivant|morts-vivants]] et les [[type extérieur|Extérieurs]] d’[[alignement]] Mauvais.

@@ -11,19 +11,19 @@ Categories:
 - Sort sorcière 2
 ---
 
-{s:MCA}**École** [Invocation](./Invocation.md) ([création](./../Création.md)) <nowiki>[</nowiki>[poison](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 2, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2  
+{s:MCA}**École** [[Invocation]] ([[création]]) <nowiki>[</nowiki>[[registre|poison]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (des champignons rares d’une valeur de 5 po)  
+**Composantes** [[composantes|V, G, M]] (des champignons rares d’une valeur de 5 po)  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c}) + 2{s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c}) + 2{s:c}/[[niveau]])  
 
 **Effet** brume dans une étendue de 6 m de rayon et de 6 m de hauteur  
 
 **Durée** 1 round/niveau  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir texte) ; **Résistance à la magie** non
 
-Le personnage crée un banc de brume similaire à ce que ferait une *[brume de dissimulation](./Brume de dissimulation.md)*, à la seule différence que ses vapeurs sont enivrantes. Les créatures vivantes présentes dans le nuage sont [Fasciné|fascinées].
+Le personnage crée un banc de brume similaire à ce que ferait une *[[brume de dissimulation]]*, à la seule différence que ses vapeurs sont enivrantes. Les créatures vivantes présentes dans le nuage sont [[Fasciné|fascinées]].
 Cet état dure tant que les créatures sont dans le nuage et pendant 1d4+1 rounds après qu’elles en sont sorties. Toute créature qui réussit son jet de sauvegarde mais reste dans le nuage doit continuer de faire un jet de sauvegarde à chaque round lors du tour du personnage.

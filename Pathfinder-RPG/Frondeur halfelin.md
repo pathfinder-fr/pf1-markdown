@@ -10,8 +10,8 @@ Categories:
 
 {s:MR}*Le halfelin a perfectionné son talent racial pour l’art de la fronde.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Halfelin](./Halfelin.md)
+**Conditions.** [[Halfelin]]
 
-**Avantage.** Le halfelin gagne un bonus racial de +1 à ses [jets d’attaque](./jet dattaque.md) lorsqu’il utilise une [fronde](./fronde (arme).md).
+**Avantage.** Le halfelin gagne un bonus racial de +1 à ses [[jet dattaque|jets d’attaque]] lorsqu’il utilise une [[fronde (arme)|fronde]].

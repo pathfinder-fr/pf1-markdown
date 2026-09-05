@@ -13,7 +13,7 @@ La publication de la campagne de l’Etoile brisée (Shattered Star Adventure Pa
 <div class="fondclair">
 <img src="http://www.pathfinder-fr.org/wiki/public/upload/Logos/AP1_clair.jpg" style="float:left;margin:8px;width:100px"/>
 <p class="descriptionnoir" style="padding: 8px">Un raid de gobelin sur le petit village côtier de Pointesable présage un danger de plus en plus grand dans les plaines de la Varisie. Un mal ancien se réveille dans les montagnes lointaines, éveille la folie des ogres sanguinaires, des géants de pierre et des créatures alimentées par la puissance du péché. Un conflit épique destiné à créer une nouvelle génération de héros.</p>
-<p>**[Présentation](./Présentation AP1.md)** — **[Aides de jeu](./Aides de jeu AP1.md)**</p>
+<p>**[[Présentation AP1|Présentation]]** — **[[Aides de jeu AP1|Aides de jeu]]**</p>
 <br style="clear:left" />
 </div>
 
@@ -23,7 +23,7 @@ La publication de la campagne de l’Etoile brisée (Shattered Star Adventure Pa
 <div class="fondclair">
 <img src="http://www.pathfinder-fr.org/wiki/public/upload/Logos/AP9.jpg" style="float:left;margin:8px;width:100px"/>
 <p class="descriptionnoir">Quand un secret vieux de plusieurs décennies est révélé, une propriétaire de taverne qui a lié amitié avec les PJ se rend compte que, par sa naissance, elle possède le droit de diriger l'un des anciens Empires draconiques du Tian Xia, l'empire de Minkai. Mais l'actuel dirigeant de cet empire, le mystérieux et cruel Régent de Jade n'a pas du tout l'intention d'abandonner le trône. Afin de sauver le Minkai d'un futur tyran, les PJ devront escorter leur amie jusqu'au Tian Xia, braver les horreurs de la Couronne du Monde puis l'aider à gagner la confiance d'une nation au bord de l'anarchie.</p>
-<p>**[Présentation](./Présentation AP9.md)** — **[Aides de jeu](./Aides de jeu AP9.md)**</p>
+<p>**[[Présentation AP9|Présentation]]** — **[[Aides de jeu AP9|Aides de jeu]]**</p>
 <br style="clear:left" />
 </div>
 
@@ -33,7 +33,7 @@ La publication de la campagne de l’Etoile brisée (Shattered Star Adventure Pa
 <div class="fondclair">
 <img src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fLogos%2fAP10.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1" style="float:left;margin:8px;width:100px"/>
 <p class="descriptionnoir">Un groupe d'étrangers contraints à passer sur la planche s'empare d'un navire et plonge dans les complots et les manœuvres politiques des Entraves, un groupe d'îles de mauvaise réputation dirigées par des seigneurs pirates. Mais alors que ces jeunes moussaillons se font un nom, des pirates rivaux, des flottilles ennemies, des monstres marins de légende et le terrible Roi de l'Ouragan lui-même cherchent à les faire boire la tasse. Qui parviendra à survivre et à piller le butin ?</p>
-<p>**[Présentation](./Présentation AP10.md)** — **[Aides de jeu](./Aides de jeu AP10.md)**</p>
+<p>**[[Présentation AP10|Présentation]]** — **[[Aides de jeu AP10|Aides de jeu]]**</p>
 <br style="clear:left" />
 </div>
 
@@ -43,7 +43,7 @@ La publication de la campagne de l’Etoile brisée (Shattered Star Adventure Pa
 <div class="fondclair">
 <img src="http://www.pathfinder-fr.org/wiki/public/upload/Logos/AP11_clair.jpg" style="float:left;margin:8px;width:100px"/>
 <p class="descriptionnoir">L'étoile à sept branches connue sous le nom de *Sihédron* est un symbole bien connu des érudits étudiant l'histoire de l'ancien empire de Thassilon. Mais rares sont ceux qui savent que le Sihédron original était en fait un puissant artéfact ayant appartenu à l'empereur Xin en personne. Quand l'Empereur a été trahi par ses Seigneurs des Runes, ces derniers ont brisé le Sihédron et caché les fragments dans des places-fortes réparties dans toute la région. C'est là que ces fragments sont restés cachés pendant plus de dix mille années. Mais, aujourd'hui, ces fragments refont surface, et il incombe à de nouveaux héros de la Varisie de rassembler les éclats de l'Étoile brisée s'ils espèrent pouvoir protéger la Varisie contre une terrible menace surgissant d'un passé lointain.</p>
-<p>**[Présentation](./Présentation AP11.md)** — **[Aides de jeu](./Aides-de-jeu-AP11.md)**</p>
+<p>**[[Présentation AP11|Présentation]]** — **[[Aides de jeu AP11|Aides de jeu]]**</p>
 <br style="clear:left" />
 </div>
 
@@ -52,6 +52,6 @@ La publication de la campagne de l’Etoile brisée (Shattered Star Adventure Pa
 <div class="fondclair">
 <img src="http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fLogos%2fAP12.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1" style="float:left;margin:8px;width:100px"/>
 <p class="descriptionnoir">Un siècle s'est écoulé depuis la dernière visite de Baya Yaga sur le monde, et l'heure de son retour approche. Mais quand elle n'apparaît pas dans le royaume glacé d'Irrisen pour introduire sa nouvelle dirigeante, des poches d'hiver commencent à se développer dans toute la région de la mer Intérieure. Après 1400 ans d'un perpétuel hiver, la malédiction  de l'Irrisen se répand ! Quels sont les liens qui existent entres ces blizzards, ces étranges paysages d'hiver et l'Irrisen, et y-a-t-il un quelconque fond de vérité dans les rumeurs grandissantes qui prétendent que la reine-sorcière Elvanna a pris le contrôle du royaume ? Est-ce que ses plans pour la mer Intérieure peuvent être contrecarrés, ou est-ce que le règne de l'hiver engloutira le monde ?</p>
-<p>**[Présentation](./Présentation AP12.md)** — **[Aides de jeu](./Aides de jeu AP12.md)**</p>
+<p>**[[Présentation AP12|Présentation]]** — **[[Aides de jeu AP12|Aides de jeu]]**</p>
 <br style="clear:left" />
 </div>

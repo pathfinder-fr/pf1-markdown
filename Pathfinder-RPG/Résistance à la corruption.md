@@ -10,14 +10,14 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}**École** [Abjuration](./Abjuration.md) <nowiki>[</nowiki>[chaos, mal, bien, loi](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 2, [Inq](./Inquisiteur.md) 2, [Pal](./Paladin.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+{s:APG}**École** [[Abjuration]] <nowiki>[</nowiki>[[registre|chaos, mal, bien, loi]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, FD]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créature touchée
-**Durée** 10 min/[niveau](./niveau.md)
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** 10 min/[[niveau]]
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Le personnage accorde à la créature touchée une protection limitée contre les effets magiques qui infligent des dégâts basés sur son [alignement](./Alignement.md) comme *[châtiment sacré](./Châtiment sacré.md)*, *[courroux de l'ordre](./Courroux de lordre.md)*, le [châtiment du mal](./Paladin.md#CHATIMENTDUMAL) d'un [paladin](./Paladin.md) ou une arme *[impie](./impie (propriété).md)*. Le personnage choisi un type d'[alignement](./Alignement.md) : Chaotique, Mauvais, Bon ou Loyal. Le sujet subit 5 points de dégâts de moins de la part des effets qui blessent spécifiquement les créatures de cet [alignement](./Alignement.md). La valeur de protection passe à 10 au [niveau](./niveau.md) 7 et à 15 au [niveau](./niveau.md) 11. Le sort protège également l'équipement de la cible.
+Le personnage accorde à la créature touchée une protection limitée contre les effets magiques qui infligent des dégâts basés sur son [[alignement]] comme *[[châtiment sacré]]*, *[[courroux de lordre|courroux de l'ordre]]*, le [[paladin#CHATIMENTDUMAL|châtiment du mal]] d'un [[paladin]] ou une arme *[[impie (propriété)|impie]]*. Le personnage choisi un type d'[[alignement]] : Chaotique, Mauvais, Bon ou Loyal. Le sujet subit 5 points de dégâts de moins de la part des effets qui blessent spécifiquement les créatures de cet [[alignement]]. La valeur de protection passe à 10 au [[niveau]] 7 et à 15 au [[niveau]] 11. Le sort protège également l'équipement de la cible.
 
-La *résistance à la corruption* protège contre les sorts, les pouvoirs magiques et les pouvoirs spéciaux, pas contre les attaques physiques. Elle protège uniquement contre les dégâts. Le sujet souffre toujours des effets secondaires de ces attaques. Quand le personnage utilise ce sort pour protéger un [alignement](./Alignement.md), la cible gagne le [registre](./Registre.md) de cet [alignement](./Alignement.md).
+La *résistance à la corruption* protège contre les sorts, les pouvoirs magiques et les pouvoirs spéciaux, pas contre les attaques physiques. Elle protège uniquement contre les dégâts. Le sujet souffre toujours des effets secondaires de ces attaques. Quand le personnage utilise ce sort pour protéger un [[alignement]], la cible gagne le [[registre]] de cet [[alignement]].

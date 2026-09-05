@@ -26,18 +26,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Apal](./Antipaladin.md) 1, [Bard](./Barde.md) 0, [Cham](./Chaman.md) 0, [Con](./Conjurateur.md) 0, [ConU](./conjurateur unchained.md) 0, [Dru](./Druide.md) 0, [Hyp](./Hypnotiseur.md) 0, [Inq](./Inquisiteur.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Magus](./Magus.md) 0, [Méd](./Médium.md) 0, [Occ](./Occultiste.md) 0, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 0, [Psy](./Psychiste.md) 0, [Rôd](./Rôdeur.md) 1, [Sor](./Sorcière.md) 0, [Spi](./Spirite.md) 0  
+**École** [[école divination|Divination]] ; **Niveau** [[Antipaladin|Apal]] 1, [[Barde|Bard]] 0, [[Chaman|Cham]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Druide|Dru]] 0, [[Hypnotiseur|Hyp]] 0, [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 0, [[Psychiste|Psy]] 0, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (un cristal translucide ou un prisme minéral)  
+**Composantes** [[composantes|V, G, F]] (un cristal translucide ou un prisme minéral)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** 10 minutes/[niveau](./niveau.md)
+**Durée** 10 minutes/[[niveau]]
 
-Grâce à ce sort, le personnage peut lire les inscriptions magiques normalement incompréhensibles (celles des [parchemins](./Parchemins magiques.md), livres magiques, [armes](./Armes magiques.md), etc.). En principe, déchiffrer ce texte ne déclenche pas la magie qu’il contient, sauf s’il s’agit d’un [parchemin maudit](./Objets maudits.md). Dès lors que le sort est lancé et le texte compris, le personnage est capable de le lire aussi souvent qu’il le souhaite. La vitesse de lecture du sort est d’une page (soit deux cent cinquante mots) par minute. *Lecture de la magie* permet aussi d’identifier un *[glyphe de garde](./Glyphe de garde.md)* grâce à un test d’[Art de la magie](./Art de la magie.md) ([DD](./DD.md) 13), un *[glyphe de garde suprême](./Glyphe de garde suprême.md)* ([Art de la magie](./Art de la magie.md), [DD](./DD.md) 16) et un *[symbole](./symbole.md)* ([Art de la magie](./Art de la magie.md), mais contre un [DD](./DD.md) égal à 10 + niveau de sort).
+Grâce à ce sort, le personnage peut lire les inscriptions magiques normalement incompréhensibles (celles des [[parchemins magiques|parchemins]], livres magiques, [[armes magiques|armes]], etc.). En principe, déchiffrer ce texte ne déclenche pas la magie qu’il contient, sauf s’il s’agit d’un [[objets maudits|parchemin maudit]]. Dès lors que le sort est lancé et le texte compris, le personnage est capable de le lire aussi souvent qu’il le souhaite. La vitesse de lecture du sort est d’une page (soit deux cent cinquante mots) par minute. *Lecture de la magie* permet aussi d’identifier un *[[glyphe de garde]]* grâce à un test d’[[Art de la magie]] ([[DD]] 13), un *[[glyphe de garde suprême]]* ([[Art de la magie]], [[DD]] 16) et un *[[symbole]]* ([[Art de la magie]], mais contre un [[DD]] égal à 10 + niveau de sort).
 
-On peut user de *[permanence](./Permanence.md)* sur un sort de *lecture de la magie*.
+On peut user de *[[permanence]]* sur un sort de *lecture de la magie*.

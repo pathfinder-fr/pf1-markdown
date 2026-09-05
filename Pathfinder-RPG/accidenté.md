@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Véhicules en combat (véhicules)#CONDUITEENDOMAGER
 ---
 
->>> [Véhicules en combat (véhicules)#CONDUITEENDOMAGER](./Véhicules en combat (véhicules).md#CONDUITEENDOMAGER)
+>>> [[Véhicules en combat (véhicules)#CONDUITEENDOMAGER]]

@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Il indique à tous les marins venant du sud leur arrivé en [Varisie](./Varisie.md). Ce phare, de soixante mètres de haut, représente une femme sensuelle vêtue d’une longue robe. Elle tient dans la main droite un bâton qui émet une lumière à intervalles réguliers. Au pied de celui-ci, se trouve une énorme porte de pierre que personne n’a jamais réussi à ouvrir. Aussi, le phare et sa dame gardent tous leurs mystères.
+Il indique à tous les marins venant du sud leur arrivé en [[Varisie]]. Ce phare, de soixante mètres de haut, représente une femme sensuelle vêtue d’une longue robe. Elle tient dans la main droite un bâton qui émet une lumière à intervalles réguliers. Au pied de celui-ci, se trouve une énorme porte de pierre que personne n’a jamais réussi à ouvrir. Aussi, le phare et sa dame gardent tous leurs mystères.

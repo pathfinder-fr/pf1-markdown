@@ -18,34 +18,34 @@ Categories:
 | CLASS="gauche" | Spécial
 |-
 | 1 || +0 || +1 || +0 || +0
-| CLASS="gauche" | [Maître explorateur](./Éclaireur Explorateur.md#MAÎTREEXPLORATEUR), [savoir bardique](./Éclaireur Explorateur.md#SAVOIRBAARDIQUE)
+| CLASS="gauche" | [[Éclaireur Explorateur#MAÎTREEXPLORATEUR|Maître explorateur]], [[Éclaireur Explorateur#SAVOIRBAARDIQUE|savoir bardique]]
 |-
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Pied sûr](./Éclaireur Explorateur.md#PIEDSÛR), [sens des pièges](./Éclaireur Explorateur.md#SENSDESPIÈGES) +1
+| CLASS="gauche" | [[Éclaireur Explorateur#PIEDSÛR|Pied sûr]], [[Éclaireur Explorateur#SENSDESPIÈGES|sens des pièges]] +1
 |-
 | 3 || +2 || +2 || +1 || +1
-| CLASS="gauche" | [Brise-garde](./Éclaireur Explorateur.md#BRISEGARDE), [évasion palpitante](./Éclaireur Explorateur.md#ÉVASIONPALPITANTE) 1/jour
+| CLASS="gauche" | [[Éclaireur Explorateur#BRISEGARDE|Brise-garde]], [[Éclaireur Explorateur#ÉVASIONPALPITANTE|évasion palpitante]] 1/jour
 |-
 | 4 || +3 || +2 || +1 || +1
-| CLASS="gauche" | [Combattant vigilant](./Éclaireur Explorateur.md#COMBATTANTVIGILANT), [désamorçage ingénieux](./Éclaireur Explorateur.md#DÉSAMORCAGEINGÉNIEUX)
+| CLASS="gauche" | [[Éclaireur Explorateur#COMBATTANTVIGILANT|Combattant vigilant]], [[Éclaireur Explorateur#DÉSAMORCAGEINGÉNIEUX|désamorçage ingénieux]]
 |-
 | 5 || +3 || +3 || +2 || +2
-| CLASS="gauche" | [Laissé pour mort](./Éclaireur Explorateur.md#LAISSÉPOURMORT), [sens des pièges](./Éclaireur Explorateur.md#SENSDESPIÈGES) +2
+| CLASS="gauche" | [[Éclaireur Explorateur#LAISSÉPOURMORT|Laissé pour mort]], [[Éclaireur Explorateur#SENSDESPIÈGES|sens des pièges]] +2
 |-
 | 6 || +4 || +3 || +2 || +2
-| CLASS="gauche" | [Âme fortunée](./Éclaireur Explorateur.md#ÄMEFORTUNÉE) 1/jour
+| CLASS="gauche" | [[Éclaireur Explorateur#ÄMEFORTUNÉE|Âme fortunée]] 1/jour
 |-
 | 7 || +5 || +4 || +2 || +2
-| CLASS="gauche" | [Évasion palpitante](./Éclaireur Explorateur.md#ÉVASIONPALPITANTE) 2/jour
+| CLASS="gauche" | [[Éclaireur Explorateur#ÉVASIONPALPITANTE|Évasion palpitante]] 2/jour
 |-
 | 8 || +6 || +4 || +3 || +3
-| CLASS="gauche" | [Sens des pièges](./Éclaireur Explorateur.md#SENSDESPIÈGES) +3
+| CLASS="gauche" | [[Éclaireur Explorateur#SENSDESPIÈGES|Sens des pièges]] +3
 |-
 | 9 || +6 || +5 || +3 || +3
-| CLASS="gauche" | [Évasion palpitante](./Éclaireur Explorateur.md#ÉVASIONPALPITANTE) 3/jour, [vision lucide](./Éclaireur Explorateur.md#VISIONLUCIDE) 1/jour
+| CLASS="gauche" | [[Éclaireur Explorateur#ÉVASIONPALPITANTE|Évasion palpitante]] 3/jour, [[Éclaireur Explorateur#VISIONLUCIDE|vision lucide]] 1/jour
 |-
 | 10 || +7 || +5 || +3 || +3
-| CLASS="gauche" | [Âme fortunée](./Éclaireur Explorateur.md#ÄMEFORTUNÉE) 2/jour, [In extremis](./Éclaireur Explorateur.md#INEXTREMIS)
+| CLASS="gauche" | [[Éclaireur Explorateur#ÄMEFORTUNÉE|Âme fortunée]] 2/jour, [[Éclaireur Explorateur#INEXTREMIS|In extremis]]
 |}
 </center>
 
@@ -54,14 +54,14 @@ Categories:
 ### Conditions
 Pour devenir un Explorateur, un personnage doit satisfaire aux conditions suivantes.
 
-**Compétences.** 5 rangs en [Acrobaties](./Acrobaties.md), 4 rangs en [Connaissances](./Connaissances.md) (histoire), 5 rangs en [Perception](./Perception.md), 4 rangs en [Sabotage](./Sabotage.md).
+**Compétences.** 5 rangs en [[Acrobaties]], 4 rangs en [[Connaissances]] (histoire), 5 rangs en [[Perception]], 4 rangs en [[Sabotage]].
 
 **Spécial.** Le personnage doit avoir découvert un objet de valeur historique dans une ruine antique ou un lieu ancien semblable.
 
 ### Compétences de classe
-Voici les compétences de classe de l’Explorateur : [Acrobaties](./Acrobaties.md), [Bluff](./Bluff.md), [Connaissances](./Connaissances.md) (toutes), [Diplomatie](./Diplomatie.md), [Discrétion](./Discrétion.md), [Escalade](./Escalade.md), [Escamotage](./Escamotage.md),[Estimation](./Estimation.md), [Évasion](./Évasion.md), [Linguistique](./Linguistique.md), [Natation](./Natation.md), [Perception](./Perception.md), [Psychologie](./Psychologie.md), [Sabotage](./Sabotage.md), [Survie](./Survie.md), [Utilisation d’objets magiques](./UOM.md)
+Voici les compétences de classe de l’Explorateur : [[Acrobaties]], [[Bluff]], [[Connaissances]] (toutes), [[Diplomatie]], [[Discrétion]], [[Escalade]], [[Escamotage]],[[Estimation]], [[Évasion]], [[Linguistique]], [[Natation]], [[Perception]], [[Psychologie]], [[Sabotage]], [[Survie]], [[UOM|Utilisation d’objets magiques]]
 
-**Points de compétence par niveau.** 8 + bonus d’[Intelligence](./Intelligence.md)
+**Points de compétence par niveau.** 8 + bonus d’[[Intelligence]]
 
 
 ### Caractéristiques de la classe
@@ -72,48 +72,48 @@ Un Explorateur ne gagne aucune compétence dans le maniement des armes ni dans l
 
 {s:Reference|SAVOIRBARDIQUE}
 #### Savoir bardique (Ext)
-Cette capacité est identique à la [capacité](./Barde.md#SAVOIRBARDIQUE) de [barde](./Barde.md) du même nom. Les niveaux de cette classe se cumulent avec les niveaux de n’importe quelle autre classe qui accorde savoir bardique ou une capacité similaire.
+Cette capacité est identique à la [[Barde#SAVOIRBARDIQUE|capacité]] de [[barde]] du même nom. Les niveaux de cette classe se cumulent avec les niveaux de n’importe quelle autre classe qui accorde savoir bardique ou une capacité similaire.
 
 {s:Reference|MAÎTREEXPLORATEUR}
 #### Maître explorateur (Ext)
-Un Explorateur ajoute la moitié de son niveau de classe (minimum 1) comme bonus à tous ses tests de [Sabotage](./Sabotage.md) et de [Perception](./Perception.md). Un Explorateur peut désamorcer des pièges complexes et élaborés en la moitié du temps normal (minimum 1 round) et ouvrir un verrou par une [action simple](./Action simple.md) au lieu d’une [action complexe](./Action complexe.md). Il peut toujours [faire 10](./faire 10.md) sur les tests de [Sabotage](./Sabotage.md) et de [Discrétion](./Discrétion.md), même s’il est distrait ou en danger. Un Explorateur peut utiliser [Sabotage](./Sabotage.md) pour désarmer des pièges magiques.
+Un Explorateur ajoute la moitié de son niveau de classe (minimum 1) comme bonus à tous ses tests de [[Sabotage]] et de [[Perception]]. Un Explorateur peut désamorcer des pièges complexes et élaborés en la moitié du temps normal (minimum 1 round) et ouvrir un verrou par une [[action simple]] au lieu d’une [[action complexe]]. Il peut toujours [[faire 10]] sur les tests de [[Sabotage]] et de [[Discrétion]], même s’il est distrait ou en danger. Un Explorateur peut utiliser [[Sabotage]] pour désarmer des pièges magiques.
 
 {s:Reference|PIEDSÛR}
 #### Pied sûr (Ext)
-À partir du niveau 2, un Explorateur peut évoluer en [terrain difficile](./terrain difficile.md) (tel que collines, montagnes, débris, ruines et assimilés) à sa [vitesse normale](./VD.md). Une zone qui a été magiquement manipulée pour gêner les déplacements l’affecte toujours normalement.
+À partir du niveau 2, un Explorateur peut évoluer en [[terrain difficile]] (tel que collines, montagnes, débris, ruines et assimilés) à sa [[VD|vitesse normale]]. Une zone qui a été magiquement manipulée pour gêner les déplacements l’affecte toujours normalement.
 
 {s:Reference|SENSDESPIÈGES}
 #### Sens des Pièges (Ext)
-Cette capacité est identique à la [capacité](./Roublard.md#SENSDESPIEGES) de classe de [roublard](./Roublard.md), et se cumule avec elle sauf que l'Explorateur l'obtient au niveau 2 et qu'elle augmente ensuite seulement tous les 3 niveaux.
+Cette capacité est identique à la [[Roublard#SENSDESPIEGES|capacité]] de classe de [[roublard]], et se cumule avec elle sauf que l'Explorateur l'obtient au niveau 2 et qu'elle augmente ensuite seulement tous les 3 niveaux.
 
 {s:Reference|ÉVASIONPALPITANTE}
 #### Évasion palpitante (Ext)
-Au niveau 3, un explorateur peut tenter de retarder un piège immédiatement après l’avoir déclenché. Pour utiliser cette capacité, il fait un test de [Sabotage](./Sabotage.md) par une [action immédiate](./Action immédiate.md) contre le [DD](./DD.md) de Sabotage du piège ; s’il réussit, l’activation du piège est retardée jusqu’à la fin du prochain tour de l’Explorateur. Le personnage peut tenter ce jet même si le piège a été activé par un test raté de Sabotage et si ce n’est pas son tour. Il peut activer cette capacité une fois par jour au niveau 4, deux fois par jour au niveau 7, et trois fois par jour au niveau 9 ou au-delà.
+Au niveau 3, un explorateur peut tenter de retarder un piège immédiatement après l’avoir déclenché. Pour utiliser cette capacité, il fait un test de [[Sabotage]] par une [[action immédiate]] contre le [[DD]] de Sabotage du piège ; s’il réussit, l’activation du piège est retardée jusqu’à la fin du prochain tour de l’Explorateur. Le personnage peut tenter ce jet même si le piège a été activé par un test raté de Sabotage et si ce n’est pas son tour. Il peut activer cette capacité une fois par jour au niveau 4, deux fois par jour au niveau 7, et trois fois par jour au niveau 9 ou au-delà.
 
 {s:Reference|BRISEGARDE}
 #### Brise-garde (Ext)
-Au niveau 3, l’Explorateur s’est habitué aux étranges gardiens qui protègent souvent les tombes, ce qui lui permet de les attaquer plus efficacement. Il peut traiter son bonus de sens des pièges comme s’il s’agissait d’un bonus d’[ennemi juré](./ennemi juré.md) contre les créatures artificielles, les vases ou les morts-vivants ; ce bonus se cumule avec tous les bonus d’ennemi juré de rôdeur ou de capacités de classe similaires.
+Au niveau 3, l’Explorateur s’est habitué aux étranges gardiens qui protègent souvent les tombes, ce qui lui permet de les attaquer plus efficacement. Il peut traiter son bonus de sens des pièges comme s’il s’agissait d’un bonus d’[[ennemi juré]] contre les créatures artificielles, les vases ou les morts-vivants ; ce bonus se cumule avec tous les bonus d’ennemi juré de rôdeur ou de capacités de classe similaires.
 
 {s:Reference|DÉSAMORCAGEINGÉNIEUX}
 #### Désamorçage ingénieux (Ext)
-Les explorateurs sont adeptes de l’art d’utiliser ce qui leur tombe sous la main. Au niveau 4, le personnage ne souffre pas de malus s’il utilise sa compétence de [Sabotage](./Sabotage.md) sans outils.
+Les explorateurs sont adeptes de l’art d’utiliser ce qui leur tombe sous la main. Au niveau 4, le personnage ne souffre pas de malus s’il utilise sa compétence de [[Sabotage]] sans outils.
 
 {s:Reference|COMBATTANTVIGILANT}
 #### Combattant vigilant (Ext)
-À partir du niveau 4, un explorateur ajoute la moitié de son niveau de classe à ses tests d’[initiative](./initiative.md).
+À partir du niveau 4, un explorateur ajoute la moitié de son niveau de classe à ses tests d’[[initiative]].
 
 {s:Reference|LAISSÉPOURMORT}
 #### Laissé pour mort (Sur)
-Une fois par jour, un Explorateur de niveau 5 peut tromper la mort. S’il devait être tué par une attaque de mêlée, une attaque à distance ou un effet nécessitant un [jet de sauvegarde](./JDS.md), il est, au lieu de mourir, réduit à -1 [point de vie](./pv.md) et rendu [inconscient](./Inconscient.md), mais son état est stable. Le personnage semble mort (bien qu’un test de [Premiers secours](./Premiers secours.md) [DD](./DD.md) 25 ou des capacités qui permettent de sentir la vie telles que [perception de la mort](./Perception de la mort.md) révèlent qu’il ne l’est pas), mais après 1 minute, il regagne 1 pv et se réveille (à moins qu’il ne soit soigné plus tôt).
+Une fois par jour, un Explorateur de niveau 5 peut tromper la mort. S’il devait être tué par une attaque de mêlée, une attaque à distance ou un effet nécessitant un [[jds|jet de sauvegarde]], il est, au lieu de mourir, réduit à -1 [[pv|point de vie]] et rendu [[inconscient]], mais son état est stable. Le personnage semble mort (bien qu’un test de [[Premiers secours]] [[DD]] 25 ou des capacités qui permettent de sentir la vie telles que [[perception de la mort]] révèlent qu’il ne l’est pas), mais après 1 minute, il regagne 1 pv et se réveille (à moins qu’il ne soit soigné plus tôt).
 
 {s:Reference|ÂMEFORTUNÉE}
 #### Âme fortunée (Sur)
-Une fois par jour au niveau 6, l’Explorateur peut relancer n’importe quel [jet de sauvegarde](./JDS.md) qu’il vient de faire avant que les résultats du jet ne soient révélés. Il doit garder le résultat du nouveau jet, même s’il est plus mauvais que le jet initial. Il peut utiliser cette capacité deux fois par jour au niveau 10.
+Une fois par jour au niveau 6, l’Explorateur peut relancer n’importe quel [[jds|jet de sauvegarde]] qu’il vient de faire avant que les résultats du jet ne soient révélés. Il doit garder le résultat du nouveau jet, même s’il est plus mauvais que le jet initial. Il peut utiliser cette capacité deux fois par jour au niveau 10.
 
 {s:Reference|VISIONLUCIDE}
 #### Vision lucide (Mag)
-Au niveau 9, un Explorateur peut utiliser *[vision lucide](./Vision lucide.md)* une fois par jour. Son niveau de lanceur de sorts est égal à son niveau de classe.
+Au niveau 9, un Explorateur peut utiliser *[[vision lucide]]* une fois par jour. Son niveau de lanceur de sorts est égal à son niveau de classe.
 
 {s:Reference|INEXTREMIS}
 #### In extremis (Ext)
-Un Explorateur a le chic pour choisir le meilleur moment avant d’agir. Une fois par jour au niveau 10, il peut utiliser une [action immédiate](./Action immédiate.md) pour accomplir une action qui nécessiterait normalement une [action simple](./Action simple.md).
+Un Explorateur a le chic pour choisir le meilleur moment avant d’agir. Une fois par jour au niveau 10, il peut utiliser une [[action immédiate]] pour accomplir une action qui nécessiterait normalement une [[action simple]].

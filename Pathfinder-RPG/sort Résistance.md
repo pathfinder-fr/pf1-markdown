@@ -21,21 +21,21 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:Desambi|Résistance est également le nom d'une [capacité spéciale](./résistance.md).}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Bard](./Barde.md) 0, [Cham](./Chaman.md) 0, [Con](./Conjurateur.md) 0, [ConU](./conjurateur unchained.md) 0, [Dru](./Druide.md) 0, [Inq](./Inquisiteur.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Méd](./Médium.md) 0, [Occ](./Occultiste.md) 0, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 0, [Psy](./Psychiste.md) 0, [Sor](./Sorcière.md) 0, [Spi](./Spirite.md) 0  
+{s:Desambi|Résistance est également le nom d'une [[résistance|capacité spéciale]].}
+**École** [[Abjuration]] ; **Niveau** [[Barde|Bard]] 0, [[Chaman|Cham]] 0, [[Conjurateur|Con]] 0, [[Conjurateur unchained|ConU]] 0, [[Druide|Dru]] 0, [[Inquisiteur|Inq]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 0, [[Psychiste|Psy]] 0, [[Sorcière|Sor]] 0, [[Spirite|Spi]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (une cape miniature)  
+**Composantes** [[composantes|V, G, M/FD]] (une cape miniature)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
 **Durée** 1 minute  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Ce sort protège la cible en lui offrant temporairement un bonus de résistance de +1 aux [jets de sauvegarde](./jet de sauvegarde.md).
+Ce sort protège la cible en lui offrant temporairement un bonus de résistance de +1 aux [[jet de sauvegarde|jets de sauvegarde]].
 
-On peut user de *[permanence](./Permanence.md)* sur un sort de *résistance*.
+On peut user de *[[permanence]]* sur un sort de *résistance*.

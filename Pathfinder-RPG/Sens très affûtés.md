@@ -13,6 +13,6 @@ Categories:
 
 **Condition.** Trait racial Sens aiguisés.
 
-**Avantage.** Le personnage reçoit un bonus racial de +4 aux tests de [Perception](./Perception.md). Ce bonus remplace celui offert par le trait racial Sens aiguisés.
+**Avantage.** Le personnage reçoit un bonus racial de +4 aux tests de [[Perception]]. Ce bonus remplace celui offert par le trait racial Sens aiguisés.
 
 **Normal.** Le trait racial Sens aiguisés donne un bonus racial de +2 aux tests de Perception.

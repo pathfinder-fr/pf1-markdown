@@ -8,4 +8,4 @@ Categories:
 - Osirion
 ---
 
-Cette chaîne de montagne est située au [Garund](./Garund.md), à la frontière entre l'[Osirion](./Osirion.md) et le [Katapesh](./Katapesh.md).
+Cette chaîne de montagne est située au [[Garund]], à la frontière entre l'[[Osirion]] et le [[Katapesh]].

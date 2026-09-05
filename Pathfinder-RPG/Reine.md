@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Reine Formienne
 ---
 
->>> [Reine Formienne](./Reine formienne.md)
+>>> [[Reine Formienne]]

@@ -15,19 +15,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [invocation](./Invocation.md) ([création](./branche création.md)) <nowiki>[</nowiki>[maladie](./Registre.md)<nowiki>]</nowiki> ; **Niveau**  [Alch](./Alchimiste.md) 4, [Dru](./Druide.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Psy](./Psychiste.md) 4, [San](./Sanguin.md) 4, [Sor](./Sorcière.md) 4  
+**École** [[invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|maladie]]<nowiki>]</nowiki> ; **Niveau**  [[Alchimiste|Alch]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une goutte d’acide et une sphère de verre noire)  
+**Composantes** [[Composantes|V, G, M]] (une goutte d’acide et une sphère de verre noire)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature vivante touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-Le personnage génère une couche de vase autour de sa main. Quand il réussit une [attaque de contact](./attaque de contact.md) avec, la vase se décolle du personnage et reste attachée à la cible. Elle agit alors comme un limon vert et inflige 1d3 points d’affaiblissement de [Constitution](./Constitution.md) par [round](./round.md). Tout ce qui permet de se débarrasser d’un limon vert (en le grattant, en le gelant, en le brûlant, en le coupant, avec la lumière du soleil ou avec [guérison des maladies](./Guérison des maladies.md))
+Le personnage génère une couche de vase autour de sa main. Quand il réussit une [[attaque de contact]] avec, la vase se décolle du personnage et reste attachée à la cible. Elle agit alors comme un limon vert et inflige 1d3 points d’affaiblissement de [[Constitution]] par [[round]]. Tout ce qui permet de se débarrasser d’un limon vert (en le grattant, en le gelant, en le brûlant, en le coupant, avec la lumière du soleil ou avec [[guérison des maladies]])
 détruit la couche de vase. Si le limon tue une créature, il la dévore et meurt ensuite. Il ne peut pas se transférer sur une créature autre que sa cible originelle et meurt s’il en est séparé.

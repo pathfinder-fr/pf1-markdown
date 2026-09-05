@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les mouvements fluides et gracieux du personnage en matière d’attaque et de défense le rendent difficile à tuer.*
 
-**Condition.** [Défense à deux armes](./Défense à deux armes.md)
+**Condition.** [[Défense à deux armes]]
 
-**Avantage.** Lorsqu’il utilise [Défense à deux armes](./Défense à deux armes.md), le personnage ajoute au bonus de bouclier conféré par ce don le bonus d’altération d’arme le plus élevé (entre ses deux armes).
+**Avantage.** Lorsqu’il utilise [[Défense à deux armes]], le personnage ajoute au bonus de bouclier conféré par ce don le bonus d’altération d’arme le plus élevé (entre ses deux armes).

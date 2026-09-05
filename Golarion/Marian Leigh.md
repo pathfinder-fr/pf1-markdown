@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Marian Leigh est un petit village situé au sud du comté de [Canterwall](./Canterwall.md) en [Ustalav](./Ustalav.md), au pied des dangereuses [montagnes Affamées](./montagnes Affamées.md) du [Virlych](./Virlych.md).
+Marian Leigh est un petit village situé au sud du comté de [[Canterwall]] en [[Ustalav]], au pied des dangereuses [[montagnes Affamées]] du [[Virlych]].

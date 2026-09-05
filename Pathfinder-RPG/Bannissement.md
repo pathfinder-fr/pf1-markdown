@@ -15,22 +15,22 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Cham](./Chaman.md) 6, [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 6, [Inq](./Inquisiteur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Prê](./Prêtre.md) 6, [Psy](./Psychiste.md) 7, [Spi](./Spirite.md) 6   
+**École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 6, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Inquisiteur|Inq]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 7, [[Spirite|Spi]] 6   
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (voir texte)  
+**Composantes** [[COMPOSANTES|V, G, F]] (voir texte)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cibles** 1 ou plusieurs créatures extraplanaires distantes de moins de 9 m les unes des autres  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-*Bannissement* est une version plus puissante de *[renvoi](./Renvoi.md)* qui permet de chasser les créatures [extraplanaires](./sous-type extraplanaire.md) du [plan](./Plans.md) d’origine du personnage. Il est possible de bannir jusqu’à 2 [DV](./../Ressources/DV.md) de créatures par [niveau de lanceur de sorts](./NLS.md).
+*Bannissement* est une version plus puissante de *[[renvoi]]* qui permet de chasser les créatures [[sous-type extraplanaire|extraplanaires]] du [[plans|plan]] d’origine du personnage. Il est possible de bannir jusqu’à 2 [[DV]] de créatures par [[NLS|niveau de lanceur de sorts]].
 
-Pour augmenter ses chances de renvoyer une créature, le lanceur de sorts doit lui montrer un objet ou une substance qu’elle craint ou déteste. Chacun de ces objets confère un bonus de +1 au test de [niveau de lanceur de sorts](./NLS.md) visant à vaincre la [résistance à la magie](./RM.md) de la créature (si besoin) et augmente de +2 le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md).
+Pour augmenter ses chances de renvoyer une créature, le lanceur de sorts doit lui montrer un objet ou une substance qu’elle craint ou déteste. Chacun de ces objets confère un bonus de +1 au test de [[NLS|niveau de lanceur de sorts]] visant à vaincre la [[RM|résistance à la magie]] de la créature (si besoin) et augmente de +2 le [[DD]] du [[jet de sauvegarde]].
 
-Certains objets rares peuvent avoir une efficacité doublée (+2 au test de [niveau de lanceur de sorts](./NLS.md) contre la [résistance à la magie](./RM.md) et +4 au [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md))
+Certains objets rares peuvent avoir une efficacité doublée (+2 au test de [[NLS|niveau de lanceur de sorts]] contre la [[RM|résistance à la magie]] et +4 au [[DD]] du [[jet de sauvegarde]])

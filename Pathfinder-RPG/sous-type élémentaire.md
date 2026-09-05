@@ -12,8 +12,8 @@ Categories:
 
 Les élémentaires sont des créatures intégralement composées d’un des quatre éléments classiques (air, eau, feu ou
 terre). Ils possèdent les attributs suivants.
-- [Immunité](./Immunité (capacité).md) contre la paralysie, le poison, les saignements, les effets de sommeil et l’étourdissement.
-- Ne subissent pas les [coups critiques](./coup critique.md) et ne peuvent pas être [pris en tenaille](./prise en tenaille.md). Ne reçoivent pas de dégâts supplémentaires en cas d’attaques de précision (comme les [attaques sournoises](./Roublard.md#ATTAQUESOURNOISE)).
+- [[Immunité (capacité)|Immunité]] contre la paralysie, le poison, les saignements, les effets de sommeil et l’étourdissement.
+- Ne subissent pas les [[coup critique|coups critiques]] et ne peuvent pas être [[prise en tenaille|pris en tenaille]]. Ne reçoivent pas de dégâts supplémentaires en cas d’attaques de précision (comme les [[Roublard#ATTAQUESOURNOISE|attaques sournoises]]).
 - Formés seulement au maniement de leurs armes naturelles sauf s’ils possèdent une forme vaguement humanoïde, auquel cas ils sont formés au maniement des armes courantes et de toutes les armes citées dans leur profil.
 - Formés au port des armures du type cité dans leur profil (légères, intermédiaires ou lourdes) et des types plus légers. Les élémentaires qui ne portent aucune armure dans leur profil ne disposent d’aucune formation en matière de port d’armures. Les élémentaires qui sont formés au port d’au moins un type d’armures le sont également à l’utilisation des boucliers.
 - Les élémentaires ne respirent pas, ne mangent pas et ne dorment pas.

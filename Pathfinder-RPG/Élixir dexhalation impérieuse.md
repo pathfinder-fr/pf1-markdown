@@ -11,9 +11,9 @@ Categories:
 
 {s:racial|Sylphe (race)|sylphes|Illustrations/PNJ/Sylphe.jpg}<div class="BD">
 {s:BDTitre|Élixir d'exhalation impérieuse|{s:MR}}
-**Aura** [évocation](./Évocation.md) modérée ; **NLS** 3 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 900 po ; **Poids** 0,5 kg
+**Aura** [[évocation]] modérée ; **NLS** 3 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 900 po ; **Poids** 0,5 kg
 (((Description)))
-Ce liquide pétillant bleu ciel laisse le buveur avec l’impression de flotter, bien qu’il soit ballonné. Il gagne un [bonus](./bonus.md) de compétence de +4 à ses tests d’[Acrobaties](./Acrobaties.md) pour faire des sauts en longueur ou en hauteur, et à ses tests de [Natation](./Natation.md) pendant 1 heure au maximum après consommation de l’élixir. Par une [action simple](./Action simple.md), le buveur peut souffler une *[bourrasque](./Bourrasque.md)* de 4,5 mètres (3 {s:c}) de long. Le buveur peut souffler jusqu’à 3 bourrasques, après quoi l’effet de l’élixir se décharge et les bonus de compétence se terminent. Les bourrasques inutilisées se dissipent au bout d’une heure.
+Ce liquide pétillant bleu ciel laisse le buveur avec l’impression de flotter, bien qu’il soit ballonné. Il gagne un [[bonus]] de compétence de +4 à ses tests d’[[Acrobaties]] pour faire des sauts en longueur ou en hauteur, et à ses tests de [[Natation]] pendant 1 heure au maximum après consommation de l’élixir. Par une [[action simple]], le buveur peut souffler une *[[bourrasque]]* de 4,5 mètres (3 {s:c}) de long. Le buveur peut souffler jusqu’à 3 bourrasques, après quoi l’effet de l’élixir se décharge et les bonus de compétence se terminent. Les bourrasques inutilisées se dissipent au bout d’une heure.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[bourrasque](./Bourrasque.md)*; **Coût** 450 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[bourrasque]]*; **Coût** 450 po
 </div>

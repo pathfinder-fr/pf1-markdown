@@ -13,18 +13,18 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Contremaître formien](./Contremaître formien.md) || 7
+| [[Contremaître formien]] || 7
 |-
-| [Guerrière formienne](./Guerrière formienne.md) || 3
+| [[Guerrière formienne]] || 3
 |-
-| [Myrmarque formien](./Myrmarque formien.md) || 10
+| [[Myrmarque formien]] || 10
 |-
-| [Ouvrier formien](./Ouvrier formien.md) || 1/2
+| [[Ouvrier formien]] || 1/2
 |-
-| [Reine formienne](./Reine formienne.md) || 17
+| [[Reine formienne]] || 17
 |}
-</div></div><div style="float:right">***Voir aussi les [traits des formiens](./Traits des formiens (capacité).md).***</div><div class="description">**Source :** Bestiaire 4 p.102</div>
-*Types/Sous-types associés : [Humanoïde monstrueux](./type Humanoïde monstrueux.md)*
+</div></div><div style="float:right">***Voir aussi les [[Traits des formiens (capacité)|traits des formiens]].***</div><div class="description">**Source :** Bestiaire 4 p.102</div>
+*Types/Sous-types associés : [[type Humanoïde monstrueux|Humanoïde monstrueux]]*
 
 Expansionnistes interplanétaires géants ressemblant à des
 fourmis et dotés d’une intelligence collective extraterrestre, les

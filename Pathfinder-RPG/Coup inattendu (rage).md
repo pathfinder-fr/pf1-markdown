@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#COUPINATTENDU
 ---
 
->>> [pouvoirs de rage#COUPINATTENDU](./Pouvoirs de rage.md#COUPINATTENDU)
+>>> [[pouvoirs de rage#COUPINATTENDU]]

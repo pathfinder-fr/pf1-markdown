@@ -9,12 +9,12 @@ Categories:
 - Règles officielles
 ---
 
-{s:cm}**Cette option est plus courante chez les [gobelours](./Gobelours.md).**
+{s:cm}**Cette option est plus courante chez les [[gobelours]].**
 
 *Le personnage sait comment ajouter les blessures aux insultes.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 13, [Attaque en puissance](./Attaque en puissance.md)
+**Conditions.** [[For]] 13, [[Attaque en puissance]]
 
-**Avantages.** Quand le personnage réussit à démoraliser un adversaire à portée d’allonge avec un test d’[Intimidation](./Intimidation.md), il peut effectuer une unique attaque au corps à corps contre cette créature par une [action rapide](./Action rapide.md). S’il n’arrive pas à blesser la cible, cette dernière est immédiatement débarrassée de la condition secoué acquise lors de la démoralisation.
+**Avantages.** Quand le personnage réussit à démoraliser un adversaire à portée d’allonge avec un test d’[[Intimidation]], il peut effectuer une unique attaque au corps à corps contre cette créature par une [[action rapide]]. S’il n’arrive pas à blesser la cible, cette dernière est immédiatement débarrassée de la condition secoué acquise lors de la démoralisation.

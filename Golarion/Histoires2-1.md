@@ -4,8 +4,8 @@ Title: En territoire ennemi
 LastModified: 2010-10-08 11:30
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du premier chapitre "[Enemy Territory](http://paizo.com/pathfinder/tales/serial/v5748dyo5lb7x)" de la nouvelle "Un noble sacrifice" par Richard Ford. Illustration de KyuShik Shin.*
 
 **Isger, 4701 selon le calendrier d'Absalom**

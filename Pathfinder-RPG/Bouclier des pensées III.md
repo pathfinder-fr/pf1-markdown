@@ -8,47 +8,47 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[abjuration](./Abjuration.md) ; **Niveau** [Psy](./Psychiste.md) 4
-**Temps d’incantation** 1 [action immédiate](./Action immédiate.md)
-**Composantes** [V](./composantes.md)
-**Portée** [personnelle](./courte.md)
+{s:AO}** École **[[abjuration]] ; **Niveau** [[psychiste|Psy]] 4
+**Temps d’incantation** 1 [[action immédiate]]
+**Composantes** [[composantes|V]]
+**Portée** [[courte|personnelle]]
 **Cible** lanceur de sorts
-**Durée** 1 [round](./round.md)
+**Durée** 1 [[round]]
 ---
-Ce sort fonctionne comme *[bouclier des pensées I](./Bouclier des pensées I.md)* mais le bonus de circonstances aux jets de [Volonté](./Volonté.md) pour résister aux effets mentaux passe à +8. De plus, une créature qui tente de lire les pensées du personnage alors qu’il est sous l’effet de ce sort doit réussir un jet de [Volonté](./Volonté.md) ou être [étourdie](./États préjudiciables.md#Étourdi) pendant 1 round. On peut lancer ce sort sous sa version réduite.
+Ce sort fonctionne comme *[[bouclier des pensées I]]* mais le bonus de circonstances aux jets de [[Volonté]] pour résister aux effets mentaux passe à +8. De plus, une créature qui tente de lire les pensées du personnage alors qu’il est sous l’effet de ce sort doit réussir un jet de [[Volonté]] ou être [[États préjudiciables#Étourdi|étourdie]] pendant 1 round. On peut lancer ce sort sous sa version réduite.
 
 
 
 (((
 ## Bouclier des pensées I
-{s:AO}** École **[Abjuration](./Abjuration.md) ; **Niveau** [Psy](./Psychiste.md) 2
-**Temps d’incantation** 1 [action immédiate](./Action immédiate.md)
-**Composantes** [V](./composantes.md)
-**Portée** [personnelle](./courte.md)
+{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 2
+**Temps d’incantation** 1 [[action immédiate]]
+**Composantes** [[composantes|V]]
+**Portée** [[courte|personnelle]]
 **Cible** lanceur de sorts
-**Durée** 1 [round](./round.md)
+**Durée** 1 [[round]]
 ---
-Dès que le personnage sent une intrusion, il dresse une défense pour protéger son esprit contre les attaques ou les analyses. Cela se traduit par un bonus de circonstances de +4 aux jets de [Volonté](./Volonté.md) contre les effets mentaux. Tant que le sort fait effet, les sorts et effets permettant à une créature de lire dans l’esprit du personnage ne lui fournissent aucune information.
+Dès que le personnage sent une intrusion, il dresse une défense pour protéger son esprit contre les attaques ou les analyses. Cela se traduit par un bonus de circonstances de +4 aux jets de [[Volonté]] contre les effets mentaux. Tant que le sort fait effet, les sorts et effets permettant à une créature de lire dans l’esprit du personnage ne lui fournissent aucune information.
 )))
 
 ((({s:sortssimilaires|bouclier des pensées III}
-## [Bouclier des pensées IV](./Bouclier des pensées IV.md)
-{s:AO}** École **[Abjuration](./Abjuration.md) ; **Niveau** [Psy](./Psychiste.md) 5
-**Temps d’incantation** 1 [action immédiate](./Action immédiate.md)
-**Composantes** [V](./composantes.md)
-**Portée** [personnelle](./courte.md)
+## [[Bouclier des pensées IV]]
+{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 5
+**Temps d’incantation** 1 [[action immédiate]]
+**Composantes** [[composantes|V]]
+**Portée** [[courte|personnelle]]
 **Cible** lanceur de sorts
-**Durée** 1 [round](./round.md)
+**Durée** 1 [[round]]
 ---
-Ce sort fonctionne comme *[bouclier des pensées III](./Bouclier des pensées III.md)* mais une créature qui tente de lire les pensées du personnage alors qu’il est sous l’effet de ce sort doit réussir un jet de [Volonté](./Volonté.md) ou être [étourdie](./États préjudiciables.md#Étourdi) pendant 1d4 rounds. De plus, si le personnage réussit son jet de sauvegarde contre un *[broyage psychique](./Broyage psychique I.md)*, il ne subit aucun dégât. On peut lancer ce sort sous sa version réduite.
+Ce sort fonctionne comme *[[bouclier des pensées III]]* mais une créature qui tente de lire les pensées du personnage alors qu’il est sous l’effet de ce sort doit réussir un jet de [[Volonté]] ou être [[États préjudiciables#Étourdi|étourdie]] pendant 1d4 rounds. De plus, si le personnage réussit son jet de sauvegarde contre un *[[broyage psychique I|broyage psychique]]*, il ne subit aucun dégât. On peut lancer ce sort sous sa version réduite.
 
-## [Bouclier des pensées V](./Bouclier des pensées V.md)
-{s:AO}** École **[Abjuration](./Abjuration.md) ; **Niveau** [Psy](./Psychiste.md) 6
-**Temps d’incantation** 1 [action immédiate](./Action immédiate.md)
-**Composantes** [V](./composantes.md)
-**Portée** [personnelle](./courte.md)
+## [[Bouclier des pensées V]]
+{s:AO}** École **[[Abjuration]] ; **Niveau** [[psychiste|Psy]] 6
+**Temps d’incantation** 1 [[action immédiate]]
+**Composantes** [[composantes|V]]
+**Portée** [[courte|personnelle]]
 **Cible** lanceur de sorts
-**Durée** 1 [round](./round.md)/niveau ; voir texte
+**Durée** 1 [[round]]/niveau ; voir texte
 ---
-Ce sort fonctionne comme *[bouclier des pensées IV](./Bouclier des pensées IV.md)* en dehors des modifications ci-dessus. Il se termine immédiatement si le personnage rate un jet de sauvegarde contre un effet mental. On peut lancer ce sort sous sa version réduite.
+Ce sort fonctionne comme *[[bouclier des pensées IV]]* en dehors des modifications ci-dessus. Il se termine immédiatement si le personnage rate un jet de sauvegarde contre un effet mental. On peut lancer ce sort sous sa version réduite.
 )))

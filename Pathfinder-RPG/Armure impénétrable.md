@@ -11,14 +11,14 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage est capable d’utiliser son armure afin de couvrir ses parties les plus vulnérables.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise d'armure](./Dons.md#MAITRISEDARMURE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDARMURE|maîtrise d'armure]]
 
-**Conditions.** [BBA](./BBA.md) +11 ou [guerrier](./Guerrier.md) de niveau 8, capacité de classe [entrainement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES), formation au port des armures intermédiaires ou lourdes
+**Conditions.** [[BBA]] +11 ou [[guerrier]] de niveau 8, capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entrainement aux armures]], formation au port des armures intermédiaires ou lourdes
 
-**Avantage.** Quand le personnage est touché par un [coup critique](./coup critique.md) confirmé ou une [attaque sournoise](./attaque sournoise.md), il y’a 25% de chances que le coup critique ou l'attaque sournoise soit annulée et que les dégâts soient calculés normalement.
+**Avantage.** Quand le personnage est touché par un [[coup critique]] confirmé ou une [[attaque sournoise]], il y’a 25% de chances que le coup critique ou l'attaque sournoise soit annulée et que les dégâts soient calculés normalement.
 
-**Spécial.** Ce don se cumule avec les propriétés spéciales d’armure *[défense légère](./défense légère (propriété).md)* et *[défense intermédiaire](./défense intermédiaire (propriété).md)*.
+**Spécial.** Ce don se cumule avec les propriétés spéciales d’armure *[[défense légère (propriété)|défense légère]]* et *[[défense intermédiaire (propriété)|défense intermédiaire]]*.
 
 {s:AMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Si le personnage échoue à annuler un [coup critique](./coup critique.md), il peut dépenser 5 points d’endurance pour diminuer de moitié les dégâts de l'attaque.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Si le personnage échoue à annuler un [[coup critique]], il peut dépenser 5 points d’endurance pour diminuer de moitié les dégâts de l'attaque.

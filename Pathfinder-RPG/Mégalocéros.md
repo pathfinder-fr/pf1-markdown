@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.33*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 11, pris au dépourvu 14 (Dex +2, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 34 (4d8+16)}
@@ -24,12 +24,12 @@ Categories:
 {s:BDTexte|**VD** 15 m (10 {s:c})}
 {s:BDTexte|**Corps à corps** bois, +7 (2d6+5), 2 sabots, +2 (1d4+2)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [charge puissante](./Charge puissante.md) (4d6+7)}
+{s:BDTexte|**Attaques spéciales** [[charge puissante]] (4d6+7)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 15, **Con** 18, **Int** 2, **Sag** 15, **Cha** 5}
-{s:BDTexte|**BBA** +3, **BMO** +9, **DMD** 21 (25 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./Course.md)<sup>S</sup>, [Endurance](./Endurance.md), [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +9}
+{s:BDTexte|**BBA** +3, **BMO** +9, **DMD** 21 (25 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]]<sup>S</sup>, [[Endurance]], [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Perception]] +9}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts/plaines froides ou tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupeau (3–50)}
@@ -42,29 +42,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Archelon](./Archelon.md) || 5
+| [[Archelon]] || 5
 |-
-| [Arsinoithérium](./Arsinoithérium.md) || 7
+| [[Arsinoithérium]] || 7
 |-
-| [Baluchithérium](./Baluchithérium.md) || 8
+| [[Baluchithérium]] || 8
 |-
-| [Basilosaure](./Basilosaure.md) || 12
+| [[Basilosaure]] || 12
 |-
-| [Chalicothérium](./Chalicothérium.md) || 6
+| [[Chalicothérium]] || 6
 |-
-| [Glyptodonte](./Glyptodonte.md) || 6
+| [[Glyptodonte]] || 6
 |-
-| [Kaprosuchus](./Kaprosuchus.md) || 5
+| [[Kaprosuchus]] || 5
 |-
-| [Mégalania](./Mégalania.md) || 7
+| [[Mégalania]] || 7
 |-
-| [Mégalocéros](./Mégalocéros.md) || 4
+| [[Mégalocéros]] || 4
 |-
-| [Mégathérium](./Mégathérium.md) || 5
+| [[Mégathérium]] || 5
 |-
-| [Moa](./Moa.md) || 2
+| [[Moa]] || 2
 |-
-| [Uintathérium](./Uintathérium.md) || 7
+| [[Uintathérium]] || 7
 |}
 </div>*Ce gigantesque élan majestueux dont les épaules arrivent au niveau de la tête d’un homme possède des bois de plus de 3 mètres d’envergure.*
 
@@ -78,7 +78,7 @@ s’étendre sur plus de 3,60 mètres.
 Il pèse 7 000 kg.
 
 #### Le mégalocéros comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +3 ; **Attaque** bois (1d8) ; **Caractéristiques** For 12, Dex 17, Con 14, Int 2, Sag 15, Cha 5 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 15 m (10 {s:c}) ; **CA** armure naturelle +3 ; **Attaque** bois (1d8) ; **Caractéristiques** For 12, Dex 17, Con 14, Int 2, Sag 15, Cha 5 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** bois (2d6), 2 sabots (1d4) ; **Caractéristiques** For +8, Dex –2, Con +4 ; **Particularités** [charge puissante](./Charge puissante.md).
+**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** bois (2d6), 2 sabots (1d4) ; **Caractéristiques** For +8, Dex –2, Con +4 ; **Particularités** [[charge puissante]].
 </div></td></tr></table>

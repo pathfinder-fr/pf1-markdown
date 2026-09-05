@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.33*}
 {s:BDTexte|**px** 1.600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille M, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille M, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 9, pris au dépourvu 17 (Dex -1, naturelle +8)}
 {s:BDTexte|**pv** 52 (7d10+14)}
@@ -27,14 +27,14 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 8, **Con** 15, **Int** 2, **Sag** 13, **Cha** 11}
 {s:BDTexte|**BBA** +7, **BMO** +10, **DMD** 19 (31 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Combat en aveugle](./Combat en aveugle.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Perception](./Perception.md) +10 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4}
+{s:BDTexte|**Dons** [[Combat en aveugle]], [[Talent]] ([[Perception]]), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Perception]] +10 ; **Modificateurs raciaux** [[Discrétion]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou colonie (3-6)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Regard (Ext)** Pétrification permanente (comme *[pétrification](./Pétrification.md)*), portée 9 m (6 {s:c}), [Vigueur](./Vigueur.md) [DD](./DD.md) 15 annule. Si une créature pétrifiée par cet effet est enduite (pas seulement éclaboussée) de sang de basilic frais (prélevé au plus tard 1 heure après la mort du basilic), elle se retransforme immédiatement en chair. Un basilic contient assez de sang pour enduire 1d3 créatures de taille M. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Regard (Ext)** Pétrification permanente (comme *[[pétrification]]*), portée 9 m (6 {s:c}), [[Vigueur]] [[DD]] 15 annule. Si une créature pétrifiée par cet effet est enduite (pas seulement éclaboussée) de sang de basilic frais (prélevé au plus tard 1 heure après la mort du basilic), elle se retransforme immédiatement en chair. Un basilic contient assez de sang pour enduire 1d3 créatures de taille M. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>*Ce monstre reptilien trapu possède huit pattes, une crête osseuse sur le dos et des yeux qui brillent d’une pâle lueur verte.*
 

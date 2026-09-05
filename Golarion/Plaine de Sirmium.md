@@ -7,6 +7,6 @@ Categories:
 - Géographie
 ---
 
-La Plaine de Sirmium est une vaste étendue constituée de prairies et de champs située à l'est du [Chéliax](./Chéliax.md). Elle contient aussi la principale route commerciale entre le [Chéliax](./Chéliax.md) et l'[Andoran](./Andoran.md).
+La Plaine de Sirmium est une vaste étendue constituée de prairies et de champs située à l'est du [[Chéliax]]. Elle contient aussi la principale route commerciale entre le [[Chéliax]] et l'[[Andoran]].
 
-En vue de protéger son territoire, le gouvernement chélaxien est en train d'y construire un mur appelé Mur Aspodéen. Au milieu de celui-ci, une seule porte permettra l'accès vers l'[Andoran](./Andoran.md). Cette construction met bien évidemment les marchands qui ont l'habitude de traverser la frontière en colère.
+En vue de protéger son territoire, le gouvernement chélaxien est en train d'y construire un mur appelé Mur Aspodéen. Au milieu de celui-ci, une seule porte permettra l'accès vers l'[[Andoran]]. Cette construction met bien évidemment les marchands qui ont l'habitude de traverser la frontière en colère.

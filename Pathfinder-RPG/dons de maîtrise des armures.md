@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des joueurs - Règles avancées
 ---
 
-{s:APG}{s:UM}{s:UC}<div class="description">***Note.** Cette page est un regroupement <u>non-officiel</u> de dons qui agissent dans un même cadre. Référez-vous à [cette page](./Dons.md) pour trouver les distinctions officielles de chaque type de don.*</div>
+{s:APG}{s:UM}{s:UC}<div class="description">***Note.** Cette page est un regroupement <u>non-officiel</u> de dons qui agissent dans un même cadre. Référez-vous à [[Dons|cette page]] pour trouver les distinctions officielles de chaque type de don.*</div>
 
 <center>
 {| CLASS="tablo autoalt"
@@ -18,27 +18,27 @@ Categories:
 | CLASS="gauche" WIDTH="25%" | Conditions
 | CLASS="gauche" WIDTH="45%" | Avantages
 |- CLASS="premier"
-| [Port des armures légères](./Port des armures légères.md)
+| [[Port des armures légères]]
 | CLASS="gauche" | -
 | CLASS="gauche" | Pas de malus aux jets d'attaque quand le personnage porte une armure légère
 |-
-| &emsp;[Port de l'armure magique](./Port de larmure magique.md)*
-| CLASS="gauche" | [Port des armures légères](./Port des armures légères.md),  
+| &emsp;[[Port de larmure magique|Port de l'armure magique]]*
+| CLASS="gauche" | [[Port des armures légères]],  
 lanceur de sorts niv 3
-| CLASS="gauche" | [Chances d'échec des sorts profanes](./Caractéristiques des armures.md#RISQUEECHECPROFANE) réduites de 10%
+| CLASS="gauche" | [[Caractéristiques des armures#RISQUEECHECPROFANE|Chances d'échec des sorts profanes]] réduites de 10%
 |-
-| &emsp;&emsp;[Maîtrise de l'armure magique](./Maîtrise de larmure magique.md)*
-| CLASS="gauche" | [Port de l'armure magique](./Port de larmure magique.md),  
-[Port des armures intermédiaires](./Port des armures intermédiaires.md),  
+| &emsp;&emsp;[[Maîtrise de larmure magique|Maîtrise de l'armure magique]]*
+| CLASS="gauche" | [[Port de larmure magique|Port de l'armure magique]],  
+[[Port des armures intermédiaires]],  
 lanceur de sorts niv 7
-| CLASS="gauche" | [Chances d'échec des sorts profanes](./Caractéristiques des armures.md#RISQUEECHECPROFANE) réduites de 20%
+| CLASS="gauche" | [[Caractéristiques des armures#RISQUEECHECPROFANE|Chances d'échec des sorts profanes]] réduites de 20%
 |-
-| &emsp;[Port des armures intermédiaires](./Port des armures intermédiaires.md)
-| CLASS="gauche" | [Port des armures légères](./Port des armures légères.md)
+| &emsp;[[Port des armures intermédiaires]]
+| CLASS="gauche" | [[Port des armures légères]]
 | CLASS="gauche" | Pas de malus aux jets d'attaque quand le personnage porte une armure intermédiaire
 |-
-| &emsp;&emsp;[Port des armures lourdes](./Port des armures lourdes.md)
-| CLASS="gauche" | [Port des armures intermédiaires](./Port des armures intermédiaires.md)
+| &emsp;&emsp;[[Port des armures lourdes]]
+| CLASS="gauche" | [[Port des armures intermédiaires]]
 | CLASS="gauche" | Pas de malus aux jets d'attaque quand le personnage porte une armure lourde
 |}
 </center>

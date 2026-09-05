@@ -16,7 +16,7 @@ notamment dans le *Manuel des joueurs, règles avancées*.
 Après des années de développement et de tests sur le
 terrain (c’est-à-dire autour des tables), et grâce aux règles
 additionnelles et sous-systèmes présentés dans le Chapitre 3 :
-[Maîtriser le combat](./Maîtriser le combat.md), qui aident à clarifier certains points restés
+[[Maîtriser le combat]], qui aident à clarifier certains points restés
 dans l’ombre et qui permettront d’accroître votre plaisir pour
 certains styles spécifiques de jeu, le système a l’ambition d’être
 aussi solide et complet, voire universel, que possible.
@@ -37,10 +37,10 @@ un nouveau degré de complexité dans les règles, ainsi qu’à
 subir de potentiels ralentissements dans les parties le temps
 que les autres joueurs se mettent à niveau.
 
-#### [L'armure comme réduction de dégâts](./Larmure comme RD.md)
+#### [[Larmure comme RD|L'armure comme réduction de dégâts]]
 Pendant des années, les joueurs ont débattu sur ce que
 représentait exactement l’approximation connue sous le
-nom de [Classe d’Armure](./CA.md) pour déterminer s’il s’agissait de
+nom de [[CA|Classe d’Armure]] pour déterminer s’il s’agissait de
 la capacité d’un personnage à éviter les coups, à encaisser
 la souffrance physique etc. Ce système alternatif présente
 un moyen d’envisager l’armure comme une réduction à
@@ -50,7 +50,7 @@ protection qui le rend plus dur à blesser, l’armure absorbant
 la majorité des dégâts et pouvant même les annuler en
 totalité avant qu’ils n’atteignent son porteur.
 
-#### [Frappes ciblées](./Frappes ciblées.md)
+#### [[Frappes ciblées]]
 Les règles de combat standard de Pathfinder JdR gèrent
 les attaques et les coups portés de manière abstraite, en
 soustrayant des points de vie et en laissant au MJ la charge de
@@ -59,10 +59,10 @@ part de contrôle aux joueurs en autorisant les personnages
 à cibler des zones spécifiques de leur opposant, avec les
 résultats logiques qui en découlent.
 
-#### [Pièces d'armure](./Pièces darmures.md)
+#### [[Pièces darmures|Pièces d'armure]]
 Les armures ne se présentent pas toujours comme
 un ensemble complet de pièces parfaitement assorties
-directement achetées auprès de l’armurier. Un [guerrier](./Guerrier.md) peut
+directement achetées auprès de l’armurier. Un [[guerrier]] peut
 se retrouver contraint de porter un ensemble de seconde main
 en lambeaux, composé de pièces d’armures variées, ou peut
 avoir constitué son armure à partir des pièces récupérées sur
@@ -77,11 +77,11 @@ complète dont les pièces sont assorties et ajustées, les règles
 de cette partie fournissent tout ce dont vous avez besoin pour
 mêler les différents types d’armures.
 
-#### [Blessures et vitalité](./Blessures et vitalité.md)
-Au même titre que la [Classe d’Armure](./CA.md), les [points de vie](./pv.md) sont
+#### [[Blessures et vitalité]]
+Au même titre que la [[CA|Classe d’Armure]], les [[pv|points de vie]] sont
 une abstraction – après tout, que la dague ne fasse que
 1d4 points de dégâts ne signifie pas pour autant
-que les [guerriers](./Guerrier.md) de haut niveau sont immunisés
+que les [[guerrier|guerriers]] de haut niveau sont immunisés
 au risque de se faire trancher la gorge. Ce système
 alternatif s’efforce de mieux restituer les différences
 entre les égratignures et autres gênes d’une part, et les

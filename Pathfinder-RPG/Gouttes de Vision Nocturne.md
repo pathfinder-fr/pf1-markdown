@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Gouttes de vision nocturne|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 250 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 250 po ; **Poids** —
 (((Description)))
-Cette petite fiole contient 5 doses de liquide visqueux. Si une créature s’en verse une dose dans les yeux, elle bénéficie de la [vision nocturne](./Vision nocturne (capacité).md) pendant 1 heure. Elle subit un malus de -2 aux [jets de sauvegarde](./Valeurs de combat.md#JETDESAUVEGARDE) contre les sorts et les effets associés à la lumière et développe une [sensibilité à la lumière](./Sensibilité à la lumière (capacité).md). Une dose affecte une créature, quel que soit le nombre d’yeux qu’elle possède.
+Cette petite fiole contient 5 doses de liquide visqueux. Si une créature s’en verse une dose dans les yeux, elle bénéficie de la [[vision nocturne (capacité)|vision nocturne]] pendant 1 heure. Elle subit un malus de -2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les sorts et les effets associés à la lumière et développe une [[sensibilité à la lumière (capacité)|sensibilité à la lumière]]. Une dose affecte une créature, quel que soit le nombre d’yeux qu’elle possède.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[forme bestiale I](./Forme bestiale I.md)* ; **Coût** 125 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[forme bestiale I]]* ; **Coût** 125 po
 </div>

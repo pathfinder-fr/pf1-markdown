@@ -6,7 +6,7 @@ Categories:
 - Weekly Grind
 ---
 
-<p class="description" style="text-align: right">Traduction de divers messages issus du forum Paizo ([1](http://paizo.com/paizo/messageboards/community/gaming/campaignJournals/weeklyGrindAngelsOfAbsalom) et [2](http://paizo.com/paizo/messageboards/community/gaming/campaignJournals/weeklyGrindTheOrderOfTheBrazenHarlot)) — [retour à l'index](./Weekly Grind.md)</p>
+<p class="description" style="text-align: right">Traduction de divers messages issus du forum Paizo ([1](http://paizo.com/paizo/messageboards/community/gaming/campaignJournals/weeklyGrindAngelsOfAbsalom) et [2](http://paizo.com/paizo/messageboards/community/gaming/campaignJournals/weeklyGrindTheOrderOfTheBrazenHarlot)) — [[Weekly Grind|retour à l'index]]</p>
 Chez Paizo, le Weekly Grind donne lieu à des parties hebdomadaires où deux groupes composés d'employés Paizo explorent le même donjon et se voient attribuer des points de victoire en fonction de leurs réussites et de leur perspicacité. Voici quelques informations sur les deux groupes en compétition.
 
 <table class="page espace-col deuxcol"><tr><td>

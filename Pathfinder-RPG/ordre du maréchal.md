@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Maréchal Mythique#ORDREDUMARECHAL
 ---
 
->>> [Maréchal Mythique#ORDREDUMARECHAL](./Maréchal Mythique.md#ORDREDUMARECHAL)
+>>> [[Maréchal Mythique#ORDREDUMARECHAL]]

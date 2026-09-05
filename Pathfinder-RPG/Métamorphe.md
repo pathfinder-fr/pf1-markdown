@@ -8,7 +8,7 @@ Categories:
 
 {s:Menuclassessupplémentaires}{s:cs}<div class="description">**Source :** Ultimate wilderness</div>
 
-<div class="fright">***Voir aussi les [aspects du métamorphe](./Aspects.md).***</div>*Que ce soit poussé par le vent comme un faucon ou en se cachant dans une tourbière à l'affût avant de frapper, le métamorphe est un véritable maître des milieux sauvages. À la fois un dévoué défenseur des cercles druidiques et un féroce prédateur, le métamorphe peut emprunter les formes de la nature et même les fusionner pour obtenir un effet dévastateur et une sauvagerie débridée. Par le biais de la discipline druidique du changement de forme, ils deviennent des aspects vivants des milieux sauvages. Au début, ils ne sont capables que d'en emprunter un aspect mineur, mais avec le temps et la pratique, ils peuvent pleinement se transformer et prendre des formes de plus en plus puissantes*
+<div class="fright">***Voir aussi les [[Aspects|aspects du métamorphe]].***</div>*Que ce soit poussé par le vent comme un faucon ou en se cachant dans une tourbière à l'affût avant de frapper, le métamorphe est un véritable maître des milieux sauvages. À la fois un dévoué défenseur des cercles druidiques et un féroce prédateur, le métamorphe peut emprunter les formes de la nature et même les fusionner pour obtenir un effet dévastateur et une sauvagerie débridée. Par le biais de la discipline druidique du changement de forme, ils deviennent des aspects vivants des milieux sauvages. Au début, ils ne sont capables que d'en emprunter un aspect mineur, mais avec le temps et la pratique, ils peuvent pleinement se transformer et prendre des formes de plus en plus puissantes*
 
 La classe de métamorphe offre aux joueurs la possibilité de jouer un personnage métamorphe qui est plus orienté vers le combat martial que le druide lanceur de sort. À chaque niveau, les pouvoirs du métamorphe croissent de manière nouvelle et surprenante, créant un personnage capable de briller au combat, en exploration et en discrétion.
 
@@ -29,64 +29,64 @@ Pour ceux qui tendent à défendre les causes de la Loi et du Bien, le chemin du
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1 || +1 || +2 || +2 || +0
-| CLASS="gauche" | [aspect du métamorphe](./Métamorphe.md#ASPECT), [empathie sauvage](./Métamorphe.md#EMPATHIESAUVAGE), [griffes du métamorphe](./Métamorphe.md#GRIFFES)
+| CLASS="gauche" | [[Métamorphe#ASPECT|aspect du métamorphe]], [[Métamorphe#EMPATHIESAUVAGE|empathie sauvage]], [[Métamorphe#GRIFFES|griffes du métamorphe]]
 |- CLASS="alt"
 | 2 || +2 || +3 || +3 || +0
-| CLASS="gauche" | [instinct défensif](./Métamorphe.md#INSTINCTDEFENSIF), [pistage](./Métamorphe.md#PISTAGE)
+| CLASS="gauche" | [[Métamorphe#INSTINCTDEFENSIF|instinct défensif]], [[Métamorphe#PISTAGE|pistage]]
 |-
 | 3 || +3 || +3 || +3 || +1
-| CLASS="gauche" | [amélioration des griffes du métamorphe](./Métamorphe.md#GRIFFES), [déplacement facilité](./Métamorphe.md#DEPLACEMENTFACILITE)
+| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]], [[Métamorphe#DEPLACEMENTFACILITE|déplacement facilité]]
 |- CLASS="alt"
 | 4 || +4 || +4 || +4 || +1
-| CLASS="gauche" | [instinct défensif (+1)](./Métamorphe.md#INSTINCTDEFENSIF), [forme animale](./Métamorphe.md#FORMEANIMALE)
+| CLASS="gauche" | [[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+1)]], [[Métamorphe#FORMEANIMALE|forme animale]]
 |-
 | 5 || +5 || +4 || +4 || +1
-| CLASS="gauche" | [deuxième aspect](./Métamorphe.md#ASPECT), [absence de traces](./Métamorphe.md#ABSENCEDETRACES)
+| CLASS="gauche" | [[Métamorphe#ASPECT|deuxième aspect]], [[Métamorphe#ABSENCEDETRACES|absence de traces]]
 |- CLASS="alt"
 | 6 || +6/+1 || +5 || +5 || +2
-| CLASS="gauche" | [furie du métamorphe](./Métamorphe.md#FURIEDUMETAMORPHE)
+| CLASS="gauche" | [[Métamorphe#FURIEDUMETAMORPHE|furie du métamorphe]]
 |-
 | 7 || +7/+2 || +5 || +5 || +2
-| CLASS="gauche" | [amélioration des griffes du métamorphe](./Métamorphe.md#GRIFFES)
+| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]
 |- CLASS="alt"
 | 8 || +8/+3 || +6 || +6 || +2
-| CLASS="gauche" | [instinct défensif (+2)](./Métamorphe.md#INSTINCTDEFENSIF)
+| CLASS="gauche" | [[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+2)]]
 |-
 | 9 || +9/+4 || +6 || +6 || +3
-| CLASS="gauche" | [aspect chimérique](./Métamorphe.md#ASPECTCHIMERIQUE)
+| CLASS="gauche" | [[Métamorphe#ASPECTCHIMERIQUE|aspect chimérique]]
 |- CLASS="alt"
 | 10 || +10/+5 || +7 || +7 || +3
-| CLASS="gauche" | [troisième aspect](./Métamorphe.md#ASPECT)
+| CLASS="gauche" | [[Métamorphe#ASPECT|troisième aspect]]
 |-
 | 11 || +11/+6/+1 || +7 || +7 || +3
-| CLASS="gauche" | [amélioration des griffes du métamorphe](./Métamorphe.md#GRIFFES)
+| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]
 |- CLASS="alt"
 | 12 || +12/+7/+2 || +8 || +8 || +4
-| CLASS="gauche" | [instinct défensif (+3)](./Métamorphe.md#INSTINCTDEFENSIF)
+| CLASS="gauche" | [[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+3)]]
 |-
 | 13 || +13/+8/+3 || +8 || +8 || +4
-| CLASS="gauche" | [amélioration des griffes du métamorphe](./Métamorphe.md#GRIFFES)
+| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]
 |- CLASS="alt"
 | 14 || +14/+9/+4 || +9 || +9 || +4
-| CLASS="gauche" | [aspect chimérique supérieur](./Métamorphe.md#ASPECTCHIMERIQUESUPERIEUR)
+| CLASS="gauche" | [[Métamorphe#ASPECTCHIMERIQUESUPERIEUR|aspect chimérique supérieur]]
 |-
 | 15 || +15/+10/+5 || +9 || +9 || +5
-| CLASS="gauche" | [quatrième aspect](./Métamorphe.md#ASPECT)
+| CLASS="gauche" | [[Métamorphe#ASPECT|quatrième aspect]]
 |- CLASS="alt"
 | 16 || +16/+11/+6/+1 || +10 || +10 || +5
-| CLASS="gauche" | [instinct défensif (+4)](./Métamorphe.md#INSTINCTDEFENSIF)
+| CLASS="gauche" | [[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+4)]]
 |-
 | 17 || +17/+12/+7/+2 || +10 || +10 || +5
-| CLASS="gauche" | [amélioration des griffes du métamorphe](./Métamorphe.md#GRIFFES)
+| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]
 |- CLASS="alt"
 | 18 || +18/+13/+8/+3 || +11 || +11 || +6
-| CLASS="gauche" | [éternelle jeunesse](./Métamorphe.md#ETERNELLEJEUNESSE), [mille visages](./Métamorphe.md#MILLEVISAGES)
+| CLASS="gauche" | [[Métamorphe#ETERNELLEJEUNESSE|éternelle jeunesse]], [[Métamorphe#MILLEVISAGES|mille visages]]
 |-
 | 19 || +19/+14/+9/+4 || +11 || +11 || +6
-| CLASS="gauche" | [amélioration des griffes du métamorphe](./Métamorphe.md#GRIFFES)
+| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]
 |- CLASS="alt"
 | 20 || +20/+15/+10/+5 || +12 || +12 || +6
-| CLASS="gauche" | [aspect final](./Métamorphe.md#ASPECTFINAL), [instinct défensif (+5)](./Métamorphe.md#INSTINCTDEFENSIF)
+| CLASS="gauche" | [[Métamorphe#ASPECTFINAL|aspect final]], [[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+5)]]
 |}
 </center>
 
@@ -99,9 +99,9 @@ Pour ceux qui tendent à défendre les causes de la Loi et du Bien, le chemin du
 **Argent de départ.** 3d6 x 10 po (moyenne 105 po).
 
 ### Compétences de classe
-Les compétences de classe du métamorphe sont les suivantes : [Acrobaties](./Acrobaties.md) (Dex), [Connaissances](./Connaissances.md) (nature) (Int), [Discrétion](./Discrétion.md) (Dex), [Dressage](./Dressage.md) (Cha), [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Natation](./Natation.md) (For), [Perception](./Perception.md) (Sag), [Survie](./Survie.md) (Sag) et [Vol](./Vol.md) (Dex),
+Les compétences de classe du métamorphe sont les suivantes : [[Acrobaties]] (Dex), [[Connaissances]] (nature) (Int), [[Discrétion]] (Dex), [[Dressage]] (Cha), [[Équitation]] (Dex), [[Escalade]] (For), [[Natation]] (For), [[Perception]] (Sag), [[Survie]] (Sag) et [[Vol]] (Dex),
 
-**Rangs de compétence par niveau.** 4 + modificateur d’[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.** 4 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
 Les aptitudes du métamorphe sont décrites ci-dessous.
@@ -109,7 +109,7 @@ Les aptitudes du métamorphe sont décrites ci-dessous.
 #### Armes et armures
 Un métamorphe maîtrise le maniement du bâton, du cimeterre, de la dague, de l'épieu, de la faux, de la fléchette, de la fronde, du gourdin, de la lance et de la serpe. Il sait également utiliser toutes les attaques naturelles (griffes, morsure et ainsi de suite) de l'aptitude de classe griffes du métamorphe et des formes qu’il est capable de revêtir (voir l’aptitude forme animale, ci-dessous).
 
-Le métamorphe est formé au port des armures légères et intermédiaires, mais il lui est interdit de porter des armures métalliques. Un métamorphe peut librement utiliser des armures en bois ayant acquis la dureté de l’acier grâce au sort *[bois de fer](./Bois de fer.md)*. Le métamorphe est également formé au maniement des boucliers (à l’exception des pavois) mais ne peut utiliser que ceux en bois.
+Le métamorphe est formé au port des armures légères et intermédiaires, mais il lui est interdit de porter des armures métalliques. Un métamorphe peut librement utiliser des armures en bois ayant acquis la dureté de l’acier grâce au sort *[[bois de fer]]*. Le métamorphe est également formé au maniement des boucliers (à l’exception des pavois) mais ne peut utiliser que ceux en bois.
 
 Si un métamorphe porte une armure ou un bouclier qui lui est interdit, il perd l’accès à ses aptitudes aspect, griffes du métamorphe, forme animale et à toutes ses aptitudes de classe surnaturelles ou magiques tant qu’il porte l’objet en question et durant les vingt-quatre heures qui suivent.
 
@@ -123,17 +123,17 @@ Pour les besoins de l'enseignement et de l'apprentissage du langage druidique, l
 
 {s:Reference|ASPECTDUMÉTAMORPHE}{s:Reference|ASPECT}
 #### Aspect du métamorphe (Sur)
-Au niveau 1, un métamorphe obtient son premier aspect - une catégorie d'animal auquel son corps et son âme se sont accordés de manière surnaturelle. Il peut prendre la forme mineure de son aspect pendant un nombre de minutes par jour égal à 3 + son niveau de métamorphe. Il n'est pas nécessaire que la durée d'utilisation soit consécutive mais cette capacité doit être utilisée par minute entière. Prendre une forme mineure demande une [action rapide](./Action rapide.md), alors que mettre un terme à cet effet est une [action libre](./Action libre.md) qui ne peut être entreprise qu'au moment du tour du métamorphe.
+Au niveau 1, un métamorphe obtient son premier aspect - une catégorie d'animal auquel son corps et son âme se sont accordés de manière surnaturelle. Il peut prendre la forme mineure de son aspect pendant un nombre de minutes par jour égal à 3 + son niveau de métamorphe. Il n'est pas nécessaire que la durée d'utilisation soit consécutive mais cette capacité doit être utilisée par minute entière. Prendre une forme mineure demande une [[action rapide]], alors que mettre un terme à cet effet est une [[action libre]] qui ne peut être entreprise qu'au moment du tour du métamorphe.
 
 Jusqu'à ce qu'il atteigne le niveau 9 et obtienne l'aptitude aspect chimérique, le métamorphe ne peut emprunter qu'une seule forme de son aspect à la fois. Changer pour un nouvel aspect (ou d'autres aspects, dans le cas d'aspects chimériques ou d'aspect chimérique supérieur) met un terme à toutes les formes mineures actuellement manifestées. Les formes mineures des aspects ne sont pas des effets de métamorphose et le métamorphe ne perd pas les bénéfices des formes mineures lorsqu'il est affecté par des effets de métamorphose.
 
 Lorsque le métamorphe obtient des niveaux, il obtient davantage d'aspects ; il obtient son second aspect au niveau 5, un  troisième aspect au niveau 10 et un quatrième au niveau 15.
 
-Voici les différents [Aspects](./Aspects.md) que peut choisir le métamorphe.
+Voici les différents [[Aspects]] que peut choisir le métamorphe.
 
 {s:Reference|GRIFFESDUMÉTAMORPHE}{s:Reference|GRIFFES}
 #### Griffes du métamorphe (Sur)
-À volonté, un métamorphe sous sa forme naturelle peut étendre ses griffes au prix d'une [action rapide](./Action rapide.md) pour les utiliser comme une arme. Cette transformation magique est alimentée autant par la Foi du métamorphe dans le monde naturel que par son talent inné. Les griffes de chaque main peuvent être utilisées pour effectuer des attaques primaires, infligeant 1d4 point de dégâts perforants et tranchants (1d3 pour un Métamorphe de taille P). S'il utilise une de ses griffes concomitamment avec une arme tenue dans l'autre main, la griffe est alors plutôt utilisée comme une attaque naturelle secondaire.
+À volonté, un métamorphe sous sa forme naturelle peut étendre ses griffes au prix d'une [[action rapide]] pour les utiliser comme une arme. Cette transformation magique est alimentée autant par la Foi du métamorphe dans le monde naturel que par son talent inné. Les griffes de chaque main peuvent être utilisées pour effectuer des attaques primaires, infligeant 1d4 point de dégâts perforants et tranchants (1d3 pour un Métamorphe de taille P). S'il utilise une de ses griffes concomitamment avec une arme tenue dans l'autre main, la griffe est alors plutôt utilisée comme une attaque naturelle secondaire.
 
 Au fur et à mesure que le métamorphe voit son niveau s'élever le pouvoir des griffes s'accroit.
 - Au niveau 3, ses griffes sont considérées comme des armes magiques et ignorent la RD/fer froid et RD/argent. 
@@ -147,7 +147,7 @@ Lorsqu'un métamorphe utilise forme bestiale pour prendre la forme d'un aspect m
 
 {s:Reference|EMPATHIESAUVAGE}
 #### Empathie sauvage (Ext)
-Un métamorphe peut améliorer l’attitude d’un animal. Cette aptitude suit les mêmes règles que les tests de [Diplomatie](./Diplomatie.md) destinés à modifier l’attitude d’une personne. Le métamorphe lance 1d20 et ajoute son niveau de métamorphe et son modificateur de Charisme pour déterminer le résultat de son test. L’attitude initiale typique des animaux domestiques est l’indifférence, tandis que les animaux sauvages sont généralement inamicaux.
+Un métamorphe peut améliorer l’attitude d’un animal. Cette aptitude suit les mêmes règles que les tests de [[Diplomatie]] destinés à modifier l’attitude d’une personne. Le métamorphe lance 1d20 et ajoute son niveau de métamorphe et son modificateur de Charisme pour déterminer le résultat de son test. L’attitude initiale typique des animaux domestiques est l’indifférence, tandis que les animaux sauvages sont généralement inamicaux.
 
 Pour utiliser l’empathie sauvage, le métamorphe et l’animal doivent être à moins de neuf mètres l’un de l’autre (dans des conditions de visibilité normales). Il faut en moyenne une minute pour influencer un animal de cette façon, mais, comme dans le cas de personnes, cela peut parfois prendre plus longtemps ou être plus rapide.
 
@@ -155,34 +155,34 @@ Un métamorphe peut également utiliser cette aptitude pour influencer une créa
 
 {s:Reference|INSTINCTDEFENSIF}
 #### Instinct défensif (Ext)
-Au niveau 2, s'il ne porte pas d'armure, n'utilise pas de bouclier, ne porte pas de charge et qu'il est conscient, le métamorphe ajoute son bonus de [Sagesse](./Sagesse.md) (s'il en a un) à sa [CA](./CA.md) et à son [DMD](./DMD.md). S'il porte une armure non métallique  ou qu'il utilise un bouclier non métallique, il n'obtient que la moitié de son bonus de  Sagesse à la CA (minimum 0).
+Au niveau 2, s'il ne porte pas d'armure, n'utilise pas de bouclier, ne porte pas de charge et qu'il est conscient, le métamorphe ajoute son bonus de [[Sagesse]] (s'il en a un) à sa [[CA]] et à son [[DMD]]. S'il porte une armure non métallique  ou qu'il utilise un bouclier non métallique, il n'obtient que la moitié de son bonus de  Sagesse à la CA (minimum 0).
 
 En outre, le métamorphe obtient un bonus de +1 à sa CA et à son DMD au niveau 4. Ce bonus augmente de +1 par tranche de 4 niveaux de métamorphe (jusqu'à un maximum de +5 au niveau 20).
 
-Ces bonus à la CA s'appliquent même contre les attaques de contact et lorsque le métamorphe est [pris au dépourvu](./Pris au dépourvu.md). Il perd ses bonus lorsqu'il est [immobilisé](./Immobilisé.md) ou [sans défense](./Sans défense.md). Ces bonus ne se cumulent pas avec ceux de l'aptitude bonus à la CA de la classe de [moine](./Moine.md).
+Ces bonus à la CA s'appliquent même contre les attaques de contact et lorsque le métamorphe est [[pris au dépourvu]]. Il perd ses bonus lorsqu'il est [[immobilisé]] ou [[sans défense]]. Ces bonus ne se cumulent pas avec ceux de l'aptitude bonus à la CA de la classe de [[moine]].
 
 {s:Reference|PISTAGE}
 #### Pistage (Ext)
-Au niveau 2, un métamorphe ajoute la moitié de son niveau à ses tests de [Survie](./Survie.md) pour suivre des traces.
+Au niveau 2, un métamorphe ajoute la moitié de son niveau à ses tests de [[Survie]] pour suivre des traces.
 
 {s:Reference|DEPLACEMENTFACILITE}
 #### Déplacement facilité (Ext)
-Dès le niveau 3, le métamorphe se déplace sans la moindre gêne dans toutes sortes de taillis, y compris les fourrés, les buissons (même épineux) et les autres zones de végétation dense. Il progresse à sa [vitesse de déplacement](./VD.md) normale et ne subit aucun dégât. La végétation enchantée de manière à restreindre les mouvements continue toutefois d’affecter le métamorphe.
+Dès le niveau 3, le métamorphe se déplace sans la moindre gêne dans toutes sortes de taillis, y compris les fourrés, les buissons (même épineux) et les autres zones de végétation dense. Il progresse à sa [[VD|vitesse de déplacement]] normale et ne subit aucun dégât. La végétation enchantée de manière à restreindre les mouvements continue toutefois d’affecter le métamorphe.
 
 {s:Reference|FORMEANIMALE}
 #### Forme animale (Sur)
 (((FAQ)))
-Au niveau 4, un métamorphe obtient la capacité de prendre la forme majeure de l'un de ses [aspects](./Aspects.md) et de revenir à la sienne. Cette capacité fonctionne comme *[forme bestiale](./Forme bestiale.md)* II, à l'exception de ce qui est décrit ci-après.
+Au niveau 4, un métamorphe obtient la capacité de prendre la forme majeure de l'un de ses [[aspects]] et de revenir à la sienne. Cette capacité fonctionne comme *[[forme bestiale]]* II, à l'exception de ce qui est décrit ci-après.
 
-Le métamorphe peut prendre la forme majeure d'un seul de ses aspects à la fois. Utiliser forme animale pour se transformer en cette forme majeure ou reprendre sa forme est une [action simple](./Action simple.md) qui ne provoque pas d'[attaque d'opportunité](./AO.md).
+Le métamorphe peut prendre la forme majeure d'un seul de ses aspects à la fois. Utiliser forme animale pour se transformer en cette forme majeure ou reprendre sa forme est une [[action simple]] qui ne provoque pas d'[[AO|attaque d'opportunité]].
 
-Souvent la forme majeure de l'aspect accorde des facultés au delà de l'effet normal de *[forme bestiale II](./Forme bestiale II.md)*. Chaque forme majeure détaille les capacités que le métamorphe obtient avec cette forme et à quel niveau ; le métamorphe les obtient à la place des capacités de la forme prise en application de *forme bestiale* II, mais il obtient toujours les capacités de la forme bestiale qui dépendent de la taille.
+Souvent la forme majeure de l'aspect accorde des facultés au delà de l'effet normal de *[[forme bestiale II]]*. Chaque forme majeure détaille les capacités que le métamorphe obtient avec cette forme et à quel niveau ; le métamorphe les obtient à la place des capacités de la forme prise en application de *forme bestiale* II, mais il obtient toujours les capacités de la forme bestiale qui dépendent de la taille.
 
 Un métamorphe perd sa capacité de parler lorsqu'il est sous sa forme animale car il est limité aux sons qu'un animal normal, non entrainé, de cette forme, peut émettre, mais il peut communiquer avec les autres animaux du même groupe général que sa forme. Il peut aussi communiquer de manière non verbale avec ses alliés.
 
-Un métamorphe peut utiliser forme animale pendant un nombre d'heures chaque jour égal à son niveau de métamorphe + son modificateur de [Sagesse](./Sagesse.md). Il n'est pas nécessaire que ces utilisations soient consécutives mais elles doivent être dépensées par tranche de 1 heure. Pour les capacités qui fonctionnent en fonction des ‘utilisations de forme animale,’ chaque heure de forme animale compte comme une utilisation.
+Un métamorphe peut utiliser forme animale pendant un nombre d'heures chaque jour égal à son niveau de métamorphe + son modificateur de [[Sagesse]]. Il n'est pas nécessaire que ces utilisations soient consécutives mais elles doivent être dépensées par tranche de 1 heure. Pour les capacités qui fonctionnent en fonction des ‘utilisations de forme animale,’ chaque heure de forme animale compte comme une utilisation.
 
-Les métamorphes peuvent prendre des [dons](./Dons.md) et des capacités qui nécessitent forme animale ; pour les besoins de déterminer s'il remplit les conditions requises, son niveau effectif de druide est égal à son niveau de métamorphe.
+Les métamorphes peuvent prendre des [[dons]] et des capacités qui nécessitent forme animale ; pour les besoins de déterminer s'il remplit les conditions requises, son niveau effectif de druide est égal à son niveau de métamorphe.
 
 {s:Reference|ABSENCEDETRACES}
 #### Absence de traces (Ext)
@@ -206,7 +206,7 @@ Au niveau 14, lorsqu'un métamorphe utilise sa capacité aspect pour prendre une
 {s:Reference|MILLEVISAGES}
 #### Mille visages (Ext)
 (((FAQ)))
-Au niveau 18, le métamorphe acquiert le pouvoir surnaturel de se transformer à volonté, comme s’il utilisait le sort *[modification d’apparence](./Modification dapparence.md)*, mais uniquement lorsqu’il est sous sa forme normale.
+Au niveau 18, le métamorphe acquiert le pouvoir surnaturel de se transformer à volonté, comme s’il utilisait le sort *[[modification dapparence|modification d’apparence]]*, mais uniquement lorsqu’il est sous sa forme normale.
 
 {s:Reference|ETERNELLEJEUNESSE}
 #### Éternelle jeunesse (Ex)
@@ -219,4 +219,4 @@ Au niveau 18, le métamorphe acquiert le pouvoir surnaturel de se transformer à
 Au niveau 20, un métamorphe obtient l'accès à un cinquième aspect, lorsqu'il utilise l'aspect du métamorphe, il peut choisir les formes mineures de tous ses aspects et le métamorphe peut utiliser leurs formes majeures et mineures à volonté.
 
 ### Anciens métamorphes
-Un métamorphe qui cesse de vénérer la nature, qui prend un alignement interdit ou apprend la langue des druides à un non-druide ou à un non métamorphe perd tous ses pouvoirs surnaturels de métamorphe. Il ne peut gagner de nouveaux niveaux de métamorphe que s’il fait acte de contrition (voir le sort *[pénitence](./Pénitence.md)*).
+Un métamorphe qui cesse de vénérer la nature, qui prend un alignement interdit ou apprend la langue des druides à un non-druide ou à un non métamorphe perd tous ses pouvoirs surnaturels de métamorphe. Il ne peut gagner de nouveaux niveaux de métamorphe que s’il fait acte de contrition (voir le sort *[[pénitence]]*).

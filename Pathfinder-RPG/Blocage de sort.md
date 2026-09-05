@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Aptitudes de la voie du Protecteur Mythique#BLOCAGEDESORT
 ---
 
->>> [Aptitudes de la voie du Protecteur Mythique#BLOCAGEDESORT](./Aptitudes de la voie du Protecteur Mythique.md#BLOCAGEDESORT)
+>>> [[Aptitudes de la voie du Protecteur Mythique#BLOCAGEDESORT]]

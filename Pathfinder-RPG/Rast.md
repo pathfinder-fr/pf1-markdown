@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 {s:BDTexte|<i>Source : Bestiaire 2 p.239</i>}
 {s:BDTexte|<b>PX</b> 1600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Feu](./sous-type Feu.md)) de taille M, N}
-{s:BDTexte|<b>Init</b> +5 ; <b>Sens</b> [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Feu|Feu]]) de taille M, N}
+{s:BDTexte|<b>Init</b> +5 ; <b>Sens</b> [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 18, contact 11, pris au dépourvu 17 (Dex +1, naturelle +7)}
 {s:BDTexte|<b>pv</b> 51 (6d10+18)}
@@ -30,8 +30,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 14, <b>Dex</b> 12, <b>Con</b> 17, <b>Int</b> 3, <b>Sag</b> 13, <b>Cha</b> 12}
 {s:BDTexte|<b>BBA</b> +3, <b>BMO</b> +8, <b>DMD</b> 19 (croc-en-jambe impossible)}
-{s:BDTexte|<b>Dons</b> [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en vol](./Attaque en vol.md), [Sciences de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|<b>Compétences</b> [Discrétion](./Discrétion.md) +10, [Perception](./Perception.md) +10, [Vol](./Vol.md) +5}
+{s:BDTexte|<b>Dons</b> [[Arme de prédilection]] (griffe), [[Attaque en vol]], [[Science de linitiative|Sciences de l'initiative]]}
+{s:BDTexte|<b>Compétences</b> [[Discrétion]] +10, [[Perception]] +10, [[Vol]] +5}
 {s:BDTexte|<b>Langues</b> igné (incapable de parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> tous (plan du feu)}

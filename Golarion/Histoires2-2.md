@@ -4,8 +4,8 @@ Title: Idéologies de la paix
 LastModified: 2010-10-08 11:29
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du deuxième chapitre : "[Notions of Peace](http://paizo.com/pathfinder/tales/serial/v5748dyo5lb8c)" de la nouvelle "Un noble sacrifice" par Richard Ford. Illustration de KyuShik Shin.*
 
 "Pour l'Andoran et pour la liberté !" avait crié Kal alors qu'au-dessus d'eux, une douzaine de silhouettes se mettaient en mouvement, près à décocher leur flèche en même temps.

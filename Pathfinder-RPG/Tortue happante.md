@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 - *Source : Bestiaire 2, p.272*
 - **PX** 135
-- [Animal](./type Animal.md) de taille TP, N
-- **Init** -1 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5
+- [[type Animal|Animal]] de taille TP, N
+- **Init** -1 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +5
 (((Défense)))
 - **CA** 12, contact 11, pris au dépourvu 12 (Dex –1, naturelle +1, taille +2)
 - **pv** 5 (1d8+1)
@@ -26,10 +26,10 @@ Categories:
 - **Espace** 75 cm (1/2 {s:c}) ; **Allonge** 0 m
 (((Statistiques)))
 - **For** 4, **Dex** 8, **Con** 13, **Int** 1, **Sag** 13, **Cha** 6
-- **BBA** +0 ; **BMO** –3 ; **DMD** 4 (8 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Dons** [Attaque en finesse](./Attaque en finesse.md)
-- **Compétences** [Natation](./Natation.md) +5, [Perception](./Perception.md) +5
-- **Particularités** carapace, [retenir son souffle](./Retenir son souffle (capacité).md)
+- **BBA** +0 ; **BMO** –3 ; **DMD** 4 (8 contre [[croc-en-jambe]])
+- **Dons** [[Attaque en finesse]]
+- **Compétences** [[Natation]] +5, [[Perception]] +5
+- **Particularités** carapace, [[retenir son souffle (capacité)|retenir son souffle]]
 (((Écologie)))
 - **Environnement** eaux/régions côtières tempérées ou chaudes
 - **Organisation sociale** solitaire ou groupe (2–5)
@@ -44,11 +44,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Tortue de mer](./Tortue de mer.md) || 1/6
+| [[Tortue de mer]] || 1/6
 |-
-| [Tortue happante](./Tortue happante.md) || 1/3
+| [[Tortue happante]] || 1/3
 |-
-| [Tortue happante géante](./Tortue happante géante.md) || 9
+| [[Tortue happante géante]] || 9
 |}
 </div>*Le corps de ce reptile est caparaçonné d’une coquille épaisse d’où émergent seulement sa queue, ses pieds et une tête garnie de puissantes mâchoires.*
 

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#ACIERGLACÉ
 ---
 
->>> [Matériaux spéciaux#ACIERGLACÉ](./Matériaux spéciaux.md#ACIERGLACÉ)
+>>> [[Matériaux spéciaux#ACIERGLACÉ]]

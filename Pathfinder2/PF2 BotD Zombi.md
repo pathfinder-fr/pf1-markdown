@@ -4,9 +4,9 @@ Title: Zombi (archétype)
 LastModified: 2022-04-27 11:08
 ---
 
-{s:bodmenu}• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+{s:bodmenu}• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 <div style="clear: both"></div>
 Vous êtes un zombi, un corps pourrissant animé par des magies nécromantiques. Même si la majorité des zombis sont des brutes sans intelligence, vous êtes un zombi-cosse, préservé grâce à des rites nécromantiques et des réactifs alchimiques. Le processus a particulièrement bien fonctionné pour vous : vous avez pu retenir votre intelligence et votre identité, dans une mesure bien plus grande que les autres zombis-cosses.
@@ -24,7 +24,7 @@ Un jour, vous pourriez bien n’être rien de plus qu’un cadavre ambulant mais
 
 **Prérequis** Vous êtes mort et avez été réanimé sous forme de zombi-cosse.
 
-Malgré votre mort et votre réanimation en tant que cadavre pourrissant, vous avez pu conserver votre esprit et votre identité en grande partie. Mais une chose vous obsède constamment : votre faim pour les chairs et les organes des êtres vivants. Vous gagnez les traits Mort-vivant et Zombi ainsi que les [avantages de base de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVBASE). Contrairement aux zombis typiques, vous n’êtes pas dénué d’intelligence. Réduisez toutes vos Vitesses de déplacement de 1 case. Votre poing perd le trait Non létal.
+Malgré votre mort et votre réanimation en tant que cadavre pourrissant, vous avez pu conserver votre esprit et votre identité en grande partie. Mais une chose vous obsède constamment : votre faim pour les chairs et les organes des êtres vivants. Vous gagnez les traits Mort-vivant et Zombi ainsi que les [[PF2 BotD Jouer un mort-vivant#AVBASE|avantages de base de morts-vivants]]. Contrairement aux zombis typiques, vous n’êtes pas dénué d’intelligence. Réduisez toutes vos Vitesses de déplacement de 1 case. Votre poing perd le trait Non létal.
 
 À cause de la décomposition continue de votre corps, il nécessite d’être constamment entretenu pour rester en bon état. Chaque jour, après votre période de repos, votre corps est détérioré à cause du processus de décomposition naturelle. Certaines capacités de zombi vous permettent d’obtenir un effet accru si vous êtes prêt à risquer de rendre votre corps détérioré.
 
@@ -84,7 +84,7 @@ Vous consommez le cerveau de votre ennemi, ce qui réanime certains de vos synap
 
 **Prérequis** Dévotion de zombi
 
-Alors que votre corps continue de se putréfier, vos sens se meurent et vos pouvoirs de mort-vivant se développent. Vous gagnez les [avantages avancés de morts-vivants](./PF2 BotD Jouer un mort-vivant.md#AVAVANCE) ainsi qu’un bonus de circonstances de +1 aux jets de sauvegarde contre les effets d’émotion et de douleur. Quand votre corps est détérioré, votre engourdissement s’amplifie avec les deux conséquences suivantes : le bonus de circonstances octroyé par ce don passe à +2 et, si vous obtenez une réussite lors d’un jet de sauvegarde contre un effet d’émotion ou de douleur, cela fonctionne comme une réussite critique.
+Alors que votre corps continue de se putréfier, vos sens se meurent et vos pouvoirs de mort-vivant se développent. Vous gagnez les [[PF2 BotD Jouer un mort-vivant#AVAVANCE|avantages avancés de morts-vivants]] ainsi qu’un bonus de circonstances de +1 aux jets de sauvegarde contre les effets d’émotion et de douleur. Quand votre corps est détérioré, votre engourdissement s’amplifie avec les deux conséquences suivantes : le bonus de circonstances octroyé par ce don passe à +2 et, si vous obtenez une réussite lors d’un jet de sauvegarde contre un effet d’émotion ou de douleur, cela fonctionne comme une réussite critique.
 </div>
 
 <div class="blocPF2">

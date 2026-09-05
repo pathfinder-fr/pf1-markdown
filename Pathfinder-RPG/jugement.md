@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Inquisiteur#JUGEMENT
 ---
 
->>> [Inquisiteur#JUGEMENT](./Inquisiteur.md#JUGEMENT)
+>>> [[Inquisiteur#JUGEMENT]]

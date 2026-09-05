@@ -9,21 +9,21 @@ Categories:
 
 {s:cs|Ultimate Wilderness}
 
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./métamorphose.md)) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7  
+**École** [[Transmutation]] ([[métamorphose]]) ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un morceau de la créature dont le personnage veut prendre l’apparence)  
+**Composantes** [[composantes|V, G, M]] (un morceau de la créature dont le personnage veut prendre l’apparence)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 
-Ce sort fonctionne comme *[forme de vase II](./Forme de vase II.md)*, si ce n'est que le lanceur de sorts peut aussi se transformer en [vase](./type Vase.md) de [taille TG](./taille TG.md). Quelque soit la vase dont il prend la forme, la portée de la vision aveugle octroyée au personnage passe à 9 m (6 c), et le bonus de résistance aux [jets de sauvegarde](./JDS.md) contre les effets mentaux et le poison passe à +8.
+Ce sort fonctionne comme *[[forme de vase II]]*, si ce n'est que le lanceur de sorts peut aussi se transformer en [[type vase|vase]] de [[taille TG]]. Quelque soit la vase dont il prend la forme, la portée de la vision aveugle octroyée au personnage passe à 9 m (6 c), et le bonus de résistance aux [[jds|jets de sauvegarde]] contre les effets mentaux et le poison passe à +8.
 
-**Vase de taille TG :** En prenant cette forme, le personnage obtient un bonus de taille de +4 à sa valeur de [Force](./Force.md) et de +10 à sa valeur de [Constitution](./Constitution.md), une attaque de coup (2d6 plus 2d6 acide et [étreinte](./Étreinte (capacité).md)) et la capacité de [constriction](./Constriction (capacité).md) (2d6), mais subit un malus de -10 à sa valeur de [Dextérité](./Dextérité.md).
+**Vase de taille TG :** En prenant cette forme, le personnage obtient un bonus de taille de +4 à sa valeur de [[Force]] et de +10 à sa valeur de [[Constitution]], une attaque de coup (2d6 plus 2d6 acide et [[étreinte (capacité)|étreinte]]) et la capacité de [[constriction (capacité)|constriction]] (2d6), mais subit un malus de -10 à sa valeur de [[Dextérité]].
 Sous cette forme, les vitesses de déplacement octroyées par le sort sont différentes : la vitesse de base passe à 6 m (4 c), la vitesse d'escalade à 6 m (4 c) et la vitesse de nage à 9 m (6 c).
 
 (((This spell functions as ooze form II except you can also assume the form of a Huge ooze. You gain blindsight 60 feet and a +8 resistance bonus on saving throws against mind-affecting effects and poison as well.

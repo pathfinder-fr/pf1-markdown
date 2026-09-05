@@ -8,15 +8,15 @@ Categories:
 - Règles officielles
 ---
 
-{s:Desambi|Chimère est également le nom d'une [branche](./branche chimère.md) de l'école d'[Illusion](./Illusion.md).}
+{s:Desambi|Chimère est également le nom d'une [[branche chimère|branche]] de l'école d'[[Illusion]].}
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Chimère|FP 7}
 {s:pucem|Créature magique|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.45*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md)  18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision dans le noir]]  18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 10, pris au dépourvu 18 (Dex +1, naturelle +9, taille -1)}
 {s:BDTexte|**pv** 85 (9d10+36)}
@@ -28,16 +28,16 @@ Categories:
 {s:BDTexte|**Attaques spéciales** souffle (1 fois tous les 1d4 rounds)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 12, **Con** 17, **Int** 4, **Sag** 13, **Cha** 10}
-{s:BDTexte|**BBA** +9, **BMO** +14, **DMD** 25 (29 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +4 (+8 dans les fourrés ou les hautes herbes), [Perception](./Perception.md) +10, [Vol](./Vol.md) +2 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 dans les fourrés ou les hautes herbes, [Perception](./Perception.md) +2}
+{s:BDTexte|**BBA** +9, **BMO** +14, **DMD** 25 (29 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +4 (+8 dans les fourrés ou les hautes herbes), [[Perception]] +10, [[Vol]] +2 ; **Modificateurs raciaux** [[Discrétion]] +4 dans les fourrés ou les hautes herbes, [[Perception]] +2}
 {s:BDTexte|**Langues** draconique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple, meute (3-6) ou vol (7-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**souffle (Su)** Les effets du souffle de la chimère dépendent de la couleur de sa tête de [dragon](./type Dragon.md), comme indiqué dans la table ci-dessous. Dans tous les cas, la chimère peut utiliser son souffle une fois tous les 1d4 rounds, celui-ci inflige 6d8 points de dégâts et un jet de [Réflexes](./Réflexes.md) de [DD](./DD.md) 17 permet de réduire les dégâts de moitié. Pour déterminer aléatoirement la couleur de la tête de [dragon](./type Dragon.md) et le type de souffle, lancez 1d10 et consultez la table ci-dessous.}
+{s:BDTexte|**souffle (Su)** Les effets du souffle de la chimère dépendent de la couleur de sa tête de [[type dragon|dragon]], comme indiqué dans la table ci-dessous. Dans tous les cas, la chimère peut utiliser son souffle une fois tous les 1d4 rounds, celui-ci inflige 6d8 points de dégâts et un jet de [[Réflexes]] de [[DD]] 17 permet de réduire les dégâts de moitié. Pour déterminer aléatoirement la couleur de la tête de [[type dragon|dragon]] et le type de souffle, lancez 1d10 et consultez la table ci-dessous.}
 
 <center>
 {| CLASS="tablo"
@@ -47,19 +47,19 @@ Categories:
 | class="gauche" | Type de souffle
 |- CLASS="premier"
 | 1-2 || blanche
-| class="gauche" | [cône](./cône.md) de froid de 6 m (4 {s:c})
+| class="gauche" | [[cône]] de froid de 6 m (4 {s:c})
 |- CLASS="alt"
 | 3-4 || bleue
-| class="gauche" | [ligne](./ligne.md) d'électricité de 12 m (8 {s:c})
+| class="gauche" | [[ligne]] d'électricité de 12 m (8 {s:c})
 |-
 | 5-6 || noire
-| class="gauche" | [ligne](./ligne.md) d'acide de 12 m (8 {s:c})
+| class="gauche" | [[ligne]] d'acide de 12 m (8 {s:c})
 |- CLASS="alt"
 | 7-8 || rouge
-| class="gauche" | [cône](./cône.md) de feu de 6 m (4 {s:c})
+| class="gauche" | [[cône]] de feu de 6 m (4 {s:c})
 |-
 | 9-10 || verte
-| class="gauche" | [cône](./cône.md) d'acide de 6 m (4 {s:c})
+| class="gauche" | [[cône]] d'acide de 6 m (4 {s:c})
 |}</center>
 </td><td><div>''Ce monstre ailé a le corps d’un lion mais sa tête féline est flanquée de deux
 autres têtes : une de dragon et une de chèvre cornue.''

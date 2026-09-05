@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de télékinésie|}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 9 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 75 000 po ; **Poids** —
+**Aura** [[Transmutation]] modérée ; **NLS** 9 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 75 000 po ; **Poids** —
 (((Description)))
-Cet anneau permet à son porteur d’utiliser le sort *[télékinésie](./Télékinésie.md)* sur [commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE).
+Cet anneau permet à son porteur d’utiliser le sort *[[télékinésie]]* sur [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|commande]].
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[télékinésie](./Télékinésie.md)* ; **Coût** 37 500 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[télékinésie]]* ; **Coût** 37 500 po
 </div>

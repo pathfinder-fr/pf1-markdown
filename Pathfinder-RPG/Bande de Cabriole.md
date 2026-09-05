@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bande de cabriole|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible  ; **NLS** 1 ; **Emplacement** [taille](./Objets merveilleux portés à la taille.md) ; **Prix** 800 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] faible  ; **NLS** 1 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 800 po ; **Poids** 0,5 kg
 (((Description)))
-Cette fine bande de coton souple s’entoure plusieurs fois autour de la taille. Son porteur gagne un bonus de compétence de +4 aux tests d’[Acrobaties](./Acrobaties.md) lorsqu’il tente de traverser une case menacée ou occupée par un ennemi.
+Cette fine bande de coton souple s’entoure plusieurs fois autour de la taille. Son porteur gagne un bonus de compétence de +4 aux tests d’[[Acrobaties]] lorsqu’il tente de traverser une case menacée ou occupée par un ennemi.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[grâce féline](./Grâce féline.md)*  ; **Coût** 400 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[Grâce féline]]*  ; **Coût** 400 po
 </div>

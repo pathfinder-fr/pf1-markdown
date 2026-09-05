@@ -11,16 +11,16 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:cm}**Cette option est plus courante chez les [sahuagins](./Sahuagin.md).**
+{s:cm}**Cette option est plus courante chez les [[Sahuagin|sahuagins]].**
 
-**École ** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[émotion](./Registre.md)<nowiki>]</nowiki> ; **Niveau ** [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
+**École ** [[Nécromancie]] <nowiki>[</nowiki>[[registre|émotion]]<nowiki>]</nowiki> ; **Niveau ** [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
 **Portée** 6 m
 **Zone** nuage de 6 mètres de rayon centré sur le sahuagin
-**Durée** 1 round/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Durée** 1 round/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-Lorsqu’il lance ce sort, le sahuagin doit s’infliger un point de dégâts perforants ou tranchants pour faire couler son sang. Ce faisant, il reçoit un point de dégâts de saignement. Lorsque ce sort est actif, tous les requins, les poissons de fond et les créatures possédant le pouvoir de frénésie inspirée par le sang situés dans la zone gagnent un bonus de +2 en [Force](./Force.md) et en [Constitution](./Constitution.md) mais reçoivent un malus de -2 à la [CA](./CA.md).
+Lorsqu’il lance ce sort, le sahuagin doit s’infliger un point de dégâts perforants ou tranchants pour faire couler son sang. Ce faisant, il reçoit un point de dégâts de saignement. Lorsque ce sort est actif, tous les requins, les poissons de fond et les créatures possédant le pouvoir de frénésie inspirée par le sang situés dans la zone gagnent un bonus de +2 en [[Force]] et en [[Constitution]] mais reçoivent un malus de -2 à la [[CA]].
 
 Traitez cet effet comme une frénésie inspirée par le sang au regard des autres dons et effets : il ne se cumule pas avec les effets d’une véritable frénésie inspirée par le sang. À partir du moment où le sahuagin ne saigne plus, le sort se termine aussitôt.

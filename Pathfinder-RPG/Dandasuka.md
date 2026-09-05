@@ -10,40 +10,40 @@ LastModified: 2021-04-10 11:41
 {s:pucem|Extérieur|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.221}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([métamorphe](./sous-type métamorphe.md), [natif](./sous-type natif.md), [rakshasa](./sous-type rakshasa.md)) de taille P, LM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]], [[sous-type rakshasa|rakshasa]]) de taille P, LM}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 16, pris au dépourvu 14 (Dex +4, esquive +1, naturelle +3, taille +1)}
 {s:BDTexte|**pv** 51 (6d10+18)}
 {s:BDTexte|**Réf** +9, **Vig** +5, **Vol** +6}
-{s:BDTexte|**[RD](./Réduction de dégâts (capacité).md)** 5/Bien ou perforant ; **[RM](./Résistance à la magie (capacité).md)** 20}
+{s:BDTexte|**[[Réduction de dégâts (capacité)|RD]]** 5/Bien ou perforant ; **[[Résistance à la magie (capacité)|RM]]** 20}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +8 (1d6+1 plus [saignement](./Saignement.md)) et 2 griffes, +8 (1d4+1)}
-{s:BDTexte|**Attaques spéciales** [saignement](./Saignement.md) 1d4, [détection de pensées](./Rakshasa.md) (DD 15), [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +1d6}
+{s:BDTexte|**Corps à corps** morsure, +8 (1d6+1 plus [[saignement]]) et 2 griffes, +8 (1d4+1)}
+{s:BDTexte|**Attaques spéciales** [[saignement]] 1d4, [[Rakshasa|détection de pensées]] (DD 15), [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +1d6}
 {s:BDTexte|**Pouvoirs magiques** (NLS 5 ; concentration +7)}
-{s:BDSorts|1/jour — *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)*}
+{s:BDSorts|1/jour — *[[Clairaudienceclairvoyance|clairaudience/clairvoyance]]*}
 {s:BDTexte|**Sorts connus** (NLS 2 ; concentration +4)}
-{s:BDSorts|1er (5/jour) — *[charme-personne](./Charme-personne.md)* (DD 13), *[ventriloquie](./Ventriloquie.md)* (DD 13)}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[hébétement](./Hébétement.md)* (DD 12), *[manipulation à distance](./Manipulation à distance.md)*, *[saignement](./Saignement.md)* (DD 12), *[son imaginaire](./Son imaginaire.md)* (DD 12)}
+{s:BDSorts|1er (5/jour) — *[[charme-personne]]* (DD 13), *[[ventriloquie]]* (DD 13)}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[hébétement]]* (DD 12), *[[manipulation à distance]]*, *[[saignement]]* (DD 12), *[[son imaginaire]]* (DD 12)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 18, **Con** 16, **Int** 13, **Sag** 12, **Cha** 15}
 {s:BDTexte|**BBA** +6 ; **BMO** +6 ; **DMD** 21}
-{s:BDTexte|**Dons** [Attaque éclair](./Attaque éclair.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10, [Bluff](./Bluff.md) +15, [Déguisement](./Déguisement.md) +19, [Discrétion](./Discrétion.md) +17, [Escalade](./Escalade.md) +10, [Escamotage](./Escamotage.md) +10, [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +10, **Modificateurs raciaux** +4 en [Bluff](./Bluff.md), +8 en [Déguisement](./Déguisement.md)}
+{s:BDTexte|**Dons** [[Attaque éclair]], [[Esquive]], [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10, [[Bluff]] +15, [[Déguisement]] +19, [[Discrétion]] +17, [[Escalade]] +10, [[Escamotage]] +10, [[Perception]] +9, [[Psychologie]] +10, **Modificateurs raciaux** +4 en [[Bluff]], +8 en [[Déguisement]]}
 {s:BDTexte|**Langues** commun, infernal, commun des profondeurs}
-{s:BDTexte|**Particularités** changement de forme ([tout humanoïde](./type Humanoïde.md) ; *[modification d'apparence](./Modification dapparence.md)*)}
+{s:BDTexte|**Particularités** changement de forme ([[type humanoïde|tout humanoïde]] ; *[[modification dapparence|modification d'apparence]]*)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation** solitaire, couple ou groupe d’assassins (3-10)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Sorts.** Le dandasuka peut lancer des sorts profanes comme un [ensorceleur](./Ensorceleur.md) de niveau 2.}
+{s:BDTexte|**Sorts.** Le dandasuka peut lancer des sorts profanes comme un [[Ensorceleur]] de niveau 2.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [rakshasas](./Rakshasa B3.md).***</li></ul>*Cette petite créature ressemble à un gnome fiélon élégamment vêtu et paré de bijoux, avec une grande gueule aux longs crocs.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Rakshasa B3|rakshasas]].***</li></ul>*Cette petite créature ressemble à un gnome fiélon élégamment vêtu et paré de bijoux, avec une grande gueule aux longs crocs.*
 
-Les dandasukas, aussi connus comme les « croqueurs » parmi les [rakshasas](./Rakshasa.md), servent d’espions et d’assassins. Ils font souvent partie de la suite ou du réseau secret des rakshasas. Nés pour manipuler et pour tuer, ils adorent leur travail et se réjouissent de la vue du sang. C’est pourquoi les dandasukas accomplissent joyeusement leur tâche, s’amusant à manipuler leurs ennemis et à massacrer leurs victimes.  
+Les dandasukas, aussi connus comme les « croqueurs » parmi les [[Rakshasa|rakshasas]], servent d’espions et d’assassins. Ils font souvent partie de la suite ou du réseau secret des rakshasas. Nés pour manipuler et pour tuer, ils adorent leur travail et se réjouissent de la vue du sang. C’est pourquoi les dandasukas accomplissent joyeusement leur tâche, s’amusant à manipuler leurs ennemis et à massacrer leurs victimes.  
 
 Les dandasukas sont des créatures énergiques et infatigables qui ont besoin de rester actifs et de s’amuser, préférant les jeux malsains et cruels aux activités conventionnelles. Les tours des dandasukas sont rarement amusants pour leurs victimes. Le corps rongé par une faim monstrueuse, ces créatures hyperactives ont besoin de chair humanoïde et de sang. À la vue du sang, le dandasuka est incapable de contenir ses horribles appétits. Il pourrait lécher une lame imprégnée de sang, laper quelques gouttes tombées à terre, comme il pourrait décider de se régaler d’un ennemi tombé en plein combat plutôt que de songer à une tactique plus judicieuse. Lorsqu’il n’a pas le choix,
 la dandasuka se rabat sur d’autres viandes mais préfère toujours la chair humanoïde.  

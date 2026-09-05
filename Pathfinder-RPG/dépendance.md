@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Drogues#DÉPENDANCE
 ---
 
->>> [Drogues#DÉPENDANCE](./Drogues.md#DÉPENDANCE)
+>>> [[Drogues#DÉPENDANCE]]

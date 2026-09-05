@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ORGANISERLATTAQUE
 ---
 
->>> [Talents#ORGANISERLATTAQUE](./Talents.md#ORGANISERLATTAQUE)
+>>> [[Talents#ORGANISERLATTAQUE]]

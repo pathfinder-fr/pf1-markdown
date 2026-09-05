@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 3 pa ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Jeux](./Jeux.md)</span>
+<span class="Catégorie">**Catégorie** [[Jeux]]</span>
 ---
 Cette mallette inclut une balle en cuir bourrée de laine et une raquette en bois avec un cordage en boyaux d’animal.

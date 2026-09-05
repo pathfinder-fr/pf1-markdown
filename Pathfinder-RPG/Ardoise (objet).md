@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Un cadre en bois faisant à peu près la même taille qu'un grand livre entoure une fine pièce de pierre noire polie. Il suffit de frotter l'ardoise avec un chiffon humide pour effacer tout ce qui y est écrit à la [craie](./Craie (objet).md).
+Un cadre en bois faisant à peu près la même taille qu'un grand livre entoure une fine pièce de pierre noire polie. Il suffit de frotter l'ardoise avec un chiffon humide pour effacer tout ce qui y est écrit à la [[Craie (objet)|craie]].

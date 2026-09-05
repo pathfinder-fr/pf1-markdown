@@ -4,12 +4,12 @@ Title: Les parties de monstres - création/amélioration d'objets (aperçu)
 LastModified: 2022-01-11 19:25
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour aux aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour aux aides de jeu pour Pathfinder 2]]
 
 {s:ImageExtLien|https://d1wgd08o7gfznj.cloudfront.net/uploads/gallery_images/e0e53e0c-ef12-44be-86a8-7e98081ae0d9/Battlezoo%20PDF_large.png|250px|fright|http://www.battlezoo.com}
-Ce qui suit est un aperçu du système de "parties de monstres" présenté dans le Battlezoo Bestiary disponible (en version papier, en version PDF et en version module pour Foundry VTT) sur [http://www.battlezoo.com](http://www.battlezoo.com/), en plus des 114 monstres que celui-ci contient.
+Ce qui suit est un aperçu du système de "parties de monstres" présenté dans le Battlezoo Bestiary disponible (en version papier, en version PDF et en version module pour Foundry VTT) sur [http://www.battlezoo.com](http://www.battlezoo.com), en plus des 114 monstres que celui-ci contient.
 
 L’objectif de ce système est de permettre aux PJ d’améliorer leurs armes et leurs armures en utilisant comme ingrédients des organes, membres et autres parties récoltés sur les créatures qu’ils ont vaincues. C’est donc un système plutôt bien adapté aux campagnes qui se déroulent à l’écart de la civilisation, là où les PJ doivent utiliser les ressources naturelles qu’ils peuvent récolter afin de s’équiper.
 

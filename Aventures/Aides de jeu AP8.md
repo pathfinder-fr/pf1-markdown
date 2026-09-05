@@ -4,12 +4,12 @@ Title: Aides de jeu La Couronne putréfiée
 LastModified: 2015-01-25 16:31
 ---
 
-Vous trouverez la présentation de cette campagne sur [cette page](./Présentation AP8.md).
+Vous trouverez la présentation de cette campagne sur [[Présentation AP8|cette page]].
 
 ### Aides de jeu générales
-- [^http://www.cartographersguild.com/album.php?albumid=3460|Lien vers des cartes de l'Ustalav et des battlemaps pouvant être jouées dans la campagne]
-- [^http://www.cartographersguild.com/album.php?albumid=3017|Lien vers des cartes de l'Ustalav]
-- [^http://entola.deviantart.com/gallery/41500605|Lien vers différentes battlemaps de la campagne]
+- [Lien vers des cartes de l'Ustalav et des battlemaps pouvant être jouées dans la campagne](http://www.cartographersguild.com/album.php?albumid=3460)
+- [Lien vers des cartes de l'Ustalav](http://www.cartographersguild.com/album.php?albumid=3017)
+- [Lien vers différentes battlemaps de la campagne](http://entola.deviantart.com/gallery/41500605)
 
 
 ### Aides pour The Hauting of Harrowstone/Les fantômes de Roctourment
@@ -17,8 +17,8 @@ Vous trouverez la présentation de cette campagne sur [cette page](./Présentati
 {s:ADJStart}
 <tr STYLE="vertical-align: top;">
 <td>{s:ADJ|COMPAGNON43|Compagnon de route #43|%2fADJ%2fAventures%2fCompagnon43Mini.jpg|%2fADJ%2fAventures%2fCompagnon43.pdf|Une compilation d'aides de jeu et de traductions pour les MJ jouant Les fantômes de Roctourment (fichier PDF)|Mériadec|none}</td>
-<td>{s:ADJExt|Battemap 43|Battlemap|/ADJ/Aventures/BMicone.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Battlemap%20Pathfinder%2043.ashx|Des battlemap pour jouer "Les fantômes de Roctourment" sur forum ([page wiki](./Battlemap Pathfinder 43.md))|Ionisa, Kael79, Lenaingris et Mériadec|none}</td>
-<td>{s:ADJExt|SUPP|PNJ et monstres supplémentaires|/ADJ/Aventures/Icone Bestiaire Carrion Crown.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Bestiaire%20Pathfinder%2043.ashx|Des statistiques supplémentaires pour certains PNJ et monstres que l'on peut rencontrer dans The Hauting of Harrowstone. ([page wiki](./Bestiaire Pathfinder 43.md))|Mériadec|Mériadec}</td>
+<td>{s:ADJExt|Battemap 43|Battlemap|/ADJ/Aventures/BMicone.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Battlemap%20Pathfinder%2043.ashx|Des battlemap pour jouer "Les fantômes de Roctourment" sur forum ([[Battlemap Pathfinder 43|page wiki]])|Ionisa, Kael79, Lenaingris et Mériadec|none}</td>
+<td>{s:ADJExt|SUPP|PNJ et monstres supplémentaires|/ADJ/Aventures/Icone Bestiaire Carrion Crown.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Bestiaire%20Pathfinder%2043.ashx|Des statistiques supplémentaires pour certains PNJ et monstres que l'on peut rencontrer dans The Hauting of Harrowstone. ([[Bestiaire Pathfinder 43|page wiki]])|Mériadec|Mériadec}</td>
 </tr>
 </table>
 

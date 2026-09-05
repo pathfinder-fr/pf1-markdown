@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#SUBTILISATIONDARME
 ---
 
->>> [Talents#SUBTILISATIONDARME](./Talents.md#SUBTILISATIONDARME)
+>>> [[Talents#SUBTILISATIONDARME]]

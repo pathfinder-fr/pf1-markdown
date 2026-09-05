@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 3 po ; **Poids** 2 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:AE}**Prix** 3 po ; **Poids** 2 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 Cet ensemble de vêtements voyants (voire même tape-à-l’œil) est destiné aux artistes. Les costumes d’artiste présentent de nombreux styles différents, du scandaleux au flatteur en passant par l’absurde. Si la tenue semble fantasque, sa conception n’entrave en rien la capacité du personnage à faire des acrobaties, à danser, à jouer les équilibristes ou à courir (si le public devient désagréable).

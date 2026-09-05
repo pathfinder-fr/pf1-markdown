@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Déconcertante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Déconcertante](./Descriptions individuelles des propriétés spéciales des armes.md#Déconcertante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Déconcertante]]

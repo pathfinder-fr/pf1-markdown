@@ -7,11 +7,11 @@ LastModified: 2017-12-03 12:12
 {s:AO}''Le personnage peut utiliser ses extensions de compétence
 occultes plus souvent et plus efficacement.''
 
-**Conditions.** [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer
+**Conditions.** [[Sensibilité psychique]] ou capacité à lancer
 des sorts psychiques.
 
 **Avantage.** Le personnage gagne un bonus de +2 aux tests pour
-utiliser une [extension de compétence occulte](./Extensions de compétences occultes.md). S’il dispose de plus
+utiliser une [[extensions de compétences occultes|extension de compétence occulte]]. S’il dispose de plus
 de 10 rangs dans la compétence de base, ce bonus passe à +4. Ce
 bonus ne s’applique pas aux autres tests utilisant la compétence
 de base, seulement à ceux de la version occulte.

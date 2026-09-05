@@ -5,9 +5,9 @@ LastModified: 2020-10-19 13:35
 ---
 
 ### Classes
-- Le [Justicier](./Justicier.md)
-- Les [Talents sociaux](./talents sociaux.md)
-- Les [Talents de justicier](./talents de justicier.md)
+- Le [[Justicier]]
+- Les [[Talents sociaux]]
+- Les [[Talents de justicier]]
 
 - bonus de classe de prédilection
 Prévoir une intégration
@@ -20,8 +20,8 @@ Prévoir une intégration
 
 @Deus : il faut trouver une traduction de ces archétypes qui convienne. En général, on évite les noms déjà existants. On n'utilise pas l'apostrophe dans les liens.
 
-Ensuite tu crées la page en inscrivant ici <nowiki>[nomdelarchétypetraduit (nomdelaclasse)](./nomdelarchétypetraduit-(nomdelaclasse).md)</nowiki>
-Pour le premier, cela donne [Sapeur alchimique (Alchimiste)](./Sapeur alchimique (Alchimiste).md)
+Ensuite tu crées la page en inscrivant ici <nowiki>[[nomdelarchétypetraduit (nomdelaclasse)]]</nowiki>
+Pour le premier, cela donne [[Sapeur alchimique (Alchimiste)]]
 
 Comme tu le verras, le lien s'affiche en rouge, preuve que la page n'existe pas. Si elle apparaît en bleu, c'est qu'il y a déjà une page enregistrée dans le wiki sous ce nom. Il faut alors trouver un nom différent.
 
@@ -79,7 +79,7 @@ Conseil :
 
 
 ### To do list
-- Renommer la page [Talents](./Talents.md) en Talents de roublard et 
+- Renommer la page [[Talents]] en Talents de roublard et 
   - Modifier tous les liens entrants sur cette page pour réparer les liens cassés
     - Observateur hobgobelin
 Elfe

@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-La cité-état de Mérab est la capitale de la [Thuvie](./Thuvie.md). Elle est située au nord du territoire, au bord de la [mer Intérieure](./mer Intérieure.md).
+La cité-état de Mérab est la capitale de la [[Thuvie]]. Elle est située au nord du territoire, au bord de la [[mer Intérieure]].
 
 Mérab est réputée pour être la ville de naissance d'Artokus, inventeur et producteur exclusif de l'élixir de jouvence qui fait la renommée du pays. C'est cette figure illustre qui a permis à la ville d'attirer à l'abri de ses murs les meilleurs alchimistes du pays.
 
-La ville abrite le temple du Soleil rédempteur, le plus grand temple dédié à [Sarenrae](./Sarenrae.md) présent sur le territoire de la [Thuvie](./Thuvie.md).
+La ville abrite le temple du Soleil rédempteur, le plus grand temple dédié à [[Sarenrae]] présent sur le territoire de la [[Thuvie]].

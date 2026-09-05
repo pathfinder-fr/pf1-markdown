@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Crevice de la seconde chance|{s:AE}}
-**Aura** [Enchantement](./Enchantement.md) puissante ; **NLS** 12 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 18 900 po ; **Poids** 17,5 kg
+**Aura** [[Enchantement]] puissante ; **NLS** 12 ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Prix** 18 900 po ; **Poids** 17,5 kg
 (((Description)))
-Dix pierres précieuses d’une valeur unitaire de 100 po ornent cette crevice +3. Une fois par semaine, le porteur de l’armure peut obliger un adversaire à refaire un [jet d’attaque](./jet dattaque.md) contre sa personne. Quelles qu’en soient les conséquences, il doit conserver le résultat du second jet. Il doit faire appel à cette capacité avant de connaître le montant des dégâts.
+Dix pierres précieuses d’une valeur unitaire de 100 po ornent cette crevice +3. Une fois par semaine, le porteur de l’armure peut obliger un adversaire à refaire un [[jet dattaque|jet d’attaque]] contre sa personne. Quelles qu’en soient les conséquences, il doit conserver le résultat du second jet. Il doit faire appel à cette capacité avant de connaître le montant des dégâts.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[bénédiction](./Bénédiction.md)* ; **Coût** 9 650 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[bénédiction]]* ; **Coût** 9 650 po
 </div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#MAITREDUDEGUISEMENT
 ---
 
->>> [Talents#MAITREDUDEGUISEMENT](./Talents.md#MAITREDUDEGUISEMENT)
+>>> [[Talents#MAITREDUDEGUISEMENT]]

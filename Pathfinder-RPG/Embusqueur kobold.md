@@ -6,14 +6,14 @@ LastModified: 2021-04-29 22:53
 
 *Le kobold sait très bien se déplacer rapidement et rester caché.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+**Catégorie** : [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** 4 rangs en [Discrétion](./Discrétion.md), [kobold](./Kobold (race).md).
+**Conditions.** 4 rangs en [[Discrétion]], [[kobold (race)|kobold]].
 
-**Avantages.** Le kobold ne souffre d’aucun malus à ses tests de [Discrétion](./Discrétion.md) quand il se déplace à sa vitesse maximale. Il peut courir ou charger tout en restant caché, recevant un malus de -10 à ces tests pour ce faire.
+**Avantages.** Le kobold ne souffre d’aucun malus à ses tests de [[Discrétion]] quand il se déplace à sa vitesse maximale. Il peut courir ou charger tout en restant caché, recevant un malus de -10 à ces tests pour ce faire.
 
-**Normal.** Lorsqu’il se déplace plus vite qu’à la moitié de sa vitesse de base jusqu’à sa vitesse maximale, le kobold reçoit un malus de -5 à ses tests de Discrétion. Lorsqu’il est en mesure de courir ou de charger en utilisant sa Discrétion, il reçoit un malus de -20 à son test de [Discrétion](./Discrétion.md).
+**Normal.** Lorsqu’il se déplace plus vite qu’à la moitié de sa vitesse de base jusqu’à sa vitesse maximale, le kobold reçoit un malus de -5 à ses tests de Discrétion. Lorsqu’il est en mesure de courir ou de charger en utilisant sa Discrétion, il reçoit un malus de -20 à son test de [[Discrétion]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise l’action de [course](./courir.md) ou de [charge](./charge.md) et désire rester caché, il peut dépenser 2 points d’endurance pour réduire le malus associé à –5.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise l’action de [[courir|course]] ou de [[charge]] et désire rester caché, il peut dépenser 2 points d’endurance pour réduire le malus associé à –5.

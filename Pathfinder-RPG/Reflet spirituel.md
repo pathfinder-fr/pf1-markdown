@@ -10,7 +10,7 @@ LastModified: 2017-03-02 13:26
 {s:pucem|Extérieur|Plaines|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 227*}
 - **600 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [métamorphe](./sous-type métamorphe.md)) de taille M, NM
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type métamorphe|métamorphe]]) de taille M, NM
 - **Init** +7 ; **Sens **vision dans le noir 18 m, vision nocturne ; Perception +7
 (((Défense)))
 - **CA **15, contact 14, pris au dépourvu 11 (Dex +3, esquive +1, naturelle +1)
@@ -23,13 +23,13 @@ LastModified: 2017-03-02 13:26
 - **Corps à corps** 2 coups, +5 (1d4+2)
 - **Attaques spéciales** dernier sursaut
 - **Pouvoirs magiques** (**NLS **3 ; concentration +4)
-- *3/jour* – [manipulation à distance](./Manipulation à distance.md), [ouverture/fermeture](./Ouverturefermeture.md), [image silencieuse](./Image silencieuse.md)
-- *1/jour* – [image miroir](./Image miroir.md)
+- *3/jour* – [[manipulation à distance]], [[ouverturefermeture|ouverture/fermeture]], [[image silencieuse]]
+- *1/jour* – [[image miroir]]
 (((Statistiques)))
 - **For **14, **Dex **17, **Con **12, **Int **11, **Sag **12, **Cha **13
 - **BBA **+3 ; **BMO **+5 ; **DMD **19
-- **Dons **[Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences **[Acrobaties](./Acrobaties.md) +9 (+13 en saut), [Bluff](./Bluff.md) +7, [Déguisement](./Déguisement.md) +7 (+11 lorsqu’il utilise changement de forme), [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7
+- **Dons **[[Esquive]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences **[[Acrobaties]] +9 (+13 en saut), [[Bluff]] +7, [[Déguisement]] +7 (+11 lorsqu’il utilise changement de forme), [[Discrétion]] +9, [[Perception]] +7, [[Psychologie]] +7
 - **Modificateurs raciaux** +4 en Acrobaties lorsqu’il saute, +4 en Déguisement lorsqu’il utilise changement de forme
 - **Langues **aklo, commun
 - **Particularités** changement de forme (humanoïde, modification d’apparence), compression, traversée des miroirs, réplique parfaite, imitation de sons (voix)

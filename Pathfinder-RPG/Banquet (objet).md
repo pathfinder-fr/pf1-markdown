@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 10 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Un banquet inclut différents plats, de bonnes boissons et des serveurs pour apporter la nourriture et emporter les plats vides. Le prix est indiqué pour un banquet dans un restaurant (bien que certains restaurateurs servent des banquets à domicile). Le prix est indiqué par personne.

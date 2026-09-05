@@ -12,22 +12,22 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([charme](./charme.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Psy](./Psychiste.md) 1, [Rôd](./Rôdeur.md) 1  
+**École** [[Enchantement]] ([[charme]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** 1 animal  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-*Charme-animal* ne s’utilise que sur les [animaux](./type Animal.md). La créature affectée considère le lanceur de sorts comme son meilleur ami. Néanmoins si elle est menacée par le personnage ou ses compagnons, elle bénéficie d’un bonus de +5 au [jet de sauvegarde](./jet de sauvegarde.md).
+*Charme-animal* ne s’utilise que sur les [[type animal|animaux]]. La créature affectée considère le lanceur de sorts comme son meilleur ami. Néanmoins si elle est menacée par le personnage ou ses compagnons, elle bénéficie d’un bonus de +5 au [[jet de sauvegarde]].
 
-L’[enchantement](./Enchantement.md) ne permet pas de diriger l’animal [charmé](./charme.md) comme une marionnette, mais celui-ci perçoit toutefois tout ce que dit et fait le personnage de la manière la plus favorable qui soit. Le personnage peut essayer de lui donner des instructions, mais il lui faut réussir un test de [Charisme](./Charisme.md) opposé pour convaincre le sujet de faire quelque chose qui lui déplaît (une seule chance). Un animal [charmé](./charme.md) n’obéit jamais à un ordre suicidaire, mais on peut le convaincre que le risque vaut le coup. Tout acte du personnage ou de ses alliés menaçant le sujet met immédiatement un terme au sort. Notez qu’il faut parler la langue de l'animal [charmé](./charme.md) (ou être fort en [mime](./Représentation.md)) pour se faire comprendre.
+L’[[enchantement]] ne permet pas de diriger l’animal [[charme|charmé]] comme une marionnette, mais celui-ci perçoit toutefois tout ce que dit et fait le personnage de la manière la plus favorable qui soit. Le personnage peut essayer de lui donner des instructions, mais il lui faut réussir un test de [[Charisme]] opposé pour convaincre le sujet de faire quelque chose qui lui déplaît (une seule chance). Un animal [[charme|charmé]] n’obéit jamais à un ordre suicidaire, mais on peut le convaincre que le risque vaut le coup. Tout acte du personnage ou de ses alliés menaçant le sujet met immédiatement un terme au sort. Notez qu’il faut parler la langue de l'animal [[charme|charmé]] (ou être fort en [[représentation|mime]]) pour se faire comprendre.
 
-(((Ce sort fonctionne sur le même principe que *[charme-personne](./Charme-personne.md)*, excepté le fait qu’il affecte une créature de [type animal](./type Animal.md).)))
+(((Ce sort fonctionne sur le même principe que *[[charme-personne]]*, excepté le fait qu’il affecte une créature de [[type animal]].)))

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#FEROCITEINSPIREE
 ---
 
->>> [pouvoirs de rage#FEROCITEINSPIREE](./Pouvoirs de rage.md#FEROCITEINSPIREE)
+>>> [[pouvoirs de rage#FEROCITEINSPIREE]]

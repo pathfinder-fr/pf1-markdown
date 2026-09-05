@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 26 po ; **Poids** 15,5 kg
-<span class="Catégorie">**Catégorie** [Trousses d'équipement](./Trousses déquipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
 ---
-Cette trousse comprend un [sac à dos](./Sac à dos (objet).md), un [sac de couchage](./Sac de couchage (objet).md), une [bourse](./Bourse (objet).md), un [silex et une amorce](./Silex et amorce (objet).md), une [trousse d'armurier](./Trousse darmurier (objet).md), une [marmite en fer](./Marmite (objet).md), un [kit repas](./Kit repas (objet).md), une [corne à poudre](./Corne à poudre (objet).md), une [corde](./Corde (objet).md), des [torches](./Torche (objet).md) (10), des [rations de survie](./Rations de survie (objet).md) (5 jours) et une [outre](./Outre (objet).md).
+Cette trousse comprend un [[Sac à dos (objet)|sac à dos]], un [[Sac de couchage (objet)|sac de couchage]], une [[Bourse (objet)|bourse]], un [[Silex et amorce (objet)|silex et une amorce]], une [[Trousse darmurier (objet)|trousse d'armurier]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], une [[Corne à poudre (objet)|corne à poudre]], une [[Corde (objet)|corde]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].

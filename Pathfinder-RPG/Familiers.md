@@ -11,175 +11,175 @@ Categories:
 
 *Un familier est un animal adopté par un lanceur de sorts dans le but de l’aider dans son étude de la magie.*
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#12) Ensorceleur/Magicien : Puis-je révoquer mon familier afin d’en choisir un nouveau ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#12|→]] Ensorceleur/Magicien : Puis-je révoquer mon familier afin d’en choisir un nouveau ?***
 
-Ce n’est indiqué nul part dans les règles, mais oui, un personnage devrait être capable de révoquer un <u>[familier](./Familiers.md)</u> s’il veut en choisir un nouveau. En revanche, il doit toujours attendre une semaine et payer 200 po pour le rituel de 8 heures. Révoquer un familier revient à briser un lien entre l’âme du personnage et celle du familier, donc cela devrait probablement prendre environ une heure.
+Ce n’est indiqué nul part dans les règles, mais oui, un personnage devrait être capable de révoquer un <u>[[Familiers|familier]]</u> s’il veut en choisir un nouveau. En revanche, il doit toujours attendre une semaine et payer 200 po pour le rituel de 8 heures. Révoquer un familier revient à briser un lien entre l’âme du personnage et celle du familier, donc cela devrait probablement prendre environ une heure.
 
-L’exception à la précision ci-dessus est si le personnage prend le don [Familier supérieur](./Familier supérieur.md), qui lui permet de remplacer immédiatement son familier par le nouveau, sans coût ni temps requis (on part du principe que ça se produit pendant les préparations faites pour la montée de niveau).
+L’exception à la précision ci-dessus est si le personnage prend le don [[Familier supérieur]], qui lui permet de remplacer immédiatement son familier par le nouveau, sans coût ni temps requis (on part du principe que ça se produit pendant les préparations faites pour la montée de niveau).
 
 Une fois révoqué, un familier animal est un animal normal de son type (un familier spécial du don Familier supérieur retourne à l’état d’une créature normale de ce type). Qu’il souhaite rester ou non avec le personnage revient au MJ et se basera probablement sur la manière dont le personnage traitait la créature quand elle était son familier.
 ---
-***[→](./FAQ- Manuel des joueurs (Races et classes).md#13) Familier et invisibilité : Si j'utilise mon familier pour délivrer un sort de contact alors que je suis invisible, est-ce que cela met fin à mon invisibilité ?***
+***[[FAQ- Manuel des joueurs (Races et classes)#13|→]] Familier et invisibilité : Si j'utilise mon familier pour délivrer un sort de contact alors que je suis invisible, est-ce que cela met fin à mon invisibilité ?***
 
-Non. Le <u>[familier](./Familiers.md)</u> d'un personnage n'est pas lui, et un familier qui attaque n'est pas la même chose qu'un personnage qui attaque. En conséquence, l'[invisibilité](./Capacités spéciales.md#INVISIBILITE) du personnage n'est pas affectée.}Il conserve l’apparence, les [dés de vie](./dés de vie.md), le [bonus de base à l’attaque](./BBA.md), les bonus de base aux [jets de sauvegarde](./jet de sauvegarde.md), les [compétences](./Compétences.md) et les [dons](./Dons.md) de l’animal normal qu’il était autrefois mais est désormais considéré comme une [créature magique](./type Créature magique.md) lorsqu’il s’agit de lui appliquer des effets qui dépendent du type de créature. Seul un animal normal sans modification spéciale peut devenir un familier. Un animal ne peut être à la fois [compagnon animal](./compagnon animal.md) et familier.
+Non. Le <u>[[Familiers|familier]]</u> d'un personnage n'est pas lui, et un familier qui attaque n'est pas la même chose qu'un personnage qui attaque. En conséquence, l'[[Capacités spéciales#INVISIBILITE|invisibilité]] du personnage n'est pas affectée.}Il conserve l’apparence, les [[dés de vie]], le [[BBA|bonus de base à l’attaque]], les bonus de base aux [[jet de sauvegarde|jets de sauvegarde]], les [[compétences]] et les [[dons]] de l’animal normal qu’il était autrefois mais est désormais considéré comme une [[type Créature magique|créature magique]] lorsqu’il s’agit de lui appliquer des effets qui dépendent du type de créature. Seul un animal normal sans modification spéciale peut devenir un familier. Un animal ne peut être à la fois [[compagnon animal]] et familier.
 
-Un familier octroie certaines [capacités spéciales](./Capacités spéciales.md) à son maître, comme indiqué dans la table ci-dessous. Ces [capacités spéciales](./Capacités spéciales.md) ne fonctionnent que lorsque le maître et le familier se trouvent à moins de 1,5 km l’un de l’autre.
+Un familier octroie certaines [[capacités spéciales]] à son maître, comme indiqué dans la table ci-dessous. Ces [[capacités spéciales]] ne fonctionnent que lorsque le maître et le familier se trouvent à moins de 1,5 km l’un de l’autre.
 
 Les niveaux des différentes classes qui donnent droit à un familier se cumulent pour déterminer les pouvoirs spéciaux du familier qui dépendent du niveau de son maître.
 
 Si un personnage perd son familier, que celui-ci meurt ou est renvoyé, il peut le remplacer une semaine plus tard en accomplissant un rituel spécifique qui coûte 200 po par niveau du maître et prend huit heures.
 
-Un jeteur de sorts avec le don [Familier supérieur](./Familier supérieur.md) peut avoir accès à d'autres familiers.
+Un jeteur de sorts avec le don [[Familier supérieur]] peut avoir accès à d'autres familiers.
 
 {| CLASS="tablo centre autoalt toutgauche"
 |+ Les familiers et les capacités spéciales
 |- CLASS="titre"
 | Familier  || Capacité spéciale
 |- CLASS="premier"
-| [Araignée écarlate](./Araignée écarlate.md)<sup>*UM* *B4*</sup> || Le maître gagne un bonus de +3 aux tests d’[Escalade](./Escalade.md).
+| [[Araignée écarlate]]<sup>*UM* *B4*</sup> || Le maître gagne un bonus de +3 aux tests d’[[Escalade]].
 |-
-| [Archéoptéryx](./Archéoptéryx.md)<sup>*B4*</sup> || Le maître obtient un bonus de +2 aux jets de [Réflexes](./Réflexes.md).
+| [[Archéoptéryx]]<sup>*B4*</sup> || Le maître obtient un bonus de +2 aux jets de [[Réflexes]].
 |-
-| [Belette](./Belette.md) || Le maître obtient un bonus de +2 aux jets de [Réflexes](./Réflexes.md).
+| [[Belette]] || Le maître obtient un bonus de +2 aux jets de [[Réflexes]].
 |-
-| [Caïman nain](./Caïman nain.md)<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests de [Discrétion](./Discrétion.md).
+| [[Caïman nain]]<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests de [[Discrétion]].
 |-
-| [Chat](./Chat.md) || Le maître obtient un bonus de +3 aux tests de [Discrétion](./Discrétion.md).
+| [[Chat]] || Le maître obtient un bonus de +3 aux tests de [[Discrétion]].
 |-
-| [Chat Mau](./Chat Mau.md)<sup>*W12*</sup> || Le maître obtient un bonus de +4 aux tests d' [Initiative](./initiative.md).
+| [[Chat Mau]]<sup>*W12*</sup> || Le maître obtient un bonus de +4 aux tests d' [[Initiative]].
 |-
-| [Chauve-souris](./Chauve-souris.md) || Le maître obtient un bonus de +3 aux tests de [Vol](./Vol.md).
+| [[Chauve-souris]] || Le maître obtient un bonus de +3 aux tests de [[Vol]].
 |-
-| [Chèvre](./Chèvre.md)<sup>*UM* *B3*</sup> || Le maître obtient un bonus de +3 aux tests de [Survie](./Survie.md).
+| [[Chèvre]]<sup>*UM* *B3*</sup> || Le maître obtient un bonus de +3 aux tests de [[Survie]].
 |-
-| [Chouette](./Chouette.md)  || Le maître obtient un bonus de +3 aux tests de [Perception](./Perception.md)   
+| [[Chouette]]  || Le maître obtient un bonus de +3 aux tests de [[Perception]]   
 opposés ou dépendant de la vue dans l’obscurité ou les zones d’ombres.
 |-
-| [Cochon](./Cochon.md)<sup>*UM* *B3*</sup>  || Le maître obtient un bonus de +3 aux tests de [Diplomatie](./Diplomatie.md).
+| [[Cochon]]<sup>*UM* *B3*</sup>  || Le maître obtient un bonus de +3 aux tests de [[Diplomatie]].
 |-
-| [Compsognathus](./Compsognathus.md)<sup>*B2*</sup> || Le maître obtient un bonus de +4 aux jets d’[Initiative](./initiative.md).
+| [[Compsognathus]]<sup>*B2*</sup> || Le maître obtient un bonus de +4 aux jets d’[[Initiative]].
 |-
-| [Corbeau](./Corbeau.md)<sup>*</sup> || Le maître obtient un bonus de +3 aux tests d’[Estimation](./Estimation.md).
+| [[Corbeau]]<sup>*</sup> || Le maître obtient un bonus de +3 aux tests d’[[Estimation]].
 |-
-| [Dauphin](./Dauphin.md)<sup>*UM*</sup> || Le maître gagne un bonus de +3 aux tests de [Natation](./Natation.md).
+| [[Dauphin]]<sup>*UM*</sup> || Le maître gagne un bonus de +3 aux tests de [[Natation]].
 |-
-| [Dauphin popoto|Dauphin, popoto]<sup>*FF*</sup> || Le maître gagne un bonus de +3 aux tests de [Natation](./Natation.md).
+| [[Dauphin popoto|Dauphin, popoto]]<sup>*FF*</sup> || Le maître gagne un bonus de +3 aux tests de [[Natation]].
 |-
-| [Dodo](./Dodo.md)<sup>*B4*</sup> || Le maître obtient un bonus de +4 aux jets d’[Initiative](./initiative.md).
+| [[Dodo]]<sup>*B4*</sup> || Le maître obtient un bonus de +4 aux jets d’[[Initiative]].
 |-
-| [Crapaud](./Crapaud.md)  || Le maître obtient +3 [points de vie](./pv.md).
+| [[Crapaud]]  || Le maître obtient +3 [[pv|points de vie]].
 |-
-| [Écureuil volant](./Écureuil volant.md)<sup>*B3*</sup> || Le maître gagne un bonus de +3 aux tests de [Vol](./Vol.md).
+| [[Écureuil volant]]<sup>*B3*</sup> || Le maître gagne un bonus de +3 aux tests de [[Vol]].
 |-
-| [Ermine](./Ermine.md)<sup>*B3*</sup> || Le maître obtient un bonus de +2 aux jets de [Réflexes](./Réflexes.md).
+| [[Ermine]]<sup>*B3*</sup> || Le maître obtient un bonus de +2 aux jets de [[Réflexes]].
 |-
-| [Fennec](./Fennec.md)<sup>*W12*</sup> || Le maître obtient le don [Habitant du désert](./Habitant du désert.md).
+| [[Fennec]]<sup>*W12*</sup> || Le maître obtient le don [[Habitant du désert]].
 |-
-| [Faucon](./Faucon.md)  || Le maître obtient un bonus de +3 aux tests de [Perception](./Perception.md)   
+| [[Faucon]]  || Le maître obtient un bonus de +3 aux tests de [[Perception]]   
 opposés ou dépendant de la vue sous une lumière vive.
 |-
-| [Grenouille venimeuse](./Crapaud venimeux.md)  || Le maître obtient un bonus de +3 aux tests d’[Acrobaties](./Acrobaties.md).
+| [[Crapaud venimeux|Grenouille venimeuse]]  || Le maître obtient un bonus de +3 aux tests d’[[Acrobaties]].
 |-
-| [Grive](./Grive.md)<sup>*</sup> <sup>*UM*</sup> || Le maître obtient un bonus de +3 aux tests de [Diplomatie](./Diplomatie.md).
+| [[Grive]]<sup>*</sup> <sup>*UM*</sup> || Le maître obtient un bonus de +3 aux tests de [[Diplomatie]].
 |-
-| [Hérisson](./Hérisson.md)<sup>*UM*</sup> || Le maître obtient un bonus de +2 aux tests de [Volonté](./Volonté.md).
+| [[Hérisson]]<sup>*UM*</sup> || Le maître obtient un bonus de +2 aux tests de [[Volonté]].
 |-
-| [Hibou](./Grand-duc.md)<sup>*B3*</sup> || Le maître obtient un bonus de +3 aux tests de [Discrétion](./Discrétion.md).
+| [[Grand-duc|Hibou]]<sup>*B3*</sup> || Le maître obtient un bonus de +3 aux tests de [[Discrétion]].
 |-
-| [Isopode géant](./Isopode géant.md)<sup>*UW*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [CA](./CA.md).
+| [[Isopode géant]]<sup>*UW*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].
 |-
-| [Kakapo](./Kakapo.md)<sup>*FF*</sup> || Le maître obtient +3 aux tests de [Escalade](./Escalade.md).
+| [[Kakapo]]<sup>*FF*</sup> || Le maître obtient +3 aux tests de [[Escalade]].
 |-
-| [Koala](./Koala.md)<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests d’[Escalade](./Escalade.md).
+| [[Koala]]<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests d’[[Escalade]].
 |-
-| [Lagopède](./Lagopède.md)<sup>*RWPG*</sup> || Le maître obtient un bonus de +3 aux tests de [Discrétion](./Discrétion.md).
+| [[Lagopède]]<sup>*RWPG*</sup> || Le maître obtient un bonus de +3 aux tests de [[Discrétion]].
 |-
-| [Lemming](./Lemming.md)<sup>*RWPG*</sup> || Le maître obtient un bonus de +2 aux jets de [Vigueur](./Vigueur.md).
+| [[Lemming]]<sup>*RWPG*</sup> || Le maître obtient un bonus de +2 aux jets de [[Vigueur]].
 |-
-| [Limace léopard](./Limace léopard.md)<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests d’[Escalade](./Escalade.md).
+| [[Limace léopard]]<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests d’[[Escalade]].
 |-
-| [Loutre](./Loutre.md)<sup>*FF*</sup> || Le maître gagne un bonus de +3 aux tests de [Natation](./Natation.md).
+| [[Loutre]]<sup>*FF*</sup> || Le maître gagne un bonus de +3 aux tests de [[Natation]].
 |-
-| [Manchot](./Manchot.md)<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests de [Natation](./Natation.md).
+| [[Manchot]]<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests de [[Natation]].
 |-
-| [Mara](./Rat-âne.md)<sup>*UM*</sup> || Le maître obtient un bonus de +2 aux jets de [Vigueur](./Vigueur.md).
+| [[Rat-âne|Mara]]<sup>*UM*</sup> || Le maître obtient un bonus de +2 aux jets de [[Vigueur]].
 |-
-| [Macareux](./Macareux.md)<sup>*UM*</sup> || Le maître gagne un bonus de +3 aux tests de [Natation](./Natation.md).
+| [[Macareux]]<sup>*UM*</sup> || Le maître gagne un bonus de +3 aux tests de [[Natation]].
 |-
-| [Mille-pattes domestique](./Mille-pattes domestique.md)<sup>*UM*</sup> || Le maître obtient un bonus de +3 aux tests de [Discrétion](./Discrétion.md).
+| [[Mille-pattes domestique]]<sup>*UM*</sup> || Le maître obtient un bonus de +3 aux tests de [[Discrétion]].
 |-
-| [Ornithorynque](./Ornithorynque.md)<sup>*B4*</sup> || Le maître obtient +3 aux tests de [Natation](./Natation.md).
+| [[Ornithorynque]]<sup>*B4*</sup> || Le maître obtient +3 aux tests de [[Natation]].
 |-
-| [Paon](./Paon.md)<sup>*FF*</sup> || Le maître obtient +3 aux tests de [Escalade](./Escalade.md).
+| [[Paon]]<sup>*FF*</sup> || Le maître obtient +3 aux tests de [[Escalade]].
 |-
-| [Paresseux](./Paresseux.md)<sup>*B4*</sup> || Le maître obtient +3 aux tests de [Intimidation](./Intimidation.md).
+| [[Paresseux]]<sup>*B4*</sup> || Le maître obtient +3 aux tests de [[Intimidation]].
 |-
-| [Petit panda](./Petit panda.md)<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests d'[Acrobaties](./Acrobaties.md).
+| [[Petit panda]]<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests d'[[Acrobaties]].
 |-
-| [Pétrifougère](./Pétrifougère.md)<sup>*FF*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [CA](./CA.md).
+| [[Pétrifougère]]<sup>*FF*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].
 |-
-| [Phoque](./Phoque.md)<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests de [Natation](./Natation.md).
+| [[Phoque]]<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests de [[Natation]].
 |-
-| [Pieuvre à anneaux bleus](./Pieuvre à anneaux bleus.md)<sup>*UM*</sup> || Le maître obtient +3 aux tests de [Natation](./Natation.md).
+| [[Pieuvre à anneaux bleus]]<sup>*UM*</sup> || Le maître obtient +3 aux tests de [[Natation]].
 |-
-| [Porc-épic](./Porc-épic.md)<sup>*B3*</sup> ||  Le maître gagne un bonus d’armure naturelle de +1 à la [CA](./CA.md).
+| [[Porc-épic]]<sup>*B3*</sup> ||  Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].
 |-
-| [Poulet](./Poulet.md)<sup>*B5*</sup> || Le maître obtient +3 [points de vie](./pv.md).
+| [[Poulet]]<sup>*B5*</sup> || Le maître obtient +3 [[pv|points de vie]].
 |-
-| [Puce géante](./Puce géante.md)<sup>*B4*</sup> ||  Le maître gagne un bonus de +3 aux jets de sauvegarde contre la maladie.
+| [[Puce géante]]<sup>*B4*</sup> ||  Le maître gagne un bonus de +3 aux jets de sauvegarde contre la maladie.
 |-
-| [Rat](./Rat.md)  || Le maître obtient un bonus de +2 aux jets de [Vigueur](./Vigueur.md).
+| [[Rat]]  || Le maître obtient un bonus de +2 aux jets de [[Vigueur]].
 |-
-| [Raton laveur](./Raton laveur.md)<sup>*UM*</sup> || Le maître obtient un bonus de +3 aux tests de [Escamotage](./Escamotage.md).
+| [[Raton laveur]]<sup>*UM*</sup> || Le maître obtient un bonus de +3 aux tests de [[Escamotage]].
 |-
-| [Renard](./Renard.md)<sup>*UM* *B3*</sup> || Le maître obtient un bonus de +2 aux jets de [Réflexes](./Réflexes.md).
+| [[Renard]]<sup>*UM* *B3*</sup> || Le maître obtient un bonus de +2 aux jets de [[Réflexes]].
 |-
-| [Rhamphorhynchus](./Rhamphorhynchus.md)<sup>*PAP*</sup> || Le maître obtient un bonus de +2 aux jets d’[Initiative](./initiative.md).
+| [[Rhamphorhynchus]]<sup>*PAP*</sup> || Le maître obtient un bonus de +2 aux jets d’[[Initiative]].
 |-
-| [Roussette](./Roussette.md)<sup>*B5*</sup> || Le maître obtient un bonus de +2 aux jets de [Vigueur](./Vigueur.md).
+| [[Roussette]]<sup>*B5*</sup> || Le maître obtient un bonus de +2 aux jets de [[Vigueur]].
 |-
-| [Scorpion vert](./Scorpion vert.md)<sup>*UM* *B4*</sup> || Le maître obtient un bonus de +4 aux jets d’[Initiative](./initiative.md).
+| [[Scorpion vert]]<sup>*UM* *B4*</sup> || Le maître obtient un bonus de +4 aux jets d’[[Initiative]].
 |-
-| [Singe](./Singe.md)  || Le maître obtient un bonus de +3 aux tests d’[Acrobaties](./Acrobaties.md).
+| [[Singe]]  || Le maître obtient un bonus de +3 aux tests d’[[Acrobaties]].
 |-
-| [Tatou](./Tatou.md)<sup>*AA*</sup> || Le maître obtient un bonus d’armure naturelle de +1 à la [CA](./CA.md).
+| [[Tatou]]<sup>*AA*</sup> || Le maître obtient un bonus d’armure naturelle de +1 à la [[CA]].
 |-
-| [Tétraodon](./Tetraodon.md)<sup>*FF*</sup> || Le maître obtient un bonus de +2 aux jets de [Vigueur](./Vigueur.md).
+| [[Tetraodon|Tétraodon]]<sup>*FF*</sup> || Le maître obtient un bonus de +2 aux jets de [[Vigueur]].
 |-
-| [Taupe](./Taupe.md)<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests de [Perception](./Perception.md)   
+| [[Taupe]]<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests de [[Perception]]   
 basés sur le touché, l'odorat, et le goût.
 |-
-| [Trilobite](./Trilobite.md)<sup>*B5*</sup> || Le maître obtient un bonus d’armure naturelle de +1 à la [CA](./CA.md).
+| [[Trilobite]]<sup>*B5*</sup> || Le maître obtient un bonus d’armure naturelle de +1 à la [[CA]].
 |-
-| [Sphénodon](./Tuatara.md)<sup>*B4*</sup> || Le maître obtient un bonus de +3 aux tests de [Survie](./Survie.md).
+| [[Tuatara|Sphénodon]]<sup>*B4*</sup> || Le maître obtient un bonus de +3 aux tests de [[Survie]].
 |-
-| [Tortue happante](./Tortue happante.md)<sup>*B2*</sup> || Le maître gagne un bonus de +2 aux jets de [Vigueur](./Vigueur.md).
+| [[Tortue happante]]<sup>*B2*</sup> || Le maître gagne un bonus de +2 aux jets de [[Vigueur]].
 |-
-| [Tortue de mer](./Tortue.md)<sup>*UM*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [CA](./CA.md).
+| [[Tortue|Tortue de mer]]<sup>*UM*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].
 |-
-| [Tourteau](./Crabe royal.md)<sup>*UM*</sup> || Le maître gagne un bonus de +2 aux tests de [BMO](./BMO.md) pour démarrer et maintenir une [lutte](./lutte.md).
+| [[Crabe royal|Tourteau]]<sup>*UM*</sup> || Le maître gagne un bonus de +2 aux tests de [[BMO]] pour démarrer et maintenir une [[lutte]].
 |-
-| [Vipère](./Vipère.md) || Le maître obtient un bonus de +3 aux tests de [Bluff](./Bluff.md).
+| [[Vipère]] || Le maître obtient un bonus de +3 aux tests de [[Bluff]].
 |-
-| [Wallaby](./Wallaby.md)<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests d'[Acrobaties](./Acrobaties.md).
+| [[Wallaby]]<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests d'[[Acrobaties]].
 |-
-| [Wyrd Ioun|Wyrd Ioun]<sup>*FF*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [CA](./CA.md).
+| [[Wyrd Ioun]]<sup>*FF*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].
 |-
 | COLSPAN="3" CLASS="note" | *(*) Un familier corbeau ou grive peut parler une langue (choisie par son maître). C’est un pouvoir surnaturel.*
 |}
 
 ### Profil des familiers
-Pour déterminer le profil du familier, partez de celui d’une créature de la même espèce (comme présenté dans le *[Bestiaire](./Liste alphabétique des monstres.md)*) puis apportez-y les modifications suivantes.
+Pour déterminer le profil du familier, partez de celui d’une créature de la même espèce (comme présenté dans le *[[Liste alphabétique des monstres|Bestiaire]]*) puis apportez-y les modifications suivantes.
 
-**Dés de vie.** Pour tous les effets liés au nombre de [DV](./../Ressources/DV.md), substituez le niveau du maître au nombre de [DV](./../Ressources/DV.md) du familier (ou conservez le nombre de [DV](./../Ressources/DV.md) de la créature s’il est plus élevé).
+**Dés de vie.** Pour tous les effets liés au nombre de [[DV]], substituez le niveau du maître au nombre de [[DV]] du familier (ou conservez le nombre de [[DV]] de la créature s’il est plus élevé).
 
-**Points de vie.** Quel que soit son nombre de [DV](./../Ressources/DV.md), le familier a la moitié des points de vie de son maître (en arrondissant à l’entier inférieur et sans compter les [points de vie temporaires](./points de vie temporaires.md)).
+**Points de vie.** Quel que soit son nombre de [[DV]], le familier a la moitié des points de vie de son maître (en arrondissant à l’entier inférieur et sans compter les [[points de vie temporaires]]).
 
-**Attaques.** Utilisez le [bonus de base à l’attaque](./BBA.md) du maître (en tenant compte de toutes ses classes) et ajoutez-y le modificateur de [Force](./Force.md) ou de [Dextérité](./Dextérité.md) du familier (prenez le plus élevé des deux) pour déterminer les bonus d’attaque au corps à corps correspondant aux attaques naturelles du familier. Les dégâts infligés sont les mêmes que pour un animal de l’espèce du familier.
+**Attaques.** Utilisez le [[BBA|bonus de base à l’attaque]] du maître (en tenant compte de toutes ses classes) et ajoutez-y le modificateur de [[Force]] ou de [[Dextérité]] du familier (prenez le plus élevé des deux) pour déterminer les bonus d’attaque au corps à corps correspondant aux attaques naturelles du familier. Les dégâts infligés sont les mêmes que pour un animal de l’espèce du familier.
 
-**Jets de sauvegarde.** Pour chaque catégorie de jet de sauvegarde, le familier utilise soit le bonus de base de son maître (en tenant compte de toutes les classes de celui-ci) soit le sien ([Réflexes](./Réflexes.md) +2, [Vigueur](./Vigueur.md) +2, [Volonté](./Volonté.md) +0) s’il est plus élevé. Le familier applique ses propres modificateurs de [caractéristiques](./Caractéristiques.md) aux jets de sauvegarde. Il ne profite pas des autres bonus aux jets de sauvegarde dont pourrait bénéficier son maître.
+**Jets de sauvegarde.** Pour chaque catégorie de jet de sauvegarde, le familier utilise soit le bonus de base de son maître (en tenant compte de toutes les classes de celui-ci) soit le sien ([[Réflexes]] +2, [[Vigueur]] +2, [[Volonté]] +0) s’il est plus élevé. Le familier applique ses propres modificateurs de [[caractéristiques]] aux jets de sauvegarde. Il ne profite pas des autres bonus aux jets de sauvegarde dont pourrait bénéficier son maître.
 
-**Compétences.** Pour chaque [compétence](./Compétences.md) dans laquelle le maître ou le familier a reçu une formation, utilisez soit le [degré de maîtrise](./degré de maîtrise.md) du maître soit celui d’un animal ordinaire de la même espèce que le familier si celui-ci est plus élevé. Dans tous les cas, le familier applique ses propres modificateurs de [caractéristiques](./Caractéristiques.md) aux [tests de compétence](./test de compétence.md). Cependant, le familier reste physiquement incapable d’utiliser certaines [compétences](./Compétences.md) et ce quel que soit le modificateur associé. Les [compétences](./Compétences.md) suivantes sont considérées comme des [compétences de classe](./compétences de classe.md) pour le familier : [Acrobaties](./Acrobaties.md), [Discrétion](./Discrétion.md), [Escalade](./Escalade.md), [Natation](./Natation.md), [Perception](./Perception.md) et [Vol](./Vol.md).
+**Compétences.** Pour chaque [[compétences|compétence]] dans laquelle le maître ou le familier a reçu une formation, utilisez soit le [[degré de maîtrise]] du maître soit celui d’un animal ordinaire de la même espèce que le familier si celui-ci est plus élevé. Dans tous les cas, le familier applique ses propres modificateurs de [[caractéristiques]] aux [[test de compétence|tests de compétence]]. Cependant, le familier reste physiquement incapable d’utiliser certaines [[compétences]] et ce quel que soit le modificateur associé. Les [[compétences]] suivantes sont considérées comme des [[compétences de classe]] pour le familier : [[Acrobaties]], [[Discrétion]], [[Escalade]], [[Natation]], [[Perception]] et [[Vol]].
 
 ### Description des pouvoirs spéciaux des familiers
 
@@ -191,30 +191,30 @@ Tous les familiers possèdent des pouvoirs spéciaux ou accordent des capacités
 |- CLASS="titre"
 | Niveau de classe  
 du maître
-| [Ajustement  
-d’armure naturelle](./Familiers.md#AJUSTEMENTDARMURENATURELLE)
-| [Int](./Familiers.md#INTELLIGENCE)
+| [[Familiers#AJUSTEMENTDARMURENATURELLE|Ajustement  
+d’armure naturelle]]
+| [[Familiers#INTELLIGENCE|Int]]
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1-2
 | +1
 | 6
-| CLASS="gauche" | [Esquive surnaturelle](./Familiers.md#ESQUIVESURNATURELLE), [transfert de sorts](./Familiers.md#TRANSFERTDESORTS), [lien empathique](./Familiers.md#LIENEMPATHIQUE), [vigilance](./Familiers.md#VIGILANCE)
+| CLASS="gauche" | [[Familiers#ESQUIVESURNATURELLE|Esquive surnaturelle]], [[Familiers#TRANSFERTDESORTS|transfert de sorts]], [[Familiers#LIENEMPATHIQUE|lien empathique]], [[Familiers#VIGILANCE|vigilance]]
 |- CLASS="alt"
 | 3-4
 | +2
 | 7
-| CLASS="gauche" | [Conduit](./Familiers.md#CONDUIT)
+| CLASS="gauche" | [[Familiers#CONDUIT|Conduit]]
 |-
 | 5-6
 | +3
 | 8
-| CLASS="gauche" | [Communication avec le maître](./Familiers.md#COMMUNICATIONAVECLEMAITRE)
+| CLASS="gauche" | [[Familiers#COMMUNICATIONAVECLEMAITRE|Communication avec le maître]]
 |- CLASS="alt"
 | 7-8
 | +4
 | 9
-| CLASS="gauche" | [Communication avec les animaux de la même espèce](./Familiers.md#COMMUNICATIONAVECLESANIMAUXDELAMEMEESPECE)
+| CLASS="gauche" | [[Familiers#COMMUNICATIONAVECLESANIMAUXDELAMEMEESPECE|Communication avec les animaux de la même espèce]]
 |-
 | 9-10
 | +5
@@ -224,12 +224,12 @@ d’armure naturelle](./Familiers.md#AJUSTEMENTDARMURENATURELLE)
 | 11-12
 | +6
 | 11
-| CLASS="gauche" | [Résistance à la magie](./Familiers.md#RESISTANCEALAMAGIE)
+| CLASS="gauche" | [[Familiers#RESISTANCEALAMAGIE|Résistance à la magie]]
 |-
 | 13-14
 | +7
 | 12
-| CLASS="gauche" | [Scrutation sur le familier](./Familiers.md#SCRUTATIONSURLEFAMILIER)
+| CLASS="gauche" | [[Familiers#SCRUTATIONSURLEFAMILIER|Scrutation sur le familier]]
 |- CLASS="alt"
 | 15-16
 | +8
@@ -250,30 +250,30 @@ d’armure naturelle](./Familiers.md#AJUSTEMENTDARMURENATURELLE)
 
 {s:Reference|AJUSTEMENTDARMURENATURELLE}**Ajustement d’armure naturelle.** L’ajustement indiqué vient s’ajouter au bonus d’armure naturelle que le familier possède déjà.
 
-{s:Reference|INTELLIGENCE}**Int.** La valeur d’[Intelligence](./Intelligence.md) du familier.
+{s:Reference|INTELLIGENCE}**Int.** La valeur d’[[Intelligence]] du familier.
 
-{s:Reference|ESQUIVESURNATURELLE}**Esquive surnaturelle (Ext).** Si le familier est pris pour cible par une attaque autorisant un jet de [Réflexes](./Réflexes.md) pour réduire de moitié les dégâts occasionnés, il ne subit aucun dégât en cas de jet de sauvegarde réussi. Si le jet de sauvegarde échoue, l’attaque ne lui inflige que la moitié des dégâts normaux.
+{s:Reference|ESQUIVESURNATURELLE}**Esquive surnaturelle (Ext).** Si le familier est pris pour cible par une attaque autorisant un jet de [[Réflexes]] pour réduire de moitié les dégâts occasionnés, il ne subit aucun dégât en cas de jet de sauvegarde réussi. Si le jet de sauvegarde échoue, l’attaque ne lui inflige que la moitié des dégâts normaux.
 
-{s:Reference|TRANSFERTDESORTS}**Transfert de sorts.** Lorsque le [magicien](./Magicien.md) lance un sort dont la cible est « le jeteur de sorts », il peut choisir d’en appliquer les effets à son familier plutôt qu’à lui-même, comme s’il s’agissait d’un sort de contact. Cette capacité fonctionne même pour les sorts qui ne s’appliquent normalement pas aux créatures du type du familier ([créature magique](./type Créature magique.md)).
+{s:Reference|TRANSFERTDESORTS}**Transfert de sorts.** Lorsque le [[magicien]] lance un sort dont la cible est « le jeteur de sorts », il peut choisir d’en appliquer les effets à son familier plutôt qu’à lui-même, comme s’il s’agissait d’un sort de contact. Cette capacité fonctionne même pour les sorts qui ne s’appliquent normalement pas aux créatures du type du familier ([[type Créature magique|créature magique]]).
 
 {s:Reference|LIENEMPATHIQUE}**Lien empathique (Sur).** Le maître dispose d’un lien empathique avec son familier tant que celui-ci reste à moins de 1,5 km. Il ne voit pas par les yeux de la créature mais peut communiquer de manière empathique avec elle. À cause de la nature limitée du lien, seuls des sentiments généraux peuvent être transmis. En raison du lien unissant le familier à son maître, celui-ci a le même rapport que la créature à un lieu ou à un objet.
 
-{s:Reference|VIGILANCE}**Vigilance (Ext).** Tant que le familier se trouve à portée de main (au sens littéral), le personnage bénéficie des effets du don [Vigilance](./Vigilance.md).
+{s:Reference|VIGILANCE}**Vigilance (Ext).** Tant que le familier se trouve à portée de main (au sens littéral), le personnage bénéficie des effets du don [[Vigilance]].
 
 {s:Reference|CONDUIT}**Conduit (Sur).** Le familier d’un maître de niveau 3 peut placer les sorts de contact à sa place. Quand le personnage lance un sort de contact, il peut décider d’utiliser son familier comme conduit (il doit le toucher au moment de l’incantation). Le familier peut alors porter l’attaque de contact à la place de son maître. Comme d’habitude, si le personnage lance un autre sort avant que le familier ait eu le temps d’effectuer l’attaque de contact, l’énergie du premier sort se dissipe instantanément.
 
 {s:Reference|COMMUNICATIONAVECLEMAITRE}**Communication avec le maître (Ext).** Un maître de niveau 5 et son familier peuvent communiquer verbalement, comme s’ils utilisaient un langage que tous deux comprenaient. Les autres créatures ne peuvent cependant pas les comprendre sans assistance magique.
 
-{s:Reference|COMMUNICATIONAVECLESANIMAUXDELAMEMEESPECE}**Communication avec les animaux de la même espèce (Ext).** Le familier d’un maître de niveau 7 peut communiquer avec les animaux d’une espèce similaire à la sienne (y compris les versions sanguinaires) : ainsi, les belettes peuvent s’entretenir avec les animaux de la famille des mustélidés (belettes, blaireaux, gloutons, hermines, moufettes, putois et zibelines), les chats avec les félins, les chauves-souris avec les chauves-souris, les crapauds avec les amphibiens, les faucons, les corbeaux et les chouettes avec les oiseaux, les lézards et les serpents avec les reptiles, les rats avec les rongeurs, et les singes avec les autres simiens. Les sujets de conversation sont limités par l’[Intelligence](./Intelligence.md) des participants.
+{s:Reference|COMMUNICATIONAVECLESANIMAUXDELAMEMEESPECE}**Communication avec les animaux de la même espèce (Ext).** Le familier d’un maître de niveau 7 peut communiquer avec les animaux d’une espèce similaire à la sienne (y compris les versions sanguinaires) : ainsi, les belettes peuvent s’entretenir avec les animaux de la famille des mustélidés (belettes, blaireaux, gloutons, hermines, moufettes, putois et zibelines), les chats avec les félins, les chauves-souris avec les chauves-souris, les crapauds avec les amphibiens, les faucons, les corbeaux et les chouettes avec les oiseaux, les lézards et les serpents avec les reptiles, les rats avec les rongeurs, et les singes avec les autres simiens. Les sujets de conversation sont limités par l’[[Intelligence]] des participants.
 
 {s:Reference|RESISTANCEALAMAGIE}**Résistance à la magie (Ext).** À partir du moment où son maître atteint le niveau 11, le familier acquiert une résistance à la magie égale au niveau du maître + 5. Si un adversaire tente d’affecter le familier à l’aide d’un sort, il doit effectuer un test de niveau de lanceur de sorts (1d20 + niveau de lanceur de sorts) et obtenir un résultat au moins égal à la résistance à la magie du familier.
 
-{s:Reference|SCRUTATIONSURLEFAMILIER}**Scrutation sur le familier (Mag).** Une fois par jour, un maître de niveau 13 peut observer son familier à distance comme à l’aide du sort *[scrutation](./scrutation.md)*.
+{s:Reference|SCRUTATIONSURLEFAMILIER}**Scrutation sur le familier (Mag).** Une fois par jour, un maître de niveau 13 peut observer son familier à distance comme à l’aide du sort *[[scrutation]]*.
 
 {s:um}
 ### Les familiers de petite taille et les familiers vermines
-Les familiers TP et plus petits utilisent leur [modificateur](./Caractéristiques.md#DETERMINERLESMODIFICATEURS) de [Dextérité](./Dextérité.md) aux tests d’[Escalade](./Escalade.md) et de [Natation](./Natation.md).
+Les familiers TP et plus petits utilisent leur [[Caractéristiques#DETERMINERLESMODIFICATEURS|modificateur]] de [[Dextérité]] aux tests d’[[Escalade]] et de [[Natation]].
 
-Les familiers de petite taille menacent les cases autour d’eux comme des créatures de [taille P](./taille P.md). On peut les utiliser pour [prendre un ennemi en tenaille](./prise en tenaille.md), mais le familier et son maître rechignent à le faire car ce genre de tactique se termine souvent par la mort du familier. Il est également plus difficile pour le maître de garder sur lui un familier de [P](./taille P.md) plutôt que [TP ou moins](./taille TP.md) et pour cela, il doit souvent recourir à un [sac sans fond](./Sac sans fond.md).</br>
+Les familiers de petite taille menacent les cases autour d’eux comme des créatures de [[taille P]]. On peut les utiliser pour [[prise en tenaille|prendre un ennemi en tenaille]], mais le familier et son maître rechignent à le faire car ce genre de tactique se termine souvent par la mort du familier. Il est également plus difficile pour le maître de garder sur lui un familier de [[taille P|P]] plutôt que [[taille TP|TP ou moins]] et pour cela, il doit souvent recourir à un [[sac sans fond]].</br>
 
-Le processus qui permet de faire passer une vermine au rang de familier lui donne une valeur d’[Intelligence](./Intelligence.md) et la débarrasse de la particularité *dépourvue d’intelligence*. Les familiers vermines peuvent communiquer avec leur maître et avec les autres vermines de leur type (les scorpions verts avec les autres scorpions, les mille-pattes domestiques avec les autres mille-pattes et les araignées écarlates avec les autres araignées) grâce à une étrange combinaison de signes comportementaux, de légers changements de couleur et même d’odeurs, subtiles ou non. Comme pour tous les autres familiers, les autres créatures ne peuvent pas comprendre cette forme de communication sans recourir à la magie.
+Le processus qui permet de faire passer une vermine au rang de familier lui donne une valeur d’[[Intelligence]] et la débarrasse de la particularité *dépourvue d’intelligence*. Les familiers vermines peuvent communiquer avec leur maître et avec les autres vermines de leur type (les scorpions verts avec les autres scorpions, les mille-pattes domestiques avec les autres mille-pattes et les araignées écarlates avec les autres araignées) grâce à une étrange combinaison de signes comportementaux, de légers changements de couleur et même d’odeurs, subtiles ou non. Comme pour tous les autres familiers, les autres créatures ne peuvent pas comprendre cette forme de communication sans recourir à la magie.

@@ -8,7 +8,7 @@ Categories:
 - Ville
 ---
 
-Trunau est une petite cité agricole humaine située au sud de la Ligne des Hordes au [Belkzen](./Belkzen.md).
+Trunau est une petite cité agricole humaine située au sud de la Ligne des Hordes au [[Belkzen]].
 
 Lorsque les orques violèrent cette frontière au 46<sup>ème</sup> siècle AR, les citoyens de la ville refusèrent d'abandonner leur terre. Ils construisirent des palissades et des remparts de bois et défendirent les murs de leur ville avec une grande férocité. Les envahisseurs orques décidèrent de ne pas assiéger la ville, la nommèrent "Maison d'Homme" et commencèrent à l'éviter.
 

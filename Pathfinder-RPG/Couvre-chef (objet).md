@@ -7,8 +7,8 @@ Categories:
 - Src Pirates de la mer Intérieure
 ---
 
-{s:AE}**Prix** 1 pa–50 po ; **Poids** 0,25 kg–1 kg<sup>[1](./Vêtements.md#1)</sup>
-<span class="Catégorie">**Catégorie** [Vêtements](./Vêtements.md)</span>
+{s:AE}**Prix** 1 pa–50 po ; **Poids** 0,25 kg–1 kg<sup>[[Vêtements#1|1]]</sup>
+<span class="Catégorie">**Catégorie** [[Vêtements]]</span>
 ---
 Il existe différents types de couvre-chefs dans toutes les cultures. Ils vont du turban au tricorne en passant par la casquette en fourrure, et servent juste à couvrir la tête. Certains groupes religieux ou sociaux imposent le port de couvre-chefs particuliers. Un couvre-chef ayant une véritable utilité pratique, comme un tricorne, coûte généralement 2 pa.  
   

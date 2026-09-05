@@ -11,12 +11,12 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage est capable de réagir rapidement aux attaques.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise d'armure](./Dons.md#MAITRISEDARMURE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDARMURE|maîtrise d'armure]]
 
-**Conditions.** [Attaques réflexes](./Attaques réflexes.md), [Réactivité à toute épreuve](./Réactivité à toute épreuve.md), [BBA](./BBA.md) +11 ou [guerrier](./Guerrier.md) de niveau 8, capacité de classe [entrainement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES), formation au port des armures intermédiaires
+**Conditions.** [[Attaques réflexes]], [[Réactivité à toute épreuve]], [[BBA]] +11 ou [[guerrier]] de niveau 8, capacité de classe [[Guerrier#ENTRAINEMENTAUXARMURES|entrainement aux armures]], formation au port des armures intermédiaires
 
-**Avantage.** Le personnage peut utiliser [Réactivité à toute épreuve](./Réactivité à toute épreuve.md) plus d’une fois par round, mais pas plus d’une fois par action provoquant une [attaque d’opportunité](./AO.md). Chaque [pas de placement](./Pas de placement.md) effectué est toujours décompté de son nombre d'[attaques d’opportunité](./AO.md) du round.
+**Avantage.** Le personnage peut utiliser [[Réactivité à toute épreuve]] plus d’une fois par round, mais pas plus d’une fois par action provoquant une [[AO|attaque d’opportunité]]. Chaque [[pas de placement]] effectué est toujours décompté de son nombre d'[[AO|attaques d’opportunité]] du round.
 
 {s:AMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance pour utiliser ce don sans le décompter de son nombre d'[attaques d’opportunité](./AO.md) pour ce round.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance pour utiliser ce don sans le décompter de son nombre d'[[AO|attaques d’opportunité]] pour ce round.

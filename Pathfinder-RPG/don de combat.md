@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Dons#DONCOMBAT
 ---
 
->>> [Dons#DONCOMBAT](./Dons.md#DONCOMBAT)
+>>> [[Dons#DONCOMBAT]]

@@ -10,7 +10,7 @@ LastModified: 2017-01-19 15:47
 {s:pucem|Créature magique|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 290*}
 - **51 200 PX**
-- [Créature magique](./type Créature magique.md) de taille TG, N
+- [[type créature magique|Créature magique]] de taille TG, N
 - **Init **-1 ; **Sens **vision dans le noir 18 m, vision nocturne, odorat ; Perception +12
 (((Défense)))
 - **CA **29, contact 7, pris au dépourvu 29 (Dex -1, naturelle +22, taille -2)
@@ -25,8 +25,8 @@ LastModified: 2017-01-19 15:47
 (((Statistiques)))
 - **For **32, **Dex **9, **Con **21, **Int **2, **Sag **10, **Cha **7
 - **BBA **+22 ; **BMO **+35 (+37 en bousculade, +39 en renversement) ; **DMD **44 (46 contre la bousculade, 46 contre le renversement)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Charge renversante](./Charge renversante.md), [Course](./Course.md), [Endurance](./Endurance.md), [Renversement supérieur](./Renversement supérieur.md), [Robustesse](./Robustesse.md), [Science de la bousculade](./Science de la bousculade.md), [Science du renversement](./Science du renversement.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences **[Acrobaties](./Acrobaties.md) +6 (+18 pour sauter), [Natation](./Natation.md) +23, [Perception](./Perception.md) +12, [Survie](./Survie.md) +4
+- **Dons **[[Attaque en puissance]], [[Attaques multiples]], [[Charge renversante]], [[Course]], [[Endurance]], [[Renversement supérieur]], [[Robustesse]], [[Science de la bousculade]], [[Science du renversement]], [[Vigueur surhumaine]], [[Volonté de fer]]
+- **Compétences **[[Acrobaties]] +6 (+18 pour sauter), [[Natation]] +23, [[Perception]] +12, [[Survie]] +4
 - **Modificateurs raciaux** +12 en Acrobaties pour sauter, +4 en Natation
 - **Particularités **buté
 (((Écologie)))

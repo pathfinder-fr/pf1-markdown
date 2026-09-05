@@ -11,8 +11,8 @@ Categories:
 
 {s:RSE}*Le personnage peut utiliser sa chaîne cloutée comme une arme et une armure.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 15, [Arme de prédilection](./Arme de prédilection.md) (chaîne cloutée)
+**Conditions.** [[Dex]] 15, [[Arme de prédilection]] (chaîne cloutée)
 
-**Avantages.** Lorsqu’il manie une [chaîne cloutée](./chaîne cloutée (arme).md), le personnage gagne un bonus de bouclier de +1 à la [CA](./CA.md). Lorsqu’il se [bat sur la défensive](./combat sur la défensive.md) ou en [défense totale](./défense totale.md), ce bonus de bouclier passe à +2.
+**Avantages.** Lorsqu’il manie une [[chaîne cloutée (arme)|chaîne cloutée]], le personnage gagne un bonus de bouclier de +1 à la [[CA]]. Lorsqu’il se [[combat sur la défensive|bat sur la défensive]] ou en [[défense totale]], ce bonus de bouclier passe à +2.

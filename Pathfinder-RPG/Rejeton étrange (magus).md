@@ -10,18 +10,18 @@ Categories:
 {s:Menuarchétypemagus}{s:mca}*À la différence des magus typiques, les rejetons étranges n’étudient pas les grimoires et ne passent pas leur temps à apprendre comment associer leurs compétences magiques et martiales. Au lieu de cela, les rejetons étranges développent de manière instinctive leurs sorts et leurs aptitudes.*
 
 #### Sorts
-Un rejeton étrange lance les sorts profanes indiqués dans la [liste des sorts de magus](./Liste des sorts de magus.md). Il lance les sorts qu’il connait sans les préparer à l’avance. Pour apprendre ou lancer un sort, un rejeton étrange doit avoir une valeur de [Charisme](./Charisme.md) au moins égale à 10 + le niveau du sort.
+Un rejeton étrange lance les sorts profanes indiqués dans la [[liste des sorts de magus]]. Il lance les sorts qu’il connait sans les préparer à l’avance. Pour apprendre ou lancer un sort, un rejeton étrange doit avoir une valeur de [[Charisme]] au moins égale à 10 + le niveau du sort.
 
-Le [DD](./DD.md) des [jets de sauvegarde](./JDS.md) contre ces sorts est égal à 10 + le niveau du sort + le modificateur de Charisme du rejeton étrange.
+Le [[DD]] des [[jds|jets de sauvegarde]] contre ces sorts est égal à 10 + le niveau du sort + le modificateur de Charisme du rejeton étrange.
 
-Chaque jour, un rejeton étrange peut lancer un nombre limité de sorts de chaque niveau. Le nombre de sorts de base qu’il peut lancer chaque jour est identique à celui d’un [barde](./Barde.md) de même niveau. De plus, il reçoit des sorts supplémentaires qu’il peut lancer chaque jour s’il possède une valeur de Charisme élevée. La liste des sorts disponibles pour un rejeton étrange est limitée. Il possède le même nombre de sorts connus qu’un barde de même niveau et, comme le barde, il peut choisir des sorts nouveaux pour remplacer ceux qu’il connait déjà au niveau 5 et tous les trois niveaux par la suite. Voir la section sur le barde pour plus d’information sur la façon de changer des sorts connus.
+Chaque jour, un rejeton étrange peut lancer un nombre limité de sorts de chaque niveau. Le nombre de sorts de base qu’il peut lancer chaque jour est identique à celui d’un [[barde]] de même niveau. De plus, il reçoit des sorts supplémentaires qu’il peut lancer chaque jour s’il possède une valeur de Charisme élevée. La liste des sorts disponibles pour un rejeton étrange est limitée. Il possède le même nombre de sorts connus qu’un barde de même niveau et, comme le barde, il peut choisir des sorts nouveaux pour remplacer ceux qu’il connait déjà au niveau 5 et tous les trois niveaux par la suite. Voir la section sur le barde pour plus d’information sur la façon de changer des sorts connus.
 
 (((Le barde oublie alors un sort au profit d’un autre. Le niveau du nouveau sort doit être identique à celui du sort oublié, et il ne peut s’agir d’un sort appartenant au plus haut niveau de sorts accessible au barde. Un barde ne peut échanger qu’un seul sort à chaque fois, et doit choisir s’il procède à un échange au moment où il apprend de nouveaux sorts lors du passage de niveau.)))
 
 Cette aptitude remplace l’aptitude de sorts du magus.
 
 #### Lignage
-Un rejeton étrange acquiert un [lignage](./Lignages (sanguin).md) de [sanguin](./Sanguin.md). Ce lignage est choisi au niveau 1 et ne peut plus être changé par la suite. Le niveau de sanguin effectif d’un rejeton étrange vis-à-vis des pouvoirs de lignage est égal à son niveau de rejeton étrange. Il ne gagne pas de dons supplémentaires mais il gagne les sorts supplémentaires conférés par son lignage aux différents niveaux (voir l’aptitude de classe sorts supplémentaires ci-dessous).
+Un rejeton étrange acquiert un [[Lignages (sanguin)|lignage]] de [[sanguin]]. Ce lignage est choisi au niveau 1 et ne peut plus être changé par la suite. Le niveau de sanguin effectif d’un rejeton étrange vis-à-vis des pouvoirs de lignage est égal à son niveau de rejeton étrange. Il ne gagne pas de dons supplémentaires mais il gagne les sorts supplémentaires conférés par son lignage aux différents niveaux (voir l’aptitude de classe sorts supplémentaires ci-dessous).
 
 Pour utiliser une aptitude qui, normalement, fonctionne lorsque son utilisateur est en rage sanguine, un rejeton étrange doit dépenser un point de sa réserve étrange (voir ci-dessous).
 

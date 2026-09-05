@@ -12,17 +12,17 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[sonore](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 4, [Bard](./Barde.md) 4, [Dru](./Druide.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Occ](./Occultiste.md) 4, [Psy](./Psychiste.md) 5  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|sonore]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 4, [[Barde|Bard]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4, [[Psychiste|Psy]] 5  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[Composantes|V]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
 
-Le personnage perçoit le monde en émettant des sons très aigus et en écoutant leur écho. Il dispose alors de la [vision aveugle](./vision aveugle.md) dans un rayon de 12 mètres. Les bruits qui produisent des échos sont trop aigus pour que la plupart des créatures les entendent. Seuls les [dragons](./dragon.md) et les créatures dotées de ce pouvoir (comme les [chauves-souris](./Chauve-souris.md)) et les créatures dont la vision ou la [perception aveugle](./perception aveugle.md) se base sur l’ouïe peuvent le détecter. Le personnage ne peut pas utiliser ce pouvoir s'il est sourd et il ne détecte rien dans une zone de [silence](./Silence.md).
+Le personnage perçoit le monde en émettant des sons très aigus et en écoutant leur écho. Il dispose alors de la [[vision aveugle]] dans un rayon de 12 mètres. Les bruits qui produisent des échos sont trop aigus pour que la plupart des créatures les entendent. Seuls les [[dragon|dragons]] et les créatures dotées de ce pouvoir (comme les [[chauve-souris|chauves-souris]]) et les créatures dont la vision ou la [[perception aveugle]] se base sur l’ouïe peuvent le détecter. Le personnage ne peut pas utiliser ce pouvoir s'il est sourd et il ne détecte rien dans une zone de [[silence]].

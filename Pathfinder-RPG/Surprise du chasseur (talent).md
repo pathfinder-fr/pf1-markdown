@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#SURPRISEDUCHASSEUR
 ---
 
->>> [Talents#SURPRISEDUCHASSEUR](./Talents.md#SURPRISEDUCHASSEUR)
+>>> [[Talents#SURPRISEDUCHASSEUR]]

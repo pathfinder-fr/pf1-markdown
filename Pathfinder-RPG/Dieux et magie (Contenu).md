@@ -14,110 +14,110 @@ Traduit et publié en français par Black Book Editions sous le nom [Dieux et ma
 ### Objets magiques
 #### Anneaux
 <div class="article_3col">
-[Anneau guide de Droskar](./Anneau guide de Droskar.md) (modifié).
+[[Anneau guide de Droskar]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 #### Artefacts
 <div class="article_3col">
-[Bouclier brisé d'arnisant](./../Golarion/Bouclier dAroden.md) (modifié),
-[Grand cube extraordinaire](./Grand cube de Jayalakshmi.md),
-[Rapière de Vesper](./../Golarion/Rapière de Vesper.md) (modifié),
-[Source d'évolution](./Source cantorienne.md).
+[[Bouclier dAroden|Bouclier brisé d'arnisant]] (modifié),
+[[Grand cube de Jayalakshmi|Grand cube extraordinaire]],
+[[Rapière de Vesper]] (modifié),
+[[Source cantorienne|Source d'évolution]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Objets merveilleux====</div>
 <div class="article_3col">
 **Aucun (Sans emplacement).**
-[Choppe du héros ivre](./Choppe du héros ivre.md) (modifié),
-[Clé du deuxième coffre](./Clé du deuxième coffre.md) (modifié),
-[Cristal rhomboïde](./Cristal rhomboïde.md) (modifié),
-[Dague de bronze d'Érastil](./Dague de bronze dÉrastil.md) (modifié),
-[Dague sacrificielle de la mère sang](./Dague sacrificielle de la mère sang.md) (modifié),
-[Flasque du pourfendeur](./Flasque du pourfendeur.md) (modifié),
-[Icône de la sage-femme](./Icône de la sage-femme.md) (modifié),
-[Livre des cultes de Preklikin](./Livre des cultes de Preklikin.md) (modifié),
-[Marteau de forge du Père](./Marteau de forge du père.md) (modifié).
+[[Choppe du héros ivre]] (modifié),
+[[Clé du deuxième coffre]] (modifié),
+[[Cristal rhomboïde]] (modifié),
+[[Dague de bronze dÉrastil|Dague de bronze d'Érastil]] (modifié),
+[[Dague sacrificielle de la mère sang]] (modifié),
+[[Flasque du pourfendeur]] (modifié),
+[[Icône de la sage-femme]] (modifié),
+[[Livre des cultes de Preklikin]] (modifié),
+[[Marteau de forge du Père]] (modifié).
 
 **Corps.**
-[Oripeaux de la sorcière](./Oripeaux de la sorcière.md) (modifié),
-[Robe du maître des maîtres](./Robe du maître des maîtres.md) (modifié).
+[[Oripeaux de la sorcière]] (modifié),
+[[Robe du maître des maîtres]] (modifié).
 
 **Cou.**
-[Ambre de gaze](./Ambre de gaze.md) (modifié),
-[Cristal blafard](./Cristal blafard.md) (modifié),
-[Orbe du guide](./Orbe du guide.md) (modifié),
-[Pendentif azlant](./Pendentif azlant.md),
-[Pentacle à pointes d'Asmodéus](./Pentacle à pointes dAsmodéus.md) (modifié),
-[Pépite de Shad-Gorum](./Pépite de ShadGorum.md) (modifié),
-[Pierre nocturne de chagrin](./Pierre nocturne de chagrin.md) (modifié),
-[Stylet dard](./Stylet dard.md) (modifié),
-[Vurra du créateur](./Vurra du créateur.md) (modifié).
+[[Ambre de gaze]] (modifié),
+[[Cristal blafard]] (modifié),
+[[Orbe du guide]] (modifié),
+[[Pendentif azlant]],
+[[Pentacle à pointes dAsmodéus|Pentacle à pointes d'Asmodéus]] (modifié),
+[[Pépite de ShadGorum|Pépite de Shad-Gorum]] (modifié),
+[[Pierre nocturne de chagrin]] (modifié),
+[[Stylet dard]] (modifié),
+[[Vurra du créateur]] (modifié).
 
 **Épaules.**
-[Cape de la croisée](./Cape de la croisée.md) (modifié),
-[Cape de la sombre tapisserie](./Cape du ciel nocturne.md) (modifié),
-[Cape du grand héros barghest](./Cape du grand héros barghest.md) (modifié),
-[Cape du traqueur de mort](./Cape du traqueur de mort.md) (modifié),
-[Peau d'ours du briseur d'os](./Peau dours du briseur dos.md) (modifié).
+[[Cape de la croisée]] (modifié),
+[[Cape du ciel nocturne|Cape de la sombre tapisserie]] (modifié),
+[[Cape du grand héros barghest]] (modifié),
+[[Cape du traqueur de mort]] (modifié),
+[[Peau dours du briseur dos|Peau d'ours du briseur d'os]] (modifié).
 
 **Mains.**
-[Gantelet de l'Héritière](./Gantelet de lHéritière.md) (modifié).
+[[Gantelet de lHéritière|Gantelet de l'Héritière]] (modifié).
 
 **Pieds.**
-[Bottes de la Rose éternelle](./Bottes de la Rose éternelle.md) (modifié).
+[[Bottes de la Rose éternelle]] (modifié).
 
 **Poignets.**
-[Bracelet de vision](./Bracelet de vision.md) (modifié).
+[[Bracelet de vision]] (modifié).
 
 **Taille.**
-[Ceinture du Roi serpent](./Ceinture du Roi serpent.md) (modifié),
-[Chaînes brisées de la bête](./Chaînes brisées de la bête.md) (modifié),
-[Écharpe de la Fleur de l'Aube](./Écharpe de la Fleur de laube.md) (modifié),
-[Kilt de la vague de vent](./Kilt de la vague de vent.md) (modifié).
+[[Ceinture du Roi serpent]] (modifié),
+[[Chaînes brisées de la bête]] (modifié),
+[[Écharpe de la Fleur de laube|Écharpe de la Fleur de l'Aube]] (modifié),
+[[Kilt de la vague de vent]] (modifié).
 
 **Tête.**
-[Bicorne de Besmara](./Bicorne de Besmara.md) (modifié),
-[Masque de chair tranchante](./Masque de chair tranchante.md) (modifié),
-[Masque de la mère démone](./Masque de la mère démone.md) (modifié),
-[Masque sacré du dieu vivant](./Masque sacré du dieu vivant.md),
-[Voile des voiles](./Voile des voiles.md) (modifié).
+[[Bicorne de Besmara]] (modifié),
+[[Masque de chair tranchante]] (modifié),
+[[Masque de la mère démone]] (modifié),
+[[Masque sacré du dieu vivant]],
+[[Voile des voiles]] (modifié).
 </div>
 
 
 ### Options de classe
 #### Domaines de prêtre
 <div class="article_3col">
-[Reptiles et Amphibiens](./Domaine des Reptiles.md) (modifié),
-[Vide](./Domaine du Vide.md) (modifié).
+[[Domaine des Reptiles|Reptiles et Amphibiens]] (modifié),
+[[Domaine du Vide|Vide]] (modifié).
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Armure épineuse](./Armure de Gorum.md) (modifié),
-[Bénédiction du guet](./Bénédiction du guet.md) (modifié),
-[Blessure sympathique](./Blessure sympathique.md),
-[Bouclier de l'aube](./Bouclier de la fleur de laube.md) (modifié),
-[Canaliser la vigueur](./Canaliser la vigueur.md) (modifié),
-[Canaliser le don](./Canaliser le don.md) (modifié),
-[Choisis ton poison](./Choisis ton poison.md) (modifié),
-[Cœur indomptable](./Cœur incassable.md) (modifié),
-[Eaux de folie](./Eaux de Lamashtu.md) (modifié),
-[Explosion de gloire](./Explosion de gloire.md) (modifié),
-[Faim de la goule](./Faim de la goule.md) (modifié),
-[Flèche du Borgne](./Flèche du Borgne.md) (modifié),
-[Fureur de Rovagug](./Fureur de Rovagug.md) (modifié),
-[Guérison infernale](./Guérison diabolique.md) (modifié),
-[Guérison infernale suprême](./Guérison diabolique supérieure.md) (modifié),
-[Œuf empoisonné](./Œuf empoisonné.md) (modifié),
-[Os protecteur](./Os protecteur.md) (modifié),
-[Rêve vagabond](./Rêve vagabond.md),
-[Stratégie de repli](./Stratégie de repli.md) (modifié),
-[Trident de la nature](./Trident de Gozreh.md) (modifié),
-[Vengeance de l'amant](./Vengeance de lamoureux.md) (modifié),
-[Vérité d'Abadar](./Vérité dAbadar.md) (modifié).
+[[Armure de Gorum|Armure épineuse]] (modifié),
+[[Bénédiction du guet]] (modifié),
+[[Blessure sympathique]],
+[[Bouclier de la Fleur de laube|Bouclier de l'aube]] (modifié),
+[[Canaliser la vigueur]] (modifié),
+[[Canaliser le don]] (modifié),
+[[Choisis ton poison]] (modifié),
+[[Cœur incassable|Cœur indomptable]] (modifié),
+[[Eaux de Lamashtu|Eaux de folie]] (modifié),
+[[Explosion de gloire]] (modifié),
+[[Faim de la goule]] (modifié),
+[[Flèche du Borgne]] (modifié),
+[[Fureur de Rovagug]] (modifié),
+[[Guérison diabolique|Guérison infernale]] (modifié),
+[[Guérison diabolique supérieure|Guérison infernale suprême]] (modifié),
+[[Œuf empoisonné]] (modifié),
+[[Os protecteur]] (modifié),
+[[Rêve vagabond]],
+[[Stratégie de repli]] (modifié),
+[[Trident de Gozreh|Trident de la nature]] (modifié),
+[[Vengeance de lamoureux|Vengeance de l'amant]] (modifié),
+[[Vérité dAbadar|Vérité d'Abadar]] (modifié).
 </div>
 
 
@@ -128,37 +128,37 @@ Traduit et publié en français par Black Book Editions sous le nom de "Les cult
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat.
 <div class="article_3col">
-[Chaleur glorieuse](./Chaleur glorieuse.md) (modifié),
-[Charge du vertueux](./Charge du vertueux.md)* (modifié),
-[Convocation d'alliés agiles](./Convocation dalliés agiles.md) (modifié),
-[Dans le mille](./Dans le mille.md)* (modifié),
-[Danseur de la lance](./Danseur de la lance.md)* (modifié),
-[Dard du papillon](./Dard du papillon.md)* (modifié),
-[Exploit de sapeur](./Exploit de sapeur.md) (modifié),
-[Frappe du protecteur](./Frappe du protecteur.md) (modifié),
-[Guide divinatoire](./Guide divinatoire.md) (modifié),
-[Lecture de la pierre](./Lecture de la pierre.md) (modifié),
-[Lutteur ivre](./Lutteur ivre.md)* (modifié),
-[Messager de l'espoir](./Messager de lespoir.md) (modifié).
+[[Chaleur glorieuse]] (modifié),
+[[Charge du vertueux]]* (modifié),
+[[Convocation dalliés agiles|Convocation d'alliés agiles]] (modifié),
+[[Dans le mille]]* (modifié),
+[[Danseur de la lance]]* (modifié),
+[[Dard du papillon]]* (modifié),
+[[Exploit de sapeur]] (modifié),
+[[Frappe du protecteur]] (modifié),
+[[Guide divinatoire]] (modifié),
+[[Lecture de la pierre]] (modifié),
+[[Lutteur ivre]]* (modifié),
+[[Messager de lespoir|Messager de l'espoir]] (modifié).
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Armes contre le mal](./Armes contre le mal.md) (modifié),
-[Brume de rêves](./Brume de rêves.md) (modifié),
-[Connaissances du Borgne](./Connaissances du Borgne.md) (modifié),
-[Eau améliorée](./Eau améliorée.md) (modifié),
-[Exploiter la beauté intérieure](./Exploiter la beauté intérieure.md) (modifié),
-[Métal solaire](./Métal solaire.md) (modifié),
-[Petites fractures](./Petites fractures.md) (modifié),
-[Piste de la rose](./Piste de la rose.md).
+[[Armes contre le mal]] (modifié),
+[[Brume de rêves]] (modifié),
+[[Connaissances du Borgne]] (modifié),
+[[Eau améliorée]] (modifié),
+[[Exploiter la beauté intérieure]] (modifié),
+[[Métal solaire]] (modifié),
+[[Petites fractures]] (modifié),
+[[Piste de la rose]].
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Religieux](./Traits religieux.md).**
+**[[Traits religieux|Religieux]].**
 Agent de la chance (modifié),
 Allié reptilien (modifié),
 Apaisement (modifié),
@@ -191,66 +191,66 @@ Traduit et publié en français par Black Book Editions sous le nom de "Les cult
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat.
 <div class="article_3col">
-[Attaque à contre-courant](./Attaque à contre-courant.md)* (modifié),
-[Engagement ferme](./Engagement ferme.md)* (modifié),
-[Fossoyeur épineux](./Fossoyeur épineux.md)* (modifié),
-[Intuition magique](./Intuition magique.md) (modifié),
-[Réaction pondérée](./Réaction pondérée.md)* (modifié),
-[Vengeance sanglante](./Vengeance sanglante.md)* (modifié).
+[[Attaque à contre-courant]]* (modifié),
+[[Engagement ferme]]* (modifié),
+[[Fossoyeur épineux]]* (modifié),
+[[Intuition magique]] (modifié),
+[[Réaction pondérée]]* (modifié),
+[[Vengeance sanglante]]* (modifié).
 </div>
 
 
 ### Équipement
 #### Focalisateurs de canalisation
 <div class="article_3col">
-[Écaille du juste](./Focalisateurs de canalisation.md#Écaille du juste),
-[Fétiche ailé](./Focalisateurs de canalisation.md#Fétiche ailé),
-[Fouet brûlant](./Focalisateurs de canalisation.md#Fouet brûlant),
-[Gong de bronze](./Focalisateurs de canalisation.md#Gong de bronze),
-[Icône de bois flotté](./Focalisateurs de canalisation.md#Icône de bois flotté),
-[Masque scindé](./Focalisateurs de canalisation.md#Masque scindé),
-[Œil de fer](./Focalisateurs de canalisation.md#Œil de fer).
+[[Focalisateurs de canalisation#Écaille du juste|Écaille du juste]],
+[[Focalisateurs de canalisation#Fétiche ailé|Fétiche ailé]],
+[[Focalisateurs de canalisation#Fouet brûlant|Fouet brûlant]],
+[[Focalisateurs de canalisation#Gong de bronze|Gong de bronze]],
+[[Focalisateurs de canalisation#Icône de bois flotté|Icône de bois flotté]],
+[[Focalisateurs de canalisation#Masque scindé|Masque scindé]],
+[[Focalisateurs de canalisation#Œil de fer|Œil de fer]].
 </div>
 
 
 ### Objets magiques
 #### Armes
 <div class="article_3col">
-[Lame triple-dard](./Lame triple-dard.md).
+[[Lame triple-dard]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Objets merveilleux====</div>
 <div class="article_3col">
 **Aucun (Sans emplacement).**
-[Clé automate](./Clé automate.md),
-[Cordes tranchantes](./Cordes tranchantes.md),
-[Huiles apaisantes](./Huiles apaisantes.md),
-[Manuel du reflet calme](./Manuel du reflet calme.md),
-[Tuiles de la spirale](./Tuiles de la spirale.md).
+[[Clé automate]],
+[[Cordes tranchantes]],
+[[Huiles apaisantes]],
+[[Manuel du reflet calme]],
+[[Tuiles de la spirale]].
 
 **Tête.**
-[Masque de destruction et de création](./Masque de destruction et de création.md).
+[[Masque de destruction et de création]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Allègement d'objet](./Allègement dobjet.md) (modifié),
-[Allègement d'objet de groupe](./Allègement dobjet de groupe.md) (modifié),
-[Ascèse](./Ascèse.md) (modifié),
-[Équité](./Équité.md) (modifié),
-[Jauge de sort](./Jauge de sort.md) (modifié),
-[Jugement par anticipation](./Jugement par anticipation.md) (modifié),
-[Lecture de la météo](./Lecture de la météo.md) (modifié),
-[Les yeux du séducteur](./Les yeux du séducteur.md) (modifié),
-[Natation aérienne](./Natation aérienne.md) (modifié).
+[[Allègement dobjet|Allègement d'objet]] (modifié),
+[[Allègement dobjet de groupe|Allègement d'objet de groupe]] (modifié),
+[[Ascèse]] (modifié),
+[[Équité]] (modifié),
+[[Jauge de sort]] (modifié),
+[[Jugement par anticipation]] (modifié),
+[[Lecture de la météo]] (modifié),
+[[Les yeux du séducteur]] (modifié),
+[[Natation aérienne]] (modifié).
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Religieux](./Traits religieux.md).**
+**[[Traits religieux|Religieux]].**
 Amoureux des lois (modifié),
 Beau parleur (modifié),
 Bon nageur (modifié),
@@ -284,35 +284,35 @@ Traduit et publié en français par Black Book Editions sous le nom de "Les cult
 ### Dons
 Les dons marqués d'un astérisque (*) sont des dons de combat, et ceux suivis d'un C sont des dons de critique.
 <div class="article_3col">
-[Aplatissement](./Aplatissement.md)* (modifié),
-[Briser la détermination](./Briser la détermination.md) (modifié),
-[Charge impitoyable](./Charge impitoyable.md)* (modifié),
-[Destruction d'identité](./Destruction didentité.md)*<sup>C</sup> (modifié),
-[Douleur bienvenue](./Douleur bienvenue.md),
-[Effroyable coup de grâce](./Effroyable coup de grâce.md)* (modifié),
-[Esprit ordonné](./Esprit ordonné.md) (modifié),
-[Esquive de l'ombre](./Esquive de lombre.md) (modifié),
-[Rejet du poison](./Rejet du poison.md) (modifié),
-[Saignée](./Saignée.md)* (modifié),
-[Tison](./Manieur de torche.md)* (modifié).
+[[Aplatissement]]* (modifié),
+[[Briser la détermination]] (modifié),
+[[Charge impitoyable]]* (modifié),
+[[Destruction didentité|Destruction d'identité]]*<sup>C</sup> (modifié),
+[[Douleur bienvenue]],
+[[Effroyable coup de grâce]]* (modifié),
+[[Esprit ordonné]] (modifié),
+[[Esquive de lombre|Esquive de l'ombre]] (modifié),
+[[Rejet du poison]] (modifié),
+[[Saignée]]* (modifié),
+[[Manieur de torche|Tison]]* (modifié).
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Appendices monstrueux](./Appendices monstrueux.md) (modifié),
-[Faim vampirique](./Faim vampirique.md),
-[Nuit de lames](./Nuit de lames.md) (modifié),
-[Perdre la piste](./Perdre la piste.md) (modifié),
-[Portail fragile](./Portail fragile.md) (modifié),
-[Sacrifice partagé](./Sacrifice partagé.md) (modifié),
-[Toucher hémorragique](./Toucher hémorragique.md) (modifié).
+[[Appendices monstrueux]] (modifié),
+[[Faim vampirique]],
+[[Nuit de lames]] (modifié),
+[[Perdre la piste]] (modifié),
+[[Portail fragile]] (modifié),
+[[Sacrifice partagé]] (modifié),
+[[Toucher hémorragique]] (modifié).
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Religieux](./Traits religieux.md).**
+**[[Traits religieux|Religieux]].**
 Affinité des éléments (modifié),
 Alliance d’Abaddon (modifié),
 Chasseur de savoir,

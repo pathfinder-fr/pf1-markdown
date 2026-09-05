@@ -10,8 +10,8 @@ Categories:
 
 {s:uc}*Même les condamnations les plus hâtives du personnage sont efficaces.*
 
-**Conditions.** [Second jugement](./Inquisiteur.md#SECONDJUGEMENT)
+**Conditions.** [[inquisiteur#SECONDJUGEMENT|Second jugement]]
 
-**Avantage.** Le personnage peut dépenser une [action immédiate](./Action immédiate.md) pour prononcer un [jugement](./Inquisiteur.md#JUGEMENT) ou changer un jugement actif.
+**Avantage.** Le personnage peut dépenser une [[action immédiate]] pour prononcer un [[inquisiteur#JUGEMENT|jugement]] ou changer un jugement actif.
 
-**Normal.** Il faut une [action rapide](./Action rapide.md) pour prononcer ou changer un jugement.
+**Normal.** Il faut une [[action rapide]] pour prononcer ou changer un jugement.

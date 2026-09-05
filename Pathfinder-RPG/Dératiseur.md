@@ -14,13 +14,13 @@ Categories:
 
 *Vous avez une grande expérience pour vous occuper de la peste souterraine dans les villes*
 
-**Catégorie.** [combat](./Dons.md#COMBAT)
+**Catégorie.** [[Dons#COMBAT|combat]]
 
-**Condition.** 1 rang en [Connaissances](./Connaissances.md) (Exploration souterraine), [BBA](./BBA.md)+1
+**Condition.** 1 rang en [[Connaissances]] (Exploration souterraine), [[BBA]]+1
 
 **Avantage.** Vous obtenez un bonus d'esquive de +1 contre les attaques faites par des créatures d'au moins deux catégories de taille plus petites que vous, et obtenez un bonus de +1 à vos jets d'attaque et de dégâts contre de telles créatures.
 
-De plus, vous ne subissez que la moitié des dégâts infligées par les attaques de [Nuée](./sous-type nuée.md) et, en utilisant une [action complexe](./Action complexe.md), vous pouvez porter une seule attaque avec une arme naturelle ou contondante contre une [Nuée](./sous-type nuée.md) proche. Si votre attaque touche, vous lui infligez la moitié des dégâts, même si la [Nuée](./sous-type nuée.md) est trop petite et qu'elle devrait normalement être immunisée contre de telles attaques.
+De plus, vous ne subissez que la moitié des dégâts infligées par les attaques de [[sous-type nuée|Nuée]] et, en utilisant une [[action complexe]], vous pouvez porter une seule attaque avec une arme naturelle ou contondante contre une [[sous-type nuée|Nuée]] proche. Si votre attaque touche, vous lui infligez la moitié des dégâts, même si la [[sous-type nuée|Nuée]] est trop petite et qu'elle devrait normalement être immunisée contre de telles attaques.
 
 (((Rat Catcher (Combat)
 

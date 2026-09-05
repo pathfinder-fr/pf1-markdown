@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Javeline de foudre|{s:AE}}
-**Aura** [Évocation](./Évocation.md) faible ; **NLS** 5 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 1 500 po ; **Poids** 1 kg
+**Aura** [[Évocation]] faible ; **NLS** 5 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 1 500 po ; **Poids** 1 kg
 (((Description)))
-Cette [javeline](./javeline (arme).md) se transforme en un éclair infligeant 5d6 points de dégâts (jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 14, 1/2 dégâts) quand on la lance. Elle se consume entièrement au cours de cette attaque.
+Cette [[Javeline (arme)|javeline]] se transforme en un éclair infligeant 5d6 points de dégâts (jet de [[Réflexes]] [[DD]] 14, 1/2 dégâts) quand on la lance. Elle se consume entièrement au cours de cette attaque.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[éclair](./Éclair.md)* ; **Coût** 750 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[éclair]]* ; **Coût** 750 po
 </div>

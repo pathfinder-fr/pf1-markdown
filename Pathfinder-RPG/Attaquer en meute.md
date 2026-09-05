@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Le personnage est particulièrement doué pour encercler ses ennemis.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** [BBA](./BBA.md) +1
+**Conditions.** [[BBA]] +1
 
-**Avantage.** Quand le personnage est adjacent à un allié qui possède aussi ce don, la première fois qu’il attaque un adversaire au corps à corps, il peut dépenser une [action immédiate](./Action immédiate.md) pour faire un pas de 1,50 m (1 {s:c}), même s’il a déjà bougé pendant le round.
+**Avantage.** Quand le personnage est adjacent à un allié qui possède aussi ce don, la première fois qu’il attaque un adversaire au corps à corps, il peut dépenser une [[action immédiate]] pour faire un pas de 1,50 m (1 {s:c}), même s’il a déjà bougé pendant le round.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage est adjacent à un allié qui possède aussi ce don, il peut dépenser 2 points d’endurance pour effectuer un [pas de placement](./Pas de placement.md) de 1,50 mètre par une [action libre](./Action libre.md) au lieu d’une [action immédiate](./Action immédiate.md). Il ne peut utiliser ce pouvoir qu’une fois par [round](./round.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage est adjacent à un allié qui possède aussi ce don, il peut dépenser 2 points d’endurance pour effectuer un [[pas de placement]] de 1,50 mètre par une [[action libre]] au lieu d’une [[action immédiate]]. Il ne peut utiliser ce pouvoir qu’une fois par [[round]].

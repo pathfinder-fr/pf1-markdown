@@ -4,11 +4,11 @@ Title: Châle de transfert vital
 LastModified: 2024-06-01 16:16
 ---
 
-{s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:Desambi|Cet objet est apparu dans le [Manuel des races](./Manuel des races (Contenu).md) sous le nom "Cape de préservation vitale".}<div class="BD">
+{s:racial|Ondin (race)|ondins|Illustrations/PNJ/Ondin.jpg}{s:Desambi|Cet objet est apparu dans le [[Manuel des races (Contenu)|Manuel des races]] sous le nom "Cape de préservation vitale".}<div class="BD">
 {s:BDTitre|Châle de transfert vital|{s:MR}{s:AE}}
-**Aura** [Invocation](./Invocation.md) faible ; **NLS** 3 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 1.000 po ; **Poids** 0,5 kg
+**Aura** [[Invocation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 1.000 po ; **Poids** 0,5 kg
 (((Description)))
-Ce châle magique est tissé avec des fibres diaphanes et soyeuses. Une fois par jour, son porteur peut prononcer un mot de commande pour transférer une partie de son énergie vitale à l’intérieur du châle (jusqu’à 10 points de vie). S’il porte le châle alors que ses points de vie sont réduits à -1 ou moins, le châle soigne immédiatement un nombre de points de vie égal à celui préalablement transféré. Ce soin n’empêche pas le porteur de mourir. L’énergie vitale stockée dans le châle reste en place pendant 24 heures ou jusqu’à ce qu’elle soit utilisée pour soigner son porteur. Si le châle est détruit, l’énergie vitale disparaît. Lorsqu’une créature a transféré une partie de son énergie vitale dans le châle, elle se lie à lui. Si une autre créature le tient en main, celle qui a transféré son énergie vitale subit un malus de -2 aux jets de [Vigueur](./Vigueur.md) et de [Réflexes](./Réflexes.md) contre tous les effets produits par le détenteur actuel du châle.
+Ce châle magique est tissé avec des fibres diaphanes et soyeuses. Une fois par jour, son porteur peut prononcer un mot de commande pour transférer une partie de son énergie vitale à l’intérieur du châle (jusqu’à 10 points de vie). S’il porte le châle alors que ses points de vie sont réduits à -1 ou moins, le châle soigne immédiatement un nombre de points de vie égal à celui préalablement transféré. Ce soin n’empêche pas le porteur de mourir. L’énergie vitale stockée dans le châle reste en place pendant 24 heures ou jusqu’à ce qu’elle soit utilisée pour soigner son porteur. Si le châle est détruit, l’énergie vitale disparaît. Lorsqu’une créature a transféré une partie de son énergie vitale dans le châle, elle se lie à lui. Si une autre créature le tient en main, celle qui a transféré son énergie vitale subit un malus de -2 aux jets de [[Vigueur]] et de [[Réflexes]] contre tous les effets produits par le détenteur actuel du châle.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[soins légers](./Soins légers.md)*, *[stabilisation](./Stabilisation.md)* ; **Coût** 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[soins légers]]*, *[[stabilisation]]* ; **Coût** 500 po
 </div>

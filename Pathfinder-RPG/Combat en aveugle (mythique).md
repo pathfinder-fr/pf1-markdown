@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Aucune créature n’échappe aux sens surnaturels du personnage.*
 
-**Condition.** [Combat en aveugle](./Combat en aveugle.md)
+**Condition.** [[Combat en aveugle]]
 
-**Avantage.** Par une [action rapide](./Action rapide.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour ignorer tous risques d’échec provoqués par un [camouflage](./camouflage.md) normal ou total pendant un nombre de rounds égal à son [grade](./Grade.md).
+**Avantage.** Par une [[action rapide]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour ignorer tous risques d’échec provoqués par un [[camouflage]] normal ou total pendant un nombre de rounds égal à son [[grade]].

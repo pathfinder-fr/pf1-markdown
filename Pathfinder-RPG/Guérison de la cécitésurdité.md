@@ -15,20 +15,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([guérison](./guérison.md)) ; **Niveau** [Alch](./Alchimiste.md) 3, [Cham](./Chaman.md) 3, [Hyp](./Hypnotiseur.md) 3, [Pal](./Paladin.md) 3, [Prê](./Prêtre.md) 3, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 3  
+**École** [[Invocation]] ([[guérison]]) ; **Niveau** [[Alchimiste|Alch]] 3, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Vigueur]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Ce sort soigne la [cécité](./Aveuglé.md) ou la [surdité](./Assourdi.md) (au choix du personnage), qu’elle soit d’origine naturelle ou magique. Il ne rend pas un œil ou une oreille perdu, mais il répare ces organes s’ils ont été endommagés.
+Ce sort soigne la [[aveuglé|cécité]] ou la [[assourdi|surdité]] (au choix du personnage), qu’elle soit d’origine naturelle ou magique. Il ne rend pas un œil ou une oreille perdu, mais il répare ces organes s’ils ont été endommagés.
 
-*Guérison de la cécité/surdité* contre et dissipe *[cécité/surdité](./Cécitésurdité.md)*.
+*Guérison de la cécité/surdité* contre et dissipe *[[cécitésurdité|cécité/surdité]]*.

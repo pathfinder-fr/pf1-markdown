@@ -13,8 +13,8 @@ Ils commandent au homme en montrant leurs force et en intimidant.
 {s:BDTexte|*Source : Fan*}
 {s:BDTexte|**PX** 1600}
 {s:BDTexte|Hobgobelin, Guerrier 4 (PNJ de héroïque) }
-{s:BDTexte|[Humanoïde](./../Pathfinder-RPG/type Humanoïde.md) ([gobelinoïde](./../Pathfinder-RPG/sous-type gobelinoïde.md)) de taille M, LM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}) ; [++Pathfinder-RPG.Perception|Perception] +3}
+{s:BDTexte|[[Pathfinder-RPG.type humanoïde|Humanoïde]] ([[Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]]) de taille M, LM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18 m (12 {s:c}) ; [[Pathfinder-RPG.Perception|Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 12, pris au dépourvu 19 (Crevice +7, écu en acier +2, Dex +2)}
 {s:BDTexte|**pv** 34 (4d10+12)}
@@ -32,5 +32,5 @@ Ils commandent au homme en montrant leurs force et en intimidant.
 {s:BDTexte|**Capacité spéciale** courage +1, entraînement aux armures 1}
 {s:BDTexte|**Langues** commun, gobelin}
 {s:BDSousTitre|Capacité spéciale}
-{s:BDTexte|**Don Démonstration** il peut faire une démonstration impressionnante de ses talents lors d’une [action complexe](./../Pathfinder-RPG/Action complexe.md). Il fait un test d’[Intimidation](./../Pathfinder-RPG/Intimidation.md) pour démoraliser tous les ennemis qui se trouvent dans un rayon de 9 m (6 {s:c}) et qui le regardent.}
+{s:BDTexte|**Don Démonstration** il peut faire une démonstration impressionnante de ses talents lors d’une [[Pathfinder-RPG.action complexe|action complexe]]. Il fait un test d’[[Pathfinder-RPG.Intimidation|Intimidation]] pour démoraliser tous les ennemis qui se trouvent dans un rayon de 9 m (6 {s:c}) et qui le regardent.}
 </div>

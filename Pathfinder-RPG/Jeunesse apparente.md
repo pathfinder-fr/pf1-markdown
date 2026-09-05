@@ -16,16 +16,16 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ([métamorphose](./métamorphose.md)) ; **Niveau** [Alch](./Alchimiste.md) 1, [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1  
+**École** [[Transmutation]] ([[métamorphose]]) ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 1 heure/[niveau](./niveau.md)
+**Durée** 1 heure/[[niveau]]
 
-Le personnage rajeunit sa cible. Il choisit de combien d’années il veut la rajeunir (par exemple de « rajeunir de 10 ans » ou « redevenir un jeune adulte »). Il ne peut pas changer les détails de l’apparence de la cible en dehors de ceux liés à l’âge (des cheveux gris reprennent leur couleur originelle par exemple). La cible ne peut pas rajeunir au point de changer de [catégorie de taille](./catégorie de taille.md). Ce sort ne change pas les modifications des valeurs de caractéristiques et autres changements liés à l’âge.
+Le personnage rajeunit sa cible. Il choisit de combien d’années il veut la rajeunir (par exemple de « rajeunir de 10 ans » ou « redevenir un jeune adulte »). Il ne peut pas changer les détails de l’apparence de la cible en dehors de ceux liés à l’âge (des cheveux gris reprennent leur couleur originelle par exemple). La cible ne peut pas rajeunir au point de changer de [[catégorie de taille]]. Ce sort ne change pas les modifications des valeurs de caractéristiques et autres changements liés à l’âge.

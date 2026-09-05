@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#MAITRISECOMPETENCES
 ---
 
->>> [Talents#MAITRISECOMPETENCES](./Talents.md#MAITRISECOMPETENCES)
+>>> [[Talents#MAITRISECOMPETENCES]]

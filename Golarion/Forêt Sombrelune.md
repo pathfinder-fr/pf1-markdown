@@ -7,6 +7,6 @@ Categories:
 - Géographie
 ---
 
-Située au nord de l'[Andoran](./Andoran.md), la forêt de Sombrelune compte parmi les lieux les plus dangereux de l'[Avistan](./Avistan.md). C'est une forêt sauvage, hantée par les fées, à la bordure de toute civilisation. Si elle oppose un danger constant à ceux qui vivent à côté, elle est source de tentations pour les aventuriers désireux de se faire un nom. On ajoutera qu'il y a de très longues années, elle était reliée à la forêt d'[Arthfell](./Arthfell.md) pour ne former qu'une seule et même immense forêt.
+Située au nord de l'[[Andoran]], la forêt de Sombrelune compte parmi les lieux les plus dangereux de l'[[Avistan]]. C'est une forêt sauvage, hantée par les fées, à la bordure de toute civilisation. Si elle oppose un danger constant à ceux qui vivent à côté, elle est source de tentations pour les aventuriers désireux de se faire un nom. On ajoutera qu'il y a de très longues années, elle était reliée à la forêt d'[[Arthfell]] pour ne former qu'une seule et même immense forêt.
 
-Traversée par l'Ecume, un affluent de l'[Andoshen](./Andoshen.md), la forêt abrite également la cité de [Nid-du-Faucon](./Nid-du-Faucon.md). On notera aussi que le consortium du Bois exploite la forêt en dépit des dangers.
+Traversée par l'Ecume, un affluent de l'[[Andoshen]], la forêt abrite également la cité de [[Nid-du-Faucon]]. On notera aussi que le consortium du Bois exploite la forêt en dépit des dangers.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Arène#MAITREDESBETES
 ---
 
->>> [Arène#MAITREDESBETES](./Arène.md#MAITREDESBETES)
+>>> [[Arène#MAITREDESBETES]]

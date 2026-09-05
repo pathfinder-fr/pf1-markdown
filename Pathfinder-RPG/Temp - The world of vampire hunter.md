@@ -5,6 +5,6 @@ LastModified: 2019-01-14 09:08
 ---
 
 #### Classe
-[Chasseur de vampire](./Chasseur de vampire.md)
+[[Chasseur de vampire]]
 
-[techniques de chasseur de vampire](./techniques de chasseur de vampire.md)
+[[techniques de chasseur de vampire]]

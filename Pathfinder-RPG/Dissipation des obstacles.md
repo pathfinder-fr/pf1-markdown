@@ -12,7 +12,7 @@ Categories:
 
 *Le personnage a maîtrisé l’art de faire disparaître certains sorts lorsqu’ils deviennent un problème pour lui et ses alliés.*
 
-**Avantage.** Le personnage peut dissiper tous les sorts de fosse (tel que *[création de fosse](./Création de fosse.md)*, *[fosse affamée](./Fosse affamée.md)*, *[fosse hérissée de pieux](./Fosse hérissée de pieux.md)* et les sorts similaires qui possèdent le mot *fosse* dans leur nom) ou les sorts de murs (tels que *[mur de feu](./Mur de feu.md)*, *[mur de glace](./Mur de glace.md)* et les sorts similaires qui possèdent le mot *mur* dans leurs noms) qu'il a lancé. Les sorts doivent avoir une durée d’au moins 1 [round](./round.md). Cette capacité fonctionne en suivant les règles normales de mise à terme, permettant au personnage de dissiper les fosses et murs conjurés par une [action simple](./Action simple.md).
+**Avantage.** Le personnage peut dissiper tous les sorts de fosse (tel que *[[création de fosse]]*, *[[fosse affamée]]*, *[[fosse hérissée de pieux]]* et les sorts similaires qui possèdent le mot *fosse* dans leur nom) ou les sorts de murs (tels que *[[mur de feu]]*, *[[mur de glace]]* et les sorts similaires qui possèdent le mot *mur* dans leurs noms) qu'il a lancé. Les sorts doivent avoir une durée d’au moins 1 [[round]]. Cette capacité fonctionne en suivant les règles normales de mise à terme, permettant au personnage de dissiper les fosses et murs conjurés par une [[action simple]].
 
 **Normal.** Plusieurs sorts de fosse et de murs ne peuvent être dissipés sans l’aide de ce don.
 

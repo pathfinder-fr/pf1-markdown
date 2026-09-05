@@ -13,16 +13,16 @@ Categories:
 {s:Menuarchétypescalde}{s:mca}*Le destructeur de sorts exploite ses connaissances magiques au lieu de sa rage pour inverser le cours des combats à son avantage et à celui de ses alliés. En cognant ses brassards l’un contre l’autre et en psalmodiant d’une voix puissante, le destructeur de sorts fait entrer son chant en contact avec les armes de ses alliés pour les imprégner de sa magie. Son chant n’inspire pas la rage, mais il peut utiliser le pouvoir de sa musique pour enchanter les armes de ses alliés et contrer les sorts de ses ennemis.*
 
 #### Science du contresort
-Au niveau 1, le destructeur de sorts reçoit [Science du contresort](./Science du contresort.md) comme don supplémentaire. Cette aptitude remplace Écriture de parchemins.
+Au niveau 1, le destructeur de sorts reçoit [[Science du contresort]] comme don supplémentaire. Cette aptitude remplace Écriture de parchemins.
 
 #### Chant des armes (Sur)
 Un destructeur de sorts gagne le chant de rage suivant, qui lui permet de conférer aux armes de ses alliés des bonus d’altération et des pouvoirs spéciaux.
 ##### Amélioration d’armes (Sur)
 Au niveau 1, le destructeur de sorts peut conférer un bonus d’altération de +1 aux armes (y compris les munitions) des alliés situés à 18 mètres (12 {s:c}) ou moins. Au niveau 5 et tous les 5 niveaux par la suite, ce bonus d’altération augmente de +1. Le bonus maximum reçu dépend du nombre d’armes affectées : +5 à une arme, +4 à deux armes, +3 à trois armes ou +2 à quatre armes ou plus. Vis-à-vis de ce pouvoir, cinquante munitions équivalent à une arme. Le porteur d'une arme enchantée par ce chant de rage est considéré comme s'il était sous l'effet d'un chant de rage inspirée pour ce qui implique les pouvoirs de rages du scalde.
 
-Ces bonus peuvent également être utilisés pour ajouter l’une des propriétés d’arme spéciales suivantes aux armes améliorées par cette aptitude : [dansante](./dansante (propriété).md), [acérée](./acérée (propriété).md), [boomerang](./boomerang (propriété).md), [d’enchaînement](./enchaînement (propriété).md), [de feu](./feu (propriété).md), [de foudre](./foudre (propriété).md), [de froid](./froid (propriété).md), [rapide](./rapide (propriété).md), [gardienne](./gardienne (propriété).md), [longue portée](./longue portée (propriété).md), [spectrale](./spectrale (propriété).md) ou [traqueuse](./traqueuse (propriété).md).
+Ces bonus peuvent également être utilisés pour ajouter l’une des propriétés d’arme spéciales suivantes aux armes améliorées par cette aptitude : [[dansante (propriété)|dansante]], [[acérée (propriété)|acérée]], [[boomerang (propriété)|boomerang]], [[enchaînement (propriété)|d’enchaînement]], [[feu (propriété)|de feu]], [[foudre (propriété)|de foudre]], [[froid (propriété)|de froid]], [[rapide (propriété)|rapide]], [[gardienne (propriété)|gardienne]], [[longue portée (propriété)|longue portée]], [[spectrale (propriété)|spectrale]] ou [[traqueuse (propriété)|traqueuse]].
 
-L’ajout de ces propriétés consomme un montant de bonus égal au [coût de la propriété spéciale](./Armes magiques.md#DTMSPECIALE).
+L’ajout de ces propriétés consomme un montant de bonus égal au [[Armes magiques#DTMSPECIALE|coût de la propriété spéciale]].
 
 Ces bonus d’altération et ces propriétés spéciales se cumulent aux autres éventuelles améliorations ou propriétés spéciales de l’arme, mais les propriétés identiques ne se cumulent pas. Si une arme affectée n’est pas magique, elle doit d’abord être dotée d’un bonus d’altération de +1 au moins avant de lui conférer une propriété spéciale.
 
@@ -32,20 +32,20 @@ Cette aptitude remplace le chant de rage de rage inspirée.
 
 
 #### Contresort supérieur (Sur)
-Au niveau 5, le destructeur de sorts voit sa polyvalence augmenter quand il tente de contrer les sorts ennemis. Quand il contre un sort, il peut dépenser deux [emplacements de sort](./emplacement de sort.md) de scalde d’un niveau égal ou supérieur à celui du sort adverse, quelle que soit l’école de ce sort.
+Au niveau 5, le destructeur de sorts voit sa polyvalence augmenter quand il tente de contrer les sorts ennemis. Quand il contre un sort, il peut dépenser deux [[emplacement de sort|emplacements de sort]] de scalde d’un niveau égal ou supérieur à celui du sort adverse, quelle que soit l’école de ce sort.
 
 Au niveau 11, quand il contre un sort adverse, le destructeur de sorts doit dépenser un emplacement de sort de scalde seulement, de même niveau que le sort en cours d’incantation.
 
-Au niveau 17, le destructeur de sorts reçoit [Parade de sorts](./Parade de sorts.md) en don supplémentaire. Le scalde n’a pas besoin de satisfaire les conditions requises par ce don.
+Au niveau 17, le destructeur de sorts reçoit [[Parade de sorts]] en don supplémentaire. Le scalde n’a pas besoin de satisfaire les conditions requises par ce don.
 
 Cette aptitude remplace compréhension des sorts.
 
 #### Chant de manipulation magique (Sur)
-Au niveau 10, un destructeur de sorts peut sacrifier sa propre magie rageuse pour contrer un sort adverse. Quand il utilise son chant de rage, il peut contrer un sort par une [action immédiate](./Action immédiate.md) sans interrompre son chant. Toutefois, en plus de la dépense d’un ou de plusieurs emplacements de sort pour tenter de contrer le sort adverse, le scalde doit dépenser 1 round de chant de rage par niveau du sort adverse (par exemple, s’il tente de contrer un sort de niveau 3, le scalde doit dépenser un de ses emplacements de sort de niveau 3 et 3 rounds de chant de rage). Cette aptitude remplace le chant de rage de chant funèbre.
+Au niveau 10, un destructeur de sorts peut sacrifier sa propre magie rageuse pour contrer un sort adverse. Quand il utilise son chant de rage, il peut contrer un sort par une [[action immédiate]] sans interrompre son chant. Toutefois, en plus de la dépense d’un ou de plusieurs emplacements de sort pour tenter de contrer le sort adverse, le scalde doit dépenser 1 round de chant de rage par niveau du sort adverse (par exemple, s’il tente de contrer un sort de niveau 3, le scalde doit dépenser un de ses emplacements de sort de niveau 3 et 3 rounds de chant de rage). Cette aptitude remplace le chant de rage de chant funèbre.
 
 #### Contrecoup magique (Sur)
-Au niveau 20, quand un destructeur de sorts réussit à contrer un sort adverse, l’adversaire subit un violent contrecoup d’énergie magique qui lui inflige 1d6 points de dégâts par niveau du sort contré. Si l’adversaire réussit un jet de [Volonté](./Volonté.md) (DD = 10 + 1/2 niveau du scalde + modificateur de Charisme du scalde), les dégâts sont réduits de moitié. Ces dégâts sont magiques et ne sont pas affectés par la [réduction de dégâts](./RD.md) ni par la résistance aux énergies destructives. Cette aptitude remplace maître du savoir.
+Au niveau 20, quand un destructeur de sorts réussit à contrer un sort adverse, l’adversaire subit un violent contrecoup d’énergie magique qui lui inflige 1d6 points de dégâts par niveau du sort contré. Si l’adversaire réussit un jet de [[Volonté]] (DD = 10 + 1/2 niveau du scalde + modificateur de Charisme du scalde), les dégâts sont réduits de moitié. Ces dégâts sont magiques et ne sont pas affectés par la [[RD|réduction de dégâts]] ni par la résistance aux énergies destructives. Cette aptitude remplace maître du savoir.
 
 ### Pouvoirs de rage
-Les pouvoirs de rage suivants viennent compléter l’archétype de destructeur de sorts : [briseur de sort](./Pouvoirs de rage.md#BRISEURDESORTS), [chasseur de sorcière](./Pouvoirs de rage.md#CHASSEURDESORCIERE), [destruction d’enchantement](./Pouvoirs de rage.md#DESTRUCTIONDENCHANTEMENT), [destruction de sort](./Pouvoirs de rage.md#DESTRUCTIONDESORT), [dévoreur de magie](./Pouvoirs de rage.md#DEVOREURDEMAGIE), [esprit vide](./Pouvoirs de rage.md#ESPRITVIDE),
-[perturbateur](./Pouvoirs de rage.md#POUVOIRDERAGEPERTURBATEUR), [rage élémentaire](./Pouvoirs de rage.md#RAGEELEMENTAIRE) (mineure, normale, majeure), [résistance à l’énergie](./Pouvoirs de rage.md#RESISTANCEALENERGIE), [superstition](./Pouvoirs de rage.md#SUPERSTITION).
+Les pouvoirs de rage suivants viennent compléter l’archétype de destructeur de sorts : [[pouvoirs de rage#BRISEURDESORTS|briseur de sort]], [[pouvoirs de rage#CHASSEURDESORCIERE|chasseur de sorcière]], [[pouvoirs de rage#DESTRUCTIONDENCHANTEMENT|destruction d’enchantement]], [[pouvoirs de rage#DESTRUCTIONDESORT|destruction de sort]], [[pouvoirs de rage#DEVOREURDEMAGIE|dévoreur de magie]], [[pouvoirs de rage#ESPRITVIDE|esprit vide]],
+[[pouvoirs de rage#POUVOIRDERAGEPERTURBATEUR|perturbateur]], [[pouvoirs de rage#RAGEELEMENTAIRE|rage élémentaire]] (mineure, normale, majeure), [[pouvoirs de rage#RESISTANCEALENERGIE|résistance à l’énergie]], [[pouvoirs de rage#SUPERSTITION|superstition]].

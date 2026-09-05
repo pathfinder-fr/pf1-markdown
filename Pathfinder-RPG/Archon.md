@@ -15,30 +15,30 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Archon annonciateur](./Archon annonciateur.md) || 2
+| [[Archon annonciateur]] || 2
 |-
-| [Archon bouclier](./Archon bouclier.md) || 10
+| [[Archon bouclier]] || 10
 |-
-| [Archon canin](./Archon canin.md) || 4
+| [[Archon canin]] || 4
 |-
-| [Archon des portails](./Archon des portails.md) || 17
+| [[Archon des portails]] || 17
 |-
-| [Archon étoile](./Archon étoile.md) || 19
+| [[Archon étoile]] || 19
 |-
-| [Archon excendré](./Archon excendré.md) || 12
+| [[Archon excendré]] || 12
 |-
-| [Archon légionnaire](./Archon légionnaire.md) || 7
+| [[Archon légionnaire]] || 7
 |-
-| [Archon lumineux](./Archon lumineux.md) || 2
+| [[Archon lumineux]] || 2
 |-
-| [Archon messager](./Archon messager.md) || 14
+| [[Archon messager]] || 14
 |}
 </div></div><div class="description">*Source : Bestiaire* p.21</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([archon](./sous-type archon.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type archon|archon]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]])*
 
 *Les archons sont une race d’Extérieurs originaire du Paradis.*
 
-Ces créatures de la Loi et du Bien ont pour devoir la protection de ce plan et de tous ceux qui sont innocents et dénués d’intentions maléfiques. Ce sont les ennemis naturels des [diables](./Diable.md), des daémons et des [démons](./Démon.md). La plupart d’entre eux ont survécu à plusieurs invasions de leur plan par des fiélons des plans inférieurs.
+Ces créatures de la Loi et du Bien ont pour devoir la protection de ce plan et de tous ceux qui sont innocents et dénués d’intentions maléfiques. Ce sont les ennemis naturels des [[diable|diables]], des daémons et des [[démon|démons]]. La plupart d’entre eux ont survécu à plusieurs invasions de leur plan par des fiélons des plans inférieurs.
 
 Les créatures natives du Paradis se forment à partir du sol et des nuages de ce royaume divin. Leur fabrication résulte des processus métaphysiques de la montagne Sacrée, de la foi des mortels au coeur bon et de la transformation d’esprits vertueux. Au début de sa vie, l’archon prend la forme d’un archon lumineux ou d’un esprit
 serviteur mineur avant de gagner en puissance et en prestige en aidant la cause du Bien. Des mentors bienveillants et des capitaines issus des ordres divins guident l’esprit. Ils l’incitent et l’aident à suivre ses désirs de voir la paix, l’honnêteté et la justice répandues à travers tous les mondes, tout spécialement sur le plan Matériel.
@@ -53,10 +53,10 @@ Comme ils peuvent se téléporter à volonté, il leur est facile de disparaîtr
 
 Les archons sont des champions du Bien mais ils n’ont que peu de patience pour ceux qui ne respectent pas à la lettre les traditions ou les règles de bonne conduite. Ils s’opposeront naturellement à une dictature cruelle mais considéreront que la rébellion et les émeutes ne sont pas la bonne manière de la combattre. Ce n’est pas
 parce qu’on se bat pour la paix et le Bien qu’on peut faire fi de la justice et de la loi pour autant, l’anarchie causant pour eux bien souvent davantage de tort et de désordre, intentionnellement ou non. Les lois du Paradis existent pour minimiser les dommages collatéraux et les souffrances indésirables. Même si le respect de ces lois mène souvent à des campagnes plus longues, les archons affirment que cela permet de faire de la victoire un triomphe
-durable. Le fort attachement aux traditions et aux lois dont font preuve les archons les met souvent en opposition avec les créatures d’alignement Chaotique Bon, tout particulièrement les [azatas](./Azata.md). Selon les archons, les azatas sont par nature capricieux et impatients et, en attaquant un ennemi rapidement et sans prendre la peine de réfléchir aux conséquences, il est possible de faire plus de mal que de bien. Toutefois, même si les archons ne peuvent pas s’empêcher de s’opposer à l’aspect chaotique des azatas, ils n’y prennent aucun plaisir et font tout leur possible pour minimiser la durée de ces conflits. Malheureusement, les archons savent que les azatas, capricieux et fort émotifs, ont la rancoeur tenace, c’est pour cela que de nombreux archons pensent qu’ils ont tout intérêt à être concis, succincts et fermes dans leurs relations avec les azatas.
+durable. Le fort attachement aux traditions et aux lois dont font preuve les archons les met souvent en opposition avec les créatures d’alignement Chaotique Bon, tout particulièrement les [[azata|azatas]]. Selon les archons, les azatas sont par nature capricieux et impatients et, en attaquant un ennemi rapidement et sans prendre la peine de réfléchir aux conséquences, il est possible de faire plus de mal que de bien. Toutefois, même si les archons ne peuvent pas s’empêcher de s’opposer à l’aspect chaotique des azatas, ils n’y prennent aucun plaisir et font tout leur possible pour minimiser la durée de ces conflits. Malheureusement, les archons savent que les azatas, capricieux et fort émotifs, ont la rancoeur tenace, c’est pour cela que de nombreux archons pensent qu’ils ont tout intérêt à être concis, succincts et fermes dans leurs relations avec les azatas.
 
-Les archons parlent le céleste, le draconique et l’infernal mais peuvent communiquer avec quasiment toutes les créatures grâce à leur capacité de [langage universel](./sous-type archon.md#LANGAGEUNIVERSEL). La liste complète des traits des archons est présentée [ici](./sous-type archon.md). Plusieurs archons bénéficient de capacités supplémentaires qui s’ajoutent à ces traits et correspondent au rôle qu’ils tiennent dans les armées du Paradis.
+Les archons parlent le céleste, le draconique et l’infernal mais peuvent communiquer avec quasiment toutes les créatures grâce à leur capacité de [[sous-type archon#LANGAGEUNIVERSEL|langage universel]]. La liste complète des traits des archons est présentée [[sous-type archon|ici]]. Plusieurs archons bénéficient de capacités supplémentaires qui s’ajoutent à ces traits et correspondent au rôle qu’ils tiennent dans les armées du Paradis.
 
 ### Les seigneurs empyréens archons
 Parmi les seigneurs empyréens (les héros du Bien et les dirigeants des royaumes sacrés), on retrouve plusieurs archons puissants. Ces créatures uniques ont évolué au-delà des catégories standard d’archons et répandent la paix, la vertu et l’ordre en réalisant des actions subtiles ou prenant la tête d’armées divines. Ils combattent tous ceux qui cherchent à corrompre ce qui est juste.
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./Seigneurs empyréens.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs Empyréens]].***</li></ul>

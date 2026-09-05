@@ -6,9 +6,9 @@ LastModified: 2024-05-25 16:19
 
 <div class="BD">
 {s:BDTitre|Ceinture d’allègement du fardeau|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible  ; **NLS** 1 ; **Emplacement** [taille](./Objets merveilleux portés à la taille.md) ; **Prix** 2.000 po ; **Poids** 1,5 kg
+**Aura** [[Transmutation]] faible  ; **NLS** 1 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 2.000 po ; **Poids** 1,5 kg
 (((Description)))
-Cette large ceinture de cuir s’attache autour de la taille à l’aide de deux lanières en peau de bœuf qui passent par des trous à chacune de ses extrémités. Une fois la ceinture attachée autour de la taille, la charge du porteur est allégée comme si celui-ci était sous l’effet d’un sort de *[charge de fourmi](./Charge de fourmi.md)*.
+Cette large ceinture de cuir s’attache autour de la taille à l’aide de deux lanières en peau de bœuf qui passent par des trous à chacune de ses extrémités. Une fois la ceinture attachée autour de la taille, la charge du porteur est allégée comme si celui-ci était sous l’effet d’un sort de *[[charge de fourmi]]*.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[charge de fourmi](./Charge de fourmi.md)*  ; **Coût** 1.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[charge de fourmi]]*  ; **Coût** 1.000 po
 </div>

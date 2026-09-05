@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#PRECISIONMORTELLE
 ---
 
->>> [Pouvoirs de rage#PRECISIONMORTELLE](./Pouvoirs de rage.md#PRECISIONMORTELLE)
+>>> [[Pouvoirs de rage#PRECISIONMORTELLE]]

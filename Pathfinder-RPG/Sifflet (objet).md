@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 8 pa (ordinaire), 9 pa (à ultrasons) ; **Poids** — (ordinaire), — (à ultrasons)
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Avec un test de [Représentation](./Représentation.md) (instruments à vent) [DD](./DD.md) 5, le personnage peut utiliser un sifflet pour envoyer les mêmes signaux qu'avec un cor. Le signal perçant du sifflet s'entend facilement ([Perception](./Perception.md) DD 0) dans un rayon de 400 mètres. Pour chaque tranche de 400 mètres au-delà de cette zone, les tests de [Perception](./Perception.md) pour entendre un sifflet reçoivent un malus de -2. Il existe également des sifflets à ultrasons que seuls les animaux et d'autres créatures à l'ouïe fine peuvent entendre.
+Avec un test de [[Représentation]] (instruments à vent) [[DD]] 5, le personnage peut utiliser un sifflet pour envoyer les mêmes signaux qu'avec un cor. Le signal perçant du sifflet s'entend facilement ([[Perception]] DD 0) dans un rayon de 400 mètres. Pour chaque tranche de 400 mètres au-delà de cette zone, les tests de [[Perception]] pour entendre un sifflet reçoivent un malus de -2. Il existe également des sifflets à ultrasons que seuls les animaux et d'autres créatures à l'ouïe fine peuvent entendre.

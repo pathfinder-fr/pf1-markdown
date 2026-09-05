@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Élémentaire de la Terre#_3
 ---
 
->>> [Élémentaire de la Terre#_3](./Élémentaire de la Terre.md#_3)
+>>> [[Élémentaire de la Terre#_3]]

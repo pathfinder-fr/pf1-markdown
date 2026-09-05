@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire p.156*}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)) de taille M, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type natif|natif]]) de taille M, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 13, pris au dépourvu 17 (armure +6, Dex +2, esquive +1, naturelle +1)}
 {s:BDTexte|**pv** 39 (6d10+6)}
@@ -27,21 +27,21 @@ Categories:
 {s:BDTexte|**Distance** arc long composite, +8/+3 (1d8+3/x3)}
 {s:BDTexte|**Attaques spéciales** changement de taille}
 {s:BDTexte|**Pouvoirs magiques** (NLS 8<sup>e</sup>)}
-{s:BDSorts|3/jour — *[changement de plan](./Changement de plan.md)* (uniquement des cibles volontaires vers les plans Élémentaires, l'Astral ou le plan Matériel), *[communication avec les animaux](./Communication avec les animaux.md)*, *[invisibilité](./Invisibilité.md)* (sur lui-même uniquement)}
-{s:BDSorts|1/jour — *[création de nourriture et d'eau](./Création de nourriture et deau.md)*, *[forme éthérée](./Forme éthérée.md)* (pendant 1 heure)}
+{s:BDSorts|3/jour — *[[changement de plan]]* (uniquement des cibles volontaires vers les plans Élémentaires, l'Astral ou le plan Matériel), *[[communication avec les animaux]]*, *[[invisibilité]]* (sur lui-même uniquement)}
+{s:BDSorts|1/jour — *[[création de nourriture et deau|création de nourriture et d'eau]]*, *[[forme éthérée]]* (pendant 1 heure)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 15, **Con** 12, **Int** 14, **Sag** 15, **Cha** 13}
 {s:BDTexte|**BBA** +6, **BMO** +9, **DMD** 22}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md)<sup>B</sup>, [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +11, [Artisanat](./Artisanat.md) (un au choix, généralement fabrication d'armes) +11, [Discrétion](./Discrétion.md) +6, [Estimation](./Estimation.md) +11, [Équitation](./Équitation.md) +6, [Perception](./Perception.md) +11, [Psychologie](./Psychologie.md) +11, [Vol](./Vol.md) +14}
-{s:BDTexte|**Langues** commun, un langage élémentaire (aquatique, aérien, igné ou terreux), un langage lié à un plan Extérieur (abyssal, céleste ou infernal) ; [télépathie](./Télépathie.md) 30 m (20 {s:c}) cases}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Esquive]], [[Science de linitiative|Science de l'initiative]]<sup>B</sup>, [[Souplesse du serpent]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +11, [[Artisanat]] (un au choix, généralement fabrication d'armes) +11, [[Discrétion]] +6, [[Estimation]] +11, [[Équitation]] +6, [[Perception]] +11, [[Psychologie]] +11, [[Vol]] +14}
+{s:BDTexte|**Langues** commun, un langage élémentaire (aquatique, aérien, igné ou terreux), un langage lié à un plan Extérieur (abyssal, céleste ou infernal) ; [[télépathie]] 30 m (20 {s:c}) cases}
 {s:BDTexte|**Particularités** endurance élémentaire}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** déserts chauds}
 {s:BDTexte|**Organisation sociale** solitaire, couple, compagnie (3-6) ou groupe (7-12)}
-{s:BDTexte|**Trésor** standard (arc long composite <nowiki>[</nowiki>For +3<nowiki>]</nowiki>, cimeterre, cotte de mailles, autre équipement)}
+{s:BDTexte|**Trésor** standard (arc long composite <nowiki>[[</nowiki>For +3<nowiki>]]</nowiki>, cimeterre, cotte de mailles, autre équipement)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Changement de taille (Mag).** Deux fois par jour, un jann peut changer la taille d'une créature par magie. Cette capacité fonctionne comme un sort d<nowiki>'</nowiki>*[agrandissement](./Agrandissement.md)* ou de *[rapetissement](./Rapetissement.md)* (le jann choisit au moment où il fait appel à ce pouvoir), si ce n'est que l'effet peut aussi cibler le jann lui-même. Un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 13 permet d'annuler l'effet. Le [DD](./DD.md) dépend du [Charisme](./Charisme.md). Cette capacité équivaut à un sort de 2<sup>e</sup> niveau.}
+{s:BDTexte|**Changement de taille (Mag).** Deux fois par jour, un jann peut changer la taille d'une créature par magie. Cette capacité fonctionne comme un sort d<nowiki>'</nowiki>*[[agrandissement]]* ou de *[[rapetissement]]* (le jann choisit au moment où il fait appel à ce pouvoir), si ce n'est que l'effet peut aussi cibler le jann lui-même. Un jet de [[Vigueur]] de [[DD]] 13 permet d'annuler l'effet. Le [[DD]] dépend du [[Charisme]]. Cette capacité équivaut à un sort de 2<sup>e</sup> niveau.}
 {s:BDTexte|**Endurance élémentaire (Ext).** Un jann peut séjourner jusqu'à 48 heures sur le plan de l'Air, de l'Eau, du Feu ou de la Terre. S'il ne revient pas sur le plan Matériel avant le terme de cette période, il subit 1 point de dégâts par heure de plus passée sur le plan Élémentaire.}
 
 </div>
@@ -51,15 +51,15 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Djinn](./Djinn.md) || 5
+| [[Djinn]] || 5
 |-
-| [Efrit](./Efrit.md) || 8
+| [[Efrit]] || 8
 |-
-| [Jann](./Jann.md) || 4
+| [[Jann]] || 4
 |-
-| [Marid](./Marid.md) || 9
+| [[Marid]] || 9
 |-
-| [Shaitan](./Shaitan.md) || 7
+| [[Shaitan]] || 7
 |}
 </div>*Cette figure au port altier ressemble à un humain grand et bien proportionné, mais une intense lueur brille dans ses yeux.*
 
@@ -101,18 +101,18 @@ faveur à rendre plus tard.
 
 Au sein des races de génies, les janns
 entretiennent généralement de bonnes
-relations avec les [djinns](./Djinn.md) et les [shaitans](./Shaitan.md). Même
+relations avec les [[Djinn|djinns]] et les [[Shaitan|shaitans]]. Même
 s’ils ne les combattent pas activement, les janns
-n’apprécient pas les [marids](./Marid.md), trop fiers et distants.
+n’apprécient pas les [[Marid|marids]], trop fiers et distants.
 Les janns éprouvent une aversion toute particulière
-à l’égard des [éfrits](./Efrit.md) qui tentent souvent de les réduire
+à l’égard des [[Efrit|éfrits]] qui tentent souvent de les réduire
 en esclavage ou de les enrôler dans leurs armées.
 
 Un faible pourcentage des janns sont des janns
 nobles. Les janns nobles, souvent appelés cheikhs
-ou amirs, possèdent 9 DV, une [Force](./Force.md) de 19 et une
-[Intelligence](./Intelligence.md) de 18. Ils disposent des pouvoirs magiques
-suivants : 3/jour — [augure](./Augure.md), [détection de la magie](./Détection de la magie.md) et
-[divination](./Divination.md). Les janns nobles lancent ces pouvoirs magiques avec
+ou amirs, possèdent 9 DV, une [[Force]] de 19 et une
+[[Intelligence]] de 18. Ils disposent des pouvoirs magiques
+suivants : 3/jour — [[augure]], [[détection de la magie]] et
+[[divination]]. Les janns nobles lancent ces pouvoirs magiques avec
 un NLS égal à 12 et ont un FP de 7.
 </div></td></tr></table>

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Défense (légère)
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Défense (légère)](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Défense (légère))
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Défense (légère)]]

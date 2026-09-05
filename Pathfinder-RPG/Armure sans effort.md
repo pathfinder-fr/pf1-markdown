@@ -16,17 +16,17 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Inq](./Inquisiteur.md) 2, [Magus](./Magus.md) 2, [Occ](./Occultiste.md) 2, [Pal](./Paladin.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [Rôd](./Rôdeur.md) 2  
+**École** [[Transmutation]] ; **Niveau** [[Inquisiteur|Inq]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
 
-L’armure du personnage ne réduit plus sa vitesse. Le malus aux tests diminue aussi de 1 +1 tous les cinq [niveaux de lanceur de sorts](./NLS.md) (5 au maximum).
+L’armure du personnage ne réduit plus sa vitesse. Le malus aux tests diminue aussi de 1 +1 tous les cinq [[NLS|niveaux de lanceur de sorts]] (5 au maximum).

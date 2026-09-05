@@ -21,70 +21,70 @@ Les théurges mystiques sont issus des rangs des lanceurs de sorts multiclassés
 | CLASS="gauche" | Nombre de sorts par jour
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [Sorts combinés](./Théurge mystique.md#SORTSCOMBINES) (1<sup>er</sup>)
-| CLASS="gauche" | [+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes](./Théurge mystique.md#SORTS)
+| CLASS="gauche" | [[théurge mystique#SORTSCOMBINES|Sorts combinés]] (1<sup>er</sup>)
+| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1 || &nbsp;
-| CLASS="gauche" | [+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes](./Théurge mystique.md#SORTS)
+| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
 |-
 | 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [Sorts combinés](./Théurge mystique.md#SORTSCOMBINES) (2<sup>e</sup>)
-| CLASS="gauche" | [+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes](./Théurge mystique.md#SORTS)
+| CLASS="gauche" | [[théurge mystique#SORTSCOMBINES|Sorts combinés]] (2<sup>e</sup>)
+| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
 |- CLASS="alt"
 | 4 || +2 || +1 || +1 || +2 || &nbsp;
-| CLASS="gauche" | [+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes](./Théurge mystique.md#SORTS)
+| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
 |-
 | 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [Sorts combinés](./Théurge mystique.md#SORTSCOMBINES) (3<sup>e</sup>)
-| CLASS="gauche" | [+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes](./Théurge mystique.md#SORTS)
+| CLASS="gauche" | [[théurge mystique#SORTSCOMBINES|Sorts combinés]] (3<sup>e</sup>)
+| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
 |- CLASS="alt"
 | 6 || +3 || +2 || +2 || +3 || &nbsp;
-| CLASS="gauche" | [+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes](./Théurge mystique.md#SORTS)
+| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
 |-
 | 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [Sorts combinés](./Théurge mystique.md#SORTSCOMBINES) (4<sup>e</sup>)
-| CLASS="gauche" | [+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes](./Théurge mystique.md#SORTS)
+| CLASS="gauche" | [[théurge mystique#SORTSCOMBINES|Sorts combinés]] (4<sup>e</sup>)
+| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
 |- CLASS="alt"
 | 8 || +4 || +3 || +3 || +4 || &nbsp;
-| CLASS="gauche" | [+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes](./Théurge mystique.md#SORTS)
+| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
 |-
 | 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [Sorts combinés](./Théurge mystique.md#SORTSCOMBINES) (5<sup>e</sup>)
-| CLASS="gauche" | [+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes](./Théurge mystique.md#SORTS)
+| CLASS="gauche" | [[théurge mystique#SORTSCOMBINES|Sorts combinés]] (5<sup>e</sup>)
+| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
 |- CLASS="alt"
 | 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [Synthèse de sortilèges](./Théurge mystique.md#SYNTHESEDESORTILEGES)
-| CLASS="gauche" | [+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes](./Théurge mystique.md#SORTS)
+| CLASS="gauche" | [[théurge mystique#SYNTHESEDESORTILEGES|Synthèse de sortilèges]]
+| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
 |}
 </center>
 
 **Rôle.** Le théurge mystique est une puissante force de frappe pour n'importe quel groupe d'aventuriers. Il emploie sa magie pour l'attaque, la défense et les soins. Il voyage de par le monde à la recherche de reliques et d'artefacts, de savoir magique ou de révélations divines, et n'a aucun scrupule à s'allier à des aventuriers tant que les buts de ces derniers n'entrent pas directement en conflit avec les siens.
 
-**Alignement.** Les théurges mystiques sont rarement altruistes ou philanthropiques. La plupart d'entre eux ont tendance à être [Neutres](./N.md), [Neutres Bons](./NB.md) ou [Neutres Mauvais](./NM.md). Les personnages [Loyaux](./Loyal.md), qu'ils soient [Neutres](./Neutre.md), [Bons](./Bon.md) ou [Mauvais](./Mauvais.md), sont plus rares, et ils utilisent leurs capacités pour le bien – ou le contrôle – de la société. Les théurges mystiques [Chaotiques](./Chaotique.md) sont encore plus rares, car c'est une voie qui demande énormément de discipline personnelle.
+**Alignement.** Les théurges mystiques sont rarement altruistes ou philanthropiques. La plupart d'entre eux ont tendance à être [[N|Neutres]], [[NB|Neutres Bons]] ou [[NM|Neutres Mauvais]]. Les personnages [[Loyal|Loyaux]], qu'ils soient [[Neutre|Neutres]], [[Bon|Bons]] ou [[Mauvais]], sont plus rares, et ils utilisent leurs capacités pour le bien – ou le contrôle – de la société. Les théurges mystiques [[Chaotique|Chaotiques]] sont encore plus rares, car c'est une voie qui demande énormément de discipline personnelle.
 
 **Dés de vie.** d6.
 
 ### Conditions
 Pour devenir théurge mystique, il faut satisfaire aux conditions suivantes :
 
-**Compétences.** Rang 3 en [Connaissances](./Connaissances.md) (mystères), rang 3 en [Connaissances](./Connaissances.md) (religion).
+**Compétences.** Rang 3 en [[Connaissances]] (mystères), rang 3 en [[Connaissances]] (religion).
 
 **Sorts.** Faculté de lancer des sorts profanes de 2<sup>e</sup> niveau et des sorts divins de 2<sup>e</sup> niveau.
 
 ### Compétences de la classe
-Les compétences du théurge mystique (et la caractéristique dont chacune dépend) sont : [Art de la magie](./Art de la magie.md) (Int), [Connaissances](./Connaissances.md) (mystères) (Int), [Connaissances](./Connaissances.md) (religion) (Int), [Psychologie](./Psychologie.md) (Sag)
+Les compétences du théurge mystique (et la caractéristique dont chacune dépend) sont : [[Art de la magie]] (Int), [[Connaissances]] (mystères) (Int), [[Connaissances]] (religion) (Int), [[Psychologie]] (Sag)
 
-**Points de compétence à chaque niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence à chaque niveau.** 2 + modificateur d’[[Intelligence]].
 
 ### Caractéristiques de la classe
 Voici les particularités et aptitudes de la classe de prestige du théurge mystique.
@@ -98,22 +98,22 @@ Le théurge mystique n’est pas formé au maniement des armes ni au port des ar
 
 {s:Reference|SORTSCOMBINES}
 #### Sorts combinés (Sur)
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#34) Théurge mystique, Sorts combinés : Comment le second paragraphe affecte-t-il les lanceurs de sorts doublement spontanés, comme un ensorceleur/oracle/théurge mystique ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#34|→]] Théurge mystique, Sorts combinés : Comment le second paragraphe affecte-t-il les lanceurs de sorts doublement spontanés, comme un ensorceleur/oracle/théurge mystique ?***
 
 Le texte en question est :
 « Les lanceurs de sorts spontanés ne peuvent lancer de cette manière que des sorts qu’ils ont préparés avec une classe de lanceur de sorts non spontanés, et ce même si le sort a déjà été utilisé. »
 
-Le but de ce texte est en fait d’imposer une limitation aux classes de lanceurs de sorts préparés, pas aux classes de lanceurs de sorts spontanés ; la limitation n’est pas quels sorts la classe de lanceur de sorts spontanés peut utiliser avec la capacité <u>[sorts combinés](./Théurge mystique.md#SORTSCOMBINES)</u>, c’est plutôt quels sorts la classe de lanceur de sorts préparés peut apporter à la capacité sorts combinés.
+Le but de ce texte est en fait d’imposer une limitation aux classes de lanceurs de sorts préparés, pas aux classes de lanceurs de sorts spontanés ; la limitation n’est pas quels sorts la classe de lanceur de sorts spontanés peut utiliser avec la capacité <u>[[Théurge mystique#SORTSCOMBINES|sorts combinés]]</u>, c’est plutôt quels sorts la classe de lanceur de sorts préparés peut apporter à la capacité sorts combinés.
 
 Par exemple, si un ensorceleur/prêtre/théurge mystique n’a préparé aucune *restauration partielle* aujourd’hui, il ne peut pas utiliser ses emplacements de sort d’ensorceleur pour lancer *restauration partielle* (parce qu’il ne peut utiliser cette capacité que pour accéder à des sorts de prêtre qu’il a préparé aujourd’hui). En revanche, rien dans la description de la capacité ne l’empêche d’utiliser ses emplacements de sort (qui doivent être préparés) de prêtre pour préparer des sorts (spontanés) d’ensorceleur qu’il connaît.
 
 De même, un ensorceleur/oracle/théurge mystique peut utiliser ses emplacements de sort d’ensorceleur pour lancer des sorts d’oracle, ou des emplacements de sort d’oracle pour lancer des sorts d’ensorceleur, tant que les augmentations de niveau et les limites de niveau décrites dans la capacité sorts combinés sont implémentées. Aucune des deux classes n’est affectée par la règle « que des sorts qu’ils ont préparés » parce que cette règle ne s’applique qu’aux théurges mystiques qui ont des niveaux dans une classe de lanceur de sorts non-spontanés.
 
 Une version plus claire de la règle citée plus haut serait :
-Si l’une des classes de lanceur de sorts du théurge est une classe de lanceur de sorts non-spontanés (comme le prêtre) et que l’autre est une classe de lanceur de sorts spontanés (comme l’ensorceleur), il ne peut spontanément lancer un sort de la classe non-spontanée que s’il l’a préparé ce jour là (qu’il ait déjà lancé ou non ce sort préparé).}Le théurge mystique peut préparer et lancer des sorts de magie profane ou divine en utilisant indifféremment ses niveaux de sorts dans les deux classes. Les sorts préparés de la sorte sont considérés comme étant d'un niveau supérieur à leur niveau effectif. Ce pouvoir ne peut servir à lancer de sort à un niveau inférieur à son niveau réel, s'il existe dans les deux listes de sorts. Au niveau 1, il peut donc préparer des sorts de 1er niveau de l'une de ses classes de lanceur de sorts, en utilisant les [emplacements de sorts](./emplacement de sort.md) de 2e niveau de son autre classe. Le niveau des sorts qui peuvent être lancés de cette façon augmente de 1 tous les niveaux impairs, et ce jusqu'à atteindre le 5e niveau au niveau 9 (ces sorts utilisent des [emplacements de sorts](./emplacement de sort.md) de 6e niveau). Les composantes de ces sorts ne changent pas, mais elles suivent les règles applicables au lancement des sorts de la classe utilisée.
+Si l’une des classes de lanceur de sorts du théurge est une classe de lanceur de sorts non-spontanés (comme le prêtre) et que l’autre est une classe de lanceur de sorts spontanés (comme l’ensorceleur), il ne peut spontanément lancer un sort de la classe non-spontanée que s’il l’a préparé ce jour là (qu’il ait déjà lancé ou non ce sort préparé).}Le théurge mystique peut préparer et lancer des sorts de magie profane ou divine en utilisant indifféremment ses niveaux de sorts dans les deux classes. Les sorts préparés de la sorte sont considérés comme étant d'un niveau supérieur à leur niveau effectif. Ce pouvoir ne peut servir à lancer de sort à un niveau inférieur à son niveau réel, s'il existe dans les deux listes de sorts. Au niveau 1, il peut donc préparer des sorts de 1er niveau de l'une de ses classes de lanceur de sorts, en utilisant les [[emplacement de sort|emplacements de sorts]] de 2e niveau de son autre classe. Le niveau des sorts qui peuvent être lancés de cette façon augmente de 1 tous les niveaux impairs, et ce jusqu'à atteindre le 5e niveau au niveau 9 (ces sorts utilisent des [[emplacement de sort|emplacements de sorts]] de 6e niveau). Les composantes de ces sorts ne changent pas, mais elles suivent les règles applicables au lancement des sorts de la classe utilisée.
 
-Les lanceurs de sorts spontanés ne peuvent lancer de cette manière que des sorts qu’ils ont préparés avec une classe de lanceur de sorts non spontanés, et ce même si le sort a déjà été utilisé. Par exemple, un [prêtre](./Prêtre.md)/[ensorceleur](./Ensorceleur.md)/[théurge mystique](./Théurge mystique.md) peut lancer un sort de *[bénédiction](./Bénédiction.md)* en utilisant un [emplacement de sort](./emplacement de sort.md) d’[ensorceleur](./Ensorceleur.md) de 2e niveau seulement s'il a préparé un sort de *[bénédiction](./Bénédiction.md)* en utilisant un sort de 1er niveau, et ce même s'il l'a déjà utilisé.
+Les lanceurs de sorts spontanés ne peuvent lancer de cette manière que des sorts qu’ils ont préparés avec une classe de lanceur de sorts non spontanés, et ce même si le sort a déjà été utilisé. Par exemple, un [[prêtre]]/[[ensorceleur]]/[[théurge mystique]] peut lancer un sort de *[[bénédiction]]* en utilisant un [[emplacement de sort]] d’[[ensorceleur]] de 2e niveau seulement s'il a préparé un sort de *[[bénédiction]]* en utilisant un sort de 1er niveau, et ce même s'il l'a déjà utilisé.
 
 {s:Reference|SYNTHESEDESORTILEGES}
 #### Synthèse de sortilèges (Sur)
-Au niveau 10, le théurge mystique est capable de lancer deux sorts, de deux classes de lanceurs de sorts différentes, par une seule action. Ces deux sorts doivent avoir le même temps d'incantation. Le personnage prend les décisions qui s'imposent pour chacun des sorts de manière indépendante. Une cible affectée par les deux sorts subit un malus de -2 aux [jets de sauvegarde](./jet de sauvegarde.md) pour chaque sort. Le théurge mystique bénéficie d'un bonus de +2 sur son jet de [niveau de lanceur de sorts](./NLS.md) pour vaincre la [résistance à la magie](./résistance à la magie.md) de sa cible, et ce pour les deux sorts. Il peut utiliser ce pouvoir une fois par jour.
+Au niveau 10, le théurge mystique est capable de lancer deux sorts, de deux classes de lanceurs de sorts différentes, par une seule action. Ces deux sorts doivent avoir le même temps d'incantation. Le personnage prend les décisions qui s'imposent pour chacun des sorts de manière indépendante. Une cible affectée par les deux sorts subit un malus de -2 aux [[jet de sauvegarde|jets de sauvegarde]] pour chaque sort. Le théurge mystique bénéficie d'un bonus de +2 sur son jet de [[NLS|niveau de lanceur de sorts]] pour vaincre la [[résistance à la magie]] de sa cible, et ce pour les deux sorts. Il peut utiliser ce pouvoir une fois par jour.

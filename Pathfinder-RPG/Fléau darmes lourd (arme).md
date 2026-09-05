@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 15 po ; **Poids** 5 kg ; **Groupes** [fléaux](./groupe darmes.md#Fléaux)
-**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** C ; **Spécial** [croc-en-jambe](./Caractéristiques des armes.md#CROCENJAMBE), [désarmement](./Caractéristiques des armes.md#DESARMEMENT)
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+{s:AE}**Prix** 15 po ; **Poids** 5 kg ; **Groupes** [[Groupe darmes#Fléaux|fléaux]]
+**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** C ; **Spécial** [[Caractéristiques des armes#CROCENJAMBE|croc-en-jambe]], [[Caractéristiques des armes#DESARMEMENT|désarmement]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
-Similaire au [fléau d’armes léger](./Fléau darmes léger (arme).md), le fléau d’armes lourd a une plus grosse boule de métal et une poignée plus longue.
+Similaire au [[fléau darmes léger (arme)|fléau d’armes léger]], le fléau d’armes lourd a une plus grosse boule de métal et une poignée plus longue.

@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Pumassue|FP 3}
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.213](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.213]]*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDTexte|**Init** +9 ; **Sens** [odorat](./Odorat (capacité).md), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille M, N}
+{s:BDTexte|**Init** +9 ; **Sens** [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 15, pris au dépourvu 11 (Dex +5, naturelle +1)}
 {s:BDTexte|**pv** 32 (5d8+10)}
@@ -25,15 +25,15 @@ Categories:
 {s:BDTexte|**Attaques spéciales** boule caudale}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 20, **Con** 15, **Int** 2, **Sag** 13, **Cha** 7}
-{s:BDTexte|**BBA** +3 ; **BMO** +7 ; **DMD** 22 (26 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) (Discrétion)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +9, [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +12, [Perception](./Perception.md) +5}
+{s:BDTexte|**BBA** +3 ; **BMO** +7 ; **DMD** 22 (26 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Science de linitiative|Science de l'initiative]], [[Talent]] (Discrétion)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +9, [[Discrétion]] +14, [[Escalade]] +12, [[Perception]] +5}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
 {s:BDTexte|**Organisation** solitaire ou couple}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Boule caudale (Ext).** Un pumassue possède une boule à pointes à l’extrémité de sa queue, qu’il peut utiliser pour effectuer une [attaque naturelle secondaire](./Attaques naturelles (capacité).md). Cette attaque inflige 1d4 points de dégâts contondants et perforants. Le pumassue peut remplacer son attaque de queue normale par une manœuvre de [bousculade](./bousculade.md) ou de [croc-en-jambe](./croc-en-jambe.md). Une telle manœuvre offensive ne provoque pas d’[attaques d’opportunité](./AO.md) et bénéficie d’un bonus racial de +4 ; un pumassue qui rate sa tentative de croc-en-jambe de 10 ou plus de cette façon ne tombe pas [à terre](./À terre.md).}
+{s:BDTexte|**Boule caudale (Ext).** Un pumassue possède une boule à pointes à l’extrémité de sa queue, qu’il peut utiliser pour effectuer une [[Attaques naturelles (capacité)|attaque naturelle secondaire]]. Cette attaque inflige 1d4 points de dégâts contondants et perforants. Le pumassue peut remplacer son attaque de queue normale par une manœuvre de [[bousculade]] ou de [[croc-en-jambe]]. Une telle manœuvre offensive ne provoque pas d’[[AO|attaques d’opportunité]] et bénéficie d’un bonus racial de +4 ; un pumassue qui rate sa tentative de croc-en-jambe de 10 ou plus de cette façon ne tombe pas [[à terre]].}
 
 </div></td>
 <td><div>*Ce félin musclé ressemblant à un puma a des crocs impressionnants et une queue épaisse à l’extrémité en forme de boule à pointes.*
@@ -47,10 +47,10 @@ Même si leur intelligence est seulement celle d’un animal, les pumassues comm
 Un pumassue mesure presque 1 mètre au garrot et 1,80 mètre de long pour un poids de 90 kilos.
 
 #### Félin argenté
-Plus rares encore que les pumassues ordinaires, ces spécimens que l’on appelle félins argentés ont une fourrure gris-bleu que l’éclat de la lune fait chatoyer. Les félins argentés sont des pumassues avec l’archétype simple de [créature évoluée](./Archétypes.md#CREATUREEVOLUEE). Leur boule caudale n’a pas de pointes, mais les coups qu’ils donnent avec sont plus puissants. Cette attaque avec la queue n’inflige que des dégâts contondants, mais le bonus racial aux tests de [bousculade](./bousculade.md) et de [croc-en-jambe](./croc-en-jambe.md) effectués avec elle s’élève à +6.
+Plus rares encore que les pumassues ordinaires, ces spécimens que l’on appelle félins argentés ont une fourrure gris-bleu que l’éclat de la lune fait chatoyer. Les félins argentés sont des pumassues avec l’archétype simple de [[Archétypes#CREATUREEVOLUEE|créature évoluée]]. Leur boule caudale n’a pas de pointes, mais les coups qu’ils donnent avec sont plus puissants. Cette attaque avec la queue n’inflige que des dégâts contondants, mais le bonus racial aux tests de [[bousculade]] et de [[croc-en-jambe]] effectués avec elle s’élève à +6.
 
-#### Le pumassue comme [compagnon animal](./liste des compagnons animaux.md)
-**Caractéristiques de départ :** **Taille** P ; **Vitesse** 15 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 griffes (1d2), queue (1d2) ; **Caractéristiques** For 10, Dex 21, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** boule caudale, [odorat](./Odorat (capacité).md), [vision nocturne](./Vision nocturne (capacité).md)
+#### Le pumassue comme [[Liste des compagnons animaux|compagnon animal]]
+**Caractéristiques de départ :** **Taille** P ; **Vitesse** 15 m ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 griffes (1d2), queue (1d2) ; **Caractéristiques** For 10, Dex 21, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** boule caudale, [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]]
 
 **Développement au niveau 7 :** **Taille** M ; **Attaque** morsure (1d6) et 2 griffes (1d3) et queue (1d3) ; **Caractéristiques** For +4, Dex -2, Con +2
 </div></td></tr></table>

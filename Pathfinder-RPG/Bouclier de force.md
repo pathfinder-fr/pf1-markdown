@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [conjurateur](./Conjurateur.md) 1, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 1, [magus](./Magus.md) 1, [prêtre](./Prêtre.md) 1, [sorcière](./Sorcière.md) 1  
+**École** [[Abjuration]] ; **Niveau** [[conjurateur]] 1, [[ensorceleur]]/[[magicien]] 1, [[magus]] 1, [[prêtre]] 1, [[sorcière]] 1  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** non  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non  
 
-**Restriction de cible** *[choisi](./Choisi.md)*, *[personnel](./Personnel (mot de pouvoir).md)*
+**Restriction de cible** *[[choisi]]*, *[[personnel (mot de pouvoir)|personnel]]*
 
-La cible d’un sort incluant cet effet reçoit un bonus d’armure de +4 à la [CA](./CA.md). Cette armure est un champ de force et protège des attaques des créatures [intangibles](./Intangible.md).
+La cible d’un sort incluant cet effet reçoit un bonus d’armure de +4 à la [[CA]]. Cette armure est un champ de force et protège des attaques des créatures [[intangible|intangibles]].

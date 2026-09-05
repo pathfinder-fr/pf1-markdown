@@ -9,4 +9,4 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire 5 p.318*
 
-Ce sous-type s’applique à l’étrange race d’humanoïdes extraplanaires appelés des [petits-gris](./Petit-gris.md), ainsi qu’aux créatures apparentées.
+Ce sous-type s’applique à l’étrange race d’humanoïdes extraplanaires appelés des [[Petit-gris|petits-gris]], ainsi qu’aux créatures apparentées.

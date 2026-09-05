@@ -9,6 +9,6 @@ Categories:
 
 {s:cm}*L’ogre est capable de porter des coups critiques avec précision, infligeant des dégâts dévastateurs.*
 
-**Conditions.** [For](./For.md) 19, [ogre](./Ogre.md), [attaque sournoise](./attaque sournoise.md) +2d6
+**Conditions.** [[For]] 19, [[ogre]], [[attaque sournoise]] +2d6
 
-**Avantages.** Quand il frappe une créature avec sa [Frappe décisive](./Frappe décisive.md) ou qu’il confirme un [coup critique](./coup critique.md) contre un adversaire, l’ogre ajoute les dégâts de son [attaque sournoise](./attaque sournoise.md) aux dégâts de son attaque. Ce don n’a aucun effet sur les attaques qui lui permettent déjà d’ajouter les dégâts de son attaque sournoise.
+**Avantages.** Quand il frappe une créature avec sa [[Frappe décisive]] ou qu’il confirme un [[coup critique]] contre un adversaire, l’ogre ajoute les dégâts de son [[attaque sournoise]] aux dégâts de son attaque. Ce don n’a aucun effet sur les attaques qui lui permettent déjà d’ajouter les dégâts de son attaque sournoise.

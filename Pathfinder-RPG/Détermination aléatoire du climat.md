@@ -17,23 +17,23 @@ Il arrive que le temps joue un rôle important dans une aventure. La table ci-de
 {| CLASS="tablo" WIDTH="90%"
 |+ Détermination aléatoire du climat
 |- CLASS="titre"
-| d% || Temps || Région froide || Région tempérée<sup>[1](./Climat.md#NOTE1)</sup> || Désert
+| d% || Temps || Région froide || Région tempérée<sup>[[Climat#NOTE1|1]]</sup> || Désert
 |- CLASS="premier"
-| 01–70 || Normal || [Froid](./Détermination aléatoire du climat.md#FROID), [temps calme](./Détermination aléatoire du climat.md#TEMPSCALME) || Normal pour la saison<sup>[2](./Climat.md#NOTE2)</sup> || [Très chaud](./Détermination aléatoire du climat.md#TRESCHAUD), [temps calme](./Détermination aléatoire du climat.md#TEMPSCALME)
+| 01–70 || Normal || [[Détermination aléatoire du climat#FROID|Froid]], [[Détermination aléatoire du climat#TEMPSCALME|temps calme]] || Normal pour la saison<sup>[[Climat#NOTE2|2]]</sup> || [[Détermination aléatoire du climat#TRESCHAUD|Très chaud]], [[Détermination aléatoire du climat#TEMPSCALME|temps calme]]
 |- CLASS="alt"
-| 71–80 || Anormal || [Vague de chaleur](./Détermination aléatoire du climat.md#VAGUEDECHALEUR) (01–30) ou   
-[coup de froid](./Détermination aléatoire du climat.md#COUPDEFROID) (31-100) || [Vague de chaleur](./Détermination aléatoire du climat.md#VAGUEDECHALEUR) (01–50) ou   
-[coup de froid](./Détermination aléatoire du climat.md#COUPDEFROID) (51-100) || [Très chaud](./Détermination aléatoire du climat.md#TRESCHAUD), [venteux](./Détermination aléatoire du climat.md#VENTEUX)
+| 71–80 || Anormal || [[Détermination aléatoire du climat#VAGUEDECHALEUR|Vague de chaleur]] (01–30) ou   
+[[Détermination aléatoire du climat#COUPDEFROID|coup de froid]] (31-100) || [[Détermination aléatoire du climat#VAGUEDECHALEUR|Vague de chaleur]] (01–50) ou   
+[[Détermination aléatoire du climat#COUPDEFROID|coup de froid]] (51-100) || [[Détermination aléatoire du climat#TRESCHAUD|Très chaud]], [[Détermination aléatoire du climat#VENTEUX|venteux]]
 |-
-| 81–90 || Mauvais || [Précipitations](./Détermination aléatoire du climat.md#PRECIPITATIONS) (neige) || [Précipitations](./Détermination aléatoire du climat.md#PRECIPITATIONS) (normales pour la saison) || [Très chaud](./Détermination aléatoire du climat.md#TRESCHAUD), [venteux](./Détermination aléatoire du climat.md#VENTEUX)
+| 81–90 || Mauvais || [[Détermination aléatoire du climat#PRECIPITATIONS|Précipitations]] (neige) || [[Détermination aléatoire du climat#PRECIPITATIONS|Précipitations]] (normales pour la saison) || [[Détermination aléatoire du climat#TRESCHAUD|Très chaud]], [[Détermination aléatoire du climat#VENTEUX|venteux]]
 |- CLASS="alt"
-| 91–99 || Tempête || [Tempête de neige](./Détermination aléatoire du climat.md#TEMPETE) || [Orage, Tempête de neige](./Détermination aléatoire du climat.md#TEMPETE) || [Tempête de sable](./Détermination aléatoire du climat.md#TEMPETE)
+| 91–99 || Tempête || [[Détermination aléatoire du climat#TEMPETE|Tempête de neige]] || [[Détermination aléatoire du climat#TEMPETE|Orage, Tempête de neige]] || [[Détermination aléatoire du climat#TEMPETE|Tempête de sable]]
 |-
-| 100 || Violente tempête || [Blizzard](./Détermination aléatoire du climat.md#VIOLENTE) || [Cyclone, blizzard, ouragan, tornade](./Détermination aléatoire du climat.md#VIOLENTE) || [Trombes d’eau](./Détermination aléatoire du climat.md#TROMBESDEAU)
+| 100 || Violente tempête || [[Détermination aléatoire du climat#VIOLENTE|Blizzard]] || [[Détermination aléatoire du climat#VIOLENTE|Cyclone, blizzard, ouragan, tornade]] || [[Détermination aléatoire du climat#TROMBESDEAU|Trombes d’eau]]
 |-
 | COLSPAN="5" CLASS="note" | {s:Reference|NOTE1}(1) Les régions tempérées comprennent les forêts, collines, marécages, montagnes, plaines et mers chaudes.
 |-
-| COLSPAN="5" CLASS="note" | {s:Reference|NOTE2}(2) [Froid](./Détermination aléatoire du climat.md#FROID) pendant l’hiver, [chaud](./Détermination aléatoire du climat.md#CHAUD) pendant l'été, [tempéré](./Détermination aléatoire du climat.md#TEMPERE) pendant l'automne et le printemps. En hiver, les régions marécageuses sont toujours légèrement plus chaudes que les autres.
+| COLSPAN="5" CLASS="note" | {s:Reference|NOTE2}(2) [[Détermination aléatoire du climat#FROID|Froid]] pendant l’hiver, [[Détermination aléatoire du climat#CHAUD|chaud]] pendant l'été, [[Détermination aléatoire du climat#TEMPERE|tempéré]] pendant l'automne et le printemps. En hiver, les régions marécageuses sont toujours légèrement plus chaudes que les autres.
 |}
 </center>
 
@@ -49,9 +49,9 @@ Il arrive que le temps joue un rôle important dans une aventure. La table ci-de
 
 #### Autres éléments
 
-- {s:Reference|PRECIPITATIONS}**Précipitations** : jetez 1d100 afin de savoir si les précipitations prennent la forme de brouillard (01–30), de pluie ou de neige (31–90), ou de neige fondue ou de grêle (91–00). La neige ne peut se former qu’en cas de température inférieure à 0° C. La plupart des types de précipitations tombent durant 2d4 heures, à l’exception de la grêle (1d20 minutes seulement, mais elle s’accompagne généralement de 1d4 heures de pluie). Voir la section [Pluie, neige, neige fondue et grêle](./Pluie, neige, neige fondue et grêle.md).
-- {s:Reference|TEMPETE}**Tempête (de sable, de neige, orage)** : les [vents](./Vents.md) sont violents (50 à 80 km/h) et la visibilité diminuée de 75 %. Une tempête sévit pendant 2d4-1 heures. Voir la section sur les [tempêtes](./Tempêtes.md).
+- {s:Reference|PRECIPITATIONS}**Précipitations** : jetez 1d100 afin de savoir si les précipitations prennent la forme de brouillard (01–30), de pluie ou de neige (31–90), ou de neige fondue ou de grêle (91–00). La neige ne peut se former qu’en cas de température inférieure à 0° C. La plupart des types de précipitations tombent durant 2d4 heures, à l’exception de la grêle (1d20 minutes seulement, mais elle s’accompagne généralement de 1d4 heures de pluie). Voir la section [[Pluie, neige, neige fondue et grêle]].
+- {s:Reference|TEMPETE}**Tempête (de sable, de neige, orage)** : les [[vents]] sont violents (50 à 80 km/h) et la visibilité diminuée de 75 %. Une tempête sévit pendant 2d4-1 heures. Voir la section sur les [[tempêtes]].
 - {s:Reference|TEMPSCALME}**Temps calme** : Très faible vent (de 0 à 15 km/h).
-- {s:Reference|TROMBESDEAU}**Trombes d’eau** : semblables à la pluie (voir « Précipitations », ci-dessus), mais leur violence est telle qu’elles limitent le champ de vision comme le [brouillard](./Brouillard.md). Elles peuvent provoquer des inondations (voir [Milieu aquatique](./Milieu aquatique.md)). Les trombes d’eau durent pendant 2d4 heures.
-- {s:Reference|VENTEUX}**Venteux** : Vent moyen (15 à 30 km/h) ou important (30 à 50 km/h). Se référer à la section sur les [vents](./Vents.md).
-- {s:Reference|VIOLENTE}**Violente tempête (cyclone, blizzard, ouragan, tornade)** : la vitesse des vents s’élève au dessus de 80 km/h (voir la section sur les [vents](./Vents.md)). De plus, il se joint aux blizzards d’importantes chutes de neige (1d3 x 30 cm) et aux ouragans des trombes d’eau (voir ci-dessus). Un cyclone persiste pendant 1d6 heures, un blizzard 1d3 jours. Un ouragan peut parfois durer jusqu’à une semaine, mais il aura principalement de l’impact sur les personnages de vingt-quatre à quarante-huit heures, le temps que sa partie centrale traverse la région où se trouve le groupe. Quand à la tornade, elle possède une durée de vie extrêmement réduite (1d6 x 10 minutes). Généralement, elle se forme dans le cadre d’un orage. Voir les sections sur les [tempêtes](./Tempêtes.md) et sur les [vents](./Vents.md).
+- {s:Reference|TROMBESDEAU}**Trombes d’eau** : semblables à la pluie (voir « Précipitations », ci-dessus), mais leur violence est telle qu’elles limitent le champ de vision comme le [[brouillard]]. Elles peuvent provoquer des inondations (voir [[Milieu aquatique]]). Les trombes d’eau durent pendant 2d4 heures.
+- {s:Reference|VENTEUX}**Venteux** : Vent moyen (15 à 30 km/h) ou important (30 à 50 km/h). Se référer à la section sur les [[vents]].
+- {s:Reference|VIOLENTE}**Violente tempête (cyclone, blizzard, ouragan, tornade)** : la vitesse des vents s’élève au dessus de 80 km/h (voir la section sur les [[vents]]). De plus, il se joint aux blizzards d’importantes chutes de neige (1d3 x 30 cm) et aux ouragans des trombes d’eau (voir ci-dessus). Un cyclone persiste pendant 1d6 heures, un blizzard 1d3 jours. Un ouragan peut parfois durer jusqu’à une semaine, mais il aura principalement de l’impact sur les personnages de vingt-quatre à quarante-huit heures, le temps que sa partie centrale traverse la région où se trouve le groupe. Quand à la tornade, elle possède une durée de vie extrêmement réduite (1d6 x 10 minutes). Généralement, elle se forme dans le cadre d’un orage. Voir les sections sur les [[tempêtes]] et sur les [[vents]].

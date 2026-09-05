@@ -17,17 +17,17 @@ Categories:
 {s:cs}
 **(Source : Heroes of the street)**
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Bard](./Barde.md) 1, [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Inq](./Inquisiteur.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 1 , [Sor](./Sorcière.md) 1  
+**École** [[Abjuration]] ; **Niveau** [[barde|Bard]] 1, [[chaman|Cham]] 1, [[druide|Dru]] 1, [[ensorceleur|Ens]]/[[magicien|Mag]] 1, [[inquisiteur|Inq]] 1, [[paladin|Pal]] 1, [[prêtre|Prê]] 1 , [[sorcière|Sor]] 1  
 
-**Temps d'incantation** 1 [action simple]  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V,G,M/FD](./composantes.md)(un cube en verre)  
+**Composantes** [[composantes|V,G,M/FD]](un cube en verre)  
 
-**Portée** courte (7.5m + 1.5 m/2[niveau](./niveau.md)) (5 {s:c} + 1 {s:c}/2[niveau](./niveau.md))  
+**Portée** courte (7.5m + 1.5 m/2[[niveau]]) (5 {s:c} + 1 {s:c}/2[[niveau]])  
 
 **Zone d'effet** Peut avoir plus d'un cube, jusqu'à 9 m (6 {s:c}) de distance entre chaque cube.  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non  
 
@@ -36,7 +36,7 @@ Ce sort crée 1 rune de paix brillante plus 1 tous les 2 niveaux au dessus du ni
 
 Chaque rune illumine un cube de 1,5 m (1 {s:c}), empêchant n'importe quel sort jusqu'au 3ème niveau que vous lancez et qui a une zone définie (à la différence d'un effet ou des cibles) de rentrer dans le cube ou de l'affecter.
 
-Ainsi, si vous lancez *[Nuage nauséabond](./Nuage nauséabond.md)* par exemple, les vapeurs toxiques sont un effet et passeront à travers le cube en produisant leur effet normalement.
+Ainsi, si vous lancez *[[Nuage nauséabond]]* par exemple, les vapeurs toxiques sont un effet et passeront à travers le cube en produisant leur effet normalement.
 
 Le sort ne bloque cependant pas la ligne de vue des sorts que vous lancez depuis l'intérieur du cube. Le cube annule simplement tous les effets des sorts de niveaux 1 à 3 de votre liste dans la zone correspondant à la marque de paix.
 

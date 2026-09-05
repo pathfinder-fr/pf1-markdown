@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** +5 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Conçue et approuvée par un membre de la religion concernée, cette modification intègre un compartiment secret au [symbole sacré](./Symbole sacré (objet).md), afin d'y cacher une fiole de [potion](./Potions magiques.md). Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 20 pour repérer le compartiment.
+Conçue et approuvée par un membre de la religion concernée, cette modification intègre un compartiment secret au [[Symbole sacré (objet)|symbole sacré]], afin d'y cacher une fiole de [[Potions magiques|potion]]. Il faut réussir un test de [[Perception]] [[DD]] 20 pour repérer le compartiment.

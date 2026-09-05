@@ -13,25 +13,25 @@ Categories:
 ---
 
 {s:UM}
-**École** [Illusion](./Illusion.md) ([mirage](./branche mirage.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3  
+**École** [[Illusion]] ([[branche mirage|mirage]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un écheveau de fils multicolores)  
+**Composantes** [[Composantes|V, G, M]] (un écheveau de fils multicolores)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** voile transparent de 12 m (8 {s:c}) de long et 6 m (4 {s:c}) de haut  
 
-**Durée** [concentration](./Présentation des sorts.md#DUREE) + 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** [[présentation des sorts#DUREE|concentration]] + 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Ce sort crée un voile transparent aux couleurs changeantes constitué de fils de lumière multicolores qui dessinent des formes étrangères variées. Le voile possède un côté inoffensif que le personnage choisit au moment de l’incantation. L’autre se tord et se contorsionne pour tracer des formes impossibles qui affectent toutes les créatures qui le voient à moins de 18 mètres (12 {s:c}). Le voile affecte un maximum de 24 [DV](./../Ressources/DV.md) de créatures et touche en premier celles qui possèdent le moins de [DV](./../Ressources/DV.md). Si plusieurs créatures ont le même nombre de [DV](./../Ressources/DV.md), il affecte d’abord celles qui sont les plus proches. L’effet dépend du nombre de [DV](./../Ressources/DV.md) de la créature.
-- *4 DV ou moins.* La créature est [nauséeuse](./Nauséeux.md) tant qu’elle voit le voile, 1d4 [rounds](./round.md) après qu’elle l’a vu pour la dernière fois et elle est [fiévreuse](./Fiévreux.md) pendant 2d4 [rounds](./round.md) après l’avoir vu pour la dernière fois.
-- *8 DV ou moins.* La créature est [nauséeuse](./Nauséeux.md) pendant 1d4 [rounds](./round.md), puis [fiévreuse](./Fiévreux.md) tant qu’elle voit le voile et pendant 1d4 [rounds](./round.md) après l’avoir vu pour la dernière fois.
-- *9 DV ou plus.* La créature est [fiévreuse](./Fiévreux.md) tant qu’elle voit le voile.
+Ce sort crée un voile transparent aux couleurs changeantes constitué de fils de lumière multicolores qui dessinent des formes étrangères variées. Le voile possède un côté inoffensif que le personnage choisit au moment de l’incantation. L’autre se tord et se contorsionne pour tracer des formes impossibles qui affectent toutes les créatures qui le voient à moins de 18 mètres (12 {s:c}). Le voile affecte un maximum de 24 [[DV]] de créatures et touche en premier celles qui possèdent le moins de [[DV]]. Si plusieurs créatures ont le même nombre de [[DV]], il affecte d’abord celles qui sont les plus proches. L’effet dépend du nombre de [[DV]] de la créature.
+- *4 DV ou moins.* La créature est [[nauséeux|nauséeuse]] tant qu’elle voit le voile, 1d4 [[round|rounds]] après qu’elle l’a vu pour la dernière fois et elle est [[fiévreux|fiévreuse]] pendant 2d4 [[round|rounds]] après l’avoir vu pour la dernière fois.
+- *8 DV ou moins.* La créature est [[nauséeux|nauséeuse]] pendant 1d4 [[round|rounds]], puis [[fiévreux|fiévreuse]] tant qu’elle voit le voile et pendant 1d4 [[round|rounds]] après l’avoir vu pour la dernière fois.
+- *9 DV ou plus.* La créature est [[fiévreux|fiévreuse]] tant qu’elle voit le voile.
 
-Une créature qui réussit son [jet de sauvegarde](./jet de sauvegarde.md) ignore les effets du voile. Les créatures [aveugles](./Aveuglé.md) ne sont pas affectées. Les créatures affectées peuvent se détourner ou fermer les yeux pour ne plus voir le voile, comme pour éviter une [attaque de regard](./Regard (capacité).md).
+Une créature qui réussit son [[jet de sauvegarde]] ignore les effets du voile. Les créatures [[aveuglé|aveugles]] ne sont pas affectées. Les créatures affectées peuvent se détourner ou fermer les yeux pour ne plus voir le voile, comme pour éviter une [[regard (capacité)|attaque de regard]].
 
-On peut rendre le voile permanent à l’aide d’un sort de *[permanence](./Permanence.md)* pour 7 500 po à condition que le personnage soit de [niveau](./niveau.md) 10 ou plus.
+On peut rendre le voile permanent à l’aide d’un sort de *[[permanence]]* pour 7 500 po à condition que le personnage soit de [[niveau]] 10 ou plus.

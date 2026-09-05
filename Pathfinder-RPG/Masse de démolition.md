@@ -8,10 +8,10 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Masse de démolition|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée  ; **NLS** 7 (inférieur), 11 (normal) ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 16.012 po (inférieur), 75.312 po (normal) ; **Poids** 4 kg
+**Aura** [[Transmutation]] modérée  ; **NLS** 7 (inférieur), 11 (normal) ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 16.012 po (inférieur), 75.312 po (normal) ; **Poids** 4 kg
 (((Description)))
-Une *masse de démolition inférieure* est une [masse d’armes lourde](./masse darmes lourde (arme).md) +1 en [adamantium](./Matériaux spéciaux.md#ADAMANTIUM) qui bénéficie d’un bonus d’altération de +3 contre les [créatures artificielles](./Créatures artificielles.md). De plus, chaque fois qu’elle obtient un coup critique contre un tel adversaire, son facteur de critique passe à x4 (au lieu de x2). Enfin, son facteur de critique est de x3 (au lieu de x2) contre les Extérieurs.
-Une *masse de démolition* est une masse d’armes lourde +3 en [adamantium](./Matériaux spéciaux.md#ADAMANTIUM) qui bénéficie d’un bonus d’altération de +5 contre les [créatures artificielles](./Créatures artificielles.md). De plus, chaque fois qu’elle obtient un coup critique contre un tel adversaire, celui-ci est aussitôt détruit (sans [jet de sauvegarde](./JDS.md)). Enfin, son facteur de critique est de x4 (au lieu de x2) contre les Extérieurs.
+Une *masse de démolition inférieure* est une [[Masse darmes lourde (arme)|masse d’armes lourde]] +1 en [[matériaux spéciaux#ADAMANTIUM|adamantium]] qui bénéficie d’un bonus d’altération de +3 contre les [[créatures artificielles]]. De plus, chaque fois qu’elle obtient un coup critique contre un tel adversaire, son facteur de critique passe à x4 (au lieu de x2). Enfin, son facteur de critique est de x3 (au lieu de x2) contre les Extérieurs.
+Une *masse de démolition* est une masse d’armes lourde +3 en [[matériaux spéciaux#ADAMANTIUM|adamantium]] qui bénéficie d’un bonus d’altération de +5 contre les [[créatures artificielles]]. De plus, chaque fois qu’elle obtient un coup critique contre un tel adversaire, celui-ci est aussitôt détruit (sans [[jds|jet de sauvegarde]]). Enfin, son facteur de critique est de x4 (au lieu de x2) contre les Extérieurs.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[désintégration](./Désintégration.md)*  ; **Coût** 9.512 po (inférieur), 39.312 po (normal)
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[désintégration]]*  ; **Coût** 9.512 po (inférieur), 39.312 po (normal)
 </div>

@@ -12,8 +12,8 @@ On ne peut jamais acheter un artefact, ni le trouver par hasard dans un trésor.
 
 ### Artefacts mineurs
 Les artefacts présentés ici sont tous mineurs. Ils ne sont pas forcement uniques, mais même dans ce cas, il est impossible d’en créer d’autres, en tout cas pas avec des moyens accessibles au commun des mortels.
-- [Archive mémorielle](./Archive mémorielle.md) (AO)
-- [Portrait des âmes](./Portrait des âmes.md) (AO)
-- [Réseau de portails](./Réseau de portails.md) (AO)
-- [Symbole primordial](./Symbole primordial.md) (AO)
-- [Couronne d'étain fondu](./Couronne détain fondu.md) (AO)
+- [[Archive mémorielle]] (AO)
+- [[Portrait des âmes]] (AO)
+- [[Réseau de portails]] (AO)
+- [[Symbole primordial]] (AO)
+- [[Couronne détain fondu|Couronne d'étain fondu]] (AO)

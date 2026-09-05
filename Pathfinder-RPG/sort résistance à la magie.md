@@ -12,19 +12,19 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-{s:Desambi|Résistance à la magie est également le nom d'une [capacité spéciale](./résistance à la magie.md) et d'une [propriété d'armures magiques](./résistance-à-la-magie-(propriété).md).}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Alch](./Alchimiste.md) 5, [Inq](./Inquisiteur.md) 5, [Occ](./Occultiste.md) 5, [Prê](./Prêtre.md) 5, [Psy](./Psychiste.md) 5, [Spi](./Spirite.md) 5  
+{s:Desambi|Résistance à la magie est également le nom d'une [[résistance à la magie|capacité spéciale]] et d'une [[résistance à la magie (propriété)|propriété d'armures magiques]].}
+**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 5, [[Inquisiteur|Inq]] 5, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 5, [[Psychiste|Psy]] 5, [[Spirite|Spi]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-L’individu touché acquiert une [résistance à la magie](./RM.md) égale à 12 + [niveau de lanceur de sorts](./NLS.md).
+L’individu touché acquiert une [[RM|résistance à la magie]] égale à 12 + [[NLS|niveau de lanceur de sorts]].

@@ -10,5 +10,5 @@ La Foi Verte est une philosophie basée sur la nature et la croyance que les for
 La Foi Verte est basée sur la nature mais il n'est pas nécessaire d'être un druide pour suivre cette philosophie. Et tous les druides ne se considèrent pas forcément comme des membres de cette philosophie.
 
 {s:VoirAussiAvant}
-- Le [troisième volume](./../Aventures/Présentation AP13.md#AP13-3) de la treizième campagne, [La Colère des Justes](./../Aventures/Présentation AP13.md), contient un article qui détaille cette philosophie.
+- Le [[Aventures.Présentation AP13#AP13-3|troisième volume]] de la treizième campagne, [[Aventures.Présentation AP13|La Colère des Justes]], contient un article qui détaille cette philosophie.
 {s:VoirAussiAprès}

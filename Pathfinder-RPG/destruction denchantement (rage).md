@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#DESTRUCTIONDENCHANTEMENT
 ---
 
->>> [Pouvoirs de rage#DESTRUCTIONDENCHANTEMENT](./Pouvoirs de rage.md#DESTRUCTIONDENCHANTEMENT)
+>>> [[Pouvoirs de rage#DESTRUCTIONDENCHANTEMENT]]

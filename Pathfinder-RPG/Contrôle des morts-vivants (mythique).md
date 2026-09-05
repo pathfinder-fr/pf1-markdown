@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le contrôle du personnage sur les morts-vivants est pratiquement absolu.*
 
-**Condition.** [Contrôle des morts-vivants](./Contrôle des morts-vivants.md)
+**Condition.** [[Contrôle des morts-vivants]]
 
-**Avantage.** Lorsque le personnage [contrôle des morts-vivants](./Contrôle des morts-vivants.md), le DD des jets de [Volonté](./Volonté.md) augmente de la moitié de son [grade](./Grade.md) et les morts-vivants intelligents ne bénéficient d’aucune sauvegarde supplémentaire au-delà de la première pour y résister. Toutes les tentatives effectuées par des créatures [non-mythiques](./non-mythiques.md) pour reprendre le contrôle imposé par le personnage échouent automatiquement et le personnage gagne un bonus de +4 aux tests de [Charisme](./Charisme.md) effectués pour empêcher les créatures mythiques de s’emparer du contrôle de ses morts-vivants.
+**Avantage.** Lorsque le personnage [[contrôle des morts-vivants]], le DD des jets de [[Volonté]] augmente de la moitié de son [[grade]] et les morts-vivants intelligents ne bénéficient d’aucune sauvegarde supplémentaire au-delà de la première pour y résister. Toutes les tentatives effectuées par des créatures [[non-mythiques]] pour reprendre le contrôle imposé par le personnage échouent automatiquement et le personnage gagne un bonus de +4 aux tests de [[Charisme]] effectués pour empêcher les créatures mythiques de s’emparer du contrôle de ses morts-vivants.

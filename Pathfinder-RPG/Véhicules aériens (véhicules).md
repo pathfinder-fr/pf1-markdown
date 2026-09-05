@@ -54,9 +54,9 @@ Les véhicules aériens fendent les airs. Ils sont en général propulsés par l
 - **BMO** +8 ; **DMD** 18
 - **Dégâts de collision** 8d8
 (((Description)))
-- Ce véhicule est fait de bois et a en général la forme d'un dragon. Il vole au-dessus du sol uniquement grâce à son moteur alchimique, un objet compliqué et dangereux qui a tendance à exploser quand le véhicule est en panne. Lorsque cela survient et si le dragon alchimique a un conducteur, celui-ci peut faire un test de conduite [DD](./DD.md) 30 par une [action immédiate](./Action immédiate.md). S'il le rate, le moteur alchimique explose et inflige 10d10 points de dégâts de feu à tous les objets et les créatures situés dans un rayon de 18 m (12 {s:c}) autour de lui. Un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 20 réussi permet de diminuer ces dégâts de moitié. Un dragon alchimique peut transporter jusqu'à 20 tonnes de marchandises ou 70 passagers.
+- Ce véhicule est fait de bois et a en général la forme d'un dragon. Il vole au-dessus du sol uniquement grâce à son moteur alchimique, un objet compliqué et dangereux qui a tendance à exploser quand le véhicule est en panne. Lorsque cela survient et si le dragon alchimique a un conducteur, celui-ci peut faire un test de conduite [[DD]] 30 par une [[action immédiate]]. S'il le rate, le moteur alchimique explose et inflige 10d10 points de dégâts de feu à tous les objets et les créatures situés dans un rayon de 18 m (12 {s:c}) autour de lui. Un jet de [[Réflexes]] [[DD]] 20 réussi permet de diminuer ces dégâts de moitié. Un dragon alchimique peut transporter jusqu'à 20 tonnes de marchandises ou 70 passagers.
 - **Propulsion** alchimique (6 cases de moteur alchimique au milieu du vaisseau, solidité 8, pv 120)
-- **Test de conduite** [Artisanat](./Artisanat.md) (alchimie) ou [Connaissances](./Connaissances.md) (mystères), [DD](./DD.md) +10
+- **Test de conduite** [[Artisanat]] (alchimie) ou [[Connaissances]] (mystères), [[DD]] +10
 - **Avant** l'avant du navire
 - **Système de conduite** roue
 - **Espace de conduite** Les 9 cases autour de la roue installée à l'avant du navire
@@ -84,7 +84,7 @@ Les véhicules aériens fendent les airs. Ils sont en général propulsés par l
 (((Description)))
 - Un planeur est en gros une grande pièce de voile tendue sur une structure et reliée à une poignée et des courroies. La seule manière de faire s'envoler un planeur est de le lancer depuis le haut d'une pente abrupte, ce qui lui permet de prendre les courants ascendants.
 - **Propulsion** courants (aérien ; 4 cases de toile, qui constituent la majorité du véhicule, pv 20)
-- **Test de conduite** [Vol](./Vol.md) ou [Acrobaties](./Acrobaties.md), [DD](./DD.md) +10
+- **Test de conduite** [[Vol]] ou [[Acrobaties]], [[DD]] +10
 - **Avant** Le bout des ailes du planeur
 - **Système de conduite** cordage
 - **Espace de conduite** une seule case directement en dessous de la voile qui constitue le planeur

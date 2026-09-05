@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Glossaire Mythique#POUVOIRMYTHIQUE
 ---
 
->>> [Glossaire Mythique#POUVOIRMYTHIQUE](./Glossaire Mythique.md#POUVOIRMYTHIQUE)
+>>> [[Glossaire Mythique#POUVOIRMYTHIQUE]]

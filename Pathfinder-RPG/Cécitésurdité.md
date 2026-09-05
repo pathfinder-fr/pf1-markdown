@@ -18,21 +18,21 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[malédiction](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 2, [Bard](./Barde.md) 2, [Cham](./Chaman.md) 3, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2, [Spi](./Spirite.md) 3  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Cible** 1 créature vivante  
 
-**Durée** [permanente](./permanente.md) (T)  
+**Durée** [[permanente]] (T)  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-La victime du sort devient [sourde](./Assourdi.md) ou [aveugle](./Aveuglé.md), au choix du lanceur de sorts faisant appel aux forces de la [mort](./Registre.md).
+La victime du sort devient [[assourdi|sourde]] ou [[aveuglé|aveugle]], au choix du lanceur de sorts faisant appel aux forces de la [[registre|mort]].
 
 ### Mythique
 {s:CMy}

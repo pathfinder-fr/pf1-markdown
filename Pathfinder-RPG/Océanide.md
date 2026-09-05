@@ -14,7 +14,7 @@ Categories:
 {s:pucem|Fée|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 200*}
 - **3 200 PX**
-- [Créature féerique](./type Fée.md) ([Eau](./sous-type Eau.md)) de taille M, CN
+- [[type fée|Créature féerique]] ([[sous-type eau|Eau]]) de taille M, CN
 - **Init** +8 ; **Sens** vision dans le noir à 36 m, vision nocturne, perception des vibrations à 9 m (dans l’eau seulement) ; Perception +16
 (((Défense)))
 - **CA** 21, contact 15, pris au dépourvu 16 (Dex +4, esquive +1, naturelle +6)
@@ -28,15 +28,15 @@ Categories:
 - **Distance** jet d’eau, +8 (7d6)
 - **Attaques spéciales** télékinésie aquatique
 - **Pouvoirs magiques** (**NLS** 9 ; concentration +14)
-  - *Constant* – [communication avec les animaux](./Communication avec les animaux.md) (créatures aquatiques uniquement)
-  - *À volonté* – [contrôle de l’eau](./Contrôle de leau.md), [création d’eau](./Création deau.md), [purification de nourriture et d’eau](./Purification de nourriture et deau.md) (eau uniquement), [respiration aquatique](./Respiration aquatique.md) (jusqu’à 9 créatures en même temps)
-  - *3/jour* – [contrôle des vents](./Contrôle des vents.md), [convocation d’alliés naturels V](./Convocation dalliés naturels V.md) (créatures aquatiques ou élémentaires d’eau uniquement)
-  - *1/jour* – [contrôle du climat](./Contrôle du climat.md)
+  - *Constant* – [[communication avec les animaux]] (créatures aquatiques uniquement)
+  - *À volonté* – [[contrôle de leau|contrôle de l’eau]], [[création deau|création d’eau]], [[purification de nourriture et deau|purification de nourriture et d’eau]] (eau uniquement), [[respiration aquatique]] (jusqu’à 9 créatures en même temps)
+  - *3/jour* – [[contrôle des vents]], [[convocation dalliés naturels V|convocation d’alliés naturels V]] (créatures aquatiques ou élémentaires d’eau uniquement)
+  - *1/jour* – [[contrôle du climat]]
 (((Statistiques)))
 - **For** 14, **Dex** 19, **Con** 20, **Int** 14, **Sag** 19, **Cha** 21
 - **BBA** +4 ; **BMO** +6 ; **DMD** 26
-- **Dons** [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Maîtrise du combat défensif](./Maîtrise du combat défensif.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md)
-- **Compétences** [Connaissances](./Connaissances.md) (nature) +14, [Diplomatie](./Diplomatie.md) +17, [Discrétion](./Discrétion.md) +16, [Dressage](./Dressage.md) +14, [Intimidation](./Intimidation.md) +14, [Natation](./Natation.md) +22, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +16
+- **Dons** [[Esquive]], [[Magie de guerre]], [[Maîtrise du combat défensif]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]]
+- **Compétences** [[Connaissances]] (nature) +14, [[Diplomatie]] +17, [[Discrétion]] +16, [[Dressage]] +14, [[Intimidation]] +14, [[Natation]] +22, [[Perception]] +16, [[Psychologie]] +16
 - **Langues** aquatique, commun, sylvestre ; communication avec les animaux (créatures aquatiques uniquement)
 - **Particularités** création de vagues
 (((Écologie)))

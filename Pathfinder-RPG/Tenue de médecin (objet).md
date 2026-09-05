@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 150 po ; **Poids** 3 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Toute créature portant cette tenue bénéficie d’un bonus de circonstances de +2 aux jets de [Vigueur](./Vigueur.md) contre les maladies transmises par le contact.
+Toute créature portant cette tenue bénéficie d’un bonus de circonstances de +2 aux jets de [[Vigueur]] contre les maladies transmises par le contact.

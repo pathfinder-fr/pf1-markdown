@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) ; **Niveau** [Inq](./Inquisiteur.md) 6, [Prê](./Prêtre.md) 5  
+**École** [[Évocation]] ; **Niveau** [[Inquisiteur|Inq]] 6, [[Prêtre|Prê]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [G, FD](./composantes.md)  
+**Composantes** [[Composantes|G, FD]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** [instantanée](./instantanée.md)
+**Durée** [[instantanée]]
 
-Le corps du personnage est imprégné d'énergie positive qui le purifie. Ce sort soigne 4d8 points de dégâts +1 point par [niveau de lanceur de sorts](./NLS.md) (maximum +25) et met un terme à toute condition néfaste qui l'affectait : [affaiblissement temporaire](./affaiblissement temporaire.md) de caractéristiques, [aveugle](./Aveuglé.md), [confus](./Confus.md), [hébété](./Hébété.md), [sourd](./Assourdi.md), malade, [fatigué](./Fatigué.md), [épuisé](./Épuisé.md), [nauséeux](./Nauséeux.md), empoisonné ou [fiévreux](./Fiévreux.md). De plus, *purification* fonctionne comme *[annulation d'enchantement](./Annulation denchantement.md)* sur un unique effet supplémentaire choisi par le personnage et qui peut légalement être affecté par l'annulation.
+Le corps du personnage est imprégné d'énergie positive qui le purifie. Ce sort soigne 4d8 points de dégâts +1 point par [[NLS|niveau de lanceur de sorts]] (maximum +25) et met un terme à toute condition néfaste qui l'affectait : [[affaiblissement temporaire]] de caractéristiques, [[aveuglé|aveugle]], [[confus]], [[hébété]], [[assourdi|sourd]], malade, [[fatigué]], [[épuisé]], [[nauséeux]], empoisonné ou [[fiévreux]]. De plus, *purification* fonctionne comme *[[annulation denchantement|annulation d'enchantement]]* sur un unique effet supplémentaire choisi par le personnage et qui peut légalement être affecté par l'annulation.
 
-Si le personnage qui utilise ce sort est un [mort-vivant](./type Mort-vivant.md) ou toute autre créature habituellement soignée par l'énergie négative, le sort le purifie en utilisant de l'énergie négative et non positive.
+Si le personnage qui utilise ce sort est un [[type mort-vivant|mort-vivant]] ou toute autre créature habituellement soignée par l'énergie négative, le sort le purifie en utilisant de l'énergie négative et non positive.

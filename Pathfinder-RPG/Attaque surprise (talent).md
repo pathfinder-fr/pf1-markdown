@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#ATTAQUESURPRISE
 ---
 
->>> [Talents#ATTAQUESURPRISE](./Talents.md#ATTAQUESURPRISE)
+>>> [[Talents#ATTAQUESURPRISE]]

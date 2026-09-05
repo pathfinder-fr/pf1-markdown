@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.71*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([élémentaire](./sous-type élémentaire.md), [Terre](./sous-type Terre.md)) de taille P, N}
-{s:BDTexte|**Init** +2 ; **Sens** perception du cristal, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type Terre|Terre]]) de taille P, N}
+{s:BDTexte|**Init** +2 ; **Sens** perception du cristal, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 15 (Dex +2, naturelle +4, taille +1)
 }
@@ -25,13 +25,13 @@ Categories:
 {s:BDTexte|**Corps à corps** dard, +7 (2d6+3)}
 {s:BDTexte|**Attaques spéciales** éclat acéré +7 (3d6, facteur de portée 18 m)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 4 ; concentration +6)}
-{s:BDTexte|À volonté — *[détection de la magie](./Détection de la magie.md)*, *[image silencieuse](./Image silencieuse.md)* (DD 13), *[manipulation à distance](./Manipulation à distance.md)*, *[son imaginaire](./Son imaginaire.md)* (DD 12)}
-{s:BDTexte|3/jour — *[idiotie](./Idiotie.md)* (DD 14), *[porte dimensionnelle](./Porte dimensionnelle.md)*, *[sanctuaire](./Sanctuaire.md)* (DD 13)}
+{s:BDTexte|À volonté — *[[détection de la magie]]*, *[[image silencieuse]]* (DD 13), *[[manipulation à distance]]*, *[[son imaginaire]]* (DD 12)}
+{s:BDTexte|3/jour — *[[idiotie]]* (DD 14), *[[porte dimensionnelle]]*, *[[sanctuaire]]* (DD 13)}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 15, **Dex** 14, **Con** 13, **Int** 6, **Sag** 13, **Cha** 14}
 {s:BDTexte|**BBA** +4, **BMO** +5, **DMD** 17 (29 contre croc-en-jambe)}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Talent](./Talent.md) (Perception), [Vigueur surhumaine](./Vigueur surhumaine.md)<sup>B</sup>}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +9, [Discrétion](./Discrétion.md) +13 (+15 dans les zones rocheuses), [Escalade](./Escalade.md) +9, [Perception](./Perception.md) +11 ; Modificateurs raciaux +2 en Discrétion dans les zones rocheuses}
+{s:BDTexte|**Dons** [[Réflexes surhumains]], [[Talent]] (Perception), [[Vigueur surhumaine]]<sup>B</sup>}
+{s:BDTexte|**Compétences** [[Acrobaties]] +9, [[Discrétion]] +13 (+15 dans les zones rocheuses), [[Escalade]] +9, [[Perception]] +11 ; Modificateurs raciaux +2 en Discrétion dans les zones rocheuses}
 {s:BDTexte|**Langues** terreux}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** sous terre (plan de la Terre)}

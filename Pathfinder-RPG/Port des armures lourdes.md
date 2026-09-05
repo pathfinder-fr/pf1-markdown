@@ -9,12 +9,12 @@ Categories:
 
 *Le personnage est formé au port des armures lourdes.*
 
-**Catégorie.** [combat](./Dons.md#COMBAT)
+**Catégorie.** [[Dons#COMBAT|combat]]
 
-**Condition.** [Port des armures intermédiaires](./Port des armures intermédiaires.md), [Port des armures légères](./Port des armures légères.md).
+**Condition.** [[Port des armures intermédiaires]], [[Port des armures légères]].
 
-**Avantage.** Voir « [Port des armures légères](./Port des armures légères.md) ».
+**Avantage.** Voir « [[Port des armures légères]] ».
 
-**Normal.** Voir « [Port des armures légères](./Port des armures légères.md) ».
+**Normal.** Voir « [[Port des armures légères]] ».
 
-**Spécial.** Les [guerriers](./Guerrier.md) et les [paladins](./Paladin.md) bénéficient automatiquement du Port des armures lourdes en tant que don supplémentaire. Ils n’ont pas besoin de le choisir.
+**Spécial.** Les [[guerrier|guerriers]] et les [[paladin|paladins]] bénéficient automatiquement du Port des armures lourdes en tant que don supplémentaire. Ils n’ont pas besoin de le choisir.

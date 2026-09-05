@@ -17,92 +17,92 @@ Categories:
 |- CLASS="titre"
 | Nom || &nbsp; || FP
 |- CLASS="premier"
-| [Abrikandilu](./../Aventures/abrikandilu.md) || &nbsp; || 3
+| [[Abrikandilu]] || &nbsp; || 3
 |-
-| [Andrazku](./Andrazku.md) || &nbsp; || 5
+| [[Andrazku]] || &nbsp; || 5
 |-
-| [Ariès](./Ariès.md) || &nbsp; || 4
+| [[Ariès]] || &nbsp; || 4
 |-
-| [Babau](./Babau.md) || &nbsp; || 6
+| [[Babau]] || &nbsp; || 6
 |-
-| [Balor](./Balor.md) || &nbsp; || 20
+| [[Balor]] || &nbsp; || 20
 |-
-| [Brimorak](./Brimorak.md) || &nbsp; || 5
+| [[Brimorak]] || &nbsp; || 5
 |-
-| [Cambion](./Cambion.md) || &nbsp; || 2
+| [[Cambion]] || &nbsp; || 2
 |-
-| [Coloxe](./Coloxe.md) || &nbsp; || 12
+| [[Coloxe]] || &nbsp; || 12
 |-
-| [Démon des ombres](./Démon des ombres.md) || &nbsp; || 7
+| [[Démon des ombres]] || &nbsp; || 7
 |-
-| [Dérakni](./Dérakni.md) || &nbsp; || 10
+| [[Dérakni]] || &nbsp; || 10
 |-
-| [Dretch](./Dretch.md) || &nbsp; || 2
+| [[Dretch]] || &nbsp; || 2
 |-
-| [Gallu](./Gallu.md) || &nbsp; || 19
+| [[Gallu]] || &nbsp; || 19
 |-
-| [Gibrileth](./Gibrileth.md) || &nbsp; || 11
+| [[Gibrileth]] || &nbsp; || 11
 |-
-| [Glabrezu](./Glabrezu.md) || &nbsp; || 13
+| [[Glabrezu]] || &nbsp; || 13
 |-
-| [Hala](./Hala.md) || &nbsp; || 4
+| [[Hala]] || &nbsp; || 4
 |-
-| [Hezrou](./Hezrou.md) || &nbsp; || 11
+| [[Hezrou]] || &nbsp; || 11
 |-
-| [Incube](./Incube.md) || &nbsp; || 6
+| [[Incube]] || &nbsp; || 6
 |-
-| [Kalavakus](./Kalavakus.md) || &nbsp; || 10
+| [[Kalavakus]] || &nbsp; || 10
 |-
-| [Katpaskir](./Katpaskir.md) || &nbsp; || 18
+| [[Katpaskir]] || &nbsp; || 18
 |-
-| [Kithangien](./Kithangien.md) || &nbsp; || 9
+| [[Kithangien]] || &nbsp; || 9
 |-
-| [Lilitu](./Lilitu.md) || &nbsp; || 17
+| [[Lilitu]] || &nbsp; || 17
 |-
-| [Marilith](./Marilith.md) || &nbsp; || 17
+| [[Marilith]] || &nbsp; || 17
 |-
-| [Nabasu](./Nabasu.md) || &nbsp; || 8
+| [[Nabasu]] || &nbsp; || 8
 |-
-| [Nalfeshnie](./Nalfeshnie.md) || &nbsp; || 14
+| [[Nalfeshnie]] || &nbsp; || 14
 |-
-| [Omox](./Omox.md) || &nbsp; || 12
+| [[Omox]] || &nbsp; || 12
 |-
-| [Oolioddroo](./Oolioddroo.md) || &nbsp; || 13
+| [[Oolioddroo]] || &nbsp; || 13
 |-
-| [Quasit](./Quasit.md) || &nbsp; || 2
+| [[Quasit]] || &nbsp; || 2
 |-
-| [Séraptis](./Séraptis.md) || &nbsp; || 15
+| [[Séraptis]] || &nbsp; || 15
 |-
-| [Shachath](./Shachath.md) || &nbsp; || 11
+| [[Shachath]] || &nbsp; || 11
 |-
-| [Shemhazian](./Shemhazian.md) || &nbsp; || 16
+| [[Shemhazian]] || &nbsp; || 16
 |-
-| [Succube](./Succube.md) || &nbsp; || 7
+| [[Succube]] || &nbsp; || 7
 |-
-| [Thoxel](./Thoxel.md) || &nbsp; || 5
+| [[Thoxel]] || &nbsp; || 5
 |-
-| [Ulkreth](./Ulkreth.md) || &nbsp; || 15
+| [[Ulkreth]] || &nbsp; || 15
 |-
-| [Vavaki](./Vavaki.md) || &nbsp; || 18
+| [[Vavaki]] || &nbsp; || 18
 |-
-| [Vermlek](./Vermlek.md) || &nbsp; || 3
+| [[Vermlek]] || &nbsp; || 3
 |-
-| [Vilsteth](./Vilsteth.md) || &nbsp; || 16
+| [[Vilsteth]] || &nbsp; || 16
 |-
-| [Vrock](./Vrock.md) || &nbsp; || 9
+| [[Vrock]] || &nbsp; || 9
 |-
-| [Vrolikai](./Vrolikai.md) || &nbsp; || 19
+| [[Vrolikai]] || &nbsp; || 19
 |-
 | **Membres mythiques** || **FP** || **RMY**
 |- CLASS="premier"
-| [Marilith mythique](./Marilith mythique.md) || 21 || 8
+| [[Marilith mythique]] || 21 || 8
 |-
-| [Nalfeshnie mythique](./Nalfeshnie mythique.md) || 17 || 7
+| [[Nalfeshnie mythique]] || 17 || 7
 |-
-| [Vrock mythique](./Vrock mythique.md) || 11 || 4
+| [[Vrock mythique]] || 11 || 4
 |}
 </div></div><div class="description">**Source :** Bestiaire p.59.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])*
 
 Les démons n’existent que pour une seule raison : détruire. Alors que leurs équivalents d’alignement Loyal, les diables de l’Enfer, cherchent à corrompre les esprits des mortels et à les remodeler en des copies de leur propre noirceur, les démons désirent seulement mutiler, dévaster et se repaître. Ils ne font appel aux mortels que si cela peut accélérer l’inéluctable destruction de l’espoir et du Bien.
 
@@ -123,6 +123,6 @@ et de désespoir. Très souvent, le lanceur de sorts insensé commet une erreur 
 Ceux qui sont vraiment fous font appel aux démons et s’offrent à eux, corps et âme, espérant à tort qu’en établissant une alliance de ce type, ils seront sauvés et protégés lorsque l’inévitable apocalypse démoniaque se produira enfin. De nombreuses histoires évoquent des rois désespérés qui ont cherché à engager des démons comme généraux pour leurs armées ou des lunatiques en quête d’un seigneur démon acceptant de leur enfanter une descendance. Mais, pire encore, certains mortels vénèrent les démons les plus puissants comme des dieux et vouent leur vie à une cause dont le but est la destruction de tous.
 
 ### Les seigneurs démons
-Les [seigneurs démons](./Seigneurs démons.md) (les démons les plus puissants) sont innombrables et très variés (tout comme la horde démoniaque toute entière). Bien que puissants et même carrément divins dans certains cas, aucun d’entre eux ne peut prétendre dirigerles Abysses : au mieux peuvent-ils espérer régner sur une poignée de royaumes abyssaux, la plupart ayant déjà bien du mal à garder le pouvoir sur une seule strate. Il existe une autre catégorie de démons uniques
-entre les puissants balors et les seigneurs démons : les seigneurs démons naissants, de puissantes entités qui, avec le temps, pourraient obtenir suffisamment de pouvoir pour que les Abysses les remarque et les élève au statut de véritables [seigneurs démons](./Seigneurs démons.md).
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs démons](./Seigneurs démons.md).***</li></ul>
+Les [[Seigneurs démons]] (les démons les plus puissants) sont innombrables et très variés (tout comme la horde démoniaque toute entière). Bien que puissants et même carrément divins dans certains cas, aucun d’entre eux ne peut prétendre dirigerles Abysses : au mieux peuvent-ils espérer régner sur une poignée de royaumes abyssaux, la plupart ayant déjà bien du mal à garder le pouvoir sur une seule strate. Il existe une autre catégorie de démons uniques
+entre les puissants balors et les seigneurs démons : les seigneurs démons naissants, de puissantes entités qui, avec le temps, pourraient obtenir suffisamment de pouvoir pour que les Abysses les remarque et les élève au statut de véritables [[seigneurs démons]].
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs démons]].***</li></ul>

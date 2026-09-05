@@ -11,10 +11,10 @@ Categories:
 
 {s:uc}*Le personnage désoriente ses adversaires avec un assaut à distance et les rend plus vulnérables à ses attaques au corps à corps. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Avantage.** Quand le personnage inflige des dégâts avec une [arme à distance](./arme à distance.md), il gagne un bonus de circonstances de +4 au prochain [jet d’attaque](./jet dattaque.md) au corps à corps contre le même adversaire. Cette attaque doit se produire avant la fin de son tour suivant.
+**Avantage.** Quand le personnage inflige des dégâts avec une [[arme à distance]], il gagne un bonus de circonstances de +4 au prochain [[jet dattaque|jet d’attaque]] au corps à corps contre le même adversaire. Cette attaque doit se produire avant la fin de son tour suivant.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage inflige des dégâts avec une attaque à distance, il peut dépenser 2 points d’endurance pour gagner un bonus de circonstances de +4 aux deux prochains [jets d’attaque](./jet dattaque.md) au corps à corps effectués contre un adversaire avant la fin de son prochain tour au lieu d’en bénéficier uniquement lors de sa prochaine attaque au corps à corps.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage inflige des dégâts avec une attaque à distance, il peut dépenser 2 points d’endurance pour gagner un bonus de circonstances de +4 aux deux prochains [[jet dattaque|jets d’attaque]] au corps à corps effectués contre un adversaire avant la fin de son prochain tour au lieu d’en bénéficier uniquement lors de sa prochaine attaque au corps à corps.

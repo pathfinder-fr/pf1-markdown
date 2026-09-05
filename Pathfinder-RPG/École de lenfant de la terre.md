@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Le personnage a suivi un entraînement qui en fait une cible dangereuse et insaisissable pour les géants.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [Sag](./Sag.md) 13, [nain](./Nain.md) ou [gnome](./Gnome.md), entraînement défensif (trait racial), [Science du combat à mains nues](./Science du combat à mains nues.md), 3 [rangs](./rang.md) en [Acrobaties](./Acrobaties.md)
+**Conditions.** [[Sag]] 13, [[nain]] ou [[gnome]], entraînement défensif (trait racial), [[Science du combat à mains nues]], 3 [[rang|rangs]] en [[Acrobaties]]
 
-**Avantage.** Quand le personnage utilise cette école, son bonus d’esquive à la [CA](./CA.md) dû à l’entraînement défensif passe à +6. De plus, quand il se bat contre des créatures de [sous-type Géant](./sous-type géant.md), il ajoute son bonus de [Sagesse](./Sagesse.md) aux jets de dégâts à mains nues.
+**Avantage.** Quand le personnage utilise cette école, son bonus d’esquive à la [[CA]] dû à l’entraînement défensif passe à +6. De plus, quand il se bat contre des créatures de [[sous-type Géant]], il ajoute son bonus de [[Sagesse]] aux jets de dégâts à mains nues.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage réussit une attaque à mains nues contre une créature de sous-type [géant](./sous-type géant.md), il peut dépenser jusqu’à 5 points d’endurance pour gagner un bonus aux [jets de dégâts](./Valeurs de combat.md#DEGATS) égal au double des points d’endurance dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage réussit une attaque à mains nues contre une créature de sous-type [[sous-type Géant|géant]], il peut dépenser jusqu’à 5 points d’endurance pour gagner un bonus aux [[Valeurs de combat#DEGATS|jets de dégâts]] égal au double des points d’endurance dépensés.

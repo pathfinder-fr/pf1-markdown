@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Créature magique|Ciel|Tempéré}
 {s:BDTexte|<i>Source : Bestiaire 2 p.164</i>}
 {s:BDTexte|<b>PX</b> 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N</a>}
-{s:BDTexte|<b>Init</b> +2 ; <b>Sens</b> [odorat](./odorat.md), [vision nocturne](./vision nocturne.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N</a>}
+{s:BDTexte|<b>Init</b> +2 ; <b>Sens</b> [[odorat]], [[vision nocturne]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 14, contact 12, pris au dépourvu 11 (Dex +2, esquive +1, naturelle +2, taille -1)}
 {s:BDTexte|<b>pv</b> 22 (3d10+6)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 15, <b>Dex</b> 15, <b>Con</b> 14, <b>Int</b> 2, <b>Sag</b> 12, <b>Cha</b> 9}
 {s:BDTexte|<b>BBA</b> +3, <b>BMO</b> +6, <b>DMD</b> 19}
-{s:BDTexte|<b>Dons</b> [Esquive](./Esquive.md), [Virage sur l'aile](./Virage sur laile.md)}
-{s:BDTexte|<b>Compétences</b> [Perception](./Perception.md) +9 , [Vol](./Vol.md) +5}
-{s:BDTexte|<b>Modificateurs raciaux</b> +4 en [Perception](./Perception.md)}
+{s:BDTexte|<b>Dons</b> [[Esquive]], [[Virage sur laile|Virage sur l'aile]]}
+{s:BDTexte|<b>Compétences</b> [[Perception]] +9 , [[Vol]] +5}
+{s:BDTexte|<b>Modificateurs raciaux</b> +4 en [[Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> collines / plaines tempérées}
 {s:BDTexte|<b>Organisation sociale</b> solitaire, couple ou vol(7-12)}

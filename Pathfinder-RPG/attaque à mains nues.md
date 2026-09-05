@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions simples#ATTAQUEMAINSNUES
 ---
 
->>> [Actions simples#ATTAQUEMAINSNUES](./Actions simples.md#ATTAQUEMAINSNUES)
+>>> [[Actions simples#ATTAQUEMAINSNUES]]

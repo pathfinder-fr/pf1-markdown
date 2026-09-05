@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#DUREE
 ---
 
->>> [Présentation des sorts#DUREE](./Présentation des sorts.md#DUREE)
+>>> [[Présentation des sorts#DUREE]]

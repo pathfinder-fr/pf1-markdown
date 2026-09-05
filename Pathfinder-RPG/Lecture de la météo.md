@@ -14,9 +14,9 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}{s:ISG}{s:GeM}**École** [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 1, [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Prê](./Prêtre.md) 1, [Rôd](./Rôdeur.md) 1, [Sor](./Sorcière.md) 1
+{s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}{s:ISG}{s:GeM}**École** [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1, [[Sorcière|Sor]] 1
 **Temps d'incantation** 1 minute
-**Composantes** [V, G, F](./composantes.md) (un ensemble de bâtonnets ou d’os gravés d’une valeur d’au-moins 25 po)
+**Composantes** [[composantes|V, G, F]] (un ensemble de bâtonnets ou d’os gravés d’une valeur d’au-moins 25 po)
 **Portée** personnelle
 **Cible** le lanceur de sorts
 **Durée** instantanée

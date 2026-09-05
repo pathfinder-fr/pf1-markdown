@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Dédoublante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Dédoublante](./Descriptions individuelles des propriétés spéciales des armes.md#Dédoublante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Dédoublante]]

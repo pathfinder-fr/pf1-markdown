@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau d’invisibilité|}
-**Aura** [Illusion](./Illusion.md) faible ; **NLS** 3 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 20 000 po ; **Poids** —
+**Aura** [[Illusion]] faible ; **NLS** 3 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 20 000 po ; **Poids** —
 (((Description)))
-En activant cet anneau d’argent tout simple, son porteur disparaît comme s’il venait de lancer le sort *[invisibilité](./Invisibilité.md)*.
+En activant cet anneau d’argent tout simple, son porteur disparaît comme s’il venait de lancer le sort *[[invisibilité]]*.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[invisibilité](./Invisibilité.md)* ; **Coût** 10 000 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[invisibilité]]* ; **Coût** 10 000 po
 </div>

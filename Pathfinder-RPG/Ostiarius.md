@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 170*}
 - **1600 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [kyton](./sous-type kyton.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille M, LM
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type kyton|kyton]], [[sous-type loi|Loi]], [[sous-type mal|Mal]]) de taille M, LM
 - **Init **+6 ; Sens vision dans le noir à 18 m ; Perception +16
 (((Défense)))
 - **CA **18, contact 12, pris au dépourvu 16 (Dex +2, naturelle +2, bouclier +4)
@@ -25,15 +25,15 @@ Categories:
 - **Corps à corps** 2 contacts, +2 (1 plus saignement)
 - **Attaques spéciales** courage forcé, regard déstabilisant (9 m, DD 19), saignement (1d6)
 - **Pouvoirs magiques** (**NLS **7 ; concentration +11)
-  - *Constant* – [bouclier](./Bouclier.md)
-  - *À volonté* – [apaisement des émotions](./Apaisement des émotions.md) (DD 16), [discours captivant](./Discours captivant.md) (DD 16), [image accomplie](./Image accomplie.md) (DD 17), [ténèbres](./Ténèbres.md)
-  - *3/jour* – [désespoir foudroyant](./Désespoir foudroyant.md) (DD 17), [silence](./Silence.md) (DD 16), [traversée des ombres](./Traversée des ombres.md)
-  - *1/jour* – [changement de plan](./Changement de plan.md) (DD 21 ; vers le plan Matériel et le plan de l’Ombre et pour les créatures Loyales Mauvaises seulement), [cri](./Cri.md) (DD 18)
+  - *Constant* – [[bouclier]]
+  - *À volonté* – [[apaisement des émotions]] (DD 16), [[discours captivant]] (DD 16), [[image accomplie]] (DD 17), [[ténèbres]]
+  - *3/jour* – [[désespoir foudroyant]] (DD 17), [[silence]] (DD 16), [[traversée des ombres]]
+  - *1/jour* – [[changement de plan]] (DD 21 ; vers le plan Matériel et le plan de l’Ombre et pour les créatures Loyales Mauvaises seulement), [[cri]] (DD 18)
 (((Statistiques)))
 - **For **10, **Dex **15, **Con **14, **Int **19, **Sag **18, **Cha **19
 - **BBA** +7 ; **BMO **+7 ; **DMD **19
-- **Dons **[Combat en aveugle](./Combat en aveugle.md), [Science de l’initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences ** [Bluff](./Bluff.md) +14, [Connaissances](./Connaissances.md) (plans) +14, [Diplomatie](./Diplomatie.md) +14, [Discrétion](./Discrétion.md) +12, [Évasion](./Évasion.md) +9, [Intimidation](./Intimidation.md) +14, [Perception](./Perception.md) +16, [Premiers secours](./Premiers secours.md) +14, [Psychologie](./Psychologie.md) +16, [Représentation](./Représentation.md) (déclamation) +14 
+- **Dons **[[Combat en aveugle]], [[Science de linitiative|Science de l’initiative]], [[Vigilance]], [[Volonté de fer]]
+- **Compétences ** [[Bluff]] +14, [[Connaissances]] (plans) +14, [[Diplomatie]] +14, [[Discrétion]] +12, [[Évasion]] +9, [[Intimidation]] +14, [[Perception]] +16, [[Premiers secours]] +14, [[Psychologie]] +16, [[Représentation]] (déclamation) +14 
 - **Langues** commun, infernal ; télépathie à 30 m.
 - **Particularités** voyageur de l’ombre
 (((Écologie)))
@@ -47,7 +47,7 @@ Une créature vivante qui n’est pas un extérieur et qui bénéficie des effet
 - **Voyageur de l’ombre (Ext)**. Lorsque l’ostiarius utilise changement de plan pour voyager vers le plan de l’Ombre, il arrive à l’endroit précis et voulu sans risque d’échec. Lorsqu’il utilise traversée des ombres, il se déplace à la vitesse de 150 kilomètres par heure.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [kytons](./Kytons.md).***</li></ul>*Vêtue de vêtements sombres, chaque courbe, chaque muscle sculpté du corps de cette créature suggère un nouveau plaisir haletant ou une nouvelle torture émoustillante.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Kytons]].***</li></ul>*Vêtue de vêtements sombres, chaque courbe, chaque muscle sculpté du corps de cette créature suggère un nouveau plaisir haletant ou une nouvelle torture émoustillante.*
 
 Les ostiarius gardent le passage entre le monde des mortels et les plaisirs du plan de l’Ombre. Leur mission est double : ils
 doivent accueillir leurs frères et soeurs sur le plan Matériel et, de manière plus insidieuse, convaincre les mortels de volontairement les accompagner sur leur monde natal plongé dans l’ombre. Ce sont les émissaires de leur race, incitant les mortels impressionnables à abandonner leurs philosophies éculées pour embrasser le potentiel d’un royaume de ténèbres insondables.

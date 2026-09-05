@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous percevez la traîtrise et le complot aussi bien que les pièges physiques.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Sag](./Sag.md) 13, [roublard](./Roublard.md) de niveau 3, capacité de classe [sens des pièges](./Roublard.md#SENSDESPIEGES)
+**Conditions.** [[Sag]] 13, [[roublard]] de niveau 3, capacité de classe [[Roublard#SENSDESPIEGES|sens des pièges]]
 
-**Avantages.** Le personnage obtient un bonus aux tests de [Perception](./Perception.md) pour percer les déguisements d'une autre créature et aux tests de [Psychologie](./Psychologie.md) pour éviter d'être surpris par une attaque. Ces bonus sont égaux au bonus offert par son [sens des pièges](./Roublard.md#SENSDESPIEGES).
+**Avantages.** Le personnage obtient un bonus aux tests de [[Perception]] pour percer les déguisements d'une autre créature et aux tests de [[Psychologie]] pour éviter d'être surpris par une attaque. Ces bonus sont égaux au bonus offert par son [[Roublard#SENSDESPIEGES|sens des pièges]].

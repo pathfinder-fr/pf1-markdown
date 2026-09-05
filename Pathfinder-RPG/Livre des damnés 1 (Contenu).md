@@ -6,7 +6,7 @@ Categories:
 - Src Livre des damnés
 ---
 
-{s:Desambi|Le [Book of the Damned](./Livre des damnés 2 (Contenu).md) paru chez Paizo est une sorte de réédition plus récente et avec plus de contenu des trois volumes compilés par BBE et décrits ici.}Le [Livre des damnés](https://www.black-book-editions.fr/produit.php?id=984) est une compilation de 3 ouvrages anglais traduits et publiés en français par Black Book Editions en Janvier 2014.
+{s:Desambi|Le [[Livre des damnés 2 (Contenu)|Book of the Damned]] paru chez Paizo est une sorte de réédition plus récente et avec plus de contenu des trois volumes compilés par BBE et décrits ici.}Le [Livre des damnés](https://www.black-book-editions.fr/produit.php?id=984) est une compilation de 3 ouvrages anglais traduits et publiés en français par Black Book Editions en Janvier 2014.
 
 Le contenu de cet ouvrage marqué d'une plume a été soumis à la licence OGL.
 
@@ -17,51 +17,51 @@ Le contenu de cet ouvrage marqué d'une plume a été soumis à la licence OGL.
 Traduit et publié en français par Black Book Editions sous le nom "Les Princes des ténèbres", il fait partie du Livre des damnés, détaillé en haut de page.
 ### Classes de prestige
 <div class="article_3col">
-[Diaboliste](./Diaboliste.md) (modifié).
+[[Diaboliste]] (modifié).
 </div>
 
 
 ### Monstres
 <div class="article_3col">
-[Diable apostat (Deimavigga)](./Diable apostat.md) (modifié),
-[Diable belliciste (Lévaloch)](./Diable belliciste.md) (modifié),
-[Diable de l'hérésie (Ayngavhaul)](./Diable de lhérésie.md) (modifié),
-[Diable légionnaire majeur (Magaav)](./Diable de lost Majeur.md) (modifié),
-[Diable légionnaire mineur (Gaav)](./Diable de lost mineur.md) (modifié).
+[[Diable apostat|Diable apostat (Deimavigga)]] (modifié),
+[[Diable belliciste|Diable belliciste (Lévaloch)]] (modifié),
+[[Diable de lhérésie|Diable de l'hérésie (Ayngavhaul)]] (modifié),
+[[Diable de lost majeur|Diable légionnaire majeur (Magaav)]] (modifié),
+[[Diable de lost mineur|Diable légionnaire mineur (Gaav)]] (modifié).
 </div>
 
 
 ### Objets magiques
 #### Artefacts
 <div class="article_3col">
-[Larme d'Ihys](./Larme dIhys.md) (modifié),
-[Livre des damnés diabolique](./Livre des damnés diabolique.md) (modifié),
-[Roue des mondes](./Roue des mondes.md) (modifié).
+[[Larme dIhys|Larme d'Ihys]] (modifié),
+[[Livre des damnés diabolique]] (modifié),
+[[Roue des mondes]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Autres
 <div class="article_3col">
 **Talismans diaboliques.**
-[Talisman bilieux](./Talismans diaboliques.md#BILIEUX) (modifié),
-[Talisman mélancolique](./Talismans diaboliques.md#MELANCOLIQUE) (modifié),
-[Talisman sanguin](./Talismans diaboliques.md#SANGUIN) (modifié).
+[[Talismans diaboliques#BILIEUX|Talisman bilieux]] (modifié),
+[[Talismans diaboliques#MELANCOLIQUE|Talisman mélancolique]] (modifié),
+[[Talismans diaboliques#SANGUIN|Talisman sanguin]] (modifié).
 </div>
 
 
 ### Règles officielles
 <div class="article_3col">
-[Les talismans diaboliques](./Talismans diaboliques.md) (modifié).
+[[Talismans diaboliques|Les talismans diaboliques]] (modifié).
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Tourment](./Agonie.md) (modifié),
-[Damnation](./Damnation.md) (modifié),
-[Rayon de feu infernal](./Rayon de feu infernal.md) (modifié),
-[Sacrifice](./Sacrifice.md) (modifié),
-[Vision des Enfers](./Vision infernale.md) (modifié).
+[[Agonie|Tourment]] (modifié),
+[[Damnation]] (modifié),
+[[Rayon de feu infernal]] (modifié),
+[[Sacrifice]] (modifié),
+[[Vision infernale|Vision des Enfers]] (modifié).
 </div>
 
 
@@ -71,13 +71,13 @@ Traduit et publié en français par Black Book Editions sous le nom "Seigneurs d
 
 ### Classes de prestige
 <div class="article_3col">
-[Adepte démoniaque](./Adepte démoniaque.md) (modifié).
+[[Adepte démoniaque]] (modifié).
 </div>
 
 
 ### Dons
 <div class="article_3col">
-[Obédience démoniaque](./Obédience fiélonne.md) (modifié).
+[[Obédience fiélonne|Obédience démoniaque]] (modifié).
 </div>
 
 
@@ -85,46 +85,46 @@ Traduit et publié en français par Black Book Editions sous le nom "Seigneurs d
 #### Autres
 <div class="article_3col">
 **Implants démoniaques.**
-[Patte griffue de démon](./Implants démoniaques.md#PATTEGRIFFUEDEDEMON),
-[Sang de démon](./Implants démoniaques.md#SANGDEDEMON),
-[Sens de démon](./Implants démoniaques.md#SENSDEDEMON).
+[[Implants démoniaques#PATTEGRIFFUEDEDEMON|Patte griffue de démon]],
+[[Implants démoniaques#SANGDEDEMON|Sang de démon]],
+[[Implants démoniaques#SENSDEDEMON|Sens de démon]].
 </div>
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Artefacts
 <div class="article_3col">
-[Livre des damnés démoniaque](./Livre des damnés démoniaque.md) (modifié).
+[[Livre des damnés démoniaque]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Objets merveilleux
 <div class="article_3col">
 **Aucun (Sans emplacement).**
-[Amulette des Abysses](./Amulette des abysses.md) (modifié).
+[[Amulette des Abysses]] (modifié).
 </div>
 
 
 ### Monstres
 <div class="article_3col">
-[Brimorak](./Brimorak.md) (modifié),
-[Séraptis](./Séraptis.md) (modifié),
-[Vavaki](./Vavaki.md) (modifié),
-[Vermlek](./Vermlek.md) (modifié).
+[[Brimorak]] (modifié),
+[[Séraptis]] (modifié),
+[[Vavaki]] (modifié),
+[[Vermlek]] (modifié).
 </div>
 
 
 ### Règles officielles
 <div class="article_3col">
-[Les implants démoniaques](./Implants démoniaques.md).
+[[Implants démoniaques|Les implants démoniaques]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Contact défigurant](./Contact défigurant.md) (modifié),
-[Crevasse dévastatrice](./Crevasse dévastatrice.md) (modifié),
-[Forme de vermine I](./Forme de vermine I.md) (modifié),
-[Forme de vermine II](./Forme de vermine II.md) (modifié).
+[[Contact défigurant]] (modifié),
+[[Crevasse dévastatrice]] (modifié),
+[[Forme de vermine I]] (modifié),
+[[Forme de vermine II]] (modifié).
 </div>
 
 
@@ -135,68 +135,68 @@ Traduit et publié en français par Black Book Editions sous le nom "Les Cavalie
 ### Afflictions
 #### Drogues
 <div class="article_3col">
-[Graine de daémon](./Drogues.md#GRAINEDEDAEMON).
+[[Drogues#GRAINEDEDAEMON|Graine de daémon]].
 </div>
 
 
 ### Classes de prestige
 <div class="article_3col">
-[Buveur d'âmes](./Buveur dâmes.md) (modifié).
+[[Buveur dâmes|Buveur d'âmes]] (modifié).
 </div>
 
 
 ### Monstres
 <div class="article_3col">
-[Érodaémon](./Érodaémon.md) (modifié),
-[Lacridaémon](./Lacridaémon.md) (modifié),
-[Obcisidaémon](./Obcisidaémon.md) (modifié),
-[Phasmadaémon](./Phasmadaémon.md) (modifié),
-[Sanguidaémon](./Sanguidaémon.md) (modifié),
-[Suspiridaémon](./Suspiridaémon.md) (modifié),
-[Témerdaémon](./Témerdaémon.md) (modifié),
-[Vénédaémon](./Vénédaémon.md) (modifié).
+[[Érodaémon]] (modifié),
+[[Lacridaémon]] (modifié),
+[[Obcisidaémon]] (modifié),
+[[Phasmadaémon]] (modifié),
+[[Sanguidaémon]] (modifié),
+[[Suspiridaémon]] (modifié),
+[[Témerdaémon]] (modifié),
+[[Vénédaémon]] (modifié).
 </div>
 
 
 ### Objets magiques
 #### Anneaux
 <div class="article_3col">
-[Anneau du cacodaémon](./Anneau du cacodaémon.md) (modifié).
+[[Anneau du cacodaémon]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Artefacts
 <div class="article_3col">
-[Livre des damnés daémonique](./Livre des damnés daémonique.md) (modifié).
+[[Livre des damnés daémonique]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124"/>
 #### Objets merveilleux
 <div class="article_3col">
 **Aucun (Sans emplacement).**
-[Chandelle d'Abaddon](./Chandelle dAbaddon.md) (modifié),
-[Pierre runique de l'hydrodaémon](./Pierre runique de lhydrodaémon.md) (modifié),
-[Talisman de dévoration spirituelle](./Talisman de dévoration spirituelle.md) (modifié).
+[[Chandelle dAbaddon|Chandelle d'Abaddon]] (modifié),
+[[Pierre runique de lhydrodaémon|Pierre runique de l'hydrodaémon]] (modifié),
+[[Talisman de dévoration spirituelle]] (modifié).
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Âme parasite](./Âme parasite.md) (modifié),
-[Aura de mise à mort](./Aura de mise à mort.md),
-[Aura de mise à mort suprême](./Aura de mise à mort suprême.md),
-[Convocation de cacodaémon](./Convocation de cacodaémon.md),
-[Convocation de cacodaémon suprême](./Convocation de cacodaémon suprême.md),
-[Convocation de ceustodaémon](./Convocation de ceustodaémon.md),
-[Convocation de derghodaémon](./Convocation de derghodaémon.md),
-[Convocation de méladaémon](./Convocation de méladaémon.md),
-[Convocation de thanadaémon](./Convocation de thanadaémon.md),
-[Convocation d'érodaémon](./Convocation dérodaémon.md),
-[Création de gemme spirituelle](./Création de gemme spirituelle.md) (modifié),
-[Dispense de Charon](./Dispense de Charon.md) (modifié),
-[Éveiller les dévorés](./Éveiller les dévorés.md) (modifié),
-[Fléau des cavaliers](./Fléau des cavaliers.md),
-[Fouet de l'astradaémon](./Fouet de lastradaémon.md) (modifié),
-[Sceau daémonique](./Sceau daémonique.md),
-[Transfert d'âme](./Transfert dâme.md) (modifié).
+[[Âme parasite]] (modifié),
+[[Aura de mise à mort]],
+[[Aura de mise à mort suprême]],
+[[Convocation de cacodaémon]],
+[[Convocation de cacodaémon suprême]],
+[[Convocation de ceustodaémon]],
+[[Convocation de derghodaémon]],
+[[Convocation de méladaémon]],
+[[Convocation de thanadaémon]],
+[[Convocation dérodaémon|Convocation d'érodaémon]],
+[[Création de gemme spirituelle]] (modifié),
+[[Dispense de Charon]] (modifié),
+[[Éveiller les dévorés]] (modifié),
+[[Fléau des cavaliers]],
+[[Fouet de lastradaémon|Fouet de l'astradaémon]] (modifié),
+[[Sceau daémonique]],
+[[Transfert dâme|Transfert d'âme]] (modifié).
 </div>

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 15*}
 - **12 800 PX**
-- [Vermine](./type Vermine.md) de taille C, N
-- **Init **+1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m, [perception des vibrations](./Perception des vibrations.md) 18 m ; [Perception](./Perception.md) +4
+- [[type vermine|Vermine]] de taille C, N
+- **Init **+1 ; **Sens** [[vision dans le noir]] 18 m, [[perception des vibrations]] 18 m ; [[Perception]] +4
 (((Défense)))
 - **CA** 25, contact 3, pris au dépourvu 24 (Dex +1, naturelle +22, taille -8)
 - **pv** 147 (14d8+84)
@@ -25,19 +25,19 @@ Categories:
 - **VD** 12 m, escalade 6 m
 - **Corps à corps** morsure, +17 (6d8+22 et poison)
 - **Espace** 9 m ; **Allonge** 9 m
-- **Attaques spéciales** poison, toile empoisonnée (+13 à distance, DD 23, 14 pv), [piétinement](./Piétinement.md) (4d8+22, DD 32)
+- **Attaques spéciales** poison, toile empoisonnée (+13 à distance, DD 23, 14 pv), [[piétinement]] (4d8+22, DD 32)
 (((Statistiques)))
 - **For** 41, **Dex** 13, **Con** 22, **Int** -, **Sag** 10, **Cha** 2
 - **BBA **+10 ; **BMO **+33 ; **DMD** 44 (56 contre le croc-en-jambe)
-- **Compétences** [Discrétion](./Discrétion.md) -7 (+1 en forêt), [Escalade](./Escalade.md) +23, [Perception](./Perception.md) +4 ;
-- **Modificateurs raciaux** +8 en [Escalade](./Escalade.md), +4 en [Perception](./Perception.md), +8 en [Discrétion](./Discrétion.md) (+16 en forêt)
+- **Compétences** [[Discrétion]] -7 (+1 en forêt), [[Escalade]] +23, [[Perception]] +4 ;
+- **Modificateurs raciaux** +8 en [[Escalade]], +4 en [[Perception]], +8 en [[Discrétion]] (+16 en forêt)
 (((Écologie)))
 - **Environnement** forêts ou marais
 - **Organisation** solitaire, couple ou colonie (3-6)
 - **Trésor** fortuit
 (((Pouvoirs spéciaux)))
-- **Poison (Ext)**. Morsure – blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 23 ; *fréquence* 1/round pendant 6 rounds ; *effet* affaiblissement temporaire 1d6 [For](./For.md) et [paralysie](./paralysie.md) 1 round ; *guérison* 2 JS consécutifs.
-- **Toile empoisonnée (Ext)**. Ce pouvoir fonctionne comme le pouvoir de [toile](./Toile.md), mais affecte toutes les créatures situées dans un rayonnement de 3 mètres de rayon. De plus, une créature touchée par la toile est également affectée par le poison de l’araignée.
+- **Poison (Ext)**. Morsure – blessure ; *JS* [[Vigueur]] [[DD]] 23 ; *fréquence* 1/round pendant 6 rounds ; *effet* affaiblissement temporaire 1d6 [[For]] et [[paralysie]] 1 round ; *guérison* 2 JS consécutifs.
+- **Toile empoisonnée (Ext)**. Ce pouvoir fonctionne comme le pouvoir de [[toile]], mais affecte toutes les créatures situées dans un rayonnement de 3 mètres de rayon. De plus, une créature touchée par la toile est également affectée par le poison de l’araignée.
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -46,23 +46,23 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Araignée écarlate](./Araignée écarlate.md) || 1/4
+| Familier, [[Araignée écarlate]] || 1/4
 |-
-| [Araignée géante](./Araignée géante.md) || 1
+| [[Araignée géante]] || 1
 |-
-| [Araignée goliath](./Araignée goliath.md) || 11
+| [[Araignée goliath]] || 11
 |-
-| [Araignée lunaire](./Araignée lunaire.md) || 2
+| [[Araignée lunaire]] || 2
 |-
-| [Araignée ogre](./Araignée ogre.md) || 5
+| [[Araignée ogre]] || 5
 |-
-| [Araignée-crabe géante](./Araignée-crabe géante.md) || 1/2
+| [[Araignée-crabe géante]] || 1/2
 |-
-| [Nuée d'araignées](./Nuée daraignées.md) || 1
+| [[Nuée daraignées|Nuée d'araignées]] || 1
 |-
-| [Tarentule géante](./Tarentule géante.md) || 8
+| [[Tarentule géante]] || 8
 |-
-| [Veuve noire géante](./Veuve noire géante.md) || 3
+| [[Veuve noire géante]] || 3
 |}
 </div>*Cette gigantesque tarentule verte et brune dotée d’énormes crocs acérés est de la taille d’une grande maison.*
 

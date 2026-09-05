@@ -9,8 +9,8 @@ Categories:
 
 *Le personnage sait fabriquer des baguettes magiques.*
 
-**Catégorie** : [création d'objets](./Dons.md#DONCREATION)
+**Catégorie** : [[Dons#DONCREATION|création d'objets]]
 
-**Condition.** [Niveau](./niveau.md) 5 de [lanceur de sorts](./Lancer des sorts.md#NLS).
+**Condition.** [[Niveau]] 5 de [[Lancer des sorts#NLS|lanceur de sorts]].
 
-**Avantage.** Le personnage peut fabriquer une [baguette magique](./Création dobjets magiques.md#BAGUETTES) pour n’importe quel sort de [niveau](./Présentation des sorts.md#NIVEAU) 4 ou moins qu’il connaît. Le processus de fabrication prend un jour par tranche de 1000 po du prix de base de l’objet. Le personnage doit acheter les matières premières nécessaires à la moitié de leur prix de base. À sa création, la baguette possède cinquante charges (Voir la page sur la [création d'objets magiques](./Création dobjets magiques.md)).
+**Avantage.** Le personnage peut fabriquer une [[Création dobjets magiques#BAGUETTES|baguette magique]] pour n’importe quel sort de [[Présentation des sorts#NIVEAU|niveau]] 4 ou moins qu’il connaît. Le processus de fabrication prend un jour par tranche de 1000 po du prix de base de l’objet. Le personnage doit acheter les matières premières nécessaires à la moitié de leur prix de base. À sa création, la baguette possède cinquante charges (Voir la page sur la [[Création dobjets magiques|création d'objets magiques]]).

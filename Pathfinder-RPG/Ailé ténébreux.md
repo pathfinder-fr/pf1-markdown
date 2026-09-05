@@ -14,14 +14,14 @@ Categories:
 {s:pucem|Mort-vivant|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2 p.262*}
 {s:BDTexte|**PX** 38 400}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([extraplanaire](./sous-type extraplanaire.md), [ténébreux](./sous-type Ténébreux.md)) de taille TG, CM}
-{s:BDTexte|**Init** +8 ; **Sens** [détection de la magie](./Détection de la magie.md), perception à travers les ténèbres, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +25}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Ténébreux|ténébreux]]) de taille TG, CM}
+{s:BDTexte|**Init** +8 ; **Sens** [[détection de la magie]], perception à travers les ténèbres, [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +25}
 {s:BDTexte|**Aura** de profanation 9 m (6 {s:c})}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 29, contact 12, pris au dépourvu 25 (Dex +4, naturelle +17, taille -2)}
 {s:BDTexte|**pv** 195 (17d8+119)}
 {s:BDTexte|**Réf** +11, **Vig** +12, **Vol** +17}
-{s:BDTexte|**Immunités** froid, [traits des morts-vivants](./type Mort-vivant.md) ; **RD** 15/Bien et Argent ; **RM** 25}
+{s:BDTexte|**Immunités** froid, [[type Mort-vivant|traits des morts-vivants]] ; **RD** 15/Bien et Argent ; **RM** 25}
 {s:BDTexte|**Faiblesses** aversion pour la lumière}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 18 m (12 {s:c}) (bonne)}
@@ -29,25 +29,25 @@ Categories:
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
 {s:BDTexte|**Attaques spéciales** canalisation d’énergie négative (7d6, DD 28, 8/jour)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 14 ; concentration +19)}
-{s:BDSorts|Constant — *[détection de la magie](./Détection de la magie.md)*, *[morsure magique](./Morsure magique.md)*}
-{s:BDSorts|A volonté — *[contagion](./Contagion.md)* (DD 19), *[ténèbres maudites](./Ténèbres maudites.md)* (DD 19), *[ténèbres profondes](./Ténèbres profondes.md)*}
-{s:BDSorts|3/jour— *[confusion](./Confusion.md)* (DD 19), *[dissipation suprême](./Dissipation suprême.md)*, *[immobilisation de monstre](./Immobilisation de monstre.md)* (DD 20), *[invisibilité](./Invisibilité.md)*, *[rapidité](./Rapidité.md)*}
-{s:BDSorts|1/jour— *[changement de plan](./Changement de plan.md)* (DD 22), *[cône de froid](./Cône de froid.md)* (DD 20), *[convocation](./convocation.md)* (niveau 6, 2 [ombres supérieures](./Ombre supérieure.md)), *[doigt de mort](./Doigt de mort.md)* (DD 22)}
+{s:BDSorts|Constant — *[[détection de la magie]]*, *[[morsure magique]]*}
+{s:BDSorts|A volonté — *[[contagion]]* (DD 19), *[[ténèbres maudites]]* (DD 19), *[[ténèbres profondes]]*}
+{s:BDSorts|3/jour— *[[confusion]]* (DD 19), *[[dissipation suprême]]*, *[[immobilisation de monstre]]* (DD 20), *[[invisibilité]]*, *[[rapidité]]*}
+{s:BDSorts|1/jour— *[[changement de plan]]* (DD 22), *[[cône de froid]]* (DD 20), *[[convocation]]* (niveau 6, 2 [[ombre supérieure|ombres supérieures]]), *[[doigt de mort]]* (DD 22)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 31, **Dex** 18, **Con** -, **Int** 18, **Sag** 21, **Cha** 21}
 {s:BDTexte|**BBA** +12, **BMO** +24, **DMD** 38}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Capture](./Capture.md), [Contrôle des morts-vivants](./Contrôle des morts-vivants.md), [Enchaînement](./Enchaînement.md), [Science de la destruction](./Science de la destruction.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Succession d'enchaînements](./Succession denchaînements.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +24, [Connaissances (mystères)](./Connaissances.md) +24, [Connaissances (religion)](./Connaissances.md) +24, [Discrétion](./Discrétion.md) +16 (+24 dans les ténèbres), [Natation](./Natation.md) +27, [Perception](./Perception.md) +25, [Psychologie](./Psychologie.md) +25, [Vol](./Vol.md) +24 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md) dans la pénombre et les ténèbres}
-{s:BDTexte|**Langues** abyssal, commun, infernal ; [télépathie](./Télépathie.md) 30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Capture]], [[Contrôle des morts-vivants]], [[Enchaînement]], [[Science de la destruction]], [[science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +24, [[connaissances|Connaissances (mystères)]] +24, [[connaissances|Connaissances (religion)]] +24, [[Discrétion]] +16 (+24 dans les ténèbres), [[Natation]] +27, [[Perception]] +25, [[Psychologie]] +25, [[Vol]] +24 ; **Modificateurs raciaux** +8 en [[Discrétion]] dans la pénombre et les ténèbres}
+{s:BDTexte|**Langues** abyssal, commun, infernal ; [[télépathie]] 30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Plan de l'Énergie négative)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou vol (3-6)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Absorption de magie (Sur).** La morsure d’un ailé ténébreux absorbe les énergies magiques. Quand un ailé ténébreux mord un ennemi, celui-ci doit effectuer un [jet de Volonté](./jet de sauvegarde.md) de [DD](./DD.md) 23 pour ne pas qu’un des sorts qui l’affectent ne soit immédiatement supprimé (si plusieurs sorts affectent la victime, déterminez le sort supprimé aléatoirement). L’ailé ténébreux se guérit d’un nombre de [points de vie](./pv.md) égal au double du niveau du sort supprimé. Les points de vie excédentaires prennent la forme de [points de vie temporaires](./points de vie temporaires.md) qui persistent pendant 1 heure. Si l’ailé ténébreux tente une manoeuvre de [destruction](./destruction.md) contre un objet magique en utilisant sa morsure, cette capacité rend l’objet non magique pendant 1d4 [rounds](./round.md) (s’il s’agissait d’un objet permanent), absorbe 1d8 charges (s’il s’agissait d’un objet à charges) ou le rend non magique de manière permanente (s’il s’agissait d’un objet à utilisation unique). L’objet (ou son porteur, le cas échéant) peut résister à cet effet en réussissant un [jet de Volonté](./jet de sauvegarde.md) contre un [DD](./DD.md) de 23. Les dégâts infligés à un objet sont appliqués après que les effets de cette capacité ont été pris en compte. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend du [Charisme](./Charisme.md).}
+{s:BDTexte|**Absorption de magie (Sur).** La morsure d’un ailé ténébreux absorbe les énergies magiques. Quand un ailé ténébreux mord un ennemi, celui-ci doit effectuer un [[jet de sauvegarde|jet de Volonté]] de [[DD]] 23 pour ne pas qu’un des sorts qui l’affectent ne soit immédiatement supprimé (si plusieurs sorts affectent la victime, déterminez le sort supprimé aléatoirement). L’ailé ténébreux se guérit d’un nombre de [[pv|points de vie]] égal au double du niveau du sort supprimé. Les points de vie excédentaires prennent la forme de [[points de vie temporaires]] qui persistent pendant 1 heure. Si l’ailé ténébreux tente une manoeuvre de [[destruction]] contre un objet magique en utilisant sa morsure, cette capacité rend l’objet non magique pendant 1d4 [[round|rounds]] (s’il s’agissait d’un objet permanent), absorbe 1d8 charges (s’il s’agissait d’un objet à charges) ou le rend non magique de manière permanente (s’il s’agissait d’un objet à utilisation unique). L’objet (ou son porteur, le cas échéant) peut résister à cet effet en réussissant un [[jet de sauvegarde|jet de Volonté]] contre un [[DD]] de 23. Les dégâts infligés à un objet sont appliqués après que les effets de cette capacité ont été pris en compte. Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [ténébreux](./Ténébreux.md).***</li></ul>*Cette énorme créature ressemblant à une chauve-souris est composée de ténèbres. Ses minuscules yeux rouges brillent comme des étoiles plongées dans un ciel nocturne.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Ténébreux]].***</li></ul>*Cette énorme créature ressemblant à une chauve-souris est composée de ténèbres. Ses minuscules yeux rouges brillent comme des étoiles plongées dans un ciel nocturne.*
 
 Les moins puissants des ténébreux connues sont les ailés ténébreux, qui n’en restent pas moins
 des ennemis très dangereux. Ils servent souvent de support aérien aux ténébreux plus puissants. Parmi les ténébreux, les ailés ténébreux sont les plus enclins à travailler sous les ordres d’un maître qui n’est pas mort-vivant : certains mortels puissants utilisent des ténébreux comme gardiens ou sentinelles mais, malgré cela, les ailés ténébreux espèrent toujours pouvoir tuer leur maître tôt ou tard

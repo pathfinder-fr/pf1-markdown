@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Melfesh est l'un des villages sous le contrôle de [Korvosa](./Korvosa.md). Grâce à ses constructions sur pilotis, il s’étend sur toute la largeur de la rivière Yondabakari. Les bateaux et les caravanes désirant transiter par Melfesh doivent payer une taxe pour passer l’énorme pont-levis qui se trouve au centre du village.
+Melfesh est l'un des villages sous le contrôle de [[Korvosa]]. Grâce à ses constructions sur pilotis, il s’étend sur toute la largeur de la rivière Yondabakari. Les bateaux et les caravanes désirant transiter par Melfesh doivent payer une taxe pour passer l’énorme pont-levis qui se trouve au centre du village.

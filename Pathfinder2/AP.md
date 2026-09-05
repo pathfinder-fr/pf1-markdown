@@ -10,10 +10,10 @@ LastModified: 2025-08-05 18:52
 <i class="fa fa-arrow-left" aria-hidden="true"></i> PF2</a>
 </div>
 <div class="contenumenuPF2">
-[Campagnes](./AP.md)
-[Aventures longues](./AL.md)
-[Aventures courtes](./AC.md)
-[Aides de jeu](./ADJA.md)
+[[AP|Campagnes]]
+[[AL|Aventures longues]]
+[[AC|Aventures courtes]]
+[[ADJA|Aides de jeu]]
 </div>
 </div>
 

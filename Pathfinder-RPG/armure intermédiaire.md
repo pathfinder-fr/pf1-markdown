@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Tableau récapitulatif des armures#INTERMEDIAIRES
 ---
 
->>> [Tableau récapitulatif des armures#INTERMEDIAIRES](./Tableau récapitulatif des armures.md#INTERMEDIAIRES)
+>>> [[Tableau récapitulatif des armures#INTERMEDIAIRES]]

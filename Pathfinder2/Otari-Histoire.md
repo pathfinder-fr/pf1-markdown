@@ -4,9 +4,9 @@ Title: L'histoire d'Otari
 LastModified: 2023-04-27 17:38
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur Otari](./OTARI.md)
+• [[OTARI|Retour à la page sur Otari]]
 
 ---
 ''Paré d’un pourpoint en cuir orné de fines dorures, le maire d’Otari, Oseph Menhemes, s’avance sur l’estrade d’un pas assuré. D’un geste de la main, il repousse distraitement la cape ocre et rouge qui l’enveloppe, révélant ainsi l’épée ornée qu’il porte à sa ceinture et la broche argentée qui décore sa poitrine.

@@ -26,7 +26,7 @@ LastModified: 2016-07-26 17:20
 (((Caractéristiques)))
 - **For **—, **Dex **14, **Con **—, **Int **13, **Sag **12, Cha** **20
 - **Attaque de base** +10 ; **lutte **—
-- **Dons **Endurance, Science de l’initiative, Talent (profession [mineur]), Vigueur surhumaine, Volonté de fer
+- **Dons **Endurance, Science de l’initiative, Talent (profession [[mineur]]), Vigueur surhumaine, Volonté de fer
 - **Compétences **Artisanat (fabrication d’armures) +18, Artisanat (travail de forge) +18, Connaissances (géographie) +18, Connaissances (nature) +18, Détection +10, Discrétion +10, Escalade +17, Fouille +26, Perception auditive +10, Profession (mineur) +21
 - **Langues **commun, nain, géant
 - **Part **reconstitution

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Mange-venin
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Mange-venin](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Mange-venin)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Mange-venin]]

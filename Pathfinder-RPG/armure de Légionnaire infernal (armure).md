@@ -10,6 +10,6 @@ Categories:
 {s:CCMI}**Prix** 2.000 po ; **Poids** 25 kg
 **Bonus d'armure** +9 ; **Bonus de Dex maximal** +1 ; **Malus d'armure** -5
 **Risque d'échec des sorts profanes** 35% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
-<span class="Catégorie">**Catégorie** [Armures lourdes](./Tableau récapitulatif des armures.md#TABLOURDES)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABLOURDES|Armures lourdes]]</span>
 ---
-Ces armures reconnaissables sont semblables à des [harnois](./harnois (armure).md) [de maître](./armure de maître.md) qui offrent des avantages supplémentaires à leur propriétaire s’il fait partie des [Légionnaires infernaux](./Chevalier infernal.md).
+Ces armures reconnaissables sont semblables à des [[harnois (armure)|harnois]] [[armure de maître|de maître]] qui offrent des avantages supplémentaires à leur propriétaire s’il fait partie des [[Chevalier infernal|Légionnaires infernaux]].

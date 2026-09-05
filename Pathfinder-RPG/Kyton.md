@@ -14,11 +14,11 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire* p.190}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [kyton](./sous-type kyton.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille M, LM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type kyton|kyton]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]]) de taille M, LM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 13, pris au dépourvu 18 (armure +4, Dex +3, naturelle +4)}
-{s:BDTexte|**pv** 60 (8d10+16) ; [régénération](./Régénération (capacité).md) 2 (armes d'alignement Bon, armes en argent, sorts du Bien)}
+{s:BDTexte|**pv** 60 (8d10+16) ; [[Régénération (capacité)|régénération]] 2 (armes d'alignement Bon, armes en argent, sorts du Bien)}
 {s:BDTexte|**Réf** +9, **Vig** +8, **Vol** +3}
 {s:BDTexte|**Immunités** froid ; **RD** 5/argent ou Bien ; **RM** 17 }
 {s:BDSousTitre|Attaque}
@@ -29,8 +29,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 17, **Con** 14, **Int** 11, **Sag** 12, **Cha** 12}
 {s:BDTexte|**BBA** +8, **BMO** +10, **DMD** 23}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (chaîne), [Combat en aveugle](./Combat en aveugle.md), [Science de l'initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +14, [Artisanat](./Artisanat.md) (travail de la forge) +11, [Escalade](./Escalade.md) +13, [Évasion](./Évasion.md) +14, [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +14}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (chaîne), [[Combat en aveugle]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +14, [[Artisanat]] (travail de la forge) +11, [[Escalade]] +13, [[Évasion]] +14, [[Intimidation]] +12, [[Perception]] +14}
 {s:BDTexte|**Langues** commun, infernal}
 {s:BDTexte|**Particularités** armure de chaînes}
 {s:BDSousTitre|Écologie}
@@ -38,12 +38,12 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple, maillon (3-6) ou chaîne (7-20)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Armure de chaînes (Ext).** Les chaînes qui recouvrent les kytons leur donnent un bonus d'armure de +4 mais n'imposent aucune pénalité en matière de risque d'échec des sorts, de bonus de [Dextérité](./Dextérité.md) maximal, de poids ou de formation au port des armures.}
-{s:BDTexte|**Danse des chaînes (Sur).** Par une [action simple](./Action simple.md), un kyton peut contrôler jusqu'à 4 chaînes situées dans un rayon de 6 m (4 {s:c}) et les faire danser ou se déplacer selon ses désirs. En plus de cela, le kyton peut allonger ces chaînes d'une distance maximale de 4,50 m (3 {s:c}) et les doter de barbelés acérés. Les chaînes attaquent avec la même efficacité que le kyton lui-même. Si une des chaînes se trouvent en possession d'une autre créature, cette dernière peut effectuer un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 15 pour tenter de briser le pouvoir que le kyton exerce sur la chaîne. En cas de [jet de sauvegarde](./jet de sauvegarde.md) réussi, le kyton ne peut plus essayer de contrôler la chaîne en question pendant 2 heures  à moins que la créature l'ait abandonnée. Le kyton peut escalader les chaînes qu'il contrôle en se déplaçant à sa vitesse normale et sans devoir effectuer un test d'[Escalade](./Escalade.md). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend du [Charisme](./Charisme.md).}
-{s:BDTexte|**Regard déstabilisant (Sur).** Portée 9 m (6 {s:c}), [Volonté](./Volonté.md) [DD](./DD.md) 15 annule. Un kyton peut modeler son visage pour qu'il ressemble à celui d'un mort qui était un être aimé ou un ennemi juré de son adversaire. Si une victime rate son [jet de sauvegarde](./jet de sauvegarde.md), elle est [secouée](./Secoué.md) pendant 1d3 rounds. Il s'agit d'un effet mental de terreur. Le [DD](./DD.md) dépend du [Charisme](./Charisme.md).}
+{s:BDTexte|**Armure de chaînes (Ext).** Les chaînes qui recouvrent les kytons leur donnent un bonus d'armure de +4 mais n'imposent aucune pénalité en matière de risque d'échec des sorts, de bonus de [[Dextérité]] maximal, de poids ou de formation au port des armures.}
+{s:BDTexte|**Danse des chaînes (Sur).** Par une [[action simple]], un kyton peut contrôler jusqu'à 4 chaînes situées dans un rayon de 6 m (4 {s:c}) et les faire danser ou se déplacer selon ses désirs. En plus de cela, le kyton peut allonger ces chaînes d'une distance maximale de 4,50 m (3 {s:c}) et les doter de barbelés acérés. Les chaînes attaquent avec la même efficacité que le kyton lui-même. Si une des chaînes se trouvent en possession d'une autre créature, cette dernière peut effectuer un jet de [[Volonté]] de [[DD]] 15 pour tenter de briser le pouvoir que le kyton exerce sur la chaîne. En cas de [[jet de sauvegarde]] réussi, le kyton ne peut plus essayer de contrôler la chaîne en question pendant 2 heures  à moins que la créature l'ait abandonnée. Le kyton peut escalader les chaînes qu'il contrôle en se déplaçant à sa vitesse normale et sans devoir effectuer un test d'[[Escalade]]. Le [[DD]] du [[jet de sauvegarde]] dépend du [[Charisme]].}
+{s:BDTexte|**Regard déstabilisant (Sur).** Portée 9 m (6 {s:c}), [[Volonté]] [[DD]] 15 annule. Un kyton peut modeler son visage pour qu'il ressemble à celui d'un mort qui était un être aimé ou un ennemi juré de son adversaire. Si une victime rate son [[jet de sauvegarde]], elle est [[secoué|secouée]] pendant 1d3 rounds. Il s'agit d'un effet mental de terreur. Le [[DD]] dépend du [[Charisme]].}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [kytons](./Kytons.md).***</li></ul>*Les chaînes barbelées qui drapent cette créature laissent entrevoir une peau pâle comme la mort et des cicatrices en dents de scie.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Kytons]].***</li></ul>*Les chaînes barbelées qui drapent cette créature laissent entrevoir une peau pâle comme la mort et des cicatrices en dents de scie.*
 
 Les profanes classent souvent les kytons dans les rangs des
 créatures infernales et les appellent « diables à

@@ -12,17 +12,17 @@ Categories:
 
 *Le personnage sait comment survivre et aider d’autres individus à survivre dans les allées, les égouts et les souterrains des villes.*
 
-**Conditions.** 4 rangs en [Connaissances](./Connaissances.md) (folklore local), 4 rangs en [Survie](./Survie.md), Pistage
+**Conditions.** 4 rangs en [[Connaissances]] (folklore local), 4 rangs en [[Survie]], Pistage
 
-**Avantages.** Le personnage peut utiliser la compétence de [Survie](./Survie.md) pour trouver de la nourriture et pister dans des milieux urbains en utilisant la table ci-dessous.
+**Avantages.** Le personnage peut utiliser la compétence de [[Survie]] pour trouver de la nourriture et pister dans des milieux urbains en utilisant la table ci-dessous.
 
 {| CLASS="tablo centre toutgauche autoalt"
 |- CLASS="titre"
 | DD || Tâche
 |- CLASS="premier"
-| 10 || Le personnage sait se débrouiller dans les environnements urbains. Il trouve suffisamment de nourriture et d’eau pour survivre pendant 24 heures. Il trouve également suffisamment à boire et à manger pour sustenter une personne supplémentaire par tranche de 2 points de différence entre le résultat du test et le [DD](./DD.md) de 10.
+| 10 || Le personnage sait se débrouiller dans les environnements urbains. Il trouve suffisamment de nourriture et d’eau pour survivre pendant 24 heures. Il trouve également suffisamment à boire et à manger pour sustenter une personne supplémentaire par tranche de 2 points de différence entre le résultat du test et le [[DD]] de 10.
 |-
-| 15 || Le personnage gagne un bonus de +2 aux tests de [Constitution](./Constitution.md) pour résister à la [faim](./Dangers naturels.md#FAIMSOIF) ou à la [soif](./Dangers naturels.md#FAIMSOIF). Il peut procurer le même bonus à une personne supplémentaire par point de différence entre le résultat du test et le [DD](./DD.md) de 15.
+| 15 || Le personnage gagne un bonus de +2 aux tests de [[Constitution]] pour résister à la [[Dangers naturels#FAIMSOIF|faim]] ou à la [[Dangers naturels#FAIMSOIF|soif]]. Il peut procurer le même bonus à une personne supplémentaire par point de différence entre le résultat du test et le [[DD]] de 15.
 |-
-| 15 || Le personnage gagne un bonus de +2 aux tests de [Survie](./Survie.md) pour suivre des traces sur les sols fermes ou durs.
+| 15 || Le personnage gagne un bonus de +2 aux tests de [[Survie]] pour suivre des traces sur les sols fermes ou durs.
 |}

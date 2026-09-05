@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire p.172*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 13 (Dex +2, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 30 (4d8+12)}
@@ -23,12 +23,12 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +6 (1d6+4), 2 griffes, +6 (1d4+4)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration.md) (2 griffes, 1d4+6)}
+{s:BDTexte|**Attaques spéciales** [[éventration]] (2 griffes, 1d4+6)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 15, **Con** 16, **Int** 2, **Sag** 12, **Cha** 7}
 {s:BDTexte|**BBA** +3, **BMO** +8, **DMD** 20}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +6, [Discrétion](./Discrétion.md) +2, [Escalade](./Escalade.md) +16, [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +6, [[Discrétion]] +2, [[Escalade]] +16, [[Perception]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupe (3-6)}
@@ -44,13 +44,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Singe](./Singe.md) || 1/4
+| Familier, [[Singe]] || 1/4
 |-
-| [Gorille](./Gorille.md) || 2
+| [[Gorille]] || 2
 |-
-| [Gorille sanguinaire](./Gorille sanguinaire.md) || 3
+| [[Gorille sanguinaire]] || 3
 |-
-| [Mégaprimate](./Mégaprimate.md) || 8
+| [[Mégaprimate]] || 8
 |}
 </div>*Ce gorille sauvage à la gueule remplie de dents acérées a de longs bras musclés qui se terminent par des griffes incurvées.*
 
@@ -84,7 +84,7 @@ pour le plaquer au sol avant de l’éventrer.
 
 #### Le gorille sanguinaire comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m (6 {s:c}), escalade 9 m (6 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 griffes (1d4) ; **Caractéristiques** For 13, Dex 17, Con 10, Int 2, Sag 12, Cha 7 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 9 m (6 {s:c}), escalade 9 m (6 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d4), 2 griffes (1d4) ; **Caractéristiques** For 13, Dex 17, Con 10, Int 2, Sag 12, Cha 7 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d6), 2 griffes (1d6) ; **Caractéristiques** For +8, Dex -2, Con +4.
 </div></td></tr></table>

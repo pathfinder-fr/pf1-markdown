@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Cette ville côtière du sud-est du [Chéliax](./Chéliax.md) abrite la marine du pays.
+Cette ville côtière du sud-est du [[Chéliax]] abrite la marine du pays.

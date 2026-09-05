@@ -8,12 +8,12 @@ Categories:
 ---
 
 {s:AE}**Prix** 15 po (d'appartement), 25 po (de garde), 150 po (de selle) ; **Poids** 2,5 kg (d'appartement), 12,5 kg (de garde), 25 kg (de selle)
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
 La plupart des chiens appartiennent à l’une de ces trois catégories.  
   
-*Chien d’appartement*. Ces chiens de taille TP sont généralement utilisés comme animaux de compagnie. On ne peut pas les former au combat mais ils peuvent servir de créatures de garde bruyantes mais capricieuses. Les chiens d’appartement ont les mêmes statistiques que les [renards](./Renard.md).  
+*Chien d’appartement*. Ces chiens de taille TP sont généralement utilisés comme animaux de compagnie. On ne peut pas les former au combat mais ils peuvent servir de créatures de garde bruyantes mais capricieuses. Les chiens d’appartement ont les mêmes statistiques que les [[Renard|renards]].  
   
-*Chien de garde*. Ce chien de taille P est dressé pour se battre. Il appartient à une race sélectionnée pour le combat et les éleveurs privilégient la force, la robustesse et un centre de gravité bas. Les chiens de garde sont vendus dans la plupart des grandes villes et certaines cultures les utilisent pour les sports de combat ou pour l’infanterie spéciale de certaines armées. Voir les statistiques du [chien](./Chien.md).  
+*Chien de garde*. Ce chien de taille P est dressé pour se battre. Il appartient à une race sélectionnée pour le combat et les éleveurs privilégient la force, la robustesse et un centre de gravité bas. Les chiens de garde sont vendus dans la plupart des grandes villes et certaines cultures les utilisent pour les sports de combat ou pour l’infanterie spéciale de certaines armées. Voir les statistiques du [[chien]].  
   
-*Chien de selle*. Ce chien de taille M est dressé pour porter des cavaliers de taille P et il est entraîné au combat. Les éleveurs choisissent des chiens ayant le dos solide, de l’endurance et faisant preuve de loyauté, puis les dressent pour servir de montures et de combattants avant de les vendre. On trouve des éleveurs réputés dans la plupart des grandes villes. Voir les statistiques du [chien de selle](./Chien de selle.md).
+*Chien de selle*. Ce chien de taille M est dressé pour porter des cavaliers de taille P et il est entraîné au combat. Les éleveurs choisissent des chiens ayant le dos solide, de l’endurance et faisant preuve de loyauté, puis les dressent pour servir de montures et de combattants avant de les vendre. On trouve des éleveurs réputés dans la plupart des grandes villes. Voir les statistiques du [[chien de selle]].

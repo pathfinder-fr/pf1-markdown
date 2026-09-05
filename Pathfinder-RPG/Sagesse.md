@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques#SAGESSE
 ---
 
->>> [Caractéristiques#SAGESSE](./Caractéristiques.md#SAGESSE)
+>>> [[Caractéristiques#SAGESSE]]

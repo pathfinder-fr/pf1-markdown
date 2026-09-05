@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Désert|Tempéré}
 - *Source : Bestiaire 4, p.273*
 - **PX** 400
-- [Animal](./type Animal.md) de taille M, N
-- **Init** -2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7
+- [[type Animal|Animal]] de taille M, N
+- **Init** -2 ; **Sens** [[vision nocturne]] ; [[Perception]] +7
 (((Défense)))
 - **CA** 16, contact 8, pris au dépourvu 16 (Dex -2, naturelle +8)
 - **pv** 22 (3d8+9)
@@ -25,9 +25,9 @@ Categories:
 - **Corps à corps** morsure, +4 (1d6+3)
 (((Statistiques)))
 - **For** 14, **Dex** 7, **Con** 16, **Int** 2, **Sag** 13, **Cha** 9
-- **BBA** +2 ; **BMO** +4 ; **DMD** 12 (16 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Dons** [Endurance](./Endurance.md), [Vigueur surhumaine](./Vigueur surhumaine.md)
-- **Compétences** [Perception](./Perception.md) +7 (+3 pour les tests basés sur le son)
+- **BBA** +2 ; **BMO** +4 ; **DMD** 12 (16 contre [[croc-en-jambe]])
+- **Dons** [[Endurance]], [[Vigueur surhumaine]]
+- **Compétences** [[Perception]] +7 (+3 pour les tests basés sur le son)
 - **Modificateurs raciaux** -4 aux tests basés sur le son
 - **Particularités** flottable, carapace, lentement mais sûrement.
 (((Écologie)))
@@ -52,9 +52,9 @@ charge transportée.
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Tortue géante](./Tortue géante.md) || 1
+| [[Tortue géante]] || 1
 |-
-| [Tortue immense](./Tortue immense.md) || 8
+| [[Tortue immense]] || 8
 |}
 </div>*Cette tortue est moitié moins grande qu’un humain et possède une carapace en dôme, un cuir tanné et un long cou.*
 
@@ -75,9 +75,9 @@ de haut environ du sommet de sa carapace
 pour un poids de 250 kilogrammes.
 
 ### La tortue géante comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 3 m (2 {s:c}) ; **CA** armure naturelle +6 ; **Attaque** morsure (1d4) ; **Caractéristiques** For 14, Dex 8, Con 16, Int 2, Sag 13, Cha 9 ; **Particularités** [vision nocturne](./vision nocturne.md), flottable, carapace, lentement mais sûrement.
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 3 m (2 {s:c}) ; **CA** armure naturelle +6 ; **Attaque** morsure (1d4) ; **Caractéristiques** For 14, Dex 8, Con 16, Int 2, Sag 13, Cha 9 ; **Particularités** [[vision nocturne]], flottable, carapace, lentement mais sûrement.
 
-**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +8 ; **Attaque** morsure (1d6) ; **Caractéristiques** For +4, Dex –2, Con +2 ; **Don supplémentaire** [Vigueur surhumaine](./Vigueur surhumaine.md).
+**Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +8 ; **Attaque** morsure (1d6) ; **Caractéristiques** For +4, Dex –2, Con +2 ; **Don supplémentaire** [[Vigueur surhumaine]].
 
 *<u>Note :</u> Dans certaines V.F. et V.O. les particularités évidentes "flottable", "carapace", "lentement mais sûrement" semblent avoir été oubliées sur la version compagnon animal. Cela devrait avoir été corrigé depuis dans les dernières versions.*
 </div></td></tr></table>

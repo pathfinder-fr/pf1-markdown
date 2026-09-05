@@ -11,12 +11,12 @@ Categories:
 
 {s:apg}*Le personnage peut recharger les arbalètes à toute vitesse et même tirer à bout portant sans craindre de contre-attaque.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 15, [Rechargement rapide](./Rechargement rapide.md), [Tir à bout portant](./Tir à bout portant.md), [Tir rapide](./Tir rapide.md).
+**Conditions.** [[Dextérité|Dex]] 15, [[Rechargement rapide]], [[Tir à bout portant]], [[Tir rapide]].
 
-**Avantage.** Quel que soit le type d’arbalète utilisé, il ne faut au personnage qu’une [action libre](./Action libre.md) pour la recharger. Lors d’une [attaque à outrance](./attaque à outrance.md), il peut effectuer autant d’attaques à l’arbalète que s’il utilisait un arc. Lorsque le personnage recharge une arbalète correspondant au type d’arbalète choisi pour le don [Rechargement Rapide](./Rechargement rapide.md), il ne provoque plus d’[attaque d’opportunité](./attaque dopportunité.md).
+**Avantage.** Quel que soit le type d’arbalète utilisé, il ne faut au personnage qu’une [[action libre]] pour la recharger. Lors d’une [[attaque à outrance]], il peut effectuer autant d’attaques à l’arbalète que s’il utilisait un arc. Lorsque le personnage recharge une arbalète correspondant au type d’arbalète choisi pour le don [[Rechargement Rapide]], il ne provoque plus d’[[attaque dopportunité|attaque d’opportunité]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Tant que le personnage possède au moins un point d’endurance dans sa réserve, il ne provoque pas d’[attaque d’opportunité](./AO.md) quand il recharge une arbalète.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Tant que le personnage possède au moins un point d’endurance dans sa réserve, il ne provoque pas d’[[AO|attaque d’opportunité]] quand il recharge une arbalète.

@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Ville|Tempéré}
 - *Source : Bestiaire 4* p.264
 - **PX** 600
-- [Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, N
-- **Init** +1 ; **Sens** [vision aveugle](./vision aveugle.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +10
+- [[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, N
+- **Init** +1 ; **Sens** [[vision aveugle]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +10
 (((Défense)))
 - **CA** 12, contact 12, pris au dépourvu 10 (Dex +1, esquive +1)
 - **pv** 18 (4d10-4)
@@ -24,15 +24,15 @@ Categories:
 - **VD** 1,50 m, vol 9 m (parfaite)
 - **Corps à corps** 2 griffes, +2 (1d4-2)
 - **Pouvoirs magiques** (NLS 4 ; concentration +9)
-  - Constant — *[détection de la magie](./Détection de la magie.md)*, *[don des langues](./Don des langues.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[manipulation à distance](./Manipulation à distance.md)*
-  - À volonté — *[détection de pensées](./Détection de pensées.md)* (DD 17), *[hébétement](./Hébétement.md)* (DD 15), *[projectile magique](./Projectile magique.md)*, *[son imaginaire](./Son imaginaire.md)* (DD 15)
-  - 1/jour — *[télékinésie](./Télékinésie.md)* (DD 20)
+  - Constant — *[[détection de la magie]]*, *[[don des langues]]*, *[[lecture de la magie]]*, *[[manipulation à distance]]*
+  - À volonté — *[[détection de pensées]]* (DD 17), *[[hébétement]]* (DD 15), *[[projectile magique]]*, *[[son imaginaire]]* (DD 15)
+  - 1/jour — *[[télékinésie]]* (DD 20)
 (((Statistiques)))
 - **For** 6, **Dex** 13, **Con** 8, **Int** 24, **Sag** 17, **Cha** 21
 - **BBA** +4 ; **BMO** +2 ; **DMD** 14
-- **Dons** [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md)
-- **Compétences** [Art de la magie](./Art de la magie.md) +11, [Bluff](./Bluff.md) +9, [Connaissances](./Connaissances.md) (histoire) +11, [Connaissances](./Connaissances.md) (mystères) +11, [Connaissances](./Connaissances.md) (plans) +11, [Diplomatie](./Diplomatie.md) +9, [Dressage](./Dressage.md) +9, [Linguistique](./Linguistique.md) +11, [Perception](./Perception.md) +10, [Psychologie](./Psychologie.md) +7, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +9, [Vol](./Vol.md) +9
-- **Langues** télépathie 30 m ; *[don des langues](./Don des langues.md)*
+- **Dons** [[Esquive]], [[Magie de guerre]]
+- **Compétences** [[Art de la magie]] +11, [[Bluff]] +9, [[Connaissances]] (histoire) +11, [[Connaissances]] (mystères) +11, [[Connaissances]] (plans) +11, [[Diplomatie]] +9, [[Dressage]] +9, [[Linguistique]] +11, [[Perception]] +10, [[Psychologie]] +7, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +9, [[Vol]] +9
+- **Langues** télépathie 30 m ; *[[don des langues]]*
 (((Écologie)))
 - **Environnement** villes
 - **Organisation sociale** solitaire, trio ou groupe (4-7)

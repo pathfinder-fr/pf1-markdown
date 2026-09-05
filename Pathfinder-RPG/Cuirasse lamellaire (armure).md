@@ -11,6 +11,6 @@ Categories:
 {s:AE}{s:UC}**Prix** 15 po ; **Poids** 4 kg
 **Bonus d'armure** +2 ; **Bonus de Dex maximal** +4 ; **Malus d'armure** 0
 **Risque d'échec des sorts profanes** 5% ; **Vitesse** 9 m/6 m (6 c/4 c)
-<span class="Catégorie">**Catégorie** [Armures légères](./Tableau récapitulatif des armures.md#TABLEGERES) ([orientale](./Armes orientales.md))</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABLEGERES|Armures légères]] ([[armes orientales|orientale]])</span>
 ---
 Cette armure se compose d’une cuirasse légère et d’épaulières faites de plaques de cuir laqué fixées et assemblées sur une chemise en soie.

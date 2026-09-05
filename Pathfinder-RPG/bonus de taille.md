@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Valeurs de combat#TABMODTAILLE
 ---
 
->>> [Valeurs de combat#TABMODTAILLE](./Valeurs de combat.md#TABMODTAILLE)
+>>> [[Valeurs de combat#TABMODTAILLE]]

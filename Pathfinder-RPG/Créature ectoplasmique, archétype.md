@@ -71,5 +71,5 @@ La rancoeur et le désespoir brûlant de ces créatures ectoplasmiques les pouss
 
 Les êtres ectoplasmiques peuvent vivre n’importe où, qu’importe l’environnement ou le climat. Ces horreurs ont tendance à rôder dans la zone où elles sont mortes, s’aventurant rarement en dehors de ses frontières, comme si elles étaient ancrées à ces lieux. Bien que ces entités coordonnent rarement des actions complexes avec leurs semblables, il semblerait qu’elles le fassent parfois involontairement. La force surnaturelle des créatures ectoplasmiques fait d’elles des combattants exceptionnels, chose que les individus qui n’ont pas l’habitude d’affronter ces créatures devinent à simplement les regarder. Heureusement pour les individus méfiants, l’ectoplasme gluant que ces monstres morts-vivants laissent derrière eux est un signe évident de leur présence et la plupart des prêtres chevronnés peuvent identifier cette substance d’un simple coup d’oeil.
 
-Voir aussi l'exemple : [humain ectoplasmique](./Humain ectoplasmique.md)
+Voir aussi l'exemple : [[humain ectoplasmique]]
 </div></td></tr></table>

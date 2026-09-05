@@ -8,18 +8,18 @@ Categories:
 - Sort rôdeur 1
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Rôd](./Rôdeur.md) 1  
+**École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Rôdeur|Rôd]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [G, FD](./composantes.md)  
+**Composantes** [[composantes|G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
-**Cibles** 1 créature touchée/[niveau](./niveau.md)  
+**Cibles** 1 créature touchée/[[niveau]]  
 
-**Durée** 10 minutes/[niveau](./niveau.md) (T)  
+**Durée** 10 minutes/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
-Les [animaux](./type Animal.md) ne peuvent pas percevoir les créatures protégées par ce sort. Même les capacités sensorielles extraordinaires ou surnaturelles (comme les sens aveugles, la [vision aveugle](./vision aveugle.md), l’[odorat](./odorat.md) et la [perception des vibrations](./Perception des vibrations.md)) ne leur permettent pas de les détecter ou de les localiser. Les [animaux](./type Animal.md) se comportent donc comme si les créatures affectées n’étaient pas présentes. Si l’une d’elles touche un [animal](./type Animal.md) ou attaque une créature, même à l’aide d’un sort, la dissimulation aux [animaux](./type Animal.md) prend fin pour tous les bénéficiaires.
+Les [[type animal|animaux]] ne peuvent pas percevoir les créatures protégées par ce sort. Même les capacités sensorielles extraordinaires ou surnaturelles (comme les sens aveugles, la [[vision aveugle]], l’[[odorat]] et la [[perception des vibrations]]) ne leur permettent pas de les détecter ou de les localiser. Les [[type animal|animaux]] se comportent donc comme si les créatures affectées n’étaient pas présentes. Si l’une d’elles touche un [[type animal|animal]] ou attaque une créature, même à l’aide d’un sort, la dissimulation aux [[type animal|animaux]] prend fin pour tous les bénéficiaires.

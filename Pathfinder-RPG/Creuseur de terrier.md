@@ -9,7 +9,7 @@ Categories:
 
 {s:cm}*Après des années passées à creuser les tombes, le personnage se déplace dans la terre comme un poisson dans l’eau.*
 
-**Conditions.** [Goule](./Goule.md)
+**Conditions.** [[Goule]]
 
 **Avantages.** Le personnage gagne une vitesse de creusement de 3 mètres dans la terre, le sable et l’humus.
 

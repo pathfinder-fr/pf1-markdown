@@ -13,11 +13,11 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Psy](./Psychiste.md) 1, [San](./Sanguin.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (un éclat de miroir)  
+**Composantes** [[Composantes|V, G, F]] (un éclat de miroir)  
 
 **Portée** personnelle  
 
@@ -26,4 +26,4 @@ Categories:
 **Durée** voir texte  
 
 
-Le personnage altère brièvement le cours du temps pour scinder une attaque de corps à corps en deux attaques. Avant la fin de son prochain tour, il fait une attaque au corps à corps, il compare le résultat avec la [CA](./CA.md) de deux adversaires à portée. Si ces deux adversaires prennent le personnage [en tenaille](./prise en tenaille.md), celui-ci gagne un bonus de +2 aux jets d’attaque (et aux jets de confirmation de [coup critique](./coup critique.md), voir plus bas). S’il touche les deux, il inflige la moitié des dégâts à chacun. S’il n’en touche qu’un, il lui inflige les dégâts d’attaque normaux. En cas de [coup critique](./coup critique.md), il peut se contenter d’un jet d’attaque pour confirmer le critique contre les deux adversaires. S’il confirme le critique sur les deux, il inflige à chacun la moitié des dégâts du [coup critique](./coup critique.md). S’il confirme le critique contre un seul adversaire, le coup est juste un coup normal. Le sort expire si le personnage ne l’a pas utilisé avant la fin de son prochain tour.
+Le personnage altère brièvement le cours du temps pour scinder une attaque de corps à corps en deux attaques. Avant la fin de son prochain tour, il fait une attaque au corps à corps, il compare le résultat avec la [[CA]] de deux adversaires à portée. Si ces deux adversaires prennent le personnage [[prise en tenaille|en tenaille]], celui-ci gagne un bonus de +2 aux jets d’attaque (et aux jets de confirmation de [[coup critique]], voir plus bas). S’il touche les deux, il inflige la moitié des dégâts à chacun. S’il n’en touche qu’un, il lui inflige les dégâts d’attaque normaux. En cas de [[coup critique]], il peut se contenter d’un jet d’attaque pour confirmer le critique contre les deux adversaires. S’il confirme le critique sur les deux, il inflige à chacun la moitié des dégâts du [[coup critique]]. S’il confirme le critique contre un seul adversaire, le coup est juste un coup normal. Le sort expire si le personnage ne l’a pas utilisé avant la fin de son prochain tour.

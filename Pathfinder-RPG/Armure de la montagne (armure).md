@@ -11,6 +11,6 @@ Categories:
 {s:AE}{s:UC}**Prix** 250 po ; **Poids** 20 kg
 **Bonus d'armure** +6 ; **Bonus de Dex maximal** +3 ; **Malus d'armure** -4
 **Risque d'échec des sorts profanes** 30% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
-<span class="Catégorie">**Catégorie** [Armures intermédiaires](./Tableau récapitulatif des armures.md#TABINTERMEDIAIRES) ([orientale](./Armes orientales.md))</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABINTERMEDIAIRES|Armures intermédiaires]] ([[armes orientales|orientale]])</span>
 ---
-Cette armure intermédiaire se compose de centaines de petites pièces d’acier entrecroisées disposées de manière à former l’ancien symbole du terme « montagne ». Les mailles sont ensuite rivées à une armature en tissu ou en cuir. L’armure se porte comme une [cotte de mailles](./cotte de mailles (armure).md) et couvre le torse, les épaules et les cuisses.
+Cette armure intermédiaire se compose de centaines de petites pièces d’acier entrecroisées disposées de manière à former l’ancien symbole du terme « montagne ». Les mailles sont ensuite rivées à une armature en tissu ou en cuir. L’armure se porte comme une [[cotte de mailles (armure)|cotte de mailles]] et couvre le torse, les épaules et les cuisses.

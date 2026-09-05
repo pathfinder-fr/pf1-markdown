@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#MASSUEVIVANTE
 ---
 
->>> [Pouvoirs de rage#MASSUEVIVANTE](./Pouvoirs de rage.md#MASSUEVIVANTE)
+>>> [[Pouvoirs de rage#MASSUEVIVANTE]]

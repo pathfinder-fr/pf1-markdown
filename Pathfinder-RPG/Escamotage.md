@@ -8,7 +8,7 @@ Categories:
 
 {s:MenuCompétences}
 
-**Caractéristique associée** : [Dextérité](./Dextérité.md)
+**Caractéristique associée** : [[Dextérité]]
 
 **Formation nécessaire** : oui
 
@@ -18,17 +18,17 @@ Categories:
 
 ### Test de compétence
 
-Un test d’Escamotage réussi contre un [DD](./DD.md) de 10 permet au personnage d’empocher discrètement un objet auquel personne ne fait attention, pour autant que ce dernier ne soit pas plus gros qu’une pièce de monnaie. Les tours de passe-passe mineurs (comme faire disparaître une pièce) donnent également lieu à un test de [DD](./DD.md) 10, sauf si un observateur attentif surveille l’objet en question.
+Un test d’Escamotage réussi contre un [[DD]] de 10 permet au personnage d’empocher discrètement un objet auquel personne ne fait attention, pour autant que ce dernier ne soit pas plus gros qu’une pièce de monnaie. Les tours de passe-passe mineurs (comme faire disparaître une pièce) donnent également lieu à un test de [[DD]] 10, sauf si un observateur attentif surveille l’objet en question.
 
-Si l’aventurier doit déjouer la surveillance d’un observateur, son test d’Escamotage doit l’emporter sur le test de [Perception](./Perception.md) de cet observateur. En cas d’échec, le personnage peut quand même réaliser l’action prévue mais l’observateur le remarque.
+Si l’aventurier doit déjouer la surveillance d’un observateur, son test d’Escamotage doit l’emporter sur le test de [[Perception]] de cet observateur. En cas d’échec, le personnage peut quand même réaliser l’action prévue mais l’observateur le remarque.
 
-Cette compétence sert aussi à cacher sur sa personne un objet de taille réduite (y compris une [arme légère](./arme légère.md) ou une [arme à distance](./arme à distance.md) facile à cacher, comme un dard, une fronde ou une arbalète de poing). Le test d’Escamotage est opposé aux tests de [Perception](./Perception.md) des individus qui observent ou fouillent le personnage. Dans ce dernier cas, les examinateurs obtiennent un bonus de +4 aux tests de [Perception](./Perception.md), puisqu’il est généralement plus simple de trouver un objet de ce type que de le cacher. Une dague se dissimule plus facilement que la plupart des autres armes légères et elle peut être cachée avec un bonus de +2 au test d’Escamotage. Un objet particulièrement petit, comme une pièce de monnaie, un shuriken ou un anneau, peut être dissimulé avec un bonus de +4 au test d’Escamotage. Enfin, un personnage portant des habits épais ou amples (comme une cape) obtient un bonus de +2 aux tests d’Escamotage visant à dissimuler des objets.
+Cette compétence sert aussi à cacher sur sa personne un objet de taille réduite (y compris une [[arme légère]] ou une [[arme à distance]] facile à cacher, comme un dard, une fronde ou une arbalète de poing). Le test d’Escamotage est opposé aux tests de [[Perception]] des individus qui observent ou fouillent le personnage. Dans ce dernier cas, les examinateurs obtiennent un bonus de +4 aux tests de [[Perception]], puisqu’il est généralement plus simple de trouver un objet de ce type que de le cacher. Une dague se dissimule plus facilement que la plupart des autres armes légères et elle peut être cachée avec un bonus de +2 au test d’Escamotage. Un objet particulièrement petit, comme une pièce de monnaie, un shuriken ou un anneau, peut être dissimulé avec un bonus de +4 au test d’Escamotage. Enfin, un personnage portant des habits épais ou amples (comme une cape) obtient un bonus de +2 aux tests d’Escamotage visant à dissimuler des objets.
 
-Dégainer une arme dissimulée est une [action simple](./Action simple.md) qui ne provoque pas d’attaque d’opportunité.
+Dégainer une arme dissimulée est une [[action simple]] qui ne provoque pas d’attaque d’opportunité.
 
-Il faut réussir un test d’Escamotage contre un [DD](./DD.md) de 20 pour dérober quelque chose à quelqu’un. La victime a droit à un test de [Perception](./Perception.md) opposé au test d’Escamotage du personnage. Si elle réussit, elle s’aperçoit qu’on cherche à la voler, que le personnage ait réussi sa tentative ou non. Le personnage ne peut pas utiliser cette compétence au cours d’un combat pour dérober un objet à une créature qui est au courant de sa présence.
+Il faut réussir un test d’Escamotage contre un [[DD]] de 20 pour dérober quelque chose à quelqu’un. La victime a droit à un test de [[Perception]] opposé au test d’Escamotage du personnage. Si elle réussit, elle s’aperçoit qu’on cherche à la voler, que le personnage ait réussi sa tentative ou non. Le personnage ne peut pas utiliser cette compétence au cours d’un combat pour dérober un objet à une créature qui est au courant de sa présence.
 
-On peut aussi utiliser la compétence d’Escamotage pour distraire une audience (comme avec la compétence de [Représentation](./Représentation.md)). Dans ce cas, le personnage jongle, fait des tours de passe-passe et ainsi de suite.
+On peut aussi utiliser la compétence d’Escamotage pour distraire une audience (comme avec la compétence de [[Représentation]]). Dans ce cas, le personnage jongle, fait des tours de passe-passe et ainsi de suite.
 
 <center>
 {| CLASS="tablo"
@@ -47,7 +47,7 @@ On peut aussi utiliser la compétence d’Escamotage pour distraire une audience
 
 ### Action
 
-Les tests d’Escamotage nécessitent généralement des actions simples, mais une [action de mouvement](./Action de mouvement.md) peut suffire si on accepte un malus de -20 au test.
+Les tests d’Escamotage nécessitent généralement des actions simples, mais une [[action de mouvement]] peut suffire si on accepte un malus de -20 au test.
 
 ### Nouvelles tentatives
 
@@ -55,8 +55,8 @@ Oui, mais un second test d’Escamotage contre la même cible après un échec (
 
 ### Utilisation sans formation
 
-Un test d’Escamotage sans formation est simplement un test de [Dextérité](./Dextérité.md). Sans entraînement particulier, il est impossible de réussir une tâche dont le DD est supérieur à 10, à l’exception de la dissimulation d’objet sur sa personne.
+Un test d’Escamotage sans formation est simplement un test de [[Dextérité]]. Sans entraînement particulier, il est impossible de réussir une tâche dont le DD est supérieur à 10, à l’exception de la dissimulation d’objet sur sa personne.
 
 ### Spécial
 
-Un personnage possédant le don [Doigts de fée](./Doigts de fée.md) obtient un bonus aux tests d’Escamotage.
+Un personnage possédant le don [[Doigts de fée]] obtient un bonus aux tests d’Escamotage.

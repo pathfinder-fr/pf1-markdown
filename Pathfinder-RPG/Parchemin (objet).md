@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 pa ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Cette fine feuille de peau animale traitée constitue une surface d'écriture résistante et convient à la création de [parchemins magiques](./Parchemins magiques.md). Elle a une [solidité](./solidité.md) de 0, 2 points de vie et le [DD](./DD.md) pour la déchirer est de 5.
+Cette fine feuille de peau animale traitée constitue une surface d'écriture résistante et convient à la création de [[Parchemins magiques]]. Elle a une [[solidité]] de 0, 2 points de vie et le [[DD]] pour la déchirer est de 5.

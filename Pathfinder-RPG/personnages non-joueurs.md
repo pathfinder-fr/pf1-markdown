@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#PERSONNAGENONJOUEUR
 ---
 
->>> [Vocabulaire courant#PERSONNAGENONJOUEUR](./Vocabulaire courant.md#PERSONNAGENONJOUEUR)
+>>> [[Vocabulaire courant#PERSONNAGENONJOUEUR]]

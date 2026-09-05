@@ -9,6 +9,6 @@ Categories:
 
 {s:MR}*Le contrôle du drow sur l’ombre et les ténèbres lui permet de créer des effets de sort prolongés.*
 
-**Conditions requises.** : [Drow](./Drow.md), niveau 1 de lanceur de sorts
+**Conditions requises.** : [[Drow]], niveau 1 de lanceur de sorts
 
-**Avantage.** Lorsqu’il lance des sorts de la branche de [l’ombre](./Créer un sort.md#OMBRE) ou du registre de [ténèbres](./Créer-un-sort-.md#TENEBRES), le drow est considéré comme ayant deux niveaux de plus quand il s’agit de déterminer la durée de ces sorts.
+**Avantage.** Lorsqu’il lance des sorts de la branche de [[Créer un sort#OMBRE|l’ombre]] ou du registre de [[Créer un sort #TENEBRES|ténèbres]], le drow est considéré comme ayant deux niveaux de plus quand il s’agit de déterminer la durée de ces sorts.

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.51*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[créature magique](./type Créature magique.md) de taille TG, LN}
-{s:BDTexte|**Init** +5 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type créature magique|créature magique]] de taille TG, LN}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision nocturne]] ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 10, pris au dépourvu 16 (Dex +2, naturelle +8, taille -2)}
 {s:BDTexte|**pv** 57 (6d10+24)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 15, **Con** 18, **Int** 14, **Sag** 17, **Cha** 9}
 {s:BDTexte|**BBA** +6, **BMO** +13, **DMD** 25}
-{s:BDTexte|**Dons** [Expertise du combat](./Expertise du combat.md), [Science du désarmement](./Science du désarmement.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (géographie) +11, [Connaissances](./Connaissances.md) (histoire) +11, [Connaissances](./Connaissances.md) (nature) +11, [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +15, [Vol](./Vol.md) +11}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Vol](./Vol.md), +8 à toutes les compétences [Connaissances](./Connaissances.md), +4 en [Perception](./Perception.md), +4 en [Psychologie](./Psychologie.md), +8 en [Discrétion](./Discrétion.md)}
+{s:BDTexte|**Dons** [[Expertise du combat]], [[Science du désarmement]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (géographie) +11, [[Connaissances]] (histoire) +11, [[Connaissances]] (nature) +11, [[Discrétion]] +9, [[Perception]] +17, [[Psychologie]] +15, [[Vol]] +11}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Vol]], +8 à toutes les compétences [[Connaissances]], +4 en [[Perception]], +4 en [[Psychologie]], +8 en [[Discrétion]]}
 {s:BDTexte|**Langues** sylvestre (ne peut pas parler), télépathie animale (9 m / 6 {s:c})}
 {s:BDTexte|**Particularités** sens intuitifs, regard fixe et pénétrant}
 {s:BDSousTitre|Écologie}
@@ -37,9 +37,9 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou nichée (3-10)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Regard fixe et pénétrant (Sur).** Par une [action rapide](./Action rapide.md) et jusqu'à trois fois par jour, la chouette géante peut bénéficier des effets de *[vision lucide](./Vision lucide.md)* (comme le sort) pendant 1 [round](./round.md).}
-{s:BDTexte|**Sens intuitifs (Sur).** La chouette géante a des sens développés quand il s'agit de percevoir le danger ou de repérer des proies. Elle ajoute son modificateur de [Sagesse](./Sagesse.md) comme bonus d'intuition (+3 pour la plupart des chouettes géantes) à ses tests d'[initiative](./initiative.md).}
-{s:BDTexte|**Télépathie animale (Sur).** La chouette géante peut communiquer par [télépathie](./Télépathie (capacité).md) avec les autres animaux comme si elle était sous les effets du sort *[communication avec les animaux](./Communication avec les animaux.md)*.}
+{s:BDTexte|**Regard fixe et pénétrant (Sur).** Par une [[action rapide]] et jusqu'à trois fois par jour, la chouette géante peut bénéficier des effets de *[[vision lucide]]* (comme le sort) pendant 1 [[round]].}
+{s:BDTexte|**Sens intuitifs (Sur).** La chouette géante a des sens développés quand il s'agit de percevoir le danger ou de repérer des proies. Elle ajoute son modificateur de [[Sagesse]] comme bonus d'intuition (+3 pour la plupart des chouettes géantes) à ses tests d'[[initiative]].}
+{s:BDTexte|**Télépathie animale (Sur).** La chouette géante peut communiquer par [[télépathie (capacité)|télépathie]] avec les autres animaux comme si elle était sous les effets du sort *[[communication avec les animaux]]*.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -48,11 +48,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Chouette](./Chouette.md) || 1/3
+| Familier, [[Chouette]] || 1/3
 |-
-| [Chouette géante](./Chouette géante.md) || 5
+| [[Chouette géante]] || 5
 |-
-| [Grand-duc](./Grand-duc.md) || 1/2
+| [[Grand-duc]] || 1/2
 |}
 </div>*Malgré sa taille imposante, cette énorme chouette possède une aura de sagesse et de grâce silencieuse.*
 

@@ -32,31 +32,31 @@ Edit de rectulo : pareil
 {| CLASS="tablo col1centre"
 |+ Propriétés spéciales d'armure (MCA)
 |- CLASS="titre"
-| Propriété spéciale d’armure +1 || Prix de base <sup>[1](./Temp objetsmagiques armures MCA.md#NOTE1)</sup>
+| Propriété spéciale d’armure +1 || Prix de base <sup>[[Temp objetsmagiques armures MCA#NOTE1|1]]</sup>
 |- CLASS="premier"
-| [Impondérable](./Temp objetsmagiques armures MCA.md#Impondérable) || +4 000 po
+| [[Temp objetsmagiques armures MCA#Impondérable|Impondérable]] || +4 000 po
 |- CLASS="alt"
-| [Amorphe](./Temp objetsmagiques armures MCA.md#Amorphe) || +4 500 po
+| [[Temp objetsmagiques armures MCA#Amorphe|Amorphe]] || +4 500 po
 |-
-| [Reposante](./Temp objetsmagiques armures MCA.md#Reposante) || +4 500 po
+| [[Temp objetsmagiques armures MCA#Reposante|Reposante]] || +4 500 po
 |- CLASS="alt"
-| [Apaisante](./Temp objetsmagiques armures MCA.md#Apaisante) || Bonus +1
+| [[Temp objetsmagiques armures MCA#Apaisante|Apaisante]] || Bonus +1
 |-
-| [De sauvegarde](./Temp objetsmagiques armures MCA.md#De sauvegarde) || Bonus +1
+| [[Temp objetsmagiques armures MCA#De sauvegarde|De sauvegarde]] || Bonus +1
 |- CLASS="titre"
-| Propriété spéciale d’armure +2 || Prix de base  <sup>[1](./.md#NOTE1)</sup>
+| Propriété spéciale d’armure +2 || Prix de base  <sup>[[#NOTE1|1]]</sup>
 |- CLASS="premier"
-| [De rancune](./Temp objetsmagiques armures MCA.md#De rancune) || +7 000 po
+| [[Temp objetsmagiques armures MCA#De rancune|De rancune]] || +7 000 po
 |- CLASS="alt"
-| [Sans trace](./Temp objetsmagiques armures MCA.md#Sans trace) || +7 500 po
+| [[Temp objetsmagiques armures MCA#Sans trace|Sans trace]] || +7 500 po
 |-
-| [Vibrante](./Temp objetsmagiques armures MCA.md#Vibrante)<sup>[2](./.md#NOTE2)</sup> || Bonus +2
+| [[Temp objetsmagiques armures MCA#Vibrante|Vibrante]]<sup>[[#NOTE2|2]]</sup> || Bonus +2
 |- CLASS="alt"
-| [D’esquive des sorts](./Temp objetsmagiques armures MCA.md#D'esquive des sorts) || Bonus +2
+| [[Temp objetsmagiques armures MCA#D'esquive des sorts|D’esquive des sorts]] || Bonus +2
 |- CLASS="titre"
-| Propriété spéciale d’armure +3 || Prix de base  <sup>[1](./.md#NOTE1)</sup>
+| Propriété spéciale d’armure +3 || Prix de base  <sup>[[#NOTE1|1]]</sup>
 |- CLASS="premier"
-| [De perception](./Temp objetsmagiques armures MCA.md#De perception) || Bonus +3
+| [[Temp objetsmagiques armures MCA#De perception|De perception]] || Bonus +3
 |- CLASS="note"
 | COLSPAN=5 | {s:Reference|NOTE1} *(1) Ajoutez le bonus d’enchantement de l’armure pour déterminer le prix total.*
 |- CLASS="note"
@@ -71,7 +71,7 @@ Edit de rectulo : pareil
 <div class="BD">
 {s:BDTitre|Amorphe|{s:mca}}
 Une armure dotée de cette propriété spéciale accorde à son porteur
-un bonus de compétence de +5 aux tests d’[Évasion](./Évasion.md) et au DMD contre
+un bonus de compétence de +5 aux tests d’[[Évasion]] et au DMD contre
 les manoeuvres offensives de lutte. En outre, une fois par jour, sur
 commande, le personnage (ainsi que tout l’équipement qu’il porte)
 peut prendre la forme d’un liquide visqueux capable de traverser
@@ -85,7 +85,7 @@ principalement être faite de cuir, de tissu ou d’un autre matériau
 organique.
 (((Caractéristiques)))
 - **Emplacement** aucun **NLS** 8 **Poids** —
-- **Aura** [transmutation](./Transmutation.md) modérée **Prix** 2 250 po ; [Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [forme liquide](./Forme liquide.md)<sup>MdJ-RA</sup> ; 
+- **Aura** [[transmutation]] modérée **Prix** 2 250 po ; [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[forme liquide]]<sup>MdJ-RA</sup> ; 
 - **Prix**+4 500 po
 </div>
 
@@ -103,7 +103,7 @@ consécutifs. Il faut une action rapide pour mettre fin à l’aura.
 (((Caractéristiques)))
 - **Emplacement** aucun **NLS** 5 **Poids** —
 - **Aura** enchantement faible ; **Prix** bonus +1
-[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [apaisement des émotions](./Apaisement des émotions.md)
+[[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[apaisement des émotions]]
 - **Prix**Bonus +1
 </div>
 
@@ -120,7 +120,7 @@ attaques des créatures invoquées.
 (((Caractéristiques)))
 - **Emplacement** aucun **NLS** 4 **Poids** —
 - **Aura** abjuration faible ; **Prix** bonus +2
-[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [armure de mage](./Armure de mage.md)
+[[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[armure de mage]]
 - **Prix**Bonus +1
 </div>
 
@@ -140,7 +140,7 @@ simplement les yeux.
 (((Caractéristiques)))
 - **Emplacement** aucun **NLS** 14 **Poids** —
 - **Aura** divination forte ; **Prix** bonus +3
-[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [vision lucide](./Vision lucide.md)
+[[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[vision lucide]]
 - **Prix**Bonus +3
 </div>
 
@@ -158,7 +158,7 @@ personnage porte cette attaque avant de tomber inconscient ou mort.
 (((Caractéristiques)))
 - **Emplacement** aucun **NLS** 7 **Poids** —
 - **Aura** enchantement modéré ; **Prix** 3 500 po
-[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [rapidité](./Rapidité.md)
+[[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[rapidité]]
 - **Prix** +7 000 po
 </div>
 
@@ -175,7 +175,7 @@ pas cette RD.
 (((Caractéristiques)))
 - **Emplacement** aucun **NLS** 8 **Poids** —
 - **Aura** abjuration modérée ; **Prix** bonus +1
-[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [peau de pierre](./Peau de pierre.md)
+[[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[peau de pierre]]
 - **Prix**Bonus +1
 </div>
 
@@ -190,7 +190,7 @@ et lourde).
 (((Caractéristiques)))
 - **Emplacement** aucun **NLS** 5 **Poids** —
 - **Aura** transmutation modérée ; **Prix** 2 000 po
-[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [armure sans effort](./Armure sans effort.md)<sup>AG</sup>
+[[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[armure sans effort]]<sup>AG</sup>
 - **Prix** +4 000 po
 </div>
 
@@ -199,7 +199,7 @@ et lourde).
 {s:BDTitre|Reposante|{s:mca}}
 Une armure reposante permet au porteur de faire passer la quantité
 de sommeil ou de repos ininterrompu dont il a besoin de 8
-heures à 2 heures et le porteur n’est pas [fatigué](./Fatigué.md) lorsqu’il dort avec
+heures à 2 heures et le porteur n’est pas [[fatigué]] lorsqu’il dort avec
 cette armure. Il récupère ses points de vie et de caractéristique puis
 encaisse les maladies, les poisons ou autres afflictions comme s’il
 avait dormi toute la nuit dans un lit confortable, se réveillant frais
@@ -210,7 +210,7 @@ d’une fois par jour.
 (((Caractéristiques)))
 - **Emplacement** aucun **NLS** 5 **Poids** —
 - **Aura** nécromancie faible ; **Prix** 2 250 po
-[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [sieste](./Sieste.md)<sup>MdJ-RA</sup>
+[[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[sieste]]<sup>MdJ-RA</sup>
 - **Prix** +4 500 po
 </div>
 
@@ -218,14 +218,14 @@ d’une fois par jour.
 <div class="BD">
 {s:BDTitre|Sans trace|{s:mca}}
 L’armure sans trace allège le pas du personnage et camoufle ses apparitions.
-Les tests de [Survie](./Survie.md) pour pister le personnage subissent un
+Les tests de [[Survie]] pour pister le personnage subissent un
 malus de -5 et le personnage gagne un bonus de compétence de +5
-aux tests de [Discrétion](./Discrétion.md). Seules les armures en cuir ou en peau peuvent
+aux tests de [[Discrétion]]. Seules les armures en cuir ou en peau peuvent
 être sans trace.
 (((Caractéristiques)))
 - **Emplacement** aucun **NLS** 5 **Poids** —
 - **Aura** transmutation faible ;**Prix** 3 750 po
-[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [passage sans trace](./passage sans trace.md)
+[[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[passage sans trace]]
 - **Prix** +7 500 po
 </div>
 
@@ -238,12 +238,12 @@ son utilisateur. Par une action immédiate, jusqu’à trois fois par jour,
 quand le porteur est touché par une attaque au corps à corps effectuée
 avec une arme, il peut activer son armure ou son bouclier pour
 renvoyer des vibrations désagréables sur l’arme. L’attaquant doit
-réussir un jet de [Vigueur](./Vigueur.md) DD 16 pour ne pas être hébété pendant
+réussir un jet de [[Vigueur]] DD 16 pour ne pas être hébété pendant
 1 round.
 (((Caractéristiques)))
 - **Emplacement** aucun **NLS** 6 **Poids** —
 - **Aura** évocation modérée ; **Prix** bonus +2
-[Création d’armes et d’armures magiques](./Création darmes et armures magiques.md), [fracassement](./Fracassement.md)
+[[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[fracassement]]
 - **Prix**Bonus +2
 </div>
 
@@ -255,20 +255,20 @@ réussir un jet de [Vigueur](./Vigueur.md) DD 16 pour ne pas être hébété pen
 |- CLASS="titre"
 | Armure intermédiaire mineure || Prix
 |- CLASS="premier alt"
-| [Bouclier griffu](./Bouclier griffu.md) || 8 158 po
+| [[Bouclier griffu]] || 8 158 po
 |-
-| [Armure du traqueur](./Armure du traqueur.md) || 8 575 po
+| [[Armure du traqueur]] || 8 575 po
 |- CLASS="titre alt"
 | Armure intermédiaire supérieure || Prix
 |- CLASS="premier"
-| [Peau de pistage infatigable](./Peau de pistage infatigable.md) || 11 165 po
+| [[Peau de pistage infatigable]] || 11 165 po
 |- CLASS="titre alt"
 | Grande armure mineure || Prix
 |- CLASS="premier"
-| [Haubert du héros](./Haubert du héros.md) || 16 600 po
+| [[Haubert du héros]] || 16 600 po
 |- CLASS="titre alt"
 | Grande armure supérieure || Prix
 |- CLASS="premier"
-| [Harnois du cadavre](./Harnois du cadavre.md) || 35 650 po
+| [[Harnois du cadavre]] || 35 650 po
 |}
 </center>

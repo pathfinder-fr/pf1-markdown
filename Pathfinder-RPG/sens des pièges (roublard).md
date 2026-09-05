@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Roublard#SENSDESPIEGES
 ---
 
->>> [Roublard#SENSDESPIEGES](./Roublard.md#SENSDESPIEGES)
+>>> [[Roublard#SENSDESPIEGES]]

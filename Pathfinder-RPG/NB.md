@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Alignement#NB
 ---
 
->>> [Alignement#NB](./Alignement.md#NB)
+>>> [[Alignement#NB]]

@@ -9,13 +9,13 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Araignée d’airain|{s:MCA}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 2 500 po ; **Poids** 1 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 2 500 po ; **Poids** 1 kg
 (((Description)))
 Cette minuscule créature artificielle en airain étincelant ressemble à une araignée faite de rouages et de roues. Elle fait environ la taille d’une main humaine d’adulte et ses pattes sont autant de pics, de ciseaux, de pinces et autres outils de manipulation précise. Son corps abrite des réservoirs de poudre et d’huile qu’elle peut projeter à 5 centimètres grâce à ses filières. Une manivelle située sur le dos de l’araignée d’airain permet de sortir une chaîne toute fine, reliée à un petit disque orné de clous et de leviers qui contrôlent les actions de la créature artificielle, lui permettant de marcher et de trottiner telle une araignée. Elle n’a aucune motivation indépendante.
 
-Une fois par jour, un personnage qui tient la chaîne de l’araignée d’airain peut utiliser la compétence [Sabotage](./Sabotage.md) à 4,5 mètres de distance sans malus mais doit avoir en ligne de vue l’appareil qu’il tente de désamorcer. Le plus souvent, cela signifie que tout incident causé par l’utilisation de la compétence affecte l’*araignée d’airain* (qui a une solidité de 5 et 25 points de vie) plutôt que le personnage contrôlant l’araignée.
+Une fois par jour, un personnage qui tient la chaîne de l’araignée d’airain peut utiliser la compétence [[Sabotage]] à 4,5 mètres de distance sans malus mais doit avoir en ligne de vue l’appareil qu’il tente de désamorcer. Le plus souvent, cela signifie que tout incident causé par l’utilisation de la compétence affecte l’*araignée d’airain* (qui a une solidité de 5 et 25 points de vie) plutôt que le personnage contrôlant l’araignée.
 
 De plus,  l’*araignée d’airain* peut être utilisée sans limite en tant qu’outil de cambrioleur de maître sans les avantages de la portée supplémentaire.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[animation d’objets](./Animation dobjets.md)*, *[grâce féline](./Grâce féline.md)* ; **Coût** 1 250 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[animation dobjets|animation d’objets]]*, *[[grâce féline]]* ; **Coût** 1 250 po
 </div>

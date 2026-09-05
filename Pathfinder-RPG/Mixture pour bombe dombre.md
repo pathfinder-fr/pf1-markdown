@@ -10,20 +10,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Invocation](./Invocation.md) ([création](./branche création.md)) ; **Niveau** [Alch](./Alchimiste.md) 2  
+**École** [[Invocation]] ([[branche création|création]]) ; **Niveau** [[Alchimiste|Alch]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
 **Jet de sauvegarde** spécial, voir texte ; **Résistance à la magie** spécial, voir plus bas
 
-Quand le personnage boit un [extrait](./Alchimiste.md#EXTRAITS) créé avec cette formule, il voit ses réserves magiques se modifier de façon significative et transformer toutes les [bombes](./Alchimiste.md#BOMBES) qu’il fabrique pendant que l’[extrait](./Alchimiste.md#EXTRAITS) fait effet. Cette modification n’a aucune conséquence sur les [découvertes](./Alchimiste.md#DECOUVERTES) que le personnage utilise pour modifier ses [bombes](./Alchimiste.md#BOMBES) mais il ne peut activer qu’un *effet de mixture* (une [formule](./Alchimiste.md#FORMULES) avec les mots « mixture pour bombe » dans l’intitulé) à la fois. S’il boit une autre *mixture pour bombe*, les effets de la mixture absorbée précédemment se dissipent au profit de ceux de la nouvelle.
+Quand le personnage boit un [[alchimiste#EXTRAITS|extrait]] créé avec cette formule, il voit ses réserves magiques se modifier de façon significative et transformer toutes les [[alchimiste#BOMBES|bombes]] qu’il fabrique pendant que l’[[alchimiste#EXTRAITS|extrait]] fait effet. Cette modification n’a aucune conséquence sur les [[alchimiste#DECOUVERTES|découvertes]] que le personnage utilise pour modifier ses [[alchimiste#BOMBES|bombes]] mais il ne peut activer qu’un *effet de mixture* (une [[alchimiste#FORMULES|formule]] avec les mots « mixture pour bombe » dans l’intitulé) à la fois. S’il boit une autre *mixture pour bombe*, les effets de la mixture absorbée précédemment se dissipent au profit de ceux de la nouvelle.
 
-Quand le personnage lance une [bombe](./Alchimiste.md#BOMBEs) et touche une cible directe, une substance sombre recouvre la cible directe et jusqu’à trois créatures qui reçoivent des dégâts d’aspersion (au choix de l’[alchimiste](./Alchimiste.md)). Les créatures affectées doivent réussir un jet de [Vigueur](./Vigueur.md), sinon elles gagnent un [camouflage](./camouflage.md) mais elles considèrent également toutes les autres créatures comme [camouflées](./camouflage.md) pendant la durée d’effet de la [bombe](./Alchimiste.md#BOMBES). Cet effet tient compte de la [résistance à la magie](./RM.md).
+Quand le personnage lance une [[alchimiste#BOMBEs|bombe]] et touche une cible directe, une substance sombre recouvre la cible directe et jusqu’à trois créatures qui reçoivent des dégâts d’aspersion (au choix de l’[[alchimiste]]). Les créatures affectées doivent réussir un jet de [[Vigueur]], sinon elles gagnent un [[camouflage]] mais elles considèrent également toutes les autres créatures comme [[camouflage|camouflées]] pendant la durée d’effet de la [[alchimiste#BOMBES|bombe]]. Cet effet tient compte de la [[RM|résistance à la magie]].

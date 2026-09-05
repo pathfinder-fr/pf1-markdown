@@ -4,9 +4,9 @@ Title: Les masques des Gardiens des secrets
 LastModified: 2021-01-15 08:28
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 Cette aide de jeu s'inscrit dans la série des créations pour les MJ menant des campagnes basées autour de Otari.
 

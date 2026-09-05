@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Rôdeur#ENNEMIJURE
 ---
 
->>> [Rôdeur#ENNEMIJURE](./Rôdeur.md#ENNEMIJURE)
+>>> [[Rôdeur#ENNEMIJURE]]

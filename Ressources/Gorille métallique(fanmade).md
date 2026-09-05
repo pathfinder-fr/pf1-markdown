@@ -10,13 +10,13 @@ LastModified: 2016-03-29 21:49
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Création de fan*}
 {s:BDTexte|**PX** 1200}
-{s:BDTexte|[Créature artificielle](./../Pathfinder-RPG/type Créature artificielle.md) de taille M, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +1}
+{s:BDTexte|[[Pathfinder-RPG.type Créature artificielle|Créature artificielle]] de taille M, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18 m (12 {s:c}), [[Pathfinder-RPG.vision nocturne|vision nocturne]] ; [[Pathfinder-RPG.Perception|Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 12, pris au dépourvu 14 (Dex +2, naturelle +4)}
 {s:BDTexte|**pv** 32 (3d8+20)}
 {s:BDTexte|**Réf** +5, **Vig** +7, **Vol** +4}
-{s:BDTexte|**Capacités défensives** [Solidité](./../Pathfinder-RPG/solidité.md) 10  ; **Immunités** [traits des créatures artificielles](./../Pathfinder-RPG/Traits des créatures artificielles.md) }
+{s:BDTexte|**Capacités défensives** [[Pathfinder-RPG.solidité|Solidité]] 10  ; **Immunités** [[Pathfinder-RPG.traits des créatures artificielles|traits des créatures artificielles]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), escalade 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 coups, +6 (2d6+4)}
@@ -28,7 +28,7 @@ LastModified: 2016-03-29 21:49
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacité spéciales}
-{s:BDTexte|**Coups puissants (Ext).** Les attaques de coups des gorilles métalliques infligent des dégâts augmentés de 1,5 fois leur modificateur de [Force](./../Pathfinder-RPG/Force.md), avec une plage de [critique](./../Pathfinder-RPG/critique.md) étendue à 19-20.}
+{s:BDTexte|**Coups puissants (Ext).** Les attaques de coups des gorilles métalliques infligent des dégâts augmentés de 1,5 fois leur modificateur de [[Pathfinder-RPG.Force|Force]], avec une plage de [[Pathfinder-RPG.critique|critique]] étendue à 19-20.}
 {s:BDTexte|**Choc électrique** Si le gorille mécanique reçoit des dégâts d'électricité, il se "charge" électriquement et rendra le même montant de dégâts reçus à la première créature qui le touchera avec une arme conductrice.}
 {s:BDTexte|**Socle runique de régénération** Si le gorille mécanique tombe en dessous de 10 PV, il cherchera à retourner vers un socle où une rune de régénération qui lui permet de récupérer 5pv par round en contrepartie, il se mettra en veille et ne pourra plus porter d'attaque.}
 

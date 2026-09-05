@@ -7,19 +7,19 @@ Categories:
 - Src Book of the Damned
 ---
 
-{s:DieuTech|Shawnari|Celui qui n’est pas à sa place| |[Bourreaux sahkils](./Divinités.md#BOURREAUXSAHKILS)
+{s:DieuTech|Shawnari|Celui qui n’est pas à sa place| |[[Divinités#BOURREAUXSAHKILS|Bourreaux sahkils]]
 |Chaotique Mauvais|Isolation, solitude, temps perdu
 |N'importe|Aucun
-|[Matraque](./matraque (arme).md)
-|[Connaissance](./Domaine de la Connaissance.md), [Mal](./Domaine du Mal.md), [Obscurité](./Domaine de lObscurité.md), [Vide](./Domaine du Vide.md)
-|[Isolation](./Domaine du Vide.md), [Mémoire](./Domaine de la Connaissance.md), [Perte](./Domaine de lObscurité.md), [Peur](./Domaine du Mal.md), [Sahkils](./Domaine du Mal.md)
+|[[Matraque (arme)|Matraque]]
+|[[Domaine de la Connaissance|Connaissance]], [[Domaine du Mal|Mal]], [[Domaine de lObscurité|Obscurité]], [[Domaine du Vide|Vide]]
+|[[Domaine du Vide|Isolation]], [[Domaine de la Connaissance|Mémoire]], [[Domaine de lObscurité|Perte]], [[Domaine du Mal|Peur]], [[Domaine du Mal|Sahkils]]
 |—}
 {s:cs}{s:BotD}
 ### Obédience
-Prier seul pendant une heure dans un endroit caché. Gain d'un bonus de malfaisance de +4 aux tests de [Discrétion](./Discrétion.md).
+Prier seul pendant une heure dans un endroit caché. Gain d'un bonus de malfaisance de +4 aux tests de [[Discrétion]].
 
 #### Faveurs (Bourreaux sahkils)
-Les bourreaux [sahkils](./Sahkil.md) dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [FP](./FP.md) 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) utilisables deux fois par jour chacun.
-- **1.** *[invisibilité](./Invisibilité.md)*
-- **2.** *[modification de mémoire](./Modification de mémoire.md)*
-- **3.** *[champ de force](./Champ de force.md)*
+Les bourreaux [[Sahkil|sahkils]] dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [[FP]] 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables deux fois par jour chacun.
+- **1.** *[[invisibilité]]*
+- **2.** *[[modification de mémoire]]*
+- **3.** *[[champ de force]]*

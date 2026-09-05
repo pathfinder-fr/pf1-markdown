@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage tire le meilleur du matériau spécial dont est composé son bouclier.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise de bouclier](./Dons.md#MAITRISEDEBOUCLIER)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDEBOUCLIER|maîtrise de bouclier]]
 
-**Conditions.** [Art du bouclier](./Art du bouclier.md), [Expertise des matériaux de bouclier](./Expertise des matériaux de bouclier.md), [BBA](./BBA.md) +11 ou [guerrier](./Guerrier.md) de niveau 8
+**Conditions.** [[Art du bouclier]], [[Expertise des matériaux de bouclier]], [[BBA]] +11 ou [[guerrier]] de niveau 8
 
-**Avantage.** Le personnage peut utiliser la capacité accordée par [Expertise des matériaux de bouclier](./Expertise des matériaux de bouclier.md) deux fois de plus par jour.
+**Avantage.** Le personnage peut utiliser la capacité accordée par [[Expertise des matériaux de bouclier]] deux fois de plus par jour.

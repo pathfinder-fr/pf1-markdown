@@ -12,4 +12,4 @@ Categories:
 
 Lorsqu’une ville est dotée de grandes voies publiques, celles-ci sont bordées de lanternes suspendues à des marquises à une hauteur de deux mètres dix. Ces dernières sont implantées tout les dix-huit mètres et ne permettent donc pas de tout éclairer. Les rues secondaires et les allées ne possèdent pas d’éclairage. Il n’est pas rare que des citoyens louent des porteurs de lanternes lorsqu’ils sortent la nuit.
 
-Les allées sont quelquefois sombres, même en pleine journée, en raison des ombres que projettent les grands bâtiments qui les entourent. En journée, une allée sombre n’offre pas la possibilité de se cacher mais elle accorde un bonus de circonstances de +2 aux tests de [Discrétion](./Discrétion.md).
+Les allées sont quelquefois sombres, même en pleine journée, en raison des ombres que projettent les grands bâtiments qui les entourent. En journée, une allée sombre n’offre pas la possibilité de se cacher mais elle accorde un bonus de circonstances de +2 aux tests de [[Discrétion]].

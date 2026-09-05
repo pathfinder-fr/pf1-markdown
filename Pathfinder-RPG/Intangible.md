@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Intangible
 ---
 
->>> [États préjudiciables#Intangible](./États préjudiciables.md#Intangible)
+>>> [[États préjudiciables#Intangible]]

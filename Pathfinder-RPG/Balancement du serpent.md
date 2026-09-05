@@ -12,16 +12,16 @@ Categories:
 
 {s:uc}*Les oscillations sinueuses du personnage empêchent ses adversaires d’anticiper ses attaques.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), [École du serpent](./École du serpent.md), 3 rangs en [Acrobaties](./Acrobaties.md) , 6 rangs en [Psychologie](./Psychologie.md)
+**Conditions.** [[Science du combat à mains nues]], [[École du serpent]], 3 rangs en [[Acrobaties]] , 6 rangs en [[Psychologie]]
 
-**Avantage.** Le personnage gagne un bonus de +4 au [DMD](./DMD.md) contre les manœuvres de [croc-en-jambe](./croc-en-jambe.md) et aux tests d’[Acrobaties](./Acrobaties.md) et aux [Jets de sauvegarde](./jet de sauvegarde.md) pour éviter de tomber.
+**Avantage.** Le personnage gagne un bonus de +4 au [[DMD]] contre les manœuvres de [[croc-en-jambe]] et aux tests d’[[Acrobaties]] et aux [[jet de sauvegarde|Jets de sauvegarde]] pour éviter de tomber.
 
-Tant qu’il utilise cette école, quand il menace de faire un [coup critique](./coup critique.md) à mains nues, il peut faire un test de [Psychologie](./Psychologie.md) pour le confirmer, au lieu d’un [jet d’attaque](./jet dattaque.md). Quand il réussit un [coup critique](./coup critique.md) à mains nues, il peut dépenser une [action immédiate](./Action immédiate.md) pour faire un pas de 1,50 m (1 {s:c}), même s’il a déjà bougé pendant le round.
+Tant qu’il utilise cette école, quand il menace de faire un [[coup critique]] à mains nues, il peut faire un test de [[Psychologie]] pour le confirmer, au lieu d’un [[jet dattaque|jet d’attaque]]. Quand il réussit un [[coup critique]] à mains nues, il peut dépenser une [[action immédiate]] pour faire un pas de 1,50 m (1 {s:c}), même s’il a déjà bougé pendant le round.
 
 **Normal.** Le personnage peut faire un pas de 1,50 m (1 {s:c}) à condition qu’il n’ait pas bougé pendant le round.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage obtient un [critique potentiel](./coup critique.md) avec une attaque à mains nues alors qu’il utilise l’[École du serpent](./École du serpent.md) et qu’il choisit de faire un test de [Psychologie](./Psychologie.md) au lieu d’un jet de confirmation, il peut dépenser jusqu’à 5 points d’endurance pour gagner un bonus au test égal au nombre de points d’endurance dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage obtient un [[coup critique|critique potentiel]] avec une attaque à mains nues alors qu’il utilise l’[[École du serpent]] et qu’il choisit de faire un test de [[Psychologie]] au lieu d’un jet de confirmation, il peut dépenser jusqu’à 5 points d’endurance pour gagner un bonus au test égal au nombre de points d’endurance dépensés.

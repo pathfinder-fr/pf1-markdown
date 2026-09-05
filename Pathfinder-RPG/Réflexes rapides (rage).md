@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#REFLEXESRAPIDES
 ---
 
->>> [pouvoirs de rage#REFLEXESRAPIDES](./Pouvoirs de rage.md#REFLEXESRAPIDES)
+>>> [[pouvoirs de rage#REFLEXESRAPIDES]]

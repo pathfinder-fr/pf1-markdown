@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Occ](./Occultiste.md) 4  
+**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Occultiste|Occ]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (adamantium en poudre d’une valeur 100 po)  
+**Composantes** [[Composantes|V, G, M]] (adamantium en poudre d’une valeur 100 po)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature artificielle  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE) ) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]] ) ; **Résistance à la magie** non
 
-Ce sort augmente la [RD](./RD.md)/adamantium de la cible de 5 ou augmente sa [solidité](./solidité.md) de 5. Si la cible n’a ni [RD](./RD.md)/adamantium ni solidité, le sort n’a aucun effet.
+Ce sort augmente la [[RD]]/adamantium de la cible de 5 ou augmente sa [[solidité]] de 5. Si la cible n’a ni [[RD]]/adamantium ni solidité, le sort n’a aucun effet.

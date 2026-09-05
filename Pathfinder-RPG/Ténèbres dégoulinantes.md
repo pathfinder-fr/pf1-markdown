@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISR}*Vos ténèbres magiques suintent à travers votre peau et se renforcent lorsque vous êtes proche d'une autre créature dont l'âme est aussi teintée que la vôtre.*
 
-**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Drow](./Drow (race).md), pouvoir magique racial *[ténèbres](./Ténèbres.md)*
+**Conditions.** [[Drow (race)|Drow]], pouvoir magique racial *[[ténèbres]]*
 
-**Avantages.** Lorsque le personnage est adjacent à un allié [drow](./Drow (race).md) qui possède ce don, il peut dépenser une [action de mouvement](./Action de mouvement.md) pour obtenir un [camouflage](./camouflage.md) (20 % de chances de rater) pendant 1 round.
+**Avantages.** Lorsque le personnage est adjacent à un allié [[Drow (race)|drow]] qui possède ce don, il peut dépenser une [[action de mouvement]] pour obtenir un [[camouflage]] (20 % de chances de rater) pendant 1 round.

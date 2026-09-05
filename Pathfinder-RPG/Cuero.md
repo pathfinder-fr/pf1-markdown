@@ -15,30 +15,30 @@ Categories:
 {s:pucem|Aberration|Aquatique|Tempéré}
 {s:BDtexte|*Source : Bestiaire 5 p.71*}
 {s:BDtexte|**PX** 1 600}
-{s:BDtexte|[Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille G, N}
-{s:BDtexte|**Init** +6 ; **Sens** [perception aveugle](./Perception aveugle (capacité).md) 9 m, [vision dans le noir](./vision dans le noir (capacité).md) 18 m ; [Perception](./Perception.md) +12}
+{s:BDtexte|[[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDtexte|**Init** +6 ; **Sens** [[Perception aveugle (capacité)|perception aveugle]] 9 m, [[Vision dans le noir (capacité)|vision dans le noir]] 18 m ; [[Perception]] +12}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 19, contact 11, pris au dépourvu 17 (Dex +2, naturelle +8, taille -1)}
 {s:BDtexte|**pv** 59 (7d8+28)}
 {s:BDtexte|**Réf** +4, **Vig** +6, **Vol** +7}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 3 m, nage 12 m}
-{s:BDtexte|**Corps à corps** coup, +10 (1d6+9 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDtexte|**Corps à corps** coup, +10 (1d6+9 plus [[Étreinte (capacité)|étreinte]])}
 {s:BDtexte|**Espace occupé** 3 m ; **Allonge** 1,50 m}
-{s:BDtexte|**Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md), [constriction](./Constriction (capacité).md) (1d6+9), nuage de vase}
+{s:BDtexte|**Attaques spéciales** [[Absorption de sang (capacité)|absorption de sang]], [[Constriction (capacité)|constriction]] (1d6+9), nuage de vase}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 22, **Dex** 15, **Con** 18, **Int** 6, **Sag** 15, **Cha** 9}
-{s:BDtexte|**BBA** +5, **BMO** +12 (+16 en [lutte](./lutte.md)), **DMD** 24}
-{s:BDtexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Discrétion)}
-{s:BDtexte|**Compétences** [Discrétion](./Discrétion.md) +11 (+21 dans la boue ou l'eau vaseuse), [Natation](./Natation.md) +14, [Perception](./Perception.md) +12 ; **Modificateurs raciaux** +10 en Discrétion dans la boue ou l’eau vaseuse}
+{s:BDtexte|**BBA** +5, **BMO** +12 (+16 en [[lutte]]), **DMD** 24}
+{s:BDtexte|**Dons** [[Attaques réflexes]], [[Combat en aveugle]], [[Science de linitiative|Science de l’initiative]], [[Talent]] (Discrétion)}
+{s:BDtexte|**Compétences** [[Discrétion]] +11 (+21 dans la boue ou l'eau vaseuse), [[Natation]] +14, [[Perception]] +12 ; **Modificateurs raciaux** +10 en Discrétion dans la boue ou l’eau vaseuse}
 {s:BDtexte|**Langues** aklo}
-{s:BDtexte|**Particularités** [amphibie](./Amphibie (capacité).md), [compression](./Compression (capacité).md)}
+{s:BDtexte|**Particularités** [[Amphibie (capacité)|amphibie]], [[Compression (capacité)|compression]]}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** lacs ou rivières tempérés}
 {s:BDtexte|**Organisation sociale** solitaire, couple ou groupe (3-5)}
 {s:BDtexte|**Trésor** aucun}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Nuage de vase (Ext).** Un cuero peut agiter l’eau à 3 mètres ou moins d’un lit de rivière ou de lac pour soulever la vase, les cailloux, le sable, la boue et autres débris. Ceci engendre un nuage hémisphérique d’un rayon de 9 mètres dans l’eau à proximité (ou jusqu’à la rive, si elle est plus proche). Le nuage bloque la vision, y compris la [vision dans le noir](./vision dans le noir (capacité).md), au-delà de 1,50 mètre. Les créatures situées à 1,50 mètre bénéficient d’un [camouflage](./camouflage.md) et celles situées au-delà de cette distance bénéficient d’un [camouflage total](./camouflage total.md). Dans l’eau stagnante, le nuage de vase se disperse au bout de 2d6 [rounds](./round.md). Dans l’eau courante, la durée est réduite d’un round pour chaque tranche de 3 mètres par round (au-delà de 6 mètres) parcourus par le courant.}
+{s:BDtexte|**Nuage de vase (Ext).** Un cuero peut agiter l’eau à 3 mètres ou moins d’un lit de rivière ou de lac pour soulever la vase, les cailloux, le sable, la boue et autres débris. Ceci engendre un nuage hémisphérique d’un rayon de 9 mètres dans l’eau à proximité (ou jusqu’à la rive, si elle est plus proche). Le nuage bloque la vision, y compris la [[Vision dans le noir (capacité)|vision dans le noir]], au-delà de 1,50 mètre. Les créatures situées à 1,50 mètre bénéficient d’un [[camouflage]] et celles situées au-delà de cette distance bénéficient d’un [[camouflage total]]. Dans l’eau stagnante, le nuage de vase se disperse au bout de 2d6 [[round|rounds]]. Dans l’eau courante, la durée est réduite d’un round pour chaque tranche de 3 mètres par round (au-delà de 6 mètres) parcourus par le courant.}
 </div>
 </td>
 <td>

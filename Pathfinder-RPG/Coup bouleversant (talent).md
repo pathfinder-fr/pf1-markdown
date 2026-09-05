@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#COUPBOULVERSANT
 ---
 
->>> [Talents#COUPBOULVERSANT](./Talents.md#COUPBOULVERSANT)
+>>> [[Talents#COUPBOULVERSANT]]

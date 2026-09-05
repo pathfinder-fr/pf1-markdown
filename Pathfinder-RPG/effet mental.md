@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#REGISTRE
 ---
 
->>> [Présentation des sorts#REGISTRE](./Présentation des sorts.md#REGISTRE)
+>>> [[Présentation des sorts#REGISTRE]]

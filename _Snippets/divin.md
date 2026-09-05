@@ -15,6 +15,6 @@ if(image == "" || image == " ") { $('#symbole1').html(""); }
 <td><div style="text-align:center; font-size: 81%; font-weight: bold;">Option plus  
 commune chez  
 les fidèles  
-de [?1?](./?1?-(technique).md).</div></td>
+de [[?1? (technique)|?1?]].</div></td>
 </tr></table>
 </div>

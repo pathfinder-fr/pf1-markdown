@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#ACIERVIVANT
 ---
 
->>> [Matériaux spéciaux#ACIERVIVANT](./Matériaux spéciaux.md#ACIERVIVANT)
+>>> [[Matériaux spéciaux#ACIERVIVANT]]

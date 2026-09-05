@@ -7,4 +7,4 @@ LastModified: 2012-09-29 15:28
 {s:UM}
 **Niveau** 1
 
-Un sort incluant ce méta mot ne requiert aucune [composante](./composante.md) matérielle. Le méta mot peut modifier un mot cible ou un mot effet.
+Un sort incluant ce méta mot ne requiert aucune [[composante]] matérielle. Le méta mot peut modifier un mot cible ou un mot effet.

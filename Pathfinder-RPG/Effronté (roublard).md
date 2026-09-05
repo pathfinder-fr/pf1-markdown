@@ -13,13 +13,13 @@ Categories:
 {s:Menuarchétyperoublard}{s:APG}*L’effronté est un roublard qui ne cache pas ses talents et ses capacités et qui va même parfois jusqu’à s’en vanter. Il bénéficie généralement de la protection d’un personnage important qui le considère utile mais, dans certains cas, sa seule bravache suffit à tenir ses ennemis à distance. Il joue souvent le rôle de représentant pour un groupe lorsqu’il s’agit de faire preuve de diplomatie, de recueillir des informations, de mener des négociations ou de dénicher les contrats et les quêtes les plus lucratives auprès des autorités locales.*
 
 #### Bravache au combat (Ext)
-Lorsqu’un effronté touche un adversaire et lui inflige des dégâts d’[attaque sournoise](./attaque sournoise.md), il peut sacrifier 1d6 points de ces dégâts pour pouvoir effectuer un [test](./../Golarion/Test.md) d’[Intimidation](./Intimidation.md) afin de démoraliser cet ennemi sans que cela ne lui coûte une action. Ce [test](./../Golarion/Test.md) bénéficie d’un bonus de +5 pour chaque d6 de dégâts qu’il sacrifie (en plus du premier). Cette capacité remplace [recherche des pièges](./recherche des pièges.md).
+Lorsqu’un effronté touche un adversaire et lui inflige des dégâts d’[[attaque sournoise]], il peut sacrifier 1d6 points de ces dégâts pour pouvoir effectuer un [[test]] d’[[Intimidation]] afin de démoraliser cet ennemi sans que cela ne lui coûte une action. Ce [[test]] bénéficie d’un bonus de +5 pour chaque d6 de dégâts qu’il sacrifie (en plus du premier). Cette capacité remplace [[recherche des pièges]].
 
 #### Sourire effronté (Ext)
-Au [niveau](./niveau.md) 3, l’effronté gagne un bonus de moral de +1 aux [tests](./../Golarion/Test.md) de [Bluff](./Bluff.md) et de [Diplomatie](./Diplomatie.md). Ce bonus augmente de +1 par tranche de trois niveaux au-delà du [niveau](./niveau.md) 3. Cette capacité remplace [Sens des pièges](./Roublard.md#SENSDESPIEGES).
+Au [[niveau]] 3, l’effronté gagne un bonus de moral de +1 aux [[test|tests]] de [[Bluff]] et de [[Diplomatie]]. Ce bonus augmente de +1 par tranche de trois niveaux au-delà du [[niveau]] 3. Cette capacité remplace [[ROUBLARD#SENSDESPIEGES|Sens des pièges]].
 
 #### Talents de roublard
-Ces [talents](./Talents.md) conviennent particulièrement à un effronté : [beau parleur](./Beau parleur (talent).md),    [charmeur](./Charmeur (talent).md), [coup bouleversant](./Talents.md#COUPBOULEVERSANT) et [attaque surprise](./Attaque surprise (talent).md).
+Ces [[talents]] conviennent particulièrement à un effronté : [[beau parleur (talent)|beau parleur]],    [[charmeur (talent)|charmeur]], [[talents#COUPBOULEVERSANT|coup bouleversant]] et [[attaque surprise (talent)|attaque surprise]].
 
 #### Talents de maître roublard
-Les [talents de maître roublard](./Talents.md) suivants conviennent particulièrement à un effronté : [attaque redirigée](./Attaque redirigée (talent).md), [maîtrise des compétences](./Maîtrise des compétences (talent).md) et [un jour de plus](./Un jour de plus (talent).md).
+Les [[talents|talents de maître roublard]] suivants conviennent particulièrement à un effronté : [[attaque redirigée (talent)|attaque redirigée]], [[maîtrise des compétences (talent)|maîtrise des compétences]] et [[un jour de plus (talent)|un jour de plus]].

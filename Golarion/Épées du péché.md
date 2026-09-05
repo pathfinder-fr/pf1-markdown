@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de ces artefacts](./../Pathfinder-RPG/Épées du péché.md).***
+***Voir les [[Pathfinder-RPG.Épées du péché|statistiques de ces artefacts]].***
 
 L’Ancien Thassilon n’était pas uniquement gouverné par des magiciens et des sorts car même les Seigneurs des runes avaient leurs propres champions de guerre. Aussi connues comme les Alara’haï ou les Sept lames de la conviction, les sept épées du péché étaient les armes de ces champions, des lames assorties imprégnées de la puissance redoutable des écoles de magie qui dominaient l’Ancien Thassilon.
 

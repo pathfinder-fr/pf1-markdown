@@ -287,7 +287,7 @@ effet unique. Son bonus d’attaque (si besoin) est généralement
 - **1 200 PX**
 - Esprit des lieux dynamisé, privé, CB (rayon de 4,50 m centré sur la statue du héros)
 - **NLS** 4ème
-- **pv** 8 ; **Cérémonie** [Connaissances](./Connaissances.md) (histoire) DD 24, [Représentation](./Représentation.md) (déclamation) DD 24
+- **pv** 8 ; **Cérémonie** [[Connaissances]] (histoire) DD 24, [[Représentation]] (déclamation) DD 24
 (((Effet)))
 - Le personnage appelle le courageux héros du passé, rappelant ses exploits et lui demandant de lui prêter sa force lors de sa propre quête. Si la cérémonie est couronnée de succès, la statue du héros semble lever son arme en signe de salut et le personnage bénéficie des effets d’un héroïsme.
 - **Effet de corruption** héroïsme devient effroi (DD 13).
@@ -299,7 +299,7 @@ effet unique. Son bonus d’attaque (si besoin) est généralement
 - **1 600 PX**
 - Esprit des lieux sacré, faveur, LB, (rayon de 1,50 m centré sur l’autel)
 - **NLS** 5ème
-- **pv** 10 ; **Cérémonie** [Diplomatie](./Diplomatie.md) DD 25, [Représentation](./Représentation.md) (déclamation) DD 25
+- **pv** 10 ; **Cérémonie** [[Diplomatie]] DD 25, [[Représentation]] (déclamation) DD 25
 (((Effet)))
 - Si le personnage mène une cérémonie aussi magnifique que dynamique, un escadron de silhouettes fantomatiques vêtues d’antiques armures apparaît, chacune s’agenouillant devant l’une des créatures de la zone d’effet et lui présentant son arme, lui offrant les effets d’une arme alignée (chaque bénéficiaire a le choix entre Bonne ou Loyale seulement).
 - **Effet de corruption** arme alignée devient fracassement (DD 13).
@@ -313,7 +313,7 @@ effet unique. Son bonus d’attaque (si besoin) est généralement
 - **1 600 PX**
 - Esprit des lieux protecteur, coterie, NB (pièce de 3 m sur 3 m)
 - **NLS** 5ème
-- **pv** 10 ; **Cérémonie** [Connaissances](./Connaissances.md) (religion) DD 25, [Survie](./Survie.md) DD 25
+- **pv** 10 ; **Cérémonie** [[Connaissances]] (religion) DD 25, [[Survie]] DD 25
 (((Effet)))
 - Quand le personnage apporte les offrandes voulues, faites de brindilles et de baies, l’esprit des lieux se manifeste sous la forme d’un prêtre fantomatique replet portant un plateau lourd de victuailles qu’il offre au personnage et à ses alliés, comme avec un sort de création de nourriture et d’eau.
 - **Effet de corruption** création de nourriture et d’eau devient contagion (DD 14).

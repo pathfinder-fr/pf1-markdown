@@ -13,22 +13,22 @@ Categories:
 {s:pucem|Animal|Marais|Tropical}
 {s:BDTexte|*Source : Bestiaire 5 p.145*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./Odorat (capacité).md), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 10, pris au dépourvu 14 (Dex +1, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 34 (4d8+16)}
 {s:BDTexte|**Réf** +7, **Vig** +8, **Vol** +1}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m, escalade 6 m, nage 9 m}
-{s:BDTexte|**Corps à corps** morsure, +6 (2d6+6 plus [étreinte](./Étreinte (capacité).md)) ou langue, +6 (étreinte)}
+{s:BDTexte|**Corps à corps** morsure, +6 (2d6+6 plus [[Étreinte (capacité)|étreinte]]) ou langue, +6 (étreinte)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,50 m (4,50 m avec la langue)}
-{s:BDTexte|**Attaques spéciales** [attirer](./Attirer (capacité).md) (langue, 1,50 m), [engloutissement](./Engloutissement (capacité).md) (1d6 dégâts contondants, CA 12, 3 pv), [engloutissement rapide](./Engloutissement rapide (capacité).md), langue}
+{s:BDTexte|**Attaques spéciales** [[Attirer (capacité)|attirer]] (langue, 1,50 m), [[Engloutissement (capacité)|engloutissement]] (1d6 dégâts contondants, CA 12, 3 pv), [[Engloutissement rapide (capacité)|engloutissement rapide]], langue}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 13, **Con** 18, **Int** 1, **Sag** 10, **Cha** 6}
-{s:BDTexte|**BBA** +3 ; **BMO** +8 (+12 en [lutte](./lutte.md)) ; **DMD** 19 (23 contre les crocs-en-jambe)}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Talent](./Talent.md) (Acrobaties)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +12 (+20 pour sauter), [Discrétion](./Discrétion.md) +5, [Escalade](./Escalade.md) +16, [Natation](./Natation.md) +12, [Perception](./Perception.md) +8 ; **Modificateurs raciaux** +4 en Acrobaties (+12 pour sauter), +4 en Discrétion, +4 en Perception}
+{s:BDTexte|**BBA** +3 ; **BMO** +8 (+12 en [[lutte]]) ; **DMD** 19 (23 contre les crocs-en-jambe)}
+{s:BDTexte|**Dons** [[Réflexes surhumains]], [[Talent]] (Acrobaties)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +12 (+20 pour sauter), [[Discrétion]] +5, [[Escalade]] +16, [[Natation]] +12, [[Perception]] +8 ; **Modificateurs raciaux** +4 en Acrobaties (+12 pour sauter), +4 en Discrétion, +4 en Perception}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** eaux ou marais chauds}
 {s:BDTexte|**Organisation** solitaire, couple ou armée (3-6)}
@@ -42,20 +42,20 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Grenouille géante](./Grenouille géante.md) || 1
+| [[Grenouille géante]] || 1
 |-
-| [Grenouille goliath](./Grenouille goliath.md) || 3
+| [[Grenouille goliath]] || 3
 |-
-| [Grenouille venimeuse](./Grenouille venimeuse.md) || 1/2
+| [[Grenouille venimeuse]] || 1/2
 |-
-| [Père grenouille](./Père grenouille.md) || 5
+| [[Père grenouille]] || 5
 |}
 </div>*Cet amphibien imposant et bigarré est recouvert de vase luisante et sa langue dégouline de salive.*
 
 Ces grenouilles imposantes hantent les marécages et les rivières peu profondes aux eaux chaudes où elles peuvent se cacher dans les broussailles épaisses. Ce sont des prédateurs agressifs et dangereux qui se gavent de créatures plus petites qu’elles ou qui se rassemblent pour abattre des proies plus grandes. Elles grimpent souvent sur les branches basses de vieux arbres couverts de mousse et attrapent les proies qui passent au niveau du sol humide avant même que celles-ci ne suspectent leur présence.
 
-#### La grenouille goliath comme [compagnon animal](./liste des compagnons animaux.md)
-**Caractéristiques de départ :** **Taille** M ; **Vitesse** 9 m (6 {s:c}), nage 9 m (6 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 15, Dex 13, Con 16, Int 1, Sag 9, Cha 6 ; **Particularités** [attirer](./Attirer.md), langue, [odorat](./odorat.md), [vision nocturne](./vision nocturne.md), [respiration aquatique](./Respiration aquatique (capacité).md).
+#### La grenouille goliath comme [[Liste des compagnons animaux|compagnon animal]]
+**Caractéristiques de départ :** **Taille** M ; **Vitesse** 9 m (6 {s:c}), nage 9 m (6 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 15, Dex 13, Con 16, Int 1, Sag 9, Cha 6 ; **Particularités** [[attirer]], langue, [[odorat]], [[vision nocturne]], [[respiration aquatique (capacité)|respiration aquatique]].
 
-**Développement au niveau 4 :** **Caractéristiques** For +1, Dex +2 ; **Particularités** [engloutissement](./Engloutissement.md).
+**Développement au niveau 4 :** **Caractéristiques** For +1, Dex +2 ; **Particularités** [[engloutissement]].
 </div></td></tr></table>

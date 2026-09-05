@@ -4,7 +4,7 @@ Title: Mystificateur Profane chimiste (build)
 LastModified: 2020-05-17 02:10
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le [sujet de discussion](https://www.pathfinder-fr.org/Forum/posts/t11791-un-don-pour-les-mystificateurs-profanes)***</div>
 
 <nav class="wiki-toc"></nav>
@@ -27,8 +27,8 @@ La force n'a aucun intérêt, si ce n'est porter l'équipement sans être ralent
 
 ##### 2.2 Race
 
-[++Pathfinder-RPG.Halfelin.ashx|Halfelin] pour le bonus en Dext et en Charisme pour le côté social, ainsi que la taille P qui offre de multiples avantages à ce personnage (bonus au toucher, bonus en discrétion, plus un petit bonus à l'AC peu utile, mais pourquoi pas).</br>
-[++Pathfinder-RPG.Elfe.ashx|Elfe] est également une très bonne option, mais est de taille M, ce qui fait perdre tout de même quelques avantages, sans compter le malus en constit qui fait mal aux points de vie et au jds vigueur, deux points noirs du perso... Néanmoins, les deux sont un très bon choix.
+[[Pathfinder-RPG.Halfelin.ashx|Halfelin]] pour le bonus en Dext et en Charisme pour le côté social, ainsi que la taille P qui offre de multiples avantages à ce personnage (bonus au toucher, bonus en discrétion, plus un petit bonus à l'AC peu utile, mais pourquoi pas).</br>
+[[Pathfinder-RPG.Elfe.ashx|Elfe]] est également une très bonne option, mais est de taille M, ce qui fait perdre tout de même quelques avantages, sans compter le malus en constit qui fait mal aux points de vie et au jds vigueur, deux points noirs du perso... Néanmoins, les deux sont un très bon choix.
 
 ##### 2.3 Exemple de répartition (20 points)
 
@@ -39,11 +39,11 @@ Note : on peut librement échanger les scores de Sagesse et de Charisme selon so
 
 
 #### 3. Plan de carrière
-[Alcimiste](./../Pathfinder-RPG/Alchimiste.md) [++Pathfinder-RPG.Vivisectioniste (alchimiste).ashx|Vivisectionniste], pour la sournoise</br>
-[Magicien](./../Pathfinder-RPG/Magicien.md) [++Pathfinder-RPG.Évocation (école).ashx|évocateur], champ d'étude magique mélange.</br>
-[Mystificateur profane](./Pathfinder-RPG-Mystificateur-profance.md)
+[[Pathfinder-RPG.Alchimiste|Alcimiste]] [[Pathfinder-RPG.Vivisectioniste (alchimiste).ashx|Vivisectionniste]], pour la sournoise</br>
+[[Pathfinder-RPG.Magicien|Magicien]] [[Pathfinder-RPG.Évocation (école).ashx|évocateur]], champ d'étude magique mélange.</br>
+[[Pathfinder-RPG.Mystificateur profance|Mystificateur profane]]
 
-Pour booster les dégâts, on peut éventuellement prendre un unique niveau d'[ensorceleur](./Pathfinder-RPG-Ensorceleur-ashx.md) (éventuellement [sang mêlé](./Pathfinder-RPG-Sang-mêlé-(ensorceleur)-ashx.md)) [lignage draconique d'argent](./Pathfinder-RPG-lignage-Draconique-ashx.md) et/ou [orque](http://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/orc-bloodline), mais cela retarde grandement l'accès aux sorts (déjà retardé par le niveau d'alchimiste) ce qui n'est pas une bonne idée...
+Pour booster les dégâts, on peut éventuellement prendre un unique niveau d'[[Pathfinder-RPG.Ensorceleur.ashx|ensorceleur]] (éventuellement [[Pathfinder-RPG.Sang mêlé (ensorceleur).ashx|sang mêlé]]) [[Pathfinder-RPG.lignage Draconique.ashx|lignage draconique d'argent]] et/ou [orque](http://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/orc-bloodline), mais cela retarde grandement l'accès aux sorts (déjà retardé par le niveau d'alchimiste) ce qui n'est pas une bonne idée...
 
 ##### 3.1 Bonus de classe de prédilection
 
@@ -93,7 +93,7 @@ A priori : Soins légers, Sens surdéveloppés (permet de faire des potions symp
 (Chance de l'artisan ?)
 
 
-Note : le niveau d'ensorceleur apporte 1 sort de niveau 1, qu'on pourra utiliser 4 fois par jour (avec 12 de charisme). Là aussi, On lui réserve un sort peu dépendant du NLS, mais qu'on pourra fréquemment utiliser à tout niveau, comme [++Pathfinder-RPG.Armure de mage.ashx|armure de mage] ou [++Pathfinder-RPG.Image silencieuse.ashx|image silencieuse].
+Note : le niveau d'ensorceleur apporte 1 sort de niveau 1, qu'on pourra utiliser 4 fois par jour (avec 12 de charisme). Là aussi, On lui réserve un sort peu dépendant du NLS, mais qu'on pourra fréquemment utiliser à tout niveau, comme [[Pathfinder-RPG.Armure de mage.ashx|armure de mage]] ou [[Pathfinder-RPG.Image silencieuse.ashx|image silencieuse]].
 
 
 #### 4. Équipement

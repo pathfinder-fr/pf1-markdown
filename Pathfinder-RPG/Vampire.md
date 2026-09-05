@@ -14,40 +14,40 @@ Categories:
 {s:BDTexte|*Source : Bestiaire* p.278}
 {s:BDTexte|**PX** 6.400}
 {s:BDTexte|Humain (f) vampire, ensorceleur 8}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) (humanoïde [altéré](./sous-type altéré.md)) de taille M, CM}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +21}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] (humanoïde [[sous-type altéré|altéré]]) de taille M, CM}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +21}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 17, pris au dépourvu 18 (Dex +4, esquive +1, naturelle +6, parade +2)}
 {s:BDTexte|**pv** 102 (8d6+72) ; guérison rapide 5}
 {s:BDTexte|**Réf** +11, **Vig** +13, **Vol** +12}
-{s:BDTexte|**Capacités défensives** [résistance à la canalisation](./résistance à la canalisation.md) +4 ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) ; **RD** 10/magie et argent ; **Résistances** électricité 10, froid 10 }
-{s:BDTexte|**Faiblesses** [faiblesses des vampires](./Vampire, archétype.md#FAIBLESSES)}
+{s:BDTexte|**Capacités défensives** [[résistance à la canalisation]] +4 ; **Immunités** [[traits des morts-vivants]] ; **RD** 10/magie et argent ; **Résistances** électricité 10, froid 10 }
+{s:BDTexte|**Faiblesses** [[Vampire, archétype#FAIBLESSES|faiblesses des vampires]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** coup +8 (1d4+4 et [absorption d'énergie](./absorption dénergie.md))}
-{s:BDTexte|**Attaques spéciales** *[absorption d'énergie](./absorption dénergie.md)* (2 niveaux, DD 22), absorption de sang, création de rejetons, créatures des ténèbres, *[domination](./Domination.md)* (DD 22)}
+{s:BDTexte|**Corps à corps** coup +8 (1d4+4 et [[absorption dénergie|absorption d'énergie]])}
+{s:BDTexte|**Attaques spéciales** *[[absorption dénergie|absorption d'énergie]]* (2 niveaux, DD 22), absorption de sang, création de rejetons, créatures des ténèbres, *[[domination]]* (DD 22)}
 {s:BDTexte|**Pouvoirs de lignage** (NLS 8, contact +7)}
-{s:BDSorts|11/jour—*[toucher du tombeau](./lignage Mort-vivant.md)*}
+{s:BDSorts|11/jour—*[[Lignage mort-vivant|toucher du tombeau]]*}
 {s:BDTexte|**Sorts d'ensorceleur connus** (NLS 8, contact à distance +8)}
-{s:BDSorts|4 (5/jour)—*[invisibilité suprême](./Invisibilité suprême.md)*}
-{s:BDSorts|3 (5/jour)—*[baiser du vampire](./Baiser du vampire.md)*, *[boule de feu](./Boule de feu.md)* (DD 21), *[dissipation de la magie](./Dissipation de la magie.md)*}
-{s:BDSorts|2 (8/jour)—*[invisibilité](./Invisibilité.md)*, *[rayon ardent](./Rayon ardent.md)*, *[simulacre de vie](./Simulacre de vie.md)*, *[toile d'araignée](./Toile daraignée.md)* (DD 20)}
-{s:BDSorts|1 (8/jour)—*[armure de mage](./Armure de mage.md)*, *[contact glacial](./Contact glacial.md)* (DD 19), *[déguisement](./Déguisement.md)*, *[mains brûlantes](./Mains brûlantes.md)* (DD 19), *[projectile magique](./Projectile magique.md)*, *[repli expéditif](./Repli expéditif.md)*}
-{s:BDSorts|0 (à volonté)—*[aspersion acide](./Aspersion acide.md)*, *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[lumière](./Lumière.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[message](./Message.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*, *[réparation](./Réparation.md)*}
+{s:BDSorts|4 (5/jour)—*[[invisibilité suprême]]*}
+{s:BDSorts|3 (5/jour)—*[[baiser du vampire]]*, *[[boule de feu]]* (DD 21), *[[dissipation de la magie]]*}
+{s:BDSorts|2 (8/jour)—*[[invisibilité]]*, *[[rayon ardent]]*, *[[simulacre de vie]]*, *[[toile daraignée|toile d'araignée]]* (DD 20)}
+{s:BDSorts|1 (8/jour)—*[[armure de mage]]*, *[[contact glacial]]* (DD 19), *[[déguisement]]*, *[[mains brûlantes]]* (DD 19), *[[projectile magique]]*, *[[repli expéditif]]*}
+{s:BDSorts|0 (à volonté)—*[[aspersion acide]]*, *[[détection de la magie]]*, *[[lecture de la magie]]*, *[[lumière]]*, *[[manipulation à distance]]*, *[[message]]*, *[[ouverturefermeture|ouverture/fermeture]]*, *[[réparation]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 18, **Con** -, **Int** 14, **Sag** 16, **Cha** 26}
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 24}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaques réflexes](./Attaques réflexes.md)<sup>B</sup>, [Combat en aveugle](./Combat en aveugle.md), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [Esquive](./Esquive.md)<sup>B</sup>, [Extension de durée](./Extension de durée.md), [Incantation silencieuse](./Incantation silencieuse.md), [Incantation statique](./Incantation statique.md), [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md)<sup>B</sup>, [Robustesse](./Robustesse.md)<sup>B</sup>, [Science de l'initiative](./Science de linitiative.md)<sup>B</sup>, [Vigilance](./Vigilance.md)<sup>B</sup>}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +13, [Bluff](./Bluff.md) +27, [Connaissances](./Connaissances.md) (mystères) +13, [Connaissances](./Connaissances.md) (religion) +10, [Discrétion](./Discrétion.md) +12, [Perception](./Perception.md) +21, [Psychologie](./Psychologie.md) +13, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +19 ; **Modificateurs raciaux** [Bluff](./Bluff.md) +8, [Discrétion](./Discrétion.md) +8, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +8}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Attaques réflexes]]<sup>B</sup>, [[Combat en aveugle]], [[Dispense de composantes matérielles]], [[Esquive]]<sup>B</sup>, [[Extension de durée]], [[Incantation silencieuse]], [[Incantation statique]], [[Magie de guerre]], [[Réflexes surhumains]]<sup>B</sup>, [[Robustesse]]<sup>B</sup>, [[Science de linitiative|Science de l'initiative]]<sup>B</sup>, [[Vigilance]]<sup>B</sup>}
+{s:BDTexte|**Compétences** [[Art de la magie]] +13, [[Bluff]] +27, [[Connaissances]] (mystères) +13, [[Connaissances]] (religion) +10, [[Discrétion]] +12, [[Perception]] +21, [[Psychologie]] +13, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +19 ; **Modificateurs raciaux** [[Bluff]] +8, [[Discrétion]] +8, [[Perception]] +8, [[Psychologie]] +8}
 {s:BDTexte|**Langues** abyssal, commun, draconique}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|absence d'ombre, [changement de forme](./Changement de forme (capacité).md) ([chauve-souris sanguinaire](./Chauve-souris sanguinaire.md) ou [loup](./Loup.md), *[forme bestiale II](./Forme bestiale II.md)*), forme gazeuse, *[pattes d'araignée](./Pattes daraignée.md)*}
+{s:BDTexte|absence d'ombre, [[changement de forme (Capacité)|changement de forme]] ([[chauve-souris sanguinaire]] ou [[loup]], *[[forme bestiale II]]*), forme gazeuse, *[[pattes daraignée|pattes d'araignée]]*}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
 {s:BDTexte|**Organisation sociale** solitaire ou famille (vampire plus 2-8 rejetons)}
 {s:BDTexte|**Trésor** équipement de PNJ (cape de résistance +3, bandeau de belle allure +4, anneau de protection +2)}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Vampire](./Vampire, archétype.md).***</li></ul>''Cette femme séduisante aux cheveux noirs essuie la goutte de sang qui
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Vampire, archétype|Vampire]].***</li></ul>''Cette femme séduisante aux cheveux noirs essuie la goutte de sang qui
 macule sa joue pâle puis sourit, révélant des canines acérées.''
 
 Les vampires sont des morts-vivants humanoïdes qui se nourrissent
@@ -80,16 +80,16 @@ Le pouvoir effrayant que détiennent les vampires est contrebalancé par leurs v
 
 Aux yeux d’un vampire moyen, ses seuls égaux sont les autres vampires. Ces créatures se voient comme fondamentalement supérieures aux créatures vivantes et cet orgueil démesuré s’applique également face aux autres morts-vivants. Les vampires considèrent la plupart des autres créatures mortes-vivantes comme des êtres inférieurs, au mieux, comme des serviteurs ou des esclaves, au pire. Mais, parfois, la réalité remet leur vision des choses en question, notamment quand il s’agit de morts-vivants très puissants, tels que les liches, qui s’attirent plus facilement le respect des vampires, quoiqu’à contrecoeur.
 
-Il arrive, en de rares occasions, que les vampires puissent concevoir des enfants avec les vivants. Ces créatures maudites, les [dhampirs](./Dhampir (race).md), conservent certains traits de leur parent vampire et vivent comme des parias incompris. Quand ils grandissent, ils deviennent souvent des chasseurs de vampires, mettant leurs dons naturels à profit pour résister à ces morts-vivants qu’ils méprisent. Ils cherchent à se venger de leur parent mort-vivant et beaucoup de vampires essayent de tuer ces rejetons avant qu’ils ne se lancent à leur poursuite.
+Il arrive, en de rares occasions, que les vampires puissent concevoir des enfants avec les vivants. Ces créatures maudites, les [[Dhampir (race)|dhampirs]], conservent certains traits de leur parent vampire et vivent comme des parias incompris. Quand ils grandissent, ils deviennent souvent des chasseurs de vampires, mettant leurs dons naturels à profit pour résister à ces morts-vivants qu’ils méprisent. Ils cherchent à se venger de leur parent mort-vivant et beaucoup de vampires essayent de tuer ces rejetons avant qu’ils ne se lancent à leur poursuite.
 
 ### Archétypes des vampires
 Ce sont les archétypes des vampires qui définissent les statistiques de ces créatures. Chacun d’eux crée un type de vampire différent. Il en existe d’autres types, dont certains sont le résultat de circonstances rares, voire uniques, mais en voici les plus remarquables.
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
-- **Jiang-Shi.** Résultat d’un esprit tourmenté incapable de quitter son corps au moment de sa mort, le [jiang-shi](./Jiang-shi.md) ressemble à un cadavre putréfié bien davantage que les autres vampires. Plutôt que de se nourrir de sang, le jiang-shi aspire le chi du souffle de ses victimes. Marqué par un parchemin inscrit d’une rune qui est fixé à son front, le jiang-shi est affligé de désavantages différents de ceux des moroï et des nosfératus.
+- **Jiang-Shi.** Résultat d’un esprit tourmenté incapable de quitter son corps au moment de sa mort, le [[jiang-shi]] ressemble à un cadavre putréfié bien davantage que les autres vampires. Plutôt que de se nourrir de sang, le jiang-shi aspire le chi du souffle de ses victimes. Marqué par un parchemin inscrit d’une rune qui est fixé à son front, le jiang-shi est affligé de désavantages différents de ceux des moroï et des nosfératus.
 - **Moroï.** L’archétype du vampire normal permet de créer ce que la plupart des gens voient comme le vampire « courant ». Ils se désignent parfois comme des « moroï » pour se distinguer des autres types de vampires qui, à leurs yeux, sont inférieurs.
 
 </div><div class="wiki-col wiki-col-6">
-- **Nosferatu.** Selon certaines personnes, les [nosfératus](./Vampire nosferatu.md) seraient les pères de tous les vampires. Ils sont immortels mais ne jouissent pas de la beauté et de la jeunesse éternelle des moroï. Jaloux de ces descendants plus séduisants, les nosfératus sont souvent des ermites qui préfèrent rester hors de vue des mortels afin que leur visage hideux et flétri n’éveille pas les soupçons. Comme ils ne peuvent pas se reproduire, leur race est sur le déclin.
+- **Nosferatu.** Selon certaines personnes, les [[Vampire nosferatu|nosfératus]] seraient les pères de tous les vampires. Ils sont immortels mais ne jouissent pas de la beauté et de la jeunesse éternelle des moroï. Jaloux de ces descendants plus séduisants, les nosfératus sont souvent des ermites qui préfèrent rester hors de vue des mortels afin que leur visage hideux et flétri n’éveille pas les soupçons. Comme ils ne peuvent pas se reproduire, leur race est sur le déclin.
 
 </div></div>
 ### Archétypes simples des séides vampires
@@ -98,17 +98,17 @@ Les vampires peuvent transformer les mortels avec lesquels ils sont régulièrem
 #### Drainé à répétition (FP -1)
 Une créature dont le vampire boit régulièrement le sang finit généralement par s’adapter aux pertes de sang rapides et répétées mais il arrive qu’un vampire assoiffé aille trop loin, affaiblissant physiquement sa proie. La peau de la victime devient livide et ses yeux perdent leur éclat. Certains décrivent ces victimes comme « décharnées » ou comme des « cadavres ambulants ». Rares sont les mortels qui réalisent à quel point ces descriptions sont appropriées puisque la victime flirte en effet avec la mort.
 
-**Règles rapides.** -2 à tous les jets basés sur la [Con](./Con.md) ou le [Cha](./Cha.md), -2 au [DD](./DD.md) de tous les pouvoirs spéciaux basés sur la [Con](./Con.md) ou le [Cha](./Cha.md), -2 [pv](./pv.md)/[DV](./../Ressources/DV.md), +2 aux [jets de sauvegarde](./JDS.md) contre l’[absorption d’énergie](./Absorption dénergie (capacité).md).
+**Règles rapides.** -2 à tous les jets basés sur la [[Con]] ou le [[Cha]], -2 au [[DD]] de tous les pouvoirs spéciaux basés sur la [[Con]] ou le [[Cha]], -2 [[pv]]/[[DV]], +2 aux [[jds|jets de sauvegarde]] contre l’[[absorption dénergie (capacité)|absorption d’énergie]].
 
-**Règles de reconstruction.** **Capacités défensives** pouvoir spécial de résistance à l’absorption ; **Caractéristiques** -4 [Con](./Con.md), -4 [Cha](./Cha.md).
-- *Résistance à l’absorption (Ext).* Après qu’un vampire lui a sucé le sang encore et encore, la créature drainée à répétition s’habitue aux effets et développe une tolérance naturelle à l’absorption d’énergie. Elle gagne un bonus de +4 aux [jets de sauvegarde](./JDS.md) contre les attaques d’[absorption d’énergie](./Absorption dénergie (capacité).md) et aux [jets de sauvegarde](./JDS.md) pour résister aux niveaux négatifs. Elle ne souffre d’aucun malus de [niveaux négatifs](./niveau négatif.md) mais trouve quand même la mort si le nombre de niveaux négatifs reçus égale ou excède ses dés de vie.
+**Règles de reconstruction.** **Capacités défensives** pouvoir spécial de résistance à l’absorption ; **Caractéristiques** -4 [[Con]], -4 [[Cha]].
+- *Résistance à l’absorption (Ext).* Après qu’un vampire lui a sucé le sang encore et encore, la créature drainée à répétition s’habitue aux effets et développe une tolérance naturelle à l’absorption d’énergie. Elle gagne un bonus de +4 aux [[jds|jets de sauvegarde]] contre les attaques d’[[absorption dénergie (capacité)|absorption d’énergie]] et aux [[jds|jets de sauvegarde]] pour résister aux niveaux négatifs. Elle ne souffre d’aucun malus de [[niveau négatif|niveaux négatifs]] mais trouve quand même la mort si le nombre de niveaux négatifs reçus égale ou excède ses dés de vie.
 
 </div><div class="wiki-col wiki-col-6">
 #### Embrumé (FP +0)
 Une créature qu’un vampire garde sous sa domination trop longtemps commence à perdre contact avec son identité propre. Elle ne sait plus définir exactement ses propres désirs et elle est facilement embrouillée. Si jamais ce mortel devait être pris pour cible d’un effet mental, il serait tout aussi susceptible de marmonner sa folie aux murs que de se déchaîner sur quiconque se trouve à proximité. Les règles de reconstruction et règles rapides de la créature embrumée sont les mêmes.
 
-**Règles de reconstruction.** **JdS** malus de -2 à tous les jets de [Volonté](./Volonté.md). *Particularités*' la créature gagne la capacité défensive esprit confus.
-- *Esprit confus (Sur).* Chaque fois qu’une créature embrumée rate un [jet de sauvegarde](./JDS.md) contre un effet mental (autre que *[domination](./Domination.md)*, *[domination universelle](./Domination universelle.md)* ou tout autre sort ou pouvoir magique de « domination »), elle est [confuse](./Confus.md), comme avec un sort de *[confusion](./Confusion.md)*, et doit faire un jet en se reportant à la table du sort pour déterminer le comportement qu’elle adopte. Plutôt que d’agir normalement sur un résultat de 01 à 25, la créature est affectée normalement par le sort ou l’effet pendant ce [round](./round.md).
+**Règles de reconstruction.** **JdS** malus de -2 à tous les jets de [[Volonté]]. *Particularités*' la créature gagne la capacité défensive esprit confus.
+- *Esprit confus (Sur).* Chaque fois qu’une créature embrumée rate un [[jds|jet de sauvegarde]] contre un effet mental (autre que *[[domination]]*, *[[domination universelle]]* ou tout autre sort ou pouvoir magique de « domination »), elle est [[confus|confuse]], comme avec un sort de *[[confusion]]*, et doit faire un jet en se reportant à la table du sort pour déterminer le comportement qu’elle adopte. Plutôt que d’agir normalement sur un résultat de 01 à 25, la créature est affectée normalement par le sort ou l’effet pendant ce [[round]].
 
 </div></div>
 {s:CM}
@@ -126,21 +126,21 @@ Les vampires et leurs semblables peuvent utiliser les dons suivants pour accroî
 | WIDTH="37%" | Avantages
 
 |- CLASS="premier"
-| [Compagnon vampirique](./Compagnon vampirique.md) || <sup>CM</sup> || [Dhampir](./Dhampir (race).md) ou [vampire](./Vampire.md), alignement non-Bon, 10 niveaux dans une classe qui confèfe un [compagnon animal](./compagnon animal.md) ou un [familier](./familier.md) || Gain d'un compagnon animal mort-vivant vampirique
+| [[Compagnon vampirique]] || <sup>CM</sup> || [[Dhampir (race)|Dhampir]] ou [[vampire]], alignement non-Bon, 10 niveaux dans une classe qui confèfe un [[compagnon animal]] ou un [[familier]] || Gain d'un compagnon animal mort-vivant vampirique
 
 |- CLASS="premier"
-| [Tolérance à l'aversion](./Tolérance à laversion.md) || <sup>CM</sup> || [Vampire](./Vampire.md) || +2 aux jets de sauvegarde pour résister aux aversions
+| [[Tolérance à laversion|Tolérance à l'aversion]] || <sup>CM</sup> || [[Vampire]] || +2 aux jets de sauvegarde pour résister aux aversions
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Équipement
 Certains vampires se servent des objets suivants.
-- [Sang alchimique](./Remèdes alchimiques.md#Sang alchimique)
+- [[Remèdes alchimiques#Sang alchimique|Sang alchimique]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Objets magiques
 Les objets magiques suivant sont particulièrement utiles aux vampires et à leurs rejetons.
-- [Bouclier de festin sanglant](./Bouclier de festin sanglant.md)
-- [Dé du carnage](./Dé du carnage.md)
+- [[Bouclier de festin sanglant]]
+- [[Dé du carnage]]
 
 </div></div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Caractéristiques#FORCE
 ---
 
->>> [Pathfinder-RPG.Caractéristiques#FORCE](./Caractéristiques.md#FORCE)
+>>> [[Pathfinder-RPG.Caractéristiques#FORCE]]

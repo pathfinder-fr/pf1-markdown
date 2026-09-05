@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Gants des poings de pierre|{s:CMy}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [mains](./Objets merveilleux portés aux mains.md) ; **Prix** 10 000 po ; **Poids** 1,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés aux mains|mains]] ; **Prix** 10 000 po ; **Poids** 1,5 kg
 (((Description)))
-Ces lourds gants de pierre apparaissent étonnamment souples à qui les enfile. Lorsqu'une créature porte des *gants des poings de pierre*, ses attaques à mains nues fonctionnent comme si elle faisait une catégorie de taille de plus et elles ignorent les [solidités](./solidité.md) de 8 ou moins. Quand une créature [mythique](./mythique.md) porte ces gants pour faire une manœuvre offensive de [destruction](./destruction.md), elle ajoute la moitié de son [grade](./Grade.md) comme bonus à son test.
+Ces lourds gants de pierre apparaissent étonnamment souples à qui les enfile. Lorsqu'une créature porte des *gants des poings de pierre*, ses attaques à mains nues fonctionnent comme si elle faisait une catégorie de taille de plus et elles ignorent les [[solidité|solidités]] de 8 ou moins. Quand une créature [[mythique]] porte ces gants pour faire une manœuvre offensive de [[destruction]], elle ajoute la moitié de son [[grade]] comme bonus à son test.
 (((Création)))
-**Conditions** [Artisan mythique](./Artisan mythique.md), [Création d'armes et armures magiques](./Création darmes et armures magiques.md), *[peau de pierre](./Peau de pierre.md)* ; **Coût** 5 000 po
+**Conditions** [[Artisan mythique]], [[Création darmes et armures magiques|Création d'armes et armures magiques]], *[[peau de pierre]]* ; **Coût** 5 000 po
 </div>

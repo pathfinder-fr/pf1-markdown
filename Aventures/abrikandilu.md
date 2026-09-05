@@ -6,6 +6,6 @@ Categories:
 - Campagne
 ---
 
-page migrée vers [++Pathfinder-RPG.Abrikandilu](./../Pathfinder-RPG/Abrikandilu.md)
+page migrée vers [[Pathfinder-RPG.Abrikandilu]]
 
 Page à supprimer

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Collines|Tropical}
 {s:BDTexte|*Source : Bestiaire p.210*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, LM}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, LM}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 15 (Dex +2, naturelle +6, taille -1)}
 {s:BDTexte|**pv** 57 (6d10+24)}
@@ -27,16 +27,16 @@ Categories:
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,5 m (1 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 15, **Con** 18, **Int** 7, **Sag** 12, **Cha** 9}
-{s:BDTexte|**BBA** +6, **BMO** +12, **DMD** 24 (28 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (piques), [Attaque en vol](./Attaque en vol.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +9, [Survie](./Survie.md) +4 (+8 pour suivre une piste), [Vol](./Vol.md) -3 ; **Modificateurs raciaux** +4 en [Perception](./Perception.md), +4 en [Survie](./Survie.md) pour suivre une piste}
+{s:BDTexte|**BBA** +6, **BMO** +12, **DMD** 24 (28 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (piques), [[Attaque en vol]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Perception]] +9, [[Survie]] +4 (+8 pour suivre une piste), [[Vol]] -3 ; **Modificateurs raciaux** +4 en [[Perception]], +4 en [[Survie]] pour suivre une piste}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines et marais chauds}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou meute (3-6)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Piques (Ext).** D'un simple coup de queue (nécessitant une [action simple](./Action simple.md)), une manticore peut projeter quatre piques dans les airs (un [jet d'attaque](./jet dattaque.md) par pique). Ces attaques ont une portée de 54 m (36 {s:c}) mais pas de facteur de portée. Les cibles potentielles doivent se trouver à 9 m (6 {s:c}) les unes des autres. La manticore ne peut pas lancer plus de 24 piques par période de 24 heures.}
+{s:BDTexte|**Piques (Ext).** D'un simple coup de queue (nécessitant une [[action simple]]), une manticore peut projeter quatre piques dans les airs (un [[jet dattaque|jet d'attaque]] par pique). Ces attaques ont une portée de 54 m (36 {s:c}) mais pas de facteur de portée. Les cibles potentielles doivent se trouver à 9 m (6 {s:c}) les unes des autres. La manticore ne peut pas lancer plus de 24 piques par période de 24 heures.}
 </div>
 
 

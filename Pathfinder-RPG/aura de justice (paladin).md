@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Paladin#AURADEJUSTICE
 ---
 
->>> [Paladin#AURADEJUSTICE](./Paladin.md#AURADEJUSTICE)
+>>> [[Paladin#AURADEJUSTICE]]

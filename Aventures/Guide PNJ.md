@@ -10,15 +10,15 @@ Tout d'abord, merci. Si vous venez consulter cette page, c'est que vous envisage
 
 Assurez-vous que vous avez toutes les informations relatives à votre PNJ. La méthode la plus simple pour créer la nouvelle page qui accueillera votre PNJ consiste à d'abord créer un lien vers la future page, puis à utiliser ce lien pour créer la page (c'est un peu comme construire une porte avant de construire la pièce à laquelle elle permet d'accéder).
 
-- Rendez vous sur la page principale de la [Aventures.Liste PNJ|Banque de PNJ].
+- Rendez vous sur la page principale de la [[Aventures.Liste PNJ|Banque de PNJ]].
 - Éditez la page en cliquant sur l'icône du crayon en haut à droite ("Modifier cette page").
 - Vous accédez alors au code de la page. Repérer, dans ce code, le titre qui correspond au FP de votre PNJ (ce titre est précédé et suivi de quatre symboles "*égal*").
 - Votre tâche consiste à ajouter le nom de votre PNJ sous le titre qui correspond à votre FP. S'il n'y a pas encore de PNJ de ce FP, c'est facile à faire. S'il y a déjà une liste de PNJ, placez le vôtre de manière à respecter l'ordre alphabétique de la liste.
 - Une fois que vous avez repéré l'endroit où ajouter votre PNJ, insérez une ligne en suivant le format des exemples suivants (le dernier exemple montre le cas d'une page où le Nom de la page est différent du Titre de la page, car il n'est pas possible de mettre un apostrophe dans un nom) :
-@@* [Elminster Aumar](./Elminster-Aumar.md)
-- [orque rôdeur](./orque-rôdeur.md)
-- [gendarme-hallebardier](./gendarme-hallebardier.md)
-- [Barbare cor d'argent](./Barbare cor dargent.md)@@
+@@* [[Elminster Aumar]]
+- [[orque rôdeur]]
+- [[gendarme-hallebardier]]
+- [[Barbare cor dargent|Barbare cor d'argent]]@@
 - Assurez-vous qu'il y a une ligne blanche entre la fin de la liste et le titre qui suit, c'est-à-dire que la dernière ligne de la liste (une ligne qui commence par une astéristique) soit suivie d'une ligne blanche.
 - Quand vous avez terminé, cliquez sur le bouton "Sauvegarder" en haut à droite de la page d'édition.
 
@@ -26,7 +26,7 @@ Assurez-vous que vous avez toutes les informations relatives à votre PNJ. La m�
 
 Maintenant que le lien a été créé, c'est très facile de créer la page. Il faut ensuite faire en sorte que celle-ci soit reconnue comme une page présentant un PNJ et donc reprise automatiquement dans la liste alphabétique (la liste par FP est maintenue "à la main" tandis que la liste alphabétique est gérée automatiquement).
 
-- Sur la page de la [Aventures.Liste PNJ|Banque de PNJ], le lien que vous venez d'ajouter est écrit en rouge. Cela signifie qu'il ne conduite nulle part, parce que la page en question n'a pas encore été créée. S'il est indiqué en bleu, cela veut dire que vous avez employé un nom qui est déjà utilisé. Dans ce cas-là, cliquez à nouveau sur le bouton pour modifier la page et changez le nom/descriptif de votre PNJ.
+- Sur la page de la [[Aventures.Liste PNJ|Banque de PNJ]], le lien que vous venez d'ajouter est écrit en rouge. Cela signifie qu'il ne conduite nulle part, parce que la page en question n'a pas encore été créée. S'il est indiqué en bleu, cela veut dire que vous avez employé un nom qui est déjà utilisé. Dans ce cas-là, cliquez à nouveau sur le bouton pour modifier la page et changez le nom/descriptif de votre PNJ.
 - Cliquez sur le lien en rouge. Le Wiki indiquera que la page demandée n'existe pas et il vous suggérera une liste de pages qu'il pense être similaires. Ignorez la liste et allez tout en bas, jusqu'à l'option **Créer cette page** ; cliquez à cet endroit.
 - Vous arrivez alors dans une page d'édition vide. Le nom/descriptif de votre PNJ est repris deux fois en haut de la page. C'est normal, et vous pouvez laisser tout cela tel quel.
 - Avant de commencer à décrire votre PNJ dans la grande fenêtre au centre, descendez sous celle-ci et repérez le titre **Catégories de page**. Cochez la case située devant "PNJ". Cela indique au wiki qu'il s'agit d'une page décrivant un PNJ.

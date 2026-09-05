@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Harmonique
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Harmonique](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Harmonique)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Harmonique]]

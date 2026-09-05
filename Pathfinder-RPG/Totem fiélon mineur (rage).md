@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#TOTEMFIELONMINEUR
 ---
 
->>> [pouvoirs de rage#TOTEMFIELONMINEUR](./Pouvoirs de rage.md#TOTEMFIELONMINEUR)
+>>> [[pouvoirs de rage#TOTEMFIELONMINEUR]]

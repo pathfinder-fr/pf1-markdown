@@ -7,8 +7,8 @@ Categories:
 - Géographie
 ---
 
-Fleuve du [Chéliax](./Chéliax.md), l'Adivian commence son cours au coeur du [Bois aux Tertres](./Bois aux Tertres.md) et se jette dans la [Mer Intérieure](./mer Intérieure.md) dans la Baie de la Couronne-de-Gemmes.
+Fleuve du [[Chéliax]], l'Adivian commence son cours au coeur du [[Bois aux Tertres]] et se jette dans la [[Mer Intérieure]] dans la Baie de la Couronne-de-Gemmes.
 
-Le réseau hydrographique formé par le fleuve et ses affluents recouvre une bonne partie du centre du [Chéliax](./Chéliax.md). Parmi ses principaux affluents, on trouve la [Sedna](./Sedna.md) et le [Tomarsulk](./Tomarsulk.md). La confluence de ces deux derniers avec le fleuve formant le [Lac Chagrin](./Lac Chagrin.md).
+Le réseau hydrographique formé par le fleuve et ses affluents recouvre une bonne partie du centre du [[Chéliax]]. Parmi ses principaux affluents, on trouve la [[Sedna]] et le [[Tomarsulk]]. La confluence de ces deux derniers avec le fleuve formant le [[Lac Chagrin]].
 
-Le fleuve arrose les villes d'[Egorian](./Egorian.md), au sud du Lac Chagrin, et [Couronne-Ouest](./Couronne-Ouest.md), juste avant qu'il ne termine son parcours dans la [Mer Intérieure](./mer Intérieure.md).
+Le fleuve arrose les villes d'[[Egorian]], au sud du Lac Chagrin, et [[Couronne-Ouest]], juste avant qu'il ne termine son parcours dans la [[Mer Intérieure]].

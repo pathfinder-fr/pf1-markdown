@@ -12,15 +12,15 @@ Categories:
 
 {s:apg}*Grâce à sa vision aiguisée, le personnage peut accomplir plus facilement des tirs difficiles.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Condition.** [Elfe](./Elfe.md).
+**Condition.** [[Elfe]].
 
-**Avantage.** Si le personnage attaque avec un arc long ou un arc court (ou encore un arc composite) et que l’attaque rate à cause d’un [camouflage](./camouflage.md), il peut relancer le pourcentage d’échec (une seule fois) afin de voir s’il est parvenu à toucher sa cible.
+**Avantage.** Si le personnage attaque avec un arc long ou un arc court (ou encore un arc composite) et que l’attaque rate à cause d’un [[camouflage]], il peut relancer le pourcentage d’échec (une seule fois) afin de voir s’il est parvenu à toucher sa cible.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Si le personnage rate une attaque à l’arc long ou court à cause du [camouflage](./camouflage.md), il peut dépenser 5 points d’endurance pour réussir automatiquement le deuxième jet pour ignorer les chances d’échec dues au [camouflage](./camouflage.md) effectué grâce à ce don.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Si le personnage rate une attaque à l’arc long ou court à cause du [[camouflage]], il peut dépenser 5 points d’endurance pour réussir automatiquement le deuxième jet pour ignorer les chances d’échec dues au [[camouflage]] effectué grâce à ce don.
 
 {s:CMy}
 ### Version mythique

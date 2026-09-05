@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Syricte|FP 12}
 {s:pucem|Aberration|Souterrain|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.250](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.250]]*}
 {s:BDTexte|**PX** 19 200}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, CM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [odorat](./Odorat (capacité).md) ; [Perception](./Perception.md) +22}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Odorat (capacité)|odorat]] ; [[Perception]] +22}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 29, contact 11, pris au dépourvu 27 (Dex +2, naturelle +18, taille -1)}
 {s:BDTexte|**pv** 178 (17d8+102)}
@@ -23,24 +23,24 @@ Categories:
 {s:BDTexte|**Faiblesses** pion des hommes-serpents}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m}
-{s:BDTexte|**Corps à corps** 3 morsures, +22 (2d6+10/19-20 plus poison) et tentacule, +20 (1d6+5 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** 3 morsures, +22 (2d6+10/19-20 plus poison) et tentacule, +20 (1d6+5 plus [[Étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDTexte|**Attaques spéciales** [constriction](./Constriction (capacité).md) (1d6+10), poison, nuage de poison, renversement ophidien}
+{s:BDTexte|**Attaques spéciales** [[Constriction (capacité)|constriction]] (1d6+10), poison, nuage de poison, renversement ophidien}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 31, **Dex** 14, **Con** 22, **Int** 7, **Sag** 14, **Cha** 17}
-{s:BDTexte|**BBA** +12 ; **BMO** +23 (+27 en [renversement](./renversement.md)) ; **DMD** 35 (37 contre le [renversement](./renversement.md), [croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Arme de prédilection](./Arme de prédilection.md) (tentacule), [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Force intimidante](./Force intimidante.md), [Réflexes surhumains](./Réflexes surhumains.md), [Renversement supérieur](./Renversement supérieur.md), [Science du critique](./Science du critique.md) (morsure), [Science du renversement](./Science du renversement.md)}
-{s:BDTexte|**Compétences** [Intimidation](./Intimidation.md) +31, [Perception](./Perception.md) +22, [Survie](./Survie.md) +7}
+{s:BDTexte|**BBA** +12 ; **BMO** +23 (+27 en [[renversement]]) ; **DMD** 35 (37 contre le [[renversement]], [[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Arme de prédilection]] (tentacule), [[Attaque en puissance]], [[Attaques multiples]], [[Force intimidante]], [[Réflexes surhumains]], [[Renversement supérieur]], [[Science du critique]] (morsure), [[Science du renversement]]}
+{s:BDTexte|**Compétences** [[Intimidation]] +31, [[Perception]] +22, [[Survie]] +7}
 {s:BDTexte|**Langues** aklo, draconique, commun des profondeurs}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation** solitaire, paire ou nœud (3-5)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Nuage de poison (Ext).** Une fois par jour par une [action rapide](./Action rapide.md), un syricte peut exhaler un nuage de poison par ses narines. Le nuage s’étend sur un rayon de 6 mètres autour du syricte. Toute créature qui se trouve dans le nuage ou qui y pénètre doit immédiatement faire un jet de [Vigueur](./Vigueur.md) DD 24 pour éviter d’être affectée par le poison du syricte. Le nuage se dissipe au début du prochain tour du syricte.}
-{s:BDTexte|**Pion des hommes-serpents (Ext).** L’immunité des syrictes aux [effets mentaux](./Registre.md) ne concerne pas les [hommes-serpents](./Homme-serpent.md) ou tout effet causé par les hommes-serpents (par exemple, une *[brume mentale](./Brume mentale.md)* lancée par un homme-serpent ne tiendra pas compte de l’immunité des syrictes aux effets mentaux).}
-{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [Vigueur](./Vigueur.md) DD 24 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d4 [Force](./Force.md) ; *guérison* 2 réussites consécutives.}
-{s:BDTexte|**Renversement ophidien (Ext).** Les nombreuses têtes et queues de serpent qui forment la partie inférieure du corps d’un syricte infligent 6d6 points de dégâts contondants, perforants et tranchants aux créatures contre lesquelles le monstre réussit une manœuvre offensive de [renversement](./renversement.md). Les créatures qui subissent des dégâts causés par le renversement ophidien sont aussi victimes du poison de ce monstre.}
+{s:BDTexte|**Nuage de poison (Ext).** Une fois par jour par une [[action rapide]], un syricte peut exhaler un nuage de poison par ses narines. Le nuage s’étend sur un rayon de 6 mètres autour du syricte. Toute créature qui se trouve dans le nuage ou qui y pénètre doit immédiatement faire un jet de [[Vigueur]] DD 24 pour éviter d’être affectée par le poison du syricte. Le nuage se dissipe au début du prochain tour du syricte.}
+{s:BDTexte|**Pion des hommes-serpents (Ext).** L’immunité des syrictes aux [[registre|effets mentaux]] ne concerne pas les [[Homme-serpent|hommes-serpents]] ou tout effet causé par les hommes-serpents (par exemple, une *[[brume mentale]]* lancée par un homme-serpent ne tiendra pas compte de l’immunité des syrictes aux effets mentaux).}
+{s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [[Vigueur]] DD 24 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d4 [[Force]] ; *guérison* 2 réussites consécutives.}
+{s:BDTexte|**Renversement ophidien (Ext).** Les nombreuses têtes et queues de serpent qui forment la partie inférieure du corps d’un syricte infligent 6d6 points de dégâts contondants, perforants et tranchants aux créatures contre lesquelles le monstre réussit une manœuvre offensive de [[renversement]]. Les créatures qui subissent des dégâts causés par le renversement ophidien sont aussi victimes du poison de ce monstre.}
 
 </div></td>
 <td><div>*Une tête de cobra repose sur un torse humanoïde, qui se divise à nouveau en une douzaine de serpents. L’un de ses deux bras se termine par une queue de serpent et l’autre par deux têtes de serpent.*

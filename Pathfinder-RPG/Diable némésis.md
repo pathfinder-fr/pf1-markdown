@@ -10,7 +10,7 @@ LastModified: 2021-04-03 19:35
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 62*}
 - **153 600 PX**
-- [Extérieur](./type Extérieur.md) ([diable](./sous-type diable.md), [extraplanaire](./sous-type extraplanaire.md), [Loi](./sous-type Loi.md), [Mal](./sous-type Mal.md)) de taille TG, LM
+- [[type extérieur|Extérieur]] ([[sous-type diable|diable]], [[sous-type extraplanaire|extraplanaire]], [[sous-type loi|Loi]], [[sous-type mal|Mal]]) de taille TG, LM
 - **Init **+11 ; Sens vision dans le noir 18 m, vision dans les ténèbres ; Perception +28
 (((Défense)))
 - **CA** 36, contact 15, pris au dépourvu 29 (armure +7, Dex +7, naturelle +14, taille -2)
@@ -26,14 +26,14 @@ LastModified: 2021-04-03 19:35
 - **Espace **4,50 m ; **Allonge** 4,50 m (6 m avec la queue)
 - **Attaque spéciale** blessure infernale
 - **Pouvoirs magiques** (**NLS** 16 ; concentration +23)
-  - *À volonté *— [état gazeux](./État gazeux.md), [invisibilité suprême](./Invisibilité suprême.md), [Vent de murmures](./Vent de murmures.md), [rayon ardent](./Rayon ardent.md), [téléportation suprême](./Téléportation suprême.md) (lui plus 25 kg d’objets seulement)
-  - *3/jour* — [blasphème](./Blasphème.md) (DD 24), [dissipation de la magie](./Dissipation de la magie.md), [forme éthérée](./Forme éthérée.md), [guérison suprême](./Guérison suprême.md) (DD 23), [immobilisation de monstre](./Immobilisation de monstre.md) (DD 22), [mise à mal](./Mise à mal.md) (DD 23), [mur de pierre](./Mur de pierre.md)
-  - *1/jour* — [convocation](./convocation.md) (niveau 7, diable cornu 60%), [sanctification maléfique](./Sanctification maléfique.md), [scrutation suprême](./Scrutation suprême.md) (DD 21)
+  - *À volonté *— [[état gazeux]], [[invisibilité suprême]], [[Vent de murmures]], [[rayon ardent]], [[téléportation suprême]] (lui plus 25 kg d’objets seulement)
+  - *3/jour* — [[blasphème]] (DD 24), [[dissipation de la magie]], [[forme éthérée]], [[guérison suprême]] (DD 23), [[immobilisation de monstre]] (DD 22), [[mise à mal]] (DD 23), [[mur de pierre]]
+  - *1/jour* — [[convocation]] (niveau 7, diable cornu 60%), [[sanctification maléfique]], [[scrutation suprême]] (DD 21)
 (((Statistiques)))
 - **For **34, **Dex **25, **Con **30, **Int **23, **Sag **25, **Cha **24
 - **BBA **+18 ; **BMO **+32 (+36 bousculade) ; **DMD **49 (51 contre bousculade, 53 contre croc-en-jambe)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md), [Bousculade supérieure](./Bousculade supérieure.md), [Coup fabuleux](./Coup fabuleux.md), [Robustesse](./Robustesse.md), [Science de la bousculade](./Science de la bousculade.md), [Science de l’initiative](./Science de linitiative.md), [Vol stationnaire](./Vol stationnaire.md) 
-- **Compétences **[Acrobaties](./Acrobaties.md) +25 (+29 pour sauter), [Art de la magie](./Art de la magie.md) +24, [Bluff](./Bluff.md) +28, [Connaissances](./Connaissances.md) (mystères, plans, religion) +27, [Diplomatie](./Diplomatie.md) +28, [Discrétion](./Discrétion.md) +20, [Intimidation](./Intimidation.md) +28, [Perception](./Perception.md) +28, [Psychologie](./Psychologie.md) +28, [Vol](./Vol.md) +24 ; **Modificateurs raciaux** +4 en Acrobaties pour sauter
+- **Dons **[[Attaque en puissance]], [[Attaque en vol]], [[Attaques multiples]], [[Bousculade supérieure]], [[Coup fabuleux]], [[Robustesse]], [[Science de la bousculade]], [[Science de linitiative|Science de l’initiative]], [[Vol stationnaire]] 
+- **Compétences **[[Acrobaties]] +25 (+29 pour sauter), [[Art de la magie]] +24, [[Bluff]] +28, [[Connaissances]] (mystères, plans, religion) +27, [[Diplomatie]] +28, [[Discrétion]] +20, [[Intimidation]] +28, [[Perception]] +28, [[Psychologie]] +28, [[Vol]] +24 ; **Modificateurs raciaux** +4 en Acrobaties pour sauter
 - **Langues **abyssal, aklo, céleste, commun, draconique, infernal ; télépathie 30 m
 - **Particularités **marque du diable, dieu imposteur (Duperie)
 (((Écologie)))
@@ -56,7 +56,7 @@ sont permis (en dehors des domaines du Bien et du Chaos). Ces pouvoirs magiques 
 Il peut aussi faire souffrir le porteur de la marque par une action simple, lui infligeant 6d6 points de dégâts sans jet de sauvegarde. Un advodaze peut marquer un nombre de créatures égal à ses DV (en général 18).
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 *Cette antique monstruosité a le torse d’un géant musculeux, des ailes écailleuses. Sa moitié inférieure est celle d’une bête dotée de quatre pattes griffues.*
 
 Dieux imposteurs, démagogues déchus, diables némésis... autant de noms pour les fiélons que l’on désigne collectivement sous le terme d’advodaze. Ce sont des survivants d’une époque révolue, où les mortels vénéraient d’ignobles entités et des esprits malsains qui se faisaient passer pour de sinistres dieux.

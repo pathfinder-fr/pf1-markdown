@@ -5,11 +5,11 @@ LastModified: 2023-04-27 17:35
 ---
 
 <img src="Illustrations/Wiki/PF2/061821_WENDLYN.png" class="fright" alt="">
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur Otari](./OTARI.md)
+• [[OTARI|Retour à la page sur Otari]]
 
-Wendlyn a grandi à Otari et connaît à peu près tout le monde sur place. En clair, elle sait quelles personnes elle peut prendre pour cibles pour ses petits larcins. Elle est mal vue par le capitaine Longsaddle de la garde d'Otari, et ça a toujours été le cas, d'aussi loin qu'elle puisse se souvenir. Cependant, elle reste bien à l'écart des types de crimes qui pourraient nécessiter des punitions plus sévères ou qui pourraient réellement blesser qui que ce soit. Les habitants d'Otari n'ont pas à craindre ses vols, mais il n'en va pas de même pour ses blagues : elle adore cacher des animaux à des endroits où ils vont surprendre des gens ou encore mettre un peu d'animation dans les festivités grâce à quelques feux d'artifice inattendus. Pour elle, c'est bon enfant. Le capitaine Longsaddle n'est certainement pas du même avis, de même que sa jeune demi-soeur, la pieuse acolyte [Lisavet](./Lisavet.md).
+Wendlyn a grandi à Otari et connaît à peu près tout le monde sur place. En clair, elle sait quelles personnes elle peut prendre pour cibles pour ses petits larcins. Elle est mal vue par le capitaine Longsaddle de la garde d'Otari, et ça a toujours été le cas, d'aussi loin qu'elle puisse se souvenir. Cependant, elle reste bien à l'écart des types de crimes qui pourraient nécessiter des punitions plus sévères ou qui pourraient réellement blesser qui que ce soit. Les habitants d'Otari n'ont pas à craindre ses vols, mais il n'en va pas de même pour ses blagues : elle adore cacher des animaux à des endroits où ils vont surprendre des gens ou encore mettre un peu d'animation dans les festivités grâce à quelques feux d'artifice inattendus. Pour elle, c'est bon enfant. Le capitaine Longsaddle n'est certainement pas du même avis, de même que sa jeune demi-soeur, la pieuse acolyte [[Lisavet]].
 
 Wendlyn est une excellente personne à connaître à Otari, car elle est au courant d'un bon nombre de secrets de la ville. Sa propension au larcin, qui remonte à sa plus jeune enfance, fait également d'elle la personne idéale pour ouvrir une serrure récalcitrante ou désarmer un piège complexe. Elle est toujours prête à se rejoindre quasiment n'importe quelle escapade, qu'elle soit illégale ou pas, pour autant que personne ne soit réellement meurtri.
 

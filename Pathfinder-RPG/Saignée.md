@@ -11,12 +11,12 @@ Categories:
 
 {s:ISG}{s:GeM}*Lorsque le personnage attaque avec une arme perforante ou tranchante, les blessures qu’il provoque saignent énormément.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** Suivant de [Zon-Kuthon](./Zon-Kuthon (technique).md)
+**Conditions.** Suivant de [[Zon-Kuthon (technique)|Zon-Kuthon]]
 
-**Avantage.** À chaque fois qu'il obtient un [critique potentiel](./coup critique.md) avec une arme perforante ou tranchante (qu’il confirme le coup critique ou non), il fait saigner la créature qu’il a touchée, ce qui lui inflige 1 point de dégâts de [saignement](./Saignement.md).
+**Avantage.** À chaque fois qu'il obtient un [[coup critique|critique potentiel]] avec une arme perforante ou tranchante (qu’il confirme le coup critique ou non), il fait saigner la créature qu’il a touchée, ce qui lui inflige 1 point de dégâts de [[saignement]].
 
 {s:cs}{s:WMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Lorsque le personnage confirme un [coup critique](./coup critique.md) avec une arme perforante ou tranchante, il peut dépenser jusqu'à 2 points d'endurance pour augmenter les points de dégâts de [saignement](./Saignement.md) infligés par le don [Saignée](./Saignée.md) de 1 par point d'endurance dépensé.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Lorsque le personnage confirme un [[coup critique]] avec une arme perforante ou tranchante, il peut dépenser jusqu'à 2 points d'endurance pour augmenter les points de dégâts de [[saignement]] infligés par le don [[Saignée]] de 1 par point d'endurance dépensé.

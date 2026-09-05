@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Vase|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.64*}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|[Vase](./type Vase.md) ([extraplanaire](./sous-type extraplanaire.md), [terre](./sous-type Terre.md)) de taille M, N}
-{s:BDTexte|**Init** -5 ; **Sens** [vision aveugle](./vision aveugle.md) à 36 m (24 {s:c}); [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type terre|terre]]) de taille M, N}
+{s:BDTexte|**Init** -5 ; **Sens** [[vision aveugle]] à 36 m (24 {s:c}); [[Perception]] -5}
 {s:BDTexte|**Aura** bourdonnement subsonique (18 m (12{s:c}), DD 22)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 5, pris au dépourvu 17 (Dex -5, naturelle +12)}
@@ -24,12 +24,12 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c}), escalade 3m (2 {s:c})}
 {s:BDTexte|**Corps à corps** coup, +18 (7d8+9/18-20 plus entrave)}
-{s:BDTexte|**Attaques spéciales** cristallisation, tranchant comme un rasoir, [entrave](./Entrave (capacité).md) (DD 22, 1d10 rounds, solidité 10, pv 10)}
+{s:BDTexte|**Attaques spéciales** cristallisation, tranchant comme un rasoir, [[entrave (capacité)|entrave]] (DD 22, 1d10 rounds, solidité 10, pv 10)}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 22, **Dex** 1, **Con** 18, **Int** —, **Sag** 1, **Cha** 1}
 {s:BDTexte|**BBA** +12, **BMO** +18, **DMD** 23 (croc-en-jambe impossible)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +0 (+5 dans les zones rocheuses) +12, [Escalade](./Escalade.md) +14}
-{s:BDTexte|**Modificateurs raciaux** [Discrétion](./Discrétion.md) +5 (+10 dans les zones rocheuses)}
+{s:BDTexte|**Compétences** [[Discrétion]] +0 (+5 dans les zones rocheuses) +12, [[Escalade]] +14}
+{s:BDTexte|**Modificateurs raciaux** [[Discrétion]] +5 (+10 dans les zones rocheuses)}
 {s:BDTexte|**Particularités** division (coup critique sur une attaque contondante ou sonique, 15 pv), immobilité}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain (plan de la Terre)}

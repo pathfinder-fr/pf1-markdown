@@ -13,24 +13,24 @@ Categories:
 ---
 
 {s:APG}
-**École** [Enchantement](./Enchantement.md) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 1, [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Occ](./Occultiste.md) 1  
+**École** [[Enchantement]] <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature vivante  
 
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)  
+**Durée** [[présentation des sorts#DUREE|instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage fait oublier à sa cible tout ce qui s'est passé entre le moment où il lance son sort et le début du dernier tour de la cible, ce qui peut lui permettre de refaire un test de [Diplomatie](./Diplomatie.md), d'[Intimidation](./Intimidation.md) ou de compétence opposé, mais seulement vis-à-vis de la cible, pas des autres créatures éventuellement présentes.
+Le personnage fait oublier à sa cible tout ce qui s'est passé entre le moment où il lance son sort et le début du dernier tour de la cible, ce qui peut lui permettre de refaire un test de [[Diplomatie]], d'[[Intimidation]] ou de compétence opposé, mais seulement vis-à-vis de la cible, pas des autres créatures éventuellement présentes.
 
 ### Mythique
 {s:CMy}
 La cible oublie ce qui s’est passé pendant un round supplémentaire, et donc jusqu’au début de son avant-dernier tour.
 
-**Amplifié (3ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), il peut consacrer un round à implanter un souvenir factice dans la mémoire de la cible du sort. Ce souvenir se limite aux événements susceptibles de s’être déroulés pendant la période d’oubli, comme si le sort de [modification de mémoire](./Modification de mémoire.md) avait été utilisé, mais en se limitant à cette brève période de temps. Par exemple, le personnage ne pourrait pas implanter le souvenir d’une longue conversation, car celle-ci serait trop longue par rapport à la courte période d’oubli. La cible peut effectuer un test de [Volonté](./Volonté.md) ([DD](./DD.md) égal à celui du [trou de mémoire](./Trou de mémoire.md) mythique plus le [grade](./Grade.md) du personnage) pour résister à l’implantation du souvenir. Une réussite à ce jet signifie que le souvenir n’est pas implanté, mais la cible est toujours victime du [trou de mémoire](./Trou de mémoire.md) sur la période prévue.
+**Amplifié (3ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], il peut consacrer un round à implanter un souvenir factice dans la mémoire de la cible du sort. Ce souvenir se limite aux événements susceptibles de s’être déroulés pendant la période d’oubli, comme si le sort de [[modification de mémoire]] avait été utilisé, mais en se limitant à cette brève période de temps. Par exemple, le personnage ne pourrait pas implanter le souvenir d’une longue conversation, car celle-ci serait trop longue par rapport à la courte période d’oubli. La cible peut effectuer un test de [[Volonté]] ([[DD]] égal à celui du [[trou de mémoire]] mythique plus le [[grade]] du personnage) pour résister à l’implantation du souvenir. Une réussite à ce jet signifie que le souvenir n’est pas implanté, mais la cible est toujours victime du [[trou de mémoire]] sur la période prévue.

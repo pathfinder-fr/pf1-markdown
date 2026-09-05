@@ -13,25 +13,25 @@ Categories:
 {s:pucem|Extérieur|Ville|Tropical}
 {s:BDTexte|*Source : Bestiaire 5 p.13*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([élémentaire](./sous-type élémentaire.md), [natif](./sous-type natif.md), sous-type Terre|Terre]]) de taille P, N}
-{s:BDTexte|**Init** +5 ; **Sens** , [perception des vibrations](./Perception des vibrations.md)9 m, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type natif|natif]], sous-type Terre|Terre]]) de taille P, N}
+{s:BDTexte|**Init** +5 ; **Sens** , [[perception des vibrations]]9 m, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 12, pris au dépourvu 16 (Dex +1, naturelle +5, taille +1)}
 {s:BDTexte|**pv** 38 (4d10+16)}
 {s:BDTexte|**Réf** +5, **Vig** +8, **Vol** +2}
-{s:BDTexte|**Immunités** [traits des élémentaires](./sous-type élémentaire.md)}
+{s:BDTexte|**Immunités** [[sous-type Élémentaire|traits des élémentaires]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), mobilité structurelle}
 {s:BDTexte|**Corps à corps** 2 coups, +8 (1d6+3)}
 {s:BDTexte|**Distance** urne, +6 (1d4+3)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 2<sup>e</sup>) ; concentration +3)}
-{s:BDSorts|À volonté — *[ouverture/fermeture](./Ouverturefermeture.md)*, *[prestidigitation](./Prestidigitation.md)*}
-{s:BDSorts|1/jour — *[réparation intégrale](./Réparation intégrale.md)* (structure et équipement permanents liés à l’ahkhat seulement)}
+{s:BDSorts|À volonté — *[[Ouverturefermeture|ouverture/fermeture]]*, *[[prestidigitation]]*}
+{s:BDSorts|1/jour — *[[réparation intégrale]]* (structure et équipement permanents liés à l’ahkhat seulement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 13, **Con** 18, **Int** 8, **Sag** 12, **Cha** 13}
 {s:BDTexte|**BBA** +4, **BMO** +6, **DMD** 17}
-{s:BDTexte|**Dons** [Lancer improvisé](./Lancer improvisé.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (constructions en bois) +6, [Artisanat](./Artisanat.md) (constructions en pierre) +6, [Connaissances](./Connaissances.md) (ingénierie) +10, [Discrétion](./Discrétion.md) +12, [Perception](./Perception.md) +8 ; **Modificateurs raciaux** +4 en [Connaissances](./Connaissances.md) (ingénierie)}
+{s:BDTexte|**Dons** [[Lancer improvisé]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (constructions en bois) +6, [[Artisanat]] (constructions en pierre) +6, [[Connaissances]] (ingénierie) +10, [[Discrétion]] +12, [[Perception]] +8 ; **Modificateurs raciaux** +4 en [[Connaissances]] (ingénierie)}
 {s:BDTexte|**Langues** terreux}
 {s:BDTexte|**Particularités** corps intégré}
 {s:BDSousTitre|Écologie}
@@ -39,8 +39,8 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|** Corps intégré (Ext).** La forme corporelle d’un ahkhat provient de la structure qu’il occupe, en émergeant des murs, des sols et des plafonds. Un ahkhat ne peut pas se manifester à partir de zones brisées ou séparées de la surface de la bâtisse et peut uniquement se déplacer à l’intérieur des matériaux qui la composent. Un ahkhat occupe le même emplacement que la zone de la structure depuis laquelle il est actuellement en train de se manifester. Si, d’une façon ou d’une autre, un ahkhat est éloigné de 3 mètres ou plus de sa structure, il subit 1d8 points de dégâts. Au début de son prochain [tour](./tour.md), l’ahkhat retourne immédiatement vers l'emplacement le plus proche à l’intérieur de sa structure. Lorsqu’il ne se manifeste pas, un ahkhat ne peut pas être attaqué normale- ment, mais il est instantanément détruit si 75% de la bâtisse à laquelle il est lié est détruite. Si la clé de voûte d’un ahkhat est détruite, l’ahkhat est instantanément détruit.}
-{s:BDTexte|** Mobilité structurelle (Sur).** Un ahkhat peut se déplacer à travers les murs, les sols et les plafonds, quels que soient les matériaux dont ils sont composés, à l’exception du métal. Ce pouvoir est similaire à celui de nage dans la terre. L’ahkhat ne peut pas se déplacer à travers les sections en ruine ou trop endommagées d’une bâtisse, tant qu’elles ne sont pas restaurées. Si une zone contenant un ahkhat est la cible d’un sort de [passe-muraille](./Passe-muraille.md) ou d’un effet similaire, l’ahkhat subit 1d8 points de dégâts et il est immédiatement déplacé vers l’emplacement inoccupé le plus proche dans sa structure.}
+{s:BDTexte|** Corps intégré (Ext).** La forme corporelle d’un ahkhat provient de la structure qu’il occupe, en émergeant des murs, des sols et des plafonds. Un ahkhat ne peut pas se manifester à partir de zones brisées ou séparées de la surface de la bâtisse et peut uniquement se déplacer à l’intérieur des matériaux qui la composent. Un ahkhat occupe le même emplacement que la zone de la structure depuis laquelle il est actuellement en train de se manifester. Si, d’une façon ou d’une autre, un ahkhat est éloigné de 3 mètres ou plus de sa structure, il subit 1d8 points de dégâts. Au début de son prochain [[tour]], l’ahkhat retourne immédiatement vers l'emplacement le plus proche à l’intérieur de sa structure. Lorsqu’il ne se manifeste pas, un ahkhat ne peut pas être attaqué normale- ment, mais il est instantanément détruit si 75% de la bâtisse à laquelle il est lié est détruite. Si la clé de voûte d’un ahkhat est détruite, l’ahkhat est instantanément détruit.}
+{s:BDTexte|** Mobilité structurelle (Sur).** Un ahkhat peut se déplacer à travers les murs, les sols et les plafonds, quels que soient les matériaux dont ils sont composés, à l’exception du métal. Ce pouvoir est similaire à celui de nage dans la terre. L’ahkhat ne peut pas se déplacer à travers les sections en ruine ou trop endommagées d’une bâtisse, tant qu’elles ne sont pas restaurées. Si une zone contenant un ahkhat est la cible d’un sort de [[Passe-muraille]] ou d’un effet similaire, l’ahkhat subit 1d8 points de dégâts et il est immédiatement déplacé vers l’emplacement inoccupé le plus proche dans sa structure.}
 </div>
 </td><td><div>*Les matériaux utilisés pour construire la bâtisse s’étirent et se rétractent comme s’ils étaient élastiques, en prenant la forme d’un humanoïde de terre doté d’épais bras de pierre.*
 

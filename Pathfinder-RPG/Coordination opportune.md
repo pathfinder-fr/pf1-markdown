@@ -10,6 +10,6 @@ Categories:
 
 {s:cs}{s:UI}*Vous pouvez chronométrer précisément votre travail d'équipe.*
 
-**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONEQUIPE|équipe]]
 
-**Avantages.** Le personnage bénéficie d'un bonus de +1 aux [jets d'attaque](./jet dattaque.md) et aux tests de [compétence](./Compétences.md) effectués dans le cadre d'actions préparées déclenchées par l'un de ses alliés qui possède ce don. Lorsque lui ou un allié qui possède ce don tente de surmonter des obstacles simultanés séparés dans le cadre d'un [casse](./Casses.md) ou d'une [infiltration](./Casses, Infiltration.md), le personnage bénéficie également de ce bonus de +1 aux jets d'attaque et aux tests de compétence.
+**Avantages.** Le personnage bénéficie d'un bonus de +1 aux [[jet dattaque|jets d'attaque]] et aux tests de [[Compétences|compétence]] effectués dans le cadre d'actions préparées déclenchées par l'un de ses alliés qui possède ce don. Lorsque lui ou un allié qui possède ce don tente de surmonter des obstacles simultanés séparés dans le cadre d'un [[Casses|casse]] ou d'une [[Casses, Infiltration|infiltration]], le personnage bénéficie également de ce bonus de +1 aux jets d'attaque et aux tests de compétence.

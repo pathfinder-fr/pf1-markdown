@@ -17,7 +17,7 @@ Il est important de planter le décor d'un duel verbal pour que les PJs qui y pa
 Il est également important de déterminer si le duel verbal implique ou non un public qui peut être influencé. Par exemple, si le duel a lieu entre le capitaine de la garde et l'un des PJs, le PJ pourrait essayer d'inciter une foule à attaquer la tour d'un grand prêtre corrompu, tandis que le capitaine tente de convaincre la foule de se disperser. Les foules ont souvent leurs propres motivations et préférences, et certaines tactiques durant le duel auront un effet plus ou moins important sur ses membres, ce qui peut affecter les résultats. Déterminer la nature de l'attitude de ces foules et la façon de les influencer peut parfois conférer un puissant avantage.
 
 #### Évaluer un auditoire
-Un duelliste et n'importe lequel de ses alliés qui ont au moins 10 minutes pour interagir avec la foule avant le début d'un duel verbal peuvent tenter un test pour déterminer l'un des préjugés de l'auditoire (voir ci-dessous). Réussir un test de [Psychologie](./Psychologie.md) DD 15 permet au duelliste ou à l'un de ses alliés d'apprendre un ou plusieurs préjugés de la foule. Parfois, l'évaluation d'un auditoire peut avoir un DD plus élevé si le MJ estime que la foule est particulièrement silencieuse ou que ses préjugés sont autrement obscurcis. Une fois qu'un personnage a effectué un test de Psychologie pour évaluer les préjugés d'un auditoire, il ne peut pas refaire ce test, même s'il a plus de temps pour étudier l'auditoire.
+Un duelliste et n'importe lequel de ses alliés qui ont au moins 10 minutes pour interagir avec la foule avant le début d'un duel verbal peuvent tenter un test pour déterminer l'un des préjugés de l'auditoire (voir ci-dessous). Réussir un test de [[Psychologie]] DD 15 permet au duelliste ou à l'un de ses alliés d'apprendre un ou plusieurs préjugés de la foule. Parfois, l'évaluation d'un auditoire peut avoir un DD plus élevé si le MJ estime que la foule est particulièrement silencieuse ou que ses préjugés sont autrement obscurcis. Une fois qu'un personnage a effectué un test de Psychologie pour évaluer les préjugés d'un auditoire, il ne peut pas refaire ce test, même s'il a plus de temps pour étudier l'auditoire.
 
 #### Préjugés de l'auditoire
 Lorsqu'un duel verbal met en scène un auditoire qui peut être influencé, le MJ détermine les types de tactiques de duel que l'auditoire favorise ou défavorise. Si un public a un préjugé négatif envers une tactique particulière, les duellistes subissent un malus de -2 au test de compétence associé lorsqu'ils utilisent cette tactique. Si l'auditoire a un préjugé favorable envers une tactique, les duellistes bénéficient d'un bonus de +2 au test de compétence associé lorsqu'ils utilisent cette tactique. Certains auditoires peuvent avoir des préjugés encore plus forts, conférant des malus et des bonus allant de -5 à +5.
@@ -29,7 +29,7 @@ Le MJ est libre de créer les préjugés qu'il souhaite, mais chaque préjugé d
 #### Séduire un auditoire
 Une fois qu'il connaît un ou plusieurs des préjugés de la foule, un personnage peut tenter de séduire la foule et obtenir des avantages pour son parti du duel verbal. Un MJ peut décider que la séduction d'une foule spécifique est impossible ou très difficile. Par exemple, séduire un jury impartial dans une société légale peut être très difficile, et est probablement illégal ou même pratiquement impossible. Les auditoires qui peuvent être séduits permettent aux alliés de chaque duelliste de pousser le débat dans une direction avantageuse.
 
-Pour tenter de séduire un auditoire, un personnage doit passer au moins 10 minutes avec les membres de la foule avant le début du duel verbal, choisir un des préjugés de l'auditoire qu'il connaît, et réussir un test de [Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md) ou [Intimidation](./Intimidation.md) avec un DD d'au moins 15. Le MJ peut décider que le DD est plus élevé en raison du manque de familiarité de l'allié avec la foule ou d'autres facteurs - jusqu'au niveau du duelliste + 15 ou 20 pour les situations particulièrement difficiles.
+Pour tenter de séduire un auditoire, un personnage doit passer au moins 10 minutes avec les membres de la foule avant le début du duel verbal, choisir un des préjugés de l'auditoire qu'il connaît, et réussir un test de [[Bluff]], [[Diplomatie]] ou [[Intimidation]] avec un DD d'au moins 15. Le MJ peut décider que le DD est plus élevé en raison du manque de familiarité de l'allié avec la foule ou d'autres facteurs - jusqu'au niveau du duelliste + 15 ou 20 pour les situations particulièrement difficiles.
 
 Si le personnage a choisi d'alimenter un préjugé positif et qu'il réussit le test, le duelliste de son choix gagne une ¤indulgence¤ qui peut être dépensé lorsque ce duelliste utilise la tactique associée au préjugé positif pendant le duel verbal. Si le personnage échoue au test, il ne peut plus tenter de séduire le même auditoire. Si le personnage échoue au test de 5 ou plus, personne ne peut tenter d'alimenter à nouveau ce préjugé positif en faveur de son duelliste.
 
@@ -40,9 +40,9 @@ Les deux parties peuvent essayer de séduire l'auditoire avant le début du duel
 #### Indulgences
 Les indulgences sont gagnées soit en alimentant un préjugé, en utilisant une tactique de duel verbal, lorsqu'un adversaire décide de mettre fin à un échange, ou grâce à un autre effet. Un duelliste peut dépenser une indulgence pour relancer un test de compétence associé à une tactique de duel verbal. Parfois, l'utilisation d'une indulgence est limitée. Par exemple, les indulgences obtenues en alimentant des préjugés positifs ne peuvent être dépensées que pour utiliser la tactique associée à ce préjugé.
 
-**Gagner des indulgences grâce aux capacités modifiant les compétences.** Seuls les effets et les capacités qui modifient une valeur de caractéristique, qui modifient les rangs ou affectent spécifiquement une tactique s'appliquent directement au test de compétence associé dans les duels verbaux. Cependant, les effets qui augmentent le modificateur d'une compétence associée entière (pas seulement les utilisations circonstancielles de la compétence) accordent des indulgences à la place. Par exemple, le sort *[bagou](./Bagou.md)* ne s'ajoute pas au test de compétence associé et n'accorde pas d'indulgences parce qu'il n'accorde un bonus qu'à certaines utilisation de [Bluff](./Bluff.md), et n'augmente pas le modificateur général de la compétence.
+**Gagner des indulgences grâce aux capacités modifiant les compétences.** Seuls les effets et les capacités qui modifient une valeur de caractéristique, qui modifient les rangs ou affectent spécifiquement une tactique s'appliquent directement au test de compétence associé dans les duels verbaux. Cependant, les effets qui augmentent le modificateur d'une compétence associée entière (pas seulement les utilisations circonstancielles de la compétence) accordent des indulgences à la place. Par exemple, le sort *[[bagou]]* ne s'ajoute pas au test de compétence associé et n'accorde pas d'indulgences parce qu'il n'accorde un bonus qu'à certaines utilisation de [[Bluff]], et n'augmente pas le modificateur général de la compétence.
 
-Pour les sorts et effets qui s'appliquent à un duel verbal, comme un *[serre-tête de persuasion](./Serre-tête de persuasion.md)* ou le don [Talent](./Talent.md), au lieu des modificateurs normaux aux tests de compétence, ils accordent un nombre d'indulgences égal à un tier du bonus total qu'ils accorderaient autrement. Par exemple, un personnage avec Talent (Diplomatie) et 10 rangs dans cette compétence gagnera deux indulgences au lieu d'un bonus de +6. Faites le total de ces bonus avant de les diviser par 3. Toutes les indulgences obtenues de cette manière sont limitées à la tactique associée à la compétence.
+Pour les sorts et effets qui s'appliquent à un duel verbal, comme un *[[serre-tête de persuasion]]* ou le don [[Talent]], au lieu des modificateurs normaux aux tests de compétence, ils accordent un nombre d'indulgences égal à un tier du bonus total qu'ils accorderaient autrement. Par exemple, un personnage avec Talent (Diplomatie) et 10 rangs dans cette compétence gagnera deux indulgences au lieu d'un bonus de +6. Faites le total de ces bonus avant de les diviser par 3. Toutes les indulgences obtenues de cette manière sont limitées à la tactique associée à la compétence.
 
 Dans de nombreux cas, l'utilisation de la magie pour améliorer ses compétences en duel verbal est souvent considérée comme malvenue ou même illégale. Plus le duel verbal est officiel, plus il y a de chances que la magie soit limitée, voire interdite. C'est souvent particulièrement vrai au cours des duels dans un cadre légal.
 
@@ -58,7 +58,7 @@ Au début d'un duel verbal, chaque duelliste gagne une réserve de déterminatio
 L'une des principales façons d'ajuster la détermination est de considérer si l'un des personnages a un avantage ou un désavantage social. Bien que le MJ soit libre de déterminer les détails de l'avantage ou du désavantage social d'un personnage dans une situation donnée, les quatre catégories par défaut sont : avantage extrême, avantage significatif, désavantage significatif et désavantage extrême. Un personnage ayant un avantage extrême multiplie sa détermination par 2 et gagne 5 indulgences. Un personnage avec un avantage significatif multiplie sa détermination par 1,5 et gagne 3 indulgences. Un personnage avec un désavantage significatif multiplie sa détermination par 3/4. Enfin, un personnage au désavantage extrême multiplie sa détermination par 1/2 et perd 3 de ses indulgences de départ (minimum 0).
 
 #### Tactiques
-Les tactiques sont les armes du duel verbal. Au début de chaque duel, chaque duelliste peut associer ses compétences aux tactiques avec lesquelles elles sont compatibles. Un duelliste ne peut assigner une compétence donnée qu'à une seule tactique. Ainsi, si un duelliste associe Représentation (déclamation) à l'allégorie, il ne peut pas également l'associer à l'affect. Dans le cadre d'un duel verbal, un personnage calcule son bonus de compétence associé en additionnant ses rangs dans la compétence (y compris le bonus de +3 du au fait d'investir des rangs dans une compétence de classe) et son modificateur de Charisme (quelle que soit la compétence choisie, sauf s'il possède le don [Logique implacable](./Logique implacable.md)). Si elle possède d'autres modificateurs pour la compétence, ils lui confèrent des indulgences (voir ci-dessus). La capacité [versatilité artistique](./Barde.md#VERSATILITEARTISTIQUE) du barde permet à deux compétences d'utiliser le bonus d'une compétence Représentation, et un personnage doté de cette capacité peut assigner ces trois compétences à différentes tactiques, même s'il n'a techniquement que des rangs dans la compétence Représentation affectée.
+Les tactiques sont les armes du duel verbal. Au début de chaque duel, chaque duelliste peut associer ses compétences aux tactiques avec lesquelles elles sont compatibles. Un duelliste ne peut assigner une compétence donnée qu'à une seule tactique. Ainsi, si un duelliste associe Représentation (déclamation) à l'allégorie, il ne peut pas également l'associer à l'affect. Dans le cadre d'un duel verbal, un personnage calcule son bonus de compétence associé en additionnant ses rangs dans la compétence (y compris le bonus de +3 du au fait d'investir des rangs dans une compétence de classe) et son modificateur de Charisme (quelle que soit la compétence choisie, sauf s'il possède le don [[Logique implacable]]). Si elle possède d'autres modificateurs pour la compétence, ils lui confèrent des indulgences (voir ci-dessus). La capacité [[Barde#VERSATILITEARTISTIQUE|versatilité artistique]] du barde permet à deux compétences d'utiliser le bonus d'une compétence Représentation, et un personnage doté de cette capacité peut assigner ces trois compétences à différentes tactiques, même s'il n'a techniquement que des rangs dans la compétence Représentation affectée.
 
 <div style="float: right; margin-left: 10px; margin-right: -10px; max-width: 300px" class="presentation recentre">
 ##### Règle optionnelle : Jeu de rôle inspiré
@@ -75,7 +75,7 @@ Bien que tout le monde ne soit pas aussi doué pour les joutes verbales que ne l
 ##### Affect
 *Vous présentez un argument faisant appel aux désirs émotionnels de votre adversaire ou de votre auditoire. Cette tactique est particulièrement utile contre un adversaire ayant un avantage en termes de statut ou de connaissances ; faire monter les enjeux émotionnels peut être gratifiant, mais peut aussi être dangereux.*
 
-**Compétences associées.** [Bluff](./Bluff.md), [Psychologie](./Psychologie.md), [Représentation](./Représentation.md) (déclamation)
+**Compétences associées.** [[Bluff]], [[Psychologie]], [[Représentation]] (déclamation)
 
 **Interaction.** Le personnage bénéficie d'un bonus de +2 au test de compétence associé lorsqu'il utilise l'affect pour contrer l'assurance, la logique et la rhétorique.
 
@@ -84,7 +84,7 @@ Bien que tout le monde ne soit pas aussi doué pour les joutes verbales que ne l
 ##### Allégorie
 *Vous utilisez une fable ou une parabole comportant un message sous-jacent pour encadrer le débat. S'il est parfois difficile d'utiliser l'allégorie dans le feu de l'action, elle constitue une entrée en matière très efficace.*
 
-**Compétences associées.** [Connaissances](./Connaissances.md) (histoire), [Connaissances](./Connaissances.md) (religion), [Représentation](./Représentation.md) (déclamation), [Représentation](./Représentation.md) (scène)
+**Compétences associées.** [[Connaissances]] (histoire), [[Connaissances]] (religion), [[Représentation]] (déclamation), [[Représentation]] (scène)
 
 **Interaction.** Le personnage subit un malus de -2 au tests de compétence associés lorsqu'il utilise l'allégorie comme contre.
 
@@ -93,7 +93,7 @@ Bien que tout le monde ne soit pas aussi doué pour les joutes verbales que ne l
 ##### Assurance
 *Vous faites une démonstration de confiance ou de vraie noblesse ou vous vous donnez tout simplement des airs, et les affirmations de votre adversaire glissent et rebondissent contre lui, vous laissant indemne. Cette tactique fonctionne pour détourner la provocation et la dérision, mais elle est moins efficace contre les autres techniques.*
 
-**Compétences associées.** [Intimidation](./Intimidation.md), [Connaissances](./Connaissances.md) (noblesse)
+**Compétences associées.** [[Intimidation]], [[Connaissances]] (noblesse)
 
 **Interaction.** Le personnage bénéficie d'un bonus de +2 au test de compétence associé lorsqu'il utilise l'assurance pour contrer la provocation ou la dérision. Il subit un malus de -2 au test de compétence associé lorsqu'il utilise l'assurance pour contrer l'affect, l'allégorie ou la diversion.
 
@@ -102,7 +102,7 @@ Bien que tout le monde ne soit pas aussi doué pour les joutes verbales que ne l
 ##### Dérision
 *Vous utilisez les attaques personnelles, la médisance ou les insultes créatives pour rabaisser votre adversaire. La dérision fonctionne mieux lorsque vous tirez parti de l'utilisation par votre adversaire d'une tactique impopulaire.*
 
-**Compétences associées.** [Bluff](./Bluff.md), [Intimidation](./Intimidation.md), [Représentation](./Représentation.md) (farce)
+**Compétences associées.** [[Bluff]], [[Intimidation]], [[Représentation]] (farce)
 
 **Interaction.** Le personnage subit un malus de -2 au test de compétence associé lorsqu'il utilise la dérision pour contrer la logique ou l'esprit.
 
@@ -111,7 +111,7 @@ Bien que tout le monde ne soit pas aussi doué pour les joutes verbales que ne l
 ##### Diversion
 *Vous utilisez cette tactique pour détourner votre adversaire ou l'auditoire du cœur du débat, en évitant le danger de l'échange en cours. Bien qu'une diversion ne puisse pas être utilisée comme ouverture, elle peut être utilisée pour mettre rapidement fin à un échange qui devient trop dangereux pour être poursuivi.*
 
-**Compétences associées.** [Bluff](./Bluff.md), [Représentation](./Représentation.md) (déclamation)
+**Compétences associées.** [[Bluff]], [[Représentation]] (déclamation)
 
 **Spécial.** Le personnage ne peut pas utiliser la diversion comme ouverture. Lorsqu'il utilise la diversion comme contre, il peut choisir d'obtenir un bonus de +4 au test de compétence associé. S'il le fait et réussit, plutôt que de continuer à mener l'échange normalement, sa mise est réduite à 0 et le personnage gagne automatiquement l'échange. Contrairement aux règles habituelles, c'est le personnage qui ouvre l'échange suivant.
 </td><td width="2%">
@@ -119,14 +119,14 @@ Bien que tout le monde ne soit pas aussi doué pour les joutes verbales que ne l
 ##### Esprit
 *Vous utilisez l'humour ou l'ingéniosité pour prendre l'avantage sur votre adversaire, mais cette tactique peut se retourner contre vous si vos blagues et vos sarcasmes tombent à plat.*
 
-**Compétences associées.** [Linguistique](./Linguistique.md), [Représentation](./Représentation.md) (farce)
+**Compétences associées.** [[Linguistique]], [[Représentation]] (farce)
 
 **Spécial.** Lorsqu'il utilise l'esprit, le personnage peut choisir d'obtenir un bonus de +2 au test de compétence associé. S'il le fait et rate le test, il réduit sa détermination de 1. S'il rate de 5 ou plus, le personnage subit un malus de -2 au tests de compétence associés à l'esprit pour le reste du duel verbal.
 
 ##### Flatterie
 *Vous vous attirez les faveurs de votre adversaire, l'amenant à baisser sa garde ou à obtenir un autre avantage. Bien qu'elle soit généralement trompeuse et manipulatrice, cette tactique couvre également les actions des personnages qui sont véritablement sympathiques et amicaux.*
 
-**Compétences associées.** [Bluff](./Bluff.md), [Connaissances](./Connaissances.md) (noblesse), [Diplomatie](./Diplomatie.md)
+**Compétences associées.** [[Bluff]], [[Connaissances]] (noblesse), [[Diplomatie]]
 
 **Interaction.** Le personnage subit un malus de -2 au test de compétence associé lorsqu'il utilise la flatterie pour contrer la dérision. Il bénéficie d'un bonus de +2 au test de compétence associé lorsqu'il utilise la flatterie pour contrer l'assurance.
 
@@ -135,7 +135,7 @@ Bien que tout le monde ne soit pas aussi doué pour les joutes verbales que ne l
 ##### Logique
 *Lorsque vous utilisez la logique, vous présentez des faits, des chiffres et des témoignages d'experts. Bien que la logique puisse toujours être utilisée pour tromper votre adversaire ou l'auditoire, contrairement à la plupart des autres tactiques, elle nécessite toujours une solide compréhension du sujet pour y parvenir.*
 
-**Compétences associées.** [Connaissances](./Connaissances.md) (n'importe quelle pertinente) ; parfois, d'autres compétences s'appliqueront à la place, comme [Estimation](./Estimation.md) (pour un duel verbal impliquant le troc ou le marchandage) ou [Profession](./Profession.md) (pour un duel verbal impliquant la connaissance ou la pratique de l'ensemble des talents nécessaires à cette profession, comme Profession <nowiki>[avocat]</nowiki> pendant un procès)
+**Compétences associées.** [[Connaissances]] (n'importe quelle pertinente) ; parfois, d'autres compétences s'appliqueront à la place, comme [[Estimation]] (pour un duel verbal impliquant le troc ou le marchandage) ou [[Profession]] (pour un duel verbal impliquant la connaissance ou la pratique de l'ensemble des talents nécessaires à cette profession, comme Profession <nowiki>[[avocat]]</nowiki> pendant un procès)
 
 **Interaction.** Le personnage bénéficie d'un bonus de +2 au test de compétence associé lorsqu'il utilise la logique comme ouverture. Il subit un malus de -2 au test de compétence associé lorsqu'il utilise la logique pour contrer la provocation, l'affect, la dérision, la diversion ou l'esprit.
 
@@ -144,7 +144,7 @@ Bien que tout le monde ne soit pas aussi doué pour les joutes verbales que ne l
 ##### Provocation
 *Vous lancez des railleries et des sarcasmes, ou des fausses dichotomies, en attirant votre adversaire dans un piège. La provocation fonctionne mieux lorsque les enjeux sont déjà élevés, car dans ce cas, reculer peut être encore plus dommageable que de tomber dans votre piège.*
 
-**Compétences associées.** [Bluff](./Bluff.md), [Intimidation](./Intimidation.md), [Psychologie](./Psychologie.md), [Représentation](./Représentation.md) (farce)
+**Compétences associées.** [[Bluff]], [[Intimidation]], [[Psychologie]], [[Représentation]] (farce)
 
 **Interaction.** Un duelliste utilisant une autre tactique que l'assurance subit un malus de -2 au test de compétence associé lorsqu'il contre une provocation.
 
@@ -153,7 +153,7 @@ Bien que tout le monde ne soit pas aussi doué pour les joutes verbales que ne l
 ##### Rhétorique
 *Vous utilisez des tactiques de débat polyvalentes, en appliquant des procédés rhétoriques avantageux pour écraser les arguments de votre adversaire. La plupart des manœuvres verbales incluses dans cette tactique sont des dispositifs linguistiques simples et directs ; les paris de débat trompeurs sont souvent inclus dans d'autres tactiques telles que la provocation, l'affect, la dérision et la diversion. La rhétorique est une tactique polyvalente qui est exempt de certains des dangers des autres tactiques, mais qui n'offre pas non plus de récompenses significatives.*
 
-**Compétences associées.** [Diplomatie](./Diplomatie.md), [Linguistique](./Linguistique.md), [Représentation](./Représentation.md) (déclamation), [Représentation](./Représentation.md) (scène)
+**Compétences associées.** [[Diplomatie]], [[Linguistique]], [[Représentation]] (déclamation), [[Représentation]] (scène)
 
 **Spécial.** Étant donné que la rhétorique implique des choix de mots subtils que la plupart des auditoires ne remarquent pas consciemment, il est très rare qu'un auditoire ait un préjugé négatif envers la rhétorique.
 </td></tr></table>
@@ -191,9 +191,9 @@ Lem commence le duel en utilisant la logique, avec un résultat de 20 au test de
 
 Meligaster répond en visant la fierté et l'honneur des nobles par l'affect, augmentant la mise à 2 et redirigeant la conversation loin des faits avec une réussite à 28 (incluant le bonus du au fait de contrer la logique avec l'affect).
 
-Lem décide de poursuivre l'échange, augmentant la mise à 3. Il tente d'utiliser la rhétorique pour exposer la ruse de Meligaster, avec un résultat initial de 18 en raison d'un faible jet. Il utilise une indulgence qu'il a obtenue grâce à son *[serre-tête de persuasion](./Serre-tête de persuasion.md)* pour relancer le dé et obtient 30, juste assez pour contrer Meligaster.
+Lem décide de poursuivre l'échange, augmentant la mise à 3. Il tente d'utiliser la rhétorique pour exposer la ruse de Meligaster, avec un résultat initial de 18 en raison d'un faible jet. Il utilise une indulgence qu'il a obtenue grâce à son *[[serre-tête de persuasion]]* pour relancer le dé et obtient 30, juste assez pour contrer Meligaster.
 
-Meligaster sait que 30 sera difficile à battre. Il décide de faire monter la mise à 4 et utilise la flatterie comme tactique, chantant obséquieusement les louanges des nobles. Les nobles ont des préjugés positifs envers cette tactique, il a alimenté ce préjugé pour obtenir une indulgence, et il a choisi d'associer la flatterie avec [Bluff](./Bluff.md), gagnant un avantage supplémentaire grâce à sa capacité de classe [menteur accompli](./Hypnotiseur.md#MENTEURACCOMPLI). Meligaster doit utiliser ses deux indulgences pour relancer deux fois, mais son troisième jet est un 20 naturel, pour un résultat de 36, il contre donc Lem.
+Meligaster sait que 30 sera difficile à battre. Il décide de faire monter la mise à 4 et utilise la flatterie comme tactique, chantant obséquieusement les louanges des nobles. Les nobles ont des préjugés positifs envers cette tactique, il a alimenté ce préjugé pour obtenir une indulgence, et il a choisi d'associer la flatterie avec [[Bluff]], gagnant un avantage supplémentaire grâce à sa capacité de classe [[Hypnotiseur#MENTEURACCOMPLI|menteur accompli]]. Meligaster doit utiliser ses deux indulgences pour relancer deux fois, mais son troisième jet est un 20 naturel, pour un résultat de 36, il contre donc Lem.
 
 Lem se rend compte qu'il aurait du mal à battre ce résultat, il sait donc qu'il est sur le point de perdre l'échange. Il doit choisir comment le perdre, cependant. Parce que Meligaster a utilisé la flatterie, lorsque Lem perd, la mise diminue de 2 et Meligaster gagne une indulgence. Cela signifie que Lem doit décider s'il doit simplement mettre fin à l'échange, donnant à Meligaster un total de 2 avantages et perdant 2 déterminations, ou augmenter la mise à 5 et effectuer un test de compétence, perdant 3 déterminations s'il échoue (à cause de la flatterie de son frère), mais permettant à Meligaster de gagner seulement 1 avantage. En fin de compte, comme Lem n'a que 8 déterminations, il ne peut pas risquer d'en perdre 3 d'un coup, donc à sa grande consternation, il cède l'échange à Meligaster.
 

@@ -11,35 +11,35 @@ Categories:
 <div class="BD">
 {s:BDTitre|Psychémentaire|FP 8}
 {s:pucem|Extérieur|Ville|Extraplanaire}
-{s:BDTexte|*Source : [Bestiaire 5 p.211](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.211]]*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [intangible](./sous-type intangible.md)) de taille P, N}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [perception des pensées](./Perception des pensées (capacité).md) à 18 m ; [Perception](./Perception.md) +18}
-{s:BDTexte|**Aura** [intellect statique](./Aura dintellect statique (capacité).md) (9 m, DD 18)}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type intangible|intangible]]) de taille P, N}
+{s:BDTexte|**Init** +8 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Perception des pensées (capacité)|perception des pensées]] à 18 m ; [[Perception]] +18}
+{s:BDTexte|**Aura** [[Aura dintellect statique (capacité)|intellect statique]] (9 m, DD 18)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 19, pris au dépourvu 14 (Dex +4, esquive +1, parade +3, taille +1)}
 {s:BDTexte|**pv** 82 (11d10+22)}
 {s:BDTexte|**Réf** +11, **Vig** +7, **Vol** +11}
-{s:BDTexte|**Capacités défensives** [intangible](./Intangible (capacité).md) ; **RM** 19}
+{s:BDTexte|**Capacités défensives** [[Intangible (capacité)|intangible]] ; **RM** 19}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** [vol](./Vol (capacité).md) 18 m (parfaite)}
+{s:BDTexte|**VD** [[Vol (capacité)|vol]] 18 m (parfaite)}
 {s:BDTexte|**Corps à corps** contact intangible, +16 (effacement de l’esprit)}
 {s:BDTexte|**Attaques spéciales** effacement de groupe (DD 19), effacement de l’esprit (DD 18)}
-{s:BDTexte|**Magie psychique** ([NLS](./NLS.md) 8 ; [concentration](./concentration.md) +11)}
-{s:BDSorts|20 EP — *[blocage cognitif](./Blocage cognitif.md)* (3 EP, DD 16) , *[bouclier des pensées III](./Bouclier des pensées III.md)* (4 EP, DD 17), *[coup mental III](./Coup mental III.md)* (3 EP, DD 16), *[fouet d’ego III](./Fouet dego III.md)* (3 EP, DD 16), *[possession](./Possession.md)* (5 EP, DD 18), *[pulsation synaptique](./Pulsation synaptique.md)* (3 EP, DD 16), *[sonde mentale](./Sonde mentale.md)* (4 EP, DD 17)}
+{s:BDTexte|**Magie psychique** ([[NLS]] 8 ; [[concentration]] +11)}
+{s:BDSorts|20 EP — *[[blocage cognitif]]* (3 EP, DD 16) , *[[bouclier des pensées III]]* (4 EP, DD 17), *[[coup mental III]]* (3 EP, DD 16), *[[fouet dego III|fouet d’ego III]]* (3 EP, DD 16), *[[possession]]* (5 EP, DD 18), *[[pulsation synaptique]]* (3 EP, DD 16), *[[sonde mentale]]* (4 EP, DD 17)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** —, **Dex** 19, **Con** 14, **Int** 15, **Sag** 18, **Cha** 17}
 {s:BDTexte|**BBA** +11 ; **BMO** +14 ; **DMD** 28}
-{s:BDTexte|**Dons** [Attaque éclair](./Attaque éclair.md), [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Science de l'initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +17, [Connaissances](./Connaissances.md) (mystères, plans, religion) +16, [Diplomatie](./Diplomatie.md) +17, [Discrétion](./Discrétion.md) +8, [Intimidation](./Intimidation.md) +17, [Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +18, [Vol](./Vol.md) +14}
-{s:BDTexte|**Langues** [télépathie](./Télépathie (capacité).md) 30 m}
+{s:BDTexte|**Dons** [[Attaque éclair]], [[Esquive]], [[Magie de guerre]], [[Science de linitiative|Science de l'initiative]], [[Souplesse du serpent]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Bluff]] +17, [[Connaissances]] (mystères, plans, religion) +16, [[Diplomatie]] +17, [[Discrétion]] +8, [[Intimidation]] +17, [[Perception]] +18, [[Psychologie]] +18, [[Vol]] +14}
+{s:BDTexte|**Langues** [[Télépathie (capacité)|télépathie]] 30 m}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (plan Astral)}
 {s:BDTexte|**Organisation** solitaire, paire ou quorum (3-6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Effacement de l’esprit (Sur).** Un psychémentaire peut effacer une partie de l’esprit et de l’expérience d’une créature qu’il touche, comme si cette créature était sujette aux effets du sort *[effacement de l’esprit](./Effacement de lesprit.md)* ([NLS](./NLS.md) 11, [Volonté](./Volonté.md) DD 18 annule). Chaque fois qu’il utilise ce pouvoir avec succès, le psychémentaire récupère 10 points de vie. Si le nombre de points de vie qu’il gagne ainsi dépasse son maximum, ceux-ci sont considérés comme des [points de vie temporaires](./points de vie temporaires.md) pendant 1 heure. Cependant, ces points de vie temporaires ne se cumulent pas. Le DD du jet de sauvegarde est basé sur le Charisme.}
-{s:BDTexte|**Effacement de groupe (Sur).** Par une [action complexe](./Action complexe.md), un psychémentaire peut utiliser tout son mouvement et attaquer toutes les créatures dont il traverse l’espace grâce à son pouvoir effacement de l’esprit. Une cible peut porter une [attaque d’opportunité](./AO.md) contre le psychémentaire ou abandonner cette option pour tenter à la place un jet de [Réflexes](./Réflexes.md) DD 19 afin d’échapper au psychémentaire. Un psychémentaire ne peut avoir d’effet sur chaque cible qu’une seule fois par round, peu importe le nombre de fois qu’il traverse l’espace occupé par une créature durant son mouvement, et il ne peut pas terminer son mouvement à l’intérieur d’une créature. Le DD du jet de sauvegarde est basé sur la Dextérité.}
+{s:BDTexte|**Effacement de l’esprit (Sur).** Un psychémentaire peut effacer une partie de l’esprit et de l’expérience d’une créature qu’il touche, comme si cette créature était sujette aux effets du sort *[[effacement de lesprit|effacement de l’esprit]]* ([[NLS]] 11, [[Volonté]] DD 18 annule). Chaque fois qu’il utilise ce pouvoir avec succès, le psychémentaire récupère 10 points de vie. Si le nombre de points de vie qu’il gagne ainsi dépasse son maximum, ceux-ci sont considérés comme des [[points de vie temporaires]] pendant 1 heure. Cependant, ces points de vie temporaires ne se cumulent pas. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|**Effacement de groupe (Sur).** Par une [[action complexe]], un psychémentaire peut utiliser tout son mouvement et attaquer toutes les créatures dont il traverse l’espace grâce à son pouvoir effacement de l’esprit. Une cible peut porter une [[AO|attaque d’opportunité]] contre le psychémentaire ou abandonner cette option pour tenter à la place un jet de [[Réflexes]] DD 19 afin d’échapper au psychémentaire. Un psychémentaire ne peut avoir d’effet sur chaque cible qu’une seule fois par round, peu importe le nombre de fois qu’il traverse l’espace occupé par une créature durant son mouvement, et il ne peut pas terminer son mouvement à l’intérieur d’une créature. Le DD du jet de sauvegarde est basé sur la Dextérité.}
 
 </div></td>
 <td><div>*Ce champ intangible est animé de couleurs et de formes chatoyantes et changeantes qui prennent parfois la forme d’images ou de reflets déformés.*

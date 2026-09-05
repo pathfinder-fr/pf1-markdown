@@ -13,18 +13,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 4, [Sor](./Sorcière.md) 4, [Spi](./Spirite.md) 4  
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) / (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) / (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T) voir texte  
+**Durée** 1 [[round]]/[[niveau]] (T) voir texte  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-La cible est entourée d’une aura verdâtre qui indique un sinistre destin. À chaque fois qu’elle fait un jet d’attaque ou qu’elle lance un sort, elle doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) = 10 + 1/2 [niveau de lanceur de sorts](./NLS.md) + [Charisme](./Charisme.md) (pour les [oracles](./Oracle.md)), ou [Intelligence](./Intelligence.md) (pour les [sorcières](./Sorcière.md)), ou [Sagesse](./Sagesse.md) (pour les [prêtres](./Prêtre.md)). Si elle rate son [jet de sauvegarde](./jet de sauvegarde.md), l’attaque ou le sort inflige seulement la moitié des dégâts. Le personnage peut dissiper ce sort par une [action immédiate](./Action immédiate.md) si la cible réussit un [coup critique](./coup critique.md) : la dissipation transforme le critique en coup normal. L’attaque touche mais elle inflige seulement la moitié des dégâts.
+La cible est entourée d’une aura verdâtre qui indique un sinistre destin. À chaque fois qu’elle fait un jet d’attaque ou qu’elle lance un sort, elle doit réussir un jet de [[Volonté]] [[DD]] = 10 + 1/2 [[NLS|niveau de lanceur de sorts]] + [[Charisme]] (pour les [[oracle|oracles]]), ou [[Intelligence]] (pour les [[sorcière|sorcières]]), ou [[Sagesse]] (pour les [[prêtre|prêtres]]). Si elle rate son [[jet de sauvegarde]], l’attaque ou le sort inflige seulement la moitié des dégâts. Le personnage peut dissiper ce sort par une [[action immédiate]] si la cible réussit un [[coup critique]] : la dissipation transforme le critique en coup normal. L’attaque touche mais elle inflige seulement la moitié des dégâts.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#CREATION
 ---
 
->>> [Présentation des sorts#CREATION](./Présentation des sorts.md#CREATION)
+>>> [[Présentation des sorts#CREATION]]

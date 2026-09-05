@@ -12,14 +12,14 @@ Categories:
 {s:Menuarchétypeoracle}{s:mca}*À force d’explorer les mystères de l’univers, un guide spirituel se connecte au monde des esprits et noue des liens avec les entités qui l’habitent.*
 
 #### Compétences de classe
-Toutes les compétences de [Connaissances](./Connaissances.md) sont des compétences de classe pour le guide spirituel. Ceci remplace les compétences de classes supplémentaires obtenues par le biais du mystère d’oracle.
+Toutes les compétences de [[Connaissances]] sont des compétences de classe pour le guide spirituel. Ceci remplace les compétences de classes supplémentaires obtenues par le biais du mystère d’oracle.
 
 #### Esprit lié (Sur)
-{s:FAQ|***[→](./FAQ- Manuel des joueurs - Classes avancées.md#8) Oracle guide spirituel : Que se passe-t-il si un oracle guide spirituel obtient le maléfice illumination profane, qui ajoute des sorts « à sa liste de sorts de chaman » ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs - Classes avancées#8|→]] Oracle guide spirituel : Que se passe-t-il si un oracle guide spirituel obtient le maléfice illumination profane, qui ajoute des sorts « à sa liste de sorts de chaman » ?***
 
-Un <u>[oracle](./Guide spirituel (oracle).md)</u> ne prépare pas de sorts, donc ce maléfice n'est pas utile pour lui.}Au niveau 3, un guide spirituel peut nouer un lien temporaire avec un esprit, comme avec l’aptitude de classe [esprit errant](./Chaman.md#ESPRITERRANT) du [chaman](./Chaman.md). Il doit faire ce choix chaque jour au moment où il récupère ses sorts. Un guide spirituel ne peut pas se lier à un esprit incompatible avec son alignement, sa philosophie ou son mystère (à l’appréciation du MJ).
+Un <u>[[Guide spirituel (oracle)|oracle]]</u> ne prépare pas de sorts, donc ce maléfice n'est pas utile pour lui.}Au niveau 3, un guide spirituel peut nouer un lien temporaire avec un esprit, comme avec l’aptitude de classe [[Chaman#ESPRITERRANT|esprit errant]] du [[chaman]]. Il doit faire ce choix chaque jour au moment où il récupère ses sorts. Un guide spirituel ne peut pas se lier à un esprit incompatible avec son alignement, sa philosophie ou son mystère (à l’appréciation du MJ).
 
-Un guide spirituel gagne un maléfice qu’il choisit parmi ceux de la liste des maléfices conférés par cet esprit. Il remplace le niveau de chaman par son niveau d’oracle et il échange son modificateur de [Sagesse](./Sagesse.md) par son modificateur de [Charisme](./Charisme.md) et inversement pour déterminer les effets du maléfice.
+Un guide spirituel gagne un maléfice qu’il choisit parmi ceux de la liste des maléfices conférés par cet esprit. Il remplace le niveau de chaman par son niveau d’oracle et il échange son modificateur de [[Sagesse]] par son modificateur de [[Charisme]] et inversement pour déterminer les effets du maléfice.
 
 Au niveau 4, il ajoute les sorts de magie des esprits de l’esprit lié à sa liste de sorts d’oracle connus pour la journée en cours, mais uniquement les sorts dont le niveau est inférieur ou égal à celui des sorts qu’il peut lancer.
 

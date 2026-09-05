@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 15.000 po ; **Passage (1,5 km)** 1 pa
-<span class="Catégorie">**Catégorie** [Moyens de transport](./Moyens de transport.md)</span>
+<span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
 ---
 Ce navire à fond plat est équipé de deux ou trois mâts avec des voiles de jonques, ce qui permet à un petit équipage de le manoeuvrer facilement. La jonque a un haut pont de dunette et n’a pas de quille.

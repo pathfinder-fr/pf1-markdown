@@ -23,6 +23,6 @@ LastModified: 2017-05-04 15:01
 </div>
 </td><td><div>
 
-Voir aussi l'exemple [capitaine de la garde rejeton de la cosse](./capitaine de la garde rejeton de la cosse.md).
+Voir aussi l'exemple [[capitaine de la garde rejeton de la cosse]].
 
 </div></td></tr></table>

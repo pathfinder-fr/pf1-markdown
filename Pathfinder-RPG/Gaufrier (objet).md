@@ -8,8 +8,8 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po (standard), 2.501 po (en mithral) ; **Poids** 2,5 kg (standard), 1,25 kg (en mithral)
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ces deux plaques en métal articulées sont ornées de clous afin de donner plus de texture aux pâtisseries que le personnage fait avec. Le personnage verse la pâte sur les plaques, les referme et les place sur un feu ou un [réchaud](./Réchaud (objet).md) pour la faire cuire. Les plaques de certains gaufriers marquent les gaufres d'armoiries de nobles, d'un symbole religieux ou d'un drapeau national.   
+Ces deux plaques en métal articulées sont ornées de clous afin de donner plus de texture aux pâtisseries que le personnage fait avec. Le personnage verse la pâte sur les plaques, les referme et les place sur un feu ou un [[Réchaud (objet)|réchaud]] pour la faire cuire. Les plaques de certains gaufriers marquent les gaufres d'armoiries de nobles, d'un symbole religieux ou d'un drapeau national.   
   
 *Gaufrier en mithral.* Les gaufriers en mithral ont presque toujours un insigne spécifique plutôt que le motif générique des gaufres. Comme pour les autres équipements de cuisine en mithral, ils attachent rarement à la cuisson.

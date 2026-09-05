@@ -11,8 +11,8 @@ LastModified: 2021-03-21 20:59
 {s:BDTexte|<i>Source : Bestiaire 4 p.275</i>}
 {s:BDTexte|<b>PX</b> 600}
 {s:BDTexte|Trox barbare 1 (sans rage)}
-{s:BDTexte|<a> [Humanoïde monstrueux](./type Humanoïde monstrueux.md)</a> de taille G, CN</a>}
-{s:BDTexte|<b>Init</b> +1 ; <b>Sens</b> [vision dans le noir](./vision dans le noir.md) (18 m) ; <a> [Perception](./Perception.md)</a> +0}
+{s:BDTexte|<a> [[type Humanoïde monstrueux|Humanoïde monstrueux]]</a> de taille G, CN</a>}
+{s:BDTexte|<b>Init</b> +1 ; <b>Sens</b> [[vision dans le noir]] (18 m) ; <a> [[Perception]]</a> +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 12, contact 10, pris au dépourvu 11 (armure +2, Dex +1, taille -1)}
 {s:BDTexte|<b>pv</b> 15}
@@ -25,8 +25,8 @@ LastModified: 2021-03-21 20:59
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 21, <b>Dex</b> 13, <b>Con</b> 14, <b>Int</b> 8, <b>Sag</b> 10, <b>Cha</b> 6}
 {s:BDTexte|<b>BBA</b> +1, <b>BMO</b> +7 (+9 en lutte), <b>DMD</b> 18 (20 en situation de lutte)}
-{s:BDTexte|<b>Dons</b> [Attaque en puissance](./Attaque en puissance.md), [Science de la lutte](./Science de la lutte.md)}
-{s:BDTexte|<b>Compétences</b> [Escalade](./Escalade.md) +9, [Intimidation](./Intimidation.md) +2, [Survie](./Survie.md) +4}
+{s:BDTexte|<b>Dons</b> [[Attaque en puissance]], [[Science de la lutte]]}
+{s:BDTexte|<b>Compétences</b> [[Escalade]] +9, [[Intimidation]] +2, [[Survie]] +4}
 {s:BDTexte|<b>Langues</b> terreux}
 {s:BDTexte|<b>Particularités</b> déplacement accéléré, appendices attrapeurs}
 {s:BDSousTitre|Écologie}
@@ -34,7 +34,7 @@ LastModified: 2021-03-21 20:59
 {s:BDTexte|<b>Organisation</b> solitaire, groupe (2-8) ou clan (9-20)}
 {s:BDTexte|<b>Trésor</b> équipement de PNJ (armure de cuir, marteau de guerre, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|<b>Appendices attrapeurs (Ext).</b> Les petits bras d’un trox ne sont guère utiles en dehors des situations de lutte. Un trox gagne le don [Science de la lutte](./Science de la lutte.md) en bonus supplémentaire et peut maintenir sa prise tout en continuant à attaquer avec ses bras principaux.}
+{s:BDTexte|<b>Appendices attrapeurs (Ext).</b> Les petits bras d’un trox ne sont guère utiles en dehors des situations de lutte. Un trox gagne le don [[Science de la lutte]] en bonus supplémentaire et peut maintenir sa prise tout en continuant à attaquer avec ses bras principaux.}
 {s:BDTexte|<b>Frénétique (Ext).</b> Un trox devient frénétique une fois par jour s’il subit des dégâts. Cette frénésie dure une minute et lui confère un bonus racial de +2 aux valeurs de Force et de Constitution, mais un malus de -2 à la CA.}
 </div>
 
@@ -45,8 +45,8 @@ LastModified: 2021-03-21 20:59
 {s:BDTexte|<i>Source : Bestiaire 4 p.275</i>}
 {s:BDTexte|<b>PX</b> 600}
 {s:BDTexte|Trox barbare 1 (avec rage)}
-{s:BDTexte|<a>[Humanoïde monstrueux](./type Humanoïde monstrueux.md)</a> de taille G, CN</a>}
-{s:BDTexte|<b>Init</b> +1 ; <b>Sens</b> [vision dans le noir](./vision dans le noir.md) (18 m) ; <a> [Perception](./Perception.md)</a> +0}
+{s:BDTexte|<a>[[type Humanoïde monstrueux|Humanoïde monstrueux]]</a> de taille G, CN</a>}
+{s:BDTexte|<b>Init</b> +1 ; <b>Sens</b> [[vision dans le noir]] (18 m) ; <a> [[Perception]]</a> +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 10, contact 8, pris au dépourvu 9 (armure +2, Dex +1, rage -2, taille -1)}
 {s:BDTexte|<b>pv</b> 17 (1d12+5)}
@@ -59,8 +59,8 @@ LastModified: 2021-03-21 20:59
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 25, <b>Dex</b> 13, <b>Con</b> 18, <b>Int</b> 8, <b>Sag</b> 10, <b>Cha</b> 6}
 {s:BDTexte|<b>BBA</b> +1, <b>BMO</b> +9 (+11 en lutte), <b>DMD</b> 18 (20 en situation de lutte)}
-{s:BDTexte|<b>Dons</b> [Attaque en puissance](./Attaque en puissance.md), [Science de la lutte](./Science de la lutte.md)}
-{s:BDTexte|<b>Compétences</b> [Escalade](./Escalade.md) +11, [Intimidation](./Intimidation.md) +2, [Survie](./Survie.md) +4}
+{s:BDTexte|<b>Dons</b> [[Attaque en puissance]], [[Science de la lutte]]}
+{s:BDTexte|<b>Compétences</b> [[Escalade]] +11, [[Intimidation]] +2, [[Survie]] +4}
 {s:BDTexte|<b>Langues</b> terreux}
 {s:BDTexte|<b>Particularités</b> déplacement accéléré, appendices attrapeurs}
 {s:BDSousTitre|Écologie}
@@ -68,7 +68,7 @@ LastModified: 2021-03-21 20:59
 {s:BDTexte|<b>Organisation</b> solitaire, groupe (2-8) ou clan (9-20)}
 {s:BDTexte|<b>Trésor</b> équipement de PNJ (armure de cuir, marteau de guerre, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|<b>Appendices attrapeurs (Ext).</b> Les petits bras d’un trox ne sont guère utiles en dehors des situations de lutte. Un trox gagne le don [Science de la lutte](./Science de la lutte.md) en bonus supplémentaire et peut maintenir sa prise tout en continuant à attaquer avec ses bras principaux.}
+{s:BDTexte|<b>Appendices attrapeurs (Ext).</b> Les petits bras d’un trox ne sont guère utiles en dehors des situations de lutte. Un trox gagne le don [[Science de la lutte]] en bonus supplémentaire et peut maintenir sa prise tout en continuant à attaquer avec ses bras principaux.}
 {s:BDTexte|<b>Frénétique (Ext).</b> Un trox devient frénétique une fois par jour s’il subit des dégâts. Cette frénésie dure une minute et lui confère un bonus racial de +2 aux valeurs de Force et de Constitution, mais un malus de -2 à la CA.}
 </div>
 

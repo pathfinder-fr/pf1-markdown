@@ -14,24 +14,24 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.251*}
 {s:BDTexte|**PX** 12.800}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 11, pris au dépourvu 26 (Dex +2, naturelle +17, taille -1)}
 {s:BDTexte|**pv** 107 (14d10+30)}
 {s:BDTexte|**Réf** +6, **Vig** +4, **Vol** +6}
-{s:BDTexte|**Immunités** [traits des créatures artificielles](./Traits des créatures artificielles.md) ; **RD** 10/adamantium ;
+{s:BDTexte|**Immunités** [[traits des créatures artificielles]] ; **RD** 10/adamantium ;
 **Résistance** acide 10, froid 10, électricité 10, feu 10 }
 {s:BDTexte| **Faiblesse** vulnérabilité au son }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +23 (1d8+10 plus [étreinte](./Étreinte.md)) et 2 griffes, +23 (1d6+10 plus [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure, +23 (1d8+10 plus [[étreinte]]) et 2 griffes, +23 (1d6+10 plus [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1.5 m (1 {s:c})}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond.md), [pattes arrière](./Pattes arrière.md) (2 griffes, +23 1d6+10),
+{s:BDTexte|**Attaques spéciales** [[bond]], [[pattes arrière]] (2 griffes, +23 1d6+10),
 engloutissement (suffocation, CA 18, solidité 8, 25 pv)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 30, **Dex** 15, **Con** -, **Int** -, **Sag** 14, **Cha** 1}
-{s:BDTexte|**BBA** +14, **BMO** +25 (+29 [lutte](./lutte.md)), **DMD** 37 (41 contre le [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**BBA** +14, **BMO** +25 (+29 [[lutte]]), **DMD** 37 (41 contre le [[croc-en-jambe]])}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
@@ -43,8 +43,8 @@ est engloutie, la victime est transportée jusqu’à une poche
 dimensionnelle personnelle sans lumière : une prison de pierre
 juste assez grande pour la contenir. Les créatures ne reçoivent
 pas de dégâts au sein de cette poche dimensionnelle mais elle
-renferme assez d’air pour 3 [round](./round.md)s
-seulement. À la fin du troisième [round](./round.md),
+renferme assez d’air pour 3 [[round]]s
+seulement. À la fin du troisième [[round]],
 la créature piégée doit retenir son
 souffle ou risquer la suffocation.
 Une créature qui tente de s’échapper de
@@ -90,6 +90,6 @@ La construction d’un taotieh requiert 6 tonnes de marbre
 traité avec des onguents et des produits chimiques spéciaux.
 **NLS** 14<sup>e</sup> ; **Prix** 105 000 po
 
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[mission](./Mission.md)*, *[souhait limité](./Souhait limité.md)*,
-*[changement de plan](./Changement de plan.md)*,  le créateur doit avoir un niveau de lanceur de sorts minimum de 14 ; **Compétence** [Artisanat](./Artisanat.md) (sculpture) ou [Artisanat](./Artisanat.md) (constructions en pierre) [DD](./DD.md) 25 ; **Coût** 55 000 po
+**Conditions** [[Création de créatures artificielles]], *[[mission]]*, *[[souhait limité]]*,
+*[[changement de plan]]*,  le créateur doit avoir un niveau de lanceur de sorts minimum de 14 ; **Compétence** [[Artisanat]] (sculpture) ou [[Artisanat]] (constructions en pierre) [[DD]] 25 ; **Coût** 55 000 po
 </div></td></tr></table>

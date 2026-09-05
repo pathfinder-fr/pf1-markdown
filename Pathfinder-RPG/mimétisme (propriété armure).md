@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Mimétisme
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Mimétisme](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Mimétisme)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Mimétisme]]

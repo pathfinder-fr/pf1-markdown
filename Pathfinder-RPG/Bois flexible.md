@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#BOISFLEXIBLE
 ---
 
->>> [Matériaux spéciaux#BOISFLEXIBLE](./Matériaux spéciaux.md#BOISFLEXIBLE)
+>>> [[Matériaux spéciaux#BOISFLEXIBLE]]

@@ -20,20 +20,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Divination](./école divination.md) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Alch](./Alchimiste.md) 3, [Bard](./Barde.md) 3, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Hyp](./Hypnotiseur.md) 3, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 3  
+**École** [[école divination|Divination]] <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ;** Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Médium|Méd]] 2, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une poignée de pièces de cuivre)  
+**Composantes** [[Composantes|V, G, M]] (une poignée de pièces de cuivre)  
 
 **Portée** 12 m (8 {s:c})  
 
 **Cible** émanation de 12 m (8 {s:c}) de rayon centrée sur le lanceur de sorts  
 
-**Durée** [concentration](./Présentation des sorts.md#DUREE) jusqu'à 1 minute/[niveau](./niveau.md)  
+**Durée** [[Présentation des sorts#DUREE|concentration]] jusqu'à 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** non
 
-Comme la *[détection de pensées](./Détection de pensées.md)*, la *recherche de pensées* permet d'effleurer celles de ceux qui entourent le personnage. Il peut les parcourir à la recherche d'une réponse à une question simple (comme « Où se trouve l'antre caché des rats-garous ? ») ou d'une information sur un sujet général (comme les croyances d'un culte maléfique). Il détecte le nombre de créatures situées à portée qui pensent à cette question ou à ce sujet, ainsi que leur emplacement si elles sont visibles. La *recherche de pensées* ne permet pas réellement de lire dans les pensées, juste de savoir ce que pense une créature à propos du sujet sur lequel le personnage se concentre, à condition qu'elle soit également en train d'y réfléchir. Un jet de [Volonté](./Volonté.md) réussi empêche le personnage de sonder les pensées de la créature pendant la durée du sort.
+Comme la *[[détection de pensées]]*, la *recherche de pensées* permet d'effleurer celles de ceux qui entourent le personnage. Il peut les parcourir à la recherche d'une réponse à une question simple (comme « Où se trouve l'antre caché des rats-garous ? ») ou d'une information sur un sujet général (comme les croyances d'un culte maléfique). Il détecte le nombre de créatures situées à portée qui pensent à cette question ou à ce sujet, ainsi que leur emplacement si elles sont visibles. La *recherche de pensées* ne permet pas réellement de lire dans les pensées, juste de savoir ce que pense une créature à propos du sujet sur lequel le personnage se concentre, à condition qu'elle soit également en train d'y réfléchir. Un jet de [[Volonté]] réussi empêche le personnage de sonder les pensées de la créature pendant la durée du sort.
 
-Le personnage peut continuer à se concentrer sur la *recherche de pensées* alors qu'il mène une conversation ordinaire, ce qui lui permet de poser des questions capitales sur les sujets qui l'intéressent. Une créature qui discute avec lui remarque qu'il est distrait si elle réussit un test de [Psychologie](./Psychologie.md) [DD](./DD.md) 25.
+Le personnage peut continuer à se concentrer sur la *recherche de pensées* alors qu'il mène une conversation ordinaire, ce qui lui permet de poser des questions capitales sur les sujets qui l'intéressent. Une créature qui discute avec lui remarque qu'il est distrait si elle réussit un test de [[Psychologie]] [[DD]] 25.

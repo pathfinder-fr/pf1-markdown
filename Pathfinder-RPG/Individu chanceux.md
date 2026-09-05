@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*Le personnage est encore plus doué que les autres halfelins pour adapter sa chance.*
 
-**Conditions.** [halfelin](./Halfelin.md), trait racial chance adaptable
+**Conditions.** [[halfelin]], trait racial chance adaptable
 
 **Avantages.** Le personnage peut utiliser chance adaptable une fois de plus par jour.

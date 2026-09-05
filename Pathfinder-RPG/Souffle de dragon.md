@@ -13,21 +13,21 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[acide, froid, électricité, feu](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Alch](./Alchimiste.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Magus](./Magus.md) 4, [San](./Sanguin.md) 4  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|acide, froid, électricité, feu]]<nowiki>]</nowiki> ; **Niveau** [[Alchimiste|Alch]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Sanguin|San]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une écaille de dragon)  
+**Composantes** [[Composantes|V, G, M]] (une écaille de dragon)  
 
 **Portée** 9 ou 18 m (6 ou 12 {s:c})  
 
-**Cible** [rayonnement](./rayonnement.md) en forme de cône ou ligne  
+**Cible** [[rayonnement]] en forme de cône ou ligne  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
-Le personnage souffle une bouffée d'énergie. Les créatures situées dans la zone d'effet reçoivent 1d6 points de dégâts d'énergie par [niveau de lanceur de sorts](./NLS.md) (12d6 au maximum). Un jet de [Réflexes](./Réflexes.md) réduit les dégâts de moitié. L'effet du sort et le type d'énergie dépendent du type d'écaille de dragon utilisé.
+Le personnage souffle une bouffée d'énergie. Les créatures situées dans la zone d'effet reçoivent 1d6 points de dégâts d'énergie par [[NLS|niveau de lanceur de sorts]] (12d6 au maximum). Un jet de [[Réflexes]] réduit les dégâts de moitié. L'effet du sort et le type d'énergie dépendent du type d'écaille de dragon utilisé.
 
 {| CLASS="tablo centre"
 |- CLASS="titre"
@@ -57,4 +57,4 @@ Le personnage souffle une bouffée d'énergie. Les créatures situées dans la z
 
 ### Mythique
 {s:CMy}
-La durée du sort change et s’élève à une minute/niveau ou jusqu’à utilisation. Le personnage peut utiliser l’arme de souffle jusqu’à trois fois pendant la durée du sort. Lors du round où il lance le sort, l’utilisation de l’arme de souffle nécessite une [action libre](./Action libre.md), les utilisations ultérieures une [action simple](./Action simple.md). Le personnage doit attendre 1d4 rounds entre chaque utilisation du souffle. Toutes les utilisations pour une incantation donnée de ce sort possèdent la même portée, la même zone d’effet et le même type d’énergie destructive. Le personnage peut maintenir actif un seul sort de souffle de dragon en même temps ; l’incantation d’un nouveau met fin au précédent.
+La durée du sort change et s’élève à une minute/niveau ou jusqu’à utilisation. Le personnage peut utiliser l’arme de souffle jusqu’à trois fois pendant la durée du sort. Lors du round où il lance le sort, l’utilisation de l’arme de souffle nécessite une [[action libre]], les utilisations ultérieures une [[action simple]]. Le personnage doit attendre 1d4 rounds entre chaque utilisation du souffle. Toutes les utilisations pour une incantation donnée de ce sort possèdent la même portée, la même zone d’effet et le même type d’énergie destructive. Le personnage peut maintenir actif un seul sort de souffle de dragon en même temps ; l’incantation d’un nouveau met fin au précédent.

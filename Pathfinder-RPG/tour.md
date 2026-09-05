@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#TOUR
 ---
 
->>> [Vocabulaire courant#TOUR](./Vocabulaire courant.md#TOUR)
+>>> [[Vocabulaire courant#TOUR]]

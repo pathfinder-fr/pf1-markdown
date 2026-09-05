@@ -10,13 +10,13 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}**École** [Évocation](./Évocation.md) ; **Niveau** [Occ](./Occultiste.md) 0, [Psy](./Psychiste.md) 0, [Spi](./Spirite.md) 0  
+{s:AO}**École** [[Évocation]] ; **Niveau** [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0, [[Spirite|Spi]] 0  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [courte](./courte.md) (7.5m + 1.5m /2 [niveau](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveau](./niveau.md))  
+**Portée** [[courte]] (7.5m + 1.5m /2 [[niveau]]) (5 {s:c} + 1 {s:c}/2 [[niveau]])  
 
 **Durée** instantanée  
 

@@ -8,11 +8,11 @@ Cette page recense les "builds" de personnage construits par certains membres du
 
 Chaque build proposé a été discuté dans un sujet sur le forum. Vous pouvez y poser vos questions, suggérer des améliorations ou faire des retours si vous les avez testés.
 
-**Pour ajouter votre propre build**, commencez par ouvrir un nouveau sujet dans [http://www.pathfinder-fr.org/Forum/yaf_topics246_La-fabrique-de-personnages.aspx|la fabrique de personnages]. Une fois votre build terminé, créez une page wiki selon le [modèle établi](./Modèle (build).md). Si la page wiki n'est pas encore disponible, vous pouvez faire un lien vers le sujet de discussion dédié sur le forum. Des instructions détaillées se trouvent sur une [discussion dédiée du forum](http://www.pathfinder-fr.org/Forum/yaf_postst12750_Recensement-des-builds-terminees.aspx#post532405).
+**Pour ajouter votre propre build**, commencez par ouvrir un nouveau sujet dans [la fabrique de personnages](http://www.pathfinder-fr.org/Forum/yaf_topics246_La-fabrique-de-personnages.aspx). Une fois votre build terminé, créez une page wiki selon le [[Modèle (build)|modèle établi]]. Si la page wiki n'est pas encore disponible, vous pouvez faire un lien vers le sujet de discussion dédié sur le forum. Des instructions détaillées se trouvent sur une [discussion dédiée du forum](http://www.pathfinder-fr.org/Forum/yaf_postst12750_Recensement-des-builds-terminees.aspx#post532405).
 
-Les [termes utilisés](./../Pathfinder-RPG/Glossaire des termes.md) sont expliqués pour ceux qui ne les comprennent pas.
+Les [[Pathfinder-RPG.Glossaire des termes|termes utilisés]] sont expliqués pour ceux qui ne les comprennent pas.
 
-Enfin, certains builds sont [testés](./Test des builds.md) grâce au [site du barbare à gros kiki](http://dprcalculator.sinonrien.fr/resultats.php).
+Enfin, certains builds sont [[Test des builds|testés]] grâce au [site du barbare à gros kiki](http://dprcalculator.sinonrien.fr/resultats.php).
 
 {s:SortTable}
 
@@ -20,67 +20,67 @@ Enfin, certains builds sont [testés](./Test des builds.md) grâce au [site du b
 |+ Liste des builds terminés
 ! Build !! Type de combat !! Type de magie !! Classe !! Description
 |-
-| [Abomination](./Abomination (build).md) || Armes naturelles || Alchimie || [Alchimiste](./../Pathfinder-RPG/Alchimiste.md) || Un alchimiste qui utilise ses mutagènes pour gagner de puissantes attaques naturelles au combat.
+| [[Abomination (build)|Abomination]] || Armes naturelles || Alchimie || [[Pathfinder-RPG.Alchimiste|Alchimiste]] || Un alchimiste qui utilise ses mutagènes pour gagner de puissantes attaques naturelles au combat.
 |-
-| [Archer-mage](./Archer mage (build).md) || Arme à distance || Profane puissante || [Champion occultiste](./Pathfinder-RPG~~Champion-occultiste.md) / [Ensorceleur](./Pathfinder-RPG~~Ensorceleur.md) / [Paladin](./../Pathfinder-RPG/Paladin.md) || Un cogneur à distance capable d'avoir un léger rôle de support grâce à ses sorts.
+| [[Archer mage (build)|Archer-mage]] || Arme à distance || Profane puissante || [[Pathfinder-RPG..Champion occultiste|Champion occultiste]] / [[Pathfinder-RPG..Ensorceleur|Ensorceleur]] / [[Pathfinder-RPG.Paladin|Paladin]] || Un cogneur à distance capable d'avoir un léger rôle de support grâce à ses sorts.
 |-
-| [Barde à allonge](./Barde à allonge (build).md) || Arme à allonge || Profane modérée || [Barde](./../Pathfinder-RPG/Barde.md) || Un personnage moitié support avec de bons buffs de groupe, et moitié cogneur avec une force de frappe tout à fait correcte.
+| [[Barde à allonge (build)|Barde à allonge]] || Arme à allonge || Profane modérée || [[Pathfinder-RPG.Barde|Barde]] || Un personnage moitié support avec de bons buffs de groupe, et moitié cogneur avec une force de frappe tout à fait correcte.
 |-
-| [Barde archer](./Barde archer (build).md) || Arme à distance || Profane modérée || [Barde](./../Pathfinder-RPG/Barde.md) || 	Un personnage moitié support avec de bons buffs de groupe, et moitié cogneur à distance avec une force de frappe tout à fait correcte.
+| [[Barde archer (build)|Barde archer]] || Arme à distance || Profane modérée || [[Pathfinder-RPG.Barde|Barde]] || 	Un personnage moitié support avec de bons buffs de groupe, et moitié cogneur à distance avec une force de frappe tout à fait correcte.
 |-
-| [Bloodrager abyssal](./Bloodrager abyssal (build).md) || Armes naturelles || Profane faible || [Sanguin](./../Pathfinder-RPG/Sanguin.md) || Un barbare alternant arme à allonge et armes naturelles et utilisant un peu de magie.
+| [[Bloodrager abyssal (build)|Bloodrager abyssal]] || Armes naturelles || Profane faible || [[Pathfinder-RPG.Sanguin|Sanguin]] || Un barbare alternant arme à allonge et armes naturelles et utilisant un peu de magie.
 |-
-| [Brisefer](http://www.pathfinder-fr.org/Forum/yaf_postst12601_Le-Brisefer.aspx#post526037) || Hache et bouclier || Aucune || [Guerrier](./../Pathfinder-RPG/Guerrier.md) || Un guerrier nain combattant à la fois avec sa hache et son bouclier.
+| [Brisefer](http://www.pathfinder-fr.org/Forum/yaf_postst12601_Le-Brisefer.aspx#post526037) || Hache et bouclier || Aucune || [[Pathfinder-RPG.Guerrier|Guerrier]] || Un guerrier nain combattant à la fois avec sa hache et son bouclier.
 |-
-| [Convocateur de l'académie](./Convocateur académicien (build).md) || Magie || Profane puissante || [Magicien](./../Pathfinder-RPG/Magicien.md) || Un magicien qui tire profit de créatures et effets convoqués.
+| [[Convocateur académicien (build)|Convocateur de l'académie]] || Magie || Profane puissante || [[Pathfinder-RPG.Magicien|Magicien]] || Un magicien qui tire profit de créatures et effets convoqués.
 |-
-| [Courtisan](http://www.pathfinder-fr.org/Forum/yaf_postst12790_Le-Courtisan) || Magie et manigance || Profane modérée || [Barde (Barde de cour)](./../Pathfinder-RPG/Barde de cour (barde).md) || -
+| [Courtisan](http://www.pathfinder-fr.org/Forum/yaf_postst12790_Le-Courtisan) || Magie et manigance || Profane modérée || [[Pathfinder-RPG.Barde de cour (barde)|Barde (Barde de cour)]] || -
 |-
-| [Cryomancien](./Cryoblaster (build).md) || Magie || Profane puissante || [Magicien](./../Pathfinder-RPG/Magicien.md) / [Ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) || Un magicien qui inflige de lourds dégâts accompagnés d'un enchevêtrement, tout en gardant de la souplesse lui permettant de s'adapter à la situation.
+| [[Cryoblaster (build)|Cryomancien]] || Magie || Profane puissante || [[Pathfinder-RPG.Magicien|Magicien]] / [[Pathfinder-RPG.Ensorceleur|Ensorceleur]] || Un magicien qui inflige de lourds dégâts accompagnés d'un enchevêtrement, tout en gardant de la souplesse lui permettant de s'adapter à la situation.
 |-
-| [Disciple draconien](./Disciple draconien (build).md) || Armes naturelles || Profane modérée || [Disciple draconien](./../Pathfinder-RPG/Disciple draconien.md) / [Barbare](./../Pathfinder-RPG/Barbare.md) / [Ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) || Un gish qui tire profit d’une force de dinosaure et de puissantes attaques naturelles pour exceller au combat tout en conservant de bonnes capacités défensives. La magie lui permet de se buffer pour le combat et d’avoir des solutions contre la plupart des problèmes que peut rencontrer un combattant de contact : invisibilité, intangibilité, prise en lutte, mobilité... et de rester utile au groupe dans des situations où les capacités du combattant sont généralement inopérantes, c'est-à-dire hors combat : enquêtes, scènes sociales, exploration...
+| [[Disciple draconien (build)|Disciple draconien]] || Armes naturelles || Profane modérée || [[Pathfinder-RPG.Disciple draconien|Disciple draconien]] / [[Pathfinder-RPG.Barbare|Barbare]] / [[Pathfinder-RPG.Ensorceleur|Ensorceleur]] || Un gish qui tire profit d’une force de dinosaure et de puissantes attaques naturelles pour exceller au combat tout en conservant de bonnes capacités défensives. La magie lui permet de se buffer pour le combat et d’avoir des solutions contre la plupart des problèmes que peut rencontrer un combattant de contact : invisibilité, intangibilité, prise en lutte, mobilité... et de rester utile au groupe dans des situations où les capacités du combattant sont généralement inopérantes, c'est-à-dire hors combat : enquêtes, scènes sociales, exploration...
 |-
-| [Druide caster](./Druide full caster (build).md) || Magie || Divine puissante || [Druide](./../Pathfinder-RPG/Druide.md) || Un contrôleur avec une liste de sort à 9 niveaux qui puise sa force dans la manipulation du terrain et sa flexibilité avec ses invocations
+| [[Druide full caster (build)|Druide caster]] || Magie || Divine puissante || [[Pathfinder-RPG.Druide|Druide]] || Un contrôleur avec une liste de sort à 9 niveaux qui puise sa force dans la manipulation du terrain et sa flexibilité avec ses invocations
 |-
-| [Enragé divin](./Prêtre combattant barbare (build).md) || Armes naturelles || Divine modérée || [Barbare](./../Pathfinder-RPG/Barbare.md) / [Prêtre combattant](./../Pathfinder-RPG/Prêtre combattant.md) || Un prêtre combattant aux armes naturelles.
+| [[Prêtre combattant barbare (build)|Enragé divin]] || Armes naturelles || Divine modérée || [[Pathfinder-RPG.Barbare|Barbare]] / [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] || Un prêtre combattant aux armes naturelles.
 |-
-| [Guépard d'acier](https://www.pathfinder-fr.org/Forum/posts/t14846-Le-Guepard-d-acier) || Lutte et morsure || aucune || [Barbare](./../Pathfinder-RPG/Barbare.md) || Un pugiliste se servant de la lutte pour effectuer plusieurs attaques de morsures très puissantes (jusqu'à 5).
+| [Guépard d'acier](https://www.pathfinder-fr.org/Forum/posts/t14846-Le-Guepard-d-acier) || Lutte et morsure || aucune || [[Pathfinder-RPG.Barbare|Barbare]] || Un pugiliste se servant de la lutte pour effectuer plusieurs attaques de morsures très puissantes (jusqu'à 5).
 |-
-| [Immortel](http://www.pathfinder-fr.org/Forum/yaf_postst12708_L-Immortel.aspx#post530746) || Arme à deux mains || Aucune || [Barbare](./../Pathfinder-RPG/Barbare.md) || Un barbare possédant une résistance hors du commun.
+| [Immortel](http://www.pathfinder-fr.org/Forum/yaf_postst12708_L-Immortel.aspx#post530746) || Arme à deux mains || Aucune || [[Pathfinder-RPG.Barbare|Barbare]] || Un barbare possédant une résistance hors du commun.
 |-
-| [Inquisiteur archer](http://www.pathfinder-fr.org/Forum/yaf_postst9608_Inquisiteur-archer.aspx#post392579) || Arme à distance || Divine modéré || [Inquisiteur](./../Pathfinder-RPG/Inquisiteur.md) || Un très bon archer doublé d'un enquêteur hors du commun, doté un panel magique polyvalent.
+| [Inquisiteur archer](http://www.pathfinder-fr.org/Forum/yaf_postst9608_Inquisiteur-archer.aspx#post392579) || Arme à distance || Divine modéré || [[Pathfinder-RPG.Inquisiteur|Inquisiteur]] || Un très bon archer doublé d'un enquêteur hors du commun, doté un panel magique polyvalent.
 |-
-| [L'etroit mousquetaire](https://www.pathfinder-fr.org/Forum/posts/t15148-L-etroit-mousquetaire) || Armes à une main || Aucune || [Bretteur (Bretteur inspiré)](./../Pathfinder-RPG/Bretteur inspiré (bretteur).md) || -
+| [L'etroit mousquetaire](https://www.pathfinder-fr.org/Forum/posts/t15148-L-etroit-mousquetaire) || Armes à une main || Aucune || [[Pathfinder-RPG.Bretteur inspiré (bretteur)|Bretteur (Bretteur inspiré)]] || -
 |-
-| [Mage D'acier](./<nowiki>https://www-pathfinder-fr-org/Forum/posts/t14097-mage-d-acier--guerrier-d-energie</nowiki>.md) || Armes à deux mains || Spécial || [Guerrier](./../Pathfinder-RPG/Guerrier.md) / [Lutteur](./../Pathfinder-RPG/Lutteur.md) || -
+| [[<nowiki>https://www.pathfinder-fr.org/Forum/posts/t14097-mage-d-acier--guerrier-d-energie</nowiki>|Mage D'acier]] || Armes à deux mains || Spécial || [[Pathfinder-RPG.Guerrier|Guerrier]] / [[Pathfinder-RPG.Lutteur|Lutteur]] || -
 |-
-| [Magus draconien](./Magus draconien (build).md) || Armes naturelles || Profane modérée || [Magus](./../Pathfinder-RPG/Magus.md) / [Disciple draconien](./../Pathfinder-RPG/Disciple draconien.md) / [Ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) || -
+| [[Magus draconien (build)|Magus draconien]] || Armes naturelles || Profane modérée || [[Pathfinder-RPG.Magus|Magus]] / [[Pathfinder-RPG.Disciple draconien|Disciple draconien]] / [[Pathfinder-RPG.Ensorceleur|Ensorceleur]] || -
 |-
-| [Maître Espion](./<nowiki>https://www-pathfinder-fr-org/Forum/posts/t12990~~OK~~Build---Maitre-Espion</nowiki>.md) || Fuite || Divine moyenne || [Inquisiteur](./../Pathfinder-RPG/Inquisiteur.md) / [Maître espion](./../Pathfinder-RPG/Maître espion.md) || Un espion spécialiste de l'infiltration et de la prise de renseignement
+| [[<nowiki>https://www.pathfinder-fr.org/Forum/posts/t12990~~OK~~Build---Maitre-Espion</nowiki>|Maître Espion]] || Fuite || Divine moyenne || [[Pathfinder-RPG.Inquisiteur|Inquisiteur]] / [[Pathfinder-RPG.Maître espion|Maître espion]] || Un espion spécialiste de l'infiltration et de la prise de renseignement
 |-
-| [Moine unchained](https://www.pathfinder-fr.org/Forum/posts/t13331-De-l-art-d-etre-son-arme) || Armes à deux main et mains nues || Aucune || [Moine unchained](./../Pathfinder-RPG/Moine unchained.md) || -
+| [Moine unchained](https://www.pathfinder-fr.org/Forum/posts/t13331-De-l-art-d-etre-son-arme) || Armes à deux main et mains nues || Aucune || [[Pathfinder-RPG.Moine unchained|Moine unchained]] || -
 |-
-| [Mystificateur profane](./Mystificateur Profane chimiste (build).md) || A distance/Magie || Profane puissante || [Alchimiste-vivisectionniste](./../Pathfinder-RPG/Alchimiste.md) / [Magicien](./../Pathfinder-RPG/Magicien.md) / [Mystificateur profane](./../Pathfinder-RPG/Mystificateur profane.md) || -
+| [[Mystificateur Profane chimiste (build)|Mystificateur profane]] || A distance/Magie || Profane puissante || [[Pathfinder-RPG.Alchimiste|Alchimiste-vivisectionniste]] / [[Pathfinder-RPG.Magicien|Magicien]] / [[Pathfinder-RPG.Mystificateur profane|Mystificateur profane]] || -
 |-
-| [Ninja maître des ombres](http://www.pathfinder-fr.org/Forum/yaf_postst6645_creation-d-un-ninja.aspx#post248186) || Arme à deux mains || Aucune || [Ninja](./../Pathfinder-RPG/Ninja.md) / [Maître des ombres](./../Pathfinder-RPG/Maître des ombres.md) || -
+| [Ninja maître des ombres](http://www.pathfinder-fr.org/Forum/yaf_postst6645_creation-d-un-ninja.aspx#post248186) || Arme à deux mains || Aucune || [[Pathfinder-RPG.Ninja|Ninja]] / [[Pathfinder-RPG.Maître des ombres|Maître des ombres]] || -
 |-
-| [One Punch Man](./Le One Punch Man.md) || Mains nues || Aucune || [Lutteur](./../Pathfinder-RPG/Lutteur.md) || Un pugiliste qui tire son aiguille du lot par des coups à mains nues dévastateurs et valant largement des coups d'épée à deux mains, adepte de l'école du dragon et du cogneur.
+| [[Le One Punch Man|One Punch Man]] || Mains nues || Aucune || [[Pathfinder-RPG.Lutteur|Lutteur]] || Un pugiliste qui tire son aiguille du lot par des coups à mains nues dévastateurs et valant largement des coups d'épée à deux mains, adepte de l'école du dragon et du cogneur.
 |-
-| [Oradin](./Paladin chaman (build).md) || Arme à deux mains || Divine faible || [Paladin](./../Pathfinder-RPG/Paladin.md) / [Chaman](./../Pathfinder-RPG/Chaman.md) || Un cogneur de corps à corps qui absorbent les dégâts de tout le groupe et se soigne en action rapide.
+| [[Paladin chaman (build)|Oradin]] || Arme à deux mains || Divine faible || [[Pathfinder-RPG.Paladin|Paladin]] / [[Pathfinder-RPG.Chaman|Chaman]] || Un cogneur de corps à corps qui absorbent les dégâts de tout le groupe et se soigne en action rapide.
 |-
-| [Paladin à deux mains](http://www.pathfinder-fr.org/Forum/yaf_postst8180_Dons-Paladin.aspx#post324533) || Arme à deux mains || Divine faible || [Paladin](./../Pathfinder-RPG/Paladin.md) || -
+| [Paladin à deux mains](http://www.pathfinder-fr.org/Forum/yaf_postst8180_Dons-Paladin.aspx#post324533) || Arme à deux mains || Divine faible || [[Pathfinder-RPG.Paladin|Paladin]] || -
 |-
-| [Prêtre archer](./Prêtre archer (build).md) || Arme à distance || Divine puissante || [prêtre](./../Pathfinder-RPG/Prêtre.md) || Un combattant à distance efficace avec une liste de sorts à 9 niveaux.
+| [[Prêtre archer (build)|Prêtre archer]] || Arme à distance || Divine puissante || [[Pathfinder-RPG.Prêtre|prêtre]] || Un combattant à distance efficace avec une liste de sorts à 9 niveaux.
 |-
-| [Prêtre combattant](./Prêtre combattant (build).md) || Arme à deux mains || Divine puissante || [prêtre](./../Pathfinder-RPG/Prêtre.md) || Un combattant de seconde ligne avec une liste de sorts à 9 niveaux.
+| [[Prêtre combattant (build)|Prêtre combattant]] || Arme à deux mains || Divine puissante || [[Pathfinder-RPG.Prêtre|prêtre]] || Un combattant de seconde ligne avec une liste de sorts à 9 niveaux.
 |-
-| [Psychiste controler](./Psychiste controler (build).md) || Contrôleur || Psychique puissante || Psychiste || Un lanceur de sort à 9 niveau pour faire du contrôle via des sorts mentaux et des sorts de support pour les alliés.
+| [[Psychiste controler (build)|Psychiste controler]] || Contrôleur || Psychique puissante || Psychiste || Un lanceur de sort à 9 niveau pour faire du contrôle via des sorts mentaux et des sorts de support pour les alliés.
 |-
-| [Rôdeur switch hitter](./Rôdeur switch hitter (build).md) || Arme à distance et arme à deux mains || Divine faible || [Rôdeur](./../Pathfinder-RPG/Rôdeur.md) || Un cogneur qui commence le combat à distance, puis passe ensuite à l'arme à deux mains lorsque l'ennemi se rapproche.
+| [[Rôdeur switch hitter (build)|Rôdeur switch hitter]] || Arme à distance et arme à deux mains || Divine faible || [[Pathfinder-RPG.Rôdeur|Rôdeur]] || Un cogneur qui commence le combat à distance, puis passe ensuite à l'arme à deux mains lorsque l'ennemi se rapproche.
 |-
-| [Savant](./Le Savant (build).md) || Arme à impact || Alchimie || [Alchimiste](./../Pathfinder-RPG/Alchimiste.md) || Alchimiste (archétype chimiste spirituel) basé sur les connaissances et les bombes multiples.
+| [[Le Savant (build)|Savant]] || Arme à impact || Alchimie || [[Pathfinder-RPG.Alchimiste|Alchimiste]] || Alchimiste (archétype chimiste spirituel) basé sur les connaissances et les bombes multiples.
 |-
-| [Véritable archer elfe</nowiki>](./<nowiki>https://www-pathfinder-fr-org//Forum/posts/m641705-Veritable-Archer-Elfe--Build-Oracle.md) || Armes à distance || Divine puissante || [Oracle](./../Pathfinder-RPG/Oracle.md) ([Gardien du savoir ancestral](./../Pathfinder-RPG/Gardien du savoir ancestral (oracle).md), [Combattant intuitif](./../Pathfinder-RPG/Combattant intuitif (oracle).md)) || -
+| [[<nowiki>https://www.pathfinder-fr.org//Forum/posts/m641705-Veritable-Archer-Elfe--Build-Oracle|Véritable archer elfe</nowiki>]] || Armes à distance || Divine puissante || [[Pathfinder-RPG.Oracle|Oracle]] ([[Pathfinder-RPG.Gardien du savoir ancestral (oracle)|Gardien du savoir ancestral]], [[Pathfinder-RPG.Combattant intuitif (oracle)|Combattant intuitif]]) || -
 |-
 | [[https://www.pathfinder-fr.org/Forum/posts/m758253-Archetype-de-guerrier-Skoutatos#post758253 | Skoutatos]] |  | Combat au pavois |  | aucune magie |  | (build) | [https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Sp%c3%a9cialiste%20du%20pavois%20(guerrier).ashx | specialiste du pavois]]] |  | archétype de guerrier capable de faire front contre des lanceurs de sorts |
 |-
@@ -92,34 +92,34 @@ Enfin, certains builds sont [testés](./Test des builds.md) grâce au [site du b
 |+ Liste des builds en cours ou inachevées
 ! Build !! Type de combat !! Type de magie !! Classe !! Description
 |-
-| [Alchimiste bestial](./Alchimiste bestial (build).md) || Armes naturelles || Alchimie || [Alchimiste](./../Pathfinder-RPG/Alchimiste.md) || -
+| [[Alchimiste bestial (build)|Alchimiste bestial]] || Armes naturelles || Alchimie || [[Pathfinder-RPG.Alchimiste|Alchimiste]] || -
 |-
-| [Arcaniste de force](./Arcaniste de force.md) || Magie || Profane puissante || Arcaniste || Un lanceur de sort profane ultra spécialisé infligeant de très bons dégâts
+| [[Arcaniste de force]] || Magie || Profane puissante || Arcaniste || Un lanceur de sort profane ultra spécialisé infligeant de très bons dégâts
 |-
-| [Bombardier](./Bombardier (build).md) || Arme à impact || Alchimie || [Alchimiste](./../Pathfinder-RPG/Alchimiste.md) || -
+| [[Bombardier (build)|Bombardier]] || Arme à impact || Alchimie || [[Pathfinder-RPG.Alchimiste|Alchimiste]] || -
 |-
-| [Cavalier rôdeur](http://www.pathfinder-fr.org/Forum/yaf_postst7508_-Conseil-Rodeur-monte.aspx#post288814) || Cavalerie || Divine faible || [Rôdeur](./../Pathfinder-RPG/Rôdeur.md) || -
+| [Cavalier rôdeur](http://www.pathfinder-fr.org/Forum/yaf_postst7508_-Conseil-Rodeur-monte.aspx#post288814) || Cavalerie || Divine faible || [[Pathfinder-RPG.Rôdeur|Rôdeur]] || -
 |-
-| [Champion du bouclier](./Champion du bouclier (build).md) || Bouclier || Aucune || [http://www.d20pfsrd.com/classes/hybrid-classes/brawler|Lutteur] ([http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion|champion du bouclier]) || Un puissant combattant qui utilise son bouclier pour frapper au corps à corps comme à distance
+| [[Champion du bouclier (build)|Champion du bouclier]] || Bouclier || Aucune || [Lutteur](http://www.d20pfsrd.com/classes/hybrid-classes/brawler) ([champion du bouclier](http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/shield-champion)) || Un puissant combattant qui utilise son bouclier pour frapper au corps à corps comme à distance
 |-
-| [Dawnflower dervish](http://www.pathfinder-fr.org/Forum/yaf_postst7522_Dervish-Dancer.aspx#post290518) || Arme à une main || Profane modérée || [http://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo---bard-archetypes/dawnflower-dervish|Dawnflower dervish] || -
+| [Dawnflower dervish](http://www.pathfinder-fr.org/Forum/yaf_postst7522_Dervish-Dancer.aspx#post290518) || Arme à une main || Profane modérée || [Dawnflower dervish](http://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo---bard-archetypes/dawnflower-dervish) || -
 |-
-| [Duelliste](http://www.pathfinder-fr.org/Forum/yaf_postst6323_Duelliste-oui-mais-comment.aspx#post232865) || Arme à une main || Aucune || [Duelliste](./../Pathfinder-RPG/Duelliste.md) / [Guerrier (Combattant de la main libre)](./../Pathfinder-RPG/Combattant de la main libre (guerrier).md) || -
+| [Duelliste](http://www.pathfinder-fr.org/Forum/yaf_postst6323_Duelliste-oui-mais-comment.aspx#post232865) || Arme à une main || Aucune || [[Pathfinder-RPG.Duelliste|Duelliste]] / [[Pathfinder-RPG.Combattant de la main libre (guerrier)|Guerrier (Combattant de la main libre)]] || -
 |-
-| [Fracasseur de crânes](./Fracasseur de crânes (build).md) || Combat à mains nues || Aucune || [Guerrier (Castagneur)](./../Pathfinder-RPG/Castagneur (guerrier).md) / [Moine (Maître des écoles)](./../Pathfinder-RPG/Maître des écoles (moine).md) || -
+| [[Fracasseur de crânes (build)|Fracasseur de crânes]] || Combat à mains nues || Aucune || [[Pathfinder-RPG.Castagneur (guerrier)|Guerrier (Castagneur)]] / [[Pathfinder-RPG.Maître des écoles (moine)|Moine (Maître des écoles)]] || -
 |-
-| [Magus](./Magus (build).md) || Arme à une main || Profane modérée || [Magus](./../Pathfinder-RPG/Magus.md) || -
+| [[Magus (build)|Magus]] || Arme à une main || Profane modérée || [[Pathfinder-RPG.Magus|Magus]] || -
 |-
-| [Métamorphe](https://www.pathfinder-fr.org//Forum/posts/t15373-Le-Metamorphe) || Arme naturelle et lutte || Divine puissante || [Moine (Maître des écoles)](./../Pathfinder-RPG/Maître des écoles (moine).md) / [Druide (Sage des menhirs)](./../Pathfinder-RPG/Sage des menhirs (druide).md) || -
+| [Métamorphe](https://www.pathfinder-fr.org//Forum/posts/t15373-Le-Metamorphe) || Arme naturelle et lutte || Divine puissante || [[Pathfinder-RPG.Maître des écoles (moine)|Moine (Maître des écoles)]] / [[Pathfinder-RPG.Sage des menhirs (druide)|Druide (Sage des menhirs)]] || -
 |-
-| [Nécromancien](https://www.pathfinder-fr.org/Forum/posts/t12640-Le-Necromancien) || Magie et morts-vivants || Profane puissante || [Magicien](./../Pathfinder-RPG/Magicien.md) || -
+| [Nécromancien](https://www.pathfinder-fr.org/Forum/posts/t12640-Le-Necromancien) || Magie et morts-vivants || Profane puissante || [[Pathfinder-RPG.Magicien|Magicien]] || -
 |-
-| [Pirate pistolero](./Pirate pistolero (build).md) || Arme à feu || Aucune || [Pistolier (Pistolero)](./../Pathfinder-RPG/Pistolero (pistolier).md) || -
+| [[Pirate pistolero (build)|Pirate pistolero]] || Arme à feu || Aucune || [[Pathfinder-RPG.Pistolero (pistolier)|Pistolier (Pistolero)]] || -
 |-
-| [Blaster Ifrit](./Blaster Ifrit.md) || / || Magie Divine || [[]] || -
+| [[Blaster Ifrit]] || / || Magie Divine || [[]] || -
 |-
-| [Rôdeur arme et bouclier](http://www.pathfinder-fr.org/Forum/yaf_postst7688_Rodeur-arme-bouclier.aspx#post298905) || Arme et bouclier || Divine faible || [Rôdeur](./../Pathfinder-RPG/Rôdeur.md) || -
+| [Rôdeur arme et bouclier](http://www.pathfinder-fr.org/Forum/yaf_postst7688_Rodeur-arme-bouclier.aspx#post298905) || Arme et bouclier || Divine faible || [[Pathfinder-RPG.Rôdeur|Rôdeur]] || -
 |-
-| [Roublard futé](./<nowiki>http://www-pathfinder-fr-org/Forum/posts/t14600~~En-creation~~Roublard-fute</nowiki>.md) || Dagues || Faible magie profane || [Roublard](./../Pathfinder-RPG/Roublard.md) et VMC [Magus](./../Pathfinder-RPG/Magus.md) || Pour rendre le roublard classique plus malin
+| [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t14600~~En-creation~~Roublard-fute</nowiki>|Roublard futé]] || Dagues || Faible magie profane || [[Pathfinder-RPG.Roublard|Roublard]] et VMC [[Pathfinder-RPG.Magus|Magus]] || Pour rendre le roublard classique plus malin
 |-
 |}

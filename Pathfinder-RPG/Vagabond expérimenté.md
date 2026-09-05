@@ -12,6 +12,6 @@ Categories:
 
 *Le personnage a longtemps été un vagabond. Il connait les coutumes et le mode de vie des membres de cette caste inférieure.*
 
-**Conditions.** 2 rangs en [Bluff](./Bluff.md), 2 rangs en [Connaissances](./Connaissances.md) (folklore local), le personnage doit être d'une classe sociale défavorisée
+**Conditions.** 2 rangs en [[Bluff]], 2 rangs en [[Connaissances]] (folklore local), le personnage doit être d'une classe sociale défavorisée
 
-**Avantages.** Lorsque le personnage rencontre des criminels, des vagabonds, des personnages peu recommandables ou des gens d’un statut inférieur, quel que soit leur pays d’origine, il bénéficie d’un bonus de +1 aux tests de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md), de [Connaissances](./Connaissances.md) (folklore local) et de [Psychologie](./Psychologie.md). Lorsqu’il voyage en compagnie d’un ou plusieurs individus qui possèdent également ce don, le personnage gagne un bonus de circonstance de +2 aux tests de [Perception](./Perception.md) pour éviter de se faire surprendre au début d’un combat.
+**Avantages.** Lorsque le personnage rencontre des criminels, des vagabonds, des personnages peu recommandables ou des gens d’un statut inférieur, quel que soit leur pays d’origine, il bénéficie d’un bonus de +1 aux tests de [[Bluff]], de [[Diplomatie]], de [[Connaissances]] (folklore local) et de [[Psychologie]]. Lorsqu’il voyage en compagnie d’un ou plusieurs individus qui possèdent également ce don, le personnage gagne un bonus de circonstance de +2 aux tests de [[Perception]] pour éviter de se faire surprendre au début d’un combat.

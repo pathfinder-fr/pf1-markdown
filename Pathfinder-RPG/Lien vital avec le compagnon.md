@@ -9,12 +9,12 @@ Categories:
 - Sort sorcière 2
 ---
 
-{s:MCA}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Rôd](./Rôdeur.md) 2, [Sor](./Sorcière.md) 2
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md)/FD (une goutte d’ichor d’eidolon)
+{s:MCA}**École** [[Nécromancie]] ; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Rôdeur|Rôd]] 2, [[Sorcière|Sor]] 2
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]]/FD (une goutte d’ichor d’eidolon)
 **Portée** contact
-**Cible** l’un des compagnons animaux ou le [familier](./familier.md) du lanceur
+**Cible** l’un des compagnons animaux ou le [[familier]] du lanceur
 **Durée** 1 minute/niveau (cf. ci-dessous)
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour annuler (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Vigueur]] pour annuler (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Le personnage crée un lien vital entre lui-même et sa cible. Chaque fois que sa cible est blessée, il le sent et sait aussitôt quand celle-ci est tuée. Si le personnage est blessé ou tué, la cible en a elle aussi conscience. Par une action libre, le personnage peut lancer un appel à la cible, la faisant revenir à lui (si elle en est capable et si elle est consentante). Ceci termine le sort.

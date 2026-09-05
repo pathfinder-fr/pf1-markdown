@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Vase|Souterrain|Tempéré}
 - *Source : Bestiaire 2, p.274*
 - **PX** 1 200
-- [Vase](./type Vase.md) de taille P, N
-- **Init** +4 ; **Sens** [perception aveugle](./perception aveugle.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +7
+- [[type Vase|Vase]] de taille P, N
+- **Init** +4 ; **Sens** [[perception aveugle]] 18 m (12 {s:c}) ; [[Perception]] +7
 (((Défense)))
 - **CA** 15, contact 15, pris au dépourvu 11 (Dex +4, taille +1)
 - **pv** 42 (4d8+24)
 - **Réf** +5, **'Vig** +7, **Vol** +1
-- **Immunités** effets mentaux, [traits des vases](./type Vase.md)
+- **Immunités** effets mentaux, [[type vase|traits des vases]]
 (((Attaque)))
 - **VD** 3 m (2 {s:c}), escalade 3 m (2 {s:c})
-- **Corps à corps** 2 coups, +7 (1d6+3 plus [étreinte](./Étreinte.md) et paralysie)
-- **Attaques spéciales** [absorption de sang](./absorption de sang (capacité).md) (1d2 Constitution), [étreinte](./Étreinte.md) (jusqu’à taille C)
+- **Corps à corps** 2 coups, +7 (1d6+3 plus [[étreinte]] et paralysie)
+- **Attaques spéciales** [[absorption de sang (capacité)|absorption de sang]] (1d2 Constitution), [[étreinte]] (jusqu’à taille C)
 (((Statistiques)))
 - **For** 16, **Dex** 18, **Con** 23, **Int** 11, **Sag** 10, **Cha** 1
-- **BBA** +3 ; **BMO** +5 (+9 lutte) ; **DMD** 19 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Talent](./Talent.md) ([Perception](./Perception.md))
-- **Compétences** [Discrétion](./Discrétion.md) +20, [Escalade](./Escalade.md) +11, [Perception](./Perception.md) +7 ; **Modificateurs raciaux** +8 [Discrétion](./Discrétion.md)
+- **BBA** +3 ; **BMO** +5 (+9 lutte) ; **DMD** 19 ([[croc-en-jambe]] impossible)
+- **Dons** [[Talent]] ([[Discrétion]]), [[Talent]] ([[Perception]])
+- **Compétences** [[Discrétion]] +20, [[Escalade]] +11, [[Perception]] +7 ; **Modificateurs raciaux** +8 [[Discrétion]]
 - **Langues** commun des profondeurs (incapable de parler)
 - **Particularités** transparent
 (((Écologie)))
@@ -37,8 +37,8 @@ Categories:
 - **Organisation sociale** solitaire ou couple
 - **Trésor** fortuit
 (((Pouvoirs spéciaux)))
-- **Paralysie (Ext).** Les créatures touchées par une attaque de coup d’un traqueur gluant entrent en contact avec le mucus anesthésiant qu’il sécrète. Elles doivent réussir un jet de Vigueur de DD 18 pour ne pas être [paralysées](./Paralysé.md). Par la suite, à la fin de chaque round, les victimes paralysées peuvent tenter un nouveau jet de Vigueur pour briser l’effet de paralysie. Quand une victime se remet de la paralysie infligée par un traqueur gluant, elle est [chancelante](./Chancelant.md) pendant 1d6 rounds. Le DD du jet de sauvegarde dépend de la Constitution.
-- **Transparent (Ext).** Dans la plupart des environnements, l’absence de coloration des traqueurs gluants les rend difficile à distinguer. Ainsi, le traqueur gluant gagne un bonus racial de +8 aux tests de [Discrétion](./Discrétion.md) et peut se déplacer à vitesse normale sans que cela n’entraîne une pénalité à ses tests de Discrétion. Les créatures qui ne repèrent pas un traqueur gluant et s’avance sur lui subissent automatiquement des dégâts comme si elles avaient été touchées par une attaque de coup du traqueur gluant. De plus, elles sont immédiatement victimes d’une tentative d’[étreinte](./Étreinte.md) et risquent de se faire paralyser par la vase.
+- **Paralysie (Ext).** Les créatures touchées par une attaque de coup d’un traqueur gluant entrent en contact avec le mucus anesthésiant qu’il sécrète. Elles doivent réussir un jet de Vigueur de DD 18 pour ne pas être [[paralysé|paralysées]]. Par la suite, à la fin de chaque round, les victimes paralysées peuvent tenter un nouveau jet de Vigueur pour briser l’effet de paralysie. Quand une victime se remet de la paralysie infligée par un traqueur gluant, elle est [[chancelant|chancelante]] pendant 1d6 rounds. Le DD du jet de sauvegarde dépend de la Constitution.
+- **Transparent (Ext).** Dans la plupart des environnements, l’absence de coloration des traqueurs gluants les rend difficile à distinguer. Ainsi, le traqueur gluant gagne un bonus racial de +8 aux tests de [[Discrétion]] et peut se déplacer à vitesse normale sans que cela n’entraîne une pénalité à ses tests de Discrétion. Les créatures qui ne repèrent pas un traqueur gluant et s’avance sur lui subissent automatiquement des dégâts comme si elles avaient été touchées par une attaque de coup du traqueur gluant. De plus, elles sont immédiatement victimes d’une tentative d’[[étreinte]] et risquent de se faire paralyser par la vase.
 
 </div>
 </td><td><div>*Une longue traînée humide étendue sur la pierre sombre se met tout à coup à onduler comme un serpent puis se soulève pour attaquer.*

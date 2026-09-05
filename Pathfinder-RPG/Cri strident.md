@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[son](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Sor](./Sorcière.md) 3  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ;** Niveau** [[Sorcière|Sor]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[Composantes|V]]  
 
 **Portée** 9 m (6 {s:c})  
 
 **Cible** étendue de 9 m (6 {s:c}) de rayon centrée sur le lanceur de sorts  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-Le personnage lance un cri strident qui surprend tous ceux qui l'entourent et leur fait baisser leur garde. Les ennemis qui se trouvent dans la zone doivent réussir un jet de [Vigueur](./Vigueur.md) ou déclencher une [attaque d'opportunité](./attaque dopportunité.md) immédiate de la part des adversaires qui les menacent. Le personnage et ses alliés ne sont pas affectés par le cri.
+Le personnage lance un cri strident qui surprend tous ceux qui l'entourent et leur fait baisser leur garde. Les ennemis qui se trouvent dans la zone doivent réussir un jet de [[Vigueur]] ou déclencher une [[attaque dopportunité|attaque d'opportunité]] immédiate de la part des adversaires qui les menacent. Le personnage et ses alliés ne sont pas affectés par le cri.

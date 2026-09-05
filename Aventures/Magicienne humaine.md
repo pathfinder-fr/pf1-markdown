@@ -35,8 +35,8 @@ LastModified: 2016-07-20 21:15
 
 <div class="BD">
 {s:BDTitre|Skiwer, Chat (familier)|FP 1/2}
-- [Animal](./../Pathfinder-RPG/type Animal.md) de taille TP, N
-- **Init** +2 ; **Sens** [odorat](./../Pathfinder-RPG/odorat.md), [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +5
+- [[Pathfinder-RPG.type Animal|Animal]] de taille TP, N
+- **Init** +2 ; **Sens** [[Pathfinder-RPG.odorat|odorat]], [[Pathfinder-RPG.vision nocturne|vision nocturne]] ; [[Pathfinder-RPG.Perception|Perception]] +5
 (((Défense)))
 - **CA** 16, contact 14, pris au dépourvu 14 (Dex +2, taille +2, armure naturelle +2)
 - **pv** 9 (3d8-1)
@@ -48,8 +48,8 @@ LastModified: 2016-07-20 21:15
 (((Caractéristiques)))
 - **For** 3, **Dex** 15, **Con** 8, **Int** 7, **Sag** 12, **Cha** 7
 - **BBA** +1, **BMO** +1, **DMD** 7 (11 contre le croc-en-jambe)
-- **Dons** [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md)
-- **Compétences** [Discrétion](./../Pathfinder-RPG/Discrétion.md) +14, [Escalade](./../Pathfinder-RPG/Escalade.md) +6, [Perception](./../Pathfinder-RPG/Perception.md) +5 ; **Modificateurs raciaux** [Escalade](./../Pathfinder-RPG/Escalade.md) +4, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +4
-Particularités : [Esquive extraordinaire](./../Pathfinder-RPG/Familiers.md#ESQUIVEEXTRAORDINAIRE), [transfert de sorts](./../Pathfinder-RPG/Familiers.md#TRANSFERTDESORTS), [lien empathique](./../Pathfinder-RPG/Familiers.md#LIENEMPATHIQUE), [vigilance](./../Pathfinder-RPG/Familiers.md#VIGILANCE), [Conduit](./../Pathfinder-RPG/Familiers.md#CONDUIT)
+- **Dons** [[Pathfinder-RPG.Attaque en finesse|Attaque en finesse]]
+- **Compétences** [[Pathfinder-RPG.Discrétion|Discrétion]] +14, [[Pathfinder-RPG.Escalade|Escalade]] +6, [[Pathfinder-RPG.Perception|Perception]] +5 ; **Modificateurs raciaux** [[Pathfinder-RPG.Escalade|Escalade]] +4, [[Pathfinder-RPG.Discrétion|Discrétion]] +4
+Particularités : [[Familiers#ESQUIVEEXTRAORDINAIRE|Esquive extraordinaire]], [[Familiers#TRANSFERTDESORTS|transfert de sorts]], [[Familiers#LIENEMPATHIQUE|lien empathique]], [[Familiers#VIGILANCE|vigilance]], [[Familiers#CONDUIT|Conduit]]
 
 </div>

@@ -10,11 +10,11 @@ Categories:
 
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}<div class="BD">
 {s:BDTitre|Chaudron d'embuscade|{s:CM}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 28 000 po ; **Poids** 30 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 28 000 po ; **Poids** 30 kg
 (((Description)))
-Cet énorme chaudron couvert de suie est doté de deux paires d’anneaux alignés sur chacun des bords opposés. Il est possible de glisser de longs bâtons à l’intérieur de ces anneaux afin que deux porteurs puissent soulever et transporter le chaudron. L’intérieur de cet énorme chaudron est couvert de résidus de cuisson à l’odeur infecte en plus d’être tout gras. Une fois par jour, une horde maximale de cent orques peut consommer une soupe épaisse ou du gruau préparé dans le chaudron. La substance consommée rend les orques instinctivement discrets et naturellement difficiles à pister. Pendant les deux prochaines heures, tous les déplacements terrestres de la horde ne laissent pratiquement aucune trace. Quand une créature tente un test de [Survie](./Survie.md) pour découvrir la trace de la horde, l’effet du chaudron annule le malus au [DD](./DD.md) du nombre d’orques présents dans le groupe.
+Cet énorme chaudron couvert de suie est doté de deux paires d’anneaux alignés sur chacun des bords opposés. Il est possible de glisser de longs bâtons à l’intérieur de ces anneaux afin que deux porteurs puissent soulever et transporter le chaudron. L’intérieur de cet énorme chaudron est couvert de résidus de cuisson à l’odeur infecte en plus d’être tout gras. Une fois par jour, une horde maximale de cent orques peut consommer une soupe épaisse ou du gruau préparé dans le chaudron. La substance consommée rend les orques instinctivement discrets et naturellement difficiles à pister. Pendant les deux prochaines heures, tous les déplacements terrestres de la horde ne laissent pratiquement aucune trace. Quand une créature tente un test de [[Survie]] pour découvrir la trace de la horde, l’effet du chaudron annule le malus au [[DD]] du nombre d’orques présents dans le groupe.
 
-Tout non-orque qui consomme ne serait-ce qu’une petite cuillerée de la soupe ou du gruau est aussitôt [nauséeux](./Nauséeux.md) pendant 10 minutes et ne gagne aucun des avantages du chaudron.
+Tout non-orque qui consomme ne serait-ce qu’une petite cuillerée de la soupe ou du gruau est aussitôt [[nauséeux]] pendant 10 minutes et ne gagne aucun des avantages du chaudron.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[passage sans trace](./passage sans trace.md)*; **Coût** 14 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[passage sans trace]]*; **Coût** 14 000 po
 </div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#ARMEDOUBLE
 ---
 
->>> [Caractéristiques des armes#ARMEDOUBLE](./Caractéristiques des armes.md#ARMEDOUBLE)
+>>> [[Caractéristiques des armes#ARMEDOUBLE]]

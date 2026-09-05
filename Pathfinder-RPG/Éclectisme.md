@@ -8,6 +8,6 @@ Categories:
 
 {s:apg}*Le personnage a un don pour suivre plusieurs vocations à la fois.*
 
-**Condition.** [Humain](./Humain.md).
+**Condition.** [[Humain]].
 
-**Avantage.** Le personnage peut choisir une [classe de prédilection](./classe de prédilection.md) de plus et gagner soit +1 [point de vie](./pv.md) soit +1 [point de compétence](./point de compétence.md) chaque fois qu’il gagne un niveau dans cette classe. S’il opte pour une classe dans laquelle il possède déjà des niveaux, il peut profiter rétroactivement de ce don.
+**Avantage.** Le personnage peut choisir une [[classe de prédilection]] de plus et gagner soit +1 [[pv|point de vie]] soit +1 [[point de compétence]] chaque fois qu’il gagne un niveau dans cette classe. S’il opte pour une classe dans laquelle il possède déjà des niveaux, il peut profiter rétroactivement de ce don.

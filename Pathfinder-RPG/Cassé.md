@@ -13,24 +13,24 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [San](./Sanguin.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sanguin|San]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une brindille)  
+**Composantes** [[Composantes|V, G, M]] (une brindille)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** un objet de taille M ou plus petit  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
-Le personnage peut essayer de [casser](./Brisé.md) ou au moins d'endommager un objet de taille M ou moins à portée. Si la cible rate son jet de [Vigueur](./Vigueur.md), elle acquiert la condition [cassée](./Brisé.md). Si le personnage lance ce sort sur un objet déjà [cassé](./Brisé.md) et que ce dernier rate son [jet de sauvegarde](./jet de sauvegarde.md), il est détruit.
+Le personnage peut essayer de [[brisé|casser]] ou au moins d'endommager un objet de taille M ou moins à portée. Si la cible rate son jet de [[Vigueur]], elle acquiert la condition [[brisé|cassée]]. Si le personnage lance ce sort sur un objet déjà [[brisé|cassé]] et que ce dernier rate son [[jet de sauvegarde]], il est détruit.
 
 ### Mythique
 {s:CMy}
-Le personnage peut cibler jusqu’à un objet de taille M ou inférieure par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md).
+Le personnage peut cibler jusqu’à un objet de taille M ou inférieure par [[niveau de lanceur de sorts]].
 
-**[Amplifié](./Amplifié.md) (3ème).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), les objets ciblés deviennent brisés en cas de jet de sauvegarde réussi et sont détruits en cas de jet de sauvegarde raté. Le sort n’affecte pas les objets mythiques ou ceux manipulés ou transportés par des créatures mythiques.
+**[[Amplifié]] (3ème).** Si le personnage dépense deux utilisations de [[pouvoir mythique]], les objets ciblés deviennent brisés en cas de jet de sauvegarde réussi et sont détruits en cas de jet de sauvegarde raté. Le sort n’affecte pas les objets mythiques ou ceux manipulés ou transportés par des créatures mythiques.

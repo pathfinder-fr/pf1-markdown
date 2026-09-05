@@ -7,4 +7,4 @@ Categories:
 RedirectTo: moine#POINTDEKI
 ---
 
->>> [moine#POINTDEKI](./Moine.md#POINTDEKI)
+>>> [[moine#POINTDEKI]]

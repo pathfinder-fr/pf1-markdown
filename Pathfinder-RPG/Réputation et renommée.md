@@ -17,7 +17,7 @@ Trois facteurs déterminent la réputation du personnage : la Renommée, la Sph
 
 {s:Reference|RENOMMÉE}
 ### La renommée
-Le personnage commence le jeu avec une Renommée égale à son niveau de personnage + son modificateur de [Charisme](./Charisme.md). Sa Renommée peut aller de -100 à 100, 0 correspondant à une notoriété nulle. Au fil de la campagne, le personnage construit sa réputation à travers ses mots et ses actes. Bien qu’un aventurier puisse accomplir de nombreuses actions, toutes ne sont pas forcément assez importantes pour justifier un changement dans la Renommée. Le MJ devrait s’en tenir aux actions qui affectent directement l’histoire ou la campagne et ne pas accorder de points pour les victoires mineures. Il appartient en principe au MJ de juger de l’importance des actions spécifiques présente en détail quelques exemples particuliers. Si jamais la Renommée du personnage devait tomber en dessous de 0, consultez [Discrédit et infamie](./Réputation et renommée.md#DISCREDIT).
+Le personnage commence le jeu avec une Renommée égale à son niveau de personnage + son modificateur de [[Charisme]]. Sa Renommée peut aller de -100 à 100, 0 correspondant à une notoriété nulle. Au fil de la campagne, le personnage construit sa réputation à travers ses mots et ses actes. Bien qu’un aventurier puisse accomplir de nombreuses actions, toutes ne sont pas forcément assez importantes pour justifier un changement dans la Renommée. Le MJ devrait s’en tenir aux actions qui affectent directement l’histoire ou la campagne et ne pas accorder de points pour les victoires mineures. Il appartient en principe au MJ de juger de l’importance des actions spécifiques présente en détail quelques exemples particuliers. Si jamais la Renommée du personnage devait tomber en dessous de 0, consultez [[Réputation et renommée#DISCREDIT|Discrédit et infamie]].
 
 {| CLASS="tablo centre autoalt"
 |+ Évènements porteurs de renommée
@@ -26,21 +26,21 @@ Le personnage commence le jeu avec une Renommée égale à son niveau de personn
 |- CLASS="premier"
 | COLSPAN=2 | **Évènements positifs**
 |-
-| &emsp;Acquérir un trésor remarquable auprès d’un digne ennemi<sup>[1](./Réputation et renommée.md#NOTE1)</sup> || +1
+| &emsp;Acquérir un trésor remarquable auprès d’un digne ennemi<sup>[[Réputation et renommée#NOTE1|1]]</sup> || +1
 |-
 | &emsp;Confirmer deux coups critiques de suite dans une rencontre de FP approprié || +1
 |-
 | &emsp;Consacrer un temple à sa divinité || +1
 |-
-| &emsp;Fabriquer un puissant objet magique<sup>[2](./Réputation et renommée.md#NOTE2)</sup> || +1
+| &emsp;Fabriquer un puissant objet magique<sup>[[Réputation et renommée#NOTE2|2]]</sup> || +1
 |-
 | &emsp;Gagner un niveau dans une classe de PJ || +1
 |-
 | &emsp;Localiser et désarmer trois pièges de suite ou plus de FP approprié || +1
 |-
-| &emsp;Faire une grande découverte historique, scientifique ou magique<sup>[3](./Réputation et renommée.md#NOTE3)</sup> || +1
+| &emsp;Faire une grande découverte historique, scientifique ou magique<sup>[[Réputation et renommée#NOTE3|3]]</sup> || +1
 |-
-| &emsp;Posséder un objet ou un artefact légendaire<sup>[4](./Réputation et renommée.md#NOTE4)</sup> || +1
+| &emsp;Posséder un objet ou un artefact légendaire<sup>[[Réputation et renommée#NOTE4|4]]</sup> || +1
 |-
 | &emsp;Recevoir une médaille ou un honneur similaire des mains d’une personnalité publique || +1
 |-
@@ -48,19 +48,19 @@ Le personnage commence le jeu avec une Renommée égale à son niveau de personn
 |-
 | &emsp;Piller la place-forte d’un puissant noble || +1
 |-
-| &emsp;Vaincre seul un adversaire ayant un FP supérieur au niveau du personnage<sup>[5](./Réputation et renommée.md#NOTE5)</sup> || +1
+| &emsp;Vaincre seul un adversaire ayant un FP supérieur au niveau du personnage<sup>[[Réputation et renommée#NOTE5|5]]</sup> || +1
 |-
 | &emsp;Remporter un combat contre un FP égal au niveau moyen du groupe +3 ou plus || +1
 |-
 | &emsp;Vaincre en combat une personne qui vous a publiquement diffamé || +2
 |-
-| &emsp;Réussir un test d’[Artisanat](./Artisanat.md) de DD 30 ou plus pour créer une œuvre d’art ou un objet de maître<sup>[6](./Réputation et renommée.md#NOTE6)</sup> || +2
+| &emsp;Réussir un test d’[[Artisanat]] de DD 30 ou plus pour créer une œuvre d’art ou un objet de maître<sup>[[Réputation et renommée#NOTE6|6]]</sup> || +2
 |-
-| &emsp;Réussir un test public de [Diplomatie](./Diplomatie.md) ou d’[Intimidation](./Intimidation.md) de DD 30 ou plus<sup>[6](./Réputation et renommée.md#NOTE6)</sup> || +2
+| &emsp;Réussir un test public de [[Diplomatie]] ou d’[[Intimidation]] de DD 30 ou plus<sup>[[Réputation et renommée#NOTE6|6]]</sup> || +2
 |-
-| &emsp;Réussir un test public de [Représentation](./Représentation.md) de DD 30 ou plus6 || +2
+| &emsp;Réussir un test public de [[Représentation]] de DD 30 ou plus6 || +2
 |-
-| &emsp;Achever une aventure au [FP](./FP.md) approprié au [niveau moyen du groupe](./Rencontres.md#TABLENIVEAURENCONTRE)<sup>[7](./Réputation et renommée.md#NOTE7)</sup> || +3
+| &emsp;Achever une aventure au [[FP]] approprié au [[Rencontres#TABLENIVEAURENCONTRE|niveau moyen du groupe]]<sup>[[Réputation et renommée#NOTE7|7]]</sup> || +3
 |-
 | &emsp;Gagner un titre officiel (dame, seigneur, chevalier, etc.) || +3
 |-
@@ -70,7 +70,7 @@ Le personnage commence le jeu avec une Renommée égale à son niveau de personn
 |-
 | &emsp;Être accusé d’un crime mineur || -1
 |-
-| &emsp;Fréquenter quelqu’un de mauvaise réputation<sup>[8](./Réputation et renommée.md#NOTE8)</sup> || -1
+| &emsp;Fréquenter quelqu’un de mauvaise réputation<sup>[[Réputation et renommée#NOTE8|8]]</sup> || -1
 |-
 | &emsp;Être accusé d’un crime grave non-violent || -2
 |-
@@ -114,9 +114,9 @@ Le personnage commence le jeu avec une Renommée égale à son niveau de personn
 |- CLASS="premier"
 | Les alliés ou les sbires du personnage content ses exploits avant qu’il n’arrive || +5
 |-
-| Un [barde](./Barde.md) conte les exploits du personnage ou en fait des chansons avant que celui-ci n’arrive || +1/2 niveau du barde
+| Un [[barde]] conte les exploits du personnage ou en fait des chansons avant que celui-ci n’arrive || +1/2 niveau du barde
 |-
-| Le personnage a des [contacts](./contacts.md) PNJ dans le village || +1
+| Le personnage a des [[contacts]] PNJ dans le village || +1
 |-
 | Le personnage a des ennemis dans le village || +1
 |-
@@ -130,9 +130,9 @@ La Renommée du personnage détermine la portée maximale de sa Sphère d’infl
 
 Bien que la réputation du personnage puisse se développer au gré des hasards, il s’agit souvent d’un phénomène volontaire, que ce soit parce que le personnage voyage avec des bardes qui enjolivent les exploits du personnage pour les rendre plus divertissants, par l’intermédiaire d’alliés qui exagèrent ses réussites ordinaires ou d’ennemis qui transmettent les rumeurs courant à son sujet pour rallier les autres contre lui ou que ce soit le personnage lui-même qui raconte son histoire à un auditoire enthousiaste. Les endroits où se racontent ces histoires déterminent les lieux où le personnage est connu et façonnent sa Sphère d’influence : un ensorceleur héroïque pourrait très bien engager des bardes afin qu’ils vantent sa magie dans un royaume voisin dans lequel il a l’intention de se rendre comme un vil barbare pourrait conduire les survivants mutilés de ses attaques vers le sud pour inspirer la peur à ses futures victimes.
 
-En dehors de sa Sphère d’influence, la Renommée du personnage est de 0. Il peut tenter d’élargir sa Sphère d’influence à un nouveau village en faisant un test de [Charisme](./Charisme.md), de [Diplomatie](./Diplomatie.md) ou d’[Intimidation](./Intimidation.md) DD 30. S’il réussit, il peut alors considérer le village comme faisant partie de sa Sphère d’influence pendant 1d4 jours mais sa Renommée est réduite de moitié dans ce village. Après cette période, le village n’appartient plus à la Sphère d’influence du personnage.
+En dehors de sa Sphère d’influence, la Renommée du personnage est de 0. Il peut tenter d’élargir sa Sphère d’influence à un nouveau village en faisant un test de [[Charisme]], de [[Diplomatie]] ou d’[[Intimidation]] DD 30. S’il réussit, il peut alors considérer le village comme faisant partie de sa Sphère d’influence pendant 1d4 jours mais sa Renommée est réduite de moitié dans ce village. Après cette période, le village n’appartient plus à la Sphère d’influence du personnage.
 
-Ci-contre, les actions et conditions qui altèrent le modificateur des tests de [Charisme](./Charisme.md), de [Diplomatie](./Diplomatie.md) ou d’[Intimidation](./Intimidation.md) quand il s’agit d’étendre sa Sphère d’influence.
+Ci-contre, les actions et conditions qui altèrent le modificateur des tests de [[Charisme]], de [[Diplomatie]] ou d’[[Intimidation]] quand il s’agit d’étendre sa Sphère d’influence.
 
 {s:Reference|POINTSDEPRESTIGE}{s:Reference|PRESTIGE}
 ### Les points de Prestige
@@ -156,11 +156,11 @@ C’est la Renommée de départ pour les nouveaux aventuriers de niveau 1.
 
 - **Graisseur de patte (titre, 4 PP).** Dans tous les lieux d’au moins 5  000 habitants, le personnage peut trouver un fonctionnaire corrompu. Si le personnage se retrouve emprisonné ou pénalisé pour des crimes commis dans la juridiction de la ville, il peut tirer profit de ce contact. Il ne paie pas d’amende et échappe à la condamnation s’il réussit un test de Diplomatie (DD 15 pour les crimes mineurs, 20 pour les crimes graves ou 25 pour les crimes capitaux). Le personnage peut utiliser cette capacité une fois par session de jeu. Il peut choisir ce titre pour chaque ville appartenant à sa Sphère d’influence : chaque fois qu’il le prend, il choisit une ville dans laquelle il peut utiliser cette récompense.
 
-- **Pacte planaire (5 PP).**  Le personnage gagne les services d’un diablotin, d’un méphite, d’un quasit ou d’une créature extraplanaire similaire de la liste de [Familier supérieur](./Familier supérieur.md). Il peut choisir une créature dont l’alignement ne diffère que d’un niveau du sien sur chaque axe. La créature agit comme un serviteur enthousiaste pendant un nombre de rencontres égal au bonus d’[Intelligence](./Intelligence.md), de [Sagesse](./Sagesse.md) ou de [Charisme](./Charisme.md) du personnage (le bonus le plus haut) mais ne reste pas plus de 24 heures. La créature est un extérieur convoqué qui retourne automatiquement sur son plan d’origine à la fin de son service.
+- **Pacte planaire (5 PP).**  Le personnage gagne les services d’un diablotin, d’un méphite, d’un quasit ou d’une créature extraplanaire similaire de la liste de [[Familier supérieur]]. Il peut choisir une créature dont l’alignement ne diffère que d’un niveau du sien sur chaque axe. La créature agit comme un serviteur enthousiaste pendant un nombre de rencontres égal au bonus d’[[Intelligence]], de [[Sagesse]] ou de [[Charisme]] du personnage (le bonus le plus haut) mais ne reste pas plus de 24 heures. La créature est un extérieur convoqué qui retourne automatiquement sur son plan d’origine à la fin de son service.
 
 #### Renommée 10
 C’est la Renommée des personnages qui ont achevé deux ou trois aventures.
-- **Études de magie I (1 ou 2 PP).** Grâce à l’aide d’un magicien ou d’un rituel magique, le personnage prépare et lance quelques petits sorts profanes. S’il dépense 1 PP, il peut préparer 4 tours de magie de magicien ou un sort de magicien de niveau 1. S’il dépense 2 PP, il peut préparer 4 tours de magie de magicien et un sort de magicien de niveau 1. Il lance ces sorts comme un [magicien](./Magicien.md) et doit avoir l’[Intelligence](./Intelligence.md) minimum pour préparer ces sorts. Le personnage ne peut pas choisir cette récompense s’il est magicien. Après 24 heures, il subit un affaiblissement temporaire de 1d3 points d’Intelligence et perd tous les sorts préparés qu’il n’a pas lancés.
+- **Études de magie I (1 ou 2 PP).** Grâce à l’aide d’un magicien ou d’un rituel magique, le personnage prépare et lance quelques petits sorts profanes. S’il dépense 1 PP, il peut préparer 4 tours de magie de magicien ou un sort de magicien de niveau 1. S’il dépense 2 PP, il peut préparer 4 tours de magie de magicien et un sort de magicien de niveau 1. Il lance ces sorts comme un [[magicien]] et doit avoir l’[[Intelligence]] minimum pour préparer ces sorts. Le personnage ne peut pas choisir cette récompense s’il est magicien. Après 24 heures, il subit un affaiblissement temporaire de 1d3 points d’Intelligence et perd tous les sorts préparés qu’il n’a pas lancés.
 
 - **Témoin de moralité (5 PP).** Si le personnage a des ennuis avec les autorités à la suite de fausses accusations, un influent bienfaiteur intervient pour attester de l’honneur du personnage, le disculpant de tout méfait. Il peut utiliser cette récompense sans malus jusqu’à trois fois, après quoi les bienfaiteurs disponibles commencent à remettre sa réputation en question : toute utilisation supplémentaire coûte 1d4 points de prestige supplémentaires au personnage.
 
@@ -172,7 +172,7 @@ C’est la Renommée des personnages qui ont achevé deux ou trois aventures.
 C’est la Renommée des aventuriers qui ont achevé plusieurs aventures et que le public commence à remarquer.
 - **Études de magie II (3 PP).** Cette récompense fonctionne comme *Études de magie I* à la seule différence que le personnage peut préparer un sort de magicien de niveau 2 et subit un affaiblissement temporaire de 1d4 points d’Intelligence au lieu de 1d3. Il peut utiliser cette récompense et Études de magie I en même temps. Il ne peut pas choisir cette récompense s’il est magicien.
 
-- **Territoire de prédilection (titre, 5 PP).** Le personnage choisit une région de 260 km<sup>2</sup> située dans sa Sphère d’influence. Il s’agit désormais de son territoire de prédilection et il gagne un bonus de +2 à ses tests de [Diplomatie](./Diplomatie.md) sur ce territoire. Quand sa Renommée atteint 30, il peut choisir ce titre une deuxième fois, gagnant un deuxième territoire de prédilection et faisant passer le bonus sur son premier territoire de prédilection à +4. Quand sa Renommée atteint 55, il peut choisir ce titre une troisième fois, gagnant un troisième territoire de prédilection et faisant passer le bonus sur son premier territoire à +6 et, sur son deuxième territoire, à +4.
+- **Territoire de prédilection (titre, 5 PP).** Le personnage choisit une région de 260 km<sup>2</sup> située dans sa Sphère d’influence. Il s’agit désormais de son territoire de prédilection et il gagne un bonus de +2 à ses tests de [[Diplomatie]] sur ce territoire. Quand sa Renommée atteint 30, il peut choisir ce titre une deuxième fois, gagnant un deuxième territoire de prédilection et faisant passer le bonus sur son premier territoire de prédilection à +4. Quand sa Renommée atteint 55, il peut choisir ce titre une troisième fois, gagnant un troisième territoire de prédilection et faisant passer le bonus sur son premier territoire à +6 et, sur son deuxième territoire, à +4.
 
 - **Ami receleur (titre, 4 PP).** Une fois par session de jeu, quand il vend un objet, le personnage peut se faire passer pour un PNJ receleur, augmentant le prix de vente de l’objet de 10%. Ceci n’a aucun effet sur les objets qui se vendent normalement au total de leur valeur (comme les pierres précieuses et les biens de consommation courante).
 
@@ -182,13 +182,13 @@ C’est la Renommée des aventuriers qui ont achevé plusieurs aventures et que 
 
 - **Maître des échanges (titre, 4 PP).** En faisant appel à des contacts influents et à son expérience mercantile, le personnage peut faire de bonnes affaires. Une fois par session de jeu, il bénéficie d’une remise de 10% quand il achète un objet. Cette récompense ne permet pas de bénéficier de services de lancement de sorts, de composantes matérielles onéreuses, d’objets normalement vendus à la totalité de leur valeur (comme les articles de commerce et les pierres précieuses) ou de la fabrication d’objets magiques.
 
-- **Sacrifice (0 PP).** Le personnage fait un sacrifice important pour gagner 1d3 points de prestige. Si c’est un personnage héroïque, il doit dépenser 375 po × son niveau de personnage pour utiliser cette récompense, ce qui représente un grand festin organisé en son nom, un don de charité ou d’autres dépenses améliorant sa réputation. Si c’est un personnage vil, il doit tuer ou sacrifier des alliés et des sbires totalisant un nombre de [dés de vie](./../Ressources/DV.md) égal à son niveau de personnage, ce qui représente son côté impitoyable à l’égard de ses amis et subalternes. Le personnage peut utiliser cette récompense une fois par mois.
+- **Sacrifice (0 PP).** Le personnage fait un sacrifice important pour gagner 1d3 points de prestige. Si c’est un personnage héroïque, il doit dépenser 375 po × son niveau de personnage pour utiliser cette récompense, ce qui représente un grand festin organisé en son nom, un don de charité ou d’autres dépenses améliorant sa réputation. Si c’est un personnage vil, il doit tuer ou sacrifier des alliés et des sbires totalisant un nombre de [[DV|dés de vie]] égal à son niveau de personnage, ce qui représente son côté impitoyable à l’égard de ses amis et subalternes. Le personnage peut utiliser cette récompense une fois par mois.
 
-- **Sage (titre, 5 PP).** Le personnage choisit une compétence de [Connaissances](./Connaissances.md). Il peut faire des tests de cette compétence, même s’il ne l’a pas développée, jusqu’à un [DD](./DD.md) maximum de 20 au lieu de la limite normale de 10. Il peut choisir ce titre plusieurs fois, sélectionnant à chaque fois une compétence de Connaissances différente.
+- **Sage (titre, 5 PP).** Le personnage choisit une compétence de [[Connaissances]]. Il peut faire des tests de cette compétence, même s’il ne l’a pas développée, jusqu’à un [[DD]] maximum de 20 au lieu de la limite normale de 10. Il peut choisir ce titre plusieurs fois, sélectionnant à chaque fois une compétence de Connaissances différente.
 
-- **Compagnon d’armes temporaire (1 PP.** Le personnage gagne un compagnon d’armes comme s’il avait le don [Prestige](./Prestige.md). Ce personnage reste à son service pendant 24 heures.
+- **Compagnon d’armes temporaire (1 PP.** Le personnage gagne un compagnon d’armes comme s’il avait le don [[Prestige]]. Ce personnage reste à son service pendant 24 heures.
 
-- **Vengeur (titre, 2 PP).** Le personnage choisit une organisation rivale comme [ennemi juré](./ennemi juré.md). Il gagne un bonus de +1 à ses jets d’attaque et de dégâts contre les membres de cette organisation. Il s’agit d’un bonus d’ennemi juré.
+- **Vengeur (titre, 2 PP).** Le personnage choisit une organisation rivale comme [[ennemi juré]]. Il gagne un bonus de +1 à ses jets d’attaque et de dégâts contre les membres de cette organisation. Il s’agit d’un bonus d’ennemi juré.
 
 #### Renommée 30
 C’est la Renommée des aventuriers accomplis devenus des héros locaux grâce à leurs exploits.
@@ -198,7 +198,7 @@ C’est la Renommée des aventuriers accomplis devenus des héros locaux grâce 
 
 - **Trompe-la-mort (5 PP).** Si le personnage est réduit à 0 point de vie ou moins mais n’est pas mort, il est automatiquement stabilisé : lors de son prochain tour, il est soigné de 2d8+3 points de vie. Il ne peut choisir cette récompense qu’une fois par niveau de personnage.
 
-- **Officier (titre, 5 PP).** Le personnage ne peut choisir ce titre s’il a déjà pris le titre d’initié uniquement. Son rang au sein de l’organisation choisie augmente. Il gagne une appellation appropriée à l’organisation et un bonus de +4 à ses tests de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md), d’[Intimidation](./Intimidation.md) et de [Psychologie](./Psychologie.md) pour interagir avec quiconque appartient à l’organisation. S’il appartient à plusieurs organisations, il peut prendre ce titre à plusieurs reprises.
+- **Officier (titre, 5 PP).** Le personnage ne peut choisir ce titre s’il a déjà pris le titre d’initié uniquement. Son rang au sein de l’organisation choisie augmente. Il gagne une appellation appropriée à l’organisation et un bonus de +4 à ses tests de [[Bluff]], de [[Diplomatie]], d’[[Intimidation]] et de [[Psychologie]] pour interagir avec quiconque appartient à l’organisation. S’il appartient à plusieurs organisations, il peut prendre ce titre à plusieurs reprises.
 
 - **Gardien (titre, 5 PP).** Au sein de sa Sphère d’influence, le personnage jouit d’un respect suffisant pour arrêter n’importe quel citoyen normal qu’il pense coupable d’un crime commis ou en cours, l’emprisonner et confisquer ses biens. Ce droit ne s’applique pas quand il traite avec des nobles, des aristocrates, des personnalités politiques ou des gens qui ont des rangs ou titres similaires ou supérieurs au sien.
 

@@ -4,7 +4,7 @@ Title: Gnome (personnalisation)
 LastModified: 2020-04-29 22:18
 ---
 
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 Voici quelques règles pour personnaliser vos gnomes.
 
 ### Traits raciaux alternatifs supplémentaires
@@ -63,7 +63,7 @@ Les bénéficiaires du sorts doivent avoir bu l'infusion et tant qu’ils resten
 
 
 #### Réparation intégrale
-[Réparation intégrale (niveau 2)](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Réparation intégrale.ashx)
+[Réparation intégrale (niveau 2)](https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.R%c3%a9paration%20int%c3%a9grale.ashx)
 
 #### Protection du foyer
 **École** Invocation et Abjuration ; **Niveau** 3 (Gnome)  

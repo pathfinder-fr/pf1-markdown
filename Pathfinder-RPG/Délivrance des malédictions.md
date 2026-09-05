@@ -20,20 +20,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Bard](./Barde.md) 3, [Cham](./Chaman.md) 3, [Hyp](./Hypnotiseur.md) 3, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Méd](./Médium.md) 3, [Pal](./Paladin.md) 3, [Prê](./Prêtre.md) 3, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 4  
+**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Barde|Bard]] 3, [[Chaman|Cham]] 3, [[Hypnotiseur|Hyp]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Médium|Méd]] 3, [[Paladin|Pal]] 3, [[Prêtre|Prê]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature ou objet touché  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Comme son nom l’indique, cette [abjuration](./Abjuration.md) fait instantanément disparaître toutes les malédictions affligeant un objet ou une créature. Si le sort vise une créature, le personnage doit réussir un test de lanceur de sorts (1d20 + [niveau de lanceur de sorts](./NLS.md)) contre le [DD](./DD.md) de chaque malédiction qui affecte la cible. En cas de succès, la malédiction disparaît. Si le sort cible un [objet maudit](./Objets maudits.md) (bouclier, arme, armure, etc.), la malédiction n’est pas annulée, mais son effet est suspendu suffisamment longtemps pour que le personnage puisse s’en débarrasser.
+Comme son nom l’indique, cette [[abjuration]] fait instantanément disparaître toutes les malédictions affligeant un objet ou une créature. Si le sort vise une créature, le personnage doit réussir un test de lanceur de sorts (1d20 + [[NLS|niveau de lanceur de sorts]]) contre le [[DD]] de chaque malédiction qui affecte la cible. En cas de succès, la malédiction disparaît. Si le sort cible un [[objets maudits|objet maudit]] (bouclier, arme, armure, etc.), la malédiction n’est pas annulée, mais son effet est suspendu suffisamment longtemps pour que le personnage puisse s’en débarrasser.
 
-*Délivrance des malédictions* contre et dissipe *[malédiction](./sort Malédiction.md)*.
+*Délivrance des malédictions* contre et dissipe *[[sort malédiction|malédiction]]*.

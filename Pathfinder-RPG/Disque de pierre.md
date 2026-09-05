@@ -10,13 +10,13 @@ Categories:
 - Sort sorcière 2
 ---
 
-{s:MCA}**École** [Invocation](./Invocation.md) ([création](./../Création.md)) <nowiki>[</nowiki>terre<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2  
+{s:MCA}**École** [[Invocation]] ([[création]]) <nowiki>[[</nowiki>terre<nowiki>]]</nowiki> ; **Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une pincée de terre ou de métal)  
+**Composantes** [[composantes|V, G, M]] (une pincée de terre ou de métal)  
 
-**Portée** courte (7,5 m + 1,5 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,5 m + 1,5 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** un ou plusieurs disques de pierre  
 

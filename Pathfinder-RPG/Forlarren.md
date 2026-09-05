@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Fée|Plaines|Tempéré}
 - *Source : Bestiaire 2* p.136
 - **PX** 600
-- [Fée](./type Fée.md) de taille M, NM
-- **Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11
+- [[type Fée|Fée]] de taille M, NM
+- **Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +11
 (((Défense)))
 - **CA** 15, contact 12, pris au dépourvu 13 (Dex +2, naturelle +3)
 - **pv** 18 (4d6+4)
@@ -26,19 +26,19 @@ Categories:
 - **VD** 9 m (6 {s:c})
 - **Corps à corps** 2 griffes, +4 (1d6+1)
 - **Pouvoirs magiques** (NLS 4<sup>e</sup> ; concentration +3)
-  - 3/jour — *[métal brûlant](./Métal brûlant.md)* (DD 11)
+  - 3/jour — *[[métal brûlant]]* (DD 11)
 (((Caractéristiques)))
 - **For** 12, **Dex** 15, **Con** 12, **Int** 4, **Sag** 13, **Cha** 9
 - **BBA** +2, **BMO** +3, **DMD** 15
-- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Talent](./Talent.md) ([Perception](./Perception.md))
-- **Compétences** [Acrobaties](./Acrobaties.md) +9, [Discrétion](./Discrétion.md) +9 [Perception](./Perception.md) +11
+- **Dons** [[Attaque en finesse]], [[Talent]] ([[Perception]])
+- **Compétences** [[Acrobaties]] +9, [[Discrétion]] +9 [[Perception]] +11
 - **Langues** commun, sylvestre
 (((Écologie)))
 - **Environnement** plaines/forêts tempérées
 - **Organisation sociale** solitaire
 - **Trésor** standard
 (((Capacités spéciales)))
-- **Remords (Ext).** Chaque fois qu’un forlarren tue une créature vivante, il doit réussir un jet de Volonté de DD 15 pour éviter que le remord ne l’accable. En cas d’échec, le forlarren devient [nauséeux](./Nauséeux.md) pendant 1d6 rounds. Il s’agit d’un effet mental.
+- **Remords (Ext).** Chaque fois qu’un forlarren tue une créature vivante, il doit réussir un jet de Volonté de DD 15 pour éviter que le remord ne l’accable. En cas d’échec, le forlarren devient [[nauséeux]] pendant 1d6 rounds. Il s’agit d’un effet mental.
 
 </div>
 </td><td><div>*Cette créature humanoïde a des jambes de bouc imberbe, un corps complètement glabre, une tête cornue et une expression plutôt sinistre.*
@@ -51,7 +51,7 @@ La plupart des forlarrens sont des femelles et bien peu d’entre elles sont cap
 
 Au combat, ils utilisent leurs mains griffues et se concentrent généralement sur un adversaire à la fois, poursuivant leurs attaques jusqu’à leur mort ou la mort de leur cible. Bizarrement, quand un forlarren parvient à prendre une vie, la douceur qui caractérise sa mère féerique reprend parfois le dessus et le pousse à montrer un profond remord face à sa cruauté. Avec des changements d’humeur d’une telle importance, on comprend aisément pourquoi les forlarrens ne parviennent quasiment jamais à former des amitiés durables, même avec d’autres spécimens de leur espèce.
 
-La plupart des forlarrens n’héritent pas des capacités magiques de leur mère féerique mais gagnent tout de même une parcelle de celles de leur père fiélon. Dans la majorité des cas, cela se manifeste sous la forme d’un pouvoir de *[métal brûlant](./Métal brûlant.md)* utilisable trois fois par jour, mais certains forlarren gagnent plutôt une capacité issue de la liste suivante&nbsp;: *[bourrasque](./Bourrasque.md)*, *[distorsion du bois](./Distorsion du bois.md)*, *[lame de feu](./Lame de feu.md)*, *[métal gelé](./Métal gelé.md)*, *[nuée grouillante](./Nuée grouillante.md)* ou *[sphère de feu](./Sphère de feu.md)*.
+La plupart des forlarrens n’héritent pas des capacités magiques de leur mère féerique mais gagnent tout de même une parcelle de celles de leur père fiélon. Dans la majorité des cas, cela se manifeste sous la forme d’un pouvoir de *[[métal brûlant]]* utilisable trois fois par jour, mais certains forlarren gagnent plutôt une capacité issue de la liste suivante&nbsp;: *[[bourrasque]]*, *[[distorsion du bois]]*, *[[lame de feu]]*, *[[métal gelé]]*, *[[nuée grouillante]]* ou *[[sphère de feu]]*.
 
 Un forlarren mesure 1,80 mètre de hauteur et pèse quelque 80 kg. En théorie, ces créatures peuvent vivre plusieurs centaines d’années, mais la plupart connaissent une mort violente avant leur dixième année.
 

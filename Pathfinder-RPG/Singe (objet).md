@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 3 po ; **Poids** 2,5 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-On trouve ces primates herbivores de taille TP dans différents habitats mais ils préfèrent généralement les jungles et les forêts chaudes. Ils peuvent saisir et porter des objets pesant moins de 0,5 kg. Ils servent parfois de [familiers](./Familiers.md). Voir les statistiques du [singe](./Singe.md).
+On trouve ces primates herbivores de taille TP dans différents habitats mais ils préfèrent généralement les jungles et les forêts chaudes. Ils peuvent saisir et porter des objets pesant moins de 0,5 kg. Ils servent parfois de [[Familiers]]. Voir les statistiques du [[singe]].

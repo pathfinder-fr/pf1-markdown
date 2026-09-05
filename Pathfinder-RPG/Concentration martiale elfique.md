@@ -7,9 +7,9 @@ LastModified: 2020-09-29 16:29
 {s:cs|Weapon Master's Handbook}
 *Votre style de combat est renforcé par votre intelligence vive.*
 
-**Conditions.** INT 13, [Entraînement guerrier elfique](./Entraînement guerrier elfique.md), [École martiale elfique](./École martiale elfique.md), [Attaque en finesse](./Attaque en finesse.md), BBA +4, Trait racial d'armes familières
+**Conditions.** INT 13, [[Entraînement guerrier elfique]], [[École martiale elfique]], [[Attaque en finesse]], BBA +4, Trait racial d'armes familières
 
-**Avantages.** Quand vous utilisez le [Style martial elfique](./Style-martial-elfique.md), vous pouvez ajouter votre modificateur d'Intelligence aux dégâts infligés par votre arme (au lieu de tout autre bonus ou modificateur de capacité que vous pouvez ajouter aux dégâts de votre arme). Vous devez pour cela utiliser une arme adaptée à votre taille.
+**Avantages.** Quand vous utilisez le [[Style martial elfique]], vous pouvez ajouter votre modificateur d'Intelligence aux dégâts infligés par votre arme (au lieu de tout autre bonus ou modificateur de capacité que vous pouvez ajouter aux dégâts de votre arme). Vous devez pour cela utiliser une arme adaptée à votre taille.
 
 
 (((Elven Battle Focus (Combat)

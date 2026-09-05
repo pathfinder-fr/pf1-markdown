@@ -4,7 +4,7 @@ Title: Le règne de l'hiver
 LastModified: 2016-05-06 19:54
 ---
 
-Vous trouverez les aides de jeu relatives à cette campagne sur [cette page](./Aides de jeu AP12.md).
+Vous trouverez les aides de jeu relatives à cette campagne sur [[Aides de jeu AP12|cette page]].
 
 ### Les livres de la campagne
 
@@ -30,7 +30,7 @@ Tous les 100 ans, la reine-sorcière Baba Yaga revient dans la nation d'Irrisen 
 Le portail de l'hiver a été fermé, mais les PJ se trouvent maintenant pris au piège dans les terres gelées d'Irrisen avec une quête des plus urgentes : trouver Baba Yaga ! Afin de traquer la Reine des sorcières disparue, les PJ vont devoir affronter la capitale infestée de monstres de Trôneblanc, où la cabane dansante de Baba Yaga a été capturée et exhibée. La Possession de l'artefact miraculeux les conduira-t-elle jusqu'à la Reine des sorcières, ou vont-ils mourir d'une mort froide aux mains des sorcières blanches d'Irrisen?  
   
 
-**Articles :** écologie et origine des loups blancs, culte de [Milani](./../Golarion/Milani.md)}
+**Articles :** écologie et origine des loups blancs, culte de [[Golarion.Milani|Milani]]}
 {s:BookTitle|AP12-3|Maiden, Mother, Crone/Fillette, Mère, Vieillarde}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9069_500.jpeg|http://paizo.com/products/btpy8xbz?Pathfinder-Adventure-Path-69-Maiden-Mother-Crone}
 {s:BookPic||}
@@ -70,5 +70,5 @@ Baba Yaga a été sauvé des griffes de son fils Raspoutine, mais la Reine des s
 {s:BookTitle|AP12-7|Reign of Winter Adventure Path Pawn Collection /Boîte de pions pour le règne de l'hiver}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO1008_180.jpeg|http://paizo.com/products/btpy8xsg?Pathfinder-Pawns-Reign-of-Winter-Adventure-Path-Pawn-Collection}
 {s:BookPic||}
-{s:BookComment|Boîte contenant plus de 100 pions cartonnés pour jouer la campagne. Attention, cette boîte ne contient pas de socles, mais ils peuvent être achetés sur le site de [^http://paizo.com/pathfinder/pawns|Paizo].}
+{s:BookComment|Boîte contenant plus de 100 pions cartonnés pour jouer la campagne. Attention, cette boîte ne contient pas de socles, mais ils peuvent être achetés sur le site de [Paizo](http://paizo.com/pathfinder/pawns).}
 {s:BookEnd}

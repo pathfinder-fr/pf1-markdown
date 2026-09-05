@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Infaillible
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Infaillible](./Descriptions individuelles des propriétés spéciales des armes.md#Infaillible)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Infaillible]]

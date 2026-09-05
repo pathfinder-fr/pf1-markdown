@@ -12,7 +12,7 @@ De nombreuses aventures de Pathfinder se déroulent à l'extérieur et les voyag
 
 Les premiers effets c'est de donner de la valeur à l'équipement et donc aux joueurs qui pensent à prendre leurs précautions. Vous obtiendrez en rôleplay des situations typiques du genre :
 
-Quelqu'un peut me prêter sa tente ou je peux dormir avec toi ? Et là c'est le bordel entre les joueurs (Voir l'épisode de reflet d'acide [http://www.synopsite.com/articles.php?lng=fr&pg=61]Episode 5 - Bivouac...tion !)
+Quelqu'un peut me prêter sa tente ou je peux dormir avec toi ? Et là c'est le bordel entre les joueurs (Voir l'épisode de reflet d'acide [http://www.synopsite.com/articles.php?lng=fr&pg=61](http://www.synopsite.com/articles.php?lng=fr&pg=61)Episode 5 - Bivouac...tion !)
 
 Mais aussi de réaliser des situations de danger autre que par les monstres. La nature est un élément important avec la faim etc. le fait que des personnages tombent inconscients à cause de la fatigue rend un périple en pleine nature bien plus dangereuse et passionnante.
 
@@ -88,4 +88,4 @@ A vous de choisir MJ mais perso je fais un DD qui représente l'échec du joueur
 
 Si le joueur a fait 5, le DD sera de 15 et ça enlève 1d2 point constitution
 
-Sujet sur le forum pour y réagir : [http://www.pathfinder-fr.org/Forum/yaf_postst4651_Les-aides-de-jeu-de-Papy-Ekmule.aspx]
+Sujet sur le forum pour y réagir : [http://www.pathfinder-fr.org/Forum/yaf_postst4651_Les-aides-de-jeu-de-Papy-Ekmule.aspx](http://www.pathfinder-fr.org/Forum/yaf_postst4651_Les-aides-de-jeu-de-Papy-Ekmule.aspx)

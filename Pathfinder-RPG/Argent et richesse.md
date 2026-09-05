@@ -15,7 +15,7 @@ Categories:
 
 <nav class="wiki-toc"></nav>
 
-Chaque personnage débute avec un certain nombre de pièces d’or qu’il peut dépenser pour acheter des armes, des armures et d’autres pièces d’équipement. Au fil de ses aventures, le personnage accumule des richesses qu’il peut dépenser pour se procurer des objets magiques et améliorer la qualité de son équipement. La table suivante indique le nombre de pièces d’or dont chaque [classe](./classe.md) dispose au départ. De plus, le personnage débute avec des vêtements d’une valeur de 10 po ou moins. Pour les personnages de niveau supérieur à 1, consultez plutôt le [tableau d'équipement des PNJ](./Créer des PNJ.md#EQUIPEMENTPNJ) ou le [tableau des richesses par niveau](./Rencontres.md#TABLERICHESSEPJPARNIVEAU).
+Chaque personnage débute avec un certain nombre de pièces d’or qu’il peut dépenser pour acheter des armes, des armures et d’autres pièces d’équipement. Au fil de ses aventures, le personnage accumule des richesses qu’il peut dépenser pour se procurer des objets magiques et améliorer la qualité de son équipement. La table suivante indique le nombre de pièces d’or dont chaque [[classe]] dispose au départ. De plus, le personnage débute avec des vêtements d’une valeur de 10 po ou moins. Pour les personnages de niveau supérieur à 1, consultez plutôt le [[Créer des PNJ#EQUIPEMENTPNJ|tableau d'équipement des PNJ]] ou le [[Rencontres#TABLERICHESSEPJPARNIVEAU|tableau des richesses par niveau]].
 
 {s:Reference|TABLERICHESSEDEPARTPJ}
 <center>
@@ -24,83 +24,83 @@ Chaque personnage débute avec un certain nombre de pièces d’or qu’il peut 
 |- CLASS="titre"
 | Classe || Source || Richesse de départ (po) || Moyenne (po)
 |- CLASS="premier"
-| [Arcaniste](./Arcaniste.md) || MCA || 2d6×10 || 70
+| [[Arcaniste]] || MCA || 2d6×10 || 70
 |-
-| [Alchimiste](./Alchimiste.md) || MJRA || 3d6×10 || 105
+| [[Alchimiste]] || MJRA || 3d6×10 || 105
 |-
-| [Barbare](./Barbare.md) || MJ || 3d6x10 || 105
+| [[Barbare]] || MJ || 3d6x10 || 105
 |-
-| [Barde](./Barde.md) || MJ || 3d6x10 || 105
+| [[Barde]] || MJ || 3d6x10 || 105
 |-
-| [Bretteur](./Bretteur.md) || MCA || 5d6×10 || 175
+| [[Bretteur]] || MCA || 5d6×10 || 175
 |-
-| [Chaman](./Chaman.md) || MCA || 3d6×10 || 105
+| [[Chaman]] || MCA || 3d6×10 || 105
 |-
-| [Chasseur](./Chasseur.md) || MCA || 4d6×10 || 140
+| [[Chasseur]] || MCA || 4d6×10 || 140
 |-
-| [Chevalier](./Chevalier.md) || MJRA || 5d6×10 || 175
+| [[Chevalier]] || MJRA || 5d6×10 || 175
 |-
-| [Cinétiste](./Cinétiste.md) || AO || 1d6×10 || 35
+| [[Cinétiste]] || AO || 1d6×10 || 35
 |-
-| [Conjurateur](./Conjurateur.md) || MJRA || 2d6×10 || 70
+| [[Conjurateur]] || MJRA || 2d6×10 || 70
 |-
-| [Druide](./Druide.md) || MJ || 2d6x10 || 70
+| [[Druide]] || MJ || 2d6x10 || 70
 |-
-| [Enquêteur](./Enquêteur.md) || MCA || 3d6×10 || 105
+| [[Enquêteur]] || MCA || 3d6×10 || 105
 |-
-| [Ensorceleur](./Ensorceleur.md) || MJ || 2d6x10 || 70
+| [[Ensorceleur]] || MJ || 2d6x10 || 70
 |-
-| [Guerrier](./Guerrier.md) || MJ || 5d6x10 || 175
+| [[Guerrier]] || MJ || 5d6x10 || 175
 |-
-| [Hypnotiseur](./Hypnotiseur.md) || AO || 3d6×10 || 105
+| [[Hypnotiseur]] || AO || 3d6×10 || 105
 |-
-| [Inquisiteur](./Inquisiteur.md) || MJRA || 4d6×10 || 140
+| [[Inquisiteur]] || MJRA || 4d6×10 || 140
 |-
-| [Justicier](./Justicier.md) || *UI* || 5d6x10 || 175
+| [[Justicier]] || *UI* || 5d6x10 || 175
 |-
-| [Lutteur](./Lutteur.md) || MCA || 3d6×10 || 105
+| [[Lutteur]] || MCA || 3d6×10 || 105
 |-
-| [Magicien](./Magicien.md) || MJ || 2d6x10 || 70
+| [[Magicien]] || MJ || 2d6x10 || 70
 |-
-| [Magus](./Magus.md) || UM || 4d6×10 || 140
+| [[Magus]] || UM || 4d6×10 || 140
 |-
-| [Médium](./Médium.md) || AO || 4d6×10 || 140
+| [[Médium]] || AO || 4d6×10 || 140
 |-
-| [Métamorphe](./Métamorphe.md) || *UW* || 3d6×10 || 105
+| [[Métamorphe]] || *UW* || 3d6×10 || 105
 |-
-| [Moine](./Moine.md) || MJ || 1d6x10 || 35
+| [[Moine]] || MJ || 1d6x10 || 35
 |-
-| [Ninja](./Ninja.md) || AG || 4d6x10 || 140
+| [[Ninja]] || AG || 4d6x10 || 140
 |-
-| [Occultiste](./Occultiste.md) || AO || 4d6×10 || 140
+| [[Occultiste]] || AO || 4d6×10 || 140
 |-
-| [Oracle](./Oracle.md) || MJRA || 3d6×10 || 105
+| [[Oracle]] || MJRA || 3d6×10 || 105
 |-
-| [Paladin](./Paladin.md) || MJ || 5d6x10 || 175
+| [[Paladin]] || MJ || 5d6x10 || 175
 |-
-| [Pistolier](./Pistolier.md) || AG || 5d6x10 || 175
+| [[Pistolier]] || AG || 5d6x10 || 175
 |-
-| [Prêtre](./Prêtre.md) || MJ || 4d6x10 || 140
+| [[Prêtre]] || MJ || 4d6x10 || 140
 |-
-| [Prêtre combattant](./Prêtre combattant.md) || MCA || 5d6×10 || 175
+| [[Prêtre combattant]] || MCA || 5d6×10 || 175
 |-
-| [Psychiste](./Psychiste.md) || AO || 2d6×10 || 70
+| [[Psychiste]] || AO || 2d6×10 || 70
 |-
-| [Rôdeur](./Rôdeur.md) || MJ || 5d6x10 || 175
+| [[Rôdeur]] || MJ || 5d6x10 || 175
 |-
-| [Roublard](./Roublard.md) || MJ || 4d6x10 || 140
+| [[Roublard]] || MJ || 4d6x10 || 140
 |-
-| [Samouraï](./Samouraï.md) || AG || 5d6×10 || 175
+| [[Samouraï]] || AG || 5d6×10 || 175
 |-
-| [Sanguin](./Sanguin.md) || MCA || 3d6×10 || 105
+| [[Sanguin]] || MCA || 3d6×10 || 105
 |-
-| [Scalde](./Scalde.md) || MCA || 3d6×10 || 105
+| [[Scalde]] || MCA || 3d6×10 || 105
 |-
-| [Sorcière](./Sorcière.md) || MJRA || 3d6×10 || 105
+| [[Sorcière]] || MJRA || 3d6×10 || 105
 |-
-| [Spirite](./Spirite.md) || AO || 2d6×10 || 70
+| [[Spirite]] || AO || 2d6×10 || 70
 |-
-| [Tueur](./Tueur.md) || MCA || 5d6×10 || 175
+| [[Tueur]] || MCA || 5d6×10 || 175
 |}
 </center>
 

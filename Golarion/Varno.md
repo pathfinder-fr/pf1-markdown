@@ -7,12 +7,12 @@ Categories:
 - Ustalav
 ---
 
-Le comté de Varno est situé à l'est de l'[Ustalav](./Ustalav.md).
+Le comté de Varno est situé à l'est de l'[[Ustalav]].
 
 Il s'agit d'un grand territoire couvert de forêts denses, de lacs profonds et de grandes plaines. Malgré la qualité géologique du territoire, les campagnes ne sont pas aussi fertiles qu'on pourrait l'espérer. En effet, le comté est soumis à un climat erratique, que certains disent surnaturel, qui fait alterner les saisons d'abondance et les années de sécheresse et de famine.
 
-En conséquence, la population du comté de Varno est l'un des plus pieux qui soit en [Ustalav](./Ustalav.md). Ils sont prompts à déclarer leur inextinguible foi en [Desna](./Desna.md) ou en l'inconstant [Gozreh](./Gozreh.md) dès que le temps change en leur défaveur. Cette ferveur est le terreau sur lequel de nombreux prédicateurs ont construits de fausses églises.
+En conséquence, la population du comté de Varno est l'un des plus pieux qui soit en [[Ustalav]]. Ils sont prompts à déclarer leur inextinguible foi en [[Desna]] ou en l'inconstant [[Gozreh]] dès que le temps change en leur défaveur. Cette ferveur est le terreau sur lequel de nombreux prédicateurs ont construits de fausses églises.
 
-Les conditions de vie difficiles tendent à élever les gens les uns envers les autres et, durant les temps de disette, les habitants du comté sont parmi les plus suspicieux d'[Ustalav](./Ustalav.md). Ces conditions difficiles sont exacerbées par le gouvernement distant du comte Risotmaur Tiriac qui est très éloigné des aspirations de son peuple.
+Les conditions de vie difficiles tendent à élever les gens les uns envers les autres et, durant les temps de disette, les habitants du comté sont parmi les plus suspicieux d'[[Ustalav]]. Ces conditions difficiles sont exacerbées par le gouvernement distant du comte Risotmaur Tiriac qui est très éloigné des aspirations de son peuple.
 
-Les deux principaux centres de population du comté sont [Cesca](./Cesca.md) et [Feuille-Rouge](./Feuille-Rouge.md) (Redleaf).
+Les deux principaux centres de population du comté sont [[Cesca]] et [[Feuille-Rouge]] (Redleaf).

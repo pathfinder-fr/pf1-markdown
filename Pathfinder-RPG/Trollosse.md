@@ -13,28 +13,28 @@ Categories:
 {s:pucem|Créature magique|Montagnes|Froid}
 {s:BDTexte|*Source : Bestiaire 3 page 265*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille M, N}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 12 cases, [vision nocturne](./vision nocturne.md), [odorat](./odorat.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille M, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] à 12 cases, [[vision nocturne]], [[odorat]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 14 (Dex +1, naturelle +4)}
-{s:BDTexte|**pv** 30 (4d10+8) ; [régénération](./Régénération.md) 3 (acide ou feu)}
+{s:BDTexte|**pv** 30 (4d10+8) ; [[régénération]] 3 (acide ou feu)}
 {s:BDTexte|**Réf** +5, **Vig** +6, **Vol** +1}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +8 (1d10+6 plus [maladie](./maladie.md) et [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** morsure, +8 (1d10+6 plus [[maladie]] et [[croc-en-jambe]])}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 13, **Con** 15, **Int** 2, **Sag** 11, **Cha** 6}
 {s:BDTexte|**BBA** +3, **BMO** +8, **DMD** 22}
-{s:BDTexte|**Dons** [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5, [Perception](./Perception.md) +8, [Survie](./Survie.md) +1 (+5 pour le pistage à l’odeur)}
-{s:BDTexte|**Modificateur racial** +4 en [Survie](./Survie.md) pour le pistage à l’odeur}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +5, [[Perception]] +8, [[Survie]] +1 (+5 pour le pistage à l’odeur)}
+{s:BDTexte|**Modificateur racial** +4 en [[Survie]] pour le pistage à l’odeur}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes froides}
 {s:BDTexte|**Organisation** solitaire, couple ou meute (3-8)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Maladie (Ext).** La salive du trollosse est un mélange infectieux et contagieux. Les créatures mordues par un trollosse sont souvent affligées de la fièvre du sang enflammé, maladie se caractérisant par une douleur interne sourde, comme si le sang de la victime était en ébullition. Les autres symptômes incluent la perte de coordination musculaire, l’éruption de cloques pleines de pus, une fatigue et une léthargie générales. Les trolls et les trollosses sont immunisés contre la fièvre du sang enflammé, même si les trollosses sont souvent affligés des cloques de pus caractéristiques de la maladie.
-- *Fièvre du sang enflammé :* morsure — blessure ; JdS [Vigueur](./Vigueur.md) [DD](./DD.md) 14 ; *incubation* 1 journée ; *fréquence* 1/jour ; *effet* affaiblissement temporaire 1d3 [Force](./Force.md), 1d3 [Dex](./Dex.md) et la cible est [fatiguée](./Fatigué.md) ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+- *Fièvre du sang enflammé :* morsure — blessure ; JdS [[Vigueur]] [[DD]] 14 ; *incubation* 1 journée ; *fréquence* 1/jour ; *effet* affaiblissement temporaire 1d3 [[Force]], 1d3 [[Dex]] et la cible est [[fatigué|fatiguée]] ; *guérison* 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la [[Constitution]].}
 
 </div>
 </td><td><div>

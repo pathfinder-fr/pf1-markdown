@@ -6,7 +6,7 @@ LastModified: 2015-11-20 01:02
 
 *La terre reconnaît sa parenté avec l’oréade et n’entrave pas ses mouvements.*
 
-**Conditions requises.** [Oréade](./Oréade (race).md).
+**Conditions requises.** [[Oréade (race)|Oréade]].
 
 **Avantages.** Lorsque l’oréade se déplace, il peut traverser
 1,5 mètre de terrain difficile de terre ou de pierre (débris,

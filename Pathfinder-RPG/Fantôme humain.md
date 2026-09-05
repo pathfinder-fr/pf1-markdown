@@ -14,14 +14,14 @@ Categories:
 {s:pucem|Mort-vivant|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.136*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Humain](./sous-type humain.md) fantôme, [noble](./Noble.md) 7}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) ([humanoïde](./type Humanoïde.md) [altéré](./sous-type altéré.md), [intangible](./sous-type intangible.md)) de taille M, CM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +18}
+{s:BDTexte|[[sous-type humain|Humain]] fantôme, [[noble]] 7}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] ([[type humanoïde|humanoïde]] [[sous-type altéré|altéré]], [[sous-type intangible|intangible]]) de taille M, CM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +18}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 17, pris au dépourvu 15 (Dex +1, esquive +1, parade +5)}
 {s:BDTexte|**pv** 73 (7d8+42)}
 {s:BDTexte|**Réf** +5, **Vig** +7, **Vol** +7}
-{s:BDTexte|**Capacités défensives** [intangible](./Intangible.md), reconstruction, [résistance à la canalisation](./résistance à la canalisation.md) +4 ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) }
+{s:BDTexte|**Capacités défensives** [[intangible]], reconstruction, [[résistance à la canalisation]] +4 ; **Immunités** [[traits des morts-vivants]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 9 m (6 {s:c}) (parfait)}
 {s:BDTexte|**Corps à corps** *toucher corrupteur*, +6 (7d6, Vig DD 18, 1/2 dégâts)}
@@ -29,15 +29,15 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** -, **Dex** 12, **Con** -, **Int** 10, **Sag** 11, **Cha** 20}
 {s:BDTexte|**BBA** +5, **BMO** +5, **DMD** 22}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (histoire) +10, [Connaissances](./Connaissances.md) (noblesse) +10, [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +10, [Vol](./Vol.md) +9 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +8, [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Esquive]], [[Réflexes surhumains]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (histoire) +10, [[Connaissances]] (noblesse) +10, [[Discrétion]] +9, [[Perception]] +18, [[Psychologie]] +10, [[Vol]] +9 ; **Modificateurs raciaux** [[Discrétion]] +8, [[Perception]] +8}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** équipement de PNJ}
 </div>
-</td><td><div>Voir l'[archétype](./Fantôme, archétype.md).
+</td><td><div>Voir l'[[Fantôme, archétype|archétype]].
 
 *Cette terrifiante silhouette spectrale flotte dans les airs en silence, traversant les objets solides comme s’ils n’étaient pas là.*
 

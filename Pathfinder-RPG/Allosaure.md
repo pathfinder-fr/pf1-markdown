@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 2, p.99*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille TG, N}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +30}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +30}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 9, pris au dépourvu 18 (Dex +1, naturelle +10, taille -2)}
 {s:BDTexte|**pv** 93 (11d8+44)}
 {s:BDTexte|**Réf** +8, **Vig** +11, **Vol** +7}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +14 (2d6+8/19–20 plus [étreinte](./Étreinte.md)) et 2 griffes, +14 (1d8+8)}
+{s:BDTexte|**Corps à corps** morsure, +14 (2d6+8/19–20 plus [[étreinte]]) et 2 griffes, +14 (1d8+8)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [bond](./Bond.md), [pattes arrière](./Pattes arrière.md) (2 serres +14, 1d8+8)}
+{s:BDTexte|**Attaques spéciales** [[bond]], [[pattes arrière]] (2 serres +14, 1d8+8)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 13, **Con** 19, **Int** 2, **Sag** 15, **Cha** 10}
 {s:BDTexte|**BBA** +8, **BMO** +18, **DMD** 29}
-{s:BDTexte|**Dons** [Aisance](./Aisance.md), [Course](./Course.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +30 ; **Modificateurs raciaux** +8 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Aisance]], [[Course]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure), [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Perception]] +30 ; **Modificateurs raciaux** +8 en [[Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts/plaines tempérées ou chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou meute (3–6)}
@@ -38,14 +38,14 @@ Categories:
 {s:ImageCentre|Bestiaire/Allosaure.jpg|90%}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>*Ce dinosaure bipède a une gueule remplie de dents acérées et des bras courts et puissants dotés de griffes tranchantes.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>*Ce dinosaure bipède a une gueule remplie de dents acérées et des bras courts et puissants dotés de griffes tranchantes.*
 
 L’allosaure est un chasseur immense et rapide. Il mesure 9 mètres de long et pèse 5 000 kg.
 
 #### L'allosaure comme compagnon animal
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m ; **CA** armure naturelle +4 ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For 14, Dex 16, Con 10, Int 2, Sag 15, Cha 10 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 12 m ; **CA** armure naturelle +4 ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For 14, Dex 16, Con 10, Int 2, Sag 15, Cha 10 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8), 2 griffes
-(1d6) ; **Caractéristiques** For +8, Dex –2, Con +4 ; **Particularités** [bond](./Bond.md), [étreinte](./Étreinte.md).
+(1d6) ; **Caractéristiques** For +8, Dex –2, Con +4 ; **Particularités** [[bond]], [[étreinte]].
 </div>
 </td></tr></table>

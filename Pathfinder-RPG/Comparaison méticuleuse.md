@@ -12,10 +12,10 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Inq](./Inquisiteur.md) 3, [Occ](./Occultiste.md) 3, [Rôd](./Rôdeur.md) 3, [Sor](./Sorcière.md) 4
+{s:cs}{s:UI}**École**  [[école Divination|Divination]] ; **Niveau** [[Barde|Bard]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Inquisiteur|Inq]] 3, [[Occultiste|Occ]] 3, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 4
 **Temps d'incantation** 10 minutes
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./contact.md)
+**Composantes** [[composantes|V, G]]
+**Portée** [[contact]]
 **Cibles** deux objets touchés
 **Durée** instantanée
 **Jet de sauvegarde** Vigueur, annule (objet) ; **Résistance à la magie** oui (objet)

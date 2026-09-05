@@ -10,8 +10,8 @@ Categories:
 
 {s:mca} *Le personnage peut utiliser une forme limitée de combat étudié et de frappe étudiée avec une arme de son choix.*
 
-**Conditions.** [Arme de prédilection](./Arme de prédilection.md) (arme choisie), pouvoir de classe [combat étudié](./Enquêteur.md#COMBATETUDIE).
+**Conditions.** [[Arme de prédilection]] (arme choisie), pouvoir de classe [[enquêteur#COMBATETUDIE|combat étudié]].
 
-**Avantage.** Le personnage choisit un type d’arme à distance. Il gagne les bonus de [combat étudié](./Enquêteur.md#COMBATETUDIE) avec l’arme choisie et peut utiliser [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE) avec elle à partir du moment où la cible de sa [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE) se trouve dans un rayon de 9 mètres.
+**Avantage.** Le personnage choisit un type d’arme à distance. Il gagne les bonus de [[enquêteur#COMBATETUDIE|combat étudié]] avec l’arme choisie et peut utiliser [[enquêteur#FRAPPEETUDIEE|frappe étudiée]] avec elle à partir du moment où la cible de sa [[enquêteur#FRAPPEETUDIEE|frappe étudiée]] se trouve dans un rayon de 9 mètres.
 
-**Normal.** Le personnage gagne les bonus de [combat étudié](./Enquêteur.md#COMBATETUDIE) avec les attaques au corps à corps et ne peut utiliser [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE) qu’avec les armes de corps à corps.
+**Normal.** Le personnage gagne les bonus de [[enquêteur#COMBATETUDIE|combat étudié]] avec les attaques au corps à corps et ne peut utiliser [[enquêteur#FRAPPEETUDIEE|frappe étudiée]] qu’avec les armes de corps à corps.

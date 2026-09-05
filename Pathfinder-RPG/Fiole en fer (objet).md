@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 pa ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Cette bouteille à potion en fer a une [solidité](./solidité.md) de 5 et 3 points de vie. Le [DD](./DD.md) pour la briser est de 14.
+Cette bouteille à potion en fer a une [[solidité]] de 5 et 3 points de vie. Le [[DD]] pour la briser est de 14.

@@ -6,6 +6,6 @@ LastModified: 2015-11-22 00:14
 
 {s:MR}*La présence d’autres hobgobelins à ses côtés renforce la détermination du personnage.*
 
-**Conditions.** [Hobgobelin](./Hobgobelin (race).md), [BBA](./BBA.md) +1
+**Conditions.** [[hobgobelin (race)|Hobgobelin]], [[BBA]] +1
 
 **Avantages.** À partir du moment où le hobgobelin est dans un rayon de 9 mètres d’au moins deux autres hobgobelins, il gagne un bonus de moral de +1 à ses jets de sauvegarde.

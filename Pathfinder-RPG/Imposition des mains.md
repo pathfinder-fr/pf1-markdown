@@ -7,4 +7,4 @@ Categories:
 RedirectTo: paladin#IMPOSITIONDESMAINS
 ---
 
->>> [paladin#IMPOSITIONDESMAINS](./Paladin.md#IMPOSITIONDESMAINS)
+>>> [[paladin#IMPOSITIONDESMAINS]]

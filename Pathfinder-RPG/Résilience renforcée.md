@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage peut considérablement augmenter sa réduction de dégâts au prix d’une grande fatigue. *
 
-**Condition.** [Réduction de dégâts](./RD.md).
+**Condition.** [[RD|Réduction de dégâts]].
 
-**Avantage.** Le personnage peut, par une [action immédiate](./Action immédiate.md), doubler sa [RD](./RD.md) contre une unique attaque (avec un maximum de RD 20). Le type de RD ne change pas. Si l’attaque contre laquelle le personnage se protège ne le touche pas, la RD accrue persiste jusqu’à ce qu’une attaque le touche ou jusqu’au début de son prochain tour, selon ce qui se produit en premier. Il est [fatigué](./Fatigué.md) dès le début de son prochain tour. Il ne peut pas utiliser ce don quand il est fatigué.
+**Avantage.** Le personnage peut, par une [[action immédiate]], doubler sa [[RD]] contre une unique attaque (avec un maximum de RD 20). Le type de RD ne change pas. Si l’attaque contre laquelle le personnage se protège ne le touche pas, la RD accrue persiste jusqu’à ce qu’une attaque le touche ou jusqu’au début de son prochain tour, selon ce qui se produit en premier. Il est [[fatigué]] dès le début de son prochain tour. Il ne peut pas utiliser ce don quand il est fatigué.

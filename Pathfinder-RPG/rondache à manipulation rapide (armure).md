@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des armures#Rondacheàmanipulationrapide
 ---
 
->>> [Descriptions individuelles des armures#Rondacheàmanipulationrapide](./Descriptions individuelles des armures.md#Rondacheàmanipulationrapide)
+>>> [[Descriptions individuelles des armures#Rondacheàmanipulationrapide]]

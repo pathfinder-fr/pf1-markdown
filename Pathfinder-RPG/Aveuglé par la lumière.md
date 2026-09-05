@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Aveuglé par la lumière (capacité)
 ---
 
->>> [Aveuglé par la lumière (capacité)](./Aveuglé par la lumière (capacité).md)
+>>> [[Aveuglé par la lumière (capacité)]]

@@ -10,10 +10,10 @@ Categories:
 
 {s:cs}{s:WMH}*Vous pouvez faire pleuvoir les armes à aspersion sur vos ennemis avec votre fronde.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Arme en main](./Arme en main.md), [Grenadier frondeur-disperseur](./Grenadier frondeur-disperseur.md), [École du frondeur-disperseur](./École du frondeur-disperseur.md), [Lancer improvisé](./Lancer improvisé.md), [Arme de prédilection](./Arme de prédilection.md) (fronde) ou capacité de classe [entraînement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) (armes de jet), trait racial [guerrier à la fronde](./Halfelin.md#Traits_raciaux_alternatifs_7)
+**Conditions.** [[Arme en main]], [[Grenadier frondeur-disperseur]], [[École du frondeur-disperseur]], [[Lancer improvisé]], [[Arme de prédilection]] (fronde) ou capacité de classe [[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] (armes de jet), trait racial [[Halfelin#Traits_raciaux_alternatifs_7|guerrier à la fronde]]
 
-**Avantage.** Le personnage peut utiliser une [fronde](./fronde (arme).md) pour lancer des [armes à aspersion](./arme à aspersion.md) avec le don [Grenadier frondeur-disperseur](./Grenadier frondeur-disperseur.md) lors d'une action d'attaque ou d'une [attaque à outrance](./attaque à outrance.md), en rechargeant sa fronde avec ces armes par une [action libre](./Action libre.md).
+**Avantage.** Le personnage peut utiliser une [[fronde (arme)|fronde]] pour lancer des [[arme à aspersion|armes à aspersion]] avec le don [[Grenadier frondeur-disperseur]] lors d'une action d'attaque ou d'une [[attaque à outrance]], en rechargeant sa fronde avec ces armes par une [[action libre]].
 
-**Spécial.** Ce don ne peut pas être utilisé avec les [bombes de l'alchimiste](./Alchimiste.md#BOMBES).
+**Spécial.** Ce don ne peut pas être utilisé avec les [[ALchimiste#BOMBES|bombes de l'alchimiste]].

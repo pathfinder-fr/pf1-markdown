@@ -10,11 +10,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau d’équilibre|{s:CMy}}
-**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 20 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** —
+**Aura** [[Invocation]] puissante ; **NLS** 20 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** [[Artefacts|artefact]] ; **Poids** —
 (((Description)))
 L’anneau d’équilibre est un anneau en bois finement taillé dans le cœur d’un chêne, orné de runes délicates et poncé puis fini de manière à être parfaitement rond, lisse et symétrique. Quand on le glisse à un doigt, il ajuste sa taille de lui-même comme il convient.
 
-On dit que l’anneau a sa volonté propre mais, si tel est le cas, il ne semble pas afficher d’objectif clair. Il préfère les porteurs qui possèdent de forts traits de personnalité, que ce soit ceux qui ont une morale irréprochable, qui incarnent la bonté et l’honneur ou ceux qui sont totalement dénués de scrupules et ont l’âme la plus vile et la plus noire qu’il soit possible d’imaginer. L’anneau privilégie spécialement les créatures [mythiques](./mythique.md) et refuse souvent de se laisser glisser au doigt des créatures dépourvues de forte personnalité ou n’étant pas mythiques.
+On dit que l’anneau a sa volonté propre mais, si tel est le cas, il ne semble pas afficher d’objectif clair. Il préfère les porteurs qui possèdent de forts traits de personnalité, que ce soit ceux qui ont une morale irréprochable, qui incarnent la bonté et l’honneur ou ceux qui sont totalement dénués de scrupules et ont l’âme la plus vile et la plus noire qu’il soit possible d’imaginer. L’anneau privilégie spécialement les créatures [[mythique|mythiques]] et refuse souvent de se laisser glisser au doigt des créatures dépourvues de forte personnalité ou n’étant pas mythiques.
 
 L’anneau n’a aucun pouvoir spécial sur les vivants mais, quand son porteur meurt ou s’il est passé au doigt d’une créature morte qu’il juge digne, le corps et l’équipement du porteur restent où ils sont et l’anneau disparaît complètement. Au cours des 24 heures qui suivent, un arbre pousse à l’endroit le plus proche possible de celui où le porteur est mort. Le lendemain, cet arbre se fend en son centre et révèle une cavité où le porteur a été ressuscité dans son intégrité et sans dommage, l’anneau ornant toujours son doigt. Si le porteur meurt dans un lieu dangereux, l’arbre apparaît à l’endroit le plus proche possible de ce point, qui reste cependant relativement sûr pour le porteur.
 

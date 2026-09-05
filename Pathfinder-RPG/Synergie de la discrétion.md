@@ -11,6 +11,6 @@ Categories:
 
 {s:uc}*Quand le personnage travaille en étroite collaboration avec un allié, ils se déplacent comme des ombres jumelles.*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Avantage.** Quand le personnage voit un ou plusieurs alliés qui disposent de ce don et qu’ils font tous des tests de Discrétion, ils prennent tous le meilleur jet et lui ajoutent leur propre modificateur de [Discrétion](./Discrétion.md).
+**Avantage.** Quand le personnage voit un ou plusieurs alliés qui disposent de ce don et qu’ils font tous des tests de Discrétion, ils prennent tous le meilleur jet et lui ajoutent leur propre modificateur de [[Discrétion]].

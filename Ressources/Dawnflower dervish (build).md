@@ -4,8 +4,8 @@ Title: Dawnflower dervish
 LastModified: 2014-08-13 02:26
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
-***Voir le [http://www.pathfinder-fr.org/Forum/yaf_postst7522_Dervish-Dancer.aspx#post290518|sujet de discussion]***</div><nav class="wiki-toc"></nav>
+<div class="fright">***Retour aux [[builds]].***</br>
+***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst7522_Dervish-Dancer.aspx#post290518)***</div><nav class="wiki-toc"></nav>
 
 *Description / présentation RP du build proposé, en italique.*
 

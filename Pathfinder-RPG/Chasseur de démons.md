@@ -11,12 +11,12 @@ Categories:
 
 {s:ccmi}*Le personnage est versé en connaissances démoniaques.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions**. 6 rangs en [Connaissances](./Connaissances.md) (plans)
+**Conditions**. 6 rangs en [[Connaissances]] (plans)
 
-**Avantages**. Le personnage gagne un bonus de +2 aux tests de [Connaissances](./Connaissances.md) (plans) quand il veut connaître les pouvoirs et les aptitudes d’un [démon](./Démon.md). Il gagne un bonus de moral de +2 aux [jets d'attaque](./jet dattaque.md) et aux tests de [niveau de lanceur de sorts](./NLS.md) pour vaincre la [Résistance à la magie](./RM.md) des créatures de sous-type démoniaque qu’il a identifiées comme telles.
+**Avantages**. Le personnage gagne un bonus de +2 aux tests de [[Connaissances]] (plans) quand il veut connaître les pouvoirs et les aptitudes d’un [[démon]]. Il gagne un bonus de moral de +2 aux [[jet dattaque|jets d'attaque]] et aux tests de [[nls|niveau de lanceur de sorts]] pour vaincre la [[RM|Résistance à la magie]] des créatures de sous-type démoniaque qu’il a identifiées comme telles.
 
 {s:cs}{s:WMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Lorsque le personnage parvient à identifier un démon avec [Connaissances](./Connaissances.md) (plans), il peut dépenser jusqu'à 9 points d'endurance pour augmenter son bonus de moral aux [jets d'attaque](./jet dattaque.md) et aux tests de [niveau de lanceur de sorts](./NLS.md) obtenus par le don [Chasseur de démons](./Chasseur de démons.md) de 1 par tranche de 3 points d'endurance dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Lorsque le personnage parvient à identifier un démon avec [[Connaissances]] (plans), il peut dépenser jusqu'à 9 points d'endurance pour augmenter son bonus de moral aux [[jet dattaque|jets d'attaque]] et aux tests de [[nls|niveau de lanceur de sorts]] obtenus par le don [[Chasseur de démons]] de 1 par tranche de 3 points d'endurance dépensés.

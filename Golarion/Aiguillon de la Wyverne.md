@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Aiguillon de la Wyverne est la seconde ville du territoire de [Belkzen](./Belkzen.md) après [Urgir](./Urgir.md) en terme de population.
+Aiguillon de la Wyverne est la seconde ville du territoire de [[Belkzen]] après [[Urgir]] en terme de population.
 
-La cité est occupée par la tribu de l'Enfant Assassiné, menée par Hundux le Demi-Homme, ce qui fait de celui-ci le deuxième personnage du territoire de [Belkzen](./Belkzen.md) en terme d'importance après Grask Uldeth, du clan de la Main-Vide, qui est installé à [Urgir](./Urgir.md).
+La cité est occupée par la tribu de l'Enfant Assassiné, menée par Hundux le Demi-Homme, ce qui fait de celui-ci le deuxième personnage du territoire de [[Belkzen]] en terme d'importance après Grask Uldeth, du clan de la Main-Vide, qui est installé à [[Urgir]].

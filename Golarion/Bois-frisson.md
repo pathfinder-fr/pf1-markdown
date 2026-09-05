@@ -8,4 +8,4 @@ Categories:
 - Ustalav
 ---
 
-Bois-frisson est une grande forêt inhabitée du nord de l'[Avistan](./Avistan.md). Elle est située à cheval sur les territoires de la [Plaie du Monde](./Plaie du monde.md) et de l'[Ustalav](./Ustalav.md).
+Bois-frisson est une grande forêt inhabitée du nord de l'[[Avistan]]. Elle est située à cheval sur les territoires de la [[Plaie du Monde]] et de l'[[Ustalav]].

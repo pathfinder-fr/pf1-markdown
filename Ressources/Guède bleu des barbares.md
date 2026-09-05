@@ -6,13 +6,13 @@ LastModified: 2011-11-12 13:53
 
 <div style="float:right"><sub>*Proposé par Faenil*</sub>  
 
-*Retour à l'[index des règles maison](./RM Index.md).*  
+*Retour à l'[[RM Index|index des règles maison]].*  
 
 </div><div class="BD">
 {s:BDTitre|Guède bleu des barbares|}
-**Aura** [Abjuration](./../Pathfinder-RPG/Abjuration.md) faible ; **NLS** 3 ;  **Prix** 300 po ; **Poids** 1 kg
+**Aura** [[pathfinder-RPG.Abjuration|Abjuration]] faible ; **NLS** 3 ;  **Prix** 300 po ; **Poids** 1 kg
 (((Description)))
-Ces gros pots d’argiles contiennent une pâte grasse fabriquée par les barbares qui y mêlent de la graisse de yack, de la craie et des pigments bleus obtenus à partir de certaines [plantes](./^http://fr-wikipedia-org/wiki/Isatis_tinctoria.md) et en réduisant certains minéraux en poudre. Le mélange est ensuite béni par les chamans ou les prêtres.
+Ces gros pots d’argiles contiennent une pâte grasse fabriquée par les barbares qui y mêlent de la graisse de yack, de la craie et des pigments bleus obtenus à partir de certaines [plantes](http://fr.wikipedia.org/wiki/Isatis_tinctoria) et en réduisant certains minéraux en poudre. Le mélange est ensuite béni par les chamans ou les prêtres.
 Un pot contient trois doses. Le nombre de dose dont on peut se recouvrir le corps dépend des vêtements et de l’armure portée.
 
 
@@ -37,5 +37,5 @@ Chaque dose appliquée confère à l’utilisateur un nombre de point de vie tem
 L’effet dure 1D12 heures, mais prend fin dès que le nombre de points de vie temporaire accordé au personnage est réduit à zéro, ou si le personnage tente d’enfiler une armure ou un vêtement plus encombrant avant la fin du sort.
 
 (((Fabrication)))
-**Conditions** [Création d'objets merveilleux](./../Pathfinder-RPG/Création dobjets merveilleux.md) ou [Création de potions](./pathfinder-RPG-Création-de-potions.md), *[Endurance aux énergies destructives](./../Pathfinder-RPG/Endurance aux énergies destructives.md), [Endurance de l'ours](./../Pathfinder-RPG/Endurance de lours.md), [Aide](./../Pathfinder-RPG/Aide.md)* ; **Coût** 150 po
+**Conditions** [[pathfinder-RPG.Création dobjets merveilleux|Création d'objets merveilleux]] ou [[pathfinder-RPG.Création de potions|Création de potions]], *[[pathfinder-RPG.Endurance aux énergies destructives|Endurance aux énergies destructives]], [[pathfinder-RPG.Endurance de lours|Endurance de l'ours]], [[pathfinder-RPG.Aide|Aide]]* ; **Coût** 150 po
 </div>

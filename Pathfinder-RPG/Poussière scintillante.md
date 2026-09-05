@@ -16,20 +16,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([création](./../Création.md)) ; **Niveau** [Bard](./Barde.md) 2, [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Occ](./Occultiste.md) 2, [San](./Sanguin.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Invocation]] ([[création]]) ; **Niveau** [[Barde|Bard]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Sanguin|San]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (mica réduit en poudre)  
+**Composantes** [[composantes|V, G, M]] (mica réduit en poudre)  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Zone d'effet** créatures et objets compris dans une étendue de 3 m de rayon  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (uniquement la [cécité](./Aveuglé.md)) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (uniquement la [[aveuglé|cécité]]) ; **Résistance à la magie** non
 
-Un nuage de particules dorées recouvre tout ce qui se trouve dans la [zone d’effet](./zone deffet.md), révélant créatures et objets [invisibles](./Invisible.md) et [aveuglant](./Aveuglé.md) les individus affectés. Toutes les créatures présentes dans la zone sont recouvertes de paillettes qu’elles ne peuvent enlever et qui scintillent jusqu’à expiration du sort. À chaque  [round](./round.md), les créatures [aveuglées](./Aveuglé.md) peuvent tenter un nouveau [jet de sauvegarde](./jet de sauvegarde.md) à la fin de leur tour pour recouvrer la vue.
+Un nuage de particules dorées recouvre tout ce qui se trouve dans la [[zone deffet|zone d’effet]], révélant créatures et objets [[invisible|invisibles]] et [[aveuglé|aveuglant]] les individus affectés. Toutes les créatures présentes dans la zone sont recouvertes de paillettes qu’elles ne peuvent enlever et qui scintillent jusqu’à expiration du sort. À chaque  [[round]], les créatures [[aveuglé|aveuglées]] peuvent tenter un nouveau [[jet de sauvegarde]] à la fin de leur tour pour recouvrer la vue.
 
-Les créatures couvertes de cette poussière subissent un malus de -40 aux tests de [Discrétion](./Discrétion.md).
+Les créatures couvertes de cette poussière subissent un malus de -40 aux tests de [[Discrétion]].

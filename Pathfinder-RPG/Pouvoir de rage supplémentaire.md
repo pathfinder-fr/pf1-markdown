@@ -10,7 +10,7 @@ Categories:
 
 {s:apg}*Le personnage a développé une nouvelle capacité utilisable lorsqu’il est en rage.*
 
-**Condition.** Aptitude de classe de [pouvoir de rage](./Pouvoirs de rage.md).
+**Condition.** Aptitude de classe de [[pouvoirs de rage|pouvoir de rage]].
 
 **Avantage.** Le personnage gagne un pouvoir de rage supplémentaire. Il doit en remplir les conditions d’accès.
 

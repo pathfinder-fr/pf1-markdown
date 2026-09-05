@@ -6,7 +6,7 @@ LastModified: 2020-05-05 14:25
 
 Dans un but d'ouverture communautaire, Pathfinder-fr met à disposition les données extraites du wiki des règles Pathfinder dans des formats adaptés à la réutilisation.
 
-Ces données restent soumises à la licence d'origine des informations, à savoir la [Licence OGL](./../OGL.md) ainsi que la licence de contribution Pathfinder-Fr (voir le paragraphe "licence" ci-dessous).
+Ces données restent soumises à la licence d'origine des informations, à savoir la [[OGL|Licence OGL]] ainsi que la licence de contribution Pathfinder-Fr (voir le paragraphe "licence" ci-dessous).
 
 Pour tout commentaire ou discussion, je vous invite à vous rendre sur [le sujet dédié du forum](http://www.pathfinder-fr.org/Forum/yaf_postsm160358_Export-du-wiki.aspx).
 
@@ -19,7 +19,7 @@ Il existe trois grands formats pour ces données :
 
 Elles sont mise à jour de manière hebdomadaire chaque dimanche soir, à l'aide de trois outils (MigratorWiki, WikiXmlExport et WikiExportParser).
 
-[image||{UP(Db.MainPage)}WikiDbWorkflow.png]
+<img src="{UP(Db.MainPage)}WikiDbWorkflow.png" alt="">
 
 ### Wiki au format brut
 Les pages du wiki sont tout d'abord extraites au format Wiki, brut, avec un fichier par page, dans un repository Git : [https://gitlab.com/pathfinder-fr/pf1-screwturnwiki](https://gitlab.com/pathfinder-fr/pf1-screwturnwiki).
@@ -121,4 +121,4 @@ Il permet pour l'instant uniquement de parcourir dons et sorts.
 ### Licence
 La reprise gratuite et à but non lucratif des présents textes est autorisée pourvu qu'il soit fait expressément mention des logos et adresses web de Black Book Editions, Paizo Publishing et Pathfinder-fr.org.
 
-Pathfinder JdR est publié selon les principes de l'[Open Game License](./../OGL.md).
+Pathfinder JdR est publié selon les principes de l'[[OGL|Open Game License]].

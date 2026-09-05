@@ -9,15 +9,15 @@ Categories:
 
 *Le personnage profite de la confusion de son adversaire pour lui porter une multitude de coups.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [École du scorpion](./École du scorpion.md), [Poing de la gorgone](./Poing de la gorgone.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [bonus de base à l’attaque](./BBA.md) +11.
+**Conditions.** [[École du scorpion]], [[Poing de la gorgone]], [[Science du combat à mains nues]], [[BBA|bonus de base à l’attaque]] +11.
 
-**Avantage.** Quand le personnage effectue une [attaque à outrance](./attaque à outrance.md) et porte au moins une attaque à mains nues, il peut faire deux attaques à mains nues supplémentaires avec son [bonus de base à l’attaque maximal](./BBA.md). Ces attaques en bonus ne peuvent être menées que contre une cible [chancelante](./Chancelant.md), [étourdie](./Étourdi.md), [hébétée](./Hébété.md), [inconsciente](./Inconscient.md), [paralysée](./Paralysé.md) ou [prise au dépourvu](./Pris au dépourvu.md).
+**Avantage.** Quand le personnage effectue une [[attaque à outrance]] et porte au moins une attaque à mains nues, il peut faire deux attaques à mains nues supplémentaires avec son [[BBA|bonus de base à l’attaque maximal]]. Ces attaques en bonus ne peuvent être menées que contre une cible [[chancelant|chancelante]], [[étourdi|étourdie]], [[hébété|hébétée]], [[inconscient|inconsciente]], [[paralysé|paralysée]] ou [[pris au dépourvu|prise au dépourvu]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise ce don, il peut dépenser 10 points d’endurance pour effectuer les attaques supplémentaires contre un ennemi qu’il [prend en tenaille](./prendre en tenaille.md) au lieu d’un ennemi [hébété](./Hébété.md), [pris au dépourvu](./Pris au dépourvu.md), [paralysé](./Paralysé.md), [chancelant](./Chancelant.md), [étourdi](./Étourdi.md) ou [inconscient](./Inconscient.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise ce don, il peut dépenser 10 points d’endurance pour effectuer les attaques supplémentaires contre un ennemi qu’il [[prendre en tenaille|prend en tenaille]] au lieu d’un ennemi [[hébété]], [[pris au dépourvu]], [[paralysé]], [[chancelant]], [[étourdi]] ou [[inconscient]].
 
 {s:CMy}
 ### Version mythique
@@ -25,4 +25,4 @@ Quand le personnage utilise ce don, il peut dépenser 10 points d’endurance po
 
 **Conditions.** Fureur de la méduse
 
-**Avantage.** Le personnage peut remplacer les deux attaques à mains nues supplémentaires conférées par Fureur de la méduse par une unique attaque à mains nues effectuée avec son bonus de base à l’attaque le plus élevé. S’il parvient à toucher son adversaire, celui-ci doit réussir un jet de [Vigueur](./Vigueur.md) (DD 10 + ½ du niveau du personnage + modificateur de [Sagesse](./Sagesse.md) du personnage) pour ne pas être [chancelant](./Chancelant.md) pendant un round. Le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il fait chanceler une cible avec Fureur de la méduse pour prolonger la durée de l’état [chancelant](./Chancelant.md) d’un nombre de rounds égal à la moitié de son [grade](./Grade.md).
+**Avantage.** Le personnage peut remplacer les deux attaques à mains nues supplémentaires conférées par Fureur de la méduse par une unique attaque à mains nues effectuée avec son bonus de base à l’attaque le plus élevé. S’il parvient à toucher son adversaire, celui-ci doit réussir un jet de [[Vigueur]] (DD 10 + ½ du niveau du personnage + modificateur de [[Sagesse]] du personnage) pour ne pas être [[chancelant]] pendant un round. Le personnage peut dépenser une utilisation de [[pouvoir mythique]] lorsqu’il fait chanceler une cible avec Fureur de la méduse pour prolonger la durée de l’état [[chancelant]] d’un nombre de rounds égal à la moitié de son [[grade]].

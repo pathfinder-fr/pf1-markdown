@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Orque (race)|orques|Illustrations/PNJ/Orque.jpg}{s:MR}**Prix** 50 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 20
-<span class="Catégorie">**Catégorie** [Remèdes alchimiques](./Remèdes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Remèdes alchimiques]]</span>
 ---
-Ce tout petit ballot d’herbes et d’ossements sacrés est censé attirer l’attention bienveillante des esprits de la guerre. Lorsqu’un [orque](./orque (race).md) (ou une créature issue d’une culture guerrière appropriée) écrase la besace par une [action simple](./Action simple.md), il gagne 1d4+1 [points de vie temporaires](./points de vie temporaires.md). Ces points de vie temporaires disparaissent au bout de 10 minutes. Une créature ne peut profiter que d’une seule besace d’esprit à la fois. Une fois utilisée, la besace d’esprit guerrier est détruite.
+Ce tout petit ballot d’herbes et d’ossements sacrés est censé attirer l’attention bienveillante des esprits de la guerre. Lorsqu’un [[Orque (race)|orque]] (ou une créature issue d’une culture guerrière appropriée) écrase la besace par une [[action simple]], il gagne 1d4+1 [[points de vie temporaires]]. Ces points de vie temporaires disparaissent au bout de 10 minutes. Une créature ne peut profiter que d’une seule besace d’esprit à la fois. Une fois utilisée, la besace d’esprit guerrier est détruite.

@@ -12,7 +12,7 @@ Asmodéus est le plus puissant des neuf archi-diables qui règnent sur l'Enfer, 
 
 ### Histoire
 
-En plus de la contrefaçon du contrat sur la création du monde, accepté par tous les dieux, qui lui permettra d'assujettir ses pairs, divins comme démoniaques, il a aussi participé activement à l'enfermement de [Rovagug](./Rovagug.md). La grande bête fut enfermée dans la [Fosse de Gormuz](./Fosse-de-Gormuz.md), la seule clé de cette prison est entre les mains d'Asmodéus.
+En plus de la contrefaçon du contrat sur la création du monde, accepté par tous les dieux, qui lui permettra d'assujettir ses pairs, divins comme démoniaques, il a aussi participé activement à l'enfermement de [[Rovagug]]. La grande bête fut enfermée dans la [[Fosse de Gormuz]], la seule clé de cette prison est entre les mains d'Asmodéus.
 
 
 ### Apparence
@@ -22,7 +22,7 @@ Asmodéus est souvent représenté comme un diable, grand, auréolé de flamme, 
 
 ### Émissaires
 
-Le prince des ténèbres possède beaucoup de serviteurs parmi les diables, comme chez les humains. Son culte est devenu religion officielle de l'empire du [Chéliax](./Chéliax.md), et son influence grandit dans la ville de [Korvosa](./Korvosa.md) en [Varisie](./Varisie.md), en [Isger](./Isger.md) et en [Nidal](./Nidal.md).
+Le prince des ténèbres possède beaucoup de serviteurs parmi les diables, comme chez les humains. Son culte est devenu religion officielle de l'empire du [[Chéliax]], et son influence grandit dans la ville de [[Korvosa]] en [[Varisie]], en [[Isger]] et en [[Nidal]].
 
 Son plus puissant serviteur est son héraut, Baphon, qui apparaît sur terre sous la forme d'un beau jeune homme aux cheveux blonds.
 
@@ -36,7 +36,7 @@ Les prêtres du dieu-diable s'habillent généralement de toge noire brodée de 
 
 ### Temples
 
-Les clergés d'Asmodéus se comportent de diverses manières selon si leur doctrine est interdite ou non. Dans le [Chéliax](./Chéliax.md) infernal, on trouve ses temples à proximité de tous les organes du gouvernement. Dans des pays plus fermés à cette croyance, les adorateurs violent ou rachètent d'autres lieux sacrés en désuétude pour les désacraliser, soutenant la sombre foi de leur maître.
+Les clergés d'Asmodéus se comportent de diverses manières selon si leur doctrine est interdite ou non. Dans le [[Chéliax]] infernal, on trouve ses temples à proximité de tous les organes du gouvernement. Dans des pays plus fermés à cette croyance, les adorateurs violent ou rachètent d'autres lieux sacrés en désuétude pour les désacraliser, soutenant la sombre foi de leur maître.
 
 ### Textes sacrés
 
@@ -46,8 +46,8 @@ Il est accompagné de nombreux rajouts.
 Le mono-graphe asmodéen : Ce texte est une version simplifiée des doctrines d'Asmodéus.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [cinquième volume](./../Aventures/Présentation AP5.md#AP2-5) de la cinquième campagne, [Le Conseil des Voleurs](./../Aventures/Présentation AP5.md#), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP5#AP2-5|cinquième volume]] de la cinquième campagne, [[Aventures.Présentation AP5#|Le Conseil des Voleurs]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

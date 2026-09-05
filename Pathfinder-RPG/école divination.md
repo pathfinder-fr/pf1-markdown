@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Présentation des sorts#DIVINATION
 ---
 
->>> [Présentation des sorts#DIVINATION](./Présentation des sorts.md#DIVINATION)
+>>> [[Présentation des sorts#DIVINATION]]

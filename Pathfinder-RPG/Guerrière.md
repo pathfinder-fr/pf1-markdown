@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Guerrière Formienne
 ---
 
->>> [Guerrière Formienne](./Guerrière formienne.md)
+>>> [[Guerrière Formienne]]

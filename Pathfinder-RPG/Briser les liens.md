@@ -10,20 +10,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) ; **Niveau** [Inq](./Inquisiteur.md) 1  
+**École** [[Évocation]] ; **Niveau** [[Inquisiteur|Inq]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[Composantes|V]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** un objet ou une créature qui entrave le lanceur de sorts  
 
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)  
+**Durée** [[présentation des sorts#DUREE|instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [réduire de moitié](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|réduire de moitié]] (objet) ; **Résistance à la magie** oui
 
-La colère divine du personnage fait exploser ses liens, ce qui inflige 1d6 points de dégâts par [niveau de lanceur de sorts](./NLS.md) à l'objet ciblé (maximum 5d6) en ignorant une solidité de 10 ou moins. Un jet de [Vigueur](./Vigueur.md) réussi permet de [réduire les dégâts de moitié](./Présentation des sorts.md#JETSDESAUVEGARDE) mais seuls les objets magiques ont droit à un [jet de sauvegarde](./jet de sauvegarde.md).
+La colère divine du personnage fait exploser ses liens, ce qui inflige 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] à l'objet ciblé (maximum 5d6) en ignorant une solidité de 10 ou moins. Un jet de [[Vigueur]] réussi permet de [[Présentation des sorts#JETSDESAUVEGARDE|réduire les dégâts de moitié]] mais seuls les objets magiques ont droit à un [[jet de sauvegarde]].
 
-Le personnage peut également viser une créature qui [lutte](./lutte.md) avec lui ou l'entrave d'une manière ou d'une autre (comme par un pouvoir de substance adhésive ou d'[engloutissement](./Engloutissement.md)). Le personnage n'a pas besoin de faire une attaque de contact pour utiliser *briser les liens *contre une créature et il peut le lancer sans avoir besoin de faire de test de [Concentration](./concentration.md) s'il est en [lutte](./lutte.md) ou [immobilisé](./Immobilisé.md). La créature ne subit pas de dégâts comme les objets : si le personnage est [agrippé](./Agrippé.md) et que son adversaire rate son [jet de sauvegarde](./jet de sauvegarde.md), le personnage peut immédiatement faire une tentative pour se libérer (mais pas pour renverser la situation) par une [action libre](./Action libre.md), avec un bonus de chance de +1 par [niveau de lanceur de sorts](./NLS.md) (maximum +5) au [BMO](./BMO.md). Si la créature visée rate son [jet de sauvegarde](./jet de sauvegarde.md) et que le personnage est entravé par un pouvoir qui autorise un [jet de sauvegarde](./jet de sauvegarde.md), *briser les liens* accorde un nouveau jet avec un bonus de chance de +1 par 2 [niveaux de lanceur de sorts](./NLS.md) (maximum +5).
+Le personnage peut également viser une créature qui [[lutte]] avec lui ou l'entrave d'une manière ou d'une autre (comme par un pouvoir de substance adhésive ou d'[[engloutissement]]). Le personnage n'a pas besoin de faire une attaque de contact pour utiliser *briser les liens *contre une créature et il peut le lancer sans avoir besoin de faire de test de [[Concentration]] s'il est en [[lutte]] ou [[immobilisé]]. La créature ne subit pas de dégâts comme les objets : si le personnage est [[agrippé]] et que son adversaire rate son [[jet de sauvegarde]], le personnage peut immédiatement faire une tentative pour se libérer (mais pas pour renverser la situation) par une [[action libre]], avec un bonus de chance de +1 par [[NLS|niveau de lanceur de sorts]] (maximum +5) au [[BMO]]. Si la créature visée rate son [[jet de sauvegarde]] et que le personnage est entravé par un pouvoir qui autorise un [[jet de sauvegarde]], *briser les liens* accorde un nouveau jet avec un bonus de chance de +1 par 2 [[NLS|niveaux de lanceur de sorts]] (maximum +5).

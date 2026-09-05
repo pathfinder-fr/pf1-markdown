@@ -16,101 +16,101 @@ Categories:
 |- CLASS="titre"
 | D100 || Type d'arme
 |- CLASS="premier"
-| 01 || [épée bâtarde](./épée bâtarde (arme).md)
+| 01 || [[épée bâtarde (arme)|épée bâtarde]]
 |-
-| 02-05 || [hache d'armes](./Hache darmes (arme).md)
+| 02-05 || [[hache darmes (arme)|hache d'armes]]
 |-
-| 06 || [bolas](./bolas (arme).md)
+| 06 || [[bolas (arme)|bolas]]
 |-
-| 07-08 || [gourdin](./gourdin (arme).md)
+| 07-08 || [[gourdin (arme)|gourdin]]
 |-
-| 09-10 || [arc long composite](./arc long composite (arme).md)
+| 09-10 || [[arc long composite (arme)|arc long composite]]
 |-
-| 11-12 || [arc court composite](./arc court composite (arme).md)
+| 11-12 || [[arc court composite (arme)|arc court composite]]
 |-
-| 13-16 || [dague](./dague (arme).md)
+| 13-16 || [[dague (arme)|dague]]
 |-
-| 17 || [fléchette](./fléchette (arme).md)
+| 17 || [[fléchette (arme)|fléchette]]
 |-
-| 18 || [hache d'armes naine](./Hache darmes naine (arme).md)
+| 18 || [[hache darmes naine (arme)|hache d'armes naine]]
 |-
-| 19 || [cimeterre à deux mains](./cimeterre à deux mains (arme).md)
+| 19 || [[cimeterre à deux mains (arme)|cimeterre à deux mains]]
 |-
-| 20 || [gantelet](./Gantelet (arme).md)
+| 20 || [[gantelet (arme)|gantelet]]
 |-
-| 21 || [coutille](./Coutille (arme).md)
+| 21 || [[coutille (arme)|coutille]]
 |-
-| 22-24 || [grande hache](./Grande hache (arme).md)
+| 22-24 || [[grande hache (arme)|grande hache]]
 |-
-| 25 || [massue](./massue (arme).md)
+| 25 || [[massue (arme)|massue]]
 |-
-| 26-28 || [épée à deux mains](./épée à deux mains (arme).md)
+| 26-28 || [[épée à deux mains (arme)|épée à deux mains]]
 |-
-| 29 || [hallebarde](./Hallebarde (arme).md)
+| 29 || [[hallebarde (arme)|hallebarde]]
 |-
-| 30 || [hachette](./hachette (arme).md)
+| 30 || [[hachette (arme)|hachette]]
 |-
-| 31-33 || [arbalète lourde](./Arbalète lourde (arme).md)
+| 31-33 || [[arbalète lourde (arme)|arbalète lourde]]
 |-
-| 34 || [fléau d’armes lourd](./Fléau darmes lourd (arme).md)
+| 34 || [[fléau darmes lourd (arme)|fléau d’armes lourd]]
 |-
-| 35 || [masse d’armes lourde](./masse darmes lourde (arme).md)
+| 35 || [[masse darmes lourde (arme)|masse d’armes lourde]]
 |-
-| 36-37 || [lance d’arçon](./lance darçon (arme).md)
+| 36-37 || [[lance darçon (arme)|lance d’arçon]]
 |-
-| 38-40 || [arbalète légère](./Arbalète légère (arme).md)
+| 38-40 || [[arbalète légère (arme)|arbalète légère]]
 |-
-| 41 || [fléau d’armes léger](./Fléau darmes léger (arme).md)
+| 41 || [[fléau darmes léger (arme)|fléau d’armes léger]]
 |-
-| 42 || [marteau léger](./marteau léger (arme).md)
+| 42 || [[marteau léger (arme)|marteau léger]]
 |-
-| 43-44 || [masse d’armes légère](./masse darmes légère (arme).md)
+| 43-44 || [[masse darmes légère (arme)|masse d’armes légère]]
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 45 || [pic de guerre léger](./pic de guerre léger (arme).md)
+| 45 || [[pic de guerre léger (arme)|pic de guerre léger]]
 |-
-| 46-49 || [arc long](./Arc long (arme).md)
+| 46-49 || [[arc long (arme)|arc long]]
 |-
-| 50-51 || [pique](./pique (arme).md)
+| 50-51 || [[pique (arme)|pique]]
 |-
-| 52-58 || [épée longue](./épée longue (arme).md)
+| 52-58 || [[épée longue (arme)|épée longue]]
 |-
-| 59-60 || [morgenstern](./morgenstern (arme).md)
+| 59-60 || [[morgenstern (arme)|morgenstern]]
 |-
-| 61 || [nunchaku](./nunchaku (arme).md)
+| 61 || [[nunchaku (arme)|nunchaku]]
 |-
-| 62-63 || [bâton](./bâton (arme).md)
+| 62-63 || [[bâton (arme)|bâton]]
 |-
-| 64-65 || [rapière](./rapière (arme).md)
+| 64-65 || [[rapière (arme)|rapière]]
 |-
-| 66 || [saï](./Saï (arme).md)
+| 66 || [[saï (arme)|saï]]
 |-
-| 67 || [matraque](./matraque (arme).md)
+| 67 || [[matraque (arme)|matraque]]
 |-
-| 68 || [cimeterre](./cimeterre (arme).md)
+| 68 || [[cimeterre (arme)|cimeterre]]
 |-
-| 69 || [faux](./faux (arme).md)
+| 69 || [[faux (arme)|faux]]
 |-
-| 70-73 || [arc court](./Arc court (arme).md)
+| 70-73 || [[arc court (arme)|arc court]]
 |-
-| 74-75 || [épieu](./épieu (arme).md)
+| 74-75 || [[épieu (arme)|épieu]]
 |-
-| 76-80 || [épée courte](./épée courte (arme).md)
+| 76-80 || [[épée courte (arme)|épée courte]]
 |-
-| 81 || [shurikens](./Shurikens (arme).md)
+| 81 || [[shurikens (arme)|shurikens]]
 |-
-| 82 || [serpe](./serpe (arme).md)
+| 82 || [[serpe (arme)|serpe]]
 |-
-| 83-84 || [fronde](./fronde (arme).md)
+| 83-84 || [[fronde (arme)|fronde]]
 |-
-| 85-87 || [lance](./lance (arme).md)
+| 85-87 || [[lance (arme)|lance]]
 |-
-| 88 || [trident](./trident (arme).md)
+| 88 || [[trident (arme)|trident]]
 |-
-| 89-91 || [marteau de guerre](./marteau de guerre (arme).md)
+| 89-91 || [[marteau de guerre (arme)|marteau de guerre]]
 |-
-| 92 || [fouet](./fouet (arme).md)
+| 92 || [[fouet (arme)|fouet]]
 |-
 | 93-94 || autre arme de corps à corps légère*
 |-
@@ -120,7 +120,7 @@ Categories:
 |-
 | 99-100 || autre arme à distance*
 |- CLASS="note"
-| | COLSPAN="2" | *(*) Consultez le [tableau récapitulatif des armes](./Tableau récapitulatif des armes.md) pour un vaste choix d'armes.*
+| | COLSPAN="2" | *(*) Consultez le [[tableau récapitulatif des armes]] pour un vaste choix d'armes.*
 |}
 </td></tr></table>
 
@@ -252,180 +252,180 @@ et une propriété spéciale +2
 | D100 || Propriété spéciale d'arme +1 || Mod. au prix  
 de base
 |- CLASS="premier"
-| 01 || *[Solide](./solide (propriété).md)* || +3 000 po
+| 01 || *[[Solide (propriété)|Solide]]* || +3 000 po
 |-
-| 02 || *[Mimétisme](./mimétisme (propriété).md)* || +4 000 po
+| 02 || *[[Mimétisme (propriété)|Mimétisme]]* || +4 000 po
 |-
-| 03 || *[Alliance](./alliance (propriété).md)* || bonus de +1
+| 03 || *[[Alliance (propriété)|Alliance]]* || bonus de +1
 |-
-| 04-08 || *[Tueuse](./tueuse (propriété).md)* || bonus de +1
+| 04-08 || *[[Tueuse (propriété)|Tueuse]]* || bonus de +1
 |-
-| 09 || *[Soutien](./soutien (propriété).md)* || bonus de +1
+| 09 || *[[Soutien (propriété)|Soutien]]* || bonus de +1
 |-
-| 10 || *[Rappel](./rappel (propriété).md)* || bonus de +1
+| 10 || *[[Rappel (propriété)|Rappel]]* || bonus de +1
 |-
-| 11-12 || *[Conductrice](./conductrice (propriété).md)* || bonus de +1
+| 11-12 || *[[Conductrice (propriété)|Conductrice]]* || bonus de +1
 |-
-| 13-16 || *[Corrosive](./corrosive (propriété).md)* || bonus de +1
+| 13-16 || *[[Corrosive (propriété)|Corrosive]]* || bonus de +1
 |-
-| 17 || *[Contre-attaque](./contre-attaque (propriété).md)* || bonus de +1
+| 17 || *[[Contre-attaque (propriété)|Contre-attaque]]* || bonus de +1
 |-
-| 18 || *[Courageuse](./courageuse (propriété).md)* || bonus de +1
+| 18 || *[[Courageuse (propriété)|Courageuse]]* || bonus de +1
 |-
-| 19 || *[Cruelle](./cruelle (propriété).md)* || bonus de +1
+| 19 || *[[Cruelle (propriété)|Cruelle]]* || bonus de +1
 |-
-| 20-21 || *[Rusée](./rusée (propriété).md)* || bonus de +1
+| 20-21 || *[[Rusée (propriété)|Rusée]]* || bonus de +1
 |-
-| 22 || *[Mortelle](./mortelle (propriété).md)* || bonus de +1
+| 22 || *[[Mortelle (propriété)|Mortelle]]* || bonus de +1
 |-
-| 23-26 || *[Gardienne](./gardienne (propriété).md)* || bonus de +1
+| 23-26 || *[[Gardienne (propriété)|Gardienne]]* || bonus de +1
 |-
-| 27 || *[Dissipation](./dissipation (propriété).md)* || bonus de +1
+| 27 || *[[Dissipation (propriété)|Dissipation]]* || bonus de +1
 |-
-| 28-33 || *[Feu](./feu (propriété).md)* || bonus de +1
+| 28-33 || *[[Feu (propriété)|Feu]]* || bonus de +1
 |-
-| 34-39 || *[Froid](./froid (propriété).md)* || bonus de +1
+| 34-39 || *[[Froid (propriété)|Froid]]* || bonus de +1
 |-
-| 40-41 || *[Furieuse](./furieuse (propriété).md)* || bonus de +1
+| 40-41 || *[[Furieuse (propriété)|Furieuse]]* || bonus de +1
 |-
-| 42-45 || *[Spectrale](./spectrale (propriété).md)* || bonus de +1
+| 42-45 || *[[Spectrale (propriété)|Spectrale]]* || bonus de +1
 |-
-| 46-47 || *[Flammegrise](./flammegrise (propriété).md)* || bonus de +1
+| 46-47 || *[[Flammegrise (propriété)|Flammegrise]]* || bonus de +1
 |-
-| 48 || *[Protection contre l’électricité](./protection contre lélectricité (propriété).md)* || bonus de +1
+| 48 || *[[Protection contre lélectricité (propriété)|Protection contre l’électricité]]* || bonus de +1
 |-
-| 49 || *[Protectrice](./protectrice (propriété).md)* || bonus de +1
+| 49 || *[[Protectrice (propriété)|Protectrice]]* || bonus de +1
 |-
-| 50 || *[Cherche-cœur](./cherche-cœur (propriété).md)* || bonus de +1
+| 50 || *[[Cherche-cœur (propriété)|Cherche-cœur]]* || bonus de +1
 |-
-| 51-52 || *[Chasseresse](./chasseresse (propriété).md)* || bonus de +1
+| 51-52 || *[[Chasseresse (propriété)|Chasseresse]]* || bonus de +1
 |-
-| 53-54 || *[Juge](./juge (propriété).md)* || bonus de +1
+| 53-54 || *[[Juge (propriété)|Juge]]* || bonus de +1
 |-
-| 55-59 || *[Acérée](./acérée (propriété).md)*  
+| 55-59 || *[[Acérée (propriété)|Acérée]]*  
 (perforantes ou tranchantes uniquement) || bonus de +1
 |-
-| 60-61 || *[Focalisation ki](./focalisation ki (propriété).md)* || bonus de +1
+| 60-61 || *[[Focalisation ki (propriété)|Focalisation ki]]* || bonus de +1
 |-
-| 62 || *[Révélatrice](./révélatrice (propriété).md)* || bonus de +1
+| 62 || *[[Révélatrice (propriété)|Révélatrice]]* || bonus de +1
 |-
-| 63-64 || *[Menaçante](./menaçante (propriété).md)* || bonus de +1
+| 63-64 || *[[Menaçante (propriété)|Menaçante]]* || bonus de +1
 |-
-| 65 || *[Miséricordieuse](./miséricordieuse (propriété).md)* || bonus de +1
+| 65 || *[[Miséricordieuse (propriété)|Miséricordieuse]]* || bonus de +1
 |-
-| 66-68 || *[Enchaînement](./enchaînement (propriété).md)* || bonus de +1
+| 66-68 || *[[Enchaînement (propriété)|Enchaînement]]* || bonus de +1
 |-
-| 69 || *[Mimétique](./mimétique (propriété).md)* || bonus de +1
+| 69 || *[[Mimétique (propriété)|Mimétique]]* || bonus de +1
 |-
-| 70 || *[Neutralisante](./neutralisante (propriété).md)* || bonus de +1
+| 70 || *[[Neutralisante (propriété)|Neutralisante]]* || bonus de +1
 |-
-| 71 || *[Intimidante](./intimidante (propriété).md)* || bonus de +1
+| 71 || *[[Intimidante (propriété)|Intimidante]]* || bonus de +1
 |-
-| 72 || *[Planaire](./planaire (propriété).md)* || bonus de +1
+| 72 || *[[Planaire (propriété)|Planaire]]* || bonus de +1
 |-
-| 73 || *[Extinction](./extinction (propriété).md)* || bonus de +1
+| 73 || *[[Extinction (propriété)|Extinction]]* || bonus de +1
 |-
-| 74 || *[Aquatique](./aquatique (propriété).md)* || bonus de +1
+| 74 || *[[Aquatique (propriété)|Aquatique]]* || bonus de +1
 |-
-| 75-80 || *[Foudre](./foudre (propriété).md)* || bonus de +1
+| 75-80 || *[[Foudre (propriété)|Foudre]]* || bonus de +1
 |-
-| 81-85 || *[Stockage de sort](./stockage de sort (propriété).md)* || bonus de +1
+| 81-85 || *[[Stockage de sort (propriété)|Stockage de sort]]* || bonus de +1
 |-
-| 86 || *[Dégivrante](./dégivrante (propriété).md)* || bonus de +1
+| 86 || *[[Dégivrante (propriété)|Dégivrante]]* || bonus de +1
 |-
-| 87-91 || *[Lancer](./lancer (propriété).md)* || bonus de +1
+| 87-91 || *[[Lancer (propriété)|Lancer]]* || bonus de +1
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 92-96 || *[Tonnerre](./tonnerre (propriété).md)* || bonus de +1
+| 92-96 || *[[Tonnerre (propriété)|Tonnerre]]* || bonus de +1
 |-
-| 97 || *[Vaillante](./vaillante (propriété).md)* || bonus de +1
+| 97 || *[[Vaillante (propriété)|Vaillante]]* || bonus de +1
 |-
-| 98-100 || *[Vicieuse](./vicieuse (propriété).md)* || bonus de +1
+| 98-100 || *[[Vicieuse (propriété)|Vicieuse]]* || bonus de +1
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Propriété spéciale d'arme +2 || Mod. au prix  
 de base
 |- CLASS="premier"
-| 01 || *[Placement](./placement (propriété).md)* || bonus de +2
+| 01 || *[[Placement (propriété)|Placement]]* || bonus de +2
 |-
-| 02-10 || *[Anarchique](./anarchique (propriété).md)* || bonus de +2
+| 02-10 || *[[Anarchique (propriété)|Anarchique]]* || bonus de +2
 |-
-| 11-19 || *[Inamovible](./inamovible (propriété).md)* || bonus de +2
+| 11-19 || *[[Inamovible (propriété)|Inamovible]]* || bonus de +2
 |-
-| 20 || *[Axiomatique](./axiomatique (propriété).md)* || bonus de +2
+| 20 || *[[Axiomatique (propriété)|Axiomatique]]* || bonus de +2
 |-
-| 21-27 || *[Explosion corrosive](./explosion corrosive (propriété).md)* || bonus de +2
+| 21-27 || *[[Explosion corrosive (propriété)|Explosion corrosive]]* || bonus de +2
 |-
-| 28 || *[Survie](./survie (propriété).md)* || bonus de +2
+| 28 || *[[Survie (propriété)|Survie]]* || bonus de +2
 |-
-| 29 || *[Dissipation intense](./dissipation intense (propriété).md)* || bonus de +2
+| 29 || *[[Dissipation intense (propriété)|Dissipation intense]]* || bonus de +2
 |-
-| 30-38 || *[Destruction](./destruction (propriété).md)*  
+| 30-38 || *[[Destruction (propriété)|Destruction]]*  
 (contondantes uniquement) || bonus de +2
 |-
-| 39-47 || *[Feu intense](./feu intense (propriété).md)* || bonus de +2
+| 39-47 || *[[Feu intense (propriété)|Feu intense]]* || bonus de +2
 |-
-| 48 || *[Entêtée](./entêtée (propriété).md)* || bonus de +2
+| 48 || *[[Entêtée (propriété)|Entêtée]]* || bonus de +2
 |-
-| 49 || *[Glorieuse](./glorieuse (propriété).md)* || bonus de +2
+| 49 || *[[Glorieuse (propriété)|Glorieuse]]* || bonus de +2
 |-
-| 50-58 || *[Sainte](./sainte (propriété).md)* || bonus de +2
+| 50-58 || *[[Sainte (propriété)|Sainte]]* || bonus de +2
 |-
-| 59-67 || *[Froid intense](./froid intense (propriété).md)* || bonus de +2
+| 59-67 || *[[Froid intense (propriété)|Froid intense]]* || bonus de +2
 |-
-| 68 || *[Enflammée](./enflammée (propriété).md)* || bonus de +2
+| 68 || *[[Enflammée (propriété)|Enflammée]]* || bonus de +2
 |-
-| 69 || *[Percutante](./percutante (propriété).md)*  
+| 69 || *[[Percutante (propriété)|Percutante]]*  
 (perforantes ou tranchantes uniquement) || bonus de +2
 |-
-| 70 || *[Revigorante](./revigorante (propriété).md)* || bonus de +2
+| 70 || *[[Revigorante (propriété)|Revigorante]]* || bonus de +2
 |-
-| 71 || *[Intensification ki](./intensification ki (propriété).md)* || bonus de +2
+| 71 || *[[Intensification ki (propriété)|Intensification ki]]* || bonus de +2
 |-
-| 72 || *[Élan vital](./élan vital (propriété).md)* || bonus de +2
+| 72 || *[[Élan vital (propriété)|Élan vital]]* || bonus de +2
 |-
-| 73 || *[Atténuante](./atténuante (propriété).md)* || bonus de +2
+| 73 || *[[Atténuante (propriété)|Atténuante]]* || bonus de +2
 |-
-| 74 || *[Ancrage dimensionnel](./ancrage dimensionnel (propriété).md)* || bonus de +2
+| 74 || *[[Ancrage dimensionnel (propriété)|Ancrage dimensionnel]]* || bonus de +2
 |-
-| 75-83 || *[Foudre intense](./foudre intense (propriété).md)* || bonus de +2
+| 75-83 || *[[Foudre intense (propriété)|Foudre intense]]* || bonus de +2
 |-
-| 84 || *[Filature](./filature (propriété).md)* || bonus de +2
+| 84 || *[[Filature (propriété)|Filature]]* || bonus de +2
 |-
-| 85-91 || *[Impie](./impie (propriété).md)* || bonus de +2
+| 85-91 || *[[Impie (propriété)|Impie]]* || bonus de +2
 |-
-| 92-100 || *[Sanglante](./sanglante (propriété).md)* || bonus de +2
+| 92-100 || *[[Sanglante (propriété)|Sanglante]]* || bonus de +2
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Propriété spéciale d'arme +3 || Mod. au prix  
 de base
 |- CLASS="premier"
-| 01-20 || *[Affaiblissement magique](./affaiblissement magique (propriété).md)* || bonus de +3
+| 01-20 || *[[Affaiblissement magique (propriété)|Affaiblissement magique]]* || bonus de +3
 |-
-| 21-40 || *[Repositionnante](./repositionnante (propriété).md)* || bonus de +3
+| 21-40 || *[[Repositionnante (propriété)|Repositionnante]]* || bonus de +3
 |-
-| 41-80 || *[Rapide](./rapide (propriété).md)* || bonus de +3
+| 41-80 || *[[Rapide (propriété)|Rapide]]* || bonus de +3
 |-
-| 91-100 || *[Voleuse de magie](./voleuse de magie (propriété).md)* || bonus de +3
+| 91-100 || *[[Voleuse de magie (propriété)|Voleuse de magie]]* || bonus de +3
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Propriété spéciale d'arme +4 ou +5 || Mod. au prix  
 de base
 |- CLASS="premier"
-| 01-40 || *[Lumière](./lumière (propriété).md)* || bonus de +4
+| 01-40 || *[[Lumière (propriété)|Lumière]]* || bonus de +4
 |-
-| 41-80 || *[Dansante](./dansante (propriété).md)* || bonus de +4
+| 41-80 || *[[Dansante (propriété)|Dansante]]* || bonus de +4
 |-
-| 81-90 || *[Vorpale](./vorpale (propriété).md)*  
+| 81-90 || *[[Vorpale (propriété)|Vorpale]]*  
 (tranchantes uniquement) || bonus de +5
 |-
-| 91-95 || *[Mutante](./mutante (propriété).md)* || +10 000 po
+| 91-95 || *[[Mutante (propriété)|Mutante]]* || +10 000 po
 |-
-| 96-100 || *[Duel](./duel (propriété).md)* || +14 000 po
+| 96-100 || *[[Duel (propriété)|Duel]]* || +14 000 po
 |}
 </td></tr></table>
 
@@ -437,66 +437,66 @@ de base
 | D100 || Propriété spéciale d'arme +1 || Mod. au prix  
 de base
 |- CLASS="premier"
-| 01 || *[Polyvalente](./polyvalente (propriété).md)*  
+| 01 || *[[Polyvalente (propriété)|Polyvalente]]*  
 (arcs uniquement) || +1 000 po
 |-
-| 02 || *[Solide](./solide (propriété).md)* || +3 000 po
+| 02 || *[[Solide (propriété)|Solide]]* || +3 000 po
 |-
-| 03 || *[Mimétisme](./mimétisme (propriété).md)* || +4 000 po
+| 03 || *[[Mimétisme (propriété)|Mimétisme]]* || +4 000 po
 |-
-| 04-06 || *[Alliance](./alliance (propriété).md)* || bonus de +1
+| 04-06 || *[[Alliance (propriété)|Alliance]]* || bonus de +1
 |-
-| 07-15 || *[Tueuse](./tueuse (propriété).md)*  
+| 07-15 || *[[Tueuse (propriété)|Tueuse]]*  
 (transmis aux munitions) || bonus de +1
 |-
-| 16 || *[Rappel](./rappel (propriété).md)* || bonus de +1
+| 16 || *[[Rappel (propriété)|Rappel]]* || bonus de +1
 |-
-| 17-19 || *[Conductrice](./conductrice (propriété).md)* || bonus de +1
+| 17-19 || *[[Conductrice (propriété)|Conductrice]]* || bonus de +1
 |-
-| 20 || *[Préservation](./préservation (propriété).md)*  
+| 20 || *[[Préservation (propriété)|Préservation]]*  
 (toutes sauf à feu) || bonus de +1
 |-
-| 21-24 || *[Corrosive](./corrosive (propriété).md)*  
+| 21-24 || *[[Corrosive (propriété)|Corrosive]]*  
 (transmis aux munitions) || bonus de +1
 |-
-| 25 || *[Cruelle](./cruelle (propriété).md)* || bonus de +1
+| 25 || *[[Cruelle (propriété)|Cruelle]]* || bonus de +1
 |-
-| 26-28 || *[Rusée](./rusée (propriété).md)* || bonus de +1
+| 26-28 || *[[Rusée (propriété)|Rusée]]* || bonus de +1
 |-
-| 29-36 || *[Longue portée](./longue portée (propriété).md)* || bonus de +1
+| 29-36 || *[[Longue portée (propriété)|Longue portée]]* || bonus de +1
 |-
-| 37-45 || *[Feu](./feu (propriété).md)*  
+| 37-45 || *[[Feu (propriété)|Feu]]*  
 (transmis aux munitions) || bonus de +1
 |-
-| 46-54 || *[Froid](./froid (propriété).md)*  
+| 46-54 || *[[Froid (propriété)|Froid]]*  
 (transmis aux munitions) || bonus de +1
 |-
-| 55-58 || *[Chasseresse](./chasseresse (propriété).md)* || bonus de +1
+| 55-58 || *[[Chasseresse (propriété)|Chasseresse]]* || bonus de +1
 |-
-| 59-62 || *[Juge](./juge (propriété).md)* || bonus de +1
+| 59-62 || *[[Juge (propriété)|Juge]]* || bonus de +1
 |-
-| 63 || *[Révélatrice](./révélatrice (propriété).md)* || bonus de +1
+| 63 || *[[Révélatrice (propriété)|Révélatrice]]* || bonus de +1
 |-
-| 64 || *[Chanceuse](./chanceuse (propriété).md)*  
+| 64 || *[[Chanceuse (propriété)|Chanceuse]]*  
 (à feu uniquement) || bonus de +1
 |-
-| 65-66 || *[Miséricordieuse](./miséricordieuse (propriété).md)*  
+| 65-66 || *[[Miséricordieuse (propriété)|Miséricordieuse]]*  
 (transmis aux munitions) || bonus de +1
 |-
-| 67 || *[Planaire](./planaire (propriété).md)* || bonus de +1
+| 67 || *[[Planaire (propriété)|Planaire]]* || bonus de +1
 |-
-| 68 || *[Fiable](./fiable (propriété).md)*  
+| 68 || *[[Fiable (propriété)|Fiable]]*  
 (à feu uniquement) || bonus de +1
 |-
-| 69-76 || *[Boomerang](./boomerang (propriété).md)*  
+| 69-76 || *[[Boomerang (propriété)|Boomerang]]*  
 (de jet uniquement) || bonus de +1
 |-
-| 77-84 || *[Traqueuse](./traqueuse (propriété).md)* || bonus de +1
+| 77-84 || *[[Traqueuse (propriété)|Traqueuse]]* || bonus de +1
 |-
-| 85-92 || *[Foudre](./foudre (propriété).md)*  
+| 85-92 || *[[Foudre (propriété)|Foudre]]*  
 (transmis aux munitions) || bonus de +1
 |-
-| 93-100 || *[Tonnerre](./tonnerre (propriété).md)*  
+| 93-100 || *[[Tonnerre (propriété)|Tonnerre]]*  
 (transmis aux munitions) || bonus de +1
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
@@ -507,45 +507,45 @@ de base
 | D100 || Propriété spéciale d'arme +2 || Mod. au prix  
 de base
 |- CLASS="premier"
-| 01-10 || *[Anarchique](./anarchique (propriété).md)*  
+| 01-10 || *[[Anarchique (propriété)|Anarchique]]*  
 (transmis aux munitions) || bonus de +2
 |-
-| 11-13 || *[Inamovible](./inamovible (propriété).md)*  
+| 11-13 || *[[Inamovible (propriété)|Inamovible]]*  
 (de jet uniquement) || bonus de +2
 |-
-| 14-23 || *[Axiomatique](./axiomatique (propriété).md)*  
+| 14-23 || *[[Axiomatique (propriété)|Axiomatique]]*  
 (transmis aux munitions) || bonus de +2
 |-
-| 24-31 || *[Explosion corrosive](./explosion corrosive (propriété).md)*  
+| 24-31 || *[[Explosion corrosive (propriété)|Explosion corrosive]]*  
 (transmis aux munitions) || bonus de +2
 |-
-| 32-34 || *[Marquage](./marquage (propriété).md)*  
+| 32-34 || *[[Marquage (propriété)|Marquage]]*  
 (transmis aux munitions) || bonus de +2
 |-
-| 35-37 || *[Munitions inépuisables](./munitions inépuisables (propriété).md)*  
+| 35-37 || *[[Munitions inépuisables (propriété)|Munitions inépuisables]]*  
 (arcs et arbalètes uniquement) || bonus de +2
 |-
-| 38-48 || *[Feu intense](./feu intense (propriété).md)*  
+| 38-48 || *[[Feu intense (propriété)|Feu intense]]*  
 (transmis aux munitions) || bonus de +2
 |-
-| 49-58 || *[Sainte](./sainte (propriété).md)*  
+| 49-58 || *[[Sainte (propriété)|Sainte]]*  
 (transmis aux munitions) || bonus de +2
 |-
-| 59-69 || *[Froid intense](./froid intense (propriété).md)*  
+| 59-69 || *[[Froid intense (propriété)|Froid intense]]*  
 (transmis aux munitions) || bonus de +2
 |-
-| 70-73 || *[Enflammée](./enflammée (propriété).md)*  
+| 70-73 || *[[Enflammée (propriété)|Enflammée]]*  
 (transmis aux munitions) || bonus de +2
 |-
-| 74-76 || *[Ancrage dimensionnel](./ancrage dimensionnel (propriété).md)*  
+| 74-76 || *[[Ancrage dimensionnel (propriété)|Ancrage dimensionnel]]*  
 (transmis aux munitions) || bonus de +2
 |-
-| 77-86 || *[Foudre intense](./foudre intense (propriété).md)*  
+| 77-86 || *[[Foudre intense (propriété)|Foudre intense]]*  
 (transmis aux munitions) || bonus de +2
 |-
-| 87-90 || *[Filature](./filature (propriété).md)* || bonus de +2
+| 87-90 || *[[Filature (propriété)|Filature]]* || bonus de +2
 |-
-| 91-100 || *[Impie](./impie (propriété).md)*  
+| 91-100 || *[[Impie (propriété)|Impie]]*  
 (transmis aux munitions) || bonus de +2
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
@@ -553,22 +553,22 @@ de base
 | D100 || Propriété spéciale d'arme +3 ou +4 || Mod. au prix  
 de base
 |- CLASS="premier"
-| 01-25 || *[Chanceuse supérieure](./chanceuse supérieure (propriété).md)*  
+| 01-25 || *[[Chanceuse supérieure (propriété)|Chanceuse supérieure]]*  
 (à feu uniquement) || bonus de +3
 |-
-| 26-45 || *[Fiable supérieure](./fiable supérieure (propriété).md)*  
+| 26-45 || *[[Fiable supérieure (propriété)|Fiable supérieure]]*  
 (à feu uniquement) || bonus de +3
 |-
-| 46-85 || *[Rapide](./rapide (propriété).md)* || bonus de +3
+| 46-85 || *[[Rapide (propriété)|Rapide]]* || bonus de +3
 |-
-| 86-94 || *[Lumière](./lumière (propriété).md)*  
+| 86-94 || *[[Lumière (propriété)|Lumière]]*  
 (transmis aux munitions) || bonus de +4
 |-
-| 95-96 || *[Marquage supérieur](./marquage supérieur (propriété).md)* || bonus de +4
+| 95-96 || *[[Marquage supérieur (propriété)|Marquage supérieur]]* || bonus de +4
 |-
-| 97-98 || *[Preste](./preste (propriété).md)* || bonus de +4
+| 97-98 || *[[Preste (propriété)|Preste]]* || bonus de +4
 |-
-| 99-100 || *[Deuxième chance](./deuxième chance (propriété).md)*  
+| 99-100 || *[[Deuxième chance (propriété)|Deuxième chance]]*  
 (arcs uniquement) || bonus de +4
 |}
 </td></tr></table>
@@ -580,37 +580,37 @@ de base
 | D100 || Propriété spéciale de munition +1 || Mod. au prix  
 de base
 |- CLASS="premier"
-| 01-05 || *[Charge étanche](./charge étanche (propriété).md)*  
+| 01-05 || *[[Charge étanche (propriété)|Charge étanche]]*  
 (cartouche métallique et alchimique  
 d'armes à feu uniquement) || +1 500 po
 |-
-| 06-16 || *[Tueuse](./tueuse (propriété).md)* || bonus de +1
+| 06-16 || *[[Tueuse (propriété)|Tueuse]]* || bonus de +1
 |-
-| 17 || *[Conductrice](./conductrice (propriété).md)* || bonus de +1
+| 17 || *[[Conductrice (propriété)|Conductrice]]* || bonus de +1
 |-
-| 18-28 || *[Corrosive](./corrosive (propriété).md)* || bonus de +1
+| 18-28 || *[[Corrosive (propriété)|Corrosive]]* || bonus de +1
 |-
-| 29 || *[Cruelle](./cruelle (propriété).md)* || bonus de +1
+| 29 || *[[Cruelle (propriété)|Cruelle]]* || bonus de +1
 |-
-| 30 || *[Rusée](./rusée (propriété).md)* || bonus de +1
+| 30 || *[[Rusée (propriété)|Rusée]]* || bonus de +1
 |-
-| 31-43 || *[Feu](./feu (propriété).md)* || bonus de +1
+| 31-43 || *[[Feu (propriété)|Feu]]* || bonus de +1
 |-
-| 44-56 || *[Froid](./froid (propriété).md)* || bonus de +1
+| 44-56 || *[[Froid (propriété)|Froid]]* || bonus de +1
 |-
-| 57-64 || *[Spectrale](./spectrale (propriété).md)* || bonus de +1
+| 57-64 || *[[Spectrale (propriété)|Spectrale]]* || bonus de +1
 |-
-| 65 || *[Révélatrice](./révélatrice (propriété).md)* || bonus de +1
+| 65 || *[[Révélatrice (propriété)|Révélatrice]]* || bonus de +1
 |-
-| 66-67 || *[Miséricordieuse](./miséricordieuse (propriété).md)* || bonus de +1
+| 66-67 || *[[Miséricordieuse (propriété)|Miséricordieuse]]* || bonus de +1
 |-
-| 68 || *[Planaire](./planaire (propriété).md)* || bonus de +1
+| 68 || *[[Planaire (propriété)|Planaire]]* || bonus de +1
 |-
-| 69-73 || *[Traqueuse](./traqueuse (propriété).md)* || bonus de +1
+| 69-73 || *[[Traqueuse (propriété)|Traqueuse]]* || bonus de +1
 |-
-| 74-86 || *[Foudre](./foudre (propriété).md)* || bonus de +1
+| 74-86 || *[[Foudre (propriété)|Foudre]]* || bonus de +1
 |-
-| 87-100 || *[Tonnerre](./tonnerre (propriété).md)* || bonus de +1
+| 87-100 || *[[Tonnerre (propriété)|Tonnerre]]* || bonus de +1
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |}
@@ -620,36 +620,36 @@ d'armes à feu uniquement) || +1 500 po
 | D100 || Propriété spéciale de munition +2 || Mod. au prix  
 de base
 |- CLASS="premier"
-| 01-10 || *[Anarchique](./anarchique (propriété).md)* || bonus de +2
+| 01-10 || *[[Anarchique (propriété)|Anarchique]]* || bonus de +2
 |-
-| 11-20 || *[Axiomatique](./axiomatique (propriété).md)* || bonus de +2
+| 11-20 || *[[Axiomatique (propriété)|Axiomatique]]* || bonus de +2
 |-
-| 21-30 || *[Explosion corrosive](./explosion corrosive (propriété).md)* || bonus de +2
+| 21-30 || *[[Explosion corrosive (propriété)|Explosion corrosive]]* || bonus de +2
 |-
-| 31-33 || *[Marquage](./marquage (propriété).md)* || bonus de +2
+| 31-33 || *[[Marquage (propriété)|Marquage]]* || bonus de +2
 |-
-| 34-45 || *[Feu intense](./feu intense (propriété).md)* || bonus de +2
+| 34-45 || *[[Feu intense (propriété)|Feu intense]]* || bonus de +2
 |-
-| 46-55 || *[Sainte](./sainte (propriété).md)* || bonus de +2
+| 46-55 || *[[Sainte (propriété)|Sainte]]* || bonus de +2
 |-
-| 56-67 || *[Froid intense](./froid intense (propriété).md)* || bonus de +2
+| 56-67 || *[[Froid intense (propriété)|Froid intense]]* || bonus de +2
 |-
-| 68-70 || *[Enflammée](./enflammée (propriété).md)* || bonus de +2
+| 68-70 || *[[Enflammée (propriété)|Enflammée]]* || bonus de +2
 |-
-| 71-80 || *[Ancrage dimensionnel](./ancrage dimensionnel (propriété).md)* || bonus de +2
+| 71-80 || *[[Ancrage dimensionnel (propriété)|Ancrage dimensionnel]]* || bonus de +2
 |-
-| 81-90 || *[Foudre intense](./foudre intense (propriété).md)* || bonus de +2
+| 81-90 || *[[Foudre intense (propriété)|Foudre intense]]* || bonus de +2
 |-
-| 91-100 || *[Impie](./impie (propriété).md)* || bonus de +2
+| 91-100 || *[[Impie (propriété)|Impie]]* || bonus de +2
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Propriété spéciale de munition +4 || Mod. au prix  
 de base
 |- CLASS="premier"
-| 01-66 || *[Lumière](./lumière (propriété).md)* || bonus de +4
+| 01-66 || *[[Lumière (propriété)|Lumière]]* || bonus de +4
 |-
-| 67-100 || *[Marquage supérieur](./marquage supérieur (propriété).md)* || bonus de +4
+| 67-100 || *[[Marquage supérieur (propriété)|Marquage supérieur]]* || bonus de +4
 |}
 </td></tr></table>
 ## Détermination aléatoire des armes magiques spécifiques
@@ -659,212 +659,212 @@ de base
 |- CLASS="titre"
 | D100 || Arme magique spécifique faible inférieure || Prix(po)
 |- CLASS="premier"
-| 01-02 || [Balle de signalisation](./Balle de Signalisation.md) || 100
+| 01-02 || [[Balle de signalisation]] || 100
 |-
-| 03-08 || [Flèche endormante](./Flèche endormante.md) || 132
+| 03-08 || [[Flèche endormante]] || 132
 |-
-| 09-10 || [Bille de poussière](./Bille de Poussière.md) || 196
+| 09-10 || [[Bille de poussière]] || 196
 |-
-| 11-16 || [Carreau d’enchevêtrement](./carreau denchevêtrement.md) || 226
+| 11-16 || [[Carreau denchevêtrement|Carreau d’enchevêtrement]] || 226
 |-
-| 17-22 || [Carreau hurleur](./Carreau hurleur.md) || 267
+| 17-22 || [[Carreau hurleur]] || 267
 |-
-| 23-32 || [Dague de maître en argent](./Dague de maître en argent.md) || 322
+| 23-32 || [[Dague de maître en argent]] || 322
 |-
-| 33-34 || [Bille de l’alchimiste](./Bille de lAlchimiste.md) || 330
+| 33-34 || [[Bille de lalchimiste|Bille de l’alchimiste]] || 330
 |-
-| 35-44 || [Épée longue de maître en fer froid](./Épée longue de maître en fer froid.md) || 330
+| 35-44 || [[Épée longue de maître en fer froid]] || 330
 |-
-| 45-50 || [Flèche silencieuse](./Flèche Silencieuse.md) || 547
+| 45-50 || [[Flèche silencieuse]] || 547
 |-
-| 51-56 || [Flèche silencieuse](./Flèche Silencieuse.md) supérieure || 1 047
+| 51-56 || [[Flèche silencieuse]] supérieure || 1 047
 |-
-| 57-66 || [Javeline de foudre](./Javeline de foudre.md) || 1 500
+| 57-66 || [[Javeline de foudre]] || 1 500
 |-
-| 67-74 || [Flèche brûlante](./Flèche brûlante.md) || 1 516
+| 67-74 || [[Flèche brûlante]] || 1 516
 |-
-| 75-82 || [Flèche grésillante](./Flèche grésillante.md) || 1 516
+| 75-82 || [[Flèche grésillante]] || 1 516
 |-
-| 83-84 || [Balle fouisseuse](./Balle Fouisseuse.md) || 1 722
+| 83-84 || [[Balle fouisseuse]] || 1 722
 |-
-| 85-92 || [Carreau asséchant](./Carreau Asséchant.md) || 1 730
+| 85-92 || [[Carreau asséchant]] || 1 730
 |-
-| 93-100 || [Flèche mortelle](./Flèche mortelle.md) || 2 282
+| 93-100 || [[Flèche mortelle]] || 2 282
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Arme magique spécifique faible supérieure || Prix(po)
 |- CLASS="premier"
-| 01-20 || [Dague en adamantium](./Dague en adamantium.md) || 3 002
+| 01-20 || [[Dague en adamantium]] || 3 002
 |-
-| 21-40 || [Hache d’armes en adamantium](./Hache darmes en adamantium.md) || 3 010
+| 21-40 || [[Hache darmes en adamantium|Hache d’armes en adamantium]] || 3 010
 |-
-| 41-50 || [Balle fouisseuse](./Balle Fouisseuse.md) supérieure || 3 447
+| 41-50 || [[Balle fouisseuse]] supérieure || 3 447
 |-
-| 51-70 || [Flèche mortelle](./Flèche mortelle.md) supérieure || 4 057
+| 51-70 || [[Flèche mortelle]] supérieure || 4 057
 |-
-| 71-80 || [Lance de joute](./Lance de joute.md) || 4 310
+| 71-80 || [[Lance de joute]] || 4 310
 |-
-| 81-100 || [Brise-arme](./Brise-arme.md) || 4 315
+| 81-100 || [[Brise-arme]] || 4 315
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Arme magique spécifique intermédiaire inférieure || Prix(po)
 |- CLASS="premier"
-| 01-03 || [Kukri de la saignée](./Kukri de la Saignée.md) || 6 308
+| 01-03 || [[Kukri de la saignée]] || 6 308
 |-
-| 04-09 || [Masse de roc](./Masse de roc.md) || 6 812
+| 04-09 || [[Masse de roc]] || 6 812
 |-
-| 10-14 || [Gourdin bestial](./Gourdin bestial.md) || 7 300
+| 10-14 || [[Gourdin bestial]] || 7 300
 |-
-| 15-20 || [Fourche de guerre](./Fourche de Guerre.md) || 7 315
+| 15-20 || [[Fourche de guerre]] || 7 315
 |-
-| 21-23 || [Goupillon intarissable](./Goupillon Intarissable.md) || 7 805
+| 21-23 || [[Goupillon intarissable]] || 7 805
 |-
-| 24-28 || [Bâton des ouragans](./Bâton des Ouragans.md) || 7 840
+| 24-28 || [[Bâton des ouragans]] || 7 840
 |-
-| 29-34 || [Dague venimeuse](./Dague venimeuse.md) || 8 302
+| 29-34 || [[Dague venimeuse]] || 8 302
 |-
-| 35-39 || [Lame obscure](./Lame Obscure.md) || 8 810
+| 35-39 || [[Lame obscure]] || 8 810
 |-
-| 40-44 || [Fronde morsure-de-froid](./Fronde Morsure-de-froid.md) || 9 380
+| 40-44 || [[Fronde morsure-de-froid]] || 9 380
 |-
-| 45-49 || [Trident de stabilité](./Trident de stabilité.md) || 9 815
+| 45-49 || [[Trident de stabilité]] || 9 815
 |-
-| 50-54 || [Trident d’alerte sous-marine](./Trident dAlerte Sous-marine.md) || 10 115
+| 50-54 || [[Trident dalerte sous-marine|Trident d’alerte sous-marine]] || 10 115
 |-
-| 55-60 || [Dague de l’assassin](./Dague de lassassin.md) || 10 302
+| 55-60 || [[Dague de lassassin|Dague de l’assassin]] || 10 302
 |-
-| 61-66 || [Dague jumelle](./Dague Jumelle.md) || 10 302
+| 61-66 || [[Dague jumelle]] || 10 302
 |-
-| 67-71 || [Fléau de terre](./Fléau de Terre.md) || 11 315
+| 67-71 || [[Fléau de terre]] || 11 315
 |-
-| 72-79 || [Grande hache de vitesse](./Grande Hache de Vitesse.md) || 11 320
+| 72-79 || [[Grande hache de vitesse]] || 11 320
 |-
-| 80-85 || [Marteau de polarité](./Marteau de Polarité.md) || 12 310
+| 80-85 || [[Marteau de polarité]] || 12 310
 |-
-| 86-93 || [Entrave](./Entrave (arme magique).md) || 12 350
+| 86-93 || [[Entrave (arme magique)|Entrave]] || 12 350
 |-
-| 94-100 || [Regret du changeant](./Regret du changeant.md) || 12 780
+| 94-100 || [[Regret du changeant]] || 12 780
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Arme magique spécifique intermédiaire supérieure || Prix(po)
 |- CLASS="premier"
-| 01-07 || [Piégeuse de dragons](./Piégeuse de Dragons.md) || 13 308
+| 01-07 || [[Piégeuse de dragons]] || 13 308
 |-
-| 08-15 || [Épée à dix anneaux](./Épée À Dix Anneaux.md) || 14 315
+| 08-15 || [[Épée à dix anneaux]] || 14 315
 |-
-| 16-21 || [Trident des tritons](./Trident des Tritons.md) || 15 065
+| 16-21 || [[Trident des tritons]] || 15 065
 |-
-| 22-29 || [Masse de démolition](./Masse de démolition.md) inférieure || 16 012
+| 22-29 || [[Masse de démolition]] inférieure || 16 012
 |-
-| 30-37 || [Rapière désarmante](./Rapière Désarmante.md) || 17 820
+| 30-37 || [[Rapière désarmante]] || 17 820
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 38-42 || [Fouet urticant](./Fouet Urticant.md) || 18 305
+| 38-42 || [[Fouet urticant]] || 18 305
 |-
-| 43-47 || [Brise-bouclier](./Brise-bouclier.md) || 18 310
+| 43-47 || [[Brise-bouclier]] || 18 310
 |-
-| 48-53 || [Trident de domination aquatique](./Trident de domination aquatique.md) || 18 650
+| 48-53 || [[Trident de domination aquatique]] || 18 650
 |-
-| 54-59 || [Bâton de l’acrobate](./Bâton de lAcrobate.md) || 19 100
+| 54-59 || [[Bâton de lacrobate|Bâton de l’acrobate]] || 19 100
 |-
-| 60-65 || [Pistolet drake-de-feu](./Pistolet Drake-de-feu.md) || 20 300
+| 60-65 || [[Pistolet drake-de-feu]] || 20 300
 |-
-| 66-71 || [Marteau de ricochet](./Marteau de ricochet.md) || 20 301
+| 66-71 || [[Marteau de ricochet]] || 20 301
 |-
-| 72-77 || [Épée ardente](./Épée ardente.md) || 20 715
+| 72-77 || [[Épée ardente]] || 20 715
 |-
-| 78-85 || [Comète](./Comète.md) || 21 324
+| 78-85 || [[Comète]] || 21 324
 |-
-| 86-90 || [Épée de bonne fortune](./Épée de bonne fortune.md) (0 souhait) || 22 060
+| 86-90 || [[Épée de bonne fortune]] (0 souhait) || 22 060
 |-
-| 91-95 || [Épée de précision](./Épée de précision.md) || 22 310
+| 91-95 || [[Épée de précision]] || 22 310
 |-
-| 96-100 || [Épée des plans](./Épée des plans.md) || 22 315
+| 96-100 || [[Épée des plans]] || 22 315
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Arme magique spécifique puissante inférieure || Prix(po)
 |- CLASS="premier"
-| 01-12 || [Épée aux neuf vies](./Épée Aux Neuf Vies.md) || 23 057
+| 01-12 || [[Épée aux neuf vies]] || 23 057
 |-
-| 13-26 || [Hache affaiblissante](./Hache affaiblissante.md) || 23 310
+| 13-26 || [[Hache affaiblissante]] || 23 310
 |-
-| 27-40 || [Geôlier des âmes](./Geôlier des Âmes.md) || 25 302
+| 27-40 || [[Geôlier des âmes]] || 25 302
 |-
-| 41-55 || [Marteau des nains](./Marteau des Nains.md) || 25 312
+| 41-55 || [[Marteau des nains]] || 25 312
 |-
-| 56-70 || [Arc du long serment](./Arc du long serment.md) || 25 600
+| 56-70 || [[Arc du long serment]] || 25 600
 |-
-| 71-85 || [Épée voleuse de vie](./Épée voleuse de vie.md) || 25 715
+| 71-85 || [[Épée voleuse de vie]] || 25 715
 |-
-| 86-100 || [Apprentie du coupe-gorge](./Apprentie du Coupe-gorge.md) || 33 910
+| 86-100 || [[Apprentie du coupe-gorge]] || 33 910
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Arme magique spécifique puissante supérieure || Prix(po)
 |- CLASS="premier"
-| 01-02 || [Complainte des goules](./Complainte des Goules.md) || 35 312
+| 01-02 || [[Complainte des goules]] || 35 312
 |-
-| 03-05 || [Masse d’épouvante](./Masse dépouvante.md) || 38 552
+| 03-05 || [[Masse dépouvante|Masse d’épouvante]] || 38 552
 |-
-| 06-07 || [Fouet des Enfers](./Fouet des Enfers.md) || 39 305
+| 06-07 || [[Fouet des Enfers]] || 39 305
 |-
-| 08-09 || [Châtiment des dragons](./Châtiment des Dragons.md) || 40 310
+| 08-09 || [[Châtiment des dragons]] || 40 310
 |-
-| 10-13 || [Hache dévitalisante](./Hache dévitalisante.md) || 40 320
+| 10-13 || [[Hache dévitalisante]] || 40 320
 |-
-| 14-16 || [Épée du brave](./Épée du Brave.md) || 41 335
+| 14-16 || [[Épée du brave]] || 41 335
 |-
-| 17-18 || [Tourment des invocateurs](./Tourment des Invocateurs.md) || 42 816
+| 17-18 || [[Tourment des invocateurs]] || 42 816
 |-
-| 19-21 || [Cimeterre des bois](./Cimeterre des bois.md) || 47 315
+| 19-21 || [[Cimeterre des bois]] || 47 315
 |-
-| 22-23 || [Lame spirituelle](./Lame spirituelle.md) || 48 502
+| 22-23 || [[Lame spirituelle]] || 48 502
 |-
-| 24-26 || [Lance cœur-de-bois](./Lance-cœur-de-bois.md) || 50 302
+| 24-26 || [[Lance cœur-de-bois]] || 50 302
 |-
-| 27-29 || [Rapière d’anémie](./Rapière danémie.md) || 50 320
+| 27-29 || [[Rapière danémie|Rapière d’anémie]] || 50 320
 |-
-| 30-32 || [Épée radieuse](./Épée radieuse.md) || 50 335
+| 30-32 || [[Épée radieuse]] || 50 335
 |-
-| 33-37 || [Katana du soleil levant](./Katana du Soleil Levant.md) || 51 850
+| 33-37 || [[Katana du soleil levant]] || 51 850
 |-
-| 38-40 || [Épée de givre](./Épée de givre.md) || 54 475
+| 38-40 || [[Épée de givre]] || 54 475
 |-
-| 41-45 || [Marteau de lancer nain](./Marteau de lancer nain.md) || 60 312
+| 41-45 || [[Marteau de lancer nain]] || 60 312
 |-
-| 46-50 || [Dague vampirique](./Dague Vampirique.md) || 60 802
+| 46-50 || [[Dague vampirique]] || 60 802
 |-
-| 51-53 || [Cimeterre de rage assassine](./Cimeterre de Rage Assassine.md) || 61 375
+| 51-53 || [[Cimeterre de rage assassine]] || 61 375
 |-
-| 54-57 || [Épée de bonne fortune](./Épée de bonne fortune.md) (1 souhait) || 62 360
+| 54-57 || [[Épée de bonne fortune]] (1 souhait) || 62 360
 |-
-| 58-61 || [Lame gardienne](./Lame gardienne.md) || 65 310
+| 58-61 || [[Lame gardienne]] || 65 310
 |-
-| 62-64 || [Pistolet des cieux infinis](./Pistolet des Cieux Infinis.md) || 73 300
+| 62-64 || [[Pistolet des cieux infinis]] || 73 300
 |-
-| 65-69 || [Masse de démolition](./Masse de démolition.md) || 75 312
+| 65-69 || [[Masse de démolition]] || 75 312
 |-
-| 70-73 || [Katana du moine sanctifié](./Katana du Moine Sanctifié.md) || 75 350
+| 70-73 || [[Katana du moine sanctifié]] || 75 350
 |-
-| 74-76 || [Chapardeur magique](./Chapardeur Magique.md) || 75 815
+| 74-76 || [[Chapardeur magique]] || 75 815
 |-
-| 77-79 || [Croc de l’araignée](./Croc de lAraignée.md) || 79 102
+| 77-79 || [[Croc de laraignée|Croc de l’araignée]] || 79 102
 |-
-| 80-82 || [Fléau des démons](./Fléau des Démons.md) || 90 469
+| 80-82 || [[Fléau des démons]] || 90 469
 |-
-| 83-85 || [Faux du néant](./Faux du Néant.md) || 95 318
+| 83-85 || [[Faux du néant]] || 95 318
 |-
-| 86-89 || [Épée de bonne fortune](./Épée de bonne fortune.md) (2 souhaits) || 102 660
+| 86-89 || [[Épée de bonne fortune]] (2 souhaits) || 102 660
 |-
-| 90-92 || [Épée de justice](./Épée de justice.md) || 120 630
+| 90-92 || [[Épée de justice]] || 120 630
 |-
-| 93-96 || [Lame du bâtard](./Lame du Bâtard.md) || 123 035
+| 93-96 || [[Lame du bâtard]] || 123 035
 |-
-| 97-100 || [Épée de bonne fortune](./Épée de bonne fortune.md) (3 souhaits) || 142 960
+| 97-100 || [[Épée de bonne fortune]] (3 souhaits) || 142 960
 |}
 </td></tr></table>

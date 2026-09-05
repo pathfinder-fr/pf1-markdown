@@ -10,27 +10,27 @@ LastModified: 2021-02-23 16:41
 {s:pucem|Créature magique|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.192*}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille TG, CM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille TG, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24 contact 10, pris au dépourvu 22 (Dex +2, naturelle +14, taille -2)}
-{s:BDTexte|**pv** 136 (13d10+65); [régénération](./Régénération.md) 5 (acide, froid ou feu)}
+{s:BDTexte|**pv** 136 (13d10+65); [[régénération]] 5 (acide, froid ou feu)}
 {s:BDTexte|**Réf** +10, **Vig** +13, **Vol** +8}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}); vol 9 m (6 {s:c}) (médiocre), nage 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +20 (2d6+9) et 2 coups +20 (1d8+9) ou langue, +20 (1d6+9 plus [étreinte](./Étreinte.md) et [attirer](./Attirer.md))}
+{s:BDTexte|**Corps à corps** morsure, +20 (2d6+9) et 2 coups +20 (1d8+9) ou langue, +20 (1d6+9 plus [[étreinte]] et [[attirer]])}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c}) (13,50 m (9 {s:c}) avec langue)}
-{s:BDTexte|**Attaques spéciales** [attirer](./Attirer.md) (langue, 1,50 m), [écrasement](./écrasement.md) (DD 21, 2d8+13, voir [dragon impérial](./Dragon impérial.md#Combat_1)), [engloutissement](./Engloutissement.md) (2d6+13 dégâts contondants, CA 17, 13 pv), ignoble coassement}
+{s:BDTexte|**Attaques spéciales** [[attirer]] (langue, 1,50 m), [[écrasement]] (DD 21, 2d8+13, voir [[Dragon impérial#Combat_1|dragon impérial]]), [[engloutissement]] (2d6+13 dégâts contondants, CA 17, 13 pv), ignoble coassement}
 {s:BDTexte|**Pouvoirs magiques** (NLS 8 ; concentration +11)}
-{s:BDSorts|Constant — *[communication avec les animaux](./Communication avec les animaux.md)* , *[passage sans trace](./passage sans trace.md)*}
-{s:BDSorts|À volonté — *[cacophonie](./Cacophonie.md)* (DD 15) , *[charme-animal](./Charme-animal.md)* (DD 14) , *[création d'eau](./Création deau.md)*}
-{s:BDSorts|3/jour — *[bourrasque](./Bourrasque.md)* (DD 15) , *[contrôle de l’eau](./Contrôle de leau.md)* , *[croissance végétale](./Croissance végétale.md)* , *[extinction des feux](./Extinction des feux.md)* (DD 16) , *[nappe de brouillard](./Nappe de brouillard.md)* , *[ramollissement de la terre et de la pierre](./Ramollissement de la terre et de la pierre.md)* (DD 15)}
+{s:BDSorts|Constant — *[[communication avec les animaux]]* , *[[passage sans trace]]*}
+{s:BDSorts|À volonté — *[[cacophonie]]* (DD 15) , *[[charme-animal]]* (DD 14) , *[[création deau|création d'eau]]*}
+{s:BDSorts|3/jour — *[[bourrasque]]* (DD 15) , *[[contrôle de leau|contrôle de l’eau]]* , *[[croissance végétale]]* , *[[extinction des feux]]* (DD 16) , *[[nappe de brouillard]]* , *[[ramollissement de la terre et de la pierre]]* (DD 15)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 28, **Dex** 15, **Con** 21, **Int** 6, **Sag** 15, **Cha** 16}
-{s:BDTexte|**BBA** +13, **BMO** +24 (+28 [lutte](./lutte.md)), **DMD** 36 (40 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md), [Science de la bousculade](./Science de la bousculade.md), [Science du renversement](./Science du renversement.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +9 (+17 pour le saut), [Discrétion](./Discrétion.md) +0 (+8 dans les marais), [Natation](./Natation.md) +17, [Perception](./Perception.md) +19, [Vol](./Vol.md) -6 ; **Modificateurs raciaux** +8en Acrobaties pour sauter, +8 en [Discrétion](./Discrétion.md) dans les marais, +8 en [Perception](./Perception.md)}
-{s:BDTexte|**Langues** bourbiérin, *[communication avec les animaux](./Communication avec les animaux.md)* }
+{s:BDTexte|**BBA** +13, **BMO** +24 (+28 [[lutte]]), **DMD** 36 (40 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Coup fabuleux]], [[Enchaînement]], [[Science de la bousculade]], [[Science du renversement]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +9 (+17 pour le saut), [[Discrétion]] +0 (+8 dans les marais), [[Natation]] +17, [[Perception]] +19, [[Vol]] -6 ; **Modificateurs raciaux** +8en Acrobaties pour sauter, +8 en [[Discrétion]] dans les marais, +8 en [[Perception]]}
+{s:BDTexte|**Langues** bourbiérin, *[[communication avec les animaux]]* }
 {s:BDTexte|**Particularités** amphibie, déplacement facilité (marais)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais tempérés}
@@ -38,8 +38,8 @@ LastModified: 2021-02-23 16:41
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Déplacement facilité dans les marais (Ext).** Le mobogo peut traverser n’importe quel terrain naturel difficile à sa vitesse de déplacement normale lorsqu’il est dans les marais. Les terrains magiquement altérés l’affectent normalement.}
-{s:BDTexte|**Ignoble coassement (Sur).** Par une [action simple](./Action simple.md), une fois tous les 1d4 rounds, le mobogo peut émettre un coassement tonitruant. Tous les non-bourbiérins ou non-mobogos présents dans un rayon de 15 mètres doivent réussir [jet de Volonté](./jet de sauvegarde.md) DD 19 ou être chancelants pendant 1d4 rounds.
-Une fois que la créature a réussi son jet de sauvegarde, elle est immunisée contre le coassement de ce mobogo pendant 24 heures. Tous les bourbiérins ou mobogos situés dans la zone de l’ignoble coassement du mobogo reçoivent un bonus de moral de +2 à leurs jets d’attaque et de sauvegarde contre les effets de terreur pendant 1 round. Le DD du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).}
+{s:BDTexte|**Ignoble coassement (Sur).** Par une [[action simple]], une fois tous les 1d4 rounds, le mobogo peut émettre un coassement tonitruant. Tous les non-bourbiérins ou non-mobogos présents dans un rayon de 15 mètres doivent réussir [[jet de sauvegarde|jet de Volonté]] DD 19 ou être chancelants pendant 1d4 rounds.
+Une fois que la créature a réussi son jet de sauvegarde, elle est immunisée contre le coassement de ce mobogo pendant 24 heures. Tous les bourbiérins ou mobogos situés dans la zone de l’ignoble coassement du mobogo reçoivent un bonus de moral de +2 à leurs jets d’attaque et de sauvegarde contre les effets de terreur pendant 1 round. Le DD du jet de sauvegarde est basé sur le [[Charisme]].}
 {s:BDTexte|**Langue (Ext).** La langue du mobogo constitue une attaque primaire avec une allonge égale à trois fois son allonge normale (13,50 m pour le mobogo typique). Le mobogo n’est pas considéré comme en lutte lorsqu’il utilise sa langue pour agripper un ennemi.}
 </div>
 

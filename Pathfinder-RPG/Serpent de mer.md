@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Créature magique|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.258}
 {s:BDTexte|**PX** 19.200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille Gig, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille Gig, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 8, pris au dépourvu 23 (Dex +2, naturelle +17, taille -4)}
 {s:BDTexte|**pv** 187 (15d10+105)}
@@ -22,21 +22,21 @@ Categories:
 {s:BDTexte|**Capacités défensives** insaisissable ; **Immunités** froid ; **Résistances** feu 30 }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), nage 18 m (12 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +23 (4d8+22/19–20 et [étreinte](./Étreinte.md)), coup de queue +18 (3d6+6 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure +23 (4d8+22/19–20 et [[étreinte]]), coup de queue +18 (3d6+6 et [[étreinte]])}
 {s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 6 m (4 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (3d6+18), [engloutissement](./Engloutissement.md) (4d8+18 contondant, CA 18, pv 18), retournement de navires}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (3d6+18), [[engloutissement]] (4d8+18 contondant, CA 18, pv 18), retournement de navires}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 34, **Dex** 14, **Con** 25, **Int** 2, **Sag** 11, **Cha** 11}
 {s:BDTexte|**BBA** +15, **BMO** +31 (+35 pour la lutte), **DMD** 43 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Discret](./Discret.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (morsure), [Talent](./Talent.md) ([Discrétion](./Discrétion.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +13, [Natation](./Natation.md) +20, [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Discret]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science de la bousculade]], [[Science du critique]] (morsure), [[Talent]] ([[Discrétion]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +13, [[Natation]] +20, [[Perception]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Insaisissable (Sur)** Les serpents de mer figurent depuis longtemps dans les légendes des marins mais, même si de nombreuses expéditions sont parties à leur recherche, on ne les croise que très rarement, à moins qu'ils ne décident du contraire. Lorsqu'ils sont dans l'eau, les serpents de mer peuvent utiliser une [action complexe](./Action complexe.md) pour se déplacer à leur vitesse de course (90 m (60 {s:c})) sans laisser aucune trace de leur passage (concrètement cela correspond aux effets d'un sort de *[passage sans trace](./passage sans trace.md)*). Les insaisissables serpents de mer bénéficient d'un bonus de +40 à leur test de [Discrétion](./Discrétion.md). En plus de cela, lorsqu'ils ne combattent pas, ils bénéficient des effets d'un sort d<nowiki>'</nowiki>*[antidétection](./Antidétection.md)*. Ces deux effets magiques possèdent un NLS de 20 et ne peuvent être dissipés.}
-{s:BDTexte|**Chavirer (Ext)** Un serpent de mer peut tenter de faire sombrer un bateau ou un navire appartenant à sa [catégorie de taille](./catégorie de taille.md) ou à une catégorie inférieure en effectuant une charge et en allant buter contre lui. Il doit effectuer un test de [manoeuvre](./manoeuvre-offensive.md) de combat contre un [DD](./DD.md) égal à 25 ou au résultat d'un test de [Profession](./Profession.md) (marin) réalisé par le capitaine du navire si celui-ci est plus élevé.}
+{s:BDTexte|**Insaisissable (Sur)** Les serpents de mer figurent depuis longtemps dans les légendes des marins mais, même si de nombreuses expéditions sont parties à leur recherche, on ne les croise que très rarement, à moins qu'ils ne décident du contraire. Lorsqu'ils sont dans l'eau, les serpents de mer peuvent utiliser une [[action complexe]] pour se déplacer à leur vitesse de course (90 m (60 {s:c})) sans laisser aucune trace de leur passage (concrètement cela correspond aux effets d'un sort de *[[passage sans trace]]*). Les insaisissables serpents de mer bénéficient d'un bonus de +40 à leur test de [[Discrétion]]. En plus de cela, lorsqu'ils ne combattent pas, ils bénéficient des effets d'un sort d<nowiki>'</nowiki>*[[antidétection]]*. Ces deux effets magiques possèdent un NLS de 20 et ne peuvent être dissipés.}
+{s:BDTexte|**Chavirer (Ext)** Un serpent de mer peut tenter de faire sombrer un bateau ou un navire appartenant à sa [[catégorie de taille]] ou à une catégorie inférieure en effectuant une charge et en allant buter contre lui. Il doit effectuer un test de [[manoeuvre offensive|manoeuvre]] de combat contre un [[DD]] égal à 25 ou au résultat d'un test de [[Profession]] (marin) réalisé par le capitaine du navire si celui-ci est plus élevé.}
 </div>
 </td><td><div>''Cet immense serpent de la taille d’un navire, au cou garni d’une collerette
 et couvert de piquants, jaillit de l’eau, prêt à frapper.''

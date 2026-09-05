@@ -14,9 +14,9 @@ Categories:
 {s:pucem|humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.181}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|Hobgobelin [guerrier](./Guerrier.md) 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille M, LM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +2}
+{s:BDTexte|Hobgobelin [[guerrier]] 1}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille M, LM}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 14 (armure +3, bouclier +1, Dex +2)}
 {s:BDTexte|**pv** 17 (1d10+7)}
@@ -28,12 +28,12 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 15, **Con** 16, **Int** 10, **Sag** 12, **Cha** 8}
 {s:BDTexte|**BBA** +1, **BMO** +3, **DMD** 15}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée longue), [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5, [Perception](./Perception.md) +2 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée longue), [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +5, [[Perception]] +2 ; **Modificateurs raciaux** [[Discrétion]] +4}
 {s:BDTexte|**Langues** commun, gobelin}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines tempérées}
-{s:BDTexte|**Organisation sociale** bande (4-9), groupe de combat (10-24) ou tribu (25+ plus 50% non-combattants, 1 sergent de niveau 3 par 20 adultes, 1 ou 2 lieutenants de niveau 4 ou 5, 1 chef de niveau 6-8, 6-12 [léopards](./Léopard.md) et 1-4 [ogres](./Ogre.md) ou 1-2 [trolls](./Troll.md))}
+{s:BDTexte|**Organisation sociale** bande (4-9), groupe de combat (10-24) ou tribu (25+ plus 50% non-combattants, 1 sergent de niveau 3 par 20 adultes, 1 ou 2 lieutenants de niveau 4 ou 5, 1 chef de niveau 6-8, 6-12 [[léopard|léopards]] et 1-4 [[ogre|ogres]] ou 1-2 [[troll|trolls]])}
 {s:BDTexte|**Trésor** équipement de PNJ (arc long avec 20 flèches, armure de cuir cloutée, épée longue, rondache en acier, autres trésors)}
 </div>
 
@@ -61,10 +61,10 @@ nouvelles recrues pour remplacer les esclaves
 qui sont morts ou ont été dévorés.
 
 De toutes les races gobelinoïdes, les hobgobelins sont de loin les
-plus civilisés. Ils considèrent leurs cousins [gobelours](./Gobelours.md), plus grands et
+plus civilisés. Ils considèrent leurs cousins [[gobelours]], plus grands et
 plus solitaires, comme de simples outils à utiliser lorsque c’est nécessaire
 (le plus souvent pour des missions spéciales requérant de la
-discrétion ou impliquant un assassinat). Ils voient les [gobelins](./Gobelin.md) avec
+discrétion ou impliquant un assassinat). Ils voient les [[Gobelin|gobelins]] avec
 un mélange de honte et d’agacement.
 
 Ils admirent la ténacité de leurs petits cousins mais leur nature imprévisible et leur penchant pour
@@ -108,11 +108,11 @@ et pèse 80 kg.
 Les hobgobelins ne possèdent pas de dés de vie raciaux et progressent en acquérant des niveaux de classe. Leurs traits raciaux sont les suivants :
 - **+2 Dextérité, +2 Constitution.** Les hobgobelins sont rapides et robustes.  
 
-- **Discrets.** Les hobgobelins possèdent un bonus racial de +4 aux tests de [Discrétion](./Discrétion.md).  
+- **Discrets.** Les hobgobelins possèdent un bonus racial de +4 aux tests de [[Discrétion]].  
 
-- **Vision dans le noir.** Les hobgobelins peuvent [voir dans le noir](./vision dans le noir.md) jusqu'à 18 m (12 {s:c}).  
+- **Vision dans le noir.** Les hobgobelins peuvent [[vision dans le noir|voir dans le noir]] jusqu'à 18 m (12 {s:c}).  
 
-- **Langues.** Les hobgobelins parlent automatiquement le commun et le gobelin. S'ils disposent d'une [Intelligence](./Intelligence.md) élevée, ils peuvent choisir des [langues supplémentaires](./Linguistique.md) parmi les suivantes : draconique, infernal, nain, orque.
+- **Langues.** Les hobgobelins parlent automatiquement le commun et le gobelin. S'ils disposent d'une [[Intelligence]] élevée, ils peuvent choisir des [[Linguistique|langues supplémentaires]] parmi les suivantes : draconique, infernal, nain, orque.
 
-{s:VoirAussiAvant}La page de la race [Hobgobelin](./Hobgobelin (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Hobgobelin (race)|Hobgobelin]]{s:VoirAussiAprès}
 </div></td></tr></table>

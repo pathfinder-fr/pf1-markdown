@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Créature magique|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire p.35*}
 {s:BDTexte|**PX** 4.800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille TG, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille TG, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 9, pris au dépourvu 20 (Dex +1, naturelle +12, taille -2)}
 {s:BDTexte|**pv** 105 (10d10+50)}
@@ -24,19 +24,19 @@ Categories:
 {s:BDTexte|**VD** 12 m (8 {s:c}), escalade 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** morsure +15 (2d6+9 et étreinte)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (2d6+9), [engloutissement](./Engloutissement.md) (2d8+9 contondant, CA 16, 10 pv), [pattes arrière](./Pattes arrière.md) (6 griffes +14, 1d4+6), [souffle](./Souffle.md) (ligne 6 m (4 {s:c}), 7d6 électricité, [Réflexes](./Réflexes.md) [DD](./DD.md) 20 demi-dégâts, utilisable tous les 1d4 rounds)}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (2d6+9), [[engloutissement]] (2d8+9 contondant, CA 16, 10 pv), [[pattes arrière]] (6 griffes +14, 1d4+6), [[souffle]] (ligne 6 m (4 {s:c}), 7d6 électricité, [[Réflexes]] [[DD]] 20 demi-dégâts, utilisable tous les 1d4 rounds)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 12, **Con** 21, **Int** 7, **Sag** 14, **Cha** 12}
 {s:BDTexte|**BBA** +10, **BMO** +18 (+22 pour la lutte), **DMD** 29 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Succession d'enchaînements](./Succession denchaînements.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5, [Escalade](./Escalade.md) +14, [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Enchaînement]], [[Succession denchaînements|Succession d'enchaînements]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +5, [[Escalade]] +14, [[Perception]] +8}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines et déserts chauds}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
 {s:BDTexte|**Trésor** double}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Étreinte (Ext)** La capacité d'[étreinte](./Étreinte.md) du béhir fonctionne contre les créatures de n'importe quelle taille. Il peut utiliser sa capacité de constriction au cours du round où il agrippe son adversaire. Par la suite, lors de n'importe quel round où il maintient sa prise, il peut griffer sa victime avec ses pattes arrières ou choisir de l'engloutir.}
+{s:BDTexte|**Étreinte (Ext)** La capacité d'[[étreinte]] du béhir fonctionne contre les créatures de n'importe quelle taille. Il peut utiliser sa capacité de constriction au cours du round où il agrippe son adversaire. Par la suite, lors de n'importe quel round où il maintient sa prise, il peut griffer sa victime avec ses pattes arrières ou choisir de l'engloutir.}
 </div>
 </td><td><div>*Ce reptile serpentin de couleur bleue possède de nombreuses pattes et une tête effrayante ornée de deux grandes cornes en spirales.*
 

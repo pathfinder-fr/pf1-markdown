@@ -9,15 +9,15 @@ Categories:
 - Sort prêtre 8
 ---
 
-{s:MMI}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8, [Prê](./Prêtre.md) 8
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (une pincée de sable du désert de la Cicatrice magique)
-**Portée** [moyenne](./Présentation des sorts.md#PORTEE) (30 m + 3 m/niveau)
+{s:MMI}**École** [[Abjuration]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Prêtre|Prê]] 8
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (une pincée de sable du désert de la Cicatrice magique)
+**Portée** [[Présentation des sorts#PORTEE|moyenne]] (30 m + 3 m/niveau)
 **Zone d'effet** deux cubes de 3 m de côté par niveau (F)
 **Durée** 10 minutes/niveau (T)
 
 *Ce sort puissant invoque le même type de dévastation magique à l’origine de la Désolation de mana il y a fort longtemps. Celle-ci est toutefois beaucoup plus localisée et heureusement temporaire.*
 
-À l’intérieur de la zone d’effet de la *cicatrice magique* déterminée par le personnage, les couleurs de l’environnement pâlissent, comme si le sort les atténuait, et des ondes de couleurs chatoyantes la traversent régulièrement. À l’intérieur de cette zone, les sorts, les pouvoirs magiques et les objets magiques activés déclenchent automatiquement un évènement de [magie primordiale](./Magie primordiale.md). Un lanceur de sorts peut éviter le déclenchement d’un tel évènement en réussissant un [test de concentration](./test de concentration.md) ([DD](./DD.md) = 15 + deux fois le niveau du sort), mais les créatures qui ne savent pas lancer des sorts et qui activent des objets magiques ne disposent pas de cette possibilité.
+À l’intérieur de la zone d’effet de la *cicatrice magique* déterminée par le personnage, les couleurs de l’environnement pâlissent, comme si le sort les atténuait, et des ondes de couleurs chatoyantes la traversent régulièrement. À l’intérieur de cette zone, les sorts, les pouvoirs magiques et les objets magiques activés déclenchent automatiquement un évènement de [[magie primordiale]]. Un lanceur de sorts peut éviter le déclenchement d’un tel évènement en réussissant un [[test de concentration]] ([[DD]] = 15 + deux fois le niveau du sort), mais les créatures qui ne savent pas lancer des sorts et qui activent des objets magiques ne disposent pas de cette possibilité.
 
-Le personnage gagne un bonus d’intuition de +4 aux [tests de concentration](./test de concentration.md) effectués pour empêcher le déclenchement d’évènements de [magie primordiale](./Magie primordiale.md) quand il se trouve au sein d’une *cicatrice magique* qu’il a lui-même créée. Toutefois, s’il déclenche un tel évènement, il peut lancer deux fois le d100 et choisir le résultat qu’il souhaite appliquer pour déterminer l’évènement.
+Le personnage gagne un bonus d’intuition de +4 aux [[test de concentration|tests de concentration]] effectués pour empêcher le déclenchement d’évènements de [[magie primordiale]] quand il se trouve au sein d’une *cicatrice magique* qu’il a lui-même créée. Toutefois, s’il déclenche un tel évènement, il peut lancer deux fois le d100 et choisir le résultat qu’il souhaite appliquer pour déterminer l’évènement.

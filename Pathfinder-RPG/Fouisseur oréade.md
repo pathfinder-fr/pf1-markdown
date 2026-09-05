@@ -6,7 +6,7 @@ LastModified: 2015-11-20 01:00
 
 *D’à peine une caresse, la terre se fend devant l’oréade, lui permettant de creuser très vite.*
 
-**Conditions requises.** [Semelle de pierre](./Semelle de pierre.md), niveau 9, [oréade](./Oréade (race).md).
+**Conditions requises.** [[Semelle de pierre]], niveau 9, [[oréade (race)|oréade]].
 
 **Avantages.** L’oréade gagne une vitesse de creusement égale
 à la moitié de sa vitesse de base. Il peut creuser dans le sable,

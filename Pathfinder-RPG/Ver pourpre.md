@@ -13,22 +13,22 @@ Categories:
 {s:pucem|Créature magique|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.283}
 {s:BDTexte|**XP** 19.200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille Gig, N}
-{s:BDTexte|**Init** -2 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +18}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille Gig, N}
+{s:BDTexte|**Init** -2 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +18}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 4, pris au dépourvu 26 (Dex -2, naturelle +22, taille -4)}
 {s:BDTexte|**pv** 200 (16d10+112)}
 {s:BDTexte|**Réf** +8, **Vig** +17, **Vol** +4}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), creusement 6 m (4 {s:c}), nage 3 m (2 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +25 (4d8+12/19-20 et [étreinte](./Étreinte.md)), dard +25 (2d8+12 et poison)}
+{s:BDTexte|**Corps à corps** morsure +25 (4d8+12/19-20 et [[étreinte]]), dard +25 (2d8+12 et poison)}
 {s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 4,5 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [engloutissement](./Engloutissement.md) (4d8+18 contondant, CA 21, 20 pv)}
+{s:BDTexte|**Attaques spéciales** [[engloutissement]] (4d8+18 contondant, CA 21, 20 pv)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 35, **Dex** 6, **Con** 25, **Int** 1, **Sag** 8, **Cha** 8}
 {s:BDTexte|**BBA** +16, **BMO** +32 (+36 pour la lutte), **DMD** 40 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure, dard), [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (morsure)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +20, [Perception](./Perception.md) +18}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure, dard), [[Attaque en puissance]], [[Coup fabuleux]], [[Critique ralentissant]], [[Don pour les critiques]], [[Science de la bousculade]], [[Science du critique]] (morsure)}
+{s:BDTexte|**Compétences** [[Natation]] +20, [[Perception]] +18}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
 {s:BDTexte|**Organisation sociale** solitaire}

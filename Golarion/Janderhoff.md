@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Protégée par une enceinte en fer et accessible par des tunnels bien défendus, Janderhoff, la cité des [nains](./nains.md) de la [Varisie](./Varisie.md), apparaît comme une forteresse impressionnante. Pourtant, cette cité est une merveille pour le commerce.  La zone réservée aux visiteurs abrite de nombreux marchés qui se trouvent près de la source de la richesse de la ville : les forges de Janderhoff. Quant aux [nains](./nains.md), ils préfèrent vivre dans un dédale de rues souterraines loin de toute cette activité.
+Protégée par une enceinte en fer et accessible par des tunnels bien défendus, Janderhoff, la cité des [[nains]] de la [[Varisie]], apparaît comme une forteresse impressionnante. Pourtant, cette cité est une merveille pour le commerce.  La zone réservée aux visiteurs abrite de nombreux marchés qui se trouvent près de la source de la richesse de la ville : les forges de Janderhoff. Quant aux [[nains]], ils préfèrent vivre dans un dédale de rues souterraines loin de toute cette activité.

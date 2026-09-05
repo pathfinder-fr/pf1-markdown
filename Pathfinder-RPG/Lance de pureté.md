@@ -7,20 +7,20 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[Bien](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Prê](./Prêtre.md) 2  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[Prêtre|Prê]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** projectile d'énergie Bonne en forme de lance  
 
-**Durée** [instantanée](./instantanée.md) (1 [round](./round.md))  
+**Durée** [[instantanée]] (1 [[round]])  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir texte) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] (voir texte) ; **Résistance à la magie** oui
 
-Grâce à son symbole sacré, le personnage envoie une lance de lumière blanche ou dorée vers une cible à portée, par une [attaque de contact à distance](./attaque de contact à distance.md).
+Grâce à son symbole sacré, le personnage envoie une lance de lumière blanche ou dorée vers une cible à portée, par une [[attaque de contact à distance]].
 
-Les créatures mauvaises frappées par ce projectile reçoivent 1d8 points de dégâts par tranche de deux [niveaux](./niveau.md) de lanceur de sorts (5d8 au maximum). Un extérieur mauvais subit 1d6 points de dégâts par [niveau](./niveau.md) de lanceur de sorts (10d6 au maximum) et est [aveugle](./Aveuglé.md) pendant 1 [round](./round.md). [Volonté](./Volonté.md) [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) et annule l'aveuglement. Ce sort inflige seulement la moitié des dégâts aux créatures qui ne sont ni bonnes ni mauvaises et elles ne sont pas [aveugles](./Aveuglé.md). Il n'a aucun effet sur les créatures bonnes.
+Les créatures mauvaises frappées par ce projectile reçoivent 1d8 points de dégâts par tranche de deux [[niveau|niveaux]] de lanceur de sorts (5d8 au maximum). Un extérieur mauvais subit 1d6 points de dégâts par [[niveau]] de lanceur de sorts (10d6 au maximum) et est [[aveuglé|aveugle]] pendant 1 [[round]]. [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] et annule l'aveuglement. Ce sort inflige seulement la moitié des dégâts aux créatures qui ne sont ni bonnes ni mauvaises et elles ne sont pas [[aveuglé|aveugles]]. Il n'a aucun effet sur les créatures bonnes.

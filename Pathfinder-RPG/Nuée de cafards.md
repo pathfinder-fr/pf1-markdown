@@ -14,24 +14,24 @@ Categories:
 {s:pucem|Vermine|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2 p.56*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Vermine](./type Vermine.md) ([nuée](./sous-type nuée.md)) de taille Min, N}
-{s:BDTexte|**Init** +2 ; **Sens** [Perception des vibrations](./Perception des vibrations.md) 9 m (6 {s:c}), [Vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Vermine|Vermine]] ([[sous-type nuée|nuée]]) de taille Min, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[Perception des vibrations]] 9 m (6 {s:c}), [[Vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 16, pris au dépourvu 14 (Dex +2, taille +4)}
 {s:BDTexte|**pv** 26 (4d8+8)}
 {s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +1}
-{s:BDTexte|**Capacités défensives** traits des [nuées](./sous-type nuée.md) ; **Immunités** dégâts par armes}
-{s:BDTexte|**Faiblesses** traits des nuées, [sensibilité à la lumière](./Sensibilité à la lumière (capacité).md)}
+{s:BDTexte|**Capacités défensives** traits des [[sous-type nuée|nuées]] ; **Immunités** dégâts par armes}
+{s:BDTexte|**Faiblesses** traits des nuées, [[Sensibilité à la lumière (capacité)|sensibilité à la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c}), vol 9 m (6 {s:c}) (médiocre)}
 {s:BDTexte|**Corps à corps** nuée (1d6)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 0 m}
-{s:BDTexte|**Attaques spéciales** [distraction](./Distraction.md) (DD 14)}
+{s:BDTexte|**Attaques spéciales** [[distraction]] (DD 14)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 15, **Con** 14, **Int** — , **Sag** 10, **Cha** 2}
 {s:BDTexte|**BBA** +3, **BMO** —, **DMD** —}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +10, [Perception](./Perception.md) +4, [Vol](./Vol.md) +4 ; Modificateurs raciaux +4 en Perception}
-{s:BDTexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**Compétences** [[Discrétion]] +14, [[Escalade]] +10, [[Perception]] +4, [[Vol]] +4 ; Modificateurs raciaux +4 en Perception}
+{s:BDTexte|**Particularités** [[Retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** climats tempérés ou chauds, ou en ville}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou infestation (3–20 nuées)}
@@ -43,9 +43,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Cafard géant](./Cafard géant.md) || 1/2
+| [[Cafard géant]] || 1/2
 |-
-| [Nuée de cafards](./Nuée de cafards.md) || 2
+| [[Nuée de cafards]] || 2
 |}
 </div>*Comme une marée noire et pestilentielle, une masse affamée de milliers de minuscules cafards claquetant recouvre tout ce qui se trouve sur son passage.*
 

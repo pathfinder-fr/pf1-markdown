@@ -10,26 +10,26 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Destructeur d'anges|FP 14}
-{s:BDTexte|*Source : [Manuel des PNJ p. 138](./Manuel des PNJ (Contenu).md)*}
+{s:BDTexte|*Source : [[Manuel des PNJ (contenu)|Manuel des PNJ p. 138]]*}
 {s:BDTexte|**PX** 38 400}
-{s:BDTexte|[Demi-orque](./Demi-orque.md) [rôdeur](./Rôdeur.md) 15}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md), [orque](./sous-type orque.md)) de taille M, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +20}
+{s:BDTexte|[[Demi-orque]] [[Rôdeur]] 15}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type orque|orque]]) de taille M, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +20}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 14, pris au dépourvu 23 (armure +6, bouclier +1, Dex +3, naturelle +5, parade +1)}
 {s:BDTexte|**pv** 112 (15d10+25)}
 {s:BDTexte|**Réf** +17, **Vig** +13, **Vol** +12}
-{s:BDTexte|**Capacités défensives** [esquive totale](./Rôdeur.md#ESQUIVETOTALE), férocité orque ; **Immunités** froid (120 points) ; **Résistances** électricité 30, feu 30}
+{s:BDTexte|**Capacités défensives** [[Rôdeur#ESQUIVETOTALE|esquive totale]], férocité orque ; **Immunités** froid (120 points) ; **Résistances** électricité 30, feu 30}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m}
 {s:BDTexte|**Corps à corps** *hache double orque tueuse d'extérieur Bons +1*, +21/+16/+11 (1d8+7/19–20/×3), *hache double orque +1*, +21/+16/+11 (1d8+7/19–20/×3)}
 {s:BDTexte|**Distance** arc long composite de maître, +19/+14/+9 (1d8+6/×3)}
-{s:BDTexte|**Attaques spéciales** [ennemi juré](./Rôdeur.md#ENNEMIJURE) (créatures magiques +2, elfes +2, extérieurs Bons +8, humains +2)}
-{s:BDTexte|**Sorts de rôdeur préparés**  ([NLS](./NLS.md) 12 ; [concentration](./concentration.md) +14)}
-{s:BDSorts|4e — *[liberté de mouvement](./Liberté de mouvement.md)*}
-{s:BDSorts|3e — *[neutralisation du poison](./Neutralisation du poison.md)*, *[soins modérés](./Soins modérés.md)*}
-{s:BDSorts|2e — *[grâce féline](./Grâce féline.md)*, *[peau d'écorce](./Peau décorce.md)*, *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*}
-{s:BDSorts|1er — *[grand pas](./Grand pas.md)*, *[passage sans traces](./Passage sans traces.md)*, *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)* (2)}
+{s:BDTexte|**Attaques spéciales** [[Rôdeur#ENNEMIJURE|ennemi juré]] (créatures magiques +2, elfes +2, extérieurs Bons +8, humains +2)}
+{s:BDTexte|**Sorts de rôdeur préparés**  ([[NLS]] 12 ; [[concentration]] +14)}
+{s:BDSorts|4e — *[[liberté de mouvement]]*}
+{s:BDSorts|3e — *[[neutralisation du poison]]*, *[[soins modérés]]*}
+{s:BDSorts|2e — *[[grâce féline]]*, *[[peau décorce|peau d'écorce]]*, *[[protection contre les énergies destructives]]*}
+{s:BDSorts|1er — *[[grand pas]]*, *[[passage sans traces]]*, *[[résistance aux énergies destructives]]* (2)}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Avant le combat** Le rôdeur lance, *grâce féline*, *grand pas*, *liberté de mouvement*, *passage sans trace*, *peau d’écorce*, *protection contre les énergies destructives* (froid) et *résistance aux énergies destructives* (électricité, feu).}
 {s:BDTexte|**Pendant le combat** Le rôdeur utilise son arc contre les cibles volantes mais, si elles ne font pas mine de se poser, il préfère boire sa *potion de vol* et se battre au corps à corps.}
@@ -37,11 +37,11 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 22, **Dex** 17, **Con** 12, **Int** 10, **Sag** 14, **Cha** 8}
 {s:BDTexte|**BBA** +15 ; **BMO** +21 ; **DMD** 35}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (hache double orque), [Attaque en puissance](./Attaque en puissance.md), [Combat à deux armes supérieur](./Combat à deux armes supérieur.md), [Combat à deux armes](./Combat à deux armes.md), [Défense à deux armes](./Défense à deux armes.md), [Double frappe](./Double frappe.md), [Endurance](./Endurance.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Science du combat à deux armes](./Science du combat à deux armes.md), [Science du critique](./Science du critique.md) (hache double orque), [Tir à bout portant](./Tir à bout portant.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +7, [Connaissances](./Connaissances.md) (nature) +13, [Connaissances](./Connaissances.md) (plans) +10, [Discrétion](./Discrétion.md) +20, [Équitation](./Équitation.md) +10, [Escalade](./Escalade.md) +18, [Intimidation](./Intimidation.md) +1, [Linguistique](./Linguistique.md) +2, [Natation](./Natation.md) +18, [Perception](./Perception.md) +20, [Survie](./Survie.md) +15}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (hache double orque), [[Attaque en puissance]], [[Combat à deux armes supérieur]], [[Combat à deux armes]], [[Défense à deux armes]], [[Double frappe]], [[Endurance]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science du combat à deux armes]], [[Science du critique]] (hache double orque), [[Tir à bout portant]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Bluff]] +7, [[Connaissances]] (nature) +13, [[Connaissances]] (plans) +10, [[Discrétion]] +20, [[Équitation]] +10, [[Escalade]] +18, [[Intimidation]] +1, [[Linguistique]] +2, [[Natation]] +18, [[Perception]] +20, [[Survie]] +15}
 {s:BDTexte|**Langues** abyssal, céleste, commun, orque}
-{s:BDTexte|**Particularités** armes familières, [camouflage](./Rôdeur.md#CAMOUFLAGE), [déplacement facilité](./Rôdeur.md#DEPLACEMENTFACILITE), [empathie sauvage +14](./Rôdeur.md#EMPATHIESAUVAGE), [environnement de prédilection](./Rôdeur.md#ENVIRONNEMENTDEPREDILECTION) (montagnes +2, Paradis +6, urbain +2), [pacte du chasseur](./Rôdeur.md#PACTEDUCHASSEUR) (compagnons), [pistage +7](./Rôdeur.md#PISTAGE), [pistage rapide](./Rôdeur.md#PISTAGERAPIDE), [proie du chasseur](./Rôdeur.md#PROIEDUCHASSEUR), sang orque}
-{s:BDTexte|**Équipement de combat** *[flèches](./Flèches (arme).md) [tueuse](./tueuse (propriété).md) d'extérieurs Bons +1* (10), *[anneau de feuille morte](./Anneau de feuille morte.md)*, *[baguette](./Baguettes magiques.md) de [soins légers](./Soins légers.md)* (50 charges), *[potions](./Potions magiques.md) de [restauration](./Restauration.md)* (2), *[potions](./Potions magiques.md) de [soins importants](./Soins importants.md)* (2), *[potions](./Potions magiques.md) de [vol](./sort Vol.md)* (2) ; **Équipement divers** *[armure de cuir cloutée](./armure de cuir cloutée (armure).md) +3*, [arc long composite](./arc long composite (arme).md) [de maître](./arme de maître.md) (+6 For) avec 10 [flèches](./Flèches (arme).md), *[hache double orque](./hache double orque (arme).md) [tueuse](./tueuse (propriété).md) d'extérieurs Bons +1/+1*, *[anneau de protection +1](./Anneau de protection.md)*, *[cape de résistance +3](./Cape de résistance.md)*, *[ceinturon de puissance de géant +2](./Ceinturon de puissance de géant.md)*, 895 po}
+{s:BDTexte|**Particularités** armes familières, [[Rôdeur#CAMOUFLAGE|camouflage]], [[Rôdeur#DEPLACEMENTFACILITE|déplacement facilité]], [[Rôdeur#EMPATHIESAUVAGE|empathie sauvage +14]], [[Rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]] (montagnes +2, Paradis +6, urbain +2), [[Rôdeur#PACTEDUCHASSEUR|pacte du chasseur]] (compagnons), [[Rôdeur#PISTAGE|pistage +7]], [[Rôdeur#PISTAGERAPIDE|pistage rapide]], [[Rôdeur#PROIEDUCHASSEUR|proie du chasseur]], sang orque}
+{s:BDTexte|**Équipement de combat** *[[Flèches (arme)|flèches]] [[tueuse (propriété)|tueuse]] d'extérieurs Bons +1* (10), *[[anneau de feuille morte]]*, *[[Baguettes magiques|baguette]] de [[soins légers]]* (50 charges), *[[Potions magiques|potions]] de [[restauration]]* (2), *[[Potions magiques|potions]] de [[soins importants]]* (2), *[[Potions magiques|potions]] de [[sort Vol|vol]]* (2) ; **Équipement divers** *[[armure de cuir cloutée (armure)|armure de cuir cloutée]] +3*, [[arc long composite (arme)|arc long composite]] [[arme de maître|de maître]] (+6 For) avec 10 [[Flèches (arme)|flèches]], *[[hache double orque (arme)|hache double orque]] [[tueuse (propriété)|tueuse]] d'extérieurs Bons +1/+1*, *[[anneau de protection|anneau de protection +1]]*, *[[cape de résistance|cape de résistance +3]]*, *[[ceinturon de puissance de géant|ceinturon de puissance de géant +2]]*, 895 po}
 </div>
 </td><td><div>Le destructeur d’anges dénonce les faux dieux et leurs messagers.
 

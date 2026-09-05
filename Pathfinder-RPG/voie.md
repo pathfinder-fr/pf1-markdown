@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Création Personnage Mythique#LESVOIESMYTHIQUES
 ---
 
->>> [Création Personnage Mythique#LESVOIESMYTHIQUES](./Création Personnage Mythique.md#LESVOIESMYTHIQUES)
+>>> [[Création Personnage Mythique#LESVOIESMYTHIQUES]]

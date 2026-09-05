@@ -13,13 +13,13 @@ Categories:
 
 *Une simple malédiction rend le rival du personnage moins effrayant au cours du combat.*
 
-**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+**Catégorie.** [[dons#DONMALEFICESANGLANT|maléfice sanglant]]
 
-**Conditions.** [Int](./Int.md) 13, [BBA](./BBA.md) +6, 1 rang en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md)
+**Conditions.** [[Int]] 13, [[BBA]] +6, 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]
 
-**Avantage.** Par une [action simple](./Action simple.md), le personnage peut maudire un adversaire à qui il a infligé des dégâts dans la minute pour qu’il soit moins précis. La cible doit réussir un test de [Vigueur](./Vigueur.md) ou elle échoue automatiquement à confirmer ses coups critiques. Cet effet dure 1 [round](./round.md).
+**Avantage.** Par une [[action simple]], le personnage peut maudire un adversaire à qui il a infligé des dégâts dans la minute pour qu’il soit moins précis. La cible doit réussir un test de [[Vigueur]] ou elle échoue automatiquement à confirmer ses coups critiques. Cet effet dure 1 [[round]].
 
-**Spécial.** Si un [chaman](./Chaman.md) ou une [sorcière](./Sorcière.md) utilise ce maléfice sanglant, sa cible est incapable d’infliger des dégâts de précision ou des attaques sournoises pendant la durée du maléfice.
+**Spécial.** Si un [[chaman]] ou une [[sorcière]] utilise ce maléfice sanglant, sa cible est incapable d’infliger des dégâts de précision ou des attaques sournoises pendant la durée du maléfice.
 
 (((Blunt blade (blood Hex)
 

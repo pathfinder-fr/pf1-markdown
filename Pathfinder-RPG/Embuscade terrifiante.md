@@ -13,11 +13,11 @@ Categories:
 
 *Vos ennemis s'enfuient lorsque vous apparaissez soudainement.*
 
-**Catégorie** [combat](./Dons.md#DONCOMBAT)
+**Catégorie** [[dons#DONCOMBAT|combat]]
 
-**Condition** [Embuscade effrayante](./Embuscade effrayante.md), 5 rangs en [Intimidation](./Intimidation.md)
+**Condition** [[Embuscade effrayante]], 5 rangs en [[Intimidation]]
 
-**Avantage** Lorsque le personnage utilise l'[Intimidation](./Intimidation.md) pour démoraliser un adversaire pendant le round de surprise, s'il dépasse de 10 ou plus le [DD](./DD.md), il peut [effrayer](./Effrayé.md) la cible pendant 1 [round](./round.md) au lieu de la [secouer](./Secoué.md) normalement.
+**Avantage** Lorsque le personnage utilise l'[[Intimidation]] pour démoraliser un adversaire pendant le round de surprise, s'il dépasse de 10 ou plus le [[DD]], il peut [[effrayé|effrayer]] la cible pendant 1 [[round]] au lieu de la [[secoué|secouer]] normalement.
 
 (((Terrifying Assault (Combat)
 

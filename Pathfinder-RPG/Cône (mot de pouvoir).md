@@ -13,8 +13,8 @@ Categories:
 
 **Portée ** 3 mètres (2 {s:c})
 
-Un sort de mots incluant ce [mot cible](./Mots cibles.md) affecte tout ce qui se trouve dans la zone d’effet d’une explosion formant un cône.
+Un sort de mots incluant ce [[mots cibles|mot cible]] affecte tout ce qui se trouve dans la zone d’effet d’une explosion formant un cône.
 
-**Augmentation.** La portée passe à 6 mètres (4 {s:c}). Augmenter ce [mot cible](./Mots cibles.md) améliore son niveau de 2.
+**Augmentation.** La portée passe à 6 mètres (4 {s:c}). Augmenter ce [[mots cibles|mot cible]] améliore son niveau de 2.
 
-**Augmentation.** La portée passe à 12 mètres (8 {s:c}). Augmenter ce [mot cible](./Mots cibles.md) améliore son niveau de 4.
+**Augmentation.** La portée passe à 12 mètres (8 {s:c}). Augmenter ce [[mots cibles|mot cible]] améliore son niveau de 4.

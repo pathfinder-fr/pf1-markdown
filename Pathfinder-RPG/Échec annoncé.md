@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Divination](./Divination.md) <nowiki>[</nowiki>[malédiction](./Registre.md), [mental](./Registre.md), [peur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8, [Occ](./Occultiste.md) 6, [Psy](./Psychiste.md) 8, [Sor](./Sorcière.md) 8  
+**École** [[Divination]] <nowiki>[</nowiki>[[registre|malédiction]], [[registre|mental]], [[registre|peur]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature  
 
-**Durée** [permanent](./Présentation des sorts.md#DUREE) ou 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** [[Présentation des sorts#DUREE|permanent]] ou 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partielle](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] ; **Résistance à la magie** oui
 
-Le personnage flagelle le corps et l'esprit de sa cible en lui faisant ressentir l'angoisse de l'échec et les souffrances de toutes les défaites à venir, ce qui la rend définitivement [secouée](./Secoué.md) et [fiévreuse](./Fiévreux.md). Un jet de [volonté](./Volonté.md) réussi réduit la durée à 1 round par [niveau](./niveau.md). Si la cible est un lanceur de sort, il reçoit une [plaie mineure](./Description des plaies magiques.md) aléatoire en cas de jet raté.
+Le personnage flagelle le corps et l'esprit de sa cible en lui faisant ressentir l'angoisse de l'échec et les souffrances de toutes les défaites à venir, ce qui la rend définitivement [[secoué|secouée]] et [[fiévreux|fiévreuse]]. Un jet de [[volonté]] réussi réduit la durée à 1 round par [[niveau]]. Si la cible est un lanceur de sort, il reçoit une [[Description des plaies magiques|plaie mineure]] aléatoire en cas de jet raté.

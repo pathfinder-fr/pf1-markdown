@@ -8,10 +8,10 @@ Categories:
 - Ville
 ---
 
-Kalabuto est une ville située dans l'est du [Sargava](./Sargava.md).
+Kalabuto est une ville située dans l'est du [[Sargava]].
 
-Si sa population est à très forte majorité mwangi, les dirigeants de la ville sont eux d'origine chélaxienne et continuent à agir sur le mode colonialiste. Ceci ne va pas sans heurts et la population, aidée en cela par ses frères de [Mzali](./Mzali.md), au [Mwangi](./Mwangi.md), a tenté plusieurs fois de se révolter.
+Si sa population est à très forte majorité mwangi, les dirigeants de la ville sont eux d'origine chélaxienne et continuent à agir sur le mode colonialiste. Ceci ne va pas sans heurts et la population, aidée en cela par ses frères de [[Mzali]], au [[Mwangi]], a tenté plusieurs fois de se révolter.
 
-Ayant subi trois pillages de la part des mwangi venus de [Mzali](./Mzali.md) ces dernières années, les observateurs pensent que la ville va rapidement tomber aux mains de la population locale. On ne saurait prédire ce qu'il adviendra alors des habitants d'origine chélaxienne.
+Ayant subi trois pillages de la part des mwangi venus de [[Mzali]] ces dernières années, les observateurs pensent que la ville va rapidement tomber aux mains de la population locale. On ne saurait prédire ce qu'il adviendra alors des habitants d'origine chélaxienne.
 
-On notera aussi que toute personne portant les traces de l'[Adhésif](./Sargava.md#ADHESIF) se verra interdire l'accès à la ville par les autorités.
+On notera aussi que toute personne portant les traces de l'[[Sargava#ADHESIF|Adhésif]] se verra interdire l'accès à la ville par les autorités.

@@ -10,10 +10,10 @@ Categories:
 
 {s:APG}*Le personnage a un destin important : tout semble lui réussir, même les choses les plus difficiles.*
 
-**Catégorie.** [héroïque](./Dons.md#HEROIQUE)
+**Catégorie.** [[Dons#HEROIQUE|héroïque]]
 
-**Conditions.** [Bonne étoile des héros](./Bonne étoile des héros.md)
+**Conditions.** [[Bonne étoile des héros]]
 
-**Avantage.** Chaque fois que le personnage gagne un niveau, il obtient 2 [points héroïques](./Points héroïques.md) au lieu d’un seul.
+**Avantage.** Chaque fois que le personnage gagne un niveau, il obtient 2 [[points héroïques]] au lieu d’un seul.
 
-**Normal.** Chaque fois que le personnage gagne un niveau, il obtient 1 [point héroïque](./Points héroïques.md).
+**Normal.** Chaque fois que le personnage gagne un niveau, il obtient 1 [[points héroïques|point héroïque]].

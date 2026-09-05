@@ -9,4 +9,4 @@ Categories:
 
 Le royaume kellide de Sarkoris était une terre sauvage occupée par des guerriers tribaux dont le corps était peint et par des sorcières.
 
-Malheureusement, les frontières entre les différentes réalités s'amincirent, permettant à des hordes de démons issus des Abysses de s'y déverser par la [Plaie du Monde](./Plaie du monde.md). A partir de ce moment-là, les habitants du royaume de Sarkoris furent massacrés ou s'enfuirent devant l'expansion de la [Plaie du Monde](./Plaie du monde.md).
+Malheureusement, les frontières entre les différentes réalités s'amincirent, permettant à des hordes de démons issus des Abysses de s'y déverser par la [[Plaie du Monde]]. A partir de ce moment-là, les habitants du royaume de Sarkoris furent massacrés ou s'enfuirent devant l'expansion de la [[Plaie du Monde]].

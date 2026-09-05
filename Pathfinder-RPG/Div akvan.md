@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Akvan
 ---
 
->>> [Akvan](./Akvan.md)
+>>> [[Akvan]]

@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Casque de téléportation|}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 9 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 73 500 po ; **Poids** 1,5 kg
+**Aura** [[Invocation]] modérée ; **NLS** 9 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 73 500 po ; **Poids** 1,5 kg
 (((Description)))
-Tout personnage portant ce casque peut se téléporter jusqu’à trois fois par jour, comme s’il lançait à chaque fois le sort *[téléportation](./téléportation.md)*.
+Tout personnage portant ce casque peut se téléporter jusqu’à trois fois par jour, comme s’il lançait à chaque fois le sort *[[téléportation]]*.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[téléportation](./téléportation.md)* ; **Coût** 36 750 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[téléportation]]* ; **Coût** 36 750 po
 </div>

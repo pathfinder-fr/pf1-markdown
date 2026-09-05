@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Feu
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Feu](./Descriptions individuelles des propriétés spéciales des armes.md#Feu)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Feu]]

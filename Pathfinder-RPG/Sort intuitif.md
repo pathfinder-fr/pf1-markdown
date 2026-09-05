@@ -7,6 +7,6 @@ LastModified: 2017-12-14 20:31
 {s:AO}''Le personnage n’a pas besoin d’utiliser de composantes de
 pensée s’il se repose sur son instinct.''
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[Dons#DONMETAMAGIE|métamagie]]
 
-**Avantage.** Un sort intuitif se lance sans [composantes intellectuelles](./La magie psychique.md). Ce don n’affecte pas les sorts dépourvus de ce type de composantes. Un sort intuitif utilise un emplacement de sort d’un niveau de plus que le niveau normal du sort.
+**Avantage.** Un sort intuitif se lance sans [[la magie psychique|composantes intellectuelles]]. Ce don n’affecte pas les sorts dépourvus de ce type de composantes. Un sort intuitif utilise un emplacement de sort d’un niveau de plus que le niveau normal du sort.

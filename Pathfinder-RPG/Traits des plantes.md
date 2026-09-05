@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Traits des plantes (capacité)
 ---
 
->>> [Traits des plantes (capacité)](./Traits des plantes (capacité).md)
+>>> [[Traits des plantes (capacité)]]

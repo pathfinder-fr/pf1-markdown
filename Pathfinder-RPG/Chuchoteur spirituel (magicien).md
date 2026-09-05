@@ -13,10 +13,10 @@ Categories:
 au lieu de les apaiser pour acquérir et exploiter leurs connaissances magiques.''
 
 #### Pacte magique (Ext)
-Quand un chuchoteur spirituel choisit son [pacte magique](./pacte magique.md), il doit sélectionner celui du familier et celui-ci reçoit le pouvoir d’esprit animal de l’esprit choisi (voir lien spirituel ci-dessous). Le chuchoteur spirituel n’a pas besoin de grimoire ; à la place, il stocke et prépare ses sorts en communiant avec le familier, comme décrit dans l’aptitude de classe [familier](./Sorcière.md#FAMILIER) de la [sorcière](./Sorcière.md). Cette aptitude modifie le pacte magique et remplace l’aptitude de classe grimoire.
+Quand un chuchoteur spirituel choisit son [[pacte magique]], il doit sélectionner celui du familier et celui-ci reçoit le pouvoir d’esprit animal de l’esprit choisi (voir lien spirituel ci-dessous). Le chuchoteur spirituel n’a pas besoin de grimoire ; à la place, il stocke et prépare ses sorts en communiant avec le familier, comme décrit dans l’aptitude de classe [[Sorcière#FAMILIER|familier]] de la [[sorcière]]. Cette aptitude modifie le pacte magique et remplace l’aptitude de classe grimoire.
 
 #### Lien spirituel (Sur)
-Au niveau 1, un chuchoteur spirituel noue un lien mystique avec un esprit. Il choisit un esprit parmi ceux de la [liste des esprits](./Esprits (chaman).md) du [chaman](./Chaman.md).
+Au niveau 1, un chuchoteur spirituel noue un lien mystique avec un esprit. Il choisit un esprit parmi ceux de la [[Esprits (chaman)|liste des esprits]] du [[chaman]].
 
 Au niveau 1, il reçoit le pouvoir conféré par cet esprit.
 
@@ -24,7 +24,7 @@ Au niveau 8, il reçoit le pouvoir supérieur conféré par cet esprit.
 
 Au niveau 20, il reçoit le pouvoir de manifestation conféré par l’esprit.
 
-Il remplace le niveau de [chaman](./Chaman.md) par son niveau de magicien pour déterminer les effets et le [DD](./DD.md) des pouvoirs conférés par l’esprit. De plus, il applique son modificateur d’[Intelligence](./Intelligence.md) à la place du modificateur de Sagesse dans le cadre de ces pouvoirs. Il ne gagne aucun maléfice, sort de magie des esprits ou pouvoir d’esprit suprême normalement conférés au chaman par ces esprits. Cette aptitude remplace école de magie et le don supplémentaire obtenu au niveau 20.
+Il remplace le niveau de [[chaman]] par son niveau de magicien pour déterminer les effets et le [[DD]] des pouvoirs conférés par l’esprit. De plus, il applique son modificateur d’[[Intelligence]] à la place du modificateur de Sagesse dans le cadre de ces pouvoirs. Il ne gagne aucun maléfice, sort de magie des esprits ou pouvoir d’esprit suprême normalement conférés au chaman par ces esprits. Cette aptitude remplace école de magie et le don supplémentaire obtenu au niveau 20.
 
 #### Maléfice de l’esprit
-Au niveau 5, un chuchoteur spirituel peut choisir un [maléfice](./maléfice.md) conféré par son esprit parmi ceux de la liste correspondante. Il remplace le niveau de [chaman](./Chaman.md) par son niveau de [magicien](./Magicien.md) pour déterminer les effets et le [DD](./DD.md) de ce [maléfice](./maléfice.md). De plus, il applique son modificateur d’Intelligence à la place du modificateur de Sagesse dans le cadre de ces maléfices. Aux niveaux 10 et 15, il peut choisir un autre maléfice parmi ceux conférés par son esprit. Chaque maléfice sélectionné de cette façon remplace le don supplémentaire obtenu au même niveau. Cette aptitude modifie les dons supplémentaires.
+Au niveau 5, un chuchoteur spirituel peut choisir un [[maléfice]] conféré par son esprit parmi ceux de la liste correspondante. Il remplace le niveau de [[chaman]] par son niveau de [[magicien]] pour déterminer les effets et le [[DD]] de ce [[maléfice]]. De plus, il applique son modificateur d’Intelligence à la place du modificateur de Sagesse dans le cadre de ces maléfices. Aux niveaux 10 et 15, il peut choisir un autre maléfice parmi ceux conférés par son esprit. Chaque maléfice sélectionné de cette façon remplace le don supplémentaire obtenu au même niveau. Cette aptitude modifie les dons supplémentaires.

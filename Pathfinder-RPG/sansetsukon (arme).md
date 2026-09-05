@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 8 po ; **Poids** 1,5 kg ; **Groupes** [armes de moine](./groupe darmes.md#Armesdemoine), [fléaux](./groupe darmes.md#Fléaux)
-**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** C ; **Spécial** [désarmement](./Caractéristiques des armes.md#DESARMEMENT), [moine](./Caractéristiques des armes.md#MOINE), [parade](./Caractéristiques des armes.md#PARADE)
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ([orientale](./Armes orientales.md))
-; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+{s:AE}{s:UC}**Prix** 8 po ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]], [[Groupe darmes#Fléaux|fléaux]]
+**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** C ; **Spécial** [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#MOINE|moine]], [[Caractéristiques des armes#PARADE|parade]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ([[armes orientales|orientale]])
+; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
 Aussi appelée bâton en trois parties, cette arme est divisée en trois segments de 60 centimètres reliés par une petite chaîne, ce qui donne une plus grande souplesse au porteur qu’un bâton normal et lui permet de l’agiter rapidement pour créer un blocage défensif, l’enrouler autour des armes et les saisir ou pour exploiter son élan via un mouvement de tourbillon afin de porter des coups puissants.

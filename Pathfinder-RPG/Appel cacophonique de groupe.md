@@ -10,20 +10,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) ([effet mental](./effet mental.md)) ; **Niveau** [Bard](./Barde.md) 5  
+**École** [[enchantement]] ([[branche coercition|coercition]]) ([[effet mental]]) ; **Niveau** [[Barde|Bard]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un morceau de partition)  
+**Composantes** [[Composantes|V, G, M]] (un morceau de partition)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature/niveau (les cibles ne doivent pas être éloignées de plus de 9 m (6 {s:c}) les unes des autres)  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage emplit l'esprit de ses cibles d'un vacarme retentissant de sons discordants, ce qui les gêne pour se concentrer et agir. Les créatures sont [nauséeuses](./Nauséeux.md) pendant toute la durée du sort si elles ratent leur [jet de sauvegarde](./jet de sauvegarde.md).
+Le personnage emplit l'esprit de ses cibles d'un vacarme retentissant de sons discordants, ce qui les gêne pour se concentrer et agir. Les créatures sont [[nauséeux|nauséeuses]] pendant toute la durée du sort si elles ratent leur [[jet de sauvegarde]].
 
-(((Ce sort fonctionne comme *[appel cacophonique](./Appel cacophonique.md)* mais il affecte plusieurs créatures.)))
+(((Ce sort fonctionne comme *[[appel cacophonique]]* mais il affecte plusieurs créatures.)))

@@ -6,7 +6,7 @@ Categories:
 - PNJ
 ---
 
-Qu'il s'agisse d'un héros ou d'un vilain, le maréchal armé incarne fièrement la victoire de l'[Alkenastre](./../Golarion/Alkenastre.md) sur le chaos des [terres dévastées de Mana](./../Golarion/Désolation de Mana.md). Et même chez ceux qui sont des roublards et des bandits, l'honneur et la tradition liées à cette fierté exerce une certaine influence.
+Qu'il s'agisse d'un héros ou d'un vilain, le maréchal armé incarne fièrement la victoire de l'[[Golarion.Alkenastre|Alkenastre]] sur le chaos des [[Golarion.Désolation de Mana|terres dévastées de Mana]]. Et même chez ceux qui sont des roublards et des bandits, l'honneur et la tradition liées à cette fierté exerce une certaine influence.
 
 <div class="BD">
 {s:BDTitre|Maréchal armé d'Alkenastre|FP 3}

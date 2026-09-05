@@ -14,21 +14,21 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Froid}
 {s:BDTexte|*Source : Bestiaire* p.235}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 10, pris au dépourvu 17 (Dex +1, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 95 (10d8+50)}
 {s:BDTexte|**Réf** +8, **Vig** +12, **Vol** +4}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** 2 griffes, +13 (1d6+7 et [étreinte](./Étreinte.md)), morsure, +13 (1d8+7)}
+{s:BDTexte|**Corps à corps** 2 griffes, +13 (1d6+7 et [[étreinte]]), morsure, +13 (1d8+7)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 13, **Con** 21, **Int** 2, **Sag** 12, **Cha** 10}
-{s:BDTexte|**BBA** +7, **BMO** +15 (+19 [lutte](./lutte.md)), **DMD** 26 (30 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./Course.md), [Endurance](./Endurance.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +19, [Perception](./Perception.md) +12 ; **Modificateurs raciaux** [Natation](./Natation.md) +4}
+{s:BDTexte|**BBA** +7, **BMO** +15 (+19 [[lutte]]), **DMD** 26 (30 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]], [[Endurance]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Natation]] +19, [[Perception]] +12 ; **Modificateurs raciaux** [[Natation]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts froides}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
@@ -41,13 +41,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Grizzly](./Grizzly.md) || 4
+| [[Grizzly]] || 4
 |-
-| [Ours sanguinaire](./Ours sanguinaire.md) || 7
+| [[Ours sanguinaire]] || 7
 |-
-| [Ours polaire](./Ours polaire.md) || 5
+| [[Ours polaire]] || 5
 |-
-| [Ours polaire sanguinaire](./Ours polaire sanguinaire.md) || 8
+| [[Ours polaire sanguinaire]] || 8
 |}
 </div>''De la bave coule de la gueule béante de cet ours qui rugit. Quelques
 excroissances osseuses dépassent de sa fourrure hirsute.''

@@ -8,14 +8,14 @@ Categories:
 
 {s:Menupathfinderunchained}{s:PU}*Le personnage sait comment s’y prendre pour éviter de se faire repérer, ce qui lui permet de se glisser près de ses adversaires ou de frapper par surprise. Cette compétence permet à la fois de se cacher et de se déplacer silencieusement.*
 
-**Caractéristique associée :** [Dextérité](./Dextérité.md) ; **Formation nécessaire :** Non ; **Malus d'armure :** Oui
+**Caractéristique associée :** [[Dextérité]] ; **Formation nécessaire :** Non ; **Malus d'armure :** Oui
 
-**Fonctions.** [Éviter de se faire repérer](./Compétences fusionnées, Discrétion.md#EVITERDESEFAIREREPERER).
+**Fonctions.** [[Compétences fusionnées, Discrétion#EVITERDESEFAIREREPERER|Éviter de se faire repérer]].
 
-**Compétence de base.** [Discrétion](./Discrétion.md).
+**Compétence de base.** [[Discrétion]].
 
 {s:Reference|EVITERDESEFAIREREPERER}
 ### Éviter de se faire repérer
-Cette fonction s’utilise comme la compétence de base de [Discrétion](./Discrétion.md).
+Cette fonction s’utilise comme la compétence de base de [[Discrétion]].
 
-**Action.** Aucune. Cependant, pour se cacher après avoir effectué une [attaque à distance](./Attaque à distance.md), il faut une [action de mouvement](./Action de mouvement.md).
+**Action.** Aucune. Cependant, pour se cacher après avoir effectué une [[attaque à distance]], il faut une [[action de mouvement]].

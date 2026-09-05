@@ -6,13 +6,13 @@ Categories:
 - Religion
 ---
 
-La Déesse-Enfant est l'objet de la vénération du [Culte de la Déesse-Enfant](./Culte de la Déesse-Enfant.md) établi dans le district d'Anker-Te à [Kaer-Maga](./Kaer-Maga.md) en [Varisie](./Varisie.md).
+La Déesse-Enfant est l'objet de la vénération du [[Culte de la Déesse-Enfant]] établi dans le district d'Anker-Te à [[Kaer-Maga]] en [[Varisie]].
 
-Personne ne sait si la Déesse-Enfant est vraiment une déesse, un canular pour générer des fonds ou quelque chose de plus anodin. La Déesse-Enfant (ou les Déesses-Enfants, leurs nombre exact étant inconnu) réside dans le Palais de la Déesse-Enfant. Il s'agit d'une pyramide tronquée à son sommet ne possédant qu'une seule porte massive. Depuis ce lieu, des porteurs déplacent des palanquins aveugles dans tout le district. Chaque palanquin est une boîte de métal d'environ 1,8 m de long sur 1,2 m de hauteur et les porteurs sont généralement des servant sombis ou des esclaves masculins à moitié nus et à la peau huilée. D'après les robes qu'ils portent, le culte semble être originaire du lointain [Vudra](./Vudra.md). Les adeptes du culte s'approchent de la procession et jettent des pièces dans des sacs attachés aux palanquins.
+Personne ne sait si la Déesse-Enfant est vraiment une déesse, un canular pour générer des fonds ou quelque chose de plus anodin. La Déesse-Enfant (ou les Déesses-Enfants, leurs nombre exact étant inconnu) réside dans le Palais de la Déesse-Enfant. Il s'agit d'une pyramide tronquée à son sommet ne possédant qu'une seule porte massive. Depuis ce lieu, des porteurs déplacent des palanquins aveugles dans tout le district. Chaque palanquin est une boîte de métal d'environ 1,8 m de long sur 1,2 m de hauteur et les porteurs sont généralement des servant sombis ou des esclaves masculins à moitié nus et à la peau huilée. D'après les robes qu'ils portent, le culte semble être originaire du lointain [[Vudra]]. Les adeptes du culte s'approchent de la procession et jettent des pièces dans des sacs attachés aux palanquins.
 
-A [Kaer-Maga](./Kaer-Maga.md), le seul endroit connu de la région de la mer Intérieur où ce culte est actif, les fidèles sont dirigés par la Haute Prêtresse Shamalay Kasan, un Vudrani. Elle est l'une des personnalités les plus puissantes du district d'Anker-Te, si ce n'est de la ville toute entière.
+A [[Kaer-Maga]], le seul endroit connu de la région de la mer Intérieur où ce culte est actif, les fidèles sont dirigés par la Haute Prêtresse Shamalay Kasan, un Vudrani. Elle est l'une des personnalités les plus puissantes du district d'Anker-Te, si ce n'est de la ville toute entière.
 
 {s:VoirAussiAvant}
 Vous trouverez plus d'informations sur la Déesse-Enfant dans le supplément
-- [Pathfinder Chronicles: City of Strangers](./Publications-CITYOFSTRANGERS.md)
+- [[Publications.CITYOFSTRANGERS|Pathfinder Chronicles: City of Strangers]]
 {s:VoirAussiAprès}

@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 12 po ; **Poids** 7 kg ; **Groupes** [armes de moine](./groupe darmes.md#Armesdemoine)
-**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** ×3 ; **Portée** — ; **Type** P ; **Spécial** [allonge](./Caractéristiques des armes.md#ALLONGE)
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ([orientale](./Armes orientales.md))
-; **Maniement** [arme de corps à corps à deux mains](./arme à deux mains.md)</span>
+{s:AE}{s:UC}**Prix** 12 po ; **Poids** 7 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]]
+**Dégâts** 1d8 (P), 1d10 (M) ; **Critique** ×3 ; **Portée** — ; **Type** P ; **Spécial** [[Caractéristiques des armes#ALLONGE|allonge]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ([[armes orientales|orientale]])
+; **Maniement** [[arme à deux mains|arme de corps à corps à deux mains]]</span>
 ---
 L’extrémité de ce manche de 1,50 mètre est surmontée de trois longues lames incurvées vers l’extérieur et sculptées en forme de fleur de lotus ouverte. Sa tête d’une largeur anormale est conçue pour porter des coups puissants et causer de multiples blessures béantes qui se prolongent à l’opposée les unes des autres.

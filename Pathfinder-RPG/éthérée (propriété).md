@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Éthérée
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Éthérée](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Éthérée)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Éthérée]]

@@ -10,7 +10,7 @@ Categories:
 
 {s:Menubénédictions}{s:MCA}
 #### Esprit guerrier *(mineur)*
-Au niveau 1, le prêtre combattant peut toucher un allié pour lui conférer un avantage tactique pendant 1 minute. À chaque round, au début de son tour, il choisit l’un des bonus suivants : +3 mètres à la [vitesse de déplacement](./VD.md) de base, bonus d’esquive de +1 à la [CA](./CA.md), bonus d’intuition de +1 aux [jets d’attaque](./jet dattaque.md) ou bonus de chance de +1 aux [jets de sauvegarde](./JDS.md). Chaque bonus s’applique pendant 1 round.
+Au niveau 1, le prêtre combattant peut toucher un allié pour lui conférer un avantage tactique pendant 1 minute. À chaque round, au début de son tour, il choisit l’un des bonus suivants : +3 mètres à la [[VD|vitesse de déplacement]] de base, bonus d’esquive de +1 à la [[CA]], bonus d’intuition de +1 aux [[jet dattaque|jets d’attaque]] ou bonus de chance de +1 aux [[jds|jets de sauvegarde]]. Chaque bonus s’applique pendant 1 round.
 
 #### Soif de batailles *(majeur)*
-Au niveau 10, le prêtre combattant peut toucher un allié pour lui transmettre sa soif de combat. Cet allié effectue toutes ses attaques de corps à corps comme si son arme disposait de la propriété [vicieuse](./vicieuse (propriété).md) mais les dégâts qu’il subit à cause de cette propriété spéciale sont non-létaux. De plus, cet allié reçoit un bonus d’intuition de +4 aux jets d’attaque visant à confirmer les [coups critiques](./coup critique.md). Ces avantages durent 1 minute.
+Au niveau 10, le prêtre combattant peut toucher un allié pour lui transmettre sa soif de combat. Cet allié effectue toutes ses attaques de corps à corps comme si son arme disposait de la propriété [[vicieuse (propriété)|vicieuse]] mais les dégâts qu’il subit à cause de cette propriété spéciale sont non-létaux. De plus, cet allié reçoit un bonus d’intuition de +4 aux jets d’attaque visant à confirmer les [[coup critique|coups critiques]]. Ces avantages durent 1 minute.

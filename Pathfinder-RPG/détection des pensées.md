@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Détection de pensées
 ---
 
->>> [Pathfinder-RPG.Détection de pensées](./Détection de pensées.md)
+>>> [[Pathfinder-RPG.Détection de pensées]]

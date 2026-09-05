@@ -6,18 +6,18 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Cartes merveilleuses du tourment.md).***
+***Voir les [[Pathfinder-RPG.Cartes merveilleuses du tourment|statistiques de cet artefact]].***
 
 Chacune des cinquante-quatre cartes de ce jeu usé de diseuse de bonne aventure est illustrée d’une image onirique ou troublante et marquée de l’une des six couleurs : couronne, marteau, clé, bouclier, étoile ou livre.
 
 #### Effets du destin
-Les cinquante-quatre *cartes merveilleuses du destin* ont des pouvoirs très divers. Si beaucoup d’effets sont instantanés et permanents, certains peuvent être retardés. Sauf précision contraire, les effets causés par le jeu sont permanents et ne peuvent être défaits que grâce à un sort de *[miracle](./../Pathfinder-RPG/Miracle.md)* ou de *[souhait](./../Pathfinder-RPG/Souhait.md)*, aux pouvoirs d’un autre [artefact](./../Pathfinder-RPG/Artefacts.md) ou à l’intervention d’un dieu. Nombre d’effets du jeu de cartes peuvent altérer des éléments de l’univers du jeu et devraient donc être intégrés comme le MJ l’entend, tout en tenant compte de l’alignement et des intentions de chaque carte.
+Les cinquante-quatre *cartes merveilleuses du destin* ont des pouvoirs très divers. Si beaucoup d’effets sont instantanés et permanents, certains peuvent être retardés. Sauf précision contraire, les effets causés par le jeu sont permanents et ne peuvent être défaits que grâce à un sort de *[[Pathfinder-RPG.miracle|miracle]]* ou de *[[Pathfinder-RPG.souhait|souhait]]*, aux pouvoirs d’un autre [[Pathfinder-RPG.artefacts|artefact]] ou à l’intervention d’un dieu. Nombre d’effets du jeu de cartes peuvent altérer des éléments de l’univers du jeu et devraient donc être intégrés comme le MJ l’entend, tout en tenant compte de l’alignement et des intentions de chaque carte.
 
 ##### L’Aubergiste
 Le MJ choisit l’un des ennemis du personnage. Cet ennemi connaît un revirement complet et soutient maintenant le personnage.
 
 ##### L’Avalanche
-Le personnage devient l’épicentre d’un tremblement de terre comme s’il était la cible d’un sort de *[tremblement de terre](./../Pathfinder-RPG/Tremblement de terre.md)*. En plus de devoir faire un [jet de sauvegarde](./../Pathfinder-RPG/JDS.md) contre cet effet, il doit réussir un jet de [Volonté](./../Pathfinder-RPG/Volonté.md) supplémentaire ou être affecté par le sort *[emprisonnement](./../Pathfinder-RPG/Emprisonnement.md)*.
+Le personnage devient l’épicentre d’un tremblement de terre comme s’il était la cible d’un sort de *[[Pathfinder-RPG.tremblement de terre|tremblement de terre]]*. En plus de devoir faire un [[Pathfinder-RPG.jds|jet de sauvegarde]] contre cet effet, il doit réussir un jet de [[Pathfinder-RPG.Volonté|Volonté]] supplémentaire ou être affecté par le sort *[[Pathfinder-RPG.emprisonnement|emprisonnement]]*.
 
 ##### Le Carnaval
 Quand un joueur tire la carte du Carnaval, il la met de côté et le MJ tire neuf cartes supplémentaires du jeu. Il les dépose face découverte devant le personnage puis les retourne et les mélange. Le joueur tire alors une carte parmi les neuf, subissant ses effets normalement.
@@ -26,10 +26,10 @@ Quand un joueur tire la carte du Carnaval, il la met de côté et le MJ tire neu
 Le personnage doit choisir entre le plus précieux de ses objets et un allié majeur choisi par le MJ. Celui qu’il ne choisit pas est détruit ou tué et ne peut être restauré par aucun moyen mortel. Le personnage est averti des implications de ce choix lorsqu’il tire la carte.
 
 ##### La Courtisane
-L’objet préféré du personnage (de préférence une [arme magique](./../Pathfinder-RPG/Armes magiques.md)) devient intelligent. Reportez-vous aux règles des [objets intelligents](./../Pathfinder-RPG/Objets intelligents.md) pour générer aléatoirement les capacités de l’objet. Si le personnage n’a pas d’objet, un objet intelligent ne tarde pas à apparaître en sa possession.
+L’objet préféré du personnage (de préférence une [[Pathfinder-RPG.armes magiques|arme magique]]) devient intelligent. Reportez-vous aux règles des [[Pathfinder-RPG.objets intelligents|objets intelligents]] pour générer aléatoirement les capacités de l’objet. Si le personnage n’a pas d’objet, un objet intelligent ne tarde pas à apparaître en sa possession.
 
 ##### Le Cyclone
-Un [seigneur élémentaire de l’Air](./../Pathfinder-RPG/Élémentaire de lAir.md#_5) apparaît et le personnage doit le combattre seul. S’il ne peut vaincre l’élémentaire en 1d6+1 [rounds](./../Pathfinder-RPG/round.md), il est transporté sur le Plan de l’air.
+Un [[Pathfinder-RPG.élémentaire de lair#_5|seigneur élémentaire de l’Air]] apparaît et le personnage doit le combattre seul. S’il ne peut vaincre l’élémentaire en 1d6+1 [[Pathfinder-RPG.round|rounds]], il est transporté sur le Plan de l’air.
 
 ##### La Danse
 À partir de ce moment, quand le personnage fait un jet d’initiative, il lance deux fois les dés et choisit le résultat qu’il veut.
@@ -41,22 +41,22 @@ Cette carte donne au personnage une capacité à usage unique : se rendre en n�
 Du crépuscule à l’aube, le personnage est considéré comme étant d’un niveau inférieur à la normale. S’il a plusieurs classes, il doit décider au moment où il tire cette carte à quelle classe il l’affecte.
 
 ##### L’Égaré
-Le personnage ne peut pas gagner de niveau dans la classe où il a actuellement le plus de niveaux. Cet effet peut être contourné si le personnage est tué puis ramené à la vie, mais la prochaine fois qu’il sera ramené à la vie, il sera affecté comme s’il était la cible d’un sort de *[réincarnation](./../Pathfinder-RPG/Réincarnation.md)* quel que soit le sort qui aura été lancé sur lui.
+Le personnage ne peut pas gagner de niveau dans la classe où il a actuellement le plus de niveaux. Cet effet peut être contourné si le personnage est tué puis ramené à la vie, mais la prochaine fois qu’il sera ramené à la vie, il sera affecté comme s’il était la cible d’un sort de *[[Pathfinder-RPG.réincarnation|réincarnation]]* quel que soit le sort qui aura été lancé sur lui.
 
 ##### La Farce
 Lorsqu’il tire cette carte, le personnage désigne l’un de ses alliés. Le MJ tire trois nouvelles cartes face visible (il appartient au MJ de décider d’expliquer l’effet des cartes ou non). L’allié du personnage doit choisir l’une de ces trois cartes et profite aussitôt de ses effets. Le personnage choisit alors l’une des deux cartes restantes et profite de ses effets. La dernière carte est jetée.
 
 ##### Le Fiélon
-Un puissant [extérieur](./../Pathfinder-RPG/type Extérieur.md) Mauvais remarque le personnage et met en place un plan pour le détruire.
+Un puissant [[Pathfinder-RPG.type extérieur|extérieur]] Mauvais remarque le personnage et met en place un plan pour le détruire.
 
 ##### La Forge
-Le personnage doit choisir une arme ou une armure en sa possession pour qu’elle soit reforgée en une autre arme ou armure d’une valeur en po égale ou inférieure. Par exemple, si le personnage devait choisir de faire reforger son [épée longue](./../Pathfinder-RPG/épée longue (arme).md) +3 (d’une valeur de 18 315 po), il pourrait la faire transformer en une centaine d’objets au choix comme un [cimeterre](./../Pathfinder-RPG/cimeterre (arme).md) *[axiomatique](./../Pathfinder-RPG/axiomatique (propriété).md)* +1 (lui aussi d’une valeur de 18 315 po) ou en un [harnois](./../Pathfinder-RPG/harnois (armure).md) de déplacement furtif +3 (d’une valeur de 12 300 po). Toute valeur en po non-dépensée est perdue.
+Le personnage doit choisir une arme ou une armure en sa possession pour qu’elle soit reforgée en une autre arme ou armure d’une valeur en po égale ou inférieure. Par exemple, si le personnage devait choisir de faire reforger son [[Pathfinder-RPG.épée longue (arme)|épée longue]] +3 (d’une valeur de 18 315 po), il pourrait la faire transformer en une centaine d’objets au choix comme un [[Pathfinder-RPG.cimeterre (arme)|cimeterre]] *[[Pathfinder-RPG.axiomatique (propriété)|axiomatique]]* +1 (lui aussi d’une valeur de 18 315 po) ou en un [[Pathfinder-RPG.harnois (armure)|harnois]] de déplacement furtif +3 (d’une valeur de 12 300 po). Toute valeur en po non-dépensée est perdue.
 
 ##### Le Fort
-Le personnage gagne un demi-plan personnel comme s’il avait lancé un sort permanent de *[création de demi-plan](./../Pathfinder-RPG/Création de demi-plan.md)*.
+Le personnage gagne un demi-plan personnel comme s’il avait lancé un sort permanent de *[[Pathfinder-RPG.création de demi-plan|création de demi-plan]]*.
 
 ##### Le Grand ciel
-Une fois par jour, le personnage peut rajouter +10 à son [BMO](./../Pathfinder-RPG/BMO.md) ou à son [DMD](./../Pathfinder-RPG/DMD.md) pendant 1 [round](./../Pathfinder-RPG/round.md). Quand il fait cela, une pièce de métal très proche de lui se brise.
+Une fois par jour, le personnage peut rajouter +10 à son [[Pathfinder-RPG.BMO|BMO]] ou à son [[Pathfinder-RPG.DMD|DMD]] pendant 1 [[Pathfinder-RPG.round|round]]. Quand il fait cela, une pièce de métal très proche de lui se brise.
 
 ##### Le Grillon
 Lorsqu’il tire cette carte, le personnage peut décider de tirer jusqu’à trois cartes supplémentaires. En plus des effets de ces cartes, la vitesse de base du personnage à terre augmente de +3 mètres pour chaque carte qu’il tire en plus.
@@ -68,7 +68,7 @@ Cette carte donne au personnage une capacité à usage unique : espionner une ci
 Le personnage grandit d’une catégorie de taille, bénéficiant de tous les avantages et recevant tous les malus associés à sa nouvelle taille. En revanche, son équipement ne grandit pas.
 
 ##### L’Idiot
-Les valeurs de [Charisme](./../Pathfinder-RPG/Charisme.md), d’[Intelligence](./../Pathfinder-RPG/Intelligence.md) et de [Sagesse](./../Pathfinder-RPG/Sagesse.md) du personnage sont toutes réduites de 1d4 points. Lancez le dé pour chaque valeur de caractéristique.
+Les valeurs de [[Pathfinder-RPG.Charisme|Charisme]], d’[[Pathfinder-RPG.Intelligence|Intelligence]] et de [[Pathfinder-RPG.Sagesse|Sagesse]] du personnage sont toutes réduites de 1d4 points. Lancez le dé pour chaque valeur de caractéristique.
 
 ##### L’Inquisiteur
 Cette carte donne au personnage une capacité à usage unique : forcer une autre créature à répondre à une question en toute vérité. La carte n’accorde aucune intuition spéciale au personnage ou à la créature questionnée : la créature peut donc donner une réponse fausse si elle croit qu’il s’agit de la vérité. Si la créature ignore totalement la réponse, elle en informe le personnage et cet effet est perdu. Le personnage peut utiliser l’effet de cette carte quand il le souhaite, mais une fois seulement.
@@ -80,25 +80,25 @@ Le personnage gagne un bonus de +2 à deux valeurs de caractéristique de son ch
 Le personnage subit une transformation physique qui fait de lui un membre du sexe opposé.
 
 ##### La Lanterne du démon
-Le corps du personnage se désintègre. Il ne reste de lui que ses objets et une gemme lumineuse abritant son âme. La gemme a une valeur en po égale à 2 500 × le niveau du personnage. Il faut un sort de *[résurrection](./../Pathfinder-RPG/Résurrection.md)* ou quelque chose de plus puissant pour ramener le personnage, ce qui détruit la gemme.
+Le corps du personnage se désintègre. Il ne reste de lui que ses objets et une gemme lumineuse abritant son âme. La gemme a une valeur en po égale à 2 500 × le niveau du personnage. Il faut un sort de *[[Pathfinder-RPG.résurrection|résurrection]]* ou quelque chose de plus puissant pour ramener le personnage, ce qui détruit la gemme.
 
 ##### La Licorne
 Cette carte donne au personnage une capacité à usage unique : défaire un choix passé ou une action regrettable. La trame de la réalité s’effiloche alors pour être retissée, ramenant éventuellement des créatures à la vie ou altérant le cours de l’histoire en fonction de la façon dont le personnage a agi et de la façon dont il souhaiterait changer cela. Le joueur choisit la situation dans laquelle il aurait aimé agir différemment et le MJ détermine le degré d’altération que subit la réalité. Le changement affecte principalement le personnage, n’affectant les autres que le moins possible. Le personnage peut utiliser l’effet de cette carte quand il le souhaite, mais une fois seulement.
 
 ##### La Maladie
-Le personnage est affligé d’une [lèpre](./../Pathfinder-RPG/Maladies.md#LÈPRE) incurable (ou d’une autre maladie au choix du MJ). S’il est impossible de soigner cette maladie par quelque moyen que ce soit à l’exception d’un sort de *[miracle](./../Pathfinder-RPG/Miracle.md)* ou de *[souhait](./../Pathfinder-RPG/Souhait.md)*, les effets de l’affliction peuvent être annulés grâce à un sort comme *[restauration](./../Pathfinder-RPG/Restauration.md)*.
+Le personnage est affligé d’une [[Pathfinder-RPG.Maladies#LÈPRE|lèpre]] incurable (ou d’une autre maladie au choix du MJ). S’il est impossible de soigner cette maladie par quelque moyen que ce soit à l’exception d’un sort de *[[Pathfinder-RPG.miracle|miracle]]* ou de *[[Pathfinder-RPG.souhait|souhait]]*, les effets de l’affliction peuvent être annulés grâce à un sort comme *[[Pathfinder-RPG.restauration|restauration]]*.
 
 ##### Le Marchand étranger
-La mystérieuse entité connue sous le nom du Marchand étranger apparaît et offre au personnage le trésor qu’il souhaite en échange de plusieurs années de sa vie. Si le personnage accepte, il doit choisir de vieillir d’un certain nombre de [catégories d’âge](./../Pathfinder-RPG/État civil et mensurations.md#AGE). Le personnage subit tous les malus aux caractéristiques liés à son nouvel âge mais n’en gagne aucun des avantages. Pour chaque catégorie d’âge qu’il annonce, il gagne un crédit de 20 000 po auprès du Marchand étranger, qu’il peut dépenser pour n’importe quel objet non-magique. Tous les crédits que le personnage ne dépense pas sont perdus. Une fois que le personnage a dépensé ses crédits, le Marchand étranger disparaît. Les années que celui-ci a prises au personnage ne peuvent lui être rendues en aucune manière. Le Marchand étranger ne traite pas avec les personnages qui ne peuvent pas mourir de vieillesse. Si le personnage est immortel, le Marchand étranger disparaît en laissant derrière lui une autre carte. Si le personnage décline son offre, le Marchand étranger disparaît dans un âcre nuage de fumée jaune.
+La mystérieuse entité connue sous le nom du Marchand étranger apparaît et offre au personnage le trésor qu’il souhaite en échange de plusieurs années de sa vie. Si le personnage accepte, il doit choisir de vieillir d’un certain nombre de [[Pathfinder-RPG.État civil et mensurations#AGE|catégories d’âge]]. Le personnage subit tous les malus aux caractéristiques liés à son nouvel âge mais n’en gagne aucun des avantages. Pour chaque catégorie d’âge qu’il annonce, il gagne un crédit de 20 000 po auprès du Marchand étranger, qu’il peut dépenser pour n’importe quel objet non-magique. Tous les crédits que le personnage ne dépense pas sont perdus. Une fois que le personnage a dépensé ses crédits, le Marchand étranger disparaît. Les années que celui-ci a prises au personnage ne peuvent lui être rendues en aucune manière. Le Marchand étranger ne traite pas avec les personnages qui ne peuvent pas mourir de vieillesse. Si le personnage est immortel, le Marchand étranger disparaît en laissant derrière lui une autre carte. Si le personnage décline son offre, le Marchand étranger disparaît dans un âcre nuage de fumée jaune.
 
 ##### Le Mariage
 Un séduisant génie, du sexe qui convient au personnage, apparaît et le demande en mariage. Si le personnage accepte, il doit organiser une cérémonie somptueuse avant la fin de la semaine et sera engagé à vie à cet extérieur exotique. Si le personnage décline la proposition ou rompt ses vœux, le génie a le cœur brisé et s’en retourne sur son plan d’origine, ce qui provoque la colère de la cour élémentaire à laquelle il appartient. Le type, la personnalité et les actions du génie, tout comme l’éventuel châtiment, sont définis par le MJ.
 
 ##### Le Menteur
-L’objet magique le plus puissant, le plus précieux ou le plus apprécié du personnage (au choix du MJ) est victime d’une malédiction. Lancez un dé sur la table 15-27 : [Malédictions des objets courants](./../Pathfinder-RPG/Objets maudits.md) en relançant le dé pour les résultats des objets spécifiques.
+L’objet magique le plus puissant, le plus précieux ou le plus apprécié du personnage (au choix du MJ) est victime d’une malédiction. Lancez un dé sur la table 15-27 : [[Pathfinder-RPG.objets maudits|Malédictions des objets courants]] en relançant le dé pour les résultats des objets spécifiques.
 
 ##### La Morsure du serpent
-Quiconque touche le personnage doit réussir un jet de [Vigueur](./../Pathfinder-RPG/Vigueur.md) se faire empoisonner par de l’[extrait de sanvert](./../Pathfinder-RPG/Poisons.md#Extraitdesanvert). Le [DD](./../Pathfinder-RPG/DD.md) du [jet de sauvegarde](./../Pathfinder-RPG/JDS.md) est de 10 + les dés de vie du personnage + son modificateur de [Constitution](./../Pathfinder-RPG/Constitution.md). Le poison affecte même ceux qui touchent le personnage pour lui venir en aide ou lui administrer une magie curative.
+Quiconque touche le personnage doit réussir un jet de [[Pathfinder-RPG.Vigueur|Vigueur]] se faire empoisonner par de l’[[Pathfinder-RPG.Poisons#Extraitdesanvert|extrait de sanvert]]. Le [[Pathfinder-RPG.DD|DD]] du [[Pathfinder-RPG.jds|jet de sauvegarde]] est de 10 + les dés de vie du personnage + son modificateur de [[Pathfinder-RPG.Constitution|Constitution]]. Le poison affecte même ceux qui touchent le personnage pour lui venir en aide ou lui administrer une magie curative.
 
 ##### Le Musée de cire
 Quand cette carte est tirée, 1d6 copies parfaites du personnage apparaissent dans un rayon de 32 kilomètres. Ces copies ont un alignement opposé à celui du personnage original et leurs objectifs sont également contraires.
@@ -107,61 +107,61 @@ Quand cette carte est tirée, 1d6 copies parfaites du personnage apparaissent da
 Le personnage devient immunisé contre un type d’énergie de son choix mais gagne une vulnérabilité à un autre type d’énergie au choix du MJ.
 
 ##### L’Ours
-Le personnage gagne l’archétype [lycanthrope](./../Pathfinder-RPG/Lycanthrope, archétype.md), devenant un [ours-garou](./../Pathfinder-RPG/Ours-garou.md). Il est considéré comme un lycanthrope naturel et, de ce fait, *[guérison des maladies](./../Pathfinder-RPG/Guérison des maladies.md)* et *[guérison suprême](./../Pathfinder-RPG/Guérison suprême.md)* ne fonctionnent pas contre son affliction.
+Le personnage gagne l’archétype [[Pathfinder-RPG.lycanthrope, archétype|lycanthrope]], devenant un [[Pathfinder-RPG.ours-garou|ours-garou]]. Il est considéré comme un lycanthrope naturel et, de ce fait, *[[Pathfinder-RPG.guérison des maladies|guérison des maladies]]* et *[[Pathfinder-RPG.guérison suprême|guérison suprême]]* ne fonctionnent pas contre son affliction.
 
 ##### Le Paladin
-Le personnage reçoit une [épée de justice](./../Pathfinder-RPG/Épée de justice.md). Cette arme a toutes les propriétés d’une [épée de justice](./../Pathfinder-RPG/Épée de justice.md) normale, ainsi qu’une capacité spéciale qui ne peut être utilisée qu’une seule fois. Quand son porteur la plonge dans le sol par une [action simple](./../Pathfinder-RPG/Action simple.md), l’arme se transforme en un [paladin](./../Pathfinder-RPG/Paladin.md) de deux niveaux supérieurs au porteur. Le [paladin](./../Pathfinder-RPG/Paladin.md) a sa propre [épée de justice](./../Pathfinder-RPG/Épée de justice.md) et aide le personnage dans les limites imposées par son alignement pendant trente minutes. Quand ce temps est écoulé, le [paladin](./../Pathfinder-RPG/Paladin.md) disparaît et l’épée réapparaît, mais elle n’est plus qu’une [épée longue](./../Pathfinder-RPG/épée longue (arme).md) en [fer froid](./../Pathfinder-RPG/fer froid.md) +2.
+Le personnage reçoit une [[Pathfinder-RPG.épée de justice|épée de justice]]. Cette arme a toutes les propriétés d’une [[Pathfinder-RPG.épée de justice|épée de justice]] normale, ainsi qu’une capacité spéciale qui ne peut être utilisée qu’une seule fois. Quand son porteur la plonge dans le sol par une [[Pathfinder-RPG.action simple|action simple]], l’arme se transforme en un [[Pathfinder-RPG.paladin|paladin]] de deux niveaux supérieurs au porteur. Le [[Pathfinder-RPG.paladin|paladin]] a sa propre [[Pathfinder-RPG.épée de justice|épée de justice]] et aide le personnage dans les limites imposées par son alignement pendant trente minutes. Quand ce temps est écoulé, le [[Pathfinder-RPG.paladin|paladin]] disparaît et l’épée réapparaît, mais elle n’est plus qu’une [[Pathfinder-RPG.épée longue (arme)|épée longue]] en [[Pathfinder-RPG.fer froid|fer froid]] +2.
 
 ##### Le Paon
-La peau du personnage se durcit, devenant rigide comme de la pierre. Il gagne un bonus permanent de +2 à l’armure naturelle mais reçoit un malus de -2 en [Dextérité](./../Pathfinder-RPG/Dextérité.md).
+La peau du personnage se durcit, devenant rigide comme de la pierre. Il gagne un bonus permanent de +2 à l’armure naturelle mais reçoit un malus de -2 en [[Pathfinder-RPG.Dextérité|Dextérité]].
 
 ##### Le Prince lapin
 Toutes les attaques que porte le personnage et qui pourraient être un coup critique sont automatiquement confirmées. De la même manière, toutes les attaques contre le personnage qui pourraient être un coup critique sont, elles aussi, automatiquement confirmées.
 
 ##### La Raclée
-En combat, le personnage est toujours considéré comme [pris en tenaille](./../Pathfinder-RPG/Pris en tenaille.md). Les attaquants bénéficient d’un bonus de prise en tenaille de +2 aux attaques qu’ils portent contre lui et peuvent également lui porter des [attaques sournoises](./../Pathfinder-RPG/Roublard.md#ATTAQUESOURNOISE) à volonté.
+En combat, le personnage est toujours considéré comme [[Pathfinder-RPG.pris en tenaille|pris en tenaille]]. Les attaquants bénéficient d’un bonus de prise en tenaille de +2 aux attaques qu’ils portent contre lui et peuvent également lui porter des [[Pathfinder-RPG.roublard#ATTAQUESOURNOISE|attaques sournoises]] à volonté.
 
 ##### Le Rakshasa
 Chaque fois que le personnage ment avec l’intention de tromper son interlocuteur, il se transforme en un animal aléatoire pendant une heure. Le fait de mentir dans l’intention de déclencher cet effet ne fonctionne jamais.
 
 ##### La Reine mère
-Quand le personnage tire cette carte, 2d4 [fourmis géantes](./../Pathfinder-RPG/Fourmi géante.md) apparaissent pour servir le personnage jusqu’à ce qu’elles se fassent tuer. Ces créatures cherchent sincèrement à aider et à protéger le personnage. Elles comprennent les commandes verbales du personnage mais ne peuvent répondre.
+Quand le personnage tire cette carte, 2d4 [[Pathfinder-RPG.fourmi géante|fourmis géantes]] apparaissent pour servir le personnage jusqu’à ce qu’elles se fassent tuer. Ces créatures cherchent sincèrement à aider et à protéger le personnage. Elles comprennent les commandes verbales du personnage mais ne peuvent répondre.
 
 ##### Le Roncier
-Une fois par jour, le personnage peut communiquer comme s’il lançait le sort *[communication avec les plantes](./../Pathfinder-RPG/Communication avec les plantes.md)* et reçoit d’une plante une réponse sincère à une question. Néanmoins, l’utilisation de cette capacité perturbe la flore environnante, provoquant l’apparition de 1d4+2 [tertres errants](./../Pathfinder-RPG/Tertre errant.md) avec l’archétype évolué qui sortent de la terre et attaquent le personnage, quel que soit le terrain environnant.
+Une fois par jour, le personnage peut communiquer comme s’il lançait le sort *[[Pathfinder-RPG.communication avec les plantes|communication avec les plantes]]* et reçoit d’une plante une réponse sincère à une question. Néanmoins, l’utilisation de cette capacité perturbe la flore environnante, provoquant l’apparition de 1d4+2 [[Pathfinder-RPG.tertre errant|tertres errants]] avec l’archétype évolué qui sortent de la terre et attaquent le personnage, quel que soit le terrain environnant.
 
 ##### La Sage-femme
 Le personnage gagne juste ce qu’il faut d’expérience pour passer au niveau suivant.
 
 ##### Le Serpent ailé
-Le personnage se voit accorder un souhait unique. Ce souhait fonctionne comme le sort de *[souhait](./../Pathfinder-RPG/Souhait.md)* en ce qui concerne son impact sur les règles et les statistiques, mais il peut également modifier la réalité d’une manière qui dépasse les limites du sort : il peut, par exemple, rediriger le cours d’un fleuve ou mettre fin à une guerre. C’est au MJ de décider de ce que le souhait permet d’accomplir ou non.
+Le personnage se voit accorder un souhait unique. Ce souhait fonctionne comme le sort de *[[Pathfinder-RPG.souhait|souhait]]* en ce qui concerne son impact sur les règles et les statistiques, mais il peut également modifier la réalité d’une manière qui dépasse les limites du sort : il peut, par exemple, rediriger le cours d’un fleuve ou mettre fin à une guerre. C’est au MJ de décider de ce que le souhait permet d’accomplir ou non.
 
 ##### Le Serrurier
 Cette carte donne au personnage la capacité d’ouvrir une porte, une serrure, des liens ou n’importe quel autre obstacle verrouillé. Ceci inclut les portes ou portails magiques ayant des conditions d’activation particulières. Le personnage peut utiliser les effets de cette carte quand il le souhaite, mais une fois seulement. Une fois utilisée, les effets de la carte se terminent.
 
 ##### La Sorcière muette
-Le personnage perd définitivement l’un de ses sens (vue, ouïe ou parole), devenant *[aveugle](./../Pathfinder-RPG/aveugle.md)*, *[sourd](./../Pathfinder-RPG/Assourdi.md)* ou muet (au choix du joueur). Cette affliction ne peut être guérie par aucun effet à l’exception d’un *[miracle](./../Pathfinder-RPG/Miracle.md)* ou d’un *[souhait](./../Pathfinder-RPG/Souhait.md)*.
+Le personnage perd définitivement l’un de ses sens (vue, ouïe ou parole), devenant *[[Pathfinder-RPG.aveugle|aveugle]]*, *[[Pathfinder-RPG.assourdi|sourd]]* ou muet (au choix du joueur). Cette affliction ne peut être guérie par aucun effet à l’exception d’un *[[Pathfinder-RPG.miracle|miracle]]* ou d’un *[[Pathfinder-RPG.souhait|souhait]]*.
 
 ##### Le Soulèvement
-Quand cette carte est tirée, 3d6 [hommes du peuple](./../Pathfinder-RPG/Homme du peuple.md) de niveau 1, indisciplinés et susceptibles de causer des accidents, apparaissent pour servir le personnage. Si ces suivants sont tués, le personnage reçoit les malus habituels dès qu’il cherche de nouveaux suivants. La nouvelle de la mort ou des mauvais traitements de ces [hommes du peuple](./../Pathfinder-RPG/Homme du peuple.md) se répand comme une traînée de poudre, le MJ en déterminant les répercussions.
+Quand cette carte est tirée, 3d6 [[Pathfinder-RPG.homme du peuple|hommes du peuple]] de niveau 1, indisciplinés et susceptibles de causer des accidents, apparaissent pour servir le personnage. Si ces suivants sont tués, le personnage reçoit les malus habituels dès qu’il cherche de nouveaux suivants. La nouvelle de la mort ou des mauvais traitements de ces [[Pathfinder-RPG.homme du peuple|hommes du peuple]] se répand comme une traînée de poudre, le MJ en déterminant les répercussions.
 
 ##### Le Survivant
-La prochaine fois que le personnage tombera au-dessous de 10 points de vie, il récupérera instantanément tous ses points de vie. S’il est tué par un effet qui le met à mort sans lui infliger de points de dégâts (comme par une *[désintégration](./../Pathfinder-RPG/Désintégration.md)*), l’effet ne le tue pas et il récupère l’intégralité de ses points de vie. S’il est tué par un environnement hostile (comme un flot de lave ou en étant transporté sur un plan dangereux), il est ramené au dernier lieu sûr où il se trouvait et récupère tous ses points de vie. Cette carte ne protège pas le personnage contre les effets qui le handicapent de manière permanente, comme la *[pétrification](./../Pathfinder-RPG/Pétrification.md)*.
+La prochaine fois que le personnage tombera au-dessous de 10 points de vie, il récupérera instantanément tous ses points de vie. S’il est tué par un effet qui le met à mort sans lui infliger de points de dégâts (comme par une *[[Pathfinder-RPG.désintégration|désintégration]]*), l’effet ne le tue pas et il récupère l’intégralité de ses points de vie. S’il est tué par un environnement hostile (comme un flot de lave ou en étant transporté sur un plan dangereux), il est ramené au dernier lieu sûr où il se trouvait et récupère tous ses points de vie. Cette carte ne protège pas le personnage contre les effets qui le handicapent de manière permanente, comme la *[[Pathfinder-RPG.pétrification|pétrification]]*.
 
 ##### Le Théâtre
 La prochaine fois que le personnage triomphe d’une créature, il gagne un bonus de +2 à sa valeur de caractéristique correspondant à la valeur de caractéristique la plus haute de la créature vaincue.
 
 ##### La Trahison
-Le personnage s’aliène son [compagnon animal](./../Pathfinder-RPG/Druide.md#PACTEAVECLANATURE), son [familier](./../Pathfinder-RPG/Magicien.md#PACTEMAGIQUE), son [compagnon d’armes](./../Pathfinder-RPG/Prestige.md) ou un autre PNJ allié qui lui devient à jamais hostile. Si le personnage n’a pas de tels alliés, on peut leur substituer l’inimitié de quelque personnage puissant, d’une communauté ou d’un ordre religieux. Cette haine reste un secret jusqu’au moment où elle s’avérera la plus dramatique et dangereuse. Lorsqu’il tire cette carte, le personnage sait que quelqu’un ou quelque chose se retournera contre lui mais il n’en sait pas plus.
+Le personnage s’aliène son [[Pathfinder-RPG.druide#PACTEAVECLANATURE|compagnon animal]], son [[Pathfinder-RPG.magicien#PACTEMAGIQUE|familier]], son [[Pathfinder-RPG.Prestige|compagnon d’armes]] ou un autre PNJ allié qui lui devient à jamais hostile. Si le personnage n’a pas de tels alliés, on peut leur substituer l’inimitié de quelque personnage puissant, d’une communauté ou d’un ordre religieux. Cette haine reste un secret jusqu’au moment où elle s’avérera la plus dramatique et dangereuse. Lorsqu’il tire cette carte, le personnage sait que quelqu’un ou quelque chose se retournera contre lui mais il n’en sait pas plus.
 
 ##### La Trompette
-Cette carte donne au personnage la capacité de convoquer un [extérieur](./../Pathfinder-RPG/type Extérieur.md) du même alignement que lui, une fois par jour. L’[extérieur](./../Pathfinder-RPG/type Extérieur.md) doit être d’un [FP](./../Pathfinder-RPG/FP.md) égal ou inférieur au niveau du personnage et le sert un nombre de [rounds](./../Pathfinder-RPG/round.md) égal au niveau du personnage.
+Cette carte donne au personnage la capacité de convoquer un [[Pathfinder-RPG.type extérieur|extérieur]] du même alignement que lui, une fois par jour. L’[[Pathfinder-RPG.type extérieur|extérieur]] doit être d’un [[Pathfinder-RPG.FP|FP]] égal ou inférieur au niveau du personnage et le sert un nombre de [[Pathfinder-RPG.round|rounds]] égal au niveau du personnage.
 
 ##### Le Trône vide
 Le personnage hérite d’un titre de noblesse et de 15 000 po très peu de temps après avoir tiré cette carte. C’est au MJ de décider du moment et de la façon dont ceci se produit.
 
 ##### Le Tyran
-Le personnage gagne une capacité à usage unique : donner un ordre unique à une créature du multivers qui est obligée d’y répondre. La cible est affectée comme si elle faisait l’objet d’un sort de *[domination universelle](./../Pathfinder-RPG/Domination universelle.md)* et même si le personnage lui ordonne de se tuer, la cible le fera. Toute créature ciblée par cet effet sait qu’elle agit contre sa volonté, tout comme elle connaît l’identité et la localisation du personnage. Les créatures immortelles ne peuvent pas se tuer définitivement : l’acte leur inflige simplement une douleur immense mais fugace. En outre, les créatures ayant la capacité d’accorder ce type de grands bienfaits ont souvent le pouvoir de les révoquer et le font dès qu’elles sont libérées de leurs ordres. C’est au MJ de décider des résultats de l’ordre donné. Le personnage peut utiliser l’effet de cette carte quand il le souhaite, mais une fois seulement.
+Le personnage gagne une capacité à usage unique : donner un ordre unique à une créature du multivers qui est obligée d’y répondre. La cible est affectée comme si elle faisait l’objet d’un sort de *[[Pathfinder-RPG.domination universelle|domination universelle]]* et même si le personnage lui ordonne de se tuer, la cible le fera. Toute créature ciblée par cet effet sait qu’elle agit contre sa volonté, tout comme elle connaît l’identité et la localisation du personnage. Les créatures immortelles ne peuvent pas se tuer définitivement : l’acte leur inflige simplement une douleur immense mais fugace. En outre, les créatures ayant la capacité d’accorder ce type de grands bienfaits ont souvent le pouvoir de les révoquer et le font dès qu’elles sont libérées de leurs ordres. C’est au MJ de décider des résultats de l’ordre donné. Le personnage peut utiliser l’effet de cette carte quand il le souhaite, mais une fois seulement.
 
 ##### Le Vagabond
 L’une des possessions ordinaires du personnage devient un objet magique d’une valeur de 20 000 po ou moins. Le MJ détermine quel objet manifeste des propriétés magiques et lesquelles.
@@ -173,7 +173,7 @@ Cette carte donne au personnage la capacité à usage unique d’invoquer un esp
 Le personnage reçoit deux visions et sait que l’une d’elle est vraie et l’autre fausse, mais il ignore laquelle. Le MJ détermine les détails de ces visions. Elles peuvent être des vues du passé, du présent ou du futur, des présages indéchiffrables ou des fantasmes purs et simples.
 
 ##### Le Voiturier
-Quand le personnage tire cette carte, un être puissant apparaît devant lui et le charge d’une quête dangereuse. Si le personnage se montre réticent à entreprendre cette quête, il est affligé d’un sort de *[quête](./../Pathfinder-RPG/Quête.md)* jusqu’à ce qu’il ait accompli sa mission. Quand le personnage a accompli sa quête, l’être puissant réapparaît devant lui et le gratifie d’une somptueuse récompense. Les spécificités de la quête, l’identité de l’être puissant et la récompense du personnage sont définis par le MJ.
+Quand le personnage tire cette carte, un être puissant apparaît devant lui et le charge d’une quête dangereuse. Si le personnage se montre réticent à entreprendre cette quête, il est affligé d’un sort de *[[Pathfinder-RPG.quête|quête]]* jusqu’à ce qu’il ait accompli sa mission. Quand le personnage a accompli sa quête, l’être puissant réapparaît devant lui et le gratifie d’une somptueuse récompense. Les spécificités de la quête, l’identité de l’être puissant et la récompense du personnage sont définis par le MJ.
 
 #### Implications
 Ceux qui oseraient tirer des *cartes merveilleuses du destin*, susceptibles de changer le cours d’une vie, doivent prendre les éléments suivants en considération. En outre, le chapitre 6 du présent ouvrage comporte une entrée sur les cartes merveilleuses et le Pathfinder Univers : trésors, les classiques revus et corrigés compte un chapitre sur ces cartes très similaire aux *cartes merveilleuses du destin*.

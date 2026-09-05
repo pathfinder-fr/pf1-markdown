@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:ISR}*Vous tentatives infructueuses d'humilier un adversaire révèle ses faiblesses à vos alliés.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONCOMBAT|combat]], [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Demi-orque](./Demi-orque.md)
+**Conditions.** [[Demi-orque]]
 
-**Avantages.** Lorsque le personnage rate un test de [manœuvre offensive](./Manœuvres offensives.md), ses alliés dans un rayon de 9 mètres qui possèdent ce don bénéficient d'un bonus de circonstances de +2 aux tests de manœuvre offensive du même type contre ce même adversaire pendant 1 round.
+**Avantages.** Lorsque le personnage rate un test de [[Manœuvres offensives|manœuvre offensive]], ses alliés dans un rayon de 9 mètres qui possèdent ce don bénéficient d'un bonus de circonstances de +2 aux tests de manœuvre offensive du même type contre ce même adversaire pendant 1 round.

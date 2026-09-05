@@ -13,28 +13,28 @@ Categories:
 {s:pucem|Créature magique|Montagnes|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.59*}
 {s:BDTexte|**PX** 25 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([Feu](./sous-type Feu.md)) de taille TG, NM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type Feu|Feu]]) de taille TG, NM}
+{s:BDTexte|**Init** +5 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 9, pris au dépourvu 23 (Dex +1, naturelle +15, taille -2)}
 {s:BDTexte|**pv** 189 (18d10+90)}
 {s:BDTexte|**Réf** +14, **Vig** +16, **Vol** +10}
 {s:BDTexte|**Capacités défensives** guérison par le feu ; **RD** 10/– ; **Immunités** feu}
-{s:BDTexte|**Faiblesses** [vulnérabilité](./Vulnérabilités (capacité).md) au froid}
+{s:BDTexte|**Faiblesses** [[Vulnérabilités (capacité)|vulnérabilité]] au froid}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m, nage 9 m}
-{s:BDTexte|**Corps à corps** 2 griffes, +25 (2d6+8 plus [combustion](./Combustion (capacité).md)) et morsure, +25 (2d8+8 plus [combustion](./Combustion (capacité).md))}
-{s:BDTexte|**Distance** rocher, +19 (2d8+10 plus [combustion](./Combustion (capacité).md))}
+{s:BDTexte|**Corps à corps** 2 griffes, +25 (2d6+8 plus [[Combustion (capacité)|combustion]]) et morsure, +25 (2d8+8 plus [[Combustion (capacité)|combustion]])}
+{s:BDTexte|**Distance** rocher, +19 (2d8+10 plus [[Combustion (capacité)|combustion]])}
 {s:BDTexte|**Espace occupé** 4,50 m ; **Allonge** 4,50 m}
-{s:BDTexte|**Attaques spéciales** [chaleur](./Chaleur (capacité).md), [combustion](./Combustion (capacité).md) (2d6 feu, DD 24), [lancer de rochers](./Lancer de rochers (capacité).md) (36 m)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 18 ; [concentration](./concentration.md) +18)}
-{s:BDSorts|1/mois — *[tremblement de terre](./Tremblement de terre.md)*}
+{s:BDTexte|**Attaques spéciales** [[Chaleur (capacité)|chaleur]], [[Combustion (capacité)|combustion]] (2d6 feu, DD 24), [[Lancer de rochers (capacité)|lancer de rochers]] (36 m)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 18 ; [[concentration]] +18)}
+{s:BDSorts|1/mois — *[[tremblement de terre]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 13, **Con** 20, **Int** 11, **Sag** 14, **Cha** 11}
 {s:BDTexte|**BBA** +18 ; **BMO** +28 ; **DMD** 39}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Arme de prédilection](./Arme de prédilection.md) (morsure),}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Arme de prédilection]] (morsure),}
 Arme de prédilection (rocher), Attaque en puissance, Dur à cuire, Endurance, Réflexes surhumains, Science de l’initiative, Volonté de fer
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +23, [Natation](./Natation.md) +30, [Perception](./Perception.md) +17}
+{s:BDTexte|**Compétences** [[Escalade]] +23, [[Natation]] +30, [[Perception]] +17}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes}

@@ -11,8 +11,8 @@ Categories:
 
 {s:ISG}{s:GeM}*Le personnage est un adversaire déterminé, et même si des hordes arrivent à se dresser contre lui, elles ne le font pas très longtemps.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science de la bousculade](./Science de la bousculade.md), suivant de [Rovagug](./Rovagug (technique).md)
+**Conditions.** [[Science de la bousculade]], suivant de [[Rovagug (technique)|Rovagug]]
 
-**Avantage.** Lorsque le personnage [bouscule](./bousculade.md) une créature et que son test dépasse le [DMD](./DMD.md) de la cible de 5 ou plus, il lui inflige un nombre de points de dégâts supplémentaires égal à son modificateur de [Force](./Force.md).
+**Avantage.** Lorsque le personnage [[bousculade|bouscule]] une créature et que son test dépasse le [[DMD]] de la cible de 5 ou plus, il lui inflige un nombre de points de dégâts supplémentaires égal à son modificateur de [[Force]].

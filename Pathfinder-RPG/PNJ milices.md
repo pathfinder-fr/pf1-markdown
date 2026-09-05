@@ -14,9 +14,9 @@ Categories:
 {s:Reference|GARDE}
 {s:BDTitre|Garde|FP 1}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|Humain [homme d'armes](./Homme darme.md) 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, LN}
-{s:BDTexte|**Init** +0 ; **Sens** [Perception](./Perception.md) +3}
+{s:BDTexte|Humain [[homme darme|homme d'armes]] 3}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, LN}
+{s:BDTexte|**Init** +0 ; **Sens** [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 10, pris au dépourvu 18 (armure +8)}
 {s:BDTexte|**pv** 19 (3d10+3)}
@@ -28,18 +28,18 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 11, **Con** 13, **Int** 9, **Sag** 10, **Cha** 8}
 {s:BDTexte|**BBA** +3, **BMO** +5 (+7 destruction), **DMD** 15 (17 contre la destruction)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Science de la destruction](./Science de la destruction.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Équitation](./Équitation.md) -3, [Intimidation](./Intimidation.md) +5, [Perception](./Perception.md) +3, [Perception](./Perception.md) +2}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Science de la destruction]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Équitation]] -3, [[Intimidation]] +5, [[Perception]] +3, [[Perception]] +2}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Équipement de combat** potions de *[soins légers](./Soins légers.md)* (2) ; **Autre équipement** arbalète lourde avec 10 carreaux, armure de plaques, fléau d’armes lourd, hallebarde, matraque, 5 po}
+{s:BDTexte|**Équipement de combat** potions de *[[soins légers]]* (2) ; **Autre équipement** arbalète lourde avec 10 carreaux, armure de plaques, fléau d’armes lourd, hallebarde, matraque, 5 po}
 {s:BDTexte|**Faveur** Un garde peut indiquer précisément le chemin qui mène à n’importe quel lieu non secret de la ville et peut permettre à un PJ d’entrer ou de sortir de la ville en-dehors des heures normales ou sans payer de taxe.}
 </div></td>
 <td><div>
 Les gardes de la milice sont des soldats vigilants qui œuvrent à maintenir l’ordre et la paix. Ils défendent les murs et les portes de la ville contre les menaces extérieures et se tiennent également prêts à interrompre les combats et les rixes, à désarmer ou à briser les armes dégainées sous le coup de la colère, à éloigner les citoyens turbulents et à s’occuper des blessés.
 
-Il est possible de créer différents types de gardes avec des armures plus légères (cuirasses et écus) et des armes à une main (haches d’armes ou épées longues). On peut leur donner une allonge en remplaçant leurs hallebardes par des coutilles, des guisarmes ou des corsèques. En les équipant de piques, on obtient des piquiers, alors qu’en leur donnant des pavois et des épées courtes, on crée des arbalétriers utiles pour les sièges. Pour en faire des gardes du temple, on peut remplacer [Science de la destruction](./Science de la destruction.md) par [Maniement d’une arme exotique](./Maniement dune arme exotique.md) (double lame). Pour des gardes de prison, on remplacera [Science de la destruction](./Science de la destruction.md) par [Science du combat à mains nues](./Science du combat à mains nues.md) et [Attaque en puissance](./Attaque en puissance.md) par [Maniement d’une arme exotique](./Maniement dune arme exotique.md) (fouet).
+Il est possible de créer différents types de gardes avec des armures plus légères (cuirasses et écus) et des armes à une main (haches d’armes ou épées longues). On peut leur donner une allonge en remplaçant leurs hallebardes par des coutilles, des guisarmes ou des corsèques. En les équipant de piques, on obtient des piquiers, alors qu’en leur donnant des pavois et des épées courtes, on crée des arbalétriers utiles pour les sièges. Pour en faire des gardes du temple, on peut remplacer [[Science de la destruction]] par [[Maniement dune arme exotique|Maniement d’une arme exotique]] (double lame). Pour des gardes de prison, on remplacera [[Science de la destruction]] par [[Science du combat à mains nues]] et [[Attaque en puissance]] par [[Maniement dune arme exotique|Maniement d’une arme exotique]] (fouet).
 
-Quatre gardes et un [geôlier](./PNJ donjons.md#GEOLIER) (FP 6) ou un [bourreau](./PNJ donjons.md#BOURREAU) (FP 7) peuvent assurer la sécurité d’une petite prison ou d’un petit donjon. On peut rencontrer un garde seul, un groupe de deux gardes (FP 3), une escouade de quatre gardes (FP 5) ou une patrouille de six gardes accompagnée d’un [officier](./PNJ milices.md#OFFICIER) (FP 7) selon la dangerosité de la ville ou du quartier.
+Quatre gardes et un [[PNJ donjons#GEOLIER|geôlier]] (FP 6) ou un [[PNJ donjons#BOURREAU|bourreau]] (FP 7) peuvent assurer la sécurité d’une petite prison ou d’un petit donjon. On peut rencontrer un garde seul, un groupe de deux gardes (FP 3), une escouade de quatre gardes (FP 5) ou une patrouille de six gardes accompagnée d’un [[PNJ milices#OFFICIER|officier]] (FP 7) selon la dangerosité de la ville ou du quartier.
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -47,9 +47,9 @@ Quatre gardes et un [geôlier](./PNJ donjons.md#GEOLIER) (FP 6) ou un [bourreau]
 {s:Reference|OFFICIER}
 {s:BDTitre|Officier|FP 3}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|Humain [guerrier](./Guerrier.md) 4}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, LN}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +3}
+{s:BDTexte|Humain [[guerrier]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, LN}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 11, pris au dépourvu 19 (armure +9, Dex +1)}
 {s:BDTexte|**pv** 34 (4d10+12)}
@@ -63,12 +63,12 @@ Quatre gardes et un [geôlier](./PNJ donjons.md#GEOLIER) (FP 6) ou un [bourreau]
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 13, **Con** 14, **Int** 10, **Sag** 10, **Cha** 12}
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 18}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (guisarme), [Attaques réflexes](./Attaques réflexes.md), [Démonstration](./Démonstration.md), [Maniement d’une arme exotique](./Maniement dune arme exotique.md) (filet), [Spécialisation martiale](./Spécialisation martiale.md) (guisarme), [Talent](./Talent.md) (Intimidation)}
-{s:BDTexte|**Compétences** [Équitation](./Équitation.md) +2, [Intimidation](./Intimidation.md) +11, [Perception](./Perception.md) +3, [Psychologie](./Psychologie.md) +2}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (guisarme), [[Attaques réflexes]], [[Démonstration]], [[Maniement dune arme exotique|Maniement d’une arme exotique]] (filet), [[Spécialisation martiale]] (guisarme), [[Talent]] (Intimidation)}
+{s:BDTexte|**Compétences** [[Équitation]] +2, [[Intimidation]] +11, [[Perception]] +3, [[Psychologie]] +2}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** entraînement aux armures 1}
-{s:BDTexte|**Équipement de combat** potion de *[soins légers](./Soins légers.md)* ; **Autre équipement** filets (2), guisarme de maître, harnois, javeline, matraque}
-{s:BDTexte|**Faveur** Un officier peut mettre les PJ au courant des coutumes, des traditions, des astuces et des activités suspectes locales, et ainsi leur octroyer pour 24 heures un bonus de +2 aux tests de [Perception](./Perception.md) et de [Psychologie](./Psychologie.md) opposés au sein de la ville. Il peut aussi arranger une entrevue entre les PJ et un capitaine de la garde.}
+{s:BDTexte|**Équipement de combat** potion de *[[soins légers]]* ; **Autre équipement** filets (2), guisarme de maître, harnois, javeline, matraque}
+{s:BDTexte|**Faveur** Un officier peut mettre les PJ au courant des coutumes, des traditions, des astuces et des activités suspectes locales, et ainsi leur octroyer pour 24 heures un bonus de +2 aux tests de [[Perception]] et de [[Psychologie]] opposés au sein de la ville. Il peut aussi arranger une entrevue entre les PJ et un capitaine de la garde.}
 </div></td>
 <td><div>
 Les officiers supervisent les gardes et s’occupent des troubles majeurs, mettant leur attitude stricte et leurs compétences martiales à profit pour apaiser les conflits. Au combat, ils agissent de manière coordonnée avec les gardes qui sont sous leur commandement pour rassembler les fauteurs de troubles et les empêcher de fuir.
@@ -76,7 +76,7 @@ Les officiers supervisent les gardes et s’occupent des troubles majeurs, metta
 Les officiers peuvent également faire office de gladiateurs talentueux ou de chasseurs de primes exubérants. On peut les
 retrouver comme gardes royaux dans la salle du trône. Dans les sociétés maléfiques, ils peuvent porter des armures à piques et être équipés de faux ou de chaînes cloutées au lieu de guisarmes, et d’arbalètes de poing empoisonnées au lieu de filets.
 
-Les officiers forment généralement des patrouilles avec quatre gardes (FP 6). Trois officiers peuvent aussi agir en tant qu’adjudants d’un [capitaine de la garde](./PNJ milices.md#CAPITAINEDELAGARDE) (FP 8). Deux officiers peuvent escorter un [mage de combat](./PNJ aventuriers.md#MAGEDECOMBAT) (FP 7) pour faire face aux menaces magiques. Quatre officiers et un [champion](./PNJ arènes.md#CHAMPION) (FP 10) forment un groupe de combat d’élite dans l’arène, alors que deux officiers et deux [esclavagistes](./PNJ criminels.md#ESCLAVAGISTE) (FP 7) peuvent protéger un précieux convoi d’esclaves.
+Les officiers forment généralement des patrouilles avec quatre gardes (FP 6). Trois officiers peuvent aussi agir en tant qu’adjudants d’un [[PNJ milices#CAPITAINEDELAGARDE|capitaine de la garde]] (FP 8). Deux officiers peuvent escorter un [[PNJ aventuriers#MAGEDECOMBAT|mage de combat]] (FP 7) pour faire face aux menaces magiques. Quatre officiers et un [[PNJ arènes#CHAMPION|champion]] (FP 10) forment un groupe de combat d’élite dans l’arène, alors que deux officiers et deux [[PNJ criminels#ESCLAVAGISTE|esclavagistes]] (FP 7) peuvent protéger un précieux convoi d’esclaves.
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td>
@@ -84,9 +84,9 @@ Les officiers forment généralement des patrouilles avec quatre gardes (FP 6). 
 {s:Reference|CAPITAINEDELAGARDE}
 {s:BDTitre|Capitaine de la garde|FP 6}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|Humain [guerrier](./Guerrier.md) 7}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, LN}
-{s:BDTexte|**Init** +1 ; **Sens** [Perception](./Perception.md) +6}
+{s:BDTexte|Humain [[guerrier]] 7}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, LN}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 11, pris au dépourvu 19 (armure +9, Dex +1)}
 {s:BDTexte|**pv** 57 (7d10+19)}
@@ -100,11 +100,11 @@ Les officiers forment généralement des patrouilles avec quatre gardes (FP 6). 
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 12, **Con** 14, **Int** 13, **Sag** 8, **Cha** 10}
 {s:BDTexte|**BBA** +7, **BMO** +11 (+15 croc-en-jambe), **DMD** 22 (24 contre le croc-enjambe)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (hallebarde), [Attaques réflexes](./Attaques réflexes.md), [Croc-en-jambe supérieur](./Croc-en-jambe supérieur.md), [Démonstration](./Démonstration.md), [Persuasion](./Persuasion.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Spécialisation martiale](./Spécialisation martiale.md) (hallebarde), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (ingénierie) +5, [Diplomatie](./Diplomatie.md) +5, [Dressage](./Dressage.md) +4, [Équitation](./Équitation.md) +2, [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +6, [Profession](./Profession.md) (soldat) +5, [Psychologie](./Psychologie.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (hallebarde), [[Attaques réflexes]], [[Croc-en-jambe supérieur]], [[Démonstration]], [[Persuasion]], [[Science du croc-en-jambe]], [[Spécialisation martiale]] (hallebarde), [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (ingénierie) +5, [[Diplomatie]] +5, [[Dressage]] +4, [[Équitation]] +2, [[Intimidation]] +12, [[Perception]] +6, [[Profession]] (soldat) +5, [[Psychologie]] +8}
 {s:BDTexte|**Langues** commun, halfelin}
 {s:BDTexte|**Particularités** entraînement aux armures 2}
-{s:BDTexte|**Équipement de combat** potions de *[soins modérés](./Soins modérés.md)* (2), sacoches immobilisantes (2) ; **Autre équipement** harnois de maître, arc long composite <nowiki>[</nowiki>For +4<nowiki>]</nowiki> avec 20 flèches, *hallebarde +1*, matraque, *cape de résistance +1*, 35 po}
+{s:BDTexte|**Équipement de combat** potions de *[[soins modérés]]* (2), sacoches immobilisantes (2) ; **Autre équipement** harnois de maître, arc long composite <nowiki>[[</nowiki>For +4<nowiki>]]</nowiki> avec 20 flèches, *hallebarde +1*, matraque, *cape de résistance +1*, 35 po}
 {s:BDTexte|**Faveur** Un capitaine de la garde peut placer en détention un PNJ de niveau inférieur ou égal à 9 pendant 24 heures et permettre à un unique PJ d’aller le questionner. Il pourrait également ordonner à une patrouille de gardes d’assister les PJ dans l’enceinte de la ville pendant 1 heure.}
 </div></td>
 <td><div>
@@ -112,5 +112,5 @@ Les capitaines de la garde sont des vétérans stricts et rusés, des soldats ex
 
 Les capitaines de la garde peuvent également servir d’officiers de haut rang ou de généraux mineurs au sein d’une armée. Un capitaine solitaire pourrait être le chambellan d’une forteresse. En remplaçant la hallebarde et le don Science du croc-en-jambe par une corsèque et le don Science du désarmement, on crée un capitaine qui désarme les adversaires au lieu de les faire tomber.
 
-On peut croiser un capitaine de la garde à la tête d’une équipe d’enquêteurs composée d’un [officier](./PNJ milices.md#OFFICIER) et d’un [mage de combat](./PNJ aventuriers.md#MAGEDECOMBAT) (FP 8) ou d’une grande patrouille (FP 8 pour une patrouille composée d’un [officier](./PNJ milices.md#OFFICIER) et de quatre [gardes](./PNJ milices.md#GARDE), +1 FP par patrouille supplémentaire). Un capitaine de la garde peut aussi être le compagnon d’un [guerrier saint](./PNJ croisés.md#GUERRIERSAINT) ou d’un [chevalier](./PNJ nobles.md#CHEVALIER) (FP 8).
+On peut croiser un capitaine de la garde à la tête d’une équipe d’enquêteurs composée d’un [[PNJ milices#OFFICIER|officier]] et d’un [[PNJ aventuriers#MAGEDECOMBAT|mage de combat]] (FP 8) ou d’une grande patrouille (FP 8 pour une patrouille composée d’un [[PNJ milices#OFFICIER|officier]] et de quatre [[PNJ milices#GARDE|gardes]], +1 FP par patrouille supplémentaire). Un capitaine de la garde peut aussi être le compagnon d’un [[PNJ croisés#GUERRIERSAINT|guerrier saint]] ou d’un [[PNJ nobles#CHEVALIER|chevalier]] (FP 8).
 </div></td></tr></table>

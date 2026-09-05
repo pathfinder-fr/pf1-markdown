@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Survie
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Survie](./Descriptions individuelles des propriétés spéciales des armes.md#Survie)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Survie]]

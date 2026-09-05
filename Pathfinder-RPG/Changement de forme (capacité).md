@@ -6,9 +6,9 @@ Categories:
 - Règle de monstres universelle
 ---
 
-Les créatures qui disposent de cette particularité peuvent prendre l’apparence d’une créature spécifique ou d’un type de créatures (généralement un humanoïde) mais elles conservent en grande partie leurs attributs physiques. Il peut y avoir au maximum une [catégorie de taille](./catégorie de taille.md) de différence entre la forme adoptée et celle de la créature.
+Les créatures qui disposent de cette particularité peuvent prendre l’apparence d’une créature spécifique ou d’un type de créatures (généralement un humanoïde) mais elles conservent en grande partie leurs attributs physiques. Il peut y avoir au maximum une [[catégorie de taille]] de différence entre la forme adoptée et celle de la créature.
 
-Cette capacité fonctionne comme le sort de *[métamorphose](./métamorphose.md)* qui est mentionné dans la description mais les caractéristiques de la créature ne sont pas modifiées (elle gagne cependant les autres capacités de la créature imitée).
+Cette capacité fonctionne comme le sort de *[[métamorphose]]* qui est mentionné dans la description mais les caractéristiques de la créature ne sont pas modifiées (elle gagne cependant les autres capacités de la créature imitée).
 
 Sauf mention contraire, la créature peut rester autant de temps qu'elle veut sous cette nouvelle apparence.
 

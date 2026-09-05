@@ -64,7 +64,7 @@ de 9 mètres pendant 1d6 rounds (Volonté annule).
 Il s’agit d’un effet mental sonore.}
 {s:BDSorts|*Porteur de maladie (Sur).* La vermine démoniaque
 est immunisée contre la maladie et ses
-attaques naturelles transmettent la [démonite](./Maladies.md#DEMONITE) quand elles touchent (Vigueur annule).}
+attaques naturelles transmettent la [[Maladies#DEMONITE|démonite]] quand elles touchent (Vigueur annule).}
 {s:BDSorts|*Sens supplémentaires (Ext).* La vermine possède un grand
 nombre d’yeux supplémentaires et autres organes sensoriels.
 Elle gagne vision à 360°, odorat et un bonus racial de +8 aux
@@ -84,15 +84,15 @@ sort est égal au FP de la créature.}
 |- CLASS="titre"
 | FP || Pouvoir
 |- CLASS="premier"
-| 1–4 || [ténèbres](./Ténèbres.md)
+| 1–4 || [[ténèbres]]
 |-
-| 5-8 || [vomir une nuée](./Vomir une nuée.md)
+| 5-8 || [[vomir une nuée]]
 |-
-| 9-12 || [fléau d’insectes](./Fléau dinsectes.md)
+| 9-12 || [[fléau dinsectes|fléau d’insectes]]
 |-
-| 13-16 || [téléportation suprême](./Téléportation suprême.md) (soi-même plus 25 kg d’objets uniquement)
+| 13-16 || [[téléportation suprême]] (soi-même plus 25 kg d’objets uniquement)
 |-
-| 17-20 || [tremblement de terre](./Tremblement de terre.md)
+| 17-20 || [[tremblement de terre]]
 |-
 |}
 {s:BDTexte|**Caractéristiques**. +4 en For, +2 en Con. La valeur d’Intelligence
@@ -111,9 +111,9 @@ et le draconique. Elle gagne aussi télépathie à 30 mètres.}
 </div>
 </td><td><div>
 Voir aussi les exemples :
-[Araignée géante démoniaque](./Araignée géante démoniaque.md)
-[Mouche géante démoniaque](./../Aventures/Mouche géante démoniaque.md)
-[Scorpion piégeur démoniaque](./Scorpion piégeur démoniaque.md)
+[[Araignée géante démoniaque]]
+[[Mouche géante démoniaque]]
+[[Scorpion piégeur démoniaque]]
 
 *Cette vermine démesurée présente des caractéristiques démoniaques et un reflet évident d’intelligence au fond des yeux.*
 

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#APPEL
 ---
 
->>> [Présentation des sorts#APPEL](./Présentation des sorts.md#APPEL)
+>>> [[Présentation des sorts#APPEL]]

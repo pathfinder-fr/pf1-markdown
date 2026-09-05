@@ -8,7 +8,7 @@ LastModified: 2023-10-22 18:46
 *Ce colosse a les yeux bouffis et rouges. Son âge est difficile à déterminer car il semble prématurément vieilli par les excès. Il lorgne depuis quelques instants une chope de bière sur le comptoir. Lorsque vous lui offrez à boire, il se défait de sa mine patibulaire pour se fendre d'un large sourire.. *
 
 {s:BDTitre|Kraiik, "l'outre"|FP 6}
-{s:BDTexte|[Barbare](./../Pathfinder-RPG/Barbare.md) 7 ([brute avinée](./../Pathfinder-RPG/Brute avinée (barbare).md)) (PNJ héroïque)}
+{s:BDTexte|[[Pathfinder-RPG.Barbare|Barbare]] 7 ([[Pathfinder-RPG.Brute avinée (barbare)|brute avinée]]) (PNJ héroïque)}
 {s:BDTexte|humanoïde (humain) de taille M (CN)}
 {s:BDTexte|**Init **+1 ; **Sens **Perception +10}
 {s:BDSousTitre|CAPACITÉS DÉFENSIVES}

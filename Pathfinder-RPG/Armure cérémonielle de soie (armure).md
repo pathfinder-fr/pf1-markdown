@@ -11,6 +11,6 @@ Categories:
 {s:AE}{s:UC}**Prix** 30 po ; **Poids** 2 kg
 **Bonus d'armure** +1 ; **Bonus de Dex maximal** — ; **Malus d'armure** 0
 **Risque d'échec des sorts profanes** 0% ; **Vitesse** 9 m/6 m (6 c/4 c)
-<span class="Catégorie">**Catégorie** [Armures légères](./Tableau récapitulatif des armures.md#TABLEGERES) ([orientale](./Armes orientales.md))</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABLEGERES|Armures légères]] ([[armes orientales|orientale]])</span>
 ---
 Portées lors des cérémonies ou par-dessus une armure plus lourde (sans apporter d’avantage), ces robes se composent de plusieurs épaisseurs de tissu et d’une couche extérieure de soie brodée de brocarts d’or et couverte de clous en métal.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Survie#SUIVREDESTRACES
 ---
 
->>> [Survie#SUIVREDESTRACES](./Survie.md#SUIVREDESTRACES)
+>>> [[Survie#SUIVREDESTRACES]]

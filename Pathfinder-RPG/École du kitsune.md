@@ -14,11 +14,11 @@ Categories:
 
 *Le personnage s'inspire de la ruse des kitsune pour duper et handicaper ses ennemis en combat.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Condition.** [Int](./Int.md) 13, [Expertise du combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md)
+**Condition.** [[Int]] 13, [[Expertise du combat]], [[Science du sale coup]]
 
-**Avantage.** Quand le personnage utilise cette école, il peut tenter une manœuvre de sale coup à la place d'une attaque à la fin d'une [charge](./charge.md).
+**Avantage.** Quand le personnage utilise cette école, il peut tenter une manœuvre de sale coup à la place d'une attaque à la fin d'une [[charge]].
 
 (((Kitsune Style (Combat, Style)
 

@@ -13,16 +13,16 @@ Traduit et publié en français par Black Book Editions sous le nom d'[Pirates d
 
 ### Archétypes
 <div class="article_3col">
-[Boucanier (barde)](./Boucanier (barde).md),
-[Contrebandier (roublard)](./Contrebandier (roublard).md),
-[Corsaire (guerrier)](./Corsaire (guerrier).md),
-[Flibustier (rôdeur)](./Flibustier (rôdeur).md).
+[[Boucanier (barde)]],
+[[Contrebandier (roublard)]],
+[[Corsaire (guerrier)]],
+[[Flibustier (rôdeur)]].
 </div>
 
 
 ### Classes de prestige
 <div class="article_3col">
-[Pirate de Haute mer](./Pirate de la mer Intérieure.md).
+[[Pirate de la Mer Intérieure|Pirate de Haute mer]].
 </div>
 
 
@@ -30,77 +30,77 @@ Traduit et publié en français par Black Book Editions sous le nom d'[Pirates d
 #### Armes
 <div class="article_3col">
 **Classiques.**
-[Baïonnette](./baïonnette (arme).md) (modifié),
-[Chat à neuf queues](./chat à neuf queues (arme).md),
-[Couteau de cuivre](./Couteau de cuivre (arme).md),
-[Crochet de pirate](./Crochet de pirate (arme).md),
-[Gaffe d'abordage](./Gaffe dabordage (arme).md),
-[Grappin](./Grappin (arme).md) (modifié),
-[Hache d'abordage](./Hache dabordage (arme).md),
-[Harpon](./harpon (arme).md),
-[Pique d'abordage](./Pique dabordage (arme).md),
-[Sabre d'abordage](./Sabre dabordage (arme).md).
+[[baïonnette (arme)|Baïonnette]] (modifié),
+[[chat à neuf queues (arme)|Chat à neuf queues]],
+[[couteau de cuivre (arme)|Couteau de cuivre]],
+[[crochet de pirate (arme)|Crochet de pirate]],
+[[gaffe dabordage (arme)|Gaffe d'abordage]],
+[[grappin (arme)|Grappin]] (modifié),
+[[hache dabordage (arme)|Hache d'abordage]],
+[[harpon (arme)|Harpon]],
+[[pique dabordage (arme)|Pique d'abordage]],
+[[sabre dabordage (arme)|Sabre d'abordage]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Équipement d'aventurier====</div>
 <div class="article_3col">
-[Astrolabe](./Équipement daventurier.md#Astrolabe) (modifié),
-[Carte nautique](./Équipement daventurier.md#Carte nautique),
-[Cache-œil](./Équipement daventurier.md#Cache-œil),
-[Coffre au trésor de taille P](./Équipement daventurier.md#Coffre au trésor),
-[Coffre au trésor de taille M](./Équipement daventurier.md#Coffre au trésor),
-[Coffre au trésor de taille G](./Équipement daventurier.md#Coffre au trésor),
-[Coffre au trésor de taille TG](./Équipement daventurier.md#Coffre au trésor),
-[Jambe de bois](./Équipement daventurier.md#Jambe de bois),
-[Pavillon national ou de courtoisie de taille P](./Équipement daventurier.md#Pavillon),
-[Pavillon national ou de courtoisie de taille G](./Équipement daventurier.md#Pavillon),
-[Pavillon personnel de taille P](./Équipement daventurier.md#Pavillon),
-[Pavillon personnel de taille G](./Équipement daventurier.md#Pavillon),
-[Prothèse de bras](./Équipement daventurier.md#Prothèse) (modifié),
-[Prothèse de jambe](./Équipement daventurier.md#Prothèse) (modifié),
-[Prothèse de main](./Équipement daventurier.md#Prothèse) (modifié),
-[Prothèse de pied](./Équipement daventurier.md#Prothèse) (modifié),
-[Sextant](./Équipement daventurier.md#Sextant) (modifié),
-[Tatouage](./Équipement daventurier.md#Tatouage) (modifié).
+[[Équipement daventurier#Astrolabe|Astrolabe]] (modifié),
+[[Équipement daventurier#Carte nautique|Carte nautique]],
+[[Équipement daventurier#Cache-œil|Cache-œil]],
+[[Équipement daventurier#Coffre au trésor|Coffre au trésor de taille P]],
+[[Équipement daventurier#Coffre au trésor|Coffre au trésor de taille M]],
+[[Équipement daventurier#Coffre au trésor|Coffre au trésor de taille G]],
+[[Équipement daventurier#Coffre au trésor|Coffre au trésor de taille TG]],
+[[Équipement daventurier#Jambe de bois|Jambe de bois]],
+[[Équipement daventurier#Pavillon|Pavillon national ou de courtoisie de taille P]],
+[[Équipement daventurier#Pavillon|Pavillon national ou de courtoisie de taille G]],
+[[Équipement daventurier#Pavillon|Pavillon personnel de taille P]],
+[[Équipement daventurier#Pavillon|Pavillon personnel de taille G]],
+[[Équipement daventurier#Prothèse|Prothèse de bras]] (modifié),
+[[Équipement daventurier#Prothèse|Prothèse de jambe]] (modifié),
+[[Équipement daventurier#Prothèse|Prothèse de main]] (modifié),
+[[Équipement daventurier#Prothèse|Prothèse de pied]] (modifié),
+[[Équipement daventurier#Sextant|Sextant]] (modifié),
+[[Équipement daventurier#Tatouage|Tatouage]] (modifié).
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Armes alchimiques====</div>
 <div class="article_3col">
-[Bombe à goudron](./Armes alchimiques.md#Bombe à goudron).
+[[Armes alchimiques#Bombe à goudron|Bombe à goudron]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Nourriture et boissons====</div>
 <div class="article_3col">
-[Un verre de rhum](./Nourriture et Boissons.md#Rhum),
-[4 litres de rhum](./Nourriture et Boissons.md#Rhum).
+[[Nourriture et boissons#Rhum|Un verre de rhum]],
+[[Nourriture et boissons#Rhum|4 litres de rhum]].
 </div>
 
 <div style="border-top:1px dashed #4b3124">
 ====Vêtements====</div>
 <div class="article_3col">
-[Couvre-chef](./Vêtements.md#Couvre-chef),
-[Tenue de pirate simple](./Vêtements.md#Tenue de pirate),
-[Tenue de pirate élaborée](./Vêtements.md#Tenue de pirate).
+[[Vêtements#Couvre-chef|Couvre-chef]],
+[[Vêtements#Tenue de pirate|Tenue de pirate simple]],
+[[Vêtements#Tenue de pirate|Tenue de pirate élaborée]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Équipage de squelettes](./Équipage de squelettes.md),
-[Équipage invisible](./Équipage invisible.md),
-[Flottabilité](./Flottabilité.md) (modifié),
-[Marque noire](./Marque noire.md),
-[Pistage d'un navire](./Pistage dun navire.md),
-[Récupération](./Récupération.md).
+[[Équipage de squelettes]],
+[[Équipage invisible]],
+[[Flottabilité]] (modifié),
+[[Marque noire]],
+[[Pistage dun navire|Pistage d'un navire]],
+[[Récupération]].
 </div>
 
 
 ### Traits
 <div class="article_3col">
-**[Régionaux](./Traits régionaux.md).**
+**[[Traits régionaux|Régionaux]].**
 Adepte des cartes au trésor,
 Agent libre,
 Ami des dinosaures,
@@ -126,7 +126,7 @@ Spécialiste du fouet,
 Tireur du fleuve,
 Traqueur d'abolitionnistes.
 
-**[Religieux](./Traits religieux.md).**
+**[[Traits religieux|Religieux]].**
 Expert de l'abordage (déesse des pirates),
 Trompe-la-mort (déesse des pirates).
 </div>

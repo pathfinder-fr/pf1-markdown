@@ -10,18 +10,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[froid](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Magus](./Magus.md) 0  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 0, [[Magus]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Effet** [rayon](./rayon.md)  
+**Effet** [[rayon]]  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Un *rayon de givre* jaillit du doigt tendu du mage, qui doit réussir une [attaque de contact à distance](./attaque de contact à distance.md) pour atteindre sa cible. Le [rayon](./rayon.md) inflige 1d3 points de dégâts de froid.
+Un *rayon de givre* jaillit du doigt tendu du mage, qui doit réussir une [[attaque de contact à distance]] pour atteindre sa cible. Le [[rayon]] inflige 1d3 points de dégâts de froid.

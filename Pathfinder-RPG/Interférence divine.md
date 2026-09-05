@@ -12,7 +12,7 @@ Categories:
 
 **Conditions.** Lanceur de sorts divins, lanceur de sorts niveau 10
 
-**Avantage.** Par une [action immédiate](./Action immédiate.md), quand un ennemi situé dans les 9 mètres (6 {s:c}) touche un allié lors d’une attaque, le personnage peut sacrifier un sort divin préparé ou un [emplacement de sort](./emplacement de sort.md) s’il s’agit d’un lanceur de sorts spontanés, pour obliger l’ennemi à refaire son [Jet d’attaque](./jet dattaque.md). Ce second [Jet d’attaque](./jet dattaque.md) subit un malus égal au niveau du sort sacrifié. Le personnage doit utiliser un sort de niveau 1 ou plus. Que cette seconde attaque soit une réussite ou non, le personnage ne peut plus utiliser ce pouvoir sur la même créature pendant 1 jour.
+**Avantage.** Par une [[action immédiate]], quand un ennemi situé dans les 9 mètres (6 {s:c}) touche un allié lors d’une attaque, le personnage peut sacrifier un sort divin préparé ou un [[emplacement de sort]] s’il s’agit d’un lanceur de sorts spontanés, pour obliger l’ennemi à refaire son [[Jet dattaque|Jet d’attaque]]. Ce second [[Jet dattaque|Jet d’attaque]] subit un malus égal au niveau du sort sacrifié. Le personnage doit utiliser un sort de niveau 1 ou plus. Que cette seconde attaque soit une réussite ou non, le personnage ne peut plus utiliser ce pouvoir sur la même créature pendant 1 jour.
 
 {s:CMy}
 ### Version mythique
@@ -20,4 +20,4 @@ Categories:
 
 **Condition.** Interférence divine
 
-**Avantage.** Lorsque le personnage utilise Interférence divine, le malus au jet d’attaque de son adversaire est égal au double du niveau du sort sacrifié. Le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) au moment où il sacrifie le sort pour que le malus s’élève au triple du niveau du sort sacrifié.
+**Avantage.** Lorsque le personnage utilise Interférence divine, le malus au jet d’attaque de son adversaire est égal au double du niveau du sort sacrifié. Le personnage peut dépenser une utilisation de [[pouvoir mythique]] au moment où il sacrifie le sort pour que le malus s’élève au triple du niveau du sort sacrifié.

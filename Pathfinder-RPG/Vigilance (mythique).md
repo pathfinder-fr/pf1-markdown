@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les capacités de perception du personnage dépassent de loin celles du commun des mortels, qu’il les utilise pour observer son environnement ou pour deviner les intentions d’autrui.*
 
-**Condition.** [Vigilance](./Vigilance.md)
+**Condition.** [[Vigilance]]
 
-**Avantage.** Le bonus aux tests de [Perception](./Perception.md) et [Psychologie](./Psychologie.md) conféré par [Vigilance](./Vigilance.md) augmente de +2. De plus, le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour considérer qu’il a obtenu un 20 naturel à l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.
+**Avantage.** Le bonus aux tests de [[Perception]] et [[Psychologie]] conféré par [[Vigilance]] augmente de +2. De plus, le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour considérer qu’il a obtenu un 20 naturel à l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.

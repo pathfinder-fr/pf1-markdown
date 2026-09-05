@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Inamovible
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Inamovible](./Descriptions individuelles des propriétés spéciales des armes.md#Inamovible)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Inamovible]]

@@ -6,7 +6,7 @@ LastModified: 2010-11-11 17:09
 
 *Source : Bestiaire* p.315
 
-La plupart des dons qui suivent ont été conçus pour les monstres, mais certains d’entre eux peuvent aussi être accessibles aux PJ (comme [Création de créatures artificielles](./Création de créatures artificielles.md)).
+La plupart des dons qui suivent ont été conçus pour les monstres, mais certains d’entre eux peuvent aussi être accessibles aux PJ (comme [[Création de créatures artificielles]]).
 
 <center STYLE="font-size:90%">
 {| CLASS="tablo"
@@ -16,56 +16,56 @@ La plupart des dons qui suivent ont été conçus pour les monstres, mais certai
 | CLASS="gauche" | **Conditions**
 | CLASS="gauche" | **Avantage**
 |- CLASS="premier"
-| [Arme naturelle supérieure](./Arme naturelle supérieure.md)
-| CLASS="gauche" | posséder une arme naturelle, [BBA](./BBA.md)+4
+| [[Arme naturelle supérieure]]
+| CLASS="gauche" | posséder une arme naturelle, [[BBA]]+4
 | CLASS="gauche" | Le dé de dégât augmente d'une catégorie
 |- CLASS="alt"
-| [Armure naturelle supérieure](./Armure naturelle supérieure.md)
-| CLASS="gauche" | posséder une armure naturelle, [Con](./Constitution.md) 13
+| [[Armure naturelle supérieure]]
+| CLASS="gauche" | posséder une armure naturelle, [[Constitution|Con]] 13
 | CLASS="gauche" | Le bonus d'armure naturelle augmente de +1
 |-
-| [Attaque en vol](./Attaque en vol.md)
+| [[Attaque en vol]]
 | CLASS="gauche" | posséder une vitesse de vol
-| CLASS="gauche" | possibilité d'effectuer une [action simple](./Action simple.md) pendant son déplacement
+| CLASS="gauche" | possibilité d'effectuer une [[action simple]] pendant son déplacement
 |- CLASS="alt"
-| [Attaque spéciale renforcée](./Attaque spéciale renforcée.md)
+| [[Attaque spéciale renforcée]]
 | CLASS="gauche" | posséder une attaque spéciale
-| CLASS="gauche" | Le [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) contre cette attaque augmente de +2
+| CLASS="gauche" | Le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] contre cette attaque augmente de +2
 |-
-| [Attaques multiples](./Attaques multiples.md) <sup>*</sup>
+| [[Attaques multiples]] <sup>*</sup>
 | CLASS="gauche" | posséder au moins trois attaques naturelles
 | CLASS="gauche" | -2 au jet d'attaque avec les attaques secondaires
 |- CLASS="alt"
-| [Capture](./Capture.md)
+| [[Capture]]
 | CLASS="gauche" | être de taille TG ou plus
-| CLASS="gauche" | Capacité d'[étreinte](./Étreinte.md) et de projection
+| CLASS="gauche" | Capacité d'[[étreinte]] et de projection
 |-
-| [Combat à plusieurs armes](./Combat à plusieurs armes.md) <sup>*</sup>
-| CLASS="gauche" | [Dex](./Dextérité.md) 13, posséder trois mains ou plus
+| [[Combat à plusieurs armes]] <sup>*</sup>
+| CLASS="gauche" | [[Dextérité|Dex]] 13, posséder trois mains ou plus
 | CLASS="gauche" | réduction des malus en cas de combat avec plusieurs armes
 |- CLASS="alt"
-| [Coup fabuleux](./Coup fabuleux.md)
-| CLASS="gauche" | [For](./Force.md) 25, [Attaque en puissance](./Attaque en puissance.md), [Science de la bousculade](./Science de la bousculade.md), être de taille G ou +
+| [[Coup fabuleux]]
+| CLASS="gauche" | [[Force|For]] 25, [[Attaque en puissance]], [[Science de la bousculade]], être de taille G ou +
 | CLASS="gauche" | Le coup porté repousse l'ennemi
 |-
-| [Création de créatures artificielles](./Création de créatures artificielles.md)
-| CLASS="gauche" | [NLS](./NLS.md) 5, [Création d'armes et d'armures magiques](./Création darmes et armures magiques.md), [Créations d'objets merveilleux](./Création dobjets magiques.md)
+| [[Création de créatures artificielles]]
+| CLASS="gauche" | [[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et d'armures magiques]], [[Création dobjets magiques|Créations d'objets merveilleux]]
 | CLASS="gauche" | Création de créatures artificielles
 |- CLASS="alt"
-| [Extension de pouvoir magique](./Extension de pouvoir magique.md)
-| CLASS="gauche" | posséder un pouvoir magique lancé à un [NLS](./NLS.md) supérieur ou égal à 6
+| [[Extension de pouvoir magique]]
+| CLASS="gauche" | posséder un pouvoir magique lancé à un [[NLS]] supérieur ou égal à 6
 | CLASS="gauche" | Pouvoirs magiques plus efficaces
 |-
-| [Pouvoir magique rapide](./Pouvoir magique rapide.md)
-| CLASS="gauche" | posséder un pouvoir magique lancé à un [NLS](./NLS.md) supérieur ou égal à 6
-| CLASS="gauche" | Activation du pouvoir par une [action rapide](./Action rapide.md) sans provoquer d'[attaque d'opportunité](./attaque dopportunité.md)
+| [[Pouvoir magique rapide]]
+| CLASS="gauche" | posséder un pouvoir magique lancé à un [[NLS]] supérieur ou égal à 6
+| CLASS="gauche" | Activation du pouvoir par une [[action rapide]] sans provoquer d'[[attaque dopportunité|attaque d'opportunité]]
 |- CLASS="alt"
-| [Virage sur l'aile](./Virage sur laile.md)
+| [[Virage sur laile|Virage sur l'aile]]
 | CLASS="gauche" | posséder une vitesse de vol
-| CLASS="gauche" | demi-tour en une [action simple](./Action simple.md) sans test de [Vol](./Vol.md)
+| CLASS="gauche" | demi-tour en une [[action simple]] sans test de [[Vol]]
 |-
-| [Vol stationnaire](./Vol stationnaire.md)
-| CLASS="gauche" | posséder une vitesse de vol sans test de [Vol](./Vol.md)
+| [[Vol stationnaire]]
+| CLASS="gauche" | posséder une vitesse de vol sans test de [[Vol]]
 | CLASS="gauche" | Vol stationnaire et effet de vent pour les créatures de taille TG ou +
 |}
 </center>

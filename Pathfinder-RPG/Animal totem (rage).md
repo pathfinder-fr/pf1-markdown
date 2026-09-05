@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#ANIMALTOTEM
 ---
 
->>> [pouvoirs de rage#ANIMALTOTEM](./Pouvoirs de rage.md#ANIMALTOTEM)
+>>> [[pouvoirs de rage#ANIMALTOTEM]]

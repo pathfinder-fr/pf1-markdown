@@ -11,8 +11,8 @@ Categories:
 
 {s:ISG}{s:GeM}*Les coups vengeurs du personnage ont des effets de longue durée.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [BBA](./BBA.md) +1, suivant de [Calistria](./Calistria (technique).md)
+**Conditions.** [[BBA]] +1, suivant de [[Calistria (technique)|Calistria]]
 
-**Avantage.** Si un adversaire a infligé des dégâts au personnage au cours de la minute qui vient de s’écouler, ce dernier peut utiliser une [action simple](./Action simple.md) pour étudier cet adversaire. Par la suite, s’il touche cette créature à l’aide d’une attaque de corps à corps, elle subit 1 point de dégâts de [saignement](./Saignement.md) en plus des dégâts normaux de l'attaque.
+**Avantage.** Si un adversaire a infligé des dégâts au personnage au cours de la minute qui vient de s’écouler, ce dernier peut utiliser une [[action simple]] pour étudier cet adversaire. Par la suite, s’il touche cette créature à l’aide d’une attaque de corps à corps, elle subit 1 point de dégâts de [[saignement]] en plus des dégâts normaux de l'attaque.

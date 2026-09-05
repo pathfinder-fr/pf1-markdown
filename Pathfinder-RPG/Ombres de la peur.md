@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*La peur de vos ennemis les pousse à craindre les ombres, détournant ainsi leur attention.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) 2d6 ou [frappe cachée](./Justicier.md#SPÉCIALISATIONDEJUSTICIER) +2d8
+**Conditions.** [[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] 2d6 ou [[Justicier#SPÉCIALISATIONDEJUSTICIER|frappe cachée]] +2d8
 
-**Avantages.** La première fois à chaque [round](./round.md) que le personnage touche une créature soumise à un effet de peur, il inflige ses dégâts d'[attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) ou de [frappe cachée](./Justicier.md#SPÉCIALISATIONDEJUSTICIER) comme s'il prenait cette créature en [tenaille](./prendre en tenaille.md) ([esquive instinctive supérieure](./Roublard.md#ESQUIVEINSTINCTIVESUPERIEURE) et les autres effets qui empêchent d'être pris en tenaille empêchent également l'attaque sournoise ou la frappe cachée infligée par ce don).
+**Avantages.** La première fois à chaque [[round]] que le personnage touche une créature soumise à un effet de peur, il inflige ses dégâts d'[[Roublard#ATTAQUESOURNOISE|attaque sournoise]] ou de [[Justicier#SPÉCIALISATIONDEJUSTICIER|frappe cachée]] comme s'il prenait cette créature en [[prendre en tenaille|tenaille]] ([[Roublard#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]] et les autres effets qui empêchent d'être pris en tenaille empêchent également l'attaque sournoise ou la frappe cachée infligée par ce don).

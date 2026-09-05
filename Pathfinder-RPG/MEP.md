@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Glossaire Mythique#MEP
 ---
 
->>> [Glossaire Mythique#MEP](./Glossaire Mythique.md#MEP)
+>>> [[Glossaire Mythique#MEP]]

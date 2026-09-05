@@ -13,20 +13,20 @@ Categories:
 Les talents indiqués par un astérisque (*) ajoutent des effets à l’attaque sournoise des tueurs. Le personnage ne peut appliquer qu’un seul de ces talents à une même attaque et doit décider duquel avant d’effectuer le jet d’attaque.
 
 #### Compétences de classe
-Un exécuteur des barons du crime n’obtient pas les compétences de classe suivantes : [Connaissances](./Connaissances.md) (exploration souterraine) (Int), [Connaissances](./Connaissances.md) (géographie) (Int), [Équitation](./Équitation.md) (Dex) ni [Survie](./Survie.md) (Sag). Il les remplace par les compétences suivantes qui viennent s’ajouter aux autres compétences de classe standard du tueur : [Diplomatie](./Diplomatie.md) (Cha), [Estimation](./Estimation.md) (Int) et [Évasion](./Évasion.md) (Dex).
+Un exécuteur des barons du crime n’obtient pas les compétences de classe suivantes : [[Connaissances]] (exploration souterraine) (Int), [[Connaissances]] (géographie) (Int), [[Équitation]] (Dex) ni [[Survie]] (Sag). Il les remplace par les compétences suivantes qui viennent s’ajouter aux autres compétences de classe standard du tueur : [[Diplomatie]] (Cha), [[Estimation]] (Int) et [[Évasion]] (Dex).
 
 #### Mains tâchées de sang (Ext)
 Un exécuteur des barons du crime doit être d’alignement Mauvais. Si son alignement change et n’est plus Mauvais, il perd cet archétype et devient un tueur classique.
 
 #### Tueur appliqué (Ext)
-Au niveau 1, les bonus conférés par l’aptitude de [cible étudiée](./Tueur.md#CIBLEETUDIEE) de l’exécuteur des barons du crime et les [DD](./DD.md) de ses aptitudes de tueur augmentent de 1 contre les adversaires humanoïdes mais diminuent de 1 contre les cibles non-humanoïdes. Cette aptitude modifie [cible étudiée](./Tueur.md#CIBLEETUDIEE).
+Au niveau 1, les bonus conférés par l’aptitude de [[tueur#CIBLEETUDIEE|cible étudiée]] de l’exécuteur des barons du crime et les [[DD]] de ses aptitudes de tueur augmentent de 1 contre les adversaires humanoïdes mais diminuent de 1 contre les cibles non-humanoïdes. Cette aptitude modifie [[tueur#CIBLEETUDIEE|cible étudiée]].
 
 #### Coup douloureux* (Ext)
-Au niveau 4, un exécuteur des barons du crime obtient automatiquement ce talent. Les exécuteurs des barons du crime sont entraînes à provoquer une douleur insoutenable quand ils frappent leurs cibles, une douleur qui les fait tituber sous le coup de la douleur ou les immobilise complètement alors qu’elles se vident de leur sang. Une créature qui subit des dégâts d’[attaque sournoise](./attaque sournoise.md) infligés par un exécuteur des barons du crime doit réussir un jet de [Vigueur](./Vigueur.md) ([DD](./DD.md) = 10 + la moitié du niveau d’exécuteur des barons du crime + son modificateur d’Intelligence]]) pour ne pas être [fiévreuse](./Fiévreux.md) pendant 1d4 [rounds](./round.md). Cette aptitude modifie le [talent de tueur](./Tueur.md#TALENTDETUEUR) obtenu au niveau 4 et remplace [pistage rapide](./Tueur.md#PISTAGERAPIDE).
+Au niveau 4, un exécuteur des barons du crime obtient automatiquement ce talent. Les exécuteurs des barons du crime sont entraînes à provoquer une douleur insoutenable quand ils frappent leurs cibles, une douleur qui les fait tituber sous le coup de la douleur ou les immobilise complètement alors qu’elles se vident de leur sang. Une créature qui subit des dégâts d’[[attaque sournoise]] infligés par un exécuteur des barons du crime doit réussir un jet de [[Vigueur]] ([[DD]] = 10 + la moitié du niveau d’exécuteur des barons du crime + son modificateur d’Intelligence]]) pour ne pas être [[fiévreux|fiévreuse]] pendant 1d4 [[round|rounds]]. Cette aptitude modifie le [[tueur#TALENTDETUEUR|talent de tueur]] obtenu au niveau 4 et remplace [[tueur#PISTAGERAPIDE|pistage rapide]].
 
 
 #### Assassinat (Ext)
-Au niveau 10, un exécuteur des barons du crime doit sélectionner le talent de maître tueur [assassinat](./Talents (tueur).md#ASSASSINAT).
+Au niveau 10, un exécuteur des barons du crime doit sélectionner le talent de maître tueur [[Talents (tueur)#ASSASSINAT|assassinat]].
 
 #### Mort rapide (Ext)
-Au niveau 14 et une fois par jour, un exécuteur des barons du crime peut tenter d’assassiner un ennemi sans l’étudier au préalable. Il doit tout de même réussir une [attaque sournoise](./Tueur.md#ATTAQUESOURNOISE) contre la cible. Au niveau 19, il peut effectuer deux de ces attaques par jour. Cette aptitude remplace [proie du chasseur](./Tueur.md#PROIEDUCHASSEUR) et [proie du maître chasseur](./Tueur.md#PROIEDUMAITRECHASSEUR).
+Au niveau 14 et une fois par jour, un exécuteur des barons du crime peut tenter d’assassiner un ennemi sans l’étudier au préalable. Il doit tout de même réussir une [[tueur#ATTAQUESOURNOISE|attaque sournoise]] contre la cible. Au niveau 19, il peut effectuer deux de ces attaques par jour. Cette aptitude remplace [[tueur#PROIEDUCHASSEUR|proie du chasseur]] et [[tueur#PROIEDUMAITRECHASSEUR|proie du maître chasseur]].

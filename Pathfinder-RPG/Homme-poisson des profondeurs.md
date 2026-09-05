@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Homme-poisson des profondeurs|FP 3}
 {s:pucem|Humanoïde|Aquatique|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.151](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.151]]*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([aquatique](./sous-type aquatique.md)) de taille M, N}
-{s:BDTexte|**Init** +9 ; **Sens** [perception aveugle](./Perception aveugle (capacité).md) à 9 m, [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type Aquatique|aquatique]]) de taille M, N}
+{s:BDTexte|**Init** +9 ; **Sens** [[Perception aveugle (capacité)|perception aveugle]] à 9 m, [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 15, pris au dépourvu 12 (Dex +5, natural +2)}
 {s:BDTexte|**pv** 30 (4d8+12)}
@@ -24,12 +24,12 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m, nage 12 m}
 {s:BDTexte|**Corps à corps** lance, +6 (1d8+4/×3)}
-{s:BDTexte|**Attaques spéciales** [attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) +2d6, sprint}
+{s:BDTexte|**Attaques spéciales** [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] +2d6, sprint}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 20, **Con** 16, **Int** 11, **Sag** 10, **Cha** 11}
 {s:BDTexte|**BBA** +3 ; **BMO** +6 ; **DMD** 21}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +9 (+17 sous l’eau), [Natation](./Natation.md) +16, [Perception](./Perception.md) +2 ; **Modificateurs raciaux** +8 en Discrétion (sous l’eau)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +9 (+17 sous l’eau), [[Natation]] +16, [[Perception]] +2 ; **Modificateurs raciaux** +8 en Discrétion (sous l’eau)}
 {s:BDTexte|**Langues** aquatique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans (fosses océaniques)}
@@ -37,13 +37,13 @@ Categories:
 {s:BDTexte|**Trésor** standard (lance, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Habitant des profondeurs (Ext).** Les hommes-poissons des profondeurs sont immunisés aux dégâts causés par la pression de l’eau. Leur corps s’ajuste instantanément aux différentes profondeurs.}
-{s:BDTexte|**Semi-transparent (Ext).** Les hommes-poissons des profondeurs sont très difficiles à repérer sous l’eau. Tant qu’ils restent à au moins 3 mètres de profondeur, ils bénéficient d'un [camouflage](./camouflage.md) et peuvent utiliser leur compétence [Discrétion](./Discrétion.md) en se déplaçant à leur vitesse normale sans malus. Dans les profondeurs de l’océan (à 900 mètres de profondeur ou plus), cet avantage se transforme en [camouflage total](./camouflage total.md).}
-{s:BDTexte|**Sprint (Ext).** Un homme-poisson des profondeurs peut [charger](./charge.md) ou [battre en retraite](./battre en retraite.md) à une vitesse pouvant atteindre jusqu’à trois fois sa vitesse de nage.}
+{s:BDTexte|**Semi-transparent (Ext).** Les hommes-poissons des profondeurs sont très difficiles à repérer sous l’eau. Tant qu’ils restent à au moins 3 mètres de profondeur, ils bénéficient d'un [[camouflage]] et peuvent utiliser leur compétence [[Discrétion]] en se déplaçant à leur vitesse normale sans malus. Dans les profondeurs de l’océan (à 900 mètres de profondeur ou plus), cet avantage se transforme en [[camouflage total]].}
+{s:BDTexte|**Sprint (Ext).** Un homme-poisson des profondeurs peut [[charge|charger]] ou [[battre en retraite]] à une vitesse pouvant atteindre jusqu’à trois fois sa vitesse de nage.}
 
 </div></td>
 <td><div>*Cette sirène émaciée a une longue queue semi-transparente surmontée d’une nageoire dorsale du même rouge vif que sa nageoireet caudale.*
 
-Tout comme les [hommes-poissons communs](./Homme-poisson.md), ceux des profondeurs possèdent un tronc humain et une queue de poisson, mais ils se sont adaptés pour survivre dans les profondeurs des océans. Leur peau est à la fois sombre et transparente, ce qui leur permet de passer inaperçus dans les profondeurs obscures de l’océan. Ils se parent parfois de teintures bioluminescentes avec lesquelles ils créent des points brillants le long de leur queue. Cela leur sert à la fois de moyen de communication silencieux et d’appât quand ils chassent.
+Tout comme les [[Homme-poisson|hommes-poissons communs]], ceux des profondeurs possèdent un tronc humain et une queue de poisson, mais ils se sont adaptés pour survivre dans les profondeurs des océans. Leur peau est à la fois sombre et transparente, ce qui leur permet de passer inaperçus dans les profondeurs obscures de l’océan. Ils se parent parfois de teintures bioluminescentes avec lesquelles ils créent des points brillants le long de leur queue. Cela leur sert à la fois de moyen de communication silencieux et d’appât quand ils chassent.
 
 Les hommes-poissons des profondeurs établissent des villages le long des fosses océaniques les plus profondes, là où ils chassent des créatures marines et récoltent des crustacés sur le plancher océanique. Ce sont des chasseurs réputés et il arrive que de petits groupes de chasseurs s’attaquent à des requins ou à d’autres grosses créatures rôdant dans les profondeurs. La méthode favorite de chasse des hommes-poissons consiste à tendre une embuscade à leur proie, attirant souvent leur cible à l’aide de leur bioluminescence. Cachés dans des crevasses ou sous le sable, ils comptent sur leur camouflage naturel pour passer inaperçus jusqu’au moment où ils déclencheront leurs pièges.
 

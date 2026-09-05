@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [invocation](./Invocation.md) ([guérison](./branche guérison.md)) ; **Niveau** [prêtre](./Prêtre.md) 8, [sorcière](./Sorcière.md) 8  
+**École** [[invocation]] ([[branche guérison|guérison]]) ; **Niveau** [[prêtre]] 8, [[sorcière]] 8  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui (inoffensif)  
 
-**Restriction de cible** *[choisi](./Choisi.md)*
+**Restriction de cible** *[[choisi]]*
 
-Cet effet fonctionne de la même manière que *[ranimer](./Ranimer.md)* mais il peut être utilisé sur une créature qui est morte depuis 1 jour par [niveau de lanceur](./NLS.md). La créature revient à la vie avec la moitié de ses points de vie et il n’est pas nécessaire que son corps soit entier (un seul morceau suffit). Les parties du corps qui manquaient avant sa mort ne sont pas restaurées. La cible reçoit un niveau négatif permanent qui disparaît au bout de 24 heures, même s’il peut être enlevé plus tôt comme à l’accoutumée, mais elle conserve tous les sorts préparés et les emplacements de sort qu’elle avait au moment de sa mort.
+Cet effet fonctionne de la même manière que *[[ranimer]]* mais il peut être utilisé sur une créature qui est morte depuis 1 jour par [[NLS|niveau de lanceur]]. La créature revient à la vie avec la moitié de ses points de vie et il n’est pas nécessaire que son corps soit entier (un seul morceau suffit). Les parties du corps qui manquaient avant sa mort ne sont pas restaurées. La cible reçoit un niveau négatif permanent qui disparaît au bout de 24 heures, même s’il peut être enlevé plus tôt comme à l’accoutumée, mais elle conserve tous les sorts préparés et les emplacements de sort qu’elle avait au moment de sa mort.

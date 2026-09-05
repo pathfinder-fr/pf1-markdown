@@ -10,12 +10,12 @@ Categories:
 
 {s:um}*Les créatures touchées par les sorts du registre du froid du personnage sont enchevêtrées. *
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
 **Avantage.** Le givre des sorts de froid du personnage s’accroche à la cible et la gêne pendant une courte période.
 
-Les créatures qui reçoivent des dégâts de froid de la part d’un sort gelé sont [enchevêtrées](./Enchevêtré.md) pendant un nombre de rounds égal au niveau originel du sort.
+Les créatures qui reçoivent des dégâts de froid de la part d’un sort gelé sont [[enchevêtré|enchevêtrées]] pendant un nombre de rounds égal au niveau originel du sort.
 
-Ce don affecte uniquement les sorts du [registre](./Présentation des sorts.md#REGISTRE) du froid.
+Ce don affecte uniquement les sorts du [[Présentation des sorts#REGISTRE|registre]] du froid.
 
-Un sort gelé utilise un [emplacement de sort](./emplacement de sort.md) d’un niveau de plus que le niveau réel du sort.
+Un sort gelé utilise un [[emplacement de sort]] d’un niveau de plus que le niveau réel du sort.

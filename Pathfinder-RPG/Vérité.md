@@ -15,21 +15,21 @@ Categories:
 ---
 
 {s:racial|Aasimar (race)|aasimars|Illustrations/PNJ/Aasimar.jpg}{s:MR}
-**École** [Divination](./école divination.md) ; **Niveau** [Bard](./Barde.md) 4, [Hyp](./Hypnotiseur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Prê](./Prêtre.md) 6, [Psy](./Psychiste.md) 5, [Sor](./Sorcière.md) 5  
+**École** [[école divination|Divination]] ; **Niveau** [[Barde|Bard]] 4, [[Hypnotiseur|Hyp]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 5, [[Sorcière|Sor]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** Lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
 **Jet de sauvegarde** aucun; **Résistance à la magie** non
 
 
 Le lanceur de sorts peut communiquer avec toutes les créatures qui ne sont pas dépourvues d’intelligence. Tant qu’il peut être entendu, toutes les créatures comprennent ce qu’il dit, chacune l’entendant comme s’il parlait sa langue ou utilisait un autre mode de communication naturel, et le lanceur de sorts comprend leurs réponses comme si ces créatures parlaient sa langue natale. Il peut poser des questions et recevoir des réponses, mais ce sort ne rend pas les créatures plus amicales ou plus coopératives qu’elles ne le sont normalement, et les êtres non doués de sensations risquent de donner des réponses limitées.
 
-Lorsque le lanceur de sorts utilise *vérité*, les [effets basés sur son langage](./Créer un sort.md#DEPENDANTDULANGAGE) peuvent affecter toutes les créatures qui ne sont pas dépourvues d’intelligence.
+Lorsque le lanceur de sorts utilise *vérité*, les [[Créer un sort#DEPENDANTDULANGAGE|effets basés sur son langage]] peuvent affecter toutes les créatures qui ne sont pas dépourvues d’intelligence.

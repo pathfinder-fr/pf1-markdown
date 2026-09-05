@@ -6,134 +6,134 @@ LastModified: 2024-07-21 23:42
 
 {s:MenuFAQoff}***Voir la [version originale](https://paizo.com/paizo/faq/v5748nruor1fo).***
 - **Général**
-- [Affinité avec l'énergie négative :](./.md#1) Comment cette capacité (Bestiaire 2, page 298) est-elle censée fonctionner ?
+- [[#1|Affinité avec l'énergie négative :]] Comment cette capacité (Bestiaire 2, page 298) est-elle censée fonctionner ?
 
-- [Bond :](./.md#2) Si je possède cette capacité (page 300), puis-je faire des attaques itératives avec des armes dans le cadre de mon attaque à outrance ?
+- [[#2|Bond :]] Si je possède cette capacité (page 300), puis-je faire des attaques itératives avec des armes dans le cadre de mon attaque à outrance ?
 
-- [Bond et *lenteur* :](./.md#3) Si une créature dotée de bond souffre d'un effet de *lenteur*, peut-elle toujours effectuer une attaque à outrance grâce à bond ?
+- [[#3|Bond et *lenteur* :]] Si une créature dotée de bond souffre d'un effet de *lenteur*, peut-elle toujours effectuer une attaque à outrance grâce à bond ?
 
-- [Bond et *rapidité* :](./.md#4) Si une créature dotée de bond bénéficie d'un effet de *rapidité*, et qu'elle charge, obtient-elle l'attaque supplémentaire de *rapidité* ?
+- [[#4|Bond et *rapidité* :]] Si une créature dotée de bond bénéficie d'un effet de *rapidité*, et qu'elle charge, obtient-elle l'attaque supplémentaire de *rapidité* ?
 
-- [Constriction :](./.md#5) Lorsqu'une créature avec la règle de monstre universelle constriction (*Bestiaire*, page 300) agrippe un adversaire, quand inflige-t-elle les dégâts de constriction ?
+- [[#5|Constriction :]] Lorsqu'une créature avec la règle de monstre universelle constriction (*Bestiaire*, page 300) agrippe un adversaire, quand inflige-t-elle les dégâts de constriction ?
 
-- [Créatures intangibles et « considéré comme magique » :](./.md#6) Mettons que j'ai une attaque qui est considérée comme magique dans le cadre de la réduction de dégâts, comme la réserve de ki (magique) du moine. Cela signifie-t-il que je ne peux pas blesser une créature intangible du tout, puisque l'attaque n'est pas considérée comme magique dans ce cadre ?
+- [[#6|Créatures intangibles et « considéré comme magique » :]] Mettons que j'ai une attaque qui est considérée comme magique dans le cadre de la réduction de dégâts, comme la réserve de ki (magique) du moine. Cela signifie-t-il que je ne peux pas blesser une créature intangible du tout, puisque l'attaque n'est pas considérée comme magique dans ce cadre ?
 
-- [Étreinte :](./.md#7) Les règles d'étreinte du *Bestiaire* indiquent que la capacité ne fonctionne que sur les créatures plus petites que le monstre, mais les règles d'étreinte du *Bestiaire 2* indique que la capacité fonctionne sur les créatures de la taille du monstre ou inférieure. Laquelle est correcte ?
+- [[#7|Étreinte :]] Les règles d'étreinte du *Bestiaire* indiquent que la capacité ne fonctionne que sur les créatures plus petites que le monstre, mais les règles d'étreinte du *Bestiaire 2* indique que la capacité fonctionne sur les créatures de la taille du monstre ou inférieure. Laquelle est correcte ?
 
-- [Griffes et serres :](./.md#8) Si j'obtiens des attaques de griffe, puis-je les placer sur mes pieds ?
+- [[#8|Griffes et serres :]] Si j'obtiens des attaques de griffe, puis-je les placer sur mes pieds ?
 
-- [Piétinement :](./.md#9) La règle de monstre universelle piétinement indique que le monstre se déplace dans le cadre du piétinement, mais ne précise jamais jusqu'où elle peut aller. Quelle distance une créature qui piétine peut-elle parcourir ?
+- [[#9|Piétinement :]] La règle de monstre universelle piétinement indique que le monstre se déplace dans le cadre du piétinement, mais ne précise jamais jusqu'où elle peut aller. Quelle distance une créature qui piétine peut-elle parcourir ?
 
-- [Réduction de dégâts :](./.md#10) Comment la RD interagit avec les effets magiques qui infligent des dégâts contondants, perforants, ou tranchants ?
+- [[#10|Réduction de dégâts :]] Comment la RD interagit avec les effets magiques qui infligent des dégâts contondants, perforants, ou tranchants ?
 
-- [Sorts :](./.md#11) Un monstre avec une capacité d'incantation peut-il utiliser des objets à fin d'incantation et à potentiel magique ?
+- [[#11|Sorts :]] Un monstre avec une capacité d'incantation peut-il utiliser des objets à fin d'incantation et à potentiel magique ?
 
 
 - **Monstres**
-- [Archons :](./.md#12) La capacité *téléportation suprême* des archons est-elle magique ou surnaturelle ? Les fiches des archons la liste comme un pouvoir magique, mais la description du sous-type archon la désigne comme surnaturelle.
+- [[#12|Archons :]] La capacité *téléportation suprême* des archons est-elle magique ou surnaturelle ? Les fiches des archons la liste comme un pouvoir magique, mais la description du sous-type archon la désigne comme surnaturelle.
 
-- [Créatures TP, Escalade et Natation :](./.md#13) Les créatures TP devraient-elles utiliser la Dex plutôt que la For aux tests d'Escalade et de Natation, ou est-ce réservé aux familiers ?
+- [[#13|Créatures TP, Escalade et Natation :]] Les créatures TP devraient-elles utiliser la Dex plutôt que la For aux tests d'Escalade et de Natation, ou est-ce réservé aux familiers ?
 
-- [Engloutissement :](./.md#14) Une fois que suffisamment de dégâts ont été infligés à l'intérieur d'un monstre, quel type d'action est nécessaire pour s'en échapper ?
+- [[#14|Engloutissement :]] Une fois que suffisamment de dégâts ont été infligés à l'intérieur d'un monstre, quel type d'action est nécessaire pour s'en échapper ?
 
-- [Vampire :](./.md#15) Lancer *désintégration* sur un vampire le détruit-il de façon permanente ?
+- [[#15|Vampire :]] Lancer *désintégration* sur un vampire le détruit-il de façon permanente ?
 
-- [Vampire :](./.md#16) Un rôdeur avec l'ennemi juré humanoïde (humain) obtient-il son bonus d'ennemi juré contre un humain devenu vampire ?
+- [[#16|Vampire :]] Un rôdeur avec l'ennemi juré humanoïde (humain) obtient-il son bonus d'ennemi juré contre un humain devenu vampire ?
 
 
 - **Création et progression**
-- [Changement de forme :](./.md#17) Une créature dotée de cette capacité utilise-t-elle la durée du sort *changement de forme*, et doit-elle le renouveler à chaque fois qu'il se termine ?
+- [[#17|Changement de forme :]] Une créature dotée de cette capacité utilise-t-elle la durée du sort *changement de forme*, et doit-elle le renouveler à chaque fois qu'il se termine ?
 
 ### Réponses générales
 {s:Reference|1}
 #### --Affinité avec l'énergie négative : Comment cette capacité (Bestiaire 2, page 298) est-elle censée fonctionner ?
-L'intention derrière cette <u>[capacité](./Affinité avec lénergie négative (capacité).md)</u> est que la créature soit soignée par l'énergie négative (comme un [mort-vivant](./type Mort-vivant.md)) et blessée par l'énergie positive (comme un mort-vivant) ; cet effet est automatique et n'a rien à voir avec l'intention de la cible ou de celui qui utilise l'énergie. En revanche, telle qu'écrite, la capacité est un peu floue à cause de l'expression « elle réagit comme », qui n'a pas de définition claire. Cette capacité sera modifiée dans la prochaine impression du *Bestiaire 2*.
+L'intention derrière cette <u>[[Affinité avec lénergie négative (capacité)|capacité]]</u> est que la créature soit soignée par l'énergie négative (comme un [[type Mort-vivant|mort-vivant]]) et blessée par l'énergie positive (comme un mort-vivant) ; cet effet est automatique et n'a rien à voir avec l'intention de la cible ou de celui qui utilise l'énergie. En revanche, telle qu'écrite, la capacité est un peu floue à cause de l'expression « elle réagit comme », qui n'a pas de définition claire. Cette capacité sera modifiée dans la prochaine impression du *Bestiaire 2*.
 Mise à jour : Page 298 — dans la description de affinité avec l'énergie négative, remplacez la description actuelle par la suivante :
-« **Affinité avec l'énergie négative (Ext).** La créature est vivante, mais est traitée comme un mort-vivant dans le cadre de tous les effets qui affectent les mort-vivants différemment des créatures vivantes, comme par exemple les sorts de *soins* et l'[énergie canalisée](./Prêtre.md#CANALISATIONDENERGIE). *Format :* affinité avec l'énergie négative ; *Emplacement :* Capacités défensives. »-- Les textes ont été corrigés sur ce point.
+« **Affinité avec l'énergie négative (Ext).** La créature est vivante, mais est traitée comme un mort-vivant dans le cadre de tous les effets qui affectent les mort-vivants différemment des créatures vivantes, comme par exemple les sorts de *soins* et l'[[Prêtre#CANALISATIONDENERGIE|énergie canalisée]]. *Format :* affinité avec l'énergie négative ; *Emplacement :* Capacités défensives. »-- Les textes ont été corrigés sur ce point.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|2}
 #### Bond : Si je possède cette capacité (page 300), puis-je faire des attaques itératives avec des armes dans le cadre de mon attaque à outrance ?
-Toute séquence d'attaque au corps à corps que le personnage peut effectuer dans le cadre d'une [attaque à outrance](./attaque à outrance.md) est autorisée dans le cadre d'une attaque de charge-bond-à outrance. Par exemple, un [barbare](./Barbare.md) avec le pouvoir de rage [animal totem majeur](./Pouvoirs de rage.md#ANIMALTOTEMMAJEUR) obtient la règle de monstre universelle <u>[bond](./Bond (capacité).md)</u> et pourrait effectuer des attaques itératives avec des armes de corps à corps manufacturées dans le cadre de son attaque de charge-bond-à outrance.
+Toute séquence d'attaque au corps à corps que le personnage peut effectuer dans le cadre d'une [[attaque à outrance]] est autorisée dans le cadre d'une attaque de charge-bond-à outrance. Par exemple, un [[barbare]] avec le pouvoir de rage [[Pouvoirs de rage#ANIMALTOTEMMAJEUR|animal totem majeur]] obtient la règle de monstre universelle <u>[[Bond (capacité)|bond]]</u> et pourrait effectuer des attaques itératives avec des armes de corps à corps manufacturées dans le cadre de son attaque de charge-bond-à outrance.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|3}
 #### Bond et *lenteur* : Si une créature dotée de bond souffre d'un effet de *lenteur*, peut-elle toujours effectuer une attaque à outrance grâce à bond ?
-Selon les règles écrites, <u>[bond](./Bond (capacité).md)</u> devrait autoriser son [attaque à outrance](./attaque à outrance.md) à la créature, malgré l'effet de *[lenteur](./Lenteur.md)*.
+Selon les règles écrites, <u>[[Bond (capacité)|bond]]</u> devrait autoriser son [[attaque à outrance]] à la créature, malgré l'effet de *[[lenteur]]*.
 (Cela fonctionne car il n'y a pas d'action de « charge partielle » en Pathfinder-JdR.)
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|4}
 #### Bond et *rapidité* : Si une créature dotée de bond bénéficie d'un effet de *rapidité*, et qu'elle charge, obtient-elle l'attaque supplémentaire de *rapidité* ?
-Oui.*(Retour à la <u>[capacité](./Bond (capacité).md)</u>)*
-Mise à jour 9/9/2013 : Il s'agit d'une révision de la façon dont *[rapidité](./Rapidité.md)* intéragit avec les effets qui simulent une attaque à outrance, même si la créature n'utilise pas explicitement l'action d'attaque à outrance (comme imposé par *rapidité*). La règle originale insinuait que bond n'autorisait pas l'attaque supplémentaire offerte par *rapidité* parce que bond n'utilisait pas l'action d'attaque à outrance.
+Oui.*(Retour à la <u>[[Bond (capacité)|capacité]]</u>)*
+Mise à jour 9/9/2013 : Il s'agit d'une révision de la façon dont *[[rapidité]]* intéragit avec les effets qui simulent une attaque à outrance, même si la créature n'utilise pas explicitement l'action d'attaque à outrance (comme imposé par *rapidité*). La règle originale insinuait que bond n'autorisait pas l'attaque supplémentaire offerte par *rapidité* parce que bond n'utilisait pas l'action d'attaque à outrance.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|5}
 #### Constriction : Lorsqu'une créature avec la règle de monstre universelle constriction (*Bestiaire*, page 300) agrippe un adversaire, quand inflige-t-elle les dégâts de constriction ?
-Une créature avec <u>[constriction](./Constriction (capacité).md)</u> inflige ces dégâts supplémentairse chaque fois qu'elle réussit un test de [lutte](./lutte.md) contre un adversaire. Cela inclut le premier test visant à initier la lutte (comme avec la règle de monstre universelle [étreinte](./Étreinte (capacité).md)).
+Une créature avec <u>[[Constriction (capacité)|constriction]]</u> inflige ces dégâts supplémentairse chaque fois qu'elle réussit un test de [[lutte]] contre un adversaire. Cela inclut le premier test visant à initier la lutte (comme avec la règle de monstre universelle [[étreinte (capacité)|étreinte]]).
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|6}
 #### Créatures intangibles et « considéré comme magique » : Mettons que j'ai une attaque qui est considérée comme magique dans le cadre de la réduction de dégâts, comme la réserve de ki (magique) du moine. Cela signifie-t-il que je ne peux pas blesser une créature intangible du tout, puisque l'attaque n'est pas considérée comme magique dans ce cadre ?
-De telles attaques devraient également être capables de blesser les créatures <u>[intangibles](./Intangible (capacité).md)</u> comme si l'attaque était magique. Cela sera reflété dans un futur errata.
+De telles attaques devraient également être capables de blesser les créatures <u>[[Intangible (capacité)|intangibles]]</u> comme si l'attaque était magique. Cela sera reflété dans un futur errata.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|7}
 #### Étreinte : Les règles d'étreinte du *Bestiaire* indiquent que la capacité ne fonctionne que sur les créatures plus petites que le monstre, mais les règles d'étreinte du *Bestiaire 2* indique que la capacité fonctionne sur les créatures de la taille du monstre ou inférieure. Laquelle est correcte ?
-Le *Bestiaire 2* est la nouvelle version mise à jour : <u>[étreinte](./Étreinte (capacité).md)</u> fonctionne sur les créatures dont la taille ne dépasse pas celle du monstre doté de la capacité étreinte. La prochaine fois que nous réimprimerons le *Bestiaire* original, nous mettrons à jour toutes les références à l'étreinte et aux capacités similaires pour refléter ce changement.
+Le *Bestiaire 2* est la nouvelle version mise à jour : <u>[[Étreinte (capacité)|étreinte]]</u> fonctionne sur les créatures dont la taille ne dépasse pas celle du monstre doté de la capacité étreinte. La prochaine fois que nous réimprimerons le *Bestiaire* original, nous mettrons à jour toutes les références à l'étreinte et aux capacités similaires pour refléter ce changement.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|8}
 #### Griffes et serres : Si j'obtiens des attaques de griffe, puis-je les placer sur mes pieds ?
-Si le personnage est une créature bipède (une forme vaguement humanoïde, avec deux armes et deux jambes), ses <u>[griffes](./Attaques naturelles (capacité).md)</u> doivent être sur ses mains, il ne peut pas les associer à quelconque autre partie du corps.
-Si le personnage est quadrupède (ou possède plus de quatre jambes), il peut avoir des griffes à ses pieds. Si le personnage a des griffes à tous ses pieds, il ne peut normalement pas utiliser toutes ces attaques de griffe à son tour sauf s'il possède une capacité spéciale comme [bond](./Bond (capacité).md) ou [éventration](./Éventration (capacité).md).
-Les serres sont similaires aux griffes, mais se placent sur les pieds d'une créature, généralement bipède (particulièrement une créature bipède volante comme un [aigle géant](./Aigle géant.md) ou une [harpie](./Harpie.md)). Une capacité qui offre des attaques de griffe ne peut pas être utilisée comme s'il s'agissait d'attaques de serre (autrement dit, vous ne pouvez pas « personnaliser » les effets techniques de la capacité pour pouvoir l'utiliser avec un membre différent).
+Si le personnage est une créature bipède (une forme vaguement humanoïde, avec deux armes et deux jambes), ses <u>[[Attaques naturelles (capacité)|griffes]]</u> doivent être sur ses mains, il ne peut pas les associer à quelconque autre partie du corps.
+Si le personnage est quadrupède (ou possède plus de quatre jambes), il peut avoir des griffes à ses pieds. Si le personnage a des griffes à tous ses pieds, il ne peut normalement pas utiliser toutes ces attaques de griffe à son tour sauf s'il possède une capacité spéciale comme [[Bond (capacité)|bond]] ou [[Éventration (capacité)|éventration]].
+Les serres sont similaires aux griffes, mais se placent sur les pieds d'une créature, généralement bipède (particulièrement une créature bipède volante comme un [[aigle géant]] ou une [[harpie]]). Une capacité qui offre des attaques de griffe ne peut pas être utilisée comme s'il s'agissait d'attaques de serre (autrement dit, vous ne pouvez pas « personnaliser » les effets techniques de la capacité pour pouvoir l'utiliser avec un membre différent).
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|9}
 #### Piétinement : La règle de monstre universelle piétinement indique que le monstre se déplace dans le cadre du piétinement, mais ne précise jamais jusqu'où elle peut aller. Quelle distance une créature qui piétine peut-elle parcourir ?
-Une créature qui piétine peut parcourir une distance égale au double de sa vitesse de base dans le cadre du <u>[piétinement](./Piétinement (capacité).md)</u>.
+Une créature qui piétine peut parcourir une distance égale au double de sa vitesse de base dans le cadre du <u>[[Piétinement (capacité)|piétinement]]</u>.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|10}
 #### Réduction de dégâts : Comment la RD interagit avec les effets magiques qui infligent des dégâts contondants, perforants, ou tranchants ?
-{s:Desambi|Cette question est un doublon de [celle du Manuel des joueurs](./FAQ- Manuel des joueurs (Combat).md#34).}Bien que la définition de la <u>[Réduction de dégâts](./Réduction de dégâts (capacité).md)</u> du Bestiaire (page 304) indique « La créature subit des dégâts normaux de la part des attaques d'énergie destructive (même non-magiques), des sorts, des pouvoirs magiques et des pouvoirs surnaturels », cela ne fait référence qu'aux dégâts dont le type (comme "dégâts de feu" ou "dégâts perforants"), n'est pas explicitement indiqué. Autrement dit, la RD ne protège pas contre les « dégâts non-typés » des attaques magiques.
+{s:Desambi|Cette question est un doublon de [[FAQ- Manuel des joueurs (Combat)#34|celle du Manuel des joueurs]].}Bien que la définition de la <u>[[Réduction de dégâts (capacité)|Réduction de dégâts]]</u> du Bestiaire (page 304) indique « La créature subit des dégâts normaux de la part des attaques d'énergie destructive (même non-magiques), des sorts, des pouvoirs magiques et des pouvoirs surnaturels », cela ne fait référence qu'aux dégâts dont le type (comme "dégâts de feu" ou "dégâts perforants"), n'est pas explicitement indiqué. Autrement dit, la RD ne protège pas contre les « dégâts non-typés » des attaques magiques.
 En revanche, si une attaque magique indique spécifiquement qu'elle inflige des dégâts contondants, perforants, ou tranchants, la RD affecte ces dégâts normalement, comme s'il provenaient d'une arme physique. (Sinon les attaques magiques n'auraient simplement pas de type de dégâts, puisqu'elles n'interagiraient avec les dégâts C/P/T que dans de très rares cas, comme pour définir si une vase se sépare ou non après une attaque.)
-Par exemple, le sort *[tempête de grêle](./Tempête de grêle.md)* inflige 3d6 points de dégâts contondants et 2d6 points de dégâts de froid. Si un personnage lance *tempête de grêle* sur un groupe de [zombis](./Zombi humain.md), la RD 5/tranchant des zombis les protègerait contre 5 points des dégâts contondants du sort. Leur RD ne les aide pas contre les dégâts de froid du sort puisqu'elle ne s'applique pas aux attaques d'énergie.
+Par exemple, le sort *[[tempête de grêle]]* inflige 3d6 points de dégâts contondants et 2d6 points de dégâts de froid. Si un personnage lance *tempête de grêle* sur un groupe de [[Zombi humain|zombis]], la RD 5/tranchant des zombis les protègerait contre 5 points des dégâts contondants du sort. Leur RD ne les aide pas contre les dégâts de froid du sort puisqu'elle ne s'applique pas aux attaques d'énergie.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|11}
 #### Sorts : Un monstre avec une capacité d'incantation peut-il utiliser des objets à fin d'incantation et à potentiel magique ?
-Oui, une créature avec une capacité d'incantation compte comme un membre de cette classe dans le cadre de tout effet ou capacité relative aux lancement de sorts de cette classe. Par exemple, elle peut utiliser les [objets à fin d'incantation](./Règles relatives aux objets magiques.md#OBJETSAFINDINCANTATION) et [à potentiel magique](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE) utilisables per cette classe ou utiliser les objets magiques qui affectent les sorts de cette classe (comme l’*[encens de méditation](./Encens de méditation.md)* ou une *[perle de thaumaturge](./Perle de thaumaturge.md)*).
+Oui, une créature avec une capacité d'incantation compte comme un membre de cette classe dans le cadre de tout effet ou capacité relative aux lancement de sorts de cette classe. Par exemple, elle peut utiliser les [[Règles relatives aux objets magiques#OBJETSAFINDINCANTATION|objets à fin d'incantation]] et [[Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|à potentiel magique]] utilisables per cette classe ou utiliser les objets magiques qui affectent les sorts de cette classe (comme l’*[[encens de méditation]]* ou une *[[perle de thaumaturge]]*).
 
 ### Réponses sur les monstres
 {s:Reference|12}
 #### Archons : La capacité *téléportation suprême* des archons est-elle magique ou surnaturelle ? Les fiches des archons la liste comme un pouvoir magique, mais la description du sous-type archon la désigne comme surnaturelle.
-Il s'agit d'un pouvoir magique. *(Retour à la <u>[règle](./sous-type archon.md)</u>)*
+Il s'agit d'un pouvoir magique. *(Retour à la <u>[[sous-type Archon|règle]]</u>)*
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|13}
 #### Créatures TP, Escalade et Natation : Les créatures TP devraient-elles utiliser la Dex plutôt que la For aux tests d'Escalade et de Natation, ou est-ce réservé aux familiers ?
-Toute <u>[créatures de taille TP ou inférieure](./Petites et grandes créatures.md#TAILLETPMINI)</u> devrait utiliser son modificateur de Dex plutôt que son modificateur de For aux tests d'[Escalade](./Escalade.md) et de [Natation](./Natation.md). Cela sera ajouté au *Bestiaire 4* sous la forme d’une nouvelle règle de monstre universelle.
+Toute <u>[[Petites et grandes créatures#TAILLETPMINI|créatures de taille TP ou inférieure]]</u> devrait utiliser son modificateur de Dex plutôt que son modificateur de For aux tests d'[[Escalade]] et de [[Natation]]. Cela sera ajouté au *Bestiaire 4* sous la forme d’une nouvelle règle de monstre universelle.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|14}
 #### Engloutissement : Une fois que suffisamment de dégâts ont été infligés à l'intérieur d'un monstre, quel type d'action est nécessaire pour s'en échapper ?
-Un personnage <u>[engloutit](./Engloutissement (capacité).md)</u> doit dépenser une [action simple](./Action simple.md), une [action de mouvement](./Action de mouvement.md) ou un [pas de placement](./Pas de placement.md) pour s'échapper. Cela s'applique que le personnage agissant soit celui qui s'est frayé un chemin vers la sortie ou qu'un autre personnage engloutit utilise la sortie creusée par un autre personnage.
+Un personnage <u>[[Engloutissement (capacité)|engloutit]]</u> doit dépenser une [[action simple]], une [[action de mouvement]] ou un [[pas de placement]] pour s'échapper. Cela s'applique que le personnage agissant soit celui qui s'est frayé un chemin vers la sortie ou qu'un autre personnage engloutit utilise la sortie creusée par un autre personnage.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|15}
 #### Vampire : Lancer *désintégration* sur un vampire le détruit-il de façon permanente ?
-Non. Il s'agit d'un cas de « quelle exception spéciale est prioritaire ? ». Puisque la description du <u>[vampire](./Vampire, archétype.md)</u> indique les méthodes qui permettent de tuer un vampire de façon permanente (et *[désintégration](./Désintégration.md)* n’en fait pas partie), et que *désintégration* ne précise pas qu'il « peut tuer de façon permanente une créature qui ne peut être tuée que sous certaines conditions », les règles du vampire sont prioritaires. Réduire les pv d'un vampire à 0 avec *désintégration* force simplement le vampire à adopter sa forme gazeuse, afin de se retirer dans son cercueil.
+Non. Il s'agit d'un cas de « quelle exception spéciale est prioritaire ? ». Puisque la description du <u>[[Vampire, archétype|vampire]]</u> indique les méthodes qui permettent de tuer un vampire de façon permanente (et *[[désintégration]]* n’en fait pas partie), et que *désintégration* ne précise pas qu'il « peut tuer de façon permanente une créature qui ne peut être tuée que sous certaines conditions », les règles du vampire sont prioritaires. Réduire les pv d'un vampire à 0 avec *désintégration* force simplement le vampire à adopter sa forme gazeuse, afin de se retirer dans son cercueil.
 
 <div style="border-top:1px dashed #4b3124">
 {s:Reference|16}
 #### Vampire : Un rôdeur avec l'ennemi juré humanoïde (humain) obtient-il son bonus d'ennemi juré contre un humain devenu vampire ?
-Non. Selon l'archétype <u>[vampire](./Vampire, archétype.md)</u>, un humain devenu vampire ne conserve pas le sous-type (humain), donc le bonus du [rôdeur](./Rôdeur.md) ne s'applique pas — le vampire n'est plus tout à fait humain. En général, [ennemi juré](./Rôdeur.md#ENNEMIJURE) humanoïde ne fonctionne pas contre une créature qui a un type autre que [humanoïde](./type Humanoïde.md) (comme dans le cas du vampire, qui est de type [mort-vivant](./type Mort-vivant.md)).
+Non. Selon l'archétype <u>[[Vampire, archétype|vampire]]</u>, un humain devenu vampire ne conserve pas le sous-type (humain), donc le bonus du [[rôdeur]] ne s'applique pas — le vampire n'est plus tout à fait humain. En général, [[Rôdeur#ENNEMIJURE|ennemi juré]] humanoïde ne fonctionne pas contre une créature qui a un type autre que [[type Humanoïde|humanoïde]] (comme dans le cas du vampire, qui est de type [[type Mort-vivant|mort-vivant]]).
 
 ### Réponses sur la création et la progression
 {s:Reference|17}
 #### --Changement de forme : Une créature dotée de cette capacité utilise-t-elle la durée du sort *changement de forme*, et doit-elle le renouveler à chaque fois qu'il se termine ?
-Tel qu'écrit à l'origine, étant donné la façon dont les règles de <u>[changement de forme](./Changement de forme (capacité).md)</u> fonctionnent en Pathfinder, une créature avec cette capacité doit la renouveler à intervalle de quelques minutes, puisqu'elle est basée sur un sort avec une durée. Cela affecte négativement les créatures telles que les [doppelgangers](./Doppelganger.md), qui vivent pendant de longues périodes sous une forme alternative, et le fait de devoir réactiver cette capacité ruinerait la ruse, d'autant plus que la créature ne pourrait pas le faire pendant son sommeil.
+Tel qu'écrit à l'origine, étant donné la façon dont les règles de <u>[[Changement de forme (capacité)|changement de forme]]</u> fonctionnent en Pathfinder, une créature avec cette capacité doit la renouveler à intervalle de quelques minutes, puisqu'elle est basée sur un sort avec une durée. Cela affecte négativement les créatures telles que les [[doppelganger|doppelgangers]], qui vivent pendant de longues périodes sous une forme alternative, et le fait de devoir réactiver cette capacité ruinerait la ruse, d'autant plus que la créature ne pourrait pas le faire pendant son sommeil.
 Le mode de fonctionnement de cette capacité sera mis à jour dans le *Bestiaire 2*. Pour l'instant, à moins que la description d'une créature ne dise le contraire, traitez toute créature dotée de changement de forme comme si elle avait la capacité de rester indéfiniment sous sa forme alternative, sans avoir besoin de réactiver la capacité. (SKR 23/9/10)-- Les textes ont été corrigés sur ce point.

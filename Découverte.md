@@ -17,7 +17,7 @@ Comment est-on arrivé à un tel embrouillamini de choses diverses qui portent l
 
 ### Un bref historique
 
-<!~~[imageright||{UP}/PCUP/Logos/Paizo%20Publishing%2C%20LLC.jpg]~~> Paizo n'est pas vraiment un boîte de jeu de rôle inconnue du public (du moins, du public anglophone). Ils ont été en charge des magazines frères Dungeon et Dragon pendant les dernières années de l'édition 3.5, une période où la qualité de ces publications a été universellement reconnue. Dungeon était un magazine publiant chaque mois quatre ou cinq aventures alors que Dragon présentait plutôt des articles de fond sur des thèmes divers, des options de règles et des critiques des suppléments. C'est à cette époque-là, dans les pages de Dungeon, que Paizo a publié les premiers *adventure paths* (littéralement routes pour l'aventure). Il s'agissait de suites de scénarios qui, mis bout à bout, constituaient des campagnes qui pouvaient emmener des personnages débutants de niveau 1 jusqu'à de hauts niveaux tout en leur faisant vivre une longue aventure tournant autour d'un thème central.
+<!~~<img src="{UP}/PCUP/Logos/Paizo%20Publishing%2C%20LLC.jpg" class="imageright" alt="">~~> Paizo n'est pas vraiment un boîte de jeu de rôle inconnue du public (du moins, du public anglophone). Ils ont été en charge des magazines frères Dungeon et Dragon pendant les dernières années de l'édition 3.5, une période où la qualité de ces publications a été universellement reconnue. Dungeon était un magazine publiant chaque mois quatre ou cinq aventures alors que Dragon présentait plutôt des articles de fond sur des thèmes divers, des options de règles et des critiques des suppléments. C'est à cette époque-là, dans les pages de Dungeon, que Paizo a publié les premiers *adventure paths* (littéralement routes pour l'aventure). Il s'agissait de suites de scénarios qui, mis bout à bout, constituaient des campagnes qui pouvaient emmener des personnages débutants de niveau 1 jusqu'à de hauts niveaux tout en leur faisant vivre une longue aventure tournant autour d'un thème central.
 
 La première *adventure path* était appelée ***Shackled City*** (la ville entravée) et se composait de treize aventures menant les personnages du niveau 1 au niveau 20 dans et autour de la ville de Cauldron, une cité bâtie dans la caldeira d'un volcan éteint. C'était un premier essai, qui comportait quelques erreurs de jeunesse, comme un plan de planning avant le début de la publication. Malgré cela, le concept était intéressant et avait bien marché. Ils ont donc continué ce format en sortant ***Age of Worms*** (l'ère des vers), une seconde campagne, puis une troisième appelée ***Savage Tide*** (la marée sauvage).
 
@@ -31,6 +31,6 @@ C'est ainsi que le nom **Pathfinder** s'est étendu pour couvrir non seulement l
 ### Pour en savoir plus
 
 Chacune des choses qui se cachent derrière le nom **Pathfinder** sont décrites de manière plus précise sur d'autres pages. Si c'est votre première rencontre avec Pathfinder, c'est une bonne idée de commencer votre lecture par là.
-- un aperçu de [Pathfinder-RPG](./Pathfinder-RPG/Aperçu.md), le système de jeu de rôle,
-- un aperçu de [Golarion](./Golarion/Aperçu.md), le monde de campagne,
-- un aperçu des [aventures et des campagnes](./Aventures/Aperçu.md) qui utilisent le premier et se déroulent dans le second.
+- un aperçu de [[Pathfinder-RPG.Aperçu|Pathfinder-RPG]], le système de jeu de rôle,
+- un aperçu de [[Golarion.Aperçu|Golarion]], le monde de campagne,
+- un aperçu des [[Aventures.Aperçu|aventures et des campagnes]] qui utilisent le premier et se déroulent dans le second.

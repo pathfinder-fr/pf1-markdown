@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#ANIMALTOTEMMINEUR
 ---
 
->>> [pouvoirs de rage#ANIMALTOTEMMINEUR](./Pouvoirs de rage.md#ANIMALTOTEMMINEUR)
+>>> [[pouvoirs de rage#ANIMALTOTEMMINEUR]]

@@ -8,6 +8,6 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-Quand la créature rate un [jet de sauvegarde](./JDS.md) contre un effet d’une durée supérieure à 1 [round](./round.md), elle peut réessayer d’annuler l’effet. Au début de son tour, si elle est toujours affectée, elle peut refaire son jet de sauvegarde par une [action libre](./Action libre.md). Si elle le réussit, les effets l’affligent comme si elle avait réussi son jet de sauvegarde initial. Si l’effet lui autorise déjà un autre jet de sauvegarde lors d’un prochain tour, afin d’y mettre fin, (comme *[immobilisation de monstre](./Immobilisation de monstre.md)*), ce pouvoir se rajoute au jet de sauvegarde supplémentaire autorisé par l’effet.
+Quand la créature rate un [[jds|jet de sauvegarde]] contre un effet d’une durée supérieure à 1 [[round]], elle peut réessayer d’annuler l’effet. Au début de son tour, si elle est toujours affectée, elle peut refaire son jet de sauvegarde par une [[action libre]]. Si elle le réussit, les effets l’affligent comme si elle avait réussi son jet de sauvegarde initial. Si l’effet lui autorise déjà un autre jet de sauvegarde lors d’un prochain tour, afin d’y mettre fin, (comme *[[immobilisation de monstre]]*), ce pouvoir se rajoute au jet de sauvegarde supplémentaire autorisé par l’effet.
 
 *Format :* second jet de sauvegarde ; *Emplacement :* après les jets de sauvegarde.

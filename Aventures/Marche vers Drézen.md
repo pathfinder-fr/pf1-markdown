@@ -6,7 +6,7 @@ Categories:
 - Campagne
 ---
 
-Voir aussi : [Aides de jeu AP13|La Colère des Justes], [La Plaie du monde](./../Golarion/Plaie du monde.md)
+Voir aussi : [[Aides de jeu AP13|La Colère des Justes]], [[Golarion.Plaie du monde|La Plaie du monde]]
 
 <table class="Bestiaire"><tr><td>
 <div class="BD">
@@ -16,7 +16,7 @@ Voir aussi : [Aides de jeu AP13|La Colère des Justes], [La Plaie du monde](./..
 **Influence démoniaques** Baphomet, Deskari, Pazuzu, Shax, Sifkesh, Xevéron
 (((Démographie)))
 **Habitants connus** : Aponavicius, Belsféreck, Eiandre, Firadreal, Isilda, Jaalika, Khorramazadeth le Roi des Tempeêtes, Xanthir Vang, Yracandra, Zelmisdria et Azrivauxus
-**Monstres et dangers** : Geysers abyssaux, failles abyssales, [Bébiliths](./../Pathfinder-RPG/Bébilith.md), fanatiques, [Vermine démoniaque](./../Pathfinder-RPG/Vermine démoniaque, archétype.md), [dwiergths](./Pathfinder-RPG-dwiergth.md), [apresoifs](./../Pathfinder-RPG/Âpresoif.md), herbes sangsues, nuées de néo-larves, [horreurs chasseresses](./../Pathfinder-RPG/Horreur chasseresse.md), [rampants des failles](./../Pathfinder-RPG/Rampant des failles.md), barbes de Shax, [Nuées de vescavores](./../Pathfinder-RPG/Nuée de vescavores.md), [Guêpes bellicistes](./../Pathfinder-RPG/Guêpe belliciste.md), [Distordus](./../Pathfinder-RPG/Distordu.md), [Dragons de la Plaie](./Pathfinder-RPG-Dragon-de-la-Plaie.md)
+**Monstres et dangers** : Geysers abyssaux, failles abyssales, [[Pathfinder-RPG.Bébilith|Bébiliths]], fanatiques, [[Pathfinder-RPG.Vermine démoniaque, archétype|Vermine démoniaque]], [[Pathfinder-RPG.dwiergth|dwiergths]], [[Pathfinder-RPG.âpresoif|apresoifs]], herbes sangsues, nuées de néo-larves, [[Pathfinder-RPG.horreur chasseresse|horreurs chasseresses]], [[Pathfinder-RPG.rampant des failles|rampants des failles]], barbes de Shax, [[Pathfinder-RPG.Nuée de vescavores|Nuées de vescavores]], [[Pathfinder-RPG.Guêpe belliciste|Guêpes bellicistes]], [[Pathfinder-RPG.Distordu|Distordus]], [[Pathfinder-RPG.Dragon de la Plaie|Dragons de la Plaie]]
 (((Géographie)))
 **Villes connues** : Drézen (7489), Iz (abandonnée)
 **Climat** : Venteux modéré
@@ -48,7 +48,7 @@ Voir aussi : [Aides de jeu AP13|La Colère des Justes], [La Plaie du monde](./..
 |-
 | 95 || Tempête de vent ou orage avec des tornades provoquant l'ouverture de 1d3 failles abyssales
 |-
-| 96-98 || Ouragan avec [tempêtes vengeresses](./../Pathfinder-RPG/Tempête vengeresse.md) localisées
+| 96-98 || Ouragan avec [[Pathfinder-RPG.Tempête vengeresse|tempêtes vengeresses]] localisées
 |-
 | 99-00 || Tempête abyssale
 |}
@@ -60,13 +60,13 @@ Voir aussi : [Aides de jeu AP13|La Colère des Justes], [La Plaie du monde](./..
 |- CLASS="titre"
 | d100 || Nourriture || Eau
 |- CLASS="premier"
-| 01-40 || [Démonite](./../Pathfinder-RPG/Maladies.md#DEMONITE) || [Démonite](./../Pathfinder-RPG/Maladies.md#DEMONITE)
+| 01-40 || [[Pathfinder-RPG.Maladies#DEMONITE|Démonite]] || [[Pathfinder-RPG.Maladies#DEMONITE|Démonite]]
 |-
-| 41-60 || [Psychose](./../Pathfinder-RPG/Santé mentale.md#PSYCHOSE) || Vers intestinaux
+| 41-60 || [[Pathfinder-RPG.santé mentale#PSYCHOSE|Psychose]] || Vers intestinaux
 |-
-| 61-90 || [Plaies (Mineure)](./../Pathfinder-RPG/Plaies.md) || [Mal aveuglant](./../Pathfinder-RPG/Maladies.md#MALAVEUGLANT)
+| 61-90 || [[Pathfinder-RPG.Plaies|Plaies (Mineure)]] || [[Pathfinder-RPG.Maladies#MALAVEUGLANT|Mal aveuglant]]
 |-
-| 91-95 || [Plaies (Majeure)](./../Pathfinder-RPG/Plaies.md) || [Peste démoniaque](./../Pathfinder-RPG/Maladies.md#PESTEINFERNALE)
+| 91-95 || [[Pathfinder-RPG.Plaies|Plaies (Majeure)]] || [[Pathfinder-RPG.Maladies#PESTEINFERNALE|Peste démoniaque]]
 |-
 | 96-100 || affliction de l'eau || affliction de la nourriture
 |}

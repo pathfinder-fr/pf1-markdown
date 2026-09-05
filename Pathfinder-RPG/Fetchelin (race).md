@@ -8,7 +8,7 @@ Categories:
 - Src Manuel des races
 ---
 
-{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Fetchelin.md) d'un fetchelin standard.***
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [[Fetchelin|fiche de créature]] d'un fetchelin standard.***
 
 Enfants des humains piégés sur le plan de l’Ombre, les fetchelins sont des créatures de ténèbres et de lumière. Des générations de contact avec ce plan étrange et ses habitants ont fait des fetchelins une race différente de l’humanité. Si les fetchelins connaissent leurs origines, ils n’affichent que très peu de ressemblances physiques ou culturelles avec leurs ancêtres du plan Matériel et se sentent souvent insultés lorsqu’on les compare aux humains. Certains membres de cette race s’offensent également du terme même de fetchelin, puisqu’il leur fut donné par les humains qui ne voyaient en eux que des dénicheurs de matériaux rares sur le plan de l’Ombre. La plupart des fetchelins préfèrent le terme de kayal, emprunté à l’aklo et se traduisant grossièrement par « peuple de l’ombre » ou « habitants du crépuscule ».
 
@@ -30,17 +30,17 @@ Investis de l’essence du plan de l’Ombre, avec un sang humain auquel se mêl
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 en [Dextérité](./Dextérité.md), +2 en [Charisme](./Charisme.md), -2 en [Sagesse](./Sagesse.md).** Les fetchelins sont vifs et énergiques, mais souvent étranges et facilement distraits par mille et une pensées.
-- **Extérieur natif.** Les fetchelins sont des [extérieurs](./type Extérieur.md) de sous-type [natif](./sous-type natif.md).
-- **Taille M.** Les fetchelins sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni bonus ni malus de taille.
-- **Vitesse normale.** Les fetchelins ont une [vitesse de base](./VD.md) de 9 mètres.
-- **Vision dans le noir.** Les fetchelins [voient dans le noir](./vision dans le noir (capacité).md) à 18 mètres.
-- **Vision nocturne.** Les fetchelins [voient deux fois plus loin](./Vision nocturne (capacité).md) que les humains en cas de faible luminosité.
-- **Compétent.** Les fetchelins ont un bonus racial de +2 à leurs tests de [Connaissances](./Connaissances.md) (plans) et de [Discrétion](./Discrétion.md).
-- **Fusion dans les ombres (Sur).** Les attaques contre un fetchelin en cas de faible luminosité ont 50 % de chances de rater au lieu des 20 % normaux. Cette capacité n’accorde pas de [camouflage total](./camouflage total.md), elle augmente simplement les chances de rater.
-- **Résistance des ombres.** Les fetchelins ont une [résistance](./Résistance (capacité).md) de 5 au froid et à l’électricité.
-- **Pouvoirs magiques (Mag).** Le fetchelin peut utiliser *[déguisement](./sort Déguisement.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) une fois par jour. Il peut prendre la forme de n’importe quelle créature [humanoïde](./type Humanoïde.md) utilisant ce pouvoir magique. Lorsqu’il atteint le niveau 9, quelle que soit sa combinaison de classe, il gagne *[traversée des ombres](./Traversée des ombres.md)* (personnelle uniquement) comme un pouvoir magique une fois par jour, et au niveau 13, il gagne celui de *[changement de plan](./Changement de plan.md)* (personnelle uniquement, vers le plan de l’Ombre ou le plan Matériel uniquement) utilisable une fois par jour. Le [niveau de lanceur de sorts](./NLS.md) du fetchelin pour ces capacités est égal à son niveau de personnage.
-- **Langues.** Les fetchelins commencent le jeu en parlant le commun. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues choisies parmi celles-ci : aérien, aklo, aquatique, draconique, D’ziriak (le comprennent uniquement, ne savent pas le parler), igné, terreux et toute langue humaine régionale.
+- **+2 en [[Dextérité]], +2 en [[Charisme]], -2 en [[Sagesse]].** Les fetchelins sont vifs et énergiques, mais souvent étranges et facilement distraits par mille et une pensées.
+- **Extérieur natif.** Les fetchelins sont des [[type Extérieur|extérieurs]] de sous-type [[sous-type natif|natif]].
+- **Taille M.** Les fetchelins sont des créatures de [[taille M]] qui ne reçoivent ni bonus ni malus de taille.
+- **Vitesse normale.** Les fetchelins ont une [[VD|vitesse de base]] de 9 mètres.
+- **Vision dans le noir.** Les fetchelins [[Vision dans le noir (capacité)|voient dans le noir]] à 18 mètres.
+- **Vision nocturne.** Les fetchelins [[Vision nocturne (capacité)|voient deux fois plus loin]] que les humains en cas de faible luminosité.
+- **Compétent.** Les fetchelins ont un bonus racial de +2 à leurs tests de [[Connaissances]] (plans) et de [[Discrétion]].
+- **Fusion dans les ombres (Sur).** Les attaques contre un fetchelin en cas de faible luminosité ont 50 % de chances de rater au lieu des 20 % normaux. Cette capacité n’accorde pas de [[camouflage total]], elle augmente simplement les chances de rater.
+- **Résistance des ombres.** Les fetchelins ont une [[Résistance (capacité)|résistance]] de 5 au froid et à l’électricité.
+- **Pouvoirs magiques (Mag).** Le fetchelin peut utiliser *[[sort Déguisement|déguisement]]* comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] une fois par jour. Il peut prendre la forme de n’importe quelle créature [[type Humanoïde|humanoïde]] utilisant ce pouvoir magique. Lorsqu’il atteint le niveau 9, quelle que soit sa combinaison de classe, il gagne *[[traversée des ombres]]* (personnelle uniquement) comme un pouvoir magique une fois par jour, et au niveau 13, il gagne celui de *[[changement de plan]]* (personnelle uniquement, vers le plan de l’Ombre ou le plan Matériel uniquement) utilisable une fois par jour. Le [[NLS|niveau de lanceur de sorts]] du fetchelin pour ces capacités est égal à son niveau de personnage.
+- **Langues.** Les fetchelins commencent le jeu en parlant le commun. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues choisies parmi celles-ci : aérien, aklo, aquatique, draconique, D’ziriak (le comprennent uniquement, ne savent pas le parler), igné, terreux et toute langue humaine régionale.
 
 </div>
 
@@ -49,22 +49,22 @@ Investis de l’essence du plan de l’Ombre, avec un sang humain auquel se mêl
 {s:MR}Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux fetchelins standards, mais consultez d’abord votre MJ.
 
 <u>*Modifie « compétent » :*</u>
-- **Arpenteur de monde.** Les fetchelins qui ont passé la plus grande partie de leur vie sur le plan Matériel peuvent s’habituer plus facilement à leurs nouveaux environnements. Plutôt que de gagner un bonus racial de +2 à leurs tests de [Connaissances](./Connaissances.md) (plans), ils gagnent un bonus racial de +1 à leurs tests de Connaissances (nature) et de Connaissances (folklore local). Ce trait racial modifie celui de compétent.
+- **Arpenteur de monde.** Les fetchelins qui ont passé la plus grande partie de leur vie sur le plan Matériel peuvent s’habituer plus facilement à leurs nouveaux environnements. Plutôt que de gagner un bonus racial de +2 à leurs tests de [[Connaissances]] (plans), ils gagnent un bonus racial de +1 à leurs tests de Connaissances (nature) et de Connaissances (folklore local). Ce trait racial modifie celui de compétent.
 
 <u>*Remplace « compétent » :*</u>
-- {s:cs}{s:ISR}**Agent des ombres.** Les familles fechtelines d'Absalom d'ombre et du Nidal gagnent leur vie en servant d'agents, de diplomates et d'espions entre les humains et les puissances du plan de l'Ombre. Ils bénéficient d'un bonus racial de +2 aux tests de [Bluff](./Bluff.md) et de [Diplomatie](./Diplomatie.md). Ce trait racial remplace compétent.
-- **Magie des ombres.** Les fetchelins qui passent leur temps à étudier la magie subtile de leur plan d’adoption bénéficient d’une intuition magique qui leur permet d’utiliser les sorts de l’ombre. Ces fetchelins gagnent un bonus racial de +1 au [DD](./DD.md) de tous les sorts d’[illusion (ombre)](./branche ombre.md) qu’ils lancent. Ce trait racial remplace celui de compétent.
+- {s:cs}{s:ISR}**Agent des ombres.** Les familles fechtelines d'Absalom d'ombre et du Nidal gagnent leur vie en servant d'agents, de diplomates et d'espions entre les humains et les puissances du plan de l'Ombre. Ils bénéficient d'un bonus racial de +2 aux tests de [[Bluff]] et de [[Diplomatie]]. Ce trait racial remplace compétent.
+- **Magie des ombres.** Les fetchelins qui passent leur temps à étudier la magie subtile de leur plan d’adoption bénéficient d’une intuition magique qui leur permet d’utiliser les sorts de l’ombre. Ces fetchelins gagnent un bonus racial de +1 au [[DD]] de tous les sorts d’[[branche ombre|illusion (ombre)]] qu’ils lancent. Ce trait racial remplace celui de compétent.
 
 <u>*Remplace « fusion dans les ombres » :*</u>
-- **Émissaire.** De rares fetchelins excellent en tant qu’émissaires entre le plan de l’Ombre et le plan Matériel. Une fois par jour, ils peuvent faire deux jets de dés lorsqu’ils font un test de [Bluff](./Bluff.md) ou de [Diplomatie](./Diplomatie.md), et conserver le meilleur résultat. Ce trait racial remplace fusion dans les ombres.
+- **Émissaire.** De rares fetchelins excellent en tant qu’émissaires entre le plan de l’Ombre et le plan Matériel. Une fois par jour, ils peuvent faire deux jets de dés lorsqu’ils font un test de [[Bluff]] ou de [[Diplomatie]], et conserver le meilleur résultat. Ce trait racial remplace fusion dans les ombres.
 
 <u>*Remplace « pouvoirs magiques » :*</u>
-- **Fin manipulateur.** Plutôt que de prendre la forme des autres, certains fetchelins sont doués pour détruire les souvenirs des autres créatures. Plutôt que de gagner le pouvoir magique *[déguisement](./Déguisement.md)*, ils peuvent utiliser le pouvoir magique *[trou de mémoire](./Trou de mémoire.md)* une fois par jour. Pour cette capacité, le niveau de lanceur de sorts du fetchelin est égal à son total de dés de vie. Ce trait racial modifie celui de pouvoirs magiques.
-- **Vibration des ténèbres.** Certains fetchelins peuvent manipuler l’énergie de l’ombre afin de se déplacer plutôt que de parcourir les ombres. Lorsqu’ils atteignent le niveau 9, plutôt que de gagner le pouvoir magique *[traversée des ombres](./Traversée des ombres.md)*, ils gagnent le pouvoir magique *[déplacement](./Déplacement.md)* utilisable deux fois par jour. Pour cette capacité, le niveau de lanceur de sorts du fetchelin est égal à son total de [dés de vie](./../Ressources/DV.md). Ce trait racial modifie celui de pouvoirs magiques.
+- **Fin manipulateur.** Plutôt que de prendre la forme des autres, certains fetchelins sont doués pour détruire les souvenirs des autres créatures. Plutôt que de gagner le pouvoir magique *[[déguisement]]*, ils peuvent utiliser le pouvoir magique *[[trou de mémoire]]* une fois par jour. Pour cette capacité, le niveau de lanceur de sorts du fetchelin est égal à son total de dés de vie. Ce trait racial modifie celui de pouvoirs magiques.
+- **Vibration des ténèbres.** Certains fetchelins peuvent manipuler l’énergie de l’ombre afin de se déplacer plutôt que de parcourir les ombres. Lorsqu’ils atteignent le niveau 9, plutôt que de gagner le pouvoir magique *[[traversée des ombres]]*, ils gagnent le pouvoir magique *[[déplacement]]* utilisable deux fois par jour. Pour cette capacité, le niveau de lanceur de sorts du fetchelin est égal à son total de [[DV|dés de vie]]. Ce trait racial modifie celui de pouvoirs magiques.
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -73,19 +73,19 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-**[Conjurateur](./Conjurateur.md).** L’[eidolon](./Conjurateur.md#EIDOLON) du conjurateur gagne une résistance de 1 contre le froid ou l’électricité. Chaque fois que le conjurateur choisit ce bonus, il augmente la résistance de son eidolon à l’un de ces types d’énergie de 1 (maximum de 10 pour chaque type d’énergie).
+**[[Conjurateur]].** L’[[Conjurateur#EIDOLON|eidolon]] du conjurateur gagne une résistance de 1 contre le froid ou l’électricité. Chaque fois que le conjurateur choisit ce bonus, il augmente la résistance de son eidolon à l’un de ces types d’énergie de 1 (maximum de 10 pour chaque type d’énergie).
 
-**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur ajoute +1/2 à sa résistance au froid ou à l’électricité (résistance maximum de 10 pour chaque type).
+**[[Ensorceleur]].** L’ensorceleur ajoute +1/2 à sa résistance au froid ou à l’électricité (résistance maximum de 10 pour chaque type).
 
-**[Magicien](./Magicien.md).** Le magicien ajoute un sort de sa [liste des sorts de magicien](./Liste des sorts densorceleursmagiciens.md) à son grimoire. Il doit être de niveau inférieur ou égal au plus haut niveau de sort qu’il peut lancer et appartenir à la branche d’[illusion (ombre)](./branche ombre.md) ou au [registre](./Registre.md) de l’obscurité.
+**[[Magicien]].** Le magicien ajoute un sort de sa [[Liste des sorts densorceleursmagiciens|liste des sorts de magicien]] à son grimoire. Il doit être de niveau inférieur ou égal au plus haut niveau de sort qu’il peut lancer et appartenir à la branche d’[[branche ombre|illusion (ombre)]] ou au [[registre]] de l’obscurité.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-**[Oracle](./Oracle.md).** L’oracle considère son niveau comme 1/3 supérieur quand il s’agit de déterminer lesquels de ses pouvoirs magiques raciaux il peut utiliser.
+**[[Oracle]].** L’oracle considère son niveau comme 1/3 supérieur quand il s’agit de déterminer lesquels de ses pouvoirs magiques raciaux il peut utiliser.
 
-**[Rôdeur](./Rôdeur.md).** Le rôdeur ajoute un bonus de +1/2 à ses tests de [Perception](./Perception.md) et de [Survie](./Survie.md) lorsqu'il se trouve sur le plan de l’Ombre.
+**[[Rôdeur]].** Le rôdeur ajoute un bonus de +1/2 à ses tests de [[Perception]] et de [[Survie]] lorsqu'il se trouve sur le plan de l’Ombre.
 
-**[Roublard](./Roublard.md).** Le roublard ajoute un bonus de +1/2 à ses tests de [Discrétion](./Discrétion.md) et d’[Escamotage](./Escamotage.md) dans les zones de [lumière faible](./Exploration.md#VISIONLUMIERE) et dans les [ténèbres](./Exploration.md#VISIONLUMIERE).
+**[[Roublard]].** Le roublard ajoute un bonus de +1/2 à ses tests de [[Discrétion]] et d’[[Escamotage]] dans les zones de [[Exploration#VISIONLUMIERE|lumière faible]] et dans les [[Exploration#VISIONLUMIERE|ténèbres]].
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -103,41 +103,41 @@ Ces dons sont accessibles aux fetchelins :
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Arpenteur des ombres](./Arpenteur des ombres.md) || <sup>UM</sup> || [Fetchelin](./Fetchelin (race).md), pouvoir magique traversée des ombres || Le personnage peut utiliser *[porte dimensionnelle](./Porte dimensionnelle.md)* comme pouvoir magique
+| [[Arpenteur des ombres]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], pouvoir magique traversée des ombres || Le personnage peut utiliser *[[porte dimensionnelle]]* comme pouvoir magique
 |- CLASS="premier"
-| [Fantôme d’ombre](./Fantôme dombre.md) || <sup>UM</sup> || [Fetchelin](./Fetchelin (race).md), pouvoir magique traversée des ombres || Le personnage dispose d'une utilisation par jour de plus son pouvoir traversée des ombres
+| [[Fantôme dombre|Fantôme d’ombre]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], pouvoir magique traversée des ombres || Le personnage dispose d'une utilisation par jour de plus son pouvoir traversée des ombres
 |- CLASS="premier"
-| [Frappe obscure](./Frappe obscure.md)* || <sup>UM</sup> || [Fetchelin](./Fetchelin (race).md), [Combat en aveugle](./Combat en aveugle.md) || +1 au jet d'attaque dans les endroits sombres
+| [[Frappe obscure]]* || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], [[Combat en aveugle]] || +1 au jet d'attaque dans les endroits sombres
 |- CLASS="premier"
-| [Vision obscure](./Vision obscure.md) || <sup>UM</sup> || [Fetchelin](./Fetchelin (race).md) || Vision dans le noir à 27 m (18 {s:c})
+| [[Vision obscure]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]] || Vision dans le noir à 27 m (18 {s:c})
 |-
-| &emsp;[Vision ténébreuse](./Vision ténébreuse.md) || <sup>UM</sup> || [Fetchelin](./Fetchelin (race).md), [Vision obscure](./Vision obscure.md) || Les personnages a une vision limitée dans les ténèbres magiques
+| &emsp;[[Vision ténébreuse]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], [[Vision obscure]] || Les personnages a une vision limitée dans les ténèbres magiques
 |-
-| &emsp;&emsp;[Vision ténébreuse supérieure](./Vision ténébreuse supérieure.md) || <sup>UM</sup> || [Fetchelin](./Fetchelin (race).md), [Vision obscure](./Vision obscure.md), [Vision ténébreuse](./Vision ténébreuse.md) || le personnage gagne la capacité de [vision dans les ténèbres](./Vision dans les ténèbres.md)
+| &emsp;&emsp;[[Vision ténébreuse supérieure]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], [[Vision obscure]], [[Vision ténébreuse]] || le personnage gagne la capacité de [[vision dans les ténèbres]]
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes
 Ces archétypes raciaux sont accessibles aux fetchelins :
-- [Héraut des ombres (conjurateur)](./Héraut des ombres (conjurateur).md)
-- [Traqueur du crépuscule (rôdeur)](./Traqueur du crépuscule (rôdeur).md)
+- [[Héraut des ombres (conjurateur)]]
+- [[Traqueur du crépuscule (rôdeur)]]
 
 #### Équipement
 Les fetchelins ont accès à l’équipement suivant :
-- [Lanterne de lumière noire](./Lanterne de lumière noire (objet).md)
-- [Lunettes de vision obscure](./Lunettes de vision obscure (objet).md)
-- [Fiole de nectar d'ombre](./Fiole de nectar dombre (objet).md)
+- [[Lanterne de lumière noire (objet)|Lanterne de lumière noire]]
+- [[Lunettes de vision obscure (objet)|Lunettes de vision obscure]]
+- [[Fiole de nectar dombre (objet)|Fiole de nectar d'ombre]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Objets magiques
 Ces objets magiques sont spécifiques aux fetchelins :
-- [Amulette de lumière cachée](./Amulette de lumière cachée.md)
-- [Fenêtre vacillante](./Fenêtre vacillante.md)
-- [Lanterne d’ombres dansantes](./Lanterne dombres dansantes.md)
+- [[Amulette de lumière cachée]]
+- [[Fenêtre vacillante]]
+- [[Lanterne dombres dansantes|Lanterne d’ombres dansantes]]
 
 #### Sorts
 Ces sorts sont réservés aux fetchelins :
-- ***[Éclairs d'obscurité aveuglante](./Éclairs dobscurité aveuglante.md)*** *(MR)* ([Ens](./Ensorceleur.md)/[Mag 3](./Magicien.md), [Magus 3](./Magus.md), [San 3](./Sanguin.md), [Sor 3](./Sorcière.md)). Créé des éclairs d'énergie négative qui blessent les vivants, soignent les morts-vivants, et qui peuvent aveugler les cibles.
-- ***[Havresombre](./Havresombre.md)*** *(MR)* ([Ens](./Ensorceleur.md)/[Mag 4](./Magicien.md), [Psy 4](./Psychiste.md)). Ce sort crée un abri extra-dimensionnel temporaire
+- ***[[Éclairs dobscurité aveuglante|Éclairs d'obscurité aveuglante]]*** *(MR)* ([[Ensorceleur|Ens]]/[[Magicien|Mag 3]], [[Magus|Magus 3]], [[Sanguin|San 3]], [[Sorcière|Sor 3]]). Créé des éclairs d'énergie négative qui blessent les vivants, soignent les morts-vivants, et qui peuvent aveugler les cibles.
+- ***[[Havresombre]]*** *(MR)* ([[Ensorceleur|Ens]]/[[Magicien|Mag 4]], [[Psychiste|Psy 4]]). Ce sort crée un abri extra-dimensionnel temporaire
 
 </div></div>

@@ -8,10 +8,10 @@ Categories:
 
 *Les talents d’artisan du personnage lui permettent de créer des objets magiques simples.*
 
-**Condition.** 5 rangs en [Artisanat](./Artisanat.md) ou [Profession](./Profession.md).
+**Condition.** 5 rangs en [[Artisanat]] ou [[Profession]].
 
-**Avantage.** Le personnage choisit une compétence d’[Artisanat](./Artisanat.md) ou de [Profession](./Profession.md) dans laquelle il a au moins 5 [rangs](./rang.md). Il reçoit un bonus de +2 aux [tests de cette compétence](./test de compétence.md). Les [rangs](./rang.md) dont il dispose dans cette compétence comptent comme [niveau de lanceur de sorts](./NLS.md) quand il s’agit de savoir s’il répond aux critères des dons de [Création d’armes et armures magiques](./Création darmes et armures magiques.md) et de [Création d’objets merveilleux](./Création dobjets merveilleux.md).
+**Avantage.** Le personnage choisit une compétence d’[[Artisanat]] ou de [[Profession]] dans laquelle il a au moins 5 [[rang|rangs]]. Il reçoit un bonus de +2 aux [[test de compétence|tests de cette compétence]]. Les [[rang|rangs]] dont il dispose dans cette compétence comptent comme [[NLS|niveau de lanceur de sorts]] quand il s’agit de savoir s’il répond aux critères des dons de [[Création darmes et armures magiques|Création d’armes et armures magiques]] et de [[Création dobjets merveilleux|Création d’objets merveilleux]].
 
-Il peut [créer des objets magiques](./Création dobjets magiques.md) à l’aide de ces dons en utilisant son [rang](./rang.md) dans la compétence choisie comme [niveau de lanceur de sorts](./NLS.md). Il doit se servir de la compétence choisie pour faire le test de création de l’objet. Le [DD](./DD.md) de création augmente tout de même en fonction des conditions nécessaires pour lancer le sort (voir les règles de [création d’objets magiques](./Création dobjets magiques.md)). Le personnage ne peut pas utiliser ce don pour créer un déclencheur de sorts ou un objet qui s’active avec un sort.
+Il peut [[Création dobjets magiques|créer des objets magiques]] à l’aide de ces dons en utilisant son [[rang]] dans la compétence choisie comme [[NLS|niveau de lanceur de sorts]]. Il doit se servir de la compétence choisie pour faire le test de création de l’objet. Le [[DD]] de création augmente tout de même en fonction des conditions nécessaires pour lancer le sort (voir les règles de [[Création dobjets magiques|création d’objets magiques]]). Le personnage ne peut pas utiliser ce don pour créer un déclencheur de sorts ou un objet qui s’active avec un sort.
 
-**Normal.** Seuls les lanceurs de sorts peuvent choisir les dons [Création d’armes et armures magiques](./Création darmes et armures magiques.md) et [Création d’objets merveilleux](./Création dobjets merveilleux.md).
+**Normal.** Seuls les lanceurs de sorts peuvent choisir les dons [[Création darmes et armures magiques|Création d’armes et armures magiques]] et [[Création dobjets merveilleux|Création d’objets merveilleux]].

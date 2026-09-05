@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Dru](./Druide.md) 4, [Rôd](./Rôdeur.md) 3  
+**École** [[Nécromancie]] ; **Niveau** [[Druide|Dru]] 4, [[Rôdeur|Rôd]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature vivante touchée  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-Le personnage donne à une créature le pouvoir d'infliger des dégâts de [saignement](./Saignement.md) quand elle effectue une [attaque naturelle](./attaque naturelle.md) tant que cette dernière provoque des dégâts perforants ou tranchants. Les dégâts de [saignement](./Saignement.md) de chaque attaque sont égaux à la moitié du [niveau de lanceur de sorts](./NLS.md) (limité à la valeur maximale de dégâts causés par la créature lors de l'attaque). Les dégâts de [saignement](./Saignement.md) ne se cumulent pas, quand deux attaques ou plus infligent ce type de dégâts, prenez la meilleure valeur.
+Le personnage donne à une créature le pouvoir d'infliger des dégâts de [[saignement]] quand elle effectue une [[attaque naturelle]] tant que cette dernière provoque des dégâts perforants ou tranchants. Les dégâts de [[saignement]] de chaque attaque sont égaux à la moitié du [[NLS|niveau de lanceur de sorts]] (limité à la valeur maximale de dégâts causés par la créature lors de l'attaque). Les dégâts de [[saignement]] ne se cumulent pas, quand deux attaques ou plus infligent ce type de dégâts, prenez la meilleure valeur.

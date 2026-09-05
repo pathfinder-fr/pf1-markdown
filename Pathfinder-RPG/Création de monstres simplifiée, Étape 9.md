@@ -6,12 +6,12 @@ Categories:
 - Src Pathfinder unchained
 ---
 
-{s:MenuPathfinderunchained}{s:PU}<nav class="wiki-toc"></nav>Chaque arme et chaque type d’attaque naturelle est associé à une valeur exprimée en dés de dégâts. Les valeurs indiquées dans les gammes de monstres de l’[Étape 1](./Création de monstres simplifiée, Étape 1.md) ne donnent que le nombre total de dégâts que chaque attaque inflige. Le fait d’attribuer les bons dés de dégâts à chaque attaque du monstre permet d’inscrire plus naturellement ce monstre dans le reste des règles du jeu. Pour les dés de dégâts des attaques naturelles, consultez la table "[Les attaques naturelles selon la taille](./Attaques naturelles (capacité).md#TABLEATTAQUENATURELLE)'' du Bestiaire.
+{s:MenuPathfinderunchained}{s:PU}<nav class="wiki-toc"></nav>Chaque arme et chaque type d’attaque naturelle est associé à une valeur exprimée en dés de dégâts. Les valeurs indiquées dans les gammes de monstres de l’[[Création de monstres simplifiée, Étape 1|Étape 1]] ne donnent que le nombre total de dégâts que chaque attaque inflige. Le fait d’attribuer les bons dés de dégâts à chaque attaque du monstre permet d’inscrire plus naturellement ce monstre dans le reste des règles du jeu. Pour les dés de dégâts des attaques naturelles, consultez la table "[[Attaques naturelles (capacité)#TABLEATTAQUENATURELLE|Les attaques naturelles selon la taille]]'' du Bestiaire.
 
 ### L'attribution des dégâts
 Pour chacune des attaques du monstre, croisez les références du nombre total de dégâts infligés avec le type de dés approprié, à l’aide de la table ci-dessous. Cela déterminera les dés de dégâts à utiliser ainsi qu’un modificateur fixe de dégâts. Utilisez ces dés et modificateurs pour les jets de dégâts des attaques de votre monstre.
 
-Par exemple, si vous avez créé un [combattant](./Création de monstres simplifiée, Étape 1.md#COMBATTANT) de [FP](./FP.md) 5 qui manie une arme, sa valeur de dégâts maximale pour une seule attaque est de 11. Si vous le dotez d’une [épée courte](./épée courte (arme).md) (qui inflige 1d6 points de dégâts), consultez la ligne 9-11 croisée avec la colonne 1d6 du tableau ci-dessous : vous obtenez 1d6+7.
+Par exemple, si vous avez créé un [[Création de monstres simplifiée, Étape 1#COMBATTANT|combattant]] de [[FP]] 5 qui manie une arme, sa valeur de dégâts maximale pour une seule attaque est de 11. Si vous le dotez d’une [[épée courte (arme)|épée courte]] (qui inflige 1d6 points de dégâts), consultez la ligne 9-11 croisée avec la colonne 1d6 du tableau ci-dessous : vous obtenez 1d6+7.
 
 {| CLASS="tablo centre autoalt" WIDTH="100%"
 |+ Valeurs des dés de dégâts
@@ -88,4 +88,4 @@ Par exemple, si vous avez créé un [combattant](./Création de monstres simplif
 ### Rajouter des attaques à un monstre
 Si un monstre nécessite plus d’attaques que ce que lui autorise sa gamme, calculez les dégâts par vous-même. Commencez par combiner les valeurs de dégâts de la gamme du monstre : un monstre qui inflige 20 points de dégâts avec deux attaques naturelles devrait infliger 40 points de dégâts au total. Si le monstre dispose d’un plus grand nombre d’attaques secondaires (qui sont moins susceptibles de toucher), augmentez la valeur totale des dégâts de 25% ou de 50%. Enfin, divisez le total par le nombre d’attaques total avant de consulter la table. Vous n’êtes pas obligé de procéder à une distribution équitable si certaines attaques sont censées infliger moins de dégâts.
 
-Si vous souhaitez augmenter le nombre d’attaques et les dégâts infligés, utilisez l’option [attaque supplémentaire](./Création de monstres simplifiée, Étape 7.md#ATTAQUESUPPLEMENTAIRE) à la place.
+Si vous souhaitez augmenter le nombre d’attaques et les dégâts infligés, utilisez l’option [[Création de monstres simplifiée, Étape 7#ATTAQUESUPPLEMENTAIRE|attaque supplémentaire]] à la place.

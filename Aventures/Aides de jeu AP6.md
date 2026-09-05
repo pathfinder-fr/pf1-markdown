@@ -4,7 +4,7 @@ Title: Kingmaker
 LastModified: 2021-07-29 21:05
 ---
 
-Vous trouverez la présentation de cette campagne sur [cette page](./Présentation AP6.md).
+Vous trouverez la présentation de cette campagne sur [[Présentation AP6|cette page]].
 
 <nav class="wiki-toc"></nav>
 
@@ -46,14 +46,14 @@ Ainsi que :
 <td>{s:ADJ|DISCOURSGREGORI|Discours de Grigori|/ADJ/Aventures/Icone sage discours.jpg|/ADJ/Aventures/AP 6 Discours Grigori.rar|Un exemple de discours pour Grigori (fichier Word dans RAR)|Orichalque|none}</td>
 </tr>
 <tr STYLE="vertical-align: top;">
-<td>{s:ADJExt|MODIFSPATH32|Aides de jeu|/ADJ/Aventures/Icone AidesjeuAP6.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2032.ashx|Des aides de jeu et des modifications pour jouer le volume "Quand les rivières se teintent de rouge". ([page wiki](./Aides de jeu Pathfinder 32.md))|Papyrolf|none}</td>
+<td>{s:ADJExt|MODIFSPATH32|Aides de jeu|/ADJ/Aventures/Icone AidesjeuAP6.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2032.ashx|Des aides de jeu et des modifications pour jouer le volume "Quand les rivières se teintent de rouge". ([[Aides de jeu Pathfinder 32|page wiki]])|Papyrolf|none}</td>
 </tr>
 </table>
 
 ### Aides de jeu pour The Varnhold vanishing/Les disparus de Varnhold
 {s:ADJStart}
 <tr STYLE="vertical-align: top;">
-<td>{s:ADJExt|MODIFSPATH33pour6|Aides de jeu|/ADJ/Aventures/Icone AidesjeuAP6.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2033%20pour%206%20joueurs.ashx|Une aide de jeu pour jouer les rencontres des "Disparus de Varnhold" avec 6 joueurs ([page wiki](./Aides de jeu Pathfinder 33 pour 6 joueurs.md))|Shock Nar|none}</td>
+<td>{s:ADJExt|MODIFSPATH33pour6|Aides de jeu|/ADJ/Aventures/Icone AidesjeuAP6.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2033%20pour%206%20joueurs.ashx|Une aide de jeu pour jouer les rencontres des "Disparus de Varnhold" avec 6 joueurs ([[Aides de jeu Pathfinder 33 pour 6 joueurs|page wiki]])|Shock Nar|none}</td>
 <td>{s:ADJ|CHARTECENT|Charte des centaures|/ADJ/Aventures/AP 6 Charte_centauresMini.jpg|/ADJ/Aventures/AP6 Charte centaures.pdf|Une charte lançant les PJ à la chasse des centaures (fichier PDF)|Orichalque|none}</td>
 <td>{s:ADJ|MISSIVEALDORI|Missive de Jamandi Aldori|/ADJ/Aventures/AP6 Missive de Jamandi AldoriMini.jpg|/ADJ/Aventures/AP 6 Missive de Jamandi Aldori.pdf|Missive de Jamandi Aldori demandant aux PJ d'enquêter à Varnhold (fichier PDF)|Orichalque|none}</td>
 </tr>
@@ -61,7 +61,7 @@ Ainsi que :
 
 ### Aides de jeu pour Blood for Blood/Le Prix du sang
 {s:ADJStart}
-<td>{s:ADJExt|MODIFSPATH34pour6|Aides de jeu|/ADJ/Aventures/Icone AidesjeuAP6.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2034%20pour%206%20joueurs.ashx|Une aide de jeu pour jouer les rencontres du volume "Le prix du sang" avec 6 joueurs ([page wiki](./Aides de jeu Pathfinder 34 pour 6 joueurs.md))|Shock Nar|none}</td>
+<td>{s:ADJExt|MODIFSPATH34pour6|Aides de jeu|/ADJ/Aventures/Icone AidesjeuAP6.jpg|http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2034%20pour%206%20joueurs.ashx|Une aide de jeu pour jouer les rencontres du volume "Le prix du sang" avec 6 joueurs ([[Aides de jeu Pathfinder 34 pour 6 joueurs|page wiki]])|Shock Nar|none}</td>
 </tr>
 </table>
 ### Aides de jeu pour Sound of a Thousand Screams

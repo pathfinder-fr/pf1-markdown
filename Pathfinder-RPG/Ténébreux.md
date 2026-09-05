@@ -11,16 +11,16 @@ LastModified: 2021-04-17 19:47
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Ailé ténébreux](./Ailé ténébreux.md) || 14
+| [[Ailé ténébreux]] || 14
 |-
-| [Marcheur ténébreux](./Marcheur ténébreux.md) || 16
+| [[Marcheur ténébreux]] || 16
 |-
-| [Rampant ténébreux](./Rampant ténébreux.md) || 18
+| [[Rampant ténébreux]] || 18
 |-
-| [Vague ténébreuse](./Vague ténébreuse.md) || 20
+| [[Vague ténébreuse]] || 20
 |}
 </div></div><div class="description">**Source :** Bestiaire 2, p.261.</div>
-*Types/Sous-types associés : [Mort-vivant](./type Mort-vivant.md) ([extraplanaire](./sous-type extraplanaire.md), [ténébreux](./sous-type Ténébreux.md)).*
+*Types/Sous-types associés : [[type Mort-vivant|Mort-vivant]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type ténébreux|ténébreux]]).*
 
 Les ténébreux forment une race maléfique et mystérieuse
 d’abominations nécrotiques composées à part égale de ténèbres et
@@ -33,7 +33,7 @@ de sorte que l’existence tout entière puisse succomber à la douce
 étreinte des ténèbres et de la mort. À cette fin, les ténébreux suivent
 un seul but : l’annihilation de tout ce qui est, a été ou sera.
 
-Les ténébreux peuvent faire appel aux légions des [morts-vivants](./type Mort-vivant.md)
+Les ténébreux peuvent faire appel aux légions des [[type mort-vivant|morts-vivants]]
 et des esprits des ombres, des créatures qui, comme eux,
 haïssent la brûlure du soleil et la douce étincelle de la vie. Les
 ténébreux s’allient aussi, bien que très rarement, avec des êtres
@@ -96,7 +96,7 @@ deviennent les serviteurs des ténébreux mais seule l’essence de
 leur immortalité peut fournir l’énergie suffisante pour créer la
 non-vie qui anime leurs maîtres.
 
-Les ténébreux les plus courants sont les [marcheurs ténébreux](./Marcheur ténébreux.md),
+Les ténébreux les plus courants sont les [[marcheur ténébreux|marcheurs ténébreux]],
 des fiélons géants qui se déplacent rapidement et dirigent souvent
 des armées de morts-vivants. Ce sont les généraux des armées des
 ténébreux et ils commandent les légions et organisent la mort des
@@ -105,7 +105,7 @@ mondes.
 Dans les endroits que les marcheurs ténébreux ne peuvent
 aisément atteindre, dans les vastes profondeurs de la mer et dans
 les hauteurs au-dessus des nuages, d’autres ténébreux prennent
-le contrôle. Au-dessus planent les [ailés ténébreux](./Ailé ténébreux.md), d’immenses
+le contrôle. Au-dessus planent les [[ailé ténébreux|ailés ténébreux]], d’immenses
 chauves-souris qui possèdent des pouvoirs mortels mais se
 contentent de servir leurs cousins plus puissants. Quand ces
 monstruosités viennent sur le plan Matériel, elles plongent dès
@@ -115,7 +115,7 @@ de faire sombrer des nations entières.
 
 Tout comme les hauteurs, les profondeurs elles aussi
 accueillent des ténébreux qui rampent et glissent dans les
-ténèbres. Les [rampants ténébreux](./Rampant ténébreux.md), de gigantesques vers d’ombre,
+ténèbres. Les [[rampant ténébreux|rampants ténébreux]], de gigantesques vers d’ombre,
 s’installent dans les grottes oubliées enfouies loin sous la
 surface. Ils ne les quittent que très rarement mais, lorsqu’ils le
 font, ce sont des royaumes entiers qui meurent écrasés dans les
@@ -123,7 +123,7 @@ replis sombres de leur corps impossibles à arrêter.
 
 Malgré tout le potentiel destructeur cauchemardesque de ces
 parangons morts-vivants, ils font pâle figure à côté des ténébreux
-les plus puissantes, les [vagues ténébreuses](./Vague ténébreuse.md). Ces monstruosités
+les plus puissantes, les [[vague ténébreuse|vagues ténébreuses]]. Ces monstruosités
 ressemblant à des requins sillonnent les profondeurs obscures
 des failles océaniques et s’attaquent aux races aquatiques ou
 rassemblent les âmes des innombrables morts qui se sont noyés.

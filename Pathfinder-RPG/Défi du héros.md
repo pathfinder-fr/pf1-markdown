@@ -10,16 +10,16 @@ Categories:
 ---
 
 {s:APG}
-**École** [Invocation](./Invocation.md) ([guérison](./branche guérison.md)) ;** Niveau** [Pal](./Paladin.md) 1  
+**École** [[Invocation]] ([[branche guérison|guérison]]) ;** Niveau** [[Paladin|Pal]] 1  
 
-**Temps d'incantation** 1 [action immédiate](./Action immédiate.md)  
+**Temps d'incantation** 1 [[action immédiate]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[Composantes|V]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)
+**Durée** [[Présentation des sorts#DUREE|instantanée]]
 
-Un instant avant que le personnage ne tombe à 0 point de vie ou moins, il peut utiliser une [imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) pour se soigner comme s'il avait utilisé ce pouvoir en bénéficiant de 1d6 points de vie guéris supplémentaires. Si ceci fait repasser son total de points de vie au-dessus de 0, le personnage ne tombe pas et peut continuer d'agir. Si le personnage a déjà utilisé toutes ses [impositions](./Paladin.md#IMPOSITIONDESMAINS), le sort n'a aucun effet.
+Un instant avant que le personnage ne tombe à 0 point de vie ou moins, il peut utiliser une [[paladin#IMPOSITIONDESMAINS|imposition des mains]] pour se soigner comme s'il avait utilisé ce pouvoir en bénéficiant de 1d6 points de vie guéris supplémentaires. Si ceci fait repasser son total de points de vie au-dessus de 0, le personnage ne tombe pas et peut continuer d'agir. Si le personnage a déjà utilisé toutes ses [[paladin#IMPOSITIONDESMAINS|impositions]], le sort n'a aucun effet.

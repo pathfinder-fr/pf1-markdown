@@ -10,25 +10,25 @@ Categories:
 
 *Les attaques du personnage avec une arme de son choix sont particulièrement redoutables.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** Maniement de l’arme choisie, [bonus de base à l’attaque](./BBA.md) de +8.
+**Conditions.** Maniement de l’arme choisie, [[BBA|bonus de base à l’attaque]] de +8.
 
-**Avantage.** La [zone de critique](./Caractéristiques des armes.md#CRITIQUE) de l’arme choisie est doublée.
+**Avantage.** La [[Caractéristiques des armes#CRITIQUE|zone de critique]] de l’arme choisie est doublée.
 
 **Spécial.** Ce don peut être choisi plusieurs fois, mais ses effets ne se cumulent pas. Il s’applique à chaque fois à une arme nouvelle.
 
-Les effets de ce don ne se cumulent pas avec tout autre effet visant à étendre la [zone de critique](./Caractéristiques des armes.md#CRITIQUE) d’une arme.
+Les effets de ce don ne se cumulent pas avec tout autre effet visant à étendre la [[Caractéristiques des armes#CRITIQUE|zone de critique]] d’une arme.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand l’attaque du personnage touche mais qu’il rate un [critique potentiel](./coup critique.md) de 3 ou moins, il peut dépenser 5 points d’endurance pour tenter d’infliger tout de même des dégâts doublés. Il lance le dé comme pour confirmer un critique. S’il réussit, son attaque n’est pas un critique mais elle inflige des dégâts doublés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand l’attaque du personnage touche mais qu’il rate un [[coup critique|critique potentiel]] de 3 ou moins, il peut dépenser 5 points d’endurance pour tenter d’infliger tout de même des dégâts doublés. Il lance le dé comme pour confirmer un critique. S’il réussit, son attaque n’est pas un critique mais elle inflige des dégâts doublés.
 
 {s:CMy}
 ### Version mythique
 *Les coups critiques que le personnage inflige avec l’arme choisie sont d’une puissance dévastatrice.*
 
-**Condition.** Science du critique, bonus de base à l’attaque ([BBA](./BBA.md)) au moins égal à +8
+**Condition.** Science du critique, bonus de base à l’attaque ([[BBA]]) au moins égal à +8
 
 **Avantage.** Le multiplicateur de critique que le personnage applique lorsqu’il manipule l’arme choisie augmente de 1 ( jusqu’à un maximum de ×6).
 

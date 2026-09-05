@@ -14,18 +14,18 @@ Categories:
 |- CLASS="titre"
 | Nom || FP || RMY
 |- CLASS="premier"
-| [Colosse de bois](./Colosse de bois.md)  || 17 || 6
+| [[Colosse de bois]]  || 17 || 6
 |-
-| [Colosse de chair](./Colosse de chair.md)  || 16 || 6
+| [[Colosse de chair]]  || 16 || 6
 |-
-| [Colosse de fer](./Colosse de fer.md) || 21 || 8
+| [[Colosse de fer]] || 21 || 8
 |-
-| [Colosse de pierre](./Colosse de pierre.md)  || 19 || 7
+| [[Colosse de pierre]]  || 19 || 7
 |-
-| [Colosse sphinx](./Colosse sphinx.md)  || 14 || 4
+| [[Colosse sphinx]]  || 14 || 4
 |}
 </div></div><div class="description">*Source : Bestiaire 4.*</div>
-*Types/Sous-types associés : [Créature artificielle](./type Créature artificielle.md) ([colosse](./sous-type colosse.md), [mythique](./sous-type mythique.md))*
+*Types/Sous-types associés : [[type Créature artificielle|Créature artificielle]] ([[sous-type colosse|colosse]], [[sous-type mythique|mythique]])*
 
 Les magiciens créent des créatures artificielles à leur service depuis que les mortels ont découvert la magie. Des puissants golems créés à partir de matériaux presque indestructibles et d’énergie élémentaire jusqu’aux serviteurs mécaniques habilement constitués d’innombrables rouages métalliques, en passant par les humbles balais animés conçus pour faire le ménage de leur propre chef, les créatures artificielles et leur fabrication font partie des bases de l’art des lanceurs de sorts. Mais pour certains mages, les golems et les autres créatures artificielles ne sont tout simplement pas assez fortes, pas assez puissantes, pas assez impressionnantes, pas assez grosses ou trop communes. Ils dessinent et construisent alors des entités beaucoup plus grandes et bien plus puissantes, des créations qui obligent le monde à reconnaître leur pouvoir et leur génie. Ils conçoivent des colosses.
 
@@ -35,7 +35,7 @@ Le colosse est également animé par un esprit élémentaire mais la nature de c
 
 À lui seul, un colosse peut tout à fait aider son maître à raser un royaume et à écraser une armée. De plus, il est immunisé contre pratiquement toute forme de riposte. C’est d’ailleurs bien souvent dans ce but que leurs maîtres les conçoivent : pour l’aider à fonder un empire, pour vaincre un ennemi haï ou pour annihiler un adversaire d’égale puissance. Certains sont créés pour servir d’arme défensive et décourager toute tentative d’invasion. D’autres sont chargés de protéger des lieux ou des objets que personne ne doit déranger, sous quelque prétexte que ce soit.
 
-Comme le colosse est une créature artificielle, sa silhouette, sa fonction et sa composition dépendent de son créateur. Ceci dit, tous les colosses partagent des caractéristiques qui les distinguent des créatures artificielles de moindre envergure. Ces caractéristiques figurent dans la description du [sous-type colosse](./sous-type colosse.md). Seuls les plus grands lanceurs de sorts, des mages de légende, ont conçu des colosses car le processus de création demande une expérience et des connaissances qui dépassent de loin celles du commun des mortels. Le façonnage de l’esprit qui va contrôler le colosse est le prodige qui se rapproche le plus de la création d’une vie et d’une âme de la main d’un mortel. Si l’artisan n’est pas suffisamment préparé, il créera un tas de matière inerte ou, au mieux, un simple golem aux proportions certes formidables mais relativement fragile compte tenu de son gigantisme. Au pire, sa création se soldera par une catastrophe aux résultats imprévisibles mais toujours dangereux et onéreux.
+Comme le colosse est une créature artificielle, sa silhouette, sa fonction et sa composition dépendent de son créateur. Ceci dit, tous les colosses partagent des caractéristiques qui les distinguent des créatures artificielles de moindre envergure. Ces caractéristiques figurent dans la description du [[sous-type colosse]]. Seuls les plus grands lanceurs de sorts, des mages de légende, ont conçu des colosses car le processus de création demande une expérience et des connaissances qui dépassent de loin celles du commun des mortels. Le façonnage de l’esprit qui va contrôler le colosse est le prodige qui se rapproche le plus de la création d’une vie et d’une âme de la main d’un mortel. Si l’artisan n’est pas suffisamment préparé, il créera un tas de matière inerte ou, au mieux, un simple golem aux proportions certes formidables mais relativement fragile compte tenu de son gigantisme. Au pire, sa création se soldera par une catastrophe aux résultats imprévisibles mais toujours dangereux et onéreux.
 
 Contrairement à la plupart des créatures artificielles, les colosses sont capables de réfléchir. Le créateur exerce un certain degré de contrôle sur la personnalité du colosse et cherche généralement à lui inspirer le désir de plaire à son « géniteur » pour le rendre plus malléable. Cependant, le façonnage de l’esprit élémentaire ressemble fort à l’éducation d’un enfant : les résultats varient et sont toujours difficiles à prévoir. Parfois, le mage obtient un colosse borné, cruel ou puéril. Il arrive aussi, mais rarement, que le colosse prenne conscience de sa propre force et refuse d’obéir pour suivre sa propre volonté, sans prêter attention à ceux qui voudraient le diriger. Ces colosses rebelles ne s’intéressent guère à des êtres aussi minuscules que les humains. Certains parviennent à vivre parmi les géants les plus grands mais la plupart possèdent une silhouette bien trop spécifique pour qu’ils puissent s’intégrer dans une société mortelle. Ils cherchent alors des recoins oubliés du globe où vivre tranquillement.
 

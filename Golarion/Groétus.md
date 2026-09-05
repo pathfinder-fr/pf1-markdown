@@ -12,10 +12,10 @@ Groétus est un dieu absent du monde, dont la tâche dans le grand dessein du mo
 
 ### Groétus et les autres dieux
 
-Même les dieux savent peu de choses sur lui. Il apparaît dans le monde de [Pharasma](./Pharasma.md) sous la forme d'une gigantesque lune gibbeuse dévoilant un visage squelettique. Nul ne sait si la lune est le dieu, ou un simple reflet, plus petit du véritable Groétus. De plus, nul ne sait quel rôle exact jouera Groétus dans la fin du monde, ni quel est son lien avec [Rovagug](./Rovagug.md), une autre déité liée à la fin du monde.
+Même les dieux savent peu de choses sur lui. Il apparaît dans le monde de [[Pharasma]] sous la forme d'une gigantesque lune gibbeuse dévoilant un visage squelettique. Nul ne sait si la lune est le dieu, ou un simple reflet, plus petit du véritable Groétus. De plus, nul ne sait quel rôle exact jouera Groétus dans la fin du monde, ni quel est son lien avec [[Rovagug]], une autre déité liée à la fin du monde.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Le [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- EnfinEt, le [quatrième volume](./../Aventures/Présentation AP11.md#AP11-4) de la onzième campagne, [Shattered Star](./../Aventures/Présentation AP11.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Le [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- EnfinEt, le [[Aventures.Présentation AP11#AP11-4|quatrième volume]] de la onzième campagne, [[Aventures.Présentation AP11|Shattered Star]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

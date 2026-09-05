@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Lancer des sorts#NLS
 ---
 
->>> [Lancer des sorts#NLS](./Lancer des sorts.md#NLS)
+>>> [[Lancer des sorts#NLS]]

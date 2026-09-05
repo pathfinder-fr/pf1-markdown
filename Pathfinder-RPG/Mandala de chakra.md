@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:OO}*En utilisant des cicatrices, des tatouages, ou du henné, vous tracez des symboles sur vos chakras pour vous aider à maintenir l'équilibre de votre kundalini.*
 
-**Conditions.** Capacité de classe [réserve de ki](./Moine.md#RESERVEDEKI)
+**Conditions.** Capacité de classe [[Moine#RESERVEDEKI|réserve de ki]]
 
-**Avantages.** Lorsque le personnage rate un jet de [Vigueur](./Vigueur.md) pour maintenir ses [chakras](./Chakras.md) ouverts, il ne subit que la moitié des dégâts habituels.
+**Avantages.** Lorsque le personnage rate un jet de [[Vigueur]] pour maintenir ses [[Chakras]] ouverts, il ne subit que la moitié des dégâts habituels.

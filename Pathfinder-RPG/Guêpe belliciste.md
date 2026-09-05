@@ -13,33 +13,33 @@ Categories:
 <div class="BD">
 {s:BDtitre|Guêpe belliciste|FP 7}
 {s:pucem|Créature artificielle|Ville|Extraplanaire}
-{s:BDtexte|*Source : [Guide de la Plaie du monde p.57](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide de la Plaie du monde p.57]]*}
 {s:BDtexte|**PX** 3 200}
-{s:BDtexte|[Créature artificielle](./type Créature artificielle.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille G, CM}
-{s:BDtexte|**Init** +10 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +13}
+{s:BDtexte|[[type Créature artificielle|Créature artificielle]] ([[sous-type extraplanaire|extraplanaire]]) de taille G, CM}
+{s:BDtexte|**Init** +10 ; **Sens** [[vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +13}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 21, contact 15, pris au dépourvu 15 (Dex +6, naturelle +6, taille -1)}
-{s:BDtexte|**pv** 85 (10d10+30) ; [guérison accélérée](./Guérison accélérée (capacité).md) 5}
+{s:BDtexte|**pv** 85 (10d10+30) ; [[Guérison accélérée (capacité)|guérison accélérée]] 5}
 {s:BDtexte|**Réf** +9, **Vig** +5, **Vol** +4}
-{s:BDtexte|**Immunités** électricité, [traits des créatures artificielles](./Traits des créatures artificielles (capacité).md)}
+{s:BDtexte|**Immunités** électricité, [[Traits des créatures artificielles (capacité)|traits des créatures artificielles]]}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 9 m, vol 9 m (bonne)}
 {s:BDtexte|**Corps à corps** morsure, +15 (1d8+4) et 2 griffes, +15 (1d6+4) et dard, +15 (1d6+4/19-20 plus poison)}
 {s:BDtexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDtexte|**Attaques spéciales** décharge électrostatique, [poison](./Poison (capacité).md)}
+{s:BDtexte|**Attaques spéciales** décharge électrostatique, [[Poison (capacité)|poison]]}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 18, **Dex** 23, **Con** —, **Int** 3, **Sag** 13, **Cha** 1}
 {s:BDtexte|**BBA** +10, **BMO** +15, **DMD** 31}
-{s:BDtexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (poison), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (dard), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDtexte|**Compétences** [Discrétion](./Discrétion.md) +13, [Perception](./Perception.md) +13, [Vol](./Vol.md) +14 ; **Modificateurs raciaux** +8 en Perception, +8 en Discrétion}
+{s:BDtexte|**Dons** [[Attaque en finesse]], [[Attaque spéciale renforcée]] (poison), [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (dard), [[Vigueur surhumaine]]}
+{s:BDtexte|**Compétences** [[Discrétion]] +13, [[Perception]] +13, [[Vol]] +14 ; **Modificateurs raciaux** +8 en Perception, +8 en Discrétion}
 {s:BDtexte|**Langues** abyssal (ne peut pas parler)}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** tous (Abysses)}
 {s:BDtexte|**Organisation sociale** solitaire, couple, ou essaim (3-12)}
 {s:BDtexte|**Trésor** aucun}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Poison (Ext).** Dard — blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 17 ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d4 [Dex](./Dex.md) ; *guérison* 2 réussites consécutives.}
-{s:BDtexte|**Décharge électrostatique (Sur).** Une fois tous les 1d4 [rounds](./round.md), lors d’une [action de mouvement](./Action de mouvement.md) engagée pour voler sur au moins 3 mètres, les ailes de la guêpe belliciste peuvent libérer une décharge d’électricité à une portée maximale de 18 mètres. La décharge explose au moment où elle touche sa cible, couvrant un rayonnement de 6 mètres de rayon infligeant 6d6 points de dégâts d’électricité ([Réflexes](./Réflexes.md) [DD](./DD.md) 15, 1/2 dégâts).}
+{s:BDtexte|**Poison (Ext).** Dard — blessure ; *JdS* [[Vigueur]] [[DD]] 17 ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d4 [[Dex]] ; *guérison* 2 réussites consécutives.}
+{s:BDtexte|**Décharge électrostatique (Sur).** Une fois tous les 1d4 [[round|rounds]], lors d’une [[action de mouvement]] engagée pour voler sur au moins 3 mètres, les ailes de la guêpe belliciste peuvent libérer une décharge d’électricité à une portée maximale de 18 mètres. La décharge explose au moment où elle touche sa cible, couvrant un rayonnement de 6 mètres de rayon infligeant 6d6 points de dégâts d’électricité ([[Réflexes]] [[DD]] 15, 1/2 dégâts).}
 </div>
 </td>
 <td>
@@ -53,10 +53,10 @@ Dans la Faille démoniaque, un grand nombre de ces guêpes bellicistes ont été
 La guêpe belliciste mesure environ 3 mètres de long pour une envergure de 6 mètres. Elle pèse 600 kilogrammes.
 
 #### Invoquer une guêpe belliciste
-Bien que la guêpe belliciste ne soit pas un extérieur, il est néanmoins possible de l’invoquer avec un sort d’*[allié majeur d’outreplan](./Allié majeur doutreplan.md)* ou de *[contrat intermédiaire](./Contrat intermédiaire.md)*. Pour ce faire, le lanceur de sorts doit cependant prendre garde à utiliser des encens rares, des sécrétions d’insectes rares et violents et tracer des diagrammes complexes sur le sol et les murs avec des encres phosphorescentes onéreuses, sinon, la guêpe l’attaquera une fois la convocation achevée. Ces composantes coûtent 15 000 po et remplacent les coûts associés au lancement du sort (y compris le test de [Charisme](./Charisme.md) nécessaire au *contrat intermédiaire*).
+Bien que la guêpe belliciste ne soit pas un extérieur, il est néanmoins possible de l’invoquer avec un sort d’*[[allié majeur doutreplan|allié majeur d’outreplan]]* ou de *[[contrat intermédiaire]]*. Pour ce faire, le lanceur de sorts doit cependant prendre garde à utiliser des encens rares, des sécrétions d’insectes rares et violents et tracer des diagrammes complexes sur le sol et les murs avec des encres phosphorescentes onéreuses, sinon, la guêpe l’attaquera une fois la convocation achevée. Ces composantes coûtent 15 000 po et remplacent les coûts associés au lancement du sort (y compris le test de [[Charisme]] nécessaire au *contrat intermédiaire*).
 
 #### Guêpe massacreuse
-Les guêpes bellicistes se développent de façon organique à partir de chair et de chaos protoplasmique, ce n’est donc pas une surprise si, à l’inverse de la plupart des créatures artificielles, elles possèdent toutes une apparence unique et terrifiante. De plus, elles se déforment, changent et mutent au fil du temps. Généralement, quand ces mutations sont trop importantes, elles sont handicapantes et finissent par causer la mort de la guêpe, mais parfois la guêpe mutée atteint un nouveau stade d’évolution et devient une guêpe massacreuse : une version plus puissante de la guêpe belliciste commune, capable d’échafauder une stratégie et de diriger les autres guêpes lors de manœuvres sur le champ de bataille. Une guêpe massacreuse est généralement dotée de l’archétype simple de créature [géante](./Archétypes.md#CREATUREGEANTE) ou [évoluée](./Archétypes.md#CREATUREEVOLUEE), ainsi que de 6 points d’évolution à répartir parmi les [évolutions de l’eidolon](./eidolon.md#EVOLUTIONS) (Manuel des joueurs, règles avancées Pathfinder JdR pages 48-52) ou parmi les autres pouvoirs de monstres de même niveau et de même type. La décharge électrostatique de la guêpe massacreuse fonctionne une fois par round et non une fois tous les 1d4 rounds.
+Les guêpes bellicistes se développent de façon organique à partir de chair et de chaos protoplasmique, ce n’est donc pas une surprise si, à l’inverse de la plupart des créatures artificielles, elles possèdent toutes une apparence unique et terrifiante. De plus, elles se déforment, changent et mutent au fil du temps. Généralement, quand ces mutations sont trop importantes, elles sont handicapantes et finissent par causer la mort de la guêpe, mais parfois la guêpe mutée atteint un nouveau stade d’évolution et devient une guêpe massacreuse : une version plus puissante de la guêpe belliciste commune, capable d’échafauder une stratégie et de diriger les autres guêpes lors de manœuvres sur le champ de bataille. Une guêpe massacreuse est généralement dotée de l’archétype simple de créature [[Archétypes#CREATUREGEANTE|géante]] ou [[Archétypes#CREATUREEVOLUEE|évoluée]], ainsi que de 6 points d’évolution à répartir parmi les [[Eidolon#EVOLUTIONS|évolutions de l’eidolon]] (Manuel des joueurs, règles avancées Pathfinder JdR pages 48-52) ou parmi les autres pouvoirs de monstres de même niveau et de même type. La décharge électrostatique de la guêpe massacreuse fonctionne une fois par round et non une fois tous les 1d4 rounds.
 </div>
 </td>
 </tr>

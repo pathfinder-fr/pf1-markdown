@@ -10,6 +10,6 @@ Categories:
 {s:AE}**Prix** 250 po ; **Poids** 17,5 kg
 **Bonus d'armure** +7 ; **Bonus de Dex maximal** +1 ; **Malus d'armure** -6
 **Risque d'échec des sorts profanes** 35% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
-<span class="Catégorie">**Catégorie** [Armures lourdes](./Tableau récapitulatif des armures.md#TABLOURDES)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABLOURDES|Armures lourdes]]</span>
 ---
-La crevice est composée de bandes de métal superposées et fixées sur un solide support de cuir et de chaînes. La taille des plaques de métal, des bandes de métal interconnectées et des couches de l’armure intérieure en font un moyen de défense plus important que les armures similaires, telles que l’[armure d’écailles](./armure décailles (armure).md) ou le [clibanion](./clibanion (armure).md).
+La crevice est composée de bandes de métal superposées et fixées sur un solide support de cuir et de chaînes. La taille des plaques de métal, des bandes de métal interconnectées et des couches de l’armure intérieure en font un moyen de défense plus important que les armures similaires, telles que l’[[armure décailles (armure)|armure d’écailles]] ou le [[clibanion (armure)|clibanion]].

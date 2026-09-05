@@ -11,12 +11,12 @@ Categories:
 
 {s:mr}*Casser des objets augmente votre puissance.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Orque](./orque (race).md) ou [demi-orque](./Demi-orque.md), aptitude de classe de [rage de berserker](./Barbare.md#RAGEDEBERSERKER), fidèle du Destructeur
+**Conditions.** [[orque (race)|Orque]] ou [[demi-orque]], aptitude de classe de [[barbare#RAGEDEBERSERKER|rage de berserker]], fidèle du Destructeur
 
-**Avantage.** Lorsque le personnage est en rage et qu’il réussit une tentative de [destruction](./destruction.md), il récupère un [round](./round.md) de rage. Si la tentative de destruction casse effectivement l’objet, le personnage récupère 1 [point de vie](./pv.md).
+**Avantage.** Lorsque le personnage est en rage et qu’il réussit une tentative de [[destruction]], il récupère un [[round]] de rage. Si la tentative de destruction casse effectivement l’objet, le personnage récupère 1 [[pv|point de vie]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 2 points d’endurance pour récupérer un [round](./round.md) de [rage](./Barbare.md#RAGE) après avoir réduit à moins de 0 [pv](./pv.md) un adversaire dont le [FP](./FP.md) est supérieur ou égal à son niveau de personnage au lieu de le récupérer seulement s’il réussit une [destruction d’arme](./destruction.md) contre cette cible.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 2 points d’endurance pour récupérer un [[round]] de [[Barbare#RAGE|rage]] après avoir réduit à moins de 0 [[pv]] un adversaire dont le [[FP]] est supérieur ou égal à son niveau de personnage au lieu de le récupérer seulement s’il réussit une [[destruction|destruction d’arme]] contre cette cible.

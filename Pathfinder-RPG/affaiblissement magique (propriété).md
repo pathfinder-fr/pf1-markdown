@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Affaiblissement magique
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Affaiblissement magique](./Descriptions individuelles des propriétés spéciales des armes.md#Affaiblissement magique)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Affaiblissement magique]]

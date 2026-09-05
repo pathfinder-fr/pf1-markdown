@@ -10,7 +10,7 @@ LastModified: 2021-04-18 12:18
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 222*}
 - 600 PX
-- [Aberration](./type Aberration.md) de taille TP, N
+- [[type aberration|Aberration]] de taille TP, N
 - **Init **+1 ; **Sens **perception aveugle à 3 m, vision dans le noir à 18 m, odorat ; Perception +8
 (((Défense)))
 - **CA **16, contact 13, pris au dépourvu 15 (Dex +1, naturelle +3, taille +2)
@@ -27,7 +27,7 @@ LastModified: 2021-04-18 12:18
 - **For **10, **Dex **12, **Con **12, **Int **3, **Sag **13, **Cha **9
 - **BBA **+1 ; **BMO **+0 (+4 en lutte) ; **DMD **10 (croc-en-jambe impossible)
 - **Dons **Talent (Perception)
-- **Compétences **[Discrétion](./Discrétion.md) +13, [Escalade](./Escalade.md) +8, [Perception](./Perception.md) +8
+- **Compétences **[[Discrétion]] +13, [[Escalade]] +8, [[Perception]] +8
 (((Écologie)))
 - **Environnement **souterrains
 - **Organisation **solitaire
@@ -38,7 +38,7 @@ LastModified: 2021-04-18 12:18
 - **Sensible à l’alcool (Ext)**. L’alcool fort blesse les capuches. Un quart de litre aspergé lui inflige 1 point de dégâts. Un litre la neutralise et l’oblige à relâcher sa prise sur une cible agrippée. 
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [raies des profondeurs](./Raie des profondeurs.md).***</li></ul>Ces jeunes raies des profondeurs ont la forme grossière d’une capuche (d’où leur
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[raie des profondeurs|raies des profondeurs]].***</li></ul>Ces jeunes raies des profondeurs ont la forme grossière d’une capuche (d’où leur
 nom) et se déplacent laborieusement en traînant leur masse corporelle
 à l’aide de leurs fins tentacules. Lorsqu’une capuche du bourreau
 trouve un terrain de chasse qui lui convient, le plus souvent

@@ -14,14 +14,14 @@ Categories:
 {s:pucem|Vase|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 38*}
 - **9 600 PX**
-- [Vase](./type Vase.md) de taille TG ([intangible](./sous-type intangible.md)), CN
+- [[type vase|Vase]] de taille TG ([[sous-type intangible|intangible]]), CN
 - **Init **+12 ; **Sens** perception aveugle 36 m ; Perception +18
 - **Aura** lassitude (90 m, DD 22)
 (((Défense)))
 - **CA** 23, contact 23, pris au dépourvu 14 (Dex +8, esquive +1, parade +6, taille -2)
 - **pv** 126 (12d8+72)
 - **Réf **+14, **Vig **+10, **Vol **+10
-- **Capacités défensives** créature informe, intangible ; **Immunités** acide, effets mentaux, feu, froid, poison, son, [traits des vases](./Traits des vases.md) ; **RM** 21 
+- **Capacités défensives** créature informe, intangible ; **Immunités** acide, effets mentaux, feu, froid, poison, son, [[traits des vases]] ; **RM** 21 
 - **Faiblesse** sensible aux effets de force
 (((Attaque)))
 - **VD** 9 m, vol 15 m (parfaite)
@@ -31,8 +31,8 @@ Categories:
 (((Statistiques)))
 - **For** —, **Dex** 26, **Con** 22, **Int** 19, **Sag** 23, **Cha** 23
 - **BBA **+9 ; **BMO **+19; **DMD** 36 (croc-en-jambe impossible)
-- **Dons** [Attaque éclair](./Attaque éclair.md), [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md)
-- **Compétences** [Connaissances](./Connaissances.md) (géographie) +16, [Connaissances](./Connaissances.md) (nature) +16, [Connaissances](./Connaissances.md) (plans) +16, [Discrétion](./Discrétion.md) +12, [Perception](./Perception.md) +18, [Vol](./Vol.md) +27
+- **Dons** [[Attaque éclair]], [[Attaque en finesse]], [[Esquive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]]
+- **Compétences** [[Connaissances]] (géographie) +16, [[Connaissances]] (nature) +16, [[Connaissances]] (plans) +16, [[Discrétion]] +12, [[Perception]] +18, [[Vol]] +27
 - **Langues** aklo (incapable de parler)
 (((Écologie)))
 - **Environnement** tous

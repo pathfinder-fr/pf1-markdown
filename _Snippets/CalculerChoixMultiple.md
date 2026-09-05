@@ -12,15 +12,15 @@ $(function () { $(".calculerChoixMultiple").each(function () { $(this).click( ca
 var tailleChoixMultiple = -1;
 
 function majTailleChoixMultiple (obj) {
-var tab = eval('[' + obj.attr("value") + ']');
+var tab = eval('[[' + obj.attr("value") + ']]');
 if (tab.length > tailleChoixMultiple)
 tailleChoixMultiple = tab.length;
 }
 
 function majResultats (res, obj) {
 if (obj.attr("checked")) {
-var tab = eval('[' + obj.attr("value") + ']');
-for (i = 0 ; i < tab.length ; i++) res[i] += tab[i];
+var tab = eval('[[' + obj.attr("value") + ']]');
+for (i = 0 ; i < tab.length ; i++) res[[i]] += tab[[i]];
 }
 }
 
@@ -33,14 +33,14 @@ obj.text("<ERREUR : indice trop petit - min 1>");
 else if (ind > tailleChoixMultiple)
 obj.text("<ERREUR : indice trop grand - max " + tailleChoixMultiple + ">");
 else
-obj.text(res[ind-1]);
+obj.text(res[[ind-1]]);
 }
 
 function calculerChoixMultiple () {
 $(".choixMultiple").each(function () { majTailleChoixMultiple($(this)); } );
 
 var res = new Array;
-for (i = 0 ; i < tailleChoixMultiple ; i++) res[i] = 0;
+for (i = 0 ; i < tailleChoixMultiple ; i++) res[[i]] = 0;
 
 $(".choixMultiple").each(function () { majResultats(res, $(this)); } );
 

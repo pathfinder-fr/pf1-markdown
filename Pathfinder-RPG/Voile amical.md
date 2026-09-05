@@ -12,9 +12,9 @@ Categories:
 
 *Vous pouvez aider vos alliés à se cacher.*
 
-**Condition.** 1 rang en [Discrétion](./Discrétion.md)
+**Condition.** 1 rang en [[Discrétion]]
 
-**Avantage.** Lorsque le personnage est adjacent à un allié, qu'aucun d'eux ne se déplace pendant au moins 1 [round](./round.md), et qu'ils tentent tous les deux un test de [Discrétion](./Discrétion.md), cet allié peut utiliser le résultat du test du personnage s'il est meilleur que le sien.
+**Avantage.** Lorsque le personnage est adjacent à un allié, qu'aucun d'eux ne se déplace pendant au moins 1 [[round]], et qu'ils tentent tous les deux un test de [[Discrétion]], cet allié peut utiliser le résultat du test du personnage s'il est meilleur que le sien.
 
 (((Friendly Shroud
 

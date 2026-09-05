@@ -14,49 +14,49 @@ Categories:
 {s:Reference|MAGEDECOMBAT}
 {s:BDTitre|Mage de combat|FP 5}
 {s:BDTexte|**PX** 1600}
-{s:BDTexte|Humain [magicien](./Magicien.md) (évocateur) 6}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +6 ; **Sens** [Perception](./Perception.md) +6}
+{s:BDTexte|Humain [[magicien]] (évocateur) 6}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[Perception]] +6}
 {s:BDSousTitre|Défense}
-{s:BDTexte|**CA** 16, contact 12, pris au dépourvu 14 (*[armure de mage](./Armure de mage.md)* +4, Dex +2)}
+{s:BDTexte|**CA** 16, contact 12, pris au dépourvu 14 (*[[armure de mage]]* +4, Dex +2)}
 {s:BDTexte|**pv** 33 (6d6+12)}
 {s:BDTexte|**Réf** +4, **Vig** +3, **Vol** +5}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** dague, +2 (1d4–1/19–20) ou baguette de *[décharge électrique](./Décharge électrique.md)*, +2 contact (1d6 électricité)}
+{s:BDTexte|**Corps à corps** dague, +2 (1d4–1/19–20) ou baguette de *[[décharge électrique]]*, +2 contact (1d6 électricité)}
 {s:BDTexte|**A distance** dague, +5 (1d4–1/19–20)}
 {s:BDTexte|**Espace occupé** 1,50 m (1 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDTexte|**Attaque spéciale** Sorts intenses +3}
-{s:BDTexte|**Pouvoirs magiques d’école** (NLS 6 ; Concentration +9) (6/jour) — *[Projectile de force](./Évocation (école).md)* (1d4+3)}
+{s:BDTexte|**Pouvoirs magiques d’école** (NLS 6 ; Concentration +9) (6/jour) — *[[Évocation (école)|Projectile de force]]* (1d4+3)}
 {s:BDTexte|**Sorts de magicien préparés** (NLS 6 ; Concentration +9)}
-{s:BDSorts|3<sup>e</sup> — *[boule de feu](./Boule de feu.md)* (2) (DD 17), *[dissipation de la magie](./Dissipation de la magie.md)*, *[rapidité](./Rapidité.md)*, *[vol](./Vol.md)*}
-{s:BDSorts|2<sup>e</sup> — *[image miroir](./Image miroir.md)*, *[poussière scintillante](./Poussière scintillante.md)* (DD 15), *[protection contre les projectiles](./Protection contre les projectiles.md)*, *[rayon ardent](./Rayon ardent.md)* (DD 16), *[sphère de feu](./Sphère de feu.md)* (DD 16)}
-{s:BDSorts|1<sup>er</sup> — *[armure de mage](./Armure de mage.md)* (déjà lancé), *[couleurs dansantes](./Couleurs dansantes.md)* (DD 14), *[décharge électrique](./Décharge électrique.md)*, *[mains brûlantes](./Mains brûlantes.md)* (DD 15), *[repli expéditif](./Repli expéditif.md)*}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[lumière](./Lumière.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[message](./Message.md)*}
+{s:BDSorts|3<sup>e</sup> — *[[boule de feu]]* (2) (DD 17), *[[dissipation de la magie]]*, *[[rapidité]]*, *[[vol]]*}
+{s:BDSorts|2<sup>e</sup> — *[[image miroir]]*, *[[poussière scintillante]]* (DD 15), *[[protection contre les projectiles]]*, *[[rayon ardent]]* (DD 16), *[[sphère de feu]]* (DD 16)}
+{s:BDSorts|1<sup>er</sup> — *[[armure de mage]]* (déjà lancé), *[[couleurs dansantes]]* (DD 14), *[[décharge électrique]]*, *[[mains brûlantes]]* (DD 15), *[[repli expéditif]]*}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[lumière]]*, *[[lumières dansantes]]*, *[[message]]*}
 {s:BDTexte|**Écoles opposées** Enchantement, Nécromancie}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 9, **Dex** 14, **Con** 12, **Int** 17, **Sag** 10, **Cha** 13}
 {s:BDTexte|**BBA** +3, **BMO** +2, **DMD** 17}
-{s:BDTexte|**Dons** [Création de baguettes magiques](./Création de baguettes magiques.md), [École renforcée](./École renforcée.md) (Évocation), [Écriture de parchemins](./Écriture de parchemins.md), [Magie de guerre](./Magie de guerre.md), [Maîtrise du combat défensif](./Maîtrise du combat défensif.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +12, [Artisanat](./Artisanat.md) (armes) +10, [Artisanat](./Artisanat.md) (armures) +10, [Connaissances](./Connaissances.md) (géographie) +7, [Connaissances](./Connaissances.md) (histoire) +7, [Connaissances](./Connaissances.md) (ingénierie) +7, [Connaissances](./Connaissances.md) (mystères) +12, [Équitation](./Équitation.md) +6, [Perception](./Perception.md) +6, [Vol](./Vol.md) +11}
+{s:BDTexte|**Dons** [[Création de baguettes magiques]], [[École renforcée]] (Évocation), [[Écriture de parchemins]], [[Magie de guerre]], [[Maîtrise du combat défensif]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +12, [[Artisanat]] (armes) +10, [[Artisanat]] (armures) +10, [[Connaissances]] (géographie) +7, [[Connaissances]] (histoire) +7, [[Connaissances]] (ingénierie) +7, [[Connaissances]] (mystères) +12, [[Équitation]] +6, [[Perception]] +6, [[Vol]] +11}
 {s:BDTexte|**Langues** commun, draconique, elfique, géant}
 {s:BDTexte|**Particularités** pacte magique (baguette)}
-{s:BDTexte|**Équipement de combat** baguettes de *[décharge électrique](./Décharge électrique.md)* (50 charges) et de *[projectile magique](./Projectile magique.md)* (NLS 5, 50 charges), objet fétiche, parchemins de *[vol](./Vol.md)* (2), d’*[image imparfaite](./Image imparfaite.md)* (2) et d’*[invisibilité](./Invisibilité.md)* (2), sacoches immobilisantes (3) ; **Autre équipement** dagues (2), 20 po}
+{s:BDTexte|**Équipement de combat** baguettes de *[[décharge électrique]]* (50 charges) et de *[[projectile magique]]* (NLS 5, 50 charges), objet fétiche, parchemins de *[[vol]]* (2), d’*[[image imparfaite]]* (2) et d’*[[invisibilité]]* (2), sacoches immobilisantes (3) ; **Autre équipement** dagues (2), 20 po}
 {s:BDTexte|**Faveur** Un mage de combat peut créer des parchemins avec une réduction de prix de 10 %.}
 </div></td>
 <td><div>
 Un mage de combat est toujours prêt pour la bataille. Il sait que c’est celui qui frappe le premier qui fait le plus mal. La versatilité de ce personnage qui n’est jamais à court de pouvoirs offensifs en fait un allié fort apprécié. Les mages de combat font d’excellentes unités d’appui lors des conflits et de bons gardes du corps.
 
-On peut les rencontrer seuls, comme gardes d’un [marchand itinérant](./PNJ marchands.md#MARCHANDITINERANT) (FP 7) ou d’un [guide](./PNJ terres sauvages.md#GUIDE) (FP 8) ou encore en tant qu’aventuriers aux côtés d’un [médium](./PNJ devins.md#MEDIUM) ou d’un [ménestrel](./PNJ amuseurs publiques.md#MENESTREL), d’un [chasseur de monstres](./PNJ aventuriers.md#CHASSEURDEMONSTRES) ou d’un [gladiateur](./PNJ arènes.md#GLADIATEUR) et d’un [pilleur de tombes](./PNJ aventuriers.md#PILLEURDETOMBES) (FP 9). Une escouade de quatre mages de combat (FP 9) peut être attachée à une armée.
+On peut les rencontrer seuls, comme gardes d’un [[PNJ marchands#MARCHANDITINERANT|marchand itinérant]] (FP 7) ou d’un [[PNJ terres sauvages#GUIDE|guide]] (FP 8) ou encore en tant qu’aventuriers aux côtés d’un [[PNJ devins#MEDIUM|médium]] ou d’un [[PNJ amuseurs publiques#MENESTREL|ménestrel]], d’un [[PNJ aventuriers#CHASSEURDEMONSTRES|chasseur de monstres]] ou d’un [[PNJ arènes#GLADIATEUR|gladiateur]] et d’un [[PNJ aventuriers#PILLEURDETOMBES|pilleur de tombes]] (FP 9). Une escouade de quatre mages de combat (FP 9) peut être attachée à une armée.
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr><td><div class="BD">
 {s:Reference|CHASSEURDEMONSTRES}
 {s:BDTitre|Chasseur de monstres|FP 5}
 {s:BDTexte|**PX** 1600}
-{s:BDTexte|Humain [rôdeur](./Rôdeur.md) 6}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [Perception](./Perception.md) +10}
+{s:BDTexte|Humain [[rôdeur]] 6}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 13, pris au dépourvu 15 (armure +4, bouclier +1, Dex +3)}
 {s:BDTexte|**pv** 45 (6d10+12)}
@@ -67,21 +67,21 @@ On peut les rencontrer seuls, comme gardes d’un [marchand itinérant](./PNJ ma
 {s:BDTexte|**A distance** *arc long composite +1*, +10/+5 (1d8+4) ou *arc long composite +1* avec Tir rapide, +8/+8/+3 (1d8+4/×3) ou dague, +9 (1d4+3/19–20)}
 {s:BDTexte|**Attaques spéciales** ennemi de prédilection (créatures magiques +4, humanoïdes monstrueux +2)}
 {s:BDTexte|**Sorts de rôdeur préparés** (NLS 3 ; Concentration +3)}
-{s:BDSorts|1<up>er</sup> — *[communication avec les animaux](./Communication avec les animaux.md)*}
+{s:BDSorts|1<up>er</sup> — *[[communication avec les animaux]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 16, **Con** 13, **Int** 10, **Sag** 12, **Cha** 8}
 {s:BDTexte|**BBA** +6, **BMO** +9, **DMD** 22}
-{s:BDTexte|**Dons** [Autonome](./Autonome.md), [Combat monté](./Combat monté.md), [Endurance](./Endurance.md), [Science du tir de précision](./Science du tir de précision.md), [Tir à bout portant](./Tir à bout portant.md), [Tir monté](./Tir monté.md), [Tir rapide](./Tir rapide.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (nature) +5, [Discrétion](./Discrétion.md) +11, [Dressage](./Dressage.md) +8, [Équitation](./Équitation.md) +11, [Escalade](./Escalade.md) +11, [Natation](./Natation.md) +7, [Perception](./Perception.md) +10, [Premiers secours](./Premiers secours.md) +8, [Survie](./Survie.md) +12 (+15 pour suivre une piste)}
+{s:BDTexte|**Dons** [[Autonome]], [[Combat monté]], [[Endurance]], [[Science du tir de précision]], [[Tir à bout portant]], [[Tir monté]], [[Tir rapide]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (nature) +5, [[Discrétion]] +11, [[Dressage]] +8, [[Équitation]] +11, [[Escalade]] +11, [[Natation]] +7, [[Perception]] +10, [[Premiers secours]] +8, [[Survie]] +12 (+15 pour suivre une piste)}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** empathie sauvage +5, pacte du chasseur (compagnon animal : faucon), pistage +3, environnement de prédilection (forêt +2)}
-{s:BDTexte|**Équipement** chemise de mailles de maître, targe de maître, *arc long composite +1* <nowiki>[</nowiki>For +3<nowiki>]</nowiki> avec 40 flèches, dague, flèches en fer froid (10), flèches en argent (10), hache d’armes de maître, cheval léger (entraîné au combat), selle, 4 po}
+{s:BDTexte|**Équipement** chemise de mailles de maître, targe de maître, *arc long composite +1* <nowiki>[[</nowiki>For +3<nowiki>]]</nowiki> avec 40 flèches, dague, flèches en fer froid (10), flèches en argent (10), hache d’armes de maître, cheval léger (entraîné au combat), selle, 4 po}
 {s:BDTexte|**Faveur** Un chasseur de monstres peut localiser et remonter la piste d’une créature sauvage spécifique et conduire les PJ à son repaire.}
 </div></td>
 <td><div>
 Un chasseur de monstres est un chasseur intelligent et expérimenté qui parcourt les pistes forestières avec son fidèle aigle scrutant l’horizon depuis les airs. Qu’il soit à la recherche d’une récompense, d’une prime, d’un trophée impressionnant ou simplement d’une histoire épique à raconter au coin du feu, le chasseur de monstres ne reste pas longtemps inactif lorsqu’il entend parler d’attaques de créatures sauvages. Il peut s’agir d’explorateurs et de protecteurs des contrées naturelles ou de chasseurs particulièrement talentueux. On peut créer différents types de chasseurs de monstres en changeant l’ennemi juré, l’environnement de prédilection ou le compagnon animal.
 
-Les [princes marchands](./PNJ marchands.md#PRINCEMARCHAND) sont souvent accompagnés de deux chasseurs de monstres (FP 10) pour se débarrasser de tout ce qui menace leurs affaires. Des patrouilles de quatre chasseurs de monstres (FP 9) peuvent agir comme gardes à la frontière des contrées sauvages. Un chasseur de monstres peut également partir à l’aventure avec un [mage de combat](./PNJ aventuriers.md#MAGEDECOMBAT), un [médium](./PNJ devins.md#MEDIUM) ou un [ménestrel](./PNJ amuseurs publiques.md#MENESTREL), et un [pilleur de tombes](./PNJ aventuriers.md#PILLEURDETOMBES) (FP 9).
+Les [[PNJ marchands#PRINCEMARCHAND|princes marchands]] sont souvent accompagnés de deux chasseurs de monstres (FP 10) pour se débarrasser de tout ce qui menace leurs affaires. Des patrouilles de quatre chasseurs de monstres (FP 9) peuvent agir comme gardes à la frontière des contrées sauvages. Un chasseur de monstres peut également partir à l’aventure avec un [[PNJ aventuriers#MAGEDECOMBAT|mage de combat]], un [[PNJ devins#MEDIUM|médium]] ou un [[PNJ amuseurs publiques#MENESTREL|ménestrel]], et un [[PNJ aventuriers#PILLEURDETOMBES|pilleur de tombes]] (FP 9).
 </div></td></tr></table>
 
 <table class="Bestiaire"><tr>
@@ -89,9 +89,9 @@ Les [princes marchands](./PNJ marchands.md#PRINCEMARCHAND) sont souvent accompag
 {s:Reference|PILLEURDETOMBES}
 {s:BDTitre|Pilleur de tombes|FP 5}
 {s:BDTexte|**PX** 1600}
-{s:BDTexte|Humain [roublard](./Roublard.md) 6}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) de taille M, N}
-{s:BDTexte|**Init** +3 ; **Sens** [Perception](./Perception.md) +14}
+{s:BDTexte|Humain [[roublard]] 6}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] de taille M, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 14 (armure +3, bouclier +1, Dex +3)}
 {s:BDTexte|**pv** 45 (6d8+18)}
@@ -105,8 +105,8 @@ Les [princes marchands](./PNJ marchands.md#PRINCEMARCHAND) sont souvent accompag
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 17, **Con** 14, **Int** 14, **Sag** 10, **Cha** 8}
 {s:BDTexte|**BBA** +4, **BMO** +5, **DMD** 18}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Discret](./Discret.md), [Talent](./Talent.md) (Sabotage), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +12, [Bluff](./Bluff.md) +5, [Connaissances](./Connaissances.md) (exploration souterraine) +11, [Connaissances](./Connaissances.md) (folklore local) +6, [Discrétion](./Discrétion.md) +14, [Escalade](./Escalade.md) +10, [Escamotage](./Escamotage.md) +12, [Estimation](./Estimation.md) +11, [Évasion](./Évasion.md) +14, [Linguistique](./Linguistique.md) +6, [Natation](./Natation.md) +5, [Perception](./Perception.md) +14 (+17 pour détecter les pièges), [Sabotage](./Sabotage.md) +20, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +8}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Discret]], [[Talent]] (Sabotage), [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +12, [[Bluff]] +5, [[Connaissances]] (exploration souterraine) +11, [[Connaissances]] (folklore local) +6, [[Discrétion]] +14, [[Escalade]] +10, [[Escamotage]] +12, [[Estimation]] +11, [[Évasion]] +14, [[Linguistique]] +6, [[Natation]] +5, [[Perception]] +14 (+17 pour détecter les pièges), [[Sabotage]] +20, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +8}
 {s:BDTexte|**Langues** aklo, commun, commun des profondeurs, terreux}
 {s:BDTexte|**Particularités** talents de roublard (dénicheur de pièges, mouvement à quatre pattes, discret et rapide), sens des pièges +3}
 {s:BDTexte|**Équipement de combat** antidote}
@@ -114,7 +114,7 @@ Les [princes marchands](./PNJ marchands.md#PRINCEMARCHAND) sont souvent accompag
 {s:BDTexte|**Faveur** Faveur Un pilleur de tombes peut accepter d’estimer les biens des PJ ou de voyager avec eux pour désactiver un piège.}
 </div></td>
 <td><div>
-Les pilleurs de tombes sont des explorateurs rusés et audacieux qui visitent les ruines et les donjons truffés de pièges et qui pillent les anciennes cryptes jonchées de trésors. Ce sont des alliés inestimables qui aident les explorateurs à pratiquer leur passion sans succomber aux pièges mortels. Naturellement, si un pilleur de tombes venait à trouver des morceaux de choix et à les garder pour lui, qui le saurait ? Il n’en dirait jamais rien. Un pilleur de tombes rencontré dans un donjon peut chercher à mettre la main sur le trésor qui y est caché avant les PJ. Remplacez sa compétence d’[Escamotage](./Escamotage.md) par [Artisanat](./Artisanat.md) (pièges) pour en faire un ennemi encore plus dangereux. Les pilleurs de tombes font d’excellents cambrioleurs et éclaireurs.
+Les pilleurs de tombes sont des explorateurs rusés et audacieux qui visitent les ruines et les donjons truffés de pièges et qui pillent les anciennes cryptes jonchées de trésors. Ce sont des alliés inestimables qui aident les explorateurs à pratiquer leur passion sans succomber aux pièges mortels. Naturellement, si un pilleur de tombes venait à trouver des morceaux de choix et à les garder pour lui, qui le saurait ? Il n’en dirait jamais rien. Un pilleur de tombes rencontré dans un donjon peut chercher à mettre la main sur le trésor qui y est caché avant les PJ. Remplacez sa compétence d’[[Escamotage]] par [[Artisanat]] (pièges) pour en faire un ennemi encore plus dangereux. Les pilleurs de tombes font d’excellents cambrioleurs et éclaireurs.
 
-Ils travaillent généralement seuls mais collaborent parfois avec un [archéologue](./PNJ érudits.md#ARCHEOLOGUE) et deux [cambrioleurs](./PNJ criminels.md#CAMBRIOLEUR) (FP 8). Un éclaireur pilleur de tombes peut être accompagné d’un [chasseur de monstres](./PNJ aventuriers.md#CHASSEURDEMONSTRES) (FP 7) ou même d’un groupe de quatre [pillards](./PNJ maraudeurs.md#PILLARD) (FP 9). Les pilleurs de tombes aventuriers voyagent souvent avec un [médium](./PNJ devins.md#MEDIUM) ou un [ménestrel](./PNJ amuseurs publiques.md#MENESTREL), un [mage de combat](./PNJ aventuriers.md#MAGEDECOMBAT) et un [gladiateur](./PNJ arènes.md#GLADIATEUR) ou un [chasseur de monstres](./PNJ aventuriers.md#CHASSEURDEMONSTRES) (FP 9).
+Ils travaillent généralement seuls mais collaborent parfois avec un [[PNJ érudits#ARCHEOLOGUE|archéologue]] et deux [[PNJ criminels#CAMBRIOLEUR|cambrioleurs]] (FP 8). Un éclaireur pilleur de tombes peut être accompagné d’un [[PNJ aventuriers#CHASSEURDEMONSTRES|chasseur de monstres]] (FP 7) ou même d’un groupe de quatre [[PNJ maraudeurs#PILLARD|pillards]] (FP 9). Les pilleurs de tombes aventuriers voyagent souvent avec un [[PNJ devins#MEDIUM|médium]] ou un [[PNJ amuseurs publiques#MENESTREL|ménestrel]], un [[PNJ aventuriers#MAGEDECOMBAT|mage de combat]] et un [[PNJ arènes#GLADIATEUR|gladiateur]] ou un [[PNJ aventuriers#CHASSEURDEMONSTRES|chasseur de monstres]] (FP 9).
 </div></td></tr></table>

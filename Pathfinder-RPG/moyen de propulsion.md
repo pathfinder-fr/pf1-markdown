@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Propulsion (véhicules)#
 ---
 
->>> [Propulsion (véhicules)#](./Propulsion (véhicules).md#)
+>>> [[Propulsion (véhicules)#]]

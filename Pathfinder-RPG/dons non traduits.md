@@ -24,8 +24,8 @@ En cas de doute, contactez [rectulo](http://www.pathfinder-fr.org/Forum/profile/
 #### Page de regroupement des dons
 Il est tout d'abord demandé de regrouper les dons par manuel en créant une page de regroupement des dons par ouvrage. Elle est destinée à terme à ne contenir qu'un tableau qui liste les dons du manuel concerné et qui permet d'y accéder.
 
-Inscrivez ci-dessous les manuels dont vous souhaitez vous charger sous le format <nowiki>[dons issus de nomdumanuel](./dons-issus-de-nomdumanuel.md)</nowiki>
-- *[dons issus du Dirty Tactics Toolbox](./dons issus du Dirty Tactics Toolbox.md)*
+Inscrivez ci-dessous les manuels dont vous souhaitez vous charger sous le format <nowiki>[[dons issus de nomdumanuel]]</nowiki>
+- *[[dons issus du Dirty Tactics Toolbox]]*
 
 Sur chaque page ainsi créée, devra figurer un tableau reprenant le modèle et le format habituel à partir duquel il ne reste plus qu'à intégrer les dons
 

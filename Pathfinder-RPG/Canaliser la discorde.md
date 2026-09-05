@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Vous pouvez concentrer la puissance des Abysses pour instiller la discorde parmi ceux qui subissent des dégpats de votre canalisation d'énergie.*
 
-**Conditions.** [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 8d6, suivant d'un [seigneur démon](./../Golarion/Seigneurs-démons.md).
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] 8d6, suivant d'un [[Golarion.Seigneurs-démons|seigneur démon]].
 
-**Avantage.** Une fois par jour, lorsque le personnage [canalise de l'énergie](./Prêtre.md#CANALISATIONDENERGIE) négative pour blesser les créatures vivantes, il peut en plus choisir de soumettre ceux qui ratent leur [jet de Volonté](./JDS.md) à un *[chant de discorde](./Chant de discorde.md)* avec un [NLS](./NLS.md) égal à son niveau de prêtre effectif.
+**Avantage.** Une fois par jour, lorsque le personnage [[Prêtre#CANALISATIONDENERGIE|canalise de l'énergie]] négative pour blesser les créatures vivantes, il peut en plus choisir de soumettre ceux qui ratent leur [[jds|jet de Volonté]] à un *[[chant de discorde]]* avec un [[NLS]] égal à son niveau de prêtre effectif.

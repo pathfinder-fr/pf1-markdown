@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, page 90*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, NM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision aveugle](./vision aveugle.md) 30 m (20 {s:c}) ; [Perception](./Perception.md) +27}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, NM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision aveugle]] 30 m (20 {s:c}) ; [[Perception]] +27}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 11, pris au dépourvu 17 (Dex +1, esquive +1, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 90 (12d8+36)}
@@ -29,8 +29,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 13, **Con** 16, **Int** 13, **Sag** 18, **Cha** 13}
 {s:BDTexte|**BBA** +9, **BMO** +14, **DMD** 26}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Souplesse du serpent](./Souplesse du serpent.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +12, [Escalade](./Escalade.md) +19, [Perception](./Perception.md) +27, [Psychologie](./Psychologie.md) +16, [Survie](./Survie.md) +19 ; **Modificateurs raciaux** +8 en [Perception](./Perception.md) (audition uniquement)}
+{s:BDTexte|**Dons** [[Esquive]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Souplesse du serpent]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +12, [[Escalade]] +19, [[Perception]] +27, [[Psychologie]] +16, [[Survie]] +19 ; **Modificateurs raciaux** +8 en [[Perception]] (audition uniquement)}
 {s:BDTexte|**Langues** commun (incapable de parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** sous terre}
@@ -39,8 +39,8 @@ Categories:
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Harmoniques destructrices (Sur).** Par une action simple, un destrachan peut projeter des sons dans un cône d’au plus 24 mètres de long ou dans un rayon de 9 mètres centré sur lui-même. Il peut ajuster les harmoniques de son cri pour instiller l’un des deux effets suivants chez les cibles qui se trouvent dans la zone d’effet (mais ne peut créer qu’un seul effet par utilisation de cette capacité). Le DD du jet de sauvegarde dépend de la Constitution.}
 {s:BDTexte|*Destruction.* Toutes les créatures situées dans la zone d’effet des harmoniques destructrices subissent 8d6 points de dégâts de son (Réflexes DD 19, 1/2 dégâts). Si le destrachan le désire, il peut s’agir de dégâts non létaux plutôt que de dégâts de son. Le destrachan peut également choisir de cibler un unique objet de cristal, de métal, de pierre ou de bois situé à au plus 24 mètres de lui au lieu d’affecter un cône ou un rayonnement. L’objet en question subit 8d6 points de dégâts. Ces dégâts ne sont pas divisés par deux lorsqu’ils sont appliqués aux points de vie de l’objet mais ils sont bien réduits de la solidité de son matériel. Les objets magiques ou portés par quelqu’un peuvent tenter un jet de Réflexes de DD 19 pour diviser les dégâts par deux.}
-{s:BDTexte|*Douleur.* Plutôt que d’infliger des dégâts, le destrachan peut causer des douleurs intenses et un son écrasant qui affectent toutes les créatures situées dans la zone. Les cibles en question doivent réussir un jet de Vigueur de DD 19 pour ne pas être [étourdies](./Étourdi.md) pendant 1 round et [assourdies](./Assourdi.md) pendant 1d6 rounds.}
-{s:BDTexte|**Protection contre le son (Ext).** Un destrachan bénéficie d’un bonus racial de +4 aux jets de sauvegarde contre les attaques de son. Il est immunisé contre les effets des harmoniques destructrices. Un destrachan [assourdi](./Assourdi.md) fonctionne comme s’il était [aveuglé](./Aveuglé.md) : pour lui, toutes les cibles bénéficient d’un camouflages total.}
+{s:BDTexte|*Douleur.* Plutôt que d’infliger des dégâts, le destrachan peut causer des douleurs intenses et un son écrasant qui affectent toutes les créatures situées dans la zone. Les cibles en question doivent réussir un jet de Vigueur de DD 19 pour ne pas être [[étourdi|étourdies]] pendant 1 round et [[assourdi|assourdies]] pendant 1d6 rounds.}
+{s:BDTexte|**Protection contre le son (Ext).** Un destrachan bénéficie d’un bonus racial de +4 aux jets de sauvegarde contre les attaques de son. Il est immunisé contre les effets des harmoniques destructrices. Un destrachan [[assourdi]] fonctionne comme s’il était [[aveuglé]] : pour lui, toutes les cibles bénéficient d’un camouflages total.}
 </div>
 </td><td><div>*Cette créature reptilienne et bossue avance à grands pas sur deux pieds griffus. Sa tête est dominée par une large gueule circulaire ornée de dents irrégulières.*
 

@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISR}*Des ténèbres soudaines désorientes votre adversaire, le laissant sans défense contre votre attaque aveuglante.*
 
-**Catégorie :** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie :** [[Dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Tieffelin](./Tieffelin (race).md), pouvoir magique racial *[ténèbres](./Ténèbres.md)*
+**Conditions.** [[Tieffelin (race)|Tieffelin]], pouvoir magique racial *[[ténèbres]]*
 
-**Avantages.** Le personnage peut attaquer avec une frappe de l'éclipse par une [action simple](./Action simple.md) si lui et un allié qui possède ce don prennent tous deux la cible [en tenaille](./prise en tenaille.md). Le personnage et son allié doivent tous les deux avoir au moins une utilisation restante de leur pouvoir magique racial *[ténèbres](./Ténèbres.md)* pour effectuer cette attaque. Si la frappe de l'éclipse touche, la cible du personnage est [aveuglée](./Aveuglé.md) pendant 1 round. Les créatures qui possèdent la capacité [vision dans les ténèbres](./Vision dans les ténèbres (capacité).md) sont [immunisées](./Immunité (capacité).md) contre l'aveuglement imposé par une frappe de l'éclipse.
+**Avantages.** Le personnage peut attaquer avec une frappe de l'éclipse par une [[action simple]] si lui et un allié qui possède ce don prennent tous deux la cible [[prise en tenaille|en tenaille]]. Le personnage et son allié doivent tous les deux avoir au moins une utilisation restante de leur pouvoir magique racial *[[ténèbres]]* pour effectuer cette attaque. Si la frappe de l'éclipse touche, la cible du personnage est [[aveuglé|aveuglée]] pendant 1 round. Les créatures qui possèdent la capacité [[Vision dans les ténèbres (capacité)|vision dans les ténèbres]] sont [[Immunité (capacité)|immunisées]] contre l'aveuglement imposé par une frappe de l'éclipse.

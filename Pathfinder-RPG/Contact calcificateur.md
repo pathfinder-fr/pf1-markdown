@@ -12,18 +12,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[Terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Psy](./Psychiste.md) 4, [San](./Sanguin.md) 4  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Terre]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
-**Cible** créature(s) touchée(s) (jusqu'à une par [niveau](./niveau.md))  
+**Cible** créature(s) touchée(s) (jusqu'à une par [[niveau]])  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Le contact du personnage transmute la substance de la créature touchée en pierre. Une fois par round, il peut faire une [attaque de contact](./attaque de contact.md) qui inflige 1d4 points d'[affaiblissement temporaire](./affaiblissement temporaire.md) de [Dextérité](./Dextérité.md) et ralentit la cible (comme par un sort de *[lenteur](./Lenteur.md)*) pendant 1 [round](./round.md). Un jet de [Vigueur](./Vigueur.md) permet d'annuler l'effet de *[lenteur](./Lenteur.md)* mais pas l'[affaiblissement de caractéristique](./affaiblissement temporaire.md). Une cible avec une [Dextérité](./Dextérité.md) réduite à 0 est [pétrifiée](./Pétrifié.md) de façon permanente. *[Annulation d'enchantement](./Annulation denchantement.md)*, *[restauration](./Restauration.md)* ou *[Transmutation de la pierre en chair](./Transmutation de la pierre en chair.md)* inversent les effets du *contact calcificateur*.
+Le contact du personnage transmute la substance de la créature touchée en pierre. Une fois par round, il peut faire une [[attaque de contact]] qui inflige 1d4 points d'[[affaiblissement temporaire]] de [[Dextérité]] et ralentit la cible (comme par un sort de *[[lenteur]]*) pendant 1 [[round]]. Un jet de [[Vigueur]] permet d'annuler l'effet de *[[lenteur]]* mais pas l'[[affaiblissement temporaire|affaiblissement de caractéristique]]. Une cible avec une [[Dextérité]] réduite à 0 est [[pétrifié|pétrifiée]] de façon permanente. *[[annulation denchantement|Annulation d'enchantement]]*, *[[restauration]]* ou *[[Transmutation de la pierre en chair]]* inversent les effets du *contact calcificateur*.

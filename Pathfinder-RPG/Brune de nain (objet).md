@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 4 pc ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
-Davantage considérée comme une famille de bières que comme une boisson unique, la brune de nain est connue sous différents noms dans les territoires humains. Les brunes de nain sont des bières brunes qui se caractérisent par leur léger goût de brûlé et leur mousse. On dit qu’elles sont aussi nourrissantes qu’un repas. La plupart des clans [nains](./Nain.md) utilisent une recette qui leur est propre et les querelles de familles sur la meilleure technique brassage peuvent remonter à des centaines d’années.
+Davantage considérée comme une famille de bières que comme une boisson unique, la brune de nain est connue sous différents noms dans les territoires humains. Les brunes de nain sont des bières brunes qui se caractérisent par leur léger goût de brûlé et leur mousse. On dit qu’elles sont aussi nourrissantes qu’un repas. La plupart des clans [[Nain|nains]] utilisent une recette qui leur est propre et les querelles de familles sur la meilleure technique brassage peuvent remonter à des centaines d’années.

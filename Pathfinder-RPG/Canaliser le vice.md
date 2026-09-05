@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Vous pouvez canaliser la brutalité dans les armes de vos alliés.*
 
-**Conditions.** [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) négative 4d6, suivant de [Gorum](./Gorum (technique).md).
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] négative 4d6, suivant de [[Gorum (technique)|Gorum]].
 
-**Avantage.** Le personnage peut, par une [action simple](./Action simple.md), dépenser une utilisation de [canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) pour charger d'énergie négative les armes de corps à corps de tous ses alliés dans un rayon de 9 mètres. Les armes affectées gagnent la propriété *[vicieuse](./vicieuse (propriété).md)* pendant 1 minute multipliée par le bonus du [Charisme](./Charisme.md) du personnage (minimum 1 minute).
+**Avantage.** Le personnage peut, par une [[action simple]], dépenser une utilisation de [[Prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] pour charger d'énergie négative les armes de corps à corps de tous ses alliés dans un rayon de 9 mètres. Les armes affectées gagnent la propriété *[[vicieuse (propriété)|vicieuse]]* pendant 1 minute multipliée par le bonus du [[Charisme]] du personnage (minimum 1 minute).

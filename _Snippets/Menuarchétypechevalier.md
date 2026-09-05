@@ -4,25 +4,25 @@
 
 <div class="presentation navmenudroite">
 ### Les archétypes de chevalier
-&nbsp;Retour à la [classe](./../Pathfinder-RPG/Chevalier.md).
-<ul style="margin-top:2px"><li>[Appât](./../Pathfinder-RPG/Appât (chevalier).md) (AG)</li>
-<li>[Cavalier cruel](./../Pathfinder-RPG/Cavalier cruel (Chevalier).md) ([Hobgobelin](./../Pathfinder-RPG/Hobgobelin (race).md)) (MR)</li>
-<li>[Cavalier des bêtes](./../Pathfinder-RPG/Cavalier des bêtes (chevalier).md) (AG)</li>
-<li>[Champion audacieux](./../Pathfinder-RPG/Champion audacieux (chevalier).md) (MCA)</li>
-<li>[Chevalier d'Arnisant](./../Pathfinder-RPG/Chevalier dArnisant (chevalier).md) (*AMH*)</li>
-<li>[Chevalier de cour](./../Pathfinder-RPG/Chevalier de cour (chevalier).md) (*UI*)</li>
-<li>[Chevalier fantôme](./../Pathfinder-RPG/Chevalier fantôme (chevalier).md) (AO)</li>
-<li>[Émissaire](./../Pathfinder-RPG/Émissaire (chevalier).md) (AG)</li>
-<li>[Estradiot](./../Pathfinder-RPG/Estradiot (chevalier).md) (*UI*)</li>
-<li>[Garde d'honneur](./../Pathfinder-RPG/Garde dhonneur  (chevalier).md) (AG)</li>
-<li>[Général audacieux](./../Pathfinder-RPG/Général audacieux (chevalier).md) (*UI*)</li>
-<li>[Hussard](./../Pathfinder-RPG/Hussard (chevalier).md) (AG)</li>
-<li>[Mousquetaire](./../Pathfinder-RPG/Mousquetaire (chevalier).md) (AG)</li>
-<li>[Porte-étendard](./../Pathfinder-RPG/Porte-étendard (chevalier).md) (AG)</li>
-<li>[Stratège](./../Pathfinder-RPG/Stratège (chevalier).md) (AG)</li>
+&nbsp;Retour à la [[Chevalier|classe]].
+<ul style="margin-top:2px"><li>[[Appât (chevalier)|Appât]] (AG)</li>
+<li>[[Cavalier cruel (chevalier)|Cavalier cruel]] ([[hobgobelin (race)|Hobgobelin]]) (MR)</li>
+<li>[[Cavalier des bêtes (chevalier)|Cavalier des bêtes]] (AG)</li>
+<li>[[Champion audacieux (chevalier)|Champion audacieux]] (MCA)</li>
+<li>[[Chevalier dArnisant (chevalier)|Chevalier d'Arnisant]] (*AMH*)</li>
+<li>[[Chevalier de cour (chevalier)|Chevalier de cour]] (*UI*)</li>
+<li>[[Chevalier fantôme (chevalier)|Chevalier fantôme]] (AO)</li>
+<li>[[Émissaire (chevalier)|Émissaire]] (AG)</li>
+<li>[[Estradiot (chevalier)|Estradiot]] (*UI*)</li>
+<li>[[Garde dhonneur  (chevalier)|Garde d'honneur]] (AG)</li>
+<li>[[Général audacieux (chevalier)|Général audacieux]] (*UI*)</li>
+<li>[[Hussard (chevalier)|Hussard]] (AG)</li>
+<li>[[Mousquetaire (chevalier)|Mousquetaire]] (AG)</li>
+<li>[[Porte-étendard (chevalier)|Porte-étendard]] (AG)</li>
+<li>[[Stratège (chevalier)|Stratège]] (AG)</li>
 
-<li>[Le samouraï](./../Pathfinder-RPG/Samouraï.md) (classe alternative) (AG)</li>
-<li>[Lame sainte](./../Pathfinder-RPG/lame sainte (chevalier).md) (*DEP*)</li>
-<li>[Yojimbo](./../Pathfinder-RPG/Yojimbo (samouraï).md) (*AMH*)</li>
+<li>[[Samouraï|Le samouraï]] (classe alternative) (AG)</li>
+<li>[[Lame sainte (chevalier)|Lame sainte]] (*DEP*)</li>
+<li>[[Yojimbo (samouraï)|Yojimbo]] (*AMH*)</li>
 </ul>
 </div>

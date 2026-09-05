@@ -13,9 +13,9 @@ Categories:
 
 *Le personnage peut augmenter ses caractéristiques propres en puisant dans un effet de transmutation affectant un objet magique.*
 
-**Catégorie.** [maîtrise d’objet](./Dons.md#MAITRISEDOBJET)
+**Catégorie.** [[dons#MAITRISEDOBJET|maîtrise d’objet]]
 
-**Conditions.** 3 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md), bonus de base de [Vigueur](./Vigueur.md) +4
+**Conditions.** 3 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]], bonus de base de [[Vigueur]] +4
 
 **Avantages.** Une fois par jour, le personnage peut méditer 10 minutes sur une armure magique ou un objet merveilleux dont une des conditions de fabrication est un sort de transmutation de niveau 2 ou supérieur et qui occupe un emplacement sur son corps. À la fin de cette méditation, il obtient un bonus d’altération de +2 à une caractéristique de son choix. Ce bénéfice dure pendant 24 heures. Le personnage doit porter l’objet pour en obtenir le bénéfice et s’il est ôté avant la fin de la durée, l’avantage conféré cesse et ne peut être regagné avant que 24 heures ne se soient écoulées depuis la fin de la dernière activation du don. Un personnage ne peut obtenir le bénéfice de ce don qu’une seule fois en un temps donné.
 

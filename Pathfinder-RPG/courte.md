@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#La_portée_18
 ---
 
->>> [Présentation des sorts#La_portée_18](./Présentation des sorts.md#La_portée_18)
+>>> [[Présentation des sorts#La_portée_18]]

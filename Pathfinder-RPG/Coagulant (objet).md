@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 25 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Cette substance visqueuse et rosâtre aide à soigner les blessures. Si le personnage en utilise une dose, il gagne un bonus alchimique de +5 à ses tests de [Premiers secours](./Premiers secours.md) pour apporter les premiers soins à quelqu’un, traiter les blessures provoquées par des [chausse-trappes](./Chausse-trappes (objet).md) ou des objets similaires ou pour panser des blessures mortelles. Une dose de coagulant annule l’effet de [saignement](./Saignement.md) comme si le personnage avait fait un test de Premiers secours [DD](./DD.md) 15. Lorsqu’il s’agit de traiter des blessures mortelles, la dose de coagulant compte comme une utilisation d’une [trousse de premiers secours](./Trousse de premiers secours (objet).md) (et accorde le bonus de +5 mentionné plus haut).
+Cette substance visqueuse et rosâtre aide à soigner les blessures. Si le personnage en utilise une dose, il gagne un bonus alchimique de +5 à ses tests de [[Premiers secours]] pour apporter les premiers soins à quelqu’un, traiter les blessures provoquées par des [[Chausse-trappes (objet)|chausse-trappes]] ou des objets similaires ou pour panser des blessures mortelles. Une dose de coagulant annule l’effet de [[saignement]] comme si le personnage avait fait un test de Premiers secours [[DD]] 15. Lorsqu’il s’agit de traiter des blessures mortelles, la dose de coagulant compte comme une utilisation d’une [[Trousse de premiers secours (objet)|trousse de premiers secours]] (et accorde le bonus de +5 mentionné plus haut).

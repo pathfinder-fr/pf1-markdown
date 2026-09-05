@@ -6,11 +6,11 @@ Categories:
 - Sort magicien 1
 ---
 
-{s:MCA}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1  
+{s:MCA}**École** [[Nécromancie]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** contact  
 
@@ -18,6 +18,6 @@ Categories:
 
 **Durée** instantanée  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Quand le personnage touche une créature morte-vivante, il canalise l’énergie négative, qui soigne 1d8 points de dégâts, + 1 point par niveau de lanceur (+5 au maximum). Ce sort n’a aucun effet sur les créatures vivantes, sauf sur celles que l’énergie négative soigne, qui sont elles aussi soignées par ce sort.

@@ -14,38 +14,38 @@ Categories:
 {s:pucem|Mort-Vivant|Souterrain|Tempéré}
 - *Source : Bestiaire 3* p.234
 - **PX** 76 800
-- **[Mort-Vivant](./type Mort-vivant.md)** de taille G, NM
-- **Init** +9 ; **Sens** Perception de la vie, [vision dans le noir](./vision dans le noir.md) 18m ; [Perception](./Perception.md) +17
+- **[[Type Mort-Vivant|Mort-Vivant]]** de taille G, NM
+- **Init** +9 ; **Sens** Perception de la vie, [[vision dans le noir]] 18m ; [[Perception]] +17
 - **Aura** aura de dessiccation (9 m, DD 26)
 (((Défense)))
 - **CA** 31, contact 19, pris au dépourvu 21 (Dex +9, esquive +1, naturelle +12, taille –1)
 - **pv** 230 (20d8+140)
 - **Réf** +17, **Vig** +14, **Vol** +18
-- **Capacités défensives** [liberté de mouvement](./Liberté de mouvement.md), [résistance à la canalisation](./résistance à la canalisation.md) +4 ; **RD** 10/argent et magique ; 
+- **Capacités défensives** [[liberté de mouvement]], [[résistance à la canalisation]] +4 ; **RD** 10/argent et magique ; 
 - **Immunité** traits des morts-vivants ; **RM** 27
 (((Attaque)))
 - **VD** 15 m (9 {s:c}), escalade 15 m (9 {s:c}),
-- **Corps à corps** 2 morsures, +23 (4d10+10 plus [étreinte](./Étreinte.md))
+- **Corps à corps** 2 morsures, +23 (4d10+10 plus [[étreinte]])
 - **Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})
-- **Attaques spéciales** absorption d’énergie (niveau 1, **DD** 26), canalisation d’énergie négative (8d6, **DD** 24, 9/jour), [constriction](./constriction.md) (4d10+10 plus absorption d’énergie), [constriction](./constriction.md) draineuse de vie 
-- **Pouvoirs magiques** (**NLS** 16 ; [concentration](./concentration.md) +22) Constant — [liberté de mouvement](./Liberté de mouvement.md) 1/jour — [flétrissure](./Flétrissure.md) (**DD** 24), vagues d’épuisement
+- **Attaques spéciales** absorption d’énergie (niveau 1, **DD** 26), canalisation d’énergie négative (8d6, **DD** 24, 9/jour), [[constriction]] (4d10+10 plus absorption d’énergie), [[constriction]] draineuse de vie 
+- **Pouvoirs magiques** (**NLS** 16 ; [[concentration]] +22) Constant — [[liberté de mouvement]] 1/jour — [[flétrissure]] (**DD** 24), vagues d’épuisement
 (((Statistiques)))
 - **For** 25, **Dex** 29, **Con** —, **Int** 6, **Sag** 19, **Cha** 22
-- **BBA** +15 ; **BMO** +25 (+29 [lutte](./lutte.md)) ; **DMD** 43 ([croc-en-jambe](./croc-en-jambe.md) impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en finesse](./Attaque en finesse.md), [Châtiment canalisé](./Châtiment canalisé.md), [Esquive](./Esquive.md), [Fente](./Fente.md), [Frappe décisive](./Frappe décisive.md), [Manoeuvres agiles](./Manoeuvres-agiles.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md),
-- **Compétences** [Discrétion](./Discrétion.md) +18, [Escalade](./Escalade.md) +28, [évasion](./Évasion.md) +19, [Perception](./Perception.md) +17
-- **Langue** aklo ; [télépathie](./Télépathie.md) à 30 m
+- **BBA** +15 ; **BMO** +25 (+29 [[lutte]]) ; **DMD** 43 ([[croc-en-jambe]] impossible)
+- **Dons** [[Arme de prédilection]] (morsure), [[Attaque en finesse]], [[Châtiment canalisé]], [[Esquive]], [[Fente]], [[Frappe décisive]], [[Manoeuvres agiles]], [[Réflexes surhumains]], [[Robustesse]], [[Vigueur surhumaine]], [[Volonté de fer]],
+- **Compétences** [[Discrétion]] +18, [[Escalade]] +28, [[évasion]] +19, [[Perception]] +17
+- **Langue** aklo ; [[télépathie]] à 30 m
 - **Particularité** frappe rapide
 (((Écologie)))
 - **Environnement** souterrain
 - **Organisation sociale** solitaire, couple ou nid (3-8)
 - **Trésor** double
 (((POUVOIRS SPÉCIAUX)))
-- **Aura de dessiccation (Sur)**. Un nuage de poussière absorbant l’humidité emplit l’air dans un [rayon](./rayon.md) de 9 mètres autour du serpent creux. Les créatures vivantes présentes dans la zone doivent réussir un jet de [Vigueur](./Vigueur.md) DD 26 ou subir un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d6 points de [Force](./Force.md) alors que l’eau quitte leur chair. Qu’elles aient réussi leur jet de sauvegarde ou non, les créatures ne peuvent plus être affectées par l’aura de dessiccation de ce serpent creux pendant 24 heures. Les créatures n’ayant pas de corps de chair sont immunisées contre cette aura, tandis que les créatures de [sous-type aquatique](./sous-type aquatique.md) ou [Eau](./sous-type Eau.md) reçoivent un malus de -4 à leur [jet de sauvegarde](./jet de sauvegarde.md). Le DD du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).
-- **Canalisation d’énergie négative (Sur)**. Par une [action simple](./Action simple.md), le serpent creux peut canaliser l’énergie négative en une explosion de 9 mètres de [rayon](./rayon.md), comme un [prêtre](./Prêtre.md) d’alignement Mauvais de niveau 16. Cette capacité ne requiert aucun focalisateur divin. Le DD du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).
-- **Constriction draineuse de vie (Sur)**. Le serpent creux déborde d’une énergie négative capable d’aspirer la force vitale des créatures prisonnières de son étreinte. Chaque fois qu’une créature reçoit des dégâts de [constriction](./constriction.md) du serpent creux, elle reçoit un [niveau négatif](./niveau négatif.md). Le serpent creux gagne également 5 [points de vie temporaires](./points de vie temporaires.md) pour chaque [niveau négatif](./niveau négatif.md) qu’il inflige.
-- **Frappe rapide (Ext)**. Lorsqu’un serpent creux entreprend une [action complexe](./Action complexe.md), il peut faire deux attaques de morsure au lieu d’une seule.
-- **Perception de la vie (Sur)**. Le serpent creux détecte et localise toutes les créatures vivantes dans un [rayon](./rayon.md) de 18 mètres, comme s’il possédait la capacité [vision aveugle](./vision aveugle.md).
+- **Aura de dessiccation (Sur)**. Un nuage de poussière absorbant l’humidité emplit l’air dans un [[rayon]] de 9 mètres autour du serpent creux. Les créatures vivantes présentes dans la zone doivent réussir un jet de [[Vigueur]] DD 26 ou subir un [[affaiblissement temporaire]] de 1d6 points de [[Force]] alors que l’eau quitte leur chair. Qu’elles aient réussi leur jet de sauvegarde ou non, les créatures ne peuvent plus être affectées par l’aura de dessiccation de ce serpent creux pendant 24 heures. Les créatures n’ayant pas de corps de chair sont immunisées contre cette aura, tandis que les créatures de [[sous-type aquatique]] ou [[sous-type Eau|Eau]] reçoivent un malus de -4 à leur [[jet de sauvegarde]]. Le DD du [[jet de sauvegarde]] est basé sur le [[Charisme]].
+- **Canalisation d’énergie négative (Sur)**. Par une [[action simple]], le serpent creux peut canaliser l’énergie négative en une explosion de 9 mètres de [[rayon]], comme un [[prêtre]] d’alignement Mauvais de niveau 16. Cette capacité ne requiert aucun focalisateur divin. Le DD du [[jet de sauvegarde]] est basé sur le [[Charisme]].
+- **Constriction draineuse de vie (Sur)**. Le serpent creux déborde d’une énergie négative capable d’aspirer la force vitale des créatures prisonnières de son étreinte. Chaque fois qu’une créature reçoit des dégâts de [[constriction]] du serpent creux, elle reçoit un [[niveau négatif]]. Le serpent creux gagne également 5 [[points de vie temporaires]] pour chaque [[niveau négatif]] qu’il inflige.
+- **Frappe rapide (Ext)**. Lorsqu’un serpent creux entreprend une [[action complexe]], il peut faire deux attaques de morsure au lieu d’une seule.
+- **Perception de la vie (Sur)**. Le serpent creux détecte et localise toutes les créatures vivantes dans un [[rayon]] de 18 mètres, comme s’il possédait la capacité [[vision aveugle]].
 </div>
 <td><div>*Cette créature ressemble à une mue de serpent vide et surdimensionnée. Son corps est couvert de petites pointes et sa gueule est garnie de crocs irréguliers.*
 

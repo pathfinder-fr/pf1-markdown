@@ -14,18 +14,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Invocation](./Invocation.md) ([création](./branche création.md)) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Rôd](./Rôdeur.md) 2, [San](./Sanguin.md) 2  
+**École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ;** Niveau** [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Zone** cylindre (12 m (8 {s:c}) de rayon, 6 m (4 {s:c}) de haut)  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
 **Jet de sauvegarde** aucun ;** Résistance à la magie** non
 
-Une pluie de poussière, de gravats et de cailloux s'abat sur la zone et inflige 2d6 points de dégâts contondants à toute créature qui s'y trouve. Ces dégâts ne s'appliquent qu'une fois, au moment de l'incantation du sort. Pendant le reste de sa durée, les débris recouvrent la zone et la transforment en [terrain difficile](./terrain difficile.md). À la fin de sa durée, les cailloux disparaissent et ne laissent aucun effet persistant (en dehors des dégâts qu'ils ont causés).
+Une pluie de poussière, de gravats et de cailloux s'abat sur la zone et inflige 2d6 points de dégâts contondants à toute créature qui s'y trouve. Ces dégâts ne s'appliquent qu'une fois, au moment de l'incantation du sort. Pendant le reste de sa durée, les débris recouvrent la zone et la transforment en [[terrain difficile]]. À la fin de sa durée, les cailloux disparaissent et ne laissent aucun effet persistant (en dehors des dégâts qu'ils ont causés).

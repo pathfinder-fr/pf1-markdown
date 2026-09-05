@@ -6,6 +6,6 @@ LastModified: 2017-12-02 23:59
 
 {s:AO}*Le personnage peut utiliser sa palpation curative plus souvent.*
 
-**Conditions.** Pouvoir de classe [palpation curative](./Hypnotiseur.md#PALPATIONCURATIVE).
+**Conditions.** Pouvoir de classe [[hypnotiseur#PALPATIONCURATIVE|palpation curative]].
 
-**Avantage.** Chaque jour, le personnage peut utiliser [palpation curative](./Hypnotiseur.md#PALPATIONCURATIVE) deux fois de plus.
+**Avantage.** Chaque jour, le personnage peut utiliser [[hypnotiseur#PALPATIONCURATIVE|palpation curative]] deux fois de plus.

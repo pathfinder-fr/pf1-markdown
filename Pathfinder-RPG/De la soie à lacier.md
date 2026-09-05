@@ -13,19 +13,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une écharpe  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Le personnage imprègne une écharpe ordinaire (ou un vêtement similaire) avec la force de l’acier, sans pour autant modifier son poids ou sa souplesse. À chaque [round](./round.md), il peut, à son tour, utiliser l’écharpe pour se défendre (il gagne un bonus de bouclier de +2 à la [CA](./CA.md)) ou pour attaquer comme si l’écharpe était un
-[fouet](./Tableau récapitulatif des armes.md).
+Le personnage imprègne une écharpe ordinaire (ou un vêtement similaire) avec la force de l’acier, sans pour autant modifier son poids ou sa souplesse. À chaque [[round]], il peut, à son tour, utiliser l’écharpe pour se défendre (il gagne un bonus de bouclier de +2 à la [[CA]]) ou pour attaquer comme si l’écharpe était un
+[[Tableau récapitulatif des armes|fouet]].

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 75 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 30
-<span class="Catégorie">**Catégorie** [Armes alchimiques](./Armes alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Armes alchimiques]]</span>
 ---
-Ce petit feu d’artifice brûle vivement et émet un sinistre sifflement aigu. On peut le lancer sur une intersection, comme une [arme à aspersion](./arme à aspersion.md). Toutes les créatures situées dans un rayon de 1,50 mètre autour du bruit sont assourdies tant qu’elles restent dans la zone, les bruits les plus puissants qu’elles font étant étouffés par le son perçant. La ballerine banshie d’artifice brûle pendant 1d4+1 [rounds](./round.md) avant de se consumer sans un bruit dans un nuage de fumée. La fabrication de cet objet requiert un test d’[Artisanat](./Artisanat.md) (alchimie) [DD](./DD.md) 30.
+Ce petit feu d’artifice brûle vivement et émet un sinistre sifflement aigu. On peut le lancer sur une intersection, comme une [[arme à aspersion]]. Toutes les créatures situées dans un rayon de 1,50 mètre autour du bruit sont assourdies tant qu’elles restent dans la zone, les bruits les plus puissants qu’elles font étant étouffés par le son perçant. La ballerine banshie d’artifice brûle pendant 1d4+1 [[round|rounds]] avant de se consumer sans un bruit dans un nuage de fumée. La fabrication de cet objet requiert un test d’[[Artisanat]] (alchimie) [[DD]] 30.

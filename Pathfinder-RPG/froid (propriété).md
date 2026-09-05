@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Froid
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Froid](./Descriptions individuelles des propriétés spéciales des armes.md#Froid)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Froid]]

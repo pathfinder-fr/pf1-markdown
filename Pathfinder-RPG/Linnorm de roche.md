@@ -10,8 +10,8 @@ LastModified: 2021-04-05 14:19
 {s:pucem|Dragon|Montagnes|Froid}
 {s:BDTexte|*Source : Bestiaire 3* p.181}
 {s:BDTexte|**PX** 409 600}
-{s:BDTexte|[Dragon](./type Dragon.md) de taille C, CM}
-{s:BDTexte|**Init** +14 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), vision lucide, [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +34}
+{s:BDTexte|[[type Dragon|Dragon]] de taille C, CM}
+{s:BDTexte|**Init** +14 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), vision lucide, [[vision nocturne]] ; [[Perception]] +34}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 37, **contact** 12, **pris au dépourvu** 27 (Dex +10, naturelle +25, taille -8)}
 {s:BDTexte|**pv** 420 (24d12+264) ; régénération 20 (fer froid)}
@@ -19,14 +19,14 @@ LastModified: 2021-04-05 14:19
 {s:BDTexte|**Capacités défensives** liberté de mouvement ; **Immunités** effets mentaux, électricité, feu, paralysie, poison, sommeil ; **RM** 32 }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), nage 18 m (12 {s:c}), vol 30 m (20 {s:c}) (moyenne)}
-{s:BDTexte|**Corps à corps** morsure, +34 (3d8+18/19-20 plus poison) et 4 griffes, +34 (2d6+18) et queue, +29 (3d6+9 plus [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure, +34 (3d8+18/19-20 plus poison) et 4 griffes, +34 (2d6+18) et queue, +29 (3d6+9 plus [[étreinte]])}
 {s:BDTexte|**Espace** 9 m (6 {s:c}) ; **Allonge** 9 m (6 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (queue, 3d6+27), malédiction mortelle, souffle}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (queue, 3d6+27), malédiction mortelle, souffle}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 46, **Dex** 30, **Con** 33, **Int** 7, **Sag** 25, **Cha** 28}
-{s:BDTexte|**BBA** +24, **BMO** +50 (+54 [lutte](./lutte.md)), **DMD**70 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science de l'initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure), [Succession d'enchaînements](./Succession denchaînements.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +26, [Discrétion](./Discrétion.md) +21, [Natation](./Natation.md) +53, [Perception](./Perception.md) +34, [Vol](./Vol.md) +29}
+{s:BDTexte|**BBA** +24, **BMO** +50 (+54 [[lutte]]), **DMD**70 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Combat en aveugle]], [[Coup fabuleux]], [[Enchaînement]], [[Frappe décisive]], [[Réflexes surhumains]], [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (morsure), [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|**Compétences** [[Escalade]] +26, [[Discrétion]] +21, [[Natation]] +53, [[Perception]] +34, [[Vol]] +29}
 {s:BDTexte|**Langues** aklo, draconique, sylvestre}
 {s:BDTexte|**Part** affinité avec la lave}
 {s:BDSousTitre|Écologie}
@@ -35,14 +35,14 @@ LastModified: 2021-04-05 14:19
 {s:BDTexte|**Trésor** triple}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Affinité avec la lave (Ext).** Le linnorm de roche peut respirer et nager dans la lave et le magma.}
-{s:BDTexte|**Liberté de mouvement (Ext).** Cette capacité constante fonctionne comme le sort *[liberté de mouvement](./Liberté de mouvement.md)*. Ses effets ne peuvent pas être dissipés.}
-{s:BDTexte|**Malédiction mortelle (Sur).** Lorsqu'une créature tue un linnorm des falaises, la malédiction du sang bouillonnant s'abat sur elle. *Malédiction du sang bouillonnant* : *JdS* [Volonté](./Volonté.md) [DD](./DD.md) 31 ; effet la créature devient [vulnérable](./Vulnérabilités (capacité).md) au feu et est en permanence [chancelante](./Chancelant.md) à cause de la douleur due à son sang en ébullition.. Le [DD](./DD.md) dépend du [Charisme](./Charisme.md).}
-{s:BDTexte|**Poison (Ext).** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 33 ; *fréquence* 1/round pendant 10 rounds ; *effet* 8d6 points de dégâts de feu et [diminution permanente](./diminution permanente.md) 1d8 [Con](./Constitution.md) ; *guérison* 3 réussites consécutives. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Souffle (Ext).** Une fois tous les 1d4 rounds, par une [action simple](./Action simple.md), le linnorm de la taïga peut cracher un cône de flammes et de cendre de 18 mètres infligeant 24d8 points de dégâts de feu à toutes les créatures touchées ([Réflexes](./Réflexes.md) [DD](./DD.md) 33, 1/2 dégâts). Un round après l’utilisation de ce souffle, la zone affectée par l’attaque est couverte d’un nuage d’épaisse fumée ardente qui brûle les poumons et les yeux, infligeant 8d8 points de dégâts de feu supplémentaires à toutes les créatures présentes dans la zone. Toutes les créatures qui commencent leur tour dans la zone couverte par la fumée et la respirent doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 33 (+1 par test précédent) par round ou passer le round à tousser et s’étouffer. Les créatures qui gardent les yeux ouverts plus de 1 round alors qu’elles sont dans la zone de fumée doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 33 ou être [aveuglées](./Aveuglé.md) pendant 1d3 heures. La fumée se dissipe au bout de 2d4 rounds. Cette durée est réduite de moitié lorsqu’il y a de grands vents et divisée par quatre lorsqu’il y a des vents plus puissants encore. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Vision lucide (Ext).** Cette capacité constante fonctionne comme le sort de *[vision lucide](./Vision lucide.md)*.}
+{s:BDTexte|**Liberté de mouvement (Ext).** Cette capacité constante fonctionne comme le sort *[[liberté de mouvement]]*. Ses effets ne peuvent pas être dissipés.}
+{s:BDTexte|**Malédiction mortelle (Sur).** Lorsqu'une créature tue un linnorm des falaises, la malédiction du sang bouillonnant s'abat sur elle. *Malédiction du sang bouillonnant* : *JdS* [[Volonté]] [[DD]] 31 ; effet la créature devient [[vulnérabilités (capacité)|vulnérable]] au feu et est en permanence [[chancelant|chancelante]] à cause de la douleur due à son sang en ébullition.. Le [[DD]] dépend du [[Charisme]].}
+{s:BDTexte|**Poison (Ext).** Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 33 ; *fréquence* 1/round pendant 10 rounds ; *effet* 8d6 points de dégâts de feu et [[diminution permanente]] 1d8 [[Constitution|Con]] ; *guérison* 3 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
+{s:BDTexte|**Souffle (Ext).** Une fois tous les 1d4 rounds, par une [[action simple]], le linnorm de la taïga peut cracher un cône de flammes et de cendre de 18 mètres infligeant 24d8 points de dégâts de feu à toutes les créatures touchées ([[Réflexes]] [[DD]] 33, 1/2 dégâts). Un round après l’utilisation de ce souffle, la zone affectée par l’attaque est couverte d’un nuage d’épaisse fumée ardente qui brûle les poumons et les yeux, infligeant 8d8 points de dégâts de feu supplémentaires à toutes les créatures présentes dans la zone. Toutes les créatures qui commencent leur tour dans la zone couverte par la fumée et la respirent doivent réussir un jet de [[Vigueur]] [[DD]] 33 (+1 par test précédent) par round ou passer le round à tousser et s’étouffer. Les créatures qui gardent les yeux ouverts plus de 1 round alors qu’elles sont dans la zone de fumée doivent réussir un jet de [[Vigueur]] [[DD]] 33 ou être [[aveuglé|aveuglées]] pendant 1d3 heures. La fumée se dissipe au bout de 2d4 rounds. Cette durée est réduite de moitié lorsqu’il y a de grands vents et divisée par quatre lorsqu’il y a des vents plus puissants encore. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Vision lucide (Ext).** Cette capacité constante fonctionne comme le sort de *[[vision lucide]]*.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [linnorms](./Linnorms.md).***</li></ul>*Cet immense dragon sans ailes et à quatre pattes est couvert de sillons de magma flamboyant qui courent le long de son corps serpentin.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Linnorms]].***</li></ul>*Cet immense dragon sans ailes et à quatre pattes est couvert de sillons de magma flamboyant qui courent le long de son corps serpentin.*
 
 Les linnorms de roche incarnent la puissance brute et
 absolue de leurs semblables. Ils vivent dans les plus hautes

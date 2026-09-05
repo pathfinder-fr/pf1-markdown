@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:ISR}*Vos yeux se sont habitués à la lumière tamisée du crépuscule et de l'aube.*
 
-**Conditions.** [Sens très affûtés](./Sens très affûtés.md), 7 rangs en [Perception](./Perception.md), trait racial sens aiguisés, [vision nocturne](./Vision nocturne (capacité).md)
+**Conditions.** [[Sens très affûtés]], 7 rangs en [[Perception]], trait racial sens aiguisés, [[Vision nocturne (capacité)|vision nocturne]]
 
-**Avantages.** Les créatures qui se trouvent dans une zone de [lumière faible](./Exploration.md#VISIONLUMIERE) ne bénéficient pas d'un [camouflage](./camouflage.md) contre le personnage. Le personnage est toujours aveuglé dans les zones de [ténèbres](./Exploration.md#VISIONLUMIERE).
+**Avantages.** Les créatures qui se trouvent dans une zone de [[Exploration#VISIONLUMIERE|lumière faible]] ne bénéficient pas d'un [[camouflage]] contre le personnage. Le personnage est toujours aveuglé dans les zones de [[Exploration#VISIONLUMIERE|ténèbres]].
 
-**Normal.** Les créatures qui se trouvent dans une zone de [lumière faible](./Exploration.md#VISIONLUMIERE) bénéficient d'un [camouflage](./camouflage.md) (20 % de chances de rater en combat) contre celles qui ne possèdent ni la [vision dans le noir](./vision dans le noir (capacité).md) ni la capacité à [voir dans les ténèbres](./Vision dans les ténèbres (capacité).md).
+**Normal.** Les créatures qui se trouvent dans une zone de [[Exploration#VISIONLUMIERE|lumière faible]] bénéficient d'un [[camouflage]] (20 % de chances de rater en combat) contre celles qui ne possèdent ni la [[Vision dans le noir (capacité)|vision dans le noir]] ni la capacité à [[Vision dans les ténèbres (capacité)|voir dans les ténèbres]].

@@ -29,9 +29,9 @@ En fait, qu'il mène des soldats dans une charge suicidaire ou qu'il chasse les 
 {s:BDTitre|Alain|}
 - Humain (m) cavalier 1
 - Humanoïde (humain) de taille M, LN
-- **Divinité** [Abadar](./Abadar.md)
-- **Origine** [Taldor](./Taldor.md)
-- **Init** +1 ; **Sens** [Perception](./../Pathfinder-RPG/Perception.md) +4
+- **Divinité** [[Abadar]]
+- **Origine** [[Taldor]]
+- **Init** +1 ; **Sens** [[Pathfinder-RPG.Perception|Perception]] +4
 (((Défense)))
 - **CA** 17, **contact** 11, **dépourvu** 16 (armure +4, bouclier +2, Dex +1)
 - **pv** 12 (1d10+2)
@@ -44,8 +44,8 @@ En fait, qu'il mène des soldats dans une charge suicidaire ou qu'il chasse les 
 (((Caractéristiques)))
 - **For** 17, **Dex** 13, **Con** 14, **Int** 8, **Sag** 10, **Cha** 12
 - **BBA** +1 ; **BMO** +0 ; **DMD** 15
-- **Don** [Arme de prédilection](./../Pathfinder-RPG/Arme de prédilection.md) (épée longue), [Combat monté](./../Pathfinder-RPG/Combat monté.md), [Coup précis](./../Pathfinder-RPG/Coup précis.md)
-- **Compétences** [Bluff](./../Pathfinder-RPG/Bluff.md) +5, [Équitation](./../Pathfinder-RPG/Équitation.md) +5, [Escalade](./../Pathfinder-RPG/Escalade.md) +3, [Intimidation](./../Pathfinder-RPG/Intimidation.md) +5, [Perception](./../Pathfinder-RPG/Perception.md) +4
+- **Don** [[Pathfinder-RPG.Arme de prédilection|Arme de prédilection]] (épée longue), [[Pathfinder-RPG.Combat monté|Combat monté]], [[Pathfinder-RPG.Coup précis|Coup précis]]
+- **Compétences** [[Pathfinder-RPG.Bluff|Bluff]] +5, [[Pathfinder-RPG.Équitation|Équitation]] +5, [[Pathfinder-RPG.Escalade|Escalade]] +3, [[Pathfinder-RPG.Intimidation|Intimidation]] +5, [[Pathfinder-RPG.Perception|Perception]] +4
 - **Langues** commun
 - **Particularités** monture (cheval nomé Donohan), ordre de la cockatrice, tacticien 1/jour (Coup précis)
 - **Équipement de combat** chemise de maille, écu d'acier, arbalète légère avec 10 carreaux, fléau, lance, épée longue, sac à dos, bannière, harnachement pour monture, grappin, barde en cuir, rations (4), selle d'équitation, corde en soie, bâtons lumineux (3), 8 po

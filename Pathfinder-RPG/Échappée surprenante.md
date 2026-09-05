@@ -10,10 +10,10 @@ Categories:
 
 {s:cs}{s:UI}*Vous frappez par surprise et vous tournez autour de votre adversaire.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** Capacité de classe [apparition surprenante](./Justicier.md#APPARITIONSURPRENANTE)
+**Conditions.** Capacité de classe [[Justicier#APPARITIONSURPRENANTE|apparition surprenante]]
 
-**Avantages.** Lors d'un [round de surprise](./round de surprise.md), après avoir fait une action d'attaque pour attaquer une créature inconsciente de sa présence, le personnage peut effectuer une [action de mouvement](./Action de mouvement.md) pour se déplacer. S'il est déjà capable d'effectuer une [action simple](./Action simple.md) et une action de mouvement lors du round de surprise, ce don n'offre pas d'action supplémentaire.
+**Avantages.** Lors d'un [[round de surprise]], après avoir fait une action d'attaque pour attaquer une créature inconsciente de sa présence, le personnage peut effectuer une [[action de mouvement]] pour se déplacer. S'il est déjà capable d'effectuer une [[action simple]] et une action de mouvement lors du round de surprise, ce don n'offre pas d'action supplémentaire.
 
-**Normal.** Un personnage ne peut entreprendre qu'une [action simple](./Action simple.md) ou une [action de mouvement](./Action de mouvement.md) lors d'un round de surprise.
+**Normal.** Un personnage ne peut entreprendre qu'une [[action simple]] ou une [[action de mouvement]] lors d'un round de surprise.

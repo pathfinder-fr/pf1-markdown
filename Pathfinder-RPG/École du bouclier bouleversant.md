@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage peut frapper les armes ennemies pour perturber leurs attaques.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [Dex](./Dex.md) 13, maniement des [targes](./targe (armure).md)
+**Conditions.** [[Dex]] 13, maniement des [[targe (armure)|targes]]
 
-**Avantages.** Le personnage peut donner des coups de bouclier avec une [targe](./targe (armure).md) comme s'il s'agissait d'une [rondache](./rondache (arme).md) et peut utiliser une targe dans le cadre de tous les dons ou capacités qui s'appliquent normalement aux rondaches. Quand le personnage utilise cette école, s'il réussit à infliger des dégâts à un ennemi avec un coup de bouclier en utilisant une targe, l'ennemi subit un malus de -2 à tous les [jets d'attaque](./jet dattaque.md) effectués contre le personnage jusqu'au début du prochain tour du personnage.
+**Avantages.** Le personnage peut donner des coups de bouclier avec une [[targe (armure)|targe]] comme s'il s'agissait d'une [[rondache (arme)|rondache]] et peut utiliser une targe dans le cadre de tous les dons ou capacités qui s'appliquent normalement aux rondaches. Quand le personnage utilise cette école, s'il réussit à infliger des dégâts à un ennemi avec un coup de bouclier en utilisant une targe, l'ennemi subit un malus de -2 à tous les [[jet dattaque|jets d'attaque]] effectués contre le personnage jusqu'au début du prochain tour du personnage.

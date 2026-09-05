@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#ZONEDEFFET
 ---
 
->>> [Présentation des sorts#ZONEDEFFET](./Présentation des sorts.md#ZONEDEFFET)
+>>> [[Présentation des sorts#ZONEDEFFET]]

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 18 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ce rapace de taille TP aux ailes courtes est un oiseau de proie courant mais plus souvent utilisé par la petite noblesse que par les roturiers sans titre. Les éperviers sont réputés pour leur vue perçante et la puissance de leurs vols en piqué. Voir les statistiques du [faucon](./Faucon.md).
+Ce rapace de taille TP aux ailes courtes est un oiseau de proie courant mais plus souvent utilisé par la petite noblesse que par les roturiers sans titre. Les éperviers sont réputés pour leur vue perçante et la puissance de leurs vols en piqué. Voir les statistiques du [[faucon]].

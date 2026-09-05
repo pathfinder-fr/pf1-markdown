@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Roncier.md).***
+***Voir les [[Pathfinder-RPG.Roncier|statistiques de cet artefact]].***
 
 On dirait que cette épée bâtarde a poussée toute seule au lieu d’être forgée. Sa garde complexe et sa lame élégante sont enchâssées de pierres étranges luisant d’une couleur plus profonde que l’émeraude et donnent naissance à de fines tiges d’argent.
 

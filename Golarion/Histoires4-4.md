@@ -4,8 +4,8 @@ Title: La Pierre
 LastModified: 2010-10-08 11:39
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du quatrième chapitre : "[The Stone](http://paizo.com/pathfinder/tales/serial/v5748dyo5lbft)" de la nouvelle "Certitudes" de Liane Merciel. Illustration de KyuShik Shin.*
 
 "Jélani, Adrun, suivez-moi, "dis-je. "Les autres, continuez tout droit." Quelle que fût la chose que l'éclaireur avait découvert, elle l'avait terrifié et je ne voulais pas que sa panique s'étende aux autres.

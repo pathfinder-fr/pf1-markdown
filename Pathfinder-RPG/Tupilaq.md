@@ -10,32 +10,32 @@ LastModified: 2021-02-23 17:43
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p 266*}
 {s:BDTexte|**PX** 204 800}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille P, N}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille P, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 15, pris au dépourvu 16 (Dex +4, naturelle +5, taille +1)}
 {s:BDTexte|**pv** 59 (9d10+10)}
 {s:BDTexte|**Réf** +7, **Vig** +3, **Vol** +3}
-{s:BDTexte|**Immunités** [traits des créatures artificielles](./type Créature artificielle.md) ; **[RD](./RD.md)** 10/contondant}
+{s:BDTexte|**Immunités** [[type Créature artificielle|traits des créatures artificielles]] ; **[[RD]]** 10/contondant}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 18 m (12 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +15 (1d8+10/19-20 plus [étreinte](./Étreinte (capacité).md)) et 2 griffes, +15 (1d4+5)}
+{s:BDTexte|**Corps à corps** morsure, +15 (1d8+10/19-20 plus [[étreinte (capacité)|étreinte]]) et 2 griffes, +15 (1d4+5)}
 {s:BDTexte|**Attaques spéciales** recherche de cible, mâchoires tranchantes}
 {s:BDTexte|**Pouvoirs magiques** (NLS 7 ; concentration +4)}
-{s:BDSorts|3/jour — *[invisibilité](./Invisibilité.md)*}
+{s:BDSorts|3/jour — *[[invisibilité]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 18, **Con** —, **Int** —, **Sag** 11, **Cha** 5}
-{s:BDTexte|**BBA** +9, **BMO** +13 (+17 en [lutte](./lutte.md)), **DMD** 27}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +13}
+{s:BDTexte|**BBA** +9, **BMO** +13 (+17 en [[lutte]]), **DMD** 27}
+{s:BDTexte|**Compétences** [[Natation]] +13}
 {s:BDTexte|**Particularité** magie de la gravure sur os}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Mâchoires tranchantes (Ext).** Tous les tupilaqs sont construits avec des mâchoires surdimensionnées capables de déchirer et de tracter. Le tupilaq rajoute deux fois son modificateur de Force aux dégâts qu’il inflige sur une morsure réussie et peut porter un [coup critique](./coup critique.md) sur un 19 ou un 20. Le tupilaq est considéré comme une créature de taille G en ce qui concerne tous ses tests pour déplacer un adversaire [agrippé](./Agrippé.md).}
-{s:BDTexte|**Magie de la gravure sur os (Sur).** Lorsqu’un tupilaq est créé, son créateur peut inscrire un unique sort de sa connaissance (n’excédant pas le niveau 2 et ne nécessitant aucune composante matérielle) au sein du tupilaq sous forme d’un motif gravé complexe. Le tupilaq peut utiliser ce sort comme un [pouvoir magique](./pouvoir magique.md) ([NLS](./NLS.md) 7) trois fois par jour. Le créateur du tupilaq peut inscrire un nouveau sort sur le tupilaq s’il le souhaite, remplaçant ainsi le précédent. Il faut 24 heures de travail pour faire une nouvelle gravure et dépenser 500 po de matériel. Le tupilaq présenté ici utilise le sort *[invisibilité](./Invisibilité.md)* de cette manière. *[Effacement](./Effacement.md)* peut détruire la gravure du tupilaq si celui-ci rate un [jet de Vigueur](./jet de sauvegarde.md) contre le sort. Lorsque la gravure d’un tupilaq est ainsi effacée, il n’a plus accès à ce sort comme [pouvoir magique](./pouvoir magique.md) et part en quête de son créateur pour l’attaquer et le tuer. Le créateur du tupilaq devient alors la cible de la capacité de recherche de cible du tupilaq. Si son créateur est déjà mort, le tupilaq cherche alors la créature vivante la plus proche et l’attaque à vue, poursuivant cette orgie meurtrière jusqu’à ce qu’il soit lui-même détruit.}
-{s:BDTexte|**Recherche de cible (Sur).** Le créateur du tupilaq peut placer une goutte de sang, un cheveu ou une autre partie du corps d’une créature dans la mâchoire du tupilaq par une [action simple](./Action simple.md). À partir de ce moment, le tupilaq sait toujours dans quelle direction se trouve la créature et gagne un bonus d’intuition de +20 à tous ses tests de [Perception](./Perception.md) pour la localiser. Il est impossible d’assigner ainsi une nouvelle cible au tupilaq tant que la précédente n’est pas morte.}
+{s:BDTexte|**Mâchoires tranchantes (Ext).** Tous les tupilaqs sont construits avec des mâchoires surdimensionnées capables de déchirer et de tracter. Le tupilaq rajoute deux fois son modificateur de Force aux dégâts qu’il inflige sur une morsure réussie et peut porter un [[coup critique]] sur un 19 ou un 20. Le tupilaq est considéré comme une créature de taille G en ce qui concerne tous ses tests pour déplacer un adversaire [[agrippé]].}
+{s:BDTexte|**Magie de la gravure sur os (Sur).** Lorsqu’un tupilaq est créé, son créateur peut inscrire un unique sort de sa connaissance (n’excédant pas le niveau 2 et ne nécessitant aucune composante matérielle) au sein du tupilaq sous forme d’un motif gravé complexe. Le tupilaq peut utiliser ce sort comme un [[pouvoir magique]] ([[NLS]] 7) trois fois par jour. Le créateur du tupilaq peut inscrire un nouveau sort sur le tupilaq s’il le souhaite, remplaçant ainsi le précédent. Il faut 24 heures de travail pour faire une nouvelle gravure et dépenser 500 po de matériel. Le tupilaq présenté ici utilise le sort *[[invisibilité]]* de cette manière. *[[Effacement]]* peut détruire la gravure du tupilaq si celui-ci rate un [[jet de sauvegarde|jet de Vigueur]] contre le sort. Lorsque la gravure d’un tupilaq est ainsi effacée, il n’a plus accès à ce sort comme [[pouvoir magique]] et part en quête de son créateur pour l’attaquer et le tuer. Le créateur du tupilaq devient alors la cible de la capacité de recherche de cible du tupilaq. Si son créateur est déjà mort, le tupilaq cherche alors la créature vivante la plus proche et l’attaque à vue, poursuivant cette orgie meurtrière jusqu’à ce qu’il soit lui-même détruit.}
+{s:BDTexte|**Recherche de cible (Sur).** Le créateur du tupilaq peut placer une goutte de sang, un cheveu ou une autre partie du corps d’une créature dans la mâchoire du tupilaq par une [[action simple]]. À partir de ce moment, le tupilaq sait toujours dans quelle direction se trouve la créature et gagne un bonus d’intuition de +20 à tous ses tests de [[Perception]] pour la localiser. Il est impossible d’assigner ainsi une nouvelle cible au tupilaq tant que la précédente n’est pas morte.}
 </div>
 </td><td><div>
 *Cette petite créature humanoïde se déplace en grinçant et en cliquetant, son corps étant taillé dans de l’os et orné de fines gravures.*
@@ -51,6 +51,6 @@ Le tupilaq est construit à partir de 15 kilos d’os de baleines liés ensemble
 - **NLS** 8 ; **Prix** 21 000 po
 
 **Construction**
-- **Conditions** Création de créature artificielle, *[affûtage](./Affûtage.md)*, *[mission](./Mission.md)*, *[localisation de créature](./Localisation de créature.md)* le créateur doit avoir un niveau de lanceur de sorts minimum de 8, la création doit se faire dans le plus grand secret ; **Compétences** [Artisanat](./Artisanat.md) (gravure sur os) [DD](./DD.md) 20 ; **Coût** 10 875 po
+- **Conditions** Création de créature artificielle, *[[affûtage]]*, *[[mission]]*, *[[localisation de créature]]* le créateur doit avoir un niveau de lanceur de sorts minimum de 8, la création doit se faire dans le plus grand secret ; **Compétences** [[Artisanat]] (gravure sur os) [[DD]] 20 ; **Coût** 10 875 po
 </div>
 </div></td></tr></table>

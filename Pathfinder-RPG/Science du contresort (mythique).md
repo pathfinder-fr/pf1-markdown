@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage comprend instinctivement le fonctionnement de la magie, ce qui lui permet de dissiper des sorts à l’aide d’énergie magique pure.*
 
-**Condition.** [Science du contresort](./Science du contresort.md)
+**Condition.** [[Science du contresort]]
 
 **Avantage.** Lorsqu’il contre un sort, le personnage peut utiliser un sort de la même école de magie dont le niveau est supérieur ou égal à celui du sort ciblé.

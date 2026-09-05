@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Le style de combat du personnage lui permet de transformer les attaques de ses adversaires en opportunités.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [École de la tortue alligator](./École de la tortue alligator.md), [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +3 ou [moine](./Moine.md) de niveau 3
+**Conditions.** [[École de la tortue alligator]], [[Science de la lutte]], [[Science du combat à mains nues]], [[BBA]] +3 ou [[moine]] de niveau 3
 
-**Avantage.** Quand le personnage utilise l’[École de la tortue alligator](./École de la tortue alligator.md), le bonus de bouclier que l’école lui donne à la [CA](./CA.md) s’applique aussi au [DMD](./DMD.md) et à la [CA](./CA.md) au contact. Quand un adversaire le rate lors d’une attaque au corps à corps, il peut dépenser une [action immédiate](./Action immédiate.md) pour tenter une manœuvre de [lutte](./lutte.md) contre lui avec un malus de -2.
+**Avantage.** Quand le personnage utilise l’[[École de la tortue alligator]], le bonus de bouclier que l’école lui donne à la [[CA]] s’applique aussi au [[DMD]] et à la [[CA]] au contact. Quand un adversaire le rate lors d’une attaque au corps à corps, il peut dépenser une [[action immédiate]] pour tenter une manœuvre de [[lutte]] contre lui avec un malus de -2.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage tente une manœuvre de [lutte](./lutte.md) par une [action immédiate](./Action immédiate.md) grâce à ce don, il peut dépenser 2 points d’endurance pour annuler le malus de –2 au test de manœuvre offensive.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage tente une manœuvre de [[lutte]] par une [[action immédiate]] grâce à ce don, il peut dépenser 2 points d’endurance pour annuler le malus de –2 au test de manœuvre offensive.

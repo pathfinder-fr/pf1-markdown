@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.92*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([métamorphe](./sous-type métamorphe.md)) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type métamorphe|métamorphe]]) de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 14 (Dex +1, esquive +1, naturelle +4)}
 {s:BDTexte|**pv** 26 (4d10+4)}
@@ -28,17 +28,17 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 13, **Con** 12, **Int** 13, **Sag** 14, **Cha** 13}
 {s:BDTexte|**BBA** +4, **BMO** +8, **DMD** 20}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +9 (+13 avec la capacité de [changement de forme](./Changement de forme (capacité).md)), [Déguisement](./Déguisement.md) +9 (+29 avec la capacité de [changement de forme](./Changement de forme (capacité).md)), [Diplomatie](./Diplomatie.md) +4, [Discrétion](./Discrétion.md) +5, [Perception](./Perception.md) +9, [Psychologie](./Psychologie.md) +6 ; **Modificateurs raciaux** [Bluff](./Bluff.md) +4, [Déguisement](./Déguisement.md) +4}
+{s:BDTexte|**Dons** [[Esquive]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Bluff]] +9 (+13 avec la capacité de [[changement de forme (Capacité)|changement de forme]]), [[Déguisement]] +9 (+29 avec la capacité de [[changement de forme (Capacité)|changement de forme]]), [[Diplomatie]] +4, [[Discrétion]] +5, [[Perception]] +9, [[Psychologie]] +6 ; **Modificateurs raciaux** [[Bluff]] +4, [[Déguisement]] +4}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (*[modification d'apparence](./Modification dapparence.md)*), copie parfaite, mimétisme}
+{s:BDTexte|**Particularités** [[changement de forme (Capacité)|changement de forme]] (*[[modification dapparence|modification d'apparence]]*), copie parfaite, mimétisme}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou bande (3-6)}
 {s:BDTexte|**Trésor** équipement de PNJ}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Copie parfaite (Sur)** Lorsqu'un doppelganger utilise sa capacité de [changement de forme](./Changement de forme (capacité).md), il peut prendre l'apparence d'individus spécifiques.}
-{s:BDTexte|**Mimétisme (Ext).** Les doppelgangers sont formés au maniement de toutes les armes et au port de toutes les armures et de tous les boucliers. Ils peuvent également utiliser n'importe quel [objet à potentiel magique](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE) ou [à fin d'incantation](./Règles relatives aux objets magiques.md#OBJETSAFINDINCANTATION) comme si les sorts concernés se trouvaient sur leur liste de sorts. Leur [NLS](./NLS.md) est égal à leur nombre de [DV](./../Ressources/DV.md).}
+{s:BDTexte|**Copie parfaite (Sur)** Lorsqu'un doppelganger utilise sa capacité de [[changement de forme (Capacité)|changement de forme]], il peut prendre l'apparence d'individus spécifiques.}
+{s:BDTexte|**Mimétisme (Ext).** Les doppelgangers sont formés au maniement de toutes les armes et au port de toutes les armures et de tous les boucliers. Ils peuvent également utiliser n'importe quel [[Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|objet à potentiel magique]] ou [[Règles relatives aux objets magiques#OBJETSAFINDINCANTATION|à fin d'incantation]] comme si les sorts concernés se trouvaient sur leur liste de sorts. Leur [[NLS]] est égal à leur nombre de [[DV]].}
 </div>
 </td><td><div>*La tête étroite, les membres décharnés et le visage sans nez de cet être grisâtre lui donnent l’apparence d’une sculpture inachevée.*
 
@@ -91,6 +91,6 @@ qu’ils choisissent d’imiter.
 La capacité de changement
 de forme de ces créatures
 fonctionne comme le sort
-de [métamorphose](./métamorphose.md) plutôt
-que comme [modification d’apparence](./Modification dapparence.md).
+de [[métamorphose]] plutôt
+que comme [[modification dapparence|modification d’apparence]].
 </div></td></tr></table>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#BRASSEVIGOUREUSE
 ---
 
->>> [Talents#BRASSEVIGOUREUSE](./Talents.md#BRASSEVIGOUREUSE)
+>>> [[Talents#BRASSEVIGOUREUSE]]

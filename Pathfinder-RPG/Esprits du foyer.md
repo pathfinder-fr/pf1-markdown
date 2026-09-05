@@ -13,13 +13,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Domovoï](./Domovoï.md) || 3
+| [[Domovoï]] || 3
 |-
-| [Dvorovoï](./Dvorovoï.md) || 4
+| [[Dvorovoï]] || 4
 |-
-| [Ovinnik](./Ovinnik.md) || 2
+| [[Ovinnik]] || 2
 |}
 </div></div><div class="description">**Source :** Bestiaire 5, p.116.</div>
-*Types/Sous-types associés : [Fée](./type Fée.md)*
+*Types/Sous-types associés : [[type Fée|Fée]]*
 
-Ces créatures féériques, parfois serviables, et connues sous l’appellation d’esprits du foyer s’attachent à des familles paysannes et vivent parmi elles. Certaines partagent des traits avec des ancêtres de leur famille d’adoption, une ressemblance qui ne fait que s’accentuer avec le temps qu’ils passent au service de cette famille. Les esprits du foyer utilisent leurs pouvoirs de [compression](./Compression (capacité).md) et d’*[invisibilité](./Invisibilité.md)* pour rester hors de vue de ceux avec qui ils vivent.
+Ces créatures féériques, parfois serviables, et connues sous l’appellation d’esprits du foyer s’attachent à des familles paysannes et vivent parmi elles. Certaines partagent des traits avec des ancêtres de leur famille d’adoption, une ressemblance qui ne fait que s’accentuer avec le temps qu’ils passent au service de cette famille. Les esprits du foyer utilisent leurs pouvoirs de [[Compression (capacité)|compression]] et d’*[[invisibilité]]* pour rester hors de vue de ceux avec qui ils vivent.

@@ -14,23 +14,23 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.222}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, CM}
-{s:BDTexte|**Init** +8 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, CM}
+{s:BDTexte|**Init** +8 ; **Sens** [[odorat]], [[vision dans le noir]] 36 m (24 {s:c}) ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 11 (Dex +4, naturelle +1)}
 {s:BDTexte|**pv** 22 (3d10+6)}
 {s:BDTexte|**Réf** +9, **Vig** +3, **Vol** +5}
 {s:BDTexte|**Immunités** maladies, poison }
-{s:BDTexte|**Faiblesses** [aveuglé par la lumière](./Aveuglé par la lumière.md)}
+{s:BDTexte|**Faiblesses** [[aveuglé par la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}), escalade 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** gourdin +5 (1d6+2), morsure +0 (1d4+1)}
-{s:BDTexte|**Attaques spéciales** attaque au cours d'un saut, [attaque sournoise](./attaque sournoise.md) +1d6, regroupement}
+{s:BDTexte|**Attaques spéciales** attaque au cours d'un saut, [[attaque sournoise]] +1d6, regroupement}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 19, **Con** 15, **Int** 5, **Sag** 14, **Cha** 6}
 {s:BDTexte|**BBA** +3, **BMO** +5, **DMD** 19}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +13, [Discrétion](./Discrétion.md) +8 (+12 dans les cavernes), [Escalade](./Escalade.md) +22 ; **Modificateurs raciaux** +8 en [Acrobaties](./Acrobaties.md), +4 en [Discrétion](./Discrétion.md) dans les cavernes, +16 en [Escalade](./Escalade.md)}
+{s:BDTexte|**Dons** [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +13, [[Discrétion]] +8 (+12 dans les cavernes), [[Escalade]] +22 ; **Modificateurs raciaux** +8 en [[Acrobaties]], +4 en [[Discrétion]] dans les cavernes, +16 en [[Escalade]]}
 {s:BDTexte|**Langues** commun des profondeurs}
 {s:BDTexte|**Particularités** expert en escalade}
 {s:BDSousTitre|Écologie}
@@ -38,9 +38,9 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple, groupe (3-6) ou tribu (7-18)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Attaque au cours d'un saut (Ext).** Par une [action simple](./Action simple.md), un morlock peut sauter et porter une attaque. Il peut effectuer cette attaque à n'importe quel moment du saut (au début, à la fin ou alors qu'il est en l'air). Pendant le saut, le morlock peut quitter une case contrôlée par un ennemi sans provoquer d'[attaque d'opportunité](./attaque dopportunité.md).}
-{s:BDTexte|**Expert en Escalade (Ext).** Les morlocks peuvent s'accrocher aux parois et mêmes aux plafonds des grottes tant que ces surfaces sont garnies de prises pour les mains et les pieds. Concrètement, on considère qu'ils bénéficient constamment d'une version non magique du sort *[pattes d'araignée](./Pattes daraignée.md)* sans que cela leur permette toutefois d'escalader les surfaces lisses. Grâce à cette capacité, les morlocks reçoivent le double du bonus racial d'[Escalade](./Escalade.md) normalement attribué aux créatures qui possèdent une vitesse d'escalade, à savoir +16 au lieu de +8.}
-{s:BDTexte|**Regroupement (Ext).** Les morlocks vivent et combattent dans des lieux exigus chaque jour. Ils ont donc l'habitude de se serrer les uns contre les autres. Deux morlocks peuvent se tenir sur la même case et, si deux morlocks partagent la même case et attaquent le même ennemi, on considère qu'ils prennent cet ennemi en [tenaille](./Pris en tenaille.md) comme s'ils se tenaient dans des cases situées de part et d'autre de lui.}
+{s:BDTexte|**Attaque au cours d'un saut (Ext).** Par une [[action simple]], un morlock peut sauter et porter une attaque. Il peut effectuer cette attaque à n'importe quel moment du saut (au début, à la fin ou alors qu'il est en l'air). Pendant le saut, le morlock peut quitter une case contrôlée par un ennemi sans provoquer d'[[attaque dopportunité|attaque d'opportunité]].}
+{s:BDTexte|**Expert en Escalade (Ext).** Les morlocks peuvent s'accrocher aux parois et mêmes aux plafonds des grottes tant que ces surfaces sont garnies de prises pour les mains et les pieds. Concrètement, on considère qu'ils bénéficient constamment d'une version non magique du sort *[[pattes daraignée|pattes d'araignée]]* sans que cela leur permette toutefois d'escalader les surfaces lisses. Grâce à cette capacité, les morlocks reçoivent le double du bonus racial d'[[Escalade]] normalement attribué aux créatures qui possèdent une vitesse d'escalade, à savoir +16 au lieu de +8.}
+{s:BDTexte|**Regroupement (Ext).** Les morlocks vivent et combattent dans des lieux exigus chaque jour. Ils ont donc l'habitude de se serrer les uns contre les autres. Deux morlocks peuvent se tenir sur la même case et, si deux morlocks partagent la même case et attaquent le même ennemi, on considère qu'ils prennent cet ennemi en [[pris en tenaille|tenaille]] comme s'ils se tenaient dans des cases situées de part et d'autre de lui.}
 </div>
 </td><td><div>*Cet humanoïde hideux à la peau pâle et aux yeux globuleux descend le long du mur comme une araignée.*
 

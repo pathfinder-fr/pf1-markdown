@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Les véritables motivations des créatures n’échappent pas au regard du personnage. *
 
-**Conditions.** Pouvoir de classe [détection d’alignement](./Inquisiteur.md#DETECTIONDALIGNEMENT), lanceur de sorts niveau 6
+**Conditions.** Pouvoir de classe [[inquisiteur#DETECTIONDALIGNEMENT|détection d’alignement]], lanceur de sorts niveau 6
 
 **Avantage.**Quand le personnage utilise son pouvoir de classe de détection d’alignement, il peut passer 3 rounds à étudier une créature située dans les 18 mètres (12 {s:c}). Pendant ce temps, il ne peut pas entreprendre d’autre action. Il découvre ensuite l’alignement de la créature.

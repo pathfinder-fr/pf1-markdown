@@ -10,16 +10,16 @@ Categories:
 ---
 
 {s:UM}
-**École** [Divination](./Divination.md) ; **Niveau** [Bard](./Barde.md) 1  
+**École** [[Divination]] ; **Niveau** [[Barde|Bard]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 10 minutes/[niveau](./niveau.md)
+**Durée** 10 minutes/[[niveau]]
 
-Le personnage joue d’un instrument de son choix comme s’il avait 1 [rang](./rang.md) dans la compétence de [Représentation](./Représentation.md) associée. Au lieu d’un instrument conventionnel, il peut utiliser un objet comme instrument improvisé, comme un tonneau qui sert de tambour ou un arc pour faire une harpe. Le personnage joue sur ces objets comme s’ils étaient conçus pour faire de la musique.
+Le personnage joue d’un instrument de son choix comme s’il avait 1 [[rang]] dans la compétence de [[Représentation]] associée. Au lieu d’un instrument conventionnel, il peut utiliser un objet comme instrument improvisé, comme un tonneau qui sert de tambour ou un arc pour faire une harpe. Le personnage joue sur ces objets comme s’ils étaient conçus pour faire de la musique.

@@ -17,18 +17,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Cham](./Chaman.md) 4, [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 5, [Inq](./Inquisiteur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 5, [Méd](./Médium.md) 4, [Occ](./Occultiste.md) 4, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 5, [Spi](./Spirite.md) 5  
+**École** [[Abjuration]] ; **Niveau** [[Chaman|Cham]] 4, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 5, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 5, [[Médium|Méd]] 4, [[Occultiste|Occ]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 5, [[Spirite|Spi]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** 1 créature extraplanaire  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** oui
 
-Ce sort force la créature extraplanaire ciblée à retourner dans son plan d’origine si elle rate son jet de [Volonté](./Volonté.md). Dans ce cas, elle disparaît aussitôt mais elle a 20 % de chances de se retrouver dans un plan autre que le sien.
+Ce sort force la créature extraplanaire ciblée à retourner dans son plan d’origine si elle rate son jet de [[Volonté]]. Dans ce cas, elle disparaît aussitôt mais elle a 20 % de chances de se retrouver dans un plan autre que le sien.

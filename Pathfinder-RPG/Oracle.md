@@ -9,9 +9,9 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-<div class="fright">***Voir aussi les [malédictions d'oracle](./malédictions doracle.md).***
-***Voir aussi les [mystères d'oracle](./mystères.md).***
-***Voir aussi la [liste des sorts de prêtre](./Liste des sorts de prêtres.md).***
+<div class="fright">***Voir aussi les [[malédictions doracle|malédictions d'oracle]].***
+***Voir aussi les [[Mystères|mystères d'oracle]].***
+***Voir aussi la [[liste des sorts de prêtres|liste des sorts de prêtre]].***
 {s:PM0|oracle}**Voir les archétypes de l'oracle**&emsp;
 <li ID="oracle" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypeoracle}</li>
 </div>{s:APG}*Les dieux œuvrent par l’intermédiaire de bien des agents mais aucun n’est aussi mystérieux que l’oracle. Ces réceptacles divins reçoivent des pouvoirs sans avoir eu le choix et seule la providence choisit les oracles à qui elle confie des pouvoirs qu’ils ne comprennent pas entièrement. Contrairement aux prêtres qui puisent leur magie dans leur dévotion  à leur dieu, les oracles tirent leur force et leur puissance de nombreuses sources, en particulier des divinités protectrices qui partagent leurs idéaux. Au lieu de vénérer un  seul dieu, les oracles tendent à adorer tous ceux qui partagent leurs croyances. Certains considèrent leurs pouvoirs comme une bénédiction, d’autres comme une malédiction car ils changent la vie de l’élu de manière imprévisible.*
@@ -42,7 +42,7 @@ Categories:
 | +0
 | +0
 | +2
-| CLASS="gauche" | [Malédiction de l'oracle](./Oracle.md#MALEDICTIONDELORACLE), [mystère](./Oracle.md#MYSTERE), [oraison](./Oracle.md#ORAISON), [révélation](./Oracle.md#REVELATION)
+| CLASS="gauche" | [[oracle#MALEDICTIONDELORACLE|Malédiction de l'oracle]], [[oracle#MYSTERE|mystère]], [[oracle#ORAISON|oraison]], [[oracle#REVELATION|révélation]]
 | 3
 | -
 | -
@@ -56,7 +56,7 @@ Categories:
 | +0
 | +0
 | +3
-| CLASS="gauche" | [Sort de mystère](./Oracle.md#SORTDEMYSTERE)
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
 | 4
 | -
 | -
@@ -72,7 +72,7 @@ Categories:
 | +1
 | +1
 | +3
-| CLASS="gauche" | [Révélation](./Oracle.md#REVELATION)
+| CLASS="gauche" | [[oracle#REVELATION|Révélation]]
 | 5
 | -
 | -
@@ -88,7 +88,7 @@ Categories:
 | +1
 | +1
 | +4
-| CLASS="gauche" | [Sort de mystère](./Oracle.md#SORTDEMYSTERE)
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
 | 6
 | 3
 | -
@@ -120,7 +120,7 @@ Categories:
 | +2
 | +2
 | +5
-| CLASS="gauche" | [Sort de mystère](./Oracle.md#SORTDEMYSTERE)
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
 | 6
 | 5
 | 3
@@ -136,7 +136,7 @@ Categories:
 | +2
 | +2
 | +5
-| CLASS="gauche" | [Révélation](./Oracle.md#REVELATION)
+| CLASS="gauche" | [[oracle#REVELATION|Révélation]]
 | 6
 | 6
 | 4
@@ -152,7 +152,7 @@ Categories:
 | +2
 | +2
 | +6
-| CLASS="gauche" | [Sort de mystère](./Oracle.md#SORTDEMYSTERE)
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
 | 6
 | 6
 | 5
@@ -184,7 +184,7 @@ Categories:
 | +3
 | +3
 | +7
-| CLASS="gauche" | [Sort de mystère](./Oracle.md#SORTDEMYSTERE)
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
 | 6
 | 6
 | 6
@@ -200,7 +200,7 @@ Categories:
 | +3
 | +3
 | +7
-| CLASS="gauche" | [Révélation](./Oracle.md#REVELATION)
+| CLASS="gauche" | [[oracle#REVELATION|Révélation]]
 | 6
 | 6
 | 6
@@ -216,7 +216,7 @@ Categories:
 | +4
 | +4
 | +8
-| CLASS="gauche" | [Sort de mystère](./Oracle.md#SORTDEMYSTERE)
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
 | 6
 | 6
 | 6
@@ -248,7 +248,7 @@ Categories:
 | +4
 | +4
 | +9
-| CLASS="gauche" | [Sort de mystère](./Oracle.md#SORTDEMYSTERE)
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
 | 6
 | 6
 | 6
@@ -264,7 +264,7 @@ Categories:
 | +5
 | +5
 | +9
-| CLASS="gauche" | [Révélation](./Oracle.md#REVELATION)
+| CLASS="gauche" | [[oracle#REVELATION|Révélation]]
 | 6
 | 6
 | 6
@@ -280,7 +280,7 @@ Categories:
 | +5
 | +5
 | +10
-| CLASS="gauche" | [Sort de mystère](./Oracle.md#SORTDEMYSTERE)
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
 | 6
 | 6
 | 6
@@ -312,7 +312,7 @@ Categories:
 | +6
 | +6
 | +11
-| CLASS="gauche" | [Sort de mystère](./Oracle.md#SORTDEMYSTERE)
+| CLASS="gauche" | [[oracle#SORTDEMYSTERE|Sort de mystère]]
 | 6
 | 6
 | 6
@@ -328,7 +328,7 @@ Categories:
 | +6
 | +6
 | +11
-| CLASS="gauche" | [Révélation](./Oracle.md#REVELATION)
+| CLASS="gauche" | [[oracle#REVELATION|Révélation]]
 | 6
 | 6
 | 6
@@ -344,7 +344,7 @@ Categories:
 | +6
 | +6
 | +12
-| CLASS="gauche" | [Révélation finale](./Oracle.md#REVELATIONFINALE)
+| CLASS="gauche" | [[oracle#REVELATIONFINALE|Révélation finale]]
 | 6
 | 6
 | 6
@@ -366,17 +366,17 @@ Categories:
 **Argent de départ.** 3d6 x 10 po (moyenne 105 po).
 
 ### Compétences de classe
-Voici les compétences de classe de l’oracle : [Artisanat](./Artisanat.md) (Int), [Art de la magie](./Art de la magie.md) (Int), [Connaissances](./Connaissances.md) (histoire) (Int), [Connaissances](./Connaissances.md) (plans) (Int), [Connaissances](./Connaissances.md) (religion) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Premiers secours](./Premiers secours.md) (Sag), [Profession](./Profession.md) (Sag), [Psychologie](./Psychologie.md) (Sag).
+Voici les compétences de classe de l’oracle : [[Artisanat]] (Int), [[Art de la magie]] (Int), [[Connaissances]] (histoire) (Int), [[Connaissances]] (plans) (Int), [[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag).
 
 *Les oracles reçoivent des compétences de classe supplémentaires en fonction de leur mystère.*
 
-**Rangs de compétence par niveau.** 4 + modificateur d’[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.** 4 + modificateur d’[[Intelligence]].
 
 ### Descriptif de la classe
 *Voici les caractéristiques de la classe d’oracle.*
 
 #### Maniement des armes et port des armures
-L’oracle est formé au maniement de toutes les [armes courantes](./armes courantes.md) ainsi qu’au port des [armures légères](./armure légère.md) et [intermédiaires](./armure intermédiaire.md) et au maniement des boucliers (mais pas des pavois). Certaines révélations permettent de manier d’autres armes et de porter d’autres armures.
+L’oracle est formé au maniement de toutes les [[armes courantes]] ainsi qu’au port des [[armure légère|armures légères]] et [[armure intermédiaire|intermédiaires]] et au maniement des boucliers (mais pas des pavois). Certaines révélations permettent de manier d’autres armes et de porter d’autres armures.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -431,47 +431,47 @@ L’oracle est formé au maniement de toutes les [armes courantes](./armes coura
 </div></div>
 {s:Reference|SORTS}
 #### Sorts
-{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#32) Oracle : Quel type de RD un oracle obtient-il grâce au sort *force du colosse* ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#32|→]] Oracle : Quel type de RD un oracle obtient-il grâce au sort *force du colosse* ?***
 
-Si l'<u>[oracle](./Oracle.md#SORTS)</u> choisi l'option « tous les sorts de soins » comme sorts connus, on considère cela comme « canalise de l'énergie positive » dans le cadre de *[force du colosse](./Force du colosse.md)*. S'il a choisi l'option « tous les sorts de blessure », on considère cela comme « canalise de l'énergie négative » dans le cadre de *force du colosse*.
+Si l'<u>[[Oracle#SORTS|oracle]]</u> choisi l'option « tous les sorts de soins » comme sorts connus, on considère cela comme « canalise de l'énergie positive » dans le cadre de *[[force du colosse]]*. S'il a choisi l'option « tous les sorts de blessure », on considère cela comme « canalise de l'énergie négative » dans le cadre de *force du colosse*.
 ---
-***[→](./FAQ- Manuel des joueurs - Règles avancées.md#40) Oracle, Sorts : Puis-je utiliser mon modificateur de Charisme pour les sorts de prêtre et les effets qui dépendent de la Sagesse, comme *arme spirituelle* ?***
+***[[FAQ- Manuel des joueurs - Règles avancées#40|→]] Oracle, Sorts : Puis-je utiliser mon modificateur de Charisme pour les sorts de prêtre et les effets qui dépendent de la Sagesse, comme *arme spirituelle* ?***
 
-Tels qu'écrits, ces effets mentionnent la « Sagesse » car ils ont été conçus avant l'idée d'une classe d'oracle qui serait un lanceur de sorts basé sur le Charisme, donc un <u>[oracle](./Oracle.md#SORTS)</u> doit effectivement utiliser son modificateur de Sagesse.
-Cependant, il est tout à fait raisonnable d'autoriser un oracle à utiliser son modificateur (ou bonus) de Charisme dans le cadre des sorts de prêtre qui dépendent du modificateur (ou bonus) de Sagesse du lanceur.}L’oracle lance des sorts divins tirés de la [liste de sorts de prêtre](./Liste des sorts de prêtres.md). Il peut lancer tout sort de sa connaissance sans avoir besoin de le préparer à l’avance. Pour apprendre ou lancer un sort, l’oracle doit avoir une valeur de [Charisme](./Charisme.md) au moins égale à 10 + niveau du sort.
+Tels qu'écrits, ces effets mentionnent la « Sagesse » car ils ont été conçus avant l'idée d'une classe d'oracle qui serait un lanceur de sorts basé sur le Charisme, donc un <u>[[Oracle#SORTS|oracle]]</u> doit effectivement utiliser son modificateur de Sagesse.
+Cependant, il est tout à fait raisonnable d'autoriser un oracle à utiliser son modificateur (ou bonus) de Charisme dans le cadre des sorts de prêtre qui dépendent du modificateur (ou bonus) de Sagesse du lanceur.}L’oracle lance des sorts divins tirés de la [[liste des sorts de prêtres|liste de sorts de prêtre]]. Il peut lancer tout sort de sa connaissance sans avoir besoin de le préparer à l’avance. Pour apprendre ou lancer un sort, l’oracle doit avoir une valeur de [[Charisme]] au moins égale à 10 + niveau du sort.
 **Le DD des jets de sauvegarde contre les sorts de l’oracle est de 10 + niveau du sort + modificateur de Charisme de l’oracle.**
-Comme les autres lanceurs de sorts, l’oracle ne peut en lancer qu’un certain nombre de chaque niveau par jour. De plus, il reçoit des sorts supplémentaires s’il possède une importante valeur de [Charisme](./Charisme.md).
+Comme les autres lanceurs de sorts, l’oracle ne peut en lancer qu’un certain nombre de chaque niveau par jour. De plus, il reçoit des sorts supplémentaires s’il possède une importante valeur de [[Charisme]].
 
-Contrairement aux autres lanceurs de sorts divins, l’oracle dispose d’un choix de sorts très restreint. Il commence le jeu avec quatre sorts de niveau 0 et deux sorts de niveau 1 de son choix. À chaque fois qu’il gagne un niveau, il gagne un ou plusieurs sorts, comme indiqué dans [la Table](./Oracle.md#TABLEORACLE). Contrairement au nombre de sorts quotidiens, le nombre de sorts connus n’est pas affecté par le Charisme de l’oracle, les valeurs cette [table](./Oracle.md#SORTSCONNUSDELORACLE) sont fixes.
+Contrairement aux autres lanceurs de sorts divins, l’oracle dispose d’un choix de sorts très restreint. Il commence le jeu avec quatre sorts de niveau 0 et deux sorts de niveau 1 de son choix. À chaque fois qu’il gagne un niveau, il gagne un ou plusieurs sorts, comme indiqué dans [[oracle#TABLEORACLE|la Table]]. Contrairement au nombre de sorts quotidiens, le nombre de sorts connus n’est pas affecté par le Charisme de l’oracle, les valeurs cette [[oracle#SORTSCONNUSDELORACLE|table]] sont fixes.
 
 En plus des sorts que l’oracle obtient, il ajoute tous les sorts de soins ou de blessure à sa liste de sorts connus. Il s’agit de tous les sorts qui possèdent le mot « soins » ou « blessure » dans leur intitulé. Il les ajoute à sa liste dès qu’il atteint le niveau nécessaire pour les lancer. L’oracle fait son choix entre les deux au niveau 1 et ne peut plus en changer par la suite.
 
-Quand l’oracle atteint le niveau 4 et, par la suite, tous les niveaux pairs (c’est-à-dire 6, 8, etc.), il peut apprendre un nouveau sort à la place d’un qu’il connaît déjà. L’oracle « perd » l’ancien sort au profit du nouveau. Le nouveau sort doit être du même niveau que celui contre lequel il l’échange. À chaque niveau possible, l’oracle ne peut échanger qu’un seul sort et doit choisir de le faire ou non au moment où il apprend ses nouveaux sorts du niveau. Il ne peut pas échanger un sort de soins ou de blessure ni aucun sort appris grâce à son mystère. Contrairement aux [prêtres](./Prêtre.md), les oracles n’ont pas besoin de préparer leurs sorts à l’avance. Ils peuvent lancer tout sort connu quand ils le désirent, tant qu’il leur reste des sorts du niveau requis utilisables pour la journée. Ils n’ont pas besoin de [focalisateur divin](./focalisateur divin.md) pour lancer les sorts qui en mentionnent un (FD) dans leurs composantes.
+Quand l’oracle atteint le niveau 4 et, par la suite, tous les niveaux pairs (c’est-à-dire 6, 8, etc.), il peut apprendre un nouveau sort à la place d’un qu’il connaît déjà. L’oracle « perd » l’ancien sort au profit du nouveau. Le nouveau sort doit être du même niveau que celui contre lequel il l’échange. À chaque niveau possible, l’oracle ne peut échanger qu’un seul sort et doit choisir de le faire ou non au moment où il apprend ses nouveaux sorts du niveau. Il ne peut pas échanger un sort de soins ou de blessure ni aucun sort appris grâce à son mystère. Contrairement aux [[prêtre|prêtres]], les oracles n’ont pas besoin de préparer leurs sorts à l’avance. Ils peuvent lancer tout sort connu quand ils le désirent, tant qu’il leur reste des sorts du niveau requis utilisables pour la journée. Ils n’ont pas besoin de [[focalisateur divin]] pour lancer les sorts qui en mentionnent un (FD) dans leurs composantes.
 
 {s:Reference|MYSTERE}{s:Reference|SORTDEMYSTERE}
 #### Mystère
 Chaque oracle tire ses pouvoirs et ses sorts d’un mystère divin qui lui donne également des pouvoirs de classe et des aptitudes spéciales supplémentaires. Ce mystère représente sa dévotion envers un idéal, des prières dédiées à des divinités qui soutiennent ce concept ou une vocation naturelle pour le rôle de champion d’une cause. Par exemple, un oracle du mystère des vagues peut être né en mer et ressentir un besoin naturel de vénérer les dieux des océans, des rivières et des lacs, qu’ils soient maléfiques ou bienveillants. Quelle que soit son origine, le mystère se manifeste de plusieurs manières au fur et à mesure que l’oracle gagne des niveaux. L’oracle doit en choisir un au niveau 1 et ne pourra pas en changer par la suite.
 
-Au niveau 2, et par la suite tous les niveaux pairs, l’oracle apprend de nouveaux sorts issus de son mystère. Ils s’ajoutent au nombre de sorts indiqués dans la Table "[Sorts connus par l'oracle](./Oracle.md#SORTSCONNUSDELORACLE)". Il est impossible de les échanger contre d’autres sorts en atteignant un niveau supérieur.
+Au niveau 2, et par la suite tous les niveaux pairs, l’oracle apprend de nouveaux sorts issus de son mystère. Ils s’ajoutent au nombre de sorts indiqués dans la Table "[[Oracle#SORTSCONNUSDELORACLE|Sorts connus par l'oracle]]". Il est impossible de les échanger contre d’autres sorts en atteignant un niveau supérieur.
 
-*Voir la [liste des mystères](./mystères.md).*
+*Voir la [[Mystères|liste des mystères]].*
 
 {s:Reference|ORAISON}
 #### Oraisons
-L’oracle connaît un certain nombre d’oraisons, ou sorts de niveau 0, comme indiqué dans [la table](./Oracle.md#SORTSCONNUSDELORACLE) des « sorts connus » ci-contre. Il jette ces sorts comme les autres mais ils ne sont pas dépensés lorsqu’ils sont lancés et peuvent être utilisés à nouveau.
+L’oracle connaît un certain nombre d’oraisons, ou sorts de niveau 0, comme indiqué dans [[oracle#SORTSCONNUSDELORACLE|la table]] des « sorts connus » ci-contre. Il jette ces sorts comme les autres mais ils ne sont pas dépensés lorsqu’ils sont lancés et peuvent être utilisés à nouveau.
 
 {s:Reference|REVELATION}
 #### Révélation
-{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#39) Oracle, Révélations : Un oracle peut-il sélectionner une révélation plusieurs fois ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#39|→]] Oracle, Révélations : Un oracle peut-il sélectionner une révélation plusieurs fois ?***
 
-Non, sauf si la <u>[révélation](./Oracle.md#REVELATION)</u> précise le contraire.}Au niveau 1, 3 et ensuite tous les quatre niveaux (7, 11, etc.), l’oracle découvre un nouveau secret sur le [mystère](./mystères.md) qui lui accorde ses pouvoirs et ses aptitudes. Il doit choisir une révélation dans la liste de celles disponibles pour son mystère. S’il choisit une révélation à un niveau supérieur, il gagne toutes les aptitudes et tous les bonus associés en fonction de son niveau actuel. Sauf indication contraire, il faut une [action simple](./Action simple.md) pour activer les pouvoirs d’une révélation.
+Non, sauf si la <u>[[Oracle#REVELATION|révélation]]</u> précise le contraire.}Au niveau 1, 3 et ensuite tous les quatre niveaux (7, 11, etc.), l’oracle découvre un nouveau secret sur le [[mystères|mystère]] qui lui accorde ses pouvoirs et ses aptitudes. Il doit choisir une révélation dans la liste de celles disponibles pour son mystère. S’il choisit une révélation à un niveau supérieur, il gagne toutes les aptitudes et tous les bonus associés en fonction de son niveau actuel. Sauf indication contraire, il faut une [[action simple]] pour activer les pouvoirs d’une révélation.
 
 {s:Reference|REVELATIONFINALE}
 #### Révélation finale
-Au niveau 20, l’oracle découvre la révélation finale de son [mystère](./mystères.md), ce qui lui donne des pouvoirs prodigieux. La nature de ces bonus dépend de son mystère.
+Au niveau 20, l’oracle découvre la révélation finale de son [[mystères|mystère]], ce qui lui donne des pouvoirs prodigieux. La nature de ces bonus dépend de son mystère.
 
 {s:Reference|MALEDICTIONDELORACLE}
 #### Malédiction de l’oracle (Ext)
 Chaque oracle est maudit, mais cette malédiction apporte des avantages aussi bien que des handicaps. Ce choix se fait au niveau 1 et il est impossible d’en changer par la suite. Il est impossible de délivrer l’oracle de sa malédiction sans l’aide d’une divinité. Cette malédiction est basée sur le niveau de l’oracle plus un par tranche de deux niveaux ou deux DV d’autre chose qu’oracle. Chaque oracle doit choisir une malédiction.
 
-*Voir la [liste des malédictions d'oracle](./malédictions doracle.md).*
+*Voir la [[malédictions doracle|liste des malédictions d'oracle]].*

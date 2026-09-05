@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Modificateurs de combat#CAMOUFLAGETOTAL
 ---
 
->>> [Modificateurs de combat#CAMOUFLAGETOTAL](./Modificateurs de combat.md#CAMOUFLAGETOTAL)
+>>> [[Modificateurs de combat#CAMOUFLAGETOTAL]]

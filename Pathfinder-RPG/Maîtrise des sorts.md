@@ -6,16 +6,16 @@ Categories:
 - Don
 ---
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Dons et compétences).md#23) Maîtrise des sorts : Un alchimiste, un magus, ou une sorcière peut-il/elle choisir ce don ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#23|→]] Maîtrise des sorts : Un alchimiste, un magus, ou une sorcière peut-il/elle choisir ce don ?***
 
-Comme c’est écrit, non, puisque le prérequis du <u>[don](./Maîtrise des sorts.md)</u> est « magicien de niveau 1 ».
-En revanche, le don a été écrit avant l’existence des classes [alchimiste](./Alchimiste.md), [magus](./Magus.md), et [sorcière](./Sorcière.md), et il est parfaitement raisonnable de créer une règle maison qui permet à ces classes de choisir ce don et d’en appliquer les avantages au livre de formules de l’alchimiste, au grimoire du magus, ou au familier de la sorcière.}*Le personnage maîtrise une petite poignée de sorts pour lesquels il n’a pas besoin de se référer à son grimoire.*
+Comme c’est écrit, non, puisque le prérequis du <u>[[Maîtrise des sorts|don]]</u> est « magicien de niveau 1 ».
+En revanche, le don a été écrit avant l’existence des classes [[alchimiste]], [[magus]], et [[sorcière]], et il est parfaitement raisonnable de créer une règle maison qui permet à ces classes de choisir ce don et d’en appliquer les avantages au livre de formules de l’alchimiste, au grimoire du magus, ou au familier de la sorcière.}*Le personnage maîtrise une petite poignée de sorts pour lesquels il n’a pas besoin de se référer à son grimoire.*
 
-**Condition.** [Magicien](./Magicien.md) de niveau 1
+**Condition.** [[Magicien]] de niveau 1
 
-**Avantage.** À chaque fois que le personnage choisit ce don, il peut sélectionner un nombre de sorts égal à son modificateur d’[Intelligence](./Intelligence.md) parmi les sorts de magicien qu’il connaît déjà. Il peut alors préparer les sorts sélectionnés sans consulter son grimoire.
+**Avantage.** À chaque fois que le personnage choisit ce don, il peut sélectionner un nombre de sorts égal à son modificateur d’[[Intelligence]] parmi les sorts de magicien qu’il connaît déjà. Il peut alors préparer les sorts sélectionnés sans consulter son grimoire.
 
-**Normal.** Un magicien qui ne possède pas ce don doit utiliser un grimoire pour préparer tous ses sorts, à l’exception de *[lecture de la magie](./Lecture de la magie.md)*.
+**Normal.** Un magicien qui ne possède pas ce don doit utiliser un grimoire pour préparer tous ses sorts, à l’exception de *[[lecture de la magie]]*.
 
 {s:CMy}
 ### Version mythique
@@ -23,4 +23,4 @@ En revanche, le don a été écrit avant l’existence des classes [alchimiste](
 
 **Condition.** Maîtrise des sorts
 
-**Avantage.** Le personnage peut préparer les sorts sélectionnés avec le don Maîtrise des sorts par une [action complexe](./Action complexe.md). Pour les autres, il doit toujours passer autant de temps que la normale. Par une [action complexe](./Action complexe.md), il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour préparer la totalité des sorts sélectionnés avec le don Maîtrise des sorts.
+**Avantage.** Le personnage peut préparer les sorts sélectionnés avec le don Maîtrise des sorts par une [[action complexe]]. Pour les autres, il doit toujours passer autant de temps que la normale. Par une [[action complexe]], il peut dépenser une utilisation de [[pouvoir mythique]] pour préparer la totalité des sorts sélectionnés avec le don Maîtrise des sorts.

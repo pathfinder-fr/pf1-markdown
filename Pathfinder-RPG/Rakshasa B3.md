@@ -13,20 +13,20 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Dandasuka](./Dandasuka.md) || 5
+| [[Dandasuka]] || 5
 |-
-| [Maharadjah](./Maharadjah.md) || 20
+| [[Maharadjah]] || 20
 |-
-| [Maraï](./Maraï.md) || 8
+| [[Maraï]] || 8
 |-
-| [Rakshasa](./Rakshasa.md) || 10
+| [[Rakshasa]] || 10
 |-
-| [Raktavarna](./Raktavarna.md) || 2
+| [[Raktavarna]] || 2
 |-
-| [Tataka](./Tataka.md) || 15
+| [[Tataka]] || 15
 |}
 </div></div><div class="description">**Source :** Bestiaire 3, p.220.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([métamorphe](./sous-type métamorphe.md), [natif](./sous-type natif.md), [rakshasa](./sous-type rakshasa.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]], [[sous-type rakshasa|rakshasa]])*
 
 Les rakshasas sont nés sur le Plan matériel mais n’en sont pas originaires. Ils ont les pouvoirs et l’apparence des fiélons mais leur destin est inexorablement lié au monde des mortels qu’ils cherchent à dominer. Réincarnations de manipulateurs, de traîtres et de tyrans obsédés par les plaisirs terrestres, les rakshasas sont une incarnation de la nature même du mal matérialiste. Après une mort violente, ces esprits sont si liés à la décadence physique et aux intérêts égoïstes qu’ils prennent des formes reflétant au mieux la bassesse de leur existence et renaissent en tant que fiélons. Ainsi les sages en sont-ils venus à qualifier ces êtres de « mal terrestre ». S’il existe beaucoup de types de rakshasas, des raktavarnas inférieurs aux puissants maharadjahs, les membres les plus courants de cette race (les rakshasas présentés dans le Bestiaire Pathfinder JdR) n’ont pas d’autre nom: ils sont plus puissants
 que certains membres de leur race et moins que d’autres, et représentent le point intermédiaire idéal (paradeshi) entre le serviteur et le maître. Ces rakshasas sont reconnaissables à leur tête d’animal (les têtes de félin, de serpent, de crocodile, de gorille et d’oiseau de proies étant les plus courantes) et à leurs paumes inversées. Tous les rakshasas se caractérisent par leurs traits sauvages et leurs articulations curieusement inversées, ce que la plupart

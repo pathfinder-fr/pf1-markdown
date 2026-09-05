@@ -14,19 +14,19 @@ Categories:
 ---
 
 {s:racial|Sylphe (race)|sylphes|Illustrations/PNJ/Sylphe.jpg}{s:MR}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[air](./Créer un sort.md#AIR)<nowiki>]</nowiki> ;
-**Niveau** [Bard](./Barde.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [San](./Sanguin.md) 1  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[créer un sort#AIR|air]]<nowiki>]</nowiki> ;
+**Niveau** [[Barde|Bard]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1  
 
-**Temps d'incantation** 1 [action immédiate](./Action immédiate.md)  
+**Temps d'incantation** 1 [[action immédiate]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** le lanceur de sorts  
 
-**Durée** [instantané](./Présentation des sorts.md#DUREE)  
+**Durée** [[Présentation des sorts#DUREE|instantané]]  
 
-**Jet de sauvegarde** aucun ; **Résistance à la magie** [Non](./Résistance à la magie (capacité).md)
+**Jet de sauvegarde** aucun ; **Résistance à la magie** [[Résistance à la magie (capacité)|Non]]
 
-Le lanceur de sorts réagit à une attaque en devenant brièvement vaporeux et insaisissable, ce qui permet à l’attaque de le traverser sans le blesser. Le lanceur gagne une [RD](./Réduction de dégâts (capacité).md) de 10/magique contre cette attaque et est immunisé aux effets de [poison](./Poisons.md), [d’attaque sournoise](./Roublard.md#ATTAQUESOURNOISE) ou de [coup critique](./Actions simples.md#COUPCRITIQUE) de cette attaque. Il ne peut pas utiliser fuite aérienne contre une [attaque d’opportunité](./Valeurs de combat.md#ATTAQUEDOPPORTUNITE) qu’il a provoquée en [lançant un sort](./Lancer des sorts.md), en utilisant un [pouvoir magique](./Pouvoirs magiques (capacité).md) ou en utilisant n’importe quelle autre capacité magique dont l’emploi provoque une attaque d’opportunité.
+Le lanceur de sorts réagit à une attaque en devenant brièvement vaporeux et insaisissable, ce qui permet à l’attaque de le traverser sans le blesser. Le lanceur gagne une [[Réduction de dégâts (capacité)|RD]] de 10/magique contre cette attaque et est immunisé aux effets de [[Poisons|poison]], [[Roublard#ATTAQUESOURNOISE|d’attaque sournoise]] ou de [[Actions simples#COUPCRITIQUE|coup critique]] de cette attaque. Il ne peut pas utiliser fuite aérienne contre une [[Valeurs de combat#ATTAQUEDOPPORTUNITE|attaque d’opportunité]] qu’il a provoquée en [[Lancer des sorts|lançant un sort]], en utilisant un [[Pouvoirs magiques (capacité)|pouvoir magique]] ou en utilisant n’importe quelle autre capacité magique dont l’emploi provoque une attaque d’opportunité.

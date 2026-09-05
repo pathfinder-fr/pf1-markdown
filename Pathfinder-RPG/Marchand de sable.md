@@ -10,32 +10,32 @@ LastModified: 2013-02-07 19:45
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2, p.195*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md), [Terre](./sous-type Terre.md)) de taille M, NM}
-{s:BDTexte|**Init** +5 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 9 m (6 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Terre|Terre]]) de taille M, NM}
+{s:BDTexte|**Init** +5 ; **Sens** [[perception des vibrations]] 9 m (6 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
 {s:BDTexte|**Aura** de sommeil (6 m (4 {s:c}), DD 14)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 14 (Dex +1, naturelle +4)}
 {s:BDTexte|**pv** 30 (4d10+8)}
 {s:BDTexte|**Réf** +5, **Vig** +6, **Vol** +3}
-{s:BDTexte|**Capacités défensives** [amorphe](./Amorphe (capacité).md) ; **RD** 10/contondant ; **Immunités** [traits des élémentaires](./sous-type élémentaire.md) }
+{s:BDTexte|**Capacités défensives** [[amorphe (capacité)|amorphe]] ; **RD** 10/contondant ; **Immunités** [[sous-type élémentaire|traits des élémentaires]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), creusement 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** coup, +6 (1d6+3 plus sommeil)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 13, **Con** 15, **Int** 10, **Sag** 11, **Cha** 10}
 {s:BDTexte|**BBA** +4, **BMO** +6, **DMD** 17}
-{s:BDTexte|**Dons** [Science de l’initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8, [Connaissances](./Connaissances.md) (plans) +7, [Discrétion](./Discrétion.md) +8 (+12 dans la sable), [Escalade](./Escalade.md) +9, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) dans le sable}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8, [[Connaissances]] (plans) +7, [[Discrétion]] +8 (+12 dans la sable), [[Escalade]] +9, [[Perception]] +7, [[Psychologie]] +7 ; **Modificateurs raciaux** +4 en [[Discrétion]] dans le sable}
 {s:BDTexte|**Langues** terreux}
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md), forme de sable}
+{s:BDTexte|**Particularités** [[compression (capacité)|compression]], forme de sable}
 {s:BDSousTitre|Ecologie}
 {s:BDTexte|**Environnement** terre ferme (plan de la Terre)}
 {s:BDTexte|**Organisation sociale** solitaire, bande (2–4) ou groupe (5–10)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Aura de sommeil (Sur).** Un marchand de sable possède une aura qui recouvre une étendue de 6 mètres de rayon et qui endort les créatures. Toutes celles qui sont situées dans la zone d’effet doivent réussir un jet de Volonté contre un DD de 14 pour ne pas tomber endormies comme si elles étaient affectées par un sort de *[sommeil](./Sommeil.md)* (NLS 8). Cette aura permet au marchand de sable d’affecter toutes les cibles, quel que soit leur nombre de DV. Les créatures qui réussissent ce jet de sauvegarde sont immunisées contre l’aura de sommeil du marchand de sable en question pendant 24 heures. Le DD du jet de sauvegarde dépend de la Constitution.}
-{s:BDTexte|**Forme de sable (Sur).** Par une action simple, un marchand de sable peut faire en sorte que sa forme humanoïde se décompose en un tas de sable animé. Sous cette forme, le marchand de sable fonctionne comme s’il était un [élémentaire de la Terre](./Élémentaire de la Terre.md) de taille P constitué de sable. Il conserve sa capacité de [compression](./Compression (capacité).md) et son aura de sommeil lorsqu’il est sous forme de sable mais perd son attaque de sommeil et sa RD car, sous cette forme, son corps est beaucoup plus compact et facile à disperser avec des armes contondantes.}
-{s:BDTexte|**Sommeil (Sur).** Une créature touchée par l’attaque de coup d’un marchand de sable doit réussir un jet de Volonté de DD 14 pour ne pas tomber immédiatement endormie comme si elle était affectée par un sort de *[sommeil](./Sommeil.md)* (NLS 8). Cette capacité permet au marchand de sable d’affecter toutes les cibles, quel que soit leur nombre de DV. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|**Aura de sommeil (Sur).** Un marchand de sable possède une aura qui recouvre une étendue de 6 mètres de rayon et qui endort les créatures. Toutes celles qui sont situées dans la zone d’effet doivent réussir un jet de Volonté contre un DD de 14 pour ne pas tomber endormies comme si elles étaient affectées par un sort de *[[sommeil]]* (NLS 8). Cette aura permet au marchand de sable d’affecter toutes les cibles, quel que soit leur nombre de DV. Les créatures qui réussissent ce jet de sauvegarde sont immunisées contre l’aura de sommeil du marchand de sable en question pendant 24 heures. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|**Forme de sable (Sur).** Par une action simple, un marchand de sable peut faire en sorte que sa forme humanoïde se décompose en un tas de sable animé. Sous cette forme, le marchand de sable fonctionne comme s’il était un [[élémentaire de la Terre]] de taille P constitué de sable. Il conserve sa capacité de [[compression (capacité)|compression]] et son aura de sommeil lorsqu’il est sous forme de sable mais perd son attaque de sommeil et sa RD car, sous cette forme, son corps est beaucoup plus compact et facile à disperser avec des armes contondantes.}
+{s:BDTexte|**Sommeil (Sur).** Une créature touchée par l’attaque de coup d’un marchand de sable doit réussir un jet de Volonté de DD 14 pour ne pas tomber immédiatement endormie comme si elle était affectée par un sort de *[[sommeil]]* (NLS 8). Cette capacité permet au marchand de sable d’affecter toutes les cibles, quel que soit leur nombre de DV. Le DD du jet de sauvegarde dépend de la Constitution.}
 </div>
 </td><td><div>*La petite tornade composée de sable du désert s’immobilise et prend la forme d’une créature humanoïde.*
 

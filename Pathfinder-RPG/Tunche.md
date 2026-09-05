@@ -10,7 +10,7 @@ LastModified: 2017-03-22 22:08
 {s:pucem|Fée|Forêt-Jungle|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 276*}
 - **102 400 PX**
-- [Fée](./type Fée.md) de taille TG, CN
+- [[type fée|Fée]] de taille TG, CN
 - **Init **+9 ; **Sens **vision dans le noir 18 m, vision nocturne, odorat ; Perception +33
 (((Défense)))
 - **CA **31, contact 13, pris au dépourvu 26 (Dex +5, naturelle +18, taille -2)
@@ -23,15 +23,15 @@ LastModified: 2017-03-22 22:08
 - **Espace **4,50 m ; **Allonge **4,50 m
 - **Attaques spéciales** poison, éventration (2 griffes, 3d6+16)
 - **Pouvoirs magiques** (**NLS **20 ; concentration +27)
-  - *Constant* – [communication avec les plantes](./Communication avec les plantes.md), [don des langues](./Don des langues.md)
-  - *À volonté* – [distorsion du bois](./Distorsion du bois.md) (DD 19), [enchevêtrement](./Enchevêtrement.md) (DD 18), [forme d’arbre](./Forme darbre.md), [invasion d’orties](./Invasion dorties.md) (DD 20), [ventriloquie](./Ventriloquie.md), [voyage par les arbres](./Voyage par les arbres.md)
-  - *7/jour* – [rabougrissement des plantes](./Rabougrissement des plantes.md), [croissance végétale](./Croissance végétale.md), [mur d’épines](./Mur dépines.md)
-  - *3/jour* – [contrôle des plantes](./Contrôle des plantes.md) (DD 25), [glissement de terrain](./Glissement de terrain.md), [vision lucide](./Vision lucide.md)
+  - *Constant* – [[communication avec les plantes]], [[don des langues]]
+  - *À volonté* – [[distorsion du bois]] (DD 19), [[enchevêtrement]] (DD 18), [[forme darbre|forme d’arbre]], [[invasion dorties|invasion d’orties]] (DD 20), [[ventriloquie]], [[voyage par les arbres]]
+  - *7/jour* – [[rabougrissement des plantes]], [[croissance végétale]], [[mur dépines|mur d’épines]]
+  - *3/jour* – [[contrôle des plantes]] (DD 25), [[glissement de terrain]], [[vision lucide]]
 (((Statistiques)))
 - **For **33, **Dex **21, **Con **24, **Int **12, **Sag **20, **Cha **25
 - **BBA **+12 ; **BMO **+25 (+27 en bousculade) ; **DMD **40 (42 contre la bousculade et le croc-en-jambe)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (griffe), [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science du critique](./Science du critique.md) (morsure), [Succession d’enchaînements](./Succession denchaînements.md).
-- **Compétences **[Acrobaties](./Acrobaties.md) +21 (+29 en saut), [Bluff](./Bluff.md) +22, [Connaissances](./Connaissances.md) (géographie) +29, [Connaissances](./Connaissances.md) (nature) +29, [Discrétion](./Discrétion.md) +25 (+33 en forêt), [Escalade](./Escalade.md) +19, [Intimidation](./Intimidation.md) +32, [Natation](./Natation.md) +19, [Perception](./Perception.md) +33, [Psychologie](./Psychologie.md) +33
+- **Dons **[[Arme de prédilection]] (griffe), [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaques réflexes]], [[Combat en aveugle]], [[Coup fabuleux]], [[Enchaînement]], [[Frappe décisive]], [[Science de linitiative|Science de l’initiative]], [[Science de la bousculade]], [[Science de la frappe décisive]], [[Science du critique]] (morsure), [[Succession denchaînements|Succession d’enchaînements]].
+- **Compétences **[[Acrobaties]] +21 (+29 en saut), [[Bluff]] +22, [[Connaissances]] (géographie) +29, [[Connaissances]] (nature) +29, [[Discrétion]] +25 (+33 en forêt), [[Escalade]] +19, [[Intimidation]] +32, [[Natation]] +19, [[Perception]] +33, [[Psychologie]] +33
 - **Modificateurs **raciaux +8 en Acrobaties pour sauter, +8 en Discrétion dans les forêts
 - **Langues **aklo, sylvestre ; communication avec les plantes, don des langues
 - **Particularités **changement de forme (humanoïde de taille M ou P ; modification d’apparence), imitation de sons (sons et voix)

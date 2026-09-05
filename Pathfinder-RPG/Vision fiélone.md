@@ -8,7 +8,7 @@ Categories:
 
 *Les yeux du tieffelin voient mieux à faible luminosité et dans les ténèbres.*
 
-**Condition.** [Tieffelin](./Tieffelin (race).md), vision dans le noir à 18 mètres.
+**Condition.** [[tieffelin (race)|Tieffelin]], vision dans le noir à 18 mètres.
 
 **Avantage.** Le tieffelin gagne vision nocturne et la portée de sa vision dans le noir passe à 36 mètres.
 

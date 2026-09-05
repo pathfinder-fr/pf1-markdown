@@ -7,4 +7,4 @@ Categories:
 RedirectTo: État civil et mensurations#AGE
 ---
 
->>> [État civil et mensurations#AGE](./État civil et mensurations.md#AGE)
+>>> [[État civil et mensurations#AGE]]

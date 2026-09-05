@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage exécute un coup vicieux dès qu’il repère une faille dans les défenses de ses adversaires.*
 
-**Condition.** [Attaques réflexes](./Attaques réflexes.md)
+**Condition.** [[Attaques réflexes]]
 
-**Avantage.** Le personnage peut réaliser un certain nombre d’attaques d’opportunité supplémentaires chaque round. Par une [action rapide](./Action rapide.md), il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour effectuer jusqu’au début de son prochain tour des attaques d’opportunité contre des adversaires qu’il a déjà attaqués au cours du round si ceux-ci provoquent des attaques d’opportunité de sa part en se déplaçant.
+**Avantage.** Le personnage peut réaliser un certain nombre d’attaques d’opportunité supplémentaires chaque round. Par une [[action rapide]], il peut dépenser une utilisation de [[pouvoir mythique]] pour effectuer jusqu’au début de son prochain tour des attaques d’opportunité contre des adversaires qu’il a déjà attaqués au cours du round si ceux-ci provoquent des attaques d’opportunité de sa part en se déplaçant.

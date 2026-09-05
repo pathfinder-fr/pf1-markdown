@@ -11,8 +11,8 @@ Categories:
 
 {s:RSE}*Le personnage est difficile à repérer dans la lumière.*
 
-**Conditions.** [Talent](./Talent.md) (Discrétion), 6 rangs en [Discrétion](./Discrétion.md)
+**Conditions.** [[Talent]] (Discrétion), 6 rangs en [[Discrétion]]
 
-**Avantages.** Le personnage peut faire des tests de [Discrétion](./Discrétion.md) dans la [lumière normale](./Exploration.md#VISIONLUMIERE) ou vive, même quand on l’observe, mais avec un malus de -10.
+**Avantages.** Le personnage peut faire des tests de [[Discrétion]] dans la [[Exploration#VISIONLUMIERE|lumière normale]] ou vive, même quand on l’observe, mais avec un malus de -10.
 
 **Normal.** Le personnage ne peut pas faire de tests de Discrétion lorsqu’on l’observe.

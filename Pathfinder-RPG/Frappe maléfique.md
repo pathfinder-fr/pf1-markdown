@@ -11,14 +11,14 @@ Categories:
 
 {s:uc}*Le personnage psalmodie et maudit son ennemi et lui lance un maléfice lors d’une attaque à mains nues. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Maléfice](./maléfices.md), [Science du combat à mains nues](./Science du combat à mains nues.md)
+**Conditions.** [[maléfices|Maléfice]], [[Science du combat à mains nues]]
 
-**Avantage.** Quand le personnage obtient ce don, il choisit un [maléfice](./maléfices.md) qui n’affecte pas plus d’un ennemi. S’il réussit une attaque à mains nues contre un adversaire, il lui inflige les dégâts habituels et peut, en plus, utiliser une [action rapide](./Action rapide.md) pour lancer le maléfice sur lui, sans provoquer d’[attaque d’opportunité](./attaque dopportunité.md).
+**Avantage.** Quand le personnage obtient ce don, il choisit un [[maléfices|maléfice]] qui n’affecte pas plus d’un ennemi. S’il réussit une attaque à mains nues contre un adversaire, il lui inflige les dégâts habituels et peut, en plus, utiliser une [[action rapide]] pour lancer le maléfice sur lui, sans provoquer d’[[attaque dopportunité|attaque d’opportunité]].
 
 **Spécial.** Le personnage peut choisir ce don à plusieurs reprises. Ses effets ne se cumulent pas, ils s’appliquent à chaque fois à un nouveau maléfice.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance pour appliquer les effets du [maléfice](./Sorcière.md#MALEFICE) choisi par une [action libre](./Action libre.md) au lieu d’une [action rapide](./Action rapide.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance pour appliquer les effets du [[Sorcière#MALEFICE|maléfice]] choisi par une [[action libre]] au lieu d’une [[action rapide]].

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 25 po ; **Poids** 2,5 kg
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
-Ce coffret comprend un plateau, une [théière](./Théière (objet).md), un fouet, un bol pour mélanger le thé, quatre petites tasses et une boîte ornée dans laquelle ranger tous ces éléments. L’infusion du thé fait partie de la cérémonie traditionnelle du thé. Il faut réussir un test de [Connaissances](./Connaissances.md) (noblesse) [DD](./DD.md) 15 pour connaître les étapes de préparation et de dégustation de la cérémonie du thé.
+Ce coffret comprend un plateau, une [[Théière (objet)|théière]], un fouet, un bol pour mélanger le thé, quatre petites tasses et une boîte ornée dans laquelle ranger tous ces éléments. L’infusion du thé fait partie de la cérémonie traditionnelle du thé. Il faut réussir un test de [[Connaissances]] (noblesse) [[DD]] 15 pour connaître les étapes de préparation et de dégustation de la cérémonie du thé.

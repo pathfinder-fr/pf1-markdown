@@ -7,17 +7,17 @@ Categories:
 - Varisie
 ---
 
-{s:Nation|Varisie|%2fIllustrations%2fAutres%2fblasonvarisie.png|Les terres sauvages|Neutre|Cités-états indépendantes ou sous domination|Gouvernement non centralisé|Aucune|[Korvosa](./Korvosa.md) (18 486), [Celwynvian](./Celwynvian.md) (inconnue), [Janderhoff](./Janderhoff.md) (10 230), [Kaer Maga](./Kaer Maga.md) (8 000), [Magnimar](./Magnimar.md) (16 428), [Port-Énigme](./Port-Énigme.md) (13 300), Urglin (5 800)|[Pointesable](./Pointesable.md), voir [plus bas](./Varisie.md#ENVARISIE)|[Chélaxiens](./Chélaxiens.md), [Varisiens](./Varisiens.md) et [Shoantis](./Shoantis.md)|Commun, Varisien, Shoanti|[Abadar](./Abadar.md), [Desna](./Desna.md), [Erastil](./Erastil.md), [Calistria](./Calistria.md), [Cayden Cailéan](./Cayden Cailéan.md), [Lamashtu](./Lamashtu.md), [Pharasma](./Pharasma.md), [Norgorber](./Norgorber.md), [Urgathoa](./Urgathoa.md), [Zon-Kuthon](./Zon-Kuthon.md).}
-La Varisie est une terre rocheuse qui descend des hautes [montagnes de Kodar](./Monts Kodar.md) au nord, vers les [marais](./Marais-du-Mush.md) détrempés du sud. C'est donc un pays sculpté dans la pierre, pourtant, entre les chaînes de montagnes qui sillonnent la région, des terres très variées et vibrantes de vie s’épanouissent.
+{s:Nation|Varisie|%2fIllustrations%2fAutres%2fblasonvarisie.png|Les terres sauvages|Neutre|Cités-états indépendantes ou sous domination|Gouvernement non centralisé|Aucune|[[Korvosa]] (18 486), [[Celwynvian]] (inconnue), [[Janderhoff]] (10 230), [[Kaer Maga]] (8 000), [[Magnimar]] (16 428), [[Port-Énigme]] (13 300), Urglin (5 800)|[[Pointesable]], voir [[Varisie#ENVARISIE|plus bas]]|[[Chélaxiens]], [[Varisiens]] et [[Shoantis]]|Commun, Varisien, Shoanti|[[Abadar]], [[Desna]], [[Erastil]], [[Calistria]], [[Cayden Cailéan]], [[Lamashtu]], [[Pharasma]], [[Norgorber]], [[Urgathoa]], [[Zon-Kuthon]].}
+La Varisie est une terre rocheuse qui descend des hautes [[Monts Kodar|montagnes de Kodar]] au nord, vers les [[Marais-du-Mush|marais]] détrempés du sud. C'est donc un pays sculpté dans la pierre, pourtant, entre les chaînes de montagnes qui sillonnent la région, des terres très variées et vibrantes de vie s’épanouissent.
 
 #### Géographie physique
-Le [plateau de Storval](./Plateau de Storval.md) est la merveille naturelle la plus spectaculaire de toute la Varisie. Une ligne de falaises continue qui atteint par endroits une hauteur de 900 mètres. Au-delà de ce chef-d’oeuvre naturel, les parois des falaises sont presque entièrement recouvertes de sculptures érodées, de châteaux en ruines et de passages sinistres, creusés pour atteindre les profondeurs.
+Le [[Plateau de Storval]] est la merveille naturelle la plus spectaculaire de toute la Varisie. Une ligne de falaises continue qui atteint par endroits une hauteur de 900 mètres. Au-delà de ce chef-d’oeuvre naturel, les parois des falaises sont presque entièrement recouvertes de sculptures érodées, de châteaux en ruines et de passages sinistres, creusés pour atteindre les profondeurs.
 
-C'est une région aride de collines, parsemée d’une végétation rare et investie par de dangereux géants. C’est le foyer des [Shoantis](./Shoantis.md), un peuple nomade de barbares qui parcoure la Varisie, des [monts pierreux](./Monts pierreux.md) à l’ouest aux [terres Cendres](./Terres cendrées.md) à l’est, une étendue désertique de buttes déchiquetées.
+C'est une région aride de collines, parsemée d’une végétation rare et investie par de dangereux géants. C’est le foyer des [[Shoantis]], un peuple nomade de barbares qui parcoure la Varisie, des [[Monts Pierreux]] à l’ouest aux [[Terres Cendrées|terres Cendres]] à l’est, une étendue désertique de buttes déchiquetées.
 
-Sous les falaises de Storval, de douces collines et des plaines rocheuses constituent les étendues les plus hospitalières de Varisie. Nombre de ces régions sont marquées par d’anciens monolithes, des statues érodées et des cairns d’une taille surnaturelle. Au nord-ouest, des collines couvertes de hautes-herbes et de plaines venteuses forment des vallées entre mer et montagnes. Au sud, des terres fertiles grêlées d’étendues de pierres calcaires et des landes enveloppées de brumes bordent l’immense pourriture du [Marais du Mush](./Marais-du-Mush.md).
+Sous les falaises de Storval, de douces collines et des plaines rocheuses constituent les étendues les plus hospitalières de Varisie. Nombre de ces régions sont marquées par d’anciens monolithes, des statues érodées et des cairns d’une taille surnaturelle. Au nord-ouest, des collines couvertes de hautes-herbes et de plaines venteuses forment des vallées entre mer et montagnes. Au sud, des terres fertiles grêlées d’étendues de pierres calcaires et des landes enveloppées de brumes bordent l’immense pourriture du [[Marais-du-Mush|Marais du Mush]].
 
-Les forêts nombreuses et épaisses se nichent aussi au pied des montagnes de Varisie. Tandis qu’araignées et autres vermines infestent le [Bois-Grognon](./Bois-Grognon.md), on dit que des fantômes de loups-garous hantent le [bois des Cendres](./Bois des Cendres.md). Peu de gens osent braver le [Bois-Guetteur](./Bois-Guetteur.md) car des arbres particulièrement sombres poussent et perdent là-bas leurs feuilles à un rythme ne correspondant pas à celui des saisons. Il se dit également depuis longtemps que des choses dangereuses et mortelles hantent le nord de la [forêt de Sanos](./Forêt de Sanos.md). Cela dit, la population gnome du bras sud de la forêt a largement contribué à faire taire ces rumeurs. Enfin, la [forêt de Miérani](./Foret-de-Mierani.md) fut autrefois, et c’est à nouveau vrai, la demeure des elfes. Depuis les 200 ans qui ont suivi leur réapparition, les elfes ont fait beaucoup pour traiter avec les peuples du sud de la Varisie mais ils ne permettent que très rarement à des étrangers de pénétrer dans leur foyer sylvestre. Il existe encore beaucoup d'autres petits bois avec leurs particularités ainsi que des particularités comme le [pic de Léniriss](./Pic-de-Leniriss.md).
+Les forêts nombreuses et épaisses se nichent aussi au pied des montagnes de Varisie. Tandis qu’araignées et autres vermines infestent le [[Bois-Grognon]], on dit que des fantômes de loups-garous hantent le [[bois des Cendres]]. Peu de gens osent braver le [[Bois-Guetteur]] car des arbres particulièrement sombres poussent et perdent là-bas leurs feuilles à un rythme ne correspondant pas à celui des saisons. Il se dit également depuis longtemps que des choses dangereuses et mortelles hantent le nord de la [[Forêt de Sanos]]. Cela dit, la population gnome du bras sud de la forêt a largement contribué à faire taire ces rumeurs. Enfin, la [[Foret-de-Mierani|forêt de Miérani]] fut autrefois, et c’est à nouveau vrai, la demeure des elfes. Depuis les 200 ans qui ont suivi leur réapparition, les elfes ont fait beaucoup pour traiter avec les peuples du sud de la Varisie mais ils ne permettent que très rarement à des étrangers de pénétrer dans leur foyer sylvestre. Il existe encore beaucoup d'autres petits bois avec leurs particularités ainsi que des particularités comme le [[Pic-de-Leniriss|pic de Léniriss]].
 
 
 #### Carte
@@ -104,124 +104,124 @@ Les forêts nombreuses et épaisses se nichent aussi au pied des montagnes de Va
 <AREA SHAPE="poly" ALT="" COORDS="197,15, 207,23, 232,28, 222,39, 178,37, 178,23, 188,16, 188,12" HREF="/Wiki/Golarion.Terres%20des%20Rois%20des%20Linnorms.ashx">
 <AREA SHAPE="poly" ALT="" COORDS="686,183, 685,200, 688,205, 671,219, 630,214, 624,204, 629,197, 670,190, 685,181" HREF="/Wiki/Golarion.Belkzen.ashx"></MAP>
 
-Lien vers la version anglaise de cette carte : [Varisia map](./Varisia map.md)</center>
+Lien vers la version anglaise de cette carte : [[Varisia map]]</center>
 
 
 #### Histoire de la région
-Alors que l'étendue des terres sauvages qui comprenait la Varisie, sans qu'elle n'en porta encore le nom à l'époque, n'était peuplée que d'habitants qui sortaient péniblement d'un âge de pierre, un puissant magicien exilé par les siens décida de faire de cette terre une nation unie et prospère. [Xin l'hérétique](./Xin.md) à l'aide de ceux qui avaient voulu le suivre dans son exil du continent [Azlante](./Azlante.md) débarqua en [Avistan](./Avistan.md), amenant le meilleur et le pire de sa civilisation aux peuples qui vivaient là. Les varisiens étaient des nomades humains simples qui s'adonnèrent au commerce et s'allièrent avec [Xin](./Xin.md) pour créer sur cette terre les prémices de l'[empire thassilonien](./Thassilon.md). [Thassilon](./Thassilon.md) prospéra au delà de toute espérance et l'influence de [Xin](./Xin.md) s'étendait sur des lieues et des lieues, si bien que pour pouvoir gouverner efficacement il dut partager son royaume en sept provinces qu'il confia à sept de ses disciples à qui il avait appris une partie essentielle des sept piliers de sa magie runique. Chacun de ces mages avait été choisis avec soins en fonction de leurs vertus et de leur capacité à contrôler les sept aspects de sa puissante magie. Ils furent dès lors appelés les Seigneurs des runes.
+Alors que l'étendue des terres sauvages qui comprenait la Varisie, sans qu'elle n'en porta encore le nom à l'époque, n'était peuplée que d'habitants qui sortaient péniblement d'un âge de pierre, un puissant magicien exilé par les siens décida de faire de cette terre une nation unie et prospère. [[Xin|Xin l'hérétique]] à l'aide de ceux qui avaient voulu le suivre dans son exil du continent [[Azlante]] débarqua en [[Avistan]], amenant le meilleur et le pire de sa civilisation aux peuples qui vivaient là. Les varisiens étaient des nomades humains simples qui s'adonnèrent au commerce et s'allièrent avec [[Xin]] pour créer sur cette terre les prémices de l'[[Thassilon|empire thassilonien]]. [[Thassilon]] prospéra au delà de toute espérance et l'influence de [[Xin]] s'étendait sur des lieues et des lieues, si bien que pour pouvoir gouverner efficacement il dut partager son royaume en sept provinces qu'il confia à sept de ses disciples à qui il avait appris une partie essentielle des sept piliers de sa magie runique. Chacun de ces mages avait été choisis avec soins en fonction de leurs vertus et de leur capacité à contrôler les sept aspects de sa puissante magie. Ils furent dès lors appelés les Seigneurs des runes.
 
-Après des années et des années de prospérité le royaume de [Thassilon](./Thassilon.md) devînt un empire et la confiance que [Xin](./Xin.md) avait placé en ses disciples fut trahie à sa mort. Fort de leur puissance les [Seigneurs des runes](./Seigneurs des Runes.md) accaparèrent le pouvoir et firent de leurs vertus des vices pour le conserver. Le pouvoir des runes fut corrompu peu à peu suite à de terribles alliances avec des démons. Les guerres et la cruauté régnèrent pendant des siècles, conduisant irrémédiablement [Thassilon](./Thassilon.md) vers sa décadence puis sa chute sans qu'on connaisse réellement les causes de sa destruction. La chute de la [Pierre-Étoile](./Pierre-Étoile.md) marqua la fin de l'empire et la région resta à l'état sauvage durant des millénaires laissant les vestiges aux mains des survivants [varisiens](./Varisiens.md) et [shoantis](./Shoantis.md) jusqu'à ce que les volontés expansionnistes chélaxiennes les amènent à s'intéresser à cette terre.
+Après des années et des années de prospérité le royaume de [[Thassilon]] devînt un empire et la confiance que [[Xin]] avait placé en ses disciples fut trahie à sa mort. Fort de leur puissance les [[Seigneurs des runes]] accaparèrent le pouvoir et firent de leurs vertus des vices pour le conserver. Le pouvoir des runes fut corrompu peu à peu suite à de terribles alliances avec des démons. Les guerres et la cruauté régnèrent pendant des siècles, conduisant irrémédiablement [[Thassilon]] vers sa décadence puis sa chute sans qu'on connaisse réellement les causes de sa destruction. La chute de la [[Pierre-Étoile]] marqua la fin de l'empire et la région resta à l'état sauvage durant des millénaires laissant les vestiges aux mains des survivants [[Varisiens]] et [[Shoantis]] jusqu'à ce que les volontés expansionnistes chélaxiennes les amènent à s'intéresser à cette terre.
 
-En 4405 les armées chélaxiennes repoussèrent les barbares [shoantis](./Shoantis.md) sur les terres du nord-est de ce qu'ils nommaient la Varisie. Les colons s'installèrent amenant comme [Xin](./Xin.md) en son temps, les bienfaits de leurs civilisations aux [varisiens](./Varisiens.md) et une paix toujours fragile 300 ans plus tard.
+En 4405 les armées chélaxiennes repoussèrent les barbares [[Shoantis]] sur les terres du nord-est de ce qu'ils nommaient la Varisie. Les colons s'installèrent amenant comme [[Xin]] en son temps, les bienfaits de leurs civilisations aux [[Varisiens]] et une paix toujours fragile 300 ans plus tard.
 
-Aujourd'hui la Varisie reste toujours une terre sauvage où les conflits entre les différentes populations sont encore nombreux. Elle offre toutefois un rempart, un peu trop maigre selon certains pour les nations plus au sud comme le [Chéliax](./Chéliax.md) contre les peuples barbares et les géants du [plateau de Storval](./Plateau de Storval.md) au nord-est.
+Aujourd'hui la Varisie reste toujours une terre sauvage où les conflits entre les différentes populations sont encore nombreux. Elle offre toutefois un rempart, un peu trop maigre selon certains pour les nations plus au sud comme le [[Chéliax]] contre les peuples barbares et les géants du [[Plateau de Storval]] au nord-est.
 
 
 #### Sociétés & cultures
-Il n'y a pas de gouvernement central depuis la chute de l'empire Chéliaxien. Trois cités-états se partagent difficilement une grande partie du territoire mais il reste des petites villes, des bourgs et des villages totalement indépendants sous la domination d'aucune de ces trois puissances. [Korvosa](./Korvosa.md), au sud-est était l'ancienne capitale de la province sous l'empire chélaxien, elle est restée la plus grande et la plus fidèle même si à sa tête, c'est un monarque indépendant qui dirige la cité et les possessions de [Korvosa](./Korvosa.md). Contrairement à cette ville qui est restée prisonnière de son passé, [Magnimar](./Magnimar.md), au sud-ouest, est une ville ouverte et prospère, dont les possessions sont des bourgs et villages qui se sont alliés naturellement à elle. Plus au nord-est la dernière puissance à pouvoir revendiquer un certain pouvoir sur les terres varisiennes est [Port-Énigme](./Port-Énigme.md) où se rassemble tout ceux qui souhaitent vivre à l'écart d'une autorité. On y retrouve tous les parias d'une société comme des mercenaires sans foi ni loi, des voleurs de tout poils et aussi des pirates.
+Il n'y a pas de gouvernement central depuis la chute de l'empire Chéliaxien. Trois cités-états se partagent difficilement une grande partie du territoire mais il reste des petites villes, des bourgs et des villages totalement indépendants sous la domination d'aucune de ces trois puissances. [[Korvosa]], au sud-est était l'ancienne capitale de la province sous l'empire chélaxien, elle est restée la plus grande et la plus fidèle même si à sa tête, c'est un monarque indépendant qui dirige la cité et les possessions de [[Korvosa]]. Contrairement à cette ville qui est restée prisonnière de son passé, [[Magnimar]], au sud-ouest, est une ville ouverte et prospère, dont les possessions sont des bourgs et villages qui se sont alliés naturellement à elle. Plus au nord-est la dernière puissance à pouvoir revendiquer un certain pouvoir sur les terres varisiennes est [[Port-Énigme]] où se rassemble tout ceux qui souhaitent vivre à l'écart d'une autorité. On y retrouve tous les parias d'une société comme des mercenaires sans foi ni loi, des voleurs de tout poils et aussi des pirates.
 
 {s:Reference|ENVARISIE}
 
 ### Ce que l'on trouve en Varisie
 <table class="page espace-col top"><tr><td style="width:33%">
 <h3>Villes et villages</h3>
-- [Abbaye de Chantevent](./Abbaye de Chantevent.md)
-- [Abken](./Abken.md)
-- [Bac de la tortue](./Bac de la tortue.md)
-- [Baie de Palin](./Baie de Palin.md)
-- [Baie de Roderic](./Baie de Roderic.md)
-- [Balswief](./Balswief.md)
-- [Biston](./Biston.md)
-- [Celwynvian](./Celwynvian.md)
-- [Doux-Carillon](./Doux-Carillon.md)
-- [Galduria](./Galduria.md)
-- [Harse](./Harse.md)
-- [Ilsurian](./Ilsurian.md)
-- [Janderhoff](./Janderhoff.md)
-- [Kaer Maga](./Kaer Maga.md)
-- [Korvosa](./Korvosa.md)
-- [Landecorbeau](./Landecorbeau.md)
-- [Magnimar](./Magnimar.md)
-- [Melfesh](./Melfesh.md)
-- [Nybor](./Nybor.md)
-- [Oreille-du-loup](./Oreille-du-loup.md)
-- [Pointesable](./Pointesable.md)
-- [Port-Énigme](./Port-Énigme.md)
-- [Sirathu](./Sirathu.md)
-- [Urglin](./Urglin.md)
-- [Veldraine](./Veldraine.md)
-- [Wartle](./Wartle.md)
+- [[Abbaye de Chantevent]]
+- [[Abken]]
+- [[Bac de la tortue]]
+- [[Baie de Palin]]
+- [[Baie de Roderic]]
+- [[Balswief]]
+- [[Biston]]
+- [[Celwynvian]]
+- [[Doux-Carillon]]
+- [[Galduria]]
+- [[Harse]]
+- [[Ilsurian]]
+- [[Janderhoff]]
+- [[Kaer Maga]]
+- [[Korvosa]]
+- [[Landecorbeau]]
+- [[Magnimar]]
+- [[Melfesh]]
+- [[Nybor]]
+- [[Oreille-du-loup]]
+- [[Pointesable]]
+- [[Port-Énigme]]
+- [[Sirathu]]
+- [[Urglin]]
+- [[Veldraine]]
+- [[Wartle]]
 
 <h3>Particularités géographiques</h3>
-- [Abysse de Storval](./Abysse de Storval.md)
-- [Corneffilée](./Corneffilée.md)
-- [Faille de Niltak](./Faille de Niltak.md)
-- [Rocristal](./Rocristal.md)
+- [[Abysse de Storval]]
+- [[Corneffilée]]
+- [[Faille de Niltak]]
+- [[Rocristal]]
 </td>
 
 <td style="width:33%">
 <h3>Collines et montagnes</h3>
-- [Collines de Curchain](./Collines de Curchain.md)
-- [Grinçantes](./Grinçantes.md)
-- [Montagne crochue](./Montagne crochue.md)
-- [Montagnes Calphiaques](./Montagnes Calphiaques.md)
-- [Monts de l'esprit](./Monts-de-l-esprit.md)
-- [Monts de la wiverne](./Monts de la wiverne.md)
-- [Monts Kodar](./Monts Kodar.md)
-- [Monts Malgoriens](./Monts Malgoriens.md)
-- [Monts pierreux](./Monts pierreux.md)
-- [Monts plaie de brume](./Monts plaie de brume.md)
-- [Monts rouges](./Monts rouges.md)
-- [Mur du marais](./Mur-du-marais.md)
-- [Pics de fer](./Pics de fer.md)
+- [[Collines de Curchain]]
+- [[Grinçantes]]
+- [[Montagne crochue]]
+- [[Montagnes Calphiaques]]
+- [[Monts-de-l-esprit|Monts de l'esprit]]
+- [[Monts de la wiverne]]
+- [[Monts Kodar]]
+- [[Monts Malgoriens]]
+- [[Monts pierreux]]
+- [[Monts plaie de brume]]
+- [[Monts rouges]]
+- [[Mur-du-marais|Mur du marais]]
+- [[Pics de fer]]
 
 <h3>Forêts et marécages</h3>
-- [Bois-Grognon](./Bois-Grognon.md)
-- [Bois-Guetteur](./Bois-Guetteur.md)
-- [Bois des Cendres](./Bois des Cendres.md)
-- [Forêt de Mériani](./Foret-de-Mierani.md)
-- [Forêt de Sanos](./Foret-de-Sanos.md)
-- [Marais du Mush](./Marais-du-Mush.md)
-- [Pic de Léniriss](./Pic-de-Leniriss.md)
+- [[Bois-Grognon]]
+- [[Bois-Guetteur]]
+- [[Golarion.Bois des Cendres|Bois des Cendres]]
+- [[Foret-de-Mierani|Forêt de Mériani]]
+- [[Foret-de-Sanos|Forêt de Sanos]]
+- [[Marais-du-Mush|Marais du Mush]]
+- [[Pic-de-Leniriss|Pic de Léniriss]]
 
 <h3>Mers et lacs</h3>
-- [Golfe de Varisie](./Golfe de Varisie.md)
-- [Jeggare](./Jeggare.md)
-- [Lac de Profondorage](./Lac de Profondorage.md)
-- [Lac des Braises](./Lac des Braises.md)
-- [Lac Skotha](./Lac Skotha.md)
-- [Lac Syrantula](./Lac Syrantula.md)
+- [[Golfe de Varisie]]
+- [[Jeggare]]
+- [[Lac de Profondorage]]
+- [[Lac des Braises]]
+- [[Lac Skotha]]
+- [[Lac Syrantula]]
 
 </td><td style="width:33%">
 <h3>Plaines et plateaux</h3>
-- [Hautes terres de Vélashu](./Hautes terres de Vélashu.md)
-- [Plateau de Storval](./Plateau de Storval.md)
-- [Terres cendrées](./Terres cendrées.md)
-- [Terres vides](./Terres vides.md)
-- [Vallons scintillants](./Vallons scintillants.md)
-- [Val sanglant](./Val sanglant.md)
+- [[Hautes terres de Vélashu]]
+- [[Plateau de Storval]]
+- [[Terres cendrées]]
+- [[Terres vides]]
+- [[Vallons scintillants]]
+- [[Val sanglant]]
 
 <h3>Lieux étranges</h3>
-- [Croisée des crânes](./Croisée des crânes.md)
-- [Crystilan](./Crystilan.md)
-- [Eperon du Remord](./Eperon du Remord.md)
-- [Escaliers de Storval](./Escaliers de Storval.md)
-- [Forge de Minderhal](./Forge de Minderhal.md)
-- [Givrecrâne](./Givrecrâne.md)
-- [Gruankus](./Gruankus.md)
-- [Hall des bois Véreux](./Hall des bois Véreux.md)
-- [Mohbad Leigh](./Mohbad Leigh.md)
-- [Montagne creuse](./Montagne creuse.md)
-- [Mundatei](./Mundatei.md)
-- [Mursalé](./Mursalé.md)
-- [Murvipérin](./Murvipérin.md)
-- [Phare de la dame](./Phare de la dame.md)
-- [Porte des Glyphes](./Porte des Glyphes.md)
-- [Reine engloutie](./Reine engloutie.md)
-- [Tombeau de Chorak](./Tombeau de Chorak.md)
+- [[Croisée des crânes]]
+- [[Crystilan]]
+- [[Eperon du Remord]]
+- [[Escaliers de Storval]]
+- [[Forge de Minderhal]]
+- [[Givrecrâne]]
+- [[Gruankus]]
+- [[Hall des bois Véreux]]
+- [[Mohbad Leigh]]
+- [[Montagne creuse]]
+- [[Mundatei]]
+- [[Mursalé]]
+- [[Murvipérin]]
+- [[Phare de la dame]]
+- [[Porte des Glyphes]]
+- [[Reine engloutie]]
+- [[Tombeau de Chorak]]
 </td></tr></table>
 
 {s:VoirAussiAvant}
-- Plus d'informations sur la Varisie dans le [Publications#CAMPAIGNSETTING|Campaign Setting/Livre de campagne] et dans le [Publications#GAZETTEER|Gazetteer/Atlas], voir la page des [Publications].
-- On parle également de la Varisie dans le [++Aventures.Présentation AP1#AP1PG|Guide du joueur] et dans le [++Aventures.Présentation AP1#AP1-3|troisième volume] de la campagne [++Aventures.Présentation AP1|L'Éveil des Seigneurs des Runes].
+- Plus d'informations sur la Varisie dans le [[Publications#CAMPAIGNSETTING|Campaign Setting/Livre de campagne]] et dans le [[Publications#GAZETTEER|Gazetteer/Atlas]], voir la page des [[Publications]].
+- On parle également de la Varisie dans le [[Aventures.Présentation AP1#AP1PG|Guide du joueur]] et dans le [[Aventures.Présentation AP1#AP1-3|troisième volume]] de la campagne [[Aventures.Présentation AP1|L'Éveil des Seigneurs des Runes]].
 {s:VoirAussiAprès}

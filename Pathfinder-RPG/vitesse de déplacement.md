@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Valeurs de combat#VITESSEDEDEPLACEMENT
 ---
 
->>> [Valeurs de combat#VITESSEDEDEPLACEMENT](./Valeurs de combat.md#VITESSEDEDEPLACEMENT)
+>>> [[Valeurs de combat#VITESSEDEDEPLACEMENT]]

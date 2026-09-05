@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Rancune
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Rancune](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Rancune)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Rancune]]

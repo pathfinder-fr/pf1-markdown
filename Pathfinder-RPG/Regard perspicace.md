@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*Le personnage ne se laisse pas facilement berner par les illusions et les faux.*
 
-**Conditions.** [Elfe](./Elfe.md) ou [demi-elfe](./Demi-elfe.md), sens aiguisés.
+**Conditions.** [[Elfe]] ou [[demi-elfe]], sens aiguisés.
 
-**Avantages.** Le personnage reçoit un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) contre les sorts et effets d’[illusion](./Illusion.md) et un bonus de +2 aux tests de [Linguistique](./Linguistique.md) pour repérer un faux. Il peut utiliser la [compétence](./Compétences.md) Linguistique pour détecter un faux même s’il n’est pas entraîné.
+**Avantages.** Le personnage reçoit un bonus racial de +2 aux [[jds|jets de sauvegarde]] contre les sorts et effets d’[[illusion]] et un bonus de +2 aux tests de [[Linguistique]] pour repérer un faux. Il peut utiliser la [[compétences|compétence]] Linguistique pour détecter un faux même s’il n’est pas entraîné.

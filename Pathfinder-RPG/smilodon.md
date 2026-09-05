@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Tigre sanguinaire
 ---
 
->>> [Pathfinder-RPG.Tigre sanguinaire](./Tigre sanguinaire.md)
+>>> [[Pathfinder-RPG.Tigre sanguinaire]]

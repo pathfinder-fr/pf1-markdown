@@ -14,24 +14,24 @@ Categories:
 {s:pucem|Humanoïde|Montagnes|Froid}
 {s:BDTexte|*Source : Bestiaire 2* p.278}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([froid](./sous-type froid.md), [géant](./sous-type géant.md)) de taille G, CM}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type humanoïde|Humanoïde]] ([[sous-type froid|froid]], [[sous-type géant|géant]]) de taille G, CM}
+{s:BDTexte|**Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 13 (Dex +4, naturelle +4, taille –1)}
-{s:BDTexte|**pv** 45 (6d8+18) ; [régénération](./Régénération.md) 5 (acide ou feu)}
+{s:BDTexte|**pv** 45 (6d8+18) ; [[régénération]] 5 (acide ou feu)}
 {s:BDTexte|**Réf** +8, **Vig** +8, **Vol** +2}
 {s:BDTexte|**Immunités** froid}
-{s:BDTexte|**Faiblesses** [vulnérable](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérable]] au feu}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** hache d’armes, +7 (2d6+4) et morsure, +2 (1d6+2) et griffe, +2 (1d4+2) ou morsure, +7 (1d6+4) et 2 griffes, +7 (1d4+4)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration (capacité).md) (2 griffes, 1d6+6)}
+{s:BDTexte|**Attaques spéciales** [[éventration (capacité)|éventration]] (2 griffes, 1d6+6)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 18, **Con** 16, **Int** 9, **Sag** 10, **Cha** 7}
 {s:BDTexte|**BBA** +4 ; **BMO** +9 ; **DMD** 23}
-{s:BDTexte|**Dons** [Force intimidante](./Force intimidante.md), [Réflexes surhumains](./Réflexes surhumains.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Intimidation](./Intimidation.md) +7, [Perception](./Perception.md) +9, [Survie](./Survie.md) +4}
+{s:BDTexte|**Dons** [[Force intimidante]], [[Réflexes surhumains]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Intimidation]] +7, [[Perception]] +9, [[Survie]] +4}
 {s:BDTexte|**Langues** géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** montagnes froides ou sous terre}

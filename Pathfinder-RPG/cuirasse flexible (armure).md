@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des armures#Cuirasseflexible
 ---
 
->>> [Descriptions individuelles des armures#Cuirasseflexible](./Descriptions individuelles des armures.md#Cuirasseflexible)
+>>> [[Descriptions individuelles des armures#Cuirasseflexible]]

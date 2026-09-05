@@ -6,7 +6,7 @@ Categories:
 - Règle de monstres universelle
 ---
 
-La créature peut nager vers l’arrière sur la distance indiquée par une [action complexe](./Action complexe.md). Ce mouvement
+La créature peut nager vers l’arrière sur la distance indiquée par une [[action complexe]]. Ce mouvement
 doit s’effectuer en ligne droite et ne provoque pas d’attaque d’opportunité.
 
 *Format :* propulsion (60 m / 45 cases). *Emplacement :* VD.

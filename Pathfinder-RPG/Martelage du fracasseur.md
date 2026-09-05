@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:WMH}*Vos coups de marteau provoquent des blessures traumatiques.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 13, [École du fracasseur](./École du fracasseur.md), [Science de la destruction](./Science de la destruction.md), [Arme de prédilection](./Arme de prédilection.md) avec l'arme choisie, [BBA](./BBA.md) +6
+**Conditions.** [[For]] 13, [[École du fracasseur]], [[Science de la destruction]], [[Arme de prédilection]] avec l'arme choisie, [[BBA]] +6
 
-**Avantages.** Lorsqu'il utilise l'[École du fracasseur](./École du fracasseur.md), chaque fois que le personnage endommage une armure par une manœuvre de [destruction](./destruction.md), il réduit son bonus d'armure à la [CA](./CA.md) de 1 et augmente son [malus d'armure aux tests](./malus darmure.md) de 1. Une armure ne peut pas avoir son bonus d'armure à la CA réduit en dessous de 50% de sa valeur normale ni son malus d'armure aux test plus que doublé. Ces réductions et augmentations prennent fin lorsque les dommages dus à la destruction sont réparés.
+**Avantages.** Lorsqu'il utilise l'[[École du fracasseur]], chaque fois que le personnage endommage une armure par une manœuvre de [[destruction]], il réduit son bonus d'armure à la [[CA]] de 1 et augmente son [[malus darmure|malus d'armure aux tests]] de 1. Une armure ne peut pas avoir son bonus d'armure à la CA réduit en dessous de 50% de sa valeur normale ni son malus d'armure aux test plus que doublé. Ces réductions et augmentations prennent fin lorsque les dommages dus à la destruction sont réparés.

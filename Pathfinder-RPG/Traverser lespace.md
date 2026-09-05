@@ -15,19 +15,19 @@ Categories:
 ---
 
 {s:UC}
-**École** [Invocation](./Invocation.md) ([téléportation](./branche téléportation.md)) ; **Niveau** [Alch](./Alchimiste.md) 6, [Con](./Conjurateur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Magus](./Magus.md) 6, [Psy](./Psychiste.md) 7, [Sor](./Sorcière.md) 7  
+**École** [[Invocation]] ([[branche téléportation|téléportation]]) ; **Niveau** [[Alchimiste|Alch]] 6, [[Conjurateur|Con]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Magus]] 6, [[Psychiste|Psy]] 7, [[Sorcière|Sor]] 7  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (un oeuf de troglodyte)  
+**Composantes** [[Composantes|V, G, F]] (un oeuf de troglodyte)  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)
+**Durée** 1 [[round]]/[[niveau]]
 
-Quand le personnage se trouve sous l’effet de ce sort, il peut se téléporter sur 9 m (6 {s:c}) par une [action de mouvement](./Action de mouvement.md). Il doit terminer ce déplacement dans une case inoccupée située dans sa ligne de mire. Sinon, il peut dépenser une [action de mouvement](./Action de mouvement.md) pour passer d’une position allongée à debout sans provoquer d’[attaque d’opportunité](./attaque dopportunité.md).
+Quand le personnage se trouve sous l’effet de ce sort, il peut se téléporter sur 9 m (6 {s:c}) par une [[action de mouvement]]. Il doit terminer ce déplacement dans une case inoccupée située dans sa ligne de mire. Sinon, il peut dépenser une [[action de mouvement]] pour passer d’une position allongée à debout sans provoquer d’[[attaque dopportunité|attaque d’opportunité]].
 
 ### Mythique
-Le personnage peut se téléporter soit par une [action de mouvement](./Action de mouvement.md) soit par une action rapide, mais jamais plus d’une fois par round. S’il réalise une [action de mouvement](./Action de mouvement.md) et une [action rapide](./Action rapide.md), il peut se téléporter jusqu’à 18 mètres.
+Le personnage peut se téléporter soit par une [[action de mouvement]] soit par une action rapide, mais jamais plus d’une fois par round. S’il réalise une [[action de mouvement]] et une [[action rapide]], il peut se téléporter jusqu’à 18 mètres.

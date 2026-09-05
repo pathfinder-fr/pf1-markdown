@@ -13,9 +13,9 @@ Categories:
 {s:pucem|extraplanaire|Souterrain|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.220*}
 {s:BDTexte|**PX** 1400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([chaotique](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md), [natif](./sous-type natif.md)) de taille G, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 36 m (24 {s:c}) ; [vision dans les ténèbres](./Vision dans les ténèbres.md) ; [Perception](./Perception.md) +1}
-{s:BDTexte|**Aura** [puanteur](./Puanteur.md) (9 m (6 {s:c}), DD 17, 10 rounds)}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type chaos|chaotique]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]], [[sous-type natif|natif]]) de taille G, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 36 m (24 {s:c}) ; [[vision dans les ténèbres]] ; [[Perception]] +1}
+{s:BDTexte|**Aura** [[puanteur]] (9 m (6 {s:c}), DD 17, 10 rounds)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 10, pris au dépourvu 18 (+1 Dex, +9 naturelle, -1 taille)}
 {s:BDTexte|**pv** 68 (8d10+24)}
@@ -27,13 +27,13 @@ Categories:
 {s:BDTexte|**Corps à corps** morsure, +13 (1d10+5/19-20 plus 1d6 acide et morsure corruptrice) et 2 griffes, +12 (1d6+5)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
 {s:BDTexte|**Attaques spéciales** mâchoires vicieuses, morsure corruptrice}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 8 ; [concentration](./concentration.md) +10)}
-{s:BDSorts|1/jour – *[lenteur](./Lenteur.md)* (DD 15), *[ténèbres maudites](./Ténèbres maudites.md)* (DD 16), *[ténèbres profondes](./Ténèbres profondes.md)*}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 8 ; [[concentration]] +10)}
+{s:BDSorts|1/jour – *[[lenteur]]* (DD 15), *[[ténèbres maudites]]* (DD 16), *[[ténèbres profondes]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 12, **Con** 17, **Int** 5, **Sag** 13, **Cha** 14}
 {s:BDTexte|**BBA** +8, **BMO** +14, **DMD** 25}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +8 (+12 dans les régions rocailleuses), [Escalade](./Escalade.md) +12, [Intimidation](./Intimidation.md) +13, [Natation](./Natation.md) +12 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md) dans les régions rocailleuses}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Dur à cuire]], [[Endurance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +8 (+12 dans les régions rocailleuses), [[Escalade]] +12, [[Intimidation]] +13, [[Natation]] +12 ; **Modificateurs raciaux** +4 en [[Discrétion]] dans les régions rocailleuses}
 {s:BDTexte|**Langues** abyssal}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous les souterrains}
@@ -41,7 +41,7 @@ Categories:
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Mâchoires vicieuses (Ext).** L’attaque de morsure du slaugrak inflige un coup critique sur un 19 ou un 20.}
-{s:BDTexte|**Morsure corruptrice (Sur).** La salive caustique du slaugrak est infusée du pouvoir corrupteur des Abysses. Toute créature vivante qui reçoit des dégâts d’acide de la morsure d’un slaugrak doit réussir un jet de Vigueur DD 17 pour ne pas subir un [saignement](./Saignement.md) de 2 points de Constitution tandis que son sang se met à bouillir et que ses organes internes se liquéfient. Les créatures qui n’ont pas d’anatomie discernable (sang et organes internes) sont immunisées contre les saignements de Constitution. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Morsure corruptrice (Sur).** La salive caustique du slaugrak est infusée du pouvoir corrupteur des Abysses. Toute créature vivante qui reçoit des dégâts d’acide de la morsure d’un slaugrak doit réussir un jet de Vigueur DD 17 pour ne pas subir un [[saignement]] de 2 points de Constitution tandis que son sang se met à bouillir et que ses organes internes se liquéfient. Les créatures qui n’ont pas d’anatomie discernable (sang et organes internes) sont immunisées contre les saignements de Constitution. Le DD du jet de sauvegarde est basé sur la Constitution.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -49,27 +49,27 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Troglodyte](./Troglodyte.md) || 1
+| [[Troglodyte]] || 1
 |-
-| [Rôdeur troglodyte](./Rôdeur troglodyte.md) || 2
+| [[Rôdeur troglodyte]] || 2
 |-
-| [Parle-bête troglodyte](./Parle-bête troglodyte.md) || 3
+| [[Parle-bête troglodyte]] || 3
 |-
-| [Prêtre troglodyte](./Prêtre troglodyte.md) || 3
+| [[Prêtre troglodyte]] || 3
 |-
-| [Ensorceleur troglodyte](./Ensorceleur troglodyte.md) || 4
+| [[Ensorceleur troglodyte]] || 4
 |-
-| [Cavalier des écailles troglodyte](./Cavalier des écailles troglodyte.md) || 6
+| [[Cavalier des écailles troglodyte]] || 6
 |-
-| [Slaugrak](./Slaugrak.md) || 6
+| [[Slaugrak]] || 6
 |-
-| [Champion troglodyte](./Champion troglodyte.md) || 7
+| [[Champion troglodyte]] || 7
 |-
-| [Chef de clan troglodyte](./Chef de clan troglodyte.md) || 8
+| [[Chef de clan troglodyte]] || 8
 |-
-| [Garde du terrier troglodyte](./Garde du terrier troglodyte.md) || 9
+| [[Garde du terrier troglodyte]] || 9
 |-
-| [Tyran troglodyte](./Tyran troglodyte.md) || 10
+| [[Tyran troglodyte]] || 10
 |}
 </div> Le torse de cet imposant humanoïde reptilien est hérissé de membres
 vestigiaux parcourus de tressaillements, ainsi que d’yeux laiteux et de

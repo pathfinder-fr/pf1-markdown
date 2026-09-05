@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.262*}
 {s:BDTexte|**PX** 9.600}
-{s:BDTexte|[Créature artificielle](./type Créature artificielle.md) de taille G, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Créature artificielle|Créature artificielle]] de taille G, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 8, pris au dépourvu 24 (Dex -1, naturelle +16, taille -1)}
 {s:BDTexte|**pv** 107 (14d10+30)}
 {s:BDTexte|**Réf** +3, **Vig** +4, **Vol** +5}
-{s:BDTexte|**Immunités** feu,  [traits des créatures artificielles](./Traits des créatures artificielles.md) ; **RD** 5/adamantium  }
+{s:BDTexte|**Immunités** feu,  [[traits des créatures artificielles]] ; **RD** 5/adamantium  }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +21 (2d6+8 plus [étreinte](./Étreinte.md)) et 2 coups, +21 (1d6+8)}
+{s:BDTexte|**Corps à corps** morsure, +21 (2d6+8 plus [[étreinte]]) et 2 coups, +21 (1d6+8)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1.5 m (1 {s:c})}
 {s:BDTexte|**Attaques spéciales** engloutissement (aucun dégât *cf. ci-dessous*,
-CA 18, 40 pv), [piétinement](./Piétinement (capacité).md) (2d6+12, [DD](./DD.md) 25)}
+CA 18, 40 pv), [[piétinement (capacité)|piétinement]] (2d6+12, [[DD]] 25)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 8, **Con** -, **Int** -, **Sag** 12, **Cha** 1}
-{s:BDTexte|**BBA** +14, **BMO** +23 (+27 [lutte](./lutte.md)), **DMD** 32 (36 contre le [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**BBA** +14, **BMO** +23 (+27 [[lutte]]), **DMD** 32 (36 contre le [[croc-en-jambe]])}
 {s:BDTexte|**Particularité** conductivité}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
@@ -55,7 +55,7 @@ du tophet plus ses points de vie bonus de créature artificielle
 (ce qui représente un total de 40 points de vie pour la plupart des
 tophets). Sinon, la créature engloutie peut tenter de crocheter
 le cadenas situé sur la trappe d’acier de l’estomac du tophet en
-réussissant un test de [Sabotage](./Sabotage.md) de [DD](./DD.md) 30. Si la créature parvient
+réussissant un test de [[Sabotage]] de [[DD]] 30. Si la créature parvient
 à sortir en crochetant le cadenas, le tophet referme la trappe
 et peut à nouveau engloutir quelqu’un. Ces cadenas peuvent
 également être crochetés de l’extérieur, mais seulement lorsque
@@ -100,6 +100,6 @@ Le corps creux du tophet est fait de 1,5 tonne de fer ou d’acier d'une valeur 
 
 **NLS** 12<sup>e</sup> ; **Prix** 45 000 po
 
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[force de taureau](./Force de taureau.md)*,
-*[endurance aux énergies destructives](./Endurance aux énergies destructives.md)*,  le créateur doit avoir un niveau de lanceur de sorts minimum de 12 ; **Compétence** [Artisanat](./Artisanat.md) (sculpture) [DD](./DD.md) 20 ; **Coût** 23 500 po
+**Conditions** [[Création de créatures artificielles]], *[[force de taureau]]*,
+*[[endurance aux énergies destructives]]*,  le créateur doit avoir un niveau de lanceur de sorts minimum de 12 ; **Compétence** [[Artisanat]] (sculpture) [[DD]] 20 ; **Coût** 23 500 po
 </div></td></tr></table>

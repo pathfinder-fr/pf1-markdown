@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Chevalier#DEFI
 ---
 
->>> [Chevalier#DEFI](./Chevalier.md#DEFI)
+>>> [[Chevalier#DEFI]]

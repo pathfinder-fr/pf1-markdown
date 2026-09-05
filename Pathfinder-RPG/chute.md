@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Dangers naturels#CHUTES
 ---
 
->>> [Dangers naturels#CHUTES](./Dangers naturels.md#CHUTES)
+>>> [[Dangers naturels#CHUTES]]

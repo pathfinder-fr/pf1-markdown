@@ -5,4 +5,4 @@ LastModified: 2010-06-30 22:46
 RedirectTo: Pathfinder-RPG.Charisme
 ---
 
->>> [Pathfinder-RPG.Charisme](./Charisme.md)
+>>> [[Pathfinder-RPG.Charisme]]

@@ -6,9 +6,9 @@ LastModified: 2021-04-29 22:59
 
 *L’orque se sert encore mieux des armes que les orques préfèrent.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+**Catégorie** : [[Dons#DONCOMBAT|combat]]
 
-**Conditions requises.** BBA +1, [orque](./orque (race).md).
+**Conditions requises.** BBA +1, [[orque (race)|orque]].
 
 **Avantages.** Lorsqu’il prend ce don, l’orque choisit l’un des avantages ci-dessous. Lorsqu’il manie une arme ayant le mot « orque » dans son nom, il bénéficie de l’avantage qu’il a choisi tant qu’il maîtrise vraiment cette arme.
 - ***Défenseur.*** L’orque gagne un bonus de bouclier de +1 à la CA (ou de +2 s’il manie une arme à deux mains).
@@ -19,8 +19,8 @@ LastModified: 2021-04-29 22:59
 - ***Voyou.*** L’orque inflige +1 point de dégâts non létaux avec son arme.
 Ce don n’a aucun effet si l’orque ne manie pas l’arme qu’il utilise.
 
-**Spécial.** L’orque peut prendre ce don plusieurs fois. Chaque fois qu’il le choisit, il doit prendre un avantage différent. Il ne peut appliquer qu’un seul de ces avantages par round (défini par une [action libre](./Action libre.md) au début de son tour).
+**Spécial.** L’orque peut prendre ce don plusieurs fois. Chaque fois qu’il le choisit, il doit prendre un avantage différent. Il ne peut appliquer qu’un seul de ces avantages par round (défini par une [[action libre]] au début de son tour).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Quand le personnage utilise une arme dotée du mot « orque » dans son nom et au maniement de laquelle il est formé, il peut dépenser 5 points d’endurance pour bénéficier pendant une minute d’un des avantages de ce don qu’il ne possède pas encore.

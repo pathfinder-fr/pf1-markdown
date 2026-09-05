@@ -9,12 +9,12 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Psy](./Psychiste.md) 2
+{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Psychiste|Psy]] 2
 **Temps d'incantation** 10 minutes, plus la période de souvenirs à modifier
-**Composantes** [V, G, M](./composantes.md) (du jus de citron et un morceau de parchemin)
-**Portée** [contact](./contact.md)
+**Composantes** [[composantes|V, G, M]] (du jus de citron et un morceau de parchemin)
+**Portée** [[contact]]
 **Cibles** créature consentante touchée
 **Durée** 1 heure/niveau
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Le personnage modifie temporairement les souvenirs de la cible (comme avec *[modification de mémoire](./Modification de mémoire.md)*) pour éliminer, changer ou ajouter un souvenir d'une durée maximum de 1 heure. Lorsque le sort se termine, les véritables souvenirs de la cible refont surface, et les faux souvenirs s'effacent pour ne laisser qu'une vague impression, comme un rêve. Ces faux souvenirs semblent vrais pour la cible, donc les effets qui détectent les mensonges ou qui forcent la cible à dire la vérité (comme le sujet la comprend) ne révèlent pas la supercherie.
+Le personnage modifie temporairement les souvenirs de la cible (comme avec *[[modification de mémoire]]*) pour éliminer, changer ou ajouter un souvenir d'une durée maximum de 1 heure. Lorsque le sort se termine, les véritables souvenirs de la cible refont surface, et les faux souvenirs s'effacent pour ne laisser qu'une vague impression, comme un rêve. Ces faux souvenirs semblent vrais pour la cible, donc les effets qui détectent les mensonges ou qui forcent la cible à dire la vérité (comme le sujet la comprend) ne révèlent pas la supercherie.

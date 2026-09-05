@@ -4,8 +4,8 @@ Title: La croisade
 LastModified: 2010-10-08 11:22
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du premier chapitre : "[The Crusade](http://paizo.com/pathfinder/tales/serial/v5748dyo5lbdu)" de la nouvelle "Certitudes" de Liane Merciel.*
 
 Les paladins âgés sont rares.

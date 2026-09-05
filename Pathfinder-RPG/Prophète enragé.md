@@ -20,43 +20,43 @@ Les prophètes enragés sont toujours des barbares/oracles mais certains ont que
 | CLASS="gauche" | Sorts par jour
 |- CLASS="premier"
 | 1 || +0 || +0 || +1 || +1
-| CLASS="gauche" | [Féroce devin](./Prophète enragé.md#FEROCEDEVIN), [guide spirituel](./Prophète enragé.md#GUIDESPIRITUEL)
+| CLASS="gauche" | [[prophète enragé#FEROCEDEVIN|Féroce devin]], [[prophète enragé#GUIDESPIRITUEL|guide spirituel]]
 | CLASS="gauche" | -
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Guérisseur enragé](./Prophète enragé.md#GUERISSEURENRAGE), [mystère du prophète enragé](./Prophète enragé.md#MYSTEREDUPROPHETEENRAGE)
+| CLASS="gauche" | [[prophète enragé#GUERISSEURENRAGE|Guérisseur enragé]], [[prophète enragé#MYSTEREDUPROPHETEENRAGE|mystère du prophète enragé]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |-
 | 3 || +2 || +1 || +2 || +2
-| CLASS="gauche" | [Mage indomptable](./Prophète enragé.md#MAGEINDOMPTABLE)
+| CLASS="gauche" | [[prophète enragé#MAGEINDOMPTABLE|Mage indomptable]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |- CLASS="alt"
 | 4 || +3 || +1 || +2 || +2
-| CLASS="gauche" | [Mage enragé](./Prophète enragé.md#MAGEENRAGE) (niveau de lanceur de sorts), [mystère du prophète enragé](./Prophète enragé.md#MYSTEREDUPROPHETEENRAGE)
+| CLASS="gauche" | [[prophète enragé#MAGEENRAGE|Mage enragé]] (niveau de lanceur de sorts), [[prophète enragé#MYSTEREDUPROPHETEENRAGE|mystère du prophète enragé]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |-
 | 5 || +3 || +2 || +3 || +3
-| CLASS="gauche" | [Esprit gardien](./Prophète enragé.md#ESPRITGARDIEN)
+| CLASS="gauche" | [[prophète enragé#ESPRITGARDIEN|Esprit gardien]]
 | CLASS="gauche" | -
 |- CLASS="alt"
 | 6 || +4 || +2 || +3 || +3
-| CLASS="gauche" | [Mystère du prophète enragé](./Prophète enragé.md#MYSTEREDUPROPHETEENRAGE), [rage prolongée](./Prophète enragé.md#RAGEPROLONGEE)
+| CLASS="gauche" | [[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#RAGEPROLONGEE|rage prolongée]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |-
 | 7 || +5 || +2 || +4 || +4
-| CLASS="gauche" | [Mage enragé](./Prophète enragé.md#MAGEENRAGE) (DD)
+| CLASS="gauche" | [[prophète enragé#MAGEENRAGE|Mage enragé]] (DD)
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |- CLASS="alt"
 | 8 || +6 || +3 || +4 || +4
-| CLASS="gauche" | [Mystère du prophète enragé](./Prophète enragé.md#MYSTEREDUPROPHETEENRAGE), [sort enragé](./Prophète enragé.md#SORTENRAGE)
+| CLASS="gauche" | [[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#SORTENRAGE|sort enragé]]
 | CLASS="gauche" | -
 |-
 | 9 || +6 || +3 || +5 || +5
-| CLASS="gauche" | [Guerrier spirituel](./Prophète enragé.md#GUERRIERSPIRITUEL)
+| CLASS="gauche" | [[prophète enragé#GUERRIERSPIRITUEL|Guerrier spirituel]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |- CLASS="alt"
 | 10 || +7 || +3 || +5 || +5
-| CLASS="gauche" | [Mystère du prophète enragé](./Prophète enragé.md#MYSTEREDUPROPHETEENRAGE), [rage suprême](./Prophète enragé.md#RAGESUPREME)
+| CLASS="gauche" | [[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#RAGESUPREME|rage suprême]]
 | CLASS="gauche" | +1 niveau de lanceur de sorts divins
 |}
 </center>
@@ -72,16 +72,16 @@ Pour devenir un prophète enragé, il faut satisfaire aux conditions suivantes :
 
 **Bonus de base à l’attaque.** +5.
 
-**Compétences.** 5 rangs en [Connaissances](./Connaissances.md) (religion).
+**Compétences.** 5 rangs en [[Connaissances]] (religion).
 
 **Sorts.** Capacité à lancer des sorts divins de niveau 1.
 
-**Spécial.** pouvoir de classe d’[oracle](./Oracle.md) [malédiction](./Oracle.md#MALEDICTIONDELORACLE) et pouvoir de classe de [barbare](./Barbare.md) [moment de lucidité](./Pouvoirs de rage.md#MOMENTDELUCIDITE).
+**Spécial.** pouvoir de classe d’[[oracle]] [[oracle#MALEDICTIONDELORACLE|malédiction]] et pouvoir de classe de [[barbare]] [[pouvoirs de rage#MOMENTDELUCIDITE|moment de lucidité]].
 
 ### Compétences de classe
-Voici les compétences de classe du prophète enragé : [Art de la magie](./Art de la magie.md) (Int), [Connaissances](./Connaissances.md) (histoire) (Int), [Connaissances](./Connaissances.md) (religion) (Int), [Escalade](./Escalade.md) (For), [Intimidation](./Intimidation.md) (Cha), [Natation](./Natation.md) (For), [Premiers secours](./Premiers secours.md) (Sag), [Psychologie](./Psychologie.md) (Sag).
+Voici les compétences de classe du prophète enragé : [[Art de la magie]] (Int), [[Connaissances]] (histoire) (Int), [[Connaissances]] (religion) (Int), [[Escalade]] (For), [[Intimidation]] (Cha), [[Natation]] (For), [[Premiers secours]] (Sag), [[Psychologie]] (Sag).
 
-**Nombre de rangs par niveau.** 4 + modificateur d’[Intelligence](./Intelligence.md)
+**Nombre de rangs par niveau.** 4 + modificateur d’[[Intelligence]]
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de prestige de prophète enragé.
@@ -94,20 +94,20 @@ Aux niveaux indiqués, le personnage gagne de nouveaux sorts par jour comme s’
 
 {s:Reference|FEROCEDEVIN}
 #### Féroce devin
-{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#43) Prophète enragé : La capacité féroce devin d'un prophète enragé lui permet-elle de cumuler ses niveaux de barbare ou d'oracle avec ses niveaux de prophète enragé pour remplir les conditions des pouvoirs de rage et des mystères ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#43|→]] Prophète enragé : La capacité féroce devin d'un prophète enragé lui permet-elle de cumuler ses niveaux de barbare ou d'oracle avec ses niveaux de prophète enragé pour remplir les conditions des pouvoirs de rage et des mystères ?***
 
-Non. *(Retour à la <u>[classe](./Prophète enragé.md)</u>)*}Les niveaux de prophète enragé se cumulent avec ceux de [barbare](./Barbare.md) pour déterminer les effets des [pouvoirs de rage](./Barbare.md#POUVOIRDERAGE), et avec ceux d'[oracle](./Oracle.md) pour déterminer les effets des [révélations d’oracle](./Oracle.md#REVELATION) et de la [malédiction d’oracle](./Oracle.md#MALEDICTIONDELORACLE). Cela ne lui donne pas de pouvoirs supplémentaires.
+Non. *(Retour à la <u>[[Prophète enragé|classe]]</u>)*}Les niveaux de prophète enragé se cumulent avec ceux de [[barbare]] pour déterminer les effets des [[Barbare#POUVOIRDERAGE|pouvoirs de rage]], et avec ceux d'[[oracle]] pour déterminer les effets des [[Oracle#REVELATION|révélations d’oracle]] et de la [[Oracle#MALEDICTIONDELORACLE|malédiction d’oracle]]. Cela ne lui donne pas de pouvoirs supplémentaires.
 
 {s:Reference|GUIDESPIRITUEL}
 #### Guide spirituel (Mag)
-Chaque prophète enragé possède un guide spirituel, un fantôme intangible qui lui parle, veille sur lui et lui prête sa force et sa sagesse. Grâce à cet esprit, quand le prophète devient enragé, il bénéficie des avantages d’un sort d’*[assistance divine](./Assistance divine.md)*. Il peut utiliser les bonus accordés à n’importe quel moment tant qu’il est en rage. Le guide spirituel lui permet aussi de lancer *[lumières dansantes](./Lumières dansantes.md)*, *[son imaginaire](./Son imaginaire.md)* et  *[manipulation à distance](./Manipulation à distance.md)* comme des pouvoirs magiques une fois par jour pour chacun ([niveau de lanceur de sorts](./NLS.md) égal au niveau de classe de prophète enragé). Les [DD](./DD.md) sont basés sur le [Charisme](./Charisme.md).
+Chaque prophète enragé possède un guide spirituel, un fantôme intangible qui lui parle, veille sur lui et lui prête sa force et sa sagesse. Grâce à cet esprit, quand le prophète devient enragé, il bénéficie des avantages d’un sort d’*[[assistance divine]]*. Il peut utiliser les bonus accordés à n’importe quel moment tant qu’il est en rage. Le guide spirituel lui permet aussi de lancer *[[lumières dansantes]]*, *[[son imaginaire]]* et  *[[manipulation à distance]]* comme des pouvoirs magiques une fois par jour pour chacun ([[NLS|niveau de lanceur de sorts]] égal au niveau de classe de prophète enragé). Les [[DD]] sont basés sur le [[Charisme]].
 
 {s:Reference|MYSTEREDUPROPHETEENRAGE}
 #### Mystère du prophète enragé
-À partir du niveau 2 et par la suite à tous les niveaux pairs, le prophète enragé apprend un nouveau sort de son [guide spirituel](./Prophète enragé.md#GUIDESPIRITUEL).
-Ces sorts viennent s’ajouter à ceux de la liste donnée dans la [table :  Sorts connus de l’oracle](./Oracle.md#SORTSCONNUSDELORACLE) . Comme les sorts appris grâce au [mystère](./mystère.md) de l’[oracle](./Oracle.md), il est impossible de les échanger une fois arrivé à un niveau supérieur. Pour apprendre un de ces sorts auprès de son guide spirituel, le prophète enragé doit être capable de lancer des sorts d’oracle du niveau indiqué. Il considère le sort comme un sort d’oracle du niveau indiqué.
+À partir du niveau 2 et par la suite à tous les niveaux pairs, le prophète enragé apprend un nouveau sort de son [[prophète enragé#GUIDESPIRITUEL|guide spirituel]].
+Ces sorts viennent s’ajouter à ceux de la liste donnée dans la [[oracle#SORTSCONNUSDELORACLE|table :  Sorts connus de l’oracle]] . Comme les sorts appris grâce au [[mystère]] de l’[[oracle]], il est impossible de les échanger une fois arrivé à un niveau supérieur. Pour apprendre un de ces sorts auprès de son guide spirituel, le prophète enragé doit être capable de lancer des sorts d’oracle du niveau indiqué. Il considère le sort comme un sort d’oracle du niveau indiqué.
 
-Voici les sorts disponibles  :  *[œil du mage](./Œil du mage.md)* (4), *[augure](./Augure.md)* (2), *[divination](./Divination.md)* (4), *[songe](./Songe.md)* (5), *[orientation](./Orientation.md)* (6), *[main du berger](./Main du berger.md)* (3), *[détection de linvisibilité](./Détection de linvisibilité.md)* (2), *[traversée des ombres](./Traversée des ombres.md)* (6),  *[communication avec les morts](./Communication avec les morts.md)*  (3),  *[main spectrale](./Main spectrale.md)*  (2),  *[arme spirituelle](./Arme spirituelle.md)* (2),  *[serviteur invisible](./Serviteur invisible.md)*(1), *[vision](./vision.md)* (7), *[vent de murmures](./Vent de murmures.md)* (2).
+Voici les sorts disponibles  :  *[[œil du mage]]* (4), *[[augure]]* (2), *[[divination]]* (4), *[[songe]]* (5), *[[orientation]]* (6), *[[main du berger]]* (3), *[[détection de linvisibilité]]* (2), *[[traversée des ombres]]* (6),  *[[communication avec les morts]]*  (3),  *[[main spectrale]]*  (2),  *[[arme spirituelle]]* (2),  *[[serviteur invisible]]*(1), *[[vision]]* (7), *[[vent de murmures]]* (2).
 
 {s:Reference|GUERISSEURENRAGE}
 #### Guérisseur enragé (Sur)
@@ -115,31 +115,31 @@ Au niveau 2, le prophète enragé est capable de lancer des  sorts de soins sur 
 
 {s:Reference|MAGEINDOMPTABLE}
 #### Mage indomptable (Ext)
-Au niveau 3, le prophète enragé ajoute son bonus de [Constitution](./Constitution.md) (le cas échéant) à ses tests de [Concentration](./concentration.md).
+Au niveau 3, le prophète enragé ajoute son bonus de [[Constitution]] (le cas échéant) à ses tests de [[Concentration]].
 
 {s:Reference|MAGEENRAGE}
 #### Mage enragé (Sur)
-À partir du niveau 4, les sorts du prophète gagnent en puissance quand il est enragé. Quand il utilise [moment de lucidité](./Pouvoirs de rage.md#MOMENTDELUCIDITE), il ajoute son niveau de [barbare](./Barbare.md) à son [niveau de lanceur de sorts](./NLS.md). Au niveau 7, il ajoute son bonus de [Constitution](./Constitution.md) au [DD](./DD.md) de tout sort qu’il lance alors qu’il est enragé.
+À partir du niveau 4, les sorts du prophète gagnent en puissance quand il est enragé. Quand il utilise [[pouvoirs de rage#MOMENTDELUCIDITE|moment de lucidité]], il ajoute son niveau de [[barbare]] à son [[NLS|niveau de lanceur de sorts]]. Au niveau 7, il ajoute son bonus de [[Constitution]] au [[DD]] de tout sort qu’il lance alors qu’il est enragé.
 
 {s:Reference|ESPRITGARDIEN}
 
 
 #### Esprit gardien (Mag)
-Au niveau 5, le bonus de compétence apporté par l’*[assistance divine](./Assistance divine.md)* du [guide spirituel](./Prophète enragé.md#GUIDESPIRITUEL) passe à la moitié du niveau de classe de prophète s’il l’utilise pour combattre des [fées](./type Fée.md), des [Extérieurs](./type Extérieur.md), des [morts-vivants](./type Mort-vivant.md) ou des créatures [intangibles](./Intangible.md). Par une [action rapide](./Action rapide.md), le prophète peut dépenser 1 round de [rage](./Rage.md) (qu’il soit enragé ou non) pour accorder la capacité [spectrale](./spectrale (propriété).md) à ses armes et à son [armure](./spectrale (propriété armure).md) pendant 1 round. Cet effet se termine si l’objet n’est plus en possession du prophète.
+Au niveau 5, le bonus de compétence apporté par l’*[[assistance divine]]* du [[prophète enragé#GUIDESPIRITUEL|guide spirituel]] passe à la moitié du niveau de classe de prophète s’il l’utilise pour combattre des [[type fée|fées]], des [[type Extérieur|Extérieurs]], des [[type mort-vivant|morts-vivants]] ou des créatures [[intangible|intangibles]]. Par une [[action rapide]], le prophète peut dépenser 1 round de [[rage]] (qu’il soit enragé ou non) pour accorder la capacité [[spectrale (propriété)|spectrale]] à ses armes et à son [[spectrale (propriété armure)|armure]] pendant 1 round. Cet effet se termine si l’objet n’est plus en possession du prophète.
 
 {s:Reference|RAGEPROLONGEE}
 #### Rage prolongée (Sur)
-Au niveau 6, par une [action libre](./Action libre.md), le prophète enragé peut prolonger la durée de sa [rage](./Rage.md) en sacrifiant un emplacement de sort. Ceci rallonge la durée de la rage d’un nombre de rounds égal au niveau de l’emplacement de sort utilisé.
+Au niveau 6, par une [[action libre]], le prophète enragé peut prolonger la durée de sa [[rage]] en sacrifiant un emplacement de sort. Ceci rallonge la durée de la rage d’un nombre de rounds égal au niveau de l’emplacement de sort utilisé.
 
 {s:Reference|SORTENRAGE}
 #### Sort enragé (Sur)
-Au niveau 8, le prophète enragé peut lancer des sorts avec une portée personnelle alors qu’il est enragé sans avoir besoin d’utiliser [moment de lucidité](./Pouvoirs de rage.md#MOMENTDELUCIDITE).
+Au niveau 8, le prophète enragé peut lancer des sorts avec une portée personnelle alors qu’il est enragé sans avoir besoin d’utiliser [[pouvoirs de rage#MOMENTDELUCIDITE|moment de lucidité]].
 
 {s:Reference|GUERRIERSPIRITUEL}
 #### Guerrier spirituel (Sur)
-Au niveau 9, le bonus de compétence fourni par l’*[assistance divine](./Assistance divine.md)* du prophète augmente pour atteindre son niveau de classe de prophète enragé s’il l’utilise pour combattre des [fées](./type Fée.md), des [Extérieurs](./type Extérieur.md), des [morts-vivants](./type Mort-vivant.md) ou des créatures [intangibles](./Intangible.md). Il peut à présent donner la propriété [spectrale](./spectrale (propriété).md) à ses armes et à son armure par une [action immédiate](./Action immédiate.md).
+Au niveau 9, le bonus de compétence fourni par l’*[[assistance divine]]* du prophète augmente pour atteindre son niveau de classe de prophète enragé s’il l’utilise pour combattre des [[type Fée|fées]], des [[type Extérieur|Extérieurs]], des [[type mort-vivant|morts-vivants]] ou des créatures [[intangible|intangibles]]. Il peut à présent donner la propriété [[spectrale (propriété)|spectrale]] à ses armes et à son armure par une [[action immédiate]].
 
 {s:Reference|RAGESUPREME}
 
 #### Rage suprême (Ext)
-Au niveau 10, quand le prophète est enragé, son bonus de moral à la [Force](./Force.md) et à la [Constitution](./Constitution.md) passe à +6 et son bonus de moral aux jets de [Volonté](./Volonté.md) à +3.
+Au niveau 10, quand le prophète est enragé, son bonus de moral à la [[Force]] et à la [[Constitution]] passe à +6 et son bonus de moral aux jets de [[Volonté]] à +3.

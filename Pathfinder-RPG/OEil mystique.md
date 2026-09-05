@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ccmi}*Le personnage a si bien compris les enseignements ésotériques et mystiques qu’il peut ouvrir un troisième oeil qui lui permet de mieux percevoir le monde magique.*
 
-**Conditions**. 4 rangs en [Connaissances](./Connaissances.md) (mystères), capacité à lancer des sorts profanes
+**Conditions**. 4 rangs en [[Connaissances]] (mystères), capacité à lancer des sorts profanes
 
-**Avantages**. Une fois par jour, par une [action simple](./Action simple.md), le personnage peut faire apparaître un troisième oeil incandescent sur son front. Il reste ouvert pendant 1 minute pendant laquelle tous les sorts de [divination](./Présentation des sorts.md#DIVINATION) du personnage bénéficient d’un bonus de +1 au [niveau de lanceur de sorts](./NLS.md) (tant que le personnage commence à le lancer avant que l’oeil ne se ferme).
+**Avantages**. Une fois par jour, par une [[action simple]], le personnage peut faire apparaître un troisième oeil incandescent sur son front. Il reste ouvert pendant 1 minute pendant laquelle tous les sorts de [[Présentation des sorts#DIVINATION|divination]] du personnage bénéficient d’un bonus de +1 au [[nls|niveau de lanceur de sorts]] (tant que le personnage commence à le lancer avant que l’oeil ne se ferme).
 
-Le personnage gagne la [vision dans le noir](./vision dans le noir.md) sur 18 mètres (12 {s:c}) et peut lancer *[détection de la magie](./Détection de la magie.md)* (comme le sort du même nom). Il gagne un bonus de +8 aux tests de [Perception](./Perception.md) pour remarquer les créatures invisibles tant que l’oeil est ouvert.
+Le personnage gagne la [[vision dans le noir]] sur 18 mètres (12 {s:c}) et peut lancer *[[détection de la magie]]* (comme le sort du même nom). Il gagne un bonus de +8 aux tests de [[Perception]] pour remarquer les créatures invisibles tant que l’oeil est ouvert.

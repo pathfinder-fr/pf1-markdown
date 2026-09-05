@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#COUPPRECIS
 ---
 
->>> [arcanes#COUPPRECIS](./arcanes.md#COUPPRECIS)
+>>> [[arcanes#COUPPRECIS]]

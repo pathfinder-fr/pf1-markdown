@@ -8,10 +8,10 @@ LastModified: 2014-07-06 12:08
 
 <b>Accès :</b> Mon Personnage/Onglet Alliés
 
-[My Hero|Retour racine du Manuel]</div>
+[[My Hero|Retour racine du Manuel]]</div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/Slide30.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide65.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide66.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide67.jpg|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MesPersos|Mes Personnages]
+<OL><LI>Retour vers [[MH-MesPersos|Mes Personnages]]
 <LI>Sélection de l’allié à modifier.
 <LI>Nom de l’allié édité.
 <LI>Décochez cette case si vous ne voulez pas que cet allié soit affiché dans la vue résumé de votre personnage.
@@ -26,7 +26,7 @@ LastModified: 2014-07-06 12:08
 <LI>Cochez cette case et l’allié édité sera considéré par l’application comme une créature convoquée. Ses statistiques seront par exemple affectées par le don Amélioration des créatures convoquées si votre personnage le possède. Certains arcanes de lignage ou d’autres pouvoirs ont aussi un effet sur certaines créatures convoquées.
 <LI>Cocher cette case vous permet de définir le nombre de points de vie maximum de l’allié édité. Cette case décochée, ledit allié aura des points de vie moyens.
 <LI>Cocher cette case vous permet de définir l’équipement de l’allié édité dans l’onglet Inventaire. D’ici peu vous pourrez également définir de nouvelles options d’attaque pour ledit allié à partir de l’onglet Attaques.
-<LI>Cochez cette case et l’allié édité guérira de ses blessures lorsque vous userez de la fonction Repos ([MH-MonPerso|Mon Personnage], 21)).
+<LI>Cochez cette case et l’allié édité guérira de ses blessures lorsque vous userez de la fonction Repos ([[MH-MonPerso|Mon Personnage]], 21)).
 <LI>Cochez cette case et si l’allié édité est un mort-vivant alors il sera considéré comme ayant été animé dans une zone de profanation.
 <LI>Cochez les cases correspondant aux archétypes dont vous voulez faire bénéficier l’allié édité. Certains nécessitent la définition d’une option (ex : demi-dragon, demi-céleste, demi-fiélon).
 <LI>Cochez cette case et les dons de base de l’allié édité seront conservés lorsque vous ajouterez des pouvoirs à celui-ci. Cette case décochée, tous les dons de l’allié seront remplacés par les nouveaux pouvoirs choisis.

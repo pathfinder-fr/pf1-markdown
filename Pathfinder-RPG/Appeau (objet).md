@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:MCA}**Prix** 1 pa ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ces sifflets en roseau ou en bambou imitent le cri de divers animaux sauvages. Chaque  appeau est lié à un type d'animal spécifique  ou à un cri donné (signalant, en général, la présence de nourriture ou d'un partenaire pour attirer l'animal). Avec le bon sifflet, le personnage gagne un bonus de +2 aux tests de [Survie](./Survie.md) pour pister les animaux d'un type spécifique ou pour subvenir à ses besoins dans la nature.
+Ces sifflets en roseau ou en bambou imitent le cri de divers animaux sauvages. Chaque  appeau est lié à un type d'animal spécifique  ou à un cri donné (signalant, en général, la présence de nourriture ou d'un partenaire pour attirer l'animal). Avec le bon sifflet, le personnage gagne un bonus de +2 aux tests de [[Survie]] pour pister les animaux d'un type spécifique ou pour subvenir à ses besoins dans la nature.

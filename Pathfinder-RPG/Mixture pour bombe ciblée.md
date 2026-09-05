@@ -10,20 +10,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (spécial, voir plus bas) ; **Résistance à la magie** spécial, voir plus bas
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (spécial, voir plus bas) ; **Résistance à la magie** spécial, voir plus bas
 
-Quand le personnage boit un [extrait](./Alchimiste.md#EXTRAITS) créé avec cette formule, il voit ses réserves magiques se modifier de façon significative et transformer toutes les [bombes](./Alchimiste.md#BOMBES) qu’il fabrique pendant que l’[extrait](./Alchimiste.md#EXTRAITS) fait effet. Cette modification n’a aucune conséquence sur les [découvertes](./Alchimiste.md#DECOUVERTES) que le personnage utilise pour modifier ses [bombes](./Alchimiste.md#BOMBES) mais il ne peut activer qu’un *effet de mixture* (une [formule](./Alchimiste.md#FORMULES) avec les mots « mixture pour bombe » dans l’intitulé) à la fois. S’il boit une autre *mixture pour bombe*, les effets de la mixture absorbée précédemment se dissipent au profit de ceux de la nouvelle.
+Quand le personnage boit un [[alchimiste#EXTRAITS|extrait]] créé avec cette formule, il voit ses réserves magiques se modifier de façon significative et transformer toutes les [[alchimiste#BOMBES|bombes]] qu’il fabrique pendant que l’[[alchimiste#EXTRAITS|extrait]] fait effet. Cette modification n’a aucune conséquence sur les [[alchimiste#DECOUVERTES|découvertes]] que le personnage utilise pour modifier ses [[alchimiste#BOMBES|bombes]] mais il ne peut activer qu’un *effet de mixture* (une [[alchimiste#FORMULES|formule]] avec les mots « mixture pour bombe » dans l’intitulé) à la fois. S’il boit une autre *mixture pour bombe*, les effets de la mixture absorbée précédemment se dissipent au profit de ceux de la nouvelle.
 
-Quand le personnage lance une [bombe](./Alchimiste.md#BOMBES), elle affecte seulement sa cible directe, elle ne fait pas de dégâts d’aspersion. En revanche, elle inflige des dégâts normaux plus le double du modificateur d’[Intelligence](./Intelligence.md) du personnage, pas seulement les dégâts de base plus le modificateur d’[Intelligence](./Intelligence.md).
+Quand le personnage lance une [[alchimiste#BOMBES|bombe]], elle affecte seulement sa cible directe, elle ne fait pas de dégâts d’aspersion. En revanche, elle inflige des dégâts normaux plus le double du modificateur d’[[Intelligence]] du personnage, pas seulement les dégâts de base plus le modificateur d’[[Intelligence]].

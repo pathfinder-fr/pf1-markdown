@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE
 ---
 
->>> [Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE)
+>>> [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE]]

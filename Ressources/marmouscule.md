@@ -12,12 +12,12 @@ Categories:
 {s:BDTitre|Marmouscule|FP 6}
 {s:BDTexte|*Source : Faenil, d'après une idée originale de Steve Jackson dans le livre "les collines maléfiques" *}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Fée](./../Pathfinder-RPG/type Fée.md) de taille TP, CN}
-{s:BDTexte|**Init** +9 ; **Sens** [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +11}
-{s:BDTexte|**Aura** [zone d’antimagie](./../Pathfinder-RPG/Zone dantimagie.md) (3m)}
+{s:BDTexte|[[pathfinder-RPG.type Fée|Fée]] de taille TP, CN}
+{s:BDTexte|**Init** +9 ; **Sens** [[pathfinder-RPG.vision nocturne|vision nocturne]] ; [[pathfinder-RPG.Perception|Perception]] +11}
+{s:BDTexte|**Aura** [[pathfinder-RPG.zone dantimagie|zone d’antimagie]] (3m)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 19, pris au dépourvu 12 (Dex +6, naturelle +1, esquive +1, taille +2)}
-{s:BDTexte|**pv** 45 (10d6+10) ; **[Guérison accélérée](./../Pathfinder-RPG/guérison accélérée.md)** 2 (Fer froid)}
+{s:BDTexte|**pv** 45 (10d6+10) ; **[[pathfinder-RPG.Guérison accélérée|Guérison accélérée]]** 2 (Fer froid)}
 {s:BDTexte|**Réf** +13, **Vig** +4, **Vol** +5}
 {s:BDTexte|**RD** 10/fer froid  ; **RM** 17}
 {s:BDTexte|**Faiblesses** Crainte des armes magiques ; Magie vestigial}
@@ -27,25 +27,25 @@ Categories:
 {s:BDTexte|**Distance** Sarbacane, +13 (1 plus poison)}
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDTexte|**Pouvoirs magiques** (NLS 11e ; concentration +12)}
-{s:BDSorts|Constant — *[zone d’antimagie](./../Pathfinder-RPG/Zone dantimagie.md)*}
-{s:BDSorts|3/jour — *[Assassin imaginaire](./../Pathfinder-RPG/Assassin imaginaire.md)* (DD15)}
-{s:BDSorts|1/jour — *[Changement de plan](./../Pathfinder-RPG/Changement de plan.md)* (personnel plus 2,5 kg uniquement)}
+{s:BDSorts|Constant — *[[pathfinder-RPG.zone dantimagie|zone d’antimagie]]*}
+{s:BDSorts|3/jour — *[[pathfinder-RPG.Assassin imaginaire|Assassin imaginaire]]* (DD15)}
+{s:BDSorts|1/jour — *[[pathfinder-RPG.Changement de plan|Changement de plan]]* (personnel plus 2,5 kg uniquement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 7, **Dex** 22, **Con** 12, **Int** 17, **Sag** 7, **Cha** 13}
 {s:BDTexte|**BBA** +5, **BMO** +1, **DMD** 18}
-{s:BDTexte|**Dons** [Esquive](./../Pathfinder-RPG/Esquive.md), [attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md), [attaque en vol](./../Pathfinder-RPG/Attaque en vol.md), [attaque spéciale renforcée](./../Pathfinder-RPG/Attaque spéciale renforcée.md) (poison), [escrime gracieuse](./../Pathfinder-RPG/Escrime gracieuse.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +19, [Bluff](./../Pathfinder-RPG/Bluff.md) +14, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (mystères) +13, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (folklore local) +7, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (géographie) +7, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (nature) +7, [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) +27, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +27, [Évasion](./../Pathfinder-RPG/Évasion.md) +19, [Escamotage](./../Pathfinder-RPG/Escamotage.md) +19, [Perception](./../Pathfinder-RPG/Perception.md) +11, [survie](./../Pathfinder-RPG/Survie.md) +4, [Vol](./../Pathfinder-RPG/Vol.md) +27 }
+{s:BDTexte|**Dons** [[pathfinder-RPG.Esquive|Esquive]], [[pathfinder-RPG.attaque en finesse|attaque en finesse]], [[pathfinder-RPG.attaque en vol|attaque en vol]], [[pathfinder-RPG.attaque spéciale renforcée|attaque spéciale renforcée]] (poison), [[pathfinder-RPG.Escrime gracieuse|escrime gracieuse]]}
+{s:BDTexte|**Compétences** [[pathfinder-RPG.Acrobaties|Acrobaties]] +19, [[pathfinder-RPG.Bluff|Bluff]] +14, [[pathfinder-RPG.Connaissances|Connaissances]] (mystères) +13, [[pathfinder-RPG.Connaissances|Connaissances]] (folklore local) +7, [[pathfinder-RPG.Connaissances|Connaissances]] (géographie) +7, [[pathfinder-RPG.Connaissances|Connaissances]] (nature) +7, [[pathfinder-RPG.diplomatie|Diplomatie]] +27, [[pathfinder-RPG.Discrétion|Discrétion]] +27, [[pathfinder-RPG.Évasion|Évasion]] +19, [[pathfinder-RPG.Escamotage|Escamotage]] +19, [[pathfinder-RPG.Perception|Perception]] +11, [[pathfinder-RPG.survie|survie]] +4, [[pathfinder-RPG.Vol|Vol]] +27 }
 {s:BDTexte|**Langues** commun, sylvestre, draconien, elfique, gnome. }
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes ou tempérées, Faerie}
 {s:BDTexte|**Organisation sociale** solitaire }
 {s:BDTexte|**Trésor** équipement de PNJ (rapière ou lame incurvée elfique en fer froid, sarbacane avec 20 aiguilles, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Crainte des armes magiques (Ext)** Si une arme magique parvient à infliger des dégâts à un marmouscule alors que celui-ci réprime son aura, il doit réussir un jet de volonté (DD 10 plus le double du bonus d’altération de l’arme) ou devenir [effrayé](./../Pathfinder-RPG/Effrayé.md). Cette frayeur persiste tant que son aura est inactive et 1d4 rounds par la suite.}
+{s:BDTexte|**Crainte des armes magiques (Ext)** Si une arme magique parvient à infliger des dégâts à un marmouscule alors que celui-ci réprime son aura, il doit réussir un jet de volonté (DD 10 plus le double du bonus d’altération de l’arme) ou devenir [[pathfinder-RPG.effrayé|effrayé]]. Cette frayeur persiste tant que son aura est inactive et 1d4 rounds par la suite.}
 {s:BDTexte|**Formation martiale (Ext)** Les marmouscules sont automatiquement formés au maniement des rapières et des lames incurvées elfiques.}
-{s:BDTexte|**Magie vestigiale (Sur)** A l'exception de *[Changement de plan](./../Pathfinder-RPG/Changement de plan.md)*, Lorsqu’il utilise un sort ou pouvoir magique, le marmouscule a 20% de chance d'échec. De plus un sort ou un pouvoir magique dirigé contre une autre créature a 1% de chance de prendre le marmouscule pour cible. }
+{s:BDTexte|**Magie vestigiale (Sur)** A l'exception de *[[pathfinder-RPG.Changement de plan|Changement de plan]]*, Lorsqu’il utilise un sort ou pouvoir magique, le marmouscule a 20% de chance d'échec. De plus un sort ou un pouvoir magique dirigé contre une autre créature a 1% de chance de prendre le marmouscule pour cible. }
 {s:BDTexte|**Poison (Ext)** Poison (Ext) morsure - Blessure ; JS Vigueur DD 18 ; fréquence 1/round pendant 8 rounds ; effet affaiblissement temporaire 1d2 Dex ; guérison 2 JdS réussis consécutivement. Le DD dépend de la Constitution. Si la cible est un jeteur de sort, elle subit également un affaiblissement temporaire de 1d2 dans sa caractéristique principale de jeteur de sort. }
-{s:BDTexte|**Zone d’antimagie (Sur).** La zone d’antimagie du marmouscule s’étend sur 3m de rayon et fonctionne comme [le sort du même nom](./../Pathfinder-RPG/Zone dantimagie.md), mis à part qu’elle peut être confinée uniquement en enfermant le marmouscule dans une boite hermétique en plomb ou en fer froid. Un marmouscule peut couper son aura par une [action de mouvement](./../Pathfinder-RPG/Action de mouvement.md) s’il réussit un jet de volonté DD 12. Par la suite, au début de chacun de ses tours suivants, il devra réussir un jet de volonté DD12 + 1 par nombre de jets précédemment effectués, s’il veut éviter que la zone d’antimagie ne se remette en place. Il peut aussi volontairement la laisser revenir au prix d’une action immédiate. Que cela soit volontaire ou non, lorsque la zone d’antimagie se remet en place, le contrechoc laisse le marmouscule [étourdi](./../Pathfinder-RPG/Étourdi.md) durant un nombre de round égal au double de ceux durant lesquelles elle a été réprimée.}
+{s:BDTexte|**Zone d’antimagie (Sur).** La zone d’antimagie du marmouscule s’étend sur 3m de rayon et fonctionne comme [[pathfinder-RPG.zone dantimagie|le sort du même nom]], mis à part qu’elle peut être confinée uniquement en enfermant le marmouscule dans une boite hermétique en plomb ou en fer froid. Un marmouscule peut couper son aura par une [[pathfinder-RPG.action de mouvement|action de mouvement]] s’il réussit un jet de volonté DD 12. Par la suite, au début de chacun de ses tours suivants, il devra réussir un jet de volonté DD12 + 1 par nombre de jets précédemment effectués, s’il veut éviter que la zone d’antimagie ne se remette en place. Il peut aussi volontairement la laisser revenir au prix d’une action immédiate. Que cela soit volontaire ou non, lorsque la zone d’antimagie se remet en place, le contrechoc laisse le marmouscule [[pathfinder-RPG.étourdi|étourdi]] durant un nombre de round égal au double de ceux durant lesquelles elle a été réprimée.}
 
 </div>
 </td>
@@ -64,5 +64,5 @@ De par leur histoire et leur pouvoir, les marmouscules intriguent bien des mages
 Les marmouscules sont de petites créatures humanoïdes de 40 centimètres de haut et pesant entre 2,5 et 3 kilogramme.
 </div></td></tr></table>
 
-Retour à la [grotte aux monstres](./Wiki ressources monstres.md) —
+Retour à la [[Wiki ressources monstres|grotte aux monstres]] —
 Discuter de cette créature [sur le forum](http://www.pathfinder-fr.org/Forum/yaf_postsm102750_Nouvelle-creature--pour-ceux-qui-ont-joue-aux-livres-dont-nous-etions-les-heros.aspx#post102750)

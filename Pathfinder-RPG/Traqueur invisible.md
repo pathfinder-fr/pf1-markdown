@@ -13,21 +13,21 @@ Categories:
 {s:pucem|Extérieur|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire* p.274}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Air](./sous-type Air.md), [élémentaire](./sous-type élémentaire.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, N}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Air|Air]], [[sous-type élémentaire|élémentaire]], [[sous-type extraplanaire|extraplanaire]]) de taille M, N}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 14, pris au dépourvu 16 (Dex +4, naturelle +6)}
 {s:BDTexte|**pv** 80 (7d10+42)}
 {s:BDTexte|**Réf** +11, **Vig** +11, **Vol** +4}
-{s:BDTexte|**Capacités défensives** invisibilité naturelle ; **Immunités** [traits des élémentaires](./sous-type élémentaire.md) }
+{s:BDTexte|**Capacités défensives** invisibilité naturelle ; **Immunités** [[sous-type élémentaire|traits des élémentaires]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 45 m (30 {s:c}) (parfait)}
 {s:BDTexte|**Corps à corps** 2 coups +12 (2d6+4)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 19, **Con** 22, **Int** 14, **Sag** 15, **Cha** 11}
 {s:BDTexte|**BBA** +7, **BMO** +11, **DMD** 25}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (coup), [Attaques réflexes](./Attaques réflexes.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +14, [Bluff](./Bluff.md) +10, [Connaissances](./Connaissances.md) (plans) +12, [Discrétion](./Discrétion.md) +14, [Perception](./Perception.md) +12, [Psychologie](./Psychologie.md) +12, [Survie](./Survie.md) +12, [Vol](./Vol.md) +22}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (coup), [[Attaques réflexes]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +14, [[Bluff]] +10, [[Connaissances]] (plans) +12, [[Discrétion]] +14, [[Perception]] +12, [[Psychologie]] +12, [[Survie]] +12, [[Vol]] +22}
 {s:BDTexte|**Langues** aérien, commun}
 {s:BDTexte|**Particularités** expert en pistage}
 {s:BDSousTitre|Écologie}
@@ -35,8 +35,8 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Expert en pistage (Ext)** Les traqueurs invisibles peuvent se déplacer à n'importe quelle vitesse lorsqu'ils suivent une piste sans pour autant subir de malus aux tests de [Survie](./Survie.md).}
-{s:BDTexte|**Invisibilité naturelle (Ext)** Cette capacité permanente permet aux traqueurs invisibles de rester invisibles à tout moment, même lorsqu'ils attaquent un adversaire. Comme il s'agit d'une capacité innée, un sort de *[négation de l'invisibilité](./Négation de linvisibilité.md)* ne l'affecte pas. Un traqueur invisible en mouvement bénéficie d'un bonus de +20 aux tests de [Discrétion](./Discrétion.md) contre les ennemis qui ne savent pas déterminer son emplacement exact. Le bonus passe à +40 s'il reste immobile. Ces bonus ne sont pas inclus dans le profil ci-dessus.}
+{s:BDTexte|**Expert en pistage (Ext)** Les traqueurs invisibles peuvent se déplacer à n'importe quelle vitesse lorsqu'ils suivent une piste sans pour autant subir de malus aux tests de [[Survie]].}
+{s:BDTexte|**Invisibilité naturelle (Ext)** Cette capacité permanente permet aux traqueurs invisibles de rester invisibles à tout moment, même lorsqu'ils attaquent un adversaire. Comme il s'agit d'une capacité innée, un sort de *[[négation de linvisibilité|négation de l'invisibilité]]* ne l'affecte pas. Un traqueur invisible en mouvement bénéficie d'un bonus de +20 aux tests de [[Discrétion]] contre les ennemis qui ne savent pas déterminer son emplacement exact. Le bonus passe à +40 s'il reste immobile. Ces bonus ne sont pas inclus dans le profil ci-dessus.}
 </div>
 </td><td><div>''Il émane indéniablement de cette créature sans forme visible une aura de
 puissance et une grande malveillance.''

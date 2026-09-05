@@ -17,171 +17,171 @@ LastModified: 2020-08-20 19:35
 | WIDTH="45%" | Avantages
 
 |- CLASS="premier"
-| [Adepte de la discipline](./Adepte de la discipline.md) <sup>AO</sup> || Pouvoir de classe [discipline psychique](./Psychiste.md#DISCIPLINEPSYCHIQUE) || +1 aux tests de [niveau de lanceur de sorts](./NLS.md), de [concentration](./Lancer des sorts.md#CONCENTRATION) et aux [jets de sauvegarde](./jet de sauvegarde.md) pour les sorts de discipline
+| [[Adepte de la discipline]] <sup>AO</sup> || Pouvoir de classe [[psychiste#DISCIPLINEPSYCHIQUE|discipline psychique]] || +1 aux tests de [[NLS|niveau de lanceur de sorts]], de [[Lancer des sorts#CONCENTRATION|concentration]] et aux [[jet de sauvegarde|jets de sauvegarde]] pour les sorts de discipline
 
 |- CLASS="premier"
-| [Âme commune](./Âme commune.md) <sup>AO</sup> || Pouvoir de classe [partage de conscience](./Spirite.md#PARTAGEDECONSCIENCE) || Le fantôme offre une protection contre les [effets de mort](./Créer un sort.md#MORT), l’[énergie négative](./Énergie négative.md) et la [possession](./Possession spirituelle.md)
+| [[Âme commune]] <sup>AO</sup> || Pouvoir de classe [[spirite#PARTAGEDECONSCIENCE|partage de conscience]] || Le fantôme offre une protection contre les [[Créer un sort#MORT|effets de mort]], l’[[énergie négative]] et la [[possession spirituelle|possession]]
 
 |- CLASS="premier"
-| [Amplification supplémentaire](./Amplification supplémentaire.md) <sup>AO</sup> || Pouvoir de classe [amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE) || Une [amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE) supplémentaire
+| [[Amplification supplémentaire]] <sup>AO</sup> || Pouvoir de classe [[psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]] || Une [[psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]] supplémentaire
 
 |- CLASS="premier"
-| [Appel spirituel](./Appel spirituel.md) <sup>AO</sup> || Pouvoir de classe [fantôme](./Spirite.md#FANTOME) || Le fantôme gagne un bonus lors de son invocation
+| [[Appel spirituel]] <sup>AO</sup> || Pouvoir de classe [[spirite#FANTOME|fantôme]] || Le fantôme gagne un bonus lors de son invocation
 
 |- CLASS="premier"
-| [Briser le masque mental](./Briser le masque mental.md)† <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques ou à utiliser des pouvoirs magiques psychiques, personnage niveau 2 || Les manifestations offensives avec un jet de Volonté révèlent la véritable forme de l’adversaire
+| [[Briser le masque mental]]† <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou à utiliser des pouvoirs magiques psychiques, personnage niveau 2 || Les manifestations offensives avec un jet de Volonté révèlent la véritable forme de l’adversaire
 
 |- CLASS="premier"
-| [Changement de focalisation efficace](./Changement de focalisation efficace.md) <sup>AO</sup> || [Occultiste](./Occultiste.md) niveau 7 || Changement de point de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) sans aucune perte 2/jour
+| [[Changement de focalisation efficace]] <sup>AO</sup> || [[Occultiste]] niveau 7 || Changement de point de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] sans aucune perte 2/jour
 
 |- CLASS="premier"
-| [Changement rapide de focalisation](./Changement rapide de focalisation.md) <sup>AO</sup> || [NLS](./NLS.md) 5, pouvoir de classe [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) || Changement de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) plus rapide 1/jour
+| [[Changement rapide de focalisation]] <sup>AO</sup> || [[NLS]] 5, pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] || Changement de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] plus rapide 1/jour
 
 |- CLASS="premier"
-| [Combattant psychique](./Combattant psychique.md)† <sup>AO</sup> || [Int](./Intelligence.md) 13, [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques ou utiliser des pouvoirs magiques psychiques, personnage niveau 3 || Gain de points de manifestation gratuits lors des [duels psychiques](./Duels psychiques.md)
+| [[Combattant psychique]]† <sup>AO</sup> || [[Intelligence|Int]] 13, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou utiliser des pouvoirs magiques psychiques, personnage niveau 3 || Gain de points de manifestation gratuits lors des [[duels psychiques]]
 
 |- CLASS="premier"
-| [Conduit émotionnel](./Conduit émotionnel.md) <sup>AO</sup> || Pouvoir de classe [partage de conscience](./Spirite.md#PARTAGEDECONSCIENCE) || Gain de nouveaux sorts en fonction de l’[émotion dominante du fantôme](./Fantômes (Spirite).md#EMOTIONDOMINANTE)
+| [[Conduit émotionnel]] <sup>AO</sup> || Pouvoir de classe [[spirite#PARTAGEDECONSCIENCE|partage de conscience]] || Gain de nouveaux sorts en fonction de l’[[Fantômes (spirite)#EMOTIONDOMINANTE|émotion dominante du fantôme]]
 
 |- CLASS="premier"
-| [Crâne allongé](./Crâne allongé.md) <sup>AO</sup> || — || Bonus et malus en fonction de la forme de crâne choisie
+| [[Crâne allongé]] <sup>AO</sup> || — || Bonus et malus en fonction de la forme de crâne choisie
 
 |- CLASS="premier"
-| [Défense fantomatique](./Défense fantomatique.md) <sup>AO</sup> || Pouvoir de classe [fantôme](./Spirite.md#FANTOME), [fantôme](./Fantômes (Spirite).md) doté du pouvoir [vol sous forme intangible](./Fantômes (Spirite).md#VOLINTANGIBLE) || Le fantôme a des chances d’ignorer les coups critiques et les dégâts de précision
+| [[Défense fantomatique]] <sup>AO</sup> || Pouvoir de classe [[Spirite#FANTOME|fantôme]], [[Fantômes (spirite)|fantôme]] doté du pouvoir [[Fantômes (spirite)#VOLINTANGIBLE|vol sous forme intangible]] || Le fantôme a des chances d’ignorer les coups critiques et les dégâts de précision
 
 |- CLASS="premier"
-| [Défenseur psychique](./Défenseur psychique.md) <sup>AO</sup> || [Int](./Intelligence.md) 13, [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques ou utiliser des pouvoirs magiques psychiques, personnage niveau 3 || Gain de points de vie temporaires au début d’un [duel psychique](./Duels psychiques.md)
+| [[Défenseur psychique]] <sup>AO</sup> || [[Intelligence|Int]] 13, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou utiliser des pouvoirs magiques psychiques, personnage niveau 3 || Gain de points de vie temporaires au début d’un [[duels psychiques|duel psychique]]
 
 |- CLASS="premier"
-| [Douleur composée](./Douleur composée.md)† <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) de niveau 13, pouvoir de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Applique les effets de deux dons de regard au [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX)
+| [[Douleur composée]]† <sup>AO</sup> || [[Hypnotiseur]] de niveau 13, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Applique les effets de deux dons de regard au [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]
 
 |- CLASS="premier"
-| [Empathe](./Empathe.md) <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques, 1 rang en [Perception](./Perception.md) ou en [Psychologie](./Psychologie.md) || Lecture rapide et fréquente des émotions mais rend l’esprit vulnérable
+| [[Empathe]] <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques, 1 rang en [[Perception]] ou en [[Psychologie]] || Lecture rapide et fréquente des émotions mais rend l’esprit vulnérable
 
 |- CLASS="premier"
-| [Équilibre spirituel](./Équilibre spirituel.md) <sup>AO</sup> || Pouvoirs de classe [réserve de ki](./Moine.md#RESERVEDEKI) et [sérénité](./Moine.md#SERENITE) || [Sérénité](./Moine.md#SERENITE) s’applique contre la [possession](./Possession spirituelle.md), dépense de ki pour doubler le bonus
+| [[Équilibre spirituel]] <sup>AO</sup> || Pouvoirs de classe [[moine#RESERVEDEKI|réserve de ki]] et [[moine#SERENITE|sérénité]] || [[moine#SERENITE|Sérénité]] s’applique contre la [[possession spirituelle|possession]], dépense de ki pour doubler le bonus
 
 |- CLASS="premier"
-| [Esprit concentré](./Esprit concentré.md) <sup>AO</sup> || Pouvoir de classe [bonus spirituel](./Médium.md#BONUSSPIRITUEL) || Augmente le [bonus spirituel](./Médium.md#BONUSSPIRITUEL) d’une légende de 1
+| [[Esprit concentré]] <sup>AO</sup> || Pouvoir de classe [[médium#BONUSSPIRITUEL|bonus spirituel]] || Augmente le [[médium#BONUSSPIRITUEL|bonus spirituel]] d’une légende de 1
 
 |- CLASS="premier"
-| [Explosion d'adieu](./Explosion dadieu.md) <sup>AO</sup> || Pouvoir de classe [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) || Le corps explose à la mort
+| [[Explosion dadieu|Explosion d'adieu]] <sup>AO</sup> || Pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] || Le corps explose à la mort
 
 |- CLASS="premier"
-| [Explosion retardée](./Explosion retardée.md) <sup>AO</sup> || BBA +3, pouvoir de classe [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) || Retarde l’[explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE)
+| [[Explosion retardée]] <sup>AO</sup> || BBA +3, pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] || Retarde l’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]
 
 |- CLASS="premier"
-| [Fantôme concentré](./Fantôme concentré.md) <sup>AO</sup> || Pouvoir de classe [interférence spirituelle](./Spirite.md#INTERFERENCESPIRITUELLE) || +4 aux tests de [concentration](./Lancer des sorts.md#CONCENTRATION) quand le fantôme est adjacent au personnage ou dans sa conscience
+| [[Fantôme concentré]] <sup>AO</sup> || Pouvoir de classe [[spirite#INTERFERENCESPIRITUELLE|interférence spirituelle]] || +4 aux tests de [[Lancer des sorts#CONCENTRATION|concentration]] quand le fantôme est adjacent au personnage ou dans sa conscience
 
 |- CLASS="premier"
-| [Fantôme vigilant](./Fantôme vigilant.md) <sup>AO</sup> || Pouvoir de classe de [fantôme](./Spirite.md#FANTOME) || +4 aux tests de [Perception](./Perception.md) quand le fantôme est actif à portée
+| [[Fantôme vigilant]] <sup>AO</sup> || Pouvoir de classe de [[spirite#FANTOME|fantôme]] || +4 aux tests de [[Perception]] quand le fantôme est actif à portée
 
 |- CLASS="premier"
-| [Feinte hypnotique](./Feinte hypnotique.md)† <sup>AO</sup> || Pouvoir de classe [regard hypnotique](./Hypnotiseur.md#REGARDHYPNOTQUE) || Réduction du malus des feintes contre d’autres types de créatures
+| [[Feinte hypnotique]]† <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#REGARDHYPNOTQUE|regard hypnotique]] || Réduction du malus des feintes contre d’autres types de créatures
 |-
-| &emsp;[Feinte hypnotique supérieure](./Feinte hypnotique supérieure.md)† <sup>AO</sup> || Feinte hypnotique, 10 rangs en Bluff, frémissement psychique [regard impudent](./Hypnotiseur.md#REGARDIMPUDENT) || [Feinte](./feinte.md) possible contre les créatures dépourvues d’[intelligence](./Intelligence.md)
+| &emsp;[[Feinte hypnotique supérieure]]† <sup>AO</sup> || Feinte hypnotique, 10 rangs en Bluff, frémissement psychique [[hypnotiseur#REGARDIMPUDENT|regard impudent]] || [[Feinte]] possible contre les créatures dépourvues d’[[intelligence]]
 
 |- CLASS="premier"
-| [Focalisation instrumentale](./Focalisation instrumentale.md) <sup>AO</sup> || [Occultiste](./Occultiste.md) niveau 3 || Utilisation efficace de focalisation générique avec un instrument
+| [[Focalisation instrumentale]] <sup>AO</sup> || [[Occultiste]] niveau 3 || Utilisation efficace de focalisation générique avec un instrument
 
 |- CLASS="premier"
-| [Focalisation mentale supplémentaire](./Focalisation mentale supplémentaire.md) <sup>AO</sup> || Pouvoir de classe [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) || 2 points de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) de plus
+| [[Focalisation mentale supplémentaire]] <sup>AO</sup> || Pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] || 2 points de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] de plus
 
 |- CLASS="premier"
-| [Fort lien avec un instrument](./Fort lien avec un instrument.md) <sup>AO</sup> || Pouvoir de classe [instrument](./Occultiste.md#INSTRUMENTS) || Facilité à lancer des sorts loin d’un instrument
+| [[Fort lien avec un instrument]] <sup>AO</sup> || Pouvoir de classe [[occultiste#INSTRUMENTS|instrument]] || Facilité à lancer des sorts loin d’un instrument
 
 |- CLASS="premier"
-| [Guérison psychique](./Guérison psychique.md) <sup>AO</sup> || [Cha](./Charisme.md) 11, [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques, 3 rangs en Premiers Secours || Utilisation de [guérison miraculeuse](./Premiers secours.md) pour soigner des blessures mortelles et donner des points de vie temporaires
+| [[Guérison psychique]] <sup>AO</sup> || [[Charisme|Cha]] 11, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques, 3 rangs en Premiers Secours || Utilisation de [[Premiers secours|guérison miraculeuse]] pour soigner des blessures mortelles et donner des points de vie temporaires
 
 |- CLASS="premier"
-| [Guerrier fantôme](./Guerrier fantôme.md) <sup>AO</sup> || Pouvoir de classe [fantôme](./Spirite.md#FANTOME), [fantôme](./Fantômes (Spirite).md) doté du pouvoir [attaques magiques](./Fantômes (Spirite).md#ATTAQUESMAGIQUES) || Les armes naturelles du fantôme et les sorts qu’il livre infligent la totalité de leurs effets aux créatures intangibles
+| [[Guerrier fantôme]] <sup>AO</sup> || Pouvoir de classe [[Spirite#FANTOME|fantôme]], [[Fantômes (spirite)|fantôme]] doté du pouvoir [[Fantômes (spirite)#ATTAQUESMAGIQUES|attaques magiques]] || Les armes naturelles du fantôme et les sorts qu’il livre infligent la totalité de leurs effets aux créatures intangibles
 
 |- CLASS="premier"
-| [Induction d'hypnotiseur supplémentaire](./Induction dhypnotiseur supplémentaire.md) <sup>AO</sup> || Pouvoir de classe [induction d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR) || Implantation de 2 [inductions d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR) de plus par jour
+| [[Induction dhypnotiseur supplémentaire|Induction d'hypnotiseur supplémentaire]] <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]] || Implantation de 2 [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|inductions d’hypnotiseur]] de plus par jour
 
 |- CLASS="premier"
-| [Initié du chakra](./Initié du chakra.md) <sup>AO</sup> || Capacité à éveiller le [chakra racine](./Chakras.md#RACINE) || Gain de 3 points de ki de feu-serpent pour les chakras
+| [[Initié du chakra]] <sup>AO</sup> || Capacité à éveiller le [[Chakras#RACINE|chakra racine]] || Gain de 3 points de ki de feu-serpent pour les chakras
 |-
-| &emsp;[Adepte du chakra](./Adepte du chakra.md) <sup>AO</sup> || [Initié du chakra](./Initié du chakra.md), capacité à éveiller le [chakra du coeur](./Chakras.md#DUCOEUR) || Gain de 3 points de ki de feu-serpent pour les chakras, possibilité de faire un jet de sauvegarde pour maintenir les chakras, bénéfices persistants
+| &emsp;[[Adepte du chakra]] <sup>AO</sup> || [[Initié du chakra]], capacité à éveiller le [[chakras#DUCOEUR|chakra du coeur]] || Gain de 3 points de ki de feu-serpent pour les chakras, possibilité de faire un jet de sauvegarde pour maintenir les chakras, bénéfices persistants
 |-
-| &emsp;&emsp;[Maître du chakra](./Maître du chakra.md) <sup>AO</sup> || [Adepte du chakra](./Adepte du chakra.md), capacité à éveiller le [chakra couronne](./Chakras.md#COURONNE) || Gain de 5 points de ki de feu-serpent pour les chakras, possibilité de dépenser du chakra pour obtenir deux avantages de chakra
+| &emsp;&emsp;[[Maître du chakra]] <sup>AO</sup> || [[Adepte du chakra]], capacité à éveiller le [[chakras#COURONNE|chakra couronne]] || Gain de 5 points de ki de feu-serpent pour les chakras, possibilité de dépenser du chakra pour obtenir deux avantages de chakra
 
 |- CLASS="premier"
-| [Maestro psychique](./Maestro psychique.md) <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques || Utilisation plus fréquente des extensions de compétence occultes
+| [[Maestro psychique]] <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques || Utilisation plus fréquente des extensions de compétence occultes
 
 |- CLASS="premier"
-| [Modification de paysage mental binaire](./Modification de paysage mental binaire.md) <sup>AO</sup> || [Int](./Intelligence.md) 13, capacité à lancer un duel psychique || L’adversaire doit dépenser 1 point de manifestation de plus pour se défendre
+| [[Modification de paysage mental binaire]] <sup>AO</sup> || [[Intelligence|Int]] 13, capacité à lancer un duel psychique || L’adversaire doit dépenser 1 point de manifestation de plus pour se défendre
 
 |- CLASS="premier"
-| [Palpation curative supplémentaire](./Palpation curative supplémentaire.md) <sup>AO</sup> || Pouvoir de classe [palpation curative](./Hypnotiseur.md#PALPATIONCURATIVE) || Utilisation de [palpation curative](./Hypnotiseur.md#PALPATIONCURATIVE) 2 fois de plus par jour
+| [[Palpation curative supplémentaire]] <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#PALPATIONCURATIVE|palpation curative]] || Utilisation de [[hypnotiseur#PALPATIONCURATIVE|palpation curative]] 2 fois de plus par jour
 
 |- CLASS="premier"
-| [Parade cinétique](./Parade cinétique.md) <sup>AO</sup> || [Explosion simple de froid](./talents sauvages.md#EXPLOSIONDEFROID), [de feu](./talents sauvages.md#EXPLOSIONDEFEU) ou [d’eau](./talents sauvages.md#EXPLOSIONDEAU), pouvoir de classe [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) || Utilisation d’[explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) pour contrer un élément opposé
+| [[Parade cinétique]] <sup>AO</sup> || [[talents sauvages#EXPLOSIONDEFROID|Explosion simple de froid]], [[talents sauvages#EXPLOSIONDEFEU|de feu]] ou [[talents sauvages#EXPLOSIONDEAU|d’eau]], pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] || Utilisation d’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] pour contrer un élément opposé
 
 |- CLASS="premier"
-| [Perception des esprits](./Perception des esprits.md) <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques || +5 aux tests pour remarquer les apparitions, 75 % de chances d’affecter une créature intangible
+| [[Perception des esprits]] <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques || +5 aux tests pour remarquer les apparitions, 75 % de chances d’affecter une créature intangible
 
 |- CLASS="premier"
-| [Pouvoir de focalisation supplémentaire](./Pouvoir de focalisation supplémentaire.md) <sup>AO</sup> || Pouvoir de classe [pouvoir de focalisation](./Occultiste.md#POUVOIRSDEFOCALISATION) || Un [pouvoir de focalisation](./Occultiste.md#POUVOIRSDEFOCALISATION) supplémentaire
+| [[Pouvoir de focalisation supplémentaire]] <sup>AO</sup> || Pouvoir de classe [[occultiste#POUVOIRSDEFOCALISATION|pouvoir de focalisation]] || Un [[occultiste#POUVOIRSDEFOCALISATION|pouvoir de focalisation]] supplémentaire
 
 |- CLASS="premier"
-| [Pouvoir de résonance accru](./Pouvoir de résonance accru.md) <sup>AO</sup> || [NLS](./NLS.md) 7, pouvoir de classe [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) || Partage des pouvoirs de résonance avec un allié
+| [[Pouvoir de résonance accru]] <sup>AO</sup> || [[NLS]] 7, pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] || Partage des pouvoirs de résonance avec un allié
 
 |- CLASS="premier"
-| [Présence cachée](./Présence cachée.md) <sup>AO</sup> || [Int](./Intelligence.md) ou [Cha](./Charisme.md) 17, capacité à lancer *[possession spirituelle](./Possession spirituelle (sort).md)* ou *[possession spirituelle suprême](./Possession spirituelle suprême.md)* || Les sorts d’[abjuration](./Abjuration.md) et de [divination](./Divination.md) traitent le personnage comme la créature possédée
+| [[Présence cachée]] <sup>AO</sup> || [[Intelligence|Int]] ou [[Charisme|Cha]] 17, capacité à lancer *[[possession spirituelle (sort)|possession spirituelle]]* ou *[[possession spirituelle suprême]]* || Les sorts d’[[abjuration]] et de [[divination]] traitent le personnage comme la créature possédée
 |-
-| &emsp;[Présence manipulatrice](./Présence manipulatrice.md) <sup>AO</sup> || [Int](./Intelligence.md) ou [Cha](./Charisme.md) 19, Présence cachée || Modifie les souvenirs de la créature possédée
+| &emsp;[[Présence manipulatrice]] <sup>AO</sup> || [[Intelligence|Int]] ou [[Charisme|Cha]] 19, Présence cachée || Modifie les souvenirs de la créature possédée
 |-
-| &emsp;&emsp;[Présence intrusive](./Présence intrusive.md) <sup>AO</sup> || [Int](./Intelligence.md) ou [Cha](./Charisme.md) 21, Présence cachée, Présence manipulatrice || Lit dans l’esprit de la créature possédée
+| &emsp;&emsp;[[Présence intrusive]] <sup>AO</sup> || [[Intelligence|Int]] ou [[Charisme|Cha]] 21, Présence cachée, Présence manipulatrice || Lit dans l’esprit de la créature possédée
 
 |- CLASS="premier"
-| [Prêt à se battre](./Prêt à se battre.md) <sup>AO</sup> || Pouvoir de classe [induction d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR) || +2 aux jets d’[initiative](./Déroulement dun combat.md#INITIATIVE) pour les alliés dotés d’inductions implantées
+| [[Prêt à se battre]] <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]] || +2 aux jets d’[[déroulement dun combat#INITIATIVE|initiative]] pour les alliés dotés d’inductions implantées
 
 |- CLASS="premier"
-| [Prêt à souffrir](./Prêt à souffrir.md) <sup>AO</sup> || Pouvoir de classe [induction d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR) || [RD](./RD.md)/— contre les dégâts non létaux pour les alliés dotés d’inductions implantées
+| [[Prêt à souffrir]] <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]] || [[RD]]/— contre les dégâts non létaux pour les alliés dotés d’inductions implantées
 
 |- CLASS="premier"
-| [Regard étendu](./Regard étendu.md) <sup>AO</sup> || Pouvoir de classe [regard hypnotique](./Hypnotiseur.md#REGARDHYPNOTIQUE) || Augmente la portée du [regard hypnotique](./Hypnotiseur.md#REGARDHYPNOTIQUE) de 3 m
+| [[Regard étendu]] <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] || Augmente la portée du [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] de 3 m
 
 |- CLASS="premier"
-| [Regard hypnotique intimidant](./Regard hypnotique intimidant.md)† <sup>AO</sup> || Pouvoir de classe [regard hypnotique](./Hypnotiseur.md#REGARDHYPNOTIQUE) || Démoralisation des cibles du [regard hypnotique](./Hypnotiseur.md#REGARDHYPNOTIQUE) par une [action rapide](./Types dactions.md#RAPIDE)
+| [[Regard hypnotique intimidant]]† <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] || Démoralisation des cibles du [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] par une [[types dactions#RAPIDE|action rapide]]
 
 |- CLASS="premier"
-| [Réserve phrénique accrue](./Réserve phrénique accrue.md) <sup>AO</sup> || Pouvoir de classe [réserve phrénique](./Psychiste.md#RESERVEPHRENIQUE) || 2 points de [réserve phrénique](./Psychiste.md#RESERVEPHRENIQUE) de plus
+| [[Réserve phrénique accrue]] <sup>AO</sup> || Pouvoir de classe [[psychiste#RESERVEPHRENIQUE|réserve phrénique]] || 2 points de [[psychiste#RESERVEPHRENIQUE|réserve phrénique]] de plus
 
 |- CLASS="premier"
-| [Rêveur lucide](./Rêveur lucide.md) <sup>AO</sup> || [Cha](./Charisme.md) 13, 3 rangs en [Connaissances](./Connaissances.md) (plans) || Amélioration du contrôle lors d’un rêve
+| [[Rêveur lucide]] <sup>AO</sup> || [[Charisme|Cha]] 13, 3 rangs en [[Connaissances]] (plans) || Amélioration du contrôle lors d’un rêve
 
 |- CLASS="premier"
-| [Saut cinétique](./Saut cinétique.md) <sup>AO</sup> || 3 rangs en [Acrobaties](./Acrobaties.md), pouvoir de classe [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) || Utilisation de l’[explosion](./Cinétiste.md#EXPLOSIONCINÉTIQUE) pour gagner +10 aux tests d’[Acrobaties](./Acrobaties.md) pour sauter (+20 à 10 rangs)
+| [[Saut cinétique]] <sup>AO</sup> || 3 rangs en [[Acrobaties]], pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] || Utilisation de l’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion]] pour gagner +10 aux tests d’[[Acrobaties]] pour sauter (+20 à 10 rangs)
 
 |- CLASS="premier"
-| [Sensibilité psychique](./Sensibilité psychique.md) <sup>AO</sup> || — || Utilisation de l’extension de compétence occulte où le personnage a investi des rangs
+| [[Sensibilité psychique]] <sup>AO</sup> || — || Utilisation de l’extension de compétence occulte où le personnage a investi des rangs
 |-
-| &emsp;[Adepte psychique](./Adepte psychique.md) <sup>AO</sup> || [Int](./Intelligence.md) 11, [Sensibilité psychique](./Sensibilité psychique.md) || Lance une astuce psychique 3/jour comme un pouvoir magique
+| &emsp;[[Adepte psychique]] <sup>AO</sup> || [[Intelligence|Int]] 11, [[Sensibilité psychique]] || Lance une astuce psychique 3/jour comme un pouvoir magique
 |-
-| &emsp;&emsp;[Disciple psychique](./Disciple psychique.md) <sup>AO</sup> || [Int](./Intelligence.md) 13, [Adepte psychique](./Adepte psychique.md), [Sensibilité psychique](./Sensibilité psychique.md) || Lance un sort psychique de niveau 1, 2/jour comme un pouvoir magique
+| &emsp;&emsp;[[Disciple psychique]] <sup>AO</sup> || [[Intelligence|Int]] 13, [[Adepte psychique]], [[Sensibilité psychique]] || Lance un sort psychique de niveau 1, 2/jour comme un pouvoir magique
 
 |- CLASS="premier"
-| [Talent sauvage supplémentaire](./Talent sauvage supplémentaire.md) <sup>AO</sup> || [Cinétiste](./Cinétiste.md) niveau 6 || Obtention d’un [talent sauvage](./talents sauvages.md) d’au moins 2 niveaux de moins que le plus puissant connu
+| [[Talent sauvage supplémentaire]] <sup>AO</sup> || [[Cinétiste]] niveau 6 || Obtention d’un [[talents sauvages|talent sauvage]] d’au moins 2 niveaux de moins que le plus puissant connu
 
 |- CLASS="premier"
-| [Transfert longue distance](./Transfert longue distance.md) <sup>AO</sup> || Pouvoirs de classe [livrer un sort de contact](./Fantômes (Spirite).md#TOUCHSPELLS) et [fantôme](./Spirite.md#FANTOME) || Le fantôme peut livrer les sorts de contact dans un rayon de 6 m de plus
+| [[Transfert longue distance]] <sup>AO</sup> || Pouvoirs de classe [[Fantômes (spirite)#TOUCHSPELLS|livrer un sort de contact]] et [[spirite#FANTOME|fantôme]] || Le fantôme peut livrer les sorts de contact dans un rayon de 6 m de plus
 
 |- CLASS="premier"
-| [Troisième oeil](./Troisième oeil.md) <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques || Le troisième oeil permet de lire les auras et de discerner la vérité
+| [[Troisième oeil]] <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques || Le troisième oeil permet de lire les auras et de discerner la vérité
 
 |- CLASS="premier"
-| [Virtuose psychique](./Virtuose psychique.md) <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques || +2 aux tests d’extension de compétence occulte (+4 dès 10 rangs)
+| [[Virtuose psychique]] <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques || +2 aux tests d’extension de compétence occulte (+4 dès 10 rangs)
 
 |- CLASS="premier"
-| [Xénoglossie](./Xénoglossie.md) <sup>AO</sup> || [Int](./Intelligence.md) 13, 3 rangs en [Linguistique](./Linguistique.md) || Utilisation de la linguistique pour communiquer avec des créatures sans partager de langage commun
+| [[Xénoglossie]] <sup>AO</sup> || [[Intelligence|Int]] 13, 3 rangs en [[Linguistique]] || Utilisation de la linguistique pour communiquer avec des créatures sans partager de langage commun
 |}
 </center>
 ### Dons de métamagie
 Les dons de métamagie permettent aux mages de modifier et changer leurs sorts pour leur attribuer des effets et pouvoirs nouveaux. En général, le sort occupe alors un emplacement d’un niveau supérieur à celui de sa version ordinaire.
 
-Voir les [règles relatives aux dons de métamagie](./Dons.md#DONMETAMAGIE)
+Voir les [[Dons#DONMETAMAGIE|règles relatives aux dons de métamagie]]
 
 <center>
 {| CLASS="tablo autoalt toutgauche filtrable"
@@ -192,26 +192,26 @@ Voir les [règles relatives aux dons de métamagie](./Dons.md#DONMETAMAGIE)
 | WIDTH="45%" | Avantages
 
 |- CLASS="premier"
-| [Sort furieux](./Sort furieux.md) <sup>AO</sup> || — || Les sorts font plus de dégâts et se lancent même en rage
+| [[Sort furieux]] <sup>AO</sup> || — || Les sorts font plus de dégâts et se lancent même en rage
 
 |- CLASS="premier"
-| [Sort intuitif](./Sort intuitif.md) <sup>AO</sup> || — || Incantation sans [composante intellectuelle](./La magie psychique.md)
+| [[Sort intuitif]] <sup>AO</sup> || — || Incantation sans [[la magie psychique|composante intellectuelle]]
 
 |- CLASS="premier"
-| [Sort logique](./Sort logique.md) <sup>AO</sup> || — || Incantation sans [composante émotionnelle](./La magie psychique.md)
+| [[Sort logique]] <sup>AO</sup> || — || Incantation sans [[la magie psychique|composante émotionnelle]]
 
 |- CLASS="premier"
-| [Sort marquant](./Sort marquant.md) <sup>AO</sup> || — || Les sorts de terreur ou d’émotion donnent des malus contre les prochains sorts de même type
+| [[Sort marquant]] <sup>AO</sup> || — || Les sorts de terreur ou d’émotion donnent des malus contre les prochains sorts de même type
 
 |- CLASS="premier"
-| [Sort terrifiant](./Sort terrifiant.md) <sup>AO</sup> || — || Les dégâts des sorts rendent [secoué](./Secoué.md)
+| [[Sort terrifiant]] <sup>AO</sup> || — || Les dégâts des sorts rendent [[secoué]]
 
 |- CLASS="premier"
-| [Sort traumatisant](./Sort traumatisant.md) <sup>AO</sup> || — || Les sorts d’émotion ou de terreur provoquent des cauchemars
+| [[Sort traumatisant]] <sup>AO</sup> || — || Les sorts d’émotion ou de terreur provoquent des cauchemars
 |}
 </center> {s:Reference|DONSDEREGARD}
 ### Dons de regard
-Les dons de regard permettent à l’[hypnotiseur](./Hypnotiseur.md) d’ajouter des effets supplémentaires à son pouvoir de [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX). Les personnages dépourvus du don [Douleur composée](./Douleur composée.md) appliquent seulement un effet de regard par attaque, l’[hypnotiseur](./Hypnotiseur.md) disposant de plusieurs dons de regard doit alors choisir celui qu’il applique avant de lancer le dé.
+Les dons de regard permettent à l’[[hypnotiseur]] d’ajouter des effets supplémentaires à son pouvoir de [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]. Les personnages dépourvus du don [[Douleur composée]] appliquent seulement un effet de regard par attaque, l’[[hypnotiseur]] disposant de plusieurs dons de regard doit alors choisir celui qu’il applique avant de lancer le dé.
 
 <center>
 {| CLASS="tablo autoalt toutgauche filtrable"
@@ -222,25 +222,25 @@ Les dons de regard permettent à l’[hypnotiseur](./Hypnotiseur.md) d’ajouter
 | WIDTH="45%" | Avantages
 
 |- CLASS="premier"
-| [Douleur intense](./Douleur intense.md)† <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) niveau 7, pouvoir de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Le [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) inflige plus de dégâts
+| [[Douleur intense]]† <sup>AO</sup> || [[Hypnotiseur]] niveau 7, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] inflige plus de dégâts
 
 |- CLASS="premier"
-| [Regard démoralisant](./Regard démoralisant.md)† <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) niveau 9, pouvoir de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Le [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) rend [secoué](./Secoué.md)
+| [[Regard démoralisant]]† <sup>AO</sup> || [[Hypnotiseur]] niveau 9, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] rend [[secoué]]
 
 |- CLASS="premier"
-| [Regard écorcheur](./Regard écorcheur.md)† <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) niveau 11, pouvoir de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Le [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) rend [fiévreux](./Fiévreux.md)
+| [[Regard écorcheur]]† <sup>AO</sup> || [[Hypnotiseur]] niveau 11, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] rend [[fiévreux]]
 
 |- CLASS="premier"
-| [Regard fatiguant](./Regard fatiguant.md)† <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) niveau 7, pouvoir de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Le [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) rend [fatigué](./Fatigué.md)
+| [[Regard fatiguant]]† <sup>AO</sup> || [[Hypnotiseur]] niveau 7, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] rend [[fatigué]]
 
 |- CLASS="premier"
-| [Regard hémorragique](./Regard hémorragique.md)† <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) niveau 5, pouvoir de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Le [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) provoque des dégâts de [saignement](./États préjudiciables.md#Saignement)
+| [[Regard hémorragique]]† <sup>AO</sup> || [[Hypnotiseur]] niveau 5, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] provoque des dégâts de [[états préjudiciables#Saignement|saignement]]
 |}
 </center>
 ### Dons de travail déquipe
 Les dons de travail en équipe accordent des bonus importants mais fonctionnent seulement dans des conditions bien particulières. Dans la plupart des cas, il faut qu’un allié disposant du même don se trouve à un endroit spécifique du champ de bataille. Les dons de travail en équipe apportent des avantages uniquement quand les personnages remplissent les conditions exigées. Les alliés inconscients, paralysés, étourdis ou incapables d’agir ne sont pas pris en compte. Les chevaliers, les chasseurs et les inquisiteurs possèdent des pouvoirs spéciaux qui leur permettent d’utiliser ces dons même si leurs alliés ne les connaissent pas.
 
-Voir les [règles relatives aux dons d'équipe](./Dons.md#DONEQUIPE)
+Voir les [[Dons#DONEQUIPE|règles relatives aux dons d'équipe]]
 
 <center>
 {| CLASS="tablo autoalt toutgauche filtrable"
@@ -251,6 +251,6 @@ Voir les [règles relatives aux dons d'équipe](./Dons.md#DONEQUIPE)
 | WIDTH="45%" | Avantages
 
 |- CLASS="premier"
-| [Entremêler les explosions composites](./Entremêler les explosions composites.md)† <sup>AO</sup> || Pouvoir de classe [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) || Travail en équipe pour déchaîner une [explosion composite](./talents sauvages.md#EXPLOSIONSCOMPOSITES)
+| [[Entremêler les explosions composites]]† <sup>AO</sup> || Pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] || Travail en équipe pour déchaîner une [[talents sauvages#EXPLOSIONSCOMPOSITES|explosion composite]]
 |}
 </center>

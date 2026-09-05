@@ -13,13 +13,13 @@ Categories:
 {s:pucem|Humanoïde|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.54*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, NM}
-{s:BDTexte|**Init** -1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, NM}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 8, pris au dépourvu 19 (armure +4, Dex -1, naturelle +7, taille -1)}
 {s:BDTexte|**pv** 65 (10d8+20)}
 {s:BDTexte|**Réf** +2, **Vig** +9, **Vol** +4}
-{s:BDTexte|**Capacités défensives** [férocité](./Férocité.md) }
+{s:BDTexte|**Capacités défensives** [[férocité]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** grande hache +11/+6 (3d6+7/x3)}
@@ -28,16 +28,16 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 8, **Con** 15, **Int** 10, **Sag** 13, **Cha** 8}
 {s:BDTexte|**BBA** +7, **BMO** +13, **DMD** 22}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Science de la bousculade](./Science de la bousculade.md), [Succession d'enchaînements](./Succession denchaînements.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Intimidation](./Intimidation.md) +9, [Perception](./Perception.md) +11, [Profession](./Profession.md) (devin) +10 [Psychologie](./Psychologie.md) +5, [Survie](./Survie.md) +6 ; **Modificateurs raciaux** [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Science de la bousculade]], [[Succession denchaînements|Succession d'enchaînements]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Intimidation]] +9, [[Perception]] +11, [[Profession]] (devin) +10 [[Psychologie]] +5, [[Survie]] +6 ; **Modificateurs raciaux** [[Perception]] +8}
 {s:BDTexte|**Langues** commun, cyclope, géant}
 {s:BDTexte|**Particularités** vision instantanée}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** climats tempérés ou tropicaux}
 {s:BDTexte|**Organisation sociale** solitaire, conclave (2-6) ou tribu (7-18)}
-{s:BDTexte|**Trésor** standard (arbalète lourde de [taille G](./taille G.md), armure de peau, grande hache de [taille G](./taille G.md), autres trésors)}
+{s:BDTexte|**Trésor** standard (arbalète lourde de [[taille G]], armure de peau, grande hache de [[taille G]], autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Vision instantanée (Sur)** Une fois par jours, par une [action immédiate](./Action immédiate.md), un cyclope peut jeter un rapide coup d'œil dans les spectre normalement invisible des différents futurs possibles. Cette vision lui permet de choisir le résultat exact d'un lancer de dé avant que celui-ci ne soit effectué. Cette capacité ne peut affecter que les actions entreprises par le cyclope lui-même et ne peut pas être utilisée sur les jets de autres créatures.}
+{s:BDTexte|**Vision instantanée (Sur)** Une fois par jours, par une [[action immédiate]], un cyclope peut jeter un rapide coup d'œil dans les spectre normalement invisible des différents futurs possibles. Cette vision lui permet de choisir le résultat exact d'un lancer de dé avant que celui-ci ne soit effectué. Cette capacité ne peut affecter que les actions entreprises par le cyclope lui-même et ne peut pas être utilisée sur les jets de autres créatures.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -45,11 +45,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Cyclope](./Cyclope.md) || 5
+| [[Cyclope]] || 5
 |-
-| [Cyclope kabandha](./Cyclope kabandha.md) || 9
+| [[Cyclope kabandha]] || 9
 |-
-| [Grand cyclope](./Grand cyclope.md) || 12
+| [[Grand cyclope]] || 12
 |}
 </div>*Sous l’unique œil qui orne le front de ce géant de près de trois mètres, on peut voir une large bouche aussi vaste qu’une caverne.*
 

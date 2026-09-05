@@ -14,33 +14,33 @@ Categories:
 {s:pucem|Créature magique|Plaines|Froid}
 {s:BDTexte|*Source : Bestiaire 2* p.284}
 {s:BDTexte|**PX** 19 200}
-{s:BDTexte|[Créature magique](./type Créature magique.md) ([Froid](./sous-type froid.md)) de taille TG, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Créature magique|Créature magique]] ([[sous-type Froid|Froid]]) de taille TG, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 27, contact 11, pris au dépourvu 24 (Dex +3, naturelle +16, taille -2)}
 {s:BDTexte|**pv** 168 (16d10+80)}
 {s:BDTexte|**Réf** +13, **Vig** +15, **Vol** +10}
 {s:BDTexte|**Immunités** froid}
-{s:BDTexte|**Faiblesses** [vulnérable](./Vulnérabilités (capacité).md) au feu}
+{s:BDTexte|**Faiblesses** [[vulnérabilités (capacité)|vulnérable]] au feu}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), creusement 3 m (2 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +25 (4d10+15 plus 4d6 froid)}
 {s:BDTexte|**Espace** 4,5 m (3 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** dernier sursaut, souffle (cône de 18 m (12 {s:c}), 15d6 froid, [Réflexes](./Réflexes.md) [DD](./DD.md) 23, 1/2 dégâts, 1/heure), trille}
+{s:BDTexte|**Attaques spéciales** dernier sursaut, souffle (cône de 18 m (12 {s:c}), 15d6 froid, [[Réflexes]] [[DD]] 23, 1/2 dégâts, 1/heure), trille}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 31, **Dex** 16, **Con** 21, **Int** 2, **Sag** 16, **Cha** 11}
-{s:BDTexte|**BBA** +16 ; **BMO** +28 ; **DMD** 41 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Enchaînement](./Enchaînement.md), [Immobiliser](./Immobiliser.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md)), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +6 (+14 sur la glace ou la neige), [Perception](./Perception.md) +17 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md) sur la glace ou la neige}
+{s:BDTexte|**BBA** +16 ; **BMO** +28 ; **DMD** 41 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Attaques réflexes]], [[Enchaînement]], [[Immobiliser]], [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Perception]]), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +6 (+14 sur la glace ou la neige), [[Perception]] +17 ; **Modificateurs raciaux** +8 en [[Discrétion]] sur la glace ou la neige}
 {s:BDTexte|**Particularités** froid}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines/montagnes froides}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Dernier sursaut (Sur).** Lorsqu’un ver du froid est tué, il explose sur une zone de 30 mètres (20 {s:c}) de rayon qui inflige 12d6 points de dégâts de froid et 8d6 points de dégâts de type perforant ([Réflexes](./Réflexes.md) [DD](./DD.md) 23, 1/2 dégâts). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Froid (Sur).** Le corps d’un ver du froid génère un froid intense, ce qui lui permet d’infliger 4d6 points de dégâts de froid supplémentaire chaque fois qu’il mord un adversaire. Toutes les créatures qui attaquent un ver du froid à l’aide d’une attaque à mains nue ou d’une arme naturelle subissent 1d6 points de dégâts de froid par attaque réussie. Une créature qui [agrippe](./lutte.md) ou est [agrippée](./lutte.md) par un ver du froid subit 4d6 points de dégâts de froid par [round](./round.md) tant que l’[agrippement](./lutte.md) persiste.}
-{s:BDTexte|**Trille (Sur).** Par une [action complexe](./Action complexe.md), un ver du froid peut produire un son étrange qui affecte toutes les créatures situées dans un rayon de 30 mètres (20 {s:c}). Celles-ci doivent réussir un jet de [Volonté](./Volonté.md) de [DD](./DD.md) 18 pour ne pas être [fascinées](./Fasciné.md) tant que le ver continue à triller (le ver du froid peut maintenir cette capacité active en se concentrant). Lorsqu’une créature parvient à résister ou à se libérer de cet effet, elle est immunisée contre les trilles du ver du froid en question pendant 24 heures. Il s’agit d’un effet mental de son. Le [DD](./DD.md) du jet de sauvegarde dépend du [Charisme](./Charisme.md).}
+{s:BDTexte|**Dernier sursaut (Sur).** Lorsqu’un ver du froid est tué, il explose sur une zone de 30 mètres (20 {s:c}) de rayon qui inflige 12d6 points de dégâts de froid et 8d6 points de dégâts de type perforant ([[Réflexes]] [[DD]] 23, 1/2 dégâts). Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|**Froid (Sur).** Le corps d’un ver du froid génère un froid intense, ce qui lui permet d’infliger 4d6 points de dégâts de froid supplémentaire chaque fois qu’il mord un adversaire. Toutes les créatures qui attaquent un ver du froid à l’aide d’une attaque à mains nue ou d’une arme naturelle subissent 1d6 points de dégâts de froid par attaque réussie. Une créature qui [[lutte|agrippe]] ou est [[lutte|agrippée]] par un ver du froid subit 4d6 points de dégâts de froid par [[round]] tant que l’[[lutte|agrippement]] persiste.}
+{s:BDTexte|**Trille (Sur).** Par une [[action complexe]], un ver du froid peut produire un son étrange qui affecte toutes les créatures situées dans un rayon de 30 mètres (20 {s:c}). Celles-ci doivent réussir un jet de [[Volonté]] de [[DD]] 18 pour ne pas être [[fasciné|fascinées]] tant que le ver continue à triller (le ver du froid peut maintenir cette capacité active en se concentrant). Lorsqu’une créature parvient à résister ou à se libérer de cet effet, elle est immunisée contre les trilles du ver du froid en question pendant 24 heures. Il s’agit d’un effet mental de son. Le [[DD]] du jet de sauvegarde dépend du [[Charisme]].}
 </div>
 </td><td><div>
 *Cet immense ver blanc possède un unique œil circulaire au centre de sa tête. Des volutes de brume glacée s’élèvent entre ses mandibules.*

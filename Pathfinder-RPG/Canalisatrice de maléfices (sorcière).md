@@ -25,9 +25,9 @@ Ce rayonnement soigne ou inflige 1d6 points de dégâts. Chaque fois que la cana
 de sa canalisation d’énergie de 1d6. Cette aptitude remplace le maléfice obtenu au niveau 2.
 
 #### Maléfices
-Les maléfices suivants viennent compléter l’archétype de canalisatrice de maléfices : [guérison](./maléfices.md#Guérison), [dépérissement](./maléfices.md#Dépérissement), [tremper dans le poison](./maléfices.md#Tremperdanslepoison), [sceau](./maléfices.md#Sceau).
+Les maléfices suivants viennent compléter l’archétype de canalisatrice de maléfices : [[Maléfices#Guérison|guérison]], [[Maléfices#Dépérissement|dépérissement]], [[Maléfices#Tremperdanslepoison|tremper dans le poison]], [[Maléfices#Sceau|sceau]].
 
 #### Maléfices majeurs
-Les maléfices majeurs suivants viennent compléter l’archétype de canalisatrice de maléfices : [agonie](./maléfices.md#Agonie), [blessures infectées](./maléfices.md#Blessuresinfectées), [cuisiner les gens](./maléfices.md#Cuisinerlesgens), [guérison majeure](./maléfices.md#Guérisonmajeure), [représailles](./maléfices.md#Représailles).
+Les maléfices majeurs suivants viennent compléter l’archétype de canalisatrice de maléfices : [[Maléfices#Agonie|agonie]], [[Maléfices#Blessuresinfectées|blessures infectées]], [[Maléfices#Cuisinerlesgens|cuisiner les gens]], [[Maléfices#Guérisonmajeure|guérison majeure]], [[Maléfices#Représailles|représailles]].
 
-====Grands maléfices==== Les grands maléfices suivants viennent compléter l’archétype de canalisatrice de maléfices : [convocation d'esprit](./maléfices.md#Convocationdesprit), [donneuse de vie](./maléfices.md#Donneusedevie), [malédiction mortelle](./maléfices.md#Malédictionmortelle), [sinistre prophétie](./maléfices.md#Sinistreprophétie).
+====Grands maléfices==== Les grands maléfices suivants viennent compléter l’archétype de canalisatrice de maléfices : [[Maléfices#Convocationdesprit|convocation d'esprit]], [[Maléfices#Donneusedevie|donneuse de vie]], [[Maléfices#Malédictionmortelle|malédiction mortelle]], [[Maléfices#Sinistreprophétie|sinistre prophétie]].

@@ -11,8 +11,8 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage peut protéger ceux qui essayent de se relever.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [maîtrise de bouclier](./Dons.md#MAITRISEDEBOUCLIER)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[Dons#MAITRISEDEBOUCLIER|maîtrise de bouclier]]
 
-**Conditions.** [Art du bouclier](./Art du bouclier.md), [BBA](./BBA.md) +3 ou [guerrier](./Guerrier.md) de niveau 1
+**Conditions.** [[Art du bouclier]], [[BBA]] +3 ou [[guerrier]] de niveau 1
 
-**Avantage.** Par une [action rapide](./Action rapide.md), le personnage peut empêcher un allié adjacent ou lui-même de provoquer une [attaque d’opportunité](./attaque dopportunité.md) lorsqu'il se relève ou ramasse un objet au sol.
+**Avantage.** Par une [[action rapide]], le personnage peut empêcher un allié adjacent ou lui-même de provoquer une [[attaque dopportunité|attaque d’opportunité]] lorsqu'il se relève ou ramasse un objet au sol.

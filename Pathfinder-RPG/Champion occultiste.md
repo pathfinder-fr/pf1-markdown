@@ -6,9 +6,9 @@ Categories:
 - Classe de prestige
 ---
 
-{s:MenuClassesDePrestige}''Les champions occultistes sont des [guerriers](./Guerrier.md) et des lanceurs de sorts redoutables, et ce sont les rares utilisateurs de magie à être dans la bataille aux côtés des [guerriers](./Guerrier.md), des [barbares](./Barbare.md) et des autres représentants des classes martiales. Leur formidable polyvalence au combat fait des champions occultistes des adversaires grandement redoutés. Leurs sortilèges dévastateurs viennent à bout des ennemis lourdement armés et armurés, tandis que leurs lames achèvent les lanceurs de sorts de l'autre camp.
+{s:MenuClassesDePrestige}''Les champions occultistes sont des [[guerrier|guerriers]] et des lanceurs de sorts redoutables, et ce sont les rares utilisateurs de magie à être dans la bataille aux côtés des [[guerrier|guerriers]], des [[barbare|barbares]] et des autres représentants des classes martiales. Leur formidable polyvalence au combat fait des champions occultistes des adversaires grandement redoutés. Leurs sortilèges dévastateurs viennent à bout des ennemis lourdement armés et armurés, tandis que leurs lames achèvent les lanceurs de sorts de l'autre camp.
 
-Parce que la voie pour devenir un champion occultiste exige des talents martiaux et magiques, les personnages qui souhaitent l'emprunter sont au départ toujours multiclassés, comme les [guerriers](./Guerrier.md)/[mages](./Magicien.md) ou les [rôdeurs](./Rôdeur.md)/[ensorceleurs](./Ensorceleur.md). Ils sont présents là où l'étude des arcanes est aussi importante que celle des arts martiaux.''
+Parce que la voie pour devenir un champion occultiste exige des talents martiaux et magiques, les personnages qui souhaitent l'emprunter sont au départ toujours multiclassés, comme les [[guerrier|guerriers]]/[[magicien|mages]] ou les [[rôdeur|rôdeurs]]/[[ensorceleur|ensorceleurs]]. Ils sont présents là où l'étude des arcanes est aussi importante que celle des arts martiaux.''
 
 {s:ClearRight}{| CLASS="tablo centre autoalt"
 |+ Le champion occultiste
@@ -18,73 +18,73 @@ Parce que la voie pour devenir un champion occultiste exige des talents martiaux
 | CLASS="gauche" | Nombre de sorts par jour
 |- CLASS="premier"
 | 1 || +1 || +0 || +1 || +0
-| CLASS="gauche" | [Don supplémentaire](./Champion occultiste.md#DONSUPPLEMENTAIRE),   
-[entraînement diversifié](./Champion occultiste.md#ENTRAINEMENTDIVERSIFIE)
+| CLASS="gauche" | [[champion occultiste#DONSUPPLEMENTAIRE|Don supplémentaire]],   
+[[champion occultiste#ENTRAINEMENTDIVERSIFIE|entraînement diversifié]]
 | CLASS="centre" | —
 |- CLASS="alt"
 | 2 || +2 || +1 || +1 || +1
 | CLASS="centre" | —
-| CLASS="gauche" | [+1 niveau dans la classe de lanceur  
- de sorts profanes existante](./Champion occultiste.md#SORTS)
+| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+ de sorts profanes existante]]
 |-
 | 3 || +3 || +1 || +2 || +1
 | CLASS="centre" | —
-| CLASS="gauche" | [+1 niveau dans la classe de lanceur  
- de sorts profanes existante](./Champion occultiste.md#SORTS)
+| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+ de sorts profanes existante]]
 |- CLASS="alt"
 | 4 || +4 || +1 || +2 || +1
 | CLASS="centre" | —
-| CLASS="gauche" | [+1 niveau dans la classe de lanceur  
- de sorts profanes existante](./Champion occultiste.md#SORTS)
+| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+ de sorts profanes existante]]
 |-
 | 5 || +5 || +2 || +3 || +2
-| CLASS="gauche" | [Don supplémentaire](./Champion occultiste.md#DONSUPPLEMENTAIRE)
-| CLASS="gauche" | [+1 niveau dans la classe de lanceur  
- de sorts profanes existante](./Champion occultiste.md#SORTS)
+| CLASS="gauche" | [[champion occultiste#DONSUPPLEMENTAIRE|Don supplémentaire]]
+| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+ de sorts profanes existante]]
 |- CLASS="alt"
 | 6 || +6 || +2 || +3 || +2
 | CLASS="centre" | —
-| CLASS="gauche" | [+1 niveau dans la classe de lanceur  
- de sorts profanes existante](./Champion occultiste.md#SORTS)
+| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+ de sorts profanes existante]]
 |-
 | 7 || +7 || +2 || +4 || +2
 | CLASS="centre" | —
-| CLASS="gauche" | [+1 niveau dans la classe de lanceur  
- de sorts profanes existante](./Champion occultiste.md#SORTS)
+| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+ de sorts profanes existante]]
 |- CLASS="alt"
 | 8 || +8 || +3 || +4 || +3
 | CLASS="centre" | —
-| CLASS="gauche" | [+1 niveau dans la classe de lanceur  
- de sorts profanes existante](./Champion occultiste.md#SORTS)
+| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+ de sorts profanes existante]]
 |-
 | 9 || +9 || +3 || +5 || +3
-| CLASS="gauche" | [Don supplémentaire](./Champion occultiste.md#DONSUPPLEMENTAIRE)
-| CLASS="gauche" | [+1 niveau dans la classe de lanceur  
- de sorts profanes existante](./Champion occultiste.md#SORTS)
+| CLASS="gauche" | [[champion occultiste#DONSUPPLEMENTAIRE|Don supplémentaire]]
+| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+ de sorts profanes existante]]
 |- CLASS="alt"
 | 10 || +10 || +3 || +5 || +3
-| CLASS="gauche" | [Sortilège dévastateur](./Champion occultiste.md#SORTILEGEDEVASTATEUR)
-| CLASS="gauche" | [+1 niveau dans la classe de lanceur  
- de sorts profanes existante](./Champion occultiste.md#SORTS)
+| CLASS="gauche" | [[champion occultiste#SORTILEGEDEVASTATEUR|Sortilège dévastateur]]
+| CLASS="gauche" | [[champion occultiste#SORTS|+1 niveau dans la classe de lanceur  
+ de sorts profanes existante]]
 |}
 
 **Rôle.** Les champions occultistes unissent les talents des classes combattantes et des utilisateurs de sorts. Leur magie s'abat sur les rangs ennemis et, l'instant d'après, l'acier de leurs lames taille en pièces les survivants, et ils sont aussi à l'aise au cœur de la mêlée que lorsqu'ils déchaînent leur puissance magique sur ceux restés bien à l'abri derrière leurs compatriotes. Leur polyvalence est un atout majeur lorsque l'issue de la bataille est incertaine.
 
-**Alignement.** Les chemins qui conduisent à cette classe de prestige sont multiples, aussi variés que ceux pouvant mener à être l’apprenti d’un [magicien](./Magicien.md) ou à faire carrière en tant que soldat. Pour ces raisons, les champions occultistes peuvent être de tous les alignements. Cependant, l'équilibre entre l'étude des arcanes et l'entraînement martial exige une grande discipline, et nombreux sont ceux qui préfèrent les alignements [Loyaux](./Loyal.md).
+**Alignement.** Les chemins qui conduisent à cette classe de prestige sont multiples, aussi variés que ceux pouvant mener à être l’apprenti d’un [[magicien]] ou à faire carrière en tant que soldat. Pour ces raisons, les champions occultistes peuvent être de tous les alignements. Cependant, l'équilibre entre l'étude des arcanes et l'entraînement martial exige une grande discipline, et nombreux sont ceux qui préfèrent les alignements [[Loyal|Loyaux]].
 
 **Dés de vie.** d10.
 
 ### Conditions
 Pour devenir un champion occultiste, il faut satisfaire aux conditions suivantes.
 
-**Maniement des armes.** Doit être formé au maniement de toutes les [armes de guerre](./arme de guerre.md).
+**Maniement des armes.** Doit être formé au maniement de toutes les [[arme de guerre|armes de guerre]].
 
 **Sorts.** Faculté de lancer des sorts profanes du 3e niveau.
 
 ### Compétences de classe
-Les compétences du champion occultiste (et la caractéristique dont chacune dépend) sont : [Connaissances](./Connaissances.md) (mystères) (Int), [Connaissances](./Connaissances.md) (noblesse) (Int), [Équitation](./Équitation.md) (Dex), [Escalade](./Escalade.md) (For), [Linguistique](./Linguistique.md) (Int), [Natation](./Natation.md) (For), [Psychologie](./Psychologie.md) (Sag),
+Les compétences du champion occultiste (et la caractéristique dont chacune dépend) sont : [[Connaissances]] (mystères) (Int), [[Connaissances]] (noblesse) (Int), [[Équitation]] (Dex), [[Escalade]] (For), [[Linguistique]] (Int), [[Natation]] (For), [[Psychologie]] (Sag),
 
-**Points de compétence par niveau.** 2 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 2 + modificateur d’[[Intelligence]].
 
 
 ### Caractéristiques de la classe
@@ -95,11 +95,11 @@ Le champion occultiste n’est pas formé au maniement des armes ni au port des 
 
 {s:REFERENCE|DONSUPPLEMENTAIRE}
 #### Don supplémentaire
-Au niveau 1, le champion occultiste peut choisir un [don supplémentaire de combat](./don de combat.md). Ce don est obtenu en plus de ceux que n’importe quel personnage acquiert quand il avance en niveaux. Le personnage doit satisfaire à toutes les conditions requises pour chaque don. Le champion occultiste gagne un [don de combat](./don de combat.md) supplémentaire aux niveaux 5 et 9.
+Au niveau 1, le champion occultiste peut choisir un [[don de combat|don supplémentaire de combat]]. Ce don est obtenu en plus de ceux que n’importe quel personnage acquiert quand il avance en niveaux. Le personnage doit satisfaire à toutes les conditions requises pour chaque don. Le champion occultiste gagne un [[don de combat]] supplémentaire aux niveaux 5 et 9.
 
 {s:REFERENCE|ENTRAINEMENTDIVERSIFIE}
 #### Entraînement diversifié
-Le personnage ajoute son niveau dans la classe de prestige de champion occultiste à ses niveaux de [guerrier](./Guerrier.md), ainsi qu'à ses niveaux de lanceur de sorts profanes, lorsqu'il s'agit de satisfaire aux conditions requises pour des dons. S'il ne possède pas de niveau de [guerrier](./Guerrier.md), il utilisera son niveau de champion occultiste en tant que niveau de [guerrier](./Guerrier.md).
+Le personnage ajoute son niveau dans la classe de prestige de champion occultiste à ses niveaux de [[guerrier]], ainsi qu'à ses niveaux de lanceur de sorts profanes, lorsqu'il s'agit de satisfaire aux conditions requises pour des dons. S'il ne possède pas de niveau de [[guerrier]], il utilisera son niveau de champion occultiste en tant que niveau de [[guerrier]].
 
 {s:REFERENCE|SORTS}
 #### Sorts
@@ -107,4 +107,4 @@ Aux niveaux indiqués, un champion occultiste gagne de nouveaux sorts quotidiens
 
 {s:REFERENCE|SORTILEGEDEVASTATEUR}
 #### Sortilège dévastateur (Sur)
-Au niveau 10, si le champion occultiste confirme un [coup critique](./coup critique.md), il peut lancer un sort en une [action rapide](./Action rapide.md), pourvu que la cible de son attaque physique se trouve parmi les cibles ou dans l'aire d'effet de son sort. Cette action ne provoque pas d'[attaque d'opportunité](./attaque dopportunité.md). Le personnage doit cependant avoir toutes les composantes du sort et lancer les dés pour les risques d’échec des sorts profanes, le cas échéant.
+Au niveau 10, si le champion occultiste confirme un [[coup critique]], il peut lancer un sort en une [[action rapide]], pourvu que la cible de son attaque physique se trouve parmi les cibles ou dans l'aire d'effet de son sort. Cette action ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]]. Le personnage doit cependant avoir toutes les composantes du sort et lancer les dés pour les risques d’échec des sorts profanes, le cas échéant.

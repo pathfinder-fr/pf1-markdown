@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Apal](./Antipaladin.md) 2, [Pal](./Paladin.md) 2  
+**École** [[Abjuration]] ; **Niveau** [[Antipaladin|Apal]] 2, [[Paladin|Pal]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** armure ou bouclier touché  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Ce sort fonctionne comme *[panoplie magique](./Panoplie magique.md)* mais affecte uniquement l’armure ou le bouclier du personnage. Le sort n’a aucun effet si c’est un tiers qui porte le bouclier ou l’armure du personnage mais il fait effet dès que le personnage récupère son bien.
+Ce sort fonctionne comme *[[panoplie magique]]* mais affecte uniquement l’armure ou le bouclier du personnage. Le sort n’a aucun effet si c’est un tiers qui porte le bouclier ou l’armure du personnage mais il fait effet dès que le personnage récupère son bien.

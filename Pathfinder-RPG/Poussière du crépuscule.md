@@ -12,24 +12,24 @@ Categories:
 ---
 
 {s:APG}
-**École** [Invocation](./Invocation.md) <nowiki>[</nowiki>[obscurité](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [San](./Sanguin.md) 2  
+**École** [[Invocation]] <nowiki>[</nowiki>[[registre|obscurité]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sanguin|San]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (poussière de charbon)  
+**Composantes** [[Composantes|V, G, M]] (poussière de charbon)  
 
-**Portée** intermédiaire (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** intermédiaire (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Cible** créatures et objets dans une étendue de 3 mètres (2 {s:c})  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([fatigue](./Fatigué.md) seulement) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[fatigué|fatigue]] seulement) ; **Résistance à la magie** non
 
-Une pluie de particules noires iridescentes s'accroche aux torches, aux lanternes, aux bâtons éclairants et aux sources de lumière ordinaire similaires et les éteint. Elle dissipe également tout sort de [niveau](./Niveau de sort.md) 2 ou moins qui possède le [registre](./Registre.md) de la lumière (comme une *[dissipation de la magie](./Dissipation de la magie.md)*). Les créatures qui se trouvent dans la zone doivent faire un test de [Vigueur](./Vigueur.md) ou être [fatiguées](./Fatigué.md).
+Une pluie de particules noires iridescentes s'accroche aux torches, aux lanternes, aux bâtons éclairants et aux sources de lumière ordinaire similaires et les éteint. Elle dissipe également tout sort de [[niveau de sort|niveau]] 2 ou moins qui possède le [[registre]] de la lumière (comme une *[[dissipation de la magie]]*). Les créatures qui se trouvent dans la zone doivent faire un test de [[Vigueur]] ou être [[fatigué|fatiguées]].
 
 ### Mythique
 {s:CMy}
-Une créature qui rate son jet de [Vigueur](./Vigueur.md) contre ce sort doit également réussir un jet de [Volonté](./Volonté.md) contre le même [DD](./DD.md) pour ne pas s’endormir (comme avec le sort [sommeil](./Sommeil.md)). Les créatures qui réussissent ce jet de sauvegarde sont simplement somnolentes (comme avec le sort [berceuse](./Berceuse.md)).
+Une créature qui rate son jet de [[Vigueur]] contre ce sort doit également réussir un jet de [[Volonté]] contre le même [[DD]] pour ne pas s’endormir (comme avec le sort [[sommeil]]). Les créatures qui réussissent ce jet de sauvegarde sont simplement somnolentes (comme avec le sort [[berceuse]]).
 
-**[Amplifié](./Amplifié.md).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), ajoutez la moitié de son [grade](./Grade.md) au niveau des sorts de lumière que la [poussière du crépuscule](./Poussière du crépuscule.md) mythique dissipe.
+**[[Amplifié]].** Si le personnage dépense deux utilisations de [[pouvoir mythique]], ajoutez la moitié de son [[grade]] au niveau des sorts de lumière que la [[poussière du crépuscule]] mythique dissipe.

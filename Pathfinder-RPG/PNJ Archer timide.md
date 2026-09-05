@@ -10,11 +10,11 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Archer timide|FP 6}
-{s:BDTexte|*Source : [Manuel des PNJ p. 269](./Manuel des PNJ (Contenu).md)*}
+{s:BDTexte|*Source : [[Manuel des PNJ (contenu)|Manuel des PNJ p. 269]]*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Elfe](./Elfe.md) [Homme d'armes](./Homme darme.md) 8}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([elfe](./sous-type elfe.md)) de taille M, CN}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[Elfe]] [[Homme darme|Homme d'armes]] 8}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type elfe|elfe]]) de taille M, CN}
+{s:BDTexte|**Init** +2 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 11, pris au dépourvu 19 (armure +9, Dex +1)}
 {s:BDTexte|**pv** 52 (8d10+8)}
@@ -29,11 +29,11 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 14, **Dex** 14, **Con** 10, **Int** 10, **Sag** 10, **Cha** 9}
 {s:BDTexte|**BBA** +8 ; **BMO** +10 ; **DMD** 22}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (arc long composite), [Tir à bout portant](./Tir à bout portant.md), [Tir rapide](./Tir rapide.md), [Viser](./Viser.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5, [Perception](./Perception.md) +10}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (arc long composite), [[Tir à bout portant]], [[Tir rapide]], [[Viser]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +5, [[Perception]] +10}
 {s:BDTexte|**Langues** commun, elfe}
 {s:BDTexte|**Particularités** armes familières, magie elfique}
-{s:BDTexte|**Équipement de combat** *[élixir de discrétion instinctive](./Élixir de discrétion instinctive.md)*, *[flèches](./Flèches (arme).md) [de feu](./feu (propriété).md) +1* (6), *[potion](./Potions magiques.md) de [faveur divine](./Faveur divine.md)*, *[potion](./Potions magiques.md) de [soins modérés](./Soins modérés.md)* ; **Équipement divers** *[arc long composite](./arc long composite (arme).md) +1* (+2 For) avec 40 [flèches](./Flèches (arme).md)), [harnois](./harnois (armure).md) [de maître](./armure de maître.md), [lame elfique incurvée](./lame elfique incurvée (arme).md), 72 po}
+{s:BDTexte|**Équipement de combat** *[[élixir de discrétion instinctive]]*, *[[Flèches (arme)|flèches]] [[feu (propriété)|de feu]] +1* (6), *[[Potions magiques|potion]] de [[faveur divine]]*, *[[Potions magiques|potion]] de [[soins modérés]]* ; **Équipement divers** *[[arc long composite (arme)|arc long composite]] +1* (+2 For) avec 40 [[Flèches (arme)|flèches]]), [[harnois (armure)|harnois]] [[armure de maître|de maître]], [[lame elfique incurvée (arme)|lame elfique incurvée]], 72 po}
 </div>
 </td><td><div>L’archer timide n’a que mépris pour les talents d’archer des non-elfes. Malgré leur lourde armure, les archers timides sont extraordinairement discrets. Contrairement aux éclaireurs elfes qui se déplacent dans les fourrés et harcèlent l’envahisseur, ces archers forment le soutien à distance des armées elfiques, tirant par-dessus la tête de leurs camarades en plein dans les forces ennemies, créant une pluie de flèches mortelles.
 </div></td></tr></table>

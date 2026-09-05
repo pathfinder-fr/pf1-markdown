@@ -10,7 +10,7 @@ LastModified: 2017-01-19 21:05
 {s:pucem|Aberration|Ciel|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 208*}
 - 38 400 PX
-- [Aberration](./type Aberration.md) ([Air](./sous-type Air.md)) de taille TG, CM
+- [[type aberration|Aberration]] ([[sous-type air|Air]]) de taille TG, CM
 - **Init **+6 ; **Sens **vision dans le noir à 18 m ; Perception +26
 - **Aura** présence terrifiante (27 m, DD 24)
 (((Défense)))
@@ -24,14 +24,14 @@ LastModified: 2017-01-19 21:05
 - **Corps à corps** 4 tentacules, +21 (1d8+9/19-20 plus étreinte)* Espace 4,50 m ; Allonge 4,50 m
 - **Attaques spéciales** constriction (1d8+9), vent aspirant, rafale 
 - **Pouvoirs magiques** (**NLS **14 ; concentration +19)
-  - *À volonté* — [modification des vents](./Modification des vents.md)<sup>MdJ RA</sup>, [bourrasque](./Bourrasque.md) (DD 17), [vent de murmures](./Vent de murmures.md), [marche dans les airs](./Marche dans les airs.md)
-  - *3/jour* — [contrôle des vents](./Contrôle des vents.md) (DD 20), [rivière de vent](./Rivière de vent.md)<sup>MdJ RA</sup> (DD 19), [mur de vent](./Mur de vent.md)
-  - *1/jour* — [contrôle du climat](./Contrôle du climat.md), [cyclone](./Cyclone.md) (DD 23)
+  - *À volonté* — [[modification des vents]]<sup>MdJ RA</sup>, [[bourrasque]] (DD 17), [[vent de murmures]], [[marche dans les airs]]
+  - *3/jour* — [[contrôle des vents]] (DD 20), [[rivière de vent]]<sup>MdJ RA</sup> (DD 19), [[mur de vent]]
+  - *1/jour* — [[contrôle du climat]], [[cyclone]] (DD 23)
 (((Statistiques)))
 - **For **28, **Dex **15, **Con **24, **Int **19, **Sag** 20, **Cha **21
 - **BBA **+13 ; **BMO **+24 (+28 pour la lutte) ; **DMD **42 (croc-en-jambe impossible)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (tentacule), [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Frappe décisive](./Frappe décisive.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (tentacule), [Souplesse du serpent](./Souplesse du serpent.md) 
-- **Compétences** [Art de la magie](./Art de la magie.md) +25, [Connaissances](./Connaissances.md) (histoire) +22, [Connaissances](./Connaissances.md) (ingénierie) +22, [Connaissances](./Connaissances.md) (nature) +22, [Discrétion](./Discrétion.md) +15, [Perception](./Perception.md) +26, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +23, [Vol](./Vol.md) +27
+- **Dons** [[Arme de prédilection]] (tentacule), [[Attaque en puissance]], [[Attaque en vol]], [[Attaques réflexes]], [[Esquive]], [[Frappe décisive]], [[science de linitiative|Science de l’initiative]], [[Science du critique]] (tentacule), [[Souplesse du serpent]] 
+- **Compétences** [[Art de la magie]] +25, [[Connaissances]] (histoire) +22, [[Connaissances]] (ingénierie) +22, [[Connaissances]] (nature) +22, [[Discrétion]] +15, [[Perception]] +26, [[utilisation dobjets magiques|Utilisation d’objets magiques]] +23, [[Vol]] +27
 - **Langues** akloz
 (((Écologie)))
 - **Environnement** tous

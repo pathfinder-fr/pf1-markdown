@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 pc ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-La pierre à aiguiser permet au personnage d'affûter une lame en la frottant contre la pierre selon un angle précis. L'affûtage d'une lame avec une pierre à aiguiser demande environ 15 minutes et accorde un bonus d'arme de +1 aux [jets de dégâts](./Valeurs de combat.md#DEGATS) lors de la première attaque réussie avec cette lame. Ceci ne fonctionne que pour les lames non-magiques.
+La pierre à aiguiser permet au personnage d'affûter une lame en la frottant contre la pierre selon un angle précis. L'affûtage d'une lame avec une pierre à aiguiser demande environ 15 minutes et accorde un bonus d'arme de +1 aux [[valeurs de combat#DEGATS|jets de dégâts]] lors de la première attaque réussie avec cette lame. Ceci ne fonctionne que pour les lames non-magiques.

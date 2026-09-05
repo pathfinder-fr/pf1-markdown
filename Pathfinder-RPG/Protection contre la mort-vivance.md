@@ -11,21 +11,21 @@ Categories:
 ---
 
 {s:racial|Dhampir (race)|dhampirs|Illustrations/PNJ/Dhampir.jpg}{s:MR}
-**École** [Nécromancie](./Nécromancie.md) ;
-**Niveau** [Inq](./Inquisiteur.md) 5, [Prê](./Prêtre.md) 5  
+**École** [[Nécromancie]] ;
+**Niveau** [[Inquisiteur|Inq]] 5, [[Prêtre|Prê]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour annuler (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Vigueur]] pour annuler (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-La cible devient résistante aux effets des attaques d’absorption d’énergie et d’absorption de sang portées par les créatures [mortes-vivantes](./type Mort-vivant.md), et ne peut pas être transformée en morte-vivante si elle est tuée alors que ce sort est actif.
+La cible devient résistante aux effets des attaques d’absorption d’énergie et d’absorption de sang portées par les créatures [[type mort-vivant|mortes-vivantes]], et ne peut pas être transformée en morte-vivante si elle est tuée alors que ce sort est actif.
 
-Si le nombre de dés de vies du mort-vivant qui l’attaque est inférieur ou égal au niveau de lanceur de sorts du lanceur, le mort-vivant doit faire un jet de [Vigueur](./Vigueur.md) (contre le [DD](./DD.md) du sort) à chaque attaque pour que ces capacités spéciales agissent. Le sort protège simplement contre l’affaiblissement temporaire de [Constitution](./Constitution.md) qu’inflige l’absorption de sang et contre les niveaux négatifs qu’inflige l’absorption d’énergie, mais pas contre les autres effets de ces attaques.
+Si le nombre de dés de vies du mort-vivant qui l’attaque est inférieur ou égal au niveau de lanceur de sorts du lanceur, le mort-vivant doit faire un jet de [[Vigueur]] (contre le [[DD]] du sort) à chaque attaque pour que ces capacités spéciales agissent. Le sort protège simplement contre l’affaiblissement temporaire de [[Constitution]] qu’inflige l’absorption de sang et contre les niveaux négatifs qu’inflige l’absorption d’énergie, mais pas contre les autres effets de ces attaques.

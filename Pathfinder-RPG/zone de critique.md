@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Tableau récapitulatif des armes#CRITIQUE
 ---
 
->>> [Tableau récapitulatif des armes#CRITIQUE](./Tableau récapitulatif des armes.md#CRITIQUE)
+>>> [[Tableau récapitulatif des armes#CRITIQUE]]

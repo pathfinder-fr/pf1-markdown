@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Afflictions
 ---
 
->>> [Pathfinder-RPG.Afflictions](./Afflictions.md)
+>>> [[Pathfinder-RPG.Afflictions]]

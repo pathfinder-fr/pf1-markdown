@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les attaques du personnage trouvent généralement les failles de son adversaire et ignorent de nombreux moyens défensifs.*
 
-**Condition.** [Viser juste](./Viser juste.md)
+**Condition.** [[Viser juste]]
 
-**Avantage.** Le personnage peut utiliser ce don même s’il se déplace au cours du round, mais seulement si la distance parcourue est égale ou inférieure à 1,50 mètre par [grade](./Grade.md).
+**Avantage.** Le personnage peut utiliser ce don même s’il se déplace au cours du round, mais seulement si la distance parcourue est égale ou inférieure à 1,50 mètre par [[grade]].

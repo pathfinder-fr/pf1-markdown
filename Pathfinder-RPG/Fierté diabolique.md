@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Votre fierté n'accepte d'autre maître que le dieu-diable.*
 
-**Conditions.** [Volonté de fer](./Volonté de fer.md), suivant d'[Asmodéus](./Asmodéus (technique).md).
+**Conditions.** [[Volonté de fer]], suivant d'[[Asmodéus (technique)|Asmodéus]].
 
-**Avantage.** Lorsque le personnage doit effectuer un [jet de sauvegarde](./JDS.md) contre un sort de [charme](./Présentation des sorts.md#CHARME) ou de [coercition](./Présentation des sorts.md#COERCITION) lancé par quiconque n'est pas un suivant d'Asmodéus, il peut lancer deux dés et conserver le meilleur résultat.
+**Avantage.** Lorsque le personnage doit effectuer un [[jds|jet de sauvegarde]] contre un sort de [[Présentation des sorts#CHARME|charme]] ou de [[Présentation des sorts#COERCITION|coercition]] lancé par quiconque n'est pas un suivant d'Asmodéus, il peut lancer deux dés et conserver le meilleur résultat.

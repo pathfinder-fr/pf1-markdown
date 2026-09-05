@@ -11,15 +11,15 @@ Categories:
 <div class="BD">
 {s:BDTitre|Kawa akago|FP 3}
 {s:pucem|Plante|Aquatique|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.159](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.159]]*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Plante](./type Plante.md) de taille P, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Plante|Plante]] de taille P, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 14, pris au dépourvu 13 (Dex +3, naturelle +2, taille +1)}
 {s:BDTexte|**pv** 26 (4d8+8)}
 {s:BDTexte|**Réf** +4, **Vig** +6, **Vol** +2}
-{s:BDTexte|**Immunités** [traits des plantes](./Traits des plantes (capacité).md) ; **Résistances** feu 10}
+{s:BDTexte|**Immunités** [[Traits des plantes (capacité)|traits des plantes]] ; **Résistances** feu 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m, nage 9 m}
 {s:BDTexte|**Corps à corps** 2 morsures, +8 (1d6+3)}
@@ -27,15 +27,15 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 17, **Con** 14, **Int** 6, **Sag** 13, **Cha** 7}
 {s:BDTexte|**BBA** +3 ; **BMO** +5 ; **DMD** 18 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +12, [Natation](./Natation.md) +9, [Perception](./Perception.md) +10 ; **Modificateurs raciaux** +4 en Perception}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +12, [[Natation]] +9, [[Perception]] +10 ; **Modificateurs raciaux** +4 en Perception}
 {s:BDTexte|**Langues** aquatique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais ou rivières tempérés}
 {s:BDTexte|**Organisation** solitaire, paire ou poignée (2-7)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Crocs de sang ardent (Ext).** Les crocs effilés qui bordent l’extérieur des kawa akagos et bardent leur gueule centrale sont couverts d’une substance urticante qui provoque de terribles douleurs. Une morsure réussie rend la cible de l’attaque [fiévreuse](./Fiévreux.md) pendant une minute ([Vigueur](./Vigueur.md) DD 14 annule). Rater son [jet de sauvegarde](./JDS.md) plusieurs fois d’affilée n’ajoute pas de malus supplémentaire, mais réinitialise la durée de l’effet. S’immerger dans de l’eau ou un liquide similaire pendant deux rounds entiers permet d’annuler l’effet. Cet effet est ressenti comme une brûlure, mais une [résistance](./Résistance (capacité).md) ou une [immunité](./Immunité (capacité).md) au feu ne permet pas de le réduire. Le DD du jet de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Gémissement des noyés (Sur).** Une fois par jour, par une [action simple](./Action simple.md), un kawa akago peut laisser échapper un gémissement strident qui laisse un écho perturbant et douloureux dans les oreilles de ceux qui l’entendent. Toutes les créatures et les objets qui se trouvent dans un rayon de 6 mètres subissent 2d6 points de dégâts de son et les créatures sont [assourdies](./Assourdi.md) pendant 1d4+1 rounds. Réussir un jet de [Vigueur](./Vigueur.md) DD 14 permet de réduire de moitié les dégâts de son et à 1 round la durée pendant laquelle une créature est assourdie. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Crocs de sang ardent (Ext).** Les crocs effilés qui bordent l’extérieur des kawa akagos et bardent leur gueule centrale sont couverts d’une substance urticante qui provoque de terribles douleurs. Une morsure réussie rend la cible de l’attaque [[fiévreux|fiévreuse]] pendant une minute ([[Vigueur]] DD 14 annule). Rater son [[jds|jet de sauvegarde]] plusieurs fois d’affilée n’ajoute pas de malus supplémentaire, mais réinitialise la durée de l’effet. S’immerger dans de l’eau ou un liquide similaire pendant deux rounds entiers permet d’annuler l’effet. Cet effet est ressenti comme une brûlure, mais une [[Résistance (capacité)|résistance]] ou une [[Immunité (capacité)|immunité]] au feu ne permet pas de le réduire. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Gémissement des noyés (Sur).** Une fois par jour, par une [[action simple]], un kawa akago peut laisser échapper un gémissement strident qui laisse un écho perturbant et douloureux dans les oreilles de ceux qui l’entendent. Toutes les créatures et les objets qui se trouvent dans un rayon de 6 mètres subissent 2d6 points de dégâts de son et les créatures sont [[assourdi|assourdies]] pendant 1d4+1 rounds. Réussir un jet de [[Vigueur]] DD 14 permet de réduire de moitié les dégâts de son et à 1 round la durée pendant laquelle une créature est assourdie. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div></td>
 <td><div>*Ce mélange de nénuphar et d’attrape-mouches est cerclé de crocs terrifiants. Une minuscule gueule pleine de dents se trouve en son centre.*

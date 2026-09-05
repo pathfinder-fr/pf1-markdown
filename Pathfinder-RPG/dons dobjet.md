@@ -28,58 +28,58 @@ Les dons de maîtrise d’objets sont accessibles à tous les personnages qui re
 | WIDTH="45%" | Avantages
 
 |- CLASS="premier"
-| [Maîtrise de caractéristique](./Maîtrise de caractéristique.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +4 || La transmutation affectant une armure magique ou un objet merveilleux vous donne un bonus d'amélioration de +2 à une Caractéristique
+| [[Maîtrise de caractéristique]] || MTT || [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +4 || La transmutation affectant une armure magique ou un objet merveilleux vous donne un bonus d'amélioration de +2 à une Caractéristique
 
 |- CLASS="premier"
-| [Maîtrise de l’énergie](./Maîtrise de lénergie.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 1 rang, Bonus de Base Vigueur +4 || Le registre d'énergie affectant un objet vous permet de puiser de l'énergie pour infliger des dégâts
+| [[Maîtrise de lénergie|Maîtrise de l’énergie]] || MTT || [[UOM|Utilisation d’objets magiques]] 1 rang, Bonus de Base Vigueur +4 || Le registre d'énergie affectant un objet vous permet de puiser de l'énergie pour infliger des dégâts
 
 |- CLASS="premier"
-| [Maîtrise de l’évocation d’arme](./Maîtrise de lévocation darme.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 2 rangs, Bonus de Base Vigueur +3 || La capacité de votre arme infligeant des dégâts supplémentaires est plus efficace
+| [[Maîtrise de lévocation darme|Maîtrise de l’évocation d’arme]] || MTT || [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +3 || La capacité de votre arme infligeant des dégâts supplémentaires est plus efficace
 
 |- CLASS="premier"
-| [Maîtrise de l’illusion](./Maîtrise de lillusion.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 2 rangs, Bonus de Base Vigueur +4 || L'illusion affectant un objet vous permet de créer une *[image imparfaite](./Image imparfaite.md)*.
+| [[Maîtrise de lillusion|Maîtrise de l’illusion]] || MTT || [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +4 || L'illusion affectant un objet vous permet de créer une *[[image imparfaite]]*.
 
 |- CLASS="premier"
-| [Maîtrise de la dissipation](./Maîtrise de la dissipation.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +6 || L'abjuration affectant un objet vous permet de lancer *[dissipation de la magie](./Dissipation de la magie.md)* sur une cible
+| [[Maîtrise de la dissipation]] || MTT || [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +6 || L'abjuration affectant un objet vous permet de lancer *[[dissipation de la magie]]* sur une cible
 
 |- CLASS="premier"
-| [Maîtrise instrumentale](./Maîtrise instrumentale.md) || MTT || capacités *intruments* et *focalisation mentale* || Les sorts de l'école associée à votre pouvoir de focalisation et vos capacités de focalisation vous permettent de remplir les conditions des dons de maîtrise d'objets magiques
+| [[Maîtrise instrumentale]] || MTT || capacités *intruments* et *focalisation mentale* || Les sorts de l'école associée à votre pouvoir de focalisation et vos capacités de focalisation vous permettent de remplir les conditions des dons de maîtrise d'objets magiques
 
 |- CLASS="premier"
-| [Maîtrise de la malédiction](./Maîtrise de la malédiction.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +6 || La nécromancie affectant un objet vous permet de lancer *[malédiction](./malédiction.md)*
+| [[Maîtrise de la malédiction]] || MTT || [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +6 || La nécromancie affectant un objet vous permet de lancer *[[malédiction]]*
 
 |- CLASS="premier"
-| [Maîtrise de la résistance](./Maîtrise de la résistance.md) || MTT || [Premiers Secours](./Premiers secours.md) 5 rangs, [Utilisation d’objets magiques](./UOM.md) 5 rangs, Bonus de Base Vigueur +3 || La conjuration affectant un objet magique vous permet de soigner les plus graves atteintes
+| [[Maîtrise de la résistance]] || MTT || [[Premiers Secours]] 5 rangs, [[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigueur +3 || La conjuration affectant un objet magique vous permet de soigner les plus graves atteintes
 
 |- CLASS="premier"
-| [Maîtrise de la restauration](./Maîtrise de la restauration.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +3 || L'abjuration affectant une armure magique ou un objet merveilleux vous offre un bonus de protection à vos jets de sauvegarde ou de résistance à une énergie
+| [[Maîtrise de la restauration]] || MTT || [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3 || L'abjuration affectant une armure magique ou un objet merveilleux vous offre un bonus de protection à vos jets de sauvegarde ou de résistance à une énergie
 
 |- CLASS="premier"
-| [Maîtrise de la télékinésie](./Maîtrise de la télékinésie.md)* || MTT || [Utilisation d’objets magiques](./UOM.md) 5 rangs, Bonus de Base Vigueur +7 || Une transmutation importante affectant un objet vous permet de lancer *[télékinésie](./Télékinésie.md)*
+| [[Maîtrise de la télékinésie]]* || MTT || [[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigueur +7 || Une transmutation importante affectant un objet vous permet de lancer *[[télékinésie]]*
 
 |- CLASS="premier"
-| [Maîtrise de la téléportation](./Maîtrise de la téléportation.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 5 rangs, Bonus de Base Vigueur +7 || Une conjuration affectant un objet vous permet de lancer *[porte dimensionnelle](./Porte dimensionnelle.md)*
+| [[Maîtrise de la téléportation]] || MTT || [[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigueur +7 || Une conjuration affectant un objet vous permet de lancer *[[porte dimensionnelle]]*
 
 |- CLASS="premier"
-| [Maîtrise de la vision](./Maîtrise de la vision.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 2 rangs, Bonus de Base Vigueur +4 || La divination affectant un objet vous permet de lancer *[vision dans les ténèbres](./Vision dans les ténèbres.md)* ou *[détection de l'invisibilité](./Détection de linvisibilité.md)*
+| [[Maîtrise de la vision]] || MTT || [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +4 || La divination affectant un objet vous permet de lancer *[[vision dans les ténèbres]]* ou *[[détection de linvisibilité|détection de l'invisibilité]]*
 
 |- CLASS="premier"
-| [Maîtrise des objets raciaux](./Maîtrise des objets raciaux.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 6 rangs, Bonus de Base Vigueur +3 || La magie de l'objet associé à votre race vous permet d'utiliser vos pouvoirs magiques raciaux plus souvent
+| [[Maîtrise des objets raciaux]] || MTT || [[UOM|Utilisation d’objets magiques]] 6 rangs, Bonus de Base Vigueur +3 || La magie de l'objet associé à votre race vous permet d'utiliser vos pouvoirs magiques raciaux plus souvent
 
 |- CLASS="premier"
-| [Maîtrise du bouclier de force](./Maîtrise du bouclier de force.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +3 || L'abjuration affectant un objet vous permet de lancer *[bouclier](./Bouclier.md)*
+| [[Maîtrise du bouclier de force]] || MTT || [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3 || L'abjuration affectant un objet vous permet de lancer *[[bouclier]]*
 
 |- CLASS="premier"
-| [Maîtrise du camouflage](./Maîtrise du camouflage.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +3 || L'illusion affectant un objet merveilleux vous permet de lancer *[disparition](./Disparition.md)* ou *[invisibilité](./Invisibilité.md)*
+| [[Maîtrise du camouflage]] || MTT || [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3 || L'illusion affectant un objet merveilleux vous permet de lancer *[[disparition]]* ou *[[invisibilité]]*
 
 |- CLASS="premier"
-| [Maîtrise du charme](./Maîtrise du charme.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 2 rangs, Bonus de Base Vigueur +6 || L'enchantement affectant un objet vous permet d'utiliser *[suggestion](./Suggestion.md)*
+| [[Maîtrise du charme]] || MTT || [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +6 || L'enchantement affectant un objet vous permet d'utiliser *[[suggestion]]*
 
 |- CLASS="premier"
-| [Maîtrise du vol](./Maîtrise du vol.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 2 rangs, Bonus de Base Vigueur +6 || La transmutation affectant un objet vous permet d'utiliser *[vol](./sort Vol.md)*
+| [[Maîtrise du vol]] || MTT || [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +6 || La transmutation affectant un objet vous permet d'utiliser *[[sort vol|vol]]*
 
 |- CLASS="premier"
-| [Maîtrise symbolique](./Maîtrise symbolique.md) || MTT || [Utilisation d’objets magiques](./UOM.md) 4 rangs, Bonus de Base Vigueur +2 || Votre symbole sacré vous permet d'infliger une décharge destructrice représentative de votre divinité
+| [[Maîtrise symbolique]] || MTT || [[UOM|Utilisation d’objets magiques]] 4 rangs, Bonus de Base Vigueur +2 || Votre symbole sacré vous permet d'infliger une décharge destructrice représentative de votre divinité
 
 |}
 </center>
@@ -98,7 +98,7 @@ Vous pouvez augmenter vos caractéristiques propres en puisant dans un effet de 
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +4
+Conditions. [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +4
 
 Avantage. Une fois par jour, vous pouvez vous concentrer 10 minutes sur une armure magique ou un objet merveilleux dont une des conditions de fabrication est un sort de transmutation du 2ème niveau et qui occupe un emplacement sur votre corps. À la fin de votre méditation, vous obtenez un bonus d’amélioration de +2 à l’une de vos caractéristiques de votre choix. Ce bénéfice dure pendant 24 heures. Vous devez porter l’objet pour en obtenir le bénéfice et s’il est ôté avant la fin de la durée, l’avantage concédé cesse et ne peut être regagné avant que 24 heures ne se soient écoulées depuis la fin de la dernière activation du don. Vous ne pouvez obtenir le bénéfice de ce don qu’une seule fois en un temps donné.
 
@@ -114,7 +114,7 @@ Vous pouvez utiliser la magie d’illusion pour camoufler votre présence et mê
 
 Catégorie. Maîtrise d’objet
 
-Conditions. Discrétion 3 rangs, [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +3
+Conditions. Discrétion 3 rangs, [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3
 
 Avantage. Vous pouvez faire en sorte qu’un objet magique dont l’une des conditions de fabrication possède un sort d’illusion de niveau 1 ou plus pour lancer disparition. Si vous possédez 7 rangs en Discrétion et en Utilisation d’objets magiques, vous pouvez faire en sorte de lancer le sort invisibilité si l’objet dispose d’un sort d’illusion de niveau 2 ou plus. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
@@ -131,7 +131,7 @@ Vous pouvez créer des barrières de force avec les objets de l’école d’abj
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +3
+Conditions. [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3
 
 Avantage. Vous pouvez faire en sorte qu’un objet dont l’une des conditions de fabrication est un sort d’abjuration de 1er niveau ou supérieur pour créer un effet de sort qui fonctionne comme un bouclier, sauf que le bonus de bouclier à la CA est égal à 1/3 de votre bonus de base de Vigueur (minimum +1). Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +6, +9 puis +12.
 
@@ -164,7 +164,7 @@ Special: An occultist who has this feat can select item mastery feats in place o
 - Maîtrise des objets raciaux
 Vous pouvez utiliser certains objets magiques pour alimenter vos pouvoirs innés.
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 6 rangs, Bonus de Base Vigueur +3
+Conditions. [[UOM|Utilisation d’objets magiques]] 6 rangs, Bonus de Base Vigueur +3
 
 Avantage. Vous pouvez vous concentrer sur un objet associé à votre race pour utiliser un pouvoir magique racial que vous possédez sans dépenser aucune des utilisations quotidiennes pour ce pouvoir magique. Un pouvoir magique racial correspond à tout pouvoir magique que vous avez obtenu par le biais d’un trait racial, d’un don ou d’un trait dont votre race est une condition ou d’une option de classe ou d’un archétype qui n’est accessible qu’aux membres de votre race. Vous devez utiliser un objet dont l’un des sorts nécessaires à sa fabrication correspond à la même école et au même niveau que ceux du pouvoir magique que vous souhaitez utiliser. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
@@ -180,7 +180,7 @@ Vous pouvez vous protéger des dégâts en utilisant les objets magiques de l’
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +3
+Conditions. [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3
 
 Avantage. Une fois par jour, vous pouvez méditer 10 minutes en vue d’utiliser une armure magique ou un objet merveilleux dont une des conditions de fabrication est un sort d’abjuration du 2ème niveau ou supérieur et qui occupe un emplacement sur votre corps afin d’obtenir un bonus défensif. Ce bénéfice peut être soit un bonus de résistance de +1 à tous les jets de protections ou une résistance contre un type d’énergie de 5 points (acide, électricité, feu, froid, son). Ce bénéfice dure pendant 24 heures. Vous devez porter l’objet pour en obtenir le bénéfice et s’il est ôté avant la fin de la durée, l’avantage concédé cesse et ne peut être regagné avant que 24 heures ne se soient écoulées depuis la fin de la dernière activation du don. Le bonus de résistance accordé augmente de 5 lorsque le bonus de base de votre jet de Vigueur passe à +6, +9 puis +12. Vous ne pouvez obtenir le bénéfice de ce don qu’une seule fois en un temps donné.
 
@@ -196,7 +196,7 @@ Vous pouvez soigner plus que les blessures de la chair.
 
 Catégorie. Maîtrise d’objet
 
-Conditions. Premiers Secours 5 rangs, [Utilisation d’objets magiques](./UOM.md) 5 rangs, Bonus de Base Vigueur +3
+Conditions. Premiers Secours 5 rangs, [[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigueur +3
 
 Avantage. Vous pouvez faire en sorte qu’un objet dont l’une des conditions de fabrication est un sort de conjuration (soins) de niveau 2 ou supérieur permette de lancer un sort de restauration mineure. Si vous possédez 9 rangs en Premiers Secours et en Utilisation d’objets magiques et que l’objet en question possède comme condition de fabrication un sort de conjuration (soins) de niveau 3 ou supérieur, vous pouvez lancer soit guérison de la cécité/surdité, soit guérison de la paralysie. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
@@ -212,7 +212,7 @@ Vous pouvez canaliser la puissance des dieux au travers des symboles de leur foi
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 4 rangs, Bonus de Base Vigueur +2
+Conditions. [[UOM|Utilisation d’objets magiques]] 4 rangs, Bonus de Base Vigueur +2
 
 Avantage. Un nombre de fois par jour égal à votre bonus de base de Vigueur, vous pouvez tirer d’un symbole sacré d’une divinité que vous vénérez et dont l’aignement et le même que le vôtre pour relâcher une attaque magique destructrice qui est appelée une décharge symbolique.
 Cette attaque peut être libérée par le biais du contact ou d’un rayon en une action simple. Une attaque symbolique nécessite une attaque de contact au corps à corps qui ne provoque pas d’attaque d’opportunité et une attaque à distance est une attaque à distance avec une portée de 9 m.
@@ -245,7 +245,7 @@ Vous pouvez battre vos adversaires à l’aide du pouvoir mystique qui circule d
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 2 rangs, Bonus de Base Vigueur +3
+Conditions. [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +3
 
 Avantage. Au prix d’une action immédiate, lorsque vous tenez une arme magique avec une capacité spéciale d’arme qui inflige des dégâts supplémentaire d’acide, d’électricité, de feu, de froid ou de son lorsqu’elle touche, vous infligez 1d4 points de dégâts supplémentaires chaque fois que vous touchez votre cible pendant 1 round.
 
@@ -261,7 +261,7 @@ Vous pouvez gagner en influence sur les esprits des autres en utilisant les obje
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 2 rangs, Bonus de Base Vigueur +6
+Conditions. [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +6
 
 Avatange. Vous pouvez lancer suggestion comme le sort n utilisant un objet dont l’une des conditions de fabrication est un sort d’enchantement de niveau 3 ou supérieur. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
@@ -277,7 +277,7 @@ Vous pouvez infliger une malediction en utilisant les objets magiques nécromant
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +6
+Conditions. [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +6
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort de nécromancie de niveau 3 ou plus de lancer infliger une malédiction. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
@@ -293,7 +293,7 @@ Vous pouvez dissiper la magie avec les objets magiques de l’école d’abjurat
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +6
+Conditions. [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +6
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort d’abjuration de niveau 2 le pouvoir de lancer dissipation de la magie, mais seulement pour faire une dissipation ciblée. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
@@ -309,7 +309,7 @@ Vous pouvez projeter de l’énergie avec les objets magiques de l’école d’
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 1 rang, Bonus de Base Vigueur +4
+Conditions. [[UOM|Utilisation d’objets magiques]] 1 rang, Bonus de Base Vigueur +4
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort du registre acide, froid, léectricité, ou feu de niveau 1 le pouvoir de lancer mains brûlantes. Le sort possède le registre correspondant à celui du sort utilisé comme condition et inflige le type de dégâts correspondants au lieu de dégâts de feu. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +6, +8, +10 puis +12.
 
@@ -327,7 +327,7 @@ Vous pouvez puiser dans les objets de l’école de transmutation le pouvoir de 
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 3 rangs, Bonus de Base Vigueur +6
+Conditions. [[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +6
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort de transmutation de niveau 2 le pouvoir de lancer vol. Si l’objet utilisé est une armure que vous portez, vous pouvez utiliser son bonus d’altération au lieu de votre modificateur de Dextérité aux tests de Vol tant que le sort dure. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
@@ -343,7 +343,7 @@ Vous pouvez entrelacer des chimères avec les objets de l’école de l’illusi
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 2 rangs, Bonus de Base Vigueur +4
+Conditions. [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +4
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort d’illusion de niveau 1 le pouvoir de lancer *image imparfaite*. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +6, +8,+10 puis +12.
 
@@ -359,7 +359,7 @@ Vous pouvez puiser dans les objets de l’école de transmutation le pouvoir de 
 
 Catégorie. Combat, Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 5 rangs, Bonus de Base Vigueur +7
+Conditions. [[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigueur +7
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort de transmutation de niveau 4 le pouvoir de lancer télékinésie. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +11.
 
@@ -375,7 +375,7 @@ Vous pouvez puiser dans les objets de l’école de conjuration le pouvoir de vo
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 4 rangs, Bonus de Base Vigueur +6
+Conditions. [[UOM|Utilisation d’objets magiques]] 4 rangs, Bonus de Base Vigueur +6
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort de conjuration de niveau 3 le pouvoir de lancer porte dimensionnelle. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +9 puis +12.
 
@@ -391,7 +391,7 @@ Vous pouvez percer l’invisibilité avec les pouvoirs des objets de l’école 
 
 Catégorie. Maîtrise d’objet
 
-Conditions. [Utilisation d’objets magiques](./UOM.md) 2 rangs, Bonus de Base Vigueur +4
+Conditions. [[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +4
 
 Avantage. Vous pouvez faire en sorte de tirer d’un objet dont l’une des conditions de fabrication est un sort de divination de niveau 3 le pouvoir de lancer soit vision dans les ténèbres soit voir l’invisible. Vous pouvez utiliser ce don une fois par jour et une fois supplémentaire lorsque votre bonus de base de Vigueur atteint +6, +8, +10 puis +12.
 

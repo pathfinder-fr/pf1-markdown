@@ -29,46 +29,46 @@ Bien entendu, la plupart de tels associés sont prompts à demander pardon lorsq
 | CLASS="gauche" | Sorts
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [Adepte de l’activation](./Éclaireur Savant.md#ADEPTEDELACTIVATION), [maître érudit](./Éclaireur Savant.md#MAITREERUDIT)
+| CLASS="gauche" | [[Éclaireur savant#ADEPTEDELACTIVATION|Adepte de l’activation]], [[Éclaireur savant#MAITREERUDIT|maître érudit]]
 | CLASS="gauche" | —
 |-
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Découverte de glyphes](./Éclaireur Savant.md#DECOUVERTEDEGLYPHES), [magie ésotérique](./Éclaireur Savant.md#MAGIEESOTERIQUE)
+| CLASS="gauche" | [[Éclaireur savant#DECOUVERTEDEGLYPHES|Découverte de glyphes]], [[Éclaireur savant#MAGIEESOTERIQUE|magie ésotérique]]
 | CLASS="gauche" | +1 niveau de classe existante
 |-
 | 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [Maître des parchemins](./Éclaireur Savant.md#MAITREDESPARCHEMINS)
+| CLASS="gauche" | [[Éclaireur savant#MAITREDESPARCHEMINS|Maître des parchemins]]
 | CLASS="gauche" | +1 niveau de classe existante
 |-
 | 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [Identification rapide](./Éclaireur Savant.md#IDENTIFICATIONRAPIDE)
+| CLASS="gauche" | [[Éclaireur savant#IDENTIFICATIONRAPIDE|Identification rapide]]
 | CLASS="gauche" | +1 niveau de classe existante
 |-
 | 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [Maître des sceaux](./Éclaireur Savant.md#MAITREDESSCEAUX)
+| CLASS="gauche" | [[Éclaireur savant#MAITREDESSCEAUX|Maître des sceaux]]
 | CLASS="gauche" | +1 niveau de classe existante
 |-
 | 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [Analyse d’enchantement](./Éclaireur Savant.md#ANALYSEDENCHANTEMENT), [maître du silence](./Éclaireur Savant.md#MAITREDUSILENCE)
+| CLASS="gauche" | [[Éclaireur savant#ANALYSEDENCHANTEMENT|Analyse d’enchantement]], [[Éclaireur savant#MAITREDUSILENCE|maître du silence]]
 | CLASS="gauche" | +1 niveau de classe existante
 |-
 | 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [Maître de la dissipation](./Éclaireur Savant.md#MAITREDELADISSIPATION)
+| CLASS="gauche" | [[Éclaireur savant#MAITREDELADISSIPATION|Maître de la dissipation]]
 | CLASS="gauche" | +1 niveau de classe existante
 
 |-
 | 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [Maître des symboles](./Éclaireur Savant.md#MAITREDESSYMBOLES)
+| CLASS="gauche" | [[Éclaireur savant#MAITREDESSYMBOLES|Maître des symboles]]
 | CLASS="gauche" | +1 niveau de classe existante
 
 |-
 | 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [Maître de l'incantation](./Éclaireur Savant.md#MAITREDELINCANTATION)
+| CLASS="gauche" | [[Éclaireur savant#MAITREDELINCANTATION|Maître de l'incantation]]
 | CLASS="gauche" | +1 niveau de classe existante
 
 |-
 | 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [Maître des objets](./Éclaireur Savant.md#MAITREDESOBJETS)
+| CLASS="gauche" | [[Éclaireur savant#MAITREDESOBJETS|Maître des objets]]
 | CLASS="gauche" | +1 niveau de classe existante
 
 
@@ -80,67 +80,67 @@ Bien entendu, la plupart de tels associés sont prompts à demander pardon lorsq
 ### Conditions
 Pour devenir un Explorateur savant, un personnage doit satisfaire aux conditions suivantes.
 
-**Dons.** [Aptitude magique](./Aptitude magique.md), n’importe quel [don de création d’objet](./dons de création dobjets.md).
+**Dons.** [[Aptitude magique]], n’importe quel [[Dons de création dobjets|don de création d’objet]].
 
-**Compétences.** 5 rangs en [Art de la magie](./Art de la magie.md), 5 rangs en [Connaissances](./Connaissances.md) (mystères), 5 rangs en [Utilisation d’objets magiques](./UOM.md).
+**Compétences.** 5 rangs en [[Art de la magie]], 5 rangs en [[Connaissances]] (mystères), 5 rangs en [[UOM|Utilisation d’objets magiques]].
 
 **Spécial.** Le personnage doit avoir la capacité de lancer des sorts de niveau 2.
 
 ### Compétences de classe
-Voici les compétences de classe de l’Explorateur Savant : [Art de la magie](./Art de la magie.md), [Artisanat](./Artisanat.md), [Connaissances](./Connaissances.md) (toutes), [Estimation](./Estimation.md), [Linguistique](./Linguistique.md), [Perception](./Perception.md), [Profession](./Profession.md), [Survie](./Survie.md), [Utilisation d’objets magiques](./UOM.md).
+Voici les compétences de classe de l’Explorateur Savant : [[Art de la magie]], [[Artisanat]], [[Connaissances]] (toutes), [[Estimation]], [[Linguistique]], [[Perception]], [[Profession]], [[Survie]], [[UOM|Utilisation d’objets magiques]].
 
-**Points de compétence par niveau.** 2 + bonus d’[Intelligence](./Intelligence.md)
+**Points de compétence par niveau.** 2 + bonus d’[[Intelligence]]
 
 ### Caractéristiques de la classe
 Voici les particularités et aptitudes de la classe de prestige d’Explorateur savant.
 
 {s:Reference|ADEPTEDELACTIVATION}
 #### Adepte de l’activation (Ext)
-Un Explorateur savant peut toujours [faire 10](./faire 10.md) sur les tests d’[Utilisation d’objet magique](./UOM.md), sauf quand il active un objet à l’aveugle.
+Un Explorateur savant peut toujours [[faire 10]] sur les tests d’[[UOM|Utilisation d’objet magique]], sauf quand il active un objet à l’aveugle.
 
 {s:Reference|MAITREERUDIT}
 #### Maître érudit (Ext)
-Un Explorateur savant ajoute la moitié de son niveau de classe (minimum 1) à tous les tests d’[Art de la magie](./Art de la magie.md), [Connaissances](./Connaissances.md) (mystères) et [Utilisation d’objets magiques](./UOM.md). Il peut toujours choisir de [faire 10](./faire 10.md) sur les tests de Connaissances (mystères) et Art de la magie, même quand il est distrait ou en danger.
+Un Explorateur savant ajoute la moitié de son niveau de classe (minimum 1) à tous les tests d’[[Art de la magie]], [[Connaissances]] (mystères) et [[UOM|Utilisation d’objets magiques]]. Il peut toujours choisir de [[faire 10]] sur les tests de Connaissances (mystères) et Art de la magie, même quand il est distrait ou en danger.
 
 {s:Reference|MAGIEESOTERIQUE}
 #### Magie ésotérique (Ext)
-Pour chaque niveau au-delà du niveau 1, l’Explorateur savant choisit un sort d’une liste de sorts de n’importe quelle classe et le traite par la suite comme s’il était sur la liste de sort de la classe de base de lanceur de sorts dans laquelle il a le plus de niveaux ; si cette classe de base de lanceur de sorts ne peut normalement pas lancer le sort, il est traité comme étant de 1 niveau supérieur au niveau de sort sur la liste à laquelle il l'emprunte. Le type du sort (profane, divin ou psychique) et le [DD](./DD.md) de son [jet de sauvegarde](./JDS.md) fonctionnent comme habituellement pour cette classe. Toutes les autres restrictions de sa classe de lanceur de sort habituelle s'appliquent. Cette capacité ne permet pas à d’autres lanceurs de sorts de préparer, lancer ou utiliser des objets de déclenchement de sorts ou d’achèvement contenant des sorts ésotériques (tels qu’un [ensorceleur](./Ensorceleur.md) utilisant un *parchemin de [soins légers](./Soins légers.md)* fabriqué par l'Explorateur savant).
+Pour chaque niveau au-delà du niveau 1, l’Explorateur savant choisit un sort d’une liste de sorts de n’importe quelle classe et le traite par la suite comme s’il était sur la liste de sort de la classe de base de lanceur de sorts dans laquelle il a le plus de niveaux ; si cette classe de base de lanceur de sorts ne peut normalement pas lancer le sort, il est traité comme étant de 1 niveau supérieur au niveau de sort sur la liste à laquelle il l'emprunte. Le type du sort (profane, divin ou psychique) et le [[DD]] de son [[jds|jet de sauvegarde]] fonctionnent comme habituellement pour cette classe. Toutes les autres restrictions de sa classe de lanceur de sort habituelle s'appliquent. Cette capacité ne permet pas à d’autres lanceurs de sorts de préparer, lancer ou utiliser des objets de déclenchement de sorts ou d’achèvement contenant des sorts ésotériques (tels qu’un [[ensorceleur]] utilisant un *parchemin de [[soins légers]]* fabriqué par l'Explorateur savant).
 
 {s:Reference|DECOUVERTEDEGLYPHES}
 #### Découverte de glyphes (Ext)
-Au niveau 2, un Explorateur savant peut utiliser [Art de la magie](./Art de la magie.md) pour repérer des pièges magiques ayant pour base l’écriture (notamment des glyphes, des runes, des sceaux et des symboles) de la même façon qu’un [roublard](./Roublard.md) peut utiliser [Perception](./Perception.md) pour détecter les pièges.
+Au niveau 2, un Explorateur savant peut utiliser [[Art de la magie]] pour repérer des pièges magiques ayant pour base l’écriture (notamment des glyphes, des runes, des sceaux et des symboles) de la même façon qu’un [[roublard]] peut utiliser [[Perception]] pour détecter les pièges.
 
 {s:Reference|MAITREDESPARCHEMINS}
 #### Maître des parchemins (Sur)
-Au niveau 3, un Explorateur savant utilise son propre [niveau de lanceur de sorts](./NLS.md) au lieu du niveau de lanceur de sorts de l’objet quand il utilise un parchemin ou tout autre objet d’achèvement de sort.
+Au niveau 3, un Explorateur savant utilise son propre [[NLS|niveau de lanceur de sorts]] au lieu du niveau de lanceur de sorts de l’objet quand il utilise un parchemin ou tout autre objet d’achèvement de sort.
 
 {s:Reference|IDENTIFICATIONRAPIDE}
 #### Identification rapide (Mag)
-Au niveau 4, un Explorateur savant peut utiliser *[identification](./Identification.md)* par une [action rapide](./Action rapide.md). Il peut le faire une fois par jour par tranche de deux niveaux dans cette classe.
+Au niveau 4, un Explorateur savant peut utiliser *[[identification]]* par une [[action rapide]]. Il peut le faire une fois par jour par tranche de deux niveaux dans cette classe.
 
 {s:Reference|MAITREDESSCEAUX}
 #### Maître des sceaux (Sur)
-Au niveau 5, un Explorateur savant reçoit un bonus égal à son niveau de classe sur les [jets de sauvegarde](./JDS.md) contre les pièges magiques basés sur l’écriture et, si ce [jet de sauvegarde](./JDS.md) est réussi, il ne déclenche pas le piège. Le piège n'est pas désamorcé et, s’il quitte la zone du piège pour y pénétrer de nouveau, il doit refaire son jet de sauvegarde. Un piège qui a déjà été déclenché fonctionne normalement contre un Explorateur savant, bien qu’il reçoive toujours ce bonus au jet de sauvegarde (si le piège a été déclenché par u autre par exemple).
+Au niveau 5, un Explorateur savant reçoit un bonus égal à son niveau de classe sur les [[jds|jets de sauvegarde]] contre les pièges magiques basés sur l’écriture et, si ce [[jds|jet de sauvegarde]] est réussi, il ne déclenche pas le piège. Le piège n'est pas désamorcé et, s’il quitte la zone du piège pour y pénétrer de nouveau, il doit refaire son jet de sauvegarde. Un piège qui a déjà été déclenché fonctionne normalement contre un Explorateur savant, bien qu’il reçoive toujours ce bonus au jet de sauvegarde (si le piège a été déclenché par u autre par exemple).
 
 {s:Reference|ANALYSEDENCHANTEMENT}
 #### Analyse d’enchantement (Mag)
-Au niveau 6, un Explorateur savant peut utiliser [analyse d’enchantement](./Analyse denchantement.md) jusqu’à 1 [round](./round.md) par niveau dans cette classe par jour. Il peut utiliser cette capacité par tranches d’un round.
+Au niveau 6, un Explorateur savant peut utiliser [[analyse denchantement|analyse d’enchantement]] jusqu’à 1 [[round]] par niveau dans cette classe par jour. Il peut utiliser cette capacité par tranches d’un round.
 
 {s:Reference|MAITREDUSILENCE}
 #### Maître du silence (Sur)
-Un Explorateur savant de niveau 6 est capable d’activer les objets de déclenchement d’un sort, d’achèvement d’un sort ou à mots de commande silencieusement, substituant un geste magique aux mots nécessaires. Il ne peut pas utiliser cette capacité dans des circonstances où il ne pourrait pas lancer de sorts avec des composants somatiques. Il doit savoir comment activer l’objet normalement pour pouvoir utiliser cette capacité. Trois fois par jour, il peut lancer un sort de niveau 6 ou inférieur comme s’il utilisait un [sceptre métamagique silencieux](./Sceptre de métamagie.md).
+Un Explorateur savant de niveau 6 est capable d’activer les objets de déclenchement d’un sort, d’achèvement d’un sort ou à mots de commande silencieusement, substituant un geste magique aux mots nécessaires. Il ne peut pas utiliser cette capacité dans des circonstances où il ne pourrait pas lancer de sorts avec des composants somatiques. Il doit savoir comment activer l’objet normalement pour pouvoir utiliser cette capacité. Trois fois par jour, il peut lancer un sort de niveau 6 ou inférieur comme s’il utilisait un [[Sceptre de métamagie|sceptre métamagique silencieux]].
 
 {s:Reference|MAITREDELADISSIPATION}
 #### Maître de la dissipation (Sur)
-À partir du niveau 7, si l’Explorateur savant prépare et lance ses sorts (comme un [magicien](./Magicien.md)), il peut spontanément convertir n’importe quel sort de niveau 3 ou plus préparé en *[dissipation de la magie](./Dissipation de la magie.md)* ou de niveau 6 ou plus en *[dissipation suprême](./Dissipation suprême.md)*, comme un [prêtre](./Prêtre.md) Bon convertit des sorts préparés en sorts de soins. S’il est un lanceur de sorts spontané (comme un [ensorceleur](./Ensorceleur.md)), il ajoute *[dissipation de la magie](./Dissipation de la magie.md)* et *[dissipation suprême](./Dissipation suprême.md)* à ses sorts connus. Chaque fois qu’il utilise avec succès un de ces sorts pour faire une dissipation ciblée ou un contresort ciblé, il guérit un nombre de [points de vie](./pv.md) égal au [niveau de lanceur de sorts](./NLS.md) de l’effet dissipé ou contré.
+À partir du niveau 7, si l’Explorateur savant prépare et lance ses sorts (comme un [[magicien]]), il peut spontanément convertir n’importe quel sort de niveau 3 ou plus préparé en *[[dissipation de la magie]]* ou de niveau 6 ou plus en *[[dissipation suprême]]*, comme un [[prêtre]] Bon convertit des sorts préparés en sorts de soins. S’il est un lanceur de sorts spontané (comme un [[ensorceleur]]), il ajoute *[[dissipation de la magie]]* et *[[dissipation suprême]]* à ses sorts connus. Chaque fois qu’il utilise avec succès un de ces sorts pour faire une dissipation ciblée ou un contresort ciblé, il guérit un nombre de [[pv|points de vie]] égal au [[NLS|niveau de lanceur de sorts]] de l’effet dissipé ou contré.
 
 {s:Reference|MAITREDESSYMBOLES}
 #### Maître des symboles (Sur)
-À partir du niveau 8, un Explorateur savant obtient un pouvoir sur les sorts de symboles magiques (tel que *[symbole de mort](./Symbole de mort.md)*). Lorsqu'il lance un sort de symbole, le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) pour résister à ses effets, le DD nécessaire pour le test de [Perception](./Perception.md) pour le remarquer et le DD du test de [Sabotage](./Sabotage.md) pour le désamorcer augmentent de 2. Une fois par jour au prix d'une [action immédiate](./Action immédiate.md), l'Explorateur savant peut doubler le bonus accordé par sa capacité [Maître des sceaux](./Éclaireur Savant.md#MAITREDESSCEAUX) lorsqu'il tente un jet de sauvegarde contre un symbole. Il peut activer cette aptitude après qu'il ait lancé les dés, mais il doit le faire avant de connaitre le résultat. Un Explorateur savant n'échoue pas automatiquement son jet de sauvegarde contre un effet de symbole sur un 1 naturel.
+À partir du niveau 8, un Explorateur savant obtient un pouvoir sur les sorts de symboles magiques (tel que *[[symbole de mort]]*). Lorsqu'il lance un sort de symbole, le [[DD]] du [[jds|jet de sauvegarde]] pour résister à ses effets, le DD nécessaire pour le test de [[Perception]] pour le remarquer et le DD du test de [[Sabotage]] pour le désamorcer augmentent de 2. Une fois par jour au prix d'une [[action immédiate]], l'Explorateur savant peut doubler le bonus accordé par sa capacité [[Éclaireur savant#MAITREDESSCEAUX|Maître des sceaux]] lorsqu'il tente un jet de sauvegarde contre un symbole. Il peut activer cette aptitude après qu'il ait lancé les dés, mais il doit le faire avant de connaitre le résultat. Un Explorateur savant n'échoue pas automatiquement son jet de sauvegarde contre un effet de symbole sur un 1 naturel.
 
 {s:Reference|MAITREDELINCANTATION}
 #### Maître de l'incantation (Ext)
-À partir du niveau 9, un Explorateur savant peut se concentrer trois fois par jour par une [action libre](./Action libre.md). Une fois qu'il est ainsi concentré, tout sort qu'il lance pendant le restant de ce [round](./round.md) ne provoque pas d'[attaque d'opportunité](./AO.md). Les sorts avec une durée de concentration qu'il lance au cours de ce round persistent pendant un nombre de rounds après qu'il ait cessé de se concentrer égal au plus élevé des ses modificateurs d'[Intelligence](./Intelligence.md), de [Sagesse](./Sagesse.md) ou de [Charisme](./Charisme.md).
+À partir du niveau 9, un Explorateur savant peut se concentrer trois fois par jour par une [[action libre]]. Une fois qu'il est ainsi concentré, tout sort qu'il lance pendant le restant de ce [[round]] ne provoque pas d'[[AO|attaque d'opportunité]]. Les sorts avec une durée de concentration qu'il lance au cours de ce round persistent pendant un nombre de rounds après qu'il ait cessé de se concentrer égal au plus élevé des ses modificateurs d'[[Intelligence]], de [[Sagesse]] ou de [[Charisme]].
 
 {s:Reference|MAITREDESOBJETS}
 #### Maître des objets magiques (Sur)

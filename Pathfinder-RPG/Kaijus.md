@@ -15,19 +15,19 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Agyra](./Agyra.md) || 27
+| [[Agyra]] || 27
 |-
-| [Bézravnis](./Bézravnis.md) || 26
+| [[Bézravnis]] || 26
 |-
-| [Mogaru](./Mogaru.md) || 28
+| [[Mogaru]] || 28
 |}
 </div></div><div class="description">**Source :** Bestiaire 4 p.159.</div>
-*Types/Sous-types associés : [Créature magique](./type Créature magique.md) ([kaiju](./sous-type kaiju.md)).*
+*Types/Sous-types associés : [[type Créature magique|Créature magique]] ([[sous-type kaiju|kaiju]]).*
 
 Dans les recoins les plus isolés du monde, là où la civilisation ellemême n’est que légende et où les cartographes ne peuvent qu’imaginer la topographie des terres et la nature de leurs occupants, vivent d’immenses créatures que l’on vénère comme des dieux. Capables de détruire des villes entières en un seul jour fatidique et de porter des attaques surnaturelles redoutables, ces soi-disant « dieux » légendaires ne sont justement pas des divinités. On appelle ces monstres imposants des kaijus et les histoires contant leur genèse sont aussi diverses que leur étrange aspect physique et les pouvoirs dont ils sont dotés.
 
 
-Le kaiju est un monstre démesurément grand, bien plus grand que la plupart des autres créatures. Chaque kaiju est unique, mais tous partagent certains traits communs (voir le [sous-type kaiju](./sous-type kaiju.md)). Il existe différents types de kaiju, mais ce sont généralement des créatures magiques. Ils sont semi-intelligents et comprennent une seule langue, qu’ils ne peuvent pas parler. Certaines légendes évoquent l’existence d’individus singuliers ou particulièrement doués capables d’appeler un kaiju sur de grandes distances pour bénéficier de son aide en cas d’extrême besoin. Ce type de pacte avec les kaijus est difficile à appréhender mais se conclut rarement avec les individus maîtrisant déjà de grands pouvoirs. Ce sont plutôt les individus sans défense, charitables ou humbles qui parviennent à appeler les kaijus à leur secours.
+Le kaiju est un monstre démesurément grand, bien plus grand que la plupart des autres créatures. Chaque kaiju est unique, mais tous partagent certains traits communs (voir le [[sous-type kaiju]]). Il existe différents types de kaiju, mais ce sont généralement des créatures magiques. Ils sont semi-intelligents et comprennent une seule langue, qu’ils ne peuvent pas parler. Certaines légendes évoquent l’existence d’individus singuliers ou particulièrement doués capables d’appeler un kaiju sur de grandes distances pour bénéficier de son aide en cas d’extrême besoin. Ce type de pacte avec les kaijus est difficile à appréhender mais se conclut rarement avec les individus maîtrisant déjà de grands pouvoirs. Ce sont plutôt les individus sans défense, charitables ou humbles qui parviennent à appeler les kaijus à leur secours.
 
 Les kaijus occupent généralement des étendues sauvages, distantes et isolées, souvent à proximité d’un autre kaiju, ce qui est plutôt surprenant. Là, ils s’affrontent constamment, mais aucun des deux ne semble jamais vraiment prendre le dessus. Seule une défaite temporaire est concédée quand l’un ou l’autre se replie pour lécher ses blessures. Les individus présents dans les contrées reculées où des kaijus s’affrontent régulièrement n’auront pas trop à craindre d’eux lors de leurs explorations tant que leur présence n’est pas trop visible ou destructrice. À moins que l’on agresse le kaiju ou qu’il ne soit particulièrement agressif (lorsqu’il défend son territoire, par exemple), il est probable qu’il ignore les créatures de taille Moyenne ou Petite présentes dans le coin, tout comme un humain ignore une fourmi à ses pieds. Le métabolisme surnaturel du kaiju lui permet d’absorber de l’énergie magique et nutritionnelle de sources autres que la simple nourriture.
 

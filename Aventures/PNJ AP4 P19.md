@@ -4,14 +4,14 @@ Title: PNJ complémentaires Pathfinder
 LastModified: 2013-10-10 15:40
 ---
 
-- Fiche pour [^http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Kallien.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|Kallien]
+- Fiche pour [Kallien](http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Kallien.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1)
 
-- Fiche pour [^http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Garavel.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|Garavel]
+- Fiche pour [Garavel](http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Garavel.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1)
 
-- Fiche pour [^http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Haleen-Elfe.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|Haleen] (version elfe)
+- Fiche pour [Haleen](http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Haleen-Elfe.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1) (version elfe)
 
-- Fiche pour [^http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Felliped.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|Felliped]
+- Fiche pour [Felliped](http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Felliped.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1)
 
-- Fiche pour [^http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Oxvard.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|Oxvard] avec son [^http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Oxvard(BG).pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|background]
+- Fiche pour [Oxvard](http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Oxvard.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1) avec son [background](http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fPNJ-Oxvard(BG).pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1)
 
-retour vers [Aides de jeu AP4](./Aides de jeu AP4.md)
+retour vers [[Aides de jeu AP4]]

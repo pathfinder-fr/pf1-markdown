@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Collier étrangleur|{s:AE}}
-**Aura** [Invocation](./Invocation.md) puissante ; **NLS** 18 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Poids** —
+**Aura** [[Invocation]] puissante ; **NLS** 18 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Poids** —
 (((Description)))
-Ce collier semble être un bijou magique. Dès que quelqu’un l’attache à son cou, le collier se resserre aussitôt, infligeant 6 points de dégâts par [round](./round.md). On ne peut l’ôter qu’à l’aide des sorts *[souhait limité](./Souhait limité.md)*, *[souhait](./Souhait.md)* ou *[miracle](./Miracle.md)*. Il continue de serrer la gorge de sa victime même après la mort de celle-ci et relâche son étreinte uniquement lorsqu’elle s’est transformée en squelette desséché (ce qui prend environ un mois). À ce moment-là, il se desserre, prêt à étrangler une autre victime.
+Ce collier semble être un bijou magique. Dès que quelqu’un l’attache à son cou, le collier se resserre aussitôt, infligeant 6 points de dégâts par [[round]]. On ne peut l’ôter qu’à l’aide des sorts *[[souhait limité]]*, *[[souhait]]* ou *[[miracle]]*. Il continue de serrer la gorge de sa victime même après la mort de celle-ci et relâche son étreinte uniquement lorsqu’elle s’est transformée en squelette desséché (ce qui prend environ un mois). À ce moment-là, il se desserre, prêt à étrangler une autre victime.
 (((Objet magique prévu)))
-[charme antipoison](./Charme antipoison.md), [charme de bonne santé](./Charme de bonne santé.md), [charme de coagulation](./Charme de coagulation.md), [collier à boules de feu](./Collier à boules de feu.md), [collier d’adaptation](./Collier dadaptation.md)
+[[charme antipoison]], [[charme de bonne santé]], [[charme de coagulation]], [[collier à boules de feu]], [[collier dadaptation|collier d’adaptation]]
 </div>

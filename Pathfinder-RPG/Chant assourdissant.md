@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) ([sonore](./Registre.md)) ;** Niveau** [Bard](./Barde.md) 5  
+**École** [[Évocation]] ([[registre|sonore]]) ;** Niveau** [[Barde|Bard]] 5  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** jusqu'à trois créatures qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Le personnage chante ou joue trois notes qui se transforment en énergie profane tangible et hurlent sur tout le champ de bataille. Elles doivent réussir une [attaque de contact à distance](./attaque de contact à distance.md) pour toucher leur cible et infligent 3d10 points de dégâts sonores chacune et la rendent [sourde](./Assourdi.md) pendant 1d6 [rounds](./round.md). Les notes peuvent être dirigées contre une même cible ou contre plusieurs mais elles doivent toutes partir simultanément.
+Le personnage chante ou joue trois notes qui se transforment en énergie profane tangible et hurlent sur tout le champ de bataille. Elles doivent réussir une [[attaque de contact à distance]] pour toucher leur cible et infligent 3d10 points de dégâts sonores chacune et la rendent [[assourdi|sourde]] pendant 1d6 [[round|rounds]]. Les notes peuvent être dirigées contre une même cible ou contre plusieurs mais elles doivent toutes partir simultanément.

@@ -12,34 +12,34 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2  
+**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2  
 
 **Temps d'incantation** 10 minutes  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** 1 objet faisant jusqu’à 0,3 m3/[niveau](./niveau.md) ou une [créature artificielle](./type Créature artificielle.md) de n’importe quelle taille  
+**Cible** 1 objet faisant jusqu’à 0,3 m3/[[niveau]] ou une [[type créature artificielle|créature artificielle]] de n’importe quelle taille  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 
-Ce sort permet de réparer les dommages superficiels causés aux objets et leur rend 1d6 [points de vie](./points de vie.md) par [niveau de lanceur de sort](./NLS.md) (Maximum 5d6). Dans le cas d’un objet [cassé](./Brisé.md), l’objet n’est plus affecté par cette condition préjudiciable si l’objet se retrouve à au moins 50% de ses [points de vie](./points de vie.md). Pour que ce sort fonctionne, le personnage doit disposer de tous les morceaux de l’objet.
+Ce sort permet de réparer les dommages superficiels causés aux objets et leur rend 1d6 [[points de vie]] par [[NLS|niveau de lanceur de sort]] (Maximum 5d6). Dans le cas d’un objet [[brisé|cassé]], l’objet n’est plus affecté par cette condition préjudiciable si l’objet se retrouve à au moins 50% de ses [[points de vie]]. Pour que ce sort fonctionne, le personnage doit disposer de tous les morceaux de l’objet.
 
-Le personnage peut utiliser ce sort pour réparer un objet magique cassé à condition que son [niveau de lanceur de sorts](./NLS.md) soit égal ou supérieur à celui de l’objet. Il peut aussi réparer un objet magique détruit (à 0 point de vie ou moins) mais le sort ne lui rend pas ses aptitudes magiques que si le [niveau de lanceur de sorts](./NLS.md) du personnage est au moins le double de celui de l’objet. On ne peut pas réparer ainsi un [objet à charges](./Règles relatives aux objets magiques.md#CHARGESOBJETSMAGIQUES) (comme une [baguette](./Baguettes magiques.md)) ou à usage unique (comme les [potions](./Potions magiques.md) et les [parchemins](./Parchemins magiques.md)).
+Le personnage peut utiliser ce sort pour réparer un objet magique cassé à condition que son [[NLS|niveau de lanceur de sorts]] soit égal ou supérieur à celui de l’objet. Il peut aussi réparer un objet magique détruit (à 0 point de vie ou moins) mais le sort ne lui rend pas ses aptitudes magiques que si le [[NLS|niveau de lanceur de sorts]] du personnage est au moins le double de celui de l’objet. On ne peut pas réparer ainsi un [[Règles relatives aux objets magiques#CHARGESOBJETSMAGIQUES|objet à charges]] (comme une [[baguettes magiques|baguette]]) ou à usage unique (comme les [[potions magiques|potions]] et les [[parchemins magiques|parchemins]]).
 
-Ce sort n’affecte pas les créatures (sauf les [créatures artificielles](./type Créature artificielle.md)). Quand ce sort est utilisé sur une [créature artificielle](./type Créature artificielle.md), il ne tient pas compte de son [immunité à la magie](./immunité à la magie.md), comme si *réparation intégrale* ne tenait pas compte de la [résistance à la magie](./RM.md).
+Ce sort n’affecte pas les créatures (sauf les [[type créature artificielle|créatures artificielles]]). Quand ce sort est utilisé sur une [[type créature artificielle|créature artificielle]], il ne tient pas compte de son [[immunité à la magie]], comme si *réparation intégrale* ne tenait pas compte de la [[RM|résistance à la magie]].
 
 Ce sort n’a aucun effet sur les objets pervertis ou transmutés mais il peut réparer les dégâts qu’ils ont subis.
 
 
 
-(((Ce sort est semblable à *[réparation](./Réparation.md)*, si ce n’est qu’il répare 1d6 points de dégâts par [niveau de lanceur de sorts](./NLS.md) quand il est lancé sur une [créature artificielle](./type Créature artificielle.md) (jusqu’à un maximum de 5d6).
+(((Ce sort est semblable à *[[réparation]]*, si ce n’est qu’il répare 1d6 points de dégâts par [[NLS|niveau de lanceur de sorts]] quand il est lancé sur une [[type créature artificielle|créature artificielle]] (jusqu’à un maximum de 5d6).
 
-*Réparation intégrale* permet de réparer un objet magique détruit (à 0 points de vie ou moins) et de restaurer ses propriétés magiques si le [niveau de lanceur de sorts](./NLS.md) du personnage est au moins le double de celui de l’objet. On ne peut pas réparer ainsi un [objet à charges](./Règles relatives aux objets magiques.md#CHARGESOBJETSMAGIQUES) (comme une [baguette](./Baguettes magiques.md)) ou à usage unique (comme les [potions](./Potions magiques.md) et les [parchemins](./Parchemins magiques.md)). Quand ce sort est utilisé sur une [créature artificielle](./type Créature artificielle.md), il ne tient pas compte de son [immunité à la magie](./immunité à la magie.md), comme si *réparation intégrale* ne tenait pas compte de la [résistance à la magie](./RM.md).)))
+*Réparation intégrale* permet de réparer un objet magique détruit (à 0 points de vie ou moins) et de restaurer ses propriétés magiques si le [[NLS|niveau de lanceur de sorts]] du personnage est au moins le double de celui de l’objet. On ne peut pas réparer ainsi un [[Règles relatives aux objets magiques#CHARGESOBJETSMAGIQUES|objet à charges]] (comme une [[baguettes magiques|baguette]]) ou à usage unique (comme les [[potions magiques|potions]] et les [[parchemins magiques|parchemins]]). Quand ce sort est utilisé sur une [[type créature artificielle|créature artificielle]], il ne tient pas compte de son [[immunité à la magie]], comme si *réparation intégrale* ne tenait pas compte de la [[RM|résistance à la magie]].)))
 
 ### Mythique
 {s:CMy}
-Les dégâts réparés par le sort s’élèvent à 2d6 points par niveau de lanceur de sorts lorsque [réparation intégrale](./Réparation intégrale.md) affecte une créature artificielle (10d6 maximum). Une créature artificielle réparée à l’aide de ce sort gagne un bonus d’altération (+2) à une valeur de [caractéristique](./caractéristique.md) (au choix du personnage) pendant les vingt-quatre prochaines heures. Pour réparer un objet magique, le [niveau de lanceur de sorts](./NLS.md) du personnage doit juste égaler celui de l’objet (et non être le double).
+Les dégâts réparés par le sort s’élèvent à 2d6 points par niveau de lanceur de sorts lorsque [[réparation intégrale]] affecte une créature artificielle (10d6 maximum). Une créature artificielle réparée à l’aide de ce sort gagne un bonus d’altération (+2) à une valeur de [[caractéristique]] (au choix du personnage) pendant les vingt-quatre prochaines heures. Pour réparer un objet magique, le [[NLS|niveau de lanceur de sorts]] du personnage doit juste égaler celui de l’objet (et non être le double).

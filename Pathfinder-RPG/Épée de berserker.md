@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Épée de berserker|{s:AE}}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 8 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Poids** 4 kg
+**Aura** [[Évocation]] modérée ; **NLS** 8 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Poids** 4 kg
 (((Description)))
-Cette épée ressemble à une [épée à deux mains](./épée à deux mains (arme).md) +2 mais, quand son propriétaire s’en sert dans un véritable combat, il devient berserker (et profite de tous les avantages et inconvénients du pouvoir de [rage](./Barbare.md#RAGEDEBERSERKER) du [barbare](./Barbare.md)). Il attaque la créature la plus proche et continue de se battre jusqu’à ce qu’il tombe mort, inconscient ou qu’il n’y ait plus une seule créature vivante à moins de 9 mètres. Beaucoup de gens considèrent cette épée comme un objet maudit mais d’autres la voient comme une bénédiction.
+Cette épée ressemble à une [[épée à deux mains (arme)|épée à deux mains]] +2 mais, quand son propriétaire s’en sert dans un véritable combat, il devient berserker (et profite de tous les avantages et inconvénients du pouvoir de [[barbare#RAGEDEBERSERKER|rage]] du [[barbare]]). Il attaque la créature la plus proche et continue de se battre jusqu’à ce qu’il tombe mort, inconscient ou qu’il n’y ait plus une seule créature vivante à moins de 9 mètres. Beaucoup de gens considèrent cette épée comme un objet maudit mais d’autres la voient comme une bénédiction.
 (((Objet magique prévu)))
-[épée à deux mains](./épée à deux mains (arme).md) +2, autre [arme magique](./Armes magiques.md)
+[[épée à deux mains (arme)|épée à deux mains]] +2, autre [[armes magiques|arme magique]]
 </div>

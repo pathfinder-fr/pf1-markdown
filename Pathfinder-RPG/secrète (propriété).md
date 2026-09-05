@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Secrète
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Secrète](./Descriptions individuelles des propriétés spéciales des armes.md#Secrète)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Secrète]]

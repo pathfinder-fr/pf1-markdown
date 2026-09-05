@@ -13,19 +13,19 @@ Categories:
 ---
 
 {s:racial|Vanara (race)|vanaras|Illustrations/PNJ/Vanara.jpg}{s:MR}
-**École** [Transmutation](./Transmutation.md) ;
-**Niveau** [Alch](./Alchimiste.md) 3, [Bard](./Barde.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3  
+**École** [[Transmutation]] ;
+**Niveau** [[alchimiste|Alch]] 3, [[barde|Bard]] 3, [[ensorceleur|Ens]]/[[magicien|Mag]] 3, [[magus]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** contact  
 
 **Cible** une créature touchée  
 
-**Durée** 1 [round](./Vocabulaire courant.md#ROUND)/[niveau](./niveau.md)  
+**Durée** 1 [[Vocabulaire courant#ROUND|round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [annule](./Présentation des sorts.md) ([inoffensif](./Présentation des sorts.md)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md))
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts|annule]] ([[Présentation des sorts|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts|inoffensif]])
 
-La queue de la cible bouge et agit plus rapidement, presque comme si elle avait sa conscience propre. Lorsqu’elle accomplit une [Pathfinder-RPG.Actions complexes|action complexe], la cible peut utiliser sa queue pour effectuer un [sale coup](./Manœuvres offensives.md#SALECOUP) ou une [manœuvre offensive](./Manœuvres offensives.md) de [vol](./Manœuvres offensives.md#SUBTILISATION) par une [action rapide](./Actions rapides.md). Pour les besoins de cette attaque, la queue de la cible est considérée comme une [arme naturelle](./Actions simples.md#ATTAQUENATURELLE) ayant une allonge de 1,5 mètre. Ce sort n’a aucun effet sur les créatures dépourvues d’une queue préhensile. Si la cible a déjà une attaque supplémentaire grâce à [rapidité](./Rapidité.md) ou à un effet similaire, ce sort permet uniquement à la queue d’effectuer un sale coup et des manœuvres offensives de vol, mais n’accorde pas d’attaque supplémentaire.
+La queue de la cible bouge et agit plus rapidement, presque comme si elle avait sa conscience propre. Lorsqu’elle accomplit une [[Pathfinder-RPG.Actions complexes|action complexe]], la cible peut utiliser sa queue pour effectuer un [[Manœuvres offensives#SALECOUP|sale coup]] ou une [[Manœuvres offensives|manœuvre offensive]] de [[Manœuvres offensives#SUBTILISATION|vol]] par une [[Actions rapides|action rapide]]. Pour les besoins de cette attaque, la queue de la cible est considérée comme une [[Actions simples#ATTAQUENATURELLE|arme naturelle]] ayant une allonge de 1,5 mètre. Ce sort n’a aucun effet sur les créatures dépourvues d’une queue préhensile. Si la cible a déjà une attaque supplémentaire grâce à [[Rapidité]] ou à un effet similaire, ce sort permet uniquement à la queue d’effectuer un sale coup et des manœuvres offensives de vol, mais n’accorde pas d’attaque supplémentaire.

@@ -9,6 +9,6 @@ Categories:
 
 {s:AO}*Le personnage a étudié très sérieusement la magie mentale, ce qui l’aide à maîtriser sa discipline.*
 
-**Conditions.** Pouvoir de classe de [discipline psychique](./Psychiste.md#DISCIPLINEPSYCHIQUE).
+**Conditions.** Pouvoir de classe de [[psychiste#DISCIPLINEPSYCHIQUE|discipline psychique]].
 
-**Avantage.** Le personnage gagne un bonus de +1 aux tests de [niveau de lanceur de sorts](./NLS.md) et de [concentration](./Lancer des sorts.md#CONCENTRATION) quand il lance un sort issu de sa [discipline psychique](./Disciplines psychiques.md). Il gagne aussi un bonus d’intuition de +1 aux jets de sauvegarde contre les sorts de sa discipline.
+**Avantage.** Le personnage gagne un bonus de +1 aux tests de [[NLS|niveau de lanceur de sorts]] et de [[Lancer des sorts#CONCENTRATION|concentration]] quand il lance un sort issu de sa [[disciplines psychiques|discipline psychique]]. Il gagne aussi un bonus d’intuition de +1 aux jets de sauvegarde contre les sorts de sa discipline.

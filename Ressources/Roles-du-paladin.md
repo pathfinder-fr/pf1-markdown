@@ -5,14 +5,14 @@ LastModified: 2020-03-10 17:37
 ---
 
 ### Liste des rôles
-- [^++Aventures.Role-Apatride|Apatride]
-- [Role-Chevalier-du-Ciel|Chevalier du Ciel]
-- [Role-Devot|Dévot]
-- [Role-Fleau-des-morts-vivants|Fléau des morts-vivants]
-- [Role-Hospitalier|Hospitalier]
-- [Role-Militaire|Militaire]
-- [Role-Le-templier|Templier]
-- [Role-Tueur-de-Dragons|Tueur de Dragons]
+- [[Aventures.Role-Apatride|Apatride]]
+- [[Role-Chevalier-du-Ciel|Chevalier du Ciel]]
+- [[Role-Devot|Dévot]]
+- [[Role-Fleau-des-morts-vivants|Fléau des morts-vivants]]
+- [[Role-Hospitalier|Hospitalier]]
+- [[Role-Militaire|Militaire]]
+- [[Role-Le-templier|Templier]]
+- [[Role-Tueur-de-Dragons|Tueur de Dragons]]
 
 ### Les Vertus
 En plus d'être loyal-bon, chaque paladin se doit de suivre un code de conduite assez imprécis. Voici un certain nombre de "Vertus" qui peuvent s'appliquer à n'importe quel paladin. Tout paladin doit en choisir trois au début de sa carrière et les respecter scrupuleusement. En théorie, un paladin digne de ce nom doit les suivre toutes, mais les trois qui sont choisies sont considérées comme les plus importantes et manquer à l'une d'entre elle peut constituer une violation des principes du paladin.
@@ -103,32 +103,32 @@ En plus de toutes les autres conditions, le personnage doit être un prêtre ou 
 ##### Pouvoirs des armes
 Toutes les armes de paladins ont au moins une capacité spéciale, celles qui suivent me semblent les plus appropriées:
 
-- [^++Pathfinder-RPG.acérée (propriété)|Acérée] (+1, tous)
-- [^++Pathfinder-RPG.axiomatique (propriété)|Axiomatique] (+2, Dévot, Templier)
-- [^++Pathfinder-RPG.destruction (propriété)|Destruction] (+2, Fléau des morts-vivants)
-- Flammeblanche (+1, comme [^++Pathfinder-RPG.flammegrise (propriété)|Flammegrise], mais ne fonctionne qu'avec l'énergie positive, tous)
-- [^++Pathfinder-RPG.lumière (propriété)|Lumière] (+4, tous sauf Fléau des morts-vivants)
-- [^++Pathfinder-RPG.menaçante (propriété)|Menaçante] (+1, tous)
-- [^++Pathfinder-RPG.miséricordieuse (propriété)|Miséricordieuse] (+1, Hospitalier)
-- [^++Pathfinder-RPG.rapide (propriété)|Rapide] (+3, paladins elfiques)
-- [^++Pathfinder-RPG.sainte (propriété)|Sainte] (+2, tous)
-- [^++Pathfinder-RPG.spectrale (propriété)|Spectrale] (+1, Fléau des morts-vivants)
-- [^++Pathfinder-RPG.tueuse (propriété)|Tueuse] (+1, Fléau des morts-vivants, Pourfendeur de vers)
-- [^++Pathfinder-RPG.vorpale (propriété)|Vorpale] (+5, sauf Fléau des morts-vivants)
+- [[Pathfinder-RPG.acérée (propriété)|Acérée]] (+1, tous)
+- [[Pathfinder-RPG.axiomatique (propriété)|Axiomatique]] (+2, Dévot, Templier)
+- [[Pathfinder-RPG.destruction (propriété)|Destruction]] (+2, Fléau des morts-vivants)
+- Flammeblanche (+1, comme [[Pathfinder-RPG.flammegrise (propriété)|Flammegrise]], mais ne fonctionne qu'avec l'énergie positive, tous)
+- [[Pathfinder-RPG.lumière (propriété)|Lumière]] (+4, tous sauf Fléau des morts-vivants)
+- [[Pathfinder-RPG.menaçante (propriété)|Menaçante]] (+1, tous)
+- [[Pathfinder-RPG.miséricordieuse (propriété)|Miséricordieuse]] (+1, Hospitalier)
+- [[Pathfinder-RPG.rapide (propriété)|Rapide]] (+3, paladins elfiques)
+- [[Pathfinder-RPG.sainte (propriété)|Sainte]] (+2, tous)
+- [[Pathfinder-RPG.spectrale (propriété)|Spectrale]] (+1, Fléau des morts-vivants)
+- [[Pathfinder-RPG.tueuse (propriété)|Tueuse]] (+1, Fléau des morts-vivants, Pourfendeur de vers)
+- [[Pathfinder-RPG.vorpale (propriété)|Vorpale]] (+5, sauf Fléau des morts-vivants)
 
 ##### Pouvoirs des armures
-- [^++Pathfinder-RPG.attaque (propriété)|Attaque] (+1, sauf Guérisseur)
-- [^++Pathfinder-RPG.aveuglante (propriété)|Aveuglant] (+1, tous)
-- [^++Pathfinder-RPG.championne (propriété)|Championne] (+1, Militaire, Templier)
-- [^++Pathfinder-RPG.défense légère (propriété)|Defense] (+1/+3/+5, tous)
-- [^++Pathfinder-RPG.graisseuse (propriété)|Graisseuse] (+3750, Apatride)
-- [^++Pathfinder-RPG.graisseuse supérieure (propriété)|Graisseuse supérieure] (+15000 PO, Apatride)
-- [^++Pathfinder-RPG.graisseuse suprême (propriété)|Graisseuse suprême] (+33750 PO, Apatride)
-- [^++Pathfinder-RPG.invulnérabilité (propriété)|Invulnérabilité] (+3, tous)
-- [^++Pathfinder-RPG.joute (propriété)|Joute] (+1, Chevalier du ciel, Militaire)
-- [^++Pathfinder-RPG.mimétisme (propriété armure)|Mimétisme] (+2700 PO, Apatride)
-- [^++Pathfinder-RPG.résistance aux énergies destructives (propriété)|Résistance aux énergie] (+18000 PO, Pourfendeur de vers)
-- [^++Pathfinder-RPG.résistance supérieure aux énergies destructives (propriété)|Résistance aux énergies supérieure] (+42000 PO, Pourfendeur de vers)
-- [^++Pathfinder-RPG.résistance suprême aux énergies destructives (propriété)|Résistance aux énergies suprême] (+66000 PO, Pourfendeur de vers)
-- [^++Pathfinder-RPG.spectrale (propriété armure)|Spectrale] (+3, Fléau des morts-vivants)
-- [^++Pathfinder-RPG.vertueuse (propriété)|Vertueuse] (+27000 PO, Dévot)
+- [[Pathfinder-RPG.attaque (propriété)|Attaque]] (+1, sauf Guérisseur)
+- [[Pathfinder-RPG.aveuglante (propriété)|Aveuglant]] (+1, tous)
+- [[Pathfinder-RPG.championne (propriété)|Championne]] (+1, Militaire, Templier)
+- [[Pathfinder-RPG.défense légère (propriété)|Defense]] (+1/+3/+5, tous)
+- [[Pathfinder-RPG.graisseuse (propriété)|Graisseuse]] (+3750, Apatride)
+- [[Pathfinder-RPG.graisseuse supérieure (propriété)|Graisseuse supérieure]] (+15000 PO, Apatride)
+- [[Pathfinder-RPG.graisseuse suprême (propriété)|Graisseuse suprême]] (+33750 PO, Apatride)
+- [[Pathfinder-RPG.invulnérabilité (propriété)|Invulnérabilité]] (+3, tous)
+- [[Pathfinder-RPG.joute (propriété)|Joute]] (+1, Chevalier du ciel, Militaire)
+- [[Pathfinder-RPG.mimétisme (propriété armure)|Mimétisme]] (+2700 PO, Apatride)
+- [[Pathfinder-RPG.résistance aux énergies destructives (propriété)|Résistance aux énergie]] (+18000 PO, Pourfendeur de vers)
+- [[Pathfinder-RPG.résistance supérieure aux énergies destructives (propriété)|Résistance aux énergies supérieure]] (+42000 PO, Pourfendeur de vers)
+- [[Pathfinder-RPG.résistance suprême aux énergies destructives (propriété)|Résistance aux énergies suprême]] (+66000 PO, Pourfendeur de vers)
+- [[Pathfinder-RPG.spectrale (propriété armure)|Spectrale]] (+3, Fléau des morts-vivants)
+- [[Pathfinder-RPG.vertueuse (propriété)|Vertueuse]] (+27000 PO, Dévot)

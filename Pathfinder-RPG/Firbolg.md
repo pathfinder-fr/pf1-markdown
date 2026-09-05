@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Firbolg|FP 4}
 {s:pucem|Humanoïde|Collines|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.129](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.129]]*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, N}
-{s:BDTexte|**Init** +5 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 10, pris au dépourvu 17 (armure +2, Dex +1, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 39 (6d8+12)}
@@ -24,20 +24,20 @@ Categories:
 {s:BDTexte|**Corps à corps** grande hache de taille TG, +8 (3d8+7/×3)}
 {s:BDTexte|**Distance** rocher, +5 (2d6+10)}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m}
-{s:BDTexte|**Attaques spéciales** armes de taille supérieure, [lancer de rochers](./Lancer de rochers (capacité).md) (36 m)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 6 ; [concentration](./concentration.md) +8)}
-{s:BDSorts|À volonté — *[rapetissement](./Rapetissement.md)* (DD 13)}
-{s:BDSorts|1/jour — *[confusion](./Confusion.md)* (DD 16), *[détection de la magie](./Détection de la magie.md)*, *[modification d'apparence](./Modification dapparence.md)*, *[repérage](./Repérage.md)*}
+{s:BDTexte|**Attaques spéciales** armes de taille supérieure, [[Lancer de rochers (capacité)|lancer de rochers]] (36 m)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 6 ; [[concentration]] +8)}
+{s:BDSorts|À volonté — *[[rapetissement]]* (DD 13)}
+{s:BDSorts|1/jour — *[[confusion]]* (DD 16), *[[détection de la magie]]*, *[[modification dapparence|modification d'apparence]]*, *[[repérage]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 13, **Con** 14, **Int** 15, **Sag** 13, **Cha** 14}
 {s:BDTexte|**BBA** +4 ; **BMO** +10 ; **DMD** 21}
-{s:BDTexte|**Dons** [Parade de projectiles](./Parade de projectiles.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (nature) +6, [Discrétion](./Discrétion.md) +1, [Escalade](./Escalade.md) +12, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +5, [Survie](./Survie.md) +8}
+{s:BDTexte|**Dons** [[Parade de projectiles]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (nature) +6, [[Discrétion]] +1, [[Escalade]] +12, [[Perception]] +8, [[Psychologie]] +5, [[Survie]] +8}
 {s:BDTexte|**Langues** commun, géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines ou forêts tempérées}
 {s:BDTexte|**Organisation** solitaire, couple, bande (3-8), clan (9-16) ou enclave (10-40)}
-{s:BDTexte|**Trésor** standard ([armure de cuir](./armure de cuir (armure).md), [grande hache](./Grande hache (arme).md), sac contenant d’autres trésors)}
+{s:BDTexte|**Trésor** standard ([[armure de cuir (armure)|armure de cuir]], [[grande hache (arme)|grande hache]], sac contenant d’autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Armes de taille supérieure (Ext).** En ce qui concerne la taille des armes qu’un firbolg peut manier, on considère qu’il est plus grand d’une catégorie par rapport à sa taille normale.}
 

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Assourdi
 ---
 
->>> [États préjudiciables#Assourdi](./États préjudiciables.md#Assourdi)
+>>> [[États préjudiciables#Assourdi]]

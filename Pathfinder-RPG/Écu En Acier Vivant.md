@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Écu en acier vivant|{s:AE}}
-**Aura** aucune (non-magique) ; **NLS** — ; **Emplacement** [bouclier](./Boucliers magiques spécifiques.md) ; **Prix** 120 po ; **Poids** 7,5 kg
+**Aura** aucune (non-magique) ; **NLS** — ; **Emplacement** [[Boucliers magiques spécifiques|bouclier]] ; **Prix** 120 po ; **Poids** 7,5 kg
 (((Description)))
-Cet [écu en acier](./écu (armure).md) non magique est fait en [acier vivant](./Matériaux spéciaux.md#ACIERVIVANT). Il ne possède aucun bonus d’altération mais il peut infliger des dégâts aux armes métalliques qui le frappent. Si un attaquant qui brandit une arme métallique (à l’exception des armes en [adamantium](./../Golarion/adamantium.md)) obtient un 1 naturel à son [jet d’attaque](./jet dattaque.md) contre une créature qui se protège à l’aide d’un *écu en acier vivant*, l’arme doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 20 pour ne pas se [briser](./Brisé.md). Si l’arme est déjà [brisée](./Brisé.md), elle est alors détruite.
+Cet [[écu (armure)|écu en acier]] non magique est fait en [[matériaux spéciaux#ACIERVIVANT|acier vivant]]. Il ne possède aucun bonus d’altération mais il peut infliger des dégâts aux armes métalliques qui le frappent. Si un attaquant qui brandit une arme métallique (à l’exception des armes en [[adamantium]]) obtient un 1 naturel à son [[jet dattaque|jet d’attaque]] contre une créature qui se protège à l’aide d’un *écu en acier vivant*, l’arme doit réussir un jet de [[Vigueur]] [[DD]] 20 pour ne pas se [[brisé|briser]]. Si l’arme est déjà [[brisé|brisée]], elle est alors détruite.
 (((Création)))
 **Conditions** — ; **Coût** 40 po
 </div>

@@ -8,9 +8,9 @@ LastModified: 2014-07-06 12:59
 
 <b>Accès :</b> Mon Personnage/Onglet Autres/Compétences
 
-[My Hero|Retour racine du Manuel]</div>
+[[My Hero|Retour racine du Manuel]]</div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/Slide32.jpg|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MonPerso|Mon Personnage]
+<OL><LI>Retour vers [[MH-MonPerso|Mon Personnage]]
 </OL>
 <center></center></td></tr></table>

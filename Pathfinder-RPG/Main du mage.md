@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Main du mage|}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 2 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Prix** 900 po ; **Poids** 1 kg
+**Aura** [[Transmutation]] faible ; **NLS** 2 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Prix** 900 po ; **Poids** 1 kg
 (((Description)))
-Cette main d’[elfe](./Elfe.md) momifiée est fixée à une chaîne en or permettant de la porter autour du cou (ce qui interdit tout autre objet de type collier ou amulette). Elle permet à son possesseur de lancer à volonté le sort *[manipulation à distance](./Manipulation à distance.md)*.
+Cette main d’[[elfe]] momifiée est fixée à une chaîne en or permettant de la porter autour du cou (ce qui interdit tout autre objet de type collier ou amulette). Elle permet à son possesseur de lancer à volonté le sort *[[manipulation à distance]]*.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[manipulation à distance](./Manipulation à distance.md)* ; **Coût** 450 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[manipulation à distance]]* ; **Coût** 450 po
 </div>

@@ -43,65 +43,65 @@ LastModified: 2024-08-25 22:44
 |- CLASS="titre"
 | D100 || Baguette commune || Prix(po)
 |- CLASS="premier"
-| 01-07 || *[aspersion acide](./Aspersion acide.md)* || 375
+| 01-07 || *[[aspersion acide]]* || 375
 |-
-| 08-14 || *[création d’eau](./Création deau.md)* || 375
+| 08-14 || *[[création deau|création d’eau]]* || 375
 |-
-| 15-20 || *[hébétement](./Hébétement.md)* || 375
+| 15-20 || *[[hébétement]]* || 375
 |-
-| 21-28 || *[détection de la magie](./Détection de la magie.md)* || 375
+| 21-28 || *[[détection de la magie]]* || 375
 |-
-| 29-34 || *[son imaginaire](./Son imaginaire.md)* || 375
+| 29-34 || *[[son imaginaire]]* || 375
 |-
-| 35-42 || *[lumière](./Lumière.md)* || 375
+| 35-42 || *[[lumière]]* || 375
 |-
-| 43-49 || *[manipulation à distance](./Manipulation à distance.md)* || 375
+| 43-49 || *[[manipulation à distance]]* || 375
 |-
-| 50-55 || *[réparation](./Réparation.md)* || 375
+| 50-55 || *[[réparation]]* || 375
 |-
-| 56-60 || *[message](./Message.md)* || 375
+| 56-60 || *[[message]]* || 375
 |-
-| 61-66 || *[prestidigitation](./Prestidigitation.md)* || 375
+| 61-66 || *[[prestidigitation]]* || 375
 |-
-| 67-73 || *[purification de nourriture et d’eau](./Purification de nourriture et deau.md)* || 375
+| 67-73 || *[[purification de nourriture et deau|purification de nourriture et d’eau]]* || 375
 |-
-| 74-81 || *[rayon de givre](./Rayon de givre.md)* || 375
+| 74-81 || *[[rayon de givre]]* || 375
 |-
-| 82-88 || *[lecture de la magie](./Lecture de la magie.md)* || 375
+| 82-88 || *[[lecture de la magie]]* || 375
 |-
-| 89-95 || *[stabilisation](./Stabilisation.md)* || 375
+| 89-95 || *[[stabilisation]]* || 375
 |-
-| 96-100 || *[fatigue](./Fatigue.md)* || 375
+| 96-100 || *[[fatigue]]* || 375
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Baguette hors du commun || Prix(po)
 |- CLASS="premier"
-| 01-06 || *[signature magique](./Signature magique.md)* || 375
+| 01-06 || *[[signature magique]]* || 375
 |-
-| 07-15 || *[saignement](./Saignement.md)* || 375
+| 07-15 || *[[saignement]]* || 375
 |-
-| 16-22 || *[lumières dansantes](./Lumières dansantes.md)* || 375
+| 16-22 || *[[lumières dansantes]]* || 375
 |-
-| 23-31 || *[détection du poison](./Détection du poison.md)* || 375
+| 23-31 || *[[détection du poison]]* || 375
 |-
-| 32-40 || *[destruction de mort-vivant](./Destruction de mort-vivant.md)* || 375
+| 32-40 || *[[destruction de mort-vivant]]* || 375
 |-
-| 41-48 || *[illumination](./Illumination.md)* || 375
+| 41-48 || *[[illumination]]* || 375
 |-
-| 49-56 || *[assistance divine](./Assistance divine.md)* || 375
+| 49-56 || *[[assistance divine]]* || 375
 |-
-| 57-65 || *[repérage](./Repérage.md)* || 375
+| 57-65 || *[[repérage]]* || 375
 |-
-| 66-73 || *[berceuse](./Berceuse.md)* || 375
+| 66-73 || *[[berceuse]]* || 375
 |-
-| 74-79 || *[ouverture/fermeture](./Ouverturefermeture.md)* || 375
+| 74-79 || *[[ouverturefermeture|ouverture/fermeture]]* || 375
 |-
-| 80-86 || *[résistance](./résistance.md)* || 375
+| 80-86 || *[[résistance]]* || 375
 |-
-| 87-94 || *[étincelles](./Étincelles.md)* || 375
+| 87-94 || *[[étincelles]]* || 375
 |-
-| 95-100 || *[stimulant](./Stimulant.md)* || 375
+| 95-100 || *[[stimulant]]* || 375
 |}
 
 {| CLASS="tablo centre autoalt" WIDTH="94%"
@@ -109,203 +109,203 @@ LastModified: 2024-08-25 22:44
 |- CLASS="titre"
 | D100 || Baguette commune || Prix(po)
 |- CLASS="premier"
-| 01-02 || *[alarme](./Alarme.md)* || 750
+| 01-02 || *[[alarme]]* || 750
 |-
-| 03 || *[corde animée](./Corde animée.md)* || 750
+| 03 || *[[corde animée]]* || 750
 |-
-| 04-05 || *[imprécation](./Imprécation.md)* || 750
+| 04-05 || *[[imprécation]]* || 750
 |-
-| 06-11 || *[bénédiction](./Bénédiction.md)* || 750
+| 06-11 || *[[bénédiction]]* || 750
 |-
-| 12-14 || *[mains brûlantes](./Mains brûlantes.md)* || 750
+| 12-14 || *[[mains brûlantes]]* || 750
 |-
-| 15-17 || *[frayeur](./Frayeur.md)* || 750
+| 15-17 || *[[frayeur]]* || 750
 |-
-| 18-19 || *[charme-personne](./Charme-personne.md)* || 750
+| 18-19 || *[[charme-personne]]* || 750
 |-
-| 20-21 || *[couleurs dansantes](./Couleurs dansantes.md)* || 750
+| 20-21 || *[[couleurs dansantes]]* || 750
 |-
-| 22-23 || *[injonction](./Injonction.md)* || 750
+| 22-23 || *[[injonction]]* || 750
 |-
-| 24 || *[compréhension des langages](./Compréhension des langages.md)* || 750
+| 24 || *[[compréhension des langages]]* || 750
 |-
-| 25-31 || *[soins légers](./Soins légers.md)* || 750
+| 25-31 || *[[soins légers]]* || 750
 |-
-| 32-33 || *[déguisement](./Déguisement.md)* || 750
+| 32-33 || *[[déguisement]]* || 750
 |-
-| 34-37 || *[faveur divine](./Faveur divine.md)* || 750
+| 34-37 || *[[faveur divine]]* || 750
 |-
-| 38 || *[endurance aux énergies destructives](./Endurance aux énergies destructives.md)* || 750
+| 38 || *[[endurance aux énergies destructives]]* || 750
 |-
-| 39-41 || *[agrandissement](./Agrandissement.md)* || 750
+| 39-41 || *[[agrandissement]]* || 750
 |-
-| 42-43 || *[enchevêtrement](./Enchevêtrement.md)* || 750
+| 42-43 || *[[enchevêtrement]]* || 750
 |-
-| 44-45 || *[repli expéditif](./Repli expéditif.md)* || 750
+| 44-45 || *[[repli expéditif]]* || 750
 |-
-| 46 || *[feuille morte](./Feuille morte.md)* || 750
+| 46 || *[[feuille morte]]* || 750
 |-
-| 47-48 || *[graisse](./Graisse.md)* || 750
+| 47-48 || *[[graisse]]* || 750
 |-
-| 49-50 || *[identification](./Identification.md)* || 750
+| 49-50 || *[[identification]]* || 750
 |-
-| 51-52 || *[blessure légère](./Blessure légère.md)* || 750
+| 51-52 || *[[blessure légère]]* || 750
 |-
-| 53-58 || *[armure de mage](./Armure de mage.md)* || 750
+| 53-58 || *[[armure de mage]]* || 750
 |-
-| 59-60 || *[morsure magique](./Morsure magique.md)* || 750
+| 59-60 || *[[morsure magique]]* || 750
 |-
-| 61-67 || *[projectile magique](./Projectile magique.md)* || 750
+| 61-67 || *[[projectile magique]]* || 750
 |-
-| 68 || *[pierre magique](./Pierre magique.md)* || 750
+| 68 || *[[pierre magique]]* || 750
 |-
-| 69-70 || *[arme magique](./Arme magique.md)* || 750
+| 69-70 || *[[arme magique]]* || 750
 |-
-| 71 || *[brume de dissimulation](./Brume de dissimulation.md)* || 750
+| 71 || *[[brume de dissimulation]]* || 750
 |-
-| 72-73 || *[flammes](./Flammes.md)* || 750
+| 72-73 || *[[flammes]]* || 750
 |-
-| 74 || *[protection contre le Chaos](./Protection contre le Chaos.md)* || 750
+| 74 || *[[protection contre le Chaos]]* || 750
 |-
-| 75 || *[protection contre le Mal](./Protection contre le Mal.md)* || 750
+| 75 || *[[protection contre le Mal]]* || 750
 |-
-| 76 || *[protection contre le Bien](./Protection contre le Bien.md)* || 750
+| 76 || *[[protection contre le Bien]]* || 750
 |-
-| 77 || *[protection contre la Loi](./Protection contre la Loi.md)* || 750
+| 77 || *[[protection contre la Loi]]* || 750
 |-
-| 78-79 || *[rayon affaiblissant](./Rayon affaiblissant.md)* || 750
+| 78-79 || *[[rayon affaiblissant]]* || 750
 |-
-| 80-81 || *[regain d’assurance](./Regain dassurance.md)* || 750
+| 80-81 || *[[regain dassurance|regain d’assurance]]* || 750
 |-
-| 82-84 || *[bouclier](./Bouclier.md)* || 750
+| 82-84 || *[[bouclier]]* || 750
 |-
-| 85-86 || *[bouclier de la foi](./Bouclier de la foi.md)* || 750
+| 85-86 || *[[bouclier de la foi]]* || 750
 |-
-| 87 || *[gourdin magique](./Gourdin magique.md)* || 750
+| 87 || *[[gourdin magique]]* || 750
 |-
-| 88-89 || *[décharge électrique](./Décharge électrique.md)* || 750
+| 88-89 || *[[décharge électrique]]* || 750
 |-
-| 90 || *[image silencieuse](./Image silencieuse.md)* || 750
+| 90 || *[[image silencieuse]]* || 750
 |-
-| 91-94 || *[sommeil](./Sommeil.md)* || 750
+| 91-94 || *[[sommeil]]* || 750
 |-
-| 95 || *[convocation de monstres I](./Convocation de monstres I.md)* || 750
+| 95 || *[[convocation de monstres I]]* || 750
 |-
-| 96 || *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)* || 750
+| 96 || *[[convocation dalliés naturels I|convocation d’alliés naturels I]]* || 750
 |-
-| 97-99 || *[coup au but](./Coup au but.md)* || 750
+| 97-99 || *[[coup au but]]* || 750
 |-
-| 100 || *[serviteur invisible](./Serviteur invisible.md)* || 750
+| 100 || *[[serviteur invisible]]* || 750
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Baguette hors du commun || Prix(po)
 |- CLASS="premier"
-| 01-02 || *[charge de fourmi](./Charge de fourmi.md)* || 750
+| 01-02 || *[[charge de fourmi]]* || 750
 |-
-| 03-05 || *[aspect du faucon](./Aspect du faucon.md)* || 750
+| 03-05 || *[[aspect du faucon]]* || 750
 |-
-| 06-07 || *[bénédiction d’arme](./Bénédiction darme.md)* || 750
+| 06-07 || *[[bénédiction darme|bénédiction d’arme]]* || 750
 |-
-| 08 || *[apaisement des animaux](./Apaisement des animaux.md)* || 750
+| 08 || *[[apaisement des animaux]]* || 750
 |-
-| 09-10 || *[charme-animal](./Charme-animal.md)* || 750
+| 09-10 || *[[charme-animal]]* || 750
 |-
-| 11-12 || *[contact glacial](./Contact glacial.md)* || 750
+| 11-12 || *[[contact glacial]]* || 750
 |-
-| 13-14 || *[hostilité forcée](./Hostilité forcée.md)* || 750
+| 13-14 || *[[hostilité forcée]]* || 750
 |-
-| 15-17 || *[confusion mineure](./Confusion mineure.md)* || 750
+| 15-17 || *[[confusion mineure]]* || 750
 |-
-| 18-19 || *[contact corrosif](./contact corrosif.md)* || 750
+| 18-19 || *[[contact corrosif]]* || 750
 |-
-| 20-21 || *[perception de la mort](./Perception de la mort.md)* || 750
+| 20-21 || *[[perception de la mort]]* || 750
 |-
-| 22 || *[détection de la faune ou de la flore](./Détection de la faune ou de la flore.md)* || 750
+| 22 || *[[détection de la faune ou de la flore]]* || 750
 |-
-| 23 || *[détection du Chaos](./Détection du Chaos.md)* || 750
+| 23 || *[[détection du Chaos]]* || 750
 |-
-| 24 || *[détection du Mal](./Détection du Mal.md)* || 750
+| 24 || *[[détection du Mal]]* || 750
 |-
-| 25 || *[détection du Bien](./Détection du Bien.md)* || 750
+| 25 || *[[détection du Bien]]* || 750
 |-
-| 26 || *[détection de la Loi](./Détection de la Loi.md)* || 750
+| 26 || *[[détection de la Loi]]* || 750
 |-
-| 27-28 || *[détection des passages secrets](./Détection des passages secrets.md)* || 750
+| 27-28 || *[[détection des passages secrets]]* || 750
 |-
-| 29 || *[détection des collets et des fosses](./Détection des collets et des fosses.md)* || 750
+| 29 || *[[détection des collets et des fosses]]* || 750
 |-
-| 30-31 || *[détection des morts-vivants](./Détection des morts-vivants.md)* || 750
+| 30-31 || *[[détection des morts-vivants]]* || 750
 |-
-| 32-35 || *[anathème](./Anathème.md)* || 750
+| 32-35 || *[[anathème]]* || 750
 |-
-| 36-37 || *[bouclier entropique](./Bouclier entropique.md)* || 750
+| 36-37 || *[[bouclier entropique]]* || 750
 |-
-| 38 || *[effacement](./Effacement.md)* || 750
+| 38 || *[[effacement]]* || 750
 |-
-| 39 || *[lueur féerique](./Lueur féerique.md)* || 750
+| 39 || *[[lueur féerique]]* || 750
 |-
-| 40-41 || *[démarche aérienne](./Démarche aérienne.md)* || 750
+| 40-41 || *[[démarche aérienne]]* || 750
 |-
-| 42-44 || *[disque flottant](./Disque flottant.md)* || 750
+| 42-44 || *[[disque flottant]]* || 750
 |-
-| 45-47 || *[baie nourricière](./Baie nourricière.md)* || 750
+| 45-47 || *[[baie nourricière]]* || 750
 |-
-| 48-49 || *[invisibilité pour les animaux](./Invisibilité pour les animaux.md)* || 750
+| 48-49 || *[[invisibilité pour les animaux]]* || 750
 |-
-| 50-51 || *[invisibilité pour les morts-vivants](./Invisibilité pour les morts-vivants.md)* || 750
+| 50-51 || *[[invisibilité pour les morts-vivants]]* || 750
 |-
-| 52 || *[fou rire](./Fou rire.md)* || 750
+| 52 || *[[fou rire]]* || 750
 |-
-| 53-54 || *[verrouillage](./Verrouillage.md)* || 750
+| 53-54 || *[[verrouillage]]* || 750
 |-
-| 55-56 || *[hypnose](./Hypnose.md)* || 750
+| 55-56 || *[[hypnose]]* || 750
 |-
-| 57-58 || *[dague de stalactite](./Dague de stalactite.md)* || 750
+| 57-58 || *[[dague de stalactite]]* || 750
 |-
-| 59-60 || *[mauvais présage](./mauvais présage.md)* || 750
+| 59-60 || *[[mauvais présage]]* || 750
 |-
-| 61-63 || *[saut](./Saut.md)* || 750
+| 61-63 || *[[saut]]* || 750
 |-
-| 64-65 || *[grand pas](./Grand pas.md)* || 750
+| 64-65 || *[[grand pas]]* || 750
 |-
-| 66 || *[aura magique](./Aura magique.md)* || 750
+| 66 || *[[aura magique]]* || 750
 |-
-| 67-68 || *[monture](./Monture.md)* || 750
+| 67-68 || *[[monture]]* || 750
 |-
-| 69 || *[dissimulation d’objet](./Dissimulation dobjet.md)* || 750
+| 69 || *[[dissimulation dobjet|dissimulation d’objet]]* || 750
 |-
-| 70-71 || *[passage sans trace](./passage sans trace.md)* || 750
+| 70-71 || *[[passage sans trace]]* || 750
 |-
-| 72 || *[rayon de fièvre](./Rayon de fièvre.md)* || 750
+| 72 || *[[rayon de fièvre]]* || 750
 |-
-| 73-75 || *[rapetissement](./Rapetissement.md)* || 750
+| 73-75 || *[[rapetissement]]* || 750
 |-
-| 76-78 || *[sanctuaire](./Sanctuaire.md)* || 750
+| 76-78 || *[[sanctuaire]]* || 750
 |-
-| 79-80 || *[bouclier de foudre](./Bouclier de foudre.md)* || 750
+| 79-80 || *[[bouclier de foudre]]* || 750
 |-
-| 81-83 || *[communication avec les animaux](./Communication avec les animaux.md)* || 750
+| 81-83 || *[[communication avec les animaux]]* || 750
 |-
-| 84-85 || *[poing de pierre](./Poing de pierre.md)* || 750
+| 84-85 || *[[poing de pierre]]* || 750
 |-
-| 86-87 || *[bouclier de pierre](./Bouclier de pierre.md)* || 750
+| 86-87 || *[[bouclier de pierre]]* || 750
 |-
-| 88 || *[convocation de monstres mineure](./Convocation de monstre mineur.md)* || 750
+| 88 || *[[convocation de monstre mineur|convocation de monstres mineure]]* || 750
 |-
-| 89 || *[alignement indétectable](./Alignement indétectable.md)* || 750
+| 89 || *[[alignement indétectable]]* || 750
 |-
-| 90-92 || *[grâce urbaine](./grâce urbaine.md)* || 750
+| 90-92 || *[[grâce urbaine]]* || 750
 |-
-| 93-96 || *[disparition](./Disparition.md)* || 750
+| 93-96 || *[[disparition]]* || 750
 |-
-| 97 || *[ventriloquie](./Ventriloquie.md)* || 750
+| 97 || *[[ventriloquie]]* || 750
 |-
-| 98 || *[bouche magique](./Bouche magique.md)* || 1 250
+| 98 || *[[bouche magique]]* || 1 250
 |-
-| 99 || *[bénédiction de l’eau](./Bénédiction de leau.md)* || 2 000
+| 99 || *[[bénédiction de leau|bénédiction de l’eau]]* || 2 000
 |-
-| 100 || *[malédiction de l’eau](./Malédiction de leau.md)* || 2 000
+| 100 || *[[malédiction de leau|malédiction de l’eau]]* || 2 000
 |}
 
 {| CLASS="tablo centre autoalt" WIDTH="94%"
@@ -313,209 +313,209 @@ LastModified: 2024-08-25 22:44
 |- CLASS="titre"
 | D100 || Baguette commune || Prix(po)
 |- CLASS="premier"
-| 01-02 || *[flèche acide](./Flèche acide.md)* || 4 500
+| 01-02 || *[[flèche acide]]* || 4 500
 |-
-| 03 || *[aide](./Aide.md)* || 4 500
+| 03 || *[[aide]]* || 4 500
 |-
-| 04-05 || *[modification d’apparence](./Modification dapparence.md)* || 4 500
+| 04-05 || *[[modification dapparence|modification d’apparence]]* || 4 500
 |-
-| 06-07 || *[peau d’écorce](./Peau décorce.md)* || 4 500
+| 06-07 || *[[peau décorce|peau d’écorce]]* || 4 500
 |-
-| 08-10 || *[endurance de l’ours](./Endurance de lours.md)* || 4 500 po
+| 08-10 || *[[endurance de lours|endurance de l’ours]]* || 4 500 po
 |-
-| 11 || *[flou](./Flou.md)* || 4 500
+| 11 || *[[flou]]* || 4 500
 |-
-| 12-14 || *[force de taureau](./Force de taureau.md)* || 4 500
+| 12-14 || *[[force de taureau]]* || 4 500
 |-
-| 15-16 || *[grâce féline](./Grâce féline.md)* || 4 500
+| 15-16 || *[[grâce féline]]* || 4 500
 |-
-| 17-22 || *[soins modérés](./Soins modérés.md)* || 4 500
+| 17-22 || *[[soins modérés]]* || 4 500
 |-
-| 23-25 || *[ténèbres](./Ténèbres.md)* || 4 500
+| 23-25 || *[[ténèbres]]* || 4 500
 |-
-| 26 || *[vision dans le noir](./vision dans le noir.md)* || 4 500
+| 26 || *[[vision dans le noir]]* || 4 500
 |-
-| 27 || *[ralentissement du poison](./Ralentissement du poison.md)* || 4 500
+| 27 || *[[ralentissement du poison]]* || 4 500
 |-
-| 28-29 || *[splendeur de l’aigle](./Splendeur de laigle.md)* || 4 500
+| 28-29 || *[[splendeur de laigle|splendeur de l’aigle]]* || 4 500
 |-
-| 30 || *[simulacre de vie](./Simulacre de vie.md)* || 4 500
+| 30 || *[[simulacre de vie]]* || 4 500
 |-
-| 31 || *[détection des pièges](./Détection des pièges.md)* || 4 500
+| 31 || *[[détection des pièges]]* || 4 500
 |-
-| 32 || *[lame de feu](./Lame de feu.md)* || 4 500
+| 32 || *[[lame de feu]]* || 4 500
 |-
-| 33 || *[sphère de feu](./Sphère de feu.md)* || 4 500
+| 33 || *[[sphère de feu]]* || 4 500
 |-
-| 34-35 || *[nappe de brouillard](./Nappe de brouillard.md)* || 4 500
+| 34-35 || *[[nappe de brouillard]]* || 4 500
 |-
-| 36-37 || *[ruse du renard](./Ruse du renard.md)* || 4 500
+| 36-37 || *[[ruse du renard]]* || 4 500
 |-
-| 38 || *[poussière scintillante](./Poussière scintillante.md)* || 4 500
+| 38 || *[[poussière scintillante]]* || 4 500
 |-
-| 39-40 || *[métal brûlant](./Métal brûlant.md)* || 4 500
+| 39-40 || *[[métal brûlant]]* || 4 500
 |-
-| 41-43 || *[immobilisation de personne](./Immobilisation de personne.md)* || 4 500
+| 41-43 || *[[immobilisation de personne]]* || 4 500
 |-
-| 44-46 || *[blessure modérée](./Blessure modérée.md)* || 4 500
+| 44-46 || *[[blessure modérée]]* || 4 500
 |-
-| 47-51 || *[invisibilité](./Invisibilité.md)* || 4 500
+| 47-51 || *[[invisibilité]]* || 4 500
 |-
-| 52 || *[déblocage](./Déblocage.md)* || 4 500
+| 52 || *[[déblocage]]* || 4 500
 |-
-| 53-54 || *[lévitation](./Lévitation.md)* || 4 500
+| 53-54 || *[[lévitation]]* || 4 500
 |-
-| 55 || *[image imparfaite](./Image imparfaite.md)* || 4 500
+| 55 || *[[image imparfaite]]* || 4 500
 |-
-| 56-57 || *[image miroir](./Image miroir.md)* || 4 500
+| 56-57 || *[[image miroir]]* || 4 500
 |-
-| 58-59 || *[sagesse du hibou](./Sagesse du hibou.md)* || 4 500
+| 58-59 || *[[sagesse du hibou]]* || 4 500
 |-
-| 60 || *[pyrotechnie](./Pyrotechnie.md)* || 4 500
+| 60 || *[[pyrotechnie]]* || 4 500
 |-
-| 61 || *[délivrance de la paralysie](./Délivrance de la paralysie.md)* || 4 500
+| 61 || *[[délivrance de la paralysie]]* || 4 500
 |-
-| 62-64 || *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)* || 4 500
+| 62-64 || *[[résistance aux énergies destructives]]* || 4 500
 |-
-| 65-66 || *[restauration partielle](./Restauration partielle.md)* || 4 500
+| 65-66 || *[[restauration partielle]]* || 4 500
 |-
-| 67-71 || *[rayon ardent](./Rayon ardent.md)* || 4 500
+| 67-71 || *[[rayon ardent]]* || 4 500
 |-
-| 72-73 || *[détection de l’invisibilité](./Détection de linvisibilité.md)* || 4 500
+| 72-73 || *[[détection de linvisibilité|détection de l’invisibilité]]* || 4 500
 |-
-| 74 || *[fracassement](./Fracassement.md)* || 4 500
+| 74 || *[[fracassement]]* || 4 500
 |-
-| 75-76 || *[protection d’autrui](./Protection dautrui.md)* || 4 500
+| 75-76 || *[[protection dautrui|protection d’autrui]]* || 4 500
 |-
-| 77-78 || *[silence](./Silence.md)* || 4 500
+| 77-78 || *[[silence]]* || 4 500
 |-
-| 79-81 || *[cacophonie](./Cacophonie.md)* || 4 500
+| 79-81 || *[[cacophonie]]* || 4 500
 |-
-| 82-83 || *[pattes d’araignée](./Pattes daraignée.md)* || 4 500
+| 82-83 || *[[pattes daraignée|pattes d’araignée]]* || 4 500
 |-
-| 84-86 || *[arme spirituelle](./Arme spirituelle.md)* || 4 500
+| 84-86 || *[[arme spirituelle]]* || 4 500
 |-
-| 87-88 || *[convocation de monstres II](./Convocation de monstres II.md)* || 4 500
+| 87-88 || *[[convocation de monstres II]]* || 4 500
 |-
-| 89-90 || *[convocation d’alliés naturels II](./Convocation dalliés naturels II.md)* || 4 500
+| 89-90 || *[[convocation dalliés naturels II|convocation d’alliés naturels II]]* || 4 500
 |-
-| 91-92 || *[nuée grouillante](./Nuée grouillante.md)* || 4 500
+| 91-92 || *[[nuée grouillante]]* || 4 500
 |-
-| 93-96 || *[toile d’araignée](./Toile daraignée.md)* || 4 500
+| 93-96 || *[[toile daraignée|toile d’araignée]]* || 4 500
 |-
-| 97 || *[vent de murmures](./Vent de murmures.md)* || 4 500
+| 97 || *[[vent de murmures]]* || 4 500
 |-
-| 98-99 || *[augure](./Augure.md)* || 5 750
+| 98-99 || *[[augure]]* || 5 750
 |-
-| 100 || *[piège à feu](./Piège à feu.md)* || 5 750
+| 100 || *[[piège à feu]]* || 5 750
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Baguette hors du commun || Prix(po)
 |- CLASS="premier"
-| 01-02 || *[arme alignée](./Arme alignée.md)* || 4 500
+| 01-02 || *[[arme alignée]]* || 4 500
 |-
-| 03-05 || *[aspect animal](./Aspect animal.md)* || 4 500
+| 03-05 || *[[aspect animal]]* || 4 500
 |-
-| 06 || *[messager animal](./Messager animal.md)* || 4 500
+| 06 || *[[messager animal]]* || 4 500
 |-
-| 07 || *[hypnose des animaux](./Hypnose des animaux.md)* || 4 500
+| 07 || *[[hypnose des animaux]]* || 4 500
 |-
-| 08-10 || *[aspect de l’ours](./Aspect de lours.md)* || 4 500
+| 08-10 || *[[aspect de lours|aspect de l’ours]]* || 4 500
 |-
-| 11-13 || *[savoir manier une arme](./Savoir manier une arme.md)* || 4 500
+| 11-13 || *[[savoir manier une arme]]* || 4 500
 |-
-| 14-15 || *[cécité/surdité](./Cécitésurdité.md)* || 4 500
+| 14-15 || *[[cécitésurdité|cécité/surdité]]* || 4 500
 |-
-| 16-18 || *[regard brûlant](./Regard brûlant.md)* || 4 500
+| 16-18 || *[[regard brûlant]]* || 4 500
 |-
-| 19-21 || *[apaisement des émotions](./Apaisement des émotions.md)* || 4 500
+| 19-21 || *[[apaisement des émotions]]* || 4 500
 |-
-| 22-24 || *[métal gelé](./Métal gelé.md)* || 4 500
+| 22-24 || *[[métal gelé]]* || 4 500
 |-
-| 25 || *[contrôle des morts-vivants](./Contrôle des morts-vivants.md)* || 4 500
+| 25 || *[[contrôle des morts-vivants]]* || 4 500
 |-
-| 26-27 || *[hébétement de monstre](./Hébétement de monstre.md)* || 4 500
+| 26-27 || *[[hébétement de monstre]]* || 4 500
 |-
-| 28-29 || *[mise à mort](./Mise à mort.md)* || 4 500
+| 28-29 || *[[mise à mort]]* || 4 500
 |-
-| 30-32 || *[décharge défensive](./décharge défensive.md)* || 4 500
+| 30-32 || *[[décharge défensive]]* || 4 500
 |-
-| 33 || *[retardement de la douleur](./Retardement de la douleur.md)* || 4 500
+| 33 || *[[retardement de la douleur]]* || 4 500
 |-
-| 34-35 || *[détection de pensées](./Détection de pensées.md)* || 4 500
+| 34-35 || *[[détection de pensées]]* || 4 500
 |-
-| 36-39 || *[déguiser autrui](./Déguiser autrui.md)* || 4 500
+| 36-39 || *[[déguiser autrui]]* || 4 500
 |-
-| 40-42 || *[armure sans effort](./Armure sans effort.md)* || 4 500
+| 40-42 || *[[armure sans effort]]* || 4 500
 |-
-| 43-46 || *[caresse élémentaire](./Caresse élémentaire.md)* || 4 500
+| 43-46 || *[[caresse élémentaire]]* || 4 500
 |-
-| 47-48 || *[discours captivant](./Discours captivant.md)* || 4 500
+| 47-48 || *[[discours captivant]]* || 4 500
 |-
-| 49-50 || *[préservation des morts](./Préservation des morts.md)* || 4 500
+| 49-50 || *[[préservation des morts]]* || 4 500
 |-
-| 51 || *[baiser de la goule](./Baiser de la goule.md)* || 4 500
+| 51 || *[[baiser de la goule]]* || 4 500
 |-
-| 52-53 || *[planer](./Planer.md)* || 4 500
+| 52-53 || *[[planer]]* || 4 500
 |-
-| 54-55 || *[élévation du sol](./élévation du sol.md)* || 4 500
+| 54-55 || *[[élévation du sol]]* || 4 500
 |-
-| 56 || *[bourrasque](./Bourrasque.md)* || 4 500
+| 56 || *[[bourrasque]]* || 4 500
 |-
-| 57 || *[immobilisation d’animal](./Immobilisation danimal.md)* || 4 500
+| 57 || *[[immobilisation danimal|immobilisation d’animal]]* || 4 500
 |-
-| 58-59 || *[lueurs hypnotiques](./Lueurs hypnotiques.md)* || 4 500
+| 58-59 || *[[lueurs hypnotiques]]* || 4 500
 |-
-| 60 || *[localisation d’objet](./Localisation dobjet.md)* || 4 500
+| 60 || *[[localisation dobjet|localisation d’objet]]* || 4 500
 |-
-| 61 || *[réparation intégrale](./Réparation intégrale.md)* || 4 500
+| 61 || *[[réparation intégrale]]* || 4 500
 |}
 </td><td width="50%">
 {| CLASS="tablo centre autoalt" WIDTH="94%"
-| 62-63 || *[détection faussée](./Détection faussée.md)* || 4 500
+| 62-63 || *[[détection faussée]]* || 4 500
 |-
-| 64-65 || *[ennui oppressant](./Ennui oppressant.md)* || 4 500
+| 64-65 || *[[ennui oppressant]]* || 4 500
 |-
-| 66 || *[protection contre les projectiles](./Protection contre les projectiles.md)* || 4 500
+| 66 || *[[protection contre les projectiles]]* || 4 500
 |-
-| 67 || *[rapetissement d’animal](./Rapetissement danimal.md)* || 4 500
+| 67 || *[[rapetissement danimal|rapetissement d’animal]]* || 4 500
 |-
-| 68-69 || *[corde enchantée](./Corde enchantée.md)* || 4 500
+| 68-69 || *[[corde enchantée]]* || 4 500
 |-
-| 70-72 || *[effroi](./Effroi.md)* || 4 500
+| 70-72 || *[[effroi]]* || 4 500
 |-
-| 73-74 || *[partage de la langue](./Partage de la langue.md)* || 4 500
+| 73-74 || *[[partage de la langue]]* || 4 500
 |-
-| 75-76 || *[ramollissement de la terre et de la pierre](./Ramollissement de la terre et de la pierre.md)* || 4 500
+| 75-76 || *[[ramollissement de la terre et de la pierre]]* || 4 500
 |-
-| 77-78 || *[main spectrale](./Main spectrale.md)* || 4 500
+| 77-78 || *[[main spectrale]]* || 4 500
 |-
-| 79-80 || *[rapport](./Rapport.md)* || 4 500
+| 79-80 || *[[rapport]]* || 4 500
 |-
-| 81-82 || *[don des langues](./Don des langues.md)* || 4 500
+| 81-82 || *[[don des langues]]* || 4 500
 |-
-| 83-84 || *[idiotie](./Idiotie.md)* || 4 500
+| 83-84 || *[[idiotie]]* || 4 500
 |-
-| 85-86 || *[forme d’arbre](./Forme darbre.md)* || 4 500
+| 85-86 || *[[forme darbre|forme d’arbre]]* || 4 500
 |-
-| 87-88 || *[distorsion du bois](./Distorsion du bois.md)* || 4 500
+| 87-88 || *[[distorsion du bois]]* || 4 500
 |-
-| 89-91 || *[arme merveilleuse](./Arme merveilleuse.md)* || 4 500
+| 89-91 || *[[arme merveilleuse]]* || 4 500
 |-
-| 92-93 || *[façonnage du bois](./Façonnage du bois.md)* || 4 500
+| 92-93 || *[[façonnage du bois]]* || 4 500
 |-
-| 94-95 || *[zone de vérité](./Zone de vérité.md)* || 4 500
+| 94-95 || *[[zone de vérité]]* || 4 500
 |-
-| 96 || *[verrou du mage](./Verrou du mage.md)* || 5 750
+| 96 || *[[verrou du mage]]* || 5 750
 |-
-| 97 || *[consécration](./Consécration.md)* || 5 750
+| 97 || *[[consécration]]* || 5 750
 |-
-| 98 || *[profanation](./Profanation.md)* || 5 750
+| 98 || *[[profanation]]* || 5 750
 |-
-| 99 || *[flamme éternelle](./Flamme éternelle.md)* || 7 000
+| 99 || *[[flamme éternelle]]* || 7 000
 |-
-| 100 || *[piège illusoire](./Piège illusoire.md)* || 7 000
+| 100 || *[[piège illusoire]]* || 7 000
 |}
 
 {| CLASS="tablo centre autoalt" WIDTH="94%"
@@ -523,193 +523,193 @@ LastModified: 2024-08-25 22:44
 |- CLASS="titre"
 | D100 || Baguette commune || Prix(po)
 |- CLASS="premier"
-| 01-02 || *[forme bestiale I](./Forme bestiale I.md)* || 11 250
+| 01-02 || *[[forme bestiale I]]* || 11 250
 |-
-| 03-04 || *[clignotement](./Clignotement.md)* || 11 250
+| 03-04 || *[[clignotement]]* || 11 250
 |-
-| 05-07 || *[appel de la foudre](./Appel de la foudre.md)* || 11 250
+| 05-07 || *[[appel de la foudre]]* || 11 250
 |-
-| 08 || *[création de nourriture et d’eau](./Création de nourriture et deau.md)* || 11 250
+| 08 || *[[création de nourriture et deau|création de nourriture et d’eau]]* || 11 250
 |-
-| 09-14 || *[soins importants](./Soins importants.md)* || 11 250
+| 09-14 || *[[soins importants]]* || 11 250
 |-
-| 15-16 || *[lumière du jour](./Lumière du jour.md)* || 11 250
+| 15-16 || *[[lumière du jour]]* || 11 250
 |-
-| 17-18 || *[sommeil profond](./Sommeil profond.md)* || 11 250
+| 17-18 || *[[sommeil profond]]* || 11 250
 |-
-| 19-20 || *[ténèbres profondes](./Ténèbres profondes.md)* || 11 250
+| 19-20 || *[[ténèbres profondes]]* || 11 250
 |-
-| 21-25 || *[dissipation de la magie](./Dissipation de la magie.md)* || 11 250
+| 21-25 || *[[dissipation de la magie]]* || 11 250
 |-
-| 26-28 || *[déplacement](./Déplacement.md)* || 11 250
+| 26-28 || *[[déplacement]]* || 11 250
 |-
-| 29-34 || *[boule de feu](./Boule de feu.md)* || 11 250
+| 29-34 || *[[boule de feu]]* || 11 250
 |-
-| 35 || *[flèches enflammées](./Flèches enflammées.md)* || 11 250
+| 35 || *[[flèches enflammées]]* || 11 250
 |-
-| 36-37 || *[vol](./Vol.md)* || 11 250
+| 36-37 || *[[vol]]* || 11 250
 |-
-| 38 || *[état gazeux](./État gazeux.md)* || 11 250
+| 38 || *[[état gazeux]]* || 11 250
 |-
-| 39-40 || *[rapidité](./Rapidité.md)* || 11 250
+| 39-40 || *[[rapidité]]* || 11 250
 |-
-| 41-42 || *[héroïsme](./Héroïsme.md)* || 11 250
+| 41-42 || *[[héroïsme]]* || 11 250
 |-
-| 43-45 || *[blessure grave](./Blessure grave.md)* || 11 250
+| 43-45 || *[[blessure grave]]* || 11 250
 |-
-| 46-47 || *[négation de l’invisibilité](./Négation de linvisibilité.md)* || 11 250
+| 46-47 || *[[négation de linvisibilité|négation de l’invisibilité]]* || 11 250
 |-
-| 48 || *[sphère d’invisibilité](./Sphère dinvisibilité.md)* || 11 250
+| 48 || *[[sphère dinvisibilité|sphère d’invisibilité]]* || 11 250
 |-
-| 49-50 || *[affûtage](./Affûtage.md)* || 11 250
+| 49-50 || *[[affûtage]]* || 11 250
 |-
-| 51-55 || *[éclair](./Éclair.md)* || 11 250
+| 51-55 || *[[éclair]]* || 11 250
 |-
-| 56 || *[cercle magique contre le Chaos](./Cercle magique contre le Chaos.md)* || 11 250
+| 56 || *[[cercle magique contre le Chaos]]* || 11 250
 |-
-| 57 || *[cercle magique contre le Mal](./cercle magique contre le Mal.md)* || 11 250
+| 57 || *[[cercle magique contre le Mal]]* || 11 250
 |-
-| 58 || *[cercle magique contre le Bien](./Cercle magique contre le Bien.md)* || 11 250
+| 58 || *[[cercle magique contre le Bien]]* || 11 250
 |-
-| 59 || *[cercle magique contre la Loi](./Cercle magique contre la Loi.md)* || 11 250
+| 59 || *[[cercle magique contre la Loi]]* || 11 250
 |-
-| 60 || *[morsure magique suprême](./Morsure magique suprême.md)* || 11 250
+| 60 || *[[morsure magique suprême]]* || 11 250
 |-
-| 61-62 || *[panoplie magique](./Panoplie magique.md)* || 11 250
+| 61-62 || *[[panoplie magique]]* || 11 250
 |-
-| 63-64 || *[arme magique suprême](./Arme magique suprême.md)* || 11 250
+| 63-64 || *[[arme magique suprême]]* || 11 250
 |-
-| 65-66 || *[image accomplie](./Image accomplie.md)* || 11 250
+| 65-66 || *[[image accomplie]]* || 11 250
 |-
-| 67-70 || *[prière](./Prière.md)* || 11 250
+| 67-70 || *[[prière]]* || 11 250
 |-
-| 71-74 || *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)* || 11 250
+| 71-74 || *[[protection contre les énergies destructives]]* || 11 250
 |-
-| 75 || *[guérison de la cécité/surdité](./Guérison de la cécitésurdité.md)* || 11 250
+| 75 || *[[guérison de la cécitésurdité|guérison de la cécité/surdité]]* || 11 250
 |-
-| 76-77 || *[délivrance des malédictions](./Délivrance des malédictions.md)* || 11 250
+| 76-77 || *[[délivrance des malédictions]]* || 11 250
 |-
-| 78-79 || *[guérison des maladies](./Guérison des maladies.md)* || 11 250
+| 78-79 || *[[guérison des maladies]]* || 11 250
 |-
-| 80-82 || *[lumière brûlante](./Lumière brûlante.md)* || 11 250
+| 80-82 || *[[lumière brûlante]]* || 11 250
 |-
-| 83 || *[tempête de neige](./Tempête de neige.md)* || 11 250
+| 83 || *[[tempête de neige]]* || 11 250
 |-
-| 84-85 || *[lenteur](./Lenteur.md)* || 11 250
+| 84-85 || *[[lenteur]]* || 11 250
 |-
-| 86-87 || *[communication avec les morts](./Communication avec les morts.md)* || 11 250
+| 86-87 || *[[communication avec les morts]]* || 11 250
 |-
-| 88-89 || *[nuage nauséabond](./Nuage nauséabond.md)* || 11 250
+| 88-89 || *[[nuage nauséabond]]* || 11 250
 |-
-| 90 || *[façonnage de la pierre](./Façonnage de la pierre.md)* || 11 250
+| 90 || *[[façonnage de la pierre]]* || 11 250
 |-
-| 91-92 || *[suggestion](./Suggestion.md)* || 11 250
+| 91-92 || *[[suggestion]]* || 11 250
 |-
-| 93 || *[convocation de monstres III](./Convocation de monstres III.md)* || 11 250
+| 93 || *[[convocation de monstres III]]* || 11 250
 |-
-| 94 || *[convocation d’alliés naturels III](./Convocation dalliés naturels III.md)* || 11 250
+| 94 || *[[convocation dalliés naturels III|convocation d’alliés naturels III]]* || 11 250
 |-
-| 95-97 || *[baiser du vampire](./Baiser du vampire.md)* || 11 250
+| 95-97 || *[[baiser du vampire]]* || 11 250
 |-
-| 98-99 || *[respiration aquatique](./Respiration aquatique.md)* || 11 250
+| 98-99 || *[[respiration aquatique]]* || 11 250
 |-
-| 100 || *[animation des morts](./Animation des morts.md)* || 23 750
+| 100 || *[[animation des morts]]* || 23 750
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Baguette hors du commun || Prix(po)
 |- CLASS="premier"
-| 01-04 || *[aspect animal supérieur](./Aspect animal supérieur.md)* || 11 250
+| 01-04 || *[[aspect animal supérieur]]* || 11 250
 |-
-| 05-06 || *[orbe aqueux](./Orbe aqueux.md)* || 11 250
+| 05-06 || *[[orbe aqueux]]* || 11 250
 |-
-| 07-08 || *[vision magique](./Vision magique.md)* || 11 250
+| 07-08 || *[[vision magique]]* || 11 250
 |-
-| 09-11 || *[aura d’archon](./Aura darchon.md)* || 11 250
+| 09-11 || *[[aura darchon|aura d’archon]]* || 11 250
 |-
-| 12-14 || *[tempête de cendres](./Tempête de cendres.md)* || 11 250
+| 12-14 || *[[tempête de cendres]]* || 11 250
 |-
-| 15-17 || *[malédiction](./malédiction.md)* || 11 250
+| 15-17 || *[[malédiction]]* || 11 250
 |-
-| 18-20 || *[clairaudience/clairvoyance](./Clairaudienceclairvoyance.md)* || 11 250
+| 18-20 || *[[clairaudienceclairvoyance|clairaudience/clairvoyance]]* || 11 250
 |-
-| 21-22 || *[contagion](./Contagion.md)* || 11 250
+| 21-22 || *[[contagion]]* || 11 250
 |-
-| 23 || *[rabougrissement des plantes](./Rabougrissement des plantes.md)* || 11 250
+| 23 || *[[rabougrissement des plantes]]* || 11 250
 |-
-| 24-25 || *[domination d’animal](./Domination danimal.md)* || 11 250
+| 24-25 || *[[domination danimal|domination d’animal]]* || 11 250
 |-
-| 26-29 || *[aura élémentaire](./Aura élémentaire.md)* || 11 250
+| 26-29 || *[[aura élémentaire]]* || 11 250
 |-
-| 30 || *[runes explosives](./Runes explosives.md)* || 11 250
+| 30 || *[[runes explosives]]* || 11 250
 |-
-| 31-34 || *[poing de force](./Poing de force.md)* || 11 250
+| 31-34 || *[[poing de force]]* || 11 250
 |-
-| 35 || *[immobilisation de morts-vivants](./Immobilisation de morts-vivants.md)* || 11 250
+| 35 || *[[immobilisation de morts-vivants]]* || 11 250
 |-
-| 36-37 || *[main du berger](./Main du berger.md)* || 11 250
+| 36-37 || *[[main du berger]]* || 11 250
 |-
-| 38-40 || *[lévitation hostile](./Lévitation hostile.md)* || 11 250
+| 38-40 || *[[lévitation hostile]]* || 11 250
 |-
-| 41-43 || *[hurlement d’agonie](./Hurlement dagonie.md)* || 11 250
+| 41-43 || *[[hurlement dagonie|hurlement d’agonie]]* || 11 250
 |-
-| 44-45 || *[torrent hydraulique](./Torrent hydraulique.md)* || 11 250
+| 44-45 || *[[torrent hydraulique]]* || 11 250
 |-
-| 46 || *[singes fous](./Singes fous.md)* || 11 250
+| 46 || *[[singes fous]]* || 11 250
 |-
-| 47-49 || *[fusion dans la pierre](./Fusion dans la pierre.md)* || 11 250
+| 47-49 || *[[fusion dans la pierre]]* || 11 250
 |-
-| 50-52 || *[neutralisation du poison](./Neutralisation du poison.md)* || 11 250
+| 50-52 || *[[neutralisation du poison]]* || 11 250
 |-
-| 53-54 || *[frappe douloureuse](./Frappe douloureuse.md)* || 11 250
+| 53-54 || *[[frappe douloureuse]]* || 11 250
 |-
-| 55 || *[coursier fantôme](./Coursier fantôme.md)* || 11 250
+| 55 || *[[coursier fantôme]]* || 11 250
 |-
-| 56-57 || *[croissance végétale](./Croissance végétale.md)* || 11 250
+| 56-57 || *[[croissance végétale]]* || 11 250
 |-
-| 58-60 || *[empoisonnement](./Empoisonnement.md)* || 11 250
+| 58-60 || *[[empoisonnement]]* || 11 250
 |-
-| 61 || *[extinction des feux](./Extinction des feux.md)* || 11 250
+| 61 || *[[extinction des feux]]* || 11 250
 |-
-| 62-65 || *[rage](./Rage.md)* || 11 250
+| 62-65 || *[[rage]]* || 11 250
 |-
-| 66-67 || *[rayon affaiblissant](./Rayon affaiblissant.md)* || 11 250
+| 66-67 || *[[rayon affaiblissant]]* || 11 250
 |-
-| 68-69 || *[peau résineuse](./Peau résineuse.md)* || 11 250
+| 68-69 || *[[peau résineuse]]* || 11 250
 |-
-| 70 || *[page secrète](./Page secrète.md)* || 11 250
+| 70 || *[[page secrète]]* || 11 250
 |-
-| 71 || *[réduction d’objet](./Réduction dobjet.md)* || 11 250
+| 71 || *[[réduction dobjet|réduction d’objet]]* || 11 250
 |-
-| 72-73 || *[collet](./Collet.md)* || 11 250
+| 72-73 || *[[collet]]* || 11 250
 |-
-| 74 || *[communication avec les plantes](./Communication avec les plantes.md)* || 11 250
+| 74 || *[[communication avec les plantes]]* || 11 250
 |-
-| 75-76 || *[croissance d’épines](./Croissance dépines.md)* || 11 250
+| 75-76 || *[[croissance dépines|croissance d’épines]]* || 11 250
 |-
-| 77 || *[abri](./abri.md)* || 11 250
+| 77 || *[[abri]]* || 11 250
 |-
-| 78-81 || *[marche sur l’onde](./Marche sur londe.md)* || 11 250
+| 78-81 || *[[marche sur londe|marche sur l’onde]]* || 11 250
 |-
-| 82-84 || *[mur de vent](./Mur de vent.md)* || 11 250
+| 82-84 || *[[mur de vent]]* || 11 250
 |-
-| 85-86 || *[manteau de colère](./Manteau de colère.md)* || 11 250
+| 85-86 || *[[manteau de colère]]* || 11 250
 |-
-| 87 || *[texte illusoire](./Texte illusoire.md)* || 13 750
+| 87 || *[[texte illusoire]]* || 13 750
 |-
-| 88-89 || *[antidétection](./Antidétection.md)* || 13 750
+| 88-89 || *[[antidétection]]* || 13 750
 |-
-| 90-91 || *[bagou](./Bagou.md)* || 15 750
+| 90-91 || *[[bagou]]* || 15 750
 |-
-| 92-95 || *[espoir](./Espoir.md)* || 15 750
+| 92-95 || *[[espoir]]* || 15 750
 |-
-| 96-97 || *[guérison de destrier](./Guérison de destrier.md)* || 15 750
+| 96-97 || *[[guérison de destrier]]* || 15 750
 |-
-| 98 || *[manipulation des sons](./Manipulation des sons.md)* || 15 750
+| 98 || *[[manipulation des sons]]* || 15 750
 |-
-| 99 || *[glyphe de garde](./Glyphe de garde.md)* || 21 250
+| 99 || *[[glyphe de garde]]* || 21 250
 |-
-| 100 || *[sceau du serpent](./Sceau du serpent.md)* || 36 250
+| 100 || *[[sceau du serpent]]* || 36 250
 |}
 
 {| CLASS="tablo centre autoalt" WIDTH="94%"
@@ -717,190 +717,190 @@ LastModified: 2024-08-25 22:44
 |- CLASS="titre"
 | D100 || Baguette commune || Prix(po)
 |- CLASS="premier"
-| 01-02 || *[marche dans les airs](./Marche dans les airs.md)* || 21 000
+| 01-02 || *[[marche dans les airs]]* || 21 000
 |-
-| 03-04 || *[forme bestiale II](./Forme bestiale II.md)* || 21 000
+| 03-04 || *[[forme bestiale II]]* || 21 000
 |-
-| 05-07 || *[tentacules noirs](./Tentacules noirs.md)* || 21 000
+| 05-07 || *[[tentacules noirs]]* || 21 000
 |-
-| 08 || *[marteau du Chaos](./Marteau du chaos.md)* || 21 000
+| 08 || *[[marteau du Chaos]]* || 21 000
 |-
-| 09-11 || *[charme-monstre](./Charme-monstre.md)* || 21 000
+| 09-11 || *[[charme-monstre]]* || 21 000
 |-
-| 12-14 || *[confusion](./Confusion.md)* || 21 000
+| 12-14 || *[[confusion]]* || 21 000
 |-
-| 15-16 || *[désespoir foudroyant](./Désespoir foudroyant.md)* || 21 000
+| 15-16 || *[[désespoir foudroyant]]* || 21 000
 |-
-| 17-22 || *[soins intensifs](./Soins intensifs.md)* || 21 000
+| 17-22 || *[[soins intensifs]]* || 21 000
 |-
-| 23-24 || *[protection contre la mort](./Protection contre la mort.md)* || 21 000
+| 23-24 || *[[protection contre la mort]]* || 21 000
 |-
-| 25-28 || *[porte dimensionnelle](./Porte dimensionnelle.md)* || 21 000
+| 25-28 || *[[porte dimensionnelle]]* || 21 000
 |-
-| 29 || *[ancre dimensionnelle](./Ancre dimensionnelle.md)* || 21 000
+| 29 || *[[ancre dimensionnelle]]* || 21 000
 |-
-| 30 || *[renvoi](./Renvoi.md)* || 21 000
+| 30 || *[[renvoi]]* || 21 000
 |-
-| 31-33 || *[puissance divine](./Puissance divine.md)* || 21 000
+| 31-33 || *[[puissance divine]]* || 21 000
 |-
-| 34-35 || *[corps élémentaire I](./Corps élémentaire I.md)* || 21 000
+| 34-35 || *[[corps élémentaire I]]* || 21 000
 |-
-| 36-37 || *[énergie négative](./Énergie négative.md)* || 21 000
+| 36-37 || *[[énergie négative]]* || 21 000
 |-
-| 38-39 || *[agrandissement de groupe](./Agrandissement de groupe.md)* || 21 000
+| 38-39 || *[[agrandissement de groupe]]* || 21 000
 |-
-| 40-42 || *[terreur](./Terreur.md)* || 21 000
+| 40-42 || *[[terreur]]* || 21 000
 |-
-| 43-44 || *[bouclier de feu](./Bouclier de feu.md)* || 21 000
+| 43-44 || *[[bouclier de feu]]* || 21 000
 |-
-| 45-48 || *[colonne de feu](./Colonne de feu.md)* || 21 000
+| 45-48 || *[[colonne de feu]]* || 21 000
 |-
-| 49-51 || *[liberté de mouvement](./Liberté de mouvement.md)* || 21 000
+| 49-51 || *[[liberté de mouvement]]* || 21 000
 |-
-| 52-53 || *[globe d’invulnérabilité partielle](./Globe dinvulnérabilité partielle.md)* || 21 000
+| 52-53 || *[[globe dinvulnérabilité partielle|globe d’invulnérabilité partielle]]* || 21 000
 |-
-| 54 || *[châtiment sacré](./Châtiment sacré.md)* || 21 000
+| 54 || *[[châtiment sacré]]* || 21 000
 |-
-| 55-56 || *[tempête de grêle](./Tempête de grêle.md)* || 21 000
+| 55-56 || *[[tempête de grêle]]* || 21 000
 |-
-| 57-58 || *[transfert de sorts](./Transfert de sorts.md)* || 21 000
+| 57-58 || *[[transfert de sorts]]* || 21 000
 |-
-| 59-61 || *[blessure critique](./Blessure critique.md)* || 21 000
+| 59-61 || *[[blessure critique]]* || 21 000
 |-
-| 62-65 || *[invisibilité suprême](./Invisibilité suprême.md)* || 21 000
+| 62-65 || *[[invisibilité suprême]]* || 21 000
 |-
-| 66 || *[courroux de l’ordre](./Courroux de lordre.md)* || 21 000
+| 66 || *[[courroux de lordre|courroux de l’ordre]]* || 21 000
 |-
-| 67-69 || *[assassin imaginaire](./Assassin imaginaire.md)* || 21 000
+| 67-69 || *[[assassin imaginaire]]* || 21 000
 |-
-| 70 || *[sphère d’isolement](./Sphère disolement.md)* || 21 000
+| 70 || *[[sphère disolement|sphère d’isolement]]* || 21 000
 |-
-| 71-72 || *[scrutation](./scrutation.md)* || 21 000
+| 71-72 || *[[scrutation]]* || 21 000
 |-
-| 73 || *[communication à distance](./Communication à distance.md)* || 21 000
+| 73 || *[[communication à distance]]* || 21 000
 |-
-| 74 || *[cri](./Cri.md)* || 21 000
+| 74 || *[[cri]]* || 21 000
 |-
-| 75-76 || *[brouillard dense](./Brouillard dense.md)* || 21 000
+| 75-76 || *[[brouillard dense]]* || 21 000
 |-
-| 77-79 || *[immunité contre les sorts](./Immunité contre les sorts.md)* || 21 000
+| 77-79 || *[[immunité contre les sorts]]* || 21 000
 |-
-| 80 || *[convocation de monstres IV](./Convocation de monstres IV.md)* || 21 000
+| 80 || *[[convocation de monstres IV]]* || 21 000
 |-
-| 81 || *[convocation d’alliés naturels IV](./Convocation dalliés naturels IV.md)* || 21 000
+| 81 || *[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]* || 21 000
 |-
-| 82 || *[ténèbres maudites](./Ténèbres maudites.md)* || 21 000
+| 82 || *[[ténèbres maudites]]* || 21 000
 |-
-| 83-87 || *[mur de feu](./Mur de feu.md)* || 21 000
+| 83-87 || *[[mur de feu]]* || 21 000
 |-
-| 88-91 || *[mur de glace](./Mur de glace.md)* || 21 000
+| 88-91 || *[[mur de glace]]* || 21 000
 |-
-| 92-93 || *[divination](./Divination.md)* || 22 250
+| 92-93 || *[[divination]]* || 22 250
 |-
-| 94-95 || *[restauration](./Restauration.md)* || 26 000
+| 94-95 || *[[restauration]]* || 26 000
 |-
-| 96 || *[annulation d’enchantement](./Annulation denchantement.md)* || 30 000
+| 96 || *[[annulation denchantement|annulation d’enchantement]]* || 30 000
 |-
-| 97-98 || *[peau de pierre](./Peau de pierre.md)* || 33 500
+| 97-98 || *[[peau de pierre]]* || 33 500
 |-
-| 99 || *[allié d’outreplan](./Allié doutreplan.md)* || 46 000
+| 99 || *[[allié doutreplan|allié d’outreplan]]* || 46 000
 |-
-| 100 || *[restauration](./Restauration.md)* || 71 000
+| 100 || *[[restauration]]* || 71 000
 |- CLASS="titre"
 | </sup> || &emsp; || </sup>
 |- CLASS="titre"
 | D100 || Baguette hors du commun || Prix(po)
 |- CLASS="premier"
-| 01 || *[coquille antiplantes](./Coquille antiplantes.md)* || 21 000
+| 01 || *[[coquille antiplantes]]* || 21 000
 |-
-| 02-04 || *[vision magique](./Vision magique.md)* || 21 000
+| 02-04 || *[[vision magique]]* || 21 000
 |-
-| 05-07 || *[aspect du cerf](./Aspect du cerf.md)* || 21 000
+| 05-07 || *[[aspect du cerf]]* || 21 000
 |-
-| 08-11 || *[boule de foudre](./Boule de foudre.md)* || 21 000
+| 08-11 || *[[boule de foudre]]* || 21 000
 |-
-| 12 || *[flétrissement végétal](./Flétrissement végétal.md)* || 21 000
+| 12 || *[[flétrissement végétal]]* || 21 000
 |-
-| 13 || *[empire végétal](./Empire végétal.md)* || 21 000
+| 13 || *[[empire végétal]]* || 21 000
 |-
-| 14-15 || *[contrôle de l’eau](./Contrôle de leau.md)* || 21 000
+| 14-15 || *[[contrôle de leau|contrôle de l’eau]]* || 21 000
 |-
-| 16-18 || *[vision dans le noir supérieure](./Vision dans le noir supérieure.md)* || 21 000
+| 16-18 || *[[vision dans le noir supérieure]]* || 21 000
 |-
-| 19 || *[détection de la scrutation](./Détection de la scrutation.md)* || 21 000
+| 19 || *[[détection de la scrutation]]* || 21 000
 |-
-| 20 || *[détection du mensonge](./Détection du mensonge.md)* || 21 000
+| 20 || *[[détection du mensonge]]* || 21 000
 |-
-| 21-24 || *[souffle de dragon](./Souffle de dragon.md)* || 21 000
+| 21-24 || *[[souffle de dragon]]* || 21 000
 |-
-| 25-28 || *[simulacre de vie supérieur](./Simulacre de vie supérieur.md)* || 21 000
+| 25-28 || *[[simulacre de vie supérieur]]* || 21 000
 |-
-| 29-30 || *[mission](./Mission.md)* || 21 000
+| 29-30 || *[[mission]]* || 21 000
 |-
-| 31-34 || *[loup fantomatique](./loup fantomatique.md)* || 21 000
+| 31-34 || *[[loup fantomatique]]* || 21 000
 |-
-| 35-36 || *[vermine géante](./Vermine géante.md)* || 21 000
+| 35-36 || *[[vermine géante]]* || 21 000
 |-
-| 37 || *[terrain hallucinatoire](./Terrain hallucinatoire.md)* || 21 000
+| 37 || *[[terrain hallucinatoire]]* || 21 000
 |-
-| 38 || *[mur illusoire](./Mur illusoire.md)* || 21 000
+| 38 || *[[mur illusoire]]* || 21 000
 |-
-| 39-40 || *[localisation de créature](./Localisation de créature.md)* || 21 000
+| 39-40 || *[[localisation de créature]]* || 21 000
 |-
-| 41-42 || *[création mineure](./Création mineure.md)* || 21 000
+| 41-42 || *[[création mineure]]* || 21 000
 |-
-| 43 || *[mémorisation](./Mémorisation.md)* || 21 000
+| 43 || *[[mémorisation]]* || 21 000
 |-
-| 44-46 || *[flot obsidien](./Flot obsidien.md)* || 21 000
+| 44-46 || *[[flot obsidien]]* || 21 000
 |-
-| 47-48 || *[lueur d’arc-en-ciel](./Lueur darc-en-ciel.md)* || 21 000
+| 47-48 || *[[lueur darc-en-ciel|lueur d’arc-en-ciel]]* || 21 000
 |-
-| 49-50 || *[rapetissement de groupe](./Rapetissement de groupe.md)* || 21 000
+| 49-50 || *[[rapetissement de groupe]]* || 21 000
 |-
-| 51-53 || *[réincarnation](./Réincarnation.md)* || 21 000
+| 51-53 || *[[réincarnation]]* || 21 000
 |-
-| 54 || *[répulsif](./Répulsif.md)* || 21 000
+| 54 || *[[répulsif]]* || 21 000
 |-
-| 55-56 || *[chevaucher les vagues](./Chevaucher les vagues.md)* || 21 000
+| 55-56 || *[[chevaucher les vagues]]* || 21 000
 |-
-| 57-59 || *[rouille](./Rouille.md)* || 21 000
+| 57-59 || *[[rouille]]* || 21 000
 |-
-| 60 || *[refuge du mage](./Refuge du mage.md)* || 21 000
+| 60 || *[[refuge du mage]]* || 21 000
 |-
-| 61-63 || *[convocation d’ombres](./Convocation dombres.md)* || 21 000
+| 61-63 || *[[convocation dombres|convocation d’ombres]]* || 21 000
 |-
-| 64-67 || *[pas de l’ombre](./Pas de lombre.md)* || 21 000
+| 64-67 || *[[pas de lombre|pas de l’ombre]]* || 21 000
 |-
-| 68-70 || *[image de foudre](./Image de foudre.md)* || 21 000
+| 68-70 || *[[image de foudre]]* || 21 000
 |-
-| 71-74 || *[pierres acérées](./Pierres acérées.md)* || 21 000
+| 71-74 || *[[pierres acérées]]* || 21 000
 |-
-| 75-76 || *[tempête volcanique](./Tempête volcanique.md)* || 21 000
+| 75-76 || *[[tempête volcanique]]* || 21 000
 |-
-| 77-79 || *[poussière d’étoile](./Poussière détoile.md)* || 21 000
+| 77-79 || *[[poussière détoile|poussière d’étoile]]* || 21 000
 |-
-| 80 || *[croissance animale](./Croissance animale.md)* || 30 000
+| 80 || *[[croissance animale]]* || 30 000
 |-
-| 81-82 || *[communion avec la nature](./Communion avec la nature.md)* || 30 000
+| 81-82 || *[[communion avec la nature]]* || 30 000
 |-
-| 83 || *[Rejet du Chaos](./Rejet du Chaos.md)* || 30 000
+| 83 || *[[Rejet du Chaos]]* || 30 000
 |-
-| 84 || *[Rejet du Mal](./Rejet du Mal.md)* || 30 000
+| 84 || *[[Rejet du Mal]]* || 30 000
 |-
-| 85-87 || *[domination](./Domination.md)* || 30 000
+| 85-87 || *[[domination]]* || 30 000
 |-
-| 88-91 || *[immobilisation de monstre](./Immobilisation de monstre.md)* || 30 000
+| 88-91 || *[[immobilisation de monstre]]* || 30 000
 |-
-| 92-94 || *[épée sainte](./Épée sainte.md)* || 30 000
+| 92-94 || *[[épée sainte]]* || 30 000
 |-
-| 95 || *[marque de la justice](./Marque de la justice.md)* || 30 000
+| 95 || *[[marque de la justice]]* || 30 000
 |-
-| 96-97 || *[modification de mémoire](./Modification de mémoire.md)* || 30 000
+| 96-97 || *[[modification de mémoire]]* || 30 000
 |-
-| 98 || *[voyage par les arbres](./Voyage par les arbres.md)* || 30 000
+| 98 || *[[voyage par les arbres]]* || 30 000
 |-
-| 99 || *[zone de silence](./Zone de silence.md)* || 30 000
+| 99 || *[[zone de silence]]* || 30 000
 |-
-| 100 || *[mythes et légendes](./Mythes et légendes.md)* || 33 500
+| 100 || *[[mythes et légendes]]* || 33 500
 |}
 </td></tr></table>

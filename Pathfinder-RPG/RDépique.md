@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Glossaire Mythique#RDEPIQUE
 ---
 
->>> [Glossaire Mythique#RDEPIQUE](./Glossaire Mythique.md#RDEPIQUE)
+>>> [[Glossaire Mythique#RDEPIQUE]]

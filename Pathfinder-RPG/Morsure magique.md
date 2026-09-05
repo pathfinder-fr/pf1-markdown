@@ -12,24 +12,24 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Dru](./Druide.md) 1, [Rôd](./Rôdeur.md) 1, [Spi](./Spirite.md) 1  
+**École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Druide|Dru]] 1, [[Rôdeur|Rôd]] 1, [[Spirite|Spi]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature vivante touchée  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-*Morsure magique* donne à l’une des [armes naturelles](./arme naturelle.md) de la cible un [bonus d’altération](./bonus daltération.md) de +1 aux [jets d’attaque](./jet dattaque.md) et de dégâts. Le sort peut affecter une morsure, un coup de poing, ou toute autre attaque portée par une [arme naturelle](./arme naturelle.md). Ce sort ne transforme pas les [dégâts non-létaux](./Dégâts non-létaux.md) des [attaques à mains nues](./attaque à mains nues.md) en [dégâts létaux](./Dégâts létaux.md).
+*Morsure magique* donne à l’une des [[arme naturelle|armes naturelles]] de la cible un [[bonus daltération|bonus d’altération]] de +1 aux [[jet dattaque|jets d’attaque]] et de dégâts. Le sort peut affecter une morsure, un coup de poing, ou toute autre attaque portée par une [[arme naturelle]]. Ce sort ne transforme pas les [[dégâts non-létaux]] des [[attaque à mains nues|attaques à mains nues]] en [[dégâts létaux]].
 
-Il est possible d’user de *[permanence](./Permanence.md)* sur un sort de *morsure magique*.
+Il est possible d’user de *[[permanence]]* sur un sort de *morsure magique*.
 
 ### Mythique
 {s:CMy}
-Le sort affecte un nombre supplémentaire d’armes naturelles possédées par la cible égal au [grade](./Grade.md) du personnage. Par exemple, si le personnage est de [grade](./Grade.md) 3, le sort peut affecter deux griffes et une morsure.
+Le sort affecte un nombre supplémentaire d’armes naturelles possédées par la cible égal au [[grade]] du personnage. Par exemple, si le personnage est de [[grade]] 3, le sort peut affecter deux griffes et une morsure.

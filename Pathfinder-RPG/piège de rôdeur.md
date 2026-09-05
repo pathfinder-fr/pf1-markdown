@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pièges de rôdeur
 ---
 
->>> [Pièges de rôdeur](./Pièges de rôdeur.md)
+>>> [[Pièges de rôdeur]]

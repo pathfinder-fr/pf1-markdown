@@ -14,19 +14,19 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 5, [Con](./Conjurateur.md) 5, [ConU](./conjurateur unchained.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Psy](./Psychiste.md) 6, [Sor](./Sorcière.md) 6, [Spi](./Spirite.md) 6  
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Conjurateur|Con]] 5, [[Conjurateur unchained|ConU]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 1 minute/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** 1 minute/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Grâce à ce sort, le courage et le moral d’une créature sont renforcés, de sorte qu’elle bénéficie d’un bonus de moral de +4 aux [jets d’attaque](./jet dattaque.md), aux [jets de sauvegarde](./jet de sauvegarde.md) et aux [tests de compétence](./test de compétence.md). La créature est également [immunisée](./immunisé.md) contre les effets de [terreur](./Registre.md) et gagne un nombre de [points de vie](./points de vie.md) temporaires égal au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) du personnage (maximum 20)
+Grâce à ce sort, le courage et le moral d’une créature sont renforcés, de sorte qu’elle bénéficie d’un bonus de moral de +4 aux [[jet dattaque|jets d’attaque]], aux [[jet de sauvegarde|jets de sauvegarde]] et aux [[test de compétence|tests de compétence]]. La créature est également [[immunisé|immunisée]] contre les effets de [[registre|terreur]] et gagne un nombre de [[points de vie]] temporaires égal au [[niveau de lanceur de sorts]] du personnage (maximum 20)
 
-(((Ce sort fonctionne comme *[héroïsme](./Héroïsme.md)*, si ce n’est que le sujet bénéficie d’un bonus de moral de +4 aux [jets d’attaque](./jet dattaque.md), aux [jets de sauvegarde](./jet de sauvegarde.md) et aux [tests de compétence](./test de compétence.md). Il est également [immunisé](./immunisé.md) contre les effets de [terreur](./Registre.md) et gagne un nombre de [points de vie](./points de vie.md) temporaires égal au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) du personnage (maximum 20) )))
+(((Ce sort fonctionne comme *[[héroïsme]]*, si ce n’est que le sujet bénéficie d’un bonus de moral de +4 aux [[jet dattaque|jets d’attaque]], aux [[jet de sauvegarde|jets de sauvegarde]] et aux [[test de compétence|tests de compétence]]. Il est également [[immunisé]] contre les effets de [[registre|terreur]] et gagne un nombre de [[points de vie]] temporaires égal au [[niveau de lanceur de sorts]] du personnage (maximum 20) )))

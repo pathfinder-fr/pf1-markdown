@@ -13,23 +13,23 @@ Categories:
 {s:Menuarchétypeprêtre}{s:UC}*Le guérisseur miséricordieux est un maître des soins qui soutient ses alliés et restaure leur santé pour qu’ils continuent à se battre.*
 
 #### Volonté de guérir
-Le guérisseur miséricordieux doit choisir le [domaine de la Guérison](./Domaine de la Guérison.md). Il ne peut pas en prendre un second. S’il vénère une divinité, elle doit donner accès à ce domaine. Le guérisseur miséricordieux est obligé de canaliser de l’énergie positive.
+Le guérisseur miséricordieux doit choisir le [[domaine de la Guérison]]. Il ne peut pas en prendre un second. S’il vénère une divinité, elle doit donner accès à ce domaine. Le guérisseur miséricordieux est obligé de canaliser de l’énergie positive.
 
 #### Canalisation d’énergie (Sur)
-Comme le pouvoir de prêtre du même nom mais le guérisseur doit [canaliser](./Prêtre.md#CANALISATIONDENERGIE) de l’énergie positive et ne peut pas s’en servir pour blesser les morts-vivants. À part cela, ce pouvoir fonctionne comme son homologue ordinaire.
+Comme le pouvoir de prêtre du même nom mais le guérisseur doit [[prêtre#CANALISATIONDENERGIE|canaliser]] de l’énergie positive et ne peut pas s’en servir pour blesser les morts-vivants. À part cela, ce pouvoir fonctionne comme son homologue ordinaire.
 
 #### Médecin de guerre (Ext)
-Un médecin de guerre ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md) quand il se sert de [Premiers secours](./Premiers secours.md) pour stabiliser une créature ou lancer des sorts de soins.
+Un médecin de guerre ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]] quand il se sert de [[Premiers secours]] pour stabiliser une créature ou lancer des sorts de soins.
 
 
 #### Guérison miséricordieuse (Sur)
-Au [niveau](./niveau.md) 3, le guérisseur miséricordieux peut canaliser de l’énergie positive pour éliminer une ou plusieurs conditions négatives.
-- Au niveau 3, il peut enlever l’une des suivantes : [fatigué](./Fatigué.md), [secoué](./Secoué.md) ou [fiévreux](./Fiévreux.md). Quand il canalise de l’énergie positive, il peut débarrasser une créature vivante de la condition choisie tant qu’elle se trouve dans le rayon d’action de la canalisation. 
-- Au niveau 6, le guérisseur choisit une condition de plus, une de celles qu’il n’a pas prises au niveau 3 ou une des suivantes : [chancelant](./Chancelant.md), [hébété](./Hébété.md) ou [malade](./maladie.md). Il peut éliminer cette condition ou celle qu’il a choisie au niveau 3 sur un maximum de deux créatures situées dans le rayon de la canalisation. 
-- Au niveau 9, le guérisseur choisit une condition de plus, une de celles qu’il n’a pas prises aux niveaux précédents ou une des suivantes : [effrayé](./Effrayé.md), [empoisonné](./Poisons.md), [épuisé](./Épuisé.md), [maudit](./malédiction.md) ou [nauséeux](./Nauséeux.md). Il peut éliminer cette condition ou celle qu’il a choisie aux niveaux précédents sur un maximum de deux créatures situées dans le rayon de la canalisation. 
-- Enfin, au niveau 12, le guérisseur choisit une dernière condition, une de celles qu’il n’a pas prises aux niveaux précédents ou une des suivantes : [aveugle](./aveugle.md), [étourdi](./Étourdi.md), [paralysé](./Paralysé.md) ou [sourd](./Assourdi.md). Il peut éliminer cette condition ou celles qu’il a choisies aux niveaux précédents sur un maximum de trois créatures situées dans le rayon de la canalisation. 
+Au [[niveau]] 3, le guérisseur miséricordieux peut canaliser de l’énergie positive pour éliminer une ou plusieurs conditions négatives.
+- Au niveau 3, il peut enlever l’une des suivantes : [[fatigué]], [[secoué]] ou [[fiévreux]]. Quand il canalise de l’énergie positive, il peut débarrasser une créature vivante de la condition choisie tant qu’elle se trouve dans le rayon d’action de la canalisation. 
+- Au niveau 6, le guérisseur choisit une condition de plus, une de celles qu’il n’a pas prises au niveau 3 ou une des suivantes : [[chancelant]], [[hébété]] ou [[maladie|malade]]. Il peut éliminer cette condition ou celle qu’il a choisie au niveau 3 sur un maximum de deux créatures situées dans le rayon de la canalisation. 
+- Au niveau 9, le guérisseur choisit une condition de plus, une de celles qu’il n’a pas prises aux niveaux précédents ou une des suivantes : [[effrayé]], [[poisons|empoisonné]], [[épuisé]], [[malédiction|maudit]] ou [[nauséeux]]. Il peut éliminer cette condition ou celle qu’il a choisie aux niveaux précédents sur un maximum de deux créatures situées dans le rayon de la canalisation. 
+- Enfin, au niveau 12, le guérisseur choisit une dernière condition, une de celles qu’il n’a pas prises aux niveaux précédents ou une des suivantes : [[aveugle]], [[étourdi]], [[paralysé]] ou [[assourdi|sourd]]. Il peut éliminer cette condition ou celles qu’il a choisies aux niveaux précédents sur un maximum de trois créatures situées dans le rayon de la canalisation. 
 
-Les dons et les effets qui affectent la [grâce](./Paladin.md#GRACE) d’un paladin affectent également ce pouvoir.
+Les dons et les effets qui affectent la [[paladin#GRACE|grâce]] d’un paladin affectent également ce pouvoir.
 
 #### Véritable guérisseur (Sur)
 Au niveau 8, quand le guérisseur miséricordieux canalise de l’énergie divine, il peut appliquer les résultats de sa guérison miséricordieuse ou relancer les 1 qu’il a faits lors de la détermination des points de vie guéris. Il doit choisir l’option qu’il utilise avant de lancer les dés et de connaître le montant de points de vie guéris.

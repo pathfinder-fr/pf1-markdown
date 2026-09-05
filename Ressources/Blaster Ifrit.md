@@ -4,22 +4,22 @@ Title: Blaster Ifrit
 LastModified: 2016-09-12 20:32
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
-***Voir le [http://www.pathfinder-fr.org/Forum/yaf_postst13123_-Build-Blaster-Ifrit.aspx#post549133|sujet de discussion]***</div>
+<div class="fright">***Retour aux [[builds]].***</br>
+***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst13123_-Build-Blaster-Ifrit.aspx#post549133)***</div>
 
 <nav class="wiki-toc"></nav>
 
 ### A propos du build
 
 #### 1. Rôle du personnage
-C'est un blaster. Il utilise les sorts pour faire des dommages. Comparer aux blasters classiques, l'inquisiteur possède des points de vie plus élevé qu'un magicien et des bonus en initiative et d'armure plus élevé que le magicien. On prendra un niveau de [++Pathfinder-RPG.Théologien (prêtre).ashx|théologien] pour ne pas avoir de problèmes au niveau des sorts. [++Pathfinder-RPG.Immolateur (inquisiteur).ashx|L'immolateur] sera la base du blaster. Le jugement [++Pathfinder-RPG.jugements.ashx|châtiment] est remplacé par [++Pathfinder-RPG.Immolateur (inquisiteur).ashx|immolation], offrant un moyen de passer une réduction.
+C'est un blaster. Il utilise les sorts pour faire des dommages. Comparer aux blasters classiques, l'inquisiteur possède des points de vie plus élevé qu'un magicien et des bonus en initiative et d'armure plus élevé que le magicien. On prendra un niveau de [[Pathfinder-RPG.Théologien (prêtre).ashx|théologien]] pour ne pas avoir de problèmes au niveau des sorts. [[Pathfinder-RPG.Immolateur (inquisiteur).ashx|L'immolateur]] sera la base du blaster. Le jugement [[Pathfinder-RPG.jugements.ashx|châtiment]] est remplacé par [[Pathfinder-RPG.Immolateur (inquisiteur).ashx|immolation]], offrant un moyen de passer une réduction.
 
 #### 2. Caractéristiques et race
 
 ##### 2.1 Caractéristiques
 
 ##### 2.2 Race
-[++Pathfinder-RPG.ifrit (race).ashx|L'ifrit] est l'une des conditions requises pour l'acquisition de l'archétype de la classe [++Pathfinder-RPG.Immolateur (inquisiteur).ashx|immolateur].</br>
+[[Pathfinder-RPG.ifrit (race).ashx|L'ifrit]] est l'une des conditions requises pour l'acquisition de l'archétype de la classe [[Pathfinder-RPG.Immolateur (inquisiteur).ashx|immolateur]].</br>
 
 =>Pouvoir magique.>>>Magie éfrite. </br>
 On remplace un pouvoir magique par un boost personnel si on doit se passer de ses sorts.
@@ -49,7 +49,7 @@ Je vous conseillerais les points de vie, vu que vous pouvez être fréquemment a
 
 ##### 3.2 Traits
 
--Je vous conseille fortement [http://www.d20pfsrd.com/traits/campaign-traits/rise-of-the-runelords/outlander|Outlander] avec l'option Missionnary. Il vous donne +1 NLS et 1 pour le dd de trois sorts choisis appartenant aux domaines du feu. Les trois sorts seront mains brûlantes, sphère du feu et boule de feu.
+-Je vous conseille fortement [Outlander](http://www.d20pfsrd.com/traits/campaign-traits/rise-of-the-runelords/outlander) avec l'option Missionnary. Il vous donne +1 NLS et 1 pour le dd de trois sorts choisis appartenant aux domaines du feu. Les trois sorts seront mains brûlantes, sphère du feu et boule de feu.
 
 ##### 3.3 Capacités de classe et dons
 

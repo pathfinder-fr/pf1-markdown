@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-La cité-état de Pashow est située au sud de la [Thuvie](./Thuvie.md), sur les premiers contreforts de la chaîne de la [Barrière](./Barrière.md).
+La cité-état de Pashow est située au sud de la [[Thuvie]], sur les premiers contreforts de la chaîne de la [[Barrière]].
 
 Pashow est la plus petite des cités du pays et certainement la plus fragile politiquement. La perte des deux derniers chargements d'élixir en provenance de la citadelle y est certainement pour quelque chose.
 
-Les habitants de la ville vouent un culte très fort à [Néthys](./Néthys.md).
+Les habitants de la ville vouent un culte très fort à [[Néthys]].

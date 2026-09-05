@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Compétences#FAIRE10
 ---
 
->>> [Compétences#FAIRE10](./Compétences.md#FAIRE10)
+>>> [[Compétences#FAIRE10]]

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 20 po ; **Poids** 0,25 kg ; **DD d'Artisanat (alchimie)** 20
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Ce bâtonnet en bois traité alchimiquement crée instantanément une épaisse fumée opaque lorsqu’on le brûle. La fumée remplit un cube de 3 mètres de côté (traitez l’effet comme un sort de *[nappe de brouillard](./Nappe de brouillard.md)*, à la seule différence qu’un vent moyen ou plus fort la dissipe en 1 [round](./round.md)). Le bâton se consume au bout d’un round et la fumée se dissipe naturellement au bout d’une minute.
+Ce bâtonnet en bois traité alchimiquement crée instantanément une épaisse fumée opaque lorsqu’on le brûle. La fumée remplit un cube de 3 mètres de côté (traitez l’effet comme un sort de *[[nappe de brouillard]]*, à la seule différence qu’un vent moyen ou plus fort la dissipe en 1 [[round]]). Le bâton se consume au bout d’un round et la fumée se dissipe naturellement au bout d’une minute.

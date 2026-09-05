@@ -7,12 +7,12 @@ Categories:
 ---
 
 {s:DieuTech|Sarenraé|Trudd,  
-Le Puissant|Le symbole de Trudd est un marteau de guerre devant un bouclier doré|[Divinités principales](./Divinités.md#PRINCIPALES), [naines](./Divinités.md#RACIALES)
+Le Puissant|Le symbole de Trudd est un marteau de guerre devant un bouclier doré|[[Divinités#PRINCIPALES|Divinités principales]], [[Divinités#RACIALES|naines]]
 |Neutre Bon|Courage, défense et force
 |Nains|Ours
-|[Marteau de guerre](./marteau de guerre (arme).md)
-|[Bien](./Domaine du Bien.md), [Force](./Domaine de la Force.md), [Noblesse](./Domaine de la Noblesse.md), [Protection](./Domaine de la Protection.md)
-|[Agathion](./Domaine du Bien.md), [Défense](./Domaine de la Protection.md), [Martyre](./Domaine de la Noblesse.md), [Résolution](./Domaine de la Force.md)
+|[[Marteau de guerre (arme)|Marteau de guerre]]
+|[[Domaine du Bien|Bien]], [[Domaine de la Force|Force]], [[Domaine de la Noblesse|Noblesse]], [[Domaine de la Protection|Protection]]
+|[[Domaine du Bien|Agathion]], [[Domaine de la Protection|Défense]], [[Domaine de la Noblesse|Martyre]], [[Domaine de la Force|Résolution]]
 |—}{s:cs}{s:ISG}Trudd est le plus jeune fils de Torag et est dépeint avec une barde inhabituellement courte, ce qui remet en cause sa réputation en tant que dieu le plus puissant. Certains érudits affirment qu'il a vendu sa barbe a Dranngvit en échange d'une bénédiction inconnue, mais la plupart des théologiens nains considèrent cette histoire comme hérétique.
 
 #### Code de conduite du paladin

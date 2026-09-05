@@ -4,6 +4,6 @@ Title: Férocité (Ext)
 LastModified: 2011-07-02 21:01
 ---
 
-Les créatures dotées de cette capacité restent conscientes et continuent de se battre même si leur total de [points de vie](./pv.md) passe sous 0. Elles sont néanmoins [chancelantes](./Chancelant.md) et perdent 1 point de vie chaque round. Elles meurent lorsque leur total de points de vie atteint une valeur négative égale à leur valeur de [Constitution](./Constitution.md).
+Les créatures dotées de cette capacité restent conscientes et continuent de se battre même si leur total de [[pv|points de vie]] passe sous 0. Elles sont néanmoins [[chancelant|chancelantes]] et perdent 1 point de vie chaque round. Elles meurent lorsque leur total de points de vie atteint une valeur négative égale à leur valeur de [[Constitution]].
 
 *Format :* férocité. *Emplacement :* Capacités défensives.

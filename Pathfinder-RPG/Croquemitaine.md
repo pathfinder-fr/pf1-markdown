@@ -10,8 +10,8 @@ LastModified: 2021-02-21 20:18
 {s:pucem|Fée|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.65*}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Fée](./type Fée.md) de taille M, NM}
-{s:BDTexte|**Init** +9 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +23}
+{s:BDTexte|[[type Fée|Fée]] de taille M, NM}
+{s:BDTexte|**Init** +9 ; **Sens** [[vision nocturne]] ; [[Perception]] +23}
 {s:BDTexte|**Aura** peur enfouie (9 m (6 {s:c}), DD 25)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 23, pris au dépourvu 17 (Dex +5, esquive +1, parade +7)}
@@ -23,17 +23,17 @@ LastModified: 2021-02-21 20:18
 {s:BDTexte|**Corps à corps** 2 griffes, +13 (1d8+1/19-20)}
 {s:BDTexte|**Attaques spéciales** attaque sournoise +6d6, terreur saisissante}
 {s:BDTexte|**Pouvoirs magiques** (NLS 16 ; concentration +17)}
-{s:BDTexte|Constant — [détection de pensées](./Détection de pensées.md), [don des langues](./Don des langues.md)}
-{s:BDTexte|À volonté — [état gazeux](./État gazeux.md), [invisibilité](./Invisibilité.md), [son imaginaire](./Son imaginaire.md) (DD 17), [suggestion](./Suggestion.md)} (DD 20), [ténèbres](./Ténèbres.md)
-{s:BDTexte|3/jour — [désespoir foudroyant](./Désespoir foudroyant.md) (DD 21), [immobilisation de personne](./Immobilisation de personne.md) (DD 20), [incantation rapide](./Incantation rapide.md) de assassin imaginaire (DD 21)}
-{s:BDTexte|1/jour — [sort cauchemar](./sort Cauchemar.md) (DD 22)}
+{s:BDTexte|Constant — [[détection de pensées]], [[don des langues]]}
+{s:BDTexte|À volonté — [[état gazeux]], [[invisibilité]], [[son imaginaire]] (DD 17), [[suggestion]]} (DD 20), [[ténèbres]]
+{s:BDTexte|3/jour — [[désespoir foudroyant]] (DD 21), [[immobilisation de personne]] (DD 20), [[incantation rapide]] de assassin imaginaire (DD 21)}
+{s:BDTexte|1/jour — [[sort cauchemar]] (DD 22)}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 12, **Dex** 21, **Con** 14, **Int** 15, **Sag** 16, **Cha** 25}
 {s:BDTexte|**BBA** +8, **BMO** +9, **DMD** 32}
-{s:BDTexte|**Dons** [Attaque éclair](./Attaque éclair.md), [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (assassin imaginaire), [Science de l'initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (griffe), [Souplesse du serpent](./Souplesse du serpent.md), [Talent](./Talent.md) (Discrétion), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +12, [Bluff](./Bluff.md) +27, [Connaissances](./Connaissances.md) (folklore local) +16, [Diplomatie](./Diplomatie.md) +20,[Discrétion](./Discrétion.md) +35, [Évasion](./Évasion.md) +18, [Intimidation](./Intimidation.md) +28, [Perception](./Perception.md) +23, [Psychologie](./Psychologie.md) +23, [Sabotage](./Sabotage.md) +15}
-{s:BDTexte|**Modificateurs raciaux** [Discrétion](./Discrétion.md) +4, [Intimidation](./Intimidation.md) +4}
-{s:BDTexte|**Langues** aklo, commun ; [don des langues](./Don des langues.md)}
+{s:BDTexte|**Dons** [[Attaque éclair]], [[Attaque en finesse]], [[Esquive]], [[Pouvoir magique rapide]] (assassin imaginaire), [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (griffe), [[Souplesse du serpent]], [[Talent]] (Discrétion), [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +12, [[Bluff]] +27, [[Connaissances]] (folklore local) +16, [[Diplomatie]] +20,[[Discrétion]] +35, [[Évasion]] +18, [[Intimidation]] +28, [[Perception]] +23, [[Psychologie]] +23, [[Sabotage]] +15}
+{s:BDTexte|**Modificateurs raciaux** [[Discrétion]] +4, [[Intimidation]] +4}
+{s:BDTexte|**Langues** aklo, commun ; [[don des langues]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire}

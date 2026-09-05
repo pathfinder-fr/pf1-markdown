@@ -10,13 +10,13 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Transmutation](./Transmutation.md) ; **Niveau** [Hyp](./Hypnotiseur.md) 1, [Psy](./Psychiste.md) 1, [Spi](./Spirite.md) 1  
+{s:AO}** École **[[Transmutation]] ; **Niveau** [[Hypnotiseur|Hyp]] 1, [[Psychiste|Psy]] 1, [[Spirite|Spi]] 1  
 
-**Temps d’incantation** 1 [action immédiate](./Action immédiate.md)  
+**Temps d’incantation** 1 [[action immédiate]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 
@@ -24,4 +24,4 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Le personnage puise dans les réserves internes de son corps et reste essoufflé. Quand il est sur le point de faire un jet de d20 basé sur la [Force](./Force.md), la [Dextérité](./Dextérité.md) ou la [Constitution](./Constitution.md), il peut lancer ce sort pour gagner un bonus de +8 à cette caractéristique pour ce jet mais il est ensuite [fatigué](./États préjudiciables.md#Fatigué) pendant 1 [round](./round.md).
+Le personnage puise dans les réserves internes de son corps et reste essoufflé. Quand il est sur le point de faire un jet de d20 basé sur la [[Force]], la [[Dextérité]] ou la [[Constitution]], il peut lancer ce sort pour gagner un bonus de +8 à cette caractéristique pour ce jet mais il est ensuite [[États préjudiciables#Fatigué|fatigué]] pendant 1 [[round]].

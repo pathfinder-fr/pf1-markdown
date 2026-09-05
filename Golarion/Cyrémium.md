@@ -7,13 +7,13 @@ Categories:
 - Ville
 ---
 
-{s:Communauté|Cyrémium (ville)|[Andoran](./Andoran.md)|[Arthfell](./Arthfell.md)||||370 (petite bourgade)||}Cyrémium est un petit village de pêcheurs isolé sur la côte de la [mer Intérieure](./mer Intérieure.md), juste à l'est de la pointe sud du [Cap de l'espérance](./Cap-de-lespérance.md) sur le [plateau de Missa](./Plateau de Missa.md). Maintenant située dans la région d'[Arthfell](./Arthfell.md) en [Andoran](./Andoran.md), la ville était autrefois l'emplacement d'une forteresse [taldorienne](./Taldor.md) qui a été abandonnée peu de temps après la fin de la Conquête de la Langue Évanescente de 4081 AR. Les colons locaux ont commencé à démanteler les quatre tours de guet pour construire leurs maisons dès que les soldats sont partis, bien que les murs extérieurs blanchis par le soleil soient toujours debout.<sup>(1)</sup><sup>(2)</sup><sup>(3)</sup>
+{s:Communauté|Cyrémium (ville)|[[Andoran]]|[[Arthfell]]||||370 (petite bourgade)||}Cyrémium est un petit village de pêcheurs isolé sur la côte de la [[mer Intérieure]], juste à l'est de la pointe sud du [[Cap de lespérance|Cap de l'espérance]] sur le [[plateau de Missa]]. Maintenant située dans la région d'[[Arthfell]] en [[Andoran]], la ville était autrefois l'emplacement d'une forteresse [[Taldor|taldorienne]] qui a été abandonnée peu de temps après la fin de la Conquête de la Langue Évanescente de 4081 AR. Les colons locaux ont commencé à démanteler les quatre tours de guet pour construire leurs maisons dès que les soldats sont partis, bien que les murs extérieurs blanchis par le soleil soient toujours debout.<sup>(1)</sup><sup>(2)</sup><sup>(3)</sup>
 
 #### Géographie
 Une arche en pierre mène encore aujourd'hui à la place centrale de la ville, et quatre rues pavées en partent et traversent le reste de la ville. La plupart des petites maisons de la ville sont faites en un bois recouvert d'argile et éclaboussé de chaux décolorée.<sup>(1)</sup> Lors d'attaques de pirates, les habitants de Cyrémium se retirent dans leurs vastes caves, les grottes voisines ou d'autres endroits sécurisés pour attendre la fin de l'attaque.<sup>(3)</sup>
 
 #### Habitants
-Comme beaucoup d'autres petites villes de pêcheurs le long de la côte [andorane](./Andoran.md) de la [mer Intérieure](./mer Intérieure.md), Cyrémium a peu d'animation à offrir à ses jeunes. Pour combattre leur ennui, beaucoup d'entre eux partent rejoindre les rangs de la marine andorane ou naviguer à bord d'un navire marchand et explorer le monde.<sup>(3)</sup>
+Comme beaucoup d'autres petites villes de pêcheurs le long de la côte [[Andoran|andorane]] de la [[mer Intérieure]], Cyrémium a peu d'animation à offrir à ses jeunes. Pour combattre leur ennui, beaucoup d'entre eux partent rejoindre les rangs de la marine andorane ou naviguer à bord d'un navire marchand et explorer le monde.<sup>(3)</sup>
 
 
 #### Histoire récente

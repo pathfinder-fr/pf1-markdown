@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Berus est un petit village situé au nord du comté d'[Ardeal](./Ardeal.md), en [Ustalav](./Ustalav.md).
+Berus est un petit village situé au nord du comté d'[[Ardeal]], en [[Ustalav]].

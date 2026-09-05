@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ce marteau lourd à deux mains est normalement utilisé pour la charpenterie et autres travaux de construction mais il est sert aussi à planter des piquets de tente afin de sécuriser les campements dans les zones où les vents soufflent fort. S'il est utilisé en combat, traitez-le comme un [briseterre](./briseterre (arme).md) [improvisé](./arme improvisée.md).
+Ce marteau lourd à deux mains est normalement utilisé pour la charpenterie et autres travaux de construction mais il est sert aussi à planter des piquets de tente afin de sécuriser les campements dans les zones où les vents soufflent fort. S'il est utilisé en combat, traitez-le comme un [[briseterre (arme)|briseterre]] [[arme improvisée|improvisé]].

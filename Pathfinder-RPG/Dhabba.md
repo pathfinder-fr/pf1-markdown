@@ -13,17 +13,17 @@ Categories:
 <div class="BD">
 {s:BDtitre|Dhabba|FP 1}
 {s:pucem|Animal|Désert|Tropical}
-{s:BDtexte|*Source : [Guide du Katapesh p.61](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide du Katapesh p.61]]*}
 {s:BDtexte|**PX** 400}
-{s:BDtexte|[Animal](./type Animal.md) de taille M, N}
-{s:BDtexte|**Init** +3 ; **Sens** [odorat](./Odorat (capacité).md), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +2}
+{s:BDtexte|[[type Animal|Animal]] de taille M, N}
+{s:BDtexte|**Init** +3 ; **Sens** [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +2}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 15, contact 13, pris au dépourvu 12 (Dex +3, naturelle +2)}
 {s:BDtexte|**pv** 11 (2d8+2)}
 {s:BDtexte|**Réf** +3, **Vig** +4, **Vol** +0}
 {s:BDsoustitre|Attaque}
 {s:BDtexte|**VD** 12 m}
-{s:BDtexte|**Corps à corps** morsure, +2 (1d6+1 plus [poison](./Poison (capacité).md))}
+{s:BDtexte|**Corps à corps** morsure, +2 (1d6+1 plus [[Poison (capacité)|poison]])}
 {s:BDsoustitre|Tactique}
 {s:BDtexte|**Avant le combat.** Les dhabbas évitent les situations où d’autres prédateurs (en particulier ceux plus grands qu’eux) sont en train de chasser et évitent même la plupart des autres charognards.}
 {s:BDtexte|**Pendant le combat.** Un dhabba lance plusieurs attaques contre une cible unique, en général celle qui semble faible ou malade par rapport aux autres. Elle la mord en permanence, espérant tuer son ennemi grâce à sa morsure venimeuse.}
@@ -31,13 +31,13 @@ Categories:
 {s:BDsoustitre|Statistiques}
 {s:BDtexte|**For** 13, **Dex** 16, **Con** 12, **Int** 2, **Sag** 11, **Cha** 5}
 {s:BDtexte|**BBA** +1, **BMO** +2, **DMD** 15}
-{s:BDtexte|**Dons** [Vigilance](./Vigilance.md)}
-{s:BDtexte|**Compétences** [Discrétion](./Discrétion.md) +8, [Perception](./Perception.md) +2}
+{s:BDtexte|**Dons** [[Vigilance]]}
+{s:BDtexte|**Compétences** [[Discrétion]] +8, [[Perception]] +2}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** plaines désertiques et chaudes}
 {s:BDtexte|**Organisation sociale** solitaire, groupe (2-7) ou meute (6-24)}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Poison (Sur).** Blessure - *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 12, *effet initial* [nauséeux](./Nauséeux.md) pendant 1 [round](./round.md) ; *effet secondaire* 1d4 points de dégâts. Le DD du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDtexte|**Poison (Sur).** Blessure - *JdS* [[Vigueur]] [[DD]] 12, *effet initial* [[nauséeux]] pendant 1 [[round]] ; *effet secondaire* 1d4 points de dégâts. Le DD du jet de sauvegarde est basé sur la [[Constitution]].}
 </div>
 </td>
 <td>

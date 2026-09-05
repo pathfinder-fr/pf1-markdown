@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Vase|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 24*}
 - **400 PX**
-- [Vase](./type Vase.md) de taille TP, N
-- **Init **-5 ; **Sens** [vision aveugle](./vision aveugle.md) 9 m ; [Perception](./Perception.md) -4
+- [[type vase|Vase]] de taille TP, N
+- **Init **-5 ; **Sens** [[vision aveugle]] 9 m ; [[Perception]] -4
 (((Défense)))
 - **CA** 7, contact 7, pris au dépourvu 7 (Dex -5, taille +2)
 - **pv** 15 (2d8+6)
 - **Réf **-5, **Vig **+3, **Vol **-4
-- **Immunité** [traits des vases](./Traits des vases.md) ; **Résistance** acide 10
+- **Immunité** [[traits des vases]] ; **Résistance** acide 10
 (((Attaque)))
 - **VD** 3 m, escalade 3 m, nage 3 m
 - **Corps à corps** coup, +4 (1d2+1 plus maladie)
@@ -29,7 +29,7 @@ Categories:
 (((Statistiques)))
 - **For** 12, **Dex** 1, **Con** 17, **Int **—, **Sag** 2, **Cha** 1
 - **BBA **+1 ; **BMO **-6 ; **DMD** 5 (croc-en-jambe impossible)
-- **Compétences** [Escalade](./Escalade.md) +9, [Natation](./Natation.md) +9
+- **Compétences** [[Escalade]] +9, [[Natation]] +9
 (((Écologie)))
 - **Environnement** tous
 - **Organisation** solitaire ou infection (2-20)

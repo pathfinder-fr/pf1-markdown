@@ -4,7 +4,7 @@ Title: Rôdeur switch hitter
 LastModified: 2016-01-31 11:33
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
+<div class="fright">***Retour aux [[builds]].***</br>
 ***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postst9565_Le-rodeur--switch-hitter.aspx#post391215)***</div><nav class="wiki-toc"></nav>
 
 ### A propos du build
@@ -35,7 +35,7 @@ En 25 pts : For 18 (16+2), Dex 15, Con 14, Int 10, Sag 13, Cha 10
 
 #### 3. Plan de carrière
 
-On utilise les dons réguliers pour développer l'aspect mêlée et les dons bonus pour l'archerie, le style de combat du [++Pathfinder-RPG.Rôdeur.ashx|rôdeur] permettant d'ignorer les pré-requis.
+On utilise les dons réguliers pour développer l'aspect mêlée et les dons bonus pour l'archerie, le style de combat du [[Pathfinder-RPG.Rôdeur.ashx|rôdeur]] permettant d'ignorer les pré-requis.
 
 ##### 3.1 Bonus de classe de prédilection
 
@@ -49,7 +49,7 @@ Don pour la magie, pour booster un peu le NLS.
 
 **3.3.1 Capacités de classe**
 
-Le style de combat est l'archerie. On prend en priorité les dons permettant d'augmenter les dégâts : [++Pathfinder-RPG.Tir rapide.ashx|Tir rapide] (2), [++Pathfinder-RPG.Feu nourri.ashx|Feu nourri] (6), [++Pathfinder-RPG.Science du tir de précision.ashx|Science du tir de précision] (10), [++Pathfinder-RPG.Tir de loin.ashx|Tir de loin] (14), ?? (18).</br>
+Le style de combat est l'archerie. On prend en priorité les dons permettant d'augmenter les dégâts : [[Pathfinder-RPG.Tir rapide.ashx|Tir rapide]] (2), [[Pathfinder-RPG.Feu nourri.ashx|Feu nourri]] (6), [[Pathfinder-RPG.Science du tir de précision.ashx|Science du tir de précision]] (10), [[Pathfinder-RPG.Tir de loin.ashx|Tir de loin]] (14), ?? (18).</br>
 Le seul pacte du chasseur valable est le compagnon animal, quelque soit le rôdeur.</br>
 Les ennemis et terrains favoris dépendent bien évidemment de la campagne. Hors considération spécifique, on a toujours besoin de :</br>
 - Terrains favoris : souterrain, qui s'applique à tout type de donjons.</br>
@@ -58,32 +58,32 @@ Si vous jouez une campagne du commerce, jetez un oeil au "Player's guide" associ
 
 **3.3.2 Dons**
 
-[++Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance] (1) augmente les dégâts en mêlée, [++Pathfinder-RPG.Viser.ashx|Viser] (1) étant son équivalent pour les attaques à distance. [++Pathfinder-RPG.Arme en main.ashx|Arme en main] (1) permet de passer d'une arme à l'autre en action libre. Ces 3 dons constituent l'ossature du build.
-Au-delà de ça, [++Pathfinder-RPG.Science du critique.ashx|Science de l'initiative] (1) est toujours bien, [++Pathfinder-RPG.Volonté de fer.ashx|Volonté fer] (1) aide le JS faible, [++Pathfinder-RPG.Fente.ashx|Fente] (7) donne de l'allonge, [http://www.d20pfsrd.com/feats/general-feats/boon-companion|Boon Companion] (5) amène le compagnon animal au niveau de celui du druide. Les dons de critique ([++Pathfinder-RPG.Science du critique.ashx|Science du critique] (9), [++Pathfinder-RPG.Don pour les critiques.ashx|Don pour les critiques] (9), [++Pathfinder-RPG.Critique ralentissant.ashx|Critique ralentissant] (13)) peuvent être envisagés à haut niveau. [++Pathfinder-RPG.Tirs groupés.ashx|Tirs groupés] gère la RD à distance, mais cet aspect est déjà partiellement couvert par la dualité mêlée / distance et les flèches en matériaux spéciaux, et ce don demande [++Pathfinder-RPG.Tir à bout portant.ashx|Tir à bout portant], don qui ne nous intéresse pas. </br>
+[[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]] (1) augmente les dégâts en mêlée, [[Pathfinder-RPG.Viser.ashx|Viser]] (1) étant son équivalent pour les attaques à distance. [[Pathfinder-RPG.Arme en main.ashx|Arme en main]] (1) permet de passer d'une arme à l'autre en action libre. Ces 3 dons constituent l'ossature du build.
+Au-delà de ça, [[Pathfinder-RPG.Science du critique.ashx|Science de l'initiative]] (1) est toujours bien, [[Pathfinder-RPG.Volonté de fer.ashx|Volonté fer]] (1) aide le JS faible, [[Pathfinder-RPG.Fente.ashx|Fente]] (7) donne de l'allonge, [Boon Companion](http://www.d20pfsrd.com/feats/general-feats/boon-companion) (5) amène le compagnon animal au niveau de celui du druide. Les dons de critique ([[Pathfinder-RPG.Science du critique.ashx|Science du critique]] (9), [[Pathfinder-RPG.Don pour les critiques.ashx|Don pour les critiques]] (9), [[Pathfinder-RPG.Critique ralentissant.ashx|Critique ralentissant]] (13)) peuvent être envisagés à haut niveau. [[Pathfinder-RPG.Tirs groupés.ashx|Tirs groupés]] gère la RD à distance, mais cet aspect est déjà partiellement couvert par la dualité mêlée / distance et les flèches en matériaux spéciaux, et ce don demande [[Pathfinder-RPG.Tir à bout portant.ashx|Tir à bout portant]], don qui ne nous intéresse pas. </br>
 
 ##### 3.4 Sorts
 
-Le [++Pathfinder-RPG.Rôdeur.ashx|rôdeur] n'a qu'une poignée de sorts : on se focalisera sur les sorts à longue durée, histoire d'en bénéficier un maximum.</br>
+Le [[Pathfinder-RPG.Rôdeur.ashx|rôdeur]] n'a qu'une poignée de sorts : on se focalisera sur les sorts à longue durée, histoire d'en bénéficier un maximum.</br>
 Disposer d'une mini-liste de sorts permet surtout d'utiliser parchemins et baguettes.
 
 **3.4.1 Sorts de niveau 1**
 
-- [++Pathfinder-RPG.Grand pas.ashx|Grand pas]
-- [++Pathfinder-RPG.Ralentissement du poison.ashx|Ralentissement du poison]
-- [++Pathfinder-RPG.Résistance aux énergies destructives.ashx|Résistance aux énergies destructives]
+- [[Pathfinder-RPG.Grand pas.ashx|Grand pas]]
+- [[Pathfinder-RPG.Ralentissement du poison.ashx|Ralentissement du poison]]
+- [[Pathfinder-RPG.Résistance aux énergies destructives.ashx|Résistance aux énergies destructives]]
 
 **3.4.2 Sorts de niveau 2**
 
-- [++Pathfinder-RPG.Peau décorce.ashx|Peau d'écorce]
+- [[Pathfinder-RPG.Peau décorce.ashx|Peau d'écorce]]
 
 **3.4.3 Sorts de niveau 3**
 
-- [++Pathfinder-RPG.Ennemi du moment.ashx|Ennemi du moment]
+- [[Pathfinder-RPG.Ennemi du moment.ashx|Ennemi du moment]]
 
 **3.4.4 Sorts de niveau 4**
 
-- [++Pathfinder-RPG.Antidétection.ashx|Antidétection]
-- [++Pathfinder-RPG.Liberté de mouvement.ashx|Liberté de mouvement]
+- [[Pathfinder-RPG.Antidétection.ashx|Antidétection]]
+- [[Pathfinder-RPG.Liberté de mouvement.ashx|Liberté de mouvement]]
 
 #### 4. Équipement
 
@@ -97,43 +97,43 @@ Du côté des objets non- magiques, on trouve les flèches à bout rond, et les 
 |- CLASS="titre"
 | Niveau || Classe || BBA || NLS || Capacités de classe, dons
 |- CLASS="premier"
-| 01 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 1 || +1 || - || [++Pathfinder-RPG.Arme en main.ashx|Arme en main]
+| 01 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 1 || +1 || - || [[Pathfinder-RPG.Arme en main.ashx|Arme en main]]
 |-
-| 02 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 2 || +2 || - || [++Pathfinder-RPG.rôdeur.ashx#DONDESTYLEDECOMBAT|Don de style de combat] : [++Pathfinder-RPG.Tir rapide.ashx|Tir rapide]
+| 02 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 2 || +2 || - || [[Pathfinder-RPG.rôdeur.ashx#DONDESTYLEDECOMBAT|Don de style de combat]] : [[Pathfinder-RPG.Tir rapide.ashx|Tir rapide]]
 |-
-| 03 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 3 || +3 || - || [++Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]
+| 03 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 3 || +3 || - || [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]
 |-
-| 04 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 4 || +4 || 1 || &nbsp;
+| 04 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 4 || +4 || 1 || &nbsp;
 |-
-| 05 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 5 || +5 || 2 || [++Pathfinder-RPG.Viser.ashx|Viser]
+| 05 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 5 || +5 || 2 || [[Pathfinder-RPG.Viser.ashx|Viser]]
 |-
-| 06 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 6 || +6/+1 || 3 || [++Pathfinder-RPG.rôdeur.ashx#DONDESTYLEDECOMBAT|Don de style de combat] : [++Pathfinder-RPG.Feu nourri.ashx|Feu nourri]
+| 06 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 6 || +6/+1 || 3 || [[Pathfinder-RPG.rôdeur.ashx#DONDESTYLEDECOMBAT|Don de style de combat]] : [[Pathfinder-RPG.Feu nourri.ashx|Feu nourri]]
 |-
-| 07 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 7 || +7/+2 || 4 || [++Pathfinder-RPG.Science de linitiative.ashx|Science de l'initiative]
+| 07 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 7 || +7/+2 || 4 || [[Pathfinder-RPG.Science de linitiative.ashx|Science de l'initiative]]
 |-
-| 08 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 8 || +8/+3 || 5 || &nbsp;
+| 08 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 8 || +8/+3 || 5 || &nbsp;
 |-
-| 09 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 9 || +9/+4 || 6 || [++Pathfinder-RPG.Volonté de fer.ashx|Volonté de fer]
+| 09 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 9 || +9/+4 || 6 || [[Pathfinder-RPG.Volonté de fer.ashx|Volonté de fer]]
 |-
-| 10 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 10 || +10/+5 || 7 || [++Pathfinder-RPG.rôdeur.ashx#DONDESTYLEDECOMBAT|Don de style de combat] : [++Pathfinder-RPG.Science du tir de précision.ashx|Science du tir de précision]
+| 10 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 10 || +10/+5 || 7 || [[Pathfinder-RPG.rôdeur.ashx#DONDESTYLEDECOMBAT|Don de style de combat]] : [[Pathfinder-RPG.Science du tir de précision.ashx|Science du tir de précision]]
 |-
-| 11 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 11 || +11/+6/+1 || 8 || [++Pathfinder-RPG.Fente.ashx|Fente]
+| 11 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 11 || +11/+6/+1 || 8 || [[Pathfinder-RPG.Fente.ashx|Fente]]
 |-
-| 12 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 12 || +12/+7/+2 || 9 || &nbsp;
+| 12 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 12 || +12/+7/+2 || 9 || &nbsp;
 |-
-| 13 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 13 || +13/+8/+3 || 10 || [++Pathfinder-RPG.Science du critique.ashx|Science du critique]
+| 13 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 13 || +13/+8/+3 || 10 || [[Pathfinder-RPG.Science du critique.ashx|Science du critique]]
 |-
-| 14 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 14 || +14/+9/+4 || 11 || [++Pathfinder-RPG.rôdeur.ashx#DONDESTYLEDECOMBAT|Don de style de combat] : [++Pathfinder-RPG.Tir de loin.ashx|Tir de loin]
+| 14 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 14 || +14/+9/+4 || 11 || [[Pathfinder-RPG.rôdeur.ashx#DONDESTYLEDECOMBAT|Don de style de combat]] : [[Pathfinder-RPG.Tir de loin.ashx|Tir de loin]]
 |-
-| 15 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 15 || +15/+10/+5 || 12 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don] au choix
+| 15 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 15 || +15/+10/+5 || 12 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]] au choix
 |-
-| 16 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 16 || +16/+11/+6/+1 || 13 || &nbsp;
+| 16 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 16 || +16/+11/+6/+1 || 13 || &nbsp;
 |-
-| 17 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 17 || +17/+12/+7/+2 || 14 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don] au choix
+| 17 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 17 || +17/+12/+7/+2 || 14 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]] au choix
 |-
-| 18 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 18 || +18/+13/+8/+3 || 15 || [++Pathfinder-RPG.rôdeur.ashx#DONDESTYLEDECOMBAT|Don de style de combat] au choix
+| 18 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 18 || +18/+13/+8/+3 || 15 || [[Pathfinder-RPG.rôdeur.ashx#DONDESTYLEDECOMBAT|Don de style de combat]] au choix
 |-
-| 19 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 19 || +19/+14/+9/+4 || 16 || [++Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don] au choix
+| 19 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 19 || +19/+14/+9/+4 || 16 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don]] au choix
 |-
-| 20 || [++Pathfinder-RPG.Rôdeur.ashx|Rôdeur] 20 || +20/+15/+10/+5 || 17 || &nbsp;
+| 20 || [[Pathfinder-RPG.Rôdeur.ashx|Rôdeur]] 20 || +20/+15/+10/+5 || 17 || &nbsp;
 |}

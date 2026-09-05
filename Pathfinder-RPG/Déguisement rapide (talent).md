@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#DEGUISEMENTRAPIDE
 ---
 
->>> [Talents#DEGUISEMENTRAPIDE](./Talents.md#DEGUISEMENTRAPIDE)
+>>> [[Talents#DEGUISEMENTRAPIDE]]

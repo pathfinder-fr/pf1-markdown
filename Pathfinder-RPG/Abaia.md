@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 7*}
 {s:BDTexte|9 600 PX}
-{s:BDTexte| [Créature magique](./type Créature magique.md) ([aquatique](./sous-type aquatique.md)) de taille TG, N}
-{s:BDTexte|**Init** +3; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m, *[vision magique](./Vision magique.md)*, [vision nocturne](./vision nocturne.md) ; Perception +19}
+{s:BDTexte| [[type Créature magique|Créature magique]] ([[sous-type aquatique|aquatique]]) de taille TG, N}
+{s:BDTexte|**Init** +3; **Sens** [[vision dans le noir]] 18 m, *[[vision magique]]*, [[vision nocturne]] ; Perception +19}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 11, pris au dépourvu 22 (Dex +3, naturelle +14, taille -2)}
 {s:BDTexte|**pv** 147 (14d10+70)}
@@ -23,19 +23,19 @@ Categories:
 {s:BDTexte|**RM** 21 (seulement dans l’eau)}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), nage 24 m (12 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +21 (3d6+8/19-20 plus [étreinte](./Étreinte.md)) et coup de queue, +15 (2d6+4 plus [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure, +21 (3d6+8/19-20 plus [[étreinte]]) et coup de queue, +15 (2d6+4 plus [[étreinte]])}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaque spéciale** anneaux infinis, [constriction](./constriction.md) (2d6+12)}
+{s:BDTexte|**Attaque spéciale** anneaux infinis, [[constriction]] (2d6+12)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 14 ; concentration +17)}
-{s:BDSorts|**Constant**— *[communication avec les animaux](./Communication avec les animaux.md)*, *[vision magique](./Vision magique.md)*}
-{s:BDSorts|**À volonté**— *[contrôle de l'eau](./Contrôle de leau.md)*, *[lueur d’arc-en-ciel](./Lueur darc-en-ciel.md)* (DD 17), *[torrent hydraulique](./Torrent hydraulique.md)*}
-{s:BDSorts|**1/jour** — *[contrôle du climat](./Contrôle du climat.md)*}
+{s:BDSorts|**Constant**— *[[communication avec les animaux]]*, *[[vision magique]]*}
+{s:BDSorts|**À volonté**— *[[contrôle de leau|contrôle de l'eau]]*, *[[lueur darc-en-ciel|lueur d’arc-en-ciel]]* (DD 17), *[[torrent hydraulique]]*}
+{s:BDSorts|**1/jour** — *[[contrôle du climat]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 16, **Con** 21, **Int** 17, **Sag** 14, **Cha** 17}
 {s:BDTexte|**BBA** +14 ; **BMO** +24 (+28 lutte) ; **DMD** 37 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Frappe décisive](./Frappe décisive.md), [Science du critique](./Science du critique.md) (morsure), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +17, [Connaissances](./Connaissances.md) (mystères) +17, [Connaissances](./Connaissances.md) (nature) +17, [Discrétion](./Discrétion.md) +12 (+24 dans l’eau), [Natation](./Natation.md) +19, [Perception](./Perception.md) +19 ; **Modificateurs raciaux** +12 en [Discrétion](./Discrétion.md) dans l’eau}
-{s:BDTexte|**Langues** aquatique, sylvestre ; *[communication avec les animaux](./Communication avec les animaux.md)*}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Critique ralentissant]], [[Don pour les critiques]], [[Frappe décisive]], [[Science du critique]] (morsure), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +17, [[Connaissances]] (mystères) +17, [[Connaissances]] (nature) +17, [[Discrétion]] +12 (+24 dans l’eau), [[Natation]] +19, [[Perception]] +19 ; **Modificateurs raciaux** +12 en [[Discrétion]] dans l’eau}
+{s:BDTexte|**Langues** aquatique, sylvestre ; *[[communication avec les animaux]]*}
 {s:BDTexte|**Particularités** chevaucheur des vagues, étrange gésier}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** lacs chauds}

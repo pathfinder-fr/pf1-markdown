@@ -4,11 +4,11 @@ Title: Attente dans les coulisses
 LastModified: 2022-02-08 16:31
 ---
 
-• [Retour à la page de la campagne](./AP26.md)   
+• [[AP26|Retour à la page de la campagne]]   
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des campagnes et aventures officielles pour Pathfinder 2](./AP.md)
+• [[AP|Retour à la page des campagnes et aventures officielles pour Pathfinder 2]]
 
 Axel n’était pas son vrai nom. Il avait choisi un nom qui pourrait résonner dans tout le grand chapiteau, quelque chose qui pouvait se combiner avec « Attractions Aviaires ». C’est ainsi qu’il était devenu Axel, des Attractions Aviaires d’Axel, et personne ne savait qui il avait été avant de rejoindre le Cirque des Merveilles Rebelles. Il était certain que ce nouveau nom allait le mener vers sa première véritable représentation.
 

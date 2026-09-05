@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:UI}**Prix** 410 po ; **Poids** — ; **DD d'Artisanat (alchimie)** 25
-<span class="Catégorie">**Catégorie** [Outils alchimiques](./Outils alchimiques.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils alchimiques]]</span>
 ---
-Mâcher cette substance gommeuse accorde 1d4 utilisations d'[inspiration alchimique](./Outils alchimiques.md#INSPIRATION) qui ne peuvent être dépensées que sur les tests de compétence basés sur le [Charisme](./Charisme.md). Les avantages de la résine didactique durent 1 heure ; pendant cette durée, le personnage doit lancer deux fois tous les tests de compétence basés sur la [Sagesse](./Sagesse.md) et conserver le pire résultat.
+Mâcher cette substance gommeuse accorde 1d4 utilisations d'[[Outils alchimiques#INSPIRATION|inspiration alchimique]] qui ne peuvent être dépensées que sur les tests de compétence basés sur le [[Charisme]]. Les avantages de la résine didactique durent 1 heure ; pendant cette durée, le personnage doit lancer deux fois tous les tests de compétence basés sur la [[Sagesse]] et conserver le pire résultat.

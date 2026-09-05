@@ -9,28 +9,28 @@ Categories:
 ---
 
 {s:UM}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[froid](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Occ](./Occultiste.md) 6, [Prê](./Prêtre.md) 6  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|froid]]<nowiki>]</nowiki> ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6  
 
-**Temps d’incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d’incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** 9 m (6 {s:c})  
 
 **Effet** ligne de 9m (6 {s:c})  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] ; **Résistance à la magie** oui
 
 {s:FAQ|**'<u>Ce texte a été modifié suite à la FAQ suivante :</u>
 
-[→](./FAQ- lArt de la magie.md#41) Froide frappe de glace (page 228): Quelles sont les composantes de ce sort ? Son temps d’incantation est-il bien 1 action rapide ?**'
+[[FAQ- lArt de la magie#41|→]] Froide frappe de glace (page 228): Quelles sont les composantes de ce sort ? Son temps d’incantation est-il bien 1 action rapide ?**'
 
 Les Composantes devraient être : V, G.
 Le Temps d’incantation est 1 action rapide.
 La Portée devrait être 9 m et la Zone d’effet devrait être une ligne de 9 m. Toutes les références à un « cône » dans la description du sort devraient indiquer « ligne ».
 
-Mise à jour : Page 228, <u>*[froide frappe de glace](./Froide frappe de glace.md)*</u>, après Temps d’incantation, ajoutez une ligne avec « Composantes V, G ». Remplacez la Portée par « 9 m ». Remplacez la Zone d’effet par « ligne de 9 m ». Remplacez les deux itérations de « cône » dans la description du sort par « ligne ».
+Mise à jour : Page 228, <u>*[[froide frappe de glace]]*</u>, après Temps d’incantation, ajoutez une ligne avec « Composantes V, G ». Remplacez la Portée par « 9 m ». Remplacez la Zone d’effet par « ligne de 9 m ». Remplacez les deux itérations de « cône » dans la description du sort par « ligne ».
 
-Modification : Retrait de la composante M dans cette FAQ.}Le personnage crée une rafale d'aiguilles de glace qui jaillissent de sa main en formant une ligne qui inflige 1d6 points de dégâts de froid par [niveau](./niveau.md) de lanceur de sorts (15d6 au maximum).
+Modification : Retrait de la composante M dans cette FAQ.}Le personnage crée une rafale d'aiguilles de glace qui jaillissent de sa main en formant une ligne qui inflige 1d6 points de dégâts de froid par [[niveau]] de lanceur de sorts (15d6 au maximum).

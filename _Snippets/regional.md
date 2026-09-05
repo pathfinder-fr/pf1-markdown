@@ -8,6 +8,6 @@
 </tr><tr style="vertical-align: top">
 <td><div style="text-align:center; font-size: 81%; font-weight: bold;">Option plus  
 commune chez  
-les [?3?](./Golarion-?1?.md).</div></td>
+les [[Golarion.?1?|?3?]].</div></td>
 </tr></table>
 </div>

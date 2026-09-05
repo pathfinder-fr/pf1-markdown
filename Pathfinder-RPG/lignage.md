@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Les lignages d'ensorceleurs
 ---
 
->>> [Pathfinder-RPG.Les lignages d'ensorceleurs](./Pathfinder-RPG-Les-lignages-d'ensorceleurs.md)
+>>> [[Pathfinder-RPG.Les lignages d'ensorceleurs]]

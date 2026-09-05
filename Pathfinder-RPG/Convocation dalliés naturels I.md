@@ -11,156 +11,156 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Rôd](./Rôdeur.md) 1
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Rôdeur|Rôd]] 1
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** 1 créature convoquée
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Voir les [listes de créatures](./Convocation dalliés naturels.md) pour les sorts de *Convocation d'alliés naturels*.
+Voir les [[Convocation dalliés naturels|listes de créatures]] pour les sorts de *Convocation d'alliés naturels*.
 
-Ce sort invoque une créature naturelle (en général un [animal](./type Animal.md), une [fée](./type Fée.md), une [créature magique](./type Créature magique.md), un [Extérieur](./type Extérieur.md) de [sous-type élémentaire](./sous-type élémentaire.md) ou un [géant](./sous-type géant.md)) qui donne le meilleur d’elle-même pour combattre les ennemis du personnage. Elle se manifeste là où le personnage le décide et agit immédiatement, lors du tour du personnage. Si le [druide](./Druide.md) (ou le [rôdeur](./Rôdeur.md)) est capable de communiquer avec elle, il peut lui dire qui attaquer, qui épargner, et même lui donner d’autres instructions.
+Ce sort invoque une créature naturelle (en général un [[type animal|animal]], une [[type fée|fée]], une [[type créature magique|créature magique]], un [[type extérieur|Extérieur]] de [[sous-type élémentaire]] ou un [[sous-type géant|géant]]) qui donne le meilleur d’elle-même pour combattre les ennemis du personnage. Elle se manifeste là où le personnage le décide et agit immédiatement, lors du tour du personnage. Si le [[druide]] (ou le [[rôdeur]]) est capable de communiquer avec elle, il peut lui dire qui attaquer, qui épargner, et même lui donner d’autres instructions.
 
-Un monstre convoqué ne peut à son tour convoquer d’autres créatures. Il ne peut pas davantage user de ses facultés de téléportation ou de déplacement planaire. Une créature ne peut pas être convoquée dans un environnement qui ne saurait assurer sa survie. Les créatures convoquées à l’aide de ce sort ne peuvent utiliser de sort ni de pouvoir magique qui imitent des sorts nécessitant des [composantes matérielles](./composante matérielle.md) onéreuses (comme un *[souhait](./Souhait.md)*).
+Un monstre convoqué ne peut à son tour convoquer d’autres créatures. Il ne peut pas davantage user de ses facultés de téléportation ou de déplacement planaire. Une créature ne peut pas être convoquée dans un environnement qui ne saurait assurer sa survie. Les créatures convoquées à l’aide de ce sort ne peuvent utiliser de sort ni de pouvoir magique qui imitent des sorts nécessitant des [[composante matérielle|composantes matérielles]] onéreuses (comme un *[[souhait]]*).
 
-Le sort invoque l’une des créatures de la liste de niveau 1 sur la table [listes de créatures](./Convocation dalliés naturels.md). Le personnage choisit la créature convoquée et peut en changer chaque fois qu’il lance le sort. Sauf indication contraire, toutes les créatures sont d’alignement Neutre.
+Le sort invoque l’une des créatures de la liste de niveau 1 sur la table [[Convocation dalliés naturels|listes de créatures]]. Le personnage choisit la créature convoquée et peut en changer chaque fois qu’il lance le sort. Sauf indication contraire, toutes les créatures sont d’alignement Neutre.
 
 Quand le personnage utilise ce sort pour convoquer des créatures alignées ou de sous-type élémentaire, le sort est de ce type. Toutes les créatures convoquées à l’aide de ce sort sont du même alignement que le personnage, quel que soit leur alignement habituel. Le sort de convocation est donc toujours du même type que l’alignement du personnage.
 
 
 
 ((({s:sortssimilaires|convocation d'alliés naturels I}
-## [Convocation d'alliés naturels II](./Convocation dalliés naturels II.md)
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Cham](./Chaman.md) 2, [Dru](./Druide.md) 2, [Rôd](./Rôdeur.md) 2
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+## [[Convocation dalliés naturels II|Convocation d'alliés naturels II]]
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 2, [[Druide|Dru]] 2, [[Rôdeur|Rôd]] 2
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** 1 créature de niveau 2 ou 1d3 créatures de niveau 1 convoquées
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort s’apparente à *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)*, si ce n’est qu’il permet d’appeler une créature de niveau 2 ou 1d3 créatures de niveau 1 (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
+Ce sort s’apparente à *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*, si ce n’est qu’il permet d’appeler une créature de niveau 2 ou 1d3 créatures de niveau 1 (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
 
-## [Convocation d'alliés naturels III](./Convocation dalliés naturels III.md)
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Cham](./Chaman.md) 3, [Dru](./Druide.md) 3, [Rôd](./Rôdeur.md) 3
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+## [[Convocation dalliés naturels III|Convocation d'alliés naturels III]]
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 3, [[Druide|Dru]] 3, [[Rôdeur|Rôd]] 3
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** 1 créature de niveau 3 ou 1d3 créatures de niveau 2 ou 1d4+1 créatures de niveau 1 convoquées
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort s’apparente à *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)*, si ce n’est qu’il permet d’appeler une créature de niveau 3, 1d3 créatures de niveau 2 ou 1d4+1 créatures de niveau 1 (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
+Ce sort s’apparente à *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*, si ce n’est qu’il permet d’appeler une créature de niveau 3, 1d3 créatures de niveau 2 ou 1d4+1 créatures de niveau 1 (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
 
-## [Convocation d'alliés naturels IV](./Convocation dalliés naturels IV.md)
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Cham](./Chaman.md) 4, [Dru](./Druide.md) 4, [Rôd](./Rôdeur.md) 4
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+## [[Convocation dalliés naturels IV|Convocation d'alliés naturels IV]]
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Rôdeur|Rôd]] 4
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** 1 créature de niveau 4 ou 1d3 créatures de niveau 3 ou 1d4+1 créatures de niveau moindre convoquées
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort s’apparente à *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)*, si ce n’est qu’il permet d’appeler une créature de niveau 4, 1d3 créatures de niveau 3 ou 1d4+1 créatures de niveau moindre (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
+Ce sort s’apparente à *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*, si ce n’est qu’il permet d’appeler une créature de niveau 4, 1d3 créatures de niveau 3 ou 1d4+1 créatures de niveau moindre (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
 
-## [Convocation d'alliés naturels V](./Convocation dalliés naturels V.md)
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Cham](./Chaman.md) 5, [Dru](./Druide.md) 5
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+## [[Convocation dalliés naturels V|Convocation d'alliés naturels V]]
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** 1 créature de niveau 5 ou 1d3 créatures de niveau 4 ou 1d4+1 créatures de niveau moindre convoquées
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort s’apparente à *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)*, si ce n’est qu’il permet d’appeler une créature de niveau 5, 1d3 créatures de niveau 4 ou 1d4+1 créatures de niveau moindre (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
+Ce sort s’apparente à *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*, si ce n’est qu’il permet d’appeler une créature de niveau 5, 1d3 créatures de niveau 4 ou 1d4+1 créatures de niveau moindre (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
 
-## [Convocation de kamis](./Convocation de kamis.md)
-{s:regional|Tianais|Tianais|tianais}{s:ISR}**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Cham](./Chaman.md) 5, [Dru](./Druide.md) 5
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Effet** un ou plusieurs [kamis](./sous-type kami.md)
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+## [[Convocation de kamis]]
+{s:regional|Tianais|Tianais|tianais}{s:ISR}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 5, [[Druide|Dru]] 5
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
+**Effet** un ou plusieurs [[sous-type kami|kamis]]
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort fonctionne comme *[convocation d'alliés naturels V](./Convocation dalliés naturels V.md)*, excepté que le personnage peut convoquer un [kodama](./Kodama.md), 1d3 [fukujin](./Fukujin.md) ou 1d4+1 [shikigami](./Shikigami.md).
+Ce sort fonctionne comme *[[convocation dalliés naturels V|convocation d'alliés naturels V]]*, excepté que le personnage peut convoquer un [[kodama]], 1d3 [[fukujin]] ou 1d4+1 [[shikigami]].
 
-## [Convocation d'alliés naturels VI](./Convocation dalliés naturels VI.md)
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Cham](./Chaman.md) 6, [Dru](./Druide.md) 6
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+## [[Convocation dalliés naturels VI|Convocation d'alliés naturels VI]]
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 6, [[Druide|Dru]] 6
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** 1 créature de niveau 6 ou 1d3 créatures de niveau 5 ou 1d4+1 créatures de niveau moindre convoquées
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort s’apparente à *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)*, si ce n’est qu’il permet d’appeler une créature de niveau 6, 1d3 créatures de niveau 5 ou 1d4+1 créatures de niveau moindre (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
+Ce sort s’apparente à *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*, si ce n’est qu’il permet d’appeler une créature de niveau 6, 1d3 créatures de niveau 5 ou 1d4+1 créatures de niveau moindre (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
 
-## [Convocation d'alliés géants I](./Convocation dalliés géants I.md)
-{s:regional|Kellides|Kellides|kellides}{s:cs}{s:ISR}**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) <nowiki>[</nowiki>voir texte<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 6
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, F/FD](./composantes.md) (un morceau de tissu provenant du sac d'un géant)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Effet** un ou plusieurs [géants](./sous-type géant.md)
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+## [[Convocation dalliés géants I|Convocation d'alliés géants I]]
+{s:regional|Kellides|Kellides|kellides}{s:cs}{s:ISR}**École** [[Invocation]] ([[branche convocation|convocation]]) <nowiki>[[</nowiki>voir texte<nowiki>]]</nowiki> ; **Niveau** [[Druide|Dru]] 6
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, F/FD]] (un morceau de tissu provenant du sac d'un géant)
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
+**Effet** un ou plusieurs [[sous-type géant|géants]]
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort fonctionne comme *[convocation d'alliés naturels VI](./Convocation dalliés naturels VI.md)*, excepté que son temps d'incantation est plus court et que le personnage peut convoquer un [géant des bois](./Géant des bois.md), [des collines](./Géant des collines.md), [des grottes](./Géant des grottes.md), [des marais](./Géant des marais.md), [de pierre](./Géant de pierre.md), [des rivières](./Géant des rivières.md) ou [des scories](./Géant des scories.md).
+Ce sort fonctionne comme *[[convocation dalliés naturels VI|convocation d'alliés naturels VI]]*, excepté que son temps d'incantation est plus court et que le personnage peut convoquer un [[géant des bois]], [[géant des collines|des collines]], [[géant des grottes|des grottes]], [[géant des marais|des marais]], [[géant de pierre|de pierre]], [[géant des rivières|des rivières]] ou [[géant des scories|des scories]].
 
-## [Convocation d'alliés géants II](./Convocation dalliés géants II.md)
-{s:regional|Kellides|Kellides|kellides}{s:cs}{s:ISR}**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) <nowiki>[</nowiki>voir texte<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 7
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, F/FD](./composantes.md) (un morceau de tissu provenant du sac d'un géant)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Effet** un ou plusieurs [géants](./sous-type géant.md)
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+## [[Convocation dalliés géants II|Convocation d'alliés géants II]]
+{s:regional|Kellides|Kellides|kellides}{s:cs}{s:ISR}**École** [[Invocation]] ([[branche convocation|convocation]]) <nowiki>[[</nowiki>voir texte<nowiki>]]</nowiki> ; **Niveau** [[Druide|Dru]] 7
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, F/FD]] (un morceau de tissu provenant du sac d'un géant)
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
+**Effet** un ou plusieurs [[sous-type géant|géants]]
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort fonctionne comme *[convocation d'alliés géants I](./Convocation dalliés géants I.md)*, excepté que le personnage peut convoquer soit un [géant du désert](./Géant du désert.md), [du feu](./Géant du feu.md), [du froid](./Géant du froid.md), ou [de la jungle](./Géant de la jungle.md), soit 1d3 [géants des bois](./Géant des bois.md), [des collines](./Géant des collines.md), [des grottes](./Géant des grottes.md), [des marais](./Géant des marais.md), [de pierre](./Géant de pierre.md), [des rivières](./Géant des rivières.md) ou [des scories](./Géant des scories.md).
+Ce sort fonctionne comme *[[convocation dalliés géants I|convocation d'alliés géants I]]*, excepté que le personnage peut convoquer soit un [[géant du désert]], [[géant du feu|du feu]], [[géant du froid|du froid]], ou [[géant de la jungle|de la jungle]], soit 1d3 [[géant des bois|géants des bois]], [[géant des collines|des collines]], [[géant des grottes|des grottes]], [[géant des marais|des marais]], [[géant de pierre|de pierre]], [[géant des rivières|des rivières]] ou [[géant des scories|des scories]].
 
-## [Convocation d'alliés géants III](./Convocation dalliés géants III.md)
-{s:regional|Kellides|Kellides|kellides}{s:cs}{s:ISR}**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) <nowiki>[</nowiki>voir texte<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 8
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, F/FD](./composantes.md) (un morceau de tissu provenant du sac d'un géant)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Effet** un ou plusieurs [géants](./sous-type géant.md)
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+## [[Convocation dalliés géants III|Convocation d'alliés géants III]]
+{s:regional|Kellides|Kellides|kellides}{s:cs}{s:ISR}**École** [[Invocation]] ([[branche convocation|convocation]]) <nowiki>[[</nowiki>voir texte<nowiki>]]</nowiki> ; **Niveau** [[Druide|Dru]] 8
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, F/FD]] (un morceau de tissu provenant du sac d'un géant)
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
+**Effet** un ou plusieurs [[sous-type géant|géants]]
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort fonctionne comme *[convocation d'alliés géants I](./Convocation dalliés géants I.md)*, excepté que le personnage peut convoquer soit un [géant de cendre](./Géant de cendre.md) ou [des nuages](./Géant des nuages.md), soit 1d3 [géants du désert](./Géant du désert.md), [du feu](./Géant du feu.md), [du froid](./Géant du froid.md), ou [de la jungle](./Géant de la jungle.md), soit 1d4+1 [géants des bois](./Géant des bois.md), [des collines](./Géant des collines.md), [des grottes](./Géant des grottes.md), [des marais](./Géant des marais.md), [de pierre](./Géant de pierre.md), [des rivières](./Géant des rivières.md) ou [des scories](./Géant des scories.md).
+Ce sort fonctionne comme *[[convocation dalliés géants I|convocation d'alliés géants I]]*, excepté que le personnage peut convoquer soit un [[géant de cendre]] ou [[géant des nuages|des nuages]], soit 1d3 [[géant du désert|géants du désert]], [[géant du feu|du feu]], [[géant du froid|du froid]], ou [[géant de la jungle|de la jungle]], soit 1d4+1 [[géant des bois|géants des bois]], [[géant des collines|des collines]], [[géant des grottes|des grottes]], [[géant des marais|des marais]], [[géant de pierre|de pierre]], [[géant des rivières|des rivières]] ou [[géant des scories|des scories]].
 
-## [Convocation d'alliés naturels VII](./Convocation dalliés naturels VII.md)
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Cham](./Chaman.md) 7, [Dru](./Druide.md) 7
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+## [[Convocation dalliés naturels VII|Convocation d'alliés naturels VII]]
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 7, [[Druide|Dru]] 7
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** 1 créature de niveau 7 ou 1d3 créatures de niveau 6 ou 1d4+1 créatures de niveau moindre convoquées
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort est semblable à *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)*, si ce n’est qu’il permet d’appeler une créature de niveau 7, 1d3 créatures de niveau 6 ou 1d4+1 créatures de niveau moindre (quand le personnage convoque plusieurs alliés naturels, ceux-ci doivent tous être du même type).
+Ce sort est semblable à *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*, si ce n’est qu’il permet d’appeler une créature de niveau 7, 1d3 créatures de niveau 6 ou 1d4+1 créatures de niveau moindre (quand le personnage convoque plusieurs alliés naturels, ceux-ci doivent tous être du même type).
 
-## [Convocation d'alliés naturels VIII](./Convocation dalliés naturels VIII.md)
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Cham](./Chaman.md) 8, [Dru](./Druide.md) 8
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+## [[Convocation dalliés naturels VIII|Convocation d'alliés naturels VIII]]
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 8, [[Druide|Dru]] 8
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** 1 créature de niveau 8 ou 1d3 créatures de niveau 7 ou 1d4+1 créatures de niveau moindre convoquées
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort s’apparente à *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)*, si ce n’est qu’il permet d’appeler une créature de niveau 8, 1d3 créatures de niveau 7 ou 1d4+1 créatures de niveau moindre (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
+Ce sort s’apparente à *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*, si ce n’est qu’il permet d’appeler une créature de niveau 8, 1d3 créatures de niveau 7 ou 1d4+1 créatures de niveau moindre (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
 
-## [Convocation d'alliés naturels IX](./Convocation dalliés naturels IX.md)
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Cham](./Chaman.md) 9, [Dru](./Druide.md) 9
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+## [[Convocation dalliés naturels IX|Convocation d'alliés naturels IX]]
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Chaman|Cham]] 9, [[Druide|Dru]] 9
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** 1 créature de niveau 9 ou 1d3 créatures de niveau 8 ou 1d4+1 créatures de niveau moindre convoquées
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort s’apparente à *[convocation d’alliés naturels I](./Convocation dalliés naturels I.md)*, si ce n’est qu’il permet d’appeler une créature de niveau 9, 1d3 créatures de niveau 8 ou 1d4+1 créatures de niveau moindre (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
+Ce sort s’apparente à *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*, si ce n’est qu’il permet d’appeler une créature de niveau 9, 1d3 créatures de niveau 8 ou 1d4+1 créatures de niveau moindre (lorsque le personnage convoque plusieurs alliés naturels, ces derniers doivent nécessairement tous être du même type).
 )))

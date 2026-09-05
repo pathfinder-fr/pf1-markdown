@@ -13,7 +13,7 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4 page 246 et Livre des damnés p.91*}
 {s:BDTexte|Seigneur démon (m) du ciel, de la tentation et des créatures ailées}
 - **9 830 400 PX**
-- [Extérieur](./type Extérieur.md) ([air](./sous-type Air.md), [Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, CM
+- [[type extérieur|Extérieur]] ([[sous-type air|air]], [[sous-type chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type mal|Mal]]) de taille G, CM
 - **Init **+13 ; **Sens **détection de la Loi, détection du Bien, vision dans le noir 18 m, vision lucide ; Perception +58
 - **Aura** aura maudite (DD 31), présence terrifiante (54 m, DD 40, 10 rounds), sauterelles (3 m, distraction, DD 43)
 (((Défense)))
@@ -31,10 +31,10 @@ Categories:
 - **Espace **3 m ; **Allonge **3 m
 - **Attaques spéciales** art maléfique des souhaits, entendre son nom, maître des nuées, poison, possession
 - **Pouvoirs magiques** (**NLS **30 ; concentration +43)
-  - *Constant* — [aura maudite](./Aura maudite.md) (DD 31), [communication avec les animaux](./Communication avec les animaux.md) (ailés seulement), [détection de la Loi](./Détection de la Loi.md), [détection du Bien](./Détection du Bien.md), [liberté de mouvement](./Liberté de mouvement.md), [vision lucide](./Vision lucide.md) 
-  - *À volonté* — [blasphème](./Blasphème.md)* (DD 30), [changement de forme](./Changement de forme.md), [contrôle des vents](./Contrôle des vents.md), [dissipation suprême](./Dissipation suprême.md), [domination](./Domination.md)* (DD 28), [profanation](./Profanation.md)*, [projection astrale](./Projection astrale.md), [sanctification maléfique](./Sanctification maléfique.md), [télékinésie](./Télékinésie.md)* (DD 28), [téléportation suprême](./Téléportation suprême.md), [ténèbres maudites](./Ténèbres maudites.md)* (DD 27) 
-  - 3/jour — [attirance](./Attirance.md) (DD 31), convocation de démons, [cyclone](./Cyclone.md)*, [domination](./Domination.md)* à incantation rapide (DD 28), [symbole de persuasion](./Symbole de persuasion.md) (DD 29)
-  - 1/jour — [arrêt du temps](./Arrêt du temps.md)*, [domination universelle](./Domination universelle.md) (DD 32), [souhait](./Souhait.md)* 
+  - *Constant* — [[aura maudite]] (DD 31), [[communication avec les animaux]] (ailés seulement), [[détection de la Loi]], [[détection du Bien]], [[liberté de mouvement]], [[vision lucide]] 
+  - *À volonté* — [[blasphème]]* (DD 30), [[changement de forme]], [[contrôle des vents]], [[dissipation suprême]], [[domination]]* (DD 28), [[profanation]]*, [[projection astrale]], [[sanctification maléfique]], [[télékinésie]]* (DD 28), [[téléportation suprême]], [[ténèbres maudites]]* (DD 27) 
+  - 3/jour — [[attirance]] (DD 31), convocation de démons, [[cyclone]]*, [[domination]]* à incantation rapide (DD 28), [[symbole de persuasion]] (DD 29)
+  - 1/jour — [[arrêt du temps]]*, [[domination universelle]] (DD 32), [[souhait]]* 
 - (*****) Pazuzu peut utiliser les versions mythiques de ces sorts quand il se trouve dans son royaume.
 (((Statistiques)))
 - **For **40, **Dex **28, **Con **42, **Int** 33, **Sag **34, **Cha **36
@@ -46,7 +46,7 @@ Categories:
 (((Écologie)))
 - **Environnement **tous (Abysses)
 - **Organisation **solitaire (unique)
-- **Trésor** triple ([sceptre de Shibaxet](./Sceptre de shibaxet.md), autres trésors)
+- **Trésor** triple ([[sceptre de Shibaxet]], autres trésors)
 (((Pouvoirs spéciaux)))
 - **Art maléfique des souhaits (Sur)**. Si une créature accepte un souhait venant de Pazuzu, elle devient immédiatement Chaotique Mauvaise, à moins de réussir un jet de Volonté DD 43. Une créature qui change ainsi d’alignement bénéficie des effets d’un sort d’espoir pendant une semaine, ensuite, elle subit les effets d’un désespoir foudroyant pendant 1d6 mois (NLS 30). Le DD du jet de sauvegarde est basé sur le Charisme.
 - **Aura de sauterelles (Sur).** Pazuzu exhale des nuages de sauterelles. À chaque fois qu’il passe un round sans se déplacer de plus de 1,50 mètre, il est entouré d’une nuée de ces créatures sur une étendue de 3 mètres de rayon. Une créature qui entre dans le nuage doit réussir un jet de Vigueur DD 43 ou être nauséeuse pendant 1 round. Le DD du jet de sauvegarde est basé sur la Constitution.
@@ -98,9 +98,9 @@ qui ne dissipe pas les effets de protection contre le Mal. Ce pouvoir
 est l’équivalent d’un sort de niveau 9.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs démons](./Seigneurs démons.md).***</li></ul>*Ce fiélon à tête d’aigle possède une queue de scorpion et quatre immenses ailes plumeuses. Il brandit un sceptre de métal noir.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs démons]].***</li></ul>*Ce fiélon à tête d’aigle possède une queue de scorpion et quatre immenses ailes plumeuses. Il brandit un sceptre de métal noir.*
 
-Pazuzu est l’un des [seigneurs démons](./Seigneurs démons.md) les plus vieux et les plus puissants. Son royaume se situe dans l’une des plus grandes failles du plan des Abysses. C’est un monde vertical qui abrite une grande cité au coeur de laquelle se niche Shibaxet, le nichoir et le palais personnel de Pazuzu.
+Pazuzu est l’un des [[Seigneurs démons]] les plus vieux et les plus puissants. Son royaume se situe dans l’une des plus grandes failles du plan des Abysses. C’est un monde vertical qui abrite une grande cité au coeur de laquelle se niche Shibaxet, le nichoir et le palais personnel de Pazuzu.
 
 Pazuzu est un grand fiélon doté de quatre ailes. Il mesure quatre mètres cinquante. Il aime corrompre les mortels, surtout
 les coeurs purs, en leur offrant un souhait en échange de leur innocence.

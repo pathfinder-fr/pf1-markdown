@@ -15,120 +15,120 @@ Le contenu de cet ouvrage marqué d'une plume a été soumis à la licence OGL.
 
 ### Archétypes
 <div class="article_3col">
-[Chasseur de vampires (inquisiteur)](./Chasseur de vampires (inquisiteur).md),
-[Chercheur visionnaire (alchimiste)](./Chercheur dŒnopion (alchimiste).md),
-[Conjurateur du Monde féerique (conjurateur)](./Conjurateur du Premier monde (conjurateur).md),
-[Défenseur de la tour (magus)](./Défenseur de la tour (magus).md),
-[Derviche de l'aube (barde)](./Derviche de la Fleur de laube (barde).md),
-[Diva (barde)](./Diva chéliaxienne (barde).md),
-[Druide des ouragans (druide)](./Druide des ouragans (druide).md),
-[Ensorceleur tatoué (ensorceleur)](./Ensorceleur tatoué (ensorceleur).md),
-[Épée du courage (paladin)](./Épée du courage (paladin).md),
-[Explorateur de cryptes (alchimiste)](./Explorateur de cryptes (alchimiste).md),
-[Faux prêtre (ensorceleur)](./Prêtre razmirien (ensorceleur).md),
-[Mage des ombres (magicien)](./Mage des ombres (magicien).md),
-[Oracle au sang noir (oracle)](./Oracle au sang noir (oracle).md),
-[Pèlerin nomade (prêtre)](./Pèlerin varisien (prêtre).md),
-[Prêtre clandestin (prêtre)](./Prêtre clandestin (prêtre).md),
-[Prêtre croisé (prêtre)](./Prêtre mendévien (prêtre).md),
-[Primordialiste (magicien)](./Primordialiste (magicien).md),
-[Rôdeur libre des forêts (rôdeur)](./Rôdeur libre du Nirmathas (rôdeur).md),
-[Sorcière de l'hiver (sorcière)](./Sorcière de lhiver (sorcière).md),
-[Spécialiste du péché (magicien)](./Spécialiste thassilonien (magicien).md).
+[[Chasseur de vampires (inquisiteur)]],
+[[Chercheur dŒnopion (alchimiste)|Chercheur visionnaire (alchimiste)]],
+[[Conjurateur du Premier monde (conjurateur)|Conjurateur du Monde féerique (conjurateur)]],
+[[Défenseur de la tour (magus)]],
+[[Derviche de la Fleur de laube (barde)|Derviche de l'aube (barde)]],
+[[Diva chéliaxienne (barde)|Diva (barde)]],
+[[Druide des ouragans (druide)]],
+[[Ensorceleur tatoué (ensorceleur)]],
+[[Épée du courage (paladin)]],
+[[Explorateur de cryptes (alchimiste)]],
+[[Prêtre razmirien (ensorceleur)|Faux prêtre (ensorceleur)]],
+[[Mage des ombres (magicien)]],
+[[Oracle au sang noir (oracle)]],
+[[Pèlerin varisien (prêtre)|Pèlerin nomade (prêtre)]],
+[[Prêtre clandestin (prêtre)]],
+[[Prêtre mendévien (prêtre)|Prêtre croisé (prêtre)]],
+[[Primordialiste (magicien)]],
+[[Rôdeur libre du Nirmathas (rôdeur)|Rôdeur libre des forêts (rôdeur)]],
+[[Sorcière de lhiver (sorcière)|Sorcière de l'hiver (sorcière)]],
+[[Spécialiste thassilonien (magicien)|Spécialiste du péché (magicien)]].
 </div>
 
 
 ### Archétypes de créature
 <div class="article_3col">
-[Créature distordue](./Créature distordue, archétype.md).
+[[Créature distordue, archétype|Créature distordue]].
 </div>
 
 
 ### Classes de prestige
 <div class="article_3col">
-[Enfant divin](./Enfant divin.md),
-[Mage des glyphes](./Mage des glyphes.md).
+[[Enfant divin]],
+[[Mage des glyphes]].
 </div>
 
 
 ### Dons
 Les dons marqués d'un M sont des dons de métamagie.
 <div class="article_3col">
-[Agression de l'ombre](./Agression de lombre.md),
-[Création de tatouages magiques](./Création de tatouages magiques.md),
-[Étreinte de l'ombre](./Étreinte de lombre.md)<sup>M</sup>,
-[Fausse incantation](./Fausse incantation.md),
-[Faux focalisateur](./Faux focalisateur.md),
-[Sort ténébreux](./Sort ténébreux.md)<sup>M</sup>,
-[Sort umbral](./Sort umbral.md)<sup>M</sup>.
+[[Agression de lombre|Agression de l'ombre]],
+[[Création de tatouages magiques]],
+[[Étreinte de lombre|Étreinte de l'ombre]]<sup>M</sup>,
+[[Fausse incantation]],
+[[Faux focalisateur]],
+[[Sort ténébreux]]<sup>M</sup>,
+[[Sort umbral]]<sup>M</sup>.
 </div>
 
 
 ### Objets magiques
 #### Tatouages magiques
 <div class="article_3col">
-[Tatouage d'incantation faible](./Tatouage dincantation.md),
-[Tatouage d'incantation intermédiaire](./Tatouage dincantation.md),
-[Tatouage d'incantation puissant](./Tatouage dincantation.md),
-[Tatouage de sort](./Tatouage de sort.md),
-[Tatouage de stockage](./Tatouage de stockage.md).
+[[Tatouage dincantation|Tatouage d'incantation faible]],
+[[Tatouage dincantation|Tatouage d'incantation intermédiaire]],
+[[Tatouage dincantation|Tatouage d'incantation puissant]],
+[[Tatouage de sort]],
+[[Tatouage de stockage]].
 </div>
 
 
 ### Options de classe
 #### Mystères d'oracle
 <div class="article_3col">
-[Cicatrice magique](./Mystère de la cicatrice magique.md),
-[Failles extérieures](./Mystère des failles extérieures.md).
+[[Mystère de la Cicatrice magique|Cicatrice magique]],
+[[Mystère des Failles extérieures|Failles extérieures]].
 </div>
 
 
 ### Règles officielles
 <div class="article_3col">
-[Parchemins à effeuiller](./Parchemins magiques.md#PARCHEMINSAEFFEUILLER),
-[Tatouages magiques](./Tatouages magiques.md).
+[[Parchemins magiques#PARCHEMINSAEFFEUILLER|Parchemins à effeuiller]],
+[[Tatouages magiques]].
 </div>
 
 
 ### Sorts
 <div class="article_3col">
-[Absorption de sort](./Absorption de sort.md),
-[Absorption de sort suprême](./Absorption de sort suprême.md),
-[Âme d'aigle](./Âme daigle.md),
-[Antimagie du Dieu défunt](./Antimagie dAroden.md),
-[Appel d'arme](./Appel darme.md),
-[Armée du Roi goule](./Armée de Khain.md),
-[Avancée offensive](./Avancée offensive.md),
-[Avancée offensive suprême](./Avancée offensive suprême.md),
-[Avantage du martyr](./Avantage du martyr.md),
-[Baguettarme](./Baguettarme.md),
-[Barrière explosive](./Barrière explosive.md),
-[Chaîne cloutée des ombres](./Chaîne cloutée des ombres.md),
-[Chant du Royaume elfique](./Chant du Kyonin.md),
-[Cicatrice magique](./Cicatrice magique.md),
-[Comètes vengeresses](./Comètes vengeresses.md),
-[Conduit étrange](./Conduit étrange.md),
-[Conduit étrange suprême](./Conduit étrange suprême.md),
-[Contrariété des géants](./Contrariété des géants.md),
-[Corde brillante](./Corde brillante.md),
-[Déformation corporelle](./Déformation corporelle.md),
-[Dissipation de la magie primordiale](./Dissipation de la magie primordiale.md),
-[Engeance de génie](./Engeance de génie.md),
-[Étreinte du Monde féerique](./Étreinte du Premier Monde.md),
-[Frappe percutante](./Frappe percutante.md),
-[Goutte d'orchidée](./Goutte dorchidée.md),
-[Grâce du Pugwampi](./Grâce du Pugwampi.md),
-[Lumière de l'Héritière](./Lumière de Iomédae.md),
-[Marionnette martiale](./Marionnette martiale.md),
-[Marteau du Mort](./Marteau de Geb.md),
-[Musique des sphères](./Musique des sphères.md),
-[Pieux de glace](./Pieux de glace.md),
-[Potion de tatouage](./Potion de tatouage.md),
-[Savoir du chasseur](./Savoir du chasseur.md),
-[Siphon magique](./Siphon magique.md),
-[Ténèbres voraces](./Ténèbres voraces.md),
-[Tranchant du croisé](./Tranchant du croisé.md),
-[Transfert de tatouage](./Transfert de tatouage.md),
-[Transmission d'esprit](./Transmission desprit.md),
-[Zone de flammes instables](./Zone de flammes instables.md).
+[[Absorption de sort]],
+[[Absorption de sort suprême]],
+[[Âme daigle|Âme d'aigle]],
+[[Antimagie dAroden|Antimagie du Dieu défunt]],
+[[Appel darme|Appel d'arme]],
+[[Armée de Khain|Armée du Roi goule]],
+[[Avancée offensive]],
+[[Avancée offensive suprême]],
+[[Avantage du martyr]],
+[[Baguettarme]],
+[[Barrière explosive]],
+[[Chaîne cloutée des ombres]],
+[[Chant du Kyonin|Chant du Royaume elfique]],
+[[Cicatrice magique]],
+[[Comètes vengeresses]],
+[[Conduit étrange]],
+[[Conduit étrange suprême]],
+[[Contrariété des géants]],
+[[Corde brillante]],
+[[Déformation corporelle]],
+[[Dissipation de la magie primordiale]],
+[[Engeance de génie]],
+[[Étreinte du Premier Monde|Étreinte du Monde féerique]],
+[[Frappe percutante]],
+[[Goutte dorchidée|Goutte d'orchidée]],
+[[Grâce du Pugwampi]],
+[[Lumière de Iomédae|Lumière de l'Héritière]],
+[[Marionnette martiale]],
+[[Marteau de Geb|Marteau du Mort]],
+[[Musique des sphères]],
+[[Pieux de glace]],
+[[Potion de tatouage]],
+[[Savoir du chasseur]],
+[[Siphon magique]],
+[[Ténèbres voraces]],
+[[Tranchant du croisé]],
+[[Transfert de tatouage]],
+[[Transmission desprit|Transmission d'esprit]],
+[[Zone de flammes instables]].
 </div>

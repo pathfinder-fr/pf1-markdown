@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage domine les esprits faibles et vulnérables par le simple son de sa voix.*
 
-**Condition.** [Voix de la sibylle](./Voix de la sibylle.md)
+**Condition.** [[Voix de la sibylle]]
 
-**Avantage.** Le personnage gagne un bonus de +1 aux tests de [Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md) et [Représentation](./Représentation.md) (déclamation) pour chaque tranche de 3 grades possédés. Ce bonus se cumule avec celui conféré par le don [Voix de la sibylle](./Voix de la sibylle.md). Si le personnage possède 10 rangs ou plus dans au moins deux de ces compétences, il gagne un bonus de +2 au DD des sorts dépendant du langage qu’il lance.
+**Avantage.** Le personnage gagne un bonus de +1 aux tests de [[Bluff]], [[Diplomatie]] et [[Représentation]] (déclamation) pour chaque tranche de 3 grades possédés. Ce bonus se cumule avec celui conféré par le don [[Voix de la sibylle]]. Si le personnage possède 10 rangs ou plus dans au moins deux de ces compétences, il gagne un bonus de +2 au DD des sorts dépendant du langage qu’il lance.

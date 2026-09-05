@@ -7,10 +7,10 @@ Categories:
 - Géographie
 ---
 
-Les Monts Kortos sont situés sur l'Île de Kortos, à proximité de la cité d'[Absalom](./Absalom.md).
+Les Monts Kortos sont situés sur l'Île de Kortos, à proximité de la cité d'[[Absalom]].
 
-Il s'agit certainement des sommets les plus hauts connus dans [Golarion](./Golarion.md). Leur point culminant, le Mont Arazlante (Arazlant Mox), atteint 7 500 m au dessus du niveau de la mer.
+Il s'agit certainement des sommets les plus hauts connus dans [[Golarion]]. Leur point culminant, le Mont Arazlante (Arazlant Mox), atteint 7 500 m au dessus du niveau de la mer.
 
-Au pieds de cette petite chaîne de montagnes, des tribus de centaures et des minotaures se sont installées. Etant les premiers habitants de l'île, ces créatures voient d'un très mauvais oeil la cité d'[Absalom](./Absalom.md) et ses habitants humanoïdes qui ont investi leurs terres.
+Au pieds de cette petite chaîne de montagnes, des tribus de centaures et des minotaures se sont installées. Etant les premiers habitants de l'île, ces créatures voient d'un très mauvais oeil la cité d'[[Absalom]] et ses habitants humanoïdes qui ont investi leurs terres.
 
 On dit aussi que des dragons se sont installés dans les hauteurs des montagnes.

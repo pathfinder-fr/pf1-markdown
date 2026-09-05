@@ -12,39 +12,39 @@ Categories:
 {s:BDTitre|Shira|FP 12}
 {s:BDTexte|*Source : Bestiaire 3* p.93}
 {s:BDTexte|**px** 19 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([div](./sous-type div.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille G, NM}
-{s:BDTexte|**Init** +11 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}), [vision dans les ténèbres](./Vision dans les ténèbres.md), *[vision lucide](./Vision lucide.md)* ; [Perception](./Perception.md) +21}
+{s:BDTexte|[[Type Extérieur|Extérieur]] ([[sous-type div|div]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille G, NM}
+{s:BDTexte|**Init** +11 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}), [[vision dans les ténèbres]], *[[vision lucide]]* ; [[Perception]] +21}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 27, contact 16, pris au dépourvu 20 (Dex +7, naturelle +11, taille -1)}
 {s:BDTexte|**pv** 150 (12d10+84)}
 {s:BDTexte|**Réf** +15, **Vig** +11, **Vol** +14}
-{s:BDTexte|**[RD](./Réduction de dégâts (capacité).md)** 10/Bien et fer froid ; **[Immunité](./Immunité (capacité).md)** feu, poison ; **[Résistance](./Résistance (capacité).md)** acide 10, électricité 10 ; **[RM](./Résistance à la magie (capacité).md)** 23}
+{s:BDTexte|**[[Réduction de dégâts (capacité)|RD]]** 10/Bien et fer froid ; **[[Immunité (capacité)|Immunité]]** feu, poison ; **[[Résistance (capacité)|Résistance]]** acide 10, électricité 10 ; **[[Résistance à la magie (capacité)|RM]]** 23}
 {s:BDSousTitre|ATTAQUE}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
 {s:BDTexte|**Corps à corps** 2 griffes, +21 (1d8+9 plus étreinte) et morsure, +21 (1d8+9/19-20)}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}); Allonge 3 m (2 {s:c})}
 {s:BDTexte|**Attaques spéciales** absorption d’essence, fourrure de poussière, pattes arrière (2 griffes +21, 1d8+9)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 13 ; concentration +18)}
-{s:BDSorts|Constant — *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|À volonté — *[téléportation suprême](./Téléportation suprême.md)* (personnelle plus 25 kilos
+{s:BDSorts|Constant — *[[vision lucide]]*}
+{s:BDSorts|À volonté — *[[téléportation suprême]]* (personnelle plus 25 kilos
 d’objets uniquement)}
-{s:BDSorts|3/jour — *[cercle magique contre le Bien](./Cercle magique contre le Bien.md)*, *[vagues de fatigue](./Vagues de fatigue.md)*}
-{s:BDSorts|1/jour — *[convocation](./convocation.md)* (niveau 5, 1d2 païrakas ou 1 shira 35%)}
+{s:BDSorts|3/jour — *[[cercle magique contre le Bien]]*, *[[vagues de fatigue]]*}
+{s:BDSorts|1/jour — *[[convocation]]* (niveau 5, 1d2 païrakas ou 1 shira 35%)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 28, **Dex** 25, **Con** 25, **Int** 13, **Sag** 22, **Cha** 20}
 {s:BDTexte|**BBA** +12 ; **BMO** +22 (+26 lutte) ; **DMD** 39}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Course](./Course.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +22 (+30 pour le saut), [Bluff](./Bluff.md) +20, [Discrétion](./Discrétion.md) +18, [Escalade](./Escalade.md) +24, [Intimidation](./Intimidation.md) +20, [Perception](./Perception.md) +21, [Survie](./Survie.md) +21}
-{s:BDTexte|**Langues** abyssal, céleste, infernal ; [télépathie](./Télépathie (capacité).md) à 30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Course]], [[Science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +22 (+30 pour le saut), [[Bluff]] +20, [[Discrétion]] +18, [[Escalade]] +24, [[Intimidation]] +20, [[Perception]] +21, [[Survie]] +21}
+{s:BDTexte|**Langues** abyssal, céleste, infernal ; [[Télépathie (capacité)|télépathie]] à 30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (Abaddon)}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Absorption d’essence (Sur).** L’attaque la plus dangereuse de la shira absorbe une partie de l’essence de la victime. Lorsque la shira porte une attaque de morsure comme [coup de grâce](./Modificateurs de combat.md#COUPDEGRACE) ou confirme un [coup critique](./Actions simples.md#COUPCRITIQUE) de griffes ou de morsure, la cible doit réussir un jet de [Vigueur](./Valeurs de combat.md#JETDESAUVEGARDE) DD 23 ou subir une [diminution permanente](./Capacités spéciales.md#AFFTEMPDIMPERM) de 1d4 points de Constitution. Le DD du jet de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Fourrure de poussière (Ext).** La shira amasse et produit de grandes quantités de poussière et de cendres dans les poils de son épaisse fourrure. Par une [action de mouvement](./Action de mouvement.md), elle peut se secouer, générant ainsi un nuage de poussière qui emplit l’espace et lui fournit un [camouflage](./Modificateurs de combat.md#CAMOUFLAGE). Toute attaque infligeant au moins 10 points de dégâts contondants, perforants ou tranchants à la shira (avant d’appliquer la [RD](./Réduction de dégâts (capacité).md)) déclenche automatiquement cette capacité. Le nuage de poussière formé dure 1 round. Une simple brise suffit à disperser immédiatement le nuage.}
+{s:BDTexte|**Absorption d’essence (Sur).** L’attaque la plus dangereuse de la shira absorbe une partie de l’essence de la victime. Lorsque la shira porte une attaque de morsure comme [[Modificateurs de combat#COUPDEGRACE|coup de grâce]] ou confirme un [[Actions simples#COUPCRITIQUE|coup critique]] de griffes ou de morsure, la cible doit réussir un jet de [[Valeurs de combat#JETDESAUVEGARDE|Vigueur]] DD 23 ou subir une [[Capacités spéciales#AFFTEMPDIMPERM|diminution permanente]] de 1d4 points de Constitution. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Fourrure de poussière (Ext).** La shira amasse et produit de grandes quantités de poussière et de cendres dans les poils de son épaisse fourrure. Par une [[action de mouvement]], elle peut se secouer, générant ainsi un nuage de poussière qui emplit l’espace et lui fournit un [[Modificateurs de combat#CAMOUFLAGE|camouflage]]. Toute attaque infligeant au moins 10 points de dégâts contondants, perforants ou tranchants à la shira (avant d’appliquer la [[Réduction de dégâts (capacité)|RD]]) déclenche automatiquement cette capacité. Le nuage de poussière formé dure 1 round. Une simple brise suffit à disperser immédiatement le nuage.}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [divs](./Div.md).***</li></ul>*Cet humanoïde brutal à la fourrure épaisse se déplace avec une grâce fatale. Il a une tête de lionne aux yeux noirs et morts.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Div|divs]].***</li></ul>*Cet humanoïde brutal à la fourrure épaisse se déplace avec une grâce fatale. Il a une tête de lionne aux yeux noirs et morts.*
 
 Traqueuses bestiales, les shiras vivent pour chasser et se nourrir. Ces divs ressemblent à des lionnes anthropomorphes
 qui exploitent leur musculature puissante, leurs sens aiguisés et leurs instincts meurtriers pour traquer les mortels les plus orgueilleux et massacrer les ennemis les plus redoutables. Elles incarnent le caractère cruel de la nature et de l’impartialité avec lesquelles la bête et la terre peuvent se retourner contre les mortels, prenant un malin plaisir à mettre les êtres civilisés face à leur petitesse et à leur impuissance devant le monde sauvage. Les shiras préfèrent chasser seules, elles n’acceptent pas la compagnie des autres, même des leurs, à part pour former des groupes de chasse temporaires. Avides de proies intelligentes, elles savourent le goût des âmes des mortels et ne ravagent pas seulement le corps de leurs victimes mais aussi leur essence vitale. Bien qu’elles soient les plus sauvages de tous les divs, les shiras endossent parfois le rôle d’éclaireuses et d’assassins pour les hordes divs. Ces arrangements sont généralement temporaires et ne durent que jusqu’au moment où les instincts sauvages ou la soif de chasser de la shira reprennent le dessus.  

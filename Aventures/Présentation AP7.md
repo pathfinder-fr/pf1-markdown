@@ -6,7 +6,7 @@ LastModified: 2017-10-02 17:24
 
 ***Un naufrage dans des eaux infestées de pirates conduit, par chance, les héros vers une course pour découvrir une cité perdue dans les jungles de la dangereuses Étendue Mwangi ! Des factions telles que la Société des Éclaireurs et la ligue des assassins de la Mante Rouge participent également à la chasse pour découvrir les secrets oubliés de la ville, de terribles révélations qui pourraient réveiller un dieu endormi et amener de terribles malheurs sur Golarion.***
 
-Vous trouverez les aides de jeu relatives à cette campagne sur [cette page](./Aides de jeu AP7.md).
+Vous trouverez les aides de jeu relatives à cette campagne sur [[Aides de jeu AP7|cette page]].
 
 Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&m=14543&#post14543).
 
@@ -22,10 +22,10 @@ Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfind
 {s:BookPic||}
 {s:BookComment|**Niveau 1 — Août 2010.**  
 
-Le [Sargava](./../Golarion/Sargava.md) est une colonie nichée au bord d'une vaste jungle sauvage, l'Étendue [Mwangi](./../Golarion/Mwangi.md), un endroit où de nombreuses factions plus puissantes les unes que les autres s'affrontent pour le contrôle. Lorsque des rumeurs parlant d'une piste vers une mythique citée perdue surgissent, quatre factions (les assassins des Mantes Rouges, la Société des Éclaireurs, la ligue marchande du Consortium Aspis et les seigneurs-pirates des Entraves) s'engagent dans une course pour être les premiers à s'emparer des trésors de la cité perdue, et le premier pas dans cette quête consiste à résoudre les anciens mystères de la fameuse île connue sous le nom de Lame du Contrebandier, une île encombrée de navires naufragés où pullulent de dangereuses bêtes.  
+Le [[Golarion.Sargava|Sargava]] est une colonie nichée au bord d'une vaste jungle sauvage, l'Étendue [[Golarion.Mwangi|Mwangi]], un endroit où de nombreuses factions plus puissantes les unes que les autres s'affrontent pour le contrôle. Lorsque des rumeurs parlant d'une piste vers une mythique citée perdue surgissent, quatre factions (les assassins des Mantes Rouges, la Société des Éclaireurs, la ligue marchande du Consortium Aspis et les seigneurs-pirates des Entraves) s'engagent dans une course pour être les premiers à s'emparer des trésors de la cité perdue, et le premier pas dans cette quête consiste à résoudre les anciens mystères de la fameuse île connue sous le nom de Lame du Contrebandier, une île encombrée de navires naufragés où pullulent de dangereuses bêtes.  
   
 
-**Articles :** règles à propos des quatre factions en compétition, les hommes-serpents de l'Étendue [Mwangi](./../Golarion/Mwangi.md)}
+**Articles :** règles à propos des quatre factions en compétition, les hommes-serpents de l'Étendue [[Golarion.Mwangi|Mwangi]]}
 {s:BookTitle|AP7-2|Racing to Ruin/La Course vers les ruines ou La Course vers la destruction}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9038_120.jpeg|http://paizo.com/products/btpy8ddc}
 {s:BookPic||}
@@ -34,7 +34,7 @@ Le [Sargava](./../Golarion/Sargava.md) est une colonie nichée au bord d'une vas
 Les héros se rendent dans la capitale désespérée du Sargava, un colonie sur le déclin, pour prendre des provisions en vue d'un voyage vers Saventh-Yhi, la cité azlante perdue de Sept Lances. Sur place, ils se retrouvent mêlés à une intrigue concernant la Société des Éclaireurs, la ligue marchande du Consortium Aspis, les seigneurs-pirates des Entraves et les dangereux assassins de la Mante Rouge, des rivaux qui cherchent eux aussi à piller la cité perdue pour leurs propres comptes. Chaque groupe utilise des tactiques propres pour inciter les héros à les rejoindre, alors que les dirigeants du Sargava promettent une immense récompense aux explorateurs qui parviendront à découvrir et à explorer la ville en ruine. Talonnés par des factions ennemies, les PJ parviendront-ils à survivre à des rencontres inattendues, à une tribu d'hommes-singes et à la jungle Hurlante pour atteindre la cité perdue de Saventh-Yhi avant qu'il ne soit trop tard ?  
   
 
-**Articles :** ville portuaire d'[Éléder](./../Golarion/Éléder.md) au [Sargava](./../Golarion/Sargava.md), le dieu [Gozreh](./../Golarion/Gozreh.md)}
+**Articles :** ville portuaire d'[[Golarion.Éléder|Éléder]] au [[Golarion.Sargava|Sargava]], le dieu [[Golarion.Gozreh|Gozreh]]}
 {s:BookTitle|AP7-3|City of Seven Spears/La Cité des Sept Lances}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9039_120.jpeg|http://paizo.com/products/btpy8ddd}
 {s:BookPic||}
@@ -61,7 +61,7 @@ Un étrange boucanier sauvé dans la Cité des Sept Lances révèle le secret qu
 Les héros explorent l'ancienne cité d'hommes-serpents d'Ilmuréa et découvrent qu'elle n'est pas aussi abandonnée qu'ils le pensaient. De sauvages descendants des premiers habitants azlantes de la Cité aux Sept Lances y ont dégénéré en des morlocks qui vivent sous la surface et qui ont glissé vers la folie et le mal au fil de milliers d'années. Des créatures maléfiques venues de partout dans les Terres Sombres se rejoignent en masse à Ilmuréa, là où les attire la tête coupée de leur dieu ophidien mort, Ydersius. Un sombre rituel a déjà commencé, qui utilisera la puissance du Crâne du Serpent pour redonner aux hommes-serpents de Golarion leur véritable et dangereux potentiel, créant ainsi un nouveau danger sous chacune des nations du monde. Un Éclaireur disparu possède la clef qui permettra d'interrompre le rituel mais, avant qu'il ne puisse mener à bien son plan, il faut d'abord le sauver de sa prison souterraine.  
   
 
-**Articles :** les hommes-serpents d'Ilmuréa, le dieu [Néthys](./../Golarion/Néthys.md)}
+**Articles :** les hommes-serpents d'Ilmuréa, le dieu [[Golarion.Néthys|Néthys]]}
 {s:BookTitle|AP7-6|Sanctum of the Serpent God/Le sanctuaire du Dieu Serpent}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9042_500.jpeg|http://paizo.com/products/btpy8g3i}
 {s:BookPic||}

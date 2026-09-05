@@ -7,4 +7,4 @@ Categories:
 RedirectTo: drogues
 ---
 
->>> [drogues](./Drogues.md)
+>>> [[drogues]]

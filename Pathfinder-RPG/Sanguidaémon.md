@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés p.186*}
 {s:BDTexte|XP 6 400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, NM}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille M, NM}
 {s:BDTexte|**Init **+9 ; **Sens** vision dans le noir à 18m ; Perception +18}
 {s:BDTexte|**Aura ** sanglante (9 m)}
 (((Défense)))
@@ -26,14 +26,14 @@ Categories:
 {s:BDTexte|**Corps à corps** morsure +19 (1d8+7/18–20/×3 plus saignement), 2 griffes, +19 (1d6+7 plus étreinte)}
 {s:BDTexte|**Attaques spéciales** saignement (2d4+1), absorption de sang (1d2 Constitution), absorption de l’âme}
 {s:BDTexte|**Pouvoirs magiques** (NLS 12 ; concentration +14)}
-{s:BDSorts|À volonté – [Téléportation suprême](./Téléportation suprême.md) (personnel plus 25 kg d’équipement maximum)}
-{s:BDSorts|3/jour - [mise à mort](./Mise à mort.md) (DD14), [invisibilité](./Invisibilité.md), [nuée grouillante](./Nuée grouillante.md)}
-{s:BDSorts|1/jour - [immobilisation de monstre](./Immobilisation de monstre.md) (DD17), [convocation](./convocation.md) (niveau 6 : 1 [sanguidaémon](./Sanguidaémon.md), 40%) }
+{s:BDSorts|À volonté – [[Téléportation suprême]] (personnel plus 25 kg d’équipement maximum)}
+{s:BDSorts|3/jour - [[mise à mort]] (DD14), [[invisibilité]], [[nuée grouillante]]}
+{s:BDSorts|1/jour - [[immobilisation de monstre]] (DD17), [[convocation]] (niveau 6 : 1 [[sanguidaémon]], 40%) }
 (((Statistiques)))
 {s:BDTexte|**For** 24, **Dex** 21, **Con** 19, **Int** 10, **Sag** 16, **Cha** 15}
 {s:BDTexte|**BBA **+12 ; **BMO **+19 (+23 en lutte); **DMD** 35  (47 contre les crocs-en-jambe)}
-{s:BDTexte|**Dons** [Critique sanglant](./Critique sanglant.md), [Attaques réflexes](./Attaques réflexes.md), [Don pour les critiques](./Don pour les critiques.md), [Science de l’initiative](./Science de linitiative.md), [Esquive](./Esquive.md), [Attaque en vol](./Attaque en vol.md)}
-{s:BDTexte|**Compétences** [Évasion](./Évasion.md) +20, [Vol](./Vol.md) +24, [Intimidation](./Intimidation.md) +17, [Art de la magie](./Art de la magie.md) +15,  [Perception](./Perception.md) +18, [Psychologie](./Psychologie.md) +18}
+{s:BDTexte|**Dons** [[Critique sanglant]], [[Attaques réflexes]], [[Don pour les critiques]], [[Science de linitiative|Science de l’initiative]], [[Esquive]], [[Attaque en vol]]}
+{s:BDTexte|**Compétences** [[Évasion]] +20, [[Vol]] +24, [[Intimidation]] +17, [[Art de la magie]] +15,  [[Perception]] +18, [[Psychologie]] +18}
 {s:BDTexte|**Langues** abyssal, draconique, infernal; télépathie 30m}
 {s:BDTexte|**Particularités ** critique augmenté, saignement contagieux}
 (((Écologie)))
@@ -69,7 +69,7 @@ Le daémon bénéficie alors de guérison accélérée 2
 pendant un nombre de rounds égal à ses Dés de Vie.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 '' Cette créature vaguement arachnéenne de la taille d’un humain est
 entièrement composée de globes de sang remplis du liquide visqueux
 gouttant le long de ses pattes grêles et de sa gueule serpentine. Des

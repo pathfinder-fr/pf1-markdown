@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-La cité de Nantambu, aussi appelée Cité du Vent Chantant, est une ville chaleureuse et accueillante située au bord du fleuve [Vanji](./Vanji.md), au sud de la grande jungle du [Mwangi](./Mwangi.md).
+La cité de Nantambu, aussi appelée Cité du Vent Chantant, est une ville chaleureuse et accueillante située au bord du fleuve [[Vanji]], au sud de la grande jungle du [[Mwangi]].
 
-Elle abrite l'Université Magaambya, la plus ancienne université des arcanes de tout [Golarion](./Golarion.md). Sa création remonte au temps du vieux mage Jatembe et de ses Dix Guerriers Magiques qui ont tenté de ramener la connaissance au monde durant l'Age de l'Angoisse. Aujourd'hui encore, les mages du Soleil des Tempêtes de l'université restent une force sur laquelle il faut compter. Ils sont chargés de la défense active de la ville et tant les suivants du seigneur-démon [Angazhan](./Seigneurs-démons.md#ANGAZHAN) que les pillard du Consortium Aspis hésitent à deux fois avant de pénétrer dans la ville.
+Elle abrite l'Université Magaambya, la plus ancienne université des arcanes de tout [[Golarion]]. Sa création remonte au temps du vieux mage Jatembe et de ses Dix Guerriers Magiques qui ont tenté de ramener la connaissance au monde durant l'Age de l'Angoisse. Aujourd'hui encore, les mages du Soleil des Tempêtes de l'université restent une force sur laquelle il faut compter. Ils sont chargés de la défense active de la ville et tant les suivants du seigneur-démon [[Seigneurs-démons#ANGAZHAN|Angazhan]] que les pillard du Consortium Aspis hésitent à deux fois avant de pénétrer dans la ville.
 
 La ville abrite aussi une loge d'Éclaireurs. Elle utilise comme couverture une petite entreprise d'exportations de produits agricoles locaux.

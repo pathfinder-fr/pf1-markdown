@@ -11,8 +11,8 @@ Categories:
 
 {s:apg}*Les sorts du personnage peuvent rendre les cibles fiévreuses.*
 
-**Catégorie :** [métamagie](./Dons.md#METAMAGIE)
+**Catégorie :** [[Dons#METAMAGIE|métamagie]]
 
-**Avantage.** Le personnage peut modifier un sort afin qu’il écœure et rende [fiévreuses](./Fiévreux.md) les créatures à qui il inflige des dégâts. Lorsque le sort blesse une créature, celle-ci devient fiévreuse pendant un nombre de rounds égal au niveau initial du sort. Si le sort autorise un [jet de sauvegarde](./jet de sauvegarde.md), l’effet d’écœurement est annulé en cas de réussite. Si le sort n’autorise normalement pas de jet de sauvegarde, la victime bénéficie d’un jet de [Vigueur](./Vigueur.md) pour échapper à l’écœurement. Si le sort a également pour effet de rendre la cible fiévreuse, la durée de l’effet métamagique est ajoutée à celle du sort. Un sort écœurant occupe un [emplacement de sort](./emplacement de sort.md) de deux niveaux de plus que le niveau normal du sort.
+**Avantage.** Le personnage peut modifier un sort afin qu’il écœure et rende [[fiévreux|fiévreuses]] les créatures à qui il inflige des dégâts. Lorsque le sort blesse une créature, celle-ci devient fiévreuse pendant un nombre de rounds égal au niveau initial du sort. Si le sort autorise un [[jet de sauvegarde]], l’effet d’écœurement est annulé en cas de réussite. Si le sort n’autorise normalement pas de jet de sauvegarde, la victime bénéficie d’un jet de [[Vigueur]] pour échapper à l’écœurement. Si le sort a également pour effet de rendre la cible fiévreuse, la durée de l’effet métamagique est ajoutée à celle du sort. Un sort écœurant occupe un [[emplacement de sort]] de deux niveaux de plus que le niveau normal du sort.
 
 Les sorts qui n’infligent pas de dégâts ne peuvent pas être altérés par ce don.

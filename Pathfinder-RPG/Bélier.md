@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Montagnes|Tempéré}
 - *Source : Bestiaire 2, p.31*
 - **PX** 400
-- [Animal](./type Animal.md) de taille M, N
-- **Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6
+- [[type animal|Animal]] de taille M, N
+- **Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +6
 (((Défense)))
 - **CA** 13, contact 12, pris au dépourvu 11 (Dex +2, naturelle +1)
 - **pv** 11 (2d8+2)
@@ -23,12 +23,12 @@ Categories:
 (((Attaque)))
 - **VD** 12 m (8{s:c})
 - **Corps à corps** cornes, +3 (1d4+3)
-- **Attaques spéciales** [charge puissante](./Charge puissante.md) (cornes, 1d8+3)
+- **Attaques spéciales** [[charge puissante]] (cornes, 1d8+3)
 (((Statistiques)))
 - **For** 14, **Dex** 15, **Con** 13, **Int** 2, **Sag** 14, **Cha** 7
-- **BBA** +1 ; **BMO** +3 ; **DMD** 15 (19 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Dons** [Science de la bousculade](./Science de la bousculade.md)<sup>B</sup>, [Talent](./Talent.md) ([Acrobaties](./Acrobaties.md))
-- **Compétences** [Acrobaties](./Acrobaties.md) +13 (+17 pour sauter), [Perception](./Perception.md) +6 ; **Modificateurs raciaux** +4 en [Acrobaties](./Acrobaties.md)
+- **BBA** +1 ; **BMO** +3 ; **DMD** 15 (19 contre [[croc-en-jambe]])
+- **Dons** [[Science de la bousculade]]<sup>B</sup>, [[Talent]] ([[Acrobaties]])
+- **Compétences** [[Acrobaties]] +13 (+17 pour sauter), [[Perception]] +6 ; **Modificateurs raciaux** +4 en [[Acrobaties]]
 (((Écologie)))
 - **Environnement** montagnes tempérées
 - **Organisation sociale** solitaire, couple ou troupeau (3–30)
@@ -41,23 +41,23 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Antilope](./Antilope.md) || 1/2
+| [[Antilope]] || 1/2
 |-
-| [Auroch](./Auroch.md) || 2
+| [[Auroch]] || 2
 |-
-| [Bélier](./Bélier.md) || 1
+| [[Bélier]] || 1
 |-
-| [Bison](./Bison.md) || 4
+| [[Bison]] || 4
 |-
-| [Cerf](./Cerf.md) || 1
+| [[Cerf]] || 1
 |-
-| [Dromadaire](./Dromadaire.md) || 1
+| [[Dromadaire]] || 1
 |-
-| [Élan](./Élan.md) || 1
+| [[Élan]] || 1
 |-
-| [Élan des rivières](./Élan des rivières.md) || 2
+| [[Élan des rivières]] || 2
 |-
-| [Girafe](./Girafe.md) || 3
+| [[Girafe]] || 3
 |}
 </div>*Deux magnifiques cornes incurvées ornent le front de ce robuste bélier à la toison brune et blanche.*
 
@@ -80,7 +80,7 @@ l’archétype « créature
 jeune » à un bélier.
 
 ### Le bélier comme compagnon animal
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** cornes (1d3) ; **Caractéristiques** For 10, Dex 17, Con 11, Int 2, Sag 14, Cha 7 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 12 m (8 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** cornes (1d3) ; **Caractéristiques** For 10, Dex 17, Con 11, Int 2, Sag 14, Cha 7 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Évolution au niveau 4.** **Taille** M ; **Attaque** cornes (1d4) ; **Caractéristiques** For +4, Dex –2, Con +2 ; **Particularités** [charge puissante](./Charge puissante.md) (1d8) ; **Don supplémentaire** [Science de la bousculade](./Science de la bousculade.md).
+**Évolution au niveau 4.** **Taille** M ; **Attaque** cornes (1d4) ; **Caractéristiques** For +4, Dex –2, Con +2 ; **Particularités** [[charge puissante]] (1d8) ; **Don supplémentaire** [[Science de la bousculade]].
 </div></td></tr></table>

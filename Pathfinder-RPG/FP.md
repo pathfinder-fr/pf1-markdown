@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Rencontres#FP
 ---
 
->>> [Rencontres#FP](./Rencontres.md#FP)
+>>> [[Rencontres#FP]]

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Rusée
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Rusée](./Descriptions individuelles des propriétés spéciales des armes.md#Rusée)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Rusée]]

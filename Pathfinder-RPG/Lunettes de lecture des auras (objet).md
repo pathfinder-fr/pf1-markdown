@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AO}**Prix** 15 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ces grosses lunettes aux armatures de cuir sont dotées de verres sombres teintés en violet et enduits d'une substance alchimique spéciale qui permet de percevoir des spectres psychiques particuliers. Il faut porter ces lunettes pendant une heure entière avant de pouvoir bénéficier de leurs avantages. Pendant cette heure, le porteur subit un malus de -2 aux tests de [Perception](./Perception.md) basés sur la vue. Une fois cette heure écoulée, il peut déchausser les lunettes pour bénéficier d'un bonus de circonstances de +2 aux tests de Perception effectués en utilisant l'extension de compétence occulte [lecture des auras](./Extensions de compétences occultes.md#LECTUREDESAURAS). Cet avantage disparaît au bout d'une heure.
+Ces grosses lunettes aux armatures de cuir sont dotées de verres sombres teintés en violet et enduits d'une substance alchimique spéciale qui permet de percevoir des spectres psychiques particuliers. Il faut porter ces lunettes pendant une heure entière avant de pouvoir bénéficier de leurs avantages. Pendant cette heure, le porteur subit un malus de -2 aux tests de [[Perception]] basés sur la vue. Une fois cette heure écoulée, il peut déchausser les lunettes pour bénéficier d'un bonus de circonstances de +2 aux tests de Perception effectués en utilisant l'extension de compétence occulte [[Extensions de compétences occultes#LECTUREDESAURAS|lecture des auras]]. Cet avantage disparaît au bout d'une heure.

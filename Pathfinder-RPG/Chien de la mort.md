@@ -10,7 +10,7 @@ LastModified: 2017-01-19 21:34
 {s:pucem|Créature magique|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 31*}
 - **600 PX**
-- [Créature magique](./type Créature magique.md) de taille G, NM
+- [[type créature magique|Créature magique]] de taille G, NM
 - **Init **+2 ; **Sens **odorat, vision dans le noir 18 m, vision nocturne ; Perception +7
 (((Défense)))
 - **CA **13, contact 11, pris au dépourvu 11 (Dex +2, naturelle +2, taille -1)
@@ -25,7 +25,7 @@ LastModified: 2017-01-19 21:34
 - **For **13, **Dex **15, **Con **13, **Int **4, **Sag **12, **Cha **6
 - BBA +3 ; BMO +5 ; DMD 17 (21 contre croc-en-jambe)
 - **Dons **Attaque en finesse, Robustesse
-- **Compétences **[Discrétion](./Discrétion.md) +4, [Perception](./Perception.md) +7, [Survie](./Survie.md) +4 ; **Modificateurs raciaux** +2 en Discrétion, +2 en Perception, +2 en Survie
+- **Compétences **[[Discrétion]] +4, [[Perception]] +7, [[Survie]] +4 ; **Modificateurs raciaux** +2 en Discrétion, +2 en Perception, +2 en Survie
 - **Langues **gobelin (incapable de parler)
 (((Écologie)))
 - **Environnement **déserts chauds

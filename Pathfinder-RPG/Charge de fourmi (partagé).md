@@ -16,27 +16,27 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:UC}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 2, [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2, [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [Rôd](./Rôdeur.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M/FD](./composantes.md) (petite poulie)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+{s:UC}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, M/FD]] (petite poulie)
+**Portée** [[présentation des sorts#PORTEE|contact]]
 **Cible** créatures touchées
-**Durée** 2 heures/[niveau](./niveau.md)
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** 2 heures/[[niveau]]
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort fonctionne comme *[charge de fourmi](./Charge de fourmi.md)*, mais la durée se divise entre les créatures touchées, par portions de 2 heures.
+Ce sort fonctionne comme *[[charge de fourmi]]*, mais la durée se divise entre les créatures touchées, par portions de 2 heures.
 
 
 
 (((
 ## Charge de fourmi
-{s:APG}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Prê](./Prêtre.md) 1, [Psy](./Psychiste.md) 1, [Rôd](./Rôdeur.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M/FD](./composantes.md) (petite poulie)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+{s:APG}**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Prêtre|Prê]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[Composantes|V, G, M/FD]] (petite poulie)
+**Portée** [[présentation des sorts#PORTEE|contact]]
 **Cible** créature touchée
-**Durée** 2 heures/[niveau](./niveau.md)
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** 2 heures/[[niveau]]
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Triple la capacité de charge de la créature (voir table : "[Capacité de charge](./Poids transportable.md)"). Ceci n'affecte pas la [Force](./Force.md) de la créature, uniquement la quantité de matériel qu'elle peut transporter quand elle bénéficie des effets de ce sort. Le sort n'affecte pas non plus l'encombrement dû à l'armure. Si la créature porte une armure, elle subit toujours les malus appropriés, quel que soit le poids que le sort lui permet de transporter.
+Triple la capacité de charge de la créature (voir table : "[[Poids transportable|Capacité de charge]]"). Ceci n'affecte pas la [[Force]] de la créature, uniquement la quantité de matériel qu'elle peut transporter quand elle bénéficie des effets de ce sort. Le sort n'affecte pas non plus l'encombrement dû à l'armure. Si la créature porte une armure, elle subit toujours les malus appropriés, quel que soit le poids que le sort lui permet de transporter.
 )))

@@ -10,17 +10,17 @@ Suit ensuite la source
 **Source :** Ultimate wilderness
 
 ### Classe de Métamorphe
-Shifter [Métamorphe](./Métamorphe.md) et [Aspects](./Aspects.md)
+Shifter [[Métamorphe]] et [[Aspects]]
 
 Archétypes de Métamorphe
-- Elementalist Shifter -> [Métamorphe des éléments (métamorphe)](./Métamorphe des éléments (métamorphe).md)
-- Feyform Shifter -> [Métamorphe féérique (métamorphe)](./Métamorphe féérique (métamorphe).md)
-- Fiendflesh Shifter  -> [Métamorphe fiélon (métamorphe)](./Métamorphe-fiélon-(métamorphe).md)
-- Leafshifter -> [Métamorphe végétal (métamorphe)](./Métamorphe-végétal-(métamorphe).md) 
-- Oozemorph -> [Métamorphe vaseux (métamorphe)](./Métamorphe-vaseux-(métamorphe).md) 
-- Rageshaper -> [Métamorphe enragé (métamorphe)](./Métamorphe-enragé-(métamorphe).md) 
-- Verdant Shifter -> [Métamorphe verdoyant (métamorphe)](./Métamorphe verdoyant (métamorphe).md)
-- Weretouched -> [Métamorphe lycanthrope (métamorphe)](./Métamorphe-lycanthrope-(métamorphe).md) 
+- Elementalist Shifter -> [[Métamorphe des éléments (métamorphe)]]
+- Feyform Shifter -> [[Métamorphe féérique (métamorphe)]]
+- Fiendflesh Shifter  -> [[Métamorphe fiélon (métamorphe)]]
+- Leafshifter -> [[Métamorphe végétal (métamorphe)]] 
+- Oozemorph -> [[Métamorphe vaseux (métamorphe)]] 
+- Rageshaper -> [[Métamorphe enragé (métamorphe)]] 
+- Verdant Shifter -> [[Métamorphe verdoyant (métamorphe)]]
+- Weretouched -> [[Métamorphe lycanthrope (métamorphe)]] 
 
 Le format de création des pages des archétypes est **N**omdel'archétype (métamorphe). Avec la majuscule au début du premier mot. L'apostrophe n'est pas acceptée dans le nom d'une page de wiki. Dans ce cas, l'apostrophe est supprimée et on me met pas d'espace à la place. L'alligator donne par exemple Lalligator. C'est pas beau mais c'est une convention du wiki.
 
@@ -39,6 +39,6 @@ Un snippet Menuarchetypemétamorphe a été créé. Il s'utilise sur les pages d
 Un snippet UW devra être créé pour indiquer la Source et porté sur chaque nouvelle page créée. Une traduction française reprenant "Art de" devra être trouvée.
 
 ### Sorts
-- ***[Forme de vase I](./Forme de vase I.md)***
-- ***[Forme de vase II](./Forme de vase II.md)***
-- ***[Forme de vase III](./Forme de vase III.md)***
+- ***[[Forme de vase I]]***
+- ***[[Forme de vase II]]***
+- ***[[Forme de vase III]]***

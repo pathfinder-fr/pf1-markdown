@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage peut utiliser son pavois pour bloquer des attaques magiques.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 17, [Art du bouclier](./Art du bouclier.md), [École du rempart mobile](./École du rempart mobile.md), [Forteresse du rempart mobile](./Forteresse du rempart mobile.md), [Maniement du pavois](./Maniement du pavois.md), [BBA](./BBA.md) +7
+**Conditions.** [[For]] 17, [[Art du bouclier]], [[École du rempart mobile]], [[Forteresse du rempart mobile]], [[Maniement du pavois]], [[BBA]] +7
 
-**Avantages.** Quand le personnage utilise un [pavois](./pavois.md), il ne souffre plus de malus à l'attaque dû à l'encombrement du bouclier. Quand le personnage utilise l'[École du rempart mobile](./École du rempart mobile.md), chaque fois qu'il utilise son [pavois](./pavois.md) pour bénéficier d'un [abri total](./abri total.md), il bénéficie également d'un [abri partiel](./abri partiel.md) (et offre un abri partiel à ses alliés adjacents) contre les sorts qui traversent le côté choisi. De plus, quand il utilise cette école, il peut bénéficier d'un [abri total](./abri total.md) contre une unique attaque qui le cible par une [action rapide](./Action rapide.md) ou [immédiate](./Action immédiate.md).
+**Avantages.** Quand le personnage utilise un [[pavois]], il ne souffre plus de malus à l'attaque dû à l'encombrement du bouclier. Quand le personnage utilise l'[[École du rempart mobile]], chaque fois qu'il utilise son [[pavois]] pour bénéficier d'un [[abri total]], il bénéficie également d'un [[abri partiel]] (et offre un abri partiel à ses alliés adjacents) contre les sorts qui traversent le côté choisi. De plus, quand il utilise cette école, il peut bénéficier d'un [[abri total]] contre une unique attaque qui le cible par une [[action rapide]] ou [[action immédiate|immédiate]].

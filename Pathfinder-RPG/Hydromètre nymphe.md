@@ -10,7 +10,7 @@ LastModified: 2017-04-19 16:51
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 147*}
 - **100 PX**
-- [Vermine](./type Vermine.md) de taille P, N
+- [[type vermine|Vermine]] de taille P, N
 - **Init **+2 ; **Sens** vision dans le noir 18 m, perception des vibrations 18 m (voir hydromètre géant) ; Perception +4
 (((Défense)))
 - **CA** 13, contact 13, pris au dépourvu 11 (Dex +2, taille +1)
@@ -23,7 +23,7 @@ LastModified: 2017-04-19 16:51
 (((Statistiques)))
 - **For** 7, **Dex** 15, **Con** 10, **Int** -, **Sag** 10, **Cha** 2
 - **BBA **+0 ; **BMO **-3 ; **DMD** 9 (17 contre le croc-en-jambe)
-- **Compétences** [Natation](./Natation.md) +2, [Perception](./Perception.md) +4, [Vol](./Vol.md) +0
+- **Compétences** [[Natation]] +2, [[Perception]] +4, [[Vol]] +0
 - **Modificateurs raciaux** +4 en Perception, +4 en Natation
 - **Particularités** marche sur l’eau (voir hydromètre géant)
 (((Écologie)))

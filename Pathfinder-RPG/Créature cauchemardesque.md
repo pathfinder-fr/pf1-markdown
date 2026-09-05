@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Aberration|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 40*}
 - **1 200 PX**
-- [Aberration](./type Aberration.md) de taille M, NM
+- [[type aberration|Aberration]] de taille M, NM
 - **Init **+9 ; **Sens** vision dans le noir à 36 m, vision nocturne ; Perception +9
 - **Aura** de terreur (18 m, DD 13), de présence terrifiante (9 m, DD 13)
 (((Défense)))
@@ -25,14 +25,14 @@ Categories:
 - **Corps à corps** morsure, +5 (1d6+2 plus poison) et 2 griffes, +5 (1d4+2)
 - **Attaques spéciales** pièges, poison, terreurs nocturnes (DD 13), toile (distance +8, DD 15, 4 pv)
 - **Pouvoirs magiques** (**NLS** 4 ; concentration +5)
-  - Constant – *[protection contre le Bien](./Protection contre le Bien.md)*
-  - 3/jour – *[cauchemar](./Cauchemar.md)* (DD 16), *[détection de pensées](./Détection de pensées.md)* (DD 13), *[songe](./Songe.md)* (DD 16), *[suggestion](./Suggestion.md)* (DD 14)
-  - 1/jour – *[traversée des ombres](./Traversée des ombres.md)*
+  - Constant – *[[protection contre le Bien]]*
+  - 3/jour – *[[cauchemar]]* (DD 16), *[[détection de pensées]]* (DD 13), *[[songe]]* (DD 16), *[[suggestion]]* (DD 14)
+  - 1/jour – *[[traversée des ombres]]*
 (((Statistiques)))
 - **For** 14, **Dex** 21, **Con** 17, **Int** 8, **Sag** 15, **Cha** 12
 - **BBA **+3 ; **BMO **+5 ; **DMD** 20
-- **Dons** [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)
-- **Compétences** [Artisanat](./Artisanat.md) (pièges) +11, [Escalade](./Escalade.md) +14, [Intimidation](./Intimidation.md) +5, [Perception](./Perception.md) +9, [Vol](./Vol.md) +13 [Discrétion](./Discrétion.md) +15 ; **Modificateurs raciaux **+8 en Artisanat (pièges), +4 en Discrétion, +4 en Intimidation
+- **Dons** [[Science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]]
+- **Compétences** [[Artisanat]] (pièges) +11, [[Escalade]] +14, [[Intimidation]] +5, [[Perception]] +9, [[Vol]] +13 [[Discrétion]] +15 ; **Modificateurs raciaux **+8 en Artisanat (pièges), +4 en Discrétion, +4 en Intimidation
 - **Langues** commun
 - **Particularités** empathie avec les araignées +7, mort simulée (DD 13)
 (((Écologie)))
@@ -43,7 +43,7 @@ Categories:
 - E**mpathie avec les araignées (Ext)**. Ce pouvoir fonctionne comme celui d’empathie sauvage du druide, sauf que l’ettercap ne peut l’utiliser que sur les araignées. L’ettercap gagne un bonus racial de +4 à ce test. Les araignées sont dénuées d’intelligence, mais cette communication empathique leur confère un semblant d’intelligence, ce qui permet aux ettercaps de dresser les araignées géantes pour en faire des gardiennes.
 - **Pièges (Ext)**. Les ettercaps sont particulièrement doués pour confectionner des pièges vicieux avec leurs toiles. Ils fabriquent le plus souvent des collets, des pièges à lance ou à écrasement. Ils n’ont pas besoin d’or pour construire leurs pièges, seulement de temps. Les règles sur la fabrication des pièges se trouvent dans le chapitre 13 du Manuel des Joueurs Pathfinder JdR. La description des pièges des ettercaps se trouvent page 133 du Bestiaire Pathfinder JdR.
 - **Poison (Ext)**. Morsure – blessure ; JdS Vigueur DD 15 ; fréquence 1/round pendant 10 rounds ; effet 1d2 Dex ; guérison 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution.</div>
-</td><td><div>Voir l'[archétype](./Créature cauchemardesque, archétype.md).
+</td><td><div>Voir l'[[Créature cauchemardesque, archétype|archétype]].
 
 
   

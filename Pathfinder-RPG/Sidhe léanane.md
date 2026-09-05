@@ -10,7 +10,7 @@ LastModified: 2017-03-20 15:24
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 261*}
 - **6 400 PX**
-- [Créature féerique](./type Fée.md) ([mythique](./sous-type mythique.md)) de taille M, CN
+- [[type fée|Créature féerique]] ([[sous-type mythique|mythique]]) de taille M, CN
 - **Init **+7M ; **Sens **vision nocturne ; Perception +19
 (((Défense)))
 - **CA** 25, contact 19, pris au dépourvu 21 (Dex +3, esquive +1, naturelle +6, parade +5)
@@ -22,13 +22,13 @@ LastModified: 2017-03-20 15:24
 - **Corps à corps** dague, +5 (1d4/19-20) ou contact, +5 (affaiblissement temporaire de 1d4 Cha)
 - **Attaques spéciales** drain de vie, pouvoir mythique (3/jour, montée en puissance +1d6)
 - **Pouvoirs magiques** (**NLS **10 ; concentration +12)
-  - *À volonté* – [apaisement des émotions](./Apaisement des émotions.md) (DD 18), [désespoir foudroyant](./Désespoir foudroyant.md) (DD 20), [porte dimensionnelle](./Porte dimensionnelle.md) (sur elle-même plus 25 kg d’objets seulement)
-  - *3/jour* – [charme-personne](./Charme-personne.md) à incantation rapide (DD 17), [hypnose des animaux](./Hypnose des animaux.md) (DD 18)
+  - *À volonté* – [[apaisement des émotions]] (DD 18), [[désespoir foudroyant]] (DD 20), [[porte dimensionnelle]] (sur elle-même plus 25 kg d’objets seulement)
+  - *3/jour* – [[charme-personne]] à incantation rapide (DD 17), [[hypnose des animaux]] (DD 18)
 (((Statistiques)))
 - **For **10, **Dex** 17, **Con **18, **Int **13, **Sag **12, **Cha **21
 - **BBA **+5 ; **BMO **+5 ; **DMD **24
-- **Dons **[École renforcée](./École renforcée.md) (enchantement), [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Persuasion](./Persuasion.md)<sup>M</sup>, [Pouvoir magique rapide](./Pouvoir magique rapide.md) (charme-personne), [Science de l’initiative](./Science de linitiative.md)<sup>M</sup>, [Vigilance](./Vigilance.md)
-- **Compétences **[Art de la magie](./Art de la magie.md) +6, [Bluff](./Bluff.md) +19, [Connaissances](./Connaissances.md) (mystères) +12, [Connaissances](./Connaissances.md) (noblesse) +7, [Diplomatie](./Diplomatie.md) +25, [Intimidation](./Intimidation.md) +22, [Perception](./Perception.md) +19, [Psychologie](./Psychologie.md) +19, [Vol](./Vol.md) +7
+- **Dons **[[École renforcée]] (enchantement), [[Esquive]], [[Magie de guerre]], [[Persuasion]]<sup>M</sup>, [[Pouvoir magique rapide]] (charme-personne), [[Science de linitiative|Science de l’initiative]]<sup>M</sup>, [[Vigilance]]
+- **Compétences **[[Art de la magie]] +6, [[Bluff]] +19, [[Connaissances]] (mystères) +12, [[Connaissances]] (noblesse) +7, [[Diplomatie]] +25, [[Intimidation]] +22, [[Perception]] +19, [[Psychologie]] +19, [[Vol]] +7
 - **Langues **sylvestre ; don des langues
 - **Particularités **changement de forme (femelle humanoïde), gage de compétence, gage de magie, grâce surnaturelle
 (((Écologie)))

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Chevalier#TACTICIEN
 ---
 
->>> [Chevalier#TACTICIEN](./Chevalier.md#TACTICIEN)
+>>> [[Chevalier#TACTICIEN]]

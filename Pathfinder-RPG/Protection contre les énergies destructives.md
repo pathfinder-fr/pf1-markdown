@@ -20,29 +20,29 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Abjuration](./Abjuration.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Cham](./Chaman.md) 3, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Dru](./Druide.md) 3, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Occ](./Occultiste.md) 3, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 3, [Rôd](./Rôdeur.md) 2, [San](./Sanguin.md) 3, [Spi](./Spirite.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**École** [[Abjuration]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Chaman|Cham]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Rôdeur|Rôd]] 2, [[Sanguin|San]] 3, [[Spirite|Spi]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créature touchée
-**Durée** 10 minutes/[niveau](./niveau.md) ou jusqu’à épuisement
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** 10 minutes/[[niveau]] ou jusqu’à épuisement
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort offre une [immunité](./Immunité.md) temporaire contre le type d’énergie sélectionné (acide, électricité, feu, froid ou son). Une fois que l’[abjuration](./Abjuration.md) a absorbé 12 points de dégâts par [niveau de lanceur de sorts](./NLS.md) de celui qui l’a lancée (jusqu’à un maximum de 120 points de dégâts au [niveau](./niveau.md) 10), elle cesse de faire effet.
+Ce sort offre une [[immunité]] temporaire contre le type d’énergie sélectionné (acide, électricité, feu, froid ou son). Une fois que l’[[abjuration]] a absorbé 12 points de dégâts par [[NLS|niveau de lanceur de sorts]] de celui qui l’a lancée (jusqu’à un maximum de 120 points de dégâts au [[niveau]] 10), elle cesse de faire effet.
 
-*Protection contre les énergies destructives* remplace *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)* (et n’est pas cumulable avec ce dernier). Si un personnage bénéficie de *protection contre les énergies destructives* et de *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, la protection agit seule jusqu’à ce que son potentiel d’absorption soit épuisé.
+*Protection contre les énergies destructives* remplace *[[résistance aux énergies destructives]]* (et n’est pas cumulable avec ce dernier). Si un personnage bénéficie de *protection contre les énergies destructives* et de *[[résistance aux énergies destructives]]*, la protection agit seule jusqu’à ce que son potentiel d’absorption soit épuisé.
 
 
 
 ((({s:sortssimilaires|protection contre les énergies destructives}
-## [Protection contre les énergies destructives (partagé)](./Protection contre les énergies destructives (partagé).md)
-{s:UC}**École** [Abjuration](./Abjuration.md) ; **Niveau** [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 4, [Dru](./Druide.md) 4, [Inq](./Inquisiteur.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Prê](./Prêtre.md) 4, [Psy](./Psychiste.md) 4, [Rôd](./Rôdeur.md) 3
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+## [[Protection contre les énergies destructives (partagé)]]
+{s:UC}**École** [[Abjuration]] ; **Niveau** [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Druide|Dru]] 4, [[Inquisiteur|Inq]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Prêtre|Prê]] 4, [[Psychiste|Psy]] 4, [[Rôdeur|Rôd]] 3
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** créatures touchées
-**Durée** 10 minutes/[niveau](./niveau.md) ou jusqu’à épuisement
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Durée** 10 minutes/[[niveau]] ou jusqu’à épuisement
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 ---
-Ce sort fonctionne comme *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)* mais la durée se divise entre les créatures touchées,  par portions de 10 minutes. Le sort se termine pour une cible spécifique quand il a absorbé 12 points de dégâts d’énergie par [niveau de lanceur de sorts](./NLS.md) (120 au maximum) pour elle.
+Ce sort fonctionne comme *[[protection contre les énergies destructives]]* mais la durée se divise entre les créatures touchées,  par portions de 10 minutes. Le sort se termine pour une cible spécifique quand il a absorbé 12 points de dégâts d’énergie par [[NLS|niveau de lanceur de sorts]] (120 au maximum) pour elle.
 )))

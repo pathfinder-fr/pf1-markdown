@@ -10,6 +10,6 @@ Categories:
 
 {s:CMy}*Le personnage peut descendre en un clin d’œil plusieurs breuvages d’affilée.*
 
-**Condition.** [Arme en main](./Arme en main.md)
+**Condition.** [[Arme en main]]
 
-**Avantage.** Par une [action de mouvement](./Action de mouvement.md), le personnage peut prendre en main deux potions ou autres breuvages, ordinaires ou magiques, rangés dans une bourse, une bandoulière ou un contenant similaire (mais pas dans un sac à dos). Par une [action simple](./Action simple.md), il peut boire deux potions ou autres breuvages. Il doit avoir les deux mains libres pour pouvoir utiliser ce don.
+**Avantage.** Par une [[action de mouvement]], le personnage peut prendre en main deux potions ou autres breuvages, ordinaires ou magiques, rangés dans une bourse, une bandoulière ou un contenant similaire (mais pas dans un sac à dos). Par une [[action simple]], il peut boire deux potions ou autres breuvages. Il doit avoir les deux mains libres pour pouvoir utiliser ce don.

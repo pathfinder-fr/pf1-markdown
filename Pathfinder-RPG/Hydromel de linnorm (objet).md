@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:AA}**Prix** 5 pc ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Boisson préférée des peuples du nord, cet hydromel de miel a voyagé avec eux dans les terres du sud. Il est doux et fort et, selon les bardes nordiques, est une aide non négligeable pour chanter.

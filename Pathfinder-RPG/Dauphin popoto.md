@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire p.55*}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Animal](./type Animal.md) de taille P, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision aveugle](./vision aveugle.md) à 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Animal|Animal]] de taille P, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision aveugle]] à 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 12 (Dex +2, naturelle +1, taille +1)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -26,15 +26,15 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 17, **Con** 11, **Int** 2, **Sag** 13, **Cha** 6}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 12}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +7, [Perception](./Perception.md) +5}
-{s:BDTexte|**Particularités** [Retenir son souffle (capacité)|Retenir son souffle]}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Natation]] +7, [[Perception]] +5}
+{s:BDTexte|**Particularités** [[Retenir son souffle (capacité)|Retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans tropicaux}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou banc (3-5)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**[Retenir son souffle (capacité)|Retenir son souffle (Ext)]** Un popoto peut retenir sa respiration pendant un nombre de minutes égal à 6 fois sa valeur de [Constitution](./Constitution.md) avant de risquer de se noyer.}
+{s:BDTexte|**[[Retenir son souffle (capacité)|Retenir son souffle (Ext)]]** Un popoto peut retenir sa respiration pendant un nombre de minutes égal à 6 fois sa valeur de [[Constitution]] avant de risquer de se noyer.}
 </div>
 </td>
 <td>

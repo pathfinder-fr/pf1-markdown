@@ -8,8 +8,8 @@ Categories:
 ---
 
 {s:AE}**Prix** 200 po (œuf), 5.000 po (entrainé au combat) ; **Poids** 5 kg (œuf), 250 kg (entrainé au combat)
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Moins intelligents et plus faciles à dresser que les [griffons](./Griffon (objet).md), les hippogriffes font de montures ailées fiables. Voir les statistiques de l'[hippogriffe](./Hippogriffe.md).  
+Moins intelligents et plus faciles à dresser que les [[Griffon (objet)|griffons]], les hippogriffes font de montures ailées fiables. Voir les statistiques de l'[[hippogriffe]].  
   
 *Œuf d'hyppogriffe*. S’il est plus facile de dresser un hippogriffe adulte qu’un griffon, les œufs de ces créatures n’en sont pas moins prisés par les éleveurs.

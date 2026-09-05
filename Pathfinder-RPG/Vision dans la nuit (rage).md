@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#VISIONDANSLANUIT
 ---
 
->>> [pouvoirs de rage#VISIONDANSLANUIT](./Pouvoirs de rage.md#VISIONDANSLANUIT)
+>>> [[pouvoirs de rage#VISIONDANSLANUIT]]

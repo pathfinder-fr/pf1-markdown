@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun sphère rose et verte|{s:RSE}}
-**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 8 000 po (normale), 6 000 po (défectueuse), 200 po (ébréchée) ; **Poids** –
+**Aura** Variable puissante ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 8 000 po (normale), 6 000 po (défectueuse), 200 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** Bonus d'altération de +2 en [Charisme](./Charisme.md).
+- ***Normale.*** Bonus d'altération de +2 en [[Charisme]].
 
 
-- ***Défectueuse.*** Cette pierre accorde un bonus d’altération de +2 en [Charisme](./Charisme.md) et une pénalité de -2 en [Constitution](./Constitution.md).
+- ***Défectueuse.*** Cette pierre accorde un bonus d’altération de +2 en [[Charisme]] et une pénalité de -2 en [[Constitution]].
 
 
-- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 à une compétence basée sur le [Charisme](./Charisme.md).
+- ***Ébréchée.*** Cette pierre accorde un bonus de compétence de +1 à une compétence basée sur le [[Charisme]].
 
 (((Pouvoir de résonance)))
-Bonus de +1 sur les [jets de sauvegarde](./JDS.md) de [Volonté](./Volonté.md).
+Bonus de +1 sur les [[jds|jets de sauvegarde]] de [[Volonté]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), le créateur doit être de niveau 12 ; **Coût** 4 000 po (normale), 3 000 po (défectueuse), 100 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], le créateur doit être de niveau 12 ; **Coût** 4 000 po (normale), 3 000 po (défectueuse), 100 po (ébréchée)
 </div>

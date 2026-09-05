@@ -8,11 +8,11 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-<div style="float:right">{s:Desambi|Marteau du chaos est aussi le nom d'un [sort](./Marteau du chaos.md).}</div><div class="BD">
+<div style="float:right">{s:Desambi|Marteau du chaos est aussi le nom d'un [[marteau du chaos|sort]].}</div><div class="BD">
 {s:BDTitre|Marteau du chaos|{s:CMy}}
-**Aura** [Évocation](./Évocation.md) <nowiki>[</nowiki>[Chaos](./Registre.md)<nowiki>]</nowiki> modérée ; **NLS** 9 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 38 312 po ; **Poids** 5 kg
+**Aura** [[Évocation]] <nowiki>[</nowiki>[[registre|Chaos]]<nowiki>]</nowiki> modérée ; **NLS** 9 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 38 312 po ; **Poids** 5 kg
 (((Description)))
-Ce marteau démesuré crépite d’énergie chaotique. Une fois par jour, par une [action simple](./Action simple.md), le porteur de ce *[marteau de guerre](./marteau de guerre (arme).md) [anarchique](./anarchique (propriété).md) +1* peut frapper le sol pour recréer les effets du sort *[marteau du Chaos](./Marteau du chaos.md)* ([Vol](./Volonté.md) [DD](./DD.md) 16, [NLS](./NLS.md) 19), qui fuse du porteur du marteau. Une créature [mythique](./mythique.md) qui manie cette arme peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour activer ce pouvoir sans dépenser son utilisation journalière.
+Ce marteau démesuré crépite d’énergie chaotique. Une fois par jour, par une [[action simple]], le porteur de ce *[[marteau de guerre (arme)|marteau de guerre]] [[anarchique (propriété)|anarchique]] +1* peut frapper le sol pour recréer les effets du sort *[[marteau du Chaos]]* ([[Volonté|Vol]] [[DD]] 16, [[NLS]] 19), qui fuse du porteur du marteau. Une créature [[mythique]] qui manie cette arme peut dépenser une utilisation de [[pouvoir mythique]] pour activer ce pouvoir sans dépenser son utilisation journalière.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), [Artisan mythique](./Artisan mythique (mythique).md), *[arme alignée](./Arme alignée.md)*, *[marteau du Chaos](./Marteau du chaos.md)*, le créateur doit être Chaotique ; **Coût** 19 312 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], [[Artisan mythique (mythique)|Artisan mythique]], *[[arme alignée]]*, *[[marteau du Chaos]]*, le créateur doit être Chaotique ; **Coût** 19 312 po
 </div>

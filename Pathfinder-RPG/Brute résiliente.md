@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*Le personnage supporte des coups qui en tueraient d’autres.*
 
-**Conditions.** [Demi-orque](./Demi-orque.md) ou [orque](./orque (race).md).
+**Conditions.** [[Demi-orque]] ou [[orque (race)|orque]].
 
-**Avantages.** Une fois par jour, quand une créature confirme un [coup critique](./coup critique.md) contre le personnage, il peut considérer la moitié des dégâts comme des [dégâts non létaux](./Dégâts non létaux.md). Il ne peut pas utiliser ce don s’il est immunisé contre les dégâts létaux. Quand le [BBA](./BBA.md) du personnage atteint +10, il peut utiliser ce don une fois de plus par jour.
+**Avantages.** Une fois par jour, quand une créature confirme un [[coup critique]] contre le personnage, il peut considérer la moitié des dégâts comme des [[dégâts non létaux]]. Il ne peut pas utiliser ce don s’il est immunisé contre les dégâts létaux. Quand le [[BBA]] du personnage atteint +10, il peut utiliser ce don une fois de plus par jour.

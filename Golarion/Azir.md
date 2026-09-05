@@ -8,8 +8,8 @@ Categories:
 - Ville
 ---
 
-Azir, située sur la côte ouest du [Rahadoum](./Rahadoum.md) à l'embouchure de la Sinueuse, est la capitale du pays. C'est de cette ville qu'est issu Kalim Onaku, instigateur des lois bannissant la religion qui régissent encore le pays.
+Azir, située sur la côte ouest du [[Rahadoum]] à l'embouchure de la Sinueuse, est la capitale du pays. C'est de cette ville qu'est issu Kalim Onaku, instigateur des lois bannissant la religion qui régissent encore le pays.
 
 La cité a fortement évolué ses dernieres années. D'une ville austère, elle est devenue surprenante et lumineuse grâce à la liberté prise par les architectes. Certains bâtiments jouent même avec les lois de la géométrie et de l'apesanteur pour former des angles défiant l'entendement. De plus, ils ont été repeints de couleurs vives pour attirer l'oeil autant que la lumière.
 
-Azir est aussi l'un des ports de commerce les plus importants du [Garund](./Garund.md). C'est ici qu'entrent et sortent pratiquement toutes les marchandises échangées dans le pays.
+Azir est aussi l'un des ports de commerce les plus importants du [[Garund]]. C'est ici qu'entrent et sortent pratiquement toutes les marchandises échangées dans le pays.

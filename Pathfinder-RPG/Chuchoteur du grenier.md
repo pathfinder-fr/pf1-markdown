@@ -14,31 +14,31 @@ Categories:
 {s:pucem|Mort-vivant|Ville|Tempéré}
 - *Source : Bestiaire 2, p.66*
 - **PX** 1 200
-- [Mort-vivant](./type Mort-vivant.md) de taille P, NM
-- **Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +12
+- [[type Mort-vivant|Mort-vivant]] de taille P, NM
+- **Init** +8 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +12
 - **Aura** de pleurs (3 m ; 2 {s:c}))
 (((Défense)))
 - **CA** 19, contact 16, pris au dépourvu 14 (Dex +4, esquive +1, naturelle +3, taille +1)
 - **pv** 45 (6d8+18)
 - **Réf** +6, **Vig** +5, **Vol** +8
-- **Immunités** [traits des morts-vivants](./Traits des morts-vivants.md)
+- **Immunités** [[traits des morts-vivants]]
 (((Attaque)))
 - **VD** 6 m (4 {s:c})
 - **Corps à corps** morsure, +9 (1d4–1 plus vol de souffle) et toucher, +4 contact au corps à corps (vol de voix)
 (((Statistiques)))
 - **For** 9, **Dex** 19, **Con** — , **Int** 14, **Sag** 16, **Cha** 17
 - **BBA** +4 ; **BMO** +2 ; **DMD** 17
-- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Bluff](./Bluff.md) +9, [Connaissances](./Connaissances.md) (folklore local) +8, [Connaissances](./Connaissances.md) (histoire) +8, [Discrétion](./Discrétion.md) +17, [Escalade](./Escalade.md) +8, [Perception](./Perception.md) +12
+- **Dons** [[Attaque en finesse]], [[Esquive]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Bluff]] +9, [[Connaissances]] (folklore local) +8, [[Connaissances]] (histoire) +8, [[Discrétion]] +17, [[Escalade]] +8, [[Perception]] +12
 - **Langues** commun (plus 2d4 langues au choix grâce aux victimes)
 (((Écologie)))
 - **Environnement** en ville ou dans les ruines
 - **Organisation sociale** solitaire, couple ou choeur (3–8)
 - **Trésor** fortuit
 (((Pouvoirs spéciaux)))
-- **Aura de pleurs (Sur).** Toutes les voix qu’un chuchoteur du grenier a dérobées persistent autour de lui sous la forme d’une aura invisible mais audible faite de gémissements, de chansons et de pleurs d’enfants. Toute créature vivante pénétrant dans la zone de l’aura perd tous les avantages procurés par les [représentations bardiques](./représentation bardique.md) qui l’affectent et subit un malus de –1 aux jets d’attaque, jets de dégâts et jets de Volonté. Le chuchoteur du grenier peut désactiver ou réactiver cette aura par une action libre. Il s’agit d’un effet mental de son.
-- **Vol de souffle (Sur).** Une créature mordue par un chuchoteur du grenier doit réussir un jet de Volonté contre un DD de 16 pour ne pas être [fatiguée](./Fatigué.md) pendant 1 heure. Si la créature mordue est déjà fatiguée, elle est plutôt [épuisée](./Épuisé.md) pendant 1 heure ; si elle était déjà épuisée, elle tombe endormie pendant 1 heure et ne peut être réveillée qu’en tuant le chuchoteur du grenier ou en utilisant une *[dissipation de la magie](./Dissipation de la magie.md)*, une *[délivrance des malédictions](./Délivrance des malédictions.md)* ou un effet similaire. Le DD du jet de sauvegarde dépend du Charisme.
-- **Vol de voix (Sur).** Une créature touchée par un chuchoteur du grenier doit réussir un jet de Volonté contre un DD de 16 ou être incapable de parler pendant 1 heure. Pendant cette période, la créature ne peut ni parler, ni lancer de sorts à composantes verbales, ni effectuer de représentation bardique orale, ni utiliser quelque autre capacité nécessitant l’usage de la parole. Une fois qu’un chuchoteur du grenier a dérobé la voix d’une créature, il  peut imiter cette voix à la perfection à n’importe quel moment, même après que la victime en question ait recouvré l’usage de la parole. Le chuchoteur du grenier peut utiliser la voix dérobée pour parler n’importe quelle langue connue de la victime. Ceux qui connaissent bien la voix en question peuvent effectuer un test de [Psychologie](./Psychologie.md) opposé au test de [Bluff](./Bluff.md) du chuchoteur du grenier pour se rendre compte qu’il s’agit d’une imitation. Le DD du jet de sauvegarde dépend du Charisme.
+- **Aura de pleurs (Sur).** Toutes les voix qu’un chuchoteur du grenier a dérobées persistent autour de lui sous la forme d’une aura invisible mais audible faite de gémissements, de chansons et de pleurs d’enfants. Toute créature vivante pénétrant dans la zone de l’aura perd tous les avantages procurés par les [[représentation bardique|représentations bardiques]] qui l’affectent et subit un malus de –1 aux jets d’attaque, jets de dégâts et jets de Volonté. Le chuchoteur du grenier peut désactiver ou réactiver cette aura par une action libre. Il s’agit d’un effet mental de son.
+- **Vol de souffle (Sur).** Une créature mordue par un chuchoteur du grenier doit réussir un jet de Volonté contre un DD de 16 pour ne pas être [[fatigué|fatiguée]] pendant 1 heure. Si la créature mordue est déjà fatiguée, elle est plutôt [[épuisé|épuisée]] pendant 1 heure ; si elle était déjà épuisée, elle tombe endormie pendant 1 heure et ne peut être réveillée qu’en tuant le chuchoteur du grenier ou en utilisant une *[[dissipation de la magie]]*, une *[[délivrance des malédictions]]* ou un effet similaire. Le DD du jet de sauvegarde dépend du Charisme.
+- **Vol de voix (Sur).** Une créature touchée par un chuchoteur du grenier doit réussir un jet de Volonté contre un DD de 16 ou être incapable de parler pendant 1 heure. Pendant cette période, la créature ne peut ni parler, ni lancer de sorts à composantes verbales, ni effectuer de représentation bardique orale, ni utiliser quelque autre capacité nécessitant l’usage de la parole. Une fois qu’un chuchoteur du grenier a dérobé la voix d’une créature, il  peut imiter cette voix à la perfection à n’importe quel moment, même après que la victime en question ait recouvré l’usage de la parole. Le chuchoteur du grenier peut utiliser la voix dérobée pour parler n’importe quelle langue connue de la victime. Ceux qui connaissent bien la voix en question peuvent effectuer un test de [[Psychologie]] opposé au test de [[Bluff]] du chuchoteur du grenier pour se rendre compte qu’il s’agit d’une imitation. Le DD du jet de sauvegarde dépend du Charisme.
 
 </div>
 </td><td><div>*Cette chose ressemble à un enfant émacié et grisâtre, avec des habits faits de toiles d’araignée et de poussière et un crâne de renard à la place de la tête.*

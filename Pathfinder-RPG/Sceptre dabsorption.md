@@ -8,15 +8,15 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Sceptre d’absorption|}
-**Aura** [Abjuration](./Abjuration.md) puissante ; **NLS** 15 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 50 000 po ; **Poids** 2,5 kg
+**Aura** [[Abjuration]] puissante ; **NLS** 15 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 50 000 po ; **Poids** 2,5 kg
 (((Description)))
 Le sceptre d’absorption absorbe les sorts et les pouvoirs magiques qu’il attire à lui. L’effet absorbé doit être un effet à cible unique ou un rayon prenant pour cible le possesseur du sceptre ou son équipement. Le sceptre annule alors l’attaque et conserve son potentiel magique, jusqu’à ce que le personnage décide de la libérer sous la forme de sorts qu’il est capable de lancer. L’absorption ne nécessite aucune action pour peu que le personnage ait le sceptre en main. Celui-ci indique instantanément à son possesseur le niveau des sorts qu’il absorbe.
 
-Il est nécessaire de comptabiliser les niveaux de sort absorbés et dépensés. Le personnage peut se servir de l’énergie absorbée pour lancer les sorts qu’il a préparés ; ceux-ci ne disparaissent alors pas de sa mémoire. Les seules restrictions à cette règle sont que les sorts jetés de la sorte ne doivent pas dépasser la quantité d’énergie contenue dans le sceptre, que le personnage doit avoir le sceptre en main au moment de l’incantation et qu’il doit posséder les [composantes matérielles](./composante matérielle.md) exigées par le sort. Pour les lanceurs de sorts qui n’ont pas besoin de préparer leurs sorts à l’avance, comme les [bardes](./Barde.md) et les [ensorceleurs](./Ensorceleur.md), il est possible de se servir du sceptre pour lancer n’importe quel sort qu’il connaît.
+Il est nécessaire de comptabiliser les niveaux de sort absorbés et dépensés. Le personnage peut se servir de l’énergie absorbée pour lancer les sorts qu’il a préparés ; ceux-ci ne disparaissent alors pas de sa mémoire. Les seules restrictions à cette règle sont que les sorts jetés de la sorte ne doivent pas dépasser la quantité d’énergie contenue dans le sceptre, que le personnage doit avoir le sceptre en main au moment de l’incantation et qu’il doit posséder les [[composante matérielle|composantes matérielles]] exigées par le sort. Pour les lanceurs de sorts qui n’ont pas besoin de préparer leurs sorts à l’avance, comme les [[barde|bardes]] et les [[ensorceleur|ensorceleurs]], il est possible de se servir du sceptre pour lancer n’importe quel sort qu’il connaît.
 
 Le sceptre d’absorption peut absorber un maximum de 50 niveaux de sort, et c’est l’énergie accumulée de la sorte qui détermine les sorts qu’il permet de lancer. Il ne peut pas être rechargé. Le personnage sait à tout moment combien le sceptre peut absorber de niveaux de sort et la quantité d’énergie magique il a emmagasiné.
 
 Pour déterminer la capacité d’absorption d’un sceptre tout juste trouvé, il faut lancer 1d100 et diviser le résultat par deux, afin d’obtenir le nombre de niveaux de sorts absorbables. Un second lancer est ensuite nécessaire : sur un résultat de 71–100, la moitié des niveaux de sort absorbés sont encore présents à l’intérieur du sceptre.
 (((Création)))
-**Conditions** [Création de sceptres magiques](./Création de sceptres magiques.md), *[renvoi des sorts](./Renvoi des sorts.md)* ; **Coût** 25 000 po
+**Conditions** [[Création de sceptres magiques]], *[[renvoi des sorts]]* ; **Coût** 25 000 po
 </div>

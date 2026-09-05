@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Le personnage chasse vicieusement les dragons métalliques et les utilise comme sacrifice.*
 
-**Conditions.** Capacité de classe [ennemi juré](./Rôdeur.md#ENNEMIJURE) (dragon), suivant de [Dahak](./Dahak (technique).md)
+**Conditions.** Capacité de classe [[Rôdeur#ENNEMIJURE|ennemi juré]] (dragon), suivant de [[Dahak (technique)|Dahak]]
 
-**Avantage.** Le bonus d'[ennemi juré](./Rôdeur.md#ENNEMIJURE) du personnage augmente de 2 contre les [dragons métalliques](./dragon métallique.md).
+**Avantage.** Le bonus d'[[Rôdeur#ENNEMIJURE|ennemi juré]] du personnage augmente de 2 contre les [[dragon métallique|dragons métalliques]].

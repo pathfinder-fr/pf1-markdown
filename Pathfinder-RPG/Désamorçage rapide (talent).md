@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#DESAMORCAGERAPIDE
 ---
 
->>> [Talents#DESAMORCAGERAPIDE](./Talents.md#DESAMORCAGERAPIDE)
+>>> [[Talents#DESAMORCAGERAPIDE]]

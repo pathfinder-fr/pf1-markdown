@@ -9,14 +9,14 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (un petit miroir)
-**Portée** [courte](./Présentation des sorts.md#PORTEE) (7,50 m + 1,50 m/2 niveaux)
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (un petit miroir)
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)
 **Cible** une créature
 **Durée** 1 round/niveau
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 *Créé à l’origine par un disciple du Roi-mage, ce sort a été utilisé pour transformer les soldats ennemis des armées de morts-vivants du Domaine du Mort en conduits d’énergie magique susceptibles d’exploser au milieu des lignes arrières ennemies. Depuis lors, ce sort est fortement apprécié des lanceurs de sorts profanes qui maîtrisent certaines tactiques sur le champ de bataille.*
 
-Si la cible ne parvient pas à résister aux effets de ce sort en réussissant un jet de [Volonté](./Volonté.md), une faible aura lumineuse l’enveloppe, comme avec une *[lueur féerique](./Lueur féerique.md)*. À n’importe quel moment avant que le *conduit étrange* ne prenne fin, le personnage peut lancer un autre sort dont la zone d’effet est un cône, un cylindre, une ligne ou une sphère et utiliser la cible du conduit étrange comme point d’origine de ce sort. Cette décision met immédiatement fin au sort. La cible doit être à courte portée (7,50 mètres + 1,50 mètre/2 niveaux) pour que le personnage puisse utiliser le conduit. Si la cible sort de cette portée, l’effet du *conduit étrange* persiste, mais ne peut pas être utilisé de cette façon tant que la cible ne revient pas à portée du sort.
+Si la cible ne parvient pas à résister aux effets de ce sort en réussissant un jet de [[Volonté]], une faible aura lumineuse l’enveloppe, comme avec une *[[lueur féerique]]*. À n’importe quel moment avant que le *conduit étrange* ne prenne fin, le personnage peut lancer un autre sort dont la zone d’effet est un cône, un cylindre, une ligne ou une sphère et utiliser la cible du conduit étrange comme point d’origine de ce sort. Cette décision met immédiatement fin au sort. La cible doit être à courte portée (7,50 mètres + 1,50 mètre/2 niveaux) pour que le personnage puisse utiliser le conduit. Si la cible sort de cette portée, l’effet du *conduit étrange* persiste, mais ne peut pas être utilisé de cette façon tant que la cible ne revient pas à portée du sort.

@@ -9,12 +9,12 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:cm}**Cette option est plus courante chez les [gnolls](./Gnoll.md).**
+{s:cm}**Cette option est plus courante chez les [[Gnoll|gnolls]].**
 
 *Le personnage est un parfait opportuniste.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONEQUIPE|équipe]]
 
-**Condition.** [Partenaire de désarmement](./Partenaire de désarmement.md), [BBA](./BBA.md) +5
+**Condition.** [[Partenaire de désarmement]], [[BBA]] +5
 
-**Avantage.** Quand un allié doté de ce don rate une tentative de [désarmement](./désarmement.md) effectuée à son tour contre un adversaire situé à portée de corps à corps du personnage, ce dernier peut faire une [attaque d’opportunité](./AO.md) à son encontre. Si l’attaque touche, il peut tenter une manœuvre offensive de désarmement incluse dans l’attaque d’opportunité.
+**Avantage.** Quand un allié doté de ce don rate une tentative de [[désarmement]] effectuée à son tour contre un adversaire situé à portée de corps à corps du personnage, ce dernier peut faire une [[AO|attaque d’opportunité]] à son encontre. Si l’attaque touche, il peut tenter une manœuvre offensive de désarmement incluse dans l’attaque d’opportunité.

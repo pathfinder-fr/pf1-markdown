@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Destruction
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Destruction](./Descriptions individuelles des propriétés spéciales des armes.md#Destruction)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Destruction]]

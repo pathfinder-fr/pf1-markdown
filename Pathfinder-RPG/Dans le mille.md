@@ -11,12 +11,12 @@ Categories:
 
 {s:ISG}{s:GeM}*Le personnage ralentit sa respiration, se calme et tire en plein dans le mille, comme il y a été entraîné.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), [BBA](./BBA.md) +5
+**Conditions.** [[Tir à bout portant]], [[Tir de précision]], [[BBA]] +5
 
-**Avantage.** Le personnage peut consacrer une [action de mouvement](./Action de mouvement.md) à assurer son tir, ce qui lui confère un bonus de +4 au prochain [jet d'attaque](./jet dattaque.md) à distance qu’il effectuera avant la fin de son tour.
+**Avantage.** Le personnage peut consacrer une [[action de mouvement]] à assurer son tir, ce qui lui confère un bonus de +4 au prochain [[jet dattaque|jet d'attaque]] à distance qu’il effectuera avant la fin de son tour.
 
 {s:cs}{s:WMH}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d'endurance pour utiliser le don [Dans le mille](./Dans le mille.md) par une [action rapide](./Action rapide.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d'endurance pour utiliser le don [[Dans le mille]] par une [[action rapide]].

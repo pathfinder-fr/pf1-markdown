@@ -4,9 +4,9 @@ Title: La leçon d'Eiwa
 LastModified: 2022-02-02 17:15
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur le lore de Golarion pour Pathfinder 2](./LORE.md)
+• [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 Je me souviens des années difficiles. Des longues saisons qui n’en finissaient pas, où la lumière du soleil était rare et les nuits affamées arrivaient bien trop vite. Je me souviens des rites et des chants, quand nous laissions reposer nos morts les uns après les autres et que nous étions contraints de continuer à avancer sans cesse. Les parents, les enfants, les animaux, les amis… personne n’était à l’abri à l’époque où nous nous engagions sur de nouvelles voies et où nous établissions les fondations de nos nouvelles vies.
 

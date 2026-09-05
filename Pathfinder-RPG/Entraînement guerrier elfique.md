@@ -11,12 +11,12 @@ Categories:
 
 {s:mr}*Le personnage a suivi un entraînement spécial qui lui permet de manier toutes sortes d’armes traditionnelles elfiques.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [BBA](./BBA.md) +1, [elfe](./Elfe.md).
+**Conditions.** [[BBA]] +1, [[elfe]].
 
-**Avantages.** Le personnage est formé au maniement des armes traditionnelles elfiques (arc long, arc long composite, épée longue, rapière, arc court, arc court composite et toutes les armes qui contiennent l’adjectif « elfique » dans leur nom). Il reçoit un bonus de +2 au [DMD](./DMD.md) contre les manoeuvres de [désarmement](./désarmement.md) et de [destruction](./destruction.md) qui visent ces armes. De plus, s’il manie l’une des armes de corps à corps de la liste, il a droit à une [attaque d’opportunité](./attaque dopportunité.md) de plus par [round](./round.md) (ce bonus se cumule avec [Attaques réflexes](./Attaques réflexes.md)).
+**Avantages.** Le personnage est formé au maniement des armes traditionnelles elfiques (arc long, arc long composite, épée longue, rapière, arc court, arc court composite et toutes les armes qui contiennent l’adjectif « elfique » dans leur nom). Il reçoit un bonus de +2 au [[DMD]] contre les manoeuvres de [[désarmement]] et de [[destruction]] qui visent ces armes. De plus, s’il manie l’une des armes de corps à corps de la liste, il a droit à une [[attaque dopportunité|attaque d’opportunité]] de plus par [[round]] (ce bonus se cumule avec [[Attaques réflexes]]).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage manie une arme traditionnelle elfique (comme définie dans le don), il peut dépenser 5 points d’endurance pour effectuer une [attaque d’opportunité](./AO.md) de plus avec cette arme. Elle se cumule avec les attaques d’opportunité conférées par ce don, par les [Attaques réflexes](./Attaques réflexes.md) et autres pouvoirs similaires.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage manie une arme traditionnelle elfique (comme définie dans le don), il peut dépenser 5 points d’endurance pour effectuer une [[AO|attaque d’opportunité]] de plus avec cette arme. Elle se cumule avec les attaques d’opportunité conférées par ce don, par les [[Attaques réflexes]] et autres pouvoirs similaires.

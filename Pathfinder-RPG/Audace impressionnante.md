@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:WMH}*La maîtrise des armes à distance du personnage lui permet de réaliser d’impressionnants exploits.*
 
-**Catégorie :** [maîtrise d'arme](./Dons.md#DONMATRISEDARME)
+**Catégorie :** [[dons#DONMATRISEDARME|maîtrise d'arme]]
 
-**Conditions.** [BBA](./BBA.md) +11, capacité [entraînement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) avec une arme à distance
+**Conditions.** [[BBA]] +11, capacité [[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] avec une arme à distance
 
-**Avantages.** Le personnage choisi un de ces [exploits](./Pistolier.md#EXPLOITS) de [pistolier](./Pistolier.md) : [tir mortel](./exploits.md#TIRMORTEL), [tir déroutant](./exploits.md#TIRDÉROUTANT) ou [cibler](./exploits.md#CIBLER). Il peut effectuer l'exploit choisi un nombre de fois par jour égal au modificateur de sa plus haute caractéristique mentale ([Intelligence](./Intelligence.md), [Sagesse](./Sagesse.md) ou [Charisme](./Charisme.md); minimum 1). Le personnage peut utiliser cet exploit avec une arme à distance appropriée. S'il possède déjà l'exploit choisi grâce à une capacité de classe, ce don réduit de 1 son coût en points d'[audace](./audace.md), comme le don [Exploit signé](./Exploit signé.md).
+**Avantages.** Le personnage choisi un de ces [[Pistolier#EXPLOITS|exploits]] de [[pistolier]] : [[Exploits#TIRMORTEL|tir mortel]], [[Exploits#TIRDÉROUTANT|tir déroutant]] ou [[Exploits#CIBLER|cibler]]. Il peut effectuer l'exploit choisi un nombre de fois par jour égal au modificateur de sa plus haute caractéristique mentale ([[Intelligence]], [[Sagesse]] ou [[Charisme]]; minimum 1). Le personnage peut utiliser cet exploit avec une arme à distance appropriée. S'il possède déjà l'exploit choisi grâce à une capacité de classe, ce don réduit de 1 son coût en points d'[[audace]], comme le don [[Exploit signé]].

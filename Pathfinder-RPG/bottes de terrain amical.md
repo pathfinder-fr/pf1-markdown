@@ -9,11 +9,11 @@ Categories:
 - Règles officielles
 ---
 
-<div style="float:right">***Retour aux [objets merveilleux](./Objets merveilleux.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[objets merveilleux]].***</div><div class="BD">
 {s:APG}{s:BDTitre|Bottes de terrain amical|}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** pieds ; **Prix** 2 400 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** pieds ; **Prix** 2 400 po ; **Poids** 0,5 kg
 (((Description)))
-Chacune de ces paires de souples bottes de cuir correspond à un environnement spécifique, selon la définition de l’[environnement de prédilection](./Rôdeur.md#ENVIRONNEMENTDEPREDILECTION) du [rôdeur](./Rôdeur.md) (jungle, plaine, etc.). Un [rôdeur](./Rôdeur.md) qui porte ces bottes traite le terrain correspondant comme l’un de ses [environnements de prédilection](./Rôdeur.md#ENVIRONNEMENTDEPREDILECTION). Si c’est déjà le cas, son bonus d’environnement augmente de +2.
+Chacune de ces paires de souples bottes de cuir correspond à un environnement spécifique, selon la définition de l’[[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]] du [[rôdeur]] (jungle, plaine, etc.). Un [[rôdeur]] qui porte ces bottes traite le terrain correspondant comme l’un de ses [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnements de prédilection]]. Si c’est déjà le cas, son bonus d’environnement augmente de +2.
 (((Fabrication)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[passage sans trace](./passage sans trace.md)*, le créateur doit être un [rôdeur](./Rôdeur.md) ; **Coût**  1 200 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[passage sans trace]]*, le créateur doit être un [[rôdeur]] ; **Coût**  1 200 po
 </div>

@@ -7,4 +7,4 @@ Categories:
 - Géographie
 ---
 
-Longue rivière du nord du [Chéliax](./Chéliax.md), la Sedna commence son cours au pied des montagnes du [Ménador](./Ménador.md) et rejoint l'[Adivian](./Adivian.md) sous le [Lac Chagrin](./Lac Chagrin.md).
+Longue rivière du nord du [[Chéliax]], la Sedna commence son cours au pied des montagnes du [[Ménador]] et rejoint l'[[Adivian]] sous le [[Lac Chagrin]].

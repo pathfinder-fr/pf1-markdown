@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Fers à cheval du zéphyr|}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [pieds](./Objets merveilleux portés aux pieds.md) ; **Prix** 6 000 po ; **Poids** 2 kg (les quatre)
+**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés aux pieds|pieds]] ; **Prix** 6 000 po ; **Poids** 2 kg (les quatre)
 (((Description)))
-Ces fers à cheval vont par quatre et doivent être fixés aux sabots de l’animal auquel ils sont destinés. La monture qui en est équipée ne touche plus le sol, même si elle continue de se déplacer à une dizaine de centimètres de toute surface relativement horizontale. Le cheval est à même traverser les surfaces trop instables ou pas assez solides pour supporter son poids. De plus, il ne laisse pas de traces. Sa [vitesse de déplacement](./vitesse de déplacement.md) est inchangée. Les quatre fers doivent être portés en même temps pour que la magie fasse effet.
+Ces fers à cheval vont par quatre et doivent être fixés aux sabots de l’animal auquel ils sont destinés. La monture qui en est équipée ne touche plus le sol, même si elle continue de se déplacer à une dizaine de centimètres de toute surface relativement horizontale. Le cheval est à même traverser les surfaces trop instables ou pas assez solides pour supporter son poids. De plus, il ne laisse pas de traces. Sa [[vitesse de déplacement]] est inchangée. Les quatre fers doivent être portés en même temps pour que la magie fasse effet.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[lévitation](./Lévitation.md)* ; **Coût** 3 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[lévitation]]* ; **Coût** 3 000 po
 </div>

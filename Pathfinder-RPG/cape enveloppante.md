@@ -11,9 +11,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Cape enveloppante|{s:APG}{s:AE}}
-**Aura** [Abjuration](./Abjuration.md) faible ; **NLS** 1 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 200 po ; **Poids** 1,5 kg
+**Aura** [[Abjuration]] faible ; **NLS** 1 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 200 po ; **Poids** 1,5 kg
 (((Description)))
-Cette cape argentée ondule comme un drapeau à chaque pas. Par une [action rapide](./Action rapide.md), son porteur peut lui ordonner de se transformer en une mince sphère de force qui lui offre un [camouflage](./camouflage.md) (20 % de chances de rater) contre les attaques à distance. La sphère reste une minute ou jusqu’à ce que son propriétaire se fasse toucher par une arme à distance. Quand le champ de protection se dissipe, toute magie disparaît de la cape qui n’est plus qu’un habit argenté ordinaire.
+Cette cape argentée ondule comme un drapeau à chaque pas. Par une [[action rapide]], son porteur peut lui ordonner de se transformer en une mince sphère de force qui lui offre un [[camouflage]] (20 % de chances de rater) contre les attaques à distance. La sphère reste une minute ou jusqu’à ce que son propriétaire se fasse toucher par une arme à distance. Quand le champ de protection se dissipe, toute magie disparaît de la cape qui n’est plus qu’un habit argenté ordinaire.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[bouclier](./Bouclier.md)* ; **Coût**  100 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[bouclier]]* ; **Coût**  100 po
 </div>

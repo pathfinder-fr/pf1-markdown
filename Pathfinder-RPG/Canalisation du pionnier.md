@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*L'énergie positive du personnage transforme ceux qu'il soigne en véritables pionniers.*
 
-**Conditions.** [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 3d6, suivant de [Desna](./Desna (technique).md)
+**Conditions.** [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] 3d6, suivant de [[Desna (technique)|Desna]]
 
-**Avantage.** Une fois par jour, lorsque le personnage [canalise de l'énergie](./Prêtre.md#CANALISATIONDENERGIE) positive, il peut permettre aux créatures soignées d'ignorer les [terrains difficiles](./terrain difficile.md) pendant un nombre de minutes égal à son modificateur de [Charisme](./Charisme.md) (minimum 1 minute).
+**Avantage.** Une fois par jour, lorsque le personnage [[Prêtre#CANALISATIONDENERGIE|canalise de l'énergie]] positive, il peut permettre aux créatures soignées d'ignorer les [[terrain difficile|terrains difficiles]] pendant un nombre de minutes égal à son modificateur de [[Charisme]] (minimum 1 minute).

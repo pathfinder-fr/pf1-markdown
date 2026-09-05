@@ -11,27 +11,27 @@ LastModified: 2021-07-15 17:32
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Baphomet](./Baphomet.md) || 27
+| [[Baphomet]] || 27
 |-
-| [Dagon](./Dagon.md) || 28
+| [[Dagon]] || 28
 |-
-| [Deskari](./Deskari.md) || 29
+| [[Deskari]] || 29
 |-
-| [Kostchtchie](./Kostchtchie.md) || 26
+| [[Kostchtchie]] || 26
 |-
-| [Nocticula](./Nocticula.md) || 30
+| [[Nocticula]] || 30
 |-
-| [Pazuzu](./Pazuzu.md) || 30
+| [[Pazuzu]] || 30
 |-
-| [Shax](./Shax.md) || 28
+| [[Shax]] || 28
 |-
-| [Sifkesh](./Sifkesh.md) || 28
+| [[Sifkesh]] || 28
 |-
-| [Xoveron](./Xoveron.md) || 27
+| [[Xoveron]] || 27
 |}
-</div></div><div style="float:right">***Voir aussi les [traits des seigneurs démons](./Traits des seigneurs démons (capacité).md).***
-***Voir la description des [démons](./Démon.md).***</div><div class="description">**Source :** Bestiaire 4.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md))*
+</div></div><div style="float:right">***Voir aussi les [[Traits des seigneurs démons (capacité)|traits des seigneurs démons]].***
+***Voir la description des [[Démon|démons]].***</div><div class="description">**Source :** Bestiaire 4.</div>
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])*
 
 Les seigneurs démoniaques sont les démons les plus puissants des Abysses. Ce sont des créatures influentes faites de chaos et de mal, des demi-dieux qui règnent sur de vastes royaumes pétris d’horreurs et de vices. Chaque seigneur démon est une créature unique, un parangon du péché qui existe dans le seul but de satisfaire ses propres désirs. Leur genèse varie. La plupart d’entre eux étaient des démons de rang inférieur qui se sont mués en de puissantes entités (comme c’est le cas de Pazuzu). Plus rarement, un puissant mortel chargé de péché se transforme directement en seigneur démon (Kostchtchie par exemple) ou un qlippoth se métamorphose en seigneur démon sous la mystérieuse influence des Abysses (comme c’est arrivé à Dagon).
 
@@ -167,7 +167,7 @@ seigneur démon naissant consiste à le créer de toutes pièces en
 le personnalisant à l’aide des règles fournies dans l’Appendice
 1 du Bestiaire Pathfinder JdR. Lorsque vous créez une créature
 avec un FP de 21 à 25, utilisez la table ci-dessous de la même
-façon que la [Table 1‑1 de la page 292](./Créer un monstre.md#TAB11) pour avoir une idée des valeurs types de la créature que vous
+façon que la [[Créer un monstre#TAB11|Table 1‑1 de la page 292]] pour avoir une idée des valeurs types de la créature que vous
 souhaitez créer.
 
 

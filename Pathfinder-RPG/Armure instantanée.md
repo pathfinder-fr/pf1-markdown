@@ -12,21 +12,21 @@ Categories:
 ---
 
 {s:APG}
-**École** [Invocation](./Invocation.md) ([création](./branche création.md)) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Pal](./Paladin.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2  
+**École** [[Invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 
 Le corps du personnage se drape instantanément dans une armure faite d'une force opaque. S'il le désire, cette armure peut s'orner du symbole de sa religion dans un endroit visible, comme sur la cuirasse ou le heaume. Tant que le sort persiste, cette armure remplace tout vêtement ou autre armure portée par le personnage, magique ou non. Le personnage perd donc tous les avantages de l'armure remplacée par ce sort pendant qu'il fait effet. L'armure instantanée disparaît ensuite.
 
-L*'armure instantanée *se comporte comme n'importe quelle armure de son genre en ce qui concerne le bonus d'armure, le bonus de [Dextérité](./Dextérité.md) maximum, les risques d'échecs des sorts profanes etc. Comme elle est faite de force pure, les créatures intangibles ne peuvent pas l'ignorer comme une armure ordinaire. Le genre d'armure créée dépend du niveau de lanceur de sorts.  
+L*'armure instantanée *se comporte comme n'importe quelle armure de son genre en ce qui concerne le bonus d'armure, le bonus de [[Dextérité]] maximum, les risques d'échecs des sorts profanes etc. Comme elle est faite de force pure, les créatures intangibles ne peuvent pas l'ignorer comme une armure ordinaire. Le genre d'armure créée dépend du niveau de lanceur de sorts.  
 
 
 {| CLASS="tablo centre"

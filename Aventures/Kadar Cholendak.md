@@ -6,7 +6,7 @@ Categories:
 - PNJ
 ---
 
-Kadar Cholendak est un personnage créé pour le template **Mage Artisan** dans [http://www.thebookedition.com/le-grand-laboratoire-oxidor-trucidel-p-39511.html|**Le Grand Laboratoire**], le personnage est un des apprentis de **Girvin Marteau-qui-marche** un magicien gnome réputé pour la fabrication d'automates divers, Girvin a trois apprentis, chacun d'eux illustre un template différent.
+Kadar Cholendak est un personnage créé pour le template **Mage Artisan** dans [**Le Grand Laboratoire**](http://www.thebookedition.com/le-grand-laboratoire-oxidor-trucidel-p-39511.html), le personnage est un des apprentis de **Girvin Marteau-qui-marche** un magicien gnome réputé pour la fabrication d'automates divers, Girvin a trois apprentis, chacun d'eux illustre un template différent.
 
 **Background**
 

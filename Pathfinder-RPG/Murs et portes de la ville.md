@@ -12,9 +12,9 @@ Categories:
 
 #### Murs d'enceinte
 
-De nombreuses villes sont encadrées d’un petit mur d’enceinte. Généralement, ce dernier est fait de pierre et mesure 1,50 m d’épaisseur pour 6 m de haut. Ce type de mur est relativement lisse et nécessite un test d’[Escalade](./Escalade.md) ([DD](./DD.md) 30) pour être gravi. Les murs sont crénelés d’un côté pour protéger les gardes qui sont au sommet, et le chemin de ronde est juste assez large pour s’y déplacer. Les murs d’enceinte possèdent une [CA](./CA.md) de 3, une solidité de 8 et 450 points de vie par section de 3 m (2 cases).
+De nombreuses villes sont encadrées d’un petit mur d’enceinte. Généralement, ce dernier est fait de pierre et mesure 1,50 m d’épaisseur pour 6 m de haut. Ce type de mur est relativement lisse et nécessite un test d’[[Escalade]] ([[DD]] 30) pour être gravi. Les murs sont crénelés d’un côté pour protéger les gardes qui sont au sommet, et le chemin de ronde est juste assez large pour s’y déplacer. Les murs d’enceinte possèdent une [[CA]] de 3, une solidité de 8 et 450 points de vie par section de 3 m (2 cases).
 
-Les murs d’enceinte des métropoles mesurent 4,50 m d’épaisseur et 12 m de haut. Ils sont crénelés des deux côtés et possèdent souvent un petit tunnel ou de petites salles qui s’étendent à l’intérieur des murs. Les murs d’enceinte des métropoles possèdent une [CA](./CA.md) de 3, une [solidité](./solidité.md) de 8 et 1 170 pv par section de 3 m (2 cases).
+Les murs d’enceinte des métropoles mesurent 4,50 m d’épaisseur et 12 m de haut. Ils sont crénelés des deux côtés et possèdent souvent un petit tunnel ou de petites salles qui s’étendent à l’intérieur des murs. Les murs d’enceinte des métropoles possèdent une [[CA]] de 3, une [[solidité]] de 8 et 1 170 pv par section de 3 m (2 cases).
 
 Contrairement aux villes de taille inférieure, les métropoles ont généralement des murailles internes en plus de leur mur d’enceinte (soit de vieux murs devenus trop petits pour la ville, soit des murs séparant les différents quartiers). Parfois, ces murs sont aussi larges et épais que les murs d’enceinte cependant, ils ont les mêmes caractéristiques que les murs des villes ordinaires.
 
@@ -24,7 +24,7 @@ Certains murs d’enceinte sont dotés de tours de guet placées à intervalles 
 
 Les tours de guet dépassent en général de trois mètres la muraille dont elles émergent et leur diamètre est cinq fois plus important que l’épaisseur du mur. Les étages supérieurs des tours sont dotés de meurtrières et leur sommet est crénelé de la même manière que les murs d’enceinte. Habituellement, dans une petite tour (sept mètres cinquante de diamètre pour un mur d’enceinte d’un mètre cinquante d’épaisseur), les étages sont raccordés par de simples échelles. Les tours plus grandes disposent d’escaliers.
 
-D’épaisses portes en bois bardées de fer et pourvues de solides verrous ([Sabotage](./Sabotage.md) [DD](./DD.md) 30) bloquent l’entrée de la tour, sauf si celle-ci est utilisée de façon régulière. Généralement, le capitaine de la garde porte la clef de la tour sur lui. Une seconde est rangée dans la forteresse ou dans les casernes de la ville.
+D’épaisses portes en bois bardées de fer et pourvues de solides verrous ([[Sabotage]] [[DD]] 30) bloquent l’entrée de la tour, sauf si celle-ci est utilisée de façon régulière. Généralement, le capitaine de la garde porte la clef de la tour sur lui. Une seconde est rangée dans la forteresse ou dans les casernes de la ville.
 
 #### Portes
 

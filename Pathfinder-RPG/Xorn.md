@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire* p. 287}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Terre](./sous-type Terre.md)) de taille M, N}
-{s:BDTexte|**Init** +0 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), vision à 360°, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Terre|Terre]]) de taille M, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), vision à 360°, [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 10, pris au dépourvu 21 (naturelle +11)}
 {s:BDTexte|**pv** 66 (7d10+28)}
@@ -26,16 +26,16 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 10, **Con** 17, **Int** 10, **Sag** 11, **Cha** 10}
 {s:BDTexte|**BBA** +7, **BMO** +10, **DMD** 20 (22 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Robustesse](./Robustesse.md), [Science de la bousculade](./Science de la bousculade.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (exploration souterraine) +10, [Discrétion](./Discrétion.md) +10, [Estimation](./Estimation.md) +10, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +14, [Survie](./Survie.md) +10 ; **Modificateurs raciaux** +4 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Robustesse]], [[Science de la bousculade]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (exploration souterraine) +10, [[Discrétion]] +10, [[Estimation]] +10, [[Intimidation]] +10, [[Perception]] +14, [[Survie]] +10 ; **Modificateurs raciaux** +4 en [[Perception]]}
 {s:BDTexte|**Langues** commun, terreux}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (plan de la Terre)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou portée (3-6)}
 {s:BDTexte|**Trésor** standard (métaux précieux, gemmes, bijoux magiques ou gemmes magiques seulement)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Nage dans la terre (Ext)** Les xorns peuvent traverser les sols naturels ou la pierre aussi facilement qu'un poisson nage dans l'eau. Ils ne laissent aucune trace de leur passage ni aucun autre signe trahissant leur présence aux créatures qui ne possèdent pas la capacité de [Perception des vibrations](./Perception des vibrations.md). Un sort de *[glissement de terrain](./Glissement de terrain.md)* lancé sur la zone à l'intérieur de laquelle se trouve le xorn le fait reculer de 9 m (6 {s:c}) et l'étourdit pendant 1 round (à moins qu'il ne réussisse un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 15).}
-{s:BDTexte|**Vision à 360° (Ext)** Les xorns peuvent voir dans toutes les directions en même temps. Ils bénéficient donc d'un bonus racial de +4 aux tests de [Perception](./Perception.md) et il est impossible de les [prendre en tenaille](./prise en tenaille.md).}
+{s:BDTexte|**Nage dans la terre (Ext)** Les xorns peuvent traverser les sols naturels ou la pierre aussi facilement qu'un poisson nage dans l'eau. Ils ne laissent aucune trace de leur passage ni aucun autre signe trahissant leur présence aux créatures qui ne possèdent pas la capacité de [[Perception des vibrations]]. Un sort de *[[glissement de terrain]]* lancé sur la zone à l'intérieur de laquelle se trouve le xorn le fait reculer de 9 m (6 {s:c}) et l'étourdit pendant 1 round (à moins qu'il ne réussisse un jet de [[Vigueur]] de [[DD]] 15).}
+{s:BDTexte|**Vision à 360° (Ext)** Les xorns peuvent voir dans toutes les directions en même temps. Ils bénéficient donc d'un bonus racial de +4 aux tests de [[Perception]] et il est impossible de les [[prise en tenaille|prendre en tenaille]].}
 </div>
 
 

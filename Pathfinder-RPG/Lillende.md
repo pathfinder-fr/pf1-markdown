@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Forêt-Jungle|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.29*}
 {s:BDTexte|**PX** 3.200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([azata](./sous-type azata.md), [Bien](./sous-type Bien.md), [Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md)) de taille G, CB}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type azata|azata]], [[sous-type Bien|Bien]], [[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]]) de taille G, CB}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 12, pris au dépourvu 17 (Dex +3, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 73 (7d10+35)}
@@ -23,35 +23,35 @@ Categories:
 {s:BDTexte|**Immunités** électricité, pétrification, poison ; **Résistances** feu 10, froid 10 }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 21 m (14 {s:c}) (moyenne)}
-{s:BDTexte|**Corps à corps** *épée longue +1*, +12/+7 (2d6+8/19-20), coup de queue +6 (2d6+2 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** *épée longue +1*, +12/+7 (2d6+8/19-20), coup de queue +6 (2d6+2 et [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (2d6+5), représentations bardiques (20 rounds/jour)}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (2d6+5), représentations bardiques (20 rounds/jour)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 7<sup>e</sup>)}
-{s:BDSorts|3/jour — *[déblocage](./Déblocage.md)*, *[lumière](./Lumière.md)*, *[ténèbres](./Ténèbres.md)*, *[terrain hallucinatoire](./Terrain hallucinatoire.md)* (DD 18)}
-{s:BDSorts|1/jour — *[charme-personne](./Charme-personne.md)* (DD 15), *[communication avec les animaux](./Communication avec les animaux.md)*, *[communication avec les plantes](./Communication avec les plantes.md)*}
+{s:BDSorts|3/jour — *[[déblocage]]*, *[[lumière]]*, *[[ténèbres]]*, *[[terrain hallucinatoire]]* (DD 18)}
+{s:BDSorts|1/jour — *[[charme-personne]]* (DD 15), *[[communication avec les animaux]]*, *[[communication avec les plantes]]*}
 {s:BDTexte|**Sorts connus** (NLS 7<sup>e</sup>)}
-{s:BDSorts|3<sup>e</sup> (2/jour) — *[charme-monstre](./Charme-monstre.md)* (DD 17), *[soins importants](./Soins importants.md)*}
-{s:BDSorts|2<sup>e</sup> (4/jour) — *[cacophonie](./Cacophonie.md)* (DD 16), *[immobilisation de personne](./Immobilisation de personne.md)* (DD 16), *[invisibilité](./Invisibilité.md)*, *[suggestion](./Suggestion.md)* (DD 16)}
-{s:BDSorts|1<sup>er</sup> (5/jour) — *[charme-personne](./Charme-personne.md)* (DD 15), *[identification](./Identification.md)*, *[soins légers](./Soins légers.md)*, *[sommeil](./Sommeil.md)* (DD 15)}
-{s:BDSorts|0 (à volonté) — *[berceuse](./Berceuse.md)* (DD 14), *[détection de la magie](./Détection de la magie.md)*, *[hébétement](./Hébétement.md)* (DD 14), *[lecture de la magie](./Lecture de la magie.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[manipulation à distance](./Manipulation à distance.md)*}
+{s:BDSorts|3<sup>e</sup> (2/jour) — *[[charme-monstre]]* (DD 17), *[[soins importants]]*}
+{s:BDSorts|2<sup>e</sup> (4/jour) — *[[cacophonie]]* (DD 16), *[[immobilisation de personne]]* (DD 16), *[[invisibilité]]*, *[[suggestion]]* (DD 16)}
+{s:BDSorts|1<sup>er</sup> (5/jour) — *[[charme-personne]]* (DD 15), *[[identification]]*, *[[soins légers]]*, *[[sommeil]]* (DD 15)}
+{s:BDSorts|0 (à volonté) — *[[berceuse]]* (DD 14), *[[détection de la magie]]*, *[[hébétement]]* (DD 14), *[[lecture de la magie]]*, *[[lumières dansantes]]*, *[[manipulation à distance]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 17, **Con** 21, **Int** 14, **Sag** 16, **Cha** 19}
-{s:BDTexte|**BBA** +7, **BMO** +13, **DMD** 26 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons** [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md), [Volonté de fer](./Volonté de fer.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +14, [Connaissances](./Connaissances.md) (nature) +9, [Diplomatie](./Diplomatie.md) +14, [Perception](./Perception.md) +13, [Psychologie](./Psychologie.md) +13, [Représentation](./Représentation.md) (instruments à cordes) +16, [Survie](./Survie.md) +14, [Vol](./Vol.md) +11 ; **Modificateurs raciaux** [Survie](./Survie.md) +4}
-{s:BDTexte|**Langues** céleste, draconique, infernal ; [langage universel](./sous-type azata.md#LANGAGEUNIVERSEL)}
+{s:BDTexte|**BBA** +7, **BMO** +13, **DMD** 26 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons** [[Magie de guerre]], [[Réflexes surhumains]], [[Volonté de fer]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Bluff]] +14, [[Connaissances]] (nature) +9, [[Diplomatie]] +14, [[Perception]] +13, [[Psychologie]] +13, [[Représentation]] (instruments à cordes) +16, [[Survie]] +14, [[Vol]] +11 ; **Modificateurs raciaux** [[Survie]] +4}
+{s:BDTexte|**Langues** céleste, draconique, infernal ; [[sous-type azata#LANGAGEUNIVERSEL|langage universel]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Élysée)}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou chœur (3-6)}
 {s:BDTexte|**Trésor** standard (*épée longue +1*, harpe de maître)}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Représentations bardiques.** Les lillendes possèdent les mêmes capacités de représentation qu'un [barde](./Barde.md) de niveau 7, ce qui leur donne accès aux formes suivantes : contre-chant, fascination, inspiration talentueuse, inspiration vaillante et *[suggestion](./Suggestion.md)*.}
-{s:BDTexte|**Sorts.** Les lillendes lancent des sorts comme des [bardes](./Barde.md) de niveau 7 et préfèrent les sorts d'[enchantement](./Enchantement.md) et de soin.}
+{s:BDTexte|**Représentations bardiques.** Les lillendes possèdent les mêmes capacités de représentation qu'un [[barde]] de niveau 7, ce qui leur donne accès aux formes suivantes : contre-chant, fascination, inspiration talentueuse, inspiration vaillante et *[[suggestion]]*.}
+{s:BDTexte|**Sorts.** Les lillendes lancent des sorts comme des [[barde|bardes]] de niveau 7 et préfèrent les sorts d'[[enchantement]] et de soin.}
 </div>
 
 {s:ImageCentre|Bestiaire/Azata-lillende.jpg|90%}
 
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [azatas](./Azata.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[azata|azatas]].***</li></ul>
 *La partie supérieure du corps de cette créature ressemble à une séduisante elfe ailée et sa partie inférieure à un serpent.*
 
 Chez les azatas, les lillendes font office de conteurs et de chroniqueurs.

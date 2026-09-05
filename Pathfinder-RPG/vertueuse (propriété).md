@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Vertueuse
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Vertueuse](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Vertueuse)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Vertueuse]]

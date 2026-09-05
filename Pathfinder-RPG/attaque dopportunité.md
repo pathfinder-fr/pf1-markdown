@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Valeurs de combat#ATTAQUEDOPPORTUNITE
 ---
 
->>> [Valeurs de combat#ATTAQUEDOPPORTUNITE](./Valeurs de combat.md#ATTAQUEDOPPORTUNITE)
+>>> [[Valeurs de combat#ATTAQUEDOPPORTUNITE]]

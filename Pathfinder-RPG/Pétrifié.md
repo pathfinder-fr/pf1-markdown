@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Pétrifié
 ---
 
->>> [États préjudiciables#Pétrifié](./États préjudiciables.md#Pétrifié)
+>>> [[États préjudiciables#Pétrifié]]

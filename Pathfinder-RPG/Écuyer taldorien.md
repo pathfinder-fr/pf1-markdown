@@ -12,6 +12,6 @@ Categories:
 
 *Le personnage a été pendant un temps l’écuyer d’un chevalier de l'Empire décadent, il sait donc comment se battre à ses côtés.*
 
-**Conditions.** [BBA](./BBA.md) +1, maniement d’une arme de guerre
+**Conditions.** [[BBA]] +1, maniement d’une arme de guerre
 
-**Avantages.** Lorsqu’il se situe à 15 mètres ou moins d’un allié monté qui possède le don [Combat monté](./Combat monté.md), le personnage gagne un bonus de +2 à l’[initiative](./initiative.md). Si cet allié est blessé, le personnage gagne un bonus d’esquive de +1 à sa [CA](./CA.md) tant qu’il reste à 3 mètres ou moins de lui.
+**Avantages.** Lorsqu’il se situe à 15 mètres ou moins d’un allié monté qui possède le don [[Combat monté]], le personnage gagne un bonus de +2 à l’[[initiative]]. Si cet allié est blessé, le personnage gagne un bonus d’esquive de +1 à sa [[CA]] tant qu’il reste à 3 mètres ou moins de lui.

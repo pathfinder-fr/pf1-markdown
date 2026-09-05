@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AO}**Prix** 5 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ce récipient métallique doté d'un couvercle amovible de petite taille contient un petit creuset dans lequel on brûle de l'encens. Utilisé lors de rituels ou de cérémonies religieuses, un encensoir peut contenir jusqu'à dix morceaux d'[encens](./Encens (objet).md). Une fois allumé, l'encensoir brûle un morceau d'encens par heure.
+Ce récipient métallique doté d'un couvercle amovible de petite taille contient un petit creuset dans lequel on brûle de l'encens. Utilisé lors de rituels ou de cérémonies religieuses, un encensoir peut contenir jusqu'à dix morceaux d'[[Encens (objet)|encens]]. Une fois allumé, l'encensoir brûle un morceau d'encens par heure.

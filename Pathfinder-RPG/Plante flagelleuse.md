@@ -10,14 +10,14 @@ LastModified: 2017-05-14 16:12
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 207*}
 - 600 PX
-- [Plante](./type Plante.md) de taille M, N
-- **Init **+7 ; **Sens **vision aveugle 9 m, vision nocturne ; [Perception](./Perception.md) +1
-- **Aura **puanteur ([DD](./DD.md) 12, 1 minute)
+- [[type plante|Plante]] de taille M, N
+- **Init **+7 ; **Sens **vision aveugle 9 m, vision nocturne ; [[Perception]] +1
+- **Aura **puanteur ([[DD]] 12, 1 minute)
 (((Défense)))
 - **CA **14, contact 13, pris au dépourvu 11 (Dex +3, naturelle +1)
 - **pv **16 (3d8+3)
 - **Réf **+4, **Vig **+4, **Vol **+2
-- **Capacités défensives** enfouissement, empoisonnée ; **Immunités **[traits des plantes](./Traits des plantes.md)
+- **Capacités défensives** enfouissement, empoisonnée ; **Immunités **[[traits des plantes]]
 - **Faiblesses **vrilles léthargiques
 (((Attaque)))
 - **VD **3 m
@@ -27,14 +27,14 @@ LastModified: 2017-05-14 16:12
 (((Statistiques)))
 - **For **10, **Dex **17, **Con **12, **Int **-, **Sag **13, **Cha **5
 - **BBA **+2 ; **BMO **+2 ; **DMD **15 (27 contre le croc-en-jambe)
-- **Dons **[Attaque en finesse](./Attaque en finesse.md)<sup>S</sup>, [Science de l’initiative](./Science de linitiative.md)<sup>S</sup>
+- **Dons **[[Attaque en finesse]]<sup>S</sup>, [[science de linitiative|Science de l’initiative]]<sup>S</sup>
 - **Particularités **camouflage
 (((Écologie)))
 - **Environnement** forêts chaudes ou tempérées
 - **Organisation **solitaire, couple ou lopin (3-6)
 - **Trésor **fortuit
 (((Pouvoirs spéciaux)))
-- **Camouflage (Ext)**. Une plante flagelleuse ressemble beaucoup à une plante ordinaire lorsqu’elle reste immobile. Il faut donc réussir un test de [Perception](./Perception.md) DD 15 pour la repérer avant qu’elle ne passe à l’attaque. Les créatures qui possèdent des rangs en Survie ou Connaissances (nature)  peuvent utiliser l’une ou l’autre de ces compétences à la place de Perception pour la repérer.
+- **Camouflage (Ext)**. Une plante flagelleuse ressemble beaucoup à une plante ordinaire lorsqu’elle reste immobile. Il faut donc réussir un test de [[Perception]] DD 15 pour la repérer avant qu’elle ne passe à l’attaque. Les créatures qui possèdent des rangs en Survie ou Connaissances (nature)  peuvent utiliser l’une ou l’autre de ces compétences à la place de Perception pour la repérer.
 - **Empoisonnée (Ext)**. Une créature qui attaque une plante flagelleuse à l’aide d’une arme naturelle perforante ou tranchante s’expose à son poison.
 - **Enfouissement (Ext)**. Une plante flagelleuse peut enfouir son bulbe principal dans la terre ou le sable par une action de mouvement, ce qui lui confère un abri partiel contre les attaques (Manuel des Joueurs Pathfinder JdR p.196) mais l’empêche de se déplacer. Elle peut s’extraire du sol par une action de mouvement.
 - **Poison (Ext)**. Tentacule – contact ; JS Vig DD 12 ; fréquence 1/round pendant 6 rounds ; effet nauséeux pendant 1 round ; guérison 2 JS consécutifs. Le DD du jet de sauvegarde est basé sur la Constitution. 

@@ -10,8 +10,8 @@ Categories:
 
 {s:RSE} *Le personnage garde sa concentration, même dans les situations les plus stressantes, et conserve sa magie là où d’autres la laisseraient s’échapper.*
 
-**Conditions.** [Cha](./Cha.md) 15, [Int](./Int.md) 15 ou [Sag](./Sag.md) 15 (voir Spécial).
+**Conditions.** [[Cha]] 15, [[Int]] 15 ou [[Sag]] 15 (voir Spécial).
 
-**Avantages.** Quand le personnage rate un test de [concentration](./concentration.md) alors qu’il lance un sort [sur la défensive](./Lancer des sorts.md#INCANTATIONSURLADEFENSIVE) et qu’il devrait perdre le sort ou l’emplacement de sort concerné, il a droit à un jet de [Volonté](./Volonté.md) ([DD](./DD.md) = 15 + niveau du sort) pour conserver le sort, comme s’il n’avait pas essayé de le lancer. L’échec du test de concentration se traduit toujours par l’échec du sort, bien que celui-ci ne soit pas dépensé.
+**Avantages.** Quand le personnage rate un test de [[concentration]] alors qu’il lance un sort [[Lancer des sorts#INCANTATIONSURLADEFENSIVE|sur la défensive]] et qu’il devrait perdre le sort ou l’emplacement de sort concerné, il a droit à un jet de [[Volonté]] ([[DD]] = 15 + niveau du sort) pour conserver le sort, comme s’il n’avait pas essayé de le lancer. L’échec du test de concentration se traduit toujours par l’échec du sort, bien que celui-ci ne soit pas dépensé.
 
-**Spécial.** Pour profiter des avantages de ce don, le personnage doit remplir la condition requise correspondant à la caractéristique qu’il utilise pour déterminer le [DD](./DD.md) de ses [jets de sauvegarde](./JDS.md), ses sorts supplémentaires quotidiens et sa capacité à lancer des sorts d’un niveau donné. S’il a des sorts grâce à plusieurs classes, il doit remplir la condition requise pour chaque classe s’il veut que les sorts qui en sont issus profitent des avantages du don.
+**Spécial.** Pour profiter des avantages de ce don, le personnage doit remplir la condition requise correspondant à la caractéristique qu’il utilise pour déterminer le [[DD]] de ses [[jds|jets de sauvegarde]], ses sorts supplémentaires quotidiens et sa capacité à lancer des sorts d’un niveau donné. S’il a des sorts grâce à plusieurs classes, il doit remplir la condition requise pour chaque classe s’il veut que les sorts qui en sont issus profitent des avantages du don.

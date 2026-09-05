@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Courageuse
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Courageuse](./Descriptions individuelles des propriétés spéciales des armes.md#Courageuse)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Courageuse]]

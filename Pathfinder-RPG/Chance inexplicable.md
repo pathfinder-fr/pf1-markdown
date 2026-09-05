@@ -10,6 +10,6 @@ Categories:
 
 {s:mr}*La chance du personnage surprend toujours les autres.*
 
-**Conditions.** [humain](./Humain.md), [Chance insolente](./Chance insolente.md)
+**Conditions.** [[humain]], [[Chance insolente]]
 
-**Avantages.** Une fois par jour, le personnage peut gagner un bonus de +8 à un unique jet de d20 par une [action libre](./Action libre.md), à faire avant de lancer le dé. Il peut aussi le faire après, mais dans ce cas, le bonus est réduit à +4.
+**Avantages.** Une fois par jour, le personnage peut gagner un bonus de +8 à un unique jet de d20 par une [[action libre]], à faire avant de lancer le dé. Il peut aussi le faire après, mais dans ce cas, le bonus est réduit à +4.

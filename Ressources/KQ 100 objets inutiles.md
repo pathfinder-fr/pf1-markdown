@@ -212,7 +212,7 @@ Voici donc une collection d'objets inutiles qui pourront piquer la curiosité de
 
 **91.** Une tête de massue attachée à un manche de 5 mètres de long
 
-**92.** Un tronc de lancer [NdT. Pensez au sport écossais]
+**92.** Un tronc de lancer [[NdT. Pensez au sport écossais]]
 
 **93.** Des hampes de javelots recouvertes de décorations
 

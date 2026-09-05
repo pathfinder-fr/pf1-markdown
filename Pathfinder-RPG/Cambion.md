@@ -15,8 +15,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDtexte|*Source : Bestiaire 5 p.78*}
 {s:BDtexte|**PX** 600}
-{s:BDtexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille M, CM}
-{s:BDtexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +7}
+{s:BDtexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille M, CM}
+{s:BDtexte|**Init** +1 ; **Sens** [[vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +7}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 15, contact 11, pris au dépourvu 14 (armure +3, Dex +1, naturelle +1)}
 {s:BDtexte|**pv** 22 (3d10+6)}
@@ -27,34 +27,34 @@ Categories:
 {s:Desambi|La zone de critique du cimeterre à deux mains devraient être 15/20 grâce à la capacité frappe sadique.}{s:BDtexte|**Corps à corps** cimeterre de maître, +6 (1d6+2/18-20) et griffe, +0 (1d4+1/19 20) ou 2 griffes, +5 (1d4+2/19-20)}
 {s:BDtexte|**À distance** arc long composite de maître, +5 (1d8+2/×3)}
 {s:BDtexte|**Attaques spéciales** frappe sadique, frénésie pécheresse}
-{s:BDtexte|**Pouvoirs magiques** ([NLS](./NLS.md) 3 ; [concentration](./concentration.md) +5)}
-{s:BDsorts|3/jour — *[injonction](./Injonction.md)* (DD 13)}
-{s:BDsorts|1/jour — *[charme-personne](./Charme-personne.md)* (DD 13), *[discours captivant](./Discours captivant.md)* (DD 14), *[mise à mort](./Mise à mort.md)* (DD 14)}
+{s:BDtexte|**Pouvoirs magiques** ([[NLS]] 3 ; [[concentration]] +5)}
+{s:BDsorts|3/jour — *[[injonction]]* (DD 13)}
+{s:BDsorts|1/jour — *[[charme-personne]]* (DD 13), *[[discours captivant]]* (DD 14), *[[mise à mort]]* (DD 14)}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 15, **Dex** 13, **Con** 14, **Int** 13, **Sag** 12, **Cha** 14}
 {s:BDtexte|**BBA** +3, **BMO** +5, **DMD** 16}
-{s:BDtexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Fourberie](./Fourberie.md)}
-{s:BDtexte|**Compétences** [Acrobaties](./Acrobaties.md) +7, [Bluff](./Bluff.md) +10, [Déguisement](./Déguisement.md) +10, [Discrétion](./Discrétion.md) +7, [Intimidation](./Intimidation.md) +8, [Perception](./Perception.md) +7, [Psychologie](./Psychologie.md) +7}
-{s:BDtexte|**Langues** abyssal, commun ; [télépathie](./Télépathie (capacité).md) 9 m}
+{s:BDtexte|**Dons** [[Attaque en puissance]], [[Fourberie]]}
+{s:BDtexte|**Compétences** [[Acrobaties]] +7, [[Bluff]] +10, [[Déguisement]] +10, [[Discrétion]] +7, [[Intimidation]] +8, [[Perception]] +7, [[Psychologie]] +7}
+{s:BDtexte|**Langues** abyssal, commun ; [[Télépathie (capacité)|télépathie]] 9 m}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** tous (Abysses)}
 {s:BDtexte|**Organisation sociale** solitaire, couple, groupe (3-7) ou culte (8-13)}
-{s:BDtexte|**Trésor** équipement de PNJ ([armure de cuir cloutée](./armure de cuir cloutée (armure).md), [cimeterre](./cimeterre (arme).md) [de maître](./arme de maître.md), [arc long composite](./arc long composite (arme).md) de maître <nowiki>[</nowiki>For +2<nowiki>]</nowiki> avec 20 flèches, autres trésors)}
+{s:BDtexte|**Trésor** équipement de PNJ ([[armure de cuir cloutée (armure)|armure de cuir cloutée]], [[cimeterre (arme)|cimeterre]] [[arme de maître|de maître]], [[arc long composite (arme)|arc long composite]] de maître <nowiki>[[</nowiki>For +2<nowiki>]]</nowiki> avec 20 flèches, autres trésors)}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Frappe sadique (Sur).** Les cambions sont particulièrement cruels et excellent lorsqu’il s’agit d’infliger douleur et angoisse. Un cambion attaque avec ses armes (y compris ses armes naturelles et ses sorts qui nécessitent des [jets d’attaque](./jet dattaque.md) pour toucher) comme s’il possédait le don [Science du critique](./Science du critique.md) associé.}
-{s:BDtexte|**Frénésie pécheresse (Sur).** Chaque cambion porte en lui une aptitude excessive à exercer l’un des sept péchés classiques. Cette aptitude est déterminée à la naissance du cambion et dépend de la nature du plus grand péché nourri par son géniteur humanoïde. Une fois par jour, pendant un nombre de [rounds](./round.md) égal à son nombre de dés de vie, un cambion peut s’abandonner à ce péché et entrer dans un état frénétique par une [action libre](./Action libre.md). Tant qu’un cambion est frénétique, sa vitesse de déplacement au sol augmente de 3 mètres et il gagne un bonus de +1 aux jets de [Réflexes](./Réflexes.md) et aux [jets d’attaque](./jet dattaque.md). Ces bonus ne se cumulent pas avec ceux conférés par *[rapidité](./Rapidité.md)* ou des effets similaires, mais si le cambion possède au moins 1 niveau dans la classe associée à son péché, la frénésie pécheresse lui confère un effet supplémentaire, comme décrit ci-dessous.
-- *Avarice ([roublard](./Roublard.md)).* Les roublards cambions sont obsédés par l’accumulation de richesses et de pouvoir. Quand ils s’abandonnent à leur frénésie pécheresse, les roublards cambions infligent un dé de dégâts supplémentaire avec leurs [attaques sournoises](./Roublard.md#ATTAQUESOURNOISE).
-- *Colère ([rôdeur](./Rôdeur.md)).* Les rôdeurs cambions attaquent en faisant preuve d’une haine sauvage. Quand ils s’abandonnent à leur frénésie pécheresse, leurs bonus d’[ennemi juré](./Rôdeur.md#ENNEMIJURE) augmentent de 2.
-- *Gourmandise ([alchimiste](./Alchimiste.md)).* Les alchimistes cambions aiment ingurgiter des [extraits](./Alchimiste.md#EXTRAITS), des potions, des [mutagènes](./Alchimiste.md#MUTAGENE) et même des poisons. Quand ils s’abandonnent à leur frénésie pécheresse, leurs [bombes](./Alchimiste.md#BOMBES) infligent un dé de dégâts supplémentaire.
-- *Envie ([prêtre](./Prêtre.md)).* Les prêtres cambions convoitent le pouvoir des dieux. Quand ils s’abandonnent à leur frénésie pécheresse, l’effet de leur [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) augmente de 1d6.
-- *Luxure ([barde](./Barde.md)).* Les bardes cambions cherchent à dominer et contrôler autrui pour le jeter en esclavage. Quand les bardes cambions s’abandonnent à leur frénésie pécheresse, les bonus conférés par leurs aptitudes d’[inspiration vaillante](./Représentations.md#INSPIRATIONVAILLANTE), d’[inspiration talentueuse](./Représentations.md#INSPIRATIONTALENTUEUSE), d’[inspiration glorieuse](./Représentations.md#INSPIRATIONGLORIEUSE) et d’[inspiration héroïque](./Représentations.md#INSPIRATIONHEROIQUE) augmentent de +1. Le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) des [représentations bardiques](./Barde.md#REPRESENTATIONSBARDIQUES) du cambion augmente également de 1 lorsqu’il est dans cet état.
-- *Orgueil ([magicien](./Magicien.md)).* Les magiciens cambions pensent que leur magie est plus puissante que celle d’autrui. Quand ils s’abandonnent à leur frénésie pécheresse, le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) de ses sorts augmente de 1.
-- *Paresse ([guerrier](./Guerrier.md)).* Le sang des guerriers cambions semble s’écouler plus lentement de leurs veines ouvertes. Quand ils s’abandonnent à leur frénésie pécheresse, ils gagnent 2 [points de vie temporaires](./points de vie temporaires.md) par dé de vie. Ces points de vie temporaires disparaissent quand la frénésie pécheresse prend fin.
+{s:BDtexte|**Frappe sadique (Sur).** Les cambions sont particulièrement cruels et excellent lorsqu’il s’agit d’infliger douleur et angoisse. Un cambion attaque avec ses armes (y compris ses armes naturelles et ses sorts qui nécessitent des [[jet dattaque|jets d’attaque]] pour toucher) comme s’il possédait le don [[Science du critique]] associé.}
+{s:BDtexte|**Frénésie pécheresse (Sur).** Chaque cambion porte en lui une aptitude excessive à exercer l’un des sept péchés classiques. Cette aptitude est déterminée à la naissance du cambion et dépend de la nature du plus grand péché nourri par son géniteur humanoïde. Une fois par jour, pendant un nombre de [[round|rounds]] égal à son nombre de dés de vie, un cambion peut s’abandonner à ce péché et entrer dans un état frénétique par une [[action libre]]. Tant qu’un cambion est frénétique, sa vitesse de déplacement au sol augmente de 3 mètres et il gagne un bonus de +1 aux jets de [[Réflexes]] et aux [[jet dattaque|jets d’attaque]]. Ces bonus ne se cumulent pas avec ceux conférés par *[[rapidité]]* ou des effets similaires, mais si le cambion possède au moins 1 niveau dans la classe associée à son péché, la frénésie pécheresse lui confère un effet supplémentaire, comme décrit ci-dessous.
+- *Avarice ([[roublard]]).* Les roublards cambions sont obsédés par l’accumulation de richesses et de pouvoir. Quand ils s’abandonnent à leur frénésie pécheresse, les roublards cambions infligent un dé de dégâts supplémentaire avec leurs [[Roublard#ATTAQUESOURNOISE|attaques sournoises]].
+- *Colère ([[rôdeur]]).* Les rôdeurs cambions attaquent en faisant preuve d’une haine sauvage. Quand ils s’abandonnent à leur frénésie pécheresse, leurs bonus d’[[Rôdeur#ENNEMIJURE|ennemi juré]] augmentent de 2.
+- *Gourmandise ([[alchimiste]]).* Les alchimistes cambions aiment ingurgiter des [[Alchimiste#EXTRAITS|extraits]], des potions, des [[Alchimiste#MUTAGENE|mutagènes]] et même des poisons. Quand ils s’abandonnent à leur frénésie pécheresse, leurs [[Alchimiste#BOMBES|bombes]] infligent un dé de dégâts supplémentaire.
+- *Envie ([[prêtre]]).* Les prêtres cambions convoitent le pouvoir des dieux. Quand ils s’abandonnent à leur frénésie pécheresse, l’effet de leur [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] augmente de 1d6.
+- *Luxure ([[barde]]).* Les bardes cambions cherchent à dominer et contrôler autrui pour le jeter en esclavage. Quand les bardes cambions s’abandonnent à leur frénésie pécheresse, les bonus conférés par leurs aptitudes d’[[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]], d’[[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]], d’[[Représentations#INSPIRATIONGLORIEUSE|inspiration glorieuse]] et d’[[Représentations#INSPIRATIONHEROIQUE|inspiration héroïque]] augmentent de +1. Le [[DD]] du [[jds|jet de sauvegarde]] des [[Barde#REPRESENTATIONSBARDIQUES|représentations bardiques]] du cambion augmente également de 1 lorsqu’il est dans cet état.
+- *Orgueil ([[magicien]]).* Les magiciens cambions pensent que leur magie est plus puissante que celle d’autrui. Quand ils s’abandonnent à leur frénésie pécheresse, le [[DD]] du [[jds|jet de sauvegarde]] de ses sorts augmente de 1.
+- *Paresse ([[guerrier]]).* Le sang des guerriers cambions semble s’écouler plus lentement de leurs veines ouvertes. Quand ils s’abandonnent à leur frénésie pécheresse, ils gagnent 2 [[points de vie temporaires]] par dé de vie. Ces points de vie temporaires disparaissent quand la frénésie pécheresse prend fin.
 
 }
 </div>
 </td>
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 *Cet humanoïde démoniaque à la peau rouge possède une langue fourchue et une paire de cornes noires au-dessus de ses sourcils.*
 
 

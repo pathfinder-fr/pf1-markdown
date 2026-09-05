@@ -13,13 +13,13 @@ Categories:
 
 *Le personnage peut interrompre la connexion de son adversaire à son propre pouvoir magique.*
 
-**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+**Catégorie.** [[dons#DONMALEFICESANGLANT|maléfice sanglant]]
 
-**Conditions.** [Int](./Int.md) 13, 5 rangs en [Art de la magie](./Art de la magie.md), 1 rang en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md)
+**Conditions.** [[Int]] 13, 5 rangs en [[Art de la magie]], 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]
 
-**Avantage.** Par une [action simple](./Action simple.md), le personnage peut drainer le potentiel magique inné d'une créature à qui il a infligé des dégâts avec une arme métallique depuis le début de son précédent tour. Cette créature doit réussir un jet de [Volonté](./Volonté.md) ou être incapable d’accéder à l’un de ses pouvoirs magiques qu'elle peut utiliser plus d’une fois par jour, et ce, jusqu’à ce qu’elle soit soignée de tous ses points de vie, ou pendant une durée maximale d’une minute.
+**Avantage.** Par une [[action simple]], le personnage peut drainer le potentiel magique inné d'une créature à qui il a infligé des dégâts avec une arme métallique depuis le début de son précédent tour. Cette créature doit réussir un jet de [[Volonté]] ou être incapable d’accéder à l’un de ses pouvoirs magiques qu'elle peut utiliser plus d’une fois par jour, et ce, jusqu’à ce qu’elle soit soignée de tous ses points de vie, ou pendant une durée maximale d’une minute.
 
-**Spécial.** Si un [chaman](./Chaman.md) ou une [sorcière](./Sorcière.md) utilise ce maléfice sanglant, la cible est incapable d’utiliser n’importe lequel de ses pouvoirs magiques pendant la durée du maléfice.
+**Spécial.** Si un [[chaman]] ou une [[sorcière]] utilise ce maléfice sanglant, la cible est incapable d’utiliser n’importe lequel de ses pouvoirs magiques pendant la durée du maléfice.
 
 (((Abeyance (blood Hex)
 

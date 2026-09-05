@@ -309,96 +309,96 @@ LastModified: 2020-06-13 10:56
 |- CLASS="titre"
 | Objet || Prix || Poids
 |- CLASS="premier"
-| [Élixir de voix tonitruante](./Élixir de voix tonitruante.md) || 250 po || —
+| [[Élixir de voix tonitruante]] || 250 po || —
 |-
-| [Cure-dent de pyrotechnie](./Cure-dent de pyrotechnie.md) || 400 po || —
+| [[Cure-dent de pyrotechnie]] || 400 po || —
 |-
-| [Poussière du conteur](./Poussière du conteur.md) || 600 po || —
+| [[Poussière du conteur]] || 600 po || —
 |-
-| [Poussière de l’assassin](./Poussière de lassassin.md) || 750 po || —
+| [[Poussière de lassassin|Poussière de l’assassin]] || 750 po || —
 |-
-| [Cri en bouteille](./Cri en bouteille.md) || 900 po || 0,25 kg
+| [[Cri en bouteille]] || 900 po || 0,25 kg
 |-
-| [Maillage magique](./Maillage magique.md) (niveau 1) || 1 000 po || 0,5 kg
+| [[Maillage magique]] (niveau 1) || 1 000 po || 0,5 kg
 |-
-| [Encens d’eidos](./Encens deidos.md) || 2 000 po || 0,5 kg
+| [[Encens deidos|Encens d’eidos]] || 2 000 po || 0,5 kg
 |-
-| [Lanterne des auras](./Lanterne des auras.md) || 2 000 po || 1 kg
+| [[Lanterne des auras]] || 2 000 po || 1 kg
 |-
-| [Luth va-t-en-guerre](./Luth va-t-en-guerre.md) || 2 000 po || 1,5 kg
+| [[Luth va-t-en-guerre]] || 2 000 po || 1,5 kg
 |-
-| [Poussière de restauration](./Poussière de restauration.md) || 2 000 po || —
+| [[Poussière de restauration]] || 2 000 po || —
 |-
-| [Rune de pouvoir](./Rune de pouvoir.md) (niveau 1) || 2 000 po || —
+| [[Rune de pouvoir]] (niveau 1) || 2 000 po || —
 |-
-| [Élixir de changement de sexe](./Élixir de changement de sexe.md) || 2 250 po || —
+| [[Élixir de changement de sexe]] || 2 250 po || —
 |-
-| [Os de troll](./Os de troll.md) || 2 400 po || 0,5 kg
+| [[Os de troll]] || 2 400 po || 0,5 kg
 |-
-| [Élégance de l’épéiste](./Élégance de lépéiste.md) || 2 500 po || —
+| [[Élégance de lépéiste|Élégance de l’épéiste]] || 2 500 po || —
 |-
-| [Cloche des esprits-revenants](./Cloche des esprits-revenants.md) || 3 000 po || 0,5 kg
+| [[Cloche des esprits-revenants]] || 3 000 po || 0,5 kg
 |-
-| [Porte-clés magique](./Porte-clés magique.md) || 3 000 po || 4 kg
+| [[Porte-clés magique]] || 3 000 po || 4 kg
 |-
-| [Maillage magique](./Maillage magique.md) (niveau 2) || 4 000 po || 0,5 kg
+| [[Maillage magique]] (niveau 2) || 4 000 po || 0,5 kg
 |-
-| [Calebasse scintillante](./Calebasse scintillante.md) || 4 250 po || 4 kg
+| [[Calebasse scintillante]] || 4 250 po || 4 kg
 |-
-| [Fourreau des mille lames](./Fourreau des mille lames.md) || 5 000 po || 1,5 kg
+| [[Fourreau des mille lames]] || 5 000 po || 1,5 kg
 |-
-| [Bannière des nuits réparatrices](./Bannière des nuits réparatrices.md) || 5 040 po || 3,5 kg
+| [[Bannière des nuits réparatrices]] || 5 040 po || 3,5 kg
 |-
-| [Sifflet d’invocation](./Sifflet dinvocation.md) || 6 300 po || —
+| [[Sifflet dinvocation|Sifflet d’invocation]] || 6 300 po || —
 |-
-| [Fenêtre à sens unique (MCA)](./Fenêtre à sens unique (MCA).md) || 7 500 po || 0,5 kg
+| [[Fenêtre à sens unique (MCA)]] || 7 500 po || 0,5 kg
 |-
-| [Coupes d’entente](./Coupes dentente.md) || 8 000 po || 0,5 kg
+| [[Coupes dentente|Coupes d’entente]] || 8 000 po || 0,5 kg
 |-
-| [Rune de pouvoir](./Rune de pouvoir.md) (niveau 2) || 8 000 po || —
+| [[Rune de pouvoir]] (niveau 2) || 8 000 po || —
 |-
-| [Pipe de l’enquêteur](./Pipe de lenquêteur.md) || 9 000 po || —
+| [[Pipe de lenquêteur|Pipe de l’enquêteur]] || 9 000 po || —
 |-
-| [Maillage magique](./Maillage magique.md) (niveau 3) || 9 000 po || 0,5 kg
+| [[Maillage magique]] (niveau 3) || 9 000 po || 0,5 kg
 |-
-| [Fort du chasseur](./Fort du chasseur.md) || 10 000 po || 0,5 kg
+| [[Fort du chasseur]] || 10 000 po || 0,5 kg
 |-
-| [Corne de la panacée](./Corne de la panacée.md) || 12 000 po || 0,5 kg
+| [[Corne de la panacée]] || 12 000 po || 0,5 kg
 |-
-| [Statuette merveilleuse](./Statuette merveilleuse.md) (diablotin en fer) || 13 000 po || 0,5 kg
+| [[Statuette merveilleuse]] (diablotin en fer) || 13 000 po || 0,5 kg
 |-
-| [Mouchoir de localisation](./Mouchoir de localisation.md) || 15 000 po || —
+| [[Mouchoir de localisation]] || 15 000 po || —
 |-
-| [Runes du sabbat de la mégère](./Runes du sabbat de la mégère.md) || 16 000 po || 0,5 kg
+| [[Runes du sabbat de la mégère]] || 16 000 po || 0,5 kg
 |-
-| [Rune de la foi antique](./Rune de la foi antique.md) || 16 000 po || 0,5 kg
+| [[Rune de la foi antique]] || 16 000 po || 0,5 kg
 |-
-| [Maillage magique](./Maillage magique.md) (niveau 4) || 16 000 po || 0,5 kg
+| [[Maillage magique]] (niveau 4) || 16 000 po || 0,5 kg
 |-
-| [Rune de pouvoir](./Rune de pouvoir.md) (niveau 3) || 18 000 po || —
+| [[Rune de pouvoir]] (niveau 3) || 18 000 po || —
 |-
-| [Maillage magique](./Maillage magique.md) (niveau 5) || 25 000 po || 0,5 kg
+| [[Maillage magique]] (niveau 5) || 25 000 po || 0,5 kg
 |-
-| [Rune de pouvoir](./Rune de pouvoir.md) (niveau 4) || 32 000 po || —
+| [[Rune de pouvoir]] (niveau 4) || 32 000 po || —
 |-
-| [Maillage magique](./Maillage magique.md) (niveau 6) || 36 000 po || 0,5 kg
+| [[Maillage magique]] (niveau 6) || 36 000 po || 0,5 kg
 |-
-| [Maillage magique](./Maillage magique.md) (niveau 7) || 49 000 po || 0,5 kg
+| [[Maillage magique]] (niveau 7) || 49 000 po || 0,5 kg
 |-
-| [Rune de pouvoir](./Rune de pouvoir.md) (niveau 5) || 50 000 po || —
+| [[Rune de pouvoir]] (niveau 5) || 50 000 po || —
 |-
-| [Maillage magique](./Maillage magique.md) (niveau 8) || 64 000 po || 0,5 kg
+| [[Maillage magique]] (niveau 8) || 64 000 po || 0,5 kg
 |-
-|  [Rune de pouvoir](./Rune de pouvoir.md) (niveau 6) || 72 000 po || —
+|  [[Rune de pouvoir]] (niveau 6) || 72 000 po || —
 |-
-| [Maillage magique](./Maillage magique.md) (niveau 9) || 81 000 po || 0,5 kg
+| [[Maillage magique]] (niveau 9) || 81 000 po || 0,5 kg
 |-
-| [Boussole du prédateur](./Boussole du prédateur.md) || 85 000 po || —
+| [[Boussole du prédateur]] || 85 000 po || —
 |-
-| [Rune de pouvoir](./Rune de pouvoir.md) (niveau 7) || 98 000 po || —
+| [[Rune de pouvoir]] (niveau 7) || 98 000 po || —
 |-
-| [Rune de pouvoir](./Rune de pouvoir.md) (niveau 8) || 128 000 po || —
+| [[Rune de pouvoir]] (niveau 8) || 128 000 po || —
 |-
-| [Rune de pouvoir](./Rune de pouvoir.md) (niveau 9) || 162 000 po || —
+| [[Rune de pouvoir]] (niveau 9) || 162 000 po || —
 |}
 </center>

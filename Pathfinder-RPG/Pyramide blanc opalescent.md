@@ -11,18 +11,18 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Pierre ioun pyramide blanc opalescent|{s:RSE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 12 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([pierre ioun](./Pierre ioun.md)) ; **Prix** 10 000 po (normale), 3 000 po (défectueuse), 1 500 po (ébréchée) ; **Poids** –
+**Aura** [[Transmutation]] modérée ; **NLS** 12 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[pierre ioun]]) ; **Prix** 10 000 po (normale), 3 000 po (défectueuse), 1 500 po (ébréchée) ; **Poids** –
 (((Description)))
-- ***Normale.*** Chaque pierre de ce genre est liée à un type d'arme en particulier ([fléau d'armes lourd](./Fléau darmes lourd (arme).md), [arbalète légère](./Arbalète légère (arme).md), [épée courte](./épée courte (arme).md), etc.) et octroie la formation au maniement de cette arme.
+- ***Normale.*** Chaque pierre de ce genre est liée à un type d'arme en particulier ([[fléau darmes lourd (arme)|fléau d'armes lourd]], [[arbalète légère (arme)|arbalète légère]], [[épée courte (arme)|épée courte]], etc.) et octroie la formation au maniement de cette arme.
 
 
-- ***Défectueuse.*** Cette pierre accorde au porteur le maniement de l’arme liée, mais lui impose un malus de -2 en [Dextérité](./Dextérité.md).
+- ***Défectueuse.*** Cette pierre accorde au porteur le maniement de l’arme liée, mais lui impose un malus de -2 en [[Dextérité]].
 
 
-- ***Ébréchée.*** Cette pierre accorde à celui qui la porte [arme familière](./Elfe.md#ARMESFAMILIERES) avec l’arme liée (elle est traitée pour lui comme une [arme de guerre](./arme de guerre.md)).
+- ***Ébréchée.*** Cette pierre accorde à celui qui la porte [[Elfe#ARMESFAMILIERES|arme familière]] avec l’arme liée (elle est traitée pour lui comme une [[arme de guerre]]).
 
 (((Pouvoir de résonance)))
-[Arme de prédilection](./Arme de prédilection.md) avec l’arme liée à la pierre.
+[[Arme de prédilection]] avec l’arme liée à la pierre.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[transformation](./Transformation.md)* ou maniement de l’arme appropriée, le créateur doit être de niveau 12 ; **Coût** 5 000 po (normale), 1 500 po (défectueuse), 750 po (ébréchée)
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[transformation]]* ou maniement de l’arme appropriée, le créateur doit être de niveau 12 ; **Coût** 5 000 po (normale), 1 500 po (défectueuse), 750 po (ébréchée)
 </div>

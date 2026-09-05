@@ -7,8 +7,8 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** — ; **Poids** 1,5 kg ; **Groupes** [armes de jet](./groupe darmes.md#Armesdejet), [marteaux](./groupe darmes.md#Marteaux)
+{s:AE}**Prix** — ; **Poids** 1,5 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]], [[Groupe darmes#Marteaux|marteaux]]
 **Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** 3 m (2 c) ; **Type** C ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes courantes](./Tableau récapitulatif des armes.md#TABCOURANTES) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABCOURANTES|Armes courantes]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
 ---
 Cette arme n’est généralement qu’une simple pièce de bois taillée, parfois incrustée de quelques clous ou pointes.

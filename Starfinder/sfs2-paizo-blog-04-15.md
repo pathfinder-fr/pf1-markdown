@@ -4,7 +4,7 @@ Title: Structure des scénarios SFS 2.0
 LastModified: 2025-04-16 21:39
 ---
 
-Traduction de [https://paizo.com/community/blog/v5748dyo6z7ab|Starfinder Society 2.0 : Scenario structure] paru le 15 Avril 2025 sur le site de Paizo
+Traduction de [Starfinder Society 2.0 : Scenario structure](https://paizo.com/community/blog/v5748dyo6z7ab) paru le 15 Avril 2025 sur le site de Paizo
 
 Salutations, Starfinders !
 Bienvenue pour la suite du lancement de la Starfinder Society ! La semaine dernière, Alex et moi avions annoncé La Starfinder Society Seconde Édition (SFS2). Cette semaine, je suis là pour vous parler des aventures que vous allez vivre en tant que membres de la Société des explorateurs d'étoiles : les Scénarios de la Starfinder Society !
@@ -41,7 +41,7 @@ Vous serez toujours en capacité de participer à une partie de Starfinder Socie
 
 Durant les semaines à venir, nous vous en dévoilerons davantage au sujet du programme de jeu organisé Starfinder Society, en mettant l’accent sur un aspect différent du programme dans chaque billet de blog.
 Retrouvez nous aux dates suivantes
-- **9 Avril** : [Bienvenue dans la Starfinder Society !](./sfs2-paizo-blog-04-08.md)
+- **9 Avril** : [[sfs2-paizo-blog-04-08|Bienvenue dans la Starfinder Society !]]
 - **22 avril** : Création de personnages
 - **29 avril** : Récompenses d’aventures
 - **6 mai** : Intrigue de la première année

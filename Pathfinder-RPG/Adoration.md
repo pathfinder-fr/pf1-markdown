@@ -14,18 +14,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Enchantement](./Enchantement.md) <nowiki>[</nowiki>émotion, effet mental<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 1, [Hyp](./Hypnotiseur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Enchantement]] <nowiki>[[</nowiki>émotion, effet mental<nowiki>]]</nowiki> ; **Niveau** [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature vivante  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
-La cible du sort devient un objet d’adoration pour ceux qu’elle tente d’affecter avec un test de [Diplomatie](./Diplomatie.md) ou de [combat de spectacle](./Combat de spectacle.md). Si la cible n’est pas impliquée dans un combat, elle reçoit un bonus de moral de +2 aux tests de [Diplomatie](./Diplomatie.md) pour influencer une créature. Si elle est engagée dans un [combat de spectacle](./Combat de spectacle.md) , elle gagne un bonus de moral de +2 aux tests de [combat de spectacle](./Combat de spectacle.md).
+La cible du sort devient un objet d’adoration pour ceux qu’elle tente d’affecter avec un test de [[Diplomatie]] ou de [[combat de spectacle]]. Si la cible n’est pas impliquée dans un combat, elle reçoit un bonus de moral de +2 aux tests de [[Diplomatie]] pour influencer une créature. Si elle est engagée dans un [[combat de spectacle]] , elle gagne un bonus de moral de +2 aux tests de [[combat de spectacle]].

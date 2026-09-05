@@ -8,24 +8,24 @@ Categories:
 - Src Aventures occultes
 ---
 
-{s:AO}** École **[Illusion](./Illusion.md) ([ombre](./branche ombre.md)) ; **Niveau** [Psy](./Psychiste.md) 9   
+{s:AO}** École **[[Illusion]] ([[branche ombre|ombre]]) ; **Niveau** [[psychiste|Psy]] 9   
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
-**Portée** [longue](./courte.md) (120 m + 12 m/niveau)  
+**Portée** [[courte|longue]] (120 m + 12 m/niveau)  
 
 **Effet **un double d’ombre  
 
-**Durée** 1 [round](./round.md)/niveau (T)  
+**Durée** 1 [[round]]/niveau (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [dévoile](./Présentation des sorts.md#JETSDESAUVEGARDE) (en cas d'interaction) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d'interaction) ; **Résistance à la magie** oui
 
-Le personnage enveloppe sa conscience dans une image quasi réelle de lui. Elle a la même apparence, fait les mêmes bruits et dégage la même odeur mais elle est [intangible](./États préjudiciables.md#Intangible). Tant que l’esprit du personnage occupe l’image, il la contrôle comme si c’était son propre corps mais il ne peut pas s’en servir pour affecter directement des objets solides. L’image se déplace à une vitesse de vol de 18 mètres avec une manœuvrabilité parfaite. Les sens du personnage perçoivent uniquement ce que l’image voit et entend tant que son esprit l’occupe, son propre corps étant considéré comme [aveugle](./États%20préjudiciables-ashx.md#Aveuglé), [sourd](./États%20préjudiciables-ashx.md#Assourdi) et [sans défense](./États%20préjudiciables-ashx.md#Sansdéfense). L’esprit du personnage peut passer de son corps à son image ou inversement par une [action rapide](./Action rapide.md). Tant que son esprit occupe son corps, son image est [sans défense](./États%20préjudiciables-ashx.md#Sansdéfense).
+Le personnage enveloppe sa conscience dans une image quasi réelle de lui. Elle a la même apparence, fait les mêmes bruits et dégage la même odeur mais elle est [[États préjudiciables#Intangible|intangible]]. Tant que l’esprit du personnage occupe l’image, il la contrôle comme si c’était son propre corps mais il ne peut pas s’en servir pour affecter directement des objets solides. L’image se déplace à une vitesse de vol de 18 mètres avec une manœuvrabilité parfaite. Les sens du personnage perçoivent uniquement ce que l’image voit et entend tant que son esprit l’occupe, son propre corps étant considéré comme [[États%20préjudiciables.ashx#Aveuglé|aveugle]], [[États%20préjudiciables.ashx#Assourdi|sourd]] et [[États%20préjudiciables.ashx#Sansdéfense|sans défense]]. L’esprit du personnage peut passer de son corps à son image ou inversement par une [[action rapide]]. Tant que son esprit occupe son corps, son image est [[États%20préjudiciables.ashx#Sansdéfense|sans défense]].
 
 L’image du personnage peut traverser des objets solides comme si elle était intangible, cependant, elle ne peut pas s’enfoncer dans un objet solide sur une distance supérieure à l’espace qu’occupe le personnage (c’est-à-dire 1,50 mètre pour une créature P ou M). La plupart des attaques et effets n’affectent pas l’image, même s’ils touchent habituellement les créatures intangibles. En revanche, les effets mentaux visant l’image ou l’englobant dans leur zone d’effet agissent pleinement sur elle tant que l’esprit du personnage l’occupe.
 
 Si le personnage le désire, il peut lancer n’importe quel sort psychique ou utiliser n’importe quel pouvoir magique psychique doté d’une portée de contact ou supérieure tant que son esprit occupe l’image. En revanche, il ne peut pas lancer de sorts issus d’une magie autre que psychique même s’il sait le faire. L’image psychique peut lancer uniquement des sorts psychiques d’illusion sur elle. Les sorts affectent les autres cibles normalement, même s’ils viennent de l’image psychique.
 
-L’image psychique affecte les objets comme s’ils avaient réussi leur jet de sauvegarde. Le personnage n’a pas besoin de maintenir une ligne d’effet avec son image mais le sort se termine immédiatement si le personnage passe dans un autre plan, même pour un instant, comme avec *[clignotement](./Clignotement.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)* ou des sorts similaires.
+L’image psychique affecte les objets comme s’ils avaient réussi leur jet de sauvegarde. Le personnage n’a pas besoin de maintenir une ligne d’effet avec son image mais le sort se termine immédiatement si le personnage passe dans un autre plan, même pour un instant, comme avec *[[clignotement]]*, *[[porte dimensionnelle]]* ou des sorts similaires.

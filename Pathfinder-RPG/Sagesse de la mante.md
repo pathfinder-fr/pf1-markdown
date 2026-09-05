@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage connaît si bien les points vitaux qu’il porte ses coups handicapants avec une précision redoutable. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science du combat à mains nues](./Science du combat à mains nues.md), [École de la mante](./École de la mante.md), [Coup étourdissant](./Coup étourdissant.md), 6 rangs en [Premiers secours](./Premiers secours.md)
+**Conditions.** [[Science du combat à mains nues]], [[École de la mante]], [[Coup étourdissant]], 6 rangs en [[Premiers secours]]
 
-**Avantage.** Quand le personnage détermine les effets applicables avec le [Coup étourdissant](./Coup étourdissant.md) du [moine](./Moine.md), il compte la moitié de ses autres niveaux de classe comme des niveaux de moine. Il peut débarrasser une cible des effets d’un [Coup étourdissant](./Coup étourdissant.md) avec une [action simple](./Action simple.md) et une attaque réussie au corps à corps. Tant qu’il utilise l’[École de la mante](./École de la mante.md), il gagne un bonus de +2 aux [jets d’attaque](./jet dattaque.md) à mains nues consacrées au [Coup étourdissant](./Coup étourdissant.md).
+**Avantage.** Quand le personnage détermine les effets applicables avec le [[Coup étourdissant]] du [[moine]], il compte la moitié de ses autres niveaux de classe comme des niveaux de moine. Il peut débarrasser une cible des effets d’un [[Coup étourdissant]] avec une [[action simple]] et une attaque réussie au corps à corps. Tant qu’il utilise l’[[École de la mante]], il gagne un bonus de +2 aux [[jet dattaque|jets d’attaque]] à mains nues consacrées au [[Coup étourdissant]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 2 points d’endurance et une [action simple](./Action simple.md) pour débarrasser une créature d’un effet de [Coup étourdissant](./Coup étourdissant.md) qu’il lui a lui-même infligé. Il n’a pas besoin de réussir d’attaque de contact pour ce faire et peut utiliser cette astuce quel que soit l’endroit où se trouve sa victime.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 2 points d’endurance et une [[action simple]] pour débarrasser une créature d’un effet de [[Coup étourdissant]] qu’il lui a lui-même infligé. Il n’a pas besoin de réussir d’attaque de contact pour ce faire et peut utiliser cette astuce quel que soit l’endroit où se trouve sa victime.

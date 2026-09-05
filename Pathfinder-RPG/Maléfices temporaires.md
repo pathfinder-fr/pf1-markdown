@@ -5,7 +5,7 @@ LastModified: 2012-11-02 16:07
 ---
 
 {s:APG}
-Les [sorcières](./Sorcière.md) apprennent un certain nombre de sortilèges, appelés des maléfices, qui améliorent leurs pouvoirs ou affaiblissent leurs ennemis. Au niveau 1, la sorcière gagne un maléfice de son choix, un autre au niveau 2 et ensuite un de plus tous les deux niveaux. La sorcière ne peut pas choisir le même maléfice à plusieurs reprises. Sauf indication, pour lancer un maléfice, la sorcière doit utiliser une action simple qui ne provoque pas d’attaque d’opportunité. Le DD pour résister à ces sorts est de 10 + 1/2 niveau de sorcière + modificateur d’Intelligence de la sorcière.
+Les [[sorcière|sorcières]] apprennent un certain nombre de sortilèges, appelés des maléfices, qui améliorent leurs pouvoirs ou affaiblissent leurs ennemis. Au niveau 1, la sorcière gagne un maléfice de son choix, un autre au niveau 2 et ensuite un de plus tous les deux niveaux. La sorcière ne peut pas choisir le même maléfice à plusieurs reprises. Sauf indication, pour lancer un maléfice, la sorcière doit utiliser une action simple qui ne provoque pas d’attaque d’opportunité. Le DD pour résister à ces sorts est de 10 + 1/2 niveau de sorcière + modificateur d’Intelligence de la sorcière.
 
 {s:UM}Les sorcières sont des créatures de mystère et de pouvoir, aussi craintes que respectées pour leurs étranges capacités et leurs puissants maléfices. Alors que certains lanceurs de sorts se penchent sur des ouvrages poussiéreux tandis que d’autres utilisent les pouvoirs de leur héritage et que d’autres encore puisent leur force dans leur foi, les sorcières tirent leur puissance de leur communion avec l’inconnu. Leurs familiers leur servent de conduit à travers lequel elles reçoivent des pouvoirs accordés par des êtres issus d’autres mondes, êtres avec lesquels elles ont passé un pacte. Plus les sorcières développent leurs pouvoirs, plus certaines cherchent à comprendre l’origine précise de ceux-ci tandis que d’autres restent dans une bienheureuse ignorance et ne savent jamais quelles forces maléfiques guident leur main et leurs incantations. Il leur suffit d’accéder à la puissance et, s’il y a un prix à payer plus tard... qu’il en soit ainsi.
 
@@ -17,95 +17,95 @@ Les [sorcières](./Sorcière.md) apprennent un certain nombre de sortilèges, ap
 | Maléfices majeurs
 | Grands maléfices
 |- CLASS="premier"
-| [Cercle (Ext)](./maléfices.md#Cercle)
-| [Agonie (Sur)](./maléfices.md#Agonie)
-| [Désastre naturel (Sur)](./maléfices.md#Désastrenaturel)
+| [[Maléfices#Cercle|Cercle (Ext)]]
+| [[Maléfices#Agonie|Agonie (Sur)]]
+| [[Maléfices#Désastrenaturel|Désastre naturel (Sur)]]
 |-
-| [Chance (Sur)](./maléfices.md#Chance)
-| [Cauchemars (Sur)](./maléfices.md#Cauchemars)
-| [Donneuse de vie (Sur)](./maléfices.md#Donneusedevie)
+| [[Maléfices#Chance|Chance (Sur)]]
+| [[Maléfices#Cauchemars|Cauchemars (Sur)]]
+| [[Maléfices#Donneusedevie|Donneuse de vie (Sur)]]
 |-
-| [Charme (Sur)](./maléfices.md#Charme)
-| [Contrôle du climat (Sur)](./maléfices.md#Contrôleduclimat)
-| [Malédiction mortelle (Sur)](./maléfices.md#Malédictionmortelle)
+| [[Maléfices#Charme|Charme (Sur)]]
+| [[Maléfices#Contrôleduclimat|Contrôle du climat (Sur)]]
+| [[Maléfices#Malédictionmortelle|Malédiction mortelle (Sur)]]
 |-
-| [Déguisement (Sur)](./maléfices.md#Déguisement)
-| [Guérison majeure (Sur)](./maléfices.md#Guérisonmajeure)
-| [Réincarnation forcée (Sur)](./maléfices.md#Réincarnationforcée)
+| [[Maléfices#Déguisement|Déguisement (Sur)]]
+| [[Maléfices#Guérisonmajeure|Guérison majeure (Sur)]]
+| [[Maléfices#Réincarnationforcée|Réincarnation forcée (Sur)]]
 |-
-| [Dépérissement (Sur)](./maléfices.md#Dépérissement)
-| [Oeil de guenaude (Sur)](./maléfices.md#Oeildeguenaude)
-| [Sommeil éternel (Sur)](./maléfices.md#Sommeiléternel)
+| [[Maléfices#Dépérissement|Dépérissement (Sur)]]
+| [[Maléfices#Oeildeguenaude|Oeil de guenaude (Sur)]]
+| [[Maléfices#Sommeiléternel|Sommeil éternel (Sur)]]
 |-
-| [Don des langues (Sur)](./maléfices.md#Dondeslangues)
-| [Poupée de cire (Sur)](./maléfices.md#Poupéedecire)
-| [Convocation d’esprit* (Mag)](./maléfices.md#Convocationdesprit)
+| [[Maléfices#Dondeslangues|Don des langues (Sur)]]
+| [[Maléfices#Poupéedecire|Poupée de cire (Sur)]]
+| [[Maléfices#Convocationdesprit|Convocation d’esprit* (Mag)]]
 |-
-| [Guérison (Sur)](./maléfices.md#Guérison)
-| [Représailles (Sur)](./maléfices.md#Représailles)
-| [Hutte de la sorcière* (Sur)](./maléfices.md#Huttedelasorcière)
+| [[Maléfices#Guérison|Guérison (Sur)]]
+| [[Maléfices#Représailles|Représailles (Sur)]]
+| [[Maléfices#Huttedelasorcière|Hutte de la sorcière* (Sur)]]
 |-
-| [Malchance (Sur)](./maléfices.md#Malchance)
-| [Vision (Sur)](./maléfices.md#Vision)
-| [Sinistre prophétie* (Sur)](./maléfices.md#Sinistreprophétie)
+| [[Maléfices#Malchance|Malchance (Sur)]]
+| [[Maléfices#Vision|Vision (Sur)]]
+| [[Maléfices#Sinistreprophétie|Sinistre prophétie* (Sur)]]
 |-
-| [Mauvais œil (Sur)](./maléfices.md#Mauvaisœil)
-| [Blessures infectées* (Sur)](./maléfices.md#Blessuresinfectées)
+| [[Maléfices#Mauvaisœil|Mauvais œil (Sur)]]
+| [[Maléfices#Blessuresinfectées|Blessures infectées* (Sur)]]
 |  |
 |-
-| [Ricanement (Sur)](./maléfices.md#Ricanement)
-| [Brouet de la sorcière* (Ext)](./maléfices.md#Brouetdelasorcière)
+| [[Maléfices#Ricanement|Ricanement (Sur)]]
+| [[maléfices#Brouetdelasorcière|Brouet de la sorcière* (Ext)]]
 |  |
 |-
-| [Sceau (Sur)](./maléfices.md#Sceau)
-| [Couvert de givre* (Sur)](./maléfices.md#Couvertdegivre)
+| [[Maléfices#Sceau|Sceau (Sur)]]
+| [[Maléfices#Couvertdegivre|Couvert de givre* (Sur)]]
 |  |
 |-
-| [Sommeil (Sur)](./maléfices.md#Sommeil)
-| [Cuisiner les gens* (Sur)](./maléfices.md#Cuisinerlesgens)
+| [[Maléfices#Sommeil|Sommeil (Sur)]]
+| [[Maléfices#Cuisinerlesgens|Cuisiner les gens* (Sur)]]
 |  |
 |-
-| [Vol (Sur)](./maléfices.md#Vol)
-| [Demeure cachée* (Mag)](./maléfices.md#Demeurecachée)
+| [[Maléfices#Vol|Vol (Sur)]]
+| [[maléfices#Demeurecachée|Demeure cachée* (Mag)]]
 |  |
 |-
-| [Agacer les bêtes* (Sur)](./maléfices.md#Agacerlesbêtes)
-| [OEil de la bête* (Sur)](./maléfices.md#Oeildelabête)
+| [[Maléfices#Agacerlesbêtes|Agacer les bêtes* (Sur)]]
+| [[maléfices#Oeildelabête|OEil de la bête* (Sur)]]
 |  |
 |-
-| [Cheveux préhensiles* (Sur)](./maléfices.md#Cheveuxpréhensiles)
-| [Parler en rêve* (Mag)](./maléfices.md#Parlerenrêve)
+| [[Maléfices#Cheveuxpréhensiles|Cheveux préhensiles* (Sur)]]
+| [[Maléfices#Parlerenrêve|Parler en rêve* (Mag)]]
 |  |
 |-
-| [Cicatrice* (Sur)](./maléfices.md#Cicatrice)
-| [Tombe de glace* (Sur)](./maléfices.md#Tombedeglace)
+| [[Maléfices#Cicatrice|Cicatrice* (Sur)]]
+| [[Maléfices#Tombedeglace|Tombe de glace* (Sur)]]
 |  |
 |-
-| [Langage sauvage* (Sur)](./maléfices.md#Langagesauvage)
-|  |
-|  |
-|-
-| [Odeur d'enfant* (Ext)](./maléfices.md#Odeurdenfant)
+| [[Maléfices#Langagesauvage|Langage sauvage* (Sur)]]
 |  |
 |  |
 |-
-| [Oiseau de mauvais augure* (Sur)](./maléfices.md#Oiseaudemauvaisaugure)
+| [[Maléfices#Odeurdenfant|Odeur d'enfant* (Ext)]]
 |  |
 |  |
 |-
-| [Ongle* (Ext)](./maléfices.md#Ongle)
+| [[Maléfices#Oiseaudemauvaisaugure|Oiseau de mauvais augure* (Sur)]]
 |  |
 |  |
 |-
-| [Poumon aquatique* (Ext)](./maléfices.md#Poumonaquatique)
+| [[Maléfices#Ongle|Ongle* (Ext)]]
 |  |
 |  |
 |-
-| [Sorcière du marais* (Mag)](./maléfices.md#Sorcièredumarais)
+| [[Maléfices#Poumonaquatique|Poumon aquatique* (Ext)]]
 |  |
 |  |
 |-
-| [Tremper dans le poison* (Mag)](./maléfices.md#Tremperdanslepoison)
+| [[Maléfices#Sorcièredumarais|Sorcière du marais* (Mag)]]
+|  |
+|  |
+|-
+| [[Maléfices#Tremperdanslepoison|Tremper dans le poison* (Mag)]]
 |  |
 |  |
 |}
@@ -121,19 +121,19 @@ Les animaux deviennent irritables en présence de la cible (Volonté pour annule
 
 {s:Reference|Cercle}
 #### Cercle (Ext)
-La sorcière compte comme une [guenaude](./Monstres.md#G_6) quand il s’agit de rejoindre un [cercle](./Guenaude verte.md#Cercles_de_guenaudes_0) de ces créatures. Le cercle doit contenir au moins une véritable [guenaude](./Monstres.md#G_6). Quand une sorcière qui dispose de ce maléfice se trouve à moins de 9 m d’une autre qui le possède aussi, elle peut utiliser l’action [aider](./Actions spéciales.md#AIDERQQN) autrui pour donner à l’autre un bonus de +1 au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) pendant 1 [round](./round.md). Ce bonus s’applique aux sorts et aux maléfices de la sorcière.
+La sorcière compte comme une [[Monstres#G_6|guenaude]] quand il s’agit de rejoindre un [[Guenaude verte#Cercles_de_guenaudes_0|cercle]] de ces créatures. Le cercle doit contenir au moins une véritable [[Monstres#G_6|guenaude]]. Quand une sorcière qui dispose de ce maléfice se trouve à moins de 9 m d’une autre qui le possède aussi, elle peut utiliser l’action [[Actions spéciales#AIDERQQN|aider]] autrui pour donner à l’autre un bonus de +1 au [[niveau de lanceur de sorts]] pendant 1 [[round]]. Ce bonus s’applique aux sorts et aux maléfices de la sorcière.
 
 {s:Reference|Chance}
 #### Chance (Sur)
-La sorcière peut donner un peu de chance à une créature qui se trouve dans les 9 m pendant 1 [round](./round.md). La cible peut faire appel à cette chance une fois par [round](./round.md), ce qui lui permet de refaire un [test](./../Golarion/Test.md) de caractéristique, un jet d’attaque, un [jet de sauvegarde](./jet de sauvegarde.md) ou un [test](./../Golarion/Test.md) de compétence et de choisir le meilleur résultat. La cible doit décider d’utiliser sa chance avant de faire son premier jet. La durée du sort s’allonge d’un [round](./round.md) au [niveau](./niveau.md) 8 puis au [niveau](./niveau.md) 16. Une fois qu’une créature a profité de la chance, elle ne peut plus en bénéficier pendant 24 heures.
+La sorcière peut donner un peu de chance à une créature qui se trouve dans les 9 m pendant 1 [[round]]. La cible peut faire appel à cette chance une fois par [[round]], ce qui lui permet de refaire un [[test]] de caractéristique, un jet d’attaque, un [[jet de sauvegarde]] ou un [[test]] de compétence et de choisir le meilleur résultat. La cible doit décider d’utiliser sa chance avant de faire son premier jet. La durée du sort s’allonge d’un [[round]] au [[niveau]] 8 puis au [[niveau]] 16. Une fois qu’une créature a profité de la chance, elle ne peut plus en bénéficier pendant 24 heures.
 
 {s:Reference|Charme}
 #### Charme (Sur)
-La sorcière charme une créature animale ou humanoïde située dans les 9 m en lui faisant signe et en lui murmurant des paroles apaisantes. Ceci améliore l’attitude de la créature d’une catégorie, comme si la sorcière avait réussi un [test](./../Golarion/Test.md) de [Diplomatie](./Diplomatie.md). Cet effet dure un nombre de [rounds](./round.md) égal à son [modificateur d’Intelligence](./Caractéristiques.md#TABLEAUCARACTERISTIQUES). Un [jet de Volonté](./jet de sauvegarde.md) annule cet effet. Que la créature ait réussi son [jet](./../Golarion/Test.md) ou non, elle n’est plus affectée par ce maléfice pendant 1 jour. Au [niveau](./niveau.md) 8, cet effet améliore l’attitude de la cible de 2 catégories. C’est un [effet mental](./effet mental.md) de [charme](./charme.md).
+La sorcière charme une créature animale ou humanoïde située dans les 9 m en lui faisant signe et en lui murmurant des paroles apaisantes. Ceci améliore l’attitude de la créature d’une catégorie, comme si la sorcière avait réussi un [[test]] de [[Diplomatie]]. Cet effet dure un nombre de [[round|rounds]] égal à son [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur d’Intelligence]]. Un [[jet de sauvegarde|jet de Volonté]] annule cet effet. Que la créature ait réussi son [[test|jet]] ou non, elle n’est plus affectée par ce maléfice pendant 1 jour. Au [[niveau]] 8, cet effet améliore l’attitude de la cible de 2 catégories. C’est un [[effet mental]] de [[charme]].
 
 #### Chaudron (Ext)
-La sorcière reçoit [Préparation de potions](./Préparation de potions.md) comme [don](./don.md) supplémentaire et un bonus d’intuition de +4
-aux tests d’[Artisanat](./Artisanat.md) (alchimie).
+La sorcière reçoit [[Préparation de potions]] comme [[don]] supplémentaire et un bonus d’intuition de +4
+aux tests d’[[Artisanat]] (alchimie).
 
 {s:UM}{s:Reference|Cheveuxpréhensiles}
 #### Cheveux préhensiles (Sur)
@@ -145,11 +145,11 @@ Ce maléfice maudit une unique cible en lui infligeant d’horribles cicatrices,
 
 {s:Reference|Déguisement}
 #### Déguisement (Sur)
-La sorcière peut changer son apparence pendant un nombre d’heures égal à son [niveau](./niveau.md) de classe, comme si elle utilisait le sort *[déguisement](./sort Déguisement.md)*. Cette durée n’est pas forcément continue mais doit se découper en heure complètes.
+La sorcière peut changer son apparence pendant un nombre d’heures égal à son [[niveau]] de classe, comme si elle utilisait le sort *[[sort Déguisement|déguisement]]*. Cette durée n’est pas forcément continue mais doit se découper en heure complètes.
 
 {s:Reference|Dépérissement}
 #### Dépérissement (Sur)
-La sorcière maudit un [animal](./type Animal.md), une [plante](./type Plante.md) ou une parcelle de terre qui dépérit et meurt. Il faut 1 [round](./round.md) pour maudire une portion de terrain avec laquelle la sorcière et son familier doivent être en contact. Dans ce cas, la terre commence à dépérir le lendemain et, en une semaine, toutes les plantes de la zone meurent. Rien ne repousse dans cette zone tant que la malédiction persiste. La sorcière peut affecter une parcelle d’un rayon égal à son [niveau](./niveau.md) de classe × 3 m. Pour faire dépérir une créature, elle doit faire une [attaque de contact](./attaque de contact.md) au corps à corps qui nécessite une [action simple](./Action simple.md). Si la sorcière jette ce sort sur une créature de type [animal](./type Animal.md) ou [végétal](./type Plante.md), la cible est victime de la malédiction suivante :
+La sorcière maudit un [[type Animal|animal]], une [[type Plante|plante]] ou une parcelle de terre qui dépérit et meurt. Il faut 1 [[round]] pour maudire une portion de terrain avec laquelle la sorcière et son familier doivent être en contact. Dans ce cas, la terre commence à dépérir le lendemain et, en une semaine, toutes les plantes de la zone meurent. Rien ne repousse dans cette zone tant que la malédiction persiste. La sorcière peut affecter une parcelle d’un rayon égal à son [[niveau]] de classe × 3 m. Pour faire dépérir une créature, elle doit faire une [[attaque de contact]] au corps à corps qui nécessite une [[action simple]]. Si la sorcière jette ce sort sur une créature de type [[type Animal|animal]] ou [[type Plante|végétal]], la cible est victime de la malédiction suivante :
 
 <div class="BD">
 {s:BDTitre|Maléfice de dépérissement|}
@@ -157,15 +157,15 @@ La sorcière maudit un [animal](./type Animal.md), une [plante](./type Plante.md
 - **Effet** 1 point d’affaiblissement de Constitution.
 
 </div>
-On peut se débarrasser des deux types de malédiction à l’aide d’une *[délivrance des malédictions](./Délivrance des malédictions.md)* ou d’une magie similaire, en utilisant le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) comme [DD](./DD.md) pour lever la malédiction. Une sorcière ne peut maintenir qu’un dépérissement à la fois, si elle lance ce maléfice une deuxième fois, le premier se termine immédiatement.
+On peut se débarrasser des deux types de malédiction à l’aide d’une *[[délivrance des malédictions]]* ou d’une magie similaire, en utilisant le [[DD]] du [[jet de sauvegarde]] comme [[DD]] pour lever la malédiction. Une sorcière ne peut maintenir qu’un dépérissement à la fois, si elle lance ce maléfice une deuxième fois, le premier se termine immédiatement.
 
 {s:Reference|Dondeslangues}
 #### Don des langues (Sur)
-Chaque jour, une sorcière qui dispose de ce maléfice comprend tous les langages parlés pendant un nombre de minutes égal à son [niveau](./niveau.md), comme avec un sort de *[compréhension des langages](./Compréhension des langages.md)*. Cette durée n’est pas forcément continue, mais elle doit se découper en heure complète. Au [niveau](./niveau.md) 5, la sorcière peut utiliser ce pouvoir pour parler n’importe quelle langue, comme avec un *[don des langues](./Don des langues.md)*.
+Chaque jour, une sorcière qui dispose de ce maléfice comprend tous les langages parlés pendant un nombre de minutes égal à son [[niveau]], comme avec un sort de *[[compréhension des langages]]*. Cette durée n’est pas forcément continue, mais elle doit se découper en heure complète. Au [[niveau]] 5, la sorcière peut utiliser ce pouvoir pour parler n’importe quelle langue, comme avec un *[[don des langues]]*.
 
 {s:Reference|Guérison}
 #### Guérison (Sur)
-Une sorcière peut apaiser les blessures de ceux qu’elle touche, ce qui fonctionne comme un sort de *[soins légers](./Soins légers.md)* avec le [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) de la sorcière. Quand une créature a bénéficié de ce sort, elle ne peut plus en profiter pendant 24 heures. Au [niveau](./niveau.md) 5, ce maléfice fonctionne comme *[soins modérés](./Soins modérés.md)*.
+Une sorcière peut apaiser les blessures de ceux qu’elle touche, ce qui fonctionne comme un sort de *[[soins légers]]* avec le [[niveau de lanceur de sorts]] de la sorcière. Quand une créature a bénéficié de ce sort, elle ne peut plus en profiter pendant 24 heures. Au [[niveau]] 5, ce maléfice fonctionne comme *[[soins modérés]]*.
 
 {s:UM}{s:Reference|Langagesauvage}
 #### Langage sauvage (Sur)
@@ -174,11 +174,11 @@ Ce maléfice permet à la sorcière de parler à n’importe quel animal et de c
 </td><td>
 {s:Reference|Malchance}
 #### Malchance (Sur)
-La sorcière peut affliger une créature qui se trouve dans les 9 m d’une terrible malchance pendant 1 [round](./round.md). Quand la cible fait un [test](./../Golarion/Test.md) de [caractéristique](./caractéristique.md), un jet d’attaque, un [jet de sauvegarde](./jet de sauvegarde.md) ou un [test](./../Golarion/Test.md) de [compétence](./Compétences.md), elle doit lancer deux dés et choisir le pire. Un [jet de Volonté](./jet de sauvegarde.md) permet d’annuler ce maléfice. La durée de ce maléfice s’allonge d’un [round](./round.md) au niveau 8 puis au niveau 16. Que la créature ait réussi son [jet de sauvegarde](./jet de sauvegarde.md) ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
+La sorcière peut affliger une créature qui se trouve dans les 9 m d’une terrible malchance pendant 1 [[round]]. Quand la cible fait un [[test]] de [[caractéristique]], un jet d’attaque, un [[jet de sauvegarde]] ou un [[test]] de [[compétences|compétence]], elle doit lancer deux dés et choisir le pire. Un [[jet de sauvegarde|jet de Volonté]] permet d’annuler ce maléfice. La durée de ce maléfice s’allonge d’un [[round]] au niveau 8 puis au niveau 16. Que la créature ait réussi son [[jet de sauvegarde]] ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
 
 {s:Reference|Mauvaisœil}
 #### Mauvais œil (Sur)
-La sorcière peut semer le doute dans l’esprit d’un ennemi visible situé à moins de 9 m d’elle. Il subit un malus de –2 sur l’un des éléments suivants : [CA](./CA.md), [test](./../Golarion/Test.md) de [caractéristique](./caractéristique.md), jet d’attaque, [jet de sauvegarde](./jet de sauvegarde.md) ou [test](./../Golarion/Test.md) de [compétence](./Compétences.md). Ce maléfice dure un nombre de [rounds](./round.md) égal à 3 + [modificateur d’Intelligence](./Caractéristiques.md#TABLEAUCARACTERISTIQUES) de la sorcière. Un [jet de Volonté](./jet de sauvegarde.md) permet de réduire cette durée à 1 [round](./round.md). C’est un [effet mental](./effet mental.md). Au niveau 8, le malus passe à –4..
+La sorcière peut semer le doute dans l’esprit d’un ennemi visible situé à moins de 9 m d’elle. Il subit un malus de –2 sur l’un des éléments suivants : [[CA]], [[test]] de [[caractéristique]], jet d’attaque, [[jet de sauvegarde]] ou [[test]] de [[compétences|compétence]]. Ce maléfice dure un nombre de [[round|rounds]] égal à 3 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur d’Intelligence]] de la sorcière. Un [[jet de sauvegarde|jet de Volonté]] permet de réduire cette durée à 1 [[round]]. C’est un [[effet mental]]. Au niveau 8, le malus passe à –4..
 
 {s:UM}{s:Reference|Odeurdenfant}
 #### Odeur d'enfant (Ext)
@@ -198,15 +198,15 @@ Une cible terrestre peut respirer sous l’eau et une cible aquatique peut respi
 
 {s:Reference|Ricanement}
 #### Ricanement (Sur)
-Par une [action de mouvement](./Action de mouvement.md), la sorcière se met à ricaner follement. Toute créature située dans les 9 m et affectée par un maléfice d’agonie, de charme, de mauvais oeil, de chance ou de malchance lancé par cette sorcière voit la durée de cet effet augmenter d’un [round](./round.md).
+Par une [[action de mouvement]], la sorcière se met à ricaner follement. Toute créature située dans les 9 m et affectée par un maléfice d’agonie, de charme, de mauvais oeil, de chance ou de malchance lancé par cette sorcière voit la durée de cet effet augmenter d’un [[round]].
 
 {s:Reference|Sceau}
 #### Sceau (Sur)
-Une sorcière qui dispose de ce maléfice place un sceau protecteur sur une créature. Cette dernière reçoit un [bonus de parade](./Valeurs de combat.md#BONUSPARADE) de +2 à la [CA](./CA.md) et un bonus de résistance de +2 aux [jets de sauvegarde](./jet de sauvegarde.md). Le sceau demeure jusqu’à ce que la créature protégée se fasse toucher ou rate un [jet de sauvegarde](./jet de sauvegarde.md). La sorcière sait quand la créature n’est plus protégée et ne peut activer qu’un sceau de protection à la fois, si elle utilise ce pouvoir une seconde fois, les effets du premier se dissipent immédiatement. La sorcière ne peut pas utiliser le sceau sur sa propre personne. Le bonus accordé par le sceau augmente de +1 au [niveau](./niveau.md) 8 et au [niveau](./niveau.md) 16.
+Une sorcière qui dispose de ce maléfice place un sceau protecteur sur une créature. Cette dernière reçoit un [[Valeurs de combat#BONUSPARADE|bonus de parade]] de +2 à la [[CA]] et un bonus de résistance de +2 aux [[jet de sauvegarde|jets de sauvegarde]]. Le sceau demeure jusqu’à ce que la créature protégée se fasse toucher ou rate un [[jet de sauvegarde]]. La sorcière sait quand la créature n’est plus protégée et ne peut activer qu’un sceau de protection à la fois, si elle utilise ce pouvoir une seconde fois, les effets du premier se dissipent immédiatement. La sorcière ne peut pas utiliser le sceau sur sa propre personne. Le bonus accordé par le sceau augmente de +1 au [[niveau]] 8 et au [[niveau]] 16.
 
 {s:Reference|Sommeil}
 #### Sommeil (Sur)
-La sorcière peut plonger une créature qui se trouve dans les 9 m dans un *[sommeil profond](./Sommeil profond.md)*, comme avec le sort du même nom. La cible a droit à un [jet de Volonté](./jet de sauvegarde.md) pour annuler l’effet. Si elle échoue, elle s’endort pendant un nombre de [rounds](./round.md) égal au [niveau](./niveau.md) de la sorcière. Ce maléfice affecte les créatures quel que soit leur nombre de [DV](./../Ressources/DV.md). La créature ne se réveille pas à cause du bruit ni de la lumière, mais une tierce personne peut la réveiller par une [action simple](./Action simple.md). Tout dégât infligé à la cible met immédiatement un terme au maléfice. Que la créature ait réussi son [jet de sauvegarde](./jet de sauvegarde.md) ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
+La sorcière peut plonger une créature qui se trouve dans les 9 m dans un *[[sommeil profond]]*, comme avec le sort du même nom. La cible a droit à un [[jet de sauvegarde|jet de Volonté]] pour annuler l’effet. Si elle échoue, elle s’endort pendant un nombre de [[round|rounds]] égal au [[niveau]] de la sorcière. Ce maléfice affecte les créatures quel que soit leur nombre de [[DV]]. La créature ne se réveille pas à cause du bruit ni de la lumière, mais une tierce personne peut la réveiller par une [[action simple]]. Tout dégât infligé à la cible met immédiatement un terme au maléfice. Que la créature ait réussi son [[jet de sauvegarde]] ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
 
 {s:UM}{s:Reference|Sorcièredumarais}
 #### Sorcière du marais (Mag)
@@ -219,7 +219,7 @@ La sorcière peut utiliser son chaudron pour fabriquer une immonde toxine dans l
 {s:Reference|Vol}
 #### Vol (Sur)
 Plus la sorcière gagne en puissance, plus elle devient légère et elle finit par être capable de voler. Au
-[niveau](./niveau.md) 1, elle peut utiliser *[feuille morte](./Feuille morte.md)* à volonté et gagne un bonus racial de +4 aux tests de [Natation](./Natation.md). Au [niveau](./niveau.md) 3, elle peut lancer *[lévitation](./Lévitation.md)* une fois par jour. Au [niveau](./niveau.md) 5, elle peut voler chaque jour, comme avec le sort de *[vol](./Vol.md)*, un nombre de minutes égal à son [niveau](./niveau.md). Cette durée n’est pas forcément continue mais doit se découper en minutes complètes. Ce maléfice n’affecte que la sorcière.
+[[niveau]] 1, elle peut utiliser *[[feuille morte]]* à volonté et gagne un bonus racial de +4 aux tests de [[Natation]]. Au [[niveau]] 3, elle peut lancer *[[lévitation]]* une fois par jour. Au [[niveau]] 5, elle peut voler chaque jour, comme avec le sort de *[[vol]]*, un nombre de minutes égal à son [[niveau]]. Cette durée n’est pas forcément continue mais doit se découper en minutes complètes. Ce maléfice n’affecte que la sorcière.
 </td></tr></table>
 
 {s:Reference|MALEFICEMAJEUR}
@@ -230,7 +230,7 @@ Plus la sorcière gagne en puissance, plus elle devient légère et elle finit p
 <table class="page espace-col deuxcol"><tr><td>
 {s:Reference|Agonie}
 #### Agonie (Sur)
-Accompagné de quelques paroles rapides, la sorcière peut lancer ce maléfice sur une créature qui se trouve à moins de 18 m et lui inflige ainsi d’immenses souffrances. La cible est [nauséeuse](./Nauséeux.md) pendant un nombre de [rounds](./round.md) égal au [niveau](./niveau.md) de la sorcière. Un [jet de Vigueur](./jet de sauvegarde.md) permet d’annuler cet effet. Si la cible rate son jet, elle peut en refaire un à chaque [round](./round.md) pour mettre un terme à la nausée. Que la créature ait réussi son [jet de sauvegarde](./jet de sauvegarde.md) ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
+Accompagné de quelques paroles rapides, la sorcière peut lancer ce maléfice sur une créature qui se trouve à moins de 18 m et lui inflige ainsi d’immenses souffrances. La cible est [[nauséeux|nauséeuse]] pendant un nombre de [[round|rounds]] égal au [[niveau]] de la sorcière. Un [[jet de sauvegarde|jet de Vigueur]] permet d’annuler cet effet. Si la cible rate son jet, elle peut en refaire un à chaque [[round]] pour mettre un terme à la nausée. Que la créature ait réussi son [[jet de sauvegarde]] ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
 
 {s:UM}{s:Reference|Blessuresinfectées}
 #### Blessures infectées (Sur)
@@ -242,11 +242,11 @@ Quand la sorcière utilise son chaudron pour préparer une potion, elle peut dou
 
 {s:Reference|Cauchemars}
 #### Cauchemars (Sur)
-La sorcière fait appel à de viles puissances pour lancer un maléfice sur une créature qui se trouve à 18 m. Le sommeil de la malheureuse est alors troublé par d’horribles cauchemars. Ce pouvoir fonctionne comme un sort de *[cauchemar](./sort Cauchemar.md)* à chaque fois que la victime essaye de dormir. Un [jet de Volonté](./jet de sauvegarde.md) annule cet effet. Si la cible le rate, elle peut en refaire un chaque nuit, sans quoi, elle n’arrive pas à se reposer.
+La sorcière fait appel à de viles puissances pour lancer un maléfice sur une créature qui se trouve à 18 m. Le sommeil de la malheureuse est alors troublé par d’horribles cauchemars. Ce pouvoir fonctionne comme un sort de *[[sort cauchemar|cauchemar]]* à chaque fois que la victime essaye de dormir. Un [[jet de sauvegarde|jet de Volonté]] annule cet effet. Si la cible le rate, elle peut en refaire un chaque nuit, sans quoi, elle n’arrive pas à se reposer.
 
 {s:Reference|Contrôleduclimat}
 #### Contrôle du climat (Sur)
-Une sorcière qui dispose de ce maléfice peut lancer *[contrôle du climat](./Contrôle du climat.md)* une fois par jour, mais pour cela, elle doit psalmodier, danser et communier avec son familier pendant une heure.
+Une sorcière qui dispose de ce maléfice peut lancer *[[contrôle du climat]]* une fois par jour, mais pour cela, elle doit psalmodier, danser et communier avec son familier pendant une heure.
 
 {s:UM}{s:Reference|Couvertdegivre}
 #### Couvert de givre (Sur)
@@ -262,11 +262,11 @@ La sorcière peut cacher ou déguiser sa maison et la zone qui l’entoure, comm
 
 {s:Reference|Guérisonmajeure}
 #### Guérison majeure (Sur)
-La sorcière fait appel à des pouvoirs étranges et soigne les blessures les plus graves d’un simple contact. Ce pouvoir fonctionne comme *[soins importants](./Soins importants.md)* et utilise le [niveau](./niveau.md) de la sorcière comme [niveau de lanceur de sorts](./niveau de lanceur de sorts.md). Quand une créature a bénéficié de ce maléfice, elle ne peut plus en profiter pendant 24 heures. Pour une sorcière de [niveau](./niveau.md) 15, la guérison majeure fonctionne comme des *[soins intensifs](./Soins intensifs.md)*.
+La sorcière fait appel à des pouvoirs étranges et soigne les blessures les plus graves d’un simple contact. Ce pouvoir fonctionne comme *[[soins importants]]* et utilise le [[niveau]] de la sorcière comme [[niveau de lanceur de sorts]]. Quand une créature a bénéficié de ce maléfice, elle ne peut plus en profiter pendant 24 heures. Pour une sorcière de [[niveau]] 15, la guérison majeure fonctionne comme des *[[soins intensifs]]*.
 
 {s:Reference|Oeildeguenaude}
 #### Oeil de guenaude (Sur)
-La sorcière qui possède ce maléfice crée un capteur magique visuel. Ceci fonctionne comme le sort *[oeil du mage](./oeil-du-mage.md)*. Si la sorcière dispose du maléfice [cercle](./maléfices.md#Cercle_Ext_0), toutes les sorcières qui se trouvent dans les 9 met possèdent aussi le maléfice de [cercle](./maléfices.md#Cercle_Ext_0) peuvent voir à travers ce capteur, même si seule la sorcière qui l’a créé peut le contrôler. Chaque jour, elle peut utiliser cet oeil pendant un nombre de minutes égal à son [niveau](./niveau.md) de classe. Cette durée n’est pas forcément continue mais doit se découper en minutes complètes.
+La sorcière qui possède ce maléfice crée un capteur magique visuel. Ceci fonctionne comme le sort *[[oeil du mage]]*. Si la sorcière dispose du maléfice [[maléfices#Cercle_Ext_0|cercle]], toutes les sorcières qui se trouvent dans les 9 met possèdent aussi le maléfice de [[maléfices#Cercle_Ext_0|cercle]] peuvent voir à travers ce capteur, même si seule la sorcière qui l’a créé peut le contrôler. Chaque jour, elle peut utiliser cet oeil pendant un nombre de minutes égal à son [[niveau]] de classe. Cette durée n’est pas forcément continue mais doit se découper en minutes complètes.
 </td><td>
 {s:UM}{s:Reference|OEildelabête}
 #### OEil de la bête (Sur)
@@ -279,12 +279,12 @@ La sorcière peut entrer en contact avec une créature comme si elle utilisait s
 
 {s:Reference|Poupéedecire}
 #### Poupée de cire (Sur)
-La sorcière peut passer une [action complexe](./Action complexe.md) à modeler une réplique de cire grossière mais
-inquiétante d’une créature visible située dans les 9 m. Une fois la réplique terminée, la cible doit faire un [jet de Volonté](./jet de sauvegarde.md). Si elle échoue, la sorcière exerce un contrôle limité sur elle. À chaque fois qu’elle décide de se servir de ce contrôle, la cible a droit à un nouveau [jet de sauvegarde](./jet de sauvegarde.md) pour mettre fin à l’effet. Ce dernier se déclenche au tour de la sorcière et n’empêche pas sa cible d’agir comme elle le souhaite à son tour. La sorcière peut utiliser la poupée de cire un nombre de fois égal à son [modificateur d’Intelligence](./Caractéristiques.md#TABLEAUCARACTERISTIQUES) avant qu’elle ne fonde. Par une [action simple](./Action simple.md), la sorcière peut obliger sa cible à exécuter l’un des ordres suivants : se déplacer à sa vitesse dans n’importe quelle direction, s’attaquer une seule fois avec n’importe quelle arme déjà en main (cette attaque touche automatiquement), se coucher par terre ou lâcher tout ce qu’elle tient. Sinon, la sorcière peut se servir d’une de ses utilisations de la poupée pour la torturer. La créature est alors [fiévreuse](./Fiévreux.md) et [chancelante](./Chancelant.md) quand vient son tour. Dès que la créature a réussi un [jet de sauvegarde](./jet de sauvegarde.md) contre cet effet, elle est immunisée pendant 24 heures. C’est un effet d’[enchantement](./Enchantement.md) ([coercition](./coercition.md)).
+La sorcière peut passer une [[action complexe]] à modeler une réplique de cire grossière mais
+inquiétante d’une créature visible située dans les 9 m. Une fois la réplique terminée, la cible doit faire un [[jet de sauvegarde|jet de Volonté]]. Si elle échoue, la sorcière exerce un contrôle limité sur elle. À chaque fois qu’elle décide de se servir de ce contrôle, la cible a droit à un nouveau [[jet de sauvegarde]] pour mettre fin à l’effet. Ce dernier se déclenche au tour de la sorcière et n’empêche pas sa cible d’agir comme elle le souhaite à son tour. La sorcière peut utiliser la poupée de cire un nombre de fois égal à son [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur d’Intelligence]] avant qu’elle ne fonde. Par une [[action simple]], la sorcière peut obliger sa cible à exécuter l’un des ordres suivants : se déplacer à sa vitesse dans n’importe quelle direction, s’attaquer une seule fois avec n’importe quelle arme déjà en main (cette attaque touche automatiquement), se coucher par terre ou lâcher tout ce qu’elle tient. Sinon, la sorcière peut se servir d’une de ses utilisations de la poupée pour la torturer. La créature est alors [[fiévreux|fiévreuse]] et [[chancelant|chancelante]] quand vient son tour. Dès que la créature a réussi un [[jet de sauvegarde]] contre cet effet, elle est immunisée pendant 24 heures. C’est un effet d’[[enchantement]] ([[coercition]]).
 
 {s:Reference|Représailles}
 #### Représailles (Sur)
-La sorcière lance un maléfice de représailles sur une créature située dans les 18 m pour que de terribles blessures s’ouvrent dans sa chair à chaque fois qu’elle inflige des dégâts au [corps à corps](./Actions simples.md#Attaques_au_corps_à_corps_0) à une autre créature. Tout de suite après que la cible a fait des dégâts au [corps à corps](./Actions simples.md#Attaques_au_corps_à_corps_0), elle reçoit la moitié des dégâts infligés (arrondi à l’inférieur). Ces dégâts ignorent toute résistance, [immunités](./Immunité.md) ou [réduction de dégâts](./réduction de dégâts.md) de la créature. Cet effet dure un nombre de [rounds](./round.md) égal au modificateur d’Intelligence de la sorcière. Un [jet de Volonté](./jet de sauvegarde.md) permet d’annuler cet effet.
+La sorcière lance un maléfice de représailles sur une créature située dans les 18 m pour que de terribles blessures s’ouvrent dans sa chair à chaque fois qu’elle inflige des dégâts au [[Actions simples#Attaques_au_corps_à_corps_0|corps à corps]] à une autre créature. Tout de suite après que la cible a fait des dégâts au [[Actions simples#Attaques_au_corps_à_corps_0|corps à corps]], elle reçoit la moitié des dégâts infligés (arrondi à l’inférieur). Ces dégâts ignorent toute résistance, [[immunité|immunités]] ou [[réduction de dégâts]] de la créature. Cet effet dure un nombre de [[round|rounds]] égal au modificateur d’Intelligence de la sorcière. Un [[jet de sauvegarde|jet de Volonté]] permet d’annuler cet effet.
 
 {s:UM}{s:Reference|Tombedeglace}
 #### Tombe de glace (Sur)
@@ -292,7 +292,7 @@ Une tempête de glace enveloppe la cible tandis que des vents glacials la fouail
 
 {s:Reference|Vision}
 #### Vision (Sur)
-Une sorcière qui dispose du maléfice de vision peut donner un aperçu du futur à la créature qu’elle touche. Il lui faut 1 minute pour accorder une vision. La sorcière et son sujet doivent rester en contact pendant tout ce temps. Ensuite, le sujet reçoit une brève image du futur, généralement pas plus d’un an en avance, au choix du [MJ](./MJ.md). Ce n’est qu’une version possible du futur, ces visions sont donc peu sûres, au mieux. La plupart des visions s’orientent selon l’[alignement](./Alignement.md) de la sorcière qui les donne. Par exemple, les visions accordées par une sorcière [Chaotique Mauvaise](./Alignement.md#Chaotique Mauvais) montrent souvent des scènes de carnage et de destruction alors que celles d’une sorcière [Neutre Bonne](./Alignement.md#Neutre Bon) représentent plutôt des évènements joyeux. Une créature ne peut plus recevoir de vision tant que la première reçue ne s’est pas réalisée ou n’a pas été empêchée. La sorcière ne peut pas utiliser ce pouvoir sur elle-même. Les créatures non consentantes ont droit à un [jet de Volonté](./jet de sauvegarde.md) pour annuler la vision.
+Une sorcière qui dispose du maléfice de vision peut donner un aperçu du futur à la créature qu’elle touche. Il lui faut 1 minute pour accorder une vision. La sorcière et son sujet doivent rester en contact pendant tout ce temps. Ensuite, le sujet reçoit une brève image du futur, généralement pas plus d’un an en avance, au choix du [[MJ]]. Ce n’est qu’une version possible du futur, ces visions sont donc peu sûres, au mieux. La plupart des visions s’orientent selon l’[[alignement]] de la sorcière qui les donne. Par exemple, les visions accordées par une sorcière [[Alignement#Chaotique Mauvais|Chaotique Mauvaise]] montrent souvent des scènes de carnage et de destruction alors que celles d’une sorcière [[Alignement#Neutre Bon|Neutre Bonne]] représentent plutôt des évènements joyeux. Une créature ne peut plus recevoir de vision tant que la première reçue ne s’est pas réalisée ou n’a pas été empêchée. La sorcière ne peut pas utiliser ce pouvoir sur elle-même. Les créatures non consentantes ont droit à un [[jet de sauvegarde|jet de Volonté]] pour annuler la vision.
 </td></tr></table>
 
 {s:Reference|GRANDMALEFICE}
@@ -306,11 +306,11 @@ La sorcière fait appel au fantôme d’une créature humanoïde qui ne possède
 
 {s:Reference|Désastrenaturel}
 #### Désastre naturel (Sur)
-Une sorcière qui utilise ce maléfice fait appel aux forces de la nature pour semer le chaos dans une zone. Ceci fonctionne comme une *[tempête vengeresse](./Tempête vengeresse.md)* combinée à un *[tremblement de terre](./Tremblement de terre.md)* qui se déclenche au deuxième [round](./round.md) de l’effet (alors qu’il pleut de l’acide). La sorcière doit se concentrer pendant toute la durée de l’effet. Si elle perd sa [concentration](./concentration.md), l’effet se termine immédiatement. La sorcière ne peut utiliser ce pouvoir qu’une fois par jour.
+Une sorcière qui utilise ce maléfice fait appel aux forces de la nature pour semer le chaos dans une zone. Ceci fonctionne comme une *[[tempête vengeresse]]* combinée à un *[[tremblement de terre]]* qui se déclenche au deuxième [[round]] de l’effet (alors qu’il pleut de l’acide). La sorcière doit se concentrer pendant toute la durée de l’effet. Si elle perd sa [[concentration]], l’effet se termine immédiatement. La sorcière ne peut utiliser ce pouvoir qu’une fois par jour.
 
 {s:Reference|Donneusedevie}
 #### Donneuse de vie (Sur)
-Une fois par jour, par une [action complexe](./Action complexe.md), la sorcière peut toucher une créature morte pour la ramener à la vie. Ce sort fonctionne comme une [résurrection](./Résurrection.md) mais ne nécessite pas de [composante matérielle](./composante matérielle.md).
+Une fois par jour, par une [[action complexe]], la sorcière peut toucher une créature morte pour la ramener à la vie. Ce sort fonctionne comme une [[résurrection]] mais ne nécessite pas de [[composante matérielle]].
 
 {s:UM}{s:Reference|Huttedelasorcière}
 #### Hutte de la sorcière (Sur)
@@ -321,11 +321,11 @@ cachées derrière des murs illusoires et fermées par des verrous magiques) et 
 {s:Reference|Malédictionmortelle}
 #### Malédiction mortelle (Sur)
 Ce puissant maléfice s’empare du cœur d’une créature et provoque sa mort en quelques instants.
-Il a une portée de 9 m. La victime du maléfice a droit à un [jet de sauvegarde](./jet de sauvegarde.md) pour annuler l’effet. Si elle le rate, elle devient [fatiguée](./Fatigué.md) au premier [round](./round.md) d’effet. Au deuxième, elle est [épuisée](./Épuisé.md) et au troisième elle meurt, à moins de réussir un [jet de Vigueur](./jet de sauvegarde.md). Une créature qui rate son premier [jet de sauvegarde](./jet de sauvegarde.md) mais réussit le deuxième reste [épuisée](./Épuisé.md) et subit 4d6 points de dégâts + 1 point par [niveau](./niveau.md) de sorcière. On peut mettre un terme à l’effet en tuant la sorcière qui a lancé le maléfice mais les effets de [fatigue](./Fatigué.md) ou d’[épuisement](./Épuisé.md) demeurent. Que la créature ait réussi son [jet de sauvegarde](./jet de sauvegarde.md) ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
+Il a une portée de 9 m. La victime du maléfice a droit à un [[jet de sauvegarde]] pour annuler l’effet. Si elle le rate, elle devient [[fatigué|fatiguée]] au premier [[round]] d’effet. Au deuxième, elle est [[épuisé|épuisée]] et au troisième elle meurt, à moins de réussir un [[jet de sauvegarde|jet de Vigueur]]. Une créature qui rate son premier [[jet de sauvegarde]] mais réussit le deuxième reste [[épuisé|épuisée]] et subit 4d6 points de dégâts + 1 point par [[niveau]] de sorcière. On peut mettre un terme à l’effet en tuant la sorcière qui a lancé le maléfice mais les effets de [[fatigué|fatigue]] ou d’[[épuisé|épuisement]] demeurent. Que la créature ait réussi son [[jet de sauvegarde]] ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
 </td><td>
 {s:Reference|Réincarnationforcée}
 #### Réincarnation forcée (Sur)
-La sorcière oblige une créature qui se trouve dans les 9 m à mourir et se réincarner immédiatement dans un nouveau corps. Un [jet de Volonté](./jet de sauvegarde.md) permet d’annuler cet effet. La cible qui échoue meurt et se réincarne comme par un sort de *[réincarnation](./Réincarnation.md)*. Que la créature ait réussi son [jet de sauvegarde](./jet de sauvegarde.md) ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
+La sorcière oblige une créature qui se trouve dans les 9 m à mourir et se réincarner immédiatement dans un nouveau corps. Un [[jet de sauvegarde|jet de Volonté]] permet d’annuler cet effet. La cible qui échoue meurt et se réincarne comme par un sort de *[[réincarnation]]*. Que la créature ait réussi son [[jet de sauvegarde]] ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
 
 {s:UM}{s:Reference|Sinistreprophétie}
 #### Sinistre prophétie (Sur)
@@ -334,5 +334,5 @@ d’appliquer ce malus avant que la victime ne fasse le jet de dé à modifier. 
 
 {s:Reference|Sommeiléternel}
 #### Sommeil éternel (Sur)
-La sorcière peut toucher une créature pour la plonger dans un *[sommeil profond](./Sommeil profond.md)* permanent. La cible a droit à un [jet de Volonté](./jet de sauvegarde.md) pour annuler cet effet. Si elle échoue, elle s’endort et il est impossible de la réveiller. Il est impossible de dissiper cet effet à moins d’un *[souhait](./Souhait.md)* ou d’une magie similaire. On peut aussi tuer la sorcière pour mettre un terme à l’effet. La sorcière peut utiliser ce pouvoir pour empoisonner de la nourriture ou de la boisson. Une personne qui consomme ces aliments doit faire un [jet de sauvegarde](./jet de sauvegarde.md) ou s’endormir pour toujours. La sorcière ne peut avoir qu’une dose de poison active à la fois et il perd toute virulence s’il n’est pas consommé dans la minute. Que la créature ait réussi son [jet de sauvegarde](./jet de sauvegarde.md) ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
+La sorcière peut toucher une créature pour la plonger dans un *[[sommeil profond]]* permanent. La cible a droit à un [[jet de sauvegarde|jet de Volonté]] pour annuler cet effet. Si elle échoue, elle s’endort et il est impossible de la réveiller. Il est impossible de dissiper cet effet à moins d’un *[[souhait]]* ou d’une magie similaire. On peut aussi tuer la sorcière pour mettre un terme à l’effet. La sorcière peut utiliser ce pouvoir pour empoisonner de la nourriture ou de la boisson. Une personne qui consomme ces aliments doit faire un [[jet de sauvegarde]] ou s’endormir pour toujours. La sorcière ne peut avoir qu’une dose de poison active à la fois et il perd toute virulence s’il n’est pas consommé dans la minute. Que la créature ait réussi son [[jet de sauvegarde]] ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
 </td></tr></table>

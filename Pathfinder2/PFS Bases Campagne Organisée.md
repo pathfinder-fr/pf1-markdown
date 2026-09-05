@@ -35,7 +35,7 @@ Les tags sont des marqueurs qui apparaissent à la fois sur la page d'achat d'un
 
 **Faction** : Les scénarios avec ce tag indiquent une ou plusieurs factions associées - par exemple, "Faction (Alliance des Émissaires)". Ce tag indique généralement des scénarios avec un bonus de réputation supplémentaire pour les factions associées.
 
-**Glyphe** : Les scénarios avec ce tag contribuent à l'une des façons dont les MJ peuvent gagner 5 Glyphes. (Voir [<u>Glyphes de MJ</u>](./PFSP2-Bases-du-MJ.md))
+**Glyphe** : Les scénarios avec ce tag contribuent à l'une des façons dont les MJ peuvent gagner 5 Glyphes. (Voir [[PFSP2 Bases du MJ|<u>Glyphes de MJ</u>]])
 
 **Rejouable** (*Repeatable*) : Les scénarios avec ce tag peuvent être rejoués un nombre illimité de fois (mais une seule fois par personnage). Les MJ reçoivent une Chronique à chaque fois qu'ils exécutent un scénario avec ce tag, mais ne peuvent appliquer ses bénéfices qu'une seule fois à un personnage donné.
 
@@ -73,14 +73,14 @@ Les parties ne peuvent pas être jouées avec huit joueurs ou plus. Si huit joue
 
 ### Avant la Partie
 
-Lorsque vous vous asseyez pour participer à une partie, prenez le temps de vous présenter et de déterminer lequel de vos personnages du niveau de l'aventure vous souhaitez jouer. Le MJ doit vous faire circuler une feuille d'inscription, sur laquelle vous devez noter des informations de base telles que le nom de votre personnage, votre identifiant de Campagne Organisée, le numéro d'identification de votre personnage, son niveau et la faction choisie. Pendant ce temps, vous devez également décider si vous utilisez la [<u>Progression Standard ou la Progression Lente</u>](./PFSP2-Bases-Campagne-Organisée.md).
+Lorsque vous vous asseyez pour participer à une partie, prenez le temps de vous présenter et de déterminer lequel de vos personnages du niveau de l'aventure vous souhaitez jouer. Le MJ doit vous faire circuler une feuille d'inscription, sur laquelle vous devez noter des informations de base telles que le nom de votre personnage, votre identifiant de Campagne Organisée, le numéro d'identification de votre personnage, son niveau et la faction choisie. Pendant ce temps, vous devez également décider si vous utilisez la [[PFSP2 Bases Campagne Organisée|<u>Progression Standard ou la Progression Lente</u>]].
 
 
 ### Points d'Héroïsme
 
 Au début d'une aventure, chaque joueur reçoit 1 Point d'Héroïsme. Les MJ peuvent ensuite distribuer des Points d'Héroïsme supplémentaires tout au long de la session en récompense des exploits des personnages, à raison d'environ 1 Point d'Héroïsme par heure de jeu. Lorsque vous distribuez des Points d'Héroïsme, essayez de les répartir sur toute la table plutôt que de donner la plupart des points à un seul joueur.
 
-Les joueurs qui ont gagné des glyphes de MJ peuvent distribuer un Points d'Héroïsme supplémentaire par glyphe au début de l'aventure, lorsque les avantages sont choisis.  Mais aucun joueur ne peut recevoir plus d'un Points d'Héroïsme de cette façon par aventure. Voir les [<u>Récompenses de Glyphes de MJ</u>](./PFSP2-Bases-du-MJ.md).
+Les joueurs qui ont gagné des glyphes de MJ peuvent distribuer un Points d'Héroïsme supplémentaire par glyphe au début de l'aventure, lorsque les avantages sont choisis.  Mais aucun joueur ne peut recevoir plus d'un Points d'Héroïsme de cette façon par aventure. Voir les [[PFSP2 Bases du MJ|<u>Récompenses de Glyphes de MJ</u>]].
 
 
 ### Un Personnage par Aventure
@@ -177,14 +177,14 @@ Une quête peut accorder jusqu'à 1 point de *Fame* et 1 de Réputation. Un scé
 {s:Reference|INTERMEDE}
 #### Intermède
 
-Après chaque aventure, votre personnage a le droit à une période d'intermède, qui est une mesure du temps qui passe entre les aventures. Une quête donne droit à 2 jours d'intermède, un scénario à 8 jours, et une Aventure ou un *Adenture Path* homologués donnent généralement droit à 24 jours d'intermède. Si votre personnage est un [<u>agent nommé sur le terrain</u>](./PFSP2-Bases-du-Joueur.md#AGENT_TERRAIN) (plutôt que d'avoir suivi sa formation auprès des [<u>Écoles d'Éclaireurs des Parchemins, des Sorts et des Épées</u>](./PFSP2-Bases-du-Joueur.md#FORMATION)), il gagne 50% de durée d'intermède supplémentaire, soit 3, 12 et 36 jours respectivement.
+Après chaque aventure, votre personnage a le droit à une période d'intermède, qui est une mesure du temps qui passe entre les aventures. Une quête donne droit à 2 jours d'intermède, un scénario à 8 jours, et une Aventure ou un *Adenture Path* homologués donnent généralement droit à 24 jours d'intermède. Si votre personnage est un [[PFSP2 Bases du Joueur#AGENT_TERRAIN|<u>agent nommé sur le terrain</u>]] (plutôt que d'avoir suivi sa formation auprès des [[PFSP2 Bases du Joueur#FORMATION|<u>Écoles d'Éclaireurs des Parchemins, des Sorts et des Épées</u>]]), il gagne 50% de durée d'intermède supplémentaire, soit 3, 12 et 36 jours respectivement.
 
-Un personnage peut utiliser le temps d'intermède de différentes manières, notamment en utilisant les compétences d'Artisanat, de Gagner un Revenu et de réapprentissage du *Livre de Base Pathfinder*. L'intermède doit être utilisé à la fin de la session ou il est perdu; il ne peut être accumulé pour une utilisation ultérieure. (Voir [<u>Intermède</u>](./PFSP2-Bases-du-Joueur.md#INTERMEDE)) Cependant, les joueurs peuvent utiliser leur intermède pour commencer ou continuer une activité telle que la Fabrication d'un objet qui nécessite une durée d'intermède étalée sur plusieurs aventures.
+Un personnage peut utiliser le temps d'intermède de différentes manières, notamment en utilisant les compétences d'Artisanat, de Gagner un Revenu et de réapprentissage du *Livre de Base Pathfinder*. L'intermède doit être utilisé à la fin de la session ou il est perdu; il ne peut être accumulé pour une utilisation ultérieure. (Voir [[PFSP2 Bases du Joueur#INTERMEDE|<u>Intermède</u>]]) Cependant, les joueurs peuvent utiliser leur intermède pour commencer ou continuer une activité telle que la Fabrication d'un objet qui nécessite une durée d'intermède étalée sur plusieurs aventures.
 
 
 #### Trésor
 
-Contrairement à une partie traditionnelle dans laquelle les PJ se partagent les objets magiques et autres butins récupérés, La Société des Éclaireurs attribue à chaque PJ une somme de pièces d'or dépendant de leur niveau respectif (voir [<u>Trésors</u>](./PFSP2-Bases-du-MJ.md)). Plutôt que de répartir les objets magiques de manière inégale, les PJ ont tous accès aux trésors spéciaux trouvés, représentés par les objets énumérés dans la Chronique ; il suffit d'acheter l'objet en utilisant l'or accumulé de votre PJ. À la fin de l'aventure, le MJ raye tous les objets que les PJ n'ont pas découverts.
+Contrairement à une partie traditionnelle dans laquelle les PJ se partagent les objets magiques et autres butins récupérés, La Société des Éclaireurs attribue à chaque PJ une somme de pièces d'or dépendant de leur niveau respectif (voir [[PFSP2 Bases du MJ|<u>Trésors</u>]]). Plutôt que de répartir les objets magiques de manière inégale, les PJ ont tous accès aux trésors spéciaux trouvés, représentés par les objets énumérés dans la Chronique ; il suffit d'acheter l'objet en utilisant l'or accumulé de votre PJ. À la fin de l'aventure, le MJ raye tous les objets que les PJ n'ont pas découverts.
 
 {s:Reference|ACHAT}
 #### Guide d'achat
@@ -196,7 +196,7 @@ Vous pouvez toujours acheter les articles suivants à condition de faire partie 
 •	Tout objet figurant sur les Chroniques de votre personnage avec un niveau d'objet égal ou inférieur au niveau de votre personnage +2. Certains objets figurant sur les Chroniques ne sont disponibles à l'achat qu'un nombre limité de fois. Les Armes et Armures présentes sur les Chroniques peuvent être améliorées en suivant les règles normales d'amélioration.
 •	Tous les objets et services achetés avec de la *Fame*.
 
-Notez que l'accumulation d'Infamie peut réduire le niveau effectif du personnage lors de l'achat d'équipement (voir [<u>Infamie et Infractions d'Alignement</u>](./PFSP2-Bases-du-MJ.md)).
+Notez que l'accumulation d'Infamie peut réduire le niveau effectif du personnage lors de l'achat d'équipement (voir [[PFSP2 Bases du MJ|<u>Infamie et Infractions d'Alignement</u>]]).
 
 #### Créer et transférer des Runes
 
@@ -212,10 +212,10 @@ Après avoir terminé une aventure Pathfinder Society, les joueurs et le MJ reç
 
 {s:ImageExt|http://www.organizedplayfoundation.org/wp-content/uploads/2019/07/Chronicle-Sheet-Reference-768x919.png|40%|centre}
 
-Les sections d'une Chronique sont détaillées ci-dessous. Les sections marquées d'un astérisque (*) concernent certains éléments que les MJ doivent traiter avant que les joueurs ne quittent la table, soit en les remplissant eux-mêmes, soit en demandant aux joueurs de remplir les informations appropriées. Les joueurs peuvent remplir les autres sections entre les sessions. De plus amples informations sur les récompenses des joueurs évoquées dans cette section figurent sur la page [<u>Récompenses des joueurs</u>](./PFSP2-Bases-du-Joueur.md).
+Les sections d'une Chronique sont détaillées ci-dessous. Les sections marquées d'un astérisque (*) concernent certains éléments que les MJ doivent traiter avant que les joueurs ne quittent la table, soit en les remplissant eux-mêmes, soit en demandant aux joueurs de remplir les informations appropriées. Les joueurs peuvent remplir les autres sections entre les sessions. De plus amples informations sur les récompenses des joueurs évoquées dans cette section figurent sur la page [[PFSP2 Bases du Joueur|<u>Récompenses des joueurs</u>]].
 
 A. **Character Chronicle #** : Numéro de Chronique pour ce personnage. Les joueurs peuvent utiliser cette section pour numéroter leurs Chroniques comme ils l'entendent pour les aider à suivre l'ordre de leurs aventures.\
-B. **Herolab Code** : Dans le futur, ce code permettra une meilleure synchronisation entre vos Chroniques et le programme de création de personnage [<u>HeroLab</u>](herolabhttps://www.wolflair.com/hlo/).\
+B. **Herolab Code** : Dans le futur, ce code permettra une meilleure synchronisation entre vos Chroniques et le programme de création de personnage [[HeroLabhttps://www.wolflair.com/hlo/|<u>HeroLab</u>]].\
 C. **Player Name*** : Nom du joueur IRL\
 D. **Character Name** : Nom du PJ qui reçoit les bénéfices de l'aventure\
 E. **Organized Play #*** : Numéro d'identification du joueur pour la Campagne Organisée. C'est le même numéro pour les deux éditions de Pathfinder Society, Starfinder Society et Pathfinder Adventure Card Society.\
@@ -226,7 +226,7 @@ H. **Adventure Summary*** : Cette section résume les évènements de la partie.
 *Instructions pour MJ* : Parfois, cette section contiendra des cases à cocher représentant les choix des joueurs. Ces cases doivent être choisies avant que les joueurs quittent la partie.\
 I. **Boons*** : Cette section liste les *boons* (avantages) spéciaux que le personnage a gagnés et qu'il peut utiliser dans de futures aventures.\
 *Instructions pour MJ* : La section "Ressources du MJ" des scénarios précise comment les joueurs peuvent gagner les avantages/*boons* décrits sur la Chronique. Rayez les avantages/*boons* que les joueurs n'ont pas obtenus.\
-J. **Items*** : Les objets listés dans cette section deviennent accessibles aux PJ. Ils peuvent se les procurer si le niveau des objets est égal ou inférieur à leur niveau +2, tant qu'ils n'ont pas acquis d'Infamie (voir [<u>Infamie et Infractions d'Alignement</u>](./PFSP2-Bases-du-MJ.md)).\
+J. **Items*** : Les objets listés dans cette section deviennent accessibles aux PJ. Ils peuvent se les procurer si le niveau des objets est égal ou inférieur à leur niveau +2, tant qu'ils n'ont pas acquis d'Infamie (voir [[PFSP2 Bases du MJ|<u>Infamie et Infractions d'Alignement</u>]]).\
 *Instructions pour MJ* : Rayez les objets que les joueurs n'ont pas trouvés durant le scénario. Les joueurs perdent l'accès à un objet seulement s'ils n'ont pas trouvé le Trésor qui correspond à cet objet, sauf mention contraire dans la section "Ressources du MJ".\
 K. **Purchases*** : Cette section trace les objets que les joueurs achètent et vendent, ainsi que les états dont ils ont été affligés ou dont ils se sont débarrassés. Les joueurs sont libres d'acheter et vendre des objets entre les parties. Si vous n'avez pas assez de place dans l'encadré de la Chronique, vous pouvez continuer au verso ou tout inscrire au verso et inscrire le total dans l'encadré.\
 *Instructions pour MJ* : Si le joueur a été affligé ou débarrassé d'un état qui peut persister entre les parties, indiquez-le dans cet encadré.\
@@ -257,7 +257,7 @@ Les plaintes en rapport avec ces normes doivent être portées à l'attention de
 
 Aucun élément de ce règlement n'a pour but de décourager quiconque d'appeler la police ou d'autres organisations appropriées. Les organisateurs d'événements ou les *Venture-Officers* sont à la disposition des participants pour les aider à contacter les services de police locaux, leur fournir une escorte ou aider de toute autre manière les personnes victimes de harcèlement à se sentir en sécurité pendant la durée de l'événement. Votre participation aux évènements est importante pour nous.
 
-Bien que cela ne soit pas forcément illégal ou inapproprié, nous reconnaissons que la campagne organisée de la Pathfinder Society évoque des thèmes qui peuvent entraîner des situations inconfortables à la table de jeu. Dans ces cas-là, nous demandons aux joueurs de rapporter le problème au maître de jeu de la table (MJ), que ce soit oralement ou en lui faisant passer une note. Nous demandons que les MJ aident le groupe à respecter la sensibilité des participants et à diminuer ou remanier les thèmes problématiques une fois qu'ils sont identifiés. Les participants à qui il est demandé de mettre fin à tout comportement problématique sont censés s'y conformer immédiatement ou seront priés de quitter la table. Des conseils supplémentaires pour les MJ afin de résoudre ces situations figurent dans la section [Variation de la table](./PFSP2-Bases-du-MJ.md).
+Bien que cela ne soit pas forcément illégal ou inapproprié, nous reconnaissons que la campagne organisée de la Pathfinder Society évoque des thèmes qui peuvent entraîner des situations inconfortables à la table de jeu. Dans ces cas-là, nous demandons aux joueurs de rapporter le problème au maître de jeu de la table (MJ), que ce soit oralement ou en lui faisant passer une note. Nous demandons que les MJ aident le groupe à respecter la sensibilité des participants et à diminuer ou remanier les thèmes problématiques une fois qu'ils sont identifiés. Les participants à qui il est demandé de mettre fin à tout comportement problématique sont censés s'y conformer immédiatement ou seront priés de quitter la table. Des conseils supplémentaires pour les MJ afin de résoudre ces situations figurent dans la section [[PFSP2 Bases du MJ|Variation de la table]].
 
 Notre intention est que chacun prenne plaisir à jouer dans un environnement sécurisé et amusant. Bien qu'un conflit entre les personnages puisse survenir, à aucun moment un joueur ne doit se sentir exclu ou menacé à la table de jeu. Nous demandons à tous les participants de respecter leurs collègues joueurs et de travailler ensemble pour créer des expériences positives et mémorables. Les directives ci-dessus indiquent comment atteindre ces objectifs. En s'asseyant à une table de la Pathfinder Society, les participants acceptent les termes et conditions de la campagne organisée Pathfinder Society.
 
@@ -286,4 +286,4 @@ Actuellement, les personnes habilitées à prendre des décisions pour la campag
 Parfois, que ce soit à travers des errata ou des clarifications de campagne, les changements de règles sont effectués juste avant une convention, une journée de jeu ou un autre événement de jeu. Dans de telles situations, si le joueur n'a pas le temps ou l'accès aux ressources nécessaires pour corriger son personnage, il peut attendre après l'événement pour appliquer les changements. Les MJ doivent noter ce délai dans la section "Notes" de la Chronique. Les joueurs doivent mettre à jour leurs personnages après l'événement.
 
 
-[<u>Revenir au Menu PFS2</u>](./PFS-Pathfinder2.md)
+[[PFS Pathfinder2|<u>Revenir au Menu PFS2</u>]]

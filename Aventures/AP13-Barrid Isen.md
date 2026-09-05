@@ -9,11 +9,11 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Barrid Isen|FP 7}
-{s:BDTexte|*Source : [Aides de jeu AP13#SIEGEDEDREZEN|La Colère des Justes], p.116*}
+{s:BDTexte|*Source : [[Aides de jeu AP13#SIEGEDEDREZEN|La Colère des Justes]], p.116*}
 {s:BDTexte|**PX** 6400}
-{s:BDTexte|[Tieffelin](./../Pathfinder-RPG/Tieffelin (race).md) (f) [rejeton démoniaque](./../Pathfinder-RPG/Tieffelin (race).md#Héritages_alternatifs_9), [ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) ([abyssal](./../Pathfinder-RPG/lignage Abyssal.md)) 8}
-{s:BDTexte|Extérieur ([natif](./../Pathfinder-RPG/sous-type natif.md)) de taille M, CM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18m, [Perception](./../Pathfinder-RPG/Perception.md) +9}
+{s:BDTexte|[[Pathfinder-RPG.Tieffelin (race)|Tieffelin]] (f) [[Pathfinder-RPG.Tieffelin (race)#Héritages_alternatifs_9|rejeton démoniaque]], [[Pathfinder-RPG.ensorceleur|ensorceleur]] ([[Pathfinder-RPG.lignage Abyssal|abyssal]]) 8}
+{s:BDTexte|Extérieur ([[Pathfinder-RPG.sous-type natif|natif]]) de taille M, CM}
+{s:BDTexte|**Init** +2 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18m, [[Pathfinder-RPG.Perception|Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 12, pris au dépourvu 15 (armure +4, dex +2, naturelle +1)}
 {s:BDTexte|**pv** 62 (8d6+32)}
@@ -22,32 +22,32 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** 2 griffes, +7 (1d6+3 et ad6 feu)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./../Pathfinder-RPG/NLS.md) 8 ; [concentration](./../Pathfinder-RPG/concentration.md) +12)}
-{s:BDSorts|1/j - [fracassement](./../Pathfinder-RPG/Fracassement.md) (DD 16)}
-{s:BDTexte|**Sorts connus** ([NLS](./../Pathfinder-RPG/NLS.md) 8; [concentration](./../Pathfinder-RPG/concentration.md) +12)}
-{s:BDSorts|4<sup>e</sup> (4/jour) — *[convocation de monstres IV](./../Pathfinder-RPG/Convocation de monstres IV.md)*}
-{s:BDSorts|3<sup>e</sup> (6/jour) — *[boule de feu](./../Pathfinder-RPG/Boule de feu.md)*(DD 17), *[dissipation de la magie](./../Pathfinder-RPG/Dissipation de la magie.md)*, *[rage](./../Pathfinder-RPG/Rage.md)*}
-{s:BDSorts|2<sup>e</sup> (7/jour) — *[flèche acide](./../Pathfinder-RPG/Flèche acide.md)*, *[force de taureau](./../Pathfinder-RPG/Force de taureau.md)*, *[image miroir](./../Pathfinder-RPG/Image miroir.md)*, *[rayon ardent](./../Pathfinder-RPG/Rayon ardent.md)*}
-{s:BDSorts|1<sup>er</sup> (7/jour) —  *[armure de mage](./../Pathfinder-RPG/Armure de mage.md)*, *[convocation de monstres I](./../Pathfinder-RPG/Convocation de monstres I.md)*, *[frayeur](./../Pathfinder-RPG/Frayeur.md)* (DD 15), *[mains brûlantes](./../Pathfinder-RPG/Mains brûlantes.md)* (DD 15), *[projectile magique](./../Pathfinder-RPG/Projectile magique.md)*, *[repli expéditif](./../Pathfinder-RPG/Repli expéditif.md)*}
-{s:BDSorts|0 (à volonté) — *[aspersion acide](./../Pathfinder-RPG/Aspersion acide.md)*, *[détection de la magie](./../Pathfinder-RPG/Détection de la magie.md)*, *[lecture de la magie](./../Pathfinder-RPG/Lecture de la magie.md)*, *[lumières dansantes](./../Pathfinder-RPG/Lumières dansantes.md)*, *[manipulation à distance](./../Pathfinder-RPG/Manipulation à distance.md)*, *[prestidigitation](./../Pathfinder-RPG/Prestidigitation.md)*, *[signature magique](./../Pathfinder-RPG/Signature magique.md)*, *[son imaginaire](./../Pathfinder-RPG/Son imaginaire.md)* (DD 14)}
-{s:BDTexte|**Lignage** [abyssal](./../Pathfinder-RPG/lignage Abyssal.md)}
+{s:BDTexte|**Pouvoirs magiques** ([[Pathfinder-RPG.NLS|NLS]] 8 ; [[Pathfinder-RPG.concentration|concentration]] +12)}
+{s:BDSorts|1/j - [[Pathfinder-RPG.fracassement|fracassement]] (DD 16)}
+{s:BDTexte|**Sorts connus** ([[Pathfinder-RPG.NLS|NLS]] 8; [[Pathfinder-RPG.concentration|concentration]] +12)}
+{s:BDSorts|4<sup>e</sup> (4/jour) — *[[Pathfinder-RPG.convocation de monstres IV|convocation de monstres IV]]*}
+{s:BDSorts|3<sup>e</sup> (6/jour) — *[[Pathfinder-RPG.boule de feu|boule de feu]]*(DD 17), *[[Pathfinder-RPG.dissipation de la magie|dissipation de la magie]]*, *[[Pathfinder-RPG.rage|rage]]*}
+{s:BDSorts|2<sup>e</sup> (7/jour) — *[[Pathfinder-RPG.flèche acide|flèche acide]]*, *[[Pathfinder-RPG.force de taureau|force de taureau]]*, *[[Pathfinder-RPG.image miroir|image miroir]]*, *[[Pathfinder-RPG.rayon ardent|rayon ardent]]*}
+{s:BDSorts|1<sup>er</sup> (7/jour) —  *[[Pathfinder-RPG.armure de mage|armure de mage]]*, *[[Pathfinder-RPG.convocation de monstres I|convocation de monstres I]]*, *[[Pathfinder-RPG.frayeur|frayeur]]* (DD 15), *[[Pathfinder-RPG.mains brûlantes|mains brûlantes]]* (DD 15), *[[Pathfinder-RPG.projectile magique|projectile magique]]*, *[[Pathfinder-RPG.repli expéditif|repli expéditif]]*}
+{s:BDSorts|0 (à volonté) — *[[Pathfinder-RPG.aspersion acide|aspersion acide]]*, *[[Pathfinder-RPG.détection de la magie|détection de la magie]]*, *[[Pathfinder-RPG.lecture de la magie|lecture de la magie]]*, *[[Pathfinder-RPG.lumières dansantes|lumières dansantes]]*, *[[Pathfinder-RPG.manipulation à distance|manipulation à distance]]*, *[[Pathfinder-RPG.prestidigitation|prestidigitation]]*, *[[Pathfinder-RPG.signature magique|signature magique]]*, *[[Pathfinder-RPG.son imaginaire|son imaginaire]]* (DD 14)}
+{s:BDTexte|**Lignage** [[Pathfinder-RPG.lignage Abyssal|abyssal]]}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 16, **Dex** 14, **Con** 14, **Int** 10, **Sag** 8, **Cha** 18}
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 19}
-{s:BDTexte|**Dons** [création d'objets merveilleux](./../Pathfinder-RPG/Création dobjets merveilleux.md), [dispense de composantes matérielles](./../Pathfinder-RPG/Dispense de composantes matérielles.md), [Magie de guerre](./../Pathfinder-RPG/Magie de guerre.md), [Robustesse](./../Pathfinder-RPG/Robustesse.md), [Volonté de fer](./../Pathfinder-RPG/Volonté de fer.md) }
-{s:BDTexte|**Compétences**[Intimidation](./../Pathfinder-RPG/Bluff.md) +15, [Perception](./../Pathfinder-RPG/Perception.md) +9 [sabotage](./../Pathfinder-RPG/Sabotage.md) +4}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.création dobjets merveilleux|création d'objets merveilleux]], [[Pathfinder-RPG.dispense de composantes matérielles|dispense de composantes matérielles]], [[Pathfinder-RPG.Magie de guerre|Magie de guerre]], [[Pathfinder-RPG.Robustesse|Robustesse]], [[Pathfinder-RPG.Volonté de fer|Volonté de fer]] }
+{s:BDTexte|**Compétences**[[Pathfinder-RPG.Bluff|Intimidation]] +15, [[Pathfinder-RPG.Perception|Perception]] +9 [[Pathfinder-RPG.sabotage|sabotage]] +4}
 {s:BDTexte|**Langues** abyssal, commun}
-{s:BDTexte|**Part.**  [Arcanes de lignage](./../Pathfinder-RPG/lignage Abyssal.md) (créatures invoquées gagnent RD 4/bien) }
-{s:BDTexte|**Équipement de combat** baguette de [porte dimensionnelle](./../Pathfinder-RPG/Porte dimensionnelle.md) (9 charges), potion de [soins modérés](./../Pathfinder-RPG/Soins modérés.md)}
-{s:BDTexte|**Équipement divers** amulette d'armure naturelle +1, [Cape de résistance](./../Pathfinder-RPG/Cape de résistance.md) +2, 125 po}
+{s:BDTexte|**Part.**  [[Pathfinder-RPG.lignage Abyssal|Arcanes de lignage]] (créatures invoquées gagnent RD 4/bien) }
+{s:BDTexte|**Équipement de combat** baguette de [[Pathfinder-RPG.porte dimensionnelle|porte dimensionnelle]] (9 charges), potion de [[Pathfinder-RPG.soins modérés|soins modérés]]}
+{s:BDTexte|**Équipement divers** amulette d'armure naturelle +1, [[Pathfinder-RPG.Cape de résistance|Cape de résistance]] +2, 125 po}
 </div>
 </td><td><div class="BD">
 *Le pont de l'Ahari est gardé par cet ensorceleur bossu au sang de démon.*
 ### Tactiques
 **Avant le combat**
-Barrid se lance [armure de mage](./../Pathfinder-RPG/Armure de mage.md) et [force de taureau](./../Pathfinder-RPG/Force de taureau.md) avant le début du combat.
+Barrid se lance [[Pathfinder-RPG.armure de mage|armure de mage]] et [[Pathfinder-RPG.force de taureau|force de taureau]] avant le début du combat.
 **Pendant le combat**
-Barrid entame le combat en langant [convocation de monstres IV](./../Pathfinder-RPG/Convocation de monstres IV.md) pour invoquer 1d3 [dretchs](./../Pathfinder-RPG/Dretch.md). Il reste ensuite en retrait pour agresser les PJ avec des sorts. Il lance [rage](./../Pathfinder-RPG/Rage.md) si les adversaires parviennent à l'engager au corps à corps. Il combat sur la défensive et tente de se replier sur le coté nord du pont avant d'ordonner aux [aurochs](./../Pathfinder-RPG/Auroch mangeur dhommes.md) de tirer sur leurs chaines afin de provoquer l'effondrement des piliers de soutien du pont.
+Barrid entame le combat en langant [[Pathfinder-RPG.convocation de monstres IV|convocation de monstres IV]] pour invoquer 1d3 [[Pathfinder-RPG.dretch|dretchs]]. Il reste ensuite en retrait pour agresser les PJ avec des sorts. Il lance [[Pathfinder-RPG.rage|rage]] si les adversaires parviennent à l'engager au corps à corps. Il combat sur la défensive et tente de se replier sur le coté nord du pont avant d'ordonner aux [[Pathfinder-RPG.Auroch Mangeur dhommes|aurochs]] de tirer sur leurs chaines afin de provoquer l'effondrement des piliers de soutien du pont.
 **Moral.**
 Si ses points de vie sont réduits à moins de 20, Barrid prend la fuite pour rejoindre la citadelle (F3) en utilisant sa baguette.
 </div></td></tr></table>

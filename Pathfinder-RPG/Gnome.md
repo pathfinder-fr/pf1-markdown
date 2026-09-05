@@ -52,18 +52,18 @@ Les gnomes ont une force physique bien inférieure à celle de nombreuses races.
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Constitution](./Constitution.md), +2 [Charisme](./Charisme.md), -2 [Force](./Force.md).** Les gnomes manquent de force physique, mais sont dotés d’une robustesse étonnante et possèdent une attitude naturellement agréable.
-- **Taille P.** Les gnomes sont des créatures de [taille P](./taille P.md) et gagnent un bonus de taille de +1 à la [CA](./CA.md), un bonus de taille de +1 aux [jets d’attaque](./jet dattaque.md), un malus de -1 au [BMO](./BMO.md) et au [DMD](./DMD.md) et un bonus de taille de +4 aux tests de [Discrétion](./Discrétion.md).
-- **Vitesse lente.** Les gnomes ont une [vitesse de base](./VD.md) de 6 mètres.
-- **Vision nocturne.** Les gnomes [voient deux fois plus loin](./Vision nocturne (capacité).md) que les humains en cas de faible luminosité.
-- **Entraînement défensif.** Les gnomes gagnent un bonus d’esquive de +4 à la [CA](./CA.md) contre les monstres de sous-type [géant](./sous-type géant.md).
-- **Magie gnome.** Les gnomes ajoutent +1 au [DD](./DD.md) du [jet de sauvegarde](./JDS.md) de tous les sorts d’[illusion](./Illusion.md) qu’ils lancent. Les gnomes qui possèdent un [Charisme](./Charisme.md) de 11 ou plus gagnent les [pouvoirs magiques](./Pouvoirs magiques (capacité).md) suivants : 1/jour — *[communication avec les animaux](./Communication avec les animaux.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[prestidigitation](./Prestidigitation.md)*, *[son imaginaire](./Son imaginaire.md)*. Le [NLS](./NLS.md) de ces effets est égal au niveau de personnage du gnome. Leur DD est égal à 10 + niveau du sort + modificateur de Charisme du gnome.
-- **Haine.** Les gnomes reçoivent un bonus de +1 aux [jets d’attaque](./jet dattaque.md) contre les créatures humanoïdes de sous-type [reptilien](./sous-type reptilien.md) et [gobelinoïde](./sous-type gobelinoïde.md) en raison de l’entraînement spécial qu’ils reçoivent contre ces ennemis haïs.
-- **Résistance aux illusions.** Les gnomes gagnent un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) contre les sorts et effets d’[illusion](./Illusion.md).
-- **Sens aiguisés.** Les gnomes reçoivent un bonus racial de +2 aux tests de [Perception](./Perception.md).
-- **Obsession.** Les gnomes reçoivent un bonus racial de +2 aux tests d’un type d'[Artisanat](./Artisanat.md) ou de [Profession](./Profession.md) de leur choix.
-- **Armes familières.** Les gnomes considèrent toute arme qui porte la mention « gnome » dans son nom comme une [arme de guerre](./arme de guerre.md).
-- **Langues.** Les gnomes commencent le jeu en parlant le commun, le gnome et le sylvestre. Ceux qui possèdent une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues tirées de la liste suivante : draconique, elfique, géant, gobelin, nain et orque.
+- **+2 [[Constitution]], +2 [[Charisme]], -2 [[Force]].** Les gnomes manquent de force physique, mais sont dotés d’une robustesse étonnante et possèdent une attitude naturellement agréable.
+- **Taille P.** Les gnomes sont des créatures de [[taille P]] et gagnent un bonus de taille de +1 à la [[CA]], un bonus de taille de +1 aux [[jet dattaque|jets d’attaque]], un malus de -1 au [[BMO]] et au [[DMD]] et un bonus de taille de +4 aux tests de [[Discrétion]].
+- **Vitesse lente.** Les gnomes ont une [[VD|vitesse de base]] de 6 mètres.
+- **Vision nocturne.** Les gnomes [[Vision nocturne (capacité)|voient deux fois plus loin]] que les humains en cas de faible luminosité.
+- **Entraînement défensif.** Les gnomes gagnent un bonus d’esquive de +4 à la [[CA]] contre les monstres de sous-type [[sous-type géant|géant]].
+- **Magie gnome.** Les gnomes ajoutent +1 au [[DD]] du [[jds|jet de sauvegarde]] de tous les sorts d’[[illusion]] qu’ils lancent. Les gnomes qui possèdent un [[Charisme]] de 11 ou plus gagnent les [[Pouvoirs magiques (capacité)|pouvoirs magiques]] suivants : 1/jour — *[[communication avec les animaux]]*, *[[lumières dansantes]]*, *[[prestidigitation]]*, *[[son imaginaire]]*. Le [[NLS]] de ces effets est égal au niveau de personnage du gnome. Leur DD est égal à 10 + niveau du sort + modificateur de Charisme du gnome.
+- **Haine.** Les gnomes reçoivent un bonus de +1 aux [[jet dattaque|jets d’attaque]] contre les créatures humanoïdes de sous-type [[sous-type reptilien|reptilien]] et [[sous-type gobelinoïde|gobelinoïde]] en raison de l’entraînement spécial qu’ils reçoivent contre ces ennemis haïs.
+- **Résistance aux illusions.** Les gnomes gagnent un bonus racial de +2 aux [[jds|jets de sauvegarde]] contre les sorts et effets d’[[illusion]].
+- **Sens aiguisés.** Les gnomes reçoivent un bonus racial de +2 aux tests de [[Perception]].
+- **Obsession.** Les gnomes reçoivent un bonus racial de +2 aux tests d’un type d'[[Artisanat]] ou de [[Profession]] de leur choix.
+- **Armes familières.** Les gnomes considèrent toute arme qui porte la mention « gnome » dans son nom comme une [[arme de guerre]].
+- **Langues.** Les gnomes commencent le jeu en parlant le commun, le gnome et le sylvestre. Ceux qui possèdent une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues tirées de la liste suivante : draconique, elfique, géant, gobelin, nain et orque.
 
 </div>
 
@@ -72,44 +72,44 @@ Les gnomes ont une force physique bien inférieure à celle de nombreuses races.
 Les gnomes forment une race très diversifiée et très indépendante, c’est pourquoi ils montrent une grande variété au niveau de leurs capacités, de leurs opinions et de leurs styles. Les règles suivantes représentent un échantillon des traits qu’ils manifestent, souvent sans rapport avec leur héritage ou leur entraînement. Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux gnomes standards, mais consultez d’abord votre MJ.
 
 <u>*Remplace « entraînement défensif » et « haine » :*</u>
-- **Espoir éternel.** Les gnomes perdent rarement espoir et sont toujours persuadés qu’ils finiront par se tirer des situations les plus désespérées. Ceux qui possèdent ce trait racial reçoivent un bonus racial de +2 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les effets de peur et de désespoir. Une fois par jour, après avoir obtenu un 1 sur un d20, le gnome peut refaire son jet et conserver le second résultat. Ce trait remplace entraînement défensif et haine.
-- **Gardien du monde naturel.** Les gnomes doivent souvent protéger leur foyer contre des infestations surnaturelles ou pestilentielles. Grâce à leur entraînement spécial, ceux qui possèdent ce trait gagnent un bonus d’esquive à la [CA](./CA.md) de +2 contre les [aberrations](./type Aberration.md), les [vases](./type Vase.md) et les [vermines](./type Vermine.md), ainsi qu'un bonus de +1 aux [jets d’attaque](./jet dattaque.md) contre ces mêmes créatures. Ce trait remplace entraînement défensif et haine.
-- **Lié à la terre.** Certains gnomes forgent des liens étroits avec un environnement, vestige de leurs origines féeriques. Ils gagnent un bonus d’esquive de +2 à la [CA](./CA.md) quand ils se trouvent dans un environnement spécifique choisi dans la liste des [environnements de prédilection](./Rôdeur.md#ENVIRONEMENTDEPREDILECTION) du rôdeur. Il faut faire ce choix à la création du personnage et il est impossible d’en changer par la suite. Ce trait remplace entraînement défensif et haine.
-- **Maître rétameur.** Les gnomes font des expériences avec toutes sortes d’objets mécaniques. Ceux qui possèdent ce trait racial gagnent un bonus de +1 aux tests de [Connaissances](./Connaissances.md) (ingénierie) et de [Sabotage](./Sabotage.md). On considère qu’ils sont formés au maniement de toutes les armes qu’ils fabriquent eux-mêmes. Ce trait remplace entraînement défensif et haine.
-- **Polyglotte.** Les gnomes adorent les langues et ils aiment apprendre toutes celles qu’ils découvrent. Ceux qui possèdent ce trait racial gagnent un bonus de +1 aux tests de [Bluff](./Bluff.md) et de [Diplomatie](./Diplomatie.md) et apprennent une langue de plus à chaque fois qu’ils investissent un rang en [Linguistique](./Linguistique.md). Ce trait remplace entraînement défensif et haine.
+- **Espoir éternel.** Les gnomes perdent rarement espoir et sont toujours persuadés qu’ils finiront par se tirer des situations les plus désespérées. Ceux qui possèdent ce trait racial reçoivent un bonus racial de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets de peur et de désespoir. Une fois par jour, après avoir obtenu un 1 sur un d20, le gnome peut refaire son jet et conserver le second résultat. Ce trait remplace entraînement défensif et haine.
+- **Gardien du monde naturel.** Les gnomes doivent souvent protéger leur foyer contre des infestations surnaturelles ou pestilentielles. Grâce à leur entraînement spécial, ceux qui possèdent ce trait gagnent un bonus d’esquive à la [[CA]] de +2 contre les [[type aberration|aberrations]], les [[type vase|vases]] et les [[type vermine|vermines]], ainsi qu'un bonus de +1 aux [[jet dattaque|jets d’attaque]] contre ces mêmes créatures. Ce trait remplace entraînement défensif et haine.
+- **Lié à la terre.** Certains gnomes forgent des liens étroits avec un environnement, vestige de leurs origines féeriques. Ils gagnent un bonus d’esquive de +2 à la [[CA]] quand ils se trouvent dans un environnement spécifique choisi dans la liste des [[Rôdeur#ENVIRONEMENTDEPREDILECTION|environnements de prédilection]] du rôdeur. Il faut faire ce choix à la création du personnage et il est impossible d’en changer par la suite. Ce trait remplace entraînement défensif et haine.
+- **Maître rétameur.** Les gnomes font des expériences avec toutes sortes d’objets mécaniques. Ceux qui possèdent ce trait racial gagnent un bonus de +1 aux tests de [[Connaissances]] (ingénierie) et de [[Sabotage]]. On considère qu’ils sont formés au maniement de toutes les armes qu’ils fabriquent eux-mêmes. Ce trait remplace entraînement défensif et haine.
+- **Polyglotte.** Les gnomes adorent les langues et ils aiment apprendre toutes celles qu’ils découvrent. Ceux qui possèdent ce trait racial gagnent un bonus de +1 aux tests de [[Bluff]] et de [[Diplomatie]] et apprennent une langue de plus à chaque fois qu’ils investissent un rang en [[Linguistique]]. Ce trait remplace entraînement défensif et haine.
 
 <u>*Remplace « entraînement défensif », « haine » et « sens aiguisés » :*</u>
-- {s:cs}{s:ISR}**Sale fripouille.** Tous les gnomes aiment jouer des tours, mais certains se spécialisent dans ceux qui sont improvisés pendant un combat. Ces gnomes bénéficient d'un bonus racial de +2 aux tests de manœuvre offensive de [sale coup](./sale coup.md). Ils n'ont pas besoin de remplir la condition d'[Intelligence](./Intelligence.md) pour sélectionner [Expertise du combat](./Expertise du combat.md), [Science du sale coup](./Science du sale coup.md) ou tout autre don qui inclut Science du sale coup comme condition. Ce trait racial remplace entraînement défensif, haine et sens aiguisés.
+- {s:cs}{s:ISR}**Sale fripouille.** Tous les gnomes aiment jouer des tours, mais certains se spécialisent dans ceux qui sont improvisés pendant un combat. Ces gnomes bénéficient d'un bonus racial de +2 aux tests de manœuvre offensive de [[sale coup]]. Ils n'ont pas besoin de remplir la condition d'[[Intelligence]] pour sélectionner [[Expertise du combat]], [[Science du sale coup]] ou tout autre don qui inclut Science du sale coup comme condition. Ce trait racial remplace entraînement défensif, haine et sens aiguisés.
 
 <u>*Remplace « haine » et « obsession » :*</u>
-- **Explorateur.** Beaucoup de gnomes sont bien plus désireux d’explorer le monde que de se perfectionner dans un talent ou de développer une vocation particulière. Ils gagnent un bonus racial de +2 aux tests d’[Escalade](./Escalade.md) et aux tests avec une unique compétence de [Connaissances](./Connaissances.md) de leur choix. Ce trait remplace haine et obsession.
-- {s:cs}{s:ISR}**Ouvrier.** Certains gnomes préfèrent utiliser leur talent naturel avec les mécanismes pour conduire des machines. Ces gnomes bénéficient d'un bonus racial aux tests de [conduite](./Conduire des véhicules (véhicules).md) et aux tests d'[Artisanat](./Artisanat.md) pour construire ou réparer des véhicules. Ce trait racial remplace haine et obsession.
+- **Explorateur.** Beaucoup de gnomes sont bien plus désireux d’explorer le monde que de se perfectionner dans un talent ou de développer une vocation particulière. Ils gagnent un bonus racial de +2 aux tests d’[[Escalade]] et aux tests avec une unique compétence de [[Connaissances]] de leur choix. Ce trait remplace haine et obsession.
+- {s:cs}{s:ISR}**Ouvrier.** Certains gnomes préfèrent utiliser leur talent naturel avec les mécanismes pour conduire des machines. Ces gnomes bénéficient d'un bonus racial aux tests de [[Conduire des véhicules (véhicules)|conduite]] et aux tests d'[[Artisanat]] pour construire ou réparer des véhicules. Ce trait racial remplace haine et obsession.
 
 <u>*Remplace « magie gnome » :*</u>
-- **Ignoble magie.** Les gnomes ajoutent +1 au [DD](./DD.md) du [jet de sauvegarde](./JDS.md) de leurs sorts de [nécromancie](./Nécromancie.md). Ceux qui possèdent une [Sagesse](./Sagesse.md) de 11 ou plus gagnent aussi les [pouvoirs magiques](./Pouvoirs magiques (capacité).md) suivants : 1/jour – *[contact glacial](./Contact glacial.md)*, *[détection du poison](./Détection du poison.md)*, *[fatigue](./Fatigue.md)* et [saignement](./sort Saignement.md). Le [NLS](./NLS.md) de ces effets est égal au niveau de personnage du gnome et leur DD à 10 + niveau du sort + modificateur de Sagesse du gnome. Ce trait remplace magie gnome.
-- {s:cs}{s:ISR}**Magie utilitariste.** Certains gnomes développent une magie pratique pour les assister dans leurs projets obsessionels. Ces gnomes ajoutent 1 au [DD](./DD.md) de tous les [jets de sauvegarde](./JDS.md) autorisés par leurs sorts de [transmutation](./Transmutation.md). Si leur valeur d'[Intelligence](./Intelligence.md) est de 11 ou plus, ils obtiennent également les [pouvoirs magiques](./Pouvoirs magiques (capacité).md) suivants : 1/jour— *[manipulation à distance](./Manipulation à distance.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*, *[prestidigitation](./Prestidigitation.md)* et *[serviteur invisible](./Serviteur invisible.md)*. Le DD de ces sorts est égal à 10 + le niveau du sort + le modificateur d'Intelligence du gnome. Ce trait racial remplace magie gnome.
+- **Ignoble magie.** Les gnomes ajoutent +1 au [[DD]] du [[jds|jet de sauvegarde]] de leurs sorts de [[nécromancie]]. Ceux qui possèdent une [[Sagesse]] de 11 ou plus gagnent aussi les [[Pouvoirs magiques (capacité)|pouvoirs magiques]] suivants : 1/jour – *[[contact glacial]]*, *[[détection du poison]]*, *[[fatigue]]* et [[sort Saignement|saignement]]. Le [[NLS]] de ces effets est égal au niveau de personnage du gnome et leur DD à 10 + niveau du sort + modificateur de Sagesse du gnome. Ce trait remplace magie gnome.
+- {s:cs}{s:ISR}**Magie utilitariste.** Certains gnomes développent une magie pratique pour les assister dans leurs projets obsessionels. Ces gnomes ajoutent 1 au [[DD]] de tous les [[jds|jets de sauvegarde]] autorisés par leurs sorts de [[transmutation]]. Si leur valeur d'[[Intelligence]] est de 11 ou plus, ils obtiennent également les [[Pouvoirs magiques (capacité)|pouvoirs magiques]] suivants : 1/jour— *[[manipulation à distance]]*, *[[ouverturefermeture|ouverture/fermeture]]*, *[[prestidigitation]]* et *[[serviteur invisible]]*. Le DD de ces sorts est égal à 10 + le niveau du sort + le modificateur d'Intelligence du gnome. Ce trait racial remplace magie gnome.
 
 <u>*Remplace « magie gnome » et « résistance aux illusions » :*</u>
-- **Linguiste magique.** Les gnomes étudient les langues d’un point de vue ordinaire, mais aussi magique. Ceux qui possèdent ce trait racial gagnent un bonus de +1 au [DD](./DD.md) des [jets de sauvegarde](./JDS.md) de leurs sorts du [registre](./Registre.md) du langage et de ceux qui créent des glyphes, des symboles ou d’autres écrits magiques. Ils gagnent un bonus racial de +2 aux jets de sauvegarde contre ces mêmes sorts. Les gnomes qui possèdent un [Charisme](./Charisme.md) de 11 ou plus gagnent aussi les [pouvoirs magiques](./Pouvoirs magiques (capacité).md) suivants : 1/jour – *[compréhension des langages](./Compréhension des langages.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[message](./Message.md)* et *[signature magique](./Signature magique.md)*. Le [NLS](./NLS.md) de ces effets est égal au niveau de personnage du gnome. Ce trait remplace magie gnome et résistance aux illusions.
-- **Pyromane.** On considère que les gnomes qui possèdent ce trait sont d’un niveau de plus que la réalité quand ils lancent des sorts du [registre](./Registre.md) du feu, quand ils utilisent des pouvoirs du [domaine du Feu](./Domaine du Feu.md), quand ils utilisent des pouvoirs du [lignage élémentaire du Feu](./lignage Élémentaire.md), quand ils utilisent une révélation du [mystère des flammes](./Mystère des flammes.md) ou quand ils déterminent les dégâts d’une [bombe d’alchimiste](./Alchimiste.md#BOMBES) qui inflige des dégâts de feu. Ce trait ne permet pas à un gnome d’accéder plus tôt que prévu à un pouvoir accordé à un niveau donné, il affecte seulement les pouvoirs dont le gnome dispose déjà sans lui. Les gnomes qui possèdent un [Charisme](./Charisme.md) de 11 ou plus gagnent aussi les [pouvoirs magiques](./Pouvoirs magiques (capacité).md) suivants : 1/jour – *[flammes](./Flammes.md)*, *[illumination](./Illumination.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[prestidigitation](./Prestidigitation.md)*. Le [NLS](./NLS.md) de ces effets est égal au niveau de personnage du gnome, les [DD](./DD.md) sont basés sur le Charisme. Ce trait remplace magie gnome et résistance aux illusions.
+- **Linguiste magique.** Les gnomes étudient les langues d’un point de vue ordinaire, mais aussi magique. Ceux qui possèdent ce trait racial gagnent un bonus de +1 au [[DD]] des [[jds|jets de sauvegarde]] de leurs sorts du [[registre]] du langage et de ceux qui créent des glyphes, des symboles ou d’autres écrits magiques. Ils gagnent un bonus racial de +2 aux jets de sauvegarde contre ces mêmes sorts. Les gnomes qui possèdent un [[Charisme]] de 11 ou plus gagnent aussi les [[Pouvoirs magiques (capacité)|pouvoirs magiques]] suivants : 1/jour – *[[compréhension des langages]]*, *[[lecture de la magie]]*, *[[message]]* et *[[signature magique]]*. Le [[NLS]] de ces effets est égal au niveau de personnage du gnome. Ce trait remplace magie gnome et résistance aux illusions.
+- **Pyromane.** On considère que les gnomes qui possèdent ce trait sont d’un niveau de plus que la réalité quand ils lancent des sorts du [[registre]] du feu, quand ils utilisent des pouvoirs du [[domaine du Feu]], quand ils utilisent des pouvoirs du [[lignage élémentaire|lignage élémentaire du Feu]], quand ils utilisent une révélation du [[mystère des flammes]] ou quand ils déterminent les dégâts d’une [[Alchimiste#BOMBES|bombe d’alchimiste]] qui inflige des dégâts de feu. Ce trait ne permet pas à un gnome d’accéder plus tôt que prévu à un pouvoir accordé à un niveau donné, il affecte seulement les pouvoirs dont le gnome dispose déjà sans lui. Les gnomes qui possèdent un [[Charisme]] de 11 ou plus gagnent aussi les [[Pouvoirs magiques (capacité)|pouvoirs magiques]] suivants : 1/jour – *[[flammes]]*, *[[illumination]]*, *[[lumières dansantes]]*, *[[prestidigitation]]*. Le [[NLS]] de ces effets est égal au niveau de personnage du gnome, les [[DD]] sont basés sur le Charisme. Ce trait remplace magie gnome et résistance aux illusions.
 
 <u>*Remplace « magie gnome » et « sens aiguisés » :*</u>
-- {s:cs}{s:ISR}**Vivace.** Certains gnomes conservent une trace de la vitalité du Premier Monde. Ces gnomes récupèrent 50 % plus de [points de vie](./pv.md) (minimum 1) chaque fois qu'ils récupèrent des points de vie grâce à un repos. Chaque fois que leurs points de vie sont soignés par un sort, ils sont soignés d'un montant supplémentaire égal à la moitié du [niveau de lanceur de sorts](./NLS.md) du sort (minimum 0). Ces soins bonus ne s'appliquent pas aux sorts qui offrent une [guérison accélérée](./Guérison accélérée (capacité).md) ou des effets similaires. Ce trait racial remplace magie gnome et sens aiguisés.
+- {s:cs}{s:ISR}**Vivace.** Certains gnomes conservent une trace de la vitalité du Premier Monde. Ces gnomes récupèrent 50 % plus de [[pv|points de vie]] (minimum 1) chaque fois qu'ils récupèrent des points de vie grâce à un repos. Chaque fois que leurs points de vie sont soignés par un sort, ils sont soignés d'un montant supplémentaire égal à la moitié du [[NLS|niveau de lanceur de sorts]] du sort (minimum 0). Ces soins bonus ne s'appliquent pas aux sorts qui offrent une [[Guérison accélérée (capacité)|guérison accélérée]] ou des effets similaires. Ce trait racial remplace magie gnome et sens aiguisés.
 
 <u>*Remplace « obsession » :*</u>
-- **Académicien.** Certains gnomes sont plus attirés par les études académiques que les autres. Ceux qui possèdent ce trait gagnent un bonus de +2 à une unique compétence de [Connaissances](./Connaissances.md). Ce trait remplace obsession.
+- **Académicien.** Certains gnomes sont plus attirés par les études académiques que les autres. Ceux qui possèdent ce trait gagnent un bonus de +2 à une unique compétence de [[Connaissances]]. Ce trait remplace obsession.
 
 <u>*Remplace « obsession » et « résistance aux illusions » :*</u>
-- **Don pour les poisons.** Certains gnomes comprennent instinctivement le fonctionnement et l’usage des poisons. Ils gagnent un bonus racial de +2 aux jets de [Vigueur](./Vigueur.md) contre les [poisons](./Poisons.md) et un bonus de +2 aux tests d’[Artisanat](./Artisanat.md) (alchimie) pour en fabriquer. Le bonus aux jets de sauvegarde passe à +4 si le gnome s’empoisonne accidentellement en appliquant un poison ou en le préparant. Ce trait remplace résistance aux illusions et obsession.
+- **Don pour les poisons.** Certains gnomes comprennent instinctivement le fonctionnement et l’usage des poisons. Ils gagnent un bonus racial de +2 aux jets de [[Vigueur]] contre les [[poisons]] et un bonus de +2 aux tests d’[[Artisanat]] (alchimie) pour en fabriquer. Le bonus aux jets de sauvegarde passe à +4 si le gnome s’empoisonne accidentellement en appliquant un poison ou en le préparant. Ce trait remplace résistance aux illusions et obsession.
 
 <u>*Remplace « obsession » et « sens aiguisés » :*</u>
-- {s:cs}{s:ISR}**Ingéniosité architecturale.** Certains gnomes démontrent un talent incroyable pour construire et ajuster des structures. Ces gnomes bénéficient d'un bonus racial de +2 aux tests de [Connaissances](./Connaissances.md) (ingénierie) et aux tests d'[Artisanat](./Artisanat.md) et de [Profession](./Profession.md) relatifs aux structures (y compris les pièges structuraux). Ce trait racial remplace obsession et sens aiguisés.
+- {s:cs}{s:ISR}**Ingéniosité architecturale.** Certains gnomes démontrent un talent incroyable pour construire et ajuster des structures. Ces gnomes bénéficient d'un bonus racial de +2 aux tests de [[Connaissances]] (ingénierie) et aux tests d'[[Artisanat]] et de [[Profession]] relatifs aux structures (y compris les pièges structuraux). Ce trait racial remplace obsession et sens aiguisés.
 
 <u>*Remplace « résistance aux illusions » et « sens aiguisés » :*</u>
-- {s:cs}{s:ISR}**Colon intrépide.** Certains gnomes ajoutent au plaisir de vivre en s'installant dans des endroits précaires tels que les épaves de Gogpodda et les cabanes dans les arbres d'Omesta. Ces gnomes intrépides bénéficient d'un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) contre les effets de peur ainsi qu'aux tests d'[Acrobaties](./Acrobaties.md), d'[Escalade](./Escalade.md) et de [Natation](./Natation.md). Ce trait racial remplace obsession, résistance aux illusions et sens aiguisés.
+- {s:cs}{s:ISR}**Colon intrépide.** Certains gnomes ajoutent au plaisir de vivre en s'installant dans des endroits précaires tels que les épaves de Gogpodda et les cabanes dans les arbres d'Omesta. Ces gnomes intrépides bénéficient d'un bonus racial de +2 aux [[jds|jets de sauvegarde]] contre les effets de peur ainsi qu'aux tests d'[[Acrobaties]], d'[[Escalade]] et de [[Natation]]. Ce trait racial remplace obsession, résistance aux illusions et sens aiguisés.
 
 <u>*Remplace « sens aiguisés » et « vision nocturne » :*</u>
-- **Vision dans le noir.** Certaines familles gnomes vivent dans les entrailles de la terre depuis si longtemps qu’elles ont complètement renoncé à la lumière et gagné la [vision dans le noir](./vision dans le noir (capacité).md) à 18 mètres (12 {s:c}). Ce trait racial remplace vision nocturne et sens aiguisés.
+- **Vision dans le noir.** Certaines familles gnomes vivent dans les entrailles de la terre depuis si longtemps qu’elles ont complètement renoncé à la lumière et gagné la [[Vision dans le noir (capacité)|vision dans le noir]] à 18 mètres (12 {s:c}). Ce trait racial remplace vision nocturne et sens aiguisés.
 
 #### Sous-types raciaux
 Vous pouvez combiner plusieurs traits raciaux alternatifs pour créer une sous-race gnome ou une variante raciale, comme suit.
@@ -120,7 +120,7 @@ Vous pouvez combiner plusieurs traits raciaux alternatifs pour créer une sous-r
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -133,97 +133,97 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:AO}**Les gnomes occultes.** Les supercheries mentales sont pratiquées de manière naturelle par les gnomes. Leur nature même de gnome les incite à apprécier la magie psychique et ses pratiques obscures et décalées. Chaque classe occulte possède des qualités qui plaisent aux gnomes, que ce soit le don inné des cinétistes pour la magie ou la fascination des occultistes pour les colifichets.
 
 <table width="100%"><tr><td width="49%">
-{s:MR}{s:APG}**[Alchimiste](./Alchimiste.md).** L’alchimiste ajoute +1/2 au nombre de [bombes](./Alchimiste.md#BOMBES) qu’il peut créer chaque jour.
+{s:MR}{s:APG}**[[Alchimiste]].** L’alchimiste ajoute +1/2 au nombre de [[alchimiste#BOMBES|bombes]] qu’il peut créer chaque jour.
 L'alchimie est l'une des vocations les plus respectées pour un gnome. En mêlant leur amour pour la magie et leur pratique à la théorie appliquée, cette carrière enveloppe tout un champ d'opportunité quotidienne s'ouvrant sur le domaine de la découverte.
 
-{s:MCA}**[Arcaniste](./Arcaniste.md).** Ajoute 1/6 au nombre de points que l’arcaniste obtient chaque jour dans son [réservoir arcanique](./Arcaniste.md#RESERVOIRARCANIQUE).
+{s:MCA}**[[Arcaniste]].** Ajoute 1/6 au nombre de points que l’arcaniste obtient chaque jour dans son [[Arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]].
 
-{s:MR}{s:APG}**[Barbare](./Barbare.md).** Le barbare ajoute +1/2 à son [sens des pièges](./Barbare.md#SENSDESPIEGES).
+{s:MR}{s:APG}**[[Barbare]].** Le barbare ajoute +1/2 à son [[Barbare#SENSDESPIEGES|sens des pièges]].
 Les barbares gnomes sont généralement associés à ceux ayant vécu depuis longtemps parmi les tribus de fées sauvages que tout aussi bien avec les bêtes féroces du règne animal, étant pour ainsi dire l'incarnation des esprits de la nature.
 
-{s:MR}{s:APG}**[Barde](./Barde.md).** Le barde ajoute +1 à son nombre quotidien de rounds de [représentations bardiques](./Barde.md#REPRESENTATIONBARDIQUE).
+{s:MR}{s:APG}**[[Barde]].** Le barde ajoute +1 à son nombre quotidien de rounds de [[barde#REPRESENTATIONBARDIQUE|représentations bardiques]].
 De nombreux gnomes sont des collectionneurs obsessifs d'histoires, de chansons et de blagues ; faisant d'eux des bardes réputés pour leur vaste répertoire, leur énergétique prestation et ainsi que leur tissage de la magie dans leurs performances.
 
-{s:MCA}**[Bretteur](./Bretteur.md).** Chaque jour, le bretteur peut utiliser [charmante vie](./Bretteur.md#CHARMANTEVIE) 1/4 de fois de plus.
+{s:MCA}**[[Bretteur]].** Chaque jour, le bretteur peut utiliser [[Bretteur#CHARMANTEVIE|charmante vie]] 1/4 de fois de plus.
 
-{s:MCA}**[Chaman](./Chaman.md).** Gain de 1/6 d’un nouveau [maléfice](./Chaman.md#MALEFICES) de chaman.
+{s:MCA}**[[Chaman]].** Gain de 1/6 d’un nouveau [[Chaman#MALEFICES|maléfice]] de chaman.
 
-{s:MCA}**[Chasseur](./Chasseur.md).** Confère une [RD](./RD.md) 1/magie au [compagnon animal](./compagnon animal.md) du [chasseur](./Chasseur.md). À chaque fois que le chasseur gagne un niveau, la RD augmente de 1/2 (pour un maximum de RD 10/magie). Si le chasseur remplace son compagnon animal, le nouveau bénéficie de cette RD.
+{s:MCA}**[[Chasseur]].** Confère une [[RD]] 1/magie au [[compagnon animal]] du [[chasseur]]. À chaque fois que le chasseur gagne un niveau, la RD augmente de 1/2 (pour un maximum de RD 10/magie). Si le chasseur remplace son compagnon animal, le nouveau bénéficie de cette RD.
 
-{s:MR}{s:APG}**[Chevalier](./Chevalier.md).** Le chevalier ajoute 30 centimètres à sa [vitesse de base](./VD.md) montée, ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). S’il remplace sa monture, la nouvelle bénéficie aussi de ce bonus.
+{s:MR}{s:APG}**[[Chevalier]].** Le chevalier ajoute 30 centimètres à sa [[VD|vitesse de base]] montée, ce qui n’a aucun effet au niveau des options de combat tant qu’il n’a pas choisi cette option à 5 reprises (ou un autre multiple de 5). S’il remplace sa monture, la nouvelle bénéficie aussi de ce bonus.
 Bien que les chevaliers gnomes sont rares, certains d'entre eux prêtent serment sous leur honneur et peuvent ainsi maîtriser un large éventail de tactiques pour défendre le peuple et les terres qu'ils aiment.
 
-{s:AO}**[Cinétiste](./Cinétiste.md).** Le personnage bénéficie d’un bonus de +1/2 aux tests de [Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md), [Intimidation](./Intimidation.md) et [Psychologie](./Psychologie.md) effectués contre des créatures dont le [sous-type](./Types de créatures.md) correspond à l’[élément de prédilection](./Cinétiste.md#ÉLÉMENTDEPRÉDILECTION) du cinétiste.
+{s:AO}**[[Cinétiste]].** Le personnage bénéficie d’un bonus de +1/2 aux tests de [[Bluff]], [[Diplomatie]], [[Intimidation]] et [[Psychologie]] effectués contre des créatures dont le [[Types de créatures|sous-type]] correspond à l’[[cinétiste#ÉLÉMENTDEPRÉDILECTION|élément de prédilection]] du cinétiste.
 
-{s:MR}{s:APG}**[Conjurateur](./Conjurateur.md).** Le conjurateur ajoute +1 [pv](./pv.md) à son [eidolon](./Conjurateur.md#EIDOLON).
+{s:MR}{s:APG}**[[Conjurateur]].** Le conjurateur ajoute +1 [[pv]] à son [[Conjurateur#EIDOLON|eidolon]].
 Les gnomes, ces bricoleurs invétérés à la créativité sans borne, prennent grand plaisir à concevoir et à façonner leur eidolon. Les serviteurs des conjurateurs gnomes ressemblent souvent à des constructions mécaniques ou à des créatures féeriques.
 
-{s:MR}{s:APG}**[Druide](./Druide.md).** Le druide gagne une [résistance](./Résistance (capacité).md) de 1 contre l’acide, le froid, l’électricité ou le feu. À chaque fois que le druide choisit cette récompense, sa résistance augmente de 1 pour le type d’énergie choisi (avec un maximum de +10 dans chaque type).
+{s:MR}{s:APG}**[[Druide]].** Le druide gagne une [[Résistance (capacité)|résistance]] de 1 contre l’acide, le froid, l’électricité ou le feu. À chaque fois que le druide choisit cette récompense, sa résistance augmente de 1 pour le type d’énergie choisi (avec un maximum de +10 dans chaque type).
 Maintes gnomes sont intimement reliés à la terre et les forêts, revêtant ainsi le manteau druidique afin de rester en étroite communion avec les animaux et les esprits de la nature.
 
-{s:MCA}**[Enquêteur](./Enquêteur.md).** L’enquêteur ajoute la formule d’un extrait issu de la [liste de l’enquêteur](./Liste des formules dalchimiste.md) à son livre de formules. Elle doit être d’au moins un niveau de moins que la formule de plus haut niveau qu’il connaît.
+{s:MCA}**[[Enquêteur]].** L’enquêteur ajoute la formule d’un extrait issu de la [[Liste des formules dalchimiste|liste de l’enquêteur]] à son livre de formules. Elle doit être d’au moins un niveau de moins que la formule de plus haut niveau qu’il connaît.
 
-{s:MR}{s:APG}**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur choisit un pouvoir de [lignages](./Ensorceleur.md#LIGNAGE) accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [Charisme](./Charisme.md). Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Ensorceleur]].** L’ensorceleur choisit un pouvoir de [[Ensorceleur#LIGNAGE|lignages]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur de [[Charisme]]. Il peut l’utiliser 1/2 fois de plus par jour.
 Les pouvoirs profanes du lignage féerique apparaissent dans de nombreuses familles gnomes, même si on peut également rencontrer d’autres lignages chez les gnomes. La plupart des ensorceleurs gnomes sont acceptés comme des êtres tout à fait normaux au sein de leur société mais ceux qui tirent leurs pouvoirs de sources maléfiques suscitent souvent la méfiance et le mépris.
 
-{s:MR}{s:APG}**[Guerrier](./Guerrier.md).** Le guerrier gagne un bonus de +1 au [DMD](./DMD.md) quand il résiste à un [sale coup](./Manoeuvres-offensives.md#SALECOUP) ou une [subtilisation](./Manoeuvres-offensives.md#SUBTILISATION).
+{s:MR}{s:APG}**[[Guerrier]].** Le guerrier gagne un bonus de +1 au [[DMD]] quand il résiste à un [[Manoeuvres offensives#SALECOUP|sale coup]] ou une [[Manoeuvres offensives#SUBTILISATION|subtilisation]].
 Les gnomes combattants sont extrêmement tenaces, désireux de prouver que même le plus petit combattant peut être un titan sur le champ de bataille.
 
-{s:AO}**[Hypnotiseur](./Hypnotiseur.md).** Le personnage augmente de 1/3 le nombre d'[inductions d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR) qu’il peut utiliser chaque jour.
+{s:AO}**[[Hypnotiseur]].** Le personnage augmente de 1/3 le nombre d'[[hypnotiseur#INDUCTIONSDHYPNOTISEUR|inductions d’hypnotiseur]] qu’il peut utiliser chaque jour.
 
-{s:MR}{s:APG}**[Inquisiteur](./Inquisiteur.md).** L’inquisiteur ajoute un bonus de +1 à ses tests de [concentration](./concentration.md) quand il lance un sort d’inquisiteur.
+{s:MR}{s:APG}**[[Inquisiteur]].** L’inquisiteur ajoute un bonus de +1 à ses tests de [[concentration]] quand il lance un sort d’inquisiteur.
 Certains gnomes font un jour ou l'autre la rencontre avec l'hostilité du monde extérieur, spécialement celle venant des races impitoyables envers eux. De ce fait, certains choisissent d'enfiler le manteau de l'inquisiteur pour défendre leur peuple et de protéger leurs terres contre les âmes insensibles.
 
-{s:cs}{s:UI}**[Justicier](./Justicier.md).** Gain d'un bonus de +1/2 aux tests de [Bluff](./Bluff.md) pour proférer un mensonge qui serait vrai du point de vue de l'[identité actuelle](./Justicier.md#DOUBLEIDENTITE) du justicier.
+{s:cs}{s:UI}**[[Justicier]].** Gain d'un bonus de +1/2 aux tests de [[Bluff]] pour proférer un mensonge qui serait vrai du point de vue de l'[[Justicier#DOUBLEIDENTITE|identité actuelle]] du justicier.
 
-{s:MCA}**[Lutteur](./Lutteur.md).** Augmente d’1/4 le nombre de fois où le lutteur peut, chaque jour, utiliser [flexibilité martiale](./Lutteur.md#FLEXIBILITEMARTIALE).
+{s:MCA}**[[Lutteur]].** Augmente d’1/4 le nombre de fois où le lutteur peut, chaque jour, utiliser [[Lutteur#FLEXIBILITEMARTIALE|flexibilité martiale]].
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}{s:APG}**[Magicien](./Magicien.md).** Le magicien choisit un pouvoir d’[écoles de magie](./Magicien.md#ECOLEDEMAGIE) accessible au niveau 1 et utilisable 3 fois par jour + modificateur d’[Intelligence](./Intelligence.md). Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}{s:APG}**[[Magicien]].** Le magicien choisit un pouvoir d’[[Magicien#ECOLEDEMAGIE|écoles de magie]] accessible au niveau 1 et utilisable 3 fois par jour + modificateur d’[[Intelligence]]. Il peut l’utiliser 1/2 fois de plus par jour.
 La longue tradition magique des gnomes les amène souvent à se spécialiser dans les royaumes de l’illusion ou de la magie élémentaire. Les gnomes sont des historiens, des chercheurs et des savants respectés bien déterminés à repousser les limites des possibilités magiques et parvenant bien souvent à réaliser des avancées inédites.
 
-{s:MR}**[Magus](./Magus.md).** Le [magus](./Magus.md) ajoute l’une des propriétés spéciales suivantes à la liste de celles qu’il peut donner à son arme en utilisant sa [réserve magique](./Magus.md#RESERVEMAGIQUE) : *[d’alliance](./alliance (propriété).md)*, *[conductrice](./conductrice (propriété).md)*, *[corrosive](./corrosive (propriété).md)*, *[d’explosion corrosive](./explosion corrosive (propriété).md)*, *[d’enchaînement](./enchaînement (propriété).md)*, *[menaçante](./menaçante (propriété).md)*, *[gardienne](./gardienne (propriété).md)*, *[miséricordieuse](./miséricordieuse (propriété).md)*, *[spectrale](./spectrale (propriété).md)*, *[vicieuse](./vicieuse (propriété).md)*. Impossible de changer une propriété obtenue grâce à cette récompense.
+{s:MR}**[[Magus]].** Le [[magus]] ajoute l’une des propriétés spéciales suivantes à la liste de celles qu’il peut donner à son arme en utilisant sa [[Magus#RESERVEMAGIQUE|réserve magique]] : *[[alliance (propriété)|d’alliance]]*, *[[conductrice (propriété)|conductrice]]*, *[[corrosive (propriété)|corrosive]]*, *[[explosion corrosive (propriété)|d’explosion corrosive]]*, *[[enchaînement (propriété)|d’enchaînement]]*, *[[menaçante (propriété)|menaçante]]*, *[[gardienne (propriété)|gardienne]]*, *[[miséricordieuse (propriété)|miséricordieuse]]*, *[[spectrale (propriété)|spectrale]]*, *[[vicieuse (propriété)|vicieuse]]*. Impossible de changer une propriété obtenue grâce à cette récompense.
 
-{s:AO}**[Médium](./Médium.md).** Le personnage bénéficie d’un bonus de +1/2 aux tests de [Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md), [Intimidation](./Intimidation.md) et [Psychologie](./Psychologie.md) effectués contre les esprits, les [morts-vivants](./type Mort-vivant.md), les [fantômes de spirite](./Fantômes (Spirite).md) et les créatures natives du [plan Astral](./Plans ésotériques.md#PLANASTRAL).
+{s:AO}**[[Médium]].** Le personnage bénéficie d’un bonus de +1/2 aux tests de [[Bluff]], [[Diplomatie]], [[Intimidation]] et [[Psychologie]] effectués contre les esprits, les [[type Mort-vivant|morts-vivants]], les [[Fantômes (Spirite)|fantômes de spirite]] et les créatures natives du [[plans ésotériques#PLANASTRAL|plan Astral]].
 
-{s:MR}{s:APG}**[Moine](./Moine.md).** Le moine gagne un bonus de +1 aux tests d’[Acrobaties](./Acrobaties.md) qu’il peut faire en dépensant un point de [réserve de ki](./Moine.md#RESERVEDEKI). Le moine doit être au moins de niveau 5 avant de choisir cette récompense.
+{s:MR}{s:APG}**[[Moine]].** Le moine gagne un bonus de +1 aux tests d’[[Acrobaties]] qu’il peut faire en dépensant un point de [[Moine#RESERVEDEKI|réserve de ki]]. Le moine doit être au moins de niveau 5 avant de choisir cette récompense.
 Les gnomes sont des individus hauts en couleurs, passionnés et flamboyants par nature. Ces traits de caractère transparaissent dans leur vision de la perfection physique et naturelle. Bon nombre d’entre eux utilisent donc des styles martiaux imprévisibles qui ressemblent plus à des danses improvisées qu’à des techniques maîtrisées à force de pratique.
 
-{s:AO}**[Occultiste](./Occultiste.md).** Le personnage augmente d’une minute la durée de ses [chimères mineures](./Écoles instrumentales.md#ILLUSIONFOCALISATIONDEBASE). Il augmente également de 2 % les chances de rater engendrées par le [camouflage total](./Modificateurs de combat.md#CAMOUFLAGETOTAL) de son [pouvoir de résonance de distorsion](./Écoles instrumentales.md#ILLUSIONRESONANCE). Cette option n’augmente pas la limite maximale des chances de rater.
+{s:AO}**[[Occultiste]].** Le personnage augmente d’une minute la durée de ses [[écoles instrumentales#ILLUSIONFOCALISATIONDEBASE|chimères mineures]]. Il augmente également de 2 % les chances de rater engendrées par le [[Modificateurs de combat#CAMOUFLAGETOTAL|camouflage total]] de son [[Écoles instrumentales#ILLUSIONRESONANCE|pouvoir de résonance de distorsion]]. Cette option n’augmente pas la limite maximale des chances de rater.
 
-{s:MR}{s:APG}**[Oracle](./Oracle.md).** L’oracle ajoute +1/2 à son niveau quand il détermine les effets de sa [malédiction d’oracle](./Oracle.md#MALEDICTIONDELORACLE).
+{s:MR}{s:APG}**[[Oracle]].** L’oracle ajoute +1/2 à son niveau quand il détermine les effets de sa [[Oracle#MALEDICTIONDELORACLE|malédiction d’oracle]].
 Les gnomes descendent d’anciens esprits féeriques, ce qui les prédispose naturellement aux dévotions oraculaires, à l’interprétation des signes venant de l’au-delà et à l’écoute des murmures des forces naturelles.
 
-{s:MR}{s:APG}**[Paladin](./Paladin.md).** Le paladin ajoute +1/2 point de vie à son [imposition des mains](./Paladin.md#IMPOSITIONDESMAINS), qu’il l’utilise pour soigner ou pour blesser.
+{s:MR}{s:APG}**[[Paladin]].** Le paladin ajoute +1/2 point de vie à son [[Paladin#IMPOSITIONDESMAINS|imposition des mains]], qu’il l’utilise pour soigner ou pour blesser.
 Les gnomes dotés d’un zèle religieux exceptionnel ou de la passion de protéger ceux qui les entourent deviennent parfois des paladins. La plupart d’entre eux trouvent leur aptitude à parler avec les animaux très utile, à la fois pour communiquer avec leur monture et pour pourchasser les mécréants.
 
-{s:MR}**[Pistolier](./Pistolier.md).** Le pistolier met 5 minutes de moins (50 minutes de moins au maximum) pour réparer une arme à feu cassée grâce au don [Création d’armes à feu](./Création darmes à feu.md).
+{s:MR}**[[Pistolier]].** Le pistolier met 5 minutes de moins (50 minutes de moins au maximum) pour réparer une arme à feu cassée grâce au don [[Création darmes à feu|Création d’armes à feu]].
 
-{s:MR}{s:APG}**[Prêtre](./Prêtre.md).** Le prêtre ajoute +1/2 point à sa [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) quand il soigne des créatures de type [animal](./type Animal.md), [fée](./type Fée.md) ou [plante](./type Plante.md).
-Les gnomes deviennent souvent les serviteurs des [dieux](./../Golarion/Religions et philosophies.md), en particulier envers les divinités de l'art, de la musique, de l'exploration,  de la découverte, et de la gaieté, témoignant leur ferveur pour la création avec un véritable zèle religieux.
+{s:MR}{s:APG}**[[Prêtre]].** Le prêtre ajoute +1/2 point à sa [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] quand il soigne des créatures de type [[type animal|animal]], [[type fée|fée]] ou [[type plante|plante]].
+Les gnomes deviennent souvent les serviteurs des [[Golarion.religions et philosophies|dieux]], en particulier envers les divinités de l'art, de la musique, de l'exploration,  de la découverte, et de la gaieté, témoignant leur ferveur pour la création avec un véritable zèle religieux.
 
-{s:MCA}**[Prêtre combattant](./Prêtre combattant.md).** Ajoute 1/2 au résultat de la [canalisation d’énergie](./Prêtre combattant.md#CANALISATIONDENERGIE) du prêtre combattant quand il soigne des créatures de type [animal](./type Animal.md), [fée](./type Fée.md) ou [plante](./type Plante.md).
+{s:MCA}**[[Prêtre combattant]].** Ajoute 1/2 au résultat de la [[Prêtre combattant#CANALISATIONDENERGIE|canalisation d’énergie]] du prêtre combattant quand il soigne des créatures de type [[type animal|animal]], [[type fée|fée]] ou [[type plante|plante]].
 
-{s:AO}**[Psychiste](./Psychiste.md).** Le personnage augmente de 1/3 point le nombre total de points que contient sa [réserve phrénique](./Psychiste.md#RESERVEPHRENIQUE).
+{s:AO}**[[Psychiste]].** Le personnage augmente de 1/3 point le nombre total de points que contient sa [[psychiste#RESERVEPHRENIQUE|réserve phrénique]].
 
-{s:MR}{s:APG}**[Rôdeur](./Rôdeur.md).** Le [compagnon animal](./compagnon animal.md) du rôdeur gagne une [RD](./RD.md) 1/ magie. Cette RD augmente de +1/2 à chaque fois que le rôdeur choisit de nouveau cette récompense (avec un maximum de RD 10/magie). Si le rôdeur remplace son compagnon animal, le nouveau gagne la même RD que l’ancien.
-Les gnomes qui décident de prendre les armes deviennent le plus souvent des [rôdeurs](./Rôdeur.md), ce qui leur permet de tirer parti de la relation innée qui les lie à la nature et de leur capacité à communiquer avec ses créations.
+{s:MR}{s:APG}**[[Rôdeur]].** Le [[compagnon animal]] du rôdeur gagne une [[RD]] 1/ magie. Cette RD augmente de +1/2 à chaque fois que le rôdeur choisit de nouveau cette récompense (avec un maximum de RD 10/magie). Si le rôdeur remplace son compagnon animal, le nouveau gagne la même RD que l’ancien.
+Les gnomes qui décident de prendre les armes deviennent le plus souvent des [[rôdeur|rôdeurs]], ce qui leur permet de tirer parti de la relation innée qui les lie à la nature et de leur capacité à communiquer avec ses créations.
 
-{s:MR}{s:APG}**[Roublard](./Roublard.md).** Le roublard gagne un bonus de +1/2 aux tests de [Sabotage](./Sabotage.md) et d’
-[Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) liés aux glyphes, aux symboles, aux parchemins et autres écrits magiques.
+{s:MR}{s:APG}**[[Roublard]].** Le roublard gagne un bonus de +1/2 aux tests de [[Sabotage]] et d’
+[[Utilisation dObjets Magiques|Utilisation d’objets magiques]] liés aux glyphes, aux symboles, aux parchemins et autres écrits magiques.
 Les roublards gnomes maîtrisent généralement une large variété de compétences. Ils jouent de leur personnalité charismatique dans leurs relations avec les autres et ajoutent même une touche de magie pour améliorer leurs talents lors de la création et de la manipulation de serrures et de pièges.
 
-{s:MCA}**[Sanguin](./Sanguin.md).** Ajoute 1/4 au niveau de classe effectif du sanguin quand il détermine la puissance de ses pouvoirs de [lignage](./Sanguin.md#LIGNAGE).
+{s:MCA}**[[Sanguin]].** Ajoute 1/4 au niveau de classe effectif du sanguin quand il détermine la puissance de ses pouvoirs de [[Sanguin#LIGNAGE|lignage]].
 
-{s:MCA}**[Scalde](./Scalde.md).** Bonus de +1 aux tests de [concentration](./concentration.md) pour lancer un sort de scalde.
+{s:MCA}**[[Scalde]].** Bonus de +1 aux tests de [[concentration]] pour lancer un sort de scalde.
 
-{s:MR}{s:APG}**[Sorcière](./Sorcière.md).** La sorcière gagne 1/6 d’un nouveau [maléfice](./Sorcière.md#MALEFICE).
+{s:MR}{s:APG}**[[Sorcière]].** La sorcière gagne 1/6 d’un nouveau [[Sorcière#MALEFICE|maléfice]].
 Les gnomes n’hésitent pas à faire appel à des pouvoirs étranges et anciens, ce qui en fait des sorcières étonnamment douées. La plupart des sorcières gnomes adoptent des familiers étranges ou exotiques qui correspondent bien à leur personnalité.
 
-{s:AO}**[Spirite](./Spirite.md).** Le personnage ajoute 1/6 au bonus de bouclier dont il bénéficie quand il est sous l’effet d’une [interférence spirituelle normale](./Spirite.md#INTERFERENCESPIRITUELLE) ou [supérieure](./Spirite.md#INTERFERENCESPIRITUELLESUPERIEURE).
+{s:AO}**[[Spirite]].** Le personnage ajoute 1/6 au bonus de bouclier dont il bénéficie quand il est sous l’effet d’une [[spirite#INTERFERENCESPIRITUELLE|interférence spirituelle normale]] ou [[spirite#INTERFERENCESPIRITUELLESUPERIEURE|supérieure]].
 
-{s:MCA}**[Tueur](./Tueur.md).** Gain de 1/6 d’un nouveau [talent de tueur](./Tueur.md#TALENTDETUEUR).
+{s:MCA}**[[Tueur]].** Gain de 1/6 d’un nouveau [[Tueur#TALENTDETUEUR|talent de tueur]].
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -239,135 +239,135 @@ Voici les options accessibles aux gnomes, d’autres races adaptées peuvent s�
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Arme de prédilection gnome](./Arme de prédilection gnome.md)* || <sup>MR</sup> || [BBA](./BBA.md) +1, [gnome](./Gnome.md), maniement de toutes les armes de guerre || +1 aux jets d'attaque avec les armes gnomes
+| [[Arme de prédilection gnome]]* || <sup>MR</sup> || [[BBA]] +1, [[gnome]], maniement de toutes les armes de guerre || +1 aux jets d'attaque avec les armes gnomes
 
 |- CLASS="premier"
-| [Calomnies corrosives](./Calomnies corrosives.md) || <sup>MR</sup> || 1 rang en [Bluff](./Bluff.md), capacité de classe [ennemi juré](./Rôdeur.md#ENNEMIJURE), [gnome](./Gnome.md) || Insulte un ennemi juré pour l'énerver
+| [[Calomnies corrosives]] || <sup>MR</sup> || 1 rang en [[Bluff]], capacité de classe [[Rôdeur#ENNEMIJURE|ennemi juré]], [[gnome]] || Insulte un ennemi juré pour l'énerver
 
 |- CLASS="premier"
-| [Crise de larmes](./Crise de larmes.md) || <sup>MR</sup> || 1 rang en [Bluff](./Bluff.md), capacité de classe [rage de berserker](./Barbare.md#RAGE), [gnome](./Gnome.md) || Utilise la compétence Bluff pour feinter pendant une rage
+| [[Crise de larmes]] || <sup>MR</sup> || 1 rang en [[Bluff]], capacité de classe [[Barbare#RAGE|rage de berserker]], [[gnome]] || Utilise la compétence Bluff pour feinter pendant une rage
 
 |- CLASS="premier"
-| [Échos du Premier Monde](./Échos du Premier Monde.md) || <sup>*ISR*</sup> || 2 rangs en [Connaissances](./Connaissances.md) (nature), sous-type [gnome](./sous-type gnome.md) || Gain d'une RD 2/fer froid et est considéré comme une fée plutôt qu'un humanoïde à proximité d'alliés avec ce don
+| [[Échos du Premier Monde]] || <sup>*ISR*</sup> || 2 rangs en [[Connaissances]] (nature), sous-type [[sous-type gnome|gnome]] || Gain d'une RD 2/fer froid et est considéré comme une fée plutôt qu'un humanoïde à proximité d'alliés avec ce don
 
 |- CLASS="premier"
-| [École de l'enfant de la terre](./École de lenfant de la terre.md)* || <sup>AG</sup> || [Sag](./Sag.md) 13, [nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif, [Science du combat à mains nues](./Science du combat à mains nues.md), 3 rangs en [Acrobaties](./Acrobaties.md) || La CA de l’entraînement défensif passe à +6 contre les géants
+| [[École de lenfant de la terre|École de l'enfant de la terre]]* || <sup>AG</sup> || [[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[Science du combat à mains nues]], 3 rangs en [[Acrobaties]] || La CA de l’entraînement défensif passe à +6 contre les géants
 |-
-| &emsp;[Renversement de l'enfant de la terre](./Renversement de lenfant de la terre.md)* || <sup>AG</sup> || [Sag](./Sag.md) 13, [nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif, [École de l'enfant de la terre](./École de lenfant de la terre.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Science du combat à mains nues](./Science du combat à mains nues.md), 6 rangs en [Acrobaties](./Acrobaties.md) || Le personnage peut faire un croc-en-jambe à un géant de taille TG au maximum
+| &emsp;[[Renversement de lenfant de la terre|Renversement de l'enfant de la terre]]* || <sup>AG</sup> || [[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[École de lenfant de la terre|École de l'enfant de la terre]], [[Science du croc-en-jambe]], [[Science du combat à mains nues]], 6 rangs en [[Acrobaties]] || Le personnage peut faire un croc-en-jambe à un géant de taille TG au maximum
 |-
-| &emsp;&emsp;[Lien de l'enfant de la terre](./Lien de lenfant de la terre.md)* || <sup>AG</sup> || [Sag](./Sag.md) 13, [nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif, [École de l'enfant de la terre](./École de lenfant de la terre.md), [Renversement de l'enfant de la terre](./Renversement de lenfant de la terre.md), [Croc-en-jambe supérieur](./Croc-en-jambe supérieur.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Coup étourdissant](./Coup étourdissant.md), 9 rangs en [Acrobaties](./Acrobaties.md) || Le personnage peut faire un croc-en-jambe à un géant de n’importe quelle taille. Il peut décider d’appliquer le Coup étourdissant une fois qu’il sait que l’attaque d’opportunité portée contre un géant qui se relève a touché
+| &emsp;&emsp;[[Lien de lenfant de la terre|Lien de l'enfant de la terre]]* || <sup>AG</sup> || [[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[École de lenfant de la terre|École de l'enfant de la terre]], [[Renversement de lenfant de la terre|Renversement de l'enfant de la terre]], [[Croc-en-jambe supérieur]], [[Science du croc-en-jambe]], [[Science du combat à mains nues]], [[Coup étourdissant]], 9 rangs en [[Acrobaties]] || Le personnage peut faire un croc-en-jambe à un géant de n’importe quelle taille. Il peut décider d’appliquer le Coup étourdissant une fois qu’il sait que l’attaque d’opportunité portée contre un géant qui se relève a touché
 
 |- CLASS="premier"
-| [Esprit de l'école de magie](./Esprit de lécole de magie.md) || <sup>MR</sup> || 1 rang en [Bluff](./Bluff.md), capacité de classe [école de magie](./Magicien.md#ECOLEDEMAGIE), [gnome](./Gnome.md) || Discours élogieux des sorts de l'école de magie du personnage pour qu'y résister soit plus difficile
+| [[Esprit de lécole de magie|Esprit de l'école de magie]] || <sup>MR</sup> || 1 rang en [[Bluff]], capacité de classe [[Magicien#ECOLEDEMAGIE|école de magie]], [[gnome]] || Discours élogieux des sorts de l'école de magie du personnage pour qu'y résister soit plus difficile
 
 |- CLASS="premier"
-| [Expériences variées](./Expériences variées.md) || <sup>MJRA</sup> || [Nain](./Nain.md), [elfe](./Elfe.md), ou [gnome](./Gnome.md); 100 ans ou plus || +2 sur tous les tests de Connaissances ou de Profession
+| [[Expériences variées]] || <sup>MJRA</sup> || [[Nain]], [[elfe]], ou [[gnome]]; 100 ans ou plus || +2 sur tous les tests de Connaissances ou de Profession
 
 |- CLASS="premier"
-| [Feinte subtile](./Feinte subtile.md) || <sup>MR</sup> || 1 rang en [Bluff](./Bluff.md), capacité de classe [entraînement aux armes](./entraînement aux armes.md), [gnome](./Gnome.md) || Augmente la CA au lieu de blesser la cible lors qu'une feinte
+| [[Feinte subtile]] || <sup>MR</sup> || 1 rang en [[Bluff]], capacité de classe [[entraînement aux armes]], [[gnome]] || Augmente la CA au lieu de blesser la cible lors qu'une feinte
 
 |- CLASS="premier"
-| [Grande haine](./Grande haine.md)* || <sup>MR</sup> || [Gnome](./Gnome.md), trait racial [haine](./Gnome.md#Traits_raciaux_standards_6) || +1 supplémentaire à l'attaque contre les cibles de la haine du personnage
+| [[Grande haine]]* || <sup>MR</sup> || [[Gnome]], trait racial [[Gnome#Traits_raciaux_standards_6|haine]] || +1 supplémentaire à l'attaque contre les cibles de la haine du personnage
 
 |- CLASS="premier"
-| [Illusion menaçante](./Illusion menaçante.md) || <sup>MR</sup> || [École renforcée](./École renforcée.md) (illusion), [gnome](./Gnome.md) || Fait croire aux adversaires que les illusions du personnage sont de vraies menaces
+| [[Illusion menaçante]] || <sup>MR</sup> || [[École renforcée]] (illusion), [[gnome]] || Fait croire aux adversaires que les illusions du personnage sont de vraies menaces
 
 |- CLASS="premier"
-| [Illusionniste amateur](./Illusionniste amateur.md) || <sup>MR</sup> || [Gnome](./Gnome.md), trait racial [magie gnome](./Gnome.md#Traits_raciaux_standards_6) || Bonus aux tests de Bluff, de Déguisement, et d'Escamotage tant que le personnage a des pouvoirs magiques d'illusion inutilisés
+| [[Illusionniste amateur]] || <sup>MR</sup> || [[Gnome]], trait racial [[Gnome#Traits_raciaux_standards_6|magie gnome]] || Bonus aux tests de Bluff, de Déguisement, et d'Escamotage tant que le personnage a des pouvoirs magiques d'illusion inutilisés
 
 |- CLASS="premier"
-| [Imitation des semblables](./Imitation des semblables.md) || <sup>*ISR*</sup> || 8 rangs en [Bluff](./Bluff.md), [gnome](./Gnome.md), trait racial magie gnome || Gain d'un camouflage de 20 % lorsque le personnage est adjacent à un allié avec ce don
+| [[Imitation des semblables]] || <sup>*ISR*</sup> || 8 rangs en [[Bluff]], [[gnome]], trait racial magie gnome || Gain d'un camouflage de 20 % lorsque le personnage est adjacent à un allié avec ce don
 
 |- CLASS="premier"
-| [Immense haine](./Immense haine.md)* || <sup>MR</sup> || [Gnome](./Gnome.md), trait racial [haine](./Gnome.md#Traits_raciaux_standards_6) || Étend la haine du personnage à deux nouveaux types de créatures
+| [[Immense haine]]* || <sup>MR</sup> || [[Gnome]], trait racial [[Gnome#Traits_raciaux_standards_6|haine]] || Étend la haine du personnage à deux nouveaux types de créatures
 
 |- CLASS="premier"
-| [Invocation de l'instinct primal](./Invocation de linstinct primal.md) || <sup>MR</sup> || 1 rang en [Bluff](./Bluff.md), capacité de classe [forme animale](./Forme animale.md), [gnome](./Gnome.md) || Imite un prédateur ou une proie, effrayant ou paraissant inoffensif pour ceux qui voient le personnage
+| [[Invocation de linstinct primal|Invocation de l'instinct primal]] || <sup>MR</sup> || 1 rang en [[Bluff]], capacité de classe [[forme animale]], [[gnome]] || Imite un prédateur ou une proie, effrayant ou paraissant inoffensif pour ceux qui voient le personnage
 
 |- CLASS="premier"
-| [Liens du sang](./Liens du sang.md) || <sup>MR</sup> || 1 rang en [Bluff](./Bluff.md), capacité de classe [lignage d'ensorceleur](./Ensorceleur.md#LIGNAGE), [gnome](./Gnome.md) || Utilise le Bluff au lieu de la Diplomatie pour influencer des créatures proches du lignage du personnage
+| [[Liens du sang]] || <sup>MR</sup> || 1 rang en [[Bluff]], capacité de classe [[Ensorceleur#LIGNAGE|lignage d'ensorceleur]], [[gnome]] || Utilise le Bluff au lieu de la Diplomatie pour influencer des créatures proches du lignage du personnage
 
 |- CLASS="premier"
-| [Magie gnome supplémentaire](./Magie gnome supplémentaire.md) || <sup>MR</sup> || [Cha](./Cha.md) 13, [gnome](./Gnome.md) || Gain de 3 utilisations quotidiennes supplémentaires des pouvoirs innés de gnome
+| [[Magie gnome supplémentaire]] || <sup>MR</sup> || [[Cha]] 13, [[gnome]] || Gain de 3 utilisations quotidiennes supplémentaires des pouvoirs innés de gnome
 
 |- CLASS="premier"
-| [Maître des merveilles](./Maître des merveilles.md) || <sup>MR</sup> || [Volonté de fer](./Volonté de fer.md), membre des Chercheurs de merveilles, [gnome](./Gnome.md) || Deux jets pour déterminer les effets d'un sceptre merveilleux
+| [[Maître des merveilles]] || <sup>MR</sup> || [[Volonté de fer]], membre des Chercheurs de merveilles, [[gnome]] || Deux jets pour déterminer les effets d'un sceptre merveilleux
 
 |- CLASS="premier"
-| [Prestidigitateur gnome](./Prestidigitateur gnome.md) || <sup>MJRA</sup> || [Cha](./Cha.md) 13, [gnome](./Gnome.md), trait racial [magie gnome](./Gnome.md#Traits_raciaux_standards_6) || Utiliser manipulation à distance' et prestidigitation une fois par jour
+| [[Prestidigitateur gnome]] || <sup>MJRA</sup> || [[Cha]] 13, [[gnome]], trait racial [[Gnome#Traits_raciaux_standards_6|magie gnome]] || Utiliser manipulation à distance' et prestidigitation une fois par jour
 
 |- CLASS="premier"
-| [Prisonnier sans défense](./Prisonnier sans défense.md) || <sup>MR</sup> || 5 rangs en [Bluff](./Bluff.md), 1 rang en [Évasion](./Évasion.md), [gnome](./Gnome.md) || Bluff les goeliers pour qu'ils libèrent le personnage
+| [[Prisonnier sans défense]] || <sup>MR</sup> || 5 rangs en [[Bluff]], 1 rang en [[Évasion]], [[gnome]] || Bluff les goeliers pour qu'ils libèrent le personnage
 
 |- CLASS="premier"
-| [Proche de la terre](./Proche de la terre.md) || <sup>MJRA</sup> || [Cha](./Cha.md) 13, [gnome](./Gnome.md), trait racial [magie gnome](./Gnome.md#Traits_raciaux_standards_6) || Pouvoir magique permettant de parler avec les animaux fouisseurs
+| [[Proche de la terre]] || <sup>MJRA</sup> || [[Cha]] 13, [[gnome]], trait racial [[Gnome#Traits_raciaux_standards_6|magie gnome]] || Pouvoir magique permettant de parler avec les animaux fouisseurs
 
 |- CLASS="premier"
-| [Question déconcertante](./Question déconcertante.md) || <sup>MR</sup> || 1 rang en [Bluff](./Bluff.md), capacité de classe [réserve de ki](./réserve de ki.md), [gnome](./Gnome.md) || Pose une question à laquelle on ne peut répondre pour distraire les ennemis
+| [[Question déconcertante]] || <sup>MR</sup> || 1 rang en [[Bluff]], capacité de classe [[réserve de ki]], [[gnome]] || Pose une question à laquelle on ne peut répondre pour distraire les ennemis
 
 |- CLASS="premier"
-| [Résistance étendue](./Résistance étendue.md) || <sup>MR</sup> || [Gnome](./Gnome.md), trait racial [résistance aux illusions](./Gnome.md#Traits_raciaux_standards_6) || La résistance aux illusions s'applique à une autre école de magie
+| [[Résistance étendue]] || <sup>MR</sup> || [[Gnome]], trait racial [[Gnome#Traits_raciaux_standards_6|résistance aux illusions]] || La résistance aux illusions s'applique à une autre école de magie
 
 |- CLASS="premier"
-| [Supercherie facile](./Supercherie facile.md) || <sup>MR</sup> || [Gnome](./Gnome.md) || Maintenir la concentration des sorts d'illusion est plus facile
+| [[Supercherie facile]] || <sup>MR</sup> || [[Gnome]] || Maintenir la concentration des sorts d'illusion est plus facile
 
 |- CLASS="premier"
-| [Talent magique](./Talent magique.md) || <sup>MJRA</sup> || [Cha](./Cha.md) 10; [elfe](./Elfe.md), [demi-elfe](./Demi-elfe.md) ou [gnome](./Gnome.md) || Lancer un sort de niveau 0 trois par jour comme un pouvoir magique
+| [[Talent magique]] || <sup>MJRA</sup> || [[Cha]] 10; [[elfe]], [[demi-elfe]] ou [[gnome]] || Lancer un sort de niveau 0 trois par jour comme un pouvoir magique
 
 |- CLASS="premier"
-| [Tonnerres jumeaux](./Tonnerres jumeaux.md)* || <sup>AG</sup> || [Nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif, [Combat à deux armes](./Combat à deux armes.md) ou capacité de classe [déluge de coups](./Moine.md#DELUGEDECOUPS), [Arme de prédilection](./Arme de prédilection.md) avec les deux armes utilisées || Remplace une attaque contre un géant par une tentative de désarmement, de destruction d’arme ou de croc-en-jambe
+| [[Tonnerres jumeaux]]* || <sup>AG</sup> || [[Nain]] ou [[gnome]], trait racial entraînement défensif, [[Combat à deux armes]] ou capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]], [[Arme de prédilection]] avec les deux armes utilisées || Remplace une attaque contre un géant par une tentative de désarmement, de destruction d’arme ou de croc-en-jambe
 |-
-| &emsp;[Déluge des tonnerres jumeaux](./Déluge des tonnerres jumeaux.md)* || <sup>AG</sup> || [Nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif; [Science du combat à deux armes](./Science du combat à deux armes.md) et [Combat à deux armes](./Combat à deux armes.md), ou capacité de classe [déluge de coups](./Moine.md#DELUGEDECOUPS); [Tonnerres jumeaux](./Tonnerres jumeaux.md); [Arme de prédilection](./Arme de prédilection.md) avec les deux armes utilisées; [BBA](./BBA.md) +6 || Possibilité de croc-en-jambe contre un géant de taille TG et +2 points de dégâts contre les géants
+| &emsp;[[Déluge des tonnerres jumeaux]]* || <sup>AG</sup> || [[Nain]] ou [[gnome]], trait racial entraînement défensif; [[Science du combat à deux armes]] et [[Combat à deux armes]], ou capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]]; [[Tonnerres jumeaux]]; [[Arme de prédilection]] avec les deux armes utilisées; [[BBA]] +6 || Possibilité de croc-en-jambe contre un géant de taille TG et +2 points de dégâts contre les géants
 |-
-| &emsp;&emsp;[Maître des tonnerres jumeaux](./Maître des tonnerres jumeaux.md)* || <sup>AG</sup> || [Nain](./Nain.md) ou [gnome](./Gnome.md), trait racial entraînement défensif; [Science du combat à deux armes](./Science du combat à deux armes.md) et [Combat à deux armes](./Combat à deux armes.md), ou capacité de classe [déluge de coups](./Moine.md#DELUGEDECOUPS); [Tonnerres jumeaux](./Tonnerres jumeaux.md); [Déluge des tonnerres jumeaux](./Déluge des tonnerres jumeaux.md); [Arme de prédilection](./Arme de prédilection.md) avec les deux armes utilisées; [BBA](./BBA.md) +9 || L’adversaire frappé par les tonnerres jumeaux est secoué
+| &emsp;&emsp;[[Maître des tonnerres jumeaux]]* || <sup>AG</sup> || [[Nain]] ou [[gnome]], trait racial entraînement défensif; [[Science du combat à deux armes]] et [[Combat à deux armes]], ou capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]]; [[Tonnerres jumeaux]]; [[Déluge des tonnerres jumeaux]]; [[Arme de prédilection]] avec les deux armes utilisées; [[BBA]] +9 || L’adversaire frappé par les tonnerres jumeaux est secoué
 
 |- CLASS="premier"
-| [Trafiquant de camelote](./Trafiquant de camelote.md) || <sup>MR</sup> || 5 rangs en [Estimation](./Estimation.md), 5 rangs en [Bluff](./Bluff.md), [gnome](./Gnome.md) || Pousse des créatures à échanger des objets précieux contre des babioles
+| [[Trafiquant de camelote]] || <sup>MR</sup> || 5 rangs en [[Estimation]], 5 rangs en [[Bluff]], [[gnome]] || Pousse des créatures à échanger des objets précieux contre des babioles
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Fabricant de pistolets expérimentaux (pistolier)](./Fabricant de pistolets expérimentaux (pistolier).md) *(MR)*
-- [Farceur (barde)](./Farceur (barde).md) *(MR)*
-- [Saboteur (alchimiste)](./Saboteur (alchimiste).md) *(MR)*
+- [[Fabricant de pistolets expérimentaux (pistolier)]] *(MR)*
+- [[Farceur (barde)]] *(MR)*
+- [[Saboteur (alchimiste)]] *(MR)*
 
 #### Équipement
-- [Bâton de lune](./Bâton de lune (objet).md) *(MR)*
-- [Bouclier désarmant en acier](./Bouclier désarmant (armure).md) *(MR)*
-- [Bouclier désarmant en bois](./Bouclier désarmant (armure).md) *(MR)*
-- [Carnet obsessionnel](./Carnet obsessionnel (objet).md) *(MR)*
-- [Coutille à scie circulaire](./coutille à scie circulaire (arme).md) *(MR)*
-- [Échelle de guerre](./échelle de guerre (arme).md) *(MR)*
-- [Encens antiodeur](./Encens antiodeur (objet).md) *(MR)*
-- [Fléau long](./fléau long (arme).md) *(MR)*
-- [Habits de dilettante](./Habits de dilettante (objet).md) *(MR)*
-- [Javelot-tonnerre](./javelot-tonnerre (arme).md) *(MR)*
-- [Lance-flasque](./lance-flasque (arme).md) *(MR)*
-- [Masse à piston](./masse à piston (arme).md) *(MR)*
-- [Masse-yoyo gnome](./Masse-yoyo gnome (arme).md) *(MR)*
-- [Sang de molosse](./Sang de molosse (objet).md) *(MR)*
-- [Sifflet du shérif](./Sifflet du shérif (objet).md) *(MR)*
+- [[Bâton de lune (objet)|Bâton de lune]] *(MR)*
+- [[Bouclier désarmant (armure)|Bouclier désarmant en acier]] *(MR)*
+- [[Bouclier désarmant (armure)|Bouclier désarmant en bois]] *(MR)*
+- [[Carnet obsessionnel (objet)|Carnet obsessionnel]] *(MR)*
+- [[coutille à scie circulaire (arme)|Coutille à scie circulaire]] *(MR)*
+- [[échelle de guerre (arme)|Échelle de guerre]] *(MR)*
+- [[Encens antiodeur (objet)|Encens antiodeur]] *(MR)*
+- [[fléau long (arme)|Fléau long]] *(MR)*
+- [[Habits de dilettante (objet)|Habits de dilettante]] *(MR)*
+- [[javelot-tonnerre (arme)|Javelot-tonnerre]] *(MR)*
+- [[lance-flasque (arme)|Lance-flasque]] *(MR)*
+- [[masse à piston (arme)|Masse à piston]] *(MR)*
+- [[Masse-yoyo gnome (arme)|Masse-yoyo gnome]] *(MR)*
+- [[Sang de molosse (objet)|Sang de molosse]] *(MR)*
+- [[Sifflet du shérif (objet)|Sifflet du shérif]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Amulette de bénédiction des Aînés](./Amulette de bénédiction des Aînés.md) *(ISR)*
-- [Anneau de création magique](./Anneau de création magique.md) *(MR)*
-- [Armure de babioles gnome](./Armure de babioles gnome.md) *(ISR)*
-- [Bottes d'évasion](./Bottes dÉvasion.md) *(MR)*
-- [Étonnants outils d'artisanat](./étonnants outils dartisanat.md) *(MR)*
-- [Gemme des fantasmes](./gemme des fantasmes.md) *(MR)*
-- [Pièce-mouchard](./Pièce de Nésa.md) *(MR)*
+- [[Amulette de bénédiction des Aînés]] *(ISR)*
+- [[Anneau de création magique]] *(MR)*
+- [[Armure de babioles gnome]] *(ISR)*
+- [[Bottes dÉvasion|Bottes d'évasion]] *(MR)*
+- [[étonnants outils dartisanat|Étonnants outils d'artisanat]] *(MR)*
+- [[Gemme des fantasmes]] *(MR)*
+- [[Pièce de Nésa|Pièce-mouchard]] *(MR)*
 
 #### Sorts
-- [Jitterbug](./jitterbug.md) *(MR)*
-- [La mort venue d'en bas](./la mort venue den bas.md) *(MR)*
-- [Objet fantomatique mineur](./objet fantomatique mineur.md) *(MR)*
-- [Objet fantomatique majeur](./Objet fantomatique majeur.md) *(MR)*
-- [Poison illusoire](./Poison illusoire.md) *(MR)*
-- [Rechargement de la magie innée](./rechargement de la magie innée.md) *(MR)*
-- [Résistance à l'Affadissement](./Résistance à lAffadissement.md) *(ISR)*
-- [Songe mineur](./songe mineur.md) *(MR)*
+- [[Jitterbug]] *(MR)*
+- [[La mort venue den bas|La mort venue d'en bas]] *(MR)*
+- [[Objet fantomatique mineur]] *(MR)*
+- [[Objet fantomatique majeur]] *(MR)*
+- [[Poison illusoire]] *(MR)*
+- [[Rechargement de la magie innée]] *(MR)*
+- [[Résistance à lAffadissement|Résistance à l'Affadissement]] *(ISR)*
+- [[Songe mineur]] *(MR)*
 
 </td></tr></table>

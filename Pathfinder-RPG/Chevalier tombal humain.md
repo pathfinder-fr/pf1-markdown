@@ -14,15 +14,15 @@ Categories:
 {s:pucem|mort-vivant|ville|tempéré}
 {s:BDTexte|*Source : Bestiaire 3 p.49*}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|Humain, [chevalier tombal](./Chevalier tombal, archétype.md) [guerrier](./Guerrier.md) 10}
-{s:BDTexte|[mort-vivant](./type Mort-vivant.md) ([humanoïde](./type Humanoïde.md) [altéré](./sous-type altéré.md)) de taille M, LM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +19}
-{s:BDTexte|**Aura** aura sacrilège (9 m / 6 {s:c}, [DD](./DD.md) 19)}
+{s:BDTexte|Humain, [[chevalier tombal, archétype|chevalier tombal]] [[guerrier]] 10}
+{s:BDTexte|[[type mort-vivant|mort-vivant]] ([[type humanoïde|humanoïde]] [[sous-type altéré|altéré]]) de taille M, LM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +19}
+{s:BDTexte|**Aura** aura sacrilège (9 m / 6 {s:c}, [[DD]] 19)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 11, pris au dépourvu 24 (armure +10, Dex +1, naturelle +4)}
 {s:BDTexte|**pv** 139 (10d10+80)}
 {s:BDTexte|**Réf** +6, **Vig** +13, **Vol** +6 ; +3 contre la terreur}
-{s:BDTexte|**Capacités défensives** courage +3, reconstruction, résistance à la canalisation +4 ; **RD** 10/magique ; **Immunités** acide, électricité, froid, [traits des morts-vivants](./Traits des morts-vivants.md) ; **RM** 22}
+{s:BDTexte|**Capacités défensives** courage +3, reconstruction, résistance à la canalisation +4 ; **RD** 10/magique ; **Immunités** acide, électricité, froid, [[traits des morts-vivants]] ; **RM** 22}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** *épée à deux mains +1*, +25/+20 (2d6+19 plus 2d6 acide)}
@@ -31,15 +31,15 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 27, **Dex** 12, **Con** -, **Int** 15, **Sag** 12, **Cha** 18}
 {s:BDTexte|**BBA** +10, **BMO** +20, **DMD** 29}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée à deux mains), [Arme de prédilection supérieure](./Arme de prédilection supérieure.md) (épée à deux mains), [Attaque au galop](./Attaque au galop.md)<sup>B</sup>, [Attaque en puissance](./Attaque en puissance.md), [Briser les défenses](./Briser les défenses.md), [Charge dévastatrice](./Charge dévastatrice.md), [Combat monté](./Combat monté.md)<sup>S</sup>, [Démonstration](./Démonstration.md), [Désarçonner](./Désarçonner.md), [Don pour les critiques](./Don pour les critiques.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Piétinement](./Piétinement.md), [Robustesse](./Robustesse.md)<sup>S</sup>, [Science de l’initiative](./Science de linitiative.md)<sup>S</sup>, [Spécialisation martiale](./Spécialisation martiale.md) (épée à deux mains)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (noblesse) +12, [Équitation](./Équitation.md) +19, [Escalade](./Escalade.md) +13, [Intimidation](./Intimidation.md) +25, [Natation](./Natation.md) +13, [Perception](./Perception.md) +19}
-{s:BDTexte|**Modificateurs raciaux** +8 en [Équitation](./Équitation.md), +8 en [Intimidation](./Intimidation.md), +8 en [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée à deux mains), [[Arme de prédilection supérieure]] (épée à deux mains), [[Attaque au galop]]<sup>B</sup>, [[Attaque en puissance]], [[Briser les défenses]], [[Charge dévastatrice]], [[Combat monté]]<sup>S</sup>, [[Démonstration]], [[Désarçonner]], [[Don pour les critiques]], [[Enchaînement]], [[Frappe décisive]], [[Piétinement]], [[Robustesse]]<sup>S</sup>, [[Science de linitiative|Science de l’initiative]]<sup>S</sup>, [[Spécialisation martiale]] (épée à deux mains)}
+{s:BDTexte|**Compétences** [[Connaissances]] (noblesse) +12, [[Équitation]] +19, [[Escalade]] +13, [[Intimidation]] +25, [[Natation]] +13, [[Perception]] +19}
+{s:BDTexte|**Modificateurs raciaux** +8 en [[Équitation]], +8 en [[Intimidation]], +8 en [[Perception]]}
 {s:BDTexte|**Langues** commun, infernal, nain}
 {s:BDTexte|**Particularités** entraînement aux armures 2, monture fantôme, revitalisation désastreuse}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
-{s:BDTexte|**Organisation sociale** solitaire ou troupe (chevalier tombal plus 12-24 [champions squelettes](./Champion squelette.md))}
-{s:BDTexte|**Trésor** équipement de PNJ (arc long composite <nowiki>[For +8]</nowiki> avec 20 flèches, *[ceinturon de force de géant](./Ceinturon de force de géant.md)* +2, *épée à deux mains* +1, *harnois* +1, autre trésor)}
+{s:BDTexte|**Organisation sociale** solitaire ou troupe (chevalier tombal plus 12-24 [[Champion squelette|champions squelettes]])}
+{s:BDTexte|**Trésor** équipement de PNJ (arc long composite <nowiki>[[For +8]]</nowiki> avec 20 flèches, *[[ceinturon de force de géant]]* +2, *épée à deux mains* +1, *harnois* +1, autre trésor)}
 
 </div>
 

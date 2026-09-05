@@ -10,7 +10,7 @@ LastModified: 2017-04-18 17:51
 {s:pucem|Vase|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 149*}
 - **102 400 PX**
-- [Vase](./type Vase.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille M, NM
+- [[type vase|Vase]] ([[sous-type extraplanaire|extraplanaire]]) de taille M, NM
 - **Init **+7 ; **Sens** perception aveugle à 18 m ; Perception +25
 (((Défense)))
 - **CA** 32, contact 32, pris au dépourvu 28 (Dex +3, esquive +1, malfaisance +28)
@@ -21,13 +21,13 @@ LastModified: 2017-04-18 17:51
 - **VD** 6 m, vol 6 m (moyenne)
 - **Corps à corps** coup, +21 (6d6+7 plus diminution permanente de 1d3 Sag)
 - **Pouvoirs magiques** (**NLS** 17 ; concentration +22)
-  - *À volonté* – [charme-personne](./Charme-personne.md) (DD 18), [détection de pensées](./Détection de pensées.md) (DD 17), [nuée grouillante](./Nuée grouillante.md), [télékinésie](./Télékinésie.md) (DD 20)
-  - *3/jour* – [brume mentale](./Brume mentale.md) (DD 20), [cauchemar](./Cauchemar.md) (DD 20), [charme-monstre](./Charme-monstre.md) (DD 19), [charme-personne](./Charme-personne.md) à incantation rapide (DD 18), [contrôle des morts-vivants](./Contrôle des morts-vivants.md) (DD 22), [fléau d’insectes](./Fléau dinsectes.md), [mort rampante](./Mort rampante.md) (DD 22)
+  - *À volonté* – [[charme-personne]] (DD 18), [[détection de pensées]] (DD 17), [[nuée grouillante]], [[télékinésie]] (DD 20)
+  - *3/jour* – [[brume mentale]] (DD 20), [[cauchemar]] (DD 20), [[charme-monstre]] (DD 19), [[charme-personne]] à incantation rapide (DD 18), [[contrôle des morts-vivants]] (DD 22), [[fléau dinsectes|fléau d’insectes]], [[mort rampante]] (DD 22)
 (((Statistiques)))
 - **For** 20, **Dex** 17, **Con** 26, **Int** 21, **Sag** 20, **Cha** 21
 - **BBA **+15 ; **BMO **+20 (+24 en lutte) ; **DMD** 34 (croc-en-jambe impossible) 
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (coup), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (charme-personne), [Esquive](./Esquive.md), [Magie de guerre](./Magie de guerre.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (charme-personne), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md), [Science de la vigueur surhumaine](./Science de la vigueur surhumaine.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Vol stationnaire](./Vol stationnaire.md)
-- **Compétences** [Art de la magie](./Art de la magie.md) +25, [Connaissances](./Connaissances.md) (mystères, histoire,plans) +25, [Intimidation](./Intimidation.md) +25, [Perception](./Perception.md) +25, [Psychologie](./Psychologie.md) +25, [Vol](./Vol.md) +3 
+- **Dons** [[Arme de prédilection]] (coup), [[Attaque spéciale renforcée]] (charme-personne), [[Esquive]], [[Magie de guerre]], [[Pouvoir magique rapide]] (charme-personne), [[Robustesse]], [[Science de linitiative|Science de l’initiative]], [[Science de la vigueur surhumaine]], [[Vigueur surhumaine]], [[Vol stationnaire]]
+- **Compétences** [[Art de la magie]] +25, [[Connaissances]] (mystères, histoire,plans) +25, [[Intimidation]] +25, [[Perception]] +25, [[Psychologie]] +25, [[Vol]] +3 
 - **Langues** abyssal, aklo, commun des profondeurs, infernal (ne sait pas parler) ; télépathie à 30 m
 - **Particularités** compression, corruption d’allié, ne respire pas
 (((Écologie)))

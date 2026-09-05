@@ -9,10 +9,10 @@ Categories:
 ---
 
 {s:UM}
-**École** [nécromancie](./Nécromancie.md)  ; **Niveau** [barde](./Barde.md) 1, [prêtre](./Prêtre.md) 1, [inquisiteur](./Inquisiteur.md) 1, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 1, [sorcière](./Sorcière.md) 1  
+**École** [[nécromancie]]  ; **Niveau** [[barde]] 1, [[prêtre]] 1, [[inquisiteur]] 1, [[ensorceleur]]/[[magicien]] 1, [[sorcière]] 1  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Les cibles d’un sort incluant cet effet sont [fiévreuses](./Fiévreux.md).
+Les cibles d’un sort incluant cet effet sont [[fiévreux|fiévreuses]].

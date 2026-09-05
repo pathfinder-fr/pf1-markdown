@@ -10,7 +10,7 @@ LastModified: 2022-10-17 18:37
 {s:pucem|Aberration|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 84*}
 - 638 400 PX
-- [Aberration](./type Aberration.md) (mythique) de taille TG, NM
+- [[type aberration|Aberration]] (mythique) de taille TG, NM
 - **Init **+9 ; **Sens **perception de la vie, vision dans le noir 36 m, vision lucide ; Perception +39
 - **Aura** gestation (9 m)
 (((Défense)))
@@ -24,15 +24,15 @@ LastModified: 2022-10-17 18:37
 - **Espace **4,50 m ; Allonge 4,50 m (6 m avec les griffes)
 - **Attaque spéciale** fontaine de vie, griffes acérées, mère porteuse, pouvoir mythique (10/jour, montée en puissance +1d12)
 - **Pouvoirs magiques** (**NLS **20 ; concentration +35)
-  - *Constant *— [liberté de mouvement](./Liberté de mouvement.md), [vision lucide](./Vision lucide.md)
-  - *À volonté* — [porte dimensionnelle](./Porte dimensionnelle.md)
-  - *3/jour* — [annulation d’enchantement](./Annulation denchantement.md), [contagion](./Contagion.md) (DD 28), [coquille antivie](./Coquille antivie.md), [porte dimensionnelle](./Porte dimensionnelle.md), [soins importants](./Soins importants.md) à incantation rapide 
-  - *1/jour* — [destruction](./destruction.md) (DD 32), [régénération](./Régénération.md)<sup>M</sup>, [zone d’antimagie](./Zone dantimagie.md) 
+  - *Constant *— [[liberté de mouvement]], [[vision lucide]]
+  - *À volonté* — [[porte dimensionnelle]]
+  - *3/jour* — [[annulation denchantement|annulation d’enchantement]], [[contagion]] (DD 28), [[coquille antivie]], [[porte dimensionnelle]], [[soins importants]] à incantation rapide 
+  - *1/jour* — [[destruction]] (DD 32), [[régénération]]<sup>M</sup>, [[zone dantimagie|zone d’antimagie]] 
 (((Statistiques)))
 - **For **38, **Dex **20, **Con **46, **Int **29, **Sag **21, **Cha **41
 - **BBA **+18 ; **BMO **+34 ; **DMD **49 (croc-en-jambe impossible)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md)<sup>M</sup> (griffe), [Arme de prédilection](./Arme de prédilection.md)<sup>M</sup> (tentacule), [Attaques multiples](./Attaques multiples.md), [Attaques réflexes](./Attaques réflexes.md)<sup>M</sup>, [Canalisation rapide](./Canalisation rapide.md)<sup>AM</sup>, [Canalisation sélective](./Canalisation sélective.md), [Magie de guerre](./Magie de guerre.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (soins importants), [Réflexes surhumains](./Réflexes surhumains.md)<sup>M</sup>, [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) (Perception), [Vigueur surhumaine](./Vigueur surhumaine.md)<sup>M</sup>, [Volonté de fer](./Volonté de fer.md)<sup>M</sup> 
-- **Compétences **[Art de la magie](./Art de la magie.md) +37, [Bluff](./Bluff.md) +40, [Connaissances](./Connaissances.md) (exploration souterraine) +34, [Connaissances](./Connaissances.md) (mystères) +34, [Connaissances](./Connaissances.md) (nature) +34, [Diplomatie](./Diplomatie.md) +40, [Dressage](./Dressage.md) +20, [Escalade](./Escalade.md) +45, [Intimidation](./Intimidation.md) +43, [Natation](./Natation.md) +50, [Perception](./Perception.md) +39, [Premiers secours](./Premiers secours.md) +30, [Psychologie](./Psychologie.md) +30, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +40 
+- **Dons **[[Arme de prédilection]]<sup>M</sup> (griffe), [[Arme de prédilection]]<sup>M</sup> (tentacule), [[Attaques multiples]], [[Attaques réflexes]]<sup>M</sup>, [[Canalisation rapide]]<sup>AM</sup>, [[Canalisation sélective]], [[Magie de guerre]], [[Pouvoir magique rapide]] (soins importants), [[Réflexes surhumains]]<sup>M</sup>, [[science de linitiative|Science de l’initiative]], [[Talent]] (Perception), [[Vigueur surhumaine]]<sup>M</sup>, [[Volonté de fer]]<sup>M</sup> 
+- **Compétences **[[Art de la magie]] +37, [[Bluff]] +40, [[Connaissances]] (exploration souterraine) +34, [[Connaissances]] (mystères) +34, [[Connaissances]] (nature) +34, [[Diplomatie]] +40, [[Dressage]] +20, [[Escalade]] +45, [[Intimidation]] +43, [[Natation]] +50, [[Perception]] +39, [[Premiers secours]] +30, [[Psychologie]] +30, [[utilisation dobjets magiques|Utilisation d’objets magiques]] +40 
 - **Langues **abyssal, aérien, aklo, aquatique, céleste, commun, draconique, igné, infernal, terreux
 - **Particularités **accoucher d’un rejeton, naissance inversée, polymorphisme, transfert des souffrances
 (((Écologie)))

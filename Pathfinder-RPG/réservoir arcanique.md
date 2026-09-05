@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Arcaniste#RESERVOIRARCANIQUE
 ---
 
->>> [Pathfinder-RPG.Arcaniste#RESERVOIRARCANIQUE](./Arcaniste.md#RESERVOIRARCANIQUE)
+>>> [[Pathfinder-RPG.Arcaniste#RESERVOIRARCANIQUE]]

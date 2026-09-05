@@ -11,8 +11,8 @@ Categories:
 
 *Le personnage peut réaliser un haut tir parabolique pour toucher un ennemi par dessus.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Tir de loin](./Tir de loin.md), [Tir à bout portant](./Tir à bout portant.md)
+**Conditions.** [[Tir de loin]], [[Tir à bout portant]]
 
-**Avantages.** Lorsque le personnage fait une [attaque à distance](./Attaque à distance.md), il peut ignorer tous les bonus que confèrent un abri à la [CA](./CA.md), ce qui inclut l’[abri total](./abri.md), sauf si la cible bénéficie d’un abri au-dessus d’elle tels qu’un toit ou la canopée d’une forêt. Lorsque ce don est utilisé, le personnage doit considérer sa cible comme si elle se situait à un [facteur de portée](./facteur de portée.md) plus loin. Ce don ne peut pas être utilisé tant qu’il n’y a pas un espace au-dessus du personnage égal au minimum à la moitié de la portée de son attaque.
+**Avantages.** Lorsque le personnage fait une [[attaque à distance]], il peut ignorer tous les bonus que confèrent un abri à la [[CA]], ce qui inclut l’[[abri|abri total]], sauf si la cible bénéficie d’un abri au-dessus d’elle tels qu’un toit ou la canopée d’une forêt. Lorsque ce don est utilisé, le personnage doit considérer sa cible comme si elle se situait à un [[facteur de portée]] plus loin. Ce don ne peut pas être utilisé tant qu’il n’y a pas un espace au-dessus du personnage égal au minimum à la moitié de la portée de son attaque.

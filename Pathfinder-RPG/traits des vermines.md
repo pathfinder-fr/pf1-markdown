@@ -7,4 +7,4 @@ Categories:
 RedirectTo: type vermine#TRAITSVERMINES
 ---
 
->>> [type vermine#TRAITSVERMINES](./type Vermine.md#TRAITSVERMINES)
+>>> [[type vermine#TRAITSVERMINES]]

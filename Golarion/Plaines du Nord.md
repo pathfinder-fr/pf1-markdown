@@ -8,4 +8,4 @@ Categories:
 - Nidal
 ---
 
-Grande plaine située en [Avistan](./Avistan.md), les Plaines du Nord s'étendent depuis [Nisroch](./Nisroch.md), au [Nidal](./Nidal.md), jusqu'aux abords de la forêt de [Ravounel](./Ravounel.md), au [Chéliax](./Chéliax.md), entre l'[Océane Arcadien](./Océane-Arcadien.md) et la chaîne du [Ménador](./Ménador.md).
+Grande plaine située en [[Avistan]], les Plaines du Nord s'étendent depuis [[Nisroch]], au [[Nidal]], jusqu'aux abords de la forêt de [[Ravounel]], au [[Chéliax]], entre l'[[Océane Arcadien]] et la chaîne du [[Ménador]].

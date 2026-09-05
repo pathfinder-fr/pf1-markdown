@@ -7,11 +7,11 @@ LastModified: 2019-11-10 19:20
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Rôdeur Tieffelin|FP 5}
-{s:BDTexte|*Source : [Aides de jeu AP13|La Colère des Justes], p.92*}
+{s:BDTexte|*Source : [[Aides de jeu AP13|La Colère des Justes]], p.92*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Tieffelin](./../Pathfinder-RPG/Tieffelin.md) (m/f) [Rôdeur](./../Pathfinder-RPG/Rôdeur.md) 5}
-{s:BDTexte|[Extérieur](./../Pathfinder-RPG/type Extérieur.md) ([natif](./../Pathfinder-RPG/sous-type natif.md)) de taille M, NM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) (12 cases) ; [Perception](./../Pathfinder-RPG/Perception.md) +7}
+{s:BDTexte|[[Pathfinder-RPG.Tieffelin|Tieffelin]] (m/f) [[Pathfinder-RPG.Rôdeur|Rôdeur]] 5}
+{s:BDTexte|[[Pathfinder-RPG.type Extérieur|Extérieur]] ([[Pathfinder-RPG.sous-type natif|natif]]) de taille M, NM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] (12 cases) ; [[Pathfinder-RPG.Perception|Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, dépourvu 14 (Dex +3, armure +4)}
 {s:BDTexte|**pv** 44 (5d10+10)}
@@ -22,19 +22,19 @@ LastModified: 2019-11-10 19:20
 {s:BDTexte|**Corps à corps** hachette, +6 (1d6+1, 20/x3) et pic de guerre léger, +6 (1d4, 20/x4)}
 {s:BDTexte|                    hachette, +8 (1d6+1, 20/x3)}
 {s:BDTexte|**A distance** arc long composite (+1), +8 (1d8+1, 20/x3, 33 m ; munitions - normal)}
-{s:BDTexte|**Attaques spéciales** [Ennemi juré](./../Pathfinder-RPG/Rôdeur.md#ENNEMIJURE) (humain +2)}
+{s:BDTexte|**Attaques spéciales** [[Pathfinder-RPG.rôdeur#ENNEMIJURE|Ennemi juré]] (humain +2)}
 {s:BDSousTitre|Magie}
 {s:BDTexte|**Pouvoirs magiques** (NLS 1)}
-{s:BDSorts|1/jour—*[ténèbres](./../Pathfinder-RPG/Ténèbres.md)*}
+{s:BDSorts|1/jour—*[[Pathfinder-RPG.ténèbres|ténèbres]]*}
 {s:BDTexte|**Sorts de Rôdeur** : aucun}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 13, **Dex** 16, **Con** 13, **Int** 14, **Sag** 8, **Cha** 12}
 {s:BDTexte|**BBA** +5, **BMO** +6, **DMD** 19}
-{s:BDTexte|**Dons** Attaque en finesse, Attaque en puissance (-2/+4), Combat à deux armes, Endurance, Talent (survie), [Tir à bout portant](./../Pathfinder-RPG/Tir à bout portant.md)}
+{s:BDTexte|**Dons** Attaque en finesse, Attaque en puissance (-2/+4), Combat à deux armes, Endurance, Talent (survie), [[Pathfinder-RPG.Tir à bout portant|Tir à bout portant]]}
 {s:BDTexte|**Compétences** Acrobaties +7, Bluff +2, Connaissances (exploration souterraine) +5, Connaissances (géographie, nature) +9, Connaissances (folklore local) +3, Déguisement +2, Diplomatie +2, Discrétion +11, Dressage +7, Équitation +8, Escalade +6, Estimation +1, Évasion +3, Intimidation +2, Natation +6, Perception +7, Premiers secours -1, Psychologie -1, Survie +10, Vol +3}
 {s:BDTexte|**Compétent** Les tieffelins gagnent un bonus racial de +2 à leurs tests de Bluff et de Discrétion.}
 {s:BDTexte|**Langues** commun, abyssal}
-{s:BDTexte|**Particularités** [Empathie sauvage](./../Pathfinder-RPG/Rôdeur.md#EMPATHIESAUVAGE) +7,  [Pacte du chasseur (alliés)](./../Pathfinder-RPG/Rôdeur.md#PACTEDUCHASSEUR),  Style de combat (deux armes), [Pistage +2](./../Pathfinder-RPG/Rôdeur.md#PISTAGE), magie des fiélons}
+{s:BDTexte|**Particularités** [[Pathfinder-RPG.Rôdeur#EMPATHIESAUVAGE|Empathie sauvage]] +7,  [[Pathfinder-RPG.Rôdeur#PACTEDUCHASSEUR|Pacte du chasseur (alliés)]],  Style de combat (deux armes), [[Pathfinder-RPG.Rôdeur#PISTAGE|Pistage +2]], magie des fiélons}
 {s:BDSousTitre|Equipement de combat}
 {s:BDTexte|Arc long composite (+1)}
 {s:BDTexte|Armure de cuir cloutée +1}

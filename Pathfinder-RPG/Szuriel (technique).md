@@ -6,57 +6,57 @@ Categories:
 - Divinité
 ---
 
-{s:DieuTech|Szuriel|Cavalier de la guerre| |[Cavaliers de l'Apocalypse](./Divinités.md#CAVALIERSDELAPOCALYPSE)
+{s:DieuTech|Szuriel|Cavalier de la guerre| |[[Divinités#CAVALIERSDELAPOCALYPSE|Cavaliers de l'Apocalypse]]
 |Neutre Mauvais|Guerre
-|Marchands d'armes, pillards, mercenaires, soldats, [urdefhans](./Urdefhan.md), seigneurs de la guerre|Cheval, vautour
-|[Épée à deux mains](./épée à deux mains (arme).md)
-|[Feu](./Domaine du Feu.md), [Force](./Domaine de la Force.md), [Guerre](./Domaine de la Guerre.md), [Mal](./Domaine du Mal.md)
-|[Daémons](./Domaine du Mal.md)
+|Marchands d'armes, pillards, mercenaires, soldats, [[Urdefhan|urdefhans]], seigneurs de la guerre|Cheval, vautour
+|[[Épée à deux mains (arme)|Épée à deux mains]]
+|[[Domaine du Feu|Feu]], [[Domaine de la Force|Force]], [[Domaine de la Guerre|Guerre]], [[Domaine du Mal|Mal]]
+|[[Domaine du Mal|Daémons]]
 |}
 {s:cs}
 
 ### Obédience
-Etudiez un moment la ou les créatures qui attisent votre colère avant de mettre fin à leur existence. Combattez les ouvertement devant témoins ou abandonnez leurs cadavres crucifiés dans un endroit public. Bénéficie d'un bonus de malfaisance de +4 aux [jets de sauvegarde](./JDS.md) contre les effets de [feu](./Créer un sort.md#REGISTRE).
+Etudiez un moment la ou les créatures qui attisent votre colère avant de mettre fin à leur existence. Combattez les ouvertement devant témoins ou abandonnez leurs cadavres crucifiés dans un endroit public. Bénéficie d'un bonus de malfaisance de +4 aux [[jds|jets de sauvegarde]] contre les effets de [[Créer un sort#REGISTRE|feu]].
 
-#### Faveurs ([Obédience divine](./Obédience divine.md))
-**[Évangéliste](./Évangéliste.md) :**
-: **1.** ***Bénédiction du Séraphin (Mag).*** *[charme-personne](./Charme-personne.md)* 3/jour, *[perspicacité tactique](./Perspicacité tactique.md)* 2/jour, *[suggestion](./Suggestion.md)* 1/jour.
-: **2.** *** Les feux rapides de la guerre (Mag).***  Vous pouvez lancer [rapidité](./Rapidité.md) une fois par jour comme un pouvoir magique.
-: **3.** ***Le commandement du cavalier de la guerre (Mag).*** Une fois par jour, vous pouvez invoquer la fureur du cavalier de la guerre, exhortant toutes les créatures situées dans un rayon de 9 mètre à entrer dans une rage folle et à attaquer vos ennemis. Cela fonctionne comme un [chant de discorde](./Chant de discorde.md) en incantation rapide.
+#### Faveurs ([[Obédience divine]])
+**[[Évangéliste]] :**
+: **1.** ***Bénédiction du Séraphin (Mag).*** *[[charme-personne]]* 3/jour, *[[perspicacité tactique]]* 2/jour, *[[suggestion]]* 1/jour.
+: **2.** *** Les feux rapides de la guerre (Mag).***  Vous pouvez lancer [[rapidité]] une fois par jour comme un pouvoir magique.
+: **3.** ***Le commandement du cavalier de la guerre (Mag).*** Une fois par jour, vous pouvez invoquer la fureur du cavalier de la guerre, exhortant toutes les créatures situées dans un rayon de 9 mètre à entrer dans une rage folle et à attaquer vos ennemis. Cela fonctionne comme un [[chant de discorde]] en incantation rapide.
 
-**[Exalté](./Exalté.md) :**
-: **1.** *** Grâce du Séraphin (Mag). *** *[instant de gloire](./Instant de gloire.md)* 3/jour, *[regard brûlant](./Regard brûlant.md)* 2/jour, *[boule de feu](./Boule de feu.md)* 1/jour.
+**[[Exalté]] :**
+: **1.** *** Grâce du Séraphin (Mag). *** *[[instant de gloire]]* 3/jour, *[[regard brûlant]]* 2/jour, *[[boule de feu]]* 1/jour.
 : **2.** ***Touché du bûcher (Ext).*** Vous gagnez une résistance au feu de 30 (cela se cumule avec toute autre résistance au feu naturelle que vous avez).
 : **3.** ***Le châtiment des délaissé (Mag).*** Une fois par jour, par une action simple, vous invoquez la colère du cavalier de la guerre sur une seule cible. Cette capacité agit comme une implosion, mais la victime est aspirée dans les airs, maintenue cruciforme, puis déchirée par une force invisible.
-**[Sentinelle](./Sentinelle.md) :**
-: **1.** ***Croisé de guerre (Mag).*** *[monture](./Monture.md)* 3/jour, *[monture de guerre](./Monture de guerre.md)* 2/jour, *[coursier fantôme](./Coursier fantôme.md)* 1/jour.
-: **2.** ***Connaissance des armes (Sur).*** Vous maîtrisez toutes les armes, mais vous êtes particulièrement doué pour les épées. Vous gagnez un bonus profane de +2 aux jets d'attaque et de dégâts avec des épées ; ce bonus devient +4 lorsque vous maniez une épée à deux mains. Vous gagnez un bonus profane de +2 aux jets d'attaque et de dégâts avec des épées ; ce bonus devient +4 lorsque vous maniez une [épée à deux mains](./épée à deux mains (arme).md).
+**[[Sentinelle]] :**
+: **1.** ***Croisé de guerre (Mag).*** *[[monture]]* 3/jour, *[[monture de guerre]]* 2/jour, *[[coursier fantôme]]* 1/jour.
+: **2.** ***Connaissance des armes (Sur).*** Vous maîtrisez toutes les armes, mais vous êtes particulièrement doué pour les épées. Vous gagnez un bonus profane de +2 aux jets d'attaque et de dégâts avec des épées ; ce bonus devient +4 lorsque vous maniez une épée à deux mains. Vous gagnez un bonus profane de +2 aux jets d'attaque et de dégâts avec des épées ; ce bonus devient +4 lorsque vous maniez une [[épée à deux mains (arme)|épée à deux mains]].
 : **3.** ***Avatar du Séraphin (Sur).*** Vous gagnez un bonus profane de +2 à la Force et à la Constitution.
 
 
 ### Règles uniques aux suivants
 **Lancement de sorts.**
-: *[Épée noir de la guerre](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Black Sword of War)*, *[Larmes de sang et crocs acérés](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloody Tears and Jagged Smile)*.
+: *[Épée noir de la guerre](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Black%20Sword%20of%20War)*, *[Larmes de sang et crocs acérés](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloody%20Tears%20and%20Jagged%20Smile)*.
 
 **Convocations étendues.**
-: *[Convocation de monstres III](./Convocation de monstres III.md).* [Cacodaémon](./Cacodaémon.md)
-: *[Convocation de monstres IV](./Convocation de monstres IV.md).* [Urdefhan](./Urdefhan.md) [fiélon](./Archétypes.md#CREATUREFIELON)
-: *[Convocation de monstres V](./Convocation de monstres V.md).* [Genthodaemon](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Genthodaemon)
-: *[Convocation de monstres V](./Convocation de monstres V.md).* [Destrier noir](./Destrier noir.md)
+: *[[Convocation de monstres III]].* [[Cacodaémon]]
+: *[[Convocation de monstres IV]].* [[Urdefhan]] [[archétypes#CREATUREFIELON|fiélon]]
+: *[[Convocation de monstres V]].* [Genthodaemon](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Genthodaemon)
+: *[[Convocation de monstres V]].* [[Destrier noir]]
 
 ### Options de personnage thématiques
 **Archétypes.**
-:  *[Apôtre funeste (Spirite)](https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Spiritualist Grim Apostle)*.
+:  *[Apôtre funeste (Spirite)](https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Spiritualist%20Grim%20Apostle)*.
 
 **Dons.**
-:  *[Aura de trépas](./Aura de trépas.md)  *.
+:  *[[Aura de trépas]]  *.
 
 **Objets magiques - Objets merveilleux.**
-: *[Le fourreau du cavalier de la guerre](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Szuriel%27s Scabbard)*.
+: *[Le fourreau du cavalier de la guerre](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Szuriel%27s%20Scabbard)*.
 
 **Sorts.**
-: *[Épée noir de la guerre](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Black Sword of War)*, *[Larmes de sang et crocs acérés](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloody Tears and Jagged Smile)*.
+: *[Épée noir de la guerre](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Black%20Sword%20of%20War)*, *[Larmes de sang et crocs acérés](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloody%20Tears%20and%20Jagged%20Smile)*.
 
 
 **Traits.**
-: *[Alliance d’Abaddon](./Traits religieux.md#ALLIANCEDABADDON)*.
+: *[[Traits religieux#ALLIANCEDABADDON|Alliance d’Abaddon]]*.

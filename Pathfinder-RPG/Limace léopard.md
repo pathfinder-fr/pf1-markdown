@@ -10,8 +10,8 @@ LastModified: 2026-08-02 11:22
 {s:pucem|Vermine|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Familiar Folio*}
 {s:BDTexte|**PX** —}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille MIN, N}
-{s:BDTexte|**Init** -3 ; **Sens** [Vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) -2}
+{s:BDTexte|[[type Vermine|Vermine]] de taille MIN, N}
+{s:BDTexte|**Init** -3 ; **Sens** [[Vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] -2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 11, contact 11, pris au dépourvu 11 (Dex -3, taille +4)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -22,7 +22,7 @@ LastModified: 2026-08-02 11:22
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 4, **Con** 12, **Int** —, **Sag** 7, **Cha** 9}
 {s:BDTexte|**BBA** +0, **BMO** -7, **DMD** -2 (immunité contre le croc-en-jambe)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +3}
+{s:BDTexte|**Compétences** [[Escalade]] +3}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Forêts tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, paire, ou nuée (3-12)}

@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage est obsédé par les pouvoirs et les faiblesses des monstres.*
 
-**Condition.** Pouvoir de classe [connaissance des monstres](./Inquisiteur.md#CONNAISSANCEDESMONSTRES)
+**Condition.** Pouvoir de classe [[inquisiteur#CONNAISSANCEDESMONSTRES|connaissance des monstres]]
 
 **Avantage.** Le personnage gagne un bonus sacré égal à 1/2 niveau des classes qui donnent le pouvoir connaissance des monstres à tous les tests de compétence qui visent à identifier les pouvoirs et les faiblesses des créatures.

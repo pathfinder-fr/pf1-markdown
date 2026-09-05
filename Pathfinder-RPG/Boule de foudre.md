@@ -15,22 +15,22 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[air](./Registre.md), [électricité](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 4, [Dru](./Druide.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Magus](./Magus.md) 4, [Occ](./Occultiste.md) 4, [San](./Sanguin.md) 4  
+**École** [[Évocation]] <nowiki>[</nowiki>[[registre|air]], [[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 4, [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Occultiste|Occ]] 4, [[Sanguin|San]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (un petit anneau de fer)  
+**Composantes** [[Composantes|V, G, M/FD]] (un petit anneau de fer)  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Effet** deux sphères ou plus de 1,50 m (1 {s:c}) de diamètre  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Réflexes](./Réflexes.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Réflexes]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-Le personnage crée deux boules de foudre qui volent dans la direction qu'il indique. Tous les 4 [niveaux de lanceur de sorts](./NLS.md) après le [niveau](./NLS.md) 7, le personnage crée une *boule de foudre* supplémentaire (3 au [niveau](./NLS.md) 11, 4 au [niveau](./NLS.md) 15 et un maximum de 5 au [niveau](./NLS.md) 19). Ces boules volent à une vitesse de 6 mètres (4 {s:c}) par [round](./round.md) et sont d'une [manœuvrabilité](./Vol.md) parfaite. Le vent n'influe pas sur la trajectoire d'une sphère.
+Le personnage crée deux boules de foudre qui volent dans la direction qu'il indique. Tous les 4 [[NLS|niveaux de lanceur de sorts]] après le [[NLS|niveau]] 7, le personnage crée une *boule de foudre* supplémentaire (3 au [[NLS|niveau]] 11, 4 au [[NLS|niveau]] 15 et un maximum de 5 au [[NLS|niveau]] 19). Ces boules volent à une vitesse de 6 mètres (4 {s:c}) par [[round]] et sont d'une [[Vol|manœuvrabilité]] parfaite. Le vent n'influe pas sur la trajectoire d'une sphère.
 
-Si la boule entre dans une case occupée par une créature, elle s'arrête pour le [round](./round.md) et inflige 3d6 points de dégâts d'électricité à cette créature, bien qu'un jet de [Réflexes](./Réflexes.md) réussi [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ces dégâts. Les créatures qui portent une armure métallique subissent un malus de -4 au [jet de sauvegarde](./jet de sauvegarde.md).
+Si la boule entre dans une case occupée par une créature, elle s'arrête pour le [[round]] et inflige 3d6 points de dégâts d'électricité à cette créature, bien qu'un jet de [[Réflexes]] réussi [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ces dégâts. Les créatures qui portent une armure métallique subissent un malus de -4 au [[jet de sauvegarde]].
 
-Chaque globe se déplace tant que le personnage le dirige activement (une [action de mouvement](./Action de mouvement.md) permet de diriger toutes les sphères créées par une incantation de ce sort), sinon, elles restent sur place. Ces boules n'ont pas de masse et ne peuvent donc pas repousser une créature qui refuse de bouger ou un objet solide. Une *boule de foudre* disparaît si elle dépasse la portée du sort.
+Chaque globe se déplace tant que le personnage le dirige activement (une [[action de mouvement]] permet de diriger toutes les sphères créées par une incantation de ce sort), sinon, elles restent sur place. Ces boules n'ont pas de masse et ne peuvent donc pas repousser une créature qui refuse de bouger ou un objet solide. Une *boule de foudre* disparaît si elle dépasse la portée du sort.

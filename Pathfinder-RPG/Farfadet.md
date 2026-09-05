@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 - *Source : Bestiaire 2* p.133
 - **PX** 600
-- [Fée](./type Fée.md) de taille P, CN
-- **Init** +7 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +17
+- [[type Fée|Fée]] de taille P, CN
+- **Init** +7 ; **Sens** [[vision nocturne]] ; [[Perception]] +17
 (((Défense)))
 - **CA** 14, contact 14, pris au dépourvu 11 (Dex +3, taille +1)
 - **pv** 18 (4d6+4)
@@ -25,15 +25,15 @@ Categories:
 - **VD** 12 m (9 {s:c})
 - **Corps à corps** *gourdin +1*, +7 (1d8-1)
 - **Pouvoirs magiques** (NLS 4<sup>e</sup> ; concentration +7)
-  - Constant — *[gourdin magique](./Gourdin magique.md)*
-  - À volonté — *[image accomplie](./Image accomplie.md)* (éléments visuels et sonores seulement, DD 16), *[invisibilité](./Invisibilité.md)* (personnel uniquement), *[lumières dansantes](./Lumières dansantes.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[prestidigitation](./Prestidigitation.md)*, *[son imaginaire](./Son imaginaire.md)* (DD 13), *[ventriloquie](./Ventriloquie.md)* (DD 14)
-  - 3/jour — *[couleurs dansantes](./Couleurs dansantes.md)* (DD 14), *[fabrication](./Fabrication.md)* (30 dm³ uniquement)
-  - 1/jour — *[création majeure](./Création majeure.md)*
+  - Constant — *[[gourdin magique]]*
+  - À volonté — *[[image accomplie]]* (éléments visuels et sonores seulement, DD 16), *[[invisibilité]]* (personnel uniquement), *[[lumières dansantes]]*, *[[manipulation à distance]]*, *[[prestidigitation]]*, *[[son imaginaire]]* (DD 13), *[[ventriloquie]]* (DD 14)
+  - 3/jour — *[[couleurs dansantes]]* (DD 14), *[[fabrication]]* (30 dm³ uniquement)
+  - 1/jour — *[[création majeure]]*
 (((Caractéristiques)))
 - **For** 7, **Dex** 16, **Con** 13, **Int** 14, **Sag** 15, **Cha** 16
 - **BBA** +2, **BMO** -1, **DMD** 12
-- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Bluff](./Bluff.md) +10, [Connaissances](./Connaissances.md) (nature) +9, [Discrétion](./Discrétion.md) +14, [Escamotage](./Escamotage.md) +14, [Évasion](./Évasion.md) +10, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +9, [Représentation](./Représentation.md) (comédie) +8, [Représentation](./Représentation.md) (danse) +8 ; **Modificateurs raciaux** +4 en [Escamotage](./Escamotage.md), +8 en [Perception](./Perception.md)
+- **Dons** [[Attaque en finesse]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Bluff]] +10, [[Connaissances]] (nature) +9, [[Discrétion]] +14, [[Escamotage]] +14, [[Évasion]] +10, [[Perception]] +17, [[Psychologie]] +9, [[Représentation]] (comédie) +8, [[Représentation]] (danse) +8 ; **Modificateurs raciaux** +4 en [[Escamotage]], +8 en [[Perception]]
 - **Langues** commun, elfe, halfelin, sylvestre
 - **Particularités** magie des farfadets
 (((Écologie)))
@@ -47,7 +47,7 @@ Categories:
 </td><td><div>*Ce petit humanoïde a des oreilles pointues, des yeux verts et un sourire sadique. Il tient une bouteille dans une main et un gourdin dans l’autre.*
 
 Les farfadets sont des petits plaisantins qui adorent s’amuser et qu’on trouve surtout en forêts. Comme la plupart des fées, ils possèdent une connexion étroite avec la nature. Les farfadets adorent jouer des tours aux passants qui ne s’y attendent pas, presque autant que de déguster une bonne bouteille de vin et de mettre de la nourriture chaude dans leur estomac. Il leur arrive aussi fréquemment de dérober un objet de valeur à des
-aventuriers, juste pour déclencher une course-poursuite. Tirant parti de leur capacité de disparaître à volonté, ils attendent le moment où leur victime semble sur le point d’abandonner la poursuite pour se rendre visible et prolonger celle-ci. Ce ne sont cependant pas des créatures avides de richesses et, tôt ou tard, ils lâchent ce qu’ils ont dérobés puis s’enfuient avant que les propriétaires en colère ne puissent remettre la main sur l’objet perdu. L’or constitue toutefois une exception : les farfadets adorent l’or et le collectionne souvent dans des caches secrètes. Selon la rumeur, si une personne découvre une pièce d’or dans une forêt et la ramène au farfadet qui l’a perdue, il recevra un *[souhait](./Souhait.md)* en récompense. Malheureusement, cette légende est fausse. En fait, il y a de grandes chances pour que ce soient les farfadets eux-mêmes qui l’ait propagée, afin d’inciter les autres créatures à leur ramener de l’or.
+aventuriers, juste pour déclencher une course-poursuite. Tirant parti de leur capacité de disparaître à volonté, ils attendent le moment où leur victime semble sur le point d’abandonner la poursuite pour se rendre visible et prolonger celle-ci. Ce ne sont cependant pas des créatures avides de richesses et, tôt ou tard, ils lâchent ce qu’ils ont dérobés puis s’enfuient avant que les propriétaires en colère ne puissent remettre la main sur l’objet perdu. L’or constitue toutefois une exception : les farfadets adorent l’or et le collectionne souvent dans des caches secrètes. Selon la rumeur, si une personne découvre une pièce d’or dans une forêt et la ramène au farfadet qui l’a perdue, il recevra un *[[souhait]]* en récompense. Malheureusement, cette légende est fausse. En fait, il y a de grandes chances pour que ce soient les farfadets eux-mêmes qui l’ait propagée, afin d’inciter les autres créatures à leur ramener de l’or.
 
 Les farfadets préfèrent éviter de tuer d’autres créatures, à moins que leurs attaquants ne soit des adversaires maléfiques ou des ennemis reconnus de la forêt ou des fées. Ils utilisent souvent leur pouvoirs pour embrouiller l’esprit des êtres maléfiques et les harceler, ou encore pour faire croire à des créatures telles que des gobelins ou des orques qu’une forêt est hantée.
 </div></td></tr></table>

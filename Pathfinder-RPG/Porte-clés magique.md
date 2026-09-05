@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Porte-clés magique|{s:MCA}}
-**Aura** Universelle faible ; **NLS** 5 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 3 000 po ; **Poids** 4 kg
+**Aura** Universelle faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 3 000 po ; **Poids** 4 kg
 (((Description)))
-Chacun de ces anneaux d’airain gravés de runes est relié à un sort spécifique au moment de sa création. Quand le personnage utilise sa compétence d’[Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) pour activer un [parchemin](./Parchemins magiques.md) ou un [objet à potentiel magique](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE) basé sur ce sort, il bénéficie d’un bonus d’intuition de +10 à son test.
+Chacun de ces anneaux d’airain gravés de runes est relié à un sort spécifique au moment de sa création. Quand le personnage utilise sa compétence d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]] pour activer un [[parchemins magiques|parchemin]] ou un [[règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|objet à potentiel magique]] basé sur ce sort, il bénéficie d’un bonus d’intuition de +10 à son test.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[assistance divine](./Assistance divine.md)*, le créateur doit avoir au moins 10 rangs en [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) ; **Coût** 1 500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[assistance divine]]*, le créateur doit avoir au moins 10 rangs en [[Utilisation dobjets magiques|Utilisation d’objets magiques]] ; **Coût** 1 500 po
 </div>

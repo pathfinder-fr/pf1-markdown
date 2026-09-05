@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.218}
 {s:BDTexte|**PX** 100}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) -1}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] -1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)}
 {s:BDTexte|**pv** 5 (1d8+1)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 12, **Con** 12, **Int** 2, **Sag** 9, **Cha** 5}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 9}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +9 (+13 dans l’herbe), [Escalade](./Escalade.md) +5, **Modificateur racial** +4 en Discrétion dans l’herbe}
+{s:BDTexte|**Dons** [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +9 (+13 dans l’herbe), [[Escalade]] +5, **Modificateur racial** +4 en Discrétion dans l’herbe}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou plaines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-6)}

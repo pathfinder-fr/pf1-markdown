@@ -8,7 +8,7 @@ Categories:
 
 {s:MenuCompétences}
 
-**Caractéristique associée** : [Charisme](./Charisme.md)
+**Caractéristique associée** : [[Charisme]]
 
 **Formation nécessaire** : non
 
@@ -16,7 +16,7 @@ Categories:
 
 ### Test de compétence
 
-Cette compétence s’utilise sous la forme de tests opposés aux tests de [Psychologie](./Psychologie.md) des victimes. Lorsque le personnage utilise la compétence de Bluff pour tromper quelqu’un, un test réussi lui permet de convaincre sa victime qu’il lui dit la vérité. Les résultats des tests de Bluff sont modifiés selon la crédibilité du mensonge. Les modificateurs suivants s’appliquent aux résultats du jet de dé de la créature qui tente de mentir. Il est important de noter que certains mensonges sont si incroyables qu’il est impossible de convaincre qui que ce soit qu’il s’agit de la vérité (ces cas sont laissés à l’appréciation du MJ).
+Cette compétence s’utilise sous la forme de tests opposés aux tests de [[Psychologie]] des victimes. Lorsque le personnage utilise la compétence de Bluff pour tromper quelqu’un, un test réussi lui permet de convaincre sa victime qu’il lui dit la vérité. Les résultats des tests de Bluff sont modifiés selon la crédibilité du mensonge. Les modificateurs suivants s’appliquent aux résultats du jet de dé de la créature qui tente de mentir. Il est important de noter que certains mensonges sont si incroyables qu’il est impossible de convaincre qui que ce soit qu’il s’agit de la vérité (ces cas sont laissés à l’appréciation du MJ).
 
 <center>
 {| CLASS="tablo"
@@ -48,13 +48,13 @@ Cette compétence s’utilise sous la forme de tests opposés aux tests de [Psyc
 |}
 </center>
 
-**Feinter en combat.** Le personnage peut également utiliser la compétence de Bluff pour tromper son adversaire lors d’un combat et lui enlever le bénéfice de son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md) jusqu’à sa prochaine attaque. Le [DD](./DD.md) de ce test est égal à 10 + le [bonus de base à l’attaque](./BBA.md) de l’adversaire + le modificateur de [Sagesse](./Sagesse.md) de l’adversaire. Si l’adversaire possède une formation dans la compétence de [Psychologie](./Psychologie.md), le [DD](./DD.md) du test vaut 10 + le bonus de [Psychologie](./Psychologie.md) de l’adversaire, si ce résultat est plus élevé. Pour plus d’informations sur les feintes en combat, reportez-vous [ici](./feinte.md).
+**Feinter en combat.** Le personnage peut également utiliser la compétence de Bluff pour tromper son adversaire lors d’un combat et lui enlever le bénéfice de son bonus de [[Dextérité]] à la [[CA]] jusqu’à sa prochaine attaque. Le [[DD]] de ce test est égal à 10 + le [[BBA|bonus de base à l’attaque]] de l’adversaire + le modificateur de [[Sagesse]] de l’adversaire. Si l’adversaire possède une formation dans la compétence de [[Psychologie]], le [[DD]] du test vaut 10 + le bonus de [[Psychologie]] de l’adversaire, si ce résultat est plus élevé. Pour plus d’informations sur les feintes en combat, reportez-vous [[feinte|ici]].
 
-**Transmettre un message secret.** Un personnage peut utiliser la compétence de Bluff pour transmettre à une autre personne un message à mots couverts sans que les autres individus présents puissent le comprendre. Le [DD](./DD.md) du test est de 15 pour les messages simples et de 20 pour les messages complexes. En cas de réussite, la cible comprend automatiquement le message (pour autant que le personnage utilise un langage qu’elle connaît). En cas d’échec de 5 points ou plus, un message erroné est transmis ou compris. Les autres individus qui perçoivent le message peuvent tenter de le comprendre en réussissant un test de [Psychologie](./Psychologie.md) opposé au résultat du test de Bluff du personnage.
+**Transmettre un message secret.** Un personnage peut utiliser la compétence de Bluff pour transmettre à une autre personne un message à mots couverts sans que les autres individus présents puissent le comprendre. Le [[DD]] du test est de 15 pour les messages simples et de 20 pour les messages complexes. En cas de réussite, la cible comprend automatiquement le message (pour autant que le personnage utilise un langage qu’elle connaît). En cas d’échec de 5 points ou plus, un message erroné est transmis ou compris. Les autres individus qui perçoivent le message peuvent tenter de le comprendre en réussissant un test de [[Psychologie]] opposé au résultat du test de Bluff du personnage.
 
 ### Action
 
-Tenter de bluffer une personne nécessite au moins 1 [round](./round.md) mais cela peut prendre plus longtemps en cas de mensonge complexe (selon l’appréciation du [MJ](./MJ.md)). [Feinter en combat](./feinte.md) prend une [action simple](./Action simple.md). Il faut deux fois plus de temps pour transmettre un message secret grâce à la compétence de Bluff que pour le déclamer normalement.
+Tenter de bluffer une personne nécessite au moins 1 [[round]] mais cela peut prendre plus longtemps en cas de mensonge complexe (selon l’appréciation du [[MJ]]). [[feinte|Feinter en combat]] prend une [[action simple]]. Il faut deux fois plus de temps pour transmettre un message secret grâce à la compétence de Bluff que pour le déclamer normalement.
 
 ### Nouvelles tentatives
 
@@ -62,4 +62,4 @@ En cas d’échec lors d’une tentative de mensonge, les tests de Bluff qui sui
 
 ### Spécial
 
-Les lanceurs de sorts ayant une vipère comme [familier](./familier.md) obtiennent un bonus de +3 aux tests de Bluff. Un personnage possédant le don [Fourberie](./Fourberie.md) obtient un bonus aux tests de Bluff.
+Les lanceurs de sorts ayant une vipère comme [[familier]] obtiennent un bonus de +3 aux tests de Bluff. Un personnage possédant le don [[Fourberie]] obtient un bonus aux tests de Bluff.

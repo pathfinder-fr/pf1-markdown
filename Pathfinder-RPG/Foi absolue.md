@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage est immunisé contre les maladies, comme la plupart des paladins, mais il est aussi très résistant aux poisons. *
 
-**Condition.** [Santé divine](./Paladin.md#SANTEDIVINE)
+**Condition.** [[Paladin#SANTEDIVINE|Santé divine]]
 
-**Avantage.** Le personnage gagne un bonus sacré de +4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre le [poison](./poison.md).
+**Avantage.** Le personnage gagne un bonus sacré de +4 aux [[Jet de sauvegarde|jets de sauvegarde]] contre le [[poison]].

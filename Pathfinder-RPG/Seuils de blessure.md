@@ -53,22 +53,22 @@ Cette variante de règle utilise trois états préjudiciables spéciaux qui s’
 Quand les points de vie du personnage sont au-dessus du seuil égratigné (3/4 de ses points de vie maximaux), il est en bonne santé et ne subit aucun modificateur particulier et n’est affublé d’aucun état préjudiciable.
 
 #### Égratigné
-Un personnage dont les points de vie se trouvent entre le seuil blessé (1/2 des points de vie maximaux) et les 3/4 ou moins de ses points de vie maximaux est égratigné. Il subit un malus de –1 aux [jets d’attaque](./jet dattaque.md) et [de sauvegarde](./JDS.md), aux [tests de compétence](./Compétences.md) et de caractéristique, ainsi qu’à la [CA](./CA.md) et au [niveau de lanceur de sorts](./NLS.md).
+Un personnage dont les points de vie se trouvent entre le seuil blessé (1/2 des points de vie maximaux) et les 3/4 ou moins de ses points de vie maximaux est égratigné. Il subit un malus de –1 aux [[jet dattaque|jets d’attaque]] et [[jds|de sauvegarde]], aux [[Compétences|tests de compétence]] et de caractéristique, ainsi qu’à la [[CA]] et au [[NLS|niveau de lanceur de sorts]].
 
 #### Blessé
-Un personnage dont les points de vie se trouvent entre le seuil grièvement blessé (1/4 des pv maximaux) et la moitié ou moins de ses points de vie maximaux est blessé. Il subit un malus de –2 aux [jets d’attaque](./jet dattaque.md) et [de sauvegarde](./JDS.md), aux [tests de compétence](./Compétences.md) et de caractéristique, ainsi qu’à la [CA](./CA.md) et au [niveau de lanceur de sorts](./NLS.md).
+Un personnage dont les points de vie se trouvent entre le seuil grièvement blessé (1/4 des pv maximaux) et la moitié ou moins de ses points de vie maximaux est blessé. Il subit un malus de –2 aux [[jet dattaque|jets d’attaque]] et [[jds|de sauvegarde]], aux [[Compétences|tests de compétence]] et de caractéristique, ainsi qu’à la [[CA]] et au [[NLS|niveau de lanceur de sorts]].
 
 #### Grièvement blessé
-Un personnage qui ne possède plus qu’un quart ou moins de ses points de vie maximaux est grièvement blessé. Il subit un malus de –3 aux [jets d’attaque](./jet dattaque.md) et [de sauvegarde](./JDS.md), aux [tests de compétence](./Compétences.md) et de caractéristique, ainsi qu’à la [CA](./CA.md) et au [niveau de lanceur de sorts](./NLS.md).
+Un personnage qui ne possède plus qu’un quart ou moins de ses points de vie maximaux est grièvement blessé. Il subit un malus de –3 aux [[jet dattaque|jets d’attaque]] et [[jds|de sauvegarde]], aux [[Compétences|tests de compétence]] et de caractéristique, ainsi qu’à la [[CA]] et au [[NLS|niveau de lanceur de sorts]].
 
 #### Hors de combat
-Un personnage doté d’une valeur de Constitution de 12 ou plus qui tombe à 0 point de vie ou moins est hors de combat jusqu’à ce que son nombre de points de vie atteigne une valeur égale à son modificateur de [Constitution](./Constitution.md) en négatif. Par exemple, un personnage avec une Constitution de 18 est hors de combat de 0 à –4 points de vie et tombe inconscient à –5. Un personnage avec une Constitution de 11 ou moins est hors de combat à exactement 0 point de vie seulement.
+Un personnage doté d’une valeur de Constitution de 12 ou plus qui tombe à 0 point de vie ou moins est hors de combat jusqu’à ce que son nombre de points de vie atteigne une valeur égale à son modificateur de [[Constitution]] en négatif. Par exemple, un personnage avec une Constitution de 18 est hors de combat de 0 à –4 points de vie et tombe inconscient à –5. Un personnage avec une Constitution de 11 ou moins est hors de combat à exactement 0 point de vie seulement.
 
 #### Chancelant
-Dans le système normal, un personnage est [chancelant](./Chancelant.md) seulement quand le montant de dégâts [non létaux](./Blessures et mort.md#NONLETAL) qu’il a subi est égal aux points de vie qui lui restent. Dans ce système, le personnage continue d’être chancelant à partir de là jusqu’à ce que le montant de ses dégâts non létaux dépasse le nombre de ses points de vie actuel d’un montant supérieur à son bonus de [Constitution](./Constitution.md). Il tombe alors [inconscient](./Inconscient.md). Un personnage disposant d’une Constitution de 11 ou moins est chancelant seulement quand ses dégâts non létaux égalent exactement son nombre de points de vie actuels.
+Dans le système normal, un personnage est [[chancelant]] seulement quand le montant de dégâts [[Blessures et mort#NONLETAL|non létaux]] qu’il a subi est égal aux points de vie qui lui restent. Dans ce système, le personnage continue d’être chancelant à partir de là jusqu’à ce que le montant de ses dégâts non létaux dépasse le nombre de ses points de vie actuel d’un montant supérieur à son bonus de [[Constitution]]. Il tombe alors [[inconscient]]. Un personnage disposant d’une Constitution de 11 ou moins est chancelant seulement quand ses dégâts non létaux égalent exactement son nombre de points de vie actuels.
 
 ### Seuils de blessure des monstres
-C’est parfois beaucoup de travail que de suivre les seuils de blessure d’une horde de monstres. Pour simplifier les choses, le [MJ](./MJ.md) peut se limiter au seuil blessé et ignorer l’accroissement de la zone où s’applique l’état préjudiciable hors de combat. Il regarde donc juste quand le monstre tombe à la moitié de ses points de vie et applique alors le malus de –2. Le MJ devrait réserver cette méthode aux groupes comportant beaucoup de monstres, les [PNJ](./PNJ.md) et les ennemis importants qui se battent seuls doivent suivre tous les paliers.
+C’est parfois beaucoup de travail que de suivre les seuils de blessure d’une horde de monstres. Pour simplifier les choses, le [[MJ]] peut se limiter au seuil blessé et ignorer l’accroissement de la zone où s’applique l’état préjudiciable hors de combat. Il regarde donc juste quand le monstre tombe à la moitié de ses points de vie et applique alors le malus de –2. Le MJ devrait réserver cette méthode aux groupes comportant beaucoup de monstres, les [[PNJ]] et les ennemis importants qui se battent seuls doivent suivre tous les paliers.
 
 ### Dons liés aux seuils de blessure
 Ces dons sont nouveaux ou issus du Manuel des Joueurs et adaptés au système de seuil de blessure. Ce système fonctionne très bien sans eux mais ils aident à développer son importance au sein de votre jeu.
@@ -76,28 +76,28 @@ Ces dons sont nouveaux ou issus du Manuel des Joueurs et adaptés au système de
 #### Soin critique
 *Les soins du personnage sont plus efficaces quand son patient souffre de blessures graves.*
 
-**Avantage.** Quand le personnage lance un sort d’[invocation (guérison)](./branche guérison.md), il soigne 1 point de vie de plus si sa cible est égratignée, blessée ou grièvement blessée. Ces soins supplémentaires augmentent de 1 au [NLS](./NLS.md) 6 puis tous les six niveaux de lanceur de sorts.
+**Avantage.** Quand le personnage lance un sort d’[[branche guérison|invocation (guérison)]], il soigne 1 point de vie de plus si sa cible est égratignée, blessée ou grièvement blessée. Ces soins supplémentaires augmentent de 1 au [[NLS]] 6 puis tous les six niveaux de lanceur de sorts.
 
 #### Endurance
 *Le personnage résiste bien aux conditions rigoureuses et aux longs exercices épuisants.*
 
-**Avantage.** Le personnage réduit le malus lié aux états égratigné, blessé et grièvement blessé de 1 (ils passent respectivement à –0, –1 et –2). De plus, il gagne un bonus de +4 aux tests et [jets de sauvegarde](./JDS.md) suivants :
-- Aux tests de [Natation](./Natation.md) pour résister aux dégâts non létaux de l’épuisement.
-- Aux tests de [Constitution](./Constitution.md) pour continuer à [courir](./Actions complexes.md#COURIR).
-- Aux tests de [Constitution](./Constitution.md) pour éviter les dégâts [non létaux](./Blessures et mort.md#NONLETAL) d’une [marche forcée](./Déplacements.md#MARCHEFORCEE).
-- Aux tests de [Constitution](./Constitution.md) pour [retenir sa respiration](./Dangers naturels.md#NOYADE).
-- Aux tests de [Constitution](./Constitution.md) pour éviter les dégâts [non létaux](./Blessures et mort.md#NONLETAL) dus à [la soif ou la faim](./Dangers naturels.md#FAIMSOIF).
-- Aux jets de [Vigueur](./Vigueur.md) pour éviter les dégâts non létaux dus aux [environnements froids](./Dangers naturels.md#FROID) ou [chauds](./Dangers naturels.md#CHALEUR).
-- Aux jets de [Vigueur](./Vigueur.md) pour résister aux dégâts de la [suffocation](./Dangers naturels.md#ASPHYXIE).
+**Avantage.** Le personnage réduit le malus lié aux états égratigné, blessé et grièvement blessé de 1 (ils passent respectivement à –0, –1 et –2). De plus, il gagne un bonus de +4 aux tests et [[jds|jets de sauvegarde]] suivants :
+- Aux tests de [[Natation]] pour résister aux dégâts non létaux de l’épuisement.
+- Aux tests de [[Constitution]] pour continuer à [[Actions complexes#COURIR|courir]].
+- Aux tests de [[Constitution]] pour éviter les dégâts [[Blessures et mort#NONLETAL|non létaux]] d’une [[Déplacements#MARCHEFORCEE|marche forcée]].
+- Aux tests de [[Constitution]] pour [[Dangers naturels#NOYADE|retenir sa respiration]].
+- Aux tests de [[Constitution]] pour éviter les dégâts [[Blessures et mort#NONLETAL|non létaux]] dus à [[Dangers naturels#FAIMSOIF|la soif ou la faim]].
+- Aux jets de [[Vigueur]] pour éviter les dégâts non létaux dus aux [[Dangers naturels#FROID|environnements froids]] ou [[Dangers naturels#CHALEUR|chauds]].
+- Aux jets de [[Vigueur]] pour résister aux dégâts de la [[Dangers naturels#ASPHYXIE|suffocation]].
 
-Le personnage peut dormir en armure légère ou intermédiaire sans être [fatigué](./Fatigué.md).
+Le personnage peut dormir en armure légère ou intermédiaire sans être [[fatigué]].
 
 **Normal.** Un personnage dépourvu de ce don est fatigué le lendemain d’une nuit passée à dormir dans une armure intermédiaire ou plus lourde.
 
 #### Remuer le couteau (combat)
 *Le personnage est encore plus dangereux contre les ennemis déjà blessés.*
 
-**Avantage.** Le personnage reçoit un bonus de +1 aux [jets d’attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS) contre les ennemis égratignés, blessés ou grièvement blessés.
+**Avantage.** Le personnage reçoit un bonus de +1 aux [[jet dattaque|jets d’attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] contre les ennemis égratignés, blessés ou grièvement blessés.
 
 ### Mode difficile
 Si vous voulez un jeu encore plus compliqué où les blessures ont plus d’impact, doublez les malus des seuils de blessure. Utilisez ce mode avec précautions car il glisse facilement vers une spirale mortelle : le camp qui commence à perdre est très sévèrement handicapé et a de grandes chances de succomber ou d’être contraint de fuir. Si vous appliquez ce mode, un lanceur de sorts perd automatiquement accès à un niveau de sort quand il passe d’un seuil de blessure à un autre : l’effet des blessures sur les incantations est donc plus prévisible et reste constant, que la victime soit d’un niveau pair ou impair.

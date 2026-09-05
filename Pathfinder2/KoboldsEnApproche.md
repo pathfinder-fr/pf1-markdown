@@ -4,9 +4,9 @@ Title: Kobold en approche !
 LastModified: 2021-01-08 11:58
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 Voici une rencontre que vous pouvez ajouter à vos parties de Pathfinder 2e édition, qu'elles se déroulent à Otari, ailleurs dans le monde des Présages perdus, ou dans un monde de campagne de votre création.
 

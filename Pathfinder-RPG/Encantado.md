@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Encantado|FP 8}
 {s:pucem|Fée|Aquatique|Tropical}
-{s:BDTexte|*Source : [Bestiaire 5 p.114](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (Contenu)|Bestiaire 5 p.114]]*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Fée](./type Fée.md) ([métamorphe](./sous-type métamorphe.md)) de taille M, CN}
-{s:BDTexte|**Init** +9 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Fée|Fée]] ([[sous-type métamorphe|métamorphe]]) de taille M, CN}
+{s:BDTexte|**Init** +9 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 20, pris au dépourvu 16 (Dex +5, naturelle +1, parade +5)}
 {s:BDTexte|**pv** 95 (10d6+60)}
@@ -24,24 +24,24 @@ Categories:
 {s:BDTexte|**VD** 9 m, nage 24 m}
 {s:BDTexte|**Corps à corps** coup, +10 (1d4+4 plus ivresse) ou lance, +8 (1d8+4/×3)}
 {s:BDTexte|**Distance** lance, +10 (1d8+3/×3)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 10 ; [concentration](./concentration.md) +15)}
-{s:BDSorts|À volonté — *[charme-personne](./Charme-personne.md)* (DD 16), *[désir anormal](./Désir anormal.md)* (DD 17), *[suggestion](./Suggestion.md)* (DD 18)}
-{s:BDSorts|3/jour — *[charme-monstre](./Charme-monstre.md)* (DD 18), *[confusion](./Confusion.md)* (DD 19), *[hébétement de monstre](./Hébétement de monstre.md)* (DD 17)}
-{s:BDSorts|1/jour — *[contrôle du climat](./Contrôle du climat.md)*}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 10 ; [[concentration]] +15)}
+{s:BDSorts|À volonté — *[[charme-personne]]* (DD 16), *[[désir anormal]]* (DD 17), *[[suggestion]]* (DD 18)}
+{s:BDSorts|3/jour — *[[charme-monstre]]* (DD 18), *[[confusion]]* (DD 19), *[[hébétement de monstre]]* (DD 17)}
+{s:BDSorts|1/jour — *[[contrôle du climat]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 21, **Con** 20, **Int** 13, **Sag** 18, **Cha** 21}
 {s:BDTexte|**BBA** +5 ; **BMO** +10 ; **DMD** 28 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Fourberie](./Fourberie.md), [Manœuvres agiles](./Manœuvres agiles.md), [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +22, [Connaissances](./Connaissances.md) (folklore local) +9, [Déguisement](./Déguisement.md) +7, [Diplomatie](./Diplomatie.md) +18, [Discrétion](./Discrétion.md) +18, [Évasion](./Évasion.md) +18, [Natation](./Natation.md) +15, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +11, [Représentation](./Représentation.md) (chant) +13, [Représentation](./Représentation.md) (danse) +13}
-{s:BDTexte|**Langues** commun, sylvestre ; *[communication avec les animaux](./Communication avec les animaux.md)*}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) ([dauphin](./Dauphin.md) ou [type Humanoïde|humanoïde]] de taille M ; *[modification d'apparence](./Modification dapparence.md)* ou *[forme bestiale I](./Forme bestiale I.md)*), grâce enchanteresse, [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Fourberie]], [[Manœuvres agiles]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Bluff]] +22, [[Connaissances]] (folklore local) +9, [[Déguisement]] +7, [[Diplomatie]] +18, [[Discrétion]] +18, [[Évasion]] +18, [[Natation]] +15, [[Perception]] +17, [[Psychologie]] +11, [[Représentation]] (chant) +13, [[Représentation]] (danse) +13}
+{s:BDTexte|**Langues** commun, sylvestre ; *[[communication avec les animaux]]*}
+{s:BDTexte|**Particularités** [[Changement de forme (capacité)|changement de forme]] ([[dauphin]] ou [type Humanoïde|humanoïde]] de taille M ; *[[modification dapparence|modification d'apparence]]* ou *[[forme bestiale I]]*), grâce enchanteresse, [[Retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** rivières chaudes}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** standard (lance, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Grâce enchanteresse (Sur).** Une encantado ajoute son bonus de [Charisme](./Charisme.md) en bonus racial à ses [jets de sauvegarde](./JDS.md) et en bonus de parade à sa [classe d’armure](./CA.md).}
-{s:BDTexte|**Ivresse (Sur).** Les attaques de coup d’une encantado plongent ses cibles dans l’ivresse et celles-ci sont alors [fiévreuses](./Fiévreux.md) pendant 1 heure. Une cible déjà fiévreuse à cause de l’ivresse d’une encantado devient à la place [nauséeuse](./Nauséeux.md) pendant 1d4 rounds.}
+{s:BDTexte|**Grâce enchanteresse (Sur).** Une encantado ajoute son bonus de [[Charisme]] en bonus racial à ses [[jds|jets de sauvegarde]] et en bonus de parade à sa [[CA|classe d’armure]].}
+{s:BDTexte|**Ivresse (Sur).** Les attaques de coup d’une encantado plongent ses cibles dans l’ivresse et celles-ci sont alors [[fiévreux|fiévreuses]] pendant 1 heure. Une cible déjà fiévreuse à cause de l’ivresse d’une encantado devient à la place [[nauséeux|nauséeuse]] pendant 1d4 rounds.}
 
 </div></td>
 <td><div>*Cette créature gracieuse combine les caractéristiques physiques d’un humain et d’un dauphin d’eau douce.*

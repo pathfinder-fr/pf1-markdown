@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Des clochettes en cuivre sont attachées à chacun des coins de ce filet de 1,50 mètre de côté. Le filet à clochettes se rabat sur l'équipement lorsque le personnage dort, chasse, cuisine ou fait quelque chose qui monopolise son attention. Il le prévient si l'on vient perturber ses possessions. Les créatures qui tentent d'accéder à un équipement protégé par un filet à clochettes doivent réussir un test d'[Escamotage](./Escamotage.md) [DD](./DD.md) 25 pour éviter de faire sonner les clochettes. Pour entendre les clochettes sonner, il faut faire un test de [Perception](./Perception.md) [DD](./DD.md) 0. Les nombreuses clochettes du filet remuant lorsque le personnage se déplace, il subit un malus de -2 aux tests de [Discrétion](./Discrétion.md) quand il se déplace.
+Des clochettes en cuivre sont attachées à chacun des coins de ce filet de 1,50 mètre de côté. Le filet à clochettes se rabat sur l'équipement lorsque le personnage dort, chasse, cuisine ou fait quelque chose qui monopolise son attention. Il le prévient si l'on vient perturber ses possessions. Les créatures qui tentent d'accéder à un équipement protégé par un filet à clochettes doivent réussir un test d'[[Escamotage]] [[DD]] 25 pour éviter de faire sonner les clochettes. Pour entendre les clochettes sonner, il faut faire un test de [[Perception]] [[DD]] 0. Les nombreuses clochettes du filet remuant lorsque le personnage se déplace, il subit un malus de -2 aux tests de [[Discrétion]] quand il se déplace.

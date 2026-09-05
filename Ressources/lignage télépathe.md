@@ -6,9 +6,9 @@ LastModified: 2015-04-24 09:38
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Faenil*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
-<ul>Vers les [lignages officiels](./../Pathfinder-RPG/Lignages.md)</ul>
-<ul>Vers la [http://www.pathfinder-fr.org/Forum/yaf_postsm111959_-Regle-maison--ensorceleur-guide.aspx#post111959|discussion] </ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
+<ul>Vers les [[Pathfinder-RPG.lignages|lignages officiels]]</ul>
+<ul>Vers la [discussion](http://www.pathfinder-fr.org/Forum/yaf_postsm111959_-Regle-maison--ensorceleur-guide.aspx#post111959) </ul>
 
 </div>
 
@@ -21,31 +21,31 @@ Un certain nombre de créatures du jeu possèdent des pouvoirs de télépathie e
 
 ### Description
 
-**Compétence de classe.** [Psychologie](./../Pathfinder-RPG/Psychologie.md)
+**Compétence de classe.** [[pathfinder-RPG.Psychologie|Psychologie]]
 
 **Sorts supplémentaires.**
-*[Hypnose](./../Pathfinder-RPG/Hypnose.md)* (niveau 3),
-*[détection de pensées](./../Pathfinder-RPG/Détection de pensées.md)* (niveau 5),
-*[suggestion](./../Pathfinder-RPG/Suggestion.md)* (niveau 7),
-*[charme-monstre](./../Pathfinder-RPG/Charme-monstre.md)* (niveau 9),
-*[lien télépathique](./../Pathfinder-RPG/Lien télépathique.md)* (niveau 11),
-*[suggestion de groupe](./../Pathfinder-RPG/Suggestion de groupe.md)* (niveau 13),
-*[aliénation mentale](./../Pathfinder-RPG/Aliénation mentale.md)* (niveau 15),
-*[esprit impénétrable](./../Pathfinder-RPG/Esprit impénétrable.md)* (niveau 17),
-*[Domination universelle](./../Pathfinder-RPG/Domination universelle.md)* (niveau 19)
+*[[pathfinder-RPG.hypnose|Hypnose]]* (niveau 3),
+*[[pathfinder-RPG.détection de pensées|détection de pensées]]* (niveau 5),
+*[[pathfinder-RPG.suggestion|suggestion]]* (niveau 7),
+*[[pathfinder-RPG.charme-monstre|charme-monstre]]* (niveau 9),
+*[[pathfinder-RPG.lien télépathique|lien télépathique]]* (niveau 11),
+*[[pathfinder-RPG.suggestion de groupe|suggestion de groupe]]* (niveau 13),
+*[[pathfinder-RPG.aliénation mentale|aliénation mentale]]* (niveau 15),
+*[[pathfinder-RPG.esprit impénétrable|esprit impénétrable]]* (niveau 17),
+*[[pathfinder-RPG.Domination universelle|Domination universelle]]* (niveau 19)
 
-**Dons supplémentaires.** [Affinité magique](./../Pathfinder-RPG/Aptitude magique.md),
-[École renforcée](./../Pathfinder-RPG/École renforcée.md),
-[Efficacité des sorts accrue](./../Pathfinder-RPG/Efficacité des sorts accrue.md),
-[Efficacité des sorts accrue supérieure](./../Pathfinder-RPG/Efficacité des sorts accrue supérieure.md),
-[Incantation statique](./../Pathfinder-RPG/Incantation statique.md),
-[Incantation silencieuse](./../Pathfinder-RPG/Incantation silencieuse.md),
-[Persuasion](./../Pathfinder-RPG/Persuasion.md),
-[Talent](./../Pathfinder-RPG/Talent.md) ([Connaissances](./../Pathfinder-RPG/Connaissances.md) exploration souterraine),
-[Vigilance](./../Pathfinder-RPG/Vigilance.md),
-[Volonté de fer](./../Pathfinder-RPG/Volonté de fer.md)
+**Dons supplémentaires.** [[pathfinder-RPG.Aptitude magique|Affinité magique]],
+[[pathfinder-RPG.École renforcée|École renforcée]],
+[[pathfinder-RPG.Efficacité des sorts accrue|Efficacité des sorts accrue]],
+[[pathfinder-RPG.Efficacité des sorts accrue supérieure|Efficacité des sorts accrue supérieure]],
+[[pathfinder-RPG.Incantation statique|Incantation statique]],
+[[pathfinder-RPG.Incantation silencieuse|Incantation silencieuse]],
+[[pathfinder-RPG.Persuasion|Persuasion]],
+[[pathfinder-RPG.Talent|Talent]] ([[pathfinder-RPG.Connaissances|Connaissances]] exploration souterraine),
+[[pathfinder-RPG.vigilance|Vigilance]],
+[[pathfinder-RPG.Volonté de fer|Volonté de fer]]
 
-**Arcane de lignage.** Contrairement à la plupart des ensorceleurs dont la magie innée vient de leur forte personnalité, le télépathe se repose sur son [intelligence](./../Pathfinder-RPG/Intelligence.md) pour comprendre et maîtriser ses pouvoirs mystiques. Il utilise son [intelligence](./../Pathfinder-RPG/Intelligence.md) et non son [charisme](./../Pathfinder-RPG/Charisme.md) pour déterminer toutes ses capacités de classe et les effets liés comme les [sorts supplémentaires quotidiens](./../Pathfinder-RPG/Caractéristiques.md#DETERMINERLESMODIFICATEURS), le niveau de sort maximal qu’il peut lancer et le [DD](./../Pathfinder-RPG/DD.md) des [jets de sauvegarde](./../Pathfinder-RPG/jet de sauvegarde.md) contre ses sorts. Il gagne un bonus de +1 à ses jets de sauvegarde contre les sorts et pouvoirs mentaux.
+**Arcane de lignage.** Contrairement à la plupart des ensorceleurs dont la magie innée vient de leur forte personnalité, le télépathe se repose sur son [[pathfinder-RPG.intelligence|intelligence]] pour comprendre et maîtriser ses pouvoirs mystiques. Il utilise son [[pathfinder-RPG.Intelligence|intelligence]] et non son [[pathfinder-RPG.Charisme|charisme]] pour déterminer toutes ses capacités de classe et les effets liés comme les [[pathfinder-RPG.Caractéristiques#DETERMINERLESMODIFICATEURS|sorts supplémentaires quotidiens]], le niveau de sort maximal qu’il peut lancer et le [[pathfinder-RPG.DD|DD]] des [[pathfinder-RPG.jet de sauvegarde|jets de sauvegarde]] contre ses sorts. Il gagne un bonus de +1 à ses jets de sauvegarde contre les sorts et pouvoirs mentaux.
 
 
 
@@ -55,15 +55,15 @@ Un certain nombre de créatures du jeu possèdent des pouvoirs de télépathie e
 
 *L’ensorceleur peut facilement savoir ce que ressentent les autres et communiquer avec eux sans échanger un mot. Lorsqu'il progresse dans la découverte de son héritage, il peut manipuler les esprits avec aisance. Mais il doit prendre garde à ne pas se laisser lui même contrôler par une soif grandissante de pouvoir sur les autres...*
 
-**Décharge spirituelle (Mag).** À partir du [niveau](./../Pathfinder-RPG/niveau.md) 1, le personnage peut, par une [action simple](./../Pathfinder-RPG/Action simple.md), broyer l'esprit d'un ennemi situé à moins de 9 mètres (6{s:c}). L'attaque inflige 1d4 points de dégâts + 1 par tranche de deux [niveaux](./../Pathfinder-RPG/niveau.md) d’[ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) et la cible devient [fiévreuse](./../Pathfinder-RPG/Fiévreux.md) durant un round. La réussite d'un [jet de volonté](./../Pathfinder-RPG/Volonté.md) (DD = 10 + 1/2 [niveaux](./../Pathfinder-RPG/niveau.md) d’[ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) + modificateur d’[Intelligence](./../Pathfinder-RPG/Intelligence.md)) permet de diviser les dégâts par deux et d'éviter de devenir fiévreux. Ces dégâts sont considérés comme résultant d’un sort d’un niveau égal à la moitié du niveau de l’ensorceleur. Il s'agit d'un effet mental. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur d’[Intelligence](./../Pathfinder-RPG/Intelligence.md).
+**Décharge spirituelle (Mag).** À partir du [[pathfinder-RPG.niveau|niveau]] 1, le personnage peut, par une [[pathfinder-RPG.action simple|action simple]], broyer l'esprit d'un ennemi situé à moins de 9 mètres (6{s:c}). L'attaque inflige 1d4 points de dégâts + 1 par tranche de deux [[pathfinder-RPG.niveau|niveaux]] d’[[pathfinder-RPG.ensorceleur|ensorceleur]] et la cible devient [[pathfinder-RPG.fiévreux|fiévreuse]] durant un round. La réussite d'un [[pathfinder-RPG.volonté|jet de volonté]] (DD = 10 + 1/2 [[pathfinder-RPG.niveau|niveaux]] d’[[pathfinder-RPG.ensorceleur|ensorceleur]] + modificateur d’[[pathfinder-RPG.Intelligence|Intelligence]]) permet de diviser les dégâts par deux et d'éviter de devenir fiévreux. Ces dégâts sont considérés comme résultant d’un sort d’un niveau égal à la moitié du niveau de l’ensorceleur. Il s'agit d'un effet mental. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur d’[[pathfinder-RPG.Intelligence|Intelligence]].
 
-**Télépathe (Sur).** Au niveau 3, le personnage peut, par une [action simple](./../Pathfinder-RPG/Action simple.md), établir un lien télépathique située à une portée maximale de 1,5 m par [niveau](./../Pathfinder-RPG/niveau.md). Le lien persiste tant que le personnage se concentre dessus. A partir du niveau 9, le lien peut être établi avec plusieurs créatures à la fois.
+**Télépathe (Sur).** Au niveau 3, le personnage peut, par une [[pathfinder-RPG.action simple|action simple]], établir un lien télépathique située à une portée maximale de 1,5 m par [[pathfinder-RPG.niveau|niveau]]. Le lien persiste tant que le personnage se concentre dessus. A partir du niveau 9, le lien peut être établi avec plusieurs créatures à la fois.
 
-**Esprit polymorphe (Sur).** Au niveau 9, le télépathe a appris à s'adapter aux esprits totalement étranger au sien et à les dominer. Lorsqu'il lance un sort de [coercition](./../Pathfinder-RPG/coercition.md) sur une créature possédant une valeur d'[Intelligence](./../Pathfinder-RPG/Intelligence.md) mais qui y est immunisée (par exemple parce qu'elle est immunisée aux effets [mentaux](./../Pathfinder-RPG/Registre.md)), il peut ignorer cette immunité à condition de réussir un test de [niveaux](./../Pathfinder-RPG/niveau.md) de lanceur de sort, comme s'il voulait vaincre une [résistance à la magie](./../Pathfinder-RPG/RM.md). Le DD à vaincre est égal à 10 + le FP de la créature. Si la créature dispose déjà d'une résistance à la magie, le lanceur de sort ne fait qu'un seul jet contre la RM de celle-ci, mais avec un malus de -4. Enfin, si l'immunité provient d'un sort, le DD du jet est de 10 + NLS de l'effet.
+**Esprit polymorphe (Sur).** Au niveau 9, le télépathe a appris à s'adapter aux esprits totalement étranger au sien et à les dominer. Lorsqu'il lance un sort de [[pathfinder-RPG.coercition|coercition]] sur une créature possédant une valeur d'[[pathfinder-RPG.Intelligence|Intelligence]] mais qui y est immunisée (par exemple parce qu'elle est immunisée aux effets [[pathfinder-RPG.registre|mentaux]]), il peut ignorer cette immunité à condition de réussir un test de [[pathfinder-RPG.niveau|niveaux]] de lanceur de sort, comme s'il voulait vaincre une [[pathfinder-RPG.RM|résistance à la magie]]. Le DD à vaincre est égal à 10 + le FP de la créature. Si la créature dispose déjà d'une résistance à la magie, le lanceur de sort ne fait qu'un seul jet contre la RM de celle-ci, mais avec un malus de -4. Enfin, si l'immunité provient d'un sort, le DD du jet est de 10 + NLS de l'effet.
 Au niveau 15, ce pouvoir fonctionne également pour les créatures dénudées d'intelligence.
 
 
-**Décharge mentale (Sur).** Au niveau 15, le personnage peut générer une puissante attaque prenant la forme d'un cône de 12 mètres de long. Toutes les créatures prises dans la zone d'effet doivent réussir un jet de Volonté (DD = 10 + 1/2 [niveaux](./../Pathfinder-RPG/niveau.md) d’[++pathfinder-RPG.ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) + modificateur d’[Intelligence](./../Pathfinder-RPG/Intelligence.md))  sous peine d'être [étourdies](./../Pathfinder-RPG/Étourdi.md) pendant 1d4 rounds.
+**Décharge mentale (Sur).** Au niveau 15, le personnage peut générer une puissante attaque prenant la forme d'un cône de 12 mètres de long. Toutes les créatures prises dans la zone d'effet doivent réussir un jet de Volonté (DD = 10 + 1/2 [[pathfinder-RPG.niveau|niveaux]] d’[[pathfinder-RPG.ensorceleur]] + modificateur d’[[pathfinder-RPG.Intelligence|Intelligence]])  sous peine d'être [[pathfinder-RPG.étourdi|étourdies]] pendant 1d4 rounds.
 
 
 

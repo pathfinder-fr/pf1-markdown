@@ -14,7 +14,7 @@ Il est rare qu’un personnage doive faire un jet en utilisant uniquement la val
 ### Déterminer les caractéristiques
 Il existe plusieurs méthodes pour déterminer les valeurs des caractéristiques, chacune rendant la création de personnage plus ou moins flexible ou sujette au hasard.
 
-Les modificateurs raciaux (les ajustements des valeurs des caractéristiques dépendant de la [race](./../Golarion/races.md) du personnage) entrent en jeu après que les valeurs des caractéristiques ont été déterminées.
+Les modificateurs raciaux (les ajustements des valeurs des caractéristiques dépendant de la [[races|race]] du personnage) entrent en jeu après que les valeurs des caractéristiques ont été déterminées.
 
 **Méthode standard.** Lancez 4d6, éliminez le résultat du dé le plus faible et additionnez les trois résultats restants. Notez ce total et recommencez jusqu’à ce que vous ayez obtenu six valeurs. Répartissez ces valeurs entre les caractéristiques comme vous le désirez. Cette méthode est moins aléatoire que la méthode classique et a tendance à créer des personnages qui possèdent des caractéristiques au-dessus de la moyenne.
 
@@ -98,13 +98,13 @@ Le nombre de points dont le personnage dispose pour cette méthode dépend du ty
 
 {s:Reference|DETERMINERLESMODIFICATEURS}
 ### Déterminer les modificateurs
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#33) Sorts en bonus grâce à un score de caractéristique élevé : Puis-je en bénéficier même si mon niveau de classe de lanceur de sorts n'est pas assez élevé pour me donner accès à ces niveaux de sorts ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#33|→]] Sorts en bonus grâce à un score de caractéristique élevé : Puis-je en bénéficier même si mon niveau de classe de lanceur de sorts n'est pas assez élevé pour me donner accès à ces niveaux de sorts ?***
 
-Non. Vous ne gagnez des <u>[sorts en bonus](./Caractéristiques.md#DETERMINER)</u> que si votre niveau de classe vous donne accès aux niveaux de sorts considérés.  Vous ne pouvez même pas les utiliser pour lancer ses sorts de niveau inférieur. Voyez le *Manuel des joueurs* page 16, section [Caractéristiques et lanceurs de sorts](./Caractéristiques.md#CARACTERISTIQUESETLANCEURSDESORTS) : « Pour pouvoir jeter des sorts d’un niveau donné, un lanceur de sorts doit posséder une valeur de caractéristique et un niveau de classe suffisamment élevés. »
+Non. Vous ne gagnez des <u>[[Caractéristiques#DETERMINER|sorts en bonus]]</u> que si votre niveau de classe vous donne accès aux niveaux de sorts considérés.  Vous ne pouvez même pas les utiliser pour lancer ses sorts de niveau inférieur. Voyez le *Manuel des joueurs* page 16, section [[Caractéristiques#CARACTERISTIQUESETLANCEURSDESORTS|Caractéristiques et lanceurs de sorts]] : « Pour pouvoir jeter des sorts d’un niveau donné, un lanceur de sorts doit posséder une valeur de caractéristique et un niveau de classe suffisamment élevés. »
 
 Par exemple, un magicien de niveau 1 avec une Intelligence de 18 a, d'après la table 1-3 : Modificateurs de caractéristique et sorts en bonus, un sort en bonus aux niveaux de sorts 1, 2, 3 et 4. Cependant, il ne peut bénéficier que du sort en bonus de niveau 1 parce que, en tant que magicien de niveau 1, il n'a accès qu'aux sorts de niveau 1 (d'après la table de progression du magicien, son nombre de sorts de niveau 2, 3 et 4 est "—", ce qui signifie "pas d'accès aux sorts de ce niveau"). Dès qu'il devient un magicien de niveau 3, il accède à ses emplacements de sorts de niveau 2 et peut donc utiliser l'emplacement de sort en bonus de niveau 2 obtenu grâce à sa haute Intelligence. Il pourra faire de même pour les emplacements de sorts et le sort en bonus de niveau 3 lorsqu'il deviendra un magicien de niveau 5.
 
-En résumé, ignorez les colonnes des sorts sur la table 1-3 : Modificateurs de caractéristique et sorts en bonus jusqu'à ce que votre niveau de classe vous donne accès à ces niveaux de sorts.}Une fois que les ajustements dépendant de la [race](./../Golarion/races.md) ont été effectués, chacune des caractéristiques se voit associer un modificateur entre -5 et +5 déterminé comme indiqué dans le Tableau ci-après. Ce modificateur est le nombre que vous ajoutez ou retranchez au résultat du dé lorsque votre personnage tente d’accomplir une action liée à la caractéristique en question. Il possède également d’autres utilisations qui ne se rapportent pas à des lancers de dés. Un modificateur positif est un bonus et un modificateur négatif un malus ou une pénalité.
+En résumé, ignorez les colonnes des sorts sur la table 1-3 : Modificateurs de caractéristique et sorts en bonus jusqu'à ce que votre niveau de classe vous donne accès à ces niveaux de sorts.}Une fois que les ajustements dépendant de la [[races|race]] ont été effectués, chacune des caractéristiques se voit associer un modificateur entre -5 et +5 déterminé comme indiqué dans le Tableau ci-après. Ce modificateur est le nombre que vous ajoutez ou retranchez au résultat du dé lorsque votre personnage tente d’accomplir une action liée à la caractéristique en question. Il possède également d’autres utilisations qui ne se rapportent pas à des lancers de dés. Un modificateur positif est un bonus et un modificateur négatif un malus ou une pénalité.
 
 Le tableau vous indique également les sorts en bonus, un élément important pour les personnages qui peuvent lancer des sorts.
 
@@ -191,7 +191,7 @@ Le tableau vous indique également les sorts en bonus, un élément important po
 {s:Reference|CARACTERISTIQUESETLANCEURSDESORTS}
 #### Caractéristiques et lanceurs de sorts
 
-La caractéristique dont dépendent les sorts varie selon les types de lanceurs de sorts : il s’agit de l’Intelligence pour les [alchimistes](./Alchimiste.md), les [magiciens](./Magicien.md), les [magi](./Magus.md) et les [sorcières](./Sorcière.md) de la Sagesse pour les [prêtres](./Prêtre.md), les [druides](./Druide.md), les [inquisiteurs](./Inquisiteur.md) et les [rôdeurs](./Rôdeur.md), et du Charisme pour les [bardes](./Barde.md), les [conjurateurs](./Conjurateur.md), les [oracles](./Oracle.md), les [paladins](./Paladin.md) et les [ensorceleurs](./Ensorceleur.md). Pour pouvoir jeter des sorts d’un niveau donné, un lanceur de sorts doit posséder une valeur de caractéristique et un niveau de classe suffisamment élevés. Consultez les descriptions des classes pour plus de détails.
+La caractéristique dont dépendent les sorts varie selon les types de lanceurs de sorts : il s’agit de l’Intelligence pour les [[alchimiste|alchimistes]], les [[magicien|magiciens]], les [[magus|magi]] et les [[sorcière|sorcières]] de la Sagesse pour les [[prêtre|prêtres]], les [[druide|druides]], les [[inquisiteur|inquisiteurs]] et les [[rôdeur|rôdeurs]], et du Charisme pour les [[barde|bardes]], les [[conjurateur|conjurateurs]], les [[oracle|oracles]], les [[paladin|paladins]] et les [[ensorceleur|ensorceleurs]]. Pour pouvoir jeter des sorts d’un niveau donné, un lanceur de sorts doit posséder une valeur de caractéristique et un niveau de classe suffisamment élevés. Consultez les descriptions des classes pour plus de détails.
 
 
 {s:Reference|DESCRIPTION}
@@ -203,78 +203,78 @@ Chacune des caractéristiques décrit un aspect de votre personnage et condition
 #### La Force (For)
 *La Force représente la puissance musculaire et physique.*
 
-Cette caractéristique est importante pour les combattants au corps à corps comme les [guerriers](./Guerrier.md), les [moines](./Moine.md), les [paladins](./Paladin.md) et certains [rôdeurs](./Rôdeur.md). La Force indique également le [poids maximal](./Poids transportable.md) que votre personnage peut porter. Un personnage avec une valeur de Force de 0 est trop faible pour se mouvoir ; il est [inconscient](./Inconscient.md). Certaines créatures ne possèdent pas de valeur de Force et n’appliquent aucun modificateur aux [compétences](./Compétences.md) et aux jets basés sur la Force.
+Cette caractéristique est importante pour les combattants au corps à corps comme les [[guerrier|guerriers]], les [[moine|moines]], les [[paladin|paladins]] et certains [[rôdeur|rôdeurs]]. La Force indique également le [[Poids transportable|poids maximal]] que votre personnage peut porter. Un personnage avec une valeur de Force de 0 est trop faible pour se mouvoir ; il est [[inconscient]]. Certaines créatures ne possèdent pas de valeur de Force et n’appliquent aucun modificateur aux [[compétences]] et aux jets basés sur la Force.
 
 On applique le modificateur de Force
-- aux jets d’[attaque au corps à corps](./attaque au corps à corps.md).
-- aux [jets de dégâts](./jet de dégâts.md) lorsque vous utilisez une [arme de corps à corps](./arme de corps à corps.md) ou une [arme de jet](./arme de jet.md), y compris une fronde (avec des exceptions : les attaques portées avec la main secondaire ne bénéficient que de la moitié du bonus de Force du personnage et les attaques à deux mains reçoivent une fois et demie le bonus de Force. Les malus de Force – mais pas les bonus – s’appliquent aux jets d’attaque lorsqu’on utilise un arc qui n’est pas un arc composite).
-- aux tests d’[Escalade](./Escalade.md) et de [Natation](./Natation.md).
+- aux jets d’[[attaque au corps à corps]].
+- aux [[jet de dégâts|jets de dégâts]] lorsque vous utilisez une [[arme de corps à corps]] ou une [[arme de jet]], y compris une fronde (avec des exceptions : les attaques portées avec la main secondaire ne bénéficient que de la moitié du bonus de Force du personnage et les attaques à deux mains reçoivent une fois et demie le bonus de Force. Les malus de Force – mais pas les bonus – s’appliquent aux jets d’attaque lorsqu’on utilise un arc qui n’est pas un arc composite).
+- aux tests d’[[Escalade]] et de [[Natation]].
 - aux tests de Force (pour forcer une porte par exemple).
 
 {s:Reference|DEXTERITE}
 #### La Dextérité (Dex)
 *La Dextérité représente l’agilité, les réflexes et l’équilibre.*
 
-Cette caractéristique est surtout importante pour les [roublards](./Roublard.md) mais elle est également utile pour les personnages qui ne portent que des [armures légères](./armure légère.md) ou [intermédiaires](./armure intermédiaire.md) ou aucune armure du tout. C’est une caractéristique vitale pour les personnages qui désirent exceller au combat avec des [armes à distance](./arme à distance.md) comme les arcs et les frondes. Un personnage avec une valeur de Dextérité de 0 est incapable de se mouvoir ; il est immobile (mais pas inconscient).
+Cette caractéristique est surtout importante pour les [[roublard|roublards]] mais elle est également utile pour les personnages qui ne portent que des [[armure légère|armures légères]] ou [[armure intermédiaire|intermédiaires]] ou aucune armure du tout. C’est une caractéristique vitale pour les personnages qui désirent exceller au combat avec des [[arme à distance|armes à distance]] comme les arcs et les frondes. Un personnage avec une valeur de Dextérité de 0 est incapable de se mouvoir ; il est immobile (mais pas inconscient).
 
 On applique le modificateur de Dextérité
-- aux jets d’[attaque à distance](./Attaque à distance.md) ; par exemple pour les attaques à l’arbalète, à l’arc, à la hache de lancer ou encore pour de nombreux sorts d’attaque à distance comme *[rayon ardent](./Rayon ardent.md)* ou *[lumière brûlante](./Lumière brûlante.md)*.
-- à la [classe d’armure](./CA.md) (CA), pour autant que le personnage puisse réagir à l’attaque.
-- aux jets de [Réflexes](./Réflexes.md) pour éviter les *[boules de feu](./Boule de feu.md)* et d’autres attaques auxquelles on peut échapper en se déplaçant rapidement.
-- aux tests d’[Acrobaties](./Acrobaties.md), de [Sabotage](./Sabotage.md), de [Discrétion](./Discrétion.md), d’[Équitation](./Équitation.md), d’[Escamotage](./Escamotage.md), d’[Évasion](./Évasion.md) et de [Vol](./Vol.md).
+- aux jets d’[[attaque à distance]] ; par exemple pour les attaques à l’arbalète, à l’arc, à la hache de lancer ou encore pour de nombreux sorts d’attaque à distance comme *[[rayon ardent]]* ou *[[lumière brûlante]]*.
+- à la [[CA|classe d’armure]] (CA), pour autant que le personnage puisse réagir à l’attaque.
+- aux jets de [[Réflexes]] pour éviter les *[[boule de feu|boules de feu]]* et d’autres attaques auxquelles on peut échapper en se déplaçant rapidement.
+- aux tests d’[[Acrobaties]], de [[Sabotage]], de [[Discrétion]], d’[[Équitation]], d’[[Escamotage]], d’[[Évasion]] et de [[Vol]].
 
 {s:Reference|CONSTITUTION}
 #### La Constitution (Con)
 *La Constitution représente la santé et l’endurance de votre personnage.*
 
-Le bonus lié à la Constitution augmente les [point de vie](./point de vie.md) du personnage, ce qui rend cette caractéristique importante pour toutes les [classes](./Classes.md). Certaines créatures, comme les [morts-vivants](./type Mort-vivant.md) et les [créatures artificielles](./type Créature artificielle.md), ne possèdent pas de valeur de Constitution. Leur modificateur pour tous les jets basés sur la Constitution est de +0. Un personnage avec une valeur de Constitution de 0 est [mort](./Mort.md).
+Le bonus lié à la Constitution augmente les [[point de vie]] du personnage, ce qui rend cette caractéristique importante pour toutes les [[classes]]. Certaines créatures, comme les [[type mort-vivant|morts-vivants]] et les [[type créature artificielle|créatures artificielles]], ne possèdent pas de valeur de Constitution. Leur modificateur pour tous les jets basés sur la Constitution est de +0. Un personnage avec une valeur de Constitution de 0 est [[mort]].
 
 On applique le modificateur de Constitution
-- à chacun des [dés de vie](./../Ressources/DV.md) (un malus ne peut jamais abaisser le résultat du dé en dessous de 1 cependant : un personnage gagne toujours au moins 1 point de vie chaque fois qu’il gagne un niveau).
-- aux jets de [Vigueur](./Vigueur.md), pour résister aux [poisons](./poison.md), aux [maladies](./maladie.md) et aux autres menaces du même genre.
+- à chacun des [[DV|dés de vie]] (un malus ne peut jamais abaisser le résultat du dé en dessous de 1 cependant : un personnage gagne toujours au moins 1 point de vie chaque fois qu’il gagne un niveau).
+- aux jets de [[Vigueur]], pour résister aux [[poison|poisons]], aux [[maladie|maladies]] et aux autres menaces du même genre.
 
-Si la valeur de Constitution d’un personnage change suffisamment pour que son modificateur de Constitution soit altéré, les [points de vie](./point de vie.md) du personnage sont modifiés en conséquence (vers le haut ou vers le bas).
+Si la valeur de Constitution d’un personnage change suffisamment pour que son modificateur de Constitution soit altéré, les [[point de vie|points de vie]] du personnage sont modifiés en conséquence (vers le haut ou vers le bas).
 
 {s:Reference|INTELLIGENCE}
 
 #### L'Intelligence (Int)
 *L’Intelligence détermine la capacité d’apprentissage et de raisonnement de votre personnage.*
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Races et classes).md#18) Intelligence : Si mon modificateur d’Intelligence augmente, puis-je choisir une nouvelle langue supplémentaire ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Races et classes)#18|→]] Intelligence : Si mon modificateur d’Intelligence augmente, puis-je choisir une nouvelle langue supplémentaire ?***
 
-Oui. Par exemple, si l’Int du personnage est 13, et qu’en arrivant au niveau 4 il applique son accroissement de <u>[caractéristique](./Caractéristiques.md#DESCRIPTION)</u> à l’Int, cela passera son bonus d’Int de +1 à +2, lui offrant une nouvelle langue supplémentaire.
-Techniquement, les objets qui améliorent l’Int comme un *[bandeau d’intelligence](./Bandeau dintelligence.md)* devrait conférer un nombre spécifique de langues (comme ils le font pour les rangs de compétence).}Cette caractéristique est importante pour les [magiciens](./Magicien.md) car elle influence leur aptitude à lancer des [sorts](./sort.md) de nombreuses manières. L’instinct animal correspond à une Intelligence de 1 ou 2 ; les créatures qui peuvent comprendre un langage parlé possèdent une Intelligence d’au moins 3. Un personnage avec une valeur d’Intelligence de 0 est comateux. Certaines créatures ne possèdent pas de valeur d’Intelligence ; leur modificateur pour les compétences et les jets basés sur l’Intelligence est de +0.
+Oui. Par exemple, si l’Int du personnage est 13, et qu’en arrivant au niveau 4 il applique son accroissement de <u>[[Caractéristiques#DESCRIPTION|caractéristique]]</u> à l’Int, cela passera son bonus d’Int de +1 à +2, lui offrant une nouvelle langue supplémentaire.
+Techniquement, les objets qui améliorent l’Int comme un *[[Bandeau dintelligence|bandeau d’intelligence]]* devrait conférer un nombre spécifique de langues (comme ils le font pour les rangs de compétence).}Cette caractéristique est importante pour les [[magicien|magiciens]] car elle influence leur aptitude à lancer des [[sort|sorts]] de nombreuses manières. L’instinct animal correspond à une Intelligence de 1 ou 2 ; les créatures qui peuvent comprendre un langage parlé possèdent une Intelligence d’au moins 3. Un personnage avec une valeur d’Intelligence de 0 est comateux. Certaines créatures ne possèdent pas de valeur d’Intelligence ; leur modificateur pour les compétences et les jets basés sur l’Intelligence est de +0.
 
 On applique le modificateur d’Intelligence
-- au nombre de [langues supplémentaires](./Linguistique.md) que le personnage connaît lorsqu’il entre en jeu. Ces langues viennent s’ajouter aux langues [raciales](./../Golarion/races.md) initiales et au langage commun que le personnage connaît automatiquement. Les créatures qui possèdent un malus d’Intelligence restent quand même capables de lire et d’écrire leurs langues raciales, pour autant qu’elles possèdent une valeur d’Intelligence d’au moins 3.
-- au nombre de [rangs](./rang.md) de [compétence](./Compétences.md) gagnés à chaque [niveau](./niveau.md) (sans toutefois abaisser celui-ci en dessous de 1).
-- aux tests d’[Art de la magie](./Art de la magie.md), d’[Artisanat](./Artisanat.md), de [Connaissances](./Connaissances.md), d’[Estimation](./Estimation.md) et de [Linguistique](./Linguistique.md).
+- au nombre de [[Linguistique|langues supplémentaires]] que le personnage connaît lorsqu’il entre en jeu. Ces langues viennent s’ajouter aux langues [[races|raciales]] initiales et au langage commun que le personnage connaît automatiquement. Les créatures qui possèdent un malus d’Intelligence restent quand même capables de lire et d’écrire leurs langues raciales, pour autant qu’elles possèdent une valeur d’Intelligence d’au moins 3.
+- au nombre de [[rang|rangs]] de [[compétences|compétence]] gagnés à chaque [[niveau]] (sans toutefois abaisser celui-ci en dessous de 1).
+- aux tests d’[[Art de la magie]], d’[[Artisanat]], de [[Connaissances]], d’[[Estimation]] et de [[Linguistique]].
 
-L’Intelligence des [magicien|magiciens], des [alchimiste|alchimistes], des [sorcière|sorcières] et des [magus](./Magus.md) détermine le nombre de sorts en bonus qu’ils obtiennent. Pour pouvoir lancer un sort donné, le [magicien](./Magicien.md) doit posséder une valeur d’[Intelligence](./Intelligence.md) d’au moins 10 + le [niveau du sort](./Niveau de sort.md).
+L’Intelligence des [[magicien|magiciens]], des [[alchimiste|alchimistes]], des [[sorcière|sorcières]] et des [[magus]] détermine le nombre de sorts en bonus qu’ils obtiennent. Pour pouvoir lancer un sort donné, le [[magicien]] doit posséder une valeur d’[[Intelligence]] d’au moins 10 + le [[niveau de sort|niveau du sort]].
 
 {s:Reference|SAGESSE}
 
 #### La Sagesse (Sag)
 *La Sagesse mesure la volonté, le bon sens, la capacité de percevoir et l’intuition du personnage.*
 
-C’est une caractéristique essentielle pour les [prêtres](./Prêtre.md) et les [druides](./Druide.md) et importante pour les [paladins](./Paladin.md), les [rôdeurs](./Rôdeur.md) et les [inquisiteurs](./Inquisiteur.md). Placez une valeur élevée en Sagesse si vous voulez que votre personnage possède des sens aiguisés. Toutes les créatures possèdent une valeur de Sagesse. Un personnage avec une valeur de Sagesse de 0 est incapable de penser de manière rationnelle ; il est [inconscient](./Inconscient.md).
+C’est une caractéristique essentielle pour les [[prêtre|prêtres]] et les [[druide|druides]] et importante pour les [[paladin|paladins]], les [[rôdeur|rôdeurs]] et les [[inquisiteur|inquisiteurs]]. Placez une valeur élevée en Sagesse si vous voulez que votre personnage possède des sens aiguisés. Toutes les créatures possèdent une valeur de Sagesse. Un personnage avec une valeur de Sagesse de 0 est incapable de penser de manière rationnelle ; il est [[inconscient]].
 
 On applique le modificateur de Sagesse
-- aux jets de [Volonté](./Volonté.md) (pour contrer les effets de sorts tels que *[charme-personne](./Charme-personne.md)*).
-- aux tests de [Perception](./Perception.md), de [Premiers secours](./Premiers secours.md), de [Profession](./Profession.md), de [Psychologie](./Psychologie.md) et de [Survie](./Survie.md).
+- aux jets de [[Volonté]] (pour contrer les effets de sorts tels que *[[charme-personne]]*).
+- aux tests de [[Perception]], de [[Premiers secours]], de [[Profession]], de [[Psychologie]] et de [[Survie]].
 
-La Sagesse des [prêtres](./Prêtre.md), [druides](./Druide.md) et [rôdeurs](./Rôdeur.md) détermine le nombre de sorts en bonus qu’ils obtiennent. Pour pouvoir lancer un sort donné, un [prêtre](./Prêtre.md), [druide](./Druide.md) ou [rôdeur](./Rôdeur.md) doit posséder une valeur de Sagesse d’au moins 10 + le [niveau du sort](./Niveau de sort.md).
+La Sagesse des [[prêtre|prêtres]], [[druide|druides]] et [[rôdeur|rôdeurs]] détermine le nombre de sorts en bonus qu’ils obtiennent. Pour pouvoir lancer un sort donné, un [[prêtre]], [[druide]] ou [[rôdeur]] doit posséder une valeur de Sagesse d’au moins 10 + le [[niveau de sort|niveau du sort]].
 
 {s:Reference|CHARISME}
 
 #### Le Charisme (Cha)
 *Le Charisme représente la personnalité, le magnétisme personnel, la capacité à diriger et l’apparence du personnage.*
 
-C’est une caractéristique essentielle pour les [paladins](./Paladin.md), les [ensorceleurs](./Ensorceleur.md) et les [bardes](./Barde.md), et importante pour les [prêtres](./Prêtre.md) (car elle conditionne leur capacité à [canaliser de l’énergie](./canalisation dénergie.md)). Dans le cas des créatures [mortes-vivantes](./type Mort-vivant.md), le Charisme représente la force vitale surnaturelle qui les anime. Toutes les créatures possèdent une valeur de Charisme. Un personnage avec une valeur de Charisme de 0 est incapable de prendre la décision de faire quoi que ce soit ; il est [inconscient](./Inconscient.md).
+C’est une caractéristique essentielle pour les [[paladin|paladins]], les [[ensorceleur|ensorceleurs]] et les [[barde|bardes]], et importante pour les [[prêtre|prêtres]] (car elle conditionne leur capacité à [[canalisation dénergie|canaliser de l’énergie]]). Dans le cas des créatures [[type mort-vivant|mortes-vivantes]], le Charisme représente la force vitale surnaturelle qui les anime. Toutes les créatures possèdent une valeur de Charisme. Un personnage avec une valeur de Charisme de 0 est incapable de prendre la décision de faire quoi que ce soit ; il est [[inconscient]].
 
 On applique le modificateur de Charisme
-- aux tests de [Bluff](./Bluff.md), de [Déguisement](./Déguisement.md), de [Diplomatie](./Diplomatie.md), de [Dressage](./Dressage.md), d’[Intimidation](./Intimidation.md), de [Représentation](./Représentation.md) et d’[Utilisation d’objets magiques](./Utilisation dObjets Magiques.md).
+- aux tests de [[Bluff]], de [[Déguisement]], de [[Diplomatie]], de [[Dressage]], d’[[Intimidation]], de [[Représentation]] et d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]].
 - aux jets relatifs à des tentatives pour influencer les autres.
-- au DD des [canalisations d’énergie](./canalisation dénergie.md) des [prêtres](./Prêtre.md) et des [paladins](./Paladin.md) tentant de blesser leurs ennemis [morts-vivants](./type Mort-vivant.md).
+- au DD des [[canalisation dénergie|canalisations d’énergie]] des [[prêtre|prêtres]] et des [[paladin|paladins]] tentant de blesser leurs ennemis [[type mort-vivant|morts-vivants]].
 
-Le Charisme des [bardes](./Barde.md), [paladins](./Paladin.md), [ensorceleurs](./Ensorceleur.md) et des [conjurateurs](./Conjurateur.md) détermine le nombre de sorts en bonus qu’ils obtiennent. Pour pouvoir lancer un sort donné, un barde, paladin ou ensorceleur doit posséder une valeur de Charisme d’au moins 10 + le [niveau du sort](./Niveau de sort.md).
+Le Charisme des [[barde|bardes]], [[paladin|paladins]], [[ensorceleur|ensorceleurs]] et des [[conjurateur|conjurateurs]] détermine le nombre de sorts en bonus qu’ils obtiennent. Pour pouvoir lancer un sort donné, un barde, paladin ou ensorceleur doit posséder une valeur de Charisme d’au moins 10 + le [[niveau de sort|niveau du sort]].

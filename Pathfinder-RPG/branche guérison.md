@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#GUERISON
 ---
 
->>> [Présentation des sorts#GUERISON](./Présentation des sorts.md#GUERISON)
+>>> [[Présentation des sorts#GUERISON]]

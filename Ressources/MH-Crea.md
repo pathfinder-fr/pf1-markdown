@@ -8,21 +8,21 @@ LastModified: 2014-10-01 00:54
 
 <b>Accès</b> : Mes Personnages/Bouton "+"
 
-[My Hero|Retour racine du Manuel]</td><td style="width: 2%"></td><td style="width: 24%"><div class="presentation arrondie"><div style = "font-size: 0.9em;margin-left: -15px">
-<OL><LI>[MH-Crea|Race]
-<LI>[MH-Crea2|Caractéristiques]
-<LI>[MH-Crea3|Âme, Corps et Origines]
-<LI>[MH-Crea4|Traits]
-<LI>[MH-Crea5|Classe]
-<LI>[MH-Crea6|Options de classe]
-<LI>[MH-Crea7|Option de classe de prédilection]
-<LI>[MH-Crea8|Sorts]
-<LI>[MH-Crea9|Compétences]
-<LI>[MH-Crea10|Langages appris]
-<LI>[MH-Crea11|Dons]</OL></div></div></td></tr></table></div>
+[[My Hero|Retour racine du Manuel]]</td><td style="width: 2%"></td><td style="width: 24%"><div class="presentation arrondie"><div style = "font-size: 0.9em;margin-left: -15px">
+<OL><LI>[[MH-Crea|Race]]
+<LI>[[MH-Crea2|Caractéristiques]]
+<LI>[[MH-Crea3|Âme, Corps et Origines]]
+<LI>[[MH-Crea4|Traits]]
+<LI>[[MH-Crea5|Classe]]
+<LI>[[MH-Crea6|Options de classe]]
+<LI>[[MH-Crea7|Option de classe de prédilection]]
+<LI>[[MH-Crea8|Sorts]]
+<LI>[[MH-Crea9|Compétences]]
+<LI>[[MH-Crea10|Langages appris]]
+<LI>[[MH-Crea11|Dons]]</OL></div></div></td></tr></table></div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/page2_1.png|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MesPersos|Mes Personnages].
+<OL><LI>Retour vers [[MH-MesPersos|Mes Personnages]].
 <LI>Annulation des choix précédents : les traits raciaux choisis sont les traits de base.
 <LI>Sélection de la race.
 <LI>Liste des traits raciaux alternatifs. Ses traits sont apparus dans le Manuel des Joueurs : Règles Avancées. Si votre version de l’application ne comporte aucun trait racial alternatif alors cette liste sera vide.
@@ -31,4 +31,4 @@ LastModified: 2014-10-01 00:54
 <LI>Liste des traits raciaux choisis.
 <LI>Sélection d’un trait racial. La description de celui-ci apparaît en 8).
 <LI>Description du dernier trait sélectionné.
-<LI>Validation de ces choix. Les traits raciaux seront donc ceux de la liste 6). Vers [MH-Crea2|Caractéristiques].</OL></td></tr></table>
+<LI>Validation de ces choix. Les traits raciaux seront donc ceux de la liste 6). Vers [[MH-Crea2|Caractéristiques]].</OL></td></tr></table>

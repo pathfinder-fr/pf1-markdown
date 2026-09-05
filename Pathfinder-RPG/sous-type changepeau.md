@@ -10,4 +10,4 @@ Categories:
 
 {s:MenuTypes}*Source : Bestiaire 5* p.313
 
-Ce sous-type s’applique à la race d’humanoïdes appelés [changepeaux](./Changepeau.md), des êtres semblables aux lycanthropes mais victimes d’une malédiction différente.
+Ce sous-type s’applique à la race d’humanoïdes appelés [[changepeau|changepeaux]], des êtres semblables aux lycanthropes mais victimes d’une malédiction différente.

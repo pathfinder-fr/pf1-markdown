@@ -9,23 +9,23 @@ Categories:
 
 {s:MenuDomaines}
 ### Pouvoirs accordés
-Le personnage est le réceptacle d’une certaine gloire divine qui fait de lui un ennemi redoutable pour les [morts-vivants](./type Mort-vivant.md). Chaque fois qu’il canalise de l’énergie positive dans le but de blesser des [morts-vivants](./type Mort-vivant.md), le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) pour diminuer les dégâts de moitié est augmenté de +2.
+Le personnage est le réceptacle d’une certaine gloire divine qui fait de lui un ennemi redoutable pour les [[type Mort-vivant|morts-vivants]]. Chaque fois qu’il canalise de l’énergie positive dans le but de blesser des [[type mort-vivant|morts-vivants]], le [[DD]] du [[jet de sauvegarde]] pour diminuer les dégâts de moitié est augmenté de +2.
 
-**Toucher glorieux (Mag).** Le personnage peut créer un halo de lumière divine autour de sa main. S’il utilise une [action simple](./Action simple.md) pour toucher une créature, il lui confère un bonus égal à son niveau de [prêtre](./Prêtre.md) utilisable sur n’importe quel [test de compétence](./test de compétence.md) associé au [Charisme](./Charisme.md) ou test de [Charisme](./Charisme.md). Ce bonus reste disponible pendant une heure ou jusqu’à ce que la créature affectée choisisse de l’appliquer à un jet. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+**Toucher glorieux (Mag).** Le personnage peut créer un halo de lumière divine autour de sa main. S’il utilise une [[action simple]] pour toucher une créature, il lui confère un bonus égal à son niveau de [[prêtre]] utilisable sur n’importe quel [[test de compétence]] associé au [[Charisme]] ou test de [[Charisme]]. Ce bonus reste disponible pendant une heure ou jusqu’à ce que la créature affectée choisisse de l’appliquer à un jet. Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + son modificateur de [[Sagesse]].
 
-**Présence divine (Sur).** Au niveau 8, le personnage peut activer chaque jour une aura de présence divine de 9 m (6 cases) de rayon pendant un nombre total de rounds égal à son niveau de [prêtre](./Prêtre.md). Tous les alliés au sein de cette aura sont affectés par un effet similaire à un sort de *[sanctuaire](./Sanctuaire.md)* de [DD](./DD.md) égal à 10 + la moitié du niveau du [prêtre](./Prêtre.md) + le modificateur de [Sagesse](./Sagesse.md) du [prêtre](./Prêtre.md). Ces rounds ne doivent pas forcément être consécutifs. Une [action simple](./Action simple.md) suffit pour activer ce pouvoir. Si un allié quitte la zone ou porte une attaque, l’effet se termine pour lui. Si le personnage effectue une attaque, l’effet se termine non seulement pour lui mais également pour tous ses alliés.
+**Présence divine (Sur).** Au niveau 8, le personnage peut activer chaque jour une aura de présence divine de 9 m (6 cases) de rayon pendant un nombre total de rounds égal à son niveau de [[prêtre]]. Tous les alliés au sein de cette aura sont affectés par un effet similaire à un sort de *[[sanctuaire]]* de [[DD]] égal à 10 + la moitié du niveau du [[prêtre]] + le modificateur de [[Sagesse]] du [[prêtre]]. Ces rounds ne doivent pas forcément être consécutifs. Une [[action simple]] suffit pour activer ce pouvoir. Si un allié quitte la zone ou porte une attaque, l’effet se termine pour lui. Si le personnage effectue une attaque, l’effet se termine non seulement pour lui mais également pour tous ses alliés.
 
 ### Sous-domaines associés
 <table width="100%"><tr><td width="49%">
 <div class="presentation arrondi">{s:APG}
 ### Sous-domaine de l'Héroïsme
-**Aura du héros (Sur).** *(remplace présence divine)* Au niveau 8 par une [action rapide](./Action rapide.md), le [prêtre](./Prêtre.md) peut émettre une aura protectrice de 9 m de rayon pendant un nombre de [rounds](./round.md) par jour égal à son niveau de [prêtre](./Prêtre.md). On considère que les alliés situés dans la zone d’effet sont sous l’influence du sort *[héroïsme](./Héroïsme.md)*. Ces [rounds](./round.md) ne sont pas forcément consécutifs.
+**Aura du héros (Sur).** *(remplace présence divine)* Au niveau 8 par une [[action rapide]], le [[prêtre]] peut émettre une aura protectrice de 9 m de rayon pendant un nombre de [[round|rounds]] par jour égal à son niveau de [[prêtre]]. On considère que les alliés situés dans la zone d’effet sont sous l’influence du sort *[[héroïsme]]*. Ces [[round|rounds]] ne sont pas forcément consécutifs.
 </div>
 </td><td width="2%">
 </td><td width="49%">
 <div class="presentation arrondi">{s:APG}
 ### Sous-domaine de l'Honneur
-**Lié par l'honneur (Sur).** *(remplace toucher glorieux)* Le personnage peut d’un simple toucher relever une cible de ses devoirs et de ses responsabilités. Cette dernière peut alors refaire un [jet de sauvegarde](./jet de sauvegarde.md) pour se libérer de chaque [enchantement](./Enchantement.md) ([charme](./charme.md)) ou [enchantement](./Enchantement.md) ([coercition](./coercition.md)) qui l’affecte, mais seulement si un tel jet était autorisé à l’origine. Si le [prêtre](./Prêtre.md) rate un [jet de sauvegarde](./jet de sauvegarde.md) contre un effet semblable, il peut utiliser ce pouvoir par une [action immédiate](./Action immédiate.md) pour bénéficier d’un second [jet](./jet de sauvegarde.md). On ne peut bénéficier que d’un seul [jet de sauvegarde](./jet de sauvegarde.md) supplémentaire. Au-delà, le pouvoir est inefficace. Il peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [Sagesse](./Sagesse.md).
+**Lié par l'honneur (Sur).** *(remplace toucher glorieux)* Le personnage peut d’un simple toucher relever une cible de ses devoirs et de ses responsabilités. Cette dernière peut alors refaire un [[jet de sauvegarde]] pour se libérer de chaque [[enchantement]] ([[charme]]) ou [[enchantement]] ([[coercition]]) qui l’affecte, mais seulement si un tel jet était autorisé à l’origine. Si le [[prêtre]] rate un [[jet de sauvegarde]] contre un effet semblable, il peut utiliser ce pouvoir par une [[action immédiate]] pour bénéficier d’un second [[jet de sauvegarde|jet]]. On ne peut bénéficier que d’un seul [[jet de sauvegarde]] supplémentaire. Au-delà, le pouvoir est inefficace. Il peut utiliser cette capacité un nombre de fois par jour égal à 3 + son modificateur de [[Sagesse]].
 </div>
 </td></tr></table>
 
@@ -36,21 +36,21 @@ Le personnage est le réceptacle d’une certaine gloire divine qui fait de lui 
 | WIDTH="26%" | Domaine de la Gloire
 | Sous-domaine de l'Héroïsme || Sous-domaine de l'Honneur
 |- CLASS="premier"
-| 1er || *[bouclier de la foi](./Bouclier de la foi.md)* || *idem* || *idem*
+| 1er || *[[bouclier de la foi]]* || *idem* || *idem*
 |-
-| 2e || *[bénédiction d’arme](./Bénédiction darme.md)* || *idem* || *[zone de vérité](./Zone de vérité.md)*
+| 2e || *[[bénédiction darme|bénédiction d’arme]]* || *idem* || *[[zone de vérité]]*
 |-
-| 3e || *[lumière brûlante](./Lumière brûlante.md)* || *[héroïsme](./Héroïsme.md)* || *idem*
+| 3e || *[[lumière brûlante]]* || *[[héroïsme]]* || *idem*
 |-
-| 4e || *[châtiment sacré](./Châtiment sacré.md)* || *idem* || *idem*
+| 4e || *[[châtiment sacré]]* || *idem* || *idem*
 |-
-| 5e || *[force du colosse](./Force du colosse.md)* || *idem* || *idem*
+| 5e || *[[force du colosse]]* || *idem* || *idem*
 |-
-| 6e || *[annihilation de mort-vivant](./Annihilation de mort-vivant.md)* || *[héroïsme suprême](./Héroïsme suprême.md)* || *[quête](./Quête.md)*
+| 6e || *[[annihilation de mort-vivant]]* || *[[héroïsme suprême]]* || *[[quête]]*
 |-
-| 7e || *[épée sainte](./Épée sainte.md)* || *idem* || *idem*
+| 7e || *[[épée sainte]]* || *idem* || *idem*
 |-
-| 8e || *[aura sacrée](./Aura sacrée.md)* || *idem* || *idem*
+| 8e || *[[aura sacrée]]* || *idem* || *idem*
 |-
-| 9e || *[portail](./Portail.md)* || *idem* || *idem*
+| 9e || *[[portail]]* || *idem* || *idem*
 |}

@@ -14,22 +14,22 @@ Categories:
 {s:pucem|Vase|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.26}
 {s:BDTexte|**XP** 400}
-{s:BDTexte|[Vase](./type Vase.md) ([aquatique](./sous-type aquatique.md)) de taille P, N}
-{s:BDTexte|**Init** -5 ; **Sens** [vision aveugle](./vision aveugle.md) 9 m (6 {s:c}) ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] ([[sous-type aquatique|aquatique]]) de taille P, N}
+{s:BDTexte|**Init** -5 ; **Sens** [[vision aveugle]] 9 m (6 {s:c}) ; [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 6, contact 6, pris au dépourvu 6 (Dex -5, taille +1)}
 {s:BDTexte|**pv** 15 (2d8+6)}
 {s:BDTexte|**Réf** -5, **Vig** +3, **Vol** -5}
-{s:BDTexte|**Capacités défensives** [traits des vases](./type Vase.md)}
+{s:BDTexte|**Capacités défensives** [[type vase|traits des vases]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c}), escalade 3 m (2 {s:c}), nage 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** coup, +3 (1d3+1 plus 1d3 acide et [étreinte](./Étreinte.md))}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (1d3+1 plus 1d3 acide)}
+{s:BDTexte|**Corps à corps** coup, +3 (1d3+1 plus 1d3 acide et [[étreinte]])}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (1d3+1 plus 1d3 acide)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 1, **Con** 16, **Int** -, **Sag** 1, **Cha** 1}
 {s:BDTexte|**BBA** +1, **BMO** +1 (+5 pour la lutte), **DMD** 6 (croc-en-jambe impossible)}
-{s:BDtexte|**Compétences** [Escalade](./Escalade.md) +9, [Natation](./Natation.md) +9}
-{s:BDTexte|**Particularités** [amphibie](./Amphibie (capacité).md)}
+{s:BDtexte|**Compétences** [[Escalade]] +9, [[Natation]] +9}
+{s:BDTexte|**Particularités** [[amphibie (capacité)|amphibie]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme ou sous terre}
 {s:BDTexte|**Organisation sociale** solitaire ou colonie (2-9)}
@@ -41,9 +41,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Amibe géante](./Amibe géante.md) || 1
+| [[Amibe géante]] || 1
 |-
-| [Nuée d'amibes](./Nuée damibes.md) || 1
+| [[Nuée damibes|Nuée d'amibes]] || 1
 |}
 </div>*Cet amas de protoplasme est translucide, ce qui permet d’apercevoir en son sein les os des repas en cours de digestion et un noyau sombre.*
 

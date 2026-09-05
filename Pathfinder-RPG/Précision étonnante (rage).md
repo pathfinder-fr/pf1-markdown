@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#PRECISIONETONNANTE
 ---
 
->>> [pouvoirs de rage#PRECISIONETONNANTE](./Pouvoirs de rage.md#PRECISIONETONNANTE)
+>>> [[pouvoirs de rage#PRECISIONETONNANTE]]

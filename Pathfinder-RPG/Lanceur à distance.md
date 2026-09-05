@@ -11,20 +11,20 @@ Categories:
 
 {s:uc}*Le personnage est plus précis que les autres quand il s’agit d’utiliser des armes de jet de loin.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Condition.** [For](./For.md) 13
+**Condition.** [[For]] 13
 
-**Avantage.** Le malus de distance des jets d’attaque à distance des [armes de jet](./arme de jet.md) est réduit de 2.
+**Avantage.** Le malus de distance des jets d’attaque à distance des [[arme de jet|armes de jet]] est réduit de 2.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage effectue une attaque avec une arme de jet, il peut dépenser 2 points d’endurance pour réduire le malus au [jet d’attaque](./jet dattaque.md) à distance dû à la portée de 4 points supplémentaires.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage effectue une attaque avec une arme de jet, il peut dépenser 2 points d’endurance pour réduire le malus au [[jet dattaque|jet d’attaque]] à distance dû à la portée de 4 points supplémentaires.
 
 {s:CMy}
 ### Version mythique
 *Grâce à la force du personnage, la portée des armes de jet qu’il lance est pratiquement illimitée.*
 
-**Condition.** 17 en [Force](./Force.md), Lanceur à distance
+**Condition.** 17 en [[Force]], Lanceur à distance
 
 **Avantage.** Les armes de jet propulsées par le personnage voient leur portée normale doubler.

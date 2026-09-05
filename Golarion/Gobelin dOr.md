@@ -8,9 +8,9 @@ Categories:
 - Ville
 ---
 
-Sur le déclin il y a peu, cette maison de jeu a été entièrement restaurée par Saul Vancaskerkin. C'est ici qu'est organisé le nouveau jeu à la mode à [Port-Énigme](./Port-Énigme.md) : "*Trompez le Diable et Empochez son Or*".
+Sur le déclin il y a peu, cette maison de jeu a été entièrement restaurée par Saul Vancaskerkin. C'est ici qu'est organisé le nouveau jeu à la mode à [[Port-Énigme]] : "*Trompez le Diable et Empochez son Or*".
 
 
 {s:VoirAussiAvant}
-{s:VoirAussiElem|Le guide du joueur en VO de la campagne [Second Darkness](./Publications.md#AP3PG), voir la page sur [les publications sur le monde de Golarion](./Publications.md).}
+{s:VoirAussiElem|Le guide du joueur en VO de la campagne [[Golarion.Publications#AP3PG|Second Darkness]], voir la page sur [[Golarion.Publications|les publications sur le monde de Golarion]].}
 {s:VoirAussiAprès}

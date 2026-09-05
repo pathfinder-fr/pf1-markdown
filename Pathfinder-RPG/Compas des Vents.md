@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Compas des vents|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 4.400 po ; **Poids** —
+**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 4.400 po ; **Poids** —
 (((Description)))
-Ce compas en métal précieux de couleur gris clair est gravé de diverses représentations du soleil, de la lune et des nuages. Il permet à son possesseur d’augmenter ou de réduire l’intensité du vent quatre fois par jour, comme s’il lançait le sort *[modification des vents](./Modification des vents.md)*.
+Ce compas en métal précieux de couleur gris clair est gravé de diverses représentations du soleil, de la lune et des nuages. Il permet à son possesseur d’augmenter ou de réduire l’intensité du vent quatre fois par jour, comme s’il lançait le sort *[[modification des vents]]*.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[modification des vents](./Modification des vents.md)* ; **Coût** 2.200 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[modification des vents]]* ; **Coût** 2.200 po
 </div>

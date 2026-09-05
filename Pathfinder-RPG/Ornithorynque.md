@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 p.96*}
 {s:BDTexte|**PX** 65}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +2 ; **Sens** électrolocalisation à 9 m (sous l’eau), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1 (+5 sous l’eau)}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** électrolocalisation à 9 m (sous l’eau), [[vision nocturne]] ; [[Perception]] +1 (+5 sous l’eau)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 3 (1d8-1)}
@@ -27,10 +27,10 @@ Categories:
 {s:BDTexte|**Attaques spéciales** poison}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 2, **Dex** 14, **Con** 8, **Int** 2, **Sag** 13, **Cha** 11}
-{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6 (10 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +14, [Perception](./Perception.md) +1 (+5 sous l’eau)}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Perception](./Perception.md) sous l’eau}
+{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6 (10 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Natation]] +14, [[Perception]] +1 (+5 sous l’eau)}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Perception]] sous l’eau}
 {s:BDTexte|**Particularités** semi-aquatique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** rivières chaudes ou tempérées}
@@ -41,7 +41,7 @@ Categories:
 percevoir les minuscules courants électriques qui déclenchent les
 réflexes musculaires. Cela lui permet de localiser les proies vivantes et
 de les distinguer des objets inanimés. Traitez son électrolocalisation
-comme *[perception de la vie](./Perception de la vie (capacité).md)*, avec une portée de 9 mètres mais ne
+comme *[[perception de la vie (capacité)|perception de la vie]]*, avec une portée de 9 mètres mais ne
 fonctionnant que sous l’eau.}
 {s:BDTexte|**Poison (Sur).** Aiguillon — blessure ; *JdS* Vigueur DD 9 ; *fréquence* 1/round pendant 4 rounds ; *effet* 1 point de dégâts non létaux ; *guérison* 1 réussite.}
 {s:BDTexte|**Semi-aquatique (Ext).** L’ornithorynque peut retenir sa respiration sous

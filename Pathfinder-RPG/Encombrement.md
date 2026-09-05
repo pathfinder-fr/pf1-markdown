@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Poids transportable#POIDSTRANSPORTABLE
 ---
 
->>> [Poids transportable#POIDSTRANSPORTABLE](./Poids transportable.md#POIDSTRANSPORTABLE)
+>>> [[Poids transportable#POIDSTRANSPORTABLE]]

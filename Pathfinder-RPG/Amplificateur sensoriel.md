@@ -12,12 +12,12 @@ Categories:
 - Src Occult Origins
 ---
 
-{s:cs}{s:OO}**École** [Divination](./école divination.md) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 4, [Hyp](./Hypnotiseur.md) 3, [Méd](./Médium.md) 2, [Psy](./Psychiste.md) 3, [Sor](./Sorcière.md) 3
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [G](./composantes.md)
-**Portée** [personnelle](./personnelle.md)
+{s:cs}{s:OO}**École** [[école Divination|Divination]] <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 4, [[Hypnotiseur|Hyp]] 3, [[Médium|Méd]] 2, [[Psychiste|Psy]] 3, [[Sorcière|Sor]] 3
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|G]]
+**Portée** [[personnelle]]
 **Zone d’effet** rayon de 3 m centré sur le personnage
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Durée** 1 [[round]]/[[niveau]] (T)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage ouvre l'esprit de toutes les créatures proches de lui et stimule leurs récepteurs sensoriels. Toutes les créatures vivantes excepté le personnage dans la zone d'effet bénéficient d’un bonus de +5 à leurs tests de [Perception](./Perception.md). Les créatures capables de voir gagnent la [vision nocturne](./Vision nocturne (capacité).md), et les créatures capables de sentir gagnent l'[odorat](./Odorat (capacité).md). De plus, la première fois qu'une créature subit des dégâts dans la zone d'effet à chaque [round](./round.md), elle subit 2d6 points de dégâts supplémentaires du même type. Même s'il est dans la zone d'effet, le lanceur ne subit pas ces dégâts supplémentaires.
+Le personnage ouvre l'esprit de toutes les créatures proches de lui et stimule leurs récepteurs sensoriels. Toutes les créatures vivantes excepté le personnage dans la zone d'effet bénéficient d’un bonus de +5 à leurs tests de [[Perception]]. Les créatures capables de voir gagnent la [[Vision nocturne (capacité)|vision nocturne]], et les créatures capables de sentir gagnent l'[[Odorat (capacité)|odorat]]. De plus, la première fois qu'une créature subit des dégâts dans la zone d'effet à chaque [[round]], elle subit 2d6 points de dégâts supplémentaires du même type. Même s'il est dans la zone d'effet, le lanceur ne subit pas ces dégâts supplémentaires.

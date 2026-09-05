@@ -4,9 +4,9 @@ Title: Alchimie à base de rougepoix
 LastModified: 2023-04-27 17:33
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur Otari](./OTARI.md)
+• [[OTARI|Retour à la page sur Otari]]
 
 Une odeur distinctive et légèrement mentholée avertit les voyageurs de la présence de pins à rougepoix, des arbres qui poussent dans les environs d'Otari depuis même avant que la ville ne soit fondée. Le bois de rougepoix n'a guère de valeur parce qu'il s'enflamme facilement et se consume très vite, mais sa sève inflammable est utilisée dans de nombreuses décoctions alchimiques. De nombreux alchimistes composent des décoctions volatiles à base de sève de pin de rougepoix, entre autres des bombes incendiaires.
 

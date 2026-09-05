@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage fait appel à l’esprit des tempêtes pour manipuler la foudre. Elle le protège et frappe ses ennemis.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Con](./Constitution.md) 15, [Sag](./Sag.md) 15, [École du djinn](./École du djinn.md), [Poing élémentaire](./Poing élémentaire.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +11 ou [moine](./Moine.md) de niveau 9
+**Conditions.** [[Constitution|Con]] 15, [[Sag]] 15, [[École du djinn]], [[Poing élémentaire]], [[Science du combat à mains nues]], [[BBA]] +11 ou [[moine]] de niveau 9
 
-**Avantage.** Le personnage peut utiliser [Poing élémentaire](./Poing élémentaire.md) une fois de plus par jour. Quand il utilise l’[École du djinn](./École du djinn.md), il gagne une résistance à l’électricité égale à son niveau de [moine](./Moine.md) ou à son [BBA](./BBA.md) (choisir le plus élevé). Il perd cette résistance quand il ne bénéficie plus de son bonus de [Dextérité](./Dextérité.md) à la [CA](./CA.md). Les créatures qui subissent des dégâts à cause du [Poing élémentaire](./Poing élémentaire.md) doivent réussir un jet de [Vigueur](./Vigueur.md) ([DD](./DD.md) 10 +1/2 niveau du personnage + modificateur de [Sagesse](./Sagesse.md)) ou devenir [sourdes](./sourd.md) pendant 1d4 rounds. Celles qui subissent des dégâts à cause du [Tourbillon du djinn](./Tourbillon du djinn.md) sont sourdes même si elles réussissent leur [jet de sauvegarde](./jet de sauvegarde.md).
+**Avantage.** Le personnage peut utiliser [[Poing élémentaire]] une fois de plus par jour. Quand il utilise l’[[École du djinn]], il gagne une résistance à l’électricité égale à son niveau de [[moine]] ou à son [[BBA]] (choisir le plus élevé). Il perd cette résistance quand il ne bénéficie plus de son bonus de [[Dextérité]] à la [[CA]]. Les créatures qui subissent des dégâts à cause du [[Poing élémentaire]] doivent réussir un jet de [[Vigueur]] ([[DD]] 10 +1/2 niveau du personnage + modificateur de [[Sagesse]]) ou devenir [[sourd|sourdes]] pendant 1d4 rounds. Celles qui subissent des dégâts à cause du [[Tourbillon du djinn]] sont sourdes même si elles réussissent leur [[jet de sauvegarde]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage porte une attaque avec [Poing élémentaire](./Poing élémentaire.md), il peut dépenser jusqu’à 5 points d’endurance pour augmenter le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) contre l’effet [assourdissant](./Assourdi.md) d’un montant égal au nombre de points dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage porte une attaque avec [[Poing élémentaire]], il peut dépenser jusqu’à 5 points d’endurance pour augmenter le [[DD]] du [[jds|jet de sauvegarde]] contre l’effet [[assourdi|assourdissant]] d’un montant égal au nombre de points dépensés.

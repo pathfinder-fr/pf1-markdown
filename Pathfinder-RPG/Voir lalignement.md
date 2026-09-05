@@ -13,20 +13,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Divination](./école divination.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Bard](./Barde.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Psy](./Psychiste.md) 1  
+**École** [[école Divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Psychiste|Psy]] 1  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un oeil de triton)  
+**Composantes** [[Composantes|V, G, M]] (un oeil de triton)  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Quand le personnage lance ce sort, il choisit un [alignement](./Alignement.md) (Loyal Bon ou Chaotique Mauvais, par exemple). Les créatures de cet alignement émettent un halo fantomatique quand elles se trouvent dans son champ de vision mais il est le seul à le voir.
+Quand le personnage lance ce sort, il choisit un [[alignement]] (Loyal Bon ou Chaotique Mauvais, par exemple). Les créatures de cet alignement émettent un halo fantomatique quand elles se trouvent dans son champ de vision mais il est le seul à le voir.
 
-Les sorts qui dissimulent l’alignement, comme *[alignement indétectable](./Alignement indétectable.md)*, trompent ce sort.
+Les sorts qui dissimulent l’alignement, comme *[[alignement indétectable]]*, trompent ce sort.

@@ -10,6 +10,6 @@ Categories:
 
 {s:um}*Le personnage utilise la même énergie que celle de l’imposition des mains pour soigner ses alliés de loin. *
 
-**Condition.** [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS)
+**Condition.** [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]]
 
-**Avantage.** Le personnage peut utiliser l’[Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) pour guérir une créature située à 9 mètres (6 {s:c}), par une [action simple](./Action simple.md) qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md). Il doit être en mesure de parler et doit avoir une main libre. La cible guérit de la moitié de ce qu’elle devrait si le personnage la touchait mais bénéficie de ses [grâces](./Paladin.md#GRACE) comme à l’accoutumée.
+**Avantage.** Le personnage peut utiliser l’[[Paladin#IMPOSITIONDESMAINS|Imposition des mains]] pour guérir une créature située à 9 mètres (6 {s:c}), par une [[action simple]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]]. Il doit être en mesure de parler et doit avoir une main libre. La cible guérit de la moitié de ce qu’elle devrait si le personnage la touchait mais bénéficie de ses [[paladin#GRACE|grâces]] comme à l’accoutumée.

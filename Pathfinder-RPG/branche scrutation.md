@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#SCRUTATION
 ---
 
->>> [Présentation des sorts#SCRUTATION](./Présentation des sorts.md#SCRUTATION)
+>>> [[Présentation des sorts#SCRUTATION]]

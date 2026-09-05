@@ -8,4 +8,4 @@ Categories:
 RedirectTo: arcanes#AFFUTAGEARCANIQUE
 ---
 
->>> [arcanes#AFFUTAGEARCANIQUE](./arcanes.md#AFFUTAGEARCANIQUE)
+>>> [[arcanes#AFFUTAGEARCANIQUE]]

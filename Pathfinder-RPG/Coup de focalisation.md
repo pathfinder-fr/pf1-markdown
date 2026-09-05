@@ -11,8 +11,8 @@ Categories:
 
 {s:MR}*Le hobgobelin et ses alliés unissent leurs forces pour chasser les effets mentaux.*
 
-**Catégorie.** [Combat](./Dons.md#doncombat)
+**Catégorie.** [[dons#doncombat|Combat]]
 
-**Conditions.** [Hohgobelin](./Hobgobelin (race).md), [Discipline hobgobeline](./Discipline hobgobeline.md)
+**Conditions.** [[hobgobelin (race)|Hohgobelin]], [[Discipline hobgobeline]]
 
-**Avantages.** Un allié qui a lui aussi ce don peut infliger des dégâts au hobgobelin afin de briser l’effet mental auquel il est sujet, lui donnant ainsi droit à un [jet de sauvegarde](./jet de sauvegarde.md). L’allié doit infliger au moins 5 points de dégâts au hobgobelin au moyen d’une attaque, d’un sort ou d’une autre capacité. Le hobgobelin refait alors un [jet de sauvegarde](./jet de sauvegarde.md), avec un bonus de +1 par tranche de 5 points de dégâts supplémentaires causés par l’attaque. Si le hobgobelin réussit son jet, l’effet mental prend fin. Seuls les dégâts réellement infligés comptent pour ce don : les dégâts non létaux et les dégâts réduits ou éliminés par une [réduction de dégâts](./RD.md), des résistances, etc. n’entrent pas en considération.
+**Avantages.** Un allié qui a lui aussi ce don peut infliger des dégâts au hobgobelin afin de briser l’effet mental auquel il est sujet, lui donnant ainsi droit à un [[jet de sauvegarde]]. L’allié doit infliger au moins 5 points de dégâts au hobgobelin au moyen d’une attaque, d’un sort ou d’une autre capacité. Le hobgobelin refait alors un [[jet de sauvegarde]], avec un bonus de +1 par tranche de 5 points de dégâts supplémentaires causés par l’attaque. Si le hobgobelin réussit son jet, l’effet mental prend fin. Seuls les dégâts réellement infligés comptent pour ce don : les dégâts non létaux et les dégâts réduits ou éliminés par une [[RD|réduction de dégâts]], des résistances, etc. n’entrent pas en considération.

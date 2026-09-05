@@ -13,28 +13,28 @@ Categories:
 {s:pucem|Créature magique|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.18*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +0 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 18 m (12 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[perception des vibrations]] 18 m (12 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 9, pris au dépourvu 16 (naturelle +7, taille -1)}
 {s:BDTexte|**pv** 28 (3d10+12)}
 {s:BDTexte|**Réf** +3, **Vig** +6, **Vol** +2}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), creusement 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +5 (2d6+4 et 1d4 acide et [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** morsure, +5 (2d6+4 et 1d4 acide et [[étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDTexte|**Attaques spéciales** crachat d'acide}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 10, **Con** 17, **Int** 1, **Sag** 13, **Cha** 6}
-{s:BDTexte|**BBA** +3, **BMO** +7 (+11 lutte), **DMD** 17 (25 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +8, [Perception](./Perception.md) +8}
+{s:BDTexte|**BBA** +3, **BMO** +7 (+11 lutte), **DMD** 17 (25 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Robustesse]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Escalade]] +8, [[Perception]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérées ou chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou nid (3-6)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Crachat d'acide (Ext)** Une fois toutes les 6 heures, un ankheg peut cracher une [ligne](./ligne.md) d'acide de 9 m (6 {s:c}) de longueur. Les créatures touchées subissent 4d4 points de dégâts d'acide (la moitié en cas de jet de [Réflexes](./Réflexes.md) réussi contre un [DD](./DD.md) de 14). L'ankheg doit alors attendre 6 heures avant de pouvoir utiliser cette attaque à nouveau et, pendant cette période d'attente, sa morsure n'inflige pas de dégâts d'acide supplémentaires. C'est pour cela que les ankhegs utilisent cette capacité uniquement lorsqu'ils sont désespérés ou contrariés (généralement lorsqu'ils ont perdu plus de la moitié de leurs points de vie ou qu'ils ont été incapables d'agripper leur adversaire). Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Crachat d'acide (Ext)** Une fois toutes les 6 heures, un ankheg peut cracher une [[ligne]] d'acide de 9 m (6 {s:c}) de longueur. Les créatures touchées subissent 4d4 points de dégâts d'acide (la moitié en cas de jet de [[Réflexes]] réussi contre un [[DD]] de 14). L'ankheg doit alors attendre 6 heures avant de pouvoir utiliser cette attaque à nouveau et, pendant cette période d'attente, sa morsure n'inflige pas de dégâts d'acide supplémentaires. C'est pour cela que les ankhegs utilisent cette capacité uniquement lorsqu'ils sont désespérés ou contrariés (généralement lorsqu'ils ont perdu plus de la moitié de leurs points de vie ou qu'ils ont été incapables d'agripper leur adversaire). Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>*Ce monstre enfouisseur insectoïde avance sur six pattes. Une bave verdâtre et acide coule entre ses mandibules qui s’entrechoquent.*
 

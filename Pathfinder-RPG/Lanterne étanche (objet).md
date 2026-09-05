@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** +5 po ; **Poids** —
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Cette lanterne prévue pour protéger la flamme contre l'eau et le vent traite les [vents violents](./Vents.md) comme des vents importants, les tempêtes comme des vents violents et les ouragans comme des tempêtes quand il s'agit de déterminer si la flamme s'éteint ou non. Elle contient suffisamment d'air pour brûler sous l'eau pendant 5 [rounds](./round.md) avant de s'éteindre.
+Cette lanterne prévue pour protéger la flamme contre l'eau et le vent traite les [[Vents|vents violents]] comme des vents importants, les tempêtes comme des vents violents et les ouragans comme des tempêtes quand il s'agit de déterminer si la flamme s'éteint ou non. Elle contient suffisamment d'air pour brûler sous l'eau pendant 5 [[round|rounds]] avant de s'éteindre.

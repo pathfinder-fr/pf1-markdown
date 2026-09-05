@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:AMH}*Le personnage protège fermement ses alliés.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Attaques réflexes](./Attaques réflexes.md), [École de l'avant-garde](./École de lavant-garde.md), [Garde du corps](./Garde du corps.md), maniement des [rondaches](./rondache (armure).md) ou des [écus](./écu (armure).md)
+**Conditions.** [[Attaques réflexes]], [[École de lavant-garde|École de l'avant-garde]], [[Garde du corps]], maniement des [[rondache (armure)|rondaches]] ou des [[écu (armure)|écus]]
 
-**Avantages.** Quand le personnage utilise l'[École de l'avant-garde](./École de lavant-garde.md) et qu'un allié adjacent est attaqué ou qu'il doit effectuer un jet de [Réflexes](./Réflexes.md), le personnage peut utiliser une [attaque d'opportunité](./AO.md) pour protéger cet allié avec les dons [École de l'avant-garde](./École de lavant-garde.md) et [Garde du corps](./Garde du corps.md) simultanément. Le personnage peut également décider de perdre son bonus de bouclier à la [CA](./CA.md) pour octroyer à cet allié un bonus de bouclier à la [CA](./CA.md) de même valeur tant qu'il bénéficie du bonus aux jets de Réflexes offert par [École de l'avant-garde](./École de lavant-garde.md).
+**Avantages.** Quand le personnage utilise l'[[École de lavant-garde|École de l'avant-garde]] et qu'un allié adjacent est attaqué ou qu'il doit effectuer un jet de [[Réflexes]], le personnage peut utiliser une [[AO|attaque d'opportunité]] pour protéger cet allié avec les dons [[École de lavant-garde|École de l'avant-garde]] et [[Garde du corps]] simultanément. Le personnage peut également décider de perdre son bonus de bouclier à la [[CA]] pour octroyer à cet allié un bonus de bouclier à la [[CA]] de même valeur tant qu'il bénéficie du bonus aux jets de Réflexes offert par [[École de lavant-garde|École de l'avant-garde]].

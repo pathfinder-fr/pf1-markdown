@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Ciel|Tropical}
 {s:BDTexte|*Source : Bestiaire p.90*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +8 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +8 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 14, pris au dépourvu 11 (Dex +4, esquive +1, naturelle +2, taille -1)}
 {s:BDTexte|**pv** 32 (5d8+10)}
@@ -27,14 +27,14 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 19, **Con** 15, **Int** 2, **Sag** 15, **Cha** 12}
 {s:BDTexte|**BBA** +3, **BMO** +7, **DMD** 21}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +11, [Vol](./Vol.md) -1}
+{s:BDTexte|**Dons** [[Esquive]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +11, [[Vol]] -1}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** régions côtières chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou vol (3-12)}
 {s:BDTexte|**Trésor** aucun}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [dinosaures](./Dinosaure.md).***</li></ul>''Ce reptile volant possède deux ailes immenses. La longue crête qui orne
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dinosaure|dinosaures]].***</li></ul>''Ce reptile volant possède deux ailes immenses. La longue crête qui orne
 l’arrière de son crâne est facilement reconnaissable.''
 
 Le ptéranodon n’est pas un
@@ -55,7 +55,7 @@ envergure de 6 mètres mais ne pèse que 20 kg.
 
 #### Le ptéranodon comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** M ; **Vitesse** 3 m (2 {s:c}), vol 15 m (10 {s:c}) (déplorable) ; **CA** armure naturelle +0 ; **Attaque** morsure (1d8) ; **Caractéristiques** For 8, Dex 21, Con 10, Int 2, Sag 14, Cha 12 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** M ; **Vitesse** 3 m (2 {s:c}), vol 15 m (10 {s:c}) (déplorable) ; **CA** armure naturelle +0 ; **Attaque** morsure (1d8) ; **Caractéristiques** For 8, Dex 21, Con 10, Int 2, Sag 14, Cha 12 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Évolution au niveau 7.** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4.
 

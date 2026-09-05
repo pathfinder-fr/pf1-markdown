@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Climat#Vents_4
 ---
 
->>> [Climat#Vents_4](./Climat.md#Vents_4)
+>>> [[Climat#Vents_4]]

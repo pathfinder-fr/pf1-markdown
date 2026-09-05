@@ -13,13 +13,13 @@ Categories:
 
 *Le personnage maudit un adversaire blessé avec de l’incertitude.*
 
-**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+**Catégorie.** [[dons#DONMALEFICESANGLANT|maléfice sanglant]]
 
-**Conditions.** [Int](./Int.md) 13, 5 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md)
+**Conditions.** [[Int]] 13, 5 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]
 
-**Avantage.** Par une [action simple](./Action simple.md), le personnage peut maudire un adversaire à qui il a infligé des dégâts avec une attaque au corps à corps dans la minute pour le rendre hésitant. La cible doit réussir un jet de [Réflexes](./Réflexes.md) ou subir une pénalité de -10 sur n’importe quel test d’[initiative](./initiative.md) qu’elle réalisera au cours de la prochaine minute.
+**Avantage.** Par une [[action simple]], le personnage peut maudire un adversaire à qui il a infligé des dégâts avec une attaque au corps à corps dans la minute pour le rendre hésitant. La cible doit réussir un jet de [[Réflexes]] ou subir une pénalité de -10 sur n’importe quel test d’[[initiative]] qu’elle réalisera au cours de la prochaine minute.
 
-**Spécial.** Si un [chaman](./Chaman.md) ou une [sorcière](./Sorcière.md) utilise ce maléfice sanglant, la cible est incapable d’entreprendre une [action complexe](./Action complexe.md) durant 1 [round](./round.md). Cet effet peut être étendu avec le maléfice [ricanement](./maléfices.md#Ricanement).
+**Spécial.** Si un [[chaman]] ou une [[sorcière]] utilise ce maléfice sanglant, la cible est incapable d’entreprendre une [[action complexe]] durant 1 [[round]]. Cet effet peut être étendu avec le maléfice [[Maléfices#Ricanement|ricanement]].
 
 (((Hinder (blood Hex)
 You curse a bleeding opponent with uncertainty.

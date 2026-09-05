@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pa ; **Poids** —
-<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
 ---
-Les petites fléchettes légères qu’utilise la [sarbacane](./sarbacane (arme).md) sont souvent faites de bois de feuillu avec un empennage stabilisateur en duvet ou en fourrure. On charge généralement la fléchette par l’extrémité arrière juste avant de tirer.
+Les petites fléchettes légères qu’utilise la [[sarbacane (arme)|sarbacane]] sont souvent faites de bois de feuillu avec un empennage stabilisateur en duvet ou en fourrure. On charge généralement la fléchette par l’extrémité arrière juste avant de tirer.

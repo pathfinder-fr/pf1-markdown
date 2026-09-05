@@ -11,32 +11,32 @@ Categories:
 <div class="BD">
 {s:BDTitre|Tizhéruk|FP 5}
 {s:pucem|Créature magique|Aquatique|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.259](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.259]]*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 12, pris au dépourvu 15 (Dex +3, naturelle +6, taille -1)}
 {s:BDTexte|**pv** 52 (5d10+25)}
 {s:BDTexte|**Réf** +7, **Vig** +9, **Vol** +2}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m, nage 12 m}
-{s:BDTexte|**Corps à corps** morsure, +12 (2d6+10 plus [étreinte](./Étreinte (capacité).md)) ou langue, +12 (étreinte et [attirer](./Attirer (capacité).md))}
+{s:BDTexte|**Corps à corps** morsure, +12 (2d6+10 plus [[Étreinte (capacité)|étreinte]]) ou langue, +12 (étreinte et [[Attirer (capacité)|attirer]])}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 3 m (6 m avec la langue)}
-{s:BDTexte|**Attaques spéciales** [attirer](./Attirer (capacité).md) (langue, 4,50 m), [engloutissement](./Engloutissement (capacité).md) (1d6 acide, CA 14, 5 pv)}
+{s:BDTexte|**Attaques spéciales** [[Attirer (capacité)|attirer]] (langue, 4,50 m), [[Engloutissement (capacité)|engloutissement]] (1d6 acide, CA 14, 5 pv)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 17, **Con** 21, **Int** 2, **Sag** 13, **Cha** 6}
-{s:BDTexte|**BBA** +5 ; **BMO** +13 (+17 en [lutte](./lutte.md)) ; **DMD** 26 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Attaque en puissance](./Attaque en puissance.md), [Talent](./Talent.md) (Discrétion)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +6 (+14 dans l’eau), [Natation](./Natation.md) +19, [Perception](./Perception.md) +7 ; **Modificateurs raciaux** +8 en Discrétion dans l’eau}
-{s:BDTexte|**Particularités** [compression](./Compression (capacité).md), peau transparente}
+{s:BDTexte|**BBA** +5 ; **BMO** +13 (+17 en [[lutte]]) ; **DMD** 26 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Attaque en puissance]], [[Talent]] (Discrétion)}
+{s:BDTexte|**Compétences** [[Discrétion]] +6 (+14 dans l’eau), [[Natation]] +19, [[Perception]] +7 ; **Modificateurs raciaux** +8 en Discrétion dans l’eau}
+{s:BDTexte|**Particularités** [[Compression (capacité)|compression]], peau transparente}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** rivières ou marais tempérés}
 {s:BDTexte|**Organisation** solitaire ou couple}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Compression (Ext).** Un tizheruk peut utiliser son pouvoir de [compression](./Compression (capacité).md) pour se tapir dans des cours d’eau peu profonds, d’à peine 20 centimètres de fond. Tant qu’il se comprime contre le fond d’un cours d’eau, il gagne un bonus de circonstances de +4 aux tests de [Discrétion](./Discrétion.md).}
-{s:BDTexte|**Langue (Ext).** La langue du tizheruk est considérée comme une [attaque primaire](./Attaques naturelles (capacité).md) dotée d’une allonge égale au double de l’allonge normale de la bête (c’est-à-dire 6 mètres pour un tizheruk de taille G). La langue du tizheruk ne blesse pas la victime qu’elle touche mais permet à l’animal d’utiliser son pouvoir d’[étreinte](./Étreinte (capacité).md) et d’[attirer](./Attirer (capacité).md) sa proie à lui. Il n’est pas considéré comme étant agrippé en situation de [lutte](./lutte.md) quand il utilise ainsi sa langue.}
+{s:BDTexte|**Compression (Ext).** Un tizheruk peut utiliser son pouvoir de [[Compression (capacité)|compression]] pour se tapir dans des cours d’eau peu profonds, d’à peine 20 centimètres de fond. Tant qu’il se comprime contre le fond d’un cours d’eau, il gagne un bonus de circonstances de +4 aux tests de [[Discrétion]].}
+{s:BDTexte|**Langue (Ext).** La langue du tizheruk est considérée comme une [[Attaques naturelles (capacité)|attaque primaire]] dotée d’une allonge égale au double de l’allonge normale de la bête (c’est-à-dire 6 mètres pour un tizheruk de taille G). La langue du tizheruk ne blesse pas la victime qu’elle touche mais permet à l’animal d’utiliser son pouvoir d’[[Étreinte (capacité)|étreinte]] et d’[[Attirer (capacité)|attirer]] sa proie à lui. Il n’est pas considéré comme étant agrippé en situation de [[lutte]] quand il utilise ainsi sa langue.}
 {s:BDTexte|**Peau transparente (Ext).** Comme le corps du tizheruk est majoritairement transparent, les créatures qu’il engloutit ont une ligne de mire sur ce qui se passe à l’extérieur de la créature tandis que les créatures qui se trouvent hors de son corps distinguent tous les êtres qu’il a engloutis.}
 
 </div></td>

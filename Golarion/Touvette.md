@@ -9,7 +9,7 @@ Categories:
 ---
 
 {s:Ville|Avendale|||Petite ville conventionnelle (dictature militaire)|LN|4 000 po||11 280|humanoïde (humains 89%, halfelins 9%, autres 2%)|{s:DescElem|**Général Cabol Voran**, Grand Lord Protecteur (humain, guerrier 9, LN)} {s:DescElem|**Lieutenant Jekh DuVre**, Chef Enquêteur (humain, guerrier 3/magicien 3, LN)} {s:DescElem|**Lieutenant Baljaron Tou**, Maître des Chevaliers (humain, guerrier 6, LN)}}
-Touvette est l'un des [Royaumes Fluviaux](./Royaumes fluviaux.md). Il est bordé par le royaume de [Pitax](./Pitax.md) au nord et par celui de [Gralton](./Gralton.md) au sud et à l'ouest. Il est composé de terres agricoles et d'élevages de grande qualité.
+Touvette est l'un des [[Royaumes Fluviaux]]. Il est bordé par le royaume de [[Pitax]] au nord et par celui de [[Gralton]] au sud et à l'ouest. Il est composé de terres agricoles et d'élevages de grande qualité.
 
 Le royaume a commencé à prospérer sous la direction du roi Aven I. Néanmoins, sous le règne d'Aven II, il commença à chuter et fut gangréné par des guerres de religions. Profitant des troubles, le Général Cabol Voran fit un coup d'état militaire qui renversa la monarchie et fit fuir tous les prêtres.
 

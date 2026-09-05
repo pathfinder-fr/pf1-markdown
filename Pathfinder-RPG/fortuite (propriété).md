@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Fortuite
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Fortuite](./Descriptions individuelles des propriétés spéciales des armes.md#Fortuite)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Fortuite]]

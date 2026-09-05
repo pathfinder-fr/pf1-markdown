@@ -20,7 +20,7 @@ Malgré leurs excentricités, personne ne peut nier que dans la majorité des ca
 | ROWSPAN="2" | Vigueur
 | ROWSPAN="2" | Volonté
 | ROWSPAN="2" CLASS="gauche" | Spécial
-| COLSPAN="4" CLASS="avecsoustitre" | [Sorts par jour](./Prophète de Kalistrade.md#SORTS)
+| COLSPAN="4" CLASS="avecsoustitre" | [[Prophète de Kalistrade#SORTS|Sorts par jour]]
 |- CLASS="soustitre"
 | 1er
 | 2e
@@ -28,11 +28,11 @@ Malgré leurs excentricités, personne ne peut nier que dans la majorité des ca
 | 4e
 |- CLASS="premier"
 | 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [Démonstration d'auspice](./Prophète de Kalistrade.md#DEMONSTRATIONDAUSPICE) +1
+| CLASS="gauche" | [[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +1
 | 1 || - || - || -
 |- CLASS="alt"
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Achat de sorts](./Prophète de Kalistrade.md#ACHATDESORTS)
+| CLASS="gauche" | [[Prophète de Kalistrade#ACHATDESORTS|Achat de sorts]]
 | 2 || - || - || -
 |-
 | 3 || +2 || +1 || +1 || +2
@@ -40,7 +40,7 @@ Malgré leurs excentricités, personne ne peut nier que dans la majorité des ca
 | 3 || - || - || -
 |- CLASS="alt"
 | 4 || +3 || +1 || +1 || +2
-| CLASS="gauche" | [Démonstration d'auspice](./Prophète de Kalistrade.md#DEMONSTRATIONDAUSPICE) +2, [perspicacité commerciale](./Prophète de Kalistrade.md#PERSPICACITECOMMERCIALE)
+| CLASS="gauche" | [[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +2, [[Prophète de Kalistrade#PERSPICACITECOMMERCIALE|perspicacité commerciale]]
 | 3 || 1 || - || -
 |-
 | 5 || +3 || +2 || +2 || +3
@@ -48,23 +48,23 @@ Malgré leurs excentricités, personne ne peut nier que dans la majorité des ca
 | 4 || 2 || - || -
 |- CLASS="alt"
 | 6 || +4 || +2 || +2 || +3
-| CLASS="gauche" | [Contacts mystiques](./Prophète de Kalistrade.md#CONTACTSMYSTIQUES)
+| CLASS="gauche" | [[Prophète de Kalistrade#CONTACTSMYSTIQUES|Contacts mystiques]]
 | 4 || 3 || - || -
 |-
 | 7 || +5 || +2 || +2 || +4
-| CLASS="gauche" | [Démonstration d'auspice](./Prophète de Kalistrade.md#DEMONSTRATIONDAUSPICE) +3
+| CLASS="gauche" | [[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +3
 | 4 || 3 || 1 || -
 |- CLASS="alt"
 | 8 || +6 || +3 || +3 || +4
-| CLASS="gauche" | [Coffre du prophète](./Prophète de Kalistrade.md#COFFREDUPROPHETE)
+| CLASS="gauche" | [[Prophète de Kalistrade#COFFREDUPROPHETE|Coffre du prophète]]
 | 4 || 4 || 2 || -
 |-
 | 9 || +6 || +3 || +3 || +5
-| CLASS="gauche" | [Contacts planaires](./Prophète de Kalistrade.md#CONTACTSPLANAIRES)
+| CLASS="gauche" | [[Prophète de Kalistrade#CONTACTSPLANAIRES|Contacts planaires]]
 | 5 || 4 || 3 || -
 |- CLASS="alt"
 | 10 || +7 || +3 || +3 || +5
-| CLASS="gauche" | [Démonstration d'auspice](./Prophète de Kalistrade.md#DEMONSTRATIONDAUSPICE) +4
+| CLASS="gauche" | [[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +4
 | 5 || 4 || 3 || 1
 |}
 
@@ -75,14 +75,14 @@ Pour pouvoir devenir un disciple des Prophéties, le personnage doit satisfaire 
 
 **Alignement.** Loyal Neutre.
 
-**Compétences.** 5 rangs en [Connaissances](./Connaissances.md) (folklore local), 5 rangs en [Profession](./Profession.md) (marchand), 2 rangs en [Psychologie](./Psychologie.md).
+**Compétences.** 5 rangs en [[Connaissances]] (folklore local), 5 rangs en [[Profession]] (marchand), 2 rangs en [[Psychologie]].
 
-**Spécial.** Doit suivre la croyance des [Prophéties](./../Golarion/Prophéties de Kalistrade.md).
+**Spécial.** Doit suivre la croyance des [[Golarion.Prophéties de Kalistrade|Prophéties]].
 
 ### Compétences de classe
-Voici les compétences de classe du disciple des Prophéties : [Art de la magie](./Art de la magie.md) (Int), [Bluff](./Bluff.md) (Cha), [Connaissances](./Connaissances.md) (folklore local) (Int), [Connaissances](./Connaissances.md) (noblesse) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Estimation](./Estimation.md) (Int), [Intimidation](./Intimidation.md) (Cha), [Psychologie](./Psychologie.md) (Sag), et [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) (Cha).
+Voici les compétences de classe du disciple des Prophéties : [[Art de la magie]] (Int), [[Bluff]] (Cha), [[Connaissances]] (folklore local) (Int), [[Connaissances]] (noblesse) (Int), [[Diplomatie]] (Cha), [[Estimation]] (Int), [[Intimidation]] (Cha), [[Psychologie]] (Sag), et [[Utilisation dObjets Magiques|Utilisation d'objets magiques]] (Cha).
 
-**Rangs de compétence par niveau** 4 + modificateur d'[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau** 4 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe du disciple des Prophéties.
@@ -134,13 +134,13 @@ Un disciple des Prophéties ne gagne aucune formation supplémentaire au manieme
 | 5 || 5 || 4 || 2
 |}
 </div></div>
-Un disciple des Prophéties est capable de lancer des sorts profanes tirés de la [liste des sorts d'ensorceleurs/magiciens](./Liste des sorts densorceleursmagiciens.md), mais il est limité aux sorts de l'école de [divination](./Divination.md) et d'[enchantement](./Enchantement.md). Il peut lancer n'importe quel sort qu'il connaît sans les préparer à l'avance. Pour lancer un sort, un disciple des Prophéties doit avoir une valeur de [Charisme](./Charisme.md) au moins égale à 10 + le niveau du sort. Ses [sorts bonus](./Caractéristiques.md#TABLEAUCARACTERISTIQUES) se basent sur le Charisme, et les [jets de sauvegarde](./JDS.md) contre ces sorts ont un [DD](./DD.md) de 10 + niveau du sort + modificateur de Charisme du disciple des Prophéties (s'il en a un). Sa sélection de sorts est très limitée – à chaque niveau de disciple des Prophéties, il gagne un sort ou plus, comme indiqué ci-contre. Aux niveaux 4, 6, 8 et 10, il peut décider d'échanger un sort qu'il connaissait déjà pour en apprendre un autre, tant que le niveau des deux sorts sont du même niveau.
+Un disciple des Prophéties est capable de lancer des sorts profanes tirés de la [[Liste des sorts densorceleursmagiciens|liste des sorts d'ensorceleurs/magiciens]], mais il est limité aux sorts de l'école de [[divination]] et d'[[enchantement]]. Il peut lancer n'importe quel sort qu'il connaît sans les préparer à l'avance. Pour lancer un sort, un disciple des Prophéties doit avoir une valeur de [[Charisme]] au moins égale à 10 + le niveau du sort. Ses [[Caractéristiques#TABLEAUCARACTERISTIQUES|sorts bonus]] se basent sur le Charisme, et les [[jds|jets de sauvegarde]] contre ces sorts ont un [[DD]] de 10 + niveau du sort + modificateur de Charisme du disciple des Prophéties (s'il en a un). Sa sélection de sorts est très limitée – à chaque niveau de disciple des Prophéties, il gagne un sort ou plus, comme indiqué ci-contre. Aux niveaux 4, 6, 8 et 10, il peut décider d'échanger un sort qu'il connaissait déjà pour en apprendre un autre, tant que le niveau des deux sorts sont du même niveau.
 
-Quand il gagne des niveaux, certains sorts sont rajoutés à la liste de sorts du disciple des Prophéties. Il n'apprend pas automatiquement ces sorts quand ils deviennent disponibles – ils doivent être pris en compte dans son total de sorts connus (tableau ci-dessus). Au niveau 2, il ajoute *[faveur divine](./Faveur divine.md)* et *[disque flottant](./Disque flottant.md)* à sa liste de sorts. Au niveau 4, il ajoute *[augure](./Augure.md)* et *[zone de vérité](./Zone de vérité.md)* à sa liste de sorts. Au niveau 6, il ajoute *[verrou du mage](./Verrou du mage.md)* et *[réparation intégrale](./Réparation intégrale.md)* à sa liste de sorts. Au niveau 8, il ajoute *[dissimulation d'objet](./Dissimulation dobjet.md)* et *[bagou](./Bagou.md)* à sa liste de sorts. Au niveau 10, il ajoute *[divination](./Divination.md)* et *[détection du mensonge](./Détection du mensonge.md)* à sa liste de sorts.
+Quand il gagne des niveaux, certains sorts sont rajoutés à la liste de sorts du disciple des Prophéties. Il n'apprend pas automatiquement ces sorts quand ils deviennent disponibles – ils doivent être pris en compte dans son total de sorts connus (tableau ci-dessus). Au niveau 2, il ajoute *[[faveur divine]]* et *[[disque flottant]]* à sa liste de sorts. Au niveau 4, il ajoute *[[augure]]* et *[[zone de vérité]]* à sa liste de sorts. Au niveau 6, il ajoute *[[verrou du mage]]* et *[[réparation intégrale]]* à sa liste de sorts. Au niveau 8, il ajoute *[[Dissimulation dobjet|dissimulation d'objet]]* et *[[bagou]]* à sa liste de sorts. Au niveau 10, il ajoute *[[divination]]* et *[[détection du mensonge]]* à sa liste de sorts.
 
 {s:reference|DEMONSTRATIONDAUSPICE}
 #### Démonstration d'auspice (Ext)
-Un disciple des Prophéties projette un air de confiance et d'inviolabilité en exposant sa richesse et son statut. Tant que le disciple porte sur lui une valeur totale de 1.000 po en habits, bijoux, ou autres ornements purement décoratifs, il obtient un bonus d'esquive à la [CA](./CA.md) de +1, et un bonus de moral de +1 aux [jets de sauvegarde](./JDS.md). Ce bonus (et la valeur minimale de son accoutrement) augmentent lorsqu'il gagne des niveaux : +2 pour 4.000 po au niveau 4, +3 pour 9.000 po au niveau 7, et +4 pour 16.000 po au niveau 10.
+Un disciple des Prophéties projette un air de confiance et d'inviolabilité en exposant sa richesse et son statut. Tant que le disciple porte sur lui une valeur totale de 1.000 po en habits, bijoux, ou autres ornements purement décoratifs, il obtient un bonus d'esquive à la [[CA]] de +1, et un bonus de moral de +1 aux [[jds|jets de sauvegarde]]. Ce bonus (et la valeur minimale de son accoutrement) augmentent lorsqu'il gagne des niveaux : +2 pour 4.000 po au niveau 4, +3 pour 9.000 po au niveau 7, et +4 pour 16.000 po au niveau 10.
 
 {s:reference|ACHATDESORTS}
 #### Achat de sorts (Sur)
@@ -150,19 +150,19 @@ Au niveau 4, il peut lancer un sort de niveau 2 qu'il connaît avec un prix de b
 
 {s:reference|PERSPICACITECOMMERCIALE}
 #### Perspicacité commerciale (Ext)
-Au niveau 4, un disciple des Prophéties peut traiter les [communautés](./Villes.md) comme d'une catégorie plus grandes pour déterminer leur valeur de base et leurs limites d'achat. Au niveau 7, cette capacité s'améliore pour que le disciple des Prophéties considère les communautés comme de deux catégories plus grandes. Au niveau 10, il considère les communautés comme de quatre catégories plus grandes.
+Au niveau 4, un disciple des Prophéties peut traiter les [[villes|communautés]] comme d'une catégorie plus grandes pour déterminer leur valeur de base et leurs limites d'achat. Au niveau 7, cette capacité s'améliore pour que le disciple des Prophéties considère les communautés comme de deux catégories plus grandes. Au niveau 10, il considère les communautés comme de quatre catégories plus grandes.
 
 {s:reference|CONTACTSMYSTIQUES}
 #### Contacts mystiques (Ext)
-Au niveau 6, une fois par semaine un disciple des Prophéties peut demander des faveurs de ses partenaires d'échange pour acheter un [service de lancement de sort](./Lancement de sort (objet).md) à la moitié du prix normal. Le disciple des Prophéties doit toujours trouver un lanceur de sorts capable de lancer le sort qu'il désire (ce qui veut souvent dire trouver une [communauté](./Villes.md) assez grande), et doit ajouter les composantes matérielles coûteuses au prix normal.
+Au niveau 6, une fois par semaine un disciple des Prophéties peut demander des faveurs de ses partenaires d'échange pour acheter un [[Lancement de sort (objet)|service de lancement de sort]] à la moitié du prix normal. Le disciple des Prophéties doit toujours trouver un lanceur de sorts capable de lancer le sort qu'il désire (ce qui veut souvent dire trouver une [[Villes|communauté]] assez grande), et doit ajouter les composantes matérielles coûteuses au prix normal.
 
 {s:reference|COFFREDUPROPHETE}
 #### Coffre du prophète (Mag)
-Au niveau 8, un disciple des Prophéties peut cacher un coffre dans le [Plan Éthéré](./Plans.md), comme avec le sort *[coffre secret](./Coffre secret.md)*, sauf que le disciple des Prophéties n'a pas besoin d'un coffre cher ou d'une réplique – n'importe quel coffre suffit. Le disciple des Prophéties peut invoquer le coffre dans le Plan Matériel par une [action simple](./Action simple.md) jusqu'à trois fois par jour. Tant que le disciple des Prophéties a accès au coffre au moins une fois par mois, le coffre n'a aucune chance d'être perdu dans le Plan Éthéré. Un disciple des Prophéties ne peut avoir qu'un seul coffre dans le Plan Éthéré de cette manière.
+Au niveau 8, un disciple des Prophéties peut cacher un coffre dans le [[Plans|Plan Éthéré]], comme avec le sort *[[coffre secret]]*, sauf que le disciple des Prophéties n'a pas besoin d'un coffre cher ou d'une réplique – n'importe quel coffre suffit. Le disciple des Prophéties peut invoquer le coffre dans le Plan Matériel par une [[action simple]] jusqu'à trois fois par jour. Tant que le disciple des Prophéties a accès au coffre au moins une fois par mois, le coffre n'a aucune chance d'être perdu dans le Plan Éthéré. Un disciple des Prophéties ne peut avoir qu'un seul coffre dans le Plan Éthéré de cette manière.
 
 {s:reference|CONTACTSPLANAIRES}
 #### Contacts planaires (Sur)
-Au niveau 9, un disciple des Prophéties peut acheter les services d'un [Extérieur](./type Extérieur.md) pour la moitié du prix normal lorsqu'il lance *[allié d'outreplan](./Allié doutreplan.md)* ou lorsqu'un allié à 9 m (6 {s:c}) ou moins de lui lance ce sort. Lorsqu'il négocie avec une créature appelée par un sort de *[contrat intermédiaire](./Contrat intermédiaire.md)* (le sien ou celui d'un allié), le disciple des Prophéties obtient un bonus de +4 sur n'importe quel test de [Charisme](./Charisme.md) en opposition.
+Au niveau 9, un disciple des Prophéties peut acheter les services d'un [[type extérieur|Extérieur]] pour la moitié du prix normal lorsqu'il lance *[[Allié doutreplan|allié d'outreplan]]* ou lorsqu'un allié à 9 m (6 {s:c}) ou moins de lui lance ce sort. Lorsqu'il négocie avec une créature appelée par un sort de *[[contrat intermédiaire]]* (le sien ou celui d'un allié), le disciple des Prophéties obtient un bonus de +4 sur n'importe quel test de [[Charisme]] en opposition.
 
 ### Les ex-disciples des Prophéties
-Un prophète qui cesse d'être Loyal Neutre, ou qui viole les interdictions diététiques ou sexuelles établies par les Prophéties, perd toutes ses capacités de classe (sauf les formations au maniement des armes ainsi qu'au port des armures et des boucliers) et ne peut plus progresser dans cette classe. Il regagne ses capacités et sa progression potentielle s'il se fait pardonner pour ses crimes et se rachète (voir le sort de *[pénitence](./Pénitence.md)*), comme approprié.
+Un prophète qui cesse d'être Loyal Neutre, ou qui viole les interdictions diététiques ou sexuelles établies par les Prophéties, perd toutes ses capacités de classe (sauf les formations au maniement des armes ainsi qu'au port des armures et des boucliers) et ne peut plus progresser dans cette classe. Il regagne ses capacités et sa progression potentielle s'il se fait pardonner pour ses crimes et se rachète (voir le sort de *[[pénitence]]*), comme approprié.

@@ -4,7 +4,7 @@ Title: Tableau récapitulatif des dons - Temp (Réservé à l'intégration de no
 LastModified: 2019-10-08 15:20
 ---
 
-*Les dons marqués d'un astérisque sont des [dons de combat](./Dons.md#DONCOMBAT).*   
+*Les dons marqués d'un astérisque sont des [[Dons#DONCOMBAT|dons de combat]].*   
 
 
 {s:filtrable}
@@ -18,1984 +18,1984 @@ LastModified: 2019-10-08 15:20
 | WIDTH="42%" | Avantages
 
 |- CLASS="premier"
-| [À terre à cheval](./À terre à cheval.md)* || <sup>AG</sup> || [bond du lancier](./Dragon (guerrier).md), 5 rangs en [Acrobaties](./Acrobaties.md), 11 rangs en [Équitation](./Équitation.md) || Le personnage remonte en selle par une [action rapide](./Action rapide.md) s’il réussit un test d’[Acrobaties](./Acrobaties.md)
+| [[À terre à cheval]]* || <sup>AG</sup> || [[dragon (guerrier)|bond du lancier]], 5 rangs en [[Acrobaties]], 11 rangs en [[Équitation]] || Le personnage remonte en selle par une [[action rapide]] s’il réussit un test d’[[Acrobaties]]
 
 |- CLASS="premier"
-| [Abondance de révélations](./Abondance de révélations.md) || <sup>AM</sup> || Pouvoir de classe [mystère](./mystère.md) || Utiliser une unique [révélation](./révélation.md) plus de fois par jour.
+| [[Abondance de révélations]] || <sup>AM</sup> || Pouvoir de classe [[mystère]] || Utiliser une unique [[révélation]] plus de fois par jour.
 
 |- CLASS="premier"
-| [Absorption rageuse](./Absorption rageuse.md) || <sup>MCA</sup> || Capacité à lancer des sorts de [sanguin](./Sanguin.md) de niveau 2, pouvoir de classe [Sanguin#RAGESANGUINE|rage sanguine] || Le personnage absorbe l’énergie magique des sorts agressifs pour alimenter sa rage sanguine
+| [[Absorption rageuse]] || <sup>MCA</sup> || Capacité à lancer des sorts de [[sanguin]] de niveau 2, pouvoir de classe [[Sanguin#RAGESANGUINE|rage sanguine]] || Le personnage absorbe l’énergie magique des sorts agressifs pour alimenter sa rage sanguine
 
 |- CLASS="premier"
-| [Adepte de la discipline](./Adepte de la discipline.md) || <sup>AO</sup> || Pouvoir de classe [discipline psychique](./Psychiste.md#DISCIPLINEPSYCHIQUE) || +1 aux tests de [niveau de lanceur de sorts](./NLS.md), de [concentration](./Lancer des sorts.md#CONCENTRATION) et aux [jets de sauvegarde](./jet de sauvegarde.md) pour les sorts de discipline
+| [[Adepte de la discipline]] || <sup>AO</sup> || Pouvoir de classe [[psychiste#DISCIPLINEPSYCHIQUE|discipline psychique]] || +1 aux tests de [[NLS|niveau de lanceur de sorts]], de [[Lancer des sorts#CONCENTRATION|concentration]] et aux [[jet de sauvegarde|jets de sauvegarde]] pour les sorts de discipline
 
 |- CLASS="premier"
-| [Adepte de la matraque](./Adepte de la matraque.md)* || <sup>AG</sup> || [Attaque sournoise](./attaque sournoise.md) +1d6 || Bonus de dégâts aux attaques non létales
+| [[Adepte de la matraque]]* || <sup>AG</sup> || [[Attaque sournoise]] +1d6 || Bonus de dégâts aux attaques non létales
 |-
-| &emsp;[Maître de la matraque](./Maître de la matraque.md)* || <sup>AG</sup> || [Adepte de la matraque](./Adepte de la matraque.md), [attaque sournoise](./attaque sournoise.md) +3d6 || Double les dégâts d’[attaque sournoise](./attaque sournoise.md) en cas de dégâts non létaux
+| &emsp;[[Maître de la matraque]]* || <sup>AG</sup> || [[Adepte de la matraque]], [[attaque sournoise]] +3d6 || Double les dégâts d’[[attaque sournoise]] en cas de dégâts non létaux
 
 |- CLASS="premier"
-| [Agilité dimensionnelle](./Agilité dimensionnelle.md) || <sup>AG</sup> || [Pas chassé](./Moine.md#PASCHASSE) ou capacité à lancer *[porte dimensionnelle](./Porte dimensionnelle.md)* || Peut faire toutes les actions qui lui restent après le [pas chassé](./Moine.md#PASCHASSE) ou la [porte dimensionnelle](./Porte dimensionnelle.md)
+| [[Agilité dimensionnelle]] || <sup>AG</sup> || [[Moine#PASCHASSE|Pas chassé]] ou capacité à lancer *[[porte dimensionnelle]]* || Peut faire toutes les actions qui lui restent après le [[Moine#PASCHASSE|pas chassé]] ou la [[porte dimensionnelle]]
 |-
-| &emsp;[Assaut dimensionnel](./Assaut dimensionnel.md) || <sup>AG</sup> || [Agilité dimensionnelle](./Agilité dimensionnelle.md) || Peut utiliser *[porte dimensionnelle](./Porte dimensionnelle.md)* ou [pas chassé](./Moine.md#PASCHASSE) lors d’une [charge](./charge.md)
+| &emsp;[[Assaut dimensionnel]] || <sup>AG</sup> || [[Agilité dimensionnelle]] || Peut utiliser *[[porte dimensionnelle]]* ou [[Moine#PASCHASSE|pas chassé]] lors d’une [[charge]]
 |-
-| &emsp;&emsp;[Derviche dimensionnel](./Derviche dimensionnel.md) || <sup>AG</sup> || [Assaut dimensionnel](./Assaut dimensionnel.md), [BBA](./BBA.md) +6 || Pendant une [action complexe](./Action complexe.md), le personnage peut lancer *[porte dimensionnelle](./Porte dimensionnelle.md)* ou utiliser [pas chassé](./Moine.md#PASCHASSE) par une [action rapide](./Action rapide.md)
+| &emsp;&emsp;[[Derviche dimensionnel]] || <sup>AG</sup> || [[Assaut dimensionnel]], [[BBA]] +6 || Pendant une [[action complexe]], le personnage peut lancer *[[porte dimensionnelle]]* ou utiliser [[Moine#PASCHASSE|pas chassé]] par une [[action rapide]]
 |-
-| &emsp;&emsp;&emsp;[Manœuvres dimensionnelles](./Manoeuvres-dimensionnelles.md) || <sup>AG</sup> || [Derviche dimensionnel](./Derviche dimensionnel.md), [BBA](./BBA.md) +9 || +4 aux [manœuvres de combat](./Manœuvres offensives.md) quand le personnage utilise [Derviche dimensionnel](./Derviche dimensionnel.md)
+| &emsp;&emsp;&emsp;[[Manoeuvres dimensionnelles|Manœuvres dimensionnelles]] || <sup>AG</sup> || [[Derviche dimensionnel]], [[BBA]] +9 || +4 aux [[Manœuvres offensives|manœuvres de combat]] quand le personnage utilise [[Derviche dimensionnel]]
 |-
-| &emsp;&emsp;&emsp;[Savant dimensionnel](./Savant dimensionnel.md) || <sup>AG</sup> || [Derviche dimensionnel](./Derviche dimensionnel.md), [BBA](./BBA.md) +9 || Le personnage permet de prendre un adversaire en tenaille depuis toutes les cases d’où il l’attaque lorsqu’il utilise [Derviche dimensionnel](./Derviche dimensionnel.md)
+| &emsp;&emsp;&emsp;[[Savant dimensionnel]] || <sup>AG</sup> || [[Derviche dimensionnel]], [[BBA]] +9 || Le personnage permet de prendre un adversaire en tenaille depuis toutes les cases d’où il l’attaque lorsqu’il utilise [[Derviche dimensionnel]]
 
 |- CLASS="premier"
-| [Aisance](./Aisance.md) || <sup>MJ</sup> || [Dex](./Dextérité.md) 13 || Ignore 1,5 m de terrain difficile lors d’un déplacement
+| [[Aisance]] || <sup>MJ</sup> || [[Dextérité|Dex]] 13 || Ignore 1,5 m de terrain difficile lors d’un déplacement
 |-
-| &emsp;[Déplacement acrobatique](./Déplacement acrobatique.md) || <sup>MJ</sup> || [Dex](./Dextérité.md) 15, [Aisance](./Aisance.md) || Ignore 6 mètres (4 cases) de [terrain difficile](./terrain difficile.md) lors d’un déplacement
+| &emsp;[[Déplacement acrobatique]] || <sup>MJ</sup> || [[Dextérité|Dex]] 15, [[Aisance]] || Ignore 6 mètres (4 cases) de [[terrain difficile]] lors d’un déplacement
 |-
-| &emsp;&emsp;[Pas léger](./Pas léger.md) || <sup>MJRA</sup> || [Déplacement acrobatique](./Déplacement acrobatique.md), [Elfe](./Elfe.md) || Se déplacer de sa [Vitesse de déplacement](./VD.md) normale sur un [terrain difficile](./terrain difficile.md)
+| &emsp;&emsp;[[Pas léger]] || <sup>MJRA</sup> || [[Déplacement acrobatique]], [[Elfe]] || Se déplacer de sa [[VD|Vitesse de déplacement]] normale sur un [[terrain difficile]]
 |-
-| &emsp;[Déplacement mystique](./Déplacement mystique.md) || <sup>AM</sup> || [Dex](./Dextérité.md) 15, [Aisance](./Aisance.md), [déplacement facilité](./Druide.md#DEPLACEMENTFACILITE) || Déplacement à vitesse maximale, même dans une végétation densifiée par magie
+| &emsp;[[Déplacement mystique]] || <sup>AM</sup> || [[Dextérité|Dex]] 15, [[Aisance]], [[druide#DEPLACEMENTFACILITE|déplacement facilité]] || Déplacement à vitesse maximale, même dans une végétation densifiée par magie
 
 |- CLASS="premier"
-| [Alchimie inspirée](./Alchimie inspirée.md) || <sup>MCA</sup> || Capacité à créer des [extraits](./Alchimiste.md#EXTRAITS) de niveau 2, pouvoir de classe [Alchimie](./Alchimiste.md#ALCHIMIE), pouvoir de classe [inspiration](./Enquêteur.md#INSPIRATION) || Le personnage consacre du temps et de l’[inspiration](./Enquêteur.md#INSPIRATION) à recréer un extrait consommé
+| [[Alchimie inspirée]] || <sup>MCA</sup> || Capacité à créer des [[Alchimiste#EXTRAITS|extraits]] de niveau 2, pouvoir de classe [[Alchimiste#ALCHIMIE|Alchimie]], pouvoir de classe [[Enquêteur#INSPIRATION|inspiration]] || Le personnage consacre du temps et de l’[[Enquêteur#INSPIRATION|inspiration]] à recréer un extrait consommé
 
 |- CLASS="premier"
-| [Allié naturel spontané](./Allié naturel spontané.md) || <sup>MCA</sup> || 5 rangs en [Connaissances](./Connaissances.md) (nature), capacité à lancer spontanément des sorts de soins ou de blessure, [domaine de la Faune](./Domaine de la Faune.md) ou [de la Flore](./Domaine de la Flore.md) || Le personnage perd un emplacement de sort pour lancer spontanément un sort de convocation d’allié naturel de même niveau
+| [[Allié naturel spontané]] || <sup>MCA</sup> || 5 rangs en [[Connaissances]] (nature), capacité à lancer spontanément des sorts de soins ou de blessure, [[domaine de la Faune]] ou [[Domaine de la Flore|de la Flore]] || Le personnage perd un emplacement de sort pour lancer spontanément un sort de convocation d’allié naturel de même niveau
 
 |- CLASS="premier"
-| [Âme animale](./Âme animale.md) || <sup>MCA</sup> || Pouvoir de classe compagnon animal ou monture || Les sorts qui affectent l’animal affectent aussi le personnage
+| [[Âme animale]] || <sup>MCA</sup> || Pouvoir de classe compagnon animal ou monture || Les sorts qui affectent l’animal affectent aussi le personnage
 
 |- CLASS="premier"
-| [Âme commune](./Âme commune.md) || <sup>AO</sup> || Pouvoir de classe [partage de conscience](./Spirite.md#PARTAGEDECONSCIENCE) || Le fantôme offre une protection contre les [effets de mort](./Créer un sort.md#MORT), l’[énergie négative](./Énergie négative.md) et la [possession](./Possession spirituelle.md)
+| [[Âme commune]] || <sup>AO</sup> || Pouvoir de classe [[spirite#PARTAGEDECONSCIENCE|partage de conscience]] || Le fantôme offre une protection contre les [[Créer un sort#MORT|effets de mort]], l’[[énergie négative]] et la [[possession spirituelle|possession]]
 
 |- CLASS="premier"
-| [Âme d’acier](./Âme dacier.md) || <sup>MJRA</sup> || [Nain](./Nain.md), trait racial Robuste || Bonus racial de +4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts et les pouvoirs magiques
+| [[Âme dacier|Âme d’acier]] || <sup>MJRA</sup> || [[Nain]], trait racial Robuste || Bonus racial de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre les sorts et les pouvoirs magiques
 
 |- CLASS="premier"
-| [Amplification supplémentaire](./Amplification supplémentaire.md) || <sup>AO</sup> || Pouvoir de classe [amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE) || Une [amplification phrénique](./Psychiste.md#AMPLIFICATIONPHRENIQUE) supplémentaire
+| [[Amplification supplémentaire]] || <sup>AO</sup> || Pouvoir de classe [[psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]] || Une [[psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]] supplémentaire
 
 |- CLASS="premier"
-| [Ancre douloureuse](./Ancre douloureuse.md) || <sup>AM</sup> || Ancrage || Inflige des dégâts aux [Extérieurs](./type Extérieur.md) [Mauvais](./sous-type Mal.md) ancrés
+| [[Ancre douloureuse]] || <sup>AM</sup> || Ancrage || Inflige des dégâts aux [[type Extérieur|Extérieurs]] [[sous-type Mal|Mauvais]] ancrés
 
 |- CLASS="premier"
-| [Antagoniste](./Antagoniste.md) || <sup>AM</sup> || – || Utilise la [Diplomatie](./Diplomatie.md) ou l’[Intimidation](./Intimidation.md) pour exaspérer une créature
+| [[Antagoniste]] || <sup>AM</sup> || – || Utilise la [[Diplomatie]] ou l’[[Intimidation]] pour exaspérer une créature
 
 |- CLASS="premier"
-| [Apparence enfantine](./Apparence enfantine.md) || <sup>MJRA</sup> || [Cha](./Charisme.md) 13, [halfelin](./Halfelin.md) || +2 en [Déguisement](./Déguisement.md) pour se faire passer pour un [humain](./Humain.md), [faire 10](./faire 10.md) pour [Bluff](./Bluff.md)
+| [[Apparence enfantine]] || <sup>MJRA</sup> || [[Charisme|Cha]] 13, [[halfelin]] || +2 en [[Déguisement]] pour se faire passer pour un [[humain]], [[faire 10]] pour [[Bluff]]
 
 |- CLASS="premier"
-| [Appel du conjurateur](./Appel du conjurateur.md) || <sup>MJRA</sup> || Aptitude de classe d’[eidolon](./eidolon.md) || L’[eidolon](./eidolon.md) gagne un bonus lorsqu’il est conjuré
+| [[Appel du conjurateur]] || <sup>MJRA</sup> || Aptitude de classe d’[[eidolon]] || L’[[eidolon]] gagne un bonus lorsqu’il est conjuré
 
 |- CLASS="premier"
-| [Appel spirituel](./Appel spirituel.md) || <sup>AO</sup> || Pouvoir de classe [fantôme](./Spirite.md#FANTOME) || Le fantôme gagne un bonus lors de son invocation
+| [[Appel spirituel]] || <sup>AO</sup> || Pouvoir de classe [[spirite#FANTOME|fantôme]] || Le fantôme gagne un bonus lors de son invocation
 
 |- CLASS="premier"
-| [Apprendre un piège de rôdeur](./Apprendre un piège de rôdeur.md) || <sup>AM</sup> || 5 [rangs](./rang.md) en [Survie](./Survie.md) || Apprend un unique [piège de rôdeur](./piège de rôdeur.md)
+| [[Apprendre un piège de rôdeur]] || <sup>AM</sup> || 5 [[rang|rangs]] en [[Survie]] || Apprend un unique [[piège de rôdeur]]
 
 |- CLASS="premier"
-| [Aptitude magique](./Aptitude magique.md) || <sup>MJ</sup> || — || +2 aux tests d’[Art de la magie](./Art de la magie.md) et d’[Utilisation d’objets magiques](./Utilisation dObjets Magiques.md)
+| [[Aptitude magique]] || <sup>MJ</sup> || — || +2 aux tests d’[[Art de la magie]] et d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]]
 
 |- CLASS="premier"
-| [Arcane supplémentaire](./Arcane supplémentaire.md) || <sup>AM</sup> || Pouvoir de classe de [magus](./Magus.md) [arcane](./arcane.md) || Gain d’un [arcane](./arcane.md) de plus
+| [[Arcane supplémentaire]] || <sup>AM</sup> || Pouvoir de classe de [[magus]] [[arcane]] || Gain d’un [[arcane]] de plus
 
 |- CLASS="premier"
-| [Arme de prédilection](./Arme de prédilection.md)* || <sup>MJ</sup> || Maniement de l’arme appropriée, [BBA](./BBA.md) +1 || +1 aux jets d’attaque d’une arme
+| [[Arme de prédilection]]* || <sup>MJ</sup> || Maniement de l’arme appropriée, [[BBA]] +1 || +1 aux jets d’attaque d’une arme
 |-
-| &emsp; [Arme de l’Élu](./Arme de lélu.md)* || <sup>MCA</sup> || [Arme de prédilection](./Arme de prédilection.md) (Arme de prédilection de la divinité), vénère et reçoit des sorts d’une divinité || Par une [action rapide](./Action rapide.md), la première attaque du personnage avec l’arme compte comme une attaque magique
+| &emsp; [[Arme de lÉlu|Arme de l’Élu]]* || <sup>MCA</sup> || [[Arme de prédilection]] (Arme de prédilection de la divinité), vénère et reçoit des sorts d’une divinité || Par une [[action rapide]], la première attaque du personnage avec l’arme compte comme une attaque magique
 |-
-| &emsp;&emsp; [Science de l’arme de l’Élu](./Science de larme de lélu.md)* || <sup>MCA</sup> || [Arme de l’Élu](./Arme de lélu.md) || Profite des avantages d’Arme de l’Élu jusqu’au début de son prochain tour
+| &emsp;&emsp; [[Science de larme de lÉlu|Science de l’arme de l’Élu]]* || <sup>MCA</sup> || [[Arme de lÉlu|Arme de l’Élu]] || Profite des avantages d’Arme de l’Élu jusqu’au début de son prochain tour
 |-
-| &emsp;&emsp;&emsp;[Arme de l’Élu supérieure](./Arme de lélu supérieure.md)* || <sup>MCA</sup> || [Science de l’arme de l’Élu](./Science de larme de lélu.md) || Faites deux jets avec l’[Arme de prédilection](./Arme de prédilection.md) de votre personnage et gardez le meilleur
+| &emsp;&emsp;&emsp;[[Arme de lÉlu supérieure|Arme de l’Élu supérieure]]* || <sup>MCA</sup> || [[Science de larme de lÉlu|Science de l’arme de l’Élu]] || Faites deux jets avec l’[[Arme de prédilection]] de votre personnage et gardez le meilleur
 |-
-| &emsp;[Arme de prédilection supérieure](./Arme de prédilection supérieure.md)* || <sup>MJ</sup> || [Arme de prédilection](./Arme de prédilection.md), [guerrier](./Guerrier.md) niv. 8 || +1 aux jets d’attaque avec une arme
+| &emsp;[[Arme de prédilection supérieure]]* || <sup>MJ</sup> || [[Arme de prédilection]], [[guerrier]] niv. 8 || +1 aux jets d’attaque avec une arme
 |-
-| &emsp;[Combat chorégraphié](./Combat chorégraphié.md)* || <sup>AG</sup> || [Arme de prédilection](./Arme de prédilection.md), [BBA](./BBA.md) +5 || Pas de malus pour infliger des dégâts non létaux
+| &emsp;[[Combat chorégraphié]]* || <sup>AG</sup> || [[Arme de prédilection]], [[BBA]] +5 || Pas de malus pour infliger des dégâts non létaux
 |-
-| &emsp;[Déluge du croisé](./Déluge du croisé.md) || <sup>AG</sup> || [Canalisation d’énergie positive](./Prêtre.md#CANALISATIONDENERGIE), [déluge de coups](./Moine.md#DELUGEDECOUPS), [Arme de prédilection](./Arme de prédilection.md) (arme favorite du dieu) || Peut utiliser [déluge de coups](./Moine.md#DELUGEDECOUPS) avec l’arme de prédilection de  son dieu
+| &emsp;[[Déluge du croisé]] || <sup>AG</sup> || [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie positive]], [[Moine#DELUGEDECOUPS|déluge de coups]], [[Arme de prédilection]] (arme favorite du dieu) || Peut utiliser [[Moine#DELUGEDECOUPS|déluge de coups]] avec l’arme de prédilection de  son dieu
 |-
-| &emsp;[Étude à distance](./Étude à distance.md)* || <sup>MCA</sup> || [Arme de prédilection](./Arme de prédilection.md) (arme choisie), pouvoir de classe [Combat étudié](./Enquêteur.md#COMBATETUDIE) || Le personnage choisit une arme à distance et l’utilise avec [Combat étudié](./Enquêteur.md#COMBATETUDIE)
+| &emsp;[[Étude à distance]]* || <sup>MCA</sup> || [[Arme de prédilection]] (arme choisie), pouvoir de classe [[enquêteur#COMBATETUDIE|Combat étudié]] || Le personnage choisit une arme à distance et l’utilise avec [[enquêteur#COMBATETUDIE|Combat étudié]]
 |-
-| &emsp;[Démonstration](./Démonstration.md)* || <sup>MJ</sup> || [Arme de prédilection](./Arme de prédilection.md) || Intimide les ennemis dans un rayon de 9 m
+| &emsp;[[Démonstration]]* || <sup>MJ</sup> || [[Arme de prédilection]] || Intimide les ennemis dans un rayon de 9 m
 |-
-| &emsp;&emsp;[Coup final sanglant](./Coup final sanglant.md)* || <sup>AG</sup> || [Démonstration](./Démonstration.md), [Arme de prédilection](./Arme de prédilection.md) || Le personnage a droit à un test d’[Intimidation](./Intimidation.md) s’il fait passer un adversaire en dessous de 0 point de vie
+| &emsp;&emsp;[[Coup final sanglant]]* || <sup>AG</sup> || [[Démonstration]], [[Arme de prédilection]] || Le personnage a droit à un test d’[[Intimidation]] s’il fait passer un adversaire en dessous de 0 point de vie
 |-
-| &emsp;&emsp;[Briser les défenses](./Briser les défenses.md)* || <sup>MJ</sup> || [Arme de prédilection](./Arme de prédilection.md), [Démonstration](./Démonstration.md), [BBA](./BBA.md) +6 || Les ennemis ralentis sont [pris au dépourvu](./Pris au dépourvu.md)
+| &emsp;&emsp;[[Briser les défenses]]* || <sup>MJ</sup> || [[Arme de prédilection]], [[Démonstration]], [[BBA]] +6 || Les ennemis ralentis sont [[pris au dépourvu]]
 |-
-| &emsp;&emsp;&emsp;[Frappe mortelle](./Frappe mortelle.md)* || <sup>MJ</sup> || [Arme de prédilection supérieure](./Arme de prédilection supérieure.md),   
-[Briser les défenses](./Briser les défenses.md), [BBA](./BBA.md) +11 || Double les dégâts et la cible [saigne](./Saignement.md) pour 1 point de [Con](./Constitution.md)
+| &emsp;&emsp;&emsp;[[Frappe mortelle]]* || <sup>MJ</sup> || [[Arme de prédilection supérieure]],   
+[[Briser les défenses]], [[BBA]] +11 || Double les dégâts et la cible [[saignement|saigne]] pour 1 point de [[Constitution|Con]]
 |-
-| &emsp;&emsp; [Démonstration décourageante](./Démonstration décourageante.md)* || <sup>MCA</sup> || [Arme de prédilection](./Arme de prédilection.md), [Démonstration](./Démonstration.md) , [BBA](./BBA.md) +6, maniement de l’arme choisie || La démonstration accroît un effet de terreur
+| &emsp;&emsp; [[Démonstration décourageante]]* || <sup>MCA</sup> || [[Arme de prédilection]], [[Démonstration]] , [[BBA]] +6, maniement de l’arme choisie || La démonstration accroît un effet de terreur
 |-
-| &emsp;[Entraînement au combat féroce](./Entraînement au combat féroce.md)* || <sup>AG</sup> || [Science du combat à mains nues](./Science du combat à mains nues.md), [Arme de prédilection](./Arme de prédilection.md) (arme naturelle) || Peut utiliser des dons de combat à mains nues avec des armes naturelles
+| &emsp;[[Entraînement au combat féroce]]* || <sup>AG</sup> || [[Science du combat à mains nues]], [[Arme de prédilection]] (arme naturelle) || Peut utiliser des dons de combat à mains nues avec des armes naturelles
 |-
-| &emsp;[Frappe puissante](./Frappe puissante.md)* || <sup>MJ</sup> || [Arme de prédilection](./Arme de prédilection.md), [guerrier](./Guerrier.md) niv. 12 || Les attaques ignorent 5 points de [réduction de dégâts](./RD.md)
+| &emsp;[[Frappe puissante]]* || <sup>MJ</sup> || [[Arme de prédilection]], [[guerrier]] niv. 12 || Les attaques ignorent 5 points de [[RD|réduction de dégâts]]
 |-
-| &emsp;&emsp;[Frappe puissante supérieure](./Frappe puissante supérieure.md)* || <sup>MJ</sup> || [Frappe puissante](./Frappe puissante.md), [guerrier](./Guerrier.md) niv. 16 || Les attaques ignorent 10 points de [réduction de dégâts](./RD.md)
+| &emsp;&emsp;[[Frappe puissante supérieure]]* || <sup>MJ</sup> || [[Frappe puissante]], [[guerrier]] niv. 16 || Les attaques ignorent 10 points de [[RD|réduction de dégâts]]
 |-
-| &emsp;[Maître des bâtons](./Maître des bâtons.md)* || <sup>AM</sup> || [Arme de prédilection](./Arme de prédilection.md) (bâton), [BBA](./BBA.md) +5 || Utilisation à une main des bâtons
+| &emsp;[[Maître des bâtons]]* || <sup>AM</sup> || [[Arme de prédilection]] (bâton), [[BBA]] +5 || Utilisation à une main des bâtons
 |-
-| &emsp;[Maîtrise du fouet](./Maîtrise du fouet.md)* || <sup>AG</sup> || [Arme de prédilection](./Arme de prédilection.md) (fouet), [BBA](./BBA.md) +2 || Le personnage ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md) quand il utilise un fouet
+| &emsp;[[Maîtrise du fouet]]* || <sup>AG</sup> || [[Arme de prédilection]] (fouet), [[BBA]] +2 || Le personnage ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]] quand il utilise un fouet
 |-
-| &emsp;&emsp;[Science de la maîtrise du fouet](./Science de la maîtrise du fouet.md)* || <sup>AG</sup> || [Maîtrise du fouet](./Maîtrise du fouet.md), [BBA](./BBA.md) +5 || Le personnage utilise son fouet pour menacer une case et peut saisir de petits objets
+| &emsp;&emsp;[[Science de la maîtrise du fouet]]* || <sup>AG</sup> || [[Maîtrise du fouet]], [[BBA]] +5 || Le personnage utilise son fouet pour menacer une case et peut saisir de petits objets
 |-
-| &emsp;&emsp;&emsp;[Maîtrise du fouet supérieure](./Maîtrise du fouet supérieure.md)* || <sup>AG</sup> || [Science de la maîtrise du fouet](./Science de la maîtrise du fouet.md), [BBA](./BBA.md) +8 || [Lutte](./lutte.md) grâce au fouet
+| &emsp;&emsp;&emsp;[[Maîtrise du fouet supérieure]]* || <sup>AG</sup> || [[Science de la maîtrise du fouet]], [[BBA]] +8 || [[Lutte]] grâce au fouet
 |-
-| &emsp;[Spécialisation martiale](./Spécialisation martiale.md)* || <sup>MJ</sup> || [Arme de prédilection](./Arme de prédilection.md), [guerrier](./Guerrier.md) niv. 4 || +2 aux dégâts avec une arme
+| &emsp;[[Spécialisation martiale]]* || <sup>MJ</sup> || [[Arme de prédilection]], [[guerrier]] niv. 4 || +2 aux dégâts avec une arme
 |-
-| &emsp;&emsp;[Maîtrise du tir à bout portant](./Maîtrise du tir à bout portant.md)* || <sup>MJRA</sup> || [Spécialisation martiale](./Spécialisation martiale.md) avec l’[arme à distance](./arme à distance.md) choisie || Attaquer avec une arme à distance ne provoque plus d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;&emsp;[[Maîtrise du tir à bout portant]]* || <sup>MJRA</sup> || [[Spécialisation martiale]] avec l’[[arme à distance]] choisie || Attaquer avec une arme à distance ne provoque plus d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Spécialisation martiale supérieure](./Spécialisation martiale supérieure.md)* || <sup>MJ</sup> || [Spécialisation martiale](./Spécialisation martiale.md), [guerrier](./Guerrier.md) niv. 12 || +2 aux dégâts avec une arme
+| &emsp;&emsp;[[Spécialisation martiale supérieure]]* || <sup>MJ</sup> || [[Spécialisation martiale]], [[guerrier]] niv. 12 || +2 aux dégâts avec une arme
 |-
-| &emsp;[Tireur couché](./Tireur couché.md)* || <sup>AG</sup> || [Arme de prédilection](./Arme de prédilection.md) (arbalète ou arme à feu), [BBA](./BBA.md) +1 || En position couchée, le personnage améliore sa visée avec une arbalète ou une arme à feu
+| &emsp;[[Tireur couché]]* || <sup>AG</sup> || [[Arme de prédilection]] (arbalète ou arme à feu), [[BBA]] +1 || En position couchée, le personnage améliore sa visée avec une arbalète ou une arme à feu
 |-
-| &emsp;[Une fronde pour fléau](./Une fronde pour fléau.md)* || <sup>AG</sup> || [Arme de prédilection](./Arme de prédilection.md) (fronde), [BBA](./BBA.md) +1 || Peut faire des attaques au corps à corps avec une fronde
+| &emsp;[[Une fronde pour fléau]]* || <sup>AG</sup> || [[Arme de prédilection]] (fronde), [[BBA]] +1 || Peut faire des attaques au corps à corps avec une fronde
 
 |- CLASS="premier"
-| [Arme jetable](./Arme jetable.md) || <sup>AG</sup> || Maniement de l’arme, [BBA](./BBA.md) +1 || Briser une arme fragile pour confirmer un [coup critique](./coup critique.md)
+| [[Arme jetable]] || <sup>AG</sup> || Maniement de l’arme, [[BBA]] +1 || Briser une arme fragile pour confirmer un [[coup critique]]
 
 |- CLASS="premier"
-| [Arme naturelle supérieure](./Arme naturelle supérieure.md) || <sup>B1</sup> || Posséder une arme naturelle, [BBA](./BBA.md)+4 || Le dé de dégât augmente d'une catégorie
+| [[Arme naturelle supérieure]] || <sup>B1</sup> || Posséder une arme naturelle, [[BBA]]+4 || Le dé de dégât augmente d'une catégorie
 
 |- CLASS="premier"
-| [Arme en main](./Arme en main.md)* || <sup>MJ</sup> || [BBA](./BBA.md) +1 || Dégainer les armes est une [action libre](./Action libre.md)
+| [[Arme en main]]* || <sup>MJ</sup> || [[BBA]] +1 || Dégainer les armes est une [[action libre]]
 |-
-| &emsp;[Frappe ondoyante](./Frappe ondoyante.md)* || <sup>AG</sup> || [Expertise martiale](./Samouraï.md#EXPERTISEMARTIALE) ou [Arme en main](./Arme en main.md), 1 rang en [Bluff](./Bluff.md) || Utilise une [action rapide](./Action rapide.md) pour faire une feinte avec un test de [Bluff](./Bluff.md)
+| &emsp;[[Frappe ondoyante]]* || <sup>AG</sup> || [[Samouraï#EXPERTISEMARTIALE|Expertise martiale]] ou [[Arme en main]], 1 rang en [[Bluff]] || Utilise une [[action rapide]] pour faire une feinte avec un test de [[Bluff]]
 
 |- CLASS="premier"
-| [Armure naturelle supérieure](./Armure naturelle supérieure.md) || <sup>B1</sup> || Posséder une armure naturelle, [Con](./Constitution.md) 13 || Le bonus d'armure naturelle augmente de +1
+| [[Armure naturelle supérieure]] || <sup>B1</sup> || Posséder une armure naturelle, [[Constitution|Con]] 13 || Le bonus d'armure naturelle augmente de +1
 |- CLASS="premier"
-| [Armure résiliente](./Armure résiliente.md) || <sup>MCA</sup> || Pacte divin (armure ou bouclier) ou pouvoir de classe [armure sacrée](./Prêtre combattant.md#ARMURESACREE)11 || Gagne une [RD](./RD.md) contre certaines attaques
+| [[Armure résiliente]] || <sup>MCA</sup> || Pacte divin (armure ou bouclier) ou pouvoir de classe [[Prêtre combattant#ARMURESACREE|armure sacrée]]11 || Gagne une [[RD]] contre certaines attaques
 
 |- CLASS="premier"
-| [Artisanat de groupe](./Artisanat de groupe.md) || <sup>MJRA</sup> || 1 rang en [Artisanat](./Artisanat.md), un don de création || +2 en [Artisanat](./Artisanat.md) ou [Art de la Magie](./Art de la magie.md) pour les travaux en groupe
+| [[Artisanat de groupe]] || <sup>MJRA</sup> || 1 rang en [[Artisanat]], un don de création || +2 en [[Artisanat]] ou [[Art de la Magie]] pour les travaux en groupe
 
 |- CLASS="premier"
-| [Aspect bestial](./Aspect bestial.md) || <sup>MJRA</sup> || Capacité de forme animale || Gagner un avantage bestial parmi 4 options
+| [[Aspect bestial]] || <sup>MJRA</sup> || Capacité de forme animale || Gagner un avantage bestial parmi 4 options
 
 |- CLASS="premier"
-| [Assommant](./Assommant.md)* || <sup>AG</sup> || – || Le personnage inflige des dégâts non létaux avec les armes contondantes
+| [[Assommant]]* || <sup>AG</sup> || – || Le personnage inflige des dégâts non létaux avec les armes contondantes
 
 |- CLASS="premier"
-| [Assurer sa prise](./Assurer sa prise.md) || <sup>AG</sup> || 1 rang en [Escalade](./Escalade.md) || Quand le personnage grimpe, il lance le dé 2 fois et prend le meilleur
+| [[Assurer sa prise]] || <sup>AG</sup> || 1 rang en [[Escalade]] || Quand le personnage grimpe, il lance le dé 2 fois et prend le meilleur
 
 |- CLASS="premier"
-| [Attaque magique](./Attaque magique.md) || <sup>MJRA</sup> || Lanceur de sorts profanes, [NLS](./NLS.md) 10 || Sacrifier un sort, gagner une attaque de rayon
+| [[Attaque magique]] || <sup>MJRA</sup> || Lanceur de sorts profanes, [[NLS]] 10 || Sacrifier un sort, gagner une attaque de rayon
 
 |- CLASS="premier"
-| [Autonome](./Autonome.md) || <sup>MJ</sup> || — || +2 aux tests de [Premiers secours](./Premiers secours.md) et de [Survie](./Survie.md)
+| [[Autonome]] || <sup>MJ</sup> || — || +2 aux tests de [[Premiers secours]] et de [[Survie]]
 
 |- CLASS="premier"
-| [Athlétisme](./Athlétisme.md) || <sup>MJ</sup> || — || +2 aux tests d’[Escalade](./Escalade.md) et de [Natation](./Natation.md)
+| [[Athlétisme]] || <sup>MJ</sup> || — || +2 aux tests d’[[Escalade]] et de [[Natation]]
 
 |- CLASS="premier"
-| [Attaque en finesse](./Attaque en finesse.md)* || <sup>MJ</sup> || — || Applique le bonus de [Dex](./Dextérité.md) au lieu du bonus de [For](./Force.md) aux jets d’attaque des [armes légères](./arme légère.md)
+| [[Attaque en finesse]]* || <sup>MJ</sup> || — || Applique le bonus de [[Dextérité|Dex]] au lieu du bonus de [[Force|For]] aux jets d’attaque des [[arme légère|armes légères]]
 |-
-| &emsp;[Grâce tranchante](./Grâce tranchante.md)* || <sup>MCA</sup> || [Dex](./Dextérité.md) 13, [Attaque en finesse](./Attaque en finesse.md), [Arme de prédilection](./Arme de prédilection.md) (arme choisie) || Le personnage traite une arme à une main tranchante comme une arme de corps à corps perforante et applique son bonus de Dextérité aux dégâts
+| &emsp;[[Grâce tranchante]]* || <sup>MCA</sup> || [[Dextérité|Dex]] 13, [[Attaque en finesse]], [[Arme de prédilection]] (arme choisie) || Le personnage traite une arme à une main tranchante comme une arme de corps à corps perforante et applique son bonus de Dextérité aux dégâts
 
 |- CLASS="premier"
-| [Attaque en puissance](./Attaque en puissance.md)* || <sup>MJ</sup> || [For](./Force.md) 13, [BBA](./BBA.md) +1 || Échange le bonus d’attaque contre un bonus aux dégâts
+| [[Attaque en puissance]]* || <sup>MJ</sup> || [[Force|For]] 13, [[BBA]] +1 || Échange le bonus d’attaque contre un bonus aux dégâts
 |-
-| &emsp;[Assaut étourdissant](./Assaut étourdissant.md)* || <sup>MJRA</sup> || [Attaque en puissance](./Attaque en puissance.md), [BBA](./BBA.md)+16 || Sacrifier du bonus d’attaque, [étourdir](./Étourdi.md) les cibles au corps à corps
+| &emsp;[[Assaut étourdissant]]* || <sup>MJRA</sup> || [[Attaque en puissance]], [[BBA]]+16 || Sacrifier du bonus d’attaque, [[étourdi|étourdir]] les cibles au corps à corps
 |-
-| &emsp;[Assaut hébétant](./Assaut hébétant.md)* || <sup>MJRA</sup> || [Attaque en puissance](./Attaque en puissance.md), [BBA](./BBA.md)+11 || Sacrifier du bonus d’attaque, [hébéter](./Hébété.md) les cibles au corps à corps
+| &emsp;[[Assaut hébétant]]* || <sup>MJRA</sup> || [[Attaque en puissance]], [[BBA]]+11 || Sacrifier du bonus d’attaque, [[hébété|hébéter]] les cibles au corps à corps
 |-
-| &emsp;[Assaut repoussant](./Assaut repoussant.md)* || <sup>MJRA</sup> || [For](./Force.md) 15, [Attaque en puissance](./Attaque en puissance.md), [BBA](./BBA.md)+1 || Repousser un ennemi avec une arme à deux mains
+| &emsp;[[Assaut repoussant]]* || <sup>MJRA</sup> || [[Force|For]] 15, [[Attaque en puissance]], [[BBA]]+1 || Repousser un ennemi avec une arme à deux mains
 |-
-| &emsp;[Assaut sanglant](./Assaut sanglant.md)* || <sup>MJRA</sup> || [Attaque en puissance](./Attaque en puissance.md), [BBA](./BBA.md)+6 || Sacrifier du bonus d’attaque, ajouter du [saignement](./Saignement.md) au corps à corps
+| &emsp;[[Assaut sanglant]]* || <sup>MJRA</sup> || [[Attaque en puissance]], [[BBA]]+6 || Sacrifier du bonus d’attaque, ajouter du [[saignement]] au corps à corps
 |-
-| &emsp;[Briseur d’objets](./Briseur dobjets.md)* || <sup>MJRA</sup> || [Attaque en puissance](./Attaque en puissance.md), [Demi-orque](./Demi-orque.md) || Ignorer 5 points de [solidité](./solidité.md) lorsqu’on brise un objet
+| &emsp;[[Briseur dobjets|Briseur d’objets]]* || <sup>MJRA</sup> || [[Attaque en puissance]], [[Demi-orque]] || Ignorer 5 points de [[solidité]] lorsqu’on brise un objet
 |-
-| &emsp;[Brute enragée](./Brute enragée.md) || <sup>AG</sup> || [Rage](./Rage.md), [Attaque en puissance](./Attaque en puissance.md), [BBA](./BBA.md) +12 || Ajoute le bonus de [Constitution](./Constitution.md) aux jets de dégâts
+| &emsp;[[Brute enragée]] || <sup>AG</sup> || [[Rage]], [[Attaque en puissance]], [[BBA]] +12 || Ajoute le bonus de [[Constitution]] aux jets de dégâts
 |-
-| &emsp;[Concentration malgré la fureur](./Concentration malgré la fureur.md)* || <sup>MJRA</sup> || [For](./Force.md) 13, [Attaque en puissance](./Attaque en puissance.md), [BBA](./BBA.md)+1 || Supprime la pénalité d’[attaque en puissance](./Attaque en puissance.md) lors de la première attaque
+| &emsp;[[Concentration malgré la fureur]]* || <sup>MJRA</sup> || [[Force|For]] 13, [[Attaque en puissance]], [[BBA]]+1 || Supprime la pénalité d’[[Attaque en puissance]] lors de la première attaque
 |-
-| &emsp;&emsp;[Carnage effroyable](./Carnage effroyable.md)* || <sup>MJRA</sup> || [For](./Force.md) 15, [Concentration malgré la fureur](./Concentration malgré la fureur.md), [BBA](./BBA.md) +11 || Test d’[Intimidation](./Intimidation.md) gratuit en mettant un adversaire au sol
+| &emsp;&emsp;[[Carnage effroyable]]* || <sup>MJRA</sup> || [[Force|For]] 15, [[Concentration malgré la fureur]], [[BBA]] +11 || Test d’[[Intimidation]] gratuit en mettant un adversaire au sol
 |-
-| &emsp;[Coup déstabilisant](./Coup déstabilisant.md)* || <sup>AG</sup> || [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Attaque en puissance](./Attaque en puissance.md), [BBA](./BBA.md) +6 || Possibilité de faire un [croc-en-jambe](./croc-en-jambe.md) avec une [attaque en puissance](./Attaque en puissance.md)
+| &emsp;[[Coup déstabilisant]]* || <sup>AG</sup> || [[Science du croc-en-jambe]], [[Attaque en puissance]], [[BBA]] +6 || Possibilité de faire un [[croc-en-jambe]] avec une [[attaque en puissance]]
 |-
-| &emsp;[Coups protecteurs](./Coups protecteurs.md)* || <sup>MJRA</sup> || [For](./Force.md) 13, [Attaque en puissance](./Attaque en puissance.md), [BBA](./BBA.md)+1 || Réduire les dégâts avec une arme à deux mains pour gagner un bonus de bouclier de +4
+| &emsp;[[Coups protecteurs]]* || <sup>MJRA</sup> || [[Force|For]] 13, [[Attaque en puissance]], [[BBA]]+1 || Réduire les dégâts avec une arme à deux mains pour gagner un bonus de bouclier de +4
 |-
-| &emsp;[Enchaînement](./Enchaînement.md)* || <sup>MJ</sup> || [For](./Force.md) 13, [Attaque en puissance](./Attaque en puissance.md), [bonus de base à l’attaque](./BBA.md) +1 || 1 attaque supplémentaire si la première touche
+| &emsp;[[Enchaînement]]* || <sup>MJ</sup> || [[Force|For]] 13, [[Attaque en puissance]], [[BBA|bonus de base à l’attaque]] +1 || 1 attaque supplémentaire si la première touche
 |-
-| &emsp;&emsp;[Enchaînement final](./Enchaînement final.md)* || <sup>AG</sup> || [Enchaînement](./Enchaînement.md) || Attaque supplémentaire si l’ennemi tombe
+| &emsp;&emsp;[[Enchaînement final]]* || <sup>AG</sup> || [[Enchaînement]] || Attaque supplémentaire si l’ennemi tombe
 |-
-| &emsp;&emsp;[Succession d'enchaînements](./Succession denchaînements.md)* || <sup>MJ</sup> || [Enchaînement](./Enchaînement.md), [BBA](./BBA.md) +4 || 1 attaque supplémentaire après chaque attaque qui touche
+| &emsp;&emsp;[[Succession denchaînements|Succession d'enchaînements]]* || <sup>MJ</sup> || [[Enchaînement]], [[BBA]] +4 || 1 attaque supplémentaire après chaque attaque qui touche
 |-
-| &emsp;&emsp;&emsp;[Science de l’enchaînement final](./Science de lenchaînement final.md)* || <sup>AG</sup> || [For](./For.md) 13, [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Enchaînement final](./Enchaînement final.md), [Succession d'enchaînements](./Succession denchaînements.md), [BBA](./BBA.md) +6 || Le personnage peut utiliser [Enchaînement final](./Enchaînement final.md) autant de fois  par round qu’il le veut
+| &emsp;&emsp;&emsp;[[Science de lenchaînement final|Science de l’enchaînement final]]* || <sup>AG</sup> || [[For]] 13, [[Attaque en puissance]], [[Enchaînement]], [[Enchaînement final]], [[Succession denchaînements|Succession d'enchaînements]], [[BBA]] +6 || Le personnage peut utiliser [[Enchaînement final]] autant de fois  par round qu’il le veut
 |-
-| &emsp;[La mort ou la gloire](./La mort ou la gloire.md)* || <sup>AG</sup> || [Attaque en puissance](./Attaque en puissance.md), [BBA](./BBA.md) +6 || +4 aux [jets d’attaque](./jet dattaque.md), de dégâts et de critique contre les adversaires de [taille G](./taille G.md) ou plus grands
+| &emsp;[[La mort ou la gloire]]* || <sup>AG</sup> || [[Attaque en puissance]], [[BBA]] +6 || +4 aux [[jet dattaque|jets d’attaque]], de dégâts et de critique contre les adversaires de [[taille G]] ou plus grands
 |-
-| &emsp;[Rage imprudente](./Rage imprudente.md) || <sup>MCA</sup> || [Attaque en puissance](./Attaque en puissance.md) ; pouvoir de classe [rage de berserker](./Barbare.md#RAGEDEBERSERKER) ou [Chant de rage](./Scalde.md#CHANTDERAGE) || Le personnage reçoit un malus aux jets d’attaque pour infliger plus de dégâts lorsqu’il est en rage
+| &emsp;[[Rage imprudente]] || <sup>MCA</sup> || [[Attaque en puissance]] ; pouvoir de classe [[barbare#RAGEDEBERSERKER|rage de berserker]] ou [[Scalde#CHANTDERAGE|Chant de rage]] || Le personnage reçoit un malus aux jets d’attaque pour infliger plus de dégâts lorsqu’il est en rage
 |-
-| &emsp;[Science de la bousculade](./Science de la bousculade.md)* || <sup>MJ</sup> || [Attaque en puissance](./Attaque en puissance.md) || +2 aux tentatives de [bousculade](./bousculade.md), pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Science de la bousculade]]* || <sup>MJ</sup> || [[Attaque en puissance]] || +2 aux tentatives de [[bousculade]], pas d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Bousculade rapide](./Bousculade rapide.md)* || <sup>AG</sup> || [Science de la bousculade](./Science de la bousculade.md), [BBA](./BBA.md) +6 || Le personnage peut faire une [bousculade](./bousculade.md) au lieu d’une attaque au corps à corps
+| &emsp;&emsp;[[Bousculade rapide]]* || <sup>AG</sup> || [[Science de la bousculade]], [[BBA]] +6 || Le personnage peut faire une [[bousculade]] au lieu d’une attaque au corps à corps
 |-
-| &emsp;&emsp;[Bousculade supérieure](./Bousculade supérieure.md)* || <sup>MJ</sup> || [Science de la bousculade](./Science de la bousculade.md), [BBA](./BBA.md) +6 || Les ennemis [bousculés](./bousculade.md) provoquent des [attaques d’opportunité](./attaque dopportunité.md)
+| &emsp;&emsp;[[Bousculade supérieure]]* || <sup>MJ</sup> || [[Science de la bousculade]], [[BBA]] +6 || Les ennemis [[bousculade|bousculés]] provoquent des [[attaque dopportunité|attaques d’opportunité]]
 |-
-| &emsp;&emsp;[Choc de l’enragé](./Choc de lenragé.md) || <sup>AG</sup> || [Con](./Constitution.md) 13, [rage](./Rage.md), [Science de la bousculade](./Science de la bousculade.md), [BBA](./BBA.md) +6 || Ajoute le bonus de [Con](./Constitution.md) aux tests de [bousculade](./bousculade.md)
+| &emsp;&emsp;[[Choc de lenragé|Choc de l’enragé]] || <sup>AG</sup> || [[Constitution|Con]] 13, [[rage]], [[Science de la bousculade]], [[BBA]] +6 || Ajoute le bonus de [[Constitution|Con]] aux tests de [[bousculade]]
 |-
-| &emsp;&emsp;[Coup bousculant](./Coup bousculant.md)* || <sup>MJRA</sup> || [Science de la bousculade](./Science de la bousculade.md), [BBA](./BBA.md) +9 || Faire une tentative de bousculade en cas de [coup critique](./coup critique.md) réussi
+| &emsp;&emsp;[[Coup bousculant]]* || <sup>MJRA</sup> || [[Science de la bousculade]], [[BBA]] +9 || Faire une tentative de bousculade en cas de [[coup critique]] réussi
 |-
-| &emsp;&emsp;[Coup fabuleux](./Coup fabuleux.md) || <sup>B1</sup> || [For](./Force.md) 25, [Attaque en puissance](./Attaque en puissance.md), [Science de la bousculade](./Science de la bousculade.md), être de taille G ou + || Le coup porté repousse l'ennemi
+| &emsp;&emsp;[[Coup fabuleux]] || <sup>B1</sup> || [[Force|For]] 25, [[Attaque en puissance]], [[Science de la bousculade]], être de taille G ou + || Le coup porté repousse l'ennemi
 |-
-| &emsp;&emsp;&emsp;[Science du coup fabuleux](./Science du coup fabuleux.md)* || <sup>MCA</sup> || [For](./Force.md) 13 ; [Coup fabuleux](./Coup fabuleux.md) ou pouvoir de classe coup fabuleux ; [Attaque en puissance](./Attaque en puissance.md) || +2 aux [tests de manoeuvre offensive](./BMO.md) de coup fabuleux et au [DMD](./DMD.md) contre ce type d’attaque, et le mouvement dû au coup fabuleux provoqué des [attaques d’opportunité](./AO.md) de la part des alliés
+| &emsp;&emsp;&emsp;[[Science du coup fabuleux]]* || <sup>MCA</sup> || [[Force|For]] 13 ; [[Coup fabuleux]] ou pouvoir de classe coup fabuleux ; [[Attaque en puissance]] || +2 aux [[BMO|tests de manoeuvre offensive]] de coup fabuleux et au [[DMD]] contre ce type d’attaque, et le mouvement dû au coup fabuleux provoqué des [[AO|attaques d’opportunité]] de la part des alliés
 
 |-
-| &emsp;&emsp;[Réduction agressive](./Réduction agressive.md)* || <sup>AG</sup> || [Réduction de dégâts](./réduction de dégâts.md), [Science de la bousculade](./Science de la bousculade.md) || [Bousculade](./bousculade.md) contre les ennemis qui ne parviennent pas à franchir la [RD](./RD.md)
+| &emsp;&emsp;[[Réduction agressive]]* || <sup>AG</sup> || [[Réduction de dégâts]], [[Science de la bousculade]] || [[Bousculade]] contre les ennemis qui ne parviennent pas à franchir la [[RD]]
 |-
-| &emsp;[Science de la destruction](./Science de la destruction.md)* || <sup>MJ</sup> || [Attaque en puissance](./Attaque en puissance.md) || +2 aux tentatives de [destruction](./destruction.md) d’arme, pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Science de la destruction]]* || <sup>MJ</sup> || [[Attaque en puissance]] || +2 aux tentatives de [[destruction]] d’arme, pas d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Coup destructeur](./Coup destructeur.md)* || <sup>MJRA</sup> || [Science de la destruction](./Science de la destruction.md), [BBA](./BBA.md) +9 || Tentative de [destruction](./destruction.md) en cas de [coup critique](./coup critique.md)
+| &emsp;&emsp;[[Coup destructeur]]* || <sup>MJRA</sup> || [[Science de la destruction]], [[BBA]] +9 || Tentative de [[destruction]] en cas de [[coup critique]]
 |-
-| &emsp;&emsp;[Destruction d'arme supérieure](./Destruction darme supérieure.md)* || <sup>MJ</sup> || [Science de la destruction](./Science de la destruction.md), [BBA](./BBA.md) +6 || Les dégâts des tentatives de [destruction](./destruction.md) sont transférés à l’ennemi
+| &emsp;&emsp;[[Destruction darme supérieure|Destruction d'arme supérieure]]* || <sup>MJ</sup> || [[Science de la destruction]], [[BBA]] +6 || Les dégâts des tentatives de [[destruction]] sont transférés à l’ennemi
 |-
-| &emsp;[Science de l’entraînement](./Science de lentraînement.md)* || <sup>MJRA</sup> || [Attaque en puissance](./Attaque en puissance.md) || +2 aux tentatives d’[entraînement](./entraînement.md), pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Science de lentraînement|Science de l’entraînement]]* || <sup>MJRA</sup> || [[Attaque en puissance]] || +2 aux tentatives d’[[entraînement]], pas d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Attirer rapidement](./Attirer rapidement.md)* || <sup>AG</sup> || [Science de l’entraînement](./Science de lentraînement.md)<sup>MJRA</sup>, [BBA](./BBA.md) +6 || Le personnage peut faire une manœuvre d’[attirer](./Attirer.md) au lieu d’une attaque au corps à corps
+| &emsp;&emsp;[[Attirer rapidement]]* || <sup>AG</sup> || [[Science de lentraînement|Science de l’entraînement]]<sup>MJRA</sup>, [[BBA]] +6 || Le personnage peut faire une manœuvre d’[[attirer]] au lieu d’une attaque au corps à corps
 |-
-| &emsp;&emsp;[Entraînement supérieur](./Entraînement supérieur.md)* || <sup>MJRA</sup> || [Science de l’entraînement](./Science de lentraînement.md), [BBA](./BBA.md) +6 || Les ennemis [entraînés](./entraînement.md) provoquent des [attaques d’opportunité](./attaque dopportunité.md)
+| &emsp;&emsp;[[Entraînement supérieur]]* || <sup>MJRA</sup> || [[Science de lentraînement|Science de l’entraînement]], [[BBA]] +6 || Les ennemis [[entraînement|entraînés]] provoquent des [[attaque dopportunité|attaques d’opportunité]]
 |-
-| &emsp;[Science du renversement](./Science du renversement.md)* || <sup>MJ</sup> || [Attaque en puissance](./Attaque en puissance.md) || +2 aux tentatives de [renversement](./renversement.md), pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Science du renversement]]* || <sup>MJ</sup> || [[Attaque en puissance]] || +2 aux tentatives de [[renversement]], pas d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Charge renversante](./Charge renversante.md)* || <sup>MJRA</sup> ||  [Science du renversement](./Science du renversement.md), [BBA](./BBA.md) +1 || [Renversement](./renversement.md) par une [action libre](./Action libre.md) au cours d’une [charge](./charge.md)
+| &emsp;&emsp;[[Charge renversante]]* || <sup>MJRA</sup> ||  [[Science du renversement]], [[BBA]] +1 || [[renversement]] par une [[action libre]] au cours d’une [[charge]]
 |-
-| &emsp;&emsp;[Renversement supérieur](./Renversement supérieur.md)* || <sup>MJ</sup> || [Science du renversement](./Science du renversement.md), [BBA](./BBA.md) +6 || Les ennemis [renversés](./renversement.md) provoquent des [attaques d’opportunité](./attaque dopportunité.md)
+| &emsp;&emsp;[[Renversement supérieur]]* || <sup>MJ</sup> || [[Science du renversement]], [[BBA]] +6 || Les ennemis [[renversement|renversés]] provoquent des [[attaque dopportunité|attaques d’opportunité]]
 
 |- CLASS="premier"
-| [Attaque en vol](./Attaque en vol.md) || <sup>B1</sup> || Posséder une vitesse de vol || Possibilité d'effectuer une [action simple](./Action simple.md) pendant son déplacement
+| [[Attaque en vol]] || <sup>B1</sup> || Posséder une vitesse de vol || Possibilité d'effectuer une [[action simple]] pendant son déplacement
 
 |- CLASS="premier"
-| [Attaques multiples](./Attaques multiples.md)* || <sup>B1</sup> || Posséder au moins trois attaques naturelles || -2 au jet d'attaque avec les attaques secondaires
+| [[Attaques multiples]]* || <sup>B1</sup> || Posséder au moins trois attaques naturelles || -2 au jet d'attaque avec les attaques secondaires
 
 |- CLASS="premier"
-| [Attaques réflexes](./Attaques réflexes.md)* || <sup>MJ</sup> || — || [Attaques d’opportunité](./attaque dopportunité.md) supplémentaires
+| [[Attaques réflexes]]* || <sup>MJ</sup> || — || [[attaque dopportunité|Attaques d’opportunité]] supplémentaires
 |-
-| &emsp;[Coincer](./Coincer.md)* || <sup>AG</sup> || [Attaques réflexes](./Attaques réflexes.md), [guerrier](./Guerrier.md) niveau 11 || Les adversaires qui font un pas de 1,50 m (1 {s:c}) ou battent en retraite provoquent une [attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Coincer]]* || <sup>AG</sup> || [[Attaques réflexes]], [[guerrier]] niveau 11 || Les adversaires qui font un pas de 1,50 m (1 {s:c}) ou battent en retraite provoquent une [[Attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;[Garde du corps](./Garde du corps.md)* || <sup>MJRA</sup> || [Attaques réflexes](./Attaques réflexes.md) || Utiliser une [attaque d’opportunité](./attaque dopportunité.md) pour augmenter la [CA](./CA.md) d’un allié adjacent
+| &emsp;[[Garde du corps]]* || <sup>MJRA</sup> || [[Attaques réflexes]] || Utiliser une [[attaque dopportunité|attaque d’opportunité]] pour augmenter la [[CA]] d’un allié adjacent
 |-
-| &emsp;&emsp;[Interception de coups](./Interception de coups.md)* || <sup>MJRA</sup> || [Garde du corps](./Garde du corps.md) || Subir les dégâts d’une attaque réussie contre un allié adjacent
+| &emsp;&emsp;[[Interception de coups]]* || <sup>MJRA</sup> || [[Garde du corps]] || Subir les dégâts d’une attaque réussie contre un allié adjacent
 |-
-| &emsp;[Patrouille en combat](./Patrouille en combat.md)* || <sup>MJRA</sup> || [Attaques réflexes](./Attaques réflexes.md), [Souplesse du serpent](./Souplesse du serpent.md), [BBA](./BBA.md) +5 || Augmente la zone contrôlée pour les [attaques d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Patrouille en combat]]* || <sup>MJRA</sup> || [[Attaques réflexes]], [[Souplesse du serpent]], [[BBA]] +5 || Augmente la zone contrôlée pour les [[attaque dopportunité|attaques d’opportunité]]
 |-
-| &emsp;[Immobiliser](./Immobiliser.md)* || <sup>MJ</sup> || [Attaques réflexes](./Attaques réflexes.md) || Empêche les ennemis de dépasser le personnage
+| &emsp;[[Immobiliser]]* || <sup>MJ</sup> || [[Attaques réflexes]] || Empêche les ennemis de dépasser le personnage
 
 |- CLASS="premier"
-| [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) || <sup>B1</sup> || Posséder une attaque spéciale || Le [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) contre cette attaque augmente de +2
+| [[Attaque spéciale renforcée]] || <sup>B1</sup> || Posséder une attaque spéciale || Le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] contre cette attaque augmente de +2
 
 |- CLASS="premier"
-| [Attrait de la vie](./Attrait de la vie.md) || <sup>AM</sup> || Canalisation d’énergie positive || Canalise l’énergie positive pour fasciner les morts-vivants
+| [[Attrait de la vie]] || <sup>AM</sup> || Canalisation d’énergie positive || Canalise l’énergie positive pour fasciner les morts-vivants
 
 |- CLASS="premier"
-| [Aura de fléau des dragons](./Aura de fléau des dragons.md) || <sup>AM</sup> || Pouvoir de classe [aura de bravoure](./aura de bravoure.md), lanceur de sorts niveau 8 || L’aura de bravoure s’étend et accorde une protection contre le souffle des dragons
+| [[Aura de fléau des dragons]] || <sup>AM</sup> || Pouvoir de classe [[aura de bravoure]], lanceur de sorts niveau 8 || L’aura de bravoure s’étend et accorde une protection contre le souffle des dragons
 
 |- CLASS="premier"
-| [Aura d’intrépidité](./Aura dintrépidité.md) || <sup>AM</sup> || pouvoir de classe [aura de bravoure](./aura de bravoure.md), lanceur de sorts niveau 8 || L'aura de bravoure s'étend et accorde une immunité à la peur aux alliés du personnage
+| [[Aura dintrépidité|Aura d’intrépidité]] || <sup>AM</sup> || pouvoir de classe [[aura de bravoure]], lanceur de sorts niveau 8 || L'aura de bravoure s'étend et accorde une immunité à la peur aux alliés du personnage
 |- CLASS="premier"
-| [Bénédiction accélérée](./Bénédiction accélérée.md) || <sup>MCA</sup> || Accès au pouvoir majeur de [bénédictions](./Bénédictions.md), pouvoir de classe [bénédictions](./Bénédictions.md) || Le personnage choisit une bénédiction et en dépense deux utilisations pour l’utiliser par une [action rapide](./Action rapide.md)
+| [[Bénédiction accélérée]] || <sup>MCA</sup> || Accès au pouvoir majeur de [[bénédictions]], pouvoir de classe [[bénédictions]] || Le personnage choisit une bénédiction et en dépense deux utilisations pour l’utiliser par une [[action rapide]]
 |- CLASS="premier"
-| [Bénédiction canalisée](./Bénédiction canalisée.md) || <sup>MCA</sup> || Pouvoir de classe [bénédictions](./Bénédictions.md), pouvoir de classe [canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) || Le personnage octroie une bénédiction à un allié quand il canalise l’énergie
+| [[Bénédiction canalisée]] || <sup>MCA</sup> || Pouvoir de classe [[bénédictions]], pouvoir de classe [[prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] || Le personnage octroie une bénédiction à un allié quand il canalise l’énergie
 |- CLASS="premier"
-| [Bénédiction de guerre](./Bénédiction de guerre.md) || <sup>MCA</sup> || Pouvoir de classe [mystère](./Oracle.md#MYSTERE) ou [domaine](./Prêtre.md#DOMAINES) || Gain d’une utilisation mineure du pouvoir de classe bénédictions
+| [[Bénédiction de guerre]] || <sup>MCA</sup> || Pouvoir de classe [[oracle#MYSTERE|mystère]] ou [[prêtre#DOMAINES|domaine]] || Gain d’une utilisation mineure du pouvoir de classe bénédictions
 
 |- CLASS="premier"
-| [Bien préparé](./Bien préparé.md) || <sup>MJRA</sup> || [Halfelin](./Halfelin.md) || Le personnage possède toute une séries d’objets communs
+| [[Bien préparé]] || <sup>MJRA</sup> || [[Halfelin]] || Le personnage possède toute une séries d’objets communs
 
 |- CLASS="premier"
-| [Bienfait du croyant](./Bienfait du croyant.md) || <sup>MCA</sup> || [Sag](./Sagesse.md) 13, l’alignement du personnage doit présenter un écart maximal d’un cran avec celui de sa divinité || Gain d’une utilisation d’un pouvoir de domaine de prêtre de niveau 1
+| [[Bienfait du croyant]] || <sup>MCA</sup> || [[Sagesse|Sag]] 13, l’alignement du personnage doit présenter un écart maximal d’un cran avec celui de sa divinité || Gain d’une utilisation d’un pouvoir de domaine de prêtre de niveau 1
 |-
-| &emsp;[Mains du croyant](./Mains du croyant.md) || <sup>MCA</sup> || [Bienfait du croyant](./Bienfait du croyant.md), le personnage doit être Loyal Bon || [imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) une fois par jour
+| &emsp;[[Mains du croyant]] || <sup>MCA</sup> || [[Bienfait du croyant]], le personnage doit être Loyal Bon || [[Paladin#IMPOSITIONDESMAINS|imposition des mains]] une fois par jour
 
 |- CLASS="premier"
-| [Bluff magique](./Bluff magique.md) || <sup>AM</sup> || 5 rangs en [Bluff](./Bluff.md) et en [Art de la magie](./Art de la magie.md) || Le personnage bluffe les autres lanceurs de sorts, ce qui augmente le [DD](./DD.md) pour identifier ses sorts
+| [[Bluff magique]] || <sup>AM</sup> || 5 rangs en [[Bluff]] et en [[Art de la magie]] || Le personnage bluffe les autres lanceurs de sorts, ce qui augmente le [[DD]] pour identifier ses sorts
 
 |- CLASS="premier"
-| [Bombes supplémentaires](./Bombes supplémentaires.md) || <sup>MJRA</sup> || Aptitude de classe de bombes || Lancer deux bombes supplémentaires par jour
+| [[Bombes supplémentaires]] || <sup>MJRA</sup> || Aptitude de classe de bombes || Lancer deux bombes supplémentaires par jour
 
 |- CLASS="premier"
-| [Bombe télécommandée](./Bombe télécommandée.md) || <sup>AM</sup> || [Bombe à retardement](./bombe à retardement (découverte).md) || Augmente le délai des bombes et permet au personnage de les déclencher à distance
+| [[Bombe télécommandée]] || <sup>AM</sup> || [[bombe à retardement (découverte)|Bombe à retardement]] || Augmente le délai des bombes et permet au personnage de les déclencher à distance
 |- CLASS="premier"
-| [Boucherie impitoyable](./Boucherie impitoyable.md)* || <sup>MCA</sup> || [Coup de grâce du lâche (coup odieux)](./Coup odieux.md), [attaque sournoise](./Tueur.md#ATTAQUESOURNOISE) +5d6, pouvoir de classe [cible étudiée](./Tueur.md#CIBLEETUDIEE) || Par une [action simple](./Action simple.md), le personnage tente un [coup de grâce](./Coup de grâce.md) contre une cible étudiée qui est [recroquevillée](./Recroquevillé.md), [sans défense](./Sans défense.md) ou [étourdie](./Étourdi.md)
+| [[Boucherie impitoyable]]* || <sup>MCA</sup> || [[Coup odieux|Coup de grâce du lâche (coup odieux)]], [[Tueur#ATTAQUESOURNOISE|attaque sournoise]] +5d6, pouvoir de classe [[Tueur#CIBLEETUDIEE|cible étudiée]] || Par une [[action simple]], le personnage tente un [[coup de grâce]] contre une cible étudiée qui est [[recroquevillé|recroquevillée]], [[sans défense]] ou [[étourdi|étourdie]]
 
 |- CLASS="premier"
-| [Bouclier magique](./Bouclier magique.md) || <sup>MJRA</sup> || Lanceur de sorts profanes, [NLS](./NLS.md) 10 || Sacrifier un sort, gagner un bonus de parade à la [CA](./CA.md)
+| [[Bouclier magique]] || <sup>MJRA</sup> || Lanceur de sorts profanes, [[NLS]] 10 || Sacrifier un sort, gagner un bonus de parade à la [[CA]]
 
 |- CLASS="premier"
-| [Boyaux d'acier](./Boyaux dacier.md) || <sup>MJRA</sup> || [Con](./Constitution.md) 13, [demi-orque](./Demi-orque.md), [nain](./Nain.md) ou [orque](./Orque.md) || +2 aux Jets de sauvegarde contre les états [nauséeux](./Nauséeux.md) et [fiévreux](./Fiévreux.md) et les [poisons](./poison.md) ingérés
+| [[Boyaux dacier|Boyaux d'acier]] || <sup>MJRA</sup> || [[Constitution|Con]] 13, [[demi-orque]], [[nain]] ou [[orque]] || +2 aux Jets de sauvegarde contre les états [[nauséeux]] et [[fiévreux]] et les [[poison|poisons]] ingérés
 |- CLASS="premier"
-| [Bretteur amateur](./Bretteur amateur.md)* || <sup>MCA</sup> || Aucun niveau dans des classes possédant [panache](./Bretteur.md#PANACHE) || Le personnage gagne une réserve de [panache](./Bretteur.md#PANACHE) mineure à utiliser pour un [exploit](./Exploits (bretteur).md) de [bretteur](./Bretteur.md) de niveau 1 de son choix
+| [[Bretteur amateur]]* || <sup>MCA</sup> || Aucun niveau dans des classes possédant [[bretteur#PANACHE|panache]] || Le personnage gagne une réserve de [[bretteur#PANACHE|panache]] mineure à utiliser pour un [[Exploits (bretteur)|exploit]] de [[bretteur]] de niveau 1 de son choix
 
 |- CLASS="premier"
-| [Briser la tenaille](./Briser la tenaille.md)* || <sup>AG</sup> || – || Quand le personnage frappe un ennemi, il perd son bonus de prise en tenaille contre lui
+| [[Briser la tenaille]]* || <sup>AG</sup> || – || Quand le personnage frappe un ennemi, il perd son bonus de prise en tenaille contre lui
 
 |- CLASS="premier"
-| [Briser le masque mental](./Briser le masque mental.md)* || <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques ou à utiliser des pouvoirs magiques psychiques, personnage niveau 2 || Les manifestations offensives avec un jet de Volonté révèlent la véritable forme de l’adversaire
+| [[Briser le masque mental]]* || <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou à utiliser des pouvoirs magiques psychiques, personnage niveau 2 || Les manifestations offensives avec un jet de Volonté révèlent la véritable forme de l’adversaire
 
 |- CLASS="premier"
-| [Camouflage au sol](./Camouflage au sol.md) || <sup>RTT</sup> || - || Augmente le [DD](./DD.md) de [Perception](./Perception.md) lorsque le personnage est couché.
+| [[Camouflage au sol]] || <sup>RTT</sup> || - || Augmente le [[DD]] de [[Perception]] lorsque le personnage est couché.
 
 |- CLASS="premier"
-| [Canal d’énergie](./Canal dénergie.md) || <sup>MCA</sup> || Pouvoir de classe [canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) ; bénédiction ou [domaine de l’Air](./Domaine de lAir.md), [de la Terre](./Domaine de la Terre.md), [du Feu](./Domaine du Feu.md) ou [de l’Eau](./Domaine de lEau.md) || Dépense une canalisation d’énergie pour infliger des dégâts d’énergie supplémentaires avec les attaques armées
+| [[Canal dénergie|Canal d’énergie]] || <sup>MCA</sup> || Pouvoir de classe [[prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] ; bénédiction ou [[Domaine de lAir|domaine de l’Air]], [[Domaine de la Terre|de la Terre]], [[Domaine du Feu|du Feu]] ou [[Domaine de lEau|de l’Eau]] || Dépense une canalisation d’énergie pour infliger des dégâts d’énergie supplémentaires avec les attaques armées
 
 |- CLASS="premier"
-| [Canalisateur polyvalent](./Canalisateur polyvalent.md) || <sup>AM</sup> || [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE), nécromancien ou prêtre Neutre || Canalise de l’énergie positive et négative
+| [[Canalisateur polyvalent]] || <sup>AM</sup> || [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]], nécromancien ou prêtre Neutre || Canalise de l’énergie positive et négative
 
 |- CLASS="premier"
-| [Canalisation alignée](./Canalisation alignée.md) || <sup>MJ</sup> || Capacité de classe à [canaliser de l’énergie](./canalisation.md) || Canalise de l’énergie divine pour soigner ou blesser des extérieurs
+| [[Canalisation alignée]] || <sup>MJ</sup> || Capacité de classe à [[canalisation|canaliser de l’énergie]] || Canalise de l’énergie divine pour soigner ou blesser des extérieurs
 
 |- CLASS="premier"
-| [Canalisation agressive](./Canalisation agressive.md) || <sup>AG</sup> || [Canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE), [inquisiteur](./Inquisiteur.md) de niveau 1 || Les niveaux d’[inquisiteur](./Inquisiteur.md) comptent comme des niveaux de [prêtre](./Prêtre.md) pour les dégâts de [canalisation](./Prêtre.md#CANALISATIONDENERGIE)
+| [[Canalisation agressive]] || <sup>AG</sup> || [[Prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]], [[inquisiteur]] de niveau 1 || Les niveaux d’[[inquisiteur]] comptent comme des niveaux de [[prêtre]] pour les dégâts de [[Prêtre#CANALISATIONDENERGIE|canalisation]]
 
 |- CLASS="premier"
-| [Canalisation armée](./Canalisation armée.md)* || <sup>MCA</sup> || Capacité à lancer un sort de force, pouvoir de classe [canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) || Le personnage dépense une canalisation d’énergie pour infliger des dégâts de force supplémentaires avec ses attaques armées
+| [[Canalisation armée]]* || <sup>MCA</sup> || Capacité à lancer un sort de force, pouvoir de classe [[prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] || Le personnage dépense une canalisation d’énergie pour infliger des dégâts de force supplémentaires avec ses attaques armées
 
 |- CLASS="premier"
-| [Canalisation élémentaire](./Canalisation élémentaire.md) || <sup>MJ</sup> || Capacité de classe à [canaliser de l’énergie](./canalisation.md) || L’énergie canalisée soigne ou blesse les élémentaires
+| [[Canalisation élémentaire]] || <sup>MJ</sup> || Capacité de classe à [[canalisation|canaliser de l’énergie]] || L’énergie canalisée soigne ou blesse les élémentaires
 
 |- CLASS="premier"
-| [Canalisation rapide](./Canalisation rapide.md) || <sup>AM</sup> || 5 rangs en [Connaissances](./Connaissances.md) (religion), [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) || Accélération de la canalisation d’énergie en dépensant plus d’utilisations
+| [[Canalisation rapide]] || <sup>AM</sup> || 5 rangs en [[Connaissances]] (religion), [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] || Accélération de la canalisation d’énergie en dépensant plus d’utilisations
 |-
-| &emsp;[Guérison réactive](./Guérison réactive.md) || <sup>MCA</sup> || [Canalisation rapide](./Canalisation rapide.md) ou [Incantation rapide](./Incantation rapide.md) ; pouvoir de classe [canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) ou [imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) || Quand le personnage est réduit à 0 point de vie ou moins, il utilise canalisation d’énergie ou imposition des mains pour se soigner par une [action immédiate](./Action immédiate.md)
+| &emsp;[[Guérison réactive]] || <sup>MCA</sup> || [[Canalisation rapide]] ou [[Incantation rapide]] ; pouvoir de classe [[prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] ou [[paladin#IMPOSITIONDESMAINS|imposition des mains]] || Quand le personnage est réduit à 0 point de vie ou moins, il utilise canalisation d’énergie ou imposition des mains pour se soigner par une [[action immédiate]]
 
 |- CLASS="premier"
-| [Canalisation sélective](./Canalisation sélective.md) || <sup>MJ</sup> || [Cha](./Charisme.md) 13, capacité à [canaliser de l’énergie](./canalisation.md) || Le personnage choisit qui sera affecté par sa canalisation d’énergie
+| [[Canalisation sélective]] || <sup>MJ</sup> || [[Charisme|Cha]] 13, capacité à [[canalisation|canaliser de l’énergie]] || Le personnage choisit qui sera affecté par sa canalisation d’énergie
 
 |- CLASS="premier"
-| [Canalisation supplémentaire](./Canalisation supplémentaire.md) || <sup>MJ</sup> || Capacité à [canaliser de l’énergie](./canalisation.md) || Deux canalisations d’énergie supplémentaires/jour
+| [[Canalisation supplémentaire]] || <sup>MJ</sup> || Capacité à [[canalisation|canaliser de l’énergie]] || Deux canalisations d’énergie supplémentaires/jour
 
 |- CLASS="premier"
-| [Capture](./Capture.md) || <sup>B1</sup> || être de taille TG ou + || Capacité d'[étreinte](./Étreinte.md) et de projection
+| [[Capture]] || <sup>B1</sup> || être de taille TG ou + || Capacité d'[[étreinte]] et de projection
 
 |- CLASS="premier"
-| [Champion expérimenté](./Champion expérimenté.md) || <sup>AG</sup> || [Châtiment du mal](./Paladin.md#CHATIMENTDUMAL), [BBA](./BBA.md) +5 || Échange des dégâts de [châtiment du mal](./Paladin.md#CHATIMENTDUMAL) contre un bonus aux tests de [manœuvres offensives](./Manœuvres offensives.md)
+| [[Champion expérimenté]] || <sup>AG</sup> || [[Paladin#CHATIMENTDUMAL|Châtiment du mal]], [[BBA]] +5 || Échange des dégâts de [[Paladin#CHATIMENTDUMAL|châtiment du mal]] contre un bonus aux tests de [[Manœuvres offensives]]
 
 |- CLASS="premier"
-| [Changement de focalisation efficace](./Changement de focalisation efficace.md) || <sup>AO</sup> || [Occultiste](./Occultiste.md) niveau 7 || Changement de point de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) sans aucune perte 2/jour
+| [[Changement de focalisation efficace]] || <sup>AO</sup> || [[Occultiste]] niveau 7 || Changement de point de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] sans aucune perte 2/jour
 
 |- CLASS="premier"
-| [Changement rapide de focalisation](./Changement rapide de focalisation.md) || <sup>AO</sup> || [NLS](./NLS.md) 5, pouvoir de classe [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) || Changement de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) plus rapide 1/jour
+| [[Changement rapide de focalisation]] || <sup>AO</sup> || [[NLS]] 5, pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] || Changement de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] plus rapide 1/jour
 
 |- CLASS="premier"
-| [Chantesort](./../Aventures/Chantesort.md) || <sup>AM</sup> || [Cha](./Charisme.md) 13, [représentation bardique](./représentation bardique.md), capacité à lancer des sorts de niveau 1 || Mêle les incantations et la représentation bardique
+| [[Chantesort]] || <sup>AM</sup> || [[Charisme|Cha]] 13, [[représentation bardique]], capacité à lancer des sorts de niveau 1 || Mêle les incantations et la représentation bardique
 
 |- CLASS="premier"
-| [Chanteur de guerre](./Chanteur de guerre.md) || <sup>MJRA</sup> || [Cha](./Charisme.md) 13, [représentation bardique](./représentation bardique.md), [demi-orque](./Demi-orque.md) ou [orque](./Orque.md) || Améliore les représentations sur les champs de bataille et contre les [orques](./Orque.md)
+| [[Chanteur de guerre]] || <sup>MJRA</sup> || [[Charisme|Cha]] 13, [[représentation bardique]], [[demi-orque]] ou [[orque]] || Améliore les représentations sur les champs de bataille et contre les [[orque|orques]]
 |-
-| [Chanteur de la nature](./Chanteur de la nature.md) || <sup>MJRA</sup> || [Cha](./Charisme.md) 13, [représentation bardique](./représentation bardique.md), [demi-elfe](./Demi-elfe.md) ou [elfe](./Elfe.md) || Améliore les représentations en forêt et contre les [fées](./type Fée.md)
+| [[Chanteur de la nature]] || <sup>MJRA</sup> || [[Charisme|Cha]] 13, [[représentation bardique]], [[demi-elfe]] ou [[elfe]] || Améliore les représentations en forêt et contre les [[type Fée|fées]]
 |-
-| [Chanteur des roches](./Chanteur des roches.md) || <sup>MJRA</sup> || [Cha](./Charisme.md) 13, [représentation bardique](./représentation bardique.md), [nain](./Nain.md) || Améliore les représentations en sous-sol et contre les créatures de la terre
+| [[Chanteur des roches]] || <sup>MJRA</sup> || [[Charisme|Cha]] 13, [[représentation bardique]], [[nain]] || Améliore les représentations en sous-sol et contre les créatures de la terre
 
 |- CLASS="premier"
-| [Charge explosive](./Charge explosive.md) || <sup>MCA</sup> || [BBA](./BBA.md) +7, capacité à lancer des sorts de [sanguin](./Sanguin.md) de niveau 2, pouvoir de classe rage sanguine || Le personnage dépense un [emplacement de sort](./emplacement de sort.md) de sanguin lorsqu’il est en [rage sanguine](./Sanguin.md#RAGESANGUINE) pour ajouter des dégâts de force à son attaque de [charge](./charge.md)
+| [[Charge explosive]] || <sup>MCA</sup> || [[BBA]] +7, capacité à lancer des sorts de [[sanguin]] de niveau 2, pouvoir de classe rage sanguine || Le personnage dépense un [[emplacement de sort]] de sanguin lorsqu’il est en [[Sanguin#RAGESANGUINE|rage sanguine]] pour ajouter des dégâts de force à son attaque de [[charge]]
 
 |- CLASS="premier"
-| [Châtiment canalisé](./Châtiment canalisé.md)* || <sup>MJ</sup> || Capacité de classe à [canaliser de l’énergie](./canalisation.md) || Canalisation d’énergie à travers une attaque
+| [[Châtiment canalisé]]* || <sup>MJ</sup> || Capacité de classe à [[canalisation|canaliser de l’énergie]] || Canalisation d’énergie à travers une attaque
 |-
-| &emsp;[Châtiment canalisé supérieur](./Châtiment canalisé supérieur.md) || <sup>AG</sup> || [Châtiment canalisé](./Châtiment canalisé.md), [BBA](./BBA.md) +6 || Échange une [canalisation d’énergie positive](./Prêtre.md#CANALISATIONDENERGIE) contre des dés de dégâts
+| &emsp;[[Châtiment canalisé supérieur]] || <sup>AG</sup> || [[Châtiment canalisé]], [[BBA]] +6 || Échange une [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie positive]] contre des dés de dégâts
 
 |- CLASS="premier"
-| [Charge radieuse](./Charge radieuse.md) || <sup>AM</sup> || [imposition des mains](./Imposition des mains.md) || Dépense des utilisations restantes de l’imposition des mains pour infliger des dégâts supplémentaires qui ignorent les résistances et les immunités des créatures mauvaises
+| [[Charge radieuse]] || <sup>AM</sup> || [[imposition des mains]] || Dépense des utilisations restantes de l’imposition des mains pour infliger des dégâts supplémentaires qui ignorent les résistances et les immunités des créatures mauvaises
 
 |- CLASS="premier"
-| [Chasseur métamorphe](./Chasseur métamorphe.md) || <sup>AG</sup> || [Ennemi juré](./ennemi juré.md), [forme animale](./Druide.md#FORMEANIMALE) || Le personnage ajoute ses niveaux de [druide](./Druide.md) et de [rôdeur](./Rôdeur.md) vis-à-vis de ses ennemis jurés
+| [[Chasseur métamorphe]] || <sup>AG</sup> || [[Ennemi juré]], [[Druide#FORMEANIMALE|forme animale]] || Le personnage ajoute ses niveaux de [[druide]] et de [[rôdeur]] vis-à-vis de ses ennemis jurés
 
 |- CLASS="premier"
-| [Chute ralentie](./Chute ralentie.md) || <sup>MCA</sup> || 5 rangs en [Acrobaties](./Acrobaties.md) ou pouvoir de classe chute ralentie || Le personnage gagne ou améliore son pouvoir de chute ralentie
+| [[Chute ralentie]] || <sup>MCA</sup> || 5 rangs en [[Acrobaties]] ou pouvoir de classe chute ralentie || Le personnage gagne ou améliore son pouvoir de chute ralentie
 
 |- CLASS="premier"
-| [Cœur de vermine](./Cœur de vermine.md) || <sup>MJRA</sup> || Aptitude de classe d’[empathie sauvage](./empathie sauvage.md) || Cibler les [vermines](./type Vermine.md) avec des sorts comme si elles étaient des [animaux](./type Animal.md)
+| [[Cœur de vermine]] || <sup>MJRA</sup> || Aptitude de classe d’[[empathie sauvage]] || Cibler les [[type Vermine|vermines]] avec des sorts comme si elles étaient des [[type Animal|animaux]]
 
 |- CLASS="premier"
-| [Coeur vaillant](./Coeur vaillant.md) || <sup>MCA</sup> || Pouvoir de classe [Scalde#CHANTDERAGE#chant de rage](./Scalde.md#CHANTDERAGE#chant de rage) || Utilisation du chant de rage pour relancer les jets de sauvegarde ratés contre les effets de terreur
+| [[Coeur vaillant]] || <sup>MCA</sup> || Pouvoir de classe [[Scalde#CHANTDERAGE#chant de rage]] || Utilisation du chant de rage pour relancer les jets de sauvegarde ratés contre les effets de terreur
 
 |- CLASS="premier"
-| [Collectionneur planaire](./Collectionneur planaire.md) || <sup>AM</sup> || Alchimiste[Collectionneur](./Collectionneur (alchimiste).md) || À chaque fois que le personnage apprend un extrait de *[convocation d’alliés naturels](./Convocation dalliés naturels I.md)*, il apprend l’extrait de *[convocation de monstres](./Convocation de monstres I.md)* équivalent
+| [[Collectionneur planaire]] || <sup>AM</sup> || Alchimiste[[Collectionneur (alchimiste)|Collectionneur]] || À chaque fois que le personnage apprend un extrait de *[[convocation dalliés naturels I|convocation d’alliés naturels]]*, il apprend l’extrait de *[[convocation de monstres I|convocation de monstres]]* équivalent
 
 |- CLASS="premier"
-| [Combat à deux armes](./Combat à deux armes.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 15 || Réduit les malus du [combat à deux armes](./Actions spéciales.md#COMBAT2ARMES)
+| [[Combat à deux armes]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 15 || Réduit les malus du [[Actions spéciales#COMBAT2ARMES|combat à deux armes]]
 |-
-| &emsp;[Double frappe](./Double frappe.md)* || <sup>MJ</sup> || [Combat à deux armes](./Combat à deux armes.md) || Ajoute le bonus de [For](./Force.md) aux dégâts de l’arme de la main non directrice
+| &emsp;[[Double frappe]]* || <sup>MJ</sup> || [[Combat à deux armes]] || Ajoute le bonus de [[Force|For]] aux dégâts de l’arme de la main non directrice
 |-
-| &emsp;&emsp;[Éventration à deux armes](./Éventration à deux armes.md)* || <sup>MJ</sup> || [Double frappe](./Double frappe.md), [BBA](./BBA.md) +11,   
-[Science du combat à deux armes](./Science du combat à deux armes.md) || Éventre un adversaire en utilisant deux armes
+| &emsp;&emsp;[[Éventration à deux armes]]* || <sup>MJ</sup> || [[Double frappe]], [[BBA]] +11,   
+[[Science du combat à deux armes]] || Éventre un adversaire en utilisant deux armes
 |-
-| &emsp;[Double tueur](./Double tueur.md) || <sup>AG</sup> || [Tueur](./Inquisiteur.md#TUEUR), [Combat à deux armes](./Combat à deux armes.md) || Applique [tueur](./Inquisiteur.md#TUEUR) sur la seconde arme du personnage
+| &emsp;[[Double tueur]] || <sup>AG</sup> || [[Inquisiteur#TUEUR|Tueur]], [[Combat à deux armes]] || Applique [[Inquisiteur#TUEUR|tueur]] sur la seconde arme du personnage
 |-
-| &emsp;[Enchantement dual](./Enchantement dual.md) || <sup>MCA</sup> || [Combat à deux armes](./Combat à deux armes.md) ; pouvoir de classe [pacte divin](./Paladin.md#PACTEDIVIN) (arme) ou [Prêtre combattant#ARMESACREE|arme sacrée] || Le personnage imprègne deux armes de son pouvoir de pacte divin ou d’arme sacrée au lieu d’une seule
+| &emsp;[[Enchantement dual]] || <sup>MCA</sup> || [[Combat à deux armes]] ; pouvoir de classe [[paladin#PACTEDIVIN|pacte divin]] (arme) ou [[Prêtre combattant#ARMESACREE|arme sacrée]] || Le personnage imprègne deux armes de son pouvoir de pacte divin ou d’arme sacrée au lieu d’une seule
 |-
-| &emsp;[Feinte à deux armes](./Feinte à deux armes.md)* || <sup>AG</sup> || [Expertise du combat](./Expertise du combat.md), [Combat à deux armes](./Combat à deux armes.md) || Remplace la première attaque de corps à corps par une feinte
+| &emsp;[[Feinte à deux armes]]* || <sup>AG</sup> || [[Expertise du combat]], [[Combat à deux armes]] || Remplace la première attaque de corps à corps par une feinte
 |-
-| &emsp;[Science du combat à deux armes](./Science du combat à deux armes.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 17, [Combat à deux armes](./Combat à deux armes.md), [BBA](./BBA.md) +6 || Attaque supplémentaire avec l’arme secondaire
+| &emsp;[[Science du combat à deux armes]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 17, [[Combat à deux armes]], [[BBA]] +6 || Attaque supplémentaire avec l’arme secondaire
 |-
-| &emsp;&emsp;[Combat à deux armes supérieur](./Combat à deux armes supérieur.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 19, [Science du combat à deux armes](./Science du combat à deux armes.md), [BBA](./BBA.md) +11 || Troisième attaque avec l’arme secondaire
+| &emsp;&emsp;[[Combat à deux armes supérieur]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 19, [[Science du combat à deux armes]], [[BBA]] +11 || Troisième attaque avec l’arme secondaire
 |-
-| &emsp;&emsp;[Science de la feinte à deux armes](./Science de la feinte à deux armes.md)* || <sup>AG</sup> || [Expertise du combat](./Expertise du combat.md), [Science du combat à deux armes](./Science du combat à deux armes.md) || Test de [Bluff](./Bluff.md) à la place de la première attaque
+| &emsp;&emsp;[[Science de la feinte à deux armes]]* || <sup>AG</sup> || [[Expertise du combat]], [[Science du combat à deux armes]] || Test de [[Bluff]] à la place de la première attaque
 |-
-| &emsp;[Défense à deux armes](./Défense à deux armes.md)* || <sup>MJ</sup> || [Combat à deux armes](./Combat à deux armes.md) || Bonus de bouclier de +1 quand le personnage [combat à deux armes](./Actions spéciales.md#COMBAT2ARMES)
+| &emsp;[[Défense à deux armes]]* || <sup>MJ</sup> || [[Combat à deux armes]] || Bonus de bouclier de +1 quand le personnage [[Actions spéciales#COMBAT2ARMES|combat à deux armes]]
 
 |- CLASS="premier"
-| [Combat à plusieurs armes](./Combat à plusieurs armes.md)* || <sup>B1</sup> || [Dex](./Dextérité.md) 13, posséder trois mains ou plus || Réduction des malus en cas de combat avec plusieurs armes
+| [[Combat à plusieurs armes]]* || <sup>B1</sup> || [[Dextérité|Dex]] 13, posséder trois mains ou plus || Réduction des malus en cas de combat avec plusieurs armes
 
 |- CLASS="premier"
-| [Combat en aveugle](./Combat en aveugle.md)* || <sup>MJ</sup> || — || Relancer les dés pour les attaques ratées à cause du [camouflage](./camouflage.md)
+| [[Combat en aveugle]]* || <sup>MJ</sup> || — || Relancer les dés pour les attaques ratées à cause du [[camouflage]]
 |-
-| &emsp;[Science du combat en aveugle](./Science du combat en aveugle.md)* || <sup>MJRA</sup> || [Combat en aveugle](./Combat en aveugle.md), [Perception](./Perception.md) 10 rangs || Ignore les pourcentages d’échec pour les [camouflages](./camouflage.md) non totaux
+| &emsp;[[Science du combat en aveugle]]* || <sup>MJRA</sup> || [[Combat en aveugle]], [[Perception]] 10 rangs || Ignore les pourcentages d’échec pour les [[camouflage|camouflages]] non totaux
 |-
-| &emsp;&emsp;[Maîtrise du combat en aveugle](./Maîtrise du combat en aveugle.md)* || <sup>MJRA</sup> || [Science du combat en aveugle](./Science du combat en aveugle.md), [Perception](./Perception.md) 15 rangs || Traiter le camouflage total comme un [camouflage](./camouflage.md) partiel
+| &emsp;&emsp;[[Maîtrise du combat en aveugle]]* || <sup>MJRA</sup> || [[Science du combat en aveugle]], [[Perception]] 15 rangs || Traiter le camouflage total comme un [[camouflage]] partiel
 
 |- CLASS="premier"
-| [Combat monté](./Combat monté.md)* || <sup>MJ</sup> || 1 [rang](./rang.md) en [Équitation](./Équitation.md) || Test d’[Équitation](./Équitation.md) pour éviter les attaques quand le personnage est [monté](./Actions spéciales.md#COMBATMONTE)
+| [[Combat monté]]* || <sup>MJ</sup> || 1 [[rang]] en [[Équitation]] || Test d’[[Équitation]] pour éviter les attaques quand le personnage est [[Actions spéciales#COMBATMONTE|monté]]
 |-
-| &emsp;[Astuce d’équitation](./Astuce déquitation.md)* || <sup>MJRA</sup> || [Combat monté](./Combat monté.md), [Équitation](./Équitation.md) 9 rangs || Réussir automatiquement les tests d’[Équitation](./Équitation.md) simples
+| &emsp;[[Astuce déquitation|Astuce d’équitation]]* || <sup>MJRA</sup> || [[Combat monté]], [[Équitation]] 9 rangs || Réussir automatiquement les tests d’[[Équitation]] simples
 |-
-| &emsp;&emsp;[Tirailleur monté](./Tirailleur monté.md)* || <sup>MJRA</sup> || [Astuce d’équitation](./Astuce déquitation.md), [Équitation](./Équitation.md) 14 rangs || Effectuer une [attaque à outrance](./attaque à outrance.md) même si la monture se déplace à sa [VD](./VD.md)
+| &emsp;&emsp;[[Tirailleur monté]]* || <sup>MJRA</sup> || [[Astuce déquitation|Astuce d’équitation]], [[Équitation]] 14 rangs || Effectuer une [[attaque à outrance]] même si la monture se déplace à sa [[VD]]
 |-
-| &emsp;[Bouclier pour la monture](./Bouclier pour la monture.md)* || <sup>MJRA</sup> || [Combat monté](./Combat monté.md), [Art du bouclier](./Art du bouclier.md) || Appliquer le bonus de bouclier à la [CA](./CA.md) de la monture
+| &emsp;[[Bouclier pour la monture]]* || <sup>MJRA</sup> || [[Combat monté]], [[Art du bouclier]] || Appliquer le bonus de bouclier à la [[CA]] de la monture
 |-
-| &emsp;[Tir monté](./Tir monté.md)* || <sup>MJ</sup> || [Combat monté](./Combat monté.md) || Réduit de moitié le malus des attaques à distance pour un personnage [monté](./Actions spéciales.md#COMBATMONTE)
+| &emsp;[[Tir monté]]* || <sup>MJ</sup> || [[Combat monté]] || Réduit de moitié le malus des attaques à distance pour un personnage [[Actions spéciales#COMBATMONTE|monté]]
 |-
-| &emsp;[Attaque au galop](./Attaque au galop.md)* || <sup>MJ</sup> || [Combat monté](./Combat monté.md) || [Monté](./Actions spéciales.md#COMBATMONTE), le personnage se déplace avant et après une [charge](./charge.md)
+| &emsp;[[Attaque au galop]]* || <sup>MJ</sup> || [[Combat monté]] || [[Actions spéciales#COMBATMONTE|Monté]], le personnage se déplace avant et après une [[charge]]
 |-
-| &emsp;&emsp;[Charge dévastatrice](./Charge dévastatrice.md)* || <sup>MJ</sup> || [Attaque au galop](./Attaque au galop.md) || Double les dégâts d’une [charge](./charge.md)
+| &emsp;&emsp;[[Charge dévastatrice]]* || <sup>MJ</sup> || [[Attaque au galop]] || Double les dégâts d’une [[charge]]
 |-
-| &emsp;[Piétinement](./Piétinement.md)* || <sup>MJ</sup> || [Combat monté](./Combat monté.md) || [Monté](./Actions spéciales.md#COMBATMONTE), le personnage [renverse](./renversement.md) sa cible
+| &emsp;[[Piétinement]]* || <sup>MJ</sup> || [[Combat monté]] || [[Actions spéciales#COMBATMONTE|Monté]], le personnage [[renversement|renverse]] sa cible
 |-
-| &emsp;[Désarçonner](./Désarçonner.md)* || <sup>MJ</sup> || [Science de la bousculade](./Science de la bousculade.md), [Combat monté](./Combat monté.md) || Désarçonne les adversaires
+| &emsp;[[Désarçonner]]* || <sup>MJ</sup> || [[Science de la bousculade]], [[Combat monté]] || Désarçonne les adversaires
 
 |- CLASS="premier"
-| [Combattant de spectacle](./Combattant de spectacle.md)* || <sup>AG</sup> || [Démonstration](./Démonstration.md), un don de spectacle || Le personnage peut faire un test de [combat de spectacle](./Combat de spectacle.md) lors de n’importe quel combat
+| [[Combattant de spectacle]]* || <sup>AG</sup> || [[Démonstration]], un don de spectacle || Le personnage peut faire un test de [[combat de spectacle]] lors de n’importe quel combat
 |-
-| &emsp;[Maître du combat de spectacle](./Maître du combat de spectacle.md)* || <sup>AG</sup> || [Combattant de spectacle](./Combattant de spectacle.md) ou 3 dons de spectacle, BBA +6 || Le personnage fait un test de [combat de spectacle](./Combat de spectacle.md) par une [action libre](./Action libre.md)
+| &emsp;[[Maître du combat de spectacle]]* || <sup>AG</sup> || [[Combattant de spectacle]] ou 3 dons de spectacle, BBA +6 || Le personnage fait un test de [[combat de spectacle]] par une [[action libre]]
 
 |- CLASS="premier"
-| [Combattant psychique](./Combattant psychique.md)* || <sup>AO</sup> || [Int](./Intelligence.md) 13, [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques ou utiliser des pouvoirs magiques psychiques, personnage niveau 3 || Gain de points de manifestation gratuits lors des [duels psychiques](./Duels psychiques.md)
+| [[Combattant psychique]]* || <sup>AO</sup> || [[Intelligence|Int]] 13, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou utiliser des pouvoirs magiques psychiques, personnage niveau 3 || Gain de points de manifestation gratuits lors des [[duels psychiques]]
 
 |- CLASS="premier"
-| [Combattre au-delà de la mort](./Combattre au-delà de la mort.md) || <sup>MJRA</sup> || [Con](./Constitution.md) 13, [demi-orque](./Demi-orque.md), [nain](./Nain.md) ou [orque](./Orque.md) || Gagner des points de vie temporaires une fois réduit à 0 point de vie
+| [[Combattre au-delà de la mort]] || <sup>MJRA</sup> || [[Constitution|Con]] 13, [[demi-orque]], [[nain]] ou [[orque]] || Gagner des points de vie temporaires une fois réduit à 0 point de vie
 
 |- CLASS="premier"
-| [Compagnon évolué](./Compagnon évolué.md) || <sup>MCA</sup> || [Cha](./Charisme.md) 13, pouvoir de classe [compagnon animal](./compagnon animal.md) || Le compagnon gagne une [évolution](./évolutions.md) d’eidolon à 1 point
+| [[Compagnon évolué]] || <sup>MCA</sup> || [[Charisme|Cha]] 13, pouvoir de classe [[compagnon animal]] || Le compagnon gagne une [[évolutions|évolution]] d’eidolon à 1 point
 
 |- CLASS="premier"
-| [Concentration rageuse](./Concentration rageuse.md) || <sup>MCA</sup> || Pouvoir de classe [Incantation sanguine](./Sanguin.md#INCANTATIONSANGUINE) || Lorsqu’il est en rage sanguine, le personnage rajoute son bonus de [Constitution](./Constitution.md) aux tests de concentration
+| [[Concentration rageuse]] || <sup>MCA</sup> || Pouvoir de classe [[Sanguin#INCANTATIONSANGUINE|Incantation sanguine]] || Lorsqu’il est en rage sanguine, le personnage rajoute son bonus de [[Constitution]] aux tests de concentration
 
 |- CLASS="premier"
-| [Conducteur de talent](./Conducteur de talent.md) || <sup>AG</sup> || – || Bonus de +4 aux tests de conduite avec un véhicule
+| [[Conducteur de talent]] || <sup>AG</sup> || – || Bonus de +4 aux tests de conduite avec un véhicule
 |-
-| &emsp;[Conducteur expérimenté](./Conducteur expérimenté.md) || <sup>AG</sup> || [Conducteur de talent](./Conducteur de talent.md) || Le personnage manœuvre le véhicule du type choisi par des [actions de mouvement](./Action de mouvement.md) et peut s’arrêter net
+| &emsp;[[Conducteur expérimenté]] || <sup>AG</sup> || [[Conducteur de talent]] || Le personnage manœuvre le véhicule du type choisi par des [[Action de mouvement|actions de mouvement]] et peut s’arrêter net
 
 |- CLASS="premier"
-| [Conduit émotionnel](./Conduit émotionnel.md) || <sup>AO</sup> || Pouvoir de classe [partage de conscience](./Spirite.md#PARTAGEDECONSCIENCE) || Gain de nouveaux sorts en fonction de l’[émotion dominante du fantôme](./Fantômes (Spirite).md#EMOTIONDOMINANTE)
+| [[Conduit émotionnel]] || <sup>AO</sup> || Pouvoir de classe [[spirite#PARTAGEDECONSCIENCE|partage de conscience]] || Gain de nouveaux sorts en fonction de l’[[Fantômes (spirite)#EMOTIONDOMINANTE|émotion dominante du fantôme]]
 
 |- CLASS="premier"
-| [Connaissance supérieure de la pierre](./Connaissance supérieure de la pierre.md) || <sup>MJRA</sup> || [Sag](./Sagesse.md) 13, [nain](./Nain.md), trait racial Connaissance de la pierre || +4 aux tests de [Perception](./Perception.md) pour repérer les ouvrages de pierre inhabituels
+| [[Connaissance supérieure de la pierre]] || <sup>MJRA</sup> || [[Sagesse|Sag]] 13, [[nain]], trait racial Connaissance de la pierre || +4 aux tests de [[Perception]] pour repérer les ouvrages de pierre inhabituels
 |-
-| &emsp;[Perception via la pierre](./Perception via la pierre.md) || <sup>MJRA</sup> || [Connaissance de la pierre](./connaissance de la pierre.md), [Perception](./Perception.md) 10 rangs || Gagne la capacité de [perception des vibrations](./Perception des vibrations.md) à 3 mètres (2 {s:c})
+| &emsp;[[Perception via la pierre]] || <sup>MJRA</sup> || [[Connaissance de la pierre]], [[Perception]] 10 rangs || Gagne la capacité de [[perception des vibrations]] à 3 mètres (2 {s:c})
 
 |- CLASS="premier"
-| [Connaissances magiques étendues](./Connaissances magiques étendues.md) || <sup>MJRA</sup> || [NLS](./NLS.md) 1, voir don || Ajouter un ou deux sorts à la liste des sorts connus
+| [[Connaissances magiques étendues]] || <sup>MJRA</sup> || [[NLS]] 1, voir don || Ajouter un ou deux sorts à la liste des sorts connus
 
 |- CLASS="premier"
-| [Connaissances officieuses](./Connaissances officieuses.md) || <sup>AM</sup> || [Int](./Intelligence.md) 13, capacité à lancer des sorts de paladin niveau 1 || Ajoute des sorts à la liste de ceux du paladin
+| [[Connaissances officieuses]] || <sup>AM</sup> || [[Intelligence|Int]] 13, capacité à lancer des sorts de paladin niveau 1 || Ajoute des sorts à la liste de ceux du paladin
 
 |- CLASS="premier"
-| [Conseil de combat](./Conseil de combat.md) || <sup>RTT</sup> || - || +2 au prochain [jet dattaque](./jet dattaque.md) d’un allié sur un ennemi désigné
+| [[Conseil de combat]] || <sup>RTT</sup> || - || +2 au prochain [[jet dattaque]] d’un allié sur un ennemi désigné
 
 |- CLASS="premier"
-| [Contact magique bondissant](./Contact magique bondissant.md) || <sup>MCA</sup> || 6 rangs en [Art de la magie](./Art de la magie.md) || L’allonge des attaques des sorts de contact est augmentée de 1,50 m
+| [[Contact magique bondissant]] || <sup>MCA</sup> || 6 rangs en [[Art de la magie]] || L’allonge des attaques des sorts de contact est augmentée de 1,50 m
 
 |- CLASS="premier"
-| [Contrôle des morts-vivants](./Contrôle des morts-vivants.md) || <sup>MJ</sup> || Capacité à [canaliser de l’énergie négative](./canalisation.md) || Utilise l’énergie négative pour contrôler les morts-vivants
+| [[Contrôle des morts-vivants]] || <sup>MJ</sup> || Capacité à [[canalisation|canaliser de l’énergie négative]] || Utilise l’énergie négative pour contrôler les morts-vivants
 
 |- CLASS="premier"
-| [Convocation sacrée](./Convocation sacrée.md) || <sup>AM</sup>
-| Aura, capacité à lancer *[convocation de monstres](./Convocation de monstres I.md)*
-| Convoque des monstres dont le sous-type d’alignement correspond à celui du personnage par une [action simple](./Action simple.md)
+| [[Convocation sacrée]] || <sup>AM</sup>
+| Aura, capacité à lancer *[[convocation de monstres I|convocation de monstres]]*
+| Convoque des monstres dont le sous-type d’alignement correspond à celui du personnage par une [[action simple]]
 
 |-
-| [Convocations supplémentaires](./Convocations supplémentaires.md) || <sup>AM</sup> || Capacité à lancer *[convocation de monstres](./Convocation de monstres.md)* comme un pouvoir magique, [conjurateur](./Conjurateur.md) niveau 1 || Le personnage obtient une utilisation de convocation de monstres supplémentaire par jour
+| [[Convocations supplémentaires]] || <sup>AM</sup> || Capacité à lancer *[[convocation de monstres]]* comme un pouvoir magique, [[conjurateur]] niveau 1 || Le personnage obtient une utilisation de convocation de monstres supplémentaire par jour
 
 |- CLASS="premier"
-| [Cosmopolite](./Cosmopolite.md) || <sup>MJRA</sup> || — || Lire et parler deux langues de plus
+| [[Cosmopolite]] || <sup>MJRA</sup> || — || Lire et parler deux langues de plus
 
 |- CLASS="premier"
-| [Coup dans l’ombre](./Coup dans lombre.md)* || <sup>MJRA</sup> || [BBA](./BBA.md)+1 || Infliger des dégâts de précision même aux cibles camouflées
+| [[Coup dans lombre|Coup dans l’ombre]]* || <sup>MJRA</sup> || [[BBA]]+1 || Infliger des dégâts de précision même aux cibles camouflées
 
 |- CLASS="premier"
-| [Coup de grâce de l’enragé](./Coup de grâce de lenragé.md) || <sup>AG</sup> || [Rage de grand berserker](./Barbare.md#RAGEDEGRANDBERSERKER) || Éventre un adversaire agonisant et gagne un round de [rage](./Rage.md)
+| [[Coup de grâce de lenragé|Coup de grâce de l’enragé]] || <sup>AG</sup> || [[Barbare#RAGEDEGRANDBERSERKER|Rage de grand berserker]] || Éventre un adversaire agonisant et gagne un round de [[rage]]
 
 |- CLASS="premier"
-| [Coup final mortel](./Coup final mortel.md)* || <sup>AG</sup> || [BBA](./BBA.md) +11 || Les ennemis qui tombent doivent réussir un jet de [Vigueur](./Vigueur.md) ou mourir
+| [[Coup final mortel]]* || <sup>AG</sup> || [[BBA]] +11 || Les ennemis qui tombent doivent réussir un jet de [[Vigueur]] ou mourir
 
 |- CLASS="premier"
-| [Coup odieux](./Coup odieux.md)* || <sup>MJRA</sup> || [Attaque sournoise](./attaque sournoise.md) +5d6 || Délivrer un [coup de grâce](./Coup de grâce.md) à une cible recroquevillée ou [étourdie](./Étourdi.md)
+| [[Coup odieux]]* || <sup>MJRA</sup> || [[Attaque sournoise]] +5d6 || Délivrer un [[coup de grâce]] à une cible recroquevillée ou [[étourdi|étourdie]]
 
 |- CLASS="premier"
-| [Course](./Course.md) || <sup>MJ</sup> || — || Le personnage court à 5 fois sa vitesse de base
+| [[Course]] || <sup>MJ</sup> || — || Le personnage court à 5 fois sa vitesse de base
 
 |- CLASS="premier"
-| [Couteau de sorcière](./Couteau de sorcière.md) || <sup>AM</sup> || [sorcière](./Sorcière.md) || Utilise une dague comme focalisateur pour les sorts de protecteur
+| [[Couteau de sorcière]] || <sup>AM</sup> || [[sorcière]] || Utilise une dague comme focalisateur pour les sorts de protecteur
 
 |- CLASS="premier"
-| [Crâne allongé](./Crâne allongé.md) || <sup>AO</sup> || — || Bonus et malus en fonction de la forme de crâne choisie
+| [[Crâne allongé]] || <sup>AO</sup> || — || Bonus et malus en fonction de la forme de crâne choisie
 
 |- CLASS="premier"
-| [Création d'anneaux magiques](./Création danneaux magiques.md) || <sup>MJ</sup> || [NLS](./NLS.md) 7 || Le personnage peut créer des anneaux magiques
+| [[Création danneaux magiques|Création d'anneaux magiques]] || <sup>MJ</sup> || [[NLS]] 7 || Le personnage peut créer des anneaux magiques
 
 |- CLASS="premier"
-| [Création d’armes à feu](./Création darmes à feu.md) || <sup>AG</sup> || – || Peut créer, réparer et restaurer des armes à feu
+| [[Création darmes à feu|Création d’armes à feu]] || <sup>AG</sup> || – || Peut créer, réparer et restaurer des armes à feu
 
 |- CLASS="premier"
-| [Création d'armes et armures magiques](./Création darmes et armures magiques.md) || <sup>MJ</sup> || [NLS](./NLS.md) 5 || Le personnage sait fabriquer des armures, des boucliers et des armes magiques
+| [[Création darmes et armures magiques|Création d'armes et armures magiques]] || <sup>MJ</sup> || [[NLS]] 5 || Le personnage sait fabriquer des armures, des boucliers et des armes magiques
 |-
-| &emsp;[Création de créatures artificielles](./Création de créatures artificielles.md) || <sup>MJ</sup> || [Création d'armes et armures magiques](./Création darmes et armures magiques.md), [Création d'objets merveilleux](./Création dobjets merveilleux.md), [NLS](./NLS.md) 5 || Le personnage peut construire des créatures artificielles (des golems par exemple)
+| &emsp;[[Création de créatures artificielles]] || <sup>MJ</sup> || [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]], [[NLS]] 5 || Le personnage peut construire des créatures artificielles (des golems par exemple)
 |-
-| &emsp;[Création de reliques, armes ou boucliers](./Création de reliques, armes ou boucliers.md) || <sup>AM</sup> || [Création d'armes et armures magiques](./Création darmes et armures magiques.md), possibilité de lancer [sanctification](./Sanctification.md) ou [profanation](./Profanation.md) || Les créations magiques du personnage sont imprégnées de puissance divine
+| &emsp;[[Création de reliques, armes ou boucliers]] || <sup>AM</sup> || [[Création darmes et armures magiques|Création d'armes et armures magiques]], possibilité de lancer [[sanctification]] ou [[profanation]] || Les créations magiques du personnage sont imprégnées de puissance divine
 
 |- CLASS="premier"
-| [Création de baguettes magiques](./Création de baguettes magiques.md) || <sup>MJ</sup> || [NLS](./NLS.md) 5 || Le personnage sait fabriquer des baguettes magiques.
+| [[Création de baguettes magiques]] || <sup>MJ</sup> || [[NLS]] 5 || Le personnage sait fabriquer des baguettes magiques.
 
 |- CLASS="premier"
-| [Création de bâtons magiques](./Création de bâtons magiques.md) || <sup>MJ</sup> || [NLS](./NLS.md) 11 || Le personnage sait fabriquer des bâtons magiques.
+| [[Création de bâtons magiques]] || <sup>MJ</sup> || [[NLS]] 11 || Le personnage sait fabriquer des bâtons magiques.
 
 |- CLASS="premier"
-| [Création d'objets merveilleux](./Création dobjets merveilleux.md) || <sup>MJ</sup> || [NLS](./NLS.md) 3 || Le personnage peut fabriquer une grande variété d’objets merveilleux
+| [[Création dobjets merveilleux|Création d'objets merveilleux]] || <sup>MJ</sup> || [[NLS]] 3 || Le personnage peut fabriquer une grande variété d’objets merveilleux
 
 |- CLASS="premier"
-| [Création de sceptres magiques](./Création de sceptres magiques.md) || <sup>MJ</sup> || [NLS](./NLS.md) 9 || Le personnage sait fabriquer des sceptres.
+| [[Création de sceptres magiques]] || <sup>MJ</sup> || [[NLS]] 9 || Le personnage sait fabriquer des sceptres.
 
 |- CLASS="premier"
-| [Création de tatouages magiques](./Création de tatouages magiques.md) || <sup>MMI</sup> || [Artisanat](./Artisanat.md) (calligraphie, peintures ou tatouages) 5 rangs, [NLS](./NLS.md) 5 || Création de tatouages magiques
+| [[Création de tatouages magiques]] || <sup>MMI</sup> || [[Artisanat]] (calligraphie, peintures ou tatouages) 5 rangs, [[NLS]] 5 || Création de tatouages magiques
 
 |- CLASS="premier"
-| [Cri de guerre](./Cri de guerre.md)* || <sup>MCA</sup> || [Cha](./Charisme.md) 13 ; [BBA](./BBA.md) +5 ou 5 rangs en [Représentation](./Représentation.md) (scène, déclamation ou chant) || Le personnage pousse un cri qui accorde à ses alliés un bonus de +1 aux jets d’attaque et un bonus de +4 aux jets de sauvegarde contre la terreur
+| [[Cri de guerre]]* || <sup>MCA</sup> || [[Charisme|Cha]] 13 ; [[BBA]] +5 ou 5 rangs en [[Représentation]] (scène, déclamation ou chant) || Le personnage pousse un cri qui accorde à ses alliés un bonus de +1 aux jets d’attaque et un bonus de +4 aux jets de sauvegarde contre la terreur
 
 |- CLASS="premier"
-| [Crocs acérés](./Crocs acérés.md) || <sup>MJRA</sup> || [Demi-orque](./Demi-orque.md) || Gagne une attaque de morsure
+| [[Crocs acérés]] || <sup>MJRA</sup> || [[Demi-orque]] || Gagne une attaque de morsure
 
 |- CLASS="premier"
-| [Cul sec](./Cul sec.md) || <sup>MJRA</sup> || [Con](./Constitution.md) 18, aptitude de classe de ki alcoolisé || Boire par une [action rapide](./Action rapide.md)
+| [[Cul sec]] || <sup>MJRA</sup> || [[Constitution|Con]] 18, aptitude de classe de ki alcoolisé || Boire par une [[action rapide]]
 
 |- CLASS="premier"
-| [Déclenchement manuel](./Déclenchement manuel.md) || <sup>AG</sup> || 5 rangs en [Artisanat](./Artisanat.md) (piège) || Déclenche manuellement un piège pour avoir un bonus de +2 au [jet d’attaque](./jet dattaque.md) et au [DD](./DD.md)
+| [[Déclenchement manuel]] || <sup>AG</sup> || 5 rangs en [[Artisanat]] (piège) || Déclenche manuellement un piège pour avoir un bonus de +2 au [[Jet dattaque|jet d’attaque]] et au [[DD]]
 
 |- CLASS="premier"
-| [Découverte supplémentaire](./Découverte supplémentaire.md) || <sup>MJRA</sup> || Aptitude de classe de [découverte](./découvertes.md) alchimique || Gagne une [découverte](./découvertes.md) de plus
+| [[Découverte supplémentaire]] || <sup>MJRA</sup> || Aptitude de classe de [[découvertes|découverte]] alchimique || Gagne une [[découvertes|découverte]] de plus
 
 |- CLASS="premier"
-| [Défense fantomatique](./Défense fantomatique.md) || <sup>AO</sup> || Pouvoir de classe [fantôme](./Spirite.md#FANTOME), [fantôme](./Fantômes (Spirite).md) doté du pouvoir [vol sous forme intangible](./Fantômes (Spirite).md#VOLINTANGIBLE) || Le fantôme a des chances d’ignorer les coups critiques et les dégâts de précision
+| [[Défense fantomatique]] || <sup>AO</sup> || Pouvoir de classe [[Spirite#FANTOME|fantôme]], [[Fantômes (spirite)|fantôme]] doté du pouvoir [[Fantômes (spirite)#VOLINTANGIBLE|vol sous forme intangible]] || Le fantôme a des chances d’ignorer les coups critiques et les dégâts de précision
 
 |- CLASS="premier"
-| [Défenseur psychique](./Défenseur psychique.md) || <sup>AO</sup> || [Int](./Intelligence.md) 13, [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques ou utiliser des pouvoirs magiques psychiques, personnage niveau 3 || Gain de points de vie temporaires au début d’un [duel psychique](./Duels psychiques.md)
+| [[Défenseur psychique]] || <sup>AO</sup> || [[Intelligence|Int]] 13, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou utiliser des pouvoirs magiques psychiques, personnage niveau 3 || Gain de points de vie temporaires au début d’un [[duels psychiques|duel psychique]]
 
 |- CLASS="premier"
-| [Démarche de l’araignée](./Démarche de laraignée.md) || <sup>MJRA</sup> || [Acrobaties](./Acrobaties.md) 6 rangs, [Escalade](./Escalade.md) 6 rangs, moine niveau 6 || Marcher sur les murs ou les plafonds sur la moitié de la distance de chute ralentie
+| [[Démarche de laraignée|Démarche de l’araignée]] || <sup>MJRA</sup> || [[Acrobaties]] 6 rangs, [[Escalade]] 6 rangs, moine niveau 6 || Marcher sur les murs ou les plafonds sur la moitié de la distance de chute ralentie
 |-
-| &emsp;[Marche sur les nuages](./Marche sur les nuages.md) || <sup>MJRA</sup> || [Démarche de l’araignée](./Démarche de laraignée.md), moine niveau 12 || Marcher dans les airs sur la moitié de la distance ralentie
+| &emsp;[[Marche sur les nuages]] || <sup>MJRA</sup> || [[Démarche de laraignée|Démarche de l’araignée]], moine niveau 12 || Marcher dans les airs sur la moitié de la distance ralentie
 
 |- CLASS="premier"
-| [Détection de l’expertise](./Détection de lexpertise.md) || <sup>AM</sup> || [Int](./Intelligence.md) 13, capacité à lancer *[détection du chaos](./Détection du Chaos.md)*, *[du mal](./Détection du Mal.md)*, *[de la loi](./Détection de la Loi.md)* ou *[de la magie](./Détection de la magie.md)* || Détecte les aptitudes magiques d’une créature
+| [[Détection de lexpertise|Détection de l’expertise]] || <sup>AM</sup> || [[Intelligence|Int]] 13, capacité à lancer *[[détection du chaos]]*, *[[détection du mal|du mal]]*, *[[détection de la loi|de la loi]]* ou *[[détection de la magie|de la magie]]* || Détecte les aptitudes magiques d’une créature
 
 |- CLASS="premier"
-| [Détection officieuse](./Détection officieuse.md) || <sup>AM</sup> || *[détection du mal](./Détection du Mal.md)* || Utilisation de la *[détection du mal](./Détection du Mal.md)* pour avoir un bonus aux tests de [Perception](./Perception.md) et de [Psychologie](./Psychologie.md)
+| [[Détection officieuse]] || <sup>AM</sup> || *[[détection du mal]]* || Utilisation de la *[[détection du mal]]* pour avoir un bonus aux tests de [[Perception]] et de [[Psychologie]]
 
 |- CLASS="premier"
-| [Discernement ultérieur](./Discernement ultérieur.md) || <sup>AM</sup> || *[détection des mensonges](./détection des mensonges.md)* || Détecte les mensonges dans une phrase entendue plus tôt, même plusieurs heures avant
+| [[Discernement ultérieur]] || <sup>AM</sup> || *[[détection des mensonges]]* || Détecte les mensonges dans une phrase entendue plus tôt, même plusieurs heures avant
 
 |- CLASS="premier"
-| [Discret](./Discret.md) || <sup>MJ</sup> || — || +2 aux tests d’[Évasion](./Évasion.md) et de [Discrétion](./Discrétion.md)
+| [[Discret]] || <sup>MJ</sup> || — || +2 aux tests d’[[Évasion]] et de [[Discrétion]]
 
 |- CLASS="premier"
-| [Dissipation destructrice](./Dissipation destructrice.md) || <sup>AG</sup> || Aptitude à lancer *[dissipation de la magie](./Dissipation de la magie.md)* ou *[dissipation suprême](./Dissipation suprême.md)*, [NLS](./NLS.md) 11 || Si le personnage réussit une *[dissipation de la magie](./Dissipation de la magie.md)*, sa cible doit réussir un jet de sauvegarde pour ne pas être étourdie
+| [[Dissipation destructrice]] || <sup>AG</sup> || Aptitude à lancer *[[dissipation de la magie]]* ou *[[dissipation suprême]]*, [[NLS]] 11 || Si le personnage réussit une *[[dissipation de la magie]]*, sa cible doit réussir un jet de sauvegarde pour ne pas être étourdie
 
 |- CLASS="premier"
-| [Doigts de fée](./Doigts de fée.md) || <sup>MJ</sup> || — || +2 aux tests d’[Escamotage](./Escamotage.md) et de [Sabotage](./Sabotage.md)
+| [[Doigts de fée]] || <sup>MJ</sup> || — || +2 aux tests d’[[Escamotage]] et de [[Sabotage]]
 
 |- CLASS="premier"
-| [Don de l’esprit](./Don de lesprit.md) || <sup>MCA</sup> || Pouvoir de classe [compagnon animal](./compagnon animal.md) ou [familier](./familier.md) || Le personnage communie avec un esprit pour accorder à son [compagnon animal](./compagnon animal.md) ou à son [familier](./familier.md) une amélioration d’[esprit](./Esprits (chaman).md) de [chaman](./Chaman.md)
+| [[Don de lesprit|Don de l’esprit]] || <sup>MCA</sup> || Pouvoir de classe [[compagnon animal]] ou [[familier]] || Le personnage communie avec un esprit pour accorder à son [[compagnon animal]] ou à son [[familier]] une amélioration d’[[esprits (chaman)|esprit]] de [[chaman]]
 
 |- CLASS="premier"
-| [Don pour les critiques](./Don pour les critiques.md)* || <sup>MJ</sup> || [BBA](./BBA.md) +9 || +4 aux jets d’attaque pour confirmer un critique
+| [[Don pour les critiques]]* || <sup>MJ</sup> || [[BBA]] +9 || +4 aux jets d’attaque pour confirmer un critique
 |-
-| &emsp;[Critique assourdissant](./Critique assourdissant.md)* || <sup>MJ</sup> || [Don pour les critiques](./Don pour les critiques.md), [BBA](./BBA.md) +13 || Quand le personnage porte un coup critique, la cible est [assourdie](./Assourdi.md)
+| &emsp;[[Critique assourdissant]]* || <sup>MJ</sup> || [[Don pour les critiques]], [[BBA]] +13 || Quand le personnage porte un coup critique, la cible est [[assourdi|assourdie]]
 |-
-| &emsp;[Critique aveuglant](./Critique aveuglant.md)* || <sup>MJ</sup> || [Don pour les critiques](./Don pour les critiques.md), [BBA](./BBA.md) +15 || Quand le personnage porte un coup critique, la cible est [aveuglée](./aveugle.md)
+| &emsp;[[Critique aveuglant]]* || <sup>MJ</sup> || [[Don pour les critiques]], [[BBA]] +15 || Quand le personnage porte un coup critique, la cible est [[aveugle|aveuglée]]
 |-
-| &emsp;[Critique d’empalement](./Critique dempalement.md)* || <sup>AG</sup> || [Don pour les critiques](./Don pour les critiques.md), [Spécialisation martiale](./Spécialisation martiale.md), [BBA](./BBA.md) +11 || En cas de [coup critique](./coup critique.md) avec une arme perforante, le personnage peut empaler son  adversaire et lui infliger des dégâts supplémentaires
+| &emsp;[[Critique dempalement|Critique d’empalement]]* || <sup>AG</sup> || [[Don pour les critiques]], [[Spécialisation martiale]], [[BBA]] +11 || En cas de [[coup critique]] avec une arme perforante, le personnage peut empaler son  adversaire et lui infliger des dégâts supplémentaires
 |-
-| &emsp;&emsp;[Science du critique d’empalement](./Science du critique dempalement.md)* || <sup>AG</sup> || [Critique d’empalement](./Critique dempalement.md), [BBA](./BBA.md) +13 || L’adversaire empalé doit réussir un test de [lutte](./lutte.md) pour retirer l’arme du personnage
+| &emsp;&emsp;[[Science du critique dempalement|Science du critique d’empalement]]* || <sup>AG</sup> || [[Critique dempalement|Critique d’empalement]], [[BBA]] +13 || L’adversaire empalé doit réussir un test de [[lutte]] pour retirer l’arme du personnage
 |-
-| &emsp;[Critique fatigant](./Critique fatigant.md)* || <sup>MJ</sup> || [Don pour les critiques](./Don pour les critiques.md), [BBA](./BBA.md) +13 || Quand le personnage porte un coup critique, la cible est [fatiguée](./Fatigué.md)
+| &emsp;[[Critique fatigant]]* || <sup>MJ</sup> || [[Don pour les critiques]], [[BBA]] +13 || Quand le personnage porte un coup critique, la cible est [[fatigué|fatiguée]]
 |-
-| &emsp;&emsp;[Critique épuisant](./Critique épuisant.md)* || <sup>MJ</sup> || [Critique fatigant](./Critique fatigant.md), [BBA](./BBA.md) +15 || Quand le personnage porte un coup critique, la cible est [épuisée](./Épuisé.md)
+| &emsp;&emsp;[[Critique épuisant]]* || <sup>MJ</sup> || [[Critique fatigant]], [[BBA]] +15 || Quand le personnage porte un coup critique, la cible est [[épuisé|épuisée]]
 |-
-| &emsp;[Critique fébrile](./Critique fébrile.md)* || <sup>MJ</sup> || [Don pour les critiques](./Don pour les critiques.md), [BBA](./BBA.md) +11 || Quand le personnage porte un coup critique, la cible est [fiévreuse](./Fiévreux.md)
+| &emsp;[[Critique fébrile]]* || <sup>MJ</sup> || [[Don pour les critiques]], [[BBA]] +11 || Quand le personnage porte un coup critique, la cible est [[fiévreux|fiévreuse]]
 |-
-| &emsp;[Critique handicapant](./Critique handicapant.md)* || <sup>MJRA</sup> || [Don pour les critiques](./Don pour les critiques.md), [BBA](./BBA.md) +13 || Quand le personnage porte un coup critique, la [vitesse de déplacement](./VD.md) de la cible est divisée par deux
+| &emsp;[[Critique handicapant]]* || <sup>MJRA</sup> || [[Don pour les critiques]], [[BBA]] +13 || Quand le personnage porte un coup critique, la [[VD|vitesse de déplacement]] de la cible est divisée par deux
 |-
-| &emsp;[Critique ralentissant](./Critique ralentissant.md)* || <sup>MJ</sup> || [Don pour les critiques](./Don pour les critiques.md), [BBA](./BBA.md) +13 || Quand le personnage porte un coup critique, la cible est [chancelante](./Chancelant.md)
+| &emsp;[[Critique ralentissant]]* || <sup>MJ</sup> || [[Don pour les critiques]], [[BBA]] +13 || Quand le personnage porte un coup critique, la cible est [[chancelant|chancelante]]
 |-
-| &emsp;&emsp;[Critique étourdissant](./Critique étourdissant.md)* || <sup>MJ</sup> || [Critique ralentissant](./Critique ralentissant.md), [BBA](./BBA.md) +17 || Quand le personnage porte un coup critique, la cible est [étourdie](./Étourdi.md)
+| &emsp;&emsp;[[Critique étourdissant]]* || <sup>MJ</sup> || [[Critique ralentissant]], [[BBA]] +17 || Quand le personnage porte un coup critique, la cible est [[étourdi|étourdie]]
 |-
-| &emsp;[Critique sanglant](./Critique sanglant.md)* || <sup>MJ</sup> || [Don pour les critiques](./Don pour les critiques.md), [BBA](./BBA.md) +11 || Quand le personnage porte un coup critique, la cible subit 2d6 points de dégâts de [saignement](./Saignement.md)
+| &emsp;[[Critique sanglant]]* || <sup>MJ</sup> || [[Don pour les critiques]], [[BBA]] +11 || Quand le personnage porte un coup critique, la cible subit 2d6 points de dégâts de [[saignement]]
 |-
-| &emsp;[Critique maudit](./Critique maudit.md) || <sup>AM</sup> || [Don pour les critiques](./Don pour les critiques.md), capacité à lancer *[malédiction](./malédiction.md)* ou *[malédiction majeure](./Malédiction majeure.md)*, lanceur de sorts de niveau 9 || Confirmer un [coup critique](./coup critique.md) et lancer une *[malédiction](./malédiction.md)* lors de l’attaque
+| &emsp;[[Critique maudit]] || <sup>AM</sup> || [[Don pour les critiques]], capacité à lancer *[[malédiction]]* ou *[[malédiction majeure]]*, lanceur de sorts de niveau 9 || Confirmer un [[coup critique]] et lancer une *[[malédiction]]* lors de l’attaque
 |-
-| &emsp;[Critique de plaie](./Critique de plaie.md) || <sup>AM</sup> || [Don pour les critiques](./Don pour les critiques.md), lanceur de sorts de niveau 5 || Confirmer un [coup critique](./coup critique.md) avec un sort ou un pouvoir magique pour infliger une [plaie magique](./plaie magique.md) mineure aléatoire
+| &emsp;[[Critique de plaie]] || <sup>AM</sup> || [[Don pour les critiques]], lanceur de sorts de niveau 5 || Confirmer un [[coup critique]] avec un sort ou un pouvoir magique pour infliger une [[plaie magique]] mineure aléatoire
 |-
-| &emsp;&emsp;[Critique de plaie supérieur](./Critique de plaie supérieur.md) || <sup>AM</sup> || [Don pour les critiques](./Don pour les critiques.md), [Critique de plaie](./Critique de plaie.md), lanceur de sorts de niveau 12 || Confirmer un coup critique avec un sort ou un pouvoir magique pour infliger une [plaie magique](./plaie magique.md) majeure aléatoire
+| &emsp;&emsp;[[Critique de plaie supérieur]] || <sup>AM</sup> || [[Don pour les critiques]], [[Critique de plaie]], lanceur de sorts de niveau 12 || Confirmer un coup critique avec un sort ou un pouvoir magique pour infliger une [[plaie magique]] majeure aléatoire
 |-
-| &emsp;&emsp;&emsp;[Maîtrise du critique de plaie](./Maîtrise du critique de plaie.md) || <sup>AM</sup> || [Don pour les critiques](./Don pour les critiques.md), [Critique de plaie](./Critique de plaie.md), lanceur de sorts de niveau 9 || Le personnage choisit la [plaie](./plaie.md) que produit le critique
+| &emsp;&emsp;&emsp;[[Maîtrise du critique de plaie]] || <sup>AM</sup> || [[Don pour les critiques]], [[Critique de plaie]], lanceur de sorts de niveau 9 || Le personnage choisit la [[plaie]] que produit le critique
 |-
-| &emsp;[Maîtrise du critique](./Maîtrise du critique.md)* || <sup>MJ</sup> || Deux [dons de critique](./Dons.md#DONCRITIQUE), [guerrier](./Guerrier.md) de niv. 14 || Applique deux effets aux coups critiques
+| &emsp;[[Maîtrise du critique]]* || <sup>MJ</sup> || Deux [[Dons#DONCRITIQUE|dons de critique]], [[guerrier]] de niv. 14 || Applique deux effets aux coups critiques
 |-
-| &emsp;[Précision sournoise](./Précision sournoise.md) || <sup>AG</sup> || [Attaque sournoise](./attaque sournoise.md), [Don pour les critiques](./Don pour les critiques.md), un don de critique, [BBA](./BBA.md) +9 || Le personnage peut appliquer un [don de critique](./Dons.md#CRITIQUE) à la deuxième attaque sournoise du [round](./round.md)
+| &emsp;[[Précision sournoise]] || <sup>AG</sup> || [[Attaque sournoise]], [[Don pour les critiques]], un don de critique, [[BBA]] +9 || Le personnage peut appliquer un [[dons#CRITIQUE|don de critique]] à la deuxième attaque sournoise du [[round]]
 
 |- CLASS="premier"
-| [Donner l’initiative](./Donner linitiative.md) || <sup>AM</sup> || pouvoir de classe [initiative rusée](./Inquisiteur.md#INITIATIVERUSEE) || Accorde un bonus d’initiative à un allié
+| [[Donner linitiative|Donner l’initiative]] || <sup>AM</sup> || pouvoir de classe [[Inquisiteur#INITIATIVERUSEE|initiative rusée]] || Accorde un bonus d’initiative à un allié
 
 |- CLASS="premier"
-| [Douleur composée](./Douleur composée.md)* || <sup>AO</sup> || [Hypnotiseur](./Hypnotiseur.md) de niveau 13, pouvoir de classe [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX) || Applique les effets de deux dons de regard au [regard douloureux](./Hypnotiseur.md#REGARDDOULOUREUX)
+| [[Douleur composée]]* || <sup>AO</sup> || [[Hypnotiseur]] de niveau 13, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] || Applique les effets de deux dons de regard au [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]
 
 |- CLASS="premier"
-| [Dispense de composantes matérielles](./Dispense de composantes matérielles.md) || <sup>MJ</sup> || — || Pas besoin de composantes matérielles pour lancer un sort
+| [[Dispense de composantes matérielles]] || <sup>MJ</sup> || — || Pas besoin de composantes matérielles pour lancer un sort
 
 |- CLASS="premier"
-| [Éclats d’arme](./Éclats darme.md) || <sup>AG</sup> || Maniement de l’arme, [BBA](./BBA.md) +1 || Brise une arme pour infliger des dégâts de [saignement](./Saignement (capacité).md)
+| [[Éclats darme|Éclats d’arme]] || <sup>AG</sup> || Maniement de l’arme, [[BBA]] +1 || Brise une arme pour infliger des dégâts de [[Saignement (capacité)|saignement]]
 
 |- CLASS="premier"
-| [Éclectisme](./Éclectisme.md) || <sup>MJRA</sup> || [Humain](./Humain.md) || Gagne une classe de prédilection de plus
+| [[Éclectisme]] || <sup>MJRA</sup> || [[Humain]] || Gagne une classe de prédilection de plus
 
 |- CLASS="premier"
-| [École renforcée](./École renforcée.md) || <sup>MJ</sup> || — || +1 au [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) des sorts d’une [école](./Écoles de magie.md)
+| [[École renforcée]] || <sup>MJ</sup> || — || +1 au [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] des sorts d’une [[Écoles de magie|école]]
 |-
-| &emsp;[Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md) || <sup>MJ</sup> || [École renforcée](./École renforcée.md) ([Invocation](./Invocation.md)) || Les créatures invoquées gagnent +4 en [For](./Force.md) et [Con](./Constitution.md)
+| &emsp;[[Amélioration des créatures convoquées]] || <sup>MJ</sup> || [[École renforcée]] ([[Invocation]]) || Les créatures invoquées gagnent +4 en [[Force|For]] et [[Constitution|Con]]
 |-
-| &emsp;&emsp;[Convocation supérieure](./Convocation supérieure.md) || <sup>AM</sup> || [Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md), lanceur de sorts niveau 3 || Quand le personnage convoque plusieurs créatures, il en apparaît une de plus
+| &emsp;&emsp;[[Convocation supérieure]] || <sup>AM</sup> || [[Amélioration des créatures convoquées]], lanceur de sorts niveau 3 || Quand le personnage convoque plusieurs créatures, il en apparaît une de plus
 |-
-| &emsp;&emsp;[Monstre invoqué évolué](./Monstre invoqué évolué.md) || <sup>MCA</sup> || [Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md), [École renforcée](./École renforcée.md) (invocation), capacité à lancer *[convocation de monstres I](./Convocation de monstres I.md)* || Le monstre invoqué gagne une [évolution](./évolutions.md) d’[eidolon](./eidolon.md) à 1 point
+| &emsp;&emsp;[[Monstre invoqué évolué]] || <sup>MCA</sup> || [[Amélioration des créatures convoquées]], [[École renforcée]] (invocation), capacité à lancer *[[convocation de monstres I]]* || Le monstre invoqué gagne une [[évolutions|évolution]] d’[[eidolon]] à 1 point
 |-
-| &emsp;[Art du devin](./Art du devin.md) || <sup>MJRA</sup> || [École renforcée](./École renforcée.md) ([Divination](./Divination.md)) || +2 aux tests de NLS avec les divinations
+| &emsp;[[Art du devin]] || <sup>MJRA</sup> || [[École renforcée]] ([[Divination]]) || +2 aux tests de NLS avec les divinations
 |-
-| &emsp;[Convocation lunaire](./Convocation lunaire.md) || <sup>AM</sup> || [École renforcée](./École renforcée.md) (invocation), capacité à lancer *[convocation d’alliés naturels](./Convocation dalliés naturels.md)* || Les créatures convoquées sont immunisées contre les effets de confusion et de sommeil et leurs armes naturelles sont considérées comme en argent
+| &emsp;[[Convocation lunaire]] || <sup>AM</sup> || [[École renforcée]] (invocation), capacité à lancer *[[convocation dalliés naturels|convocation d’alliés naturels]]* || Les créatures convoquées sont immunisées contre les effets de confusion et de sommeil et leurs armes naturelles sont considérées comme en argent
 |-
-| &emsp;[Convocation solaire](./Convocation solaire.md) || <sup>AM</sup>
-| [École renforcée](./École renforcée.md) (invocation), capacité à lancer *[convocation d’alliés naturels](./Convocation dalliés naturels.md)* || Les créatures convoquées brillent et sont immunisées contre les effets d’aveuglement et d’éblouissement
+| &emsp;[[Convocation solaire]] || <sup>AM</sup>
+| [[École renforcée]] (invocation), capacité à lancer *[[convocation dalliés naturels|convocation d’alliés naturels]]* || Les créatures convoquées brillent et sont immunisées contre les effets d’aveuglement et d’éblouissement
 |-
-| &emsp;[Convocation stellaire](./Convocation stellaire.md) || <sup>AM</sup>
-| [École renforcée](./École renforcée.md) (invocation), capacité à lancer *[convocation d’alliés naturels](./Convocation dalliés naturels.md)* || Les créatures convoquées gagnent un bonus aux tests de [Discrétion](./Discrétion.md) et de [Perception](./Perception.md)
+| &emsp;[[Convocation stellaire]] || <sup>AM</sup>
+| [[École renforcée]] (invocation), capacité à lancer *[[convocation dalliés naturels|convocation d’alliés naturels]]* || Les créatures convoquées gagnent un bonus aux tests de [[Discrétion]] et de [[Perception]]
 |-
-| &emsp;[École supérieure](./École supérieure.md) || <sup>MJ</sup> || [École renforcée](./École renforcée.md) || +1 au DD des jets de sauvegarde des sorts d’une [école](./Écoles de magie.md)
+| &emsp;[[École supérieure]] || <sup>MJ</sup> || [[École renforcée]] || +1 au DD des jets de sauvegarde des sorts d’une [[Écoles de magie|école]]
 |-
-| &emsp;[Maître des morts-vivants](./Maître des morts-vivants.md) || <sup>AM</sup> || [École renforcée](./École renforcée.md) (nécromancie), capacité à lancer *[animation des morts](./Animation des morts.md)* ou *[contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md)* || Anime et contrôle plus de morts-vivants
+| &emsp;[[Maître des morts-vivants]] || <sup>AM</sup> || [[École renforcée]] (nécromancie), capacité à lancer *[[animation des morts]]* ou *[[contrôle mineur des morts-vivants]]* || Anime et contrôle plus de morts-vivants
 |-
-| &emsp;[Transmutation tenace](./Transmutation tenace.md) || <sup>MJRA</sup> || [École renforcée](./École renforcée.md) ([Transmutation](./Transmutation.md)) || +2 au DD pour dissiper les transmutations du personnage
+| &emsp;[[Transmutation tenace]] || <sup>MJRA</sup> || [[École renforcée]] ([[Transmutation]]) || +2 au DD pour dissiper les transmutations du personnage
 |-
-| &emsp;[Spécialisation magique](./Spécialisation magique.md) || <sup>AM</sup> || [Int](./Intelligence.md) 13, [École renforcée](./École renforcée.md) || Le personnage choisit un sort et le lance comme s’il était de deux niveaux supérieurs
+| &emsp;[[Spécialisation magique]] || <sup>AM</sup> || [[Intelligence|Int]] 13, [[École renforcée]] || Le personnage choisit un sort et le lance comme s’il était de deux niveaux supérieurs
 |-
-| &emsp;&emsp;[Spécialisation magique supérieure](./Spécialisation magique supérieure.md) || <sup>AM</sup> || [Spécialisation magique](./Spécialisation magique.md), capacité à lancer des sorts de niveau 5 || Sacrifie un sort pour lancer un sort de spécialité
+| &emsp;&emsp;[[Spécialisation magique supérieure]] || <sup>AM</sup> || [[Spécialisation magique]], capacité à lancer des sorts de niveau 5 || Sacrifie un sort pour lancer un sort de spécialité
 
 |- CLASS="premier"
-| [Écriture de parchemins](./Écriture de parchemins.md) || <sup>MJ</sup> || [NLS](./NLS.md) 1 || Le personnage fabrique des parchemins magiques
+| [[Écriture de parchemins]] || <sup>MJ</sup> || [[NLS]] 1 || Le personnage fabrique des parchemins magiques
 
 |- CLASS="premier"
-| [Efficacité des sorts accrue](./Efficacité des sorts accrue.md) || <sup>MJ</sup> || — || +2 au [test de niveau de lanceur de sorts](./test de niveau de lanceur de sorts.md) pour vaincre la [résistance à la magie](./résistance à la magie.md)
+| [[Efficacité des sorts accrue]] || <sup>MJ</sup> || — || +2 au [[test de niveau de lanceur de sorts]] pour vaincre la [[résistance à la magie]]
 |-
-| &emsp;[Efficacité des sorts accrue supérieure](./Efficacité des sorts accrue supérieure.md) || <sup>MJ</sup> || [Efficacité des sorts accrue](./Efficacité des sorts accrue.md) || +2 au [test de niveau de lanceur de sorts](./test de niveau de lanceur de sorts.md) pour vaincre la [résistance à la magie](./résistance à la magie.md)
+| &emsp;[[Efficacité des sorts accrue supérieure]] || <sup>MJ</sup> || [[Efficacité des sorts accrue]] || +2 au [[test de niveau de lanceur de sorts]] pour vaincre la [[résistance à la magie]]
 
 |- CLASS="premier"
-| [Eidolon concentré](./Eidolon concentré.md) || <sup>AM</sup> || pouvoir de classe [protection d'allié](./Conjurateur.md#PROTECTIONDALLIE) || +4 aux tests de Concentration si le personnage est adjacent à l’[eidolon](./eidolon.md)
+| [[Eidolon concentré]] || <sup>AM</sup> || pouvoir de classe [[conjurateur#PROTECTIONDALLIE|protection d'allié]] || +4 aux tests de Concentration si le personnage est adjacent à l’[[eidolon]]
 
 |- CLASS="premier"
-| [Eidolon protecteur](./Eidolon protecteur.md) || <sup>AM</sup> || pouvoir de classe [protection d'allié](./Conjurateur.md#PROTECTIONDALLIE) || L’[eidolon](./eidolon.md) sacrifie son attaque pour défendre le personnage
+| [[Eidolon protecteur]] || <sup>AM</sup> || pouvoir de classe [[conjurateur#PROTECTIONDALLIE|protection d'allié]] || L’[[eidolon]] sacrifie son attaque pour défendre le personnage
 
 |- CLASS="premier"
-| [Eidolon résilient](./Eidolon résilient.md) || <sup>AM</sup> || [eidolon](./eidolon.md) || Quand le personnage est [inconscient](./Inconscient.md), [endormi](./endormi.md) ou [mort](./Mort.md), son eidolon reste un peu avec lui
+| [[Eidolon résilient]] || <sup>AM</sup> || [[eidolon]] || Quand le personnage est [[inconscient]], [[endormi]] ou [[mort]], son eidolon reste un peu avec lui
 
 |- CLASS="premier"
-| [Eidolon vigilant](./Eidolon vigilant.md) || <sup>AM</sup> || [eidolon](./eidolon.md) || bonus de +4 aux tests de [Perception](./Perception.md) quand l’[eidolon](./eidolon.md) est à portée, conscient et pas sans défense
+| [[Eidolon vigilant]] || <sup>AM</sup> || [[eidolon]] || bonus de +4 aux tests de [[Perception]] quand l’[[eidolon]] est à portée, conscient et pas sans défense
 
 |- CLASS="premier"
-| [Élément renforcé](./Élément renforcé.md) || <sup>MJRA</sup> || — || +1 au [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) pour un type d’énergie
+| [[Élément renforcé]] || <sup>MJRA</sup> || — || +1 au [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] pour un type d’énergie
 |-
-| &emsp;[Élément supérieur](./Élément supérieur.md) || <sup>MJRA</sup> || [Élément renforcé](./Élément renforcé.md) || +1 au [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) pour un type d’énergie
+| &emsp;[[Élément supérieur]] || <sup>MJRA</sup> || [[Élément renforcé]] || +1 au [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] pour un type d’énergie
 
 |- CLASS="premier"
-| [Empathe](./Empathe.md) || <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques, 1 rang en [Perception](./Perception.md) ou en [Psychologie](./Psychologie.md) || Lecture rapide et fréquente des émotions mais rend l’esprit vulnérable
+| [[Empathe]] || <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques, 1 rang en [[Perception]] ou en [[Psychologie]] || Lecture rapide et fréquente des émotions mais rend l’esprit vulnérable
 
 |- CLASS="premier"
-| [Empathie rapide](./Empathie rapide.md) || <sup>AM</sup> || 5 rangs en [Dressage](./Dressage.md), pouvoir de classe [empathie sauvage](./Druide.md#EMPATHIESAUVAGE) || L’utilisation de l’empathie sauvage est une [action simple](./Action simple.md)
+| [[Empathie rapide]] || <sup>AM</sup> || 5 rangs en [[Dressage]], pouvoir de classe [[druide#EMPATHIESAUVAGE|empathie sauvage]] || L’utilisation de l’empathie sauvage est une [[action simple]]
 |-
-| &emsp;[Empathie sauvage supérieure](./Empathie sauvage supérieure.md) || <sup>AM</sup> || 5 rangs en [Connaissances](./Connaissances.md) (nature),  [empathie sauvage](./Druide.md#EMPATHIESAUVAGE) || Utilise l’empathie sauvage pour [intimider](./Intimidation.md) une créature et augmente l’éventail de cibles potentielles
+| &emsp;[[Empathie sauvage supérieure]] || <sup>AM</sup> || 5 rangs en [[Connaissances]] (nature),  [[druide#EMPATHIESAUVAGE|empathie sauvage]] || Utilise l’empathie sauvage pour [[Intimidation|intimider]] une créature et augmente l’éventail de cibles potentielles
 
 |- CLASS="premier"
-| [Endurance](./Endurance.md) || <sup>MJ</sup> || — || +4 aux tests pour éviter des [dégâts non létaux](./Dégâts non létaux.md)
+| [[Endurance]] || <sup>MJ</sup> || — || +4 aux tests pour éviter des [[dégâts non létaux]]
 |-
-| &emsp;[Combattre dans la tempête](./Combattre-dans-la-tempête.md)* || <sup>RTT</sup> || [Endurance](./Endurance.md) || Réduction des pénalités de tir liées au [vent](./Vents.md)
+| &emsp;[[Combattre dans la tempête]]* || <sup>RTT</sup> || [[Endurance]] || Réduction des pénalités de tir liées au [[Vents|vent]]
 |-
-| &emsp;[Dur à cuire](./Dur à cuire.md) || <sup>MJ</sup> || [Endurance](./Endurance.md) || [Stabilisation](./Stabilisation.md) automatique, le personnage reste conscient en dessous de 0 pv
+| &emsp;[[Dur à cuire]] || <sup>MJ</sup> || [[Endurance]] || [[Stabilisation]] automatique, le personnage reste conscient en dessous de 0 pv
 |-
-| &emsp;&emsp;[Développement de la résistance](./Développement de la résistance.md) || <sup>AG</sup> || [Dur à cuire](./Dur à cuire.md), [BBA](./BBA.md) +4 || Renonce au bonus d’esquive à la [CA](./CA.md) pour obtenir une [RD](./RD.md) équivalente
+| &emsp;&emsp;[[Développement de la résistance]] || <sup>AG</sup> || [[Dur à cuire]], [[BBA]] +4 || Renonce au bonus d’esquive à la [[CA]] pour obtenir une [[RD]] équivalente
 |-
-| &emsp;&emsp;&emsp;[Science du développement de la résistance](./Science du développement de la résistance.md) || <sup>AG</sup> || [Développement de la résistance](./Développement de la résistance.md), [BBA](./BBA.md) +11 || Double la [RD](./Réduction de dégâts (capacité).md) due à [Développement de la résistance](./Développement de la résistance.md)
+| &emsp;&emsp;&emsp;[[Science du développement de la résistance]] || <sup>AG</sup> || [[Développement de la résistance]], [[BBA]] +11 || Double la [[Réduction de dégâts (capacité)|RD]] due à [[Développement de la résistance]]
 |-
-| &emsp;&emsp;[Guérison rapide](./Guérison rapide.md) || <sup>MJRA</sup> || [Con](./Constitution.md) 13, [Dur à cuire](./Dur à cuire.md) || Regagne des points supplémentaires lors des guérisons
+| &emsp;&emsp;[[Guérison rapide]] || <sup>MJRA</sup> || [[Constitution|Con]] 13, [[Dur à cuire]] || Regagne des points supplémentaires lors des guérisons
 |-
-| &emsp;&emsp;[Récupération héroïque](./Récupération héroïque.md) || <sup>MJRA</sup> || [Dur à cuire](./Dur à cuire.md), bonus de base de [Vigueur](./Vigueur.md) de +4 || Une fois par jour, permet un nouveau jet de [Vigueur](./Vigueur.md) contre un [état préjudiciable](./États préjudiciables.md)
+| &emsp;&emsp;[[Récupération héroïque]] || <sup>MJRA</sup> || [[Dur à cuire]], bonus de base de [[Vigueur]] de +4 || Une fois par jour, permet un nouveau jet de [[Vigueur]] contre un [[états préjudiciables|état préjudiciable]]
 |-
-| &emsp;&emsp;[Résistance héroïque](./Résistance héroïque.md) || <sup>MJRA</sup> || [Dur à cuire](./Dur à cuire.md), bonus de base de [Vigueur](./Vigueur.md) de +8 || Une fois par jour, reporter l’effet d’[états préjudiciables](./États préjudiciables.md) d’un round
+| &emsp;&emsp;[[Résistance héroïque]] || <sup>MJRA</sup> || [[Dur à cuire]], bonus de base de [[Vigueur]] de +8 || Une fois par jour, reporter l’effet d’[[états préjudiciables]] d’un round
 |-
-| &emsp;[Refuser la mort](./Refuser la mort.md) || <sup>AM</sup> || [réserve de ki](./réserve de ki.md), [Endurance](./Endurance.md) || Utilise le ki pour repousser la mort
+| &emsp;[[Refuser la mort]] || <sup>AM</sup> || [[réserve de ki]], [[Endurance]] || Utilise le ki pour repousser la mort
 
 |- CLASS="premier"
-| [Enquêteur amateur](./Enquêteur amateur.md) || <sup>MCA</sup> || [Int](./Int.md) 13, 1 rang dans au moins une compétence de [Connaissances](./Connaissances.md), aucun niveau dans des classes possédant [inspiration](./Enquêteur.md#INSPIRATION) || Gain d’une réserve d’[inspiration](./Enquêteur.md#INSPIRATION) mineure à utiliser pour les tests de [Connaissances](./Connaissances.md), de Linguistique ou d’Art de la magie
+| [[Enquêteur amateur]] || <sup>MCA</sup> || [[Int]] 13, 1 rang dans au moins une compétence de [[Connaissances]], aucun niveau dans des classes possédant [[Enquêteur#INSPIRATION|inspiration]] || Gain d’une réserve d’[[Enquêteur#INSPIRATION|inspiration]] mineure à utiliser pour les tests de [[Connaissances]], de Linguistique ou d’Art de la magie
 |-
-| &emsp;[Combattant étudié](./Combattant étudié.md) || <sup>MCA</sup> || [Enquêteur amateur](./Enquêteur amateur.md), [BBA](./BBA.md) +6 || Étend l’[inspiration](./Enquêteur.md#INSPIRATION) pour gagner une version limitée de [Combat étudié](./Enquêteur.md#COMBATETUDIE)
+| &emsp;[[Combattant étudié]] || <sup>MCA</sup> || [[Enquêteur amateur]], [[BBA]] +6 || Étend l’[[Enquêteur#INSPIRATION|inspiration]] pour gagner une version limitée de [[enquêteur#COMBATETUDIE|Combat étudié]]
 |-
-| &emsp; &emsp;[Science du combattant étudié](./Science du combattant étudié.md) || <sup>MCA</sup> || [Int](./Int.md) 14, [Combattant étudié](./Combattant étudié.md), [BBA](./BBA.md) +8 || Frappe étudiée accorde un bonus de +4 aux [jets d’attaque](./jet dattaque.md) et de dégâts
+| &emsp; &emsp;[[Science du combattant étudié]] || <sup>MCA</sup> || [[Int]] 14, [[Combattant étudié]], [[BBA]] +8 || Frappe étudiée accorde un bonus de +4 aux [[jet dattaque|jets d’attaque]] et de dégâts
 
 |- CLASS="premier"
-| [Ennemi des métamorphes](./Ennemi des métamorphes.md) || <sup>AG</sup> || 5 rangs en [Connaissances](./Connaissances.md) (mystères) ou (nature), capacité à utiliser des effets de métamorphose || Quand le personnage inflige des dégâts, il entrave les capacités de métamorphose de sa cible
+| [[Ennemi des métamorphes]] || <sup>AG</sup> || 5 rangs en [[Connaissances]] (mystères) ou (nature), capacité à utiliser des effets de métamorphose || Quand le personnage inflige des dégâts, il entrave les capacités de métamorphose de sa cible
 
 |- CLASS="premier"
-| [Entraînement défensif aux armes](./Entraînement défensif aux armes.md)* || <sup>AG</sup> || [Int](./Int.md) 13, [BBA](./BBA.md) +5 || Bonus d’esquive de +2 contre un groupe d’armes de guerrier
+| [[Entraînement défensif aux armes]]* || <sup>AG</sup> || [[Int]] 13, [[BBA]] +5 || Bonus d’esquive de +2 contre un groupe d’armes de guerrier
 
 |- CLASS="premier"
-| [Équilibre spirituel](./Équilibre spirituel.md) || <sup>AO</sup> || Pouvoirs de classe [réserve de ki](./Moine.md#RESERVEDEKI) et [sérénité](./Moine.md#SERENITE) || [Sérénité](./Moine.md#SERENITE) s’applique contre la [possession](./Possession spirituelle.md), dépense de ki pour doubler le bonus
+| [[Équilibre spirituel]] || <sup>AO</sup> || Pouvoirs de classe [[moine#RESERVEDEKI|réserve de ki]] et [[moine#SERENITE|sérénité]] || [[moine#SERENITE|Sérénité]] s’applique contre la [[possession spirituelle|possession]], dépense de ki pour doubler le bonus
 
 |- CLASS="premier"
-| [Esprit concentré](./Esprit concentré.md) || <sup>AO</sup> || Pouvoir de classe [bonus spirituel](./Médium.md#BONUSSPIRITUEL) || Augmente le [bonus spirituel](./Médium.md#BONUSSPIRITUEL) d’une légende de 1
+| [[Esprit concentré]] || <sup>AO</sup> || Pouvoir de classe [[médium#BONUSSPIRITUEL|bonus spirituel]] || Augmente le [[médium#BONUSSPIRITUEL|bonus spirituel]] d’une légende de 1
 
 |- CLASS="premier"
-| [Esquive](./Esquive.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 13 || Bonus d’esquive de +1 à la [CA](./CA.md)
+| [[Esquive]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 13 || Bonus d’esquive de +1 à la [[CA]]
 |-
-| &emsp;[Lanceur à courte distance](./Lanceur à courte distance.md)* || <sup>AG</sup> || [Esquive](./Esquive.md), [Arme de prédilection](./Arme de prédilection.md) avec l’[arme de jet](./arme de jet.md) choisie || Les attaques avec l’arme choisie ne provoquent pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Lanceur à courte distance]]* || <sup>AG</sup> || [[Esquive]], [[Arme de prédilection]] avec l’[[arme de jet]] choisie || Les attaques avec l’arme choisie ne provoquent pas d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Fausse ouverture](./Fausse ouverture.md)* || <sup>AG</sup> || [Esquive](./Esquive.md), [Lanceur à courte distance](./Lanceur à courte distance.md) ou [Maîtrise du tir à bout portant](./Maîtrise du tir à bout portant.md), [Arme de prédilection](./Arme de prédilection.md) pour l’arme à distance choisie || Peut provoquer des [attaques d’opportunité](./attaque dopportunité.md) pour gagner +4 [CA](./CA.md)
+| &emsp;&emsp;[[Fausse ouverture]]* || <sup>AG</sup> || [[Esquive]], [[Lanceur à courte distance]] ou [[Maîtrise du tir à bout portant]], [[Arme de prédilection]] pour l’arme à distance choisie || Peut provoquer des [[Attaque dopportunité|attaques d’opportunité]] pour gagner +4 [[CA]]
 |-
-| &emsp;[Manœuvre de désorientation](./Manœuvre de désorientation.md) || <sup>AG</sup> || [Esquive](./Esquive.md), 5 [rangs](./rang.md) en [Acrobaties](./Acrobaties.md) || Quand le personnage réussit à traverser une case adverse avec une acrobatie, il gagne un bonus de +2 aux jets d’attaque contre lui
+| &emsp;[[Manœuvre de désorientation]] || <sup>AG</sup> || [[Esquive]], 5 [[rang|rangs]] en [[Acrobaties]] || Quand le personnage réussit à traverser une case adverse avec une acrobatie, il gagne un bonus de +2 aux jets d’attaque contre lui
 |-
-| &emsp;[Souplesse du serpent](./Souplesse du serpent.md)* || <sup>MJ</sup> || [Esquive](./Esquive.md) || +4 à la [CA](./CA.md) contre les [attaques d’opportunité](./attaque dopportunité.md) provoquées par un mouvement
+| &emsp;[[Souplesse du serpent]]* || <sup>MJ</sup> || [[Esquive]] || +4 à la [[CA]] contre les [[attaque dopportunité|attaques d’opportunité]] provoquées par un mouvement
 |-
-| [Acrobate rusé](./Acrobate rusé.md)* || <sup>MCA</sup> || [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), 5 rangs en [Acrobaties](./Acrobaties.md) || Le personnage gagne un bonus aux jets d’attaque au corps à corps quand il utilise [Acrobaties](./Acrobaties.md) pour éviter des [attaques d’opportunité](./AO.md)
+| [[Acrobate rusé]]* || <sup>MCA</sup> || [[Esquive]], [[Souplesse du serpent]], 5 rangs en [[Acrobaties]] || Le personnage gagne un bonus aux jets d’attaque au corps à corps quand il utilise [[Acrobaties]] pour éviter des [[AO|attaques d’opportunité]]
 |-
-| &emsp;&emsp;[Attaque éclair](./Attaque éclair.md)* || <sup>MJ</sup> || [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [BBA](./BBA.md) +4 || Déplacement avant et après une attaque
+| &emsp;&emsp;[[Attaque éclair]]* || <sup>MJ</sup> || [[Esquive]], [[Souplesse du serpent]], [[BBA]] +4 || Déplacement avant et après une attaque
 |-
-| &emsp;&emsp; [Esquive anticipée](./Esquive anticipée.md)* || <sup>MCA</sup> || [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md) ; [BBA](./BBA.md) +7, lutteur niveau 4 ou moine niveau 4 || Le personnage gagne un bonus maximal de +2 aux jets d’attaque contre les créatures ayant un bonus d’esquive
+| &emsp;&emsp; [[Esquive anticipée]]* || <sup>MCA</sup> || [[Esquive]], [[Souplesse du serpent]] ; [[BBA]] +7, lutteur niveau 4 ou moine niveau 4 || Le personnage gagne un bonus maximal de +2 aux jets d’attaque contre les créatures ayant un bonus d’esquive
 |-
-| &emsp;&emsp;&emsp;[Contre-réflexes](./Contre-réflexes.md)* || <sup>MCA</sup> || [Esquive](./Esquive.md), [Esquive anticipée](./Esquive anticipée.md), [Souplesse du serpent](./Souplesse du serpent.md) || Les adversaires possédant [Souplesse du serpent](./Souplesse du serpent.md) ne gagnent pas de bonus quand ils provoquent des [attaques d’opportunité](./AO.md) de la part du personnage
+| &emsp;&emsp;&emsp;[[Contre-réflexes]]* || <sup>MCA</sup> || [[Esquive]], [[Esquive anticipée]], [[Souplesse du serpent]] || Les adversaires possédant [[Souplesse du serpent]] ne gagnent pas de bonus quand ils provoquent des [[AO|attaques d’opportunité]] de la part du personnage
 
 |-
-| &emsp;&emsp;[Glissade](./Glissade.md) || <sup>AM</sup> || [Aisance](./Aisance.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [réserve de ki](./réserve de ki.md) || Utilise le ki pour réduire les attaques d’opportunité lors d’un déplacement
+| &emsp;&emsp;[[Glissade]] || <sup>AM</sup> || [[Aisance]], [[Esquive]], [[Souplesse du serpent]], [[réserve de ki]] || Utilise le ki pour réduire les attaques d’opportunité lors d’un déplacement
 |-
-| &emsp;&emsp;[Pas de côté](./Pas de côté.md)* || <sup>MJRA</sup> || [Dex](./Dextérité.md) 13, [Souplesse du serpent](./Souplesse du serpent.md) || Faire un [pas de placement](./Pas de placement.md) de 1,50 m (1 case) juste après une attaque ennemie ratée
+| &emsp;&emsp;[[Pas de côté]]* || <sup>MJRA</sup> || [[Dextérité|Dex]] 13, [[Souplesse du serpent]] || Faire un [[pas de placement]] de 1,50 m (1 case) juste après une attaque ennemie ratée
 |-
-| &emsp;&emsp;&emsp;[Science du pas de côté](./Science du pas de côté.md)* || <sup>MJRA</sup> || [Dex](./Dextérité.md) 15, [Pas de côté](./Pas de côté.md) || Le pas de côté n’utilise pas le [pas de placement](./Pas de placement.md) du round suivant
+| &emsp;&emsp;&emsp;[[Science du pas de côté]]* || <sup>MJRA</sup> || [[Dextérité|Dex]] 15, [[Pas de côté]] || Le pas de côté n’utilise pas le [[pas de placement]] du round suivant
 |-
-| &emsp;&emsp;[Roulade](./Roulade.md)* || <sup>AG</sup> || [Souplesse du serpent](./Souplesse du serpent.md) || Si le personnage est victime d’un [croc-en-jambe](./croc-en-jambe.md), il peut se déplacer de 1,50 m (1 {s:c}) par une [action immédiate](./Action immédiate.md)
+| &emsp;&emsp;[[Roulade]]* || <sup>AG</sup> || [[Souplesse du serpent]] || Si le personnage est victime d’un [[croc-en-jambe]], il peut se déplacer de 1,50 m (1 {s:c}) par une [[action immédiate]]
 |-
-| &emsp;&emsp;[Sous les jambes](./Sous les jambes.md)* || <sup>MJRA</sup> || [Souplesse du serpent](./Souplesse du serpent.md), [Taille inférieure ou égale à P](./taille P.md) || +4 aux tests d’[Acrobaties](./Acrobaties.md) pour se faufiler près d’adversaires plus grands
+| &emsp;&emsp;[[Sous les jambes]]* || <sup>MJRA</sup> || [[Souplesse du serpent]], [[taille P|Taille inférieure ou égale à P]] || +4 aux tests d’[[Acrobaties]] pour se faufiler près d’adversaires plus grands
 |-
-| &emsp;[Comme le vent](./Comme le vent.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 15, [Esquive](./Esquive.md), [BBA](./BBA.md) +6 || 20% de [camouflage](./camouflage.md) si le personnage se déplace
+| &emsp;[[Comme le vent]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 15, [[Esquive]], [[BBA]] +6 || 20% de [[camouflage]] si le personnage se déplace
 |-
-| &emsp;&emsp;[Comme l’éclair](./Comme léclair.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 17, [Comme le vent](./Comme le vent.md), [BBA](./BBA.md) +11 || 50% de [camouflage](./camouflage.md) si le personnage se déplace
+| &emsp;&emsp;[[Comme léclair|Comme l’éclair]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 17, [[Comme le vent]], [[BBA]] +11 || 50% de [[camouflage]] si le personnage se déplace
 
 |- CLASS="premier"
-| [Esquive acrobatique](./Esquive acrobatique.md) || <sup>AG</sup> || [Esquive surnaturelle](./esquive surnaturelle.md), 12 rangs en [Acrobaties](./Acrobaties.md) || Si le personnage réussit une [esquive surnaturelle](./esquive surnaturelle.md), il peut se déplacer de la moitié de sa vitesse
+| [[Esquive acrobatique]] || <sup>AG</sup> || [[Esquive surnaturelle]], 12 rangs en [[Acrobaties]] || Si le personnage réussit une [[esquive surnaturelle]], il peut se déplacer de la moitié de sa vitesse
 
 |- CLASS="premier"
-| [Étrange héritage](./Étrange héritage.md) || <sup>AM</sup> || [Cha](./Charisme.md) 13, [Talent](./Talent.md) (compétence de lignage), personnage niveau 3 || Gain d’un pouvoir de lignage
+| [[Étrange héritage]] || <sup>AM</sup> || [[Charisme|Cha]] 13, [[Talent]] (compétence de lignage), personnage niveau 3 || Gain d’un pouvoir de lignage
 |-
-| &emsp;[Science de l’étrange héritage](./Science de létrange héritage.md) || <sup>AM</sup> || [Cha](./Charisme.md) 15, [Étrange héritage](./Étrange héritage.md), personnage niveau 11 || Gain d’un pouvoir de lignage
+| &emsp;[[Science de létrange héritage|Science de l’étrange héritage]] || <sup>AM</sup> || [[Charisme|Cha]] 15, [[Étrange héritage]], personnage niveau 11 || Gain d’un pouvoir de lignage
 |-
-| &emsp;&emsp;[Étrange héritage supérieur](./Étrange héritage supérieur.md) || <sup>AM</sup> || [Cha](./Charisme.md) 17, [Étrange héritage](./Étrange héritage.md), [Science de l’étrange héritage](./Science de létrange héritage.md), niveau 17 || Gain d’un pouvoir de lignage
+| &emsp;&emsp;[[Étrange héritage supérieur]] || <sup>AM</sup> || [[Charisme|Cha]] 17, [[Étrange héritage]], [[Science de létrange héritage|Science de l’étrange héritage]], niveau 17 || Gain d’un pouvoir de lignage
 
 |- CLASS="premier"
-| [Étreinte fatale](./Étreinte fatale.md)* || <sup>AG</sup> || [For](./For.md) 13, [Int](./Int.md) 13, [BBA](./BBA.md) +3, naga, homme-serpent ou [attaque spéciale constriction](./Constriction (capacité).md) || [Constriction](./Constriction (capacité).md) et [étreinte](./Étreinte (capacité).md) comme attaques spéciales
+| [[Étreinte fatale]]* || <sup>AG</sup> || [[For]] 13, [[Int]] 13, [[BBA]] +3, naga, homme-serpent ou [[Constriction (capacité)|attaque spéciale constriction]] || [[Constriction (capacité)|Constriction]] et [[Étreinte (capacité)|étreinte]] comme attaques spéciales
 |-
-| &emsp;[Horreur de l’étreinte fatale](./Horreur de létreinte fatale.md)* || <sup>AG</sup> || [For](./For.md) 15, [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (constriction), [Étreinte fatale](./Étreinte fatale.md), [BBA](./BBA.md) +6 || Les créatures qui subissent des dégâts de constriction sont secouées
+| &emsp;[[Horreur de létreinte fatale|Horreur de l’étreinte fatale]]* || <sup>AG</sup> || [[For]] 15, [[Attaque spéciale renforcée]] (constriction), [[Étreinte fatale]], [[BBA]] +6 || Les créatures qui subissent des dégâts de constriction sont secouées
 |-
-| &emsp;&emsp;[Maître de l’étreinte fatale](./Maître de létreinte fatale.md)* || <sup>AG</sup> || [For](./For.md) 17, [Horreur de l’étreinte fatale](./Horreur de létreinte fatale.md), [BBA](./BBA.md) +9 || L’attaque de constriction inflige deux fois plus de dés de dégâts
+| &emsp;&emsp;[[Maître de létreinte fatale|Maître de l’étreinte fatale]]* || <sup>AG</sup> || [[For]] 17, [[Horreur de létreinte fatale|Horreur de l’étreinte fatale]], [[BBA]] +9 || L’attaque de constriction inflige deux fois plus de dés de dégâts
 
 |- CLASS="premier"
-| [Évolutions supplémentaires](./Évolutions supplémentaires.md) || <sup>AM</sup> || Pouvoir de classe [eidolon](./eidolon.md) || L’eidolon ajoute 1 point à sa réserve d’évolution
+| [[Évolutions supplémentaires]] || <sup>AM</sup> || Pouvoir de classe [[eidolon]] || L’eidolon ajoute 1 point à sa réserve d’évolution
 
 |- CLASS="premier"
-| [Expériences variées](./Expériences variées.md) || <sup>MJRA</sup> || [Elfe](./Elfe.md), [Gnome](./Gnome.md) ou [Nain](./Nain.md), au moins 100 ans d’âge || +2 sur tous les tests de [Connaissances](./Connaissances.md) ou de [Profession](./Profession.md)
+| [[Expériences variées]] || <sup>MJRA</sup> || [[Elfe]], [[Gnome]] ou [[Nain]], au moins 100 ans d’âge || +2 sur tous les tests de [[Connaissances]] ou de [[Profession]]
 
 |- CLASS="premier"
-| [Expertise magique mineure](./Expertise magique mineure.md) || <sup>MJRA</sup> || Capacités de lancer des sorts du 4e niveau || Lancer un sort de 1er niveau comme pouvoir magique 2/jour
+| [[Expertise magique mineure]] || <sup>MJRA</sup> || Capacités de lancer des sorts du 4e niveau || Lancer un sort de 1er niveau comme pouvoir magique 2/jour
 |-
-| &emsp;[Expertise magique majeure](./Expertise magique majeure.md) || <sup>MJRA</sup> || [Expertise magique mineure](./Expertise magique mineure.md), sorts de 9<sup>ème</sup> niveau || Lancer un sort de niveau inférieur ou égal à 5 comme pouvoir magique 2/jour
+| &emsp;[[Expertise magique majeure]] || <sup>MJRA</sup> || [[Expertise magique mineure]], sorts de 9<sup>ème</sup> niveau || Lancer un sort de niveau inférieur ou égal à 5 comme pouvoir magique 2/jour
 
 |- CLASS="premier"
-| [Expertise du combat](./Expertise du combat.md)* || <sup>MJ</sup> || [Int](./Intelligence.md) 13 || Échange le bonus d'attaque contre un bonus de [CA](./CA.md)
+| [[Expertise du combat]]* || <sup>MJ</sup> || [[Intelligence|Int]] 13 || Échange le bonus d'attaque contre un bonus de [[CA]]
 |-
-| &emsp;[Aide rapide](./Aide rapide.md)* || <sup>MJRA</sup> || [Expertise du combat](./Expertise du combat.md), [BBA](./BBA.md)+6 || Tenter d’[aider quelqu’un](./aider quelquun.md) par une [action rapide](./Action rapide.md)
+| &emsp;[[Aide rapide]]* || <sup>MJRA</sup> || [[Expertise du combat]], [[BBA]]+6 || Tenter d’[[aider quelquun|aider quelqu’un]] par une [[action rapide]]
 |-
-| &emsp;[Attaque en groupe](./Attaque en groupe.md)* || <sup>MJRA</sup> || [Expertise du combat](./Expertise du combat.md) || Adversaire [pris en tenaille](./Pris en tenaille.md) si au moins deux alliés sont adjacents
+| &emsp;[[Attaque en groupe]]* || <sup>MJRA</sup> || [[Expertise du combat]] || Adversaire [[pris en tenaille]] si au moins deux alliés sont adjacents
 |-
-| &emsp;&emsp;[Travail en équipe](./Travail en équipe.md)* || <sup>MJRA</sup> || [Attaque en groupe](./Attaque en groupe.md), [BBA](./BBA.md)+6 || [aider quelqu’un](./aider quelquun.md) par une [action de mouvement](./Action de mouvement.md) avec 2 alliés adjacents
+| &emsp;&emsp;[[Travail en équipe]]* || <sup>MJRA</sup> || [[Attaque en groupe]], [[BBA]]+6 || [[Aider quelquun|aider quelqu’un]] par une [[action de mouvement]] avec 2 alliés adjacents
 |-
-| &emsp; [Manoeuvre surprise](./Manoeuvre surprise.md) || <sup>MCA</sup> || [Expertise du combat](./Expertise du combat.md) ; [attaque sournoise](./attaque sournoise.md) +3d6 ou frappe étudiée +3d6 || Le personnage gagne un bonus aux tests de manoeuvre offensive contre les ennemis pris en tenaille et ceux qui perdent leur bonus de [Dex](./Dextérité.md) à la [CA](./CA.md)
+| &emsp; [[Manoeuvre surprise]] || <sup>MCA</sup> || [[Expertise du combat]] ; [[attaque sournoise]] +3d6 ou frappe étudiée +3d6 || Le personnage gagne un bonus aux tests de manoeuvre offensive contre les ennemis pris en tenaille et ceux qui perdent leur bonus de [[Dextérité|Dex]] à la [[CA]]
 |-
-| &emsp;[Renvoi de l’insaisissable](./Renvoi de linsaisissable.md) || <sup>AG</sup> || Cible insaisissable, [Expertise du combat](./Expertise du combat.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [moine fluide](./Moine fluide (moine).md) niveau 12 || Quand le personnage évite des dégâts, il peut dépenser 1 point de ki pour renvoyer l’attaque à son adversaire
+| &emsp;[[Renvoi de linsaisissable|Renvoi de l’insaisissable]] || <sup>AG</sup> || Cible insaisissable, [[Expertise du combat]], [[Science du combat à mains nues]], [[moine fluide (moine)|moine fluide]] niveau 12 || Quand le personnage évite des dégâts, il peut dépenser 1 point de ki pour renvoyer l’attaque à son adversaire
 |-
-| &emsp;[Seconde chance](./Seconde chance.md)* || <sup>MJRA</sup> || [Expertise du combat](./Expertise du combat.md), [BBA](./BBA.md) +6 || Sacrifier les attaques suivantes pour relancer la première attaque ratée
+| &emsp;[[Seconde chance]]* || <sup>MJRA</sup> || [[Expertise du combat]], [[BBA]] +6 || Sacrifier les attaques suivantes pour relancer la première attaque ratée
 |-
-| &emsp;&emsp;[Science de la seconde chance](./Science de la seconde chance.md)* || <sup>MJRA</sup> || [Seconde chance](./Seconde chance.md), [BBA](./BBA.md) +11
+| &emsp;&emsp;[[Science de la seconde chance]]* || <sup>MJRA</sup> || [[Seconde chance]], [[BBA]] +11
 | Pénalité de -5 aux attaques suivantes pour relancer la première attaque ratée
 |-
-| &emsp;[Science du désarmement](./Science du désarmement.md)* || <sup>MJ</sup> || [Expertise du combat](./Expertise du combat.md) || +2 aux tentatives de [désarmement](./désarmement.md), pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Science du désarmement]]* || <sup>MJ</sup> || [[Expertise du combat]] || +2 aux tentatives de [[désarmement]], pas d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Briser la garde](./Briser la garde.md)* || <sup>AG</sup> || [Science du désarmement](./Science du désarmement.md), [Combat à deux armes](./Combat à deux armes.md) || Le personnage peut attaquer son adversaire avec son arme secondaire s’il l’a [désarmé](./désarmer.md) avec son arme principale
+| &emsp;&emsp;[[Briser la garde]]* || <sup>AG</sup> || [[Science du désarmement]], [[Combat à deux armes]] || Le personnage peut attaquer son adversaire avec son arme secondaire s’il l’a [[Désarmer|désarmé]] avec son arme principale
 |-
-| &emsp;&emsp;[Coup désarmant](./Coup désarmant.md)* || <sup>MJRA</sup> || [Science du désarmement](./Science du désarmement.md), [BBA](./BBA.md) +9 || Tenter un [désarmement](./désarmement.md) en cas de [coup critique](./coup critique.md)
+| &emsp;&emsp;[[Coup désarmant]]* || <sup>MJRA</sup> || [[Science du désarmement]], [[BBA]] +9 || Tenter un [[désarmement]] en cas de [[coup critique]]
 |-
-| &emsp;&emsp;[Désarmement supérieur](./Désarmement supérieur.md)* || <sup>MJ</sup> || [Science du désarmement](./Science du désarmement.md), [BBA](./BBA.md) +6 || Quand le personnage [désarme son adversaire](./désarmement.md), il envoie ses armes au loin
+| &emsp;&emsp;[[Désarmement supérieur]]* || <sup>MJ</sup> || [[Science du désarmement]], [[BBA]] +6 || Quand le personnage [[désarmement|désarme son adversaire]], il envoie ses armes au loin
 |-
-| &emsp;&emsp;&emsp;[Désarmement contrôlé](./Désarmement contrôlé.md)* || <sup>RTT</sup> || [Int](./Intelligence.md) 13, [Expertise du combat](./Expertise du combat.md), [Désarmement supérieur](./Désarmement supérieur.md), [Science du désarmement](./Science du désarmement.md), [BBA](./BBA.md) +11 || Contrôler la direction dans laquelle les armes sont envoyées après un désarmement
+| &emsp;&emsp;&emsp;[[Désarmement contrôlé]]* || <sup>RTT</sup> || [[Intelligence|Int]] 13, [[Expertise du combat]], [[Désarmement supérieur]], [[Science du désarmement]], [[BBA]] +11 || Contrôler la direction dans laquelle les armes sont envoyées après un désarmement
 |-
-| &emsp;[Science de la feinte](./Science de la feinte.md)* || <sup>MJ</sup> || [Expertise du combat](./Expertise du combat.md) || La [feinte](./feinte.md) est une [action de mouvement](./Action de mouvement.md)
+| &emsp;[[Science de la feinte]]* || <sup>MJ</sup> || [[Expertise du combat]] || La [[feinte]] est une [[action de mouvement]]
 |-
-| &emsp;&emsp;[Échange trompeur](./Échange trompeur.md) || <sup>AG</sup> || [Science de la feinte](./Science de la feinte.md) || Si le personnage réussit sa feinte, il peut obliger son adversaire à accepter un objet
+| &emsp;&emsp;[[Échange trompeur]] || <sup>AG</sup> || [[Science de la feinte]] || Si le personnage réussit sa feinte, il peut obliger son adversaire à accepter un objet
 |-
-| &emsp;&emsp;[Feinte de dégagement](./Feinte de dégagement.md)* || <sup>AG</sup> || [Science de la feinte](./Science de la feinte.md) || La feinte permet au personnage de se déplacer à sa vitesse sans provoquer d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;&emsp;[[Feinte de dégagement]]* || <sup>AG</sup> || [[Science de la feinte]] || La feinte permet au personnage de se déplacer à sa vitesse sans provoquer d’[[Attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;&emsp;[Dégagement flamboyant](./Dégagement flamboyant.md)* || <sup>AG</sup> || [Feinte de dégagement](./Feinte de dégagement.md) || Une feinte réussie permet au personnage de faire comme si sa case de départ n’était pas menacée
+| &emsp;&emsp;&emsp;[[Dégagement flamboyant]]* || <sup>AG</sup> || [[Feinte de dégagement]] || Une feinte réussie permet au personnage de faire comme si sa case de départ n’était pas menacée
 |-
-| &emsp;&emsp;&emsp;&emsp;[Coup de dégagement](./Coup de dégagement.md)* || <sup>AG</sup> || [Feinte de dégagement](./Feinte de dégagement.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md) || Quand le personnage utilise [Feinte de dégagement](./Feinte de dégagement.md), il peut faire une attaque
+| &emsp;&emsp;&emsp;&emsp;[[Coup de dégagement]]* || <sup>AG</sup> || [[Feinte de dégagement]], [[Esquive]], [[Souplesse du serpent]] || Quand le personnage utilise [[Feinte de dégagement]], il peut faire une attaque
 |-
-| &emsp;&emsp;[Feinte supérieure](./Feinte supérieure.md)* || <sup>MJ</sup> || [Science de la feinte](./Science de la feinte.md), [BBA](./BBA.md) +6 || Les ennemis [feintés](./feinte.md) perdent leur bonus de [Dex](./Dextérité.md) pendant 1 round
+| &emsp;&emsp;[[Feinte supérieure]]* || <sup>MJ</sup> || [[Science de la feinte]], [[BBA]] +6 || Les ennemis [[feinte|feintés]] perdent leur bonus de [[Dextérité|Dex]] pendant 1 round
 |-
-| &emsp;[Science du croc-en-jambe](./Science du croc-en-jambe.md)* || <sup>MJ</sup> || [Expertise du combat](./Expertise du combat.md) || +2 aux tentatives de [croc-en-jambe](./croc-en-jambe.md), pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Science du croc-en-jambe]]* || <sup>MJ</sup> || [[Expertise du combat]] || +2 aux tentatives de [[croc-en-jambe]], pas d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Coup déséquilibrant](./Coup déséquilibrant.md)* || <sup>MJRA</sup> || [Science du croc-en-jambe](./Science du croc-en-jambe.md), [BBA](./BBA.md) +9 || Tenter un [croc-en-jambe](./croc-en-jambe.md) en cas de [coup critique](./coup critique.md)
+| &emsp;&emsp;[[Coup déséquilibrant]]* || <sup>MJRA</sup> || [[Science du croc-en-jambe]], [[BBA]] +9 || Tenter un [[croc-en-jambe]] en cas de [[coup critique]]
 |-
-| &emsp;&emsp;[Croc-en-jambe supérieur](./Croc-en-jambe supérieur.md)* || <sup>MJ</sup> || [Science du croc-en-jambe](./Science du croc-en-jambe.md), [BBA](./BBA.md) +6 || Les ennemis victimes d’un [croc-en-jambe](./croc-en-jambe.md) provoquent une [attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;&emsp;[[Croc-en-jambe supérieur]]* || <sup>MJ</sup> || [[Science du croc-en-jambe]], [[BBA]] +6 || Les ennemis victimes d’un [[croc-en-jambe]] provoquent une [[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Croc-en-jambe au bâton](./Croc-en-jambe au bâton.md)* || <sup>AM</sup> || [Int](./Intelligence.md) 13, [Arme de prédilection](./Arme de prédilection.md) (bâton), [Expertise du combat](./Expertise du combat.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [BBA](./BBA.md) +6 || Le bâton est considéré comme une arme avec la propriété croc-en-jambe
+| &emsp;&emsp;[[Croc-en-jambe au bâton]]* || <sup>AM</sup> || [[Intelligence|Int]] 13, [[Arme de prédilection]] (bâton), [[Expertise du combat]], [[Science du croc-en-jambe]], [[BBA]] +6 || Le bâton est considéré comme une arme avec la propriété croc-en-jambe
 |-
-| &emsp;&emsp;&emsp;[Balayage au bâton](./Balayage au bâton.md)* || <sup>AM</sup> || [Croc-en-jambe au bâton](./Croc-en-jambe au bâton.md), [Spécialisation martiale](./Spécialisation martiale.md) (bâton), [BBA](./BBA.md) +12 || Utilisation du bâton pour faire un croc-en-jambe à tous les ennemis adjacents
+| &emsp;&emsp;&emsp;[[Balayage au bâton]]* || <sup>AM</sup> || [[Croc-en-jambe au bâton]], [[Spécialisation martiale]] (bâton), [[BBA]] +12 || Utilisation du bâton pour faire un croc-en-jambe à tous les ennemis adjacents
 |-
-| &emsp;&emsp;[Entraîner au sol](./Entraîner au sol.md)* || <sup>AG</sup> || [Science du croc-en-jambe](./Science du croc-en-jambe.md) || Si le personnage est victime d’un [croc-en-jambe](./croc-en-jambe.md), il peut en faire un à son adversaire
+| &emsp;&emsp;[[Entraîner au sol]]* || <sup>AG</sup> || [[Science du croc-en-jambe]] || Si le personnage est victime d’un [[croc-en-jambe]], il peut en faire un à son adversaire
 |-
-| &emsp;&emsp;[Lancer ki](./Lancer ki.md)* || <sup>MJRA</sup> || [Science du combat à mains nues](./Science du combat à mains nues.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md) || Lancer un adversaire dans une case adjacente en tant que [croc-en-jambe](./croc-en-jambe.md)
+| &emsp;&emsp;[[Lancer ki]]* || <sup>MJRA</sup> || [[Science du combat à mains nues]], [[Science du croc-en-jambe]] || Lancer un adversaire dans une case adjacente en tant que [[croc-en-jambe]]
 |-
-| &emsp;&emsp;&emsp;[Entrave à distance](./Entrave à distance.md)* || <sup>AG</sup> || [Science de la lutte](./Science de la lutte.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Lancer ki](./Lancer ki.md) || Après un [Lancer ki](./Lancer ki.md) réussi, le personnage peut tenter une [lutte](./lutte.md)
+| &emsp;&emsp;&emsp;[[Entrave à distance]]* || <sup>AG</sup> || [[Science de la lutte]], [[Science du croc-en-jambe]], [[Lancer ki]] || Après un [[Lancer ki]] réussi, le personnage peut tenter une [[lutte]]
 |-
-| &emsp;&emsp;&emsp;[Bousculade tourbillonnante](./Bousculade tourbillonnante.md)* || <sup>AG</sup> || [Science de la bousculade](./Science de la bousculade.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Lancer ki](./Lancer ki.md) || Utilise une [action rapide](./Action rapide.md) pour faire une [bousculade](./bousculade.md) contre un adversaire, le déplacer et le faire tomber
+| &emsp;&emsp;&emsp;[[Bousculade tourbillonnante]]* || <sup>AG</sup> || [[Science de la bousculade]], [[Science du croc-en-jambe]], [[Science du combat à mains nues]], [[Lancer ki]] || Utilise une [[action rapide]] pour faire une [[bousculade]] contre un adversaire, le déplacer et le faire tomber
 |-
-| &emsp;&emsp;&emsp;[Science du lancer ki](./Science du lancer ki.md)* || <sup>MJRA</sup> || [Lancer ki](./Lancer ki.md), [Science de la bousculade](./Science de la bousculade.md) || Lancer un adversaire dans une case occupée en tant que [bousculade](./bousculade.md)
+| &emsp;&emsp;&emsp;[[Science du lancer ki]]* || <sup>MJRA</sup> || [[Lancer ki]], [[Science de la bousculade]] || Lancer un adversaire dans une case occupée en tant que [[bousculade]]
 |-
-| &emsp;[Science du repositionnement](./Science du repositionnement.md)* || <sup>MJRA</sup> || [Expertise du combat](./Expertise du combat.md) || +2 aux tentatives de [repositionnement](./repositionnement.md), pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Science du repositionnement]]* || <sup>MJRA</sup> || [[Expertise du combat]] || +2 aux tentatives de [[repositionnement]], pas d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Coup repositionnant](./Coup repositionnant.md)* || <sup>MJRA</sup> || [Science du repositionnement](./Science du repositionnement.md), [BBA](./BBA.md) +9 || Tenter un [repositionnement](./repositionnement.md) après un [coup critique](./coup critique.md)
+| &emsp;&emsp;[[Coup repositionnant]]* || <sup>MJRA</sup> || [[Science du repositionnement]], [[BBA]] +9 || Tenter un [[repositionnement]] après un [[coup critique]]
 |-
-| &emsp;&emsp;[Repositionnement rapide](./Repositionnement rapide.md)* || <sup>AG</sup> || [Science du repositionnement](./Science du repositionnement.md), [BBA](./BBA.md) +6 || Peut se [repositionner](./repositionnement.md) au lieu de faire une attaque de corps à corps
+| &emsp;&emsp;[[Repositionnement rapide]]* || <sup>AG</sup> || [[Science du repositionnement]], [[BBA]] +6 || Peut se [[repositionnement|repositionner]] au lieu de faire une attaque de corps à corps
 |-
-| &emsp;&emsp;[Repositionnement supérieur](./Repositionnement supérieur.md)* || <sup>MJRA</sup> || [Science du repositionnement](./Science du repositionnement.md), [BBA](./BBA.md) +6 || Les ennemis [repositionnés](./repositionnement.md) provoquent des [attaques d’opportunité](./attaque dopportunité.md)
+| &emsp;&emsp;[[Repositionnement supérieur]]* || <sup>MJRA</sup> || [[Science du repositionnement]], [[BBA]] +6 || Les ennemis [[repositionnement|repositionnés]] provoquent des [[attaque dopportunité|attaques d’opportunité]]
 |-
-| &emsp;[Science du sale coup](./Science du sale coup.md)* || <sup>MJRA</sup> || [Expertise du combat](./Expertise du combat.md) || +2 aux tentatives de [sale coup](./sale coup.md), pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Science du sale coup]]* || <sup>MJRA</sup> || [[Expertise du combat]] || +2 aux tentatives de [[sale coup]], pas d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Sale coup rapide](./Sale coup rapide.md)* || <sup>AG</sup> || [Science du sale coup](./Science du sale coup.md), [BBA](./BBA.md) +6 || Peut faire un [sale coup](./sale coup.md) au lieu d’une attaque de corps à corps
+| &emsp;&emsp;[[Sale coup rapide]]* || <sup>AG</sup> || [[Science du sale coup]], [[BBA]] +6 || Peut faire un [[sale coup]] au lieu d’une attaque de corps à corps
 |-
-| &emsp;&emsp;[Sale coup supérieur](./Sale coup supérieur.md)* || <sup>MJRA</sup> || [Science du sale coup](./Science du sale coup.md), [BBA](./BBA.md) +6
-| La pénalité du [sale coup](./sale coup.md) dure 1d4 rounds
+| &emsp;&emsp;[[Sale coup supérieur]]* || <sup>MJRA</sup> || [[Science du sale coup]], [[BBA]] +6
+| La pénalité du [[sale coup]] dure 1d4 rounds
 |-
-| &emsp;[Science de la subtilisation](./Science de la subtilisation.md)* || <sup>MJRA</sup> || [Expertise du combat](./Expertise du combat.md) || +2 aux tentatives de [subtilisation](./subtilisation.md), pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Science de la subtilisation]]* || <sup>MJRA</sup> || [[Expertise du combat]] || +2 aux tentatives de [[subtilisation]], pas d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Subtilisation rapide](./Subtilisation rapide.md)* || <sup>AG</sup> || [Science de la subtilisation](./Science de la subtilisation.md), BBA +6 || Peut voler un objet au lieu de faire une attaque de corps à corps
+| &emsp;&emsp;[[Subtilisation rapide]]* || <sup>AG</sup> || [[Science de la subtilisation]], BBA +6 || Peut voler un objet au lieu de faire une attaque de corps à corps
 |-
-| &emsp;&emsp;[Subtilisation supérieure](./Subtilisation supérieure.md)* || <sup>MJRA</sup> || [Science de la subtilisation](./Science de la subtilisation.md), [BBA](./BBA.md) +6 || Les ennemis ne remarquent pas la [subtilisation](./subtilisation.md) avant la fin du combat
+| &emsp;&emsp;[[Subtilisation supérieure]]* || <sup>MJRA</sup> || [[Science de la subtilisation]], [[BBA]] +6 || Les ennemis ne remarquent pas la [[subtilisation]] avant la fin du combat
 |-
-| &emsp;[Attaque en rotation](./Attaque en rotation.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 13, [Expertise du combat](./Expertise du combat.md),  
- [Attaque éclair](./Attaque éclair.md), [BBA](./BBA.md) +4 || Une attaque de corps à corps contre tous les ennemis à portée
+| &emsp;[[Attaque en rotation]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 13, [[Expertise du combat]],  
+ [[Attaque éclair]], [[BBA]] +4 || Une attaque de corps à corps contre tous les ennemis à portée
 
 |- CLASS="premier"
-| [Exploitation arcanique supplémentaire](./Exploitation arcanique supplémentaire.md) || <sup>MCA</sup> || Pouvoir de classe exploitation d’arcaniste || Gain d’une [exploitation](./exploitation.md) d’arcaniste supplémentaire
+| [[Exploitation arcanique supplémentaire]] || <sup>MCA</sup> || Pouvoir de classe exploitation d’arcaniste || Gain d’une [[exploitation]] d’arcaniste supplémentaire
 
 |- CLASS="premier"
-| [Exploitation des connaissances](./Exploitation des connaissances.md) || <sup>AM</sup> || Pouvoir de classe [connaissance des monstres](./connaissance des monstres.md), BBA +11 || Le personnage utilise ses connaissances pour gagner des bonus à l’attaque et aux dégâts contre une unique créature
+| [[Exploitation des connaissances]] || <sup>AM</sup> || Pouvoir de classe [[connaissance des monstres]], BBA +11 || Le personnage utilise ses connaissances pour gagner des bonus à l’attaque et aux dégâts contre une unique créature
 
 |- CLASS="premier"
-| [Explosion d’adieu](./Explosion-d’adieu.md) || <sup>AO</sup> || Pouvoir de classe [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) || Le corps explose à la mort
+| [[Explosion d’adieu]] || <sup>AO</sup> || Pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] || Le corps explose à la mort
 
 |- CLASS="premier"
-| [Explosion retardée](./Explosion retardée.md) || <sup>AO</sup> || BBA +3, pouvoir de classe [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) || Retarde l’[explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE)
+| [[Explosion retardée]] || <sup>AO</sup> || BBA +3, pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] || Retarde l’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]
 
 |- CLASS="premier"
-| [Extension de pouvoir magique](./Extension de pouvoir magique.md) || <sup>B1</sup> || Posséder un pouvoir magique lancé à un [NLS](./NLS.md) supérieur ou égal à 6 || Pouvoirs magiques plus efficaces
+| [[Extension de pouvoir magique]] || <sup>B1</sup> || Posséder un pouvoir magique lancé à un [[NLS]] supérieur ou égal à 6 || Pouvoirs magiques plus efficaces
 
 |- CLASS="premier"
-| [Familier évolué](./Familier évolué.md) || <sup>AM</sup> || [Int](./Intelligence.md) 13, [Cha](./Charisme.md) 13, pouvoir de classe [familier](./familier.md) || Le familier gagne une [évolution](./Évolution.md) d’[eidolon](./eidolon.md)
+| [[Familier évolué]] || <sup>AM</sup> || [[Intelligence|Int]] 13, [[Charisme|Cha]] 13, pouvoir de classe [[familier]] || Le familier gagne une [[évolution]] d’[[eidolon]]
 
 |- CLASS="premier"
-| [Familier libéré](./Familier libéré.md) || <sup>MCA</sup> || [NLS](./NLS.md) 5, pouvoir de classe familier || Le familier reçoit de loin les sorts de contact à transmettre
+| [[Familier libéré]] || <sup>MCA</sup> || [[NLS]] 5, pouvoir de classe familier || Le familier reçoit de loin les sorts de contact à transmettre
 
 |- CLASS="premier"
-| [Familier supérieur](./Familier supérieur.md) || <sup>MJ</sup> || Capacité à acquérir un [familier](./familier.md), voir don || Acquisition d’un [familier](./familier.md) plus puissant
+| [[Familier supérieur]] || <sup>MJ</sup> || Capacité à acquérir un [[familier]], voir don || Acquisition d’un [[familier]] plus puissant
 
 |- CLASS="premier"
-| [Fantôme concentré](./Fantôme concentré.md) || <sup>AO</sup> || Pouvoir de classe [interférence spirituelle](./Spirite.md#INTERFERENCESPIRITUELLE) || +4 aux tests de [concentration](./Lancer des sorts.md#CONCENTRATION) quand le fantôme est adjacent au personnage ou dans sa conscience
+| [[Fantôme concentré]] || <sup>AO</sup> || Pouvoir de classe [[spirite#INTERFERENCESPIRITUELLE|interférence spirituelle]] || +4 aux tests de [[Lancer des sorts#CONCENTRATION|concentration]] quand le fantôme est adjacent au personnage ou dans sa conscience
 
 |- CLASS="premier"
-| [Fantôme vigilant](./Fantôme vigilant.md) || <sup>AO</sup> || Pouvoir de classe de [fantôme](./Spirite.md#FANTOME) || +4 aux tests de [Perception](./Perception.md) quand le fantôme est actif à portée
+| [[Fantôme vigilant]] || <sup>AO</sup> || Pouvoir de classe de [[spirite#FANTOME|fantôme]] || +4 aux tests de [[Perception]] quand le fantôme est actif à portée
 
 |- CLASS="premier"
-| [Feinte hypnotique](./Feinte hypnotique.md)* || <sup>AO</sup> || Pouvoir de classe [regard hypnotique](./Hypnotiseur.md#REGARDHYPNOTQUE) || Réduction du malus des feintes contre d’autres types de créatures
+| [[Feinte hypnotique]]* || <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#REGARDHYPNOTQUE|regard hypnotique]] || Réduction du malus des feintes contre d’autres types de créatures
 |-
-| &emsp;[Feinte hypnotique supérieure](./Feinte hypnotique supérieure.md)* || <sup>AO</sup> || Feinte hypnotique, 10 rangs en Bluff, frémissement psychique [regard impudent](./Hypnotiseur.md#REGARDIMPUDENT) || [Feinte](./feinte.md) possible contre les créatures dépourvues d’[intelligence](./Intelligence.md)
+| &emsp;[[Feinte hypnotique supérieure]]* || <sup>AO</sup> || Feinte hypnotique, 10 rangs en Bluff, frémissement psychique [[hypnotiseur#REGARDIMPUDENT|regard impudent]] || [[Feinte]] possible contre les créatures dépourvues d’[[intelligence]]
 
 |- CLASS="premier"
-| [Feinte jumelée](./Feinte jumelée.md)* || <sup>MCA</sup> || [Cha](./Charisme.md) 13 || Après avoir réussi une feinte, tentative de [feinte](./feinte.md) contre une deuxième cible
+| [[Feinte jumelée]]* || <sup>MCA</sup> || [[Charisme|Cha]] 13 || Après avoir réussi une feinte, tentative de [[feinte]] contre une deuxième cible
 
 |- CLASS="premier"
-| [Fente](./Fente.md)* || <sup>MJ</sup> || [BBA](./BBA.md) +6 || -2 à la [CA](./CA.md) pour gagner une [allonge](./allonge.md)
+| [[Fente]]* || <sup>MJ</sup> || [[BBA]] +6 || -2 à la [[CA]] pour gagner une [[allonge]]
 
 |- CLASS="premier"
-| [Flexibilité martiale supplémentaire](./Flexibilité martiale supplémentaire.md) || <sup>MCA</sup> || Pouvoir de classe [flexibilité martiale](./Lutteur.md#FLEXIBILITEMARTIALE) || Gain de trois utilisations de flexibilité martiale
+| [[Flexibilité martiale supplémentaire]] || <sup>MCA</sup> || Pouvoir de classe [[lutteur#FLEXIBILITEMARTIALE|flexibilité martiale]] || Gain de trois utilisations de flexibilité martiale
 
 |- CLASS="premier"
-| [Focalisation instrumentale](./Focalisation instrumentale.md) || <sup>AO</sup> || [Occultiste](./Occultiste.md) niveau 3 || Utilisation efficace de focalisation générique avec un instrument
+| [[Focalisation instrumentale]] || <sup>AO</sup> || [[Occultiste]] niveau 3 || Utilisation efficace de focalisation générique avec un instrument
 
 |- CLASS="premier"
-| [Focalisation mentale supplémentaire](./Focalisation mentale supplémentaire.md) || <sup>AO</sup> || Pouvoir de classe [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) || 2 points de [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) de plus
+| [[Focalisation mentale supplémentaire]] || <sup>AO</sup> || Pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] || 2 points de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] de plus
 
 |- CLASS="premier"
-| [Foi absolue](./Foi absolue.md) || <sup>AM</sup> || [Santé divine](./Paladin.md#SANTEDIVINE) || bonus sacré de +4 contre le poison
+| [[Foi absolue]] || <sup>AM</sup> || [[Paladin#SANTEDIVINE|Santé divine]] || bonus sacré de +4 contre le poison
 
 |- CLASS="premier"
-| [Force de propulsion](./Force de propulsion.md) || <sup>MCA</sup> || [BBA](./BBA.md) +3, capacité à lancer des sorts profanes de niveau 2, capacité à lancer au moins un sort profane de force || Le personnage perd un sort préparé ou un emplacement de sort pour accroître sa vitesse
+| [[Force de propulsion]] || <sup>MCA</sup> || [[BBA]] +3, capacité à lancer des sorts profanes de niveau 2, capacité à lancer au moins un sort profane de force || Le personnage perd un sort préparé ou un emplacement de sort pour accroître sa vitesse
 
 |- CLASS="premier"
-| [Force intimidante](./Force intimidante.md)* || <sup>MJ</sup> || — || Ajoute la [For](./Force.md) aux tests d’[Intimidation](./Intimidation.md), en plus du [Cha](./Charisme.md)
+| [[Force intimidante]]* || <sup>MJ</sup> || — || Ajoute la [[Force|For]] aux tests d’[[Intimidation]], en plus du [[Charisme|Cha]]
 |-
-| &emsp;[Tuerie fracassante](./Tuerie fracassante.md)* || <sup>MCA</sup> || [Force intimidante](./Force intimidante.md), 4 rangs en [Intimidation](./Intimidation.md), [tueur](./Tueur.md) niveau 4 || Quand ses attaques au corps à corps réduisent un adversaire à moins de 0 point de vie, le personnage [démoralise](./Intimidation.md) ceux qui l’entourent
+| &emsp;[[Tuerie fracassante]]* || <sup>MCA</sup> || [[Force intimidante]], 4 rangs en [[Intimidation]], [[tueur]] niveau 4 || Quand ses attaques au corps à corps réduisent un adversaire à moins de 0 point de vie, le personnage [[Intimidation|démoralise]] ceux qui l’entourent
 |-
-| &emsp;&emsp;[Massacre effroyable](./Massacre effroyable.md)* || <sup>MCA</sup> || [Force intimidante](./Force intimidante.md), [Tuerie fracassante](./Tuerie fracassante.md), 11 rangs en [Intimidation](./Intimidation.md), [tueur](./Tueur.md) niveau 11 || Les créatures démoralisées par une Tuerie fracassante pourraient devenir [fiévreuses](./Fiévreux.md)
+| &emsp;&emsp;[[Massacre effroyable]]* || <sup>MCA</sup> || [[Force intimidante]], [[Tuerie fracassante]], 11 rangs en [[Intimidation]], [[tueur]] niveau 11 || Les créatures démoralisées par une Tuerie fracassante pourraient devenir [[fiévreux|fiévreuses]]
 
 |- CLASS="premier"
-| [Forme animale optimale](./Forme animale optimale.md) || <sup>AM</sup> || 5 rangs en [Connaissances](./Connaissances.md) (nature), [Forme animale](./Druide.md#FORMEANIMALE) || Compte les autres niveaux de classe comme des niveaux de druide pour déterminer la forme animale
+| [[Forme animale optimale]] || <sup>AM</sup> || 5 rangs en [[Connaissances]] (nature), [[druide#FORMEANIMALE|Forme animale]] || Compte les autres niveaux de classe comme des niveaux de druide pour déterminer la forme animale
 
 |- CLASS="premier"
-| [Forme animale planaire](./Forme animale planaire.md) || <sup>AG</sup> || [Forme animale](./Forme animale.md), 5 rangs en [Connaissances](./Connaissances.md) (plans) || Le personnage peut ajouter l’archétype [céleste](./Céleste, archétype.md) ou [fiélon](./Fiélon, archétype.md) à sa [forme animale](./Forme animale.md)
+| [[Forme animale planaire]] || <sup>AG</sup> || [[Forme animale]], 5 rangs en [[Connaissances]] (plans) || Le personnage peut ajouter l’archétype [[Céleste, archétype|céleste]] ou [[Fiélon, archétype|fiélon]] à sa [[forme animale]]
 
 |- CLASS="premier"
-| [Forme animale rapide](./Forme animale rapide.md) || <sup>AM</sup> || [Forme animale](./Druide.md#FORMEANIMALE), lanceur de sorts niveau 8 || Transformation rapide en animal mais la forme est moins puissante
+| [[Forme animale rapide]] || <sup>AM</sup> || [[druide#FORMEANIMALE|Forme animale]], lanceur de sorts niveau 8 || Transformation rapide en animal mais la forme est moins puissante
 
 |- CLASS="premier"
-| [Forme puissante](./Forme puissante.md) || <sup>AM</sup> || [Forme animale](./Druide.md#FORMEANIMALE), druide niveau 8 || Sous forme animale, le personnage est considéré comme d’une catégorie de taille de plus
+| [[Forme puissante]] || <sup>AM</sup> || [[druide#FORMEANIMALE|Forme animale]], druide niveau 8 || Sous forme animale, le personnage est considéré comme d’une catégorie de taille de plus
 
 |- CLASS="premier"
-| [Fort lien avec un instrument](./Fort lien avec un instrument.md) || <sup>AO</sup> || Pouvoir de classe [instrument](./Occultiste.md#INSTRUMENTS) || Facilité à lancer des sorts loin d’un instrument
+| [[Fort lien avec un instrument]] || <sup>AO</sup> || Pouvoir de classe [[occultiste#INSTRUMENTS|instrument]] || Facilité à lancer des sorts loin d’un instrument
 
 |- CLASS="premier"
-| [Fourberie](./Fourberie.md) || <sup>MJ</sup> || — || +2 aux tests de [Bluff](./Bluff.md) et de [Déguisement](./Déguisement.md)
+| [[Fourberie]] || <sup>MJ</sup> || — || +2 aux tests de [[Bluff]] et de [[Déguisement]]
 
 |- CLASS="premier"
-| [Frappe bénie](./Frappe bénie.md) || <sup>MCA</sup> || [BBA](./BBA.md) +11, capacité à lancer des sorts divins, l’alignement du personnage doit présenter un écart maximal d’un cran avec celui de sa divinité || Les attaques du personnage sont considérées comme de l’alignement qu’il partage avec sa divinité
+| [[Frappe bénie]] || <sup>MCA</sup> || [[BBA]] +11, capacité à lancer des sorts divins, l’alignement du personnage doit présenter un écart maximal d’un cran avec celui de sa divinité || Les attaques du personnage sont considérées comme de l’alignement qu’il partage avec sa divinité
 
 |- CLASS="premier"
-| [Frappe décisive](./Frappe décisive.md)* || <sup>MJ</sup> || [BBA](./BBA.md) +6 || Double les dégâts d’une attaque
+| [[Frappe décisive]]* || <sup>MJ</sup> || [[BBA]] +6 || Double les dégâts d’une attaque
 |-
-| [Coup final violent](./Coup final violent.md)* || <sup>AG</sup> || [Rage](./Rage.md), [Frappe décisive](./Frappe décisive.md), [BBA](./BBA.md) +6 || Inflige les dégâts maximaux et met fin à la rage
+| [[Coup final violent]]* || <sup>AG</sup> || [[Rage]], [[Frappe décisive]], [[BBA]] +6 || Inflige les dégâts maximaux et met fin à la rage
 |-
-| &emsp;[Frappe dévastatrice](./Frappe dévastatrice.md)* || <sup>AG</sup> || [Frappe décisive](./Frappe décisive.md), [BBA](./BBA.md) +9 || Dégâts supplémentaires avec le bonus de [Frappe décisive](./Frappe décisive.md)
+| &emsp;[[Frappe dévastatrice]]* || <sup>AG</sup> || [[Frappe décisive]], [[BBA]] +9 || Dégâts supplémentaires avec le bonus de [[Frappe décisive]]
 |-
-| &emsp;&emsp;[Science de la frappe dévastatrice](./Science de la frappe dévastatrice.md)* || <sup>AG</sup> || [Frappe dévastatrice](./Frappe dévastatrice.md), [BBA](./BBA.md) +13 || Bonus aux jets de confirmation de [coups critiques](./coup critique.md)
+| &emsp;&emsp;[[Science de la frappe dévastatrice]]* || <sup>AG</sup> || [[Frappe dévastatrice]], [[BBA]] +13 || Bonus aux jets de confirmation de [[Coup critique|coups critiques]]
 |-
-| &emsp;[Frappe agrippante](./Frappe agrippante.md)* || <sup>MCA</sup> || [Frappe décisive](./Frappe décisive.md) ; [Magie de la nature](./Magie de la nature.md) ou capacité à lancer des sorts de druide ou de rôdeur || Le personnage [enchevêtre](./Enchevêtré.md) les adversaires qu’il touche avec Frappe décisive
+| &emsp;[[Frappe agrippante]]* || <sup>MCA</sup> || [[Frappe décisive]] ; [[Magie de la nature]] ou capacité à lancer des sorts de druide ou de rôdeur || Le personnage [[enchevêtré|enchevêtre]] les adversaires qu’il touche avec Frappe décisive
 |-
-| &emsp; [Frappe de l’hiver](./Frappe de lhiver.md)* || <sup>MCA</sup> || [Frappe décisive](./Frappe décisive.md), 5 rangs en [Connaissances](./Connaissances.md) (nature) ; [Magie de la nature](./Magie de la nature.md) ou capacité à lancer des sorts de [druide](./Druide.md) ou de [rôdeur](./Rôdeur.md) || La cible de la Frappe décisive du personnage doit réussir un jet de sauvegarde pour ne pas être [fatiguée](./Fatigué.md)
+| &emsp; [[Frappe de lhiver|Frappe de l’hiver]]* || <sup>MCA</sup> || [[Frappe décisive]], 5 rangs en [[Connaissances]] (nature) ; [[Magie de la nature]] ou capacité à lancer des sorts de [[druide]] ou de [[rôdeur]] || La cible de la Frappe décisive du personnage doit réussir un jet de sauvegarde pour ne pas être [[fatigué|fatiguée]]
 |-
-| &emsp;[Frappe féerique](./Frappe féerique.md)* || <sup>MCA</sup> || [Magie de la nature](./Magie de la nature.md) ou capacité à lancer des sorts de druide ou de rôdeur ; [Frappe décisive](./Frappe décisive.md), 5 rangs en [Connaissances](./Connaissances.md) (nature) || Le personnage illumine ses ennemis avec Frappe décisive
+| &emsp;[[Frappe féerique]]* || <sup>MCA</sup> || [[Magie de la nature]] ou capacité à lancer des sorts de druide ou de rôdeur ; [[Frappe décisive]], 5 rangs en [[Connaissances]] (nature) || Le personnage illumine ses ennemis avec Frappe décisive
 |-
-| &emsp;[Science de la frappe décisive](./Science de la frappe décisive.md)* || <sup>MJ</sup> || [Frappe décisive](./Frappe décisive.md), [BBA](./BBA.md) +11 || Triple les dégâts d’une attaque
+| &emsp;[[Science de la frappe décisive]]* || <sup>MJ</sup> || [[Frappe décisive]], [[BBA]] +11 || Triple les dégâts d’une attaque
 |-
-| &emsp;&emsp;[Frappe décisive supérieure](./Frappe décisive supérieure.md)* || <sup>MJ</sup> || [Science de la frappe décisive](./Science de la frappe décisive.md), [BBA](./BBA.md) +16 || Quadruple les dégâts d’une attaque
+| &emsp;&emsp;[[Frappe décisive supérieure]]* || <sup>MJ</sup> || [[Science de la frappe décisive]], [[BBA]] +16 || Quadruple les dégâts d’une attaque
 
 |- CLASS="premier"
-| [Frappe inspirée](./Frappe inspirée.md) || <sup>MCA</sup> || Pouvoir de classe [frappe étudiée](./Enquêteur.md#FRAPPEETUDIEE) || Dépense d’[inspiration](./Enquêteur.md#INSPIRATION) pour augmenter les dégâts infligés avec combat étudié
+| [[Frappe inspirée]] || <sup>MCA</sup> || Pouvoir de classe [[enquêteur#FRAPPEETUDIEE|frappe étudiée]] || Dépense d’[[Enquêteur#INSPIRATION|inspiration]] pour augmenter les dégâts infligés avec combat étudié
 
 |- CLASS="premier"
-| [Frappe magique](./Frappe magique.md)* || <sup>MJ</sup> || Capacité à lancer des sorts profanes || +1 aux dégâts, armes considérées comme magiques
+| [[Frappe magique]]* || <sup>MJ</sup> || Capacité à lancer des sorts profanes || +1 aux dégâts, armes considérées comme magiques
 |-
-| &emsp;[Critique de dissipation](./Critique de dissipation.md)* || <sup>AG</sup> || [Frappe magique](./Frappe magique.md), [BBA](./BBA.md) +11, *[dissipation de la magie](./Dissipation de la magie.md)* || Le personnage peut lancer *[dissipation de la magie](./Dissipation de la magie.md)* après un [coup critique](./coup critique.md)
+| &emsp;[[Critique de dissipation]]* || <sup>AG</sup> || [[Frappe magique]], [[BBA]] +11, *[[dissipation de la magie]]* || Le personnage peut lancer *[[dissipation de la magie]]* après un [[coup critique]]
 |-
-| &emsp;[Frappe déchirante](./Frappe déchirante.md)* || <sup>MCA</sup> || [Frappe magique](./Frappe magique.md) || Les créatures que le personnage blesse avec Frappe magique reçoivent un malus aux jets de sauvegarde contre les sorts et les pouvoirs magiques
+| &emsp;[[Frappe déchirante]]* || <sup>MCA</sup> || [[Frappe magique]] || Les créatures que le personnage blesse avec Frappe magique reçoivent un malus aux jets de sauvegarde contre les sorts et les pouvoirs magiques
 |-
-| [Frappe magique sanguine](./Frappe magique sanguine.md)* || <sup>MCA</sup> || [Frappe magique](./Frappe magique.md), pouvoir de classe rage sanguine || Le personnage bénéficie des avantages de Frappe magique lorsqu’il est en rage sanguine
+| [[Frappe magique sanguine]]* || <sup>MCA</sup> || [[Frappe magique]], pouvoir de classe rage sanguine || Le personnage bénéficie des avantages de Frappe magique lorsqu’il est en rage sanguine
 
 |- CLASS="premier"
-| [Frappe sanglante ensorcelée](./Frappe sanglante ensorcelée.md) || <sup>AM</sup> || [Cha](./Charisme.md) 13, [lignage](./Lignages.md) d’[ensorceleur](./Ensorceleur.md) || Le personnage récupère un pouvoir de lignage quand il réduit une créature à 0 [point de vie](./pv.md)
+| [[Frappe sanglante ensorcelée]] || <sup>AM</sup> || [[Charisme|Cha]] 13, [[lignages|lignage]] d’[[ensorceleur]] || Le personnage récupère un pouvoir de lignage quand il réduit une créature à 0 [[pv|point de vie]]
 
 |- CLASS="premier"
-| [Fraternité animale](./Fraternité animale.md) || <sup>MJ</sup> || — || +2 aux tests de [Dressage](./Dressage.md) et d’[Équitation](./Équitation.md)
+| [[Fraternité animale]] || <sup>MJ</sup> || — || +2 aux tests de [[Dressage]] et d’[[Équitation]]
 
 |- CLASS="premier"
-| [Fuite renversante](./Fuite renversante.md)* || <sup>AG</sup> || [Science du croc-en-jambe](./Science du croc-en-jambe.md) || Possibilité de faire un [croc-en-jambe](./croc-en-jambe.md) au moment de briser une [lutte](./lutte.md)
+| [[Fuite renversante]]* || <sup>AG</sup> || [[Science du croc-en-jambe]] || Possibilité de faire un [[croc-en-jambe]] au moment de briser une [[lutte]]
 
 |- CLASS="premier"
-| [Gardien spirituel](./Gardien spirituel.md) || <sup>MCA</sup> || Capacité à lancer [arme spirituelle](./Arme spirituelle.md) ou [allié spirituel](./Allié spirituel.md), pouvoir de classe magie des esprits || Augmente la puissance d’attaque des sorts d’esprit du personnage
+| [[Gardien spirituel]] || <sup>MCA</sup> || Capacité à lancer [[arme spirituelle]] ou [[allié spirituel]], pouvoir de classe magie des esprits || Augmente la puissance d’attaque des sorts d’esprit du personnage
 
 |- CLASS="premier"
-| [Gnome hanté](./Gnome hanté.md)* || <sup>AG</sup> || [Gnome](./Gnome.md), [Cha](./Cha.md) 13, [magie gnome](./Gnome.md) (trait racial), 1 rang en [Connaissances](./Connaissances.md) (mystères) || Gagne [aspect de fée hantée](./Aspect de fée hantée.md)
+| [[Gnome hanté]]* || <sup>AG</sup> || [[Gnome]], [[Cha]] 13, [[Gnome|magie gnome]] (trait racial), 1 rang en [[Connaissances]] (mystères) || Gagne [[aspect de fée hantée]]
 |-
-| &emsp;[Assaut de gnome hanté](./Assaut de gnome hanté.md)* || <sup>AG</sup> || [Gnome hanté](./Gnome hanté.md), 3 rangs en [Connaissances](./Connaissances.md) (mystères) || Peut utiliser la magie gnome de façon indépendante
+| &emsp;[[Assaut de gnome hanté]]* || <sup>AG</sup> || [[Gnome hanté]], 3 rangs en [[Connaissances]] (mystères) || Peut utiliser la magie gnome de façon indépendante
 |-
-| &emsp;&emsp;[Linceul de gnome hanté](./Linceul de gnome hanté.md)* || <sup>AG</sup> || [Assaut de gnome hanté](./Assaut de gnome hanté.md), 6 rangs en [Connaissances](./Connaissances.md) (mystères) || Utilisation supplémentaire de la magie gnome
+| &emsp;&emsp;[[Linceul de gnome hanté]]* || <sup>AG</sup> || [[Assaut de gnome hanté]], 6 rangs en [[Connaissances]] (mystères) || Utilisation supplémentaire de la magie gnome
 
 |- CLASS="premier"
-| [Grâce supérieure](./Grâce supérieure.md) || <sup>AM</sup> || [Cha](./Charisme.md) 13, [grâce](./Paladin.md#GRACE), [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) || L’imposition des mains soigne des points de vie supplémentaires si la cible n’a pas besoin d’une grâce
+| [[Grâce supérieure]] || <sup>AM</sup> || [[Charisme|Cha]] 13, [[paladin#GRACE|grâce]], [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]] || L’imposition des mains soigne des points de vie supplémentaires si la cible n’a pas besoin d’une grâce
 |-
-| &emsp;[Grâce ultime](./Grâce ultime.md) || <sup>AM</sup> || [Cha](./Charisme.md) 19, [Grâce supérieure](./Grâce supérieure.md) || Dépense 10 utilisations de l’imposition des mains pour ramener un mort à la vie
+| &emsp;[[Grâce ultime]] || <sup>AM</sup> || [[Charisme|Cha]] 19, [[Grâce supérieure]] || Dépense 10 utilisations de l’imposition des mains pour ramener un mort à la vie
 
 |- CLASS="premier"
-| [Grâce supplémentaire](./Grâce supplémentaire.md) || <sup>MJ</sup> || [Grâce](./Grâce.md) || L’imposition des mains bénéficie d’une [grâce](./Grâce.md) supplémentaire
+| [[Grâce supplémentaire]] || <sup>MJ</sup> || [[Grâce]] || L’imposition des mains bénéficie d’une [[grâce]] supplémentaire
 
 |- CLASS="premier"
-| [Griffes coupantes](./Griffes coupantes.md)* || <sup>MJRA</sup> || [For](./Force.md) 13, deux attaques naturelles de griffe, [BBA](./BBA.md)+6 || Infliger 1d6 points de dégâts supplémentaires si les deux griffes touchent
+| [[Griffes coupantes]]* || <sup>MJRA</sup> || [[Force|For]] 13, deux attaques naturelles de griffe, [[BBA]]+6 || Infliger 1d6 points de dégâts supplémentaires si les deux griffes touchent
 
 |- CLASS="premier"
-| [Griffes magiques](./Griffes magiques.md)* || <sup>MJRA</sup> || [For](./Force.md) 15, armes naturelles, [BBA](./BBA.md)+6 || Armes naturelles traitées comme des armes magiques ou en argent
+| [[Griffes magiques]]* || <sup>MJRA</sup> || [[Force|For]] 15, armes naturelles, [[BBA]]+6 || Armes naturelles traitées comme des armes magiques ou en argent
 
 |- CLASS="premier"
-| [Grimpeur bien accroché](./Grimpeur bien accroché.md) || <sup>RTT</sup> || - || Peut utiliser ses deux mains pendant une action d’escalade
+| [[Grimpeur bien accroché]] || <sup>RTT</sup> || - || Peut utiliser ses deux mains pendant une action d’escalade
 
 |- CLASS="premier"
-| [Gros buveur](./Gros buveur.md) || <sup>MJRA</sup> || [Con](./Constitution.md) 13, [moine](./Moine.md) niveau 11, ki alcoolisé || Gagne 2 points temporaires de ki grâce au ki alcoolisé
+| [[Gros buveur]] || <sup>MJRA</sup> || [[Constitution|Con]] 13, [[moine]] niveau 11, ki alcoolisé || Gagne 2 points temporaires de ki grâce au ki alcoolisé
 
 |- CLASS="premier"
-| [Guérison psychique](./Guérison psychique.md) || <sup>AO</sup> || [Cha](./Charisme.md) 11, [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques, 3 rangs en Premiers Secours || Utilisation de [guérison miraculeuse](./Premiers secours.md) pour soigner des blessures mortelles et donner des points de vie temporaires
+| [[Guérison psychique]] || <sup>AO</sup> || [[Charisme|Cha]] 11, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques, 3 rangs en Premiers Secours || Utilisation de [[Premiers secours|guérison miraculeuse]] pour soigner des blessures mortelles et donner des points de vie temporaires
 
 |- CLASS="premier"
-| [Guérison vertueuse](./Guérison vertueuse.md) || <sup>AG</sup> || [Jugement](./Inquisiteur.md#JUGEMENT) || Guérison plus efficace en présence d’un jugement actif
+| [[Guérison vertueuse]] || <sup>AG</sup> || [[Inquisiteur#JUGEMENT|Jugement]] || Guérison plus efficace en présence d’un jugement actif
 
 |- CLASS="premier"
-| [Guerrier fantôme](./Guerrier fantôme.md) || <sup>AO</sup> || Pouvoir de classe [fantôme](./Spirite.md#FANTOME), [fantôme](./Fantômes (Spirite).md) doté du pouvoir [attaques magiques](./Fantômes (Spirite).md#ATTAQUESMAGIQUES) || Les armes naturelles du fantôme et les sorts qu’il livre infligent la totalité de leurs effets aux créatures intangibles
+| [[Guerrier fantôme]] || <sup>AO</sup> || Pouvoir de classe [[Spirite#FANTOME|fantôme]], [[Fantômes (spirite)|fantôme]] doté du pouvoir [[Fantômes (spirite)#ATTAQUESMAGIQUES|attaques magiques]] || Les armes naturelles du fantôme et les sorts qu’il livre infligent la totalité de leurs effets aux créatures intangibles
 
 |- CLASS="premier"
-| [Guide divin](./Guide divin.md) || <sup>AG</sup> || [Châtiment canalisé](./Châtiment canalisé.md), maniement de l’arme de prédilection du dieu || Peut utiliser le modificateur de Sagesse aux jets d’attaque avec l’arme de prédilection du dieu
+| [[Guide divin]] || <sup>AG</sup> || [[Châtiment canalisé]], maniement de l’arme de prédilection du dieu || Peut utiliser le modificateur de Sagesse aux jets d’attaque avec l’arme de prédilection du dieu
 
 |- CLASS="premier"
-| [Haine cinglante](./Haine cinglante.md)* || <sup>MCA</sup> || Pouvoir de classe [cible étudiée](./Tueur.md#CIBLEETUDIEE) || Le personnage choisit un [ennemi juré](./ennemi juré.md) et profite de plus grands avantages quand il prend une telle créature comme cible étudiée
+| [[Haine cinglante]]* || <sup>MCA</sup> || Pouvoir de classe [[tueur#CIBLEETUDIEE|cible étudiée]] || Le personnage choisit un [[ennemi juré]] et profite de plus grands avantages quand il prend une telle créature comme cible étudiée
 |-
-| &emsp;[Préjugé extrême](./Préjugé extrême.md) || <sup>MCA</sup> || [Haine cinglante](./Haine cinglante.md), [attaque sournoise](./attaque sournoise.md) +3d6, pouvoir de classe cible étudiée || Quand le personnage réussit une attaque sournoise avec [Haine cinglante](./Haine cinglante.md), lancez des d8 plutôt que des d6 pour les dégâts
+| &emsp;[[Préjugé extrême]] || <sup>MCA</sup> || [[Haine cinglante]], [[attaque sournoise]] +3d6, pouvoir de classe cible étudiée || Quand le personnage réussit une attaque sournoise avec [[Haine cinglante]], lancez des d8 plutôt que des d6 pour les dégâts
 
 |- CLASS="premier"
-| [Halfelin porte-chance](./Halfelin porte-chance.md) || <sup>MJRA</sup> || [Halfelin](./Halfelin.md) || Permet de lancer un [jet de sauvegarde](./jet de sauvegarde.md) pour un allié 1/jour
+| [[Halfelin porte-chance]] || <sup>MJRA</sup> || [[Halfelin]] || Permet de lancer un [[jet de sauvegarde]] pour un allié 1/jour
 
 |- CLASS="premier"
-| [Héritage monastique](./Héritage monastique.md)* || <sup>AG</sup> || [Science du combat à mains nues](./Science du combat à mains nues.md), [sérénité](./Moine.md#SERENITE) || Pour déterminer les dégâts à mains nues, le personnage compte la moitié de ses niveaux d’autres classes comme des niveaux de [moine](./Moine.md)
+| [[Héritage monastique]]* || <sup>AG</sup> || [[Science du combat à mains nues]], [[Moine#SERENITE|sérénité]] || Pour déterminer les dégâts à mains nues, le personnage compte la moitié de ses niveaux d’autres classes comme des niveaux de [[moine]]
 
 |- CLASS="premier"
-| [Héritage racial](./Héritage racial.md) || <sup>MJRA</sup> || [Humain](./Humain.md) || Fonctionne comme un humain et un membre d’une autre [race](./../Golarion/races.md)
+| [[Héritage racial]] || <sup>MJRA</sup> || [[Humain]] || Fonctionne comme un humain et un membre d’une autre [[races|race]]
 
 |- CLASS="premier"
-| [Homme de main](./Homme de main.md)* || <sup>MJRA</sup> || 1 rang en [Intimidation](./Intimidation.md) || Démoraliser un ennemi par une [action libre](./Action libre.md) en infligeant des dégâts non létaux
+| [[Homme de main]]* || <sup>MJRA</sup> || 1 rang en [[Intimidation]] || Démoraliser un ennemi par une [[action libre]] en infligeant des dégâts non létaux
 
 |- CLASS="premier"
-| [Imitation animale prolongée](./Imitation animale prolongée.md) || <sup>MCA</sup> || Pouvoir de classe [Imitation animale](./Chasseur.md#IMITATIONANIMALE) || Le personnage rajoute son modificateur de Sagesse au nombre de minutes par jour où il peut utiliser imitation animale
+| [[Imitation animale prolongée]] || <sup>MCA</sup> || Pouvoir de classe [[Chasseur#IMITATIONANIMALE|Imitation animale]] || Le personnage rajoute son modificateur de Sagesse au nombre de minutes par jour où il peut utiliser imitation animale
 
 |- CLASS="premier"
-| [Imitation du traqueur](./Imitation du traqueur.md) || <sup>MCA</sup> || 3 rangs en [Connaissances](./Connaissances.md) (nature), 3 rangs en [Survie](./Survie.md), aucun niveau dans les classes possédant le pouvoir de classe [Imitation animale](./Chasseur.md#IMITATIONANIMALE) || Le personnage gagne une imitation animale pour lui ou pour son compagnon animal
+| [[Imitation du traqueur]] || <sup>MCA</sup> || 3 rangs en [[Connaissances]] (nature), 3 rangs en [[Survie]], aucun niveau dans les classes possédant le pouvoir de classe [[Chasseur#IMITATIONANIMALE|Imitation animale]] || Le personnage gagne une imitation animale pour lui ou pour son compagnon animal
 
 |- CLASS="premier"
-| [Implantation de bombe](./Implantation de bombe.md) || <sup>AM</sup> || 5 rangs en [Premiers secours](./Premiers secours.md), [découverte](./../Découverte.md) d’[alchimiste](./Alchimiste.md) [bombe à retardement](./bombe à retardement (découverte).md) || Implante une bombe dans une créature volontaire ou sans défense
+| [[Implantation de bombe]] || <sup>AM</sup> || 5 rangs en [[Premiers secours]], [[découverte]] d’[[alchimiste]] [[bombe à retardement (découverte)|bombe à retardement]] || Implante une bombe dans une créature volontaire ou sans défense
 
 |- CLASS="premier"
-| [Imposition des mains supplémentaire](./Imposition des mains supplémentaire.md) || <sup>MJ</sup> || [Imposition des mains](./Imposition des mains.md) || Deux impositions des mains supplémentaires/jour
+| [[Imposition des mains supplémentaire]] || <sup>MJ</sup> || [[Imposition des mains]] || Deux impositions des mains supplémentaires/jour
 
 |- CLASS="premier"
-| [Inaperçu](./Inaperçu.md) || <sup>MJRA</sup> || [Dex](./Dextérité.md) 13 , [Taille inférieure ou égale à P](./taille P.md) || Faire des tests de [Discrétion](./Discrétion.md) contre les adversaires [pris au dépourvu](./Pris au dépourvu.md) lors du premier round de combat
+| [[Inaperçu]] || <sup>MJRA</sup> || [[Dextérité|Dex]] 13 , [[Taille P|Taille inférieure ou égale à P]] || Faire des tests de [[Discrétion]] contre les adversaires [[pris au dépourvu]] lors du premier round de combat
 
 |- CLASS="premier"
-| [Incantation animale](./Incantation animale.md) || <sup>MJ</sup> || [Sag](./Sagesse.md) 13, [forme animale](./Forme animale.md) || Le personnage lance des sorts sous [forme animale](./Forme animale.md)
+| [[Incantation animale]] || <sup>MJ</sup> || [[Sagesse|Sag]] 13, [[forme animale]] || Le personnage lance des sorts sous [[forme animale]]
 
 |- CLASS="premier"
-| [Incantation contre un ennemi juré](./Incantation contre un ennemi juré.md) || <sup>MCA</sup> || Capacité à lancer des sorts || Le [DD](./DD.md) des sorts est augmenté de 1 contre l’ennemi choisi du personnage
+| [[Incantation contre un ennemi juré]] || <sup>MCA</sup> || Capacité à lancer des sorts || Le [[DD]] des sorts est augmenté de 1 contre l’ennemi choisi du personnage
 
 |- CLASS="premier"
-| [Incantation rageuse](./Incantation rageuse.md) || <sup>MCA</sup> || Pouvoir de classe [Sanguin#INCANTATIONSANGUINE|Incantation sanguine] || Sacrifice de points de vie pour augmenter la puissance des sorts de sanguin
+| [[Incantation rageuse]] || <sup>MCA</sup> || Pouvoir de classe [[Sanguin#INCANTATIONSANGUINE|Incantation sanguine]] || Sacrifice de points de vie pour augmenter la puissance des sorts de sanguin
 
 |- CLASS="premier"
-| [Induction d’hypnotiseur supplémentaire](./Induction-d’hypnotiseur-supplémentaire.md) || <sup>AO</sup> || Pouvoir de classe [induction d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR) || Implantation de 2 [inductions d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR) de plus par jour
+| [[Induction d’hypnotiseur supplémentaire]] || <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]] || Implantation de 2 [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|inductions d’hypnotiseur]] de plus par jour
 
 |- CLASS="premier"
-| [Ingénieur de siège](./Ingénieur de siège.md)* || <sup>AG</sup> || 5 rangs en [Connaissances](./Connaissances.md) (ingénierie) ou 5 rangs en [Profession](./Profession.md) (ingénieur de siège), maniement d’une arme de siège || Le personnage sait manier toutes les armes de siège
+| [[Ingénieur de siège]]* || <sup>AG</sup> || 5 rangs en [[Connaissances]] (ingénierie) ou 5 rangs en [[Profession]] (ingénieur de siège), maniement d’une arme de siège || Le personnage sait manier toutes les armes de siège
 |-
-| &emsp;[Maître ingénieur de siège](./Maître ingénieur de siège.md)* || <sup>AG</sup> || [Ingénieur de siège](./Ingénieur de siège.md), 10 rangs en [Connaissances](./Connaissances.md) (ingénierie) || L’équipe charge l’[arme de siège](./arme de siège.md) par une [action de mouvement](./Action de mouvement.md)
+| &emsp;[[Maître ingénieur de siège]]* || <sup>AG</sup> || [[Ingénieur de siège]], 10 rangs en [[Connaissances]] (ingénierie) || L’équipe charge l’[[arme de siège]] par une [[action de mouvement]]
 |-
-| &emsp;[Tireur à l’arme de siège](./Tireur à larme de siège.md)* || <sup>AG</sup> || [Ingénieur de siège](./Ingénieur de siège.md) || Pas de malus pour tirer avec une [arme de siège](./arme de siège.md) directe
+| &emsp;[[Tireur à larme de siège|Tireur à l’arme de siège]]* || <sup>AG</sup> || [[Ingénieur de siège]] || Pas de malus pour tirer avec une [[arme de siège]] directe
 
 |- CLASS="premier"
-| [Initié du chakra](./Initié du chakra.md) || <sup>AO</sup> || Capacité à éveiller le [chakra racine](./Chakras.md#RACINE) || Gain de 3 points de ki de feu-serpent pour les chakras
+| [[Initié du chakra]] || <sup>AO</sup> || Capacité à éveiller le [[Chakras#RACINE|chakra racine]] || Gain de 3 points de ki de feu-serpent pour les chakras
 |-
-| &emsp;[Adepte du chakra](./Adepte du chakra.md) || <sup>AO</sup> || [Initié du chakra](./Initié du chakra.md), capacité à éveiller le [chakra du coeur](./Chakras.md#DUCOEUR) || Gain de 3 points de ki de feu-serpent pour les chakras, possibilité de faire un jet de sauvegarde pour maintenir les chakras, bénéfices persistants
+| &emsp;[[Adepte du chakra]] || <sup>AO</sup> || [[Initié du chakra]], capacité à éveiller le [[chakras#DUCOEUR|chakra du coeur]] || Gain de 3 points de ki de feu-serpent pour les chakras, possibilité de faire un jet de sauvegarde pour maintenir les chakras, bénéfices persistants
 |-
-| &emsp;&emsp;[Maître du chakra](./Maître du chakra.md) || <sup>AO</sup> || [Adepte du chakra](./Adepte du chakra.md), capacité à éveiller le [chakra couronne](./Chakras.md#COURONNE) || Gain de 5 points de ki de feu-serpent pour les chakras, possibilité de dépenser du chakra pour obtenir deux avantages de chakra
+| &emsp;&emsp;[[Maître du chakra]] || <sup>AO</sup> || [[Adepte du chakra]], capacité à éveiller le [[chakras#COURONNE|chakra couronne]] || Gain de 5 points de ki de feu-serpent pour les chakras, possibilité de dépenser du chakra pour obtenir deux avantages de chakra
 
 |- CLASS="premier"
-| [Initié du refus de mourir](./Initié du refus de mourir.md)* || <sup>AG</sup> || [For](./For.md) 13, [Con](./Constitution.md) 13, [orque](./Orque.md) ou [demi-orque](./Demi-orque.md), [Dur à cuire](./Dur à cuire.md), [BBA](./BBA.md) +6 || Le personnage n’est pas [chancelant](./Chancelant.md) quand il utilise Dur à cuire ; +2 aux jets de dégâts au corps à corps
+| [[Initié du refus de mourir]]* || <sup>AG</sup> || [[For]] 13, [[Constitution|Con]] 13, [[orque]] ou [[demi-orque]], [[Dur à cuire]], [[BBA]] +6 || Le personnage n’est pas [[chancelant]] quand il utilise Dur à cuire ; +2 aux jets de dégâts au corps à corps
 |-
-| &emsp;[Maître du refus de mourir](./Maître du refus de mourir.md)* || <sup>AG</sup> || [Con](./Constitution.md) 15, [Initié du refus de mourir](./Initié du refus de mourir.md), [Peau de fer](./Peau de fer.md), [BBA](./BBA.md) +9 || Pas de perte de points sous Dur à cuire
+| &emsp;[[Maître du refus de mourir]]* || <sup>AG</sup> || [[Constitution|Con]] 15, [[Initié du refus de mourir]], [[Peau de fer]], [[BBA]] +9 || Pas de perte de points sous Dur à cuire
 |-
-| &emsp;&emsp;[Zélote du refus de mourir](./Zélote du refus de mourir.md)* || <sup>AG</sup> || [Con](./Constitution.md) 17, [Maître du refus de mourir](./Maître du refus de mourir.md), [BBA](./BBA.md) +12 || Les ennemis sont obligés de refaire les attaques de confirmation de [coup critique](./coup critique.md) réussies
+| &emsp;&emsp;[[Zélote du refus de mourir]]* || <sup>AG</sup> || [[Constitution|Con]] 17, [[Maître du refus de mourir]], [[BBA]] +12 || Les ennemis sont obligés de refaire les attaques de confirmation de [[coup critique]] réussies
 
 |- CLASS="premier"
-| [Inoculation perspicace](./Inoculation perspicace.md) || <sup>MCA</sup> || Pouvoir de classe utilisation des poisons, frappe étudiée +4d6 || Augmente le [DD](./DD.md) du poison délivré avec frappe étudiée
+| [[Inoculation perspicace]] || <sup>MCA</sup> || Pouvoir de classe utilisation des poisons, frappe étudiée +4d6 || Augmente le [[DD]] du poison délivré avec frappe étudiée
 
 |- CLASS="premier"
-| [Inspiration concentrée](./Inspiration concentrée.md) || <sup>MCA</sup> || Pouvoir de classe [inspiration](./Enquêteur.md#INSPIRATION), pouvoir de classe [souvenir précis](./Enquêteur.md#SOUVENIRPRECIS) || Utilisation de d8 ou supérieurs quand votre personnage utilise [inspiration](./Enquêteur.md#INSPIRATION) pour les [compétences](./Compétences.md) choisies
+| [[Inspiration concentrée]] || <sup>MCA</sup> || Pouvoir de classe [[Enquêteur#INSPIRATION|inspiration]], pouvoir de classe [[enquêteur#SOUVENIRPRECIS|souvenir précis]] || Utilisation de d8 ou supérieurs quand votre personnage utilise [[Enquêteur#INSPIRATION|inspiration]] pour les [[compétences]] choisies
 
 |- CLASS="premier"
-| [Inspiration supplémentaire](./Inspiration supplémentaire.md) || <sup>MCA</sup> || [Enquêteur amateur](./Enquêteur amateur.md) ou pouvoir de classe [inspiration](./Enquêteur.md#INSPIRATION) || Gain de trois utilisations d’[inspiration](./Enquêteur.md#INSPIRATION)
+| [[Inspiration supplémentaire]] || <sup>MCA</sup> || [[Enquêteur amateur]] ou pouvoir de classe [[Enquêteur#INSPIRATION|inspiration]] || Gain de trois utilisations d’[[Enquêteur#INSPIRATION|inspiration]]
 
 |- CLASS="premier"
-| [Interférence divine](./Interférence divine.md) || <sup>AM</sup> || Lanceur de sorts divins, lanceur de sorts niveau 10 || Sacrifie un sort pour obliger un ennemi à refaire un [jet d’attaque](./jet dattaque.md) réussi contre un allié
+| [[Interférence divine]] || <sup>AM</sup> || Lanceur de sorts divins, lanceur de sorts niveau 10 || Sacrifie un sort pour obliger un ennemi à refaire un [[jet dattaque|jet d’attaque]] réussi contre un allié
 
 |- CLASS="premier"
-| [Intuition partagée](./Intuition partagée.md) || <sup>MJRA</sup> || [Sag](./Sagesse.md) 13, [demi-elfe](./Demi-elfe.md) || Donner un bonus de +2 aux tests de [Perception](./Perception.md) aux alliés
+| [[Intuition partagée]] || <sup>MJRA</sup> || [[Sagesse|Sag]] 13, [[demi-elfe]] || Donner un bonus de +2 aux tests de [[Perception]] aux alliés
 
 |- CLASS="premier"
-| [Intuition prophétique](./Intuition prophétique.md) || <sup>AM</sup> || [Mystère](./mystère.md) || Bonus aux tests de [Psychologie](./Psychologie.md) et [Art de la magie](./Art de la magie.md) pour identifier des propriétés magiques
+| [[Intuition prophétique]] || <sup>AM</sup> || [[Mystère]] || Bonus aux tests de [[Psychologie]] et [[Art de la magie]] pour identifier des propriétés magiques
 
 |- CLASS="premier"
-| [Invocateur de squelettes](./Invocateur de squelettes.md) || <sup>AM</sup> || [École renforcée](./École renforcée.md) (nécromancie), *[convocation de monstres](./Convocation de monstres I.md)* || Convoque des squelettes au lieu de créatures vivantes avec convocation de monstres
+| [[Invocateur de squelettes]] || <sup>AM</sup> || [[École renforcée]] (nécromancie), *[[convocation de monstres I|convocation de monstres]]* || Convoque des squelettes au lieu de créatures vivantes avec convocation de monstres
 
 |- CLASS="premier"
-| [Invocation de conduits](./Invocation de conduits.md) || <sup>RTT</sup> || - || Les créatures invoquées gagnent le pouvoir [transfert de sort](./Compagnons animaux.md#TRANSFERTDESORTS)
+| [[Invocation de conduits]] || <sup>RTT</sup> || - || Les créatures invoquées gagnent le pouvoir [[compagnons animaux#TRANSFERTDESORTS|transfert de sort]]
 
 |- CLASS="premier"
-| [Jugement partagé](./Jugement partagé.md) || <sup>AG</sup> || Second jugement || Étend les effets d’un jugement à un allié adjacent au lieu d’en activer un second
+| [[Jugement partagé]] || <sup>AG</sup> || Second jugement || Étend les effets d’un jugement à un allié adjacent au lieu d’en activer un second
 
 |- CLASS="premier"
-| [Jugement instantané](./Jugement instantané.md) || <sup>AG</sup> || Second jugement || Le personnage peut prononcer un jugement ou en changer par une [action immédiate](./Action immédiate.md)
+| [[Jugement instantané]] || <sup>AG</sup> || Second jugement || Le personnage peut prononcer un jugement ou en changer par une [[action immédiate]]
 
 |- CLASS="premier"
-| [Jugement partial](./Jugement partial.md) || <sup>AM</sup> || [Sag](./Sagesse.md) 13, pouvoir de classe [jugement](./Inquisiteur.md#JUGEMENT) || Le jugement est plus efficace sur les créatures d’un type donné tirées de la liste des [ennemis jurés](./ennemi juré.md) du [rôdeur](./Rôdeur.md)
+| [[Jugement partial]] || <sup>AM</sup> || [[Sagesse|Sag]] 13, pouvoir de classe [[inquisiteur#JUGEMENT|jugement]] || Le jugement est plus efficace sur les créatures d’un type donné tirées de la liste des [[ennemi juré|ennemis jurés]] du [[rôdeur]]
 
 |- CLASS="premier"
-| [Jugement renforcé](./Jugement renforcé.md) || <sup>AM</sup> || [jugement](./Inquisiteur.md#JUGEMENT), deux [jugement](./Inquisiteur.md#JUGEMENT) par jour || Version améliorée du jugement
+| [[Jugement renforcé]] || <sup>AM</sup> || [[inquisiteur#JUGEMENT|jugement]], deux [[inquisiteur#JUGEMENT|jugement]] par jour || Version améliorée du jugement
 
 |- CLASS="premier"
-| [Ki supplémentaire](./Ki supplémentaire.md) || <sup>MJ</sup> || Réserve de [ki](./ki.md) || Augmente la réserve de [ki](./ki.md) de +2
+| [[Ki supplémentaire]] || <sup>MJ</sup> || Réserve de [[ki]] || Augmente la réserve de [[ki]] de +2
 
 |- CLASS="premier"
-| [Lacération furieuse](./Lacération furieuse.md)* || <sup>AG</sup> || attaque spéciale [Éventration](./Éventration.md), [BBA](./BBA.md) +6 || Le nombre d’attaques réussies nécessaires pour faire une éventration diminue de moitié
+| [[Lacération furieuse]]* || <sup>AG</sup> || attaque spéciale [[Éventration]], [[BBA]] +6 || Le nombre d’attaques réussies nécessaires pour faire une éventration diminue de moitié
 |-
-| &emsp;[Science de la lacération furieuse](./Science de la lacération furieuse.md)* || <sup>AG</sup> || [Lacération furieuse](./Lacération furieuse.md), [BBA](./BBA.md) +9 || Inflige des dégâts supplémentaires en cas d’éventration
+| &emsp;[[Science de la lacération furieuse]]* || <sup>AG</sup> || [[Lacération furieuse]], [[BBA]] +9 || Inflige des dégâts supplémentaires en cas d’éventration
 |-
-| &emsp;&emsp;[Lacération furieuse supérieure](./Lacération furieuse supérieure.md)* || <sup>AG</sup> || [Science de la lacération furieuse](./Science de la lacération furieuse.md), [BBA](./BBA.md) +12 || Inflige des dégâts de [saignement](./Saignement.md) en cas d’éventration
+| &emsp;&emsp;[[Lacération furieuse supérieure]]* || <sup>AG</sup> || [[Science de la lacération furieuse]], [[BBA]] +12 || Inflige des dégâts de [[saignement]] en cas d’éventration
 
 |- CLASS="premier"
-| [Lai de la terre](./Lai de la terre.md) || <sup>MCA</sup> || Pouvoir de classe [Imitation animale](./Chasseur.md#IMITATIONANIMALE), pouvoir de classe [empathie sauvage](./Druide.md#EMPATHIESAUVAGE) || Gain d’une version mineure du pouvoir de classe environnement de prédilection
+| [[Lai de la terre]] || <sup>MCA</sup> || Pouvoir de classe [[Chasseur#IMITATIONANIMALE|Imitation animale]], pouvoir de classe [[druide#EMPATHIESAUVAGE|empathie sauvage]] || Gain d’une version mineure du pouvoir de classe environnement de prédilection
 
 |- CLASS="premier"
-| [Lancer à deux mains](./Lancer à deux mains.md)* || <sup>AG</sup> || [For](./Force.md) 15 || Bonus de [Force](./Force.md) quand le personnage utilise ses deux mains pour lancer une arme à une ou deux mains
+| [[Lancer à deux mains]]* || <sup>AG</sup> || [[Force|For]] 15 || Bonus de [[Force]] quand le personnage utilise ses deux mains pour lancer une arme à une ou deux mains
 
 |- CLASS="premier"
-| [Lancer improvisé](./Lancer improvisé.md)* || <sup>MJ</sup> || — || Pas de malus avec les armes à distance [improvisées](./arme improvisée.md)
+| [[Lancer improvisé]]* || <sup>MJ</sup> || — || Pas de malus avec les armes à distance [[arme improvisée|improvisées]]
 |-
-| &emsp;[Arme à aspersion à ricochet](./Arme à aspersion à ricochet.md) || <sup>AM</sup> || [Dex](./Dextérité.md) 13, [Lancer improvisé](./Lancer improvisé.md) || Jet d’attaque avec une arme à aspersion, si elle rate sa cible et atterrit dans l’hexagone d’une autre créature
+| &emsp;[[Arme à aspersion à ricochet]] || <sup>AM</sup> || [[Dextérité|Dex]] 13, [[Lancer improvisé]] || Jet d’attaque avec une arme à aspersion, si elle rate sa cible et atterrit dans l’hexagone d’une autre créature
 |-
-| &emsp;[Lanceur enragé](./Lanceur enragé.md) || <sup>AG</sup> || [Rage](./Rage.md), [Lancer improvisé](./Lancer improvisé.md) || Lance une arme à deux mains par une [action simple](./Action simple.md)
+| &emsp;[[Lanceur enragé]] || <sup>AG</sup> || [[Rage]], [[Lancer improvisé]] || Lance une arme à deux mains par une [[action simple]]
 |-
-| &emsp;[Maîtrise des armes improvisées](./Maîtrise des armes improvisées.md)* || <sup>MJ</sup> || [Surprise](./Surprise.md) ou [Lancer improvisé](./Lancer improvisé.md), [BBA](./BBA.md) +8 || De dangereuses attaques avec une [arme improvisée](./arme improvisée.md)
+| &emsp;[[Maîtrise des armes improvisées]]* || <sup>MJ</sup> || [[Surprise]] ou [[Lancer improvisé]], [[BBA]] +8 || De dangereuses attaques avec une [[arme improvisée]]
 
 |- CLASS="premier"
-| [Lanceur à distance](./Lanceur à distance.md)* || <sup>AG</sup> || [For](./Force.md) 13 || Réduit le malus de distance des armes de jet de 2
+| [[Lanceur à distance]]* || <sup>AG</sup> || [[Force|For]] 13 || Réduit le malus de distance des armes de jet de 2
 
 |- CLASS="premier"
-| [Langue sauvage](./Langue sauvage.md) || <sup>AM</sup> || [Forme animale](./Druide.md#FORMEANIMALE), druide niveau 6 || Parle sous forme animale
+| [[Langue sauvage]] || <sup>AM</sup> || [[druide#FORMEANIMALE|Forme animale]], druide niveau 6 || Parle sous forme animale
 
 |- CLASS="premier"
-| [Lutteur des bars](./Lutteur des bars.md)* || <sup>MCA</sup> || [BBA](./BBA.md) +4 || Une fois par jour, le personnage peut utiliser un don de combat qu’il ne possède pas pendant 1 minute
+| [[Lutteur des bars]]* || <sup>MCA</sup> || [[BBA]] +4 || Une fois par jour, le personnage peut utiliser un don de combat qu’il ne possède pas pendant 1 minute
 
 |- CLASS="premier"
-| [Maestro psychique](./Maestro psychique.md) || <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques || Utilisation plus fréquente des extensions de compétence occultes
+| [[Maestro psychique]] || <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques || Utilisation plus fréquente des extensions de compétence occultes
 
 |- CLASS="premier"
-| [Mage talentueux](./Mage talentueux.md) || <sup>MCA</sup> || [Talent de roublard magie majeure](./Talents.md#MAGIEMAJEURE), [talent de roublard magie mineure](./Talents.md#MAGIEMINEURE)  || Gain d’utilisations supplémentaires de pouvoirs magiques
+| [[Mage talentueux]] || <sup>MCA</sup> || [[Talents#MAGIEMAJEURE|Talent de roublard magie majeure]], [[Talents#MAGIEMINEURE|talent de roublard magie mineure]]  || Gain d’utilisations supplémentaires de pouvoirs magiques
 
 |- CLASS="premier"
-| [Magie de guerre](./Magie de guerre.md) || <sup>MJ</sup> || — || +4 aux [tests de concentration](./test de concentration.md) pour incanter un sort sur la défensive
+| [[Magie de guerre]] || <sup>MJ</sup> || — || +4 aux [[test de concentration|tests de concentration]] pour incanter un sort sur la défensive
 |-
-| &emsp;[Concentration instinctive](./Concentration instinctive.md) || <sup>AM</sup> || [Magie de guerre](./Magie de guerre.md) || Pas de test de [Concentration](./concentration.md) en cas de mouvement violent, bonus de +2 sur tous les autres
+| &emsp;[[Concentration instinctive]] || <sup>AM</sup> || [[Magie de guerre]] || Pas de test de [[Concentration]] en cas de mouvement violent, bonus de +2 sur tous les autres
 
 |- CLASS="premier"
-| [Magie de la nature](./Magie de la nature.md) || <sup>MCA</sup> || 1 rang en [Connaissances](./Connaissances.md) (nature) || Le personnage gagne [repérage](./Repérage.md) comme pouvoir magique constant et utilise une autre oraison de [druide](./Druide.md) une fois par jour
+| [[Magie de la nature]] || <sup>MCA</sup> || 1 rang en [[Connaissances]] (nature) || Le personnage gagne [[repérage]] comme pouvoir magique constant et utilise une autre oraison de [[druide]] une fois par jour
 
 |- CLASS="premier"
-| [Maître alchimiste](./Maître alchimiste.md) || <sup>MJ</sup> || 5 [rangs](./rang.md) en [Artisanat](./Artisanat.md) (Alchimie) || Le personnage +2 aux tests d’[Artisanat](./Artisanat.md) (Alchimie), permet de créer des objets alchimiques et des poisons plus rapidement
+| [[Maître alchimiste]] || <sup>MJ</sup> || 5 [[rang|rangs]] en [[Artisanat]] (Alchimie) || Le personnage +2 aux tests d’[[Artisanat]] (Alchimie), permet de créer des objets alchimiques et des poisons plus rapidement
 
 |- CLASS="premier"
-| [Maître artisan](./Maître artisan.md) || <sup>MJ</sup> || 5 [rangs](./rang.md) en [Artisanat](./Artisanat.md) ou [Profession](./Profession.md) || Le personnage n’a pas besoin d’être un lanceur de sorts pour [créer des objets magiques](./Création dobjets magiques.md)
+| [[Maître artisan]] || <sup>MJ</sup> || 5 [[rang|rangs]] en [[Artisanat]] ou [[Profession]] || Le personnage n’a pas besoin d’être un lanceur de sorts pour [[Création dobjets magiques|créer des objets magiques]]
 
 |- CLASS="premier"
-| [Maître des chevaux](./Maître des chevaux.md)* || <sup>AG</sup> || [Dresseur expérimenté](./Chevalier.md#DRESSEUREXPERIMENTE), 6 rangs en [Équitation](./Équitation.md) || Le personnage utilise son niveau pour déterminer les pouvoirs et les capacités de sa monture
+| [[Maître des chevaux]]* || <sup>AG</sup> || [[Chevalier#DRESSEUREXPERIMENTE|Dresseur expérimenté]], 6 rangs en [[Équitation]] || Le personnage utilise son niveau pour déterminer les pouvoirs et les capacités de sa monture
 
 |- CLASS="premier"
-| [Maîtrise des armes de spectacle](./Maîtrise des armes de spectacle.md)* || <sup>AG</sup> || — || Toutes les armes que le personnage sait manier sont considérées comme des [armes de spectacle](./armes-de-spectacle.md)
+| [[Maîtrise des armes de spectacle]]* || <sup>AG</sup> || — || Toutes les armes que le personnage sait manier sont considérées comme des [[armes de spectacle]]
 
 |- CLASS="premier"
-| [Maîtrise des sorts](./Maîtrise des sorts.md) || <sup>MJ</sup> || [Magicien](./Magicien.md) niveau 1 || Certains sorts se préparent sans grimoire
+| [[Maîtrise des sorts]] || <sup>MJ</sup> || [[Magicien]] niveau 1 || Certains sorts se préparent sans grimoire
 |-
-| &emsp;[Magie flexible](./Magie flexible.md) || <sup>MCA</sup> || [Maîtrise des sorts](./Maîtrise des sorts.md), [Magicien](./Magicien.md) niveau 1 || Préparation de certains sorts de manière flexible
+| &emsp;[[Magie flexible]] || <sup>MCA</sup> || [[Maîtrise des sorts]], [[Magicien]] niveau 1 || Préparation de certains sorts de manière flexible
 |-
-| &emsp;&emsp;[Science de la magie flexible](./Science de la magie flexible.md) || <sup>MCA</sup> || [Magie flexible](./Magie flexible.md), [Magicien](./Magicien.md) niveau 8 || Préparation de plus de sorts de manière flexible
+| &emsp;&emsp;[[Science de la magie flexible]] || <sup>MCA</sup> || [[Magie flexible]], [[Magicien]] niveau 8 || Préparation de plus de sorts de manière flexible
 
 |- CLASS="premier"
-| [Maîtrise du combat défensif](./Maîtrise du combat défensif.md)* || <sup>MJ</sup> || — || Le [DMD](./DMD.md) du personnage se calcule à partir d'un [BBA](./BBA.md) égal à son nombre de [DV](./../Ressources/DV.md)
+| [[Maîtrise du combat défensif]]* || <sup>MJ</sup> || — || Le [[DMD]] du personnage se calcule à partir d'un [[BBA]] égal à son nombre de [[DV]]
 
 |- CLASS="premier"
-| [Maléfice flexible](./Maléfice flexible.md) || <sup>MCA</sup> || Pouvoir de classe maléfice errant || Changement de maléfice errant par une [action rapide](./Action rapide.md)
+| [[Maléfice flexible]] || <sup>MCA</sup> || Pouvoir de classe maléfice errant || Changement de maléfice errant par une [[action rapide]]
 
 |- CLASS="premier"
-| [Maléfice magique](./Maléfice magique.md) || <sup>AM</sup> || [Maléfice majeur](./Sorcière.md#MALEFICEMAJEUR) || Lance un sort de niveau 1 comme un [maléfice](./maléfice.md)
+| [[Maléfice magique]] || <sup>AM</sup> || [[Sorcière#MALEFICEMAJEUR|Maléfice majeur]] || Lance un sort de niveau 1 comme un [[maléfice]]
 
 |- CLASS="premier"
-| [Maléfice maudit](./Maléfice maudit.md) || <sup>AM</sup> || Aptitude de classe [maléfice](./maléfice.md) || Vise une créature une seconde fois dans la journée si elle a réussi son jet de sauvegarde la première
+| [[Maléfice maudit]] || <sup>AM</sup> || Aptitude de classe [[maléfice]] || Vise une créature une seconde fois dans la journée si elle a réussi son jet de sauvegarde la première
 
 |- CLASS="premier"
-| [Maléfice supplémentaire](./Maléfice supplémentaire.md) || <sup>MJRA</sup> || Aptitude de classe de [maléfice](./maléfices.md) || Gagne un [maléfice](./maléfices.md) de plus
+| [[Maléfice supplémentaire]] || <sup>MJRA</sup> || Aptitude de classe de [[maléfices|maléfice]] || Gagne un [[maléfices|maléfice]] de plus
 
 |- CLASS="premier"
-| [Maniement des armes courantes](./Maniement des armes courantes.md) || <sup>MJ</sup> || — || Pas de malus aux [jets d’attaque](./jet dattaque.md) avec les [armes courantes](./arme courante.md)
+| [[Maniement des armes courantes]] || <sup>MJ</sup> || — || Pas de malus aux [[jet dattaque|jets d’attaque]] avec les [[arme courante|armes courantes]]
 
 |- CLASS="premier"
-| [Maniement d'une arme de guerre](./Maniement dune arme de guerre.md) || <sup>MJ</sup> || — || Pas de malus aux jets d’attaque avec une [arme de guerre](./arme de guerre.md)
+| [[Maniement dune arme de guerre|Maniement d'une arme de guerre]] || <sup>MJ</sup> || — || Pas de malus aux jets d’attaque avec une [[arme de guerre]]
 
 |- CLASS="premier"
-| [Maniement d'une arme exotique](./Maniement dune arme exotique.md)* || <sup>MJ</sup> || [BBA](./BBA.md) +1 || Pas de malus quand le personnage utilise une [arme exotique](./arme exotique.md)
+| [[Maniement dune arme exotique|Maniement d'une arme exotique]]* || <sup>MJ</sup> || [[BBA]] +1 || Pas de malus quand le personnage utilise une [[arme exotique]]
 |-
-| &emsp;[Adepte du filet](./Adepte du filet.md)* || <sup>AG</sup> || [Maniement d'une arme exotique](./Maniement dune arme exotique.md) (filet), [BBA](./BBA.md) +1 || Considère le filet comme une arme à une main
+| &emsp;[[Adepte du filet]]* || <sup>AG</sup> || [[Maniement dune arme exotique|Maniement d'une arme exotique]] (filet), [[BBA]] +1 || Considère le filet comme une arme à une main
 |-
-| &emsp;&emsp;[Filet et trident](./Filet et trident.md)* || <sup>AG</sup> || [Dex](./Dex.md) 15, [Adepte du filet](./Adepte du filet.md), [Combat à deux armes](./Combat à deux armes.md) || Peut manier une arme à une main ou une arme légère avec un filet
+| &emsp;&emsp;[[Filet et trident]]* || <sup>AG</sup> || [[Dex]] 15, [[Adepte du filet]], [[Combat à deux armes]] || Peut manier une arme à une main ou une arme légère avec un filet
 |-
-| &emsp;&emsp;&emsp;[Manœuvrer le filet](./Manoeuvrer-le-filet.md)* || <sup>AG</sup> || [Adepte du filet](./Adepte du filet.md), [BBA](./BBA.md) +3 || Peut utiliser un filet pour faire un [croc-en-jambe](./croc-en-jambe.md) ou un [désarmement](./désarmer.md)
+| &emsp;&emsp;&emsp;[[Manoeuvrer le filet|Manœuvrer le filet]]* || <sup>AG</sup> || [[Adepte du filet]], [[BBA]] +3 || Peut utiliser un filet pour faire un [[croc-en-jambe]] ou un [[Désarmer|désarmement]]
 |-
-| &emsp;&emsp;&emsp;&emsp;[Ruse au filet](./Ruse au filet.md)* || <sup>AG</sup> || [Adepte du filet](./Adepte du filet.md), [Manœuvrer le filet](./Manoeuvrer-le-filet.md), [BBA](./BBA.md) +6 || Peut utiliser un filet pour aveugler l’adversaire
+| &emsp;&emsp;&emsp;&emsp;[[Ruse au filet]]* || <sup>AG</sup> || [[Adepte du filet]], [[Manoeuvrer le filet|Manœuvrer le filet]], [[BBA]] +6 || Peut utiliser un filet pour aveugler l’adversaire
 
 |- CLASS="premier"
-| [Maniement des boucliers](./Maniement des boucliers.md) || <sup>MJ</sup> || —
-| Pas de malus aux [jets d’attaque](./jet dattaque.md) lorsque le personnage utilise un bouclier
+| [[Maniement des boucliers]] || <sup>MJ</sup> || —
+| Pas de malus aux [[jet dattaque|jets d’attaque]] lorsque le personnage utilise un bouclier
 |-
-| &emsp;[Science du coup de bouclier](./Science du coup de bouclier.md)* || <sup>MJ</sup> || [Maniement des boucliers](./Maniement des boucliers.md) || Conserve le bonus de bouclier même en frappant avec
+| &emsp;[[Science du coup de bouclier]]* || <sup>MJ</sup> || [[Maniement des boucliers]] || Conserve le bonus de bouclier même en frappant avec
 |-
-| &emsp;&emsp;[Frappe du bouclier](./Frappe du bouclier.md)* || <sup>MJ</sup> || [Combat à deux armes](./Combat à deux armes.md), [BBA](./BBA.md) +6,   
-[Science du coup de bouclier](./Science du coup de bouclier.md) || [Bousculade](./bousculade.md) gratuite lors d’un coup de bouclier
+| &emsp;&emsp;[[Frappe du bouclier]]* || <sup>MJ</sup> || [[Combat à deux armes]], [[BBA]] +6,   
+[[Science du coup de bouclier]] || [[Bousculade]] gratuite lors d’un coup de bouclier
 |-
-| &emsp;&emsp;&emsp;[Maîtrise du bouclier](./Maîtrise du bouclier.md)* || <sup>MJ</sup> || [Frappe du bouclier](./Frappe du bouclier.md), [BBA](./BBA.md) +11 || Pas de malus pour le [combat à deux armes](./Actions spéciales.md#COMBAT2ARMES) si le personnage attaque avec un bouclier
+| &emsp;&emsp;&emsp;[[Maîtrise du bouclier]]* || <sup>MJ</sup> || [[Frappe du bouclier]], [[BBA]] +11 || Pas de malus pour le [[Actions spéciales#COMBAT2ARMES|combat à deux armes]] si le personnage attaque avec un bouclier
 |-
-| &emsp;&emsp;&emsp;&emsp;[Coup de bouclier opportuniste](./Coup de bouclier opportuniste.md)* || <sup>MJRA</sup> || [Maîtrise du bouclier](./Maîtrise du bouclier.md), [Combat à deux armes](./Combat à deux armes.md), [BBA](./BBA.md)+11 || Attaque de bouclier gratuite après un [coup critique](./coup critique.md)
+| &emsp;&emsp;&emsp;&emsp;[[Coup de bouclier opportuniste]]* || <sup>MJRA</sup> || [[Maîtrise du bouclier]], [[Combat à deux armes]], [[BBA]]+11 || Attaque de bouclier gratuite après un [[coup critique]]
 |-
-| &emsp;[Art du bouclier](./Art du bouclier.md)* || <sup>MJ</sup> || [Maniement des boucliers](./Maniement des boucliers.md), [BBA](./BBA.md) +1 || +1 à la [CA](./CA.md) quand le personnage utilise un bouclier
+| &emsp;[[Art du bouclier]]* || <sup>MJ</sup> || [[Maniement des boucliers]], [[BBA]] +1 || +1 à la [[CA]] quand le personnage utilise un bouclier
 |-
-| &emsp;&emsp;[Art du bouclier supérieur](./Art du bouclier supérieur.md)* || <sup>MJ</sup> || [Art du bouclier](./Art du bouclier.md), [guerrier](./Guerrier.md) niv. 8 || +1 à la [CA](./CA.md) quand le personnage utilise un bouclier
+| &emsp;&emsp;[[Art du bouclier supérieur]]* || <sup>MJ</sup> || [[Art du bouclier]], [[guerrier]] niv. 8 || +1 à la [[CA]] quand le personnage utilise un bouclier
 |-
-| &emsp;&emsp;[Bouclier contre les projectiles](./Bouclier contre les projectiles.md)* || <sup>MJRA</sup> || [Art du bouclier](./Art du bouclier.md), [Dex](./Dextérité.md) 13 || Parer une [attaque à distance](./Attaque à distance.md) par round avec un bouclier
+| &emsp;&emsp;[[Bouclier contre les projectiles]]* || <sup>MJRA</sup> || [[Art du bouclier]], [[Dextérité|Dex]] 13 || Parer une [[attaque à distance]] par round avec un bouclier
 |-
-| &emsp;&emsp;&emsp;[Bouclier contre les rayons](./Bouclier contre les rayons.md)* || <sup>MJRA</sup> || [Bouclier contre les projectiles](./Bouclier contre les projectiles.md), [Briseur de sorts](./Briseur de sorts.md), [Dex](./Dextérité.md) 15 || Parer une [attaque de contact à distance](./attaque de contact à distance.md) par round avec un bouclier
+| &emsp;&emsp;&emsp;[[Bouclier contre les rayons]]* || <sup>MJRA</sup> || [[Bouclier contre les projectiles]], [[Briseur de sorts]], [[Dextérité|Dex]] 15 || Parer une [[attaque de contact à distance]] par round avec un bouclier
 |-
-| &emsp;&emsp;[Bouclier protecteur](./Bouclier protecteur.md)* || <sup>MJRA</sup> || [Art du bouclier](./Art du bouclier.md), [BBA](./BBA.md) +6 || En [défense totale](./défense totale.md), fournir un [abri](./abri.md) à un allié
+| &emsp;&emsp;[[Bouclier protecteur]]* || <sup>MJRA</sup> || [[Art du bouclier]], [[BBA]] +6 || En [[défense totale]], fournir un [[abri]] à un allié
 |-
-| &emsp;&emsp;[Spécialisation au bouclier](./Spécialisation au bouclier.md)* || <sup>MJRA</sup> || [Art du bouclier](./Art du bouclier.md), [guerrier](./Guerrier.md) niveau 4 || Bonus de +2 à la [CA](./CA.md) contre les [coups critiques](./coup critique.md) avec un type de bouclier
+| &emsp;&emsp;[[Spécialisation au bouclier]]* || <sup>MJRA</sup> || [[Art du bouclier]], [[guerrier]] niveau 4 || Bonus de +2 à la [[CA]] contre les [[coup critique|coups critiques]] avec un type de bouclier
 |-
-| &emsp;&emsp;&emsp;[Spécialisation supérieure aux boucliers](./Spécialisation supérieure aux boucliers.md)* || <sup>MJRA</sup> || [Art du bouclier supérieur](./Art du bouclier supérieur.md), [Spécialisation au bouclier](./Spécialisation au bouclier.md), [guerrier](./Guerrier.md) niveau 12 || Bonus de +2 à la [CA](./CA.md) contre les [coups critiques](./coup critique.md) et annuler un coup critique par jour
+| &emsp;&emsp;&emsp;[[Spécialisation supérieure aux boucliers]]* || <sup>MJRA</sup> || [[Art du bouclier supérieur]], [[Spécialisation au bouclier]], [[guerrier]] niveau 12 || Bonus de +2 à la [[CA]] contre les [[coup critique|coups critiques]] et annuler un coup critique par jour
 |-
-| &emsp;[Bouclier salvateur](./Bouclier salvateur.md)* || <sup>MJRA</sup> || [Maniement des boucliers](./Maniement des boucliers.md) || Octroyer un bonus de bouclier à un allié adjacent
+| &emsp;[[Bouclier salvateur]]* || <sup>MJRA</sup> || [[Maniement des boucliers]] || Octroyer un bonus de bouclier à un allié adjacent
 |-
-| &emsp;[Maniement du pavois](./Maniement du pavois.md)* || <sup>MJ</sup> || [Maniement des boucliers](./Maniement des boucliers.md) || Pas de malus aux [jets d’attaque](./jet dattaque.md) tout en portant un pavois
+| &emsp;[[Maniement du pavois]]* || <sup>MJ</sup> || [[Maniement des boucliers]] || Pas de malus aux [[jet dattaque|jets d’attaque]] tout en portant un pavois
 |-
-| &emsp;[Mur de boucliers canalisé](./Mur de boucliers canalisé.md) || <sup>AM</sup> || [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 3d6, [Maniement des boucliers](./Maniement des boucliers.md) || Améliore le bouclier et celui des alliés adjacents
+| &emsp;[[Mur de boucliers canalisé]] || <sup>AM</sup> || [[prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] 3d6, [[Maniement des boucliers]] || Améliore le bouclier et celui des alliés adjacents
 
 |- CLASS="premier"
-| [Manœuvres agiles](./Manœuvres agiles.md)* || <sup>MJ</sup> || — || Utilisation du bonus de [Dex](./Dextérité.md) pour calculer le [BMO](./BMO.md)
+| [[Manœuvres agiles]]* || <sup>MJ</sup> || — || Utilisation du bonus de [[Dextérité|Dex]] pour calculer le [[BMO]]
 |-
-| &emsp;[Par-dessus et par-dessous](./Par-dessus et par-dessous.md)* || <sup>MJRA</sup> || [Manœuvres agiles](./Manœuvres agiles.md), [taille inférieure ou égale à P](./taille P.md) || Les créatures qui tentent et ratent une lutte contre le personnage tombent [à terre](./À terre.md)
+| &emsp;[[Par-dessus et par-dessous]]* || <sup>MJRA</sup> || [[Manœuvres agiles]], [[Taille P|taille inférieure ou égale à P]] || Les créatures qui tentent et ratent une lutte contre le personnage tombent [[à terre]]
 
 |- CLASS="premier"
-| [Marqué pour punir](./Marqué pour punir.md) || <sup>AG</sup> || Pouvoir de classe [tueur](./Tueur.md) || Donne la propriété [tueur](./tueur-(propriété).md) à l’arme d’un allié contre une cible marquée
+| [[Marqué pour punir]] || <sup>AG</sup> || Pouvoir de classe [[tueur]] || Donne la propriété [[tueur (propriété)|tueur]] à l’arme d’un allié contre une cible marquée
 
 |- CLASS="premier"
-| [Marteler la faille](./Marteler la faille.md)* || <sup>AG</sup> || [BBA](./BBA.md) +6 || Lors d’une [attaque à outrance](./attaque à outrance.md), tous les coups infligés au même adversaire font des dégâts supplémentaires
+| [[Marteler la faille]]* || <sup>AG</sup> || [[BBA]] +6 || Lors d’une [[attaque à outrance]], tous les coups infligés au même adversaire font des dégâts supplémentaires
 |- CLASS="premier"
-| [Mémoire des formules](./Mémoire des formules.md) || <sup>MCA</sup> || 5 rangs en [Art de la magie](./Art de la magie.md), pouvoir de classe [souvenir précis](./Enquêteur.md#SOUVENIRPRECIS) || Quand quelqu’un lance un sort, le personnage note sa formule plus tard
+| [[Mémoire des formules]] || <sup>MCA</sup> || 5 rangs en [[Art de la magie]], pouvoir de classe [[enquêteur#SOUVENIRPRECIS|souvenir précis]] || Quand quelqu’un lance un sort, le personnage note sa formule plus tard
 
 |- CLASS="premier"
-| [Métamagie spontanée](./Métamagie spontanée.md) || <sup>AM</sup> || [Cha](./Charisme.md) 13, un [don de métamagie](./Dons.md#DONMETAMAGIE), capacité à lancer des sorts spontanés || Applique un don de métamagie à un sort qui conserve son temps d’incantation normal
+| [[Métamagie spontanée]] || <sup>AM</sup> || [[Charisme|Cha]] 13, un [[dons#DONMETAMAGIE|don de métamagie]], capacité à lancer des sorts spontanés || Applique un don de métamagie à un sort qui conserve son temps d’incantation normal
 
 |- CLASS="premier"
-| [Meurs pour ton maître](./Meurs pour ton maître.md) || <sup>AM</sup> || [découverte](./../Découverte.md) d’alchimiste [familier tumeur](./découvertes.md#FAMILIERTUMEUR) || Le familier tumeur meurt à la place de son maître
+| [[Meurs pour ton maître]] || <sup>AM</sup> || [[découverte]] d’alchimiste [[découvertes#FAMILIERTUMEUR|familier tumeur]] || Le familier tumeur meurt à la place de son maître
 |- CLASS="premier"
-| [Meurtre silencieux](./Meurtre silencieux.md)* || <sup>MCA</sup> || 12 rangs en [Discrétion](./Discrétion.md), [talent de maître tueur](./Talents (tueur).md#ASSASSINAT) ou [astuce de maître ninja: Assassinat](./Astuces.md#ASSASSINAT) || Le personnage tue lors du round de surprise et se refond dans les ombres
+| [[Meurtre silencieux]]* || <sup>MCA</sup> || 12 rangs en [[Discrétion]], [[talents (tueur)#ASSASSINAT|talent de maître tueur]] ou [[Astuces#ASSASSINAT|astuce de maître ninja: Assassinat]] || Le personnage tue lors du round de surprise et se refond dans les ombres
 
 |- CLASS="premier"
-| [Modification de paysage mental binaire](./Modification de paysage mental binaire.md) || <sup>AO</sup> || [Int](./Intelligence.md) 13, capacité à lancer un duel psychique || L’adversaire doit dépenser 1 point de manifestation de plus pour se défendre
+| [[Modification de paysage mental binaire]] || <sup>AO</sup> || [[Intelligence|Int]] 13, capacité à lancer un duel psychique || L’adversaire doit dépenser 1 point de manifestation de plus pour se défendre
 
 |- CLASS="premier"
-| [Monture de taille inférieure](./Monture de taille inférieure.md)* || <sup>MCA</sup> || 1 rang en [Équitation](./Équitation.md) || Le personnage peut chevaucher des créatures de même taille que lui
+| [[Monture de taille inférieure]]* || <sup>MCA</sup> || 1 rang en [[Équitation]] || Le personnage peut chevaucher des créatures de même taille que lui
 
 |- CLASS="premier"
-| [Mot de guérison](./Mot de guérison.md) || <sup>AM</sup> || [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) || Imposition des mains à distance
+| [[Mot de guérison]] || <sup>AM</sup> || [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]] || Imposition des mains à distance
 
 |- CLASS="premier"
-| [Mort venue du ciel](./Mort venue du ciel.md)* || <sup>AG</sup> || – || Bonus de +5 aux [jets d’attaque](./jet dattaque.md) quand le personnage [charge](./charge.md) depuis une position surélevée ou vole
+| [[Mort venue du ciel]]* || <sup>AG</sup> || – || Bonus de +5 aux [[jet dattaque|jets d’attaque]] quand le personnage [[charge]] depuis une position surélevée ou vole
 
 |- CLASS="premier"
-| [Musique flamboyante](./Musique flamboyante.md) || <sup>AM</sup> || 5 rangs en [Art de la magie](./Art de la magie.md), capacité à lancer des sorts de [barde](./Barde.md), capacité à lancer un sort de feu d’une autre classe || Remplace les dégâts du sort de barde par des dégâts de feu, les monstres convoqués gagnent des attaques de feu
+| [[Musique flamboyante]] || <sup>AM</sup> || 5 rangs en [[Art de la magie]], capacité à lancer des sorts de [[barde]], capacité à lancer un sort de feu d’une autre classe || Remplace les dégâts du sort de barde par des dégâts de feu, les monstres convoqués gagnent des attaques de feu
 
 |- CLASS="premier"
-| [Odorat supérieur](./Odorat supérieur.md) || <sup>MJRA</sup> || [Sag](./Sagesse.md) 13, [demi-orque](./Demi-orque.md) ou [orque](./Orque.md) || Gagne la capacité spéciale d’[odorat](./odorat.md)
+| [[Odorat supérieur]] || <sup>MJRA</sup> || [[Sagesse|Sag]] 13, [[demi-orque]] ou [[orque]] || Gagne la capacité spéciale d’[[odorat]]
 |-
-| &emsp;[Perception de la peur](./Perception de la peur.md) || <sup>MJRA</sup> || [Odorat supérieur](./Odorat supérieur.md) || +4 aux tests de [Perception](./Perception.md) pour détecter les créatures effrayés
+| &emsp;[[Perception de la peur]] || <sup>MJRA</sup> || [[Odorat supérieur]] || +4 aux tests de [[Perception]] pour détecter les créatures effrayés
 
 |- CLASS="premier"
-| [Oeil du juge](./Oeil-du-juge.md) || <sup>AM</sup> || Pouvoir de classe [détection d’alignement](./Inquisiteur.md#DETECTIONDALIGNEMENT), lanceur de sorts niveau 6 || Détermine l’alignement exact de la cible après 3 rounds d’observation
+| [[Oeil du juge]] || <sup>AM</sup> || Pouvoir de classe [[inquisiteur#DETECTIONDALIGNEMENT|détection d’alignement]], lanceur de sorts niveau 6 || Détermine l’alignement exact de la cible après 3 rounds d’observation
 
 |- CLASS="premier"
-| [Optimisation de la frappe magique](./Optimisation de la frappe magique.md) || <sup>AG</sup> || [optimisation de la magie](./optimisation de la magie (arcane).md), [expertise martiale](./Samouraï.md#EXPERTISEMARTIALE) ou [Arme en main](./Arme en main.md) || Optimise la frappe magique en dépensant 3 points de [réserve magique](./réserve magique.md)
+| [[Optimisation de la frappe magique]] || <sup>AG</sup> || [[optimisation de la magie (arcane)|optimisation de la magie]], [[Samouraï#EXPERTISEMARTIALE|expertise martiale]] ou [[Arme en main]] || Optimise la frappe magique en dépensant 3 points de [[réserve magique]]
 
 |- CLASS="premier"
-| [Oracle du péché](./Oracle du péché.md) || <sup>AM</sup> || Pouvoir de [paladin](./Paladin.md) [détection des morts-vivants](./Détection des morts-vivants.md) || Capacité à détecter le mal
+| [[Oracle du péché]] || <sup>AM</sup> || Pouvoir de [[paladin]] [[détection des morts-vivants]] || Capacité à détecter le mal
 
 |- CLASS="premier"
-| [Palpation curative supplémentaire](./Palpation curative supplémentaire.md) || <sup>AO</sup> || Pouvoir de classe [palpation curative](./Hypnotiseur.md#PALPATIONCURATIVE) || Utilisation de [palpation curative](./Hypnotiseur.md#PALPATIONCURATIVE) 2 fois de plus par jour
+| [[Palpation curative supplémentaire]] || <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#PALPATIONCURATIVE|palpation curative]] || Utilisation de [[hypnotiseur#PALPATIONCURATIVE|palpation curative]] 2 fois de plus par jour
 
 |- CLASS="premier"
-| [Parade cinétique](./Parade cinétique.md) || <sup>AO</sup> || [Explosion simple de froid](./talents sauvages.md#EXPLOSIONDEFROID), [de feu](./talents sauvages.md#EXPLOSIONDEFEU) ou [d’eau](./talents sauvages.md#EXPLOSIONDEAU), pouvoir de classe [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) || Utilisation d’[explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) pour contrer un élément opposé
+| [[Parade cinétique]] || <sup>AO</sup> || [[talents sauvages#EXPLOSIONDEFROID|Explosion simple de froid]], [[talents sauvages#EXPLOSIONDEFEU|de feu]] ou [[talents sauvages#EXPLOSIONDEAU|d’eau]], pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] || Utilisation d’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] pour contrer un élément opposé
 
 |- CLASS="premier"
-| [Parle-esprit](./Parle-esprit.md) || <sup>MCA</sup> || Pouvoir de classe maléfice ; [chaman](./Chaman.md) niveau 6 ou [sorcière](./Sorcière.md) niveau 6 || Le personnage communie avec un esprit pour gagner une utilisation temporaire de l’un de ses maléfices
+| [[Parle-esprit]] || <sup>MCA</sup> || Pouvoir de classe maléfice ; [[chaman]] niveau 6 ou [[sorcière]] niveau 6 || Le personnage communie avec un esprit pour gagner une utilisation temporaire de l’un de ses maléfices
 
 |- CLASS="premier"
-| [Passer pour un humain](./Passer pour un humain.md) || <sup>MJRA</sup> || [Demi-elfe](./Demi-elfe.md), [demi-orque](./Demi-orque.md) ou [halfelin](./Halfelin.md) || +10 aux tests de [Déguisement](./Déguisement.md) pour ressembler à un [humain](./Humain.md)
+| [[Passer pour un humain]] || <sup>MJRA</sup> || [[Demi-elfe]], [[demi-orque]] ou [[halfelin]] || +10 aux tests de [[Déguisement]] pour ressembler à un [[humain]]
 
 |- CLASS="premier"
-| [Peau de fer](./Peau de fer.md) || <sup>MJRA</sup> || [Con](./Constitution.md) 13, [Demi-orque](./Demi-orque.md), [Nain](./Nain.md) ou [Orque](./Orque.md) || Bonus d’armure naturelle de +1 à la [CA](./CA.md)
+| [[Peau de fer]] || <sup>MJRA</sup> || [[Constitution|Con]] 13, [[Demi-orque]], [[Nain]] ou [[Orque]] || Bonus d’armure naturelle de +1 à la [[CA]]
 
 |- CLASS="premier"
-| [Perception des esprits](./Perception des esprits.md) || <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques || +5 aux tests pour remarquer les apparitions, 75 % de chances d’affecter une créature intangible
+| [[Perception des esprits]] || <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques || +5 aux tests pour remarquer les apparitions, 75 % de chances d’affecter une créature intangible
 
 |- CLASS="premier"
-| [Perfection magique](./Perfection magique.md) || <sup>MJRA</sup> || [Art de la magie](./Art de la magie.md) 15 rangs, 3 dons de métamagie || Appliquer n’importe quel don de métamagie à un sort en particulier sans pénalité
+| [[Perfection magique]] || <sup>MJRA</sup> || [[Art de la magie]] 15 rangs, 3 dons de métamagie || Appliquer n’importe quel don de métamagie à un sort en particulier sans pénalité
 
 |- CLASS="premier"
-| [Personnalité affirmée](./Personnalité affirmée.md) || <sup>MCA</sup> || — || Gain d’un bonus d’intuition égal au modificateur de [Charisme](./Charisme.md) pour les jets de sauvegarde contre les effets mentaux
+| [[Personnalité affirmée]] || <sup>MCA</sup> || — || Gain d’un bonus d’intuition égal au modificateur de [[Charisme]] pour les jets de sauvegarde contre les effets mentaux
 
 |- CLASS="premier"
-| [Persuasion](./Persuasion.md) || <sup>MJ</sup> || — || +2 aux tests de [Diplomatie](./Diplomatie.md) et d’[Intimidation](./Intimidation.md)
+| [[Persuasion]] || <sup>MJ</sup> || — || +2 aux tests de [[Diplomatie]] et d’[[Intimidation]]
 |-
-| &emsp;[Coup déloyal](./Coup déloyal.md) || <sup>AG</sup> || [Persuasion](./Persuasion.md), [Arme en main](./Arme en main.md), [BBA](./BBA.md) +3 || Attaque gratuite après un test de [Diplomatie](./Diplomatie.md) réussi
+| &emsp;[[Coup déloyal]] || <sup>AG</sup> || [[Persuasion]], [[Arme en main]], [[BBA]] +3 || Attaque gratuite après un test de [[Diplomatie]] réussi
 |-
-| &emsp;[Fioritures rhétoriques](./Fioritures rhétoriques.md) || <sup>AG</sup> || [Cha](./Cha.md) 13, [Persuasion](./Persuasion.md) || Diversion verbale lors d’un test de [Diplomatie](./Diplomatie.md)
+| &emsp;[[Fioritures rhétoriques]] || <sup>AG</sup> || [[Cha]] 13, [[Persuasion]] || Diversion verbale lors d’un test de [[Diplomatie]]
 
 |- CLASS="premier"
-| [Perturbateur](./Perturbateur.md)* || <sup>MJ</sup> || [Guerrier](./Guerrier.md) niveau 6 || Augmente le [DD](./DD.md) de [concentration](./test de concentration.md) des sorts lancés à côté du personnage
+| [[Perturbateur]]* || <sup>MJ</sup> || [[Guerrier]] niveau 6 || Augmente le [[DD]] de [[test de concentration|concentration]] des sorts lancés à côté du personnage
 |-
-| &emsp;[Briseur de sorts](./Briseur de sorts.md)* || <sup>MJ</sup> || [Perturbateur](./Perturbateur.md), [guerrier](./Guerrier.md) niveau 10 || Si les ennemis ratent leur sort, ils provoquent une [attaque d'opportunité](./attaque dopportunité.md)
+| &emsp;[[Briseur de sorts]]* || <sup>MJ</sup> || [[Perturbateur]], [[guerrier]] niveau 10 || Si les ennemis ratent leur sort, ils provoquent une [[attaque dopportunité|attaque d'opportunité]]
 |-
-| &emsp;[Tacticien de la téléportation](./Tacticien de la téléportation.md) || <sup>MJRA</sup> || [Attaques réflexes](./Attaques réflexes.md), [Briseur de sorts](./Briseur de sorts.md) || Les créatures qui se téléportent provoquent des [attaques d'opportunité](./attaque dopportunité.md)
+| &emsp;[[Tacticien de la téléportation]] || <sup>MJRA</sup> || [[Attaques réflexes]], [[Briseur de sorts]] || Les créatures qui se téléportent provoquent des [[attaque dopportunité|attaques d'opportunité]]
 
 |- CLASS="premier"
-| [Pied marin](./Pied marin.md) || <sup>AG</sup> || 5 rangs en [Profession](./Profession.md) (marin) || +2 aux tests d’[Acrobaties](./Acrobaties.md), d’[Escalade](./Escalade.md) et de [Natation](./Natation.md)
+| [[Pied marin]] || <sup>AG</sup> || 5 rangs en [[Profession]] (marin) || +2 aux tests d’[[Acrobaties]], d’[[Escalade]] et de [[Natation]]
 
 |- CLASS="premier"
-| [Piège de rodeur étendu](./Piège de rodeur étendu.md) || <sup>RTT</sup> || Capacité à poser des [pièges](./Pièges de rôdeur.md) || Les [pièges](./Pièges de rôdeur.md) du [rôdeur](./Rôdeur.md) occupent une zone plus large.
+| [[Piège de rodeur étendu]] || <sup>RTT</sup> || Capacité à poser des [[pièges de rôdeur|pièges]] || Les [[pièges de rôdeur|pièges]] du [[rôdeur]] occupent une zone plus large.
 
 |- CLASS="premier"
-| [Piège de rôdeur évolué](./Piège de rôdeur évolué.md) || <sup>AM</sup> || Capacité à poser des [pièges](./Pièges de rôdeur.md), [rôdeur](./Rôdeur.md) de niveau 5 || Ajoute +1 au [DD](./DD.md) des tests de [Sabotage](./Sabotage.md) et de [Perception](./Perception.md) des [piège de rôdeur](./piège de rôdeur.md)
+| [[Piège de rôdeur évolué]] || <sup>AM</sup> || Capacité à poser des [[pièges de rôdeur|pièges]], [[rôdeur]] de niveau 5 || Ajoute +1 au [[DD]] des tests de [[Sabotage]] et de [[Perception]] des [[piège de rôdeur]]
 
 |- CLASS="premier"
-| [Piège de rôdeur supplémentaire](./Piège de rôdeur supplémentaire.md) || <sup>AM</sup> || Capacité à poser des [pièges](./Pièges de rôdeur.md) || Pose de 2 pièges de plus par jour
+| [[Piège de rôdeur supplémentaire]] || <sup>AM</sup> || Capacité à poser des [[pièges de rôdeur|pièges]] || Pose de 2 pièges de plus par jour
 
 |- CLASS="premier"
-| [Pistolier amateur](./Pistolier amateur.md)* || <sup>AG</sup> || Pas de niveau dans une classe dotée d’[audace](./audace.md) || Petite quantité d’audace et accès à des [exploits](./exploits.md) de [pistoliers](./Pistolier.md)
+| [[Pistolier amateur]]* || <sup>AG</sup> || Pas de niveau dans une classe dotée d’[[audace]] || Petite quantité d’audace et accès à des [[exploits]] de [[pistolier|pistoliers]]
 
 |- CLASS="premier"
-| [Pivotement](./Pivotement.md) || <sup>MCA</sup> || [esquive totale](./Roublard.md#ESQUIVETOTALE) || Le personnage utilise [Réflexes](./Réflexes.md) plutôt que [Vigueur](./Vigueur.md) par une [action immédiate](./Action immédiate.md)
+| [[Pivotement]] || <sup>MCA</sup> || [[Roublard#ESQUIVETOTALE|esquive totale]] || Le personnage utilise [[Réflexes]] plutôt que [[Vigueur]] par une [[action immédiate]]
 
 |- CLASS="premier"
-| [Port des armures légères](./Port des armures légères.md) || <sup>MJ</sup> || — || Pas de malus aux jets d’attaque quand le personnage porte une armure légère
+| [[Port des armures légères]] || <sup>MJ</sup> || — || Pas de malus aux jets d’attaque quand le personnage porte une armure légère
 |-
-| &emsp;[Entraînement aux armures renforcé](./Entraînement aux armures renforcé.md)* || <sup>AG</sup> || Port d’une armure ou [maniement d’un bouclier](./Maniement des boucliers.md) || [Briser](./Brisé.md) l’armure ou le bouclier pour transformer un [coup critique](./coup critique.md) en coup normal
+| &emsp;[[Entraînement aux armures renforcé]]* || <sup>AG</sup> || Port d’une armure ou [[Maniement des boucliers|maniement d’un bouclier]] || [[brisé|Briser]] l’armure ou le bouclier pour transformer un [[coup critique]] en coup normal
 |-
-| &emsp;[Port de l’armure magique](./Port de larmure magique.md)* || <sup>MJ</sup> || [Port des armures légères](./Port des armures légères.md),   
-lanceur de sorts niv. 3 || [Chances d’échec des sorts profanes](./Caractéristiques des armures.md#RISQUEECHECPROFANE) réduites de 10%
+| &emsp;[[Port de larmure magique|Port de l’armure magique]]* || <sup>MJ</sup> || [[Port des armures légères]],   
+lanceur de sorts niv. 3 || [[Caractéristiques des armures#RISQUEECHECPROFANE|Chances d’échec des sorts profanes]] réduites de 10%
 |-
-| &emsp;[Port des armures intermédiaires](./Port des armures intermédiaires.md) || <sup>MJ</sup> || [Port des armures légères](./Port des armures légères.md) || Pas de malus aux jets d’attaque quand le personnage porte une armure intermédiaire
+| &emsp;[[Port des armures intermédiaires]] || <sup>MJ</sup> || [[Port des armures légères]] || Pas de malus aux jets d’attaque quand le personnage porte une armure intermédiaire
 |-
-| &emsp;&emsp;[Maîtrise de l’armure magique](./Maîtrise de larmure magique.md)* || <sup>MJ</sup> || [Port de l’armure magique](./Port de larmure magique.md),   
-[Port des armures intermédiaires](./Port des armures intermédiaires.md),   
-lanceur de sorts niv. 7 || [Chances d’échec des sorts profanes](./Caractéristiques des armures.md#RISQUEECHECPROFANE) réduites de 20%
+| &emsp;&emsp;[[Maîtrise de larmure magique|Maîtrise de l’armure magique]]* || <sup>MJ</sup> || [[Port de larmure magique|Port de l’armure magique]],   
+[[Port des armures intermédiaires]],   
+lanceur de sorts niv. 7 || [[Caractéristiques des armures#RISQUEECHECPROFANE|Chances d’échec des sorts profanes]] réduites de 20%
 |-
-| &emsp;[Port des armures lourdes](./Port des armures lourdes.md) || <sup>MJ</sup> || [Port des armures intermédiaires](./Port des armures intermédiaires.md) || Pas de malus aux jets d’attaque quand le personnage porte une armure lourde
+| &emsp;[[Port des armures lourdes]] || <sup>MJ</sup> || [[Port des armures intermédiaires]] || Pas de malus aux jets d’attaque quand le personnage porte une armure lourde
 
 |- CLASS="premier"
-| [Pouvoir de focalisation supplémentaire](./Pouvoir de focalisation supplémentaire.md) || <sup>AO</sup> || Pouvoir de classe [pouvoir de focalisation](./Occultiste.md#POUVOIRSDEFOCALISATION) || Un [pouvoir de focalisation](./Occultiste.md#POUVOIRSDEFOCALISATION) supplémentaire
+| [[Pouvoir de focalisation supplémentaire]] || <sup>AO</sup> || Pouvoir de classe [[occultiste#POUVOIRSDEFOCALISATION|pouvoir de focalisation]] || Un [[occultiste#POUVOIRSDEFOCALISATION|pouvoir de focalisation]] supplémentaire
 
 |- CLASS="premier"
-| [Pouvoir de rage supplémentaire](./Pouvoir de rage supplémentaire.md) || <sup>MJRA</sup> || Aptitude de classe de pouvoir de rage || Gagne un pouvoir de rage supplémentaire
+| [[Pouvoir de rage supplémentaire]] || <sup>MJRA</sup> || Aptitude de classe de pouvoir de rage || Gagne un pouvoir de rage supplémentaire
 
 |- CLASS="premier"
-| [Pouvoir de résonance accru](./Pouvoir de résonance accru.md) || <sup>AO</sup> || [NLS](./NLS.md) 7, pouvoir de classe [focalisation mentale](./Occultiste.md#FOCALISATIONMENTALE) || Partage des pouvoirs de résonance avec un allié
+| [[Pouvoir de résonance accru]] || <sup>AO</sup> || [[NLS]] 7, pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] || Partage des pouvoirs de résonance avec un allié
 
 |- CLASS="premier"
-| [Pouvoir magique rapide](./Pouvoir magique rapide.md) || <sup>B1</sup> || Posséder un pouvoir magique lancé à un [NLS](./NLS.md) supérieur ou égal à 10 || Activation du pouvoir par une [action rapide](./Action rapide.md) sans provoquer d'[attaque d'opportunité](./attaque dopportunité.md)
+| [[Pouvoir magique rapide]] || <sup>B1</sup> || Posséder un pouvoir magique lancé à un [[NLS]] supérieur ou égal à 10 || Activation du pouvoir par une [[action rapide]] sans provoquer d'[[attaque dopportunité|attaque d'opportunité]]
 
 |- CLASS="premier"
-| [Précision elfique](./Précision elfique.md) || <sup>MJRA</sup> || [Elfe](./Elfe.md) || Relancer le pourcentage d’échec à l’arc dû au [camouflage](./camouflage.md)
+| [[Précision elfique]] || <sup>MJRA</sup> || [[Elfe]] || Relancer le pourcentage d’échec à l’arc dû au [[camouflage]]
 
 |- CLASS="premier"
-| [Première volée](./Première volée.md)* || <sup>AG</sup> || — || Une [attaque à distance](./Attaque à distance.md) réussie donne un bonus de +4 au prochain [jet d’attaque](./jet dattaque.md) au corps à corps
+| [[Première volée]]* || <sup>AG</sup> || — || Une [[attaque à distance]] réussie donne un bonus de +4 au prochain [[jet dattaque|jet d’attaque]] au corps à corps
 
 |- CLASS="premier"
-| [Prendre l’avantage](./Prendre lavantage.md)* || <sup>MCA</sup> || [Exploit de parade et riposte opportune](./Exploits (bretteur).md#PARADEETRIPOSTEOPPORTUNE) || Ajoute les dégâts d’[Attaque en puissance](./Attaque en puissance.md) de l’ennemi à la riposte du personnage
+| [[Prendre lavantage|Prendre l’avantage]]* || <sup>MCA</sup> || [[Exploits (bretteur)#PARADEETRIPOSTEOPPORTUNE|Exploit de parade et riposte opportune]] || Ajoute les dégâts d’[[Attaque en puissance]] de l’ennemi à la riposte du personnage
 
 |- CLASS="premier"
-| [Préparation de potions](./Préparation de potions.md) || <sup>MJ</sup> || [NLS](./NLS.md) 3 || [Création de potions magiques](./Création dobjets magiques.md)
+| [[Préparation de potions]] || <sup>MJ</sup> || [[NLS]] 3 || [[Création dobjets magiques|Création de potions magiques]]
 |-
-| &emsp;[Création d’élixir sanguin](./Création délixir sanguin.md) || <sup>AM</sup> || [Cha](./Charisme.md) 15, [Préparation de potions](./Préparation de potions.md), 12 rangs en [Artisanat](./Artisanat.md) (Alchimie), [ensorceleur](./Ensorceleur.md) niv. 3 || Peut créer un élixir qui permet à autrui d’utiliser un pouvoir de [lignage](./Lignages.md)
+| &emsp;[[Création délixir sanguin|Création d’élixir sanguin]] || <sup>AM</sup> || [[Charisme|Cha]] 15, [[Préparation de potions]], 12 rangs en [[Artisanat]] (Alchimie), [[ensorceleur]] niv. 3 || Peut créer un élixir qui permet à autrui d’utiliser un pouvoir de [[lignages|lignage]]
 
 |- CLASS="premier"
-| [Préparation étendue](./Préparation étendue.md) || <sup>MCA</sup> || [Arcaniste](./Arcaniste.md) niveau 1 || Gain d’emplacements de sorts
+| [[Préparation étendue]] || <sup>MCA</sup> || [[Arcaniste]] niveau 1 || Gain d’emplacements de sorts
 
 |- CLASS="premier"
-| [Présence cachée](./Présence cachée.md) || <sup>AO</sup> || [Int](./Intelligence.md) ou [Cha](./Charisme.md) 17, capacité à lancer *[possession spirituelle](./Possession spirituelle (sort).md)* ou *[possession spirituelle suprême](./Possession spirituelle suprême.md)* || Les sorts d’[abjuration](./Abjuration.md) et de [divination](./Divination.md) traitent le personnage comme la créature possédée
+| [[Présence cachée]] || <sup>AO</sup> || [[Intelligence|Int]] ou [[Charisme|Cha]] 17, capacité à lancer *[[possession spirituelle (sort)|possession spirituelle]]* ou *[[possession spirituelle suprême]]* || Les sorts d’[[abjuration]] et de [[divination]] traitent le personnage comme la créature possédée
 |-
-| &emsp;[Présence manipulatrice](./Présence manipulatrice.md) || <sup>AO</sup> || [Int](./Intelligence.md) ou [Cha](./Charisme.md) 19, Présence cachée || Modifie les souvenirs de la créature possédée
+| &emsp;[[Présence manipulatrice]] || <sup>AO</sup> || [[Intelligence|Int]] ou [[Charisme|Cha]] 19, Présence cachée || Modifie les souvenirs de la créature possédée
 |-
-| &emsp;&emsp;[Présence intrusive](./Présence intrusive.md) || <sup>AO</sup> || [Int](./Intelligence.md) ou [Cha](./Charisme.md) 21, Présence cachée, Présence manipulatrice || Lit dans l’esprit de la créature possédée
+| &emsp;&emsp;[[Présence intrusive]] || <sup>AO</sup> || [[Intelligence|Int]] ou [[Charisme|Cha]] 21, Présence cachée, Présence manipulatrice || Lit dans l’esprit de la créature possédée
 
 |- CLASS="premier"
-| [Prestidigitateur gnome](./Prestidigitateur gnome.md) || <sup>MJRA</sup> || [Cha](./Charisme.md) 13, [gnome](./Gnome.md), trait racial Magie gnome || Utiliser *[manipulation à distance](./Manipulation à distance.md)' et *[prestidigitation](./Prestidigitation.md)'' une fois par jour
+| [[Prestidigitateur gnome]] || <sup>MJRA</sup> || [[Charisme|Cha]] 13, [[gnome]], trait racial Magie gnome || Utiliser *[[manipulation à distance]]' et *[[prestidigitation]]'' une fois par jour
 
 |- CLASS="premier"
-| [Prestige](./Prestige.md) || <sup>MJ</sup> || Personnage de niveau 7 || Acquisition d’un compagnon d’armes et de suivants
+| [[Prestige]] || <sup>MJ</sup> || Personnage de niveau 7 || Acquisition d’un compagnon d’armes et de suivants
 
 |- CLASS="premier"
-| [Prêt à se battre](./Prêt à se battre.md) || <sup>AO</sup> || Pouvoir de classe [induction d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR) || +2 aux jets d’[initiative](./Déroulement dun combat.md#INITIATIVE) pour les alliés dotés d’inductions implantées
+| [[Prêt à se battre]] || <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]] || +2 aux jets d’[[déroulement dun combat#INITIATIVE|initiative]] pour les alliés dotés d’inductions implantées
 
 |- CLASS="premier"
-| [Prêt à souffrir](./Prêt à souffrir.md) || <sup>AO</sup> || Pouvoir de classe [induction d’hypnotiseur](./Hypnotiseur.md#INDUCTIONSDHYPNOTISEUR) || [RD](./RD.md)/— contre les dégâts non létaux pour les alliés dotés d’inductions implantées
+| [[Prêt à souffrir]] || <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]] || [[RD]]/— contre les dégâts non létaux pour les alliés dotés d’inductions implantées
 
 |- CLASS="premier"
-| [Prêt de canalisation](./Prêt de canalisation.md) || <sup>AG</sup> || [Véritable guérisseur](./Guérisseur miséricordieux (prêtre).md), [Canalisation sélective](./Canalisation sélective.md) || Le personnage peut confier de l’énergie positive à un allié pour qu’il s’en serve pour guérir
+| [[Prêt de canalisation]] || <sup>AG</sup> || [[Guérisseur miséricordieux (prêtre)|Véritable guérisseur]], [[Canalisation sélective]] || Le personnage peut confier de l’énergie positive à un allié pour qu’il s’en serve pour guérir
 
 |- CLASS="premier"
-| [Prêtre guerrier](./Prêtre guerrier.md) || <sup>AM</sup> || Capacité à lancer des sorts divins, [domaine](./domaine.md) ou [mystère](./mystère.md) || bonus de +1 à l’initiative et de +2 aux tests de Concentration pour incanter sur la défensive
+| [[Prêtre guerrier]] || <sup>AM</sup> || Capacité à lancer des sorts divins, [[domaine]] ou [[mystère]] || bonus de +1 à l’initiative et de +2 aux tests de Concentration pour incanter sur la défensive
 
 |- CLASS="premier"
-| [Proche de la terre](./Proche de la terre.md) || <sup>MJRA</sup> || [Cha](./Charisme.md) 13, [gnome](./Gnome.md), trait racial Magie gnome || Pouvoir magique permettant de parler avec les animaux fouisseurs
+| [[Proche de la terre]] || <sup>MJRA</sup> || [[Charisme|Cha]] 13, [[gnome]], trait racial Magie gnome || Pouvoir magique permettant de parler avec les animaux fouisseurs
 
 |- CLASS="premier"
-| [Prodige](./Prodige.md) || <sup>AM</sup> || – || Bonus de +2 à deux compétences d’[Artisanat](./Artisanat.md), de [Profession](./Profession.md) ou de [Représentation](./Représentation.md)
+| [[Prodige]] || <sup>AM</sup> || – || Bonus de +2 à deux compétences d’[[Artisanat]], de [[Profession]] ou de [[Représentation]]
 
 |- CLASS="premier"
-| [Profil bas](./Profil bas.md)* || <sup>MJRA</sup> || [Dex](./Dextérité.md) 13, [Taille inférieure ou égale à P](./taille P.md) || Bonus d'esquive de +1 à la [CA](./CA.md) contre les [attaques à distance](./Attaque à distance.md)
+| [[Profil bas]]* || <sup>MJRA</sup> || [[Dextérité|Dex]] 13, [[Taille P|Taille inférieure ou égale à P]] || Bonus d'esquive de +1 à la [[CA]] contre les [[attaque à distance|attaques à distance]]
 
 |- CLASS="premier"
-| [Protection contre un ennemi juré](./Protection contre un ennemi juré.md) || <sup>MJRA</sup> || Aptitude de classe d’[ennemi juré](./ennemi juré.md) || Bonus au [DMD](./DMD.md) et à la [CA](./CA.md) contre les attaques d’un [ennemi juré](./ennemi juré.md)
+| [[Protection contre un ennemi juré]] || <sup>MJRA</sup> || Aptitude de classe d’[[ennemi juré]] || Bonus au [[DMD]] et à la [[CA]] contre les attaques d’un [[ennemi juré]]
 
 |- CLASS="premier"
-| [Protection divine](./Protection divine.md) || <sup>MCA</sup> || [Cha](./Charisme.md) 13, 5 rangs en [Connaissances](./Connaissances.md) (religion), capacité à lancer des sorts divins de niveau 2 ; pouvoir de classe bénédictions, domaine ou mystère || Le personnage gagne un bonus égal à son modificateur de [Charisme](./Charisme.md) pour un [jet de sauvegarde](./JDS.md)
+| [[Protection divine]] || <sup>MCA</sup> || [[Charisme|Cha]] 13, 5 rangs en [[Connaissances]] (religion), capacité à lancer des sorts divins de niveau 2 ; pouvoir de classe bénédictions, domaine ou mystère || Le personnage gagne un bonus égal à son modificateur de [[Charisme]] pour un [[jds|jet de sauvegarde]]
 
 |- CLASS="premier"
-| [Rage retrouvée](./Rage retrouvée.md) || <sup>MCA</sup> || Pouvoir de classe [rage de berserker](./Barbare.md#RAGEDEBERSERKER) ou [Chant de rage](./Scalde.md#CHANTDERAGE) || Récupération de rounds de rage de berserker ou de chant de rage pour chaque ennemi réduit à 0 point de vie ou moins
+| [[Rage retrouvée]] || <sup>MCA</sup> || Pouvoir de classe [[barbare#RAGEDEBERSERKER|rage de berserker]] ou [[Scalde#CHANTDERAGE|Chant de rage]] || Récupération de rounds de rage de berserker ou de chant de rage pour chaque ennemi réduit à 0 point de vie ou moins
 
 |- CLASS="premier"
-| [Rageur talentueux](./Rageur talentueux.md) || <sup>MCA</sup> || Pouvoir de classe [rage de berserker](./Barbare.md#RAGEDEBERSERKER) || Le personnage choisit une compétence et l’utilise quand il est en rage
+| [[Rageur talentueux]] || <sup>MCA</sup> || Pouvoir de classe [[barbare#RAGEDEBERSERKER|rage de berserker]] || Le personnage choisit une compétence et l’utilise quand il est en rage
 
 |- CLASS="premier"
-| [Raillerie](./Raillerie.md) || <sup>MJRA</sup> || [Cha](./Charisme.md) 13, [Taille inférieure ou égale à P](./taille P.md) || Démoraliser les adversaires avec [Bluff](./Bluff.md) au lieu d’[Intimidation](./Intimidation.md)
+| [[Raillerie]] || <sup>MJRA</sup> || [[Charisme|Cha]] 13, [[Taille P|Taille inférieure ou égale à P]] || Démoraliser les adversaires avec [[Bluff]] au lieu d’[[Intimidation]]
 
 |- CLASS="premier"
-| [Rapide](./Rapide.md) || <sup>MJ</sup> || — || [Vitesse de base](./vitesse de déplacement.md) augmentée de 1,5 mètre (1 case)
+| [[Rapide]] || <sup>MJ</sup> || — || [[vitesse de déplacement|Vitesse de base]] augmentée de 1,5 mètre (1 case)
 
 |- CLASS="premier"
-| [Rage supplémentaire](./Rage supplémentaire.md) || <sup>MJ</sup> || [Rage](./Rage.md) || 6 rounds supplémentaires de [rage](./Rage.md)/jour
+| [[Rage supplémentaire]] || <sup>MJ</sup> || [[Rage]] || 6 rounds supplémentaires de [[rage]]/jour
 
 |- CLASS="premier"
-| [Rayon d'énergie canalisée](./Rayon dénergie canalisée.md) || <sup>RTT</sup> || Pouvoir de classe [canalisation](./canalisation.md) || Canalisation d’énergie sur cible unique
+| [[Rayon dénergie canalisée|Rayon d'énergie canalisée]] || <sup>RTT</sup> || Pouvoir de classe [[canalisation]] || Canalisation d’énergie sur cible unique
 
 |- CLASS="premier"
-| [Rechargement rapide](./Rechargement rapide.md)* || <sup>MJ-UC</sup> || Maniement des armes (arbalète) ou [Maniement des armes exotiques](./Maniement dune arme exotique.md) (armes à feu) || Le personnage recharge ses armes plus rapidement
+| [[Rechargement rapide]]* || <sup>MJ-UC</sup> || Maniement des armes (arbalète) ou [[Maniement dune arme exotique|Maniement des armes exotiques]] (armes à feu) || Le personnage recharge ses armes plus rapidement
 |-
-| &emsp;[Maîtrise des arbalètes](./Maîtrise des arbalètes.md)* || <sup>MJRA</sup> || [Dex](./Dextérité.md) 15, [Rechargement rapide](./Rechargement rapide.md), [Tir rapide](./Tir rapide.md) || Recharger une arbalète par une [action libre](./Action libre.md), permet les attaques à outrance
+| &emsp;[[Maîtrise des arbalètes]]* || <sup>MJRA</sup> || [[Dextérité|Dex]] 15, [[Rechargement rapide]], [[Tir rapide]] || Recharger une arbalète par une [[action libre]], permet les attaques à outrance
 
 |- CLASS="premier"
-| [Récompense de grâce](./Récompense de grâce.md) || <sup>AM</sup> || [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) || À chaque fois que le personnage utilise imposition des mains, il gagne un bonus sacré de +1 aux jets d’attaque
+| [[Récompense de grâce]] || <sup>AM</sup> || [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]] || À chaque fois que le personnage utilise imposition des mains, il gagne un bonus sacré de +1 aux jets d’attaque
 
 |- CLASS="premier"
-| [Récompense de vie](./Récompense de vie.md) || <sup>AM</sup> || [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS) || À chaque fois que le personnage utilise son imposition des mains, il gagne un nombre de [points de vie](./pv.md) égal à son [Charisme](./Charisme.md)
+| [[Récompense de vie]] || <sup>AM</sup> || [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]] || À chaque fois que le personnage utilise son imposition des mains, il gagne un nombre de [[pv|points de vie]] égal à son [[Charisme]]
 
 |- CLASS="premier"
-| [Réflexes surhumains](./Réflexes surhumains.md) || <sup>MJ</sup> || — || +2 aux jets de [Réflexes](./Réflexes.md)
+| [[Réflexes surhumains]] || <sup>MJ</sup> || — || +2 aux jets de [[Réflexes]]
 |-
-| &emsp;[Science des réflexes surhumains](./Science des réflexes surhumains.md) || <sup>MJ</sup> || [Réflexes surhumains](./Réflexes surhumains.md) || Le personnage peut relancer un jet de [Réflexes](./Réflexes.md) 1/jour
+| &emsp;[[Science des réflexes surhumains]] || <sup>MJ</sup> || [[Réflexes surhumains]] || Le personnage peut relancer un jet de [[Réflexes]] 1/jour
 
 |- CLASS="premier"
-| [Regard étendu](./Regard étendu.md) || <sup>AO</sup> || Pouvoir de classe [regard hypnotique](./Hypnotiseur.md#REGARDHYPNOTIQUE) || Augmente la portée du [regard hypnotique](./Hypnotiseur.md#REGARDHYPNOTIQUE) de 3 m
+| [[Regard étendu]] || <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] || Augmente la portée du [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] de 3 m
 
 |- CLASS="premier"
-| [Regard hypnotique intimidant](./Regard hypnotique intimidant.md)* || <sup>AO</sup> || Pouvoir de classe [regard hypnotique](./Hypnotiseur.md#REGARDHYPNOTIQUE) || Démoralisation des cibles du [regard hypnotique](./Hypnotiseur.md#REGARDHYPNOTIQUE) par une [action rapide](./Types dactions.md#RAPIDE)
+| [[Regard hypnotique intimidant]]* || <sup>AO</sup> || Pouvoir de classe [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] || Démoralisation des cibles du [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] par une [[types dactions#RAPIDE|action rapide]]
 
 |- CLASS="premier"
-| [Regard intimidant](./Regard intimidant.md) || <sup>AM</sup> || [Cha](./Cha.md) 13, pouvoir de classe [regard sévère](./Inquisiteur.md#REGARDSEVERE), 5 rangs en [Intimidation](./Intimidation.md) || Quand le personnage utilise l’[Intimidation](./Intimidation.md), il lance deux fois le dé et prend le meilleur
+| [[Regard intimidant]] || <sup>AM</sup> || [[Cha]] 13, pouvoir de classe [[inquisiteur#REGARDSEVERE|regard sévère]], 5 rangs en [[Intimidation]] || Quand le personnage utilise l’[[Intimidation]], il lance deux fois le dé et prend le meilleur
 
 |- CLASS="premier"
-| [Regard pénétrant](./Regard pénétrant.md) || <sup>AM</sup> || Pouvoir de classe [regard sévère](./Inquisiteur.md#REGARDSEVERE), 5 rangs en [Psychologie](./Psychologie.md) || Quand le personnage utilise la [Psychologie](./Psychologie.md), il lance deux fois le dé et prend le meilleur
+| [[Regard pénétrant]] || <sup>AM</sup> || Pouvoir de classe [[inquisiteur#REGARDSEVERE|regard sévère]], 5 rangs en [[Psychologie]] || Quand le personnage utilise la [[Psychologie]], il lance deux fois le dé et prend le meilleur
 
 |- CLASS="premier"
-| [Renaissance canalisée](./Renaissance canalisée.md) || <sup>AG</sup> || [Canalisation](./canalisation.md) d’énergie positive 6d6 || Peut dépenser une canalisation d’énergie pour lancer *[souffle de vie](./Souffle de vie.md)*
+| [[Renaissance canalisée]] || <sup>AG</sup> || [[Canalisation]] d’énergie positive 6d6 || Peut dépenser une canalisation d’énergie pour lancer *[[souffle de vie]]*
 
 |- CLASS="premier"
-| [Renvoi des morts-vivants](./Renvoi des morts-vivants.md) || <sup>MJ</sup> || [Canalisation](./canalisation.md) d’énergie positive || L’énergie [canalisée](./canalisation.md) fait fuir les morts-vivants
+| [[Renvoi des morts-vivants]] || <sup>MJ</sup> || [[Canalisation]] d’énergie positive || L’énergie [[canalisation|canalisée]] fait fuir les morts-vivants
 
 |- CLASS="premier"
-| [Réparations de fortune](./Réparations de fortune.md) || <sup>AG</sup> || 4 rangs en [Artisanat](./Artisanat.md) || Pas de malus en cas de réparations avec des matériaux improvisés
+| [[Réparations de fortune]] || <sup>AG</sup> || 4 rangs en [[Artisanat]] || Pas de malus en cas de réparations avec des matériaux improvisés
 
 |- CLASS="premier"
-| [Répartition des maléfices](./Répartition des maléfices.md) || <sup>AM</sup> || [Sorcière](./Sorcière.md) niveau 10 || Un [maléfice](./maléfice.md) qui cible une créature peut en toucher deux
+| [[Répartition des maléfices]] || <sup>AM</sup> || [[Sorcière]] niveau 10 || Un [[maléfice]] qui cible une créature peut en toucher deux
 |-
-| &emsp;[Répartition des maléfices majeurs](./Répartition des maléfices majeurs.md) || <sup>AM</sup> || [Répartition des maléfices](./Répartition des maléfices.md), lanceur de sorts niveau 18 || Un maléfice majeur qui cible une créature peut en toucher deux
+| &emsp;[[Répartition des maléfices majeurs]] || <sup>AM</sup> || [[Répartition des maléfices]], lanceur de sorts niveau 18 || Un maléfice majeur qui cible une créature peut en toucher deux
 
 |- CLASS="premier"
-| [Représentation intimidante](./Représentation intimidante.md) || <sup>MCA</sup> || Capacité à initier des représentations ou chants de rage par une action de mouvement, pouvoir de classe [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) ou [rage de berserker](./Barbare.md#RAGEDEBERSERKER) || [Démoralise](./Intimidation.md) les ennemis sur un test de [Représentation](./Représentation.md) réussi
+| [[Représentation intimidante]] || <sup>MCA</sup> || Capacité à initier des représentations ou chants de rage par une action de mouvement, pouvoir de classe [[barde#REPRESENTATIONBARDIQUE|représentation bardique]] ou [[barbare#RAGEDEBERSERKER|rage de berserker]] || [[Intimidation|Démoralise]] les ennemis sur un test de [[Représentation]] réussi
 
 |- CLASS="premier"
-| [Représentation obsédante](./Représentation obsédante.md) || <sup>MJRA</sup> || Aptitude de classe de [représentation bardique](./représentation bardique.md) || Les effets des représentation continuent pendant 2 rounds après la fin
+| [[Représentation obsédante]] || <sup>MJRA</sup> || Aptitude de classe de [[représentation bardique]] || Les effets des représentation continuent pendant 2 rounds après la fin
 
 |- CLASS="premier"
-| [Représentation supplémentaire](./Représentation supplémentaire.md) || <sup>MJ</sup> || Aptitude de classe de [représentation bardique](./représentation bardique.md) || 6 rounds supplémentaires de [représentation bardique](./représentation bardique.md)/jour
+| [[Représentation supplémentaire]] || <sup>MJ</sup> || Aptitude de classe de [[représentation bardique]] || 6 rounds supplémentaires de [[représentation bardique]]/jour
 
 |- CLASS="premier"
-| [Réserve magique supplémentaire](./Réserve magique supplémentaire.md) || <sup>AM</sup> || Pouvoir de classe [réserve magique](./réserve magique.md) || La [réserve magique](./réserve magique.md) augmente de 2
+| [[Réserve magique supplémentaire]] || <sup>AM</sup> || Pouvoir de classe [[réserve magique]] || La [[réserve magique]] augmente de 2
 
 |- CLASS="premier"
-| [Réserve phrénique accrue](./Réserve phrénique accrue.md) || <sup>AO</sup> || Pouvoir de classe [réserve phrénique](./Psychiste.md#RESERVEPHRENIQUE) || 2 points de [réserve phrénique](./Psychiste.md#RESERVEPHRENIQUE) de plus
+| [[Réserve phrénique accrue]] || <sup>AO</sup> || Pouvoir de classe [[psychiste#RESERVEPHRENIQUE|réserve phrénique]] || 2 points de [[psychiste#RESERVEPHRENIQUE|réserve phrénique]] de plus
 
 |- CLASS="premier"
-| [Réservoir supplémentaire](./Réservoir supplémentaire.md) || <sup>MCA</sup> || Pouvoir de classe [réservoir arcanique](./réservoir arcanique.md) || Le personnage gagne 3 points de plus dans son réservoir arcanique
+| [[Réservoir supplémentaire]] || <sup>MCA</sup> || Pouvoir de classe [[réservoir arcanique]] || Le personnage gagne 3 points de plus dans son réservoir arcanique
 
 |- CLASS="premier"
-| [Résilience renforcée](./Résilience renforcée.md) || <sup>AG</sup> || [Réduction de dégâts](./RD.md) || Augmente la [RD](./RD.md) contre une unique attaque
+| [[Résilience renforcée]] || <sup>AG</sup> || [[RD|Réduction de dégâts]] || Augmente la [[RD]] contre une unique attaque
 
 |- CLASS="premier"
-| [Responsable du siège](./Responsable du siège.md)* || <sup>AG</sup> || 5 rangs en [Artisanat](./Artisanat.md) (armes de siège), 5 rangs en [Connaissances](./Connaissances.md) (ingénierie) ou 1 [rang](./rang.md) en [Profession](./Profession.md) (ingénieur de siège) || +4 aux tests de déplacement ou d’assemblage de l’équipe de siège
+| [[Responsable du siège]]* || <sup>AG</sup> || 5 rangs en [[Artisanat]] (armes de siège), 5 rangs en [[Connaissances]] (ingénierie) ou 1 [[rang]] en [[Profession]] (ingénieur de siège) || +4 aux tests de déplacement ou d’assemblage de l’équipe de siège
 
 |- CLASS="premier"
-| [Retour en force](./Retour en force.md) || <sup>AG</sup> || – || Bonus de +2 à tous les jets relancés
+| [[Retour en force]] || <sup>AG</sup> || – || Bonus de +2 à tous les jets relancés
 
 |- CLASS="premier"
-| [Révélation supplémentaire](./Révélation supplémentaire.md) || <sup>MJRA</sup> || Aptitude de classe de [révélation](./Oracle.md#REVELATION) || Gagne une révélation supplémentaire
+| [[Révélation supplémentaire]] || <sup>MJRA</sup> || Aptitude de classe de [[oracle#REVELATION|révélation]] || Gagne une révélation supplémentaire
 
 |- CLASS="premier"
-| [Rêveur lucide](./Rêveur lucide.md) || <sup>AO</sup> || [Cha](./Charisme.md) 13, 3 rangs en [Connaissances](./Connaissances.md) (plans) || Amélioration du contrôle lors d’un rêve
+| [[Rêveur lucide]] || <sup>AO</sup> || [[Charisme|Cha]] 13, 3 rangs en [[Connaissances]] (plans) || Amélioration du contrôle lors d’un rêve
 
 |- CLASS="premier"
-| [Riposte](./Riposte.md)* || <sup>MJ</sup> || [BBA](./BBA.md) +11 || Riposte contre les ennemis qui attaquent à l’aide de leur allonge
+| [[Riposte]]* || <sup>MJ</sup> || [[BBA]] +11 || Riposte contre les ennemis qui attaquent à l’aide de leur allonge
 
 |- CLASS="premier"
-| [Robustesse](./Robustesse.md) || <sup>MJ</sup> || — || +3 [points de vie](./pv.md), +1 par [DV](./../Ressources/DV.md) en plus du 3<sup>ème</sup>
+| [[Robustesse]] || <sup>MJ</sup> || — || +3 [[pv|points de vie]], +1 par [[DV]] en plus du 3<sup>ème</sup>
 
 |- CLASS="premier"
-| [Roublard studieux](./Roublard studieux.md) || <sup>MCA</sup> || [talent de roublard magie mineure](./Talents.md#MAGIEMINEURE) || Le personnage change les pouvoirs magiques issus de son talent de roublard par l’étude
+| [[Roublard studieux]] || <sup>MCA</sup> || [[Talents#MAGIEMINEURE|talent de roublard magie mineure]] || Le personnage change les pouvoirs magiques issus de son talent de roublard par l’étude
 
 |- CLASS="premier"
-| [S’avancer](./Savancer.md)* || <sup>MJ</sup> || [BBA](./BBA.md) +1 || Faire un pas de 1,5 mètre (1 case) par une [action immédiate](./Action immédiate.md)
+| [[Savancer|S’avancer]]* || <sup>MJ</sup> || [[BBA]] +1 || Faire un pas de 1,5 mètre (1 case) par une [[action immédiate]]
 |-
-| &emsp;[Poursuite](./Poursuite.md)* || <sup>MJRA</sup> || [Dex](./Dextérité.md) 13, [S’avancer](./Savancer.md) || Se déplacer d’au plus 3 mètres (2 cases) par une [action immédiate](./Action immédiate.md)
+| &emsp;[[Poursuite]]* || <sup>MJRA</sup> || [[Dextérité|Dex]] 13, [[Savancer|S’avancer]] || Se déplacer d’au plus 3 mètres (2 cases) par une [[action immédiate]]
 |-
-| &emsp;&emsp;[Avance et frappe](./Avance et frappe.md)* || <sup>MJRA</sup> || [Dex](./Dextérité.md) 13, [Poursuite](./Poursuite.md), [BBA](./BBA.md)+6 || Suivre une créature adjacente et attaquer par une [action immédiate](./Action immédiate.md)
+| &emsp;&emsp;[[Avance et frappe]]* || <sup>MJRA</sup> || [[Dextérité|Dex]] 13, [[Poursuite]], [[BBA]]+6 || Suivre une créature adjacente et attaquer par une [[action immédiate]]
 
 |- CLASS="premier"
-| [Sabotage magique](./Sabotage magique.md) || <sup>MCA</sup> || 5 rangs en [Sabotage](./Sabotage.md), 5 rangs en [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md), [recherche des pièges](./Roublard.md#RECHERCHEDESPIEGES) || [Sabotage](./Sabotage.md) permet de désactiver les objets magiques
+| [[Sabotage magique]] || <sup>MCA</sup> || 5 rangs en [[Sabotage]], 5 rangs en [[Utilisation dobjets magiques|Utilisation d’objets magiques]], [[Roublard#RECHERCHEDESPIEGES|recherche des pièges]] || [[Sabotage]] permet de désactiver les objets magiques
 
 |- CLASS="premier"
-| [Sage harmonique](./Sage harmonique.md) || <sup>AG</sup> || [Représentation bardique](./représentation bardique.md), 5 rangs en [Connaissances](./Connaissances.md) (ingénierie) || Pouvoirs supplémentaires lors des représentations dans une structure artificielle
+| [[Sage harmonique]] || <sup>AG</sup> || [[Représentation bardique]], 5 rangs en [[Connaissances]] (ingénierie) || Pouvoirs supplémentaires lors des représentations dans une structure artificielle
 
 |- CLASS="premier"
-| [Sang manifeste](./Sang manifeste.md) || <sup>MCA</sup> || [Cha](./Charisme.md) 13 ; [lignage draconique](./lignage Draconique.md) ou [élémentaire](./lignage Élémentaire.md) || Le personnage s’entoure de l’élément associé à son lignage pour gagner une résistance contre son énergie et infliger des dégâts à ses assaillants
+| [[Sang manifeste]] || <sup>MCA</sup> || [[Charisme|Cha]] 13 ; [[lignage draconique]] ou [[lignage élémentaire|élémentaire]] || Le personnage s’entoure de l’élément associé à son lignage pour gagner une résistance contre son énergie et infliger des dégâts à ses assaillants
 
 |- CLASS="premier"
-| [Sang rageur](./Sang rageur.md) || <sup>MCA</sup> || [Étrange héritage](./Étrange héritage.md) ou pouvoir de classe lignage d’[ensorceleur](./Ensorceleur.md) || Le personnage entre dans une rage sanguine mineure
+| [[Sang rageur]] || <sup>MCA</sup> || [[Étrange héritage]] ou pouvoir de classe lignage d’[[ensorceleur]] || Le personnage entre dans une rage sanguine mineure
 
 |- CLASS="premier"
-| [Saut cinétique](./Saut cinétique.md) || <sup>AO</sup> || 3 rangs en [Acrobaties](./Acrobaties.md), pouvoir de classe [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) || Utilisation de l’[explosion](./Cinétiste.md#EXPLOSIONCINÉTIQUE) pour gagner +10 aux tests d’[Acrobaties](./Acrobaties.md) pour sauter (+20 à 10 rangs)
+| [[Saut cinétique]] || <sup>AO</sup> || 3 rangs en [[Acrobaties]], pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] || Utilisation de l’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion]] pour gagner +10 aux tests d’[[Acrobaties]] pour sauter (+20 à 10 rangs)
 
 |- CLASS="premier"
-| [Science de la canalisation](./Science de la canalisation.md) || <sup>MJ</sup> || Capacité à [canaliser de l’énergie](./canalisation.md) || +2 au [DD](./DD.md) des [canalisations d’énergie](./canalisation.md)
+| [[Science de la canalisation]] || <sup>MJ</sup> || Capacité à [[canalisation|canaliser de l’énergie]] || +2 au [[DD]] des [[canalisation|canalisations d’énergie]]
 
 |- CLASS="premier"
-| [Science de la connaissance des monstres](./Science de la connaissance des monstres.md) || <sup>AM</sup> || Pouvoir de classe [Connaissance des monstres](./connaissance des monstres.md) || bonus sacré aux tests de connaissance des monstres
+| [[Science de la connaissance des monstres]] || <sup>AM</sup> || Pouvoir de classe [[Connaissance des monstres]] || bonus sacré aux tests de connaissance des monstres
 
 |- CLASS="premier"
-| [Science de l’initiative](./Science de linitiative.md)* || <sup>MJ</sup> || — || +4 aux tests d’[initiative](./initiative.md)
+| [[Science de linitiative|Science de l’initiative]]* || <sup>MJ</sup> || — || +4 aux tests d’[[initiative]]
 
 |- CLASS="premier"
-| [Science du chant funèbre](./Science-du-chant-funèbre.md) || <sup>MCA</sup> || Capacité à pratiquer le chant funèbre || Chant funèbre s’étend à 18 mètres et peut, au maximum, [effrayer](./Effrayé.md) ses victimes
+| [[Science du chant funèbre]] || <sup>MCA</sup> || Capacité à pratiquer le chant funèbre || Chant funèbre s’étend à 18 mètres et peut, au maximum, [[effrayé|effrayer]] ses victimes
 |-
-| &emsp;[Chant funèbre supérieur](./Chant-funèbre-supérieur.md) || <sup>MCA</sup> || [Science du chant funèbre](./Science-du-chant-funèbre.md), capacité à pratiquer le chant funèbre || Les effets du chant funèbre s’attardent et peuvent au maximum, [paniquer](./Paniqué.md) leurs victimes
+| &emsp;[[Chant funèbre supérieur]] || <sup>MCA</sup> || [[Science du chant funèbre]], capacité à pratiquer le chant funèbre || Les effets du chant funèbre s’attardent et peuvent au maximum, [[paniqué|paniquer]] leurs victimes
 
 |- CLASS="premier"
-| [Science du combat à mains nues](./Science du combat à mains nues.md)* || <sup>MJ</sup> || — || Le personnage est toujours considéré comme armé
+| [[Science du combat à mains nues]]* || <sup>MJ</sup> || — || Le personnage est toujours considéré comme armé
 |-
-| &emsp;[Artiste du KO](./Artiste du KO.md) || <sup>AG</sup> || [Attaque sournoise](./attaque sournoise.md), [Science du combat à mains nues](./Science du combat à mains nues.md) || +1 dégâts par dé d’[attaque sournoise](./attaque sournoise.md) en cas de dégâts non létaux
+| &emsp;[[Artiste du KO]] || <sup>AG</sup> || [[Attaque sournoise]], [[Science du combat à mains nues]] || +1 dégâts par dé d’[[attaque sournoise]] en cas de dégâts non létaux
 |-
-| &emsp;[Contre-droite](./Contre-droite.md)* || <sup>MCA</sup> || [Dex](./Dextérité.md) 18, [Attaques réflexes](./Attaques réflexes.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Arme de prédilection](./Arme de prédilection.md) (mains nues), [BBA](./BBA.md) +16 ou [lutteur](./Lutteur.md) niveau 12 || Quand le personnage se bat à mains nues et qu’un ennemi rate toutes ses attaques au corps à corps, l’ennemi provoque des [attaques d’opportunité](./AO.md) de la part du personnage
+| &emsp;[[Contre-droite]]* || <sup>MCA</sup> || [[Dextérité|Dex]] 18, [[Attaques réflexes]], [[Science du combat à mains nues]], [[Arme de prédilection]] (mains nues), [[BBA]] +16 ou [[lutteur]] niveau 12 || Quand le personnage se bat à mains nues et qu’un ennemi rate toutes ses attaques au corps à corps, l’ennemi provoque des [[AO|attaques d’opportunité]] de la part du personnage
 |-
-| [Coup bouleversant](./Coup bouleversant.md)* || <sup>MCA</sup> || [Dex](./Dextérité.md) 13, [Sag](./Sagesse.md) 13, [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +8 || Les coups à mains nues rendent l’adversaire [confus](./Confus.md)
+| [[Coup bouleversant]]* || <sup>MCA</sup> || [[Dextérité|Dex]] 13, [[Sagesse|Sag]] 13, [[Science du combat à mains nues]], [[BBA]] +8 || Les coups à mains nues rendent l’adversaire [[confus]]
 |-
-| &emsp;[Coup étourdissant](./Coup étourdissant.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 13, [Sag](./Sagesse.md) 13, [BBA](./BBA.md) +8,   
-[Science du combat à mains nues](./Science du combat à mains nues.md) || L’attaque à mains nues [étourdit](./Étourdi.md) l’adversaire
+| &emsp;[[Coup étourdissant]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 13, [[Sagesse|Sag]] 13, [[BBA]] +8,   
+[[Science du combat à mains nues]] || L’attaque à mains nues [[étourdi|étourdit]] l’adversaire
 |-
-| &emsp;&emsp;[Briser la mâchoire](./Briser la mâchoire.md)* || <sup>AG</sup> || 6 rangs en [Premiers secours](./Premiers secours.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Coup étourdissant](./Coup étourdissant.md) || Le personnage peut endommager la bouche de son adversaire s’il réussit un [Coup étourdissant](./Coup étourdissant.md)
+| &emsp;&emsp;[[Briser la mâchoire]]* || <sup>AG</sup> || 6 rangs en [[Premiers secours]], [[Science du combat à mains nues]], [[Coup étourdissant]] || Le personnage peut endommager la bouche de son adversaire s’il réussit un [[Coup étourdissant]]
 |-
-| &emsp;&emsp;&emsp;[Briser les os](./Briser les os.md)* || <sup>AG</sup> || [Science de la lutte](./Science de la lutte.md), [Briser la mâchoire](./Briser la mâchoire.md), 9 rangs en [Premiers secours](./Premiers secours.md) || Inflige des dégâts de [For](./Force.md) ou de [Dex](./Dex.md) avec le [Coup étourdissant](./Coup étourdissant.md)
+| &emsp;&emsp;&emsp;[[Briser les os]]* || <sup>AG</sup> || [[Science de la lutte]], [[Briser la mâchoire]], 9 rangs en [[Premiers secours]] || Inflige des dégâts de [[Force|For]] ou de [[Dex]] avec le [[Coup étourdissant]]
 |-
-| &emsp;&emsp;&emsp;&emsp;[Briser le cou](./Briser le cou.md)* || <sup>AG</sup> || [Briser les os](./Briser les os.md), [Lutte supérieure](./Lutte supérieure.md), [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Briser la mâchoire](./Briser la mâchoire.md), [Coup étourdissant](./Coup étourdissant.md), 12 rangs en [Premiers secours](./Premiers secours.md) || Dégâts de [For](./For.md) ou de [Dex](./Dex.md) à un adversaire immobilisé
+| &emsp;&emsp;&emsp;&emsp;[[Briser le cou]]* || <sup>AG</sup> || [[Briser les os]], [[Lutte supérieure]], [[Science de la lutte]], [[Science du combat à mains nues]], [[Briser la mâchoire]], [[Coup étourdissant]], 12 rangs en [[Premiers secours]] || Dégâts de [[For]] ou de [[Dex]] à un adversaire immobilisé
 |-
-| &emsp;&emsp;[Coup écrasant](./Coup écrasant.md)* || <sup>AG</sup> || [Coup étourdissant](./Coup étourdissant.md) || Le [coup étourdissant](./Coup étourdissant.md) réduit la [CA](./CA.md) de la cible
+| &emsp;&emsp;[[Coup écrasant]]* || <sup>AG</sup> || [[Coup étourdissant]] || Le [[coup étourdissant]] réduit la [[CA]] de la cible
 |-
-| &emsp;&emsp;[Étourdir l’immobile](./Étourdir limmobile.md)* || <sup>AG</sup> || [Science de la lutte](./Science de la lutte.md), [Coup étourdissant](./Coup étourdissant.md) || [Coup étourdissant](./Coup étourdissant.md) contre les adversaires immobilisés
+| &emsp;&emsp;[[Étourdir limmobile|Étourdir l’immobile]]* || <sup>AG</sup> || [[Science de la lutte]], [[Coup étourdissant]] || [[Coup étourdissant]] contre les adversaires immobilisés
 |-
-| &emsp;[Coup mémorable](./Coup mémorable.md)* || <sup>MJRA</sup> || [Con](./Constitution.md) 13, [Sag](./Sagesse.md) 13, [BBA](./BBA.md) +8,   
-[Science du combat à mains nues](./Science du combat à mains nues.md) || Mettre à terre ou repousser un ennemi avec une attaque à mains nues
+| &emsp;[[Coup mémorable]]* || <sup>MJRA</sup> || [[Constitution|Con]] 13, [[Sagesse|Sag]] 13, [[BBA]] +8,   
+[[Science du combat à mains nues]] || Mettre à terre ou repousser un ennemi avec une attaque à mains nues
 |-
-| &emsp;[Coup parfait](./Coup parfait.md)* || <sup>MJRA</sup> || [dex](./Dextérité.md) 13, [Sag](./Sagesse.md) 13, [BBA](./BBA.md) +8,   
-[Science du combat à mains nues](./Science du combat à mains nues.md) || Faire deux lancers pour les attaques avec une arme de moine et choisir le meilleur
+| &emsp;[[Coup parfait]]* || <sup>MJRA</sup> || [[Dextérité|dex]] 13, [[Sagesse|Sag]] 13, [[BBA]] +8,   
+[[Science du combat à mains nues]] || Faire deux lancers pour les attaques avec une arme de moine et choisir le meilleur
 |-
-| &emsp;[École du scorpion](./École du scorpion.md)* || <sup>MJ</sup> || [Science du combat à mains nues](./Science du combat à mains nues.md) || Réduit la [vitesse de déplacement](./vitesse de déplacement.md) de la cible à 1,5 m
+| &emsp;[[École du scorpion]]* || <sup>MJ</sup> || [[Science du combat à mains nues]] || Réduit la [[vitesse de déplacement]] de la cible à 1,5 m
 |-
-| &emsp;&emsp;[Poing de la gorgone](./Poing de la gorgone.md)* || <sup>MJ</sup> || [École du scorpion](./École du scorpion.md), [BBA](./BBA.md) +6 || Fait [chanceler](./Chancelant.md) un ennemi ralenti
+| &emsp;&emsp;[[Poing de la gorgone]]* || <sup>MJ</sup> || [[École du scorpion]], [[BBA]] +6 || Fait [[chancelant|chanceler]] un ennemi ralenti
 |-
-| &emsp;&emsp;&emsp;[Fureur de la méduse](./Fureur de la méduse.md)* || <sup>MJ</sup> || [Poing de la gorgone](./Poing de la gorgone.md), [BBA](./BBA.md) +11 || 2 attaques supplémentaires contre un ennemi gêné dans ses déplacements
+| &emsp;&emsp;&emsp;[[Fureur de la méduse]]* || <sup>MJ</sup> || [[Poing de la gorgone]], [[BBA]] +11 || 2 attaques supplémentaires contre un ennemi gêné dans ses déplacements
 |-
-| &emsp;&emsp;&emsp;&emsp;[Coup de la cockatrice](./Coup de la cockatrice.md)* || <sup>MJRA</sup> || [Fureur de la méduse](./Fureur de la méduse.md), [BBA](./BBA.md) +16 || [Pétrifier](./Pétrifié.md) une cible après un [coup critique](./coup critique.md)
+| &emsp;&emsp;&emsp;&emsp;[[Coup de la cockatrice]]* || <sup>MJRA</sup> || [[Fureur de la méduse]], [[BBA]] +16 || [[pétrifié|Pétrifier]] une cible après un [[coup critique]]
 |-
-| &emsp;[Frappe de la vipère](./Frappe de la vipère.md)* || <sup>AG</sup> || Utilisation des poisons, [Science du combat à mains nues](./Science du combat à mains nues.md), 1 rang en [Artisanat](./Artisanat.md) (alchimie) || Applique du poison de contact sur une attaque à mains nues
+| &emsp;[[Frappe de la vipère]]* || <sup>AG</sup> || Utilisation des poisons, [[Science du combat à mains nues]], 1 rang en [[Artisanat]] (alchimie) || Applique du poison de contact sur une attaque à mains nues
 |-
-| &emsp;&emsp;[Empoisonneur précis](./Empoisonneur précis.md)* || <sup>AG</sup> || [Frappe de la vipère](./Frappe de la vipère.md), [Combat à deux armes](./Combat à deux armes.md) ou [déluge de coups](./Moine.md#DELUGEDCOUPS), 6 rangs en [Artisanat](./Artisanat.md) (alchimie) || Quand le personnage utilise [Frappe de la vipère](./Frappe de la vipère.md), il peut empoisonner deux fléchettes qu’il utilise au corps à corps
+| &emsp;&emsp;[[Empoisonneur précis]]* || <sup>AG</sup> || [[Frappe de la vipère]], [[Combat à deux armes]] ou [[Moine#DELUGEDCOUPS|déluge de coups]], 6 rangs en [[Artisanat]] (alchimie) || Quand le personnage utilise [[Frappe de la vipère]], il peut empoisonner deux fléchettes qu’il utilise au corps à corps
 |-
-| &emsp;[Frappe de domaine](./Frappe de domaine.md)* || <sup>AG</sup> || Domaine, [Science du combat à mains nues](./Science du combat à mains nues.md) || Utilisation d’un pouvoir de domaine via une attaque à mains nues
+| &emsp;[[Frappe de domaine]]* || <sup>AG</sup> || Domaine, [[Science du combat à mains nues]] || Utilisation d’un pouvoir de domaine via une attaque à mains nues
 |-
-| &emsp;[Frappe de l’école](./Frappe de lécole.md)* || <sup>AG</sup> || [Science du combat à mains nues](./Science du combat à mains nues.md), [École de prédilection](./Magicien.md#ECOLEDEMAGIE) || Peut appliquer un effet d’école de magicien par une [action rapide](./Action rapide.md) après une attaque au corps à corps
+| &emsp;[[Frappe de lécole|Frappe de l’école]]* || <sup>AG</sup> || [[Science du combat à mains nues]], [[Magicien#ECOLEDEMAGIE|École de prédilection]] || Peut appliquer un effet d’école de magicien par une [[action rapide]] après une attaque au corps à corps
 |-
-| &emsp;[Frappe drainante](./Frappe drainante.md) || <sup>MCA</sup> || [Dex](./Dextérité.md) 13, [Sag](./Sagesse.md) 13, [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +8 || Le personnage [fatigue](./Fatigué.md) son adversaire avec ses attaques à mains nues
+| &emsp;[[Frappe drainante]] || <sup>MCA</sup> || [[Dextérité|Dex]] 13, [[Sagesse|Sag]] 13, [[Science du combat à mains nues]], [[BBA]] +8 || Le personnage [[fatigué|fatigue]] son adversaire avec ses attaques à mains nues
 |-
-| &emsp;[Frappe ensorcelée](./Frappe ensorcelée.md) || <sup>AG</sup> || [Lignage d’ensorceleur](./Ensorceleur.md#LIGNAGE), [Science du combat à mains nues](./Science du combat à mains nues.md) || Applique un pouvoir de lignage lors d’une attaque de corps à corps
+| &emsp;[[Frappe ensorcelée]] || <sup>AG</sup> || [[Ensorceleur#LIGNAGE|Lignage d’ensorceleur]], [[Science du combat à mains nues]] || Applique un pouvoir de lignage lors d’une attaque de corps à corps
 |-
-| &emsp;[Frappe maléfique](./Frappe maléfique.md)* || <sup>AG</sup> || [Maléfice](./Sorcière.md#MALEFICE), [Science du combat à mains nues](./Science du combat à mains nues.md) || Le personnage peut lancer un [maléfice](./Sorcière.md#MALEFICE) s’il réussit une attaque à mains nues
+| &emsp;[[Frappe maléfique]]* || <sup>AG</sup> || [[Sorcière#MALEFICE|Maléfice]], [[Science du combat à mains nues]] || Le personnage peut lancer un [[Sorcière#MALEFICE|maléfice]] s’il réussit une attaque à mains nues
 |-
-| &emsp;[Frappe paralysante](./Frappe paralysante.md)* || <sup>MCA</sup> || [Dex](./Dextérité.md) 13, [Sag](./Sagesse.md) 13, [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +14 || Le personnage [paralyse](./Paralysé.md) avec ses attaques à mains nues
+| &emsp;[[Frappe paralysante]]* || <sup>MCA</sup> || [[Dextérité|Dex]] 13, [[Sagesse|Sag]] 13, [[Science du combat à mains nues]], [[BBA]] +14 || Le personnage [[paralysé|paralyse]] avec ses attaques à mains nues
 |-
-| &emsp;[Frappe révélatrice](./Frappe révélatrice.md)* || <sup>AG</sup> || [Science du combat à mains nues](./Science du combat à mains nues.md), [révélation](./Oracle.md#REVELATION) || Affecte un adversaire avec une [révélation](./Oracle.md#REVELATION) lors d’une attaque au corps à corps
+| &emsp;[[Frappe révélatrice]]* || <sup>AG</sup> || [[Science du combat à mains nues]], [[Oracle#REVELATION|révélation]] || Affecte un adversaire avec une [[Oracle#REVELATION|révélation]] lors d’une attaque au corps à corps
 |-
-| &emsp;[Maître des écoles de combat](./Maître des écoles de combat.md)* || <sup>AG</sup> || [Science du combat à mains nues](./Science du combat à mains nues.md), deux autres [dons d’école](./dons décole.md), [BBA](./BBA.md) +6 ou [moine](./Moine.md) de niveau 5 || Le personnage peut changer d’École par une [action libre](./Action libre.md)
+| &emsp;[[Maître des écoles de combat]]* || <sup>AG</sup> || [[Science du combat à mains nues]], deux autres [[dons décole|dons d’école]], [[BBA]] +6 ou [[moine]] de niveau 5 || Le personnage peut changer d’École par une [[action libre]]
 |-
-| &emsp;[Parade de projectiles](./Parade de projectiles.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 13, [Science du combat à mains nues](./Science du combat à mains nues.md) || Évite une attaque à distance/round
+| &emsp;[[Parade de projectiles]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 13, [[Science du combat à mains nues]] || Évite une attaque à distance/round
 |-
-| &emsp;&emsp;[Capture de projectiles](./Capture de projectiles.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 15, [Parade de projectiles](./Parade de projectiles.md) || Attrape un projectile/round
+| &emsp;&emsp;[[Capture de projectiles]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 15, [[Parade de projectiles]] || Attrape un projectile/round
 |-
-| &emsp;&emsp;&emsp;[Renvoi de projectile](./Renvoi de projectile.md)* || <sup>RTT</sup> || [Dex](./Dextérité.md) 17, [Capture de projectiles](./Capture de projectiles.md), [Parade de projectiles](./Parade de projectiles.md), [Science du combat à mains nues](./Science du combat à mains nues.md) || Renvoie sur un adversaire un projectile attrapé
+| &emsp;&emsp;&emsp;[[Renvoi de projectile]]* || <sup>RTT</sup> || [[Dextérité|Dex]] 17, [[Capture de projectiles]], [[Parade de projectiles]], [[Science du combat à mains nues]] || Renvoie sur un adversaire un projectile attrapé
 |-
-| &emsp;[Piétinement vicieux](./Piétinement vicieux.md)* || <sup>AG</sup> || [Attaques réflexes](./Attaques réflexes.md), [Science du combat à mains nues](./Science du combat à mains nues.md) || Lorsque un adversaire tombe à terre à proximité, il provoque une [attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Piétinement vicieux]]* || <sup>AG</sup> || [[Attaques réflexes]], [[Science du combat à mains nues]] || Lorsque un adversaire tombe à terre à proximité, il provoque une [[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;[Poing de cauchemar](./Poing de cauchemar.md)* || <sup>AG</sup> || [Science du combat à mains nues](./Science du combat à mains nues.md), 1 [rang](./rang.md) en [Intimidation](./Intimidation.md), aptitude à créer des ténèbres magiques || Le personnage inflige +2 points de dégâts quand il se bat dans des ténèbres magiques
+| &emsp;[[Poing de cauchemar]]* || <sup>AG</sup> || [[Science du combat à mains nues]], 1 [[rang]] en [[Intimidation]], aptitude à créer des ténèbres magiques || Le personnage inflige +2 points de dégâts quand il se bat dans des ténèbres magiques
 |-
-| &emsp;&emsp;[Tisseur de cauchemar](./Tisseur de cauchemar.md)* || <sup>AG</sup> || [Poing de cauchemar](./Poing de cauchemar.md), 2 rangs en [Intimidation](./Intimidation.md) || Peut démoraliser les adversaires en lançant *[ténèbres](./Ténèbres.md)*
+| &emsp;&emsp;[[Tisseur de cauchemar]]* || <sup>AG</sup> || [[Poing de cauchemar]], 2 rangs en [[Intimidation]] || Peut démoraliser les adversaires en lançant *[[ténèbres]]*
 |-
-| &emsp;&emsp;&emsp;[Frappe de cauchemar](./Frappe de cauchemar.md)* || <sup>AG</sup> || [Tisseur de cauchemar](./Tisseur de cauchemar.md), [Coup étourdissant](./Coup étourdissant.md), 5 [rangs](./rang.md) en [Premiers secours](./Premiers secours.md), *[lueur féerique](./Lueur féerique.md)* || Quand l’adversaire est sous l’effet de *[lueur féerique](./Lueur féerique.md)*, le [DD](./DD.md) du [Coup étourdissant](./Coup étourdissant.md) augmente de 2
+| &emsp;&emsp;&emsp;[[Frappe de cauchemar]]* || <sup>AG</sup> || [[Tisseur de cauchemar]], [[Coup étourdissant]], 5 [[rang|rangs]] en [[Premiers secours]], *[[lueur féerique]]* || Quand l’adversaire est sous l’effet de *[[lueur féerique]]*, le [[DD]] du [[Coup étourdissant]] augmente de 2
 |-
-| &emsp;[Poing déstabilisant](./Poing déstabilisant.md)* || <sup>MCA</sup> || [Dex](./Dextérité.md) 13, [Sag](./Sagesse.md) 13, [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +2 || Fait [chanceler](./Chancelant.md) ses ennemis avec les attaques à mains nues
+| &emsp;[[Poing déstabilisant]]* || <sup>MCA</sup> || [[Dextérité|Dex]] 13, [[Sagesse|Sag]] 13, [[Science du combat à mains nues]], [[BBA]] +2 || Fait [[chancelant|chanceler]] ses ennemis avec les attaques à mains nues
 |-
-| &emsp;[Poing élémentaire](./Poing élémentaire.md)* || <sup>MJRA</sup> || [Con](./Constitution.md) 13, [Sag](./Sagesse.md) 13, [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +8 || infliger 1d6 points de dégâts d’énergie avec un coup à mains nues
+| &emsp;[[Poing élémentaire]]* || <sup>MJRA</sup> || [[Constitution|Con]] 13, [[Sagesse|Sag]] 13, [[Science du combat à mains nues]], [[BBA]] +8 || infliger 1d6 points de dégâts d’énergie avec un coup à mains nues
 |-
-| &emsp;[Poing du croisé](./Poing du croisé.md)* || <sup>AG</sup> || [Imposition des mains](./Imposition des mains.md) ou [toucher de corruption](./Antipaladin.md#TOUCHERDECORRUPTION), [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +6 || Le personnage peut utiliser ses impositions des mains ou son toucher de la corruption sur ses attaques à mains nues réussies
+| &emsp;[[Poing du croisé]]* || <sup>AG</sup> || [[Imposition des mains]] ou [[Antipaladin#TOUCHERDECORRUPTION|toucher de corruption]], [[Science du combat à mains nues]], [[BBA]] +6 || Le personnage peut utiliser ses impositions des mains ou son toucher de la corruption sur ses attaques à mains nues réussies
 |-
-| &emsp;[Poing de dissipation](./Poing de dissipation.md) || <sup>AG</sup> || [Science du combat à mains nues](./Science du combat à mains nues.md), *[dissipation de la magie](./Dissipation de la magie.md)*, [BBA](./BBA.md) +11, [NLS](./NLS.md) 7 || Le personnage peut lancer *[dissipation de la magie](./Dissipation de la magie.md)* par une [action rapide](./Action rapide.md) après une attaque
+| &emsp;[[Poing de dissipation]] || <sup>AG</sup> || [[Science du combat à mains nues]], *[[dissipation de la magie]]*, [[BBA]] +11, [[NLS]] 7 || Le personnage peut lancer *[[dissipation de la magie]]* par une [[action rapide]] après une attaque
 |-
-| &emsp;[Poing hébétant](./Poing hébétant.md)* || <sup>MCA</sup> || [Dex](./Dextérité.md) 13, [Sag](./Sagesse.md) 13, [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +4 || [Hébétement](./Hébété.md) sur les attaques à mains nues
+| &emsp;[[Poing hébétant]]* || <sup>MCA</sup> || [[Dextérité|Dex]] 13, [[Sagesse|Sag]] 13, [[Science du combat à mains nues]], [[BBA]] +4 || [[Hébété|Hébétement]] sur les attaques à mains nues
 |-
-| &emsp;[Science de la lutte](./Science de la lutte.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 13, [Science du combat à mains nues](./Science du combat à mains nues.md) || +2 aux tests de [lutte](./lutte.md), pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;[[Science de la lutte]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 13, [[Science du combat à mains nues]] || +2 aux tests de [[lutte]], pas d’[[attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;[Bouclier vivant](./Bouclier vivant.md)* || <sup>AG</sup> || [Science de la lutte](./Science de la lutte.md), [BBA](./BBA.md) +6 || Le personnage gagne un [abri](./abri.md) contre les attaques quand il est [agrippé](./Agrippé.md)
+| &emsp;&emsp;[[Bouclier vivant]]* || <sup>AG</sup> || [[Science de la lutte]], [[BBA]] +6 || Le personnage gagne un [[abri]] contre les attaques quand il est [[agrippé]]
 |-
-| &emsp;&emsp;[Étreinte étouffante](./Étreinte étouffante.md)* || <sup>AG</sup> || [Science de la lutte](./Science de la lutte.md), [BBA](./BBA.md) +6 ou [moine](./Moine.md) 5 || Le personnage peut immobiliser un ennemi d’une catégorie de taille de plus que la sienne
+| &emsp;&emsp;[[Étreinte étouffante]]* || <sup>AG</sup> || [[Science de la lutte]], [[BBA]] +6 ou [[moine]] 5 || Le personnage peut immobiliser un ennemi d’une catégorie de taille de plus que la sienne
 |-
-| &emsp;&emsp;[KO sur l’immobile](./KO sur limmobile.md)* || <sup>AG</sup> || [Dex](./Dextérité.md) 13, [Science de la lutte](./Science de la lutte.md), [BBA](./BBA.md) +9 ou [moine](./Moine.md) de niveau 9 || Le personnage inflige des dégâts non létaux de [lutte](./lutte.md) doublés sur un adversaire immobilisé
+| &emsp;&emsp;[[KO sur limmobile|KO sur l’immobile]]* || <sup>AG</sup> || [[Dextérité|Dex]] 13, [[Science de la lutte]], [[BBA]] +9 ou [[moine]] de niveau 9 || Le personnage inflige des dégâts non létaux de [[lutte]] doublés sur un adversaire immobilisé
 |-
-| &emsp;&emsp;[Lutte supérieure](./Lutte supérieure.md)* || <sup>MJ</sup> || [Science de la lutte](./Science de la lutte.md), [BBA](./BBA.md) +6 || Maintenir une [lutte|prise]] est une [action de mouvement](./Action de mouvement.md)
+| &emsp;&emsp;[[Lutte supérieure]]* || <sup>MJ</sup> || [[Science de la lutte]], [[BBA]] +6 || Maintenir une [lutte|prise]] est une [[action de mouvement]]
 |-
-| &emsp;&emsp;&emsp;[Éventration de l’immobile](./Éventration de limmobile.md)* || <sup>AG</sup> || [Dex](./Dex.md) 13, [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [moine](./Moine.md) niveau 9, [lutte supérieure](./Lutte supérieure.md) || Le personnage peut infliger des dégâts de [saignement](./Saignement (capacité).md) lors du test de lutte si son adversaire est immobilisé
+| &emsp;&emsp;&emsp;[[Éventration de limmobile|Éventration de l’immobile]]* || <sup>AG</sup> || [[Dex]] 13, [[Science de la lutte]], [[Science du combat à mains nues]], [[moine]] niveau 9, [[lutte supérieure]] || Le personnage peut infliger des dégâts de [[Saignement (capacité)|saignement]] lors du test de lutte si son adversaire est immobilisé
 |-
-| &emsp;&emsp;&emsp;[Lutteur rapide](./Lutteur rapide.md)* || <sup>AG</sup> || [Dex](./Dextérité.md) 13, [Lutte supérieure](./Lutte supérieure.md), [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +9 ou [moine](./Moine.md) de niveau 9 || Dépense une [action rapide](./Action rapide.md) pour faire une manœuvre de [lutte](./lutte.md) avec [Lutte supérieure](./Lutte supérieure.md)
+| &emsp;&emsp;&emsp;[[Lutteur rapide]]* || <sup>AG</sup> || [[Dextérité|Dex]] 13, [[Lutte supérieure]], [[Science de la lutte]], [[Science du combat à mains nues]], [[BBA]] +9 ou [[moine]] de niveau 9 || Dépense une [[action rapide]] pour faire une manœuvre de [[lutte]] avec [[Lutte supérieure]]
 |-
-| &emsp;&emsp;[Strangulation](./Strangulation.md)* || <sup>AG</sup> || [Science de la lutte](./Science de la lutte.md), [attaque sournoise](./attaque sournoise.md) +1d6 || Dépense une [action rapide](./Action rapide.md) pour appliquer des dégâts d’attaque sournoise en plus des dégâts contre les adversaires [agrippés](./Agrippé.md)
+| &emsp;&emsp;[[Strangulation]]* || <sup>AG</sup> || [[Science de la lutte]], [[attaque sournoise]] +1d6 || Dépense une [[action rapide]] pour appliquer des dégâts d’attaque sournoise en plus des dégâts contre les adversaires [[agrippé|agrippés]]
 |-
-| &emsp;[Toucher de la sérénité](./Toucher de la sérénité.md)* || <sup>MJRA</sup> || [Sag](./Sagesse.md) 18, [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +8 || Les ennemis touchés par les attaques à mains nues ne peuvent ni attaquer, ni incanter
+| &emsp;[[Toucher de la sérénité]]* || <sup>MJRA</sup> || [[Sagesse|Sag]] 18, [[Science du combat à mains nues]], [[BBA]] +8 || Les ennemis touchés par les attaques à mains nues ne peuvent ni attaquer, ni incanter
 
 |- CLASS="premier"
-| [Science du contresort](./Science du contresort.md) || <sup>MJ</sup> || — || Capacité à [contrer un sort](./contresort.md) à l’aide d’un autre sort de la même [école](./Écoles de magie.md)
+| [[Science du contresort]] || <sup>MJ</sup> || — || Capacité à [[contresort|contrer un sort]] à l’aide d’un autre sort de la même [[Écoles de magie|école]]
 |-
-| &emsp;[Parade de sorts](./Parade de sorts.md) || <sup>MJRA</sup> || [Art de la magie](./Art de la magie.md) 15 rangs, [Science du contresort](./Science du contresort.md) || Renvoyer un sort contré vers le lanceur
+| &emsp;[[Parade de sorts]] || <sup>MJRA</sup> || [[Art de la magie]] 15 rangs, [[Science du contresort]] || Renvoyer un sort contré vers le lanceur
 
 |- CLASS="premier"
-| [Science du critique](./Science du critique.md)* || <sup>MJ</sup> || Maniement de l’arme appropriée, [BBA](./BBA.md) +8 || Double la [zone de critique](./Caractéristiques des armes.md#CRITIQUE) d’une arme
+| [[Science du critique]]* || <sup>MJ</sup> || Maniement de l’arme appropriée, [[BBA]] +8 || Double la [[Caractéristiques des armes#CRITIQUE|zone de critique]] d’une arme
 
 |- CLASS="premier"
-| [Science du partage des sorts](./Science du partage des sorts.md) || <sup>MJRA</sup> || [Art de la magie](./Art de la magie.md) 10 rangs, voir don || Les sorts affectent à la fois le personnage et sa créature liée
+| [[Science du partage des sorts]] || <sup>MJRA</sup> || [[Art de la magie]] 10 rangs, voir don || Les sorts affectent à la fois le personnage et sa créature liée
 
 |- CLASS="premier"
-| [Sensibilité psychique](./Sensibilité psychique.md) || <sup>AO</sup> || — || Utilisation de l’extension de compétence occulte où le personnage a investi des rangs
+| [[Sensibilité psychique]] || <sup>AO</sup> || — || Utilisation de l’extension de compétence occulte où le personnage a investi des rangs
 |-
-| &emsp;[Adepte psychique](./Adepte psychique.md) || <sup>AO</sup> || [Int](./Intelligence.md) 11, [Sensibilité psychique](./Sensibilité psychique.md) || Lance une astuce psychique 3/jour comme un pouvoir magique
+| &emsp;[[Adepte psychique]] || <sup>AO</sup> || [[Intelligence|Int]] 11, [[Sensibilité psychique]] || Lance une astuce psychique 3/jour comme un pouvoir magique
 |-
-| &emsp;&emsp;[Disciple psychique](./Disciple psychique.md) || <sup>AO</sup> || [Int](./Intelligence.md) 13, [Adepte psychique](./Adepte psychique.md), [Sensibilité psychique](./Sensibilité psychique.md) || Lance un sort psychique de niveau 1, 2/jour comme un pouvoir magique
+| &emsp;&emsp;[[Disciple psychique]] || <sup>AO</sup> || [[Intelligence|Int]] 13, [[Adepte psychique]], [[Sensibilité psychique]] || Lance un sort psychique de niveau 1, 2/jour comme un pouvoir magique
 
 |- CLASS="premier"
-| [Sens très affûtés](./Sens très affûtés.md) || <sup>MJRA</sup> || Trait racial Sens aiguisés || bonus racial de +4 aux tests de [Perception](./Perception.md)
+| [[Sens très affûtés]] || <sup>MJRA</sup> || Trait racial Sens aiguisés || bonus racial de +4 aux tests de [[Perception]]
 
 |- CLASS="premier"
-| [Se relever avec le ki](./Se relever avec le ki.md) || <sup>AM</sup> || [Réserve de ki](./réserve de ki.md) || Se relever par une [action rapide](./Action rapide.md), dépenser 1 [point de ki](./point de ki.md) pour ne pas provoquer d’[attaque d’opportunité](./attaque dopportunité.md)
+| [[Se relever avec le ki]] || <sup>AM</sup> || [[Réserve de ki]] || Se relever par une [[action rapide]], dépenser 1 [[point de ki]] pour ne pas provoquer d’[[attaque dopportunité|attaque d’opportunité]]
 
 |- CLASS="premier"
-| [Sociable](./Sociable.md) || <sup>MJRA</sup> || [Cha](./Charisme.md) 13, [demi-elfe](./Demi-elfe.md) || Donner aux alliés un bonus de +2 aux tests de [Diplomatie](./Diplomatie.md)
+| [[Sociable]] || <sup>MJRA</sup> || [[Charisme|Cha]] 13, [[demi-elfe]] || Donner aux alliés un bonus de +2 aux tests de [[Diplomatie]]
 
 |- CLASS="premier"
-| [Sort de prédilection](./Sort de prédilection.md) || <sup>MJRA</sup> || [Art de la magie](./Art de la magie.md) 5 rangs, [Augmentation d’intensité](./Augmentation dintensité.md) || Lancer spontanément un sort en particulier
+| [[Sort de prédilection]] || <sup>MJRA</sup> || [[Art de la magie]] 5 rangs, [[Augmentation dintensité|Augmentation d’intensité]] || Lancer spontanément un sort en particulier
 
 |- CLASS="premier"
-| [Souvenir destructeur](./Souvenir destructeur.md) || <sup>AG</sup> || [Souvenir magique](./souvenir magique.md), 5 rangs en [Art de la magie](./Art de la magie.md) || Permet d’utiliser [souvenir magique](./souvenir magique.md) après avoir brisé un sort ennemi
+| [[Souvenir destructeur]] || <sup>AG</sup> || [[Souvenir magique]], 5 rangs en [[Art de la magie]] || Permet d’utiliser [[souvenir magique]] après avoir brisé un sort ennemi
 
 |- CLASS="premier"
-| [Surprise](./Surprise.md)* || <sup>MJ</sup> || — || Pas de malus pour utiliser une [arme improvisée](./arme improvisée.md)
+| [[Surprise]]* || <sup>MJ</sup> || — || Pas de malus pour utiliser une [[arme improvisée]]
 
 |- CLASS="premier"
-| [Synergie de dissipation](./Synergie de dissipation.md) || <sup>AG</sup> || 5 rangs en [Art de la magie](./Art de la magie.md) || La cible de la *[dissipation de la magie](./Dissipation de la magie.md)* subit un malus de -2 aux [jets de sauvegarde](./jet de sauvegarde.md)
+| [[Synergie de dissipation]] || <sup>AG</sup> || 5 rangs en [[Art de la magie]] || La cible de la *[[dissipation de la magie]]* subit un malus de -2 aux [[jet de sauvegarde|jets de sauvegarde]]
 
 |- CLASS="premier"
-| [Synergie des sens](./Synergie des sens.md) || <sup>AM</sup> || sens liés || Bonus de +4 aux tests de [Perception](./Perception.md) quand le personnage partage ses sens avec son [eidolon](./eidolon.md)
+| [[Synergie des sens]] || <sup>AM</sup> || sens liés || Bonus de +4 aux tests de [[Perception]] quand le personnage partage ses sens avec son [[eidolon]]
 
 |- CLASS="premier"
-| [Tacticien expérimenté](./Tacticien expérimenté.md) || <sup>MJRA</sup> || Aptitude de classe de tacticien || Permet d’utiliser la capacité de tacticien une fois de plus par jour
+| [[Tacticien expérimenté]] || <sup>MJRA</sup> || Aptitude de classe de tacticien || Permet d’utiliser la capacité de tacticien une fois de plus par jour
 
 |- CLASS="premier"
-| [Talent](./Talent.md) || <sup>MJ</sup> || — || +3 à une [compétence](./Compétences.md) (+6 pour 10 [rangs](./rang.md))
+| [[Talent]] || <sup>MJ</sup> || — || +3 à une [[compétences|compétence]] (+6 pour 10 [[rang|rangs]])
 |-
-| &emsp;[Linguistique ésotérique](./Linguistique ésotérique.md) || <sup>MCA</sup> || [Talent](./Talent.md) ([Linguistique](./Linguistique.md)) || Le personnage utilise Linguistique à la place d’[Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) et d’[Art de la magie](./Art de la magie.md) pour certains tests
+| &emsp;[[Linguistique ésotérique]] || <sup>MCA</sup> || [[Talent]] ([[Linguistique]]) || Le personnage utilise Linguistique à la place d’[[Utilisation dobjets magiques|Utilisation d’objets magiques]] et d’[[Art de la magie]] pour certains tests
 |-
-| &emsp;[Orateur](./Orateur.md) || <sup>MCA</sup> || [Talent](./Talent.md) ([Linguistique](./Linguistique.md)) || Utilisation de Linguistique plutôt que [Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md) et [Intimidation](./Intimidation.md) pour certains tests
+| &emsp;[[Orateur]] || <sup>MCA</sup> || [[Talent]] ([[Linguistique]]) || Utilisation de Linguistique plutôt que [[Bluff]], [[Diplomatie]] et [[Intimidation]] pour certains tests
 
 |- CLASS="premier"
-| [Talent d’enquêteur supplémentaire](./Talent denquêteur supplémentaire.md) || <sup>MCA</sup> || Pouvoir de classe talent d’enquêteur || Gain d’un [talent d’enquêteur](./Talents (enquêteur).md) supplémentaire
+| [[Talent denquêteur supplémentaire|Talent d’enquêteur supplémentaire]] || <sup>MCA</sup> || Pouvoir de classe talent d’enquêteur || Gain d’un [[talents (enquêteur)|talent d’enquêteur]] supplémentaire
 
 |- CLASS="premier"
-| [Talent de tueur supplémentaire](./Talent de tueur supplémentaire.md) || <sup>MCA</sup> || Pouvoir de classe talent de tueur || Gain d’un [talent de tueur](./Talents (tueur).md) supplémentaire
+| [[Talent de tueur supplémentaire]] || <sup>MCA</sup> || Pouvoir de classe talent de tueur || Gain d’un [[Talents (tueur)|talent de tueur]] supplémentaire
 
 |- CLASS="premier"
-| [Talent magique](./Talent magique.md) || <sup>MJRA</sup> || [Cha 10](./Charisme.md), [elfe](./Elfe.md), [demi-elfe](./Demi-elfe.md) ou [gnome](./Gnome.md) || Lancer un sort de niveau 0 3 par jour comme un pouvoir magique
+| [[Talent magique]] || <sup>MJRA</sup> || [[Charisme|Cha 10]], [[elfe]], [[demi-elfe]] ou [[gnome]] || Lancer un sort de niveau 0 3 par jour comme un pouvoir magique
 
 |- CLASS="premier"
-| [Talent sauvage supplémentaire](./Talent sauvage supplémentaire.md) || <sup>AO</sup> || [Cinétiste](./Cinétiste.md) niveau 6 || Obtention d’un [talent sauvage](./talents sauvages.md) d’au moins 2 niveaux de moins que le plus puissant connu
+| [[Talent sauvage supplémentaire]] || <sup>AO</sup> || [[Cinétiste]] niveau 6 || Obtention d’un [[talents sauvages|talent sauvage]] d’au moins 2 niveaux de moins que le plus puissant connu
 
 |- CLASS="premier"
-| [Talent supplémentaire](./Talent supplémentaire.md) || <sup>MJRA</sup> || Aptitude de classe de [talent](./Talents.md) de [roublard](./Roublard.md)
+| [[Talent supplémentaire]] || <sup>MJRA</sup> || Aptitude de classe de [[talents|talent]] de [[roublard]]
 | Gagne un talent de roublard de plus
 
 |- CLASS="premier"
-| [Terreur inspiratrice](./Terreur inspiratrice.md) || <sup>MCA</sup> || Capacité à pratiquer le [chant funèbre](./Scalde.md#CHANTFUNEBRE) || Le personnage et ses alliés présents dans le rayon d’effet du chant funèbre gagnent un bonus de +4 contre la terreur
+| [[Terreur inspiratrice]] || <sup>MCA</sup> || Capacité à pratiquer le [[scalde#CHANTFUNEBRE|chant funèbre]] || Le personnage et ses alliés présents dans le rayon d’effet du chant funèbre gagnent un bonus de +4 contre la terreur
 
 |- CLASS="premier"
-| [Théurgie](./Théurgie.md) || <sup>AM</sup> || [Sag](./Sagesse.md) 13, [Int](./Intelligence.md) ou [Cha](./Charisme.md) 13, capacité à lancer des sorts profanes et divins de niveau 1 || Améliore les sorts profanes avec de l’énergie divine et inversement
+| [[Théurgie]] || <sup>AM</sup> || [[Sagesse|Sag]] 13, [[Intelligence|Int]] ou [[Charisme|Cha]] 13, capacité à lancer des sorts profanes et divins de niveau 1 || Améliore les sorts profanes avec de l’énergie divine et inversement
 
 |- CLASS="premier"
-| [Tir à bout portant](./Tir à bout portant.md)* || <sup>MJ</sup> || — || +1 à l’attaque et aux dégâts sur les cibles distantes de moins de 9 m (6 {s:c})
+| [[Tir à bout portant]]* || <sup>MJ</sup> || — || +1 à l’attaque et aux dégâts sur les cibles distantes de moins de 9 m (6 {s:c})
 |-
-| &emsp;[Impact du tir critique](./Impact du tir critique.md)* || <sup>AG</sup> || [Dex](./Dex.md) 13, [Tir à bout portant](./Tir à bout portant.md), [BBA](./BBA.md) +9 || En cas de [coup critique](./coup critique.md), le personnage peut faire une [bousculade](./bousculade.md)
+| &emsp;[[Impact du tir critique]]* || <sup>AG</sup> || [[Dex]] 13, [[Tir à bout portant]], [[BBA]] +9 || En cas de [[coup critique]], le personnage peut faire une [[bousculade]]
 |-
-| &emsp;[Lancer lors d’une charge](./Lancer lors dune charge.md)* || <sup>AG</sup> || [Tir à bout portant](./Tir à bout portant.md) || Le personnage peut utiliser les règles de [charge](./charge.md) pour faire une attaque avec une [arme de jet](./arme de jet.md)
+| &emsp;[[Lancer lors dune charge|Lancer lors d’une charge]]* || <sup>AG</sup> || [[Tir à bout portant]] || Le personnage peut utiliser les règles de [[charge]] pour faire une attaque avec une [[arme de jet]]
 |-
-| &emsp;&emsp;[Science du lancer lors d’une charge](./Science du lancer lors dune charge.md)* || <sup>AG</sup> || [Lancer lors d’une charge](./Lancer lors dune charge.md) || La cible du personnage peut se trouver à n’importe quelle distance
+| &emsp;&emsp;[[Science du lancer lors dune charge|Science du lancer lors d’une charge]]* || <sup>AG</sup> || [[Lancer lors dune charge|Lancer lors d’une charge]] || La cible du personnage peut se trouver à n’importe quelle distance
 |-
-| &emsp;[Tir de loin](./Tir de loin.md)* || <sup>MJ</sup> || [Tir à bout portant](./Tir à bout portant.md) || Réduits les [malus de distance](./Attaque à distance.md) de moitié
+| &emsp;[[Tir de loin]]* || <sup>MJ</sup> || [[Tir à bout portant]] || Réduits les [[attaque à distance|malus de distance]] de moitié
 |-
-| &emsp;&emsp;[Tir lobé](./Tir lobé.md)* || <sup>RTT</sup> || [Tir à bout portant](./Tir à bout portant.md), [Tir de loin](./Tir de loin.md) || Ignore les bonus d’[abri](./abri.md) de la cible
+| &emsp;&emsp;[[Tir lobé]]* || <sup>RTT</sup> || [[Tir à bout portant]], [[Tir de loin]] || Ignore les bonus d’[[abri]] de la cible
 |-
-| &emsp;[Tir de précision](./Tir de précision.md)* || <sup>MJ</sup> || [Tir à bout portant](./Tir à bout portant.md) || Pas de malus pour tirer dans la mêlée
+| &emsp;[[Tir de précision]]* || <sup>MJ</sup> || [[Tir à bout portant]] || Pas de malus pour tirer dans la mêlée
 |-
-| &emsp;&emsp;[Aspersion contrôlée](./Aspersion contrôlée.md)* || <sup>RTT</sup> || [Lancer improvisé](./Lancer improvisé.md)ou [Tir de précision](./Tir de précision.md) || +50% de dégâts sur la cible direct de l’attaque si annulation de l’[arme à impact](./Actions spéciales.md#ARMEIMPACT)
+| &emsp;&emsp;[[Aspersion contrôlée]]* || <sup>RTT</sup> || [[Lancer improvisé]]ou [[Tir de précision]] || +50% de dégâts sur la cible direct de l’attaque si annulation de l’[[Actions Spéciales#ARMEIMPACT|arme à impact]]
 |-
-| &emsp;&emsp;[Tir avec concentration](./Tir avec concentration.md)* || <sup>MJRA</sup> || [Int](./Intelligence.md) 13, [Tir de précision](./Tir de précision.md) || Ajouter le modificateur d’[Intelligence](./Intelligence.md) aux dégâts avec les arcs et les arbalètes
+| &emsp;&emsp;[[Tir avec concentration]]* || <sup>MJRA</sup> || [[Intelligence|Int]] 13, [[Tir de précision]] || Ajouter le modificateur d’[[Intelligence]] aux dégâts avec les arcs et les arbalètes
 |-
-| &emsp;&emsp;[Tir de sommation](./Tir de sommation.md)* || <sup>RTT</sup> || [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), [Arme de prédilection](./Arme de prédilection.md), Maniement de l’arme appropriée || En cas d’attaque à distance réussie, le personnage peut tenter une [intimidation](./Intimidation.md) au lieu d’infliger des dégâts.
+| &emsp;&emsp;[[Tir de sommation]]* || <sup>RTT</sup> || [[Tir à bout portant]], [[Tir de précision]], [[Arme de prédilection]], Maniement de l’arme appropriée || En cas d’attaque à distance réussie, le personnage peut tenter une [[intimidation]] au lieu d’infliger des dégâts.
 |-
-| &emsp;&emsp;[Tirs groupés](./Tirs groupés.md)* || <sup>AG</sup> || [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), [BBA](./BBA.md) +6 || Les attaques à distance effectuées lors d’une [action complexe](./Action complexe.md) infligent des dégâts maximaux avant application de la [RD](./RD.md)
+| &emsp;&emsp;[[Tirs groupés]]* || <sup>AG</sup> || [[Tir à bout portant]], [[Tir de précision]], [[BBA]] +6 || Les attaques à distance effectuées lors d’une [[action complexe]] infligent des dégâts maximaux avant application de la [[RD]]
 |-
-| &emsp;&emsp;[Science du tir de précision](./Science du tir de précision.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 19, [Tir à bout portant](./Tir à bout portant.md),   
-[Tir de précision](./Tir de précision.md), [BBA](./BBA.md) +11 || Pas de pourcentage de [camouflage](./camouflage.md) ni d’[abri](./abri.md) contre les attaques à distance
+| &emsp;&emsp;[[Science du tir de précision]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 19, [[Tir à bout portant]],   
+[[Tir de précision]], [[BBA]] +11 || Pas de pourcentage de [[camouflage]] ni d’[[abri]] contre les attaques à distance
 |-
-| &emsp;&emsp;&emsp;[Viser juste](./Viser juste.md)* || <sup>MJ</sup> || [Science du tir de précision](./Science du tir de précision.md), [BBA](./BBA.md) +16 || Pas de bonus d’armure ni de bouclier contre une [attaque à distance](./Attaque à distance.md)
+| &emsp;&emsp;&emsp;[[Viser juste]]* || <sup>MJ</sup> || [[Science du tir de précision]], [[BBA]] +16 || Pas de bonus d’armure ni de bouclier contre une [[attaque à distance]]
 |-
-| &emsp;[Tir en mouvement](./Tir en mouvement.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 13, [Souplesse du serpent](./Souplesse du serpent.md),   
-[Tir à bout portant](./Tir à bout portant.md), [BBA](./BBA.md) +4 || Effectuer une [attaque à distance](./Attaque à distance.md) pendant un déplacement
+| &emsp;[[Tir en mouvement]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 13, [[Souplesse du serpent]],   
+[[Tir à bout portant]], [[BBA]] +4 || Effectuer une [[attaque à distance]] pendant un déplacement
 |-
-| &emsp;&emsp;[Tir en retraite](./Tir en retraite.md)* || <sup>MJRA</sup> || [Tir en mouvement](./Tir en mouvement.md), [BBA](./BBA.md) +6 || Effectuer une [attaque à distance](./Attaque à distance.md) pendant une retraite
+| &emsp;&emsp;[[Tir en retraite]]* || <sup>MJRA</sup> || [[Tir en mouvement]], [[BBA]] +6 || Effectuer une [[attaque à distance]] pendant une retraite
 |-
-| &emsp;[Tir impitoyable](./Tir impitoyable.md)* || <sup>RTT</sup> || [Tir à bout portant](./Tir à bout portant.md), [BBA](./BBA.md) +6 || Permet de menacer à distance un adversaire tombé au sol
+| &emsp;[[Tir impitoyable]]* || <sup>RTT</sup> || [[Tir à bout portant]], [[BBA]] +6 || Permet de menacer à distance un adversaire tombé au sol
 |-
-| &emsp;[Tir optimisé](./Tir optimisé.md)* || <sup>AG</sup> || [Tir à bout portant](./Tir à bout portant.md), maniement de la fronde ou du bâton de jet halfelin || Réduction du malus d’attaque dû à la distance de 2
+| &emsp;[[Tir optimisé]]* || <sup>AG</sup> || [[Tir à bout portant]], maniement de la fronde ou du bâton de jet halfelin || Réduction du malus d’attaque dû à la distance de 2
 |-
-| &emsp;[Tir perturbateur](./Tir perturbateur.md)* || <sup>MJRA</sup> || [Dex](./Dextérité.md) 13, [Tir à bout portant](./Tir à bout portant.md), [guerrier](./Guerrier.md) niveau 6 || Les attaques à distance augmentent le [DD](./DD.md) des tests de [Concentration](./concentration.md) des ennemis
+| &emsp;[[Tir perturbateur]]* || <sup>MJRA</sup> || [[Dextérité|Dex]] 13, [[Tir à bout portant]], [[guerrier]] niveau 6 || Les attaques à distance augmentent le [[DD]] des tests de [[Concentration]] des ennemis
 |-
-| &emsp;[Tir rapide](./Tir rapide.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 13, [Tir à bout portant](./Tir à bout portant.md) || 1 [attaque à distance](./Attaque à distance.md) supplémentaire
+| &emsp;[[Tir rapide]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 13, [[Tir à bout portant]] || 1 [[attaque à distance]] supplémentaire
 |-
-| &emsp;&emsp;[Coup de flèche](./Coup de flèche.md)* || <sup>MJRA</sup> || [Elfe](./Elfe.md), [Tir rapide](./Tir rapide.md) || Utiliser une flèche comme [arme de corps à corps](./arme de corps à corps.md) pour repousser les ennemis
+| &emsp;&emsp;[[Coup de flèche]]* || <sup>MJRA</sup> || [[Elfe]], [[Tir rapide]] || Utiliser une flèche comme [[arme de corps à corps]] pour repousser les ennemis
 |-
-| &emsp;&emsp;[Feu nourri](./Feu nourri.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 17, [Tir rapide](./Tir rapide.md), [BBA](./BBA.md) +6 || Tir de deux flèches à la fois
+| &emsp;&emsp;[[Feu nourri]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 17, [[Tir rapide]], [[BBA]] +6 || Tir de deux flèches à la fois
 |-
-| &emsp;&emsp;[Tir soudain](./Tir soudain.md)* || <sup>AG</sup> || [Tir rapide](./Tir rapide.md), [Arme de prédilection](./Arme de prédilection.md), [BBA](./BBA.md) +6 || Quand le personnage utilise une [arme à distance](./arme à distance.md), il [menace les cases](./zone-contrôlée.md) qui se trouvent à 1,50 m (1 {s:c}) de lui
+| &emsp;&emsp;[[Tir soudain]]* || <sup>AG</sup> || [[Tir rapide]], [[Arme de prédilection]], [[BBA]] +6 || Quand le personnage utilise une [[arme à distance]], il [[zone contrôlée|menace les cases]] qui se trouvent à 1,50 m (1 {s:c}) de lui
 |-
-| &emsp;&emsp;&emsp;[Épée et pistolet](./Épée et pistolet.md)* || <sup>AG</sup> || [Tir soudain](./Tir soudain.md), [Combat à deux armes](./Combat à deux armes.md), [BBA](./BBA.md) +6 || Les attaques à distance ne provoquent pas d’[attaque d’opportunité](./attaque dopportunité.md)
+| &emsp;&emsp;&emsp;[[Épée et pistolet]]* || <sup>AG</sup> || [[Tir soudain]], [[Combat à deux armes]], [[BBA]] +6 || Les attaques à distance ne provoquent pas d’[[Attaque dopportunité|attaque d’opportunité]]
 |-
-| &emsp;&emsp;&emsp;[Science du tir soudain](./Science du tir soudain.md)* || <sup>AG</sup> || [Dex](./Dextérité.md) 15, [Tir soudain](./Tir soudain.md), [BBA](./BBA.md) +9 || Le personnage menace 3 m (2 {s:c}) de plus avec le [Tir soudain](./Tir soudain.md)
+| &emsp;&emsp;&emsp;[[Science du tir soudain]]* || <sup>AG</sup> || [[Dextérité|Dex]] 15, [[Tir soudain]], [[BBA]] +9 || Le personnage menace 3 m (2 {s:c}) de plus avec le [[Tir soudain]]
 |-
-| &emsp;&emsp;&emsp;&emsp;[Tir soudain supérieur](./Tir soudain supérieur.md)* || <sup>AG</sup> || [Dex](./Dextérité.md) 17, [Science du tir soudain](./Science du tir soudain.md), BBA +12 || Bonus aux jets de dégâts et de confirmation de [coup critique](./coup critique.md) avec les armes à distance
-
-
-|- CLASS="premier"
-| [Tireur à la fronde couché](./Tireur à la fronde couché.md)* || <sup>AG</sup> || – || Peut utiliser une fronde en étant couché
-
-|- CLASS="premier"
-| [Tonnerres jumeaux](./Tonnerres jumeaux.md)* || <sup>AG</sup> || [Déluge de coups](./déluge de coups.md) ou [Combat à deux armes](./Combat à deux armes.md), [Arme de prédilection](./Arme de prédilection.md) pour les armes contondantes utilisées, entraînement défensif (trait racial), [nain](./Nain.md) ou [gnome](./Gnome.md) || Remplace une attaque contre un géant par une tentative de [désarmement](./désarmement.md), de [destruction d’arme](./destruction.md) ou de [croc-en-jambe](./croc-en-jambe.md)
-|-
-| &emsp;[Déluge des tonnerres jumeaux](./Déluge des tonnerres jumeaux.md)* || <sup>AG</sup> || [Tonnerres jumeaux](./Tonnerres jumeaux.md), [BBA](./BBA.md) +6 || Possibilité de [croc-en-jambe](./croc-en-jambe.md) contre un géant de [taille](./taille.md) TG et +2 points de dégâts contre les géants
-|-
-| &emsp;&emsp;[Maître des tonnerres jumeaux](./Maître des tonnerres jumeaux.md)* || <sup>AG</sup> || [Déluge des tonnerres jumeaux](./Déluge des tonnerres jumeaux.md), [BBA](./BBA.md) +9 || L’adversaire frappé par les tonnerres jumeaux est [secoué](./Secoué.md)
-
-|- CLASS="premier"
-| [Touche d’ombre](./Touche-d’ombre.md)* || <sup>MR</sup> || [wayang](./wayang (race).md) || peut se déplacer à sa vitesse maximale
-en utilisant [Discrétion](./Discrétion.md)
-
-|- CLASS="premier"
-| [Tour de passe-passe](./Tour de passe-passe.md)* || <sup>AG</sup> || [Science de la feinte](./Science de la feinte.md), [Souplesse du serpent](./Souplesse du serpent.md), [taille P](./taille P.md) ou plus petit || Un test d’[Acrobaties](./Acrobaties.md) réussi permet de faire une feinte
-
-|- CLASS="premier"
-| [Tours de magie ou oraisons supplémentaires|Tours de magie ou oraisons supplémentaires] || <sup>AM</sup> || Capacité à lancer des [tours de magie](./Ensorceleur.md#TOURSDEMAGIE) ou des [oraisons](./Prêtre.md#ORAISONS) || Gain de 2 tours de magie ou oraisons connus
-
-|- CLASS="premier"
-| [Tumeur aberrante](./Tumeur aberrante.md) || <sup>MCA</sup> || [Lignage aberrant](./lignage Aberrant.md) || Le personnage gagne un [familier tumeur](./découvertes.md#FAMILIERTUMEUR)
+| &emsp;&emsp;&emsp;&emsp;[[Tir soudain supérieur]]* || <sup>AG</sup> || [[Dextérité|Dex]] 17, [[Science du tir soudain]], BBA +12 || Bonus aux jets de dégâts et de confirmation de [[coup critique]] avec les armes à distance
 
 
 |- CLASS="premier"
-| [Traits supplémentaires](./Traits supplémentaires.md) || <sup>MJRA</sup> || — || Deux [traits](./Traits.md) supplémentaires
+| [[Tireur à la fronde couché]]* || <sup>AG</sup> || – || Peut utiliser une fronde en étant couché
 
 |- CLASS="premier"
-| [Transfert de sort distant](./Transfert de sort distant.md) || <sup>RTT</sup> ||  [Sort éloigné](./Sort éloigné.md) ou [Extension de portée](./Extension de portée.md), [compagnon animal](./Compagnons animaux.md), [eidolon](./eidolon.md), [familier](./familier.md), créature alliée bénéficiant de la capacité [transfert de sort](./Compagnons animaux.md#TRANSFERTDESORTS) || [transfert de sort](./Compagnons animaux.md#TRANSFERTDESORTS) et [conduit](./Familiers.md#CONDUIT) peuvent être utilisés à courte portée
-
-|- CLASS="premier"
-| [Transfert longue distance](./Transfert longue distance.md) || <sup>AO</sup> || Pouvoirs de classe [livrer un sort de contact](./Fantômes (Spirite).md#TOUCHSPELLS) et [fantôme](./Spirite.md#FANTOME) || Le fantôme peut livrer les sorts de contact dans un rayon de 6 m de plus
-
-|- CLASS="premier"
-| [Traqueur au clair de lune](./Traqueur au clair de lune.md)* || <sup>AG</sup> || [Vision dans le noir](./vision dans le noir.md) ou [vision nocturne](./vision nocturne.md), 3 rangs en [Bluff](./Bluff.md), [Expertise du combat](./Expertise du combat.md), [Combat en aveugle](./Combat en aveugle.md) || +2 aux jets d’attaque et de dégâts quand le personnage est [camouflé](./camouflage.md)
+| [[Tonnerres jumeaux]]* || <sup>AG</sup> || [[Déluge de coups]] ou [[Combat à deux armes]], [[Arme de prédilection]] pour les armes contondantes utilisées, entraînement défensif (trait racial), [[nain]] ou [[gnome]] || Remplace une attaque contre un géant par une tentative de [[désarmement]], de [[destruction|destruction d’arme]] ou de [[croc-en-jambe]]
 |-
-| &emsp;[Feinte du traqueur au clair de lune](./Feinte du traqueur au clair de lune.md)* || <sup>AG</sup> || 6 rangs en [Bluff](./Bluff.md), [Traqueur au clair de lune](./Traqueur au clair de lune.md) || Le personnage peut faire un test de [Bluff](./Bluff.md) pour faire une [feinte](./feinte.md) quand il est [camouflé](./camouflage.md)
+| &emsp;[[Déluge des tonnerres jumeaux]]* || <sup>AG</sup> || [[Tonnerres jumeaux]], [[BBA]] +6 || Possibilité de [[croc-en-jambe]] contre un géant de [[taille]] TG et +2 points de dégâts contre les géants
 |-
-| &emsp;&emsp;[Maître de la traque au clair de lune](./Maître de la traque au clair de lune.md)* || <sup>AG</sup> || 9 rangs en [Bluff](./Bluff.md), [Science de la feinte](./Science de la feinte.md), [Feinte du traqueur au clair de lune](./Feinte du traqueur au clair de lune.md) || Quand le personnage est [camouflé](./camouflage.md), les chances de le rater augmentent de 10%
+| &emsp;&emsp;[[Maître des tonnerres jumeaux]]* || <sup>AG</sup> || [[Déluge des tonnerres jumeaux]], [[BBA]] +9 || L’adversaire frappé par les tonnerres jumeaux est [[secoué]]
 
 |- CLASS="premier"
-| [Troisième oeil](./Troisième oeil.md) || <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques || Le troisième oeil permet de lire les auras et de discerner la vérité
+| [[Touche d’ombre]]* || <sup>MR</sup> || [[wayang (race)|wayang]] || peut se déplacer à sa vitesse maximale
+en utilisant [[Discrétion]]
 
 |- CLASS="premier"
-| [Tueur intimidant](./Tueur intimidant.md) || <sup>AG</sup> || [Tueur](./Tueur.md), [Démonstration](./Démonstration.md), personnage de niveau 8 || Bonus de +2 à [Démonstration](./Démonstration.md) tant que le pouvoir tueur est actif
+| [[Tour de passe-passe]]* || <sup>AG</sup> || [[Science de la feinte]], [[Souplesse du serpent]], [[taille P]] ou plus petit || Un test d’[[Acrobaties]] réussi permet de faire une feinte
 
 |- CLASS="premier"
-| [Tueur miséricordieux](./Tueur miséricordieux.md) || <sup>AG</sup> || [Tueur](./Tueur.md) || Fait passer les dégâts de létaux à non létaux par une [action rapide](./Action rapide.md)
+| [[Tours de magie ou oraisons supplémentaires]] || <sup>AM</sup> || Capacité à lancer des [[ensorceleur#TOURSDEMAGIE|tours de magie]] ou des [[prêtre#ORAISONS|oraisons]] || Gain de 2 tours de magie ou oraisons connus
 
 |- CLASS="premier"
-| [Tueur menaçant](./Tueur menaçant.md) || <sup>AG</sup> || [Tueur](./Tueur.md) || Imprègne l’arme de la propriété spéciale [menaçante](./menaçante.md)
-
-|- CLASS="premier"
-| [Tueur prolongé](./Tueur prolongé.md) || <sup>AM</sup> || Pouvoir de classe [tueur](./Tueur.md) || La propriété tueur se prolonge pendant un nombre de rounds égal à la [Sagesse](./Sagesse.md)
-
-|- CLASS="premier"
-| [Tueur supplémentaire](./Tueur supplémentaire.md) || <sup>AG</sup> || Pouvoir de classe [Tueur](./Tueur.md) || Peut utiliser [Tueur](./Tueur.md) 3 fois de plus par jour
+| [[Tumeur aberrante]] || <sup>MCA</sup> || [[Lignage aberrant]] || Le personnage gagne un [[Découvertes#FAMILIERTUMEUR|familier tumeur]]
 
 
 |- CLASS="premier"
-| [Ultime fermeté](./Ultime fermeté.md) || <sup>AM</sup> || [Aura de fermeté](./Paladin.md#AURADEFERMETE) || L’aura de fermeté grandit et ne disparaît pas quand le personnage tombe
+| [[Traits supplémentaires]] || <sup>MJRA</sup> || — || Deux [[traits]] supplémentaires
 
 |- CLASS="premier"
-| [Vigilance](./Vigilance.md) || <sup>MJ</sup> || — || +2 aux tests de [Perception](./Perception.md) et de [Psychologie](./Psychologie.md)
+| [[Transfert de sort distant]] || <sup>RTT</sup> ||  [[Sort éloigné]] ou [[Extension de portée]], [[compagnons animaux|compagnon animal]], [[eidolon]], [[familier]], créature alliée bénéficiant de la capacité [[compagnons animaux#TRANSFERTDESORTS|transfert de sort]] || [[compagnons animaux#TRANSFERTDESORTS|transfert de sort]] et [[Familiers#CONDUIT|conduit]] peuvent être utilisés à courte portée
+
+|- CLASS="premier"
+| [[Transfert longue distance]] || <sup>AO</sup> || Pouvoirs de classe [[Fantômes (spirite)#TOUCHSPELLS|livrer un sort de contact]] et [[spirite#FANTOME|fantôme]] || Le fantôme peut livrer les sorts de contact dans un rayon de 6 m de plus
+
+|- CLASS="premier"
+| [[Traqueur au clair de lune]]* || <sup>AG</sup> || [[Vision dans le noir]] ou [[vision nocturne]], 3 rangs en [[Bluff]], [[Expertise du combat]], [[Combat en aveugle]] || +2 aux jets d’attaque et de dégâts quand le personnage est [[camouflage|camouflé]]
 |-
-| &emsp;[Vigilance instinctive](./Vigilance instinctive.md) || <sup>AM</sup> || [Vigilance](./Vigilance.md) || bonus de +1 aux tests de [Perception](./Perception.md) et de [Psychologie](./Psychologie.md) et de +2 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les effets de sommeil et de charme
-
-|- CLASS="premier"
-| [Vigueur du scalde](./Vigueur du scalde.md) || <sup>MCA</sup> || Pouvoir de classe chant de rage || Le personnage gagne [guérison accélérée](./guérison accélérée.md) lorsqu’il est en rage et effectue une représentation ou un chant de rage
+| &emsp;[[Feinte du traqueur au clair de lune]]* || <sup>AG</sup> || 6 rangs en [[Bluff]], [[Traqueur au clair de lune]] || Le personnage peut faire un test de [[Bluff]] pour faire une [[feinte]] quand il est [[camouflage|camouflé]]
 |-
-| &emsp;[Vigueur surhumaine du scalde](./Vigueur surhumaine du scalde.md) || <sup>MCA</sup> || [Vigueur du scalde](./Vigueur du scalde.md), 10 rangs en [Représentation](./Représentation.md) (chant) || Les alliés du personnage partagent la [guérison accélérée](./guérison accélérée.md) de Vigueur du scalde
+| &emsp;&emsp;[[Maître de la traque au clair de lune]]* || <sup>AG</sup> || 9 rangs en [[Bluff]], [[Science de la feinte]], [[Feinte du traqueur au clair de lune]] || Quand le personnage est [[camouflage|camouflé]], les chances de le rater augmentent de 10%
 
 |- CLASS="premier"
-| [Vigueur en rage](./Vigueur en rage.md) || <sup>MJRA</sup> || [Con](./Constitution.md) 15, Aptitude de classe de rage || [Constitution](./Constitution.md) +2 en rage et permet de rester en rage même [inconscient](./Inconscient.md)
+| [[Troisième oeil]] || <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques || Le troisième oeil permet de lire les auras et de discerner la vérité
 
 |- CLASS="premier"
-| [Vigueur surhumaine](./Vigueur surhumaine.md) || <sup>MJ</sup> || — || +2 aux jets de [Vigueur](./Vigueur.md)
+| [[Tueur intimidant]] || <sup>AG</sup> || [[Tueur]], [[Démonstration]], personnage de niveau 8 || Bonus de +2 à [[Démonstration]] tant que le pouvoir tueur est actif
+
+|- CLASS="premier"
+| [[Tueur miséricordieux]] || <sup>AG</sup> || [[Tueur]] || Fait passer les dégâts de létaux à non létaux par une [[action rapide]]
+
+|- CLASS="premier"
+| [[Tueur menaçant]] || <sup>AG</sup> || [[Tueur]] || Imprègne l’arme de la propriété spéciale [[menaçante]]
+
+|- CLASS="premier"
+| [[Tueur prolongé]] || <sup>AM</sup> || Pouvoir de classe [[tueur]] || La propriété tueur se prolonge pendant un nombre de rounds égal à la [[Sagesse]]
+
+|- CLASS="premier"
+| [[Tueur supplémentaire]] || <sup>AG</sup> || Pouvoir de classe [[Tueur]] || Peut utiliser [[Tueur]] 3 fois de plus par jour
+
+
+|- CLASS="premier"
+| [[Ultime fermeté]] || <sup>AM</sup> || [[paladin#AURADEFERMETE|Aura de fermeté]] || L’aura de fermeté grandit et ne disparaît pas quand le personnage tombe
+
+|- CLASS="premier"
+| [[Vigilance]] || <sup>MJ</sup> || — || +2 aux tests de [[Perception]] et de [[Psychologie]]
 |-
-| &emsp;[Science de la vigueur surhumaine](./Science de la vigueur surhumaine.md) || <sup>MJ</sup> || [Vigueur surhumaine](./Vigueur surhumaine.md) || Le personnage peut relancer un jet de [Vigueur](./Vigueur.md) 1/jour
+| &emsp;[[Vigilance instinctive]] || <sup>AM</sup> || [[Vigilance]] || bonus de +1 aux tests de [[Perception]] et de [[Psychologie]] et de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets de sommeil et de charme
 
 |- CLASS="premier"
-| [Virage sur l'aile](./Virage sur laile.md) || <sup>B1</sup> || Posséder une vitesse de vol || Demi-tour en une [action libre](./Action libre.md) sans test de [Vol](./Vol.md)
-
-|- CLASS="premier"
-| [Virtuose psychique](./Virtuose psychique.md) || <sup>AO</sup> || [Sensibilité psychique](./Sensibilité psychique.md) ou capacité à lancer des sorts psychiques || +2 aux tests d’extension de compétence occulte (+4 dès 10 rangs)
-
-|- CLASS="premier"
-| [Visage de pierre](./Visage de pierre.md) || <sup>MJRA</sup> || [Nain](./Nain.md) || Bonus de +4 aux tests de [Bluff](./Bluff.md) pour mentir ou cacher son but
-
-|- CLASS="premier"
-| [Viser](./Viser.md)* || <sup>MJ</sup> || [Dex](./Dextérité.md) 13, [BBA](./BBA.md) +1 || Échange le bonus d’[attaque à distance](./Attaque à distance.md) contre un bonus aux dégâts
+| [[Vigueur du scalde]] || <sup>MCA</sup> || Pouvoir de classe chant de rage || Le personnage gagne [[guérison accélérée]] lorsqu’il est en rage et effectue une représentation ou un chant de rage
 |-
-| &emsp;[Croc-en-jambe à distance](./crocenjambe à distance.md)* || <sup>RTT</sup> || [Dex](./Dextérité.md) 13, [Viser](./Viser.md), [BBA](./BBA.md) +1 || Permet d’effectuer un [croc-en-jambe](./Manœuvres offensives.md#Croc-en-jambe_1) à distance
+| &emsp;[[Vigueur surhumaine du scalde]] || <sup>MCA</sup> || [[Vigueur du scalde]], 10 rangs en [[Représentation]] (chant) || Les alliés du personnage partagent la [[guérison accélérée]] de Vigueur du scalde
+
+|- CLASS="premier"
+| [[Vigueur en rage]] || <sup>MJRA</sup> || [[Constitution|Con]] 15, Aptitude de classe de rage || [[Constitution]] +2 en rage et permet de rester en rage même [[inconscient]]
+
+|- CLASS="premier"
+| [[Vigueur surhumaine]] || <sup>MJ</sup> || — || +2 aux jets de [[Vigueur]]
 |-
-| &emsp;[Désarmement à distance](./Désarmement à distance.md)* || <sup>RTT</sup> || [Dex](./Dextérité.md) 13, [Viser](./Viser.md), [BBA](./BBA.md) +1 || Permet d’effectuer un [désarmement](./Manœuvres offensives.md#Désarmement_2) à distance
+| &emsp;[[Science de la vigueur surhumaine]] || <sup>MJ</sup> || [[Vigueur surhumaine]] || Le personnage peut relancer un jet de [[Vigueur]] 1/jour
+
+|- CLASS="premier"
+| [[Virage sur laile|Virage sur l'aile]] || <sup>B1</sup> || Posséder une vitesse de vol || Demi-tour en une [[action libre]] sans test de [[Vol]]
+
+|- CLASS="premier"
+| [[Virtuose psychique]] || <sup>AO</sup> || [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques || +2 aux tests d’extension de compétence occulte (+4 dès 10 rangs)
+
+|- CLASS="premier"
+| [[Visage de pierre]] || <sup>MJRA</sup> || [[Nain]] || Bonus de +4 aux tests de [[Bluff]] pour mentir ou cacher son but
+
+|- CLASS="premier"
+| [[Viser]]* || <sup>MJ</sup> || [[Dextérité|Dex]] 13, [[BBA]] +1 || Échange le bonus d’[[attaque à distance]] contre un bonus aux dégâts
 |-
-| &emsp;[Tireur astucieux](./Tireur astucieux.md)* || <sup>RTT</sup> || [Dex](./Dextérité.md) 13, [Viser](./Viser.md), [BBA](./BBA.md) +1 || +2 au [BMO](./BMO.md) pour une manœuvre à distance, les dégâts deviennent facultatifs.
+| &emsp;[[crocenjambe à distance|Croc-en-jambe à distance]]* || <sup>RTT</sup> || [[Dextérité|Dex]] 13, [[Viser]], [[BBA]] +1 || Permet d’effectuer un [[Manœuvres offensives#Croc-en-jambe_1|croc-en-jambe]] à distance
 |-
-| &emsp;[Traction exceptionnelle](./Traction exceptionnelle.md)* || <sup>RTT</sup> || [Dex](./Dextérité.md) 13, [Viser](./Viser.md), [BBA](./BBA.md) +3,  Maniement de l’arme appropriée  || +2 [Force](./Force.md) sur les armes à distance prenant en compte la force
-
-|- CLASS="premier"
-| [Vision affûtée](./Vision affûtée.md) || <sup>MJRA</sup> || [vision dans le noir](./vision dans le noir.md) 18 mètres (12 cases) || Étendre la portée de la vision dans le noir à 36 mètres (24 cases)
-
-|- CLASS="premier"
-| [Vision prophétique](./Vision prophétique.md) || <sup>AM</sup> || [Mystère](./Sorcière.md#MYSTERE) || Une fois par jour, le personnage entre en transe et reçoit une vision prophétique
-
-|- CLASS="premier"
-| [Voix de la sibylle](./Voix de la sibylle.md) || <sup>AM</sup> || [Cha](./Charisme.md) 15 || Bonus aux tests de [Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md) et [Représentation](./Représentation.md)
-
-|- CLASS="premier"
-| [Voix discordante](./Voix discordante.md) || <sup>AG</sup> || [Représentation bardique](./représentation bardique.md), 10 rangs en [Représentation](./Représentation.md) (arts oratoires ou chant) || Quand le personnage utilise sa représentation bardique, ses alliés infligent 1d6 points de dégâts sonores supplémentaires
-
-|- CLASS="premier"
-| [Vol stationnaire](./Vol stationnaire.md) || <sup>B1</sup> || Posséder une vitesse de vol || Vol stationnaire et effet de vent pour les créatures de taille G ou +
-
-|- CLASS="premier"
-| [Volonté de fer](./Volonté de fer.md) || <sup>MJ</sup> || — || +2 aux jets de [Volonté](./Volonté.md)
+| &emsp;[[Désarmement à distance]]* || <sup>RTT</sup> || [[Dextérité|Dex]] 13, [[Viser]], [[BBA]] +1 || Permet d’effectuer un [[Manœuvres offensives#Désarmement_2|désarmement]] à distance
 |-
-| &emsp;[Science de la volonté de fer](./Science de la volonté de fer.md) || <sup>MJ</sup> || [Volonté de fer](./Volonté de fer.md) || Le personnage peut relancer un jet de [Volonté](./Volonté.md) 1/jour
-
-|- CLASS="premier"
-| [Voltigeur](./Voltigeur.md) || <sup>MJ</sup> || — || +2 aux tests d’[Acrobaties](./Acrobaties.md) et de [Vol](./Vol.md)
+| &emsp;[[Tireur astucieux]]* || <sup>RTT</sup> || [[Dextérité|Dex]] 13, [[Viser]], [[BBA]] +1 || +2 au [[BMO]] pour une manœuvre à distance, les dégâts deviennent facultatifs.
 |-
-| &emsp; [Feinte du tueur](./Feinte du tueur.md)* || <sup>MCA</sup> || [Dex](./Dextérité.md) 15, [Voltigeur](./Voltigeur.md) ou tueur niveau 1, [Expertise du combat](./Expertise du combat.md), 1 rang en [Acrobaties](./Acrobaties.md) || Le personnage utilise [Acrobaties](./Acrobaties.md) plutôt que Bluff pour feinter
+| &emsp;[[Traction exceptionnelle]]* || <sup>RTT</sup> || [[Dextérité|Dex]] 13, [[Viser]], [[BBA]] +3,  Maniement de l’arme appropriée  || +2 [[Force]] sur les armes à distance prenant en compte la force
+
+|- CLASS="premier"
+| [[Vision affûtée]] || <sup>MJRA</sup> || [[vision dans le noir]] 18 mètres (12 cases) || Étendre la portée de la vision dans le noir à 36 mètres (24 cases)
+
+|- CLASS="premier"
+| [[Vision prophétique]] || <sup>AM</sup> || [[sorcière#MYSTERE|Mystère]] || Une fois par jour, le personnage entre en transe et reçoit une vision prophétique
+
+|- CLASS="premier"
+| [[Voix de la sibylle]] || <sup>AM</sup> || [[Charisme|Cha]] 15 || Bonus aux tests de [[Bluff]], [[Diplomatie]] et [[Représentation]]
+
+|- CLASS="premier"
+| [[Voix discordante]] || <sup>AG</sup> || [[Représentation bardique]], 10 rangs en [[Représentation]] (arts oratoires ou chant) || Quand le personnage utilise sa représentation bardique, ses alliés infligent 1d6 points de dégâts sonores supplémentaires
+
+|- CLASS="premier"
+| [[Vol stationnaire]] || <sup>B1</sup> || Posséder une vitesse de vol || Vol stationnaire et effet de vent pour les créatures de taille G ou +
+
+|- CLASS="premier"
+| [[Volonté de fer]] || <sup>MJ</sup> || — || +2 aux jets de [[Volonté]]
 |-
-| &emsp;[Ramassage acrobatique](./Ramassage acrobatique.md)* || <sup>MCA</sup> || [Dex](./Dextérité.md) 12, [Voltigeur](./Voltigeur.md), 1 rang en [Acrobaties](./Acrobaties.md), [tueur](./Tueur.md) niveau 1 ou [bretteur](./Bretteur.md) niveau 1 || Le personnage récupère un objet inutilisé par une [action rapide](./Action rapide.md)
+| &emsp;[[Science de la volonté de fer]] || <sup>MJ</sup> || [[Volonté de fer]] || Le personnage peut relancer un jet de [[Volonté]] 1/jour
 
 |- CLASS="premier"
-| [Xénoglossie](./Xénoglossie.md) || <sup>AO</sup> || [Int](./Intelligence.md) 13, 3 rangs en [Linguistique](./Linguistique.md) || Utilisation de la linguistique pour communiquer avec des créatures sans partager de langage commun
+| [[Voltigeur]] || <sup>MJ</sup> || — || +2 aux tests d’[[Acrobaties]] et de [[Vol]]
+|-
+| &emsp; [[Feinte du tueur]]* || <sup>MCA</sup> || [[Dextérité|Dex]] 15, [[Voltigeur]] ou tueur niveau 1, [[Expertise du combat]], 1 rang en [[Acrobaties]] || Le personnage utilise [[Acrobaties]] plutôt que Bluff pour feinter
+|-
+| &emsp;[[Ramassage acrobatique]]* || <sup>MCA</sup> || [[Dextérité|Dex]] 12, [[Voltigeur]], 1 rang en [[Acrobaties]], [[tueur]] niveau 1 ou [[bretteur]] niveau 1 || Le personnage récupère un objet inutilisé par une [[action rapide]]
 
 |- CLASS="premier"
-| [Yeux de lynx](./Yeux de lynx.md) || <sup>MJRA</sup> || [Sag](./Sagesse.md) 13, trait racial Sens aiguisés || Ignorer jusqu’à -5 de pénalité aux tests de [Perception](./Perception.md)
+| [[Xénoglossie]] || <sup>AO</sup> || [[Intelligence|Int]] 13, 3 rangs en [[Linguistique]] || Utilisation de la linguistique pour communiquer avec des créatures sans partager de langage commun
+
+|- CLASS="premier"
+| [[Yeux de lynx]] || <sup>MJRA</sup> || [[Sagesse|Sag]] 13, trait racial Sens aiguisés || Ignorer jusqu’à -5 de pénalité aux tests de [[Perception]]
 |}
 </center>

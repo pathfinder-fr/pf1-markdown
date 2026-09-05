@@ -10,7 +10,7 @@ LastModified: 2020-09-21 18:12
 {s:pucem|Vermine|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 234*}
 - **800 PX**
-- [Vermine](./type Vermine.md)de taille M, N
+- [[type vermine|Vermine]]de taille M, N
 - **Init **+2 ; **Sens** vision dans le noir à 18 m ; Perception +0
 (((Défense)))
 - **CA** 17, contact 12, pris au dépourvu 15 (Dex +2, naturelle +5)
@@ -25,7 +25,7 @@ LastModified: 2020-09-21 18:12
 (((Statistiques)))
 - **For** 16, **Dex** 15, **Con** 13, **Int** —, **Sag** 10, **Cha** 7
 - **BBA **+3 ; **BMO **+6 ; **DMD** 18 (26 contre le croc-en-jambe)
-- **Compétences** [Acrobaties](./Acrobaties.md) +2 (+20 en saut), [Escalade](./Escalade.md) +11 ; **Modificateurs raciaux** +18 en Acrobaties pour sauter
+- **Compétences** [[Acrobaties]] +2 (+20 en saut), [[Escalade]] +11 ; **Modificateurs raciaux** +18 en Acrobaties pour sauter
 - **Particularités** bondissement
 (((Écologie)))
 - **Environnement** déserts ou plaines tempérées ou chaudes
@@ -43,9 +43,9 @@ LastModified: 2020-09-21 18:12
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Nuée de sauterelles](./Nuée de sauterelles.md) || 2
+| [[Nuée de sauterelles]] || 2
 |-
-| [Sauterelle géante](./Sauterelle géante.md) || 3
+| [[Sauterelle géante]] || 3
 |}
 </div>*En quête de nourriture, cette énorme sauterelle creuse à l’aide de ses mandibules qui produisent une sorte de crissement.*
 

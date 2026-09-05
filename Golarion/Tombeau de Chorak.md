@@ -7,4 +7,4 @@ Categories:
 - Varisie
 ---
 
-Ile située sur le [lac Skotha](./Lac Skotha.md), ce tombeau abrite les restes de Chorak, un seigneur de guerre [géant](./géant.md). On y trouverait également des preuves de la gloire passée des géants avant qu’ils ne deviennent une race sauvage et brutale. Personne n’ose aller sur l’île car ,en s’approchant, des tirs de rochers ou de carreaux couverts de runes coulent tous les bateaux. En fait personne, pas même les géants, ne sait quels secrets cachent les reflets métalliques de l’île.
+Ile située sur le [[lac Skotha]], ce tombeau abrite les restes de Chorak, un seigneur de guerre [[géant]]. On y trouverait également des preuves de la gloire passée des géants avant qu’ils ne deviennent une race sauvage et brutale. Personne n’ose aller sur l’île car ,en s’approchant, des tirs de rochers ou de carreaux couverts de runes coulent tous les bateaux. En fait personne, pas même les géants, ne sait quels secrets cachent les reflets métalliques de l’île.

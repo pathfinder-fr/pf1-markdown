@@ -14,81 +14,81 @@ Traduit et publié en français par Black Book Editions sous le nom « [Bestiair
 ### Archétypes de créature
 <div class="article_3col">
 **Simples.**
-[Créature fongoïde](./Archétypes.md#CREATUREFONGOIDE) (modifié).
+[[Archétypes#CREATUREFONGOIDE|Créature fongoïde]] (modifié).
 
 **Monstrueux.**
-[Créature féerique flétrie](./Créature féerique flétrie, archétype.md) (modifié),
-[Mutant de la Terre sans magie](./Mutant de la Désolation de Mana, archétype.md),
-[Vetâla](./Vetâla, archétype.md).
+[[Créature féerique flétrie, archétype|Créature féerique flétrie]] (modifié),
+[[Mutant de la Désolation de Mana, archétype|Mutant de la Terre sans magie]],
+[[Vetâla, archétype|Vetâla]].
 </div>
 
 ### Monstres
 <div class="article_3col">
-[Âme-en-peine apostat](./Âme-en-peine apostat.md),
-[Androïde](./Androïde.md) (modifié),
-[Annihilateur](./Annihilateur.md) (modifié),
-[Berger umbral](./Berger-umbral.md),
-[Caméléon aquatique](./Caméléon-aquatique.md),
-[Céru](./Céru.md),
-[Chemnosit (le Ver monarque)](./Chemnosit.md),
-[Colosse des charniers](./Colosse-des-charniers.md),
-[Dragon de la Plaie](./Dragon-de-la-Plaie.md),
-[Éventreur de minuit](./Éventreur-de-minuit.md),
-[Fée moqueuse](./Fée-moqueuse.md) (modifié),
-[Fext stigmagique](./Fext-stigmagique.md),
-[Géant de l’ombre](./Géant de lombre.md),
-[Ghoran](./Ghoran.md) (modifié),
-[Gnoll mutant](./Gnoll-mutant.md),
-[Gobelin simiesque](./Gobelin-simiesque.md) (modifié),
-[Golem de noqual](./Golem-de-noqual.md),
-[Golem de Quantium](./Golem-de-Quantium.md),
-[Golem de roche-moelle](./Golem-de-roche-moelle.md),
-[Gringalet](./Gringalet.md),
-[Gueule tourbillonnante](./Gueule-tourbillonnante.md),
-[Kakuen-taka](./Kakuen-taka.md),
-[Khaéï](./Khaéï.md),
-[Korir-Kokembe](./Korir-Kokembe.md),
-[Lashunta](./Lashunta.md),
-[Lorthacte](./Lorthacte.md),
-[Machiniste](./Machiniste.md) (modifié),
-[Maître voilé](./Maître-voilé.md) (modifié),
-[Mante mortelle](./Mante-mortelle.md),
-[Mégère](./Mégère.md),
-[Mémitim](./Mémitim.md) (modifié),
-[Menace vespérale](./Menace-vespérale.md) (modifié),
-[Molosse de cay](./Molosse-de-cay.md),
-[Monarque astral](./Monarque-astral.md),
-[Moxix](./Moxix.md),
-[Myrmidon](./Myrmidon.md) (modifié),
-[Oronci](./Oronci.md),
-[Reine fongique](./Reine-fongique.md) (modifié),
-[Satyre féerique flétri](./Satyre-féerique-flétri.md),
-[Scarabée sacré](./Scarabée-sacré.md),
-[Scarabée traqueur](./Scarabée-traqueur.md),
-[Shoki](./Shoki.md) (modifié),
-[Syrinx](./Syrinx.md),
-[Vetâla](./Vetâla.md),
-[Viduus](./Viduus.md) (modifié),
-[Vierge pétrifiée](./Vierge-pétrifiée.md),
-[Volnagur (la Voix de l’agonie)](./Volnagur.md),
-[Zelishar de la Flamme amère](./Zelishar-de-la-Flamme-amère.md).
+[[Âme-en-peine apostat]],
+[[Androïde]] (modifié),
+[[Annihilateur]] (modifié),
+[[Berger umbral]],
+[[Caméléon aquatique]],
+[[Céru]],
+[[Chemnosit|Chemnosit (le Ver monarque)]],
+[[Colosse des charniers]],
+[[Dragon de la Plaie]],
+[[Éventreur de minuit]],
+[[Fée moqueuse]] (modifié),
+[[Fext stigmagique]],
+[[Géant de lombre|Géant de l’ombre]],
+[[Ghoran]] (modifié),
+[[Gnoll mutant]],
+[[Gobelin simiesque]] (modifié),
+[[Golem de noqual]],
+[[Golem de Quantium]],
+[[Golem de roche-moelle]],
+[[Gringalet]],
+[[Gueule tourbillonnante]],
+[[Kakuen-taka]],
+[[Khaéï]],
+[[Korir-Kokembe]],
+[[Lashunta]],
+[[Lorthacte]],
+[[Machiniste]] (modifié),
+[[Maître voilé]] (modifié),
+[[Mante mortelle]],
+[[Mégère]],
+[[Mémitim]] (modifié),
+[[Menace vespérale]] (modifié),
+[[Molosse de cay]],
+[[Monarque astral]],
+[[Moxix]],
+[[Myrmidon]] (modifié),
+[[Oronci]],
+[[Reine fongique]] (modifié),
+[[Satyre féerique flétri]],
+[[Scarabée sacré]],
+[[Scarabée traqueur]],
+[[Shoki]] (modifié),
+[[Syrinx]],
+[[Vetâla]],
+[[Viduus]] (modifié),
+[[Vierge pétrifiée]],
+[[Volnagur|Volnagur (la Voix de l’agonie)]],
+[[Zelishar de la Flamme amère]].
 </div>
 
 
 ### Options de classe
 #### Familiers
 <div class="article_3col">
-**[Familier supérieur](./Familier supérieur.md).**
-[Céru](./Céru.md),
-[Fée moqueuse](./Fée-moqueuse.md) (modifié).
+**[[Familier supérieur]].**
+[[Céru]],
+[[Fée moqueuse]] (modifié).
 </div>
 
 
 ### Races
 <div class="article_3col">
-[Androïde](./Androïde (race).md) (modifié),
-[Ghoran](./Ghoran (race).md) (modifié),
-[Gobelin simiesque](./Gobelin simiesque (race).md) (modifié),
-[Lashunta](./Lashunta (race).md),
-[Syrinx](./Syrinx (race).md).
+[[Androïde (race)|Androïde]] (modifié),
+[[Ghoran (race)|Ghoran]] (modifié),
+[[Gobelin simiesque (race)|Gobelin simiesque]] (modifié),
+[[Lashunta (race)|Lashunta]],
+[[Syrinx (race)|Syrinx]].
 </div>

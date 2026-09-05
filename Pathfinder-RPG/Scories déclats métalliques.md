@@ -10,7 +10,7 @@ LastModified: 2017-04-18 17:51
 {s:pucem|Vase|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 237*}
 - **4 800 PX**
-- [Vase](./type Vase.md) ([feu](./sous-type Feu.md)) de taille TG, N
+- [[type vase|Vase]] ([[sous-type feu|feu]]) de taille TG, N
 - **Init **-2 ; **Sens** vision aveugle 18 m, perception des vibrations 18 m ; Perception -5
 - **Aura** forme en fusion (1,50 m, 1d6 points de dégâts de feu)
 (((Défense)))

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Actions simples#ATTAQUEDISTANCE
 ---
 
->>> [Actions simples#ATTAQUEDISTANCE](./Actions simples.md#ATTAQUEDISTANCE)
+>>> [[Actions simples#ATTAQUEDISTANCE]]

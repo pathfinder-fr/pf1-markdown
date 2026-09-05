@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques#DETERMINERLESMODIFICATEURS
 ---
 
->>> [Caractéristiques#DETERMINERLESMODIFICATEURS](./Caractéristiques.md#DETERMINERLESMODIFICATEURS)
+>>> [[Caractéristiques#DETERMINERLESMODIFICATEURS]]

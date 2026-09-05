@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.62*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [perception aveugle](./perception aveugle.md) 36 m (24 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[perception aveugle]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 13 (Dex +2, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 34 (4d10+12)}
@@ -28,15 +28,15 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 15, **Con** 16, **Int** 6, **Sag** 13, **Cha** 6}
 {s:BDTexte|**BBA** +4, **BMO** +8, **DMD** 20}
-{s:BDTexte|**Dons** [Attaque en vol](./Attaque en vol.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5, [Perception](./Perception.md) +6 (+10 avec [perception aveugle](./perception aveugle.md)), [Vol](./Vol.md) +8 ; **Modificateurs raciaux** +4 en [Perception](./Perception.md) avec [perception aveugle](./perception aveugle.md)}
+{s:BDTexte|**Dons** [[Attaque en vol]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +5, [[Perception]] +6 (+10 avec [[perception aveugle]]), [[Vol]] +8 ; **Modificateurs raciaux** +4 en [[Perception]] avec [[perception aveugle]]}
 {s:BDTexte|**Langues** commun des profondeurs (incapable de parler)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts/collines tempérées ou chaudes ou sous terre}
 {s:BDTexte|**Organisation sociale** solitaire ou colonie (2-8)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Cri (Sur).** Une fois par jour, par une action simple, un mobat peut produire un cri strident qui étourdit les créatures situées dans un rayon de 6 mètres (à l’exception des autres mobats). Toutes les créatures qui se trouvent dans la zone doivent réussir un jet de Vigueur de DD 15 pour ne pas être [chancelantes](./Chancelant.md) pendant 1d3 rounds. Les mobats et les [urdefhans](./Urdefhan.md) sont immunisés contre cet effet. Il s’agit d’un effet mental de son. Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|**Cri (Sur).** Une fois par jour, par une action simple, un mobat peut produire un cri strident qui étourdit les créatures situées dans un rayon de 6 mètres (à l’exception des autres mobats). Toutes les créatures qui se trouvent dans la zone doivent réussir un jet de Vigueur de DD 15 pour ne pas être [[chancelant|chancelantes]] pendant 1d3 rounds. Les mobats et les [[urdefhan|urdefhans]] sont immunisés contre cet effet. Il s’agit d’un effet mental de son. Le DD du jet de sauvegarde dépend de la Constitution.}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -45,15 +45,15 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Chauve-souris](./Chauve-souris.md) || 1/8
+| Familier, [[Chauve-souris]] || 1/8
 |-
-| [Chauve-souris sanguinaire](./Chauve-souris sanguinaire.md) || 2
+| [[Chauve-souris sanguinaire]] || 2
 |-
-| [Mobat](./Mobat.md) || 3
+| [[Mobat]] || 3
 |-
-| [Nuée de chauves-souris](./Nuée de chauves-souris.md) || 2
+| [[Nuée de chauves-souris]] || 2
 |-
-| [Skaveling](./Skaveling.md) || 5
+| [[Skaveling]] || 5
 |}
 </div>*Cette chauve-souris a une envergure aussi grande que deux humains, des oreilles hypertrophiées, un museau trapu et tourné vers le haut ainsi que des rangées de dents aussi fines que des aiguilles.*
 

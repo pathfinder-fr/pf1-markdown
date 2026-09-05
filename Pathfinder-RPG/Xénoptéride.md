@@ -10,7 +10,7 @@ LastModified: 2017-04-19 18:49
 {s:pucem|Vermine|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 288*}
 - **3 200 PX**
-- [Vermine](./type Vermine.md) de taille M, N
+- [[type vermine|Vermine]] de taille M, N
 - **Init **+3 ; **Sens** vision dans le noir 18 m, perception de la vie ; Perception +1
 (((Défense)))
 - **CA** 21, contact 13, pris au dépourvu 18 (Dex +3, naturelle +8)
@@ -25,8 +25,8 @@ LastModified: 2017-04-19 18:49
 (((Statistiques)))
 - **For** 20, **Dex** 17, **Con** 19, **Int **-, **Sag** 12, **Cha** 7
 - **BBA **+8 ; **BMO **+13 (+17 en lutte) ; **DMD** 26 (34 contre le croc-en-jambe)
-- **Dons** [Science du critique](./Science du critique.md)<sup>S</sup> (griffe) 
-- **Compétences** [Discrétion](./Discrétion.md) +11, [Déguisement](./Déguisement.md) +6 (+14 lorsqu’il se déguise en humanoïde), [Escalade](./Escalade.md) +13, [Vol](./Vol.md) –5
+- **Dons** [[Science du critique]]<sup>S</sup> (griffe) 
+- **Compétences** [[Discrétion]] +11, [[Déguisement]] +6 (+14 lorsqu’il se déguise en humanoïde), [[Escalade]] +13, [[Vol]] –5
 - **Modificateurs raciaux **+8 en Déguisement (+16 lorsqu’il se déguise en humanoïde), +8 en Discrétion
 - **Particularités** bave collante
 (((Écologie)))

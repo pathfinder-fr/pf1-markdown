@@ -13,23 +13,23 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Cham](./Chaman.md) 9, [Dru](./Druide.md) 9, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 9, [Psy](./Psychiste.md) 9, [Sor](./Sorcière.md) 9  
+**École** [[école divination|Divination]] ; **Niveau** [[Chaman|Cham]] 9, [[Druide|Dru]] 9, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 9, [[Psychiste|Psy]] 9, [[Sorcière|Sor]] 9  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (une plume d’oiseau chanteur)  
+**Composantes** [[COMPOSANTES|V, G, M/FD]] (une plume d’oiseau chanteur)  
 
-**Portée** [personnelle](./Présentation des sorts.md#PORTEE) ou [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|personnelle]] ou [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** voir description  
 
-**Durée** 10 minutes/[niveau](./niveau.md)  
+**Durée** 10 minutes/[[niveau]]  
 
-**Jet de sauvegarde** aucun ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** non ou oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** aucun ou [[Volonté]], [[présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** non ou oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Grâce à *prémonition*, le lanceur de sorts bénéficie d’un puissant sixième sens qui l’avertit si un danger menace le bénéficiaire de la [divination](./Divination.md), c’est-à-dire lui-même ou la créature de son choix. Le personnage n’est jamais [surpris](./surpris.md) ou [pris au dépourvu](./Pris au dépourvu.md). De plus, le sort lui donne une indication quant au meilleur moyen de se protéger, ce qui se traduit par un bonus d’intuition de +2 à la [CA](./CA.md) et aux jets de [Réflexes](./Réflexes.md). Ce bonus disparaît si le personnage perd son bonus de [Dextérité](./Dextérité.md) à la CA.
+Grâce à *prémonition*, le lanceur de sorts bénéficie d’un puissant sixième sens qui l’avertit si un danger menace le bénéficiaire de la [[divination]], c’est-à-dire lui-même ou la créature de son choix. Le personnage n’est jamais [[surpris]] ou [[pris au dépourvu]]. De plus, le sort lui donne une indication quant au meilleur moyen de se protéger, ce qui se traduit par un bonus d’intuition de +2 à la [[CA]] et aux jets de [[Réflexes]]. Ce bonus disparaît si le personnage perd son bonus de [[Dextérité]] à la CA.
 
-Si le personnage jette le sort sur une autre créature, il est averti dès qu’un péril menace la cible. Il doit alors transmettre l’information à cette dernière, sans quoi la *prémonition* n’est d’aucune utilité (le sujet sera normalement surpris s’il n’est pas prévenu à temps). Le lanceur de sort peut crier à la cible de se méfier, la tirer en arrière ou lui envoyer un message télépathique (via un sort approprié) s’il agit immédiatement dès que la *prémonition* lui parvient. Dans ce cas, le sujet n’est pas [surpris](./surpris.md), mais il ne gagne pas de bonus d’intuition à la [CA](./CA.md) ou aux jets de [Réflexes](./Réflexes.md).
+Si le personnage jette le sort sur une autre créature, il est averti dès qu’un péril menace la cible. Il doit alors transmettre l’information à cette dernière, sans quoi la *prémonition* n’est d’aucune utilité (le sujet sera normalement surpris s’il n’est pas prévenu à temps). Le lanceur de sort peut crier à la cible de se méfier, la tirer en arrière ou lui envoyer un message télépathique (via un sort approprié) s’il agit immédiatement dès que la *prémonition* lui parvient. Dans ce cas, le sujet n’est pas [[surpris]], mais il ne gagne pas de bonus d’intuition à la [[CA]] ou aux jets de [[Réflexes]].
 
 ### Mythique
 {s:CMy}

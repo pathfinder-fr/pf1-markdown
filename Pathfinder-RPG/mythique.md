@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Glossaire Mythique#MYTHIQUE
 ---
 
->>> [Glossaire Mythique#MYTHIQUE](./Glossaire Mythique.md#MYTHIQUE)
+>>> [[Glossaire Mythique#MYTHIQUE]]

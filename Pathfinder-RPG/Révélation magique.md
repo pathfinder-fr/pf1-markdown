@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*La foi du personnage lui permet de préparer un sort lorsqu'il en a besoin.*
 
-**Conditions.** Capacité à préparer des sorts, suivant de [Néthys](./Néthys (technique).md)
+**Conditions.** Capacité à préparer des sorts, suivant de [[Néthys (technique)|Néthys]]
 
-**Avantage.** Une fois par jour, le personnage peut préparer un sort dans un [emplacement de sort vierge](./Magie profane.md#PREPARATION) par une [action simple](./Action simple.md).
+**Avantage.** Une fois par jour, le personnage peut préparer un sort dans un [[Magie profane#PREPARATION|emplacement de sort vierge]] par une [[action simple]].

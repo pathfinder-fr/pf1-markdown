@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Médaillon d'émission des pensées|{s:AE}}
-**Aura** [Divination](./école divination.md) modérée ; **NLS** 7 ; **Emplacement** [cou](./Objets merveilleux portés autour du cou.md) ; **Poids** —
+**Aura** [[école divination|Divination]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés autour du cou|cou]] ; **Poids** —
 (((Description)))
-Cet objet ressemble à un [médaillon des pensées](./Médaillon des pensées.md), même en ce qui concerne son rayon d’action, sauf que les pensées qu’il capte sont vagues et déformées, à tel point que son propriétaire doit faire jet de [Volonté](./Volonté.md) [DD](./DD.md) 15 pour les comprendre. Cependant, ce que le personnage prend pour les pensées d’autrui ne sont en réalité que des chimères créées par le médaillon. Celles-ci semblent toujours plausibles et risquent fort d’induire le personnage en erreur. Le pire, c’est qu’à son insu, le médaillon transmet ses pensées aux créatures qui se trouvent dans son champ d’action, ce qui les avertit de sa présence.
+Cet objet ressemble à un [[médaillon des pensées]], même en ce qui concerne son rayon d’action, sauf que les pensées qu’il capte sont vagues et déformées, à tel point que son propriétaire doit faire jet de [[Volonté]] [[DD]] 15 pour les comprendre. Cependant, ce que le personnage prend pour les pensées d’autrui ne sont en réalité que des chimères créées par le médaillon. Celles-ci semblent toujours plausibles et risquent fort d’induire le personnage en erreur. Le pire, c’est qu’à son insu, le médaillon transmet ses pensées aux créatures qui se trouvent dans son champ d’action, ce qui les avertit de sa présence.
 (((Objet magique prévu)))
-[médaillon des pensées](./Médaillon des pensées.md)
+[[médaillon des pensées]]
 </div>

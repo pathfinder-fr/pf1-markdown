@@ -10,8 +10,8 @@ LastModified: 2026-08-02 11:02
 {s:pucem|Animal|Plaines|Forêts}
 {s:BDTexte|*Source : Ultimate Wilderness*}
 {s:BDTexte|**PX** 65}
-{s:BDTexte|[Animal](./type Animal.md) de taille MIN, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Animal|Animal]] de taille MIN, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 2 (1d8-2)}
@@ -23,8 +23,8 @@ LastModified: 2026-08-02 11:02
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 2, **Dex** 14, **Con** 7, **Int** 2, **Sag** 14, **Cha** 5}
 {s:BDTexte|**BBA** +0, **BMO** -5, **DMD** 6}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +14 (+18 dans la neige) ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +4 dans la neige.}
+{s:BDTexte|**Dons** [[Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +14 (+18 dans la neige) ; **Modificateurs raciaux** [[Discrétion]] +4 dans la neige.}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Forêts et plaines froides}
 {s:BDTexte|**Organisation sociale** solitaire, paire, ou vol (3-12)}

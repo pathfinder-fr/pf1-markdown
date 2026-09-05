@@ -4,7 +4,7 @@ Title: Les tengus
 LastModified: 2025-01-15 18:19
 ---
 
-{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Tengu.md) d'un tengu standard.***
+{s:menuracesadditionnelles}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [[Tengu|fiche de créature]] d'un tengu standard.***
 
 Les tengus, qui ressemblent à des corbeaux, sont connus pour être une race de charognards et d’infatigables voleurs. Créatures cupides essentiellement motivées par l’avarice, les tengus sont vaniteux et très sensibles aux flatteries. Trompeurs, fourbes et rusés, ils cherchent toutes les occasions de profiter de la situation, souvent aux dépens des autres, y compris des leurs. Ils peuvent se montrer très compétitifs, mais sont impulsifs et imprudents. Certains prétendent que leur comportement est inné tandis que d’autres pensent que leur égoïsme est culturel, qu’il s’agit d’une adaptation qu’ils ont développée et maîtrisée pour supporter des siècles d’oppression.
 
@@ -28,16 +28,16 @@ La plupart des communautés de tengus ont tendance à suivre une structure triba
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 en [Dextérité](./Dextérité.md), +2 en [Sagesse](./Sagesse.md), -2 en [Constitution](./Constitution.md).** Les tengus sont rapides et observateurs, mais relativement fragiles et délicats.
-- **Tengu.** Les tengus sont des [humanoïdes](./type Humanoïde.md) de sous-type tengu.
-- **Taille M.** Les tengus sont des créatures de [taille M](./taille M.md) qui ne reçoivent ni bonus ni malus de taille.
-- **Vitesse normale.** Les tengus ont une [vitesse de base](./VD.md) de 9 mètres.
-- **Sens.** Les tengus possèdent la [vision nocturne](./Vision nocturne (capacité).md).
-- **Furtif.** Les tengus gagnent un bonus racial de +2 à leurs tests de [Discrétion](./Discrétion.md) et de [Perception](./Perception.md).
-- **Linguiste doué.** Les tengus gagnent un bonus racial de +4 à leurs tests de [Linguistique](./Linguistique.md), et apprennent deux langues au lieu d'une à chaque fois qu’ils gagnent un rang en Linguistique.
-- **Entraînement aux épées.** Les tengus sont entraînés dès la naissance au maniement de l’épée et, de ce fait, sont automatiquement formés au maniement des lames (y compris les [cimeterres](./cimeterre (arme).md), les [cimeterres à deux mains](./cimeterre à deux mains (arme).md), les [dagues](./dague (arme).md), les [dagues coup-de-poing](./dague coup-de-poing (arme).md), les [doubles lames](./double lame (arme).md), les [épées à deux mains](./épée à deux mains (arme).md), les [épées bâtardes](./épée bâtarde (arme).md), les [épées courtes](./épée courte (arme).md), les [épées longues](./épée longue (arme).md), les [kukris](./kukri (arme).md), les [lames elfiques incurvées](./lame elfique incurvée (arme).md) et les [rapières](./rapière (arme).md)).
-- **Arme naturelle.** Le tengu possède une [attaque de morsure](./Attaques naturelles (capacité).md) qui inflige 1d3 points de dégâts.
-- **Langues.** Les tengus commencent le jeu en parlant le commun et le tengu. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre n’importe quelle autre langue de leur choix (à l’exception des langues secrètes telles que la langue des druides).
+- **+2 en [[Dextérité]], +2 en [[Sagesse]], -2 en [[Constitution]].** Les tengus sont rapides et observateurs, mais relativement fragiles et délicats.
+- **Tengu.** Les tengus sont des [[type Humanoïde|humanoïdes]] de sous-type tengu.
+- **Taille M.** Les tengus sont des créatures de [[taille M]] qui ne reçoivent ni bonus ni malus de taille.
+- **Vitesse normale.** Les tengus ont une [[VD|vitesse de base]] de 9 mètres.
+- **Sens.** Les tengus possèdent la [[Vision nocturne (capacité)|vision nocturne]].
+- **Furtif.** Les tengus gagnent un bonus racial de +2 à leurs tests de [[Discrétion]] et de [[Perception]].
+- **Linguiste doué.** Les tengus gagnent un bonus racial de +4 à leurs tests de [[Linguistique]], et apprennent deux langues au lieu d'une à chaque fois qu’ils gagnent un rang en Linguistique.
+- **Entraînement aux épées.** Les tengus sont entraînés dès la naissance au maniement de l’épée et, de ce fait, sont automatiquement formés au maniement des lames (y compris les [[cimeterre (arme)|cimeterres]], les [[cimeterre à deux mains (arme)|cimeterres à deux mains]], les [[dague (arme)|dagues]], les [[dague coup-de-poing (arme)|dagues coup-de-poing]], les [[double lame (arme)|doubles lames]], les [[épée à deux mains (arme)|épées à deux mains]], les [[épée bâtarde (arme)|épées bâtardes]], les [[épée courte (arme)|épées courtes]], les [[épée longue (arme)|épées longues]], les [[kukri (arme)|kukris]], les [[lame elfique incurvée (arme)|lames elfiques incurvées]] et les [[rapière (arme)|rapières]]).
+- **Arme naturelle.** Le tengu possède une [[Attaques naturelles (capacité)|attaque de morsure]] qui inflige 1d3 points de dégâts.
+- **Langues.** Les tengus commencent le jeu en parlant le commun et le tengu. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent apprendre n’importe quelle autre langue de leur choix (à l’exception des langues secrètes telles que la langue des druides).
 
 </div>
 
@@ -46,19 +46,19 @@ La plupart des communautés de tengus ont tendance à suivre une structure triba
 {s:MR}Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux standard des tengus, mais consultez d’abord votre MJ.
 
 <u>*Remplace « arme naturelle » et « furtif » :*</u>
-- {s:cs}{s:ISR}**Lames vives.** Certains tengus apprennent des techniques de combat à l'épée éblouissantes qui leur permettent d'utiliser leurs armes pour se protéger des manœuvres offensives. Ils bénéficient d'un bonus d'esquive de +2 au [DMD](./DMD.md) tant qu'ils manient une arme similaire à une épée. Ce trait racial remplace arme naturelle et furtif.
+- {s:cs}{s:ISR}**Lames vives.** Certains tengus apprennent des techniques de combat à l'épée éblouissantes qui leur permettent d'utiliser leurs armes pour se protéger des manœuvres offensives. Ils bénéficient d'un bonus d'esquive de +2 au [[DMD]] tant qu'ils manient une arme similaire à une épée. Ce trait racial remplace arme naturelle et furtif.
 
 <u>*Remplace « entraînement aux épées » :*</u>
-- **Attaque de griffe.** Les tengus ayant ce trait racial ont appris à utiliser leurs griffes comme des armes naturelles. Ils gagnent deux [attaques naturelles](./Attaques naturelles (capacité).md) primaires de griffe infligeant 1d3 points de dégâts, et on considère qu’ils possèdent le don [Science du combat à mains nues](./Science du combat à mains nues.md) quand il s’agit de remplir les conditions requises pour prendre d’autres dons. Ce trait racial remplace entraînement aux épées.
-- **Formation aux armes exotiques.** Plutôt qu’aux épées, certains tengus sont formés aux armes exotiques. Ces tengus choisissent un nombre d’[armes orientales](./Tableau récapitulatif des armes.md) égal à 3 + leur bonus d’[Intelligence](./Intelligence.md), et sont formés au maniement de ces armes. Ce trait racial remplace entraînement aux épées.
+- **Attaque de griffe.** Les tengus ayant ce trait racial ont appris à utiliser leurs griffes comme des armes naturelles. Ils gagnent deux [[Attaques naturelles (capacité)|attaques naturelles]] primaires de griffe infligeant 1d3 points de dégâts, et on considère qu’ils possèdent le don [[Science du combat à mains nues]] quand il s’agit de remplir les conditions requises pour prendre d’autres dons. Ce trait racial remplace entraînement aux épées.
+- **Formation aux armes exotiques.** Plutôt qu’aux épées, certains tengus sont formés aux armes exotiques. Ces tengus choisissent un nombre d’[[Tableau récapitulatif des armes|armes orientales]] égal à 3 + leur bonus d’[[Intelligence]], et sont formés au maniement de ces armes. Ce trait racial remplace entraînement aux épées.
 
 <u>*Remplace « linguiste doué » :*</u>
-- **Perception de la charogne.** Beaucoup de tengus ont la capacité naturelle de renifler la charogne. Si leur odorat n’est pas aussi aiguisé que celui d’autres espèces, il est très fin pour percevoir les odeurs de blessure ou de mort. Les tengus ayant ce trait racial ont un pouvoir d’[odorat](./Odorat (capacité).md) limité qui ne fonctionne que pour les cadavres et les créatures sévèrement blessées (50 % ou moins de leurs [points de vie](./pv.md)). Ce trait racial remplace linguiste doué.
-- **Planeur.** Certains tengus peuvent utiliser leurs bras et leurs jambes couverts de plumes pour planer. Ceux qui ont ce trait racial peuvent faire un test de [Vol](./Vol.md) [DD](./DD.md) 15 pour tomber sans danger de n’importe quelle hauteur sans recevoir de dégâts de [chute](./Dangers naturels.md#CHUTE), comme s’ils utilisaient *[feuille morte](./Feuille morte.md)*. Lorsqu’il tombe, le tengu peut faire un autre test de Vol DD 15 pour planer, se déplaçant latéralement de 1,5 mètre par tranche de 6 mètres de hauteur de chute. Ce trait racial remplace linguiste doué.
+- **Perception de la charogne.** Beaucoup de tengus ont la capacité naturelle de renifler la charogne. Si leur odorat n’est pas aussi aiguisé que celui d’autres espèces, il est très fin pour percevoir les odeurs de blessure ou de mort. Les tengus ayant ce trait racial ont un pouvoir d’[[Odorat (capacité)|odorat]] limité qui ne fonctionne que pour les cadavres et les créatures sévèrement blessées (50 % ou moins de leurs [[pv|points de vie]]). Ce trait racial remplace linguiste doué.
+- **Planeur.** Certains tengus peuvent utiliser leurs bras et leurs jambes couverts de plumes pour planer. Ceux qui ont ce trait racial peuvent faire un test de [[Vol]] [[DD]] 15 pour tomber sans danger de n’importe quelle hauteur sans recevoir de dégâts de [[Dangers naturels#CHUTE|chute]], comme s’ils utilisaient *[[feuille morte]]*. Lorsqu’il tombe, le tengu peut faire un autre test de Vol DD 15 pour planer, se déplaçant latéralement de 1,5 mètre par tranche de 6 mètres de hauteur de chute. Ce trait racial remplace linguiste doué.
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -67,21 +67,21 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-{s:MR}**[Barbare](./Barbare.md).** Le barbare rajoute +1/3 au bonus que lui apporte le [pouvoir de rage](./Barbare.md#POUVOIRDERAGE) [superstition](./Pouvoirs de rage.md#SUPERSTITION).
+{s:MR}**[[Barbare]].** Le barbare rajoute +1/3 au bonus que lui apporte le [[Barbare#POUVOIRDERAGE|pouvoir de rage]] [[Pouvoirs de rage#SUPERSTITION|superstition]].
 
-{s:MR}**[Ensorceleur](./Ensorceleur.md).** L’ensorceleur choisit un [pouvoir de lignage](./Ensorceleur.md#LIGNAGE) accessible au niveau 1 et normalement utilisable 3 fois par jour + son modificateur de [Charisme](./Charisme.md). Il peut l’utiliser 1/2 fois de plus par jour.
+{s:MR}**[[Ensorceleur]].** L’ensorceleur choisit un [[Ensorceleur#LIGNAGE|pouvoir de lignage]] accessible au niveau 1 et normalement utilisable 3 fois par jour + son modificateur de [[Charisme]]. Il peut l’utiliser 1/2 fois de plus par jour.
 
-{s:MR}**[Guerrier](./Guerrier.md).** Le guerrier rajoute +1 à son [DMD](./DMD.md) lorsqu’il résiste à une tentative de [lutte](./lutte.md) ou de [croc-en-jambe](./croc-en-jambe.md).
+{s:MR}**[[Guerrier]].** Le guerrier rajoute +1 à son [[DMD]] lorsqu’il résiste à une tentative de [[lutte]] ou de [[croc-en-jambe]].
 
-{s:MR}**[Moine](./Moine.md).** Le moine rajoute +1/4 point à sa [réserve de ki](./Moine.md#RESERVEDEKI).
+{s:MR}**[[Moine]].** Le moine rajoute +1/4 point à sa [[Moine#RESERVEDEKI|réserve de ki]].
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-{s:MR}**[Oracle](./Oracle.md).** L’oracle rajoute +1/2 à son niveau quand il s’agit de déterminer les effets de sa capacité [malédiction](./Oracle.md#MALEDICTIONDELORACLE).
+{s:MR}**[[Oracle]].** L’oracle rajoute +1/2 à son niveau quand il s’agit de déterminer les effets de sa capacité [[Oracle#MALEDICTIONDELORACLE|malédiction]].
 
-{s:MR}**[Roublard](./Roublard.md).** Le roublard choisit une arme parmi celles listées dans la capacité entraînement aux épées du tengu. Il rajoute un bonus de +1/2 à ses jets de [confirmation critique](./coup critique.md) portés avec cette arme (bonus maximum de +4). Ce bonus ne se cumule pas avec Don pour les critiques.
+{s:MR}**[[Roublard]].** Le roublard choisit une arme parmi celles listées dans la capacité entraînement aux épées du tengu. Il rajoute un bonus de +1/2 à ses jets de [[coup critique|confirmation critique]] portés avec cette arme (bonus maximum de +4). Ce bonus ne se cumule pas avec Don pour les critiques.
 
-{s:MR}**[Sorcière](./Sorcière.md).** La sorcière rajoute un sort de sa liste à son [familier](./Sorcière.md#FAMILIERDELASORCIERE). Ce sort doit être inférieur d’au moins un niveau au plus haut niveau de sort qu’elle puisse lancer. Si jamais elle remplace son familier, le nouveau bénéficie de ce sort supplémentaire.
+{s:MR}**[[Sorcière]].** La sorcière rajoute un sort de sa liste à son [[Sorcière#FAMILIERDELASORCIERE|familier]]. Ce sort doit être inférieur d’au moins un niveau au plus haut niveau de sort qu’elle puisse lancer. Si jamais elle remplace son familier, le nouveau bénéficie de ce sort supplémentaire.
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -97,50 +97,50 @@ Voici les options accessibles aux tengus, d’autres races adaptées peuvent s�
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Ailes de tengu](./Ailes de tengu.md) || <sup>MR</sup> || [Tengu](./Tengu (race).md), niveau 5 || Fait pousser des ailes 1 fois par jour
+| [[Ailes de tengu]] || <sup>MR</sup> || [[tengu (race)|Tengu]], niveau 5 || Fait pousser des ailes 1 fois par jour
 |-
-| &emsp;[Forme de corbeau tengu](./Forme de corbeau tengu.md) || <sup>MR</sup> || [Tengu](./Tengu (race).md), [Ailes de tengu](./Ailes de tengu.md), niveau 7 || Prend la forme d'un grand corbeau noir 1 fois par jour
+| &emsp;[[Forme de corbeau tengu]] || <sup>MR</sup> || [[tengu (race)|Tengu]], [[Ailes de tengu]], niveau 7 || Prend la forme d'un grand corbeau noir 1 fois par jour
 
 |- CLASS="premier"
-| [Bec de sang](./Bec de sang.md) || <sup>MR</sup> || [Tengu](./Tengu (race).md), BBA +5, trait racial arme naturelle || Augmente les dégâts de l'attaque de bec, inflige des dégâts de saignement sur un critique confirmé
+| [[Bec de sang]] || <sup>MR</sup> || [[tengu (race)|Tengu]], BBA +5, trait racial arme naturelle || Augmente les dégâts de l'attaque de bec, inflige des dégâts de saignement sur un critique confirmé
 
 |- CLASS="premier"
-| [Charognard](./Charognard.md) || <sup>MR</sup> || [Tengu](./Tengu (race).md) || +2 aux jets de sauvegarde contre les maladies et les poisons ingérés, +2 aux tests de Survie pour trouver à manger
+| [[Charognard]] || <sup>MR</sup> || [[tengu (race)|Tengu]] || +2 aux jets de sauvegarde contre les maladies et les poisons ingérés, +2 aux tests de Survie pour trouver à manger
 
 |- CLASS="premier"
-| [Long-nez](./Long-nez.md) || <sup>MR</sup> || [Tengu](./Tengu (race).md), niveau 3 || Apprend à prendre la forme d'un humain au long nez
+| [[Long-nez]] || <sup>MR</sup> || [[tengu (race)|Tengu]], niveau 3 || Apprend à prendre la forme d'un humain au long nez
 
 |- CLASS="premier"
-| [Œil du charognard](./Œil-du-charognard.md) || <sup>MR</sup> || [Tengu](./Tengu (race).md) || Identifie rapidement l'objets avec le plus de valeur dans un trésor, +2 aux tests d'Estimation
+| [[Œil du charognard]] || <sup>MR</sup> || [[tengu (race)|Tengu]] || Identifie rapidement l'objets avec le plus de valeur dans un trésor, +2 aux tests d'Estimation
 
 |- CLASS="premier"
-| [Voile de mystère](./Voile de mystère.md) || <sup>*ISR*</sup> || 1 rangs en [Bluff](./Bluff.md) ; 1 rang en [Déguisement](./Déguisement.md) ; [kitsune](./kitsune (race).md), [samsaran](./samsaran (race).md), [tengu](./Tengu (race).md) ou [wayang](./wayang (race).md) || Contre les autres races humanoïdes, +2 aux jets de Volonté contre les effets mentaux et +3 aux tests de Bluff
+| [[Voile de mystère]] || <sup>*ISR*</sup> || 1 rangs en [[Bluff]] ; 1 rang en [[Déguisement]] ; [[Kitsune (race)|kitsune]], [[Samsaran (race)|samsaran]], [[Tengu (race)|tengu]] ou [[Wayang (race)|wayang]] || Contre les autres races humanoïdes, +2 aux jets de Volonté contre les effets mentaux et +3 aux tests de Bluff
 |}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe
-- [Maître des épées (roublard)](./Maître des épées (roublard).md) *(MR)*
-- [Shigenjo (oracle)](./Shigenjo (oracle).md) *(MR)*
+- [[Maître des épées (roublard)]] *(MR)*
+- [[Shigenjo (oracle)]] *(MR)*
 
 #### Équipement
-- [Cerf-volant de terreur](./Cerf-volant de terreur (objet).md) *(MR)*
-- [Huile alaire](./Huile alaire (objet).md) *(MR)*
-- [Trousse de cerfs-volants de communication](./Trousse de cerfs-volants de communication (objet).md) *(MR)*
+- [[Cerf-volant de terreur (objet)|Cerf-volant de terreur]] *(MR)*
+- [[Huile alaire (objet)|Huile alaire]] *(MR)*
+- [[Trousse de cerfs-volants de communication (objet)|Trousse de cerfs-volants de communication]] *(MR)*
 
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">
 #### Objets magiques
-- [Bokken de duel](./Bokken de duel.md) *(ISR)*
-- [Chemise du mangeur de malchance](./Chemise du mangeur de malchance.md) *(ISR)*
-- [Statuette merveilleuse (Corbeau de jade noir)](./Statuette merveilleuse.md) *(MR)*
-- [Éventail de plumes noires](./Éventail de plumes noires.md) *(MR)*
-- [Éventail de plumes rouges](./Éventail de plumes rouges.md) *(MR)*
-- [Jarre de purification tengu](./Jarre de purification tengu.md) *(MR)*
+- [[Bokken de duel]] *(ISR)*
+- [[Chemise du mangeur de malchance]] *(ISR)*
+- [[Statuette merveilleuse|Statuette merveilleuse (Corbeau de jade noir)]] *(MR)*
+- [[Éventail de plumes noires]] *(MR)*
+- [[Éventail de plumes rouges]] *(MR)*
+- [[Jarre de purification tengu]] *(MR)*
 
 #### Sorts
-- [Communion avec les oiseaux](./Communion avec les oiseaux.md) *(MR)*
-- [Plumage d'hiver](./Plumage dhiver.md) *(MR)*
-- [Protection contre le vol](./Protection contre le vol.md) *(MR)*
+- [[Communion avec les oiseaux]] *(MR)*
+- [[Plumage dhiver|Plumage d'hiver]] *(MR)*
+- [[Protection contre le vol]] *(MR)*
 
 </td></tr></table>

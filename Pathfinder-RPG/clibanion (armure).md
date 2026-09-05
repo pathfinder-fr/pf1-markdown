@@ -10,6 +10,6 @@ Categories:
 {s:AE}**Prix** 200 po ; **Poids** 22,5 kg
 **Bonus d'armure** +7 ; **Bonus de Dex maximal** 0 ; **Malus d'armure** -7
 **Risque d'échec des sorts profanes** 40% ; **Vitesse** 6 m/4,5 m (4 c/3 c)
-<span class="Catégorie">**Catégorie** [Armures lourdes](./Tableau récapitulatif des armures.md#TABLOURDES)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armures#TABLOURDES|Armures lourdes]]</span>
 ---
-Le clibanion est composé de bandes de métal superposées fixées sur une armature de cuir ou de tissu résistant. Ces attelles sont plus grandes et plus résistantes que celles qui composent l’armure d’écailles, améliorant la protection qu’elle offre au porteur, aux dépends de la flexibilité. Un clibanion s’accompagne de [gantelets](./Gantelet (arme).md).
+Le clibanion est composé de bandes de métal superposées fixées sur une armature de cuir ou de tissu résistant. Ces attelles sont plus grandes et plus résistantes que celles qui composent l’armure d’écailles, améliorant la protection qu’elle offre au porteur, aux dépends de la flexibilité. Un clibanion s’accompagne de [[gantelet (arme)|gantelets]].

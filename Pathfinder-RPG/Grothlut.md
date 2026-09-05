@@ -10,7 +10,7 @@ LastModified: 2022-09-16 10:18
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 48*}
 - 800 PX
-- [Aberration](./type Aberration.md) de taille M, CM
+- [[type aberration|Aberration]] de taille M, CM
 - **Init **+2 ; Sens vision dans le noir à 18 m ; Perception -1
 - **Aura **plainte pitoyable (9 m)
 (((Défense)))
@@ -26,7 +26,7 @@ LastModified: 2022-09-16 10:18
 - **For **15, **Dex **6, **Con **18, **Int **1, **Sag **8, **Cha **5
 - **BBA **+3 ; **BMO **+5 ; **DMD** 13 (croc-en-jambe impossible)
 - **Dons **Arme de prédilection (coup), Science de l’initiative, Vigueur surhumaine
-- **Compétences **[Escalade](./Escalade.md) +10
+- **Compétences **[[Escalade]] +10
 - **Particularités **compression
 (((Écologie)))
 - **Environnement **souterrains
@@ -44,17 +44,17 @@ LastModified: 2022-09-16 10:18
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Drider](./Drider.md) || 7
+| [[Drider]] || 7
 |-
-| [Ghonhatine](./Ghonhatine.md) || 10
+| [[Ghonhatine]] || 10
 |-
-| [Grothlut](./Grothlut.md) || 3
+| [[Grothlut]] || 3
 |-
-| [Halsora](./Halsora.md) || 7
+| [[Halsora]] || 7
 |-
-| [Irnakurse](./Irnakurse.md) || 9
+| [[Irnakurse]] || 9
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature distordue](./Créature distordue, archétype.md).***</li></ul>*Cette créature pâle et luisante, ressemblant à une limace, affiche un regard vide tandis que, la bave aux lèvres, elle laisse s’échapper une plainte monotone.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature distordue, archétype|Créature distordue]].***</li></ul>*Cette créature pâle et luisante, ressemblant à une limace, affiche un regard vide tandis que, la bave aux lèvres, elle laisse s’échapper une plainte monotone.*
 
 
 Les grothluts sont des abominations semblables à des limaces, avec une tête et un buste vaguement humains, ainsi que des bras caoutchouteux aux mouvements maladroits. Ils se traînent sans but jusqu’à ce qu’une créature apparaisse. Là, ils se mettent à gémir pitoyablement avant de ramper jusqu’à elle pour l’attaquer et s’en nourrir. Leurs plaintes sont les derniers vestiges de leur humanité perdue qui pleure pour être libérée, des fragments de leur ancienne intelligence revivant sans cesse leur transformation.

@@ -6,9 +6,9 @@ LastModified: 2024-06-01 16:34
 
 <div class="BD">
 {s:BDTitre|Cape du grand chêne|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 6.000 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 6.000 po ; **Poids** 0,5 kg
 (((Description)))
-L’image d’un grand chêne est brodée sur le dos de cette longue cape verte. Une fois par jour et sur commande, son porteur peut se transformer en arbre, comme s’il était sous l’effet du sort *[forme d’arbre](./Forme darbre.md)* mais uniquement pour prendre la forme d’un arbre vivant. De plus, il récupère 1d6 points de vie par heure passée sous cette forme et sous la lumière directe du soleil.
+L’image d’un grand chêne est brodée sur le dos de cette longue cape verte. Une fois par jour et sur commande, son porteur peut se transformer en arbre, comme s’il était sous l’effet du sort *[[Forme darbre|forme d’arbre]]* mais uniquement pour prendre la forme d’un arbre vivant. De plus, il récupère 1d6 points de vie par heure passée sous cette forme et sous la lumière directe du soleil.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[baie nourricière](./Baie nourricière.md)*, *[forme d’arbre](./Forme darbre.md)* ; **Coût** 3.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[baie nourricière]]*, *[[Forme darbre|forme d’arbre]]* ; **Coût** 3.000 po
 </div>

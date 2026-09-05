@@ -9,8 +9,8 @@ Categories:
 
 *Le personnage peut lancer un sort sans émettre le moindre son.*
 
-**Catégorie.** [métamagie](./Dons.md#METAMAGIE)
+**Catégorie.** [[Dons#METAMAGIE|métamagie]]
 
-**Avantage.** Un sort à incantation silencieuse ne nécessite pas de [composante verbale](./composante.md). Les sorts sans composante verbale ne sont donc pas affectés. Un sort à incantation silencieuse nécessite un [emplacement de sort](./emplacement de sort.md) d’un [niveau](./Niveau de sort.md) de plus que son niveau réel.
+**Avantage.** Un sort à incantation silencieuse ne nécessite pas de [[composante|composante verbale]]. Les sorts sans composante verbale ne sont donc pas affectés. Un sort à incantation silencieuse nécessite un [[emplacement de sort]] d’un [[niveau de sort|niveau]] de plus que son niveau réel.
 
-**Spécial.** Les sorts de [barde](./Barde.md) ne peuvent pas bénéficier de ce don de métamagie.
+**Spécial.** Les sorts de [[barde]] ne peuvent pas bénéficier de ce don de métamagie.

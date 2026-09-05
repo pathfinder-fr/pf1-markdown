@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Quand un adversaire est incapable de se défendre correctement contre les frappes précises du personnage, ce dernier brise ses os et déchire ses tissus de ses mains nues.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 13, [Science de la lutte](./Science de la lutte.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [Briser la mâchoire](./Briser la mâchoire.md), [Coup étourdissant](./Coup étourdissant.md), 9 rangs en [Premiers secours](./Premiers secours.md).
+**Conditions.** [[Dex]] 13, [[Science de la lutte]], [[Science du combat à mains nues]], [[Briser la mâchoire]], [[Coup étourdissant]], 9 rangs en [[Premiers secours]].
 
-**Avantage.** Quand le personnage réussit un [Coup étourdissant](./Coup étourdissant.md) contre un adversaire [agrippé](./Agrippé.md), [sans défense](./Sans défense.md) ou [étourdi](./Étourdi.md), il peut renoncer aux effets supplémentaires du [Coup étourdissant](./Coup étourdissant.md) pour lui infliger 1d6 points d’[affaiblissement](./affaiblissement temporaire.md) de [Force](./Force.md) ou [Dextérité](./Dextérité.md).
+**Avantage.** Quand le personnage réussit un [[Coup étourdissant]] contre un adversaire [[agrippé]], [[sans défense]] ou [[étourdi]], il peut renoncer aux effets supplémentaires du [[Coup étourdissant]] pour lui infliger 1d6 points d’[[affaiblissement temporaire|affaiblissement]] de [[Force]] ou [[Dextérité]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage réussit un [Coup étourdissant](./Coup étourdissant.md) contre une créature déjà [hébétée](./Hébété.md) ou [chancelante](./Chancelant.md), il peut dépenser 5 points d’endurance pour renoncer aux éventuels autres effets du Coup étourdissant et lui imposer à la place un [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d6 points de [Force](./Force.md) ou de [Dextérité](./Dextérité.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage réussit un [[Coup étourdissant]] contre une créature déjà [[hébété|hébétée]] ou [[chancelant|chancelante]], il peut dépenser 5 points d’endurance pour renoncer aux éventuels autres effets du Coup étourdissant et lui imposer à la place un [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d6 points de [[Force]] ou de [[Dextérité]].

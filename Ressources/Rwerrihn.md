@@ -8,7 +8,7 @@ Categories:
 
 <div class="gauche presentation">
 <ul><sub>*Proposé par Rebel O’Conner*</sub></ul>
-<ul>Retour à l'[index des règles maison](./RM Index.md)</ul>
+<ul>Retour à l'[[RM Index|index des règles maison]]</ul>
 </div>
 
 Appelés Hommes-chats ou Félidés par les humains, les rwerrihns sont une race humanoïde aux traits félins dont la société rappelle les lions. Cette race se caractérise principalement par un dimorphisme sexuel très fort, tant au niveau physique qu'au niveau social.
@@ -49,7 +49,7 @@ Exemples de noms féminins : Basniou, Libella, zéormi, miri.
 
 ### Traits raciaux des rwerrihns mâles
 
-- **+2 [++Pathfinder-RPG.Force|Force], +2 [++Pathfinder-RPG.Charisme|Charisme], -2 [++Pathfinder-RPG.Sagesse|Sagesse]. ** Les mâles sont forts et impressionnants mais impétueux.
+- **+2 [[Pathfinder-RPG.Force|Force]], +2 [[Pathfinder-RPG.Charisme|Charisme]], -2 [[Pathfinder-RPG.Sagesse|Sagesse]]. ** Les mâles sont forts et impressionnants mais impétueux.
 - **Taille moyenne.** Les rwerrihns sont des créatures de tailles M, ce qui ne leur apporte ni bonus ni malus de taille.
 - ** Rapide.**. Grâce à leur morphologie féline, les mâles possèdent une vitesse de déplacement de base 12m.
 - **Vision nocturne.** Les rwerrihns voient deux fois plus loin qu’un humain dans des conditions de faible éclairage.
@@ -59,7 +59,7 @@ Exemples de noms féminins : Basniou, Libella, zéormi, miri.
 
 ### Traits des rwerrihns femelles
 
-- ** +2 [++Pathfinder-RPG.Dextérité|Dextérité], +2 [++Pathfinder-RPG.Sagesse|Sagesse], -2 [++Pathfinder-RPG.Charisme|Charisme]. ** Les femelles sont agiles et sages mais effacées.
+- ** +2 [[Pathfinder-RPG.Dextérité|Dextérité]], +2 [[Pathfinder-RPG.Sagesse|Sagesse]], -2 [[Pathfinder-RPG.Charisme|Charisme]]. ** Les femelles sont agiles et sages mais effacées.
 - **Taille moyenne.** Les rwerrihns sont des créatures de tailles M, ce qui ne leur apporte ni bonus ni malus de taille.
 - ** Rapide.**Grâce à leur morphologie féline, les femelles possèdent une vitesse de déplacement de base 12m.
 - **Vision nocturne.** Les rwerrihns voient deux fois plus loin qu’un humain dans des conditions de faible éclairage.

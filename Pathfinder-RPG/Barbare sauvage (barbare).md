@@ -13,10 +13,10 @@ Categories:
 Un barbare sauvage possède les aptitudes suivantes :
 
 #### Courage nu (Ext)
-Au [niveau](./niveau.md) 3 et lorsqu’il ne porte aucune armure (les boucliers sont autorisés), le barbare sauvage bénéficie d’un bonus d’esquive de +1 à sa [CA](./CA.md) et d’un bonus de moral de +1 à ses [jets de sauvegarde](./jet de sauvegarde.md) contre la terreur, +1 par tranche de six niveaux au-delà du [niveau](./niveau.md) 3. Cette aptitude remplace [sens des pièges](./Barbare.md#SENTIRLESPIEGES).
+Au [[niveau]] 3 et lorsqu’il ne porte aucune armure (les boucliers sont autorisés), le barbare sauvage bénéficie d’un bonus d’esquive de +1 à sa [[CA]] et d’un bonus de moral de +1 à ses [[jet de sauvegarde|jets de sauvegarde]] contre la terreur, +1 par tranche de six niveaux au-delà du [[niveau]] 3. Cette aptitude remplace [[BARBARE#SENTIRLESPIEGES|sens des pièges]].
 
 #### Robustesse naturelle (Ext)
-Au [niveau](./niveau.md) 7 et lorsqu’il ne porte aucune armure (les boucliers sont autorisés), le barbare sauvage bénéficie d’un bonus d’armure naturelle de +1 à sa [CA](./CA.md), +1 par tranche de trois niveaux au-delà du [niveau](./niveau.md) 7. Cette aptitude remplace [réduction des dégâts](./Barbare.md#REDUCTIONDEGATS).
+Au [[niveau]] 7 et lorsqu’il ne porte aucune armure (les boucliers sont autorisés), le barbare sauvage bénéficie d’un bonus d’armure naturelle de +1 à sa [[CA]], +1 par tranche de trois niveaux au-delà du [[niveau]] 7. Cette aptitude remplace [[BARBARE#REDUCTIONDEGATS|réduction des dégâts]].
 
 #### Pouvoirs de rage
-Les pouvoirs suivants complètent l’archétype du barbare sauvage : [égratignure](./Égratignure (rage).md), [roulé-boulé](./Roulé-boulé (rage).md), [hurlement terrifiant](./Hurlement terrifiant (rage).md), [posture défensive](./Posture défensive (rage).md), [réduction de dégâts accrue](./Réduction de dégâts accrue (rage).md), [regard intimidant](./Regard intimidant (rage).md), [superstition](./Superstition (rage).md).
+Les pouvoirs suivants complètent l’archétype du barbare sauvage : [[égratignure (rage)|égratignure]], [[roulé-boulé (rage)|roulé-boulé]], [[hurlement terrifiant (rage)|hurlement terrifiant]], [[posture défensive (rage)|posture défensive]], [[réduction de dégâts accrue (rage)|réduction de dégâts accrue]], [[regard intimidant (rage)|regard intimidant]], [[superstition (rage)|superstition]].

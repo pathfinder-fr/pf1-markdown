@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Toile (capacité)
 ---
 
->>> [Toile (capacité)](./Toile (capacité).md)
+>>> [[Toile (capacité)]]

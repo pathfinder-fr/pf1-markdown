@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Équilibrée AMH
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Équilibrée AMH](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Équilibrée AMH)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Équilibrée AMH]]

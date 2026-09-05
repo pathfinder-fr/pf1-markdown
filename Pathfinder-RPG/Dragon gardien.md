@@ -10,7 +10,7 @@ LastModified: 2021-07-14 10:35
 {s:pucem|Dragon|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 80*}
 - **1 228 800 PX**
-- [Dragon](./type Dragon.md) (aquatique, mythique) de taille Gig, N
+- [[type dragon|Dragon]] (aquatique, mythique) de taille Gig, N
 - **Init **+15<sup>M</sup> ; **Sens **vision aveugle à 36 m, vision dans le noir à 36 m, détection de la magie, détection de la scrutation, vision nocturne, vision dans la brume ; Perception +44
 - **Aura **présence terrifiante (90 m, DD 30), sécurité (300 m) 
 (((Défense)))
@@ -27,15 +27,15 @@ LastModified: 2021-07-14 10:35
 - **Espace **6 m ; **Allonge **4,50 m (6 m avec la morsure)
 - **Attaques spéciales** venin déchirant, souffle (cône de 18 m, affaiblissement temporaire de 2d4 Con à cause du poison, Vigueur DD 33 1/2 dégâts, utilisable tous les 1d4 rounds), constriction (2d8+21), engloutissement rapide, nuage empoisonné persistant, pouvoir mythique (10/jour, montée en puissance +1d12), poison, engloutissement (6d6 dégâts contondants plus poison, CA 25, 52 pv)
 - **Pouvoirs magiques** (**NLS **26 ; concentration +33)
-  - *Constant* — [détection de la magie](./Détection de la magie.md), [détection de la scrutation](./Détection de la scrutation.md)
-  - *À volonté* — [aiguillon persuasif](./Aiguillon persuasif.md) (DD 18), [dissipation suprême](./Dissipation suprême.md), [leurre](./Leurre.md) (voir aura de sécurité), [localisation d’objet](./Localisation dobjet.md), [localisation suprême](./Localisation suprême.md), [malédiction majeure](./Malédiction majeure.md) (DD 22), [nappe de brouillard](./Nappe de brouillard.md)
-  - *3/jour *— [croissance végétale](./Croissance végétale.md), [dédale](./Dédale.md), [menottes scellées](./Menottes scellées.md) (DD 21), [mur de pierre](./Mur de pierre.md), [mur d’épines](./Mur dépines.md), [quête](./Quête.md) (DD 23), [renvoi des sorts](./Renvoi des sorts.md)
-  - *1/jour* — [changement de plan](./Changement de plan.md), [disjonction](./Disjonction.md) (DD 26), [mot de rappel](./Mot de rappel.md), [souffle de vie](./Souffle de vie.md), [souhait limité](./Souhait limité.md) (DD 24), [verrou dimensionnel](./Verrou dimensionnel.md)
+  - *Constant* — [[détection de la magie]], [[détection de la scrutation]]
+  - *À volonté* — [[aiguillon persuasif]] (DD 18), [[dissipation suprême]], [[leurre]] (voir aura de sécurité), [[localisation dobjet|localisation d’objet]], [[localisation suprême]], [[malédiction majeure]] (DD 22), [[nappe de brouillard]]
+  - *3/jour *— [[croissance végétale]], [[dédale]], [[menottes scellées]] (DD 21), [[mur de pierre]], [[mur dépines|mur d’épines]], [[quête]] (DD 23), [[renvoi des sorts]]
+  - *1/jour* — [[changement de plan]], [[disjonction]] (DD 26), [[mot de rappel]], [[souffle de vie]], [[souhait limité]] (DD 24), [[verrou dimensionnel]]
 (((Statistiques)))
 - **For **38, **Dex **13, **Con **30, **Int **15, **Sag **24, **Cha** 25
 - **BBA **+26 ; **BMO **+44 (+48 pour la lutte) ; **DMD **51 (55 contre la lutte, crocen-jambe impossible)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md)<sup>M</sup>, [Attaque en vol](./Attaque en vol.md), [Attaques multiples](./Attaques multiples.md), [Critique aveuglant](./Critique aveuglant.md), [Critique étourdissant](./Critique étourdissant.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md)<sup>M</sup>, [Enchaînement](./Enchaînement.md)<sup>M</sup>, [Mort venue du ciel](./Mort venue du ciel.md), [Science de l’initiative](./Science de linitiative.md), [Succession d’enchaînements](./Succession denchaînements.md), [Vol stationnaire](./Vol stationnaire.md), [Volonté de fer](./Volonté de fer.md)<sup>M</sup>
-- **Compétences **[Art de la magie](./Art de la magie.md) +18, [Connaissances](./Connaissances.md) (folklore local, religion) +18, [Connaissances](./Connaissances.md) (géographie) +26, [Discrétion](./Discrétion.md) +13, [Escalade](./Escalade.md) +38, [Intimidation](./Intimidation.md) +36, [Natation](./Natation.md) +22, [Perception](./Perception.md) +44, [Psychologie](./Psychologie.md) +36, [Survie](./Survie.md) +44, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +23, [Vol](./Vol.md) +11 **Modificateurs raciaux** +8 en Connaissances (géographie), +8 en Perception, +8 en Discrétion, +8 en Survie
+- **Dons **[[Attaque en puissance]]<sup>M</sup>, [[Attaque en vol]], [[Attaques multiples]], [[Critique aveuglant]], [[Critique étourdissant]], [[Critique ralentissant]], [[Don pour les critiques]]<sup>M</sup>, [[Enchaînement]]<sup>M</sup>, [[Mort venue du ciel]], [[science de linitiative|Science de l’initiative]], [[succession denchaînements|Succession d’enchaînements]], [[Vol stationnaire]], [[Volonté de fer]]<sup>M</sup>
+- **Compétences **[[Art de la magie]] +18, [[Connaissances]] (folklore local, religion) +18, [[Connaissances]] (géographie) +26, [[Discrétion]] +13, [[Escalade]] +38, [[Intimidation]] +36, [[Natation]] +22, [[Perception]] +44, [[Psychologie]] +36, [[Survie]] +44, [[utilisation dobjets magiques|Utilisation d’objets magiques]] +23, [[Vol]] +11 **Modificateurs raciaux** +8 en Connaissances (géographie), +8 en Perception, +8 en Discrétion, +8 en Survie
 - **Langues** abyssal, céleste, commun, draconique, infernal, sylvestre 
 - **Particularités **amphibie, défi héroïque, immortalité mythique, rétablissement, antre secret, traqueur vindicatif
 (((Écologie)))

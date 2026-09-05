@@ -8,4 +8,4 @@ Categories:
 - Ville
 ---
 
-Même s'ils sont farouchement indépendants, les fiers chefs orques ont parfois besoin de conseils. Lorsque cela arrive, la plupart des chefs de guerre envoient leurs seconds au Devin de Soufre, le temple situé au coeur d'un volcan fumant à l'intérieur du territoire de [Belkzen](./Belkzen.md) et gardé par un énorme ours-hibou.
+Même s'ils sont farouchement indépendants, les fiers chefs orques ont parfois besoin de conseils. Lorsque cela arrive, la plupart des chefs de guerre envoient leurs seconds au Devin de Soufre, le temple situé au coeur d'un volcan fumant à l'intérieur du territoire de [[Belkzen]] et gardé par un énorme ours-hibou.

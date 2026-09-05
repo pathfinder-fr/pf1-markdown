@@ -8,15 +8,15 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bâton de divination|}
-**Aura** [Divination](./Divination.md) puissante ; **NLS** 13 ; **Emplacement** aucun ([bâton](./Bâtons magiques.md)) ; **Prix** 82 000 po ; **Poids** 2,5 kg
+**Aura** [[Divination]] puissante ; **NLS** 13 ; **Emplacement** aucun ([[Bâtons magiques|bâton]]) ; **Prix** 82 000 po ; **Poids** 2,5 kg
 (((Description)))
 Constitué d’une branche flexible de saule et fréquemment doté d’une extrémité fourchue, ce bâton permet de lancer les sorts suivants :
-• *[détection des passages secrets](./Détection des passages secrets.md)* (1 charge)
-• *[don des langues](./Don des langues.md)* (1 charge)
-• *[localisation d’objet](./Localisation dobjet.md)* (1 charge)
-• *[localisation de créature](./Localisation de créature.md)* (2 charges)
-• *[œil indiscret](./Œil indiscret.md)* (2 charges)
-• *[vision lucide](./Vision lucide.md)* (2 charges)
+• *[[détection des passages secrets]]* (1 charge)
+• *[[don des langues]]* (1 charge)
+• *[[localisation dobjet|localisation d’objet]]* (1 charge)
+• *[[localisation de créature]]* (2 charges)
+• *[[œil indiscret]]* (2 charges)
+• *[[vision lucide]]* (2 charges)
 (((Création)))
-**Conditions** [Création de bâtons magiques](./Création de bâtons magiques.md), *[détection des passages secrets](./Détection des passages secrets.md)*, *[don des langues](./Don des langues.md)*, *[localisation d’objet](./Localisation dobjet.md)*, *[localisation de créature](./Localisation de créature.md)*, *[œil indiscret](./Œil indiscret.md)*, *[vision lucide](./Vision lucide.md)* ; **Coût** 41 000 po
+**Conditions** [[Création de bâtons magiques]], *[[détection des passages secrets]]*, *[[don des langues]]*, *[[localisation dobjet|localisation d’objet]]*, *[[localisation de créature]]*, *[[œil indiscret]]*, *[[vision lucide]]* ; **Coût** 41 000 po
 </div>

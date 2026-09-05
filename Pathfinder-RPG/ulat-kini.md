@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pathfinder-RPG.Skum
 ---
 
->>> [Pathfinder-RPG.Skum](./Skum.md)
+>>> [[Pathfinder-RPG.Skum]]

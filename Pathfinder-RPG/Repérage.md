@@ -13,16 +13,16 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./Divination.md) ; **Niveau** [Bard](./Barde.md) 0, [Cham](./Chaman.md) 0, [Dru](./Druide.md) 0, [Occ](./Occultiste.md) 0, [Psy](./Psychiste.md) 0  
+**École** [[Divination]] ; **Niveau** [[Barde|Bard]] 0, [[Chaman|Cham]] 0, [[Druide|Dru]] 0, [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** [instantanée](./instantanée.md)
+**Durée** [[instantanée]]
 
 Le personnage sait immédiatement où se trouve le Nord. Ce sort fonctionne dans tous les environnements qui disposent d’un Nord magnétique mais il existe des plans où ce n’est pas le cas. De plus, même si le personnage découvre où se trouve le Nord, il peut perdre ce repère en quelques instants s’il ne dispose pas de repères visuels pour l’aider à s’orienter.

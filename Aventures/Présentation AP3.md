@@ -8,13 +8,13 @@ Categories:
 
 ***Une ombre étrange est apparue dans le ciel au-dessus de la cité de Riddleport (Port-Énigme), et les annonciateurs de malheurs considèrent qu'il s'agit d'un signe que la fin du monde approche ! Le véritable danger ne vient pas des cieux mais plutôt des passages obscurs des Terres Sombres. Les héros sont emmenés dans une vaste quête qui commence dans une cité où tout le monde regarde les étoiles, passent à travers d'anciennes ruines elfiques puis dévoilent le terrible secret des elfes noirs.***
 
-Vous trouverez les aides de jeu relatives à cette campagne sur [cette page](./Aides de jeu AP3.md).
+Vous trouverez les aides de jeu relatives à cette campagne sur [[Aides de jeu AP3|cette page]].
 
 Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&m=14539&#post14539).
 
 ### Les livres de la campagne
 
-Le [Guide du Joueur](./../Golarion/Publications.md#AP3PG) de cette campagne a été publiée dans la gamme des Companions présentées sur la page des [livres](./../Golarion/Publications.md) relatifs à Golarion. Une partie du contenu de ce guide (le strict minimum pour pouvoir jouer la campagne) a été repris dans le [Guide du Joueur](./../Golarion/Aides de jeu.md#GUIDEDUJOUEUR) disponible dans les [aides de jeu](./../Golarion/Aides de jeu.md) pour Golarion.
+Le [[Golarion.Publications#AP3PG|Guide du Joueur]] de cette campagne a été publiée dans la gamme des Companions présentées sur la page des [[Golarion.Publications|livres]] relatifs à Golarion. Une partie du contenu de ce guide (le strict minimum pour pouvoir jouer la campagne) a été repris dans le [[Golarion.Aides de jeu#GUIDEDUJOUEUR|Guide du Joueur]] disponible dans les [[Golarion.Aides de jeu|aides de jeu]] pour Golarion.
 
 {s:BookStart}
 {s:BookTitle|AP3-1|Shadow in the Sky/Une ombre dans le ciel}
@@ -40,7 +40,7 @@ Ce volume de Pathfinder™ inaugure Le Retour des ténèbres et contient :
   
 * Quatre nouveaux monstres, par Greg A. Vaughan.   
   
-**Articles :** Le Gobelin d'Or, [Port-Énigme](./../Golarion/Port-Énigme.md)}
+**Articles :** Le Gobelin d'Or, [[Golarion.Port-Énigme|Port-Énigme]]}
 {s:BookTitle|AP3-2|Children of the Void/Les enfants du néant}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9014_120.jpeg|http://paizo.com/products/btpy85ed}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/139_Pathfinder_14_Les_Enfants_du_neant_26.jpg|https://www.black-book-editions.fr/produit.php?id=87}
@@ -49,7 +49,7 @@ Ce volume de Pathfinder™ inaugure Le Retour des ténèbres et contient :
 Le ciel nous tombe sur la tête ! Une étoile est tombée et la course est lancée. Pendant que les seigneurs du crime de Port-Énigme s'efforcent d'être les premiers à mettre la main sur la mystérieuse météorite, de sombres forces sont en œuvre autour du site de l'impact sur le Coude du Diable. Des choses venues d'un autre monde se sont frayé un passage hors de leur prison métallique tombée du ciel et se sont mises à la recherche de nouvelles proies tout en s'apprêtant à répandre leur semence sur un monde qui ne se doute de rien. Les PJ pourront-ils mettre un terme à une terreur qui vient de plus loin que le ciel nocturne et à la magie diabolique qui l'a créée ?  
   
 
-**Articles :** Le [système solaire](./../Golarion/système solaire.md) de Golarion, [Cayden Cailéan](./../Golarion/Cayden Cailéan.md)}
+**Articles :** Le [[Golarion.système solaire|système solaire]] de Golarion, [[Golarion.Cayden Cailéan|Cayden Cailéan]]}
 {s:BookTitle|AP3-3|The Armageddon Echo/L'écho de l'armageddon}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9015_120.jpeg|http://paizo.com/products/btpy85ep}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/140_Pathfinder_15_LEcho_de_lArmaggedon_36.jpg|https://www.black-book-editions.fr/produit.php?id=93}
@@ -58,7 +58,7 @@ Le ciel nous tombe sur la tête ! Une étoile est tombée et la course est lanc�
 La ville de Celwynvian cache un terrible péché. Pendant d'innombrables siècles, les elfes de la forêt de Miérani ont empêché les étrangers d'approcher de la fameuse Cité des Pluies d'Émeraude, c'était là une tentative désespérée pour reprendre le contrôle sur une honte ancienne. Mais alors qu'une nouvelle puissance s'éveille dans les profondeurs, le secret des elfes est sur le point de non seulement leur échapper mais aussi d'infliger une terrible dévastation sur le monde entier. Les elfes désespérés tournent les yeux vers un groupe d'aventuriers à qui ils demandent de l'aide. Visitez les terres interdites de Celwynvian, celle qui fut autrefois l'une des plus grandes capitales de la culture elfique et qui n'est plus aujourd'hui qu'un cimetière hanté par des esprits du passé, de terribles dragons, des démons et pire encore. Découvrez le terrible secret de la forêt de Miérani et la vérité au sujet du cataclysme appelé la Chute d'Étoiles. Osez briser les liens éternels et assistez à une apocalypse qui s'est déroulée des milliers de fois et qui menace de dévaster Golarion une fois encore !  
   
 
-**Articles :** [Celwynvian](./../Golarion/Celwynvian.md), les [drows](./../Golarion/drows.md)}
+**Articles :** [[Golarion.Celwynvian|Celwynvian]], les [[Golarion.drows|drows]]}
 {s:BookTitle|AP3-4|Endless Night/La nuit éternelle}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9016_120.jpeg|http://paizo.com/products/btpy85er}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/173_Pathfinder_16_La_Nuit_eternelle_46.jpg|https://www.black-book-editions.fr/produit.php?id=99}
@@ -76,7 +76,7 @@ Loin en-dessous du monde de la lumière, une cavité au mal indicible répand un
 Les PJ ont appris qu'un traître elfe a fourni aux drow les moyens magiques pour faire tomber les étoiles et dévaster Golarion. Ils arrivent dans la nation elfique du Kyonin mais personne ne veut écouter ce qu'ils ont à dire. Suite à des intrigues à la cour, une confrontation se produit avec le mystérieux ordre elfique appelé le Conseil de l'Hiver, au plus profond des ombres hantées par les démons de la forêt légendaire connue sous le nom de Roncier. Mais il reste encore un dernier secret, un secret tragique et horrible, qui les attend lorsqu'ils découvrent la véritable source de la malédiction des elfes noirs.  
   
 
-**Articles :** Le [Kyonin](./../Golarion/Kyonin.md), [Calistria](./../Golarion/Calistria.md)}
+**Articles :** Le [[Golarion.Kyonin|Kyonin]], [[Golarion.Calistria|Calistria]]}
 {s:BookTitle|AP3-6|Descent in Midnight/Au cœur de la nuit}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9018_120.jpeg|http://paizo.com/products/btpy86v1}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/183_Pathfinder_18_Au_Coeur_des_tenebres_56.jpg|https://www.black-book-editions.fr/produit.php?id=101}
@@ -85,7 +85,7 @@ Les PJ ont appris qu'un traître elfe a fourni aux drow les moyens magiques pour
 La campagne connaît une fin explosive lorsque les héros voyagent vers un monde inconnu caché dans les profondeurs, les Terres du Sang Noir. Là, ils doivent survivre aux gardiens monstrueux de l'endroit et vaincre les drows qui s'apprêtent à utiliser une magie ancienne pour faire chuter une étoile du ciel et détruire leurs ennemis de la surface.  
   
 
-**Articles :** Les [seigneurs-démons](./../Golarion/Seigneurs-démons.md) de Golarion, le Pays du Sang Noir}
+**Articles :** Les [[Golarion.seigneurs-démons|seigneurs-démons]] de Golarion, le Pays du Sang Noir}
 {s:BookTitle|AP3-7|Pathfinder Dice Set: Second Darkness/Set de dés : le retour des ténèbres}
 {s:BookPic|http://paizo.com/image/product/catalog/QWS/QWSSPAT24_500.jpeg|http://paizo.com/products/btpy8btm}
 {s:BookPic||}

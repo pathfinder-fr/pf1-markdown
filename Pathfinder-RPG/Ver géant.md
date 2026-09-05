@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Vermine|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 2, p.202*}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille M, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) -3}
+{s:BDTexte|[[type Vermine|Vermine]] de taille M, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] -3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 9, contact 9, pris au dépourvu 9 (Dex -1)}
 {s:BDTexte|**pv** 7 (1d8+3)}
@@ -27,13 +27,13 @@ Categories:
 {s:BDTexte|**Attaques spéciales** régurgitation}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 8, **Con** 16, **Int** —, **Sag** 5, **Cha** 1}
-{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 9 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
+{s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 9 ([[croc-en-jambe]] impossible)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** climat tempéré ou tropical}
 {s:BDTexte|**Organisation sociale** solitaire ou nuée (2–12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Régurgitation (Ext).** Une fois par jour, un ver géant peut dévider le contenu putride de son estomac sur une créature située à 1,50 mètres de lui. La cible doit réussir un jet de Vigueur de DD 13 pour ne pas être [fiévreuse](./Fiévreux.md) pendant 1 minute (elle peut mettre un terme à cet effet en utilisant une action complexe pour se laver à l’aide d’au moins 5 litres d’eau). Le DD du jet de sauvegarde dépend de la Constitution.}
+{s:BDTexte|**Régurgitation (Ext).** Une fois par jour, un ver géant peut dévider le contenu putride de son estomac sur une créature située à 1,50 mètres de lui. La cible doit réussir un jet de Vigueur de DD 13 pour ne pas être [[fiévreux|fiévreuse]] pendant 1 minute (elle peut mettre un terme à cet effet en utilisant une action complexe pour se laver à l’aide d’au moins 5 litres d’eau). Le DD du jet de sauvegarde dépend de la Constitution.}
 </div>
 </td><td><div>*Cet énorme ver possède une peau pâle et graisseuse et une gueule circulaire garnie de petites dents acérées d’où s’écoule abondamment de la salive.*
 
@@ -52,5 +52,5 @@ un autre) avant de se
 transformer en une
 chrysalide dont ils
 émergeront sous la
-forme de [Mouche géante](./Mouche géante.md).
+forme de [[Mouche géante]].
 </div></td></tr></table>

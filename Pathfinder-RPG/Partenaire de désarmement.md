@@ -9,12 +9,12 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:cm}**Cette option est plus courante chez les [gnolls](./Gnoll.md).**
+{s:cm}**Cette option est plus courante chez les [[Gnoll|gnolls]].**
 
 *Quand l’allié du personnage rate une tentative de désarmement contre un adversaire à portée du personnage, ce dernier peut tenter de le désarmer.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONEQUIPE|équipe]]
 
-**Condition.** [BBA](./BBA.md) +1
+**Condition.** [[BBA]] +1
 
-**Avantage.** Quand un allié doté de ce don rate une tentative de [désarmement](./désarmement.md) effectuée à son tour contre un adversaire situé à portée de corps à corps du personnage, ce dernier peut faire une manœuvre offensive de désarmement contre lui par une [action immédiate](./Action immédiate.md).
+**Avantage.** Quand un allié doté de ce don rate une tentative de [[désarmement]] effectuée à son tour contre un adversaire situé à portée de corps à corps du personnage, ce dernier peut faire une manœuvre offensive de désarmement contre lui par une [[action immédiate]].

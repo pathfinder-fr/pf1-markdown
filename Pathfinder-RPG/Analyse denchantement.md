@@ -15,24 +15,24 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./école divination.md) ; **Niveau** [Alch](./Alchimiste.md) 6, [Bard](./Barde.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Occ](./Occultiste.md) 6, [Psy](./Psychiste.md) 6, [Sor](./Sorcière.md) 6, [Spi](./Spirite.md) 6  
+**École** [[école divination|Divination]] ; **Niveau** [[Alchimiste|Alch]] 6, [[Barde|Bard]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Occultiste|Occ]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 6, [[Spirite|Spi]] 6  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F](./composantes.md) (une lentille de rubis sertie d’or, d’une valeur de 1 500 po)  
+**Composantes** [[COMPOSANTES|V, G, F]] (une lentille de rubis sertie d’or, d’une valeur de 1 500 po)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** 1 créature ou 1 objet par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md)  
+**Cible** 1 créature ou 1 objet par [[niveau de lanceur de sorts]]  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 1 [[round]]/[[niveau]] (T)  
 
-**Jet de sauvegarde** aucun ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** non
+**Jet de sauvegarde** aucun ou [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (voir description) ; **Résistance à la magie** non
 
-Ce sort permet par une [action libre](./Action libre.md) d’identifier la magie affectant la cible, laquelle peut être une créature ou un objet. Le personnage ne peut examiner qu’un objet ou une créature par [round](./round.md).
+Ce sort permet par une [[action libre]] d’identifier la magie affectant la cible, laquelle peut être une créature ou un objet. Le personnage ne peut examiner qu’un objet ou une créature par [[round]].
 
-S’agissant d’un objet magique, le personnage identifie ses fonctions (et toute [malédiction](./malédiction.md) éventuelle), la façon de l’activer (si besoin) et le cas échéant le nombre de [charges](./Règles relatives aux objets magiques.md#CHARGESOBJETSMAGIQUES) dont celui-ci dispose. Dans le cas d’un objet ou d’une créature affecté par des sorts actifs, le personnage détecte la nature de chacun, ses effets et leur [niveau de lanceur de sorts](./niveau de lanceur de sorts.md).
+S’agissant d’un objet magique, le personnage identifie ses fonctions (et toute [[malédiction]] éventuelle), la façon de l’activer (si besoin) et le cas échéant le nombre de [[Règles relatives aux objets magiques#CHARGESOBJETSMAGIQUES|charges]] dont celui-ci dispose. Dans le cas d’un objet ou d’une créature affecté par des sorts actifs, le personnage détecte la nature de chacun, ses effets et leur [[niveau de lanceur de sorts]].
 
-Si le propriétaire d’un objet porté le souhaite, il peut tenter un jet de [Volonté](./Volonté.md) pour l’objet afin de résister au sort. En cas de succès, le personnage n’apprend rien et l’objet ne peut plus être affecté par une *analyse d’enchantement* pendant 24 heures.
+Si le propriétaire d’un objet porté le souhaite, il peut tenter un jet de [[Volonté]] pour l’objet afin de résister au sort. En cas de succès, le personnage n’apprend rien et l’objet ne peut plus être affecté par une *analyse d’enchantement* pendant 24 heures.
 
-*Analyse d’enchantement* ne fonctionne pas sur les [artefacts](./Artefacts.md).
+*Analyse d’enchantement* ne fonctionne pas sur les [[artefacts]].

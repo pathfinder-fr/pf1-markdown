@@ -9,15 +9,15 @@ Categories:
 
 *Le personnage peut détourner les flèches et d’autres projectiles de leur trajectoire afin de les éviter.*
 
-**Catégorie.** [combat](./Dons.md#COMBAT)
+**Catégorie.** [[Dons#COMBAT|combat]]
 
-**Conditions.** [Dex](./Dextérité.md) 13, [Science du combat à mains nues](./Science du combat à mains nues.md).
+**Conditions.** [[Dextérité|Dex]] 13, [[Science du combat à mains nues]].
 
-**Avantage.** Le personnage doit avoir au moins une main libre pour utiliser ce don. Une fois par [round](./round.md), quand il devrait être touché par une [arme à distance](./arme à distance.md), il peut dévier le projectile au dernier moment et éviter tout dégât. Le personnage doit être conscient de l’attaque. Il ne doit pas être [pris au dépourvu](./Pris au dépourvu.md). Il effectue un geste extrêmement rapide qui ne compte pas comme une action. Il est impossible de parer les projectiles massifs (comme un rocher lancé par un géant ou un carreau de baliste) ni les [attaques à distance](./Attaque à distance.md) générées par des [sorts](./sort.md) ou des attaques [naturelles](./arme naturelle.md) (comme les souffles).
+**Avantage.** Le personnage doit avoir au moins une main libre pour utiliser ce don. Une fois par [[round]], quand il devrait être touché par une [[arme à distance]], il peut dévier le projectile au dernier moment et éviter tout dégât. Le personnage doit être conscient de l’attaque. Il ne doit pas être [[pris au dépourvu]]. Il effectue un geste extrêmement rapide qui ne compte pas comme une action. Il est impossible de parer les projectiles massifs (comme un rocher lancé par un géant ou un carreau de baliste) ni les [[attaque à distance|attaques à distance]] générées par des [[sort|sorts]] ou des attaques [[arme naturelle|naturelles]] (comme les souffles).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance pour dévier un projectile alors qu’il est [pris au dépourvu](./Pris au dépourvu.md). Il doit tout de même être conscient de l’attaque.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance pour dévier un projectile alors qu’il est [[pris au dépourvu]]. Il doit tout de même être conscient de l’attaque.
 
 {s:CMy}
 ### Version mythique
@@ -25,4 +25,4 @@ Le personnage peut dépenser 5 points d’endurance pour dévier un projectile a
 
 **Condition.** Parade de projectiles
 
-**Avantage.** Lorsqu’il utilise Parade des projectiles, le personnage peut, chaque round, parer un nombre d’attaques à distance supplémentaires égal à la moitié de son [grade](./Grade.md). Il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) par une [action immédiate](./Action immédiate.md) pour parer un unique rayon produit par un sort ou un effet de rayon qui le prend pour cible.
+**Avantage.** Lorsqu’il utilise Parade des projectiles, le personnage peut, chaque round, parer un nombre d’attaques à distance supplémentaires égal à la moitié de son [[grade]]. Il peut dépenser une utilisation de [[pouvoir mythique]] par une [[action immédiate]] pour parer un unique rayon produit par un sort ou un effet de rayon qui le prend pour cible.

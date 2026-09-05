@@ -11,10 +11,10 @@ LastModified: 2014-09-30 17:24
 
 <b>Accès :</b> Mon Personnage/Onglet Inventaire
 
-[My Hero|Retour racine du Manuel]</div>
+[[My Hero|Retour racine du Manuel]]</div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/Slide25.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide26.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide27.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide28.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide29.jpg|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MesPersos|Mes Personnages]
+<OL><LI>Retour vers [[MH-MesPersos|Mes Personnages]]
 <LI>Tri des objets de l’entrepôt par ordre alphabétique ou par type.
 <LI>Cinq boutons vous permettant de naviguer dans cette vue.
 <LI>Sélection du type de l’objet à ajouter parmi : Accessoires pour armes et armures, Animaux et harnachement, Anneaux, Armes, Armures, Artefacts, Baguettes, Bâtons, Bijoux, Boucliers, Gemmes, Livres et matériel d’écriture, Matériels d’aventurier, Monnaies, Munitions, Objets d’art, Objets maudits, Objets merveilleux, Objets religieux et jeux, Outils, Parchemins, Poisons, Potions, Sceptres, Substances alchimiques, Véhicules et biens et Vêtements et contenants.
@@ -41,7 +41,7 @@ LastModified: 2014-09-30 17:24
 <LI>Définition du coefficient de vente. Lorsque vous gérer vos entrepôts, vous pouvez décider de vendre tous les objets y figurant. Pour cela vous définissez un coefficient de vente ainsi qu’un nombre de parts. La valeur d’une part est affichée. Notez que les objets d’art, les bijoux et les gemmes sont automatiquement vendus à un coefficient de vente de « 1 ». En poursuivant l’exemple du trou portable, disons que votre personnage est le porteur d’un groupe de quatre personnages. Vous pouvez créer un autre entrepôt « trou portable – trou commun » que vous définissez comme porté dans l’entrepôt trou portable. Lorsque viendra le moment de vendre les objets commun, vous sélectionnerez cet entrepôt et indiquerez qu’il est à vendre en quatre parts.
 <LI>Vente de tous les objets de l’entrepôt. Les objets d’art, les bijoux et les gemmes sont automatiquement vendus à un coefficient de vente de « 1 ». La somme obtenue (une part) est ajoutée à votre sac à dos.
 <LI>Abandon de tous les objets. Aucune pièce d’or n’est ajoutée à votre inventaire et cet entrepôt est vidé.
-<LI>Choix de la cible à équiper parmi le personnage et ses alliés dont vous avez défini une personnalisation possible ([MH-Allies|Gestion des Alliés]). Notez que les emplacements disponibles varieront en fonction du type de corps de l’allié comme défini dans le Player Companion Animal Archive.
+<LI>Choix de la cible à équiper parmi le personnage et ses alliés dont vous avez défini une personnalisation possible ([[MH-Allies|Gestion des Alliés]]). Notez que les emplacements disponibles varieront en fonction du type de corps de l’allié comme défini dans le Player Companion Animal Archive.
 <LI>Définition de l’objet remplissant un emplacement. Seuls les objets que votre personnage possède vous sont proposés.
 <LI>En cochant ces cases vous pouvez définir le bouclier ou l’armure de votre personnage comme brisé(e). Notez qu’un tel objet est automatiquement considéré comme tel si ses points de résistance sont inférieurs à 50% de son total. Si votre personnage possède plusieurs exemplaires de l’objet porté, l’application considérera qu’il porte celui en meilleur état.
 <LI>Définition d’un raccourci d’équipement. L’état actuel de l’équipement du personnage sera défini comme raccourci correspondant au bouton sur lequel vous avez cliqué.

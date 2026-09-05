@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Bâton merveilleux occasionnel|{s:AE}}
-**Aura** variable ; **NLS** variable ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ([bâton](./Bâtons magiques.md)) ; **Poids** 2 kg
+**Aura** variable ; **NLS** variable ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ([[Bâtons magiques|bâton]]) ; **Poids** 2 kg
 (((Description)))
-Le *bâton merveilleux occasionnel* ressemble à n’importe quel bâton magique. Souvent, il résulte d’un accident qui s’est produit lors de la création du bâton auquel il ressemble. Il fonctionne comme prévu mais, à chaque fois qu’une personne s’en sert, elle doit lancer un d100. Si elle obtient un résultat entre 1 et 10, le bâton se comporte comme un [sceptre merveilleux](./Sceptre merveilleux.md) au lieu de produire l’effet escompté.
+Le *bâton merveilleux occasionnel* ressemble à n’importe quel bâton magique. Souvent, il résulte d’un accident qui s’est produit lors de la création du bâton auquel il ressemble. Il fonctionne comme prévu mais, à chaque fois qu’une personne s’en sert, elle doit lancer un d100. Si elle obtient un résultat entre 1 et 10, le bâton se comporte comme un [[sceptre merveilleux]] au lieu de produire l’effet escompté.
 (((Objet magique prévu)))
-N'importe quel [bâton magique](./Bâtons magiques.md)
+N'importe quel [[bâtons magiques|bâton magique]]
 </div>

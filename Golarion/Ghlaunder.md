@@ -10,10 +10,10 @@ Categories:
 Le symbole de Ghlaunder est un moustique gorgé de sang.
 
 ### Histoire et avatar
-Ghlaunder est un ennemi de [Golarion.Desna|Desna]. Cette dernière l’a accidentellement libéré de son cocon dans le [Golarion.Plan Éthéré|Plan Éthéré].
-Le « Gossamer King » a pour avatar un moustique monstrueux et géant qui cherche à se nourrir sur [Golarion] du sang de ses plus fidèles dévots.
+Ghlaunder est un ennemi de [[Golarion.Desna|Desna]]. Cette dernière l’a accidentellement libéré de son cocon dans le [[Golarion.Plan Éthéré|Plan Éthéré]].
+Le « Gossamer King » a pour avatar un moustique monstrueux et géant qui cherche à se nourrir sur [[Golarion]] du sang de ses plus fidèles dévots.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Le [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Le [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
 {s:VoirAussiAprès}

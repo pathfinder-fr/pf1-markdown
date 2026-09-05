@@ -4,8 +4,8 @@ Title: Psychiste controler (build)
 LastModified: 2016-02-29 14:33
 ---
 
-<div class="fright">***Retour aux [builds](./Builds.md).***</br>
-***Voir le [http://www.pathfinder-fr.org/Forum/yaf_postsm505951_Le-psychic-support.aspx#post505951|sujet de discussion]***</div><nav class="wiki-toc"></nav>
+<div class="fright">***Retour aux [[builds]].***</br>
+***Voir le [sujet de discussion](http://www.pathfinder-fr.org/Forum/yaf_postsm505951_Le-psychic-support.aspx#post505951)***</div><nav class="wiki-toc"></nav>
 
 *Description / présentation RP du build proposé, en italique.*
 

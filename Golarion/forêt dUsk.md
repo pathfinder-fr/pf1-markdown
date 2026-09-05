@@ -7,6 +7,6 @@ Categories:
 - Nidal
 ---
 
-La forêt d'Usk est une grande forêt de feuillus située en plein coeur du [Nidal](./Nidal.md).
+La forêt d'Usk est une grande forêt de feuillus située en plein coeur du [[Nidal]].
 
-On connaît peu de choses de ses occupants, si ce n'est que les étrangers ne sont pas les bienvenus et qu'elle abrite [Pangolais](./Pangolais.md), capitale du [Nidal](./Nidal.md).
+On connaît peu de choses de ses occupants, si ce n'est que les étrangers ne sont pas les bienvenus et qu'elle abrite [[Pangolais]], capitale du [[Nidal]].

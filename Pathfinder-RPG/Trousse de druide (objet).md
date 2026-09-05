@@ -7,7 +7,7 @@ Categories:
 - Src Armes et équipement
 ---
 
-{s:AE}**Prix** 14 po ; **Poids** 22 kg<sup>[2](./Trousses déquipement.md#2)</sup>
-<span class="Catégorie">**Catégorie** [Trousses d'équipement](./Trousses déquipement.md)</span>
+{s:AE}**Prix** 14 po ; **Poids** 22 kg<sup>[[Trousses déquipement#2|2]]</sup>
+<span class="Catégorie">**Catégorie** [[Trousses déquipement|Trousses d'équipement]]</span>
 ---
-Cette trousse comprend des rations de [nourriture pour animaux](./Nourriture pour animaux (objet).md) (5 jours), un [sac à dos](./Sac à dos (objet).md), une [bourse](./Bourse (objet).md), une [couverture](./Couverture (objet).md), un [silex et une amorce](./Silex et amorce (objet).md), du [houx et du gui](./Houx et gui (objet).md), une [marmite en fer](./Marmite (objet).md), un [kit repas](./Kit repas (objet).md), un [savon](./Savon (objet).md), une [sacoche à composantes](./Sacoche à composantes (objet).md), des [torches](./Torche (objet).md) (10), des [rations de survie](./Rations de survie (objet).md) (5 jours) et une [outre](./Outre (objet).md).
+Cette trousse comprend des rations de [[Nourriture pour animaux (objet)|nourriture pour animaux]] (5 jours), un [[Sac à dos (objet)|sac à dos]], une [[Bourse (objet)|bourse]], une [[Couverture (objet)|couverture]], un [[Silex et amorce (objet)|silex et une amorce]], du [[Houx et gui (objet)|houx et du gui]], une [[Marmite (objet)|marmite en fer]], un [[Kit repas (objet)|kit repas]], un [[Savon (objet)|savon]], une [[Sacoche à composantes (objet)|sacoche à composantes]], des [[Torche (objet)|torches]] (10), des [[Rations de survie (objet)|rations de survie]] (5 jours) et une [[Outre (objet)|outre]].

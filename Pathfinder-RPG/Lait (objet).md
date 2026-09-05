@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pc ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Le lait est une boisson nourrissante issue des mammifères, notamment des vaches, des chèvres, des moutons et des chevaux. Le lait frais est épais et a tendance à se recouvrir d’une couche de crème qu’on laisse souvent se former et que l’on enlève ensuite, le restant étant servi comme boisson.

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Froid}
 {s:BDTexte|*Source : Bestiaire 4 p.190*}
 {s:BDTexte|**PX** 4800}
-{s:BDTexte|[Animal](./type Animal.md) de taille Gig, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Animal|Animal]] de taille Gig, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[vision nocturne]] ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 5, pris au dépourvu 20 (Dex -1, naturelle +15, taille -4)}
 {s:BDTexte|**pv** 126 (12d8+72)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 31, **Dex** 9, **Con** 22, **Int** 2, **Sag** 15, **Cha** 6}
 {s:BDTexte|**BBA** +9, **BMO** +23, **DMD** 32 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Frappe décisive](./Frappe décisive.md), [Science du critique](./Science du critique.md) (morsure), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +22, [Perception](./Perception.md) +16}
-{s:BDTexte|<b>Particularités</b> [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Dur à cuire]], [[Endurance]], [[Frappe décisive]], [[Science du critique]] (morsure), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Natation]] +22, [[Perception]] +16}
+{s:BDTexte|<b>Particularités</b> [[retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans froids}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupeau (1-3 et 5-20 morses)}
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Morse](./Morse.md) || 3
+| [[Morse]] || 3
 |-
-| [Morse empereur](./Morse empereur.md) || 8
+| [[Morse empereur]] || 8
 |}
 </div>''Plusieurs plis de peau protègent cet imposant mammifère marin, telle
 une armure de graisse. Des défenses de la taille d’un humain ornent sa

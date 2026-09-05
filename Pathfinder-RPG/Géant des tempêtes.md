@@ -14,33 +14,33 @@ Categories:
 {s:pucem|Humanoïde|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire p.150*}
 {s:BDTexte|**PX** 25.600}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille TG, CB}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +27}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille TG, CB}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +27}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 10, pris au dépourvu 26 (armure +6, Dex +2, naturelle +12, taille -2)}
 {s:BDTexte|**pv** 199 (19d8+114)}
 {s:BDTexte|**Réf** +8, **Vig** +17, **Vol** +13}
-{s:BDTexte|**Capacités défensives** [réception de rochers](./Réception de rochers.md) ; **Immunités** électricité }
+{s:BDTexte|**Capacités défensives** [[réception de rochers]] ; **Immunités** électricité }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c}), nage 12 m (8 {s:c}) (10,50 m (7 {s:c}), nage 9 m (6 {s:c}) en armure)}
 {s:BDTexte|**Corps à corps** épée à deux mains de maître, +27/+22/+17 (4d6+21/17-20) ou 2 coups, +26 (2d6+14)}
 {s:BDTexte|**Distance** arc long composite de maître, +15/+10/+5 (3d6+14/x3)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
 {s:BDTexte|**Pouvoirs magiques** (NLS 15<sup>e</sup>)}
-{s:BDSorts|Constant — *[liberté de mouvement](./Liberté de mouvement.md)*}
-{s:BDSorts|2/jour — *[contrôle du climat](./Contrôle du climat.md)*, *[lévitation](./Lévitation.md)*}
-{s:BDSorts|1/jour — *[appel de la foudre](./Appel de la foudre.md)* (DD 15), *[éclair multiple](./Éclair multiple.md)* (DD 18)}
+{s:BDSorts|Constant — *[[liberté de mouvement]]*}
+{s:BDSorts|2/jour — *[[contrôle du climat]]*, *[[lévitation]]*}
+{s:BDSorts|1/jour — *[[appel de la foudre]]* (DD 15), *[[éclair multiple]]* (DD 18)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 39, **Dex** 14, **Con** 23, **Int** 16, **Sag** 20, **Cha** 15}
 {s:BDTexte|**BBA** +14, **BMO** +30, **DMD** 42}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la destruction](./Science de la destruction.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science du critique](./Science du critique.md) (épée à deux mains), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +18, [Artisanat](./Artisanat.md) (un au choix) +13, [Escalade](./Escalade.md) +17, [Intimidation](./Intimidation.md) +20, [Natation](./Natation.md) +22, [Perception](./Perception.md) +27, [Psychologie](./Psychologie.md) +24, [Représentation](./Représentation.md) (chant) +12}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Coup fabuleux]], [[Enchaînement]], [[Frappe décisive]], [[Science de la bousculade]], [[Science de la destruction]], [[Science de la frappe décisive]], [[Science du critique]] (épée à deux mains), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +18, [[Artisanat]] (un au choix) +13, [[Escalade]] +17, [[Intimidation]] +20, [[Natation]] +22, [[Perception]] +27, [[Psychologie]] +24, [[Représentation]] (chant) +12}
 {s:BDTexte|**Langues** aérien, commun, draconique, géant}
 {s:BDTexte|**Particularités** préparation martiale, respiration aquatique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** climat chaud}
-{s:BDTexte|**Organisation sociale** solitaire ou famille (2-5 plus 1 [ensorceleur](./Ensorceleur.md) ou [prêtre](./Prêtre.md) de niveau 7-10, 1-2 [rocs](./Roc.md), 2-6 [griffons](./Griffon.md) et 2-8 [requins](./Requin.md))}
-{s:BDTexte|**Trésor** standard (arc long composite de maître <nowiki>[</nowiki>**[For](./Force.md) +14**<nowiki>]</nowiki> avec 20 flèches, cuirasse de maître, épée à deux mains de maître, autres trésors)}
+{s:BDTexte|**Organisation sociale** solitaire ou famille (2-5 plus 1 [[ensorceleur]] ou [[prêtre]] de niveau 7-10, 1-2 [[roc|rocs]], 2-6 [[griffon|griffons]] et 2-8 [[requin|requins]])}
+{s:BDTexte|**Trésor** standard (arc long composite de maître <nowiki>[</nowiki>**[[Force|For]] +14**<nowiki>]</nowiki> avec 20 flèches, cuirasse de maître, épée à deux mains de maître, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Préparation martiale (Ext).** Les géants des tempêtes sont formés à l'utilisation de toutes les armes courantes et de toutes les armes de guerre.}
 {s:BDTexte|**Respiration aquatique (Ext).** Les géants de tempêtes peuvent aussi bien respirer dans l'eau que dans l'air.}
@@ -52,49 +52,49 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Géant de cendre](./Géant de cendre.md) || 11
+| [[Géant de cendre]] || 11
 |-
-| [Géant de la jungle](./Géant de la jungle.md) || 10
+| [[Géant de la jungle]] || 10
 |-
-| [Géant de la lune](./Géant de la lune.md) || 15
+| [[Géant de la lune]] || 15
 |-
-| [Géant de la taïga](./Géant de la taïga.md) || 12
+| [[Géant de la taïga]] || 12
 |-
-| [Géant de l'ombre](./Géant de lombre.md) || 13
+| [[Géant de lombre|Géant de l'ombre]] || 13
 |-
-| [Géant de pierre](./Géant de pierre.md) || 8
+| [[Géant de pierre]] || 8
 |-
-| [Géant des bois](./Géant des bois.md) || 6
+| [[Géant des bois]] || 6
 |-
-| [Géant des collines](./Géant des collines.md) || 7
+| [[Géant des collines]] || 7
 |-
-| [Géant des falaises](./Géant des falaises.md) || 9
+| [[Géant des falaises]] || 9
 |-
-| [Géant des grottes](./Géant des grottes.md) || 6
+| [[Géant des grottes]] || 6
 |-
-| [Géant des marais](./Géant des marais.md) || 8
+| [[Géant des marais]] || 8
 |-
-| [Géant des nuages](./Géant des nuages.md) || 11
+| [[Géant des nuages]] || 11
 |-
-| [Géant des océans](./Géant des océans.md) || 14
+| [[Géant des océans]] || 14
 |-
-| [Géant des rivières](./Géant des rivières.md) || 6
+| [[Géant des rivières]] || 6
 |-
-| [Géant des runes](./Géant des runes.md) || 17
+| [[Géant des runes]] || 17
 |-
-| [Géant des scories](./Géant des scories.md) || 7
+| [[Géant des scories]] || 7
 |-
-| [Géant des tempêtes](./Géant des tempêtes.md) || 13
+| [[Géant des tempêtes]] || 13
 |-
-| [Géant des éclipses](./Géant des éclipses.md) || 19
+| [[Géant des éclipses]] || 19
 |-
-| [Géant du désert](./Géant du désert.md) || 9
+| [[Géant du désert]] || 9
 |-
-| [Géant du feu](./Géant du feu.md) || 10
+| [[Géant du feu]] || 10
 |-
-| [Géant du froid](./Géant du froid.md) || 9
+| [[Géant du froid]] || 9
 |-
-| [Géant du soleil](./Géant du soleil.md) || 16
+| [[Géant du soleil]] || 16
 |}
 </div>*Ce gigantesque humain musclé possède une peau de bronze, des cheveux sombres et des yeux verts brillants.*
 

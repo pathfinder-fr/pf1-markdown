@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 10 po ; **Poids** 10 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Cette table en bois est pourvue de pieds articulés et d'une charnière en son milieu. Lorsqu'elle est complètement dépliée, elle fait 60 centimètres sur 1,20 mètre, mais repliée, elle ne fait plus que 60 centimètres sur 60 centimètres sur 5 centimètres. Il faut une [action complexe](./Action complexe.md) pour installer une table pliante et 2 [actions complexes](./Action complexe.md) pour la replier.
+Cette table en bois est pourvue de pieds articulés et d'une charnière en son milieu. Lorsqu'elle est complètement dépliée, elle fait 60 centimètres sur 1,20 mètre, mais repliée, elle ne fait plus que 60 centimètres sur 60 centimètres sur 5 centimètres. Il faut une [[action complexe]] pour installer une table pliante et 2 [[action complexe|actions complexes]] pour la replier.

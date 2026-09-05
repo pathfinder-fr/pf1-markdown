@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous pouvez renoncer à une contre-attaque évidente contre un adversaire pour mieux repérer les brèches dans ses défenses.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** 5 rangs en [Bluff](./Bluff.md), 5 rangs en [Psychologie](./Psychologie.md), exploit [parade et riposte opportune](./Exploits (bretteur).md#PARADEETRIPOSTEOPPORTUNE)
+**Conditions.** 5 rangs en [[Bluff]], 5 rangs en [[Psychologie]], exploit [[Exploits (bretteur)#PARADEETRIPOSTEOPPORTUNE|parade et riposte opportune]]
 
-**Avantages.** Lorsque le personnage utilise l'exploit [parade et riposte opportune](./Exploits (bretteur).md#PARADEETRIPOSTEOPPORTUNE) et réussit à parer l'attaque d'un adversaire, si son [action immédiate](./Action immédiate.md) est disponible et qu'il choisit de ne pas tenter une riposte, il obtient un bonus d'esquive de +1 à la [CA](./CA.md) ainsi qu'un bonus de +2 à tous les tests de [manœuvres offensives](./Manœuvres offensives.md) contre cet adversaire pendant 1 round.
+**Avantages.** Lorsque le personnage utilise l'exploit [[Exploits (bretteur)#PARADEETRIPOSTEOPPORTUNE|parade et riposte opportune]] et réussit à parer l'attaque d'un adversaire, si son [[action immédiate]] est disponible et qu'il choisit de ne pas tenter une riposte, il obtient un bonus d'esquive de +1 à la [[CA]] ainsi qu'un bonus de +2 à tous les tests de [[manœuvres offensives]] contre cet adversaire pendant 1 round.

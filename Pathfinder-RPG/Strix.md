@@ -14,22 +14,22 @@ Categories:
 {s:BDTexte|*Source : La mer Intérieure p.313*}
 {s:BDTexte|**PX** 135}
 Strix guerrier 1
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) (strix) de taille M, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ;}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (strix) de taille M, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ;}
 Perception +0 (+2 de nuit)
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 12, contact 12, pris au dépourvu 10 (+2 Dex)}
 {s:BDTexte|**pv** 5 (1d10)}
 {s:BDTexte|**Réf** +2, **Vig** +2, **Vol** +0 (+2 contre illusion)}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 9 m, [vol](./Vol (capacité).md) 18 m (moyenne)}
+{s:BDTexte|**VD** 9 m, [[Vol (capacité)|vol]] 18 m (moyenne)}
 {s:BDTexte|**Corps à corps** lance, +2 (1d8+1/x3)}
 {s:BDTexte|**Attaques spéciales** haine}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 15, **Con** 10, **Int** 8, **Sag** 11, **Cha** 7}
 {s:BDTexte|**BBA** +1 ; **BMO** +2 ; **DMD** 14}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Vol](./Vol.md) +6}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Vol]] +6}
 Modificateurs raciaux +2 en Perception et en Discrétion dans une faible lumière ou dans le noir
 {s:BDTexte|**Langues** commun, strix}
 {s:BDTexte|**Particularités** nocturne}
@@ -38,8 +38,8 @@ Modificateurs raciaux +2 en Perception et en Discrétion dans une faible lumièr
 {s:BDTexte|**Organisation** solitaire, groupe de chasseurs (3-6), groupe de guerriers (5-12) ou tribu (22 plus 100% de non-combattants plus 1 champion de niveau 2 pour 10 adultes, 1 ou 2 oracle(s) de niveau 3 ou 4 et 1 chef de niveau 5-7)}
 {s:BDTexte|**Trésor** équipement de PNJ}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Haine (Ext).** Les strix reçoivent un bonus de +1 aux [jets d'attaque](./jet dattaque.md) contre les créatures humanoïdes de sous-type humain car ils sont spécialement entraînés à combattre ces ennemis qu’ils détestent.}
-{s:BDTexte|**Nocturne (Ext).** La nuit, les strix reçoivent un bonus racial de +2 aux tests de [Perception](./Perception.md) et de [Discrétion](./Discrétion.md).}
+{s:BDTexte|**Haine (Ext).** Les strix reçoivent un bonus de +1 aux [[jet dattaque|jets d'attaque]] contre les créatures humanoïdes de sous-type humain car ils sont spécialement entraînés à combattre ces ennemis qu’ils détestent.}
+{s:BDTexte|**Nocturne (Ext).** La nuit, les strix reçoivent un bonus racial de +2 aux tests de [[Perception]] et de [[Discrétion]].}
 </div></td>
 <td><div>*Cet humanoïde mince et musculeux à la peau d’onyx est enveloppé d’immenses ailes aux plumes noires.*
 
@@ -57,6 +57,6 @@ Les strix sont définis par leurs niveaux de classe, ils ne possèdent pas de d�
 - **Vision dans le noir.** Les strix voient dans le noir jusqu’à 18 m.
 - **Haine** Voir ci-contre.
 - **Nocturne.** Voir ci-contre.
-- **Suspicieux.** Les strix gagnent un bonus racial de +2 aux [jets de sauvegarde](./JDS.md) contre les sorts et effets d’illusion.
+- **Suspicieux.** Les strix gagnent un bonus racial de +2 aux [[jds|jets de sauvegarde]] contre les sorts et effets d’illusion.
 - **Langues.** En début de jeu, les strix parlent le strix. Ceux qui possèdent une valeur d’Intelligence supérieure peuvent également parler l’aérien, l’azlant, le commun, le draconique, le géant, le gnome, le gobelin et l’infernal.
 </div></td></tr></table>

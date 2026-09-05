@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armes alchimiques#Sacoche immobilisante
 ---
 
->>> [Armes alchimiques#Sacoche immobilisante](./Armes alchimiques.md#Sacoche immobilisante)
+>>> [[Armes alchimiques#Sacoche immobilisante]]

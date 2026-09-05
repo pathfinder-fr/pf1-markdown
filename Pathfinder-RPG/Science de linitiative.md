@@ -9,13 +9,13 @@ Categories:
 
 *Les réflexes du personnage lui permettent de réagir rapidement en cas de danger.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Avantage.** Le personnage bénéficie d’un bonus de +4 au test d’[initiative](./initiative.md).
+**Avantage.** Le personnage bénéficie d’un bonus de +4 au test d’[[initiative]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 10 points d’endurance avant d’effectuer son test d’[initiative](./initiative.md) pour considérer qu’il a obtenu 20 au dé.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 10 points d’endurance avant d’effectuer son test d’[[initiative]] pour considérer qu’il a obtenu 20 au dé.
 
 {s:CMy}
 ### Version mythique
@@ -23,4 +23,4 @@ Le personnage peut dépenser 10 points d’endurance avant d’effectuer son tes
 
 **Condition.** Science de l’initiative
 
-**Avantage.** Le bonus aux tests d’initiative dont bénéficie le personnage grâce à Science de l’initiative augmente d’un montant égal à son [grade](./Grade.md). De plus, au lieu de lancer le dé d’[initiative](./initiative.md), le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour considérer que son jet est un 20 naturel.
+**Avantage.** Le bonus aux tests d’initiative dont bénéficie le personnage grâce à Science de l’initiative augmente d’un montant égal à son [[grade]]. De plus, au lieu de lancer le dé d’[[initiative]], le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour considérer que son jet est un 20 naturel.

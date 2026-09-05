@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Convocation de monstres
 ---
 
->>> [Convocation de monstres](./Convocation de monstres.md)
+>>> [[Convocation de monstres]]

@@ -7,4 +7,4 @@ Categories:
 - Osirion
 ---
 
-Région montagneuse d'[Osirion](./Osirion.md) située dans le désert non loin de la ville d'[Eto](./Eto.md).
+Région montagneuse d'[[Osirion]] située dans le désert non loin de la ville d'[[Eto]].

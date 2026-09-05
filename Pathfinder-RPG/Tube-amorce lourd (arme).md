@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:UI}**Prix** 250 po ; **Poids** 1 kg ; **Groupes** —
 **Dégâts** 1d3 (P), 1d4 (M) ; **Critique** 19-20/×2 ; **Portée** 9 m (6 c) ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ; **Maniement** [arme à distance](./arme à distance.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ; **Maniement** [[arme à distance]]</span>
 ---
-Version plus encombrante du [tube-amorce](./Tube-amorce (arme).md), cet appareil tire un [carreau d’arbalète](./Carreaux darbalète (arme).md) plutôt qu’une [fléchette poids-plume](./Fléchettes poids-plume (arme).md). Si le personnage est formé au maniement des [arbalète de poing](./Arbalète de poing (arme).md), il est aussi formé à celui des tubes-amorce lourds.
+Version plus encombrante du [[tube-amorce (arme)|tube-amorce]], cet appareil tire un [[Carreaux darbalète (arme)|carreau d’arbalète]] plutôt qu’une [[Fléchettes poids-plume (arme)|fléchette poids-plume]]. Si le personnage est formé au maniement des [[Arbalète de poing (arme)|arbalète de poing]], il est aussi formé à celui des tubes-amorce lourds.

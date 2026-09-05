@@ -10,7 +10,7 @@ LastModified: 2017-04-06 20:57
 {s:pucem|Mort-vivant|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 118*}
 - **9 600 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille G, NM
+- [[type mort-vivant|Mort-vivant]] de taille G, NM
 - **Init **+0 ; **Sens** vision dans le noir à 18 m, vision nocturne ; Perception +19
 (((Défense)))
 - **CA** 25, contact 9, pris au dépourvu 25 (naturelle +16, taille -1)
@@ -26,8 +26,8 @@ LastModified: 2017-04-06 20:57
 (((Statistiques)))
 - **For** 25, **Dex** 10, **Con **—, **Int** 10, **Sag** 13, **Cha** 19
 - **BBA **+11 ; **BMO **+19 (+21 pour la bousculade) ; **DMD** 29 (31 contre la bousculade)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Don pour les critiques](./Don pour les critiques.md), [Enchaînement](./Enchaînement.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (griffe), [Succession d’enchaînements](./Succession denchaînements.md) 
-- **Compétences** [Connaissances](./Connaissances.md) (histoire) +8, [Discrétion](./Discrétion.md) +14, [Intimidation](./Intimidation.md) +22, [Perception](./Perception.md) +19, [Psychologie](./Psychologie.md) +11
+- **Dons** [[Arme de prédilection]] (griffe), [[Attaque en puissance]], [[Coup fabuleux]], [[Don pour les critiques]], [[Enchaînement]], [[Science de la bousculade]], [[Science du critique]] (griffe), [[Succession denchaînements|Succession d’enchaînements]] 
+- **Compétences** [[Connaissances]] (histoire) +8, [[Discrétion]] +14, [[Intimidation]] +22, [[Perception]] +19, [[Psychologie]] +11
 - **Langues** géant
 (((Écologie)))
 - **Environnement** littoraux chauds

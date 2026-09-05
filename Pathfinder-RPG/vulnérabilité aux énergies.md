@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Capacités spéciales#IMMUENERGIES
 ---
 
->>> [Capacités spéciales#IMMUENERGIES](./Capacités spéciales.md#IMMUENERGIES)
+>>> [[Capacités spéciales#IMMUENERGIES]]

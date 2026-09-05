@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 15 po ; **Passage (1,5 km)** 1 cp
-<span class="Catégorie">**Catégorie** [Moyens de transport](./Moyens de transport.md)</span>
+<span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
 ---
 Ce véhicule à deux roues est tiré par un cheval ou un autre animal de bât et sert souvent à transporter des marchandises sur de courtes distances. Elle est livrée avec un harnais.

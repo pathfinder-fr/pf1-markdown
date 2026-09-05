@@ -11,11 +11,11 @@ Categories:
 <div class="BD">
 {s:BDTitre|Bourbiérin sauvage|FP 4}
 {s:pucem|Humanoïde|Marais|Tempéré}
-{s:BDTexte|*Source : [Codex monstrueux p.12](./Codex monstrueux (Contenu).md)*}
+{s:BDTexte|*Source : [[Codex monstrueux (Contenu)|Codex monstrueux p.12]]*}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Bourbiérin](./Bourbiérin.md) [barbare](./Barbare.md) 2}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) (bourbiérin) de taille M, CM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[Bourbiérin]] [[barbare]] 2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (bourbiérin) de taille M, CM}
+{s:BDTexte|**Init** +0 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 8, pris au dépourvu 15 (armure +4, naturelle +3, rage -2)}
 {s:BDTexte|**pv** 61 (5 DV ; 3d8+2d12+30)}
@@ -31,12 +31,12 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 11, **Con** 22, **Int** 8, **Sag** 13, **Cha** 8}
 {s:BDTexte|**BBA** +4 ; **BMO** +10 ; **DMD** 18}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (massue), [Attaque en puissance](./Attaque en puissance.md), [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +6 (+22 pour sauter), [Discrétion](./Discrétion.md) +0 (+8 dans les marais), [Escalade](./Escalade.md) +11, [Intimidation](./Intimidation.md) +4, [Natation](./Natation.md) +19, [Perception](./Perception.md) +10}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (massue), [[Attaque en puissance]], [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +6 (+22 pour sauter), [[Discrétion]] +0 (+8 dans les marais), [[Escalade]] +11, [[Intimidation]] +4, [[Natation]] +19, [[Perception]] +10}
 {s:BDTexte|**Langues** bourbiérin}
-{s:BDTexte|**Particularités** déplacement accéléré, [retenir son souffle](./Retenir son souffle (capacité).md), déplacement facilité (marais)}
-{s:BDTexte|**Équipement de combat** *huile d’[arme magique](./Arme magique.md)*, *potions de [soins modérés](./Soins modérés.md)* (2)
-; **Équipement divers** *[armure de cuir cloutée](./armure de cuir cloutée (armure).md) +1*, [massue](./massue (arme).md) de maître, [javelines](./javeline (arme).md) (3), 269 po}
+{s:BDTexte|**Particularités** déplacement accéléré, [[Retenir son souffle (capacité)|retenir son souffle]], déplacement facilité (marais)}
+{s:BDTexte|**Équipement de combat** *huile d’[[arme magique]]*, *potions de [[soins modérés]]* (2)
+; **Équipement divers** *[[armure de cuir cloutée (armure)|armure de cuir cloutée]] +1*, [[massue (arme)|massue]] de maître, [[javeline (arme)|javelines]] (3), 269 po}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -45,29 +45,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Bourbiérin](./Bourbiérin.md) || 2
+| [[Bourbiérin]] || 2
 |-
-| [Bourbiérin balafré](./Bourbiérin balafré.md) || 6
+| [[Bourbiérin balafré]] || 6
 |-
-| [Bourbiérin sauvage](./Bourbiérin sauvage.md) || 4
+| [[Bourbiérin sauvage]] || 4
 |-
-| [Brute bourbiérine](./Brute bourbiérine.md) || 3
+| [[Brute bourbiérine]] || 3
 |-
-| [Champion bourbiérin](./Champion bourbiérin.md) || 7
+| [[Champion bourbiérin]] || 7
 |-
-| [Chasseur bourbiérin](./Chasseur bourbiérin.md) || 5
+| [[Chasseur bourbiérin]] || 5
 |-
-| [Grandcoasseur bourbiérin](./Grandcoasseur bourbiérin.md) || 3
+| [[Grandcoasseur bourbiérin]] || 3
 |-
-| [Guerrier abyssal bourbiérin](./Guerrier abyssal bourbiérin.md) || 8
+| [[Guerrier abyssal bourbiérin]] || 8
 |-
-| [Oracle du marais bourbiérin](./Oracle du marais bourbiérin.md) || 4
+| [[Oracle du marais bourbiérin]] || 4
 |-
-| [Prêtre-roi bourbiérin](./Prêtre-roi bourbiérin.md) || 11
+| [[Prêtre-roi bourbiérin]] || 11
 |-
-| [Prophète bourbiérin](./Prophète bourbiérin.md) || 5
+| [[Prophète bourbiérin]] || 5
 |-
-| [Traqueur bourbiérin](./Traqueur bourbiérin.md) || 9
+| [[Traqueur bourbiérin]] || 9
 |}
 </div>Les barbares bourbiérins sont aussi terrifiants qu’imprévisibles.
 </div></td></tr></table>

@@ -14,24 +14,24 @@ Categories:
 {s:pucem|Vermine|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 page 12*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Vermine](./type Vermine.md), ([aquatique](./sous-type aquatique.md)) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision aveugle](./vision aveugle.md) à 9 m (6 cases) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]], ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision aveugle]] à 9 m (6 cases) ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 10, pris au dépourvu 12 (Dex +2, naturelle +3, taille -1)}
 {s:BDTexte|**pv** 34 (4d8+16)}
 {s:BDTexte|**Réf** +3, **Vig** +8, **Vol** +1}
-{s:BDTexte|**Capacité défensive** [créature informe](./Créature informe (capacité).md)}
-{s:BDTexte|**Immunité** attaques de regard, effets mentaux, [poison](./poison.md), effets visuels}
+{s:BDTexte|**Capacité défensive** [[Créature informe (capacité)|créature informe]]}
+{s:BDTexte|**Immunité** attaques de regard, effets mentaux, [[poison]], effets visuels}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 1,5 m (1 {s:c})}
-{s:BDTexte|**Corps à corps** tentacules, +3 (2d6+1 plus [étreinte](./Étreinte.md) et [poison](./poison.md))}
+{s:BDTexte|**Corps à corps** tentacules, +3 (2d6+1 plus [[étreinte]] et [[poison]])}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}), **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaque spéciale**  [engloutissement](./Engloutissement.md) (1d6+1 dégâts contondants, CA 11, 3 pv)}
+{s:BDTexte|**Attaque spéciale**  [[engloutissement]] (1d6+1 dégâts contondants, CA 11, 3 pv)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 15, **Con** 18, **Int**—, **Sag** 10, **Cha** 2}
 {s:BDTexte|**BBA** +3, **BMO** +5, **DMD** 17 (croc-en-jambe impossible)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +6}
-{s:BDTexte|**Modificateur racial** +8 en [Discrétion](./Discrétion.md) +6}
+{s:BDTexte|**Compétences** [[Discrétion]] +6}
+{s:BDTexte|**Modificateur racial** +8 en [[Discrétion]] +6}
 {s:BDTexte|**Part** ancre, aveugle}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans et littoraux}
@@ -40,7 +40,7 @@ Categories:
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Ancre (Ext).**Par une action complexe, l’anémone de mer géante peut se fixer à une surface solide. Lorsqu’elle est ainsi ancrée, elle ne peut pas bouger et reçoit un bonus de +4 au DMD sur tous ses tests pour résister aux charges à mains nues, pour éviter d’être traînée, renversée ou repositionnée. Ce bonus augmente de +4 pour chaque catégorie de taille que l’anémone de mer a en plus par rapport à l’adversaire tentant la manoeuvre. La créature peut se désancrer d’elle-même par une action complexe.}
 {s:BDTexte|**Aveugle (Ext).** L’anémone de mer est aveugle et n’est donc pas affectée par les effets s’appuyant sur la vue tels que les attaques de regard ou de cécité.}
-{s:BDTexte|**Poison (Ext).** Tentacule — blessure ; JdS [Vigueur](./Vigueur.md) DD 16 ; fréquence 1/round pendant 6 rounds ; effet affaiblissement temporaire de 1d2 Dex ; guérison 2 réussites consécutives.}
+{s:BDTexte|**Poison (Ext).** Tentacule — blessure ; JdS [[Vigueur]] DD 16 ; fréquence 1/round pendant 6 rounds ; effet affaiblissement temporaire de 1d2 Dex ; guérison 2 réussites consécutives.}
 
 </div>
 

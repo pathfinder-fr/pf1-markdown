@@ -11,8 +11,8 @@ Categories:
 
 {s:um}*Les études du personnage lui ont permis de développer une méthode pour vaincre la résistance à la magie. *
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
-**Avantage.** Quand le personnage lance un sort transperçant contre une cible douée de [résistance à la magie](./RM.md), il la considère comme réduite de 5 points par rapport à la réalité.
+**Avantage.** Quand le personnage lance un sort transperçant contre une cible douée de [[RM|résistance à la magie]], il la considère comme réduite de 5 points par rapport à la réalité.
 
-Un sort transperçant utilise un [emplacement de sort](./emplacement de sort.md) d’un niveau de plus que le niveau réel du sort.
+Un sort transperçant utilise un [[emplacement de sort]] d’un niveau de plus que le niveau réel du sort.

@@ -4,8 +4,8 @@ Title: Le quai du Bunyip
 LastModified: 2010-10-08 11:34
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Golarion.Histoires|Retour à la page des   
-histoires de Golarion]</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Golarion.Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du deuxième chapitre : "[The Bunyip Dock](http://paizo.com/pathfinder/tales/serial/v5748dyo5lb1u)" de la nouvelle "L'Éclaireur disparu" par Dave Gross. Illustration de Joe Wilson*
 
 Vincenzo esquissa un sourire lorsqu'il m'aperçut. Sa minuscule bouche et ses dents en avant lui donnait l'air d'un furet. Je lui rendis son sourire et il déguerpit en escaladant les escaliers tordus.

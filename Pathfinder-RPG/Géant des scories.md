@@ -12,24 +12,24 @@ Categories:
 {s:pucem|Humanoïde|Montagnes|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 p.115*}
 {s:BDTexte|**PX** 3 200 PX}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, LN}
-{s:BDTexte|**Init** +1 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, LN}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision nocturne]] ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 10, pris au dépourvu 19 (armure +3, Dex +1, naturelle +7, taille -1)}
 {s:BDTexte|**pv** 85 (10d8+40)}
 {s:BDTexte|**Réf** +4, **Vig** +11, **Vol** +4}
-{s:BDTexte|**Capacités défensives** [réception de rochers](./Réception de rochers.md) ; **Résistance** feu 30}
+{s:BDTexte|**Capacités défensives** [[réception de rochers]] ; **Résistance** feu 30}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c}) (9 m - 6 {s:c} - en armure)}
 {s:BDTexte|**Corps à corps** marteau de guerre, +15/+10 (2d6+12/x3) ou 2 coups, +14 (1d8+8)}
 {s:BDTexte|**Distance** rocher, +8 (1d8+8)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [lancer de rochers](./Lancer de rochers.md) 36 m (24 {s:c})}
+{s:BDTexte|**Attaques spéciales** [[lancer de rochers]] 36 m (24 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 27, **Dex** 12, **Con** 19, **Int** 10, **Sag** 12, **Cha** 10}
 {s:BDTexte|**BBA** +7, **BMO** +16 (+18 pour la destruction d’arme), **DMD** 29 (31 contre la destruction d’arme)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (marteau de guerre), [Attaque en puissance](./Attaque en puissance.md), [Maniement d'une arme de guerre](./Maniement dune arme de guerre.md) (marteau de guerre), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la destruction](./Science de la destruction.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (armes) +12, [Artisanat](./Artisanat.md) (armures) +12, [Intimidation](./Intimidation.md) +8, [Perception](./Perception.md) +9}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (marteau de guerre), [[Attaque en puissance]], [[Maniement dune arme de guerre|Maniement d'une arme de guerre]] (marteau de guerre), [[Réflexes surhumains]], [[Science de la destruction]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (armes) +12, [[Artisanat]] (armures) +12, [[Intimidation]] +8, [[Perception]] +9}
 {s:BDTexte|**Modificateurs raciaux** +4 en Artisanat (armures), +4 en Artisanat (armes)}
 {s:BDTexte|**Langues** commun, géant}
 {s:BDTexte|**Particularités** coup fracassant}
@@ -47,49 +47,49 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Géant de cendre](./Géant de cendre.md) || 11
+| [[Géant de cendre]] || 11
 |-
-| [Géant de la jungle](./Géant de la jungle.md) || 10
+| [[Géant de la jungle]] || 10
 |-
-| [Géant de la lune](./Géant de la lune.md) || 15
+| [[Géant de la lune]] || 15
 |-
-| [Géant de la taïga](./Géant de la taïga.md) || 12
+| [[Géant de la taïga]] || 12
 |-
-| [Géant de l'ombre](./Géant de lombre.md) || 13
+| [[Géant de lombre|Géant de l'ombre]] || 13
 |-
-| [Géant de pierre](./Géant de pierre.md) || 8
+| [[Géant de pierre]] || 8
 |-
-| [Géant des bois](./Géant des bois.md) || 6
+| [[Géant des bois]] || 6
 |-
-| [Géant des collines](./Géant des collines.md) || 7
+| [[Géant des collines]] || 7
 |-
-| [Géant des falaises](./Géant des falaises.md) || 9
+| [[Géant des falaises]] || 9
 |-
-| [Géant des grottes](./Géant des grottes.md) || 6
+| [[Géant des grottes]] || 6
 |-
-| [Géant des marais](./Géant des marais.md) || 8
+| [[Géant des marais]] || 8
 |-
-| [Géant des nuages](./Géant des nuages.md) || 11
+| [[Géant des nuages]] || 11
 |-
-| [Géant des océans](./Géant des océans.md) || 14
+| [[Géant des océans]] || 14
 |-
-| [Géant des rivières](./Géant des rivières.md) || 6
+| [[Géant des rivières]] || 6
 |-
-| [Géant des runes](./Géant des runes.md) || 17
+| [[Géant des runes]] || 17
 |-
-| [Géant des scories](./Géant des scories.md) || 7
+| [[Géant des scories]] || 7
 |-
-| [Géant des tempêtes](./Géant des tempêtes.md) || 13
+| [[Géant des tempêtes]] || 13
 |-
-| [Géant des éclipses](./Géant des éclipses.md) || 19
+| [[Géant des éclipses]] || 19
 |-
-| [Géant du désert](./Géant du désert.md) || 9
+| [[Géant du désert]] || 9
 |-
-| [Géant du feu](./Géant du feu.md) || 10
+| [[Géant du feu]] || 10
 |-
-| [Géant du froid](./Géant du froid.md) || 9
+| [[Géant du froid]] || 9
 |-
-| [Géant du soleil](./Géant du soleil.md) || 16
+| [[Géant du soleil]] || 16
 |}
 </div>*La peau couleur rouille de cette géante est tâchée de suie, de cendres et de poussière. Son regard affiche à la fois de la détermination et du détachement.*
 

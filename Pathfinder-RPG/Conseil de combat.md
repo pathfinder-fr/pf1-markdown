@@ -12,4 +12,4 @@ Categories:
 
 **Conditions.** -
 
-**Avantage.** Le personnage peut offrir au moment opportun un conseil utile à un allié engagé dans un affrontement par une [action de mouvement](./Action de mouvement.md). Le personnage doit désigner un ennemi ; son allié gagne un bonus de compétence de +2 sur son prochain [jet d'attaque](./jet dattaque.md) contre cet ennemi. Pour que cet allié puisse bénéficier de ce don, le personnage doit clairement le voir ainsi que l’ennemi désigné, et cet allié doit pouvoir l’entendre.
+**Avantage.** Le personnage peut offrir au moment opportun un conseil utile à un allié engagé dans un affrontement par une [[action de mouvement]]. Le personnage doit désigner un ennemi ; son allié gagne un bonus de compétence de +2 sur son prochain [[jet dattaque|jet d'attaque]] contre cet ennemi. Pour que cet allié puisse bénéficier de ce don, le personnage doit clairement le voir ainsi que l’ennemi désigné, et cet allié doit pouvoir l’entendre.

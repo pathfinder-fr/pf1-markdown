@@ -12,10 +12,10 @@ Categories:
 
 *La créature est particulièrement douée pour attaquer avec ses armes naturelles.*
 
-**Catégories.** [combat](./Dons.md#DONCOMBAT), Monstre
+**Catégories.** [[Dons#DONCOMBAT|combat]], Monstre
 
 **Condition.** Au moins trois attaques naturelles.
 
-**Avantage.** Les attaques que la créature effectue avec des [armes naturelles](./armes naturelles.md) secondaires ne subissent qu’une pénalité de –2.
+**Avantage.** Les attaques que la créature effectue avec des [[armes naturelles]] secondaires ne subissent qu’une pénalité de –2.
 
 **Normal.** Sans ce don, les attaques secondaires de la créature subissent une pénalité de –5.

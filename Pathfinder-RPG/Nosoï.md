@@ -10,7 +10,7 @@ LastModified: 2021-07-15 17:27
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 214*}
 - **600 PX**
-- [Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [psychopompe](./sous-type psychopompe.md)) de taille TP, N
+- [[type extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type psychopompe|psychopompe]]) de taille TP, N
 - **Init **+3 ; **Sens **vision dans le noir à 18 m, vision nocturne, perception spirituelle ; Perception +9
 (((Défense)))
 - **CA **15, contact 15, pris au dépourvu 12 (Dex +3, taille +2)
@@ -23,14 +23,14 @@ LastModified: 2021-07-15 17:27
 - **Espace **0,75 m ; **Allonge **0 m
 - **Attaques spéciales** mélodie envoûtante
 - **Pouvoirs magiques** (NLS 3 ; concentration +6)
-  - *À volonté* – [invisibilité](./Invisibilité.md) (sur lui uniquement)
-  - *3/jour* – [communication avec les morts](./Communication avec les morts.md) (6 questions, NLS 12)
-  - *1/jour* – [cacophonie](./Cacophonie.md) (DD 15), [invisibilité pour les morts-vivants](./Invisibilité pour les morts-vivants.md) (DD 14)
+  - *À volonté* – [[invisibilité]] (sur lui uniquement)
+  - *3/jour* – [[communication avec les morts]] (6 questions, NLS 12)
+  - *1/jour* – [[cacophonie]] (DD 15), [[invisibilité pour les morts-vivants]] (DD 14)
 (((Statistiques)))
 - **For** 8, **Dex **16, **Con **12, **Int **11, **Sag **13, **Cha **16
 - **BBA **+3 ; **BMO **+4 ; **DMD** 13
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [Vigilance](./Vigilance.md)
-- **Compétences **[Connaissances](./Connaissances.md) (histoire) +6, [Connaissances](./Connaissances.md) (plans) +6, [Discrétion](./Discrétion.md) +17 , [Perception](./Perception.md) +9, [Profession](./Profession.md) (scribe) +7, [Psychologie](./Psychologie.md) +3, Vol +17
+- **Dons **[[Attaque en finesse]], [[Vigilance]]
+- **Compétences **[[Connaissances]] (histoire) +6, [[Connaissances]] (plans) +6, [[Discrétion]] +17 , [[Perception]] +9, [[Profession]] (scribe) +7, [[Psychologie]] +3, Vol +17
 - **Langues **abyssal, céleste, infernal
 - **Particularités **changement de forme (corbeau ou oiseau chanteur (même profil), forme bestiale II), contact spectral
 (((Écologie)))
@@ -42,7 +42,7 @@ LastModified: 2021-07-15 17:27
 Ce pouvoir peut affecter les morts-vivants, malgré l’immunité aux effets mentaux conférée par le sous-type mort-vivant (toutefois, les morts-vivants bénéficiant d’une immunité contre les effets mentaux grâce à une source autre que leur sous-type sont toujours immunisés). Le DD du jet de sauvegarde est basé sur le Charisme.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [psychopompes](./../Golarion/Psychopompes.md).***</li></ul>''Cet étrange volatile noir porte un masque de cuir au bec allongé comme
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Psychopompes]].***</li></ul>''Cet étrange volatile noir porte un masque de cuir au bec allongé comme
 celui d’un médecin de peste.''
 
 Les nosoïs jouent avec enthousiasme le rôle de clerc, de scribe et de

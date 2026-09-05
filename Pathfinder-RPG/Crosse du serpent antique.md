@@ -11,10 +11,10 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Crosse du serpent antique|{s:RSE}}
-**Aura** [Divination](./école divination.md), [Évocation](./Évocation.md) et [Nécromancie](./Nécromancie.md) puissante ; **NLS** 13 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 70 000 po ; **Poids** 2,5 kg
+**Aura** [[école Divination|Divination]], [[Évocation]] et [[Nécromancie]] puissante ; **NLS** 13 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 70 000 po ; **Poids** 2,5 kg
 (((Description)))
 <u>***Contenu issu d'un supplément 3.5***</u>
-Ce bâton de fonction, nu au sommet et incurvé, possède tous les pouvoirs d’un *[sceptre de flétrissement](./Sceptre de flétrissement.md)* et d’un *[sceptre de détection des ennemis](./Sceptre de détection des ennemis.md)*. Il peut aussi stocker un sort offensif, comme une arme dotée de la propriété *[stockage de sort](./stockage de sort (propriété).md)*.
+Ce bâton de fonction, nu au sommet et incurvé, possède tous les pouvoirs d’un *[[sceptre de flétrissement]]* et d’un *[[sceptre de détection des ennemis]]*. Il peut aussi stocker un sort offensif, comme une arme dotée de la propriété *[[stockage de sort (propriété)|stockage de sort]]*.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[contagion](./Contagion.md)*, *[vision lucide](./Vision lucide.md)*, le créateur doit être au moins de niveau 12 ; **Coût** 35 000 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[contagion]]*, *[[vision lucide]]*, le créateur doit être au moins de niveau 12 ; **Coût** 35 000 po
 </div>

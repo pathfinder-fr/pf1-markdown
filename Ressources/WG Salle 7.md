@@ -6,7 +6,7 @@ Categories:
 - Weekly Grind
 ---
 
-<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=212914872085776) publiée avec l'autorisation de l'auteur Jason Bulmahn — [retour à l'index](./Informations-Weekly-Grind.md)</p>
+<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/note.php?note_id=212914872085776) publiée avec l'autorisation de l'auteur Jason Bulmahn — [[Informations.Weekly Grind|retour à l'index]]</p>
 Cette salle qui relie la salle de garde et les cellules des prisonniers sert d'endroit de stockage pour tous les biens de valeur et l'équipement confisqués aux prisonniers avant que ceux-ci ne soient emmenés et sacrifiés. Lorsque les PJ entrent dans cette salle, lisez-leur le texte suivant.
 
 <center><img src="http://www.pathfinder-fr.org/Wiki/public/upload/Illustrations/WeeklyGrind/wg7.jpg" /></center>
@@ -25,13 +25,13 @@ De plus, lorsque le niveau de l'eau s'élève, une herse tombe entre les deux sa
 <div class="BD">
 {s:BDTitre|Élémentaires de l'Eau fiélons de taille M (2)|FP 4}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Extérieur](./../Pathfinder-RPG/type Extérieur.md) ([Eau](./../Pathfinder-RPG/sous-type Eau.md), [élémentaire](./../Pathfinder-RPG/sous-type élémentaire.md), [extraplanaire](./../Pathfinder-RPG/sous-type extraplanaire.md)) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./../Pathfinder-RPG/Perception.md) +5}
+{s:BDTexte|[[Pathfinder-RPG.type Extérieur|Extérieur]] ([[sous-type Eau|Eau]], [[Pathfinder-RPG.sous-type élémentaire|élémentaire]], [[Pathfinder-RPG.sous-type extraplanaire|extraplanaire]]) de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18 m (12 {s:c}) ; [[Pathfinder-RPG.Perception|Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 11, pris au dépourvu 17 (Dex +1, naturelle +6)}
 {s:BDTexte|**pv** 30 (4d10+8)}
 {s:BDTexte|**Réf** +5, **Vig** +6, **Vol** +1}
-{s:BDTexte|**Immunités** [traits des élémentaires](./../Pathfinder-RPG/sous-type élémentaire.md) ; **Résistances** feu 5, froid 5 ; **RM** 9}
+{s:BDTexte|**Immunités** [[Pathfinder-RPG.sous-type élémentaire|traits des élémentaires]] ; **Résistances** feu 5, froid 5 ; **RM** 9}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), nage 27 m (18 {s:c})}
 {s:BDTexte|**Corps à corps** coup, +7 (1d8+4)}
@@ -39,8 +39,8 @@ De plus, lorsque le niveau de l'eau s'élève, une herse tombe entre les deux sa
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 12, **Con** 15, **Int** 4, **Sag** 11, **Cha** 11}
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 18}
-{s:BDTexte|**Dons** [Attaque en puissance](./../Pathfinder-RPG/Attaque en puissance.md), [Enchaînement](./../Pathfinder-RPG/Enchaînement.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./../Pathfinder-RPG/Acrobaties.md) +6, [Connaissances](./../Pathfinder-RPG/Connaissances.md) (plans) +2, [Discrétion](./../Pathfinder-RPG/Discrétion.md) +6, [Évasion](./../Pathfinder-RPG/Évasion.md) +6, [Natation](./../Pathfinder-RPG/Natation.md) +16, [Perception](./../Pathfinder-RPG/Perception.md) +5}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]], [[Pathfinder-RPG.Enchaînement|Enchaînement]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Acrobaties|Acrobaties]] +6, [[Pathfinder-RPG.Connaissances|Connaissances]] (plans) +2, [[Pathfinder-RPG.Discrétion|Discrétion]] +6, [[Pathfinder-RPG.Évasion|Évasion]] +6, [[Pathfinder-RPG.Natation|Natation]] +16, [[Pathfinder-RPG.Perception|Perception]] +5}
 </div>
 </td><td>
 **Les salles au trésor.** Les trésors et l'équipement des prisonniers du culte leur sont arrachés et rangés dans cette salle, dans l'une des quatre salles au trésor protégées par des *murs de force*. Ces murs peuvent être dissipés en utilisant un code spécifique qui doit être entré en touchant des crânes colorés montés sur un piédestal au centre de la salle. Il y a 8 crânes au sommet du piédestal, présentés dans l'ordre suivant : noir, rouge, orange, jaune, vert, bleu, violet et blanc. Les codes suivants ont les effets indiqués. En plus de cela, il y a un crâne non coloré au centre du piédestal ; celui-ci peut pivoter. Pour ouvrir une des salles au trésor, le crâne doit regarder dans la direction de la salle en question.

@@ -11,12 +11,12 @@ Categories:
 
 {s:GC}*La vérité a été révélée et vous avez été choisi pour la transmettre.*
 
-**Catégorie.** [histoire](./Dons.md#DONHISTOIRE)
+**Catégorie.** [[Dons#DONHISTOIRE|histoire]]
 
-**Conditions.** Être capable de lancer des sorts divins et avoir reçu une vision de votre dieu (ou d’une entité surnaturelle appropriée) ou avoir l’[historique](./Générateur dhistorique.md) Marqué par les dieux.
+**Conditions.** Être capable de lancer des sorts divins et avoir reçu une vision de votre dieu (ou d’une entité surnaturelle appropriée) ou avoir l’[[Générateur dhistorique|historique]] Marqué par les dieux.
 
-**Avantages.** Si vous n’êtes pas Mauvais et que vous ne vénérez pas une divinité Mauvaise, dès que vous lancez un sort bénéfique sur un allié, vous gagnez un bonus sacré de +1 à la [CA](./CA.md) pendant un [round](./round.md) par [niveau](./niveau.md) du sort lancé. Si vous êtes Mauvais ou que vous vénérez une divinité Mauvaise, à chaque fois que vous lancez un sort néfaste sur un ennemi, vous gagnez un bonus impie de +1 à la CA pendant un round par niveau du sort lancé. Si vous lancez le sort sur vous-même, il ne compte pas, à moins qu’il affecte aussi un allié.
+**Avantages.** Si vous n’êtes pas Mauvais et que vous ne vénérez pas une divinité Mauvaise, dès que vous lancez un sort bénéfique sur un allié, vous gagnez un bonus sacré de +1 à la [[CA]] pendant un [[round]] par [[niveau]] du sort lancé. Si vous êtes Mauvais ou que vous vénérez une divinité Mauvaise, à chaque fois que vous lancez un sort néfaste sur un ennemi, vous gagnez un bonus impie de +1 à la CA pendant un round par niveau du sort lancé. Si vous lancez le sort sur vous-même, il ne compte pas, à moins qu’il affecte aussi un allié.
 
 **Objectif.** Convertissez un nombre approprié de créatures au culte de votre dieu.
 
-**Avantage de réussite.** Quand vous lancez des sorts bénéfiques sur des alliés ou des sorts néfastes sur des ennemis, votre bonus à la CA passe à +2. Il s’applique aussi aux [jets de sauvegarde](./JDS.md) pour la même durée.
+**Avantage de réussite.** Quand vous lancez des sorts bénéfiques sur des alliés ou des sorts néfastes sur des ennemis, votre bonus à la CA passe à +2. Il s’applique aussi aux [[jds|jets de sauvegarde]] pour la même durée.

@@ -16,28 +16,28 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Illusion](./Illusion.md) ([chimère](./branche chimère.md)) ; **Niveau** [Bard](./Barde.md) 0, [Hyp](./Hypnotiseur.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Magus](./Magus.md) 0, [Méd](./Médium.md) 0, [Occ](./Occultiste.md) 0, [Psy](./Psychiste.md) 0  
+**École** [[Illusion]] ([[branche chimère|chimère]]) ; **Niveau** [[Barde|Bard]] 0, [[Hypnotiseur|Hyp]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Médium|Méd]] 0, [[Occultiste|Occ]] 0, [[Psychiste|Psy]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un brin de laine ou un morceau de cire)  
+**Composantes** [[composantes|V, G, M]] (un brin de laine ou un morceau de cire)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** sons illusoires  
 
-**Durée** 1 round/[niveau](./niveau.md) (T)  
+**Durée** 1 round/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [dévoile](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] ; **Résistance à la magie** non
 
-{s:FAQ|***[→](./FAQ- Manuel des joueurs (Magie et sorts).md#35) *Son imaginaire* : Peut-il manifester des paroles intelligibles ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs (Magie et sorts)#35|→]] *Son imaginaire* : Peut-il manifester des paroles intelligibles ?***
 
-Manifester un son qui ressemble à des paroles, et en faire de véritables paroles intelligibles sont deux choses différentes. <u>*[Son imaginaire](./Son imaginaire.md)*</u> peut faire croire à des personnes qui parlent, mais quelqu’un qui écoute est incapable de comprendre ce que ces « personnes » disent. Après tout, c’est un tour de magie, et il ne devrait pas être aussi efficace que *[ventriloquie](./Ventriloquie.md)* (qui est un sort de plus haut niveau).}Ce sort permet de créer un son d’intensité stable ou changeante (qui monte, qui descend, qui se rapproche, etc.). Le personnage choisit le type de bruit qu’il souhaite obtenir au cours de l’incantation et ne peut plus le modifier par la suite.
+Manifester un son qui ressemble à des paroles, et en faire de véritables paroles intelligibles sont deux choses différentes. <u>*[[Son imaginaire]]*</u> peut faire croire à des personnes qui parlent, mais quelqu’un qui écoute est incapable de comprendre ce que ces « personnes » disent. Après tout, c’est un tour de magie, et il ne devrait pas être aussi efficace que *[[ventriloquie]]* (qui est un sort de plus haut niveau).}Ce sort permet de créer un son d’intensité stable ou changeante (qui monte, qui descend, qui se rapproche, etc.). Le personnage choisit le type de bruit qu’il souhaite obtenir au cours de l’incantation et ne peut plus le modifier par la suite.
 
-Le volume du son dépend du [niveau](./niveau.md) du personnage, qui peut faire autant de bruit que quatre humains normaux par [niveau de lanceur de sorts](./NLS.md) (jusqu’à un maximum de quarante humains). Le personnage peut faire croire que des gens chantent ou crient non loin, qu’ils marchent, qu’ils courent, etc. Le son généré peut prendre n’importe quelle forme, du moment qu’il ne dépasse pas les limites de volume imposées. Une horde de rats qui courent et piaillent fait autant de bruit que huit humains qui se livrent au même exercice. Le rugissement d’un lion fait autant de bruit que seize humains, alors que le rugissement d’un dragon vaut trente-deux humains.
+Le volume du son dépend du [[niveau]] du personnage, qui peut faire autant de bruit que quatre humains normaux par [[NLS|niveau de lanceur de sorts]] (jusqu’à un maximum de quarante humains). Le personnage peut faire croire que des gens chantent ou crient non loin, qu’ils marchent, qu’ils courent, etc. Le son généré peut prendre n’importe quelle forme, du moment qu’il ne dépasse pas les limites de volume imposées. Une horde de rats qui courent et piaillent fait autant de bruit que huit humains qui se livrent au même exercice. Le rugissement d’un lion fait autant de bruit que seize humains, alors que le rugissement d’un dragon vaut trente-deux humains.
 
-Toute personne qui entend un *son imaginaire* a droit à un jet de [Volonté](./Volonté.md) pour dévoiler la supercherie.
+Toute personne qui entend un *son imaginaire* a droit à un jet de [[Volonté]] pour dévoiler la supercherie.
 
-À noter que *son imaginaire* permet d’augmenter fortement l’efficacité d’*[image silencieuse](./Image silencieuse.md)*.
+À noter que *son imaginaire* permet d’augmenter fortement l’efficacité d’*[[image silencieuse]]*.
 
-On peut rendre le *son imaginaire* permanent à l’aide d’un sort de *[permanence](./Permanence.md)*.
+On peut rendre le *son imaginaire* permanent à l’aide d’un sort de *[[permanence]]*.

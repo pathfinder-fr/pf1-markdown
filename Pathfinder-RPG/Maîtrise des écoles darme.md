@@ -11,10 +11,10 @@ Categories:
 
 {s:cs}{s:WMH}*Vous pouvez combiner deux postures d'écoles de combat.*
 
-**Catégorie :** [maîtrise d'arme](./Dons.md#MAITRISEDARME), [école](./Dons.md#DONECOLE)
+**Catégorie :** [[Dons#MAITRISEDARME|maîtrise d'arme]], [[Dons#DONECOLE|école]]
 
-**Conditions.** Deux [dons d'école](./dons décole.md) d'écoles différentes, [BBA](./BBA.md) +6, capacité de classe [entrainement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) avec une arme de corps à corps
+**Conditions.** Deux [[Dons décole|dons d'école]] d'écoles différentes, [[BBA]] +6, capacité de classe [[Guerrier#ENTRAINEMENTAUXARMES|entrainement aux armes]] avec une arme de corps à corps
 
-**Avantage.** Le personnage choisit une [école de combat](./Dons.md#DONECOLE) d'arme (un don d'école ayant pour prérequis le don [Arme de prédilection](./Arme de prédilection.md)) qu'il possède. Il peut bénéficier des effets de l'école choisie ainsi que ceux qu'une autre école qu'il possède simultanément. Activer la posture des dons d'école nécessite toujours une [action rapide](./Action rapide.md), mais le personnage peut adopter la posture d'école d'arme choisie et une autre posture d'école simultanément avec la même action. Cette capacité ne se cumule pas avec d'autres capacités permettant d'adopter plusieurs postures d'école simultanément.
+**Avantage.** Le personnage choisit une [[Dons#DONECOLE|école de combat]] d'arme (un don d'école ayant pour prérequis le don [[Arme de prédilection]]) qu'il possède. Il peut bénéficier des effets de l'école choisie ainsi que ceux qu'une autre école qu'il possède simultanément. Activer la posture des dons d'école nécessite toujours une [[action rapide]], mais le personnage peut adopter la posture d'école d'arme choisie et une autre posture d'école simultanément avec la même action. Cette capacité ne se cumule pas avec d'autres capacités permettant d'adopter plusieurs postures d'école simultanément.
 
-**Normal.** Le personnage ne peut activer qu'une seule [posture d'école](./Dons.md#DONECOLE) à la fois.
+**Normal.** Le personnage ne peut activer qu'une seule [[Dons#DONECOLE|posture d'école]] à la fois.

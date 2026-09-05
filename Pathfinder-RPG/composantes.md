@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#COMPOSANTES
 ---
 
->>> [Présentation des sorts#COMPOSANTES](./Présentation des sorts.md#COMPOSANTES)
+>>> [[Présentation des sorts#COMPOSANTES]]

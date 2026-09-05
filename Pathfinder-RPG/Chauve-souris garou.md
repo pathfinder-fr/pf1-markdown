@@ -13,8 +13,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4* p.180}
 {s:BDTexte|**PX** 800}
 {s:BDTexte|Chauve-souris garou naturelle, humain roublard 3}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md), [métamorphe](./sous-type métamorphe.md)) de taille M, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 12 (armure +2, Dex +2)}
 {s:BDTexte|**pv** 23 (3d8+6)}
@@ -28,10 +28,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 15, **Con** 15, **Int** 10, **Sag** 14, **Cha** 6}
 {s:BDTexte|**BBA** +2, **BMO** +4, **DMD** 16}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée courte), [Attaques réflexes](./Attaques réflexes.md), [Manœuvres agiles](./Manœuvres agiles.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8, [Déguisement](./Déguisement.md) +4, [Discrétion](./Discrétion.md) +8, [Dressage](./Dressage.md) +1, [Escalade](./Escalade.md) +9, [Escamotage](./Escamotage.md) +8, [Intimidation](./Intimidation.md) +4, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +8, [Sabotage](./Sabotage.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée courte), [[Attaques réflexes]], [[Manœuvres agiles]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8, [[Déguisement]] +4, [[Discrétion]] +8, [[Dressage]] +1, [[Escalade]] +9, [[Escamotage]] +8, [[Intimidation]] +4, [[Perception]] +8, [[Psychologie]] +8, [[Sabotage]] +8}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (humain, hybride, et chauve-souris ; *[métamorphose](./métamorphose.md)*), empathie lycanthropique ([chauves-souris](./Chauve-souris.md) et [chauve-souris sanguinaires](./Chauve-souris sanguinaire.md)), recherche des pièges +1, talents de roublard (équilibriste)}
+{s:BDTexte|**Particularités** [[changement de forme (capacité)|changement de forme]] (humain, hybride, et chauve-souris ; *[[métamorphose]]*), empathie lycanthropique ([[chauve-souris|chauves-souris]] et [[chauve-souris sanguinaire|chauve-souris sanguinaires]]), recherche des pièges +1, talents de roublard (équilibriste)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou collines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, paire ou groupe (3-5)}
@@ -43,8 +43,8 @@ Categories:
 {s:pucem|Humanoïde|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4* p.180}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md), [métamorphe](./sous-type métamorphe.md)) de taille M, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]], [[sous-type métamorphe|métamorphe]]) de taille M, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 12, pris au dépourvu 14 (armure +2, Dex +2, naturelle +2)}
 {s:BDTexte|**pv** 26 (3d8+9)}
@@ -57,10 +57,10 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 15, **Con** 17, **Int** 10, **Sag** 14, **Cha** 6}
 {s:BDTexte|**BBA** +2, **BMO** +4, **DMD** 17}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (épée courte), [Attaques réflexes](./Attaques réflexes.md), [Manœuvres agiles](./Manœuvres agiles.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8, [Déguisement](./Déguisement.md) +4, [Discrétion](./Discrétion.md) +8, [Dressage](./Dressage.md) +1, [Escalade](./Escalade.md) +8, [Escamotage](./Escamotage.md) +8, [Intimidation](./Intimidation.md) +4, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +8, [Sabotage](./Sabotage.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (épée courte), [[Attaques réflexes]], [[Manœuvres agiles]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8, [[Déguisement]] +4, [[Discrétion]] +8, [[Dressage]] +1, [[Escalade]] +8, [[Escamotage]] +8, [[Intimidation]] +4, [[Perception]] +8, [[Psychologie]] +8, [[Sabotage]] +8}
 {s:BDTexte|**Langues** commun}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (humain, hybride, et chauve-souris ; *[métamorphose](./métamorphose.md)*), empathie lycanthropique ([chauves-souris](./Chauve-souris.md) et [chauve-souris sanguinaires](./Chauve-souris sanguinaire.md)), recherche des pièges +1, talents de roublard (équilibriste)}
+{s:BDTexte|**Particularités** [[changement de forme (capacité)|changement de forme]] (humain, hybride, et chauve-souris ; *[[métamorphose]]*), empathie lycanthropique ([[chauve-souris|chauves-souris]] et [[chauve-souris sanguinaire|chauve-souris sanguinaires]]), recherche des pièges +1, talents de roublard (équilibriste)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou collines tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, paire ou groupe (3-5)}
@@ -73,24 +73,24 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Chauve-souris garou](./Chauve-souris garou.md) || 3
+| [[Chauve-souris garou]] || 3
 |-
-| [Crocodile garou](./Crocodile garou.md) || 3
+| [[Crocodile garou]] || 3
 |-
-| [Loup-garou](./Loup-garou.md) || 2
+| [[Loup-garou]] || 2
 |-
-| [Ours-garou](./Ours-garou.md) || 4
+| [[Ours-garou]] || 4
 |-
-| [Rat-garou](./Rat-garou.md) || 2
+| [[Rat-garou]] || 2
 |-
-| [Requin garou](./Requin garou.md) || 3
+| [[Requin garou]] || 3
 |-
-| [Sanglier-garou](./Sanglier-garou.md) || 2
+| [[Sanglier-garou]] || 2
 |-
-| [Tigre-garou](./Tigre-garou.md) || 4
+| [[Tigre-garou]] || 4
 |}
 </div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Lycanthrope](./Lycanthrope, archétype.md).***</li></ul>*Cet humanoïde couvert de fourrure possède des crocs protubérants. Une fine membrane de peau s’étend entre ses bras et ses flancs.*
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Lycanthrope, archétype|Lycanthrope]].***</li></ul>*Cet humanoïde couvert de fourrure possède des crocs protubérants. Une fine membrane de peau s’étend entre ses bras et ses flancs.*
 
 Les chauves-souris garous sont des hybrides entre les
 chauves-souris vampiriques et les humanoïdes perpétuellement

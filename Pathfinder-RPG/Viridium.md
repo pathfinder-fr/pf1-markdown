@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Matériaux spéciaux#VIRIDIUM
 ---
 
->>> [Matériaux spéciaux#VIRIDIUM](./Matériaux spéciaux.md#VIRIDIUM)
+>>> [[Matériaux spéciaux#VIRIDIUM]]

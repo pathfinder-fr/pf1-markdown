@@ -9,14 +9,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [Illusion](./Illusion.md) ([hallucination](./branche hallucination.md)) ; **Niveau** [barde](./Barde.md) 4, [ensorceleur](./Ensorceleur.md)/[magicien](./Magicien.md) 4, [sorcière](./Sorcière.md) 4  
+**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[barde]] 4, [[ensorceleur]]/[[magicien]] 4, [[sorcière]] 4  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui  
 
-**Restriction de cible** *[explosion](./Explosion.md)* (émanation)
+**Restriction de cible** *[[explosion]]* (émanation)
 
-Lorsqu’il est lancé, un sort incluant cet effet rend les objets ou les créatures désignés par le lanceur et situés dans sa portée [invisibles](./Invisible.md), et ce tant qu’ils restent dans cette zone, n’attaquent pas et n’entreprennent pas d’action offensive. Tous les objets portés par les cibles du sort restent eux aussi [invisibles](./Invisible.md) tant qu’elles restent dans la zone du sort. Une flèche tirée d’un arc redevient visible quand elle en sort de la zone.
+Lorsqu’il est lancé, un sort incluant cet effet rend les objets ou les créatures désignés par le lanceur et situés dans sa portée [[invisible|invisibles]], et ce tant qu’ils restent dans cette zone, n’attaquent pas et n’entreprennent pas d’action offensive. Tous les objets portés par les cibles du sort restent eux aussi [[invisible|invisibles]] tant qu’elles restent dans la zone du sort. Une flèche tirée d’un arc redevient visible quand elle en sort de la zone.
 
 **Augmentation.** La cible ne devient pas visible si elle attaque ou si elle entreprend une action offensive. Augmenter cet effet améliore le niveau du sort de 2.

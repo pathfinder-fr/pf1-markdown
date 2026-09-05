@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#CONTACTSAUMARCHENOIR
 ---
 
->>> [Talents#CONTACTSAUMARCHENOIR](./Talents.md#CONTACTSAUMARCHENOIR)
+>>> [[Talents#CONTACTSAUMARCHENOIR]]

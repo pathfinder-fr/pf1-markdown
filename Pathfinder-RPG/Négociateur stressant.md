@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous avez maîtrisé l'art de l'intimidation pour obtenir ce que vous voulez sans subir de répercussions indésirables.*
 
-**Conditions.** [Persuasion](./Persuasion.md)
+**Conditions.** [[Persuasion]]
 
-**Avantages.** Lorsque le personnage réussit à utiliser la compétence [Intimidation](./Intimidation.md) pour forcer un adversaire à être amical envers lui, cet adversaire doit effectuer un jet de [Volonté](./Volonté.md) une fois que l'intimidation se termine. Le [DD](./DD.md) est égal à 10 + le nombre de rangs en Intimidation du personnage. Si la cible rate son jet de sauvegarde, après que la période d'intimidation soit expirée, elle conserve la même attitude envers le personnage qu'elle avait à la base (généralement indifférente) et ne rapportera pas son comportement aux autorités.
+**Avantages.** Lorsque le personnage réussit à utiliser la compétence [[Intimidation]] pour forcer un adversaire à être amical envers lui, cet adversaire doit effectuer un jet de [[Volonté]] une fois que l'intimidation se termine. Le [[DD]] est égal à 10 + le nombre de rangs en Intimidation du personnage. Si la cible rate son jet de sauvegarde, après que la période d'intimidation soit expirée, elle conserve la même attitude envers le personnage qu'elle avait à la base (généralement indifférente) et ne rapportera pas son comportement aux autorités.
 
 **Normal.** La cible d'une Intimidation réussie devient inamicale envers le personnage et rapporte son comportement aux autorités après la durée de l'intimidation.

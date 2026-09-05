@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Esipil|FP 2}
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
-{s:BDTexte|*Source : [Bestiaire 5 p.229](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.229]]*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [sahkil](./sous-type sahkil.md)) de taille TP, NM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type sahkil|sahkil]]) de taille TP, NM}
+{s:BDTexte|**Init** +7 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 15, pris au dépourvu 13 (Dex +3, naturelle +1, taille +2)}
 {s:BDTexte|**pv** 19 (3d10+3)}
@@ -22,29 +22,29 @@ Categories:
 {s:BDTexte|**RD** 5/Bien ; **Immunités** effets de mort, effets de terreur, maladie, poison ; **Résistances** électricité 10, froid 10, son 10}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m}
-{s:BDTexte|**Corps à corps** morsure, +4 (1d4-1 plus [étreinte](./Étreinte (capacité).md)) et 2 griffes, +4 (1d3-1)}
+{s:BDTexte|**Corps à corps** morsure, +4 (1d4-1 plus [[Étreinte (capacité)|étreinte]]) et 2 griffes, +4 (1d3-1)}
 {s:BDTexte|**Attaques spéciales** assaut déroutant, étreinte (Petit), regard terrible (9 m, DD 14), contact spectral}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 3 ; [concentration](./concentration.md) +4)}
-{s:BDSorts|À volonté — *[frayeur](./Frayeur.md)* (DD 14), *[manipulation à distance](./Manipulation à distance.md)*}
-{s:BDSorts|3/jour — *[image miroir](./Image miroir.md)*}
-{s:BDSorts|1/semaine — *[contact avec les plans](./Contact avec les plans.md)*}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 3 ; [[concentration]] +4)}
+{s:BDSorts|À volonté — *[[frayeur]]* (DD 14), *[[manipulation à distance]]*}
+{s:BDSorts|3/jour — *[[image miroir]]*}
+{s:BDSorts|1/semaine — *[[contact avec les plans]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 16, **Con** 13, **Int** 9, **Sag** 12, **Cha** 12}
 {s:BDTexte|**BBA** +3 ; **BMO** +4 ; **DMD** 13}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) (Intimidation)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +9, [Connaissances](./Connaissances.md) (plans) +5, [Discrétion](./Discrétion.md) +17, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +7}
-{s:BDTexte|**Langues** abyssal, céleste, commun, infernal ; [télépathie](./Télépathie (capacité).md) (contact)}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) ([chat](./Chat.md) ou [chien](./Chien.md) de taille TP ; *[forme bestiale II](./Forme bestiale II.md)*), convocation facile, émotion dominante}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]], [[Talent]] (Intimidation)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +9, [[Connaissances]] (plans) +5, [[Discrétion]] +17, [[Intimidation]] +10, [[Perception]] +7}
+{s:BDTexte|**Langues** abyssal, céleste, commun, infernal ; [[Télépathie (capacité)|télépathie]] (contact)}
+{s:BDTexte|**Particularités** [[Changement de forme (capacité)|changement de forme]] ([[chat]] ou [[chien]] de taille TP ; *[[forme bestiale II]]*), convocation facile, émotion dominante}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous (plan Éthéré)}
 {s:BDTexte|**Organisation** solitaire ou meute (2-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Assaut déroutant (Sur).** Si un esipil réussit un [coup critique](./coup critique.md) avec une de ses [attaques naturelles](./Attaques naturelles (capacité).md), sa cible est [confuse](./Confus.md) pendant 1 round.}
-{s:BDTexte|**Regard terrible (Sur).** Une créature qui est affectée par le [regard](./sous-type sahkil.md) d’un esipil est [secouée](./Secoué.md) pendant 1 round.}
+{s:BDTexte|**Assaut déroutant (Sur).** Si un esipil réussit un [[coup critique]] avec une de ses [[Attaques naturelles (capacité)|attaques naturelles]], sa cible est [[confus|confuse]] pendant 1 round.}
+{s:BDTexte|**Regard terrible (Sur).** Une créature qui est affectée par le [[sous-type Sahkil|regard]] d’un esipil est [[secoué|secouée]] pendant 1 round.}
 
 </div></td>
-<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [sahkils](./Sahkil.md).***</li></ul>*Le torse canin massif de cette créature repose sur une masse visqueuse qui évoque un ver de terre. Des veines dégoûtantes pendent de son visage.*
+<td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Sahkil|sahkils]].***</li></ul>*Le torse canin massif de cette créature repose sur une masse visqueuse qui évoque un ver de terre. Des veines dégoûtantes pendent de son visage.*
 
 Les esipils se nourrissent du malaise qui naît de la vie avec les bêtes. Dans le monde civilisé, les animaux ont beau avoir été domestiqués, ils sont encore proches de leur état sauvage et les esipils font en sorte que les humanoïdes qui les côtoient s’en rappellent. Les esipils s’attirent les bonnes grâces d’humanoïdes (particulièrement des lanceurs de sorts maléfiques susceptibles de les adopter comme familiers) en se comportant comme des animaux de compagnie aimants. Puis ils prennent un malin plaisir à avoir des accès d’agressivité, aboyant et mordant jusqu’à ce que leur maître intervienne. Ils reprennent ensuite une attitude d’obéissance servile… jusqu’au prochain et inévitable éclat.
 
@@ -54,5 +54,5 @@ Malgré sa puissante capacité à terrifier ses victimes, un esipil ne se repose
 
 Les esipils mesurent 30 centimètres au garrot et leur fin corps de ver s’étend sur près de 90 centimètres. Ils pèsent environ 6,5 kilos.
 
-Bien qu’ils se révèlent être de turbulents compagnons, les esipils apprécient de servir des créatures plus puissantes qu’eux et se montrent fiers du pouvoir de leur maître, même si cela ne les empêche pas de grogner et de claquer des dents quand il leur donne un ordre. Un lanceur de sorts Neutre Mauvais qui est au moins niveau 7 et qui choisit de prendre le don [Familier supérieur](./Familier supérieur.md) peut choisir un esipil comme familier.
+Bien qu’ils se révèlent être de turbulents compagnons, les esipils apprécient de servir des créatures plus puissantes qu’eux et se montrent fiers du pouvoir de leur maître, même si cela ne les empêche pas de grogner et de claquer des dents quand il leur donne un ordre. Un lanceur de sorts Neutre Mauvais qui est au moins niveau 7 et qui choisit de prendre le don [[Familier supérieur]] peut choisir un esipil comme familier.
 </div></td></tr></table>

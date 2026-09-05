@@ -11,32 +11,32 @@ Categories:
 <div class="BD">
 {s:BDTitre|Vase putride|FP 11}
 {s:pucem|Vase|Ruines-Donjons|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.278](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.278]]*}
 {s:BDTexte|**PX** 12 800}
-{s:BDTexte|[Vase](./type Vase.md) de taille TG, N}
-{s:BDTexte|**Init** -1 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) à 18 m ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] de taille TG, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[Vision aveugle (capacité)|vision aveugle]] à 18 m ; [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 7, contact 7, pris au dépourvu 7 (Dex -1, taille -2)}
 {s:BDTexte|**pv** 172 (15d8+105)}
 {s:BDTexte|**Réf** +4, **Vig** +12, **Vol** +0}
-{s:BDTexte|**RD** 10/— ; **Immunités** [traits des vases](./Traits des vases (capacité).md) ; **Résistances** électricité 20, feu 20}
+{s:BDTexte|**RD** 10/— ; **Immunités** [[Traits des vases (capacité)|traits des vases]] ; **Résistances** électricité 20, feu 20}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m, escalade 6 m, nage 9 m}
-{s:BDTexte|**Corps à corps** coup, +20 (6d6+16 plus 2d6 acide et [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** coup, +20 (6d6+16 plus 2d6 acide et [[Étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Distance** éclaboussure, +8 (10d6 acide)}
 {s:BDTexte|**Espace occupé** 4,5 m ; **Allonge** 3 m}
-{s:BDTexte|**Attaques spéciales** [constriction](./Constriction (capacité).md) (6d6+16 plus 2d6 acide), acide putride, éclaboussure}
+{s:BDTexte|**Attaques spéciales** [[Constriction (capacité)|constriction]] (6d6+16 plus 2d6 acide), acide putride, éclaboussure}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 32, **Dex** 9, **Con** 24, **Int** —, **Sag** 1, **Cha** 1}
-{s:BDTexte|**BBA** +11 ; **BMO** +24 (+28 en [lutte](./lutte.md)) ; **DMD** 33 (croc-en-jambe impossible)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +19, [Natation](./Natation.md) +19}
+{s:BDTexte|**BBA** +11 ; **BMO** +24 (+28 en [[lutte]]) ; **DMD** 33 (croc-en-jambe impossible)}
+{s:BDTexte|**Compétences** [[Escalade]] +19, [[Natation]] +19}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Acide putride (Ext).** Une vase putride sécrète un acide digestif capable de dissoudre sans mal les métaux et la matière organique, mais qui n’a pas d’effet sur la pierre. Chaque fois qu’une créature subit des dégâts acides causés par une vase putride, ses vêtements et son armure subissent le même nombre de dégâts acides qu’elle ([Réflexes](./Réflexes.md) DD 23 annule les dégâts aux vêtements et armures). Une arme en métal ou en bois utilisée pour frapper une vase putride subit 2d6 points de dégâts acides, à moins que l’attaquant ne réussisse un jet de Réflexes DD 23. Si une vase putride reste en contact avec un objet en bois ou en métal pendant 1 round complet, cet objet subit 30 points de dégâts acides (aucun jet de sauvegarde). Le DD des jets de sauvegarde est basé sur la Constitution.}
-{s:BDTexte|**Éclaboussure (Ext).** Par une [action simple](./Action simple.md), une vase putride peut projeter une portion de sa boue acide sur une créature qui se trouve dans un rayon de 9 mètres. La vase putride doit réussir un [jet d'attaque](./jet dattaque.md) à distance pour toucher sa cible. Les créatures touchées par les éclaboussures subissent 10d6 points de dégâts acides.}
+{s:BDTexte|**Acide putride (Ext).** Une vase putride sécrète un acide digestif capable de dissoudre sans mal les métaux et la matière organique, mais qui n’a pas d’effet sur la pierre. Chaque fois qu’une créature subit des dégâts acides causés par une vase putride, ses vêtements et son armure subissent le même nombre de dégâts acides qu’elle ([[Réflexes]] DD 23 annule les dégâts aux vêtements et armures). Une arme en métal ou en bois utilisée pour frapper une vase putride subit 2d6 points de dégâts acides, à moins que l’attaquant ne réussisse un jet de Réflexes DD 23. Si une vase putride reste en contact avec un objet en bois ou en métal pendant 1 round complet, cet objet subit 30 points de dégâts acides (aucun jet de sauvegarde). Le DD des jets de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Éclaboussure (Ext).** Par une [[action simple]], une vase putride peut projeter une portion de sa boue acide sur une créature qui se trouve dans un rayon de 9 mètres. La vase putride doit réussir un [[jet dattaque|jet d'attaque]] à distance pour toucher sa cible. Les créatures touchées par les éclaboussures subissent 10d6 points de dégâts acides.}
 
 </div></td>
 <td><div>*Des agrégats de charognes et de déchets émergent de cette énorme flaque de boue ondulante.*

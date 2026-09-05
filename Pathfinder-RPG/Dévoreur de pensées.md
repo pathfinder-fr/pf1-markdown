@@ -15,8 +15,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Extraplanaire}
 {s:BDtexte|*Source : Bestiaire 5 p.81*}
 {s:BDtexte|**PX** 600}
-{s:BDtexte|[Aberration](./type Aberration.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille TP, N}
-{s:BDtexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +8}
+{s:BDtexte|[[type Aberration|Aberration]] ([[sous-type extraplanaire|extraplanaire]]) de taille TP, N}
+{s:BDtexte|**Init** +8 ; **Sens** [[vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +8}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 16, contact 16, pris au dépourvu 12 (Dex +4, taille +2)}
 {s:BDtexte|**pv** 18 (4d8)}
@@ -25,22 +25,22 @@ Categories:
 {s:BDtexte|**VD** 3 m, vol 9 m (parfaite)}
 {s:BDtexte|**Corps à corps** morsure, +9 (1d3-3 plus dégustation de pensées)}
 {s:BDtexte|**Espace occupé** 0,75 m ; **Allonge** 0 m}
-{s:BDtexte|**Magie psychique** ([NLS](./NLS.md) 4 ; [concentration](./concentration.md) +6)}
-{s:BDsorts|5 [EP](./Magie psychique (capacité).md) — *[détection de pensées](./Détection de pensées.md)* (2 EP, DD 14), *[hébétement de monstre](./Hébétement de monstre.md)* (2 EP, DD 14), *[identification](./Identification.md)* (1 EP), *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)* (2 EP)}
+{s:BDtexte|**Magie psychique** ([[NLS]] 4 ; [[concentration]] +6)}
+{s:BDsorts|5 [[Magie psychique (capacité)|EP]] — *[[détection de pensées]]* (2 EP, DD 14), *[[hébétement de monstre]]* (2 EP, DD 14), *[[identification]]* (1 EP), *[[résistance aux énergies destructives]]* (2 EP)}
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 4, **Dex** 19, **Con** 10, **Int** 7, **Sag** 12, **Cha** 15}
 {s:BDtexte|**BBA** +3, **BMO** +5, **DMD** 12}
-{s:BDtexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDtexte|**Compétences** [Discrétion](./Discrétion.md) +19, [Perception](./Perception.md) +8, [Vol](./Vol.md) +16}
-{s:BDtexte|**Langues** aklo (incapable de parler) ; [télépathie](./Télépathie (capacité).md) à 9 m}
+{s:BDtexte|**Dons** [[Attaque en finesse]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDtexte|**Compétences** [[Discrétion]] +19, [[Perception]] +8, [[Vol]] +16}
+{s:BDtexte|**Langues** aklo (incapable de parler) ; [[Télépathie (capacité)|télépathie]] à 9 m}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** tous (plan Éthéré)}
 {s:BDtexte|**Organisation sociale** solitaire ou groupe (1-3)}
 {s:BDtexte|**Trésor** aucun}
 {s:BDsoustitre|Pouvoirs spéciaux}
 {s:BDtexte|**Corps éthéré (Sur).** La peau et les organes du dévoreur de pensées sont principalement composés de tissu éthéré. Il subit donc seulement la moitié des dégâts infligés par des armes non-magiques mais les armes magiques et les sorts l’affectent normalement. À chaque fois que le dévoreur de pensées passe une minute sur un plan autre que le plan Éthéré, il doit dépenser 1 EP, sans quoi il subit 1d6 points de dégâts alors que son corps commence à se dissiper.}
-{s:BDtexte|**Dégustation de pensées (Sur).** Une créature vivante et tangible qui subit des dégâts infligés par la morsure d’un dévoreur de pensées perd une partie de ses pensées, que la créature absorbe pour se nourrir. Si la victime est un lanceur de sorts, elle perd un unique sort préparé ou un unique emplacement de sort non-utilisé (pour les lanceurs de sorts spontanés) de niveau 1 ou supérieur. C’est au lanceur de sorts de choisir quel sort ou emplacement disparaît à cause de ce pouvoir. Si la victime n’est pas un lanceur de sorts ou si elle n’a pas de sort préparé ou d’emplacement disponible et rate son [jet de sauvegarde](./jet de sauvegarde.md) contre ce pouvoir, elle subit un [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) d’[Intelligence](./Intelligence.md), de [Sagesse](./Sagesse.md) ou de [Charisme](./Charisme.md) de 1 point (c’est à elle de choisir la caractéristique affectée). Quand une créature perd un sort, un emplacement de sort ou subit un affaiblissement de caractéristique à cause de ce pouvoir, le dévoreur de pensées gagne 1 EP (sans dépasser son total quotidien maximal qui est de 5 pour la plupart des dévoreurs).}
-{s:BDtexte|**Traversée de l’éther (Mag).** Un dévoreur de pensées peut passer du plan Éthéré au plan Matériel par une [action de mouvement](./Action de mouvement.md) et du plan Matériel au plan Éthéré par une [action complexe](./Action complexe.md). Il doit dépenser 1 EP pour effectuer ce dernier déplacement tandis que le passage du plan Éthéré au plan Matériel ne lui coûte rien. Ces deux types de déplacements provoquent des [attaques d’opportunité](./AO.md).}
+{s:BDtexte|**Dégustation de pensées (Sur).** Une créature vivante et tangible qui subit des dégâts infligés par la morsure d’un dévoreur de pensées perd une partie de ses pensées, que la créature absorbe pour se nourrir. Si la victime est un lanceur de sorts, elle perd un unique sort préparé ou un unique emplacement de sort non-utilisé (pour les lanceurs de sorts spontanés) de niveau 1 ou supérieur. C’est au lanceur de sorts de choisir quel sort ou emplacement disparaît à cause de ce pouvoir. Si la victime n’est pas un lanceur de sorts ou si elle n’a pas de sort préparé ou d’emplacement disponible et rate son [[jet de sauvegarde]] contre ce pouvoir, elle subit un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] d’[[Intelligence]], de [[Sagesse]] ou de [[Charisme]] de 1 point (c’est à elle de choisir la caractéristique affectée). Quand une créature perd un sort, un emplacement de sort ou subit un affaiblissement de caractéristique à cause de ce pouvoir, le dévoreur de pensées gagne 1 EP (sans dépasser son total quotidien maximal qui est de 5 pour la plupart des dévoreurs).}
+{s:BDtexte|**Traversée de l’éther (Mag).** Un dévoreur de pensées peut passer du plan Éthéré au plan Matériel par une [[action de mouvement]] et du plan Matériel au plan Éthéré par une [[action complexe]]. Il doit dépenser 1 EP pour effectuer ce dernier déplacement tandis que le passage du plan Éthéré au plan Matériel ne lui coûte rien. Ces deux types de déplacements provoquent des [[AO|attaques d’opportunité]].}
 </div>
 </td>
 <td>

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Forêt-Jungle|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 3 p.30*}
 {s:BDTexte|**PX** 19 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md)) de taille G, CM}
-{s:BDTexte|**Init** +8 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +22}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]]) de taille G, CM}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +22}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 25, contact 13, pris au dépourvu 21 (Dex +4, naturelle +12, taille -1)}
 {s:BDTexte|**pv** 168 (16d10+80) ; guérison accélérée 10}
@@ -27,23 +27,23 @@ Categories:
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
 {s:BDTexte|**Attaques spéciales** défi monstrueux, étreinte dévorante, immobilisation à une main}
 {s:BDTexte|**Pouvoirs magiques** (NLS 16 ; concentration +19}
-{s:BDSorts|Constant - *[détection de l'invisibilité](./Détection de linvisibilité.md)*}
-{s:BDSorts|A volonté - *[dissipation de la magie](./Dissipation de la magie.md)*, *[téléportation](./téléportation.md)* (personnelle plus 25 kilos d'objets uniquement)}
-{s:BDSorts|3/jour - *[immobilisation de personne](./Immobilisation de personne.md)* à [incantation rapide](./Incantation rapide.md) (DD 16)}
-{s:BDSorts|1/jour - convocation (niveau 4, 1d4 [gorilles sanguinaires](./Gorille sanguinaire.md) 50% ou 1d2 [girallons](./Girallon.md) 35%), *[ténèbres maudites](./Ténèbres maudites.md)* (DD 17)}
+{s:BDSorts|Constant - *[[détection de linvisibilité|détection de l'invisibilité]]*}
+{s:BDSorts|A volonté - *[[dissipation de la magie]]*, *[[téléportation]]* (personnelle plus 25 kilos d'objets uniquement)}
+{s:BDSorts|3/jour - *[[immobilisation de personne]]* à [[incantation rapide]] (DD 16)}
+{s:BDSorts|1/jour - convocation (niveau 4, 1d4 [[gorille sanguinaire|gorilles sanguinaires]] 50% ou 1d2 [[girallon|girallons]] 35%), *[[ténèbres maudites]]* (DD 17)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 19, **Con** 20, **Int** 15, **Sag** 16, **Cha** 17}
-{s:BDTexte|**BBA** +16, **BMO** +25 (+29 [lutte](./lutte.md)), **DMD** 39}
-{s:BDTexte|**Dons**  [Attaque en puissance](./Attaque en puissance.md), [Don pour les critiques](./Don pour les critiques.md), [Force intimidante](./Force intimidante.md), [Lancer improvisé](./Lancer improvisé.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (*[immobilisation de personne](./Immobilisation de personne.md)*), [S’avancer](./Savancer.md), [Science de l’initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences**  [Acrobaties](./Acrobaties.md) +15, [Bluff](./Bluff.md) +14, [Connaissances](./Connaissances.md) (nature) +10, [Connaissances](./Connaissances.md) (plans) +13, [Diplomatie](./Diplomatie.md) +11, [Discrétion](./Discrétion.md) +19, [Escalade](./Escalade.md) +27, [Intimidation](./Intimidation.md) +30, [Natation](./Natation.md) +16, [Perception](./Perception.md) +22, [Psychologie](./Psychologie.md) +14, [Survie](./Survie.md) +19}
+{s:BDTexte|**BBA** +16, **BMO** +25 (+29 [[lutte]]), **DMD** 39}
+{s:BDTexte|**Dons**  [[Attaque en puissance]], [[Don pour les critiques]], [[Force intimidante]], [[Lancer improvisé]], [[Pouvoir magique rapide]] (*[[immobilisation de personne]]*), [[savancer|S’avancer]], [[Science de linitiative|Science de l’initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences**  [[Acrobaties]] +15, [[Bluff]] +14, [[Connaissances]] (nature) +10, [[Connaissances]] (plans) +13, [[Diplomatie]] +11, [[Discrétion]] +19, [[Escalade]] +27, [[Intimidation]] +30, [[Natation]] +16, [[Perception]] +22, [[Psychologie]] +14, [[Survie]] +19}
 {s:BDTexte|**Langues** abyssal, céleste, commun, draconique ; télépathie à 30 m (20 {s:c}).}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes (Abysses)}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou troupe (3-5)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Défi monstrueux (Sur).** Par une [action simple](./Action simple.md), le barégare peut faire un test d’[Intimidation](./Intimidation.md) pour démoraliser son adversaire. S’il réussit, il sent la puissance monter en lui et bénéficie d’un bonus de +4 en [Force](./Force.md) et en [Constitution](./Constitution.md) pendant 10 minutes. Il peut utiliser cette capacité trois fois par jour.}
-{s:BDTexte|**Étreinte dévorante (Ext).** La bouche située au milieu de la poitrine du barégare inflige automatiquement 2d8+4 points de dégâts par [round](./round.md) à toute créature que le barégare parvient à saisir.}
+{s:BDTexte|**Défi monstrueux (Sur).** Par une [[action simple]], le barégare peut faire un test d’[[Intimidation]] pour démoraliser son adversaire. S’il réussit, il sent la puissance monter en lui et bénéficie d’un bonus de +4 en [[Force]] et en [[Constitution]] pendant 10 minutes. Il peut utiliser cette capacité trois fois par jour.}
+{s:BDTexte|**Étreinte dévorante (Ext).** La bouche située au milieu de la poitrine du barégare inflige automatiquement 2d8+4 points de dégâts par [[round]] à toute créature que le barégare parvient à saisir.}
 {s:BDTexte|**Immobilisation à une main (Ext).** Les bras énormes du barégare lui permettent d’initier et de maintenir une prise sans souffrir du malus standard de -4 s’appliquant à une créature qui n’a pas les deux mains libres}
 
 </div>

@@ -10,7 +10,7 @@ LastModified: 2020-11-24 23:46
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 47*}
 - 9 600 PX
-- [Aberration](./type Aberration.md) de taille G, CM
+- [[type aberration|Aberration]] de taille G, CM
 - **Init **-2 ; **Sens **vision dans le noir à 18 m, odorat ; Perception +9
 - **Aura **puanteur abominable (3 m, DD 24, 1d4 rounds)
 (((Défense)))
@@ -27,8 +27,8 @@ LastModified: 2020-11-24 23:46
 (((Statistiques)))
 - **For **27, **Dex **7, **Con **28, **Int **4, **Sag **7, **Cha **8
 - **BBA **+9 ; **BMO** +18 (+20 pour la bousculade) ; **DMD **26 (28 contre la bousculade)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Coup fabuleux](./Coup fabuleux.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Science de la bousculade](./Science de la bousculade.md)
-- **Compétences **[Discrétion](./Discrétion.md) +0 (+4 dans les souterrains), [Escalade](./Escalade.md) +12, [Perception](./Perception.md) +9
+- **Dons **[[Attaque en puissance]], [[Attaques multiples]], [[Coup fabuleux]], [[Enchaînement]], [[Frappe décisive]], [[Science de la bousculade]]
+- **Compétences **[[Discrétion]] +0 (+4 dans les souterrains), [[Escalade]] +12, [[Perception]] +9
 - **Modificateurs raciaux** +4 en Discrétion dans les souterrains
 - **Langues **draconique
 (((Écologie)))
@@ -48,17 +48,17 @@ LastModified: 2020-11-24 23:46
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Drider](./Drider.md) || 7
+| [[Drider]] || 7
 |-
-| [Ghonhatine](./Ghonhatine.md) || 10
+| [[Ghonhatine]] || 10
 |-
-| [Grothlut](./Grothlut.md) || 3
+| [[Grothlut]] || 3
 |-
-| [Halsora](./Halsora.md) || 7
+| [[Halsora]] || 7
 |-
-| [Irnakurse](./Irnakurse.md) || 9
+| [[Irnakurse]] || 9
 |}
-</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Créature distordue](./Créature distordue, archétype.md).***</li></ul>*Même voûté et à quatre pattes, ce béhémoth reptilien domine encore sa proie tandis qu’il fait sauvagement claquer ses dents saillantes.*
+</div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature distordue, archétype|Créature distordue]].***</li></ul>*Même voûté et à quatre pattes, ce béhémoth reptilien domine encore sa proie tandis qu’il fait sauvagement claquer ses dents saillantes.*
 
 
 Troglodytes que les drows ont soumis à la distorsion de la

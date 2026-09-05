@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Aasimar (race)|aasimars|Illustrations/PNJ/Aasimar.jpg}{s:MR}**Prix** 300 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Cette lanterne polie abrite une *[flamme éternelle](./Flamme éternelle.md)* et diffuse de la lumière comme une [lampe](./Lampe (objet).md) normale. Si son réservoir de cristal et de pièces de métal consacré est rempli d’[eau bénite](./Eau bénite (objet).md), la lumière de la lampe est sanctifiée pendant 24 heures, rajoutant un bonus de +1 au [DD](./DD.md) du [jet de sauvegarde](./JDS.md) de la [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) positive ou la canalisation d’énergie pour blesser les [extérieurs](./type Extérieur.md) Mauvais situés dans un rayon de 9 mètres.
+Cette lanterne polie abrite une *[[flamme éternelle]]* et diffuse de la lumière comme une [[Lampe (objet)|lampe]] normale. Si son réservoir de cristal et de pièces de métal consacré est rempli d’[[Eau bénite (objet)|eau bénite]], la lumière de la lampe est sanctifiée pendant 24 heures, rajoutant un bonus de +1 au [[DD]] du [[jds|jet de sauvegarde]] de la [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] positive ou la canalisation d’énergie pour blesser les [[type Extérieur|extérieurs]] Mauvais situés dans un rayon de 9 mètres.

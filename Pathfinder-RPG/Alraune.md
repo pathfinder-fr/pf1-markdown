@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 page 11*}
 {s:BDTexte|**PX** 25 600}
-{s:BDTexte|[Plante](./type Plante.md) de taille G, NM}
-{s:BDTexte|**Init** +5 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Plante|Plante]] de taille G, NM}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision nocturne]] ; [[Perception]] +17}
 {s:BDTexte|**Aura ** parfum apaisant (12 cases, DD 24)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 27, contact 10, pris au dépourvu 26 (Dex +1, naturelle +17, taille -1)}
 {s:BDTexte|**pv** 199 (19d8+114)}
 {s:BDTexte|**Réf** +9, **Vig** +17, **Vol** +11}
-{s:BDTexte|**Immunité** [traits des plantes](./Traits des plantes.md) ; **RM** 24}
+{s:BDTexte|**Immunité** [[traits des plantes]] ; **RM** 24}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** 4 lianes, +20 (1d10+7 plus [étreinte](./Étreinte.md) et [saignement](./Saignement.md))}
+{s:BDTexte|**Corps à corps** 4 lianes, +20 (1d10+7 plus [[étreinte]] et [[saignement]])}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}), **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaque spéciale**  [constriction](./constriction.md) (1d10+10), ingestion de cadavres, [saignement](./Saignement.md) (2d6)}
+{s:BDTexte|**Attaque spéciale**  [[constriction]] (1d10+10), ingestion de cadavres, [[saignement]] (2d6)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 13e ; concentration +18)}
-{s:BDSorts|À volonté — *[charme-monstre](./Charme-monstre.md)* (DD 19), *[détection de pensées](./Détection de pensées.md)* (DD 17), *[suggestion](./Suggestion.md)* (DD 18)}
-{s:BDSorts|3/jour — *[immobilisation de monstre](./Immobilisation de monstre.md)* (DD 20),  *[poussière scintillante](./Poussière scintillante.md)* ([incantation rapide](./Incantation rapide.md), DD 17)}
-{s:BDSorts|1/jour — *[brume mentale](./Brume mentale.md)*, *[communion avec la nature](./Communion avec la nature.md)*, *[mur d’épines](./Mur dépines.md)*}
+{s:BDSorts|À volonté — *[[charme-monstre]]* (DD 19), *[[détection de pensées]]* (DD 17), *[[suggestion]]* (DD 18)}
+{s:BDSorts|3/jour — *[[immobilisation de monstre]]* (DD 20),  *[[poussière scintillante]]* ([[incantation rapide]], DD 17)}
+{s:BDSorts|1/jour — *[[brume mentale]]*, *[[communion avec la nature]]*, *[[mur dépines|mur d’épines]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 24, **Dex** 13, **Con** 22, **Int** 10, **Sag** 17, **Cha** 21}
-{s:BDTexte|**BBA** +14, **BMO** +22 (+26 [lutte](./lutte.md)), **DMD** 33 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Succession d’enchaînements](./Succession denchaînements.md), [Fourberie](./Fourberie.md), [Frappe décisive](./Frappe décisive.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (*poussière scintillante*), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +16, [Connaissances](./Connaissances.md) (nature) +9, [Déguisement](./Déguisement.md) +9, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +14}
+{s:BDTexte|**BBA** +14, **BMO** +22 (+26 [[lutte]]), **DMD** 33 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Succession denchaînements|Succession d’enchaînements]], [[Fourberie]], [[Frappe décisive]], [[Pouvoir magique rapide]] (*poussière scintillante*), [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Vigilance]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Bluff]] +16, [[Connaissances]] (nature) +9, [[Déguisement]] +9, [[Perception]] +17, [[Psychologie]] +14}
 {s:BDTexte|**Langues** aklo, commun, elfique, sylvestre}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts tempérées}
@@ -43,7 +43,7 @@ Categories:
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Ingestion de cadavres (Ext).**Les racines de l’alraune peuvent se nourrir d’une cible sans défense ou consentante. Au bout d’une heure, la victime est drainée de 1d6 points permanents de Constitution et d’Intelligence, tandis que l’alraune guérit de 3d6 points de dégâts.}
-{s:BDTexte|**Parfum apaisant (Sur).** Un doux parfum surnaturel, apaisant les nerfs et tempérant l’agressivité, entoure constamment l’alraune dans un rayon de 18 m. Toutes les créatures présentes dans la zone d’effet doivent réussir un jet de [Volonté](./Volonté.md) de DD 24 au début de leur tour pour ne pas succomber aux effets d’apaisement des émotions pendant  1 round. Les créatures qui pourraient être attirées par un individu du sexe apparent de l’alraune reçoivent  un malus de -2 à leur jet de [Volonté](./Volonté.md), tandis que les autres reçoivent un bonus de +2 au test. C’est un effet mental. Le DD du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).}
+{s:BDTexte|**Parfum apaisant (Sur).** Un doux parfum surnaturel, apaisant les nerfs et tempérant l’agressivité, entoure constamment l’alraune dans un rayon de 18 m. Toutes les créatures présentes dans la zone d’effet doivent réussir un jet de [[Volonté]] de DD 24 au début de leur tour pour ne pas succomber aux effets d’apaisement des émotions pendant  1 round. Les créatures qui pourraient être attirées par un individu du sexe apparent de l’alraune reçoivent  un malus de -2 à leur jet de [[Volonté]], tandis que les autres reçoivent un bonus de +2 au test. C’est un effet mental. Le DD du jet de sauvegarde est basé sur le [[Charisme]].}
 
 </div>
 </td><td><div>

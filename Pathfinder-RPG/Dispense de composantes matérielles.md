@@ -8,7 +8,7 @@ Categories:
 
 *Le personnage peut lancer de nombreux sorts sans utiliser de composantes matérielles mineures.*
 
-**Avantage.** Le personnage peut lancer des sorts nécessitant une [composante](./composante.md) matérielle de 1 po ou moins sans utiliser cette composante. L’incantation provoque tout de même des [attaques d’opportunité](./attaque dopportunité.md). Le personnage doit fournir les composantes matérielles dont le prix est supérieur à 1 po.
+**Avantage.** Le personnage peut lancer des sorts nécessitant une [[composante]] matérielle de 1 po ou moins sans utiliser cette composante. L’incantation provoque tout de même des [[attaque dopportunité|attaques d’opportunité]]. Le personnage doit fournir les composantes matérielles dont le prix est supérieur à 1 po.
 
 {s:CMy}
 ### Version mythique
@@ -16,4 +16,4 @@ Categories:
 
 **Condition.** Dispense de composantes matérielles
 
-**Avantage.** Le personnage peut lancer n’importe quel sort de son répertoire sans disposer des composantes matérielles dont le prix est inférieur ou égal à 10 po par [grade](./Grade.md). Si le personnage dépense une utilisation de [pouvoir mythique](./pouvoir mythique.md) lorsqu’il lance un sort qui nécessite une composante matérielle dont le prix est égal ou inférieur à 50 po par [grade](./Grade.md), il peut le lancer sans disposer de cette composante. En dépensant deux utilisations de [pouvoir mythique](./pouvoir mythique.md), il peut lancer un sort sans avoir besoin de fournir une composante matérielle dont le prix est égal ou inférieur à 100 po par [grade](./Grade.md).
+**Avantage.** Le personnage peut lancer n’importe quel sort de son répertoire sans disposer des composantes matérielles dont le prix est inférieur ou égal à 10 po par [[grade]]. Si le personnage dépense une utilisation de [[pouvoir mythique]] lorsqu’il lance un sort qui nécessite une composante matérielle dont le prix est égal ou inférieur à 50 po par [[grade]], il peut le lancer sans disposer de cette composante. En dépensant deux utilisations de [[pouvoir mythique]], il peut lancer un sort sans avoir besoin de fournir une composante matérielle dont le prix est égal ou inférieur à 100 po par [[grade]].

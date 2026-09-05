@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Le personnage avale rapidement l’alcool pour en tirer du ki.*
 
-**Conditions.** Con 18, aptitude de classe de *[ki](./ki.md)* alcoolisé.
+**Conditions.** Con 18, aptitude de classe de *[[ki]]* alcoolisé.
 
-**Avantage.** Une [action rapide](./Action rapide.md) suffit (au lieu d’une action simple) pour consommer de l’alcool fort et gagner du *[ki](./ki.md)* temporaire.
+**Avantage.** Une [[action rapide]] suffit (au lieu d’une action simple) pour consommer de l’alcool fort et gagner du *[[ki]]* temporaire.

@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Dragon|Marais|Froid}
 {s:BDTexte|*Source : Bestiaire 4 page 198*}
 - ** 600 PX**
-- [Dragon](./type Dragon.md) ([aquatique](./sous-type aquatique.md)) de taille TP, CN
+- [[type dragon|Dragon]] ([[sous-type aquatique|aquatique]]) de taille TP, CN
 - **Init **+3 ; **Sens **vision dans le noir à 18 m, vision nocturne, odorat ; Perception +5
 (((Défense)))
 - **CA **16, contact 15, pris au dépourvu 13 (Dex +3, naturelle +1, taille +2)
@@ -28,8 +28,8 @@ Categories:
 (((Statistiques)))
 - **For **13, **Dex** 16, **Con **12, **Int** 5, **Sag **10, **Cha **9
 - **BBA **+3 ; **BMO **+4 ; **DMD** 15 (croc-en–jambe impossible)
-- **Dons** [Attaque en finesse](./Attaque en finesse.md), [Talent](./Talent.md) (Discrétion) 
-- **Compétences **[Discrétion](./Discrétion.md) +20, [Évasion](./Évasion.md) +13, [Natation](./Natation.md) +13, [Perception](./Perception.md) +5, [Vol](./Vol.md) +11 ; **Modificateurs raciaux** +8 en Évasion
+- **Dons** [[Attaque en finesse]], [[Talent]] (Discrétion) 
+- **Compétences **[[Discrétion]] +20, [[Évasion]] +13, [[Natation]] +13, [[Perception]] +5, [[Vol]] +11 ; **Modificateurs raciaux** +8 en Évasion
 - **Langues** draconique (ne sait pas parler)
 - **Particularités **amphibie, insaisissable
 (((Écologie)))

@@ -4,9 +4,9 @@ Title: Les éclats dorés
 LastModified: 2022-02-02 17:14
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page sur le lore de Golarion pour Pathfinder 2](./LORE.md)
+• [[Lore|Retour à la page sur le lore de Golarion pour Pathfinder 2]]
 
 « Es-tu perdue, mon enfant ? »
 

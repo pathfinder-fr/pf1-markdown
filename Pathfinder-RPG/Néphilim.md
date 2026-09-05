@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Extérieur|Collines|Tropical}
 {s:BDTexte|*Source : Bestiaire 3* p.198}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([natif](./sous-type natif.md)) de taille G, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 c) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type natif|natif]]) de taille G, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 c) ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 22, contact 11, pris au dépourvu 20 (armure +6, Dex +2, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 104 (11d10+44)}
 {s:BDTexte|**Réf** +7, **Vig** +13, **Vol** +10; +2 contre les effets de terreur et de chagrin}
-{s:BDTexte|**Capacité défensive** ame-chagrin **RD** 10/magie ; **Résistance** feu 10, froid 10; **[RM](./RM.md)** 19}
+{s:BDTexte|**Capacité défensive** ame-chagrin **RD** 10/magie ; **Résistance** feu 10, froid 10; **[[RM]]** 19}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 c) (9 m en armure)}
 {s:BDTexte|**Corps à corps** épée longue +1, +18/+13/+8 (2d6+11/17-20) ou 2 coups +17 (1d6+7)}
@@ -29,13 +29,13 @@ Categories:
 {s:BDTexte|**Attaques spéciales**coup écrasant, défi mortel}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 15, **Con** 18, **Int** 14, **Sag** 16, **Cha** 17}
-{s:BDTexte|**BBA** +11, **BMO** +19 (+23 [destruction d’arme](./destruction.md)), **DMD** 31 (33 contre la [destruction d’arme](./destruction.md))}
-{s:BDTexte|**Dons** [Arme en main](./Arme en main.md), [Attaque en puissance](./Attaque en puissance.md), [Destruction supérieure](./Destruction darme supérieure.md), [Endurance](./Endurance.md), [Science du critique](./Science du critique.md) (épée longue), [Science de la destruction](./Science de la destruction.md), [Réflexes surhumains](./Réflexes surhumains.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences**  [Bluff](./Bluff.md) +12,
-[Connaissances](./Connaissances.md) (géographie,plans) +11, [Discrétion](./Discrétion.md) +9,
-[Escalade](./Escalade.md) +13, [Diplomatie](./Diplomatie.md) +17,
-[Intimidation](./Intimidation.md) +17, [Perception](./Perception.md) +17,
-[Psychologie](./Psychologie.md) +17, [Survie](./Survie.md) +12}
+{s:BDTexte|**BBA** +11, **BMO** +19 (+23 [[destruction|destruction d’arme]]), **DMD** 31 (33 contre la [[destruction|destruction d’arme]])}
+{s:BDTexte|**Dons** [[Arme en main]], [[Attaque en puissance]], [[Destruction darme supérieure|Destruction supérieure]], [[Endurance]], [[Science du critique]] (épée longue), [[Science de la destruction]], [[Réflexes surhumains]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences**  [[Bluff]] +12,
+[[Connaissances]] (géographie,plans) +11, [[Discrétion]] +9,
+[[Escalade]] +13, [[Diplomatie]] +17,
+[[Intimidation]] +17, [[Perception]] +17,
+[[Psychologie]] +17, [[Survie]] +12}
 {s:BDTexte|**Langues** céleste}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines chaudes}
@@ -43,24 +43,24 @@ Categories:
 {s:BDTexte|**Trésor** double (cuirasse de maître, épée longue +1, 4 lances de maître, autre trésor)}
 {s:BDSousTitre|pouvoirs spéciaux}
 {s:BDTexte|**Âme-chagrin (Ext)**. Le néphilim gagne un bonus de +2 à ses jets de
-[Volonté](./Volonté.md) contre les effets de terreur et tous les effets qui provoquent le chagrin.}
-{s:BDTexte|**Coup écrasant (Ext).** Lorsqu’un néphilim réussit un [coup critique](./coup critique.md)
+[[Volonté]] contre les effets de terreur et tous les effets qui provoquent le chagrin.}
+{s:BDTexte|**Coup écrasant (Ext).** Lorsqu’un néphilim réussit un [[coup critique]]
 sur une attaque de corps à corps, la cible doit réussir un jet de
-[Vigueur](./Vigueur.md) [DD](./DD.md) 22 ou recevoir 3d6 points de [dégâts non létaux](./Dégâts non létaux.md)
-supplémentaires et être [chancelante](./Chancelant.md) pendant 1 [round](./round.md). Le DD du
-[jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Force](./Force.md).}
-{s:BDTexte|**Défi mortel (Sur).** Lorsque le néphilim dépense une [action simple](./Action simple.md)
+[[Vigueur]] [[DD]] 22 ou recevoir 3d6 points de [[dégâts non létaux]]
+supplémentaires et être [[Chancelant|chancelante]] pendant 1 [[round]]. Le DD du
+[[jet de sauvegarde]] est basé sur la [[Force]].}
+{s:BDTexte|**Défi mortel (Sur).** Lorsque le néphilim dépense une [[action simple]]
 pour pousser un cri de guerre et mettre quelqu’un
 au défi, tous les humanoïdes et humanoïdes monstrueux
 présents dans un rayon de 30 mètres doivent réussir un
-jet de [Volonté](./Volonté.md) [DD](./DD.md) 18 ou être [effrayés](./Effrayé.md) pendant 5d6 [round](./round.md)s.
-Sur un jet réussi, les créatures sont simplement [secouées](./Secoué.md)
+jet de [[Volonté]] [[DD]] 18 ou être [[Effrayé|effrayés]] pendant 5d6 [[round]]s.
+Sur un jet réussi, les créatures sont simplement [[Secoué|secouées]]
 pendant cette période. Les créatures ayant plus de DV que le
-néphilim sont [secouées](./Secoué.md) si elles ratent leur [jet de sauvegarde](./jet de sauvegarde.md)
+néphilim sont [[Secoué|secouées]] si elles ratent leur [[jet de sauvegarde]]
 et ne souffrent d’aucun effet si elles le réussissent. Une
-créature qui réussit son [jet de sauvegarde](./jet de sauvegarde.md) est immunisée
+créature qui réussit son [[jet de sauvegarde]] est immunisée
 contre le défi mortel de ce néphilim pendant 24 heures.
-Il s’agit d’un effet mental de terreur. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur le [Charisme](./Charisme.md).}
+Il s’agit d’un effet mental de terreur. Le [[DD]] du [[jet de sauvegarde]] est basé sur le [[Charisme]].}
 </div>
 </td><td><div>
 ''La force et la stature de cet humain aussi grand qu’un géant n’a d’égal

@@ -8,13 +8,13 @@ LastModified: 2019-09-02 20:37
 
 ### LES THÈMES DE BASE
 Voici les thèmes disponibles dans le livre de base de Starfinder.
-- **[Chasseur de primes](./Chasseur de primes.md).** Rien ou presque ne peut vous empêcher de traquer vos proies et de les ramener mortes ou vives..
-- **[Érudit](./../Pathfinder-RPG/Érudit.md).** En tant qu’universitaire, vous avez assimilé une solide base de connaissances diverses et vous êtes toujours avide d’en savoir plus.
-- **[Explorateur stellaire](./Explorateur stellaire.md).** Vous vivez au milieu des étoiles à la recherche de mondes nouveaux à explorer et êtes toujours prêt pour l’aventure.
-- **[Hors-la-loi](./Hors-la-loi.md).** Que vous soyez coupable ou non, vous êtes un criminel recherché dans une cité, sur une planète ou même dans toute la galaxie.
-- **[Icône](./Icône.md).** Vous êtes une célébrité populaire et respectée au sein de l’espace colonisé.
-- **[Mercenaire](./Mercenaire.md).** Vous êtes un mercenaire convenablement entraîné qui joue un rôle essentiel aux côtés de vos compagnons lors des combats.
-- **[Pilote de chasse](./Pilote de chasse.md).** Grâce à vos mains toujours fermes et vos nerfs d’acier, vous êtes devenu un pilote compétent de vaisseaux spatiaux et d’autres véhicules.
-- **[Prêtre](./../Pathfinder-RPG/Prêtre.md).** Votre inébranlable dévotion à une philosophie ou une religion compose l’essentiel de votre personnalité.
-- **[Sans thème](./Sans thème.md).** Aucune des catégories décrites ci-dessus ne vous convient vraiment ou vous vous voyez comme une page blanche.
-- **[Xéno-chercheur](./Xéno-chercheur.md).** En voyageant au-delà des frontières de l’espace des Mondes du Pacte, vous vous efforcez d’établir des contacts avec des formes de vie extraterrestres.
+- **[[Chasseur de primes]].** Rien ou presque ne peut vous empêcher de traquer vos proies et de les ramener mortes ou vives..
+- **[[Érudit]].** En tant qu’universitaire, vous avez assimilé une solide base de connaissances diverses et vous êtes toujours avide d’en savoir plus.
+- **[[Explorateur stellaire]].** Vous vivez au milieu des étoiles à la recherche de mondes nouveaux à explorer et êtes toujours prêt pour l’aventure.
+- **[[Hors-la-loi]].** Que vous soyez coupable ou non, vous êtes un criminel recherché dans une cité, sur une planète ou même dans toute la galaxie.
+- **[[Icône]].** Vous êtes une célébrité populaire et respectée au sein de l’espace colonisé.
+- **[[Mercenaire]].** Vous êtes un mercenaire convenablement entraîné qui joue un rôle essentiel aux côtés de vos compagnons lors des combats.
+- **[[Pilote de chasse]].** Grâce à vos mains toujours fermes et vos nerfs d’acier, vous êtes devenu un pilote compétent de vaisseaux spatiaux et d’autres véhicules.
+- **[[Prêtre]].** Votre inébranlable dévotion à une philosophie ou une religion compose l’essentiel de votre personnalité.
+- **[[Sans thème]].** Aucune des catégories décrites ci-dessus ne vous convient vraiment ou vous vous voyez comme une page blanche.
+- **[[Xéno-chercheur]].** En voyageant au-delà des frontières de l’espace des Mondes du Pacte, vous vous efforcez d’établir des contacts avec des formes de vie extraterrestres.

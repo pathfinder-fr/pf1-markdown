@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 20 po ; **Passage (1,5 km)** 3 cp
-<span class="Catégorie">**Catégorie** [Moyens de transport](./Moyens de transport.md)</span>
+<span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
 ---
 Ce traîneau est conçu pour être tracté sur la neige et la glace par un groupe de chiens d’attelage dressés. La plupart des traîneaux sont équipés de patins à l’arrière pour accueillir un meneur de chiens. Le traîneau peut supporter une capacité égale à la somme de celles que tous les chiens peuvent tracter.

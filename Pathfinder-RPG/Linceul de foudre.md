@@ -9,12 +9,12 @@ Categories:
 - Src Manuel des PNJ
 ---
 
-{s:Desambi|la "Cible" devrait être un "Effet".}{s:MPNJ}**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[électricité](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+{s:Desambi|la "Cible" devrait être un "Effet".}{s:MPNJ}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|électricité]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
 **Cible** étendue de 6 m (4 {s:c}) de rayon
 **Durée** instantanée
 **Jet de sauvegarde** Vigueur, partiel ; **Résistance à la magie** oui
 
-Le lanceur de sorts crée un éclair éblouissant d’électricité qui emplit la zone cible. *Linceul de foudre* inflige 1 point de dégâts d’électricité à toutes les créatures présentes dans la zone d’effet (pas de [jet de sauvegarde](./JDS.md)). La véritable puissance du sort ne réside cependant pas dans les dégâts qu’il inflige mais dans la douleur accablante que provoque l’éclair. L’éclair et le choc soudains [hébètent](./Hébété.md) les créatures vivantes pendant 1 [round](./round.md) si elles échouent leur jet de sauvegarde. Les créatures qui réussissent leur jet de sauvegarde sont, quant à elles, [éblouies](./Ébloui.md) pendant 1 round. Toute créature portant une armure en métal subit un malus de -2 à ce jet de sauvegarde.
+Le lanceur de sorts crée un éclair éblouissant d’électricité qui emplit la zone cible. *Linceul de foudre* inflige 1 point de dégâts d’électricité à toutes les créatures présentes dans la zone d’effet (pas de [[jds|jet de sauvegarde]]). La véritable puissance du sort ne réside cependant pas dans les dégâts qu’il inflige mais dans la douleur accablante que provoque l’éclair. L’éclair et le choc soudains [[hébété|hébètent]] les créatures vivantes pendant 1 [[round]] si elles échouent leur jet de sauvegarde. Les créatures qui réussissent leur jet de sauvegarde sont, quant à elles, [[ébloui|éblouies]] pendant 1 round. Toute créature portant une armure en métal subit un malus de -2 à ce jet de sauvegarde.

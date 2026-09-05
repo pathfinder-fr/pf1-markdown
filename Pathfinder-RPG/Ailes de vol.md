@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Ailes de vol|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 10 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 54 000 po ; **Poids** 1 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 54 000 po ; **Poids** 1 kg
 (((Description)))
-Ces ailes peuvent ressembler à une vieille cape noire taillée dans un tissu ordinaire ou à une élégante cape de plumes bleues. Quand leur porteur prononce le [mot de commande](./Règles relatives aux objets magiques.md#OBJETSAMOTDECOMMANDE), la cape se transforme en ailes de chauve-souris ou d’oiseau et permet à son porteur de voler à une vitesse de 18 m (manœuvrabilité moyenne). Elles ajoutent aussi un bonus de compétence de +5 aux tests de [Vol](./Vol.md).
+Ces ailes peuvent ressembler à une vieille cape noire taillée dans un tissu ordinaire ou à une élégante cape de plumes bleues. Quand leur porteur prononce le [[Règles relatives aux objets magiques#OBJETSAMOTDECOMMANDE|mot de commande]], la cape se transforme en ailes de chauve-souris ou d’oiseau et permet à son porteur de voler à une vitesse de 18 m (manœuvrabilité moyenne). Elles ajoutent aussi un bonus de compétence de +5 aux tests de [[Vol]].
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[vol](./sort Vol.md)* ; **Coût** 27 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[sort vol|vol]]* ; **Coût** 27 000 po
 </div>

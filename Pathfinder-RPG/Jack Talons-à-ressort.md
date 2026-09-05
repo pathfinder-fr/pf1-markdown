@@ -10,7 +10,7 @@ LastModified: 2017-03-19 11:48
 {s:pucem|Fée|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 154*}
 - **800 PX**
-- [Fée](./type Fée.md) de taille P, CM
+- [[type fée|Fée]] de taille P, CM
 - **Init **+5 ; **Sens **vision nocturne ; Perception +7
 (((Défense)))
 - **CA **16, contact 16, pris au dépourvu 11 (Dex +5, taille +1)
@@ -21,13 +21,13 @@ LastModified: 2017-03-19 11:48
 - **Corps à corps** dague de maître, +9 (1d3+2/19-20)
 - **Attaques spéciales** souffle (cône de 4,50 m, 2d6 points de dégâts de feu, Réflexes DD 14 1/2 dégâts, utilisable tous les 2d4 rounds), regard effrayant, saut, attaque sournoise +1d6
 - **Pouvoirs magiques** (**NLS **4 ; concentration +5)
-  - *Permanent* – [feuille morte](./Feuille morte.md), [passage sans trace](./passage sans trace.md)
-  - *1/jour* – [passe-muraille](./Passe-muraille.md)
+  - *Permanent* – [[feuille morte]], [[passage sans trace]]
+  - *1/jour* – [[passe-muraille]]
 (((Statistiques)))
 - **For **15, **Dex **21, **Con **14, **Int **10, **Sag **10, **Cha **13
 - **BBA **+2 ; **BMO **+3 ; **DMD** 18
-- **Dons **[Attaque en finesse](./Attaque en finesse.md), [Robustesse](./Robustesse.md)
-- **Compétences **[Acrobaties](./Acrobaties.md) +12 (+16 pour sauter), [Bluff](./Bluff.md) +6, [Discrétion](./Discrétion.md) +16, [Escalade](./Escalade.md) +9, [Escamotage](./Escamotage.md) +10, [Évasion](./Évasion.md) +12, [Perception](./Perception.md) +7 
+- **Dons **[[Attaque en finesse]], [[Robustesse]]
+- **Compétences **[[Acrobaties]] +12 (+16 pour sauter), [[Bluff]] +6, [[Discrétion]] +16, [[Escalade]] +9, [[Escamotage]] +10, [[Évasion]] +12, [[Perception]] +7 
 - **Modificateurs raciaux** +4 en Acrobaties pour sauter
 - **Langues **commun, sylvestre
 (((Écologie)))

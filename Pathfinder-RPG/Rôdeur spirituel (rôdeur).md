@@ -9,11 +9,11 @@ LastModified: 2011-09-24 21:28
 Un rôdeur spirituel possède les aptitudes de classe suivantes.
 
 #### Pacte spirituel (Ext)
-Au niveau 4, plutôt que de tisser un lien avec ses compagnons de chasse ou avec un compagnon animal, le rôdeur spirituel se rapproche des esprits de la nature eux-mêmes. Chaque jour, tant qu’il se trouve dans l’un de ses [environnements de prédilection](./Rôdeur.md#ENVIRONNEMENTDEPREDILECTION), il peut lancer *[augure](./Augure.md)* sous la forme d’un pouvoir magique avec un [NLS](./NLS.md) égal à son niveau de rôdeur.
+Au niveau 4, plutôt que de tisser un lien avec ses compagnons de chasse ou avec un compagnon animal, le rôdeur spirituel se rapproche des esprits de la nature eux-mêmes. Chaque jour, tant qu’il se trouve dans l’un de ses [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnements de prédilection]], il peut lancer *[[augure]]* sous la forme d’un pouvoir magique avec un [[NLS]] égal à son niveau de rôdeur.
 
 De plus, il peut faire appel aux esprits pour lancer n’importe quel sort de rôdeur qu’il est capable de lancer et ce, même s’il n’a pas préparé le sort en question.
 
-Au niveau 8 et tous les quatre niveaux par la suite, il peut faire appel à eux pour lancer un sort de plus chaque jour. Cette capacité remplace le [Pacte du chasseur](./Rôdeur.md#PACTEDUCHASSEUR).
+Au niveau 8 et tous les quatre niveaux par la suite, il peut faire appel à eux pour lancer un sort de plus chaque jour. Cette capacité remplace le [[rôdeur#PACTEDUCHASSEUR|Pacte du chasseur]].
 
 #### Sagesse des esprits (Mag)
-Au niveau 12, le rôdeur spirituel peut utiliser son pouvoir magique d’*[augure](./Augure.md)* même s’il ne se trouve pas au sein d’un de ses [environnements de prédilection](./Rôdeur.md#ENVIRONNEMENTDEPREDILECTION). S’il est dans un tel environnement, il peut lancer *[divination](./Divination.md)* au lieu d’*[augure](./Augure.md)*. Comme pour augure, le [NLS](./NLS.md) de la divination est égal au niveau du rôdeur. Cette capacité remplace [Camouflage](./Rôdeur.md#CAMOUFLAGE).
+Au niveau 12, le rôdeur spirituel peut utiliser son pouvoir magique d’*[[augure]]* même s’il ne se trouve pas au sein d’un de ses [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnements de prédilection]]. S’il est dans un tel environnement, il peut lancer *[[divination]]* au lieu d’*[[augure]]*. Comme pour augure, le [[NLS]] de la divination est égal au niveau du rôdeur. Cette capacité remplace [[rôdeur#CAMOUFLAGE|Camouflage]].

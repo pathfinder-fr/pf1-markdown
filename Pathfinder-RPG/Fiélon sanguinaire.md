@@ -9,8 +9,8 @@ Categories:
 
 {s:mr}*Les blessures horribles, infligées à ses ennemis ou à lui-même, embrasent le cœur du personnage.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Orque](./orque (race).md) ou [demi-orque](./Demi-orque.md), aptitude de classe de [rage de berserker](./Barbare.md#RAGE)
+**Conditions.** [[orque (race)|Orque]] ou [[demi-orque]], aptitude de classe de [[barbare#RAGE|rage de berserker]]
 
-**Avantage.** Lorsqu’il est en rage et qu’il confirme un [coup critique](./coup critique.md) avec une arme de corps à corps ou souffre d’un coup critique qui lui est infligé (par une arme de corps à corps, un sort ou une arme à distance), le personnage récupère 1 [round](./round.md) de rage.
+**Avantage.** Lorsqu’il est en rage et qu’il confirme un [[coup critique]] avec une arme de corps à corps ou souffre d’un coup critique qui lui est infligé (par une arme de corps à corps, un sort ou une arme à distance), le personnage récupère 1 [[round]] de rage.

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.65*}
 {s:BDTexte|**PX** 25.600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille TG, CM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), *[vision lucide](./Vision lucide.md)* ; [Perception](./Perception.md) +26}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille TG, CM}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), *[[vision lucide]]* ; [[Perception]] +26}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 8, pris au dépourvu 28 (naturelle +20, taille -2)}
 {s:BDTexte|**pv** 186 (12d10+120)}
@@ -25,24 +25,24 @@ Categories:
 {s:BDTexte|**VD**  12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** 2 pinces +20 (2d8+10/19-20), 2 griffes +20 (1d6+10), morsure +20 (1d8+10)}
 {s:BDTexte|**Espace**  4,50 m (3 {s:c}) ; **Allonge**  4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** [éventration](./Éventration.md) (2 pinces, 2d8+15)}
+{s:BDTexte|**Attaques spéciales** [[éventration]] (2 pinces, 2d8+15)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 14<sup>e</sup>)}
-{s:BDSorts|Constant — *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|À volonté — *[confusion](./Confusion.md)* (DD 19), *[dissipation de la magie](./Dissipation de la magie.md)*, *[image miroir](./Image miroir.md)*, *[inversion de la gravité](./Inversion de la gravité.md)* (DD 22), *[marteau du Chaos](./Marteau du chaos.md)* (DD 19), *[téléportation suprême](./Téléportation suprême.md)* (lui-même et 25 kg d'objets uniquement), *[ténèbres maudites](./Ténèbres maudites.md)*, *[voile](./Voile.md)* (sur lui-même uniquement)}
-{s:BDSorts|1/jour — *[convocation](./convocation.md)* (niveau 4, 1 glabrezu 20% ou 1d2 [vrocks](./Vrock.md) 50%), *[mot de pouvoir étourdissant](./Mot de pouvoir étourdissant.md)*}
-{s:BDSorts|1/mois — *[souhait](./Souhait.md)* (accordé à un humanoïde mortel uniquement)}
+{s:BDSorts|Constant — *[[vision lucide]]*}
+{s:BDSorts|À volonté — *[[confusion]]* (DD 19), *[[dissipation de la magie]]*, *[[image miroir]]*, *[[inversion de la gravité]]* (DD 22), *[[marteau du Chaos]]* (DD 19), *[[téléportation suprême]]* (lui-même et 25 kg d'objets uniquement), *[[ténèbres maudites]]*, *[[voile]]* (sur lui-même uniquement)}
+{s:BDSorts|1/jour — *[[convocation]]* (niveau 4, 1 glabrezu 20% ou 1d2 [[vrock|vrocks]] 50%), *[[mot de pouvoir étourdissant]]*}
+{s:BDSorts|1/mois — *[[souhait]]* (accordé à un humanoïde mortel uniquement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 31, **Dex** 11, **Con** 31, **Int** 16, **Sag** 16, **Cha** 20}
 {s:BDTexte|**BBA** +12, **BMO** +24, **DMD** 34}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Frappe décisive](./Frappe décisive.md), [Persuasion](./Persuasion.md), [Science du critique](./Science du critique.md) (pince), [Succession d'enchaînements](./Succession denchaînements.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +28, [Connaissances](./Connaissances.md) (folklore local) +18, [Connaissances](./Connaissances.md) (histoire) +18, [Diplomatie](./Diplomatie.md) +22, [Discrétion](./Discrétion.md) +7, [Intimidation](./Intimidation.md) +22, [Perception](./Perception.md) +26, [Psychologie](./Psychologie.md) +18, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +17 ; **Modificateurs raciaux** [Bluff](./Bluff.md) +8, [Perception](./Perception.md) +8}
-{s:BDTexte|**Langues** abyssal, céleste, draconique ; [télépathie](./Télépathie.md)  30 m (20 {s:c})}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Frappe décisive]], [[Persuasion]], [[Science du critique]] (pince), [[Succession denchaînements|Succession d'enchaînements]]}
+{s:BDTexte|**Compétences** [[Bluff]] +28, [[Connaissances]] (folklore local) +18, [[Connaissances]] (histoire) +18, [[Diplomatie]] +22, [[Discrétion]] +7, [[Intimidation]] +22, [[Perception]] +26, [[Psychologie]] +18, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +17 ; **Modificateurs raciaux** [[Bluff]] +8, [[Perception]] +8}
+{s:BDTexte|**Langues** abyssal, céleste, draconique ; [[télépathie]]  30 m (20 {s:c})}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Abysse)}
-{s:BDTexte|**Organisation sociale** solitaire ou troupe (1 glabrezu, 1 [succube](./Succube.md), et 2-5 [vrocks](./Vrock.md))}
+{s:BDTexte|**Organisation sociale** solitaire ou troupe (1 glabrezu, 1 [[succube]], et 2-5 [[vrock|vrocks]])}
 {s:BDTexte|**Trésor** standard}
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 *Quatre bras jaillissent du torse de ce gigantesque monstre. On décèle dans ses yeux un mélange d’intelligence et de cruauté.*
 
 Si les démons succubes manipulent leurs victimes en

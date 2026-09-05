@@ -11,37 +11,37 @@ Categories:
 <div class="BD">
 {s:BDTitre|Tiyanak|FP 6}
 {s:pucem|Mort-vivant|Forêt-Jungle|Tempéré}
-{s:BDTexte|*Source : [Bestiaire 5 p.258](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.258]]*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille P, CM}
-{s:BDTexte|**Init** +9 ; **Sens** [odorat](./Odorat (capacité).md), [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille P, CM}
+{s:BDTexte|**Init** +9 ; **Sens** [[Odorat (capacité)|odorat]], [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 17, pris au dépourvu 13 (Dex +5, esquive +1, naturelle +2, taille +1)}
 {s:BDTexte|**pv** 76 (9d8+36)}
 {s:BDTexte|**Réf** +8, **Vig** +7, **Vol** +7}
-{s:BDTexte|**Immunités** [traits des morts-vivants](./Traits des morts-vivants (capacité).md)}
+{s:BDTexte|**Immunités** [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
 {s:BDSousTitre|Attaque}
-{s:BDTexte|**VD** 1,50 m, [vol](./Vol (capacité).md) 12 m (bonne)}
+{s:BDTexte|**VD** 1,50 m, [[Vol (capacité)|vol]] 12 m (bonne)}
 {s:BDTexte|**Corps à corps** 2 griffes, +13 (1d6+5) et morsure, +12 (1d6+5/15-20)}
 {s:BDTexte|**Attaques spéciales** démarche rampante, désespoir ravageur, reconstruction sanguinaire}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 9 ; [concentration](./concentration.md) +13)}
-{s:BDSorts|À volonté — *[suggestion](./Suggestion.md)* (DD 16)}
-{s:BDSorts|1/jour — *[cri](./Cri.md)* (DD 18), *[désespoir foudroyant](./Désespoir foudroyant.md)* (DD 17), *[porte dimensionnelle](./Porte dimensionnelle.md)*}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 9 ; [[concentration]] +13)}
+{s:BDSorts|À volonté — *[[suggestion]]* (DD 16)}
+{s:BDSorts|1/jour — *[[cri]]* (DD 18), *[[désespoir foudroyant]]* (DD 17), *[[porte dimensionnelle]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 12, **Dex** 20, **Con** –, **Int** 9, **Sag** 13, **Cha** 19}
 {s:BDTexte|**BBA** +6 ; CMB +6 ; CMD 22}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en finesse](./Attaque en finesse.md)sS, [Esquive](./Esquive.md), [Science de l'initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure)S, [Talent](./Talent.md) (Perception), Toucher des ombres}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +21, [Perception](./Perception.md) +16, [Psychologie](./Psychologie.md) +8, [Vol](./Vol.md) +19}
-{s:BDTexte|**Langues** commun ; [télépathie](./Télépathie (capacité).md) 15 m}
-{s:BDTexte|**Particularités** [imitation de sons](./Imitation de sons (capacité).md) (voix)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Attaque en finesse]]sS, [[Esquive]], [[Science de linitiative|Science de l'initiative]], [[Science du critique]] (morsure)S, [[Talent]] (Perception), Toucher des ombres}
+{s:BDTexte|**Compétences** [[Discrétion]] +21, [[Perception]] +16, [[Psychologie]] +8, [[Vol]] +19}
+{s:BDTexte|**Langues** commun ; [[Télépathie (capacité)|télépathie]] 15 m}
+{s:BDTexte|**Particularités** [[Imitation de sons (capacité)|imitation de sons]] (voix)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** toutes les forêts}
 {s:BDTexte|**Organisation** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Démarche rampante (Ext).** Le tiyanak ne subit jamais de malus lorsqu’il se retrouve [à terre](./À terre.md). Il peut se déplacer à pleine vitesse dans cette position et peut voler sans avoir à se relever.}
-{s:BDTexte|**Désespoir ravageur (Sur).** Le tiyanak ajoute son bonus de [Charisme](./Charisme.md) aux [jets de dégâts](./Valeurs de combat.md#DEGATS) de ses attaques naturelles, en plus de son bonus de [Force](./Force.md). Ces dégâts sont des dégâts de précision : ils ne sont donc pas multipliés en cas de [coup critique](./coup critique.md) et sont inefficaces contre les créatures immunisées contre les coups critiques et les attaques sournoises.}
-{s:BDTexte|**Reconstruction sanguinaire (Sur).** Sur un coup critique réussi lors d’une attaque de morsure, le tiyanak inflige 2d6 points de dégâts supplémentaires et récupère un nombre égal de points de vie. La victime subit également 1d6 points de dégâts de [saignement](./Saignement.md). Tous les points de vie au-dessus du maximum normal du tiyanak deviennent des points de vie temporaires et se dissipent après 1 minute. L'attaque de morsure du tiyanak a une [zone de critique](./coup critique.md) de 18-20 et il obtient [Science du critique](./Science du critique.md) (morsure) comme don supplémentaire.}
+{s:BDTexte|**Démarche rampante (Ext).** Le tiyanak ne subit jamais de malus lorsqu’il se retrouve [[à terre]]. Il peut se déplacer à pleine vitesse dans cette position et peut voler sans avoir à se relever.}
+{s:BDTexte|**Désespoir ravageur (Sur).** Le tiyanak ajoute son bonus de [[Charisme]] aux [[Valeurs de combat#DEGATS|jets de dégâts]] de ses attaques naturelles, en plus de son bonus de [[Force]]. Ces dégâts sont des dégâts de précision : ils ne sont donc pas multipliés en cas de [[coup critique]] et sont inefficaces contre les créatures immunisées contre les coups critiques et les attaques sournoises.}
+{s:BDTexte|**Reconstruction sanguinaire (Sur).** Sur un coup critique réussi lors d’une attaque de morsure, le tiyanak inflige 2d6 points de dégâts supplémentaires et récupère un nombre égal de points de vie. La victime subit également 1d6 points de dégâts de [[saignement]]. Tous les points de vie au-dessus du maximum normal du tiyanak deviennent des points de vie temporaires et se dissipent après 1 minute. L'attaque de morsure du tiyanak a une [[coup critique|zone de critique]] de 18-20 et il obtient [[Science du critique]] (morsure) comme don supplémentaire.}
 
 </div></td>
 <td><div>*Cette créature a la taille et l’apparence d’un petit enfant, mais avec une peau ridée, des yeux pourpres et des dents acérées.*

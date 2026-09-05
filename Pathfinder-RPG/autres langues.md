@@ -4,40 +4,40 @@ Title: autres langues
 LastModified: 2017-01-21 14:11
 ---
 
-{s:Desambi|Sur une idée d'Arkane}*La compétence [Linguistique](./Linguistique.md) offre de nombreuses options mais votre personnage peut souhaiter apprendre d'autres langues que celles déjà proposées et certains sorts ou capacités vous permettent de parler ou de comprendre d'autres langues parlées par des créatures plus inattendues.*
+{s:Desambi|Sur une idée d'Arkane}*La compétence [[Linguistique]] offre de nombreuses options mais votre personnage peut souhaiter apprendre d'autres langues que celles déjà proposées et certains sorts ou capacités vous permettent de parler ou de comprendre d'autres langues parlées par des créatures plus inattendues.*
 
-Certains sorts comme *[communication avec les animaux](./Communication avec les animaux.md)* vous permettent de parler avec des animaux et d'autres du type *[Communication avec les plantes](./Communication avec les plantes.md)* vous permettent de le faire avec les plantes et les créatures de type plante.
+Certains sorts comme *[[communication avec les animaux]]* vous permettent de parler avec des animaux et d'autres du type *[[Communication avec les plantes]]* vous permettent de le faire avec les plantes et les créatures de type plante.
 
 Cette page vous propose de recenser les langues et langages que vous pouvez croiser dans le cadre du jeu. Si vous souhaitez apprendre une de ces langues, vous êtes invités à interroger votre MJ au préalable.
 
 #### Les langues des races extraordinaires et des monstres des bestiaires
-Outre les langages de base des races diverses dont l'énumération est donnée dans la compétence [Linguistique](./Linguistique.md), il en existe d'autres propres à d'autres races ou d'autres monstres.
-- Aboleth ([aboleths](./Aboleth.md))
-- Adlet ([adlets](./Adlet.md))
-- Cyclope ([cyclopes](./Cyclope.md), [grands cyclopes](./Grand cyclope.md))
-- Bourbiérin ([bourbiérins](./Bourbiérin.md))
-- D’ziriak ([d'ziriaks](./Dziriak.md))
-- Girtablilu ([girtablilus](./Girtablilu.md))
-- Grippli ([gripplis](./Grippli.md))
-- Huline ([hommes-félins](./Homme-félin.md))
-- Kasatha ([kasathas](./Kasatha.md))
-- Kech ([kechs](./Kech.md))
-- Munavri ([munavris](./munavri.md))
-- Obscurien/Obscur ([fureteur obscur](./Fureteur obscur.md), [traqueur obscur](./Traqueur obscur.md), [tueur obscur](./Tueur obscur.md))
-- Reptoide ([reptoides](./reptoide.md))
-- Samsaran ([samsarans](./samsaran (race).md))
-- Sasquatch ([sasquatchs](./Sasquatch.md))
-- Sphinx ([androsphinx](./Androsphinx.md), [criosphinx](./Criosphinx.md), [gynosphinx](./gynosphinx.md), [hiéracosphinx](./Hiéracosphinx.md))
-- Strix ([strix](./strix (race).md))
-- Syrinx ([syrinx](./syrinx.md))
-- Tanuki ([tanukis](./Tanuki.md))
-- Tengu ([tengus](./Tengu.md))
-- Thriae ([oracles thriae](./Oracle thriae.md), [reines thriae](./Reine thriae.md), [soldats thriae](./Soldat thriae.md))
-- Triaxien ([triaxiens](./triaxien.md))
-- Vanara ([vanaras](./Vanara.md))
-- Vercésien ([vercésiens](./vercésien.md))
-- Vishkanyan ([vishkanyas](./vishkanya (race).md))
-- Wayang ([wayangs](./wayang (race).md))
+Outre les langages de base des races diverses dont l'énumération est donnée dans la compétence [[Linguistique]], il en existe d'autres propres à d'autres races ou d'autres monstres.
+- Aboleth ([[aboleth|aboleths]])
+- Adlet ([[adlet|adlets]])
+- Cyclope ([[cyclope|cyclopes]], [[grand cyclope|grands cyclopes]])
+- Bourbiérin ([[bourbiérin|bourbiérins]])
+- D’ziriak ([[Dziriak|d'ziriaks]])
+- Girtablilu ([[girtablilu|girtablilus]])
+- Grippli ([[grippli|gripplis]])
+- Huline ([[homme-félin|hommes-félins]])
+- Kasatha ([[kasatha|kasathas]])
+- Kech ([[kech|kechs]])
+- Munavri ([[munavri|munavris]])
+- Obscurien/Obscur ([[fureteur obscur]], [[traqueur obscur]], [[tueur obscur]])
+- Reptoide ([[reptoide|reptoides]])
+- Samsaran ([[samsaran (race)|samsarans]])
+- Sasquatch ([[sasquatch|sasquatchs]])
+- Sphinx ([[androsphinx]], [[criosphinx]], [[gynosphinx]], [[hiéracosphinx]])
+- Strix ([[strix (race)|strix]])
+- Syrinx ([[syrinx]])
+- Tanuki ([[tanuki|tanukis]])
+- Tengu ([[tengu|tengus]])
+- Thriae ([[oracle thriae|oracles thriae]], [[reine thriae|reines thriae]], [[soldat thriae|soldats thriae]])
+- Triaxien ([[triaxien|triaxiens]])
+- Vanara ([[vanara|vanaras]])
+- Vercésien ([[vercésien|vercésiens]])
+- Vishkanyan ([[vishkanya (race)|vishkanyas]])
+- Wayang ([[wayang (race)|wayangs]])
 
 #### Les dialectes tribaux de Golarion
 Il existe également des dialectes tribaux.

@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Anti-projectiles
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Anti-projectiles](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Anti-projectiles)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Anti-projectiles]]

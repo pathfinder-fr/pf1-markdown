@@ -10,32 +10,32 @@ LastModified: 2021-02-23 17:00
 {s:pucem|Vase|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.274*}
 {s:BDTexte|**PX** 76 800}
-{s:BDTexte|[Vase](./type Vase.md) de taille Gig, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) 18 m (12 {s:c}) ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] de taille Gig, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision aveugle (capacité)|vision aveugle]] 18 m (12 {s:c}) ; [[Perception]] -5}
 {s:BDTexte|**Aura** impulsion magnétique (9 m (6 {s:c}), DD 27)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 6, contact 6, pris au dépourvu 6 (taille -4)}
 {s:BDTexte|**pv** 241 (21d8+147)}
 {s:BDTexte|**Réf** +7, **Vig** +14, **Vol** +2}
-{s:BDTexte|**Capacité défensive** [division](./Division (capacité).md) (tranchant ou sonore, 46 [pv](./pv.md)) ; **RD** 15/- ; **Immunité** acide, dégâts contondants et perforants, électricité, feu, [traits des vases](./type Vase.md) ; **Résistance** froid 30}
+{s:BDTexte|**Capacité défensive** [[division (capacité)|division]] (tranchant ou sonore, 46 [[pv]]) ; **RD** 15/- ; **Immunité** acide, dégâts contondants et perforants, électricité, feu, [[type Vase|traits des vases]] ; **Résistance** froid 30}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** vol 9 m (6 {s:c}), (parfaite)}
-{s:BDTexte|**Corps à corps** coup, +24 (4d6+19 plus 4d6 électricité, 4d6 feu et [étreinte](./Étreinte (capacité).md))}
-{s:BDTexte|**A distance** 1d4 rayons de plasma, +11 [contact](./attaque de contact.md) (4d6 électricité et 4d6 feu)}
+{s:BDTexte|**Corps à corps** coup, +24 (4d6+19 plus 4d6 électricité, 4d6 feu et [[étreinte (capacité)|étreinte]])}
+{s:BDTexte|**A distance** 1d4 rayons de plasma, +11 [[attaque de contact|contact]] (4d6 électricité et 4d6 feu)}
 {s:BDTexte|**Espace** 6 m (4 {s:c}) ; **Allonge** 6 m (4 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./Constriction (capacité).md) (4d6+19 plus 4d6 électricité et 4d6 feu), [enveloppement](./Enveloppement (capacité).md) ([DD](./DD.md) 33, 4d6 électricité plus 4d6 feu)}
+{s:BDTexte|**Attaques spéciales** [[constriction (capacité)|constriction]] (4d6+19 plus 4d6 électricité et 4d6 feu), [[enveloppement (capacité)|enveloppement]] ([[DD]] 33, 4d6 électricité plus 4d6 feu)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 36, **Dex** 11, **Con** 24, **Int** -, **Sag** 1, **Cha** 1}
-{s:BDTexte|**BBA** +15, **BMO** +32 (+36 [lutte](./lutte.md)), **DMD** 42 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Compétences** [Vol](./Vol.md) +2}
+{s:BDTexte|**BBA** +15, **BMO** +32 (+36 [[lutte]]), **DMD** 42 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Compétences** [[Vol]] +2}
 {s:BDTexte|**Particularité** ne respire pas}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Impulsion magnétique (Sur).** La vase de plasma est entourée d’une aura de magnétisme qui attire les créatures et les objets métalliques. Au début de son tour, la vase fait un test de [manœuvre offensive](./Manœuvres offensives.md) contre toutes les créatures métalliques, les créatures portant des armures en métal et les créatures maniant des armes en métal qui sont situées dans un [rayon](./rayon.md) de 9 mètres. Si la vase bat le [DMD](./DMD.md) d’une créature de métal ou en armure lors de ce test, la créature est attirée de 3 mètres en direction de la vase et ne peut pas s’en éloigner pendant 1 [round](./round.md). Si cela fait entrer la créature dans une case occupée par la vase de plasma, cette dernière peut tenter d’[envelopper](./Enveloppement (capacité).md) la créature par une [action libre](./Action libre.md). Si la vase bat le [DMD](./DMD.md) d’une créature tenant une arme en métal, la créature est désarmée et l’arme est attirée de 3 mètres en direction de la vase. Les objets en métal non-utilisés, de taille G ou plus petits, sont automatiquement attirés vers la vase de plasma. La nature de ce magnétisme est surnaturelle et affecte tous les objets en métal.}
-{s:BDTexte|**Rayon de plasma (Sur).** Par une [action simple](./Action simple.md), la vase de plasma peut tirer 1d4 rayons de plasma sur un maximum de 4 cibles distinctes situées dans un [rayon](./rayon.md) de 18 mètres (une unique créature ne peut pas être attaquée par plus d’un rayon). Chaque rayon inflige 4d6 points de dégâts d’électricité et 4d6 points de dégâts de feu s’il touche sa cible.}
+{s:BDTexte|**Impulsion magnétique (Sur).** La vase de plasma est entourée d’une aura de magnétisme qui attire les créatures et les objets métalliques. Au début de son tour, la vase fait un test de [[manœuvres offensives|manœuvre offensive]] contre toutes les créatures métalliques, les créatures portant des armures en métal et les créatures maniant des armes en métal qui sont situées dans un [[rayon]] de 9 mètres. Si la vase bat le [[DMD]] d’une créature de métal ou en armure lors de ce test, la créature est attirée de 3 mètres en direction de la vase et ne peut pas s’en éloigner pendant 1 [[round]]. Si cela fait entrer la créature dans une case occupée par la vase de plasma, cette dernière peut tenter d’[[enveloppement (capacité)|envelopper]] la créature par une [[action libre]]. Si la vase bat le [[DMD]] d’une créature tenant une arme en métal, la créature est désarmée et l’arme est attirée de 3 mètres en direction de la vase. Les objets en métal non-utilisés, de taille G ou plus petits, sont automatiquement attirés vers la vase de plasma. La nature de ce magnétisme est surnaturelle et affecte tous les objets en métal.}
+{s:BDTexte|**Rayon de plasma (Sur).** Par une [[action simple]], la vase de plasma peut tirer 1d4 rayons de plasma sur un maximum de 4 cibles distinctes situées dans un [[rayon]] de 18 mètres (une unique créature ne peut pas être attaquée par plus d’un rayon). Chaque rayon inflige 4d6 points de dégâts d’électricité et 4d6 points de dégâts de feu s’il touche sa cible.}
 </div>
 </td><td><div>*Cette masse amorphe d’énergie violette ondule comme un globe de liquide flottant. Elle frappe les airs de vrilles bleu électrique à intervalles réguliers.*
 

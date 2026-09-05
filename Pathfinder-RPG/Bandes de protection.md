@@ -12,19 +12,19 @@ Categories:
 ---
 
 {s:UM}
-**École** [invocation](./Invocation.md) ([création](./branche création.md)) <nowiki>[</nowiki>[force](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Psy](./Psychiste.md) 2  
+**École** [[invocation]] ([[branche création|création]]) <nowiki>[</nowiki>[[registre|force]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Psychiste|Psy]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 1 heure/[niveau](./niveau.md) ou jusqu’à déchargement (T)  
+**Durée** 1 heure/[[niveau]] ou jusqu’à déchargement (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE) ) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]] ) ; **Résistance à la magie** oui
 
-Des bandes de force invisible encerclent les points vitaux de la cible. Elles résistent au broyage et aux impacts sans gêner les mouvements. La cible gagne une [RD](./RD.md) 2/perforant ou tranchant et ne reçoit que la moitié des dégâts de la part de la constriction, des chutes et de l’ensevelissement, ainsi que des effets d’écrasement similaires comme [main broyeuse](./Main broyeuse.md). Les tests de [lutte](./lutte.md) pour autre chose que la constriction (comme une immobilisation ou un engloutissement) ne sont pas affectés. Le sort se décharge après avoir bloqué 12 points de dégâts par
-[niveau de lanceur de sorts](./NLS.md) (avec un maximum de 120 au niveau 10). Les bandes n’ont aucun effet sur les attaques intangibles à moins qu’elles ne fassent des dégâts de constriction ou d’écrasement ou qu’elles ne soient sujettes à la [réduction de dégâts](./RD.md).
+Des bandes de force invisible encerclent les points vitaux de la cible. Elles résistent au broyage et aux impacts sans gêner les mouvements. La cible gagne une [[RD]] 2/perforant ou tranchant et ne reçoit que la moitié des dégâts de la part de la constriction, des chutes et de l’ensevelissement, ainsi que des effets d’écrasement similaires comme [[main broyeuse]]. Les tests de [[lutte]] pour autre chose que la constriction (comme une immobilisation ou un engloutissement) ne sont pas affectés. Le sort se décharge après avoir bloqué 12 points de dégâts par
+[[NLS|niveau de lanceur de sorts]] (avec un maximum de 120 au niveau 10). Les bandes n’ont aucun effet sur les attaques intangibles à moins qu’elles ne fassent des dégâts de constriction ou d’écrasement ou qu’elles ne soient sujettes à la [[RD|réduction de dégâts]].

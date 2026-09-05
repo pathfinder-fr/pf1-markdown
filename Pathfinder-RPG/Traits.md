@@ -45,7 +45,7 @@ qu’une seule.
 Les traits de personnages sont réservés à l’usage des
 personnages-joueurs. Si vous voulez en donner à un PNJ,
 celui-ci doit les « acheter » en acquérant le don
-[Traits supplémentaires](./Traits supplémentaires.md). Les PJ sont spéciaux ; ce sont
+[[Traits supplémentaires]]. Les PJ sont spéciaux ; ce sont
 les vedettes du jeu après tout, et c’est normal qu’ils possèdent
 un avantage de ce genre par rapport aux PNJ du monde.
 
@@ -60,23 +60,23 @@ fonction de leur style de jeu. Il se peut que vous ne puissiez
 choisir qu’un seul trait ou que votre MJ vous permette
 d’en adopter trois ou plus. Même si votre MJ n’autorise
 normalement aucun trait, vous pourriez peut-être en
-acquérir quelques-uns grâce au don [Traits supplémentaires](./Traits supplémentaires.md).
+acquérir quelques-uns grâce au don [[Traits supplémentaires]].
 
 
 ### Les types de traits
 
 Il existe cinq types de traits de personnages : les
-[traits de base](./Traits de base.md) (qui se répartissent entre quatre catégories : combat, foi,
-magie et société), les [traits de campagne](./Traits de campagne.md), les [traits raciaux](./Traits de race.md), les
-[traits régionaux](./Traits régionaux.md) et les [traits religieux](./Traits religieux.md). Seuls quelques traits
+[[traits de base]] (qui se répartissent entre quatre catégories : combat, foi,
+magie et société), les [[traits de campagne]], les [[traits de race|traits raciaux]], les
+[[traits régionaux]] et les [[traits religieux]]. Seuls quelques traits
 choisis sont présentés ci-dessous. Vous trouverez d’autres
 traits correspondant à chacune de ces catégories dans les
 Compagnons du joueur Pathfinder disponibles en boutique ou
 en ligne.
 
-**[Pathfinder-RPG.Traits de base|Les traits de base].** Il y a un total de 40 traits de base qui
-sont répartis en parts égales entre les catégories [Combat](./Traits de combat.md),
-[Foi](./Traits de foi.md), [Magie](./Traits de magie.md) et [Société](./Traits sociaux.md). Notez que chacune de ces quatre
+**[[Pathfinder-RPG.Traits de base|Les traits de base]].** Il y a un total de 40 traits de base qui
+sont répartis en parts égales entre les catégories [[Traits de combat|Combat]],
+[[Traits de foi|Foi]], [[Traits de magie|Magie]] et [[Traits sociaux|Société]]. Notez que chacune de ces quatre
 catégories correspond plus ou moins aux quatre grands types
 d’aventuriers mais qu’elles ne sont pas liées exclusivement à
 des classes spécifiques. Il est tout à fait possible de créer un
@@ -85,16 +85,16 @@ la magie. Les traits de base sont génériques et peuvent donc
 être facilement adaptés à n’importe quel cadre de campagne.
 
 
-**[Traits de campagne|Les traits de campagne].** Ces traits sont conçus tout
+**[[Traits de campagne|Les traits de campagne]].** Ces traits sont conçus tout
 spécialement pour donner aux personnages nouvellement
 créés une raison de s’impliquer dans une nouvelle campagne.
 Vous pourrez trouver des traits de campagne conçus
 spécialement pour chacune des campagnes Pathfinder dans
 les guides du joueur de ces campagnes.
 
-{s:cs}{s:AA}**[Traits déquipement|Les traits d'équipement].** De nombreux aventuriers en viennent à s'appuyer sur certains objets à tel point que l'équipement et l'aventurier deviennent chacun quelque chose de plus grand lorsqu’ils sont ensemble. La symbiose entre les aventuriers et leur équipement est variée et complexe. Vous trouverez ci-dessous plusieurs traits et dons qui aident les personnages à tirer le meilleur parti de leur équipement ou à utiliser leur équipement pour tirer le meilleur parti de leurs compétences.
+{s:cs}{s:AA}**[[Traits déquipement|Les traits d'équipement]].** De nombreux aventuriers en viennent à s'appuyer sur certains objets à tel point que l'équipement et l'aventurier deviennent chacun quelque chose de plus grand lorsqu’ils sont ensemble. La symbiose entre les aventuriers et leur équipement est variée et complexe. Vous trouverez ci-dessous plusieurs traits et dons qui aident les personnages à tirer le meilleur parti de leur équipement ou à utiliser leur équipement pour tirer le meilleur parti de leurs compétences.
 
-**[Pathfinder-RPG.Traits de race|Les traits de race].** Les traits raciaux sont liés à une race
+**[[Pathfinder-RPG.Traits de race|Les traits de race]].** Les traits raciaux sont liés à une race
 ou à une ethnie spécifique et ne peuvent être choisis que
 par les personnages qui y appartiennent. Si votre race
 ou ethnie change par la suite (suite à un effet magique de
@@ -103,7 +103,7 @@ les avantages octroyés par votre trait racial. Ce n’est que si
 votre esprit et vos souvenirs sont également modifiés que
 vous en perdez les effets.
 
-**[Pathfinder-RPG.Traits régionaux|Les traits régionaux].** Les traits régionaux sont liés à une
+**[[Pathfinder-RPG.Traits régionaux|Les traits régionaux]].** Les traits régionaux sont liés à une
 région spécifique qui peut être très vaste (comme une nation
 ou une zone géographique) ou plus réduite (comme une
 cité ou une chaîne de montagnes). Pour pouvoir choisir un
@@ -114,7 +114,7 @@ qu’un seul trait régional (généralement celui qui correspond
 le nombre de régions que votre personnage pourrait avoir
 visitées.
 
-**[Pathfinder-RPG.Traits religieux|Les traits religieux].** Les traits religieux indiquent que
+**[[Pathfinder-RPG.Traits religieux|Les traits religieux]].** Les traits religieux indiquent que
 votre personnage croit en une divinité en particulier. Il ne
 doit pas forcément appartenir à une classe qui manipule
 de la magie divine pour pouvoir choisir un trait religieux
@@ -125,7 +125,7 @@ catégories de traits, les traits religieux peuvent disparaître
 si le personnage abandonne sa religion, comme précisé ci-dessous
 dans la section sur les restrictions.
 
-**[Les handicaps](./Handicaps.md).** Les handicaps sont l’inverse des traits : au lieu de vous donner un avantage, ils se traduisent par un effet négatif, en général dans des circonstances particulières. Si vous choisissez un handicap, vous avez droit à un troisième trait, à choisir dans la liste de ceux qui vous sont accessibles.
+**[[Handicaps|Les handicaps]].** Les handicaps sont l’inverse des traits : au lieu de vous donner un avantage, ils se traduisent par un effet négatif, en général dans des circonstances particulières. Si vous choisissez un handicap, vous avez droit à un troisième trait, à choisir dans la liste de ceux qui vous sont accessibles.
 
 ### Restrictions lors du choix des traits
 
@@ -134,7 +134,7 @@ Tout d’abord, c’est votre MJ qui contrôle le nombre de traits
 en bonus qu’un PJ possède lors de sa création. La valeur par
 défaut est de 2 traits. Lorsque vous choisissez des traits, vous
 ne pouvez pas en sélectionner plus d’un par liste (les quatre
-catégories de [traits de base](./Traits de base.md) comptent comme des listes
+catégories de [[traits de base]] comptent comme des listes
 séparées au regard de cette règle). Certains types de traits
 peuvent demander des conditions supplémentaires, comme
 indiqué dans la section ci-dessus.
@@ -143,11 +143,11 @@ Rappelez-vous également que les traits ont pour but de
 quantifier des événements qui ont guidé le développement de
 votre personnage, que ceux-ci se soient produits avant qu’il ne
 devienne un aventurier ou (dans le cas de traits gagnés grâce
-au don [Traits supplémentaires](./Traits supplémentaires.md)) au cours de ses aventures.
+au don [[Traits supplémentaires]]) au cours de ses aventures.
 Même si votre personnage devient un ermite et fuit la société,
 il conservera des traces de son enfance en tant qu’aristocrate
 s’il a choisi le trait social correspondant. La seule exception
-à cette règle porte sur les [traits religieux](./Traits religieux.md) : comme ces traits
+à cette règle porte sur les [[traits religieux]] : comme ces traits
 nécessitent une foi continue en une divinité spécifique, il se
 peut que votre personnage en perde les avantages s’il change
 de religion. Dans ce cas, consultez votre MJ pour connaître vos

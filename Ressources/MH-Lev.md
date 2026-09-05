@@ -10,18 +10,18 @@ Cette vue est optionnelle : tous les passages de niveau ne nécessitent pas ce g
 
 <b>Accès</b> : Mon Personnage/Onglet Autres/Passage de Niveau
 
-[My Hero|Retour racine du Manuel]</td><td style="width: 2%"></td><td style="width: 24%"><div class="presentation arrondie"><div style = "font-size: 0.9em;margin-left: -15px">
-<OL><LI>[MH-Lev|Caractéristique]
-<LI>[MH-Lev2|Classe]
-<LI>[MH-Lev3|Options de classe]
-<LI>[MH-Lev4|Option de classe de prédilection]
-<LI>[MH-Lev5|Sorts]
-<LI>[MH-Lev6|Compétences]
-<LI>[MH-Lev7|Langages appris]
-<LI>[MH-Lev8|Dons]</OL></div></div></td></tr></table></div>
+[[My Hero|Retour racine du Manuel]]</td><td style="width: 2%"></td><td style="width: 24%"><div class="presentation arrondie"><div style = "font-size: 0.9em;margin-left: -15px">
+<OL><LI>[[MH-Lev|Caractéristique]]
+<LI>[[MH-Lev2|Classe]]
+<LI>[[MH-Lev3|Options de classe]]
+<LI>[[MH-Lev4|Option de classe de prédilection]]
+<LI>[[MH-Lev5|Sorts]]
+<LI>[[MH-Lev6|Compétences]]
+<LI>[[MH-Lev7|Langages appris]]
+<LI>[[MH-Lev8|Dons]]</OL></div></div></td></tr></table></div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/Slide79.jpg|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MonPerso|Mon Personnage].
+<OL><LI>Retour vers [[MH-MonPerso|Mon Personnage]].
 <LI>Sélection de la caractéristique bénéficiant du bonus de +1.
-<LI>Validation du Choix. Vers [MH-Lev2|Classe].
+<LI>Validation du Choix. Vers [[MH-Lev2|Classe]].
 </OL></td></tr></table>

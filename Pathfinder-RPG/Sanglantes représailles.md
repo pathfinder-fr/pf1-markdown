@@ -10,9 +10,9 @@ Categories:
 - Sort rôdeur 4
 ---
 
-{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Pal](./Paladin.md) 4, [Prê](./Prêtre.md) 6, [Rôd](./Rôdeur.md) 4
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, M](./composantes.md) (le sang du personnage)
+{s:racial|Nain|nains|Illustrations/PNJ/Nain.jpg}{s:MR}**École** [[Nécromancie]] ; **Niveau** [[paladin|Pal]] 4, [[prêtre|Prê]] 6, [[rôdeur|Rôd]] 4
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, M]] (le sang du personnage)
 **Portée** personnelle
 **Cible** le lanceur de sorts
 **Durée** spéciale (voir description)

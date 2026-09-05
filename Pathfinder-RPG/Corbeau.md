@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.136*}
 {s:BDTexte|**PX** 65}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)}
 {s:BDTexte|**pv** 3 (1d8-1)}
@@ -27,8 +27,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 2, **Dex** 15, **Con** 8, **Int** 2, **Sag** 15, **Cha** 7}
 {s:BDTexte|**BBA** +0, **BMO** +0, **DMD** 6}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +6, [Vol](./Vol.md) +6}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +6, [[Vol]] +6}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** climat tempéré}
 {s:BDTexte|**Organisation sociale** solitaire, couple, vol (3-12) ou volée (13-100)}

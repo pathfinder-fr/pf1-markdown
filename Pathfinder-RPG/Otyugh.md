@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.234}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, N}
-{s:BDTexte|**Init** +0 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 9, pris au dépourvu 17 (naturelle +8, taille -1)}
 {s:BDTexte|**pv** 39 (6d8+12)}
@@ -23,21 +23,21 @@ Categories:
 {s:BDTexte|**Immunités** maladie}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** morsure, +7 (1d8+4 et maladie), 2 tentacules, +3 (1d6+2 et [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** morsure, +7 (1d8+4 et maladie), 2 tentacules, +3 (1d6+2 et [[étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c}) (4,50 m (3 {s:c}) pour les tentacules)}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (tentacule, 1d6+2)}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (tentacule, 1d6+2)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 18, **Dex** 10, **Con** 13, **Int** 5, **Sag** 13, **Cha** 6}
-{s:BDTexte|**BBA** +4, **BMO** +9 (+13 [lutte](./lutte.md)), **DMD** 19 (21 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (tentacule), [Robustesse](./Robustesse.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +2 (+10 dans sa tanière), [Perception](./Perception.md) +9 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +8 dans sa tanière}
+{s:BDTexte|**BBA** +4, **BMO** +9 (+13 [[lutte]]), **DMD** 19 (21 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (tentacule), [[Robustesse]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +2 (+10 dans sa tanière), [[Perception]] +9 ; **Modificateurs raciaux** [[Discrétion]] +8 dans sa tanière}
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-4)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Maladie (Ext).** *Fièvre des marais* : Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 14 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d3 [Dex](./Dextérité.md) et 1d3 [Con](./Constitution.md) ; *guérison* 2 réussites consécutives. Le [DD](./DD.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Maladie (Ext).** *Fièvre des marais* : Morsure - blessure ; *JS* [[Vigueur]] [[DD]] 14 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d3 [[Dextérité|Dex]] et 1d3 [[Constitution|Con]] ; *guérison* 2 réussites consécutives. Le [[DD]] dépend de la [[Constitution]].}
 </div>
 
 

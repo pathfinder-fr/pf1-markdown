@@ -10,17 +10,17 @@ Categories:
 - Sort rôdeur 4
 ---
 
-**École** [Invocation](./Invocation.md) ([téléportation](./téléportation.md)) ; **Niveau** [Dru](./Druide.md) 5, [Rôd](./Rôdeur.md) 4  
+**École** [[Invocation]] ([[téléportation]]) ; **Niveau** [[druide|Dru]] 5, [[rôdeur|Rôd]] 4  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** le jeteur de sorts  
 
-**Durée** 1 heure/[niveau](./niveau.md) ou jusqu’à utilisation (voir description)
+**Durée** 1 heure/[[niveau]] ou jusqu’à utilisation (voir description)
 
 Ce sort permet de pénétrer dans un arbre ou de se déplacer d’un arbre à un autre. L’arbre dans lequel le personnage entre et ceux par lesquels il passe avant de ressortir doivent appartenir à la même espèce. La largeur de leur tronc doit également leur permettre d’accueillir le lanceur de sorts. Dès que ce dernier pénètre dans un chêne (par exemple), il sait instantanément où tous les autres chênes situés dans les limites de portée du sort se trouvent (voir ci-dessous), ce qui lui permet de décider jusqu’auquel il souhaite se téléporter ou s’il veut ressortir par l’arbre par lequel il est entré. L’arbre au cœur duquel il peut réapparaître peut se trouver plus ou moins loin, en fonction de son espèce :
 
@@ -39,6 +39,6 @@ Ce sort permet de pénétrer dans un arbre ou de se déplacer d’un arbre à un
 |}
 </center>
 
-Le personnage peut se téléporter une fois par [niveau de lanceur de sorts](./NLS.md) (le fait de se déplacer du premier au deuxième arbre compte seulement pour un passage). Le sort s’achève dès que le personnage a épuisé son nombre de déplacements possibles ou dès qu’il sort d’un arbre. Chaque déplacement est une [action complexe](./Action complexe.md).
+Le personnage peut se téléporter une fois par [[NLS|niveau de lanceur de sorts]] (le fait de se déplacer du premier au deuxième arbre compte seulement pour un passage). Le sort s’achève dès que le personnage a épuisé son nombre de déplacements possibles ou dès qu’il sort d’un arbre. Chaque déplacement est une [[action complexe]].
 
 Il est également possible de rester dans l’arbre de son choix sans en sortir, mais le personnage en est expulsé au terme de la durée indiquée. Si l’arbre dans lequel il se cache est abattu ou incendié, le personnage meurt s’il ne s’extrait pas de l’arbre avant la mort de ce dernier.

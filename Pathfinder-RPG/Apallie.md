@@ -13,31 +13,31 @@ Categories:
 {s:pucem|Vase|Ville|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.30*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Vase](./type Vase.md) de taille P, N}
+{s:BDTexte|[[type Vase|Vase]] de taille P, N}
 {s:BDTexte|**Init** +2 ; **Sens** Perception +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 13 (Dex +2, naturelle +2, taille +1)}
 {s:BDTexte|**pv** 22 (4d8+4)}
 {s:BDTexte|**Réf** +5, **Vig** +2, **Vol** +2}
-{s:BDTexte|**Capacités défensives** [amorphe](./Amorphe (capacité).md) ; **Immunités** [traits des vases](./Traits des vases (capacité).md)}
+{s:BDTexte|**Capacités défensives** [[Amorphe (capacité)|amorphe]] ; **Immunités** [[Traits des vases (capacité)|traits des vases]]}
 {s:BDTexte|**Faiblesses** allergie au soleil}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m, escalade 6 m}
 {s:BDTexte|**Corps à corps** 2 coups, +6 (1d3+2 plus 1d4 acide)}
-{s:BDTexte|**Pouvoirs magiques** ([NLS](./NLS.md) 4 ; [concentration](./concentration.md) +4)}
-{s:BDSorts|À volonté — *[modification d'apparence](./Modification dapparence.md)* (humanoïdes de taille P seulement)}
+{s:BDTexte|**Pouvoirs magiques** ([[NLS]] 4 ; [[concentration]] +4)}
+{s:BDSorts|À volonté — *[[modification dapparence|modification d'apparence]]* (humanoïdes de taille P seulement)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 15, **Con** 12, **Int** 13, **Sag** 12, **Cha** 11}
 {s:BDTexte|**BBA** +3 ; **BMO** +4 ; **DMD** 16}
-{s:BDTexte|**Dons** [Fourberie](./Fourberie.md), [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +2, [Déguisement](./Déguisement.md) +6, [Discrétion](./Discrétion.md) +10, [Escalade](./Escalade.md) +10, [Perception](./Perception.md) +5}
+{s:BDTexte|**Dons** [[Fourberie]], [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Bluff]] +2, [[Déguisement]] +6, [[Discrétion]] +10, [[Escalade]] +10, [[Perception]] +5}
 {s:BDTexte|**Langues** sylvestre}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** régions tempérées}
 {s:BDTexte|**Organisation** solitaire, couple ou colonie (4-12)}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Allergie au soleil (Sur).** La lumière du soleil dissipe automatiquement le pouvoir magique de *[modification d’apparence](./Modification dapparence.md)* de l’apallie.}
+{s:BDTexte|**Allergie au soleil (Sur).** La lumière du soleil dissipe automatiquement le pouvoir magique de *[[modification dapparence|modification d’apparence]]* de l’apallie.}
 </div></td>
 <td><div>*La forme de cette petite vase verte change constamment, mais elle adopte souvent un aspect vaguement humanoïde avec deux jambes.*
 

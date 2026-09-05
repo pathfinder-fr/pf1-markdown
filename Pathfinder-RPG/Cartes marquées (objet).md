@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Jeux](./Jeux.md)</span>
+<span class="Catégorie">**Catégorie** [[Jeux]]</span>
 ---
-Qu’elles soient pliées, colorées ou abîmées, les cartes marquées permettent à un utilisateur averti de connaître la face de la carte en voyant la marque à son dos. Il faut réussir un test de [Perception](./Perception.md) [DD](./DD.md) 25 ou un test de [Profession](./Profession.md) (joueur) DD 20 pour réaliser que les cartes sont marquées. Le prix est donné pour un jeu de cartes en papier.
+Qu’elles soient pliées, colorées ou abîmées, les cartes marquées permettent à un utilisateur averti de connaître la face de la carte en voyant la marque à son dos. Il faut réussir un test de [[Perception]] [[DD]] 25 ou un test de [[Profession]] (joueur) DD 20 pour réaliser que les cartes sont marquées. Le prix est donné pour un jeu de cartes en papier.

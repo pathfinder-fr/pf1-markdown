@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 2 * p.237}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Animal](./type Animal.md) ([aquatique](./sous-type aquatique.md)) de taille M, N}
-{s:BDTexte|**Init** +1 ; **Sens**  [perception aveugle](./perception aveugle.md) 9 m (6 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] ([[sous-type aquatique|aquatique]]) de taille M, N}
+{s:BDTexte|**Init** +1 ; **Sens**  [[perception aveugle]] 9 m (6 {s:c}), [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 12, contact 11, pris au dépourvu 11 (Dex +1, naturelle +1)}
 {s:BDTexte|**pv** 13 (2d8+4)}
@@ -25,8 +25,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 13, **Con** 15, **Int** 1, **Sag** 13, **Cha** 2}
 {s:BDTexte|**BBA** +1, **BMO** +1, **DMD** 2}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +5 (+13 dans le sable ou la boue), [Natation](./Natation.md) +8, [Perception](./Perception.md) +8 ; **Modificateurs raciaux** +8 en [Discrétion](./Discrétion.md) dans le sable ou la boue}
+{s:BDTexte|**Dons** [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +5 (+13 dans le sable ou la boue), [[Natation]] +8, [[Perception]] +8 ; **Modificateurs raciaux** +8 en [[Discrétion]] dans le sable ou la boue}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans chauds}
 {s:BDTexte|**Organisation sociale** solitaire, couple, banc (3-12)}
@@ -41,9 +41,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Raie à aiguillon](./Raie à aiguillon.md) || 1/2
+| [[Raie à aiguillon]] || 1/2
 |-
-| [Raie manta](./Raie manta.md) || 1
+| [[Raie manta]] || 1
 |}
 </div>''Une longue queue garnie d’un dard barbelé traîne derrière le corps plat et
 triangulaire de ce poisson.''
@@ -64,7 +64,7 @@ simple « créature jeune ».
 
 #### La raie à aiguillon comme compagnon animal
 
-**Caractéristiques de départ** **Taille** P ; **Vitesse** nage 12 m (9 {s:c}) ;  **Attaque** dard (1d3 et poison) ; **Caractéristiques** For 6, Dex 15, Con 13, Int 1 Sag 13, Cha 2 ; **Particularités** [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ** **Taille** P ; **Vitesse** nage 12 m (9 {s:c}) ;  **Attaque** dard (1d3 et poison) ; **Caractéristiques** For 6, Dex 15, Con 13, Int 1 Sag 13, Cha 2 ; **Particularités** [[vision nocturne]].
 
-**Développement au niveau 4** . **Taille** M ; **CA** armure naturelle +1 ; **Attaque** dard (1d4 + poison) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Particularités** [vision aveugle](./vision aveugle.md) 9 m (6 {s:c}).
+**Développement au niveau 4** . **Taille** M ; **CA** armure naturelle +1 ; **Attaque** dard (1d4 + poison) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Particularités** [[vision aveugle]] 9 m (6 {s:c}).
 </div></td></tr></table>

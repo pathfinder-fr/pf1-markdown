@@ -11,8 +11,8 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4* p.284}
 {s:BDTexte|**PX** 200}
 {s:BDTexte|Wayang (m) illusionniste 1}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([wayang](./sous-type wayang.md)) de taille P, CN}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +2}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type Wayang|wayang]]) de taille P, CN}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA**  14, contact 14, pris au dépourvu 11 (Dex +3, taille +1)}
 {s:BDTexte|**pv** 8 (1d6+2)}
@@ -22,18 +22,18 @@ Categories:
 {s:BDTexte|**Corps à corps** dague, +0 (1d3-1/19-20)}
 {s:BDTexte|**Distance** sarbacane, +4 (1)}
 {s:BDTexte|**Pouvoirs magiques de wayang** (NLS 1 ; concentration +2)}
-{s:BDSorts|(1/jour) — *[son imaginaire](./Son imaginaire.md)* ([DD](./DD.md) 11), *[passage sans trace](./passage sans trace.md)*, *[ventriloquie](./Ventriloquie.md)* ([DD](./DD.md) 12)}
+{s:BDSorts|(1/jour) — *[[son imaginaire]]* ([[DD]] 11), *[[passage sans trace]]*, *[[ventriloquie]]* ([[DD]] 12)}
 {s:BDTexte|**Pouvoirs magiques d’école de magie** (NLS 1 ; concentration +4)}
 {s:BDSorts|(6/jour) — *rayon aveuglant*}
 {s:BDTexte|**Sorts d'illusionniste préparés** (NLS 1 ; concentration +4)}
-{s:BDSorts|1<sup>er</sup> (2/jour) — *[disparition](./Disparition.md)*, *[hypnose](./Hypnose.md)* ([DD](./DD.md) 14), *[image silencieuse](./Image silencieuse.md)* ([DD](./DD.md) 14)}
-{s:BDSorts|0 (à volonté) — *[détection de la magie](./Détection de la magie.md)*, *[lecture de la magie](./Lecture de la magie.md)*, *[son imaginaire](./Son imaginaire.md)* ([DD](./DD.md) 13)}
+{s:BDSorts|1<sup>er</sup> (2/jour) — *[[disparition]]*, *[[hypnose]]* ([[DD]] 14), *[[image silencieuse]]* ([[DD]] 14)}
+{s:BDSorts|0 (à volonté) — *[[détection de la magie]]*, *[[lecture de la magie]]*, *[[son imaginaire]]* ([[DD]] 13)}
 {s:BDTexte|**Écoles opposées** nécromancie, transmutation}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 16, **Con** 12, **Int** 17, **Sag** 8, **Cha** 13}
 {s:BDTexte|**BBA** +0, **BMO** -2, **DMD** 11}
-{s:BDTexte|**Dons** [Écriture de parchemins](./Écriture de parchemins.md), [Magie de guerre](./Magie de guerre.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +7, [Artisanat](./Artisanat.md) (alchimie) +7, [Connaissances](./Connaissances.md) (mystère) +7, [Discrétion](./Discrétion.md) +10, [Perception](./Perception.md) +2}
+{s:BDTexte|**Dons** [[Écriture de parchemins]], [[Magie de guerre]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +7, [[Artisanat]] (alchimie) +7, [[Connaissances]] (mystère) +7, [[Discrétion]] +10, [[Perception]] +2}
 {s:BDTexte|**Langues** abyssal, commun, draconique, gobelin, wayang}
 {s:BDTexte|**Particularités** pacte magique (amulette), illusions durables +1 round, ombre et lumière, magie des ombres}
 {s:BDSousTitre|Écologie}
@@ -65,12 +65,12 @@ Les wayangs ne possèdent pas de dés de vie raciaux et progressent en acquéran
 - **Vitesse lente.** Les wayangs ont une vitesse de déplacement de base de 6 mètres.
 - **Vision dans le noir.** Les wayangs peuvent voir dans le noir jusqu’à 18 mètres.
 - **Ombre et lumière (Sur).** Voir le profil ci-contre.
-- **Traqueur.** Les wayangs gagnent un bonus de racial de +2 aux tests de [Perception](./Perception.md) et de [Discrétion](./Discrétion.md).
-- **Magie des ombres.** Les wayangs ajoutent +1 au [DD](./DD.md) des jets de sauvegarde des sorts qu’ils lancent de la branche des ombres. Ceux dotés d’une valeur de [Charisme](./Charisme.md) de 11 ou plus gagnent les pouvoirs magiques suivants : 1/jour – *[son imaginaire](./Son imaginaire.md)*, *[passage sans trace](./passage sans trace.md)*, *[ventriloquie](./Ventriloquie.md)* (le niveau de lanceur de sorts est égal au niveau du wayang, le [DD](./DD.md) des jets de sauvegarde dépend du Charisme).
+- **Traqueur.** Les wayangs gagnent un bonus de racial de +2 aux tests de [[Perception]] et de [[Discrétion]].
+- **Magie des ombres.** Les wayangs ajoutent +1 au [[DD]] des jets de sauvegarde des sorts qu’ils lancent de la branche des ombres. Ceux dotés d’une valeur de [[Charisme]] de 11 ou plus gagnent les pouvoirs magiques suivants : 1/jour – *[[son imaginaire]]*, *[[passage sans trace]]*, *[[ventriloquie]]* (le niveau de lanceur de sorts est égal au niveau du wayang, le [[DD]] des jets de sauvegarde dépend du Charisme).
 - **Résistance à l’ombre.** Les wayangs gagnent un bonus racial de +2 aux jets de sauvegarde effectués contre les sorts de la branche des ombres.
 - **Langues.** Les wayangs commencent le jeu en sachant parler le commun et le wayang. Ceux avec une valeur d’Intelligence suffisamment élevée peuvent sélectionner des langues supplémentaires parmi la liste suivante : toutes les langues humaines, abyssal, aklo, draconique, gobelin, infernal, vishkanyan, samsaran et tengu.
 
 *<u>Note :</u> Des langues ont été ajoutées à la liste des langues supplémentaires que peuvent sélectionner les wayangs, suite aux informations complémentaires fournis par le Manuel des Races.*
 
-{s:VoirAussiAvant}La page de la race [Wayang](./wayang (race).md){s:VoirAussiAprès}
+{s:VoirAussiAvant}La page de la race [[Wayang (race)|Wayang]]{s:VoirAussiAprès}
 </div></td></tr></table>

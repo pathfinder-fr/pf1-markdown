@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#MAITREDUJEU
 ---
 
->>> [Vocabulaire courant#MAITREDUJEU](./Vocabulaire courant.md#MAITREDUJEU)
+>>> [[Vocabulaire courant#MAITREDUJEU]]

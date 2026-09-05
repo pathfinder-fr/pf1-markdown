@@ -14,21 +14,21 @@ Categories:
 {s:pucem|Animal|Forêt-Jungle|Froid}
 {s:BDTexte|*Source : Bestiaire p.235*}
 {s:BDTexte|**PX** 1.200}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +1 ; **Sens** [odorat](./odorat.md) , [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[odorat]] , [[vision nocturne]] ; [[Perception]] +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 10, pris au dépourvu 15 (Dex +1, naturelle +6, taille -1)}
 {s:BDTexte|**pv** 42 (5d8+20)}
 {s:BDTexte|**Réf** +5, **Vig** +8, **Vol** +2}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** 2 griffes, +7 (1d6+5 et [étreinte](./Étreinte.md)), morsure, +7 (1d6+5)}
+{s:BDTexte|**Corps à corps** 2 griffes, +7 (1d6+5 et [[étreinte]]), morsure, +7 (1d6+5)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 1,50 m (1 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 13, **Con** 19, **Int** 2, **Sag** 12, **Cha** 6}
-{s:BDTexte|**BBA** +3, **BMO** +9 (+13 [lutte](./lutte.md)), **DMD** 20 (24 contre [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./Course.md), [Endurance](./Endurance.md), [Talent](./Talent.md) ([Survie](./Survie.md))}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +14, [Perception](./Perception.md) +6, [Survie](./Survie.md) +5 ; **Modificateurs raciaux** [Natation](./Natation.md) +4}
+{s:BDTexte|**BBA** +3, **BMO** +9 (+13 [[lutte]]), **DMD** 20 (24 contre [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]], [[Endurance]], [[Talent]] ([[Survie]])}
+{s:BDTexte|**Compétences** [[Natation]] +14, [[Perception]] +6, [[Survie]] +5 ; **Modificateurs raciaux** [[Natation]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts froides}
 {s:BDTexte|**Organisation sociale** solitaire ou couple}
@@ -41,13 +41,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Grizzly](./Grizzly.md) || 4
+| [[Grizzly]] || 4
 |-
-| [Ours sanguinaire](./Ours sanguinaire.md) || 7
+| [[Ours sanguinaire]] || 7
 |-
-| [Ours polaire](./Ours polaire.md) || 5
+| [[Ours polaire]] || 5
 |-
-| [Ours polaire sanguinaire](./Ours polaire sanguinaire.md) || 8
+| [[Ours polaire sanguinaire]] || 8
 |}
 </div>''Les puissants muscles qu’on voit bouger sous la fourrure brune de cet ours
 imposant laissent présager de sa rapidité et de sa force.''
@@ -81,7 +81,7 @@ utilisez l’archétype simple
 
 #### L'ours comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +2 ; **Attaque** morsure (1d4), 2 griffes (1d3) ; **Caractéristiques** For 15, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +2 ; **Attaque** morsure (1d4), 2 griffes (1d3) ; **Caractéristiques** For 15, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4.** **Taille** M ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2.
 </div></td></tr></table>

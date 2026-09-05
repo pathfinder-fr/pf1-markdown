@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#SORT
 ---
 
->>> [Vocabulaire courant#SORT](./Vocabulaire courant.md#SORT)
+>>> [[Vocabulaire courant#SORT]]

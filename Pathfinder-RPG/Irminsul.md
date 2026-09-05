@@ -11,8 +11,8 @@ LastModified: 2016-11-14 17:17
 {s:BDTexte|*Source : Bestiaire 4 page 152*}
 
 - 102 400 PX
-- [Plante](./type Plante.md) (extraplanaire, mythique) de taille Gig, CN
-- **Init **-2 ; **Sens **vision aveugle à 36 m, perception des vibrations à30 m ; [Perception](./Perception.md) +32
+- [[type Plante|Plante]] (extraplanaire, mythique) de taille Gig, CN
+- **Init **-2 ; **Sens **vision aveugle à 36 m, perception des vibrations à30 m ; [[Perception]] +32
 (((Défense)))
 - **CA **33, contact 4, pris au dépourvu 33 (Dex -2, naturelle +29, taille -4)
 - **pv **301 (14d8+238) ; régénération 10 (fer froid)
@@ -24,13 +24,13 @@ LastModified: 2016-11-14 17:17
 - **Espace **6 m ; Allonge 6 m
 - **Attaques spéciales** pouvoir mythique (7/jour, montée en puissance +1d10)
 - **Pouvoirs magiques** (NLS 20 ; concentration +26)
-  - *Permanent *– [voir l’alignement](./Voir lalignement.md)<sup>AG</sup> (uniquement son alignement)
-  - *À volonté* – [télékinésie](./Télékinésie.md) (DD 21)
+  - *Permanent *– [[voir lalignement|voir l’alignement]]<sup>AG</sup> (uniquement son alignement)
+  - *À volonté* – [[télékinésie]] (DD 21)
 (((Statistiques)))
 - **For **27, **Dex **6, **Con **32, **Int **23, **Sag **28, **Cha **23
 - **BBA **+10 ; **BMO **+22 ; **DMD **30 (croc-en-jambe impossible)
-- **Dons **[Extension de pouvoir magique](./Extension de pouvoir magique.md) (télékinésie), [Magie de guerre](./Magie de guerre.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (télékinésie), [Robustesse](./Robustesse.md)<sup>M</sup> , [Vigilance](./Vigilance.md)<sup>M</sup>, [Vigueur surhumaine](./Vigueur surhumaine.md)<sup>M</sup>, [Volonté de fer](./Volonté de fer.md)<sup>M</sup>
-- **Compétences ** [Art de la magie](./Art de la magie.md) +20, [Bluff](./Bluff.md) +12, [Connaissances](./Connaissances.md) (mystères,Connaissances (nature) +14, [Connaissances](./Connaissances.md) (plans) +18, [Connaissances](./Connaissances.md) (religion) +16, [Diplomatie](./Diplomatie.md) +14, histoire) +9, [Intimidation](./Intimidation.md) +18, [Perception](./Perception.md) +32, [Psychologie](./Psychologie.md) +29, [Survie](./Survie.md) +17
+- **Dons **[[Extension de pouvoir magique]] (télékinésie), [[Magie de guerre]], [[Pouvoir magique rapide]] (télékinésie), [[Robustesse]]<sup>M</sup> , [[Vigilance]]<sup>M</sup>, [[Vigueur surhumaine]]<sup>M</sup>, [[Volonté de fer]]<sup>M</sup>
+- **Compétences ** [[Art de la magie]] +20, [[Bluff]] +12, [[Connaissances]] (mystères,Connaissances (nature) +14, [[Connaissances]] (plans) +18, [[Connaissances]] (religion) +16, [[Diplomatie]] +14, histoire) +9, [[Intimidation]] +18, [[Perception]] +32, [[Psychologie]] +29, [[Survie]] +17
 - **Langues **commun, druidique, elfe, sylvestre (ne sait pas parler) ; télépathie à 30 m
 - **Particularités **portail planaire
 (((Écologie)))

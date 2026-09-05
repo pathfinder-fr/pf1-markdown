@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 100 po ; **Passage (1,5 km)** 3 cp
-<span class="Catégorie">**Catégorie** [Moyens de transport](./Moyens de transport.md)</span>
+<span class="Catégorie">**Catégorie** [[Moyens de transport]]</span>
 ---
 {s:Desambi|Cet objet était nommé "Cariole" dans le <u>Manuel des joueurs</u>.}Ce véhicule à quatre roues peut accueillir jusqu’à quatre personnes dans la cabine et deux conducteurs en dehors. En général, il est tiré par deux chevaux (ou d’autres bêtes de somme). La diligence est livrée avec un harnais permettant de la tracter.

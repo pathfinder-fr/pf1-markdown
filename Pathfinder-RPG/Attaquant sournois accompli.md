@@ -12,7 +12,7 @@ Categories:
 
 *Vos frappes portées contre les points vitaux de votre ennemi sont extrêmement efficaces.*
 
-**Condition.** Capacité de classe [attaque sournoise](./attaque sournoise.md)
+**Condition.** Capacité de classe [[attaque sournoise]]
 
 **Avantage.** Les dégâts des attaques sournoises du personnage augmentent d'1d6. Le nombre de dés de dégâts d’attaque sournoise ne peut excéder la moitié du niveau de personnage arrondi par excès.
 

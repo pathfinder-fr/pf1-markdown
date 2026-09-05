@@ -15,22 +15,22 @@ Categories:
 {s:BDTexte|*Source : Bestiaire 4 page 19*}
 - 51 200 PX
 - **Plante** de taille Gig, N
-- **Init** +5 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +27
+- **Init** +5 ; **Sens** [[vision nocturne]] ; [[Perception]] +27
 (((Défense)))
 - **CA** 31, contact 11, pris au dépourvu 26 (Dex +5, naturelle +20, taille -4)
 - **pv** 253 (22d8+154)
 - **Réf** +12, **Vig** +20, **Vol** +11
-- **Immunités** électricité, [traits des plantes](./Traits des plantes.md)
+- **Immunités** électricité, [[traits des plantes]]
 (((Attaque)))
 - **VD** 12 m (8 {s:c})
 - **Corps à corps** corne, +23 (5d10+15/19-20)
 - **Espace** 6 m ; Allonge 6 m
-- **Attaque spéciale** [charge puissante](./Charge puissante.md) (corne, 10d10+15), [piétinement](./Piétinement.md) (5d10+15, DD 31)
+- **Attaque spéciale** [[charge puissante]] (corne, 10d10+15), [[piétinement]] (5d10+15, DD 31)
 (((Statistiques)))
 - **For** 30, **Dex** 21, **Con** 24, **Int** 2, **Sag** 15, **Cha** 9
 - **BBA** +16 ; **BMO** +30 (+34 bousculade et renversement) ; **DMD** 45 (47 contre bousculade et renversement, 49 contre croc-en-jambe)
-- **Dons** [Arme de prédilection](./Arme de prédilection.md) (corne), [Attaque en puissance](./Attaque en puissance.md), [Bousculade supérieure](./Bousculade supérieure.md), [Coup fabuleux](./Coup fabuleux.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Renversement supérieur](./Renversement supérieur.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (corne), [Science du renversement](./Science du renversement.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Perception](./Perception.md) +27 
+- **Dons** [[Arme de prédilection]] (corne), [[Attaque en puissance]], [[Bousculade supérieure]], [[Coup fabuleux]], [[Critique sanglant]], [[Don pour les critiques]], [[Renversement supérieur]], [[Science de la bousculade]], [[Science du critique]] (corne), [[Science du renversement]], [[Volonté de fer]]
+- **Compétences** [[Perception]] +27 
 (((Écologie)))
 - **Environnement** forêts
 - **Organisation** solitaire ou au service d’un druide
@@ -87,7 +87,7 @@ aventure à part entière.
 
 - **NLS **15 ; **Prix **80 500
 
-- **Conditions requises** 15 rangs en [Connaissances](./Connaissances.md) (nature), [croissance végétale](./Croissance végétale.md), [enchevêtrement](./Enchevêtrement.md), [bois de fer](./Bois de fer.md), [convocation d’alliés naturels VII](./Convocation dalliés naturels VII.md) ; **Compétences **[Connaissances](./Connaissances.md) (nature) DD 25 ; 
+- **Conditions requises** 15 rangs en [[Connaissances]] (nature), [[croissance végétale]], [[enchevêtrement]], [[bois de fer]], [[convocation dalliés naturels VII|convocation d’alliés naturels VII]] ; **Compétences **[[Connaissances]] (nature) DD 25 ; 
 - **Coût **40 200 po
 
 

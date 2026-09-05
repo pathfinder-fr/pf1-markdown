@@ -63,12 +63,12 @@ FFGMN18 - Honor and Shadow (2007){br}
 
 ### Sites webs
 En francais :{br}
-[^http://www.ombredunord.com/ : le Document de Référence du Système]{br}
-[^http://www.black-book-editions.fr/forum/index.php?board=119.0 : le forum Black Book Edition]{br}
-[^http://www.legrog.org/jeux/d20-midnight : Midnight, une critique sur le Grog]{br}
-[^http://fr.wikipedia.org/wiki/Midnight : Midnight, article Wikipédia]{br}
+[http://www.ombredunord.com/ : le Document de Référence du Système](http://www.ombredunord.com/ : le Document de Référence du Système){br}
+[http://www.black-book-editions.fr/forum/index.php?board=119.0 : le forum Black Book Edition](http://www.black-book-editions.fr/forum/index.php?board=119.0 : le forum Black Book Edition){br}
+[http://www.legrog.org/jeux/d20-midnight : Midnight, une critique sur le Grog](http://www.legrog.org/jeux/d20-midnight : Midnight, une critique sur le Grog){br}
+[http://fr.wikipedia.org/wiki/Midnight : Midnight, article Wikipédia](http://fr.wikipedia.org/wiki/Midnight : Midnight, article Wikipédia){br}
 
 En anglais :{br}
-[^http://darknessfalls.leaderdesslok.com/ : le Document de Référence du Système]{br}
-[^http://www.againsttheshadow.org/ : communauté de fan]{br}
-[^http://www.midnight-chronicles.com/ : Le film, Midnight Chronicles]{br}
+[http://darknessfalls.leaderdesslok.com/ : le Document de Référence du Système](http://darknessfalls.leaderdesslok.com/ : le Document de Référence du Système){br}
+[http://www.againsttheshadow.org/ : communauté de fan](http://www.againsttheshadow.org/ : communauté de fan){br}
+[http://www.midnight-chronicles.com/ : Le film, Midnight Chronicles](http://www.midnight-chronicles.com/ : Le film, Midnight Chronicles){br}

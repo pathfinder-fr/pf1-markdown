@@ -12,25 +12,25 @@ Categories:
 {s:pucem|Mort-Vivant|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.70*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, NM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +15}
-{s:BDTexte|**Aura** terreur (3 m, [effrayé](./Effrayé.md) pendant 1d4 rounds, Vol DD 16 annule)}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, NM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +15}
+{s:BDTexte|**Aura** terreur (3 m, [[effrayé]] pendant 1d4 rounds, Vol DD 16 annule)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 13, pris au dépourvu 16 (Dex +2, esquive +1, naturelle +6)}
 {s:BDTexte|**pv** 52 (8d8+16)}
 {s:BDTexte|**Réf** +6, **Vig** +4, **Vol** +8}
-{s:BDTexte|**Capacités défensives** [résistance à la canalisation](./résistance à la canalisation.md) +2 ; **Immunités** traits des morts-vivants ;  **RD** 10/contondant ou magie}
+{s:BDTexte|**Capacités défensives** [[résistance à la canalisation]] +2 ; **Immunités** traits des morts-vivants ;  **RD** 10/contondant ou magie}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** 2 griffes, +10 (1d8+4)}
 {s:BDTexte|**Attaques spéciales** téléportation de zone}
 {s:BDTexte|**Pouvoirs magiques** (NLS 8 ; concentration +10)}
-{s:BDTexte|3/jour — [porte dimensionnelle](./Porte dimensionnelle.md) en [incantation rapide](./Incantation rapide.md)}
+{s:BDTexte|3/jour — [[porte dimensionnelle]] en [[incantation rapide]]}
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 19, **Dex** 14, **Con** —, **Int** 13, **Sag** 14, **Cha** 15}
 {s:BDTexte|**BBA** +6, **BMO** +10, **DMD** 23}
-{s:BDTexte|**Dons** [Esquive](./Esquive.md), [Réflexes surhumains](./Réflexes surhumains.md),  [Science de l’initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +6, [Connaissances](./Connaissances.md) (exploration souterraine) +5, [Connaissances](./Connaissances.md) (histoire) +3, [Connaissances](./Connaissances.md) (mystères) +6, [Discrétion](./Discrétion.md) +9 , [Intimidation](./Intimidation.md) +13, [Perception](./Perception.md) +15, [Psychologie](./Psychologie.md) +15 }
+{s:BDTexte|**Dons** [[Esquive]], [[Réflexes surhumains]],  [[Science de linitiative|Science de l’initiative]], [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Bluff]] +6, [[Connaissances]] (exploration souterraine) +5, [[Connaissances]] (histoire) +3, [[Connaissances]] (mystères) +6, [[Discrétion]] +9 , [[Intimidation]] +13, [[Perception]] +15, [[Psychologie]] +15 }
 {s:BDTexte|**Langues** commun}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** sous terre}

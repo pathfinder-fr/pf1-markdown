@@ -7,19 +7,19 @@ Categories:
 - Src Book of the Damned
 ---
 
-{s:DieuTech|Ozranvial|Le sourire du désespoir| |[Bourreaux sahkils](./Divinités.md#BOURREAUXSAHKILS)
+{s:DieuTech|Ozranvial|Le sourire du désespoir| |[[Divinités#BOURREAUXSAHKILS|Bourreaux sahkils]]
 |Chaotique Mauvais|Désespoir, esprits agités, sadisme
 |N'importe|Aucun
-|[Fouet scorpion](./fouet scorpion (arme).md)
-|[Destruction](./Domaine de la Destruction.md), [Folie](./Domaine de la Folie.md), [Mal](./Domaine du Mal.md), [Repos](./Domaine du Repos.md)
-|[Âmes](./Domaine du Repos.md), [Cauchemars](./Domaine de la Folie.md), [Peur](./Domaine du Mal.md), [Sahkils](./Domaine du Mal.md), [Torture](./Domaine de la Destruction.md)
+|[[Fouet scorpion (arme)|Fouet scorpion]]
+|[[Domaine de la Destruction|Destruction]], [[Domaine de la Folie|Folie]], [[Domaine du Mal|Mal]], [[Domaine du Repos|Repos]]
+|[[Domaine du Repos|Âmes]], [[Domaine de la Folie|Cauchemars]], [[Domaine du Mal|Peur]], [[Domaine du Mal|Sahkils]], [[Domaine de la Destruction|Torture]]
 |—}
 {s:cs}{s:BotD}
 ### Obédience
-Tourmenter ou réprimander une autre créature intelligente pour lui insuffler un sentiment d'inutilité. Gain d'un bonus de malfaisance de +4 aux tests d'[Intimidation](./Intimidation.md).
+Tourmenter ou réprimander une autre créature intelligente pour lui insuffler un sentiment d'inutilité. Gain d'un bonus de malfaisance de +4 aux tests d'[[Intimidation]].
 
 #### Faveurs (Bourreaux sahkils)
-Les bourreaux [sahkils](./Sahkil.md) dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [FP](./FP.md) 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) utilisables deux fois par jour chacun.
-- **1.** *[mise à mort](./Mise à mort.md)*
-- **2.** *[terreur](./Terreur.md)*
-- **3.** *[mise à mal](./Mise à mal.md)*
+Les bourreaux [[Sahkil|sahkils]] dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [[FP]] 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables deux fois par jour chacun.
+- **1.** *[[mise à mort]]*
+- **2.** *[[terreur]]*
+- **3.** *[[mise à mal]]*

@@ -4,9 +4,9 @@ Title: Feu-follet révisé
 LastModified: 2023-04-10 13:55
 ---
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page des aides de jeu pour Pathfinder 2](./ADJ.md)
+• [[ADJ|Retour à la page des aides de jeu pour Pathfinder 2]]
 
 <div class="blocPF2">
 {s:titrePF2|Feu-follet révisé|Créature 6}

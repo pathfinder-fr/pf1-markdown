@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Le personnage riposte quand un ennemi l’attaque alors qu’il se déplace.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [Sag](./Sag.md) 13, [Attaques réflexes](./Attaques réflexes.md), [Science du combat à mains nues](./Science du combat à mains nues.md)
+**Conditions.** [[Sag]] 13, [[Attaques réflexes]], [[Science du combat à mains nues]]
 
-**Avantage.** Quand le personnage utilise l’École de la panthère et qu’un adversaire fait une [attaque d’opportunité](./attaque dopportunité.md) contre lui parce qu’il se déplace dans une case menacée, il peut dépenser une [action rapide](./Action rapide.md) pour riposter à mains nues. Son attaque se produit après l’attaque d’opportunité.
+**Avantage.** Quand le personnage utilise l’École de la panthère et qu’un adversaire fait une [[attaque dopportunité|attaque d’opportunité]] contre lui parce qu’il se déplace dans une case menacée, il peut dépenser une [[action rapide]] pour riposter à mains nues. Son attaque se produit après l’attaque d’opportunité.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage provoque une [attaque d’opportunité](./AO.md), il peut dépenser 5 points d’endurance pour riposter par une [action rapide](./Action rapide.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage provoque une [[AO|attaque d’opportunité]], il peut dépenser 5 points d’endurance pour riposter par une [[action rapide]].

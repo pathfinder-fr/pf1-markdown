@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#VIENSMATTRAPER
 ---
 
->>> [pouvoirs de rage#VIENSMATTRAPER](./Pouvoirs de rage.md#VIENSMATTRAPER)
+>>> [[pouvoirs de rage#VIENSMATTRAPER]]

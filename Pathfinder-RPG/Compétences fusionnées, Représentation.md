@@ -8,11 +8,11 @@ Categories:
 
 {s:MenuPathfinderunchained}{s:PU}*Le personnage peut susciter une réaction émotionnelle en réalisant une prestation musicale, oratoire ou physique. Sa capacité à se produire de manière convaincante et sa connaissance des arts scéniques lui permettent également d’améliorer la crédibilité de ses déguisements. Cette compétence englobe à elle seule toutes les formes de représentations (à la différence de ce qui est décrit dans le Manuel des Joueurs).*
 
-**Caractéristique associée :** [Charisme](./Charisme.md) ; **Formation nécessaire :** Non ; **Malus d'armure :** Non
+**Caractéristique associée :** [[Charisme]] ; **Formation nécessaire :** Non ; **Malus d'armure :** Non
 
-**Fonctions.** [Impressionner un public](./Compétences fusionnées, Représentation.md#IMPRESSIONNERUNPUBLIC), [se déguiser](./Compétences fusionnées, Représentation.md#SEDEGUISER).
+**Fonctions.** [[Compétences fusionnées, Représentation#IMPRESSIONNERUNPUBLIC|Impressionner un public]], [[Compétences fusionnées, Représentation#SEDEGUISER|se déguiser]].
 
-**Compétences de base.** [Déguisement](./Déguisement.md), [Représentation](./Représentation.md) (toutes).
+**Compétences de base.** [[Déguisement]], [[Représentation]] (toutes).
 
 {s:Reference|IMPRESSIONNERUNPUBLIC}
 ### Impressionner un public
@@ -40,14 +40,14 @@ Représentation || Argent gagné
 
 **Action.** Entre une soirée et une journée entière.
 
-**Nouvelles tentatives.** Oui, mais le [DD](./DD.md) augmente de 2 pour chaque représentation quelconque précédente face au même public.
+**Nouvelles tentatives.** Oui, mais le [[DD]] augmente de 2 pour chaque représentation quelconque précédente face au même public.
 
-**Instrument de musique de maître.** Un [instrument de musique de maître](./Instrument de musique (objet).md) confère un bonus de +2 aux tests de Représentation effectués pour impressionner un public.
+**Instrument de musique de maître.** Un [[Instrument de musique (objet)|instrument de musique de maître]] confère un bonus de +2 aux tests de Représentation effectués pour impressionner un public.
 
 {s:Reference|SEDEGUISER}
 ### Se déguiser
-Cette fonction de la compétence de Représentation s’utilise de la même façon que la compétence de base de [Déguisement](./Déguisement.md).
+Cette fonction de la compétence de Représentation s’utilise de la même façon que la compétence de base de [[Déguisement]].
 
-**Action.** 1d3 × 10 minutes. L’utilisation de la magie (telle que le sort de *[déguisement](./Déguisement.md)*) réduit cette durée au temps nécessaire pour lancer le sort ou déclencher l’effet.
+**Action.** 1d3 × 10 minutes. L’utilisation de la magie (telle que le sort de *[[déguisement]]*) réduit cette durée au temps nécessaire pour lancer le sort ou déclencher l’effet.
 
 **Nouvelles tentatives.** Oui, mais les cibles sont plus prudentes quand elles savent que quelqu’un a déjà tenté de se déguiser.

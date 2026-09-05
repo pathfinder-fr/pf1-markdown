@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 - *Source : Bestiaire 4* p.144
 - **PX** 800
-- [Animal](./type Animal.md) ([aquatique](./sous-type aquatique.md)) de taille G, N
-- **Init** +2 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11
+- [[type Animal|Animal]] ([[sous-type aquatique|aquatique]]) de taille G, N
+- **Init** +2 ; **Sens** [[vision nocturne]] ; [[Perception]] +11
 (((Défense)))
 - **CA** 15, contact 11, pris au dépourvu 13 (armure +4, Dex +2, taille -1)
 - **pv** 30 (4d8+12)
@@ -28,8 +28,8 @@ Categories:
 (((Caractéristiques)))
 - **For** 20, **Dex** 14, **Con** 17, **Int** 1, **Sag** 12, **Cha** 7
 - **BBA** +3, **BMO** +9, **DMD** 21
-- **Dons** [Endurance](./Endurance.md), [Talent](./Talent.md) (Perception)
-- **Compétences** [Perception](./Perception.md) +11, [Natation](./Natation.md) +13
+- **Dons** [[Endurance]], [[Talent]] (Perception)
+- **Compétences** [[Perception]] +11, [[Natation]] +13
 (((Écologie)))
 - **Environnement** océans
 - **Organisation sociale** solitaire, couple ou banc (3-20)
@@ -46,9 +46,9 @@ volonté.
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Hippocampe géant](./Hippocampe géant.md) || 3
+| [[Hippocampe géant]] || 3
 |-
-| [Hippocampe tueur](./Hippocampe tueur.md) || 5
+| [[Hippocampe tueur]] || 5
 |}
 </div>*Cette créature des mers associe les caractéristiques physiques d’un poisson et d’un cheval. Elle est dotée de petites nageoires latérales et d’une queue délicatement recourbée.*
 
@@ -70,7 +70,7 @@ pour une charge lourde. Il peut tracter jusqu’à
 4 tonnes.
 
 #### L'hippocampe géant comme compagnon animal
-**Caractéristiques de départ.** **Taille** G ; **Vitesse** 9 m (6 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** coup (1d4) ; **Caractéristiques** For 16, Dex 13, Con 15, Int 1, Sag 12, Cha 6 ; **Particularités** [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** G ; **Vitesse** 9 m (6 {s:c}) ; **CA** armure naturelle +4 ; **Attaque** coup (1d4) ; **Caractéristiques** For 16, Dex 13, Con 15, Int 1, Sag 12, Cha 6 ; **Particularités** [[vision nocturne]].
 
 **Développement au niveau 4** :  **Attaque** coup (1d6) ; **Caractéristiques** For +2, Con +2 ; **Particularités** ancrage.
 </div></td></tr></table>

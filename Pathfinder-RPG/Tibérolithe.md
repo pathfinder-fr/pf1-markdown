@@ -14,14 +14,14 @@ Categories:
 {s:pucem|Créature artificielle|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 270*}
 - **9 600 PX**
-- [Créature artificielle](./type Créature artificielle.md) de taille TG, N
+- [[type créature artificielle|Créature artificielle]] de taille TG, N
 - **Init **+0 ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +0
 (((Défense)))
 - **CA** 24, contact 8, pris au dépourvu 24 (naturelle +16, taille -2)
 - **pv** 111 (13d10+40)
 - **Réf **+4, **Vig **+4, **Vol **+4
 - **Capacités défensives** piège à sorts ; **RD** 15/adamantium et contondant ;
-- **Immunités** acide, [traits des créatures artificielles](./Traits des créatures artificielles.md) ; **Résistances** électricité 30 ; **RM** 24
+- **Immunités** acide, [[traits des créatures artificielles]] ; **Résistances** électricité 30 ; **RM** 24
 (((Attaque)))
 - **VD** 9 m
 - **Corps à corps** 2 coups, +19 (3d8+8)
@@ -55,6 +55,6 @@ Son corps de pierre contient un liquide alchimique et acide bleu qui canalise l�
 Un tibérolithe est construit à partir de trois blocs de pierre de 1 250 kilogrammes chacun. Ceux-ci sont liés les uns aux autres avec à l’aide de matière végétale ou de tendons traités avec des onguents d’une valeur minimale de 7 000 po.
 
 **NLS** 12 ; **Prix** 48 000 po{br}
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[brume acide](./Brume acide.md), [façonnage de la pierre](./Façonnage de la pierre.md), [souhait limité](./Souhait limité.md)*, le créateur doit être un lanceur de sorts de niveau 11 au moins ; {br}
-**Compétences** [Artisanat](./Artisanat.md) (sculpture) ou [Artisanat](./Artisanat.md) (constructions en pierre) DD 18 ; **Coût** 24 000 po
+**Conditions** [[Création de créatures artificielles]], *[[brume acide]], [[façonnage de la pierre]], [[souhait limité]]*, le créateur doit être un lanceur de sorts de niveau 11 au moins ; {br}
+**Compétences** [[Artisanat]] (sculpture) ou [[Artisanat]] (constructions en pierre) DD 18 ; **Coût** 24 000 po
 </div></td></tr></table>

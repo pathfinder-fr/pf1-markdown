@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Types dactions#MOUVEMENT
 ---
 
->>> [Types dactions#MOUVEMENT](./Types dactions.md#MOUVEMENT)
+>>> [[Types dactions#MOUVEMENT]]

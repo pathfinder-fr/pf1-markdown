@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 1 po ; **Poids** 0,5 kg ; **Groupes** [armes de jet](./groupe darmes.md#Armesdejet)
+{s:AE}{s:UC}**Prix** 1 po ; **Poids** 0,5 kg ; **Groupes** [[Groupe darmes#Armesdejet|armes de jet]]
 **Dégâts** 1d6 (P), 1d8 (M) ; **Critique** ×3 ; **Portée** 15 m (10 c) ; **Type** P ; **Spécial** —
-<span class="Catégorie">**Catégorie** [Armes exotiques](./Tableau récapitulatif des armes.md#TABEXOTIQUES) ([primitive](./Armes et armures primitives.md))
-; **Maniement** [arme à distance](./arme à distance.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABEXOTIQUES|Armes exotiques]] ([[armes et armures primitives|primitive]])
+; **Maniement** [[arme à distance]]</span>
 ---
-Le kestros est une fronde de l’Âge de bronze à la forme étrange utilisée pour lancer des [dards de kestros](./Dards de kestros (arme).md). Le modificateur de [Force](./Force.md) du personnage s’applique aux [jets de dégâts](./Valeurs de combat.md#DEGATS) du kestros, exactement comme pour les [armes de jet](./arme de jet.md). Le personnage peut tirer avec d’une main mais pas le recharger ainsi. Le rechargement du kestros prend une [action de mouvement](./Action de mouvement.md) nécessitant les deux mains et provoque des [attaques d’opportunité](./AO.md). Les [halfelins](./Halfelin.md) traitent le kestros comme une [arme de guerre](./arme de guerre.md).
+Le kestros est une fronde de l’Âge de bronze à la forme étrange utilisée pour lancer des [[dards de kestros (arme)|dards de kestros]]. Le modificateur de [[Force]] du personnage s’applique aux [[Valeurs de combat#DEGATS|jets de dégâts]] du kestros, exactement comme pour les [[arme de jet|armes de jet]]. Le personnage peut tirer avec d’une main mais pas le recharger ainsi. Le rechargement du kestros prend une [[action de mouvement]] nécessitant les deux mains et provoque des [[AO|attaques d’opportunité]]. Les [[Halfelin|halfelins]] traitent le kestros comme une [[arme de guerre]].

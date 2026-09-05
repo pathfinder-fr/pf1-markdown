@@ -13,37 +13,37 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.109*}
 {s:BDTexte|**PX** 4800}
-{s:BDTexte|[Goule](./Goule.md) [barde](./Barde.md) (barde funèbre) 8 (*Art de la magie* p.25)}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille M, CM}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[Goule]] [[barde]] (barde funèbre) 8 (*Art de la magie* p.25)}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille M, CM}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 13, pris au dépourvu 17 (armure +5, Dex +3, naturelle +2)}
 {s:BDTexte|**pv** 113 (10d8+68)}
 {s:BDTexte|**Réf** +9, **Vig** +8, **Vol** +11 ; +4 contre les effets nécromantiques}
-{s:BDTexte|**Capacités défensives** [résistance à la canalisation](./Résistance à la canalisation (capacité).md) +2 ; **Immunité** [traits des morts-vivants](./Traits des morts-vivants (capacité).md)}
+{s:BDTexte|**Capacités défensives** [[Résistance à la canalisation (capacité)|résistance à la canalisation]] +2 ; **Immunité** [[Traits des morts-vivants (capacité)|traits des morts-vivants]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +10 (1d6+2 plus [maladie](./Goule.md#FIEVREDESGOULES) et [paralysie](./paralysie.md)) et 2 griffes, +11 (1d6+2 plus [paralysie](./paralysie.md))}
+{s:BDTexte|**Corps à corps** morsure +10 (1d6+2 plus [[Goule#FIEVREDESGOULES|maladie]] et [[paralysie]]) et 2 griffes, +11 (1d6+2 plus [[paralysie]])}
 {s:BDTexte|**Distance** arc court composite de maître, +11/+6 (1d6+2/×3)}
-{s:BDTexte|**Attaques spéciales** [maladie](./Goule.md#FIEVREDESGOULES) (DD 17), [paralysie](./paralysie.md) (1d4+1 rounds, DD 19, elfes immunisés contre cet effet), [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) 24 rounds/jour (action de mouvement) ;
-[chant funèbre](./Représentations.md#CHANTFUNESTE) (DD 20), [contre-chant](./Représentations.md#CONTRE-CHANT), [fascination](./Représentations.md#FASCINATION) (DD 20), [inspiration talentueuse](./Représentations.md#INSPIRATIONTALENTUEUSE) +3, [inspiration vaillante](./Représentations.md#INSPIRATIONVAILLANTE) +2, [suggestion](./Représentations.md#SUGGESTION) (DD 20))}
-{s:BDTexte|**Sorts de barde connus** ([NLS](./NLS.md) 8 ; [concentration](./concentration.md) +14)}
-{s:BDSorts|3e (3/jour) — *[bagou](./Bagou.md)*, *[confusion](./Confusion.md)* (DD 19), *[désespoir foudroyant](./Désespoir foudroyant.md)* (DD 19)}
-{s:BDSorts|2e (6/jour) — *[allegro](./Allegro.md)*, *[apparence charnue](./Apparence charnue.md)*, *[blessure modérée](./Blessure modérée.md)* (DD 18), *[image miroir](./Image miroir.md)*}
-{s:BDSorts|1er (6/jour) — *[déguisement](./Déguisement.md)*, *[fou rire](./Fou rire.md)* (DD 17), *[image silencieuse](./Image silencieuse.md)* (DD 17), *[rayon affaiblissant](./Rayon affaiblissant.md)* (DD 17), *[repli expéditif](./Repli expéditif.md)*}
-{s:BDSorts|0 (à volonté) — *[convocation d’instrument](./Convocation dinstrument.md)*, *[détection de la magie](./Détection de la magie.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[message](./Message.md)*, *[prestidigitation](./Prestidigitation.md)* (DD 16), *[son imaginaire](./Son imaginaire.md)* (DD 16)}
+{s:BDTexte|**Attaques spéciales** [[Goule#FIEVREDESGOULES|maladie]] (DD 17), [[paralysie]] (1d4+1 rounds, DD 19, elfes immunisés contre cet effet), [[barde#REPRESENTATIONBARDIQUE|représentation bardique]] 24 rounds/jour (action de mouvement) ;
+[[Représentations#CHANTFUNESTE|chant funèbre]] (DD 20), [[Représentations#CONTRE-CHANT|contre-chant]], [[Représentations#FASCINATION|fascination]] (DD 20), [[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] +3, [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] +2, [[Représentations#SUGGESTION|suggestion]] (DD 20))}
+{s:BDTexte|**Sorts de barde connus** ([[NLS]] 8 ; [[concentration]] +14)}
+{s:BDSorts|3e (3/jour) — *[[bagou]]*, *[[confusion]]* (DD 19), *[[désespoir foudroyant]]* (DD 19)}
+{s:BDSorts|2e (6/jour) — *[[allegro]]*, *[[apparence charnue]]*, *[[blessure modérée]]* (DD 18), *[[image miroir]]*}
+{s:BDSorts|1er (6/jour) — *[[déguisement]]*, *[[fou rire]]* (DD 17), *[[image silencieuse]]* (DD 17), *[[rayon affaiblissant]]* (DD 17), *[[repli expéditif]]*}
+{s:BDSorts|0 (à volonté) — *[[convocation dinstrument|convocation d’instrument]]*, *[[détection de la magie]]*, *[[manipulation à distance]]*, *[[message]]*, *[[prestidigitation]]* (DD 16), *[[son imaginaire]]* (DD 16)}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Avant le combat.** Ce tueur furtif se déguise en humain le temps de traquer sa proie. Il essaie d’éviter les conflits autant que possible, mais sa faim dévorante prend parfois le dessus.}
-{s:BDTexte|**Pendant le combat.** Si quelqu’un repère l’assassin masqué, il entame le combat avec *[confusion](./Confusion.md)*. Il poursuit avec une [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE), généralement un [chant funèbre](./Représentations.md#CHANTFUNESTE). Il lance *[allegro](./Allegro.md)* avant d’entrer dans la mêlée pour bénéficier d’attaques supplémentaires.}
+{s:BDTexte|**Pendant le combat.** Si quelqu’un repère l’assassin masqué, il entame le combat avec *[[confusion]]*. Il poursuit avec une [[barde#REPRESENTATIONBARDIQUE|représentation bardique]], généralement un [[Représentations#CHANTFUNESTE|chant funèbre]]. Il lance *[[allegro]]* avant d’entrer dans la mêlée pour bénéficier d’attaques supplémentaires.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 15, **Dex** 17, **Con** -, **Int** 17, **Sag** 14, **Cha** 22}
 {s:BDTexte|**BBA** +7, **BMO** +9, **DMD** 22}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Attaque en finesse](./Attaque en finesse.md), [Attaque spéciale renforcée](./Attaque spéciale renforcée.md) (paralysie), [Magie de guerre](./Magie de guerre.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +19, [Connaissances](./Connaissances.md) (folklore local) +20, [Connaissances](./Connaissances.md) (mystères) +16, [Connaissances](./Connaissances.md) (religion) +15 (+19 pour identifier un mort-vivant et ses pouvoirs), [Déguisement](./Déguisement.md) +19, [Diplomatie](./Diplomatie.md) +19, [Intimidation](./Intimidation.md) +19, [Perception](./Perception.md) +15, [Représentation](./Représentation.md) (déclamation) +14, [Représentation](./Représentation.md) (percussion) +19}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Connaissances](./Connaissances.md) (religion) pour identifier un mort-vivant et ses pouvoirs}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Attaque en finesse]], [[Attaque spéciale renforcée]] (paralysie), [[Magie de guerre]], [[science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Bluff]] +19, [[Connaissances]] (folklore local) +20, [[Connaissances]] (mystères) +16, [[Connaissances]] (religion) +15 (+19 pour identifier un mort-vivant et ses pouvoirs), [[Déguisement]] +19, [[Diplomatie]] +19, [[Intimidation]] +19, [[Perception]] +15, [[Représentation]] (déclamation) +14, [[Représentation]] (percussion) +19}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Connaissances]] (religion) pour identifier un mort-vivant et ses pouvoirs}
 {s:BDTexte|**Langues** commun, commun des profondeurs, elfique, nain}
-{s:BDTexte|**Particularités** [refrain terrifiant](./Barde funèbre (barde).md) (+4 pour [démoraliser](./Intimidation.md), malus de –2 aux jets de sauvegarde contre les effets de [terreur](./Terreur.md) du barde), [savoir bardique](./Barde.md#SAVOIRBARDIQUE) +4, [secret de la tombe](./Barde funèbre (barde).md)}
-{s:BDTexte|**Équipement de combat** *[flèches](./Flèches (arme).md) de [tonnerre +1](./tonnerre (propriété).md)* (4), *[potion](./Potions magiques.md) d’[invisibilité](./Invisibilité.md)*, *[parchemin](./Parchemins magiques.md) d’[immobilisation de personne](./Immobilisation de personne.md)*, *[baguette](./Baguettes magiques.md) de [blessure légère](./Blessure légère.md)* (50 charges) ; **Équipement divers** *[chemise de mailles +1](./chemise de mailles (armure).md)*, [arc court composite de maître](./arc court composite (arme).md) avec [10 flèches](./Flèches (arme).md), *[bandeau de belle allure +2](./Bandeau de belle allure.md)*, [trousse de déguisement](./Trousse de déguisement (objet).md), 10 po}
+{s:BDTexte|**Particularités** [[Barde funèbre (barde)|refrain terrifiant]] (+4 pour [[intimidation|démoraliser]], malus de –2 aux jets de sauvegarde contre les effets de [[terreur]] du barde), [[barde#SAVOIRBARDIQUE|savoir bardique]] +4, [[Barde funèbre (barde)|secret de la tombe]]}
+{s:BDTexte|**Équipement de combat** *[[flèches (arme)|flèches]] de [[tonnerre (propriété)|tonnerre +1]]* (4), *[[potions magiques|potion]] d’[[invisibilité]]*, *[[parchemins magiques|parchemin]] d’[[immobilisation de personne]]*, *[[baguettes magiques|baguette]] de [[blessure légère]]* (50 charges) ; **Équipement divers** *[[chemise de mailles (armure)|chemise de mailles +1]]*, [[arc court composite (arme)|arc court composite de maître]] avec [[Flèches (arme)|10 flèches]], *[[bandeau de belle allure|bandeau de belle allure +2]]*, [[trousse de déguisement (objet)|trousse de déguisement]], 10 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -51,25 +51,25 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Chauve-souris aile de suie](./Chauve-souris aile de suie.md) || 1/2
+| [[Chauve-souris aile de suie]] || 1/2
 |-
-| [Molosse goule](./Molosse goule.md) || 1
+| [[Molosse goule]] || 1
 |-
-| [Goule](./Goule.md) || 1
+| [[Goule]] || 1
 |-
-| [Goule sournoise](./Goule sournoise.md) || 3
+| [[Goule sournoise]] || 3
 |-
-| [Goule traqueuse](./Goule traqueuse.md) || 6
+| [[Goule traqueuse]] || 6
 |-
-| [Grand-veneur goule](./Grand-veneur goule.md) || 7
+| [[Grand-veneur goule]] || 7
 |-
-| [Assassin masqué](./Assassin masqué.md) || 8
+| [[Assassin masqué]] || 8
 |-
-| [Commandant goule](./Commandant goule.md) || 8
+| [[Commandant goule]] || 8
 |-
-| [Antique fossoyeur](./Antique fossoyeur.md) || 10
+| [[Antique fossoyeur]] || 10
 |-
-| [Monarque goule](./Monarque goule.md) || 12
+| [[Monarque goule]] || 12
 |}
 </div> Quelques goules vivent dans une ville ou un village. Elles se déguisent et usent de magie pour dissimuler leur nature. L’assassin masqué se tapit dans les ombres pour frapper les vivants.
 

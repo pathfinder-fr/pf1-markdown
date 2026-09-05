@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Étourdi
 ---
 
->>> [États préjudiciables#Étourdi](./États préjudiciables.md#Étourdi)
+>>> [[États préjudiciables#Étourdi]]

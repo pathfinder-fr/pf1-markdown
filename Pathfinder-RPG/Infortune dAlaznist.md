@@ -15,22 +15,22 @@ Categories:
 - Src Magic Tactics Toolbox
 ---
 
-{s:cs}{s:MTT}**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[malédiction](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [aPal](./Antipaladin.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Bard](./Barde.md) 4, [Cham](./Chaman.md) 5, [Inq](./Inquisiteur.md) 5, [Occ](./Occultiste.md) 5, [Prê](./Prêtre.md) 6, [Psy](./Psychiste.md) 6, [Sor](./Sorcière.md) 3
+{s:cs}{s:MTT}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|malédiction]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|aPal]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 6, [[Barde|Bard]] 4, [[Chaman|Cham]] 5, [[Inquisiteur|Inq]] 5, [[Occultiste|Occ]] 5, [[Prêtre|Prê]] 6, [[Psychiste|Psy]] 6, [[Sorcière|Sor]] 3
 **Temps d'incantation** 1 action simple
-**Composantes** [V, G](./composantes.md)
+**Composantes** [[composantes|V, G]]
 **Portée** Contact
 **Cibles** Créature touchée
 **Durée** Permanent
-**Jet de sauvegarde** [Volonté], [annule](./Présentation des sorts.md#JETSDESAUVEGARDE); **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]]; **Résistance à la magie** oui
 
-Vous infligez une malédiction similaire à la [Brûlure de sort](./Description des plaies magiques.md#BRULUREDESORT) à une créature. Chaque fois qu'un lanceur de sorts affligé par cette malédiction lance un sort ou utilise une capacité de type sort, sa peau semble brûler comme si elle était en feu.
-S'il réussit son test de concentration (DD = 15 + 2x le niveau du sort lancé ou de la capacité de type "sort" utilisée), le lanceur de sorts peut ignorer la douleur de l'effet, mais s'il échoue, il perd le sort ou l'emplacement de sort et est [chancelante](./États préjudiciables.md#Chancelant) pendant un round.
+Vous infligez une malédiction similaire à la [[Description des plaies magiques#BRULUREDESORT|Brûlure de sort]] à une créature. Chaque fois qu'un lanceur de sorts affligé par cette malédiction lance un sort ou utilise une capacité de type sort, sa peau semble brûler comme si elle était en feu.
+S'il réussit son test de concentration (DD = 15 + 2x le niveau du sort lancé ou de la capacité de type "sort" utilisée), le lanceur de sorts peut ignorer la douleur de l'effet, mais s'il échoue, il perd le sort ou l'emplacement de sort et est [[États préjudiciables#Chancelant|chancelante]] pendant un round.
 
-Contrairement à la [Brûlure de sort](./Description des plaies magiques.md#BRULUREDESORT), la sensation de brûlure est un effet tangible, visible pendant l'acte d'incantation sous la forme d'une flamme violette incorporelle entourant le lanceur de sorts.
+Contrairement à la [[Description des plaies magiques#BRULUREDESORT|Brûlure de sort]], la sensation de brûlure est un effet tangible, visible pendant l'acte d'incantation sous la forme d'une flamme violette incorporelle entourant le lanceur de sorts.
 
 (((Alaznist's Jinx
 Source Magic Tactics Toolbox pg. 21
-School evocation [curse]; Level antipaladin 4, arcanist 6, bard 4, cleric 6, inquisitor 5, occultist 5, oracle 6, psychic 6, shaman 5, skald 4, sorcerer 6, warpriest 6, witch 5, wizard 6
+School evocation [[curse]]; Level antipaladin 4, arcanist 6, bard 4, cleric 6, inquisitor 5, occultist 5, oracle 6, psychic 6, shaman 5, skald 4, sorcerer 6, warpriest 6, witch 5, wizard 6
 Casting
 Casting Time 1 standard action
 Components V, S

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.248}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) ([aquatique](./sous-type aquatique.md)) de taille G, N}
-{s:BDTexte|**Init** +5 ; **Sens** odorat surdéveloppé, [perception aveugle](./perception aveugle.md) 9 m (6 {s:c}) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] ([[sous-type aquatique|aquatique]]) de taille G, N}
+{s:BDTexte|**Init** +5 ; **Sens** odorat surdéveloppé, [[perception aveugle]] 9 m (6 {s:c}) ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 10, pris au dépourvu 13 (Dex +1, naturelle +4, taille -1)}
 {s:BDTexte|**pv** 22 (4d8+4)}
@@ -27,14 +27,14 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 12, **Con** 13, **Int** 1, **Sag** 12, **Cha** 2}
 {s:BDTexte|**BBA** +3, **BMO** +7, **DMD** 18}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +11, [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l'initiative]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Natation]] +11, [[Perception]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
 {s:BDTexte|**Organisation sociale** solitaire, couple, banc (3-6) ou meute (7-13)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Odorat surdéveloppé (Ext)** l'[odorat](./odorat.md) des requins leur permet de repérer les créatures à 54 m (36 {s:c}) sous l'eau et de sentir le sang dans l'eau jusqu'à 1,5 km.}
+{s:BDTexte|**Odorat surdéveloppé (Ext)** l'[[odorat]] des requins leur permet de repérer les créatures à 54 m (36 {s:c}) sous l'eau et de sentir le sang dans l'eau jusqu'à 1,5 km.}
 </div>
 
 {s:ImageCentre|Bestiaire/Requin_img.jpg|95%}
@@ -45,13 +45,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Requin bouledogue](./Requin bouledogue.md) || 2
+| [[Requin bouledogue]] || 2
 |-
-| [Grand requin blanc](./Grand requin blanc.md) || 4
+| [[Grand requin blanc]] || 4
 |-
-| [Requin](./Requin.md) || 2
+| [[Requin]] || 2
 |-
-| [Requin sanguinaire](./Requin sanguinaire.md) || 9
+| [[Requin sanguinaire]] || 9
 |}
 </div>''Les nageoires de ce requin bleu fendent les flots. Ses yeux noirs s’agitent et
 ses mâchoires béantes abritent d’innombrables dents.''
@@ -71,15 +71,15 @@ indiqués ci-contre).
 
 #### Autres types de requins
 
-- **Requin marteau (FP 3).** Ce requin "[évolué](./archétypes simples.md)" a une tête caractéristique en forme de marteau.
-- **Requin tigre (FP 3).** Il s'agit d'un requin zébré vorace, plus grand que le requin moyen. C'est un requin "[géant](./archétypes simples.md)".
-- **Grand requin blanc (FP 4).** Ce requin gigantesque est l'un des mangeurs d'hommes les plus connus. C'est un requin "[évolué](./archétypes simples.md)" et "[géant](./archétypes simples.md)".
-- **Requin cuivre* (FP 1).** Ce requin est reconnaissable par sa peau cuivrée, bronzée au-dessus, parfois sous la forme de taches de rouille, et blanc en-dessous. C'est un squale puissant, actif et rapide, très présent dans l'océan Arcadien. La plupart ne sont pas particulièrement agressifs, mais ceux qui nagent près des côtes d'Avistan et du Garund ont un tempérament violent et sont potentiellement dangereux. Utilisez l'archétype "[jeune](./Archétypes-ashx.md#Créature_jeune_FP_-B_7)" pour le requin cuivre.
+- **Requin marteau (FP 3).** Ce requin "[[archétypes simples|évolué]]" a une tête caractéristique en forme de marteau.
+- **Requin tigre (FP 3).** Il s'agit d'un requin zébré vorace, plus grand que le requin moyen. C'est un requin "[[archétypes simples|géant]]".
+- **Grand requin blanc (FP 4).** Ce requin gigantesque est l'un des mangeurs d'hommes les plus connus. C'est un requin "[[archétypes simples|évolué]]" et "[[archétypes simples|géant]]".
+- **Requin cuivre* (FP 1).** Ce requin est reconnaissable par sa peau cuivrée, bronzée au-dessus, parfois sous la forme de taches de rouille, et blanc en-dessous. C'est un squale puissant, actif et rapide, très présent dans l'océan Arcadien. La plupart ne sont pas particulièrement agressifs, mais ceux qui nagent près des côtes d'Avistan et du Garund ont un tempérament violent et sont potentiellement dangereux. Utilisez l'archétype "[[Archétypes.ashx#Créature_jeune_FP_-B_7|jeune]]" pour le requin cuivre.
 
 #### Le requin comme compagnon animal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 0 m, nage 18 m (12 {s:c}); **CA** armure naturelle +4 ; **Attaque** Attaque morsure (1d4) ; **Caractéristiques** For 13, Dex 15, Con 15, Int 1, Sag 12, Cha 2 ; **Particularités** [odorat](./odorat.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 0 m, nage 18 m (12 {s:c}); **CA** armure naturelle +4 ; **Attaque** Attaque morsure (1d4) ; **Caractéristiques** For 13, Dex 15, Con 15, Int 1, Sag 12, Cha 2 ; **Particularités** [[odorat]].
 
-**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (1d6) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Particularités** [perception aveugle](./perception aveugle.md), [vision nocturne](./vision nocturne.md).
+**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (1d6) ; **Caractéristiques** For +4, Dex -2, Con +2 ; **Particularités** [[perception aveugle]], [[vision nocturne]].
 
 **Source : Animal Archive (jigsaw shark)*</div></td></tr></table>

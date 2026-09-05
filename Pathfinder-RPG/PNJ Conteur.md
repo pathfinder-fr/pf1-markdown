@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Amuseurs publics#CONTEUR
 ---
 
->>> [Amuseurs publics#CONTEUR](./Amuseurs-publics.md#CONTEUR)
+>>> [[Amuseurs publics#CONTEUR]]

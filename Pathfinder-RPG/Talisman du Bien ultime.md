@@ -6,13 +6,13 @@ Categories:
 - Artefact magique
 ---
 
-<div style="float:right">***Retour aux [Artefacts](./Artefacts.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Artefacts]].***</div><div class="BD">
 {s:BDTitre|Talisman du Bien ultime|}
-**Aura** [Évocation](./Évocation.md) (Bien) puissante ; **NLS** 18 ; **Emplacement** aucun ; **Poids** —
+**Aura** [[Évocation]] (Bien) puissante ; **NLS** 18 ; **Emplacement** aucun ; **Poids** —
 (((Description)))
-Tout pratiquant de la [magie divine](./Magie divine.md) d’[alignement](./Alignement.md) Bon (LB, NB, CB) possédant cet objet peut faire qu’une faille emplie de flammes s’ouvre aux pieds d’un pratiquant de la [magie divine](./Magie divine.md) d’[alignement](./Alignement.md) Mauvais (LM, NM, CM) distant de moins de 30 m/20 cases. La victime est engloutie à tout jamais et précipitée dans les entrailles de la terre. Le porteur du talisman se doit d’être Bon. De plus, si ses intentions et ses actes ne sont pas d’une absolue pureté, sa cible a droit à un jet de [Réflexes](./Réflexes.md) ([DD](./DD.md) 19) afin d’échapper à la faille d’un bond. La cible doit bien évidemment se trouver sur la terre ferme pour que le talisman fonctionne.
+Tout pratiquant de la [[magie divine]] d’[[alignement]] Bon (LB, NB, CB) possédant cet objet peut faire qu’une faille emplie de flammes s’ouvre aux pieds d’un pratiquant de la [[magie divine]] d’[[alignement]] Mauvais (LM, NM, CM) distant de moins de 30 m/20 cases. La victime est engloutie à tout jamais et précipitée dans les entrailles de la terre. Le porteur du talisman se doit d’être Bon. De plus, si ses intentions et ses actes ne sont pas d’une absolue pureté, sa cible a droit à un jet de [[Réflexes]] ([[DD]] 19) afin d’échapper à la faille d’un bond. La cible doit bien évidemment se trouver sur la terre ferme pour que le talisman fonctionne.
 
-Un *talisman du Bien ultime* a un total de 6 [charges](./Règles relatives aux objets magiques.md#OBJETSACHARGES). Si un pratiquant de la [magie divine](./Magie divine.md) d’[alignement](./Alignement.md) Neutre (LN, N, CN) le touche, il subit 6d6 points de dégâts par round de contact. Un pratiquant de la [magie divine](./Magie divine.md) d’[alignement](./Alignement.md) Mauvais subit des dégâts légèrement plus importants (8d6). Enfin, les autres personnages ne sont pas affectés par le talisman.
+Un *talisman du Bien ultime* a un total de 6 [[règles relatives aux objets magiques#OBJETSACHARGES|charges]]. Si un pratiquant de la [[magie divine]] d’[[alignement]] Neutre (LN, N, CN) le touche, il subit 6d6 points de dégâts par round de contact. Un pratiquant de la [[magie divine]] d’[[alignement]] Mauvais subit des dégâts légèrement plus importants (8d6). Enfin, les autres personnages ne sont pas affectés par le talisman.
 (((Destruction)))
 Le *talisman du Bien ultime* est détruit s’il est placé dans la bouche d’un saint homme mort en accomplissant librement un acte véritablement haineux.
 </div>

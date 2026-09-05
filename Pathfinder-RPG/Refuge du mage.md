@@ -10,25 +10,25 @@ Categories:
 - Sort magicien 4
 ---
 
-{s:Desambi|À ne pas confondre avec le sort de [refuge](./Refuge.md) (Ens/Mag 9, Prê 7).}
-**École** [Invocation](./Invocation.md) ([création](./../Création.md)) ; **Niveau** [Bard](./Barde.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Sor](./Sorcière.md) 4  
+{s:Desambi|À ne pas confondre avec le sort de [[refuge]] (Ens/Mag 9, Prê 7).}
+**École** [[Invocation]] ([[création]]) ; **Niveau** [[barde|Bard]] 4, [[ensorceleur|Ens]]/[[magicien|Mag]] 4, [[sorcière|Sor]] 4  
 
 **Temps d'incantation** 10 minutes  
 
-**Composantes** [V, G, M](./composantes.md) (un éclat de pierre, du sable, une goutte d’eau et un copeau de bois)  
+**Composantes** [[composantes|V, G, M]] (un éclat de pierre, du sable, une goutte d’eau et un copeau de bois)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Effet** structure de 6 m de côté  
 
-**Durée** 2 heures/[niveau](./niveau.md) (T)  
+**Durée** 2 heures/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
 Le personnage fait apparaître une solide chaumière construite à l’aide de matériaux courants dans la région. Le sol est plat, propre et sec. Le *refuge* ressemble à s’y méprendre à une vraie maison, avec sa porte, ses deux fenêtres munies de volets et sa petite cheminée.
 
-Il est isolé du froid extérieur mais n’a aucune source de chauffage. Il faut donc le chauffer et, en cas de canicule, la chaleur excessive affecte normalement les occupants. En revanche, il procure une importante protection. Il est aussi résistant qu’une maison en pierre, quels que soient les matériaux dont il est fait. Il résiste aussi bien au feu que la pierre et il est invulnérable aux projectiles normaux (mais pas à ceux qu’envoient [géants](./sous-type géant.md) ou engins de siège).
+Il est isolé du froid extérieur mais n’a aucune source de chauffage. Il faut donc le chauffer et, en cas de canicule, la chaleur excessive affecte normalement les occupants. En revanche, il procure une importante protection. Il est aussi résistant qu’une maison en pierre, quels que soient les matériaux dont il est fait. Il résiste aussi bien au feu que la pierre et il est invulnérable aux projectiles normaux (mais pas à ceux qu’envoient [[sous-type géant|géants]] ou engins de siège).
 
-La porte, les volets et la cheminée empêchent toute intrusion (les deux premiers sont défendus par des *[verrous du mage](./Verrou du mage.md)* tandis qu’une grille en fer scellée bloque l’étroit conduit de la dernière). De plus, ces ouvertures sont protégées par un sort d’*[alarme](./Alarme.md)*. Enfin, un *[serviteur invisible](./Serviteur invisible.md)* se tient à la disposition du lanceur de sorts tant que ce dernier se trouve dans le refuge.
+La porte, les volets et la cheminée empêchent toute intrusion (les deux premiers sont défendus par des *[[verrou du mage|verrous du mage]]* tandis qu’une grille en fer scellée bloque l’étroit conduit de la dernière). De plus, ces ouvertures sont protégées par un sort d’*[[alarme]]*. Enfin, un *[[serviteur invisible]]* se tient à la disposition du lanceur de sorts tant que ce dernier se trouve dans le refuge.
 
 L’ameublement du refuge est très fonctionnel et se compose de huit lits superposés, d’une table à tréteaux, de huit tabourets et d’un bureau.

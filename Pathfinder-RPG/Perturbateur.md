@@ -9,15 +9,15 @@ Categories:
 
 *L’entraînement du personnage lui permet de perturber les lanceurs de sorts qui ont alors bien du mal à utiliser la magie près de lui.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Condition.** [Guerrier](./Guerrier.md) de niveau 6.
+**Condition.** [[Guerrier]] de niveau 6.
 
-**Avantage.** Le [DD](./DD.md) qui permet de lancer des sorts sur la [défensive](./incantation sur la défensive.md) alors qu’il se trouve dans une [case contrôlée](./espace contrôlé.md) par le personnage augmente de +4. Cette augmentation du [DD](./DD.md) s’applique uniquement aux lanceurs de sorts dont le personnage connaît la position et contre lesquels il peut faire une [attaque d’opportunité](./attaque dopportunité.md). Si le personnage a droit à une seule [attaque d’opportunité](./attaque dopportunité.md) par [round](./round.md) et qu’il l’a déjà utilisée, le [DD](./DD.md) n’augmente pas.
+**Avantage.** Le [[DD]] qui permet de lancer des sorts sur la [[incantation sur la défensive|défensive]] alors qu’il se trouve dans une [[espace contrôlé|case contrôlée]] par le personnage augmente de +4. Cette augmentation du [[DD]] s’applique uniquement aux lanceurs de sorts dont le personnage connaît la position et contre lesquels il peut faire une [[attaque dopportunité|attaque d’opportunité]]. Si le personnage a droit à une seule [[attaque dopportunité|attaque d’opportunité]] par [[round]] et qu’il l’a déjà utilisée, le [[DD]] n’augmente pas.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage utilise la dernière [attaque d’opportunité](./AO.md) à laquelle il a droit pour le [round](./round.md), il peut dépenser 2 points d’endurance pour accroître la durée de l’augmentation du [DD](./DD.md) de ce don vis-à-vis des ennemis qui lancent des sorts [sur la défensive](./Lancer des sorts.md#INCANTATIONSURLADEFENSIVE) dans sa [zone de contrôle](./espace contrôlé.md) jusqu’au début de son prochain tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage utilise la dernière [[AO|attaque d’opportunité]] à laquelle il a droit pour le [[round]], il peut dépenser 2 points d’endurance pour accroître la durée de l’augmentation du [[DD]] de ce don vis-à-vis des ennemis qui lancent des sorts [[Lancer des sorts#INCANTATIONSURLADEFENSIVE|sur la défensive]] dans sa [[espace contrôlé|zone de contrôle]] jusqu’au début de son prochain tour.
 
 {s:CMy}
 ### Version mythique
@@ -25,4 +25,4 @@ Quand le personnage utilise la dernière [attaque d’opportunité](./AO.md) à 
 
 **Condition.** Perturbateur
 
-**Avantage.** Le DD pour lancer des sorts sur la défensive dans la zone de menace du personnage augmente de la moitié de son [grade](./Grade.md). Ce bonus se cumule avec celui conféré par Perturbateur. De plus, même si le personnage ne peut pas réaliser d’attaques d’opportunité, les lanceurs de sorts [non-mythiques](./non-mythiques.md) se méfient toujours de lui et continuent de subir les effets du don Perturbateur.
+**Avantage.** Le DD pour lancer des sorts sur la défensive dans la zone de menace du personnage augmente de la moitié de son [[grade]]. Ce bonus se cumule avec celui conféré par Perturbateur. De plus, même si le personnage ne peut pas réaliser d’attaques d’opportunité, les lanceurs de sorts [[non-mythiques]] se méfient toujours de lui et continuent de subir les effets du don Perturbateur.

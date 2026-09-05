@@ -10,11 +10,11 @@ Categories:
 
 {s:racial|Humain|humains|Illustrations/PNJ/Humain.jpg}<div class="BD">
 {s:BDTitre|Coiffe du traducteur|{s:ISR}}
-**Aura** [Divination](./école divination.md) faible ; **NLS** 5 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 14.000 po ; **Poids** 0.5 kg
+**Aura** [[école Divination|Divination]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 14.000 po ; **Poids** 0.5 kg
 (((Description)))
 {s:cs}Cette coiffe est ornée de sept plumes aux couleurs vives et de types variés. Chaque plume confère au porteur de la coiffe la connaissance d'une langue ; ces langues sont fixées pour chaque *coiffe du traducteur*.
 
-Si le porteur est un [humain](./Humain.md), il peut donner une plume à un allié pour permettre à cet allié d'utiliser *[don des langues](./Don des langues.md)* tant qu'il porte la plume sur lui. Retirer la plume retire aussi la langue choisie par le porteur au répertoire de la coiffe. Une plume retirée fonctionne pendant 1 jour avant de tomber en poussière, et la coiffe perd ses pouvoirs une fois la dernière plume disparue. Le prix de la coiffe inclut les sept plumes, et est réduit de 2.000 po pour chaque plume manquante.
+Si le porteur est un [[humain]], il peut donner une plume à un allié pour permettre à cet allié d'utiliser *[[don des langues]]* tant qu'il porte la plume sur lui. Retirer la plume retire aussi la langue choisie par le porteur au répertoire de la coiffe. Une plume retirée fonctionne pendant 1 jour avant de tomber en poussière, et la coiffe perd ses pouvoirs une fois la dernière plume disparue. Le prix de la coiffe inclut les sept plumes, et est réduit de 2.000 po pour chaque plume manquante.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[don des langues](./Don des langues.md)* ou la capacité à parler les sept langues, le créateur doit être un [humain](./Humain.md) ; **Coût** 7.000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[don des langues]]* ou la capacité à parler les sept langues, le créateur doit être un [[humain]] ; **Coût** 7.000 po
 </div>

@@ -12,21 +12,21 @@ Avec l'arrêt des publications de Black Book Editions sur la gamme Pathfinder 1,
 ### Introduction
 Plusieurs mots d'ordre vont diriger ce guide :
 #### 1. Organisation
-Une des parties les plus importante, c'est d'être organisé. Ainsi, il n'est pas bienvenue d'intégrer un don de tel supplément, puis un archétype d'un autre. Lorsqu'on entame n'importe quelle intégration, si le contenu vient d'un nouvel ouvrage, on pose la [base](./.md#BASE) qui facilitera le travail pour tout le reste. Cette base, elle peut être mise en place par un membre du staff, parce que c'est tout de même un gros travail de comparatif de sources (décrit dans le paragraphe "[Base](./.md#BASE)").
+Une des parties les plus importante, c'est d'être organisé. Ainsi, il n'est pas bienvenue d'intégrer un don de tel supplément, puis un archétype d'un autre. Lorsqu'on entame n'importe quelle intégration, si le contenu vient d'un nouvel ouvrage, on pose la [[#BASE|base]] qui facilitera le travail pour tout le reste. Cette base, elle peut être mise en place par un membre du staff, parce que c'est tout de même un gros travail de comparatif de sources (décrit dans le paragraphe "[[#BASE|Base]]").
 
 #### 2. Cohérence
 Une des raisons pour lesquelles ce guide existe, créer une cohérence dans les travaux. Il est mille fois plus facile de travailler avec des présentations cohérentes, qui se font écho à toutes, comme ça, on sait ce qu'on cherche, et on le trouve facilement. Le plus gros conseil qui ressort de ce mot d'ordre : Si vous avez un doute sur une mise en page, fouinez dans ce qui existe déjà, et récupérer directement la forme que vous voulez (on pensera notamment aux descriptifs de sorts, de dons et aux blocs descriptifs d'objets).
 
 #### 3. Communication
-En général, on travail sur le wiki "quand on a le temps", et ce n'est en aucun cas un mal. Mais un point très important est de communiquer ce qu'il se passe. L'idéal est d'avoir un sujet sur le forum qui traite de l'intégration en court, mais quand on travail sur une intégration et qu'on est peu (voire seul), ça donne l'impression de se donner des nouvelles à soi même. Pour remédier à ça, n'hésitez pas à mettre à jour la page temporaire de l'intégration (voir [base](./.md#BASE) pour communiquer vos changements en temps réel et plus particulièrement, aux intéressés.
+En général, on travail sur le wiki "quand on a le temps", et ce n'est en aucun cas un mal. Mais un point très important est de communiquer ce qu'il se passe. L'idéal est d'avoir un sujet sur le forum qui traite de l'intégration en court, mais quand on travail sur une intégration et qu'on est peu (voire seul), ça donne l'impression de se donner des nouvelles à soi même. Pour remédier à ça, n'hésitez pas à mettre à jour la page temporaire de l'intégration (voir [[#BASE|base]] pour communiquer vos changements en temps réel et plus particulièrement, aux intéressés.
 
 {s:Reference|BASE}
 ### La page de contenu de l'intégration
 Avant toute chose, on créé la page de contenu qui guidera tout les contributeurs sur ce qu'implique l'intégration du supplément voulu. Cette page, dont le titre fixe est "Nom de louvrage (Contenu)", présente absolument tous les noms de ce que contient l'ouvrage.
 
 En haut de page, on présente l'ouvrage :
-@@[Nom de l'ouvrage en VO](./Lien-vers-la-boutique-Paizo.md) a été publié en Mois 20XX par Paizo inc.
-Traduit et publié en français par Black Book Editions sous le nom d’[Nom de l'ouvrage en VF](./Lien-vers-la-boutique-BBE.md), en Mois 20XX.
+@@[[Lien vers la boutique Paizo|Nom de l'ouvrage en VO]] a été publié en Mois 20XX par Paizo inc.
+Traduit et publié en français par Black Book Editions sous le nom d’[[Lien vers la boutique BBE|Nom de l'ouvrage en VF]], en Mois 20XX.
 
 <nav class="wiki-toc"></nav>
 

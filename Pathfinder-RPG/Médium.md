@@ -9,9 +9,9 @@ Categories:
 ---
 
 {s:Menuclassesoccultes}
-<div class="fright">***Voir aussi les [esprits de médium](./Esprits (Médium).md).***
-***Voir aussi les [esprits légendaires](./Esprits légendaires.md).***
-***Voir aussi la [liste des sorts de médium](./Liste des sorts de médium.md).***
+<div class="fright">***Voir aussi les [[Esprits (Médium)|esprits de médium]].***
+***Voir aussi les [[Esprits légendaires]].***
+***Voir aussi la [[Liste des sorts de médium]].***
 {s:PM0|médium}**Voir les archétypes du médium**&emsp;
 <li ID="médium" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypemédium}</li>
 </div>{s:AO}*Les médiums attirent les esprits à eux et font de leur corps le réceptacle d’entités astrales évoquées dans les mythes et légendes. Un médium tente toujours de trouver le juste équilibre entre son besoin des pouvoirs que lui confèrent les esprits et le danger qu’il court à chaque fois qu’il les autorise à prendre le contrôle de son âme.*
@@ -37,7 +37,7 @@ Categories:
 | +0
 | +0
 | +2
-| CLASS="gauche" | [Astuces](./Médium.md#ASTUCES), [bonus spirituel +1](./Médium.md#BONUSSPIRITUEL), [esprit](./Médium.md#ESPRIT), [pouvoir spirituel (mineur)](./Médium.md#POUVOIRSPIRITUEL), [accès de puissance spirituelle 1d6](./Médium.md#ACCÈSDEPUISSANCESPIRITUELLE)
+| CLASS="gauche" | [[Médium#ASTUCES|Astuces]], [[Médium#BONUSSPIRITUEL|bonus spirituel +1]], [[Médium#ESPRIT|esprit]], [[Médium#POUVOIRSPIRITUEL|pouvoir spirituel (mineur)]], [[Médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle 1d6]]
 | -
 | -
 | -
@@ -48,7 +48,7 @@ Categories:
 | +0
 | +0
 | +3
-| CLASS="gauche" | [Séance médiumnique de groupe](./Médium.md#SÉANCEMÉDIUMNIQUEDEGROUPE), [tabou](./Médium.md#TABOU)
+| CLASS="gauche" | [[Médium#SÉANCEMÉDIUMNIQUEDEGROUPE|Séance médiumnique de groupe]], [[Médium#TABOU|tabou]]
 | -
 | -
 | -
@@ -59,7 +59,7 @@ Categories:
 | +1
 | +1
 | +3
-| CLASS="gauche" | [Canalisation d'apparitions](./Médium.md#CANALISATIONDAPPARITIONS)
+| CLASS="gauche" | [[Médium#CANALISATIONDAPPARITIONS|Canalisation d'apparitions]]
 | -
 | -
 | -
@@ -70,7 +70,7 @@ Categories:
 | +1
 | +1
 | +4
-| CLASS="gauche" | [Bonus spirituel +2](./Médium.md#BONUSSPIRITUEL)
+| CLASS="gauche" | [[Médium#BONUSSPIRITUEL|Bonus spirituel +2]]
 | 1
 | -
 | -
@@ -81,7 +81,7 @@ Categories:
 | +1
 | +1
 | +4
-| CLASS="gauche" | [Canalisation de sites](./Médium.md#CANALISATIONDESITES)
+| CLASS="gauche" | [[Médium#CANALISATIONDESITES|Canalisation de sites]]
 | 1
 | -
 | -
@@ -92,7 +92,7 @@ Categories:
 | +2
 | +2
 | +5
-| CLASS="gauche" | [Pouvoir spirituel (intermédiaire)](./Médium.md#POUVOIRSPIRITUEL)
+| CLASS="gauche" | [[Médium#POUVOIRSPIRITUEL|Pouvoir spirituel (intermédiaire)]]
 | 1
 | -
 | -
@@ -103,7 +103,7 @@ Categories:
 | +2
 | +2
 | +5
-| CLASS="gauche" | [Canalisation liée](./Médium.md#CANALISATIONLIÉE)
+| CLASS="gauche" | [[Médium#CANALISATIONLIÉE|Canalisation liée]]
 | 1
 | 1
 | -
@@ -114,7 +114,7 @@ Categories:
 | +2
 | +2
 | +6
-| CLASS="gauche" | [Bonus spirituel +3](./Médium.md#BONUSSPIRITUEL)
+| CLASS="gauche" | [[Médium#BONUSSPIRITUEL|Bonus spirituel +3]]
 | 1
 | 1
 | -
@@ -125,7 +125,7 @@ Categories:
 | +3
 | +3
 | +6
-| CLASS="gauche" | [Conciliation](./Médium.md#CONCILIATION)
+| CLASS="gauche" | [[Médium#CONCILIATION|Conciliation]]
 | 2
 | 1
 | -
@@ -136,7 +136,7 @@ Categories:
 | +3
 | +3
 | +7
-| CLASS="gauche" | [accès de puissance spirituelle 1d8](./Médium.md#ACCÈSDEPUISSANCESPIRITUELLE)
+| CLASS="gauche" | [[Médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle 1d8]]
 | 2
 | 1
 | 1
@@ -147,7 +147,7 @@ Categories:
 | +3
 | +3
 | +7
-| CLASS="gauche" | [Pouvoir spirituel (majeur)](./Médium.md#POUVOIRSPIRITUEL)
+| CLASS="gauche" | [[Médium#POUVOIRSPIRITUEL|Pouvoir spirituel (majeur)]]
 | 2
 | 1
 | 1
@@ -158,7 +158,7 @@ Categories:
 | +4
 | +4
 | +8
-| CLASS="gauche" | [Bonus spirituel +4](./Médium.md#BONUSSPIRITUEL)
+| CLASS="gauche" | [[Médium#BONUSSPIRITUEL|Bonus spirituel +4]]
 | 2
 | 2
 | 1
@@ -169,7 +169,7 @@ Categories:
 | +4
 | +4
 | +8
-| CLASS="gauche" | [Questionnement des esprits](./Médium.md#QUESTIONNEMENTDESESPRITS)
+| CLASS="gauche" | [[Médium#QUESTIONNEMENTDESESPRITS|Questionnement des esprits]]
 | 3
 | 2
 | 1
@@ -180,7 +180,7 @@ Categories:
 | +4
 | +4
 | +9
-| CLASS="gauche" | [Voyage astral](./Médium.md#VOYAGEASTRAL)
+| CLASS="gauche" | [[Médium#VOYAGEASTRAL|Voyage astral]]
 | 3
 | 2
 | 1
@@ -191,7 +191,7 @@ Categories:
 | +5
 | +5
 | +9
-| CLASS="gauche" | [Transe des trois](./Médium.md#TRANSEDESTROIS)
+| CLASS="gauche" | [[Médium#TRANSEDESTROIS|Transe des trois]]
 | 3
 | 2
 | 2
@@ -202,7 +202,7 @@ Categories:
 | +5
 | +5
 | +10
-| CLASS="gauche" | [Bonus spirituel +5](./Médium.md#BONUSSPIRITUEL)
+| CLASS="gauche" | [[Médium#BONUSSPIRITUEL|Bonus spirituel +5]]
 | 3
 | 3
 | 2
@@ -213,7 +213,7 @@ Categories:
 | +5
 | +5
 | +10
-| CLASS="gauche" | [Pouvoir spirituel (suprême)](./Médium.md#POUVOIRSPIRITUEL)
+| CLASS="gauche" | [[Médium#POUVOIRSPIRITUEL|Pouvoir spirituel (suprême)]]
 | 4
 | 3
 | 2
@@ -224,7 +224,7 @@ Categories:
 | +6
 | +6
 | +11
-| CLASS="gauche" | [Grande âme](./Médium.md#GRANDEÂME)
+| CLASS="gauche" | [[Médium#GRANDEÂME|Grande âme]]
 | 4
 | 3
 | 2
@@ -235,7 +235,7 @@ Categories:
 | +6
 | +6
 | +11
-| CLASS="gauche" | [Maîtrise spirituelle](./Médium.md#MAÎTRISESPIRITUELLE)
+| CLASS="gauche" | [[Médium#MAÎTRISESPIRITUELLE|Maîtrise spirituelle]]
 | 4
 | 3
 | 3
@@ -246,7 +246,7 @@ Categories:
 | +6
 | +6
 | +12
-| CLASS="gauche" | [accès de puissance spirituelle 1d10](./Médium.md#ACCÈSDEPUISSANCESPIRITUELLE), [bonus spirituel +6](./Médium.md#BONUSSPIRITUEL), [guide astral](./Médium.md#GUIDEASTRAL)
+| CLASS="gauche" | [[Médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle 1d10]], [[Médium#BONUSSPIRITUEL|bonus spirituel +6]], [[Médium#GUIDEASTRAL|guide astral]]
 | 4
 | 4
 | 3
@@ -262,16 +262,16 @@ Categories:
 **Argent de départ.** 4d6 x 10 po (moyenne 140 po).
 
 ### Compétences de classe
-Voici les compétences de classe du médium : [Art de la magie](./Art de la magie.md) (Int), [Artisanat](./Artisanat.md) (Int), [Bluff](./Bluff.md) (Cha),[Connaissances](./Connaissances.md) (Mystère) (Int), [Connaissances](./Connaissances.md) (plans) (Int),[Connaissances](./Connaissances.md) (religion) (Int), [Diplomatie](./Diplomatie.md) (Cha),  [Intimidation](./Intimidation.md) (Cha), [Linguistique](./Linguistique.md) (Int), [Perception](./Perception.md) (Sag), [Premiers secours](./Premiers secours.md) (Sag), [Profession](./Profession.md) (Sag), [Psychologie](./Psychologie.md) (Sag), [Utilisation des objets magiques](./Utilisation dObjets Magiques.md) (Cha), [Vol](./Vol.md) (Dex).
+Voici les compétences de classe du médium : [[Art de la magie]] (Int), [[Artisanat]] (Int), [[Bluff]] (Cha),[[Connaissances]] (Mystère) (Int), [[Connaissances]] (plans) (Int),[[Connaissances]] (religion) (Int), [[Diplomatie]] (Cha),  [[Intimidation]] (Cha), [[Linguistique]] (Int), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Psychologie]] (Sag), [[Utilisation dObjets Magiques|Utilisation des objets magiques]] (Cha), [[Vol]] (Dex).
 
-**Points de compétence par niveau.** 4 + modificateur d’[Intelligence](./Intelligence.md).
+**Points de compétence par niveau.** 4 + modificateur d’[[Intelligence]].
 
 
 ### Descriptif de la classe
 Les aptitudes du médium sont décrites ci-dessous.
 
 #### Armes et armures
-Les médiums sont formés au maniement de toutes les armes courantes, ainsi qu’au port des [armures légères](./Tableau récapitulatif des armures.md#LEGERES) et [intérmediaires](./Tableau récapitulatif des armures.md#INTERMEDIAIRES), mais pas au maniement des boucliers.
+Les médiums sont formés au maniement de toutes les armes courantes, ainsi qu’au port des [[Tableau récapitulatif des armures#LEGERES|armures légères]] et [[Tableau récapitulatif des armures#INTERMEDIAIRES|intérmediaires]], mais pas au maniement des boucliers.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
@@ -325,36 +325,36 @@ Les médiums sont formés au maniement de toutes les armes courantes, ainsi qu�
 |}
 </div></div>{s:Reference|SORTSDUMÉDUIM}
 #### Sorts
-Un médium peut lancer un nombre réduit de sorts psychiques appartenant à la [liste de sorts du médium](./Liste des sorts de médium.md). Pour apprendre ou lancer un sort, le médium doit avoir une valeur de [Charisme](./Charisme.md) d’au moins 10 + le niveau du sort.
-Le [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) contre ses sorts est égal à 10 + le [niveau du sort](./Niveau de sort.md) + le modificateur de [Charisme](./Charisme.md) du médium.
+Un médium peut lancer un nombre réduit de sorts psychiques appartenant à la [[Liste des sorts de médium|liste de sorts du médium]]. Pour apprendre ou lancer un sort, le médium doit avoir une valeur de [[Charisme]] d’au moins 10 + le niveau du sort.
+Le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] contre ses sorts est égal à 10 + le [[niveau de sort|niveau du sort]] + le modificateur de [[Charisme]] du médium.
 
-Un médium ne peut lancer qu’un certain nombre de sorts de chaque niveau chaque jour. Son quota quotidien d’emplacements de sort de base est indiqué dans la Table "[Le médium](./Médium.md#TABLEMEDIUM)". En plus de ce quota, il reçoit des sorts quotidiens en bonus s’il possède une valeur de [Charisme](./Caractéristiques.md#DETERMINERLESMODIFICATEURS) élevée (voir la Table "[Modificateurs de caractéristique et sorts en bonus](./Caractéristiques.md#TABLEAUCARACTERISTIQUES)").
+Un médium ne peut lancer qu’un certain nombre de sorts de chaque niveau chaque jour. Son quota quotidien d’emplacements de sort de base est indiqué dans la Table "[[médium#TABLEMEDIUM|Le médium]]". En plus de ce quota, il reçoit des sorts quotidiens en bonus s’il possède une valeur de [[Caractéristiques#DETERMINERLESMODIFICATEURS|Charisme]] élevée (voir la Table "[[caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
 
-Le médium possède un répertoire de sorts limité. Au niveau 1, un médium connaît deux sorts de niveau 0 de son choix. Chaque fois qu’il gagne un niveau de médium, il apprend un ou plusieurs nouveaux sorts, comme indiqué dans la Table qui suit ([Sorts connus par le médium](./Médium.md#TABLESORTSDUMÉDIUMCONNUS)). Contrairement au quota de ses sorts quotidiens, le nombre de sorts connus par un médium n’est pas modifié par sa valeur de Charisme ; les nombres de la suivante sont fixes.
+Le médium possède un répertoire de sorts limité. Au niveau 1, un médium connaît deux sorts de niveau 0 de son choix. Chaque fois qu’il gagne un niveau de médium, il apprend un ou plusieurs nouveaux sorts, comme indiqué dans la Table qui suit ([[Médium#TABLESORTSDUMÉDIUMCONNUS|Sorts connus par le médium]]). Contrairement au quota de ses sorts quotidiens, le nombre de sorts connus par un médium n’est pas modifié par sa valeur de Charisme ; les nombres de la suivante sont fixes.
 
 Lorsqu’il atteint le niveau 5 et tous les trois niveaux par la suite, un médium peut apprendre un nouveau sort à la place d’un autre qu’il connaît déjà. Le niveau du nouveau sort doit être identique à celui du sort remplacé et il doit choisir s’il procède à un échange au moment où il apprend de nouveaux sorts lors du passage de niveau.
 
 {s:Reference|ASTUCES}
 #### Astuces
-Les médiums apprennent un certain nombre d’astuces (ou sorts de niveau 0), comme indiqué dans la Table : [Sorts connus par le médium](./Médium.md#TABLESORTSDUMÉDIUMCONNUS). Ces [sorts](./Liste des sorts de médium.md) sont lancés de la même manière que les autres mais ils ne nécessitent aucun emplacement de sort et peuvent être utilisés de manière illimitée.
+Les médiums apprennent un certain nombre d’astuces (ou sorts de niveau 0), comme indiqué dans la Table : [[Médium#TABLESORTSDUMÉDIUMCONNUS|Sorts connus par le médium]]. Ces [[Liste des sorts de médium|sorts]] sont lancés de la même manière que les autres mais ils ne nécessitent aucun emplacement de sort et peuvent être utilisés de manière illimitée.
 
 {s:Reference|ESPRIT}{s:Reference|POUVOIRSPIRITUEL}
 #### Esprit (Sur)
-{s:FAQ|***[→](./FAQ- Aventures occultes.md#11) Médium, Sites de prédilection : La classe de médium indique que les esprits peuvent être canalisés depuis n'importe quel lieu approprié, et pas seulement depuis les sites de prédilection, mais est-ce vrai ou puis-je seulement canaliser depuis l'un des sites de prédilection listés ?***
+{s:FAQ|***[[FAQ- Aventures occultes#11|→]] Médium, Sites de prédilection : La classe de médium indique que les esprits peuvent être canalisés depuis n'importe quel lieu approprié, et pas seulement depuis les sites de prédilection, mais est-ce vrai ou puis-je seulement canaliser depuis l'un des sites de prédilection listés ?***
 
-Telle qu'écrite, la classe permet au personnage de <u>[canaliser](./Médium.md#ESPRIT)</u> depuis n'importe quel lieu approprié, et les sites de prédilection ne sont qu'un point de départ. Il peut arriver que le personnage n'ait pas accès aux six légendes, mais un médium, qu'il s'agisse d'un PJ ou d'un PNJ, devrait généralement pouvoir accéder à une légende s'il peut trouver un bon lien conceptuel entre la légende et un lieu qu'il peut trouver ou même mettre en place lui-même. Par exemple, un médium peut aller chasser un cerf et utiliser ce lieu pour canaliser l'esprit du champion d'un chasseur légendaire.}Un médium est le réceptacle d’esprits qu’il canalise. Ces esprits sont les échos astraux d’âmes puissantes et antiques qui peuplent les mythes et les légendes. Chaque jour, un médium peut canaliser un esprit en accomplissant un rituel appelé **séance médiumnique**. L’accomplissement de ces séances prend une heure et nécessite toute la concentration du médium. À la fin d’une séance, le médium invite un esprit local à occuper son corps, qui devient son esprit pour la journée en cours. Chaque esprit provient d’une des six légendes. Même si le médium choisit la légende à laquelle appartient l’esprit qu’il canalise, il doit tout de même le canaliser dans un lieu approprié. Les esprits possèdent chacun un **site de prédilection** qu’ils occupent le plus souvent, mais on peut également les trouver dans d’autres endroits appropriés à leur légende. Ces sites sont indiqués dans la section intitulée Sites de prédilection de chaque légende. Le médium acquiert **l’aubaine de séance médiumnique** indiquée et le **pouvoir spirituel mineur** de l’esprit pendant 24 heures. Le médium acquiert également **le pouvoir spirituel intermédiaire** de l’esprit au niveau 6, le **pouvoir spirituel majeur** au niveau 11 et le **pouvoir spirituel suprême au niveau 17**.Au bout de 24 heures, le médium perd le contact avec l’esprit canalisé et peut accomplir une nouvelle séance médiumnique.
+Telle qu'écrite, la classe permet au personnage de <u>[[Médium#ESPRIT|canaliser]]</u> depuis n'importe quel lieu approprié, et les sites de prédilection ne sont qu'un point de départ. Il peut arriver que le personnage n'ait pas accès aux six légendes, mais un médium, qu'il s'agisse d'un PJ ou d'un PNJ, devrait généralement pouvoir accéder à une légende s'il peut trouver un bon lien conceptuel entre la légende et un lieu qu'il peut trouver ou même mettre en place lui-même. Par exemple, un médium peut aller chasser un cerf et utiliser ce lieu pour canaliser l'esprit du champion d'un chasseur légendaire.}Un médium est le réceptacle d’esprits qu’il canalise. Ces esprits sont les échos astraux d’âmes puissantes et antiques qui peuplent les mythes et les légendes. Chaque jour, un médium peut canaliser un esprit en accomplissant un rituel appelé **séance médiumnique**. L’accomplissement de ces séances prend une heure et nécessite toute la concentration du médium. À la fin d’une séance, le médium invite un esprit local à occuper son corps, qui devient son esprit pour la journée en cours. Chaque esprit provient d’une des six légendes. Même si le médium choisit la légende à laquelle appartient l’esprit qu’il canalise, il doit tout de même le canaliser dans un lieu approprié. Les esprits possèdent chacun un **site de prédilection** qu’ils occupent le plus souvent, mais on peut également les trouver dans d’autres endroits appropriés à leur légende. Ces sites sont indiqués dans la section intitulée Sites de prédilection de chaque légende. Le médium acquiert **l’aubaine de séance médiumnique** indiquée et le **pouvoir spirituel mineur** de l’esprit pendant 24 heures. Le médium acquiert également **le pouvoir spirituel intermédiaire** de l’esprit au niveau 6, le **pouvoir spirituel majeur** au niveau 11 et le **pouvoir spirituel suprême au niveau 17**.Au bout de 24 heures, le médium perd le contact avec l’esprit canalisé et peut accomplir une nouvelle séance médiumnique.
 
-Un médium peut inviter ses compagnons à participer à ses [séances médiumniques](./Médium.md#SÉANCEMÉDIUMNIQUEDEGROUPE) : ces séances de groupe et certains pouvoirs spirituels affectent alors les autres participants. On considère qu’un personnage participe à une séance médiumnique tant qu’il reste en contact physique avec un autre participant et accueille consciemment l’esprit. À la différence du médium, les autres personnages participants peuvent accomplir d’autres actions pendant une séance médiumnique. Seules les créatures avec une valeur d’[Intelligence](./Intelligence.md) d’au moins 3 peuvent participer à une séance.
+Un médium peut inviter ses compagnons à participer à ses [[Médium#SÉANCEMÉDIUMNIQUEDEGROUPE|séances médiumniques]] : ces séances de groupe et certains pouvoirs spirituels affectent alors les autres participants. On considère qu’un personnage participe à une séance médiumnique tant qu’il reste en contact physique avec un autre participant et accueille consciemment l’esprit. À la différence du médium, les autres personnages participants peuvent accomplir d’autres actions pendant une séance médiumnique. Seules les créatures avec une valeur d’[[Intelligence]] d’au moins 3 peuvent participer à une séance.
 
-En plus de lui conférer des pouvoirs, un esprit canalisé peut influencer le médium. En canalisant un esprit, le médium lui permet d’acquérir 1 point d’**influence** sur lui. Si le médium perd ce point d’influence, il perd également le contact avec l’esprit et ne peut pas accomplir une nouvelle séance médiumnique avant que la période normale de 24 heures ne se soit écoulée depuis la précédente. Quand l’esprit s’en va au bout de 24 heures et avant la prochaine séance, l’influence de l’esprit sur le médium retombe à 0. Certains pouvoirs permettent au médium d’acquérir davantage de puissance s’il autorise l’esprit à renforcer son influence sur lui. Quand un esprit obtient 3 points d’influence au moins sur le médium, le dualisme des pulsions qui agitent un même corps oblige le médium à fusionner avec la conscience de son esprit. La perception embrouillée de son identité propre et la lutte pour reprendre le contrôle qui en résultent infligent au médium un malus de -2 aux tests d’[initiative](./initiative.md) ainsi qu’un **malus d'influence** supplémentaire particulier indiqué dans la section de chaque esprit. Toutefois, la présence mentale de l’esprit confère au médium un bonus de +4 contre les effets de [possession](./Possession spirituelle.md) et un bonus de +2 aux [jets de sauvegarde](./Valeurs de combat.md#Jets_de_sauvegarde_9) effectués contre les effets mentaux non apparentés à la possession. Dès qu’un esprit accumule 5 points d’influence ou plus sur le médium, ce dernier perd tout contrôle de l’esprit. Dans les faits, il devient un PNJ contrôlé par le MJ jusqu’à ce qu’il se réveille le lendemain et que l’esprit s’en soit allé.
+En plus de lui conférer des pouvoirs, un esprit canalisé peut influencer le médium. En canalisant un esprit, le médium lui permet d’acquérir 1 point d’**influence** sur lui. Si le médium perd ce point d’influence, il perd également le contact avec l’esprit et ne peut pas accomplir une nouvelle séance médiumnique avant que la période normale de 24 heures ne se soit écoulée depuis la précédente. Quand l’esprit s’en va au bout de 24 heures et avant la prochaine séance, l’influence de l’esprit sur le médium retombe à 0. Certains pouvoirs permettent au médium d’acquérir davantage de puissance s’il autorise l’esprit à renforcer son influence sur lui. Quand un esprit obtient 3 points d’influence au moins sur le médium, le dualisme des pulsions qui agitent un même corps oblige le médium à fusionner avec la conscience de son esprit. La perception embrouillée de son identité propre et la lutte pour reprendre le contrôle qui en résultent infligent au médium un malus de -2 aux tests d’[[initiative]] ainsi qu’un **malus d'influence** supplémentaire particulier indiqué dans la section de chaque esprit. Toutefois, la présence mentale de l’esprit confère au médium un bonus de +4 contre les effets de [[Possession spirituelle|possession]] et un bonus de +2 aux [[Valeurs de combat#Jets_de_sauvegarde_9|jets de sauvegarde]] effectués contre les effets mentaux non apparentés à la possession. Dès qu’un esprit accumule 5 points d’influence ou plus sur le médium, ce dernier perd tout contrôle de l’esprit. Dans les faits, il devient un PNJ contrôlé par le MJ jusqu’à ce qu’il se réveille le lendemain et que l’esprit s’en soit allé.
 
-Pendant une séance médiumnique, le médium peut choisir de **canaliser un esprit plus faible** pour obtenir son aide sans véritablement s’exposer à son influence. Le cas échéant, il peut renoncer à n’importe quel nombre de pouvoirs, en commençant par le plus puissant de ses **pouvoirs spirituels**. Pour chaque pouvoir spirituel auquel il renonce, le médium acquiert deux utilisations quotidiennes de son aptitude [d’accès de puissance spirituelle](./Médium.md#ACCÈSDEPUISSANCESPIRITUELLE) sans subir d’influence.
+Pendant une séance médiumnique, le médium peut choisir de **canaliser un esprit plus faible** pour obtenir son aide sans véritablement s’exposer à son influence. Le cas échéant, il peut renoncer à n’importe quel nombre de pouvoirs, en commençant par le plus puissant de ses **pouvoirs spirituels**. Pour chaque pouvoir spirituel auquel il renonce, le médium acquiert deux utilisations quotidiennes de son aptitude [[Médium#ACCÈSDEPUISSANCESPIRITUELLE|d’accès de puissance spirituelle]] sans subir d’influence.
 
 {s:cs}**Les esprits légendaires.** Les esprits qu'un médium peut canaliser tirent leur puissance des histoires contées sur eux et de leur propre âme, dont résonnent les exploits qu'elles ont accomplies dans leur vie. Tous les esprits ont une histoire, et certains naissent de personnes dont les exploits ont changés le monde et dont les marques persistent à travers les âges. Ces êtres sont des esprits légendaires, et ils possèdent un grand pouvoir qu'ils peuvent partager avec les médiums qui méritent leurs faveurs.
 
 Acquérir la capacité de canaliser un esprit légendaire implique de voyager à un certain endroit ou d'accomplir un certain exploit, prêter un serment, réaliser un rituel, et réussir un test de caractéristique. Le type de test dépend de l'esprit, mais le DD est toujours égal à 10 + la moitié du niveau de classe du médium. Si le médium brise le serment, l'esprit ne répondra plus à ses appels. Si le médium tente d'appeler un autre esprit de la légende d'un esprit légendaire, celui-ci le quitte à jamais de la même façon.
 
-*Voir la [liste des esprits](./Esprits (Médium).md) et [des esprits légendaires](./Esprits légendaires.md).*
+*Voir la [[Esprits (médium)|liste des esprits]] et [[Esprits légendaires|des esprits légendaires]].*
 
 {s:ImageDroite|Illustrations/PNJ/Erasmus.jpg|35%}{s:Reference|BONUSSPIRITUEL}
 #### Bonus spirituel (Sur)
@@ -362,7 +362,7 @@ Quand un médium canalise un esprit, il acquiert un bonus sur certains tests et 
 
 {s:Reference|ACCÈSDEPUISSANCESPIRITUELLE}
 #### Accès de puissance spirituelle (Sur)
-Après avoir raté une action modifiée par son bonus spirituel en lançant un d20, un médium peut autoriser son esprit à acquérir 1 point d’influence supplémentaire sur lui afin d’ajouter 1d6 au résultat du test sans effectuer d’action. Cette aptitude peut ainsi transformer un test échoué en réussite. Le médium doit être conscient et utiliser volontairement cette aptitude. Il ne peut l’utiliser qu’une seule fois par [round](./round.md). Un médium de niveau 10 ajoute 1d8 lorsqu’il utilise son accès de puissance spirituelle et un médium de niveau 20 ajoute 1d10.
+Après avoir raté une action modifiée par son bonus spirituel en lançant un d20, un médium peut autoriser son esprit à acquérir 1 point d’influence supplémentaire sur lui afin d’ajouter 1d6 au résultat du test sans effectuer d’action. Cette aptitude peut ainsi transformer un test échoué en réussite. Le médium doit être conscient et utiliser volontairement cette aptitude. Il ne peut l’utiliser qu’une seule fois par [[round]]. Un médium de niveau 10 ajoute 1d8 lorsqu’il utilise son accès de puissance spirituelle et un médium de niveau 20 ajoute 1d10.
 
 {s:Reference|SÉANCEMÉDIUMNIQUEDEGROUPE}
 #### Séance médiumnique de groupe (Sur)
@@ -371,17 +371,17 @@ Au niveau 2, un médium peut partager le soutien de son esprit canalisé avec s
 {s:Reference|TABOU}
 #### Tabou (Ext)
 Dès le niveau 2, un médium peut accepter un tabou pendant sa séance médiumnique quotidienne pour apaiser son esprit. Des exemples de tabous sont indiqués pour chaque esprit et le MJ peut également autoriser des tabous supplémentaires.\
-L’acceptation d’un tabou permet au médium d’acquérir deux utilisations quotidiennes de son aptitude d’[accès de puissance spirituelle](./Médium.md#ACCÈSDEPUISSANCESPIRITUELLE) sans subir d’influence. Le médium ne peut choisir qu’un seul tabou. Il n’est pas magiquement contraint de le respecter mais, s’il le brise, quelle qu’en soit la raison, il subit un malus de -2 aux [jets d’attaque](./Valeurs de combat.md#Jet_d’attaque_2), aux [jets de dégâts](./Valeurs de combat.md#Dégâts_5), aux [tests de caractéristique](./Caractéristiques.md), aux [test de compétence](./Compétences.md#Tests_de_compétences_2) et aux [jets de sauvegarde](./Valeurs de combat.md#Jets_de_sauvegarde_9) pendant une heure et son esprit acquiert 1 point d’influence sur lui. Si le médium continue de briser le tabou tout en subissant le malus, la durée de ce malus se prolonge mais l’esprit n’obtient aucune influence supplémentaire sur lui. Si un esprit accumule 5 points d’influence à cause d’un tabou non respecté, il abandonne complètement le corps du médium au lieu de le posséder et le médium ne peut plus utiliser ses pouvoirs spirituels, ni ses aptitudes de bonus spirituel et d’[accès de puissance spirituelle](./Médium.md#ACCÈSDEPUISSANCESPIRITUELLE) jusqu’au prochain moment où il peut accomplir une séance médiumnique.
+L’acceptation d’un tabou permet au médium d’acquérir deux utilisations quotidiennes de son aptitude d’[[Médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle]] sans subir d’influence. Le médium ne peut choisir qu’un seul tabou. Il n’est pas magiquement contraint de le respecter mais, s’il le brise, quelle qu’en soit la raison, il subit un malus de -2 aux [[Valeurs de combat#Jet_d’attaque_2|jets d’attaque]], aux [[Valeurs de combat#Dégâts_5|jets de dégâts]], aux [[Caractéristiques|tests de caractéristique]], aux [[Compétences#Tests_de_compétences_2|test de compétence]] et aux [[Valeurs de combat#Jets_de_sauvegarde_9|jets de sauvegarde]] pendant une heure et son esprit acquiert 1 point d’influence sur lui. Si le médium continue de briser le tabou tout en subissant le malus, la durée de ce malus se prolonge mais l’esprit n’obtient aucune influence supplémentaire sur lui. Si un esprit accumule 5 points d’influence à cause d’un tabou non respecté, il abandonne complètement le corps du médium au lieu de le posséder et le médium ne peut plus utiliser ses pouvoirs spirituels, ni ses aptitudes de bonus spirituel et d’[[Médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle]] jusqu’au prochain moment où il peut accomplir une séance médiumnique.
 Le départ d’un esprit de cette façon endommage le lien du médium avec la légende de cet esprit et le médium ne peut alors plus canaliser les esprits de cette légende pendant une semaine. De plus, la prochaine fois que le médium canalise un esprit de cette légende, celui-ci commence avec 2 points d’influence sur lui au lieu de 1.
 
 {s:Reference|CANALISATIONDAPPARITIONS}
 #### Canalisation d'apparitions (Sur)
-Au niveau 3, un médium peut exploiter son accointance avec les esprits pour améliorer ses interactions avec les apparitions. Il peut toujours agir lors du [round de surprise](./Déroulement dun combat.md#La_surprise_2) contre une [apparition](./Apparitions.md) et son contact physique avec l’une d’elles lui permet de transférer un fragment de l’apparition vers lui. Ce transfert inflige à l’apparition 1d6 points de dégâts par tranche de 2 niveaux de médium, comme si l’énergie positive était utilisée, et le médium peut lui poser une unique question.
-L’apparition peut répondre à la question comme elle l’entend. De plus, le médium peut renoncer au [jets de sauvegarde](./Valeurs de combat.md#Jets_de_sauvegarde_9) contre les effets d’une apparition pour transférer l’apparition toute entière vers lui. Le cas échéant, le médium subit tous les effets de l’apparition mais celle-ci n’affecte personne d’autre (même si c’est normalement le cas). L’apparition peut dès lors contrôler le corps du médium pendant 24 heures. Une fois par minute, le médium peut tenter de mettre prématurément fin à cette [possession](./Possession spirituelle.md) en réussissant un jet de Volonté (DD = 20 + la moitié du niveau de médium).
+Au niveau 3, un médium peut exploiter son accointance avec les esprits pour améliorer ses interactions avec les apparitions. Il peut toujours agir lors du [[Déroulement dun combat#La_surprise_2|round de surprise]] contre une [[Apparitions|apparition]] et son contact physique avec l’une d’elles lui permet de transférer un fragment de l’apparition vers lui. Ce transfert inflige à l’apparition 1d6 points de dégâts par tranche de 2 niveaux de médium, comme si l’énergie positive était utilisée, et le médium peut lui poser une unique question.
+L’apparition peut répondre à la question comme elle l’entend. De plus, le médium peut renoncer au [[Valeurs de combat#Jets_de_sauvegarde_9|jets de sauvegarde]] contre les effets d’une apparition pour transférer l’apparition toute entière vers lui. Le cas échéant, le médium subit tous les effets de l’apparition mais celle-ci n’affecte personne d’autre (même si c’est normalement le cas). L’apparition peut dès lors contrôler le corps du médium pendant 24 heures. Une fois par minute, le médium peut tenter de mettre prématurément fin à cette [[Possession spirituelle|possession]] en réussissant un jet de Volonté (DD = 20 + la moitié du niveau de médium).
 
 {s:Reference|CANALISATIONDESSITES}{s:Reference|CANALISATIONDESITES}
 #### Canalisation des sites (Mag)
-Au niveau 5, un médium peut accomplir une séance médiumnique spéciale à l’endroit où une personne a rendu l’âme, ou sur un site cher à une personne de son vivant, pour invoquer son esprit et l’inviter à occuper le corps du médium afin que ses alliés puissent le questionner. Les effets sont similaires au sort [appel d’un esprit](./Appel dun esprit.md), sauf qu’ils durent 1 round par niveau de médium et que l’esprit investit le corps du médium au lieu d’apparaître sous la forme d’une silhouette vaporeuse.
+Au niveau 5, un médium peut accomplir une séance médiumnique spéciale à l’endroit où une personne a rendu l’âme, ou sur un site cher à une personne de son vivant, pour invoquer son esprit et l’inviter à occuper le corps du médium afin que ses alliés puissent le questionner. Les effets sont similaires au sort [[Appel dun esprit|appel d’un esprit]], sauf qu’ils durent 1 round par niveau de médium et que l’esprit investit le corps du médium au lieu d’apparaître sous la forme d’une silhouette vaporeuse.
 Les autres participants à la séance doivent poser des questions. Quand le médium tente d’appeler un esprit, il ne peut plus tenter d’appeler de nouveau le même pendant les 24 heures suivantes. Une fois par round, le médium peut tenter de mettre fin à la séance en réussissant un jet de Volonté (DD = 20 + la moitié du niveau de médium).
 
 {s:Reference|CANALISATIONLIÉE}
@@ -403,7 +403,7 @@ Au niveau 14, un médium peut entrer volontairement dans un coma profond afin d
 
 {s:Reference|TRANSEDESTROIS}
 #### Transe des trois (Sur)
-Au niveau 15 et par une [action rapide](./Action rapide.md), un médium peut permettre à son esprit d’acquérir 1 point d’influence sur lui afin d’autoriser le fragment d’esprit mythique d’une autre légende à investir son corps pendant 1 round par niveau, ce qui lui confère le pouvoir spirituel intermédiaire de cette légende. Si ce pouvoir possède un nombre limité d’utilisations quotidiennes, le médium doit noter les utilisations restantes même lorsque l’esprit secondaire est parti car, si le médium appelle cet esprit secondaire plusieurs fois lors d’une même journée, il pourra lui conférer les utilisations restantes de ce pouvoir. Si le médium utilise une aptitude qui l’expose à l’influence, l’esprit principal du médium, et non l’esprit secondaire, obtient ce montant d’influence sur lui. Le médium ne bénéficie pas des avantages de son bonus spirituel conféré par l’esprit secondaire. Le médium peut mettre prématurément fin à la transe des trois par une action libre.
+Au niveau 15 et par une [[action rapide]], un médium peut permettre à son esprit d’acquérir 1 point d’influence sur lui afin d’autoriser le fragment d’esprit mythique d’une autre légende à investir son corps pendant 1 round par niveau, ce qui lui confère le pouvoir spirituel intermédiaire de cette légende. Si ce pouvoir possède un nombre limité d’utilisations quotidiennes, le médium doit noter les utilisations restantes même lorsque l’esprit secondaire est parti car, si le médium appelle cet esprit secondaire plusieurs fois lors d’une même journée, il pourra lui conférer les utilisations restantes de ce pouvoir. Si le médium utilise une aptitude qui l’expose à l’influence, l’esprit principal du médium, et non l’esprit secondaire, obtient ce montant d’influence sur lui. Le médium ne bénéficie pas des avantages de son bonus spirituel conféré par l’esprit secondaire. Le médium peut mettre prématurément fin à la transe des trois par une action libre.
 
 {s:Reference|GRANDEÂME}
 #### Grande âme (Sur)

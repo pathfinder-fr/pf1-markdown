@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Véhicules#VEHICULE
 ---
 
->>> [Véhicules#VEHICULE](./Véhicules.md#VEHICULE)
+>>> [[Véhicules#VEHICULE]]

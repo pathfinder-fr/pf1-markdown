@@ -12,9 +12,9 @@ Categories:
 
 *Vous êtes particulièrement adepte de frapper vos adversaires qui ne sont pas informés de votre présence.*
 
-**Condition.** Capacité de classe [attaque imprévisible](./Mystificateur profane.md#ATTAQUEIMPREVISIBLE)
+**Condition.** Capacité de classe [[Mystificateur profane#ATTAQUEIMPREVISIBLE|attaque imprévisible]]
 
-**Avantage.** Le personnage peut effectuer une [attaque imprévisible](./Mystificateur profane.md#ATTAQUEIMPREVISIBLE) supplémentaire chaque jour.
+**Avantage.** Le personnage peut effectuer une [[Mystificateur profane#ATTAQUEIMPREVISIBLE|attaque imprévisible]] supplémentaire chaque jour.
 
 **Spécial.** Le personnage peut choisir ce don plusieurs fois. Ces effets se cumulent.
 

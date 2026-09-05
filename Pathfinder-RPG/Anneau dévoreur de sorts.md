@@ -7,11 +7,11 @@ Categories:
 - Src Armes et équipement
 ---
 
-<div style="float:right">***Retour aux [Objets maudits](./Objets maudits.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[Objets maudits]].***</div><div class="BD">
 {s:BDTitre|Anneau dévoreur de sorts|{s:AE}}
-**Aura** [Abjuration](./Abjuration.md) puissante ; **NLS** 13 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Poids** —
+**Aura** [[Abjuration]] puissante ; **NLS** 13 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Poids** —
 (((Description)))
-Cet anneau délicat ressemble à un [anneau de stockage de sort](./Anneau de stockage de sort.md) ou [de renvoi des sorts](./Anneau de renvoi des sorts.md) mais, au lieu d’aider à lancer des sorts ou à les détourner, il fait tout l’inverse. À chaque fois que son propriétaire lance un sort de magie profane, il a 25% de chances de rater son sort. De plus, il subit un malus de –4 aux tests d’[Art de la magie](./Art de la magie.md) quand il tente d’identifier un sort pour lancer un contresort. Il faut recourir à une *[délivrance des malédictions](./Délivrance des malédictions.md)* ou à un effet similaire pour se débarrasser de cet anneau.
+Cet anneau délicat ressemble à un [[anneau de stockage de sort]] ou [[anneau de renvoi des sorts|de renvoi des sorts]] mais, au lieu d’aider à lancer des sorts ou à les détourner, il fait tout l’inverse. À chaque fois que son propriétaire lance un sort de magie profane, il a 25% de chances de rater son sort. De plus, il subit un malus de –4 aux tests d’[[Art de la magie]] quand il tente d’identifier un sort pour lancer un contresort. Il faut recourir à une *[[délivrance des malédictions]]* ou à un effet similaire pour se débarrasser de cet anneau.
 (((Objet magique prévu)))
-[anneau de stockage de sort](./Anneau de stockage de sort.md) (tous), [anneau de renvoi des sorts](./Anneau de renvoi des sorts.md)
+[[anneau de stockage de sort]] (tous), [[anneau de renvoi des sorts]]
 </div>

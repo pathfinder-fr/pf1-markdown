@@ -8,11 +8,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Cube de force|{s:AE}}
-**Aura** [Évocation](./Évocation.md) modérée ; **NLS** 10 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 62 000 po ; **Poids** 0,5 kg
+**Aura** [[Évocation]] modérée ; **NLS** 10 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 62 000 po ; **Poids** 0,5 kg
 (((Description)))
-Cet objet de la taille d’un dé à jouer (environ deux centimètres d’arête) peut être taillé dans l’ivoire, l’os, ou dans tout minéral suffisamment dur. Il permet de faire apparaître autour de son possesseur un *[mur de force](./Mur de force.md)* de forme cubique. Chaque face de ce champ de force fait trois mètres de côté. L’écran se déplace avec le personnage et l’immunise contre les attaques indiquées ci-dessous, selon le réglage choisi. Le cube possède 36 charges, restaurées au début de chaque journée. Le personnage doit presser une des faces du cube pour activer ou désactiver le *[mur de force](./Mur de force.md)*. Le propriétaire du cube en presse une face pour activer un type d’écran ou pour désactiver un écran en place. Chaque effet coûte un certain nombre de charges par minute (ou portion de minute) d’utilisation. Tant qu’un écran est actif, la vitesse de son porteur est limitée à la valeur indiquée dans la table.
+Cet objet de la taille d’un dé à jouer (environ deux centimètres d’arête) peut être taillé dans l’ivoire, l’os, ou dans tout minéral suffisamment dur. Il permet de faire apparaître autour de son possesseur un *[[mur de force]]* de forme cubique. Chaque face de ce champ de force fait trois mètres de côté. L’écran se déplace avec le personnage et l’immunise contre les attaques indiquées ci-dessous, selon le réglage choisi. Le cube possède 36 charges, restaurées au début de chaque journée. Le personnage doit presser une des faces du cube pour activer ou désactiver le *[[mur de force]]*. Le propriétaire du cube en presse une face pour activer un type d’écran ou pour désactiver un écran en place. Chaque effet coûte un certain nombre de charges par minute (ou portion de minute) d’utilisation. Tant qu’un écran est actif, la vitesse de son porteur est limitée à la valeur indiquée dans la table.
 
-Quand le *[mur de force](./Mur de force.md)* est activé, toute attaque infligeant plus de 30 points de dégâts oblige le cube à dépenser 1 charge additionnelle pour chaque tranche de 10 points de dégâts supplémentaires.
+Quand le *[[mur de force]]* est activé, toute attaque infligeant plus de 30 points de dégâts oblige le cube à dépenser 1 charge additionnelle pour chaque tranche de 10 points de dégâts supplémentaires.
 
 {| CLASS="tablo centre autoalt"
 |- CLASS="titre"
@@ -47,18 +47,18 @@ Les sorts qui affectent l’intégrité physique du cube coûte également des c
 |- CLASS="titre"
 | Sort ou effet || Charges supplémentaires
 |- CLASS="premier"
-| *[Cor de dévastation](./Cor de dévastation.md)* || 6
+| *[[Cor de dévastation]]* || 6
 |-
-| *[Désintégration](./Désintégration.md)* || 6
+| *[[Désintégration]]* || 6
 |-
-| *[Mur de feu](./Mur de feu.md)* || 2
+| *[[Mur de feu]]* || 2
 |-
-| *[Passe-muraille](./Passe-muraille.md)* || 3
+| *[[Passe-muraille]]* || 3
 |-
-| *[Porte de phase](./Porte de phase.md)* || 5
+| *[[Porte de phase]]* || 5
 |-
-| *[Rayons prismatiques](./Rayons prismatiques.md)* || 7
+| *[[Rayons prismatiques]]* || 7
 |}
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[mur de force](./Mur de force.md)* ; **Coût** 31 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[mur de force]]* ; **Coût** 31 000 po
 </div>

@@ -11,11 +11,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Veste polyvalente|{s:RSE}}
-**Aura** [Invocation](./Invocation.md) et [Transmutation](./Transmutation.md) modérées ; **NLS** 9  ; **Emplacement** [torse](./Objets merveilleux portés sur le torse.md) ; ** Prix** 2.000 po ; **Poids** 0,5 kg
+**Aura** [[Invocation]] et [[Transmutation]] modérées ; **NLS** 9  ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; ** Prix** 2.000 po ; **Poids** 0,5 kg
 (((Description)))
-Cette robuste veste reste sèche et impeccable même dans les pires conditions. Vous pouvez y attacher jusqu’à six objets (pesant jusqu’à 500 g chacun) : il suffit de les mettre à son contact en prononçant un mot de commande. Vous pouvez récupérer n’importe lequel de ces objets par une [action de mouvement](./Action de mouvement.md).
+Cette robuste veste reste sèche et impeccable même dans les pires conditions. Vous pouvez y attacher jusqu’à six objets (pesant jusqu’à 500 g chacun) : il suffit de les mettre à son contact en prononçant un mot de commande. Vous pouvez récupérer n’importe lequel de ces objets par une [[action de mouvement]].
 
-En outre, la veste contient quatre grandes poches, chacune capable de renfermer 15 dm³ de volume ou un poids de 2,250 kilos, tout en ne pesant que 500 grammes une fois pleine. Quand on les ferme, les poches sont imperméables et à l’épreuve des intempéries. La première poche contient des [rations de route](./Rations de survie (objet).md) pour 1 jour, un litre d’eau dans une [outre](./Outre (objet).md), deux [bougies](./Bougie (objet).md) et un [allume-feu](./Allume-feu (objet).md). La veste recrée ces objets si la première poche demeure vide pendant 3 jours.
+En outre, la veste contient quatre grandes poches, chacune capable de renfermer 15 dm³ de volume ou un poids de 2,250 kilos, tout en ne pesant que 500 grammes une fois pleine. Quand on les ferme, les poches sont imperméables et à l’épreuve des intempéries. La première poche contient des [[Rations de survie (objet)|rations de route]] pour 1 jour, un litre d’eau dans une [[Outre (objet)|outre]], deux [[Bougie (objet)|bougies]] et un [[Allume-feu (objet)|allume-feu]]. La veste recrée ces objets si la première poche demeure vide pendant 3 jours.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[création de nourriture et d'eau](./Création de nourriture et deau.md)*, *[coffre secret](./Coffre secret.md)*, *[prestidigitation](./Prestidigitation.md)* ; **Coût** 1.000 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[création de nourriture et deau|création de nourriture et d'eau]]*, *[[coffre secret]]*, *[[prestidigitation]]* ; **Coût** 1.000 po
 </div>

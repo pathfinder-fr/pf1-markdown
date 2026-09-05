@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Baume de la seconde chance|{s:CSU|7}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** 1 600 po ; **Poids** —
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux sans emplacement|aucun]] ; **Prix** 1 600 po ; **Poids** —
 (((Description)))
-Mère mousse de nuit développa ce puissant baume sous la tutelle des esprits follets de la forêt au sud-est des Royaumes indépendants en distillant de la mousse de nuit. Si on le frotte sur un cadavre ou sur une partie de cadavre, il reproduit les effets d’un sort de *[réincarnation](./Réincarnation.md)*. Si on l’utilise la nuit de la nouvelle lune, le récipiendaire lance deux fois le dé sur la table de réincarnation et choisit le résulta qu’il préfère.
+Mère mousse de nuit développa ce puissant baume sous la tutelle des esprits follets de la forêt au sud-est des Royaumes indépendants en distillant de la mousse de nuit. Si on le frotte sur un cadavre ou sur une partie de cadavre, il reproduit les effets d’un sort de *[[réincarnation]]*. Si on l’utilise la nuit de la nouvelle lune, le récipiendaire lance deux fois le dé sur la table de réincarnation et choisit le résulta qu’il préfère.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[réincarnation](./Réincarnation.md)* ; **Coût** 800 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[réincarnation]]* ; **Coût** 800 po
 </div>

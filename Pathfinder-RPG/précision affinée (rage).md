@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#PRECISIONAFFINEE
 ---
 
->>> [Pouvoirs de rage#PRECISIONAFFINEE](./Pouvoirs de rage.md#PRECISIONAFFINEE)
+>>> [[Pouvoirs de rage#PRECISIONAFFINEE]]

@@ -11,8 +11,8 @@ Categories:
 
 {s:uc}*Les coups du personnage s’attaquent à la forme physique et magique de ses ennemis.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Frappe magique](./Frappe magique.md), [BBA](./BBA.md) +11, *[dissipation de la magie](./Dissipation de la magie.md)*
+**Conditions.** [[Frappe magique]], [[BBA]] +11, *[[dissipation de la magie]]*
 
-**Avantage.** Si le personnage a préparé *dissipation de la magie* ou s’il peut le lancer spontanément, il peut dépenser une [action rapide](./Action rapide.md) pour le lancer de façon ciblée sur un adversaire contre lequel il a réussi un [coup critique](./coup critique.md).
+**Avantage.** Si le personnage a préparé *dissipation de la magie* ou s’il peut le lancer spontanément, il peut dépenser une [[action rapide]] pour le lancer de façon ciblée sur un adversaire contre lequel il a réussi un [[coup critique]].

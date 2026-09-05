@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Évocation](./Évocation.md) ;** Niveau** [Pal](./Paladin.md) 3  
+**École** [[Évocation]] ;** Niveau** [[Paladin|Pal]] 3  
 
 **Temps d'incantation** 1 action rapide  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
 **Portée** spéciale (voir description)  
 
 **Cible** une créature  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md)  
+**Durée** 1 [[round]]/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Après avoir lancé ce sort, la prochaine cible que le personnage attaque à l'aide de son pouvoir de classe [châtiment du mal](./Paladin.md#CHATIMENTDUMAL) est engloutie dans des flammes d'énergie positive. Au début de son tour, la cible subit 1d6 points de dégâts et 1d6 points supplémentaires à chaque fois qu'elle attaque une créature autre que le personnage. Si la créature est un [extérieur](./type Extérieur.md) de [sous-type Mauvais](./sous-type Mal.md), un [dragon](./dragon.md) Mauvais ou un [mort-vivant](./type Mort-vivant.md), ces dégâts passent à 1d10. En cas de [jet de sauvegarde](./jet de sauvegarde.md) réussi, ce sort n'affecte la créature que pendant 1 [round](./round.md). Ces dégâts sont de nature divine et ignorent toute [RD](./RD.md) de la créature.
+Après avoir lancé ce sort, la prochaine cible que le personnage attaque à l'aide de son pouvoir de classe [[paladin#CHATIMENTDUMAL|châtiment du mal]] est engloutie dans des flammes d'énergie positive. Au début de son tour, la cible subit 1d6 points de dégâts et 1d6 points supplémentaires à chaque fois qu'elle attaque une créature autre que le personnage. Si la créature est un [[type extérieur|extérieur]] de [[sous-type Mal|sous-type Mauvais]], un [[dragon]] Mauvais ou un [[type mort-vivant|mort-vivant]], ces dégâts passent à 1d10. En cas de [[jet de sauvegarde]] réussi, ce sort n'affecte la créature que pendant 1 [[round]]. Ces dégâts sont de nature divine et ignorent toute [[RD]] de la créature.

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 po ; **Poids** 25 kg
-<span class="Catégorie">**Catégorie** [Animaux, montures et leur équipement](./Animaux, montures et leur équipement.md)</span>
+<span class="Catégorie">**Catégorie** [[Animaux, montures et leur équipement]]</span>
 ---
-Ces animaux de taille P sont de vicieux charognards lorsqu’ils vivent dans la nature, néanmoins, élevés en captivité, on peut les dresser comme des animaux de compagnie et des protecteurs loyaux. Les rats sanguinaires de compagnie ne sont pas porteurs de la fièvre des marais. Voir les statistiques du [rat sanguinaire](./Rat sanguinaire.md).
+Ces animaux de taille P sont de vicieux charognards lorsqu’ils vivent dans la nature, néanmoins, élevés en captivité, on peut les dresser comme des animaux de compagnie et des protecteurs loyaux. Les rats sanguinaires de compagnie ne sont pas porteurs de la fièvre des marais. Voir les statistiques du [[rat sanguinaire]].

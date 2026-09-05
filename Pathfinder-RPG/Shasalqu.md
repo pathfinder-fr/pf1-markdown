@@ -11,10 +11,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Shasalqu|FP 3}
 {s:pucem|Créature magique|Désert|Tropical}
-{s:BDTexte|*Source : [Bestiaire 5 p.241](./Bestiaire 5 (Contenu).md)*}
+{s:BDTexte|*Source : [[Bestiaire 5 (contenu)|Bestiaire 5 p.241]]*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille P, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +6}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille P, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +6}
 {s:BDTexte|**Aura** froid pétrifiant (3 m, DD 14)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 13 (Dex +2, naturelle +2, taille +1)}
@@ -26,18 +26,18 @@ Categories:
 {s:BDTexte|**Corps à corps** coup de queue, +8 (1d8+4 plus 1d6 froid)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 15, **Con** 14, **Int** 2, **Sag** 13, **Cha** 12}
-{s:BDTexte|**BBA** +4 ; **BMO** +6 ; **DMD** 18 (22 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [S'avancer](./Savancer.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Escalade](./Escalade.md) +7, [Perception](./Perception.md) +6}
+{s:BDTexte|**BBA** +4 ; **BMO** +6 ; **DMD** 18 (22 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Savancer|S'avancer]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Escalade]] +7, [[Perception]] +6}
 {s:BDTexte|**Particularités** chair glaciale}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** déserts chauds}
 {s:BDTexte|**Organisation** solitaire, paire ou groupe (3-6)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Absorption de chaleur (Ext).** Les shasalqus sont [immunisés](./Immunité (capacité).md) aux dégâts de feu. Mieux encore, ils gagnent 1 [point de vie temporaire](./points de vie temporaires.md) par tranche de trois points de dégâts de feu qu’ils auraient dû subir. Ces points de vie temporaires disparaissent au bout d’une heure.}
-{s:BDTexte|**Chair glaciale (Ext).** Une créature qui frappe un shasalqu avec une [attaque naturelle](./Attaques naturelles (capacité).md) ou à mains nues subit 1d6 points de dégâts de froid.}
-{s:BDTexte|**Froid pétrifiant (Sur).** Un shasalqu dégage une aura qui absorbe la chaleur. Toute créature qui commence son tour dans un rayon de 3 mètres d’un shasalqu subit 1d6 points de dégâts de froid et se trouve [enchevêtrée](./Enchevêtré.md). Un jet de sauvegarde réussi permet d’annuler ces deux effets. Une créature qui subit ces effets est enchevêtrée tant qu’elle se trouve dans la zone d’effet de l’aura, plus 1 round supplémentaire. Les créatures [immunisées](./Immunité (capacité).md) au froid ou dont la [résistante](./Résistance (capacité).md) au froid annule les dégâts de froid et ne sont pas enchevêtrées. Quand un shasalqu meurt, son aura persiste autour de son cadavre pendant 1 heure. Le DD du jet de sauvegarde est basé sur la Constitution.}
+{s:BDTexte|**Absorption de chaleur (Ext).** Les shasalqus sont [[Immunité (capacité)|immunisés]] aux dégâts de feu. Mieux encore, ils gagnent 1 [[points de vie temporaires|point de vie temporaire]] par tranche de trois points de dégâts de feu qu’ils auraient dû subir. Ces points de vie temporaires disparaissent au bout d’une heure.}
+{s:BDTexte|**Chair glaciale (Ext).** Une créature qui frappe un shasalqu avec une [[Attaques naturelles (capacité)|attaque naturelle]] ou à mains nues subit 1d6 points de dégâts de froid.}
+{s:BDTexte|**Froid pétrifiant (Sur).** Un shasalqu dégage une aura qui absorbe la chaleur. Toute créature qui commence son tour dans un rayon de 3 mètres d’un shasalqu subit 1d6 points de dégâts de froid et se trouve [[enchevêtré|enchevêtrée]]. Un jet de sauvegarde réussi permet d’annuler ces deux effets. Une créature qui subit ces effets est enchevêtrée tant qu’elle se trouve dans la zone d’effet de l’aura, plus 1 round supplémentaire. Les créatures [[Immunité (capacité)|immunisées]] au froid ou dont la [[Résistance (capacité)|résistante]] au froid annule les dégâts de froid et ne sont pas enchevêtrées. Quand un shasalqu meurt, son aura persiste autour de son cadavre pendant 1 heure. Le DD du jet de sauvegarde est basé sur la Constitution.}
 
 </div></td>
 <td><div>*Une crête de glace dentelée court le long de la colonne vertébrale de ce lézard reluisant qui vit dans le désert.*

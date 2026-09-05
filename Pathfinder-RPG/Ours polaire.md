@@ -13,21 +13,21 @@ Categories:
 {s:pucem|Animal|Plaines|Froid}
 {s:BDTexte|*Source : Bestiaire 5 p.199*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +3 ; **Sens** [odorat](./Odorat (capacité).md), [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +3 ; **Sens** [[Odorat (capacité)|odorat]], [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 12, pris au dépourvu 17 (Dex +3, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 52 (5d8+30)}
 {s:BDTexte|**Réf** +7, **Vig** +10, **Vol** +4}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m, nage 6 m}
-{s:BDTexte|**Corps à corps** morsure, +9 (1d8+7) et 2 griffes, +9 (1d6+7 plus [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** morsure, +9 (1d8+7) et 2 griffes, +9 (1d6+7 plus [[Étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Espace occupé** 3 m ; **Allonge** 1,50 m}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 25, **Dex** 17, **Con** 23, **Int** 2, **Sag** 16, **Cha** 10}
-{s:BDTexte|**BBA** +3 ; **BMO** +11 (+15 en [lutte](./lutte.md)) ; **DMD** 24 (28 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Course](./Course.md), [Endurance](./Endurance.md), [Talent](./Talent.md) (Survie)}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +19, [Perception](./Perception.md) +8, [Survie](./Survie.md) +8}
+{s:BDTexte|**BBA** +3 ; **BMO** +11 (+15 en [[lutte]]) ; **DMD** 24 (28 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Course]], [[Endurance]], [[Talent]] (Survie)}
+{s:BDTexte|**Compétences** [[Natation]] +19, [[Perception]] +8, [[Survie]] +8}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** côtes ou plaines froides}
 {s:BDTexte|**Organisation** solitaire ou couple}
@@ -39,13 +39,13 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Grizzly](./Grizzly.md) || 4
+| [[Grizzly]] || 4
 |-
-| [Ours sanguinaire](./Ours sanguinaire.md) || 7
+| [[Ours sanguinaire]] || 7
 |-
-| [Ours polaire](./Ours polaire.md) || 5
+| [[Ours polaire]] || 5
 |-
-| [Ours polaire sanguinaire](./Ours polaire sanguinaire.md) || 8
+| [[Ours polaire sanguinaire]] || 8
 |}
 </div>*Ce gros ours est entièrement blanc, à l’exception de ses petits yeux noirs et de ses sombres babines retroussées sur d’énormes crocs luisants.*
 
@@ -55,8 +55,8 @@ Même s’ils peuvent aisément éviter les conflits en plongeant dans les remou
 
 Les ours polaires vivent pendant une moyenne de 15 à 20 ans, mais les habitants des régions arctiques ont déjà vu des ours d’une quarantaine d’années qui occupent alors une place légendaire dans le folklore local. Un mâle adulte pèse entre 400 et 600 kilos, et les femelles entre 175 et 325 kilos.
 
-#### L'ours polaire comme [compagnon animal](./liste des compagnons animaux.md)
-**Caractéristiques de départ :** **Taille** P ; **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +2 ; **Attaque** morsure (1d4), 2 griffes (1d3) ; **Caractéristiques** For 15, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+#### L'ours polaire comme [[Liste des compagnons animaux|compagnon animal]]
+**Caractéristiques de départ :** **Taille** P ; **Vitesse** 12 m (8 {s:c}); **CA** armure naturelle +2 ; **Attaque** morsure (1d4), 2 griffes (1d3) ; **Caractéristiques** For 15, Dex 15, Con 13, Int 2, Sag 12, Cha 6 ; **Particularités** [[odorat]], [[vision nocturne]].
 
 **Développement au niveau 4 :** **Taille** M ; **Attaque** morsure (1d6), 2 griffes (1d4) ; **Caractéristiques** For +4, Dex -2, Con +2.
 </div></td></tr></table>

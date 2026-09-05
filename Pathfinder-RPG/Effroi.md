@@ -18,20 +18,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) <nowiki>[</nowiki>[émotion](./Registre.md), [mental](./Registre.md), [peur](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Apal](./Antipaladin.md) 2, [Bard](./Barde.md) 2, [Cham](./Chaman.md) 2, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Méd](./Médium.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2, [Spi](./Spirite.md) 2  
+**École** [[Nécromancie]] <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]], [[registre|peur]]<nowiki>]</nowiki> ; **Niveau** [[Antipaladin|Apal]] 2, [[Barde|Bard]] 2, [[Chaman|Cham]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Médium|Méd]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2, [[Spirite|Spi]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un os d’un mort-vivant)  
+**Composantes** [[composantes|V, G, M]] (un os d’un mort-vivant)  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
-**Cibles** 1 créature vivante/3 [niveaux](./niveau.md), distantes de moins de 9 m (6 {s:c}) les unes des autres  
+**Cibles** 1 créature vivante/3 [[niveau|niveaux]], distantes de moins de 9 m (6 {s:c}) les unes des autres  
 
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ou 1 [round](./round.md)  
+**Durée** 1 [[round]]/[[niveau]] ou 1 [[round]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Les cibles de ce sort sont [effrayées](./Effrayé.md). Si une cible réussit un jet de [Volonté](./Volonté.md), elle est seulement [secouée](./Secoué.md) pendant 1 [round](./round.md). Les créatures qui possèdent 6 [DV](./../Ressources/DV.md) ou plus sont [immunisées](./immunisé.md) contre ce sort.
+Les cibles de ce sort sont [[effrayé|effrayées]]. Si une cible réussit un jet de [[Volonté]], elle est seulement [[secoué|secouée]] pendant 1 [[round]]. Les créatures qui possèdent 6 [[DV]] ou plus sont [[immunisé|immunisées]] contre ce sort.
 
-(((Ce sort fonctionne comme *[frayeur](./Frayeur.md)*, si ce n’est qu’il affecte toutes les créatures de 6 [DV](./../Ressources/DV.md) ou moins se trouvant dans la [zone d’effet](./zone deffet.md).)))
+(((Ce sort fonctionne comme *[[frayeur]]*, si ce n’est qu’il affecte toutes les créatures de 6 [[DV]] ou moins se trouvant dans la [[zone deffet|zone d’effet]].)))

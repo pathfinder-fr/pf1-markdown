@@ -14,18 +14,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 2, [Méd](./Médium.md) 2, [Pal](./Paladin.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Inquisiteur|Inq]] 2, [[Médium|Méd]] 2, [[Paladin|Pal]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Zone d'effet** [émanation](./émanation.md) de 6 m de rayon - 4 cases de rayon  
+**Zone d'effet** [[émanation]] de 6 m de rayon - 4 cases de rayon  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** [oui](./RM.md)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** [[RM|oui]]
 
-Les créatures se trouvant dans la [zone d’effet](./zone deffet.md) (ou qui y pénètrent pendant la [durée d'effet](./Présentation des sorts.md#DUREE) du sort) ne peuvent pas mentir intentionnellement. Elles ont droit à un [jet de sauvegarde](./jet de sauvegarde.md) pour ne pas subir l’effet de l’[enchantement](./Enchantement.md) quand celui-ci est lancé ou quand elles entrent pour la première fois dans la *zone de vérité*. Les créatures affectées sont conscientes de ce qui leur arrive. Elles peuvent donc refuser de répondre à une question lorsqu’elles préféreraient mentir ou rester aussi évasives qu’elles le désirent tant qu’elles profèrent des vérités. Quiconque quitte la [zone d’effet](./zone deffet.md) est libre de dire autant de mensonges qu’il le souhaite.
+Les créatures se trouvant dans la [[zone deffet|zone d’effet]] (ou qui y pénètrent pendant la [[Présentation des sorts#DUREE|durée d'effet]] du sort) ne peuvent pas mentir intentionnellement. Elles ont droit à un [[jet de sauvegarde]] pour ne pas subir l’effet de l’[[enchantement]] quand celui-ci est lancé ou quand elles entrent pour la première fois dans la *zone de vérité*. Les créatures affectées sont conscientes de ce qui leur arrive. Elles peuvent donc refuser de répondre à une question lorsqu’elles préféreraient mentir ou rester aussi évasives qu’elles le désirent tant qu’elles profèrent des vérités. Quiconque quitte la [[zone deffet|zone d’effet]] est libre de dire autant de mensonges qu’il le souhaite.

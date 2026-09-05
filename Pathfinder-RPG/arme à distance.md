@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Caractéristiques des armes#ARMEADISTANCE
 ---
 
->>> [Caractéristiques des armes#ARMEADISTANCE](./Caractéristiques des armes.md#ARMEADISTANCE)
+>>> [[Caractéristiques des armes#ARMEADISTANCE]]

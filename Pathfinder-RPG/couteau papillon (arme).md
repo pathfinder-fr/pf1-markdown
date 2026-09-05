@@ -8,9 +8,9 @@ Categories:
 - Src Art de la guerre
 ---
 
-{s:AE}{s:UC}**Prix** 20 po ; **Poids** 0,5 kg ; **Groupes** [armes de moine](./groupe darmes.md#Armesdemoine), [lames légères](./groupe darmes.md#Lameslégères)
-**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** [moine](./Caractéristiques des armes.md#MOINE)
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ([orientale](./Armes orientales.md))
-; **Maniement** [arme de corps à corps légère](./arme légère.md)</span>
+{s:AE}{s:UC}**Prix** 20 po ; **Poids** 0,5 kg ; **Groupes** [[Groupe darmes#Armesdemoine|armes de moine]], [[Groupe darmes#Lameslégères|lames légères]]
+**Dégâts** 1d3 (P), 1d4 (M) ; **Critique** 19-20/×2 ; **Portée** — ; **Type** T ; **Spécial** [[Caractéristiques des armes#MOINE|moine]]
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ([[armes orientales|orientale]])
+; **Maniement** [[arme légère|arme de corps à corps légère]]</span>
 ---
-Ces épées courtes assorties sont livrées par paires, astucieusement imbriquées pour donner l’impression de ne former qu’une seule lame. On peut dégainer les deux armes à la fois puis les séparer par une [action libre](./Action libre.md) et en manier une dans chaque main pour porter des coups de taille particulièrement dévastateurs. Leur lame fine et large fait un peu plus de 30 centimètres de long.  Le couteau papillon est muni d’une poignée en bois de feuillu entourée d’une corde tressée et d’une garde métallique en D protégeant la main du porteur. Le prix est indiqué pour une paire de couteaux papillons. Les couteaux papillons de maître coûtent 320 po la paire. Si le personnage ajoute des bonus d’altération magiques ou des propriétés, traitez chacun des couteaux de la paire comme des armes distinctes (par exemple, ajouter un bonus d’altération magique de +1 à une paire de couteaux papillons de maître coûte 4 000 po).
+Ces épées courtes assorties sont livrées par paires, astucieusement imbriquées pour donner l’impression de ne former qu’une seule lame. On peut dégainer les deux armes à la fois puis les séparer par une [[action libre]] et en manier une dans chaque main pour porter des coups de taille particulièrement dévastateurs. Leur lame fine et large fait un peu plus de 30 centimètres de long.  Le couteau papillon est muni d’une poignée en bois de feuillu entourée d’une corde tressée et d’une garde métallique en D protégeant la main du porteur. Le prix est indiqué pour une paire de couteaux papillons. Les couteaux papillons de maître coûtent 320 po la paire. Si le personnage ajoute des bonus d’altération magiques ou des propriétés, traitez chacun des couteaux de la paire comme des armes distinctes (par exemple, ajouter un bonus d’altération magique de +1 à une paire de couteaux papillons de maître coûte 4 000 po).

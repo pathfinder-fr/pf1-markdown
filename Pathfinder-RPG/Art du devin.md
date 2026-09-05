@@ -10,6 +10,6 @@ Categories:
 
 {s:apg}*Grâce à ses puissants instincts magiques, le personnage peut lire les signes, les symboles et les indices mystiques plus facilement et plus rapidement.*
 
-**Condition.** [École renforcée](./École renforcée.md) ([Divination](./Divination.md)).
+**Condition.** [[École renforcée]] ([[Divination]]).
 
-**Avantage.** Le personnage gagne un bonus de +2 aux tests de [NLS](./NLS.md) des divinations pour percer la [résistance à la magie](./RM.md) ou les effets qui bloquent les divinations (comme un sort d’*[antidétection](./Antidétection.md)*). Lorsqu’il utilise un sort de divination nécessitant de la concentration, il reçoit les informations données par le sort avec 1 round d’avance (ainsi, il gagne les informations des 2 premiers rounds après 1 round de concentration, puis les informations du 3e round au bout du 2e round de concentration).
+**Avantage.** Le personnage gagne un bonus de +2 aux tests de [[NLS]] des divinations pour percer la [[RM|résistance à la magie]] ou les effets qui bloquent les divinations (comme un sort d’*[[antidétection]]*). Lorsqu’il utilise un sort de divination nécessitant de la concentration, il reçoit les informations données par le sort avec 1 round d’avance (ainsi, il gagne les informations des 2 premiers rounds après 1 round de concentration, puis les informations du 3e round au bout du 2e round de concentration).

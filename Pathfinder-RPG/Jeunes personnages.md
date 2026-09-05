@@ -7,7 +7,7 @@ Categories:
 - Src Guide de campagne
 ---
 
-{s:MenuGC}{s:GC}<nav class="wiki-toc"></nav>Tous les personnages de fantasy n’ont pas le luxe de pourvoir attendre l’âge adulte pour commencer leur carrière d’aventurier. Pour exemple, voyez Arya Stark, Sabriël Abhorsën, les enfants Pevensie et Harry Potter. Les dangers des mondes de fantasy sont aveugles à l’âge de ceux qu’ils menacent. Même Hercule, alors qu’il n’était qu’un petit enfant, a dû étrangler les serpents que Héra avait envoyé pour le tuer dans son berceau. Mais, s’ils sont souvent sous-estimés, ces jeunes sont rarement les victimes que l’on veut bien croire. Par défaut, les nouveaux personnages sont adultes, leur âge leur étant assigné aléatoirement ou au moins en fonction de la table "[Détermination aléatoire de l’âge de départ](./État civil et mensurations.md#AGE)". Cela dit, si vous souhaitiez jouer un jeune prodige commençant sa légende de bonne heure, les règles présentées-là détaillent la marche à suivre pour insuffler la vie à ce genre de personnages.
+{s:MenuGC}{s:GC}<nav class="wiki-toc"></nav>Tous les personnages de fantasy n’ont pas le luxe de pourvoir attendre l’âge adulte pour commencer leur carrière d’aventurier. Pour exemple, voyez Arya Stark, Sabriël Abhorsën, les enfants Pevensie et Harry Potter. Les dangers des mondes de fantasy sont aveugles à l’âge de ceux qu’ils menacent. Même Hercule, alors qu’il n’était qu’un petit enfant, a dû étrangler les serpents que Héra avait envoyé pour le tuer dans son berceau. Mais, s’ils sont souvent sous-estimés, ces jeunes sont rarement les victimes que l’on veut bien croire. Par défaut, les nouveaux personnages sont adultes, leur âge leur étant assigné aléatoirement ou au moins en fonction de la table "[[État civil et mensurations#AGE|Détermination aléatoire de l’âge de départ]]". Cela dit, si vous souhaitiez jouer un jeune prodige commençant sa légende de bonne heure, les règles présentées-là détaillent la marche à suivre pour insuffler la vie à ce genre de personnages.
 
 ### La création des jeunes personnages
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
@@ -17,11 +17,11 @@ Categories:
 |- CLASS="titre"
 | Race
 | Jeunesse<sup>1</sup>
-|  [Expert](./Expert.md),  
-[Homme du peuple](./Homme du peuple.md),  
-[Noble](./Noble.md)
-| [Adepte](./Adepte.md),  
-[Homme d'arme](./Homme darme.md)
+|  [[Expert]],  
+[[Homme du peuple]],  
+[[Noble]]
+| [[Adepte]],  
+[[Homme darme|Homme d'arme]]
 | Âge  
 adulte<sup>2</sup>
 |- CLASS="premier"
@@ -48,9 +48,9 @@ adulte<sup>2</sup>
 
 Quand un jeune personnage atteint l’âge adulte, il se débarrasse de ces ajustements des valeurs de caractéristiques.
 
-**Les classes accessibles.** Un jeune personnage n’a pas accès aux mêmes classes que les personnages adultes. N’étant pas encore formé aux techniques avancées de la guerre, de la magie, de la foi et des autres activités, le jeune personnage est un écuyer, un apprenti, un acolyte ou un étudiant poursuivant la voie de l’expertise. Ainsi ne peut-il choisir que des classes de PNJ tant qu’il appartient à cette catégorie d’âge, commençant le jeu et montant de niveau en tant qu’adepte, aristocrate, homme du peuple, expert ou homme d’armes selon ses intérêts et son historique social. Cela dit, dès qu’il atteint l’âge adulte, il peut changer ces niveaux de classe de PNJ en niveaux dans n’importe quelle classe de base de son choix (cf. [Le réapprentissage](./Le réapprentissage.md)).
+**Les classes accessibles.** Un jeune personnage n’a pas accès aux mêmes classes que les personnages adultes. N’étant pas encore formé aux techniques avancées de la guerre, de la magie, de la foi et des autres activités, le jeune personnage est un écuyer, un apprenti, un acolyte ou un étudiant poursuivant la voie de l’expertise. Ainsi ne peut-il choisir que des classes de PNJ tant qu’il appartient à cette catégorie d’âge, commençant le jeu et montant de niveau en tant qu’adepte, aristocrate, homme du peuple, expert ou homme d’armes selon ses intérêts et son historique social. Cela dit, dès qu’il atteint l’âge adulte, il peut changer ces niveaux de classe de PNJ en niveaux dans n’importe quelle classe de base de son choix (cf. [[Le réapprentissage]]).
 
-**Les traits.** Les [traits](./Traits.md) de caractère représentant l’historique du personnage avant qu’il ne devienne un aventurier, le MJ peut limiter vos choix à un seul trait au niveau 1 plutôt qu’aux deux traits normalement autorisés. Quand votre personnage atteint l’âge adulte, vous choisissez un deuxième trait. Notez qu’en principe, vous pouvez choisir un nouveau trait après le niveau 1 uniquement si votre personnage prend le don [Traits supplémentaires](./Traits supplémentaires.md), ce qui vous donne une plus grande liberté dans le choix de votre deuxième trait puisqu’il arrive que de récents évènements de la campagne rendent certains de vos choix de traits plus précieux que ce qu’ils apparaissaient quand la campagne a commencé.
+**Les traits.** Les [[traits]] de caractère représentant l’historique du personnage avant qu’il ne devienne un aventurier, le MJ peut limiter vos choix à un seul trait au niveau 1 plutôt qu’aux deux traits normalement autorisés. Quand votre personnage atteint l’âge adulte, vous choisissez un deuxième trait. Notez qu’en principe, vous pouvez choisir un nouveau trait après le niveau 1 uniquement si votre personnage prend le don [[Traits supplémentaires]], ce qui vous donne une plus grande liberté dans le choix de votre deuxième trait puisqu’il arrive que de récents évènements de la campagne rendent certains de vos choix de traits plus précieux que ce qu’ils apparaissaient quand la campagne a commencé.
 
 
 ### Quitter l'adolescence

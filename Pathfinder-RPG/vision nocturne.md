@@ -7,4 +7,4 @@ Categories:
 RedirectTo: vision nocturne (capacité)
 ---
 
->>> [vision nocturne (capacité)](./Vision nocturne (capacité).md)
+>>> [[vision nocturne (capacité)]]

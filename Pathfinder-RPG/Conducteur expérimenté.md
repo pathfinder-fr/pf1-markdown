@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage choisit un type de véhicule. Quand il le conduit, il fait preuve d’une maîtrise hors du commun. Il le manie et l’arrête avec une précision surnaturelle.*
 
-**Conditions.** [Conducteur de talent](./Conducteur de talent.md) pour le véhicule choisi
+**Conditions.** [[Conducteur de talent]] pour le véhicule choisi
 
-**Avantage.** Le personnage peut accélérer, ralentir ou tourner par une [action de mouvement](./Action de mouvement.md) au lieu d’une [action simple](./Action simple.md) . De plus, quand il arrête le véhicule, il enlève 3 m (2 {s:c}) au jet qui détermine la distance parcourue avant l’arrêt.
+**Avantage.** Le personnage peut accélérer, ralentir ou tourner par une [[action de mouvement]] au lieu d’une [[action simple]] . De plus, quand il arrête le véhicule, il enlève 3 m (2 {s:c}) au jet qui détermine la distance parcourue avant l’arrêt.

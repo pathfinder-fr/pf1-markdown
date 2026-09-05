@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Armes à feu#ARMEAFEU
 ---
 
->>> [Armes à feu#ARMEAFEU](./Armes à feu.md#ARMEAFEU)
+>>> [[Armes à feu#ARMEAFEU]]

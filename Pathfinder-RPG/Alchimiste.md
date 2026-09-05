@@ -9,8 +9,8 @@ Categories:
 ---
 
 {s:Menuclassessupplémentaires}
-<div class="fright">***Voir aussi les [découvertes d'alchimiste](./découvertes.md).***
-***Voir aussi la [liste des formules d'alchimiste](./Liste des formules dalchimiste.md).***
+<div class="fright">***Voir aussi les [[Découvertes|découvertes d'alchimiste]].***
+***Voir aussi la [[Liste des formules dalchimiste|liste des formules d'alchimiste]].***
 {s:PM0|alchimiste}**Voir les archétypes de l'alchimiste**&emsp;
 <li ID="alchimiste" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypealchimiste}</li>
 </div>{s:APG}*Qu’il se terre dans un laboratoire souterrain secret ou qu’il mène gaiement ses expériences dans une école de magie respectable, on considère souvent l’alchimiste comme aussi instable, imprévisible et dangereux que les potions qu’il concocte. Certains créateurs d’objets alchimiques se contentent d’une vie sédentaire en tant que marchands d’allume-feu et de bâtons fumigènes, mais les véritables alchimistes répondent à un appel bien plus puissant. Au lieu de lancer des sorts comme les autres mages, l’alchimiste capture son propre potentiel magique dans les extraits et les liquides qu’il fabrique, les imprégnant de pouvoirs virulents qui lui permettent de devenir particulièrement efficace avec les poisons, les explosifs et toutes sortes de magies de métamorphose.*
@@ -24,7 +24,7 @@ Categories:
 | ROWSPAN="2" | Vigueur
 | ROWSPAN="2" | Volonté
 | ROWSPAN="2" | Spécial
-| COLSPAN="6" CLASS="avecsoustitre" | [Extraits](./Alchimiste.md#EXTRAITS) par jour
+| COLSPAN="6" CLASS="avecsoustitre" | [[Alchimiste#EXTRAITS|Extraits]] par jour
 |- CLASS="soustitre"
 | 1er
 | 2e
@@ -38,7 +38,7 @@ Categories:
 | +2
 | +2
 | +0
-| CLASS="gauche" | [Alchimie](./Alchimiste.md#ALCHIMIE), [bombes](./Alchimiste.md#BOMBES) 1d6, [lancer improvisé](./Alchimiste.md#LANCERIMPROVISE), [mutagène](./Alchimiste.md#MUTAGENES), [préparation de potions](./Alchimiste.md#PREPARATIONDEPOTIONS)
+| CLASS="gauche" | [[Alchimiste#ALCHIMIE|Alchimie]], [[Alchimiste#BOMBES|bombes]] 1d6, [[Alchimiste#LANCERIMPROVISE|lancer improvisé]], [[Alchimiste#MUTAGENES|mutagène]], [[Alchimiste#PREPARATIONDEPOTIONS|préparation de potions]]
 | 1
 | -
 | -
@@ -51,7 +51,7 @@ Categories:
 | +3
 | +3
 | +0
-| CLASS="gauche" | [Découverte](./Alchimiste.md#DECOUVERTES), [résistance au poison](./Alchimiste.md#RESISTPOISON) +2, [utilisation du poison](./Alchimiste.md#UTILISATIONDUPOISON)
+| CLASS="gauche" | [[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#RESISTPOISON|résistance au poison]] +2, [[Alchimiste#UTILISATIONDUPOISON|utilisation du poison]]
 | 2
 | -
 | -
@@ -64,7 +64,7 @@ Categories:
 | +3
 | +3
 | +1
-| CLASS="gauche" | [Alchimie rapide](./Alchimiste.md#ALCHIMIERAPIDE), [bombes](./Alchimiste.md#BOMBES) 2d6
+| CLASS="gauche" | [[Alchimiste#ALCHIMIERAPIDE|Alchimie rapide]], [[Alchimiste#BOMBES|bombes]] 2d6
 | 3
 | -
 | -
@@ -77,7 +77,7 @@ Categories:
 | +4
 | +4
 | +1
-| CLASS="gauche" | [Découverte](./Alchimiste.md#DECOUVERTES)
+| CLASS="gauche" | [[Alchimiste#DECOUVERTES|Découverte]]
 | 3
 | 1
 | -
@@ -90,7 +90,7 @@ Categories:
 | +4
 | +4
 | +1
-| CLASS="gauche" | [Bombes](./Alchimiste.md#BOMBES) 3d6, [résistance au poison](./Alchimiste.md#RESISTPOISON) +4
+| CLASS="gauche" | [[Alchimiste#BOMBES|Bombes]] 3d6, [[Alchimiste#RESISTPOISON|résistance au poison]] +4
 | 4
 | 2
 | -
@@ -103,7 +103,7 @@ Categories:
 | +5
 | +5
 | +2
-| CLASS="gauche" | [Découverte](./Alchimiste.md#DECOUVERTES), [poison rapide](./Alchimiste.md#EMPOISONNEMENTRAPIDE)
+| CLASS="gauche" | [[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#EMPOISONNEMENTRAPIDE|poison rapide]]
 | 4
 | 3
 | -
@@ -116,7 +116,7 @@ Categories:
 | +5
 | +5
 | +2
-| CLASS="gauche" | [Bombes](./Alchimiste.md#BOMBES) 4d6
+| CLASS="gauche" | [[Alchimiste#BOMBES|Bombes]] 4d6
 | 4
 | 3
 | 1
@@ -129,7 +129,7 @@ Categories:
 | +6
 | +6
 | +2
-| CLASS="gauche" | [Découverte](./Alchimiste.md#DECOUVERTES), [résistance au poison](./Alchimiste.md#RESISTPOISON) +6
+| CLASS="gauche" | [[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#RESISTPOISON|résistance au poison]] +6
 | 4
 | 4
 | 2
@@ -142,7 +142,7 @@ Categories:
 | +6
 | +6
 | +3
-| CLASS="gauche" | [Bombes](./Alchimiste.md#BOMBES) 5d6
+| CLASS="gauche" | [[Alchimiste#BOMBES|Bombes]] 5d6
 | 5
 | 4
 | 3
@@ -155,7 +155,7 @@ Categories:
 | +7
 | +7
 | +3
-| CLASS="gauche" | [Découverte](./Alchimiste.md#DECOUVERTES), [immunité au poison](./Alchimiste.md#RESISTPOISON)
+| CLASS="gauche" | [[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#RESISTPOISON|immunité au poison]]
 | 5
 | 4
 | 3
@@ -168,7 +168,7 @@ Categories:
 | +7
 | +7
 | +3
-| CLASS="gauche" | [Bombes](./Alchimiste.md#BOMBES) 6d6
+| CLASS="gauche" | [[Alchimiste#BOMBES|Bombes]] 6d6
 | 5
 | 4
 | 4
@@ -181,7 +181,7 @@ Categories:
 | +8
 | +8
 | +4
-| CLASS="gauche" | [Découverte](./Alchimiste.md#DECOUVERTES)
+| CLASS="gauche" | [[Alchimiste#DECOUVERTES|Découverte]]
 | 5
 | 5
 | 4
@@ -194,7 +194,7 @@ Categories:
 | +8
 | +8
 | +4
-| CLASS="gauche" | [Bombes](./Alchimiste.md#BOMBES) 7d6
+| CLASS="gauche" | [[Alchimiste#BOMBES|Bombes]] 7d6
 | 5
 | 5
 | 4
@@ -207,7 +207,7 @@ Categories:
 | +9
 | +9
 | +4
-| CLASS="gauche" | [Découverte](./Alchimiste.md#DECOUVERTES), [mutagène persistant](./Alchimiste.md#MUTAGENEPERSISTANT)
+| CLASS="gauche" | [[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#MUTAGENEPERSISTANT|mutagène persistant]]
 | 5
 | 5
 | 4
@@ -220,7 +220,7 @@ Categories:
 | +9
 | +9
 | +5
-| CLASS="gauche" | [Bombes](./Alchimiste.md#BOMBES) 8d6
+| CLASS="gauche" | [[Alchimiste#BOMBES|Bombes]] 8d6
 | 5
 | 5
 | 5
@@ -233,7 +233,7 @@ Categories:
 | +10
 | +10
 | +5
-| CLASS="gauche" | [Découverte](./Alchimiste.md#DECOUVERTES)
+| CLASS="gauche" | [[Alchimiste#DECOUVERTES|Découverte]]
 | 5
 | 5
 | 5
@@ -246,7 +246,7 @@ Categories:
 | +10
 | +10
 | +5
-| CLASS="gauche" | [Bombes](./Alchimiste.md#BOMBES) 9d6
+| CLASS="gauche" | [[Alchimiste#BOMBES|Bombes]] 9d6
 | 5
 | 5
 | 5
@@ -259,7 +259,7 @@ Categories:
 | +11
 | +11
 | +6
-| CLASS="gauche" | [Alchimie instantanée](./Alchimiste.md#ALCHIMIEINSTANTANEE), [découverte](./Alchimiste.md#DECOUVERTES)
+| CLASS="gauche" | [[Alchimiste#ALCHIMIEINSTANTANEE|Alchimie instantanée]], [[Alchimiste#DECOUVERTES|découverte]]
 | 5
 | 5
 | 5
@@ -272,7 +272,7 @@ Categories:
 | +11
 | +11
 | +6
-| CLASS="gauche" | [Bombes](./Alchimiste.md#BOMBES) 10d6
+| CLASS="gauche" | [[Alchimiste#BOMBES|Bombes]] 10d6
 | 5
 | 5
 | 5
@@ -285,7 +285,7 @@ Categories:
 | +12
 | +12
 | +6
-| CLASS="gauche" | [Grande découverte](./Alchimiste.md#GRANDESDECOUVERTES)
+| CLASS="gauche" | [[Alchimiste#GRANDESDECOUVERTES|Grande découverte]]
 | 5
 | 5
 | 5
@@ -303,115 +303,115 @@ Categories:
 **Argent de départ.** 3d6 x 10 po (moyenne 105 po).
 
 ### Compétences de classe
-Voici les compétences de classe de l’alchimiste : [Artisanat](./Artisanat.md) (tous) (Int), [Art de la magie](./Art de la magie.md) (Int), [Connaissances](./Connaissances.md) (mystères) (Int), [Connaissances](./Connaissances.md) (nature) (Int), [Escamotage](./Escamotage.md) (Dex), [Estimation](./Estimation.md) (Int), [Perception](./Perception.md) (Sag), [Premiers secours](./Premiers secours.md) (Sag), [Profession](./Profession.md) (Sag), [Sabotage](./Sabotage.md) (Dex), [Survie](./Survie.md) (Sag), [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) (Cha), [Vol](./Vol.md) (Dex).
+Voici les compétences de classe de l’alchimiste : [[Artisanat]] (tous) (Int), [[Art de la magie]] (Int), [[Connaissances]] (mystères) (Int), [[Connaissances]] (nature) (Int), [[Escamotage]] (Dex), [[Estimation]] (Int), [[Perception]] (Sag), [[Premiers secours]] (Sag), [[Profession]] (Sag), [[Sabotage]] (Dex), [[Survie]] (Sag), [[Utilisation dobjets magiques|Utilisation d’objets magiques]] (Cha), [[Vol]] (Dex).
 
-**Rangs de compétence par niveau.** 4 + modificateur d’[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.** 4 + modificateur d’[[Intelligence]].
 
 {s:ImageDroite|Illustrations/PNJ/Damiel.jpg|30%}
 ### Descriptif de la classe
 Voici les caractéristiques de la classe d’alchimiste.
 
 #### Armes et armures
-L’alchimiste est capable de manier toutes les [armes courantes](./armes courantes.md) et des [bombes](./Alchimiste.md#BOMBES). Il est formé au port des armures légères mais pas à celui des boucliers.
+L’alchimiste est capable de manier toutes les [[armes courantes]] et des [[Alchimiste#BOMBES|bombes]]. Il est formé au port des armures légères mais pas à celui des boucliers.
 
 {s:Reference|ALCHIMIE}
 #### Alchimie (Sur)
-{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#1) Alchimiste : Dans le cadre des capacités de classes de l'alchimiste, les poisons sont-ils considérés comme des objets alchimiques ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#1|→]] Alchimiste : Dans le cadre des capacités de classes de l'alchimiste, les poisons sont-ils considérés comme des objets alchimiques ?***
 
-Oui. *(Retour à la <u>[capacité](./Alchimiste.md#ALCHIMIE)</u>)*
+Oui. *(Retour à la <u>[[Alchimiste#ALCHIMIE|capacité]]</u>)*
 ---
-***[→](./FAQ- Manuel des joueurs - Règles avancées.md#2) Alchimiste : Quel type d'action est nécessaire à l'utilisation d'un extrait, d'un mutagène ou d'un lancer de bombe ?***
+***[[FAQ- Manuel des joueurs - Règles avancées#2|→]] Alchimiste : Quel type d'action est nécessaire à l'utilisation d'un extrait, d'un mutagène ou d'un lancer de bombe ?***
 
-Utiliser un extrait, un mutagène ou lancer une bombe nécessite une action simple. Cette action inclut la récupération des matériaux nécessaires dans la <u>[réserve de l'alchimiste](./Alchimiste.md#ALCHIMIE)</u>, de la même façon que récupérer les composantes matérielles est compris dans le fait de lancer un sort.}Non seulement les alchimistes sont passés maîtres dans l’art de créer des [substances alchimiques ordinaires](./Outils alchimiques.md) comme le [feu grégeois](./Armes alchimiques.md#Feu grégeois) ou les [bâtons fumigènes](./Outils alchimiques.md#Bâton fumigène), mais ils savent également fabriquer des [extraits](./Alchimiste.md#EXTRAITS), des sortes de [potions](./Potions magiques.md) dans lesquelles ils stockent des effets de sort. En pratique, l’alchimiste prépare son sort en mélangeant des ingrédients pour fabriquer un certain nombre d’extraits et le «  lance » en buvant l’extrait approprié. Quand il prépare un extrait ou une [bombe](./Alchimiste.md#BOMBES), il l’imprègne d’une petite part de sa propre puissance magique, ce qui lui permet de créer de redoutables effets, mais lie ses créations à sa personne.
+Utiliser un extrait, un mutagène ou lancer une bombe nécessite une action simple. Cette action inclut la récupération des matériaux nécessaires dans la <u>[[Alchimiste#ALCHIMIE|réserve de l'alchimiste]]</u>, de la même façon que récupérer les composantes matérielles est compris dans le fait de lancer un sort.}Non seulement les alchimistes sont passés maîtres dans l’art de créer des [[Outils alchimiques|substances alchimiques ordinaires]] comme le [[Armes alchimiques#Feu grégeois|feu grégeois]] ou les [[Outils alchimiques#Bâton fumigène|bâtons fumigènes]], mais ils savent également fabriquer des [[Alchimiste#EXTRAITS|extraits]], des sortes de [[potions magiques|potions]] dans lesquelles ils stockent des effets de sort. En pratique, l’alchimiste prépare son sort en mélangeant des ingrédients pour fabriquer un certain nombre d’extraits et le «  lance » en buvant l’extrait approprié. Quand il prépare un extrait ou une [[Alchimiste#BOMBES|bombe]], il l’imprègne d’une petite part de sa propre puissance magique, ce qui lui permet de créer de redoutables effets, mais lie ses créations à sa personne.
 
-Quand l’alchimiste effectue un test d’[Artisanat](./Artisanat.md) (alchimie) pour créer un [objet alchimique](./Outils alchimiques.md), il bénéficie d’un bonus de compétence égal à son niveau de classe. De plus, il peut utiliser [Artisanat](./Artisanat.md) (alchimie) pour identifier les [potions](./Potions magiques.md) comme s’il utilisait *[détection de la magie](./Détection de la magie.md)*. Pour faire ce genre de test, il doit tenir la potion en main pendant 1 [round](./round.md).
+Quand l’alchimiste effectue un test d’[[Artisanat]] (alchimie) pour créer un [[Outils alchimiques|objet alchimique]], il bénéficie d’un bonus de compétence égal à son niveau de classe. De plus, il peut utiliser [[Artisanat]] (alchimie) pour identifier les [[potions magiques|potions]] comme s’il utilisait *[[détection de la magie]]*. Pour faire ce genre de test, il doit tenir la potion en main pendant 1 [[round]].
 
-Un alchimiste peut créer trois types d’objets magiques  : les [extraits](./Alchimiste.md#EXTRAITS), les [bombes](./Alchimiste.md#BOMBES) et les [mutagènes](./Alchimiste.md#MUTAGENES). Les bombes sont des [armes explosives à aspersion](./arme à aspersion.md) et les mutagènes des élixirs de transformation que l’alchimiste boit pour améliorer ses aptitudes physiques. Ils sont tous deux décrits dans leur propre section, plus bas.
+Un alchimiste peut créer trois types d’objets magiques  : les [[Alchimiste#EXTRAITS|extraits]], les [[Alchimiste#BOMBES|bombes]] et les [[Alchimiste#MUTAGENES|mutagènes]]. Les bombes sont des [[arme à aspersion|armes explosives à aspersion]] et les mutagènes des élixirs de transformation que l’alchimiste boit pour améliorer ses aptitudes physiques. Ils sont tous deux décrits dans leur propre section, plus bas.
 
 {s:Reference|EXTRAITS}
 #### Extraits
-{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#7) Alchimiste, Buveur rapide : Le trait buveur rapide publié dans *Chéliax, Empire des diables* permet-il à un personnage de boire un extrait d'alchimiste par une action de mouvement ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#7|→]] Alchimiste, Buveur rapide : Le trait buveur rapide publié dans *Chéliax, Empire des diables* permet-il à un personnage de boire un extrait d'alchimiste par une action de mouvement ?***
 
-Non. *(Retour à la <u>[capacité](./Alchimiste.md#EXTRAITS)</u>)*
+Non. *(Retour à la <u>[[Alchimiste#EXTRAITS|capacité]]</u>)*
 ---
-***[→](./FAQ- Manuel des joueurs - Règles avancées.md#8) Alchimiste, Choix au « lancement » : Si je prépare un extrait d'un sort à choix multiples (comme *protection contre les énergies destructives*), dois-je faire ce choix au moment de la préparation ou au moment de le boire ?***
+***[[FAQ- Manuel des joueurs - Règles avancées#8|→]] Alchimiste, Choix au « lancement » : Si je prépare un extrait d'un sort à choix multiples (comme *protection contre les énergies destructives*), dois-je faire ce choix au moment de la préparation ou au moment de le boire ?***
 
-Le choix est fait au moment où l'<u>[extrait](./Alchimiste.md#EXTRAITS)</u> est bu.}Les extraits représentent la catégorie la plus variée des trois. De bien des manières, ils se comportent comme des sorts sous forme de [potions](./Potions magiques.md) et, en tant que tels, on peut dissiper leurs effets avec une *[dissipation de la magie](./Dissipation de la magie.md)* par exemple, en utilisant le niveau de l’alchimiste comme [niveau de lanceur de sorts](./NLS.md). Contrairement aux potions, les extraits ont de puissants pouvoirs et peuvent imiter des sorts qu’une potion serait incapable de reproduire.
+Le choix est fait au moment où l'<u>[[Alchimiste#EXTRAITS|extrait]]</u> est bu.}Les extraits représentent la catégorie la plus variée des trois. De bien des manières, ils se comportent comme des sorts sous forme de [[potions magiques|potions]] et, en tant que tels, on peut dissiper leurs effets avec une *[[dissipation de la magie]]* par exemple, en utilisant le niveau de l’alchimiste comme [[NLS|niveau de lanceur de sorts]]. Contrairement aux potions, les extraits ont de puissants pouvoirs et peuvent imiter des sorts qu’une potion serait incapable de reproduire.
 
-Un alchimiste ne peut créer qu’un certain nombre d’extraits par jour et par niveau. Le nombre d’extraits limite quotidien est donné dans la table "[L'alchimiste](./Alchimiste.md#TABLEALCHIMISTE)". De plus, il reçoit des extraits quotidiens supplémentaires s’il a une valeur d’[Intelligence](./Intelligence.md) élevée, tout comme un [magicien](./Magicien.md) reçoit des sorts supplémentaires par jour (voir la Table "[Modificateurs de caractéristique et sorts en bonus](./Caractéristiques.md#TABLEAUCARACTERISTIQUES)").
+Un alchimiste ne peut créer qu’un certain nombre d’extraits par jour et par niveau. Le nombre d’extraits limite quotidien est donné dans la table "[[alchimiste#TABLEALCHIMISTE|L'alchimiste]]". De plus, il reçoit des extraits quotidiens supplémentaires s’il a une valeur d’[[Intelligence]] élevée, tout comme un [[magicien]] reçoit des sorts supplémentaires par jour (voir la Table "[[Caractéristiques#TABLEAUCARACTERISTIQUES|Modificateurs de caractéristique et sorts en bonus]]").
 
-Quand l’alchimiste prépare un extrait, il imprègne les produits chimiques et les réactifs utilisés d’une magie qu’il puise dans sa propre aura. L’extrait devient inerte dès qu’il ne se trouve plus en possession de l’alchimiste et se réactive dès qu’il revient entre ses mains. Normalement, un alchimiste ne peut pas transmettre ses extraits à ses alliés, mais voyez la [découverte](./découvertes.md) de « l’infusion ». Une fois créé, l’extrait conserve sa puissance pendant une journée avant de devenir inerte. L’alchimiste doit donc en préparer chaque jour. Il faut 1 minute de travail pour concocter un extrait. Beaucoup d’alchimistes préparent tous leurs extraits en début de journée ou juste avant de se lancer dans une aventure. Il n’est pas rare cependant de voir un alchimiste garder quelques utilisations d’extraits (voire toutes) afin de préparer celui dont il a besoin sur le terrain.
+Quand l’alchimiste prépare un extrait, il imprègne les produits chimiques et les réactifs utilisés d’une magie qu’il puise dans sa propre aura. L’extrait devient inerte dès qu’il ne se trouve plus en possession de l’alchimiste et se réactive dès qu’il revient entre ses mains. Normalement, un alchimiste ne peut pas transmettre ses extraits à ses alliés, mais voyez la [[découvertes|découverte]] de « l’infusion ». Une fois créé, l’extrait conserve sa puissance pendant une journée avant de devenir inerte. L’alchimiste doit donc en préparer chaque jour. Il faut 1 minute de travail pour concocter un extrait. Beaucoup d’alchimistes préparent tous leurs extraits en début de journée ou juste avant de se lancer dans une aventure. Il n’est pas rare cependant de voir un alchimiste garder quelques utilisations d’extraits (voire toutes) afin de préparer celui dont il a besoin sur le terrain.
 
-L’alchimiste ne lance pas vraiment de sorts, mais il possède une [liste de formules](./Liste des formules dalchimiste.md) qui détermine les extraits qu’il peut créer. Il peut utiliser des [objets à potentiel magique](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE) si le sort apparaît dans sa liste de formules, mais pas d’[objets à fin d’incantation](./Règles relatives aux objets magiques.md#OBJETSAFINDINCANTATION) (à moins qu’il n’utilise pour cela la compétence [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md)). Il « lance » son extrait en le buvant, comme une [potion](./Potions magiques.md) (les effets de l’extrait reproduisent fidèlement ceux du sort sur lequel leur formule se base, mais ils affectent uniquement l’alchimiste). L'alchimiste peut saisir l'extrait et le boire en une [action simple](./Action simple.md). L’alchimiste utilise son niveau de classe pour déterminer les effets basés sur le [niveau de lanceur de sorts](./NLS.md).
+L’alchimiste ne lance pas vraiment de sorts, mais il possède une [[liste des formules dalchimiste|liste de formules]] qui détermine les extraits qu’il peut créer. Il peut utiliser des [[Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|objets à potentiel magique]] si le sort apparaît dans sa liste de formules, mais pas d’[[Règles relatives aux objets magiques#OBJETSAFINDINCANTATION|objets à fin d’incantation]] (à moins qu’il n’utilise pour cela la compétence [[Utilisation dobjets magiques|Utilisation d’objets magiques]]). Il « lance » son extrait en le buvant, comme une [[potions magiques|potion]] (les effets de l’extrait reproduisent fidèlement ceux du sort sur lequel leur formule se base, mais ils affectent uniquement l’alchimiste). L'alchimiste peut saisir l'extrait et le boire en une [[action simple]]. L’alchimiste utilise son niveau de classe pour déterminer les effets basés sur le [[NLS|niveau de lanceur de sorts]].
 
-La création d’extrait nécessite des matières premières mais leur coût est négligeable, comme les [composantes](./composantes.md) sans valeur de la plupart des sorts. Si le sort exige une [composante matérielle](./composantes.md) onéreuse, l’alchimiste doit dépenser cette [composante](./composantes.md) au moment où il boit l’extrait. Il ne peut pas fabriquer un extrait basé sur un sort qui demande un [focalisateur](./focalisateur.md) (les extraits alchimiques imitant des sorts divins n’ont jamais besoin de [focalisateur divin](./focalisateur divin.md)).
+La création d’extrait nécessite des matières premières mais leur coût est négligeable, comme les [[composantes]] sans valeur de la plupart des sorts. Si le sort exige une [[composantes|composante matérielle]] onéreuse, l’alchimiste doit dépenser cette [[composantes|composante]] au moment où il boit l’extrait. Il ne peut pas fabriquer un extrait basé sur un sort qui demande un [[focalisateur]] (les extraits alchimiques imitant des sorts divins n’ont jamais besoin de [[focalisateur divin]]).
 
-L’alchimiste peut préparer un extrait à partir de n’importe quelle formule de sa connaissance. Pour apprendre ou utiliser un extrait, l’alchimiste doit avoir une [Intelligence](./Intelligence.md) au moins égale à 10 + niveau de l’extrait. Le [DD](./DD.md) des extraits d’alchimiste est de 10 + [niveau de l’extrait](./Niveau de sort.md) + modificateur d’[Intelligence](./Intelligence.md) de l’alchimiste.
+L’alchimiste peut préparer un extrait à partir de n’importe quelle formule de sa connaissance. Pour apprendre ou utiliser un extrait, l’alchimiste doit avoir une [[Intelligence]] au moins égale à 10 + niveau de l’extrait. Le [[DD]] des extraits d’alchimiste est de 10 + [[niveau de sort|niveau de l’extrait]] + modificateur d’[[Intelligence]] de l’alchimiste.
 
-Un alchimiste peut apprendre autant de formules qu’il le désire. Il les conserve dans un livre spécial intitulé *livre des formules*. Il doit s’y référer à chaque fois qu’il prépare un extrait mais pas quand il en consomme. Un alchimiste commence le jeu avec deux formules de niveau 1 de son choix plus un nombre de formules supplémentaires égal à son modificateur d’[Intelligence](./Intelligence.md). À chaque fois qu’il prend un niveau d’alchimiste, il gagne une nouvelle formule de n’importe quel [niveau](./Niveau de sort.md) accessible. L’alchimiste peut également ajouter des formules à son livre comme un [magicien](./Magicien.md) ajoute des sorts dans son [grimoire](./Magicien.md#GRIMOIRE), en payant le même prix et en y passant le même temps. L’alchimiste peut étudier le grimoire d’un magicien pour apprendre n’importe quelle formule équivalente aux sorts qu’il renferme. En revanche, un magicien ne peut pas apprendre de sort à partir d’un *livre des formules*. L’alchimiste n’a pas besoin de déchiffrer les écrits magiques avant de les recopier.
+Un alchimiste peut apprendre autant de formules qu’il le désire. Il les conserve dans un livre spécial intitulé *livre des formules*. Il doit s’y référer à chaque fois qu’il prépare un extrait mais pas quand il en consomme. Un alchimiste commence le jeu avec deux formules de niveau 1 de son choix plus un nombre de formules supplémentaires égal à son modificateur d’[[Intelligence]]. À chaque fois qu’il prend un niveau d’alchimiste, il gagne une nouvelle formule de n’importe quel [[niveau de sort|niveau]] accessible. L’alchimiste peut également ajouter des formules à son livre comme un [[magicien]] ajoute des sorts dans son [[magicien#GRIMOIRE|grimoire]], en payant le même prix et en y passant le même temps. L’alchimiste peut étudier le grimoire d’un magicien pour apprendre n’importe quelle formule équivalente aux sorts qu’il renferme. En revanche, un magicien ne peut pas apprendre de sort à partir d’un *livre des formules*. L’alchimiste n’a pas besoin de déchiffrer les écrits magiques avant de les recopier.
 
 {s:Reference|BOMBES}
 #### Bombes (Sur)
-{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#4) Alchimiste, Bombes : Les dégâts supplémentaires du don Tir à bout portant s'appliquent-ils aux bombes ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#4|→]] Alchimiste, Bombes : Les dégâts supplémentaires du don Tir à bout portant s'appliquent-ils aux bombes ?***
 
-Oui. *(Retour à la <u>[capacité](./Alchimiste.md#BOMBES)</u>)*}En plus des [extraits magiques](./Alchimiste.md#EXTRAITS), les alchimistes sont capables de mélanger rapidement diverses composantes chimiques volatiles et de les imprégner de leur essence magique pour créer de puissantes bombes qu’ils lancent sur leurs ennemis. Chaque jour, l’alchimiste peut utiliser un nombre de bombes égal à son [niveau de classe](./niveau.md) + modificateur d’[Intelligence](./Intelligence.md). Les bombes sont instables, et s’il ne les utilise pas dans le [round](./round.md) qui suit leur création, elles se dégradent et deviennent inertes. Leur méthode de fabrication empêche de créer et de stocker de grosses quantités d’explosifs. Pour créer une bombe, l’alchimiste doit disposer d’une petite fiole qui contient une once de liquide catalyseur. Il crée ce dernier à partir de quelques produits chimiques en travaillant dans un laboratoire et il peut se réapprovisionner aussi facilement que les [magiciens](./Magicien.md) et leur [sacoche à composantes](./Trousses doutils et de compétences.md#Sacoche à composantes). En début de journée, la plupart des alchimistes créent un nombre de fioles de catalyseur égal au nombre de bombes qu’ils peuvent lancer chaque jour. Une fois créée, la fiole de catalyseur est utilisable pendant des années.
+Oui. *(Retour à la <u>[[Alchimiste#BOMBES|capacité]]</u>)*}En plus des [[alchimiste#EXTRAITS|extraits magiques]], les alchimistes sont capables de mélanger rapidement diverses composantes chimiques volatiles et de les imprégner de leur essence magique pour créer de puissantes bombes qu’ils lancent sur leurs ennemis. Chaque jour, l’alchimiste peut utiliser un nombre de bombes égal à son [[niveau|niveau de classe]] + modificateur d’[[Intelligence]]. Les bombes sont instables, et s’il ne les utilise pas dans le [[round]] qui suit leur création, elles se dégradent et deviennent inertes. Leur méthode de fabrication empêche de créer et de stocker de grosses quantités d’explosifs. Pour créer une bombe, l’alchimiste doit disposer d’une petite fiole qui contient une once de liquide catalyseur. Il crée ce dernier à partir de quelques produits chimiques en travaillant dans un laboratoire et il peut se réapprovisionner aussi facilement que les [[magicien|magiciens]] et leur [[Trousses doutils et de compétences#Sacoche à composantes|sacoche à composantes]]. En début de journée, la plupart des alchimistes créent un nombre de fioles de catalyseur égal au nombre de bombes qu’ils peuvent lancer chaque jour. Une fois créée, la fiole de catalyseur est utilisable pendant des années.
 
-Saisir les composantes nécessaires, créer et lancer la bombe est une [action simple](./Action simple.md) qui provoque une [attaque d’opportunité](./attaque dopportunité.md). Les bombes lancées ont une portée de 6 mètres (4 cases) et utilisent l’attaque spéciale [lancer une arme à aspersion](./Actions spéciales.md#ARMEASPERSION). Les bombes sont assimilées à des armes et s’utilisent avec des dons comme [Tir à bout portant](./Tir à bout portant.md) et [Arme de prédilection](./Arme de prédilection.md). Si la bombe touche directement, elle inflige 1d6 points de dégâts de feu + des dégâts supplémentaires égaux au modificateur d’[Intelligence](./Intelligence.md) de l’alchimiste. Les dégâts de la bombe augmentent de 1d6 points de dégâts à chaque [niveau](./niveau.md) impair d’alchimiste (ces dégâts supplémentaires ne sont pas doublés en cas de coup critique ni à l’aide d’un don comme [Frappe décisive](./Frappe décisive.md)). Les dégâts d’aspersion de la bombe sont toujours égaux à ses dégâts minimums (une bombe qui inflige 2d6+4 points de dégâts de feu en cas de coup direct inflige donc également 6 points de dégâts d’aspersion de feu). Une créature prise dans la zone d’aspersion peut effectuer un jet de [Réflexes](./Réflexes.md) pour réduire ces dégâts de moitié. Le [DD](./DD.md) de ce jet est égal à 10 + la moitié du [niveau](./niveau.md) de l’alchimiste + modificateur d’Intelligence de l’alchimiste.
+Saisir les composantes nécessaires, créer et lancer la bombe est une [[action simple]] qui provoque une [[attaque dopportunité|attaque d’opportunité]]. Les bombes lancées ont une portée de 6 mètres (4 cases) et utilisent l’attaque spéciale [[Actions spéciales#ARMEASPERSION|lancer une arme à aspersion]]. Les bombes sont assimilées à des armes et s’utilisent avec des dons comme [[Tir à bout portant]] et [[Arme de prédilection]]. Si la bombe touche directement, elle inflige 1d6 points de dégâts de feu + des dégâts supplémentaires égaux au modificateur d’[[Intelligence]] de l’alchimiste. Les dégâts de la bombe augmentent de 1d6 points de dégâts à chaque [[niveau]] impair d’alchimiste (ces dégâts supplémentaires ne sont pas doublés en cas de coup critique ni à l’aide d’un don comme [[Frappe décisive]]). Les dégâts d’aspersion de la bombe sont toujours égaux à ses dégâts minimums (une bombe qui inflige 2d6+4 points de dégâts de feu en cas de coup direct inflige donc également 6 points de dégâts d’aspersion de feu). Une créature prise dans la zone d’aspersion peut effectuer un jet de [[Réflexes]] pour réduire ces dégâts de moitié. Le [[DD]] de ce jet est égal à 10 + la moitié du [[niveau]] de l’alchimiste + modificateur d’Intelligence de l’alchimiste.
 
-Les alchimistes peuvent apprendre de nouveaux types de bombes sous forme de « [découvertes](./Alchimiste.md#DECOUVERTES) » quand ils passent des niveaux. Comme les [extraits](./Alchimiste.md#EXTRAITS), les bombes deviennent inertes si elles ne se trouvent plus en possession de l’alchimiste.
+Les alchimistes peuvent apprendre de nouveaux types de bombes sous forme de « [[alchimiste#DECOUVERTES|découvertes]] » quand ils passent des niveaux. Comme les [[alchimiste#EXTRAITS|extraits]], les bombes deviennent inertes si elles ne se trouvent plus en possession de l’alchimiste.
 
 {s:Reference|PREPARATIONDEPOTIONS}
 #### Préparation de potions (Ext)
-{s:FAQ|***[→](./FAQ- Manuel des joueurs - Règles avancées.md#3) Alchimiste : Un alchimiste est-il considéré comme un lanceur de sorts dans le cadre de la création d'objets magiques autres que les potions ?***
+{s:FAQ|***[[FAQ- Manuel des joueurs - Règles avancées#3|→]] Alchimiste : Un alchimiste est-il considéré comme un lanceur de sorts dans le cadre de la création d'objets magiques autres que les potions ?***
 
-Telle que la classe est écrite, non, les <u>[alchimistes](./Alchimiste.md#PREPARATIONDEPOTIONS)</u> ne sont pas des lanceurs de sorts, et ne sont donc pas éligibles aux dons comme [Création d'objets merveilleux](./Création dobjets merveilleux.md).
+Telle que la classe est écrite, non, les <u>[[Alchimiste#PREPARATIONDEPOTIONS|alchimistes]]</u> ne sont pas des lanceurs de sorts, et ne sont donc pas éligibles aux dons comme [[Création dobjets merveilleux|Création d'objets merveilleux]].
 
-L'équipe de conception est consciente que cela entraîne quelques problèmes thématiques avec l'idée d'un alchimiste fabriquant de golems ou autres, et sont décidés à examiner ce point dans le futur.}Au niveau 1, l’alchimiste reçoit [Préparation de potions](./Préparation de potions.md) comme don supplémentaire. Il peut préparer les [potions](./Potions magiques.md) correspondant à n’importe quelle formule de sa connaissance (jusqu’au niveau 3) en utilisant son niveau d’alchimiste comme [niveau de lanceur de sorts](./NLS.md). Le sort doit être susceptible de se transformer en potion. L’alchimiste n’a pas besoin de remplir les conditions requises par ce don.
+L'équipe de conception est consciente que cela entraîne quelques problèmes thématiques avec l'idée d'un alchimiste fabriquant de golems ou autres, et sont décidés à examiner ce point dans le futur.}Au niveau 1, l’alchimiste reçoit [[Préparation de potions]] comme don supplémentaire. Il peut préparer les [[potions magiques|potions]] correspondant à n’importe quelle formule de sa connaissance (jusqu’au niveau 3) en utilisant son niveau d’alchimiste comme [[NLS|niveau de lanceur de sorts]]. Le sort doit être susceptible de se transformer en potion. L’alchimiste n’a pas besoin de remplir les conditions requises par ce don.
 
 {s:Reference|MUTAGENES}
 #### Mutagènes (Sur)
-Au niveau 1, l’alchimiste découvre comment créer un mutagène qu’il peut boire afin d’améliorer ses prouesses physiques, au prix de sa personnalité. Il lui faut une heure pour préparer une dose de mutagène qui, une fois prête, reste active jusqu’à ce qu’il l’utilise. L’alchimiste ne peut avoir qu’une dose de mutagène de prête à la fois. S’il en prépare une seconde, la première devient inerte. Comme pour les [extraits](./Alchimiste.md#EXTRAITS) et les [bombes](./Alchimiste.md#BOMBES), le mutagène devient inerte quand il ne se trouve plus en possession de l’alchimiste et se réactive quand il revient entre ses mains.
+Au niveau 1, l’alchimiste découvre comment créer un mutagène qu’il peut boire afin d’améliorer ses prouesses physiques, au prix de sa personnalité. Il lui faut une heure pour préparer une dose de mutagène qui, une fois prête, reste active jusqu’à ce qu’il l’utilise. L’alchimiste ne peut avoir qu’une dose de mutagène de prête à la fois. S’il en prépare une seconde, la première devient inerte. Comme pour les [[alchimiste#EXTRAITS|extraits]] et les [[alchimiste#BOMBES|bombes]], le mutagène devient inerte quand il ne se trouve plus en possession de l’alchimiste et se réactive quand il revient entre ses mains.
 
-Quand un alchimiste prépare un mutagène, il choisit une valeur de caractéristique physique ([Force](./Force.md), [Dextérité](./Dextérité.md) ou [Constitution](./Constitution.md)). Boire le mutagène nécessite une [action simple](./Action simple.md). Une fois avalé, le mutagène rend l’alchimiste plus imposant et plus bestial, ce qui lui donne un bonus d’armure naturelle de +2 et un bonus alchimique de +4 à la caractéristique choisie pendant 10 minutes par niveau d’alchimiste. De plus, tant que le mutagène fait effet, l’alchimiste subit un malus de -2 à une valeur de caractéristique mentale. Si le mutagène s’applique à la [Force](./Force.md), c’est un malus d’[Intelligence](./Intelligence.md), s’il s’applique à la [Dextérité](./Dextérité.md) c’est un malus de [Sagesse](./Sagesse.md) et pour la [Constitution](./Constitution.md), c’est un malus de [Charisme](./Charisme.md).
+Quand un alchimiste prépare un mutagène, il choisit une valeur de caractéristique physique ([[Force]], [[Dextérité]] ou [[Constitution]]). Boire le mutagène nécessite une [[action simple]]. Une fois avalé, le mutagène rend l’alchimiste plus imposant et plus bestial, ce qui lui donne un bonus d’armure naturelle de +2 et un bonus alchimique de +4 à la caractéristique choisie pendant 10 minutes par niveau d’alchimiste. De plus, tant que le mutagène fait effet, l’alchimiste subit un malus de -2 à une valeur de caractéristique mentale. Si le mutagène s’applique à la [[Force]], c’est un malus d’[[Intelligence]], s’il s’applique à la [[Dextérité]] c’est un malus de [[Sagesse]] et pour la [[Constitution]], c’est un malus de [[Charisme]].
 
-Si quelqu’un boit le mutagène alors qu’il n’est pas alchimiste, il doit réussir un jet de [Vigueur](./Vigueur.md) (DD 10 +1/2 niveau de l’alchimiste + modificateur d’[Intelligence](./Intelligence.md) de l’alchimiste) ou être [nauséeux](./Nauséeux.md) pendant 1 heure. Un non-alchimiste  ne peut jamais bénéficier des avantages d’un mutagène, mais si un alchimiste boit le mutagène d’un confrère, il profite de ses effets (bien que, si l’autre alchimiste crée un second mutagène, les effets de celui qui a été « volé » disparaissent immédiatement). Les effets des mutagènes ne se cumulent pas et ceux précédemment avalés disparaissent si l’alchimiste en absorbe un autre.
+Si quelqu’un boit le mutagène alors qu’il n’est pas alchimiste, il doit réussir un jet de [[Vigueur]] (DD 10 +1/2 niveau de l’alchimiste + modificateur d’[[Intelligence]] de l’alchimiste) ou être [[nauséeux]] pendant 1 heure. Un non-alchimiste  ne peut jamais bénéficier des avantages d’un mutagène, mais si un alchimiste boit le mutagène d’un confrère, il profite de ses effets (bien que, si l’autre alchimiste crée un second mutagène, les effets de celui qui a été « volé » disparaissent immédiatement). Les effets des mutagènes ne se cumulent pas et ceux précédemment avalés disparaissent si l’alchimiste en absorbe un autre.
 
 {s:Reference|LANCERIMPROVISE}
 #### Lancer improvisé (Ext)
-Tous les alchimistes reçoivent le don [Lancer improvisé](./Lancer improvisé.md) comme don supplémentaire au niveau 1. L’alchimiste ajoute son modificateur d’[Intelligence](./Intelligence.md) aux dégâts des [armes à aspersion](./Actions spéciales.md#ARMEASPERSION) et aux dégâts d’aspersion le cas échéant. Ce bonus aux dégâts est déjà inclus dans le pouvoir de classe de [bombe](./Alchimiste.md#BOMBES).
+Tous les alchimistes reçoivent le don [[Lancer improvisé]] comme don supplémentaire au niveau 1. L’alchimiste ajoute son modificateur d’[[Intelligence]] aux dégâts des [[Actions spéciales#ARMEASPERSION|armes à aspersion]] et aux dégâts d’aspersion le cas échéant. Ce bonus aux dégâts est déjà inclus dans le pouvoir de classe de [[alchimiste#BOMBES|bombe]].
 
 {s:Reference|DECOUVERTES}
 #### Découvertes (Sur)
-Au niveau 2 et tous les deux niveaux par la suite (jusqu’au niveau 18), l’alchimiste fait une incroyable découverte alchimique. Sauf indication contraire, il ne peut pas choisir une même découverte à plusieurs reprises. Certaines découvertes nécessitent des prérequis, par exemple des découvertes précédentes. Les découvertes qui améliorent les [bombes](./Alchimiste.md#BOMBES) et sont marquées d’un astérisque (*) ne se cumulent pas. Seule une de ces découvertes s’applique à chaque [bombe](./Alchimiste.md#BOMBES) créée. Le [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) lié à une découverte est de 10 + 1/2 niveau de l’alchimiste + modificateur d’[Intelligence](./Intelligence.md) de l’alchimiste.
+Au niveau 2 et tous les deux niveaux par la suite (jusqu’au niveau 18), l’alchimiste fait une incroyable découverte alchimique. Sauf indication contraire, il ne peut pas choisir une même découverte à plusieurs reprises. Certaines découvertes nécessitent des prérequis, par exemple des découvertes précédentes. Les découvertes qui améliorent les [[alchimiste#BOMBES|bombes]] et sont marquées d’un astérisque (*) ne se cumulent pas. Seule une de ces découvertes s’applique à chaque [[alchimiste#BOMBES|bombe]] créée. Le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] lié à une découverte est de 10 + 1/2 niveau de l’alchimiste + modificateur d’[[Intelligence]] de l’alchimiste.
 
-*Voir la liste des [découvertes d'alchimiste](./découvertes.md).*
+*Voir la liste des [[Découvertes|découvertes d'alchimiste]].*
 
 {s:Reference|RESISTPOISON}
 #### Résistance au poison (Ext)
-Au niveau 2, l’alchimiste gagne un bonus de +2 aux [jets de sauvegarde](./jet de sauvegarde.md) contre le [poison](./poison.md). Ce bonus passe à +4 au niveau 5 et à +6 au niveau 8. Au niveau 10, l’alchimiste est complètement immunisé contre les poisons.
+Au niveau 2, l’alchimiste gagne un bonus de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre le [[poison]]. Ce bonus passe à +4 au niveau 5 et à +6 au niveau 8. Au niveau 10, l’alchimiste est complètement immunisé contre les poisons.
 
 {s:Reference|UTILISATIONDUPOISON}
 #### Utilisation des poisons (Ext)
-Les alchimistes sont formés à la manipulation des [poisons](./Poisons.md) et, à partir du niveau 2, ils ne peuvent pas s’empoisonner accidentellement en enduisant une arme.
+Les alchimistes sont formés à la manipulation des [[poisons]] et, à partir du niveau 2, ils ne peuvent pas s’empoisonner accidentellement en enduisant une arme.
 
 {s:Reference|ALCHIMIERAPIDE}
 #### Alchimie rapide (Ext)
-Au niveau 3, l’alchimiste peut créer des [objets alchimiques](./Outils alchimiques.md) à une vitesse prodigieuse. Il met deux fois moins de temps que la normale pour fabriquer un objet alchimique et peut appliquer du [poison](./poison.md) sur une arme par une [action de mouvement](./Action de mouvement.md).
+Au niveau 3, l’alchimiste peut créer des [[Outils alchimiques|objets alchimiques]] à une vitesse prodigieuse. Il met deux fois moins de temps que la normale pour fabriquer un objet alchimique et peut appliquer du [[poison]] sur une arme par une [[action de mouvement]].
 
 {s:Reference|EMPOISONNEMENTRAPIDE}
 #### Empoisonnement rapide
-Au niveau 6, l’alchimiste peut appliquer une dose de [poison](./poison.md) sur une arme par une [action rapide](./Action rapide.md).
+Au niveau 6, l’alchimiste peut appliquer une dose de [[poison]] sur une arme par une [[action rapide]].
 
 {s:Reference|MUTAGENEPERSISTANT}
 #### Mutagène persistant (Sur)
-Au niveau 14, les effets d’un [mutagène](./Alchimiste.md#MUTAGENES) durent 1 heure par niveau.
+Au niveau 14, les effets d’un [[alchimiste#MUTAGENES|mutagène]] durent 1 heure par niveau.
 
 {s:Reference|ALCHIMIEINSTANTANEE}
 #### Alchimie instantanée (Ext)
-Au niveau 18, l’alchimiste crée des [objets alchimiques](./Outils alchimiques.md) à une vitesse surnaturelle. Il peut les fabriquer par une [action complexe](./Action complexe.md) à condition de réussir un test d’[Artisanat](./Artisanat.md) (alchimie) et de disposer des ressources appropriées pour alimenter sa création. Il peut appliquer du [poison](./poison.md) sur une arme par une [action immédiate](./Action immédiate.md).
+Au niveau 18, l’alchimiste crée des [[Outils alchimiques|objets alchimiques]] à une vitesse surnaturelle. Il peut les fabriquer par une [[action complexe]] à condition de réussir un test d’[[Artisanat]] (alchimie) et de disposer des ressources appropriées pour alimenter sa création. Il peut appliquer du [[poison]] sur une arme par une [[action immédiate]].
 
 {s:Reference|GRANDESDECOUVERTES}
 #### Grande découverte (Sur)
-Au niveau 20, l’alchimiste fait une grande découverte. Il apprend immédiatement deux [découvertes](./découvertes.md) normales ainsi qu’une troisième issue de la liste des [grandes découvertes](./découvertes.md#GRANDESDECOUVERTES), qui représente un véritable bond en avant dans le domaine des connaissances alchimiques. La promesse de l’une de ces grandes découvertes est le but premier de toutes les expériences et de tout le travail de bon nombre d’alchimistes.
+Au niveau 20, l’alchimiste fait une grande découverte. Il apprend immédiatement deux [[découvertes]] normales ainsi qu’une troisième issue de la liste des [[découvertes#GRANDESDECOUVERTES|grandes découvertes]], qui représente un véritable bond en avant dans le domaine des connaissances alchimiques. La promesse de l’une de ces grandes découvertes est le but premier de toutes les expériences et de tout le travail de bon nombre d’alchimistes.
 
-*Voir la liste des [grandes découvertes d'alchimiste](./découvertes.md#GRANDEDECOUVERTE).*
+*Voir la liste des [[Découvertes#GRANDEDECOUVERTE|grandes découvertes d'alchimiste]].*

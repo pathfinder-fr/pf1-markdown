@@ -10,9 +10,9 @@ Categories:
 
 {s:divin|Thamir Gixx|%2fPCUP%2fReligion-PNG%2fThamir%20Gixx.png}<div class="BD">
 {s:BDTitre|Veste de la Lame silencieuse|{s:ISG}}
-**Aura** [Illusion](./Illusion.md) faible ; **NLS** 3 ; **Emplacement** [torse](./Objets merveilleux portés sur le torse.md) ; **Prix** 4 300 po ; **Poids** —
+**Aura** [[Illusion]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur le torse|torse]] ; **Prix** 4 300 po ; **Poids** —
 (((Description)))
-{s:cs}Cette élégante veste grise taillée pour un [halfelin](./Halfelin.md) est dotée de boutons noirs ternes et de plusieurs poches cachées. Sous le revers de la veste se trouve un symbole de dague noire avec un cercle blanc sur la lame près de la garde. Les disciples de [Thamir Gixx](./Thamir-Gixx-(technique).md) utilisent ce type de veste ou des vêtements similaires pour indiquer discrètement leur allégeance à d'autres membres de l'église de la Lame silencieuse. Le porteur bénéficie d'un bonus de compétence de +5 aux tests d'[Escamotage](./Escamotage.md). Lorsqu'il est adjacent à un allié utilisant la [Discrétion](./Discrétion.md), le porteur bénéficie d'un bonus de compétence de +5 aux tests de Discrétion.
+{s:cs}Cette élégante veste grise taillée pour un [[halfelin]] est dotée de boutons noirs ternes et de plusieurs poches cachées. Sous le revers de la veste se trouve un symbole de dague noire avec un cercle blanc sur la lame près de la garde. Les disciples de [[Thamir Gixx (technique)|Thamir Gixx]] utilisent ce type de veste ou des vêtements similaires pour indiquer discrètement leur allégeance à d'autres membres de l'église de la Lame silencieuse. Le porteur bénéficie d'un bonus de compétence de +5 aux tests d'[[Escamotage]]. Lorsqu'il est adjacent à un allié utilisant la [[Discrétion]], le porteur bénéficie d'un bonus de compétence de +5 aux tests de Discrétion.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[invisibilité](./Invisibilité.md)*, le créateur doit avoir 5 rangs en [Escamotage](./Escamotage.md) ; **Coût** 2 150 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[invisibilité]]*, le créateur doit avoir 5 rangs en [[Escamotage]] ; **Coût** 2 150 po
 </div>

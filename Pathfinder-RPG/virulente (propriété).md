@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Virulente
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Virulente](./Descriptions individuelles des propriétés spéciales des armes.md#Virulente)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Virulente]]

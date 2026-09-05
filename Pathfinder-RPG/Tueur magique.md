@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Tant que la propriété tueur est active, les créatures qu’elle affecte ont plus de mal à résister aux sorts du personnage.*
 
-**Condition.** [Tueur](./Inquisiteur.md#TUEUR)
+**Condition.** [[Inquisiteur#TUEUR|Tueur]]
 
-**Avantage.** Quand le pouvoir tueur affecte une créature, le [DD](./DD.md) des sorts du personnage augmente de +2 pour elle.
+**Avantage.** Quand le pouvoir tueur affecte une créature, le [[DD]] des sorts du personnage augmente de +2 pour elle.

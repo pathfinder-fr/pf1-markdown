@@ -8,10 +8,10 @@ LastModified: 2014-07-06 13:37
 
 <b>Accès :</b> Mon Personnage/Onglet Autres/Gestion du Compagnon Animal
 
-[My Hero|Retour racine du Manuel]</div>
+[[My Hero|Retour racine du Manuel]]</div>
 
 <table style="width: 100%"><tr style="vertical-align: top"><td style="width: 49%">{s:Image|/Illustrations/P63/My Hero/Slide68.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide69.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide70.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide71.jpg|100%|middle cadre|}{s:Image|/Illustrations/P63/My Hero/Slide72.jpg|100%|middle cadre|}</td><td style="width: 2%"></td><td style="width: 49%">
-<OL><LI>Retour vers [MH-MonPerso|Mon Personnage]
+<OL><LI>Retour vers [[MH-MonPerso|Mon Personnage]]
 <LI>Validation des changements effectués.
 <LI>Nom du compagnon.
 <LI>Type et points de vie du compagnon. Notez que vous pouvez définir le résultat des d8 représentant le nombre de points de vie de du compagnon. Laissez ce total à 0 pour que la moyenne lui soit attribuée.

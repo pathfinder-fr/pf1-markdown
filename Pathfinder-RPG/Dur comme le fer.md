@@ -10,6 +10,6 @@ Categories:
 
 {s:cm}*Les effets accordant une armure naturelle fonctionnent encore mieux sur le personnage.*
 
-**Conditions** [Robustesse](./Robustesse.md), [duergar](./duergar (race).md)
+**Conditions** [[Robustesse]], [[Duergar (race)|duergar]]
 
 **Avantages** Quand le personnage gagne un bonus d’altération à l’armure naturelle, ce bonus augmente de 2. Cela n’a aucun effet si le personnage a un bonus d’armure naturelle de +0 ou s’il n’a pas de bonus d’altération améliorant son armure naturelle.

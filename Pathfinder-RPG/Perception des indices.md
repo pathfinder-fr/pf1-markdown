@@ -16,16 +16,16 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ;** Niveau** [Alch](./Alchimiste.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 2, [Occ](./Occultiste.md) 2, [Psy](./Psychiste.md) 2, [Rôd](./Rôdeur.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 2, [[Occultiste|Occ]] 2, [[Psychiste|Psy]] 2, [[Rôdeur|Rôd]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une goutte d'eau)  
+**Composantes** [[Composantes|V, G, M]] (une goutte d'eau)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 10 minutes/[niveau](./niveau.md)
+**Durée** 10 minutes/[[niveau]]
 
-Le personnage devient particulièrement perspicace et parvient à interpréter de subtils indices comportementaux. Pendant toute la durée du sort, il gagne un bonus de compétence de +5 aux tests de [Perception](./Perception.md) et de [Psychologie](./Psychologie.md).
+Le personnage devient particulièrement perspicace et parvient à interpréter de subtils indices comportementaux. Pendant toute la durée du sort, il gagne un bonus de compétence de +5 aux tests de [[Perception]] et de [[Psychologie]].

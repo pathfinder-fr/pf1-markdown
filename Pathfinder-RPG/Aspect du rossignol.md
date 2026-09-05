@@ -14,11 +14,11 @@ Categories:
 - Src Inner Sea Gods
 ---
 
-{s:divin|Shélyn|%2fPCUP%2fReligion-PNG%2fShelyn.png}{s:cs}{s:ISG}**École** [Transmutation](./Transmutation.md) ([métamorphose](./branche métamorphose.md)) ; **Niveau** [Bard](./Barde.md) 1, [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Inq](./Inquisiteur.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 1, [Rôd](./Rôdeur.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
+{s:divin|Shélyn|%2fPCUP%2fReligion-PNG%2fShelyn.png}{s:cs}{s:ISG}**École** [[Transmutation]] ([[branche métamorphose|métamorphose]]) ; **Niveau** [[Barde|Bard]] 1, [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Inquisiteur|Inq]] 1, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 1, [[Rôdeur|Rôd]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
 **Portée** personnelle
 **Cibles** le lanceur de sorts
 **Durée** 1 minute/niveau
 
-Le personnage adopte un des aspects du rossignol. Sa voix devient claire et plaisante. Il gagne un bonus de compétence de +2 à ses tests de [Représentation](./Représentation.md) (chant) et de [Diplomatie](./Diplomatie.md). Une fois par minute, s’il se trouve sous un effet de [charme](./branche charme.md) qui autorise un [jet de sauvegarde](./JDS.md), il peut lancer le dé deux fois et conserver le meilleur résultat.
+Le personnage adopte un des aspects du rossignol. Sa voix devient claire et plaisante. Il gagne un bonus de compétence de +2 à ses tests de [[Représentation]] (chant) et de [[Diplomatie]]. Une fois par minute, s’il se trouve sous un effet de [[branche charme|charme]] qui autorise un [[jds|jet de sauvegarde]], il peut lancer le dé deux fois et conserver le meilleur résultat.

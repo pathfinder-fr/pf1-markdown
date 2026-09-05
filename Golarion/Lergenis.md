@@ -6,13 +6,13 @@ Categories:
 - Race
 ---
 
-Les Lergenis se disent descendants directs des premiers humains de [Golarion](./Golarion.md).
+Les Lergenis se disent descendants directs des premiers humains de [[Golarion]].
 
-Ils sont physiquement similaires aux [Azlantes](./Azlantes.md), ce qui tend à donner du crédit à leur revendication. En termes plus modernes, ils peuvent être décrits comme étant très proches des [Chélaxiens](./Chélaxiens.md) avec une pointe de [Tianais](./Tianais.md). Ils ont généralement la peau couleur olive ou matte, les cheveux noirs et les yeux clairs. Ils sont souvent grands, sveltes et larges d'épaules.
+Ils sont physiquement similaires aux [[Azlantes]], ce qui tend à donner du crédit à leur revendication. En termes plus modernes, ils peuvent être décrits comme étant très proches des [[Chélaxiens]] avec une pointe de [[Tianais]]. Ils ont généralement la peau couleur olive ou matte, les cheveux noirs et les yeux clairs. Ils sont souvent grands, sveltes et larges d'épaules.
 
-Ils sont originaires du [Lirgen](./Terres humides.md) qu'ils ont fui après sa destruction par l'Œil d'Abendego. Le plus grand groupe de survivants s'est installé à [Jaha](./Jaha.md), dans l'[étendue Mwangi](./Mwangi.md) en suivant apparemment une ancienne prophétie. Ils sont aujourd'hui 5000 à [Jaha](./Jaha.md) dont la religion officielle est l'astrologie Lergeni.
+Ils sont originaires du [[Terres humides|Lirgen]] qu'ils ont fui après sa destruction par l'Œil d'Abendego. Le plus grand groupe de survivants s'est installé à [[Jaha]], dans l'[[Mwangi|étendue Mwangi]] en suivant apparemment une ancienne prophétie. Ils sont aujourd'hui 5000 à [[Jaha]] dont la religion officielle est l'astrologie Lergeni.
 
 {s:VoirAussiAvant}
 Vous pourrez trouver plus d'informations à propos des Lergenis dans le supplément
-- [Pathfinder Chronicles: Heart of the Jungle](./Publications.md#HEARTOFTHEJUNGLE).
+- [[Golarion.Publications#HEARTOFTHEJUNGLE|Pathfinder Chronicles: Heart of the Jungle]].
 {s:VoirAussiAprès}

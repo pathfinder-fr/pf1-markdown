@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Sorts mythiques
 ---
 
->>> [Sorts mythiques](./Sorts mythiques.md)
+>>> [[Sorts mythiques]]

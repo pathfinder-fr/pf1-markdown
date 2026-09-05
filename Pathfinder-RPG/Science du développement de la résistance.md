@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage supporte les coups et les rend même à ses agresseurs. *
 
-**Conditions.** [Dur à cuire](./Dur à cuire.md), [Développement de la résistance](./Développement de la résistance.md), [Endurance](./Endurance.md), [BBA](./BBA.md) +11
+**Conditions.** [[Dur à cuire]], [[Développement de la résistance]], [[Endurance]], [[BBA]] +11
 
-**Avantage.** Le personnage double la [RD](./RD.md) qu’il obtient avec [Développement de la résistance](./Développement de la résistance.md), avec un maximum de 10/–.
+**Avantage.** Le personnage double la [[RD]] qu’il obtient avec [[Développement de la résistance]], avec un maximum de 10/–.

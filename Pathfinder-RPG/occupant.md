@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Occupants (véhicules)#
 ---
 
->>> [Occupants (véhicules)#](./Occupants (véhicules).md#)
+>>> [[Occupants (véhicules)#]]

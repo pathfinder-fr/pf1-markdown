@@ -10,10 +10,10 @@ Categories:
 
 {s:cs}{s:WMH}*Vous pouvez utilisez vos lances et armes d'hast comme des armes doubles*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie :** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [Dex](./Dex.md) 13, [Combat à deux armes](./Combat à deux armes.md), [Arme de prédilection](./Arme de prédilection.md) avec l'arme choisie
+**Conditions.** [[Dex]] 13, [[Combat à deux armes]], [[Arme de prédilection]] avec l'arme choisie
 
-**Avantages.** Le personnage choisit une arme dans le [groupe d’armes](./Guerrier.md#ENTRAINEMENTAUXARMES) des lances ou des armes d'hast du guerrier. Lorsqu'il utilise cette école, le personnage peut considérer l'arme choisie comme une arme [double](./Caractéristiques des armes.md#DOUBLE) en utilisant les statistiques normales de l'arme pour l'extrémité tenue par sa main principale et les statistique d'une [masse d'armes légère](./masse darmes légère (arme).md) pour l’extrémité tenue par sa main secondaire. Une arme maniée de cette façon perd les attributs [allonge](./Caractéristiques des armes.md#ALLONGE) et [réception](./Caractéristiques des armes.md#RECEPTION).
+**Avantages.** Le personnage choisit une arme dans le [[guerrier#ENTRAINEMENTAUXARMES|groupe d’armes]] des lances ou des armes d'hast du guerrier. Lorsqu'il utilise cette école, le personnage peut considérer l'arme choisie comme une arme [[Caractéristiques des armes#DOUBLE|double]] en utilisant les statistiques normales de l'arme pour l'extrémité tenue par sa main principale et les statistique d'une [[masse darmes légère (arme)|masse d'armes légère]] pour l’extrémité tenue par sa main secondaire. Une arme maniée de cette façon perd les attributs [[Caractéristiques des armes#ALLONGE|allonge]] et [[Caractéristiques des armes#RECEPTION|réception]].
 
-**Spécial.** Un personnage avec la capacité de classe [entraînement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) (armes d'hast ou lances) peut utiliser l'École de la lance dansante avec n'importe quelle arme d'hast ou lance, respectivement, en plus de l'arme choisie.
+**Spécial.** Un personnage avec la capacité de classe [[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] (armes d'hast ou lances) peut utiliser l'École de la lance dansante avec n'importe quelle arme d'hast ou lance, respectivement, en plus de l'arme choisie.

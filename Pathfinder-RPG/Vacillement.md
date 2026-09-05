@@ -13,13 +13,13 @@ Categories:
 
 *Le personnage maudit le sang de ses ennemis, les forçant à entreprendre leurs actions subséquentes.*
 
-**Catégorie.** [maléfice sanglant](./Dons.md#DONMALEFICESANGLANT)
+**Catégorie.** [[dons#DONMALEFICESANGLANT|maléfice sanglant]]
 
-**Conditions.** [Int](./Int.md) 13, 5 rangs en [Art de la magie](./Art de la magie.md), 5 rangs en [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md)
+**Conditions.** [[Int]] 13, 5 rangs en [[Art de la magie]], 5 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]
 
-**Avantage.** Par une [action simple](./Action simple.md), le personnage peut maudire une créature à qui il a infligé des dégâts depuis le début de son précédent tour. Cette cible doit réussir un jet de [Volonté](./Volonté.md) ou être incapable d’effectuer un [pas de placement](./Pas de placement.md), de [retarder une action](./Actions modifiant linitiative.md#RETARDER) ou de [préparer une action](./Actions modifiant linitiative.md#PREPARER) pendant 1 [round](./round.md).
+**Avantage.** Par une [[action simple]], le personnage peut maudire une créature à qui il a infligé des dégâts depuis le début de son précédent tour. Cette cible doit réussir un jet de [[Volonté]] ou être incapable d’effectuer un [[pas de placement]], de [[Actions modifiant linitiative#RETARDER|retarder une action]] ou de [[Actions modifiant linitiative#PREPARER|préparer une action]] pendant 1 [[round]].
 
-**Spécial.** Un [chaman](./Chaman.md) ou une [sorcière](./Sorcière.md) qui possède ce maléfice sanglant peut l’utiliser contre n’importe quelle créature à laquelle il a infligé des dégâts dans la minute. Une créature affectée par ce maléfice sanglant par un chaman ou une sorcière voit sa [vitesse de déplacement](./VD.md) diminuée de moitié pendant la durée du maléfice.
+**Spécial.** Un [[chaman]] ou une [[sorcière]] qui possède ce maléfice sanglant peut l’utiliser contre n’importe quelle créature à laquelle il a infligé des dégâts dans la minute. Une créature affectée par ce maléfice sanglant par un chaman ou une sorcière voit sa [[VD|vitesse de déplacement]] diminuée de moitié pendant la durée du maléfice.
 
 (((Falter (blood Hex)
 

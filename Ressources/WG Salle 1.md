@@ -6,7 +6,7 @@ Categories:
 - Weekly Grind
 ---
 
-<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/notes/jason-bulmahn-game-designer/weekly-grind-week-1-room-description/193365990707331) publiée avec l'autorisation de l'auteur Jason Bulmahn — [retour à l'index](./Weekly Grind.md)</p>
+<p class="description" style="text-align: right">Traduction d'une [note Facebook](http://www.facebook.com/notes/jason-bulmahn-game-designer/weekly-grind-week-1-room-description/193365990707331) publiée avec l'autorisation de l'auteur Jason Bulmahn — [[Weekly Grind|retour à l'index]]</p>
 Les marches cachées derrière le mur illusoire descendent sur une dizaine de mètres avant d'aboutir à une large salle abritant des gardiens morts-vivants corrompus. Quand les PJ pénètrent dans la salle, lisez ou paraphrasez ce qui suit.
 
 <center><img src="http://www.pathfinder-fr.org/Wiki/public/upload/Illustrations/WeeklyGrind/wg1.jpg" /></center>

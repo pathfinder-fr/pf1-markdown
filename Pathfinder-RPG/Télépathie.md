@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Télépathie (capacité)
 ---
 
->>> [Télépathie (capacité)](./Télépathie (capacité).md)
+>>> [[Télépathie (capacité)]]

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: arcanes#COURTEPORTEE
 ---
 
->>> [arcanes#COURTEPORTEE](./arcanes.md#COURTEPORTEE)
+>>> [[arcanes#COURTEPORTEE]]

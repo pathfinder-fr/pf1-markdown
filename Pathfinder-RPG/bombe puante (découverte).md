@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEPUANTE
 ---
 
->>> [découvertes#BOMBEPUANTE](./découvertes.md#BOMBEPUANTE)
+>>> [[découvertes#BOMBEPUANTE]]

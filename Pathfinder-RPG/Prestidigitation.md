@@ -14,11 +14,11 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** Universel ; **Niveau** [Bard](./Barde.md) 0, [Hyp](./Hypnotiseur.md) 0, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 0, [Magus](./Magus.md) 0, [Méd](./Médium.md) 0, [Psy](./Psychiste.md) 0  
+**École** Universel ; **Niveau** [[Barde|Bard]] 0, [[Hypnotiseur|Hyp]] 0, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 0, [[Magus]] 0, [[Médium|Méd]] 0, [[Psychiste|Psy]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[composantes|V, G]]  
 
 **Portée** 3 m  
 
@@ -28,4 +28,4 @@ Categories:
 
 **Jet de sauvegarde** voir description ; **Résistance à la magie** non
 
-Ce terme regroupe toute une série de tours de magie mineurs que les novices lancent pour s’entraîner. Une fois l’incantation achevée, ces sorts permettent de générer des effets magiques très simples et très limités pendant une heure. Par exemple, le personnage peut, une fois par [round](./round.md), soulever très lentement un objet ne pesant pas plus de cinq cents grammes, colorier, nettoyer ou salir un objet ne faisant pas plus de trente centimètres de côté, mais aussi chauffer, refroidir ou donner du goût à cinq cents grammes de matière inerte. Ces tours sont trop anodins pour blesser qui que ce soit, ou même pour troubler la [concentration](./concentration.md) d’un autre jeteur de sorts. Ils permettent aussi de créer de petits objets mais ceux-ci ont toujours l’air grossiers et artificiels. Les objets créés par *prestidigitation* sont trop fragiles pour servir d’armes, d’outils ou de [composantes matérielles](./composante matérielle.md) pour d’autres sorts. Enfin, ces tours mineurs ne sont pas assez puissants pour reproduire les effets d’autres sorts. Tout changement d’état qu’ils apportent (mis à part le fait de déplacer un objet, de le salir ou de le nettoyer) dure une heure tout au plus.
+Ce terme regroupe toute une série de tours de magie mineurs que les novices lancent pour s’entraîner. Une fois l’incantation achevée, ces sorts permettent de générer des effets magiques très simples et très limités pendant une heure. Par exemple, le personnage peut, une fois par [[round]], soulever très lentement un objet ne pesant pas plus de cinq cents grammes, colorier, nettoyer ou salir un objet ne faisant pas plus de trente centimètres de côté, mais aussi chauffer, refroidir ou donner du goût à cinq cents grammes de matière inerte. Ces tours sont trop anodins pour blesser qui que ce soit, ou même pour troubler la [[concentration]] d’un autre jeteur de sorts. Ils permettent aussi de créer de petits objets mais ceux-ci ont toujours l’air grossiers et artificiels. Les objets créés par *prestidigitation* sont trop fragiles pour servir d’armes, d’outils ou de [[composante matérielle|composantes matérielles]] pour d’autres sorts. Enfin, ces tours mineurs ne sont pas assez puissants pour reproduire les effets d’autres sorts. Tout changement d’état qu’ils apportent (mis à part le fait de déplacer un objet, de le salir ou de le nettoyer) dure une heure tout au plus.

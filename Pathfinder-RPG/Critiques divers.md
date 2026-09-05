@@ -12,12 +12,12 @@ Categories:
 
 {s:mr}*Grâce à son esprit ouvert et à son entraînement martial, le personnage diversifie ses possibilités de coup critique.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [humain](./Humain.md), [Guerrier](./Guerrier.md) de niveau 11
+**Conditions.** [[humain]], [[Guerrier]] de niveau 11
 
-**Avantages.** Une fois par jour, le personnage peut passer une heure à répéter des mouvements pour gagner un [don de critique](./dons de critique.md) dont il remplit les conditions. Il gagne les avantages de ce don de critique jusqu’à ce qu’il s’entraîne à effectuer d’autres mouvements pour en obtenir un autre.
+**Avantages.** Une fois par jour, le personnage peut passer une heure à répéter des mouvements pour gagner un [[dons de critique|don de critique]] dont il remplit les conditions. Il gagne les avantages de ce don de critique jusqu’à ce qu’il s’entraîne à effectuer d’autres mouvements pour en obtenir un autre.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Le personnage peut dépenser 5 points d’endurance pour utiliser ce don une deuxième fois par jour.

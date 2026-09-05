@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Conducteurs (véhicules)#
 ---
 
->>> [Conducteurs (véhicules)#](./Conducteurs (véhicules).md#)
+>>> [[Conducteurs (véhicules)#]]

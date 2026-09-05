@@ -11,12 +11,12 @@ Categories:
 
 {s:uc}*Le personnage a affûté ses griffes au point de devenir une véritable tornade de dévastation sanglante. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Lacération furieuse](./Lacération furieuse.md), [BBA](./BBA.md) +9, attaque spéciale [éventration](./Éventration.md)
+**Conditions.** [[Lacération furieuse]], [[BBA]] +9, attaque spéciale [[éventration]]
 
-**Avantage.** Quand le personnage réussit à éventrer un adversaire, il lui inflige 1d6 points de dégâts de plus. On ne multiplie pas ces dégâts en cas de [coup critique](./coup critique.md).
+**Avantage.** Quand le personnage réussit à éventrer un adversaire, il lui inflige 1d6 points de dégâts de plus. On ne multiplie pas ces dégâts en cas de [[coup critique]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Tant que le personnage possède encore au moins un point dans sa réserve d’endurance, les dégâts supplémentaires liés à ce don sont multipliés en cas de [coup critique](./coup critique.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Tant que le personnage possède encore au moins un point dans sa réserve d’endurance, les dégâts supplémentaires liés à ce don sont multipliés en cas de [[coup critique]].

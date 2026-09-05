@@ -10,12 +10,12 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Bard](./Barde.md) 2, [Prê](./Prêtre.md) 2</br>
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Barde|Bard]] 2, [[Prêtre|Prê]] 2</br>
 **Temps d’incantation** 1 minute</br>
-**Composantes** [V, G](./composantes.md)</br>
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) / (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))</br>
-**Cible** une créature/[niveau](./niveau.md)</br>
+**Composantes** [[composantes|V, G]]</br>
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) / (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])</br>
+**Cible** une créature/[[niveau]]</br>
 **Durée** concentration</br>
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Le personnage revigore ses alliés, qui peuvent se déplacer à [petites foulées](./Déplacements.md) tant qu’il continue de chanter (ce qui requiert sa concentration). Ce déplacement compte comme une [marche](./Déplacements.md) (pas comme un [footing](./Déplacements.md)) quand il s’agit de calculer l’accumulation de dégâts non létaux et de fatigue. Le personnage peut se concentrer sur ce sort et se déplacer en [footing](./Déplacements.md) en même temps.
+Le personnage revigore ses alliés, qui peuvent se déplacer à [[déplacements|petites foulées]] tant qu’il continue de chanter (ce qui requiert sa concentration). Ce déplacement compte comme une [[déplacements|marche]] (pas comme un [[déplacements|footing]]) quand il s’agit de calculer l’accumulation de dégâts non létaux et de fatigue. Le personnage peut se concentrer sur ce sort et se déplacer en [[déplacements|footing]] en même temps.

@@ -14,18 +14,18 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 2, [Dru](./Druide.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [San](./Sanguin.md) 2  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 2, [[Druide|Dru]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Sanguin|San]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, F/FD](./composantes.md) (une petite boule de goudron)  
+**Composantes** [[Composantes|V, G, F/FD]] (une petite boule de goudron)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** 10 minutes/[niveau](./niveau.md) (T)  
+**Durée** 10 minutes/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-Les prises et les appuis de la cible se font plus sûrs et lui donnent un bonus de compétence de +4 aux tests d’[Escalade](./Escalade.md), d’[Acrobaties](./Acrobaties.md) pour garder son équilibre et au [DMD](./DMD.md) contre une tentative de [bousculade](./bousculade.md), d’[attirer](./Attirer.md), de [repositionnement](./repositionnement.md) et de [croc-en-jambe](./croc-en-jambe.md). Tant que la cible est sous l’effet de ce sort, elle est également [immunisée](./Immunité (capacité).md) contre les manœuvres de [désarmement](./désarmement.md).
+Les prises et les appuis de la cible se font plus sûrs et lui donnent un bonus de compétence de +4 aux tests d’[[Escalade]], d’[[Acrobaties]] pour garder son équilibre et au [[DMD]] contre une tentative de [[bousculade]], d’[[attirer]], de [[repositionnement]] et de [[croc-en-jambe]]. Tant que la cible est sous l’effet de ce sort, elle est également [[immunité (capacité)|immunisée]] contre les manœuvres de [[désarmement]].

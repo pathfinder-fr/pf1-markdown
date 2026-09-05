@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#FRACASSEMENT
 ---
 
->>> [pouvoirs de rage#FRACASSEMENT](./Pouvoirs de rage.md#FRACASSEMENT)
+>>> [[pouvoirs de rage#FRACASSEMENT]]

@@ -12,20 +12,20 @@ Categories:
 ---
 
 {s:UC}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Apal](./Antipaladin.md) 2, [Inq](./Inquisiteur.md) 2, [Pal](./Paladin.md) 2  
+**École** [[Transmutation]] ; **Niveau** [[Antipaladin|Apal]] 2, [[Inquisiteur|Inq]] 2, [[Paladin|Pal]] 2  
 
-**Temps d’incantation** 1 [action rapide](./Action rapide.md)  
+**Temps d’incantation** 1 [[action rapide]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[Composantes|V, G, FD]]  
 
 **Portée** personnelle  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 [round](./round.md)  
+**Durée** 1 [[round]]  
 
 **Jet de sauvegarde** non ; **Résistance à la magie** oui
 
-Les défenses du personnage se renforcent quand il invoque cette litanie. Tous les bonus d’altération de son armure doublent et il est [immunisé](./Immunité.md) contre la [peur](./Registre.md).
+Les défenses du personnage se renforcent quand il invoque cette litanie. Tous les bonus d’altération de son armure doublent et il est [[immunité|immunisé]] contre la [[registre|peur]].
 
 Quand il est sous l’effet de ce sort, il ne peut pas bénéficier des effets d’un autre sort de litanie.

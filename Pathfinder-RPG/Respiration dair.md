@@ -17,14 +17,14 @@ Categories:
 ---
 
 {s:cm}
-**Cette option est plus courante chez les [sahuagins](./Sahuagin.md).**
+**Cette option est plus courante chez les [[Sahuagin|sahuagins]].**
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Cham](./Chaman.md) 3, [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 3, [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Prê](./Prêtre.md) 3, [Psy](./Psychiste.md) 3, [San](./Sanguin.md) 3
-**Temps d’incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M/FD](./composantes.md) (une fleur ou un brin d’herbe)
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Chaman|Cham]] 3, [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 3, [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Prêtre|Prê]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3
+**Temps d’incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M/FD]] (une fleur ou un brin d’herbe)
 **Portée** contact
 **Cible** les créatures aquatiques vivantes touchées
-**Durée** 2 heures/[niveau](./niveau.md) ; voir texte
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
+**Durée** 2 heures/[[niveau]] ; voir texte
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
 Les créatures transmutées peuvent respirer l’air librement. Divisez la durée de manière égale entre toutes les créatures que le sahuagin touche. Ce sort ne retire pas aux créatures leur capacité à respirer l’eau.

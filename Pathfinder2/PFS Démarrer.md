@@ -4,12 +4,12 @@ Title: Démarrer [Pathfinder Society]
 LastModified: 2022-07-19 16:06
 ---
 
-[Bienvenue à la Société des Éclaireurs](./PFS Démarrage Rapide.md) - A jour v3.03
+[[PFS Démarrage Rapide|Bienvenue à la Société des Éclaireurs]] - A jour v3.03
 
 
 
 Lectures supplémentaires :
 
-[Le Monde de Golarion](./PFS Monde de Golarion.md)
+[[PFS Monde de Golarion|Le Monde de Golarion]]
 
-[Attentes et Règles de la Communauté](./PFS-Règles-et-Attentes.md)
+[[PFS Règles et Attentes|Attentes et Règles de la Communauté]]

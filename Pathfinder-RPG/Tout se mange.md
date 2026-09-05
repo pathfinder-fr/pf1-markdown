@@ -10,20 +10,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Rôd](./Rôdeur.md) 2  
+**École** [[Transmutation]] ; **Niveau** [[Rôdeur|Rôd]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (une pincée de sel et de poivre)  
+**Composantes** [[Composantes|V, G, M]] (une pincée de sel et de poivre)  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
-**Cible** objet touché qui pèse jusqu'à 0,5 kg/[niveau](./niveau.md)  
+**Cible** objet touché qui pèse jusqu'à 0,5 kg/[[niveau]]  
 
-**Durée** [instantanée](./Présentation des sorts.md#DUREE)  
+**Durée** [[présentation des sorts#DUREE|instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] (objet) ; **Résistance à la magie** oui (objet)
 
 Le personnage peut transformer un objet qui pèse jusqu'à 0,5 kg par niveau de lanceur de sorts en une substance comestible que toute créature vivante peut mâcher, avaler et digérer en toute sécurité. Quelle que soit la nature originelle de cette nourriture, elle n'a pas de goût et possède une consistance légèrement caoutchouteuse. Une livre de cet aliment suffit à nourrir une créature de taille M pendant une journée.
 
-Les objets de même nature qui se trouvent très proches les uns des autres, comme une pile de rochers, comptent comme un seul objet en ce qui concerne ce sort. Le personnage ne peut pas utiliser ce sort pour transformer des objets magiques ou dotés de qualités exceptionnelles. On considère que tous les objets ont une [solidité](./solidité.md) de 0 quand il s'agit de les manger mais ils conservent leur [solidité](./solidité.md) naturelle pour le reste : ils ne deviennent pas plus vulnérables aux tentatives de destruction d'arme, de bris ou toute action typiquement dirigée contre un objet. Les objets comme du charbon ardent ou une torche enflammée continuent de produire de l'énergie même après la transformation en nourriture et, si une créature tente d'en manger, elle reçoit les dégâts adéquats.
+Les objets de même nature qui se trouvent très proches les uns des autres, comme une pile de rochers, comptent comme un seul objet en ce qui concerne ce sort. Le personnage ne peut pas utiliser ce sort pour transformer des objets magiques ou dotés de qualités exceptionnelles. On considère que tous les objets ont une [[solidité]] de 0 quand il s'agit de les manger mais ils conservent leur [[solidité]] naturelle pour le reste : ils ne deviennent pas plus vulnérables aux tentatives de destruction d'arme, de bris ou toute action typiquement dirigée contre un objet. Les objets comme du charbon ardent ou une torche enflammée continuent de produire de l'énergie même après la transformation en nourriture et, si une créature tente d'en manger, elle reçoit les dégâts adéquats.

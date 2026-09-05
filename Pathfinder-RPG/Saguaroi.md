@@ -10,7 +10,7 @@ LastModified: 2021-07-17 19:40
 {s:pucem|Plante|Désert|Tropical}
 {s:BDTexte|*Source : Bestiaire 4 page 232*}
 - 1 600 PX
-- [Plante](./type Plante.md) de taille M, N
+- [[type plante|Plante]] de taille M, N
 - **Init **+8 ; **Sens **vision nocturne ; Perception +10
 (((Défense)))
 - **CA **18, contact 14, pris au dépourvu 14 (Dex +4, naturelle +4)
@@ -24,8 +24,8 @@ LastModified: 2021-07-17 19:40
 (((Statistiques)))
 - **For **20, **Dex **18, **Con **18, **Int **7, **Sag **15, **Cha **11
 - **BBA **+5 ; **BMO **+10 ; **DMD **24
-- **Dons **[Attaques réflexes](./Attaques réflexes.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science-de-l’initiative.md), [Vigilance](./Vigilance.md) 
-- **Compétences **[Perception](./Perception.md) +10, [Psychologie](./Psychologie.md) +5, [Survie](./Survie.md) +5
+- **Dons **[[Attaques réflexes]], [[Réflexes surhumains]], [[Science de l’initiative]], [[Vigilance]] 
+- **Compétences **[[Perception]] +10, [[Psychologie]] +5, [[Survie]] +5
 - **Langues** sylvestre
 - **Particularités **immobilité, production d’eau
 (((Écologie)))

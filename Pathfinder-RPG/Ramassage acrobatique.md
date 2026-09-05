@@ -11,12 +11,12 @@ Categories:
 
 {s:mca} *Le personnage a appris comment récupérer les objets au sol en les envoyant d’un coup de pied dans sa main.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Dex](./Dex.md) 12, [Voltigeur](./Voltigeur.md), 1 rang en [Acrobaties](./Acrobaties.md) ; [tueur](./Tueur.md) niveau 1 ou [bretteur](./Bretteur.md) niveau 1.
+**Conditions.** [[Dex]] 12, [[Voltigeur]], 1 rang en [[Acrobaties]] ; [[tueur]] niveau 1 ou [[bretteur]] niveau 1.
 
-**Avantage.** À partir du moment où le personnage a au moins une main libre, il peut dépenser une [action rapide](./Action rapide.md) pour récupérer un seul objet ou une seule arme inutilisé qui pèse 5 kg ou moins et se trouve au sol, que ce soit dans la case qu’il occupe ou dans une case adjacente inoccupée ou non-menacée par un ennemi. En outre, quand il récupère ainsi une arme et tente une [feinte](./feinte.md) avant la fin de son tour, il reçoit un bonus de circonstances de +2 à sa tentative de [feinte](./feinte.md).
+**Avantage.** À partir du moment où le personnage a au moins une main libre, il peut dépenser une [[action rapide]] pour récupérer un seul objet ou une seule arme inutilisé qui pèse 5 kg ou moins et se trouve au sol, que ce soit dans la case qu’il occupe ou dans une case adjacente inoccupée ou non-menacée par un ennemi. En outre, quand il récupère ainsi une arme et tente une [[feinte]] avant la fin de son tour, il reçoit un bonus de circonstances de +2 à sa tentative de [[feinte]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Le personnage peut dépenser 2 points d’endurance pour ramasser un objet abandonné dans une case adjacente occupée par un ennemi.

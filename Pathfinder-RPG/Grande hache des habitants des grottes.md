@@ -8,13 +8,13 @@ Categories:
 - Src Codex monstrueux
 ---
 
-**Cette option est plus courante chez les [troglodytes](./Troglodyte.md).**
+**Cette option est plus courante chez les [[Troglodyte|troglodytes]].**
 
 <div class="BD">
 {s:BDTitre|Grande hache des habitants des grottes|{s:CM}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 11 ; **Emplacement** [aucun (arme)](./Armes magiques spécifiques.md) ; **Prix** 8 305 po ; **Poids** 4,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 11 ; **Emplacement** [[Armes magiques spécifiques|aucun (arme)]] ; **Prix** 8 305 po ; **Poids** 4,5 kg
 (((Description)))
-La *grande hache des habitants des grottes* est en réalité une fine plaque de pierre grossièrement attachée à un manche en os. Aussi pratique qu’une arme métallique du même type, elle fonctionne comme une *[grande hache](./Grande hache (arme).md) +1*. Une fois par jour, quand le porteur touche une créature avec cette arme, il peut prononcer un mot de commande pour forcer la créature touchée à faire un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 16. Si elle échoue, elle est ralentie pendant 1 [round](./round.md). À la fin de ce round, la créature n’est plus ralentie mais doit réussir un deuxième jet de Vigueur pour ne pas être [pétrifiée](./Pétrifié.md) pendant 1d4 [rounds](./round.md).
+La *grande hache des habitants des grottes* est en réalité une fine plaque de pierre grossièrement attachée à un manche en os. Aussi pratique qu’une arme métallique du même type, elle fonctionne comme une *[[grande hache (arme)|grande hache]] +1*. Une fois par jour, quand le porteur touche une créature avec cette arme, il peut prononcer un mot de commande pour forcer la créature touchée à faire un jet de [[Vigueur]] [[DD]] 16. Si elle échoue, elle est ralentie pendant 1 [[round]]. À la fin de ce round, la créature n’est plus ralentie mais doit réussir un deuxième jet de Vigueur pour ne pas être [[pétrifié|pétrifiée]] pendant 1d4 [[round|rounds]].
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[contact calcificateur](./Contact calcificateur.md)*  ; **Coût** 4 305 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[contact calcificateur]]*  ; **Coût** 4 305 po
 </div>

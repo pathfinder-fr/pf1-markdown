@@ -11,8 +11,8 @@ Categories:
 
 {s:RSE}*Le personnage peut utiliser sa force et son agilité pour envoyer ses ennemis s’écraser au sol.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Science du croc-en-jambe](./Science du croc-en-jambe.md)
+**Conditions.** [[Science du croc-en-jambe]]
 
-**Avantages.** Lorsqu’il fait une attaque de [croc-en-jambe](./croc-en-jambe.md), le personnage ajoute son bonus de [Dextérité](./Dextérité.md) à son [BMO](./BMO.md).
+**Avantages.** Lorsqu’il fait une attaque de [[croc-en-jambe]], le personnage ajoute son bonus de [[Dextérité]] à son [[BMO]].

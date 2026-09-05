@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 75 po ; **Poids** 10 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Cette version compacte du [laboratoire d’alchimiste](./Laboratoire dalchimiste (objet).md) accorde un bonus de circonstances de +1 aux tests d’[Artisanat](./Artisanat.md) (alchimie).
+Cette version compacte du [[Laboratoire dalchimiste (objet)|laboratoire d’alchimiste]] accorde un bonus de circonstances de +1 aux tests d’[[Artisanat]] (alchimie).

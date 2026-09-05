@@ -10,10 +10,10 @@ Categories:
 
 {s:cs}{s:ISR}*Vous puisez dans votre héritage extraplanaire pour imprégner vos armes d'énergies élémentaires.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Ifrit](./Ifrit (race).md), [ondin](./Ondin (race).md), [oréade](./Oréade (race).md) ou [sylphe](./Sylphe (race).md)
+**Conditions.** [[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]
 
-**Avantages.** Par une [action rapide](./Action rapide.md), le personnage peut imprégner ses armes avec de l'énergie élémentaire. Pendant 1 round, ses armes infligent 1 point de dégât d'énergie supplémentaire. Le type d'énergie dépend de la race du personnage : acide pour les [oréades](./Oréade (race).md), électricité pour les [sylphes](./Sylphe (race).md), feu pour les [ifrits](./Ifrit (race).md) et froid pour les [ondin](./Ondin (race).md). Pour chaque tranche de 5 niveaux que le personnage possède, ce bonus augmente de 1, jusqu'à un maximum de +5 au niveau 20.
+**Avantages.** Par une [[action rapide]], le personnage peut imprégner ses armes avec de l'énergie élémentaire. Pendant 1 round, ses armes infligent 1 point de dégât d'énergie supplémentaire. Le type d'énergie dépend de la race du personnage : acide pour les [[Oréade (race)|oréades]], électricité pour les [[Sylphe (race)|sylphes]], feu pour les [[Ifrit (race)|ifrits]] et froid pour les [[Ondin (race)|ondin]]. Pour chaque tranche de 5 niveaux que le personnage possède, ce bonus augmente de 1, jusqu'à un maximum de +5 au niveau 20.
 
-**Spécial.** Le personnage peut utiliser ce don à la place de [Frappe magique](./Frappe magique.md) afin de remplir les conditions du ou d'utiliser le don [Deadly Dealer](./Croupier-mortel.md).
+**Spécial.** Le personnage peut utiliser ce don à la place de [[Frappe magique]] afin de remplir les conditions du ou d'utiliser le don [[Croupier mortel|Deadly Dealer]].

@@ -4,16 +4,16 @@
 
 <div class="presentation navmenudroite">
 ### Les archétypes </br>de prêtre combattant
-&nbsp;Retour à la [classe](./../Pathfinder-RPG/Prêtre combattant.md).
-<ul style="margin-top:2px"><li>[Champion de la Foi](./../Pathfinder-RPG/Champion de la foi (prêtre combattant).md) (MCA)</li>
-<li>[Chapelain de l'arsenal militaire](./../Pathfinder-RPG/Chapelain de larsenal militaire (prêtre combattant).md) (*WMH*)</li>
-<li>[Chef de culte](./../Pathfinder-RPG/Chef de culte (prêtre combattant).md) (MCA)</li>
-<li>[Commandant divin](./../Pathfinder-RPG/Commandant divin (prêtre combattant).md) (MCA)</li>
-<li>[Désenchanteur](./../Pathfinder-RPG/Désenchanteur (prêtre combattant).md) (MCA)</li>
-<li>[Lame de liberté](./../Pathfinder-RPG/Lame de liberté (prêtre combattant).md) (MCA)</li>
-<li>[Poing sacré](./../Pathfinder-RPG/Poing sacré (prêtre combattant).md) (MCA)</li>
-<li>[Porte bouclier](./../Pathfinder-RPG/Porte-bouclier (prêtre combattant).md) (*AMH*)</li>
-<li>[Prêtre forgeron](./../Pathfinder-RPG/Prêtre forgeron (prêtre combattant).md) (MCA)</li>
-<li>[Zélote de la mante](./../Pathfinder-RPG/Zélote de la mante (prêtre combattant).md) (MCA)</li>
+&nbsp;Retour à la [[Prêtre combattant|classe]].
+<ul style="margin-top:2px"><li>[[Champion de la foi (prêtre combattant)|Champion de la Foi]] (MCA)</li>
+<li>[[Chapelain de larsenal militaire (prêtre combattant)|Chapelain de l'arsenal militaire]] (*WMH*)</li>
+<li>[[Chef de culte (prêtre combattant)|Chef de culte]] (MCA)</li>
+<li>[[Commandant divin (prêtre combattant)|Commandant divin]] (MCA)</li>
+<li>[[Désenchanteur (prêtre combattant)|Désenchanteur]] (MCA)</li>
+<li>[[Lame de liberté (prêtre combattant)|Lame de liberté]] (MCA)</li>
+<li>[[Poing sacré (prêtre combattant)|Poing sacré]] (MCA)</li>
+<li>[[Porte-bouclier (prêtre combattant)|Porte bouclier]] (*AMH*)</li>
+<li>[[Prêtre forgeron (prêtre combattant)|Prêtre forgeron]] (MCA)</li>
+<li>[[Zélote de la mante (prêtre combattant)|Zélote de la mante]] (MCA)</li>
 </ul>
 </div>

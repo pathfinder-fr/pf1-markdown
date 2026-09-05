@@ -6,6 +6,6 @@ Categories:
 - Géographie
 ---
 
-Située au sud-ouest d'[Osirion](./Osirion.md), cette partie du désert constitue le contrefort des montagnes du Mur Barrière (Barrier Wall Mountains). Alternant entre rocailles et dunes, les Empreintes des Rovagug contiennent les deux seuls volcans d'Osirion, le Bouillonnement de Soker (Sokar's Boil) et la Bouche d'Asuulek (Asuulek's Mouth).
+Située au sud-ouest d'[[Osirion]], cette partie du désert constitue le contrefort des montagnes du Mur Barrière (Barrier Wall Mountains). Alternant entre rocailles et dunes, les Empreintes des Rovagug contiennent les deux seuls volcans d'Osirion, le Bouillonnement de Soker (Sokar's Boil) et la Bouche d'Asuulek (Asuulek's Mouth).
 
 De nombreuses sources permettent à la région d'attirer les nobles osirionnais qui croient y trouver des effets bienfaisants et rajeunissants.

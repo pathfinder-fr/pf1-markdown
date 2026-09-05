@@ -19,34 +19,34 @@ Cette prise de conscience et le schisme qui l'a suivi ont séparé le groupe en 
 | CLASS="gauche" | Spécial
 |- CLASS="premier"
 | 1 || +0 || +1 || +1 || +1
-| CLASS="gauche" | [Combat à mains nues](./Frère du Sceau.md#COMBATAMAINSNUES), [l'eau séparant la pierre](./Frère du Sceau.md#LEAUSEPARANTLAPIERRE)
+| CLASS="gauche" | [[Frère du Sceau#COMBATAMAINSNUES|Combat à mains nues]], [[Frère du Sceau#LEAUSEPARANTLAPIERRE|l'eau séparant la pierre]]
 |-
 | 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [Gardien de la Porte](./Frère du Sceau.md#GARDIENDELAPORTE), [recherche de pièges](./Frère du Sceau.md#RECHERCHEDEPIEGES)
+| CLASS="gauche" | [[Frère du Sceau#GARDIENDELAPORTE|Gardien de la Porte]], [[Frère du Sceau#RECHERCHEDEPIEGES|recherche de pièges]]
 |-
 | 3 || +2 || +2 || +2 || +2
-| CLASS="gauche" | [Recherche de runes](./Frère du Sceau.md#RECHERCHEDERUNES)
+| CLASS="gauche" | [[Frère du Sceau#RECHERCHEDERUNES|Recherche de runes]]
 |-
 | 4 || +3 || +2 || +2 || +2
-| CLASS="gauche" | [Coup fabuleux](./Frère du Sceau.md#COUPFABULEUX)
+| CLASS="gauche" | [[Frère du Sceau#COUPFABULEUX|Coup fabuleux]]
 |-
 | 5 || +3 || +3 || +3 || +3
-| CLASS="gauche" | [Rupture du sceau](./Frère du Sceau.md#RUPTUREDUSCEAU)
+| CLASS="gauche" | [[Frère du Sceau#RUPTUREDUSCEAU|Rupture du sceau]]
 |-
 | 6 || +4 || +3 || +3 || +3
-| CLASS="gauche" | [Effet domino](./Frère du Sceau.md#EFFETDOMINO)
+| CLASS="gauche" | [[Frère du Sceau#EFFETDOMINO|Effet domino]]
 |-
 | 7 || +5 || +4 || +4 || +4
-| CLASS="gauche" | [Mains de pierre](./Frère du Sceau.md#MAINSDEPIERRE)
+| CLASS="gauche" | [[Frère du Sceau#MAINSDEPIERRE|Mains de pierre]]
 |-
 | 8 || +6 || +4 || +4 || +4
-| CLASS="gauche" | [Coup rapide](./Frère du Sceau.md#COUPRAPIDE)
+| CLASS="gauche" | [[Frère du Sceau#COUPRAPIDE|Coup rapide]]
 |-
 | 9 || +6 || +5 || +5 || +5
-| CLASS="gauche" | [Coup en cascade](./Frère du Sceau.md#COUPENCASCADE)
+| CLASS="gauche" | [[Frère du Sceau#COUPENCASCADE|Coup en cascade]]
 |-
 | 10 || +7 || +5 || +5 || +5
-| CLASS="gauche" | [Destruction magique](./Frère du Sceau.md#DESTRUCTIONMAGIQUE)
+| CLASS="gauche" | [[Frère du Sceau#DESTRUCTIONMAGIQUE|Destruction magique]]
 |}
 </center>
 
@@ -57,16 +57,16 @@ Pour pouvoir devenir frère du Sceau, le personnage doit satisfaire aux conditio
 
 **Alignement.**  N’importe quel alignement Loyal
 
-**Dons.**  [Science du combat à mains nues](./Science du combat à mains nues.md), [Coup étourdissant](./Coup étourdissant.md)
+**Dons.**  [[Science du combat à mains nues]], [[Coup étourdissant]]
 
-**Compétences.** 5 rangs en [Connaissances](./Connaissances.md) (mystères).
+**Compétences.** 5 rangs en [[Connaissances]] (mystères).
 
-**Spécial.**  Capacité de classe [déluge de coups](./Moine.md#DELUGEDECOUPS).
+**Spécial.**  Capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]].
 
 ### Compétences de classe
-Voici les compétences de classe du frère du Sceau : [Art de la magie](./Art de la magie.md) (Int), [Connaissances](./Connaissances.md) (ingénierie) (Int), [Connaissances](./Connaissances.md) (histoire) (Int), [Discrétion](./Discrétion.md) (Dex), [Perception](./Perception.md) (Sag), [Psychologie](./Psychologie.md) (Sag), [Sabotage](./Sabotage.md) (Dex).
+Voici les compétences de classe du frère du Sceau : [[Art de la magie]] (Int), [[Connaissances]] (ingénierie) (Int), [[Connaissances]] (histoire) (Int), [[Discrétion]] (Dex), [[Perception]] (Sag), [[Psychologie]] (Sag), [[Sabotage]] (Dex).
 
-**Rangs de compétence par niveau.** 4 + modificateur d'[Intelligence](./Intelligence.md).
+**Rangs de compétence par niveau.** 4 + modificateur d'[[Intelligence]].
 
 ### Caractéristiques de classe
 Voici les caractéristiques de la classe de frère du Sceau.
@@ -75,39 +75,39 @@ Un frère du Sceau ne gagne aucune formation supplémentaire au maniement des ar
 
 {s:reference|COMBATAMAINSNUES}
 #### Combat à mains nues (Ext)
-Les niveaux de frère du Sceau se cumulent à tout niveau de [moine](./Moine.md) pour déterminer son [déluge de coups](./Moine.md#DELUGEDECOUPS), son [coup étourdissant](./Moine.md#COUPETOURDISSANT) et les capacités de classes de combat à mains nues (y compris pour déterminer les dégâts infligés par ses attaques à mains nues).
+Les niveaux de frère du Sceau se cumulent à tout niveau de [[moine]] pour déterminer son [[Moine#DELUGEDECOUPS|déluge de coups]], son [[Moine#COUPETOURDISSANT|coup étourdissant]] et les capacités de classes de combat à mains nues (y compris pour déterminer les dégâts infligés par ses attaques à mains nues).
 
 {s:reference|LEAUSEPARANTLAPIERRE}
 #### L'eau séparant la pierre (Ext)
-Quand il attaque un objet, un frère du Sceau ignore 1 point de [solidité](./solidité.md) par niveau de classe.
+Quand il attaque un objet, un frère du Sceau ignore 1 point de [[solidité]] par niveau de classe.
 
 {s:reference|GARDIENDELAPORTE}
 #### Gardien de la Porte (Mag)
-Au niveau 2, un frère du Sceau choisit *[verrou du mage](./Verrou du mage.md)* ou *[verrouillage](./Verrouillage.md)*, et gagne alors la capacité de lancer le sort choisi une fois par jour. Une fois le choix fait, il est impossible de le changer plus tard. Au niveau 6 et encore une fois au niveau 10, le frère du Sceau peut lancer le sort choisi une fois de plus par jour.
+Au niveau 2, un frère du Sceau choisit *[[verrou du mage]]* ou *[[verrouillage]]*, et gagne alors la capacité de lancer le sort choisi une fois par jour. Une fois le choix fait, il est impossible de le changer plus tard. Au niveau 6 et encore une fois au niveau 10, le frère du Sceau peut lancer le sort choisi une fois de plus par jour.
 
 {s:reference|RECHERCHEDESPIEGES}
 #### Recherche des pièges (Ext)
-Au niveau 2, un frère du Sceau ajoute la moitié de son niveau de classe à ses tests de [Perception](./Perception.md) et de [Sabotage](./Sabotage.md) pour créer, trouver et désarmer les pièges, et il est capable de désarmer les pièges magiques avec Sabotage.
+Au niveau 2, un frère du Sceau ajoute la moitié de son niveau de classe à ses tests de [[Perception]] et de [[Sabotage]] pour créer, trouver et désarmer les pièges, et il est capable de désarmer les pièges magiques avec Sabotage.
 
 {s:reference|RECHERCHEDESRUNES}
 #### Recherche des runes (Ext)
-Au niveau 3, le bonus de [recherche des pièges](./Frère du Sceau.md#RECHERCHEDESPIEGE) d'un frère du Sceau est égal à son niveau quand il est confronté à des glyphes, les symboles, les runes et les textes magiques. De plus, il gagne le talent du roublard [dénicheur de piège](./Talent.md#DENICHEURDEPIEGES), mais seulement pour les écrits magiques piégés.
+Au niveau 3, le bonus de [[Frère du Sceau#RECHERCHEDESPIEGE|recherche des pièges]] d'un frère du Sceau est égal à son niveau quand il est confronté à des glyphes, les symboles, les runes et les textes magiques. De plus, il gagne le talent du roublard [[TALENT#DENICHEURDEPIEGES|dénicheur de piège]], mais seulement pour les écrits magiques piégés.
 
 {s:reference|COUPFABULEUX}
 #### Coup fabuleux (Ext)
-Au niveau 4, un frère du Sceau gagne [Coup fabuleux](./Coup fabuleux.md) comme don supplémentaire, même si il n'en remplit pas les prérequis. Il ajoute son modificateur de [Sagesse](./Sagesse.md) à son [BMO](./BMO.md) aux tests de manœuvre de coup fabuleux et les dégâts qu’il inflige à la cible sont égaux à ses dégâts à mains nues. La solidité ignorée par la capacité [l'eau séparant la pierre](./Frère du Sceau.md#LEAUSEPARANTLAPIERRE) s’applique aussi ici lorsqu’il utilise un coup fabuleux pour attaquer un obstacle.
+Au niveau 4, un frère du Sceau gagne [[Coup fabuleux]] comme don supplémentaire, même si il n'en remplit pas les prérequis. Il ajoute son modificateur de [[Sagesse]] à son [[BMO]] aux tests de manœuvre de coup fabuleux et les dégâts qu’il inflige à la cible sont égaux à ses dégâts à mains nues. La solidité ignorée par la capacité [[Frère du Sceau#LEAUSEPARANTLAPIERRE|l'eau séparant la pierre]] s’applique aussi ici lorsqu’il utilise un coup fabuleux pour attaquer un obstacle.
 
-Un frère du Sceau peut utiliser 1 [point de ki](./Moine.md#RESERVEDEKI) ou une utilisation de [Coup étourdissant](./Coup étourdissant.md) avec cette capacité pour pouvoir l'utiliser sur une créature de sa taille. En utilisant 2 points de ki ou deux utilisations de Coup étourdissant, il peut alors l’utiliser sur une créature d’une catégorie de taille plus grande que lui. Utiliser Coup étourdissant ou des points de ki de cette façon n'a pas d'autre effet que d'augmenter la taille des créatures éligibles à son coup fabuleux.
+Un frère du Sceau peut utiliser 1 [[Moine#RESERVEDEKI|point de ki]] ou une utilisation de [[Coup étourdissant]] avec cette capacité pour pouvoir l'utiliser sur une créature de sa taille. En utilisant 2 points de ki ou deux utilisations de Coup étourdissant, il peut alors l’utiliser sur une créature d’une catégorie de taille plus grande que lui. Utiliser Coup étourdissant ou des points de ki de cette façon n'a pas d'autre effet que d'augmenter la taille des créatures éligibles à son coup fabuleux.
 
-Au niveau 8, un frère du Sceau peut utiliser [Coup fabuleux](./Coup fabuleux.md) sur une créature de sa taille sans dépenser d’utilisation de Coup étourdissant ni de point de ki. De plus, il peut affecter n’importe quelle créature plus grande que lui en utilisant 1 point de ki ou une utilisation de Coup étourdissant par catégorie de taille de différence.
+Au niveau 8, un frère du Sceau peut utiliser [[Coup fabuleux]] sur une créature de sa taille sans dépenser d’utilisation de Coup étourdissant ni de point de ki. De plus, il peut affecter n’importe quelle créature plus grande que lui en utilisant 1 point de ki ou une utilisation de Coup étourdissant par catégorie de taille de différence.
 
 {s:reference|RUPTUREDUSCEAU}
 #### Rupture du sceau (Sur)
-Au niveau 5, un frère du Sceau peut tenter de briser différentes protections magiques, ce qui inclut les [abjurations](./Abjuration.md), les glyphes, les runes, les symboles et autres écritures magiques. Il doit toucher l’objet, la créature ou la zone protégée – ce qui peut être réalisé via une attaque à mains nues pour infliger des dégâts normaux, ou avec une attaque de contact au corps à corps qui n'inflige pas de dégâts et dépenser une utilisation de [Coup étourdissant](./Coup étourdissant.md) pour dissiper l’effet (comme avec *[dissipation de la magie](./Dissipation de la magie.md)*, avec un [NLS](./NLS.md) égal à son niveau de personnage). Si la rupture est réussie, l’effet est alors détruit et le frère du Sceau ne subit aucun de ses effets néfastes, même s'il blesse normalement ceux qui le touchent. Cependant, si la rupture échoue, le frère du Sceau en subira les effets normalement comme s'il avait touché l'objet, la créature ou la zone protégée, et la magie reste intacte à moins que son effet s'arrête automatiquement une fois activé.
+Au niveau 5, un frère du Sceau peut tenter de briser différentes protections magiques, ce qui inclut les [[abjuration|abjurations]], les glyphes, les runes, les symboles et autres écritures magiques. Il doit toucher l’objet, la créature ou la zone protégée – ce qui peut être réalisé via une attaque à mains nues pour infliger des dégâts normaux, ou avec une attaque de contact au corps à corps qui n'inflige pas de dégâts et dépenser une utilisation de [[Coup étourdissant]] pour dissiper l’effet (comme avec *[[dissipation de la magie]]*, avec un [[NLS]] égal à son niveau de personnage). Si la rupture est réussie, l’effet est alors détruit et le frère du Sceau ne subit aucun de ses effets néfastes, même s'il blesse normalement ceux qui le touchent. Cependant, si la rupture échoue, le frère du Sceau en subira les effets normalement comme s'il avait touché l'objet, la créature ou la zone protégée, et la magie reste intacte à moins que son effet s'arrête automatiquement une fois activé.
 
 {s:reference|EFFETDOMINO}
 #### Effet domino (Ext)
-Au niveau 6, lorsqu'un frère du Sceau réussit une manœuvre de [coup fabuleux](./Coup fabuleux.md) et que la cible projetée atterrit sur un obstacle (ce qui inclut les autres créatures), il ajoute son niveau de classe au 1d6 de dégâts subis par la créature et l’obstacle.
+Au niveau 6, lorsqu'un frère du Sceau réussit une manœuvre de [[coup fabuleux]] et que la cible projetée atterrit sur un obstacle (ce qui inclut les autres créatures), il ajoute son niveau de classe au 1d6 de dégâts subis par la créature et l’obstacle.
 
 {s:reference|MAINSDEPIERRE}
 #### Mains de pierre (Sur)
@@ -115,12 +115,12 @@ Au niveau 7, les dégâts à mains nues du frère du Sceau sont augmentés comme
 
 {s:reference|COUPRAPIDE}
 #### Coup rapide (Ext)
-Au niveau 8, un frère du Sceau peut utiliser son don [Coup fabuleux](./Coup fabuleux.md) une fois par [round](./round.md) pendant un [déluge de coups](./Moine.md#DELUGEDECOUPS). Il peut également tenter une manœuvre de coup fabuleux dans le cadre d'une [charge](./charge.md) ou d'une action simple dépensée pour utiliser un autre don de combat qui implique une attaque (comme [Frappe décisive](./Frappe décisive.md) ou [Enchaînement](./Enchaînement.md)). Il ne peut cependant réaliser qu'une seule manœuvre de coup fabuleux par round, peu importe le nombre d’attaques qu'il porte.
+Au niveau 8, un frère du Sceau peut utiliser son don [[Coup fabuleux]] une fois par [[round]] pendant un [[moine#DELUGEDECOUPS|déluge de coups]]. Il peut également tenter une manœuvre de coup fabuleux dans le cadre d'une [[charge]] ou d'une action simple dépensée pour utiliser un autre don de combat qui implique une attaque (comme [[Frappe décisive]] ou [[Enchaînement]]). Il ne peut cependant réaliser qu'une seule manœuvre de coup fabuleux par round, peu importe le nombre d’attaques qu'il porte.
 
 {s:reference|COUPENCASCADE}
 #### Coup en cascade (Ext)
-Au niveau 9, lorsqu'un frère du Sceau réussit une manœuvre de [coup fabuleux](./Coup fabuleux.md) et que la cible est projetée sur une créature de même taille ou plus petite qu'elle, le frère du Sceau peut tenter une autre manœuvre de coup fabuleux contre la seconde créature avec un malus de -2. Si c’est un succès, le frère du Sceau inflige les dégâts d’un coup à mains nues sur la seconde cible (plutôt que les dégâts normaux subis en heurtant un obstacle) et elle est alors projetée à 3 mètres en arrière. Le frère du Sceau peut tenter une manœuvre de coup fabuleux supplémentaire à chaque fois qu'une cible est projetée sur une autre créature avec un malus cumulatif de -2 pour chaque cible supplémentaire. Toutes les cibles doivent être sur une même ligne. Si une cible est projetée sur plusieurs petites créatures en même temps, le frère du Sceau choisit laquelle des créatures est affectée par le coup en cascade.
+Au niveau 9, lorsqu'un frère du Sceau réussit une manœuvre de [[coup fabuleux]] et que la cible est projetée sur une créature de même taille ou plus petite qu'elle, le frère du Sceau peut tenter une autre manœuvre de coup fabuleux contre la seconde créature avec un malus de -2. Si c’est un succès, le frère du Sceau inflige les dégâts d’un coup à mains nues sur la seconde cible (plutôt que les dégâts normaux subis en heurtant un obstacle) et elle est alors projetée à 3 mètres en arrière. Le frère du Sceau peut tenter une manœuvre de coup fabuleux supplémentaire à chaque fois qu'une cible est projetée sur une autre créature avec un malus cumulatif de -2 pour chaque cible supplémentaire. Toutes les cibles doivent être sur une même ligne. Si une cible est projetée sur plusieurs petites créatures en même temps, le frère du Sceau choisit laquelle des créatures est affectée par le coup en cascade.
 
 {s:reference|DESTRUCTIONMAGIQUE}
 #### Destruction magique (Sur)
-Au niveau 10, la capacité [rupture du sceau](./Frère du Sceau.md#RUPTUREDUSCEAU) d'un frère du Sceau peut détruire les effets de [force](./Registre.md) ainsi que les effets d’[abjuration](./Abjuration.md), d'[invocation](./Invocation.md) et d’[évocation](./Évocation.md) qui créent des barrières fixes (comme *[abri](./abri.md)*, *[mur de glace](./Mur de glace.md)* ou *[sphère prismatique](./Sphère prismatique.md)*), même si l’effet ne peut normalement pas être sujet à une *[dissipation de la magie](./Dissipation de la magie.md)*.
+Au niveau 10, la capacité [[Frère du Sceau#RUPTUREDUSCEAU|rupture du sceau]] d'un frère du Sceau peut détruire les effets de [[registre|force]] ainsi que les effets d’[[abjuration]], d'[[invocation]] et d’[[évocation]] qui créent des barrières fixes (comme *[[abri]]*, *[[mur de glace]]* ou *[[sphère prismatique]]*), même si l’effet ne peut normalement pas être sujet à une *[[dissipation de la magie]]*.

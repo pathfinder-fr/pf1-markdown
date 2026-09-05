@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Duel (RSE)
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Duel (RSE)](./Descriptions individuelles des propriétés spéciales des armes.md#Duel (RSE))
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Duel (RSE)]]

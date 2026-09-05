@@ -11,11 +11,11 @@ Categories:
 <div class="BD">
 {s:BDTitre|Prophète bourbiérin|FP 5}
 {s:pucem|Humanoïde|Marais|Tempéré}
-{s:BDTexte|*Source : [Codex monstrueux p.13](./Codex monstrueux (Contenu).md)*}
+{s:BDTexte|*Source : [[Codex monstrueux (Contenu)|Codex monstrueux p.13]]*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Bourbiérin](./Bourbiérin.md) [ensorceleur](./Ensorceleur.md) 4}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) (bourbiérin) de taille M, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +3}
+{s:BDTexte|[[Bourbiérin]] [[ensorceleur]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] (bourbiérin) de taille M, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 10, pris au dépourvu 13 (Dex -1, naturelle +3, parade -1)}
 {s:BDTexte|**pv** 59 (7 DV ; 3d8+4d6+32)}
@@ -26,19 +26,19 @@ Categories:
 {s:BDTexte|**Corps à corps** 2 griffes, +10 (1d4+5) et langue, +4 contact (langue gluante)}
 {s:BDTexte|**Distance** fronde, +3 (1d4+5)}
 {s:BDTexte|**Attaques spéciales** griffes (1d6+5, 5 rounds/jour), coassement terrifiant (DD 15)}
-{s:BDTexte|**Sorts d’ensorceleur connus** ([NLS](./NLS.md) 4 ; [concentration](./concentration.md) +6)}
-{s:BDSorts|2e (4/jour) — *[convocation de monstres II](./Convocation de monstres II.md)*}
-{s:BDSorts|1er (7/jour) — *[armure de mage](./Armure de mage.md)*, *[convocation de monstres I](./Convocation de monstres I.md)*, *[frayeur](./Frayeur.md)* (DD 13), *[mains brûlantes](./Mains brûlantes.md)* (DD 13)}
-{s:BDSorts|0 (à volonté) — *[aspersion acide](./Aspersion acide.md)*, *[détection de la magie](./Détection de la magie.md)*, *[détection du poison](./Détection du poison.md)*, *[message](./Message.md)*, *[résistance](./sort Résistance.md)*, *[son imaginaire](./Son imaginaire.md)* (DD 12)}
-{s:BDTexte|**Lignage** [abyssal](./lignage Abyssal.md)}
+{s:BDTexte|**Sorts d’ensorceleur connus** ([[NLS]] 4 ; [[concentration]] +6)}
+{s:BDSorts|2e (4/jour) — *[[convocation de monstres II]]*}
+{s:BDSorts|1er (7/jour) — *[[armure de mage]]*, *[[convocation de monstres I]]*, *[[frayeur]]* (DD 13), *[[mains brûlantes]]* (DD 13)}
+{s:BDSorts|0 (à volonté) — *[[aspersion acide]]*, *[[détection de la magie]]*, *[[détection du poison]]*, *[[message]]*, *[[sort Résistance|résistance]]*, *[[son imaginaire]]* (DD 12)}
+{s:BDTexte|**Lignage** [[Lignage Abyssal|abyssal]]}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 9, **Con** 16, **Int** 10, **Sag** 9, **Cha** 14}
 {s:BDTexte|**BBA** +4 ; **BMO** +9 ; **DMD** 19}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (griffe), [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [Magie de guerre](./Magie de guerre.md), [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +2 (+18 pour sauter), [Art de la magie](./Art de la magie.md) +7, [Connaissances](./Connaissances.md) (plans) +5, [Discrétion](./Discrétion.md) +0 (+8 dans les marais), [Intimidation](./Intimidation.md) +6, [Natation](./Natation.md) +13, [Perception](./Perception.md) +3, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +9}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (griffe), [[Dispense de composantes matérielles]], [[Magie de guerre]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +2 (+18 pour sauter), [[Art de la magie]] +7, [[Connaissances]] (plans) +5, [[Discrétion]] +0 (+8 dans les marais), [[Intimidation]] +6, [[Natation]] +13, [[Perception]] +3, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +9}
 {s:BDTexte|**Langues** bourbiérin}
-{s:BDTexte|**Particularités** arcanes de lignage (créatures convoquées ayant une RD 2/ Bien), [retenir son souffle](./Retenir son souffle (capacité).md), déplacement facilité (marais)}
-{s:BDTexte|**Équipement de combat** *potion d’[invisibilité](./Invisibilité.md)*, *parchemins de [cécité/surdité](./Cécitésurdité.md)* (2), *parchemin d’[agrandissement](./Agrandissement.md)* ; **Équipement divers** [fronde](./fronde (arme).md) avec 10 [billes](./Billes de fronde (arme).md), *[cape de résistance +1](./Cape de résistance.md)*, *[élixir d'acuité visuelle](./Élixir dacuité visuelle.md)*, *[anneau de protection +1](./Anneau de protection.md)*, 75 po}
+{s:BDTexte|**Particularités** arcanes de lignage (créatures convoquées ayant une RD 2/ Bien), [[Retenir son souffle (capacité)|retenir son souffle]], déplacement facilité (marais)}
+{s:BDTexte|**Équipement de combat** *potion d’[[invisibilité]]*, *parchemins de [[cécitésurdité|cécité/surdité]]* (2), *parchemin d’[[agrandissement]]* ; **Équipement divers** [[fronde (arme)|fronde]] avec 10 [[Billes de fronde (arme)|billes]], *[[Cape de résistance|cape de résistance +1]]*, *[[Élixir dacuité visuelle|élixir d'acuité visuelle]]*, *[[Anneau de protection|anneau de protection +1]]*, 75 po}
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -47,29 +47,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Bourbiérin](./Bourbiérin.md) || 2
+| [[Bourbiérin]] || 2
 |-
-| [Bourbiérin balafré](./Bourbiérin balafré.md) || 6
+| [[Bourbiérin balafré]] || 6
 |-
-| [Bourbiérin sauvage](./Bourbiérin sauvage.md) || 4
+| [[Bourbiérin sauvage]] || 4
 |-
-| [Brute bourbiérine](./Brute bourbiérine.md) || 3
+| [[Brute bourbiérine]] || 3
 |-
-| [Champion bourbiérin](./Champion bourbiérin.md) || 7
+| [[Champion bourbiérin]] || 7
 |-
-| [Chasseur bourbiérin](./Chasseur bourbiérin.md) || 5
+| [[Chasseur bourbiérin]] || 5
 |-
-| [Grandcoasseur bourbiérin](./Grandcoasseur bourbiérin.md) || 3
+| [[Grandcoasseur bourbiérin]] || 3
 |-
-| [Guerrier abyssal bourbiérin](./Guerrier abyssal bourbiérin.md) || 8
+| [[Guerrier abyssal bourbiérin]] || 8
 |-
-| [Oracle du marais bourbiérin](./Oracle du marais bourbiérin.md) || 4
+| [[Oracle du marais bourbiérin]] || 4
 |-
-| [Prêtre-roi bourbiérin](./Prêtre-roi bourbiérin.md) || 11
+| [[Prêtre-roi bourbiérin]] || 11
 |-
-| [Prophète bourbiérin](./Prophète bourbiérin.md) || 5
+| [[Prophète bourbiérin]] || 5
 |-
-| [Traqueur bourbiérin](./Traqueur bourbiérin.md) || 9
+| [[Traqueur bourbiérin]] || 9
 |}
 </div>Ces lanceurs de sorts sont souvent les enfants des prêtres-rois.
 </div></td></tr></table>

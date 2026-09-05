@@ -11,12 +11,12 @@ Categories:
 
 {s:mr}*Le personnage débite férocement ses adversaires, surtout les orques.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [nain](./Nain.md), [For](./Force.md) 13, [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Enchaîner les gobelins](./Enchaîner les gobelins.md)
+**Conditions.** [[nain]], [[Force|For]] 13, [[Attaque en puissance]], [[Enchaînement]], [[Enchaîner les gobelins]]
 
-**Avantages.** Ce don fonctionne comme [Enchaîner les gobelins](./Enchaîner les gobelins.md), mais les attaques supplémentaires sont valables contre des adversaires de la [taille](./taille.md) du personnage ou moins. Les attaques supplémentaires portées contre les humanoïdes (orques) bénéficient d’un bonus de circonstances de +2 aux [jets d’attaque](./jet dattaque.md).
+**Avantages.** Ce don fonctionne comme [[Enchaîner les gobelins]], mais les attaques supplémentaires sont valables contre des adversaires de la [[taille]] du personnage ou moins. Les attaques supplémentaires portées contre les humanoïdes (orques) bénéficient d’un bonus de circonstances de +2 aux [[jet dattaque|jets d’attaque]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Tant que le personnage possède encore au moins un point d’endurance dans sa réserve, son bonus aux attaques d’[Enchaînement](./Enchaînement.md) contre les humanoïdes de sous-type [orque](./sous-type orque.md) passe à +4.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Tant que le personnage possède encore au moins un point d’endurance dans sa réserve, son bonus aux attaques d’[[Enchaînement]] contre les humanoïdes de sous-type [[sous-type Orque|orque]] passe à +4.

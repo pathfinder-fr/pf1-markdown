@@ -9,8 +9,8 @@ Categories:
 
 {s:mr}*Le personnage est bien plus dangereux quand il charge avec un allié.*
 
-**Catégorie.** [Équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[Dons#DONEQUIPE|Équipe]]
 
-**Conditions.** [Demi-orque](./Demi-orque.md) ou [orque](./orque (race).md), [BBA](./BBA.md)+1
+**Conditions.** [[Demi-orque]] ou [[orque (race)|orque]], [[BBA]]+1
 
-**Avantages.** Quand le personnage [charge](./charge.md) au cours du même round qu’un allié qui possède ce don, il gagne un bonus de +2 aux [jets d’attaque](./jet dattaque.md) et de dégâts, en plus des bonus habituels de la charge. S’il a droit à plusieurs attaques par charge, ce bonus s’applique uniquement à la première.
+**Avantages.** Quand le personnage [[charge]] au cours du même round qu’un allié qui possède ce don, il gagne un bonus de +2 aux [[jet dattaque|jets d’attaque]] et de dégâts, en plus des bonus habituels de la charge. S’il a droit à plusieurs attaques par charge, ce bonus s’applique uniquement à la première.

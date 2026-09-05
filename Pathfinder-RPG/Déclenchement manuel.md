@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*L’instinct du personnage lui permet d’attendre le moment idéal pour déclencher un piège.*
 
-**Conditions.** 5 rangs en [Artisanat](./Artisanat.md) (pièges)
+**Conditions.** 5 rangs en [[Artisanat]] (pièges)
 
-**Avantage.** Quand le personnage déclenche manuellement un piège contre un adversaire, le piège reçoit un bonus de circonstances de +2 aux jets d’attaque ou au [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md).
+**Avantage.** Quand le personnage déclenche manuellement un piège contre un adversaire, le piège reçoit un bonus de circonstances de +2 aux jets d’attaque ou au [[DD]] du [[jet de sauvegarde]].

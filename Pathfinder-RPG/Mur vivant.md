@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 191*}
 - **1 200 PX**
-- [Créature artificielle](./type Créature artificielle.md) de taille G, N
+- [[type créature artificielle|Créature artificielle]] de taille G, N
 - **Init **-4 ; **Sens** vision dans le noir à 18 m, vision nocturne ; Perception +0
 (((Défense)))
 - **CA** 12, contact 5, pris au dépourvu 12 (Dex -4, naturelle +7, taille -1)
 - **pv** 46 (3d10+30) ; guérison accélérée 1
 - **Réf **-3, **Vig **+1, **Vol **+1
-- **RD** 5/tranchant ; **Immunités** [traits des créatures artificielles](./Traits des créatures artificielles.md) ;
+- **RD** 5/tranchant ; **Immunités** [[traits des créatures artificielles]] ;
 - **Résistances** acide 5, feu 5, froid 5
 (((Attaque)))
 - **VD** 3 m
@@ -30,7 +30,7 @@ Categories:
 (((Statistiques)))
 - **For** 18, **Dex** 3, **Con **—, **Int **—, **Sag** 11, **Cha** 1
 - **BBA **+3 ; **BMO **+8 (+10 en bousculade, +12 en lutte) ; **DMD** 14 (16 contre la bousculade)
-- **Dons** [Science de la bousculade](./Science de la bousculade.md)<sup>S</sup>
+- **Dons** [[Science de la bousculade]]<sup>S</sup>
 - **Particularités** fusion des chairs
 (((Écologie)))
 - **Environnement** ruines ou souterrains
@@ -55,5 +55,5 @@ Il faut au moins vingt cadavres entiers et différents pour assembler un mur viv
 
 
 **NLS** 12 ; **Prix** 18 500 po{br}
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[animation des morts](./Animation des morts.md), [quête](./Quête.md), [souhait limité](./Souhait limité.md)*, le créateur doit être un lanceur de niveau 8 au moins ; **Compétence** [Artisanat](./Artisanat.md) (travail du cuir) ou [Premiers secours](./Premiers secours.md) DD 13 ; **Coût** 9 500 po
+**Conditions** [[Création de créatures artificielles]], *[[animation des morts]], [[quête]], [[souhait limité]]*, le créateur doit être un lanceur de niveau 8 au moins ; **Compétence** [[Artisanat]] (travail du cuir) ou [[Premiers secours]] DD 13 ; **Coût** 9 500 po
 </div></td></tr></table>

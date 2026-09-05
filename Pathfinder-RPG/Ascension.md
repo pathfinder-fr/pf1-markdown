@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Glossaire Mythique#ASCENSION
 ---
 
->>> [Glossaire Mythique#ASCENSION](./Glossaire Mythique.md#ASCENSION)
+>>> [[Glossaire Mythique#ASCENSION]]

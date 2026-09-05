@@ -10,7 +10,7 @@ LastModified: 2017-01-18 15:16
 {s:pucem|Créature magique|Ciel|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 4 page 201*}
 - **76 800 PX**
-- [Créature magique](./type Créature magique.md) de taille C, N
+- [[type créature magique|Créature magique]] de taille C, N
 - **Init **-2 ; **Sens **vision dans le noir à 18 m, vision nocturne ; Perception +24
 (((Défense)))
 - **CA **30, contact 0, pris au dépourvu 30 (Dex -2, naturelle +30, taille -8)
@@ -25,8 +25,8 @@ LastModified: 2017-01-18 15:16
 (((Statistiques)))
 - **For **52, **Dex **7, **Con **29, **Int **2, **Sag **12, **Cha **5
 - **BBA **+20 ; **BMO **+49 (+51 en bousculade, +53 en lutte) ; DMD 57 (59 en renversement, croc-en-jambe impossible)
-- **Dons **[Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Coup fabuleux](./Coup fabuleux.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Frappe décisive](./Frappe décisive.md), [Science de la bousculade](./Science de la bousculade.md), [Vigueur surhumaine](./Vigueur surhumaine.md)
-- **Compétences **[Perception](./Perception.md) +24, [Vol](./Vol.md) -10
+- **Dons **[[Attaque en puissance]], [[Attaque en vol]], [[Coup fabuleux]], [[Critique ralentissant]], [[Don pour les critiques]], [[Dur à cuire]], [[Endurance]], [[Frappe décisive]], [[Science de la bousculade]], [[Vigueur surhumaine]]
+- **Compétences **[[Perception]] +24, [[Vol]] -10
 - **Particularités **ne respire pas, transporteur, vol stellaire
 (((Écologie)))
 - **Environnement **vide spatial ou géantes gazeuses

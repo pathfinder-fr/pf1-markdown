@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-Jula est un  petit sanctuaire situé au sommet d'une ancienne colline du Yamasa, sur la côte sud des [Terres Humides](./Terres humides.md).
+Jula est un  petit sanctuaire situé au sommet d'une ancienne colline du Yamasa, sur la côte sud des [[Terres Humides]].
 
-Sa position élevée lui a permis de ne pas être submergé par la montée des eaux lors de l'apparition de l'Œil d'Abendégo. Il accueil aujourd'hui quelques 200 réfugiés et est sous la direction du Père Héveril, un paladin d'[Érastil](./Érastil.md) déchu qui, pour sa rédemption, s'est voué au sauvetage des habitants de Jula.
+Sa position élevée lui a permis de ne pas être submergé par la montée des eaux lors de l'apparition de l'Œil d'Abendégo. Il accueil aujourd'hui quelques 200 réfugiés et est sous la direction du Père Héveril, un paladin d'[[Érastil]] déchu qui, pour sa rédemption, s'est voué au sauvetage des habitants de Jula.

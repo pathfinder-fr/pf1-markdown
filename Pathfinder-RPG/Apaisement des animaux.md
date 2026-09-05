@@ -12,20 +12,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./coercition.md)) <nowiki>[</nowiki>[émotion](./Registre.md), [mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Psy](./Psychiste.md) 1, [Rôd](./Rôdeur.md) 1  
+**École** [[Enchantement]] ([[coercition]]) <nowiki>[</nowiki>[[registre|émotion]], [[registre|mental]]<nowiki>]</nowiki> ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Psychiste|Psy]] 1, [[Rôdeur|Rôd]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[COMPOSANTES|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cibles** animaux distants de 9 m ou moins les uns des autres  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Ce sort calme les animaux, les rendant dociles et inoffensifs. Seuls les animaux ordinaires (ayant 1 ou 2 en [Intelligence](./Intelligence.md)) peuvent être affectés. Tous doivent être de la même espèce et se trouver dans une sphère de 9 m de rayon. Le nombre de [dés de vie](./../Ressources/DV.md) affectés est égal à 2d4 + [niveau de lanceur de sorts](./niveau de lanceur de sorts.md).
+Ce sort calme les animaux, les rendant dociles et inoffensifs. Seuls les animaux ordinaires (ayant 1 ou 2 en [[Intelligence]]) peuvent être affectés. Tous doivent être de la même espèce et se trouver dans une sphère de 9 m de rayon. Le nombre de [[DV|dés de vie]] affectés est égal à 2d4 + [[niveau de lanceur de sorts]].
 
-Les créatures affectées restent là où elles se trouvent et ne cherchent ni à attaquer ni à s’enfuir, mais ne sont pas [sans défense](./Sans défense.md) et réagissent si on les attaque. La moindre menace met immédiatement un terme à l’effet de l’[enchantement](./Enchantement.md).
+Les créatures affectées restent là où elles se trouvent et ne cherchent ni à attaquer ni à s’enfuir, mais ne sont pas [[sans défense]] et réagissent si on les attaque. La moindre menace met immédiatement un terme à l’effet de l’[[enchantement]].

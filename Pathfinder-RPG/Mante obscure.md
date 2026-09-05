@@ -14,23 +14,23 @@ Categories:
 {s:pucem|Créature magique|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.208}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille P, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision aveugle](./vision aveugle.md) 27 m (18 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille P, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision aveugle]] 27 m (18 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 13 (Dex +2, naturelle +2, taille +1)}
 {s:BDTexte|**pv** 15 (2d10+4)}
 {s:BDTexte|**Réf** +3, **Vig** +5, **Vol** +0}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), vol 9 m (6 {s:c}) (médiocre)}
-{s:BDTexte|**Corps à corps** coup +3 (1d4 et [étreinte](./Étreinte.md))}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (1d4+4), [étreinte](./Étreinte.md) (toutes tailles)}
+{s:BDTexte|**Corps à corps** coup +3 (1d4 et [[étreinte]])}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (1d4+4), [[étreinte]] (toutes tailles)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 5)}
-{s:BDSorts|1/jour—*[ténèbres](./Ténèbres.md)*}
+{s:BDSorts|1/jour—*[[ténèbres]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 15, **Con** 14, **Int** 2, **Sag** 11, **Cha** 10}
-{s:BDTexte|**BBA** +2, **BMO** +1 (+5 pour la [lutte](./lutte.md)), **DMD** 13 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +10, [Perception](./Perception.md) +4, [Vol](./Vol.md) +5 ; **Modificateurs raciaux** +4 en [Discrétion](./Discrétion.md), +4 en [Perception](./Perception.md)}
+{s:BDTexte|**BBA** +2, **BMO** +1 (+5 pour la [[lutte]]), **DMD** 13 (croc-en-jambe impossible)}
+{s:BDTexte|**Dons** [[science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +10, [[Perception]] +4, [[Vol]] +5 ; **Modificateurs raciaux** +4 en [[Discrétion]], +4 en [[Perception]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou clutch (3-12)}

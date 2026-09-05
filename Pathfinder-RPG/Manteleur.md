@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Aberration|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.209}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, CN}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +14}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, CN}
+{s:BDTexte|**Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +14}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 12, pris au dépourvu 16 (Dex +3, naturelle +7, taille -1)}
 {s:BDTexte|**pv** 51 (6d8+24)}
@@ -29,22 +29,22 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 21, **Dex** 16, **Con** 19, **Int** 14, **Sag** 15, **Cha** 14}
 {s:BDTexte|**BBA** +4, **BMO** +10, **DMD** 23 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (religion) +11, [Déguisement](./Déguisement.md) +8 (+16 en tant que manteau), [Discrétion](./Discrétion.md) +8, [Perception](./Perception.md) +14, [Psychologie](./Psychologie.md) +8, [Vol](./Vol.md) +10 ; **Modificateurs raciaux** +8 en [Déguisement](./Déguisement.md) pour se faire passer pour un manteau, un drap, une raie mante ou un objet/une créature similaire}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Connaissances]] (religion) +11, [[Déguisement]] +8 (+16 en tant que manteau), [[Discrétion]] +8, [[Perception]] +14, [[Psychologie]] +8, [[Vol]] +10 ; **Modificateurs raciaux** +8 en [[Déguisement]] pour se faire passer pour un manteau, un drap, une raie mante ou un objet/une créature similaire}
 {s:BDTexte|**Langues** commun des profondeurs}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** souterrain}
 {s:BDTexte|**Organisation sociale** solitaire, couple, foule (3-6), ou vol (7-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Enveloppement (Ext).** Un manteleur peut tenter d'envelopper une créature de [taille](./taille.md) inférieure ou égale à M dans son corps par une [action simple](./Action simple.md). Cela fonctionne comme une manoeuvre de [lutte](./lutte.md) qui ne provoque pas d'[attaque d'opportunité](./attaque dopportunité.md). Si le test réussi, il parvient à [agripper](./Agrippé.md) la victime et tente de la mordre (avec un bonus de +4 au [jet d'attaque](./jet dattaque.md)). Le manteleur peut encore utiliser sa queue en forme de fouet pour attaquer d'autres ennemis. Lorsqu'une attaque touche un manteleur qui est enveloppé autour d'une victime, le monstre subit la moitié des dégâts et la victime prise au piège, l'autre moitié.}
-{s:BDTexte|**Gémissement (Ext).** Par une [action simple](./Action simple.md), un manteleur peut émettre un gémissement d'infrasons possédant l'un des quatre effets suivants :
-- *Malaise.* Toutes les créatures situées dans un rayon de 18 m (12 {s:c}) subissent automatiquement une pénalité de -2 aux [jets d'attaque](./jet dattaque.md) et [de dégâts](./jet de dégâts.md). Celles qui restent dans la zone pendant plus de 6 rounds consécutifs doivent réussir un jet de [Volonté](./Volonté.md) pour ne pas entrer en transe et se retrouver sans défense jusqu'à la fin du gémissement.
-- *Nausées.* Toutes les créatures dans un [cône](./cône.md) de 9 m (6 {s:c}) doivent réussir un jet de [Vigueur](./Vigueur.md) pour éviter de tomber à terre et d'être [nauséeuses](./Nauséeux.md) pendant 1d4+1 rounds.
-- *Stupeur.* Une unique créature située à 9 m (6 {s:c}) ou moins est victime d'une *[immobilisation de monstre](./Immobilisation de monstre.md)* pendant 5 rounds (Volonté, annule).
-- *Terreur.* Toutes les créatures situées dans un rayon de 9 m (6 {s:c}) doivent réussir un jet de [Volonté](./Volonté.md) pour ne pas être [paniquées](./Paniqué.md) pendant 2 rounds.
-- Les manteleurs sont immunisés contre ces attaques mentales de sons. Les créatures qui réussissent leur [Jet de sauvegarde](./jet de sauvegarde.md) contre le gémissement de nausées, de malaise ou de terreur d'un manteleur développent une immunité contre les gémissements de ce type produits par le même manteleur au cours des 24 heures qui suivent. Tous les [jets de sauvegarde](./jet de sauvegarde.md) ont un [DD](./DD.md) de 15 et celui-ci dépend du [Charisme](./Charisme.md).}
-{s:BDTexte|**Manipulation des ombres (Sur).** Les manteleurs qui se trouvent dans une zone de faible luminosité peuvent manipuler les ombres. Par une [action libre](./Action libre.md), ils peuvent créer l'un des trois effets suivants : *[flou](./Flou.md)* (dure 1d4 rounds, uniquement sur eux-mêmes), *[image miroir](./Image miroir.md)* (NLS 6), ou *[image silencieuse](./Image silencieuse.md)* (DD 15, NLS 6, DD dépendant du [Charisme](./Charisme.md)).}
+{s:BDTexte|**Enveloppement (Ext).** Un manteleur peut tenter d'envelopper une créature de [[taille]] inférieure ou égale à M dans son corps par une [[action simple]]. Cela fonctionne comme une manoeuvre de [[lutte]] qui ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]]. Si le test réussi, il parvient à [[agrippé|agripper]] la victime et tente de la mordre (avec un bonus de +4 au [[jet dattaque|jet d'attaque]]). Le manteleur peut encore utiliser sa queue en forme de fouet pour attaquer d'autres ennemis. Lorsqu'une attaque touche un manteleur qui est enveloppé autour d'une victime, le monstre subit la moitié des dégâts et la victime prise au piège, l'autre moitié.}
+{s:BDTexte|**Gémissement (Ext).** Par une [[action simple]], un manteleur peut émettre un gémissement d'infrasons possédant l'un des quatre effets suivants :
+- *Malaise.* Toutes les créatures situées dans un rayon de 18 m (12 {s:c}) subissent automatiquement une pénalité de -2 aux [[jet dattaque|jets d'attaque]] et [[jet de dégâts|de dégâts]]. Celles qui restent dans la zone pendant plus de 6 rounds consécutifs doivent réussir un jet de [[Volonté]] pour ne pas entrer en transe et se retrouver sans défense jusqu'à la fin du gémissement.
+- *Nausées.* Toutes les créatures dans un [[cône]] de 9 m (6 {s:c}) doivent réussir un jet de [[Vigueur]] pour éviter de tomber à terre et d'être [[nauséeux|nauséeuses]] pendant 1d4+1 rounds.
+- *Stupeur.* Une unique créature située à 9 m (6 {s:c}) ou moins est victime d'une *[[immobilisation de monstre]]* pendant 5 rounds (Volonté, annule).
+- *Terreur.* Toutes les créatures situées dans un rayon de 9 m (6 {s:c}) doivent réussir un jet de [[Volonté]] pour ne pas être [[paniqué|paniquées]] pendant 2 rounds.
+- Les manteleurs sont immunisés contre ces attaques mentales de sons. Les créatures qui réussissent leur [[Jet de sauvegarde]] contre le gémissement de nausées, de malaise ou de terreur d'un manteleur développent une immunité contre les gémissements de ce type produits par le même manteleur au cours des 24 heures qui suivent. Tous les [[jet de sauvegarde|jets de sauvegarde]] ont un [[DD]] de 15 et celui-ci dépend du [[Charisme]].}
+{s:BDTexte|**Manipulation des ombres (Sur).** Les manteleurs qui se trouvent dans une zone de faible luminosité peuvent manipuler les ombres. Par une [[action libre]], ils peuvent créer l'un des trois effets suivants : *[[flou]]* (dure 1d4 rounds, uniquement sur eux-mêmes), *[[image miroir]]* (NLS 6), ou *[[image silencieuse]]* (DD 15, NLS 6, DD dépendant du [[Charisme]]).}
 </div>
 </td><td><div>*Cette raie manta monstrueuse aux yeux rouges dévoile des dents acérées. Sa queue segmentée fouette l’air de manière menaçante.*
 
@@ -55,5 +55,5 @@ des autres individus de leur espèce. Leur forme étrange leur permet de passer 
 
 Certaines histoires parlent de manteleurs qui se seraient alliés avec d’autres créatures, se seraient accrochés à leur dos et les auraient protégées pour des raisons mystérieuses.
 
-Quelques rares manteleurs sont des prêtres de divinités très anciennes qui dirigent des assemblées de manteleurs et de [skums](./Skum.md) qu’ils poussent à accomplir d’horribles rituels et à poursuivre des buts particulièrement sinistres.
+Quelques rares manteleurs sont des prêtres de divinités très anciennes qui dirigent des assemblées de manteleurs et de [[Skum|skums]] qu’ils poussent à accomplir d’horribles rituels et à poursuivre des buts particulièrement sinistres.
 </div></td></tr></table>

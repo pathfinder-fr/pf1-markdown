@@ -9,46 +9,46 @@ LastModified: 2024-09-02 17:40
 <img src="/Wiki/public/Upload/Logos/LogoSFS.webp" style="width: 32%"/>
 </div>
 
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
 
 <nav class="wiki-toc"></nav>
 
 ### Scénarios Pathfinder Society
 
-[Scénarios de la saison 1](./PFS Saison 1.md)
+[[PFS Saison 1|Scénarios de la saison 1]]
 
-[Scénarios de la saison 2](./PFS Saison 2.md)
+[[PFS Saison 2|Scénarios de la saison 2]]
 
-[Scénarios de la saison 3](./PFS Saison 3.md)
+[[PFS Saison 3|Scénarios de la saison 3]]
 
-[Scénarios de la saison 4](./PFS Saison 4.md)
+[[PFS Saison 4|Scénarios de la saison 4]]
 
-[Scénarios de la saison 5](./PFS Saison 5.md)
+[[PFS Saison 5|Scénarios de la saison 5]]
 
-[Scénarios de la saison 6](./PFS Saison 6.md)
+[[PFS Saison 6|Scénarios de la saison 6]]
 
 
 
 ### Quêtes et Primes Pathfinder Society
 
-[Quêtes Série 1](./PFS Quêtes Saison 1.md)
+[[PFS Quêtes Saison 1|Quêtes Série 1]]
 
-[Primes](./PFS Primes.md)
+[[PFS Primes|Primes]]
 
-[Quêtes Série 2](./PFS Quêtes Saison 2.md)
+[[PFS Quêtes Saison 2|Quêtes Série 2]]
 
 
 
 ### Scenarios et Aventures Sanctifiés Pathfinder Society
 
-[Collection One-Shot](./PFS One-Shot.md)
+[[PFS One-Shot|Collection One-Shot]]
 
-[Jour du Jeu de Rôle](./PFS Free RPG Day.md)
+[[PFS Free RPG Day|Jour du Jeu de Rôle]]
 
-[Aventures](./PFS Adventures.md)
+[[PFS Adventures|Aventures]]
 
-[Campagnes](./PFS Adventure Path.md)
+[[PFS Adventure Path|Campagnes]]
 
 
 
@@ -62,11 +62,11 @@ Lien de la VO : [Lorespire, Paizo Organized Play](https://lorespire.paizo.com/ti
 
 Important : Les liens en rouge sont des parties en construction mais visibles en VO en suivant le lien ci-dessus
 
-[Démarrer](./PFS Démarrer.md)
+[[PFS Démarrer|Démarrer]]
 
-[Joueurs](./PFS Joueurs.md)
+[[PFS Joueurs|Joueurs]]
 
-[Maîtres du jeu](./PFS-Maîtres-du-jeu.md)
+[[PFS Maîtres du jeu|Maîtres du jeu]]
 
 
 

@@ -9,13 +9,13 @@ Categories:
 
 {s:AO}*Le personnage bénéficie d’un talent sauvage de plus.*
 
-**Conditions.** [Cinétiste](./Cinétiste.md) de niveau 6
+**Conditions.** [[Cinétiste]] de niveau 6
 
-**Avantage.** Le personnage obtient un [talent sauvage](./talents sauvages.md) d’au moins
-2 niveaux de moins que le [talent sauvage](./talents sauvages.md) le plus puissant qu’il
-connaît actuellement. Il peut choisir un [talent d’injection](./talents sauvages.md#TALENTSSAUVAGESDINJECTION) ou
-non, mais pas un [talent d’explosion](./talents sauvages.md#TALENTSSAUVAGES) ni [de défense](./talents sauvages.md#TALENTSSAUVAGESDEDÉFENSE). S’il possède le
-pouvoir d’[extension élémentaire](./Cinétiste.md#EXTENSIONÉLÉMENTAIRE), il peut choisir un talent sauvage
+**Avantage.** Le personnage obtient un [[talents sauvages|talent sauvage]] d’au moins
+2 niveaux de moins que le [[talents sauvages|talent sauvage]] le plus puissant qu’il
+connaît actuellement. Il peut choisir un [[talents sauvages#TALENTSSAUVAGESDINJECTION|talent d’injection]] ou
+non, mais pas un [[talents sauvages#TALENTSSAUVAGES|talent d’explosion]] ni [[talents sauvages#TALENTSSAUVAGESDEDÉFENSE|de défense]]. S’il possède le
+pouvoir d’[[cinétiste#EXTENSIONÉLÉMENTAIRE|extension élémentaire]], il peut choisir un talent sauvage
 de n’importe quel élément d’au moins deux niveaux de moins
 que le talent sauvage de plus haut niveau qu’il peut actuellement
 manier dans son élément primaire.

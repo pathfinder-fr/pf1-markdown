@@ -6,7 +6,7 @@ Categories:
 - Artefact
 ---
 
-***Voir les [statistiques de cet artefact](./../Pathfinder-RPG/Parchemin de Kakishon.md).***
+***Voir les [[Pathfinder-RPG.Parchemin de Kakishon|statistiques de cet artefact]].***
 
 Ce parchemin ancien, tout en lambeaux, ne porte aucune autre marque qu’une grande rune unique et élégante.
 

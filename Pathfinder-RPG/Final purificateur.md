@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Invocation](./Invocation.md) ([guérison](./guérison.md)) ;** Niveau** [Bard](./Barde.md) 3  
+**École** [[Invocation]] ([[guérison]]) ;** Niveau** [[Barde|Bard]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature vivante  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Pour lancer ce sort, le personnage doit être en train de donner une [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE). Il y met immédiatement un terme avec un geste théâtral qui élimine l'une des conditions suivantes sur une créature affectée par la [représentation bardique](./Barde.md#REPRESENTATIONBARDIQUE) : [recroquevillé](./Recroquevillé.md), [ébloui](./Ébloui.md), [épuisé](./Épuisé.md), [paralysé](./Paralysé.md), [secoué](./Secoué.md) ou [étourdi](./Étourdi.md).
+Pour lancer ce sort, le personnage doit être en train de donner une [[barde#REPRESENTATIONBARDIQUE|représentation bardique]]. Il y met immédiatement un terme avec un geste théâtral qui élimine l'une des conditions suivantes sur une créature affectée par la [[barde#REPRESENTATIONBARDIQUE|représentation bardique]] : [[recroquevillé]], [[ébloui]], [[épuisé]], [[paralysé]], [[secoué]] ou [[étourdi]].

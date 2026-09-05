@@ -13,10 +13,10 @@ Categories:
 
 {s:um}Voici quelques lignages qui représentent les origines des pouvoirs des ensorceleurs.
 
-- [Djinn](./lignage Djinn.md) (AdM)
-- [Éfrit](./lignage Éfrit.md) (AdM)
-- [Maestro](./lignage Maestro.md) (AdM)
-- [Marid](./lignage Marid.md) (AdM)
-- [Maudit](./lignage Maudit.md) (AdM)
-- [Rakshasa](./lignage Rakshasa.md) (AdM)
-- [Shaitan](./lignage Shaitan.md) (AdM)
+- [[lignage Djinn|Djinn]] (AdM)
+- [[lignage Éfrit|Éfrit]] (AdM)
+- [[lignage Maestro|Maestro]] (AdM)
+- [[lignage Marid|Marid]] (AdM)
+- [[lignage Maudit|Maudit]] (AdM)
+- [[lignage Rakshasa|Rakshasa]] (AdM)
+- [[lignage Shaitan|Shaitan]] (AdM)

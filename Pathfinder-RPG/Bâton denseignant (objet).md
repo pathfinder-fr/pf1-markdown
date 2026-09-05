@@ -7,7 +7,7 @@ Categories:
 - Src Adventurers Armory
 ---
 
-{s:cs}{s:AA}**Prix** 75 po ; **Poids** 2,5 kg ; **Divinité associée** [toutes](./../Golarion/Religions et philosophies.md)
-<span class="Catégorie">**Catégorie** [Focalisateurs de canalisation](./Focalisateurs de canalisation.md)</span>
+{s:cs}{s:AA}**Prix** 75 po ; **Poids** 2,5 kg ; **Divinité associée** [[Golarion.Religions et philosophies|toutes]]
+<span class="Catégorie">**Catégorie** [[Focalisateurs de canalisation]]</span>
 ---
-Sculpté dans le bois d’un tronc et arborant des symboles ornés sur toute sa longueur, ce bâton est utilisé pour révéler des informations critiques ou édifiantes aux autres membres de la foi, généralement pendant un sermon. Lorsqu’il est activé, toutes les créatures de la religion du [prêtre](./Prêtre.md) gagnent un bonus de sainteté (avec de l’énergie positive) ou de malfaisance (avec de l’énergie négative) aux tests de [Connaissances](./Connaissances.md) (religion) pendant 1 minute ; ce bonus est égal au nombre de dés de la [canalisation d'énergie](./Prêtre.md#CANALISATIONDENERGIE) du prêtre.
+Sculpté dans le bois d’un tronc et arborant des symboles ornés sur toute sa longueur, ce bâton est utilisé pour révéler des informations critiques ou édifiantes aux autres membres de la foi, généralement pendant un sermon. Lorsqu’il est activé, toutes les créatures de la religion du [[prêtre]] gagnent un bonus de sainteté (avec de l’énergie positive) ou de malfaisance (avec de l’énergie négative) aux tests de [[Connaissances]] (religion) pendant 1 minute ; ce bonus est égal au nombre de dés de la [[Prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] du prêtre.

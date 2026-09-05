@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage peut calmer les animaux sauvages en faisant preuve d’une rapidité presque surnaturelle.*
 
-**Condition.** [Empathie rapide](./Empathie rapide.md)
+**Condition.** [[Empathie rapide]]
 
-**Avantage.** Le personnage peut utiliser [empathie sauvage](./empathie sauvage.md) par une [action rapide](./Action rapide.md).
+**Avantage.** Le personnage peut utiliser [[empathie sauvage]] par une [[action rapide]].

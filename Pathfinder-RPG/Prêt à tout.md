@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:UI}*Vous ne baissez jamais votre garde.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Arme en main](./Arme en main.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Vigilance](./Vigilance.md), [BBA](./BBA.md) +6 ou capacité de classe [esquive instinctive](./Roublard.md#ESQUIVEINSTINCTIVE)
+**Conditions.** [[Arme en main]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Vigilance]], [[BBA]] +6 ou capacité de classe [[Roublard#ESQUIVEINSTINCTIVE|esquive instinctive]]
 
-**Avantages.** Le personnage peut toujours agir lors du [round de surprise](./round de surprise.md) même s'il rate un test de [Perception](./Perception.md) pour remarquer la menace, mais est toujours considéré comme [pris au dépourvu](./Pris au dépourvu.md) tant qu'il n'a pas agi.
+**Avantages.** Le personnage peut toujours agir lors du [[round de surprise]] même s'il rate un test de [[Perception]] pour remarquer la menace, mais est toujours considéré comme [[pris au dépourvu]] tant qu'il n'a pas agi.

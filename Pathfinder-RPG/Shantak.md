@@ -10,8 +10,8 @@ LastModified: 2024-01-24 22:45
 {s:pucem|Créature magique|Montagnes|Froid}
 - *Source : Bestiaire 2* p.250            
 - **PX** 4 800
-- [Créature magique](./type Créature magique.md) de taille TG, CM
-- **Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3
+- [[Type Créature magique|Créature magique]] de taille TG, CM
+- **Init** +3 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +3
 (((Défense)))
 - **CA** 21, contact 11, pris au dépourvu 18 (Dex +3, naturelle +10, taille –2)
 - **pv** 104 (11d10+44)
@@ -19,13 +19,13 @@ LastModified: 2024-01-24 22:45
 - **Capacités défensives** glissant ; **Immunités** froid, maladie
 (((Attaque)))
 - **VD** 6 m (4 {s:c}), vol 24 m (16 {s:c}) (moyenne)
-- **Corps à corps** morsure, +17 (2d6+8) et 2 serres, +17 (1d8+8 plus [étreinte](./Étreinte.md))
+- **Corps à corps** morsure, +17 (2d6+8) et 2 serres, +17 (1d8+8 plus [[étreinte]])
 - **Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})
 (((Statistiques)))
 - **For** 26, **Dex** 17, **Con** 19, **Int** 8, **Sag** 17, **Cha** 10
-- **BBA** +11 ; **BMO** +21 (+25 [lutte](./lutte.md)) ; **DMD** 34 (42 contre la [lutte](./lutte.md))
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaque en vol](./Attaque en vol.md), [Coup fabuleux](./Coup fabuleux.md), [Science de la bousculade](./Science de la bousculade.md), [Virage sur l’aile](./Virage sur laile.md), [Vol stationnaire](./Vol stationnaire.md)
-- **Compétences** [Évasion](./Évasion.md) +11, [Vol](./Vol.md) +13 ; **Modificateurs raciaux** +8 en [Évasion](./Évasion.md)
+- **BBA** +11 ; **BMO** +21 (+25 [[lutte]]) ; **DMD** 34 (42 contre la [[lutte]])
+- **Dons** [[Attaque en puissance]], [[Attaque en vol]], [[Coup fabuleux]], [[Science de la bousculade]], [[Virage sur laile|Virage sur l’aile]], [[Vol stationnaire]]
+- **Compétences** [[Évasion]] +11, [[Vol]] +13 ; **Modificateurs raciaux** +8 en [[Évasion]]
 - **Langues** aklo
 - **Particularités** ne respire pas, partage des protections, vol stellaire
 (((Écologie)))
@@ -33,7 +33,7 @@ LastModified: 2024-01-24 22:45
 - **Organisation sociale** solitaire, couple ou vol (3–12)
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
-  - **Glissant** (Ext). Le shantak produit un mucus glissant qui s’infiltre entre ses écailles et lui donne un bonus de +8 aux tests d’[Évasion](./Évasion.md) et à la [DMD](./DMD.md) contre les tentatives de [lutte](./lutte.md). Le mucus impose aussi une pénalité de –5 aux tests d’[Équitation](./Équitation.md) des créatures tentant de monter un shantak.
+  - **Glissant** (Ext). Le shantak produit un mucus glissant qui s’infiltre entre ses écailles et lui donne un bonus de +8 aux tests d’[[Évasion]] et à la [[DMD]] contre les tentatives de [[lutte]]. Le mucus impose aussi une pénalité de –5 aux tests d’[[Équitation]] des créatures tentant de monter un shantak.
   - **Partage des protections** (Sur). Par une action libre, un shantak peut partager sa capacité « ne respire pas » et son immunité contre le froid avec une unique créature qui le touche. Il peut cesser ce partage par une action libre.
   - **Vol stellaire** (Sur). Un shantak peut survivre dans le vide de l’outre-espace. Il vole à travers l’espace à une vitesse incroyable. Même si les temps de trajet exacts varient d’un cas à l’autre, un voyage au sein d’un même système solaire prend 3d20 heures alors qu’un voyage vers un autre système solaire dure 3d20 jours (ou plus, selon la décision du MJ), pour autant que le shantak connaisse la direction dans laquelle se trouve la destination.
 

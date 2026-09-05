@@ -12,13 +12,13 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Créer une créature distordue|FP +1}
-{s:BDTexte|*Source : [Magie de la Mer Intérieure](./Magie de la Mer Intérieure (Contenu).md) p. 11*}
+{s:BDTexte|*Source : [[Magie de la Mer Intérieure (Contenu)|Magie de la Mer Intérieure]] p. 11*}
 Le terme « distordue » est un archétype acquis qui peut être appliqué sur une créature tangible. La créature qui en résulte conserve le profil et les pouvoirs spéciaux de la créature de base, à l’exception des indications suivantes.
 
 - **FP.** +1, sauf si la distorsion de la chair amoindrit les principaux moyens d’attaque et de défense de la créature.
-- **Pouvoirs spéciaux.** La créature distordue gagne une unique défense, qualité ou attaque spéciale choisie par son créateur, le plus souvent une aptitude physique, comme un bonus d’armure naturelle de +2, une nouvelle attaque naturelle (morsure ou tentacule), un nouveau mode de déplacement, un nouveau sens ou un pouvoir comme une arme de [souffle](./Souffle (capacité).md), la [férocité](./Férocité (capacité).md) ou l’[étreinte](./Étreinte (capacité).md). Le nouveau pouvoir choisi doit être équivalent à ceux des monstres dont le [FP](./FP.md) est égal à celui de la créature de base.
+- **Pouvoirs spéciaux.** La créature distordue gagne une unique défense, qualité ou attaque spéciale choisie par son créateur, le plus souvent une aptitude physique, comme un bonus d’armure naturelle de +2, une nouvelle attaque naturelle (morsure ou tentacule), un nouveau mode de déplacement, un nouveau sens ou un pouvoir comme une arme de [[souffle (capacité)|souffle]], la [[férocité (capacité)|férocité]] ou l’[[étreinte (capacité)|étreinte]]. Le nouveau pouvoir choisi doit être équivalent à ceux des monstres dont le [[FP]] est égal à celui de la créature de base.
 - **Caractéristiques.** Une créature distordue gagne un bonus de +4 à une valeur de caractéristique et un malus de -4 à deux autres valeurs. Le créateur choisit les caractéristiques concernées.
-- **Compétences.** La créature distordue gagne un bonus racial de +4 à une compétence basée sur la [Force](./Force.md) ou la [Dextérité](./Dextérité.md). Le créateur choisit cette compétence.
+- **Compétences.** La créature distordue gagne un bonus racial de +4 à une compétence basée sur la [[Force]] ou la [[Dextérité]]. Le créateur choisit cette compétence.
 
 </div>
 <div class="BD">
@@ -40,30 +40,30 @@ Certaines races semblent résister complètement au processus : c’est le cas d
 Le processus de création des distordus est dangereux pour la créature d’origine et coûteux pour le créateur. Pendant le processus, le sujet est ravagé par une douleur extrême, subissant un affaiblissement temporaire de 2d6 points de Constitution (Vigueur DD 15, 1/2 dégâts). Les agents réactifs qui forment la substance visqueuse coûtent au moins 10 000 pièces d’or et les spécimens les plus rares de vermine utilisés pour faciliter la distorsion de la chair peuvent coûter tout aussi cher sur les marchés légaux.
 On raconte souvent que les drows ont pu apprendre l’art ignoble de la distorsion de la chair grâce aux pactes obscènes qu’ils ont passés avec quelque seigneur-démon, mais l’identité de celui qui les a investis du savoir de cet immonde processus varie d’une histoire à l’autre.
 
-Il existe aussi d’autres cultures qui comprennent et pratiquent la distorsion de la chair, mais elles sont souvent très anciennes ou très secrètes et xénophobes. Les [rejetons du péché](./Rejeton du péché.md), les [charogniers](./charognier.md) et les affamées issues des lamies (Campagne Pathfinder : l’Éveil des seigneurs des runes, édition anniversaire, p. 409) ne  représentent que quelques-uns des exemples de distordus non-drows.
+Il existe aussi d’autres cultures qui comprennent et pratiquent la distorsion de la chair, mais elles sont souvent très anciennes ou très secrètes et xénophobes. Les [[Rejeton du péché|rejetons du péché]], les [[Charognier|charogniers]] et les affamées issues des lamies (Campagne Pathfinder : l’Éveil des seigneurs des runes, édition anniversaire, p. 409) ne  représentent que quelques-uns des exemples de distordus non-drows.
 
 </div>
 </td><td><div>
 #### Bestiaire des distordus
 Les distordeurs drows expérimentent sans cesse en vue de découvrir de nouveaux distordus. Voici une liste des plus courants.
 
-**[Drider](./Drider.md) (drows).** Les driders sont les premières et les plus nombreuses des créatures que les drows ont créées par distorsion de la chair. Ce sont les seules créatures ainsi déformées connues pour se reproduire vraiment. Cf. p.117 du Bestiaire.
+**[[Drider]] (drows).** Les driders sont les premières et les plus nombreuses des créatures que les drows ont créées par distorsion de la chair. Ce sont les seules créatures ainsi déformées connues pour se reproduire vraiment. Cf. p.117 du Bestiaire.
 
-**[Ghonhatine](./Ghonhatine.md) (troglodytes)**. Ces distordus sont pratiquement deux fois plus grands que les troglodytes et sont nettement plus bestiaux et terrifiants. Cf. p.47.
+**[[Ghonhatine]] (troglodytes)**. Ces distordus sont pratiquement deux fois plus grands que les troglodytes et sont nettement plus bestiaux et terrifiants. Cf. p.47.
 
 **Gomnit (gnomes)**. Les gnomes soumis à ce processus sont transformés en quelque chose qui ressemble à un champignon humanoïde vicieux.
 
-**[Grothlut](./Grothlut.md) (humains)**. Les humains distordus sont transformés en choses visqueuses dépourvues d’intelligence. Cf. p.48.
+**[[Grothlut]] (humains)**. Les humains distordus sont transformés en choses visqueuses dépourvues d’intelligence. Cf. p.48.
 
 **Gublasque (gobelins)**. Les gobelins transformés par distorsion de la chair développent une peau chitineuse et leurs bras deviennent des dards semblables à des fouets.
 
-**[Halsora](./Halsora.md) (végépygmées)**. Les végépygmées distordus deviennent plus forts et plus trapus tandis que leurs yeux enfoncés libèrent un flot de larmes noires et acides. Cf. p.49.
+**[[Halsora]] (végépygmées)**. Les végépygmées distordus deviennent plus forts et plus trapus tandis que leurs yeux enfoncés libèrent un flot de larmes noires et acides. Cf. p.49.
 
-**[Irnakurse](./Irnakurse.md) (elfes)**. Ces horreurs tentaculaires ressemblant à des arbres sont très prisées par leurs cousins détestés que sont les drows. Cf. p.50.
+**[[Irnakurse]] (elfes)**. Ces horreurs tentaculaires ressemblant à des arbres sont très prisées par leurs cousins détestés que sont les drows. Cf. p.50.
 
 **Jashoï (halfelins)**. Les halfelins distordus sont de curieux quadrupèdes semblables à des chiens mais ennuyeux et difficiles à contrôler. Pour cette raison, les drows distordent rarement la chair des halfelins.
 
-**[Oronci](./Oronci.md) (orques)**. Les oroncis ont la partie supérieure du corps d’un orque tandis que leur corps inférieur est celui d’un mille-pattes et que leur salive est empoisonnée. Cf. livre du Cadre de campagne : Bestiaire de la mer Intérieure. (à paraître)
+**[[Oronci]] (orques)**. Les oroncis ont la partie supérieure du corps d’un orque tandis que leur corps inférieur est celui d’un mille-pattes et que leur salive est empoisonnée. Cf. livre du Cadre de campagne : Bestiaire de la mer Intérieure. (à paraître)
 
 **Urgoci (ogres).** Les jambes de l’ogre ne sont plus que des moignons vestigiaux tandis que ses avant-bras s’allongent, lui servant à tracter son corps inférieur vestigial. Une masse de tentacules serpentins sort de ses épaules et du haut de son torse.
 

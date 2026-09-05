@@ -47,8 +47,8 @@ Il n'y a toutefois que quelques bâtiments qui sont réellement des temples. La 
 Son texte sacré est L'affiche de la sagesse, un condensé simple et en quelques phrases de sa philosophie que l'on peut placarder aux murs.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [second volume](./../Aventures/Présentation AP3.md#AP3-2) de la troisième campagne, [Le Retour des Ténèbres](./../Aventures/Présentation AP3.md), contient un article qui détaille ce dieu.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP3#AP3-2|second volume]] de la troisième campagne, [[Aventures.Présentation AP3|Le Retour des Ténèbres]], contient un article qui détaille ce dieu.
 {s:VoirAussiAprès}

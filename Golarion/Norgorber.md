@@ -24,7 +24,7 @@ Mais ses fidèles les plus célèbres et les plus dangereux sont les fous, les a
 Norgorber est une énigme pour la plupart des gens, et ses motivations restent inconnues.
 
 ### Histoire
-Norgorber est un Exalté, un mortel devenu dieu grâce au pouvoir de la [Pierre-Étoile](./Pierre-Étoile.md). On sait très peu de choses sur ce qu’était sa vie mortelle, car il dissimule soigneusement ces informations (et a assassiné tous ceux qui l’ont connu) afin que personne ne puisse les utiliser contre lui.
+Norgorber est un Exalté, un mortel devenu dieu grâce au pouvoir de la [[Pierre-Étoile]]. On sait très peu de choses sur ce qu’était sa vie mortelle, car il dissimule soigneusement ces informations (et a assassiné tous ceux qui l’ont connu) afin que personne ne puisse les utiliser contre lui.
 
 C’est une divinité mystérieuse qui laisse rarement qui que ce soit apprendre quelque chose sur ses objectifs ou ses intérêts.
 Seuls ses adorateurs les plus appréciés ont plus que de vagues notions sur lui, afin qu’ils l’aident à mettre ses plans en oeuvre, mais il lui arrive même d’effacer ces connaissances de leur esprit une fois le travail fait, afin de préserver ses secrets.
@@ -49,7 +49,7 @@ Le héraut de Norgorber est la bête poinçonneuse, un gigantesque scorpion noir
 
 ### Doctrine
 
-Le culte est interdit ou au moins persécuté dans toutes les nations, excepté à [Absalom](./Absalom.md), où il est toléré. Heureusement, comme cette religion se base sur le secret, elle prospère même dans ces conditions, que les fidèles opèrent derrière une façade légale ou oeuvrent littéralement en souterrain, en installant des antres et des lieux de réunion dans les égouts et le sous-sol de leur ville.
+Le culte est interdit ou au moins persécuté dans toutes les nations, excepté à [[Absalom]], où il est toléré. Heureusement, comme cette religion se base sur le secret, elle prospère même dans ces conditions, que les fidèles opèrent derrière une façade légale ou oeuvrent littéralement en souterrain, en installant des antres et des lieux de réunion dans les égouts et le sous-sol de leur ville.
 
 Il est séparé en quatre parties, chacune vénérant un aspect de la déité. Il n'y a peu de rapports entre chacune de ses parties. Les fidèles portent des masques pour s'identifier et comme symbole de leur dévotion.
 Les ouailles de Norgorber sont majoritairement des voleurs, des assassins et des meurtriers, les alchimistes, les espions et les politiciens restant en minorité.
@@ -62,7 +62,7 @@ général, un prêtre vétéran masqué mène la prière en s’arrêtant de tem
 
 ### Temples et sanctuaires
 
-On retrouve des cultes dédiés à Norgorber en [Galt](./Galt.md), [Nex](./Nex.md), [Osirion](./Osirion.md), dans les [Royaumes Fluviaux](./Royaumes fluviaux.md), les [Entraves](./Entraves.md), le [Taldor](./Taldor.md) et en [Varisie](./Varisie.md).
+On retrouve des cultes dédiés à Norgorber en [[Galt]], [[Nex]], [[Osirion]], dans les [[Royaumes Fluviaux]], les [[Entraves]], le [[Taldor]] et en [[Varisie]].
 
 Les temples de Norgorber sont organisés comme des guildes de voleurs. Chaque temple est placé sous la supervision d’un maître de guilde (généralement un roublard, un assassin ou un prêtre), des lieutenants et des officiers subalternes gérant les
 divers plans en cours et contrôlant les groupes de fidèles. Les temples dédiés à Noirs Doigts fonctionnent parfois comme une
@@ -139,8 +139,8 @@ dans toute la mer Intérieure, il n’y a que deux expressions communes à toute
 **J’attends un prix correct.** Une chose qui semble avoir peu de valeur peut devenir précieuse une fois entre les bonnes mains ou lorsqu’elle est murmurée dans la bonne oreille. Une personne qui annonce cela détient un objet ou un secret qui n’a pas encore atteint son plein potentiel.
 
 {s:VoirAussiAvant}
-- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [Gods and Magic](./Publications.md#GODSMAGIC).
-- Les [Campaign Setting](./Publications.md#CAMPAIGNSETTING) et le [Gazetteer/Atlas](./Publications.md#GAZETTEER) les abordent également brièvement.
-- Vous pourrez en trouver une courte présentation dans le [Guide du joueur](./Aides de jeu.md#GUIDEDUJOUEUR) téléchargeable gratuitement sur la page des [Aides de jeu](./Aides de jeu.md).
-- Enfin, le [cinquième volume](./../Aventures/Présentation AP10.md#AP10-5) de la dixième campagne, [Skull and Shackles](./../Aventures/Présentation AP10.md), contient un article sur Norgorber.
+- Les dieux principaux de Golarion ainsi que les dieux raciaux sont décrits dans le supplément [[Publications#GODSMAGIC|Gods and Magic]].
+- Les [[Publications#CAMPAIGNSETTING|Campaign Setting]] et le [[Publications#GAZETTEER|Gazetteer/Atlas]] les abordent également brièvement.
+- Vous pourrez en trouver une courte présentation dans le [[Aides de jeu#GUIDEDUJOUEUR|Guide du joueur]] téléchargeable gratuitement sur la page des [[Aides de jeu]].
+- Enfin, le [[Aventures.Présentation AP10#AP10-5|cinquième volume]] de la dixième campagne, [[Aventures.Présentation AP10|Skull and Shackles]], contient un article sur Norgorber.
 {s:VoirAussiAprès}

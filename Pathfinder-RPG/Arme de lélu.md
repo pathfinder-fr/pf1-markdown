@@ -10,12 +10,12 @@ Categories:
 
 {s:mca}*L’influence de sa divinité guide l’arme de prédilection du personnage.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Arme de prédilection](./Arme de prédilection.md) (arme de prédilection de la divinité du personnage), le personnage doit vénérer une divinité et recevoir des sorts de sa part.
+**Conditions.** [[Arme de prédilection]] (arme de prédilection de la divinité du personnage), le personnage doit vénérer une divinité et recevoir des sorts de sa part.
 
-**Avantage.** Par une [action rapide](./Action rapide.md), le personnage peut faire appel à sa divinité afin qu’elle guide une attaque qu’il porte avec l’arme de prédilection de celle-ci. Au cours du même round, lors de sa prochaine attaque avec cette arme, cette dernière compte comme une arme magique quand il s’agit de déterminer si elle passe la [réduction de dégâts](./RD.md) ou touche une créature intangible. Si son attaque est ratée à cause d’un [camouflage](./camouflage.md), le personnage peut refaire son jet de chance de rater une fois afin de savoir s’il touche ou non.
+**Avantage.** Par une [[action rapide]], le personnage peut faire appel à sa divinité afin qu’elle guide une attaque qu’il porte avec l’arme de prédilection de celle-ci. Au cours du même round, lors de sa prochaine attaque avec cette arme, cette dernière compte comme une arme magique quand il s’agit de déterminer si elle passe la [[RD|réduction de dégâts]] ou touche une créature intangible. Si son attaque est ratée à cause d’un [[camouflage]], le personnage peut refaire son jet de chance de rater une fois afin de savoir s’il touche ou non.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Quand le personnage utilise ce don, il peut dépenser jusqu’à 5 points d’endurance pour choisir une arme autre que l’arme de prédilection de son dieu. Il bénéficie des avantages de ce don avec cette arme jusqu’au début de son prochain tour.

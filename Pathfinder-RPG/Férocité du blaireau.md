@@ -11,18 +11,18 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md); **Niveau** [Dru](./Druide.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Occ](./Occultiste.md) 2, [Prê](./Prêtre.md) 3, [Rôd](./Rôdeur.md) 2  
+**École** [[Transmutation]]; **Niveau** [[Druide|Dru]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Occultiste|Occ]] 2, [[Prêtre|Prê]] 3, [[Rôdeur|Rôd]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** une [arme](./Tableau récapitulatif des armes.md)/3 [niveaux](./niveau.md)  
+**Cible** une [[Tableau récapitulatif des armes|arme]]/3 [[niveau|niveaux]]  
 
-**Durée** [concentration](./Présentation des sorts.md#DUREE)  
+**Durée** [[Présentation des sorts#DUREE|concentration]]  
 
-**Jet de sauvegarde** Volonté ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)); **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** Volonté ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]); **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-Fonctionne comme [affûtage](./Affûtage.md) mais affecte plusieurs [armes](./Tableau récapitulatif des armes.md) et demande de la [concentration](./Présentation des sorts.md#DUREE). Le personnage choisit les [armes](./Tableau récapitulatif des armes.md) qu'il veut affecter et ne peut en améliorer qu'une par créature. Si une [arme](./Tableau récapitulatif des armes.md) sort de la zone d'effet du sort, ce dernier se termine pour elle.
+Fonctionne comme [[affûtage]] mais affecte plusieurs [[Tableau récapitulatif des armes|armes]] et demande de la [[Présentation des sorts#DUREE|concentration]]. Le personnage choisit les [[Tableau récapitulatif des armes|armes]] qu'il veut affecter et ne peut en améliorer qu'une par créature. Si une [[Tableau récapitulatif des armes|arme]] sort de la zone d'effet du sort, ce dernier se termine pour elle.

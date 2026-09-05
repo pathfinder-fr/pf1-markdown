@@ -10,25 +10,25 @@ LastModified: 2016-03-29 19:39
 {s:pucem|Créature artificielle|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Création de fan*}
 {s:BDTexte|**PX** 1200}
-{s:BDTexte|[Créature artificielle](./../Pathfinder-RPG/type Créature artificielle.md) de taille Min, N}
-{s:BDTexte|**Init** +4 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./../Pathfinder-RPG/vision nocturne.md) ; [Perception](./../Pathfinder-RPG/Perception.md) +3}
+{s:BDTexte|[[Pathfinder-RPG.type Créature artificielle|Créature artificielle]] de taille Min, N}
+{s:BDTexte|**Init** +4 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18 m (12 {s:c}), [[Pathfinder-RPG.vision nocturne|vision nocturne]] ; [[Pathfinder-RPG.Perception|Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 14, pris au dépourvu 12 (dex +4, armure naturelle +1) }
 {s:BDTexte|**pv** 31 (2d10+20)}
 {s:BDTexte|**Réf** +5, **Vig** +1, **Vol** -1}
-{s:BDTexte|**[RD](./../Pathfinder-RPG/RD.md)** 5/- ; **Immunités** [traits des créatures artificielles](./../Pathfinder-RPG/Traits des créatures artificielles.md) }
+{s:BDTexte|**[[Pathfinder-RPG.RD|RD]]** 5/- ; **Immunités** [[Pathfinder-RPG.traits des créatures artificielles|traits des créatures artificielles]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
 {s:BDTexte|**Corps à corps** coup de bec, +6 (1d4-3)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 2)}
-{s:BDSorts|* (4/jour) — *[Décharge électrique](./../Pathfinder-RPG/Décharge électrique.md)}
-{s:BDSorts|* A volonté — *[Choc](./../Pathfinder-RPG/Choc.md)}
+{s:BDSorts|* (4/jour) — *[[Pathfinder-RPG.Décharge électrique|Décharge électrique]]}
+{s:BDSorts|* A volonté — *[[Pathfinder-RPG.Choc|Choc]]}
 {s:BDTexte|**Espace** 0,30 m (1/5 {s:c}) ; **Allonge** 0}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 1, **Dex** 18, **Con** -, **Int** -, **Sag** 1, **Cha** 1}
 {s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 12}
-{s:BDTexte|**Dons** [Attaque en finesse](./../Pathfinder-RPG/Attaque en finesse.md)}
-{s:BDTexte|**Compétences** [Vol](./../Pathfinder-RPG/Vol.md) +16}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Attaque en finesse|Attaque en finesse]]}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Vol|Vol]] +16}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe (3-12)}

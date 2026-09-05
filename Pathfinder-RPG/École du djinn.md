@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Le personnage se déplace comme le vent, les mains entourées d’une aura de foudre.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [école](./Dons.md#DONECOLE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONECOLE|école]]
 
-**Conditions.** [Con](./Constitution.md) 13, [Sag](./Sag.md) 15, [Poing élémentaire](./Poing élémentaire.md), [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +9 ou [moine](./Moine.md) de niveau 5
+**Conditions.** [[Constitution|Con]] 13, [[Sag]] 15, [[Poing élémentaire]], [[Science du combat à mains nues]], [[BBA]] +9 ou [[moine]] de niveau 5
 
-**Avantage.** Le personnage peut utiliser [Poing élémentaire](./Poing élémentaire.md) une fois de plus par jour. Quand il utilise cette école, il doit choisir des dégâts de foudre pour le [Poing élémentaire](./Poing élémentaire.md) et gagne un bonus égal à son modificateur de [Sagesse](./Sagesse.md) aux jets de dégâts d’électricité. De plus, tant qu’il utilise cette école et qu’il n’a pas utilisé tous ses Poings élémentaires, il gagne un bonus d’esquive de +2 à la [CA](./CA.md) contre les [attaques d’opportunité](./attaque dopportunité.md). Il perd ce bonus s’il perd son bonus de [Dextérité](./Dextérité.md) à la CA.
+**Avantage.** Le personnage peut utiliser [[Poing élémentaire]] une fois de plus par jour. Quand il utilise cette école, il doit choisir des dégâts de foudre pour le [[Poing élémentaire]] et gagne un bonus égal à son modificateur de [[Sagesse]] aux jets de dégâts d’électricité. De plus, tant qu’il utilise cette école et qu’il n’a pas utilisé tous ses Poings élémentaires, il gagne un bonus d’esquive de +2 à la [[CA]] contre les [[attaque dopportunité|attaques d’opportunité]]. Il perd ce bonus s’il perd son bonus de [[Dextérité]] à la CA.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage effectue une attaque de [Poing élémentaire](./Poing élémentaire.md) pour infliger des dégâts d’électricité, il peut dépenser jusqu’à 5 points d’endurance et infliger un montant de dégâts d’électricité supplémentaires égal au double du nombre de points dépensés.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage effectue une attaque de [[Poing élémentaire]] pour infliger des dégâts d’électricité, il peut dépenser jusqu’à 5 points d’endurance et infliger un montant de dégâts d’électricité supplémentaires égal au double du nombre de points dépensés.

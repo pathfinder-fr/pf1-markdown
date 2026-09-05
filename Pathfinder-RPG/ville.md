@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Villes
 ---
 
->>> [Villes](./Villes.md)
+>>> [[Villes]]

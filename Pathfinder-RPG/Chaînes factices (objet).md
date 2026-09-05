@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 65 po ; **Poids** 1 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ces chaînes de maître sont faciles à briser, même si elles ressemblent à des [chaînes ordinaires](./Chaîne (objet).md) ([Perception](./Perception.md) [DD](./DD.md) 25 pour voir la différence). Un test de [Force](./Force.md) DD 10 suffit à les briser instantanément.
+Ces chaînes de maître sont faciles à briser, même si elles ressemblent à des [[Chaîne (objet)|chaînes ordinaires]] ([[Perception]] [[DD]] 25 pour voir la différence). Un test de [[Force]] DD 10 suffit à les briser instantanément.

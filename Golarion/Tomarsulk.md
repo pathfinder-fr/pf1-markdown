@@ -7,4 +7,4 @@ Categories:
 - Géographie
 ---
 
-Certainement l'une des plus longues rivières du [Chéliax](./Chéliax.md). Le Tomarsulk prend sa source dans les montagnes du [Ménador](./Ménador.md), dans un lieu appelé Fontaine de Saint-Ilneas, est rejoint par la [Jeni](./Jeni.md) et traverse le pays vers le sud avant de se jeter dans l'[Adivian](./Adivian.md) sous le [Lac Chagrin](./Lac Chagrin.md).
+Certainement l'une des plus longues rivières du [[Chéliax]]. Le Tomarsulk prend sa source dans les montagnes du [[Ménador]], dans un lieu appelé Fontaine de Saint-Ilneas, est rejoint par la [[Jeni]] et traverse le pays vers le sud avant de se jeter dans l'[[Adivian]] sous le [[Lac Chagrin]].

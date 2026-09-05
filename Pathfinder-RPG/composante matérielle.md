@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#COMPOSANTEMATERIELLE
 ---
 
->>> [Présentation des sorts#COMPOSANTEMATERIELLE](./Présentation des sorts.md#COMPOSANTEMATERIELLE)
+>>> [[Présentation des sorts#COMPOSANTEMATERIELLE]]

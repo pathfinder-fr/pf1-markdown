@@ -11,18 +11,18 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[son](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Rôd](./Rôdeur.md) 3, [Sor](./Sorcière.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (une poignée de neige, de terre ou de gravier)
+{s:MMI}**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|son]]<nowiki>]</nowiki> ; **Niveau** [[Druide|Dru]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Rôdeur|Rôd]] 3, [[Sorcière|Sor]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (une poignée de neige, de terre ou de gravier)
 **Portée** courte (7,50 m + 1,50 m/2 niveaux)
 **Effet** 1 mur de 1,50 m d’épaisseur, de 3 m de haut et de 6 m de large au maximum
-**Durée** [concentration](./concentration.md), jusqu’à 1 round/2 niveaux
-**Jet de sauvegarde** [Réflexes](./Réflexes.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui (voir description)
+**Durée** [[concentration]], jusqu’à 1 round/2 niveaux
+**Jet de sauvegarde** [[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** oui (voir description)
 
 *Utilisé à l’origine sur les champs de bataille par les sorcières de l’hiver lors des premiers jours de l'Enclave de la Reine-Sorcière, la barrière explosive s’est depuis transmise oralement au sein des nombreuses tribus de barbares du nord, tout comme les légendes sur les pouvoirs de possession des sorcières de l’hiver qui soumettent à leur volonté la configuration même d’un champ de bataille. Quoi qu’il en soit, la barrière explosive s’est avérée exceptionnellement polyvalente pour modifier la configuration des environnements, car elle fonctionne tout aussi bien dans des marais, des déserts ou tout autre environnement dont le sol est meuble et facile à façonner.*
 
-Quand le personnage lance *barrière explosive*, il provoque la levée d’un mur frémissant de terre meuble, de boue, de neige, de sable ou de gravier dans une zone désignée à portée du sort. Ce mur fournit un [abri total](./abri.md) à toutes les créatures et objets de taille G ou inférieure. La barrière peut être créée uniquement dans une zone où le sol est naturel et n’a pas été modifié. L’énergie qui compose la matrice du mur est instable et le personnage doit se concentrer pour maintenir l’intégrité de la structure. Une barrière explosive possède une [CA](./CA.md) de 9, une [solidité](./solidité.md) de 0 et 5 points de vie par [niveau de lanceur de sorts](./NLS.md).
+Quand le personnage lance *barrière explosive*, il provoque la levée d’un mur frémissant de terre meuble, de boue, de neige, de sable ou de gravier dans une zone désignée à portée du sort. Ce mur fournit un [[abri|abri total]] à toutes les créatures et objets de taille G ou inférieure. La barrière peut être créée uniquement dans une zone où le sol est naturel et n’a pas été modifié. L’énergie qui compose la matrice du mur est instable et le personnage doit se concentrer pour maintenir l’intégrité de la structure. Une barrière explosive possède une [[CA]] de 9, une [[solidité]] de 0 et 5 points de vie par [[NLS|niveau de lanceur de sorts]].
 
-Quand le nombre de points de vie d’une *barrière explosive* atteint 0 ou quand le personnage cesse de se concentrer pour la maintenir, l’énergie qui maintient l’intégrité de la barrière s’effondre en produisant une explosion qui projette des fragments de mur tranchants, ainsi que de l’énergie magique de chaque côté du mur. Les créatures adjacentes à la *barrière explosive* au moment de l’explosion subissent 2d6 points de dégâts tranchants et 1d6 points de dégâts de son par tranche de 3 [niveaux de lanceur de sorts](./NLS.md) (maximum 6d6). Un jet de [Réflexes](./Réflexes.md) réussi diminue de moitié le total des dégâts infligés. La [résistance à la magie](./RM.md) s’applique également.
+Quand le nombre de points de vie d’une *barrière explosive* atteint 0 ou quand le personnage cesse de se concentrer pour la maintenir, l’énergie qui maintient l’intégrité de la barrière s’effondre en produisant une explosion qui projette des fragments de mur tranchants, ainsi que de l’énergie magique de chaque côté du mur. Les créatures adjacentes à la *barrière explosive* au moment de l’explosion subissent 2d6 points de dégâts tranchants et 1d6 points de dégâts de son par tranche de 3 [[NLS|niveaux de lanceur de sorts]] (maximum 6d6). Un jet de [[Réflexes]] réussi diminue de moitié le total des dégâts infligés. La [[RM|résistance à la magie]] s’applique également.
 
 Cette instabilité augmente les risques d’utilisation des *barrières explosives*, mais nombre des premiers lanceurs de ce sort ont perfectionné ses applications tactiques et utilisent souvent les barrières pour couvrir un repli tout en lançant dessus des sorts destructifs dans l’espoir de provoquer leur explosion dès que leurs poursuivants s’en approchent.

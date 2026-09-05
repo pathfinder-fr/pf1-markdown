@@ -10,9 +10,9 @@ Categories:
 
 {s:apg}*Rien ne peut tromper les sens du personnage lorsqu’il s’agit d’ouvrages en pierre.*
 
-**Conditions. **[Sag](./Sagesse.md) 13, [nain](./Nain.md), trait racial [Connaissance de la pierre](./connaissance de la pierre.md).
+**Conditions. **[[Sagesse|Sag]] 13, [[nain]], trait racial [[Connaissance de la pierre]].
 
-**Avantage.** Le personnage reçoit un bonus de +4 aux tests de [Perception](./Perception.md) pour détecter des ouvrages de pierre inhabituels. Ce bonus remplace le bonus normal de Perception donné par la capacité de [connaissance de la pierre](./connaissance de la pierre.md).
+**Avantage.** Le personnage reçoit un bonus de +4 aux tests de [[Perception]] pour détecter des ouvrages de pierre inhabituels. Ce bonus remplace le bonus normal de Perception donné par la capacité de [[connaissance de la pierre]].
 
 {s:CMy}
 ### Version mythique
@@ -20,4 +20,4 @@ Categories:
 
 **Condition.** Connaissance supérieure de la pierre
 
-**Avantage.** Le personnage gagne le pouvoir magique de *[pierres commères](./Pierres commères.md)* utilisable une fois par jour avec un niveau de lanceur de sorts égal à deux fois son [grade](./Grade.md).
+**Avantage.** Le personnage gagne le pouvoir magique de *[[pierres commères]]* utilisable une fois par jour avec un niveau de lanceur de sorts égal à deux fois son [[grade]].

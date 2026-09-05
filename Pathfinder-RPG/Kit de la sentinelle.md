@@ -13,7 +13,7 @@ LastModified: 2023-08-15 11:01
 
 
 
-Ce kit inclue un badge (broche en tin valant 5 pa), un [Silex et amorce](./Équipement daventurier.md#Silex et amorce), une [Applique pour bouclier](./Équipement daventurier.md#Applique pour bouclier), un [Sifflet](./Équipement daventurier.md#Sifflet) d'alarme, et 10 torches.
+Ce kit inclue un badge (broche en tin valant 5 pa), un [[Équipement daventurier#Silex et amorce|Silex et amorce]], une [[Équipement daventurier#Applique pour bouclier|Applique pour bouclier]], un [[Équipement daventurier#Sifflet|Sifflet]] d'alarme, et 10 torches.
 
 
 (((This kit includes a badge (tin brooch worth 5 sp), flint and steel, a shield sconceUE, a signal whistle, and torches (10).)))

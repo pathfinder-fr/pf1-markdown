@@ -10,9 +10,9 @@ Categories:
 
 {s:apg}{s:mca}*Le personnage a percé le secret d’un nouveau maléfice.*
 
-**Condition.** Aptitude de classe de [maléfices](./maléfices.md).
+**Condition.** Aptitude de classe de [[maléfices]].
 
 **Avantage.** Le personnage obtient un maléfice supplémentaire. Il doit en remplir les conditions d’accès. Si le
-personnage est un [chaman](./Chaman.md), ce doit être un maléfice accordé par son esprit et non par son esprit errant.
+personnage est un [[chaman]], ce doit être un maléfice accordé par son esprit et non par son esprit errant.
 
 **Spécial.** Le personnage peut acquérir ce don plusieurs fois gagnant à chaque fois un nouveau maléfice.

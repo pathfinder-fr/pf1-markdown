@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:WMH}*Votre style de combat est renforcé par votre intelligence vive.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Int](./Int.md) 13, [Entraînement guerrier elfique](./Entraînement guerrier elfique.md), [École du guerrier elfique](./École du guerrier elfique.md), [Attaque en finesse](./Attaque en finesse.md), [BBA](./BBA.md) +4, trait racial [armes familières](./Elfe.md#Traits_raciaux_standards_6)
+**Conditions.** [[Int]] 13, [[Entraînement guerrier elfique]], [[École du guerrier elfique]], [[Attaque en finesse]], [[BBA]] +4, trait racial [[Elfe#Traits_raciaux_standards_6|armes familières]]
 
-**Avantages.** Quand il utilise l'[École du guerrier elfique](./École du guerrier elfique.md), le personnage peut ajouter son modificateur d'[Intelligence](./Intelligence.md) aux dégâts infligés par l'arme utilisée (à la place de tout autre modificateur ou bonus de caractéristique qu'il peut ajouter aux dégâts de l'arme). La taille de l'arme utilisée doit correspondre à celle du personnage.
+**Avantages.** Quand il utilise l'[[École du guerrier elfique]], le personnage peut ajouter son modificateur d'[[Intelligence]] aux dégâts infligés par l'arme utilisée (à la place de tout autre modificateur ou bonus de caractéristique qu'il peut ajouter aux dégâts de l'arme). La taille de l'arme utilisée doit correspondre à celle du personnage.

@@ -16,18 +16,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Cham](./Chaman.md) 0, [Dru](./Druide.md) 0, [Inq](./Inquisiteur.md) 0, [Méd](./Médium.md) 0, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 0, [Psy](./Psychiste.md) 0, [Spi](./Spirite.md) 0  
+**École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 0, [[Druide|Dru]] 0, [[Inquisiteur|Inq]] 0, [[Médium|Méd]] 0, [[Paladin|Pal]] 1, [[Prêtre|Prê]] 0, [[Psychiste|Psy]] 0, [[Spirite|Spi]] 0  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, FD](./composantes.md)  
+**Composantes** [[composantes|V, G, FD]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
 **Durée** 1 minute  
 
-**Jet de sauvegarde** aucun ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** aucun ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
-La cible gagne 1 [point de vie temporaire](./Blessures et mort.md#PVTEMPORAIRES).
+La cible gagne 1 [[blessures et mort#PVTEMPORAIRES|point de vie temporaire]].

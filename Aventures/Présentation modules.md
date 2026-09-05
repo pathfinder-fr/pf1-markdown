@@ -11,7 +11,7 @@ LastModified: 2023-03-09 17:27
 </tr>
 </table>
 
-La gamme Pathfinder contient de nombreux modules (aventures séparées ou avec des liens relativement minces) et plusieurs campagnes (ou adventure paths). Le [Aventures.MainPage|wiki Aventures] se veut être un lieu d'échange d'aides de jeu et d'idées pour les MJ qui désirent faire jouer ces aventures. Vous trouverez des aides de jeu pour ces modules sur [Aventures.Aides de jeu modules|cette page].
+La gamme Pathfinder contient de nombreux modules (aventures séparées ou avec des liens relativement minces) et plusieurs campagnes (ou adventure paths). Le [[Aventures.MainPage|wiki Aventures]] se veut être un lieu d'échange d'aides de jeu et d'idées pour les MJ qui désirent faire jouer ces aventures. Vous trouverez des aides de jeu pour ces modules sur [[Aventures.Aides de jeu modules|cette page]].
 
 <nav class="wiki-toc"></nav>
 
@@ -51,7 +51,7 @@ target.style.display = 'none';
 }" />
 
 {s:Reference|ABSALOM}
-### Modules se déroulant à [++Golarion.Absalom|Absalom]
+### Modules se déroulant à [[Golarion.Absalom|Absalom]]
 
 {s:BookStart}
 {s:BookTitle|U1|U1: Gallery of Evil (OGL)/Les tableaux maléfiques}
@@ -60,14 +60,14 @@ target.style.display = 'none';
 {s:BookComment|**Niveau 8**  
 
 À Absalom, on n'a jamais vu un artiste devenir célèbre aussi rapidement mais, lorsque ses clients sont retrouvés taillés en pièces, plus d'une personne se demande si ses oeuvres ne sont pas un peu trop... réalistes. Dans cette aventure urbaine, les PJ doivent affronter un artiste fou et ses oeuvres maudites. Quand les visions d'un peintre dément prennent vie, les héros se retrouvent à l'intérieur de ses paysages insensés et doivent trouver un moyen de l'empêcher de réduire la ville à nént.  
-Scénario disponible en VF dans le [recueil d'Absalom](./../Golarion/Publications.md#RECUEILABSA)}
+Scénario disponible en VF dans le [[Golarion.Publications#RECUEILABSA|recueil d'Absalom]]}
 {s:BookTitle|U2|U2: Hangman's Noose (OGL)/La Corde des Pendus}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9508_120.jpeg|http://paizo.com/pathfinder/pathfinderModules/35E/v5748btpy815s}
 {s:BookPic||}
 {s:BookComment|**Niveau 1**  
 
 Un fantôme en quête de vengeance hante un cour d'assises abandonnée dans la métropole d'Absalom. Lors du dixième anniversaire d'une grave injustice, il cherche à obtenir justice. Les héros doivent percer les mystères qui ont mené le fantôme à sa perte avant qu'ils ne se retrouvent jugés coupables et envoyés à l'échafaud.  
-Scénario disponible en VF dans le [recueil d'Absalom](./../Golarion/Publications.md#RECUEILABSA)}
+Scénario disponible en VF dans le [[Golarion.Publications#RECUEILABSA|recueil d'Absalom]]}
 {s:BookTitle|MASTEROFTHEFALLENFORTRESS|Master of the Fallen Fortress/Le maître de la forteresse en ruines (Pathfinder)}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9500-4_180.jpeg|http://paizo.com/store/downloads/pathfinder/pathfinderModules/pathfinderRPG/v5748btpy8ey4}
 {s:BookPic||}
@@ -78,7 +78,7 @@ Les places-fortes en ruine à partir desquelles de nombreux sièges ont été me
 {s:BookEnd}
 
 {s:Reference|ANDORAN}
-### Modules se déroulant en [++Golarion.Andoran|Andoran]
+### Modules se déroulant en [[Golarion.Andoran|Andoran]]
 
 {s:BookStart}
 {s:BookTitle|TC1|TC1: Into the Haunted Forest/Au cœur de la forêt hantée (OGL)}
@@ -107,7 +107,7 @@ Au plus profond de la forêt, quelque chose s'éveille. Une fée maléfique, un 
 
 {s:Reference|CHELIAX}
 
-### Modules se déroulant au [++Golarion.Chéliax|Cheliax]
+### Modules se déroulant au [[Golarion.Chéliax|Cheliax]]
 
 {s:BookStart}
 {s:BookTitle|SHORETOSEA|From Shore to Sea (Pathfinder)}
@@ -120,7 +120,7 @@ Les campagnards de Blackbeach ont gardé le secret de leur héritage maudit pend
 
 {s:Reference|GALT}
 
-### Modules se déroulant au [++Golarion.Galt|Galt]
+### Modules se déroulant au [[Golarion.Galt|Galt]]
 
 {s:BookStart}
 {s:BookTitle|W3|W3: Flight of the Red Raven (OGL)}
@@ -132,7 +132,7 @@ On a volé la Clef vernale de la ville d'Azurestone et le célèbre Corbeau roug
 {s:BookEnd}
 
 {s:Reference|IRRISEN}
-### Modules se déroulant en [++Golarion.Irrisen|Irrisen]
+### Modules se déroulant en [[Golarion.Irrisen|Irrisen]]
 
 {s:BookStart}
 {s:BookTitle|WITCHWARLEGACY|The Witchwar Legacy (Pathfinder)}
@@ -146,7 +146,7 @@ La Reine a envoyé des mercenaires, des héros et des types louches vers la tomb
 {s:BookEnd}
 
 {s:Reference|JALMERAY}
-### Modules se déroulant sur l'île de [++Golarion.Jalmeray|Jalmeray]
+### Modules se déroulant sur l'île de [[Golarion.Jalmeray|Jalmeray]]
 
 {s:BookStart}
 {s:BookTitle|EBONDESTROYERS|Cult of the Ebon Destroyers (Pathfinder)}
@@ -160,7 +160,7 @@ Cela fait trop longtemps que le culte vudranais secret connu sous le nom des Des
 {s:BookEnd}
 
 {s:Reference|Katapesh}
-### Modules se déroulant au [++Golarion.Katapesh|Katapesh]
+### Modules se déroulant au [[Golarion.Katapesh|Katapesh]]
 
 {s:BookStart}
 {s:BookTitle|BROKENCHAINS|Broken Chains (Pathfinder)}
@@ -172,7 +172,7 @@ L'esclavage est légal dans la vaste ville de Katapesh mais certains esclavagist
 {s:BookEnd}
 
 {s:Reference|MENDEV}
-### Modules se déroulant au [++Golarion.Mendev|Mendev]
+### Modules se déroulant au [[Golarion.Mendev|Mendev]]
 
 {s:BookStart}
 {s:BookTitle|D3|D3: The Demon Within (OGL)}
@@ -184,7 +184,7 @@ Pendant des années, les chevaliers du Mendev ont fait front au Mal enfermé dan
 {s:BookEnd}
 
 {s:Reference|MWANGI}
-### Modules se déroulant dans l'Étendue [++Golarion.Mwangi|Mwangi]
+### Modules se déroulant dans l'Étendue [[Golarion.Mwangi|Mwangi]]
 
 {s:BookStart}
 {s:BookTitle|J3|J3: Crucible of Chaos/Le Berceau du Chaos (OGL)}
@@ -208,7 +208,7 @@ Ce module est traduit en VF dans le double module **Forêts ténébreuses**.
 
 {s:Reference|NIDAL}
 
-### Modules se déroulant au [++Golarion.Nidal|Nidal]
+### Modules se déroulant au [[Golarion.Nidal|Nidal]]
 
 {s:BookStart}
 {s:BookTitle|MIDNIGHTMIRROR|The Midnight Mirror (Pathfinder)}
@@ -221,7 +221,7 @@ Dans les ombres du Nidal, les habitants du plan des Ombres se mêlent aux gens o
 
 {s:Reference|NIRMATHAS}
 
-### Modules se déroulant au [++Golarion.Nirmathas|Nirmathas] (Cycle du "Prix de l'immortalité")
+### Modules se déroulant au [[Golarion.Nirmathas|Nirmathas]] (Cycle du "Prix de l'immortalité")
 
 {s:BookStart}
 {s:BookTitle|EVERFLAME|Crypt of the Everflame (Pathfinder)}
@@ -246,7 +246,7 @@ La course a commencé : il faut arrêter le culte du Dieu Vivant Razmir avant qu
 
 {s:Reference|OSIRION}
 
-### Modules se déroulant en [++Golarion.Osirion|Osirion]
+### Modules se déroulant en [[Golarion.Osirion|Osirion]]
 
 {s:BookStart}
 {s:BookTitle|J1|J1: Entombed with the Pharaohs / Ensevelis avec les Pharaons (OGL)}
@@ -269,7 +269,7 @@ Ce module est traduit en VF dans le double module **Au cœur des pyramides**.}
 
 {s:Reference|TALDOR}
 
-### Modules se déroulant au [++Golarion.Taldor|Taldor]
+### Modules se déroulant au [[Golarion.Taldor|Taldor]]
 
 {s:BookStart}
 {s:BookTitle|E2|E2: Blood of Dragonscar (OGL)}
@@ -305,7 +305,7 @@ L’Injonction du dragon est une magnifique aventure pour des personnages de niv
 {s:Reference|TIANXIA}
 
 
-### Modules se déroulant en [++Golarion.Tian Xia|Tian Xia]
+### Modules se déroulant en [[Golarion.Tian Xia|Tian Xia]]
 {s:BookStart}
 {s:BookTitle|RUBYPHOENIXTOURNAMENT|The Ruby Phoenix Tournament (Pathfinder)}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9534_120.jpeg|http://paizo.com/store/games/roleplayingGames/p/pathfinderRPG/paizo/pathfinderModules/v5748btpy8l2i}
@@ -317,7 +317,7 @@ Une aventure de type "tournoi" pour des personnages de niveau 11. Tous les dix a
 
 
 {s:Reference|TERRESROISLINNORMS}
-### Modules se déroulant en [++Golarion.Terres des Rois des Linnorms|Terres des Rois des Linnorms]
+### Modules se déroulant en [[Golarion.Terres des Rois des Linnorms|Terres des Rois des Linnorms]]
 
 {s:BookStart}
 {s:BookTitle|RIVENSKY|Curse of the Riven Sky (Pathfinder)}
@@ -329,7 +329,7 @@ Les héros trouvent dans un trésor un ancien rituel qui promet puissance et for
 {s:BookEnd}
 
 {s:Reference|USTALAV}
-### Modules se déroulant en [++Golarion.Ustalav|Ustalav]
+### Modules se déroulant en [[Golarion.Ustalav|Ustalav]]
 
 {s:BookStart}
 {s:BookTitle|CARRIONHILL|Carrion Hill (Pathfinder)}
@@ -341,9 +341,9 @@ L'étrange ville de Mont-Charogne domine depuis longtemps les marais environnant
 {s:BookEnd}
 
 {s:Reference|SOMBRELUNE}
-### Modules dans le [val de Sombrelune](./../Golarion/Val de Sombrelune.md)
+### Modules dans le [[Golarion.val de Sombrelune|val de Sombrelune]]
 
-Voir aussi : de nombreuses aides de jeu et même une aventure complète pour agrémenter ces modules, sur la page des [aides de jeu](./Aides de jeu modules.md).
+Voir aussi : de nombreuses aides de jeu et même une aventure complète pour agrémenter ces modules, sur la page des [[Aides de jeu Modules|aides de jeu]].
 
 {s:BookStart}
 {s:BookTitle|D0|D0: Hollow's Last Hope/Le Dernier espoir de Nid-du-Faucon (OGL)}
@@ -357,33 +357,33 @@ Il s'agit d'une aventure gratuite son PDF est téléchargeable en suivant un des
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/55_D1_La_Couronne_du_Roi_kobold.jpg|http://www.black-book-editions.fr/index.php?site_id=55}
 {s:BookComment|**Niveau 2**  
 
-La couronne du roi des kobolds sera plongée dans le sang ! Cinq enfants du village de [++Golarion.Nid-du-Faucon|Nid-du-Faucon] ont disparus, emportés dans les ruines qui gisent sous un monastère nain maudit. Bientôt, ils seront offerts en sacrifice à la couronne et pour la plus grande gloire du vicieux roi kobold. Pour les sauver de ce destin macabre, des héros devront suivre leurs traces jusqu’au monastère et plonger dans les profondeurs de halls truffés de pièges et infestés de monstres. La Couronne du roi kobold est une aventure en donjon pour 4 personnages de niveau 2. Cette aventure peut aussi servir de suite au module GameMastery D0 : Le Dernier espoir de Nid-du-Faucon, disponible en téléchargement gratuit. On la retrouve également dans la compilation [++Golarion.Publications#RECUEILVAL|Le Recueil du val de Sombrelune]. On notera que cette nouvelle version est au format Pathfinder.}
+La couronne du roi des kobolds sera plongée dans le sang ! Cinq enfants du village de [[Golarion.Nid-du-Faucon|Nid-du-Faucon]] ont disparus, emportés dans les ruines qui gisent sous un monastère nain maudit. Bientôt, ils seront offerts en sacrifice à la couronne et pour la plus grande gloire du vicieux roi kobold. Pour les sauver de ce destin macabre, des héros devront suivre leurs traces jusqu’au monastère et plonger dans les profondeurs de halls truffés de pièges et infestés de monstres. La Couronne du roi kobold est une aventure en donjon pour 4 personnages de niveau 2. Cette aventure peut aussi servir de suite au module GameMastery D0 : Le Dernier espoir de Nid-du-Faucon, disponible en téléchargement gratuit. On la retrouve également dans la compilation [[Golarion.Publications#RECUEILVAL|Le Recueil du val de Sombrelune]]. On notera que cette nouvelle version est au format Pathfinder.}
 {s:BookTitle|D15|D1.5: Revenge of the Kobold King (OGL)/La revanche du roi Kobold (Pathfinder)}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9500-2_120.jpeg|http://paizo.com/pathfinder/pathfinderModules/35E/v5748btpy83w1}
 {s:BookPic||}
 {s:BookComment|**Niveau 5**  
 
-Le roi kobold était pourtant mort et bien mort. Mais alors qui est responsable du massacre des bûcherons de [++Golarion.Nid-du-Faucon|Nid-du-Faucon] ? Les aventuriers devront retourner braver les dangers de la forêt de sombrelune pour le savoir. Cette aventure peut servir de suite au module D1 : La couronne du roi kobold.   
-Scénario disponible en VF dans le [recueil du val de Sombrelune](./../Golarion/Publications.md#RECUEILVAL).}
+Le roi kobold était pourtant mort et bien mort. Mais alors qui est responsable du massacre des bûcherons de [[Golarion.Nid-du-Faucon|Nid-du-Faucon]] ? Les aventuriers devront retourner braver les dangers de la forêt de sombrelune pour le savoir. Cette aventure peut servir de suite au module D1 : La couronne du roi kobold.   
+Scénario disponible en VF dans le [[Golarion.Publications#RECUEILVAL|recueil du val de Sombrelune]].}
 {s:BookTitle|E1|E1: Carnival of Tears (OGL)/La foire aux larmes (Pathfinder)}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9506_120.jpeg|http://paizo.com/pathfinder/pathfinderModules/35E/v5748btpy80op}
 {s:BookPic||}
 {s:BookComment|**Niveau 5**  
 
 Cela fait longtemps que les fées maléfiques de la Lune Sombre observent Nid-du-Faucon. Elles sont restées dans leur forêt et ont nourri une colère dirigée contre les habitants de la ville qui ont profané leurs terres. Lorsque le carnaval arrive, les fées y voient une occasion de se venger.   
-Scénario disponible en VF dans le [recueil du val de Sombrelune](./../Golarion/Publications.md#RECUEILVAL).}
+Scénario disponible en VF dans le [[Golarion.Publications#RECUEILVAL|recueil du val de Sombrelune]].}
 {s:BookTitle|D4|D4: Hungry Are the Dead (OGL)/Affamés sont les morts (Pathfinder)}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9515_120.jpeg|http://paizo.com/pathfinder/pathfinderModules/35E/v5748btpy85en}
 {s:BookPic||}
 {s:BookComment|**Niveau 6**  
 
 La ville de bûcherons de Nid-du-Faucon a connu des épreuves difficiles : d'abord, une tribu de kobolds a enlevé les enfants de la ville pour un rituel maléfique, puis une force inconnue a réanimé les kobolds vaincus afin qu'ils attaquent la ville. Et maintenant, une horde de zombis approchent et un mal mystérieux se lève dans le nord, corrompant la faune et les morts enterrés, un indice laissant penser qu'il vaut mieux ne pas déranger les autres maux plus anciens qui sommeillent encore.   
-Scénario disponible en VF dans le [recueil du val de Sombrelune](./../Golarion/Publications.md#RECUEILVAL).}
+Scénario disponible en VF dans le [[Golarion.Publications#RECUEILVAL|recueil du val de Sombrelune]].}
 {s:BookEnd}
 
 {s:Reference|VALSANGLANT}
 
-### Modules se déroulant dans le [++Golarion.Val Sanglant|val Sanglant]
+### Modules se déroulant dans le [[Golarion.Val Sanglant|val Sanglant]]
 {s:BookStart}
 {s:BookTitle|W1|W1: Conquest of Bloodsworn Vale/S1 : La conquête du val Sanglant (OGL)}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9502_120.jpeg|http://paizo.com/pathfinder/pathfinderModules/35E/v5748btpy7zd8}
@@ -401,7 +401,7 @@ Le val Sanglant se situe au sud de Varisia, la région qui sert de décor à la 
 {s:BookEnd}
 
 {s:Reference|VARISIE}
-### Modules se déroulant en [++Golarion.Varisie|Varisie]
+### Modules se déroulant en [[Golarion.Varisie|Varisie]]
 {s:BookStart}
 {s:BookTitle|D2|D2: Seven Swords of Sin/Les Sept épées du péché (OGL)}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9503_120.jpeg|http://paizo.com/pathfinder/pathfinderModules/35E/v5748btpy7zke}
@@ -461,7 +461,7 @@ Le cirque est arrivé en ville ! Mais, plutôt que d'annoncer un temps de joie, 
 
 
 
-### Aventures dans les [++Golarion.Grand Au-Delà|Plans]
+### Aventures dans les [[Golarion.Grand Au-Delà|Plans]]
 {s:BookStart}
 {s:BookTitle|J5|J5: Beyond the Vault of Souls (OGL)/Au-delà du caveau des âmes}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9519_120.jpeg|http://paizo.com/pathfinder/pathfinderModules/35E/v5748btpy88zo}
@@ -469,7 +469,7 @@ Le cirque est arrivé en ville ! Mais, plutôt que d'annoncer un temps de joie, 
 {s:BookComment|**Niveau 9**  
 
 Des gemmes d'âmes magiques ont été dérobées dans les salles secrètes de la déesse de la mort et éparpillées à travers les plans. Certains veulent mettre la main sur ces gemmes pour percer les secrets du multivers. D'autres les veulent pour accroître leur pouvoir. D'autres encore les veulent pour ressusciter un dieu mort. Alors que le dieu du néant plane non loin de là, les PJ pourront-ils récupérer les gemmes auprès de leurs nouveaux propriétaires assez rapidement pour sauver le monde ?  
-Scénario disponible en VF dans le [manuel des plans](./../Golarion/Publications.md#RECUEILPLANS)}
+Scénario disponible en VF dans le [[Golarion.Publications#RECUEILPLANS|manuel des plans]]}
 {s:BookTitle|HARROWING|The Harrowing (Pathfinder)}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9532_120.jpeg|http://paizo.com/store/games/roleplayingGames/p/pathfinderRPG/paizo/pathfinderModules/v5748btpy8ibj}
 {s:BookPic||}
@@ -481,7 +481,7 @@ Cela fait plusieurs générations que les mystérieuses cartes du jeu du Tourmen
 {s:BookPic||}
 {s:BookComment|**Niveau 16**  
 
-Scénario disponible en VF dans le [manuel des plans](./../Golarion/Publications.md#RECUEILPLANS)}
+Scénario disponible en VF dans le [[Golarion.Publications#RECUEILPLANS|manuel des plans]]}
 {s:BookEnd}
 
 {s:Reference|LASTBARON}

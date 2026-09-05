@@ -10,10 +10,10 @@ Categories:
 <div class="BD">
 {s:BDTitre|Mimique|FP 6}
 {s:pucem|Aberration|Souterrain|Tempéré}
-{s:BDTexte|*Source : [Mimique](./../Pathfinder-RPG/Mimique.md) et archetypes [fiélon](./../Pathfinder-RPG/Archétypes.md#CREATUREFIELONE) [évolué](./../Pathfinder-RPG/Archétypes.md#CREATUREEVOLUEE)*}
+{s:BDTexte|*Source : [[Pathfinder-RPG.Mimique|Mimique]] et archetypes [[Pathfinder-RPG.Archétypes#CREATUREFIELONE|fiélon]] [[Pathfinder-RPG.Archétypes#CREATUREEVOLUEE|évolué]]*}
 {s:BDTexte|**PX** 2 400}
-{s:BDTexte|[Aberration](./../Pathfinder-RPG/type Aberration.md) ([métamorphe](./../Pathfinder-RPG/sous-type métamorphe.md)) de taille M, N}
-{s:BDTexte|**Init** +7 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m ; [Perception](./../Pathfinder-RPG/Perception.md) +16}
+{s:BDTexte|[[Pathfinder-RPG.type Aberration|Aberration]] ([[Pathfinder-RPG.sous-type métamorphe|métamorphe]]) de taille M, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18 m ; [[Pathfinder-RPG.Perception|Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 13, pris au dépourvu 17 (Dex +3, naturelle +7)}
 {s:BDTexte|**pv** 66 (7d8+35)}
@@ -24,12 +24,12 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m}
 {s:BDTexte|**Corps à corps** coup +12 (1d8+8 et substance adhésive)}
-{s:BDTexte|**Attaques spéciales** [constriction](./../Pathfinder-RPG/constriction.md) (coup, 1d8+6), châtiment du Bien (+2 aux jets d’attaque et +7 aux dégâts contre une cible d’alignement bon ; le châtiment du Bien persiste jusqu’à ce que la cible soit morte ou que la créature se repose). }
+{s:BDTexte|**Attaques spéciales** [[Pathfinder-RPG.constriction|constriction]] (coup, 1d8+6), châtiment du Bien (+2 aux jets d’attaque et +7 aux dégâts contre une cible d’alignement bon ; le châtiment du Bien persiste jusqu’à ce que la cible soit morte ou que la créature se repose). }
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 16, **Con** 21, **Int** 14, **Sag** 17, **Cha** 14}
 {s:BDTexte|**BBA** +5, **BMO** +9, **DMD** 22 (croc-en-jambe impossible)}
-{s:BDTexte|**Dons** [Arme de prédilection](./../Pathfinder-RPG/Arme de prédilection.md) (coup), [Réflexes surhumains](./../Pathfinder-RPG/Réflexes surhumains.md), [Science de l'initiative](./../Pathfinder-RPG/Science de linitiative.md), [Talent](./../Pathfinder-RPG/Talent.md) ([Perception](./../Pathfinder-RPG/Perception.md))}
-{s:BDTexte|**Compétences** [Connaissances](./../Pathfinder-RPG/Connaissances.md) (donjons) +12, [Déguisement](./../Pathfinder-RPG/Déguisement.md) +12 (+32 pour imiter un objet), [Escalade](./../Pathfinder-RPG/Escalade.md) +16, [Perception](./../Pathfinder-RPG/Perception.md) +16 ; **Modificateurs raciaux** +20 en [déguisement](./../Pathfinder-RPG/Déguisement.md) pour imiter un objet}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Arme de prédilection|Arme de prédilection]] (coup), [[Pathfinder-RPG.Réflexes surhumains|Réflexes surhumains]], [[Pathfinder-RPG.Science de linitiative|Science de l'initiative]], [[Pathfinder-RPG.Talent|Talent]] ([[Pathfinder-RPG.Perception|Perception]])}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Connaissances|Connaissances]] (donjons) +12, [[Pathfinder-RPG.Déguisement|Déguisement]] +12 (+32 pour imiter un objet), [[Pathfinder-RPG.Escalade|Escalade]] +16, [[Pathfinder-RPG.Perception|Perception]] +16 ; **Modificateurs raciaux** +20 en [[Pathfinder-RPG.déguisement|déguisement]] pour imiter un objet}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** imitation d'objets}
 {s:BDSousTitre|Écologie}
@@ -37,8 +37,8 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** fortuit}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Imitation d'objets (Ext).** Un mimique peut prendre la forme de n'importe quel objet de [taille](./../Pathfinder-RPG/taille.md) M (un gros coffre, un lit robuste ou une porte par exemple) mais il ne peut pas modifier sa taille de manière significative. Quelle que soit son apparence, le corps d'un mimique est dur et d'une texture rugueuse. Les mimiques bénéficient d'un bonus racial de +20 sur les tests de [Déguisement](./../Pathfinder-RPG/Déguisement.md) visant à imiter un objet. [Déguisement](./../Pathfinder-RPG/Déguisement.md) est toujours une compétence de classe pour les mimiques.}
-{s:BDTexte|**Substance adhésive (Ext).** Les mimiques sécrètent un mucus épais qui possède de fortes propriétés adhésives et leur permet de retenir toutes les créatures et les objets qu'ils touchent. Les créatures touchées par l'attaque de coup d'un mimique recouvert de mucus adhésif sont automatiquement [agrippées](./../Pathfinder-RPG/Agrippé.md). Tant que le mimique est en vie, les adversaires ainsi agrippés ne peuvent pas se libérer à moins de d'abord neutraliser la substance adhésive. Les armes qui frappent les mimiques couverts de substance adhésive restent également collées, à moins que l'individu qui les manie ne réussisse un jet de Réflexes de DD 17. Un test de Force de DD 17 est nécessaire pour détacher une arme collée. On peut dissoudre la substance adhésive à l'aide d'un alcool fort ou de solvant universel, ce qui n'empêche pas le mimique de tenter d'[agripper](./../Pathfinder-RPG/Agrippé.md) ses adversaires en employant la méthode normale. Les mimiques peuvent dissoudre leur substance adhésive à volonté. En l'absence d'intervention extérieure, la substance adhésive perd son efficacité 5 rounds après la mort du mimique. Le [DD](./../Pathfinder-RPG/DD.md) des [jets de sauvegarde](./../Pathfinder-RPG/jet de sauvegarde.md) dépend de la [Force](./../Pathfinder-RPG/Force.md).}
+{s:BDTexte|**Imitation d'objets (Ext).** Un mimique peut prendre la forme de n'importe quel objet de [[Pathfinder-RPG.taille|taille]] M (un gros coffre, un lit robuste ou une porte par exemple) mais il ne peut pas modifier sa taille de manière significative. Quelle que soit son apparence, le corps d'un mimique est dur et d'une texture rugueuse. Les mimiques bénéficient d'un bonus racial de +20 sur les tests de [[Pathfinder-RPG.Déguisement|Déguisement]] visant à imiter un objet. [[Pathfinder-RPG.Déguisement|Déguisement]] est toujours une compétence de classe pour les mimiques.}
+{s:BDTexte|**Substance adhésive (Ext).** Les mimiques sécrètent un mucus épais qui possède de fortes propriétés adhésives et leur permet de retenir toutes les créatures et les objets qu'ils touchent. Les créatures touchées par l'attaque de coup d'un mimique recouvert de mucus adhésif sont automatiquement [[Pathfinder-RPG.agrippé|agrippées]]. Tant que le mimique est en vie, les adversaires ainsi agrippés ne peuvent pas se libérer à moins de d'abord neutraliser la substance adhésive. Les armes qui frappent les mimiques couverts de substance adhésive restent également collées, à moins que l'individu qui les manie ne réussisse un jet de Réflexes de DD 17. Un test de Force de DD 17 est nécessaire pour détacher une arme collée. On peut dissoudre la substance adhésive à l'aide d'un alcool fort ou de solvant universel, ce qui n'empêche pas le mimique de tenter d'[[Pathfinder-RPG.agrippé|agripper]] ses adversaires en employant la méthode normale. Les mimiques peuvent dissoudre leur substance adhésive à volonté. En l'absence d'intervention extérieure, la substance adhésive perd son efficacité 5 rounds après la mort du mimique. Le [[Pathfinder-RPG.DD|DD]] des [[Pathfinder-RPG.jet de sauvegarde|jets de sauvegarde]] dépend de la [[Force]].}
 </div>
 </td><td><div>*Ce qui semblait être une simple statue de femme en armure, ou un autel en albâtre rutilant s’anime tout à coup, faisant apparaître de longues tentacules luisantes et des dents acérées.*
 

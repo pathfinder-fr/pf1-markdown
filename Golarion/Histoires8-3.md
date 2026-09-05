@@ -4,8 +4,8 @@ Title: En haut des cuisines
 LastModified: 2021-05-24 19:50
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du [troisième chapitre](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lbql) de la nouvelle "Les canons de l'Alkenastre" de Ed Greenwood. Illustration de Colby Stevenson.*
 
 On entendait les cris des gardes maintenant. Des cris qui se rapprochaient rapidement.

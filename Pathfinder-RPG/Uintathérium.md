@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Marais|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.181*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Animal](./type Animal.md) de taille G, N}
-{s:BDTexte|**Init** +0 ; **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +20}
+{s:BDTexte|[[type Animal|Animal]] de taille G, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +20}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 9, pris au dépourvu 20 (naturelle +11, taille -1)}
 {s:BDTexte|**pv** 95 (10d8+50)}
@@ -26,8 +26,8 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 30, **Dex** 10, **Con** 21, **Int** 1, **Sag** 13, **Cha** 3}
 {s:BDTexte|**BBA** +7 ; **BMO** +18 ; **DMD** 28 (32 contre les crocs-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Dur à cuire](./Dur à cuire.md), [Frappe décisive](./Frappe décisive.md), [Talent](./Talent.md) (Perception), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +20}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Dur à cuire]], [[Frappe décisive]], [[Talent]] (Perception), [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Perception]] +20}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** marais tempérés}
 {s:BDTexte|**Organisation** solitaire, paire ou troupeau (3-12)}
@@ -39,29 +39,29 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Archelon](./Archelon.md) || 5
+| [[Archelon]] || 5
 |-
-| [Arsinoithérium](./Arsinoithérium.md) || 7
+| [[Arsinoithérium]] || 7
 |-
-| [Baluchithérium](./Baluchithérium.md) || 8
+| [[Baluchithérium]] || 8
 |-
-| [Basilosaure](./Basilosaure.md) || 12
+| [[Basilosaure]] || 12
 |-
-| [Chalicothérium](./Chalicothérium.md) || 6
+| [[Chalicothérium]] || 6
 |-
-| [Glyptodonte](./Glyptodonte.md) || 6
+| [[Glyptodonte]] || 6
 |-
-| [Kaprosuchus](./Kaprosuchus.md) || 5
+| [[Kaprosuchus]] || 5
 |-
-| [Mégalania](./Mégalania.md) || 7
+| [[Mégalania]] || 7
 |-
-| [Mégalocéros](./Mégalocéros.md) || 4
+| [[Mégalocéros]] || 4
 |-
-| [Mégathérium](./Mégathérium.md) || 5
+| [[Mégathérium]] || 5
 |-
-| [Moa](./Moa.md) || 2
+| [[Moa]] || 2
 |-
-| [Uintathérium](./Uintathérium.md) || 7
+| [[Uintathérium]] || 7
 |}
 </div>*Cette grande créature a des airs de rhinocéros, mais est affublée de longs crocs comme ceux d’un tigre à dents de sabre et de petites crêtes ressemblant à des cornes.*
 
@@ -71,8 +71,8 @@ Malgré son gros crâne formidablement protégé, le cerveau des uintathériums 
 
 Les uintathériums mesurent près de 1,80 mètre au garrot et pèsent plus de 2 tonnes.
 
-#### L'uintathérium comme [compagnon animal](./liste des compagnons animaux.md)
-**Caractéristiques de départ :** **Taille** M ; **Vitesse** 9 m ; **CA** naturelle +4 ; **Attaque** morsure (1d8) ; **Caractéristiques** For 14, Dex 12, Con 17, Int 1, Sag 13, Cha 3 ; **Particularités** [odorat](./Odorat (capacité).md)
+#### L'uintathérium comme [[Liste des compagnons animaux|compagnon animal]]
+**Caractéristiques de départ :** **Taille** M ; **Vitesse** 9 m ; **CA** naturelle +4 ; **Attaque** morsure (1d8) ; **Caractéristiques** For 14, Dex 12, Con 17, Int 1, Sag 13, Cha 3 ; **Particularités** [[Odorat (capacité)|odorat]]
 
 **Développement au niveau 7 :** **Taille** G ; **CA** armure naturelle +3 ; **Attaque** morsure (2d6) ; **Caractéristiques** For +8, Dex -2, Con +4
 </div></td></tr></table>

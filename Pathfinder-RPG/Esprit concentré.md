@@ -6,6 +6,6 @@ LastModified: 2017-11-30 20:47
 
 {s:AO}*Le personnage a développé un lien étroit avec une légende particulière, ce qui renforce les esprits qu’il canalise.*
 
-**Conditions.** Pouvoir de classe [bonus spirituel](./Médium.md#BONUSSPIRITUEL).
+**Conditions.** Pouvoir de classe [[médium#BONUSSPIRITUEL|bonus spirituel]].
 
-**Avantage.** Le personnage choisit une légende des esprits. Son [bonus spirituel](./Médium.md#BONUSSPIRITUEL) augmente de +1 vis-à-vis des esprits de cette légende.
+**Avantage.** Le personnage choisit une légende des esprits. Son [[médium#BONUSSPIRITUEL|bonus spirituel]] augmente de +1 vis-à-vis des esprits de cette légende.

@@ -9,17 +9,17 @@ Categories:
 
 *Le personnage peut faire des attaques d’opportunité supplémentaires.*
 
-**Catégorie** : [combat](./Dons.md#DONCOMBAT)
+**Catégorie** : [[Dons#DONCOMBAT|combat]]
 
-**Avantage.** À chaque [round](./round.md), le personnage a droit à un nombre d’[attaques d’opportunité](./attaque dopportunité.md) supplémentaires égal à son [bonus](./bonus.md) de [Dextérité](./Dextérité.md). Le personnage peut faire une [attaque d’opportunité](./attaque dopportunité.md) même s’il est [pris au dépourvu](./Pris au dépourvu.md).
+**Avantage.** À chaque [[round]], le personnage a droit à un nombre d’[[attaque dopportunité|attaques d’opportunité]] supplémentaires égal à son [[bonus]] de [[Dextérité]]. Le personnage peut faire une [[attaque dopportunité|attaque d’opportunité]] même s’il est [[pris au dépourvu]].
 
-**Normal.** Un personnage ne possédant pas ce don n’a droit qu’à une [attaque d’opportunité](./Valeurs de combat.md#ATTAQUEDOPPORTUNITE) par [round](./round.md) et il ne peut pas le faire s’il est [pris au dépourvu](./Pris au dépourvu.md).
+**Normal.** Un personnage ne possédant pas ce don n’a droit qu’à une [[Valeurs de combat#ATTAQUEDOPPORTUNITE|attaque d’opportunité]] par [[round]] et il ne peut pas le faire s’il est [[pris au dépourvu]].
 
-**Spécial.** Ce don ne permet pas à un [roublard](./Roublard.md) d’utiliser son pouvoir spécial d’[opportunisme](./Talents.md) plus d’une fois par [round](./round.md).
+**Spécial.** Ce don ne permet pas à un [[roublard]] d’utiliser son pouvoir spécial d’[[Talents|opportunisme]] plus d’une fois par [[round]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage rate une [attaque d’opportunité](./AO.md), il peut dépenser 5 points d’endurance pour porter une seconde attaque contre la cible ayant provoquée la première. Cette deuxième attaque d’opportunité s’accompagne d’un malus de –5 au [jet d’attaque](./jet dattaque.md) et lui coûte une attaque d’opportunité pour le [round](./round.md).
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage rate une [[AO|attaque d’opportunité]], il peut dépenser 5 points d’endurance pour porter une seconde attaque contre la cible ayant provoquée la première. Cette deuxième attaque d’opportunité s’accompagne d’un malus de –5 au [[jet dattaque|jet d’attaque]] et lui coûte une attaque d’opportunité pour le [[round]].
 
 {s:CMy}
 ### Version mythique
@@ -27,4 +27,4 @@ Quand le personnage rate une [attaque d’opportunité](./AO.md), il peut dépen
 
 **Condition.** Attaques réflexes
 
-**Avantage.** Le personnage peut réaliser n'importe quel nombre d’attaques d’opportunité chaque round. Par une [action rapide](./Action rapide.md), il peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour effectuer jusqu’au début de son prochain tour des attaques d’opportunité contre des adversaires qu’il a déjà attaqués au cours du round si ceux-ci provoquent des attaques d’opportunité de sa part en se déplaçant.
+**Avantage.** Le personnage peut réaliser n'importe quel nombre d’attaques d’opportunité chaque round. Par une [[action rapide]], il peut dépenser une utilisation de [[pouvoir mythique]] pour effectuer jusqu’au début de son prochain tour des attaques d’opportunité contre des adversaires qu’il a déjà attaqués au cours du round si ceux-ci provoquent des attaques d’opportunité de sa part en se déplaçant.

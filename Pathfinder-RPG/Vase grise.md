@@ -13,17 +13,17 @@ Categories:
 {s:pucem|Vase|Marais|Froid}
 {s:BDTexte|*Source : Bestiaire* p.281}
 {s:BDTexte|**XP** 1.200}
-{s:BDTexte|[Vase](./type Vase.md) de taille M, N}
-{s:BDTexte|**Init** -5 ; **Sens** [vision aveugle](./vision aveugle.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] de taille M, N}
+{s:BDTexte|**Init** -5 ; **Sens** [[vision aveugle]] 18 m (12 {s:c}) ; [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 5, contact 5, pris au dépourvu 5 (Dex -5)}
 {s:BDTexte|**pv** 50 (4d8+32)}
 {s:BDTexte|**Réf** -4, **Vig** +9, **Vol** -4}
-{s:BDTexte|**Capacités défensives** [traits des vases](./type Vase.md) ; **Immunités** feu, froid }
+{s:BDTexte|**Capacités défensives** [[type vase|traits des vases]] ; **Immunités** feu, froid }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 3 m (2 {s:c})}
-{s:BDTexte|**Corps à corps** coup +6 (1d6+4 et 1d6 acide et [étreinte](./Étreinte.md))}
-{s:BDTexte|**Attaques spéciales** acide, [constriction](./constriction.md) (1d6+1 et 1d6 acide)}
+{s:BDTexte|**Corps à corps** coup +6 (1d6+4 et 1d6 acide et [[étreinte]])}
+{s:BDTexte|**Attaques spéciales** acide, [[constriction]] (1d6+1 et 1d6 acide)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 1, **Con** 26, **Int** -, **Sag** 1, **Cha** 1}
 {s:BDTexte|**BBA** +3, **BMO** +6 (+10 pour la lutte), **DMD** 11 (croc-en-jambe impossible)}
@@ -33,8 +33,8 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Acide (Ext)** Les acides digestifs qui recouvrent les vases grises dissolvent les métaux et les matières organiques, mais pas la pierre. Leurs attaques de coup et de [constriction](./constriction.md) infligent 1d6 points de dégâts d'acide supplémentaires. Les armures et les vêtements des créatures [agrippées](./Agrippé.md) par les vases grises subissent la même quantité de dégâts, à moins qu'elles ne réussissent un jet de [Réflexes](./Réflexes.md) de [DD](./DD.md) 20. Les armes en bois ou en métal qui frappent une vase grise subissent 1d6 points de dégâts d'acide, à moins que la créature qui les manipule ne réussisse un jet de [Réflexes](./Réflexes.md) de DD 20. En touchant un objet en métal ou en bois, une vase grise peut lui infliger 12 points de dégâts d'acide par round, mais elle doit rester en contact avec l'objet pendant 1 round entier pour lui causer ces dégâts. Les DD des [jets de sauvegarde](./jet de sauvegarde.md) dépendent de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Transparent (Ext)** Les vases grises, dénuées de couleurs vives, sont difficiles à distinguer dans la plupart des environnements. Il faut réussir un test de de [Perception](./Perception.md) de DD 15 pour les repérer. Les créatures qui marchent dans une vase grise qu'elles n'ont pas remarquée subissent automatiquement les mêmes dégâts que si elles avaient été frappées par la vase et cette dernière peut tenter de les [agripper](./Agrippé.md) sur le champ.}
+{s:BDTexte|**Acide (Ext)** Les acides digestifs qui recouvrent les vases grises dissolvent les métaux et les matières organiques, mais pas la pierre. Leurs attaques de coup et de [[constriction]] infligent 1d6 points de dégâts d'acide supplémentaires. Les armures et les vêtements des créatures [[agrippé|agrippées]] par les vases grises subissent la même quantité de dégâts, à moins qu'elles ne réussissent un jet de [[Réflexes]] de [[DD]] 20. Les armes en bois ou en métal qui frappent une vase grise subissent 1d6 points de dégâts d'acide, à moins que la créature qui les manipule ne réussisse un jet de [[Réflexes]] de DD 20. En touchant un objet en métal ou en bois, une vase grise peut lui infliger 12 points de dégâts d'acide par round, mais elle doit rester en contact avec l'objet pendant 1 round entier pour lui causer ces dégâts. Les DD des [[jet de sauvegarde|jets de sauvegarde]] dépendent de la [[Constitution]].}
+{s:BDTexte|**Transparent (Ext)** Les vases grises, dénuées de couleurs vives, sont difficiles à distinguer dans la plupart des environnements. Il faut réussir un test de de [[Perception]] de DD 15 pour les repérer. Les créatures qui marchent dans une vase grise qu'elles n'ont pas remarquée subissent automatiquement les mêmes dégâts que si elles avaient été frappées par la vase et cette dernière peut tenter de les [[agrippé|agripper]] sur le champ.}
 </div>
 </td><td><div>''Un pseudopode jaillit tout à coup de ce qui semblait être une simple
 flaque, une dalle humide ou un rocher glissant.''

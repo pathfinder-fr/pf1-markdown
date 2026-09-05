@@ -5,4 +5,4 @@ LastModified: 2011-05-28 17:29
 RedirectTo: Golarion.Achaékek
 ---
 
->>> [Golarion.Achaékek](./Achaékek.md)
+>>> [[Golarion.Achaékek]]

@@ -6,12 +6,12 @@ Categories:
 - Sort sorcière 7
 ---
 
-{s:MCA}**École** [Illusion](./Illusion.md) ([ombre](./branche ombre.md)) ; **Niveau** [Sor](./Sorcière.md) 7
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (une petite réplique du personnage (5 po))
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))
+{s:MCA}**École** [[Illusion]] ([[branche ombre|ombre]]) ; **Niveau** [[Sorcière|Sor]] 7
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (une petite réplique du personnage (5 po))
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])
 **Effet** 1 sosie d’ombre
-**Durée** 1 [round](./round.md)/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
-**Jet de sauvegarde** [Volonté](./Volonté.md), [dévoile](./Présentation des sorts.md#JETSDESAUVEGARDE) (en cas d’interaction) ; **Résistance à la magie** non
+**Durée** 1 [[round]]/[[niveau]] ([[Présentation des sorts#DUREE|T]])
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|dévoile]] (en cas d’interaction) ; **Résistance à la magie** non
 ---
-Ce sort fonctionne comme *[projection d'image](./Projection dimage.md)*, à la seule différence que l’image apparaît dans la case du [familier](./familier.md) du personnage et se déplace en même temps que ce familier.
+Ce sort fonctionne comme *[[projection dimage|projection d'image]]*, à la seule différence que l’image apparaît dans la case du [[familier]] du personnage et se déplace en même temps que ce familier.

@@ -14,18 +14,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Alch](./Alchimiste.md) 1, [Dru](./Druide.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [San](./Sanguin.md) 1  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ;** Niveau** [[Alchimiste|Alch]] 1, [[Druide|Dru]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Sanguin|San]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un morceau de granite)  
+**Composantes** [[Composantes|V, G, M]] (un morceau de granite)  
 
-**Portée** [personnelle](./personnelle.md)  
+**Portée** [[personnelle]]  
 
 **Cible** lanceur de sorts  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)
+**Durée** 1 minute/[[niveau]] (T)
 
-Ce sort transforme les mains du personnage en pierres vivantes. Tant que le sort fait effet, ses attaques à mains nues ne provoquent pas d'[attaques d'opportunité](./attaque dopportunité.md) et infligent 1d6 points de [dégâts contondants létaux](./Dégâts létaux.md) (1d4 si le personnage est de taille P). De plus, ses attaques à mains nues ignorent toute [solidité](./solidité.md) inférieure à 8 sur un objet.
+Ce sort transforme les mains du personnage en pierres vivantes. Tant que le sort fait effet, ses attaques à mains nues ne provoquent pas d'[[attaque dopportunité|attaques d'opportunité]] et infligent 1d6 points de [[dégâts létaux|dégâts contondants létaux]] (1d4 si le personnage est de taille P). De plus, ses attaques à mains nues ignorent toute [[solidité]] inférieure à 8 sur un objet.
 
-*[Transmutation de la pierre en chair](./Transmutation de la pierre en chair.md)* annule immédiatement *poing de pierre.* Si le personnage est affecté par une *[Transmutation de la pierre en boue](./Transmutation de la pierre en boue.md)*, *poing de pierre* se dissipe instantanément et le personnage subit 4d6 points de dégâts.
+*[[Transmutation de la pierre en chair]]* annule immédiatement *poing de pierre.* Si le personnage est affecté par une *[[Transmutation de la pierre en boue]]*, *poing de pierre* se dissipe instantanément et le personnage subit 4d6 points de dégâts.

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#TOTEMFIELONMAJEUR
 ---
 
->>> [pouvoirs de rage#TOTEMFIELONMAJEUR](./Pouvoirs de rage.md#TOTEMFIELONMAJEUR)
+>>> [[pouvoirs de rage#TOTEMFIELONMAJEUR]]

@@ -13,20 +13,20 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) ;** Niveau** [Alch](./Alchimiste.md) 1, [Dru](./Druide.md) 1, [Occ](./Occultiste.md) 1, [Rôd](./Rôdeur.md) 1  
+**École** [[Transmutation]] ;** Niveau** [[Alchimiste|Alch]] 1, [[Druide|Dru]] 1, [[Occultiste|Occ]] 1, [[Rôdeur|Rôd]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (une pincée d'alun)  
+**Composantes** [[Composantes|V, G, M/FD]] (une pincée d'alun)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** une créature ou un objet touché/[niveau](./niveau.md)  
+**Cible** une créature ou un objet touché/[[niveau]]  
 
-**Durée** 1 heure/[niveau](./niveau.md) (T)  
+**Durée** 1 heure/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-D'un geste, ce sort permet au personnage de réduire à néant toutes les odeurs, même les plus ignobles ou les plus reconnaissables. Quand le personnage le lance, les créatures ou les objets choisis perdent toute odeur, naturelle ou autre. Il est impossible de traquer ou de localiser une créature sous l'effet de *négation de l'arôme* à l'aide du pouvoir [odorat](./odorat.md). De plus, ce sort empêche la cible d'utiliser le pouvoir [puanteur](./Puanteur.md) ou d'autres aptitudes similaires basées sur les odeurs (comme celles que possèdent les [troglodytes](./Troglodyte.md)).
+D'un geste, ce sort permet au personnage de réduire à néant toutes les odeurs, même les plus ignobles ou les plus reconnaissables. Quand le personnage le lance, les créatures ou les objets choisis perdent toute odeur, naturelle ou autre. Il est impossible de traquer ou de localiser une créature sous l'effet de *négation de l'arôme* à l'aide du pouvoir [[odorat]]. De plus, ce sort empêche la cible d'utiliser le pouvoir [[puanteur]] ou d'autres aptitudes similaires basées sur les odeurs (comme celles que possèdent les [[troglodyte|troglodytes]]).
 
 *Négation de l'arôme* n'empêche pas la cible de se faire imprégner par une odeur extérieure. Si elle se plonge dans une substance au parfum puissant, les effets du sort sont annulés jusqu'à ce qu'elle se débarrasse de cette substance ou la neutralise.

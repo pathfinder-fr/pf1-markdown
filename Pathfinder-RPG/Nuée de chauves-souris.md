@@ -14,30 +14,30 @@ Categories:
 {s:pucem|Animal|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire p.40*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Animal](./type Animal.md) ([nuée](./sous-type nuée.md)) de taille Min, N}
-{s:BDTexte|**Init** +2 ; **Sens** [perception aveugle](./perception aveugle.md) 6 m (4 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Animal|Animal]] ([[sous-type nuée|nuée]]) de taille Min, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[perception aveugle]] 6 m (4 {s:c}), [[vision nocturne]] ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 16, pris au dépourvu 14 (Dex +2, taille +4)}
 {s:BDTexte|**pv** 13 (3d8)}
 {s:BDTexte|**Réf** +7, **Vig** +3, **Vol** +3}
-{s:BDTexte|**Capacités défensives** [traits des nuées](./traits des nuées.md) ; **Immunités** dégâts des armes}
+{s:BDTexte|**Capacités défensives** [[traits des nuées]] ; **Immunités** dégâts des armes}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 1,50 m (1 {s:c}), vol 12 m (8 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** nuée (1d6)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 0 m}
-{s:BDTexte|**Attaques spéciales** [distraction](./Distraction.md) (DD 11), hémorragie}
+{s:BDTexte|**Attaques spéciales** [[distraction]] (DD 11), hémorragie}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 15, **Con** 11, **Int** 2, **Sag** 14, **Cha** 4}
 {s:BDTexte|**BBA** +2, **BMO** -, **DMD** -}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +15, [Vol](./Vol.md) +12 ; **Modificateurs raciaux** [Perception](./Perception.md) +4 avec la [perception aveugle](./perception aveugle.md)}
-{s:BDTexte|**Particularités** [traits des nuées](./traits des nuées.md)}
+{s:BDTexte|**Dons** [[Réflexes surhumains]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Perception]] +15, [[Vol]] +12 ; **Modificateurs raciaux** [[Perception]] +4 avec la [[perception aveugle]]}
+{s:BDTexte|**Particularités** [[traits des nuées]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** climats tempérés ou tropicaux}
 {s:BDTexte|**Organisation sociale** solitaire, couple, vol (3-6 nuées) ou colonie (11-20 nuées)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Hémorragie (Ext).** Les créatures vivantes blessées par une nuée de chauves-souris continuent de saigner par la suite et perdent 1 [pv](./pv.md) par round. Cette quantité n'augmente pas même si elles sont blessées à nouveau. On peut arrêter l'hémorragie avec un test de [Premiers secours](./Premiers secours.md) de [DD](./DD.md) 10, un sort de soin ou un autre effet magique de guérison.}
+{s:BDTexte|**Hémorragie (Ext).** Les créatures vivantes blessées par une nuée de chauves-souris continuent de saigner par la suite et perdent 1 [[pv]] par round. Cette quantité n'augmente pas même si elles sont blessées à nouveau. On peut arrêter l'hémorragie avec un test de [[Premiers secours]] de [[DD]] 10, un sort de soin ou un autre effet magique de guérison.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -45,15 +45,15 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| Familier, [Chauve-souris](./Chauve-souris.md) || 1/8
+| Familier, [[Chauve-souris]] || 1/8
 |-
-| [Chauve-souris sanguinaire](./Chauve-souris sanguinaire.md) || 2
+| [[Chauve-souris sanguinaire]] || 2
 |-
-| [Mobat](./Mobat.md) || 3
+| [[Mobat]] || 3
 |-
-| [Nuée de chauves-souris](./Nuée de chauves-souris.md) || 2
+| [[Nuée de chauves-souris]] || 2
 |-
-| [Skaveling](./Skaveling.md) || 5
+| [[Skaveling]] || 5
 |}
 </div>*Des centaines de petits cris aigus remplissent l’air et une masse compacte de chauves-souris carnivores assoiffées de sang apparaît.*
 

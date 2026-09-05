@@ -12,26 +12,26 @@ Categories:
 - Sort spirite 6
 ---
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Cham](./Chaman.md) 7, [Inq](./Inquisiteur.md) 6, [Occ](./Occultiste.md) 6, [Prê](./Prêtre.md) 6, [Sor](./Sorcière.md) 7, [Spi](./Spirite.md) 6  
+**École** [[Nécromancie]] ; **Niveau** [[Chaman|Cham]] 7, [[Inquisiteur|Inq]] 6, [[Occultiste|Occ]] 6, [[Prêtre|Prê]] 6, [[Sorcière|Sor]] 7, [[Spirite|Spi]] 6  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [1/2 dégâts](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]] (voir description) ; **Résistance à la magie** oui
 
-Ce sort projette une grande quantité d’énergie négative vers la cible, qui subit 10 points de dégâts par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) (pour un maximum de 150 points au niveau 15). Si la créature réussit son [jet de sauvegarde](./jet de sauvegarde.md), *mise à mal* lui inflige des dégâts diminués de moitié. Que le [jet de sauvegarde](./jet de sauvegarde.md) soit réussi ou pas, ce sort ne saurait réduire les [points de vie](./points de vie.md) de la cible à moins de 1.
+Ce sort projette une grande quantité d’énergie négative vers la cible, qui subit 10 points de dégâts par [[niveau de lanceur de sorts]] (pour un maximum de 150 points au niveau 15). Si la créature réussit son [[jet de sauvegarde]], *mise à mal* lui inflige des dégâts diminués de moitié. Que le [[jet de sauvegarde]] soit réussi ou pas, ce sort ne saurait réduire les [[points de vie]] de la cible à moins de 1.
 
-Sur un [mort-vivant](./type Mort-vivant.md), *mise à mal* a l’effet de *[guérison suprême](./Guérison suprême.md)*.
+Sur un [[type mort-vivant|mort-vivant]], *mise à mal* a l’effet de *[[guérison suprême]]*.
 
 ### Mythique
 {s:CMy}
-Les dégâts infligés s’élèvent à 15 points de dégâts par [niveau de lanceur de sorts](./NLS.md) (225 points maximum).
+Les dégâts infligés s’élèvent à 15 points de dégâts par [[NLS|niveau de lanceur de sorts]] (225 points maximum).
 
-**[Amplifié](./Amplifié.md).** Si le personnage dépense deux utilisations de [pouvoir mythique](./pouvoir mythique.md), le sort fonctionne également comme un empoisonnement.
+**[[Amplifié]].** Si le personnage dépense deux utilisations de [[pouvoir mythique]], le sort fonctionne également comme un empoisonnement.

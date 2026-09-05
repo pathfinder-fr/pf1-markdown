@@ -10,8 +10,8 @@ Categories:
 
 {s:cs}{s:ISG}*Vous considérez la destruction de tous les obstacles comme un devoir sacré.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./Force.md) 17, suivant de [Rovagug](./Rovagug (technique).md).
+**Conditions.** [[Force|For]] 17, suivant de [[Rovagug (technique)|Rovagug]].
 
-**Avantage.** Le personnage gagne un bonus de +2 aux tests de [Force](./Force.md) pour briser les portes, les murs, les digues et autres barrières ainsi qu'aux tests de [BMO](./BMO.md) effectués pour [bousculer](./bousculade.md) et [renverser](./renversement.md) des adversaires. Le personnage ignore les 5 premiers points de [solidité](./solidité.md) lorsqu'il inflige des dégâts à des portes, des murs, des digues et autres barrières.
+**Avantage.** Le personnage gagne un bonus de +2 aux tests de [[Force]] pour briser les portes, les murs, les digues et autres barrières ainsi qu'aux tests de [[BMO]] effectués pour [[bousculade|bousculer]] et [[renversement|renverser]] des adversaires. Le personnage ignore les 5 premiers points de [[solidité]] lorsqu'il inflige des dégâts à des portes, des murs, des digues et autres barrières.

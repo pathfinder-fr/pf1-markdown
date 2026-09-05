@@ -10,14 +10,14 @@ Suite à un accord avec BBE, il est possible de reprendre une partie du texte en
 
 #### Les classes de prestige du cadre de campagne
 - Les classes sont à insérer en respectant l'ogl (il ne faut pas utiliser de nom protégé et garder uniquement la mécanique)
-[Assassin des mantes rouges](./Assassin des mantes rouges.md) affiché sous le nom Assassin pourpre
-[Chevalier infernal](./Chevalier infernal.md) affiché sous le nom Légionnaire infernal
-[Liseuse de tourment](./Liseuse de tourment.md) affiché sous le nom Voyante
-[Templier déchu](./Templier déchu.md) affiché sous le nom de Templier parjure
+[[Assassin des mantes rouges]] affiché sous le nom Assassin pourpre
+[[Chevalier infernal]] affiché sous le nom Légionnaire infernal
+[[Liseuse de tourment]] affiché sous le nom Voyante
+[[Templier déchu]] affiché sous le nom de Templier parjure
 
 #### Les dons du cadre de campagne
-- ~~[texte des dons du cadre de campagne](./texte des dons du cadre de campagne.md)~~ page à supprimer
-- [dons issus du cadre de campagne](./dons issus du cadre de campagne.md)
+- ~~[[texte des dons du cadre de campagne]]~~ page à supprimer
+- [[dons issus du cadre de campagne]]
 
 #### L'équipement
 épée de duel aldori à intégrer sous le nom épée de duel et à retraduire à partir de l'anglais (modifie la liste des armes pour le don attaque en finesse)

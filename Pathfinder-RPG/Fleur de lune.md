@@ -14,25 +14,25 @@ Categories:
 {s:pucem|Plante|Plaines|Tempéré}
 - *Source : Bestiaire 2* p.135
 - **PX** 4.800
-- [Plante](./type Plante.md) de taille TG, N
-- **Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +9
+- [[type Plante|Plante]] de taille TG, N
+- **Init** +4 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +9
 (((Défense)))
 - **CA** 21, contact 8, pris au dépourvu 21 (naturelle +13, taille -2)
 - **pv** 104 (11d8+55) ; guérison accélérée 5
 - **Réf** +3, **Vig** +12, **Vol** +4
-- **Immunités** électricité, [traits des plantes](./Traits des plantes.md) ; **RD** 10/tranchant ; **Résistances** froid 10
+- **Immunités** électricité, [[traits des plantes]] ; **RD** 10/tranchant ; **Résistances** froid 10
 - **Faiblesses** vulnérable au feu
 (((Attaque)))
 - **VD** 6 m (4 {s:c})
-- **Corps à corps** morsure, +15 (2d6+9 plus [étreinte](./Étreinte.md)) et 2 tentacules, +13 (1d8+4)
+- **Corps à corps** morsure, +15 (2d6+9 plus [[étreinte]]) et 2 tentacules, +13 (1d8+4)
 - **Espace** 4,50 m ; **Allonge** 4,50 m
 - **Attaques spéciales** cocon prison, pulsation lumineuse
 (((Caractéristiques)))
 - **For** 28, **Dex** 10, **Con** 21, **Int** 5, **Sag** 12, **Cha** 17
 - **BBA** +8, **BMO** +19 (+23 lutte), **DMD** 29 (croc-en-jambe impossible)
-- **Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Combat en aveugle](./Combat en aveugle.md), [Science de la destruction](./Science de la destruction.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))
-- **Compétences** [Discrétion](./Discrétion.md) +4 (+20 parmi une végétation dense), [Perception](./Perception.md) +9 ; **Modificateurs raciaux** +16 en [Discrétion](./Discrétion.md) parmi une végétation dense
-- **Langues** [télépathie](./Télépathie.md) (1,5 km, avec d’autres fleurs de lune uniquement)
+- **Dons** [[Attaque en puissance]], [[Attaques multiples]], [[Combat en aveugle]], [[Science de la destruction]], [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Discrétion]])
+- **Compétences** [[Discrétion]] +4 (+20 parmi une végétation dense), [[Perception]] +9 ; **Modificateurs raciaux** +16 en [[Discrétion]] parmi une végétation dense
+- **Langues** [[télépathie]] (1,5 km, avec d’autres fleurs de lune uniquement)
 - **Particularités** rejeton
 (((Écologie)))
 - **Environnement** terre ferme
@@ -52,7 +52,7 @@ On n’a jamais rapporté de situation où une fleur de lune aurait communiqué 
 
 #### La Plante carnivore comme compagnon végétal
 
-**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m (6 {s:c}), escalade 3 m (2 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 10, Dex 17, Con 15, Int 2, Sag 12, Cha 10 ; **Particularités** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ.** **Taille** P ; **Vitesse** 9 m (6 {s:c}), escalade 3 m (2 {s:c}) ; **CA** armure naturelle +2 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 10, Dex 17, Con 15, Int 2, Sag 12, Cha 10 ; **Particularités** [[odorat]], [[vision nocturne]].
 
-**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (2d6) ; **Attaque spéciale**  [rage de berseker](./Barbare.md#RAGEDEBERSERKER) (1/jour comme le pouvoir de [barbare](./Barbare.md) pendant 6 rounds) ; **Caractéristiques** For +4, Dex -2, Con +2.
+**Développement au niveau 4.** **Taille** M ; **Attaque** morsure (2d6) ; **Attaque spéciale**  [[barbare#RAGEDEBERSERKER|rage de berseker]] (1/jour comme le pouvoir de [[barbare]] pendant 6 rounds) ; **Caractéristiques** For +4, Dex -2, Con +2.
 </div></td></tr></table>

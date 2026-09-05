@@ -10,8 +10,8 @@ LastModified: 2026-08-02 06:22
 {s:pucem|Animal|Jungle|Chaud}
 {s:BDTexte|*Source : Ultimate Wilderness*}
 {s:BDTexte|**PX** 50}
-{s:BDTexte|[Animal](./type Animal.md) de taille TP, N}
-{s:BDTexte|**Init** +1 ; **Sens** [Vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +3}
+{s:BDTexte|[[type Animal|Animal]] de taille TP, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Vision nocturne]] ; [[Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 13, contact 13, pris au dépourvu 12 (Dex +1, taille +2)}
 {s:BDTexte|**pv** 4 (1d8)}
@@ -23,8 +23,8 @@ LastModified: 2026-08-02 06:22
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 3, **Dex** 13, **Con** 10, **Int** 2, **Sag** 8, **Cha** 12}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 5}
-{s:BDTexte|**Dons** [Réflexes surhumains](./Réflexes surhumains.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +3, [Escalade](./Escalade.md) +4}
+{s:BDTexte|**Dons** [[Réflexes surhumains]]}
+{s:BDTexte|**Compétences** [[Perception]] +3, [[Escalade]] +4}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Jungles chaudes}
 {s:BDTexte|**Organisation sociale** solitaire, paire, ou famille (3-4)}

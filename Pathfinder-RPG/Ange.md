@@ -15,26 +15,26 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Balisse](./Balisse.md) || 8
+| [[Balisse]] || 8
 |-
-| [Cassisien](./Cassisien.md) || 2
+| [[Cassisien]] || 2
 |-
-| [Choral](./Choral.md) || 6
+| [[Choral]] || 6
 |-
-| [Déva astral](./Déva astral.md) || 14
+| [[Déva astral]] || 14
 |-
-| [Déva monadique](./Déva monadique.md) || 12
+| [[Déva monadique]] || 12
 |-
-| [Déva movanique](./Déva movanique.md) || 10
+| [[Déva movanique]] || 10
 |-
-| [Empyréen](./Empyréen.md) || 20
+| [[Empyréen]] || 20
 |-
-| [Planétar](./Planétar.md) || 16
+| [[Planétar]] || 16
 |-
-| [Solar](./Solar.md) || 23
+| [[Solar]] || 23
 |}
 </div></div><div class="description">**Source :** Bestiaire p.11.</div>
-*Types/Sous-types associés. [Extérieur](./type Extérieur.md) ([ange](./sous-type ange.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md))*
+*Types/Sous-types associés. [[type Extérieur|Extérieur]] ([[sous-type ange|ange]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]])*
 <nav class="wiki-toc"></nav>
 *Les anges sont une race de créatures célestes, c’est-à-dire de créatures vivant sur les plans d’alignement Bon.*
 
@@ -49,23 +49,23 @@ tâche achevée.
 
 Tous les anges sont extraordinairement beaux, même si leur apparence exacte varie d’un individu à l’autre. Leur capacité naturelle à changer de forme leur permet d’apparaître devant les mortels en tant qu’homme ou femme, en fonction de leurs préférences personnelles et de la volonté de leur dieu. Comme ce sont des entités spirituelles incarnées dans une forme physique plutôt que des êtres de chair nés d’autres créatures, leur sexe est variable : certains anges prennent toujours l’apparence d’un homme, d’autres toujours celle d’une femme, certains utilisent l’une comme l’autre, et d’autres encore préfèrent adopter une apparence androgyne ou asexuée.
 
-Techniquement, le mot « ange » désigne plusieurs types d’anges humanoïdes : les [solars](./Solar.md), les [planétars](./Planétar.md) et les dévas (dont le type le plus commun est le [déva astral](./Déva astral.md), bien que d’autres types
-de dévas existent également). La plupart des mortels utilisent ce terme dans un sens plus large, pour désigner n’importe quelle créature [céleste](./archétypes simples.md#CREATURECELESTE), qu’il s’agisse d’un ange, d’un archon gardien, d’un [azata](./Azata.md) à l’apparence féerique, d’un agathion bestial ou d’une autre créature des plans du Bien. Les anges ne le prennent pas
+Techniquement, le mot « ange » désigne plusieurs types d’anges humanoïdes : les [[solar|solars]], les [[planétar|planétars]] et les dévas (dont le type le plus commun est le [[déva astral]], bien que d’autres types
+de dévas existent également). La plupart des mortels utilisent ce terme dans un sens plus large, pour désigner n’importe quelle créature [[archétypes simples#CREATURECELESTE|céleste]], qu’il s’agisse d’un ange, d’un archon gardien, d’un [[azata]] à l’apparence féerique, d’un agathion bestial ou d’une autre créature des plans du Bien. Les anges ne le prennent pas
 mal : ils ont des choses bien plus importantes à faire que de se mêler de la nomenclature utilisée par les mortels.
 
-Les anges parlent le céleste, le draconique et l’infernal mais peuvent communiquer avec pratiquement n’importe quelle créature grâce à leur capacité de [langage universel](./sous-type ange.md#LANGAGEUNIVERSEL). Tous les anges possèdent certains [traits en commun](./sous-type ange.md). La plupart d’entre eux jouissent également de capacités qui viennent s’ajouter à ces traits et dépendent du rôle que leur divinité leur a assigné. Par exemple, un ange chargé de surveiller des volcans pourra posséder le [sous-type du Feu](./sous-type Feu.md) et le protecteur d’une cité enfouie sous la mer pourrait être [aquatique](./sous-type aquatique.md), [amphibie](./Amphibie.md) et capable d’utiliser ses ailes pour nager.
+Les anges parlent le céleste, le draconique et l’infernal mais peuvent communiquer avec pratiquement n’importe quelle créature grâce à leur capacité de [[sous-type ange#LANGAGEUNIVERSEL|langage universel]]. Tous les anges possèdent certains [[sous-type ange|traits en commun]]. La plupart d’entre eux jouissent également de capacités qui viennent s’ajouter à ces traits et dépendent du rôle que leur divinité leur a assigné. Par exemple, un ange chargé de surveiller des volcans pourra posséder le [[sous-type feu|sous-type du Feu]] et le protecteur d’une cité enfouie sous la mer pourrait être [[sous-type aquatique|aquatique]], [[amphibie]] et capable d’utiliser ses ailes pour nager.
 
 ### Les choeurs angéliques
 Alors qu’il existe des équivalents maléfiques et cruels pour toutes les autres races du Bien, les légions de fiélons ne comportent aucun analogue évident chez la race des anges. De nombreux érudits se sont penchés sur les raisons de cette étrange absence de symétrie entre les Extérieurs du Bien et du Mal. La plupart ont conclu qu’il s’agissait
 simplement d’un exemple pratique de la tendance naturelle du Bien à ne pas se préoccuper des divergences mineures d’alignement pour le bien de tous, mais la véritable raison ne sera peut-être jamais connue.
 
-Comme les anges peuvent appartenir à n’importe quel alignement bon, ils incarnent les besoins et les désirs des trois principales races d’Extérieurs bons. Quelques anges partagent leur énergie entre ces trois races, mais la plupart d’entre eux préfèrent celle qui correspond à leur alignement. Même si l’apparence véritable des anges ne dépend pas de leur alignement, certains d’entre eux utilisent leur capacité de [changement de forme](./Changement de forme (capacité).md) pour ressembler plutôt à un archon, à un agathion ou à un azata en fonction de la situation et de leur personnalité.
+Comme les anges peuvent appartenir à n’importe quel alignement bon, ils incarnent les besoins et les désirs des trois principales races d’Extérieurs bons. Quelques anges partagent leur énergie entre ces trois races, mais la plupart d’entre eux préfèrent celle qui correspond à leur alignement. Même si l’apparence véritable des anges ne dépend pas de leur alignement, certains d’entre eux utilisent leur capacité de [[changement de forme (capacité)|changement de forme]] pour ressembler plutôt à un archon, à un agathion ou à un azata en fonction de la situation et de leur personnalité.
 
 Les anges se répartissent en une hiérarchie connue sous le nom de Triade des choeurs. Les dévas sont les anges les plus nombreux et se déclinent en un grand nombre de spécialités (les dévas astraux présentés plus loin étant simplement les plus connus). Les dévas du troisième choeur possèdent chacun deux ailes. Le second choeur se
 compose exclusivement de planétars à quatre ailes, puis viennent enfin les solars à six ailes, qui sont les dirigeants de la race des anges, les plus grands et les plus puissants d’entre eux pouvant même s’opposer
 directement à la volonté d’un demi-dieu si cela s’avère nécessaire.
 
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./Seigneurs empyréens.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Seigneurs Empyréens]].***</li></ul>
 
 ### Les anges déchus
 Plusieurs religions parlent d’anges qui se sont rebellés contre leur créateur ou laissés gagner par la corruption et le Mal. Seuls les anges dotés d’une fierté démesurée ou d’une faible volonté succombent à ce destin heureusement rare, mais malheureusement possible. Une fois exilés hors des royaumes du Bien et poursuivis par leurs anciens frères, les anges déchus deviennent des proies faciles pour les fiélons. Ils perdent un peu de la grâce et de la lumière qui caractérisent leurs pairs immaculés mais on dit qu’ils possèdent une sorte de beauté tragique. Parfois, un ange déchu suffisamment fort et malin rejoint les légions de l’Enfer et se transforme en diable ou devient un démon des Abysses, puis il se forge une place dans cet horrible royaume ou se met au service d’un démon plus puissant.

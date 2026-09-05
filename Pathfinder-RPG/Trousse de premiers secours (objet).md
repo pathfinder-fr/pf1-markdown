@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 50 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Cet ensemble de bandages et d’herbes fournit un bonus de circonstances de +2 aux tests de [Premiers secours](./Premiers secours.md). Une trousse de premiers secours est épuisée après 10 utilisations.
+Cet ensemble de bandages et d’herbes fournit un bonus de circonstances de +2 aux tests de [[Premiers secours]]. Une trousse de premiers secours est épuisée après 10 utilisations.

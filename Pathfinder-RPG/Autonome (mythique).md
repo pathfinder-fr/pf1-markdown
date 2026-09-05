@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Le personnage est naturellement indépendant et il est passé maître dans l’art de subvenir seul à ses besoins.*
 
-**Condition.** [Autonome](./Autonome.md)
+**Condition.** [[Autonome]]
 
-**Avantage.** Le bonus aux tests de [Premiers secours](./Premiers secours.md) et de [Survie](./Survie.md) conféré par [Aptitude magique](./Aptitude magique.md) augmente de +2. De plus, le personnage peut dépenser une utilisation de [pouvoir mythique](./pouvoir mythique.md) pour considérer qu’il obtient un 20 naturel lorsqu’il effectue l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.
+**Avantage.** Le bonus aux tests de [[Premiers secours]] et de [[Survie]] conféré par [[Aptitude magique]] augmente de +2. De plus, le personnage peut dépenser une utilisation de [[pouvoir mythique]] pour considérer qu’il obtient un 20 naturel lorsqu’il effectue l’un de ces tests. Le personnage doit décider s’il utilise cette aptitude avant de lancer le dé.

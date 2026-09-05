@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Flexible
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Flexible](./Descriptions individuelles des propriétés spéciales des armes.md#Flexible)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Flexible]]

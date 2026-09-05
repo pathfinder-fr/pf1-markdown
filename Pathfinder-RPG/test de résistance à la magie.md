@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Présentation des sorts#RM
 ---
 
->>> [Présentation des sorts#RM](./Présentation des sorts.md#RM)
+>>> [[Présentation des sorts#RM]]

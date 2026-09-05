@@ -14,26 +14,26 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 6, [Cham](./Chaman.md) 8, [Hyp](./Hypnotiseur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8, [Psy](./Psychiste.md) 8, [Sor](./Sorcière.md) 8  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 6, [[Chaman|Cham]] 8, [[Hypnotiseur|Hyp]] 6, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 8, [[Psychiste|Psy]] 8, [[Sorcière|Sor]] 8  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[composantes|V]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature vivante touchée  
 
-**Durée** 1d4+1 [rounds](./round.md)  
+**Durée** 1d4+1 [[round|rounds]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|partiel]] ; **Résistance à la magie** oui
 
-Une irrésistible envie de danser en bougeant les pieds et en tapant des mains assaille le sujet. Il est tellement pris par les multiplie pirouettes et entrechats qu’il ne peut faire quoi que ce soit d’autre. Il reçoit un malus de -4 à la [classe d’armure](./CA.md), un malus de -10 aux jets de [Réflexes](./Réflexes.md) et il ne peut plus utiliser son bouclier pour se protéger. De plus, il provoque des [attaques d’opportunité](./attaque dopportunité.md) chaque [round](./round.md) lors de son tour de jeu. Un jet de [Volonté](./Volonté.md) réussi réduit la durée à 1 [round](./round.md) seulement.
+Une irrésistible envie de danser en bougeant les pieds et en tapant des mains assaille le sujet. Il est tellement pris par les multiplie pirouettes et entrechats qu’il ne peut faire quoi que ce soit d’autre. Il reçoit un malus de -4 à la [[CA|classe d’armure]], un malus de -10 aux jets de [[Réflexes]] et il ne peut plus utiliser son bouclier pour se protéger. De plus, il provoque des [[attaque dopportunité|attaques d’opportunité]] chaque [[round]] lors de son tour de jeu. Un jet de [[Volonté]] réussi réduit la durée à 1 [[round]] seulement.
 
 ### Mythique
 {s:CMy}
 Lorsqu’il lance ce sort, le personnage peut choisir entre deux types de danse : une danse sans fin ou une danse mortelle. Une cible affectée par la danse sans fin doit effectuer un nouveau jet de sauvegarde à la fin de chaque round de danse, même si elle a réussi le jet initial. Si le jet de sauvegarde échoue, la durée du sort augmente d’un round.
 
-Une cible affectée par la danse mortelle est victime d’une souffrance insoutenable qui lui inflige un malus de -4 aux jets d’attaque et de sauvegarde, ainsi qu’aux tests de compétence. Elle subit également un affaiblissement temporaire de 1d4 points de [Constitution](./Constitution.md) chaque round passé à danser.
+Une cible affectée par la danse mortelle est victime d’une souffrance insoutenable qui lui inflige un malus de -4 aux jets d’attaque et de sauvegarde, ainsi qu’aux tests de compétence. Elle subit également un affaiblissement temporaire de 1d4 points de [[Constitution]] chaque round passé à danser.
 
-Quelle que soit la danse choisie, le personnage peut manipuler la créature telle une marionnette par une [action de mouvement](./Action de mouvement.md), ce qui oblige celle-ci à réaliser une unique [action de mouvement](./Action de mouvement.md) pour se déplacer à mi-vitesse comme l’entend le personnage. Ce dernier doit avoir une ligne de mire vers sa cible et doit être à portée moyenne d’elle (30 mètres + 3 mètres par [niveau de lanceur de sorts](./NLS.md)) pour pouvoir contrôler son déplacement. Ce déplacement provoque des attaques d’opportunité comme à l’accoutumée et n’est pas défalqué du potentiel de déplacement de la cible pendant son tour. Le personnage ne peut pas déplacer une cible qui a réussi son jet de sauvegarde initial contre le sort.
+Quelle que soit la danse choisie, le personnage peut manipuler la créature telle une marionnette par une [[action de mouvement]], ce qui oblige celle-ci à réaliser une unique [[action de mouvement]] pour se déplacer à mi-vitesse comme l’entend le personnage. Ce dernier doit avoir une ligne de mire vers sa cible et doit être à portée moyenne d’elle (30 mètres + 3 mètres par [[NLS|niveau de lanceur de sorts]]) pour pouvoir contrôler son déplacement. Ce déplacement provoque des attaques d’opportunité comme à l’accoutumée et n’est pas défalqué du potentiel de déplacement de la cible pendant son tour. Le personnage ne peut pas déplacer une cible qui a réussi son jet de sauvegarde initial contre le sort.

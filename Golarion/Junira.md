@@ -6,6 +6,6 @@ Categories:
 - Géographie
 ---
 
-Rivière du [Garund](./Garund.md), elle sert de frontière entre la [Thulie](./Thulie.md) et l'[Osirion](./Osirion.md).
+Rivière du [[Garund]], elle sert de frontière entre la [[Thulie]] et l'[[Osirion]].
 
-Elle est issue de la confluence de deux cours d'eau qui prennent leur source d'une part aux pieds du [Mur Barrière](./Mur-Barrière.md) et d'autre part dans la région des [Empreintes de Rovagug](./Empreintes de Rovagug.md).
+Elle est issue de la confluence de deux cours d'eau qui prennent leur source d'une part aux pieds du [[Mur Barrière]] et d'autre part dans la région des [[Empreintes de Rovagug]].

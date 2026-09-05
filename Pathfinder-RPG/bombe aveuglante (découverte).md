@@ -7,4 +7,4 @@ Categories:
 RedirectTo: découvertes#BOMBEAVEUGLANTE
 ---
 
->>> [découvertes#BOMBEAVEUGLANTE](./découvertes.md#BOMBEAVEUGLANTE)
+>>> [[découvertes#BOMBEAVEUGLANTE]]

@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.216}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille G, CM}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille G, CM}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 9, pris au dépourvu 14 (naturelle +5, taille -1)}
 {s:BDTexte|**pv** 45 (6d10+12)}
@@ -25,19 +25,19 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** grande hache +9/+4 (3d6+6/x3) et corne +4 (1d6+2)}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [charge puissante](./Charge puissante.md) (corne +11, 2d6+6)}
+{s:BDTexte|**Attaques spéciales** [[charge puissante]] (corne +11, 2d6+6)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 19, **Dex** 10, **Con** 15, **Int** 7, **Sag** 10, **Cha** 8}
 {s:BDTexte|**BBA** +6, **BMO** +11, **DMD** 21}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Science de la bousculade](./Science de la bousculade.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +2, [Intimidation](./Intimidation.md) +5, [Perception](./Perception.md) +10, [Survie](./Survie.md) +10 ; **Modificateurs raciaux** +4 en [Perception](./Perception.md), +4 en [Survie](./Survie.md)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Science de la bousculade]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +2, [[Intimidation]] +5, [[Perception]] +10, [[Survie]] +10 ; **Modificateurs raciaux** +4 en [[Perception]], +4 en [[Survie]]}
 {s:BDTexte|**Langues** géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** ruines ou souterrain, climat tempéré}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou bande (3-4)}
 {s:BDTexte|**Trésor** standard (grande hache, autres trésors)}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Instinct (Ext).** Les minotaures ne sont pas spécialement intelligents mais ils possèdent un instinct inné et des capacités de raisonnement logique qui les immunisent contre les sorts de *[dédale](./Dédale.md)* et les empêchent de se perdre. En plus de cela, ils ne sont jamais [pris au dépourvu](./Pris au dépourvu.md).}
+{s:BDTexte|**Instinct (Ext).** Les minotaures ne sont pas spécialement intelligents mais ils possèdent un instinct inné et des capacités de raisonnement logique qui les immunisent contre les sorts de *[[dédale]]* et les empêchent de se perdre. En plus de cela, ils ne sont jamais [[pris au dépourvu]].}
 </div>
 
 {s:ImageDroite|Bestiaire/Minotaure_ivoire.jpg|90%}

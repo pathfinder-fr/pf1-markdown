@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Tueuse de mythiques
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Tueuse de mythiques](./Descriptions individuelles des propriétés spéciales des armes.md#Tueuse de mythiques)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Tueuse de mythiques]]

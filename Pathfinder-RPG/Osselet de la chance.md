@@ -9,7 +9,7 @@ Categories:
 - Règles officielles
 ---
 
-<div style="float:right">***Retour aux [Artefacts](./Artefacts.md).***</div>
+<div style="float:right">***Retour aux [[Artefacts]].***</div>
 <div class="BD">
 {s:APG}{s:BDTitre|Osselet de la chance capricieuse|}
 **Aura** Toutes les écoles, puissantes ; **NLS** 20 ; **Emplacement** aucun ; **Poids** -
@@ -28,64 +28,64 @@ L’*osselet de la chance capricieuse* disparaît si la face Eha-Zah (20 sur le 
 | CLASS="gauche" | Effet
 |- CLASS="premier"
 | 1 || Eya-Doh
-| CLASS="gauche" | Le personnage gagne 1 [niveau négatif](./niveau négatif.md) permanent.
+| CLASS="gauche" | Le personnage gagne 1 [[niveau négatif]] permanent.
 |- CLASS="alt"
 | 2 || Bvu
-| CLASS="gauche" | Le personnage est soumis à une puissante envie de ne plus jamais lancer l’*osselet de la chance capricieuse*. Il peut se débarrasser de ce sentiment en réussissant un jet de [Volonté](./Volonté.md) [DD](./DD.md) 25. Il ne peut faire qu'un jet par jour.
+| CLASS="gauche" | Le personnage est soumis à une puissante envie de ne plus jamais lancer l’*osselet de la chance capricieuse*. Il peut se débarrasser de ce sentiment en réussissant un jet de [[Volonté]] [[DD]] 25. Il ne peut faire qu'un jet par jour.
 |-
 | 3 || Eij
-| CLASS="gauche" | Le personnage est affecté par un sort de *[mise à mal](./Mise à mal.md)* ([NLS](./NLS.md) 15).
+| CLASS="gauche" | Le personnage est affecté par un sort de *[[mise à mal]]* ([[NLS]] 15).
 |- CLASS="alt"
 | 4 || Hor
-| CLASS="gauche" | Le personnage est soumis à une puissante envie de lancer l’*osselet de la chance capricieuse* trois fois de suite (jet de [Volonté](./Volonté.md) [DD](./DD.md) 25 pour annuler). Ces trois jets souffrent d'un malus de -5 au résultat du dé (avec un minimum de 1).
+| CLASS="gauche" | Le personnage est soumis à une puissante envie de lancer l’*osselet de la chance capricieuse* trois fois de suite (jet de [[Volonté]] [[DD]] 25 pour annuler). Ces trois jets souffrent d'un malus de -5 au résultat du dé (avec un minimum de 1).
 |-
 | 5 || Veh
-| CLASS="gauche" | Le personnage est [aveugle](./Aveuglé.md), comme avec *[cécité/surdité](./Cécitésurdité.md)* (sans [jet de sauvegarde](./jet de sauvegarde.md)).
+| CLASS="gauche" | Le personnage est [[aveuglé|aveugle]], comme avec *[[cécitésurdité|cécité/surdité]]* (sans [[jet de sauvegarde]]).
 |- CLASS="alt"
 | 6 || Chu
-| CLASS="gauche" | Le personnage reçoit 5d10 points de dégâts de froid (jet de [Vigueur](./Vigueur.md) pour réduire de moitié) et se déplace à la moitié de sa vitesse pendant l’heure qui suit (un [jet de sauvegarde](./jet de sauvegarde.md) réussi n’annule pas la réduction de vitesse).
+| CLASS="gauche" | Le personnage reçoit 5d10 points de dégâts de froid (jet de [[Vigueur]] pour réduire de moitié) et se déplace à la moitié de sa vitesse pendant l’heure qui suit (un [[jet de sauvegarde]] réussi n’annule pas la réduction de vitesse).
 |-
 | 7 || Roh
 | CLASS="gauche" | Pendant 24 heures, le personnage souffre d’un malus de -2 à tous les tests de compétence et de caractéristique.
 |- CLASS="alt"
 | 8 || Seh
-| CLASS="gauche" | Le personnage est [paralysé](./Paralysé.md) pendant 2d12 heures comme avec *[immobilisation de monstre](./Immobilisation de monstre.md)*, sauf qu’il ne peut pas faire de nouveau [jet de sauvegarde](./jet de sauvegarde.md) pour vaincre l’effet.
+| CLASS="gauche" | Le personnage est [[paralysé]] pendant 2d12 heures comme avec *[[immobilisation de monstre]]*, sauf qu’il ne peut pas faire de nouveau [[jet de sauvegarde]] pour vaincre l’effet.
 |-
 | 9 || Kog
-| CLASS="gauche" | Le personnage émet une horrible odeur pendant toute une semaine. Il souffre d’un malus de -4 aux tests de [Diplomatie](./Diplomatie.md) et de [Discrétion](./Discrétion.md).
+| CLASS="gauche" | Le personnage émet une horrible odeur pendant toute une semaine. Il souffre d’un malus de -4 aux tests de [[Diplomatie]] et de [[Discrétion]].
 |- CLASS="alt"
 | 10 || Vis
-| CLASS="gauche" | Une fois au cours des prochaines 24 heures, le personnage peut refaire un jet de dé et prendre le second, comme avec le [pouvoir de Chance](./Domaine de la Chance.md) du [domaine de la Chance](./Domaine de la Chance.md).
+| CLASS="gauche" | Une fois au cours des prochaines 24 heures, le personnage peut refaire un jet de dé et prendre le second, comme avec le [[Domaine de la Chance|pouvoir de Chance]] du [[domaine de la Chance]].
 |-
 | 11 || Fyeh
-| CLASS="gauche" | Le personnage gagne 100 points d’[immunité](./Immunité.md) au feu, comme avec *[protection contre les énergies destructives](./Protection contre les énergies destructives.md)*.
+| CLASS="gauche" | Le personnage gagne 100 points d’[[immunité]] au feu, comme avec *[[protection contre les énergies destructives]]*.
 |- CLASS="alt"
 | 12 || Xal
-| CLASS="gauche" | Le personnage bénéficie d’un sort d’*[héroïsme](./Héroïsme.md)* pendant les 200 prochaines minutes.
+| CLASS="gauche" | Le personnage bénéficie d’un sort d’*[[héroïsme]]* pendant les 200 prochaines minutes.
 |-
 | 13 || Yaq
-| CLASS="gauche" | Pendant 24 heures, quand le personnage touche une cible qu’il [prenait en tenailles](./prise en tenaille.md) avec une arme de corps à corps, son attaque inflige +1d6 points de dégâts de précision.
+| CLASS="gauche" | Pendant 24 heures, quand le personnage touche une cible qu’il [[prise en tenaille|prenait en tenailles]] avec une arme de corps à corps, son attaque inflige +1d6 points de dégâts de précision.
 |- CLASS="alt"
 | 14 || Gib
-| CLASS="gauche" | Une fois au cours des prochaines 24 heures, le personnage peut lancer *[lueur féerique](./Lueur féerique.md)* ([NLS](./NLS.md) égal au niveau de personnage). Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant la fin des 24 heures.
+| CLASS="gauche" | Une fois au cours des prochaines 24 heures, le personnage peut lancer *[[lueur féerique]]* ([[NLS]] égal au niveau de personnage). Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant la fin des 24 heures.
 |-
 | 15 || Xku
-| CLASS="gauche" | Le personnage est [immunisé](./Immunité.md) contre la peur pendant 24 heures.
+| CLASS="gauche" | Le personnage est [[immunité|immunisé]] contre la peur pendant 24 heures.
 |- CLASS="alt"
 | 16 || Lev
-| CLASS="gauche" | Une fois au cours des prochaines 24 heures, le personnage peut lancer *[éclair](./Éclair.md)* ([NLS](./NLS.md) égal au niveau de personnage). Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant la fin des 24 heures.
+| CLASS="gauche" | Une fois au cours des prochaines 24 heures, le personnage peut lancer *[[éclair]]* ([[NLS]] égal au niveau de personnage). Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant la fin des 24 heures.
 |-
 | 17 || Nhi
-| CLASS="gauche" | Pendant 7 jours, quand le personnage est la cible d’une magie de [guérison](./branche guérison.md), il guérit de 2d8 points de vie de plus. Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant la fin des 24 heures.
+| CLASS="gauche" | Pendant 7 jours, quand le personnage est la cible d’une magie de [[branche guérison|guérison]], il guérit de 2d8 points de vie de plus. Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant la fin des 24 heures.
 |- CLASS="alt"
 | 18 || Zmi
-| CLASS="gauche" | Pendant 24 heures, quand le personnage réussit un [jet de sauvegarde](./jet de sauvegarde.md) contre un effet néfaste qui inflige la moitié des dégâts ou des dégâts partiels en cas de [jet de sauvegarde](./jet de sauvegarde.md) réussi, il ne subit pas de dégâts du tout.
+| CLASS="gauche" | Pendant 24 heures, quand le personnage réussit un [[jet de sauvegarde]] contre un effet néfaste qui inflige la moitié des dégâts ou des dégâts partiels en cas de [[jet de sauvegarde]] réussi, il ne subit pas de dégâts du tout.
 |-
 | 19 || Tem
-| CLASS="gauche" | Pendant 24 heures, le personnage confirme automatiquement tous ses [coups critiques](./coup critique.md).
+| CLASS="gauche" | Pendant 24 heures, le personnage confirme automatiquement tous ses [[coup critique|coups critiques]].
 |- CLASS="alt"
 | 20 || Eha-Zah
-| CLASS="gauche" | La prochaine fois que le personnage meurt, il revient d’entre les morts au matin suivant, comme par une *[résurrection](./Résurrection.md)*. Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant de mourir.
+| CLASS="gauche" | La prochaine fois que le personnage meurt, il revient d’entre les morts au matin suivant, comme par une *[[résurrection]]*. Ce pouvoir est perdu si le personnage obtient de nouveau ce résultat sur l’osselet avant de mourir.
 |}
 </center>
 </div>

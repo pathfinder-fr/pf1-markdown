@@ -12,12 +12,12 @@ Categories:
 
 {s:uc}*Dans un geste théâtral, le personnage brandit ses armes devant la foule, ce qui émerveille les spectateurs et démoralise les ennemis.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT), [spectacle](./Dons.md#DONSPECTACLE)
+**Catégorie.** [[dons#DONCOMBAT|combat]], [[dons#DONSPECTACLE|spectacle]]
 
-**Conditions.** [Démonstration](./Démonstration.md), [Arme de prédilection](./Arme de prédilection.md), maniement de l’arme choisie
+**Conditions.** [[Démonstration]], [[Arme de prédilection]], maniement de l’arme choisie
 
-**Avantage.** Quand le personnage consacre une [action rapide](./Action rapide.md) à un test de combat de spectacle, il présente une arme pour laquelle il dispose d’[Arme de prédilection](./Arme de prédilection.md) lors d’une courte démonstration triomphale. Il gagne un bonus de +2 au test de combat de spectacle et il peut faire un test d’[Intimidation](./Intimidation.md) pour démoraliser les adversaires qui assistent à la démonstration et se trouvent à moins de 9 m (6 {s:c}).
+**Avantage.** Quand le personnage consacre une [[action rapide]] à un test de combat de spectacle, il présente une arme pour laquelle il dispose d’[[Arme de prédilection]] lors d’une courte démonstration triomphale. Il gagne un bonus de +2 au test de combat de spectacle et il peut faire un test d’[[Intimidation]] pour démoraliser les adversaires qui assistent à la démonstration et se trouvent à moins de 9 m (6 {s:c}).
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
 Quand le personnage utilise ce don, il peut dépenser jusqu’à 6 points d’endurance pour augmenter le rayon de l’effet de démoralisation de 1,50 mètre par point dépensé (jusqu’à un maximum de 18 mètres).

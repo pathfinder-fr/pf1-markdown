@@ -10,13 +10,13 @@ LastModified: 2026-08-02 11:48
 {s:pucem|Plante|Forêt-Jungle}
 {s:BDTexte|*Source : Familiar Folio*}
 {s:BDTexte|**PX** 65}
-{s:BDTexte|[Plante](./type Plante.md) de taille MIN, N}
-{s:BDTexte|**Init** -1 ; **Sens** [Vision aveugle](./vision aveugle.md) à 9 m (6 {s:c}) ; [Perception](./Perception.md) -2}
+{s:BDTexte|[[type Plante|Plante]] de taille MIN, N}
+{s:BDTexte|**Init** -1 ; **Sens** [[Vision aveugle]] à 9 m (6 {s:c}) ; [[Perception]] -2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 15 (Dex -1, taille +4)}
 {s:BDTexte|**pv** 5 (1d8+1)}
 {s:BDTexte|**Réf** -1, **Vig** +3, **Vol** -2}
-{s:BDTexte|**Immunité** [Traits des plantes (capacité)|Traits des plantes]}
+{s:BDTexte|**Immunité** [[Traits des plantes (capacité)|Traits des plantes]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** Coup +0 (1d2-4)}

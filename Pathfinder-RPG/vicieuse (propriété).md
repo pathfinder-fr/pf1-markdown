@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Vicieuse
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Vicieuse](./Descriptions individuelles des propriétés spéciales des armes.md#Vicieuse)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Vicieuse]]

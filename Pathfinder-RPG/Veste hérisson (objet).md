@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 10 po ; **Poids** 2 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-De minces rabats de cuir empêchent les centaines de toutes petites aiguilles, semblables à des [hameçons](./Hameçon (objet).md), qui ornent la surface de cette veste noire, de blesser le personnage lorsqu'il la porte. Si une créature le blesse avec une attaque naturelle ou à mains nues, elle doit réussir un jet de [Réflexes](./Réflexes.md) [DD](./DD.md) 15 ou recevoir 1 point de dégâts. Si une créature avale le personnage, elle reçoit 1 point de dégâts tous les [rounds](./round.md) jusqu'à ce qu'elle l'ait recraché, qu'il se soit échappé ou qu'il meurt (auquel cas la veste aura encaissé suffisamment de dégâts pour ne plus constituer une menace). Cette veste ne peut être portée que sur une [armure légère](./armure légère.md) ou sans armure.
+De minces rabats de cuir empêchent les centaines de toutes petites aiguilles, semblables à des [[Hameçon (objet)|hameçons]], qui ornent la surface de cette veste noire, de blesser le personnage lorsqu'il la porte. Si une créature le blesse avec une attaque naturelle ou à mains nues, elle doit réussir un jet de [[Réflexes]] [[DD]] 15 ou recevoir 1 point de dégâts. Si une créature avale le personnage, elle reçoit 1 point de dégâts tous les [[round|rounds]] jusqu'à ce qu'elle l'ait recraché, qu'il se soit échappé ou qu'il meurt (auquel cas la veste aura encaissé suffisamment de dégâts pour ne plus constituer une menace). Cette veste ne peut être portée que sur une [[armure légère]] ou sans armure.

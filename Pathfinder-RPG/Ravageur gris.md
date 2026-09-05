@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Marais|Tempéré}
 {s:BDTexte|<i>Source : Bestiaire 2 p.240</i>}
 {s:BDTexte|<b>PX</b> 4800}
-{s:BDTexte|[Créature magique](./type Créature magique.md)  de taille G, N</a>}
-{s:BDTexte|<b>Init</b> +1 ; <b>Sens</b> [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; <a> [Perception](./Perception.md)</a> +13}
+{s:BDTexte|[[type Créature magique|Créature magique]]  de taille G, N</a>}
+{s:BDTexte|<b>Init</b> +1 ; <b>Sens</b> [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; <a> [[Perception]]</a> +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 21, contact 10, pris au dépourvu 20 (Dex +1, naturelle +11, taille -1)}
 {s:BDTexte|<b>pv</b> 100 (8d10+56)}
@@ -23,14 +23,14 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|<b>VD</b> 9 m (6 {s:c})}
 {s:BDTexte|<b>Corps à corps</b> morsure +14 (2d6+7)}
-{s:BDTexte| et 2 griffes +15 (1d8+7 plus [étreinte](./Étreinte.md))}
+{s:BDTexte| et 2 griffes +15 (1d8+7 plus [[étreinte]])}
 {s:BDTexte|<b>Espace</b> 3 m (2 {s:c}) ; <b>Allonge</b> 3 m (2 {s:c})}
-{s:BDTexte|<b>Attaques spéciales</b> [éventration](./Éventration.md) (2 griffes (1d8+10))}
+{s:BDTexte|<b>Attaques spéciales</b> [[éventration]] (2 griffes (1d8+10))}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 25, <b>Dex</b> 13, <b>Con</b> 24, <b>Int</b> 3, <b>Sag</b> 14, <b>Cha</b> 8}
 {s:BDTexte|<b>BBA</b> +8, <b>BMO</b> +16, <b>DMD</b> 27}
-{s:BDTexte|<b>Dons</b> <a>[Arme de prédilection](./Arme de prédilection.md) (griffe)</a>, [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Science de la bousculade](./Science de la bousculade.md)}
-{s:BDTexte|<b>Compétences</b> <a>[Perception](./Perception.md)</a> +13, [Survie](./Survie.md) +6 ; <b>Modificateurs raciaux</b> +4 en [Perception](./Perception.md)}
+{s:BDTexte|<b>Dons</b> <a>[[Arme de prédilection]] (griffe)</a>, [[Attaque en puissance]], [[Coup fabuleux]], [[Science de la bousculade]]}
+{s:BDTexte|<b>Compétences</b> <a>[[Perception]]</a> +13, [[Survie]] +6 ; <b>Modificateurs raciaux</b> +4 en [[Perception]]}
 {s:BDTexte|<b>Particularités</b> dégâts doublés contre les objets}
 {s:BDTexte|<b>Langues</b> géant}
 {s:BDSousTitre|Écologie}

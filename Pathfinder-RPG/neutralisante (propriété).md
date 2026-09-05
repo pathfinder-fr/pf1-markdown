@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Neutralisante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Neutralisante](./Descriptions individuelles des propriétés spéciales des armes.md#Neutralisante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Neutralisante]]

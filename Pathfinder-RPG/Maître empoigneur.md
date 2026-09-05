@@ -10,12 +10,12 @@ Categories:
 
 {s:mca}*Le personnage peut agripper deux ennemis aussi facilement qu’un seul.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Traction de l’empoigneur](./Traction de lempoigneur.md), [École de l’empoigneur](./École de lempoigneur.md), [Science de la lutte](./Science de la lutte.md) ; [BBA](./BBA.md) +12, [lutteur](./Lutteur.md) niveau 8 ou [moine](./Moine.md) niveau 8.
+**Conditions.** [[Traction de lempoigneur|Traction de l’empoigneur]], [[École de lempoigneur|École de l’empoigneur]], [[Science de la lutte]] ; [[BBA]] +12, [[lutteur]] niveau 8 ou [[moine]] niveau 8.
 
-**Avantage.** Quand le personnage agrippe deux adversaires en utilisant [École de l’empoigneur](./École de lempoigneur.md), il peut utiliser sa prise pour déplacer ou blesser l’un ou les deux adversaires [agrippés](./Agrippé.md) plutôt qu’un seul.
+**Avantage.** Quand le personnage agrippe deux adversaires en utilisant [[École de lempoigneur|École de l’empoigneur]], il peut utiliser sa prise pour déplacer ou blesser l’un ou les deux adversaires [[agrippé|agrippés]] plutôt qu’un seul.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance quand il est en [lutte](./lutte.md) contre un unique adversaire en utilisant l’[École de l’empoigneur](./École de lempoigneur.md) pour continuer de contrôler la zone à portée d’allonge de sa main libre jusqu’au début de son prochain tour.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 5 points d’endurance quand il est en [[lutte]] contre un unique adversaire en utilisant l’[[École de lempoigneur|École de l’empoigneur]] pour continuer de contrôler la zone à portée d’allonge de sa main libre jusqu’au début de son prochain tour.

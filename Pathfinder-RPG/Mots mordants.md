@@ -9,21 +9,21 @@ Categories:
 - Src Magic Tactics Toolbox
 ---
 
-{s:cs}{s:MTT}**École** [Évocation](./Évocation.md) <nowiki>[</nowiki>[Sonore,dépendant du langage](./Registre.md)<nowiki>]</nowiki> ; **Niveau**  [Bar](./Barde.md) 1, [San](./Sanguin.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, S](./composantes.md)
-**Portée** [personnelle](./personnelle.md)
+{s:cs}{s:MTT}**École** [[Évocation]] <nowiki>[</nowiki>[[registre|Sonore,dépendant du langage]]<nowiki>]</nowiki> ; **Niveau**  [[Barde|Bar]] 1, [[Sanguin|San]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, S]]
+**Portée** [[personnelle]]
 **Cibles** le lanceur de sorts
-**Durée** 1 minute/[niveau](./niveau.md)
-**Jet de sauvegarde** [Volonté], [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** non
+**Durée** 1 minute/[[niveau]]
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** non
 
-Votre voix est imprégnée de magie, ce qui vous permet de blesser vos adversaires d'un simple mot. En tant qu'[action simple](./Action simple.md), vous pouvez cibler un adversaire dans un rayon de 9 m (6 c) avec une [attaque de contact à distance](./attaque de contact.md) en lui parlant, lui infligeant un montant de dégâts égal à 1d6 + votre modificateur de [Force](./Force.md) ou de [Charisme](./Charisme.md), le plus élevé des deux. Les dégâts infligés sont des dégâts contondants, de perforants et tranchants et peuvent être réduits par la [RD](./réduction des dégâts.md). Chaque attaque que vous effectuez réduit la durée restante du sort de 1 minute. Si une attaque réduit la durée restante à 0 minute ou moins, le sort prend fin après la résolution de l'attaque.
+Votre voix est imprégnée de magie, ce qui vous permet de blesser vos adversaires d'un simple mot. En tant qu'[[action simple]], vous pouvez cibler un adversaire dans un rayon de 9 m (6 c) avec une [[attaque de contact|attaque de contact à distance]] en lui parlant, lui infligeant un montant de dégâts égal à 1d6 + votre modificateur de [[Force]] ou de [[Charisme]], le plus élevé des deux. Les dégâts infligés sont des dégâts contondants, de perforants et tranchants et peuvent être réduits par la [[réduction des dégâts|RD]]. Chaque attaque que vous effectuez réduit la durée restante du sort de 1 minute. Si une attaque réduit la durée restante à 0 minute ou moins, le sort prend fin après la résolution de l'attaque.
 
-Vous pouvez attaquer avec des mots mordants en criant au lieu de parler intelligiblement. Dans ce cas, le montant des dégâts infligés par l'attaque est réduit à 1d4 + 1/2 votre modificateur de [Force](./Force.md) ou de [Charisme](./Charisme.md) (le plus élevé des deux), mais le sort ne compte pas comme ayant la description du langage pour cette attaque.
+Vous pouvez attaquer avec des mots mordants en criant au lieu de parler intelligiblement. Dans ce cas, le montant des dégâts infligés par l'attaque est réduit à 1d4 + 1/2 votre modificateur de [[Force]] ou de [[Charisme]] (le plus élevé des deux), mais le sort ne compte pas comme ayant la description du langage pour cette attaque.
 
 (((Biting Words
 Source Magic Tactics Toolbox pg. 9
-School evocation [language-dependent, sonic]; Level bard 1, bloodrager 1, skald 1
+School evocation [[language-dependent, sonic]]; Level bard 1, bloodrager 1, skald 1
 Casting
 Casting Time 1 standard action
 Components V, S

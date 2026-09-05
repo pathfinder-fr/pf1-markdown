@@ -10,8 +10,8 @@ LastModified: 2021-04-11 11:29
 {s:pucem|Humanoïde monstrueux|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3* p.255}
 {s:BDTexte|**PX** 1 200}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) de taille M, LN}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md), [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +9}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] de taille M, LN}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]], [[vision dans le noir]] 18 m ; [[Perception]] +9}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 13, pris au dépourvu 14 (Dex +4, armure +4)}
 {s:BDTexte|**pv** 42 (5d10+15)}
@@ -25,19 +25,19 @@ LastModified: 2021-04-11 11:29
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 17, **Con** 16, **Int** 12, **Sag** 13, **Cha** 15}
 {s:BDTexte|**BBA** +5, **BMO** +10, **DMD** 23}
-{s:BDTexte|**Dons** [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md), [Tir rapide](./Tir rapide.md)}
-{s:BDTexte|**Compétences**[Discrétion](./Discrétion.md) +9,  [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +9, [Survie](./Survie.md) +9, [Vol](./Vol.md) +13}
+{s:BDTexte|**Dons** [[Tir à bout portant]], [[Tir de précision]], [[Tir rapide]]}
+{s:BDTexte|**Compétences**[[Discrétion]] +9,  [[Intimidation]] +10, [[Perception]] +9, [[Survie]] +9, [[Vol]] +13}
 {s:BDTexte|**Langue** commun, sylvestre, thriae}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}
-{s:BDTexte|**Organisation sociale** couple, troupe (3-8) ou compagnie (9-20 soldats, 2-4 [rôdeurs](./Rôdeur.md) de niveau 3 à 5, 1-2 [roublards](./Roublard.md) de niveau 4 à 6 et un commandant [guerrier](./Guerrier.md) de niveau 5 à 8)}
-{s:BDTexte|**Trésor** standard (chemise de mailles, arc long composite ([For](./Force.md)+5) avec 20 flèches, 1 dose de mérope, autre trésor)}
+{s:BDTexte|**Organisation sociale** couple, troupe (3-8) ou compagnie (9-20 soldats, 2-4 [[rôdeur|rôdeurs]] de niveau 3 à 5, 1-2 [[roublard|roublards]] de niveau 4 à 6 et un commandant [[guerrier]] de niveau 5 à 8)}
+{s:BDTexte|**Trésor** standard (chemise de mailles, arc long composite ([[Force|For]]+5) avec 20 flèches, 1 dose de mérope, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Consommation de mérope (Sur).** Une fois par jour, par une [action simple](./Action simple.md), le soldat thriae peut consommer une dose de mérope afin d’améliorer ses capacités martiales pendant 1d6+3 rounds supplémentaires. Cela commence le round suivant sa consommation de mérope et le soldat thriae gagne un bonus d’intuition de +2 à ses jets d’attaques et de sauvegarde, ainsi que [guérison accélérée](./guérison accélérée.md) 3.}
-{s:BDTexte|**Poison (Ext).** Dard ou flèche — blessure ; *JdS* Vigueur [DD](./DD.md) 15 ; *fréquence* 1/round pendant 6 rounds ; *effet* affaiblissement temporaire de 1d2 [Force](./Force.md) ; *guérison* 1 réussite. Par une [action libre](./Action libre.md), le soldat thriae peut appliquer son venin sur une flèche qu’il tire. Le [DD](./DD.md) du jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Consommation de mérope (Sur).** Une fois par jour, par une [[action simple]], le soldat thriae peut consommer une dose de mérope afin d’améliorer ses capacités martiales pendant 1d6+3 rounds supplémentaires. Cela commence le round suivant sa consommation de mérope et le soldat thriae gagne un bonus d’intuition de +2 à ses jets d’attaques et de sauvegarde, ainsi que [[guérison accélérée]] 3.}
+{s:BDTexte|**Poison (Ext).** Dard ou flèche — blessure ; *JdS* Vigueur [[DD]] 15 ; *fréquence* 1/round pendant 6 rounds ; *effet* affaiblissement temporaire de 1d2 [[Force]] ; *guérison* 1 réussite. Par une [[action libre]], le soldat thriae peut appliquer son venin sur une flèche qu’il tire. Le [[DD]] du jet de sauvegarde est basé sur la [[Constitution]].}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [thriae](./Thriae.md).***</li></ul>''Cette créature a un buste de femme et la partie inférieure du corps d’une
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Thriae]].***</li></ul>''Cette créature a un buste de femme et la partie inférieure du corps d’une
 abeille. Elle manie son arc long avec une habileté étonnante.''
 
 Gardiennes de la colonie thriae et de ses trésors, les soldats thriae sont les piliers des défenses de la ruche. Qu’elles patrouillent le long du périmètre de la ruche ou protègent la reine et les oracles contre des assaillants, les soldats thriae sont un atout essentiel à la survie de la colonie, ce qui explique qu’elles composent l’essentiel de la population thriae. D’un point de vue spirituel, les soldats ne sont pas aussi puissants que les oracles ou que la reine mais ils sont douées d’une remarquable agilité et sont très habiles à l’arc. Les gardes sont toujours stationnées par paires aux entrées des zones importantes telles que les chambres de méditation des oracles et les  gigantesques quartiers privés de la reine et, lorsque leur devoir les emmène en dehors des murs de la ruche, ils voyagent en larges convois.

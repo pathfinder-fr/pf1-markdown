@@ -10,21 +10,21 @@ LastModified: 2021-02-20 15:27
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2 p 216*}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Exterieur](./type Extérieur.md) ([Extraplanaire](./sous-type extraplanaire.md)) de taille M, [alignement](./Alignement.md) selon le plan d'origine}
-{s:BDTexte|**Init** +0 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +5}
+{s:BDTexte|[[type Extérieur|Exterieur]] ([[sous-type extraplanaire|Extraplanaire]]) de taille M, [[alignement]] selon le plan d'origine}
+{s:BDTexte|**Init** +0 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 10, contact 10, pris au dépourvu 10}
 {s:BDTexte|**pv** 16 (2d10+5)}
 {s:BDTexte|**Réf** +3, **Vig** +4, **Vol** +0}
-{s:BDTexte|**Immunités** [effets mentaux](./effet mental.md)}
+{s:BDTexte|**Immunités** [[effet mental|effets mentaux]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** coup, +2 (1d4)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 11, **Dex** 10, **Con** 13, **Int** 10, **Sag** 11, **Cha**10}
 {s:BDTexte|**BBA** +2, **BMO** +2, **DMD** 12}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Artisanat](./Artisanat.md) (deux au choix) +5, [Connaissances](./Connaissances.md) (plans) +5, [Discrétion](./Discrétion.md) +5, [Perception](./Perception.md) +5, [Psychologie](./Psychologie.md) +5}
+{s:BDTexte|**Dons** [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Artisanat]] (deux au choix) +5, [[Connaissances]] (plans) +5, [[Discrétion]] +5, [[Perception]] +5, [[Psychologie]] +5}
 {s:BDTexte|**Langues** commun}
 {s:BDTexte|**Particularités** traits des pétitionnaires}
 {s:BDSousTitre|Écologie}
@@ -32,10 +32,10 @@ LastModified: 2021-02-20 15:27
 {s:BDTexte|**Organisation sociale** solitaire, couple, groupe (3-12) ou armée (13 ou plus)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Traits des pétitionnaires.** Un pétitionnaire possède des [capacités et des caractéristiques](./Pétitionnaire, archétype.md) dépendant de son plan d’origine. Son alignement correspond à l’alignement de son plan d’origine.}
+{s:BDTexte|**Traits des pétitionnaires.** Un pétitionnaire possède des [[Pétitionnaire, archétype|capacités et des caractéristiques]] dépendant de son plan d’origine. Son alignement correspond à l’alignement de son plan d’origine.}
 </div>
 </td><td><div>
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [Pétitionnaire](./Pétitionnaire, archétype.md).***</li></ul>*Il y a quelque chose de bizarre et d’étrangement familier dans cette ombre fantomatique humanoïde qui semble quasi immatérielle.*
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Pétitionnaire, archétype|Pétitionnaire]].***</li></ul>*Il y a quelque chose de bizarre et d’étrangement familier dans cette ombre fantomatique humanoïde qui semble quasi immatérielle.*
 
 Les pétitionnaires sont les âmes des mortels qui ont été amenées vers les plans Extérieurs après leur mort afin de pouvoir recevoir leur récompense, leur punition ou leur destin ultime. Un pétitionnaire conserve des fragments de souvenirs de sa vie et son apparence dépend non seulement de la forme qu’il possédait de son vivant mais aussi de la nature du plan Extérieur sur lequel il est arrivé. Le profil présenté ci-dessus représente un pétitionnaire typique formé à partir de l’âme d’un humain moyen et ne comporte aucune des capacités ou particularités propres à un plan qu’un pétitionnaire devrait normalement acquérir. Il convient donc de le modifier en fonction du plan auquel le pétitionnaire est assigné.
 

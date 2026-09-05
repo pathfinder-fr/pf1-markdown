@@ -7,7 +7,7 @@ Categories:
 - Géographie
 ---
 
-La forêt de Gronzi est connue au [Brévoy](./Brévoy.md) sous le nom de "La Forêt". Elle occupe les terres appartenant à la Maison Medvyed et s'étant du pied des [Pics de Givre](./Pics de Givre.md) jusqu'aux berges du [Lac Reykal](./Lac Reykal.md).
+La forêt de Gronzi est connue au [[Brévoy]] sous le nom de "La Forêt". Elle occupe les terres appartenant à la Maison Medvyed et s'étant du pied des [[Pics de Givre]] jusqu'aux berges du [[Lac Reykal]].
 
 Le braconnage et le bûcheronnage sauvage sont monnaie courante dans la forêt, surtout dans sa partie occidentale, même si ses ressources sont farouchement protégées par la Couronne Brévique.
 

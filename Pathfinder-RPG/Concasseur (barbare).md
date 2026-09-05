@@ -13,10 +13,10 @@ Categories:
 Un concasseur possède les aptitudes suivantes :
 
 #### Destructeur (Ext)
-Lorsqu’il porte une attaque de corps à corps sur un objet ou qu’il choisit d’effectuer la manœuvre de combat [destruction](./destruction.md), le personnage ajoute la moitié de son [niveau](./niveau.md) de barbare (minimum +1) sur ses [jets de dégâts](./jet de dégât.md). Cette aptitude remplace [déplacement accéléré](./Barbare.md#DEPLACEMENTACCELERE).
+Lorsqu’il porte une attaque de corps à corps sur un objet ou qu’il choisit d’effectuer la manœuvre de combat [[destruction]], le personnage ajoute la moitié de son [[niveau]] de barbare (minimum +1) sur ses [[jet de dégât|jets de dégâts]]. Cette aptitude remplace [[BARBARE#DEPLACEMENTACCELERE|déplacement accéléré]].
 
 #### Récupérateur (Ext)
-Au niveau 3, le concasseur ne subit aucune pénalité lorsqu’il utilise une [arme improvisée](./arme improvisée.md) ou [cassée](./Brisé.md). Il bénéficie même d’un bonus de +1 par tranche de trois niveaux au-delà du [niveau](./niveau.md) 3 sur ses [jets de dégâts](./jet de dégât.md). Cette aptitude remplace [sens des pièges](./Barbare.md#SENSDESPIEGES).
+Au niveau 3, le concasseur ne subit aucune pénalité lorsqu’il utilise une [[arme improvisée]] ou [[brisé|cassée]]. Il bénéficie même d’un bonus de +1 par tranche de trois niveaux au-delà du [[niveau]] 3 sur ses [[jet de dégât|jets de dégâts]]. Cette aptitude remplace [[BARBARE#SENSDESPIEGES|sens des pièges]].
 
 #### Pouvoirs de rage
-Les pouvoirs suivants complètent l’archétype du concasseur : [brise roc](./Brise roc (rage).md), [fracassement](./Fracassement (rage).md), [pic de force](./Pic de force (rage).md).
+Les pouvoirs suivants complètent l’archétype du concasseur : [[brise roc (rage)|brise roc]], [[fracassement (rage)|fracassement]], [[pic de force (rage)|pic de force]].

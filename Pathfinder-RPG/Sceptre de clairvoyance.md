@@ -9,11 +9,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Sceptre de clairvoyance|{s:MTT}}
-**Aura** [Divination](./école divination.md) puissante ; **NLS** 13 ; **Emplacement** aucun ([sceptre](./Sceptres magiques.md)) ; **Prix** 12 000 po; **Poids** 3 kg
+**Aura** [[école divination|Divination]] puissante ; **NLS** 13 ; **Emplacement** aucun ([[Sceptres magiques|sceptre]]) ; **Prix** 12 000 po; **Poids** 3 kg
 (((Description)))
 *Ce magnifique sceptre en ivoire est incrustée d'innombrables saphirs et recouverte de motifs complexes incrustés dans l'argent.*
 
 La vision du porteur d'un sceptre de clairvoyance n'est pas affectée par les nuages magiques, le brouillard, la brume, la fumée ou les effets de la vapeur. Cela lui permet de voir à travers les effets du brouillard, de la brume obscurcissante et même des nuages incendiaires. Le bâton ne protège pas le porteur contre les effets aveuglants tels que la cécité/surdité ou l'effet aveuglant de la poussière de paillettes.
 (((Création)))
-**Conditions** [Création de sceptres magiques](./Création de sceptres magiques.md), *[Bourrasque](./Bourrasque.md)*, *[Vision lucide](./Vision lucide.md)* ; **Coût** 6 000 po
+**Conditions** [[Création de sceptres magiques]], *[[Bourrasque]]*, *[[Vision lucide]]* ; **Coût** 6 000 po
 </div>

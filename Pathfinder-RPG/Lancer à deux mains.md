@@ -11,14 +11,14 @@ Categories:
 
 {s:uc}*Le personnage lance ses armes à deux mains, avec un maximum de force, parfois en les faisant tournoyer pour leur faire fendre l’air à une vitesse étonnante. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./For.md) 15
+**Conditions.** [[For]] 15
 
-**Avantage.** Quand le personnage utilise ses deux mains pour lancer une arme à une ou deux mains, il gagne un bonus aux jets de dégâts égal à 1,5 fois son bonus de [Force](./Force.md). Il lui faut juste une [action simple](./Action simple.md) pour lancer une arme, n’importe laquelle, avec ses deux mains. S’il possède le don [Arme en main](./Arme en main.md), il peut lancer une arme à deux mains au même rythme d’attaque qu’une arme à une main.
+**Avantage.** Quand le personnage utilise ses deux mains pour lancer une arme à une ou deux mains, il gagne un bonus aux jets de dégâts égal à 1,5 fois son bonus de [[Force]]. Il lui faut juste une [[action simple]] pour lancer une arme, n’importe laquelle, avec ses deux mains. S’il possède le don [[Arme en main]], il peut lancer une arme à deux mains au même rythme d’attaque qu’une arme à une main.
 
-**Normal.** Le personnage ajoute son bonus de [Force](./Force.md) aux dégâts des armes de jet, qu’il utilise ses deux mains ou deux. Il faut une [action complexe](./Action complexe.md) pour lancer une arme à deux mains.
+**Normal.** Le personnage ajoute son bonus de [[Force]] aux dégâts des armes de jet, qu’il utilise ses deux mains ou deux. Il faut une [[action complexe]] pour lancer une arme à deux mains.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Quand le personnage lance une arme de jet à une main avec ses deux mains ou lance une arme de jet à deux mains, il peut dépenser 2 points d’endurance pour ajouter le double de son bonus de [Force](./Force.md) aux dégâts de son attaque au lieu de 1,5 fois ce bonus.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Quand le personnage lance une arme de jet à une main avec ses deux mains ou lance une arme de jet à deux mains, il peut dépenser 2 points d’endurance pour ajouter le double de son bonus de [[Force]] aux dégâts de son attaque au lieu de 1,5 fois ce bonus.

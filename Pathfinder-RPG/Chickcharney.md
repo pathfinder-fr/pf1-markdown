@@ -13,10 +13,10 @@ Categories:
 <div class="BD">
 {s:BDtitre|Chickcharney|FP 3}
 {s:pucem|Créature magique|Ciel|Tropical}
-{s:BDtexte|*Source : [Guide des Chaînes p.42](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide des Chaînes p.42]]*}
 {s:BDtexte|**PX** 800}
-{s:BDtexte|[Créature magique](./type Créature magique.md) de taille P, N}
-{s:BDtexte|**Init** +3 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m, [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +6}
+{s:BDtexte|[[type Créature magique|Créature magique]] de taille P, N}
+{s:BDtexte|**Init** +3 ; **Sens** [[vision dans le noir (capacité)|vision dans le noir]] à 18 m, [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +6}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 15, contact 15, pris au dépourvu 11 (Dex +3, esquive +1, taille +1)}
 {s:BDtexte|**pv** 30 (4d10+8)}
@@ -28,18 +28,18 @@ Categories:
 {s:BDsoustitre|Caractéristiques}
 {s:BDtexte|**For** 6, **Dex** 17, **Con** 14, **Int** 2, **Sag** 13, **Cha** 15}
 {s:BDtexte|**BBA** +4, **BMO** +1, **DMD** 15}
-{s:BDtexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md)}
-{s:BDtexte|**Compétences** [Perception](./Perception.md) +6, [Vol](./Vol.md) +10}
+{s:BDtexte|**Dons** [[Attaque en finesse]], [[Esquive]]}
+{s:BDtexte|**Compétences** [[Perception]] +6, [[Vol]] +10}
 {s:BDtexte|**Particularités** trille béni}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** forêts, collines ou plaines chaudes}
 {s:BDtexte|**Organisation sociale** solitaire ou couple}
 {s:BDtexte|**Trésor** aucun}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Cri exaspérant (Sur).** Trois fois par jour, par une [action simple](./Action simple.md), le chickcharney peut pousser un cri perçant qui affecte toutes les autres créatures situées dans un rayon de 9 mètres. Les victimes doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ou se retrouver [confuses](./Confus.md) pendant 1d3 [rounds](./round.md). C’est un effet sonore et mental. Le DD du jet de sauvegarde est basé sur la [Constitution]].}
+{s:BDtexte|**Cri exaspérant (Sur).** Trois fois par jour, par une [[action simple]], le chickcharney peut pousser un cri perçant qui affecte toutes les autres créatures situées dans un rayon de 9 mètres. Les victimes doivent réussir un jet de [[Vigueur]] [[DD]] 13 ou se retrouver [[confus|confuses]] pendant 1d3 [[round|rounds]]. C’est un effet sonore et mental. Le DD du jet de sauvegarde est basé sur la [Constitution]].}
 {s:BDtexte|**Malchance (Sur).** Quand le chickcharney touche une créature avec l’une de ses attaques naturelles, il lui transmet une malédiction.}
-{s:BDtexte|* *Malédiction de malchance.* *JdS* [Volonté](./Volonté.md) [DD](./DD.md) 14, *effet* la cible subit un malus de –1 aux [jets d’attaque](./jet dattaque.md) et [de sauvegarde](./JDS.md) ainsi qu’aux tests de [caractéristique](./Caractéristiques.md) et de [compétence](./Compétences.md). Une même créature touchée à plusieurs reprises peut accumuler les malédictions (dans une limite de –4 au malus). Les chickcharneys sont immunisés contre cette malédiction. Le DD du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).}
-{s:BDtexte|**Trille béni (Sur).** Une fois par jour et par une [action simple](./Action simple.md), le chickcharney peut émettre un trille mélodieux qui offre un bonus de moral de +1 aux [jets de sauvegarde](./JDS.md) des créatures situées dans un rayon de 6 mètres pour le reste de la journée. C’est un effet mental sonore.}
+{s:BDtexte|* *Malédiction de malchance.* *JdS* [[Volonté]] [[DD]] 14, *effet* la cible subit un malus de –1 aux [[jet dattaque|jets d’attaque]] et [[jds|de sauvegarde]] ainsi qu’aux tests de [[Caractéristiques|caractéristique]] et de [[Compétences|compétence]]. Une même créature touchée à plusieurs reprises peut accumuler les malédictions (dans une limite de –4 au malus). Les chickcharneys sont immunisés contre cette malédiction. Le DD du jet de sauvegarde est basé sur le [[Charisme]].}
+{s:BDtexte|**Trille béni (Sur).** Une fois par jour et par une [[action simple]], le chickcharney peut émettre un trille mélodieux qui offre un bonus de moral de +1 aux [[jds|jets de sauvegarde]] des créatures situées dans un rayon de 6 mètres pour le reste de la journée. C’est un effet mental sonore.}
 </div>
 </td>
 <td>

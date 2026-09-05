@@ -6,7 +6,7 @@ Categories:
 - Règles maison
 ---
 
-*[Retour à Selnir](./Selnir.md)*
+*[[Selnir|Retour à Selnir]]*
 Coucou les personnages
 ### Le concept
 Gnagnagna, le concept
@@ -14,31 +14,31 @@ Gnagnagna, le concept
 Gnagnagna, la classe
 ### Création
 Gnagnagna, la création
-#### [anchor|#Création-Niveau]Niveau
+#### <a id="Création-Niveau"></a>Niveau
 Gnagnagna, le niveau
-#### [anchor|#Création-Richesse]Richesse
+#### <a id="Création-Richesse"></a>Richesse
 Gnagnagna, la richesse
-#### [anchor|#Création-Classe]Classe
+#### <a id="Création-Classe"></a>Classe
 Gnagnagna, la classe
-#### [anchor|#Création-Caractéristiques]Caractéristiques
+#### <a id="Création-Caractéristiques"></a>Caractéristiques
 Gnagnagna, les caractéristiques
-#### [anchor|#Création-Races]Races
+#### <a id="Création-Races"></a>Races
 Gnagnagna, les races
-#### [anchor|#Création-Dons]Dons
+#### <a id="Création-Dons"></a>Dons
 Gnagnagna, les dons
-#### [anchor|#Création-Alignement]Alignement
+#### <a id="Création-Alignement"></a>Alignement
 Gnagnagna, l'alignement
-#### [anchor|#Création-Traits]Traits
+#### <a id="Création-Traits"></a>Traits
 Gnagnagna, les traits
-#### [anchor|#Création-Points héroïques]Points héroïques
+#### <a id="Création-Points héroïques"></a>Points héroïques
 Gnagnagna, les points héroïques
-#### [anchor|#Création-Compétences]Compétences
+#### <a id="Création-Compétences"></a>Compétences
 Gnagnagna, les compétences
-#### [anchor|#Création-Etat civil]Etat civil
+#### <a id="Création-Etat civil"></a>Etat civil
 Gnagnagna, l'origine, l'état civil et l'âge
-#### [anchor|#Création-Classe de prédilection]Classe de prédilection
+#### <a id="Création-Classe de prédilection"></a>Classe de prédilection
 Gnagnagna, la classe de prédilection
-#### [anchor|#Création-Autres valeurs]Autres valeurs
+#### <a id="Création-Autres valeurs"></a>Autres valeurs
 Gnagnagna, les autres valeurs
 
 

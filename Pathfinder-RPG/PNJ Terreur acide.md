@@ -10,11 +10,11 @@ Categories:
 <table class="Bestiaire"><tr><td>
 <div class="BD">
 {s:BDTitre|Terreur acide|FP 12}
-{s:BDTexte|*Source : [Manuel des PNJ p. 213](./Manuel des PNJ (Contenu).md)*}
+{s:BDTexte|*Source : [[Manuel des PNJ (contenu)|Manuel des PNJ p. 213]]*}
 {s:BDTexte|**PX** 19 200}
-{s:BDTexte|[Humain](./Humain.md) [ensorceleur](./Ensorceleur.md) 9/[disciple draconien](./Disciple draconien.md) 4}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([humain](./sous-type humain.md)) de taille M, LM}
-{s:BDTexte|**Init** +6 ; **Sens** [Perception](./Perception.md) +12}
+{s:BDTexte|[[Humain]] [[Ensorceleur]] 9/[[Disciple draconien]] 4}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type humain|humain]]) de taille M, LM}
+{s:BDTexte|**Init** +6 ; **Sens** [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 24, contact 15, pris au dépourvu 21 (armure +4, Dex +2, esquive +1, naturelle +5, parade +2)}
 {s:BDTexte|**pv** 108 (9d6+4d12+48)}
@@ -23,16 +23,16 @@ Categories:
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m}
 {s:BDTexte|**Corps à corps** 2 griffes, +10 (1d6+3 plus 1d6 acide), morsure, +10 (1d6+4) ou bâton, +10/+5 (1d6+3)}
-{s:BDTexte|**Attaques spéciales** [morsure du dragon](./Disciple draconien.md#MORSUREDUDRAGON), [griffes](./lignage Draconique.md) (2, 1d6+3 plus 1d6 acide, magique, 9 rounds/jour), [souffle](./lignage Draconique.md) (cône de 9 m, 13d6 acide, DD 22, 2/jour)}
-{s:BDTexte|**Sorts d'ensorceleur connus**  ([NLS](./NLS.md) 12 ; [concentration](./concentration.md) +18)}
-{s:BDSorts|6e (4/jour) — *[brume acide](./Brume acide.md)*, *[forme draconique I](./Forme draconique I.md)*}
-{s:BDSorts|5e (6/jour) — *[brume mortelle](./Brume mortelle.md)* (DD 23), *[débilité](./Débilité.md)* (DD 22), *[résistance à la magie](./sort résistance à la magie.md)*}
-{s:BDSorts|4e (7/jour) — *[confusion](./Confusion.md)* (DD 21), *[porte dimensionnelle](./Porte dimensionnelle.md)*, *[tentacules noirs](./Tentacules noirs.md)*, *[terreur](./Terreur.md)* (DD 20)}
-{s:BDSorts|3e (7/jour) — *[déplacement](./Déplacement.md)*, *[immobilisation de personne](./Immobilisation de personne.md)* (DD 20), *[nuage nauséabond](./Nuage nauséabond.md)* (DD 21), *[suggestion](./Suggestion.md)* (DD 20), *[vol](./sort Vol.md)*}
-{s:BDSorts|2e (8/jour) — *[flèche acide](./Flèche acide.md)*, *[fou rire](./Fou rire.md)* (DD 19), *[invisibilité](./Invisibilité.md)*, *[poussière scintillante](./Poussière scintillante.md)* (DD 20), *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*, *[toile d'araignée](./Toile daraignée.md)* (DD 20)}
-{s:BDSorts|1er (8/jour) — *[armure de mage](./Armure de mage.md)*, *[charme-personne](./Charme-personne.md)* (DD 18), *[couleurs dansantes](./Couleurs dansantes.md)* (DD 17), *[image silencieuse](./Image silencieuse.md)* (DD 17), *[projectile magique](./Projectile magique.md)*, *[rapetissement](./Rapetissement.md)* (DD 17)}
-{s:BDSorts|0 (à volonté) — *[aspersion acide](./Aspersion acide.md)*, *[détection de la magie](./Détection de la magie.md)*, *[hébétement](./Hébétement.md)* (DD 17), *[lecture de la magie](./Lecture de la magie.md)*, *[lumières dansantes](./Lumières dansantes.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[message](./Message.md)*, *[ouverture/fermeture](./Ouverturefermeture.md)*, *[rayon de givre](./Rayon de givre.md)*}
-{s:BDSorts|**Lignage** [draconique](./lignage Draconique.md) (vert)}
+{s:BDTexte|**Attaques spéciales** [[Disciple draconien#MORSUREDUDRAGON|morsure du dragon]], [[Lignage Draconique|griffes]] (2, 1d6+3 plus 1d6 acide, magique, 9 rounds/jour), [[Lignage Draconique|souffle]] (cône de 9 m, 13d6 acide, DD 22, 2/jour)}
+{s:BDTexte|**Sorts d'ensorceleur connus**  ([[NLS]] 12 ; [[concentration]] +18)}
+{s:BDSorts|6e (4/jour) — *[[brume acide]]*, *[[forme draconique I]]*}
+{s:BDSorts|5e (6/jour) — *[[brume mortelle]]* (DD 23), *[[débilité]]* (DD 22), *[[sort Résistance à la magie|résistance à la magie]]*}
+{s:BDSorts|4e (7/jour) — *[[confusion]]* (DD 21), *[[porte dimensionnelle]]*, *[[tentacules noirs]]*, *[[terreur]]* (DD 20)}
+{s:BDSorts|3e (7/jour) — *[[déplacement]]*, *[[immobilisation de personne]]* (DD 20), *[[nuage nauséabond]]* (DD 21), *[[suggestion]]* (DD 20), *[[sort Vol|vol]]*}
+{s:BDSorts|2e (8/jour) — *[[flèche acide]]*, *[[fou rire]]* (DD 19), *[[invisibilité]]*, *[[poussière scintillante]]* (DD 20), *[[résistance aux énergies destructives]]*, *[[toile daraignée|toile d'araignée]]* (DD 20)}
+{s:BDSorts|1er (8/jour) — *[[armure de mage]]*, *[[charme-personne]]* (DD 18), *[[couleurs dansantes]]* (DD 17), *[[image silencieuse]]* (DD 17), *[[projectile magique]]*, *[[rapetissement]]* (DD 17)}
+{s:BDSorts|0 (à volonté) — *[[aspersion acide]]*, *[[détection de la magie]]*, *[[hébétement]]* (DD 17), *[[lecture de la magie]]*, *[[lumières dansantes]]*, *[[manipulation à distance]]*, *[[message]]*, *[[ouverturefermeture|ouverture/fermeture]]*, *[[rayon de givre]]*}
+{s:BDSorts|**Lignage** [[Lignage Draconique|draconique]] (vert)}
 {s:BDSousTitre|Tactique}
 {s:BDTexte|**Avant le combat** Dès qu’il soupçonne l’imminence d’un combat, le disciple draconien lance *armure de mage* et *résistance à la magie*.}
 {s:BDTexte|**Pendant le combat** Le disciple draconien préfère rester à l’écart de la mêlée et entame le combat en lançant *toile d’araignée accélérée*, suivie de *brume acide*. Il lance ensuite *vol*, *tentacules noirs*, *flèche acide*, *débilité* et *brume mortelle* en appliquant le plus judicieusement possible son Incantation rapide.}
@@ -40,11 +40,11 @@ Categories:
 {s:BDSousTitre|Statistiques}
 {s:BDTexte|**For** 16, **Dex** 14, **Con** 15, **Int** 10, **Sag** 8, **Cha** 22}
 {s:BDTexte|**BBA** +7 ; **BMO** +10 ; **DMD** 25}
-{s:BDTexte|**Dons** [Dispense de composantes matérielles](./Dispense de composantes matérielles.md), [École renforcée](./École renforcée.md) (enchantement, invocation), [École supérieure](./École supérieure.md) (invocation), [Esquive](./Esquive.md), [Incantation rapide](./Incantation rapide.md), [Magie de guerre](./Magie de guerre.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Science de l'initiative](./Science de linitiative.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Art de la magie](./Art de la magie.md) +7, [Connaissances](./Connaissances.md) (mystères) +8, [Discrétion](./Discrétion.md) +9, [Escalade](./Escalade.md) +4, [Intimidation](./Intimidation.md) +19, [Linguistique](./Linguistique.md) +1, [Perception](./Perception.md) +12, [Vol](./Vol.md) +6}
+{s:BDTexte|**Dons** [[Dispense de composantes matérielles]], [[École renforcée]] (enchantement, invocation), [[École supérieure]] (invocation), [[Esquive]], [[Incantation rapide]], [[Magie de guerre]], [[Réflexes surhumains]], [[Robustesse]], [[Science de linitiative|Science de l'initiative]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Art de la magie]] +7, [[Connaissances]] (mystères) +8, [[Discrétion]] +9, [[Escalade]] +4, [[Intimidation]] +19, [[Linguistique]] +1, [[Perception]] +12, [[Vol]] +6}
 {s:BDTexte|**Langues** commun, draconien}
-{s:BDTexte|**Particularités** [arcane de lignage](./Ensorceleur.md#LIGNAGE) (les sorts d'acide infligent +1 dégât par dé), [sang des dragons](./Disciple draconien.md#SANGDESDRAGONS)}
-{s:BDTexte|**Équipement de combat** *[baguette](./Baguettes magiques.md) de [détection de pensées](./Détection de pensées.md)* (15 charges), *[potion](./Potions magiques.md) de [ralentissement du poison](./Ralentissement du poison.md)*, *[potion](./Potions magiques.md) de [soins importants](./Soins importants.md)* ; **Équipement divers** *[amulette d'armure naturelle +1](./Amulette darmure naturelle.md)*, *[anneau de protection +2](./Anneau de protection.md)*, *[bandeau de belle allure +2](./Bandeau de belle allure.md)*, [bâton](./bâton (arme).md), *[cape de résistance +2](./Cape de résistance.md)*, *[ceinturon de constitution de l'ours +2](./Ceinturon de constitution de lours.md)*, *[couvre-chef de déguisement](./Couvre-chef de déguisement.md)*, 800 po}
+{s:BDTexte|**Particularités** [[Ensorceleur#LIGNAGE|arcane de lignage]] (les sorts d'acide infligent +1 dégât par dé), [[Disciple draconien#SANGDESDRAGONS|sang des dragons]]}
+{s:BDTexte|**Équipement de combat** *[[Baguettes magiques|baguette]] de [[détection de pensées]]* (15 charges), *[[Potions magiques|potion]] de [[ralentissement du poison]]*, *[[Potions magiques|potion]] de [[soins importants]]* ; **Équipement divers** *[[amulette darmure naturelle|amulette d'armure naturelle +1]]*, *[[anneau de protection|anneau de protection +2]]*, *[[bandeau de belle allure|bandeau de belle allure +2]]*, [[bâton (arme)|bâton]], *[[cape de résistance|cape de résistance +2]]*, *[[ceinturon de constitution de lours|ceinturon de constitution de l'ours +2]]*, *[[couvre-chef de déguisement]]*, 800 po}
 
 </div>
 </td><td><div>

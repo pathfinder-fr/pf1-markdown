@@ -10,6 +10,6 @@ Categories:
 
 {s:CMY}*Le personnage est le pire cauchemar des lanceurs de sorts.*
 
-**Condition.** [Briseur de sorts](./Briseur de sorts.md)
+**Condition.** [[Briseur de sorts]]
 
-**Avantage.** Les créatures non-mythiques menacées par le personnage provoquent une [attaque d’opportunité](./AO.md) de sa part dès qu’elles lancent un sort ou utilisent un pouvoir magique, même si l’incantation se fait [sur la défensive](./Lancer des sorts.md#INCANTATIONSURLADEFENSIVE) ou est accélérée.
+**Avantage.** Les créatures non-mythiques menacées par le personnage provoquent une [[AO|attaque d’opportunité]] de sa part dès qu’elles lancent un sort ou utilisent un pouvoir magique, même si l’incantation se fait [[Lancer des sorts#INCANTATIONSURLADEFENSIVE|sur la défensive]] ou est accélérée.

@@ -8,16 +8,16 @@ Categories:
 - Src Magie de la mer Intérieure
 ---
 
-{s:MMI}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Dru](./Druide.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, M](./composantes.md) (un morceau d’écorce prélevé sur un arbre brûlé de la forêt mystérieuse de l'État serviteur de l'Ombre)
-**Portée** [courte](./Présentation des sorts.md#PORTEE) (7,50 m + 1,50 m/2 niveaux)
+{s:MMI}**École** [[Transmutation]] ; **Niveau** [[Druide|Dru]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, M]] (un morceau d’écorce prélevé sur un arbre brûlé de la forêt mystérieuse de l'État serviteur de l'Ombre)
+**Portée** [[Présentation des sorts#PORTEE|courte]] (7,50 m + 1,50 m/2 niveaux)
 **Zone d'effet** étendue de 6 m de rayon
 **Durée** 1 minute/niveau
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
 *Les druides corrompus de la forêt mystérieuse de l'État serviteur de l'Ombre ont abandonné depuis des lustres l’utilisation du feu pour la gloire du dieu de la torture. Malgré cette aversion, les serviteurs de l'Ombre connaissent la morsure des flammes et ont appris à la retourner contre ceux qui s’en servent.*
 
-Ce sort crée une zone dans laquelle les effets de feu magique se distendent pour se déchaîner sur ceux à l’origine des effets. Une *zone de flammes instables* ne peut être repérée par un observateur de passage, mais la réussite d’un test de [Perception](./Perception.md) ([DD](./DD.md) = 20 + le [niveau de lanceur de sorts](./NLS.md)) révèle la faible présence d’ondes dans la zone, semblable aux distorsions que produit la chaleur dans l’air.
+Ce sort crée une zone dans laquelle les effets de feu magique se distendent pour se déchaîner sur ceux à l’origine des effets. Une *zone de flammes instables* ne peut être repérée par un observateur de passage, mais la réussite d’un test de [[Perception]] ([[DD]] = 20 + le [[NLS|niveau de lanceur de sorts]]) révèle la faible présence d’ondes dans la zone, semblable aux distorsions que produit la chaleur dans l’air.
 
-Quand une créature lance un sort du registre du [feu](./Registre.md) ou active un effet de feu magique (avec un objet magique ou une attaque spéciale) alors qu’elle se tient à l’intérieur d’une *zone de flammes instables*, elle subit les dégâts de feu infligés par l’effet. Si l’effet autorise un [jet de sauvegarde](./JDS.md) pour réduire les dégâts, la victime peut l’effectuer pour les réduire. Toutes les créatures dans la *zone de flammes instables* gagnent un bonus de circonstances de +4 aux jets de sauvegarde contre les effets de feu, mais une créature qui tente un jet de sauvegarde contre les dégâts de feu infligés par ses propres effets magiques ne bénéficie pas de ce bonus. Les feux non magiques dans la zone de flammes instables ne sont pas affectés, mais produisent néanmoins deux fois moins de lumière.
+Quand une créature lance un sort du registre du [[registre|feu]] ou active un effet de feu magique (avec un objet magique ou une attaque spéciale) alors qu’elle se tient à l’intérieur d’une *zone de flammes instables*, elle subit les dégâts de feu infligés par l’effet. Si l’effet autorise un [[jds|jet de sauvegarde]] pour réduire les dégâts, la victime peut l’effectuer pour les réduire. Toutes les créatures dans la *zone de flammes instables* gagnent un bonus de circonstances de +4 aux jets de sauvegarde contre les effets de feu, mais une créature qui tente un jet de sauvegarde contre les dégâts de feu infligés par ses propres effets magiques ne bénéficie pas de ce bonus. Les feux non magiques dans la zone de flammes instables ne sont pas affectés, mais produisent néanmoins deux fois moins de lumière.

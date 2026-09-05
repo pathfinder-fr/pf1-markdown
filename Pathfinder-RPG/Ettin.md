@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde|Plaines|Froid}
 {s:BDTexte|*Source : Bestiaire p.134*}
 {s:BDTexte|**PX** 2.400}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, CM}
-{s:BDTexte|**Init** +3 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, CM}
+{s:BDTexte|**Init** +3 ; **Sens** [[vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 8, pris au dépourvu 18 (armure +2, Dex -1, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 65 (10d8+20)}
@@ -29,15 +29,15 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 23, **Dex** 8, **Con** 15, **Int** 6, **Sag** 10, **Cha** 11}
 {s:BDTexte|**BBA** +7, **BMO** +14, **DMD** 23}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [Science de l'initiative](./Science de linitiative.md), [Science du renversement](./Science du renversement.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Dressage](./Dressage.md) +8, [Perception](./Perception.md) +12 ; **Modificateurs raciaux** [Perception](./Perception.md) +4}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Enchaînement]], [[Science de linitiative|Science de l'initiative]], [[Science du renversement]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Dressage]] +8, [[Perception]] +12 ; **Modificateurs raciaux** [[Perception]] +4}
 {s:BDTexte|**Langues** mélange de géant, de gobelin et d'orque}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines froides}
-{s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-6), troupe (1-2 et 1-2 [ours bruns](./Grizzly.md)), bande (3-6 et 1-2 [ours bruns](./Grizzly.md)) ou colonie (3-6 et 1-2 [ours bruns](./Grizzly.md) et 7-12 [orques](./Orque.md) ou 9-16 [gobelins](./Gobelin.md))}
+{s:BDTexte|**Organisation sociale** solitaire, couple, bande (3-6), troupe (1-2 et 1-2 [[grizzly|ours bruns]]), bande (3-6 et 1-2 [[grizzly|ours bruns]]) ou colonie (3-6 et 1-2 [[grizzly|ours bruns]] et 7-12 [[orque|orques]] ou 9-16 [[gobelin|gobelins]])}
 {s:BDTexte|**Trésor** standard (armure de cuir, 2 fléaux, 4 javelines, autres trésors)}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Perfection du combat à deux armes (Ext).** Au combat, les ettins utilisent un fléau ou une javeline dans chaque main. Comme chacune de leurs deux têtes contrôle un bras, le fait de combattre avec deux armes ne leur impose aucun malus aux [jets d'attaque](./jet dattaque.md) ou de [dégâts](./jet de dégât.md).}
+{s:BDTexte|**Perfection du combat à deux armes (Ext).** Au combat, les ettins utilisent un fléau ou une javeline dans chaque main. Comme chacune de leurs deux têtes contrôle un bras, le fait de combattre avec deux armes ne leur impose aucun malus aux [[jet dattaque|jets d'attaque]] ou de [[jet de dégât|dégâts]].}
 </div>
 </td><td><div>*Ce géant lourdaud et crasseux a deux têtes, tient un énorme fléau dans chacun de ses poings et porte des lambeaux d’armure de cuir.*
 
@@ -46,8 +46,8 @@ imprévisibles qui agissent sous le couvert de la nuit. Leurs deux
 têtes leur donnent des capacités de perception inégalées, ce qui en
 fait d’excellents gardes.
 
-À première vue, les ettins ressemblent à des [géants des collines](./Géant des collines.md) ou à des
-[géants de pierre](./Géant des pierres.md) mais les crocs et les traits de leur visage trahissent la présence
+À première vue, les ettins ressemblent à des [[Géant des collines|géants des collines]] ou à des
+[[Géant des pierres|géants de pierre]] mais les crocs et les traits de leur visage trahissent la présence
 de sang orque dans leurs veines. La couleur de leur peau va du brun au
 rosâtre mais, comme ils évitent autant que possible de se baigner, ils
 sont tellement sales et crasseux que leur chair ressemble à de l’épais
@@ -57,7 +57,7 @@ cuir gris. Les ettins adultes mesurent à peu près 3,90 mètres, pèsent
 Les ettins ne possèdent pas de langage propre et
 baragouinent un mélange de géant, de gobelin et d’orque. Les
 créatures qui connaissent une de ces langues doivent réussir un
-jet d’[Intelligence](./Intelligence.md) DD 15 pour parvenir à communiquer avec un
+jet d’[[Intelligence]] DD 15 pour parvenir à communiquer avec un
 ettin. Chacun de ces jets porte sur une parcelle d’informations. Si
 la créature parle deux de ces langues, le DD descend à 10 et, si elle
 parle les trois langues, il tombe à 5.
@@ -72,7 +72,7 @@ fosses et de tranchées. Des ours des cavernes leur tiennent parfois
 compagnie comme animaux familiers et gardiens du repaire.
 
 Un ettin particulièrement puissant peut attirer quelques
-admirateurs ettins voire quelques alliés [gobelins](./Gobelin.md) ou [orques](./Orque.md). Ces
+admirateurs ettins voire quelques alliés [[Gobelin|gobelins]] ou [[Orque|orques]]. Ces
 rassemblements sont plutôt rares cependant et ne durent jamais
 très longtemps : les différents ettins s’en vont chacun de leur
 côté dès que de nouvelles opportunités de pillage et de butin se

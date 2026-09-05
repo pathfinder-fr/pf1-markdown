@@ -18,7 +18,7 @@ return;
 }
 var firstRow = rows.first();
 var cells = firstRow.children("td,th");
-table.get()[0].filters = [];
+table.get()[[0]].filters = [];
 cells.each(function (idx) {
 var contents = $(this).html;
 var filterLogo = $("<img height='12px' />");
@@ -27,7 +27,7 @@ filterLogo.attr('title', 'Cliquez ici pour filtrer les données');
 filterLogo.css('padding', '0');
 filterLogo.click(doFilter(idx,filterLogo,table));
 $(this).prepend(filterLogo);
-table.get()[0].filters.push(null);
+table.get()[[0]].filters.push(null);
 });
 }
 
@@ -35,11 +35,11 @@ function doFilter(nCol, logo, table) {
 return function () {
 var filter = prompt("Entrez le filtre à appliquer.\nLaisser le cadre vide pour tout afficher; utilisez 'mot1|mot2' pour un choix multiple.", "").trim();
 if (filter == "") {
-table.get()[0].filters[nCol] = null;
+table.get()[[0]].filters[[nCol]] = null;
 logo.css("background-color", "");
 logo.attr("title","Filtre actuel : aucun - cliquez pour changer le filtre");
 } else {
-table.get()[0].filters[nCol] = new RegExp(filter.trim(),"i");
+table.get()[[0]].filters[[nCol]] = new RegExp(filter.trim(),"i");
 logo.css("background-color", "yellow");
 logo.attr("title","Filtre actuel : " + (filter == "" ? "aucun" : filter)
 + " - cliquez pour changer le filtre");
@@ -53,7 +53,7 @@ var rows = table.find("tr").filter(function (idx) {
 return idx > 0 && $(this).children("th").length == 0;
 });
 rows.each(function () {
-var keep = mustKeep(this,table.get()[0].filters);
+var keep = mustKeep(this,table.get()[[0]].filters);
 $(this).css("display", keep ? "table-row" : "none");
 });
 }
@@ -64,8 +64,8 @@ var nCols = filters.length;
 var keep = true;
 var iCol = 0;
 while (keep && iCol < nCols) {
-keep = filters[iCol] === null ||
-cells.eq(iCol).html().match(filters[iCol]) != null;
+keep = filters[[iCol]] === null ||
+cells.eq(iCol).html().match(filters[[iCol]]) != null;
 iCol++;
 }
 return keep;

@@ -10,8 +10,8 @@ Categories:
 
 {s:mca}*Le personnage peut absorber l’énergie magique hostile pour réalimenter sa rage sanguine continue.*
 
-**Conditions.** Capacité à lancer des sorts de [sanguin](./Sanguin.md) de niveau 2, pouvoir de classe [rage sanguine](./Sanguin.md#RAGESANGUINE).
+**Conditions.** Capacité à lancer des sorts de [[sanguin]] de niveau 2, pouvoir de classe [[sanguin#RAGESANGUINE|rage sanguine]].
 
-**Avantage.** Lorsqu’il est en rage sanguine, qu’il réussit un [jet de sauvegarde](./JDS.md) contre un sort profane provoquant des dégâts qui le cible ou l’inclut dans sa zone d’effet, et qu’il ne reçoit aucun dégât de ce sort, le personnage peut absorber une partie de son énergie magique pour alimenter sa rage sanguine. Il regagne 1 round de rage sanguine par tranche de 2 niveaux du sort contre lequel il a réussi son jet de sauvegarde.
+**Avantage.** Lorsqu’il est en rage sanguine, qu’il réussit un [[jds|jet de sauvegarde]] contre un sort profane provoquant des dégâts qui le cible ou l’inclut dans sa zone d’effet, et qu’il ne reçoit aucun dégât de ce sort, le personnage peut absorber une partie de son énergie magique pour alimenter sa rage sanguine. Il regagne 1 round de rage sanguine par tranche de 2 niveaux du sort contre lequel il a réussi son jet de sauvegarde.
 
 Il ne peut pas utiliser ce don pour regagner plus de rounds de rage sanguine que son nombre maximal de rounds par jour, et ne peut pas s'en servir pour excéder son nombre maximal de rounds quotidien.

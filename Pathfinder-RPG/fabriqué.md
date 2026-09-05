@@ -7,4 +7,4 @@ Categories:
 RedirectTo: sous-type Inévitable#FABRIQUE
 ---
 
->>> [sous-type Inévitable#FABRIQUE](./sous-type Inévitable.md#FABRIQUE)
+>>> [[sous-type Inévitable#FABRIQUE]]

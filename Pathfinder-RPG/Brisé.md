@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Brisé
 ---
 
->>> [États préjudiciables#Brisé](./États préjudiciables.md#Brisé)
+>>> [[États préjudiciables#Brisé]]

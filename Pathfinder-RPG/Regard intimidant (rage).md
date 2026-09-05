@@ -7,4 +7,4 @@ Categories:
 RedirectTo: pouvoirs de rage#REGARDINTIMIDANT
 ---
 
->>> [pouvoirs de rage#REGARDINTIMIDANT](./Pouvoirs de rage.md#REGARDINTIMIDANT)
+>>> [[pouvoirs de rage#REGARDINTIMIDANT]]

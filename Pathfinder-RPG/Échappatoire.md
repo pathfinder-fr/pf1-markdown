@@ -11,6 +11,6 @@ Categories:
 
 {s:uc}*Le personnage est entraîné à surveiller les arrières de ses alliés et à les couvrir lors d’une retraite tactique.*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Avantage.** Si un allié qui possède ce don traverse la case du personnage ou une case adjacente, il ne provoque pas d’[attaques d’opportunité](./attaque dopportunité.md).
+**Avantage.** Si un allié qui possède ce don traverse la case du personnage ou une case adjacente, il ne provoque pas d’[[attaque dopportunité|attaques d’opportunité]].

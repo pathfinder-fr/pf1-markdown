@@ -12,21 +12,21 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[sonore](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 7, [Psy](./Psychiste.md) 7  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|sonore]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 5, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 7, [[Psychiste|Psy]] 7  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V](./composantes.md)  
+**Composantes** [[Composantes|V]]  
 
-**Portée** moyenne (30 m + 3 m/[niveau](./niveau.md)) (20 {s:c} + 2 {s:c}/[niveau](./niveau.md))  
+**Portée** moyenne (30 m + 3 m/[[niveau]]) (20 {s:c} + 2 {s:c}/[[niveau]])  
 
 **Cible** une créature  
 
-**Durée** 3 [rounds](./round.md)  
+**Durée** 3 [[round|rounds]]  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) [partielle](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]] [[Présentation des sorts#JETSDESAUVEGARDE|partielle]] ; **Résistance à la magie** oui
 
-Le personnage prononce un terrible mot de pouvoir qui envoie des vibrations potentiellement mortelles dans une cible choisie. Cette dernière doit réussir un [jet de sauvegarde](./jet de sauvegarde.md) par [round](./round.md), à son tour, et l’effet se renforce à chaque échec. Au premier [round](./round.md), la cible subit 5d6 points de dégâts sonores et elle est [chancelante](./Chancelant.md) pendant 1 [round](./round.md). [Jet de sauvegarde](./jet de sauvegarde.md) 1/2 dégâts, annule le [chancellement](./Chancelant.md). Au deuxième [round](./round.md), la cible reçoit 5d6 points de dégâts sonores et elle est [étourdie](./Étourdi.md) pour 1 [round](./round.md). [Jet de sauvegarde](./jet de sauvegarde.md) 1/2 dégâts, annule l’[étourdissement](./Étourdi.md). Au troisième [round](./round.md), la cible subit 10d6 points de dégâts sonores et elle est [étourdie](./Étourdi.md) pendant 1d4+1 [rounds](./round.md). [Jet de sauvegarde](./jet de sauvegarde.md) 1/2 dégâts, annule l’[étourdissement](./Étourdi.md). La parole résonnante n’a plus d’effet après le troisième round, même si on prolonge son effet.
+Le personnage prononce un terrible mot de pouvoir qui envoie des vibrations potentiellement mortelles dans une cible choisie. Cette dernière doit réussir un [[jet de sauvegarde]] par [[round]], à son tour, et l’effet se renforce à chaque échec. Au premier [[round]], la cible subit 5d6 points de dégâts sonores et elle est [[chancelant|chancelante]] pendant 1 [[round]]. [[Jet de sauvegarde]] 1/2 dégâts, annule le [[chancelant|chancellement]]. Au deuxième [[round]], la cible reçoit 5d6 points de dégâts sonores et elle est [[étourdi|étourdie]] pour 1 [[round]]. [[Jet de sauvegarde]] 1/2 dégâts, annule l’[[étourdi|étourdissement]]. Au troisième [[round]], la cible subit 10d6 points de dégâts sonores et elle est [[étourdi|étourdie]] pendant 1d4+1 [[round|rounds]]. [[Jet de sauvegarde]] 1/2 dégâts, annule l’[[étourdi|étourdissement]]. La parole résonnante n’a plus d’effet après le troisième round, même si on prolonge son effet.
 
 ### Mythique
 {s:CMy}

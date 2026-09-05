@@ -15,18 +15,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[dépend du langage](./Registre.md)<nowiki>]</nowiki> ;** Niveau** [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Inq](./Inquisiteur.md) 3, [Méd](./Médium.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|dépend du langage]]<nowiki>]</nowiki> ;** Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Inquisiteur|Inq]] 3, [[Médium|Méd]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M/FD](./composantes.md) (un glyphe écrit sur une feuille de parchemin)  
+**Composantes** [[Composantes|V, G, M/FD]] (un glyphe écrit sur une feuille de parchemin)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** le lanceur de sorts + une créature/[niveau](./niveau.md), qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
+**Cible** le lanceur de sorts + une créature/[[niveau]], qui doivent se trouver à moins de 9 m (6 {s:c}) les unes des autres  
 
-**Durée** 10 minutes/[niveau](./niveau.md) (T)  
+**Durée** 10 minutes/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
 
-Le personnage améliore grandement les aptitudes des sujets à faire passer des messages secrets. Chaque cible gagne un bonus de compétence de +10 aux tests de [Bluff](./Bluff.md) destinés à envoyer des messages secrets aux autres cibles. Les autres créatures subissent un malus de -5 aux tests de [Psychologie](./Psychologie.md) opposés pour déchiffrer ces messages. Tous les sujets affectés par le sort doivent partager un langage commun pour transmettre leurs messages.
+Le personnage améliore grandement les aptitudes des sujets à faire passer des messages secrets. Chaque cible gagne un bonus de compétence de +10 aux tests de [[Bluff]] destinés à envoyer des messages secrets aux autres cibles. Les autres créatures subissent un malus de -5 aux tests de [[Psychologie]] opposés pour déchiffrer ces messages. Tous les sujets affectés par le sort doivent partager un langage commun pour transmettre leurs messages.

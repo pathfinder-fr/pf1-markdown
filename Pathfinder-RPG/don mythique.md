@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Dons Mythiques
 ---
 
->>> [Dons Mythiques](./Dons mythiques.md)
+>>> [[Dons Mythiques]]

@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:ISG}*Distiller votre foi au cœur de votre art vous permet de renforcer vos performances.*
 
-**Conditions.** [Barde](./Barde.md) de niveau 1, [prêtre](./Prêtre.md) ou [oracle](./Oracle.md) de niveau 1, suivant de [Shélyn](./Shélyn (technique).md).
+**Conditions.** [[Barde]] de niveau 1, [[prêtre]] ou [[oracle]] de niveau 1, suivant de [[Shélyn (technique)|Shélyn]].
 
-**Avantage.** Lorsqu'il sélectionne ce don, le personnage choisit la classe de [prêtre](./Prêtre.md) ou d'[oracle](./Oracle.md). Ses niveaux dans la classe choisie s'additionnent à ses niveaux de [barde](./Barde.md) afin de déterminer le nombre de rounds quotidiens de ses [représentations bardiques](./Barde.md#REPRESENTATIONBARDIQUE) ainsi que le type d'action nécessaire pour en entamer une.
+**Avantage.** Lorsqu'il sélectionne ce don, le personnage choisit la classe de [[prêtre]] ou d'[[oracle]]. Ses niveaux dans la classe choisie s'additionnent à ses niveaux de [[barde]] afin de déterminer le nombre de rounds quotidiens de ses [[Barde#REPRESENTATIONBARDIQUE|représentations bardiques]] ainsi que le type d'action nécessaire pour en entamer une.

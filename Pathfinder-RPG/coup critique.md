@@ -7,4 +7,4 @@ Categories:
 RedirectTo: actions simples#COUPCRITIQUE
 ---
 
->>> [actions simples#COUPCRITIQUE](./Actions simples.md#COUPCRITIQUE)
+>>> [[actions simples#COUPCRITIQUE]]

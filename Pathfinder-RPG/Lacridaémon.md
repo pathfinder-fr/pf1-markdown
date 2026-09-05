@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés p.180*}
 {s:BDTexte|XP 800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, NM}
-{s:BDTexte|**Init **+7 ; **Sens** [vision dans le noir](./vision dans le noir.md) à 18m, [détection du Bien](./Détection du Bien.md), [détection de la magie](./Détection de la magie.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille M, NM}
+{s:BDTexte|**Init **+7 ; **Sens** [[vision dans le noir]] à 18m, [[détection du Bien]], [[détection de la magie]] ; [[Perception]] +8}
 {s:BDTexte|**Aura ** aura éplorée (30 m)}
 (((Défense)))
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 12 (+3 Dex, +2 naturel)}
@@ -27,15 +27,15 @@ Categories:
 {s:BDTexte|**Espace** 1,5 m ; **Allonge** 1,5 m}
 {s:BDTexte|**Attaques spéciales** larmes empoisonnées}
 {s:BDTexte|**Pouvoirs magiques** (NLS 4 ; concentration +5)}
-{s:BDSorts|Permanent - [détection du Bien](./Détection du Bien.md), [détection de la magie](./Détection de la magie.md)}
-{s:BDSorts|À volonté – [passage sans trace](./passage sans trace.md)}
-{s:BDSorts|3/jour - [chagrin écrasant](./Chagrin écrasant.md) (Voir L’Art de la magie) (DD14), [téléportation](./téléportation.md) (personnel plus 25 kg d’équipement maximum)}
-{s:BDSorts|1/jour - [immobilisation de personne](./Immobilisation de personne.md) (DD14), [invisibilité](./Invisibilité.md), [collet](./Collet.md), [convocation](./convocation.md) (niveau 4 : 1 [lacridaémon](./Lacridaémon.md), 50%)}
+{s:BDSorts|Permanent - [[détection du Bien]], [[détection de la magie]]}
+{s:BDSorts|À volonté – [[passage sans trace]]}
+{s:BDSorts|3/jour - [[chagrin écrasant]] (Voir L’Art de la magie) (DD14), [[téléportation]] (personnel plus 25 kg d’équipement maximum)}
+{s:BDSorts|1/jour - [[immobilisation de personne]] (DD14), [[invisibilité]], [[collet]], [[convocation]] (niveau 4 : 1 [[lacridaémon]], 50%)}
 (((Statistiques)))
 {s:BDTexte|**For** 14, **Dex** 17, **Con** 14, **Int** 11, **Sag** 13, **Cha** 12}
 {s:BDTexte|**BBA **+4 ; **BMO **+6; **DMD** 19}
-{s:BDTexte|**Dons** [Science de l’initiative](./Science de linitiative.md), [Arme de prédilection](./Arme de prédilection.md) (griffes)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +10 (+14 saut), [Bluff](./Bluff.md) +8, [Escalade](./Escalade.md) +9, [Discrétion](./Discrétion.md) +10,  [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +8}
+{s:BDTexte|**Dons** [[Science de linitiative|Science de l’initiative]], [[Arme de prédilection]] (griffes)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +10 (+14 saut), [[Bluff]] +8, [[Escalade]] +9, [[Discrétion]] +10,  [[Perception]] +8, [[Psychologie]] +8}
 {s:BDTexte|**Langues** abyssal, draconique, infernal; télépathie 30m}
 (((Écologie)))
 {s:BDTexte|**Environnement** quelconque (Abaddon)}
@@ -70,7 +70,7 @@ ces fiélons se cumulent (jusqu’à un maximum de -20). C’est un
 effet mental et sonore.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 ''Sanglotant sans pouvoir se contrôler, cette créature à la peau grise
 a des jambes minces terminées par des sabots noirs fourchus et un
 sourire féroce et dément. Sa peau est déchirée et griffée jusqu’au bout

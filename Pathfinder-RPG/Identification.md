@@ -17,20 +17,20 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Divination](./Divination.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Bard](./Barde.md) 1, [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1, [Spi](./Spirite.md) 1  
+**École** [[Divination]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1, [[Spirite|Spi]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un peu de vin mélangé avec une plume de hibou)  
+**Composantes** [[composantes|V, G, M]] (un peu de vin mélangé avec une plume de hibou)  
 
 **Portée** 18 m/12 {s:c}  
 
-**Zone d'effet** [émanation](./émanation.md) en forme de cône  
+**Zone d'effet** [[émanation]] en forme de cône  
 
-**Durée** 3 [rounds](./round.md)/[niveau](./niveau.md) (T)  
+**Durée** 3 [[round|rounds]]/[[niveau]] (T)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 
-Ce sort fonctionne comme *[détection de la magie](./Détection de la magie.md)* mais il offre un [bonus d’altération](./bonus daltération.md) de +10 aux tests d’[Art de la magie](./Art de la magie.md) destinés à découvrir les propriétés et les [mots de commande](./mot de commande.md) des objets magiques en possession du personnage.
+Ce sort fonctionne comme *[[détection de la magie]]* mais il offre un [[bonus daltération|bonus d’altération]] de +10 aux tests d’[[Art de la magie]] destinés à découvrir les propriétés et les [[mot de commande|mots de commande]] des objets magiques en possession du personnage.
 
-*Identification* ne fonctionne pas sur les [artefacts](./Artefacts.md).
+*Identification* ne fonctionne pas sur les [[artefacts]].

@@ -11,12 +11,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) <nowiki>[</nowiki>[Bien](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Con](./Conjurateur.md) 6, [ConU](./conjurateur unchained.md) 6, [Dru](./Druide.md) 6</br>
-**Temps d’incantation** 1 [round](./round.md)</br>
-**Composantes** [V, G, FD](./composantes.md)</br>
-**Portée** longue (120 m + 12 m/[niveau](./niveau.md)) (80 {s:c} + 8 {s:c}/[niveau](./niveau.md))</br>
-**Effet** convoque des [aigles géants](./Aigle géant.md)</br>
-**Durée** 1 heure/[niveau](./niveau.md)</br>
+**École** [[Invocation]] ([[branche convocation|convocation]]) <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[Conjurateur|Con]] 6, [[Conjurateur unchained|ConU]] 6, [[Druide|Dru]] 6</br>
+**Temps d’incantation** 1 [[round]]</br>
+**Composantes** [[Composantes|V, G, FD]]</br>
+**Portée** longue (120 m + 12 m/[[niveau]]) (80 {s:c} + 8 {s:c}/[[niveau]])</br>
+**Effet** convoque des [[aigle géant|aigles géants]]</br>
+**Durée** 1 heure/[[niveau]]</br>
 **Jet de sauvegarde** non ; **Résistance à la magie** non
 
-Le personnage convoque un vol d’[aigles géants](./Aigle géant.md) (un par tranche de trois [niveaux de lanceur de sorts](./NLS.md), six au maximum) pour qu’ils les emportent, ses alliés et lui, à travers les cieux. Les [aigles](./Aigle géant.md) évitent de se battre autant que possible mais ils se défendent si on les attaque. Dans ce cas, la durée restante du sort passe de 1 heure par [niveau](./niveau.md) à 1 [round](./round.md) par niveau (si le sort devait encore durer 5 heures, les [aigles](./Aigle géant.md) ne se battent que 5 [rounds](./round.md) avant que le sort ne se termine).
+Le personnage convoque un vol d’[[aigle géant|aigles géants]] (un par tranche de trois [[NLS|niveaux de lanceur de sorts]], six au maximum) pour qu’ils les emportent, ses alliés et lui, à travers les cieux. Les [[aigle géant|aigles]] évitent de se battre autant que possible mais ils se défendent si on les attaque. Dans ce cas, la durée restante du sort passe de 1 heure par [[niveau]] à 1 [[round]] par niveau (si le sort devait encore durer 5 heures, les [[aigle géant|aigles]] ne se battent que 5 [[round|rounds]] avant que le sort ne se termine).

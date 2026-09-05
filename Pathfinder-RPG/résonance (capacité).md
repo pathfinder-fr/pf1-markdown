@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Pouvoirs résonants
 ---
 
->>> [Pouvoirs résonants](./Pouvoirs résonants.md)
+>>> [[Pouvoirs résonants]]

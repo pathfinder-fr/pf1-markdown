@@ -8,16 +8,16 @@ Categories:
 - Ville
 ---
 
-{s:Communauté|Carpenden (ville)|[Andoran](./Andoran.md)|[Plaines de Carpenden](./Plaines de Carpenden.md)|N|Standard (gouvernement démocratique)|4 000 po|10 600 (grande ville)|10,176 humains, 212 halfelins, 112 elfes, 100 autres|• **Deliah Grange**, maire (humaine f, aristocrate 6/expert 4)
+{s:Communauté|Carpenden (ville)|[[Andoran]]|[[Plaines de Carpenden]]|N|Standard (gouvernement démocratique)|4 000 po|10 600 (grande ville)|10,176 humains, 212 halfelins, 112 elfes, 100 autres|• **Deliah Grange**, maire (humaine f, aristocrate 6/expert 4)
 • **Ranai Cimbar**, magistrat (humaine m, expert 5)
 • **Jorab Mire**', maréchal (humain m, guerrier 8)
-• **Ebzin Frayn**, banquier (humain m, prêtre d'[Abadar](./Abadar.md) 11)
+• **Ebzin Frayn**, banquier (humain m, prêtre d'[[Abadar]] 11)
 • **Eva Mannos**, dirigeante de caravanes (humaine f, expert 3)
 • **Joniah Kruse**, devin (humaine m, oracle 3)
-• **Alivanta Torgraso**, historienne et érudite (humaine f, devin 6)}Carpenden (parfois appelée Carpendren<sup>(2)</sup>) est la ville la plus influente de la région de Carpenden en [Andoran](./Andoran.md). Située dans le centre nord des [Plaines de Carpenden](./Plaines de Carpenden.md), elle est entourée de collines vallonées qui se prêtent à la création de nombreuses plantations et vergers.<sup>(3)</sup><sup>(4)</sup>
+• **Alivanta Torgraso**, historienne et érudite (humaine f, devin 6)}Carpenden (parfois appelée Carpendren<sup>(2)</sup>) est la ville la plus influente de la région de Carpenden en [[Andoran]]. Située dans le centre nord des [[Plaines de Carpenden]], elle est entourée de collines vallonées qui se prêtent à la création de nombreuses plantations et vergers.<sup>(3)</sup><sup>(4)</sup>
 
 #### Géographie
-La ville de Carpenden est située au nord des [Plaines de Carpenden](./Plaines de Carpenden.md) (d'où elle tire son nom), à l'ouest de la [forêt de Verduran](./Forêt de Verduran.md).<sup>(3)</sup><sup>(5)</sup>
+La ville de Carpenden est située au nord des [[Plaines de Carpenden]] (d'où elle tire son nom), à l'ouest de la [[forêt de Verduran]].<sup>(3)</sup><sup>(5)</sup>
 
 **Organisation de la ville.** Carpenden consiste en plusieurs quartiers farouchement indépendants situés sur différentes collines aux formes étranges, dont les habitants penses que leur quartier est l'origine de la ville, et que les six autres ont été construits alors qu'elle s'étendait.<sup>(1)</sup> Les quartiers (dans l'ordre alphabétique) sont : Arensfell, Colline, Colline de Carpenden, Colline de Ranette, Colline d'Ouest, Phare, et Pic de Tilden (voir ci-dessous).<sup>(5)</sup> Des routes pavées relient les grands bâtiments de briques roses et d'ébène. Les plus hauts édifices se penchent parfois les uns sur les autres, en faisant des terrains de jeux idéals pour les enfants. Chaque colline comprend un ensemble de
 bâtiments publics identiques, disposés sur une place au sommet. Chaque année, il n’y a qu’un seul ensemble en service, déterminé par la bataille de nourriture du festival du Melon argenté.<sup>(1)</sup>

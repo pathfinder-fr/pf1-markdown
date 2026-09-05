@@ -8,21 +8,21 @@ Categories:
 
 {s:MenuPathfinderunchained}{s:PU}*Le personnage comprend les peuples et les systèmes de fonctionnement de la civilisation. Il connait les évènements historiques qui ont formé les sociétés actuelles. La compréhension approfondie des langages fait également partie de ce domaine d’expertise.*
 
-**Caractéristique associée :** [Intelligence](./Intelligence.md) ; **Formation nécessaire :** Oui ; **Malus d'armure :** Non
+**Caractéristique associée :** [[Intelligence]] ; **Formation nécessaire :** Oui ; **Malus d'armure :** Non
 
-**Fonctions.** [Apprendre une langue](./Compétences fusionnées, Société.md#APPRENDREUNELANGUE), [créer ou détecter des contrefaçons](./Compétences fusionnées, Société.md#CREEROUDETECTERDESCONTREFACONS), [décrypter des textes](./Compétences fusionnées, Société.md#DECRYPTERDESTEXTES), [identifier un monstre](./Compétences fusionnées, Société.md#IDENTIFIERUNMONSTRE) (humanoïde), [se remémorer des connaissances](./Compétences fusionnées, Société.md#SEREMEMORERDESCONNAISSANCES) (à propos de l’histoire, du folklore local ou de la noblesse).
+**Fonctions.** [[Compétences fusionnées, Société#APPRENDREUNELANGUE|Apprendre une langue]], [[Compétences fusionnées, Société#CREEROUDETECTERDESCONTREFACONS|créer ou détecter des contrefaçons]], [[Compétences fusionnées, Société#DECRYPTERDESTEXTES|décrypter des textes]], [[Compétences fusionnées, Société#IDENTIFIERUNMONSTRE|identifier un monstre]] (humanoïde), [[Compétences fusionnées, Société#SEREMEMORERDESCONNAISSANCES|se remémorer des connaissances]] (à propos de l’histoire, du folklore local ou de la noblesse).
 
-**Compétences de base.** [Connaissances](./Connaissances.md) (folklore local), [Connaissances](./Connaissances.md) (histoire), [Connaissances](./Connaissances.md) (noblesse), [Linguistique](./Linguistique.md).
+**Compétences de base.** [[Connaissances]] (folklore local), [[Connaissances]] (histoire), [[Connaissances]] (noblesse), [[Linguistique]].
 
 {s:Reference|APPRENDREUNELANGUE}
 ### Apprendre une langue
-Chaque fois que le personnage investit un point dans la compétence de Société, il apprend à parler et à écrire une nouvelle langue. Voir la liste des langues les plus courantes, dans la compétence de base [Linguistique](./Linguistique.md).
+Chaque fois que le personnage investit un point dans la compétence de Société, il apprend à parler et à écrire une nouvelle langue. Voir la liste des langues les plus courantes, dans la compétence de base [[Linguistique]].
 
 **Action.** Aucune. À la différence des autres fonctions de cette compétence, le personnage bénéficie en permanence des avantages de cette fonction.
 
 {s:Reference|CREEROUDETECTERDESCONTREFACONS}
 ### Créer ou détecter des contrefaçons
-Le personnage a besoin des matériaux et des ingrédients correspondant à ceux utilisés pour créer le document à contrefaire. S’il n’a pas besoin d’imiter l’écriture d’un individu donné, il lui suffit d’avoir déjà vu un document du type désiré pour faire le test avec un bonus de +8. Pour reproduire une signature, il doit travailler à partir d’un exemple qui lui donne un bonus de +4. Pour contrefaire un document plus long écrit par un individu spécifique, il doit avoir accès à un échantillon plus important de la calligraphie de cet individu. Le [MJ](./MJ.md) effectue le test de Société en secret, ce qui signifie que le personnage ne connaît jamais avec certitude la qualité de sa contrefaçon jusqu’à ce que quelqu’un l’examine. Le cas échéant, L’individu qui l’examine effectue un test de Société opposé, modifié par les divers bonus et malus applicables indiqués dans la description de la fonction décrypter des textes de la compétence Société.
+Le personnage a besoin des matériaux et des ingrédients correspondant à ceux utilisés pour créer le document à contrefaire. S’il n’a pas besoin d’imiter l’écriture d’un individu donné, il lui suffit d’avoir déjà vu un document du type désiré pour faire le test avec un bonus de +8. Pour reproduire une signature, il doit travailler à partir d’un exemple qui lui donne un bonus de +4. Pour contrefaire un document plus long écrit par un individu spécifique, il doit avoir accès à un échantillon plus important de la calligraphie de cet individu. Le [[MJ]] effectue le test de Société en secret, ce qui signifie que le personnage ne connaît jamais avec certitude la qualité de sa contrefaçon jusqu’à ce que quelqu’un l’examine. Le cas échéant, L’individu qui l’examine effectue un test de Société opposé, modifié par les divers bonus et malus applicables indiqués dans la description de la fonction décrypter des textes de la compétence Société.
 
 **Action.** 1 à 1d4 minutes par page pour contrefaire un document ou 1 round par page pour repérer une contrefaçon.
 
@@ -45,7 +45,7 @@ de Société
 | Texte très ancien,  
 exotique ou complexe || 30
 |}
-</center></div></div>Le personnage peut décrypter les textes incomplets, mais aussi ceux rédigés dans une langue inconnue ou archaïque. En cas de réussite du test, le personnage comprend une page (ou son équivalent) du texte qu’il vient de lire. En cas d’échec, il doit effectuer un test de [Sagesse](./Sagesse.md) [DD](./DD.md) 5 pour ne pas tirer de mauvaises conclusions sur la teneur du texte. Le [MJ](./MJ.md) effectue les deux tests en secret pour que le joueur ne sache pas si les informations découvertes par son personnage sont fiables ou non.
+</center></div></div>Le personnage peut décrypter les textes incomplets, mais aussi ceux rédigés dans une langue inconnue ou archaïque. En cas de réussite du test, le personnage comprend une page (ou son équivalent) du texte qu’il vient de lire. En cas d’échec, il doit effectuer un test de [[Sagesse]] [[DD]] 5 pour ne pas tirer de mauvaises conclusions sur la teneur du texte. Le [[MJ]] effectue les deux tests en secret pour que le joueur ne sache pas si les informations découvertes par son personnage sont fiables ou non.
 
 **Action.** Une minute par page.
 
@@ -53,11 +53,11 @@ exotique ou complexe || 30
 
 {s:Reference|IDENTIFIERUNMONSTRE}
 ### Identifier un monstre
-La compétence de Société permet d’identifier des monstres de type humanoïde. Voir l’encart [Identification des monstres](./Compétences fusionnées.md#IDENTIFIERDESMONSTRES).
+La compétence de Société permet d’identifier des monstres de type humanoïde. Voir l’encart [[Compétences fusionnées#IDENTIFIERDESMONSTRES|Identification des monstres]].
 
 {s:Reference|SEREMEMORERDESCONNAISSANCES}
 ### Se remémorer des connaissances
-Le personnage peut utiliser la compétence Société pour se remémorer des informations à propos des habitants d’une région, des personnalités prépondérantes, de la royauté, des lignées nobles, des évènements historiques, des coutumes, des légendes et des lois. Voir l’encart [Se remémorer des connaissances](./Compétences fusionnées.md#SEREMEMORERDESCONNAISSANCES) pour plus de détails. Utilisez les [DD](./DD.md) de la table suivante pour certaines tâches.
+Le personnage peut utiliser la compétence Société pour se remémorer des informations à propos des habitants d’une région, des personnalités prépondérantes, de la royauté, des lignées nobles, des évènements historiques, des coutumes, des légendes et des lois. Voir l’encart [[Compétences fusionnées#SEREMEMORERDESCONNAISSANCES|Se remémorer des connaissances]] pour plus de détails. Utilisez les [[DD]] de la table suivante pour certaines tâches.
 
 <center>
 {| CLASS="tablo autoalt"

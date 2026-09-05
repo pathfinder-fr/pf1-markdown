@@ -7,23 +7,23 @@ Categories:
 - Src Codex monstrueux
 ---
 
-{s:menuracesextraordinaires}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [fiche de créature](./Duergar.md) d'un duergar standard.***
+{s:menuracesextraordinaires}<div style="background-color: #fff; float: right; padding: 0 0 8px 8px"><nav class="wiki-toc"></nav></div>{s:MR}***Voir aussi la [[Duergar|fiche de créature]] d'un duergar standard.***
 
 Les duergars habitent dans des cavernes souterraines, loin de la caresse de la lumière. Ils détestent toutes les races qui vivent sous la lumière du soleil, mais cette haine est bien pâle face à la répulsion qu’ils éprouvent pour leurs cousins nains de la surface. Les nains et les duergars appartenaient autrefois à une seule et même race, mais les nains quittèrent les profondeurs de leurs forteresses montagneuses. Les duergars se considèrent encore comme les seuls véritables nains, les héritiers légitimes de tout le monde souterrain. Physiquement, ils ressemblent à des nains à la peau grise, barbus, mais chauves, aux yeux froids dépourvus de toute lumière. En combat, ils privilégient la capture de prisonniers aux massacres sans vergogne, sauf en ce qui concerne les nains de la surface qu’ils abattent sans hésitation. Les duergars considèrent la vie comme un labeur sans fin dont seule la mort délivre. Bien que peu d’entre eux puissent être décrits autrement que comme des êtres vils et cruels, les duergars accordent beaucoup d’importance à l’honneur et manquent rarement à leur parole.
 
 {s:Reference|TRAITSSTANDARDS}
 ### Traits raciaux standards
 <div class="presentation arrondi ombre espaceliste">
-- **+2 [Constitution](./Constitution.md), +2 [Sagesse](./Sagesse.md), -4 [Charisme](./Charisme.md).** Les duergars sont robustes et alertes, mais également querelleurs.
-- **Taille M.** Les duergars sont des créatures de [taille M](./taille M.md) et n’ont aucun bonus ni malus de taille.
-- **Nain.** Les duergars sont des [humanoïdes](./type Humanoïde.md) de sous-type [nain](./sous-type nain.md).
-- **Lentement mais sûrement.** Les duergars ont une [vitesse de base](./VD.md) de 6 mètres, mais elle ne varie jamais, quelle que soit l’armure ou le poids qu’ils portent.
-- **Vision dans le noir supérieure.** Les duergars [voient dans le noir](./vision dans le noir (capacité).md) à 36 mètres.
-- **Immunités des duergars.** Les duergars sont [immunisés](./Immunité (capacité).md) à la [paralysie](./Paralysé.md), aux [fantasmes](./branche fantasme.md) et aux [poisons](./Poisons.md). Ils bénéficient d’un bonus racial de +2 à leurs [jets de sauvegarde](./JDS.md) contre les sorts et les [pouvoirs magiques](./Pouvoirs magiques (capacité).md).
-- **Stabilité.** Les duergars reçoivent un bonus racial de +4 à leur [DMD](./DMD.md) contre les tentatives de [bousculade](./bousculade.md) et de [croc-en-jambe](./croc-en-jambe.md) lorsqu’ils sont sur la terre ferme.
-- **Pouvoirs magiques.** Les duergars peuvent utiliser *[agrandissement](./Agrandissement.md)* et *[invisibilité](./Invisibilité.md)* comme des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) chacun une fois par jour, utilisant son niveau de personnage comme [niveau de lanceur de sorts](./NLS.md), et uniquement sur lui-même.
-- **Sensible à la lumière.** Les duergars sont [éblouis](./Ébloui.md) lorsqu’ils sont dans des zones de [lumière vive](./Exploration.md#VISIONLUMIERE).
-- **Langues.** Les duergars commencent le jeu en parlant le commun, le nain et le commun des profondeurs. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi celles-ci : aklo, draconique, géant, gobelin, orque et terreux.
+- **+2 [[Constitution]], +2 [[Sagesse]], -4 [[Charisme]].** Les duergars sont robustes et alertes, mais également querelleurs.
+- **Taille M.** Les duergars sont des créatures de [[taille M]] et n’ont aucun bonus ni malus de taille.
+- **Nain.** Les duergars sont des [[type Humanoïde|humanoïdes]] de sous-type [[sous-type nain|nain]].
+- **Lentement mais sûrement.** Les duergars ont une [[VD|vitesse de base]] de 6 mètres, mais elle ne varie jamais, quelle que soit l’armure ou le poids qu’ils portent.
+- **Vision dans le noir supérieure.** Les duergars [[Vision dans le noir (capacité)|voient dans le noir]] à 36 mètres.
+- **Immunités des duergars.** Les duergars sont [[Immunité (capacité)|immunisés]] à la [[paralysé|paralysie]], aux [[branche fantasme|fantasmes]] et aux [[poisons]]. Ils bénéficient d’un bonus racial de +2 à leurs [[jds|jets de sauvegarde]] contre les sorts et les [[Pouvoirs magiques (capacité)|pouvoirs magiques]].
+- **Stabilité.** Les duergars reçoivent un bonus racial de +4 à leur [[DMD]] contre les tentatives de [[bousculade]] et de [[croc-en-jambe]] lorsqu’ils sont sur la terre ferme.
+- **Pouvoirs magiques.** Les duergars peuvent utiliser *[[agrandissement]]* et *[[invisibilité]]* comme des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] chacun une fois par jour, utilisant son niveau de personnage comme [[NLS|niveau de lanceur de sorts]], et uniquement sur lui-même.
+- **Sensible à la lumière.** Les duergars sont [[ébloui|éblouis]] lorsqu’ils sont dans des zones de [[Exploration#VISIONLUMIERE|lumière vive]].
+- **Langues.** Les duergars commencent le jeu en parlant le commun, le nain et le commun des profondeurs. Ceux qui ont une valeur d’[[Intelligence]] élevée peuvent apprendre d’autres langues parmi celles-ci : aklo, draconique, géant, gobelin, orque et terreux.
 
 </div>
 
@@ -32,25 +32,25 @@ Les duergars habitent dans des cavernes souterraines, loin de la caresse de la l
 {s:MR}Il est possible de choisir les traits raciaux suivants à la place des traits raciaux existants des duergars. Consultez votre MJ avant de prendre ces nouvelles options.
 
 <u>*Remplace « immunités des duergars » et/ou « stabilité » :*</u>
-- **Traits nains.** Les duergars peuvent choisir n’importe quel [trait racial nain](./Nain.md#Traits_raciaux_alternatifs_7) qui remplace stabilité. Ils peuvent choisir des traits raciaux nains qui remplacent le trait racial nain robuste en renonçant au trait immunités des duergars à la place.
+- **Traits nains.** Les duergars peuvent choisir n’importe quel [[Nain#Traits_raciaux_alternatifs_7|trait racial nain]] qui remplace stabilité. Ils peuvent choisir des traits raciaux nains qui remplacent le trait racial nain robuste en renonçant au trait immunités des duergars à la place.
 
 <u>*Remplace « pouvoirs magiques » :*</u>
-- **Magie profonde.** Les lanceurs de sorts duergars doivent travailler dur pour surmonter la résistance à la magie innée dont jouissent nombre de leurs ennemis souterrains. Les duergars ayant ce trait racial reçoivent un bonus racial de +2 à leurs tests de [niveau de lanceur de sorts](./NLS.md) quand il s’agit de passer la [résistance à la magie](./RM.md), et un bonus racial de +2 à leurs tests de [dissipation](./Dissipation de la magie.md). Ce trait racial remplace les pouvoirs magiques *agrandissement* et *invisibilité*.
+- **Magie profonde.** Les lanceurs de sorts duergars doivent travailler dur pour surmonter la résistance à la magie innée dont jouissent nombre de leurs ennemis souterrains. Les duergars ayant ce trait racial reçoivent un bonus racial de +2 à leurs tests de [[NLS|niveau de lanceur de sorts]] quand il s’agit de passer la [[RM|résistance à la magie]], et un bonus racial de +2 à leurs tests de [[Dissipation de la magie|dissipation]]. Ce trait racial remplace les pouvoirs magiques *agrandissement* et *invisibilité*.
 
 <u>*Remplace « pouvoir magique (agrandissement) » :*</u>
-- {s:CM}**À peau de fer.** Un duergar est parfois imprégné de l’âme de la terre, qui lui permet de durcir sa peau. Un individu doté de ce trait racial peut utiliser *[peau en fer](./Peau en fer.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) une fois par jour, en utilisant son niveau de personnage comme [niveau de lanceur de sorts](./NLS.md). Ce trait racial remplace le pouvoir magique *agrandissement*.
+- {s:CM}**À peau de fer.** Un duergar est parfois imprégné de l’âme de la terre, qui lui permet de durcir sa peau. Un individu doté de ce trait racial peut utiliser *[[peau en fer]]* comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] une fois par jour, en utilisant son niveau de personnage comme [[NLS|niveau de lanceur de sorts]]. Ce trait racial remplace le pouvoir magique *agrandissement*.
 
 <u>*Remplace « pouvoir magique (invisibilité) » :*</u>
-- **Ennemi de sang.** Les duergars se battent depuis longtemps contre leurs cousins nains et contre les drows tant détestés. Un duergar possédant ce trait racial reçoit un bonus racial de +1 à ses [jets d’attaque](./jet dattaque.md) contre les créatures [humanoïdes](./type Humanoïde.md) de sous-type [nain](./sous-type nain.md) ou [elfe](./sous-type elfe.md). Ce trait racial remplace le pouvoir magique *invisibilité*.
-- {s:cs}{s:ISR}**Maître d'œuvre magique.** Certains duergars font montre d'une magie plus insidieuse que le reste de leurs congénères, une différence souvent considérée comme un signe de la bénédiction de [Droskar](./Droskar (technique).md). Ils peuvent utiliser *[charme-personne](./Charme-personne.md)* une fois par jour comme un [pouvoir magique](./Pouvoirs magiques (capacité).md). Le [DD](./DD.md) du [jet de sauvegarde](./JDS.md) est égal à 10 + la moitié du nombre de [DV](./../Ressources/DV.md) du duergar + son modificateur de [Sagesse](./Sagesse.md). Ce trait racial remplace le pouvoir magique *invisibilité*.
-- {s:CM}**Touché par le crépuscule.** La plupart des duergars savent se rendre invisibles mais d’autres sont, à la place, capables d’éteindre les lumières qui les entourent. Ils peuvent utiliser *[poussière du crépuscule](./Poussière du crépuscule.md)* comme un [pouvoir magique](./Pouvoirs magiques (capacité).md) une fois par jour, en utilisant leur niveau de personnage comme [niveau de lanceur de sorts](./NLS.md). Ce trait racial remplace le pouvoir magique *invisibilité*.
+- **Ennemi de sang.** Les duergars se battent depuis longtemps contre leurs cousins nains et contre les drows tant détestés. Un duergar possédant ce trait racial reçoit un bonus racial de +1 à ses [[jet dattaque|jets d’attaque]] contre les créatures [[type Humanoïde|humanoïdes]] de sous-type [[sous-type nain|nain]] ou [[sous-type elfe|elfe]]. Ce trait racial remplace le pouvoir magique *invisibilité*.
+- {s:cs}{s:ISR}**Maître d'œuvre magique.** Certains duergars font montre d'une magie plus insidieuse que le reste de leurs congénères, une différence souvent considérée comme un signe de la bénédiction de [[Droskar (technique)|Droskar]]. Ils peuvent utiliser *[[charme-personne]]* une fois par jour comme un [[Pouvoirs magiques (capacité)|pouvoir magique]]. Le [[DD]] du [[jds|jet de sauvegarde]] est égal à 10 + la moitié du nombre de [[DV]] du duergar + son modificateur de [[Sagesse]]. Ce trait racial remplace le pouvoir magique *invisibilité*.
+- {s:CM}**Touché par le crépuscule.** La plupart des duergars savent se rendre invisibles mais d’autres sont, à la place, capables d’éteindre les lumières qui les entourent. Ils peuvent utiliser *[[poussière du crépuscule]]* comme un [[Pouvoirs magiques (capacité)|pouvoir magique]] une fois par jour, en utilisant leur niveau de personnage comme [[NLS|niveau de lanceur de sorts]]. Ce trait racial remplace le pouvoir magique *invisibilité*.
 
 <u>*Remplace « sensible à la lumière » et « vision dans le noir supérieure » :*</u>
-- **Vision de jour.** Certains duergars sont moins sensibles à la cruelle lumière du soleil que d’autres. Ces duergars n’ont pas le trait racial sensible à la lumière, mais possèdent [vision dans le noir](./vision dans le noir (capacité).md) à seulement 18 mètres. Ce trait racial remplace vision dans le noir supérieure et sensible à la lumière
+- **Vision de jour.** Certains duergars sont moins sensibles à la cruelle lumière du soleil que d’autres. Ces duergars n’ont pas le trait racial sensible à la lumière, mais possèdent [[Vision dans le noir (capacité)|vision dans le noir]] à seulement 18 mètres. Ce trait racial remplace vision dans le noir supérieure et sensible à la lumière
 
 
 ### Bonus alternatifs de classe de prédilection
-{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION), à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
+{s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
 
 Le personnage choisit son option de classe de prédilection quand il gagne un niveau. Ces avantages se cumulent toujours, sauf indication contraire.
 
@@ -59,13 +59,13 @@ Enfin, à chaque fois que le personnage les choisit, nombre d’avantages altern
 Certaines options s’accompagnent d’une limite numéraire fixe, une fois cette limite atteinte, il ne sert plus à rien de choisir l’option qui n’a pas d’effet supplémentaire. Le personnage peut toujours choisir une récompense ordinaire quand il gagne un niveau dans sa classe de prédilection (à savoir 1 point de vie ou 1 rang de compétence supplémentaire).
 
 <table width="100%"><tr><td width="49%">
-**[Guerrier](./Guerrier.md).** Ajoutez un bonus de +1 au [DMD](./DMD.md) du guerrier quand il résiste à une tentative de [bousculade](./bousculade.md) ou de [croc-en-jambe](./croc-en-jambe.md).
+**[[Guerrier]].** Ajoutez un bonus de +1 au [[DMD]] du guerrier quand il résiste à une tentative de [[bousculade]] ou de [[croc-en-jambe]].
 
-**[Inquisiteur](./Inquisiteur.md).** Ajoutez +1/6 au nombre de fois par jour où l’inquisiteur peut utiliser la capacité de classe [jugement](./Inquisiteur.md#JUGEMENT).
+**[[Inquisiteur]].** Ajoutez +1/6 au nombre de fois par jour où l’inquisiteur peut utiliser la capacité de classe [[Inquisiteur#JUGEMENT|jugement]].
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124" width="1%"></td>
 </td><td width="49%">
-**[Prêtre](./Prêtre.md).** Ajoutez un bonus de +1/2 aux tests visant à [créer des objets magiques](./Création dobjets magiques.md).
+**[[Prêtre]].** Ajoutez un bonus de +1/2 aux tests visant à [[Création dobjets magiques|créer des objets magiques]].
 </td></tr></table>
 
 ### Nouvelles règles raciales
@@ -83,40 +83,40 @@ Ces dons sont accessibles aux duergars :
 | WIDTH="44%" | Avantages
 
 |- CLASS="premier"
-| [Dur comme le fer](./Dur comme le fer.md) || <sup>CM</sup> || [Robustesse](./Robustesse.md), [duergar](./duergar (race).md) || Les bonus d'altération à l'armure naturelle fonctionnent mieux sur le personnage
+| [[Dur comme le fer]] || <sup>CM</sup> || [[Robustesse]], [[Duergar (race)|duergar]] || Les bonus d'altération à l'armure naturelle fonctionnent mieux sur le personnage
 |- CLASS="premier"
-| [Flexibilité innée](./Flexibilité innée.md) || <sup>CM</sup> || [Duergar](./duergar (race).md); deux pouvoirs magiques utilisables une fois par jour || Gain d'utilisations supplémentaires des pouvoirs magiques
+| [[Flexibilité innée]] || <sup>CM</sup> || [[Duergar (race)|Duergar]]; deux pouvoirs magiques utilisables une fois par jour || Gain d'utilisations supplémentaires des pouvoirs magiques
 |- CLASS="premier"
-| [Invisibilité prolongée](./Invisibilité prolongée.md) || <sup>MR</sup> || [duergar](./duergar (race).md) || Voir description du don
+| [[Invisibilité prolongée]] || <sup>MR</sup> || [[duergar (race)|duergar]] || Voir description du don
 |- CLASS="premier"
-| [Magie des nains gris](./Magie des nains gris.md) || <sup>CM</sup> || [Duergar](./duergar (race).md) || Gain d'un nouveau pouvoir magique duergar
+| [[Magie des nains gris]] || <sup>CM</sup> || [[Duergar (race)|Duergar]] || Gain d'un nouveau pouvoir magique duergar
 |- CLASS="premier"
-| [Pas de géant](./Pas de géant.md) || <sup>MR</sup> || [duergar](./duergar (race).md), trait racial lentement mais sûrement || Voir description du don
+| [[Pas de géant]] || <sup>MR</sup> || [[duergar (race)|duergar]], trait racial lentement mais sûrement || Voir description du don
 
 |}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes
 Ces archétypes raciaux sont accessibles aux duergars :
-- [Disciple gris (moine)](./Disciple gris (moine).md)
+- [[Disciple gris (moine)]]
 
 #### Équipement
 Les duergars ont accès à l’équipement suivant :
-- [Brûle-sorts (poison)](./Poisons.md#Brûle-sorts)
-- [Arbalète légère d'esclavagiste](./arbalète légère desclavagiste (arme).md)
-- [Arbalète lourde d'esclavagiste](./arbalète lourde desclavagiste (arme).md)
-- [Carreaux bolas (10)](./carreaux bolas (arme).md)
+- [[Poisons#Brûle-sorts|Brûle-sorts (poison)]]
+- [[arbalète légère desclavagiste (arme)|Arbalète légère d'esclavagiste]]
+- [[arbalète lourde desclavagiste (arme)|Arbalète lourde d'esclavagiste]]
+- [[carreaux bolas (arme)|Carreaux bolas (10)]]
 
 </div><div class="wiki-col wiki-col-6">
 #### Objet magique
 Ces objets magiques sont spécifiques aux duergars :
-- [Bandeau de contrôle de la vermine](./Bandeau de contrôle de la vermine.md)
+- [[Bandeau de contrôle de la vermine]]
 
 #### Sorts
 Ces sorts sont réservés aux duergars :
-- ***[Contrôle de la vermine](./Contrôle de la vermine.md)*** *(CM)* ([Dru 2](./Druide.md), [Ens](./Ensorceleur.md)/[Mag 3](./Magicien.md), [Prê 3](./Prêtre.md), [Rôd 4](./Rôdeur.md), [Sor 2](./Sorcière.md)). Le personnage et ses alliés peuvent contrôler la vermine et la chevaucher.
-- ***[Peau en fer](./Peau en fer.md)*** *(CM)* ([Alch 2](./Alchimiste.md), [Apal 2](./Antipaladin.md), [Dru 2](./Druide.md), [Pal 2](./Paladin.md), [Prê 2](./Prêtre.md), [Psy 2](./Psychiste.md), [Rôd 2](./Rôdeur.md), [San 2](./Sanguin.md), [Sor 2](./Sorcière.md)). La peau du personnage durcit et prend la couleur et la texture du fer.
-- ***[Sceau de poussière](./Sceau de poussière.md)*** *(CM)* ([Ens](./Ensorceleur.md)/[Mag 6](./Magicien.md), [Prê 6](./Prêtre.md), [Sor 6](./Sorcière.md)). Protège un objet pour qu'il s'auto-détruise si une créature tente de l'utiliser ou de comprendre son fonctionnement.
+- ***[[Contrôle de la vermine]]*** *(CM)* ([[Druide|Dru 2]], [[Ensorceleur|Ens]]/[[Magicien|Mag 3]], [[Prêtre|Prê 3]], [[Rôdeur|Rôd 4]], [[Sorcière|Sor 2]]). Le personnage et ses alliés peuvent contrôler la vermine et la chevaucher.
+- ***[[Peau en fer]]*** *(CM)* ([[Alchimiste|Alch 2]], [[Antipaladin|Apal 2]], [[Druide|Dru 2]], [[Paladin|Pal 2]], [[Prêtre|Prê 2]], [[Psychiste|Psy 2]], [[Rôdeur|Rôd 2]], [[Sanguin|San 2]], [[Sorcière|Sor 2]]). La peau du personnage durcit et prend la couleur et la texture du fer.
+- ***[[Sceau de poussière]]*** *(CM)* ([[Ensorceleur|Ens]]/[[Magicien|Mag 6]], [[Prêtre|Prê 6]], [[Sorcière|Sor 6]]). Protège un objet pour qu'il s'auto-détruise si une créature tente de l'utiliser ou de comprendre son fonctionnement.
 </div></div>
 
 {s:cm}

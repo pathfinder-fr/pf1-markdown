@@ -7,4 +7,4 @@ LastModified: 2012-09-29 15:22
 {s:UM}
 **Niveau** 0
 
-Un sort incluant ce méta mot double sa durée. Il n’a aucun effet sur les mots effet dont la durée est instantanée. L’effet de ce mot ne se cumule pas avec celui du don [Extension d’effet](./Extension deffet.md).
+Un sort incluant ce méta mot double sa durée. Il n’a aucun effet sur les mots effet dont la durée est instantanée. L’effet de ce mot ne se cumule pas avec celui du don [[Extension deffet|Extension d’effet]].

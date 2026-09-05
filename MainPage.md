@@ -9,7 +9,7 @@ LastModified: 2017-04-01 20:54
 <tr>
 <td width="42%">
 ### Pathfinder, kézako ?
-Vous n'avez peut-être jamais entendu parler de Pathfinder ? Ou alors vous avez déjà entendu ce nom mais vous ne savez pas exactement de quoi il s'agit ? Pour en apprendre plus au sujet du système de règles, du monde de campagne et des aventures qui se cachent derrière ce nom, dirigez-vous vers la page de [présentation de Pathfinder](./Découverte.md).
+Vous n'avez peut-être jamais entendu parler de Pathfinder ? Ou alors vous avez déjà entendu ce nom mais vous ne savez pas exactement de quoi il s'agit ? Pour en apprendre plus au sujet du système de règles, du monde de campagne et des aventures qui se cachent derrière ce nom, dirigez-vous vers la page de [[Découverte|présentation de Pathfinder]].
 
 </td>
 <td width="16%">
@@ -17,7 +17,7 @@ Vous n'avez peut-être jamais entendu parler de Pathfinder ? Ou alors vous avez
 </td>
 <td width="42%">
 ### Pathfinder-FR, kézako ?
-Pathfinder-FR est un site communautaire pour les fans francophones des diverses gammes Pathfinder qui, en plus de permettre aux fans de discuter et de jouer ensemble, présente des tonnes d'informations officielles ou non au sujet de Pathfinder (voir plus bas). Pour en savoir plus sur l'organisation de Pathfinder-FR, dirigez-vous vers [cette page](./Structure.md).
+Pathfinder-FR est un site communautaire pour les fans francophones des diverses gammes Pathfinder qui, en plus de permettre aux fans de discuter et de jouer ensemble, présente des tonnes d'informations officielles ou non au sujet de Pathfinder (voir plus bas). Pour en savoir plus sur l'organisation de Pathfinder-FR, dirigez-vous vers [[Structure|cette page]].
 
 </td></tr></table>
 
@@ -27,19 +27,19 @@ Pathfinder-FR est un site communautaire pour les fans francophones des diverses 
 <p class="description">Pathfinder-FR offre de nombreuses choses à découvrir pour les joueurs intéressés par Pathfinder RPG ou par le monde de Golarion.</p>
 #### Wiki règles
 
-[Le wiki Pathfinder-RPG](./Pathfinder-RPG/MainPage.md) reprend toutes les règles officielles, histoire de construire un personnage ou de vérifier le fonctionnement d'un don ou d'un sort en simple clic. Il comprend aussi que plusieurs [aides de jeu](./Pathfinder-RPG/Aides de jeu.md) pour mieux comprendre ou retenir les règles les plus délicates.
+[[Pathfinder-RPG.Mainpage|Le wiki Pathfinder-RPG]] reprend toutes les règles officielles, histoire de construire un personnage ou de vérifier le fonctionnement d'un don ou d'un sort en simple clic. Il comprend aussi que plusieurs [[Pathfinder-RPG.Aides de jeu|aides de jeu]] pour mieux comprendre ou retenir les règles les plus délicates.
 
 #### Wiki Golarion
 
-[Le wiki Golarion](./Golarion/MainPage.md) contient des tonnes d'informations sur Golarion, le monde de campagne de Pathfinder (géographie, histoire, religion, organisations et plus encore). Avec diverses [aides de jeu](./Golarion/Aides de jeu.md) pour mieux comprendre le monde ou encore la traduction de [Wayfinder](./Golarion/Wayfinder.md), un magazine écrit par les fans et pour les fans !
+[[Golarion.Mainpage|Le wiki Golarion]] contient des tonnes d'informations sur Golarion, le monde de campagne de Pathfinder (géographie, histoire, religion, organisations et plus encore). Avec diverses [[Golarion.Aides de jeu|aides de jeu]] pour mieux comprendre le monde ou encore la traduction de [[Golarion.Wayfinder|Wayfinder]], un magazine écrit par les fans et pour les fans !
 
 #### Wiki Publications
 
-Ce wiki contient des listes actualisées reprenant les divers [livres sur Pathfinder RPG](./Pathfinder-RPG/Publications.md) et [publications sur Golarion](./Golarion/Publications.md) parues ou à paraître, en VO et en VF !
+Ce wiki contient des listes actualisées reprenant les divers [[Pathfinder-RPG.Publications|livres sur Pathfinder RPG]] et [[Golarion.Publications|publications sur Golarion]] parues ou à paraître, en VO et en VF !
 
 #### Wiki Ressources
 
-[Divers articles et des aides de jeu](./Ressources/MainPage.md) sont regroupées sur le wiki Informations pour faciliter la création d'un personnage, gérer ses sorts ou découvrir de nouvelles créations en rapport avec Pathfinder.
+[[Ressources.Mainpage|Divers articles et des aides de jeu]] sont regroupées sur le wiki Informations pour faciliter la création d'un personnage, gérer ses sorts ou découvrir de nouvelles créations en rapport avec Pathfinder.
 
 #### Blog
 
@@ -58,14 +58,14 @@ Ce wiki contient des listes actualisées reprenant les divers [livres sur Pathfi
 <p class="description">Les MJ peuvent bien sûr utiliser toutes les choses que Pathfinder-FR offre aux joueurs, mais certaines sections leur sont plus particulièrement destinées.</p>
 #### Wiki Ressources
 
-[Le wiki Ressources](./Ressources/MainPage.md) déborde d'articles divers pour agrémenter les parties ou introduire des idées nouvelles, dont certains traduits directement du blog du célèbre magazine Kobold Quarterly, en plus de nombreuses créations de fans (comme l'adaptation du monde de [Midnight](./Ressources/Midnight.md) à Pathfinder RPG et des tutoriels et guides divers pour jouer en ligne et/ou faire ses propres cartes !
+[[Ressources.Mainpage|Le wiki Ressources]] déborde d'articles divers pour agrémenter les parties ou introduire des idées nouvelles, dont certains traduits directement du blog du célèbre magazine Kobold Quarterly, en plus de nombreuses créations de fans (comme l'adaptation du monde de [[Ressources.Midnight|Midnight]] à Pathfinder RPG et des tutoriels et guides divers pour jouer en ligne et/ou faire ses propres cartes !
 #### Wiki Aventures
 
-[Le wiki Aventures](./Aventures/MainPage.md) présente en détail chacune des [campagnes](./Aventures/Campagnes.md) (ou adventure paths) et chacun des [modules](./Aventures/Présentation modules.md) officiels, avec de nombreuses aides de jeu pouvant aller d'idées pour étoffer l'aventure à des conversions complètes en Pathfinder.
+[[Aventures.Mainpage|Le wiki Aventures]] présente en détail chacune des [[Aventures.Campagnes|campagnes]] (ou adventure paths) et chacun des [[Aventures.présentation modules|modules]] officiels, avec de nombreuses aides de jeu pouvant aller d'idées pour étoffer l'aventure à des conversions complètes en Pathfinder.
 
-Une [banque de PNJ](./Aventures/Liste PNJ.md) tout prêts où chaque MJ peut venir partager ses créations ou profiter de celles des autres, ainsi que plusieurs [aventures](./Aventures/Aventures de fans.md) écrites par des fans et/ou par des professionnels.
+Une [[Aventures.Liste PNJ|banque de PNJ]] tout prêts où chaque MJ peut venir partager ses créations ou profiter de celles des autres, ainsi que plusieurs [[Aventures.Aventures de fans|aventures]] écrites par des fans et/ou par des professionnels.
 
-Une section dédiée à la [Campagne Organisée de la Société des Eclaireurs](./Aventures/Présentation Pathfinder Society.md) (Pathfinder Society) incluant la traduction en français du Guide de la Société des Éclaireurs, ainsi qu' une présentation de tous les scénarios disponibles en VO et en VF.
+Une section dédiée à la [[Aventures.Présentation Pathfinder Society|Campagne Organisée de la Société des Eclaireurs]] (Pathfinder Society) incluant la traduction en français du Guide de la Société des Éclaireurs, ainsi qu' une présentation de tous les scénarios disponibles en VO et en VF.
 
 #### Galerie
 
@@ -73,11 +73,11 @@ Une section dédiée à la [Campagne Organisée de la Société des Eclaireurs](
 
 #### Outils en ligne
 
-[De nombreux outils en ligne](./Parties-MainPage.md) (pour les feuilles de personnage et les battlemaps) ainsi que des galeries de jetons pour pouvoir mener des parties en ligne sur les forums de Pathfinder-FR.
+[[Parties.MainPage|De nombreux outils en ligne]] (pour les feuilles de personnage et les battlemaps) ainsi que des galeries de jetons pour pouvoir mener des parties en ligne sur les forums de Pathfinder-FR.
 
 #### Export des données
 
-[Un export des données](./Db/MainPage.md) du wiki, pour permettre de réutiliser les données du site dans vos propres outils.
+[[Db.MainPage|Un export des données]] du wiki, pour permettre de réutiliser les données du site dans vos propres outils.
 
 </td></tr></table>
 

@@ -11,16 +11,16 @@ LastModified: 2021-07-15 17:26
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Imentesh](./Imentesh.md) || 10
+| [[Imentesh]] || 10
 |-
-| [Kékétar](./Kékétar.md) || 17
+| [[Kékétar]] || 17
 |-
-| [Naunet](./Naunet.md) || 7
+| [[Naunet]] || 7
 |-
-| [Ver du néant](./Ver du néant.md) || 2
+| [[Ver du néant]] || 2
 |}
 </div></div><div class="description">**Source :** Bestiaire 2 p.223.</div>
-*Types/Sous-types associés : [Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [extraplanaire](./sous-type extraplanaire.md), [métamorphe](./sous-type métamorphe.md), [protéen](./sous-type protéen.md))*
+*Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type métamorphe|métamorphe]], [[sous-type protéen|protéen]])*
 
 Les protéens sont des créatures de pur chaos et de forme serpentine
 qui rampent à travers les improbabilités anarchiques des Limbes
@@ -58,14 +58,14 @@ quatre spécimens de protéens décrits ici ne sont certainement
 pas les seuls, mais il s’agit de ceux que les créatures des autres
 races rencontrent le plus souvent.
 
-**[Imentesh](./Imentesh.md).** Ces protéens rusés cherchent à attaquer les forces de
+**[[Imentesh]].** Ces protéens rusés cherchent à attaquer les forces de
 l’ordre depuis l’intérieur en murmurant des informations et en
 insinuant certaines choses dans des oreilles choisies pour maximiser
 les dégâts causés. Ces protéens à la créativité sans borne adorent
 façonner les terres des Limbes selon leurs souhaits, mais ils aiment
 encore plus déformer les paysages et les créatures des autres plans.
 
-**[Kékétars](./Kékétar.md).** Les kékétars sont les prêtres-rois et les porte-paroles
+**[[kékétar|Kékétars]].** Les kékétars sont les prêtres-rois et les porte-paroles
 des Limbes elles-mêmes, ceux qui dirigent les protéens au nom de
 leur dieu étrange. Même s’ils peuvent grandement modifier leur
 apparence, on peut les reconnaître à leurs yeux luisant de couleur
@@ -74,7 +74,7 @@ tournoyant qui flottent au-dessus de leur tête. Les kékétars, qui
 se répartissent en kabbales appelées choeurs, poursuivent un seul
 but : comprendre et appliquer la volonté de l’entropie.
 
-**[Naunets](./Naunet.md).** Les puissants naunets à la culture peu développée
+**[[naunet|Naunets]].** Les puissants naunets à la culture peu développée
 sont les plus sauvages des protéens et constituent la plus basse
 des classes reconnues. Ces troupes de choc de la race des protéens
 patrouillent les frontières entre les Limbes et les plans à l’affût
@@ -82,7 +82,7 @@ de la moindre tentative d’incursion par la Loi ou mènent euxmêmes
 des attaques audacieuses et brutales dans les royaumes
 de leurs ennemis.
 
-**[Vers du néant](./Ver du néant.md).** Même s’ils sont rejetés par les protéens
+**[[Ver du néant|Vers du néant]].** Même s’ils sont rejetés par les protéens
 supérieurs, à qui ces créatures minuscules inspirent de la honte,
 les vers du néant possèdent toutes les caractéristiques des
 véritables protéens. On les trouve souvent rassemblés en grands
@@ -90,7 +90,7 @@ bancs, occupés à nager à travers les Limbes ou encore comme
 familiers au service d’un lanceur de sorts.
 
 ### Les Seigneurs protéens
-Les [kékétars](./Kékétar.md) constituent la classe la plus élevée de la race des protéens,
+Les [[kékétar|kékétars]] constituent la classe la plus élevée de la race des protéens,
 mais il existe quelques individus uniques possédant une puissance
 encore plus grande que celle des redoutables choeurs. Ces seigneurs
 protéens au pouvoir équivalent à celui des seigneurs démons ou des
@@ -104,7 +104,7 @@ moins puissants ou surveiller, pour des raisons indéterminées, les
 entités dotées de pouvoirs proches des leurs.
 
 ### Les Vagues déformantes
-De nombreux protéens, plus particulièrement les [imenteshs](./Imentesh.md),
+De nombreux protéens, plus particulièrement les [[imentesh|imenteshs]],
 ont le pouvoir de créer et de manipuler des ondes altérant la
 réalité, des ondes connues sous le nom de vagues déformantes.
 Cela étant, même un protéen ne peut prédire quels effets une
@@ -119,61 +119,61 @@ pour déterminer l’effet des énergies entropiques :
 | CLASS="gauche" | Effet de la vague déformante
 |- CLASS="premier"
 | 1
-| CLASS="gauche" | La cible subit un [affaiblissement temporaire](./affaiblissement temporaire.md) de 2 points de [Force](./Force.md).
+| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] de 2 points de [[Force]].
 |- CLASS="alt"
 | 2
-| CLASS="gauche" | La cible subit un [affaiblissement temporaire](./affaiblissement temporaire.md) 2 points de [Dextérité](./Dextérité.md).
+| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] 2 points de [[Dextérité]].
 |-
 | 3
-| CLASS="gauche" | La cible subit un [affaiblissement temporaire](./affaiblissement temporaire.md) 2 points de [Constitution](./Constitution.md).
+| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] 2 points de [[Constitution]].
 |- CLASS="alt"
 | 4
-| CLASS="gauche" | La cible subit un [affaiblissement temporaire](./affaiblissement temporaire.md) 2 points d'[Intelligence](./Intelligence.md).
+| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] 2 points d'[[Intelligence]].
 |-
 | 5
-| CLASS="gauche" | La cible subit un [affaiblissement temporaire](./affaiblissement temporaire.md) 2 points de [Sagesse](./Sagesse.md).
+| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] 2 points de [[Sagesse]].
 |- CLASS="alt"
 | 6
-| CLASS="gauche" | La cible subit un [affaiblissement temporaire](./affaiblissement temporaire.md) 2 points de [Charisme](./Charisme.md).
+| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] 2 points de [[Charisme]].
 |-
 | 7
-| CLASS="gauche" | La cible subit 1 [niveau négatif](./niveau négatif.md).
+| CLASS="gauche" | La cible subit 1 [[niveau négatif]].
 |- CLASS="alt"
 | 8
-| CLASS="gauche" | La cible est [aveuglée](./Aveuglé.md) pendant 1d4 rounds.
+| CLASS="gauche" | La cible est [[aveuglé|aveuglée]] pendant 1d4 rounds.
 |-
 | 9
-| CLASS="gauche" | La cible est [confuse](./Confus.md) pendant 1d4 rounds.
+| CLASS="gauche" | La cible est [[confus|confuse]] pendant 1d4 rounds.
 |- CLASS="alt"
 | 10
-| CLASS="gauche" | La cible est [enchevêtrée](./Enchevêtré.md) par des filaments d'énergie pendant 1d4 rounds.
+| CLASS="gauche" | La cible est [[enchevêtré|enchevêtrée]] par des filaments d'énergie pendant 1d4 rounds.
 |-
 | 11
-| CLASS="gauche" | La cible est [fatiguée](./Fatigué.md) (ou [épuisée](./Épuisé.md) si elle est déjà [fatiguée](./Fatigué.md)).
+| CLASS="gauche" | La cible est [[fatigué|fatiguée]] (ou [[épuisé|épuisée]] si elle est déjà [[fatigué|fatiguée]]).
 |- CLASS="alt"
 | 12
-| CLASS="gauche" | La cible devient [nauséeuse](./Nauséeux.md) pendant 1d4 rounds.
+| CLASS="gauche" | La cible devient [[nauséeux|nauséeuse]] pendant 1d4 rounds.
 |-
 | 13
-| CLASS="gauche" | La cible est [étourdie](./Étourdi.md) pendant 1d4 rounds.
+| CLASS="gauche" | La cible est [[étourdi|étourdie]] pendant 1d4 rounds.
 |- CLASS="alt"
 | 14
-| CLASS="gauche" | La cible est [fiévreuse](./Fiévreux.md) pendant 1d4 rounds.
+| CLASS="gauche" | La cible est [[fiévreux|fiévreuse]] pendant 1d4 rounds.
 |-
 | 15
-| CLASS="gauche" | La cible est [chancelante](./Chancelant.md) pendant 1d4 rounds.
+| CLASS="gauche" | La cible est [[chancelant|chancelante]] pendant 1d4 rounds.
 |- CLASS="alt"
 | 16
-| CLASS="gauche" | La cible gagne 4d6 [points de vie temporaire](./point de vie temporaire.md).
+| CLASS="gauche" | La cible gagne 4d6 [[point de vie temporaire|points de vie temporaire]].
 |-
 | 17
-| CLASS="gauche" | La cible est affectée par un sort de *[guérison suprême](./Guérison suprême.md)* (NLS égal au FP du protéen).
+| CLASS="gauche" | La cible est affectée par un sort de *[[guérison suprême]]* (NLS égal au FP du protéen).
 |- CLASS="alt"
 | 18
-| CLASS="gauche" | La cible est [pétrifiée](./Pétrifié.md).
+| CLASS="gauche" | La cible est [[pétrifié|pétrifiée]].
 |-
 | 19
-| CLASS="gauche" | La cible est affectée par une *[métamorphose funeste](./Métamorphose funeste.md)* (NLS égal au FP du protéen).
+| CLASS="gauche" | La cible est affectée par une *[[métamorphose funeste]]* (NLS égal au FP du protéen).
 |- CLASS="alt"
 | 20
 | CLASS="gauche" | Certaines parties du corps de la cible s’enflamment, crépitent ou sont affectées par un type d’énergie choisi aléatoirement (entre acide, électricité, feu et froid), ce qui lui inflige 4d6 points de dégâts du type d’énergie en question.

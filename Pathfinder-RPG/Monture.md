@@ -14,27 +14,27 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Con](./Conjurateur.md) 1, [ConU](./conjurateur unchained.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Magus](./Magus.md) 1, [Occ](./Occultiste.md) 1, [San](./Sanguin.md) 1, [Sor](./Sorcière.md) 1
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, M](./composantes.md) (quelques crins)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Conjurateur|Con]] 1, [[Conjurateur unchained|ConU]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Magus]] 1, [[Occultiste|Occ]] 1, [[Sanguin|San]] 1, [[Sorcière|Sor]] 1
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, M]] (quelques crins)
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** 1 monture
-**Durée** 2 heures/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 2 heures/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort fait apparaître un [cheval léger](./Cheval.md) ou un [poney](./Poney.md) (au choix) servant de monture au personnage (voir le Bestiaire Pathfinder RPG). L’animal le sert fidèlement et de son plein gré. Il est équipé d’un mors et d’une selle.
+Ce sort fait apparaître un [[cheval|cheval léger]] ou un [[poney]] (au choix) servant de monture au personnage (voir le Bestiaire Pathfinder RPG). L’animal le sert fidèlement et de son plein gré. Il est équipé d’un mors et d’une selle.
 
 
 
 ((({s:sortssimilaires|monture}
-## [Monture (partagé)](./Monture (partagé).md)
-{s:UC}**École** [Invocation](./Invocation.md) ([convocation](./branche convocation.md)) ; **Niveau** [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Occ](./Occultiste.md) 2, [Sor](./Sorcière.md) 2
-**Temps d'incantation** 1 [round](./round.md)
-**Composantes** [V, G, M](./composantes.md) (quelques crins)
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
+## [[Monture (partagé)]]
+{s:UC}**École** [[Invocation]] ([[branche convocation|convocation]]) ; **Niveau** [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Occultiste|Occ]] 2, [[Sorcière|Sor]] 2
+**Temps d'incantation** 1 [[round]]
+**Composantes** [[composantes|V, G, M]] (quelques crins)
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])
 **Effet** jusqu'à six montures
-**Durée** 2 heures/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
+**Durée** 2 heures/[[niveau]] ([[Présentation des sorts#DUREE|T]])
 **Jet de sauvegarde** aucun ; **Résistance à la magie** non
 ---
-Ce sort fonctionne comme *[monture](./Monture.md)* mais il permet d’invoquer un maximum de six [chevaux légers](./Cheval.md) ou [poneys](./Poney.md) et la durée se divise entre les montures invoquées, par portions de 2 heures.
+Ce sort fonctionne comme *[[monture]]* mais il permet d’invoquer un maximum de six [[cheval|chevaux légers]] ou [[poney|poneys]] et la durée se divise entre les montures invoquées, par portions de 2 heures.
 )))

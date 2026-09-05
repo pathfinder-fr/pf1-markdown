@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde monstrueux|Aquatique|Tropical}
 {s:BDTexte|*Source : Bestiaire 3 p.44*}
 {s:BDTexte|**PX** 1 600}
-{s:BDTexte|[Humanoïde monstrueux](./type Humanoïde monstrueux.md) ([aquatique](./sous-type aquatique.md)) de taille M, CN}
-{s:BDTexte|**Init** +4 ; **Sens** perception tentaculaire à 3 m (2 {s:c}), [vision dans le noir](./vision dans le noir.md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Humanoïde monstrueux|Humanoïde monstrueux]] ([[sous-type aquatique|aquatique]]) de taille M, CN}
+{s:BDTexte|**Init** +4 ; **Sens** perception tentaculaire à 3 m (2 {s:c}), [[vision dans le noir]] à 18 m (12 {s:c}) ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 14, pris au dépourvu 14 (Dex +4, naturelle +4)}
 {s:BDTexte|**pv** 45 (6d10+12)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDTexte|**Espace occupé** 1,50 m (1 {s:c}) ; **Allonge** 1,50 m (1 {s:c}) (3 m (2 {s:c}) avec les tentacules)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 16, **Dex** 19, **Con** 14, **Int** 9, **Sag** 12, **Cha** 11}
-{s:BDTexte|**BBA** +6, **BMO** +9 (+13 [lutte](./lutte.md)), **DMD** 23 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Dons**  [Arme de prédilection](./Arme de prédilection.md) (lance), [Arme de prédilection](./Arme de prédilection.md) (tentacules), [Attaques réflexes](./Attaques réflexes.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +13, [Natation](./Natation.md) +20, [Survie](./Survie.md) +10}
+{s:BDTexte|**BBA** +6, **BMO** +9 (+13 [[lutte]]), **DMD** 23 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Dons**  [[Arme de prédilection]] (lance), [[Arme de prédilection]] (tentacules), [[Attaques réflexes]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +13, [[Natation]] +20, [[Survie]] +10}
 {s:BDTexte|**Langues** aquatique, commun}
 {s:BDTexte|**Particularités** amphibie}
 {s:BDSousTitre|Écologie}
@@ -37,8 +37,8 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, couple ou groupe de chasse (2-7)}
 {s:BDTexte|**Trésor** standard (lance de maître, autre trésor)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Nuage d'encre (Ext).** Une fois par heure, par une [action simple](./Action simple.md), le cécaëlia peut libérer un nuage d'encre de 3 m (2 {s:c}) de rayon tandis qu'il est sous l'eau. ce nuaage lui apporte un [camouflage total](./camouflage total.md) et dure 1 minute.}
-{s:BDTexte|**Perception tentaculaire (Ext).** Par une [action rapide](./Action rapide.md), tant qu'il nage et qu'il n'est pas [en lutte](./en lutte.md) ni [agrippé](./Agrippé.md), le cécaëlia peut étaler ses tentacules pour former un filet sensoriel autour de lui. Cela lui permet de bénéficier d'une [vision aveugle](./vision aveugle.md) avec une portée de 3 m (2 {s:c}) tant qu'il reste concentré. Tant que l'effet est actif, la créature ne peut pas attaquer avec ses tentacules ni se déplacer.}
+{s:BDTexte|**Nuage d'encre (Ext).** Une fois par heure, par une [[action simple]], le cécaëlia peut libérer un nuage d'encre de 3 m (2 {s:c}) de rayon tandis qu'il est sous l'eau. ce nuaage lui apporte un [[camouflage total]] et dure 1 minute.}
+{s:BDTexte|**Perception tentaculaire (Ext).** Par une [[action rapide]], tant qu'il nage et qu'il n'est pas [[en lutte]] ni [[agrippé]], le cécaëlia peut étaler ses tentacules pour former un filet sensoriel autour de lui. Cela lui permet de bénéficier d'une [[vision aveugle]] avec une portée de 3 m (2 {s:c}) tant qu'il reste concentré. Tant que l'effet est actif, la créature ne peut pas attaquer avec ses tentacules ni se déplacer.}
 
 </div>
 

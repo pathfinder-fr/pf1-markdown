@@ -14,30 +14,30 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 226*}
 - **19 200 PX**
-- [Créature artificielle](./type Créature artificielle.md) de taille M, N
+- [[type créature artificielle|Créature artificielle]] de taille M, N
 - **Init **+1 ; **Sens** vision dans le noir 18 m, vision nocturne ; Perception +15
 (((Défense)))
 - **CA** 26, contact 11, pris au dépourvu 25 (armure +4, Dex +1, naturelle +11)
 - **pv** 132 (15d10+50)
 - **Réf **+6, **Vig **+5, **Vol **+7
-- **RD** 10/adamantium et magie ; **Immunités** [traits des créatures artificielles](./Traits des créatures artificielles.md) ; **RM** 23
+- **RD** 10/adamantium et magie ; **Immunités** [[traits des créatures artificielles]] ; **RM** 23
 - **Faiblesses** esprit définitif, sensible aux effets mentaux
 (((Attaque)))
 - **VD** 9 m
 - **Corps à corps** dague de maître, +17/+12/+7 (1d4+1/19-20)
 - **Sorts de magicien** préparés (**NLS** 12 ; concentration +17)
-  - 6e – *[désintégration](./Désintégration.md)* (DD 21), *[forme bestiale IV](./Forme bestiale IV.md)*
-  - 5e – *[brume mortelle](./Brume mortelle.md)* (2, DD 22),* [domination](./Domination.md)* (DD 21), *[passe-muraille](./Passe-muraille.md)*
-  - 4e – *[bouclier de feu](./Bouclier de feu.md)*, *[cri](./Cri.md)* (DD 19),* [tentacules noirs](./Tentacules noirs.md)* (2)
-  - 3e – *[éclair](./Éclair.md)* (2, DD 18), *[nuage nauséabond](./Nuage nauséabond.md)* (2, DD 20), *[vol](./Vol.md)*
-  - 2e – *[fou rire](./Fou rire.md)* (DD 18), *[image miroir](./Image miroir.md)*, *[poussière scintillante](./Poussière scintillante.md)* (DD 19), *[réparation intégrale](./Réparation intégrale.md)*, *[simulacre de vie](./Simulacre de vie.md)* (déjà lancé)
-  - 1e – *[armure de mage](./Armure de mage.md)* (déjà lancé), *[charme-personne](./Charme-personne.md) *(2, DD 17), *[repli expéditif](./Repli expéditif.md)*, *[graisse](./Graisse.md)* (DD 18), *[serviteur invisible](./Serviteur invisible.md)*
-  - 0 – *[aspersion acide](./Aspersion acide.md)*, *[détection de la magie](./Détection de la magie.md)*, *[manipulation à distance](./Manipulation à distance.md)*, *[lecture de la magie](./Lecture de la magie.md)*
+  - 6e – *[[désintégration]]* (DD 21), *[[forme bestiale IV]]*
+  - 5e – *[[brume mortelle]]* (2, DD 22),* [[domination]]* (DD 21), *[[passe-muraille]]*
+  - 4e – *[[bouclier de feu]]*, *[[cri]]* (DD 19),* [[tentacules noirs]]* (2)
+  - 3e – *[[éclair]]* (2, DD 18), *[[nuage nauséabond]]* (2, DD 20), *[[vol]]*
+  - 2e – *[[fou rire]]* (DD 18), *[[image miroir]]*, *[[poussière scintillante]]* (DD 19), *[[réparation intégrale]]*, *[[simulacre de vie]]* (déjà lancé)
+  - 1e – *[[armure de mage]]* (déjà lancé), *[[charme-personne]] *(2, DD 17), *[[repli expéditif]]*, *[[graisse]]* (DD 18), *[[serviteur invisible]]*
+  - 0 – *[[aspersion acide]]*, *[[détection de la magie]]*, *[[manipulation à distance]]*, *[[lecture de la magie]]*
 (((Statistiques)))
 - **For** 13, **Dex** 13, **Con** -, **Int** 20, **Sag** 10, **Cha** 13
 - **BBA **+15 ; **BMO **+16 ; **DMD** 27
-- **Dons** [Création de créatures artificielles](./Création de créatures artificielles.md)<sup>S</sup>, [École renforcée](./École renforcée.md) (enchantement), [École renforcée](./École renforcée.md) (invocation), [École supérieure](./École supérieure.md) (invocation), [Magie de guerre](./Magie de guerre.md), [Robustesse](./Robustesse.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Talent](./Talent.md) (Art de la magie), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Art de la magie](./Art de la magie.md) +26, [Artisanat](./Artisanat.md) (sculpture) +20, [Connaissances](./Connaissances.md) (ingénierie) +20, [Connaissances](./Connaissances.md) (mystères) +20, [Déguisement](./Déguisement.md) +16, [Perception](./Perception.md) +15, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +16
+- **Dons** [[Création de créatures artificielles]]<sup>S</sup>, [[École renforcée]] (enchantement), [[École renforcée]] (invocation), [[École supérieure]] (invocation), [[Magie de guerre]], [[Robustesse]], [[Science de la volonté de fer]], [[Talent]] (Art de la magie), [[Volonté de fer]]
+- **Compétences** [[Art de la magie]] +26, [[Artisanat]] (sculpture) +20, [[Connaissances]] (ingénierie) +20, [[Connaissances]] (mystères) +20, [[Déguisement]] +16, [[Perception]] +15, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +16
 - **Langues** aklo, commun, draconique
 - **Particularités** focaliseur d’âme
 (((Écologie)))
@@ -60,5 +60,5 @@ anime le réceptacle de pierre.
 
 ### Construction
 **NLS** 12 ; **Prix** 115 000 po
-Conditions [Création de créatures artificielles](./Création de créatures artificielles.md), [simulacre de vie](./Simulacre de vie.md), [possession](./Possession.md), [réparation intégrale](./Réparation intégrale.md), [mémorisation](./Mémorisation.md), [peau de pierre](./Peau de pierre.md) ; **Compétence** [Artisanat](./Artisanat.md) (sculpture) ; **Coût** 60 000 po
+Conditions [[Création de créatures artificielles]], [[simulacre de vie]], [[possession]], [[réparation intégrale]], [[mémorisation]], [[peau de pierre]] ; **Compétence** [[Artisanat]] (sculpture) ; **Coût** 60 000 po
 </div></td></tr></table>

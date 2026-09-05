@@ -11,15 +11,15 @@ Categories:
 
 #### Expertise diminuée
 
-Un adepte du familier ne reçoit pas [magicien#ECRITUREDEPARCHEMINS|écriture de parchemins] au niveau 1, ni les dons supplémentaires de magicien des niveaux 5 et 10. Il doit également choisir une école opposée supplémentaire, même s’il est universaliste.
+Un adepte du familier ne reçoit pas [[magicien#ECRITUREDEPARCHEMINS|écriture de parchemins]] au niveau 1, ni les dons supplémentaires de magicien des niveaux 5 et 10. Il doit également choisir une école opposée supplémentaire, même s’il est universaliste.
 
 #### Familier d’école (Ext)
 
-Au niveau 1, l’adepte du familier doit choisir un familier pour son lien arcanique. Son familier reçoit automatiquement l’archétype [Familier décole|familier d’école], mais il ne peut pas utiliser le pouvoir mineur de son école avant le niveau 4. Au niveau 8, il obtient l’accès au pouvoir supérieur de son école. Cette aptitude modifie [magicien#PACTEMAGIQUE|pacte magique].
+Au niveau 1, l’adepte du familier doit choisir un familier pour son lien arcanique. Son familier reçoit automatiquement l’archétype [[Familier décole|familier d’école]], mais il ne peut pas utiliser le pouvoir mineur de son école avant le niveau 4. Au niveau 8, il obtient l’accès au pouvoir supérieur de son école. Cette aptitude modifie [[magicien#PACTEMAGIQUE|pacte magique]].
 
 #### Sorts du familier (Ext)
 
-Un adepte du familier conserve ses sorts dans son familier plutôt que dans un grimoire, exactement comme le fait une sorcière. Son familier peut librement échanger les sorts qu’il connaît avec le familier d’une sorcière, à condition que les sorts échangés figurent sur les listes de sorts des deux classes. Pour tout ce qui concerne les familiers, le familier de l’adepte des familiers suit les règles des sorcières, y compris l’augmentation du coût nécessaire pour le remplacer. Cette aptitude modifie [magicien#Grimoire_8|grimoire].
+Un adepte du familier conserve ses sorts dans son familier plutôt que dans un grimoire, exactement comme le fait une sorcière. Son familier peut librement échanger les sorts qu’il connaît avec le familier d’une sorcière, à condition que les sorts échangés figurent sur les listes de sorts des deux classes. Pour tout ce qui concerne les familiers, le familier de l’adepte des familiers suit les règles des sorcières, y compris l’augmentation du coût nécessaire pour le remplacer. Cette aptitude modifie [[magicien#Grimoire_8|grimoire]].
 
 #### École focalisée (Ext)
 

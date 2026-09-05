@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Bouclier du pourfendeur de dracosires|{s:AE}}
-**Aura** [Abjuration](./Abjuration.md) modérée ; **NLS** 9 ; **Emplacement** [bouclier](./Boucliers magiques spécifiques.md) ; **Prix** 20.170 po ; **Poids** 7,5 kg
+**Aura** [[Abjuration]] modérée ; **NLS** 9 ; **Emplacement** [[Boucliers magiques spécifiques|bouclier]] ; **Prix** 20.170 po ; **Poids** 7,5 kg
 (((Description)))
-Cet *[écu en acier](./écu (armure).md) +4* est en tout point similaire au *[bouclier du pourfendeur de dragons](./Bouclier du Pourfendeur de Dragons.md)*, mis à part le bonus de moral aux jets de [Volonté](./Volonté.md) contre le pouvoir de [présence terrifiante](./Présence terrifiante (capacité).md) qui s’élève à +6 au lieu de +2.
+Cet *[[écu (armure)|écu en acier]] +4* est en tout point similaire au *[[bouclier du pourfendeur de dragons]]*, mis à part le bonus de moral aux jets de [[Volonté]] contre le pouvoir de [[présence terrifiante (capacité)|présence terrifiante]] qui s’élève à +6 au lieu de +2.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[regain d'assurance](./Regain dassurance.md)*, *[bouclier de la foi](./Bouclier de la foi.md)* ; **Coût** 10.170 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[regain dassurance|regain d'assurance]]*, *[[bouclier de la foi]]* ; **Coût** 10.170 po
 </div>

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Élémentaire de lAir#_4
 ---
 
->>> [Élémentaire de lAir#_4](./Élémentaire de lAir.md#_4)
+>>> [[Élémentaire de lAir#_4]]

@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Ville|Extraplanaire}
 {s:BDTexte|<i>Source : Bestiaire 2 p.162</i>}
 {s:BDTexte|<b>PX</b> 4800}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md)) de taille M, CM}
-{s:BDTexte|<b>Init</b> +4 ; <b>Sens</b> [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +16}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]]) de taille M, CM}
+{s:BDTexte|<b>Init</b> +4 ; <b>Sens</b> [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +16}
 {s:BDSousTitre|Défense}
 {s:BDTexte|<b>CA</b> 21, contact 15, pris au dépourvu 16 (Dex +4, esquive +1, naturelle +6)}
 {s:BDTexte|<b>pv</b> 95 (10d10+40), guérison accélérée planaire 5}
@@ -27,15 +27,15 @@ Categories:
 {s:BDTexte| et 2 griffes +14 (1d4+2)}
 {s:BDTexte|<b>Attaques spéciales</b> attaque sournoise +5d6}
 {s:BDTexte|<b>Pouvoirs magiques</b> (NLS 10 ; concentration +15)}
-{s:BDSorts|Constant — <i>[don des langues](./Don des langues.md)</i>}
-{s:BDSorts|3/jour— <i>[Détection de pensées](./Détection de pensées.md) (DD17), [Image imparfaite](./Image imparfaite.md) (DD17), [Lévitation](./Lévitation.md), [Lueurs Hypnotiques](./Lueurs hypnotiques.md) (DD17)</i>}
-{s:BDSorts|1/jour— <i>[Changement de plan](./Changement de plan.md) (DD20, personnel uniquement), [Localisation d'objets](./Localisation dobjet.md), </i>}
+{s:BDSorts|Constant — <i>[[don des langues]]</i>}
+{s:BDSorts|3/jour— <i>[[Détection de pensées]] (DD17), [[Image imparfaite]] (DD17), [[Lévitation]], [[Lueurs Hypnotiques]] (DD17)</i>}
+{s:BDSorts|1/jour— <i>[[Changement de plan]] (DD20, personnel uniquement), [[Localisation dobjet|Localisation d'objets]], </i>}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|<b>For</b> 14, <b>Dex</b> 18, <b>Con</b> 19, <b>Int</b> 18, <b>Sag</b> 17, <b>Cha</b> 21}
 {s:BDTexte|<b>BBA</b> +10, <b>BMO</b> +12, <b>DMD</b> 27}
-{s:BDTexte|<b>Dons</b>[Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md), [Fourberie](./Fourberie.md), [Persuasion](./Persuasion.md), [Souplesse du serpent](./Souplesse du serpent.md)}
-{s:BDTexte|<b>Compétences</b> [Art de la magie](./Art de la magie.md) +12, [Bluff](./Bluff.md) +22, [Connaissances (un au choix)](./Connaissances.md)  +17, [Déguisement](./Déguisement.md) +12 (+16 en tant qu'humanoïde), [Diplomatie](./Diplomatie.md) +7, [Discrétion](./Discrétion.md) +17, [Escamotage](./Escamotage.md) +17 , [Intimidation](./Intimidation.md) +12, [Perception](./Perception.md) +16, [Profession (marin)](./Profession.md) +8 ,[Psychologie](./Psychologie.md) +16 ,[Sabotage](./Sabotage.md)  +14, [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md) +18 ; <b>Modificateurs raciaux</b> +4 en [Déguisement](./Déguisement.md) pour se déguiser en humanoïde de taille M}
-{s:BDTexte|<b>Langues</b> aklo, [don des langues](./Don des langues.md)}
+{s:BDTexte|<b>Dons</b>[[Attaque en finesse]], [[Esquive]], [[Fourberie]], [[Persuasion]], [[Souplesse du serpent]]}
+{s:BDTexte|<b>Compétences</b> [[Art de la magie]] +12, [[Bluff]] +22, [[Connaissances|Connaissances (un au choix)]]  +17, [[Déguisement]] +12 (+16 en tant qu'humanoïde), [[Diplomatie]] +7, [[Discrétion]] +17, [[Escamotage]] +17 , [[Intimidation]] +12, [[Perception]] +16, [[Profession|Profession (marin)]] +8 ,[[Psychologie]] +16 ,[[Sabotage]]  +14, [[Utilisation dobjets magiques|Utilisation d'objets magiques]] +18 ; <b>Modificateurs raciaux</b> +4 en [[Déguisement]] pour se déguiser en humanoïde de taille M}
+{s:BDTexte|<b>Langues</b> aklo, [[don des langues]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|<b>Environnement</b> terre ferme}
 {s:BDTexte|<b>Organisation sociale</b> solitaire, bande (2-5) ou équipage (6-15)}

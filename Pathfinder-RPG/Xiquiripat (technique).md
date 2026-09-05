@@ -7,19 +7,19 @@ Categories:
 - Src Book of the Damned
 ---
 
-{s:DieuTech|Xiquiripat|La plaie volante| |[Bourreaux sahkils](./Divinités.md#BOURREAUXSAHKILS)
+{s:DieuTech|Xiquiripat|La plaie volante| |[[Divinités#BOURREAUXSAHKILS|Bourreaux sahkils]]
 |Chaotique Mauvais|Éviscération, chutes mortelles, génocide
 |N'importe|Aucun
-|[Terbutje](./terbutje (arme).md)
-|[Air](./Domaine de lAir.md), [Destruction](./Domaine de la Destruction.md), [Guerre](./Domaine de la Guerre.md), [Mal](./Domaine du Mal.md)
-|[Peur](./Domaine du Mal.md), [Rage](./Domaine de la Destruction.md), [Sahkils](./Domaine du Mal.md), [Sang](./Domaine de la Guerre.md), [Vent](./Domaine de lAir.md)
+|[[Terbutje (arme)|Terbutje]]
+|[[Domaine de lAir|Air]], [[Domaine de la Destruction|Destruction]], [[Domaine de la Guerre|Guerre]], [[Domaine du Mal|Mal]]
+|[[Domaine du Mal|Peur]], [[Domaine de la Destruction|Rage]], [[Domaine du Mal|Sahkils]], [[Domaine de la Guerre|Sang]], [[Domaine de lAir|Vent]]
 |—}
 {s:cs}{s:BotD}
 ### Obédience
-Éviscérer sauvagement une créature plus petite que soi ou jeter une telle créature d'une hauteur mortelle. Gain d'un bonus de malfaisance de +1 aux [jet de dégâts](./Valeurs de combat.md#DEGATS).
+Éviscérer sauvagement une créature plus petite que soi ou jeter une telle créature d'une hauteur mortelle. Gain d'un bonus de malfaisance de +1 aux [[Valeurs de combat#DEGATS|jet de dégâts]].
 
 #### Faveurs (Bourreaux sahkils)
-Les bourreaux [sahkils](./Sahkil.md) dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [FP](./FP.md) 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [pouvoirs magiques](./Pouvoirs magiques (capacité).md) utilisables deux fois par jour chacun.
-- **1.** *[création de fosse](./Création de fosse.md)*
-- **2.** *[horreur onirique suprême](./Horreur onirique suprême.md)*
-- **3.** *[barrière de lames](./Barrière de lames.md)*
+Les bourreaux [[Sahkil|sahkils]] dominent les peurs et les souffrances des mortels. Tous sont Chaotique Mauvais et leur puissance varie de [[FP]] 21 à FP 25. Les faveurs qu’ils accordent sont moins complexes que celles offertes par d’autres demi-dieux fiélons, se manifestant par des [[Pouvoirs magiques (capacité)|pouvoirs magiques]] utilisables deux fois par jour chacun.
+- **1.** *[[création de fosse]]*
+- **2.** *[[horreur onirique suprême]]*
+- **3.** *[[barrière de lames]]*

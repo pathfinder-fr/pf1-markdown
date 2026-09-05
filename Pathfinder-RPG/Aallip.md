@@ -14,23 +14,23 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 - *Source : Bestiaire 2, p.7*
 - **XP** 800
-- [Mort-vivant](./type Mort-vivant.md) ([intangible](./sous-type intangible.md)) de taille M, CM
-- **Init** +5 ; **Sens** [vision dans le noir](./vision dans le noir.md) (12 cases) ; [Perception](./Perception.md) +7
+- [[type Mort-vivant|Mort-vivant]] ([[sous-type intangible|intangible]]) de taille M, CM
+- **Init** +5 ; **Sens** [[vision dans le noir]] (12 cases) ; [[Perception]] +7
 - **Aura** babil (12 cases, DD 15)
   - (((Défense)))
 - **CA** 14, contact 14, pris au dépourvu 13 (Dex +1, parade +3)
 - **pv** 30 (4d8+12)
 - **Réf** +4, **Vig** +4, **Vol** +4
-- **Capacités défensives** [intangible](./Intangible.md), [résistance à la canalisation](./résistance à la canalisation.md) +2 ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) 
+- **Capacités défensives** [[intangible]], [[résistance à la canalisation]] +2 ; **Immunités** [[traits des morts-vivants]] 
   - (((Attaque)))
 - **VD** vol 6 (parfait)
-- **Corps à corps** contact intangible +4 ([affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 points de [Sagesse](./Sagesse.md))
+- **Corps à corps** contact intangible +4 ([[affaiblissement temporaire]] de 1d4 points de [[Sagesse]])
 - **Attaques spéciales** babil, toucher de folie
   - (((Caractéristiques)))
 - **For** —, **Dex** 12, **Con** —, **Int** 11, **Sag** 11, **Cha** 16
 - **BBA** +3, **BMO** +4, **DMD** 17
-- **Dons** [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md)
-- **Compétences** [Discrétion](./Discrétion.md) +8, [Intimidation](./Intimidation.md) +10, [Perception](./Perception.md) +7, [Vol](./Vol.md) +16
+- **Dons** [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]]
+- **Compétences** [[Discrétion]] +8, [[Intimidation]] +10, [[Perception]] +7, [[Vol]] +16
 - **Langues** aklo, commun
 - **Particularités** démence
   - (((Écologie)))
@@ -38,9 +38,9 @@ Categories:
 - **Organisation sociale** solitaire, couple ou hantise (4-6)
 - **Trésor** fortuit
   - (((Particularités)))
-- **Babil (Sur)** L'aallip bougonne et geint en permanence, ce qui provoque un effet hypnotique affectant toutes les créatures saines d'esprit à 18 m (12 {s:c}) à la ronde. Celles qui ratent un [jet de sauvegarde](./jet de sauvegarde.md) de [Volonté](./Volonté.md) ([DD](./DD.md) 15) sont [fascinées](./Fasciné.md) pendant 2d4 rounds. L'aallip peut s'approcher d'une créature fascinée sans rompre l'effet, mais toute attaque de sa part stoppe la fascination. C'est un effet de son et mental de type [coercition](./coercition.md). Les créatures réussissant leur jet de sauvegarde sont immunisées contre le babil de l'aallip pour 24 heures. Le DD du jet de sauvegarde est basé sur le [Charisme](./Charisme.md).
-- **Démence (Sur)** Quiconque cible l'aallip avec un pouvoir télépathique, de lecture des pensées ou de contrôle mental entre en contact avec l'esprit torturé du mort-vivant et subit un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 points de [Sagesse](./Sagesse.md).
-- **Toucher de folie (Sur)** Le contact d'un aallip provoque un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d4 points de [Sagesse](./Sagesse.md), si la cible échoue un [jet de sauvegarde](./jet de sauvegarde.md) de [Volonté](./Volonté.md) ([DD](./DD.md) 15). Si l'attaque est [critique](./coup critique.md), elle provoque en plus une [diminution permanente](./diminution permanente.md) de 1 point de [Sagesse](./Sagesse.md) (à la place du double de l'[affaiblissement temporaire](./affaiblissement temporaire.md) de [Sagesse](./Sagesse.md)). A chaque attaque réussie, l'aallip gagne 5 points de vie temporaires. Le DD du jet de sauvegarde dépend du Charisme.
+- **Babil (Sur)** L'aallip bougonne et geint en permanence, ce qui provoque un effet hypnotique affectant toutes les créatures saines d'esprit à 18 m (12 {s:c}) à la ronde. Celles qui ratent un [[jet de sauvegarde]] de [[Volonté]] ([[DD]] 15) sont [[fasciné|fascinées]] pendant 2d4 rounds. L'aallip peut s'approcher d'une créature fascinée sans rompre l'effet, mais toute attaque de sa part stoppe la fascination. C'est un effet de son et mental de type [[coercition]]. Les créatures réussissant leur jet de sauvegarde sont immunisées contre le babil de l'aallip pour 24 heures. Le DD du jet de sauvegarde est basé sur le [[Charisme]].
+- **Démence (Sur)** Quiconque cible l'aallip avec un pouvoir télépathique, de lecture des pensées ou de contrôle mental entre en contact avec l'esprit torturé du mort-vivant et subit un [[affaiblissement temporaire]] de 1d4 points de [[Sagesse]].
+- **Toucher de folie (Sur)** Le contact d'un aallip provoque un [[affaiblissement temporaire]] de 1d4 points de [[Sagesse]], si la cible échoue un [[jet de sauvegarde]] de [[Volonté]] ([[DD]] 15). Si l'attaque est [[coup critique|critique]], elle provoque en plus une [[diminution permanente]] de 1 point de [[Sagesse]] (à la place du double de l'[[affaiblissement temporaire]] de [[Sagesse]]). A chaque attaque réussie, l'aallip gagne 5 points de vie temporaires. Le DD du jet de sauvegarde dépend du Charisme.
 
 {s:ImageCentre|Bestiaire/Allip01.jpg|90%}
 

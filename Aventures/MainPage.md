@@ -6,7 +6,7 @@ LastModified: 2020-11-02 12:06
 
 <p class="description">Le Wiki Aventures regroupe toute les ressources destinées plus particulièrement aux MJ. Certaines de ces ressources sont liées directement à une campagne (ou adventure path) ou à un module officiel Pathfinder, alors que d'autres sont générales et utilisables indépendamment des aventures publiées. C'est également dans ce wiki que sont décrites toutes les campagnes et tous les modules Pathfinder.</p>
 
-Pour tout ce qui concerne **Pathfinder version 2**, voir [ici](./../Pathfinder2/MainPage.md) !
+Pour tout ce qui concerne **Pathfinder version 2**, voir [[Pathfinder2.MainPage|ici]] !
 
 <table class="page espace-col deuxcol">
 <tr style="vertical-align: top;">
@@ -14,55 +14,55 @@ Pour tout ce qui concerne **Pathfinder version 2**, voir [ici](./../Pathfinder2/
 ### Campagnes Pathfinder (Adventure paths)
 
 <p class="description">Les campagnes (ou adventure paths) sont des groupes de 6 aventures qui peuvent s'enchaîner et tournent autour d'un thème central. Elles sont publiées sous la forme de livrets d'une centaine de pages (qu'on appelle également *Pathfinder*) contenant, en plus de l'histoire, divers articles de support approfondissant les thèmes abordés dans l'aventure ainsi que des mini-bestiaires présentant 5 ou 6 monstres, bref de quoi permettre aux MJ d'allonger la sauce et d'adapter le scénario à leur groupe et à leur style de jeu. À chaque campagne correspond deux pages : une page de présentation et une page reprenant diverses aides de jeu.</p>
-- Qu'est-ce que les [adventure paths](./Aperçu.md) ?
-- **[Présentation et aides de jeu pour les campagnes](./Campagnes.md)**
+- Qu'est-ce que les [[Aperçu|adventure paths]] ?
+- **[[Campagnes|Présentation et aides de jeu pour les campagnes]]**
 
 </td><td>
 ### Modules Pathfinder
 
 <p class="description">Outre les campagnes/adventure paths, la gamme Pathfinder contient également des scénarios plus indépendants. Certains d'entre eux se complètent et peuvent être réunis pour former des mini-campagnes, mais ils peuvent également être joués séparément. Contrairement aux campagnes, les modules ne sont généralement pas accompagnés d'articles de support.</p>
-- [Présentation des modules](./Présentation modules.md)
-- [Aides de jeu pour les modules](./Aides de jeu modules.md)
-- [Aventures gratuites](./Aventures gratuites.md)
+- [[Présentation modules|Présentation des modules]]
+- [[Aides de jeu modules|Aides de jeu pour les modules]]
+- [[Aventures gratuites]]
 
 </td><tr><td>
 ### Aventures Pathfinder Society
 <p class="description">La Société des Éclaireurs publie annuellement 28 aventures (depuis août 2008), au rythme d'environ deux aventures par mois. Ces aventures, qui sont destinées à être jouées en 4/5 heures, ne sont pas réservées aux membres de la Société, et peuvent facilement être intégrées dans votre campagne. Ces aventures sont exclusivement disponibles sous format électronique.</p>
-- [Guide du joueur de la Pathfinder Society](./PFSG.md)
-- [Présentation de la Pathfinder Society](./Présentation Pathfinder Society.md)
-- [Personnages joueurs prétirés](./PFS PJ prétirés.md)
-- [Aides de jeu](./PFS Aides de jeu.md)
-- [Scénarios d'introduction](./PFSI.md)
-- [Scénarios pour l'année 0](./PFS0.md)
-- [Scénarios pour l'année 1](./PFS1.md)
-- [Scénarios pour l'année 2](./PFS2.md)
-- [Scénarios pour l'année 3](./PFS3.md)
-- [Scénarios pour l'année 4](./PFS4.md)
-- [Scénarios pour l'année 5](./PFS5.md)
-- [Scénarios pour l'année 6](./PFS6.md)
-- [Scénarios pour l'année 7](./PFS7.md)
-- [Scénarios pour l'année 8](./PFS8.md)
-- [Modules autorisés](./PFSX.md)
-- [Aventures autorisées](./PFSY.md)
+- [[PFSG|Guide du joueur de la Pathfinder Society]]
+- [[Présentation Pathfinder Society|Présentation de la Pathfinder Society]]
+- [[PFS PJ prétirés|Personnages joueurs prétirés]]
+- [[PFS Aides de jeu|Aides de jeu]]
+- [[PFSI|Scénarios d'introduction]]
+- [[PFS0|Scénarios pour l'année 0]]
+- [[PFS1|Scénarios pour l'année 1]]
+- [[PFS2|Scénarios pour l'année 2]]
+- [[PFS3|Scénarios pour l'année 3]]
+- [[PFS4|Scénarios pour l'année 4]]
+- [[PFS5|Scénarios pour l'année 5]]
+- [[PFS6|Scénarios pour l'année 6]]
+- [[PFS7|Scénarios pour l'année 7]]
+- [[PFS8|Scénarios pour l'année 8]]
+- [[PFSX|Modules autorisés]]
+- [[PFSY|Aventures autorisées]]
 
 </td><td>
 
 ### En territoire inconnu
 
 <p class="description">Une campagne Kingmaker-like chez les Ulfes, créé par Pathfinder-fr</p>
-- [En territoire inconnu](./En territoire inconnu.md)
+- [[En territoire inconnu]]
 
 ### Créations de fans : aventures
 
 <p class="description">Cette section regroupe diverses aventures créées par les fans pour Pathfinder ou le monde de Golarion.</p>
-- [Aventures de fans](./Aventures de fans.md)
+- [[Aventures de fans]]
 
 ### Créations de fans : banque de PNJ
 
 <p class="description">Tous les MJ savent qu'il faut du temps pour créer un bloc descriptif pour un PNJ (au sens large : il peut s'agir d'une créature monstrueuse ou d'un individu plus intelligent). Ce coin du wiki est une plateforme d'échange de PNJ. N'hésitez pas à employer les créations proposées et à ajouter les vôtres.</p>
-- [Liste par catégories](./Liste PNJ.md)
-- [Liste alphabétique](./c:Aventures-PNJ.md)
-- [Guide pour ajouter des PNJ](./Guide PNJ.md)
+- [[Liste PNJ|Liste par catégories]]
+- [[c:Aventures.PNJ|Liste alphabétique]]
+- [[Guide PNJ|Guide pour ajouter des PNJ]]
 
 </td></tr></table>
 

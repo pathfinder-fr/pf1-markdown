@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Descriptions individuelles des armes#Armureàpointes
 ---
 
->>> [Descriptions individuelles des armes#Armureàpointes](./Descriptions individuelles des armes.md#Armureàpointes)
+>>> [[Descriptions individuelles des armes#Armureàpointes]]

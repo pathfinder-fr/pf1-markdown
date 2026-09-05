@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#Esquive extraordinaire
 ---
 
->>> [Talents#Esquive extraordinaire](./Talents.md#Esquive extraordinaire)
+>>> [[Talents#Esquive extraordinaire]]

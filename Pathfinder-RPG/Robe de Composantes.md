@@ -6,9 +6,9 @@ LastModified: 2024-05-30 15:23
 
 <div class="BD">
 {s:BDTitre|Robe de composantes|{s:AE}}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 7 ; **Emplacement** [corps](./Objets merveilleux portés sur le corps.md) ; **Prix** 5.000 po ; **Poids** 0,5 kg
+**Aura** [[Invocation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur le corps|corps]] ; **Prix** 5.000 po ; **Poids** 0,5 kg
 (((Description)))
-Les poches de cette simple robe bleue semblent toujours remplies de tout ce dont son porteur a besoin pour lancer ses sorts. La robe fonctionne comme une [sacoche à composantes](./Sacoche à composantes (objet).md) qui contient l’ensemble des composantes et focaliseurs nécessaires au lancer des sorts de son propriétaire. La robe peut même produire les composantes ou les focaliseurs ayant un prix particulier, avec une limite de 50 po par jour. Les matériaux que fournit la robe servent uniquement à lancer des sorts et disparaissent si le porteur s’en débarrasse ou une fois qu’il a lancé le sort approprié.
+Les poches de cette simple robe bleue semblent toujours remplies de tout ce dont son porteur a besoin pour lancer ses sorts. La robe fonctionne comme une [[Sacoche à composantes (objet)|sacoche à composantes]] qui contient l’ensemble des composantes et focaliseurs nécessaires au lancer des sorts de son propriétaire. La robe peut même produire les composantes ou les focaliseurs ayant un prix particulier, avec une limite de 50 po par jour. Les matériaux que fournit la robe servent uniquement à lancer des sorts et disparaissent si le porteur s’en débarrasse ou une fois qu’il a lancé le sort approprié.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[création mineure](./Création mineure.md)*  ; **Coût** 2.500 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[création mineure]]*  ; **Coût** 2.500 po
 </div>

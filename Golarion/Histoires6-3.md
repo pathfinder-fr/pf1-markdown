@@ -4,8 +4,8 @@ Title: Celui qui festoie dans le noir
 LastModified: 2010-10-14 21:10
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du troisième chapitre : "[The Feaster in the Dark](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lbip)" de la nouvelle "Le secret de la Rose et du Gant" de Kevin Andrew Murphy. Illustration de KyuShik Shin.*
 
 La roue des années avait avancé d'un quart de tour et était arrivée à la fin, au dernier jour de Kuthona, le dernier mois, celui sur lequel présidait le sombre dieu Zon-Kuthon. L'hiver, la saison de la Dragonne noire, le lézard aquatique qui incarnait l'humeur flegmatique, avait commencé à peine neuf jours avant le solstice que Shélyn, la sœur du Seigneur de Minuit, dans son infinie gentillesse, avait baptisé Reflets de Cristal. La Rose Éternelle au grand cœur veillait sur les jours et les nuits qui suivaient et on les occupait en festoyant et en se réjouissant. Tous, sauf le dernier. Dès que le soleil s'était couché à la fin du dernier jour, le Prince Sombre ouvrait les portes de l'Ossuaire de Pharasma et rappelait aux gens tout ce qu'ils avaient perdu. Le Nuit du Pal avait commencé.

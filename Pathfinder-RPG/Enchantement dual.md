@@ -10,10 +10,10 @@ Categories:
 
 {s:mca}*Le personnage peut améliorer deux armes, ou les deux extrémités d’une arme double, en une seule action.*
 
-**Conditions.** [Combat à deux armes](./Combat à deux armes.md) ; pouvoir de
-classe [pacte divin](./Paladin.md#PACTEDIVIN) (arme) ou arme sacrée.
+**Conditions.** [[Combat à deux armes]] ; pouvoir de
+classe [[Paladin#PACTEDIVIN|pacte divin]] (arme) ou arme sacrée.
 
-**Avantage.** Quand il utilise son [pacte divin](./Paladin.md#PACTEDIVIN) ou son arme sacrée
+**Avantage.** Quand il utilise son [[Paladin#PACTEDIVIN|pacte divin]] ou son arme sacrée
 pour améliorer une arme, le personnage peut améliorer
 deux armes ou les deux extrémités d’une arme double. Toutes
 les armes affectées doivent être tenues en main ou maniées,

@@ -13,13 +13,13 @@ Categories:
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.244}
 {s:BDTexte|**PX** 204 800}
-{s:BDTexte|[Plante](./type Plante.md) de taille C, CM}
-{s:BDTexte|**Init** +8 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 9m (6 {s:c}), [vision aveugle](./vision aveugle.md) 9 m (6 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +32}
+{s:BDTexte|[[type Plante|Plante]] de taille C, CM}
+{s:BDTexte|**Init** +8 ; **Sens** [[perception des vibrations]] 9m (6 {s:c}), [[vision aveugle]] 9 m (6 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +32}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 34, contact 10, pris au dépourvu 26 (Dex +8, naturelle +24, taille -8)}
-{s:BDTexte|**pv** 333 (23d8+230) ; [guérison accélérée](./guérison accélérée.md) 10}
+{s:BDTexte|**pv** 333 (23d8+230) ; [[guérison accélérée]] 10}
 {s:BDTexte|**Réf** +17, **Vig** +23, **Vol** +13}
-{s:BDTexte|**Capacités défensives** décharge électrique, dernier sursaut ; **Immunités** électricité, [traits des plantes](./Traits des plantes.md) ; **RD** 15/fer froid et tranchant ; **Résistances** feu 30, froid 30 ; **RM** 30 }
+{s:BDTexte|**Capacités défensives** décharge électrique, dernier sursaut ; **Immunités** électricité, [[traits des plantes]] ; **RD** 15/fer froid et tranchant ; **Résistances** feu 30, froid 30 ; **RM** 30 }
 {s:BDTexte|**Faiblesses** vulnérabilité au son}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c}), escalade 9 m (6 {s:c})}
@@ -27,14 +27,14 @@ Categories:
 {s:BDTexte|**Distance** 4 épines, +17 (2d8+16 plus poison)}
 {s:BDTexte|**Espace** 9 m (6 {s:c}) ; **Allonge** 9 m (6 {s:c})}
 {s:BDTexte|**Pouvoirs magiques** (NLS 20 ; Concentration + 27)}
-{s:BDSorts|À volonté—*[contrôle du climat](./Contrôle du climat.md)*, *[éclair](./Éclair.md)* (DD20), *[forme d'arbre](./Forme darbre.md)* (arbre de taille Colossale), *[voie végétale](./Voie végétale.md)*}
-{s:BDSorts|3/jour—*[éclair](./Éclair.md)* en incantation rapide (DD20), *[éclair multiple](./Éclair multiple.md)* (DD23)}
-{s:BDSorts|1/jour—*[cyclone](./Cyclone.md)* (DD25), *[tempête vengeresse](./Tempête vengeresse.md)* (DD26)}
+{s:BDSorts|À volonté—*[[contrôle du climat]]*, *[[éclair]]* (DD20), *[[forme darbre|forme d'arbre]]* (arbre de taille Colossale), *[[voie végétale]]*}
+{s:BDSorts|3/jour—*[[éclair]]* en incantation rapide (DD20), *[[éclair multiple]]* (DD23)}
+{s:BDSorts|1/jour—*[[cyclone]]* (DD25), *[[tempête vengeresse]]* (DD26)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 42, **Dex** 27, **Con** 30, **Int** 9, **Sag** 22, **Cha** 25}
 {s:BDTexte|**BBA** +17, **BMO** +41, **DMD** 59 (67 contre croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Coup fabuleux](./Coup fabuleux.md), [Frappe décisive](./Frappe décisive.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) ([éclair](./Éclair.md)), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la bousculade](./Science de la bousculade.md), [Science de la destruction](./Science de la destruction.md), [Science des réflexes surhumains](./Science des réflexes surhumains.md), [Science du critique](./Science du critique.md) (Coup), [Science du tir de précision](./Science du tir de précision.md), [Tir à bout portant](./Tir à bout portant.md), [Tir de précision](./Tir de précision.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +24, [Perception](./Perception.md) +32}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Coup fabuleux]], [[Frappe décisive]], [[Pouvoir magique rapide]] ([[éclair]]), [[Réflexes surhumains]], [[Science de la bousculade]], [[Science de la destruction]], [[Science des réflexes surhumains]], [[Science du critique]] (Coup), [[Science du tir de précision]], [[Tir à bout portant]], [[Tir de précision]]}
+{s:BDTexte|**Compétences** [[Escalade]] +24, [[Perception]] +32}
 {s:BDTexte|**Langues** aklo, sylvestre}
 {s:BDTexte|**Particularités** acclimatation planaire}
 {s:BDSousTitre|Écologie}
@@ -44,9 +44,9 @@ Categories:
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Acclimatation planaire (Ext).** Un sard est toujours considéré comme se trouvant sur son plan d’origine, quel que soit le plan où il se trouve. Il ne gagne jamais le sous-type « extraplanaire ».}
 {s:BDTexte|**Décharge électrique (Sur)** Chaque fois qu’une créature touche un sard avec une arme de corps à corps métallique, les arcs électriques que cela produit inflige à l’attaquant 1d10 points de dégâts d’électricité.}
-{s:BDTexte|**Dernier sursaut (Sur).** Quand un sard meurt, sa dépouille explose en une conflagration d’électricité qui projette des éclats de bois acérés. Toutes les créatures situées dans un rayon de 9 mètres (6 {s:c}) du sard mourant subissent 12d6 points de dégâts d’électricité et 12d6 points de dégâts de type perforant. Un jet de [Réflexes](./Réflexes.md) réussi contre un DD de 31 permet de diviser ces dégâts par deux. Le DD du jet de sauvegarde dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Dernier sursaut (Sur).** Quand un sard meurt, sa dépouille explose en une conflagration d’électricité qui projette des éclats de bois acérés. Toutes les créatures situées dans un rayon de 9 mètres (6 {s:c}) du sard mourant subissent 12d6 points de dégâts d’électricité et 12d6 points de dégâts de type perforant. Un jet de [[Réflexes]] réussi contre un DD de 31 permet de diviser ces dégâts par deux. Le DD du jet de sauvegarde dépend de la [[Constitution]].}
 {s:BDTexte|**Épines (Ext).** Les épines d'un sard ont une portée de 54 m (36 {s:c}) avec aucun facteur de portée.}
-{s:BDTexte|**Poison (Ext).** Épines — blessure ; JdS [Vigueur](./Vigueur.md) DD 31 ; fréquence 1/round pendant 6 rounds ; effet affaiblissement temporaire 1d2 Dex et 4d6 dégâts d’électricité ; guérison 2 réussites consécutives.}
+{s:BDTexte|**Poison (Ext).** Épines — blessure ; JdS [[Vigueur]] DD 31 ; fréquence 1/round pendant 6 rounds ; effet affaiblissement temporaire 1d2 Dex et 4d6 dégâts d’électricité ; guérison 2 réussites consécutives.}
 </div>
 </td><td><div>*Cet arbre dénué de feuilles et monté sur des pattes d’araignées se met à s’agiter. Des étincelles rouge-sang apparaissent et disparaissent dans les fissures de son écorce.*
 

@@ -10,9 +10,9 @@ LastModified: 2019-01-25 09:00
 
 **Condition.** Cha 14
 
-**Avantage.** Les morts vivants qui ne possèdent pas d'esprit dont le total des [DV](./../Ressources/DV.md) sont égaux ou inférieurs à votre DV + votre modificateur de Charisme sont vulnérables à vos capacités de classes, vos compétences et aux sorts qui provoquent les états préjudiciables [secoué](./Secoué.md), [effrayé](./Effrayé.md) et [paniqué](./Paniqué.md).
+**Avantage.** Les morts vivants qui ne possèdent pas d'esprit dont le total des [[DV]] sont égaux ou inférieurs à votre DV + votre modificateur de Charisme sont vulnérables à vos capacités de classes, vos compétences et aux sorts qui provoquent les états préjudiciables [[secoué]], [[effrayé]] et [[paniqué]].
 
-Cela inclue l'utilisation de la compétence [Intimidation](./Intimidation.md) que vous pouvez utiliser pour démoraliser les morts-vivants sans esprit.
+Cela inclue l'utilisation de la compétence [[Intimidation]] que vous pouvez utiliser pour démoraliser les morts-vivants sans esprit.
 
 (((Death’s nightmare
 

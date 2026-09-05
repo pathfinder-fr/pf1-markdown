@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Confortable
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Confortable](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Confortable)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Confortable]]

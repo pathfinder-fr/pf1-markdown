@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Froid}
 {s:BDTexte|*Source : Bestiaire p.55*}
 {s:BDTexte|**PX** 1.600}
-{s:BDTexte|[Animal](./type Animal.md) de taille TG, N}
-{s:BDTexte|**Init** +6 ; **Sens** [vision aveugle](./vision aveugle.md) 36 m (24 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +19}
+{s:BDTexte|[[type Animal|Animal]] de taille TG, N}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision aveugle]] 36 m (24 {s:c}), [[vision nocturne]] ; [[Perception]] +19}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 10, pris au dépourvu 14 (Dex +2, naturelle +6, taille -2)}
 {s:BDTexte|**pv** 67 (9d8+27)}
@@ -27,15 +27,15 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 27, **Dex** 15, **Con** 16, **Int** 2, **Sag** 15, **Cha** 6}
 {s:BDTexte|**BBA** +6, **BMO** +16, **DMD** 28}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Endurance](./Endurance.md), [Science de l'initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Perception](./Perception.md), [Natation](./Natation.md))}
-{s:BDTexte|**Compétences** [Natation](./Natation.md) +28, [Perception](./Perception.md) +19 ; **Modificateurs raciaux** [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (morsure), [[Endurance]], [[Science de linitiative|Science de l'initiative]], [[Talent]] ([[Perception]], [[Natation]])}
+{s:BDTexte|**Compétences** [[Natation]] +28, [[Perception]] +19 ; **Modificateurs raciaux** [[Perception]] +8}
 {s:BDTexte|**Particularités** retenir son souffle}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans froids}
 {s:BDTexte|**Organisation sociale** solitaire, couple, ou banc (3-20)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Retenir son souffle (Ext)** Un orque peut retenir sa respiration pendant un nombre de minutes égal à 6 fois sa valeur de [Constitution](./Constitution.md) avant de risquer de se noyer.}
+{s:BDTexte|**Retenir son souffle (Ext)** Un orque peut retenir sa respiration pendant un nombre de minutes égal à 6 fois sa valeur de [[Constitution]] avant de risquer de se noyer.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -43,9 +43,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Dauphin](./Dauphin.md) || 1/2
+| [[Dauphin]] || 1/2
 |-
-| [Orque épaulard](./Orque épaulard.md) || 5
+| [[Orque épaulard]] || 5
 |}
 </div>''Ce cétacé noir et élancé aux dents acérées possède des taches blanches
 caractéristiques près de chacun de ses yeux.''
@@ -55,7 +55,7 @@ plus grande. Les orques adultes mesurent généralement entre
 4,50 mètres et 7,50 mètres de long et pèsent entre 4 000 et 6 000 kg.
 
 #### L'orque épaulard comme compagnon animal
-**Caractéristiques de départ** **Taille** M ; **Vitesse** nage 24 m (16 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 11, Dex 19, Con 10, Int 2, Sag 14, Cha 6 ; **Particularités** retenir son souffle, [vision nocturne](./vision nocturne.md).
+**Caractéristiques de départ** **Taille** M ; **Vitesse** nage 24 m (16 {s:c}) ; **CA** armure naturelle +1 ; **Attaque** morsure (1d6) ; **Caractéristiques** For 11, Dex 19, Con 10, Int 2, Sag 14, Cha 6 ; **Particularités** retenir son souffle, [[vision nocturne]].
 
-**Développement au niveau 7** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** [vision aveugle](./vision aveugle.md) 36 m (24 {s:c}).
+**Développement au niveau 7** **Taille** G ; **CA** armure naturelle +2 ; **Attaque** morsure (1d8) ; **Caractéristiques** For +8, Dex -2, Con +4 ; **Particularités** [[vision aveugle]] 36 m (24 {s:c}).
 </div></td></tr></table>

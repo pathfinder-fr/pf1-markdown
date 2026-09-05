@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 4 pa ; **Poids** 5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ces planches pliantes articulées en deux points peuvent soutenir jusqu'à 125 kg avant de se briser. Une planche de 3 mètres de long se replie en un paquet de 90 centimètres sur 90 pour une épaisseur de 15 centimètres. Il faut une [action simple](./Action simple.md) pour plier ou déplier une planche.
+Ces planches pliantes articulées en deux points peuvent soutenir jusqu'à 125 kg avant de se briser. Une planche de 3 mètres de long se replie en un paquet de 90 centimètres sur 90 pour une épaisseur de 15 centimètres. Il faut une [[action simple]] pour plier ou déplier une planche.

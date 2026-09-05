@@ -7,6 +7,6 @@ Categories:
 - Src Campagnes mythiques
 ---
 
-Ce pouvoir fonctionne comme le pouvoir [nage dans la terre](./Nage dans la terre (capacité).md) de l’[élémentaire de la Terre](./Élémentaire de la Terre.md) mais uniquement dans le sable, la poussière ou la matière solide composée de toutes petites particules. La vitesse de déplacement de la créature lorsqu’elle utilise nage dans le sable est la même que sa vitesse de base.
+Ce pouvoir fonctionne comme le pouvoir [[Nage dans la terre (capacité)|nage dans la terre]] de l’[[élémentaire de la Terre]] mais uniquement dans le sable, la poussière ou la matière solide composée de toutes petites particules. La vitesse de déplacement de la créature lorsqu’elle utilise nage dans le sable est la même que sa vitesse de base.
 
 *Format :* nage dans le sable ; *Emplacement :* VD.

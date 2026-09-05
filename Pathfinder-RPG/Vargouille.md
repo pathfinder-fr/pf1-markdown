@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.280}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille P, NM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille P, NM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 14 (Dex +1, naturelle +3, taille +1)}
 {s:BDTexte|**pv** 19 (3d10+3)}
@@ -26,17 +26,17 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 10, **Dex** 13, **Con** 13, **Int** 5, **Sag** 12, **Cha** 8}
 {s:BDTexte|**BBA** +3, **BMO** +2, **DMD** 13}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +8, [Intimidation](./Intimidation.md) +5, [Perception](./Perception.md) +7, [Vol](./Vol.md) +13}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +8, [[Intimidation]] +5, [[Perception]] +7, [[Vol]] +13}
 {s:BDTexte|**Langues** infernal}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque}
 {s:BDTexte|**Organisation sociale** couple, portée (3-6) ou vol (7-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Baiser (Sur)** Une vargouille peut embrasser une cible sans défense en réussissant un [jet d'attaque](./jet dattaque.md) de contact au corps à corps (qui provoque une [attaque d'opportunité](./attaque dopportunité.md)). La victime du baiser doit effectuer un jet de [Vigueur](./Vigueur.md) de DD 16. En cas d'échec, une terrible transformation commence, qui change la victime en une vargouille en 24 heures (et souvent beaucoup plus vite ; lancez 1d6 séparément pour chaque phase de la transformation). Tout d'abord, au cours des 1d6 premières heures, la victime perd toute pilosité. Puis, pendant les 1d6 heures suivantes, ses oreilles grandissent et se transforment en ailes membraneuses, des tentacules poussent sur son crâne et son menton et ses dents deviennent longues et pointues. Au cours des 1d6 heures suivantes, la victime subit des affaiblissements permanents de 1 point d'Intelligence et de Charisme par heure (sans passer sous 3). La transformation se termine 1d6 heures plus tard, lorsque la tête de la victime se sépare de son corps (qui meurt rapidement) et qu'elle devient une vargouille. La lumière du soleil ou n'importe quel sort de lumière du 3<sup>ème</sup> niveau ou d'un niveau supérieur interrompt momentanément la transformation, mais un sort de *[guérison des maladies](./Guérison des maladies.md)* est nécessaire pour la stopper complètement. La transformation est un effet de type "maladie". Le DD dépend de la Constitution et inclut un bonus racial de +4.}
-{s:BDTexte|**Hurlement (Sur)** Au lieu de mordre, une vargouille peut ouvrir grand sa bouche difforme et hurler. Les créatures qui se trouvent dans un rayon de 18 m (12 {s:c}) (à l'exception des autres vargouilles) et qui peuvent clairement voir celle qui hurle doivent réussir un jet de [Vigueur](./Vigueur.md) de DD 12 ou être paralysées pendant 2d4 rounds ou jusqu'à ce que la vargouille qui a hurlé les attaque, sorte de la portée ou quitte leur champ de vision. Une créature qui réussit son [jet de sauvegarde](./jet de sauvegarde.md) ne peut plus être affectée de nouveau par le même hurlement de cette vargouille pendant 24 heures. Le DD du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Poison (Sur)** morsure - blessure ; *JS* [Vigueur](./Vigueur.md) DD 12 ; *fréquence* une seule fois ; *effet* les soins magiques ne guérissent les effets de la morsure que si le lanceur de sort réussit un test de [NLS](./NLS.md) de DD 20 ; *guérison* 1 JdS. Le DD du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Baiser (Sur)** Une vargouille peut embrasser une cible sans défense en réussissant un [[jet dattaque|jet d'attaque]] de contact au corps à corps (qui provoque une [[attaque dopportunité|attaque d'opportunité]]). La victime du baiser doit effectuer un jet de [[Vigueur]] de DD 16. En cas d'échec, une terrible transformation commence, qui change la victime en une vargouille en 24 heures (et souvent beaucoup plus vite ; lancez 1d6 séparément pour chaque phase de la transformation). Tout d'abord, au cours des 1d6 premières heures, la victime perd toute pilosité. Puis, pendant les 1d6 heures suivantes, ses oreilles grandissent et se transforment en ailes membraneuses, des tentacules poussent sur son crâne et son menton et ses dents deviennent longues et pointues. Au cours des 1d6 heures suivantes, la victime subit des affaiblissements permanents de 1 point d'Intelligence et de Charisme par heure (sans passer sous 3). La transformation se termine 1d6 heures plus tard, lorsque la tête de la victime se sépare de son corps (qui meurt rapidement) et qu'elle devient une vargouille. La lumière du soleil ou n'importe quel sort de lumière du 3<sup>ème</sup> niveau ou d'un niveau supérieur interrompt momentanément la transformation, mais un sort de *[[guérison des maladies]]* est nécessaire pour la stopper complètement. La transformation est un effet de type "maladie". Le DD dépend de la Constitution et inclut un bonus racial de +4.}
+{s:BDTexte|**Hurlement (Sur)** Au lieu de mordre, une vargouille peut ouvrir grand sa bouche difforme et hurler. Les créatures qui se trouvent dans un rayon de 18 m (12 {s:c}) (à l'exception des autres vargouilles) et qui peuvent clairement voir celle qui hurle doivent réussir un jet de [[Vigueur]] de DD 12 ou être paralysées pendant 2d4 rounds ou jusqu'à ce que la vargouille qui a hurlé les attaque, sorte de la portée ou quitte leur champ de vision. Une créature qui réussit son [[jet de sauvegarde]] ne peut plus être affectée de nouveau par le même hurlement de cette vargouille pendant 24 heures. Le DD du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Poison (Sur)** morsure - blessure ; *JS* [[Vigueur]] DD 12 ; *fréquence* une seule fois ; *effet* les soins magiques ne guérissent les effets de la morsure que si le lanceur de sort réussit un test de [[NLS]] de DD 20 ; *guérison* 1 JdS. Le DD du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 </div>
 
 {s:ImageCentre|Bestiaire/Vargouille.jpg|95%}

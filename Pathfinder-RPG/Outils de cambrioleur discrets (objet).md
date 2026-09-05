@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:cs}{s:UI}**Prix** 190 po ; **Poids** 0,25 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Plus petits et fabriqués dans des matériaux plus résistants que la plupart des [outils de cambrioleur](./Outils de cambrioleur (objet).md), les objets de cet ensemble sont beaucoup plus faciles à dissimuler. Le personnage bénéficie d'un bonus de +4 aux tests d'[Escamotage](./Escamotage.md) pour dissimuler ces outils sur lui. Ils fonctionnent par ailleurs comme des [outils de cambrioleur de maître](./Outils de cambrioleur (objet).md) (accordant un bonus de circonstances de +2 aux tests de [Sabotage](./Sabotage.md)).
+Plus petits et fabriqués dans des matériaux plus résistants que la plupart des [[Outils de cambrioleur (objet)|outils de cambrioleur]], les objets de cet ensemble sont beaucoup plus faciles à dissimuler. Le personnage bénéficie d'un bonus de +4 aux tests d'[[Escamotage]] pour dissimuler ces outils sur lui. Ils fonctionnent par ailleurs comme des [[Outils de cambrioleur (objet)|outils de cambrioleur de maître]] (accordant un bonus de circonstances de +2 aux tests de [[Sabotage]]).

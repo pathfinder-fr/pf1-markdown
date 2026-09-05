@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Alignement#CM
 ---
 
->>> [Alignement#CM](./Alignement.md#CM)
+>>> [[Alignement#CM]]

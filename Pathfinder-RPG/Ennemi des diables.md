@@ -11,8 +11,8 @@ Categories:
 
 {s:RSE}*Autrefois, le personnage n’était qu’une victime sans défense mais à présent, les lamentations de ses adversaires résonnent jusqu’au plus profond des Enfers.*
 
-**Catégorie.** [réussite](./Dons.md#DONREUSSITE)
+**Catégorie.** [[Dons#DONREUSSITE|réussite]]
 
-**Conditions.** Le personnage doit affronter 10 diables différents et recevoir des dégâts ou une blessure quelconque suite à cinq attaques différentes ou plus, sans tomber [inconscient](./Inconscient.md), fuir ou se montrer incapable de riposter.
+**Conditions.** Le personnage doit affronter 10 diables différents et recevoir des dégâts ou une blessure quelconque suite à cinq attaques différentes ou plus, sans tomber [[inconscient]], fuir ou se montrer incapable de riposter.
 
-**Avantages.** Les attaques du personnage sont considérées comme d’alignement Bon quand il s’agit d’ignorer la [réduction de dégâts](./RD.md) d’un diable.
+**Avantages.** Les attaques du personnage sont considérées comme d’alignement Bon quand il s’agit d’ignorer la [[RD|réduction de dégâts]] d’un diable.

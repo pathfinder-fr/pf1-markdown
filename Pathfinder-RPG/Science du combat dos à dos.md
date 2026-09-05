@@ -11,8 +11,8 @@ Categories:
 
 {s:uc}*Après un long entraînement, le personnage et un allié sont devenus particulièrement doués dans l’art de se battre côte à côte.*
 
-**Catégorie.** [équipe](./Dons.md#DONEQUIPE)
+**Catégorie.** [[dons#DONEQUIPE|équipe]]
 
-**Conditions.** [Dos à dos](./Dos à dos.md), 5 rangs en [Perception](./Perception.md)
+**Conditions.** [[Dos à dos]], 5 rangs en [[Perception]]
 
-**Avantage.** Quand le personnage est adjacent à un allié qui est [pris en tenaille](./prise en tenaille.md) mais possède aussi ce don, il peut dépenser une [action rapide](./Action rapide.md) pour bénéficier d’un bonus de +2 à la [CA](./CA.md) contre tous ceux qui prennent l’allié en tenaille, jusqu’au début de son prochain tour.
+**Avantage.** Quand le personnage est adjacent à un allié qui est [[prise en tenaille|pris en tenaille]] mais possède aussi ce don, il peut dépenser une [[action rapide]] pour bénéficier d’un bonus de +2 à la [[CA]] contre tous ceux qui prennent l’allié en tenaille, jusqu’au début de son prochain tour.

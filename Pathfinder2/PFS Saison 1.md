@@ -5,9 +5,9 @@ LastModified: 2023-03-06 20:21
 ---
 
 <img src="Logos/PFS2/Year_of_the_Open_Road_Logo.png" class="fright" alt="">
-• [Retour à la page principale pour Pathfinder 2](./../ADJ/MainPage.md)   
+• [[MainPage|Retour à la page principale pour Pathfinder 2]]   
 
-• [Retour à la page PFS pour Pathfinder 2](./PFS.md)
+• [[PFS|Retour à la page PFS pour Pathfinder 2]]
 
 ### Année de la Route ouverte
 {s:LivrePF2|https://cdn.paizo.com/image/product/catalog/PZOP/PZOPFS0100E_180.jpeg|1-00 - Origin of the Open road}

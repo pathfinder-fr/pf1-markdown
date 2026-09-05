@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Magicien#GRIMOIRE
 ---
 
->>> [Magicien#GRIMOIRE](./Magicien.md#GRIMOIRE)
+>>> [[Magicien#GRIMOIRE]]

@@ -12,9 +12,9 @@ Categories:
 
 *Le personnage peut augmenter la force destructrice de ses explosions cinétiques de nouvelles façons.*
 
-**Conditions.** Capacités de classe [explosion cinétique](./Cinétiste.md#EXPLOSIONCINÉTIQUE) et [métacinétique](./Cinétiste.md#MÉTACINÉTIQUE)
+**Conditions.** Capacités de classe [[Cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] et [[Cinétiste#MÉTACINÉTIQUE|métacinétique]]
 
-**Avantage.** Le personnage choisi un des dons de métamagie suivants : [Sort perturbateur](./Sort perturbateur.md), [Sort ectoplasmique](./Sort ectoplasmique.md), [Sort furieux](./Sort furieux.md), [Sort miséricordieux](./Sort miséricordieux.md), ou [Sort transperçant](./Sort transperçant.md).
+**Avantage.** Le personnage choisi un des dons de métamagie suivants : [[Sort perturbateur]], [[Sort ectoplasmique]], [[Sort furieux]], [[Sort miséricordieux]], ou [[Sort transperçant]].
 
 En acceptant 1 point de brûlure, le personnage peut modifier son explosion cinétique comme s'il utilisait ce don de métamagie.
 

@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 1 po ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Munitions](./Tableau récapitulatif des armes.md#TABMUNITIONS)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABMUNITIONS|Munitions]]</span>
 ---
-Une flèche utilisée comme arme de corps à corps est traitée comme une [arme légère](./arme légère.md) [improvisée](./arme improvisée.md) (malus de -4 aux [jets d’attaque](./jet dattaque.md)) et inflige les mêmes dégâts qu’une [dague](./dague (arme).md) de sa taille ([multiplicateur de critique](./coup critique.md) de ×2). Les flèches sont livrées dans un carquois en cuir en contenant 20.
+Une flèche utilisée comme arme de corps à corps est traitée comme une [[arme légère]] [[arme improvisée|improvisée]] (malus de -4 aux [[jet dattaque|jets d’attaque]]) et inflige les mêmes dégâts qu’une [[dague (arme)|dague]] de sa taille ([[coup critique|multiplicateur de critique]] de ×2). Les flèches sont livrées dans un carquois en cuir en contenant 20.

@@ -10,7 +10,7 @@ LastModified: 2017-06-25 13:51
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 89*}
 - **135 PX**
-- [Mort-vivant](./type Mort-vivant.md) de taille TP, NM
+- [[type mort-vivant|Mort-vivant]] de taille TP, NM
 - **Init** +2 ; **Sens** vision dans le noir 18 m ; Perception +0
 (((Défense)))
 - **CA** 14, contact 14, pris au dépourvu 12 (Dex +2, taille +2)
@@ -24,7 +24,7 @@ LastModified: 2017-06-25 13:51
 (((Statistiques)))
 - **For** 11, **Dex** 15, **Con —,** **Int —,** **Sag** 11, **Cha** 10
 - **BBA **+0 ; **BMO **+0 ; **DMD** 10 (croc-en-jambe impossible)
-- **Compétences** [Vol](./Vol.md) +14
+- **Compétences** [[Vol]] +14
 (((Écologie)))
 - **Environnement** tous
 - **Organisation** solitaire, paire ou patrouille (3-6)
@@ -38,16 +38,16 @@ Quand il sert de sentinelle, il flotte en silence, à hauteur de visage, à l’
 
 Un décapité lâché dans une région habitée frappe patiemment aux portes fermées et aux fenêtres, jusqu’à ce que quelqu’un réponde à ses coups incessants. Il attaque alors la malheureuse victime. Les décapités gardent aussi les cryptes sinistres, les abattoirs et les cachettes des meurtriers qui aiment garder un souvenir de leurs méfaits à portée de main. Il y a toutes sortes de décapités, en fonction de la créature à qui appartenait la tête. Le décapité préfère flotter à hauteur de tête, afin de pouvoir attaquer facilement le visage, le cou et les épaules de sa victime.
 
-Un lanceur de sorts Neutre Mauvais peut obtenir un décapité comme [familier](./familier.md) au niveau 3 s’il possède le don [Familier supérieur](./Familier supérieur.md). Le décapité n’est alors plus dépourvu d’intelligence, il gagne une valeur appropriée au niveau de son maître.
+Un lanceur de sorts Neutre Mauvais peut obtenir un décapité comme [[familier]] au niveau 3 s’il possède le don [[Familier supérieur]]. Le décapité n’est alors plus dépourvu d’intelligence, il gagne une valeur appropriée au niveau de son maître.
 
 
 ### Création d'un décapité
 
-Un lanceur de sorts peut créer un décapité en lançant *[animation des morts](./Animation des morts.md)*. Pour chaque décapité, il faut deux onyx d’une valeur de 100 po et l’incantation d’un sort de *[marche dans les airs](./Marche dans les airs.md)* ou de *[vol](./Vol.md)*. On peut doter les décapités de propriétés tirées de la liste donnée plus bas. Les variantes de décapités comptent comme 1 DV additionnel en ce qui concerne le nombre de DV de morts-vivants que le lanceur peut contrôler. Le FP du décapité augmente de 1 toutes les deux propriétés supplémentaires.
+Un lanceur de sorts peut créer un décapité en lançant *[[animation des morts]]*. Pour chaque décapité, il faut deux onyx d’une valeur de 100 po et l’incantation d’un sort de *[[marche dans les airs]]* ou de *[[vol]]*. On peut doter les décapités de propriétés tirées de la liste donnée plus bas. Les variantes de décapités comptent comme 1 DV additionnel en ce qui concerne le nombre de DV de morts-vivants que le lanceur peut contrôler. Le FP du décapité augmente de 1 toutes les deux propriétés supplémentaires.
 
-- *Enflammée (Sur)*. Le décapité gagne l’immunité au feu et un bonus de +2 au [Charisme](./Charisme.md). Son attaque de coup inflige 1d6 points de dégâts de feu et risque d’enflammer la cible *(Manuel des Joueurs Pathfinder JdR p.451)*.
+- *Enflammée (Sur)*. Le décapité gagne l’immunité au feu et un bonus de +2 au [[Charisme]]. Son attaque de coup inflige 1d6 points de dégâts de feu et risque d’enflammer la cible *(Manuel des Joueurs Pathfinder JdR p.451)*.
 - *Geôlière (Ext)*. Ce décapité possède de longues mèches de cheveux emmêlés ou d’autres excroissances semblables à des membres (comme les serpents qui servent de cheveux à une méduse). Son attaque de coup gagne la propriété spéciale étreinte (créatures de taille M). 
 - *Grouillante (Ext)*. Le décapité gagne 1 DV supplémentaire, le sous-type nuée, les immunités des nuées et le pouvoir spécial de distraction. Il perd son attaque de coup mais gagne une attaque de nuée infligeant 1d6 points de dégâts. Cette propriété compte double quand il s’agit de déterminer le FP du décapité.
-- *Hurlante (Sur)*. Ce décapité peut hurler tous les 1d4 rounds. Toutes les créatures situées dans un rayon de 9 mètres doivent réussir un jet de [Volonté](./Volonté.md) ou être secouées pendant 1d4 rounds. Le [DD](./DD.md) du jet de sauvegarde est égal à 10 + 1/2 DV raciaux du décapité + modificateur de [Charisme](./Charisme.md) du décapité. C’est un effet mental sonore de terreur. Que les créatures de la zone d’effet aient réussi leur jet ou non, elles sont immunisées contre le hurlement de ce décapité pendant 24 heures.
+- *Hurlante (Sur)*. Ce décapité peut hurler tous les 1d4 rounds. Toutes les créatures situées dans un rayon de 9 mètres doivent réussir un jet de [[Volonté]] ou être secouées pendant 1d4 rounds. Le [[DD]] du jet de sauvegarde est égal à 10 + 1/2 DV raciaux du décapité + modificateur de [[Charisme]] du décapité. C’est un effet mental sonore de terreur. Que les créatures de la zone d’effet aient réussi leur jet ou non, elles sont immunisées contre le hurlement de ce décapité pendant 24 heures.
 - *Vomissante (Sur)*. Le décapité peut faire une attaque de contact à distance avec une portée maximale de 9 mètres qui inflige 1d6 points de dégâts d’énergie destructive (acide, électricité, froid ou feu, à choisir lors de la création).
 </div></td></tr></table>

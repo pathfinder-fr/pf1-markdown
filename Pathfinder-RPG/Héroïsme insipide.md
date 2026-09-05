@@ -15,14 +15,14 @@ Categories:
 - Src Ultimate Intrigue
 ---
 
-{s:cs}{s:UI}**École**  [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) <nowiki>[</nowiki>[effet mental, ruse](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 3, [Con](./Conjurateur.md) 4, [ConU](./conjurateur unchained.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Inq](./Inquisiteur.md) 4, [Méd](./Médium.md) 3, [Psy](./Psychiste.md) 4, [San](./Sanguin.md) 4, [Sor](./Sorcière.md) 4, [Spi](./Spirite.md) 4
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G](./composantes.md)
-**Portée** [contact](./contact.md)
+{s:cs}{s:UI}**École**  [[Enchantement]] ([[branche coercition|coercition]]) <nowiki>[</nowiki>[[registre|effet mental, ruse]]<nowiki>]</nowiki> ; **Niveau** [[Barde|Bard]] 3, [[Conjurateur|Con]] 4, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Inquisiteur|Inq]] 4, [[Médium|Méd]] 3, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4, [[Sorcière|Sor]] 4, [[Spirite|Spi]] 4
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G]]
+**Portée** [[contact]]
 **Cibles** créature touchée
 **Durée** 10 minutes/niveau (T)
 **Jet de sauvegarde** Volonté, annule (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 
-Ce sort fonctionne comme *[héroïsme](./Héroïsme.md)*, excepté que le personnage peut inverser les effets du sort en prononçant un ordre spécial par une [action simple](./Action simple.md) s'il se trouve à portée moyenne (30 m + 3 m/[niveau](./niveau.md)) de la cible. La cible perd alors les bonus accordés et subit à la place un malus de -2 aux [jets d'attaque](./jet dattaque.md), aux [jets de sauvegarde](./JDS.md) et aux tests de compétence jusqu'à la fin de la durée du sort (sans jet de sauvegarde).
+Ce sort fonctionne comme *[[héroïsme]]*, excepté que le personnage peut inverser les effets du sort en prononçant un ordre spécial par une [[action simple]] s'il se trouve à portée moyenne (30 m + 3 m/[[niveau]]) de la cible. La cible perd alors les bonus accordés et subit à la place un malus de -2 aux [[jet dattaque|jets d'attaque]], aux [[jds|jets de sauvegarde]] et aux tests de compétence jusqu'à la fin de la durée du sort (sans jet de sauvegarde).
 
-Toute tentative visant à identifier *héroïsme insipide* avec un test de compétence l'identifie à tort comme *[héroïsme](./Héroïsme.md)* (voir le registre de la [ruse](./Registre.md)).
+Toute tentative visant à identifier *héroïsme insipide* avec un test de compétence l'identifie à tort comme *[[héroïsme]]* (voir le registre de la [[registre|ruse]]).

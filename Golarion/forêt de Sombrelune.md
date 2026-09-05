@@ -16,38 +16,38 @@ Categories:
 | WIDTH="76%" | Résultat
 | WIDTH="2%" | FP
 |- Class="premier"
-| 1–10 || 1d3 [tatzlwyrms](./../Pathfinder-RPG/Tatzlwyrm.md) || 2
+| 1–10 || 1d3 [[Pathfinder-RPG.Tatzlwyrm|tatzlwyrms]] || 2
 |-
-| 11–25 || 2d3 [grigs](./../Pathfinder-RPG/Grig.md) || 3
+| 11–25 || 2d3 [[Pathfinder-RPG.Grig|grigs]] || 3
 |-
-| 26–30 || 1 [dryades](./../Pathfinder-RPG/Dryade.md) || 3
+| 26–30 || 1 [[Pathfinder-RPG.Dryade|dryades]] || 3
 |-
-| 31–35 || 1d2 [gricks](./../Pathfinder-RPG/Grick.md) || 3
+| 31–35 || 1d2 [[Pathfinder-RPG.Grick|gricks]] || 3
 |-
-| 36–40 || 1d4 [aallips](./../Pathfinder-RPG/Aallip.md) || 4
+| 36–40 || 1d4 [[Pathfinder-RPG.Aallip|aallips]] || 4
 |-
-| 41–50 || 2d6 [kobolds](./../Pathfinder-RPG/Kobold.md) || 4
+| 41–50 || 2d6 [[Pathfinder-RPG.Kobold|kobolds]] || 4
 |-
-| 51–55 || 1d3 [ours-hiboux](./../Pathfinder-RPG/Ours-hibou.md) || 4
+| 51–55 || 1d3 [[Pathfinder-RPG.Ours-hibou|ours-hiboux]] || 4
 |-
-| 56–70 || 1d2 [pixies](./../Pathfinder-RPG/Pixie.md) (sans danse) || 4
+| 56–70 || 1d2 [[Pathfinder-RPG.Pixie|pixies]] (sans danse) || 4
 |-
-| 71–72 || 2d4 [ombres](./../Pathfinder-RPG/Ombre.md) || 5
+| 71–72 || 2d4 [[Pathfinder-RPG.Ombre|ombres]] || 5
 |-
-| 73–80 || 1d4 [pixies](./../Pathfinder-RPG/Pixie.md) (avec danse) || 6
+| 73–80 || 1d4 [[Pathfinder-RPG.Pixie|pixies]] (avec danse) || 6
 |-
-| 81 || 1 [géant des collines](./../Pathfinder-RPG/Géant des collines.md) || 7
+| 81 || 1 [[Pathfinder-RPG.Géant des collines|géant des collines]] || 7
 |-
-| 82–84 || 1 [nymphe](./../Pathfinder-RPG/Nymphe.md) || 7
+| 82–84 || 1 [[Pathfinder-RPG.Nymphe|nymphe]] || 7
 |-
-| 85–84 || 1 [ombre supérieure](./../Pathfinder-RPG/Ombre supérieure.md) || 8
+| 85–84 || 1 [[Pathfinder-RPG.Ombre supérieure|ombre supérieure]] || 8
 |-
-| 86–100 || Meute de loups (2d6 [loups](./../Pathfinder-RPG/Loup.md), 1d2 [loups sanguinaires](./../Pathfinder-RPG/Loup sanguinaire.md) et 1 [loup arctique](./../Pathfinder-RPG/Loup arctique.md)) || 8
+| 86–100 || Meute de loups (2d6 [[Pathfinder-RPG.Loup|loups]], 1d2 [[Pathfinder-RPG.Loup sanguinaire|loups sanguinaires]] et 1 [[Pathfinder-RPG.Loup arctique|loup arctique]]) || 8
 |}
-</div></div>La forêt de Sombrelune est l'un des endroits les plus dangereux de tout l'[Avistan](./Avistan.md). Forêt sauvage hantée par les fées à la lisière de la civilisation, elle représente une menace constante pour ceux qui vivent à proximité, mais sert également de tentation constante aux aventuriers désireux de se faire un nom.
+</div></div>La forêt de Sombrelune est l'un des endroits les plus dangereux de tout l'[[Avistan]]. Forêt sauvage hantée par les fées à la lisière de la civilisation, elle représente une menace constante pour ceux qui vivent à proximité, mais sert également de tentation constante aux aventuriers désireux de se faire un nom.
 
 #### Géographie
-La forêt de Sombrelune est situé dans le [Val de Sombrelune](./Val de Sombrelune.md), au pied de la [Faille de Droskar](./Faille de Droskar.md) et du [Creuset de Droskar](./Creuset de Droskar.md), le long des rives du fleuve Écume dans le nord de l'[Andoran](./Andoran.md), près de la frontière de l'[Isger](./Isger.md) et du [Druma](./Druma.md). La forêt dense, qui s'étend sur environ 68 kilomètres de large et environ 24 kilomètres de haut, contient en son sein un petit lac qui se jette dans le fleuve Écume à proximité. Des camps de bûcherons peuvent être trouvés sur les bords extérieurs du Val, un rappel que les dangers de la forêt ne suffisent pas à arrêter l'expansion du cupide [Consortium du Bois](./Consortium du Bois.md). La communauté permanente la plus proche est la ville forestière de [Nid-du-Faucon](./Nid-du-Faucon.md), qui se trouve à environ 13 kilomètres de la lisière sud de la forêt.<sup>(1)</sup>
+La forêt de Sombrelune est situé dans le [[Val de Sombrelune]], au pied de la [[Faille de Droskar]] et du [[Creuset de Droskar]], le long des rives du fleuve Écume dans le nord de l'[[Andoran]], près de la frontière de l'[[Isger]] et du [[Druma]]. La forêt dense, qui s'étend sur environ 68 kilomètres de large et environ 24 kilomètres de haut, contient en son sein un petit lac qui se jette dans le fleuve Écume à proximité. Des camps de bûcherons peuvent être trouvés sur les bords extérieurs du Val, un rappel que les dangers de la forêt ne suffisent pas à arrêter l'expansion du cupide [[Consortium du Bois]]. La communauté permanente la plus proche est la ville forestière de [[Nid-du-Faucon]], qui se trouve à environ 13 kilomètres de la lisière sud de la forêt.<sup>(1)</sup>
 
 ### Références
 Paizo a publié un article majeur sur la forêt de Sombrelune dans l'aventure *[Hollow's Last Hope](https://paizo.com/download/gamemastery/D0-HollowsLastHope.pdf)* (*[Le Dernier espoir de Nid-du-Faucon](https://www.black-book-editions.fr/news-38.html)*).

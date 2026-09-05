@@ -6,7 +6,7 @@ LastModified: 2017-10-02 17:31
 
 ***Le culte de la Voie des Murmures tisse un vaste complot à travers le territoire de l'Ustalav dans le but de libérer le roi-liche Tar-Baphon, plus connu sous le nom de Tyran qui Murmure, de sa prison éternelle dans les donjons de Mont-de-Gibet. Leurs rites horribles et les plans rusés montent les loups-garous contre les vampires, les fantômes contre des terreurs provenant d'au-delà du temps et de l'espace, le tout dans une campagne qui touche aux thèmes classiques de l'horreur, du fantastique noir et de la sorcellerie.***
 
-Vous trouverez les aides de jeu relatives à cette campagne sur [cette page](./Aides de jeu AP8.md).
+Vous trouverez les aides de jeu relatives à cette campagne sur [[Aides de jeu AP8|cette page]].
 
 Commentez cette campagne et donnez votre avis sur le [forum](http://www.pathfinder-fr.org/Forum/default.aspx?g=posts&m=14544&#post14544).
 
@@ -34,7 +34,7 @@ La prison d'Harrowstone est depuis longtemps une ruine vide et hantée, pas seul
 La Bête de Lépidstadt, un golem de chair sauvage et rusé, terrorise depuis longtemps les habitants plutôt simples de la région en assassinant, en volant et en semant la destruction de manière insupportable. Le règne du golem fou vient à son terme lorsqu'il est capturé en plein carnage. Mais, plutôt que de détruire le monstre, le conseil de la ville de Lépidstadt insiste que cette créature clairement dotée d'une certaine intelligence doit recevoir un procès en bonnes règles. En suivant la trace de la Voie des Murmures, les héros se retrouvent mêlés au destin de la Bête. On les embauche pour la protéger contre les citoyens les plus furieux, les érudits du macabre et les esclaves de son créateur. Lorsque le monstre fou est libéré lors d'une violente attaque, sa piste mène au laboratoire d'un scientifique dérangé et de ses créations abominables, qui font partie du complot de la Voie des Murmures.  
   
 
-**Articles :** [Pharasma](./../Golarion/Pharasma.md), l'ordre éternel de l'Oeil Palatine (une société secrète de l'Ustalav)}
+**Articles :** [[Golarion.Pharasma|Pharasma]], l'ordre éternel de l'Oeil Palatine (une société secrète de l'Ustalav)}
 {s:BookTitle|AP8-3|Broken Moon/Lune brisée}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9045_120.jpeg|http://paizo.com/products/btpy8g7c}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/284_Pathfider45_Lune_brisee.jpg|https://www.black-book-editions.fr/produit.php?id=319}
@@ -61,7 +61,7 @@ Personne ne va à Illmarsh, un village en ruines hanté par des récits de rites
 Un meurtrier sévit dans les rues de Caliphas, un éventreur qui ne s'attaque qu'à un type bien particulier de victimes : les vampires. Alors que les héros suivent la piste des membres de la Voie des Murmures, ils perdent leur cible de vue au milieu du dédales des allées de la capitale de l'Ustalav. Mais un individu sombre surgit des ombres, offrant son aide et ses connaissances au sujet de but ultime du culte. Tout ce qu'il demande en échange, c'est que les aventuriers mettent un terme au meurtrier qui terrorise les vampires de la ville. Cela mène les héros vers un monde caché de ténèbres perpétuelles, où ils doivent explorer la dangereuse société des vampires et se familiariser avec leurs traditions abominables s'ils veulent découvrir qui tuent les morts-vivants. C'est ainsi qu'ils dévoileront un complot sanglant et une union de maux prêts à risquer la vie et la non-vie dans leur quête de la jeunesse éternelle.  
   
 
-**Articles :** la ville de Caliphas, [Urgathoa](./../Golarion/Urgathoa.md)}
+**Articles :** la ville de Caliphas, [[Golarion.Urgathoa|Urgathoa]]}
 {s:BookTitle|AP8-6|Shadows of Gallowspire/Les ombres de Gibet}
 {s:BookPic|http://paizo.com/image/product/catalog/PZO/PZO9048_120.jpeg|http://paizo.com/products/btpy8g7t}
 {s:BookPic|http://www.black-book-editions.fr/contenu/image/img_medium/287_Pathfinder_48_Les_Ombres_de_Gibet_66.jpg|https://www.black-book-editions.fr/produit.php?id=322}

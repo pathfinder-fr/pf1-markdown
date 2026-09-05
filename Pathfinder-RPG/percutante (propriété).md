@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Percutante
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Percutante](./Descriptions individuelles des propriétés spéciales des armes.md#Percutante)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Percutante]]

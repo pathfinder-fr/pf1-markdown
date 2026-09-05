@@ -9,6 +9,6 @@ Categories:
 
 {s:MR}*À faible luminosité, le wayang est à peine plus distinct qu’une ombre.*
 
-**Conditions.** [wayang](./wayang (race).md)
+**Conditions.** [[wayang (race)|wayang]]
 
-**Avantage.** Quand le wayang est dans une zone de faible lumière ou de ténèbres, il peut se déplacer à sa vitesse maximale en utilisant [Discrétion](./Discrétion.md) sans subir le malus normal de -5. Quand il se déplace à une vitesse allant de la moitié de sa vitesse normale à sa vitesse normale, le wayang subit un malus de -5 à ses tests de [Discrétion](./Discrétion.md).
+**Avantage.** Quand le wayang est dans une zone de faible lumière ou de ténèbres, il peut se déplacer à sa vitesse maximale en utilisant [[Discrétion]] sans subir le malus normal de -5. Quand il se déplace à une vitesse allant de la moitié de sa vitesse normale à sa vitesse normale, le wayang subit un malus de -5 à ses tests de [[Discrétion]].

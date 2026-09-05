@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:racial|Gobelin (race)|gobelins|Illustrations/PNJ/Gobelin.jpg}{s:MR}**Prix** 1 pa ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Peut-être est-ce dû à leur tête trop large ? Certainement plus à cause de leur manque de bon sens… Toujours est-il que les [gobelins](./Gobelin (race).md) se coincent souvent dans les espaces trop exigus. Dans ce cas, une dose de graisse de porc est souvent la solution. Une application de graisse sur le corps offre un bonus de circonstances de +2 à tous les tests d’[Évasion](./Évasion.md) effectués pendant 1 heure.
+Peut-être est-ce dû à leur tête trop large ? Certainement plus à cause de leur manque de bon sens… Toujours est-il que les [[Gobelin (race)|gobelins]] se coincent souvent dans les espaces trop exigus. Dans ce cas, une dose de graisse de porc est souvent la solution. Une application de graisse sur le corps offre un bonus de circonstances de +2 à tous les tests d’[[Évasion]] effectués pendant 1 heure.

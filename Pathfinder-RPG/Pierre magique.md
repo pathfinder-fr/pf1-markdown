@@ -11,28 +11,28 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Cham](./Chaman.md) 1, [Dru](./Druide.md) 1, [Prê](./Prêtre.md) 1
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**École** [[Transmutation]] ; **Niveau** [[Chaman|Cham]] 1, [[Druide|Dru]] 1, [[Prêtre|Prê]] 1
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cibles** jusqu’à 3 cailloux touchés
 **Durée** 30 minutes ou jusqu’à utilisation
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 ---
-Ce sort permet de transformer jusqu’à trois cailloux, pas plus gros que des billes de fronde, pour qu’ils causent des dégâts plus importants. Si on les lance à la main, ils ont un facteur de portée de 6 m. Si on les utilise comme des billes de fronde, ils ont les mêmes caractéristiques que ces dernières (facteur de portée 15 m). Le sort leur confère un [bonus d’altération](./bonus daltération.md) de +1 aux [jets d’attaque](./jet dattaque.md) et de dégâts. La créature qui les utilise effectue à chaque fois une attaque à distance normale. En cas de coup au but, ces projectiles infligent 1d6+1 points de dégâts chacun (bonus compris) et le double contre les [morts-vivants](./type Mort-vivant.md) (2d6+2 points de dégâts).
+Ce sort permet de transformer jusqu’à trois cailloux, pas plus gros que des billes de fronde, pour qu’ils causent des dégâts plus importants. Si on les lance à la main, ils ont un facteur de portée de 6 m. Si on les utilise comme des billes de fronde, ils ont les mêmes caractéristiques que ces dernières (facteur de portée 15 m). Le sort leur confère un [[bonus daltération|bonus d’altération]] de +1 aux [[jet dattaque|jets d’attaque]] et de dégâts. La créature qui les utilise effectue à chaque fois une attaque à distance normale. En cas de coup au but, ces projectiles infligent 1d6+1 points de dégâts chacun (bonus compris) et le double contre les [[type mort-vivant|morts-vivants]] (2d6+2 points de dégâts).
 
 
 
 ((({s:sortssimilaires|pierre magique}
-## [Rocher magique](./Rocher magique.md)
+## [[Rocher magique]]
 {s:racial|Géant du froid|géants du froid|}{s:cm}
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[terre](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Dru](./Druide.md) 2, [Prê](./Prêtre.md) 2
-**Temps d'incantation** 1 [action simple](./Action simple.md)
-**Composantes** [V, G, FD](./composantes.md)
-**Portée** [contact](./Présentation des sorts.md#PORTEE)
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|terre]]<nowiki>]</nowiki> ; **Niveau** [[druide|Dru]] 2, [[prêtre|Prê]] 2
+**Temps d'incantation** 1 [[action simple]]
+**Composantes** [[composantes|V, G, FD]]
+**Portée** [[Présentation des sorts#PORTEE|contact]]
 **Cible** jusqu’à trois rochers touchés
 **Durée** 30 minutes ou jusqu’à utilisation
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE), objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet) ; **Résistance à la magie** oui ([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]], objet)
 ---
-Ce sort fonctionne comme *[pierre magique](./Pierre magique.md)*, mais transmute jusqu’à trois rochers (des rocs atteignant jusqu’à deux catégories de taille de moins que le personnage) que le personnage peut utiliser avec le pouvoir lancer de rochers ou comme munition pour un engin de siège. Les dégâts du rocher augmentent d’une catégorie et le rocher gagne un bonus d’altération de +1 aux [jets d’attaque](./jet dattaque.md) et [de dégâts](./Valeurs de combat.md#DEGATS).
+Ce sort fonctionne comme *[[pierre magique]]*, mais transmute jusqu’à trois rochers (des rocs atteignant jusqu’à deux catégories de taille de moins que le personnage) que le personnage peut utiliser avec le pouvoir lancer de rochers ou comme munition pour un engin de siège. Les dégâts du rocher augmentent d’une catégorie et le rocher gagne un bonus d’altération de +1 aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]].
 )))

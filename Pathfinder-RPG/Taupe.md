@@ -10,8 +10,8 @@ LastModified: 2026-08-02 14:47
 {s:pucem|Animal|Tempéré}
 {s:BDTexte|*Source : Ultimate Wilderness*}
 {s:BDTexte|**PX** 50}
-{s:BDTexte|[Animal](./type Animal.md) de taille MIN, N}
-{s:BDTexte|**Init** +0 ; **Sens** [Perception des vibrations (capacité)|Perception des vibrations] à 4,5 m (3 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Animal|Animal]] de taille MIN, N}
+{s:BDTexte|**Init** +0 ; **Sens** [[Perception des vibrations (capacité)|Perception des vibrations]] à 4,5 m (3 {s:c}), [[vision nocturne]] ; [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 14(taille +4)}
 {s:BDTexte|**pv** 6 (1d8+2)}
@@ -23,14 +23,14 @@ LastModified: 2026-08-02 14:47
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 2, **Dex** 11, **Con** 14, **Int** 2, **Sag** 10, **Cha** 7}
 {s:BDTexte|**BBA** +0, **BMO** -4, **DMD** 2 (6 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Talent](./Talent.md) ([Discrétion](./Discrétion.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +19}
+{s:BDTexte|**Dons** [[Talent]] ([[Discrétion]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +19}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** Tout}
 {s:BDTexte|**Organisation sociale** solitaire, paire, ou colonie (3-16)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**[retenir son souffle (capacité)|Retenir son souffle]** La taupe peut retenir son souffle pendant un nombre de minutes égal à 6 fois son bonus de Constitution avant de risquer de se noyer.}
+{s:BDTexte|**[[retenir son souffle (capacité)|Retenir son souffle]]** La taupe peut retenir son souffle pendant un nombre de minutes égal à 6 fois son bonus de Constitution avant de risquer de se noyer.}
 </div>
 </td><td><div>Ce rongeur brun au corps cylindrique et poilu arbore un museau pointu ainsi que de larges pattes épaisses armées de griffes fouisseuses.
 

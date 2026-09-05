@@ -8,9 +8,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Harnois des profondeurs|{s:AE}}
-**Aura** [Abjuration](./Abjuration.md) modérée ; **NLS** 11 ; **Emplacement** [armure](./Armures magiques spécifiques.md) ; **Prix** 24 650 po ; **Poids** 25 kg
+**Aura** [[Abjuration]] modérée ; **NLS** 11 ; **Emplacement** [[Armures magiques spécifiques|armure]] ; **Prix** 24 650 po ; **Poids** 25 kg
 (((Description)))
-Ce harnois +1 est orné de motifs représentant des vagues et des poissons. À l’intérieur de ces motifs sont gravés de minuscules écailles et des nageoires. Même si elle est aussi lourde et encombrante qu’un harnois ordinaire, on considère que le personnage ne porte aucune armure en ce qui concerne les tests de [Natation](./Natation.md). Son porteur est capable de respirer sous l’eau et de parler avec toutes les créatures possédant un langage et respirant sous l’eau.
+Ce harnois +1 est orné de motifs représentant des vagues et des poissons. À l’intérieur de ces motifs sont gravés de minuscules écailles et des nageoires. Même si elle est aussi lourde et encombrante qu’un harnois ordinaire, on considère que le personnage ne porte aucune armure en ce qui concerne les tests de [[Natation]]. Son porteur est capable de respirer sous l’eau et de parler avec toutes les créatures possédant un langage et respirant sous l’eau.
 (((Création)))
-**Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[don des langues](./Don des langues.md)*, *[liberté de mouvement](./Liberté de mouvement.md)*, *[respiration aquatique](./Respiration aquatique.md)* ; **Coût** 13 150 po
+**Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[don des langues]]*, *[[liberté de mouvement]]*, *[[respiration aquatique]]* ; **Coût** 13 150 po
 </div>

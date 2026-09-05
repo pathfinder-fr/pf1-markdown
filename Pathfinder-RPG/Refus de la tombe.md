@@ -9,12 +9,12 @@ Categories:
 ---
 
 {s:UM}
-**École** [nécromancie](./Nécromancie.md)  ; **Niveau** [prêtre](./Prêtre.md) 4, [druide](./Druide.md) 5, [inquisiteur](./Inquisiteur.md) 5, [paladin](./Paladin.md) 4  
+**École** [[nécromancie]]  ; **Niveau** [[prêtre]] 4, [[druide]] 5, [[inquisiteur]] 5, [[paladin]] 4  
 
-**Durée** 1 minute/[niveau](./niveau.md)  
+**Durée** 1 minute/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
+**Jet de sauvegarde** [[Volonté]] [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (inoffensif) ; **Résistance à la magie** oui (inoffensif)  
 
-**Restriction de cible** *[choisi](./Choisi.md)*
+**Restriction de cible** *[[choisi]]*
 
-La cible d’un sort incluant ce mot effet bénéficie d’un bonus sacré de +4 aux [jets de sauvegarde](./jet de sauvegarde.md) contre tous les sorts et les effets magiques de mort. Le sujet ne peut pas subir de niveau négatif tant que le sort est actif, mais ceux qu’il a reçus avant ne disparaissent pas. La cible est automatiquement [stabilisée](./Stable.md) sil elle tombe en-dessous de 0 point de vie et n’est pas tuée.
+La cible d’un sort incluant ce mot effet bénéficie d’un bonus sacré de +4 aux [[jet de sauvegarde|jets de sauvegarde]] contre tous les sorts et les effets magiques de mort. Le sujet ne peut pas subir de niveau négatif tant que le sort est actif, mais ceux qu’il a reçus avant ne disparaissent pas. La cible est automatiquement [[stable|stabilisée]] sil elle tombe en-dessous de 0 point de vie et n’est pas tuée.

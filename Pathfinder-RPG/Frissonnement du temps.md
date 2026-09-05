@@ -9,11 +9,11 @@ Categories:
 - Sort psychiste 2
 ---
 
-{s:MCA}**École** [Transmutation](./Transmutation.md) ; **Niveau** [Con](./Conjurateur.md) 2, [ConU](./conjurateur unchained.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Magus](./Magus.md) 2, [Psy](./Psychiste.md) 2  
+{s:MCA}**École** [[Transmutation]] ; **Niveau** [[Conjurateur|Con]] 2, [[Conjurateur unchained|ConU]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Magus]] 2, [[Psychiste|Psy]] 2  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G, M](./composantes.md) (un tout petit sablier)  
+**Composantes** [[composantes|V, G, M]] (un tout petit sablier)  
 
 **Portée** 9 m (6 {s:c})  
 

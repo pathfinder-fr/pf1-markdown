@@ -10,7 +10,7 @@ LastModified: 2017-07-27 15:16
 {s:pucem|Aberration|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 228*}
 - 9 600 PX
-- [Aberration](./type Aberration.md) ([extraplanaire](./sous-type extraplanaire.md)) de taille G, CM
+- [[type aberration|Aberration]] ([[sous-type extraplanaire|extraplanaire]]) de taille G, CM
 - **Init **+6 ; **Sens **vision aveugle 9 m, vision dans le noir 18 m ; Perception +20
 - **Aura **de puanteur (9 m, DD 22, 10 rounds)
 (((Défense)))
@@ -26,8 +26,8 @@ LastModified: 2017-07-27 15:16
 (((Statistiques)))
 - **For **26, **Dex **15, **Con **21, **Int **17, **Sag** 17, **Cha **20
 - **BBA **+10 ; **BMO** +19 ; **DMD** 30 (38 contre le croc-en-jambe)
-- **Dons **[Arme de prédilection](./Arme de prédilection.md) (tentacule), [Attaques multiples](./Attaques multiples.md), [Attaques réflexes](./Attaques réflexes.md), [Frappe décisive](./Frappe décisive.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Science du critique](./Science du critique.md) (morsure)
-- **Compétences **[Art de la magie](./Art de la magie.md) +20, [Connaissances](./Connaissances.md) (mystères) +20, [Discrétion](./Discrétion.md) +15, [Escalade](./Escalade.md) +33, [Évasion](./Évasion.md) +19, [Intimidation](./Intimidation.md) +22, [Perception](./Perception.md) +20 
+- **Dons **[[Arme de prédilection]] (tentacule), [[Attaques multiples]], [[Attaques réflexes]], [[Frappe décisive]], [[Réflexes surhumains]], [[science de linitiative|Science de l’initiative]], [[Science du critique]] (morsure)
+- **Compétences **[[Art de la magie]] +20, [[Connaissances]] (mystères) +20, [[Discrétion]] +15, [[Escalade]] +33, [[Évasion]] +19, [[Intimidation]] +22, [[Perception]] +20 
 - **Langues **aklo
 (((Écologie)))
 - **Environnement **collines tempérées

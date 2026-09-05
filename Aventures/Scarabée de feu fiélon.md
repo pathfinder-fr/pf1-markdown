@@ -8,10 +8,10 @@ LastModified: 2019-05-28 15:04
 <div class="BD">
 {s:BDTitre|Scarabée de feu fiélon|FP 1}
 {s:pucem|Extérieur|Souterrain|Extraplanaire}
-{s:BDTexte|*Source : Bestiaire* [Punaise de feu](./../Pathfinder-RPG/Punaise de feu.md) avec archetypes [évolué](./../Pathfinder-RPG/archétypes simples.md#CREATUREEVOLUEE) et [fiélon](./../Pathfinder-RPG/Archétypes.md#Créature_fiélon_FP_+A_ou_+B_4)}
+{s:BDTexte|*Source : Bestiaire* [[Pathfinder-RPG.Punaise de feu|Punaise de feu]] avec archetypes [[Pathfinder-RPG.archétypes simples#CREATUREEVOLUEE|évolué]] et [[Pathfinder-RPG.Archétypes#Créature_fiélon_FP_+A_ou_+B_4|fiélon]]}
 {s:BDTexte|**PX** 135}
-{s:BDTexte|[Extérieur](./../Pathfinder-RPG/type Extérieur.md) ([extraplanaire](./../Pathfinder-RPG/sous-type extraplanaire.md), [Mal](./../Pathfinder-RPG/sous-type Mal.md)) de taille P, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [vision nocturne](./../Pathfinder-RPG/vision nocturne.md), [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m ; [++Pathfinder-RPG.Perception](./../Pathfinder-RPG/Perception.md) +2}
+{s:BDTexte|[[Pathfinder-RPG.type Extérieur|Extérieur]] ([[Pathfinder-RPG.sous-type Extraplanaire|extraplanaire]], [[Pathfinder-RPG.sous-type Mal|Mal]]) de taille P, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[Pathfinder-RPG.vision nocturne|vision nocturne]], [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] 18 m ; [[Pathfinder-RPG.Perception]] +2}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 13, pris au dépourvu 14 (naturelle +3, taille +1)}
 {s:BDTexte|**pv** 6 (1d8+2)}
@@ -22,11 +22,11 @@ LastModified: 2019-05-28 15:04
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), vol 9 m (6 {s:c}) (médiocre), creusement de 6 m (4 {s:c}}
 {s:BDTexte|**Corps à corps** morsure +3 (1d4+2)}
-{s:BDTexte|**Attaques spéciales** *châtiment du Bien* 1/jour par une [action rapide](./../Pathfinder-RPG/Action rapide.md) (ajouter le bonus de [Charisme](./../Pathfinder-RPG/Charisme.md) aux [jets d’attaque](./../Pathfinder-RPG/jet dattaque.md) et un bonus aux [dégâts](./../Pathfinder-RPG/jet de dégâts.md) égal au nombre de [DV](./../Pathfinder-RPG/DV.md) contre une cible d’alignement bon ; le châtiment du Bien persiste jusqu’à ce que la cible soit morte ou que la créature se repose.}
+{s:BDTexte|**Attaques spéciales** *châtiment du Bien* 1/jour par une [[Pathfinder-RPG.action rapide|action rapide]] (ajouter le bonus de [[Pathfinder-RPG.Charisme|Charisme]] aux [[Pathfinder-RPG.jet dattaque|jets d’attaque]] et un bonus aux [[Pathfinder-RPG.jet de dégâts|dégâts]] égal au nombre de [[Pathfinder-RPG.DV|DV]] contre une cible d’alignement bon ; le châtiment du Bien persiste jusqu’à ce que la cible soit morte ou que la créature se repose.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 15, **Con** 15, **Int** -, **Sag** 14, **Cha** 11}
 {s:BDTexte|**BBA** +0, **BMO** -1, **DMD** 11 (19 contre le croc-en-jambe)}
-{s:BDTexte|**Compétences** [Vol](./../Pathfinder-RPG/Vol.md) +0}
+{s:BDTexte|**Compétences** [[Pathfinder-RPG.Vol|Vol]] +0}
 {s:BDTexte|**Particularités** luminescence}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}

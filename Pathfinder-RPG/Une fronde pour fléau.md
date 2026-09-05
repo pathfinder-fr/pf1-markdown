@@ -11,14 +11,14 @@ Categories:
 
 {s:uc}*Le personnage peut utiliser une fronde et sa bille pour frapper un adversaire proche. *
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Arme de prédilection](./Arme de prédilection.md) (fronde), [BBA](./BBA.md) +1
+**Conditions.** [[Arme de prédilection]] (fronde), [[BBA]] +1
 
-**Avantage.** Le personnage peut faire une attaque au corps à corps avec une [fronde](./fronde (arme).md) chargée d’une [Billes de fronde (arme)bille](./Billes-de-fronde-(arme)bille.md). Il utilise les statistiques normales de la fronde mais la considère comme un fléau. Le personnage ne dépense pas de munitions quand il utilise sa fronde en mêlée mais si la bille est magique ou [de maître](./arme de maître.md), elle perd cette propriété après le premier coup qui touche.
+**Avantage.** Le personnage peut faire une attaque au corps à corps avec une [[Fronde (arme)|fronde]] chargée d’une [[Billes de fronde (arme)bille]]. Il utilise les statistiques normales de la fronde mais la considère comme un fléau. Le personnage ne dépense pas de munitions quand il utilise sa fronde en mêlée mais si la bille est magique ou [[arme de maître|de maître]], elle perd cette propriété après le premier coup qui touche.
 
 **Spécial.** Les dons qui s’appliquent aux fléaux s’appliquent aussi à une fronde ainsi utilisée.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 2 points d’endurance pour augmenter les dégâts de son attaque au corps à corps avec une [fronde](./fronde (arme).md) chargée. Elle inflige alors les mêmes dégâts que ceux d’une fronde d’une catégorie de taille de plus. Par exemple, une fronde de taille P inflige 1d4 points de dégâts tandis qu’une de taille M en inflige 1d6. Cet avantage se prolonge jusqu’au début du prochain tour du personnage mais ne se cumule pas avec d’autres effets qui considèrent que la fronde est d’une catégorie de taille de plus qu’en réalité.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut dépenser 2 points d’endurance pour augmenter les dégâts de son attaque au corps à corps avec une [[fronde (arme)|fronde]] chargée. Elle inflige alors les mêmes dégâts que ceux d’une fronde d’une catégorie de taille de plus. Par exemple, une fronde de taille P inflige 1d4 points de dégâts tandis qu’une de taille M en inflige 1d6. Cet avantage se prolonge jusqu’au début du prochain tour du personnage mais ne se cumule pas avec d’autres effets qui considèrent que la fronde est d’une catégorie de taille de plus qu’en réalité.

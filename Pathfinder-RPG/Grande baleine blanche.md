@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Animal|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2 page 47*}
 {s:BDTexte|**PX** 38400}
-{s:BDTexte|[Animal](./type Animal.md) de taille C, N}
-{s:BDTexte|**Init** -2 ; **Sens** [vision aveugle](./vision aveugle.md) 36m ; [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +13}
+{s:BDTexte|[[type Animal|Animal]] de taille C, N}
+{s:BDTexte|**Init** -2 ; **Sens** [[vision aveugle]] 36m ; [[vision nocturne]] ; [[Perception]] +13}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 28, contact 0, pris au dépourvu 28 (Dex -2, naturelle +28, taille -8)}
 {s:BDTexte|**pv** 225 (18d8+144)}
@@ -27,9 +27,9 @@ Categories:
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 50, **Dex** 6, **Con** 27, **Int** 2, **Sag** 11, **Cha** 5}
 {s:BDTexte|**BBA** +13, **BMO** +41, **DMD** 49 (croc en jambe impossible)}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Dur à cuire](./Dur à cuire.md), [Endurance](./Endurance.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (morsure), [Vigueur surhumaine](./Vigueur surhumaine.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [natation](./Natation.md) +39 ; [Perception](./Perception.md) +13}
-{s:BDTexte|**Particularités** [retenir son souffle](./Retenir son souffle (capacité).md)}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Critique ralentissant]], [[Don pour les critiques]], [[Dur à cuire]], [[Endurance]], [[Science de la bousculade]], [[Science du critique]] (morsure), [[Vigueur surhumaine]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[natation]] +39 ; [[Perception]] +13}
+{s:BDTexte|**Particularités** [[retenir son souffle (capacité)|retenir son souffle]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou banc (3-16)}
@@ -39,7 +39,7 @@ Categories:
 {s:BDTexte|**Renversement de navires (ext).** Une baleine peut tenter de faire sombrer un bateau ou un navire en effectuant une charge et un test de manoeuvre. Le DD de ce test est égal à 25 ou au résultat d'un test de profession marin réalisé par le capitaine du navire si celui-ci est plus élevé. Si le navire est plus grand que la baleine, le test subit un malus cumulatif de -10 par catégorie de taille de différence.}
 </div>
 </td><td><div>
-*Cette immense [baleine](./Baleine.md) possède une énorme tête rectangulaire et une vaste gueule garnie de dents. Sa peau blanche et rugueuse est couverte de cicatrices.*
+*Cette immense [[baleine]] possède une énorme tête rectangulaire et une vaste gueule garnie de dents. Sa peau blanche et rugueuse est couverte de cicatrices.*
 
 Les grandes baleines blanches célèbres pour leur taille et leur tempérament colérique sont beaucoup plus agressives que leurs cousines de taille plus modeste.
 </div></td></tr></table>

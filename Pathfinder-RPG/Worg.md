@@ -13,20 +13,20 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p. 285}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille M, NM}
-{s:BDTexte|**Init** +2 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +11}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille M, NM}
+{s:BDTexte|**Init** +2 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +11}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)}
 {s:BDTexte|**pv** 26 (4d10+4)}
 {s:BDTexte|**Réf** +6, **Vig** +5, **Vol** +3}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +7 (1d6+4 et [croc-en-jambe](./croc-en-jambe.md))}
+{s:BDTexte|**Corps à corps** morsure +7 (1d6+4 et [[croc-en-jambe]])}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 17, **Dex** 15, **Con** 13, **Int** 6, **Sag** 14, **Cha** 10}
 {s:BDTexte|**BBA** +4, **BMO** +7, **DMD** 19 (23 contre le croc-en-jambe)}
-{s:BDTexte|**Dons** [Course](./Course.md), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +9, [Perception](./Perception.md) +11, [Survie](./Survie.md) +5 ; **Modificateurs raciaux** [Discrétion](./Discrétion.md) +2, [Perception](./Perception.md) +2, [Survie](./Survie.md) +2}
+{s:BDTexte|**Dons** [[Course]], [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Discrétion]] +9, [[Perception]] +11, [[Survie]] +5 ; **Modificateurs raciaux** [[Discrétion]] +2, [[Perception]] +2, [[Survie]] +2}
 {s:BDTexte|**Langues** commun, gobelin}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou plaines tempérées}
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Loup arctique](./Loup arctique.md) || 5
+| [[Loup arctique]] || 5
 |-
-| [Worg](./Worg.md) || 2
+| [[Worg]] || 2
 |}
 </div>''On peut percevoir une intelligence maléfique dans les yeux rouge foncé de
 ce loup de grande taille.''

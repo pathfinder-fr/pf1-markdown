@@ -14,6 +14,6 @@ if(image == "" || image == " ") { $('.symbole2').html(""); }
 </tr><tr style="vertical-align: top">
 <td><div style="text-align:center; font-size: 81%; font-weight: bold;">Option plus  
 commune chez  
-les [?2?](./?1?.md).</div></td>
+les [[?1?|?2?]].</div></td>
 </tr></table>
 </div>

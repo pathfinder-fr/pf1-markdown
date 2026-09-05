@@ -13,10 +13,10 @@ Categories:
 <div class="BD">
 {s:BDtitre|Anguille des sables|FP 5}
 {s:pucem|Animal|Désert|Tropical}
-{s:BDtexte|*Source : [Guide du Katapesh p.60](./Courts suppléments univers (Contenu).md)*}
+{s:BDtexte|*Source : [[Courts suppléments univers (Contenu)|Guide du Katapesh p.60]]*}
 {s:BDtexte|**PX** 1 600}
-{s:BDtexte|[Animal](./type Animal.md) de taille L, N}
-{s:BDtexte|**Init** +6 : **Sens** [vision nocturne](./Vision nocturne (capacité).md) ; [Perception](./Perception.md) +7}
+{s:BDtexte|[[type Animal|Animal]] de taille L, N}
+{s:BDtexte|**Init** +6 : **Sens** [[Vision nocturne (capacité)|vision nocturne]] ; [[Perception]] +7}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 17, contact 11, pris au dépourvu 15 (Dex +2, naturelle +6, taille -1)}
 {s:BDtexte|**pv** 47 (8d8)}
@@ -33,16 +33,16 @@ Categories:
 {s:BDsoustitre|Statistiques}
 {s:BDtexte|**For** 20, **Dex** 15, **Con** 12, **Int** 2, **Sag** 11, **Cha** 10}
 {s:BDtexte|**BBA** +6, **BMO** 11, **DMD** 23}
-{s:BDtexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (morsure), [Robustesse](./Robustesse.md), [Science de l’initiative](./Science de linitiative.md)}
-{s:BDtexte|**Compétences** [Discrétion](./Discrétion.md) +11 (+19 dans les environnements désertiques), [Perception](./Perception.md) +6 ; **Modificateurs raciaux** +8 en Discrétion dans les environnements désertiques}
+{s:BDtexte|**Dons** [[Arme de prédilection]] (morsure), [[Robustesse]], [[Science de linitiative|Science de l’initiative]]}
+{s:BDtexte|**Compétences** [[Discrétion]] +11 (+19 dans les environnements désertiques), [[Perception]] +6 ; **Modificateurs raciaux** +8 en Discrétion dans les environnements désertiques}
 {s:BDtexte|**Particularités** passage sur le sable}
 {s:BDsoustitre|Écologie}
 {s:BDtexte|**Environnement** déserts}
 {s:BDtexte|**Organisation sociale** solitaire, couple ou nid (5-10)}
 {s:BDsoustitre|Pouvoirs spéciaux}
-{s:BDtexte|**Jaillissement (Ext).** Une anguille des sables qui s’est enterrée dans le sable est capable de jaillir rapidement du sol et d’attaquer. Ceci compte comme une [charge](./charge.md), sauf que l’anguille des sables ne peut se déplacer que de sa valeur de déplacement (et pas de deux fois sa valeur) et qu’elle gagne un bonus de +2 sur son [jet d’attaque](./jet dattaque.md) (en plus des bonus et des malus normaux dus à la charge).}
-{s:BDtexte|**Passage sur le sable (Sur).** Les anguilles des sables se déplacent sur le sable, les sables mouvants, le gravier et les autres environnements constitués de terrain meuble comme si elles se déplaçaient sur un terrain normal plutôt qu’un [terrain difficile](./terrain difficile.md).}
-{s:BDtexte|**Évolution possible** 9-11 [DV](./../Ressources/DV.md) (taille L), 12-16 [DV](./../Ressources/DV.md) (taille TG)}
+{s:BDtexte|**Jaillissement (Ext).** Une anguille des sables qui s’est enterrée dans le sable est capable de jaillir rapidement du sol et d’attaquer. Ceci compte comme une [[charge]], sauf que l’anguille des sables ne peut se déplacer que de sa valeur de déplacement (et pas de deux fois sa valeur) et qu’elle gagne un bonus de +2 sur son [[jet dattaque|jet d’attaque]] (en plus des bonus et des malus normaux dus à la charge).}
+{s:BDtexte|**Passage sur le sable (Sur).** Les anguilles des sables se déplacent sur le sable, les sables mouvants, le gravier et les autres environnements constitués de terrain meuble comme si elles se déplaçaient sur un terrain normal plutôt qu’un [[terrain difficile]].}
+{s:BDtexte|**Évolution possible** 9-11 [[DV]] (taille L), 12-16 [[DV]] (taille TG)}
 {s:BDtexte|**Ajustement de niveau** –}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
@@ -51,11 +51,11 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Anguille des sables](./Anguille des sables.md) || 5
+| [[Anguille des sables]] || 5
 |-
-| [Anguille électrique](./Anguille électrique.md) || 2
+| [[Anguille électrique]] || 2
 |-
-| [Murène géante](./Murène géante.md) || 5
+| [[Murène géante]] || 5
 |}
 </div><u>***Contenu issu d'un supplément 3.5***</u>
 
@@ -66,7 +66,7 @@ Les anguilles des sables sont des créatures insolites originaires du Bazar du B
 Les anguilles des sables mesurent d’1,80 à 3,60 mètres de long et peuvent peser plusieurs centaines de kilos. Leurs os minuscules et leur peau mince les rendent très légères pour leur taille.
 
 #### Écologie
-Les anguilles des sables naissent dans des œufs. Après l’accouplement, une femelle pond des dizaines de ces œufs et les recouvre de sable. Douées d’un instinct de chasse dès l’éclosion, les anguilles des sables nouvelles-nées dévorent leurs coquilles avant de s’éloigner en rampant. Elles mesurent entre 15 et 30 centimètres de long à l’éclosion et chassent les insectes et les petits rongeurs. Elles atteignent leur taille adulte en 2 mois et commencent à chasser de plus grandes créatures, telles que les chacals, les [dhabbas](./Dhabba.md), les serpents et même, parfois, les humanoïdes. Les anguilles des sables sont des animaux à sang froid, actifs durant la journée et dormant dans des terriers durant les heures froides de la nuit.
+Les anguilles des sables naissent dans des œufs. Après l’accouplement, une femelle pond des dizaines de ces œufs et les recouvre de sable. Douées d’un instinct de chasse dès l’éclosion, les anguilles des sables nouvelles-nées dévorent leurs coquilles avant de s’éloigner en rampant. Elles mesurent entre 15 et 30 centimètres de long à l’éclosion et chassent les insectes et les petits rongeurs. Elles atteignent leur taille adulte en 2 mois et commencent à chasser de plus grandes créatures, telles que les chacals, les [[Dhabba|dhabbas]], les serpents et même, parfois, les humanoïdes. Les anguilles des sables sont des animaux à sang froid, actifs durant la journée et dormant dans des terriers durant les heures froides de la nuit.
 
 #### Habitat et société
 Les anguilles des sables chassent généralement seules, bien qu’un couple puisse parfois former un partenariat et chasser ensemble. Elles cherchent la compagnie d’autres membres de leur espèce durant la nuit pour se réchauffer et s’enfoncent ensemble dans le sable par groupes de cinq individus ou plus, se séparant au lever du soleil. Durant la saison de reproduction, ces créatures peuvent s’accoupler à de nombreux membres de leur espèce, chaque couvée étant donc issue de nombreux pères. Ils ne montrent aucun intérêt à l’éducation de leurs jeunes.

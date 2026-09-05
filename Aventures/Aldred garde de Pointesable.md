@@ -6,7 +6,7 @@ Categories:
 - PNJ
 ---
 
-Aldred est un des gardes qui font partie de la garnison de Pointesable sous les ordres du [prévôt Belor Cigüe](./Belor Cigüe prévôt de Pointesable.md).
+Aldred est un des gardes qui font partie de la garnison de Pointesable sous les ordres du [[Belor Cigüe prévôt de Pointesable|prévôt Belor Cigüe]].
 Je l'ai construit pour pouvoir donner un coup de main de temps en temps si les PJ demandent un détachement de la garnison pour un peu d'aide ou pour les chopper en train de faire une éventuelle bêtise en public (tenter de cambrioler la Verrerie par exemple).
 
 <div class="BD">

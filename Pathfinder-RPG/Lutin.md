@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Fée|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.189}
 {s:BDTexte|**PX** 400}
-{s:BDTexte|[Fée](./type Fée.md) de taille TP, N}
-{s:BDTexte|**Init** +8 ; **Sens** [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +8}
+{s:BDTexte|[[type Fée|Fée]] de taille TP, N}
+{s:BDTexte|**Init** +8 ; **Sens** [[vision nocturne]] ; [[Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 17, contact 17, pris au dépourvu 12 (Dex +4, esquive +1, taille +2)}
 {s:BDTexte|**pv** 4 (1d6+1)}
@@ -24,13 +24,13 @@ Categories:
 {s:BDTexte|**Corps à corps** *épée courte*,+6 (1d2–2/19–20)}
 {s:BDTexte|**Espace** 75 cm ; **Allonge** 0 m}
 {s:BDTexte|**Pouvoirs magiques** (NLS 7), concentration +10}
-{s:BDSorts|À volonté — *[lumières dansantes](./Lumières dansantes.md)*, *[prestidigitation](./Prestidigitation.md)*, *[réparation](./Réparation.md)*}
-{s:BDSorts|1/jour — *[confusion mineure](./Confusion mineure.md)* (DD 14), *[image miroir](./Image miroir.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)* (personnel uniquement), *[ventriloquie](./Ventriloquie.md)* (DD 14)}
+{s:BDSorts|À volonté — *[[lumières dansantes]]*, *[[prestidigitation]]*, *[[réparation]]*}
+{s:BDSorts|1/jour — *[[confusion mineure]]* (DD 14), *[[image miroir]]*, *[[porte dimensionnelle]]* (personnel uniquement), *[[ventriloquie]]* (DD 14)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 7, **Dex** 18, **Con** 12, **Int** 14, **Sag** 15, **Cha** 17}
 {s:BDTexte|**BBA** +0, **BMO** +2, **DMD** 11}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Esquive](./Esquive.md),  [Science de l’initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +8 (+4 pour sauter), [Artisanat](./Artisanat.md) (un au choix)  +6, [Bluff](./Bluff.md) +7, [Discrétion](./Discrétion.md) +16 (+20 en forêt), [Dressage](./Dressage.md) +4, [Évasion](./Évasion.md) +8, [Perception](./Perception.md) +8, [Psychologie](./Psychologie.md) +6 ; **Modificateurs raciaux** +4 [Discrétion](./Discrétion.md) en forêt, +2 [Perception](./Perception.md)}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Esquive]],  [[Science de linitiative|Science de l’initiative]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +8 (+4 pour sauter), [[Artisanat]] (un au choix)  +6, [[Bluff]] +7, [[Discrétion]] +16 (+20 en forêt), [[Dressage]] +4, [[Évasion]] +8, [[Perception]] +8, [[Psychologie]] +6 ; **Modificateurs raciaux** +4 [[Discrétion]] en forêt, +2 [[Perception]]}
 {s:BDTexte|**Langues** commun, elfe, gnome, sylvestre}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts ou plaines tempérées}

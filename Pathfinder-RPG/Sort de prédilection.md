@@ -6,8 +6,8 @@ LastModified: 2011-08-15 21:27
 
 {s:apg}*Le personnage lance un sort donné avec une grande facilité.*
 
-**Conditions.** 5 rangs en [Art de la magie](./Art de la magie.md), [Augmentation d’intensité](./Augmentation dintensité.md).
+**Conditions.** 5 rangs en [[Art de la magie]], [[Augmentation dintensité|Augmentation d’intensité]].
 
-**Avantages.** Le personnage choisit un sort qu’il sait lancer. Il peut le lancer de manière spontanée en sacrifiant un sort préparé ou un [emplacement de sort](./emplacement de sort.md) de même niveau ou d’un niveau supérieur. Il peut lui appliquer n’importe quel don de métamagie connu lors de l’incantation : cela augmente le niveau minimum du sort ou de l’emplacement de sort à sacrifier mais pas le [temps d’incantation](./temps dincantation.md).
+**Avantages.** Le personnage choisit un sort qu’il sait lancer. Il peut le lancer de manière spontanée en sacrifiant un sort préparé ou un [[emplacement de sort]] de même niveau ou d’un niveau supérieur. Il peut lui appliquer n’importe quel don de métamagie connu lors de l’incantation : cela augmente le niveau minimum du sort ou de l’emplacement de sort à sacrifier mais pas le [[temps dincantation|temps d’incantation]].
 
 **Spécial. **Le personnage peut acquérir ce don plusieurs fois. Ses effets ne se cumulent pas. Chaque fois qu’il opte pour ce don, celui-ci s’applique à un sort différent.

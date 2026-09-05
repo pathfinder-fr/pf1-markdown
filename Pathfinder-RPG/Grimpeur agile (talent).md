@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#GRIMPEURAGILE
 ---
 
->>> [Talents#GRIMPEURAGILE](./Talents.md#GRIMPEURAGILE)
+>>> [[Talents#GRIMPEURAGILE]]

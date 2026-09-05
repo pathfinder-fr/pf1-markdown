@@ -4,12 +4,12 @@ Title: Cape du rat sabordeur
 LastModified: 2020-07-10 16:22
 ---
 
-<div style="float:right">***Retour aux [objets merveilleux](./Objets merveilleux.md).***  
+<div style="float:right">***Retour aux [[objets merveilleux]].***  
 {s:racial|Homme-rat (race)|h-rats|Illustrations/PNJ/Homme-rat.jpg}</div><div class="BD">
 {s:BDTitre|Cape du rat sabordeur|{s:MR}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** épaules ; **Prix** 6 000 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** épaules ; **Prix** 6 000 po ; **Poids** 0,5 kg
 (((Description)))
 Au premier abord, cette modeste cape semble être en cuir simple. Mais lorsque le porteur prononce le mot de commande, la cape du rat sabordeur s’enroule autour de lui, le transformant en un rat sanguinaire comme s’il utilisait forme bestiale I. Le porteur peut demeurer sous forme de rat sanguinaire jusqu’à 5 minutes par jour, qui ne doivent pas forcément être consécutives, mais doivent être utilisées par segments de 1 minute.
 (((Fabrication)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[forme bestiale I](./Forme bestiale I.md)* ; **Coût** 3 000 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[forme bestiale I]]* ; **Coût** 3 000 po
 </div>

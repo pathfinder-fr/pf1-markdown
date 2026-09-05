@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Déviation
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Déviation](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Déviation)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Déviation]]

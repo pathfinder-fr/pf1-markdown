@@ -7,7 +7,7 @@ LastModified: 2017-12-03 11:21
 {s:AO}''Le personnage possède un réservoir d’énergie mentale plus
 important que la normale.''
 
-**Conditions.** Pouvoir de classe [réserve phrénique](./Psychiste.md#RESERVEPHRENIQUE).
+**Conditions.** Pouvoir de classe [[psychiste#RESERVEPHRENIQUE|réserve phrénique]].
 
-**Avantage.** La [réserve phrénique](./Psychiste.md#RESERVEPHRENIQUE) totale du personnage
+**Avantage.** La [[psychiste#RESERVEPHRENIQUE|réserve phrénique]] totale du personnage
 augmente de 2 points.

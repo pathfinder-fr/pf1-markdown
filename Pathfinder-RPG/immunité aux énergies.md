@@ -7,4 +7,4 @@ Categories:
 RedirectTo: immunité (capacité)
 ---
 
->>> [immunité (capacité)](./Immunité (capacité).md)
+>>> [[immunité (capacité)]]

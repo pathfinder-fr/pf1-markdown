@@ -17,22 +17,22 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Nécromancie](./Nécromancie.md) ; **Niveau** [Apal](./Antipaladin.md) 3, [Hyp](./Hypnotiseur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Magus](./Magus.md) 3, [Méd](./Médium.md) 3, [Psy](./Psychiste.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3, [Spi](./Spirite.md) 3  
+**École** [[Nécromancie]] ; **Niveau** [[Antipaladin|Apal]] 3, [[Hypnotiseur|Hyp]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Magus]] 3, [[Médium|Méd]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3, [[Spirite|Spi]] 3  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[COMPOSANTES|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** créature vivante touchée  
 
-**Durée** [instantanée](./instantanée.md)/1 heure (voir description)  
+**Durée** [[instantanée]]/1 heure (voir description)  
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Le mage doit réussir une [attaque de contact au corps à corps](./attaque de contact au corps à corps.md) pour que le sort prenne effet. Il inflige alors 1d6 points de dégâts tous les deux [niveaux de lanceur de sorts](./NLS.md) (jusqu’à un maximum de 10d6). Le lanceur de sorts gagne autant de [points de vie temporaires](./points de vie temporaires.md) qu’il inflige de dégâts. Ces [points de vie](./points de vie.md) ne peuvent toutefois dépasser le nombre actuel de [points de vie](./points de vie.md) de la cible + sa valeur de [Constitution](./Constitution.md) (ce qui peut suffire à la tuer). Les [points de vie temporaires](./points de vie temporaires.md) disparaissent au bout d’une heure.
+Le mage doit réussir une [[attaque de contact au corps à corps]] pour que le sort prenne effet. Il inflige alors 1d6 points de dégâts tous les deux [[NLS|niveaux de lanceur de sorts]] (jusqu’à un maximum de 10d6). Le lanceur de sorts gagne autant de [[points de vie temporaires]] qu’il inflige de dégâts. Ces [[points de vie]] ne peuvent toutefois dépasser le nombre actuel de [[points de vie]] de la cible + sa valeur de [[Constitution]] (ce qui peut suffire à la tuer). Les [[points de vie temporaires]] disparaissent au bout d’une heure.
 
 ### Mythique
 {s:CMy}
-Les dégâts infligés par le sort s’élèvent à 1d8 points de dégâts par tranche de 2 [niveaux par lanceur de sorts](./NLS.md) (10d8 maximum). L’attaque de contact au corps à corps effectuée par le personnage pour déclencher le sort obtient une possibilité de coup critique sur un résultat de 19 ou 20. Cette possibilité de critique étendue ne se cumule pas avec d’autres effets ou aptitudes qui augmentent les possibilités de critique. Si les dégâts tuent la cible, le personnage gagne une guérison accélérée 5 pendant un nombre de rounds égal au nombre de DV de la cible.
+Les dégâts infligés par le sort s’élèvent à 1d8 points de dégâts par tranche de 2 [[NLS|niveaux par lanceur de sorts]] (10d8 maximum). L’attaque de contact au corps à corps effectuée par le personnage pour déclencher le sort obtient une possibilité de coup critique sur un résultat de 19 ou 20. Cette possibilité de critique étendue ne se cumule pas avec d’autres effets ou aptitudes qui augmentent les possibilités de critique. Si les dégâts tuent la cible, le personnage gagne une guérison accélérée 5 pendant un nombre de rounds égal au nombre de DV de la cible.

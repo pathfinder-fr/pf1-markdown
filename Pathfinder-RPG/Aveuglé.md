@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Aveuglé
 ---
 
->>> [États préjudiciables#Aveuglé](./États préjudiciables.md#Aveuglé)
+>>> [[États préjudiciables#Aveuglé]]

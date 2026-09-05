@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Pouvoirs de rage#ODORATPRIMITIF
 ---
 
->>> [Pouvoirs de rage#ODORATPRIMITIF](./Pouvoirs de rage.md#ODORATPRIMITIF)
+>>> [[Pouvoirs de rage#ODORATPRIMITIF]]

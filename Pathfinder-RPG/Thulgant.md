@@ -12,29 +12,29 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire 2* p.236}
 {s:BDTexte|**PX** 153.600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md), [qlippoth](./sous-type qlippoth.md)) de taille G, CM}
-{s:BDTexte|**Init** +12 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 cases), [vision lucide](./Vision lucide.md) ; [Perception](./Perception.md) +31}
-{s:BDTexte|**Aura** *[manteau du Chaos](./Manteau du Chaos.md)* (DD 25)}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type Mal|Mal]], [[sous-type extraplanaire|extraplanaire]], [[sous-type qlippoth|qlippoth]]) de taille G, CM}
+{s:BDTexte|**Init** +12 ; **Sens** [[vision dans le noir]] 18 m (12 cases), [[vision lucide]] ; [[Perception]] +31}
+{s:BDTexte|**Aura** *[[manteau du Chaos]]* (DD 25)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 33, contact 25, pris au dépourvu 21 (parade +4, Dex +12, naturelle +8, taille –1)}
 {s:BDTexte|**pv** 290 (20d10+180) ; guérison accélérée 10}
 {s:BDTexte|**Réf** +30, **Vig** +25, **Vol** +18}
-{s:BDTexte|**Capacités défensives** [esquive totale](./esquive totale.md), *[déplacement](./Déplacement.md)*, *[liberté de mouvement](./Liberté de mouvement.md)* ; **Immunités** acide, effets mentaux, froid, poison ; **RD** 15/fer froid et Loi ; **Résistances** électricité 10, feu 10 ; **RM** 25 contre les sorts et les créatures de la Loi}
+{s:BDTexte|**Capacités défensives** [[esquive totale]], *[[déplacement]]*, *[[liberté de mouvement]]* ; **Immunités** acide, effets mentaux, froid, poison ; **RD** 15/fer froid et Loi ; **Résistances** électricité 10, feu 10 ; **RM** 25 contre les sorts et les créatures de la Loi}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 cases), escalade 12 m (8 cases), vol 18 m (12 {s:c}) (bonne)}
 {s:BDTexte|**Corps à corps** *3 dards*, +27 (1d6+8/19–20 plus diminution permanente de caractéristiques) et *5 tentacules*, +22 (1d6+4 plus 2d6 acide)}
 {s:BDTexte|**Espace**3 m (2 cases) ; **Allonge** 3 m (2 cases)}
 {s:BDTexte|**Attaques spéciales** apparence horrible (DD 27), dards brutaux}
 {s:BDTexte|**Pouvoirs magiques** (NLS 18, concentration +25)}
-{s:BDSorts|Constant — *[déplacement](./Déplacement.md)*, *[liberté de mouvement](./Liberté de mouvement.md)*, *[manteau du Chaos](./Manteau du Chaos.md)* (DD 25), *[vision lucide](./Vision lucide.md)*}
-{s:BDSorts|À volonté — *[dissipation suprême](./Dissipation suprême.md)*, *[porte dimensionnelle](./Porte dimensionnelle.md)*, *[télékinésie](./Télékinésie.md)* (DD 22)}
-{s:BDSorts|3/jour — *[parole du Chaos](./Parole du Chaos.md)* (DD 24), *[pétrification](./Pétrification.md)* (DD 23), *[porte dimensionnelle](./Porte dimensionnelle.md)* à incantation rapide}
-{s:BDSorts|1/jour — *[animation suspendue](./Animation suspendue.md)* (DD 25), *[guérison suprême](./Guérison suprême.md)* en incantation rapide}
+{s:BDSorts|Constant — *[[déplacement]]*, *[[liberté de mouvement]]*, *[[manteau du Chaos]]* (DD 25), *[[vision lucide]]*}
+{s:BDSorts|À volonté — *[[dissipation suprême]]*, *[[porte dimensionnelle]]*, *[[télékinésie]]* (DD 22)}
+{s:BDSorts|3/jour — *[[parole du Chaos]]* (DD 24), *[[pétrification]]* (DD 23), *[[porte dimensionnelle]]* à incantation rapide}
+{s:BDSorts|1/jour — *[[animation suspendue]]* (DD 25), *[[guérison suprême]]* en incantation rapide}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 34, **Con** 29, **Int** 24, **Sag** 27, **Cha** 25}
 {s:BDTexte|**BBA** +20, **BMO** +29 , **DMD** 55 (71 contre croc-en-jambe)}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Critique ralentissant](./Critique ralentissant.md), [Don pour les critiques](./Don pour les critiques.md), [Expertise du combat](./Expertise du combat.md), [Frappe décisive](./Frappe décisive.md), [Frappe décisive supérieure](./Frappe décisive supérieure.md), [Pouvoir magique rapide](./Pouvoir magique rapide.md) (porte dimensionnelle), [Réflexes surhumains](./Réflexes surhumains.md), [Science de la frappe décisive](./Science de la frappe décisive.md), [Science du critique](./Science du critique.md) (dard)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +35 (+39 pour sauter), [Art de la magie](./Art de la magie.md) +27, [Bluff](./Bluff.md) +30, [Connaissances](./Connaissances.md) (histoire) +30, [Connaissances](./Connaissances.md) (mystères) +27, [Connaissances](./Connaissances.md) (plans) +30, [Discrétion](./Discrétion.md) +31, [Escalade](./Escalade.md) +36, [Intimidation](./Intimidation.md) +27, [Perception](./Perception.md) +31, [Psychologie](./Psychologie.md) +31, [Utilisation d’objets magiques](./Utilisation dObjets Magiques.md) +30, [Vol](./Vol.md) +33}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Critique ralentissant]], [[Don pour les critiques]], [[Expertise du combat]], [[Frappe décisive]], [[Frappe décisive supérieure]], [[Pouvoir magique rapide]] (porte dimensionnelle), [[Réflexes surhumains]], [[Science de la frappe décisive]], [[Science du critique]] (dard)}
+{s:BDTexte|**Compétences** [[Acrobaties]] +35 (+39 pour sauter), [[Art de la magie]] +27, [[Bluff]] +30, [[Connaissances]] (histoire) +30, [[Connaissances]] (mystères) +27, [[Connaissances]] (plans) +30, [[Discrétion]] +31, [[Escalade]] +36, [[Intimidation]] +27, [[Perception]] +31, [[Psychologie]] +31, [[Utilisation dobjets magiques|Utilisation d’objets magiques]] +30, [[Vol]] +33}
 {s:BDTexte|**Langues** abyssal ; télépathie 30 m}
 {s:BDTexte|**Particularités** chasseur de démons}
 {s:BDSousTitre|Écologie}
@@ -48,7 +48,7 @@ Categories:
 {s:BDTexte|**Diminution permanente de caractéristiques (Sur).** Les dards d’un thulgant infligent des diminutions permanentes qui touchent des caractéristiques différentes. Pour l’un des dards, il s’agit de 1d4 points de Force ; pour le second, 1d4 points de Dextérité ; et, pour le troisième, de 1d4 points de Constitution. Un jet de Vigueur de DD 29 permet d’annuler la diminution permanente d’un dard. Le DD du jet de sauvegarde dépend de la Constitution.}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [qlippoths](./Qlippoth.md).***</li></ul>*Ce monstre possède dix pattes d’araignée, une tête garnie de tentacules humides qui se tortillent au-dessus d’un groupe d’yeux rouges et trois dards agiles.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Qlippoth|qlippoths]].***</li></ul>*Ce monstre possède dix pattes d’araignée, une tête garnie de tentacules humides qui se tortillent au-dessus d’un groupe d’yeux rouges et trois dards agiles.*
 
 Les terrifiants thulgants figurent parmi les qlippoths les plus
 dangereux, car ils possèdent un arsenal d’attaques physiques

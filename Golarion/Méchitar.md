@@ -8,10 +8,10 @@ Categories:
 - Ville
 ---
 
-La capitale du [Geb](./Geb.md) est située sur la côte est du pays, à l'embouchure de l'[Axanir](./Axanir.md).
+La capitale du [[Geb]] est située sur la côte est du pays, à l'embouchure de l'[[Axanir]].
 
 La plupart des constructions de la ville sont des pyramides qui servent d'habitations aux Seigneurs de Sang, les familles aristocrates les plus influentes du pays. La plus imposante d'entre elles, appelée le Cinérarium, s'élève à près de 150 mètres et sert de palais au mage nécromant Geb, dictateur du pays auquel il a donné son nom, et à sa Reine Catin.
 
-Le plus grand temple de la ville est dédié à [Urgathoa](./Urgathoa.md) et s'appelle la Cathédrale des Épiphénomènes. Elle est occupée à la fois par des prêtres vivants et par des prêtres morts-vivants.
+Le plus grand temple de la ville est dédié à [[Urgathoa]] et s'appelle la Cathédrale des Épiphénomènes. Elle est occupée à la fois par des prêtres vivants et par des prêtres morts-vivants.
 
-Le port de la ville est le principal lieu commercial du pays. Il accueille de nombreux navires issus de beaucoup de nations de [Golarion](./Golarion.md) et c'est par lui que les exportations de nourriture quittent le pays.
+Le port de la ville est le principal lieu commercial du pays. Il accueille de nombreux navires issus de beaucoup de nations de [[Golarion]] et c'est par lui que les exportations de nourriture quittent le pays.

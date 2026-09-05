@@ -14,13 +14,13 @@ Categories:
 {s:pucem|Créature artificielle|Ruines-donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 page 121*}
 - **1 200 PX**
-- [Créature artificielle](./type Créature artificielle.md) de taille M, N
+- [[type créature artificielle|Créature artificielle]] de taille M, N
 - **Init **-1 ; **Sens** vision dans le noir à 18 m, vision nocturne ; Perception +0
 (((Défense)))
 - **CA** 19, contact 9, pris au dépourvu 19 (Dex -1, naturelle +10)
 - **pv** 42 (4d10+20) ; réparation de fortune
 - **Réf **+0, **Vig **+1, **Vol **+1
-- **RD** 5/adamantium ; **Immunité** [traits des créatures artificielles](./Traits des créatures artificielles.md), magie
+- **RD** 5/adamantium ; **Immunité** [[traits des créatures artificielles]], magie
 (((Attaque)))
 - **VD** 9 m
 - **Corps à corps** 2 coups, +8 (1d6+4 plus maladie)
@@ -36,15 +36,15 @@ Categories:
 (((Pouvoirs spéciaux)))
 - **Effondrement corporel (Ext)**. Le golem de pacotille peut séparer ses composants de base les uns des autres par une action simple, se transformant en une énorme nuée d’éléments de taille TP. Il gagne ainsi le sous-type nuée, occupe un espace de 3 mètres et a une allonge de 0 mètre. Sous cette forme, il gagne une attaque de nuée qui inflige 1d6 points de dégâts et transmet une maladie mais il perd ses attaques de coup. Il peut reprendre sa forme normale par une action complexe. 
 - **Immunité à la magie (Ext)**. Le golem de pacotille est immunisé à tous les sorts et pouvoirs magiques autorisant une résistance à la magie. En outre, certains sorts et effets fonctionnent différemment contre lui, comme indiqué ci-dessous.
-  - Le sort de *[fracassement](./Fracassement.md)* provoque l’effondrement corporel du golem de pacotille et l’hébète pendant 1 round.
-  - Le sort de *[graisse](./Graisse.md)* l’affecte comme s’il était sous les effets de rapidité pendant 1d6 rounds et met fin à tout effet de lenteur auquel il pourrait être sujet.
-  - Les sorts de *[verrou](./Verrou.md)* ou de verrouillage affectent le golem de pacotille comme s’il était sous les effets d’un sort de lenteur pendant 1d6 rounds et met fin à tout effet de rapidité auquel il pourrait être sujet.
-  - Les sorts de *[façonnage du bois](./Façonnage du bois.md)* ou *[rouille](./Rouille.md)* infligent 2d6 points de dégâts au golem de pacotille.
+  - Le sort de *[[fracassement]]* provoque l’effondrement corporel du golem de pacotille et l’hébète pendant 1 round.
+  - Le sort de *[[graisse]]* l’affecte comme s’il était sous les effets de rapidité pendant 1d6 rounds et met fin à tout effet de lenteur auquel il pourrait être sujet.
+  - Les sorts de *[[verrou]]* ou de verrouillage affectent le golem de pacotille comme s’il était sous les effets d’un sort de lenteur pendant 1d6 rounds et met fin à tout effet de rapidité auquel il pourrait être sujet.
+  - Les sorts de *[[façonnage du bois]]* ou *[[rouille]]* infligent 2d6 points de dégâts au golem de pacotille.
 - **Maladie (Ext)**. Tétanos : coup — blessure ; JdS Vigueur DD 12 ; incubation 1d6 jours ; fréquence 1 journée ; effet affaiblissement temporaire d’1d4 points de Dex. Chaque fois que quelqu’un reçoit un affaiblissement de Dextérité à cause du tétanos, il y a 50% de chances pour que les muscles de sa mâchoire se raidissent, l’empêchant de parler et de lancer des sorts à composante verbale pendant 24 heures ; guérison 2 réussites consécutives. Le DD du jet de sauvegarde est basé sur la Constitution. 
 - **Réparation de fortune (Sur)**. Le golem de pacotille a une guérison accélérée 2 quand il se trouve dans une zone à grande concentration de débris, telle qu’une décharge, ou quand il se trouve dans la zone créée par le pouvoir d’effondrement corporel d’un autre golem de pacotille.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [golems](./Golem.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Golem|golems]].***</li></ul>
 *Amas de débris sur pattes, cette créature à la silhouette grossièrement humaine semble sur le point de tomber en morceaux.*
 
 Les golems de pacotille sont des assemblages de débris et de pièces détachées qui laissent souvent derrière eux un sillage de déchets.
@@ -54,5 +54,5 @@ Les golems de pacotille sont des assemblages de débris et de pièces détachée
 Le corps du golem de pacotille se compose de 125 kilogrammes d’assortiments de débris comptant 200 po de pièces détachées en métal et de câbles de cuivre.
 
 **NLS** 7 ; **Prix** 10 200 po{br}
-**Conditions** [Création de créatures artificielles](./Création de créatures artificielles.md), *[simulacre de vie](./Simulacre de vie.md), [mission](./Mission.md), [création mineure](./Création mineure.md), [rouille](./Rouille.md)*, créateur NLS 7 ; **Compétences** [Artisanat](./Artisanat.md) (sculpture) ; **Coût** 5 200 po.
+**Conditions** [[Création de créatures artificielles]], *[[simulacre de vie]], [[mission]], [[création mineure]], [[rouille]]*, créateur NLS 7 ; **Compétences** [[Artisanat]] (sculpture) ; **Coût** 5 200 po.
 </div></td></tr></table>

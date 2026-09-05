@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Ciel|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Créature magique (Air)](./type Créature magique.md) de taille G, LB}
-{s:BDTexte|**Init** +6 ; **Sens** [odorat](./odorat.md), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md), [détection du Mal](./Détection du Mal.md) ; [Perception](./Perception.md) +17}
+{s:BDTexte|[[type Créature magique|Créature magique (Air)]] de taille G, LB}
+{s:BDTexte|**Init** +6 ; **Sens** [[odorat]], [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]], [[détection du Mal]] ; [[Perception]] +17}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 20, contact 15, pris au dépourvu 14 (Dex +6, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 85 (9d10+36)}
@@ -25,21 +25,21 @@ Categories:
 {s:BDTexte|**VD** 18 m, vol 36 (bonne)}
 {s:BDTexte|**Corps à corps** bois, +14 (1d8+5) et 2 sabots, +8 (1d6+2)}
 {s:BDTexte|**Espace** 3 m ; **Allonge** 1,50 m}
-{s:BDTexte|**Attaques spéciales** [charge puissante](./Charge puissante.md) (bois, 2d8+14), souffle ([cône](./cône.md) de 4,50 m, 5d6 feu, Réflexes DD 18 1/2 dégâts, utilisable tous les 1d4 rounds)}
+{s:BDTexte|**Attaques spéciales** [[charge puissante]] (bois, 2d8+14), souffle ([[cône]] de 4,50 m, 5d6 feu, Réflexes DD 18 1/2 dégâts, utilisable tous les 1d4 rounds)}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9<sup>e</sup>, concentration +15)}
-{s:BDSorts|Constant — *[Détection du Mal](./Détection du Mal.md), [Marche sur l’onde](./Marche sur londe.md)*}
-{s:BDSorts|À volonté — *[Bourrasque](./Bourrasque.md)*, *[État gazeux](./État gazeux.md)*}
-{s:BDSorts|1/jour — *[Annulation d’enchantement](./Annulation denchantement.md)* (DD 17), *[Création de nourriture et d’eau](./Création de nourriture et deau.md)*, *[Création majeure](./Création majeure.md)*, *[Vent divin](./Vent divin.md)* (personnelle uniquement)}
+{s:BDSorts|Constant — *[[Détection du Mal]], [[Marche sur londe|Marche sur l’onde]]*}
+{s:BDSorts|À volonté — *[[Bourrasque]]*, *[[État gazeux]]*}
+{s:BDSorts|1/jour — *[[Annulation denchantement|Annulation d’enchantement]]* (DD 17), *[[Création de nourriture et deau|Création de nourriture et d’eau]]*, *[[Création majeure]]*, *[[Vent divin]]* (personnelle uniquement)}
 {s:BDSorts|**Sorts connus** (NLS 6 ; concentration +12)}
-{s:BDSorts|3e (4/jour) — *[Éclair](./Éclair.md)* (DD 19)}
-{s:BDSorts|2e (7/jour) — *[Rayon ardent](./Rayon ardent.md)*, *[Restauration partielle](./Restauration partielle.md)*}
-{s:BDSorts|1er (8/jour) — *[Couleurs dansantes](./Couleurs dansantes.md) (DD 17)*, *[Déguisement](./Déguisement.md)*, *[Sanctuaire](./Sanctuaire.md) (DD 17)*, *[Soins légers](./Soins légers.md)*, *[Regain d’assurance](./Regain dassurance.md)*}
-{s:BDSorts|0 (à volonté) — *[Assistance divine](./Assistance divine.md)*, *[Création d’eau](./Création deau.md)*, *[Détection de la magie](./Détection de la magie.md)*, *[Manipulation à distance](./Manipulation à distance.md)*, *[Réparation](./Réparation.md)*, *[Signature magique](./Signature magique.md)*, *[Stabilisation](./Stabilisation.md)*.}
+{s:BDSorts|3e (4/jour) — *[[Éclair]]* (DD 19)}
+{s:BDSorts|2e (7/jour) — *[[Rayon ardent]]*, *[[Restauration partielle]]*}
+{s:BDSorts|1er (8/jour) — *[[Couleurs dansantes]] (DD 17)*, *[[Déguisement]]*, *[[Sanctuaire]] (DD 17)*, *[[Soins légers]]*, *[[Regain dassurance|Regain d’assurance]]*}
+{s:BDSorts|0 (à volonté) — *[[Assistance divine]]*, *[[Création deau|Création d’eau]]*, *[[Détection de la magie]]*, *[[Manipulation à distance]]*, *[[Réparation]]*, *[[Signature magique]]*, *[[Stabilisation]]*.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 23, **Con** 18, **Int** 18, **Sag** 21, **Cha** 23}
-{s:BDTexte|**BBA** +9, **BMO** +15, **DMD** 31 (35 contre le [croc-en-jambe](./croc-en-jambe.md))}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (bois), [Attaque en vol](./Attaque en vol.md), [Magie de guerre](./Magie de guerre.md), [Dispense de composantes](./Dispense de composantes matérielles.md), [Volonté de fer](./Volonté de fer.md), [Vol stationnaire](./Vol stationnaire.md)}
-{s:BDTexte|**Compétences** [Perception](./Perception.md) +12, [Diplomatie](./Diplomatie.md) +15, [Connaissances](./Connaissances.md) (histoire) +13, [Perception](./Perception.md) +17, [Psychologie](./Psychologie.md) +14, [Représentation](./Représentation.md) (chant) +15, [Vol](./Vol.md) +20}
+{s:BDTexte|**BBA** +9, **BMO** +15, **DMD** 31 (35 contre le [[croc-en-jambe]])}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (bois), [[Attaque en vol]], [[Magie de guerre]], [[Dispense de composantes matérielles|Dispense de composantes]], [[Volonté de fer]], [[Vol stationnaire]]}
+{s:BDTexte|**Compétences** [[Perception]] +12, [[Diplomatie]] +15, [[Connaissances]] (histoire) +13, [[Perception]] +17, [[Psychologie]] +14, [[Représentation]] (chant) +15, [[Vol]] +20}
 {s:BDTexte|**Langues** abyssal, aérien, céleste, commun, draconique ; télépathie à 30 m}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous}

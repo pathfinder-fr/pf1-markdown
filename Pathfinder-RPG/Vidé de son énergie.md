@@ -7,4 +7,4 @@ Categories:
 RedirectTo: États préjudiciables#Vidédesonénergie
 ---
 
->>> [États préjudiciables#Vidédesonénergie](./États préjudiciables.md#Vidédesonénergie)
+>>> [[États préjudiciables#Vidédesonénergie]]

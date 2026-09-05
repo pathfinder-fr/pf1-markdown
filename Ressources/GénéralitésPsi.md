@@ -52,17 +52,17 @@ Les créations de tatouages psioniques et de cristaux condensateurs utilisent le
 {| CLASS="tablo"
 |+ Création d'objets psioniques
 |- CLASS="titre"
-| Objets psioniques || [Dons de création d'objets](./../Pathfinder-RPG/Dons.md#DONCREATION)
+| Objets psioniques || [[Pathfinder-RPG.Dons#DONCREATION|Dons de création d'objets]]
 |- CLASS="premier"
-| Armes et armures psioniques || [Création d’armes et armures magiques](./../Pathfinder-RPG/Création darmes et armures magiques.md)
+| Armes et armures psioniques || [[Pathfinder-RPG.Création darmes et armures magiques|Création d’armes et armures magiques]]
 |- CLASS="alt"
-| Couronnes psioniques || [Création de bâtons magiques](./../Pathfinder-RPG/Création de bâtons magiques.md)
+| Couronnes psioniques || [[Pathfinder-RPG.Création de bâtons magiques|Création de bâtons magiques]]
 |-
-| Dorjés || [Création de baguettes magiques](./../Pathfinder-RPG/Création de baguettes magiques.md)
+| Dorjés || [[Pathfinder-RPG.Création de baguettes magiques|Création de baguettes magiques]]
 |- CLASS="alt"
-| Gravure de pierres psioniques || [Écriture de parchemins magiques](./../Pathfinder-RPG/Écriture de parchemins.md)
+| Gravure de pierres psioniques || [[Pathfinder-RPG.Écriture de parchemins|Écriture de parchemins magiques]]
 |-
-| Objets universels || [Création d’objets magiques merveilleux](./../Pathfinder-RPG/Création dobjets merveilleux.md)
+| Objets universels || [[Pathfinder-RPG.Création dobjets merveilleux|Création d’objets magiques merveilleux]]
 |- CLASS="alt"
 |}
 </tr></table>

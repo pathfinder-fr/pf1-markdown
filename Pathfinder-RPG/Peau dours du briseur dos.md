@@ -11,11 +11,11 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Peau d’ours du briseur d’os|{s:ISG}{s:GeM}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 7 ; **Emplacement** [épaules](./Objets merveilleux portés sur les épaules.md) ; **Prix** 3 300 po ; **Poids** 5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 7 ; **Emplacement** [[Objets merveilleux portés sur les épaules|épaules]] ; **Prix** 3 300 po ; **Poids** 5 kg
 (((Description)))
-Cette grande peau d’ours est presque trop grande pour qu’un humain la porte avec aisance. Le personnage bénéficie d’un bonus de compétence de +2 aux tests d’[Intimidation](./Intimidation.md). Une fois par jour, il peut lancer *[bénédiction](./Bénédiction.md)* et ce faisant, les poils de la fourrure se hérisseront de façon menaçante.
+Cette grande peau d’ours est presque trop grande pour qu’un humain la porte avec aisance. Le personnage bénéficie d’un bonus de compétence de +2 aux tests d’[[Intimidation]]. Une fois par jour, il peut lancer *[[bénédiction]]* et ce faisant, les poils de la fourrure se hérisseront de façon menaçante.
 
-Si le personnage est un suivant d'Urazra, il peut utiliser *[forme bestiale II](./Forme bestiale II.md)* une fois par jour pour se transformer en un ours noir ou brun pendant une durée maximale de 7 minutes. Certains champions du dieu prétendent posséder des capes plus puissantes qui leur permettent d’adopter la forme d'ours polaires, voire d’ours sanguinaires.
+Si le personnage est un suivant d'Urazra, il peut utiliser *[[forme bestiale II]]* une fois par jour pour se transformer en un ours noir ou brun pendant une durée maximale de 7 minutes. Certains champions du dieu prétendent posséder des capes plus puissantes qui leur permettent d’adopter la forme d'ours polaires, voire d’ours sanguinaires.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[bénédiction](./Bénédiction.md)*, *[forme bestiale II](./Forme bestiale II.md)*, le créateur doit avoir 5 rangs en [Intimidation](./Intimidation.md) ; **Coût** 1 650 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[bénédiction]]*, *[[forme bestiale II]]*, le créateur doit avoir 5 rangs en [[Intimidation]] ; **Coût** 1 650 po
 </div>

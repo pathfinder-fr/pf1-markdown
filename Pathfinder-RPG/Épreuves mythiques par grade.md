@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Création Personnage Mythique#EPREUVEMYTHIQUEPARGRADE
 ---
 
->>> [Création Personnage Mythique#EPREUVEMYTHIQUEPARGRADE](./Création Personnage Mythique.md#EPREUVEMYTHIQUEPARGRADE)
+>>> [[Création Personnage Mythique#EPREUVEMYTHIQUEPARGRADE]]

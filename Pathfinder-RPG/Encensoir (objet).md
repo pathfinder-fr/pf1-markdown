@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 50 po ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Lorsqu'il est rempli de charbon et d'herbes de base d'une valeur de 2 pa, ce brasero miniature remplit une zone de 9 mètres de diamètre d'une légère fumée pendant 1 heure. Toutes les créatures dans la zone enfumée gagnent un bonus de circonstances de +2 à leurs jets de [Vigueur](./Vigueur.md) pour résister aux maladies inhalées.
+Lorsqu'il est rempli de charbon et d'herbes de base d'une valeur de 2 pa, ce brasero miniature remplit une zone de 9 mètres de diamètre d'une légère fumée pendant 1 heure. Toutes les créatures dans la zone enfumée gagnent un bonus de circonstances de +2 à leurs jets de [[Vigueur]] pour résister aux maladies inhalées.

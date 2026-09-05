@@ -11,18 +11,18 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) <nowiki>[</nowiki>[Bien](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Inq](./Inquisiteur.md) 1, [Pal](./Paladin.md) 1, [Prê](./Prêtre.md) 1  
+**École** [[Transmutation]] <nowiki>[</nowiki>[[registre|Bien]]<nowiki>]</nowiki> ; **Niveau** [[inquisiteur|Inq]] 1, [[paladin|Pal]] 1, [[prêtre|Prê]] 1  
 
 **Temps d'incantation** 1 minute  
 
-**Composantes** [V, G, M](./composantes.md) (2,5 kg de poudre d’argent (valeur 25 po))  
+**Composantes** [[composantes|V, G, M]] (2,5 kg de poudre d’argent (valeur 25 po))  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[présentation des sorts#PORTEE|contact]]  
 
 **Cible** flasque d’eau touchée  
 
-**Durée** [instantanée](./instantanée.md)  
+**Durée** [[instantanée]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (objet) ; **Résistance à la magie** oui (objet)
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] (objet) ; **Résistance à la magie** oui (objet)
 
-Ce sort imprègne une flasque d’eau (1/2 litre) d’énergie positive, la transformant ainsi en [eau bénite](./Eau bénite (objet).md).
+Ce sort imprègne une flasque d’eau (1/2 litre) d’énergie positive, la transformant ainsi en [[Eau bénite (objet)|eau bénite]].

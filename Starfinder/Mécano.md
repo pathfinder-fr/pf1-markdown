@@ -7,9 +7,9 @@ LastModified: 2024-07-04 14:53
 ''Vous êtes un maître des machines, que cela soit des superordinateurs ultramodernes ou de simples générateurs magnétiques. En comprenant comment marchent ces appareils, vous percevez mieux le monde autour de vous, ce qui vous permet de tirer le meilleur profit de vos équipements, de contourner les protections renforcées et même de prendre le contrôle des systèmes à distance. Vos compétences de programmation vous donnent la possibilité de vous fabriquer un puissant allié, soit une intelligence artificielle intégrée, soit un drone, qui peut vous assister dans différents domaines.
 Si un appareil ou un ordinateur a besoin d’être réparé, piraté ou détruit, c’est à vous qu’on fait appel. Que vous soyez un talentueux scientifique, un ingénieur spécialisé dans les vaisseaux spatiaux ou un technicien de terrain, le combat ne vous est pas étranger mais vous considérez qu’il est beaucoup plus raisonnable que votre IA ou que votre drone combatte à votre place.''
 
-<div class="fright">***Voir aussi les [Astuces de mécano|astuces de mécano].***  
+<div class="fright">***Voir aussi les [[Astuces de mécano]].***  
 
-***Voir aussi les [les drones](./Les drones.md) et [l'Exocortex](./Les Exocortex.md).***  
+***Voir aussi les [[Les Drones]] et [[Les Exocortex|l'Exocortex]].***  
 
 </ul></div>
   
@@ -31,140 +31,140 @@ Si un appareil ou un ordinateur a besoin d’être réparé, piraté ou détruit
 | +2
 | +2
 | +0
-| CLASS="gauche" | [Intelligence artificielle](./Mécano.md#INTELLIGENCEARTIFICIELLE), [Intrusion](./Mécano.md#INTRUSION) +1, [Interface personnalisée](./Mécano.md#INTERFACEPERSONNALISÉE)
+| CLASS="gauche" | [[Mécano#INTELLIGENCEARTIFICIELLE|Intelligence artificielle]], [[Mécano#INTRUSION|Intrusion]] +1, [[Mécano#INTERFACEPERSONNALISÉE|Interface personnalisée]]
 |- CLASS="alt"
 | 2
 | +1
 | +3
 | +3
 | +0
-| CLASS="gauche" | [Astuce de mécano](./Mécano.md#ASTUCEDEMÉCANO)
+| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
 |-
 | 3
 | +2
 | +3
 | +3
 | +1
-| CLASS="gauche" | [Surcharge](./Mécano.md#SURCHARGE), [Spécialisation martiale](./Mécano.md#SPECIALISATIONMARTIALE)
+| CLASS="gauche" | [[Mécano#SURCHARGE|Surcharge]], [[Mécano#SPECIALISATIONMARTIALE|Spécialisation martiale]]
 |- CLASS="alt"
 | 4
 | +3
 | +4
 | +4
 | +1
-| CLASS="gauche" | [Astuce de mécano](./Mécano.md#ASTUCEDEMÉCANO)
+| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
 |-
 | 5
 | +3
 | +4
 | +4
 | +1
-| CLASS="gauche" | [Intrusion](./Mécano.md#INTRUSION) +2, [Piratage à distance](./Mécano.md#PIRATAGEÀDISTANCE)
+| CLASS="gauche" | [[Mécano#INTRUSION|Intrusion]] +2, [[Mécano#PIRATAGEÀDISTANCE|Piratage à distance]]
 |- CLASS="alt"
 | 6
 | +4
 | +5
 | +5
 | +2
-| CLASS="gauche" | [Astuce de mécano](./Mécano.md#ASTUCEDEMÉCANO)
+| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
 |-
 | 7
 | +5
 | +5
 | +5
 | +2
-| CLASS="gauche" | [Interface spécialisée](./Mécano.md#INTERFACESPÉCIALISÉE), [Prodige](./Mécano.md#PRODIGE) 1/jour
+| CLASS="gauche" | [[Mécano#INTERFACESPÉCIALISÉE|Interface spécialisée]], [[Mécano#PRODIGE|Prodige]] 1/jour
 |- CLASS="alt"
 | 8
 | +6
 | +6
 | +6
 | +2
-| CLASS="gauche" | [Astuce de mécano](./Mécano.md#ASTUCEDEMÉCANO)
+| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
 |-
 | 9
 | +6
 | +6
 | +6
 | +3
-| CLASS="gauche" | [Intrusion](./Mécano.md#INTRUSION) +3, [Forçage](./Mécano.md#FORÇAGE)
+| CLASS="gauche" | [[Mécano#INTRUSION|Intrusion]] +3, [[Mécano#FORÇAGE|Forçage]]
 |- CLASS="alt"
 | 10
 | +7
 | +7
 | +7
 | +3
-| CLASS="gauche" | [Astuce de mécano](./Mécano.md#ASTUCEDEMÉCANO)
+| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
 |-
 | 11
 | +8
 | +7
 | +7
 | +3
-| CLASS="gauche" | [Assaut coordonné](./Mécano.md#ASSAUTCOORDONÉ) +1, [Prodige](./Mécano.md#PRODIGE) 2/jour
+| CLASS="gauche" | [[Mécano#ASSAUTCOORDONÉ|Assaut coordonné]] +1, [[Mécano#PRODIGE|Prodige]] 2/jour
 |- CLASS="alt"
 | 12
 | +9
 | +8
 | +8
 | +4
-| CLASS="gauche" | [Astuce de mécano](./Mécano.md#ASTUCEDEMÉCANO)
+| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
 |-
 | 13
 | +9
 | +8
 | +8
 | +4
-| CLASS="gauche" | [Interface évoluée](./Mécano.md#INTERFACEÉVOLUÉE), [Intrusion](./Mécano.md#INTRUSION) +4
+| CLASS="gauche" | [[Mécano#INTERFACEÉVOLUÉE|Interface évoluée]], [[Mécano#INTRUSION|Intrusion]] +4
 |- CLASS="alt"
 | 14
 | +10
 | +9
 | +9
 | +4
-| CLASS="gauche" | [Astuce de mécano](./Mécano.md#ASTUCEDEMÉCANO)
+| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
 |-
 | 15
 | +11
 | +9
 | +9
 | +5
-| CLASS="gauche" | [Prodige](./Mécano.md#PRODIGE) 3/jour
+| CLASS="gauche" | [[Mécano#PRODIGE|Prodige]] 3/jour
 |- CLASS="alt"
 | 16
 | +12
 | +10
 | +10
 | +5
-| CLASS="gauche" | [Astuce de mécano](./Mécano.md#ASTUCEDEMÉCANO)
+| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
 |-
 | 17
 | +12
 | +10
 | +10
 | +5
-| CLASS="gauche" | [Intrusion](./Mécano.md#INTRUSION) +5, [Réseau de contrôle](./Mécano.md#RÉSEAUDECONTRÔLE), [Assaut coordonné](./Mécano.md#ASSAUTCOORDONÉ) +2
+| CLASS="gauche" | [[Mécano#INTRUSION|Intrusion]] +5, [[Mécano#RÉSEAUDECONTRÔLE|Réseau de contrôle]], [[Mécano#ASSAUTCOORDONÉ|Assaut coordonné]] +2
 |- CLASS="alt"
 | 18
 | +13
 | +11
 | +11
 | +6
-| CLASS="gauche" | [Astuce de mécano](./Mécano.md#ASTUCEDEMÉCANO)
+| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
 |-
 | 19
 | +14
 | +11
 | +11
 | +6
-| CLASS="gauche" | [Fantôme dans la machine](./Mécano.md#FANTÔMEDANSLAMACHINE), [Prodige](./Mécano.md#PRODIGE) 4/jour, [Interface supérieure](./Mécano.md#INTERFACESUPÉRIEURE)
+| CLASS="gauche" | [[Mécano#FANTÔMEDANSLAMACHINE|Fantôme dans la machine]], [[Mécano#PRODIGE|Prodige]] 4/jour, [[Mécano#INTERFACESUPÉRIEURE|Interface supérieure]]
 |- CLASS="alt"
 | 20
 | +15
 | +12
 | +12
 | +6
-| CLASS="gauche" | [Intrusion](./Mécano.md#INTRUSION) +6, [Astuce de mécano](./Mécano.md#ASTUCEDEMÉCANO), [Maître technicien](./Mécano.md#MAÎTRETECHNITIEN)
+| CLASS="gauche" | [[Mécano#INTRUSION|Intrusion]] +6, [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]], [[Mécano#MAÎTRETECHNITIEN|Maître technicien]]
 |}
 </center>
 
@@ -196,11 +196,11 @@ Les aptitudes du Mécano sont décrites ci-dessous.
 Vous confectionnez une intelligence artificielle (ou IA), un programme perfectionné aux codes autonomes auquel vous pouvez accéder pour vous aider dans différentes tâches. Cette IA est le produit de votre propre génie, bien plus évoluée et complexe que celles que l’on trouve sur le marché (bien qu’il ne s’agisse pas d’une entité pleinement consciente) et seul vous connaissez les secrets de sa création et de son fonctionnement. Votre IA peut prendre une des deux formes
 suivantes : un drone ou un exocortex. Vous devez choisir une de ces formes dès votre premier niveau de mécano et une fois que ce choix est fait, il est irrévocable.
 
-- [Les drones|Drone]
+- [[Les drones|Drone]]
 Vous commencez le jeu avec un puissant drone robotique qui abrite votre IA. Vous construisez et contrôlez le drone qui vous accompagne au cours de vos aventures et qui est capable de combattre, d’espionner ou d’effectuer d’autres tâches spécialisées. En gagnant des niveaux, votre drone devient plus sophistiqué et obtient de nouveaux pouvoirs.
 Bien que votre drone ait une immense valeur, vous êtes le seul qui ait les connaissances suffisantes de ses particularités et des mesures de sécurité qui le protègent pour pouvoir vous en servir ou pour le réparer.
 
-- [Les Exocortex|Exocortex]
+- [[Les Exocortex|Exocortex]]
 Vous commencez le jeu avec un exocortex, un processeur artificiel qui interagit avec les fonctions cognitives de votre cerveau biologique et les amplifie. Ceci vous aide dans différents domaines, allant du combat à l’infiltration numérique. À l’instar d’un implant cybernétique, votre exocortex est implanté dans votre corps ou dans votre cerveau, ce qui permet à votre IA d’avoir accès à votre esprit et de vous transmettre des informations. En gagnant des niveaux, votre exocortex
 devient plus sophistiqué et gagne en puissance de calcul. Vous êtes le seul à pouvoir accéder et interagir avec votre exocortex.
 
@@ -216,8 +216,8 @@ Vous êtes doué pour vous infiltrer dans les systèmes informatiques et électr
 #### {s:Reference|ASTUCEDEMÉCANO}Astuce de mécano - Niveau 2
 En gagnant de l’expérience, vous apprenez des astuces qui vous permettent d’accomplir des merveilles d’ingénierie, de vous aider à pénétrer les systèmes électroniques et à optimiser vos équipements.
 Bien que certaines de ces astuces soient des choses que vous apprenez, d’autres sont des petites améliorations cybernétiques que vous vous fabriquez (aucune n’a un coût ou ne compte pour votre limite d’augmentations). Certaines astuces nécessitent l’utilisation d’une interface personnalisée ou d’autres outils.
-Vous apprenez votre première [astuce de mécano](./astuces de mécano.md) au niveau 2 et vous en apprenez une de plus au niveau 4 puis tous les 2 niveaux
-suivants. Si une [astuce de mécano](./astuces de mécano.md) autorise un jet de sauvegarde pour qu’un adversaire résiste à ses effets, le DD est égal à 10 + la moitié de votre niveau de mécano + votre modificateur d’Intelligence. Si une [astuce de mécano](./astuces de mécano.md) nécessite que votre adversaire effectue un test de compétence, le DD est égal à 10 + 1,5 × votre niveau de classe + votre modificateur d’Intelligence.
+Vous apprenez votre première [[Astuces de mécano|astuce de mécano]] au niveau 2 et vous en apprenez une de plus au niveau 4 puis tous les 2 niveaux
+suivants. Si une [[Astuces de mécano|astuce de mécano]] autorise un jet de sauvegarde pour qu’un adversaire résiste à ses effets, le DD est égal à 10 + la moitié de votre niveau de mécano + votre modificateur d’Intelligence. Si une [[Astuces de mécano|astuce de mécano]] nécessite que votre adversaire effectue un test de compétence, le DD est égal à 10 + 1,5 × votre niveau de classe + votre modificateur d’Intelligence.
 
 À moins que le contraire ne soit précisé, vous ne pouvez apprendre la même astuce plus d’une fois.
 
@@ -282,8 +282,8 @@ Vous pouvez également utiliser votre interface personnalisée pour communiquer 
 |}
 </center>
 </div></div>
-Vous êtes capable d’utiliser plusieurs IA, une dans un [Les drones|drone] et une dans un [Les Exocortex|exocortex]. Vous devez répartir vos niveaux de mécano entre ces différentes IA et chacune d’elles gagne des capacités en fonction du niveau assigné. À chaque fois que vous gagnez un niveau de mécano, vous pouvez modifier la répartition des niveaux entre les IA en utilisant votre interface personnalisée et en y travaillant sans interruption pendant 24 heures. Bien que les IA puissent agir de manière autonome, dans la limite de leurs possibilités, vous pouvez les contrôler normalement (bien que vous ne puissiez contrôler directement
-qu’une seule IA à la fois). Si le niveau assigné à votre exocortex est inférieur à votre niveau de mécano, le bonus de base à l’attaque en utilisant verrouillage de cible (voir page 87) accordé par votre exocortex est réduit comme cela est indiqué dans le tableau ci-dessous. Comme d’habitude, vous gagnez de nouveaux pouvoirs pour votre [Les Exocortex|exocortex], telles que piratage sans fil et multitâches, en vous basant sur le niveau que vous lui avez assigné.
+Vous êtes capable d’utiliser plusieurs IA, une dans un [[Les drones|drone]] et une dans un [[Les Exocortex|exocortex]]. Vous devez répartir vos niveaux de mécano entre ces différentes IA et chacune d’elles gagne des capacités en fonction du niveau assigné. À chaque fois que vous gagnez un niveau de mécano, vous pouvez modifier la répartition des niveaux entre les IA en utilisant votre interface personnalisée et en y travaillant sans interruption pendant 24 heures. Bien que les IA puissent agir de manière autonome, dans la limite de leurs possibilités, vous pouvez les contrôler normalement (bien que vous ne puissiez contrôler directement
+qu’une seule IA à la fois). Si le niveau assigné à votre exocortex est inférieur à votre niveau de mécano, le bonus de base à l’attaque en utilisant verrouillage de cible (voir page 87) accordé par votre exocortex est réduit comme cela est indiqué dans le tableau ci-dessous. Comme d’habitude, vous gagnez de nouveaux pouvoirs pour votre [[Les Exocortex|exocortex]], telles que piratage sans fil et multitâches, en vous basant sur le niveau que vous lui avez assigné.
 
 
 #### {s:Reference|FANTÔMEDANSLAMACHINE}Fantôme dans la machine (EXT) Niveau 19

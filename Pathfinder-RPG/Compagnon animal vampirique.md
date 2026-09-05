@@ -8,11 +8,11 @@ Source : Manuel des PNJ, p.438
 
 *En tant que vampire, le personnage peut utiliser sa capacité création de rejetons pour transformer une chauve-souris sanguinaire, un rat sanguinaire ou un loup en compagnon vampirique plus puissant.*
 
-**Conditions.** [Vampire](./Vampire, archétype.md), [Charisme](./Cha.md) 18, aptitude de classe de compagnon animal, niveau suffisant (cf. ci-dessous).
+**Conditions.** [[Vampire, archétype|Vampire]], [[Cha|Charisme]] 18, aptitude de classe de compagnon animal, niveau suffisant (cf. ci-dessous).
 
 **Avantages.** Un vampire ayant ce don peut décider d’utiliser sa capacité création de rejetons sur un animal invoqué au moyen de la capacité enfant de la nuit (une chauve-souris sanguinaire, un rat sanguinaire ou un loup) afin de créer un compagnon animal vampirique.
 
-Cette décision doit être prise par une [action libre](./Action libre.md) au moment où le vampire tue l’animal avec sa capacité absorption de sang ou absorption d’énergie. L’animal se relève d’entre les morts en 1d4 jours sous forme de compagnon animal vampirique lié au vampire qui l’a engendré. Ensuite, l’animal vampirique progresse dans ses capacités comme un compagnon animal normal, à mesure que le vampire gagne des niveaux dans la classe qui lui a accordé le compagnon animal.
+Cette décision doit être prise par une [[action libre]] au moment où le vampire tue l’animal avec sa capacité absorption de sang ou absorption d’énergie. L’animal se relève d’entre les morts en 1d4 jours sous forme de compagnon animal vampirique lié au vampire qui l’a engendré. Ensuite, l’animal vampirique progresse dans ses capacités comme un compagnon animal normal, à mesure que le vampire gagne des niveaux dans la classe qui lui a accordé le compagnon animal.
 
 Pour transformer un rat sanguinaire en compagnon vampirique, le niveau de druide réel du vampire doit être de 4. Pour transformer un loup en compagnon vampirique, le niveau de druide réel du vampire doit être de 6. Pour transformer une chauve-souris sanguinaire, le niveau de druide réel du vampire doit être de 9. Si vous le souhaitez, d’autres animaux peuvent être ajoutés à cette liste : servez-vous de ces exemples pour définir les niveaux minimums.
 

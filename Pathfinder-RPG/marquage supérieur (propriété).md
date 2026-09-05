@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Marquage supérieur
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Marquage supérieur](./Descriptions individuelles des propriétés spéciales des armes.md#Marquage supérieur)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Marquage supérieur]]

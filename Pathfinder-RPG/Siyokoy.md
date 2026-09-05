@@ -14,31 +14,31 @@ Categories:
 {s:pucem|Aberration|Aquatique|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.241}
 {s:BDTexte|**PX** 9 600}
-{s:BDTexte|[Aberration](./type Aberration.md) ([aquatique](./sous-type aquatique.md)) de taille M, N}
-{s:BDTexte|**Init** +5 ; **Sens** [odorat](./odorat.md), [vision aveugle](./vision aveugle.md) 18 m, [vision dans le noir](./vision dans le noir.md) 18 m ; [Perception](./Perception.md) +22}
+{s:BDTexte|[[type Aberration|Aberration]] ([[sous-type aquatique|aquatique]]) de taille M, N}
+{s:BDTexte|**Init** +5 ; **Sens** [[odorat]], [[vision aveugle]] 18 m, [[vision dans le noir]] 18 m ; [[Perception]] +22}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, **contact** 16, **pris au dépourvu** 20 (Dex +5, esquive +1, naturelle +10)}
 {s:BDTexte|**pv** 136 (13d8+78)}
 {s:BDTexte|**Réf** +9, **Vig** +10, **Vol** +10 ; **RD** 10/tranchant}
-{s:BDTexte|**Immunités** froid, électricité, poison ; **Faiblesse** [sensibilité à la lumière](./Sensibilité à la lumière.md)}
+{s:BDTexte|**Immunités** froid, électricité, poison ; **Faiblesse** [[sensibilité à la lumière]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 9 m (6 {s:c}), nage 18 m (12 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +18 (1d6+9/19-20 plus étreinte) et coup de queue, +14 (1d6+4 plus décharge étourdissante)}
 {s:BDTexte|**Espace** 1,5 m (1 {s:c}) ; **Allonge** 3 m (2 {s:c}) (avec coup de queue)}
-{s:BDTexte|**Attaques spéciales** [constriction](./constriction.md) (2d6+4), décharge étourdissante, attaque en nageant}
+{s:BDTexte|**Attaques spéciales** [[constriction]] (2d6+4), décharge étourdissante, attaque en nageant}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 28, **Dex** 21, **Con** 22, **Int** 12, **Sag** 15, **Cha** 11}
-{s:BDTexte|**BBA** +9, **BMO** +18 (+24 pour la lutte), **DMD** 34 (36 contre la [lutte](./lutte.md)}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (coup de queue), [Attaque en puissance](./Attaque en puissance.md), [Discret](./Discret.md), [Esquive](./Esquive.md), [Science de la lutte](./Science de la lutte.md), [Science du critique](./Science du critique.md) (morsure), [Vigilance](./Vigilance.md)}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (géographie) +10, [Discrétion](./Discrétion.md) +25, [Évasion](./Évasion.md) +7, [Intimidation](./Intimidation.md) +9, [Natation](./Natation.md) +25, [Perception](./Perception.md) +22, [Psychologie](./Psychologie.md) +4, [Sabotage](./Sabotage.md) +16, [Survie](./Survie.md) +16}
+{s:BDTexte|**BBA** +9, **BMO** +18 (+24 pour la lutte), **DMD** 34 (36 contre la [[lutte]]}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (coup de queue), [[Attaque en puissance]], [[Discret]], [[Esquive]], [[Science de la lutte]], [[Science du critique]] (morsure), [[Vigilance]]}
+{s:BDTexte|**Compétences** [[Connaissances]] (géographie) +10, [[Discrétion]] +25, [[Évasion]] +7, [[Intimidation]] +9, [[Natation]] +25, [[Perception]] +22, [[Psychologie]] +4, [[Sabotage]] +16, [[Survie]] +16}
 {s:BDTexte|**Langues** aquatique}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** océans}
 {s:BDTexte|**Organisation sociale** solitaire, couple ou lit (3-12)}
 {s:BDTexte|**Trésor** double}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Attaque en nageant (Ext).** Extrêmement rapide dans l’eau, le siyokoy gagne le don supplémentaire [Attaque éclair](./Attaque éclair.md) lorsqu’il nage.}
-{s:BDTexte|**Décharge étourdissante (Sur).** Le siyokoy peut envoyer une puissante décharge électrique de sa queue. Lorsqu’il touche une créature avec un coup de queue, l’attaque inflige 3d6 points de dégâts d’électricité et la cible doit réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 22 ou être [étourdie](./Étourdi.md) pendant 1d4 rounds. Le jet de sauvegarde est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Attaque en nageant (Ext).** Extrêmement rapide dans l’eau, le siyokoy gagne le don supplémentaire [[Attaque éclair]] lorsqu’il nage.}
+{s:BDTexte|**Décharge étourdissante (Sur).** Le siyokoy peut envoyer une puissante décharge électrique de sa queue. Lorsqu’il touche une créature avec un coup de queue, l’attaque inflige 3d6 points de dégâts d’électricité et la cible doit réussir un jet de [[Vigueur]] [[DD]] 22 ou être [[étourdi|étourdie]] pendant 1d4 rounds. Le jet de sauvegarde est basé sur la [[Constitution]].}
 </div>
 </td><td><div>*Cette créature semblable à une anguille a un torse d’humanoïde dont le dos est couvert de nageoires tranchantes jusqu’à sa longue queue puissante.*
 

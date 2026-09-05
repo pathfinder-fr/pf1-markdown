@@ -9,8 +9,8 @@ Categories:
 
 {s:MR}*Le drow a terminé son ascension ; sa résistance à la magie approche celle des démons.*
 
-**Conditions requises.** : [Noblesse drow supérieure](./Noblesse drow supérieure.md), [niveau](./niveau.md) 13
+**Conditions requises.** : [[Noblesse drow supérieure]], [[niveau]] 13
 
 **Avantage.** La résistance à la magie du drow est égale à 11 + son niveau.
 
-**Spécial.** Le drow reçoit un bonus de circonstances de +1 à ses tests de [Diplomatie](./Diplomatie.md) et d’[Intimidation](./Intimidation.md) contre tous les drows.
+**Spécial.** Le drow reçoit un bonus de circonstances de +1 à ses tests de [[Diplomatie]] et d’[[Intimidation]] contre tous les drows.

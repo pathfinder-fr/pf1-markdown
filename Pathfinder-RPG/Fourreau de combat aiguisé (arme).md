@@ -9,6 +9,6 @@ Categories:
 
 {s:cs}{s:AA}**Prix** 10 po ; **Poids** 0,5 kg ; **Groupes** —
 **Dégâts** 1d4 (P), 1d6 (M) ; **Critique** ×2 ; **Portée** — ; **Type** T ; **Spécial** voir texte
-<span class="Catégorie">**Catégorie** [Armes de guerre](./Tableau récapitulatif des armes.md#TABGUERRE) ; **Maniement** [arme de corps à corps à une main](./arme à une main.md)</span>
+<span class="Catégorie">**Catégorie** [[Tableau récapitulatif des armes#TABGUERRE|Armes de guerre]] ; **Maniement** [[arme à une main|arme de corps à corps à une main]]</span>
 ---
-Ce [fourreau de combat](./Fourreau de combat (arme).md) a une lame tranchante sur le bord extérieur, permettant au personnage de l'utiliser comme une arme classique.
+Ce [[fourreau de combat (arme)|fourreau de combat]] a une lame tranchante sur le bord extérieur, permettant au personnage de l'utiliser comme une arme classique.

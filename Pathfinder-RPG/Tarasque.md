@@ -13,9 +13,9 @@ Categories:
 {s:pucem|Créature magique|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.269}
 {s:BDTexte|**PX** 1.638.400}
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille C, N}
-{s:BDTexte|**Init** +7 ; **Sens** [odorat](./odorat.md), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +43}
-{s:BDTexte|**Aura** [présence terrifiante](./Présence terrifiante (capacité).md) 90 m (60 {s:c}, DD 27)}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille C, N}
+{s:BDTexte|**Init** +7 ; **Sens** [[odorat]], [[vision nocturne]] ; [[Perception]] +43}
+{s:BDTexte|**Aura** [[présence terrifiante (capacité)|présence terrifiante]] 90 m (60 {s:c}, DD 27)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 40, contact 5, pris au dépourvu 37 (Dex +3, naturelle +35, taille -8)}
 {s:BDTexte|**pv** 525 (30d10+360) ; régénération 40}
@@ -23,15 +23,15 @@ Categories:
 {s:BDTexte|**Immunités** absorption d'énergie, acide, affaiblissement temporaire de caractéristiques, blessures permanentes, effets mentaux, feu, maladie, métamorphose, paralysie, pétrification, poison, saignement ; **RD** 15/épique ; **RM** 36 }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (8 {s:c})}
-{s:BDTexte|**Corps à corps** morsure +37 (4d8+15/15-20/x3 et [étreinte](./Étreinte.md)), 2 griffes +37 (1d12+15), 2 cornes +37 (1d10+15), coup de queue +32 (3d8+7)}
+{s:BDTexte|**Corps à corps** morsure +37 (4d8+15/15-20/x3 et [[étreinte]]), 2 griffes +37 (1d12+15), 2 cornes +37 (1d10+15), coup de queue +32 (3d8+7)}
 {s:BDTexte|**Distance** 6 épines +25 (2d10+15/x3)}
 {s:BDTexte|**Espace** 9 m (6 {s:c}) ; **Allonge** 9 m (6 {s:c}) ; 18 m (12 {s:c}) pour le coup de queue}
-{s:BDTexte|**Attaques spéciales** [engloutissement](./Engloutissement.md) (6d6+22 et 6d6 acide, CA 27, pv 52), épines, pointe de vitesse}
+{s:BDTexte|**Attaques spéciales** [[engloutissement]] (6d6+22 et 6d6 acide, CA 27, pv 52), épines, pointe de vitesse}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 41, **Dex** 16, **Con** 34, **Int** 3, **Sag** 15, **Cha** 14}
 {s:BDTexte|**BBA** +30, **BMO** +53 (+57 pour la lutte), **DMD** 66}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md), [Combat en aveugle](./Combat en aveugle.md), [Coup fabuleux](./Coup fabuleux.md), [Course](./Course.md), [Critique ralentissant](./Critique ralentissant.md), [Critique sanglant](./Critique sanglant.md), [Don pour les critiques](./Don pour les critiques.md), [Enchaînement](./Enchaînement.md), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l'initiative](./Science de linitiative.md), [Science de la bousculade](./Science de la bousculade.md), [Science du critique](./Science du critique.md) (morsure), [Succession d'enchaînements](./Succession denchaînements.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +3 (+43 pour le saut), [Perception](./Perception.md) +43 ; **Modificateurs raciaux** [Perception](./Perception.md) +8}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques réflexes]], [[Combat en aveugle]], [[Coup fabuleux]], [[Course]], [[Critique ralentissant]], [[Critique sanglant]], [[Don pour les critiques]], [[Enchaînement]], [[Réflexes surhumains]], [[Science de linitiative|Science de l'initiative]], [[Science de la bousculade]], [[Science du critique]] (morsure), [[Succession denchaînements|Succession d'enchaînements]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +3 (+43 pour le saut), [[Perception]] +43 ; **Modificateurs raciaux** [[Perception]] +8}
 {s:BDTexte|**Langues** aklo (ne sait pas parler)}
 {s:BDTexte|**Particularités** bonds puissants, carapace}
 {s:BDSousTitre|Écologie}
@@ -39,11 +39,11 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Bonds Puissants (Ext)** Lors de tests d'[Acrobaties](./Acrobaties.md) visant à sauter, la tarasque applique son modificateur de [Force](./Force.md) et bénéficie d'un bonus racial de +24.}
-{s:BDTexte|**Carapace (Sur)** Les écailles de la tarasque dévient les sorts qui prennent la forme de cônes, de lignes ou de rayons ainsi que les *[projectiles magiques](./Projectile magique.md)*, ce qui, dans les faits l'immunise contre ces effets. Chaque effet dévié a 30% de chances d'être renvoyé (avec son plein potentiel) vers celui qui l'a lancé. Sinon, l'effet est simplement annulé.}
-{s:BDTexte|**Epines (Ext)** Par une [action simple](./Action simple.md), la tarasque peut projeter une salve de six épines jaillissant de son corps en remuant la tête ou en agitant la queue. Il faut effectuer un [jet d'attaque](./jet dattaque.md) pour chacune des épines et toutes les cibles doivent se trouver à 9 m (6 {s:c}) les unes des autres. Les épines ont un [facteur de portée](./facteur de portée.md) de 36 m (24 {s:c}).}
-{s:BDTexte|**Pointe de vitesse (Ext)** Une fois par minute, la tarasque peut se déplacer à une vitesse de 45 m (30 {s:c}) pendant 1 round. Cette pointe de vitesse fait passer son bonus d'[Acrobaties](./Acrobaties.md) pour les tests de saut à +87.}
-{s:BDTexte|**Régénération (Ext)** Il n'existe aucune forme d'attaque qui puisse interrompre la [régénération](./Régénération.md) de la tarasque. Elle régénère même après avoir été désintégrée ou tuée par un effet de mort. Si la tarasque rate un [jet de sauvegarde](./jet de sauvegarde.md) contre un effet qui la tue instantanément, elle se relève 3 rounds plus tard avec 1 [point de vie](./pv.md) (à condition qu'on n'inflige pas de dégâts sur sa dépouille entre temps). Il est possible de la bannir ou de la transporter ailleurs pour sauver une région mais on n'a pas découvert de méthode permettant de la tuer une fois pour toutes.}
+{s:BDTexte|**Bonds Puissants (Ext)** Lors de tests d'[[Acrobaties]] visant à sauter, la tarasque applique son modificateur de [[Force]] et bénéficie d'un bonus racial de +24.}
+{s:BDTexte|**Carapace (Sur)** Les écailles de la tarasque dévient les sorts qui prennent la forme de cônes, de lignes ou de rayons ainsi que les *[[projectile magique|projectiles magiques]]*, ce qui, dans les faits l'immunise contre ces effets. Chaque effet dévié a 30% de chances d'être renvoyé (avec son plein potentiel) vers celui qui l'a lancé. Sinon, l'effet est simplement annulé.}
+{s:BDTexte|**Epines (Ext)** Par une [[action simple]], la tarasque peut projeter une salve de six épines jaillissant de son corps en remuant la tête ou en agitant la queue. Il faut effectuer un [[jet dattaque|jet d'attaque]] pour chacune des épines et toutes les cibles doivent se trouver à 9 m (6 {s:c}) les unes des autres. Les épines ont un [[facteur de portée]] de 36 m (24 {s:c}).}
+{s:BDTexte|**Pointe de vitesse (Ext)** Une fois par minute, la tarasque peut se déplacer à une vitesse de 45 m (30 {s:c}) pendant 1 round. Cette pointe de vitesse fait passer son bonus d'[[Acrobaties]] pour les tests de saut à +87.}
+{s:BDTexte|**Régénération (Ext)** Il n'existe aucune forme d'attaque qui puisse interrompre la [[régénération]] de la tarasque. Elle régénère même après avoir été désintégrée ou tuée par un effet de mort. Si la tarasque rate un [[jet de sauvegarde]] contre un effet qui la tue instantanément, elle se relève 3 rounds plus tard avec 1 [[pv|point de vie]] (à condition qu'on n'inflige pas de dégâts sur sa dépouille entre temps). Il est possible de la bannir ou de la transporter ailleurs pour sauver une région mais on n'a pas découvert de méthode permettant de la tuer une fois pour toutes.}
 </div>
 
 {s:ImageCentre|Bestiaire/Tarasque.jpg|95%}

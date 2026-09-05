@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Plaines|Tempéré}
 - *Source : Bestiaire 2, p.65*
 - **PX** 600
-- [Créature magique](./type Créature magique.md) de taille M, LB
-- **Init** +2 ; **Sens** odorat, [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +7
+- [[type créature magique|Créature magique]] de taille M, LB
+- **Init** +2 ; **Sens** odorat, [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +7
 (((Défense)))
 - **CA** 14, contact 12, pris au dépourvu 12 (Dex +2, naturelle +2)
 - **pv** 22 (3d10+6)
@@ -24,13 +24,13 @@ Categories:
 - **VD** 12 m (8 {s:c})
 - **Corps à corps** morsure, +4 (1d6+1)
 - **Pouvoirs magiques** (NLS 7 ; concentration +7)
-  - Constant — *[clignotement](./Clignotement.md)*
-  - À volonté — *[porte dimensionnelle](./Porte dimensionnelle.md)* en incantation rapide (personnel uniquement)
+  - Constant — *[[clignotement]]*
+  - À volonté — *[[porte dimensionnelle]]* en incantation rapide (personnel uniquement)
 (((Statistiques)))
 - **For** 12, **Dex** 15, **Con** 14, **Int** 10, **Sag** 13, **Cha** 11
-- **BBA** +3 ; **BMO** +4 ; **DMD** 16 (20 contre [croc-en-jambe](./croc-en-jambe.md))
-- **Dons** [Attaques réflexes](./Attaques réflexes.md), [Volonté de fer](./Volonté de fer.md)
-- **Compétences** [Discrétion](./Discrétion.md) +7, [Perception](./Perception.md) +7, [Survie](./Survie.md) +2 (+6 pour pister à l’odorat)
+- **BBA** +3 ; **BMO** +4 ; **DMD** 16 (20 contre [[croc-en-jambe]])
+- **Dons** [[Attaques réflexes]], [[Volonté de fer]]
+- **Compétences** [[Discrétion]] +7, [[Perception]] +7, [[Survie]] +2 (+6 pour pister à l’odorat)
 - **Langues** sylvestre
 (((Écologie)))
 - **Environnement** plaines ou forêts tempérées

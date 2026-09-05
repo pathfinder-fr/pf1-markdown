@@ -14,13 +14,13 @@ Categories:
 - Src Manuel des joueurs - Classes avancées
 ---
 
-{s:MCA}**École** [Illusion](./Illusion.md) ([hallucination](./branche hallucination.md)) ; **Niveau** [Bard](./Barde.md) 2, [Hyp](./Hypnotiseur.md) 2, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 2, [Prê](./Prêtre.md) 2, [Psy](./Psychiste.md) 2, [Sor](./Sorcière.md) 2</br>
+{s:MCA}**École** [[Illusion]] ([[branche hallucination|hallucination]]) ; **Niveau** [[Barde|Bard]] 2, [[Hypnotiseur|Hyp]] 2, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 2, [[Prêtre|Prê]] 2, [[Psychiste|Psy]] 2, [[Sorcière|Sor]] 2</br>
 **Temps d’incantation** 1 round</br>
-**Composantes** [V](./composantes.md)</br>
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Composantes** [[Composantes|V]]</br>
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Zone** émanation de 1,5 m de diamètre centrée sur un objet ou un point dans l’espace</br>
-**Durée** 1 minute/[niveau](./niveau.md) (T)</br>
+**Durée** 1 minute/[[niveau]] (T)</br>
 **Jet de sauvegarde** aucun (objet) ; **Résistance à la magie** non (objet)
 
-Le personnage protège une zone contre les oreilles indiscrètes fortuites. Les sons et les effets de son qui proviennent de la zone sont étouffés pour quiconque se trouve à l’extérieur de cette zone. Le [DD](./DD.md) des tests de [Perception](./Perception.md) pour entendre ou comprendre les sons provenant de la zone est augmenté de 20 et le [DD](./DD.md) de tous les jets de sauvegarde contre ces effets est diminué de 2. Le sort n’affecte pas les sons qui arrivent dans la zone ni les tests de Perception des créatures qui s’y trouvent.
+Le personnage protège une zone contre les oreilles indiscrètes fortuites. Les sons et les effets de son qui proviennent de la zone sont étouffés pour quiconque se trouve à l’extérieur de cette zone. Le [[DD]] des tests de [[Perception]] pour entendre ou comprendre les sons provenant de la zone est augmenté de 20 et le [[DD]] de tous les jets de sauvegarde contre ces effets est diminué de 2. Le sort n’affecte pas les sons qui arrivent dans la zone ni les tests de Perception des créatures qui s’y trouvent.

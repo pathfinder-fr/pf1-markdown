@@ -10,6 +10,6 @@ Categories:
 
 {s:uc}*Le personnage peut imprégner un tiers de son énergie guérisseuse afin qu’il l’utilise au meilleur moment. *
 
-**Conditions.** [Véritable guérisseur](./Véritable-guérisseur.md), [Canalisation sélective](./Canalisation sélective.md)
+**Conditions.** [[Véritable guérisseur]], [[Canalisation sélective]]
 
-**Avantage.** Le personnage peut utiliser une [action simple](./Action simple.md) et une utilisation quotidienne de la [canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) pour créer une réserve d’énergie positive chez un allié. Elle contient le même nombre et le même type de dés de canalisation que ce que le personnage utilise normalement. Elle persiste 1 minute. L’allié qui dispose de cette réserve peut dépenser une [action immédiate](./Action immédiate.md) pour lancer les dés de la réserve et récupérer un nombre de [points de vie](./pv.md) égal au résultat. Si l’allié qui dispose de la réserve tombe à moins de 0 point de vie, elle s’active automatiquement et le soigne sans qu’il ait besoin de faire une action.
+**Avantage.** Le personnage peut utiliser une [[action simple]] et une utilisation quotidienne de la [[prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] pour créer une réserve d’énergie positive chez un allié. Elle contient le même nombre et le même type de dés de canalisation que ce que le personnage utilise normalement. Elle persiste 1 minute. L’allié qui dispose de cette réserve peut dépenser une [[action immédiate]] pour lancer les dés de la réserve et récupérer un nombre de [[pv|points de vie]] égal au résultat. Si l’allié qui dispose de la réserve tombe à moins de 0 point de vie, elle s’active automatiquement et le soigne sans qu’il ait besoin de faire une action.

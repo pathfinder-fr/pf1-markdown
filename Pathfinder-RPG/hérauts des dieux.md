@@ -11,7 +11,7 @@ LastModified: 2021-04-11 10:33
 |- CLASS="titre"
 | Nom || Allégeance || FP
 |- CLASS="premier"
-| [Main de l’Héritière](./Main de l’Héritière.md) || Iomédae || 15
+| [[Main de l’Héritière]] || Iomédae || 15
 |}
 </div></div><div class="description">**Source :** LM.</div>
 

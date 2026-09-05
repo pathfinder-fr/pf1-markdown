@@ -14,28 +14,28 @@ Categories:
 {s:pucem|Créature magique|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3 page 154*}
 {s:BDTexte|**PX** 51 200 }
-{s:BDTexte|[Créature magique](./type Créature magique.md) de taille TG, N}
-{s:BDTexte|**Init** +2 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md)
-, [odorat](./odorat.md) ; [Perception](./Perception.md) +24}
+{s:BDTexte|[[type Créature magique|Créature magique]] de taille TG, N}
+{s:BDTexte|**Init** +2 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]]
+, [[odorat]] ; [[Perception]] +24}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 31, contact 11, pris au dépourvu 28 (Dex +2, esquive +1, naturelle +20, taille -2)}
-{s:BDTexte|**pv**230 (20d10+120) ; [guérison accélérée](./guérison accélérée.md) 10}
+{s:BDTexte|**pv**230 (20d10+120) ; [[guérison accélérée]] 10}
 {s:BDTexte|**Réf** +14, **Vig** +18, **Vol** +11}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 15 m (10 {s:c}), vol 6 m (4 {s:c})(médiocre)}
-{s:BDTexte|**Corps à corps** morsure, +31 (3d6+19/19-20/×3 plus [étreinte](./Étreinte.md)) et 2
+{s:BDTexte|**Corps à corps** morsure, +31 (3d6+19/19-20/×3 plus [[étreinte]]) et 2
 serres, +31 (1d8+13)}
 {s:BDTexte|**Espace occupé** 4.5 m (3 {s:c}); **Allonge** 4.5 m (3 {s:c}) (6 m avec morsure (4 {s:c}))}
-{s:BDTexte|**Attaques spéciales** [engloutissement](./Engloutissement.md) (3d6+19 contondant plus 2d6
+{s:BDTexte|**Attaques spéciales** [[engloutissement]] (3d6+19 contondant plus 2d6
 dégâts d’acide, CA 20, 23 pv), hurlement, morsure fatale}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 37, **Dex** 15, **Con** 22, **Int** 2, **Sag** 16, **Cha** 13}
-{s:BDTexte|**BBA** +20 ; **BMO** +35 (+39 [lutte](./lutte.md)) ; **DMD** 48}
-{s:BDTexte|**Dons**  [Attaque éclair](./Attaque éclair.md), [Attaque en puissance](./Attaque en puissance.md), [Attaques réflexes](./Attaques réflexes.md),
-[Combat en aveugle](./Combat en aveugle.md), [Course](./Course.md), [Enchaînement](./Enchaînement.md), [Esquive](./Esquive.md), [Science du critique](./Science du critique.md) (morsure),
-[Souplesse du serpent](./Souplesse du serpent.md), [Volonté de fer](./Volonté de fer.md))}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +14 (+22 pour le saut), [Perception](./Perception.md) +24, [Vol](./Vol.md) +7}
-{s:BDTexte|**Modificateurs raciaux** +12 en [Acrobaties](./Acrobaties.md), +8 en [Perception](./Perception.md)}
+{s:BDTexte|**BBA** +20 ; **BMO** +35 (+39 [[lutte]]) ; **DMD** 48}
+{s:BDTexte|**Dons**  [[Attaque éclair]], [[Attaque en puissance]], [[Attaques réflexes]],
+[[Combat en aveugle]], [[Course]], [[Enchaînement]], [[Esquive]], [[Science du critique]] (morsure),
+[[Souplesse du serpent]], [[Volonté de fer]])}
+{s:BDTexte|**Compétences** [[Acrobaties]] +14 (+22 pour le saut), [[Perception]] +24, [[Vol]] +7}
+{s:BDTexte|**Modificateurs raciaux** +12 en [[Acrobaties]], +8 en [[Perception]]}
 {s:BDTexte|**Particularité** acclimatation planaire}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** forêts chaudes ou tempérées}
@@ -45,7 +45,7 @@ dégâts d’acide, CA 20, 23 pv), hurlement, morsure fatale}
 {s:BDTexte|**Acclimatation planaire (Ext).** Le jube-jube est
 toujours considéré comme étant sur son plan
 d’origine, qu’importe le plan sur lequel il se
-trouve réellement. Il ne gagne jamais le [sous-type extraplanaires](./sous-type extraplanaire.md).}
+trouve réellement. Il ne gagne jamais le [[sous-type extraplanaire|sous-type extraplanaires]].}
 {s:BDTexte|**Défenses adaptables (Sur).** Lorsqu’on le rencontre
 pour la première fois, le jube-jube n’a aucune
 résistance à l’énergie. Lorsqu’il est blessé par une
@@ -55,19 +55,19 @@ d’énergie dont il est la cible, et ce, jusqu’à la fin de son
 prochain tour. Si l’attaque provoque des dégâts de plusieurs
 types d’énergie, le jube-jube gagne une résistance de 30 à tous
 les types d’énergie qui le blessent}
-{s:BDTexte|**Hurlement (Ext).** Une fois tous les 1d6 [round](./round.md)s, par une [action simple](./Action simple.md),
+{s:BDTexte|**Hurlement (Ext).** Une fois tous les 1d6 [[round]]s, par une [[action simple]],
 le jube-jube peut pousser un hurlement perçant. Toutes
 les créatures (autres que les jubes-jubes) situées dans un rayon
-de 18 mètres doivent réussir un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 26 ou être
-[étourdies](./Étourdi.md) pendant 1d4 [round](./round.md)s. Il s’agit d’un effet sonore. Le [DD](./DD.md)
-du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+de 18 mètres doivent réussir un jet de [[Vigueur]] [[DD]] 26 ou être
+[[Étourdi|étourdies]] pendant 1d4 [[round]]s. Il s’agit d’un effet sonore. Le [[DD]]
+du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 {s:BDTexte|*'Morsure fatale (Ext).* Le jube-jube rajoute 1,5 fois son modificateur
-de [Force](./Force.md) à ses dégâts de morsure. Un [coup critique](./coup critique.md) réussi lui
+de [[Force]] à ses dégâts de morsure. Un [[coup critique]] réussi lui
 permet de décapiter et de tuer instantanément une victime de
-taille G ou plus petite ([Vigueur](./Vigueur.md) [DD](./DD.md) 33, annule la décapitation ; les
+taille G ou plus petite ([[Vigueur]] [[DD]] 33, annule la décapitation ; les
 créatures sans tête sont immunisées contre cet effet) et inflige le
-triple des dégâts, que la cible soit décapitée ou non. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md)
-est basé sur la [Force](./Force.md).}
+triple des dégâts, que la cible soit décapitée ou non. Le [[DD]] du [[jet de sauvegarde]]
+est basé sur la [[Force]].}
 </div>
 </td><td><div>
 ''Cet énorme oiseau à queue de lézard a le dos et les ailes couverts de

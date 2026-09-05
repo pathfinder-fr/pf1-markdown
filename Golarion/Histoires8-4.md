@@ -4,8 +4,8 @@ Title: Explosions et crépitements
 LastModified: 2021-05-24 19:52
 ---
 
-<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[Retour à la page des   
-histoires de Golarion](./Histoires.md)</div>
+<div class="right presentation arrondi ombre" style="margin: 0 0 8px 8px; text-align: center">[[Histoires|Retour à la page des   
+histoires de Golarion]]</div>
 *Traduction du [quatrième chapitre](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/tales/serial/v5748dyo5lbqx) de la nouvelle "Les canons de l'Alkenastre" de Ed Greenwood. Illustration de Colby Stevenson.*
 
 "Ne tirez pas !" couina une voix à bout de souffle et empreinte de crainte depuis l'autre côté de la porte qui s'arrêta de bouger après s'être ouverte de la largeur de la main de Gelgur. "Je suis seul et je viens en paix !"

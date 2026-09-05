@@ -14,27 +14,27 @@ Categories:
 {s:pucem|Plante|Forêt-Jungle|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2* p.292}
 {s:BDTexte|**PX** 200}
-{s:BDTexte|[Plante](./type Plante.md) de taille P, N}
-{s:BDTexte|**Init** +1 ; **Sens** [perception des vibrations](./Perception des vibrations.md) 9 m (6 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +1}
+{s:BDTexte|[[type Plante|Plante]] de taille P, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[perception des vibrations]] 9 m (6 {s:c}), [[vision nocturne]] ; [[Perception]] +1}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 12, contact 12, pris au dépourvu 10 (Dex +1, taille +1)}
 {s:BDTexte|**pv** 8 (1d8+4)}
 {s:BDTexte|**Réf** +1, **Vig** +6, **Vol** +1}
-{s:BDTexte|**immunités** acide, [traits des plantes](./Traits des plantes.md)}
+{s:BDTexte|**immunités** acide, [[traits des plantes]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 1,5 m (1 {s:c})}
 {s:BDTexte|**Corps à corps** 2 dards, +0 (1d3–1 plus 1d2 acide)}
 {s:BDTexte|**Attaque spéciales** dévorer, pollen soporifique}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 13, **Con** 19, **Int** -, **Sag** 12, **Cha** 11}
-{s:BDTexte|**BBA** +0, **BMO** -2, **DMD** 9 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
+{s:BDTexte|**BBA** +0, **BMO** -2, **DMD** 9 ([[croc-en-jambe]] impossible)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** terre ferme}
 {s:BDTexte|**Organisation sociale** solitaire, couple, taillis (3-5) ou jardin (6-12)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Dévorer (Ext).** Lorsqu’une créature est affectée par le pollen soporifique d’un xtabay, la plante peut utiliser une [action complexe](./Action complexe.md) pour occuper le même espace que la créature endormie et absorber lentement son essence vitale. Chaque [round](./round.md) où le xtabay utilise cette capacité, la victime doit réussir un jet de [Vigueur](./Vigueur.md) de [DD](./DD.md) 14 pour ne pas subir un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d2 points de [Constitution](./Constitution.md). Le xtabay se nourrit sans causer de douleur et donc sans réveiller la victime endormie. Chaque [round](./round.md) au cours duquel la plante continue de se nourrir, la victime peut tenter un nouveau test de [Volonté](./Volonté.md) contre un [DD](./DD.md) de 14 pour se réveiller. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
-{s:BDTexte|**Pollen soporifique (Ext).** Par une [action simple](./Action simple.md), un xtabay peut libérer un pollen soporifique dans l’air tout autour de lui. Toutes les créatures situées dans une zone de 3 mètres (2 {s:c}) de rayon centré sur le xtabay doivent réussir un jet de [Volonté](./Volonté.md) de DD 14 pour ne pas tomber endormies pendant 1d3 minutes. Les créatures qui réussissent ce [jet de sauvegarde](./jet de sauvegarde.md) ne peuvent plus être affectées par le pollen soporifique du même xtabay pendant les 24 heures qui suivent. Les créatures endormies par le pollen se réveillent si on les secoue violemment (une [action simple](./Action simple.md)) ou si elles subissent des dégâts. Il s’agit d’un effet mental de sommeil. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) dépend de la [Constitution](./Constitution.md).}
+{s:BDTexte|**Dévorer (Ext).** Lorsqu’une créature est affectée par le pollen soporifique d’un xtabay, la plante peut utiliser une [[action complexe]] pour occuper le même espace que la créature endormie et absorber lentement son essence vitale. Chaque [[round]] où le xtabay utilise cette capacité, la victime doit réussir un jet de [[Vigueur]] de [[DD]] 14 pour ne pas subir un [[affaiblissement temporaire]] de 1d2 points de [[Constitution]]. Le xtabay se nourrit sans causer de douleur et donc sans réveiller la victime endormie. Chaque [[round]] au cours duquel la plante continue de se nourrir, la victime peut tenter un nouveau test de [[Volonté]] contre un [[DD]] de 14 pour se réveiller. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
+{s:BDTexte|**Pollen soporifique (Ext).** Par une [[action simple]], un xtabay peut libérer un pollen soporifique dans l’air tout autour de lui. Toutes les créatures situées dans une zone de 3 mètres (2 {s:c}) de rayon centré sur le xtabay doivent réussir un jet de [[Volonté]] de DD 14 pour ne pas tomber endormies pendant 1d3 minutes. Les créatures qui réussissent ce [[jet de sauvegarde]] ne peuvent plus être affectées par le pollen soporifique du même xtabay pendant les 24 heures qui suivent. Les créatures endormies par le pollen se réveillent si on les secoue violemment (une [[action simple]]) ou si elles subissent des dégâts. Il s’agit d’un effet mental de sommeil. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]].}
 </div>
 </td><td><div>
 *Ce tapis de plantes grimpantes est orné de magnifiques fleurs écarlates et violettes dont les pétales semblent être décorés de minuscules visages.*

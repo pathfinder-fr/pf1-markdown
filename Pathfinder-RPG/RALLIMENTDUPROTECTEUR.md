@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Protecteur Mythique#RALLIMENTDUPROTECTEUR
 ---
 
->>> [Protecteur Mythique#RALLIMENTDUPROTECTEUR](./Protecteur Mythique.md#RALLIMENTDUPROTECTEUR)
+>>> [[Protecteur Mythique#RALLIMENTDUPROTECTEUR]]

@@ -6,7 +6,7 @@ Categories:
 - Règles maison
 ---
 
-**Vers les [règles officielles](./../Pathfinder-RPG/Chaman.md)**
+**Vers les [[Pathfinder-RPG.Chaman|règles officielles]]**
 
 <sub>*Proposé par Yshorus.*</sub>
 
@@ -39,7 +39,7 @@ Categories:
 | +0
 | +2
 | +2
-| CLASS="gauche" | [compagnon spirituel](./RM Chaman.md#COMPAGNONSPIRITUEL), [empathie sauvage](./RM Chaman.md#EMPATHIESAUVAGE)
+| CLASS="gauche" | [[RM chaman#COMPAGNONSPIRITUEL|compagnon spirituel]], [[RM chaman#EMPATHIESAUVAGE|empathie sauvage]]
 | 3
 | -
 | -
@@ -55,7 +55,7 @@ Categories:
 | +0
 | +3
 | +3
-| CLASS="gauche" | [châtiment des esprits](./RM Chaman.md#CHATIMENTDESESPRITS) 1/jour
+| CLASS="gauche" | [[RM chaman#CHATIMENTDESESPRITS|châtiment des esprits]] 1/jour
 | 4
 | -
 | -
@@ -71,7 +71,7 @@ Categories:
 | +1
 | +3
 | +3
-| CLASS="gauche" | [détection des esprits](./RM Chaman.md#DETECTIONDESESPRITS)
+| CLASS="gauche" | [[RM chaman#DETECTIONDESESPRITS|détection des esprits]]
 | 5
 | -
 | -
@@ -87,7 +87,7 @@ Categories:
 | +1
 | +4
 | +4
-| CLASS="gauche" | [bénédiction des esprits](./RM Chaman.md#BENEDICTIONDESESPRITS)
+| CLASS="gauche" | [[RM chaman#BENEDICTIONDESESPRITS|bénédiction des esprits]]
 | 6
 | 3
 | -
@@ -103,7 +103,7 @@ Categories:
 | +1
 | +4
 | +4
-| CLASS="gauche" | [châtiment des esprits](./RM Chaman.md#CHATIMENTDESESPRITS) 2/jour, [soutien spirituel](./RM Chaman.md#SOUTIENSPIRITUEL)
+| CLASS="gauche" | [[RM chaman#CHATIMENTDESESPRITS|châtiment des esprits]] 2/jour, [[RM chaman#SOUTIENSPIRITUEL|soutien spirituel]]
 | 6
 | 4
 | -
@@ -119,7 +119,7 @@ Categories:
 | +2
 | +5
 | +5
-| CLASS="gauche" | [guerrier spirituel](./RM Chaman.md#GUERRIERSPIRITUEL)
+| CLASS="gauche" | [[RM chaman#GUERRIERSPIRITUEL|guerrier spirituel]]
 | 6
 | 5
 | 3
@@ -135,7 +135,7 @@ Categories:
 | +2
 | +5
 | +5
-| CLASS="gauche" | [protection des esprits](./RM Chaman.md#PROTECTIONDESESPRITS)
+| CLASS="gauche" | [[RM chaman#PROTECTIONDESESPRITS|protection des esprits]]
 | 6
 | 6
 | 4
@@ -151,7 +151,7 @@ Categories:
 | +2
 | +6
 | +6
-| CLASS="gauche" | [châtiment des esprits](./RM Chaman.md#CHATIMENTDESESPRITS) 3/jour
+| CLASS="gauche" | [[RM chaman#CHATIMENTDESESPRITS|châtiment des esprits]] 3/jour
 | 6
 | 6
 | 5
@@ -167,7 +167,7 @@ Categories:
 | +3
 | +6
 | +6
-| CLASS="gauche" | [forme spirituelle](./RM Chaman.md#FORMESPIRITUELLE)
+| CLASS="gauche" | [[RM chaman#FORMESPIRITUELLE|forme spirituelle]]
 | 6
 | 6
 | 6
@@ -183,7 +183,7 @@ Categories:
 | +3
 | +7
 | +7
-| CLASS="gauche" | [assistant magique](./RM Chaman.md#ASSISTANTMAGIQUE)
+| CLASS="gauche" | [[RM chaman#ASSISTANTMAGIQUE|assistant magique]]
 | 6
 | 6
 | 6
@@ -199,7 +199,7 @@ Categories:
 | +3
 | +7
 | +7
-| CLASS="gauche" | [châtiment des esprits](./RM Chaman.md#CHATIMENTDESESPRITS) 4/jour, [rappel de l’esprit](./RM Chaman.md#RAPPELDELESPRIT)
+| CLASS="gauche" | [[RM chaman#CHATIMENTDESESPRITS|châtiment des esprits]] 4/jour, [[RM chaman#RAPPELDELESPRIT|rappel de l’esprit]]
 | 6
 | 6
 | 6
@@ -215,7 +215,7 @@ Categories:
 | +4
 | +8
 | +8
-| CLASS="gauche" | [maître de guerre spirituel](./RM Chaman.md#MAITREDEGUERRESPIRITUEL)
+| CLASS="gauche" | [[RM chaman#MAITREDEGUERRESPIRITUEL|maître de guerre spirituel]]
 | 6
 | 6
 | 6
@@ -231,7 +231,7 @@ Categories:
 | +4
 | +8
 | +8
-| CLASS="gauche" | [exorcisme](./RM Chaman.md#EXORCISME)
+| CLASS="gauche" | [[RM chaman#EXORCISME|exorcisme]]
 | 6
 | 6
 | 6
@@ -247,7 +247,7 @@ Categories:
 | +4
 | +9
 | +9
-| CLASS="gauche" | [châtiment des esprits](./RM Chaman.md#CHATIMENTDESESPRITS) 5/jour
+| CLASS="gauche" | [[RM chaman#CHATIMENTDESESPRITS|châtiment des esprits]] 5/jour
 | 6
 | 6
 | 6
@@ -263,7 +263,7 @@ Categories:
 | +5
 | +9
 | +9
-| CLASS="gauche" | [possession](./RM Chaman.md#POSSESSION)
+| CLASS="gauche" | [[RM chaman#POSSESSION|possession]]
 | 6
 | 6
 | 6
@@ -279,7 +279,7 @@ Categories:
 | +5
 | +10
 | +10
-| CLASS="gauche" | [courroux des esprits](./RM Chaman.md#COURROUXDESESPRITS)
+| CLASS="gauche" | [[RM chaman#COURROUXDESESPRITS|courroux des esprits]]
 | 6
 | 6
 | 6
@@ -295,7 +295,7 @@ Categories:
 | +5
 | +10
 | +10
-| CLASS="gauche" | [châtiment des esprits](./RM Chaman.md#CHATIMENTDESESPRITS) 6/jour, [voyage spirituel](./RM Chaman.md#VOYAGESPIRITUEL)
+| CLASS="gauche" | [[RM chaman#CHATIMENTDESESPRITS|châtiment des esprits]] 6/jour, [[RM chaman#VOYAGESPIRITUEL|voyage spirituel]]
 | 6
 | 6
 | 6
@@ -311,7 +311,7 @@ Categories:
 | +6
 | +11
 | +11
-| CLASS="gauche" | [séquestration d’esprit](./RM Chaman.md#SEQUESTRATIONDESPRIT)
+| CLASS="gauche" | [[RM chaman#SEQUESTRATIONDESPRIT|séquestration d’esprit]]
 | 6
 | 6
 | 6
@@ -327,7 +327,7 @@ Categories:
 | +6
 | +11
 | +11
-| CLASS="gauche" | [trompe-la-mort](./RM Chaman.md#TROMPELAMORT)
+| CLASS="gauche" | [[RM chaman#TROMPELAMORT|trompe-la-mort]]
 | 6
 | 6
 | 6
@@ -343,7 +343,7 @@ Categories:
 | +6
 | +12
 | +12
-| CLASS="gauche" | [châtiment des esprits](./RM Chaman.md#CHATIMENTDESESPRITS) 7/jour, [élu des esprits](./RM Chaman.md#ELUDESESPRITS)
+| CLASS="gauche" | [[RM chaman#CHATIMENTDESESPRITS|châtiment des esprits]] 7/jour, [[RM chaman#ELUDESESPRITS|élu des esprits]]
 | 6
 | 6
 | 6
@@ -623,96 +623,96 @@ Categories:
 **Dés de vie.** d8.
 
 ### Compétences de classe
-Les compétences du chaman (et la caractéristique dont chacune dépend) sont : [Art de la magie](./../Pathfinder-RPG/Art de la magie.md) (Int), [Artisanat](./../Pathfinder-RPG/Artisanat.md) (Int), [Connaissances](./../Pathfinder-RPG/Connaissances.md) (folklore local) (Int), [Connaissances](./../Pathfinder-RPG/Connaissances.md) (géographie) (Int), [Connaissances](./../Pathfinder-RPG/Connaissances.md) (histoire) (Int), [Connaissances](./../Pathfinder-RPG/Connaissances.md) (nature) (Int), [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) (Cha), [Dressage](./../Pathfinder-RPG/Dressage.md) (Cha), [Équitation](./../Pathfinder-RPG/Équitation.md) (Dex), [Natation](./../Pathfinder-RPG/Natation.md) (For), [Perception](./../Pathfinder-RPG/Perception.md) (Sag), [Premiers secours](./../Pathfinder-RPG/Premiers secours.md) (Sag), [Profession](./../Pathfinder-RPG/Profession.md) (Sag), [Survie](./../Pathfinder-RPG/Survie.md) (Sag), [Vol](./../Pathfinder-RPG/Vol.md) (Dex).
+Les compétences du chaman (et la caractéristique dont chacune dépend) sont : [[Pathfinder-RPG.Art de la magie|Art de la magie]] (Int), [[Pathfinder-RPG.Artisanat|Artisanat]] (Int), [[Pathfinder-RPG.Connaissances|Connaissances]] (folklore local) (Int), [[Pathfinder-RPG.Connaissances|Connaissances]] (géographie) (Int), [[Pathfinder-RPG.Connaissances|Connaissances]] (histoire) (Int), [[Pathfinder-RPG.Connaissances|Connaissances]] (nature) (Int), [[Pathfinder-RPG.Diplomatie|Diplomatie]] (Cha), [[Pathfinder-RPG.Dressage|Dressage]] (Cha), [[Pathfinder-RPG.Équitation|Équitation]] (Dex), [[Pathfinder-RPG.Natation|Natation]] (For), [[Pathfinder-RPG.Perception|Perception]] (Sag), [[Pathfinder-RPG.Premiers secours|Premiers secours]] (Sag), [[Pathfinder-RPG.Profession|Profession]] (Sag), [[Pathfinder-RPG.Survie|Survie]] (Sag), [[Pathfinder-RPG.Vol|Vol]] (Dex).
 
-**Points de compétence par niveau.** 4 + modificateur d’[Intelligence](./../Pathfinder-RPG/Intelligence.md).
+**Points de compétence par niveau.** 4 + modificateur d’[[Pathfinder-RPG.Intelligence|Intelligence]].
 
 ### Descriptif de la classe
 Les aptitudes du chaman sont décrites ci-dessous.
 
 #### Armes et armures
 
-Le chaman est formé au maniement des armes suivantes : arc court, bâton, dague, dard, épieu, fronde, gourdin, hache de lancer, hachette, javeline, lance, pique. Il est également formé au port des [armures légères](./../Pathfinder-RPG/armure légère.md) et au maniement des boucliers (à l’exception des pavois).
+Le chaman est formé au maniement des armes suivantes : arc court, bâton, dague, dard, épieu, fronde, gourdin, hache de lancer, hachette, javeline, lance, pique. Il est également formé au port des [[Pathfinder-RPG.armure légère|armures légères]] et au maniement des boucliers (à l’exception des pavois).
 
 #### Sorts
 
-Le chaman lance des sorts divins tirés de la [liste de sorts de druide](./../Pathfinder-RPG/Liste des sorts de druides.md). Il peut lancer tout sort recueilli par son compagnon spirituel sans avoir besoin de le préparer à l’avance. Pour recueillir ou lancer un sort, le chaman doit avoir une valeur de [Sagesse](./../Pathfinder-RPG/Sagesse.md) au moins égale à 10 + niveau du sort. Le [DD](./../Pathfinder-RPG/DD.md) des jets de sauvegarde contre les sorts du chaman est de 10 + niveau du sort + modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md) du chaman. Comme les autres lanceurs de sorts, le chaman ne peut en lancer qu’un certain nombre de chaque niveau par jour. De plus, il reçoit des sorts supplémentaires s’il possède une importante valeur de [Sagesse](./../Pathfinder-RPG/Sagesse.md).
+Le chaman lance des sorts divins tirés de la [[Pathfinder-RPG.liste des sorts de druides|liste de sorts de druide]]. Il peut lancer tout sort recueilli par son compagnon spirituel sans avoir besoin de le préparer à l’avance. Pour recueillir ou lancer un sort, le chaman doit avoir une valeur de [[Pathfinder-RPG.Sagesse|Sagesse]] au moins égale à 10 + niveau du sort. Le [[Pathfinder-RPG.DD|DD]] des jets de sauvegarde contre les sorts du chaman est de 10 + niveau du sort + modificateur de [[Pathfinder-RPG.Charisme|Charisme]] du chaman. Comme les autres lanceurs de sorts, le chaman ne peut en lancer qu’un certain nombre de chaque niveau par jour. De plus, il reçoit des sorts supplémentaires s’il possède une importante valeur de [[Pathfinder-RPG.Sagesse|Sagesse]].
 
-Contrairement au druide, le chaman n’a accès qu’à un nombre limité de sorts mais il peut modifier sa sélection de sorts accessibles chaque jour. Au cours de la méditation lui permettant de renouveler son quota journalier de sorts (voir plus loin), son compagnon spirituel recueille auprès de puissants esprits le savoir déterminant à quels sorts le chaman aura accès. Celui-ci peut ensuite lancer tout sort ainsi recueilli quand il le désire, tant que son quota n’est pas atteint pour les sorts du niveau correspondant. Le nombre de sorts que le compagnon spirituel du chaman peut recueillir est donné dans la [table](./RM Chaman.md#SORTSRECUEILLISDUCHAMAN) ci-dessus. Contrairement au nombre de sorts quotidiens, le nombre de sorts recueillis n’est pas affecté par la [Sagesse](./../Pathfinder-RPG/Sagesse.md) du chaman, les valeurs de la table sont fixes.
+Contrairement au druide, le chaman n’a accès qu’à un nombre limité de sorts mais il peut modifier sa sélection de sorts accessibles chaque jour. Au cours de la méditation lui permettant de renouveler son quota journalier de sorts (voir plus loin), son compagnon spirituel recueille auprès de puissants esprits le savoir déterminant à quels sorts le chaman aura accès. Celui-ci peut ensuite lancer tout sort ainsi recueilli quand il le désire, tant que son quota n’est pas atteint pour les sorts du niveau correspondant. Le nombre de sorts que le compagnon spirituel du chaman peut recueillir est donné dans la [[RM chaman#SORTSRECUEILLISDUCHAMAN|table]] ci-dessus. Contrairement au nombre de sorts quotidiens, le nombre de sorts recueillis n’est pas affecté par la [[Pathfinder-RPG.Sagesse|Sagesse]] du chaman, les valeurs de la table sont fixes.
 
-Le chaman n’a pas besoin de [focalisateur divin](./../Pathfinder-RPG/focalisateur divin.md) pour lancer les sorts qui en mentionnent un (FD) dans leurs composantes.
+Le chaman n’a pas besoin de [[Pathfinder-RPG.focalisateur divin|focalisateur divin]] pour lancer les sorts qui en mentionnent un (FD) dans leurs composantes.
 
-Si le chaman possède des [dons de métamagie](./../Pathfinder-RPG/Dons.md#DONMETAMAGIE), ils permettent à son compagnon spirituel de recueillir des sorts modifiés par un ou plusieurs de ces dons. Le cas échéant, ces sorts modifiés mobilisent un emplacement de sort recueilli tenant compte de l’ajustement dû au(x) don(s) de métamagie appliqué(s). Si le chaman souhaite pouvoir lancer un sort non modifié et un sort modifié, son compagnon spirituel doit alors recueillir les deux versions. Contrairement aux autres lanceurs de sorts spontanés, le chaman ne peut pas décider de modifier un sort par métamagie au moment de l’incantation et la durée de celle-ci n’est pas augmentée pour les sorts recueillis affectés par un ou plusieurs don(s) de métamagie.
+Si le chaman possède des [[Pathfinder-RPG.Dons#DONMETAMAGIE|dons de métamagie]], ils permettent à son compagnon spirituel de recueillir des sorts modifiés par un ou plusieurs de ces dons. Le cas échéant, ces sorts modifiés mobilisent un emplacement de sort recueilli tenant compte de l’ajustement dû au(x) don(s) de métamagie appliqué(s). Si le chaman souhaite pouvoir lancer un sort non modifié et un sort modifié, son compagnon spirituel doit alors recueillir les deux versions. Contrairement aux autres lanceurs de sorts spontanés, le chaman ne peut pas décider de modifier un sort par métamagie au moment de l’incantation et la durée de celle-ci n’est pas augmentée pour les sorts recueillis affectés par un ou plusieurs don(s) de métamagie.
 
 Chaque jour, le chaman doit passer une heure à méditer afin de renouveler son quota journalier de sorts. C’est au cours de cette méditation que son compagnon spirituel recueille les sorts qu’il pourra lancer par la suite.
 
 {s:Reference|ORAISONS}
 #### Oraisons
 
-Le compagnon spirituel du chaman peut recueillir un certain nombre d’oraisons (ou sorts de niveau 0) chaque jour, comme indiqué dans la [table](./RM Chaman.md#SORTSRECUEILLISDUCHAMAN) ci-dessus. Le chaman jette ces sorts comme les autres mais ils ne consomment pas d’emplacement de sort lorsqu’ils sont lancés et peuvent donc être utilisés à volonté.
+Le compagnon spirituel du chaman peut recueillir un certain nombre d’oraisons (ou sorts de niveau 0) chaque jour, comme indiqué dans la [[RM chaman#SORTSRECUEILLISDUCHAMAN|table]] ci-dessus. Le chaman jette ces sorts comme les autres mais ils ne consomment pas d’emplacement de sort lorsqu’ils sont lancés et peuvent donc être utilisés à volonté.
 
 {s:Reference|COMPAGNONSPIRITUEL}
 #### Compagnon spirituel (Ext)
 
-Au niveau 1, un puissant lien se crée entre le chaman et un esprit. Ce compagnon spirituel exploite les mêmes règles que les [compagnons animaux](./../Pathfinder-RPG/Compagnons animaux.md) des druides (voir la capacité de druide de [pacte avec la nature](./../Pathfinder-RPG/Druide.md#PACTEAVECLANATURE)), avec un niveau de druide effectif égal au niveau du chaman, exception faite de ce qui suit. Le compagnon spirituel est une [créature magique](./../Pathfinder-RPG/type Créature magique.md) et non un [animal](./../Pathfinder-RPG/type Animal.md) (ne pas recalculer ses points de vie ni son bonus de base à l’attaque), dont l’[Intelligence](./../Pathfinder-RPG/Intelligence.md) est égale à celle du [familier](./../Pathfinder-RPG/Familiers.md) d’un magicien de même niveau que le chaman (ce qui augmente le nombre de points de compétence dont dispose le compagnon spirituel par rapport à un compagnon animal lorsque le chaman atteint le niveau 9). Il est naturellement éthéré (voir le sort *[forme éthérée](./../Pathfinder-RPG/Forme éthérée.md)*, mais cet effet permanent n’est pas magique et ne peut être dissipé), ce qui n’empêche pas le chaman auquel il est lié de le voir comme s’il était présent dans le plan Matériel. Enfin, il obtient les capacités spéciales des [familiers](./../Pathfinder-RPG/Familiers.md) au lieu de celles des [compagnons animaux](./../Pathfinder-RPG/Compagnons animaux.md), avec là encore un niveau de magicien effectif égal au niveau du chaman. Si le chaman perd son compagnon spirituel ou si celui-ci meurt, il peut se lier avec un autre esprit en accomplissant un rituel qui nécessite vingt-quatre heures de transe ininterrompue. Un chaman sans compagnon spirituel est incapable de lancer le moindre sort et ne peut utiliser aucun [objet à fin d’incantation](./../Pathfinder-RPG/Règles relatives aux objets magiques.md#OBJETSAFINDINCANTATION) ou [à potentiel magique](./../Pathfinder-RPG/Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE).
+Au niveau 1, un puissant lien se crée entre le chaman et un esprit. Ce compagnon spirituel exploite les mêmes règles que les [[Pathfinder-RPG.compagnons animaux|compagnons animaux]] des druides (voir la capacité de druide de [[Pathfinder-RPG.Druide#PACTEAVECLANATURE|pacte avec la nature]]), avec un niveau de druide effectif égal au niveau du chaman, exception faite de ce qui suit. Le compagnon spirituel est une [[Pathfinder-RPG.type Créature magique|créature magique]] et non un [[Pathfinder-RPG.type Animal|animal]] (ne pas recalculer ses points de vie ni son bonus de base à l’attaque), dont l’[[Pathfinder-RPG.Intelligence|Intelligence]] est égale à celle du [[Pathfinder-RPG.Familiers|familier]] d’un magicien de même niveau que le chaman (ce qui augmente le nombre de points de compétence dont dispose le compagnon spirituel par rapport à un compagnon animal lorsque le chaman atteint le niveau 9). Il est naturellement éthéré (voir le sort *[[Pathfinder-RPG.Forme éthérée|forme éthérée]]*, mais cet effet permanent n’est pas magique et ne peut être dissipé), ce qui n’empêche pas le chaman auquel il est lié de le voir comme s’il était présent dans le plan Matériel. Enfin, il obtient les capacités spéciales des [[Pathfinder-RPG.Familiers|familiers]] au lieu de celles des [[Pathfinder-RPG.compagnons animaux|compagnons animaux]], avec là encore un niveau de magicien effectif égal au niveau du chaman. Si le chaman perd son compagnon spirituel ou si celui-ci meurt, il peut se lier avec un autre esprit en accomplissant un rituel qui nécessite vingt-quatre heures de transe ininterrompue. Un chaman sans compagnon spirituel est incapable de lancer le moindre sort et ne peut utiliser aucun [[Pathfinder-RPG.Règles relatives aux objets magiques#OBJETSAFINDINCANTATION|objet à fin d’incantation]] ou [[Pathfinder-RPG.Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE|à potentiel magique]].
 
 {s:Reference|EMPATHIESAUVAGE}
 #### Empathie sauvage (Ext)
 
-Un chaman peut améliorer l’attitude d’un [animal](./../Pathfinder-RPG/type Animal.md). Cette aptitude suit les mêmes règles que les tests de [Diplomatie](./../Pathfinder-RPG/Diplomatie.md) destinés à modifier l’attitude d’une personne. Le chaman lance 1d20 et ajoute son niveau de chaman et son modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md) pour déterminer le résultat de son test. Il bénéficie d’un bonus d’intuition de +2 à ce test lorsqu’il utilise cette aptitude pour influencer un [animal](./../Pathfinder-RPG/type Animal.md) correspondant à son compagnon spirituel. L’attitude initiale des animaux domestiques est l’indifférence, tandis que les animaux sauvages sont généralement inamicaux.
+Un chaman peut améliorer l’attitude d’un [[Pathfinder-RPG.type Animal|animal]]. Cette aptitude suit les mêmes règles que les tests de [[Pathfinder-RPG.Diplomatie|Diplomatie]] destinés à modifier l’attitude d’une personne. Le chaman lance 1d20 et ajoute son niveau de chaman et son modificateur de [[Pathfinder-RPG.Charisme|Charisme]] pour déterminer le résultat de son test. Il bénéficie d’un bonus d’intuition de +2 à ce test lorsqu’il utilise cette aptitude pour influencer un [[Pathfinder-RPG.type Animal|animal]] correspondant à son compagnon spirituel. L’attitude initiale des animaux domestiques est l’indifférence, tandis que les animaux sauvages sont généralement inamicaux.
 
-Pour utiliser l’empathie sauvage, le chaman et l’[animal](./../Pathfinder-RPG/type Animal.md) doivent être à moins de neuf mètres l’un de l’autre (dans des conditions de visibilité normales). Il faut en moyenne une minute pour influencer un [animal](./../Pathfinder-RPG/type Animal.md) de cette façon, mais, comme dans le cas de personnes, cela peut parfois prendre plus longtemps ou être plus rapide.
+Pour utiliser l’empathie sauvage, le chaman et l’[[Pathfinder-RPG.type Animal|animal]] doivent être à moins de neuf mètres l’un de l’autre (dans des conditions de visibilité normales). Il faut en moyenne une minute pour influencer un [[Pathfinder-RPG.type Animal|animal]] de cette façon, mais, comme dans le cas de personnes, cela peut parfois prendre plus longtemps ou être plus rapide.
 
-Contrairement aux druides, les chamans sont incapables d’influencer une [créature magique](./../Pathfinder-RPG/type Créature magique.md) à l’aide de cette aptitude.
+Contrairement aux druides, les chamans sont incapables d’influencer une [[Pathfinder-RPG.type Créature magique|créature magique]] à l’aide de cette aptitude.
 
 {s:Reference|CHATIMENTDESESPRITS}
 #### Châtiment des esprits (Sur)
 
-Une fois par jour, un chaman de niveau 2 peut utiliser les énergies spirituelles qu’il manipule pour châtier les esprits hostiles. Par une [action rapide](./../Pathfinder-RPG/Action rapide.md), le chaman désigne comme cible de son châtiment des esprits un ennemi qu’il peut voir. Si la cible est un esprit (cf. [encart *Qu’est-ce qu’un esprit ?*](./RM Chaman.md#QUESTCEQUUNESPRIT)), le chaman ajoute son bonus de [Charisme](./../Pathfinder-RPG/Charisme.md) (s’il en a un) à ses jets d’attaque et son niveau de chaman à tous les jets de dégâts à l’encontre de sa cible. Le châtiment des esprits ignore toutes les [réductions de dégâts](./../Pathfinder-RPG/RD.md) de la cible.
+Une fois par jour, un chaman de niveau 2 peut utiliser les énergies spirituelles qu’il manipule pour châtier les esprits hostiles. Par une [[Pathfinder-RPG.action rapide|action rapide]], le chaman désigne comme cible de son châtiment des esprits un ennemi qu’il peut voir. Si la cible est un esprit (cf. [[RM chaman#QUESTCEQUUNESPRIT|encart *Qu’est-ce qu’un esprit ?*]]), le chaman ajoute son bonus de [[Pathfinder-RPG.Charisme|Charisme]] (s’il en a un) à ses jets d’attaque et son niveau de chaman à tous les jets de dégâts à l’encontre de sa cible. Le châtiment des esprits ignore toutes les [[Pathfinder-RPG.RD|réductions de dégâts]] de la cible.
 
-De plus, lorsqu’un châtiment des esprits est en cours, le chaman gagne un bonus de parade à sa [CA](./../Pathfinder-RPG/CA.md) égal à son bonus de [Charisme](./../Pathfinder-RPG/Charisme.md) (s’il en a un) contre les attaques portées par la cible du châtiment des esprits. Si le chaman désigne une créature qui n’est pas un esprit, le châtiment est dépensé mais n’a aucun effet.
+De plus, lorsqu’un châtiment des esprits est en cours, le chaman gagne un bonus de parade à sa [[Pathfinder-RPG.CA|CA]] égal à son bonus de [[Pathfinder-RPG.Charisme|Charisme]] (s’il en a un) contre les attaques portées par la cible du châtiment des esprits. Si le chaman désigne une créature qui n’est pas un esprit, le châtiment est dépensé mais n’a aucun effet.
 
-L’effet du châtiment des esprits persiste jusqu’à ce que la cible soit morte ou jusqu’à ce que le chaman se repose et récupère son quota d’utilisations de cette capacité. Au niveau 5 et tous les trois niveaux par la suite, le chaman obtient une utilisation quotidienne supplémentaire de ce pouvoir, comme indiqué dans la [table](./RM Chaman.md#TABLECHAMAN) ci-dessus, avec un maximum de sept utilisations quotidiennes au niveau 20.
+L’effet du châtiment des esprits persiste jusqu’à ce que la cible soit morte ou jusqu’à ce que le chaman se repose et récupère son quota d’utilisations de cette capacité. Au niveau 5 et tous les trois niveaux par la suite, le chaman obtient une utilisation quotidienne supplémentaire de ce pouvoir, comme indiqué dans la [[RM chaman#TABLECHAMAN|table]] ci-dessus, avec un maximum de sept utilisations quotidiennes au niveau 20.
 
 {s:Reference|DETECTIONDESESPRITS}
 #### Détection des esprits (Mag)
 
-À partir du niveau 3, le chaman peut détecter les esprits à volonté. Ce pouvoir fonctionne comme le sort *[détection des morts-vivants](./../Pathfinder-RPG/Détection des morts-vivants.md)*, si ce n’est qu’il détecte les esprits et que le chaman risque d’être [étourdi](./../Pathfinder-RPG/États préjudiciables.md#Étourdi) si son alignement est opposé à celui de l’esprit.
+À partir du niveau 3, le chaman peut détecter les esprits à volonté. Ce pouvoir fonctionne comme le sort *[[Pathfinder-RPG.Détection des morts-vivants|détection des morts-vivants]]*, si ce n’est qu’il détecte les esprits et que le chaman risque d’être [[Pathfinder-RPG.États préjudiciables#Étourdi|étourdi]] si son alignement est opposé à celui de l’esprit.
 
 {s:Reference|BENEDICTIONDESESPRITS}
 #### Bénédiction des esprits (Mag)
 
-À partir du niveau 4, le chaman peut exécuter un rituel lui permettant d’obtenir la bénédiction des esprits. Ce rituel dure 10 minutes, au terme desquelles le chaman bénéficie d’un effet similaire à *[protection contre le Mal](./../Pathfinder-RPG/Protection contre le Mal.md)* mais s’appliquant aux esprits plutôt qu’aux créatures d’alignement mauvais et perdurant jusqu’à ce que le chaman y mette un terme ou qu’il soit dissipé. Dans ce dernier cas, il suffit au chaman d’exécuter à nouveau le rituel pour restaurer la bénédiction. Seul le chaman lui-même peut bénéficier de la bénédiction des esprits à travers ce rituel.
+À partir du niveau 4, le chaman peut exécuter un rituel lui permettant d’obtenir la bénédiction des esprits. Ce rituel dure 10 minutes, au terme desquelles le chaman bénéficie d’un effet similaire à *[[Pathfinder-RPG.Protection contre le Mal|protection contre le Mal]]* mais s’appliquant aux esprits plutôt qu’aux créatures d’alignement mauvais et perdurant jusqu’à ce que le chaman y mette un terme ou qu’il soit dissipé. Dans ce dernier cas, il suffit au chaman d’exécuter à nouveau le rituel pour restaurer la bénédiction. Seul le chaman lui-même peut bénéficier de la bénédiction des esprits à travers ce rituel.
 
 {s:Reference|SOUTIENSPIRITUEL}
 #### Soutien spirituel (Sur)
 
-À partir du niveau 5, le lien existant entre le chaman et son compagnon spirituel l’aide à lutter contre les influences magiques. Ce pouvoir fonctionne comme le talent de roublard [Esprit fuyant](./../Pathfinder-RPG/Talent.md#ESPRITFUYANT). Un chaman sans compagnon spirituel perd le bénéfice de ce pouvoir.
+À partir du niveau 5, le lien existant entre le chaman et son compagnon spirituel l’aide à lutter contre les influences magiques. Ce pouvoir fonctionne comme le talent de roublard [[Pathfinder-RPG.Talent#ESPRITFUYANT|Esprit fuyant]]. Un chaman sans compagnon spirituel perd le bénéfice de ce pouvoir.
 
 {s:Reference|GUERRIERSPIRITUEL}
 #### Guerrier spirituel (Sur)
 
-À partir du niveau 6, toute arme maniée par le chaman acquiert la propriété spéciale [spectrale](./../Pathfinder-RPG/spectrale (propriété).md) tant qu’il la tient en main. De plus, les attaques de contact portées contre lui par des créatures [intangibles](./../Pathfinder-RPG/Intangible (capacité).md) s’effectuent désormais contre sa classe d’armure normale au lieu de sa classe d’armure de contact.
+À partir du niveau 6, toute arme maniée par le chaman acquiert la propriété spéciale [[Pathfinder-RPG.spectrale (propriété)|spectrale]] tant qu’il la tient en main. De plus, les attaques de contact portées contre lui par des créatures [[Pathfinder-RPG.Intangible (capacité)|intangibles]] s’effectuent désormais contre sa classe d’armure normale au lieu de sa classe d’armure de contact.
 
 {s:Reference|PROTECTIONDESESPRITS}
 #### Protection des esprits (Mag)
 
-À partir du niveau 7, le chaman peut, une fois par jour, exécuter un rituel lui permettant d’obtenir la protection des esprits pour ses compagnons et lui-même. Ce rituel dure 1 minute, au terme de laquelle le chaman devient source d’un effet similaire à *[cercle magique contre le Mal](./../Pathfinder-RPG/cercle magique contre le Mal.md)* mais s’appliquant aux esprits plutôt qu’aux créatures d’alignement mauvais.
+À partir du niveau 7, le chaman peut, une fois par jour, exécuter un rituel lui permettant d’obtenir la protection des esprits pour ses compagnons et lui-même. Ce rituel dure 1 minute, au terme de laquelle le chaman devient source d’un effet similaire à *[[Pathfinder-RPG.Cercle magique contre le Mal|cercle magique contre le Mal]]* mais s’appliquant aux esprits plutôt qu’aux créatures d’alignement mauvais.
 
 {s:Reference|FORMESPIRITUELLE}
 #### Forme spirituelle (Sur)
 
-À partir du niveau 9, le chaman peut adopter temporairement une forme spirituelle. Il peut ainsi se rendre [intangible](./../Pathfinder-RPG/Intangible (capacité).md) par une action simple, pendant un maximum d’une minute par niveau de chaman chaque jour. Cette durée n’est pas nécessairement continue, mais chaque utilisation consomme un nombre entier de minutes (arrondir au supérieur). Lorsqu’il se trouve sous forme spirituelle, le chaman présente toutes les particularités liées à l’intangibilité et peut porter une attaque de contact au corps-à-corps infligeant 1d6 points de dégâts de force à toute cible tangible.
+À partir du niveau 9, le chaman peut adopter temporairement une forme spirituelle. Il peut ainsi se rendre [[Pathfinder-RPG.Intangible (capacité)|intangible]] par une action simple, pendant un maximum d’une minute par niveau de chaman chaque jour. Cette durée n’est pas nécessairement continue, mais chaque utilisation consomme un nombre entier de minutes (arrondir au supérieur). Lorsqu’il se trouve sous forme spirituelle, le chaman présente toutes les particularités liées à l’intangibilité et peut porter une attaque de contact au corps-à-corps infligeant 1d6 points de dégâts de force à toute cible tangible.
 
 {s:Reference|ASSISTANTMAGIQUE}
 #### Assistant magique (Sur)
 
-À partir du niveau 10, le lien existant entre le chaman et son compagnon spirituel permet au second de se [concentrer](./../Pathfinder-RPG/Présentation des sorts.md#DUREE) à la place du premier pour maintenir un sort lancé ou un pouvoir magique utilisé par le chaman. Celui-ci peut alors agir librement et même se concentrer sur un autre sort ou pouvoir magique. Si le compagnon spirituel doit effectuer un test de [Concentration](./../Pathfinder-RPG/concentration.md), le modificateur pris en compte est celui du chaman. Le compagnon spirituel ne peut se concentrer que sur un seul sort ou pouvoir à la fois. Un chaman sans compagnon spirituel perd le bénéfice de ce pouvoir.
+À partir du niveau 10, le lien existant entre le chaman et son compagnon spirituel permet au second de se [[Pathfinder-RPG.Présentation des sorts#DUREE|concentrer]] à la place du premier pour maintenir un sort lancé ou un pouvoir magique utilisé par le chaman. Celui-ci peut alors agir librement et même se concentrer sur un autre sort ou pouvoir magique. Si le compagnon spirituel doit effectuer un test de [[Pathfinder-RPG.Concentration|Concentration]], le modificateur pris en compte est celui du chaman. Le compagnon spirituel ne peut se concentrer que sur un seul sort ou pouvoir à la fois. Un chaman sans compagnon spirituel perd le bénéfice de ce pouvoir.
 
 {s:Reference|RAPPELDELESPRIT}
 #### Rappel de l’esprit (Mag)
 
-À partir du niveau 11, le chaman peut, une fois par jour, utiliser une [quintessence](./../Pathfinder-RPG/Quintessence des sorts.md) de *[souffle de vie](./../Pathfinder-RPG/Souffle de vie.md)* sur une créature décédée.
+À partir du niveau 11, le chaman peut, une fois par jour, utiliser une [[Pathfinder-RPG.Quintessence des sorts|quintessence]] de *[[Pathfinder-RPG.Souffle de vie|souffle de vie]]* sur une créature décédée.
 
 {s:Reference|MAITREDEGUERRESPIRITUEL}
 #### Maître de guerre spirituel (Sur)
@@ -722,37 +722,37 @@ L’effet du châtiment des esprits persiste jusqu’à ce que la cible soit mor
 {s:Reference|EXORCISME}
 #### Exorcisme (Sur)
 
-À partir du niveau 13, le chaman peut exorciser les créatures possédées. Il doit pour ce faire accomplir un rituel requérant un contact avec la cible de l’exorcisme ainsi qu’un round de concentration ininterrompue. Au terme de cette durée, le chaman lance 1d20 auquel il ajoute son niveau de chaman ainsi que son modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md) et compare le résultat de ce test à un [DD](./../Pathfinder-RPG/DD.md) de 10 + nombre de [DV](./../Pathfinder-RPG/DV.md) de la créature possédant la cible de l’exorcisme + modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md) de cette créature. En cas de succès, la créature possédante est expulsée du corps de la créature possédée et ne peut plus tenter de la posséder à nouveau avant que 24 heures se soient écoulées. En cas d’échec, c’est le chaman qui doit attendre 24 heures avant de pouvoir tenter un nouvel exorcisme sur la même créature. Si le chaman exorcise une créature possédée par plusieurs entités, le résultat de son test est successivement comparé aux [DD](./../Pathfinder-RPG/DD.md) correspondant à chacune de ces entités, par ordre croissant. Le chaman doit avoir conscience de la présence de la créature possédante pour pouvoir pratiquer un exorcisme à son encontre.
+À partir du niveau 13, le chaman peut exorciser les créatures possédées. Il doit pour ce faire accomplir un rituel requérant un contact avec la cible de l’exorcisme ainsi qu’un round de concentration ininterrompue. Au terme de cette durée, le chaman lance 1d20 auquel il ajoute son niveau de chaman ainsi que son modificateur de [[Pathfinder-RPG.Charisme|Charisme]] et compare le résultat de ce test à un [[Pathfinder-RPG.DD|DD]] de 10 + nombre de [[Pathfinder-RPG.DV|DV]] de la créature possédant la cible de l’exorcisme + modificateur de [[Pathfinder-RPG.Charisme|Charisme]] de cette créature. En cas de succès, la créature possédante est expulsée du corps de la créature possédée et ne peut plus tenter de la posséder à nouveau avant que 24 heures se soient écoulées. En cas d’échec, c’est le chaman qui doit attendre 24 heures avant de pouvoir tenter un nouvel exorcisme sur la même créature. Si le chaman exorcise une créature possédée par plusieurs entités, le résultat de son test est successivement comparé aux [[Pathfinder-RPG.DD|DD]] correspondant à chacune de ces entités, par ordre croissant. Le chaman doit avoir conscience de la présence de la créature possédante pour pouvoir pratiquer un exorcisme à son encontre.
 
 {s:Reference|POSSESSION}
 #### Possession (Sur)
 
-À partir du niveau 15 et une fois par jour, lorsque le chaman se trouve sous forme spirituelle, il peut tenter de posséder une créature en pénétrant dans l’espace qu’elle occupe puis en dépensant une action simple. Sa cible doit alors effectuer un jet de [Volonté](./../Pathfinder-RPG/Volonté.md) contre un [DD](./../Pathfinder-RPG/DD.md) égal à 15 + modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md) du chaman. En cas de succès, le chaman est expulsé dans une case adjacente à la créature et celle-ci est désormais immunisée contre la possession par ce chaman pendant 24 heures. En cas d’échec, le chaman parvient à posséder sa cible. Exception faite de ce qui précède, cette capacité fonctionne de la même manière qu’un sort de *[possession](./../Pathfinder-RPG/Possession.md)* (avec un [NLS](./../Pathfinder-RPG/NLS.md) égal au niveau du chaman) ne nécessitant aucun réceptacle. La durée de possession n’est pas décomptée du temps que le chaman peut passer sous forme spirituelle chaque jour.
+À partir du niveau 15 et une fois par jour, lorsque le chaman se trouve sous forme spirituelle, il peut tenter de posséder une créature en pénétrant dans l’espace qu’elle occupe puis en dépensant une action simple. Sa cible doit alors effectuer un jet de [[Pathfinder-RPG.Volonté|Volonté]] contre un [[Pathfinder-RPG.DD|DD]] égal à 15 + modificateur de [[Pathfinder-RPG.Charisme|Charisme]] du chaman. En cas de succès, le chaman est expulsé dans une case adjacente à la créature et celle-ci est désormais immunisée contre la possession par ce chaman pendant 24 heures. En cas d’échec, le chaman parvient à posséder sa cible. Exception faite de ce qui précède, cette capacité fonctionne de la même manière qu’un sort de *[[Pathfinder-RPG.Possession|possession]]* (avec un [[Pathfinder-RPG.NLS|NLS]] égal au niveau du chaman) ne nécessitant aucun réceptacle. La durée de possession n’est pas décomptée du temps que le chaman peut passer sous forme spirituelle chaque jour.
 
 {s:Reference|COURROUXDESESPRITS}
 #### Courroux des esprits (Mag)
 
-À partir du niveau 16 et une fois par jour, le chaman peut déchaîner le courroux des esprits à l’encontre de ses ennemis. Il lui faut pour cela accomplir un rituel requérant un round de concentration ininterrompue afin d’invoquer un esprit vengeur, puis désigner une créature située à neuf mètres ou moins de lui. Celle-ci subit alors 10 points de dégâts par niveau du chaman, ou seulement 3d6 points de dégâts + 1 par niveau du chaman si elle réussit un jet de [Vigueur](./../Pathfinder-RPG/Vigueur.md) contre un [DD](./../Pathfinder-RPG/DD.md) égal à 18 + modificateur de [Charisme](./../Pathfinder-RPG/Charisme.md) du chaman. Au niveau 20, le courroux des esprits s’applique à tous les ennemis situés à neuf mètres ou moins du chaman. Le courroux des esprits est un [effet de mort](./../Pathfinder-RPG/Capacités spéciales.md#ATTAQUESMORT).
+À partir du niveau 16 et une fois par jour, le chaman peut déchaîner le courroux des esprits à l’encontre de ses ennemis. Il lui faut pour cela accomplir un rituel requérant un round de concentration ininterrompue afin d’invoquer un esprit vengeur, puis désigner une créature située à neuf mètres ou moins de lui. Celle-ci subit alors 10 points de dégâts par niveau du chaman, ou seulement 3d6 points de dégâts + 1 par niveau du chaman si elle réussit un jet de [[Pathfinder-RPG.Vigueur|Vigueur]] contre un [[Pathfinder-RPG.DD|DD]] égal à 18 + modificateur de [[Pathfinder-RPG.Charisme|Charisme]] du chaman. Au niveau 20, le courroux des esprits s’applique à tous les ennemis situés à neuf mètres ou moins du chaman. Le courroux des esprits est un [[Pathfinder-RPG.Capacités spéciales#ATTAQUESMORT|effet de mort]].
 
 {s:Reference|VOYAGESPIRITUEL}
 #### Voyage spirituel (Mag)
 
-À partir du niveau 17 et une fois par jour, le chaman peut voyager avec ses compagnons à travers le monde des esprits. Ce pouvoir fonctionne comme le sort *[traversée des ombres](./../Pathfinder-RPG/Traversée des ombres.md)*, si ce n’est que le chaman n’a pas besoin de se trouver dans une zone de faible luminosité pour l’utiliser et que le transit se fait par le [plan Éthéré](./../Pathfinder-RPG/Plans.md#PLANETHERE) (et non le [plan de l’Ombre](./../Pathfinder-RPG/Plans.md#PLANOMBRE)).
+À partir du niveau 17 et une fois par jour, le chaman peut voyager avec ses compagnons à travers le monde des esprits. Ce pouvoir fonctionne comme le sort *[[Pathfinder-RPG.Traversée des ombres|traversée des ombres]]*, si ce n’est que le chaman n’a pas besoin de se trouver dans une zone de faible luminosité pour l’utiliser et que le transit se fait par le [[Pathfinder-RPG.Plans#PLANETHERE|plan Éthéré]] (et non le [[Pathfinder-RPG.Plans#PLANOMBRE|plan de l’Ombre]]).
 
 {s:Reference|SEQUESTRATIONDESPRIT}
 #### Séquestration d’esprit (Mag)
 
-À partir du niveau 18 et une fois par jour, le chaman peut emprisonner un esprit dans une gemme. Ce pouvoir fonctionne comme le sort *[séquestration](./../Pathfinder-RPG/Séquestration.md)*, si ce n’est qu’il doit cibler un esprit.
+À partir du niveau 18 et une fois par jour, le chaman peut emprisonner un esprit dans une gemme. Ce pouvoir fonctionne comme le sort *[[Pathfinder-RPG.Séquestration|séquestration]]*, si ce n’est qu’il doit cibler un esprit.
 
 {s:Reference|TROMPELAMORT}
 #### Trompe-la-mort (Mag)
 
-À partir du niveau 19, le chaman peut utiliser le lien existant entre son compagnon spirituel et lui pour se prémunir contre la mort. Ce pouvoir s’active par un rituel d’une durée d’une heure, au cours duquel le chaman transmet une partie de son énergie vitale à son compagnon spirituel. Une fois cette heure écoulée, le chaman reçoit un [niveau négatif](./../Pathfinder-RPG/niveau négatif.md) qui ne peut être annulé et persiste jusqu’à ce qu’il mette un terme aux effets du rituel ou que son compagnon spirituel lui restitue son énergie vitale. Ceci se produit dès que les points de vie du chaman tombent en-dessous de 0 ou que sa [Constitution](./../Pathfinder-RPG/Constitution.md) est réduite à 0, auquel cas il bénéficie instantanément des effets d’un sort de *[guérison suprême](./../Pathfinder-RPG/Guérison suprême.md)* ([NLS](./../Pathfinder-RPG/NLS.md) égal au niveau du chaman), ce qui lui permet de rester en vie même s’il aurait normalement dû mourir. Si le compagnon spirituel du chaman est tué avant de lui avoir restitué son énergie vitale, le [niveau négatif](./../Pathfinder-RPG/niveau négatif.md) devient permanent. Un chaman sans compagnon spirituel ne peut pas utiliser ce pouvoir.
+À partir du niveau 19, le chaman peut utiliser le lien existant entre son compagnon spirituel et lui pour se prémunir contre la mort. Ce pouvoir s’active par un rituel d’une durée d’une heure, au cours duquel le chaman transmet une partie de son énergie vitale à son compagnon spirituel. Une fois cette heure écoulée, le chaman reçoit un [[Pathfinder-RPG.niveau négatif|niveau négatif]] qui ne peut être annulé et persiste jusqu’à ce qu’il mette un terme aux effets du rituel ou que son compagnon spirituel lui restitue son énergie vitale. Ceci se produit dès que les points de vie du chaman tombent en-dessous de 0 ou que sa [[Pathfinder-RPG.Constitution|Constitution]] est réduite à 0, auquel cas il bénéficie instantanément des effets d’un sort de *[[Pathfinder-RPG.Guérison suprême|guérison suprême]]* ([[Pathfinder-RPG.NLS|NLS]] égal au niveau du chaman), ce qui lui permet de rester en vie même s’il aurait normalement dû mourir. Si le compagnon spirituel du chaman est tué avant de lui avoir restitué son énergie vitale, le [[Pathfinder-RPG.niveau négatif|niveau négatif]] devient permanent. Un chaman sans compagnon spirituel ne peut pas utiliser ce pouvoir.
 
 {s:Reference|ELUDESESPRITS}
 #### Élu des esprits (Ext)
 
-Au niveau 20, le chaman appartient autant au monde des esprits qu’à celui des mortels. À partir de cet instant, il n’est plus considéré comme un [humanoïde](./../Pathfinder-RPG/type Humanoïde.md) mais comme une [fée](./../Pathfinder-RPG/type Fée.md) pour ce qui est des sorts et des effets magiques. De plus, le chaman acquiert une [réduction de dégâts](./../Pathfinder-RPG/RD.md) de 10/fer froid. Enfin, il peut utiliser *[communion](./../Pathfinder-RPG/Communion.md)* à volonté en tant que [pouvoir magique](./../Pathfinder-RPG/Capacités spéciales.md#TYPES), sans avoir à fournir la moindre [composante matérielle](./../Pathfinder-RPG/composante matérielle.md).
+Au niveau 20, le chaman appartient autant au monde des esprits qu’à celui des mortels. À partir de cet instant, il n’est plus considéré comme un [[Pathfinder-RPG.type Humanoïde|humanoïde]] mais comme une [[Pathfinder-RPG.type Fée|fée]] pour ce qui est des sorts et des effets magiques. De plus, le chaman acquiert une [[Pathfinder-RPG.RD|réduction de dégâts]] de 10/fer froid. Enfin, il peut utiliser *[[Pathfinder-RPG.Communion|communion]]* à volonté en tant que [[Pathfinder-RPG.Capacités spéciales#TYPES|pouvoir magique]], sans avoir à fournir la moindre [[Pathfinder-RPG.composante matérielle|composante matérielle]].
 
 
 
@@ -760,7 +760,7 @@ Au niveau 20, le chaman appartient autant au monde des esprits qu’à celui des
 **QU’EST-CE QU’UN ESPRIT ?**
 
 Le terme « esprit » désigne :
-- Les [élémentaires](./../Pathfinder-RPG/sous-type élémentaire.md)
-- Les [extérieurs](./../Pathfinder-RPG/type Extérieur.md) et [morts-vivants](./../Pathfinder-RPG/type Mort-vivant.md) [intangibles](./../Pathfinder-RPG/Intangible (capacité).md)
-- Les [fées](./../Pathfinder-RPG/type Fée.md)
-- Toute créature sous [forme astrale](./../Pathfinder-RPG/Projection astrale.md) ou [éthérée](./../Pathfinder-RPG/Forme éthérée.md) (mais pas celles physiquement présentes dans le [plan Astral](./../Pathfinder-RPG/Plans.md#PLANASTRAL) ou [Éthéré](./../Pathfinder-RPG/Plans.md#PLANETHERE)) )))
+- Les [[Pathfinder-RPG.sous-type élémentaire|élémentaires]]
+- Les [[Pathfinder-RPG.type Extérieur|extérieurs]] et [[Pathfinder-RPG.type Mort-vivant|morts-vivants]] [[Pathfinder-RPG.Intangible (capacité)|intangibles]]
+- Les [[Pathfinder-RPG.type Fée|fées]]
+- Toute créature sous [[Pathfinder-RPG.Projection astrale|forme astrale]] ou [[Pathfinder-RPG.Forme éthérée|éthérée]] (mais pas celles physiquement présentes dans le [[Pathfinder-RPG.Plans#PLANASTRAL|plan Astral]] ou [[Pathfinder-RPG.Plans#PLANETHERE|Éthéré]]) )))

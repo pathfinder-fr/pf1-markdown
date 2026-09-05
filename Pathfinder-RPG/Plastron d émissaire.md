@@ -8,10 +8,10 @@ Title: Plastron d'émissaire
 
 <div class="BD">
 {s:BDTitre|Plastron d'émissaire{s:HotS}}
-**Auras** : [Transmutation](./Transmutation.md) faible   ; **NLS** : 5  ; **Prix** : 11,350 po
+**Auras** : [[Transmutation]] faible   ; **NLS** : 5  ; **Prix** : 11,350 po
 (((Caractéristiques)))
-Quand il n'est pas porté, ce plastron +1 en acier apparaît comme une armure magique typique. Quand il est porté par le Chevalier avec l'aptitude de classe Bannière, le plastron d'émissaire automatiquement affiche l'héraldique du chevalier et compte comme sa bannière. Tant que le chevalier n'est pas déguisé, il est considéré comme "affichant sa bannière" en portant l'armure. Additionnellement, il peut utiliser une utilisation de votre Défi pour parler au nom de lui-même, son lord, ou un autre agent qui lui a donné l'autorité de le faire. Cela lui permet d'utiliser [Don des langues](./Don des langues.md) et émettre un seul ordre comme le sort [Injonction](./Injonction.md).
+Quand il n'est pas porté, ce plastron +1 en acier apparaît comme une armure magique typique. Quand il est porté par le Chevalier avec l'aptitude de classe Bannière, le plastron d'émissaire automatiquement affiche l'héraldique du chevalier et compte comme sa bannière. Tant que le chevalier n'est pas déguisé, il est considéré comme "affichant sa bannière" en portant l'armure. Additionnellement, il peut utiliser une utilisation de votre Défi pour parler au nom de lui-même, son lord, ou un autre agent qui lui a donné l'autorité de le faire. Cela lui permet d'utiliser [[Don des langues]] et émettre un seul ordre comme le sort [[Injonction]].
 (((Création)))
-[Création d'armes et armures magiques](./Création darmes et armures magiques.md), [Signature magique](./Signature magique.md), [Injonction](./Injonction.md), [Don des langues](./Don des langues.md), le créateur doit avoir 5 rangs en Connaissances(Noblesse)
+[[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Signature magique]], [[Injonction]], [[Don des langues]], le créateur doit avoir 5 rangs en Connaissances(Noblesse)
 **Prix** : 5,850 po
 </div>

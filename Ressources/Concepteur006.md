@@ -6,7 +6,7 @@ Categories:
 - Blog des concepteurs
 ---
 
-<p class="description">Traduction d'un [article](http://paizo.com/paizo/blog/v5748dyo5lc94) de Stephen Radney-MacFarland paru sur le blog de Paizo — retour au [Blog des concepteurs](./Blog des concepteurs.md)</p>
+<p class="description">Traduction d'un [article](http://paizo.com/paizo/blog/v5748dyo5lc94) de Stephen Radney-MacFarland paru sur le blog de Paizo — retour au [[Blog des concepteurs]]</p>
 
 <p class="question"><span>S</span>e relever provoque une attaque d'opportunité. Je peux tenter de faire un croc-en-jambe à une créature au cours d'une attaque d'opportunité. Puis-je utiliser une manœuvre de croc-en-jambe pour garder mon adversaire au sol ?</p>
 En un mot, non. C'est de loin la question qui revient le plus souvent au sujet des manœuvres de combat. Certaines personnes tentent d'utiliser cette tactique au cours des partie, et c'est compréhensible : c'est une combinaison puissante. Trop puissante, et c'est pour cela qu'il y a des considérations de séquentialité à prendre en compte lorsqu'une créature tente de se relever et provoque l'attaque d'opportunité.

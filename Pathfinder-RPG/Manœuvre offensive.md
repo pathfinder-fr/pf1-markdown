@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Vocabulaire courant#MANOEUVREOFFENSIVE
 ---
 
->>> [Vocabulaire courant#MANOEUVREOFFENSIVE](./Vocabulaire courant.md#MANOEUVREOFFENSIVE)
+>>> [[Vocabulaire courant#MANOEUVREOFFENSIVE]]

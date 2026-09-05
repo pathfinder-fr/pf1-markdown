@@ -14,22 +14,22 @@ Ci-dessous vous trouverez les connexions le plus souvent associées aux mystique
 | Nom
 | Niv
 |- CLASS="premier"
-| [Savoir Akashique](./Akashique.md#SAVOIRAKASHIQUE)
+| [[Akashique#SAVOIRAKASHIQUE|Savoir Akashique]]
 | 1
-| [Accès aux Archives Akashiques](./Akashique.md#ACCESAUXARCHIVESAKASHIQUES)
+| [[Akashique#ACCESAUXARCHIVESAKASHIQUES|Accès aux Archives Akashiques]]
 | 3
 |-
-| [Vision de l'avenir](./Akashique.md#VISIONDELAVENIR)
+| [[Akashique#VISIONDELAVENIR|Vision de l'avenir]]
 | 6
-| [Sonde mentale](./Akashique.md#SONDEMENTAL)
+| [[Akashique#SONDEMENTAL|Sonde mentale]]
 | 9
 |-
-| [Mémoires télépathiques](./Akashique.md#MEMOIRESTELEPATHIQUES)
+| [[Akashique#MEMOIRESTELEPATHIQUES|Mémoires télépathiques]]
 | 12
-| [Palais mémoriel](./Akashique.md#PALAISMEMORIEL)
+| [[Akashique#PALAISMEMORIEL|Palais mémoriel]]
 | 15
 |-
-| [Emprunt de sort](./Akashique.md#EMPRUNTDESORT)
+| [[Akashique#EMPRUNTDESORT|Emprunt de sort]]
 | 18
 |}
 </left>
@@ -43,22 +43,22 @@ Ci-dessous vous trouverez les connexions le plus souvent associées aux mystique
 | Nom
 | Niv
 |- CLASS="premier"
-| [Empathie](./../Pathfinder-RPG/Empathe.md#EMPATHIE)
+| [[Empathe#EMPATHIE|Empathie]]
 | 1
-| [Lien mental supérieur](./../Pathfinder-RPG/Empathe.md#LIENMENTALSUPERIEUR)
+| [[Empathe#LIENMENTALSUPERIEUR|Lien mental supérieur]]
 | 3
 |-
-| [Détection des émotions](./../Pathfinder-RPG/Empathe.md#DETECTIONDESEMOTIONS)
+| [[Empathe#DETECTIONDESEMOTIONS|Détection des émotions]]
 | 6
-| [Détection des mensonges](./../Pathfinder-RPG/Empathe.md#DETECTIONDESMENSONGES)
+| [[Empathe#DETECTIONDESMENSONGES|Détection des mensonges]]
 | 9
 |-
-| [Détection des émotions supérieure](./../Pathfinder-RPG/Empathe.md#DETECTIONDESEMOTIONSSUPERIEURE)
+| [[Empathe#DETECTIONDESEMOTIONSSUPERIEURE|Détection des émotions supérieure]]
 | 12
-| [Rétrocognition](./../Pathfinder-RPG/Empathe.md#RETROCOGNITION)
+| [[Empathe#RETROCOGNITION|Rétrocognition]]
 | 15
 |-
-| [Maîtrise empathique](./../Pathfinder-RPG/Empathe.md#EMPRUNTDESORT)
+| [[Empathe#EMPRUNTDESORT|Maîtrise empathique]]
 | 18
 |}
 </center>
@@ -71,22 +71,22 @@ Ci-dessous vous trouverez les connexions le plus souvent associées aux mystique
 | Nom
 | Niv
 |- CLASS="premier"
-| [Focalisation curative](./Guérisseur.md#FOCALISATIONCURATIVE)
+| [[Guérisseur#FOCALISATIONCURATIVE|Focalisation curative]]
 | 1
-| [Lien de vie](./Guérisseur.md#LIENDEVIE)
+| [[Guérisseur#LIENDEVIE|Lien de vie]]
 | 3
 |-
-| [Lien du guérisseur](./Guérisseur.md#LIENDUGUERISSEUR)
+| [[Guérisseur#LIENDUGUERISSEUR|Lien du guérisseur]]
 | 6
-| [Vol de vie](./Guérisseur.md#VOLDEVIE)
+| [[Guérisseur#VOLDEVIE|Vol de vie]]
 | 9
 |-
-| [Lien de focalisation](./Guérisseur.md#LIENDEFOCALISATION)
+| [[Guérisseur#LIENDEFOCALISATION|Lien de focalisation]]
 | 12
-| [Focalisation de la vie](./Guérisseur.md#FOCALISATIONDELAVIE)
+| [[Guérisseur#FOCALISATIONDELAVIE|Focalisation de la vie]]
 | 15
 |-
-| [Refuser la mort](./Guérisseur.md#REFUSERLAMORT)
+| [[Guérisseur#REFUSERLAMORT|Refuser la mort]]
 | 18
 |}
 </right>

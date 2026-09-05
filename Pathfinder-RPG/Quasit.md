@@ -14,11 +14,11 @@ Categories:
 {s:pucem|Extérieur|Ruines-Donjons|Extraplanaire}
 {s:BDTexte|*Source : Bestiaire p.70*}
 {s:BDTexte|**PX** 600}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([Chaos](./sous-type Chaos.md), [démon](./sous-type démon.md), [extraplanaire](./sous-type extraplanaire.md), [Mal](./sous-type Mal.md)) de taille TP, CM}
-{s:BDTexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +7}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]]) de taille TP, CM}
+{s:BDTexte|**Init** +6 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +7}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 16, contact 14, pris au dépourvu 14 (Dex +2, naturelle +2, taille +2)}
-{s:BDTexte|**pv** 16 (3d10) ; [guérison accélérée](./guérison accélérée.md) 2}
+{s:BDTexte|**pv** 16 (3d10) ; [[guérison accélérée]] 2}
 {s:BDTexte|**Réf** +5, **Vig** +1, **Vol** +4}
 {s:BDTexte|**Immunités** électricité, poison ; **RD** 5/fer froid ou Bien ; **Résistances** acide 10, feu 10, froid 10 }
 {s:BDSousTitre|Attaque}
@@ -26,26 +26,26 @@ Categories:
 {s:BDTexte|**Corps à corps** 2 griffes +7 (1d3-1 et poison), morsure +7 (1d4-1)}
 {s:BDTexte|**Espace** 0,75 m (1/2 {s:c}) ; **Allonge** 0}
 {s:BDTexte|**Pouvoirs magiques** (NLS 6<sup>e</sup>)}
-{s:BDSorts|À volonté — *[détection de la magie](./Détection de la magie.md)*, *[détection du Bien](./Détection du Bien.md)*, *[invisibilité](./Invisibilité.md)* (sur lui-même uniquement)}
-{s:BDSorts|1/jour — *[frayeur](./Frayeur.md)* (9 m (6 {s:c}) de rayon DD 11)}
-{s:BDSorts|1/semaine — *[communion](./Communion.md)* (six questions)}
+{s:BDSorts|À volonté — *[[détection de la magie]]*, *[[détection du Bien]]*, *[[invisibilité]]* (sur lui-même uniquement)}
+{s:BDSorts|1/jour — *[[frayeur]]* (9 m (6 {s:c}) de rayon DD 11)}
+{s:BDSorts|1/semaine — *[[communion]]* (six questions)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 14, **Con** 11, **Int** 11, **Sag** 12, **Cha** 11}
 {s:BDTexte|**BBA** +3, **BMO** +0, **DMD** 12}
-{s:BDTexte|**Dons** [Attaque en finesse](./Attaque en finesse.md), [Science de l'initiative](./Science de linitiative.md)}
-{s:BDTexte|**Compétences** [Bluff](./Bluff.md) +6, [Connaissances](./Connaissances.md) (plans) +6, [Discrétion](./Discrétion.md) +16, [Intimidation](./Intimidation.md) +6, [Perception](./Perception.md) +7, [Vol](./Vol.md) +20}
-{s:BDTexte|**Langues** abyssal, commun ; [télépathie](./Télépathie.md) (au contact)}
-{s:BDTexte|**Particularités** [changement de forme](./Changement de forme (capacité).md) (deux formes parmi: [chauve-souris](./Chauve-souris.md), [mille-pattes](./Mille-pattes géant.md) de taille P, [crapaud](./Crapaud.md) ou [loup](./Loup.md); *[métamorphose](./métamorphose.md)*)}
+{s:BDTexte|**Dons** [[Attaque en finesse]], [[Science de linitiative|Science de l'initiative]]}
+{s:BDTexte|**Compétences** [[Bluff]] +6, [[Connaissances]] (plans) +6, [[Discrétion]] +16, [[Intimidation]] +6, [[Perception]] +7, [[Vol]] +20}
+{s:BDTexte|**Langues** abyssal, commun ; [[télépathie]] (au contact)}
+{s:BDTexte|**Particularités** [[changement de forme (Capacité)|changement de forme]] (deux formes parmi: [[chauve-souris]], [[mille-pattes géant|mille-pattes]] de taille P, [[crapaud]] ou [[loup]]; *[[métamorphose]]*)}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** quelconque (Abysse)}
 {s:BDTexte|**Organisation sociale** solitaire ou vol (2-12)}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Particularités}
-{s:BDTexte|**Poison (Ext)** Griffe - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d2 [Dex](./Dextérité.md) ; *guérison* 2 réussites consécutives. Le DD inclut un bonus racial de +2.}
+{s:BDTexte|**Poison (Ext)** Griffe - blessure ; *JS* [[Vigueur]] [[DD]] 13 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d2 [[Dextérité|Dex]] ; *guérison* 2 réussites consécutives. Le DD inclut un bonus racial de +2.}
 </div>
 
 {s:ImageCentre|Bestiaire/Quasit.jpg|70%}
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [démons](./Démon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Démon|démons]].***</li></ul>
 ''Des cornes de bélier ornent la tête difforme de ce minuscule démon ailé
 au corps fin et agile.''
 

@@ -7,7 +7,7 @@ LastModified: 2021-08-02 04:55
 ''Les étoiles régissent le mouvement des planètes avec leur force gravitationnelle, engendrent la vie par leur lumière et par leur chaleur et consument les mondes quand elles se transforment en supernovas ou en trous noirs. Vous savez que ces actes de création et de destruction ne sont pas en opposition mais que ce sont les deux composantes d’un cycle naturel. Vous aspirez à être un agent de ce cycle, un guerrier éclair ayant la capacité de manipuler la puissance même des étoiles. Ayant toujours à
 votre disposition des particules d’énergie fondamentale ou entropique, vous pouvez manipuler cette essence en combat pour créer des armes et des armures de lumière stellaire ou de ténèbres dévorantes. Que vous ayez été formé dans un temple ou que vous ayez découvert seul votre puissance, vous vous reconnaissez comme partie intégrante d’une ancienne tradition, une force de préservation et d’annihilation.''
 
-<div class="fright">***Voir aussi les [révélations stellaires](./RÉVÉLATIONS-STELLAIRES.md).***  
+<div class="fright">***Voir aussi les [[RÉVÉLATIONS STELLAIRES]].***  
 
 </ul></div>
   
@@ -32,7 +32,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +2
 | +0
 | +2
-| CLASS="gauche" | [Adepte compétent](./Solarien.md#ADEPTECOMPÉTANT), [manifestation solaire](./Solarien.md#POUVOIRDECONNEXION), [mode stellaire](./Solarien.md#MODESTELLAIRE), [révélation stellaire (trou noir, supernova](./Solarien.md#RÉVÉLATIONSTELLAIRE)
+| CLASS="gauche" | [[Solarien#ADEPTECOMPÉTANT|Adepte compétent]], [[Solarien#POUVOIRDECONNEXION|manifestation solaire]], [[Solarien#MODESTELLAIRE|mode stellaire]], [[Solarien#RÉVÉLATIONSTELLAIRE|révélation stellaire (trou noir, supernova]]
 | CA +1
 | 1d6
 |- CLASS="alt"
@@ -41,7 +41,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +3
 | +0
 | +3
-| CLASS="gauche" | [Révélation stellaire](./Solarien.md#RÉVÉLATIONSTELLAIRE)
+| CLASS="gauche" | [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]
 | CA +1
 | 1d6
 |-
@@ -50,7 +50,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +3
 | +1
 | +3
-| CLASS="gauche" | [Spécialisation martiale](./Solarien.md#SPECIALISATIONMARTIALE), [Influence sidérale (2 compétences](./Solarien.md#INFLUENCESIDÉRALE)
+| CLASS="gauche" | [[Solarien#SPECIALISATIONMARTIALE|Spécialisation martiale]], [[Solarien#INFLUENCESIDÉRALE|Influence sidérale (2 compétences]]
 | CA +1
 | 1d6
 |- CLASS="alt"
@@ -59,7 +59,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +4
 | +1
 | +4
-| CLASS="gauche" | [Révélation stellaire](./Solarien.md#RÉVÉLATIONSTELLAIRE)
+| CLASS="gauche" | [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]
 | CA +1
 | 1d6
 |- CLASS="alt"
@@ -68,7 +68,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +4
 | +1
 | +4
-| CLASS="gauche" | [-](./-.md)
+| CLASS="gauche" | [[-]]
 | CA +1, résistance 5
 | 1d6
 |- CLASS="alt"
@@ -77,7 +77,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +5
 | +2
 | +5
-| CLASS="gauche" | [Révélation stellaire](./Solarien.md#RÉVÉLATIONSTELLAIRE)
+| CLASS="gauche" | [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]
 | CA +1, résistance 5
 | 2d6
 |-
@@ -86,7 +86,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +5
 | +2
 | +5
-| CLASS="gauche" | [Attaques foudroyantes](./Solarien.md#ATTAQUESFOUDROYANTES)
+| CLASS="gauche" | [[Solarien#ATTAQUESFOUDROYANTES|Attaques foudroyantes]]
 | CA +1, résistance 5
 | 2d6
 |- CLASS="alt"
@@ -95,7 +95,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +6
 | +2
 | +6
-| CLASS="gauche" | [Révélation stellaire](./Solarien.md#RÉVÉLATIONSTELLAIRE)
+| CLASS="gauche" | [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]
 | CA +1, résistance 5
 | 2d6
 |-
@@ -104,7 +104,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +6
 | +3
 | +6
-| CLASS="gauche" | [Révélations ultimes](./Solarien.md#RÉVÉLATIONSULTIMES)
+| CLASS="gauche" | [[Solarien#RÉVÉLATIONSULTIMES|Révélations ultimes]]
 | CA +1, résistance 5
 | 3d6
 |- CLASS="alt"
@@ -113,7 +113,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +7
 | +3
 | +7
-| CLASS="gauche" | [Révélation stellaire](./Solarien.md#RÉVÉLATIONSTELLAIRE)
+| CLASS="gauche" | [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]
 | CA +2, résistance 10
 | 3d6
 |-
@@ -122,7 +122,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +7
 | +3
 | +7
-| CLASS="gauche" | [Influence sidérale (4 compétences](./Solarien.md#INFLUENCESIDÉRALE)
+| CLASS="gauche" | [[Solarien#INFLUENCESIDÉRALE|Influence sidérale (4 compétences]]
 | CA +2, résistance 10
 | 3d6
 |- CLASS="alt"
@@ -131,7 +131,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +8
 | +4
 | +8
-| CLASS="gauche" | [Révélation stellaire](./Solarien.md#RÉVÉLATIONSTELLAIRE)
+| CLASS="gauche" | [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]
 | CA +2, résistance 10
 | 4d6
 |-
@@ -140,7 +140,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +8
 | +4
 | +8
-| CLASS="gauche" | [Assaut du solarien](./Solarien.md#ASSAUTDUSOLARIEN)
+| CLASS="gauche" | [[Solarien#ASSAUTDUSOLARIEN|Assaut du solarien]]
 | CA +2, résistance 10
 | 5d6
 |- CLASS="alt"
@@ -149,7 +149,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +9
 | +4
 | +9
-| CLASS="gauche" | [Révélation stellaire](./Solarien.md#RÉVÉLATIONSTELLAIRE)
+| CLASS="gauche" | [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]
 | CA +2, résistance 10
 | 6d6
 |-
@@ -158,7 +158,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +9
 | +5
 | +9
-| CLASS="gauche" | [-](./-.md)
+| CLASS="gauche" | [[-]]
 | CA +2, résistance 15
 | 7d6
 |- CLASS="alt"
@@ -167,7 +167,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +10
 | +5
 | +10
-| CLASS="gauche" | [Révélation stellaire](./Solarien.md#RÉVÉLATIONSTELLAIRE)
+| CLASS="gauche" | [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]
 | CA +2, résistance 15
 | 8d6
 |-
@@ -176,7 +176,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +10
 | +5
 | +10
-| CLASS="gauche" | [Révélations ultimes](./Solarien.md#RÉVÉLATIONSULTIMES)
+| CLASS="gauche" | [[Solarien#RÉVÉLATIONSULTIMES|Révélations ultimes]]
 | CA +2, résistance 15
 | 9d6
 |- CLASS="alt"
@@ -185,7 +185,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +11
 | +6
 | +11
-| CLASS="gauche" | [Révélation stellaire](./Solarien.md#RÉVÉLATIONSTELLAIRE)
+| CLASS="gauche" | [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]
 | CA +2, résistance 15
 | 10d6
 |-
@@ -194,7 +194,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +11
 | +6
 | +11
-| CLASS="gauche" | [Influence sidérale (6 compétences](./Solarien.md#INFLUENCESIDÉRALE)
+| CLASS="gauche" | [[Solarien#INFLUENCESIDÉRALE|Influence sidérale (6 compétences]]
 | CA +2, résistance 15
 | 11d6
 |- CLASS="alt"
@@ -203,7 +203,7 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 | +12
 | +6
 | +12
-| CLASS="gauche" | [Parangon stellaire](./Solarien.md#PARANGONSTELLAIRE), [Révélation stellaire](./Solarien.md#RÉVÉLATIONSTELLAIRE)
+| CLASS="gauche" | [[Solarien#PARANGONSTELLAIRE|Parangon stellaire]], [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]
 | CA +2, résistance 20
 | 12d6
 |}

@@ -13,32 +13,32 @@ Categories:
 - Src Manuel des joueurs
 ---
 
-**École** [Transmutation](./Transmutation.md) ; **Niveau**  [Con](./Conjurateur.md) 3, [ConU](./conjurateur unchained.md) 4, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 4, [Magus](./Magus.md) 4, [Psy](./Psychiste.md) 4, [San](./Sanguin.md) 4  
+**École** [[Transmutation]] ; **Niveau**  [[Conjurateur|Con]] 3, [[Conjurateur unchained|ConU]] 4, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 4, [[Magus]] 4, [[Psychiste|Psy]] 4, [[Sanguin|San]] 4  
 
-**Temps d'incantation** 1 [round](./round.md)  
+**Temps d'incantation** 1 [[round]]  
 
-**Composantes** [V, G, M](./composantes.md) (une pincée de poudre de fer)  
+**Composantes** [[COMPOSANTES|V, G, M]] (une pincée de poudre de fer)  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
-**Cible** 1 créature [humanoïde](./type Humanoïde.md)/[niveau](./niveau.md), chacune ne devant pas se trouver à plus de 9 m des autres  
+**Cible** 1 créature [[type humanoïde|humanoïde]]/[[niveau]], chacune ne devant pas se trouver à plus de 9 m des autres  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Ce sort fait grossir les créatures [humanoïdes](./type Humanoïde.md) affectées instantanément, doublant leur taille et multipliant leur poids par huit. Leurs [catégories de taille](./Petites et grandes créatures.md#TABLEAUTAILLES) augmentent alors d’un cran. Les cibles reçoivent un bonus de taille de +2 en [Force](./Force.md), un malus de taille de -2 en [Dextérité](./Dextérité.md) (1 minimum), et un malus de -1 aux [jets d’attaque](./jet dattaque.md) et à la [CA](./CA.md) du fait de leur nouvelle taille.
+Ce sort fait grossir les créatures [[type humanoïde|humanoïdes]] affectées instantanément, doublant leur taille et multipliant leur poids par huit. Leurs [[Petites et grandes créatures#TABLEAUTAILLES|catégories de taille]] augmentent alors d’un cran. Les cibles reçoivent un bonus de taille de +2 en [[Force]], un malus de taille de -2 en [[Dextérité]] (1 minimum), et un malus de -1 aux [[jet dattaque|jets d’attaque]] et à la [[CA]] du fait de leur nouvelle taille.
 
-Une créature [humanoïde](./type Humanoïde.md) de [taille G](./taille G.md) affiche un espace occupé et une [allonge](./allonge.md) naturelle de 3 m. Par contre, la [vitesse de déplacement](./vitesse de déplacement.md) du sujet n’est pas modifiée par le sort.
+Une créature [[type humanoïde|humanoïde]] de [[taille G]] affiche un espace occupé et une [[allonge]] naturelle de 3 m. Par contre, la [[vitesse de déplacement]] du sujet n’est pas modifiée par le sort.
 
-Si la place requise ne suffit pas, les créatures atteignent la taille maximale possible et peuvent effectuer un test de [Force](./Force.md) (en tenant compte de la nouvelle valeur) pour briser toute entrave. En cas d’échec, elle sont bloquées mais ne sont pas blessées. Le sort ne permet donc pas d’écraser des créatures en les faisant grandir.
+Si la place requise ne suffit pas, les créatures atteignent la taille maximale possible et peuvent effectuer un test de [[Force]] (en tenant compte de la nouvelle valeur) pour briser toute entrave. En cas d’échec, elle sont bloquées mais ne sont pas blessées. Le sort ne permet donc pas d’écraser des créatures en les faisant grandir.
 
-Tout ce que porte les cibles affectées grandit avec elles. Les armes de corps à corps infligent davantage de dégâts (voir le [paragraphe suivant](./Caractéristiques des armes.md#TAILLEARME)) mais leurs propriétés magiques ne varient pas. Si elles lâchent l’un de ses objets agrandis (ce qui inclut projectiles et armes de jet), ce dernier recouvre sa taille normale instantanément. Les armes de jet et les projectiles infligent des dégâts normaux. Les propriétés magiques des objets agrandis ne sont pas modifiées par ce sort.
+Tout ce que porte les cibles affectées grandit avec elles. Les armes de corps à corps infligent davantage de dégâts (voir le [[Caractéristiques des armes#TAILLEARME|paragraphe suivant]]) mais leurs propriétés magiques ne varient pas. Si elles lâchent l’un de ses objets agrandis (ce qui inclut projectiles et armes de jet), ce dernier recouvre sa taille normale instantanément. Les armes de jet et les projectiles infligent des dégâts normaux. Les propriétés magiques des objets agrandis ne sont pas modifiées par ce sort.
 
 Les effets magiques augmentant la taille du sujet ne sont pas cumulatifs.
 
-*Agrandissement de groupe* contre et dissipe *[rapetissement de groupe](./Rapetissement de groupe.md)*.
+*Agrandissement de groupe* contre et dissipe *[[rapetissement de groupe]]*.
 
-Il est possible d’user de *[permanence](./Permanence.md)* sur un sort d’*agrandissement de groupe*.
+Il est possible d’user de *[[permanence]]* sur un sort d’*agrandissement de groupe*.
 
-(((Ce sort est similaire à *[agrandissement](./Agrandissement.md)*, si ce n’est qu’il affecte plusieurs créatures.)))
+(((Ce sort est similaire à *[[agrandissement]]*, si ce n’est qu’il affecte plusieurs créatures.)))

@@ -7,6 +7,6 @@ Categories:
 - Taldor
 ---
 
-Cette chaîne de montagnes du [Taldor](./Taldor.md) sépare les grandes [Plaines Sifflantes](./Plaines Sifflantes.md) de l'est du reste du pays. Le Bord du Monde est séparé de la [Chaîne du Sud](./Chaîne du Sud.md) par la [Trouée de Porthmos](./Trouée de Porthmos.md).
+Cette chaîne de montagnes du [[Taldor]] sépare les grandes [[Plaines Sifflantes]] de l'est du reste du pays. Le Bord du Monde est séparé de la [[Chaîne du Sud]] par la [[Trouée de Porthmos]].
 
-De nombreux vestiges de la présence des [Azlantes](./Azlante.md) sur le territoire y sont visibles dont la Vallée des Azlantes et l'Oeil d'[Aroden](./Aroden.md), certainement les plus connus et les plus visités d'entre eux.
+De nombreux vestiges de la présence des [[Golarion.Azlante|Azlantes]] sur le territoire y sont visibles dont la Vallée des Azlantes et l'Oeil d'[[Aroden]], certainement les plus connus et les plus visités d'entre eux.

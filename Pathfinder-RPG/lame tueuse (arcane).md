@@ -7,4 +7,4 @@ Categories:
 RedirectTo: arcanes#LAMETUEUSE
 ---
 
->>> [arcanes#LAMETUEUSE](./arcanes.md#LAMETUEUSE)
+>>> [[arcanes#LAMETUEUSE]]

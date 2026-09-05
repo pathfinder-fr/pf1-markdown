@@ -11,8 +11,8 @@ Categories:
 
 {s:apg}*Le personnage peut choisir d’ajouter aux effets de ses sorts de puissants coups de tonnerre ou des cris de terreur qui assourdissent les créatures blessées.*
 
-**Catégorie :** [métamagie](./Dons.md#METAMAGIE)
+**Catégorie :** [[Dons#METAMAGIE|métamagie]]
 
-**Avantage.** Le personnage peut modifier un sort de sorte qu’il assourdisse les créatures auxquelles il inflige des dégâts. Les créatures blessées par le sort sont [assourdies](./sourd.md) pendant un nombre de rounds égal au niveau initial du sort. Si le sort autorise un [jet de sauvegarde](./jet de sauvegarde.md), l’effet assourdissant est annulé en cas de réussite. Si le sort n’autorise pas de jet de sauvegarde, la cible bénéficie d’un jet de [Vigueur](./Vigueur.md) pour annuler l’effet d’assourdissement. Si l’effet normal du sort consiste déjà à assourdir les cibles, la durée de l’effet métamagique s’ajoute à celle du sort. Un sort tonitruant occupe un [emplacement de sort](./emplacement de sort.md) de deux niveaux de plus que le niveau normal du sort.
+**Avantage.** Le personnage peut modifier un sort de sorte qu’il assourdisse les créatures auxquelles il inflige des dégâts. Les créatures blessées par le sort sont [[sourd|assourdies]] pendant un nombre de rounds égal au niveau initial du sort. Si le sort autorise un [[jet de sauvegarde]], l’effet assourdissant est annulé en cas de réussite. Si le sort n’autorise pas de jet de sauvegarde, la cible bénéficie d’un jet de [[Vigueur]] pour annuler l’effet d’assourdissement. Si l’effet normal du sort consiste déjà à assourdir les cibles, la durée de l’effet métamagique s’ajoute à celle du sort. Un sort tonitruant occupe un [[emplacement de sort]] de deux niveaux de plus que le niveau normal du sort.
 
 Les sorts qui n’infligent pas de dégâts ne peuvent pas être modifiés par ce don.

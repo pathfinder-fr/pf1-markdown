@@ -9,9 +9,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Masque d’aspect|{s:MCA}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 3 ; **Emplacement** [tête](./Objets merveilleux portés sur la tête.md) ; **Prix** 6 500 po ; **Poids** 1 kg
+**Aura** [[Transmutation]] faible ; **NLS** 3 ; **Emplacement** [[Objets merveilleux portés sur la tête|tête]] ; **Prix** 6 500 po ; **Poids** 1 kg
 (((Description)))
-Ce masque en cuir aux traits vaguement animaux est incrusté de différents motifs primitifs. Trois fois par jour, sur commande, le personnage profite des avantages d’un seul aspect d’un animal harmonisé au masque, comme pour le pouvoir de classe du chasseur [imitation animale](./Chasseur.md#IMITATIONANIMALE). Chaque masque est harmonisé à un type d’animal de la liste des imitations animales, au moment de la création du masque.
+Ce masque en cuir aux traits vaguement animaux est incrusté de différents motifs primitifs. Trois fois par jour, sur commande, le personnage profite des avantages d’un seul aspect d’un animal harmonisé au masque, comme pour le pouvoir de classe du chasseur [[chasseur#IMITATIONANIMALE|imitation animale]]. Chaque masque est harmonisé à un type d’animal de la liste des imitations animales, au moment de la création du masque.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), le créateur doit posséder le pouvoir de classe [imitation animale](./Chasseur.md#IMITATIONANIMALE) ou [forme animale](./Forme animale.md) ; **Coût** 3 250 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], le créateur doit posséder le pouvoir de classe [[chasseur#IMITATIONANIMALE|imitation animale]] ou [[forme animale]] ; **Coût** 3 250 po
 </div>

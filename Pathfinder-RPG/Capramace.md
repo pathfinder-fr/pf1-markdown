@@ -13,8 +13,8 @@ Categories:
 {s:pucem|Aberration|Plaines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 5 p.52*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Aberration](./type Aberration.md) de taille G, N}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +10}
+{s:BDTexte|[[type Aberration|Aberration]] de taille G, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m ; [[Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 18, contact 10, pris au dépourvu 17 (Dex +1, naturelle +8, taille -1)}
 {s:BDTexte|**pv** 85 (9d8+45)}
@@ -26,18 +26,18 @@ Categories:
 {s:BDTexte|**Attaques spéciales** cri rageur, maladie}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 13, **Con** 18, **Int** 1, **Sag** 14, **Cha** 5}
-{s:BDTexte|**BBA** +6 ; **BMO** +15 (+17 en [bousculade](./bousculade.md)) ; **DMD** 26 (28 contre la [bousculade](./bousculade.md))}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Réflexes surhumains](./Réflexes surhumains.md), [Robustesse](./Robustesse.md), [Science de la bousculade](./Science de la bousculade.md), [Vigueur surhumaine](./Vigueur surhumaine.md)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +15, [Perception](./Perception.md) +10}
+{s:BDTexte|**BBA** +6 ; **BMO** +15 (+17 en [[bousculade]]) ; **DMD** 26 (28 contre la [[bousculade]])}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Réflexes surhumains]], [[Robustesse]], [[Science de la bousculade]], [[Vigueur surhumaine]]}
+{s:BDTexte|**Compétences** [[Escalade]] +15, [[Perception]] +10}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** plaines tempérées}
 {s:BDTexte|**Organisation** solitaire, meute (2-11) ou troupeau (12-25)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Cri rageur (Sur).** Une fois par jour, par une [action simple](./Action simple.md), un capramace peut ouvrir grand sa gueule et pousser un cri horrible et assourdissant pour rameuter sa harde. Poursuivre un cri rageur au-delà du premier [round](./round.md) est une [action libre](./Action libre.md) et la durée d’un cri rageur prolongé n’est pas limitée. Les créatures autres que les capramaces, situées à 36 mètres ou moins et qui ratent un jet de [Vigueur](./Vigueur.md) [DD](./DD.md) 18 sont [assourdies](./Assourdi.md) aussi longtemps que le capramace pousse son cri et pendant 1d4 minutes par la suite.}
-{s:BDTexte|* Tous les autres capramaces situés à 1,5 kilomètre ou moins entendent ce cri haut perché quels que soient les bruits environnants, et réagissent instinctivement en sprintant vers le capramace qui le pousse. Ils se déplacent aussi vite que possible vers le capramace tant que celui-ci continue de pousser son cri rageur. On considère qu’un capramace qui se déplace vers l’origine d’un cri rageur possède le don [Course](./Course.md). Les capramaces qui arrivent à 18 mètres ou moins du cri rageur poussé par l’un des leurs plongent dans la crainte et la colère. Ils attaquent alors la créature visible la plus proche (autre qu’un capramace) aussi longtemps que dure le cri rageur.}
-{s:BDTexte|* Les effets qui réduisent les sons, tels qu’un [silence](./Silence.md), peuvent empêcher un capramace de pousser son cri rageur. Il en est de même des effets qui asphyxient un capramace. De la même manière, un capramace [assourdi](./Assourdi.md) ne peut être affecté par le cri rageur d’un autre capramace. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
-{s:BDTexte|**Maladie (Sur).** *Tremblote de la Désolation* : Morsure — blessure ; *[JdS](./jet de sauvegarde.md)* [Vig](./Vigueur.md) [DD](./DD.md) 18 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* affaiblissement temporaire 1d3 [For](./Force.md) et 1d3 [Dex](./Dextérité.md), et la cible doit réussir un deuxième jet de [Vigueur](./Vigueur.md) ou 1 point temporairement affaibli pour chaque caractéristique est remplacé par une diminution permanente ; *guérison* 2 réussites consécutives – le deuxième [jet de sauvegarde](./jet de sauvegarde.md) effectué pour empêcher que l’affaiblissement temporaire ne devienne une diminution permanente n’est pas comptabilisé dans ces réussites. Le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md) est basé sur la [Constitution](./Constitution.md).}
+{s:BDTexte|**Cri rageur (Sur).** Une fois par jour, par une [[action simple]], un capramace peut ouvrir grand sa gueule et pousser un cri horrible et assourdissant pour rameuter sa harde. Poursuivre un cri rageur au-delà du premier [[round]] est une [[action libre]] et la durée d’un cri rageur prolongé n’est pas limitée. Les créatures autres que les capramaces, situées à 36 mètres ou moins et qui ratent un jet de [[Vigueur]] [[DD]] 18 sont [[assourdi|assourdies]] aussi longtemps que le capramace pousse son cri et pendant 1d4 minutes par la suite.}
+{s:BDTexte|* Tous les autres capramaces situés à 1,5 kilomètre ou moins entendent ce cri haut perché quels que soient les bruits environnants, et réagissent instinctivement en sprintant vers le capramace qui le pousse. Ils se déplacent aussi vite que possible vers le capramace tant que celui-ci continue de pousser son cri rageur. On considère qu’un capramace qui se déplace vers l’origine d’un cri rageur possède le don [[Course]]. Les capramaces qui arrivent à 18 mètres ou moins du cri rageur poussé par l’un des leurs plongent dans la crainte et la colère. Ils attaquent alors la créature visible la plus proche (autre qu’un capramace) aussi longtemps que dure le cri rageur.}
+{s:BDTexte|* Les effets qui réduisent les sons, tels qu’un [[silence]], peuvent empêcher un capramace de pousser son cri rageur. Il en est de même des effets qui asphyxient un capramace. De la même manière, un capramace [[assourdi]] ne peut être affecté par le cri rageur d’un autre capramace. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
+{s:BDTexte|**Maladie (Sur).** *Tremblote de la Désolation* : Morsure — blessure ; *[[jet de sauvegarde|JdS]]* [[Vigueur|Vig]] [[DD]] 18 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* affaiblissement temporaire 1d3 [[Force|For]] et 1d3 [[Dextérité|Dex]], et la cible doit réussir un deuxième jet de [[Vigueur]] ou 1 point temporairement affaibli pour chaque caractéristique est remplacé par une diminution permanente ; *guérison* 2 réussites consécutives – le deuxième [[jet de sauvegarde]] effectué pour empêcher que l’affaiblissement temporaire ne devienne une diminution permanente n’est pas comptabilisé dans ces réussites. Le [[DD]] du [[jet de sauvegarde]] est basé sur la [[Constitution]].}
 </div></td>
 <td><div>*Cet amalgame difforme d’humain et de bouc est recouvert d’une fourrure emmêlée. Ses dents sont pointues et ses yeux d’un blanc sinistre.*
 

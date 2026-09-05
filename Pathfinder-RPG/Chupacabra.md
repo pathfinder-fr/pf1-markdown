@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Créature magique|Collines|Tropical}
 - *Source : Bestiaire 2, p.67*
 - **PX** 800
-- [Créature magique](./type Créature magique.md) de taille P, N
-- **Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +6
+- [[type créature magique|Créature magique]] de taille P, N
+- **Init** +7 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +6
 (((Défense)))
 - **CA** 16, contact 14, pris au dépourvu 13 (Dex +3, naturelle +2, taille +1)
 - **pv** 30 (4d10+8)
@@ -23,19 +23,19 @@ Categories:
 (((Attaque)))
 - **VD** 9 m (6 {s:c})
 - **Corps à corps** morsure, +6 (1d4+1 plus étreinte) et 2 griffes, +6 (1d3+1)
-- **Attaques spéciales** [bond](./Bond.md), chupar
+- **Attaques spéciales** [[bond]], chupar
 (((Statistiques)))
 - **For** 13, **Dex** 16, **Con** 14, **Int** 3, **Sag** 15, **Cha** 6
 - **BBA** +4 ; **BMO** +4 (+8 lutte) ; **DMD** 17
-- **Dons** [Attaques réflexes](./Attaques réflexes.md), [Science de l’initiative](./Science de linitiative.md)
-- **Compétences** [Acrobaties](./Acrobaties.md) +7 (+11 pour sauter), [Discrétion](./Discrétion.md) +16, [Perception](./Perception.md) +6 ; **Modificateurs raciaux** +4 en [Acrobaties](./Acrobaties.md) pour sauter, +4 en [Discrétion](./Discrétion.md) (+8 dans les fourrés ou les zones rocheuses)
+- **Dons** [[Attaques réflexes]], [[Science de linitiative|Science de l’initiative]]
+- **Compétences** [[Acrobaties]] +7 (+11 pour sauter), [[Discrétion]] +16, [[Perception]] +6 ; **Modificateurs raciaux** +4 en [[Acrobaties]] pour sauter, +4 en [[Discrétion]] (+8 dans les fourrés ou les zones rocheuses)
 - **Langues** aklo (incapable de parler)
 (((Écologie)))
 - **Environnement** collines ou plaines chaudes
 - **Organisation sociale** solitaire, couple ou bande (3–7)
 - **Trésor** aucun
 (((Pouvoirs spéciaux)))
-- **Chupar (Ext).** Un chupacabra qui [immobilise](./Immobilisé.md) en lutte un adversaire ou fait perdurer une immobilisation en lutte peut sucer le sang de sa victime par une action libre utilisable une fois par round et infligeant un [affaiblissement temporaire](./affaiblissement temporaire.md) de 1 point de Constitution. En cas de réussite, le chupacabra retrouve son énergie et bénéficie d’un important accroissement de vitesse pendant les 10 rounds qui suivent (même effet que le sort de *[rapidité](./Rapidité.md)*). Un chupacabra ainsi « énergisé » peut encore sucer le sang mais ne gagne aucun effet supplémentaire ; la durée de son accroissement de vitesse est réinitialisée cependant.
+- **Chupar (Ext).** Un chupacabra qui [[immobilisé|immobilise]] en lutte un adversaire ou fait perdurer une immobilisation en lutte peut sucer le sang de sa victime par une action libre utilisable une fois par round et infligeant un [[affaiblissement temporaire]] de 1 point de Constitution. En cas de réussite, le chupacabra retrouve son énergie et bénéficie d’un important accroissement de vitesse pendant les 10 rounds qui suivent (même effet que le sort de *[[rapidité]]*). Un chupacabra ainsi « énergisé » peut encore sucer le sang mais ne gagne aucun effet supplémentaire ; la durée de son accroissement de vitesse est réinitialisée cependant.
 
 </div>
 

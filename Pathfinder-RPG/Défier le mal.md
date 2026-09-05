@@ -10,18 +10,18 @@ Categories:
 ---
 
 {s:APG}
-**École** [Enchantement](./Enchantement.md) ([coercition](./branche coercition.md)) ([effet mental](./effet mental.md)) ; **Niveau** [Pal](./Paladin.md) 1  
+**École** [[Enchantement]] ([[branche coercition|coercition]]) ([[effet mental]]) ; **Niveau** [[Paladin|Pal]] 1  
 
-**Temps d'incantation** 1 [action simple](./Action simple.md)  
+**Temps d'incantation** 1 [[action simple]]  
 
-**Composantes** [V, FD](./composantes.md)  
+**Composantes** [[Composantes|V, FD]]  
 
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])  
 
 **Cible** une créature Mauvaise  
 
-**Durée** 1 minute/[niveau](./niveau.md) (T)  
+**Durée** 1 minute/[[niveau]] (T)  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Jet de sauvegarde** [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ; **Résistance à la magie** oui
 
-Le personnage met une créature au défi de venir se battre contre lui, sans quoi elle en subira les conséquences. Il gagne un bonus sacré de +2 à toutes les attaques de corps à corps contre la cible du sort. À la fin de son tour, si la cible n'a pas porté au moins une attaque contre le personnage, elle est [fiévreuse](./Fiévreux.md). Si le personnage s'éloigne de la cible, le sort se dissipe.
+Le personnage met une créature au défi de venir se battre contre lui, sans quoi elle en subira les conséquences. Il gagne un bonus sacré de +2 à toutes les attaques de corps à corps contre la cible du sort. À la fin de son tour, si la cible n'a pas porté au moins une attaque contre le personnage, elle est [[fiévreux|fiévreuse]]. Si le personnage s'éloigne de la cible, le sort se dissipe.

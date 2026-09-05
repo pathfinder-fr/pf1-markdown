@@ -10,8 +10,8 @@ Categories:
 
 {s:MR}*Le personnage s’emporte parfois lorsqu’il encourage sa monture au combat.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Gobelin](./Gobelin (race).md), 1 rang en [Équitation](./Équitation.md)
+**Conditions.** [[Gobelin (race)|Gobelin]], 1 rang en [[Équitation]]
 
-**Avantage.** Le personnage peut décider de s’infliger une pénalité de -1 à tous ses [jets d’attaque](./jet dattaque.md) et ses tests de [manœuvre offensive](./Manœuvre offensive.md) pour octroyer un bonus de +1 à tous les jets d’attaque et [de dégâts](./Valeurs de combat.md#DEGATS) effectués par sa monture avec ses [armes naturelles](./armes naturelles.md). Ces effets affectent le personnage et sa monture pendant 1 [round](./round.md). Lorsque le bonus de base à l’attaque du personnage atteint +4, et pour chaque tranche de 4 points par la suite, la pénalité augmente de -1 et le bonus octroyé à l’attaque et aux dégâts de sa monture de +1 jusqu’à un maximum de +5. Le personnage doit décider d’utiliser ce don avant d’effectuer un jet d’attaque.
+**Avantage.** Le personnage peut décider de s’infliger une pénalité de -1 à tous ses [[jet dattaque|jets d’attaque]] et ses tests de [[manœuvre offensive]] pour octroyer un bonus de +1 à tous les jets d’attaque et [[valeurs de combat#DEGATS|de dégâts]] effectués par sa monture avec ses [[armes naturelles]]. Ces effets affectent le personnage et sa monture pendant 1 [[round]]. Lorsque le bonus de base à l’attaque du personnage atteint +4, et pour chaque tranche de 4 points par la suite, la pénalité augmente de -1 et le bonus octroyé à l’attaque et aux dégâts de sa monture de +1 jusqu’à un maximum de +5. Le personnage doit décider d’utiliser ce don avant d’effectuer un jet d’attaque.

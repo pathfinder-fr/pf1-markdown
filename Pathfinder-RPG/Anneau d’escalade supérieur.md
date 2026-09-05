@@ -8,13 +8,13 @@ Categories:
 - Objet magique
 ---
 
-<div style="float:right">***Retour aux [anneaux magiques](./Anneaux magiques.md).***</div><div class="BD">
+<div style="float:right">***Retour aux [[anneaux magiques]].***</div><div class="BD">
 {s:BDTitre|Anneau d’escalade supérieur |{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) faible; **NLS** 5 ; **Emplacement** anneau ; **Prix** 10000 ; **Poids** —
+**Aura** [[Transmutation]] faible; **NLS** 5 ; **Emplacement** anneau ; **Prix** 10000 ; **Poids** —
 (((Description)))
-Cet anneau fonctionne comme un [anneau d’escalade](./Anneau descalade.md), à la seule diffé­rence qu’il accorde un bonus de compétence de +10 aux tests d’Esca­lade du porteur.
+Cet anneau fonctionne comme un [[anneau descalade|anneau d’escalade]], à la seule diffé­rence qu’il accorde un bonus de compétence de +10 aux tests d’Esca­lade du porteur.
 (((Fabrication)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), le créateur doit avoir au moins 10 rangs dans la compétence Escalade ; **Coût** 5000
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], le créateur doit avoir au moins 10 rangs dans la compétence Escalade ; **Coût** 5000
 </div>
 
 *Source : Armes et Équipements p167*

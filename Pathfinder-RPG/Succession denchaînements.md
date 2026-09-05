@@ -9,12 +9,12 @@ Categories:
 
 *Le personnage peut frapper plusieurs adversaires adjacents d’un seul coup.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [For](./Force.md) 13, [Attaque en puissance](./Attaque en puissance.md), [Enchaînement](./Enchaînement.md), [bonus de base à l’attaque](./BBA.md) +4.
+**Conditions.** [[Force|For]] 13, [[Attaque en puissance]], [[Enchaînement]], [[BBA|bonus de base à l’attaque]] +4.
 
-**Avantage.** Par une [action simple](./Action simple.md), le personnage porte une unique attaque avec la totalité de son [bonus de base à l’attaque](./BBA.md) à un adversaire situé à sa portée. S’il le touche, il lui inflige les dégâts habituels et peut faire une attaque supplémentaire (toujours avec son [bonus de base à l’attaque](./BBA.md) maximal) contre un adversaire adjacent au premier ennemi et situé à portée du personnage. S’il le touche, il peut faire une nouvelle attaque sur un adversaire à sa portée et adjacent au dernier ennemi touché. Il n’y a pas de limite au nombre d’ennemis que le personnage peut attaquer ainsi mais il ne peut pas attaquer deux fois le même pendant cette action. Quand le personnage utilise ce don, il subit un malus de -2 à la [CA](./CA.md) jusqu’à son prochain [tour](./tour.md).
+**Avantage.** Par une [[action simple]], le personnage porte une unique attaque avec la totalité de son [[BBA|bonus de base à l’attaque]] à un adversaire situé à sa portée. S’il le touche, il lui inflige les dégâts habituels et peut faire une attaque supplémentaire (toujours avec son [[BBA|bonus de base à l’attaque]] maximal) contre un adversaire adjacent au premier ennemi et situé à portée du personnage. S’il le touche, il peut faire une nouvelle attaque sur un adversaire à sa portée et adjacent au dernier ennemi touché. Il n’y a pas de limite au nombre d’ennemis que le personnage peut attaquer ainsi mais il ne peut pas attaquer deux fois le même pendant cette action. Quand le personnage utilise ce don, il subit un malus de -2 à la [[CA]] jusqu’à son prochain [[tour]].
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Une fois par [round](./round.md), quand le personnage rate un adversaire lors d’une attaque conférée par le don [Enchaînement](./Enchaînement.md), il peut dépenser 5 points d’endurance pour effectuer tout de même une autre attaque d’Enchaînement.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Une fois par [[round]], quand le personnage rate un adversaire lors d’une attaque conférée par le don [[Enchaînement]], il peut dépenser 5 points d’endurance pour effectuer tout de même une autre attaque d’Enchaînement.

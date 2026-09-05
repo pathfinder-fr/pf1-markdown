@@ -4,26 +4,26 @@ Title: Table Etendue d'Evénements de Royaume
 LastModified: 2013-06-02 14:27
 ---
 
-*[^http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2032.ashx|Retour au Sommaire]*
+*[Retour au Sommaire](http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2032.ashx)*
 
-*D'après un [^http://paizo.com/threads/rzs2ldzm?Custom-Expanded-Kingdom-Events-Table|post] de Karui Kage sur le blog de Paizo.*
+*D'après un [post](http://paizo.com/threads/rzs2ldzm?Custom-Expanded-Kingdom-Events-Table) de Karui Kage sur le blog de Paizo.*
 
 {| CLASS="tablo centre autoalt"
 |+ Table étendue d'évènements de royaume
 |- CLASS="titre"
 | 1d100 || Évènements
 |- CLASS="premier"
-| 1-15 || [Évènement mauvais](./Pathfinder 32 Table Etendue dEvénements de Royaume.md#Évènement_Mauvais_3)
+| 1-15 || [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Mauvais_3|Évènement mauvais]]
 |-
-| 16-37 || [Évènement ennuyeux](./Pathfinder 32 Table Etendue dEvénements de Royaume.md#Évènement_Ennuyeux_4)
+| 16-37 || [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Ennuyeux_4|Évènement ennuyeux]]
 |-
-| 38-62 || [Évènement neutre](./Pathfinder 32 Table Etendue dEvénements de Royaume.md#Évènement_Neutre_5)
+| 38-62 || [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Neutre_5|Évènement neutre]]
 |-
-| 68-83 || [Évènement plaisant](./Pathfinder 32 Table Etendue dEvénements de Royaume.md#Évènement_Plaisant_6)
+| 68-83 || [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Plaisant_6|Évènement plaisant]]
 |-
-| 84-95 || [Évènement bon](./Pathfinder 32 Table Etendue dEvénements de Royaume.md#Évènement_Bon_7)
+| 84-95 || [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Bon_7|Évènement bon]]
 |-
-| 96-100 || [Évènement majeur](./Pathfinder 32 Table Etendue dEvénements de Royaume.md#Évènement_Majeur_8)
+| 96-100 || [[Pathfinder 32 Table Etendue dEvénements de Royaume#Évènement_Majeur_8|Évènement majeur]]
 |}
 
 #### Évènement Mauvais

@@ -13,17 +13,17 @@ Categories:
 {s:BDTitre|Asticot géant|FP 3}
 {s:BDTexte|*Source : Bestiaire 3 page 212*}
 {s:BDTexte|**PX** 800}
-{s:BDTexte|[Vermine](./type Vermine.md) de taille P, N}
-{s:BDTexte|**Init** +1 ; **Sens** [perception aveugle](./Perception aveugle (capacité).md) à 9 m (6 {s:c}); [Perception](./Perception.md) +0}
+{s:BDTexte|[[type Vermine|Vermine]] de taille P, N}
+{s:BDTexte|**Init** +1 ; **Sens** [[Perception aveugle (capacité)|perception aveugle]] à 9 m (6 {s:c}); [[Perception]] +0}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 12, pris au dépourvu 14 (Dex +1, naturelle +3, taille +1)}
 {s:BDTexte|**pv** 34 (4d8+16)}
 {s:BDTexte|**Réf** +2, **Vig** +8, **Vol** +1}
-{s:BDTexte|**[Immunités](./Immunité (capacité).md)** effets mentaux}
+{s:BDTexte|**[[Immunité (capacité)|Immunités]]** effets mentaux}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c})}
 {s:BDTexte|**Corps à corps** morsure, +6 (1d6+3 plus poison et étreinte)}
-{s:BDTexte|**Attaques spéciales** double morsure, [étreinte](./Étreinte (capacité).md) (M)}
+{s:BDTexte|**Attaques spéciales** double morsure, [[Étreinte (capacité)|étreinte]] (M)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 14, **Dex** 12, **Con** 18, **Int** —, **Sag** 10, **Cha** 1}
 {s:BDTexte|**BBA** +3 ; **BMO** +4 (+8 lutte) ; **DMD** 15}
@@ -42,9 +42,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Asticot géant](./Asticot géant.md) || 3
+| [[Asticot géant]] || 3
 |-
-| [Nuée d'asticots](./nuée dasticots.md) || 7
+| [[Nuée dasticots|Nuée d'asticots]] || 7
 |}
 </div>*Cet asticot blafard qui se tortille fait la même taille qu’un gros chien. Sa gueule circulaire frémit, haletante, au bout de son corps qui pulse.*
 

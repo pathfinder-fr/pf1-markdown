@@ -10,6 +10,6 @@ Categories:
 
 {s:cmy}*Le personnage a adapté la gestuelle de ses incantations pour ignorer les restrictions imposées par le port des armures.*
 
-**Condition.** [Port de l’armure magique](./Port de larmure magique.md)
+**Condition.** [[Port de larmure magique|Port de l’armure magique]]
 
-**Avantage.** Le personnage n’a plus à réaliser une [action rapide](./Action rapide.md) pour bénéficier d’une réduction des risques d’échec des sorts profanes conférée par [Port de l’armure magique](./Port de larmure magique.md). De plus, s’il porte une armure légère, réduisez les chances d’échec des sorts profanes du personnage de 20%.
+**Avantage.** Le personnage n’a plus à réaliser une [[action rapide]] pour bénéficier d’une réduction des risques d’échec des sorts profanes conférée par [[Port de larmure magique|Port de l’armure magique]]. De plus, s’il porte une armure légère, réduisez les chances d’échec des sorts profanes du personnage de 20%.

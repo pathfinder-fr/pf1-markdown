@@ -16,405 +16,405 @@ Categories:
 | CLASS="gauche" WIDTH="25%" | Conditions
 | CLASS="gauche" WIDTH="45%" | Avantages
 |- CLASS="premier"
-| [Abondance de révélations](./Abondance de révélations.md)<sup>UM</sup>
-| CLASS="gauche" | Pouvoir de classe [mystère](./mystère.md)
-| CLASS="gauche" | Utiliser une unique [révélation](./révélation.md) plus de fois par jour.
+| [[Abondance de révélations]]<sup>UM</sup>
+| CLASS="gauche" | Pouvoir de classe [[mystère]]
+| CLASS="gauche" | Utiliser une unique [[révélation]] plus de fois par jour.
 |- CLASS="premier"
-| [Ancre douloureuse](./Ancre douloureuse.md)<sup>UM</sup>
+| [[Ancre douloureuse]]<sup>UM</sup>
 | CLASS="gauche" | Ancrage
-| CLASS="gauche" | Inflige des dégâts aux [Extérieurs](./type Extérieur.md) [Mauvais](./sous-type Mal.md) ancrés
+| CLASS="gauche" | Inflige des dégâts aux [[type Extérieur|Extérieurs]] [[sous-type Mal|Mauvais]] ancrés
 |- CLASS="premier"
-| [Antagoniste](./Antagoniste.md)<sup>UM</sup>
+| [[Antagoniste]]<sup>UM</sup>
 | CLASS="gauche" | –
-| CLASS="gauche" | Utilise la [Diplomatie](./Diplomatie.md) ou l’[Intimidation](./Intimidation.md) pour exaspérer une créature
+| CLASS="gauche" | Utilise la [[Diplomatie]] ou l’[[Intimidation]] pour exaspérer une créature
 |- CLASS="premier"
-| [Apprendre un piège de rôdeur](./Apprendre un piège de rôdeur.md)<sup>UM</sup>
-| CLASS="gauche" | 5 [rangs](./rang.md) en [Survie](./Survie.md)
-| CLASS="gauche" | Apprend un unique [piège de rôdeur](./piège de rôdeur.md)
+| [[Apprendre un piège de rôdeur]]<sup>UM</sup>
+| CLASS="gauche" | 5 [[rang|rangs]] en [[Survie]]
+| CLASS="gauche" | Apprend un unique [[piège de rôdeur]]
 |- CLASS="premier"
-| [Arcane supplémentaire](./Arcane supplémentaire.md)<sup>UM</sup>
-| CLASS="gauche" | Pouvoir de classe de [magus](./Magus.md) [arcane](./arcane.md)
-| CLASS="gauche" | Gain d’un [arcane](./arcane.md) de plus
+| [[Arcane supplémentaire]]<sup>UM</sup>
+| CLASS="gauche" | Pouvoir de classe de [[magus]] [[arcane]]
+| CLASS="gauche" | Gain d’un [[arcane]] de plus
 |- CLASS="premier"
-| [Arme à aspersion à ricochet](./Arme à aspersion à ricochet.md)<sup>UM</sup>
-| CLASS="gauche" | [Dex](./Dextérité.md) 13, [Lancer improvisé](./Lancer improvisé.md)
+| [[Arme à aspersion à ricochet]]<sup>UM</sup>
+| CLASS="gauche" | [[Dextérité|Dex]] 13, [[Lancer improvisé]]
 | CLASS="gauche" | Jet d’attaque avec une arme à aspersion si elle rate sa cible et atterrit dans l’hexagone d’une autre créature
 |- CLASS="premier"
-| [Attrait de la vie](./Attrait de la vie.md)<sup>UM</sup>
+| [[Attrait de la vie]]<sup>UM</sup>
 | CLASS="gauche" | Canalisation d’énergie positive
 | CLASS="gauche" | Canalise l’énergie positive pour fasciner les morts-vivants
 |- CLASS="premier"
-| [Aura de fléau des dragons](./Aura de fléau des dragons.md)<sup>UM</sup>
-| CLASS="gauche" | Pouvoir de classe [aura de bravoure](./aura de bravoure.md), lanceur de sorts niveau 8
+| [[Aura de fléau des dragons]]<sup>UM</sup>
+| CLASS="gauche" | Pouvoir de classe [[aura de bravoure]], lanceur de sorts niveau 8
 | CLASS="gauche" | L’aura de bravoure s’étend et accorde une protection contre le souffle des dragons
 |- CLASS="premier"
-| [Aura d’intrépidité](./Aura dintrépidité.md)<sup>UM</sup>
+| [[Aura dintrépidité|Aura d’intrépidité]]<sup>UM</sup>
 | CLASS="gauche" | Pouvoir de classe aura de bravoure, lanceur de sorts niveau 8
 | CLASS="gauche" | L'aura de bravoure s'étend et accorde une immunité à la peur aux alliés du personnage
 |- CLASS="premier"
-| [Bluff magique](./Bluff magique.md)<sup>UM</sup>
-| CLASS="gauche" | 5 rangs en [Bluff](./Bluff.md) et en [Art de la magie](./Art de la magie.md)
-| CLASS="gauche" | Le personnage bluffe les autres lanceurs de sorts, ce qui augmente le [DD](./DD.md) pour identifier ses sorts
+| [[Bluff magique]]<sup>UM</sup>
+| CLASS="gauche" | 5 rangs en [[Bluff]] et en [[Art de la magie]]
+| CLASS="gauche" | Le personnage bluffe les autres lanceurs de sorts, ce qui augmente le [[DD]] pour identifier ses sorts
 |- CLASS="premier"
-| [Bombe télécommandée](./Bombe télécommandée.md)<sup>UM</sup>
+| [[Bombe télécommandée]]<sup>UM</sup>
 | CLASS="gauche" | Bombe à retardement
 | CLASS="gauche" | Augmente le délai des bombes et permet au personnage de les déclencher à distance
 |- CLASS="premier"
-| [Canalisateur polyvalent](./Canalisateur polyvalent.md)<sup>UM</sup>
+| [[Canalisateur polyvalent]]<sup>UM</sup>
 | CLASS="gauche" | Canalisation d’énergie, nécromancien ou prêtre Neutre
 | CLASS="gauche" | Canalise de l’énergie positive et négative
 |- CLASS="premier"
-| [Canalisation rapide](./Canalisation rapide.md)<sup>UM</sup>
-| CLASS="gauche" | 5 rangs en [Connaissances](./Connaissances.md) (religion), [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE)
+| [[Canalisation rapide]]<sup>UM</sup>
+| CLASS="gauche" | 5 rangs en [[Connaissances]] (religion), [[Prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]]
 | CLASS="gauche" | Accélération de la canalisation d’énergie en dépensant plus d’utilisations
 |- CLASS="premier"
-| [Chantesort](./../Aventures/Chantesort.md)<sup>UM</sup>
-| CLASS="gauche" | [Cha](./Charisme.md) 13, [représentation bardique](./représentation bardique.md), capacité à lancer des sorts de niveau 1
+| [[Chantesort]]<sup>UM</sup>
+| CLASS="gauche" | [[Charisme|Cha]] 13, [[représentation bardique]], capacité à lancer des sorts de niveau 1
 | CLASS="gauche" | Mêle les incantations et la représentation bardique
 |- CLASS="premier"
-| [Charge radieuse](./Charge radieuse.md)<sup>UM</sup>
-| CLASS="gauche" | [Imposition des mains](./Imposition des mains.md)
+| [[Charge radieuse]]<sup>UM</sup>
+| CLASS="gauche" | [[Imposition des mains]]
 | CLASS="gauche" | Dépense des utilisations restantes de l’imposition des mains pour infliger des dégâts supplémentaires qui ignorent les résistances et les immunités des créatures mauvaises
 |- CLASS="premier"
-| [Collectionneur planaire](./Collectionneur planaire.md)<sup>UM</sup>
-| CLASS="gauche" | Archétpye [Collectionneur](./Collectionneur (alchimiste).md)
-| CLASS="gauche" | À chaque fois que le personnage apprend un extrait de *[convocation d’alliés naturels](./Convocation dalliés naturels I.md)*, il apprend l’extrait de *[convocation de monstres](./Convocation de monstres I.md)* équivalent
+| [[Collectionneur planaire]]<sup>UM</sup>
+| CLASS="gauche" | Archétpye [[Collectionneur (alchimiste)|Collectionneur]]
+| CLASS="gauche" | À chaque fois que le personnage apprend un extrait de *[[convocation dalliés naturels I|convocation d’alliés naturels]]*, il apprend l’extrait de *[[convocation de monstres I|convocation de monstres]]* équivalent
 |- CLASS="premier"
-| [Concentration instinctive](./Concentration instinctive.md)<sup>UM</sup>
-| CLASS="gauche" | [Magie de guerre](./Magie de guerre.md)
-| CLASS="gauche" | Pas de test de [Concentration](./concentration.md) en cas de mouvement violent, bonus de +2 sur tous les autres
+| [[Concentration instinctive]]<sup>UM</sup>
+| CLASS="gauche" | [[Magie de guerre]]
+| CLASS="gauche" | Pas de test de [[Concentration]] en cas de mouvement violent, bonus de +2 sur tous les autres
 |- CLASS="premier"
-| [Connaissances officieuses](./Connaissances officieuses.md)<sup>UM</sup>
-| CLASS="gauche" | [Int](./Intelligence.md) 13, capacité à lancer des sorts de paladin niveau 1
+| [[Connaissances officieuses]]<sup>UM</sup>
+| CLASS="gauche" | [[Intelligence|Int]] 13, capacité à lancer des sorts de paladin niveau 1
 | CLASS="gauche" | Ajoute des sorts à la liste de ceux du paladin
 |- CLASS="premier"
-| [Convocation lunaire](./Convocation lunaire.md)<sup>UM</sup>
-| CLASS="gauche" | [École renforcée](./École renforcée.md) (convocation), capacité à lancer *[convocation d’alliés naturels](./Convocation dalliés naturels.md)*
+| [[Convocation lunaire]]<sup>UM</sup>
+| CLASS="gauche" | [[École renforcée]] (convocation), capacité à lancer *[[convocation dalliés naturels|convocation d’alliés naturels]]*
 | CLASS="gauche" | Les créatures convoquées sont immunisées contre les effets de confusion et de sommeil et leurs armes naturelles sont considérées comme en argent
 |- CLASS="premier"
-| [Convocation sacrée](./Convocation sacrée.md)<sup>UM</sup>
-| CLASS="gauche" | Aura, capacité à lancer *[convocation de monstres](./Convocation de monstres I.md)*
-| CLASS="gauche" | Convoque des monstres dont le sous-type d’alignement correspond à celui du personnage par une [action simple](./Action simple.md)
+| [[Convocation sacrée]]<sup>UM</sup>
+| CLASS="gauche" | Aura, capacité à lancer *[[convocation de monstres I|convocation de monstres]]*
+| CLASS="gauche" | Convoque des monstres dont le sous-type d’alignement correspond à celui du personnage par une [[action simple]]
 |- CLASS="premier"
-| [Convocation solaire](./Convocation solaire.md)<sup>UM</sup>
-| CLASS="gauche" | [École renforcée](./École renforcée.md) (convocation), *[convocation d’alliés naturels](./Convocation dalliés naturels.md)*
+| [[Convocation solaire]]<sup>UM</sup>
+| CLASS="gauche" | [[École renforcée]] (convocation), *[[convocation dalliés naturels|convocation d’alliés naturels]]*
 | CLASS="gauche" | Les créatures convoquées brillent et sont immunisées contre les effets d’aveuglement et d’éblouissement
 |- CLASS="premier"
-| [Convocation stellaire](./Convocation stellaire.md)<sup>UM</sup>
-| CLASS="gauche" | [École renforcée](./École renforcée.md) (convocation), *[convocation d’alliés naturels](./Convocation dalliés naturels.md)*
-| CLASS="gauche" | Les créatures convoquées gagnent un bonus aux tests de [Discrétion](./Discrétion.md) et de [Perception](./Perception.md)
+| [[Convocation stellaire]]<sup>UM</sup>
+| CLASS="gauche" | [[École renforcée]] (convocation), *[[convocation dalliés naturels|convocation d’alliés naturels]]*
+| CLASS="gauche" | Les créatures convoquées gagnent un bonus aux tests de [[Discrétion]] et de [[Perception]]
 |- CLASS="premier"
-| [Convocation supérieure](./Convocation supérieure.md)<sup>UM</sup>
-| CLASS="gauche" | [Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md), lanceur de sorts niveau 3
+| [[Convocation supérieure]]<sup>UM</sup>
+| CLASS="gauche" | [[Amélioration des créatures convoquées]], lanceur de sorts niveau 3
 | CLASS="gauche" | Quand le personnage convoque plusieurs créatures, il en apparaît une de plus
 |- CLASS="premier"
-| [Convocations supplémentaires](./Convocations supplémentaires.md)<sup>UM</sup>
-| CLASS="gauche" | Capacité à lancer *[convocation de monstres](./Convocation de monstres.md)* comme un pouvoir magique, [conjurateur](./Conjurateur.md) niveau 1
+| [[Convocations supplémentaires]]<sup>UM</sup>
+| CLASS="gauche" | Capacité à lancer *[[convocation de monstres]]* comme un pouvoir magique, [[conjurateur]] niveau 1
 | CLASS="gauche" | Le personnage obtient une utilisation de convocation de monstres supplémentaire par jour
 |- CLASS="premier"
-| [Couteau de sorcière](./Couteau de sorcière.md)<sup>UM</sup>
-| CLASS="gauche" | [sorcière](./Sorcière.md)
+| [[Couteau de sorcière]]<sup>UM</sup>
+| CLASS="gauche" | [[sorcière]]
 | CLASS="gauche" | Utilise une dague comme focalisateur pour les sorts de protecteur
 |- CLASS="premier"
-| [Création d’élixir sanguin](./Création délixir sanguin.md)<sup>UM</sup>
-| CLASS="gauche" | [Cha](./Charisme.md) 15, [Préparation de potions](./Préparation de potions.md), 12 rangs en [Artisanat](./Artisanat.md) (alchimie), [ensorceleur](./Ensorceleur.md) niveau 3
-| CLASS="gauche" | Créer un élixir qui permet à autrui d’utiliser un pouvoir de [lignage](./lignage.md)
+| [[Création délixir sanguin|Création d’élixir sanguin]]<sup>UM</sup>
+| CLASS="gauche" | [[Charisme|Cha]] 15, [[Préparation de potions]], 12 rangs en [[Artisanat]] (alchimie), [[ensorceleur]] niveau 3
+| CLASS="gauche" | Créer un élixir qui permet à autrui d’utiliser un pouvoir de [[lignage]]
 |- CLASS="premier"
-| [Création de reliques, armes ou boucliers](./Création de reliques, armes ou boucliers.md)<sup>UM</sup>
-| CLASS="gauche" | [Création d’armes et armures magiques](./Création darmes et armures magiques.md), capacité à lancer *[consécration](./Consécration.md)* ou *[profanation](./Profanation.md)*
+| [[Création de reliques, armes ou boucliers]]<sup>UM</sup>
+| CLASS="gauche" | [[Création darmes et armures magiques|Création d’armes et armures magiques]], capacité à lancer *[[consécration]]* ou *[[profanation]]*
 | CLASS="gauche" | L’arme ou le bouclier devient un symbole sacré
 |- CLASS="premier"
-| [Critique maudit](./Critique maudit.md)<sup>UM</sup>
-| CLASS="gauche" | [Don pour les critiques](./Don pour les critiques.md), capacité à lancer *[malédiction](./malédiction.md)* ou *[malédiction majeure](./Malédiction majeure.md)*, lanceur de sorts de niveau 9
-| CLASS="gauche" | Confirmer un [coup critique](./coup critique.md) et lancer une *[malédiction](./malédiction.md)* lors de l’attaque
+| [[Critique maudit]]<sup>UM</sup>
+| CLASS="gauche" | [[Don pour les critiques]], capacité à lancer *[[malédiction]]* ou *[[malédiction majeure]]*, lanceur de sorts de niveau 9
+| CLASS="gauche" | Confirmer un [[coup critique]] et lancer une *[[malédiction]]* lors de l’attaque
 |- CLASS="premier"
-| [Critique de plaie](./Critique de plaie.md)<sup>UM</sup>
-| CLASS="gauche" | [Don pour les critiques](./Don pour les critiques.md), lanceur de sorts de niveau 5
-| CLASS="gauche" | Confirmer un [coup critique](./coup critique.md) avec un sort ou un pouvoir magique pour infliger une [plaie magique](./plaie magique.md) mineure aléatoire
+| [[Critique de plaie]]<sup>UM</sup>
+| CLASS="gauche" | [[Don pour les critiques]], lanceur de sorts de niveau 5
+| CLASS="gauche" | Confirmer un [[coup critique]] avec un sort ou un pouvoir magique pour infliger une [[plaie magique]] mineure aléatoire
 |-
-| &emsp; [Critique de plaie supérieur](./Critique de plaie supérieur.md)<sup>UM</sup>
-| CLASS="gauche" | [Don pour les critiques](./Don pour les critiques.md), [Critique de plaie](./Critique de plaie.md), lanceur de sorts de niveau 12
-| CLASS="gauche" | Confirmer un coup critique avec un sort ou un pouvoir magique pour infliger une [plaie magique](./plaie magique.md) majeure aléatoire
+| &emsp; [[Critique de plaie supérieur]]<sup>UM</sup>
+| CLASS="gauche" | [[Don pour les critiques]], [[Critique de plaie]], lanceur de sorts de niveau 12
+| CLASS="gauche" | Confirmer un coup critique avec un sort ou un pouvoir magique pour infliger une [[plaie magique]] majeure aléatoire
 |-
-| &emsp; &emsp; [Maîtrise du critique de plaie](./Maîtrise du critique de plaie.md)<sup>UM</sup>
-| CLASS="gauche" | [Don pour les critiques](./Don pour les critiques.md), [Critique de plaie](./Critique de plaie.md), lanceur de sorts de niveau 9
-| CLASS="gauche" | Le personnage choisit la [plaie](./plaie.md) que produit le critique
+| &emsp; &emsp; [[Maîtrise du critique de plaie]]<sup>UM</sup>
+| CLASS="gauche" | [[Don pour les critiques]], [[Critique de plaie]], lanceur de sorts de niveau 9
+| CLASS="gauche" | Le personnage choisit la [[plaie]] que produit le critique
 |- CLASS="premier"
-| [Déplacement mystique](./Déplacement mystique.md)<sup>UM</sup>
-| CLASS="gauche" | [Dex](./Dextérité.md) 15, [Aisance](./Aisance.md), [déplacement facilité](./Druide.md#DEPLACEMENTFACILITE)
+| [[Déplacement mystique]]<sup>UM</sup>
+| CLASS="gauche" | [[Dextérité|Dex]] 15, [[Aisance]], [[druide#DEPLACEMENTFACILITE|déplacement facilité]]
 | CLASS="gauche" | Déplacement à vitesse maximale, même dans une végétation densifiée par magie
 |- CLASS="premier"
-| [Détection de l’expertise](./Détection de lexpertise.md)<sup>UM</sup>
-| CLASS="gauche" | [Int](./Intelligence.md) 13, capacité à lancer *[détection du chaos](./Détection du Chaos.md)*, *[du mal](./Détection du Mal.md)*, *[de la loi](./Détection de la Loi.md)* ou *[de la magie](./Détection de la magie.md)*
+| [[Détection de lexpertise|Détection de l’expertise]]<sup>UM</sup>
+| CLASS="gauche" | [[Intelligence|Int]] 13, capacité à lancer *[[détection du chaos]]*, *[[détection du mal|du mal]]*, *[[détection de la loi|de la loi]]* ou *[[détection de la magie|de la magie]]*
 | CLASS="gauche" | Détecte les aptitudes magiques d’une créature
 |- CLASS="premier"
-| [Détection officieuse](./Détection officieuse.md)<sup>UM</sup>
-| CLASS="gauche" | *[détection du mal](./Détection du Mal.md)*
-| CLASS="gauche" | Utilisation de la *[détection du mal](./Détection du Mal.md)* pour avoir un bonus aux tests de [Perception](./Perception.md) et de [Psychologie](./Psychologie.md)
+| [[Détection officieuse]]<sup>UM</sup>
+| CLASS="gauche" | *[[détection du mal]]*
+| CLASS="gauche" | Utilisation de la *[[détection du mal]]* pour avoir un bonus aux tests de [[Perception]] et de [[Psychologie]]
 |- CLASS="premier"
-| [Discernement ultérieur](./Discernement ultérieur.md)<sup>UM</sup>
-| CLASS="gauche" | *[détection des mensonges](./détection des mensonges.md)*
+| [[Discernement ultérieur]]<sup>UM</sup>
+| CLASS="gauche" | *[[détection des mensonges]]*
 | CLASS="gauche" | Détecte les mensonges dans une phrase entendue plus tôt, même plusieurs heures avant
 |- CLASS="premier"
-| [Donner l’initiative](./Donner linitiative.md)<sup>UM</sup>
-| CLASS="gauche" | pouvoir de classe [initiative rusée](./Inquisiteur.md#INITIATIVERUSEE)
+| [[Donner linitiative|Donner l’initiative]]<sup>UM</sup>
+| CLASS="gauche" | pouvoir de classe [[Inquisiteur#INITIATIVERUSEE|initiative rusée]]
 | CLASS="gauche" | Accorde un bonus d’initiative à un allié
 |- CLASS="premier"
-| [Eidolon concentré](./Eidolon concentré.md)<sup>UM</sup>
-| CLASS="gauche" | pouvoir de classe [protection d'allié](./Conjurateur.md#PROTECTIONDALLIE)
-| CLASS="gauche" | +4 aux tests de Concentration si le personnage est adjacent à l’[eidolon](./eidolon.md)
+| [[Eidolon concentré]]<sup>UM</sup>
+| CLASS="gauche" | pouvoir de classe [[conjurateur#PROTECTIONDALLIE|protection d'allié]]
+| CLASS="gauche" | +4 aux tests de Concentration si le personnage est adjacent à l’[[eidolon]]
 |- CLASS="premier"
-| [Eidolon protecteur](./Eidolon protecteur.md)<sup>UM</sup>
-| CLASS="gauche" | pouvoir de classe [protection d'allié](./Conjurateur.md#PROTECTIONDALLIE)
-| CLASS="gauche" | L’[eidolon](./eidolon.md) sacrifie son attaque pour défendre le personnage
+| [[Eidolon protecteur]]<sup>UM</sup>
+| CLASS="gauche" | pouvoir de classe [[conjurateur#PROTECTIONDALLIE|protection d'allié]]
+| CLASS="gauche" | L’[[eidolon]] sacrifie son attaque pour défendre le personnage
 |- CLASS="premier"
-| [Eidolon résilient](./Eidolon résilient.md)<sup>UM</sup>
-| CLASS="gauche" | [eidolon](./eidolon.md)
-| CLASS="gauche" | Quand le personnage est [inconscient](./Inconscient.md), [endormi](./endormi.md) ou [mort](./Mort.md), son eidolon reste un peu avec lui
+| [[Eidolon résilient]]<sup>UM</sup>
+| CLASS="gauche" | [[eidolon]]
+| CLASS="gauche" | Quand le personnage est [[inconscient]], [[endormi]] ou [[mort]], son eidolon reste un peu avec lui
 |- CLASS="premier"
-| [Eidolon vigilant](./Eidolon vigilant.md)<sup>UM</sup>
-| CLASS="gauche" | [eidolon](./eidolon.md)
-| CLASS="gauche" | bonus de +4 aux tests de [Perception](./Perception.md) quand l’[eidolon](./eidolon.md) est
+| [[Eidolon vigilant]]<sup>UM</sup>
+| CLASS="gauche" | [[eidolon]]
+| CLASS="gauche" | bonus de +4 aux tests de [[Perception]] quand l’[[eidolon]] est
 à portée, conscient et pas sans défense
 |- CLASS="premier"
-| [Empathie rapide](./Empathie rapide.md)<sup>UM</sup>
-| CLASS="gauche" | 5 rangs en [Dressage](./Dressage.md), pouvoir de classe  [empathie sauvage](./Roublard.md#EMPATHIESAUVAGE)
-| CLASS="gauche" | L’utilisation de l’empathie sauvage est une [action simple](./Action simple.md)
+| [[Empathie rapide]]<sup>UM</sup>
+| CLASS="gauche" | 5 rangs en [[Dressage]], pouvoir de classe  [[roublard#EMPATHIESAUVAGE|empathie sauvage]]
+| CLASS="gauche" | L’utilisation de l’empathie sauvage est une [[action simple]]
 |-
-| &emsp; [Empathie sauvage supérieure](./Empathie sauvage supérieure.md)<sup>UM</sup>
-| CLASS="gauche" | 5 rangs en [Connaissances](./Connaissances.md) (nature),  [empathie sauvage](./Roublard.md#EMPATHIESAUVAGE)
-| CLASS="gauche" | Utilise l’empathie sauvage pour [intimider](./Intimidation.md) une créature et augmente l’éventail de cibles potentielles
+| &emsp; [[Empathie sauvage supérieure]]<sup>UM</sup>
+| CLASS="gauche" | 5 rangs en [[Connaissances]] (nature),  [[roublard#EMPATHIESAUVAGE|empathie sauvage]]
+| CLASS="gauche" | Utilise l’empathie sauvage pour [[Intimidation|intimider]] une créature et augmente l’éventail de cibles potentielles
 |- CLASS="premier"
-| [Étrange héritage](./Étrange héritage.md)<sup>UM</sup>
-| CLASS="gauche" | [Cha](./Charisme.md) 13, [Talent](./Talent.md) (compétence de lignage), personnage niveau 3
+| [[Étrange héritage]]<sup>UM</sup>
+| CLASS="gauche" | [[Charisme|Cha]] 13, [[Talent]] (compétence de lignage), personnage niveau 3
 | CLASS="gauche" | Gain d’un pouvoir de lignage
 |-
-| &emsp; [Science de l’étrange héritage](./Science de létrange héritage.md)<sup>UM</sup>
-| CLASS="gauche" | [Cha](./Charisme.md) 15, [Étrange héritage](./Étrange héritage.md), personnage niveau 11
+| &emsp; [[Science de létrange héritage|Science de l’étrange héritage]]<sup>UM</sup>
+| CLASS="gauche" | [[Charisme|Cha]] 15, [[Étrange héritage]], personnage niveau 11
 | CLASS="gauche" | Gain d’un pouvoir de lignage
 |-
-| &emsp; &emsp; [Étrange héritage supérieur](./Étrange héritage supérieur.md)<sup>UM</sup>
-| CLASS="gauche" | [Cha](./Charisme.md) 17, [Étrange héritage](./Étrange héritage.md), [Science de l’étrange héritage](./Science de létrange héritage.md), niveau 17
+| &emsp; &emsp; [[Étrange héritage supérieur]]<sup>UM</sup>
+| CLASS="gauche" | [[Charisme|Cha]] 17, [[Étrange héritage]], [[Science de létrange héritage|Science de l’étrange héritage]], niveau 17
 | CLASS="gauche" | Gain d’un pouvoir de lignage
 |- CLASS="premier"
-| [Évolutions supplémentaires](./Évolutions supplémentaires.md)<sup>UM</sup>
-| CLASS="gauche" | Pouvoir de classe [eidolon](./eidolon.md)
+| [[Évolutions supplémentaires]]<sup>UM</sup>
+| CLASS="gauche" | Pouvoir de classe [[eidolon]]
 | CLASS="gauche" | L’eidolon ajoute 1 point à sa réserve d’évolution
 |- CLASS="premier"
-| [Exploitation des connaissances](./Exploitation des connaissances.md)<sup>UM</sup>
-| CLASS="gauche" | pouvoir de classe [connaissance des monstres](./connaissance des monstres.md), BBA +11
+| [[Exploitation des connaissances]]<sup>UM</sup>
+| CLASS="gauche" | pouvoir de classe [[connaissance des monstres]], BBA +11
 | CLASS="gauche" | Le personnage utilise ses connaissances pour gagner des bonus à l’attaque et aux dégâts contre une unique créature
 |- CLASS="premier"
-| [Familier évolué](./Familier évolué.md)<sup>UM</sup>
-| CLASS="gauche" | [Int](./Intelligence.md) 13, [Cha](./Charisme.md) 13, pouvoir de classe familier
+| [[Familier évolué]]<sup>UM</sup>
+| CLASS="gauche" | [[Intelligence|Int]] 13, [[Charisme|Cha]] 13, pouvoir de classe familier
 | CLASS="gauche" | Le familier gagne une évolution d’eidolon
 |- CLASS="premier"
-| [Foi absolue](./Foi absolue.md)<sup>UM</sup>
-| CLASS="gauche" | [Santé divine](./Paladin.md#SANTEDIVINE)
+| [[Foi absolue]]<sup>UM</sup>
+| CLASS="gauche" | [[Paladin#SANTEDIVINE|Santé divine]]
 | CLASS="gauche" | bonus sacré de +4 contre le poison
 |- CLASS="premier"
-| [Forme animale optimale](./Forme animale optimale.md)<sup>UM</sup>
-| CLASS="gauche" | 5 rangs en [Connaissances](./Connaissances.md) (nature), [Forme animale](./Druide.md#FORMEANIMALE)
+| [[Forme animale optimale]]<sup>UM</sup>
+| CLASS="gauche" | 5 rangs en [[Connaissances]] (nature), [[druide#FORMEANIMALE|Forme animale]]
 | CLASS="gauche" | Compte les autres niveaux de classe comme des niveaux de druide pour déterminer la forme animale
 |- CLASS="premier"
-| [Forme animale rapide](./Forme animale rapide.md)<sup>UM</sup>
-| CLASS="gauche" | [Forme animale](./Druide.md#FORMEANIMALE), lanceur de sorts niveau 8
+| [[Forme animale rapide]]<sup>UM</sup>
+| CLASS="gauche" | [[druide#FORMEANIMALE|Forme animale]], lanceur de sorts niveau 8
 | CLASS="gauche" | Transformation rapide en animal mais la forme est moins puissante
 |- CLASS="premier"
-| [Forme puissante](./Forme puissante.md)<sup>UM</sup>
-| CLASS="gauche" | [Forme animale](./Druide.md#FORMEANIMALE), druide niveau 8
+| [[Forme puissante]]<sup>UM</sup>
+| CLASS="gauche" | [[druide#FORMEANIMALE|Forme animale]], druide niveau 8
 | CLASS="gauche" | Sous forme animale, le personnage est considéré comme d’une catégorie de taille de plus
 |- CLASS="premier"
-| [Frappe sanglante ensorcelée](./Frappe sanglante ensorcelée.md)<sup>UM</sup>
-| CLASS="gauche" | [Cha](./Charisme.md) 13, [lignage](./Lignages.md) d’[ensorceleur](./Ensorceleur.md)
-| CLASS="gauche" | Le personnage récupère un pouvoir de lignage quand il réduit une créature à 0 [point de vie](./pv.md)
+| [[Frappe sanglante ensorcelée]]<sup>UM</sup>
+| CLASS="gauche" | [[Charisme|Cha]] 13, [[lignages|lignage]] d’[[ensorceleur]]
+| CLASS="gauche" | Le personnage récupère un pouvoir de lignage quand il réduit une créature à 0 [[pv|point de vie]]
 |- CLASS="premier"
-| [Glissade](./Glissade.md)<sup>UM</sup>
-| CLASS="gauche" | [Aisance](./Aisance.md), [Esquive](./Esquive.md), [Souplesse du serpent](./Souplesse du serpent.md), [réserve de ki](./réserve de ki.md)
+| [[Glissade]]<sup>UM</sup>
+| CLASS="gauche" | [[Aisance]], [[Esquive]], [[Souplesse du serpent]], [[réserve de ki]]
 | CLASS="gauche" | Utilise le ki pour réduire les attaques d’opportunité lors d’un déplacement
 |- CLASS="premier"
-| [Grâce supérieure](./Grâce supérieure.md)<sup>UM</sup>
-| CLASS="gauche" | [Cha](./Charisme.md) 13, [grâce](./Paladin.md#GRACE), [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS)
+| [[Grâce supérieure]]<sup>UM</sup>
+| CLASS="gauche" | [[Charisme|Cha]] 13, [[paladin#GRACE|grâce]], [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]]
 | CLASS="gauche" | L’imposition des mains soigne des points de vie supplémentaires si la cible n’a pas besoin d’une grâce
 |-
-| &emsp;[Grâce ultime](./Grâce ultime.md)<sup>UM</sup>
-| CLASS="gauche" | [Cha](./Charisme.md) 19, [Grâce supérieure](./Grâce supérieure.md)
+| &emsp;[[Grâce ultime]]<sup>UM</sup>
+| CLASS="gauche" | [[Charisme|Cha]] 19, [[Grâce supérieure]]
 | CLASS="gauche" | Dépense 10 utilisations de l’imposition des mains pour ramener un mort à la vie
 |- CLASS="premier"
-| [Implantation de bombe](./Implantation de bombe.md)<sup>UM</sup>
-| CLASS="gauche" | 5 rangs en [Premiers secours](./Premiers secours.md), [découverte](./../Découverte.md) d’[alchimiste](./Alchimiste.md) [bombe à retardement](./bombe à retardement (découverte).md)
+| [[Implantation de bombe]]<sup>UM</sup>
+| CLASS="gauche" | 5 rangs en [[Premiers secours]], [[découverte]] d’[[alchimiste]] [[bombe à retardement (découverte)|bombe à retardement]]
 | CLASS="gauche" | Implante une bombe dans une créature volontaire ou sans défense
 |- CLASS="premier"
-| [Interférence divine](./Interférence divine.md)<sup>UM</sup>
+| [[Interférence divine]]<sup>UM</sup>
 | CLASS="gauche" | Lanceur de sorts divins, lanceur de sorts niveau 10
-| CLASS="gauche" | Sacrifie un sort pour obliger un ennemi à refaire un [jet d’attaque](./jet dattaque.md) réussi contre un allié
+| CLASS="gauche" | Sacrifie un sort pour obliger un ennemi à refaire un [[jet dattaque|jet d’attaque]] réussi contre un allié
 |- CLASS="premier"
-| [Intuition prophétique](./Intuition prophétique.md)<sup>UM</sup>
-| CLASS="gauche" | [Mystère](./mystère.md)
-| CLASS="gauche" | Bonus aux tests de [Psychologie](./Psychologie.md) et [Art de la magie](./Art de la magie.md) pour identifier des propriétés magiques
+| [[Intuition prophétique]]<sup>UM</sup>
+| CLASS="gauche" | [[Mystère]]
+| CLASS="gauche" | Bonus aux tests de [[Psychologie]] et [[Art de la magie]] pour identifier des propriétés magiques
 |- CLASS="premier"
-| [Invocateur de squelettes](./Invocateur de squelettes.md)<sup>UM</sup>
-| CLASS="gauche" | [École renforcée](./École renforcée.md) (nécromancie), *[convocation de monstres](./Convocation de monstres I.md)*
+| [[Invocateur de squelettes]]<sup>UM</sup>
+| CLASS="gauche" | [[École renforcée]] (nécromancie), *[[convocation de monstres I|convocation de monstres]]*
 | CLASS="gauche" | Convoque des squelettes au lieu de créatures vivantes avec convocation de monstres
 |- CLASS="premier"
-| [Jugement partial](./Jugement partial.md)<sup>UM</sup>
-| CLASS="gauche" | [Sag](./Sagesse.md) 13, pouvoir de classe [jugement](./Inquisiteur.md#JUGEMENT)
-| CLASS="gauche" | Le jugement est plus efficace sur les créatures d’un type donné tirées de la liste des [ennemis jurés](./ennemi juré.md) du [rôdeur](./Rôdeur.md)
+| [[Jugement partial]]<sup>UM</sup>
+| CLASS="gauche" | [[Sagesse|Sag]] 13, pouvoir de classe [[inquisiteur#JUGEMENT|jugement]]
+| CLASS="gauche" | Le jugement est plus efficace sur les créatures d’un type donné tirées de la liste des [[ennemi juré|ennemis jurés]] du [[rôdeur]]
 |- CLASS="premier"
-| [Jugement renforcé](./Jugement renforcé.md)<sup>UM</sup>
-| CLASS="gauche" | [jugement](./Inquisiteur.md#JUGEMENT), deux [jugement](./Inquisiteur.md#JUGEMENT) par jour
+| [[Jugement renforcé]]<sup>UM</sup>
+| CLASS="gauche" | [[inquisiteur#JUGEMENT|jugement]], deux [[inquisiteur#JUGEMENT|jugement]] par jour
 | CLASS="gauche" | Version améliorée du jugement
 |- CLASS="premier"
-| [Langue sauvage](./Langue sauvage.md)<sup>UM</sup>
-| CLASS="gauche" | [Forme animale](./Druide.md#FORMEANIMALE), druide niveau 6
+| [[Langue sauvage]]<sup>UM</sup>
+| CLASS="gauche" | [[druide#FORMEANIMALE|Forme animale]], druide niveau 6
 | CLASS="gauche" | Parle sous forme animale
 |- CLASS="premier"
-| [Maître des bâtons](./Maître des bâtons.md)*<sup>UM</sup>
-| CLASS="gauche" | [Arme de prédilection](./Arme de prédilection.md) (bâton), [BBA](./BBA.md) +5
+| [[Maître des bâtons]]*<sup>UM</sup>
+| CLASS="gauche" | [[Arme de prédilection]] (bâton), [[BBA]] +5
 | CLASS="gauche" | Utilisation à une main des bâtons
 |- CLASS="premier"
-| [Croc-en-jambe au bâton](./Croc-en-jambe au bâton.md)*<sup>UM</sup>
-| CLASS="gauche" | [Int](./Intelligence.md) 13, [Arme de prédilection](./Arme de prédilection.md) (bâton), [Expertise du combat](./Expertise du combat.md), [Science du croc-en-jambe](./Science du croc-en-jambe.md), [BBA](./BBA.md) +6
+| [[Croc-en-jambe au bâton]]*<sup>UM</sup>
+| CLASS="gauche" | [[Intelligence|Int]] 13, [[Arme de prédilection]] (bâton), [[Expertise du combat]], [[Science du croc-en-jambe]], [[BBA]] +6
 | CLASS="gauche" | Le bâton est considéré comme une arme avec la propriété croc-en-jambe
 |-
-| &emsp;[Balayage au bâton](./Balayage au bâton.md)*<sup>UM</sup>
-| CLASS="gauche" | [Croc-en-jambe au bâton](./Croc-en-jambe au bâton.md), [Spécialisation martiale](./Spécialisation martiale.md) (bâton), [BBA](./BBA.md) +12
+| &emsp;[[Balayage au bâton]]*<sup>UM</sup>
+| CLASS="gauche" | [[Croc-en-jambe au bâton]], [[Spécialisation martiale]] (bâton), [[BBA]] +12
 | CLASS="gauche" | Utilisation du bâton pour faire un croc-en-jambe à tous les ennemis adjacents
 |- CLASS="premier"
-| [Maître des morts-vivants](./Maître des morts-vivants.md)<sup>UM</sup>
-| CLASS="gauche" | [École renforcée](./École renforcée.md) (nécromancie), capacité à lancer *[animation des morts](./Animation des morts.md)* ou *[contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md)*
+| [[Maître des morts-vivants]]<sup>UM</sup>
+| CLASS="gauche" | [[École renforcée]] (nécromancie), capacité à lancer *[[animation des morts]]* ou *[[contrôle mineur des morts-vivants]]*
 | CLASS="gauche" | Anime et contrôle plus de morts-vivants
 |- CLASS="premier"
-| [Maléfice magique](./Maléfice magique.md)<sup>UM</sup>
-| CLASS="gauche" | [Maléfice majeur](./Sorcière.md#MALEFICEMAJEUR)
-| CLASS="gauche" | Lance un sort de niveau 1 comme un [maléfice](./maléfice.md)
+| [[Maléfice magique]]<sup>UM</sup>
+| CLASS="gauche" | [[Sorcière#MALEFICEMAJEUR|Maléfice majeur]]
+| CLASS="gauche" | Lance un sort de niveau 1 comme un [[maléfice]]
 |- CLASS="premier"
-| [Maléfice maudit](./Maléfice maudit.md)<sup>UM</sup>
-| CLASS="gauche" | Aptitude de classe [maléfice](./maléfice.md)
+| [[Maléfice maudit]]<sup>UM</sup>
+| CLASS="gauche" | Aptitude de classe [[maléfice]]
 | CLASS="gauche" | Vise une créature une seconde fois dans la journée si elle a réussi son jet de sauvegarde la première
 |- CLASS="premier"
-| [Métamagie spontanée](./Métamagie spontanée.md)<sup>UM</sup>
-| CLASS="gauche" | [Cha](./Charisme.md) 13, un [don de métamagie](./Dons.md#DONMETAMAGIE), capacité à lancer des sorts spontanés
+| [[Métamagie spontanée]]<sup>UM</sup>
+| CLASS="gauche" | [[Charisme|Cha]] 13, un [[dons#DONMETAMAGIE|don de métamagie]], capacité à lancer des sorts spontanés
 | CLASS="gauche" | Applique un don de métamagie à un sort qui conserve son temps d’incantation normal
 |- CLASS="premier"
-| [Meurs pour ton maître](./Meurs pour ton maître.md)<sup>UM</sup>
-| CLASS="gauche" | [découverte](./../Découverte.md) d’alchimiste [tumeur](./tumeur-(découverte).md)
+| [[Meurs pour ton maître]]<sup>UM</sup>
+| CLASS="gauche" | [[découverte]] d’alchimiste [[tumeur (découverte)|tumeur]]
 | CLASS="gauche" | Le familier tumeur meurt à la place de son maître
 |- CLASS="premier"
-| [Mot de guérison](./Mot de guérison.md)<sup>UM</sup>
-| CLASS="gauche" | [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS)
+| [[Mot de guérison]]<sup>UM</sup>
+| CLASS="gauche" | [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]]
 | CLASS="gauche" | Imposition des mains à distance
 |- CLASS="premier"
-| [Mur de boucliers canalisé](./Mur de boucliers canalisé.md)<sup>UM</sup>
-| CLASS="gauche" | [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 3d6, [Maniement des boucliers](./Maniement des boucliers.md)
+| [[Mur de boucliers canalisé]]<sup>UM</sup>
+| CLASS="gauche" | [[prêtre#CANALISATIONDENERGIE|Canalisation d’énergie]] 3d6, [[Maniement des boucliers]]
 | CLASS="gauche" | Améliore le bouclier et celui des alliés adjacents
 |- CLASS="premier"
-| [Musique flamboyante](./Musique flamboyante.md)<sup>UM</sup>
-| CLASS="gauche" | 5 rangs en [Art de la magie](./Art de la magie.md), capacité à lancer des sorts de [barde](./Barde.md), capacité à lancer un sort de feu d’une autre classe
+| [[Musique flamboyante]]<sup>UM</sup>
+| CLASS="gauche" | 5 rangs en [[Art de la magie]], capacité à lancer des sorts de [[barde]], capacité à lancer un sort de feu d’une autre classe
 | CLASS="gauche" | Remplace les dégâts du sort de barde par des dégâts de feu, les monstres convoqués gagnent des attaques de feu
 |- CLASS="premier"
-| [Oeil du juge](./Oeil-du-juge.md)<sup>UM</sup>
-| CLASS="gauche" | Pouvoir de classe [détection d’alignement](./Inquisiteur.md#DETECTIONDALIGNEMENT), lanceur de sorts niveau 6
+| [[Oeil du juge]]<sup>UM</sup>
+| CLASS="gauche" | Pouvoir de classe [[inquisiteur#DETECTIONDALIGNEMENT|détection d’alignement]], lanceur de sorts niveau 6
 | CLASS="gauche" | Détermine l’alignement exact de la cible après 3 rounds d’observation
 |- CLASS="premier"
-| [Oracle du péché](./Oracle du péché.md)<sup>UM</sup>
-| CLASS="gauche" | Pouvoir de [paladin](./Paladin.md) [détection des morts-vivants](./Détection des morts-vivants.md)
+| [[Oracle du péché]]<sup>UM</sup>
+| CLASS="gauche" | Pouvoir de [[paladin]] [[détection des morts-vivants]]
 | CLASS="gauche" | Capacité à détecter le mal
 |- CLASS="premier"
-| [Piège de rôdeur évolué](./Piège de rôdeur évolué.md)<sup>UM</sup>
-| CLASS="gauche" | Capacité à poser des [pièges](./Pièges de rôdeur.md), [rôdeur](./Rôdeur.md) de niveau 5
-| CLASS="gauche" | Ajoute +1 au [DD](./DD.md) des tests de [Sabotage](./Sabotage.md) et de [Perception](./Perception.md) des [piège de rôdeur](./piège de rôdeur.md)
+| [[Piège de rôdeur évolué]]<sup>UM</sup>
+| CLASS="gauche" | Capacité à poser des [[pièges de rôdeur|pièges]], [[rôdeur]] de niveau 5
+| CLASS="gauche" | Ajoute +1 au [[DD]] des tests de [[Sabotage]] et de [[Perception]] des [[piège de rôdeur]]
 |- CLASS="premier"
-| [Piège de rôdeur supplémentaire](./Piège de rôdeur supplémentaire.md)<sup>UM</sup>
-| CLASS="gauche" | Capacité à poser des [pièges](./Pièges de rôdeur.md)
+| [[Piège de rôdeur supplémentaire]]<sup>UM</sup>
+| CLASS="gauche" | Capacité à poser des [[pièges de rôdeur|pièges]]
 | CLASS="gauche" | Pose de 2 pièges de plus par jour
 |- CLASS="premier"
-| [Prêtre guerrier](./Prêtre guerrier.md)<sup>UM</sup>
-| CLASS="gauche" | Capacité à lancer des sorts divins, [domaine](./domaine.md) ou [mystère](./mystère.md)
+| [[Prêtre guerrier]]<sup>UM</sup>
+| CLASS="gauche" | Capacité à lancer des sorts divins, [[domaine]] ou [[mystère]]
 | CLASS="gauche" | bonus de +1 à l’nitiative et de +2 aux tests de Concentration pour incanter sur la défensive
 |- CLASS="premier"
-| [Prodige](./Prodige.md)<sup>UM</sup>
+| [[Prodige]]<sup>UM</sup>
 | CLASS="gauche" | –
-| CLASS="gauche" | Bonus de +2 à deux compétences d’[Artisanat](./Artisanat.md), de [Profession](./Profession.md) ou de [Représentation](./Représentation.md)
+| CLASS="gauche" | Bonus de +2 à deux compétences d’[[Artisanat]], de [[Profession]] ou de [[Représentation]]
 |- CLASS="premier"
-| [Récompense de grâce](./Récompense de grâce.md)<sup>UM</sup>
-| CLASS="gauche" | [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS)
+| [[Récompense de grâce]]<sup>UM</sup>
+| CLASS="gauche" | [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]]
 | CLASS="gauche" | À chaque fois que le personnage utilise imposition des mains, il gagne un bonus sacré de +1 aux jets d’attaque
 |- CLASS="premier"
-| [Récompense de vie](./Récompense de vie.md)<sup>UM</sup>
-| CLASS="gauche" | [Imposition des mains](./Paladin.md#IMPOSITIONDESMAINS)
-| CLASS="gauche" | À chaque fois que le personnage utilise son imposition des mains, il gagne un nombre de [points de vie](./pv.md) égal à son [Charisme](./Charisme.md)
+| [[Récompense de vie]]<sup>UM</sup>
+| CLASS="gauche" | [[Paladin#IMPOSITIONDESMAINS|Imposition des mains]]
+| CLASS="gauche" | À chaque fois que le personnage utilise son imposition des mains, il gagne un nombre de [[pv|points de vie]] égal à son [[Charisme]]
 |- CLASS="premier"
-| [Refuser la mort](./Refuser la mort.md)<sup>UM</sup>
-| CLASS="gauche" | [réserve de ki](./réserve de ki.md), [Endurance](./Endurance.md)
+| [[Refuser la mort]]<sup>UM</sup>
+| CLASS="gauche" | [[réserve de ki]], [[Endurance]]
 | CLASS="gauche" | Utilise le ki pour repousser la mort
 |- CLASS="premier"
-| [Regard intimidant](./Regard intimidant.md)<sup>UM</sup>
-| CLASS="gauche" | [Cha](./Cha.md) 13, pouvoir de classe [regard sévère](./Inquisiteur.md#REGARDSEVERE), 5 rangs en [Intimidation](./Intimidation.md)
-| CLASS="gauche" | Quand le personnage utilise l’[Intimidation](./Intimidation.md), il lance deux fois le dé et prend le meilleur
+| [[Regard intimidant]]<sup>UM</sup>
+| CLASS="gauche" | [[Cha]] 13, pouvoir de classe [[inquisiteur#REGARDSEVERE|regard sévère]], 5 rangs en [[Intimidation]]
+| CLASS="gauche" | Quand le personnage utilise l’[[Intimidation]], il lance deux fois le dé et prend le meilleur
 |- CLASS="premier"
-| [Regard pénétrant](./Regard pénétrant.md)<sup>UM</sup>
-| CLASS="gauche" | Pouvoir de classe [regard sévère](./Inquisiteur.md#REGARDSEVERE), 5 rangs en [Psychologie](./Psychologie.md)
-| CLASS="gauche" | Quand le personnage utilise la [Psychologie](./Psychologie.md), il lance deux fois le dé et prend le meilleur
+| [[Regard pénétrant]]<sup>UM</sup>
+| CLASS="gauche" | Pouvoir de classe [[inquisiteur#REGARDSEVERE|regard sévère]], 5 rangs en [[Psychologie]]
+| CLASS="gauche" | Quand le personnage utilise la [[Psychologie]], il lance deux fois le dé et prend le meilleur
 |- CLASS="premier"
-| [Répartition des maléfices](./Répartition des maléfices.md)<sup>UM</sup>
-| CLASS="gauche" | [Sorcière](./Sorcière.md) niveau 10
-| CLASS="gauche" | Un [maléfice](./maléfice.md) qui cible une créature peut en toucher deux
+| [[Répartition des maléfices]]<sup>UM</sup>
+| CLASS="gauche" | [[Sorcière]] niveau 10
+| CLASS="gauche" | Un [[maléfice]] qui cible une créature peut en toucher deux
 |-
-| &emsp;[Répartition des maléfices majeurs](./Répartition des maléfices majeurs.md)<sup>UM</sup>
-| CLASS="gauche" | [Répartition des maléfices](./Répartition des maléfices.md), lanceur de sorts niveau 18
+| &emsp;[[Répartition des maléfices majeurs]]<sup>UM</sup>
+| CLASS="gauche" | [[Répartition des maléfices]], lanceur de sorts niveau 18
 | CLASS="gauche" | Un maléfice majeur qui cible une créature peut en toucher deux
 |- CLASS="premier"
-| [Réserve magique supplémentaire](./Réserve magique supplémentaire.md)<sup>UM</sup>
-| CLASS="gauche" | Pouvoir de classe [réserve magique](./réserve magique.md)
-| CLASS="gauche" | La [réserve magique](./réserve magique.md) augmente de 2
+| [[Réserve magique supplémentaire]]<sup>UM</sup>
+| CLASS="gauche" | Pouvoir de classe [[réserve magique]]
+| CLASS="gauche" | La [[réserve magique]] augmente de 2
 |- CLASS="premier"
-| [Science de la connaissance des monstres](./Science de la connaissance des monstres.md)<sup>UM</sup>
-| CLASS="gauche" | Pouvoir de classe [Connaissance des monstres](./connaissance des monstres.md)
+| [[Science de la connaissance des monstres]]<sup>UM</sup>
+| CLASS="gauche" | Pouvoir de classe [[Connaissance des monstres]]
 | CLASS="gauche" | bonus sacré aux tests de connaissance des monstres
 |- CLASS="premier"
-| [Se relever avec le ki](./Se relever avec le ki.md)<sup>UM</sup>
-| CLASS="gauche" | [Réserve de ki](./réserve de ki.md)
-| CLASS="gauche" | Se relever par une [action rapide](./Action rapide.md), dépenser 1 [point de ki](./point de ki.md) pour ne pas provoquer d’[attaque d’opportunité](./attaque dopportunité.md)
+| [[Se relever avec le ki]]<sup>UM</sup>
+| CLASS="gauche" | [[Réserve de ki]]
+| CLASS="gauche" | Se relever par une [[action rapide]], dépenser 1 [[point de ki]] pour ne pas provoquer d’[[attaque dopportunité|attaque d’opportunité]]
 |- CLASS="premier"
-| [Spécialisation magique](./Spécialisation magique.md)<sup>UM</sup>
-| CLASS="gauche" | [Int](./Intelligence.md) 13, [École renforcée](./École renforcée.md)
+| [[Spécialisation magique]]<sup>UM</sup>
+| CLASS="gauche" | [[Intelligence|Int]] 13, [[École renforcée]]
 | CLASS="gauche" | Le personnage choisit un sort et le lance comme s’il était d’un niveau supérieur
 |-
-| &emsp;[Spécialisation magique supérieure](./Spécialisation magique supérieure.md)<sup>UM</sup>
-| CLASS="gauche" | [Spécialisation magique](./Spécialisation magique.md), capacité à lancer des sorts de niveau 5
+| &emsp;[[Spécialisation magique supérieure]]<sup>UM</sup>
+| CLASS="gauche" | [[Spécialisation magique]], capacité à lancer des sorts de niveau 5
 | CLASS="gauche" | Sacrifie un sort pour lancer un sort de spécialité
 |- CLASS="premier"
-| [Synergie des sens](./Synergie des sens.md)<sup>UM</sup>
+| [[Synergie des sens]]<sup>UM</sup>
 | CLASS="gauche" | sens liés
-| CLASS="gauche" | Bonus de +4 aux tests de [Perception](./Perception.md) quand le personnage partage ses sens avec son [eidolon](./eidolon.md)
+| CLASS="gauche" | Bonus de +4 aux tests de [[Perception]] quand le personnage partage ses sens avec son [[eidolon]]
 |- CLASS="premier"
-| [Théurgie](./Théurgie.md)<sup>UM</sup>
-| CLASS="gauche" | [Sag](./Sagesse.md) 13, [Int](./Intelligence.md) ou [Cha](./Charisme.md) 13, capacité à lancer des sorts profanes et divins de niveau 1
+| [[Théurgie]]<sup>UM</sup>
+| CLASS="gauche" | [[Sagesse|Sag]] 13, [[Intelligence|Int]] ou [[Charisme|Cha]] 13, capacité à lancer des sorts profanes et divins de niveau 1
 | CLASS="gauche" | Améliore les sorts profanes avec de l’énergie divine et inversement
 |- CLASS="premier"
-| [Tours de magie ou oraisons supplémentaires|Tours de magie ou oraisons supplémentaires]<sup>UM</sup>
-| CLASS="gauche" | Capacité à lancer des [tours de magie](./Ensorceleur.md#TOURSDEMAGIE) ou des [oraisons](./Prêtre.md#ORAISONS)
+| [[Tours de magie ou oraisons supplémentaires]]<sup>UM</sup>
+| CLASS="gauche" | Capacité à lancer des [[ensorceleur#TOURSDEMAGIE|tours de magie]] ou des [[prêtre#ORAISONS|oraisons]]
 | CLASS="gauche" | Gain de 2 tours de magie ou oraisons connus
 |- CLASS="premier"
-| [Tueur prolongé](./Tueur prolongé.md)<sup>UM</sup>
-| CLASS="gauche" | Pouvoir de classe [tueur](./Tueur.md)
-| CLASS="gauche" | La propriété tueur se prolonge pendant un nombre de rounds égal à la [Sagesse](./Sagesse.md)
+| [[Tueur prolongé]]<sup>UM</sup>
+| CLASS="gauche" | Pouvoir de classe [[tueur]]
+| CLASS="gauche" | La propriété tueur se prolonge pendant un nombre de rounds égal à la [[Sagesse]]
 |- CLASS="premier"
-| [Ultime fermeté](./Ultime fermeté.md)<sup>UM</sup>
-| CLASS="gauche" |  [Aura de fermeté](./Paladin.md#AURADEFERMETE)
+| [[Ultime fermeté]]<sup>UM</sup>
+| CLASS="gauche" |  [[paladin#AURADEFERMETE|Aura de fermeté]]
 | CLASS="gauche" | L’aura de fermeté grandit et ne disparaît pas quand le personnage tombe
 |- CLASS="premier"
-| [Vigilance instinctive](./Vigilance instinctive.md)<sup>UM</sup>
-| CLASS="gauche" | [Vigilance](./Vigilance.md)
-| CLASS="gauche" | bonus de +1 aux tests de [Perception](./Perception.md) et de [Psychologie](./Psychologie.md) et de +2 aux [jets de sauvegarde](./jet de sauvegarde.md) contre les effets de sommeil et de charme
+| [[Vigilance instinctive]]<sup>UM</sup>
+| CLASS="gauche" | [[Vigilance]]
+| CLASS="gauche" | bonus de +1 aux tests de [[Perception]] et de [[Psychologie]] et de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets de sommeil et de charme
 |- CLASS="premier"
-| [Vision prophétique](./Vision prophétique.md)<sup>UM</sup>
-| CLASS="gauche" | [Mystère](./Sorcière.md#MYSTERE)
+| [[Vision prophétique]]<sup>UM</sup>
+| CLASS="gauche" | [[sorcière#MYSTERE|Mystère]]
 | CLASS="gauche" | Une fois par jour, le personnage entre en transe et reçoit une vision prophétique
 |- CLASS="premier"
-| [Voix de la sibylle](./Voix de la sibylle.md)<sup>UM</sup>
-| CLASS="gauche" | [Cha](./Charisme.md) 15
-| CLASS="gauche" | Bonus aux tests de [Bluff](./Bluff.md), [Diplomatie](./Diplomatie.md) et [Représentation](./Représentation.md) (arts oratoires)
+| [[Voix de la sibylle]]<sup>UM</sup>
+| CLASS="gauche" | [[Charisme|Cha]] 15
+| CLASS="gauche" | Bonus aux tests de [[Bluff]], [[Diplomatie]] et [[Représentation]] (arts oratoires)
 |}
 </center>

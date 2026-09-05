@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Talents#POLYGLOTTEDOUE
 ---
 
->>> [Talents#POLYGLOTTEDOUE](./Talents.md#POLYGLOTTEDOUE)
+>>> [[Talents#POLYGLOTTEDOUE]]

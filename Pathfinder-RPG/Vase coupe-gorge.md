@@ -10,31 +10,31 @@ LastModified: 2021-02-21 21:27
 {s:pucem|Vase|Souterrain|Tempéré}
 {s:BDTexte|*Source : Bestiaire 3, p.273*}
 {s:BDTexte|**PX** 4 800}
-{s:BDTexte|[Vase](./type Vase.md) ([métamorphe](./sous-type métamorphe.md)) de taille G, N}
-{s:BDTexte|**Init** -4 ; **Sens** [vision aveugle](./Vision aveugle (capacité).md) à 18 m (12 {s:c}) ; [Perception](./Perception.md) -5}
+{s:BDTexte|[[type Vase|Vase]] ([[sous-type métamorphe|métamorphe]]) de taille G, N}
+{s:BDTexte|**Init** -4 ; **Sens** [[Vision aveugle (capacité)|vision aveugle]] à 18 m (12 {s:c}) ; [[Perception]] -5}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 10, contact 5, pris au dépourvu 10 (Dex -4, naturelle +5, taille -1)}
 {s:BDTexte|**pv** 126 (12d8+72)}
 {s:BDTexte|**Réf** +0, **Vig** +10, **Vol** -1}
-{s:BDTexte|**Immunité** acide, [traits des vases](./type Vase.md)}
+{s:BDTexte|**Immunité** acide, [[type Vase|traits des vases]]}
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 6 m (4 {s:c}), escalade 6 m (4 {s:c})}
-{s:BDTexte|**Corps à corps** coup, +13 (2d6+7 acide plus [étreinte](./Étreinte (capacité).md))}
+{s:BDTexte|**Corps à corps** coup, +13 (2d6+7 acide plus [[étreinte (capacité)|étreinte]])}
 {s:BDTexte|**Espace** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaques spéciales** [constriction](./Constriction (capacité).md) (2d6+7 plus 2d6 acide)}
+{s:BDTexte|**Attaques spéciales** [[constriction (capacité)|constriction]] (2d6+7 plus 2d6 acide)}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 3, **Con** 22, **Int** -, **Sag** 1, **Cha** 1}
-{s:BDTexte|**BBA** +9, **BMO** +15 (+19 [lutte](./lutte.md)), **DMD** 21 ([croc-en-jambe](./croc-en-jambe.md) impossible)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +13}
-{s:BDTexte|**Particularité** forme de piège, [compression](./Compression (capacité).md)}
+{s:BDTexte|**BBA** +9, **BMO** +15 (+19 [[lutte]]), **DMD** 21 ([[croc-en-jambe]] impossible)}
+{s:BDTexte|**Compétences** [[Escalade]] +13}
+{s:BDTexte|**Particularité** forme de piège, [[compression (capacité)|compression]]}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** tous les souterrains}
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Capacités spéciales}
 {s:BDTexte|**Acide (Ext).** La vase coupe-gorge sécrète un acide qui ne ronge que la chair. Les créatures faites d’un autre matériau que la chair sont immunisées contre cet acide.}
-{s:BDTexte|**Forme de piège (Sur).** En prenant 1 minute, la vase coupe-gorge peut prendre la forme de n’importe quel piège mécanique de taille M ou G n’ayant pas plus d’une partie mobile (à l’exception des fosses). La vase peut conserver cette forme indéfiniment. Le piège qu’elle imite doit être de [FP](./FP.md) équivalent ou inférieur à celui de la vase coupe-gorge ; parmi les [pièges](./Exemples de pièges.md) du *Manuel des Joueurs*, voici ceux qui conviennent : lame dissimulée dans un mur (FP 1), faux dissimulée dans un mur (FP 4) et chute d’un bloc de pierre (FP 5). Sous forme de piège, la vase utilise son propre bonus d’attaque mais, pour le reste, fonctionne comme le piège imité avec ses caractéristiques et ses dégâts. Si une créature qui recherche des pièges dépasse le [DD](./DD.md) nécessaire pour trouver la vase sous forme de piège, un test de [Connaissances](./Connaissances.md) (exploration souterraine) de DD 19 réussi permet ensuite de reconnaître sa véritable nature. Si la vase reçoit des dégâts, quels qu’ils soient, elle reprend sa forme normale par une [action libre](./Action libre.md). Dans les autres cas, elle doit dépenser une [action rapide](./Action rapide.md).}
-{s:BDTexte|**Rayon de plasma (Sur).** Par une [action simple](./Action simple.md), la vase de plasma peut tirer 1d4 rayons de plasma sur un maximum de 4 cibles distinctes situées dans un [rayon](./rayon.md) de 18 mètres (une unique créature ne peut pas être attaquée par plus d’un rayon). Chaque rayon inflige 4d6 points de dégâts d’électricité et 4d6 points de dégâts de feu s’il touche sa cible.}
+{s:BDTexte|**Forme de piège (Sur).** En prenant 1 minute, la vase coupe-gorge peut prendre la forme de n’importe quel piège mécanique de taille M ou G n’ayant pas plus d’une partie mobile (à l’exception des fosses). La vase peut conserver cette forme indéfiniment. Le piège qu’elle imite doit être de [[FP]] équivalent ou inférieur à celui de la vase coupe-gorge ; parmi les [[exemples de pièges|pièges]] du *Manuel des Joueurs*, voici ceux qui conviennent : lame dissimulée dans un mur (FP 1), faux dissimulée dans un mur (FP 4) et chute d’un bloc de pierre (FP 5). Sous forme de piège, la vase utilise son propre bonus d’attaque mais, pour le reste, fonctionne comme le piège imité avec ses caractéristiques et ses dégâts. Si une créature qui recherche des pièges dépasse le [[DD]] nécessaire pour trouver la vase sous forme de piège, un test de [[Connaissances]] (exploration souterraine) de DD 19 réussi permet ensuite de reconnaître sa véritable nature. Si la vase reçoit des dégâts, quels qu’ils soient, elle reprend sa forme normale par une [[action libre]]. Dans les autres cas, elle doit dépenser une [[action rapide]].}
+{s:BDTexte|**Rayon de plasma (Sur).** Par une [[action simple]], la vase de plasma peut tirer 1d4 rayons de plasma sur un maximum de 4 cibles distinctes situées dans un [[rayon]] de 18 mètres (une unique créature ne peut pas être attaquée par plus d’un rayon). Chaque rayon inflige 4d6 points de dégâts d’électricité et 4d6 points de dégâts de feu s’il touche sa cible.}
 </div>
 </td><td><div>*La lame assassine de cet horrible piège dégouline de la substance animée et brillante d’une vase brun-orangé.*
 

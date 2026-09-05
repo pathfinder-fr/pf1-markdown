@@ -13,13 +13,13 @@ Categories:
 
 *En concentrant toute son attention sur une unique attaque, le personnage augmente considérablement l’efficacité des armes alchimiques qu'il lance.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Lancer improvisé](./Lancer improvisé.md), [BBA](./BBA.md)+6.
+**Conditions.** [[Lancer improvisé]], [[BBA]]+6.
 
-**Avantage.** Le personnage peut lancer un unique [objet alchimique](./Armes alchimiques.md) au prix d’une [action complexe](./Action complexe.md), augmentant l’efficacité de l’agent alchimique lancé. Lorsque le personnage lance un unique objet alchimique au prix d'une action complexe, il peut augmenter le [DD](./DD.md) de tout effet alchimique associé à cet objet de 2. Lorsque son [BBA](./BBA.md) atteint +11 et, par la suite, pour chaque tranche de 5 points de bonus, le personnage peut augmenter le [DD](./DD.md) de 2 points supplémentaires. Ce don ne s'applique pas aux [bombes](./Alchimiste.md#BOMBES) d'un [alchimiste](./Alchimiste.md).
+**Avantage.** Le personnage peut lancer un unique [[Armes alchimiques|objet alchimique]] au prix d’une [[action complexe]], augmentant l’efficacité de l’agent alchimique lancé. Lorsque le personnage lance un unique objet alchimique au prix d'une action complexe, il peut augmenter le [[DD]] de tout effet alchimique associé à cet objet de 2. Lorsque son [[BBA]] atteint +11 et, par la suite, pour chaque tranche de 5 points de bonus, le personnage peut augmenter le [[DD]] de 2 points supplémentaires. Ce don ne s'applique pas aux [[Alchimiste#BOMBES|bombes]] d'un [[alchimiste]].
 
-**Spécial.** Un [alchimiste](./Alchimiste.md) peut prendre ce don à la place d'une [découverte](./Alchimiste.md#DECOUVERTES). Il n'a pas besoin de remplir les conditions requises et utilise son niveau de classe plutôt que son [BBA](./BBA.md) lorsqu'il s'agit de déterminer le bonus accordé par ce don.
+**Spécial.** Un [[alchimiste]] peut prendre ce don à la place d'une [[Alchimiste#DECOUVERTES|découverte]]. Il n'a pas besoin de remplir les conditions requises et utilise son niveau de classe plutôt que son [[BBA]] lorsqu'il s'agit de déterminer le bonus accordé par ce don.
 
 (((Alchemical strike (combat)
 

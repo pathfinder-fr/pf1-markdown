@@ -13,10 +13,10 @@ Categories:
 {s:pucem|Humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Codex Monstrueux p.99*}
 {s:BDTexte|**PX** 25600}
-{s:BDTexte|[Gobelours](./Gobelours.md) [antipaladin](./Antipaladin.md) (semeur de peur) 12 (*Manuel des joueurs règles avancées* p.118, p.92 de cet ouvrage)}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([gobelinoïde](./sous-type gobelinoïde.md)) de taille M, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [odorat](./odorat.md) ; [Perception](./Perception.md) +11}
-{s:BDTexte|**Aura** [désespoir](./Antipaladin.md#AURADEDESESPOIR) (3m), [lâcheté](./Antipaladin.md#AURADELACHETE) (3m), [vengeance](./Antipaladin.md#AURADEVENGEANCE) (3m)}
+{s:BDTexte|[[Gobelours]] [[antipaladin]] (semeur de peur) 12 (*Manuel des joueurs règles avancées* p.118, p.92 de cet ouvrage)}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type gobelinoïde|gobelinoïde]]) de taille M, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[odorat]] ; [[Perception]] +11}
+{s:BDTexte|**Aura** [[Antipaladin#AURADEDESESPOIR|désespoir]] (3m), [[Antipaladin#AURADELACHETE|lâcheté]] (3m), [[Antipaladin#AURADEVENGEANCE|vengeance]] (3m)}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 27, contact 12, pris au dépourvu 26 (armure +11, Dex +1, naturelle +4, parade +1)}
 {s:BDTexte|**pv** 136 (15 DV ; 3d8+12d12+57)}
@@ -26,24 +26,24 @@ Categories:
 {s:BDTexte|**VD** 9 m (6 {s:c})}
 {s:BDTexte|**Corps à corps** *cimeterre à deux mains +2*, +22/+17/+12 (2d4+9/18-20)}
 {s:BDTexte|**Distance** javeline de maître, +16 (1d6+5)}
-{s:BDTexte|**Attaques spéciales** [canalisation d'énergie négative](./Antipaladin.md#CANALISATIONDENERGIENEGATIVE) (DD 18, 6d6), [châtiment du bien](./Antipaladin.md#CHATIMENTDUBIEN) 4/jour (+2 attaque et CA, +12 dégâts), [toucher de la corruption](./Antipaladin.md#TOUCHERDECORRUPTION) 8/jour}
-{s:BDTexte|**Pouvoirs magiques d'antipaladin** ([NLS](./NLS.md) 12 ; [concentration](./concentration.md) +14)}
-{s:BDSorts|A volonté - *[détection du Bien](./Détection du Bien.md)*}
-{s:BDTexte|**Sorts d'antipaladin préparés** ([NLS](./NLS.md) 9 ; [concentration](./concentration.md) +11)}
-{s:BDSorts|3e — *[isoler](./Isoler.md)* (DD 15)}
-{s:BDSorts|2e — *[effroi](./Effroi.md)* (DD 14), *[litanie de prévention](./Litanie de prévention.md)*, *[résistance à la corruption](./Résistance à la corruption.md)*}
-{s:BDSorts|1e — *[déguisement](./Déguisement.md)*, *[litanie de faiblesse](./Litanie de faiblesse.md)*, *[litanie de paresse](./Litanie de paresse.md)*,}
+{s:BDTexte|**Attaques spéciales** [[Antipaladin#CANALISATIONDENERGIENEGATIVE|canalisation d'énergie négative]] (DD 18, 6d6), [[Antipaladin#CHATIMENTDUBIEN|châtiment du bien]] 4/jour (+2 attaque et CA, +12 dégâts), [[Antipaladin#TOUCHERDECORRUPTION|toucher de la corruption]] 8/jour}
+{s:BDTexte|**Pouvoirs magiques d'antipaladin** ([[NLS]] 12 ; [[concentration]] +14)}
+{s:BDSorts|A volonté - *[[détection du Bien]]*}
+{s:BDTexte|**Sorts d'antipaladin préparés** ([[NLS]] 9 ; [[concentration]] +11)}
+{s:BDSorts|3e — *[[isoler]]* (DD 15)}
+{s:BDSorts|2e — *[[effroi]]* (DD 14), *[[litanie de prévention]]*, *[[résistance à la corruption]]*}
+{s:BDSorts|1e — *[[déguisement]]*, *[[litanie de faiblesse]]*, *[[litanie de paresse]]*,}
 {s:BDSousTitre|Tactique}
-{s:BDTexte|**Avant le combat.** Le gobelours lance [déguisement](./Déguisement.md) sur sa personne pour se rapprocher d'une cible sans méfiance. }
-{s:BDTexte|**Pendant le combat.** Le tyran gobelours profite des effets de terreur à sa disposition pour augmenter ses dégâts avec Opportuniste cruel et [Blessant](./Blessant.md) tout en regagnant des points de vie grâce au pouvoir [se nourrir de la peur](./Semeur de peur (antipaladin).md). Le tyran se moque éperdument des alliés qui se battent à ses côtés et, s'il doit battre en retraite, il les laisse se sacrifier.}
+{s:BDTexte|**Avant le combat.** Le gobelours lance [[déguisement]] sur sa personne pour se rapprocher d'une cible sans méfiance. }
+{s:BDTexte|**Pendant le combat.** Le tyran gobelours profite des effets de terreur à sa disposition pour augmenter ses dégâts avec Opportuniste cruel et [[Blessant]] tout en regagnant des points de vie grâce au pouvoir [[Semeur de peur (antipaladin)|se nourrir de la peur]]. Le tyran se moque éperdument des alliés qui se battent à ses côtés et, s'il doit battre en retraite, il les laisse se sacrifier.}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 20, **Dex** 12, **Con** 16, **Int** 12, **Sag** 8, **Cha** 15}
 {s:BDTexte|**BBA** +14, **BMO** +19, **DMD** 30}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (cimeterre à deux mains), [Attaque en puissance](./Attaque en puissance.md), [Blessant](./Blessant.md), [Démonstration](./Démonstration.md), [Force intimidante](./Force intimidante.md), [Menace viscérale](./Menace viscérale.md), Opportuniste cruel, [Rallonge](./Rallonge.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +15, [Intimidation](./Intimidation.md) +26, [Perception](./Perception.md) +11}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (cimeterre à deux mains), [[Attaque en puissance]], [[Blessant]], [[Démonstration]], [[Force intimidante]], [[Menace viscérale]], Opportuniste cruel, [[Rallonge]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +15, [[Intimidation]] +26, [[Perception]] +11}
 {s:BDTexte|**Langues** abyssal, commun, gobelin}
-{s:BDTexte|**Particularités** [cruauté](./Antipaladin.md#CRUAUTE) (effrayé, hébété, paniqué), [faveur des fiélons](./Antipaladin.md#FAVEURDESFIELONS) (arme +3, 2/jour), [se nourrir de la peur](./Semeur de peur (antipaladin).md) (6 PV), [traqueur](./Gobelours.md#TRAQUEUR)}
-{s:BDTexte|**Équipement de combat** *[élixir d'oppression](./Élixir doppression.md)*, *[potion](./Potions magiques.md) de [soins modérés](./Soins modérés.md)* ; **Équipement divers** *[harnois +2](./harnois (armure).md)*, [javelines de maître](./javeline (arme).md) (2), *[amulette d'armure naturelle +1](./Amulette darmure naturelle.md)*, *[bottes de sept lieues](./Bottes de sept lieues.md)*, *[cape de résistance +1](./Cape de résistance.md)*, *[anneau de protection +1](./Anneau de protection.md)*, 973 po}
+{s:BDTexte|**Particularités** [[Antipaladin#CRUAUTE|cruauté]] (effrayé, hébété, paniqué), [[Antipaladin#FAVEURDESFIELONS|faveur des fiélons]] (arme +3, 2/jour), [[Semeur de peur (antipaladin)|se nourrir de la peur]] (6 PV), [[Gobelours#TRAQUEUR|traqueur]]}
+{s:BDTexte|**Équipement de combat** *[[élixir doppression|élixir d'oppression]]*, *[[potions magiques|potion]] de [[soins modérés]]* ; **Équipement divers** *[[harnois (armure)|harnois +2]]*, [[javeline (arme)|javelines de maître]] (2), *[[amulette darmure naturelle|amulette d'armure naturelle +1]]*, *[[bottes de sept lieues]]*, *[[cape de résistance|cape de résistance +1]]*, *[[anneau de protection|anneau de protection +1]]*, 973 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 {| CLASS="tablo autoalt"
@@ -51,27 +51,27 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Gobelours](./Gobelours.md) || 2
+| [[Gobelours]] || 2
 |-
-| [Grincedent gobelours](./Grincedent gobelours.md) || 4
+| [[Grincedent gobelours]] || 4
 |-
-| [Traqueur gobelours](./Traqueur gobelours.md) || 5
+| [[Traqueur gobelours]] || 5
 |-
-| [Fanatique gobelours](./Fanatique gobelours.md) || 7
+| [[Fanatique gobelours]] || 7
 |-
-| [Dévoreur gobelours](./Dévoreur gobelours.md) || 8
+| [[Dévoreur gobelours]] || 8
 |-
-| [Rôdeur gobelours](./Rôdeur gobelours.md) || 8
+| [[Rôdeur gobelours]] || 8
 |-
-| [Spectre terrifiant](./Spectre terrifiant.md) || 8
+| [[Spectre terrifiant]] || 8
 |-
-| [Gobelours adepte de l'embuscade](./Gobelours adepte de lembuscade.md) || 10
+| [[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]] || 10
 |-
-| [Ombre discrète gobelours](./Ombre discrète gobelours.md) || 10
+| [[Ombre discrète gobelours]] || 10
 |-
-| [Mage du sang gobelours](./Mage du sang gobelours.md) || 11
+| [[Mage du sang gobelours]] || 11
 |-
-| [Tyran gobelours](./Tyran gobelours.md) || 13
+| [[Tyran gobelours]] || 13
 |}
 </div> Le tyran gobelin est  un serviteur dément de la peur et du meurtre. Il a commencé en solitaire, comme maraudeur, mais il a cumulé tant de puissance qu'un culte a commencé à se former autour de lui et à le vénérer en tant qu'élu d'un seigneur démon. Une nation gobelours rudimentaire un commencer à se rassembler pour le servir. Mais rien de cela n'est digne de son attention. Il se moque de savoir qui sont ses serviteurs, ce qu'ils espèrent et ceux qu'ils ont prévu. Sa seule mission consiste à répandre la terreur et la dévastation.
 

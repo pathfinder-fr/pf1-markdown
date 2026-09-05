@@ -8,17 +8,17 @@ Categories:
 - Ville
 ---
 
-{s:Ville|Pointesable|/Illustrations/Cartes/PointeSable-perspective.jpg|Le Phare de la côte Oubliée|Petit ville|NB|800 po|49600 po|1240|90% humains, 3% halfelins, 2% nains, 2% elfes, 2% demi-elfes, 1% gnomes, 1% demi-orques|{s:DescElem|**[Kendra Deverin](./Kendra Deverin.md)**, maire (humain f, NB, noble 4/expert 3)} {s:DescElem|**[Belor Cigüe](./Belor Cigüe.md)**, prévôt (humain m, CB, guerrier 4)} {s:DescElem|**[Abstalar Zantus](./Abstalar Zantus.md)**, Prêtre de la ville (humain m, CB, prêtre 4)} {s:DescElem|**Titus Scarnetti**, noble (humain m, LN, noble 6)} {s:DescElem|**Ethram Valdemar**, noble (humain m, NB, noble 5/expert 2)} {s:DescElem|**Lonjiku Kaijitsu**, noble (humain m, LN, noble 6)}|la [cathédrale de Pointesable](./cathédrale-de-Pointesable.md), l'[académie de la Turandarok](./académie-de-la-Turandarok.md)}
+{s:Ville|Pointesable|/Illustrations/Cartes/PointeSable-perspective.jpg|Le Phare de la côte Oubliée|Petit ville|NB|800 po|49600 po|1240|90% humains, 3% halfelins, 2% nains, 2% elfes, 2% demi-elfes, 1% gnomes, 1% demi-orques|{s:DescElem|**[[Kendra Deverin]]**, maire (humain f, NB, noble 4/expert 3)} {s:DescElem|**[[Belor Cigüe]]**, prévôt (humain m, CB, guerrier 4)} {s:DescElem|**[[Abstalar Zantus]]**, Prêtre de la ville (humain m, CB, prêtre 4)} {s:DescElem|**Titus Scarnetti**, noble (humain m, LN, noble 6)} {s:DescElem|**Ethram Valdemar**, noble (humain m, NB, noble 5/expert 2)} {s:DescElem|**Lonjiku Kaijitsu**, noble (humain m, LN, noble 6)}|la [[cathédrale de Pointesable]], l'[[académie de la Turandarok]]}
 
 *Bienvenue à Pointesable! S'il vous plait, arrêtez-vous afin de vous voir tel que nous vous voyons!*
 
-A 80 kilomètres au nord-est de [Magnimar](./Magnimar.md), une petit ville se dresse sur la route de la côte Oubliée, en [Varisie](./Varisie.md). Les rues agitées et les quelques tavernes et auberges accueillent avec enthousiasme les voyageurs de passage.
+A 80 kilomètres au nord-est de [[Magnimar]], une petit ville se dresse sur la route de la côte Oubliée, en [[Varisie]]. Les rues agitées et les quelques tavernes et auberges accueillent avec enthousiasme les voyageurs de passage.
 
 ### Histoire
 
-Quatre puissantes familles de [Magnimar](./Magnimar.md) s'unirent pour coloniser l'endroit où se trouve Pointesable. Pour cela, elles créèrent une structure appelée la ligue Mercantile de Pointesable.
+Quatre puissantes familles de [[Magnimar]] s'unirent pour coloniser l'endroit où se trouve Pointesable. Pour cela, elles créèrent une structure appelée la ligue Mercantile de Pointesable.
 
-Mais l'endroit qu'ils voulaient coloniser était déjà occupé par une tribu de [Varisiens](./Varisiens.md).
+Mais l'endroit qu'ils voulaient coloniser était déjà occupé par une tribu de [[Varisiens]].
 
 Après une tentative ratée pour essayer de les déloger par la force, la ligue Mercantile dû retourner à Magnimar. Le conseil varisien de Magnimar voulu punir les quatre familles mais la haute cour réussit à établir la paix entre les deux parties, grâce à la diplomatie d'une barde de la famille Dévertin.
 
@@ -27,7 +27,7 @@ Un village qui prospère depuis de nombreuses années, et qui n'a pas connu de d
 
 ### Gouvernement
 
-Bien que Pointesable soit techniquement dépendante de Magnimar, la nature isolée de la petite ville lui donne une grande indépendance. La ville est gouvernée par un maire (actuellement, ce rôle incombe à [Kendra Deverin](./Kendra Deverin.md)), mais les quatre familles (les Kajitsu, les Valdemar, les Scarnetti et les Déverin) fondatrices de la ville détiennent encore une influence considérable, surtout économique.
+Bien que Pointesable soit techniquement dépendante de Magnimar, la nature isolée de la petite ville lui donne une grande indépendance. La ville est gouvernée par un maire (actuellement, ce rôle incombe à [[Kendra Deverin]]), mais les quatre familles (les Kajitsu, les Valdemar, les Scarnetti et les Déverin) fondatrices de la ville détiennent encore une influence considérable, surtout économique.
 
 
 ### Carte
@@ -65,6 +65,6 @@ Manoirs des familles fondatrices : 47. Le manoir des Valdemar; 48. Le manoir des
 
 
 {s:VoirAussiAvant}
-- Plus d'informations sur Pointesable dans le [++Aventures.Présentation AP1#AP1PG|Guide du joueur] et dans le [++Aventures.Présentation AP1#AP1-1|premier volume] de la campagne [++Aventures.Présentation AP1|L'Éveil des Seigneurs des Runes].
-- Voir aussi les rapports d'éclaireurs sur [Aides de jeu#RESANDPOINT|la création de Pointesable] et sur [Aides de jeu#REEVENEMENTS|les "Événements Déplaisants"] qui s'y sont déroulés il y a quelques années.
+- Plus d'informations sur Pointesable dans le [[Aventures.Présentation AP1#AP1PG|Guide du joueur]] et dans le [[Aventures.Présentation AP1#AP1-1|premier volume]] de la campagne [[Aventures.Présentation AP1|L'Éveil des Seigneurs des Runes]].
+- Voir aussi les rapports d'éclaireurs sur [[Aides de jeu#RESANDPOINT|la création de Pointesable]] et sur [[Aides de jeu#REEVENEMENTS|les "Événements Déplaisants"]] qui s'y sont déroulés il y a quelques années.
 {s:VoirAussiAprès}

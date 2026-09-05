@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 5 pa ; **Poids** 1,5 kg
-<span class="Catégorie">**Catégorie** [Outils de compétences](./Outils de compétences.md)</span>
+<span class="Catégorie">**Catégorie** [[Outils de compétences]]</span>
 ---
-Cette trousse comprend des balles de jonglage, des mouchoirs colorés, des [jeux de cartes](./Jeu de cartes (objet).md), du maquillage de clown et d'autres accessoires simples pour les spectacles de magie et les spectacles de rue.
+Cette trousse comprend des balles de jonglage, des mouchoirs colorés, des [[Jeu de cartes (objet)|jeux de cartes]], du maquillage de clown et d'autres accessoires simples pour les spectacles de magie et les spectacles de rue.

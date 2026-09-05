@@ -14,8 +14,8 @@ Categories:
 {s:pucem|Humanoïde|Collines|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2 p.40*}
 {s:BDTexte|**XP** 19.200}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille TG, CM}
-{s:BDTexte|**Init** +1 ; **Sens** [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}), [vision nocturne](./vision nocturne.md) ; [Perception](./Perception.md) +12}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille TG, CM}
+{s:BDTexte|**Init** +1 ; **Sens** [[vision dans le noir]] 18 m (12 {s:c}), [[vision nocturne]] ; [[Perception]] +12}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 26, contact 9, pris au dépourvu 25 (armure +2, Dex +1, naturelle +15, taille -2)}
 {s:BDTexte|**pv** 161 (14d8+98)}
@@ -26,20 +26,20 @@ Categories:
 {s:BDTexte|**Corps à corps** 2 coup, +19 (1d8+11) et morsure, +19 (2d6+11 plus poison) ou masse d'armes lourde, +19/+14 (3d6+11) et morsure, +17 (2d6+5 plus poison)}
 {s:BDTexte|**Distance** rocher, +10/+5 (2d6+16)}
 {s:BDTexte|**Espace** 4,50 m (3 {s:c}) ; **Allonge** 4,50 m (3 {s:c})}
-{s:BDTexte|**Attaques spéciales** coup de griffes rapide, [lancer de rochers](./Lancer de rochers.md) 42 m (28 {s:c})}
+{s:BDTexte|**Attaques spéciales** coup de griffes rapide, [[lancer de rochers]] 42 m (28 {s:c})}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 32, **Dex** 13, **Con** 25, **Int** 7, **Sag** 12, **Cha** 6}
 {s:BDTexte|**BBA** +10, **BMO** +23, **DMD** 34}
-{s:BDTexte|**Dons** [Attaque en puissance](./Attaque en puissance.md), [Attaques multiples](./Attaques multiples.md), [Enchaînement](./Enchaînement.md), [Fente](./Fente.md), [Frappe décisive](./Frappe décisive.md), [Science de la volonté de fer](./Science de la volonté de fer.md), [Volonté de fer](./Volonté de fer.md)}
-{s:BDTexte|**Compétences** [Acrobaties](./Acrobaties.md) +1 (+9 pour sauter), [Discrétion](./Discrétion.md) +7, [Escalade](./Escalade.md) +20, [Perception](./Perception.md) +12}
+{s:BDTexte|**Dons** [[Attaque en puissance]], [[Attaques multiples]], [[Enchaînement]], [[Fente]], [[Frappe décisive]], [[Science de la volonté de fer]], [[Volonté de fer]]}
+{s:BDTexte|**Compétences** [[Acrobaties]] +1 (+9 pour sauter), [[Discrétion]] +7, [[Escalade]] +20, [[Perception]] +12}
 {s:BDTexte|**Langues** géant}
 {s:BDSousTitre|Écologie}
 {s:BDTexte|**Environnement** collines froides ou tempérées}
 {s:BDTexte|**Organisation sociale** solitaire, bande (2-4) ou tribu (7-12)}
 {s:BDTexte|**Trésor** standard (armure de cuir, masse d'armes lourde, autres trésors)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Coup de griffes rapides (Ext).** Un athach peut donner un coup de griffes par une [action rapide](./Action rapide.md), même lorsqu’il ne devrait pouvoir accomplir qu’une unique attaque, par exemple à cause d’un mouvement. Ce coup de griffes s’effectue avec un bonus d’attaque de +19 et inflige 1d10+11 points de dégâts, quelles que soient les autres attaques que l’athach porte pendant son tour.}
-{s:BDTexte|**Poison (Ext).** Morsure-blessure ; *jds* [Vig](./jet de sauvegarde.md) [DD](./DD.md)24 ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d4 [For](./Force.md) ; *guérison* 2 réussites consécutives}
+{s:BDTexte|**Coup de griffes rapides (Ext).** Un athach peut donner un coup de griffes par une [[action rapide]], même lorsqu’il ne devrait pouvoir accomplir qu’une unique attaque, par exemple à cause d’un mouvement. Ce coup de griffes s’effectue avec un bonus d’attaque de +19 et inflige 1d10+11 points de dégâts, quelles que soient les autres attaques que l’athach porte pendant son tour.}
+{s:BDTexte|**Poison (Ext).** Morsure-blessure ; *jds* [[jet de sauvegarde|Vig]] [[DD]]24 ; *fréquence* 1/round pendant 6 rounds ; *effet* [[affaiblissement temporaire]] 1d4 [[Force|For]] ; *guérison* 2 réussites consécutives}
 </div>
 </td><td><div>*La gueule de ce géant abrite deux grands crocs couverts de salive, mais c’est plutôt son troisième bras qui lui donne une apparence vraiment bizarre.*
 

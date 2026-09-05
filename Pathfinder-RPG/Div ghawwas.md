@@ -9,4 +9,4 @@ Categories:
 RedirectTo: Ghawwas
 ---
 
->>> [Ghawwas](./Ghawwas.md)
+>>> [[Ghawwas]]

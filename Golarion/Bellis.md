@@ -7,24 +7,24 @@ Categories:
 - Géographie
 ---
 
-{s:Communauté|Bellis (ville)|[Andoran](./Andoran.md)|[Forêt de Verduran](./Forêt de Verduran.md)|NB|Standard (gouvernement démocratique)|2 000 po|4 800 (grosse bourgade)|3,792 humains, 432 halfelins, 240 elfes, 144 nains, 93 gnomes, 45 demi-elfes, 42 demi-orques, 12 autres|• **Brigrim Tell**, maire (humain m, expert)
-• **Fayette Tount** (humaine f, prêtre d'[Iomédae](./Iomédae.md))
+{s:Communauté|Bellis (ville)|[[Andoran]]|[[Forêt de Verduran]]|NB|Standard (gouvernement démocratique)|2 000 po|4 800 (grosse bourgade)|3,792 humains, 432 halfelins, 240 elfes, 144 nains, 93 gnomes, 45 demi-elfes, 42 demi-orques, 12 autres|• **Brigrim Tell**, maire (humain m, expert)
+• **Fayette Tount** (humaine f, prêtre d'[[Iomédae]])
 • **Telgara Raym**, patissière (humaine f, magicienne)
-• **Ulfas Blust**, magnat de l'industrie forestière (humain m, expert)}Bellis est une communauté isolée dans l'extrême nord-est de l'[Andoran](./Andoran.md) sur la rive du fleuve Sellen. Fondée comme une ville forestière, elle produit aujourd'hui des biens agricoles en plus d'exporter du bois.<sup>(1)</sup> Les bellisiens aiment à se faire appeler "forestiers" plutôt que "bûcherons". Les "bûcherons" étant vus comme des amateurs indisciplinés.<sup>(2)</sup>
+• **Ulfas Blust**, magnat de l'industrie forestière (humain m, expert)}Bellis est une communauté isolée dans l'extrême nord-est de l'[[Andoran]] sur la rive du fleuve Sellen. Fondée comme une ville forestière, elle produit aujourd'hui des biens agricoles en plus d'exporter du bois.<sup>(1)</sup> Les bellisiens aiment à se faire appeler "forestiers" plutôt que "bûcherons". Les "bûcherons" étant vus comme des amateurs indisciplinés.<sup>(2)</sup>
 
 #### Géographie
-La ville de Bellis se situe sur la rive du fleuve Sellen, sur la frontière avec le [Taldor](./Taldor.md). Elle est construite contre la [forêt de Verduran](./Forêt de Verduran.md).<sup>(1)</sup>
+La ville de Bellis se situe sur la rive du fleuve Sellen, sur la frontière avec le [[Taldor]]. Elle est construite contre la [[forêt de Verduran]].<sup>(1)</sup>
 
 #### Histoire
-Bellis a été fondée au cours du 47e siècle AR, lorsque l'[Andoran](./Andoran.md) a décidé de chercher de nouvelles sources de bois<sup>(1)</sup> et a étendu sa présence sur le territoire.<sup>(3)</sup>
+Bellis a été fondée au cours du 47e siècle AR, lorsque l'[[Andoran]] a décidé de chercher de nouvelles sources de bois<sup>(1)</sup> et a étendu sa présence sur le territoire.<sup>(3)</sup>
 
 #### Économie
-La raison principale de la fondation de Bellis était pour complémenter les ressources de bois grandement diminuées de la [forêt d'Arthfell](./Forêt dArthfell.md) et de la [forêt de Sombrelune](./forêt de Sombrelune.md). La ville a également révélé une richesse agricole non-négligeable. Bellis est connue pour produire un miel et un hydromel de qualité, ainsi que de la cire d'abeille.<sup>(1)</sup> La communauté s'assure un revenu supplémentaire grâce au troque le long du fleuve Sellen, l'une des voies navigables les plus traversées de tout l'[Avistan](./Avistan.md), bien que les résidents aient peu de considération pour ces migrants.<sup>(3)</sup>
+La raison principale de la fondation de Bellis était pour complémenter les ressources de bois grandement diminuées de la [[Forêt dArthfell|forêt d'Arthfell]] et de la [[forêt de Sombrelune]]. La ville a également révélé une richesse agricole non-négligeable. Bellis est connue pour produire un miel et un hydromel de qualité, ainsi que de la cire d'abeille.<sup>(1)</sup> La communauté s'assure un revenu supplémentaire grâce au troque le long du fleuve Sellen, l'une des voies navigables les plus traversées de tout l'[[Avistan]], bien que les résidents aient peu de considération pour ces migrants.<sup>(3)</sup>
 
 Les plus vieux résidents de la ville détestent également les centaines de bûcherons qui viennent à Bellis pour travailler à chaque printemps. Les membres des "vieilles familles" trouvant ces bûcherons itinérants comme des fauteurs de troubles qu'ils sont obligés de supporter puisque la production de bois est une part majeure de l'économie de la ville. Lorsqu'ils ne travaillent pas, les nouveaux passent leur temps à boire et à se battre. La plupart des bûcherons vivent dans la Fosse, un creux naturel proche du fleuve Sellen, où ils installent des tentes et des cabanes. Les autorités de la ville ignorent presque entièrement ce qui s'y passe.
 
 #### Habitants
-Deegs Agraive est le Maillet du [Consortium du Bois](./Consortium du Bois.md) à Bellis. Il est assisté par le Superviseur Mors "Morsure" Snikt.<sup>(4)</sup>
+Deegs Agraive est le Maillet du [[Consortium du Bois]] à Bellis. Il est assisté par le Superviseur Mors "Morsure" Snikt.<sup>(4)</sup>
 
 ### Références
 **1.** Erik Mona et al. dans *[Campaign Setting](https://paizo.com/products/btpy84eo)* en 2008, p. 60–63. Paizo inc.

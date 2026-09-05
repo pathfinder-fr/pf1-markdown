@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneau de transposition|{s:AE}}
-**Aura** [Invocation](./Invocation.md) modérée ; **NLS** 10 ; **Emplacement** [anneau](./Anneaux magiques.md) ; **Prix** 10 800 po ; **Poids** —
+**Aura** [[Invocation]] modérée ; **NLS** 10 ; **Emplacement** [[Anneaux magiques|anneau]] ; **Prix** 10 800 po ; **Poids** —
 (((Description)))
-Le porteur de cet anneau peut le mettre en contact avec un autre anneau, magique ou ordinaire et, sur commande, le lier à lui. Une fois par jour, le porteur de l’anneau de transposition peut prononcer le mot de commande pour changer de place avec la créature portant l’anneau lié, qui doit être dans un rayon de 240 mètres, comme s’il utilisait un sort de [porte dimensionnelle](./Porte dimensionnelle.md) contre une cible consentante. Au cours du processus, l’anneau de transposition change de place avec celui que porte la créature et le lien entre les deux anneaux est rompu. La propriété de lien de l’anneau de transposition peut être utilisée aussi souvent que voulu, rompant à chaque fois le lien existant. On peut rompre un lien existant en réussissant un test de dissipation contre le niveau de lanceur de sort de l’anneau.
+Le porteur de cet anneau peut le mettre en contact avec un autre anneau, magique ou ordinaire et, sur commande, le lier à lui. Une fois par jour, le porteur de l’anneau de transposition peut prononcer le mot de commande pour changer de place avec la créature portant l’anneau lié, qui doit être dans un rayon de 240 mètres, comme s’il utilisait un sort de [[porte dimensionnelle]] contre une cible consentante. Au cours du processus, l’anneau de transposition change de place avec celui que porte la créature et le lien entre les deux anneaux est rompu. La propriété de lien de l’anneau de transposition peut être utilisée aussi souvent que voulu, rompant à chaque fois le lien existant. On peut rompre un lien existant en réussissant un test de dissipation contre le niveau de lanceur de sort de l’anneau.
 (((Création)))
-**Conditions** [Création d'anneaux magiques](./Création danneaux magiques.md), *[porte dimensionnelle](./Porte dimensionnelle.md)* ; **Coût** 5 400 po
+**Conditions** [[Création danneaux magiques|Création d'anneaux magiques]], *[[porte dimensionnelle]]* ; **Coût** 5 400 po
 </div>

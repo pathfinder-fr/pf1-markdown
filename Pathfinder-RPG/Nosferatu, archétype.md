@@ -13,7 +13,7 @@ LastModified: 2019-01-29 16:47
 
 - **FP.** Identique à la créature de base +2.
 - **Alignement.** Mauvais.
-- **Type.** Le type de la créature devient mort-vivant ([altérée](./sous-type altéré.md)). Ne recalculez pas les dés de vie de classe, le BBA ou les bonus de sauvegarde. 
+- **Type.** Le type de la créature devient mort-vivant ([[sous-type altéré|altérée]]). Ne recalculez pas les dés de vie de classe, le BBA ou les bonus de sauvegarde. 
 - **Sens.** Un nosferatu obtient la vision dans le noir jusqu’à 18 mètres, la vision nocturne et l’odorat.
 - **Classe d’Armure**. L’armure naturelle augmente de 8 points.
 - **Dés de vie**. Tous les dés de vie raciaux deviennent des d8. Les dés de vie de classe ne changent pas. En tant que mort-vivant, un nosferatu applique son modificateur de Charisme (à la place de celui de Constitution) pour déterminer son bonus de points de vie.
@@ -47,7 +47,7 @@ Leur antique personnalité est toujours emprunte d’une cruauté née lors d’
 
 Les nosferatus ne peuvent créer de rejeton, voilà pourquoi tous sont extrêmement vieux et ont été crées il y a fort longtemps avant qu’ils ne perdent la possibilité d’apposer la malédiction de la mort-vivance à autrui. La plupart vivent dans des sites isolés et peu visités. Ainsi, un nosferatu vieux d’un millier d’années peut ne posséder qu’une petite douzaine de niveaux de classe car il n’aura pas rencontré un grand nombre d’adversaires ou n’aura pas cherché à s’entraîner.
 
-Voir l'exemple [humain nosferatu](./Vampire nosferatu.md)
+Voir l'exemple [[Vampire nosferatu|humain nosferatu]]
 
-*<u>Note :</u> Dans certaines V.F. le sous-type "[altérée](./sous-type altéré.md)" (augmented) semble avoir été remplacée par "[évolué](./Archétypes.md#Créature_évoluée_FP_+B_1)" (Advanced Creature), alors qu'en V.O. il s'agit bien du "[sous-type altéré](./sous-type altéré.md)" (augmented). Cela devrait avoir été corrigé depuis dans les dernières versions.*
+*<u>Note :</u> Dans certaines V.F. le sous-type "[[sous-type altéré|altérée]]" (augmented) semble avoir été remplacée par "[[Archétypes#Créature_évoluée_FP_+B_1|évolué]]" (Advanced Creature), alors qu'en V.O. il s'agit bien du "[[sous-type altéré]]" (augmented). Cela devrait avoir été corrigé depuis dans les dernières versions.*
 </div></td></tr></table>

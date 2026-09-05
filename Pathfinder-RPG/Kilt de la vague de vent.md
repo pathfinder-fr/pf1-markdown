@@ -11,11 +11,11 @@ Categories:
 
 {s:divin|Gozreh|%2fPCUP%2fReligion-PNG%2fGozreh.png}<div class="BD">
 {s:BDTitre|Kilt de la vague de vent|{s:ISG}{s:GeM}}
-**Aura** [Transmutation](./Transmutation.md) faible ; **NLS** 5 ; **Emplacement** [taille](./Objets merveilleux portés à la taille.md) ; **Prix** 7 000 po ; **Poids** 2,5 kg
+**Aura** [[Transmutation]] faible ; **NLS** 5 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 7 000 po ; **Poids** 2,5 kg
 (((Description)))
-Ce kilt est en général fait d’épaisses bandes de tissu bleues océan et bleues ciel, et est décoré de minuscules perles et de morceaux de corail au niveau de la ceinture ; certains de ces kilts sont bleus en haut et verts en bas. Lorsqu’il est porté, il confère un bonus de compétence de +3 aux tests de [Natation](./Natation.md). Lorsqu’il n’est pas porté, il flotte sur l’eau comme un rondin de bois sec, faisant flotter automatiquement toute créature de moins de 50 kg aidant celles qui sont plus lourdes à se maintenir à flot.
+Ce kilt est en général fait d’épaisses bandes de tissu bleues océan et bleues ciel, et est décoré de minuscules perles et de morceaux de corail au niveau de la ceinture ; certains de ces kilts sont bleus en haut et verts en bas. Lorsqu’il est porté, il confère un bonus de compétence de +3 aux tests de [[Natation]]. Lorsqu’il n’est pas porté, il flotte sur l’eau comme un rondin de bois sec, faisant flotter automatiquement toute créature de moins de 50 kg aidant celles qui sont plus lourdes à se maintenir à flot.
 
-Si le personnage est un suivant de [Gozreh](./Gozreh (technique).md), le *kilt de la vague de vent* lui confère la capacité d’utiliser une fois par jour *[état gazeux](./État gazeux.md)* ; sous cette forme, il n'a pas besoin de respirer et peut entrer dans l’eau ou dans un liquide, prenant l’aspect d’une masse de fines bulles dans l’eau, et obtient une vitesse de nage de 3 m. Il peut boire l’eau de mer comme si c’était de l’eau douce.
+Si le personnage est un suivant de [[Gozreh (technique)|Gozreh]], le *kilt de la vague de vent* lui confère la capacité d’utiliser une fois par jour *[[état gazeux]]* ; sous cette forme, il n'a pas besoin de respirer et peut entrer dans l’eau ou dans un liquide, prenant l’aspect d’une masse de fines bulles dans l’eau, et obtient une vitesse de nage de 3 m. Il peut boire l’eau de mer comme si c’était de l’eau douce.
 (((Création)))
-**Conditions** [Création d'objets merveilleux](./Création dobjets merveilleux.md), *[création d’eau](./Création deau.md)*, *[état gazeux](./État gazeux.md)*, *[lévitation](./Lévitation.md)* ou *[marche sur l’onde](./Marche sur londe.md)*, le créateur doit avoir 5 rangs en [Natation](./Natation.md) ; **Coût** 3 500 po
+**Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[création deau|création d’eau]]*, *[[état gazeux]]*, *[[lévitation]]* ou *[[marche sur londe|marche sur l’onde]]*, le créateur doit avoir 5 rangs en [[Natation]] ; **Coût** 3 500 po
 </div>

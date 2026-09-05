@@ -8,6 +8,6 @@ Categories:
 ---
 
 {s:AE}**Prix** 10 po ; **Poids** 0,5 kg
-<span class="Catégorie">**Catégorie** [Équipement d'aventurier](./Équipement daventurier.md)</span>
+<span class="Catégorie">**Catégorie** [[Équipement daventurier|Équipement d'aventurier]]</span>
 ---
-Ce petit conteneur en métal se remplit d'un combustible cireux qui génère suffisamment de chaleur pour la cuisine mais n'éclaire pas plus qu'une [bougie](./Bougie (objet).md). Pour moucher la flamme, il faut mettre le couvercle en métal sur le conteneur. Il se refroidit assez pour être pris en main en l'espace de quelques minutes. Chaque réchaud fonctionne pendant 5 heures (ce qui suffit pour cuisiner une dizaine de repas).
+Ce petit conteneur en métal se remplit d'un combustible cireux qui génère suffisamment de chaleur pour la cuisine mais n'éclaire pas plus qu'une [[Bougie (objet)|bougie]]. Pour moucher la flamme, il faut mettre le couvercle en métal sur le conteneur. Il se refroidit assez pour être pris en main en l'espace de quelques minutes. Chaque réchaud fonctionne pendant 5 heures (ce qui suffit pour cuisiner une dizaine de repas).

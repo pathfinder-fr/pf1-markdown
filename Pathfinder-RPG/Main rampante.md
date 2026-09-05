@@ -14,21 +14,21 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire 2, p.193*}
 {s:BDTexte|**XP** 200}
-{s:BDTexte|[Mort-vivant](./type Mort-vivant.md) de taille Min, NM}
-{s:BDTexte|**Init** +0 ; **Sens** [perception aveugle](./perception aveugle.md) 9 m (6 {s:c}), [vision dans le noir](./vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./Perception.md) +4}
+{s:BDTexte|[[type Mort-vivant|Mort-vivant]] de taille Min, NM}
+{s:BDTexte|**Init** +0 ; **Sens** [[perception aveugle]] 9 m (6 {s:c}), [[vision dans le noir]] 18 m (12 {s:c}) ; [[Perception]] +4}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 14, contact 14, pris au dépourvu 14 (taille +4)}
 {s:BDTexte|**pv** 9 (1d8+5)}
 {s:BDTexte|**Réf** +0, **Vig** +2, **Vol** +2}
-{s:BDTexte|**Immunités** [traits des morts-vivants](./Traits des morts-vivants.md) }
+{s:BDTexte|**Immunités** [[traits des morts-vivants]] }
 {s:BDSousTitre|Attaque}
 {s:BDTexte|**VD** 12 m (9 {s:c}), escalade 12 m (9 {s:c})}
-{s:BDTexte|**Corps à corps** griffe, +5 (1d1+1 plus [étreinte](./Étreinte.md))}
+{s:BDTexte|**Corps à corps** griffe, +5 (1d1+1 plus [[étreinte]])}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 13, **Dex** 11, **Con** -, **Int** 2, **Sag** 11, **Cha** 14}
 {s:BDTexte|**BBA** +0, **BMO** -4 (+0 lutte), **DMD** 7}
-{s:BDTexte|**Dons** [Robustesse](./Robustesse.md)}
-{s:BDTexte|**Compétences** [Discrétion](./Discrétion.md) +12, [Escalade](./Escalade.md) +9, [Perception](./Perception.md) +4, [Survie](./Survie.md) +4 ; **Modificateurs raciaux** +4 en [Survie](./Survie.md)}
+{s:BDTexte|**Dons** [[Robustesse]]}
+{s:BDTexte|**Compétences** [[Discrétion]] +12, [[Escalade]] +9, [[Perception]] +4, [[Survie]] +4 ; **Modificateurs raciaux** +4 en [[Survie]]}
 {s:BDTexte|**Langues** commun (incapable de parler)}
 {s:BDTexte|**Particularités** étreinte}
 {s:BDSousTitre|Écologie}
@@ -36,7 +36,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire ou bande (2-5)}
 {s:BDTexte|**Trésor** aucun}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Étreinte (Ext).** Une main rampante peut utiliser sa capacité d’[étreinte](./Étreinte.md) sur des créatures de taille inférieure ou égale à M.}
+{s:BDTexte|**Étreinte (Ext).** Une main rampante peut utiliser sa capacité d’[[étreinte]] sur des créatures de taille inférieure ou égale à M.}
 
 {s:ImageCentre|Bestiaire/Main rampante02.jpg|95%}
 
@@ -46,9 +46,9 @@ Categories:
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Main rampante](./Main rampante.md) || 1/2
+| [[Main rampante]] || 1/2
 |-
-| [Main rampante géante](./Main rampante géante.md) || 5
+| [[Main rampante géante]] || 5
 |}
 </div>*Cette main coupée prend soudainement vie. Elle utilise ses doigts pour se propulser à grande vitesse vers l’avant à la manière d’une araignée difforme.*
 
@@ -56,7 +56,7 @@ Certains disent que les mains rampantes résultent d’expérimentations réalis
 
 Tant qu’elles n’ont pas reçu l’ordre de tuer, les mains rampantes restent immobiles et peuvent être manipulées ou déplacées sans danger. Généralement, leur propriétaire les transportent dans de petits écrins garnis de velours. Les mains rampantes peuvent également être placées à certains endroits comme gardiens et programmées avec des ordres à suivre dans certaines situations précises, comme de pourchasser et de tuer les individus qui accomplissent une tâche spécifique (pénétrer dans un lieu sacré, ouvrir une porte ou briser le sceau qui protège un coffret).
 
-Un lanceur de sorts nécromacien peut avoir une main rampante comme familier. Le lanceur de sorts doit déjà posséder un [mille-pattes domestique](./Mille-pattes domestique.md) pour familier, avoir un [NLS](./NLS.md) supérieur ou égal à 3 et doit posséder le don [Familier supérieur](./Familier supérieur.md).
+Un lanceur de sorts nécromacien peut avoir une main rampante comme familier. Le lanceur de sorts doit déjà posséder un [[mille-pattes domestique]] pour familier, avoir un [[NLS]] supérieur ou égal à 3 et doit posséder le don [[Familier supérieur]].
 
 *<u>Note :</u> des précisions complémentaires ont été apportées via d'autres suppléments.*
 </div></td></tr></table>

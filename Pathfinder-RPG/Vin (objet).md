@@ -8,7 +8,7 @@ Categories:
 ---
 
 {s:AE}**Prix** 2 pa (de table), 10 po (bon), 15 po (des mers) ; **Poids** 3 kg (de table), 0,75 kg (bon), 0,25 kg (des mers)
-<span class="Catégorie">**Catégorie** [Nourriture et boissons](./Nourriture et Boissons.md)</span>
+<span class="Catégorie">**Catégorie** [[Nourriture et boissons]]</span>
 ---
 Le vin est fabriqué à partir de jus de fruit fermenté, généralement du raisin, mais parfois à partir de certaines baies, de pommes, voire même de riz (saké). Le prix le plus bas est indiqué pour un vin ordinaire tandis que le prix le plus élevé est indiqué pour les vins nettement plus fins, bien que les vins de certains vignerons (et de certains millésimes) puissent atteindre des prix beaucoup plus élevés. Dans les régions froides, le vin est souvent chauffé avec des fruits, des épices, du miel et des amandes et servi comme boisson chaude en hiver.  
   

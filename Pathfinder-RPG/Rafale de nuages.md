@@ -10,4 +10,4 @@ Categories:
 RedirectTo: Armures magiques#RAFALEDENUAGES
 ---
 
->>> [Armures magiques#RAFALEDENUAGES](./Armures magiques.md#RAFALEDENUAGES)
+>>> [[Armures magiques#RAFALEDENUAGES]]

@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Repousser (capacité)
 ---
 
->>> [Repousser (capacité)](./Repousser (capacité).md)
+>>> [[Repousser (capacité)]]

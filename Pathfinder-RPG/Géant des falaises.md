@@ -12,8 +12,8 @@ Categories:
 {s:pucem|Humanoïde|Désert|Tempéré}
 {s:BDTexte|*Source : Bestiaire 4 p. 112*}
 {s:BDTexte|**PX** 6 400 px}
-{s:BDTexte|[Humanoïde](./type Humanoïde.md) ([géant](./sous-type géant.md)) de taille G, NB}
-{s:BDTexte|**Init** +5 ; **Sens** [vision nocturne](./vision nocturne.md), [perception des vibrations](./Perception des vibrations.md) à 9 m ; [Perception](./Perception.md) +15}
+{s:BDTexte|[[type Humanoïde|Humanoïde]] ([[sous-type géant|géant]]) de taille G, NB}
+{s:BDTexte|**Init** +5 ; **Sens** [[vision nocturne]], [[perception des vibrations]] à 9 m ; [[Perception]] +15}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 23, contact 10, pris au dépourvu 22 (Dex +1, naturelle +9, armure +4, taille -1)}
 {s:BDTexte|**pv** 133 (14d8+70)}
@@ -24,17 +24,17 @@ Categories:
 {s:BDTexte|**Corps à corps** massue, +17/+12 (2d8+12) ou 2 coups, +17 (1d8+8)}
 {s:BDTexte|**A distance** rocher, +12 (1d8+8)}
 {s:BDTexte|**Espace occupé** 3 m (2 {s:c}) ; **Allonge** 3 m (2 {s:c})}
-{s:BDTexte|**Attaque spéciale** [lancer de rochers](./Lancer de rochers.md) (36 m ; 24 {s:c})}
+{s:BDTexte|**Attaque spéciale** [[lancer de rochers]] (36 m ; 24 {s:c})}
 {s:BDTexte|**Pouvoirs magiques** (NLS 14<sup>e</sup> ; concentration +15)}
-{s:BDSorts|À volonté— *[détection du poison](./Détection du poison.md)*, *[repérage](./Repérage.md)*}
-{s:BDSorts|(3/jour) — *[messager animal](./Messager animal.md)*, *[soins modérés](./Soins modérés.md)*, *[détection de la faune ou de la flore](./Détection de la faune ou de la flore.md)*, *[communication avec les animaux](./Communication avec les animaux.md)*, *[façonnage de la pierre](./Façonnage de la pierre.md)*}
-{s:BDSorts|(1/jour) — *[communion avec la nature](./Communion avec la nature.md)*}
+{s:BDSorts|À volonté— *[[détection du poison]]*, *[[repérage]]*}
+{s:BDSorts|(3/jour) — *[[messager animal]]*, *[[soins modérés]]*, *[[détection de la faune ou de la flore]]*, *[[communication avec les animaux]]*, *[[façonnage de la pierre]]*}
+{s:BDSorts|(1/jour) — *[[communion avec la nature]]*}
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 26, **Dex** 13, **Con** 21, **Int** 13, **Sag** 14, **Cha** 12}
 {s:BDTexte|**BBA** +10, **BMO** +19, **DMD** 30}
-{s:BDTexte|**Dons** [Arme de prédilection](./Arme de prédilection.md) (rocher), [Attaque en puissance](./Attaque en puissance.md), [Maniement d'une arme de guerre](./Maniement dune arme de guerre.md) (massue), [Réflexes surhumains](./Réflexes surhumains.md), [Science de l’initiative](./Science de linitiative.md), [Talent](./Talent.md) ([Escalade](./Escalade.md)), [Talent](./Talent.md) ([Perception](./Perception.md))}
-{s:BDTexte|**Compétences** [Connaissances](./Connaissances.md) (géographie) +5, [Connaissances](./Connaissances.md) (nature) +11, [Diplomatie](./Diplomatie.md) +8, [Dressage](./Dressage.md) +11, [Escalade](./Escalade.md) +18, [Perception](./Perception.md) +15, [Survie](./Survie.md) +12}
-{s:BDTexte|**Modificateurs raciaux** +4 en [Connaissances](./Connaissances.md) (géographie)}
+{s:BDTexte|**Dons** [[Arme de prédilection]] (rocher), [[Attaque en puissance]], [[Maniement dune arme de guerre|Maniement d'une arme de guerre]] (massue), [[Réflexes surhumains]], [[Science de linitiative|Science de l’initiative]], [[Talent]] ([[Escalade]]), [[Talent]] ([[Perception]])}
+{s:BDTexte|**Compétences** [[Connaissances]] (géographie) +5, [[Connaissances]] (nature) +11, [[Diplomatie]] +8, [[Dressage]] +11, [[Escalade]] +18, [[Perception]] +15, [[Survie]] +12}
+{s:BDTexte|**Modificateurs raciaux** +4 en [[Connaissances]] (géographie)}
 {s:BDTexte|**Langue** commun, géant, terreux}
 {s:BDTexte|**Particularités** harmonisation avec la terre}
 {s:BDSousTitre|Écologie}
@@ -52,49 +52,49 @@ classe pour tous les géants des falaises.}
 |- CLASS="titre"
 | Nom || FP
 |- CLASS="premier"
-| [Géant de cendre](./Géant de cendre.md) || 11
+| [[Géant de cendre]] || 11
 |-
-| [Géant de la jungle](./Géant de la jungle.md) || 10
+| [[Géant de la jungle]] || 10
 |-
-| [Géant de la lune](./Géant de la lune.md) || 15
+| [[Géant de la lune]] || 15
 |-
-| [Géant de la taïga](./Géant de la taïga.md) || 12
+| [[Géant de la taïga]] || 12
 |-
-| [Géant de l'ombre](./Géant de lombre.md) || 13
+| [[Géant de lombre|Géant de l'ombre]] || 13
 |-
-| [Géant de pierre](./Géant de pierre.md) || 8
+| [[Géant de pierre]] || 8
 |-
-| [Géant des bois](./Géant des bois.md) || 6
+| [[Géant des bois]] || 6
 |-
-| [Géant des collines](./Géant des collines.md) || 7
+| [[Géant des collines]] || 7
 |-
-| [Géant des falaises](./Géant des falaises.md) || 9
+| [[Géant des falaises]] || 9
 |-
-| [Géant des grottes](./Géant des grottes.md) || 6
+| [[Géant des grottes]] || 6
 |-
-| [Géant des marais](./Géant des marais.md) || 8
+| [[Géant des marais]] || 8
 |-
-| [Géant des nuages](./Géant des nuages.md) || 11
+| [[Géant des nuages]] || 11
 |-
-| [Géant des océans](./Géant des océans.md) || 14
+| [[Géant des océans]] || 14
 |-
-| [Géant des rivières](./Géant des rivières.md) || 6
+| [[Géant des rivières]] || 6
 |-
-| [Géant des runes](./Géant des runes.md) || 17
+| [[Géant des runes]] || 17
 |-
-| [Géant des scories](./Géant des scories.md) || 7
+| [[Géant des scories]] || 7
 |-
-| [Géant des tempêtes](./Géant des tempêtes.md) || 13
+| [[Géant des tempêtes]] || 13
 |-
-| [Géant des éclipses](./Géant des éclipses.md) || 19
+| [[Géant des éclipses]] || 19
 |-
-| [Géant du désert](./Géant du désert.md) || 9
+| [[Géant du désert]] || 9
 |-
-| [Géant du feu](./Géant du feu.md) || 10
+| [[Géant du feu]] || 10
 |-
-| [Géant du froid](./Géant du froid.md) || 9
+| [[Géant du froid]] || 9
 |-
-| [Géant du soleil](./Géant du soleil.md) || 16
+| [[Géant du soleil]] || 16
 |}
 </div>*Ce géant stoïque irradie d’une présence majestueuse. Sa peau de pierre brun-rouge est parcourue de traînées aux couleurs chatoyantes.*
 

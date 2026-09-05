@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Fiable supérieure
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armes#Fiable supérieure](./Descriptions individuelles des propriétés spéciales des armes.md#Fiable supérieure)
+>>> [[Descriptions individuelles des propriétés spéciales des armes#Fiable supérieure]]

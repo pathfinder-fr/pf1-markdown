@@ -10,9 +10,9 @@ Categories:
 
 <div class="BD">
 {s:BDTitre|Anneaux de l’anaconda|{s:AE}}
-**Aura** [Transmutation](./Transmutation.md) modérée ; **NLS** 8 ; **Emplacement** [taille](./Objets merveilleux portés à la taille.md) ; **Prix** 18 500 po ; **Poids** 0,5 kg
+**Aura** [[Transmutation]] modérée ; **NLS** 8 ; **Emplacement** [[Objets merveilleux portés à la taille|taille]] ; **Prix** 18 500 po ; **Poids** 0,5 kg
 (((Description)))
-La boucle de cette ceinture en peau de reptile a la forme d’une tête de serpent. Son porteur gagne un bonus d’altération de +2 à la [Force](./Force.md) et un bonus de compétence de +2 aux tests de [lutte](./lutte.md). Le bonus de Force est temporaire pendant les vingt-quatre premières heures où le personnage porte la ceinture. De plus, elle octroie au porteur le pouvoir de [constriction](./Constriction (capacité).md) qui inflige 1d6 points de dégâts + le modificateur de Force du porteur.
+La boucle de cette ceinture en peau de reptile a la forme d’une tête de serpent. Son porteur gagne un bonus d’altération de +2 à la [[Force]] et un bonus de compétence de +2 aux tests de [[lutte]]. Le bonus de Force est temporaire pendant les vingt-quatre premières heures où le personnage porte la ceinture. De plus, elle octroie au porteur le pouvoir de [[Constriction (capacité)|constriction]] qui inflige 1d6 points de dégâts + le modificateur de Force du porteur.
 (((Création)))
-**Conditions** [Création d’objets merveilleux](./Création dobjets merveilleux.md), *[forme bestiale I](./Forme bestiale I.md)*, *[force de taureau](./Force de taureau.md)* ; **Coût** 9 250 po
+**Conditions** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[forme bestiale I]]*, *[[force de taureau]]* ; **Coût** 9 250 po
 </div>

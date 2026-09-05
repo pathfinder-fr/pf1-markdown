@@ -10,4 +10,4 @@ Categories:
 
 {s:CMy}*Les montées en puissance du personnage sont plus intenses.*
 
-**Avantage.** Chaque fois qu’il utilise son aptitude de [montée en puissance](./montée en puissance.md), le personnage ajoute 1 point au résultat de son dé.
+**Avantage.** Chaque fois qu’il utilise son aptitude de [[montée en puissance]], le personnage ajoute 1 point au résultat de son dé.

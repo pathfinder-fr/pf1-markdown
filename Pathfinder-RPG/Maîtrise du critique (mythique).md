@@ -12,6 +12,6 @@ Categories:
 {s:cmy}
 *Les coups critiques du personnage sont d’une nature polyvalente et dévastatrice.*
 
-**Condition.** [Don pour les critiques (mythique)](./Don pour les critiques (mythique).md), [Maîtrise du critique](./Maîtrise du critique.md)
+**Condition.** [[Don pour les critiques (mythique)]], [[Maîtrise du critique]]
 
-**Avantage.** Lorsqu’il utilise [Maîtrise du critique](./Maîtrise du critique.md), le personnage augmente le nombre de dons de critique qu’il peut appliquer pour chaque tranche de trois [grades](./grades.md).
+**Avantage.** Lorsqu’il utilise [[Maîtrise du critique]], le personnage augmente le nombre de dons de critique qu’il peut appliquer pour chaque tranche de trois [[grades]].

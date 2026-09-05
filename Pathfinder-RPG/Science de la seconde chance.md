@@ -11,14 +11,14 @@ Categories:
 
 {s:apg}*Le personnage peut tenter sa chance une seconde fois après une attaque ratée, sans devoir sacrifier ses futures attaques.*
 
-**Catégorie :** [combat](./Dons.md#DONCOMBAT)
+**Catégorie :** [[Dons#DONCOMBAT|combat]]
 
-**Conditions.** [Int](./Intelligence.md) 13, [Expertise du combat](./Expertise du combat.md), [Seconde chance](./Seconde chance.md), [BBA](./BBA.md) +11.
+**Conditions.** [[Intelligence|Int]] 13, [[Expertise du combat]], [[Seconde chance]], [[BBA]] +11.
 
-**Avantage.** Lorsque le personnage relance un jet d’attaque raté en utilisant le don [Seconde chance](./Seconde chance.md), il peut quand même effectuer le reste de ses attaques pour ce round, mais avec une pénalité de -5 sur chacun des [jets d’attaque](./jet dattaque.md).
+**Avantage.** Lorsque le personnage relance un jet d’attaque raté en utilisant le don [[Seconde chance]], il peut quand même effectuer le reste de ses attaques pour ce round, mais avec une pénalité de -5 sur chacun des [[jet dattaque|jets d’attaque]].
 
 **Normal.** Lorsque le personnage utilise le don Seconde chance, il doit normalement sacrifier le reste de ses attaques pour ce tour-là.
 
 {s:PU}
-#### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut choisir ce don même s’il ne remplit pas les conditions requises au niveau des caractéristiques ([Intelligence](./Intelligence.md) 13). Il bénéficie du don tant qu’il lui reste au moins 1 point dans sa réserve d’endurance. Il peut dépenser 5 points d’endurance pour utiliser la [Seconde chance](./Seconde chance.md) pour relancer un [jet d’attaque](./jet dattaque.md) effectué après le premier lors d’une [attaque à outrance](./attaque à outrance.md) en conservant le même bonus. S’il utilise Seconde chance plusieurs fois lors d’une même attaque à outrance, les malus se cumulent.
+#### Astuce martiale ([[Endurance et Astuces martiales|règles]])
+Le personnage peut choisir ce don même s’il ne remplit pas les conditions requises au niveau des caractéristiques ([[Intelligence]] 13). Il bénéficie du don tant qu’il lui reste au moins 1 point dans sa réserve d’endurance. Il peut dépenser 5 points d’endurance pour utiliser la [[Seconde chance]] pour relancer un [[jet dattaque|jet d’attaque]] effectué après le premier lors d’une [[attaque à outrance]] en conservant le même bonus. S’il utilise Seconde chance plusieurs fois lors d’une même attaque à outrance, les malus se cumulent.

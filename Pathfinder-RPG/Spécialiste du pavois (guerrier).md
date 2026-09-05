@@ -11,19 +11,19 @@ Categories:
 {s:Menuarchétypeguerrier}{s:UC}*Beaucoup de guerriers affirment que le pavois est un outil qui convient uniquement aux troupes des champs de bataille et qu’il est trop grand et trop encombrant pour servir lors d’une escarmouche ou dans les couloirs d’un souterrain. Les spécialistes du pavois réfutent ces postulats et manient leur énorme bouclier avec un talent et une efficacité surprenants. Ils arrivent à exécuter des manoeuvres habiles avec leur pavois balourd et trompent ainsi l’ennemi.*
 
 #### Barrière contre les rayonnements (Ext)
-Au [niveau](./niveau.md) 2, le spécialiste du pavois se sert de son bouclier pour se protéger contre les sorts et effets à rayonnement. Il gagne un bonus de +1 aux jets de [Réflexes](./Réflexes.md) contre eux tant qu’il se sert de son [pavois](./pavois.md). Ce bonus augmente de +1 tous les quatre niveaux après le 2 (avec un maximum de +5 au niveau 18). Ce pouvoir remplace [courage](./Guerrier.md#COURAGE).
+Au [[niveau]] 2, le spécialiste du pavois se sert de son bouclier pour se protéger contre les sorts et effets à rayonnement. Il gagne un bonus de +1 aux jets de [[Réflexes]] contre eux tant qu’il se sert de son [[pavois]]. Ce bonus augmente de +1 tous les quatre niveaux après le 2 (avec un maximum de +5 au niveau 18). Ce pouvoir remplace [[guerrier#COURAGE|courage]].
 
 #### Entraînement au pavois (Ext)
-Au niveau 3, le spécialiste du pavois apprend, comme tout guerrier, l’[entraînement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES) mais, quand il utilise un [pavois](./pavois.md), le [malus d’armure](./malus darmure.md) est réduit de 3 et le bonus de [Dextérité](./Dextérité.md) maximal augmente de 2. Les avantages augmentent ensuite tous les quatre niveaux, comme avec la progression d’entraînement aux armures normale. Si le spécialiste n’utilise pas de pavois, les avantages de l’entraînement aux armures se limitent aux bonus normaux.
+Au niveau 3, le spécialiste du pavois apprend, comme tout guerrier, l’[[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] mais, quand il utilise un [[pavois]], le [[malus darmure|malus d’armure]] est réduit de 3 et le bonus de [[Dextérité]] maximal augmente de 2. Les avantages augmentent ensuite tous les quatre niveaux, comme avec la progression d’entraînement aux armures normale. Si le spécialiste n’utilise pas de pavois, les avantages de l’entraînement aux armures se limitent aux bonus normaux.
 
 #### Spécialiste du pavois (Ext)
-Au niveau 5, quand le spécialiste du pavois utilise ce genre de bouclier en combat, il ne subit pas de malus de -2 aux jets d’attaque à cause de l’encombrement. Ce pouvoir remplace [entraînement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) 1.
+Au niveau 5, quand le spécialiste du pavois utilise ce genre de bouclier en combat, il ne subit pas de malus de -2 aux jets d’attaque à cause de l’encombrement. Ce pouvoir remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] 1.
 
 #### Défense au pavois (Ext)
-Au niveau 9, quand le spécialiste utilise un [pavois](./pavois.md), il bénéficie de son bonus de bouclier contre les attaques de contact. Ce pouvoir remplace [entraînement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) 2.
+Au niveau 9, quand le spécialiste utilise un [[pavois]], il bénéficie de son bonus de bouclier contre les attaques de contact. Ce pouvoir remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] 2.
 
 #### Repositionnement immédiat (Ext)
-Au niveau 13 et par une [action immédiate](./Action immédiate.md), le spécialiste du pavois peut repositionner son bouclier pour faire face à une autre direction mais il ne peut pas utiliser ce pouvoir pour interrompre une attaque. Ce pouvoir remplace [entraînement aux armes](./Guerrier.md#ENTRAINEMENTAUXARMES) 3.
+Au niveau 13 et par une [[action immédiate]], le spécialiste du pavois peut repositionner son bouclier pour faire face à une autre direction mais il ne peut pas utiliser ce pouvoir pour interrompre une attaque. Ce pouvoir remplace [[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] 3.
 
 #### Esquive instinctive au pavois (Ext)
-Au niveau 16, quand le spécialiste utilise un pavois, il gagne [esquive instinctive](./Roublard.md#ESQUIVEINSTINCTIVE), comme le pouvoir de [roublard](./Roublard.md). Au niveau 20, il gagne esquive [instinctive supérieure](./Roublard.md#ESQUIVEINSTINCTIVESUPERIEURE), comme le [talent de maître roublard](./Roublard.md#TALENTDEMAITREROUBLARD), à condition qu’il ait son pavois. Ce pouvoir remplace [entraînement aux armures](./Guerrier.md#ENTRAINEMENTAUXARMURES) 4 et [maîtrise des armes](./Guerrier.md#MAITRISEDESARMES).
+Au niveau 16, quand le spécialiste utilise un pavois, il gagne [[roublard#ESQUIVEINSTINCTIVE|esquive instinctive]], comme le pouvoir de [[roublard]]. Au niveau 20, il gagne esquive [[roublard#ESQUIVEINSTINCTIVESUPERIEURE|instinctive supérieure]], comme le [[Roublard#TALENTDEMAITREROUBLARD|talent de maître roublard]], à condition qu’il ait son pavois. Ce pouvoir remplace [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] 4 et [[guerrier#MAITRISEDESARMES|maîtrise des armes]].

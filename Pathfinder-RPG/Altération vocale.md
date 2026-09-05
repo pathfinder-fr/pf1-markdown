@@ -18,14 +18,14 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 1, [Bard](./Barde.md) 1, [Hyp](./Hypnotiseur.md) 1, [Inq](./Inquisiteur.md) 1, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 1, [Méd](./Médium.md) 1, [Occ](./Occultiste.md) 1, [Psy](./Psychiste.md) 1, [Sor](./Sorcière.md) 1</br>
-**Temps d’incantation** 1 [action simple](./Action simple.md)</br>
-**Composantes** [V, G](./composantes.md)</br>
-**Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))</br>
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 1, [[Barde|Bard]] 1, [[Hypnotiseur|Hyp]] 1, [[Inquisiteur|Inq]] 1, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 1, [[Médium|Méd]] 1, [[Occultiste|Occ]] 1, [[Psychiste|Psy]] 1, [[Sorcière|Sor]] 1</br>
+**Temps d’incantation** 1 [[action simple]]</br>
+**Composantes** [[Composantes|V, G]]</br>
+**Portée** courte (7,50 m + 1,50 m/2 [[niveau|niveaux]]) (5 {s:c} + 1 {s:c}/2 [[niveau|niveaux]])</br>
 **Cible** une créature humanoïde</br>
-**Durée** 1 minute/[niveau](./niveau.md)</br>
-**Jet de sauvegarde** [Vigueur](./Vigueur.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
+**Durée** 1 minute/[[niveau]]</br>
+**Jet de sauvegarde** [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]] ; **Résistance à la magie** oui
 
-Le personnage modifie la voix de la cible. Il peut par exemple la rendre très aiguë, rauque ou nasillarde, ou changer son accent et en choisir un avec lequel il est plus familier. Si ce sort est utilisé avec un déguisement, la cible gagne un bonus de +10 aux tests de [Déguisement](./Déguisement.md) quand il essaye de tromper un auditeur.
+Le personnage modifie la voix de la cible. Il peut par exemple la rendre très aiguë, rauque ou nasillarde, ou changer son accent et en choisir un avec lequel il est plus familier. Si ce sort est utilisé avec un déguisement, la cible gagne un bonus de +10 aux tests de [[Déguisement]] quand il essaye de tromper un auditeur.
 
 La cible peut modifier sa voix déguisée comme il le ferait avec la sienne. Par exemple, une halfeline à qui on a donné la voix et l’accent d’un nain noble peut parler avec une voix de fausset, un accent rural halfelin, etc.

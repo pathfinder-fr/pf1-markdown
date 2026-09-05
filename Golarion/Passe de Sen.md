@@ -8,6 +8,6 @@ Categories:
 - Ville
 ---
 
-La Passe de Sen est un petit village situé dans la Vallée du Souffle Rouge, dans le comté d'[Amaans](./Amaans.md) en [Ustalav](./Ustalav.md).
+La Passe de Sen est un petit village situé dans la Vallée du Souffle Rouge, dans le comté d'[[Amaans]] en [[Ustalav]].
 
 Il fut pendant des années sous la domination effroyable du Vicomte Galdyce, dirigeant mort-vivant du comté , jusqu'à ce qu'il fut tué par des aventuriers en 4685 AR. Les villageois continuent pourtant de s'inquiéter depuis qu'ils ont aperçu des lumières nocturnes dans les ruines du vieux Château Galdyce.

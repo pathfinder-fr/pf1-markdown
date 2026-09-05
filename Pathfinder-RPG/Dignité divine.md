@@ -9,8 +9,8 @@ Categories:
 
 {s:cs}{s:ISG}*Les secrets du premier coffre aident le personnage à perfectionner ses incantations.*
 
-**Conditions.** [Magie de guerre](./Magie de guerre.md), capacité à lancer des [sorts divins](./Magie divine.md), suivant d'[Abadar](./Abadar (technique).md)
+**Conditions.** [[Magie de guerre]], capacité à lancer des [[magie divine|sorts divins]], suivant d'[[Abadar (technique)|Abadar]]
 
-**Avantage.** Trois fois par jour, le personnage peut par une [action libre](./Action libre.md) décider de ne pas provoquer d'[attaque opportunité](./AO.md) lorsqu'il incante un sort divin [inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE) ou un [sort de domaine](./Prêtre.md#DOMAINES).
+**Avantage.** Trois fois par jour, le personnage peut par une [[action libre]] décider de ne pas provoquer d'[[AO|attaque opportunité]] lorsqu'il incante un sort divin [[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]] ou un [[Prêtre#DOMAINES|sort de domaine]].
 
 **Spécial.** Ce don peut être choisi plusieurs fois. À chaque fois qu'il sélectionne ce don, le personnage peut l'utiliser trois fois de plus par jour.

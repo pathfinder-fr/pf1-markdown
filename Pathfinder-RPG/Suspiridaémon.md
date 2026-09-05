@@ -13,7 +13,7 @@ Categories:
 {s:pucem|Extérieur|Ruines-donjons|Extraplanaire}
 {s:BDTexte|*Source : Livre des damnés p.192*}
 {s:BDTexte|**PX** 3 200}
-{s:BDTexte|[Extérieur](./type Extérieur.md) ([daémon](./sous-type daémon.md), [Mal](./sous-type Mal.md), [extraplanaire](./sous-type extraplanaire.md)) de taille M, NM}
+{s:BDTexte|[[type Extérieur|Extérieur]] ([[sous-type daémon|daémon]], [[sous-type mal|Mal]], [[sous-type extraplanaire|extraplanaire]]) de taille M, NM}
 {s:BDTexte|**Init **+7 ; **Sens** vision dans le noir à 18m ; Perception +14}
 {s:BDTexte|**Aura** air raréfié (9m)}
 (((Défense)))
@@ -29,14 +29,14 @@ Categories:
 {s:BDTexte|**Attaques spéciales** inspiration assourdissante, étreinte (1d6+6),
 étranglement, suffocation}
 {s:BDTexte|**Pouvoirs magiques** (NLS 9 ; concentration +13)}
-{s:BDSorts|À volonté – [mise à mort](./Mise à mort.md) (DD16), [baiser de la goule](./Baiser de la goule.md) (DD 16), [Rayon affaiblissant](./Rayon affaiblissant.md)}
-{s:BDSorts|3/jour - [nuage nauséabond](./Nuage nauséabond.md) (DD 17), [baiser du vampire](./Baiser du vampire.md) (DD 17)}
-{s:BDSorts|1/jour - [brume mortelle](./Brume mortelle.md) (DD 19), [convocation](./convocation.md) (niveau 4 : 1d3 [lacridaémons](./Lacridaémon.md), 35%)}
+{s:BDSorts|À volonté – [[mise à mort]] (DD16), [[baiser de la goule]] (DD 16), [[Rayon affaiblissant]]}
+{s:BDSorts|3/jour - [[nuage nauséabond]] (DD 17), [[baiser du vampire]] (DD 17)}
+{s:BDSorts|1/jour - [[brume mortelle]] (DD 19), [[convocation]] (niveau 4 : 1d3 [[lacridaémon|lacridaémons]], 35%)}
 (((Statistiques)))
 {s:BDTexte|**For** 19, **Dex** 17, **Con** 18, **Int** 14, **Sag** 15, **Cha** 18}
 {s:BDTexte|**BBA **+9 ; **BMO **+13 (+17 en lutte); **DMD** 27}
-{s:BDTexte|**Dons** [Attaques réflexes](./Attaques réflexes.md), [Esquive](./Esquive.md), [Science de l’initiative](./Science de linitiative.md), [Vigueur surhumaine](./Vigueur surhumaine.md), [Science du critique](./Science du critique.md)  (langue)}
-{s:BDTexte|**Compétences** [Escalade](./Escalade.md) +16, [Diplomatie](./Diplomatie.md) +16, [Intimidation](./Intimidation.md) +16, [Connaissances](./Connaissances.md) (nature) +14, [Connaissances](./Connaissances.md) (plans) +14,  [Discrétion](./Discrétion.md) +15,  [Perception](./Perception.md) +14, [Psychologie](./Psychologie.md) +14}
+{s:BDTexte|**Dons** [[Attaques réflexes]], [[Esquive]], [[Science de linitiative|Science de l’initiative]], [[Vigueur surhumaine]], [[Science du critique]]  (langue)}
+{s:BDTexte|**Compétences** [[Escalade]] +16, [[Diplomatie]] +16, [[Intimidation]] +16, [[Connaissances]] (nature) +14, [[Connaissances]] (plans) +14,  [[Discrétion]] +15,  [[Perception]] +14, [[Psychologie]] +14}
 {s:BDTexte|**Langues** abyssal, draconique, infernal (ne peut pas parler) ; télépathie 30m}
 {s:BDTexte|**Particularités** ne respire pas }
 (((Écologie)))
@@ -70,7 +70,7 @@ comme si elles étaient dans un col ou sur un pic (voir Les zones
 d’altitude, Manuel des Joueurs page 436).}
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [daémons](./Daémon.md).***</li></ul>
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[daémon|daémons]].***</li></ul>
 ''Ce grand fiélon à trois pattes a un corps et une tête d’oiseau et des
 bras dégingandée au bout desquels on peut voir de fins doigts en
 forme de serre. Il porte autour de son cou maigrichon trois épais

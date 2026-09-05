@@ -8,4 +8,4 @@ Categories:
 RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Renforcement
 ---
 
->>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Renforcement](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Renforcement)
+>>> [[Descriptions individuelles des propriétés spéciales des armures et des boucliers#Renforcement]]

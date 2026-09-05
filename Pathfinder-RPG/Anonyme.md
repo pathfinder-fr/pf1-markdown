@@ -11,8 +11,8 @@ Categories:
 
 {s:uc}*Le personnage n’a pas besoin d’un déguisement élaboré pour dissimuler son identité.*
 
-**Catégorie.** [audace](./Dons.md#DONAUDACE)
+**Catégorie.** [[dons#DONAUDACE|audace]]
 
-**Conditions.** [Audace](./Pistolier.md#AUDACE) ou [Pistolier amateur](./Pistolier amateur.md), 4 rangs en [Bluff](./Bluff.md)
+**Conditions.** [[pistolier#AUDACE|Audace]] ou [[Pistolier amateur]], 4 rangs en [[Bluff]]
 
-**Avantage.** Lors de ses interactions sociales, le personnage compte souvent sur la surprise et les instants de distraction. Il gagne un bonus de +2 aux tests de [Bluff](./Bluff.md) et peut dépenser 1 point d’audace pour gagner un bonus de +10 aux tests de [Déguisement](./Déguisement.md) pendant 10 minutes par niveau de pistolier (10 minutes au minimum). Cet exploit ne change pas son apparence, il lui permet juste de dissimuler son identité autrement.
+**Avantage.** Lors de ses interactions sociales, le personnage compte souvent sur la surprise et les instants de distraction. Il gagne un bonus de +2 aux tests de [[Bluff]] et peut dépenser 1 point d’audace pour gagner un bonus de +10 aux tests de [[Déguisement]] pendant 10 minutes par niveau de pistolier (10 minutes au minimum). Cet exploit ne change pas son apparence, il lui permet juste de dissimuler son identité autrement.

@@ -10,8 +10,8 @@ Categories:
 
 {s:cm}*Le personnage est particulièrement doué pour monter un slurk au combat.*
 
-**Catégorie.** [combat](./Dons.md#DONCOMBAT)
+**Catégorie.** [[dons#DONCOMBAT|combat]]
 
-**Conditions.** [Kobold](./Kobold (race).md)
+**Conditions.** [[Kobold (race)|Kobold]]
 
-**Avantages.** Le personnage sait contrôler, guider et communiquer avec les [slurks](./Slurk.md) comme si ces derniers comprenaient le draconique. Il peut aussi dépenser une [action simple](./Action simple.md) pour manipuler leurs nodules dorsaux et activer leur pouvoir de mucus. Le personnage et le slurk peuvent activer ce pouvoir au cours du même [round](./round.md).
+**Avantages.** Le personnage sait contrôler, guider et communiquer avec les [[Slurk|slurks]] comme si ces derniers comprenaient le draconique. Il peut aussi dépenser une [[action simple]] pour manipuler leurs nodules dorsaux et activer leur pouvoir de mucus. Le personnage et le slurk peuvent activer ce pouvoir au cours du même [[round]].

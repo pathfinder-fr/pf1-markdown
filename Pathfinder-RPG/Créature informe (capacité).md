@@ -7,4 +7,4 @@ Categories:
 RedirectTo: Amorphe (capacité)
 ---
 
->>> [Amorphe (capacité)](./Amorphe (capacité).md)
+>>> [[Amorphe (capacité)]]

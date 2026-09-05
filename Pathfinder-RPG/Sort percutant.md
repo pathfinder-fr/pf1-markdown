@@ -11,12 +11,12 @@ Categories:
 
 {s:um}*Le personnage désoriente les créatures qu’il affecte avec un sort du registre du son. *
 
-**Catégorie.** [métamagie](./Dons.md#DONMETAMAGIE)
+**Catégorie.** [[dons#DONMETAMAGIE|métamagie]]
 
 **Avantage.** Une vague d’énergie perturbatrice accompagne les dégâts sonores du sort et s’abat sur les créatures qu’il affecte.
 
-Le sort percutant affecte les créatures victimes d’un sort du [registre](./Présentation des sorts.md#REGISTRE) du son et leur inflige un malus de -2 aux [jets d’attaque](./jet dattaque.md), [de sauvegarde](./jet de sauvegarde.md), [de compétence](./test de compétence.md) et de [caractéristique](./Caractéristiques.md) pendant un nombre de rounds égal au niveau réel du sort.
+Le sort percutant affecte les créatures victimes d’un sort du [[Présentation des sorts#REGISTRE|registre]] du son et leur inflige un malus de -2 aux [[jet dattaque|jets d’attaque]], [[jet de sauvegarde|de sauvegarde]], [[test de compétence|de compétence]] et de [[caractéristiques|caractéristique]] pendant un nombre de rounds égal au niveau réel du sort.
 
 Le sort percutant affecte seulement les sorts du registre du son.
 
-Un sort percutant utilise un [emplacement de sort](./emplacement de sort.md) de deux niveaux de plus que le niveau réel du sort.
+Un sort percutant utilise un [[emplacement de sort]] de deux niveaux de plus que le niveau réel du sort.

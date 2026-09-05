@@ -16,21 +16,21 @@ Categories:
 ---
 
 {s:UM}
-**École** [Transmutation](./Transmutation.md) ; **Niveau** [Alch](./Alchimiste.md) 3, [Inq](./Inquisiteur.md) 3, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 3, [Occ](./Occultiste.md) 3, [Psy](./Psychiste.md) 3, [San](./Sanguin.md) 3, [Sor](./Sorcière.md) 3  
+**École** [[Transmutation]] ; **Niveau** [[Alchimiste|Alch]] 3, [[Inquisiteur|Inq]] 3, [[Ensorceleur|Ens]]/[[Magicien|Mag]] 3, [[Occultiste|Occ]] 3, [[Psychiste|Psy]] 3, [[Sanguin|San]] 3, [[Sorcière|Sor]] 3  
 
-**Temps d’incantation** 1 [action simple](./Action simple.md)  
+**Temps d’incantation** 1 [[action simple]]  
 
-**Composantes** [V, G](./composantes.md)  
+**Composantes** [[Composantes|V, G]]  
 
-**Portée** [contact](./Présentation des sorts.md#PORTEE)  
+**Portée** [[Présentation des sorts#PORTEE|contact]]  
 
 **Cible** une créature touchée  
 
-**Durée** 1 heure/[niveau](./niveau.md)  
+**Durée** 1 heure/[[niveau]]  
 
-**Jet de sauvegarde** [Volonté](./Volonté.md) pour [annuler](./Présentation des sorts.md#JETSDESAUVEGARDE)
-([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE)) ; **Résistance à la magie** oui
-([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
+**Jet de sauvegarde** [[Volonté]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]]
+([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]]) ; **Résistance à la magie** oui
+([[Présentation des sorts#JETSDESAUVEGARDE|inoffensif]])
 
 La cible génère des yeux supplémentaires sur tout son corps, y compris derrière sa tête. Elle gagne
-[vision à 360°](./Vision à 360° (capacité).md) et ne peut être [prise en tenaille](./prise en tenaille.md).
+[[vision à 360° (capacité)|vision à 360°]] et ne peut être [[prise en tenaille]].
